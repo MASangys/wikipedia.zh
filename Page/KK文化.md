@@ -14,11 +14,7 @@
 
   - [CinderellaGroup.com.hk](http://www.cinderellagroup.com.hk)
 
-[Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink")
-[Category:娛樂公司](https://zh.wikipedia.org/wiki/Category:娛樂公司 "wikilink")
-[Category:香港製造公司](https://zh.wikipedia.org/wiki/Category:香港製造公司 "wikilink")
-[Category:印刷公司](https://zh.wikipedia.org/wiki/Category:印刷公司 "wikilink")
-[Category:香港上市服務業公司](https://zh.wikipedia.org/wiki/Category:香港上市服務業公司 "wikilink")
+[Category:2009年成立的公司](https://zh.wikipedia.org/wiki/Category:2009年成立的公司 "wikilink") [Category:娛樂公司](https://zh.wikipedia.org/wiki/Category:娛樂公司 "wikilink") [Category:香港製造公司](https://zh.wikipedia.org/wiki/Category:香港製造公司 "wikilink") [Category:印刷公司](https://zh.wikipedia.org/wiki/Category:印刷公司 "wikilink") [Category:香港上市服務業公司](https://zh.wikipedia.org/wiki/Category:香港上市服務業公司 "wikilink")
 
 1.  [先傳媒集團有限公司資料](http://www.cinderellagroup.com.hk/cht/corporate/)
 2.  [分拆上市通告](http://www.cinderellagroup.com.hk/upload/corporate/20090327/CW_Spin%20off%2027Mar09.pdf)

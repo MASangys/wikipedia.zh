@@ -1,10 +1,6 @@
-**變形金剛：Masterpiece**是[日本](../Page/日本.md "wikilink")TAKARA（，現‧[TAKARATOMY](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")）在2003年推出的[變形金剛產品線](https://zh.wikipedia.org/wiki/變形金剛 "wikilink")。以當今先進的技術重現Generation
-1動畫中的變形金剛。
+**變形金剛：Masterpiece**是[日本](../Page/日本.md "wikilink")TAKARA（，現‧[TAKARATOMY](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")）在2003年推出的[變形金剛產品線](https://zh.wikipedia.org/wiki/變形金剛 "wikilink")。以當今先進的技術重現Generation 1動畫中的變形金剛。
 
-另外，TAKARATOMY的Masterpiece系列已經出現了幾個分線，代表《[勇者系列](../Page/勇者系列.md "wikilink")》的"masterpiece
-brave" ,代表變形金剛真人電影系列的"Masterpiece
-Movie"和代表《[索斯機械獸](../Page/索斯機械獸.md "wikilink")》系列的"Masterpiece
-Zoids"
+另外，TAKARATOMY的Masterpiece系列已經出現了幾個分線，代表《[勇者系列](../Page/勇者系列.md "wikilink")》的"masterpiece brave" ,代表變形金剛真人電影系列的"Masterpiece Movie"和代表《[索斯機械獸](../Page/索斯機械獸.md "wikilink")》系列的"Masterpiece Zoids"
 
 ## 日本版產品一覽
 
@@ -136,21 +132,13 @@ Zoids"
 
 ## 外部連結
 
-  - [takaratomy《變形金剛：Masterpiece》官方網站
-    (日語)](https://web.archive.org/web/20110927075615/http://tf.takaratomy.co.jp/toy/search/masterpiece/index.html)
-  - [TakaraTomy Staff Interview -
-    Masterpiece](http://www.tfw2005.com/transformers-news/japanese-transformers-40/takaratomy-staff-interview-masterpiece-174660/)
-  - [TakaraTomy Staff Interview - Shogo Hasui on
-    Masterpiece](http://www.tfw2005.com/transformers-news/transformers-masterpiece-47/takaratomy-staff-interview-shogo-hasui-on-masterpiece-180877/)
-  - [TakaraTomy Staff Interview - Hironori Kobayashi on
-    Masterpiece](http://www.tfw2005.com/transformers-news/transformers-masterpiece-47/takaratomy-staff-interview-hironori-kobayashi-on-masterpiece-180869/)
-  - [TakaraTomy Staff Interview - Hisashi Yuki on
-    Masterpiece](http://www.tfw2005.com/transformers-news/transformers-masterpiece-47/takaratomy-staff-interview-hisashi-yuki-on-masterpiece-180888/)
-  - [TakaraTomy Staff Interview - Noriaki Maeda on
-    Masterpiece](http://www.tfw2005.com/transformers-news/transformers-masterpiece-47/takaratomy-staff-interview-noriaki-maeda-on-masterpiece-180911/)
-  - [Shogo Hasui interview on Masterpiece from April
-    Figure-oh](http://www.tfw2005.com/transformers-news/transformers-masterpiece-47/shogo-hasui-interview-on-masterpiece-from-april-figure-oh-179419/)
-  - [Shogo Hasui on
-    Masterpiece](http://www.tfw2005.com/boards/transformers-news-rumors/832190-takaratomy-staff-interview-shogo-hasui-masterpiece.html)
+  - [takaratomy《變形金剛：Masterpiece》官方網站 (日語)](https://web.archive.org/web/20110927075615/http://tf.takaratomy.co.jp/toy/search/masterpiece/index.html)
+  - [TakaraTomy Staff Interview - Masterpiece](http://www.tfw2005.com/transformers-news/japanese-transformers-40/takaratomy-staff-interview-masterpiece-174660/)
+  - [TakaraTomy Staff Interview - Shogo Hasui on Masterpiece](http://www.tfw2005.com/transformers-news/transformers-masterpiece-47/takaratomy-staff-interview-shogo-hasui-on-masterpiece-180877/)
+  - [TakaraTomy Staff Interview - Hironori Kobayashi on Masterpiece](http://www.tfw2005.com/transformers-news/transformers-masterpiece-47/takaratomy-staff-interview-hironori-kobayashi-on-masterpiece-180869/)
+  - [TakaraTomy Staff Interview - Hisashi Yuki on Masterpiece](http://www.tfw2005.com/transformers-news/transformers-masterpiece-47/takaratomy-staff-interview-hisashi-yuki-on-masterpiece-180888/)
+  - [TakaraTomy Staff Interview - Noriaki Maeda on Masterpiece](http://www.tfw2005.com/transformers-news/transformers-masterpiece-47/takaratomy-staff-interview-noriaki-maeda-on-masterpiece-180911/)
+  - [Shogo Hasui interview on Masterpiece from April Figure-oh](http://www.tfw2005.com/transformers-news/transformers-masterpiece-47/shogo-hasui-interview-on-masterpiece-from-april-figure-oh-179419/)
+  - [Shogo Hasui on Masterpiece](http://www.tfw2005.com/boards/transformers-news-rumors/832190-takaratomy-staff-interview-shogo-hasui-masterpiece.html)
 
 [Category:_變形金剛](https://zh.wikipedia.org/wiki/Category:_變形金剛 "wikilink")

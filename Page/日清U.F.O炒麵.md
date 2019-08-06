@@ -42,9 +42,7 @@
 
 ## 外部資訊
 
-[Category:日清食品](https://zh.wikipedia.org/wiki/Category:日清食品 "wikilink")
-[Category:即食麵](https://zh.wikipedia.org/wiki/Category:即食麵 "wikilink")
-[Category:1976年面世的產品](https://zh.wikipedia.org/wiki/Category:1976年面世的產品 "wikilink")
+[Category:日清食品](https://zh.wikipedia.org/wiki/Category:日清食品 "wikilink") [Category:即食麵](https://zh.wikipedia.org/wiki/Category:即食麵 "wikilink") [Category:1976年面世的產品](https://zh.wikipedia.org/wiki/Category:1976年面世的產品 "wikilink")
 
 1.  当時の社長が試作品の蓋を開けるときに飛ばしてしまった事に由来する、と言うエピソードを[浜村淳が語っている](https://zh.wikipedia.org/wiki/浜村淳 "wikilink")。(2011年10月25日)
 

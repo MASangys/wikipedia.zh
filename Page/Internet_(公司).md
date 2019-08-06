@@ -10,8 +10,7 @@
 
   - [INTERNET公司 官方網站](http://www.ssw.co.jp/)
 
-:\*
-[域名](../Page/域名.md "wikilink")的「ssw」取自「[唱作人](https://zh.wikipedia.org/wiki/唱作人 "wikilink")（）」的簡寫。
+:\* [域名](../Page/域名.md "wikilink")的「ssw」取自「[唱作人](https://zh.wikipedia.org/wiki/唱作人 "wikilink")（）」的簡寫。
 
 [Category:软件公司](https://zh.wikipedia.org/wiki/Category:软件公司 "wikilink")
 

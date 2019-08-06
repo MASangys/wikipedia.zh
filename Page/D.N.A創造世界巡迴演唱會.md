@@ -1,5 +1,12 @@
-**DNA創造世界巡迴演唱會**
-是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")的[巡迴演演唱會](https://zh.wikipedia.org/wiki/五月天演唱會列表 "wikilink")，此次巡迴演唱會自2009年5月20日於三場[香港](../Page/香港.md "wikilink")[香港體育館](../Page/香港體育館.md "wikilink")首站揭開序幕。2010年7月24日於台中舉行「變形DNA·無限放大版」最終站，並拍攝成3D演唱會《3DNA》，2011年9月16日在台上映。
+**DNA創造世界巡迴演唱會**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")的第七次大型演唱會，亦是他們第三次舉行的世界巡迴演唱會。此次巡迴演唱會自2009年5月20日於三場[香港](../Page/香港.md "wikilink")[香港體育館](../Page/香港體育館.md "wikilink")首站揭開序幕。2010年7月24日於台中舉行「變形DNA·無限放大版」最終站，並拍攝成3D演唱會《3DNA》，2011年9月16日在台上映。
+
+## 背景
+
+2009年3月19日，五月天正式宣布全新巡迴「D.N.A創造世界巡迴演唱會」於5月20日至22日從香港起跑。在演唱會當日，演唱兩首新歌，分別為巡迴主題曲〈DNA〉以及百事可樂蓋世群音亞洲區活動代言曲〈放肆〉。
+
+2009年6月17日，於2009年9月24日至27日舉行的「DNA創造演唱會」台北旗艦場開始售票，造成年代售票、ibon等售票系統大當機，最後加至四場，超越前次「離開地球表面」的三場。為台灣第一場EXPO Concert。 2009年9月24、25日，兩場演唱會舉行時間超過夜間11點，2009年9月26、27日兩場演唱會皆超過凌晨12點，礙於小巨蛋的場地規定，相信音樂於9月26日的23:59分、9月27日的23:55分斷電，為媒體大篇幅報導。於9月24日在台北演唱會結束時公布的「創造55555人：DNA無限放大版」，2009年12月5日於高雄[國家體育場圓滿結束](../Page/國家體育場_\(高雄市\).md "wikilink")，五月天所帶來的盛大人潮亦為高雄當地帶來不少商機。
+
+2010演唱會主題以延續2009年「創造DNA」為主，到曾經造訪過的國家舉行以「變形DNA」為主題的演唱會。第44場最終場在台灣台中舉行，演唱會拍攝為3D電影《[五月天追夢3DNA](../Page/五月天追夢3DNA.md "wikilink")》，電影主題曲〈OAOA〉亦在該場次搶先曝光。追求完美的五月天，破天荒於演唱會結束後重唱〈DNA〉和〈離開地球表面〉與[Magic Power](https://zh.wikipedia.org/wiki/Magic_Power "wikilink")〈Get Out〉組曲，最後以著名動畫《[我們這一家](../Page/我們這一家.md "wikilink")》的片頭曲〈期待再相逢〉為這兩年的大型巡迴畫下完美句點。
 
 ## 演唱會資訊
 
@@ -449,12 +456,7 @@
 
 [分類:五月天](https://zh.wikipedia.org/wiki/分類:五月天 "wikilink")
 
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
-[Category:五月天巡迴演唱會](https://zh.wikipedia.org/wiki/Category:五月天巡迴演唱會 "wikilink")
-[Category:2009年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2009年巡迴演唱會 "wikilink")
-[Category:2010年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2010年巡迴演唱會 "wikilink")
+[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink") [Category:五月天巡迴演唱會](https://zh.wikipedia.org/wiki/Category:五月天巡迴演唱會 "wikilink") [Category:2009年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2009年巡迴演唱會 "wikilink") [Category:2010年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2010年巡迴演唱會 "wikilink")
 
 1.  [相信音樂\>DNA世界巡迴「BENQ五月天創造演唱會」台北場！應歌迷強烈要求緊急提前開票！](http://bin-music.com.tw/tw/news159.htmlt/)
-
-2.  [佳佳唱片行\>DNA 五月天「創造」演唱會影音全紀錄 - 平裝版 3區／DNA WORLD TOUR IN
-    LIVE 3區](http://www.ccr.com.tw/goods/249895)
+2.  [佳佳唱片行\>DNA 五月天「創造」演唱會影音全紀錄 - 平裝版 3區／DNA WORLD TOUR IN LIVE 3區](http://www.ccr.com.tw/goods/249895)

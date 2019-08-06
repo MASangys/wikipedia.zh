@@ -13,8 +13,7 @@
 
 ## 歷史
 
-  - 1991年3月19日 -
-    [東名阪自動車道](../Page/東名阪自動車道.md "wikilink")（均一區間）[清洲東IC至](https://zh.wikipedia.org/wiki/清洲東IC "wikilink")[勝川IC開通](https://zh.wikipedia.org/wiki/勝川IC "wikilink")，此交流道也同時啟用。
+  - 1991年3月19日 - [東名阪自動車道](../Page/東名阪自動車道.md "wikilink")（均一區間）[清洲東IC至](https://zh.wikipedia.org/wiki/清洲東IC "wikilink")[勝川IC開通](https://zh.wikipedia.org/wiki/勝川IC "wikilink")，此交流道也同時啟用。
   - 2011年3月20日 - 東名阪自動車道（均一區間）名古屋西JCT至高針JCT的區間編入為名古屋第二環狀自動車道路段。
 
 ## 交流道周邊
@@ -29,9 +28,7 @@
 ## 鄰近設施
 
   - [名古屋第二環狀自動車道](../Page/名古屋第二環狀自動車道.md "wikilink")
-    (12)[楠IC](https://zh.wikipedia.org/wiki/楠IC "wikilink") -
-    (13)[楠JCT](https://zh.wikipedia.org/wiki/楠JCT "wikilink") -
-    (14)**山田東IC** - (15)[山田西IC](../Page/山田西IC.md "wikilink")
+    (12)[楠IC](https://zh.wikipedia.org/wiki/楠IC "wikilink") - (13)[楠JCT](https://zh.wikipedia.org/wiki/楠JCT "wikilink") - (14)**山田東IC** - (15)[山田西IC](../Page/山田西IC.md "wikilink")
 
 ## 相關項目
 
@@ -41,5 +38,4 @@
 
   - [中日本高速道路](http://www.c-nexco.co.jp/)
 
-[Category:日本交流道_Ya](https://zh.wikipedia.org/wiki/Category:日本交流道_Ya "wikilink")
-[Category:愛知縣交流道](https://zh.wikipedia.org/wiki/Category:愛知縣交流道 "wikilink")
+[Category:日本交流道_Ya](https://zh.wikipedia.org/wiki/Category:日本交流道_Ya "wikilink") [Category:愛知縣交流道](https://zh.wikipedia.org/wiki/Category:愛知縣交流道 "wikilink")

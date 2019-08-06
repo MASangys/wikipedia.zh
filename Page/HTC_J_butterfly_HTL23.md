@@ -1,18 +1,10 @@
-**HTC J butterfly HTL23**（國際版名稱：**HTC Butterfly
-2**）是[台湾手机公司](https://zh.wikipedia.org/wiki/台湾 "wikilink")[宏达电與](https://zh.wikipedia.org/wiki/宏达电 "wikilink")[au](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink")2014年所合作开发的新一代日本客製款[智能手机](../Page/智能手机.md "wikilink")，並將部分功能改款後於亞洲地區上市（中國大陸除外），在台灣屬於**HTC
-Butterfly**系列中的高階旗舰机型，於2014年7月31日由[au的夏季發表會發表](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink")，8月19日於HTC日本分公司於東京另外舉辦發表會「HTC
-Conference Tokyo
-2014」，發表會中同時發表國際板型號，並公布日本版於8月29日發售、國際版台灣9月2日發售\[1\]。台灣版本已通過NCC驗證並命名為「**HTC
-Butterfly 2**」\[2\]\[3\]。
+**HTC J butterfly HTL23**（國際版名稱：**HTC Butterfly 2**）是[台湾手机公司](https://zh.wikipedia.org/wiki/台湾 "wikilink")[宏达电與](https://zh.wikipedia.org/wiki/宏达电 "wikilink")[au](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink")2014年所合作开发的新一代日本客製款[智能手机](../Page/智能手机.md "wikilink")，並將部分功能改款後於亞洲地區上市（中國大陸除外），在台灣屬於**HTC Butterfly**系列中的高階旗舰机型，於2014年7月31日由[au的夏季發表會發表](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink")，8月19日於HTC日本分公司於東京另外舉辦發表會「HTC Conference Tokyo 2014」，發表會中同時發表國際板型號，並公布日本版於8月29日發售、國際版台灣9月2日發售\[1\]。台灣版本已通過NCC驗證並命名為「**HTC Butterfly 2**」\[2\]\[3\]。
 
 ## 特點\[4\]\[5\]
 
-  - 本機為HTC首次最高規格的防水防塵機種，且為未加防水蓋類型的防水，防水係數達IPX5/IPX7、防塵IP5X，第一代的[HTC
-    Butterfly僅支持IPX](../Page/HTC_Butterfly.md "wikilink")5的生活防水（中國大陸版本為IP55防水防塵）。
+  - 本機為HTC首次最高規格的防水防塵機種，且為未加防水蓋類型的防水，防水係數達IPX5/IPX7、防塵IP5X，第一代的[HTC Butterfly僅支持IPX](../Page/HTC_Butterfly.md "wikilink")5的生活防水（中國大陸版本為IP55防水防塵）。
   - 此次與M8皆採用「Duo Camera」，但主鏡頭規格由M8的UltraPixel相機改為1300萬畫素相機。
-  - 本次日本版附贈的耳機為[哈曼卡頓](../Page/哈曼卡頓.md "wikilink")旗下品牌「JBL」合作的耳機「JBL
-    J22a-h
-    入耳式耳機」，並附贈收納包（台灣版改活動贈送），美國電信商[Sprint](../Page/Sprint.md "wikilink")的限定版M8，HTC即與[哈曼卡頓](../Page/哈曼卡頓.md "wikilink")合作過，本次將搭載JBL®LiveStage™音效來配合耳機播放效果。
+  - 本次日本版附贈的耳機為[哈曼卡頓](../Page/哈曼卡頓.md "wikilink")旗下品牌「JBL」合作的耳機「JBL J22a-h 入耳式耳機」，並附贈收納包（台灣版改活動贈送），美國電信商[Sprint](../Page/Sprint.md "wikilink")的限定版M8，HTC即與[哈曼卡頓](../Page/哈曼卡頓.md "wikilink")合作過，本次將搭載JBL®LiveStage™音效來配合耳機播放效果。
   - 與其他高階機種M8、E8相同皆能搭配專屬的「Dot View」保護套，共有灰、藍、橘三色。
   - 本次發售三色分別為「陶瓷白」、「胭脂紅」、「午夜藍」，其中陶瓷白機種正反面皆為白色，且機殼為磨砂質感並塗上特殊抗污塗層來展現有如日本瓷器的質感，而藍、紅色則皆採用拋光材質，並有如跑車的烤漆質感。
   - 本機為HTC在台灣地區開賣的首款同時搭載FDD-LTE以及TDD-LTE的手機，能在中港台暢遊4G。
@@ -207,9 +199,7 @@ HTC SENSE™ TV、HTC Connect™</p></td>
 
 ## 產品代言
 
-本次代言人為代言HTC日本J系列（J
-one除外）的[乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")，本次為第三度為「HTC
-J系列」代言，並於發表會中首次披露新曲〈〉\[8\]。
+本次代言人為代言HTC日本J系列（J one除外）的[乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")，本次為第三度為「HTC J系列」代言，並於發表會中首次披露新曲〈〉\[8\]。
 
 ## 軟體
 
@@ -261,21 +251,15 @@ J系列」代言，並於發表會中首次披露新曲〈〉\[8\]。
 
 ## 外部連結
 
-  - [HTC J butterfly HTL23 -
-    HTC日本](http://www.htc.com/jp/smartphones/htl23/)
-  - [HTC Butterfly 2 -
-    HTC台灣](http://www.htc.com/tw/smartphones/htc-butterfly-2/)
+  - [HTC J butterfly HTL23 - HTC日本](http://www.htc.com/jp/smartphones/htl23/)
+  - [HTC Butterfly 2 - HTC台灣](http://www.htc.com/tw/smartphones/htc-butterfly-2/)
 
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
+[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
 
 1.
-2.  [HTC 蝴蝶 2：J Butterfly HTL23
-    日版發表](http://www.eprice.com.tw/mobile/talk/4542/4909432/1/rv/htc-butterfly-2-%E8%9D%B4%E8%9D%B6-2-launch/)e-price，103年7月31日
+2.  [HTC 蝴蝶 2：J Butterfly HTL23 日版發表](http://www.eprice.com.tw/mobile/talk/4542/4909432/1/rv/htc-butterfly-2-%E8%9D%B4%E8%9D%B6-2-launch/)e-price，103年7月31日
 3.
-4.  [2つのレンズで奥行き感が楽しめるデュオカメラを搭載\! 新しい「HTC J
-    butterfly」について](http://news.kddi.com/kddi/corporate/newsrelease/2014/07/31/539.html)[au](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink")，103年7月31日
+4.  [2つのレンズで奥行き感が楽しめるデュオカメラを搭載\! 新しい「HTC J butterfly」について](http://news.kddi.com/kddi/corporate/newsrelease/2014/07/31/539.html)[au](https://zh.wikipedia.org/wiki/au_\(行動電話\) "wikilink")，103年7月31日
 5.
 6.
 7.

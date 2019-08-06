@@ -1,5 +1,4 @@
-《**Do You Hear the People
-Sing?**》（），中文譯名有很多種（見譯名段落），是[法國大文豪](https://zh.wikipedia.org/wiki/法國 "wikilink")[雨果小說](https://zh.wikipedia.org/wiki/雨果 "wikilink")《[悲惨世界](../Page/悲惨世界.md "wikilink")》的同名改編[音樂劇](../Page/音樂劇.md "wikilink")《[悲慘世界](../Page/悲慘世界_\(音樂劇\).md "wikilink")》中的一首著名[歌曲](../Page/歌曲.md "wikilink")，樂曲背景為自[拿破崙戰爭](../Page/拿破崙戰爭.md "wikilink")到1832年法國爆發意圖推翻[七月王朝](../Page/七月王朝.md "wikilink")的[六月起義](https://zh.wikipedia.org/wiki/六月起義 "wikilink")，曲風激昂悲壯，被視為反[極權統治的](https://zh.wikipedia.org/wiki/極權 "wikilink")[革命](../Page/革命.md "wikilink")代表歌曲之一\[1\]。
+《**Do You Hear the People Sing?**》（），中文譯名有很多種（見譯名段落），是[法國大文豪](https://zh.wikipedia.org/wiki/法國 "wikilink")[雨果小說](https://zh.wikipedia.org/wiki/雨果 "wikilink")《[悲惨世界](../Page/悲惨世界.md "wikilink")》的同名改編[音樂劇](../Page/音樂劇.md "wikilink")《[悲慘世界](../Page/悲慘世界_\(音樂劇\).md "wikilink")》中的一首著名[歌曲](../Page/歌曲.md "wikilink")，樂曲背景為自[拿破崙戰爭](../Page/拿破崙戰爭.md "wikilink")到1832年法國爆發意圖推翻[七月王朝](../Page/七月王朝.md "wikilink")的[六月起義](https://zh.wikipedia.org/wiki/六月起義 "wikilink")，曲風激昂悲壯，被視為反[極權統治的](https://zh.wikipedia.org/wiki/極權 "wikilink")[革命](../Page/革命.md "wikilink")代表歌曲之一\[1\]。
 
 ## 华语譯名
 
@@ -258,11 +257,11 @@ Sing?**》（），中文譯名有很多種（見譯名段落），是[法國大
 [AdmiraltyUmbrellaRevolution.JPG](https://zh.wikipedia.org/wiki/File:AdmiraltyUmbrellaRevolution.JPG "fig:AdmiraltyUmbrellaRevolution.JPG")的口号之一。\]\]
 
   - 這首歌在台灣被改編成[台語版本的](https://zh.wikipedia.org/wiki/台語 "wikilink")《[你敢有聽着咱的歌](../Page/你敢有聽着咱的歌.md "wikilink")》，在[大埔事件](../Page/大埔事件.md "wikilink")、[洪仲丘事件](../Page/洪仲丘事件.md "wikilink")（[白衫軍運動](../Page/白衫軍運動.md "wikilink")）、[太陽花學運](../Page/太陽花學運.md "wikilink")等事件中多次出現，也有人改編成[漢語版及](https://zh.wikipedia.org/wiki/漢語 "wikilink")[客語版](https://zh.wikipedia.org/wiki/客語 "wikilink")，但較未像閩南語版那樣廣為流傳。
-  - 这首歌在香港被改编成[粤语](../Page/粤语.md "wikilink")版本的《[問誰未發聲](https://zh.wikipedia.org/wiki/:zh-tw:問誰未發聲 "wikilink")（孩子问：問誰未觉醒)》，在[和平佔中](https://zh.wikipedia.org/wiki/和平佔中 "wikilink")（[雨伞革命和](https://zh.wikipedia.org/wiki/雨伞革命 "wikilink")[反對逃犯條例修訂草案遊行與集會列表](../Page/反對逃犯條例修訂草案遊行與集會列表.md "wikilink")事件中出现。\[11\]
+  - 这首歌在香港被改编成[粤语](../Page/粤语.md "wikilink")版本的《[問誰未發聲](https://zh.wikipedia.org/wiki/:zh-tw:問誰未發聲 "wikilink")（孩子问：問誰未觉醒)》，在[和平佔中](https://zh.wikipedia.org/wiki/和平佔中 "wikilink")（[雨伞革命和](https://zh.wikipedia.org/wiki/雨伞革命 "wikilink")[反對逃犯條例修訂草案遊行與集會列表](../Page/反對逃犯條例修訂草案遊行與集會列表.md "wikilink")事件中出现，并因而遭到中国大陆部分平台的屏蔽。\[11\]\[12\]
 
 ## 政治中的使用
 
-2016年9月16日，美国共和党总统候选人[唐納德·川普在](https://zh.wikipedia.org/wiki/唐納德·川普 "wikilink")[迈阿密](../Page/迈阿密.md "wikilink")的竞选活动中用到了这首歌曲。\[12\]\[13\]
+2016年9月16日，美国共和党总统候选人[唐納德·川普在](https://zh.wikipedia.org/wiki/唐納德·川普 "wikilink")[迈阿密](../Page/迈阿密.md "wikilink")的竞选活动中用到了这首歌曲。\[13\]\[14\]
 
 ## 外部連結
 
@@ -275,24 +274,16 @@ Sing?**》（），中文譯名有很多種（見譯名段落），是[法國大
 
   - 《[悲惨世界](../Page/悲惨世界.md "wikilink")》
 
-[Category:法國歌曲](https://zh.wikipedia.org/wiki/Category:法國歌曲 "wikilink")
-[Category:悲惨世界](https://zh.wikipedia.org/wiki/Category:悲惨世界 "wikilink")
-[Category:抗议歌曲](https://zh.wikipedia.org/wiki/Category:抗议歌曲 "wikilink")
-[Category:音乐剧歌曲](https://zh.wikipedia.org/wiki/Category:音乐剧歌曲 "wikilink")
-[Category:雨傘革命歌曲](https://zh.wikipedia.org/wiki/Category:雨傘革命歌曲 "wikilink")
+[Category:法國歌曲](https://zh.wikipedia.org/wiki/Category:法國歌曲 "wikilink") [Category:悲惨世界](https://zh.wikipedia.org/wiki/Category:悲惨世界 "wikilink") [Category:抗议歌曲](https://zh.wikipedia.org/wiki/Category:抗议歌曲 "wikilink") [Category:音乐剧歌曲](https://zh.wikipedia.org/wiki/Category:音乐剧歌曲 "wikilink") [Category:雨傘革命歌曲](https://zh.wikipedia.org/wiki/Category:雨傘革命歌曲 "wikilink")
 
-1.  [歌聲背後：《問誰未發聲》
-    齊Sing抗爭](http://hk.apple.nextmedia.com/entertainment/art/20140614/18758245)
+1.  [歌聲背後：《問誰未發聲》 齊Sing抗爭](http://hk.apple.nextmedia.com/entertainment/art/20140614/18758245)
 
-2.  [中文演唱2分钟起 Do You Hear The People Sing?悲惨世界 民众呐喊 人民之歌 in Chinese
-    from 2:00 闪聚
-    快闪](https://www.youtube.com/watch?v=6p5jL7M325U&list=PLq6GAPInDuO5cGdvHIWZXm6RMt8FZYjDg)
+2.  [中文演唱2分钟起 Do You Hear The People Sing?悲惨世界 民众呐喊 人民之歌 in Chinese from 2:00 闪聚 快闪](https://www.youtube.com/watch?v=6p5jL7M325U&list=PLq6GAPInDuO5cGdvHIWZXm6RMt8FZYjDg)
 
 3.
 4.  現代標準漢語版：[人群的歌聲高騰](http://www.youtube.com/watch?v=jYIS_dAQxJE)
 
-5.  客家語版：[Ngi̠ gàm-yiú táng-dò én chong-gó on
-    Youtube](http://www.youtube.com/watch?v=kry12wf_cjw)
+5.  客家語版：[Ngi̠ gàm-yiú táng-dò én chong-gó on Youtube](http://www.youtube.com/watch?v=kry12wf_cjw)
 
 6.  [你敢有聽著咱唱歌-臺語版-Youtube](https://www.youtube.com/watch?v=EmmXB4RLc-M)
 
@@ -308,3 +299,5 @@ Sing?**》（），中文譯名有很多種（見譯名段落），是[法國大
 12.
 
 13.
+
+14.

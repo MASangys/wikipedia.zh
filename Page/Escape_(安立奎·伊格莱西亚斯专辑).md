@@ -41,10 +41,8 @@
 
 ## 外部链接
 
-  - [Enrique Iglesias
-    lyrics](http://www.inetlyrics.com/enrique_iglesias.htm)
+  - [Enrique Iglesias lyrics](http://www.inetlyrics.com/enrique_iglesias.htm)
 
-[Category:恩里克·伊格莱西亚斯专辑](https://zh.wikipedia.org/wiki/Category:恩里克·伊格莱西亚斯专辑 "wikilink")
-[Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink")
+[Category:恩里克·伊格莱西亚斯专辑](https://zh.wikipedia.org/wiki/Category:恩里克·伊格莱西亚斯专辑 "wikilink") [Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink")
 
 1.  <http://www.aria.com.au/pages/aria-charts-end-of-year-charts-top-100-albums-2002.htm>

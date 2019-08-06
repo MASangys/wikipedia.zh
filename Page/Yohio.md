@@ -1,6 +1,4 @@
-**YOHIO**（Kevin Johio Lucas Rehn
-Eires，），是瑞典籍[瑞典](../Page/瑞典.md "wikilink")和[日本](../Page/日本.md "wikilink")的歌手、詞曲作者。Yohio通常穿著一個[洛麗塔裝扮和裝扮為雌雄同體的在舞台上表演](https://zh.wikipedia.org/wiki/洛麗塔 "wikilink")。他也曾是瑞典搖滾團體Seremedy的團員。為電腦軟體《[Vocaloid
-3](https://zh.wikipedia.org/wiki/Vocaloid_3 "wikilink")》的虛擬歌手[YOHIOloid提供聲源](https://zh.wikipedia.org/wiki/YOHIOloid "wikilink")。
+**YOHIO**（Kevin Johio Lucas Rehn Eires，），是瑞典籍[瑞典](../Page/瑞典.md "wikilink")和[日本](../Page/日本.md "wikilink")的歌手、詞曲作者。Yohio通常穿著一個[洛麗塔裝扮和裝扮為雌雄同體的在舞台上表演](https://zh.wikipedia.org/wiki/洛麗塔 "wikilink")。他也曾是瑞典搖滾團體Seremedy的團員。為電腦軟體《[Vocaloid 3](https://zh.wikipedia.org/wiki/Vocaloid_3 "wikilink")》的虛擬歌手[YOHIOloid提供聲源](https://zh.wikipedia.org/wiki/YOHIOloid "wikilink")。
 
 ## 個人生活
 
@@ -14,15 +12,11 @@ Eires，），是瑞典籍[瑞典](../Page/瑞典.md "wikilink")和[日本](../P
 
 ### 2013年：瑞典旋律节
 
-參加[2013年瑞典旋律节第一場預賽以歌曲](https://zh.wikipedia.org/wiki/2013年瑞典旋律节 "wikilink")《Heartbreak
-Hotel》贏得第一名進入決賽，決賽中以133分僅次於冠軍[Robin
-Stjernberg](https://zh.wikipedia.org/wiki/Robin_Stjernberg "wikilink")166分的成績拿下第二名，沒能進入[2013年歐洲歌唱大賽](https://zh.wikipedia.org/wiki/2013年歐洲歌唱大賽 "wikilink")。
+參加[2013年瑞典旋律节第一場預賽以歌曲](https://zh.wikipedia.org/wiki/2013年瑞典旋律节 "wikilink")《Heartbreak Hotel》贏得第一名進入決賽，決賽中以133分僅次於冠軍[Robin Stjernberg](https://zh.wikipedia.org/wiki/Robin_Stjernberg "wikilink")166分的成績拿下第二名，沒能進入[2013年歐洲歌唱大賽](https://zh.wikipedia.org/wiki/2013年歐洲歌唱大賽 "wikilink")。
 
 ### 2015年：新演藝展開
 
-2015年再組新團DISREIGN，以暗黑風格，帶來全新作品《UNTIL THE FADE》
-這次YOHIO一改過去清爽少年或甜美少女形象，以全新暗黑風格現身，。他除了找來前團Seremedy的貝斯手JENZiiH之外，
-更有結他手Valentin及鼓手Tias加入,樂團歌唱的語言將主要以日本語為主外，更有機會到日本演出。
+2015年再組新團DISREIGN，以暗黑風格，帶來全新作品《UNTIL THE FADE》 這次YOHIO一改過去清爽少年或甜美少女形象，以全新暗黑風格現身，。他除了找來前團Seremedy的貝斯手JENZiiH之外， 更有結他手Valentin及鼓手Tias加入,樂團歌唱的語言將主要以日本語為主外，更有機會到日本演出。
 
 ## 音樂作品
 
@@ -92,10 +86,4 @@ Stjernberg](https://zh.wikipedia.org/wiki/Robin_Stjernberg "wikilink")166分的�
 </tbody>
 </table>
 
-[Category:瑞典男歌手](https://zh.wikipedia.org/wiki/Category:瑞典男歌手 "wikilink")
-[Category:瑞典流行音乐歌手](https://zh.wikipedia.org/wiki/Category:瑞典流行音乐歌手 "wikilink")
-[Category:瑞典英语歌手](https://zh.wikipedia.org/wiki/Category:瑞典英语歌手 "wikilink")
-[Category:日语歌手](https://zh.wikipedia.org/wiki/Category:日语歌手 "wikilink")
-[Category:瑞典旋律节参赛者](https://zh.wikipedia.org/wiki/Category:瑞典旋律节参赛者 "wikilink")
-[Category:斯德哥爾摩人](https://zh.wikipedia.org/wiki/Category:斯德哥爾摩人 "wikilink")
-[Category:偽娘](https://zh.wikipedia.org/wiki/Category:偽娘 "wikilink")
+[Category:瑞典男歌手](https://zh.wikipedia.org/wiki/Category:瑞典男歌手 "wikilink") [Category:瑞典流行音乐歌手](https://zh.wikipedia.org/wiki/Category:瑞典流行音乐歌手 "wikilink") [Category:瑞典英语歌手](https://zh.wikipedia.org/wiki/Category:瑞典英语歌手 "wikilink") [Category:日语歌手](https://zh.wikipedia.org/wiki/Category:日语歌手 "wikilink") [Category:瑞典旋律节参赛者](https://zh.wikipedia.org/wiki/Category:瑞典旋律节参赛者 "wikilink") [Category:斯德哥爾摩人](https://zh.wikipedia.org/wiki/Category:斯德哥爾摩人 "wikilink") [Category:偽娘](https://zh.wikipedia.org/wiki/Category:偽娘 "wikilink")

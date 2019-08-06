@@ -1,5 +1,4 @@
-**KBS 1TV日日連續劇**（）是[KBS
-1TV於](https://zh.wikipedia.org/wiki/KBS第1频道 "wikilink")[週一至](https://zh.wikipedia.org/wiki/週一 "wikilink")[週五晚上](https://zh.wikipedia.org/wiki/週五 "wikilink")8時30分所撥出的時段。
+**KBS 1TV日日連續劇**（）是[KBS 1TV於](https://zh.wikipedia.org/wiki/KBS第1频道 "wikilink")[週一至](https://zh.wikipedia.org/wiki/週一 "wikilink")[週五晚上](https://zh.wikipedia.org/wiki/週五 "wikilink")8時30分所撥出的時段。
 
 ## 作品列表
 
@@ -993,6 +992,4 @@
   - [SBS日日連續劇](../Page/SBS日日連續劇.md "wikilink")
   - [JTBC日日連續劇](../Page/JTBC日日連續劇.md "wikilink")
 
-[Category:KBS_1TV日日連續劇](https://zh.wikipedia.org/wiki/Category:KBS_1TV日日連續劇 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
+[Category:KBS_1TV日日連續劇](https://zh.wikipedia.org/wiki/Category:KBS_1TV日日連續劇 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")

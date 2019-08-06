@@ -16,8 +16,7 @@
 
   - 2014年12月4日'''
 
-:\*宣佈了直播時段中的第二聲道“紅白幕後Talk
-Channel”（）的主持人是二人搞笑組合[「香蕉人」](../Page/香蕉人_\(搞笑組合\).md "wikilink")（[設樂統](../Page/設樂統.md "wikilink")及[日村勇紀](https://zh.wikipedia.org/wiki/日村勇紀 "wikilink")）\[3\]，而負責[電台廣播解說的則是](https://zh.wikipedia.org/wiki/電台 "wikilink")与。
+:\*宣佈了直播時段中的第二聲道“紅白幕後Talk Channel”（）的主持人是二人搞笑組合[「香蕉人」](../Page/香蕉人_\(搞笑組合\).md "wikilink")（[設樂統](../Page/設樂統.md "wikilink")及[日村勇紀](https://zh.wikipedia.org/wiki/日村勇紀 "wikilink")）\[3\]，而負責[電台廣播解說的則是](https://zh.wikipedia.org/wiki/電台 "wikilink")与。
 
   - 2014年12月23日
 
@@ -277,15 +276,10 @@ Channel”（）的主持人是二人搞笑組合[「香蕉人」](../Page/香�
 
   -
   -
-[Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink")
-[Category:嵐](https://zh.wikipedia.org/wiki/Category:嵐 "wikilink")
-[Category:2014年音樂](https://zh.wikipedia.org/wiki/Category:2014年音樂 "wikilink")
-[Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink")
+[Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink") [Category:嵐](https://zh.wikipedia.org/wiki/Category:嵐 "wikilink") [Category:2014年音樂](https://zh.wikipedia.org/wiki/Category:2014年音樂 "wikilink") [Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink")
 
 1.
 2.
 3.  [バナナマンが紅白宣伝部社員に、当日は副音声「ウラトークチャンネル」も](http://natalie.mu/owarai/news/131671)，Natalie，2014年11月19日。
 4.
-5.  [红白歌会后半收视率42.2%
-    未及年度第一。](http://ent.cntv.cn/2015/01/05/ARTI1420421821284887.shtml)
-    央視網娛樂（轉載至新浪娱樂，2015年1月5日。）
+5.  [红白歌会后半收视率42.2% 未及年度第一。](http://ent.cntv.cn/2015/01/05/ARTI1420421821284887.shtml) 央視網娛樂（轉載至新浪娱樂，2015年1月5日。）

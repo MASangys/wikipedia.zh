@@ -1,10 +1,8 @@
-}} 《**YOU GET TO
-BURNING**》是[松泽由美的主打出道](https://zh.wikipedia.org/wiki/松泽由美 "wikilink")[单曲](../Page/单曲.md "wikilink")和[桑岛法子](../Page/桑岛法子.md "wikilink")的第一支单曲。
+}} 《**YOU GET TO BURNING**》是[松泽由美的主打出道](https://zh.wikipedia.org/wiki/松泽由美 "wikilink")[单曲](../Page/单曲.md "wikilink")和[桑岛法子](../Page/桑岛法子.md "wikilink")的第一支单曲。
 
 ## 概要
 
-  - 1996年10月23日由[King
-    Records发行原版之後](https://zh.wikipedia.org/wiki/King_Records "wikilink")，于2010年2月17日以数字化处理后发表重制版。
+  - 1996年10月23日由[King Records发行原版之後](https://zh.wikipedia.org/wiki/King_Records "wikilink")，于2010年2月17日以数字化处理后发表重制版。
 
 <!-- end list -->
 
@@ -38,8 +36,7 @@ BURNING**》是[松泽由美的主打出道](https://zh.wikipedia.org/wiki/松�
 3.  **Dearest** \[5:20\]
       -
         作詞：有森聡美、作曲・編曲：大森俊之
-          - 劇場版动画《[機動戰艦 The prince of
-            darkness](../Page/機動戰艦_The_prince_of_darkness.md "wikilink")》主題歌
+          - 劇場版动画《[機動戰艦 The prince of darkness](../Page/機動戰艦_The_prince_of_darkness.md "wikilink")》主題歌
 4.  YOU GET TO BURNING（off vocal）
 5.  私らしく（off vocal）
 6.  Dearest（off vocal）
@@ -59,9 +56,4 @@ BURNING**》是[松泽由美的主打出道](https://zh.wikipedia.org/wiki/松�
 3.  YOU GET TO BURNING（off vocal）
 4.  Dearest（off vocal）
 
-[Category:機動戰艦](https://zh.wikipedia.org/wiki/Category:機動戰艦 "wikilink")
-[Category:1996年單曲](https://zh.wikipedia.org/wiki/Category:1996年單曲 "wikilink")
-[Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink")
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
-[Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
+[Category:機動戰艦](https://zh.wikipedia.org/wiki/Category:機動戰艦 "wikilink") [Category:1996年單曲](https://zh.wikipedia.org/wiki/Category:1996年單曲 "wikilink") [Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")

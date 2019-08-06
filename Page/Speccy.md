@@ -12,5 +12,4 @@
 
   - [Speccy](http://www.piriform.com/speccy)
 
-[Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink")
-[Category:應用軟體](https://zh.wikipedia.org/wiki/Category:應用軟體 "wikilink")
+[Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink") [Category:應用軟體](https://zh.wikipedia.org/wiki/Category:應用軟體 "wikilink")

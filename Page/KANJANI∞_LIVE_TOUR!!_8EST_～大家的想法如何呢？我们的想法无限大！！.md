@@ -1,5 +1,4 @@
-《**KANJANI∞ LIVE TOUR\!\! 8EST
-～大家的想法如何呢？我们的想法无限大！！**》（）為日本男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第9張DVD｡
+《**KANJANI∞ LIVE TOUR\!\! 8EST ～大家的想法如何呢？我们的想法无限大！！**》（）為日本男偶像團體[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第9張DVD｡
 
 ## 概要
 
@@ -109,5 +108,4 @@
 5.  大阪レイニーブルース
 6.  torn
 
-[Category:關西傑尼斯8影像作品](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8影像作品 "wikilink")
-[Category:2013年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2013年音樂相關影像作品 "wikilink")
+[Category:關西傑尼斯8影像作品](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8影像作品 "wikilink") [Category:2013年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2013年音樂相關影像作品 "wikilink")

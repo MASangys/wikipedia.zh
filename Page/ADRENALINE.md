@@ -1,5 +1,4 @@
-《**ADRENALINE**》是[韓國男子偶像團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST所發行的第](https://zh.wikipedia.org/wiki/BEAST "wikilink")5張[日文單曲](https://zh.wikipedia.org/wiki/日文 "wikilink")。共收錄二首曲目，於2014年5月28日發行。\[1\]唱片公司為[環球唱片
-（日本）](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")。
+《**ADRENALINE**》是[韓國男子偶像團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST所發行的第](https://zh.wikipedia.org/wiki/BEAST "wikilink")5張[日文單曲](https://zh.wikipedia.org/wiki/日文 "wikilink")。共收錄二首曲目，於2014年5月28日發行。\[1\]唱片公司為[環球唱片 （日本）](https://zh.wikipedia.org/wiki/日本環球音樂 "wikilink")。
 
 ## 簡介
 

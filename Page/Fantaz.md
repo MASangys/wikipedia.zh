@@ -213,11 +213,8 @@
 ## 外部連結
 
   -
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
+[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
 
 1.
 2.
-3.  [- 叱咤樂迷 - Fantaz -
-    Happy](http://www.my903.com/my903/903music/detail.jsp?newsid=3096)
-    ，2014年1月23日 (四) 14:05 (UTC+8)查閱
+3.  [- 叱咤樂迷 - Fantaz - Happy](http://www.my903.com/my903/903music/detail.jsp?newsid=3096) ，2014年1月23日 (四) 14:05 (UTC+8)查閱

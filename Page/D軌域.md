@@ -38,8 +38,7 @@ d軌域的「d」是「diffused」，其為「漫系光譜」之意。
 
 ## 結構
 
-[D_orbitals.png](https://zh.wikipedia.org/wiki/File:D_orbitals.png "fig:D_orbitals.png")
-[D5M0.png](https://zh.wikipedia.org/wiki/File:D5M0.png "fig:D5M0.png")\]\]
+[D_orbitals.png](https://zh.wikipedia.org/wiki/File:D_orbitals.png "fig:D_orbitals.png") [D5M0.png](https://zh.wikipedia.org/wiki/File:D5M0.png "fig:D5M0.png")\]\]
 
 d軌域從[主量子數](../Page/主量子數.md "wikilink")n=3開始出現，最小的d軌域是3d軌域，也就是說1d、2d軌域不存在，當[角量子數為](https://zh.wikipedia.org/wiki/角量子數 "wikilink")2時，其軌域為d軌域，主量子數不可小於三，對應於五個[磁量子數](https://zh.wikipedia.org/wiki/磁量子數 "wikilink")2、1、0、-1、-2，在3d軌域中，有五個[能量](../Page/能量.md "wikilink")相同的3d軌域，同樣的，主量子數為4以上時也有五個4d軌域，因此，每個[殼層](../Page/殼層.md "wikilink")都有五個d軌域，它們分別為、、、、，但是沒有、、、。在存在的五個d軌域（、、、、）中，有四個[形狀](../Page/形狀.md "wikilink")相同，分別為：、、、但方向不同，而是五個d軌域中形狀與眾不同的一個，儘管如此，軌域仍具有和、、及相同之能量。
 
@@ -63,8 +62,7 @@ d軌域一樣有[波節面](https://zh.wikipedia.org/wiki/波節面 "wikilink")�
 
 \[d_{xy} = N_2^c \frac{xy}{r^2} = -\frac{i}{\sqrt{2}} \left(Y_2^2 - Y_2^{-2}\right)\]
 
-\[d_{x^2-y^2} = N_2^c \frac{x^2 - y^2}{2r^2} = \frac{1}{\sqrt{2}} \left(Y_2^2 + Y_2^{-2}\right)\]
-和
+\[d_{x^2-y^2} = N_2^c \frac{x^2 - y^2}{2r^2} = \frac{1}{\sqrt{2}} \left(Y_2^2 + Y_2^{-2}\right)\] 和
 
 \[N_2^c = \left(\frac{15}{4\pi}\right)^{1/2}\]
 
@@ -106,9 +104,7 @@ d區元素是指這些元素中具有最高能量的電子是填在d軌域上的
   -
 {{-}}
 
-[Category:原子物理学](https://zh.wikipedia.org/wiki/Category:原子物理学 "wikilink")
-[Category:原子軌域](https://zh.wikipedia.org/wiki/Category:原子軌域 "wikilink")
-[Category:軌域](https://zh.wikipedia.org/wiki/Category:軌域 "wikilink")
+[Category:原子物理学](https://zh.wikipedia.org/wiki/Category:原子物理学 "wikilink") [Category:原子軌域](https://zh.wikipedia.org/wiki/Category:原子軌域 "wikilink") [Category:軌域](https://zh.wikipedia.org/wiki/Category:軌域 "wikilink")
 
 1.
 2.

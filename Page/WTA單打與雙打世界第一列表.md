@@ -4,9 +4,7 @@
 
 ### 登上排名第一的選手
 
-\[1\]
-[Steffi_Graf_Farewell_World_Tour_2000_trim.jpg](https://zh.wikipedia.org/wiki/File:Steffi_Graf_Farewell_World_Tour_2000_trim.jpg "fig:Steffi_Graf_Farewell_World_Tour_2000_trim.jpg")在單打排名第一的週數長達**377週**，目前仍是紀錄保持人。\]\]
-[Muguruza_WM17_(29)_(36143095646).jpg](https://zh.wikipedia.org/wiki/File:Muguruza_WM17_\(29\)_\(36143095646\).jpg "fig:Muguruza_WM17_(29)_(36143095646).jpg")，目前單打排名第一的選手。\]\]
+\[1\] [Steffi_Graf_Farewell_World_Tour_2000_trim.jpg](https://zh.wikipedia.org/wiki/File:Steffi_Graf_Farewell_World_Tour_2000_trim.jpg "fig:Steffi_Graf_Farewell_World_Tour_2000_trim.jpg")在單打排名第一的週數長達**377週**，目前仍是紀錄保持人。\]\] [Muguruza_WM17_(29)_(36143095646).jpg](https://zh.wikipedia.org/wiki/File:Muguruza_WM17_\(29\)_\(36143095646\).jpg "fig:Muguruza_WM17_(29)_(36143095646).jpg")，目前單打排名第一的選手。\]\]
 
 <table>
 <thead>
@@ -2739,7 +2737,6 @@
 
   - [ATP單打排名第一選手列表](../Page/ATP單打排名第一選手列表.md "wikilink")
 
-[Category:网球女单世界第一](https://zh.wikipedia.org/wiki/Category:网球女单世界第一 "wikilink")
-[Category:網球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:網球紀錄及統計數據 "wikilink")
+[Category:网球女单世界第一](https://zh.wikipedia.org/wiki/Category:网球女单世界第一 "wikilink") [Category:網球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:網球紀錄及統計數據 "wikilink")
 
 1.

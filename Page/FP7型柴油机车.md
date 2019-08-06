@@ -44,9 +44,4 @@ FP7型柴油机车推出后受到各大铁路公司的普遍欢迎。1949年6月
   -
   -
   -
-[Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink")
-[Category:加拿大柴油機車](https://zh.wikipedia.org/wiki/Category:加拿大柴油機車 "wikilink")
-[Category:墨西哥柴油機車](https://zh.wikipedia.org/wiki/Category:墨西哥柴油機車 "wikilink")
-[Category:EMD制铁路机车](https://zh.wikipedia.org/wiki/Category:EMD制铁路机车 "wikilink")
-[Category:GMD制铁路机车](https://zh.wikipedia.org/wiki/Category:GMD制铁路机车 "wikilink")
-[Category:Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo軸式機車 "wikilink")
+[Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink") [Category:加拿大柴油機車](https://zh.wikipedia.org/wiki/Category:加拿大柴油機車 "wikilink") [Category:墨西哥柴油機車](https://zh.wikipedia.org/wiki/Category:墨西哥柴油機車 "wikilink") [Category:EMD制铁路机车](https://zh.wikipedia.org/wiki/Category:EMD制铁路机车 "wikilink") [Category:GMD制铁路机车](https://zh.wikipedia.org/wiki/Category:GMD制铁路机车 "wikilink") [Category:Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo軸式機車 "wikilink")

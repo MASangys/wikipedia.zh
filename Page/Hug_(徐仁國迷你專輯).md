@@ -36,9 +36,7 @@
 
   -
 
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:徐仁國音樂專輯](https://zh.wikipedia.org/wiki/Category:徐仁國音樂專輯 "wikilink")
+[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:徐仁國音樂專輯](https://zh.wikipedia.org/wiki/Category:徐仁國音樂專輯 "wikilink")
 
 1.
 

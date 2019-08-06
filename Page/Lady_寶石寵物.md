@@ -1,5 +1,4 @@
-《**Lady 寶石寵物**》，是[三麗鷗](../Page/三麗鷗.md "wikilink")和[SEGA
-TOYS共同創作的](https://zh.wikipedia.org/wiki/SEGA "wikilink")[角色](../Page/角色.md "wikilink")，[寶石寵物](../Page/寶石寵物.md "wikilink")動畫版的第六作。在2014年4月5日至翌年3月28日於[東京電視台](../Page/東京電視台.md "wikilink")播出。[無線電視](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")於2016年9月27日以「寶石寵物Ⅵ」的名義播出，香港播放最大不同是用回日文主題曲。
+《**Lady 寶石寵物**》，是[三麗鷗](../Page/三麗鷗.md "wikilink")和[SEGA TOYS共同創作的](https://zh.wikipedia.org/wiki/SEGA "wikilink")[角色](../Page/角色.md "wikilink")，[寶石寵物](../Page/寶石寵物.md "wikilink")動畫版的第六作。在2014年4月5日至翌年3月28日於[東京電視台](../Page/東京電視台.md "wikilink")播出。[無線電視](https://zh.wikipedia.org/wiki/無線電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")於2016年9月27日以「寶石寵物Ⅵ」的名義播出，香港播放最大不同是用回日文主題曲。
 
 ## 故事大綱
 
@@ -176,9 +175,7 @@ TOYS共同創作的](https://zh.wikipedia.org/wiki/SEGA "wikilink")[角色](../P
 
 ### Lady Jewel（寶石淑女）候補生
 
-召集到Jewel Palace（寶石宮殿）的各位Lady
-Jewel（寶石淑女）候補生們，是被導師（Mentor，由寶石寵物擔任）選中的女孩們。在這一年時間內，候補生們可以由朋友、王子（Prince）的幫助下完成淑女課題。當這一年內的所有淑女課題完成的時候，只有其中一位Petit
-Lady（淑女候補生）可以當上「Top of Lady（首席淑女）」，即為Lady Jewel（寶石淑女）。
+召集到Jewel Palace（寶石宮殿）的各位Lady Jewel（寶石淑女）候補生們，是被導師（Mentor，由寶石寵物擔任）選中的女孩們。在這一年時間內，候補生們可以由朋友、王子（Prince）的幫助下完成淑女課題。當這一年內的所有淑女課題完成的時候，只有其中一位Petit Lady（淑女候補生）可以當上「Top of Lady（首席淑女）」，即為Lady Jewel（寶石淑女）。
 
   -
     本作主角，拍檔為露比。是庶民派少女的淑女候補生。即使課題多麼困難，而且又經常失敗，她都會努力以赴完成每個課題。
@@ -241,9 +238,7 @@ Lady（淑女候補生）可以當上「Top of Lady（首席淑女）」，即�
 是支援Lady Jewel的『國王（King）』候補生。
 
   -
-    Elite（菁英）候補生之一。個性冷峻，受許多Petit
-    Lady（淑女候補生）歡迎，但也有溫柔的一面。喜歡桃奈。跟莉莉安是兄妹。對玫瑰花很有認識。討厭甜食，但十分喜歡自創的「Cayenne
-    Special（凱恩特製）」棉花糖夾餅。
+    Elite（菁英）候補生之一。個性冷峻，受許多Petit Lady（淑女候補生）歡迎，但也有溫柔的一面。喜歡桃奈。跟莉莉安是兄妹。對玫瑰花很有認識。討厭甜食，但十分喜歡自創的「Cayenne Special（凱恩特製）」棉花糖夾餅。
     第14集提前被選中到王族宮殿留學。
     第15集向桃奈表明自己的心意，自己會努力成為國王，要桃奈加油成為Lady Jewel。
     第29、30、36、37集前搭檔為艾倫娜、後來第37集再次和桃奈成為搭檔。
@@ -274,9 +269,7 @@ Lady（淑女候補生）可以當上「Top of Lady（首席淑女）」，即�
 <!-- end list -->
 
   -
-    凱恩轉校後出場的謎之候補生。白髮少年，外貌跟凱恩有點相似。因被Lady Rector和Lady
-    Boot誤認為侵入糸統而長時間禁閉，凱恩離去後由Lady
-    Boot解放他。
+    凱恩轉校後出場的謎之候補生。白髮少年，外貌跟凱恩有點相似。因被Lady Rector和Lady Boot誤認為侵入糸統而長時間禁閉，凱恩離去後由Lady Boot解放他。
     Elite候補生之一。個性非常我行我素，不良型少年，有非常的實力，成績也非常優秀，對桃奈的行為非常感興趣。喜歡莉莉安。
     第15集尾出場。因犯事而被困。
     對於現在的Elite候補生感到可笑，不認同只會哄Lady開心的王子，特別是羅美歐。想改變世界，要所有人包括女王都要順從他。
@@ -297,21 +290,17 @@ Lady（淑女候補生）可以當上「Top of Lady（首席淑女）」，即�
 <!-- end list -->
 
   -
-    桃奈的表嫂，是桃奈Magical Letter
-    Pen（魔法讀信筆）的前任持有者。寶石女王的好友，前搭檔是露亞，以前和蕾妲、布特一起上課時認識。以前是Top
-    Lady。
+    桃奈的表嫂，是桃奈Magical Letter Pen（魔法讀信筆）的前任持有者。寶石女王的好友，前搭檔是露亞，以前和蕾妲、布特一起上課時認識。以前是Top Lady。
 
 <!-- end list -->
 
   -
-    架眼鏡的貴婦人風格指導教官。Jewel
-    Palace（寶石宮殿）的館長，是淑女中的淑女。以前和-{黛}-安娜、布特一起上課時認識。身份是Joker。
+    架眼鏡的貴婦人風格指導教官。Jewel Palace（寶石宮殿）的館長，是淑女中的淑女。以前和-{黛}-安娜、布特一起上課時認識。身份是Joker。
 
 <!-- end list -->
 
   -
-    軍人風格指導教官。下達課題時，需要Petit Lady（淑女候補生）以「Yes！Mom！」回應。有「Lady
-    Conductor」之別名。以前和蕾妲、-{黛}-安娜一起上課時認識。
+    軍人風格指導教官。下達課題時，需要Petit Lady（淑女候補生）以「Yes！Mom！」回應。有「Lady Conductor」之別名。以前和蕾妲、-{黛}-安娜一起上課時認識。
     是瑞希兒時在森林迷路所遇上的「矇面白馬淑女」，但目前清楚說明是同一人。
 
 ### 其他
@@ -351,8 +340,7 @@ Lady（淑女候補生）可以當上「Top of Lady（首席淑女）」，即�
 
   -
     Lady（淑女）候補生的証明。在信件上一劃就會自動讀出信件內容。也可以變形成寶石遮陽傘（Parasol）。
-    當持有人畢業後便要把「Magical Letter Pen」交給下一位候補生。而桃奈持有的Magical Letter
-    Pen的前任者是Lady Diana。
+    當持有人畢業後便要把「Magical Letter Pen」交給下一位候補生。而桃奈持有的Magical Letter Pen的前任者是Lady Diana。
     持有人不同，其發出的色彩也會有所不同。桃奈為粉紅色、瑞希為綠色、卡蓉為藍色、莉莉安為紫色。
 
 <!-- end list -->
@@ -363,9 +351,7 @@ Lady（淑女候補生）可以當上「Top of Lady（首席淑女）」，即�
     禮服、課題所需的服裝也可以用來變身的，甚至可以用作移動到Jewel Stage（寶石舞台）。
     郵件、電話之外，也有聽音樂等等的功能。
     與Magical Letter Pen一樣，只要持有人不同，色彩也會有所不同。但兩者發出的的色彩是一樣的。
-    \-{Jewelpod}- Premium Heart內置App「Jewel
-    Messenger（寶石聊天室）」為淑女候補生與導師專用，可以在沒訊號的情況下仍可使用。可是，當-{Jewelpod}-
-    Premium Heart壞掉的話就不能使用任何App，包括這個「Jewel Messenger」。
+    \-{Jewelpod}- Premium Heart內置App「Jewel Messenger（寶石聊天室）」為淑女候補生與導師專用，可以在沒訊號的情況下仍可使用。可是，當-{Jewelpod}- Premium Heart壞掉的話就不能使用任何App，包括這個「Jewel Messenger」。
 
 ## 電視動畫
 
@@ -385,31 +371,24 @@ Lady（淑女候補生）可以當上「Top of Lady（首席淑女）」，即�
   - 音響監督：[岩浪美和](../Page/岩浪美和.md "wikilink")
   - 音樂：
   - 音樂導演：吉村洋平
-  - 音樂制作：[Avex
-    Entertainment](https://zh.wikipedia.org/wiki/愛貝娛樂 "wikilink")、[SONIC
-    GROOVE](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")、
+  - 音樂制作：[Avex Entertainment](https://zh.wikipedia.org/wiki/愛貝娛樂 "wikilink")、[SONIC GROOVE](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")、
   - 助理理製：岡村武真、渡邊愛美、森田和寬
   - 動畫監製：川﨑とも子、[茂垣弘道](../Page/茂垣弘道.md "wikilink")
   - 製作人：吉野文（東京電視台）、大野亮介、可知秀幸
-  - 動畫制作：[STUDIO
-    COMET](../Page/STUDIO_COMET.md "wikilink")、[ZEXCS](../Page/ZEXCS.md "wikilink")
+  - 動畫制作：[STUDIO COMET](../Page/STUDIO_COMET.md "wikilink")、[ZEXCS](../Page/ZEXCS.md "wikilink")
   - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[MediaNet](../Page/MediaNet.md "wikilink")、
 
 ### 主題曲
 
-由[SONIC
-GROOVE發售](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")。
+由[SONIC GROOVE發售](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")。
 
   - 片頭曲「Your Love」
-    作詞：Satomi，作曲：Todd Wright、Ethan Mentzer、Dana Alexander，歌：M（SONIC
-    GROOVE）
+    作詞：Satomi，作曲：Todd Wright、Ethan Mentzer、Dana Alexander，歌：M（SONIC GROOVE）
 
 <!-- end list -->
 
   - 片尾曲「RUN with U」
-    作詞：Satomi，作曲：LASSE
-    HANSEN，編曲：KAZ，歌：[Fairies](../Page/Fairies.md "wikilink")（SONIC
-    GROOVE）
+    作詞：Satomi，作曲：LASSE HANSEN，編曲：KAZ，歌：[Fairies](../Page/Fairies.md "wikilink")（SONIC GROOVE）
 
 ### 各話列表
 
@@ -1116,12 +1095,8 @@ GROOVE發售](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")。
 
 ## 外部連結
 
-  - [東京電視台《Lady
-    寶石寵物》官網](http://www.tv-tokyo.co.jp/anime/jewelpet6/index2.html)
+  - [東京電視台《Lady 寶石寵物》官網](http://www.tv-tokyo.co.jp/anime/jewelpet6/index2.html)
 
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:寶石寵物](https://zh.wikipedia.org/wiki/Category:寶石寵物 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:STUDIO_COMET](https://zh.wikipedia.org/wiki/Category:STUDIO_COMET "wikilink")
+[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:寶石寵物](https://zh.wikipedia.org/wiki/Category:寶石寵物 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:STUDIO_COMET](https://zh.wikipedia.org/wiki/Category:STUDIO_COMET "wikilink")
 
 1.  由[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")翻譯

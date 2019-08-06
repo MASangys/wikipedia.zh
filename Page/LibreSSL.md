@@ -4,8 +4,7 @@
 
 在OpenSSL爆出心脏出血漏洞后的一周之内，OpenBSD开发团队便决定自行维护一个OpenSSL分支。开发团队于2014年4月11日注册libressl.org域名，该项目于2014年4月22日公布。
 
-OpenBSD开发团队随即开始清理OpenSSL的代码，在第一周，LibreSSL开发团队删去了90000多行的代码。\[6\]\[7\]一些陈旧或无用代码被移除，同时对一些比较罕见的操作系统的支持也被移除。LibreSSL最初的目标平台是OpenBSD
-5.6，但当代码稳定之后，还移植至其他平台。\[8\]，该项目仍在寻求“稳定的”外部资金支持。\[9\]
+OpenBSD开发团队随即开始清理OpenSSL的代码，在第一周，LibreSSL开发团队删去了90000多行的代码。\[6\]\[7\]一些陈旧或无用代码被移除，同时对一些比较罕见的操作系统的支持也被移除。LibreSSL最初的目标平台是OpenBSD 5.6，但当代码稳定之后，还移植至其他平台。\[8\]，该项目仍在寻求“稳定的”外部资金支持。\[9\]
 
 ## 变化详情
 
@@ -19,9 +18,7 @@ OpenBSD开发团队随即开始清理OpenSSL的代码，在第一周，LibreSSL�
 
 ### 其他改动
 
-加入了的，以检查长度参数、无符号到有符号变量的赋值、指针值/方法返回值等数据的有效性。启用了一些使之更加安全的编译器选项和标志（-Wuninitialized，-Werror等），这有助于发现潜在问题。为遵循良好的编程风格，项目也提高了代码可读性并清理空白字符，使之符合BSD的代码风格（）。移除了不必要或不安全的宏和变量；移除了未使用的或旧的程序集、应用程序、演示及文档文件/代码（[Perl](../Page/Perl.md "wikilink")脚本、[C语言文件等](https://zh.wikipedia.org/wiki/C语言 "wikilink")）。移除了对的支持、不安全的算法[Dual
-EC
-DRBG及旧的协议](https://zh.wikipedia.org/wiki/Dual_EC_DRBG "wikilink")/加密器（[SSLv2](https://zh.wikipedia.org/wiki/安全套接层 "wikilink")）。
+加入了的，以检查长度参数、无符号到有符号变量的赋值、指针值/方法返回值等数据的有效性。启用了一些使之更加安全的编译器选项和标志（-Wuninitialized，-Werror等），这有助于发现潜在问题。为遵循良好的编程风格，项目也提高了代码可读性并清理空白字符，使之符合BSD的代码风格（）。移除了不必要或不安全的宏和变量；移除了未使用的或旧的程序集、应用程序、演示及文档文件/代码（[Perl](../Page/Perl.md "wikilink")脚本、[C语言文件等](https://zh.wikipedia.org/wiki/C语言 "wikilink")）。移除了对的支持、不安全的算法[Dual EC DRBG及旧的协议](https://zh.wikipedia.org/wiki/Dual_EC_DRBG "wikilink")/加密器（[SSLv2](https://zh.wikipedia.org/wiki/安全套接层 "wikilink")）。
 
 ## 参见
 
@@ -36,9 +33,7 @@ DRBG及旧的协议](https://zh.wikipedia.org/wiki/Dual_EC_DRBG "wikilink")/加�
   -
   - [LibreSSL源代码（OpenGrok）](https://web.archive.org/web/20140424095911/http://bxr.su/OpenBSD/lib/libssl/src/ssl/)
 
-[Category:加密软件](https://zh.wikipedia.org/wiki/Category:加密软件 "wikilink")
-[Category:C函式庫](https://zh.wikipedia.org/wiki/Category:C函式庫 "wikilink")
-[Category:2014年软件](https://zh.wikipedia.org/wiki/Category:2014年软件 "wikilink")
+[Category:加密软件](https://zh.wikipedia.org/wiki/Category:加密软件 "wikilink") [Category:C函式庫](https://zh.wikipedia.org/wiki/Category:C函式庫 "wikilink") [Category:2014年软件](https://zh.wikipedia.org/wiki/Category:2014年软件 "wikilink")
 
 1.
 

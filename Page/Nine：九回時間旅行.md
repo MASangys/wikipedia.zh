@@ -590,33 +590,11 @@
   -
   -
   -
-[Category:tvN月火連續劇](https://zh.wikipedia.org/wiki/Category:tvN月火連續劇 "wikilink")
-[Category:2013年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2013年韓國電視劇集 "wikilink")
-[Category:韓國科幻劇](https://zh.wikipedia.org/wiki/Category:韓國科幻劇 "wikilink")
-[Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink")
-[Category:時間旅行題材電視劇](https://zh.wikipedia.org/wiki/Category:時間旅行題材電視劇 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:奇幻愛情電視劇](https://zh.wikipedia.org/wiki/Category:奇幻愛情電視劇 "wikilink")
-[Category:職場戀情連續劇](https://zh.wikipedia.org/wiki/Category:職場戀情連續劇 "wikilink")
-[Category:新聞行業題材電視節目](https://zh.wikipedia.org/wiki/Category:新聞行業題材電視節目 "wikilink")
-[Category:2012年背景作品](https://zh.wikipedia.org/wiki/Category:2012年背景作品 "wikilink")
-[Category:2013年背景作品](https://zh.wikipedia.org/wiki/Category:2013年背景作品 "wikilink")
-[Category:2010年代背景電視節目](https://zh.wikipedia.org/wiki/Category:2010年代背景電視節目 "wikilink")
-[Category:1992年背景作品](https://zh.wikipedia.org/wiki/Category:1992年背景作品 "wikilink")
-[Category:1993年背景作品](https://zh.wikipedia.org/wiki/Category:1993年背景作品 "wikilink")
-[Category:1990年代背景電視節目](https://zh.wikipedia.org/wiki/Category:1990年代背景電視節目 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
-[Category:尼泊尔背景作品](https://zh.wikipedia.org/wiki/Category:尼泊尔背景作品 "wikilink")
-[Category:TvN深夜劇集](https://zh.wikipedia.org/wiki/Category:TvN深夜劇集 "wikilink")
+[Category:tvN月火連續劇](https://zh.wikipedia.org/wiki/Category:tvN月火連續劇 "wikilink") [Category:2013年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2013年韓國電視劇集 "wikilink") [Category:韓國科幻劇](https://zh.wikipedia.org/wiki/Category:韓國科幻劇 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:時間旅行題材電視劇](https://zh.wikipedia.org/wiki/Category:時間旅行題材電視劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:奇幻愛情電視劇](https://zh.wikipedia.org/wiki/Category:奇幻愛情電視劇 "wikilink") [Category:職場戀情連續劇](https://zh.wikipedia.org/wiki/Category:職場戀情連續劇 "wikilink") [Category:新聞行業題材電視節目](https://zh.wikipedia.org/wiki/Category:新聞行業題材電視節目 "wikilink") [Category:2012年背景作品](https://zh.wikipedia.org/wiki/Category:2012年背景作品 "wikilink") [Category:2013年背景作品](https://zh.wikipedia.org/wiki/Category:2013年背景作品 "wikilink") [Category:2010年代背景電視節目](https://zh.wikipedia.org/wiki/Category:2010年代背景電視節目 "wikilink") [Category:1992年背景作品](https://zh.wikipedia.org/wiki/Category:1992年背景作品 "wikilink") [Category:1993年背景作品](https://zh.wikipedia.org/wiki/Category:1993年背景作品 "wikilink") [Category:1990年代背景電視節目](https://zh.wikipedia.org/wiki/Category:1990年代背景電視節目 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink") [Category:尼泊尔背景作品](https://zh.wikipedia.org/wiki/Category:尼泊尔背景作品 "wikilink") [Category:TvN深夜劇集](https://zh.wikipedia.org/wiki/Category:TvN深夜劇集 "wikilink")
 
 1.  [tvN電視劇《Nine》值得收看的三大原因](http://tw.enewsworld.mnet.com/enews/contents.asp?idx=30997)
-2.  [美首次翻拍韓劇
-    《九回時間旅行》中標](http://cn.chosun.com/big5/site/data/html_dir/2013/10/28/20131028000014.html)
-    朝鮮日報中文網
-3.  [「Nine」，國內電視劇最初美國翻拍「金侖珍幫大忙」](http://tw.starnnews.com/news/index.html?no=245219)
-    StarN
+2.  [美首次翻拍韓劇 《九回時間旅行》中標](http://cn.chosun.com/big5/site/data/html_dir/2013/10/28/20131028000014.html) 朝鮮日報中文網
+3.  [「Nine」，國內電視劇最初美國翻拍「金侖珍幫大忙」](http://tw.starnnews.com/news/index.html?no=245219) StarN
 4.  第7集，身份證漢字名為朴宣友。
 5.  香港無綫電視版本譯為「宣友」，有線電視版本譯為「善宇」。
 6.  尹詩雅是此角色童年時所用的名字

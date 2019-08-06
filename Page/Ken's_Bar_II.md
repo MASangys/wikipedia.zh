@@ -1,14 +1,11 @@
-**《Ken's Bar
-II》**，是[平井堅](../Page/平井堅.md "wikilink")個人第二張翻唱概念專輯。於2009年5月27日發行。
+**《Ken's Bar II》**，是[平井堅](../Page/平井堅.md "wikilink")個人第二張翻唱概念專輯。於2009年5月27日發行。
 
 ## 概述
 
   - 紀念個人概念演唱會「Ken's Bar」自1998年5月29日開店第十周年的實體作品。
-  - 翻唱了許多國外及日本的樂團、歌手經典歌曲，如[EAGLES](https://zh.wikipedia.org/wiki/老鷹樂隊 "wikilink")、[Ne-Yo](https://zh.wikipedia.org/wiki/Ne-Yo "wikilink")、[Stevie
-    Wonder](https://zh.wikipedia.org/wiki/Stevie_Wonder "wikilink")、[中島美雪](../Page/中島美雪.md "wikilink")、[桑田佳祐](../Page/桑田佳祐.md "wikilink")、[濱崎步](../Page/濱崎步.md "wikilink")等。
+  - 翻唱了許多國外及日本的樂團、歌手經典歌曲，如[EAGLES](https://zh.wikipedia.org/wiki/老鷹樂隊 "wikilink")、[Ne-Yo](https://zh.wikipedia.org/wiki/Ne-Yo "wikilink")、[Stevie Wonder](https://zh.wikipedia.org/wiki/Stevie_Wonder "wikilink")、[中島美雪](../Page/中島美雪.md "wikilink")、[桑田佳祐](../Page/桑田佳祐.md "wikilink")、[濱崎步](../Page/濱崎步.md "wikilink")等。
   - 繼上張翻唱專輯與[坂本九](../Page/坂本九.md "wikilink")合唱後，再度跨越時空與日本國寶級歌手[美空雲雀](../Page/美空雲雀.md "wikilink")演唱「Stardust」。
-  - [草野正宗](../Page/草野正宗.md "wikilink")、[小野麗莎](https://zh.wikipedia.org/wiki/小野麗莎 "wikilink")、Frank
-    McComb等歌手獻聲合唱。
+  - [草野正宗](../Page/草野正宗.md "wikilink")、[小野麗莎](https://zh.wikipedia.org/wiki/小野麗莎 "wikilink")、Frank McComb等歌手獻聲合唱。
   - 音樂形式多元，包含節奏藍調、爵士、巴薩諾瓦等等。
   - 初回限定盤為特殊典藏包裝，收錄Ken’s Bar情人節現場演唱實況DVD。
 
@@ -33,8 +30,7 @@ II》**，是[平井堅](../Page/平井堅.md "wikilink")個人第二張翻唱�
 8.  **Intermission**
       - 作曲：Ken Hirai／編曲：鈴木大
 9.  **Because Of You**（原唱：Ne-Yo）
-      - 作詞・作曲：Shaffer Smith、Tor Erik Hermansen、Mikkel Storleer
-        Eriksen／編曲：石成正人
+      - 作詞・作曲：Shaffer Smith、Tor Erik Hermansen、Mikkel Storleer Eriksen／編曲：石成正人
 10. **LATELY**（原唱：）
       - 作詞・作曲：Stevie Wonder／編曲：Frank McComb／合唱：榆原正弘
 11. **分手歌**（原唱：中島美雪）
@@ -74,6 +70,4 @@ II》**，是[平井堅](../Page/平井堅.md "wikilink")個人第二張翻唱�
   - [初回生産限定盤](http://www.sonymusic.co.jp/Music/Arch/DF/KenHirai/DFCL-1502/index.html)
   - [通常盤](http://www.sonymusic.co.jp/Music/Arch/DF/KenHirai/DFCL-1504/index.html)
 
-[Category:平井堅音樂專輯](https://zh.wikipedia.org/wiki/Category:平井堅音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:2009年翻唱專輯](https://zh.wikipedia.org/wiki/Category:2009年翻唱專輯 "wikilink")
+[Category:平井堅音樂專輯](https://zh.wikipedia.org/wiki/Category:平井堅音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:2009年翻唱專輯](https://zh.wikipedia.org/wiki/Category:2009年翻唱專輯 "wikilink")

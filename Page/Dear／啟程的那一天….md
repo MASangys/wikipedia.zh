@@ -20,8 +20,7 @@
 2.  **啟程的那一天…**
     編曲：satoshi takebe
       -
-        川嶋愛在[I
-        WiSH時代發行的](../Page/I_WiSH.md "wikilink")[迎向未來](../Page/迎向未來.md "wikilink")的原曲。在高中時期街頭演出時已先行公開，重新錄製後和同為[畢業](../Page/畢業.md "wikilink")歌曲的《Dear》一齊發售。不過歌詞和當初的並不一樣\[2\]。
+        川嶋愛在[I WiSH時代發行的](../Page/I_WiSH.md "wikilink")[迎向未來](../Page/迎向未來.md "wikilink")的原曲。在高中時期街頭演出時已先行公開，重新錄製後和同為[畢業](../Page/畢業.md "wikilink")歌曲的《Dear》一齊發售。不過歌詞和當初的並不一樣\[2\]。
         PV有在學校拍攝和春夏秋冬各種版本。初回盤B中收錄的PV為在學校拍攝的版本。春夏天冬各版本中則有季節的風景詩（風物詩）登場。
 3.  **Bye Bye**
     編曲：takashi nagasawa
@@ -38,12 +37,7 @@
 
 ## 參考資料
 
-[Category:川嶋愛歌曲](https://zh.wikipedia.org/wiki/Category:川嶋愛歌曲 "wikilink")
-[Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
-[Category:畢業歌曲](https://zh.wikipedia.org/wiki/Category:畢業歌曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
+[Category:川嶋愛歌曲](https://zh.wikipedia.org/wiki/Category:川嶋愛歌曲 "wikilink") [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink") [Category:畢業歌曲](https://zh.wikipedia.org/wiki/Category:畢業歌曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
 
-1.  [川嶋あい My Room - DISCOGRAPHY -
-    SINGLE](http://www.kawashimaai.com/discography/index.php) 川嶋愛官方網站
-2.  [「旅立ちの日に」「Dear」PVメイキング特集！](http://www.sound-tv.net/pickup/kawashimaaitabidachimaking/)
-     soundTv.2009年6月4日閲覧。
+1.  [川嶋あい My Room - DISCOGRAPHY - SINGLE](http://www.kawashimaai.com/discography/index.php) 川嶋愛官方網站
+2.  [「旅立ちの日に」「Dear」PVメイキング特集！](http://www.sound-tv.net/pickup/kawashimaaitabidachimaking/)  soundTv.2009年6月4日閲覧。

@@ -1,6 +1,4 @@
-**AKB-級美食家運動場**（）是由[Sky
-PerfecTV\!頻道](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")[食と旅のフーディーズTV所播放](https://zh.wikipedia.org/wiki/食と旅のフーディーズTV "wikilink")、[IMAGICA
-TV制作的](https://zh.wikipedia.org/wiki/IMAGICA_TV "wikilink")[高清制作](../Page/高清制作.md "wikilink")节目。
+**AKB-級美食家運動場**（）是由[Sky PerfecTV\!頻道](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")[食と旅のフーディーズTV所播放](https://zh.wikipedia.org/wiki/食と旅のフーディーズTV "wikilink")、[IMAGICA TV制作的](https://zh.wikipedia.org/wiki/IMAGICA_TV "wikilink")[高清制作](../Page/高清制作.md "wikilink")节目。
 
 ## 播放内容
 
@@ -126,6 +124,4 @@ TV制作的](https://zh.wikipedia.org/wiki/IMAGICA_TV "wikilink")[高清制作](
   - [AKB-級グルメスタジアム](http://pgm.foodiestv.jp/akb/)
   - [彦摩呂のB級グルメ天国](https://web.archive.org/web/20110927170406/http://pgm.foodiestv.jp/hikomaro/)
 
-[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink")
-[Category:飲食節目](https://zh.wikipedia.org/wiki/Category:飲食節目 "wikilink")
-[Category:2010年日本電視節目](https://zh.wikipedia.org/wiki/Category:2010年日本電視節目 "wikilink")
+[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink") [Category:飲食節目](https://zh.wikipedia.org/wiki/Category:飲食節目 "wikilink") [Category:2010年日本電視節目](https://zh.wikipedia.org/wiki/Category:2010年日本電視節目 "wikilink")

@@ -1,6 +1,4 @@
-《**Q\&A
-演奏會！**》（）是[戶松遥的第](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")10張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年10月17日由[Music
-Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
+《**Q\&A 演奏會！**》（）是[戶松遥的第](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")10張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年10月17日由[Music Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
 
 ## 概要
 
@@ -33,5 +31,4 @@ Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
       - [初回限定盤](http://www.sonymusicshop.jp/m/item/itemShw.php?associate=SMO&cd=SMCL000000281)
       - [通常盤](http://www.sonymusicshop.jp/m/item/itemShw.php?associate=SMO&cd=SMCL000000283)
 
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:戶松遙單曲](https://zh.wikipedia.org/wiki/Category:戶松遙單曲 "wikilink")
+[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:戶松遙單曲](https://zh.wikipedia.org/wiki/Category:戶松遙單曲 "wikilink")

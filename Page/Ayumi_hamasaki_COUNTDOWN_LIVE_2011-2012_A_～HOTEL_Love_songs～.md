@@ -1,19 +1,12 @@
-《**ayumi hamasaki COUNTDOWN LIVE 2011-2012 A ～HOTEL Love songs～**》（濱崎步
-2011-2012 跨年演唱會A ～HOTEL Love
-songs～）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[濱崎步](../Page/濱崎步.md "wikilink")於2011年12月29日、30日和31日在[國立代代木競技場](../Page/國立代代木競技場.md "wikilink")第一體育館舉行巡迴演唱會，於2012年3月21日發行DVD及BD。
+《**ayumi hamasaki COUNTDOWN LIVE 2011-2012 A ～HOTEL Love songs～**》（濱崎步 2011-2012 跨年演唱會A ～HOTEL Love songs～）是[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[濱崎步](../Page/濱崎步.md "wikilink")於2011年12月29日、30日和31日在[國立代代木競技場](../Page/國立代代木競技場.md "wikilink")第一體育館舉行巡迴演唱會，於2012年3月21日發行DVD及BD。
 
 ## 說明
 
 本次跨年演唱會首次花了年末三天的時間舉行。
 
-此《ayumi hamasaki COUNTDOWN LIVE 2011-2012 A ～HOTEL Love
-songs～》跨年演唱會DVD收錄至《[Party
-Queen](../Page/Party_Queen_\(濱崎步專輯\).md "wikilink")》且不另作單獨發售。
+此《ayumi hamasaki COUNTDOWN LIVE 2011-2012 A ～HOTEL Love songs～》跨年演唱會DVD收錄至《[Party Queen](../Page/Party_Queen_\(濱崎步專輯\).md "wikilink")》且不另作單獨發售。
 
-收錄此跨年演唱會的專輯包裝有《[Party
-Queen](../Page/Party_Queen_\(濱崎步專輯\).md "wikilink")》CD+DVD+DVD、另外兩種SPECIAL
-LIMITED BOX皆有收錄其中（詳情見[Party Queen
-發售型態](https://zh.wikipedia.org/wiki/Party_Queen_\(濱崎步專輯\)#.E7.99.BC.E5.94.AE.E5.9E.8B.E6.85.8B "wikilink")）。
+收錄此跨年演唱會的專輯包裝有《[Party Queen](../Page/Party_Queen_\(濱崎步專輯\).md "wikilink")》CD+DVD+DVD、另外兩種SPECIAL LIMITED BOX皆有收錄其中（詳情見[Party Queen 發售型態](https://zh.wikipedia.org/wiki/Party_Queen_\(濱崎步專輯\)#.E7.99.BC.E5.94.AE.E5.9E.8B.E6.85.8B "wikilink")）。
 
 ## 曲目
 
@@ -36,10 +29,8 @@ LIMITED BOX皆有收錄其中（詳情見[Party Queen
 17. Party queen
 18. Happening Here
 19. [Love song](../Page/Love_songs_\(濱崎步專輯\).md "wikilink")
-20. [how beautiful you
-    are](https://zh.wikipedia.org/wiki/how_beautiful_you_are "wikilink")
-21. [Trauma](../Page/A_\(濱崎步單曲\).md "wikilink") ～ [Boys &
-    Girls](../Page/Boys_&_Girls.md "wikilink")
+20. [how beautiful you are](https://zh.wikipedia.org/wiki/how_beautiful_you_are "wikilink")
+21. [Trauma](../Page/A_\(濱崎步單曲\).md "wikilink") ～ [Boys & Girls](../Page/Boys_&_Girls.md "wikilink")
 22. [MY ALL](../Page/GUILTY.md "wikilink")
 
 ## 外部連結
@@ -50,5 +41,4 @@ LIMITED BOX皆有收錄其中（詳情見[Party Queen
 
 </small>
 
-[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink")
-[Category:2012年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2012年音樂相關影像作品 "wikilink")
+[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink") [Category:2012年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2012年音樂相關影像作品 "wikilink")

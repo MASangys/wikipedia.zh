@@ -1,15 +1,10 @@
-**West Australasian Media
-Network**（縮寫：WAMN），是一間總部位處[珀斯](../Page/珀斯.md "wikilink")的[網絡媒體](https://zh.wikipedia.org/wiki/網絡媒體 "wikilink")，由前[香港天樂媒體](../Page/香港天樂媒體.md "wikilink")位於澳洲的英文新聞部獨立而成，後者分家後於2013年初成立WAMN。現時主要針對澳洲及西澳洲製作[新聞節目](https://zh.wikipedia.org/wiki/新聞 "wikilink")，並間中轉播本地[運動賽事](https://zh.wikipedia.org/wiki/運動 "wikilink")。
+**West Australasian Media Network**（縮寫：WAMN），是一間總部位處[珀斯](../Page/珀斯.md "wikilink")的[網絡媒體](https://zh.wikipedia.org/wiki/網絡媒體 "wikilink")，由前[香港天樂媒體](../Page/香港天樂媒體.md "wikilink")位於澳洲的英文新聞部獨立而成，後者分家後於2013年初成立WAMN。現時主要針對澳洲及西澳洲製作[新聞節目](https://zh.wikipedia.org/wiki/新聞 "wikilink")，並間中轉播本地[運動賽事](https://zh.wikipedia.org/wiki/運動 "wikilink")。
 
 ## 歷史
 
-WAMN的前身為香港天樂媒體於澳洲設立的英文新聞部，曾接受[澳洲廣播公司訪問](https://zh.wikipedia.org/wiki/澳洲廣播公司 "wikilink")\[1\]及將節目於珀斯市中心Northbridge
-Piazza的戶外大電視播放。\[2\]。其後於2013年1月19日因意見分歧而宣布獨立，並組成WAMN延續以往製作。現時屬下分別擁有[WAMN
-News及](https://zh.wikipedia.org/wiki/WAMN_News "wikilink")[WAMN
-Sport](https://zh.wikipedia.org/wiki/WAMN_Sport "wikilink")，定期透過網上平台提供多媒體新聞及體育節目。
+WAMN的前身為香港天樂媒體於澳洲設立的英文新聞部，曾接受[澳洲廣播公司訪問](https://zh.wikipedia.org/wiki/澳洲廣播公司 "wikilink")\[1\]及將節目於珀斯市中心Northbridge Piazza的戶外大電視播放。\[2\]。其後於2013年1月19日因意見分歧而宣布獨立，並組成WAMN延續以往製作。現時屬下分別擁有[WAMN News及](https://zh.wikipedia.org/wiki/WAMN_News "wikilink")[WAMN Sport](https://zh.wikipedia.org/wiki/WAMN_Sport "wikilink")，定期透過網上平台提供多媒體新聞及體育節目。
 
-在2015年1月26日澳洲國慶日 (Australia Day),
-總編輯梁恩霖被[西澳洲政府及](https://zh.wikipedia.org/wiki/西澳洲政府 "wikilink")[珀斯市政府授予](https://zh.wikipedia.org/wiki/珀斯市政府 "wikilink")2015年度最佳年輕公民獎，新聞工作被社會承認。\[3\]
+在2015年1月26日澳洲國慶日 (Australia Day), 總編輯梁恩霖被[西澳洲政府及](https://zh.wikipedia.org/wiki/西澳洲政府 "wikilink")[珀斯市政府授予](https://zh.wikipedia.org/wiki/珀斯市政府 "wikilink")2015年度最佳年輕公民獎，新聞工作被社會承認。\[3\]
 
 ## 總部
 
@@ -73,15 +68,10 @@ WAMN旗下子品牌，是一個提供潮流及藝術新聞的資訊網站，並�
   - [WAMN官方網站](http://www.wamnetwork.com.au/)
   - [WAMN YouTube頻道](http://www.youtube.com/wamnau)
 
-[Category:香港媒體](https://zh.wikipedia.org/wiki/Category:香港媒體 "wikilink")
-[Category:香港網絡電視](https://zh.wikipedia.org/wiki/Category:香港網絡電視 "wikilink")
-[Category:香港網絡電台](https://zh.wikipedia.org/wiki/Category:香港網絡電台 "wikilink")
+[Category:香港媒體](https://zh.wikipedia.org/wiki/Category:香港媒體 "wikilink") [Category:香港網絡電視](https://zh.wikipedia.org/wiki/Category:香港網絡電視 "wikilink") [Category:香港網絡電台](https://zh.wikipedia.org/wiki/Category:香港網絡電台 "wikilink")
 
 1.  [澳洲廣播公司訪問香港天樂澳洲分部](http://www.youtube.com/watch?v=PmkS_wxEIk8)
 2.  [戶外大電視播出英語新聞的照片](http://sphotos-f.ak.fbcdn.net/hphotos-ak-ash3/541708_10151354015296335_363509387_n.jpg)
-
 3.
-4.  [SG Ball Cup 2013 - West Coast Pirates v Balmain
-    Tigers](http://www.youtube.com/watch?v=tpWvRpWqpvI)
-5.  [(All Flags State League Round 1) Perth SC v Bayswater
-    City](http://www.youtube.com/watch?v=xmEm5nj0Jj8)
+4.  [SG Ball Cup 2013 - West Coast Pirates v Balmain Tigers](http://www.youtube.com/watch?v=tpWvRpWqpvI)
+5.  [(All Flags State League Round 1) Perth SC v Bayswater City](http://www.youtube.com/watch?v=xmEm5nj0Jj8)

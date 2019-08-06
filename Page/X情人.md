@@ -1,6 +1,4 @@
-《**X情人**》（），2016年[臺灣](../Page/臺灣.md "wikilink")[偶像劇](../Page/偶像劇.md "wikilink")，2016年10月28日於[CHOCO
-TV上架播出](../Page/CHOCO_TV.md "wikilink")。本劇分成閨密情人、恐怖情人、媽寶情人、外送情人、盲目情人、條件情人等六單元，每單元一集。\[1\]
-\[2\]
+《**X情人**》（），2016年[臺灣](../Page/臺灣.md "wikilink")[偶像劇](../Page/偶像劇.md "wikilink")，2016年10月28日於[CHOCO TV上架播出](../Page/CHOCO_TV.md "wikilink")。本劇分成閨密情人、恐怖情人、媽寶情人、外送情人、盲目情人、條件情人等六單元，每單元一集。\[1\] \[2\]
 
 ## 播出時間
 
@@ -333,10 +331,7 @@ James和Emily為同公司的同事，後成為男女朋友，James因爸爸長�
 ## 外部連結
 
   -
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink")
-[Category:2016年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2016年台灣電視劇集 "wikilink")
-[Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:台灣網路劇](https://zh.wikipedia.org/wiki/Category:台灣網路劇 "wikilink") [Category:2016年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2016年台灣電視劇集 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")
 
 1.
 2.

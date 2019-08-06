@@ -39,14 +39,7 @@
   -
   -
   -
-[Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink")
-[Category:香港犯罪片](https://zh.wikipedia.org/wiki/Category:香港犯罪片 "wikilink")
-[Category:東京取景電影](https://zh.wikipedia.org/wiki/Category:東京取景電影 "wikilink")
-[Category:報復題材電影](https://zh.wikipedia.org/wiki/Category:報復題材電影 "wikilink")
-[Category:悲劇電影](https://zh.wikipedia.org/wiki/Category:悲劇電影 "wikilink")
-[Category:毒品相關電影](https://zh.wikipedia.org/wiki/Category:毒品相關電影 "wikilink")
-[Category:黑幫電影](https://zh.wikipedia.org/wiki/Category:黑幫電影 "wikilink")
+[Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink") [Category:香港犯罪片](https://zh.wikipedia.org/wiki/Category:香港犯罪片 "wikilink") [Category:東京取景電影](https://zh.wikipedia.org/wiki/Category:東京取景電影 "wikilink") [Category:報復題材電影](https://zh.wikipedia.org/wiki/Category:報復題材電影 "wikilink") [Category:悲劇電影](https://zh.wikipedia.org/wiki/Category:悲劇電影 "wikilink") [Category:毒品相關電影](https://zh.wikipedia.org/wiki/Category:毒品相關電影 "wikilink") [Category:黑幫電影](https://zh.wikipedia.org/wiki/Category:黑幫電影 "wikilink")
 
-1.  [《解讀黑社會 港產黑幫電影縱橫遊》
-    源自於此衍生的黑色幽默](https://www.yesasia.com/global/yumcha/解讀黑社會-港產黑幫電影縱橫遊/0-0-0-arid.50-zh_TW/featured-article.html)
+1.  [《解讀黑社會 港產黑幫電影縱橫遊》 源自於此衍生的黑色幽默](https://www.yesasia.com/global/yumcha/解讀黑社會-港產黑幫電影縱橫遊/0-0-0-arid.50-zh_TW/featured-article.html)
 2.

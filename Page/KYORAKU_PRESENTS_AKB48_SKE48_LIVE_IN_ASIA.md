@@ -1,14 +1,11 @@
-**KYORAKU PRESENTS AKB48 SKE48 LIVE IN
-ASIA**是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")及[SKE48](../Page/SKE48.md "wikilink")於2010年11月16日在[澳門金沙](../Page/澳門金沙.md "wikilink")演奏廳舉行的海外公演，亦是首次[AKB48](../Page/AKB48.md "wikilink")及[SKE48](../Page/SKE48.md "wikilink")的共同海外公演\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]。
+**KYORAKU PRESENTS AKB48 SKE48 LIVE IN ASIA**是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")及[SKE48](../Page/SKE48.md "wikilink")於2010年11月16日在[澳門金沙](../Page/澳門金沙.md "wikilink")演奏廳舉行的海外公演，亦是首次[AKB48](../Page/AKB48.md "wikilink")及[SKE48](../Page/SKE48.md "wikilink")的共同海外公演\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]。
 
 ## 概要
 
   - 在「沒有驚喜」演唱會的第1天公演後，公佈將會在2010年10月至11月在[意大利](../Page/意大利.md "wikilink")[米蘭](../Page/米蘭.md "wikilink")、[新加玻及](https://zh.wikipedia.org/wiki/新加玻 "wikilink")[澳門](../Page/澳門.md "wikilink")進行海外公演\[11\]\[12\]\[13\]\[14\]。
   - 在東京秋祭第1天公演後，正式公佈將會在2010年11月16日在[澳門](../Page/澳門.md "wikilink")舉行海外公演\[15\]。
-  - 10月21日，官方網站正式公佈公演的名稱為「KYORAKU presents AKB48 SKE48 LIVE IN ASIA
-    supported by SKY PerfecTV\!」（）。\[16\]
-  - 在公演中，SKE48演出將於2010年11月17日發售的單曲《[1！2！3！4！
-    請多關照！](../Page/1！2！3！4！_請多關照！.md "wikilink")》（）。
+  - 10月21日，官方網站正式公佈公演的名稱為「KYORAKU presents AKB48 SKE48 LIVE IN ASIA supported by SKY PerfecTV\!」（）。\[16\]
+  - 在公演中，SKE48演出將於2010年11月17日發售的單曲《[1！2！3！4！ 請多關照！](../Page/1！2！3！4！_請多關照！.md "wikilink")》（）。
 
 ## 參加成員
 
@@ -38,29 +35,19 @@ ASIA**是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")及[SKE48](
 1.  **overture**
 2.  **[RIVER](../Page/RIVER_\(AKB48單曲\).md "wikilink")** - AKB48、SKE48
 3.  **[10年櫻](../Page/10年櫻.md "wikilink")**（） - AKB48
-4.  **[堅強之勇者](https://zh.wikipedia.org/wiki/堅強之勇者 "wikilink")**（） -
-    SKE48
-5.  **[想見你](https://zh.wikipedia.org/wiki/想見你_\(AKB48單曲\) "wikilink")**（）
-    - 全員
-6.  **[不只是回憶](../Page/Team_S_3rd_Stage「制服之芽」.md "wikilink")**（） -
-    桑原、平松、木崎
-7.  **[帶我去溫布頓](https://zh.wikipedia.org/wiki/Team_S_2nd_Stage「手牽手」 "wikilink")**（）
-    - 高柳、石田、木本
+4.  **[堅強之勇者](https://zh.wikipedia.org/wiki/堅強之勇者 "wikilink")**（） - SKE48
+5.  **[想見你](https://zh.wikipedia.org/wiki/想見你_\(AKB48單曲\) "wikilink")**（） - 全員
+6.  **[不只是回憶](../Page/Team_S_3rd_Stage「制服之芽」.md "wikilink")**（） - 桑原、平松、木崎
+7.  **[帶我去溫布頓](https://zh.wikipedia.org/wiki/Team_S_2nd_Stage「手牽手」 "wikilink")**（） - 高柳、石田、木本
 8.  **[枯葉車站](../Page/Team_S_3rd_Stage「制服之芽」.md "wikilink")**（） - 松井玲
-9.  **[曲終人盡](https://zh.wikipedia.org/wiki/Team_K_5th_Stage「引體後翻」 "wikilink")**（）
-    - 峯岸、北原、松井珠、矢神
-10. **[來一塊糖果](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） -
-    河西、佐藤亞、小森
-11. **[為了明天而接吻](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） -
-    仁藤、梅田、田名部、松井咲
-12. **[藍天下的單相思](https://zh.wikipedia.org/wiki/藍天下的單相思 "wikilink")**（） -
-    SKE48
+9.  **[曲終人盡](https://zh.wikipedia.org/wiki/Team_K_5th_Stage「引體後翻」 "wikilink")**（） - 峯岸、北原、松井珠、矢神
+10. **[來一塊糖果](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 河西、佐藤亞、小森
+11. **[為了明天而接吻](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - 仁藤、梅田、田名部、松井咲
+12. **[藍天下的單相思](https://zh.wikipedia.org/wiki/藍天下的單相思 "wikilink")**（） - SKE48
 13. **[抱歉、SUMMER](../Page/抱歉、SUMMER.md "wikilink")**（） - SKE48
 14. **[Maybe是藉口](../Page/Maybe是藉口.md "wikilink")**（） - AKB48
-15. **[驚喜之淚！](https://zh.wikipedia.org/wiki/驚喜之淚！ "wikilink")**（） -
-    AKB48
-16. **[Beginner](../Page/Beginner_\(AKB48單曲\).md "wikilink")** -
-    AKB48、SKE48
+15. **[驚喜之淚！](https://zh.wikipedia.org/wiki/驚喜之淚！ "wikilink")**（） - AKB48
+16. **[Beginner](../Page/Beginner_\(AKB48單曲\).md "wikilink")** - AKB48、SKE48
 17. **[馬尾與髮圈](../Page/馬尾與髮圈.md "wikilink")**（） - 全員
 
 **安可曲**
@@ -86,8 +73,7 @@ ASIA**是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")及[SKE48](
 
   - [DVD官方專頁](http://www.akb48-dvdcatalog.com/asia10/)
 
-  - [KYORAKU介紹頁面](https://web.archive.org/web/20101118013119/http://www.kyoraku.co.jp/campaign/2010/aslive/)（Internet
-    Archive）
+  - [KYORAKU介紹頁面](https://web.archive.org/web/20101118013119/http://www.kyoraku.co.jp/campaign/2010/aslive/)（Internet Archive）
 
 [Category:AKB48的演唱会](https://zh.wikipedia.org/wiki/Category:AKB48的演唱会 "wikilink")
 

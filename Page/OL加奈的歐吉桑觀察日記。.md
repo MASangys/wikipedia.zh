@@ -1,5 +1,4 @@
-《*'
-OL加奈的歐吉桑觀察日記*'》（）是[富士電視TWO於](https://zh.wikipedia.org/wiki/富士電視TWO "wikilink")2013年11月4日開始播出的連續劇，主演為[夏帆](../Page/夏帆.md "wikilink")。
+《*' OL加奈的歐吉桑觀察日記*'》（）是[富士電視TWO於](https://zh.wikipedia.org/wiki/富士電視TWO "wikilink")2013年11月4日開始播出的連續劇，主演為[夏帆](../Page/夏帆.md "wikilink")。
 
 嚮往在東京丸之內辦公大樓上班的加奈，因為一字之誤而進了東京近郊位在「下丸子」負責販售淨水器的小公司「美水商事」上班。公司除了他之外，四位同事全都是年紀超過45歲的中年大叔，加奈對這些大叔們的各種奇葩行為感到震撼，於是透過每天手繪的觀察日記，紀錄這些大叔的日常生活。
 
@@ -13,5 +12,4 @@ OL加奈的歐吉桑觀察日記*'》（）是[富士電視TWO於](https://zh.wi
 
 ## 外部連結
 
-  - [OL加奈的歐吉桑觀察日記-
-    富士電視台](https://web.archive.org/web/20140718043036/http://www.fujitv.co.jp/otn/ojikan/index.html)
+  - [OL加奈的歐吉桑觀察日記- 富士電視台](https://web.archive.org/web/20140718043036/http://www.fujitv.co.jp/otn/ojikan/index.html)

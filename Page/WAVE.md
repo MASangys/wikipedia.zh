@@ -1,5 +1,4 @@
-《**WAVE**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第五張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，第三張正規日語專輯，在2014年9月17日以四個版本：通常盤、初回限定盤A、初回限定盤B及Boice盤推出\[1\]。兩張打入Oricon單曲週榜前十名的單曲：《Truth》及《Go
-your way》在專輯推出前預先發行。
+《**WAVE**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第五張日語[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，第三張正規日語專輯，在2014年9月17日以四個版本：通常盤、初回限定盤A、初回限定盤B及Boice盤推出\[1\]。兩張打入Oricon單曲週榜前十名的單曲：《Truth》及《Go your way》在專輯推出前預先發行。
 
 ## 背景
 
@@ -15,9 +14,7 @@ your way》在專輯推出前預先發行。
 
 <!-- end list -->
 
-  - 初回限定盤B（編號：WPZL-30913/4）：此版本包括了一片CD及一片收錄CNBLUE在《[SUMMER
-    SONIC](../Page/SUMMER_SONIC.md "wikilink")
-    2013》之後半段音樂會的DVD，同時附贈隨附卡序列碼版本B\[8\]。
+  - 初回限定盤B（編號：WPZL-30913/4）：此版本包括了一片CD及一片收錄CNBLUE在《[SUMMER SONIC](../Page/SUMMER_SONIC.md "wikilink") 2013》之後半段音樂會的DVD，同時附贈隨附卡序列碼版本B\[8\]。
 
 <!-- end list -->
 
@@ -53,9 +50,7 @@ your way》在專輯推出前預先發行。
 
 ## 參考資料
 
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:CNBLUE音樂專輯](https://zh.wikipedia.org/wiki/Category:CNBLUE音樂專輯 "wikilink")
+[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:CNBLUE音樂專輯](https://zh.wikipedia.org/wiki/Category:CNBLUE音樂專輯 "wikilink")
 
 1.
 

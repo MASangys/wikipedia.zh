@@ -8,19 +8,15 @@
 
 1990年，JR货物同时开发研制了两款6000千瓦大功率交流传动电力机车，其牵引功率是EF66型电力机车的1.5倍。其中，[EF200型电力机车适用于](../Page/JR貨物EF200型電力機車.md "wikilink")1500伏特直流电气化铁路，计划投入东京至大阪间使用；而EF500型电力机车适用于1500伏特直流电气化铁路和20千伏交流电气化铁路，计划投入东京至北海道间使用。两者均按照相同的性能指标进行设计，即最高速度为120公里/小时，当牵引1600吨列车通过10‰坡道的平衡速度可达到90公里/小时以上，并且可以牵引1600吨列车在15‰坡道上起动\[3\]。
 
-EF500型电力机车是由[逆变器](https://zh.wikipedia.org/wiki/逆变器 "wikilink")[变频控制的交流传动电力机车](https://zh.wikipedia.org/wiki/变频传动 "wikilink")，采用[GTO牵引逆变器](https://zh.wikipedia.org/wiki/可關斷晶閘管 "wikilink")、1000千瓦[三相异步](../Page/异步电动机.md "wikilink")[牵引电动机和](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")[16位](https://zh.wikipedia.org/wiki/16位元 "wikilink")[微机控制系统](../Page/微型计算机.md "wikilink")。牵引系统的主要特点是采用了单轴控制技术，每台牵引电动机各自对应独立的牵引逆变器，
-每三个牵引逆变器组成一个逆变器单元，构成一个具有较高冗余度的主电路。因考虑到货物列车主要在列车密度较低的夜间运行，因此并没有采用受直流电网条件限制的[再生制动](https://zh.wikipedia.org/wiki/再生制动 "wikilink")，而是采用具有较高可靠性的[电阻制动](../Page/电阻制动.md "wikilink")\[4\]。
+EF500型电力机车是由[逆变器](https://zh.wikipedia.org/wiki/逆变器 "wikilink")[变频控制的交流传动电力机车](https://zh.wikipedia.org/wiki/变频传动 "wikilink")，采用[GTO牵引逆变器](https://zh.wikipedia.org/wiki/可關斷晶閘管 "wikilink")、1000千瓦[三相异步](../Page/异步电动机.md "wikilink")[牵引电动机和](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")[16位](https://zh.wikipedia.org/wiki/16位元 "wikilink")[微机控制系统](../Page/微型计算机.md "wikilink")。牵引系统的主要特点是采用了单轴控制技术，每台牵引电动机各自对应独立的牵引逆变器， 每三个牵引逆变器组成一个逆变器单元，构成一个具有较高冗余度的主电路。因考虑到货物列车主要在列车密度较低的夜间运行，因此并没有采用受直流电网条件限制的[再生制动](https://zh.wikipedia.org/wiki/再生制动 "wikilink")，而是采用具有较高可靠性的[电阻制动](../Page/电阻制动.md "wikilink")\[4\]。
 
 ## 运用历史
 
-1990年8月，EF500型电力机车的首台[原型车](../Page/原型_\(工程\).md "wikilink")（901）在川崎重工业兵库工厂落成，并配属JR货物，投入东北本线开始进行各项性能确认试验。这台原型车落成时所采用的崭新涂装参考自欧洲同类型电力机车，抛弃了以往国铁电力机车千篇一律的标准色涂装，其中两端司机室部分采用红葡萄色，车体正面车灯部分采用白色，而两侧车身的中部则采用灰白色，并且还有“INVERTER
-HI-TECH LOCO”的英文字体。
+1990年8月，EF500型电力机车的首台[原型车](../Page/原型_\(工程\).md "wikilink")（901）在川崎重工业兵库工厂落成，并配属JR货物，投入东北本线开始进行各项性能确认试验。这台原型车落成时所采用的崭新涂装参考自欧洲同类型电力机车，抛弃了以往国铁电力机车千篇一律的标准色涂装，其中两端司机室部分采用红葡萄色，车体正面车灯部分采用白色，而两侧车身的中部则采用灰白色，并且还有“INVERTER HI-TECH LOCO”的英文字体。
 
 EF500型电力机车开始试验后就遇到与EF200型电力机车相同的问题，主要是由于既有的牵引供电系难以承受大功率电力机车，导致机车无法充分发挥其牵引性能。当机车以全功率状态在直流区间运行时，[架空接触网负载电流有可能超过在来线牵引变电所的容量限制](https://zh.wikipedia.org/wiki/架空接触网 "wikilink")，而网侧电压也会出现较大幅度的下滑，影响同一供电区间内其他列车的运行。除此之外，晶闸管整流器和GTO牵引逆变器也产生了较多的[高次谐波电流](https://zh.wikipedia.org/wiki/电流谐波 "wikilink")，因而对铁路沿线通信设备造成[电磁干扰](https://zh.wikipedia.org/wiki/电磁干扰 "wikilink")\[5\]。
 
-1990年代初[日本泡沫经济](../Page/日本泡沫经济.md "wikilink")破灭后铁路货运量增长乏力，JR货物不再急切需要大功率货运电力机车，遂终止了EF500型电力机车的量产计划。而作为唯一一台原型车的EF500
-901号机车，于1994年完成性能试验后就停止运用，并且被长期封存于长町机关区。1999年，原长町机关区和原盛冈机关区合并及成立了。2002年3月29日，EF500
-901号机车正式除籍报废，随后被回送至保存。
+1990年代初[日本泡沫经济](../Page/日本泡沫经济.md "wikilink")破灭后铁路货运量增长乏力，JR货物不再急切需要大功率货运电力机车，遂终止了EF500型电力机车的量产计划。而作为唯一一台原型车的EF500 901号机车，于1994年完成性能试验后就停止运用，并且被长期封存于长町机关区。1999年，原长町机关区和原盛冈机关区合并及成立了。2002年3月29日，EF500 901号机车正式除籍报废，随后被回送至保存。
 
 虽然EF500型电力机车没有投入批量生产，但在吸取其研制经验和试验结果的基础上，JR货物又先后开发了交直流两用的[EH500](../Page/JR貨物EH500型電力機車.md "wikilink")、[EF510型电力机车](../Page/JR貨物EF510型電力機車.md "wikilink")。EH500型电力机车是双节八轴的4000千瓦电力机车，用来替换东北本线的ED75型电力机车；EF510型电力机车是单节六轴的3390千瓦电力机车，用来替换[日本海縱貫線](../Page/日本海縱貫線.md "wikilink")和[常磐線](../Page/常磐線.md "wikilink")的EF81型電力機車。
 
@@ -72,13 +68,7 @@ EF500型电力机车设有[电阻制动](../Page/电阻制动.md "wikilink")和[
 
 ## 参考文献
 
-[Category:日本貨物鐵道電力機車](https://zh.wikipedia.org/wiki/Category:日本貨物鐵道電力機車 "wikilink")
-[Category:1500伏直流电力机车](https://zh.wikipedia.org/wiki/Category:1500伏直流电力机车 "wikilink")
-[Category:20千伏50赫茲交流電力機車](https://zh.wikipedia.org/wiki/Category:20千伏50赫茲交流電力機車 "wikilink")
-[Category:20千伏60赫茲交流電力機車](https://zh.wikipedia.org/wiki/Category:20千伏60赫茲交流電力機車 "wikilink")
-[Category:Bo-Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo-Bo軸式機車 "wikilink")
-[Category:川崎制铁路机车](https://zh.wikipedia.org/wiki/Category:川崎制铁路机车 "wikilink")
-[Category:三菱重工业制铁路机车](https://zh.wikipedia.org/wiki/Category:三菱重工业制铁路机车 "wikilink")
+[Category:日本貨物鐵道電力機車](https://zh.wikipedia.org/wiki/Category:日本貨物鐵道電力機車 "wikilink") [Category:1500伏直流电力机车](https://zh.wikipedia.org/wiki/Category:1500伏直流电力机车 "wikilink") [Category:20千伏50赫茲交流電力機車](https://zh.wikipedia.org/wiki/Category:20千伏50赫茲交流電力機車 "wikilink") [Category:20千伏60赫茲交流電力機車](https://zh.wikipedia.org/wiki/Category:20千伏60赫茲交流電力機車 "wikilink") [Category:Bo-Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo-Bo軸式機車 "wikilink") [Category:川崎制铁路机车](https://zh.wikipedia.org/wiki/Category:川崎制铁路机车 "wikilink") [Category:三菱重工业制铁路机车](https://zh.wikipedia.org/wiki/Category:三菱重工业制铁路机车 "wikilink")
 
 1.
 

@@ -1,11 +1,8 @@
-'''SHINee亞洲巡迴演唱會 - "SHINee WORLD II"
-'''是韓國男子團體[SHINee](../Page/SHINee.md "wikilink")第二次的個人巡迴演唱會，是次演出於2012年在亞洲四個城市進行，包括本士城市[首爾](../Page/首爾.md "wikilink")、[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")、[香港](../Page/香港.md "wikilink")以及[新加坡](../Page/新加坡.md "wikilink")。
+'''SHINee亞洲巡迴演唱會 - "SHINee WORLD II" '''是韓國男子團體[SHINee](../Page/SHINee.md "wikilink")第二次的個人巡迴演唱會，是次演出於2012年在亞洲四個城市進行，包括本士城市[首爾](../Page/首爾.md "wikilink")、[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")、[香港](../Page/香港.md "wikilink")以及[新加坡](../Page/新加坡.md "wikilink")。
 
 ## 歷史
 
-與SHINee上一次的巡演"[SHINee
-WORLD](../Page/Shinee_World.md "wikilink")"相隔七個月，"SHINee
-WORLD II" 在2012年7月21日在[首爾](../Page/首爾.md "wikilink")展開。
+與SHINee上一次的巡演"[SHINee WORLD](../Page/Shinee_World.md "wikilink")"相隔七個月，"SHINee WORLD II" 在2012年7月21日在[首爾](../Page/首爾.md "wikilink")展開。
 
 ## 日程
 
@@ -66,12 +63,9 @@ WORLD II" 在2012年7月21日在[首爾](../Page/首爾.md "wikilink")展開。
 
 ## 外部連結
 
-  - [SM Entertainment - Official
-    website](https://web.archive.org/web/20060424164456/http://www.smtown.com/)
-  - [EMI Music Japan - Official
-    website](https://web.archive.org/web/20070811013024/http://www.emimusic.jp/)
+  - [SM Entertainment - Official website](https://web.archive.org/web/20060424164456/http://www.smtown.com/)
+  - [EMI Music Japan - Official website](https://web.archive.org/web/20070811013024/http://www.emimusic.jp/)
   - [Shinee - Official South Korean website](http://shinee.smtown.com)
   - [Shinee - Official Japanese website](http://www.shinee.jp/)
 
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
-[Category:SHINee](https://zh.wikipedia.org/wiki/Category:SHINee "wikilink")
+[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink") [Category:SHINee](https://zh.wikipedia.org/wiki/Category:SHINee "wikilink")

@@ -6,13 +6,7 @@
 
   -
 
-[Category:雷頓教授系列](https://zh.wikipedia.org/wiki/Category:雷頓教授系列 "wikilink")
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:冒险游戏](https://zh.wikipedia.org/wiki/Category:冒险游戏 "wikilink")
-[Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink")
-[Category:任天堂3DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS独占游戏 "wikilink")
-[Category:Nintendo_Network遊戲](https://zh.wikipedia.org/wiki/Category:Nintendo_Network遊戲 "wikilink")
-[Category:前传电子游戏](https://zh.wikipedia.org/wiki/Category:前传电子游戏 "wikilink")
+[Category:雷頓教授系列](https://zh.wikipedia.org/wiki/Category:雷頓教授系列 "wikilink") [Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:冒险游戏](https://zh.wikipedia.org/wiki/Category:冒险游戏 "wikilink") [Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink") [Category:任天堂3DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS独占游戏 "wikilink") [Category:Nintendo_Network遊戲](https://zh.wikipedia.org/wiki/Category:Nintendo_Network遊戲 "wikilink") [Category:前传电子游戏](https://zh.wikipedia.org/wiki/Category:前传电子游戏 "wikilink")
 
 1.
 2.

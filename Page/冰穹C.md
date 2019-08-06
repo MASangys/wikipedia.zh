@@ -12,8 +12,7 @@
 
 ## 环境
 
-[AntarcticaDomeCSnow.jpg](https://zh.wikipedia.org/wiki/File:AntarcticaDomeCSnow.jpg "fig:AntarcticaDomeCSnow.jpg")
-冰穹C是世界上最冷的地区之一，属典型的[冰原气候](https://zh.wikipedia.org/wiki/冰原气候 "wikilink")，全年气温鲜少高于-25°C，寒季时可时常低于-80°C。年平均气温-54.5°C，最低气温达-84.6°C。但由于地处内陆，海拔高，因此风速较小（仅2.8米/秒），强风少见，且无[下降风](https://zh.wikipedia.org/wiki/下降风 "wikilink")。
+[AntarcticaDomeCSnow.jpg](https://zh.wikipedia.org/wiki/File:AntarcticaDomeCSnow.jpg "fig:AntarcticaDomeCSnow.jpg") 冰穹C是世界上最冷的地区之一，属典型的[冰原气候](https://zh.wikipedia.org/wiki/冰原气候 "wikilink")，全年气温鲜少高于-25°C，寒季时可时常低于-80°C。年平均气温-54.5°C，最低气温达-84.6°C。但由于地处内陆，海拔高，因此风速较小（仅2.8米/秒），强风少见，且无[下降风](https://zh.wikipedia.org/wiki/下降风 "wikilink")。
 
 ## 天文观测
 
@@ -26,31 +25,15 @@
 
 ## 外部連結
 
-  - [Another Dome C
-    FAQ](http://www.gdargaud.net/Antarctica/DomeCFAQ.html) (Guillaume
-    Dargaud)
-  - [First Winterover at Concordia Station
-    (2005)](http://www.gdargaud.net/Antarctica/WinterDC1.html) blog by
-    Guillaume Dargaud
-  - [2nd Winterover at Concordia Station
-    (2006)](https://web.archive.org/web/20060626172011/http://www-luan.unice.fr/~aristidi/hivernage/)
-    blog by Eric Aristidi, LUAN (Laboratoire Universitaire
-    d'Astrophysique de Nice)
-  - [Official website of Concordia
-    Station](https://web.archive.org/web/20090216102708/http://www.concordiastation.org/DOMEC/HTML/concordia.html)
-    *Institut Polaire Français - Paule Emile Victor* (IPEV) and
-    *Programma Nazionale di Ricerche in Antartide* (PNRA)
-  - [Dome C seeing, Nature
-    Letter](https://web.archive.org/web/20060215183040/http://www.phys.unsw.edu.au/nature/)
-    Frequently Asked Questions about seeing at Dome C.
-  - [International Large Optical Telescope, is proposed as a 2m
-    optical-quality telescope for Dome
-    C](https://web.archive.org/web/20100213040904/http://www.phys.unsw.edu.au/jacara/pilotsciencenotes.php)
+  - [Another Dome C FAQ](http://www.gdargaud.net/Antarctica/DomeCFAQ.html) (Guillaume Dargaud)
+  - [First Winterover at Concordia Station (2005)](http://www.gdargaud.net/Antarctica/WinterDC1.html) blog by Guillaume Dargaud
+  - [2nd Winterover at Concordia Station (2006)](https://web.archive.org/web/20060626172011/http://www-luan.unice.fr/~aristidi/hivernage/) blog by Eric Aristidi, LUAN (Laboratoire Universitaire d'Astrophysique de Nice)
+  - [Official website of Concordia Station](https://web.archive.org/web/20090216102708/http://www.concordiastation.org/DOMEC/HTML/concordia.html) *Institut Polaire Français - Paule Emile Victor* (IPEV) and *Programma Nazionale di Ricerche in Antartide* (PNRA)
+  - [Dome C seeing, Nature Letter](https://web.archive.org/web/20060215183040/http://www.phys.unsw.edu.au/nature/) Frequently Asked Questions about seeing at Dome C.
+  - [International Large Optical Telescope, is proposed as a 2m optical-quality telescope for Dome C](https://web.archive.org/web/20100213040904/http://www.phys.unsw.edu.au/jacara/pilotsciencenotes.php)
   - [Michael C. B. Ashley](http://www.phys.unsw.edu.au/~mcba/)
-  - [Site evaluation of E-ELT of ESO including thiks
-    location.](http://www.eso.org/projects/e-elt/Publications/ESO-ELT-BRD-WG3-FinalReport-Public.pdf)
+  - [Site evaluation of E-ELT of ESO including thiks location.](http://www.eso.org/projects/e-elt/Publications/ESO-ELT-BRD-WG3-FinalReport-Public.pdf)
   - [OpenStreetMap](http://www.openstreetmap.org/browse/node/529461897)
-  - [Alexei Rudoy. Прошлогодний снег. - Climate, ice, water,
-    landscapes](http://ice.tsu.ru/index.php?option=com_content&view=category&layout=blog&id=8&Itemid=99)
+  - [Alexei Rudoy. Прошлогодний снег. - Climate, ice, water, landscapes](http://ice.tsu.ru/index.php?option=com_content&view=category&layout=blog&id=8&Itemid=99)
 
 [Category:南極洲地理](https://zh.wikipedia.org/wiki/Category:南極洲地理 "wikilink")

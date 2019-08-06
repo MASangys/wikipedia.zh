@@ -17,9 +17,7 @@ local function fmtListItem( data )
 
 ', data ) end
 
-\-- Returns an array containing the keys of all positional arguments --
-that contain data (i.e. non-whitespace values). local function
-getArgNums( args )
+\-- Returns an array containing the keys of all positional arguments -- that contain data (i.e. non-whitespace values). local function getArgNums( args )
 
 `   local nums = {}`
 `   for k, v in pairs( args ) do`
@@ -36,8 +34,7 @@ getArgNums( args )
 
 end
 
-\-- Formats a list of classes, styles or other attributes. local
-function formatAttributes( attrType, ... )
+\-- Formats a list of classes, styles or other attributes. local function formatAttributes( attrType, ... )
 
 `   local attributes = { ... }`
 `   local nums = getArgNums( attributes )`
@@ -146,8 +143,7 @@ function p.main( frame, listOnly )
 
 end
 
-\-- generates the core list and nothing else function p.giveList( frame
-)
+\-- generates the core list and nothing else function p.giveList( frame )
 
 `   return p.main( frame, true )`
 

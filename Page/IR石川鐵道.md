@@ -29,8 +29,7 @@
 
 ## 名稱由來
 
-結合了英文簡稱和日文的組合名稱，「IR」取自其英文名稱「**I**shikawa
-**R**ailway」首個[字母](../Page/字母.md "wikilink")，其讀音又與日文中的「擁有愛（「」，Ai-Aru）類近，代表公司對縣民時刻都存有關懷，並以此作為營運的宗旨\[5\]。
+結合了英文簡稱和日文的組合名稱，「IR」取自其英文名稱「**I**shikawa **R**ailway」首個[字母](../Page/字母.md "wikilink")，其讀音又與日文中的「擁有愛（「」，Ai-Aru）類近，代表公司對縣民時刻都存有關懷，並以此作為營運的宗旨\[5\]。
 
 ## 歷史
 
@@ -56,10 +55,7 @@
 \!距離\!\!JR實際車費
 （日圓）\!\!2015年開業時的車費
 （日圓）\[12\]\!\!差距（日圓）（百分比）\!\!2020年起的車費
-（日圓）\[13\]\!\!差距（日圓）（百分比） |- |最初3km||140||160||20 (14.4)||170||30 (21.4)
-|- |4 - 6||190||220||30 (15.7)||230||40 (21.1) |- |7 - 10||200||230||30
-(15)||240||40 (20) |- |11 - 15||240||270||30 (12.5)||290||50 (20.8) |-
-|16 - 20||320||360||40 (12.5)||380||60 (18.75) |- |}
+（日圓）\[13\]\!\!差距（日圓）（百分比） |- |最初3km||140||160||20 (14.4)||170||30 (21.4) |- |4 - 6||190||220||30 (15.7)||230||40 (21.1) |- |7 - 10||200||230||30 (15)||240||40 (20) |- |11 - 15||240||270||30 (12.5)||290||50 (20.8) |- |16 - 20||320||360||40 (12.5)||380||60 (18.75) |- |}
 
 另外，營業範圍內的所有車站現時均沒有任何快速或特急列車停靠，但凡乘搭途經IR路段的非普通列車乘客，一律須繳付200日圓的特急費用。以往由JR發行的各種通行證，除「[青春18車票](../Page/青春18車票.md "wikilink")」及「」外，包括[日本鐵路周遊券](../Page/日本鐵路周遊券.md "wikilink")在內的其他通行證一律也不能在IR內使用\[14\]。不過，IR同時推出一些優惠，包括於IR車站內同時購買由金澤開出的新幹線或JR特急列車車票，IR線路內的車費可獲半價，同時在周末及假日也推出了500日圓1日自由乘坐通行劵\[15\]。
 
@@ -69,17 +65,11 @@
 
 ## 參考資料
 
-[Category:IR石川鐵道](https://zh.wikipedia.org/wiki/Category:IR石川鐵道 "wikilink")
-[Category:日本鐵路公司](https://zh.wikipedia.org/wiki/Category:日本鐵路公司 "wikilink")
-[Category:第三部門鐵路公司](https://zh.wikipedia.org/wiki/Category:第三部門鐵路公司 "wikilink")
-[Category:石川縣鐵路](https://zh.wikipedia.org/wiki/Category:石川縣鐵路 "wikilink")
-[Category:石川縣公司](https://zh.wikipedia.org/wiki/Category:石川縣公司 "wikilink")
-[Category:金澤市](https://zh.wikipedia.org/wiki/Category:金澤市 "wikilink")
+[Category:IR石川鐵道](https://zh.wikipedia.org/wiki/Category:IR石川鐵道 "wikilink") [Category:日本鐵路公司](https://zh.wikipedia.org/wiki/Category:日本鐵路公司 "wikilink") [Category:第三部門鐵路公司](https://zh.wikipedia.org/wiki/Category:第三部門鐵路公司 "wikilink") [Category:石川縣鐵路](https://zh.wikipedia.org/wiki/Category:石川縣鐵路 "wikilink") [Category:石川縣公司](https://zh.wikipedia.org/wiki/Category:石川縣公司 "wikilink") [Category:金澤市](https://zh.wikipedia.org/wiki/Category:金澤市 "wikilink")
 
 1.  [會社案內。](http://ishikawa-railway.jp/company/pdf/00.pdf)
 
-2.  IR石川鐵路開業時[上行](http://www.ishikawa-railway.jp/news/pdf/20150108/3.pdf)
-    及[下行](http://www.ishikawa-railway.jp/news/pdf/20150108/1.pdf) 時間表。
+2.  IR石川鐵路開業時[上行](http://www.ishikawa-railway.jp/news/pdf/20150108/3.pdf) 及[下行](http://www.ishikawa-railway.jp/news/pdf/20150108/1.pdf) 時間表。
 
 3.
 4.  [1](http://www.westjr.co.jp/press/article/items/140827_00_w7.pdf)
@@ -88,10 +78,8 @@
 
 6.  [並行在来線対策について（修訂版）。石川縣政府。](http://www.pref.ishikawa.lg.jp/shink/heikouzairaisen/heikouzairaisennituite/heikouzairaisentoha/documents/heikouzairaisennituite.pdf)
 
-
 7.
 8.  [所定運賃（開業時、予定），ＩＲいしかわ鉄道，2014年10月27日。](http://www.ishikawa-railway.jp/news/pdf/20141027/13.pdf)
-
 
 9.  [本社を移転しました，ＩＲいしかわ鉄道，2014年11月1日。](http://www.ishikawa-railway.jp/news/20141101.html)
 
@@ -105,5 +93,4 @@
 
 14.
 
-15. [開業記念入場券と企画乗車券の発売について](http://ishikawa-railway.jp/news/20150210.html)（お知らせ）
-    - IRいしかわ鉄道（2015年2月10日付）
+15. [開業記念入場券と企画乗車券の発売について](http://ishikawa-railway.jp/news/20150210.html)（お知らせ） - IRいしかわ鉄道（2015年2月10日付）

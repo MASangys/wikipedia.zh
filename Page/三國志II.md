@@ -110,40 +110,20 @@
 ## 音樂商品
 
   - 三國志II H29E-20009:1989-12-21發售，作、編曲：向谷實\[8\]
-  - 光栄オリジナルBGM集Vol.3 三國志II/維新の嵐
-    KECH-1001:PC-8801版的音樂，內附[樂譜](https://zh.wikipedia.org/wiki/樂譜 "wikilink")。\[9\]
+  - 光栄オリジナルBGM集Vol.3 三國志II/維新の嵐 KECH-1001:PC-8801版的音樂，內附[樂譜](https://zh.wikipedia.org/wiki/樂譜 "wikilink")。\[9\]
   - 光栄オリジナルBGM集Vol.5 スーパー信長の野望・武将風雲録/スーパー三國志II KECH-1023\[10\]
 
 ## 注釋與參考來源
 
-[Category:三國志系列](https://zh.wikipedia.org/wiki/Category:三國志系列 "wikilink")
-[Category:1989年電子遊戲](https://zh.wikipedia.org/wiki/Category:1989年電子遊戲 "wikilink")
-[Category:DOS遊戲](https://zh.wikipedia.org/wiki/Category:DOS遊戲 "wikilink")
-[Category:FM_Towns遊戲](https://zh.wikipedia.org/wiki/Category:FM_Towns遊戲 "wikilink")
-[Category:Game_Boy_Color游戏](https://zh.wikipedia.org/wiki/Category:Game_Boy_Color游戏 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink")
-[Category:Mega_Drive遊戲](https://zh.wikipedia.org/wiki/Category:Mega_Drive遊戲 "wikilink")
-[Category:MSX游戏](https://zh.wikipedia.org/wiki/Category:MSX游戏 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink")
-[Category:光荣特库摩游戏](https://zh.wikipedia.org/wiki/Category:光荣特库摩游戏 "wikilink")
-[Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink")
-[Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink")
-[Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
-[Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink")
+[Category:三國志系列](https://zh.wikipedia.org/wiki/Category:三國志系列 "wikilink") [Category:1989年電子遊戲](https://zh.wikipedia.org/wiki/Category:1989年電子遊戲 "wikilink") [Category:DOS遊戲](https://zh.wikipedia.org/wiki/Category:DOS遊戲 "wikilink") [Category:FM_Towns遊戲](https://zh.wikipedia.org/wiki/Category:FM_Towns遊戲 "wikilink") [Category:Game_Boy_Color游戏](https://zh.wikipedia.org/wiki/Category:Game_Boy_Color游戏 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:Mega_Drive遊戲](https://zh.wikipedia.org/wiki/Category:Mega_Drive遊戲 "wikilink") [Category:MSX游戏](https://zh.wikipedia.org/wiki/Category:MSX游戏 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink") [Category:光荣特库摩游戏](https://zh.wikipedia.org/wiki/Category:光荣特库摩游戏 "wikilink") [Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink") [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink") [Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink") [Category:超级任天堂游戏](https://zh.wikipedia.org/wiki/Category:超级任天堂游戏 "wikilink")
 
 1.  [三國志II　製品案内](https://www.gamecity.ne.jp/products/products/ee/Rlsan2.htm)，日本gamecity官網的簡介。
 2.  [第三波](http://games.sina.com.cn/guancha/thirdware/dshj.shtml)，[新浪网](https://zh.wikipedia.org/wiki/新浪网 "wikilink")，2014-03-11查閱。
-3.  [【PC】三國志二](http://acg.gamer.com.tw/acgDetail.php?s=23068)-
-    [巴哈姆特電玩資訊站](../Page/巴哈姆特電玩資訊站.md "wikilink")，2014-03-11查閱。
+3.  [【PC】三國志二](http://acg.gamer.com.tw/acgDetail.php?s=23068)- [巴哈姆特電玩資訊站](../Page/巴哈姆特電玩資訊站.md "wikilink")，2014-03-11查閱。
 4.  《三國志II ハンドブック》，頁43
 5.  《三國志II ハンドブック》，頁32
 6.  《三國志II ハンドブック》，頁48
 7.  虛構人物，於[吉川英治](../Page/吉川英治.md "wikilink")所著作《》中登場，設定為劉備[初戀](https://zh.wikipedia.org/wiki/初戀 "wikilink")。
 8.  [三國志II](http://www.gamecity.ne.jp/media/cd/sw/sangokusi/san2.htm)
-9.  [【光栄オリジナルＢＧＭ集 Vol.3】三國志II／維新の嵐
-    ＋グレードアップ・ヴァージョン](http://www.gamecity.ne.jp/media/cd/bgm/bgm03.htm)
-10. [【光栄オリジナルＢＧＭ集
-    Vol.5】スーパー信長の野望・武将風雲録／スーパー三國志II](http://www.gamecity.ne.jp/media/cd/bgm/bgm05.htm)
+9.  [【光栄オリジナルＢＧＭ集 Vol.3】三國志II／維新の嵐 ＋グレードアップ・ヴァージョン](http://www.gamecity.ne.jp/media/cd/bgm/bgm03.htm)
+10. [【光栄オリジナルＢＧＭ集 Vol.5】スーパー信長の野望・武将風雲録／スーパー三國志II](http://www.gamecity.ne.jp/media/cd/bgm/bgm05.htm)

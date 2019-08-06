@@ -1,29 +1,12 @@
-**Apple
-A8**是[蘋果公司設計的第二代](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[64位元](../Page/64位元.md "wikilink")[系統單晶片](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")（SoC）。在2014年9月9日發佈，用於[iPhone
-6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")、[iPhone 6
-Plus](https://zh.wikipedia.org/wiki/iPhone_6_Plus "wikilink")、[iPad mini
-4](https://zh.wikipedia.org/wiki/iPad_mini_4 "wikilink")、[iPod touch
-6](https://zh.wikipedia.org/wiki/iPod_touch_6 "wikilink")、[Apple
-TV和](../Page/Apple_TV.md "wikilink")[HomePod](../Page/HomePod.md "wikilink")。\[1\]
-蘋果公司宣稱它比上代[Apple
-A7在](../Page/Apple_A7.md "wikilink")[CPU效能高](https://zh.wikipedia.org/wiki/CPU "wikilink")25%，繪圖效能高50%，能源效益高50%。\[2\]
+**Apple A8**是[蘋果公司設計的第二代](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[64位元](../Page/64位元.md "wikilink")[系統單晶片](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")（SoC）。在2014年9月9日發佈，用於[iPhone 6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")、[iPhone 6 Plus](https://zh.wikipedia.org/wiki/iPhone_6_Plus "wikilink")、[iPad mini 4](https://zh.wikipedia.org/wiki/iPad_mini_4 "wikilink")、[iPod touch 6](https://zh.wikipedia.org/wiki/iPod_touch_6 "wikilink")、[Apple TV和](../Page/Apple_TV.md "wikilink")[HomePod](../Page/HomePod.md "wikilink")。\[1\] 蘋果公司宣稱它比上代[Apple A7在](../Page/Apple_A7.md "wikilink")[CPU效能高](https://zh.wikipedia.org/wiki/CPU "wikilink")25%，繪圖效能高50%，能源效益高50%。\[2\]
 
 ## 技術
 
-CPU部份為自家定制的「改良版Cyclone」，上代A7則是「Cyclone」，維持雙核心設計，L1[快取為](https://zh.wikipedia.org/wiki/CPU快取 "wikilink")64KB指令+64KB數據，L2為1MB，L3則為4MB。GPU則採用[Imagination
-Technologies的](../Page/Imagination_Technologies.md "wikilink")[PowerVR](../Page/PowerVR.md "wikilink")
-GX6450，核心數目依然為4個，依蘋果公司的宣稱，比上代繪圖效能高50%。\[3\]值得一提的是蘋果公司也持有Imagination
-Technologies公司9.5%股權。
+CPU部份為自家定制的「改良版Cyclone」，上代A7則是「Cyclone」，維持雙核心設計，L1[快取為](https://zh.wikipedia.org/wiki/CPU快取 "wikilink")64KB指令+64KB數據，L2為1MB，L3則為4MB。GPU則採用[Imagination Technologies的](../Page/Imagination_Technologies.md "wikilink")[PowerVR](../Page/PowerVR.md "wikilink") GX6450，核心數目依然為4個，依蘋果公司的宣稱，比上代繪圖效能高50%。\[3\]值得一提的是蘋果公司也持有Imagination Technologies公司9.5%股權。
 
-Apple
-A8採用[台灣積體電路製造公司](https://zh.wikipedia.org/wiki/台灣積體電路製造公司 "wikilink")20nm製程生產\[4\]\[5\]，不再由[三星代工](../Page/三星電子.md "wikilink")。
+Apple A8採用[台灣積體電路製造公司](https://zh.wikipedia.org/wiki/台灣積體電路製造公司 "wikilink")20nm製程生產\[4\]\[5\]，不再由[三星代工](../Page/三星電子.md "wikilink")。
 
-它包含20億個[電晶體](https://zh.wikipedia.org/wiki/電晶體 "wikilink")，大約是Apple
-A7的兩倍，晶粒大小卻減少13%，由102mm<sup>2</sup>減至89mm<sup>2</sup>（沒有採用新架構，只是電晶體排得密）。\[6\]1GB
-LP[DDR3記憶體亦一同封裝在SoC](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。\[7\]iPhone
-6採用的LPDDR3記憶體是由[SK
-Hynix生產](https://zh.wikipedia.org/wiki/Hynix "wikilink")，iPhone 6
-Plus的記憶體則由[Elpida生產](https://zh.wikipedia.org/wiki/Elpida "wikilink")。\[8\]
+它包含20億個[電晶體](https://zh.wikipedia.org/wiki/電晶體 "wikilink")，大約是Apple A7的兩倍，晶粒大小卻減少13%，由102mm<sup>2</sup>減至89mm<sup>2</sup>（沒有採用新架構，只是電晶體排得密）。\[6\]1GB LP[DDR3記憶體亦一同封裝在SoC](https://zh.wikipedia.org/wiki/DDR3 "wikilink")。\[7\]iPhone 6採用的LPDDR3記憶體是由[SK Hynix生產](https://zh.wikipedia.org/wiki/Hynix "wikilink")，iPhone 6 Plus的記憶體則由[Elpida生產](https://zh.wikipedia.org/wiki/Elpida "wikilink")。\[8\]
 
 Geekbench[基準測試顯示處理器為雙核心](https://zh.wikipedia.org/wiki/基準測試 "wikilink")，頻率1.38GHz，符合蘋果公司的宣稱（比上代快25%）。\[9\]
 
@@ -222,8 +205,7 @@ A9X: iPad_Pro</p></td>
 ## 產品使用
 
   - [iPhone 6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")
-  - [iPhone 6
-    Plus](https://zh.wikipedia.org/wiki/iPhone_6_Plus "wikilink")
+  - [iPhone 6 Plus](https://zh.wikipedia.org/wiki/iPhone_6_Plus "wikilink")
   - [iPad mini 4](https://zh.wikipedia.org/wiki/iPad_mini_4 "wikilink")
   - [iPod touch 6](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")
   - 第四代[Apple TV](../Page/Apple_TV.md "wikilink")
@@ -231,9 +213,7 @@ A9X: iPad_Pro</p></td>
 
 ## 參考文獻
 
-[Category:苹果公司处理器](https://zh.wikipedia.org/wiki/Category:苹果公司处理器 "wikilink")
-[Category:ARM架構](https://zh.wikipedia.org/wiki/Category:ARM架構 "wikilink")
-[Category:微處理器](https://zh.wikipedia.org/wiki/Category:微處理器 "wikilink")
+[Category:苹果公司处理器](https://zh.wikipedia.org/wiki/Category:苹果公司处理器 "wikilink") [Category:ARM架構](https://zh.wikipedia.org/wiki/Category:ARM架構 "wikilink") [Category:微處理器](https://zh.wikipedia.org/wiki/Category:微處理器 "wikilink")
 
 1.
 

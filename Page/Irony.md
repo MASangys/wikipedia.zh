@@ -1,5 +1,4 @@
-《**irony**》是[ClariS](../Page/ClariS.md "wikilink")的第1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，于2010年10月20日由[SME
-Records發售](../Page/SME_Records.md "wikilink")。
+《**irony**》是[ClariS](../Page/ClariS.md "wikilink")的第1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，于2010年10月20日由[SME Records發售](../Page/SME_Records.md "wikilink")。
 
 ## 概要
 
@@ -45,9 +44,7 @@ Records發售](../Page/SME_Records.md "wikilink")。
       - [通常盤](https://web.archive.org/web/20131231040838/http://www.sonymusic.co.jp/Music/Arch/SMER/claris/SECL-908/)
       - [アニメ盤](https://web.archive.org/web/20160308060802/http://www.sonymusic.co.jp/Music/Arch/SMER/claris/SECL-909/)
 
-[Category:ClariS歌曲](https://zh.wikipedia.org/wiki/Category:ClariS歌曲 "wikilink")
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")
+[Category:ClariS歌曲](https://zh.wikipedia.org/wiki/Category:ClariS歌曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")
 
 1.
 2.

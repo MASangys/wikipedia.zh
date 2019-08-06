@@ -35,8 +35,7 @@
         作曲：J。
 11. MOON
       -
-        作曲：SUGIZO。為第一張專輯[LUNA
-        SEA當中重新編寫後錄製的歌曲](../Page/LUNA_SEA_\(專輯\).md "wikilink")，並加入女性和聲與小提琴演奏。據成員表示，不只是單純的重錄版本，而是更為貼近這首歌原本之面貌的作品。\[2\]
+        作曲：SUGIZO。為第一張專輯[LUNA SEA當中重新編寫後錄製的歌曲](../Page/LUNA_SEA_\(專輯\).md "wikilink")，並加入女性和聲與小提琴演奏。據成員表示，不只是單純的重錄版本，而是更為貼近這首歌原本之面貌的作品。\[2\]
 12. WISH
       -
         作曲：J。在寫作時，為了和現場觀眾一起合唱所作的曲子。固定作為演唱會表演的最後一首曲目。\[3\]
@@ -45,11 +44,9 @@
 
 <references/>
 
-[Category:1992年音樂專輯](https://zh.wikipedia.org/wiki/Category:1992年音樂專輯 "wikilink")
-[Category:月之海專輯](https://zh.wikipedia.org/wiki/Category:月之海專輯 "wikilink")
+[Category:1992年音樂專輯](https://zh.wikipedia.org/wiki/Category:1992年音樂專輯 "wikilink") [Category:月之海專輯](https://zh.wikipedia.org/wiki/Category:月之海專輯 "wikilink")
 
-1.  \* BAND SCORE LUNA SEA / IMAGE（DOREMI樂譜出版社，1995年5月30日出版，日文）ISBN
-    4-8108-3903-6
+1.  \* BAND SCORE LUNA SEA / IMAGE（DOREMI樂譜出版社，1995年5月30日出版，日文）ISBN 4-8108-3903-6
 
 2.
 3.

@@ -22,17 +22,10 @@
   - [灰與鑽石](https://zh.wikipedia.org/wiki/灰與鑽石_\(GLAY\) "wikilink")（編曲不同的版本）
   - [SPEED POP](https://zh.wikipedia.org/wiki/SPEED_POP "wikilink")
   - [REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")
-  - [DRIVE-GLAY complete
-    BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")
-  - [rare collectives
-    vol.1](https://zh.wikipedia.org/wiki/rare_collectives_vol.1 "wikilink")（收錄原始版本和LIVE版）
-  - [THE GREAT VACATION VOL.2 〜SUPER BEST OF
-    GLAY〜](../Page/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜.md "wikilink")
-  - [rare collectives
-    vol.3](https://zh.wikipedia.org/wiki/rare_collectives_vol.3 "wikilink")（LIVE版本）
-  - [rare collectives
-    vol.4](https://zh.wikipedia.org/wiki/rare_collectives_vol.4 "wikilink")（重新錄製版本）
+  - [DRIVE-GLAY complete BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")
+  - [rare collectives vol.1](https://zh.wikipedia.org/wiki/rare_collectives_vol.1 "wikilink")（收錄原始版本和LIVE版）
+  - [THE GREAT VACATION VOL.2 〜SUPER BEST OF GLAY〜](../Page/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜.md "wikilink")
+  - [rare collectives vol.3](https://zh.wikipedia.org/wiki/rare_collectives_vol.3 "wikilink")（LIVE版本）
+  - [rare collectives vol.4](https://zh.wikipedia.org/wiki/rare_collectives_vol.4 "wikilink")（重新錄製版本）
 
-[Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink")
-[Category:1994年单曲](https://zh.wikipedia.org/wiki/Category:1994年单曲 "wikilink")
-[Category:寶麗多唱片歌曲](https://zh.wikipedia.org/wiki/Category:寶麗多唱片歌曲 "wikilink")
+[Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink") [Category:1994年单曲](https://zh.wikipedia.org/wiki/Category:1994年单曲 "wikilink") [Category:寶麗多唱片歌曲](https://zh.wikipedia.org/wiki/Category:寶麗多唱片歌曲 "wikilink")

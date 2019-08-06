@@ -6,8 +6,7 @@ RPG-2在1949年起裝備[蘇聯軍隊](https://zh.wikipedia.org/wiki/蘇聯軍�
 
 ## 設計
 
-RPG-2採用的彈頭為PG-2 HEAT。使用前射手需先把PG-2
-HEAT彈頭從槍管前面載入，然後拉低外露擊鎚，接著以開放式瞄具瞄準目標，扣動板機方可擊發。其有效射程約為150米，並能滲透約200毫米的[軋壓均質裝甲](../Page/軋壓均質裝甲.md "wikilink")。雖然RPG-2可以單兵操作，但其標準操作人員為兩名，這包括了配有3發彈頭的[擲彈兵](https://zh.wikipedia.org/wiki/擲彈兵 "wikilink")、還有一名使用[突擊步槍及持有](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")3枚[手榴彈的助手](https://zh.wikipedia.org/wiki/手榴彈 "wikilink")。
+RPG-2採用的彈頭為PG-2 HEAT。使用前射手需先把PG-2 HEAT彈頭從槍管前面載入，然後拉低外露擊鎚，接著以開放式瞄具瞄準目標，扣動板機方可擊發。其有效射程約為150米，並能滲透約200毫米的[軋壓均質裝甲](../Page/軋壓均質裝甲.md "wikilink")。雖然RPG-2可以單兵操作，但其標準操作人員為兩名，這包括了配有3發彈頭的[擲彈兵](https://zh.wikipedia.org/wiki/擲彈兵 "wikilink")、還有一名使用[突擊步槍及持有](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")3枚[手榴彈的助手](https://zh.wikipedia.org/wiki/手榴彈 "wikilink")。
 
 ## 仿製
 
@@ -18,8 +17,7 @@ HEAT彈頭從槍管前面載入，然後拉低外露擊鎚，接著以開放式�
 
 ## 使用國
 
-[Nvarpgteam.jpg](https://zh.wikipedia.org/wiki/File:Nvarpgteam.jpg "fig:Nvarpgteam.jpg")\]\]
-[RPG_2_TBiU_37_2.jpg](https://zh.wikipedia.org/wiki/File:RPG_2_TBiU_37_2.jpg "fig:RPG_2_TBiU_37_2.jpg")士兵\]\]
+[Nvarpgteam.jpg](https://zh.wikipedia.org/wiki/File:Nvarpgteam.jpg "fig:Nvarpgteam.jpg")\]\] [RPG_2_TBiU_37_2.jpg](https://zh.wikipedia.org/wiki/File:RPG_2_TBiU_37_2.jpg "fig:RPG_2_TBiU_37_2.jpg")士兵\]\]
 
   -
   -
@@ -91,8 +89,7 @@ HEAT彈頭從槍管前面載入，然後拉低外露擊鎚，接著以開放式�
 
 ## 外部連結
 
-  - [Modern Firearms -
-    RPG-2](http://world.guns.ru/grenade/rus/rpg-2-e.html)
+  - [Modern Firearms - RPG-2](http://world.guns.ru/grenade/rus/rpg-2-e.html)
 
 ## 另見
 
@@ -105,12 +102,7 @@ HEAT彈頭從槍管前面載入，然後拉低外露擊鎚，接著以開放式�
   - [69式火箭筒](../Page/69式火箭筒.md "wikilink")
   - [火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")
 
-[Category:反坦克榴彈](https://zh.wikipedia.org/wiki/Category:反坦克榴彈 "wikilink")
-[Category:反坦克火箭筒](https://zh.wikipedia.org/wiki/Category:反坦克火箭筒 "wikilink")
-[Category:無後座力炮](https://zh.wikipedia.org/wiki/Category:無後座力炮 "wikilink")
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
-[Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
+[Category:反坦克榴彈](https://zh.wikipedia.org/wiki/Category:反坦克榴彈 "wikilink") [Category:反坦克火箭筒](https://zh.wikipedia.org/wiki/Category:反坦克火箭筒 "wikilink") [Category:無後座力炮](https://zh.wikipedia.org/wiki/Category:無後座力炮 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
 
 1.  <http://books.google.ru/books?id=iiMZy63fb04C&lpg=PA6&hl=ru&pg=PA6#v=onepage&f=false>
 2.  <http://world.guns.ru/grenade/rus/rpg-2-e.html> Modern Firearms

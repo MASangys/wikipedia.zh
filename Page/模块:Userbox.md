@@ -72,9 +72,7 @@ local function makeInvokeFunc(funcName)
 
 end
 
-p.userbox = makeInvokeFunc('_userbox') p\['userbox-2'\] =
-makeInvokeFunc('_userbox-2') p\['userbox-r'\] =
-makeInvokeFunc('_userbox-r')
+p.userbox = makeInvokeFunc('_userbox') p\['userbox-2'\] = makeInvokeFunc('_userbox-2') p\['userbox-r'\] = makeInvokeFunc('_userbox-r')
 
 -----
 
@@ -362,8 +360,7 @@ end
 
 function p.categories(args, page)
 
-`   -- Gets categories from `[`Module:Category``
- ``handler`](https://zh.wikipedia.org/wiki/Module:Category_handler "wikilink")`.`
+`   -- Gets categories from `[`Module:Category``   ``handler`](https://zh.wikipedia.org/wiki/Module:Category_handler "wikilink")`.`
 `   -- The page parameter makes the function act as though the module was being called from that page.`
 `   -- It is included for testing purposes.`
 `   local cats = {}`
@@ -408,7 +405,4 @@ end
 
 return p
 
-[Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink")
-[Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink")
-[Category:可能难以辨认的用户框模板](https://zh.wikipedia.org/wiki/Category:可能难以辨认的用户框模板 "wikilink")
-[Category:未正確放置討論頁模板的頁面](https://zh.wikipedia.org/wiki/Category:未正確放置討論頁模板的頁面 "wikilink")
+[Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink") [Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink") [Category:可能难以辨认的用户框模板](https://zh.wikipedia.org/wiki/Category:可能难以辨认的用户框模板 "wikilink") [Category:未正確放置討論頁模板的頁面](https://zh.wikipedia.org/wiki/Category:未正確放置討論頁模板的頁面 "wikilink")

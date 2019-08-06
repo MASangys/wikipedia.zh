@@ -1,16 +1,12 @@
 **Nell**（），[韓國男子](https://zh.wikipedia.org/wiki/韓國 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")，由[金鐘萬](https://zh.wikipedia.org/wiki/金鐘萬 "wikilink")、[李政勛](https://zh.wikipedia.org/wiki/李政勛 "wikilink")、[鄭在元](https://zh.wikipedia.org/wiki/鄭在元 "wikilink")、[李在京四名成員組成](https://zh.wikipedia.org/wiki/李在京 "wikilink")，1999年成軍，2001年1月19日出道，為韓國重要的[搖滾樂團代表之一](https://zh.wikipedia.org/wiki/搖滾 "wikilink")，其樂風深受[英倫搖滾影響](https://zh.wikipedia.org/wiki/英倫搖滾 "wikilink")。
 
-2001年至2006年所屬經紀公司為Goesoo Indigene，2006年迄今所屬經紀公司為[Woollim
-Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")。
+2001年至2006年所屬經紀公司為Goesoo Indigene，2006年迄今所屬經紀公司為[Woollim Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")。
 
 2008年起因成員服兵役而暫停活動，2012年正式回歸樂壇，並於2013年1月23日於[日本](../Page/日本.md "wikilink")出道。
 
-2016年3月22日表示與經紀公司[Woollim
-Entertainment十年約滿不續約](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")，並且自創品牌SPACE
-BOHEMIAN。
+2016年3月22日表示與經紀公司[Woollim Entertainment十年約滿不續約](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")，並且自創品牌SPACE BOHEMIAN。
 
-2017年1月6日在台灣發行特別專輯\< Beautiful Stranger \>，並於1月21日舉行『2017 NELL in
-Taiwan』演唱會。
+2017年1月6日在台灣發行特別專輯\< Beautiful Stranger \>，並於1月21日舉行『2017 NELL in Taiwan』演唱會。
 
 ## 成員資料
 
@@ -543,18 +539,12 @@ Taiwan』演唱會。
   -
 ## 參考資料
 
-  - [Nell
-    Discography](https://web.archive.org/web/20121023015729/http://www.nellhouse.com/discography.wol)（来源：Nellhouse）
-  - [Nell make their Japanese debut with ‘Slip
-    Away’](http://www.allkpop.com/2013/01/nell-make-their-japanese-debut-with-slip-away)（来源：AllKpop）
+  - [Nell Discography](https://web.archive.org/web/20121023015729/http://www.nellhouse.com/discography.wol)（来源：Nellhouse）
+  - [Nell make their Japanese debut with ‘Slip Away’](http://www.allkpop.com/2013/01/nell-make-their-japanese-debut-with-slip-away)（来源：AllKpop）
   - [NELL 二月回歸預告](http://kpopn.com/2012/01/20/103441/)（来源：kpopn）
   - [NELL《不該信的話》現場版](http://kpopn.com/2013/01/09/160101/)（来源：kpopn）
   - [NELL回歸，海報公開](http://tw.starnnews.com/news/index.html?no=80652)（来源：starN）
 
 [分類:Woollim娛樂](https://zh.wikipedia.org/wiki/分類:Woollim娛樂 "wikilink")
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:1999年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1999年成立的音樂團體 "wikilink")
-[Category:2001年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2001年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:1999年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1999年成立的音樂團體 "wikilink") [Category:2001年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2001年成立的音樂團體 "wikilink")

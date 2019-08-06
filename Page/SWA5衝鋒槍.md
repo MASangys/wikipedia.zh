@@ -1,10 +1,8 @@
-**SWA5**衝鋒槍是由一間[美國民間小槍廠](https://zh.wikipedia.org/wiki/美國 "wikilink")[Special
-Weapons所製造的](https://zh.wikipedia.org/wiki/Special_Weapons "wikilink")[MP5仿製版](https://zh.wikipedia.org/wiki/HK_MP5衝鋒槍 "wikilink")。
+**SWA5**衝鋒槍是由一間[美國民間小槍廠](https://zh.wikipedia.org/wiki/美國 "wikilink")[Special Weapons所製造的](https://zh.wikipedia.org/wiki/Special_Weapons "wikilink")[MP5仿製版](https://zh.wikipedia.org/wiki/HK_MP5衝鋒槍 "wikilink")。
 
 ## 設計
 
-SWA5是Special
-Weapons以MP5作為藍本的一把[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")，但相比HK原廠製造的MP5，SWA5的內部結構不同及可靠性較差。
+SWA5是Special Weapons以MP5作為藍本的一把[衝鋒槍](https://zh.wikipedia.org/wiki/衝鋒槍 "wikilink")，但相比HK原廠製造的MP5，SWA5的內部結構不同及可靠性較差。
 
 SWA5的故障率非常高，最嚴重的問題就是會常常"卡彈"，但經過調查後發現原來只是彈匣不夠緊緻及材質不良，多次裝退之後就會發生變形，導致子彈不能進膛而無法連發，但在更換德國原廠彈匣後此情況已獲得解決。
 
@@ -22,6 +20,4 @@ Special Weapons除了生產SWA5，還有MP-10及民用型SP-10。
 
   - :[霹靂小組](https://zh.wikipedia.org/wiki/霹靂小組 "wikilink")，[國安局特勤中心等警察單位](https://zh.wikipedia.org/wiki/國安局 "wikilink")。
 
-[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink")
-[Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink")
-[Category:美國衝鋒槍](https://zh.wikipedia.org/wiki/Category:美國衝鋒槍 "wikilink")
+[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:美國衝鋒槍](https://zh.wikipedia.org/wiki/Category:美國衝鋒槍 "wikilink")

@@ -19,8 +19,6 @@ SN型电力动车组为三节编组，由两辆带司机室的头车（[无动�
   -
 ## 外部链接
 
-  - [Электропоезд постояного тока
-    СН](http://www.emupages.narod.ru/trains-sn.htm)
+  - [Электропоезд постояного тока СН](http://www.emupages.narod.ru/trains-sn.htm)
 
-[Category:苏联电力动车组](https://zh.wikipedia.org/wiki/Category:苏联电力动车组 "wikilink")
-[Category:3000伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:3000伏直流电力动车组 "wikilink")
+[Category:苏联电力动车组](https://zh.wikipedia.org/wiki/Category:苏联电力动车组 "wikilink") [Category:3000伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:3000伏直流电力动车组 "wikilink")

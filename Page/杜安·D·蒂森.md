@@ -78,9 +78,7 @@
 
 ## 参考文献
 
-[Category:1951年出生](https://zh.wikipedia.org/wiki/Category:1951年出生 "wikilink")
-[Category:美國海軍陸戰隊中將](https://zh.wikipedia.org/wiki/Category:美國海軍陸戰隊中將 "wikilink")
-[Category:功績勳章獲得者](https://zh.wikipedia.org/wiki/Category:功績勳章獲得者 "wikilink")
+[Category:1951年出生](https://zh.wikipedia.org/wiki/Category:1951年出生 "wikilink") [Category:美國海軍陸戰隊中將](https://zh.wikipedia.org/wiki/Category:美國海軍陸戰隊中將 "wikilink") [Category:功績勳章獲得者](https://zh.wikipedia.org/wiki/Category:功績勳章獲得者 "wikilink")
 
 1.  [defense](http://www.defense.gov/releases/release.aspx?releaseid=13377)
 2.  [CMHS: GRANDMA Overview](http://calmenno.org/grandma/overview.htm)

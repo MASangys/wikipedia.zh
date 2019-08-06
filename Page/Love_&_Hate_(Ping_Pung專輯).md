@@ -1,7 +1,4 @@
-**Love &
-Hate**是[香港](../Page/香港.md "wikilink")[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")**[Ping
-Pung](../Page/Ping_Pung.md "wikilink")**于2004年8月20日推出的首张大碟。 [Ping
-Pung憑大碟上榜歌曲](../Page/Ping_Pung.md "wikilink")《我話事》、《殺她死》及《愛是最大權利》於2004年度叱咤樂壇流行榜頒獎典禮奪得「叱咤樂壇生力軍組合銀獎」。
+**Love & Hate**是[香港](../Page/香港.md "wikilink")[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")**[Ping Pung](../Page/Ping_Pung.md "wikilink")**于2004年8月20日推出的首张大碟。 [Ping Pung憑大碟上榜歌曲](../Page/Ping_Pung.md "wikilink")《我話事》、《殺她死》及《愛是最大權利》於2004年度叱咤樂壇流行榜頒獎典禮奪得「叱咤樂壇生力軍組合銀獎」。
 
 ## 曲目
 
@@ -20,5 +17,4 @@ Pung憑大碟上榜歌曲](../Page/Ping_Pung.md "wikilink")《我話事》、《
 | 11\. | 二十世紀少年 (PP Unplugged)                | 李漢文                                  | 方杰                                     | Ping Pung | 李漢文 (ON YOUR MARK)       |
 | 12\. | 愛是最大權利 (Piano Version)               | 李漢文                                  | 夏至                                     | Ping Pung | 雷頌德 / 李漢文 (ON YOUR MARK) |
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")

@@ -2,15 +2,13 @@
 
 在[C++](../Page/C++.md "wikilink")编程中，**分配器**（）是[C++标准库的重要组成部分](https://zh.wikipedia.org/wiki/C++标准库 "wikilink")。C++的库中定义了多种被统称为“[容器](https://zh.wikipedia.org/wiki/容器_\(计算机科学\) "wikilink")”的[数据结构](../Page/数据结构.md "wikilink")（如[链表](../Page/链表.md "wikilink")、[集合等](https://zh.wikipedia.org/wiki/集合_\(計算機科學\) "wikilink")），这些容器的共同特征之一，就是其大小可以在程序的[运行时改变](https://zh.wikipedia.org/wiki/运行时 "wikilink")；为了实现这一点，进行动态内存分配就显得尤为必要，在此分配器就用于处理容器对[内存的分配与释放请求](https://zh.wikipedia.org/wiki/内存管理 "wikilink")。换句话说，分配器用于封装[標準模板庫](https://zh.wikipedia.org/wiki/標準模板庫 "wikilink")（STL）容器在内存管理上的低层细节。默认情况下，C++标准库使用其自带的通用分配器，但根据具体需要，程序员也可自行定制分配器以替代之。
 
-分配器最早由作为C++[标准模板库](../Page/标准模板库.md "wikilink")（Standard Template
-Library，简称STL）的一部分发明，其初衷是创造一种能“使库更加灵活，并能独立于底层数据模型的方法”，并允许程序员在库中利用自定义的[指针和](https://zh.wikipedia.org/wiki/指针_\(信息学\) "wikilink")；但在将标准模板库纳入[C++标准时](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink")，C++标准委员会意识到对数据模型的完全[抽象化处理会带来不可接受的性能损耗](https://zh.wikipedia.org/wiki/抽象化_\(计算机科学\) "wikilink")，为作折中，标准中对分配器的限制变得更加严格，而有鉴于此，与斯特潘诺夫原先的设想相比，现有标准所描述的分配器可定制程度已大大受限。
+分配器最早由作为C++[标准模板库](../Page/标准模板库.md "wikilink")（Standard Template Library，简称STL）的一部分发明，其初衷是创造一种能“使库更加灵活，并能独立于底层数据模型的方法”，并允许程序员在库中利用自定义的[指针和](https://zh.wikipedia.org/wiki/指针_\(信息学\) "wikilink")；但在将标准模板库纳入[C++标准时](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink")，C++标准委员会意识到对数据模型的完全[抽象化处理会带来不可接受的性能损耗](https://zh.wikipedia.org/wiki/抽象化_\(计算机科学\) "wikilink")，为作折中，标准中对分配器的限制变得更加严格，而有鉴于此，与斯特潘诺夫原先的设想相比，现有标准所描述的分配器可定制程度已大大受限。
 
 虽然分配器的定制有所限制，但在许多情况下，仍需要用到自定义的分配器，而这一般是为封装对不同类型内存空间（如[共享内存与](https://zh.wikipedia.org/wiki/共享内存 "wikilink")[已回收内存](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")）的访问方式，或在使用[内存池进行内存分配时提高性能而为](https://zh.wikipedia.org/wiki/内存池 "wikilink")。除此以外，从内存占用和运行时间的角度看，在频繁进行少量内存分配的程序中，若引入为之专门定制的分配器，也会获益良多。
 
 ## 背景
 
-亚历山大·斯特潘诺夫与李梦（Meng
-Lee）在1994年将[标准模板库](../Page/标准模板库.md "wikilink")草案提交给[C++](../Page/C++.md "wikilink")标准委员会\[1\]。提交伊始，草案就得到了委员会的初步支持，但委员会成员也对此提出了一些意见，尤其是要求斯特潘诺夫定制库内的容器，使之与底层存储模型相独立\[2\]。作为对要求的回应，斯特潘诺夫发明了分配器，而正因此，标准模板库的所有容器接口也被迫重写，以与分配器相兼容。在修改标准模板库以将之引入[C++标准库的过程中](https://zh.wikipedia.org/wiki/C++标准库 "wikilink")，许多标准委员会成员（如与[比雅尼·斯特劳斯特鲁普](../Page/比雅尼·斯特劳斯特鲁普.md "wikilink")）也与斯特潘诺夫协同工作。他们亦发现自定义分配器甚至有应用于长生命周期（持续存储）的标准模板库容器的潜力，斯特潘诺夫对此的评论则是“重要而有趣的见解”\[3\]。
+亚历山大·斯特潘诺夫与李梦（Meng Lee）在1994年将[标准模板库](../Page/标准模板库.md "wikilink")草案提交给[C++](../Page/C++.md "wikilink")标准委员会\[1\]。提交伊始，草案就得到了委员会的初步支持，但委员会成员也对此提出了一些意见，尤其是要求斯特潘诺夫定制库内的容器，使之与底层存储模型相独立\[2\]。作为对要求的回应，斯特潘诺夫发明了分配器，而正因此，标准模板库的所有容器接口也被迫重写，以与分配器相兼容。在修改标准模板库以将之引入[C++标准库的过程中](https://zh.wikipedia.org/wiki/C++标准库 "wikilink")，许多标准委员会成员（如与[比雅尼·斯特劳斯特鲁普](../Page/比雅尼·斯特劳斯特鲁普.md "wikilink")）也与斯特潘诺夫协同工作。他们亦发现自定义分配器甚至有应用于长生命周期（持续存储）的标准模板库容器的潜力，斯特潘诺夫对此的评论则是“重要而有趣的见解”\[3\]。
 
 |                                                                                                        |
 | ------------------------------------------------------------------------------------------------------ |
@@ -30,28 +28,21 @@ Lee）在1994年将[标准模板库](../Page/标准模板库.md "wikilink")草�
   - `A::reference` 引用
   - `A::const_reference` 常量引用
   - `A::value_type` 值类型
-  - `A::size_type`
-    所用内存大小的类型，表示-{zh-hans:类;zh-hant:類別;}-A所定义的分配模型中的单个对象最大尺寸的无符号整型
+  - `A::size_type` 所用内存大小的类型，表示-{zh-hans:类;zh-hant:類別;}-A所定义的分配模型中的单个对象最大尺寸的无符号整型
   - `A::difference_type` 指针差值的类型，为带符号整型，用于表示分配模型内的两个指针的差异值。
 
-如此才能以通用的方式声明对象与对该类对象的引用`T`。allocator提供这些指针或引用的类型定义的初衷，是隐蔽指针或引用的物理实现细节；因为在16位编程时代，*远指针*（far
-pointer）是与普通指针非常不同的，allocator可以定义一些结构来表示这些指针或引用，而容器类用户不需要了解其是如何实现的。
+如此才能以通用的方式声明对象与对该类对象的引用`T`。allocator提供这些指针或引用的类型定义的初衷，是隐蔽指针或引用的物理实现细节；因为在16位编程时代，*远指针*（far pointer）是与普通指针非常不同的，allocator可以定义一些结构来表示这些指针或引用，而容器类用户不需要了解其是如何实现的。
 
-虽然按照标准，在库的实现过程中允许假定分配器（-{zh-hans:类;zh-hant:類別;}-）A的`A::pointer`（指针）与`A::const_pointer`（常量指针）即是对`T*`与`T
-const*`的简单的类型定义，但一般更鼓励支持通用分配器。
+虽然按照标准，在库的实现过程中允许假定分配器（-{zh-hans:类;zh-hant:類別;}-）A的`A::pointer`（指针）与`A::const_pointer`（常量指针）即是对`T*`与`T const*`的简单的类型定义，但一般更鼓励支持通用分配器。
 
 另外，设有对于为某一对象类型`T`所设定的分配器`A`，则A必须包含四项成员函数，分别为分配函数、解除分配函数、最大个数函数和地址函数：
 
-  - `A::pointer A::allocate(size_type n, A`<void>`::const_pointer hint
-    = 0)`。分配函数用以进行内存分配。其中调用参数n即为需要分配的对象个数，另一调用参数`hint`（须为指向已为`A`所分配的某一对象的指针）则为可选参数，可用于在分配过程中指定新数组所在的内存地址，以提高[引用局部性](https://zh.wikipedia.org/wiki/訪問局部性 "wikilink")\[11\]，但在实际的分配过程中程序也可以根据情况自动忽略掉该参数。该函数调用时会返回指向分配所得的新数组的第一个元素的指针，而这一数组的大小足以容纳n个`T`-{zh-hans:类;zh-hant:類別;}-元素。在此需要注意的是，调用时只为此数组分配了内存，而并未实际[构造对象](https://zh.wikipedia.org/wiki/构造函数 "wikilink")。
-  - `void A::deallocate(A::pointer p, A::size_type
-    n)`。解除分配函数。其中p为需要解除分配的对象指针（以`A::allocate`函数所返回的指针做参数），n为对象个数，而调用该函数时即是将以p起始的n个元素解除分配，但同时并不会[析构之](https://zh.wikipedia.org/wiki/析构函数 "wikilink")。C++标准明确要求在调用deallocate之前，该地址空间上的对象已经被析构。
-  - `A::max_size()`，最大个数函数。返回`A::allocate`一次调用所能成功分配的元素的最大个数\[12\]，其返回值等价于`A::size_type(-1)
-    / sizeof(T)`的结果\[13\] 。
+  - `A::pointer A::allocate(size_type n, A`<void>`::const_pointer hint = 0)`。分配函数用以进行内存分配。其中调用参数n即为需要分配的对象个数，另一调用参数`hint`（须为指向已为`A`所分配的某一对象的指针）则为可选参数，可用于在分配过程中指定新数组所在的内存地址，以提高[引用局部性](https://zh.wikipedia.org/wiki/訪問局部性 "wikilink")\[11\]，但在实际的分配过程中程序也可以根据情况自动忽略掉该参数。该函数调用时会返回指向分配所得的新数组的第一个元素的指针，而这一数组的大小足以容纳n个`T`-{zh-hans:类;zh-hant:類別;}-元素。在此需要注意的是，调用时只为此数组分配了内存，而并未实际[构造对象](https://zh.wikipedia.org/wiki/构造函数 "wikilink")。
+  - `void A::deallocate(A::pointer p, A::size_type n)`。解除分配函数。其中p为需要解除分配的对象指针（以`A::allocate`函数所返回的指针做参数），n为对象个数，而调用该函数时即是将以p起始的n个元素解除分配，但同时并不会[析构之](https://zh.wikipedia.org/wiki/析构函数 "wikilink")。C++标准明确要求在调用deallocate之前，该地址空间上的对象已经被析构。
+  - `A::max_size()`，最大个数函数。返回`A::allocate`一次调用所能成功分配的元素的最大个数\[12\]，其返回值等价于`A::size_type(-1) / sizeof(T)`的结果\[13\] 。
   - `A::pointer A::address ( reference x )`，地址函数。调用时返回一个指向`x`的指针。
 
-除此以外，由于对象的[构造](https://zh.wikipedia.org/wiki/构造函数 "wikilink")/[析构过程与分配](https://zh.wikipedia.org/wiki/析构函数 "wikilink")/解除分配过程分别进行\[14\]
-，因而分配器还需要成员函数`A::construct`（构造函数）与`A::destroy`（析构函数）以对对象进行构造与析构，且两者应等价于如下函数：
+除此以外，由于对象的[构造](https://zh.wikipedia.org/wiki/构造函数 "wikilink")/[析构过程与分配](https://zh.wikipedia.org/wiki/析构函数 "wikilink")/解除分配过程分别进行\[14\] ，因而分配器还需要成员函数`A::construct`（构造函数）与`A::destroy`（析构函数）以对对象进行构造与析构，且两者应等价于如下函数：
 
 ``` cpp
 template <typename T>
@@ -61,16 +52,11 @@ template <typename T>
 void A::destroy(A::pointer p){ ((T*)p)->~T(); }
 ```
 
-以上代码中使用了[placement
-`new`语法](https://zh.wikipedia.org/wiki/Placement语法 "wikilink")，且直接调用了析构函数。
+以上代码中使用了[placement `new`语法](https://zh.wikipedia.org/wiki/Placement语法 "wikilink")，且直接调用了析构函数。
 
-分配器应是[可复制构造的](https://zh.wikipedia.org/wiki/复制构造函数 "wikilink")，任举一例，为`T`-{zh-hans:类;zh-hant:類別;}-对象而设的分配器可由另一为`U`-{zh-hans:类;zh-hant:類別;}-所设的分配器构造。若某分配器分配了一段存储空间，则这段存储空间只能由与该分配器等价的分配器解除分配。分配器还需要提供一个模板-{zh-hans:类;zh-hant:類別;}-成员类` template
- `<typename U>`  struct A::rebind { typedef A `<U>`  other; }; `，以[模板
-(C++)参数化的方式](../Page/模板_\(C++\).md "wikilink")，借之来针对不同的数据类型获取不同的分配器。例如，若给定某一为整型（`int`）而设的分配器`IntAllocator`，则可执行`IntAllocator::rebind`<long>`::other`以获取对应长整型（`long`）的相关分配器\[15\]。实际上，stl::list<int>实际要分配的是包含了双向链表指针的node<int>，而不是实际分配int类型，这是引入了rebind的初衷。
+分配器应是[可复制构造的](https://zh.wikipedia.org/wiki/复制构造函数 "wikilink")，任举一例，为`T`-{zh-hans:类;zh-hant:類別;}-对象而设的分配器可由另一为`U`-{zh-hans:类;zh-hant:類別;}-所设的分配器构造。若某分配器分配了一段存储空间，则这段存储空间只能由与该分配器等价的分配器解除分配。分配器还需要提供一个模板-{zh-hans:类;zh-hant:類別;}-成员类` template  `<typename U>`  struct A::rebind { typedef A `<U>`  other; }; `，以[模板 (C++)参数化的方式](../Page/模板_\(C++\).md "wikilink")，借之来针对不同的数据类型获取不同的分配器。例如，若给定某一为整型（`int`）而设的分配器`IntAllocator`，则可执行`IntAllocator::rebind`<long>`::other`以获取对应长整型（`long`）的相关分配器\[15\]。实际上，stl::list<int>实际要分配的是包含了双向链表指针的node<int>，而不是实际分配int类型，这是引入了rebind的初衷。
 
-与分配器相关联的operator
-==，仅当一个allocator分配的内存可以被另一个allocator释放时，上述相等比较算符返回真。operator
-\!=的返回结果与之相反。
+与分配器相关联的operator ==，仅当一个allocator分配的内存可以被另一个allocator释放时，上述相等比较算符返回真。operator \!=的返回结果与之相反。
 
 ## 自定义分配器
 
@@ -83,8 +69,7 @@ void A::destroy(A::pointer p){ ((T*)p)->~T(); }
 
 有鉴于此，在这一情况下，人们常使用基于[内存池的分配器来解决频繁少量分配问题](https://zh.wikipedia.org/wiki/内存池 "wikilink")\[25\]。与默认的“按需分配”方式不同，在使用基于内存池的分配器时，程序会预先为之分配大块内存（即“内存池”），而后在需要分配内存时，自定义分配器只需向请求方返回一个指向池内内存的指针即可；而在对象析构时，并不需实际解除分配内存，而是延迟到内存池的生命周期完结时才真正解除分配\[26\]。
 
-在“自定义分配器”这一话题上，已有诸多[C++](../Page/C++.md "wikilink")专家与相关作者参与探讨，例如[斯科特·梅耶斯的作品](https://zh.wikipedia.org/wiki/斯科特·梅耶斯 "wikilink")《Effective
-STL》与[安德烈·亚历山德雷斯库的](https://zh.wikipedia.org/wiki/Andrei_Alexandrescu "wikilink")《》都有提及。梅耶斯洞察到，若要求针对某一类型T的分配器的所有实例都相等，则可移植的分配器的实例必须不包含状态。虽然C++标准鼓励库的实现者支持带状态的分配器，但梅耶斯称，相关段落是“（看似）美妙的观点”，但也几乎是空话，并称分配器的限制“过于严苛”\[27\]。例如，STL的list允许splice方法，即一个list对象A的节点可以被直接移入另一个list对象B中，这就要求A的分配器申请到的内存，可被B的分配器释放掉，从而推导出A与B的分配器实例必须相等。梅耶斯的结论是，分配器最好定义为使用静态方法的类型。例如，根据C++标准，分配器必须提供一个实现了rebind方法的other类模板。
+在“自定义分配器”这一话题上，已有诸多[C++](../Page/C++.md "wikilink")专家与相关作者参与探讨，例如[斯科特·梅耶斯的作品](https://zh.wikipedia.org/wiki/斯科特·梅耶斯 "wikilink")《Effective STL》与[安德烈·亚历山德雷斯库的](https://zh.wikipedia.org/wiki/Andrei_Alexandrescu "wikilink")《》都有提及。梅耶斯洞察到，若要求针对某一类型T的分配器的所有实例都相等，则可移植的分配器的实例必须不包含状态。虽然C++标准鼓励库的实现者支持带状态的分配器，但梅耶斯称，相关段落是“（看似）美妙的观点”，但也几乎是空话，并称分配器的限制“过于严苛”\[27\]。例如，STL的list允许splice方法，即一个list对象A的节点可以被直接移入另一个list对象B中，这就要求A的分配器申请到的内存，可被B的分配器释放掉，从而推导出A与B的分配器实例必须相等。梅耶斯的结论是，分配器最好定义为使用静态方法的类型。例如，根据C++标准，分配器必须提供一个实现了rebind方法的other类模板。
 
 另外，在《[C++程序设计语言](../Page/C++程式語言_\(書\).md "wikilink")》中，比雅尼·斯特劳斯特鲁普则认为“‘严格限制分配器，以免各对象信息不同’，这点显然问题不大”（大意），并指出大部分分配器并不需要状态，甚至没有状态情形下性能反倒更佳。他提出了三个自定义分配器的用例：[内存池型的分配器](https://zh.wikipedia.org/wiki/内存池 "wikilink")、[共享内存型分配器与](https://zh.wikipedia.org/wiki/共享内存 "wikilink")[垃圾回收型分配器](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")，并展示了一个分配器的实现，此间利用了一个内部内存池，以快速分配/解除分配少量内存。但他也提到，如此[优化可能已经在他所提供的样例分配器中实现](https://zh.wikipedia.org/wiki/优化 "wikilink")\[28\]。
 
@@ -112,20 +97,16 @@ namespace std {
 
 ## 参考资料
 
-</ref> \[35\] \[36\] \[37\] \[38\] \[39\] \[40\] \[41\] \[42\] \[43\]
-\[44\] \[45\] \[46\] }}
+</ref> \[35\] \[36\] \[37\] \[38\] \[39\] \[40\] \[41\] \[42\] \[43\] \[44\] \[45\] \[46\] }}
 
 ### 标准文档
 
   -
 ## 外部链接
 
-  - [分配器（STL）](http://www.codeguru.com/cpp/cpp/cpp_mfc/stl/article.php/c4079),
-    CodeGuru
-  - [C++标准分配器：介绍与实现](https://www.codeproject.com/Articles/4795/C-Standard-Allocator-An-Introduction-and-Implement),
-    CodeProject
-  - [基于malloc()的分配器实现样例](http://www.drdobbs.com/cpp/184403759?pgno=2),
-    Dr. Dobb's Journal
+  - [分配器（STL）](http://www.codeguru.com/cpp/cpp/cpp_mfc/stl/article.php/c4079), CodeGuru
+  - [C++标准分配器：介绍与实现](https://www.codeproject.com/Articles/4795/C-Standard-Allocator-An-Introduction-and-Implement), CodeProject
+  - [基于malloc()的分配器实现样例](http://www.drdobbs.com/cpp/184403759?pgno=2), Dr. Dobb's Journal
 
 [Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink")
 

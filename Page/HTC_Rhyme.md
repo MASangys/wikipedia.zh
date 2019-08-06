@@ -1,5 +1,4 @@
-**HTC
-Rhyme**，[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電開發的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。
+**HTC Rhyme**，[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電開發的](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。
 2011年9月20日於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約發表](https://zh.wikipedia.org/wiki/紐約 "wikilink")。
 
 ## 詳細規格
@@ -24,8 +23,7 @@ Rhyme**，[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[
 
 ## 設計
 
-HTC
-Rhyme採用一體成型設計賦予消費者獨特的感官體驗，擁有三種顏色，分別為澄澈水感的湖水藍（Clearwater）、沙漏般的煦暖棕（Hourglass）與梅子般的胭紫紅（Plum）
+HTC Rhyme採用一體成型設計賦予消費者獨特的感官體驗，擁有三種顏色，分別為澄澈水感的湖水藍（Clearwater）、沙漏般的煦暖棕（Hourglass）與梅子般的胭紫紅（Plum）
 
 ## 整合式配件
 
@@ -41,8 +39,7 @@ Rhyme採用一體成型設計賦予消費者獨特的感官體驗，擁有三種
 
 ## 外部連結
 
-[HTC
-Rhyme](https://web.archive.org/web/20120417222948/http://www.htc.com/tw/smartphones/htc-rhyme/)
+[HTC Rhyme](https://web.archive.org/web/20120417222948/http://www.htc.com/tw/smartphones/htc-rhyme/)
 [HTC Rhyme 形象網站](http://www.htc.com/tw/rhyme/)
 
 [Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")

@@ -2,8 +2,7 @@
 
 ## 概要
 
-《[魯邦三世](https://zh.wikipedia.org/wiki/魯邦三世 "wikilink")》的作品已知道是加藤一彥的作品，原始故事的設定是基於彈珠機\[1\]\[2\]。「元祿十二刻系統」題目為12種演出模式和搭載了12種Super
-Ritch。
+《[魯邦三世](https://zh.wikipedia.org/wiki/魯邦三世 "wikilink")》的作品已知道是加藤一彥的作品，原始故事的設定是基於彈珠機\[1\]\[2\]。「元祿十二刻系統」題目為12種演出模式和搭載了12種Super Ritch。
 
 ## 角色
 
@@ -201,8 +200,7 @@ Ritch。
   - 音樂 - 高木洋
   - 音樂制作 - [日本古倫美亞](../Page/日本古倫美亞.md "wikilink")
   - 生產者 - 海野達也、鵜飼浩史、前山寬邦、寺内勇美、八田紳作、難波秀行、新宿五郎
-  - 動畫制作 - [TMS
-    Entertainment](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")
+  - 動畫制作 - [TMS Entertainment](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")
 
 ### 主題歌
 
@@ -361,18 +359,13 @@ Ritch。
 
   - [CR元祿義人傳浪漫](http://www.takao.gr.jp/special/roman/)
 
-  - [奇想天外！空想時代活劇「幕末義人傳
-    浪漫」](https://web.archive.org/web/20121110213308/http://roman-anime.com/)
+  - [奇想天外！空想時代活劇「幕末義人傳 浪漫」](https://web.archive.org/web/20121110213308/http://roman-anime.com/)
 
   - [東京電視台 幕末義人傳 浪漫](http://www.tv-tokyo.co.jp/anime/roman/)
 
-[Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:江戶時代背景動畫](https://zh.wikipedia.org/wiki/Category:江戶時代背景動畫 "wikilink")
+[Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:江戶時代背景動畫](https://zh.wikipedia.org/wiki/Category:江戶時代背景動畫 "wikilink")
 
-1.  [作畫Monkey
-    Punch！『CR元祿義人傳浪漫』・・・・於高尾開始登場！](http://777.nifty.com/cs/catalog/777_87/catalog_110603169468_1.htm)（777@nifty、2011年6月3日）
-2.  [高尾的「CR元祿義人傳浪漫」內覽會](http://www.pachinkovillage.ne.jp/pv/pc/news/news_detail.php?business_id=1660)
-    （Pachinko Village、2011年6月10日）
+1.  [作畫Monkey Punch！『CR元祿義人傳浪漫』・・・・於高尾開始登場！](http://777.nifty.com/cs/catalog/777_87/catalog_110603169468_1.htm)（777@nifty、2011年6月3日）
+2.  [高尾的「CR元祿義人傳浪漫」內覽會](http://www.pachinkovillage.ne.jp/pv/pc/news/news_detail.php?business_id=1660) （Pachinko Village、2011年6月10日）
 3.  <http://www.takao.gr.jp/special/roman/>
 4.

@@ -1,18 +1,10 @@
-**VMware
-Workstation**是[VMware](../Page/VMware.md "wikilink")公司推出的一款桌面虚拟计算软件，具有[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")
-版本。此软件可以提供[虚拟机功能](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")，使计算机可以同时运行多个不同[操作系统](../Page/操作系统.md "wikilink")。2015年，VMware
-Workstation發表12版，[VMware
-Player轉型為VMware](https://zh.wikipedia.org/wiki/VMware_Player "wikilink")
-Workstation的免費版並改名為[VMware Workstation
-Player](../Page/VMware_Workstation_Player.md "wikilink")，VMware
-Workstation的付費版定名為VMware Workstation Pro。
+**VMware Workstation**是[VMware](../Page/VMware.md "wikilink")公司推出的一款桌面虚拟计算软件，具有[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink") 版本。此软件可以提供[虚拟机功能](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")，使计算机可以同时运行多个不同[操作系统](../Page/操作系统.md "wikilink")。2015年，VMware Workstation發表12版，[VMware Player轉型為VMware](https://zh.wikipedia.org/wiki/VMware_Player "wikilink") Workstation的免費版並改名為[VMware Workstation Player](../Page/VMware_Workstation_Player.md "wikilink")，VMware Workstation的付費版定名為VMware Workstation Pro。
 
 ## 功能特点
 
 该软件可以使多个虚拟机（或称客户机）在同一个宿主机中运行。每个虚拟机相互独立，拥有各自的[操作系统](../Page/操作系统.md "wikilink")；并且各虚拟机以及宿主机相互独立，互不影响，可独立进行操作及运行[应用程序](../Page/应用程序.md "wikilink")。其中一台虚拟机关机或发生故障，不会影响其他的虚拟机及宿主机。
 
-[64位虚拟机操作系统只能运行在](https://zh.wikipedia.org/wiki/64位 "wikilink")64位处理器的计算机上，且[BIOS](../Page/BIOS.md "wikilink")要相容支援[x86虚拟化技术](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink")\[1\]。[Intel的](https://zh.wikipedia.org/wiki/Intel "wikilink")64位处理器如果不是硬件支援[Intel
-VT技术](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink")，就不支援分段[长模式](https://zh.wikipedia.org/wiki/长模式 "wikilink")\[2\]。
+[64位虚拟机操作系统只能运行在](https://zh.wikipedia.org/wiki/64位 "wikilink")64位处理器的计算机上，且[BIOS](../Page/BIOS.md "wikilink")要相容支援[x86虚拟化技术](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink")\[1\]。[Intel的](https://zh.wikipedia.org/wiki/Intel "wikilink")64位处理器如果不是硬件支援[Intel VT技术](https://zh.wikipedia.org/wiki/x86虚拟化 "wikilink")，就不支援分段[长模式](https://zh.wikipedia.org/wiki/长模式 "wikilink")\[2\]。
 
 ## 版本历史
 
@@ -251,8 +243,7 @@ When WS is installed on Linux in a non-default location, the Virtual Network Edi
 
 ## 问题
 
-VMware
-Workstation在用于将[MAC地址](../Page/MAC地址.md "wikilink")用作唯一识别标记（[UID](https://zh.wikipedia.org/wiki/UID "wikilink")）的环境中时，最好是（通常也是必须）为每个虚拟机手工配置MAC地址，以保证每个MAC地址确实是唯一的。这类环境的一个例子是在网络交换机上启用MAC安全机制（例如端口绑定）的情况，另一个例子是使用Altiris产品的环境（在配置为将MAC地址作为UID时）。该情况下，可以简单地禁用除被桥接的所有网络／适配器，并编辑每个虚拟机的.vmx文件，将其中“ethernet0.address”改为唯一的MAC地址、以及将“ethernet0.addresstype”改为“static”；同时，请确保将“ethernet0.generatedaddress”项整个删除。
+VMware Workstation在用于将[MAC地址](../Page/MAC地址.md "wikilink")用作唯一识别标记（[UID](https://zh.wikipedia.org/wiki/UID "wikilink")）的环境中时，最好是（通常也是必须）为每个虚拟机手工配置MAC地址，以保证每个MAC地址确实是唯一的。这类环境的一个例子是在网络交换机上启用MAC安全机制（例如端口绑定）的情况，另一个例子是使用Altiris产品的环境（在配置为将MAC地址作为UID时）。该情况下，可以简单地禁用除被桥接的所有网络／适配器，并编辑每个虚拟机的.vmx文件，将其中“ethernet0.address”改为唯一的MAC地址、以及将“ethernet0.addresstype”改为“static”；同时，请确保将“ethernet0.generatedaddress”项整个删除。
 
 ## 另見
 
@@ -262,15 +253,10 @@ Workstation在用于将[MAC地址](../Page/MAC地址.md "wikilink")用作唯一�
 
 ## 外部链接
 
-  - [VMware Workstation product
-    page](http://www.vmware.com/products/workstation)
-  - [Workstation at VMware
-    Store](http://store.vmware.com/servlet/ControllerServlet?Action=DisplayPage&Env=BASE&Locale=en_US&SiteID=vmware&id=ProductDetailsPage&productID=165308800)
+  - [VMware Workstation product page](http://www.vmware.com/products/workstation)
+  - [Workstation at VMware Store](http://store.vmware.com/servlet/ControllerServlet?Action=DisplayPage&Env=BASE&Locale=en_US&SiteID=vmware&id=ProductDetailsPage&productID=165308800)
 
-[Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink")
-[Category:虚拟化软件](https://zh.wikipedia.org/wiki/Category:虚拟化软件 "wikilink")
-[Category:VMware](https://zh.wikipedia.org/wiki/Category:VMware "wikilink")
-[Category:1998年软件](https://zh.wikipedia.org/wiki/Category:1998年软件 "wikilink")
+[Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink") [Category:虚拟化软件](https://zh.wikipedia.org/wiki/Category:虚拟化软件 "wikilink") [Category:VMware](https://zh.wikipedia.org/wiki/Category:VMware "wikilink") [Category:1998年软件](https://zh.wikipedia.org/wiki/Category:1998年软件 "wikilink")
 
 1.
 

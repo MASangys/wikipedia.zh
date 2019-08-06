@@ -4,8 +4,7 @@
 
 学员学习完成后，edX将会提供付费的认证与x系列认证，但是不提供课程学分。\[6\]参与的edX学校可以自行决定是否认可学生学分，目前MIT与哈佛均不把edX课程记录学分。2015年12月以后的课程将不提供免费证书。\[7\]
 
-麻省理工学院的和哈佛大学的教务长Alan M.
-Garber带头这个项目，以及哈佛大学文理学院院长，计算机科学家来协助处理哈佛大学的事务。\[8\]
+麻省理工学院的和哈佛大学的教务长Alan M. Garber带头这个项目，以及哈佛大学文理学院院长，计算机科学家来协助处理哈佛大学的事务。\[8\]
 
 ## 参与高校
 
@@ -130,35 +129,17 @@ Garber带头这个项目，以及哈佛大学文理学院院长，计算机科�
 
   - [[哈佛大学](../Page/哈佛大学.md "wikilink")新闻发布](http://news.harvard.edu/gazette/story/2012/05/mit-and-harvard-announce-edx)
 
-  - [official
-    logo](http://news.harvard.edu/gazette/wp-content/uploads/2012/05/edX_Logo_Col_RGB_FINAL.jpg)
+  - [official logo](http://news.harvard.edu/gazette/wp-content/uploads/2012/05/edX_Logo_Col_RGB_FINAL.jpg)
 
-  - ["Barriers to Adoption of Online Learning Systems in U.S. Higher
-    Education"](https://web.archive.org/web/20120503025722/http://www.ithaka.org/about-ithaka/announcements/barriers-to-adoption-of-online-learning-systems-in-us-higher-education.pdf)
-    study by Lawrence S. Bacow, William G. Bowen, Kevin M. Guthrie,
-    Kelly A. Lack, Matthew P. Long published by Ithaka S+R May 1, 2012
-    This study coins the term "“Interactive Learning Online” or ILO.
+  - ["Barriers to Adoption of Online Learning Systems in U.S. Higher Education"](https://web.archive.org/web/20120503025722/http://www.ithaka.org/about-ithaka/announcements/barriers-to-adoption-of-online-learning-systems-in-us-higher-education.pdf) study by Lawrence S. Bacow, William G. Bowen, Kevin M. Guthrie, Kelly A. Lack, Matthew P. Long published by Ithaka S+R May 1, 2012 This study coins the term "“Interactive Learning Online” or ILO.
 
-  - Taylor Walsh, author, William G. Bowen, foreword, *Unlocking the
-    Gates: How and Why Leading Universities Are Opening Up Access to
-    Their Courses*, Princeton University Press (December 28, 2010),
-    hardcover, 320 pages
+  - Taylor Walsh, author, William G. Bowen, foreword, *Unlocking the Gates: How and Why Leading Universities Are Opening Up Access to Their Courses*, Princeton University Press (December 28, 2010), hardcover, 320 pages
 
-  - ["The X
-    Factor"](http://chronicle.com/blogs/brainstorm/the-x-factor/46395)
-    Brainstorm blog post by Kevin Carey *Chronicle of Higher Education*
-    May 2, 2012
+  - ["The X Factor"](http://chronicle.com/blogs/brainstorm/the-x-factor/46395) Brainstorm blog post by Kevin Carey *Chronicle of Higher Education* May 2, 2012
 
-[Category:麻省理工學院](https://zh.wikipedia.org/wiki/Category:麻省理工學院 "wikilink")
-[Category:哈佛大学](https://zh.wikipedia.org/wiki/Category:哈佛大学 "wikilink")
-[Category:教育機構](https://zh.wikipedia.org/wiki/Category:教育機構 "wikilink")
-[Category:教育网站](https://zh.wikipedia.org/wiki/Category:教育网站 "wikilink")
-[Category:内容开放](https://zh.wikipedia.org/wiki/Category:内容开放 "wikilink")
-[Category:教育技術](https://zh.wikipedia.org/wiki/Category:教育技術 "wikilink")
-[Category:開放教育資源](https://zh.wikipedia.org/wiki/Category:開放教育資源 "wikilink")
+[Category:麻省理工學院](https://zh.wikipedia.org/wiki/Category:麻省理工學院 "wikilink") [Category:哈佛大学](https://zh.wikipedia.org/wiki/Category:哈佛大学 "wikilink") [Category:教育機構](https://zh.wikipedia.org/wiki/Category:教育機構 "wikilink") [Category:教育网站](https://zh.wikipedia.org/wiki/Category:教育网站 "wikilink") [Category:内容开放](https://zh.wikipedia.org/wiki/Category:内容开放 "wikilink") [Category:教育技術](https://zh.wikipedia.org/wiki/Category:教育技術 "wikilink") [Category:開放教育資源](https://zh.wikipedia.org/wiki/Category:開放教育資源 "wikilink")
 
-1.  [MIT press release,
-    Dec. 19 2011](http://web.mit.edu/newsoffice/2011/mitx-education-initiative-1219.html)
+1.  [MIT press release, Dec. 19 2011](http://web.mit.edu/newsoffice/2011/mitx-education-initiative-1219.html)
 
 2.
 3.

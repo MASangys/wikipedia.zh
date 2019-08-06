@@ -1,12 +1,9 @@
-《**MOMENTS**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第8枚迷你專輯。於2013年10月31日發行。唱片公司為[NH
-Media](../Page/NH_Media.md "wikilink")。
+《**MOMENTS**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第8枚迷你專輯。於2013年10月31日發行。唱片公司為[NH Media](../Page/NH_Media.md "wikilink")。
 
 ## 概要
 
-  - 「MOMENTS」是U-KISS的第8枚迷你專輯，包括特別迷你專輯《[The Special To
-    KISSME](../Page/The_Special_To_KISSME.md "wikilink")》，此專輯通算為第9枚迷你專輯。
-  - 與上一張迷你專輯《[Stop
-    Girls](https://zh.wikipedia.org/wiki/Stop_Girls "wikilink")》相距約13個月。
+  - 「MOMENTS」是U-KISS的第8枚迷你專輯，包括特別迷你專輯《[The Special To KISSME](../Page/The_Special_To_KISSME.md "wikilink")》，此專輯通算為第9枚迷你專輯。
+  - 與上一張迷你專輯《[Stop Girls](https://zh.wikipedia.org/wiki/Stop_Girls "wikilink")》相距約13個月。
   - 《她是我的》為此專輯的主打曲目。
   - 新曲《Mysterious Lady》為此專輯的先行曲目，並於2013年10月24日配信發行。
   - 此專輯是成員[東澔退團後首張專輯](https://zh.wikipedia.org/wiki/申東澔 "wikilink")。
@@ -113,8 +110,6 @@ Media](../Page/NH_Media.md "wikilink")。
 
 ## 参考文献
 
-[Category:U-KISS音樂專輯](https://zh.wikipedia.org/wiki/Category:U-KISS音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:U-KISS音樂專輯](https://zh.wikipedia.org/wiki/Category:U-KISS音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.

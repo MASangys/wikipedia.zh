@@ -2,8 +2,7 @@ MEJIBRAY，是[日本](../Page/日本.md "wikilink")2011年出道的[視覺系](
 
 ## 經歷
 
-原先於2011年3月要以「綴PROJECT」的個人名義活動，由於[311大地震而取消演出](https://zh.wikipedia.org/wiki/311大地震 "wikilink")，進而在2011年6月18日樂手加入後開始正式活動\[1\]。原先是5人在活動，同年10月1日一風退出，變為4人團體\[2\]。
-之後，2012年10月至11月展開第一次獨立巡迴\[3\]。2017年12月活動休止,其間綴和戀一開始8P-SB活動。
+原先於2011年3月要以「綴PROJECT」的個人名義活動，由於[311大地震而取消演出](https://zh.wikipedia.org/wiki/311大地震 "wikilink")，進而在2011年6月18日樂手加入後開始正式活動\[1\]。原先是5人在活動，同年10月1日一風退出，變為4人團體\[2\]。 之後，2012年10月至11月展開第一次獨立巡迴\[3\]。2017年12月活動休止,其間綴和戀一開始8P-SB活動。
 
 ## 成員
 
@@ -11,12 +10,9 @@ MEJIBRAY，是[日本](../Page/日本.md "wikilink")2011年出道的[視覺系](
 
   - 擔任[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")。生日：12月15日，血型：O型。身高：172公分。出身地：橫濱。
   - 樂團經歷（括號內為當時藝名）：（るる）⇒DIS（幻希）⇒VanessA（元規）⇒MEJIBRAY（綴）
-  - 受影響的樂團有[DIR EN
-    GREY](https://zh.wikipedia.org/wiki/DIR_EN_GREY "wikilink")、[SADS](https://zh.wikipedia.org/wiki/SADS "wikilink")、[the
-    GazettE等等](https://zh.wikipedia.org/wiki/the_GazettE "wikilink")。
+  - 受影響的樂團有[DIR EN GREY](https://zh.wikipedia.org/wiki/DIR_EN_GREY "wikilink")、[SADS](https://zh.wikipedia.org/wiki/SADS "wikilink")、[the GazettE等等](https://zh.wikipedia.org/wiki/the_GazettE "wikilink")。
   - 學生時代參加劍道社。畢業後開始樂團活動，同時也因自殘、自殺未遂而反覆住院。
-  - 發行單曲《DECADANCE - Counting Goats … if I can't be yours
-    -》時有針對〈躁と鬱と境界〉一曲解釋自己患有[BPD](https://zh.wikipedia.org/wiki/BPD "wikilink")。
+  - 發行單曲《DECADANCE - Counting Goats … if I can't be yours -》時有針對〈躁と鬱と境界〉一曲解釋自己患有[BPD](https://zh.wikipedia.org/wiki/BPD "wikilink")。
   - 說過自己是極度的M。
   - 創作的歌詞幾乎都是真實經驗。
   - 喜歡鮮奶油類的甜點。
@@ -40,8 +36,7 @@ MEJIBRAY，是[日本](../Page/日本.md "wikilink")2011年出道的[視覺系](
 ### 恋一
 
   - 擔任[貝斯手](https://zh.wikipedia.org/wiki/貝斯 "wikilink")。生日：12月22日，血型：B型。身高：178公分。
-  - 樂團經歷（括號內為當時藝名）：マイフレ⇒Valcuria⇒ミミック（夏希）⇒VANESSA（恋一）⇒the
-    LEM（協演）⇒MEJIBRAY（協演：恋一）⇒MEJIBRAY（恋一）
+  - 樂團經歷（括號內為當時藝名）：マイフレ⇒Valcuria⇒ミミック（夏希）⇒VANESSA（恋一）⇒the LEM（協演）⇒MEJIBRAY（協演：恋一）⇒MEJIBRAY（恋一）
   - 會開車，儀表板上有一隻[航海王喬巴的公仔](https://zh.wikipedia.org/wiki/航海王 "wikilink")。
   - 是左撇子，貝斯也是左撇子專用的琴。
   - 喜歡Vivienne Westwood，有很多飾品配件都是該牌。
@@ -72,15 +67,10 @@ MEJIBRAY，是[日本](../Page/日本.md "wikilink")2011年出道的[視覺系](
 
   - 戀一和綴從前一個樂團時就一起活動，戀一選擇綴作為主唱的理由是因為「綴看起來會死在舞台上」，對於這個說法MiA也認同，而メト也因為覺得這樣的綴相當帥氣而憧憬綴。
   - 製作《Emotional【KARMA】》的時候，團員有段時間每天都住在一起。
-  - 2012年7月份時，[the
-    GazettE吉他手葵在twitter上推薦了MEJIBRAY](https://zh.wikipedia.org/wiki/the_GazettE "wikilink")，而後團員陸續推文向葵打了招呼，之後MiA也和葵私下相約喝酒過。又，綴相當崇拜the
-    GazettE，樂團曾受邀參加the GazettE在2012年8月時舉辦的「STANDING LIVE TOUR 12 -HERESY
-    PRESENTS- HETERODOXY」終場。
+  - 2012年7月份時，[the GazettE吉他手葵在twitter上推薦了MEJIBRAY](https://zh.wikipedia.org/wiki/the_GazettE "wikilink")，而後團員陸續推文向葵打了招呼，之後MiA也和葵私下相約喝酒過。又，綴相當崇拜the GazettE，樂團曾受邀參加the GazettE在2012年8月時舉辦的「STANDING LIVE TOUR 12 -HERESY PRESENTS- HETERODOXY」終場。
   - 每一次的新造型都是團員各自決定，拍攝當天才會知道彼此的造型。
-  - 2014年3月3日起舉行過造型的展覽，展出《アプリオリ》、《醜詠》和《DECADANCE -Counting Goats… if I
-    can't be yours-》三個時期的服裝造型。
-  - 在Club Zy.中文版Facebook專頁於2014年2月12日舉辦的「如果在中華圈舉辦stylish wave的LIVE
-    event。你希望以下哪三隊樂團前來演出呢？」投票中，當選台灣和中國地區的雙料冠軍。
+  - 2014年3月3日起舉行過造型的展覽，展出《アプリオリ》、《醜詠》和《DECADANCE -Counting Goats… if I can't be yours-》三個時期的服裝造型。
+  - 在Club Zy.中文版Facebook專頁於2014年2月12日舉辦的「如果在中華圈舉辦stylish wave的LIVE event。你希望以下哪三隊樂團前來演出呢？」投票中，當選台灣和中國地區的雙料冠軍。
 
 ## 發行作品
 
@@ -391,8 +381,7 @@ MEJIBRAY，是[日本](../Page/日本.md "wikilink")2011年出道的[視覺系](
 <!-- end list -->
 
   -
-    翻唱[DIR EN
-    GREY的](https://zh.wikipedia.org/wiki/DIR_EN_GREY "wikilink")〈Cage〉\[5\]。
+    翻唱[DIR EN GREY的](https://zh.wikipedia.org/wiki/DIR_EN_GREY "wikilink")〈Cage〉\[5\]。
 
 <!-- end list -->
 
@@ -463,11 +452,7 @@ MEJIBRAY，是[日本](../Page/日本.md "wikilink")2011年出道的[視覺系](
 
   - <http://instagram.com/appetizing_pig> - 戀一的Instagram
 
-[Category:日本另類搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本另類搖滾樂團 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink")
-[Category:日本重金屬樂團](https://zh.wikipedia.org/wiki/Category:日本重金屬樂團 "wikilink")
-[Category:實驗音樂樂團](https://zh.wikipedia.org/wiki/Category:實驗音樂樂團 "wikilink")
+[Category:日本另類搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本另類搖滾樂團 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink") [Category:日本重金屬樂團](https://zh.wikipedia.org/wiki/Category:日本重金屬樂團 "wikilink") [Category:實驗音樂樂團](https://zh.wikipedia.org/wiki/Category:實驗音樂樂團 "wikilink")
 
 1.
 

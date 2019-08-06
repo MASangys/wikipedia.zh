@@ -1,6 +1,4 @@
-**「Lights Go On
-Again」**是[南韓男子偶像組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")[BEAST的第四張迷你專輯](https://zh.wikipedia.org/wiki/BEAST "wikilink")。\[1\]\[2\]，於2010年11月9日發行，唱片公司為[Cube
-Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")。主打歌為「Beautiful」。
+**「Lights Go On Again」**是[南韓男子偶像組合](https://zh.wikipedia.org/wiki/南韓 "wikilink")[BEAST的第四張迷你專輯](https://zh.wikipedia.org/wiki/BEAST "wikilink")。\[1\]\[2\]，於2010年11月9日發行，唱片公司為[Cube Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")。主打歌為「Beautiful」。
 
 ## 簡介
 
@@ -40,8 +38,7 @@ Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")。�
 
 ## 参考资料
 
-[Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
+[Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
 
 1.
 

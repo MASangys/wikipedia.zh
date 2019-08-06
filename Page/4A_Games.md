@@ -1,8 +1,6 @@
-**4A
-Games**是一家坐落在[乌克兰](../Page/乌克兰.md "wikilink")[基辅的](https://zh.wikipedia.org/wiki/基辅 "wikilink")[电脑游戏](../Page/电脑游戏.md "wikilink")开发工作室\[1\]，知名作品為《[地铁2033](../Page/地铁2033_\(游戏\).md "wikilink")》和《[地铁：最后的曙光](https://zh.wikipedia.org/wiki/地铁：最后的曙光 "wikilink")》\[2\]。
+**4A Games**是一家坐落在[乌克兰](../Page/乌克兰.md "wikilink")[基辅的](https://zh.wikipedia.org/wiki/基辅 "wikilink")[电脑游戏](../Page/电脑游戏.md "wikilink")开发工作室\[1\]，知名作品為《[地铁2033](../Page/地铁2033_\(游戏\).md "wikilink")》和《[地铁：最后的曙光](https://zh.wikipedia.org/wiki/地铁：最后的曙光 "wikilink")》\[2\]。
 
-4A
-Games由一群年轻专业人士组成，他们联合起来创立了这一全新的娱乐产业机构。员工在程序编写和电脑游戏方面拥有多年经验，尤其是在演艺界，公共事务方面。
+4A Games由一群年轻专业人士组成，他们联合起来创立了这一全新的娱乐产业机构。员工在程序编写和电脑游戏方面拥有多年经验，尤其是在演艺界，公共事务方面。
 
 ## 遊戲列表
 
@@ -58,8 +56,7 @@ Games由一群年轻专业人士组成，他们联合起来创立了这一全新
 ## 外部連結
 
   -
-[Category:2006年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2006年開業電子遊戲公司 "wikilink")
-[Category:烏克蘭電子遊戲公司](https://zh.wikipedia.org/wiki/Category:烏克蘭電子遊戲公司 "wikilink")
+[Category:2006年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2006年開業電子遊戲公司 "wikilink") [Category:烏克蘭電子遊戲公司](https://zh.wikipedia.org/wiki/Category:烏克蘭電子遊戲公司 "wikilink")
 
 1.
 2.

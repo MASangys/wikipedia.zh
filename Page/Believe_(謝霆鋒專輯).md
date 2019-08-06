@@ -11,7 +11,4 @@
   - 1999年度十大勁歌金曲頒獎典禮 - 最佳歌曲監製《非走不可》
   - 1999年度十大中文歌曲頒獎典禮 - 十大中文歌曲《非走不可》
 
-[Category:謝霆鋒音樂專輯](https://zh.wikipedia.org/wiki/Category:謝霆鋒音樂專輯 "wikilink")
-[Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:謝霆鋒](https://zh.wikipedia.org/wiki/Category:謝霆鋒 "wikilink")
+[Category:謝霆鋒音樂專輯](https://zh.wikipedia.org/wiki/Category:謝霆鋒音樂專輯 "wikilink") [Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:謝霆鋒](https://zh.wikipedia.org/wiki/Category:謝霆鋒 "wikilink")

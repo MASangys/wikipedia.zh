@@ -1,7 +1,4 @@
-《**FIRST
-CLASS**》（）\[1\]為[富士電視台](../Page/富士電視台.md "wikilink")於2014年4月19日起在每周六23:10
-- 23:55播出的「[六劇](../Page/六劇.md "wikilink")」（）與2014年10月15日起在每周三22:00 -
-22:55播出的[水十](../Page/富士電視台週三晚間十點連續劇.md "wikilink")（）。由[澤尻英龍華](../Page/澤尻英龍華.md "wikilink")主演\[2\]。兩季播出相距僅隔三個月，是同電視台有史以來首次嘗試\[3\]。台灣緯來日本台自2014年10月4日起，每週六晚間10點兩季連續播出。
+《**FIRST CLASS**》（）\[1\]為[富士電視台](../Page/富士電視台.md "wikilink")於2014年4月19日起在每周六23:10 - 23:55播出的「[六劇](../Page/六劇.md "wikilink")」（）與2014年10月15日起在每周三22:00 - 22:55播出的[水十](../Page/富士電視台週三晚間十點連續劇.md "wikilink")（）。由[澤尻英龍華](../Page/澤尻英龍華.md "wikilink")主演\[2\]。兩季播出相距僅隔三個月，是同電視台有史以來首次嘗試\[3\]。台灣緯來日本台自2014年10月4日起，每週六晚間10點兩季連續播出。
 
 [廣告標語](../Page/廣告標語.md "wikilink")為「**除了我以外，大家都是惡女。**」（）與「**包括我在內，大家都是惡女。**」（）
 
@@ -19,8 +16,7 @@ CLASS**》（）\[1\]為[富士電視台](../Page/富士電視台.md "wikilink")
 
   - 第2部
 
-**吉成千奈美**在成功拯救《FIRST CLASS》的半年後，跳槽到時尚品牌「TATSUKO YANO」擔任新人設計師。此時「TATSUKO
-YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇才擔任創意總監，讓公司化解營運遲滯不前的僵局。創意總監宣布舉辦秋冬新裝發表會，包括千奈美在內的的整個設計團隊，絞盡腦汁構思最獨特的設計，爭奪新裝發表會的主導權……\[6\]
+**吉成千奈美**在成功拯救《FIRST CLASS》的半年後，跳槽到時尚品牌「TATSUKO YANO」擔任新人設計師。此時「TATSUKO YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇才擔任創意總監，讓公司化解營運遲滯不前的僵局。創意總監宣布舉辦秋冬新裝發表會，包括千奈美在內的的整個設計團隊，絞盡腦汁構思最獨特的設計，爭奪新裝發表會的主導權……\[6\]
 
 ## 背景
 
@@ -39,19 +35,13 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
 ### 主角
 
   -
-    演 -
-    [澤尻英龍華](../Page/澤尻英龍華.md "wikilink")（童年：藤田彩華）（香港配音：[張頌欣](../Page/張頌欣.md "wikilink")）
+    演 - [澤尻英龍華](../Page/澤尻英龍華.md "wikilink")（童年：藤田彩華）（香港配音：[張頌欣](../Page/張頌欣.md "wikilink")）
     ***被虐待的灰姑娘***
-    [栃木縣](../Page/栃木縣.md "wikilink")[宇都宮市](../Page/宇都宮市.md "wikilink")出身。《FIRST
-    CLASS》編輯部見習生。前職為衣料材料店「Tokai」銷售員，對時尚方面相當有興趣，常將薪水花在買雜誌上，包括《FIRST
-    CLASS》。
-    編輯長與她聊天中常讓她有所啟發，而後在新雜誌總編輯八卷的提拔下成為新雜誌《PUERTO》副總編輯，後在《FIRST
-    CLASS》編輯長大澤宣布辭任後接任，從原本的見習生晉升至總編輯。
+    [栃木縣](../Page/栃木縣.md "wikilink")[宇都宮市](../Page/宇都宮市.md "wikilink")出身。《FIRST CLASS》編輯部見習生。前職為衣料材料店「Tokai」銷售員，對時尚方面相當有興趣，常將薪水花在買雜誌上，包括《FIRST CLASS》。
+    編輯長與她聊天中常讓她有所啟發，而後在新雜誌總編輯八卷的提拔下成為新雜誌《PUERTO》副總編輯，後在《FIRST CLASS》編輯長大澤宣布辭任後接任，從原本的見習生晉升至總編輯。
     第一季MOUNTING順位為：8 → 7 → 6 → 8 → 6 → 6 → 3 → 1。
     第二季MOUNTING順位為：4 → 7 → 11→ 12→ 3 → 3 → 1 → 12 →11。
-    第2季起為時尚品牌「TATSUKO YANO」新人設計師→首席設計師→「NGS控股公司」接待員→「TATSUKO
-    YANO」社長秘書→「TATSUKO YANO JAPAN」創意總監→「TATSUKO
-    YANO」創意總監→「Chinami Yoshinari With Orchid」設計師
+    第2季起為時尚品牌「TATSUKO YANO」新人設計師→首席設計師→「NGS控股公司」接待員→「TATSUKO YANO」社長秘書→「TATSUKO YANO JAPAN」創意總監→「TATSUKO YANO」創意總監→「Chinami Yoshinari With Orchid」設計師
 
 ### 第1部
 
@@ -62,19 +52,15 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
 ##### 編輯部員工
 
   -
-    演 -
-    [田畑智子](../Page/田畑智子.md "wikilink")（香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
+    演 - [田畑智子](../Page/田畑智子.md "wikilink")（香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
     ***向上爬的飢餓猛獸***
-    契約社員。京都府出身，平常會以關西腔對話，對於升職相當在意，非常努力工作，卻遲遲無法轉任正職。對於靠關係來得到職位的瑞美繪感到反感。後來與千奈美結為好友，決定退出詢香社轉當自由編輯，因前總編輯留美聘用時「將來如果FIRST
-    CLASS面臨危機時，希望妳能回來幫忙」的私下約定，在《FIRST CLASS》發生停刊危機時又回來幫忙。第二季時已經成為《FIRST
-    CLASS》編輯。
+    契約社員。京都府出身，平常會以關西腔對話，對於升職相當在意，非常努力工作，卻遲遲無法轉任正職。對於靠關係來得到職位的瑞美繪感到反感。後來與千奈美結為好友，決定退出詢香社轉當自由編輯，因前總編輯留美聘用時「將來如果FIRST CLASS面臨危機時，希望妳能回來幫忙」的私下約定，在《FIRST CLASS》發生停刊危機時又回來幫忙。第二季時已經成為《FIRST CLASS》編輯。
     MOUNTING順位：7 → 8 → 8 → 6，第5集之後成為**JOKER**\[9\]。
 
 <!-- end list -->
 
   -
-    演 -
-    [菜菜緒](../Page/菜菜緒.md "wikilink")（香港配音：[柚子蜜](https://zh.wikipedia.org/wiki/柚子蜜_\(配音員\) "wikilink")）
+    演 - [菜菜緒](../Page/菜菜緒.md "wikilink")（香港配音：[柚子蜜](https://zh.wikipedia.org/wiki/柚子蜜_\(配音員\) "wikilink")）
     ***靠關係入職的腹黒女***
     正職社員。不會說英文的歸國子女，靠父親關係進入編輯部。對於謾罵他人心裡話常會用相當特別的方式比喻，引起觀眾的注目及共鳴，富士電視台特別將其角色作為影片宣傳，在[YOUTUBE上推出](https://zh.wikipedia.org/wiki/YOUTUBE "wikilink")「惡女瑞美繪的金言、暴言、謾罵雜言」（）的特別企劃。
     MOUNTING順位：5 → 5 → 7 → 5 → 5 → 4 → 5 → 2。
@@ -82,42 +68,32 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
 <!-- end list -->
 
   -
-    演 -
-    [三浦理惠子](../Page/三浦理惠子.md "wikilink")（香港配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
+    演 - [三浦理惠子](../Page/三浦理惠子.md "wikilink")（香港配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
     ***隱藏的肉食系惡女***
-    《FIRST
-    CLASS》副總編輯。已婚，有個就讀小學六年級的女兒。與社長似乎有著特殊關係，受社長所託，擔任新創刊的女性時尚雜誌《PUERTO》的總編輯。後來得知社長收取回扣的消息，在社長的脅迫下，《PUERTO》被迫停刊，自己也從公司離職。後又以大澤的助手身分在外資企業F\&M
-    Japan工作。
+    《FIRST CLASS》副總編輯。已婚，有個就讀小學六年級的女兒。與社長似乎有著特殊關係，受社長所託，擔任新創刊的女性時尚雜誌《PUERTO》的總編輯。後來得知社長收取回扣的消息，在社長的脅迫下，《PUERTO》被迫停刊，自己也從公司離職。後又以大澤的助手身分在外資企業F\&M Japan工作。
     MOUNTING順位到第六集為止：2 → 1 → 第8集以後JOKER。
 
 <!-- end list -->
 
   -
-    演 -
-    [板谷由夏](../Page/板谷由夏.md "wikilink")（香港配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
+    演 - [板谷由夏](../Page/板谷由夏.md "wikilink")（香港配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
     ***業界的絕對女王***
-    《FIRST
-    CLASS》總編輯。本姓中山，已婚並曾經離婚，新任丈夫是年輕10歲的時尚設計師。看似冷酷但常在千奈美遇到難題時提點她，而後決定辭任時將編輯長接任給千奈美。辭任後以外資集團F\&M
-    Japan的部長身分再臨《FIRST CLASS》編輯部並意圖進行重整。
+    《FIRST CLASS》總編輯。本姓中山，已婚並曾經離婚，新任丈夫是年輕10歲的時尚設計師。看似冷酷但常在千奈美遇到難題時提點她，而後決定辭任時將編輯長接任給千奈美。辭任後以外資集團F\&M Japan的部長身分再臨《FIRST CLASS》編輯部並意圖進行重整。
     MOUNTING順位到第六集為止：1 → 2 → 第8集以後JOKER。
 
 <!-- end list -->
 
   -  （第1季）
-    演 -
-    （[SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")）（第2部第9話）（香港配音：[凌晞](../Page/凌晞.md "wikilink")）
+    演 - （[SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")）（第2部第9話）（香港配音：[凌晞](../Page/凌晞.md "wikilink")）
     契約社員。東大理科畢業，表面看似圓滑無害，但私下的聰明心機有時讓人招架不住。後來被新雜誌《PUERTO》總編輯招攬。丈夫是有2年資歷的金融投機客。
 
 ##### 時尚雜誌《FIRST CLASS》專屬模特兒
 
   - MIINA（25）→
-    演 -
-    [佐佐木希](../Page/佐佐木希.md "wikilink")\[10\]（香港配音：[何璐怡](../Page/何璐怡.md "wikilink")）
+    演 - [佐佐木希](../Page/佐佐木希.md "wikilink")\[10\]（香港配音：[何璐怡](../Page/何璐怡.md "wikilink")）
     ***危險又自私的單純女子***
-    №1的首席模特兒。[群馬縣](../Page/群馬縣.md "wikilink")出身，原為太妹。為了減肥不惜催吐並過量服用非法減肥藥，期後在千奈美的幫助下重新振作，並一改以往的待人處事態度。在新雜誌創立後重任《FIRST
-    CLASS》的看板模特兒。
-    第二部第7話中以《FIRST
-    CLASS》的編輯身份——鈴木喜子再度登場。把手頭上一份剛好完成的「明年春夏商品的讀者問卷調查」給予千奈作為設計靈感的參考。
+    №1的首席模特兒。[群馬縣](../Page/群馬縣.md "wikilink")出身，原為太妹。為了減肥不惜催吐並過量服用非法減肥藥，期後在千奈美的幫助下重新振作，並一改以往的待人處事態度。在新雜誌創立後重任《FIRST CLASS》的看板模特兒。
+    第二部第7話中以《FIRST CLASS》的編輯身份——鈴木喜子再度登場。把手頭上一份剛好完成的「明年春夏商品的讀者問卷調查」給予千奈作為設計靈感的參考。
     MOUNTING順位：3 → 4 → 3 → 7 → 7 → 第6集以後JOKER。
 
 <!-- end list -->
@@ -125,8 +101,7 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
   - （23）
     演 - \[11\]（第2部第5話）（香港配音：[黃昕瑜](../Page/黃昕瑜.md "wikilink")）
     ***有野心的歸國名媛***
-    №2的混血模特兒。[洛杉磯出身](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。常與瑞美繪合作，私下總會在聚餐中抺黑他人。在新雜誌《PUERTO》創立後成為其看板模特兒。在第二部中成為品牌「CLAP
-    CLAP」的創意總監。
+    №2的混血模特兒。[洛杉磯出身](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。常與瑞美繪合作，私下總會在聚餐中抺黑他人。在新雜誌《PUERTO》創立後成為其看板模特兒。在第二部中成為品牌「CLAP CLAP」的創意總監。
     MOUNTING順位：6 → 3 → 4 → 3 → 3 → 3 → 4 → 3。
 
 ##### 其他專屬工作人員
@@ -140,16 +115,14 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
 <!-- end list -->
 
   -
-    演 -
-    [中丸雄一](../Page/中丸雄一.md "wikilink")（第2部最終話）（香港配音：[張方正](../Page/張方正.md "wikilink")）
+    演 - [中丸雄一](../Page/中丸雄一.md "wikilink")（第2部最終話）（香港配音：[張方正](../Page/張方正.md "wikilink")）
     ***還未見過太陽的王子***
     靜香的攝影助手，實際上是大型製紙公司的小開，父母並不贊同其目前的職業，對千奈美有好感。
 
 <!-- end list -->
 
   -
-    演 -
-    [平山浩行](../Page/平山浩行.md "wikilink")（第2部第9話）（香港配音：[陳廷軒](../Page/陳廷軒.md "wikilink")）
+    演 - [平山浩行](../Page/平山浩行.md "wikilink")（第2部第9話）（香港配音：[陳廷軒](../Page/陳廷軒.md "wikilink")）
     ***業界最受歡迎的男人***
     造型師兼時尚總監。時常與千奈美合作並助她一臂之力。
 
@@ -168,8 +141,7 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
     演 - （Jenny Skidmore）（第3話）（香港配音：[何寶珊](../Page/何寶珊.md "wikilink")）
     原將在《FIRST CLASS》專訪中登場的好萊塢女演員。對蛋類食物過敏。
   - 真田美也子
-    演 -
-    [岩佐真悠子](../Page/岩佐真悠子.md "wikilink")（第4話）（香港配音：[陳皓宜](../Page/陳皓宜.md "wikilink")）
+    演 - [岩佐真悠子](../Page/岩佐真悠子.md "wikilink")（第4話）（香港配音：[陳皓宜](../Page/陳皓宜.md "wikilink")）
     詢香社廣告部社員。與加賀美真珠為《FIRST CLASS》的商業廣告企劃負責人。
   - 中井
     演 - （第5話）（香港配音：[盧國權](../Page/盧國權.md "wikilink")）
@@ -178,16 +150,13 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
     演 - （第5話）（香港配音：[林芷筠](../Page/林芷筠.md "wikilink")）
     主動借出店舖給千奈美進行拍攝。
   - 樫本潤
-    演 -
-    [Hitomi](../Page/Hitomi.md "wikilink")\[12\]（第7話）（香港配音：[黃淑芬](../Page/黃淑芬.md "wikilink")）
-    「sophia sarsgaard」的創意總監。受邀在《PUERTO》創刊號中刊出與ERENA的獨家訪談。曾在《FIRST
-    CLASS》與留美、小夏、拓海共同做過編輯的工作。
+    演 - [Hitomi](../Page/Hitomi.md "wikilink")\[12\]（第7話）（香港配音：[黃淑芬](../Page/黃淑芬.md "wikilink")）
+    「sophia sarsgaard」的創意總監。受邀在《PUERTO》創刊號中刊出與ERENA的獨家訪談。曾在《FIRST CLASS》與留美、小夏、拓海共同做過編輯的工作。
   - 藤咲敦子
     演 - 湯淺美和子（第8話）（香港配音：[林芷筠](../Page/林芷筠.md "wikilink")）
     原任職外資系企業，之後被挖角至時尚業，擔任時尚雜誌總編輯。
   - 長峰麗子
-    演 -
-    [高岡早紀](../Page/高岡早紀.md "wikilink")（特別演出）（第8話）（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
+    演 - [高岡早紀](../Page/高岡早紀.md "wikilink")（特別演出）（第8話）（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
     時尚雜誌「蘇非亞」的總編輯。
   - 理惠子·麥卡尼
     演 - （第8－10話、第2部8－10話）（香港配音：[許盈](../Page/許盈.md "wikilink")）
@@ -197,8 +166,7 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
 
 #### 頂級時尚品牌「TATSUKO YANO」
 
-矢野龍子創立的頂級時尚品牌。（TATSUKO YANO → TATSUKO YANO JAPAN → TATSUKO YANO ORIGINAL
-→ TATSUKO YANO）
+矢野龍子創立的頂級時尚品牌。（TATSUKO YANO → TATSUKO YANO JAPAN → TATSUKO YANO ORIGINAL → TATSUKO YANO）
 
   - 高層（董事）
 
@@ -207,8 +175,7 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
   -
 
       -
-        演 -
-        [木村佳乃](../Page/木村佳乃.md "wikilink")（香港配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
+        演 - [木村佳乃](../Page/木村佳乃.md "wikilink")（香港配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
         創意總監→社長→卸任。
         具有200%破壞力的破壞型惡女。
         MOUNTING順位為：3 → 3 → 2 → 2 → 2 → 2 → 10 → 11 → 12 。
@@ -227,8 +194,7 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
   -
 
       -
-        演 -
-        [余貴美子](../Page/余貴美子.md "wikilink")（香港配音：[蔡惠萍](../Page/蔡惠萍.md "wikilink")）
+        演 - [余貴美子](../Page/余貴美子.md "wikilink")（香港配音：[蔡惠萍](../Page/蔡惠萍.md "wikilink")）
         大型服裝品牌「NGS控股公司」執行董事→卸任→副社長。
         MOUNTING順位至第六集為：1 → 11 → 2 → 2 。
 
@@ -237,8 +203,7 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
   -
 
       -
-        演 -
-        [夏木麻里](../Page/夏木麻里.md "wikilink")（香港配音：[袁淑珍](../Page/袁淑珍.md "wikilink")）
+        演 - [夏木麻里](../Page/夏木麻里.md "wikilink")（香港配音：[袁淑珍](../Page/袁淑珍.md "wikilink")）
         「TATSUKO YANO」的創辦人暨首任社長→卸任→回任社長。
         MOUNTING順位為：2 → 2 → 3 → 6 → 6 → 6 → 9 → 1 → 1 。
 
@@ -251,8 +216,7 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
   -
 
       -
-        演 -
-        [倉科加奈](../Page/倉科加奈.md "wikilink")\[13\]（香港配音：[何寶珊](../Page/何寶珊.md "wikilink")）
+        演 - [倉科加奈](../Page/倉科加奈.md "wikilink")\[13\]（香港配音：[何寶珊](../Page/何寶珊.md "wikilink")）
         設計助理。可愛型惡女。
         MOUNTING順位為：9 → 8 → 8 → 8 → 12 → JOKER → JOKER → 7 → 7 。
 
@@ -270,8 +234,7 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
   -
 
       -
-        演 -
-        [中村倫也](../Page/中村倫也.md "wikilink")（香港配音：[李凱傑](../Page/李凱傑.md "wikilink")）
+        演 - [中村倫也](../Page/中村倫也.md "wikilink")（香港配音：[李凱傑](../Page/李凱傑.md "wikilink")）
         設計助理。
 
 :;
@@ -279,8 +242,7 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
   -
 
       -
-        演 -
-        [友坂理惠](../Page/友坂理惠.md "wikilink")\[15\]（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
+        演 - [友坂理惠](../Page/友坂理惠.md "wikilink")\[15\]（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
         中堅設計師。飢渴型惡女。
         MOUNTING順位為：7 → 6 → 6 → 5 → 5 → 4 → 3 → 3 → 3 。
 
@@ -289,8 +251,7 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
   -
 
       -
-        演 -
-        [山谷花純](../Page/山谷花純.md "wikilink")（香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
+        演 - [山谷花純](../Page/山谷花純.md "wikilink")（香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
         實習生。風騷撒旦型惡女。善於交際。為了在職場中生存，主動提出與川島姊妹合謀。
         佐丹野的發音－與撒旦－相似，加上渾身散發著的「ERENA氣息」，故被初次見面的瑞美繪稱為「小悪魔」。而且直覺認為這個貧嘴賤舌的新人只會考慮自己，而一直對她有所忌諱。
         MOUNTING順位由第四集為：11 → 8 → 8 → 8 → 10 → 10 。
@@ -322,8 +283,7 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
   -
 
       -
-        演 -
-        [岡本圭人](../Page/岡本圭人.md "wikilink")（香港配音：[胡家豪](../Page/胡家豪.md "wikilink")）
+        演 - [岡本圭人](../Page/岡本圭人.md "wikilink")（香港配音：[胡家豪](../Page/胡家豪.md "wikilink")）
         實習服裝製版人員。
 
 <!-- end list -->
@@ -344,29 +304,24 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
   -
 
       -
-        演 -
-        -{[鈴木千奈美](../Page/鈴木千奈美.md "wikilink")}-（香港配音：[魏惠娥](../Page/魏惠娥.md "wikilink")）
+        演 - -{[鈴木千奈美](../Page/鈴木千奈美.md "wikilink")}-（香港配音：[魏惠娥](../Page/魏惠娥.md "wikilink")）
         公關助理。心思不定的恐怖份子型惡女。
         MOUNTING順位為：8 → 9 → 7 → 7 → 11 → 11 → 7 → 5 → 5 。
 
 #### NGS控股公司
 
   - 間宮充（30）
-    演 -
-    [青柳翔](../Page/青柳翔.md "wikilink")（香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）
+    演 - [青柳翔](../Page/青柳翔.md "wikilink")（香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）
     大型服裝品牌「NGS控股公司」所屬的平價服飾公司社長。
 
 #### 其他人物
 
   - 鏑木三郎
-    演 -
-    [麿赤兒](../Page/麿赤兒.md "wikilink")（香港配音：[張炳強](../Page/張炳強.md "wikilink")）
+    演 - [麿赤兒](../Page/麿赤兒.md "wikilink")（香港配音：[張炳強](../Page/張炳強.md "wikilink")）
     提供時尚界營運建議的。TATSUKO YANO背後出資者。
   - YURINA /
     演 - （香港配音：[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")）
-    知名[Fast
-    Fashion服飾品牌](https://zh.wikipedia.org/wiki/快时尚 "wikilink")－BUTTERFLY
-    HONEY的-{zh-tw:專屬;zh-hk:專屬;zh-cn:御用}-模特兒。名門千金學校・私立雪谷大附屬女子高中的學生會會長。廣木里加的親生女兒。
+    知名[Fast Fashion服飾品牌](https://zh.wikipedia.org/wiki/快时尚 "wikilink")－BUTTERFLY HONEY的-{zh-tw:專屬;zh-hk:專屬;zh-cn:御用}-模特兒。名門千金學校・私立雪谷大附屬女子高中的學生會會長。廣木里加的親生女兒。
 
 #### 客串
 
@@ -402,13 +357,10 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
     演 - 川井務（第5話）（香港配音：[張錦江](../Page/張錦江.md "wikilink")）
     高野的上司。
   - 河瀨春香
-    演 -
-    [樋井明日香](../Page/樋井明日香.md "wikilink")（第8話）（香港配音：[廖杏茵](../Page/廖杏茵.md "wikilink")）
-    TATSUKO YANO
-    JAPAN的顧客。一直希望能讓父親在辭世之前能看到自己穿新娘裝的樣子，卻礙於生活壓力無法如願，因此感到相當苦惱。
+    演 - [樋井明日香](../Page/樋井明日香.md "wikilink")（第8話）（香港配音：[廖杏茵](../Page/廖杏茵.md "wikilink")）
+    TATSUKO YANO JAPAN的顧客。一直希望能讓父親在辭世之前能看到自己穿新娘裝的樣子，卻礙於生活壓力無法如願，因此感到相當苦惱。
   - 河瀨裕一
-    演 -
-    [小澤亮太](../Page/小澤亮太.md "wikilink")（第8話）（香港配音：[陳耀楠](../Page/陳耀楠.md "wikilink")）
+    演 - [小澤亮太](../Page/小澤亮太.md "wikilink")（第8話）（香港配音：[陳耀楠](../Page/陳耀楠.md "wikilink")）
     春香的丈夫。
   - 利雄
     演 - （第8話）（香港配音：[譚炳文](../Page/譚炳文.md "wikilink")）
@@ -556,8 +508,7 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
 
 ## 延伸平行短劇\[18\]《FIRST CLASS GIRLS》
 
-2014年4月25日起於[BS富士](../Page/BS富士.md "wikilink")每週五23:55～24:00撥出的番外劇集《FIRST
-CLASS GIRLS》（）。由**佐佐木希**、**石田妮可**、**菜菜緒**、**田中美麗**演出。
+2014年4月25日起於[BS富士](../Page/BS富士.md "wikilink")每週五23:55～24:00撥出的番外劇集《FIRST CLASS GIRLS》（）。由**佐佐木希**、**石田妮可**、**菜菜緒**、**田中美麗**演出。
 
 | 各集           | 播出日期       | 獲勝者    |
 | ------------ | ---------- | ------ |
@@ -573,8 +524,7 @@ CLASS GIRLS》（）。由**佐佐木希**、**石田妮可**、**菜菜緒**、
 
 ## 延伸特別劇《FIRST CLASS GIRL：I AM REMIE～精明編輯瑞美繪繁忙的一天～》
 
-2014年10月1日於[富士電視台](../Page/富士電視台.md "wikilink")週三0:55～1:55撥出的延伸特別劇《FIRST
-CLASS GIRL：I AM REMIE～精明編輯瑞美繪繁忙的一天～》（）。由**菜菜緒**主演。
+2014年10月1日於[富士電視台](../Page/富士電視台.md "wikilink")週三0:55～1:55撥出的延伸特別劇《FIRST CLASS GIRL：I AM REMIE～精明編輯瑞美繪繁忙的一天～》（）。由**菜菜緒**主演。
 
 ## 製作群
 
@@ -681,16 +631,11 @@ CLASS GIRL：I AM REMIE～精明編輯瑞美繪繁忙的一天～》（）。由
 
 <!-- end list -->
 
-  - 導演 -
-    [水田成英](https://zh.wikipedia.org/wiki/水田成英 "wikilink")、樹下直美、小林和紘、及川博則、岡野宏信
-  - 主題歌 - [KAT-TUN](../Page/KAT-TUN.md "wikilink")「In Fact」（[J
-    Storm](../Page/J_Storm.md "wikilink")）
-  - 片尾曲 - [SOLIDEMO](../Page/SOLIDEMO.md "wikilink")「Heroine」（[avex
-    trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")）\[26\]
-  - 技術協助 -
-    [Videostaff](https://zh.wikipedia.org/wiki/Videostaff "wikilink")
-  - 照明協助 - [The
-    Horizon](https://zh.wikipedia.org/wiki/The_Horizon "wikilink")
+  - 導演 - [水田成英](https://zh.wikipedia.org/wiki/水田成英 "wikilink")、樹下直美、小林和紘、及川博則、岡野宏信
+  - 主題歌 - [KAT-TUN](../Page/KAT-TUN.md "wikilink")「In Fact」（[J Storm](../Page/J_Storm.md "wikilink")）
+  - 片尾曲 - [SOLIDEMO](../Page/SOLIDEMO.md "wikilink")「Heroine」（[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")）\[26\]
+  - 技術協助 - [Videostaff](https://zh.wikipedia.org/wiki/Videostaff "wikilink")
+  - 照明協助 - [The Horizon](https://zh.wikipedia.org/wiki/The_Horizon "wikilink")
   - 後製 - VASC（Video Art System Communications）
   - 美術協助 - [Fujiart](https://zh.wikipedia.org/wiki/Fujiart "wikilink")
   - 協助 - Rise
@@ -723,20 +668,14 @@ CLASS GIRL：I AM REMIE～精明編輯瑞美繪繁忙的一天～》（）。由
 <!-- end list -->
 
   - 導演 - [西浦正記](https://zh.wikipedia.org/wiki/西浦正記 "wikilink")、宮脇亮、楢木野禮
-  - 主題歌 - [安室奈美惠](../Page/安室奈美惠.md "wikilink")「[BRIGHTER
-    DAY](../Page/BRIGHTER_DAY.md "wikilink")」（[Dimension
-    Point](https://zh.wikipedia.org/wiki/Dimension_Point "wikilink")）\[28\]
-  - 片頭曲 -
-    [SOLIDEMO](../Page/SOLIDEMO.md "wikilink")「[Rafflesia](https://zh.wikipedia.org/wiki/Rafflesia "wikilink")」（avex
-    trax）\[29\]
+  - 主題歌 - [安室奈美惠](../Page/安室奈美惠.md "wikilink")「[BRIGHTER DAY](../Page/BRIGHTER_DAY.md "wikilink")」（[Dimension Point](https://zh.wikipedia.org/wiki/Dimension_Point "wikilink")）\[28\]
+  - 片頭曲 - [SOLIDEMO](../Page/SOLIDEMO.md "wikilink")「[Rafflesia](https://zh.wikipedia.org/wiki/Rafflesia "wikilink")」（avex trax）\[29\]
   - 字幕背景 - 三谷晉平
   - 食品協調 - 原裕子
   - 現場監修 - 出原明子
   - 製圖素描與設計畫稿 - 三沖直文、播本鈴二、笹谷美帆、相良哲也、岸本明子
   - 服裝製作合作 - 伊藤邦彥
-  - 服裝提供 -
-    [MERCURYDUO](https://zh.wikipedia.org/wiki/MARK_STYLER "wikilink")、is、cheryl
-    chee、REIJI HARIMOTO
+  - 服裝提供 - [MERCURYDUO](https://zh.wikipedia.org/wiki/MARK_STYLER "wikilink")、is、cheryl chee、REIJI HARIMOTO
   - 時裝秀合作
 
 <!-- end list -->
@@ -974,16 +913,7 @@ CLASS GIRL：I AM REMIE～精明編輯瑞美繪繁忙的一天～》（）。由
 
 ## 節目的變遷
 
-[Category:東京國際戲劇節優秀連續劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀連續劇獲獎作品 "wikilink")
-[Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:職場題材電視劇](https://zh.wikipedia.org/wiki/Category:職場題材電視劇 "wikilink")
-[Category:模特兒題材電視劇](https://zh.wikipedia.org/wiki/Category:模特兒題材電視劇 "wikilink")
-[Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink")
-[Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")
-[Category:欺凌題材電視劇](https://zh.wikipedia.org/wiki/Category:欺凌題材電視劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:東京國際戲劇節優秀連續劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀連續劇獲獎作品 "wikilink") [Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:職場題材電視劇](https://zh.wikipedia.org/wiki/Category:職場題材電視劇 "wikilink") [Category:模特兒題材電視劇](https://zh.wikipedia.org/wiki/Category:模特兒題材電視劇 "wikilink") [Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink") [Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink") [Category:欺凌題材電視劇](https://zh.wikipedia.org/wiki/Category:欺凌題材電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.
 
@@ -993,8 +923,7 @@ CLASS GIRL：I AM REMIE～精明編輯瑞美繪繁忙的一天～》（）。由
 
 4.  <http://japan.videoland.com.tw/channel/20140904/introduction.html>
 
-5.  [副音声でホンネ炸裂
-    「ファースト・クラス」の“悪魔の解説”](http://news.walkerplus.com/article/46810/)
+5.  [副音声でホンネ炸裂 「ファースト・クラス」の“悪魔の解説”](http://news.walkerplus.com/article/46810/)
 
 6.  <http://japan.videoland.com.tw/channel/20141003/introduction.html>
 
@@ -1040,10 +969,8 @@ CLASS GIRL：I AM REMIE～精明編輯瑞美繪繁忙的一天～》（）。由
 
 29.
 
-30. [ファースト・クラス](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/04_06/firstclass/index.html)
-    、スポニチアネックス、2014年4月28日閲覧。
+30. [ファースト・クラス](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/04_06/firstclass/index.html) 、スポニチアネックス、2014年4月28日閲覧。
 
-31. [ファーストクラス](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/10_12/firstclass/index.html)
-    、[體育日本](https://zh.wikipedia.org/wiki/體育日本 "wikilink")、2014年12月18日查閱。
+31. [ファーストクラス](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/10_12/firstclass/index.html) 、[體育日本](https://zh.wikipedia.org/wiki/體育日本 "wikilink")、2014年12月18日查閱。
 
 32. [水10綾瀬主演ドラマ第2回は17.0%、同枠沢尻は8.3%](http://www.sponichi.co.jp/entertainment/news/2014/10/23/kiji/K20141023009154030.html)（2014年10月23日）、スポニチアネックス、2014年10月23日閲覧。

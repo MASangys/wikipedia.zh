@@ -1,5 +1,4 @@
-**Foreach循环**（Foreach
-loop）是[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")[编程语言](../Page/编程语言.md "wikilink")中的一种[控制流程](../Page/控制流程.md "wikilink")语句，通常用来循环遍历[数组](../Page/数组.md "wikilink")或[集合中的元素](https://zh.wikipedia.org/wiki/集合 "wikilink")。
+**Foreach循环**（Foreach loop）是[计算机](https://zh.wikipedia.org/wiki/计算机 "wikilink")[编程语言](../Page/编程语言.md "wikilink")中的一种[控制流程](../Page/控制流程.md "wikilink")语句，通常用来循环遍历[数组](../Page/数组.md "wikilink")或[集合中的元素](https://zh.wikipedia.org/wiki/集合 "wikilink")。
 
 ## 程序示例
 
@@ -24,8 +23,7 @@ foreach (int x in myArray)
 }
 ```
 
-如果要让自定义的数据类型支持foreach循环，则该类型必须实现IEnumerable<T>接口，且存在对应此列表的IEnumerator<T>实现。
-实际上，在.Net的底层（IL语言层面）而言，
+如果要让自定义的数据类型支持foreach循环，则该类型必须实现IEnumerable<T>接口，且存在对应此列表的IEnumerator<T>实现。 实际上，在.Net的底层（IL语言层面）而言，
 
 ``` CSharp
 foreach (var x in list) // x的类型为T

@@ -15,6 +15,4 @@ KGP-9也有民用版，但只能進行半自動射擊。
 
   - Military Small Arms of the 20th Century Ian Hogg, John Weeks
 
-[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink")
-[Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink")
-[Category:匈牙利槍械](https://zh.wikipedia.org/wiki/Category:匈牙利槍械 "wikilink")
+[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:匈牙利槍械](https://zh.wikipedia.org/wiki/Category:匈牙利槍械 "wikilink")

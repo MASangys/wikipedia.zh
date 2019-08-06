@@ -12,32 +12,18 @@
 
   - [SD卡](../Page/SD卡.md "wikilink")
       - [Eye-Fi](../Page/Eye-Fi.md "wikilink")一种知名的无线SD卡
-      - [ez Share](https://zh.wikipedia.org/wiki/ez_Share "wikilink")
-        另外的无线存储卡解决方案
-  - [PQI Air
-    Card](https://zh.wikipedia.org/wiki/PQI_Air_Card "wikilink")
-    PQI提出的一种TF-SD卡套的无线方案
-  - [MAXELL
-    AirStash](https://zh.wikipedia.org/wiki/MAXELL_AirStash "wikilink")
-    MAXELL提出的外置式SD卡分享方案
+      - [ez Share](https://zh.wikipedia.org/wiki/ez_Share "wikilink") 另外的无线存储卡解决方案
+  - [PQI Air Card](https://zh.wikipedia.org/wiki/PQI_Air_Card "wikilink") PQI提出的一种TF-SD卡套的无线方案
+  - [MAXELL AirStash](https://zh.wikipedia.org/wiki/MAXELL_AirStash "wikilink") MAXELL提出的外置式SD卡分享方案
 
 ## 参考与引用
 
 ## 外部链接
 
-  - [东芝
-    FlashAir介绍页面](https://web.archive.org/web/20140102194140/http://www.toshiba-sdcard.com.cn/flashair/)
+  - [东芝 FlashAir介绍页面](https://web.archive.org/web/20140102194140/http://www.toshiba-sdcard.com.cn/flashair/)
   - [支持设备一览表](https://web.archive.org/web/20140102195931/http://www.toshiba-sdcard.com.cn/compati/flashair_list.htm)
 
 [Category:記憶卡](https://zh.wikipedia.org/wiki/Category:記憶卡 "wikilink")
 
-1.  {{ cite web| url =
-    <http://www.toshiba.co.jp/about/press/2013_07/pr_j0402.htm> | title
-    = 無線LAN通信機能を搭載したSDHCメモリカード「FlashAir™」 | publisher = TOSHIBA | date =
-    2013年7月4日 }}
-2.  {{ cite web | url =
-    <http://www.toshiba-sdcard.com.cn/flashair/passthru.htm> | title =
-    如何使用互联网直通模式 | publisher = TOSHIBA | date = | access-date =
-    2014-01-10 | archive-url =
-    <https://web.archive.org/web/20140110090001/http://www.toshiba-sdcard.com.cn/flashair/passthru.htm>
-    | archive-date = 2014-01-10 | dead-url = yes }}
+1.  {{ cite web| url = <http://www.toshiba.co.jp/about/press/2013_07/pr_j0402.htm> | title = 無線LAN通信機能を搭載したSDHCメモリカード「FlashAir™」 | publisher = TOSHIBA | date = 2013年7月4日 }}
+2.  {{ cite web | url = <http://www.toshiba-sdcard.com.cn/flashair/passthru.htm> | title = 如何使用互联网直通模式 | publisher = TOSHIBA | date = | access-date = 2014-01-10 | archive-url = <https://web.archive.org/web/20140110090001/http://www.toshiba-sdcard.com.cn/flashair/passthru.htm> | archive-date = 2014-01-10 | dead-url = yes }}

@@ -59,12 +59,4 @@
 
   - [在战网上的官方网站](http://classic.battle.net/diablo2exp/)
 
-[Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink")
-[Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink")
-[Category:暗黑破坏神系列电子游戏](https://zh.wikipedia.org/wiki/Category:暗黑破坏神系列电子游戏 "wikilink")
-[Category:等距視角遊戲](https://zh.wikipedia.org/wiki/Category:等距視角遊戲 "wikilink")
+[Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink") [Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink") [Category:暗黑破坏神系列电子游戏](https://zh.wikipedia.org/wiki/Category:暗黑破坏神系列电子游戏 "wikilink") [Category:等距視角遊戲](https://zh.wikipedia.org/wiki/Category:等距視角遊戲 "wikilink")

@@ -15,8 +15,6 @@ EGR-4是一种[锌指结构](https://zh.wikipedia.org/wiki/锌指 "wikilink")[�
   -
   -
   -
-[Category:分子神经学](https://zh.wikipedia.org/wiki/Category:分子神经学 "wikilink")
-[Category:转录因子](https://zh.wikipedia.org/wiki/Category:转录因子 "wikilink")
-[Category:锌蛋白质](https://zh.wikipedia.org/wiki/Category:锌蛋白质 "wikilink")
+[Category:分子神经学](https://zh.wikipedia.org/wiki/Category:分子神经学 "wikilink") [Category:转录因子](https://zh.wikipedia.org/wiki/Category:转录因子 "wikilink") [Category:锌蛋白质](https://zh.wikipedia.org/wiki/Category:锌蛋白质 "wikilink")
 
 1.

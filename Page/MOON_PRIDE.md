@@ -1,7 +1,4 @@
-《**MOON
-PRIDE**》是[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")的第12張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2014年7月30日由[Evil
-Line
-Records發售](https://zh.wikipedia.org/wiki/Evil_Line_Records "wikilink")。
+《**MOON PRIDE**》是[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")的第12張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2014年7月30日由[Evil Line Records發售](https://zh.wikipedia.org/wiki/Evil_Line_Records "wikilink")。
 
 ## 概要
 
@@ -40,8 +37,6 @@ Records發售](https://zh.wikipedia.org/wiki/Evil_Line_Records "wikilink")。
 
   - [官方介紹頁面](http://www.momoclo.net/discography/single20.html)
 
-[Category:桃色幸運草Z歌曲](https://zh.wikipedia.org/wiki/Category:桃色幸運草Z歌曲 "wikilink")
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
+[Category:桃色幸運草Z歌曲](https://zh.wikipedia.org/wiki/Category:桃色幸運草Z歌曲 "wikilink") [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
 
-1.  [ももクロ、新作『セーラームーン』OP主題歌「MOON
-    PRIDE」が一部解禁](http://www.rbbtoday.com/article/2014/06/06/120565.html)
+1.  [ももクロ、新作『セーラームーン』OP主題歌「MOON PRIDE」が一部解禁](http://www.rbbtoday.com/article/2014/06/06/120565.html)

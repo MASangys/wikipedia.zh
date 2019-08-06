@@ -44,8 +44,7 @@
 
 ### 磁盘上布局
 
-F2FS将整个卷分成多个段（segment），每个段固定为2
-MB。一个节（section）由连续的段组成，一个区（zone）由一组节组成。默认情况下，节与区被设置为相同的大小，但用户可以用`mkfs`轻松修改大小。
+F2FS将整个卷分成多个段（segment），每个段固定为2 MB。一个节（section）由连续的段组成，一个区（zone）由一组节组成。默认情况下，节与区被设置为相同的大小，但用户可以用`mkfs`轻松修改大小。
 
 F2FS将整个卷划分为六个区域，除了超级块（superblock）以外的所有区都由多个段组成，如下所述。
 
@@ -70,9 +69,7 @@ F2FS使用检查点方案来维护文件系统的完整性。在挂载时，F2FS
 
 ### 索引结构
 
-关键的数据结构是“节点”。与传统的文件结构类似，F2FS有三种类型的节点：inode，直接节点，间接节点。F2FS将4
-KB分配给一个inode块，其中包含923个数据块索引（data block
-indices），两个直接节点指针，两个间接节点指针，以及一个double间接节点指针，如下所述。一个直接节点块包含1018个数据块索引，而间接节点块包含1018个节点块索引。因此，一个inode块（即一个文件）涵盖：
+关键的数据结构是“节点”。与传统的文件结构类似，F2FS有三种类型的节点：inode，直接节点，间接节点。F2FS将4 KB分配给一个inode块，其中包含923个数据块索引（data block indices），两个直接节点指针，两个间接节点指针，以及一个double间接节点指针，如下所述。一个直接节点块包含1018个数据块索引，而间接节点块包含1018个节点块索引。因此，一个inode块（即一个文件）涵盖：
 
 `4 KB × (923 + 2×1018 + 2×1018`<sup>`2`</sup>` + 1018`<sup>`3`</sup>`) = 3.94 TB`
 
@@ -112,8 +109,7 @@ F2FS为目录结构实现了多级散列表，每一级有一个包含专用散�
         ...
     level #N    A(4B) - A(4B) - A(4B) - A(4B) - A(4B) - ... - A(4B)
 
-当F2FS在一个目录中找一个文件名时，首先计算出该文件名的散列值，然后F2FS扫描级别\#0的散列表一查找由文件名及其inode编号组成的目录条目。如果未找到，F2FS继续查找级别\#1的散列表。F2FS通过此方法逐级扫描由1至N的每层散列表。在每一层中，F2FS只需扫描由以下等式确定的一个桶（bucket），因此展现出
-O(log(\# of files)) 的复杂度。
+当F2FS在一个目录中找一个文件名时，首先计算出该文件名的散列值，然后F2FS扫描级别\#0的散列表一查找由文件名及其inode编号组成的目录条目。如果未找到，F2FS继续查找级别\#1的散列表。F2FS通过此方法逐级扫描由1至N的每层散列表。在每一层中，F2FS只需扫描由以下等式确定的一个桶（bucket），因此展现出 O(log(\# of files)) 的复杂度。
 
 ` 级别#n中要扫描的桶（bucket）数 = (散列值) % (级别#n中的桶数)`
 
@@ -133,11 +129,9 @@ O(log(\# of files)) 的复杂度。
 
 块分配策略
 
-基于日志的文件系统（LFS）有两种空闲空间管理方案：穿插记录（threaded
-log）与复制并压缩（copy-and-compaction）。后者也称为清理（cleaning），很适合有良好顺序写入性能的设备，因为空闲空间总用于写入新数据。但它会在发生高利用率时遭遇“清理”的开销。穿插记录则受到随机写入性能的影响，但没有“清理”过程。F2FS采用混合方案，默认采用“复制并压缩”，但根据文件系统的状态将策略动态变更为“穿插记录”方案。
+基于日志的文件系统（LFS）有两种空闲空间管理方案：穿插记录（threaded log）与复制并压缩（copy-and-compaction）。后者也称为清理（cleaning），很适合有良好顺序写入性能的设备，因为空闲空间总用于写入新数据。但它会在发生高利用率时遭遇“清理”的开销。穿插记录则受到随机写入性能的影响，但没有“清理”过程。F2FS采用混合方案，默认采用“复制并压缩”，但根据文件系统的状态将策略动态变更为“穿插记录”方案。
 
-为使F2FS与基于闪存的存储保持一致，F2FS以一个节（section）为单位分配一个段（segment）。F2FS预期节的大小与FTL中的垃圾收集单元大小相同。为考虑FTL中的映射粒度，F2FS将活动日志的每个节分配给尽可能多的不同区域。
-FTL可以根据其映射粒度将活动日志数据写入一个分配单元。
+为使F2FS与基于闪存的存储保持一致，F2FS以一个节（section）为单位分配一个段（segment）。F2FS预期节的大小与FTL中的垃圾收集单元大小相同。为考虑FTL中的映射粒度，F2FS将活动日志的每个节分配给尽可能多的不同区域。 FTL可以根据其映射粒度将活动日志数据写入一个分配单元。
 
 ### 清理流程
 
@@ -158,12 +152,9 @@ F2FS支持两种受者选择策略：贪婪、成本效益算法。在贪婪算�
 
   - [F2FS文档于kernel.org](https://www.kernel.org/doc/Documentation/filesystems/f2fs.txt)
 
-[Category:快閃記憶體檔案系統](https://zh.wikipedia.org/wiki/Category:快閃記憶體檔案系統 "wikilink")
-[Category:嵌入式Linux](https://zh.wikipedia.org/wiki/Category:嵌入式Linux "wikilink")
-[Category:Linux檔案系統](https://zh.wikipedia.org/wiki/Category:Linux檔案系統 "wikilink")
+[Category:快閃記憶體檔案系統](https://zh.wikipedia.org/wiki/Category:快閃記憶體檔案系統 "wikilink") [Category:嵌入式Linux](https://zh.wikipedia.org/wiki/Category:嵌入式Linux "wikilink") [Category:Linux檔案系統](https://zh.wikipedia.org/wiki/Category:Linux檔案系統 "wikilink")
 
-1.  [f2fs: introduce flash-friendly file
-    system](https://lwn.net/Articles/518718/) by Kim Jaegeuk
+1.  [f2fs: introduce flash-friendly file system](https://lwn.net/Articles/518718/) by Kim Jaegeuk
 2.
 3.
 4.

@@ -1,22 +1,16 @@
-**汉克尔变换**是指对任何给定函数 \(f(r)\) 以第一类[贝塞尔函数](../Page/贝塞尔函数.md "wikilink")
-\(J_{\nu}(kr)\) 作无穷级数展开，贝塞尔函数 \(J_{\nu}(kr)\) 的阶数不变，级数各项 \(k\) 作变化。各项
-\(J_{\nu}(kr)\) 前系数 \(F_{\nu}\) 构成了变换函数。对于函数 \(f(r)\), 其 \(\nu\)
-阶贝塞尔函数的汉克尔变换（\(k\) 为自变量）为
+**汉克尔变换**是指对任何给定函数 \(f(r)\) 以第一类[贝塞尔函数](../Page/贝塞尔函数.md "wikilink") \(J_{\nu}(kr)\) 作无穷级数展开，贝塞尔函数 \(J_{\nu}(kr)\) 的阶数不变，级数各项 \(k\) 作变化。各项 \(J_{\nu}(kr)\) 前系数 \(F_{\nu}\) 构成了变换函数。对于函数 \(f(r)\), 其 \(\nu\) 阶贝塞尔函数的汉克尔变换（\(k\) 为自变量）为
 
 \[F_{\nu}(k)=\int_{0}^{\infty}f(r)J_{\nu}(kr)rdr\]
 
-其中，\(J_{\nu}\) 为阶数为 \(\nu\) 的第一类贝塞尔函数，\(\nu\ge-1/2\)。对应的，逆汉克尔变换
-\(F_{\nu}(k)\) 定义为
+其中，\(J_{\nu}\) 为阶数为 \(\nu\) 的第一类贝塞尔函数，\(\nu\ge-1/2\)。对应的，逆汉克尔变换 \(F_{\nu}(k)\) 定义为
 
 \[f(r)=\int_{0}^{\infty}F_{\nu}(k)J_{\nu}(kr)kdk\]
 
-汉克尔变换是一种[积分变换](../Page/积分变换.md "wikilink")，最早由德国数学家 Hermann Hankel
-提出，又被称为傅立叶-贝塞尔变换。
+汉克尔变换是一种[积分变换](../Page/积分变换.md "wikilink")，最早由德国数学家 Hermann Hankel 提出，又被称为傅立叶-贝塞尔变换。
 
 ## 正交性
 
-贝塞尔函数构成 [正交函数族](https://zh.wikipedia.org/wiki/正交函数族 "wikilink") 权重因子为
-*r*:
+贝塞尔函数构成 [正交函数族](https://zh.wikipedia.org/wiki/正交函数族 "wikilink") 权重因子为 *r*:
 
 \[\int_0^\infty J_\nu(kr)J_\nu(k'r)r~\operatorname{d}r = \frac{\delta (k-k')}{k}\]
 
@@ -26,21 +20,17 @@
 
 ### 傅立叶变换
 
-零阶汉克尔函数即为圆对称函数的二维傅立叶变换。给定二维函数 \(F(\boldsymbol{r})\) ，径向矢量为
-\(\boldsymbol{r}\)，其傅立叶变换为
+零阶汉克尔函数即为圆对称函数的二维傅立叶变换。给定二维函数 \(F(\boldsymbol{r})\) ，径向矢量为 \(\boldsymbol{r}\)，其傅立叶变换为
 
 \[F(\boldsymbol{k})=\iint f(\boldsymbol{r})e^{i\boldsymbol{k}\cdot\boldsymbol{r}}d\boldsymbol{r}\]
 
-不失一般性，选择极坐标 \((r,\theta)\) ，使得矢量 \(\boldsymbol{k}\) 方向指向 \(\theta=0\)
-。极坐标下的傅立叶变换写作
+不失一般性，选择极坐标 \((r,\theta)\) ，使得矢量 \(\boldsymbol{k}\) 方向指向 \(\theta=0\) 。极坐标下的傅立叶变换写作
 
 \[F(\boldsymbol{k})=\int_{0}^{\infty}\int_{0}^{2\pi}f(r,\theta)e^{ikr\cos\theta}rdrd\theta\]
 
-其中 \(\theta\) 为矢量 \(\boldsymbol{k}\) 与 \(\boldsymbol{r}\) 间夹角。如果函数 \(f\)
-恰为圆对称不依赖角变量 \(\theta\) ，\(f\equiv f(r)\) ，对角度 \(\theta\) 的积分可以提出，傅立叶变换写作
+其中 \(\theta\) 为矢量 \(\boldsymbol{k}\) 与 \(\boldsymbol{r}\) 间夹角。如果函数 \(f\) 恰为圆对称不依赖角变量 \(\theta\) ，\(f\equiv f(r)\) ，对角度 \(\theta\) 的积分可以提出，傅立叶变换写作
 
-\[F(\boldsymbol{k})=F(k)=2\pi\int_{0}^{\infty}f(r)J_{0}(kr)rdr\] 此式恰为
-\(f(r)\) 的零阶汉克尔变换的 \(2\pi\) 倍。
+\[F(\boldsymbol{k})=F(k)=2\pi\int_{0}^{\infty}f(r)J_{0}(kr)rdr\] 此式恰为 \(f(r)\) 的零阶汉克尔变换的 \(2\pi\) 倍。
 
 ## 常见汉克尔变换函数对
 

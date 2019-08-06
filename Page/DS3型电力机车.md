@@ -7,13 +7,8 @@
 
 ## 外部链接
 
-  - [DEVZ: ДСЗ -TYPE A.C. UNIVERSAL ELECTRIC
-    LOCOMOTIVE](https://web.archive.org/web/20070627091853/http://devs.dp.ua/elektrovoz_eng.htm)
+  - [DEVZ: ДСЗ -TYPE A.C. UNIVERSAL ELECTRIC LOCOMOTIVE](https://web.archive.org/web/20070627091853/http://devs.dp.ua/elektrovoz_eng.htm)
 
-  - [Siemens: Electric locomotive reference
-    list](https://web.archive.org/web/20120722103547/http://www.mobility.siemens.com/en/data/pdf/ts_lm/ref_el_us_72_aktuell.pdf)
+  - [Siemens: Electric locomotive reference list](https://web.archive.org/web/20120722103547/http://www.mobility.siemens.com/en/data/pdf/ts_lm/ref_el_us_72_aktuell.pdf)
 
-[Category:乌克兰电力机车](https://zh.wikipedia.org/wiki/Category:乌克兰电力机车 "wikilink")
-[Category:Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo軸式機車 "wikilink")
-[Category:25千伏50赫兹交流电力机车](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力机车 "wikilink")
-[Category:2003年面世的鐵路機車](https://zh.wikipedia.org/wiki/Category:2003年面世的鐵路機車 "wikilink")
+[Category:乌克兰电力机车](https://zh.wikipedia.org/wiki/Category:乌克兰电力机车 "wikilink") [Category:Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo軸式機車 "wikilink") [Category:25千伏50赫兹交流电力机车](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力机车 "wikilink") [Category:2003年面世的鐵路機車](https://zh.wikipedia.org/wiki/Category:2003年面世的鐵路機車 "wikilink")

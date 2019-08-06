@@ -7,6 +7,4 @@
   - CD版
   - 錄音帶版
 
-[Category:李樂詩音樂專輯](https://zh.wikipedia.org/wiki/Category:李樂詩音樂專輯 "wikilink")
-[Category:1993年音樂專輯](https://zh.wikipedia.org/wiki/Category:1993年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:李樂詩音樂專輯](https://zh.wikipedia.org/wiki/Category:李樂詩音樂專輯 "wikilink") [Category:1993年音樂專輯](https://zh.wikipedia.org/wiki/Category:1993年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

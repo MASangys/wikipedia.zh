@@ -1,5 +1,4 @@
-**三菱扶桑MK**（Mitsubishi Fuso
-MK）系列，是一款由[日本](../Page/日本.md "wikilink")[三菱扶桑卡客車設計生產的後置引擎單層巴士](https://zh.wikipedia.org/wiki/三菱扶桑卡客車 "wikilink")，本車系的發展源於1960年代的MR620型巴士，其後有多款改良型推出，當中MK117型在1988年1月推出，而MK217型則於1993年推出，本車系在日本獲大量採用，但日本以外則較不常見，而香港是少數曾經大量引進本車型的地區。
+**三菱扶桑MK**（Mitsubishi Fuso MK）系列，是一款由[日本](../Page/日本.md "wikilink")[三菱扶桑卡客車設計生產的後置引擎單層巴士](https://zh.wikipedia.org/wiki/三菱扶桑卡客車 "wikilink")，本車系的發展源於1960年代的MR620型巴士，其後有多款改良型推出，當中MK117型在1988年1月推出，而MK217型則於1993年推出，本車系在日本獲大量採用，但日本以外則較不常見，而香港是少數曾經大量引進本車型的地區。
 
 [KMBRoute053.jpg](https://zh.wikipedia.org/wiki/File:KMBRoute053.jpg "fig:KMBRoute053.jpg")
 
@@ -19,8 +18,7 @@ MK）系列，是一款由[日本](../Page/日本.md "wikilink")[三菱扶桑卡
 
 早期三菱MK巴士由三菱扶桑的香港總代理[環宇汽車負責保修](https://zh.wikipedia.org/wiki/環宇汽車 "wikilink")，保修期10年。隨著最後一批巴士的保修期於2005年（1995年出牌的MK217J）屆滿，九巴須自行維修三菱MK巴士。由於車系停產而另訂零件來港成本昂貴，九巴對這批巴士亦開始沒有用心維修，一旦嚴重撞毀九巴便會不作修復而直接退役，車內零件就會留待供其他同類車輛代換，在這個趨勢之下，本車型將會自然消失而全面退役。但自2010年起，因部分路線有用車限制的原因（例如53及276的屏廈路，無法採用長身的巴士，只能採用三菱MK117/217巴士行駛），最後十幾部17年車齡的MK117J成為續命車繼續服務至2011年。
 
-從2003年開始，九巴陸續淘汰三菱MK巴士，隨著九巴的[亞歷山大丹尼士Enviro 200
-Dart單層巴士](../Page/亞歷山大丹尼士Enviro_200_Dart.md "wikilink")（AAU）於2011年陸續投入服務，最後4部三菱MK217型巴士（AM176、AM177、AM181及AM182）已於2012年3月19日全數退役，象徵所有三菱MK單層空調巴士已經全數退出載客行列，而日本製造的巴士在香港專利巴士中亦只餘下新大嶼山巴士仍然使用。
+從2003年開始，九巴陸續淘汰三菱MK巴士，隨著九巴的[亞歷山大丹尼士Enviro 200 Dart單層巴士](../Page/亞歷山大丹尼士Enviro_200_Dart.md "wikilink")（AAU）於2011年陸續投入服務，最後4部三菱MK217型巴士（AM176、AM177、AM181及AM182）已於2012年3月19日全數退役，象徵所有三菱MK單層空調巴士已經全數退出載客行列，而日本製造的巴士在香港專利巴士中亦只餘下新大嶼山巴士仍然使用。
 
 ### 九鐵巴士／港鐵巴士
 
@@ -30,9 +28,7 @@ Dart單層巴士](../Page/亞歷山大丹尼士Enviro_200_Dart.md "wikilink")（
 
 及後，往返九鐵大埔滘職員宿舍（策誠軒）及大埔墟火車站的50R線（已於2005年年底交由私人營辦商接辦）或K14線也出現三菱MK巴士的蹤影。另外，九鐵巴士部亦曾經為火炭駿景廣場提供穿梭巴士服務，用車為2輛三菱MK117J中型巴士，而且更被鬆上駿景廣場全車身廣告。
 
-隨著西鐵通車所帶來巴士路線網絡轉變，三菱巴士在九鐵巴士部中扮演之角色又有所改變，三菱巴士不用再只投放在龍鼓灘路線，因而擔當支援的角色，並活躍於屯門及天水圍西鐵接駁路線如[K53](../Page/港鐵巴士K53綫.md "wikilink")、[K75及](../Page/港鐵巴士K75綫.md "wikilink")[A73等路線](../Page/港鐵巴士A73綫.md "wikilink")，而唯一不變是，在長達18年服務年期間，車頭一直保留著完好的三菱車廠廠徽。隨著這款車型年事漸高，九鐵於2007年初訂購11部[亞歷山大丹尼士Enviro
-200 Dart](../Page/亞歷山大丹尼士Enviro_200_Dart.md "wikilink")
-11.3米巴士，並因政府對全港非專利巴士實施的數目限制而與本車型以「一換一」的方式悉數更替。
+隨著西鐵通車所帶來巴士路線網絡轉變，三菱巴士在九鐵巴士部中扮演之角色又有所改變，三菱巴士不用再只投放在龍鼓灘路線，因而擔當支援的角色，並活躍於屯門及天水圍西鐵接駁路線如[K53](../Page/港鐵巴士K53綫.md "wikilink")、[K75及](../Page/港鐵巴士K75綫.md "wikilink")[A73等路線](../Page/港鐵巴士A73綫.md "wikilink")，而唯一不變是，在長達18年服務年期間，車頭一直保留著完好的三菱車廠廠徽。隨著這款車型年事漸高，九鐵於2007年初訂購11部[亞歷山大丹尼士Enviro 200 Dart](../Page/亞歷山大丹尼士Enviro_200_Dart.md "wikilink") 11.3米巴士，並因政府對全港非專利巴士實施的數目限制而與本車型以「一換一」的方式悉數更替。
 
 隨著九鐵與地鐵於2007年12月2日合併成港鐵，所有九鐵巴士部巴士包括全數三菱中型巴士由當天開始轉由港鐵巴士部營運。2008年8月，307及311率先退役，而本車型最後一輛三菱MK中型巴士309於2009年3月初退役，標誌著這款日本製造巴士從港鐵車隊中退下來，與全新一批的單層空調巴士完成交接。
 
@@ -44,18 +40,14 @@ Dart單層巴士](../Page/亞歷山大丹尼士Enviro_200_Dart.md "wikilink")（
 
 <references/>
 
-  - [i-busnet：九巴 -
-    三菱(MK117/217)](http://i-busnet.com/photo/fleet/fleetdescription.php?UseOfPicture=KMBAM)
-  - [i-busnet：港鐵巴士 - 三菱
-    MK117J](http://i-busnet.com/photo/fleet/fleetdescription.php?UseOfPicture=MTR03)
+  - [i-busnet：九巴 - 三菱(MK117/217)](http://i-busnet.com/photo/fleet/fleetdescription.php?UseOfPicture=KMBAM)
+  - [i-busnet：港鐵巴士 - 三菱 MK117J](http://i-busnet.com/photo/fleet/fleetdescription.php?UseOfPicture=MTR03)
   - [短車檔案室：九巴三菱MK](http://www.qbusfile.com/am/am.htm)
   - [短車檔案室：港鐵巴士三菱MK117J](http://www.qbusfile.com/kcr/3xx/3xx.htm)
   - [香港巴士及鐵路資料中心：九巴三菱MK](http://hkbric.hkbdc.info/bic/intro/kmb-am.htm)
   - [香港巴士及鐵路資料中心：港鐵巴士三菱MK117J](http://hkbric.hkbdc.info/bic/intro/kcr-3xx.htm)
   - [再見：九巴三菱巴士](http://gobusworld.blogspot.com/2012/03/mk.html)
 
-[Category:三菱扶桑車輛](https://zh.wikipedia.org/wiki/Category:三菱扶桑車輛 "wikilink")
-[Category:巴士型號](https://zh.wikipedia.org/wiki/Category:巴士型號 "wikilink")
-[Category:香港單層巴士](https://zh.wikipedia.org/wiki/Category:香港單層巴士 "wikilink")
+[Category:三菱扶桑車輛](https://zh.wikipedia.org/wiki/Category:三菱扶桑車輛 "wikilink") [Category:巴士型號](https://zh.wikipedia.org/wiki/Category:巴士型號 "wikilink") [Category:香港單層巴士](https://zh.wikipedia.org/wiki/Category:香港單層巴士 "wikilink")
 
 1.  這款車乃換取於1995年撞毀的AM64。

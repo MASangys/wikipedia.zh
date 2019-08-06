@@ -1,5 +1,4 @@
-**pip**是一個以[Python](../Page/Python.md "wikilink")[電腦程式語言寫成的](https://zh.wikipedia.org/wiki/電腦程式語言 "wikilink")[軟件包管理系統](https://zh.wikipedia.org/wiki/軟件包管理系統 "wikilink")，他可以安裝和管理[軟件包](https://zh.wikipedia.org/wiki/軟件包 "wikilink")，另外不少的軟件包也可以在「Python軟件包索引」（英語：Python
-Package Index，簡稱PyPI）中找到。\[1\]
+**pip**是一個以[Python](../Page/Python.md "wikilink")[電腦程式語言寫成的](https://zh.wikipedia.org/wiki/電腦程式語言 "wikilink")[軟件包管理系統](https://zh.wikipedia.org/wiki/軟件包管理系統 "wikilink")，他可以安裝和管理[軟件包](https://zh.wikipedia.org/wiki/軟件包 "wikilink")，另外不少的軟件包也可以在「Python軟件包索引」（英語：Python Package Index，簡稱PyPI）中找到。\[1\]
 
 ## 命令列介面
 
@@ -28,8 +27,7 @@ pip也擁有一個透過「需求」檔案來管理軟件包和其相應版本�
 
 ## 參考資料
 
-[Category:軟件包管理系統](https://zh.wikipedia.org/wiki/Category:軟件包管理系統 "wikilink")
-[Category:Python軟件](https://zh.wikipedia.org/wiki/Category:Python軟件 "wikilink")
+[Category:軟件包管理系統](https://zh.wikipedia.org/wiki/Category:軟件包管理系統 "wikilink") [Category:Python軟件](https://zh.wikipedia.org/wiki/Category:Python軟件 "wikilink")
 
 1.
 

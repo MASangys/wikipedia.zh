@@ -1,5 +1,4 @@
-『**高垣彩陽第一次巡迴演唱「Memoria×Melodia」**』（高垣彩陽ファーストコンサートツアー「Memoria×Melodia」）是[高垣彩陽](../Page/高垣彩陽.md "wikilink")的Live影像作品。2012年6月13日由[Music
-Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
+『**高垣彩陽第一次巡迴演唱「Memoria×Melodia」**』（高垣彩陽ファーストコンサートツアー「Memoria×Melodia」）是[高垣彩陽](../Page/高垣彩陽.md "wikilink")的Live影像作品。2012年6月13日由[Music Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
 
 ## 收錄内容
 
@@ -30,10 +29,7 @@ Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
 ## 外部連結
 
   - Sony Music介紹網頁
-      - [Blu-ray
-        Disc](http://www.sonymusic.co.jp/Music/Arch/MR/ayahitakagaki/SMXL-3)
+      - [Blu-ray Disc](http://www.sonymusic.co.jp/Music/Arch/MR/ayahitakagaki/SMXL-3)
       - [DVD](http://www.sonymusic.co.jp/Music/Arch/MR/ayahitakagaki/SMBL-104)
 
-[Category:高垣彩陽](https://zh.wikipedia.org/wiki/Category:高垣彩陽 "wikilink")
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
-[Category:2012年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2012年音樂相關影像作品 "wikilink")
+[Category:高垣彩陽](https://zh.wikipedia.org/wiki/Category:高垣彩陽 "wikilink") [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink") [Category:2012年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2012年音樂相關影像作品 "wikilink")

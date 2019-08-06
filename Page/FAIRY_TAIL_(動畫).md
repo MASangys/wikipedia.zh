@@ -1,12 +1,10 @@
-《**FAIRY
-TAIL**》是改編自日本漫畫家[真島浩](../Page/真島浩.md "wikilink")[同名漫畫的](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink")[電視動畫及其衍生的](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[劇場版動畫和](https://zh.wikipedia.org/wiki/劇場版動畫 "wikilink")[OAD](../Page/原創動畫錄影帶.md "wikilink")。
+《**FAIRY TAIL**》是改編自日本漫畫家[真島浩](../Page/真島浩.md "wikilink")[同名漫畫的](https://zh.wikipedia.org/wiki/FAIRY_TAIL "wikilink")[電視動畫及其衍生的](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[劇場版動畫和](https://zh.wikipedia.org/wiki/劇場版動畫 "wikilink")[OAD](../Page/原創動畫錄影帶.md "wikilink")。
 
 ## 電視動畫
 
 電視動畫於2009年10月12日\[1\]至2013年3月30日\[2\]在[東京電視台](../Page/東京電視台.md "wikilink")[聯播網播出](../Page/東京電視網.md "wikilink")；並於同年11月1日起逢星期日重播。
 
-由於動畫在演到天狼島篇結束時（第124話），劇情進度已經與原作相當接近。所以首度製作了為期半年左右的長篇動畫原創篇章－星空之鑰篇。但之後進入的大魔鬥演武篇依舊快速追上連載進度。於是不得已在2013年3月30日，第175話（進展到原作第297話）播出後宣告動畫暫時完結。並於2013年4月4日起，逢星期四下午5:30播出名為「-{FAIRY
-TAIL}- BEST\!」的精選重播。\[3\]
+由於動畫在演到天狼島篇結束時（第124話），劇情進度已經與原作相當接近。所以首度製作了為期半年左右的長篇動畫原創篇章－星空之鑰篇。但之後進入的大魔鬥演武篇依舊快速追上連載進度。於是不得已在2013年3月30日，第175話（進展到原作第297話）播出後宣告動畫暫時完結。並於2013年4月4日起，逢星期四下午5:30播出名為「-{FAIRY TAIL}- BEST\!」的精選重播。\[3\]
 
 在經過一年的停播後，些微工作人員異動，人物造型設計更加貼近原作畫風的第二期動畫（第176話開始）於2014年4月5日起再度於星期六同一時段播出。
 
@@ -16,8 +14,7 @@ TAIL}- BEST\!」的精選重播。\[3\]
 
 [台灣於](https://zh.wikipedia.org/wiki/台灣 "wikilink")2010年4月18日起以《**魔導少年**》為名在[台視播出](../Page/臺灣電視台.md "wikilink")（中日雙語），並由藝人[蔡黃汝](../Page/蔡黃汝.md "wikilink")（豆花妹）擔任代言人；[Animax](../Page/Animax.md "wikilink")亦自2011年3月16日每星期一至五以[國語配音播出](https://zh.wikipedia.org/wiki/華語 "wikilink")。第二季則於2015年8月15日起以《**魔導少年第二季**》為名播出。
 
-[香港](../Page/香港.md "wikilink")於2010年9月30日起在Animax播出（粵日雙語）。而免費電視台方面，以《**FAIRY
-TAIL魔導少年**》為名，48話分別於2011年7月14日在[J2](../Page/J2.md "wikilink")首播及於2012年2月26日在[翡翠台](../Page/翡翠台.md "wikilink")重播（粵日雙語），而第48話後，則安排於[翡翠台](../Page/翡翠台.md "wikilink")首播，而翡翠台亦有沿用原先集數於[J2](../Page/J2.md "wikilink")台足本播放的做法；但由於兩集連播關係，前集的片尾曲及預告則被電視台刪減。而在第101話起，無綫電視於官方網站[myTV上載粵語配音版本供香港觀眾於](https://zh.wikipedia.org/wiki/myTV "wikilink")14天內重溫。而到151話起[翡翠台](../Page/翡翠台.md "wikilink")改為只播一集，但再到166話起又改為兩集連播，但再到201集起又改為只播一集，不過前集的片尾曲及預告並沒有被電視台刪減。
+[香港](../Page/香港.md "wikilink")於2010年9月30日起在Animax播出（粵日雙語）。而免費電視台方面，以《**FAIRY TAIL魔導少年**》為名，48話分別於2011年7月14日在[J2](../Page/J2.md "wikilink")首播及於2012年2月26日在[翡翠台](../Page/翡翠台.md "wikilink")重播（粵日雙語），而第48話後，則安排於[翡翠台](../Page/翡翠台.md "wikilink")首播，而翡翠台亦有沿用原先集數於[J2](../Page/J2.md "wikilink")台足本播放的做法；但由於兩集連播關係，前集的片尾曲及預告則被電視台刪減。而在第101話起，無綫電視於官方網站[myTV上載粵語配音版本供香港觀眾於](https://zh.wikipedia.org/wiki/myTV "wikilink")14天內重溫。而到151話起[翡翠台](../Page/翡翠台.md "wikilink")改為只播一集，但再到166話起又改為兩集連播，但再到201集起又改為只播一集，不過前集的片尾曲及預告並沒有被電視台刪減。
 
 ### 登場人物
 
@@ -35,11 +32,8 @@ TAIL魔導少年**》為名，48話分別於2011年7月14日在[J2](../Page/J2.m
   - 音響監督：秦昌二
   - 音樂：[高梨康治](../Page/高梨康治.md "wikilink")
   - 製作人：紅谷佳和→吉野文（东京电视台）、落越友則、山西太平（第1話－第48話）→今井陽介（第49話－第175話）、武末治（一時期）
-  - 動畫製作：[A-1
-    Pictures](../Page/A-1_Pictures.md "wikilink")、[CloverWorks](../Page/CloverWorks.md "wikilink")（第3期）、[SATELIGHT](../Page/SATELIGHT.md "wikilink")（第1期）→[BRIDGE](https://zh.wikipedia.org/wiki/Bridge_\(公司\) "wikilink")（第2期）
-  - 製作：[TV
-    TOKYO](../Page/東京電視台.md "wikilink")、[dentsu](https://zh.wikipedia.org/wiki/電通 "wikilink")、[A-1
-    Pictures](../Page/A-1_Pictures.md "wikilink")（第1-277话）、[CloverWorks](../Page/CloverWorks.md "wikilink")（第278话-）
+  - 動畫製作：[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")、[CloverWorks](../Page/CloverWorks.md "wikilink")（第3期）、[SATELIGHT](../Page/SATELIGHT.md "wikilink")（第1期）→[BRIDGE](https://zh.wikipedia.org/wiki/Bridge_\(公司\) "wikilink")（第2期）
+  - 製作：[TV TOKYO](../Page/東京電視台.md "wikilink")、[dentsu](https://zh.wikipedia.org/wiki/電通 "wikilink")、[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")（第1-277话）、[CloverWorks](../Page/CloverWorks.md "wikilink")（第278话-）
 
 ### 主題曲
 
@@ -628,7 +622,7 @@ Caroline Gustavsson</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/みゆな" title="wikilink">みゆな</a></p></td>
 </tr>
 <tr class="even">
-<td><p>26</p></td>
+<td><p>27</p></td>
 <td><p><strong>Exceed</strong></p></td>
 <td><p>第316－話</p></td>
 <td></td>
@@ -3730,6 +3724,16 @@ Kim Ki Yeob</p></td>
 <td><p>319</p></td>
 <td></td>
 <td><p>情</p></td>
+<td><p>米村正二</p></td>
+<td><p>橋本直人</p></td>
+<td><p>服部憲知、K-PRO<br />
+金海淑</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>320</p></td>
+<td></td>
+<td><p>新月蝕計畫</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3927,8 +3931,7 @@ Kim Ki Yeob</p></td>
 
 ## OAD動畫
 
-隨日文單行本26、27、31、35、38、39、55、58、59卷\[7\]所併售的特裝版原創動畫\[8\]\[9\]\[10\]\[11\]\[12\]。收錄原作曾於Magazine
-SPECIAL漫畫雜誌刊登與自行構想的番外篇動畫。
+隨日文單行本26、27、31、35、38、39、55、58、59卷\[7\]所併售的特裝版原創動畫\[8\]\[9\]\[10\]\[11\]\[12\]。收錄原作曾於Magazine SPECIAL漫畫雜誌刊登與自行構想的番外篇動畫。
 
 ### 製作人員
 
@@ -4266,36 +4269,20 @@ SPECIAL漫畫雜誌刊登與自行構想的番外篇動畫。
 
   - [電視動畫「-{FAIRY TAIL}-」公式網頁](http://www.fairytail-tv.com/)
 
-  - [東京電視台「-{FAIRY
-    TAIL}-」動畫官方網站（第1期）](http://www.tv-tokyo.co.jp/anime/fairytail2013/)
+  - [東京電視台「-{FAIRY TAIL}-」動畫官方網站（第1期）](http://www.tv-tokyo.co.jp/anime/fairytail2013/)
 
-  - [東京電視台「-{FAIRY
-    TAIL}-」動畫官方網站（第2期）](http://www.tv-tokyo.co.jp/anime/fairytail/)
+  - [東京電視台「-{FAIRY TAIL}-」動畫官方網站（第2期）](http://www.tv-tokyo.co.jp/anime/fairytail/)
 
-  - [東京電視台「-{FAIRY TAIL
-    ZERO}-」動畫官方網站（第3期）](http://www.tv-tokyo.co.jp/anime/fairytail/)
+  - [東京電視台「-{FAIRY TAIL ZERO}-」動畫官方網站（第3期）](http://www.tv-tokyo.co.jp/anime/fairytail/)
 
   -
-[Category:FAIRY_TAIL](https://zh.wikipedia.org/wiki/Category:FAIRY_TAIL "wikilink")
-[Category:2009年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2009年東京電視網動畫 "wikilink")
-[Category:2011年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2011年日本OVA動畫 "wikilink")
-[Category:2012年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2012年日本劇場動畫 "wikilink")
-[Category:2014年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2014年東京電視網動畫 "wikilink")
-[Category:2017年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2017年日本劇場動畫 "wikilink")
-[Category:2018年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2018年東京電視網動畫 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink")
-[Category:A-1_Pictures](https://zh.wikipedia.org/wiki/Category:A-1_Pictures "wikilink")
+[Category:FAIRY_TAIL](https://zh.wikipedia.org/wiki/Category:FAIRY_TAIL "wikilink") [Category:2009年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2009年東京電視網動畫 "wikilink") [Category:2011年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2011年日本OVA動畫 "wikilink") [Category:2012年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2012年日本劇場動畫 "wikilink") [Category:2014年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2014年東京電視網動畫 "wikilink") [Category:2017年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2017年日本劇場動畫 "wikilink") [Category:2018年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2018年東京電視網動畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:SATELIGHT](https://zh.wikipedia.org/wiki/Category:SATELIGHT "wikilink") [Category:A-1_Pictures](https://zh.wikipedia.org/wiki/Category:A-1_Pictures "wikilink")
 
 1.
 2.
 3.
 4.  <http://fairytail-tv.com>
-5.  動畫官網公佈的正式片尾曲11為6/6於日本發行的「Glitter／神巫詞」專輯中的第10首《Glitter (Starving
-    Trancer Remix) feat.Another Infinity》，並非先前發行的「Glitter - Another
-    Infinity feat. Mayumi Morinaga」專輯中的任何一首
+5.  動畫官網公佈的正式片尾曲11為6/6於日本發行的「Glitter／神巫詞」專輯中的第10首《Glitter (Starving Trancer Remix) feat.Another Infinity》，並非先前發行的「Glitter - Another Infinity feat. Mayumi Morinaga」專輯中的任何一首
 6.
 7.  24卷是電視動畫總集編、36卷是電影「鳳凰的巫女」的DVD附屬。
 8.

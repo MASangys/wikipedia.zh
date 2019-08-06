@@ -11,8 +11,7 @@
 ### CD（初回生産限定盤，通常盤）
 
 1.  **Oh\!**
-    （作詞・作曲：Kim jung bae・Young H.Kim・Kenzie、日本語詞：Nozomi Maezawa &
-    agehasprings）
+    （作詞・作曲：Kim jung bae・Young H.Kim・Kenzie、日本語詞：Nozomi Maezawa & agehasprings）
 2.  **All My Love Is For You**
     （作詞・作曲：SEBASTIAN THOTT・DIDRIK THOTT・ROBIN LERNER・JUNJI ISHIWATARI）
 
@@ -22,8 +21,4 @@
 
 ## 参考文献
 
-[Category:少女時代歌曲](https://zh.wikipedia.org/wiki/Category:少女時代歌曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink")
-[Category:2012年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2012年Hot_Singles_Sales冠軍單曲 "wikilink")
+[Category:少女時代歌曲](https://zh.wikipedia.org/wiki/Category:少女時代歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink") [Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink") [Category:2012年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2012年Hot_Singles_Sales冠軍單曲 "wikilink")

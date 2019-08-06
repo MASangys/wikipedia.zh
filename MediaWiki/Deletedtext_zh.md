@@ -1,7 +1,6 @@
 <div class="plainlinks">
 
-“**$1**”已经被删除（[恢复删除](https://zh.wikipedia.org/wiki/Special:Undelete/$1 "wikilink")、\[
-白纸保护\]）。最近删除的记录请参见$2。 {{\#ifeq:|||{{\#ifexist:|
+“**$1**”已经被删除（[恢复删除](https://zh.wikipedia.org/wiki/Special:Undelete/$1 "wikilink")、\[ 白纸保护\]）。最近删除的记录请参见$2。 {{\#ifeq:|||{{\#ifexist:|
 
 </td>
 
@@ -19,19 +18,14 @@
 
 </h2>
 
-根据删除的原因，你可能要移除所有**[到本页的-{zh-hans:链;
-zh-hant:连;}-接](https://zh.wikipedia.org/wiki/Special:WhatLinksHere/$1 "wikilink")**（<span class="plainlinks">\[
-条目\]</span>）（<span class="plainlinks">\[ 重定向\]</span>）。
+根据删除的原因，你可能要移除所有**[到本页的-{zh-hans:链; zh-hant:连;}-接](https://zh.wikipedia.org/wiki/Special:WhatLinksHere/$1 "wikilink")**（<span class="plainlinks">\[ 条目\]</span>）（<span class="plainlinks">\[ 重定向\]</span>）。
 
 返回到：
 
   - \[ Category:快速删除候选\]
   - [最新页面](https://zh.wikipedia.org/wiki/Special:Newpages "wikilink")
-  - [最近更改](https://zh.wikipedia.org/wiki/Special:Recentchanges "wikilink")（\[
-    匿名\]）
-  - \[
-    当前提名\]的[页面存废讨论和](https://zh.wikipedia.org/wiki/Wikipedia:页面存废讨论 "wikilink")[-{zh-hans:文件;
-    zh-hant:档案;}-存废讨论](https://zh.wikipedia.org/wiki/Wikipedia:档案存废讨论 "wikilink")
+  - [最近更改](https://zh.wikipedia.org/wiki/Special:Recentchanges "wikilink")（\[ 匿名\]）
+  - \[ 当前提名\]的[页面存废讨论和](https://zh.wikipedia.org/wiki/Wikipedia:页面存废讨论 "wikilink")[-{zh-hans:文件; zh-hant:档案;}-存废讨论](https://zh.wikipedia.org/wiki/Wikipedia:档案存废讨论 "wikilink")
   - [当前的侵权条目](https://zh.wikipedia.org/wiki/Wikipedia:页面存废讨论/疑似侵权#当前的疑似侵权条目 "wikilink")
   - \[ Category:需要翻译的文章\]
 

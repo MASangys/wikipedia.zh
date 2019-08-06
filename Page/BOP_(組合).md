@@ -1,6 +1,4 @@
-**BOP**，2014年到2015年6月稱**天堂鳥**（），其後正式改名為《BOP》，是2014年3月於[香港](../Page/香港.md "wikilink")出道的唱跳[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，以勁歌熱舞為主打，由[創富文化集團](../Page/創富文化集團.md "wikilink")與香港著名排舞師Sunny
-Wong，籌備超過一年後安排出道，三位成員包括[葉灝基](https://zh.wikipedia.org/wiki/葉灝基 "wikilink")（Gordon）、[許俊豪](https://zh.wikipedia.org/wiki/許俊豪 "wikilink")（Lincoln）和
-[歐喬鋒](https://zh.wikipedia.org/wiki/歐喬鋒 "wikilink")（Tyrese）。其歌迷被稱為「鳥粉」。
+**BOP**，2014年到2015年6月稱**天堂鳥**（），其後正式改名為《BOP》，是2014年3月於[香港](../Page/香港.md "wikilink")出道的唱跳[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")，以勁歌熱舞為主打，由[創富文化集團](../Page/創富文化集團.md "wikilink")與香港著名排舞師Sunny Wong，籌備超過一年後安排出道，三位成員包括[葉灝基](https://zh.wikipedia.org/wiki/葉灝基 "wikilink")（Gordon）、[許俊豪](https://zh.wikipedia.org/wiki/許俊豪 "wikilink")（Lincoln）和 [歐喬鋒](https://zh.wikipedia.org/wiki/歐喬鋒 "wikilink")（Tyrese）。其歌迷被稱為「鳥粉」。
 
 2016年6月，BOP成員以拍攝不雅照片及分發利潤不均勻等行為控告兩間經理人公司未履行合約，要求解約\[1\]。
 
@@ -269,9 +267,7 @@ Wong，籌備超過一年後安排出道，三位成員包括[葉灝基](https:/
 
 ## 爭議
 
-《登陸太陽》副歌涉嫌抄襲日本[尊尼事務所旗下](https://zh.wikipedia.org/wiki/尊尼事務所 "wikilink")7人男子組合[Kis-My-Ft2一首](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")《We
-never give
-up\!》。造型涉嫌抄襲韓國歌手。而天堂鳥及同公司其他歌手、組合曾多次於[香港親建制派組織舉辦的活動上演唱](https://zh.wikipedia.org/wiki/香港親建制派 "wikilink")，也被質疑公司是「紅色」（[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")）背景\[11\]\[12\]。
+《登陸太陽》副歌涉嫌抄襲日本[尊尼事務所旗下](https://zh.wikipedia.org/wiki/尊尼事務所 "wikilink")7人男子組合[Kis-My-Ft2一首](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")《We never give up\!》。造型涉嫌抄襲韓國歌手。而天堂鳥及同公司其他歌手、組合曾多次於[香港親建制派組織舉辦的活動上演唱](https://zh.wikipedia.org/wiki/香港親建制派 "wikilink")，也被質疑公司是「紅色」（[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")）背景\[11\]\[12\]。
 
 ## 參考資料
 
@@ -281,8 +277,7 @@ up\!》。造型涉嫌抄襲韓國歌手。而天堂鳥及同公司其他歌手�
 
 [27歲歐喬鋒@天堂鳥榮升「阿公」](https://hk.on.cc/hk/bkn/cnt/entertainment/20190628/bkn-20190628033114714-0628_00862_001.html)
 
-[自爆曾是地獄廚神
-Lincoln@天堂鳥險火燒廚房](https://ol.mingpao.com/ldy/showbiz/latest/20190616/1560685658514/%E8%87%AA%E7%88%86%E6%9B%BE%E6%98%AF%E5%9C%B0%E7%8D%84%E5%BB%9A%E7%A5%9E-lincoln-%E5%A4%A9%E5%A0%82%E9%B3%A5%E9%9A%AA%E7%81%AB%E7%87%92%E5%BB%9A%E6%88%BF)
+[自爆曾是地獄廚神 Lincoln@天堂鳥險火燒廚房](https://ol.mingpao.com/ldy/showbiz/latest/20190616/1560685658514/%E8%87%AA%E7%88%86%E6%9B%BE%E6%98%AF%E5%9C%B0%E7%8D%84%E5%BB%9A%E7%A5%9E-lincoln-%E5%A4%A9%E5%A0%82%E9%B3%A5%E9%9A%AA%E7%81%AB%E7%87%92%E5%BB%9A%E6%88%BF)
 
 [窮到畀女飛　天堂鳥生存之道最怕冇人彈](https://hk.on.cc/hk/bkn/cnt/entertainment/20190614/bkn-20190614063048623-0614_00862_001.html)
 
@@ -308,10 +303,7 @@ Lincoln@天堂鳥險火燒廚房](https://ol.mingpao.com/ldy/showbiz/latest/2019
 
   - [許俊豪 (Lincoln) instagram](https://www.instagram.com/lincolnhhui/)
 
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
-[Category:香港男子跳唱組合](https://zh.wikipedia.org/wiki/Category:香港男子跳唱組合 "wikilink")
-[Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
+[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:香港男子跳唱組合](https://zh.wikipedia.org/wiki/Category:香港男子跳唱組合 "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
 1.
 2.

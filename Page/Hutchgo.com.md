@@ -10,16 +10,11 @@ hutchgo.com前身為Hutchison-Priceline，由[長江和記實業有限公司及�
 
 ## 發展
 
-過去與Priceline的合作，hutchgo.com業務範圍局限在亞洲市場。現在，
-hutchgo.com將其業務推向更多國際市場。直至2016年底，hutchgo.com的業務已由[香港](../Page/香港.md "wikilink")擴展及覆蓋至[中國](../Page/中國.md "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[英國共十個國家及地區](https://zh.wikipedia.org/wiki/英國 "wikilink")。2017年更推出一共8個語言的手機相容網站及iOS與Android系統手機應用程式，向全球顧客提供切合需要的服務。
+過去與Priceline的合作，hutchgo.com業務範圍局限在亞洲市場。現在， hutchgo.com將其業務推向更多國際市場。直至2016年底，hutchgo.com的業務已由[香港](../Page/香港.md "wikilink")擴展及覆蓋至[中國](../Page/中國.md "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[英國共十個國家及地區](https://zh.wikipedia.org/wiki/英國 "wikilink")。2017年更推出一共8個語言的手機相容網站及iOS與Android系統手機應用程式，向全球顧客提供切合需要的服務。
 
 ## 參考資料
 
-[Category:長和集團](https://zh.wikipedia.org/wiki/Category:長和集團 "wikilink")
-[Category:旅遊公司](https://zh.wikipedia.org/wiki/Category:旅遊公司 "wikilink")
-[Category:網路公司](https://zh.wikipedia.org/wiki/Category:網路公司 "wikilink")
-[Category:電子商務](https://zh.wikipedia.org/wiki/Category:電子商務 "wikilink")
-[Category:線上旅行社](https://zh.wikipedia.org/wiki/Category:線上旅行社 "wikilink")
+[Category:長和集團](https://zh.wikipedia.org/wiki/Category:長和集團 "wikilink") [Category:旅遊公司](https://zh.wikipedia.org/wiki/Category:旅遊公司 "wikilink") [Category:網路公司](https://zh.wikipedia.org/wiki/Category:網路公司 "wikilink") [Category:電子商務](https://zh.wikipedia.org/wiki/Category:電子商務 "wikilink") [Category:線上旅行社](https://zh.wikipedia.org/wiki/Category:線上旅行社 "wikilink")
 
 1.  <http://www.ckh.com.hk/tc/media/press_each.php?id=878>
 2.

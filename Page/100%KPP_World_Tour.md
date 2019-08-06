@@ -1,7 +1,4 @@
-**100%KPP World Tour 2013** 是[Kyary Pamyu
-Pamyu的首次世界巡迴演唱會](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")。
-演唱會紀錄片在2013年8月8日於[日本](../Page/日本.md "wikilink")8間電影院限定一天上映\[1\]。
-紀錄片DVD於2014年1月29日發售\[2\]
+**100%KPP World Tour 2013** 是[Kyary Pamyu Pamyu的首次世界巡迴演唱會](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")。 演唱會紀錄片在2013年8月8日於[日本](../Page/日本.md "wikilink")8間電影院限定一天上映\[1\]。 紀錄片DVD於2014年1月29日發售\[2\]
 
 ## 日期
 

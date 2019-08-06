@@ -1,5 +1,4 @@
-《**ayaka's BEST -Ballad
-Collection-**》為[日本](../Page/日本.md "wikilink")女歌手[絢香](../Page/絢香.md "wikilink")於2012年9月26日發行的第二張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")\[1\]。
+《**ayaka's BEST -Ballad Collection-**》為[日本](../Page/日本.md "wikilink")女歌手[絢香](../Page/絢香.md "wikilink")於2012年9月26日發行的第二張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")\[1\]。
 
 ## 解說
 
@@ -26,8 +25,7 @@ Collection-**》為[日本](../Page/日本.md "wikilink")女歌手[絢香](../Pa
 10. [今夜也擁抱星晨...](../Page/Sing_to_the_Sky.md "wikilink")
 11. [為愛而夢](https://zh.wikipedia.org/wiki/夢的夥伴/為愛而夢 "wikilink")
 12. [這片天空下](../Page/這片天空下.md "wikilink")
-13. [與你一起](https://zh.wikipedia.org/wiki/與你一起 "wikilink")
-    絢香×[可苦可樂](../Page/可苦可樂.md "wikilink")
+13. [與你一起](https://zh.wikipedia.org/wiki/與你一起 "wikilink") 絢香×[可苦可樂](../Page/可苦可樂.md "wikilink")
 14. [I believe （English ver.）](../Page/Sing_to_the_Sky.md "wikilink")
 15. 三日月 （2005 English ver.）
       - 唯一的新曲
@@ -46,8 +44,7 @@ Collection-**》為[日本](../Page/日本.md "wikilink")女歌手[絢香](../Pa
 
   - [華納音樂日本-絢香作品](http://wmg.jp/artist/ayaka/discography.html)
 
-[分類:絢香音樂專輯](https://zh.wikipedia.org/wiki/分類:絢香音樂專輯 "wikilink")
-[分類:2012年音樂專輯](https://zh.wikipedia.org/wiki/分類:2012年音樂專輯 "wikilink")
+[分類:絢香音樂專輯](https://zh.wikipedia.org/wiki/分類:絢香音樂專輯 "wikilink") [分類:2012年音樂專輯](https://zh.wikipedia.org/wiki/分類:2012年音樂專輯 "wikilink")
 
 [Category:日本華納音樂音樂專輯](https://zh.wikipedia.org/wiki/Category:日本華納音樂音樂專輯 "wikilink")
 

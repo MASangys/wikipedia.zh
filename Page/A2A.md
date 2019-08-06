@@ -4,8 +4,7 @@
 
 前名「AOA」這組合名的概念來自「WOW」，可讓歌迷對她們有對稱的感覺，現在以二人的英文名開頭字母A取代W，中間再加上O，便是一個開心的表情符號。
 
-2015年，AOA於Instagram
-的官方賬戶公佈正式改名爲A2A，主要原因是避免與來自[韓國的同名女子組合混淆](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")，再加上由金牌大風轉往華納的原故而改名。
+2015年，AOA於Instagram 的官方賬戶公佈正式改名爲A2A，主要原因是避免與來自[韓國的同名女子組合混淆](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")，再加上由金牌大風轉往華納的原故而改名。
 
 ## A0A專輯時期
 
@@ -203,8 +202,7 @@
 
 ### 2014年
 
-  - [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink") -
-    《[奇舞飛揚](https://zh.wikipedia.org/wiki/奇舞飛揚 "wikilink")》
+  - [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink") - 《[奇舞飛揚](https://zh.wikipedia.org/wiki/奇舞飛揚 "wikilink")》
 
 ## 電視劇（[廣東電視台](https://zh.wikipedia.org/wiki/廣東電視台 "wikilink")）
 
@@ -241,8 +239,7 @@
 
 ### 2016年
 
-  - 3月5日-13日：[炫舞場 Danz
-    Up](https://web.archive.org/web/20160411015524/https://www.hk.artsfestival.org/tc/programmes/danz-up/)（吳燕珊（Annelle））
+  - 3月5日-13日：[炫舞場 Danz Up](https://web.archive.org/web/20160411015524/https://www.hk.artsfestival.org/tc/programmes/danz-up/)（吳燕珊（Annelle））
 
 ## 電視节目
 
@@ -262,14 +259,12 @@
 
 ### 2012年至2013年
 
-  - [Another K2
-    服裝品牌](https://zh.wikipedia.org/wiki/Another_K2_服裝品牌 "wikilink")
+  - [Another K2 服裝品牌](https://zh.wikipedia.org/wiki/Another_K2_服裝品牌 "wikilink")
   - [第八届中国墨江北回归线国际双胞胎节暨哈尼太阳节](https://zh.wikipedia.org/wiki/第八届中国墨江北回归线国际双胞胎节暨哈尼太阳节 "wikilink")
 
 ### 2014年至2015年
 
-  - [博士倫Bioture One Day
-    全舒適隱形眼鏡](https://zh.wikipedia.org/wiki/博士倫Bioture_One_Day_全舒適隱形眼鏡 "wikilink")
+  - [博士倫Bioture One Day 全舒適隱形眼鏡](https://zh.wikipedia.org/wiki/博士倫Bioture_One_Day_全舒適隱形眼鏡 "wikilink")
 
 ## 廣告
 
@@ -312,24 +307,18 @@
 
 ### 2012年
 
-  - [K2 Factory](https://zh.wikipedia.org/wiki/K2_Factory "wikilink")
-    2012 Fall / Winter Collection（平面廣告）
-  - [Catalog](https://zh.wikipedia.org/wiki/Catalog "wikilink") X Minnie
-    Mouse Collection（平面廣告）
-  - [SuperBored](https://zh.wikipedia.org/wiki/SuperBored "wikilink")
-    （特約模特兒）
-  - [WrongWroks](https://zh.wikipedia.org/wiki/WrongWroks "wikilink")
-    （特約模特兒）
+  - [K2 Factory](https://zh.wikipedia.org/wiki/K2_Factory "wikilink") 2012 Fall / Winter Collection（平面廣告）
+  - [Catalog](https://zh.wikipedia.org/wiki/Catalog "wikilink") X Minnie Mouse Collection（平面廣告）
+  - [SuperBored](https://zh.wikipedia.org/wiki/SuperBored "wikilink") （特約模特兒）
+  - [WrongWroks](https://zh.wikipedia.org/wiki/WrongWroks "wikilink") （特約模特兒）
 
 ### 2013年
 
-  - [Another](../Page/Another.md "wikilink") 2013 Spring / Summer
-    Collection（平面廣告）
+  - [Another](../Page/Another.md "wikilink") 2013 Spring / Summer Collection（平面廣告）
 
 ### 2014年至2015年
 
-  - [博士倫](https://zh.wikipedia.org/wiki/博士倫 "wikilink") Biotrue One Day
-    全舒適隱形眼鏡（電視+平面廣告）
+  - [博士倫](https://zh.wikipedia.org/wiki/博士倫 "wikilink") Biotrue One Day 全舒適隱形眼鏡（電視+平面廣告）
   - [Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink") Lumia 830
   - [Nokia](https://zh.wikipedia.org/wiki/Nokia "wikilink") Lumia 535
 
@@ -383,9 +372,6 @@
 
   -
   -
-[Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:雙胞胎人物](https://zh.wikipedia.org/wiki/Category:雙胞胎人物 "wikilink")
-[Category:華納音樂集團旗下歌手](https://zh.wikipedia.org/wiki/Category:華納音樂集團旗下歌手 "wikilink")
+[Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:雙胞胎人物](https://zh.wikipedia.org/wiki/Category:雙胞胎人物 "wikilink") [Category:華納音樂集團旗下歌手](https://zh.wikipedia.org/wiki/Category:華納音樂集團旗下歌手 "wikilink")
 
 1.  [【娛樂星正妹】最美雙胞胎AOA](https://tw.celebrity.yahoo.com/news/娛樂星正妹-最美雙胞胎aoa-030955585.html)

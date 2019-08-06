@@ -1,5 +1,4 @@
-《**Music In The
-City**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[徐浩的首張EP](../Page/徐浩_\(歌手\).md "wikilink")，在2008年11月13日推出。專輯第一主打是《兩隻紙杯一條線》，第二主打則為《半分鐘》。
+《**Music In The City**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[徐浩的首張EP](../Page/徐浩_\(歌手\).md "wikilink")，在2008年11月13日推出。專輯第一主打是《兩隻紙杯一條線》，第二主打則為《半分鐘》。
 
 ## 曲目
 
@@ -36,5 +35,4 @@ City**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wi
 
 </div>
 
-[Category:2008年迷你專輯](https://zh.wikipedia.org/wiki/Category:2008年迷你專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:2008年迷你專輯](https://zh.wikipedia.org/wiki/Category:2008年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

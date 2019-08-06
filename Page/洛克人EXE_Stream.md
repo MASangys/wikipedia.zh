@@ -1,11 +1,9 @@
-**《洛克人EXE
-Stream》**（）是[洛克人EXE系列](../Page/洛克人EXE系列.md "wikilink")的第三部電視動畫，2004年10月2日到2005年9月24日期間播出共51集。在[香港](../Page/香港.md "wikilink")譯為《**洛克人網路保衛戰**》，2007年2月13日在[香港](../Page/香港.md "wikilink")[無綫兒童台首播](https://zh.wikipedia.org/wiki/無綫兒童台 "wikilink")，2007年7月21日在[香港](../Page/香港.md "wikilink")[無綫電視翡翠台播映](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")。
+**《洛克人EXE Stream》**（）是[洛克人EXE系列](../Page/洛克人EXE系列.md "wikilink")的第三部電視動畫，2004年10月2日到2005年9月24日期間播出共51集。在[香港](../Page/香港.md "wikilink")譯為《**洛克人網路保衛戰**》，2007年2月13日在[香港](../Page/香港.md "wikilink")[無綫兒童台首播](https://zh.wikipedia.org/wiki/無綫兒童台 "wikilink")，2007年7月21日在[香港](../Page/香港.md "wikilink")[無綫電視翡翠台播映](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")。
 
 ## 故事概要
 
   -
-    本季以神秘彗星—迪奧貫穿全劇。擁有迪奧徽章的人為熱斗、炎山、美露、丁戈、查理、特斯拉、燃次、茉莉花、雷火、布萊德、百合子、黑暗雅、巴雷爾。由於熱斗的勇氣，使得這支「雙向融合隊伍（Cross
-    Fusion Members）」得以正式成軍。第50\~51集全員到齊，並肩作戰，共同對抗大敵—利卡爾博士以及阻止迪奧毀滅地球。
+    本季以神秘彗星—迪奧貫穿全劇。擁有迪奧徽章的人為熱斗、炎山、美露、丁戈、查理、特斯拉、燃次、茉莉花、雷火、布萊德、百合子、黑暗雅、巴雷爾。由於熱斗的勇氣，使得這支「雙向融合隊伍（Cross Fusion Members）」得以正式成軍。第50\~51集全員到齊，並肩作戰，共同對抗大敵—利卡爾博士以及阻止迪奧毀滅地球。
 
 ## 登場人物
 
@@ -195,7 +193,4 @@ Stream》**（）是[洛克人EXE系列](../Page/洛克人EXE系列.md "wikilink
   - [洛克人STREAM中文官方網站](http://www.e-muse.com.tw/property/rockman/introduction/20070620/index.html)
   - [洛克人EXE劇場版中文官方網站](http://www.e-muse.com.tw/property/rockman/introduction/20070613_ova/)
 
-[Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink")
-[Category:2004年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2004年東京電視網動畫 "wikilink")
-[Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink")
-[Category:洛克人EXE系列](https://zh.wikipedia.org/wiki/Category:洛克人EXE系列 "wikilink")
+[Category:变身英雄](https://zh.wikipedia.org/wiki/Category:变身英雄 "wikilink") [Category:2004年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2004年東京電視網動畫 "wikilink") [Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink") [Category:洛克人EXE系列](https://zh.wikipedia.org/wiki/Category:洛克人EXE系列 "wikilink")

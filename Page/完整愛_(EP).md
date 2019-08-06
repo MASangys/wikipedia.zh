@@ -1,5 +1,4 @@
-《**完整愛**》是[香港](../Page/香港.md "wikilink")女子團體[Twins成員](https://zh.wikipedia.org/wiki/Twins "wikilink")[鍾欣潼](../Page/鍾欣潼.md "wikilink")的第二張個人國語EP，亦是第四張個人專輯。唱片共收錄5首歌曲。2014年5月27日[iTunes開始預購](https://zh.wikipedia.org/wiki/iTunes "wikilink")，2014年6月19日正式發行。iTunes上架兩版本**《普通版》**\[1\]
-及**《豪華版》**\[2\]。台灣由[种子音乐代理發行香港进口版](https://zh.wikipedia.org/wiki/种子音乐 "wikilink")，发行日期为6月20日。此張EP宣傳計畫並未赴[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[星](../Page/新加坡.md "wikilink")[馬等地做宣傳](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。好友[蘇見信亦為阿嬌量身打造](https://zh.wikipedia.org/wiki/蘇見信 "wikilink")《一輩子》，同名電影《[完整愛](../Page/完整愛_\(微電影\).md "wikilink")》更找來了好閨蜜[張韶涵](../Page/張韶涵.md "wikilink")、同門師弟[羅力威](../Page/羅力威.md "wikilink")及台灣歌手[周湯豪](../Page/周湯豪.md "wikilink")出演，赴臺北拍攝取景，由導演[陳映之操手](https://zh.wikipedia.org/wiki/陳映之 "wikilink")。\[3\]\[4\]
+《**完整愛**》是[香港](../Page/香港.md "wikilink")女子團體[Twins成員](https://zh.wikipedia.org/wiki/Twins "wikilink")[鍾欣潼](../Page/鍾欣潼.md "wikilink")的第二張個人國語EP，亦是第四張個人專輯。唱片共收錄5首歌曲。2014年5月27日[iTunes開始預購](https://zh.wikipedia.org/wiki/iTunes "wikilink")，2014年6月19日正式發行。iTunes上架兩版本**《普通版》**\[1\] 及**《豪華版》**\[2\]。台灣由[种子音乐代理發行香港进口版](https://zh.wikipedia.org/wiki/种子音乐 "wikilink")，发行日期为6月20日。此張EP宣傳計畫並未赴[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[星](../Page/新加坡.md "wikilink")[馬等地做宣傳](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")。好友[蘇見信亦為阿嬌量身打造](https://zh.wikipedia.org/wiki/蘇見信 "wikilink")《一輩子》，同名電影《[完整愛](../Page/完整愛_\(微電影\).md "wikilink")》更找來了好閨蜜[張韶涵](../Page/張韶涵.md "wikilink")、同門師弟[羅力威](../Page/羅力威.md "wikilink")及台灣歌手[周湯豪](../Page/周湯豪.md "wikilink")出演，赴臺北拍攝取景，由導演[陳映之操手](https://zh.wikipedia.org/wiki/陳映之 "wikilink")。\[3\]\[4\]
 
 ## 曲目
 
@@ -279,15 +278,9 @@ Youtube</p></td>
 2014年6月19日 |width=40% align=center|**下一張專輯：**
 \-
 
-[Category:鍾欣桐音樂專輯](https://zh.wikipedia.org/wiki/Category:鍾欣桐音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
+[Category:鍾欣桐音樂專輯](https://zh.wikipedia.org/wiki/Category:鍾欣桐音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
 
 1.  [鍾欣潼第二張國語EP 6月19日推出](https://itunes.apple.com/tw/album/wan-zheng-ai-ep/id881015529)
-2.  [完整愛 (Deluxe
-    Version)](https://itunes.apple.com/tw/album/wan-zheng-ai-deluxe-version/id881818660?l=zh)
-3.  [【人民網】(2014-6-19)阿嬌鐘欣潼渴望「完整愛」
-    張韶涵曝二人相識之初](http://culture.people.com.cn/BIG5/n/2014/0619/c22219-25171331.html)
-4.  [【Yahoo奇摩娛樂】(2014-6-20)阿嬌發國語新輯
-    張韶涵周湯豪力挺](https://tw.news.yahoo.com/%E9%98%BF%E5%AC%8C%E7%99%BC%E5%9C%8B%E8%AA%9E%E6%96%B0%E8%BC%AF-%E5%BC%B5%E9%9F%B6%E6%B6%B5%E5%91%A8%E6%B9%AF%E8%B1%AA%E5%8A%9B%E6%8C%BA-014246172.html)
+2.  [完整愛 (Deluxe Version)](https://itunes.apple.com/tw/album/wan-zheng-ai-deluxe-version/id881818660?l=zh)
+3.  [【人民網】(2014-6-19)阿嬌鐘欣潼渴望「完整愛」 張韶涵曝二人相識之初](http://culture.people.com.cn/BIG5/n/2014/0619/c22219-25171331.html)
+4.  [【Yahoo奇摩娛樂】(2014-6-20)阿嬌發國語新輯 張韶涵周湯豪力挺](https://tw.news.yahoo.com/%E9%98%BF%E5%AC%8C%E7%99%BC%E5%9C%8B%E8%AA%9E%E6%96%B0%E8%BC%AF-%E5%BC%B5%E9%9F%B6%E6%B6%B5%E5%91%A8%E6%B9%AF%E8%B1%AA%E5%8A%9B%E6%8C%BA-014246172.html)

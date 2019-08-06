@@ -9,5 +9,4 @@ DK4型由[中国大陸](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")[�
   - [北京地铁DK2型电动车组](../Page/北京地铁DK2型电动车组.md "wikilink")
   - [北京地铁DK3型电动车组](../Page/北京地铁DK3型电动车组.md "wikilink")
 
-[Category:平壤地铁](https://zh.wikipedia.org/wiki/Category:平壤地铁 "wikilink")
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
+[Category:平壤地铁](https://zh.wikipedia.org/wiki/Category:平壤地铁 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")

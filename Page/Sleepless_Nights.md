@@ -1,5 +1,4 @@
-「**Sleepless
-Nights**」（スリープレス・ナイツ）是[Aimer](../Page/Aimer.md "wikilink")的第1张专辑。
+「**Sleepless Nights**」（スリープレス・ナイツ）是[Aimer](../Page/Aimer.md "wikilink")的第1张专辑。
 
 ## 概要
 
@@ -25,8 +24,7 @@ Nights**」（スリープレス・ナイツ）是[Aimer](../Page/Aimer.md "wiki
         作詞：aimerrhythm／作曲：矢田亨／編曲：玉井健二、古川貴浩
 5.  \-{**Re:pray**}- (5:04)
       -
-        作詞：[Jane
-        Su](https://zh.wikipedia.org/wiki/ジェーン・スー "wikilink")、玉井健二／作曲：矢田亨／編曲：田中隼人
+        作詞：[Jane Su](https://zh.wikipedia.org/wiki/ジェーン・スー "wikilink")、玉井健二／作曲：矢田亨／編曲：田中隼人
 6.  \-{**悲しみはオーロラに（Restarred by Takagi Masakatsu）**}- (4:27)
       -
         作詞：aimerrhythm／作曲：飛内将大／リミックス：[高木正勝](https://zh.wikipedia.org/wiki/高木正勝 "wikilink")
@@ -35,8 +33,7 @@ Nights**」（スリープレス・ナイツ）是[Aimer](../Page/Aimer.md "wiki
         作詞：aimerrhythm／作曲・編曲：飛内将大／ストリングス・アレンジ：釣俊輔
 8.  \-{**AM02:00**}- (5:29)
       -
-        作詞：aimerrhythm／作曲：宮川暢彦／編曲：玉井健二、[Integral
-        Clover](https://zh.wikipedia.org/wiki/Integral_Clover "wikilink")
+        作詞：aimerrhythm／作曲：宮川暢彦／編曲：玉井健二、[Integral Clover](https://zh.wikipedia.org/wiki/Integral_Clover "wikilink")
 9.  \-{**星屑ビーナス**}- (4:12)
       -
         作詞：aimerrhythm／作曲：飛内将大／編曲：玉井健二、飛内将大
@@ -70,13 +67,9 @@ Nights**」（スリープレス・ナイツ）是[Aimer](../Page/Aimer.md "wiki
 
   - 制作人 - [玉井健二](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")
   - Directed & Organized by , Hideki Morioka (agehasprings)
-  - [执行制作人](../Page/音樂製作人.md "wikilink") - 小林和之、Yorio Isahi、Shoji
-    Yagi、玉井健二
-  - [录音工程师](https://zh.wikipedia.org/wiki/录音 "wikilink") -
-    森真樹(M2-5,8,9,12,13), 熊坂敏(M5,6,10)
-  - [混音工程师](https://zh.wikipedia.org/wiki/录音 "wikilink") -
-    熊坂敏(M2,5-6,10), Kenichi "NK-1" Nakamura(M3,12,13), Seiji
-    Sekine(M4,8,9)
+  - [执行制作人](../Page/音樂製作人.md "wikilink") - 小林和之、Yorio Isahi、Shoji Yagi、玉井健二
+  - [录音工程师](https://zh.wikipedia.org/wiki/录音 "wikilink") - 森真樹(M2-5,8,9,12,13), 熊坂敏(M5,6,10)
+  - [混音工程师](https://zh.wikipedia.org/wiki/录音 "wikilink") - 熊坂敏(M2,5-6,10), Kenichi "NK-1" Nakamura(M3,12,13), Seiji Sekine(M4,8,9)
   - [母带工程师](https://zh.wikipedia.org/wiki/母带工程师 "wikilink") - 茅根裕司
   - [艺术指导和设计](https://zh.wikipedia.org/wiki/光碟封套 "wikilink") - 松田剛
   - [摄影师](https://zh.wikipedia.org/wiki/攝影師 "wikilink") - 加藤アラタ
@@ -96,18 +89,14 @@ Nights**」（スリープレス・ナイツ）是[Aimer](../Page/Aimer.md "wiki
 
 ## 外部链接
 
-  - [ナタリー Aimer「Sleepless
-    Nights」インタビュー](http://natalie.mu/music/pp/aimer02)
+  - [ナタリー Aimer「Sleepless Nights」インタビュー](http://natalie.mu/music/pp/aimer02)
   - [BARKS【インタビュー】Aimer、唯一無二の歌声を手に入れるまでの絶望と葛藤、そして希望](http://www.barks.jp/news/?id=1000083564)
   - [goo紹介ページ](https://web.archive.org/web/20131031111809/http://music.goo.ne.jp/cd/CDDORID984069-1/index.html)
-  - [YouTube　Aimer(エメ)　『1st album「Sleepless
-    Nights」DIGEST』](http://www.youtube.com/watch?v=T6-ziA1PnwM&feature=youtu.be)
+  - [YouTube　Aimer(エメ)　『1st album「Sleepless Nights」DIGEST』](http://www.youtube.com/watch?v=T6-ziA1PnwM&feature=youtu.be)
 
 ## 注释
 
-[Category:Aimerのアルバム](https://zh.wikipedia.org/wiki/Category:Aimerのアルバム "wikilink")
-[Category:デフスターレコーズのアルバム](https://zh.wikipedia.org/wiki/Category:デフスターレコーズのアルバム "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
+[Category:Aimerのアルバム](https://zh.wikipedia.org/wiki/Category:Aimerのアルバム "wikilink") [Category:デフスターレコーズのアルバム](https://zh.wikipedia.org/wiki/Category:デフスターレコーズのアルバム "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
 
 1.
 2.

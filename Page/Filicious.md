@@ -2,9 +2,7 @@
 
 ## 專輯簡介
 
-專輯收錄六首全新歌曲，與薛凱琪於7月舉行的首個[紅館個人演唱會](../Page/香港體育館.md "wikilink")《Filicious
-Fiona in Concert 2012》同名，由[Edward
-Chan](https://zh.wikipedia.org/wiki/Edward_Chan "wikilink")（陳浩然）等擔任監制，其中薛凱琪更親自擔任音樂錄像的導演、為歌曲作曲及作詞。另外，也會推出一本新書結集，以攝影、畫畫和文字為重要元素。
+專輯收錄六首全新歌曲，與薛凱琪於7月舉行的首個[紅館個人演唱會](../Page/香港體育館.md "wikilink")《Filicious Fiona in Concert 2012》同名，由[Edward Chan](https://zh.wikipedia.org/wiki/Edward_Chan "wikilink")（陳浩然）等擔任監制，其中薛凱琪更親自擔任音樂錄像的導演、為歌曲作曲及作詞。另外，也會推出一本新書結集，以攝影、畫畫和文字為重要元素。
 
 本專輯是香港女歌手[薛凱琪為](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")[華納唱片發行的最後一張廣東專輯](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")。
 
@@ -55,12 +53,9 @@ Chan](https://zh.wikipedia.org/wiki/Edward_Chan "wikilink")（陳浩然）等擔
 ## 外部連結
 
   - [華納唱片《Filicious》專頁](http://www.warnermusic.com.hk/Filicious)
-  - [華納唱片Youtube 頻道：薛凱琪Fiona Sit
-    *Filicious*唱片封套拍攝花絮](http://www.youtube.com/watch?v=uaLrywpJAUE)
+  - [華納唱片Youtube 頻道：薛凱琪Fiona Sit *Filicious*唱片封套拍攝花絮](http://www.youtube.com/watch?v=uaLrywpJAUE)
   - [3cmusic.com碟評︰薛凱琪【Filicious】刀鋒不會磨鈍了吧](http://3cmusic.com/home/?p=10072)
 
 ## 參考文獻
 
-[Category:薛凱琪音樂專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪音樂專輯 "wikilink")
-[Category:薛凱琪粵語專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪粵語專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
+[Category:薛凱琪音樂專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪音樂專輯 "wikilink") [Category:薛凱琪粵語專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪粵語專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")

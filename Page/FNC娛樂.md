@@ -1,13 +1,10 @@
 **FNC娛樂**（；），由於2006年7月創辦。是[韓國的綜合娛樂上市公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")，經營藝人企劃、音樂製作和影視投資製作等業務。
 
-FNC旗下著名藝人有[FTIsland](../Page/FTIsland.md "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")、[AOA](../Page/AOA.md "wikilink")、[N.Flying](../Page/N.Flying.md "wikilink")、[SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")、[Cherry
-Bullet](../Page/Cherry_Bullet.md "wikilink")、[宋恩伊](../Page/宋恩伊.md "wikilink")、[李東健](../Page/李東健.md "wikilink")、[鄭宇](../Page/鄭宇.md "wikilink")、[鄭亨敦](../Page/鄭亨敦.md "wikilink")、[劉在錫](../Page/劉在錫.md "wikilink")、[盧弘喆](../Page/盧弘喆.md "wikilink")、[丁海寅](../Page/丁海寅.md "wikilink")等等。
+FNC旗下著名藝人有[FTIsland](../Page/FTIsland.md "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")、[AOA](../Page/AOA.md "wikilink")、[N.Flying](../Page/N.Flying.md "wikilink")、[SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")、[Cherry Bullet](../Page/Cherry_Bullet.md "wikilink")、[宋恩伊](../Page/宋恩伊.md "wikilink")、[李東健](../Page/李東健.md "wikilink")、[鄭宇](../Page/鄭宇.md "wikilink")、[鄭亨敦](../Page/鄭亨敦.md "wikilink")、[劉在錫](../Page/劉在錫.md "wikilink")、[盧弘喆](../Page/盧弘喆.md "wikilink")、[丁海寅](../Page/丁海寅.md "wikilink")等等。
 
 ## 公司簡介
 
-**FNC娛樂**初期以音樂方面經營為主，原名為**FNC MUSIC**。FNC是英文「**F**ISH A**N**D
-**C**AKE」的縮寫，社長是一名虔誠的[基督徒](../Page/基督徒.md "wikilink")，公司名稱是他從《[新約聖經](../Page/新約聖經.md "wikilink").[約翰福音](../Page/約翰福音.md "wikilink")》記述的「[五餅二魚](https://zh.wikipedia.org/wiki/五餅二魚 "wikilink")」神蹟所啟發得來的，希望公司能像「五餅二魚」神蹟從少變為多，能夠供應公司所有人的缺乏和需要。2012年開始發展各個領域的娛樂事業，公司更名為**FNC
-ENTERTAINMENT**。而公司旗下三個樂團[FTIsland](../Page/FTIsland.md "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")、[N.Flying](../Page/N.Flying.md "wikilink")是以FNC三個英文字母而起名的。
+**FNC娛樂**初期以音樂方面經營為主，原名為**FNC MUSIC**。FNC是英文「**F**ISH A**N**D **C**AKE」的縮寫，社長是一名虔誠的[基督徒](../Page/基督徒.md "wikilink")，公司名稱是他從《[新約聖經](../Page/新約聖經.md "wikilink").[約翰福音](../Page/約翰福音.md "wikilink")》記述的「[五餅二魚](https://zh.wikipedia.org/wiki/五餅二魚 "wikilink")」神蹟所啟發得來的，希望公司能像「五餅二魚」神蹟從少變為多，能夠供應公司所有人的缺乏和需要。2012年開始發展各個領域的娛樂事業，公司更名為**FNC ENTERTAINMENT**。而公司旗下三個樂團[FTIsland](../Page/FTIsland.md "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")、[N.Flying](../Page/N.Flying.md "wikilink")是以FNC三個英文字母而起名的。
 
 韓成豪一直致力把FNC娛樂發展為多元化的娛樂公司，但是業務領域迅速擴張，資金短缺，曾導致公司負債累累。2014年12月FNC娛樂在[韓國上市](https://zh.wikipedia.org/wiki/韓國 "wikilink")，中國[蘇寧環球的傳媒有限公司於](https://zh.wikipedia.org/wiki/蘇寧環球 "wikilink")2015年11月25日入股FNC娛樂，而成為第二大股東，並積極發展中韓合作娛樂事業。
 
@@ -41,8 +38,7 @@ ENTERTAINMENT**。而公司旗下三個樂團[FTIsland](../Page/FTIsland.md "wik
   - FNC ACADEMY江南分校区建立。
   - 10月，[CNBLUE](../Page/CNBLUE.md "wikilink")在[日本](../Page/日本.md "wikilink")主流出道。
   - 11月，[Juniel](../Page/Juniel.md "wikilink")在[日本](../Page/日本.md "wikilink")主流出道。
-  - 12月1日，[M
-    Signal發行了第一張迷你專輯](https://zh.wikipedia.org/wiki/M_Signal "wikilink")。
+  - 12月1日，[M Signal發行了第一張迷你專輯](https://zh.wikipedia.org/wiki/M_Signal "wikilink")。
 
 2012年：
 
@@ -71,14 +67,12 @@ ENTERTAINMENT**。而公司旗下三個樂團[FTIsland](../Page/FTIsland.md "wik
 
   - FNC全球艺人培养中心广州校区（FNC GTC广州）和上海校区（FNC GTC上海）建立。
   - 2月，FNC進軍電視劇市場，首部單獨制作的兩集特别電視劇《[謝謝，兒子](https://zh.wikipedia.org/wiki/謝謝，兒子 "wikilink")》播出\[2\]。
-  - 4月，FNC參與制作的电视剧《[Who Are
-    You－學校2015](../Page/Who_Are_You－學校2015.md "wikilink")》播出\[3\]。
+  - 4月，FNC參與制作的电视剧《[Who Are You－學校2015](../Page/Who_Are_You－學校2015.md "wikilink")》播出\[3\]。
   - 5月，[N.Flying](../Page/N.Flying.md "wikilink")在韩国正式出道，演员[郑宇签约FNC](https://zh.wikipedia.org/wiki/郑宇 "wikilink")。
   - 6月，搞笑艺人、主持人[郑亨敦签约FNC](https://zh.wikipedia.org/wiki/郑亨敦 "wikilink")。
   - 7月，在[韓國有](https://zh.wikipedia.org/wiki/韓國 "wikilink")「國民主持人」之稱的[劉在錫](../Page/劉在錫.md "wikilink")簽約FNC，輔新聞發布後，FNC股價連續多日大幅上升。主持綜藝人[盧弘喆](../Page/盧弘喆.md "wikilink")簽約FNC。
   - 9月，[韓國歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")、主持人[池錫辰簽約FNC](https://zh.wikipedia.org/wiki/池錫辰 "wikilink")。
-  - 11月25日，與蘇寧環球傳媒有限公司於上海 JW Marriott Hotel
-    舉辦簽約儀式，蘇寧環球傳媒收購FNC約22%股權，成為FNC的第二大股東。\[4\]
+  - 11月25日，與蘇寧環球傳媒有限公司於上海 JW Marriott Hotel 舉辦簽約儀式，蘇寧環球傳媒收購FNC約22%股權，成為FNC的第二大股東。\[4\]
 
 2016年：
 
@@ -96,8 +90,7 @@ ENTERTAINMENT**。而公司旗下三個樂團[FTIsland](../Page/FTIsland.md "wik
 2018年：
 
   - 2月，[韓國演員](https://zh.wikipedia.org/wiki/韓國 "wikilink")、模特兒[鄭釉珍](../Page/鄭釉珍.md "wikilink")簽約FNC。
-  - 3月14日，FNC正式宣布[SM娛樂](../Page/SM娛樂.md "wikilink")購買旗下子公司FNC Add
-    Culture部分股份，以31%的占股率成為最大股東，與FNC達成戰略結盟，FNC方面則持有18%的占股率成為第二大股東。\[5\]
+  - 3月14日，FNC正式宣布[SM娛樂](../Page/SM娛樂.md "wikilink")購買旗下子公司FNC Add Culture部分股份，以31%的占股率成為最大股東，與FNC達成戰略結盟，FNC方面則持有18%的占股率成為第二大股東。\[5\]
   - 11月27日，韓國演員[韓恩書](../Page/韓恩書.md "wikilink")簽約FNC。\[6\]
   - 12月1日，FNC表示與演員[鄭惠成](../Page/鄭惠成.md "wikilink")\[7\]的合約到期，雙方討論後不續約，但仍會為鄭惠成的演藝事業應援。
   - 12月19日，FNC正式宣布[權光珍退出](https://zh.wikipedia.org/wiki/權光珍 "wikilink")[N.Flying](../Page/N.Flying.md "wikilink")。
@@ -399,8 +392,6 @@ Solo未出道的狀態</p></td>
 
   - [李東健](../Page/李東健.md "wikilink")
 
-  - [鄭宇](../Page/鄭宇.md "wikilink")
-
   - [成赫](../Page/成赫.md "wikilink")
 
   - [宋世炫](https://zh.wikipedia.org/wiki/宋世炫 "wikilink")
@@ -489,100 +480,53 @@ Solo未出道的狀態</p></td>
   - 紅熠文化（與蘇寧環球傳媒合資）
       - [何東東](https://zh.wikipedia.org/wiki/何東東 "wikilink")（中國男演員，[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")）
       - 李長庚（[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")）
-      - 魏子越（[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")、[PRODUCE
-        X 101](../Page/PRODUCE_X_101.md "wikilink")）
+      - 魏子越（[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")、[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
       - 余景天（TONY，[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 |}
 
 ### Neoz School
 
-Neoz School是FNC娛樂於2015年12月推出的計劃，可以預先看到預備明星的Pre-Debut
-Team，讓粉絲們能夠共同參與預備藝人成長以及出道的過程，練習生以「NEOZ」作稱呼。2016年5月11日起，在FNC娛樂及[Mnet合作推出的真人選秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《d.o.b》（dance
-or band）中，將一期練習生分為舞團(NEOZ dance)及樂團(NEOZ
-band)展開競賽\[8\]，節目最終由舞團隊勝出，以[SF9之名在](https://zh.wikipedia.org/wiki/SF9 "wikilink")2016年10月5日出道。\[9\]樂團以[HONEYST](../Page/HONEYST.md "wikilink")之名在2017年5月7日出道。
+Neoz School是FNC娛樂於2015年12月推出的計劃，可以預先看到預備明星的Pre-Debut Team，讓粉絲們能夠共同參與預備藝人成長以及出道的過程，練習生以「NEOZ」作稱呼。2016年5月11日起，在FNC娛樂及[Mnet合作推出的真人選秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《d.o.b》（dance or band）中，將一期練習生分為舞團(NEOZ dance)及樂團(NEOZ band)展開競賽\[8\]，節目最終由舞團隊勝出，以[SF9之名在](https://zh.wikipedia.org/wiki/SF9 "wikilink")2016年10月5日出道。\[9\]樂團以[HONEYST](../Page/HONEYST.md "wikilink")之名在2017年5月7日出道。
 
 ## 已離開藝人
 
   - 團體成員
-
-<!-- end list -->
-
-  - M Signal
-  - [吳元斌](../Page/吳元斌.md "wikilink")（[FTIsland](../Page/FTIsland.md "wikilink")）
-  - [崔鍾訓](../Page/崔鍾訓.md "wikilink")（[FTIsland](../Page/FTIsland.md "wikilink")）
-  - **徐有慶**（[AOA](../Page/AOA.md "wikilink")）
-  - [朴草娥](https://zh.wikipedia.org/wiki/朴草娥 "wikilink")（[AOA](../Page/AOA.md "wikilink")）
-  - [權珉娥](https://zh.wikipedia.org/wiki/權珉娥 "wikilink")（[AOA](../Page/AOA.md "wikilink")）
-
-<!-- end list -->
-
+      - M Signal
+      - [吳元斌](../Page/吳元斌.md "wikilink")（[FTIsland](../Page/FTIsland.md "wikilink")）
+      - [崔鍾訓](../Page/崔鍾訓.md "wikilink")（[FTIsland](../Page/FTIsland.md "wikilink")）
+      - **徐有慶**（[AOA](../Page/AOA.md "wikilink")）
+      - [朴草娥](https://zh.wikipedia.org/wiki/朴草娥 "wikilink")（[AOA](../Page/AOA.md "wikilink")）
+      - [權珉娥](https://zh.wikipedia.org/wiki/權珉娥 "wikilink")（[AOA](../Page/AOA.md "wikilink")）
   - SOLO
-
-<!-- end list -->
-
-  - [Juniel](../Page/Juniel.md "wikilink")
-
-<!-- end list -->
-
+      - [Juniel](../Page/Juniel.md "wikilink")
   - 演員
-
-<!-- end list -->
-
-  - [李多海](../Page/李多海.md "wikilink")
-  - [李寒娜](https://zh.wikipedia.org/wiki/李寒娜 "wikilink")
-  - [李伊利雅](../Page/李伊利雅.md "wikilink")
-  - [金旼序](../Page/金旼序.md "wikilink")
-  - [鄭惠成](../Page/鄭惠成.md "wikilink")
-  - [趙在允](../Page/趙在允.md "wikilink")
-
-<!-- end list -->
-
+      - [李多海](../Page/李多海.md "wikilink")
+      - [李寒娜](https://zh.wikipedia.org/wiki/李寒娜 "wikilink")
+      - [李伊利雅](../Page/李伊利雅.md "wikilink")
+      - [金旼序](../Page/金旼序.md "wikilink")
+      - [鄭惠成](../Page/鄭惠成.md "wikilink")
+      - [趙在允](../Page/趙在允.md "wikilink")
+      - [鄭宇](../Page/鄭宇.md "wikilink")
   - 主持人
-
-<!-- end list -->
-
-  - [池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink")
-
-<!-- end list -->
-
+      - [池錫辰](https://zh.wikipedia.org/wiki/池錫辰 "wikilink")
   - 練習生
-
-<!-- end list -->
-
-  - [高恩妃](../Page/高恩妃.md "wikilink")<sup>歿</sup>（[Ladies'
-    Code](../Page/Ladies'_Code.md "wikilink")）
-
-  - 多順（[TAHITI](https://zh.wikipedia.org/wiki/TAHITI "wikilink")）
-
-  - （[gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink")）
-
-  - 高宥辰（《[Produce
-    48](https://zh.wikipedia.org/wiki/Produce_48 "wikilink")》）
-
-  - J-HYO（[LC9](../Page/LC9.md "wikilink")）
-
-  - [李準](../Page/李準_\(歌手\).md "wikilink")（歌手、演員）
-
-  - （歌手、演員）
-
-  - [李東元](https://zh.wikipedia.org/wiki/KNK "wikilink")（[KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")）
-
-  - [鄭因成](https://zh.wikipedia.org/wiki/KNK "wikilink")（[KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")）
-
-  - [吳熙俊](https://zh.wikipedia.org/wiki/KNK "wikilink")（[KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")）
-
-  - [李東賢](../Page/L.A.U.md "wikilink")（[L.A.U](../Page/L.A.U.md "wikilink")）
-
-  - [全志佑](https://zh.wikipedia.org/wiki/全志佑 "wikilink")（[KARD](../Page/KARD.md "wikilink")）
-
-  - [姚明明](https://zh.wikipedia.org/wiki/姚明明 "wikilink")（[UNINE](../Page/UNINE.md "wikilink")）
-
-  - 裴鍾仁（[BLK](../Page/BLK.md "wikilink")）
-
-  - 卓真奎（《[少年24](../Page/BOYS24.md "wikilink")》）
-
-  - [李輝燦](../Page/LIMITLESS_\(男子團體\).md "wikilink")（[LIMITLESS](../Page/LIMITLESS_\(男子團體\).md "wikilink")）
+      - [高恩妃](../Page/高恩妃.md "wikilink")【（[Ladies' Code](../Page/Ladies'_Code.md "wikilink")）歿】
+      - 多順（[TAHITI](https://zh.wikipedia.org/wiki/TAHITI "wikilink")）
+      - MIMI（[gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink")）
+      - 高宥辰（《[Produce 48](https://zh.wikipedia.org/wiki/Produce_48 "wikilink")》）
+      - J-HYO（[LC9](../Page/LC9.md "wikilink")）
+      - [李準](../Page/李準_\(歌手\).md "wikilink")（歌手、演員）
+      - 金正優（歌手、演員）
+      - [李東元](https://zh.wikipedia.org/wiki/KNK "wikilink")（[KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")）
+      - [鄭因成](https://zh.wikipedia.org/wiki/KNK "wikilink")（[KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")）
+      - [吳熙俊](https://zh.wikipedia.org/wiki/KNK "wikilink")（[KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")）
+      - [李東賢](../Page/L.A.U.md "wikilink")（[L.A.U](../Page/L.A.U.md "wikilink")）
+      - [全志佑](https://zh.wikipedia.org/wiki/全志佑 "wikilink")（[KARD](../Page/KARD.md "wikilink")）
+      - [姚明明](https://zh.wikipedia.org/wiki/姚明明 "wikilink")（[UNINE](../Page/UNINE.md "wikilink")）
+      - 裴鍾仁（[BLK](../Page/BLK.md "wikilink")）
+      - 卓真奎（《[少年24](../Page/BOYS24.md "wikilink")》）
+      - [李輝燦](../Page/LIMITLESS_\(男子團體\).md "wikilink")（[LIMITLESS](../Page/LIMITLESS_\(男子團體\).md "wikilink")）
 
 ## 電視劇製作
 
@@ -639,8 +583,7 @@ band)展開競賽\[8\]，節目最終由舞團隊勝出，以[SF9之名在](http
 2.
 3.
 4.
-5.  [\[공식](http://www.sedaily.com/NewsView/1RVOS3F4Q9) 배우 정유진,
-    FNC엔터테인먼트와 전속계약..정우· 정해인·정혜성과 한솥밥\]
+5.  [\[공식](http://www.sedaily.com/NewsView/1RVOS3F4Q9) 배우 정유진, FNC엔터테인먼트와 전속계약..정우· 정해인·정혜성과 한솥밥\]
 6.
 7.
 8.

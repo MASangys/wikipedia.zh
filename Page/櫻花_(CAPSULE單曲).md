@@ -17,6 +17,4 @@
 3.  **戀愛了**（恋をしました）
 4.  **Orgel**（オルゴール）\*Bonus Track
 
-[Category:CAPSULE歌曲](https://zh.wikipedia.org/wiki/Category:CAPSULE歌曲 "wikilink")
-[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink")
-[Category:櫻花題材歌曲](https://zh.wikipedia.org/wiki/Category:櫻花題材歌曲 "wikilink")
+[Category:CAPSULE歌曲](https://zh.wikipedia.org/wiki/Category:CAPSULE歌曲 "wikilink") [Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink") [Category:櫻花題材歌曲](https://zh.wikipedia.org/wiki/Category:櫻花題材歌曲 "wikilink")

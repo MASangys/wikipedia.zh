@@ -4,10 +4,7 @@
 
 [Transformicescreenshot.png](https://zh.wikipedia.org/wiki/File:Transformicescreenshot.png "fig:Transformicescreenshot.png")
 
-游戏的目的是控制一只老鼠去收集收集可能被放置于地图任意位置的奶酪。玩家用方向键或WASD键控制游戏角色，也可以通过环境来进行墙跳（wall
-jumping）和角跳（corner
-jumping)。当你成为萨满时,还需要鼠标的辅助操作来放置物体。玩家控制的老鼠必须触碰到奶酪才能收集到它。之后，玩家要控制收集到奶酪的老鼠返回地图中的老鼠洞来完成这轮游戏。奶酪和老鼠洞的位置在不同的地图之间是不同的。玩家将被在時時更新的房间内的积分榜上奖励积分。前三名进洞的玩家将会获得额外的积分奖励。从Ver
-0.168以后,在游戏中玩家掉出地图范围从被扣1分变为被奖励1分，用来鼓励无法完成地图的玩家自杀以加快游戏进度。同时，在一轮游戏开始后30秒内没有操作角色（AFK）时，角色将自动死亡并+1分。连续15分钟AFK将会被服务器自动踢下线以减轻服务器荷载。这里是积分奖励的规则
+游戏的目的是控制一只老鼠去收集收集可能被放置于地图任意位置的奶酪。玩家用方向键或WASD键控制游戏角色，也可以通过环境来进行墙跳（wall jumping）和角跳（corner jumping)。当你成为萨满时,还需要鼠标的辅助操作来放置物体。玩家控制的老鼠必须触碰到奶酪才能收集到它。之后，玩家要控制收集到奶酪的老鼠返回地图中的老鼠洞来完成这轮游戏。奶酪和老鼠洞的位置在不同的地图之间是不同的。玩家将被在時時更新的房间内的积分榜上奖励积分。前三名进洞的玩家将会获得额外的积分奖励。从Ver 0.168以后,在游戏中玩家掉出地图范围从被扣1分变为被奖励1分，用来鼓励无法完成地图的玩家自杀以加快游戏进度。同时，在一轮游戏开始后30秒内没有操作角色（AFK）时，角色将自动死亡并+1分。连续15分钟AFK将会被服务器自动踢下线以减轻服务器荷载。这里是积分奖励的规则
 
 | 名次        | 基础奖励积分 | 额外奖励积分 | 该回合总分 |
 | --------- | ------ | ------ | ----- |
@@ -66,26 +63,19 @@ jumping)。当你成为萨满时,还需要鼠标的辅助操作来放置物体�
 
 玩家通过游戏内的编辑器同样可以创造他们自己的地图。玩家创建的地图时创建者必须要完成一轮游戏，以确保这张地图可以被正常的完成。一旦通过测试，玩家可以选择用花费40奶酪来提交地图。游戏中的奖励系统会给玩家新的‘称号’。称号将会在玩家获得一定数量的奶酪后，获得了一定数量的第一后，拯救了一定数量的老鼠后或者是在商店购买了一定数量的物品后授予给玩家。
 
-[白目](https://zh.wikipedia.org/wiki/白目 "wikilink")（Trolling）也是游戏的一部分，来自于游戏中的‘帮助/规则’
-菜单。\[2\]玩家可以当白目，无论他是普通老鼠还是萨满。萨满们可以通过使用炮弹以及其他物体来杀死玩家。或是封堵老鼠洞，破坏建筑等的方法来烦人。普通老鼠则可以通过在地图上待很长的时间而不拿奶酪来拖延时间。普通老鼠也有可能把萨满没固定的物体或建筑推下地面。有些地图是有[碰撞判定的](https://zh.wikipedia.org/wiki/碰撞判定 "wikilink")，这时他们可以把其他的老鼠，包括萨满，推下去。不过，现在萨满在一张地图中有两次权力，可以将老鼠“冻”成冰块。不过冻成冰块的老鼠会与其他老鼠发生碰撞，且老鼠本身无法跨越冰块，且冰块极易被老鼠推动。在游戏途中使用可能会影响游戏的进行，而且有可能被萨满恶意使用。
+[白目](https://zh.wikipedia.org/wiki/白目 "wikilink")（Trolling）也是游戏的一部分，来自于游戏中的‘帮助/规则’ 菜单。\[2\]玩家可以当白目，无论他是普通老鼠还是萨满。萨满们可以通过使用炮弹以及其他物体来杀死玩家。或是封堵老鼠洞，破坏建筑等的方法来烦人。普通老鼠则可以通过在地图上待很长的时间而不拿奶酪来拖延时间。普通老鼠也有可能把萨满没固定的物体或建筑推下地面。有些地图是有[碰撞判定的](https://zh.wikipedia.org/wiki/碰撞判定 "wikilink")，这时他们可以把其他的老鼠，包括萨满，推下去。不过，现在萨满在一张地图中有两次权力，可以将老鼠“冻”成冰块。不过冻成冰块的老鼠会与其他老鼠发生碰撞，且老鼠本身无法跨越冰块，且冰块极易被老鼠推动。在游戏途中使用可能会影响游戏的进行，而且有可能被萨满恶意使用。
 
 ## 开发
 
-游戏由Melibellule（真实姓名是Mélanie Christin）\[3\]和Tigrounette（真实姓名是
-Jean-Baptiste
-Lemarchand）。\[4\]\[5\]两人在工作室见面并成为好朋友。冒出制作Transformice这个想法是他们打算合作制作一款游戏。Tigrounette以前有制作游戏的经验，然后希望Christin的艺术经验帮助他一起创作游戏。Christin很快的提出了小老鼠拿着奶酪跑回老鼠洞的想法。
+游戏由Melibellule（真实姓名是Mélanie Christin）\[3\]和Tigrounette（真实姓名是 Jean-Baptiste Lemarchand）。\[4\]\[5\]两人在工作室见面并成为好朋友。冒出制作Transformice这个想法是他们打算合作制作一款游戏。Tigrounette以前有制作游戏的经验，然后希望Christin的艺术经验帮助他一起创作游戏。Christin很快的提出了小老鼠拿着奶酪跑回老鼠洞的想法。
 
-在Transformice之前，Tigrounette曾经在2008年4月为另一个叫*Aaaah\!*在线flash游戏工作过
-这个游戏是通过控制简笔画和人物通过映衬地图到达药店。这个游戏使用的游戏方法跟Transformice很相似，多个玩家为了同一个目标而竞争，同时有一个拥有最多点数的玩家被指定为‘向导’，可以通过画路的方法来帮助其他玩家达成目标。这个游戏也拥有一个地图编辑器。
+在Transformice之前，Tigrounette曾经在2008年4月为另一个叫*Aaaah\!*在线flash游戏工作过 这个游戏是通过控制简笔画和人物通过映衬地图到达药店。这个游戏使用的游戏方法跟Transformice很相似，多个玩家为了同一个目标而竞争，同时有一个拥有最多点数的玩家被指定为‘向导’，可以通过画路的方法来帮助其他玩家达成目标。这个游戏也拥有一个地图编辑器。
 
 在他们辞职之后，Christin和Lemarchand之后创立了他们的独立的游戏公司Atelier 801（801工作室）。\[6\]
 
 ## 评价
 
-这个游戏被 [Kotaku](../Page/Kotaku.md "wikilink")、\[7\][Rock, Paper,
-Shotgun](../Page/Rock,_Paper,_Shotgun.md "wikilink")\[8\]和[PC
-Gamer](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")\[9\]评价过。这个游戏也在[Mochi
-Media的flash游戏投票中获得](https://zh.wikipedia.org/wiki/Mochi_Media "wikilink")2011年的玩家票选奖。\[10\]这个游戏被2012年度独立游戏提名\[11\]，也是2012年IndieDB上100佳独立游戏之一。\[12\]
+这个游戏被 [Kotaku](../Page/Kotaku.md "wikilink")、\[7\][Rock, Paper, Shotgun](../Page/Rock,_Paper,_Shotgun.md "wikilink")\[8\]和[PC Gamer](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")\[9\]评价过。这个游戏也在[Mochi Media的flash游戏投票中获得](https://zh.wikipedia.org/wiki/Mochi_Media "wikilink")2011年的玩家票选奖。\[10\]这个游戏被2012年度独立游戏提名\[11\]，也是2012年IndieDB上100佳独立游戏之一。\[12\]
 
 ## 参考资料
 
@@ -98,10 +88,7 @@ Media的flash游戏投票中获得](https://zh.wikipedia.org/wiki/Mochi_Media "w
 
   - [官方其它自製遊戲](http://bouboum.atelier801.com/)
 
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:网页游戏](https://zh.wikipedia.org/wiki/Category:网页游戏 "wikilink")
-[Category:免費遊戲](https://zh.wikipedia.org/wiki/Category:免費遊戲 "wikilink")
-[Category:法國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:法國開發電子遊戲 "wikilink")
+[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:网页游戏](https://zh.wikipedia.org/wiki/Category:网页游戏 "wikilink") [Category:免費遊戲](https://zh.wikipedia.org/wiki/Category:免費遊戲 "wikilink") [Category:法國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:法國開發電子遊戲 "wikilink")
 
 1.
 

@@ -23,8 +23,7 @@
 <!-- end list -->
 
   - 7月27日发售首张单曲，同时从Lantis媒体出道。
-  - 10月26日发售第二张单曲「[Authentic
-    symphony](https://zh.wikipedia.org/wiki/Authentic_symphony "wikilink")」。
+  - 10月26日发售第二张单曲「[Authentic symphony](https://zh.wikipedia.org/wiki/Authentic_symphony "wikilink")」。
   - 11月23日发售第三张单曲。
 
 <!-- end list -->
@@ -220,8 +219,7 @@ LACM-34011（初回限定盤）</p></td>
 
 #### 合輯
 
-  - EXIT TUNES PRESENTS 神曲を歌ってみた（2009年10月7日發賣 / [EXIT
-    TUNES](../Page/EXIT_TUNES.md "wikilink") / QWCE-10019）
+  - EXIT TUNES PRESENTS 神曲を歌ってみた（2009年10月7日發賣 / [EXIT TUNES](../Page/EXIT_TUNES.md "wikilink") / QWCE-10019）
 
       - 雨を連れゆく
           - 歌：Acid=Stone Valley vs. Starving Trancer feat.ちょうちょ
@@ -241,8 +239,7 @@ LACM-34011（初回限定盤）</p></td>
       - 夕花火
           - 歌：Junky feat.ちょうちょ
 
-  - EXIT TUNES PRESENTS 神曲を歌ってみた 5（2011年9月7日發賣 / EXIT TUNES /
-    QWCE-00198）
+  - EXIT TUNES PRESENTS 神曲を歌ってみた 5（2011年9月7日發賣 / EXIT TUNES / QWCE-00198）
 
       - glow
           - 歌：keeno feat.ちょうちょ
@@ -252,9 +249,7 @@ LACM-34011（初回限定盤）</p></td>
       - リトルグッバイ
           - 歌：2 ANIMEny DJ'S×ちょうちょ
 
-  - [未来日記インスパイアードアルバム Vol.1
-    〜因果律ノイズ〜](../Page/未來日記.md "wikilink")（2011年11月23日發賣
-    / Lantis / LACA-15167）
+  - [未来日記インスパイアードアルバム Vol.1 〜因果律ノイズ〜](../Page/未來日記.md "wikilink")（2011年11月23日發賣 / Lantis / LACA-15167）
 
       - Happy Fate
 
@@ -267,8 +262,7 @@ LACM-34011（初回限定盤）</p></td>
       - Million of Bravery
           - 作詞・作曲・編曲：[前山田健一](../Page/前山田健一.md "wikilink")
 
-  - Heart of Magic Garden 〜Lantis Artists Self Tribute
-    Album〜（2012年6月27日發賣 / Lantis / LACA-15185）
+  - Heart of Magic Garden 〜Lantis Artists Self Tribute Album〜（2012年6月27日發賣 / Lantis / LACA-15185）
 
       -   - 編曲：[伊藤真澄](../Page/伊藤真澄.md "wikilink")
 
@@ -304,8 +298,7 @@ LACM-34011（初回限定盤）</p></td>
 
 ## 外部連結
 
-  - [ChouCho Official site |
-    ちょうちょ](http://iwill-music.co.jp/choucho/)，官方網站。
+  - [ChouCho Official site | ちょうちょ](http://iwill-music.co.jp/choucho/)，官方網站。
 
   - [ほわほわちょうちょ](http://ameblo.jp/choucho621/)，網誌。
 
@@ -315,16 +308,11 @@ LACM-34011（初回限定盤）</p></td>
 
   -
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
-[Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
-[Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink") [Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink")
 
 1.  [ChouCho - CDJournal](http://artist.cdjournal.com/a/-/907337)
 
-2.  [ChouCho | Artist | Lantis web
-    site](http://www.lantis.jp/artist-bio.php?id=c79be0c69dd25d86da8c88f20155e971)
+2.  [ChouCho | Artist | Lantis web site](http://www.lantis.jp/artist-bio.php?id=c79be0c69dd25d86da8c88f20155e971)
 
 3.
 4.  [ほわほわちょうちょ](http://lotus--lotus.jugem.jp/?pid=1)

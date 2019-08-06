@@ -119,8 +119,7 @@
 
   - [乞力马扎罗山](../Page/乞力马扎罗山.md "wikilink") Kilimanjaro
   - [所罗门的宝藏](../Page/大津巴布韦.md "wikilink") King Solomon's Mines
-  - [维多利亚湖](https://zh.wikipedia.org/wiki/维多利亚湖 "wikilink") Lake
-    Victoria
+  - [维多利亚湖](https://zh.wikipedia.org/wiki/维多利亚湖 "wikilink") Lake Victoria
 
 ## 參考資料
 
@@ -128,11 +127,7 @@
 
   - [官方網站](http://www.civilization5.com/bravenewworld/)
 
-[Category:文明系列电子游戏](https://zh.wikipedia.org/wiki/Category:文明系列电子游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink")
-[Category:資料片](https://zh.wikipedia.org/wiki/Category:資料片 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
+[Category:文明系列电子游戏](https://zh.wikipedia.org/wiki/Category:文明系列电子游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink") [Category:資料片](https://zh.wikipedia.org/wiki/Category:資料片 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
 
 1.
 2.

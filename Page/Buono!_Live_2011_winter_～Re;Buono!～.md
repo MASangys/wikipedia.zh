@@ -1,5 +1,4 @@
-『**Buono\! Live 2011 winter
-～Re;Buono\!～**』（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的Live影像。2011年6月22日DVD和Blu-ray同日發售\[1\]。
+『**Buono\! Live 2011 winter ～Re;Buono\!～**』（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的Live影像。2011年6月22日DVD和Blu-ray同日發售\[1\]。
 
 ## 收錄曲
 
@@ -42,13 +41,9 @@
 
 ## 外部連結
 
-  - [Buono\!ライブ2011winter
-    〜Re;Buono\!〜](http://www.up-front-works.jp/discography/zetima/129/v_03/index.html)(DVD)
-  - [Buono\!ライブ2011winter
-    〜Re;Buono\!〜](http://www.up-front-works.jp/discography/zetima/129/v_04/index.html)（Blu-ray）
+  - [Buono\!ライブ2011winter 〜Re;Buono\!〜](http://www.up-front-works.jp/discography/zetima/129/v_03/index.html)(DVD)
+  - [Buono\!ライブ2011winter 〜Re;Buono\!〜](http://www.up-front-works.jp/discography/zetima/129/v_04/index.html)（Blu-ray）
 
-[Category:2011年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2011年音樂相關影像作品 "wikilink")
-[Category:Buono\!影像作品](https://zh.wikipedia.org/wiki/Category:Buono!影像作品 "wikilink")
+[Category:2011年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2011年音樂相關影像作品 "wikilink") [Category:Buono\!影像作品](https://zh.wikipedia.org/wiki/Category:Buono!影像作品 "wikilink")
 
-1.  [Sony Music Shop 「Buono\! ライブ 2011 winter
-    〜Re;Buono\!〜(DVD)」](http://www.sonymusicshop.jp/m/item/itemShw.php?site=S&cd=EPBE000005408)
+1.  [Sony Music Shop 「Buono\! ライブ 2011 winter 〜Re;Buono\!〜(DVD)」](http://www.sonymusicshop.jp/m/item/itemShw.php?site=S&cd=EPBE000005408)

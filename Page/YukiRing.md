@@ -110,8 +110,7 @@ AVCA-74029/B</p></td>
 
   - [YukiRing官方網站](http://yukiring.jp/)
 
-[Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink")
-[Category:愛貝克思集團](https://zh.wikipedia.org/wiki/Category:愛貝克思集團 "wikilink")
+[Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink") [Category:愛貝克思集團](https://zh.wikipedia.org/wiki/Category:愛貝克思集團 "wikilink")
 
 1.
 

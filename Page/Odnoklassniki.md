@@ -14,51 +14,25 @@ Odnoklassniki的网站宣称已有超过4500万的注册用户，每天的独立
 
 ## 外部链接
 
-  - [Odnoklassniki reached 100 million
-    accounts](http://www.ewdn.com/2011/06/21/social-network-odnoklassniki-ru-reaches-100-million-accounts)
-    - [East-West Digital News](http://www.ewdn.com), June 21, 2011
-  - [Russians flock to web to find old
-    flames](https://web.archive.org/web/20080626021122/http://www.russiatoday.ru/features/news/19060)
-    - [Russia
-    Today](https://zh.wikipedia.org/wiki/Russia_Today "wikilink"),
-    December 26, 2007
-  - [Odnoklassniki.ru, VKontakte.ru,
-    Facebook.com](https://web.archive.org/web/20091205085902/http://totul.md/ro/expertitem/169.html)
+  - [Odnoklassniki reached 100 million accounts](http://www.ewdn.com/2011/06/21/social-network-odnoklassniki-ru-reaches-100-million-accounts) - [East-West Digital News](http://www.ewdn.com), June 21, 2011
+  - [Russians flock to web to find old flames](https://web.archive.org/web/20080626021122/http://www.russiatoday.ru/features/news/19060) - [Russia Today](https://zh.wikipedia.org/wiki/Russia_Today "wikilink"), December 26, 2007
+  - [Odnoklassniki.ru, VKontakte.ru, Facebook.com](https://web.archive.org/web/20091205085902/http://totul.md/ro/expertitem/169.html)
 
-[Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink")
-[Category:虚拟社群](https://zh.wikipedia.org/wiki/Category:虚拟社群 "wikilink")
-[Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
-[Category:社交网络服务](https://zh.wikipedia.org/wiki/Category:社交网络服务 "wikilink")
-[Category:俄羅斯網站](https://zh.wikipedia.org/wiki/Category:俄羅斯網站 "wikilink")
+[Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink") [Category:虚拟社群](https://zh.wikipedia.org/wiki/Category:虚拟社群 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:社交网络服务](https://zh.wikipedia.org/wiki/Category:社交网络服务 "wikilink") [Category:俄羅斯網站](https://zh.wikipedia.org/wiki/Category:俄羅斯網站 "wikilink")
 
-1.  [About the
-    project](http://odnoklassniki.ru/cdk/st.cmd/helpAbout/tkn/729)
-2.  [Odnoklassniki
-    Advertising](http://odnoklassniki.ru/dk?st.cmd=helpAdvertise&tkn=2260)
-
+1.  [About the project](http://odnoklassniki.ru/cdk/st.cmd/helpAbout/tkn/729)
+2.  [Odnoklassniki Advertising](http://odnoklassniki.ru/dk?st.cmd=helpAdvertise&tkn=2260)
 3.
 4.
 5.
 6.
 7.
 8.
-9.  [Runet
-    Prize, 2006](http://www.premiaruneta.ru/archive/premia-2006/rulet/)
+9.  [Runet Prize, 2006](http://www.premiaruneta.ru/archive/premia-2006/rulet/)
 10. [Runet Prize, 2007](http://www.premiaruneta.ru/premia-2007/)
-11. Vedomosti, September 15, 2008
-    [1](http://www.vedomosti.ru/newspaper/article.shtml?2008/09/15/161097)
-12. [Euro Social Networking Site Passado.com Set to
-    Expand](http://www.cio.com/article/27409/Euro_Social_Networking_Site_Passado.com_Set_to_Expand)
-    CIO.com, December 2006 .
-13. [Британская компания требует отдать ей
-    "Одноклассники.ru"](http://newsru.com/finance/03dec2008/popkov.html)
-    NEWSru, December 3, 2008.
-14. [Альберта Попкова сняли с должности гендиректора
-    "Одноклассников"](http://www.rb.ru/news/business/2008/09/15/080500.html)
-     rb.ru, September 15, 2009.
-15. [Инсайд: Стенограмма прений в суде по иску i-CD Publishing к
-    Альберту Попкову](http://roem.ru/2009/10/29/addednews12894/)
-     ROEM.ru, October 29, 2009.
-16. [Британская компания отозвала иск к создателю Odnoklassniki.ru
-    Альберту Попкову](http://www.snob.ru/fp/entry/9512) SNOB.ru,
-    November 25, 2009.
+11. Vedomosti, September 15, 2008 [1](http://www.vedomosti.ru/newspaper/article.shtml?2008/09/15/161097)
+12. [Euro Social Networking Site Passado.com Set to Expand](http://www.cio.com/article/27409/Euro_Social_Networking_Site_Passado.com_Set_to_Expand) CIO.com, December 2006 .
+13. [Британская компания требует отдать ей "Одноклассники.ru"](http://newsru.com/finance/03dec2008/popkov.html) NEWSru, December 3, 2008.
+14. [Альберта Попкова сняли с должности гендиректора "Одноклассников"](http://www.rb.ru/news/business/2008/09/15/080500.html)  rb.ru, September 15, 2009.
+15. [Инсайд: Стенограмма прений в суде по иску i-CD Publishing к Альберту Попкову](http://roem.ru/2009/10/29/addednews12894/)  ROEM.ru, October 29, 2009.
+16. [Британская компания отозвала иск к создателю Odnoklassniki.ru Альберту Попкову](http://www.snob.ru/fp/entry/9512) SNOB.ru, November 25, 2009.

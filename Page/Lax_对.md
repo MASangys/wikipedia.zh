@@ -12,8 +12,7 @@
 
 如果 \(F(x,t,u,\dots)=0\)可以表示为 Lax 方程：
 
-L_t+\[L,M\]=0,且 \(L \phi=\lambda(t) \phi\),则 \(\lambda_t=0\),并且
-\(\phi\) 满足
+L_t+\[L,M\]=0,且 \(L \phi=\lambda(t) \phi\),则 \(\lambda_t=0\),并且 \(\phi\) 满足
 
 \(\phi_t=M\phi\)
 
@@ -39,8 +38,7 @@ L_t+\[L,M\]=0,且 \(L \phi=\lambda(t) \phi\),则 \(\lambda_t=0\),并且
 
 \(\mathbf{A} =i\lambda \begin{bmatrix}1 & 0 \\0 & -1 \end{bmatrix}\)+\(i \begin{bmatrix}0 & q \\r & 0 \end{bmatrix}\)
 
-\(\mathbf{B} =2i\lambda^2 \begin{bmatrix}1 & 0 \\0 & -1 \end{bmatrix}\)+\(2i\lambda \begin{bmatrix}0 & Q \\R & 0 \end{bmatrix}\)+
-\(\begin{bmatrix}0 & q_x\\-r_x & 0 \end{bmatrix}\)-\(i \begin{bmatrix}rq & 0 \\0 & -rq \end{bmatrix}\)
+\(\mathbf{B} =2i\lambda^2 \begin{bmatrix}1 & 0 \\0 & -1 \end{bmatrix}\)+\(2i\lambda \begin{bmatrix}0 & Q \\R & 0 \end{bmatrix}\)+ \(\begin{bmatrix}0 & q_x\\-r_x & 0 \end{bmatrix}\)-\(i \begin{bmatrix}rq & 0 \\0 & -rq \end{bmatrix}\)
 
   - sine-Gordon方程
 
@@ -72,9 +70,7 @@ L_t+\[L,M\]=0,且 \(L \phi=\lambda(t) \phi\),则 \(\lambda_t=0\),并且
 
 <references/>
 
-  - Inna Shingareva, Carlos Lizarraga-Celaya, Solving Nonlinear Partial
-    Differential Equations with Maple and Mathematica, Springer Wien New
-    York
+  - Inna Shingareva, Carlos Lizarraga-Celaya, Solving Nonlinear Partial Differential Equations with Maple and Mathematica, Springer Wien New York
 
 [Category:非线性偏微分方程](https://zh.wikipedia.org/wiki/Category:非线性偏微分方程 "wikilink")
 
@@ -82,7 +78,6 @@ L_t+\[L,M\]=0,且 \(L \phi=\lambda(t) \phi\),则 \(\lambda_t=0\),并且
 
 2.  Inna p218
 
-3.  Sergyeyev A. "New integrable (3+1)-dimensional systems and contact
-    geometry", Lett. Math. Phys. 108 (2018), no. 2, 359-376,
+3.  Sergyeyev A. "New integrable (3+1)-dimensional systems and contact geometry", Lett. Math. Phys. 108 (2018), no. 2, 359-376,
 
 4.

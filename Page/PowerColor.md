@@ -3,9 +3,7 @@
 
 ## 產品
 
-[PowerColor_Radeon_X850XT_PE.jpg](https://zh.wikipedia.org/wiki/File:PowerColor_Radeon_X850XT_PE.jpg "fig:PowerColor_Radeon_X850XT_PE.jpg")
-[Powercolorx2.JPG](https://zh.wikipedia.org/wiki/File:Powercolorx2.JPG "fig:Powercolorx2.JPG")
-PowerColor原來是[ATI顯示卡的授權製造商](https://zh.wikipedia.org/wiki/ATI "wikilink")，亦即ATI的AIC合作夥伴；ATI被[AMD收購以後繼承原來的身份](https://zh.wikipedia.org/wiki/AMD "wikilink")，現時為AMD的AIC合作廠商。然而，PowerColor亦以「Zogis」品牌製造[NVIDIA的](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。\[2\]\[3\]\[4\]PowerColor大部分的顯示卡實際是由[富士康代工生產](https://zh.wikipedia.org/wiki/富士康 "wikilink")。\[5\]
+[PowerColor_Radeon_X850XT_PE.jpg](https://zh.wikipedia.org/wiki/File:PowerColor_Radeon_X850XT_PE.jpg "fig:PowerColor_Radeon_X850XT_PE.jpg") [Powercolorx2.JPG](https://zh.wikipedia.org/wiki/File:Powercolorx2.JPG "fig:Powercolorx2.JPG") PowerColor原來是[ATI顯示卡的授權製造商](https://zh.wikipedia.org/wiki/ATI "wikilink")，亦即ATI的AIC合作夥伴；ATI被[AMD收購以後繼承原來的身份](https://zh.wikipedia.org/wiki/AMD "wikilink")，現時為AMD的AIC合作廠商。然而，PowerColor亦以「Zogis」品牌製造[NVIDIA的](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。\[2\]\[3\]\[4\]PowerColor大部分的顯示卡實際是由[富士康代工生產](https://zh.wikipedia.org/wiki/富士康 "wikilink")。\[5\]
 
 PowerColor的顯示卡產品主要使用AMD/ATI[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，從入門級消費產品和低階[工作站](../Page/工作站.md "wikilink")平台，到高階遊戲電腦都有產品對應。\[6\]\[7\]PowerColor的板卡製造業務主要由[富士康承接](https://zh.wikipedia.org/wiki/富士康 "wikilink")，使得PowerColor有更多的精力去研發和改進顯示卡的板卡設計，可以在AMD/ATI授權製造公版顯示卡的同時可以開發出更節能的版本，或規格和效能比公版設計更高的[超頻](../Page/超頻.md "wikilink")版/高時脈版本的顯示卡，和PowerColor情況類似的AMD合作廠商還有[藍寶科技](../Page/藍寶科技.md "wikilink")。\[8\]
 
@@ -21,35 +19,25 @@ PowerColor的產品一般提供三年的保固服務。\[11\]
 
 ## 參考資料
 
-[Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink")
-[Category:顯示設備硬體公司](https://zh.wikipedia.org/wiki/Category:顯示設備硬體公司 "wikilink")
-[Category:跨國公司](https://zh.wikipedia.org/wiki/Category:跨國公司 "wikilink")
-[Category:臺灣電腦硬體公司](https://zh.wikipedia.org/wiki/Category:臺灣電腦硬體公司 "wikilink")
+[Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink") [Category:顯示設備硬體公司](https://zh.wikipedia.org/wiki/Category:顯示設備硬體公司 "wikilink") [Category:跨國公司](https://zh.wikipedia.org/wiki/Category:跨國公司 "wikilink") [Category:臺灣電腦硬體公司](https://zh.wikipedia.org/wiki/Category:臺灣電腦硬體公司 "wikilink")
 
 1.  [Dataland | 迪兰恒进官网](http://www.dataland.com.cn/)
 
-2.  [Power Color USA does Nvidia - The
-    Inquirer](http://www.theinquirer.net/default.aspx?article=34404)
+2.  [Power Color USA does Nvidia - The Inquirer](http://www.theinquirer.net/default.aspx?article=34404)
 
 3.  [Press Release](http://www.nvidia.com/object/IO_35375.html)
 
 4.
 
-5.  [Why PowerColor Radeons are different to ATI Radeons - The
-    Inquirer](http://www.theinquirer.net/?article=12997)
+5.  [Why PowerColor Radeons are different to ATI Radeons - The Inquirer](http://www.theinquirer.net/?article=12997)
 
-6.  [Powercolor range stands out from the graphics crowd - The
-    Inquirer](http://www.theinquirer.net/?article=16470)
+6.  [Powercolor range stands out from the graphics crowd - The Inquirer](http://www.theinquirer.net/?article=16470)
 
-7.  [Welcome to the PowerColor World -
-    Products](http://www.powercolor.com/eng/Products.asp)
+7.  [Welcome to the PowerColor World - Products](http://www.powercolor.com/eng/Products.asp)
 
 8.
-9.  [Welcome to the PowerColor World -
-    Awards](http://www.powercolor.com/au/Awards.asp)
+9.  [Welcome to the PowerColor World - Awards](http://www.powercolor.com/au/Awards.asp)
 
-10. [PowerColor Official Website - Graphics, Cases, Power
-    Supply](http://www.powercolor.com/Tw/default.asp)
+10. [PowerColor Official Website - Graphics, Cases, Power Supply](http://www.powercolor.com/Tw/default.asp)
 
-11. [bit-tech.net | Review - PowerColor Radeon X1950
-    Pro 256MB](http://www.bit-tech.net/hardware/2006/10/30/powercolor_radeon_x1950_pro/1)
+11. [bit-tech.net | Review - PowerColor Radeon X1950 Pro 256MB](http://www.bit-tech.net/hardware/2006/10/30/powercolor_radeon_x1950_pro/1)

@@ -1,5 +1,4 @@
-《**ZOO**》是東映ビデオ在2005年3月19日播映的電視電影。原作是[日本小說家](https://zh.wikipedia.org/wiki/日本小說家 "wikilink")[乙一](../Page/乙一.md "wikilink")的[輕小說](../Page/輕小說.md "wikilink")「ZOO」。電影收錄了作品中的五個短篇故事，包括「小飾與陽子」、「SEVEN
-ROOMS」、「SO-far」、「向陽之詩」和「ZOO」。
+《**ZOO**》是東映ビデオ在2005年3月19日播映的電視電影。原作是[日本小說家](https://zh.wikipedia.org/wiki/日本小說家 "wikilink")[乙一](../Page/乙一.md "wikilink")的[輕小說](../Page/輕小說.md "wikilink")「ZOO」。電影收錄了作品中的五個短篇故事，包括「小飾與陽子」、「SEVEN ROOMS」、「SO-far」、「向陽之詩」和「ZOO」。
 
 ## 故事內容
 
@@ -44,11 +43,4 @@ ROOMS」、「SO-far」、「向陽之詩」和「ZOO」。
 
 ビクター/スピードスターレコード
 
-[Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink")
-[Category:2002年小說](https://zh.wikipedia.org/wiki/Category:2002年小說 "wikilink")
-[Category:短篇小說集](https://zh.wikipedia.org/wiki/Category:短篇小說集 "wikilink")
-[Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
-[Category:2005年电影](https://zh.wikipedia.org/wiki/Category:2005年电影 "wikilink")
-[Category:東映電影](https://zh.wikipedia.org/wiki/Category:東映電影 "wikilink")
-[Category:小說改編電影](https://zh.wikipedia.org/wiki/Category:小說改編電影 "wikilink")
-[Category:多段式電影](https://zh.wikipedia.org/wiki/Category:多段式電影 "wikilink")
+[Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink") [Category:2002年小說](https://zh.wikipedia.org/wiki/Category:2002年小說 "wikilink") [Category:短篇小說集](https://zh.wikipedia.org/wiki/Category:短篇小說集 "wikilink") [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink") [Category:2005年电影](https://zh.wikipedia.org/wiki/Category:2005年电影 "wikilink") [Category:東映電影](https://zh.wikipedia.org/wiki/Category:東映電影 "wikilink") [Category:小說改編電影](https://zh.wikipedia.org/wiki/Category:小說改編電影 "wikilink") [Category:多段式電影](https://zh.wikipedia.org/wiki/Category:多段式電影 "wikilink")

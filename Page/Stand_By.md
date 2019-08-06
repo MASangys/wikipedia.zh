@@ -1,11 +1,8 @@
-《**Stand
-By**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2012年4月9日起週一至五晚間7點45分至8點15分播出的日日情境劇。以電視台為背景，講述播音員、綜藝節目導演和編劇的煩惱和愛情。
+《**Stand By**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2012年4月9日起週一至五晚間7點45分至8點15分播出的日日情境劇。以電視台為背景，講述播音員、綜藝節目導演和編劇的煩惱和愛情。
 
 ## 劇情
 
-在連有血緣關係的家庭都難以維持的當今,
-通過這些沒有任何血緣關係的人們過彼此理解和撫慰的過程，重新思索家庭的真正含義。一個很倒霉的播音員不僅晉升很晚，而且本來就要和他結婚的未婚妻死去，只把自己的兒子留給了他。一個女孩愛上了他，還有一個男人事業成功卻非常孤獨。而他們周圍是些努力生活的平凡工薪族。他們向生活在困難時期的人們伸出熱情的雙手，告訴他們不只他們感到艱辛，但這個世界還是值得生活下去。
-\[1\]
+在連有血緣關係的家庭都難以維持的當今, 通過這些沒有任何血緣關係的人們過彼此理解和撫慰的過程，重新思索家庭的真正含義。一個很倒霉的播音員不僅晉升很晚，而且本來就要和他結婚的未婚妻死去，只把自己的兒子留給了他。一個女孩愛上了他，還有一個男人事業成功卻非常孤獨。而他們周圍是些努力生活的平凡工薪族。他們向生活在困難時期的人們伸出熱情的雙手，告訴他們不只他們感到艱辛，但這個世界還是值得生活下去。 \[1\]
 
 ## 出演陣容
 
@@ -160,10 +157,8 @@ By**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 
   - [KBS1](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink")：《[只有你](../Page/只有你_\(2011年電視劇\).md "wikilink")》、《[星星月亮都摘給你](../Page/星星月亮都摘給你.md "wikilink")》
   - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")：《[需要仙女](../Page/需要仙女.md "wikilink")》、《[閉嘴家族](https://zh.wikipedia.org/wiki/閉嘴家族 "wikilink")》
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")：《[我的女兒是花兒](../Page/我的女兒是花兒.md "wikilink")》、《[依然是你](../Page/依然是你.md "wikilink")
-    》
-  - [JTBC](../Page/JTBC.md "wikilink")：《[住在清潭洞](../Page/住在清潭洞.md "wikilink")》
-    </small>
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink")：《[我的女兒是花兒](../Page/我的女兒是花兒.md "wikilink")》、《[依然是你](../Page/依然是你.md "wikilink") 》
+  - [JTBC](../Page/JTBC.md "wikilink")：《[住在清潭洞](../Page/住在清潭洞.md "wikilink")》 </small>
 
 ## 獲獎
 
@@ -179,9 +174,7 @@ By**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 
   - [韓國MBC](http://www.imbc.com/broad/tv/ent/standby/)
 
-[Category:MBC日日情景喜劇](https://zh.wikipedia.org/wiki/Category:MBC日日情景喜劇 "wikilink")
-[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink")
-[Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink")
+[Category:MBC日日情景喜劇](https://zh.wikipedia.org/wiki/Category:MBC日日情景喜劇 "wikilink") [Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink") [Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink")
 
 1.  [MBC官方中文宣傳冊](http://content.mbc.co.kr/program/drama/__icsFiles/afieldfile/2015/05/13/2012Standby.pdf)
 2.  [TNmS 멀티미디어 홈페이지](http://home.tnms.tv/rating/main.asp)

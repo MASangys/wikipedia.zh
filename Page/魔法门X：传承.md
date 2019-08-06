@@ -22,13 +22,9 @@
 
 2006年的《[魔法门之黑暗弥赛亚](../Page/魔法门之黑暗弥赛亚.md "wikilink")》发布后，中国大陆[游侠等游戏论坛以为其系正传魔法门的第十作](../Page/游侠网.md "wikilink")，故译为“魔法门X”。至今仍有很多大陆玩家误称《黑暗弥赛亚》为“魔法门X”。
 
-2009年11月育碧官方论坛上的一个答玩家问的贴子中，育碧公司玩家体验部门经理向玩家透露：公司的战略营销部打算对这些“魔法门”相关游戏进行统一命名，之后的魔法门游戏英文名都会叫“Might
-& Magic \[某某\]”而不会再叫“\[某某\] of Might and
-Magic”；同时，育碧将再也不会发布叫做“魔法门X”（Might
-and Magic X）的游戏，不过类似于《魔法门之黑暗弥赛亚》的RPG魔法门外传依然有可能会出。\[11\]
+2009年11月育碧官方论坛上的一个答玩家问的贴子中，育碧公司玩家体验部门经理向玩家透露：公司的战略营销部打算对这些“魔法门”相关游戏进行统一命名，之后的魔法门游戏英文名都会叫“Might & Magic \[某某\]”而不会再叫“\[某某\] of Might and Magic”；同时，育碧将再也不会发布叫做“魔法门X”（Might and Magic X）的游戏，不过类似于《魔法门之黑暗弥赛亚》的RPG魔法门外传依然有可能会出。\[11\]
 
-2011年初，有爱好者开始计划制作非官方、未获商标权的游戏《魔法门X：虚空之子》（Might & Magic X: Children of
-the Void），目前依然正在制作中。
+2011年初，有爱好者开始计划制作非官方、未获商标权的游戏《魔法门X：虚空之子》（Might & Magic X: Children of the Void），目前依然正在制作中。
 
 2013年3月，育碧改变了先前的品牌营销命名计划，宣布将会发布官方的“魔法门X”，即《魔法门X：传承》。
 
@@ -43,16 +39,7 @@ the Void），目前依然正在制作中。
   - [官方网站](https://web.archive.org/web/20130329104631/http://might-and-magic.ubi.com/mightandmagicx-legacy/en-gb/home/index.aspx)
   - [官方网站](http://mfm.ubisoft.com.cn/)
 
-[Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink")
-[Category:魔法门系列](https://zh.wikipedia.org/wiki/Category:魔法门系列 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:第一人称游戏](https://zh.wikipedia.org/wiki/Category:第一人称游戏 "wikilink")
-[Category:育碧游戏](https://zh.wikipedia.org/wiki/Category:育碧游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
-[Category:Unity引擎游戏](https://zh.wikipedia.org/wiki/Category:Unity引擎游戏 "wikilink")
-[Category:德国开发电子游戏](https://zh.wikipedia.org/wiki/Category:德国开发电子游戏 "wikilink")
+[Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink") [Category:魔法门系列](https://zh.wikipedia.org/wiki/Category:魔法门系列 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:第一人称游戏](https://zh.wikipedia.org/wiki/Category:第一人称游戏 "wikilink") [Category:育碧游戏](https://zh.wikipedia.org/wiki/Category:育碧游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:Unity引擎游戏](https://zh.wikipedia.org/wiki/Category:Unity引擎游戏 "wikilink") [Category:德国开发电子游戏](https://zh.wikipedia.org/wiki/Category:德国开发电子游戏 "wikilink")
 
 1.
 2.

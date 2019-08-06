@@ -1,7 +1,4 @@
-《**Queens are trumps
--王牌皇后-**》是日本女子樂團[SCANDAL第](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")4張的[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2012年9月26日由[Epic
-Records Japan
-Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
+《**Queens are trumps -王牌皇后-**》是日本女子樂團[SCANDAL第](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")4張的[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2012年9月26日由[Epic Records Japan Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 概要
 
@@ -40,8 +37,7 @@ Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
       - RINA則負責[合成器](../Page/合成器.md "wikilink")部分的演奏。
 7.  **聲音** \[4:50\]（-{声}-）
       -
-        作詞・作曲：柳澤亮太（[SUPER
-        BEAVER](../Page/SUPER_BEAVER.md "wikilink")）編曲：川口圭太
+        作詞・作曲：柳澤亮太（[SUPER BEAVER](../Page/SUPER_BEAVER.md "wikilink")）編曲：川口圭太
     <!-- end list -->
       - MAMI擔任本首歌主唱。
 8.  **Rising Star** \[3:32\]
@@ -78,11 +74,7 @@ Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 ## 外部連結
 
   - [完全生產限定盤](http://www.sonymusic.co.jp/Music/Arch/ES/scandal/?ESCL-3971)
-
   - [初回限定盤](http://www.sonymusic.co.jp/Music/Arch/ES/scandal/?ESCL-3973)
-
   - [通常盤](http://www.sonymusic.co.jp/Music/Arch/ES/scandal/?ESCL-3975)
 
-[Category:SCANDAL音樂專輯](https://zh.wikipedia.org/wiki/Category:SCANDAL音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
+[Category:SCANDAL音樂專輯](https://zh.wikipedia.org/wiki/Category:SCANDAL音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")

@@ -1,10 +1,6 @@
-**Fin.K.L**（）是[韓國由四位女生組成的女子流行音樂團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，在1998年5月12日正式出道。初時由四名不同國籍的成員組成，現任成員包括有為韓國籍[李孝利](../Page/李孝利.md "wikilink")、[玉珠鉉](../Page/玉珠鉉.md "wikilink")、[李真及德韓雙籍](../Page/李真_\(韓國藝人\).md "wikilink")[成宥利](../Page/成宥利.md "wikilink")。FIN.K.L是「Fine
-Killing Liberty」的縮寫。Fin字在法文中是「結束」的意思，而Killing
-liberty則是英文的「扼殺自由」，結合了法文及英文的團名，就是「釋放自由」，為[DSP
-Media策劃的第一個女子團體](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")。在1998年9月5日SBS播出的人氣歌謠中獲得初一位。1999年4月正式成立了歌迷會名稱為FINKY，代表色為紅色。
+**Fin.K.L**（）是[韓國由四位女生組成的女子流行音樂團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，在1998年5月12日正式出道。初時由四名不同國籍的成員組成，現任成員包括有為韓國籍[李孝利](../Page/李孝利.md "wikilink")、[玉珠鉉](../Page/玉珠鉉.md "wikilink")、[李真及德韓雙籍](../Page/李真_\(韓國藝人\).md "wikilink")[成宥利](../Page/成宥利.md "wikilink")。FIN.K.L是「Fine Killing Liberty」的縮寫。Fin字在法文中是「結束」的意思，而Killing liberty則是英文的「扼殺自由」，結合了法文及英文的團名，就是「釋放自由」，為[DSP Media策劃的第一個女子團體](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")。在1998年9月5日SBS播出的人氣歌謠中獲得初一位。1999年4月正式成立了歌迷會名稱為FINKY，代表色為紅色。
 
-2002年， [DSP
-Media宣佈Fin](https://zh.wikipedia.org/wiki/DSP_Media "wikilink").K.L成員單飛，但未宣佈解散团体。
+2002年， [DSP Media宣佈Fin](https://zh.wikipedia.org/wiki/DSP_Media "wikilink").K.L成員單飛，但未宣佈解散团体。
 
 ## 成員資料
 
@@ -56,8 +52,4 @@ Media宣佈Fin](https://zh.wikipedia.org/wiki/DSP_Media "wikilink").K.L成員單
   - 2001年：KBS歌謠大戰本獎
   - 2001年：MBC歌謠決戰本獎
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:1998年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1998年成立的音樂團體 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:1998年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1998年成立的音樂團體 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")

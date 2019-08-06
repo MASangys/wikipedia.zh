@@ -4,8 +4,7 @@
 
 IdeaPad笔记本电脑最先在2008年1月推出。\[1\]第一个产品线中的三个型号分别为Y710，Y510，U110。这些型号特点都是宽屏，支持人脸识别，无框屏幕，触摸控制，[杜比扬声器系统](../Page/杜比實驗室.md "wikilink")。\[2\]
 
-IdeaPad的设计标志着联想偏离了面向企业的ThinkPad笔记本电脑，迈向更加以消费者为导向的外观和感觉。\[3\]其主要体现在使用镜面屏以及不再具有传统的ThinkPad[轨迹球](../Page/轨迹球.md "wikilink")。\[4\]Notebook
-Review称其键盘有“独特的ThinkPad的感觉”和“平稳灵敏的触摸板和触摸板按钮”。\[5\]
+IdeaPad的设计标志着联想偏离了面向企业的ThinkPad笔记本电脑，迈向更加以消费者为导向的外观和感觉。\[3\]其主要体现在使用镜面屏以及不再具有传统的ThinkPad[轨迹球](../Page/轨迹球.md "wikilink")。\[4\]Notebook Review称其键盘有“独特的ThinkPad的感觉”和“平稳灵敏的触摸板和触摸板按钮”。\[5\]
 
 ## 系列
 
@@ -67,10 +66,7 @@ Review称其键盘有“独特的ThinkPad的感觉”和“平稳灵敏的触摸
 
   - U110
   - U160
-  - U165 （CPU:[Athlon II
-    Neo](https://zh.wikipedia.org/wiki/Athlon_II_Neo "wikilink")
-    K325，[内存](https://zh.wikipedia.org/wiki/内存 "wikilink"):2GB，[硬盘](../Page/硬盘.md "wikilink"):250GB，[芯片组](../Page/芯片组.md "wikilink"):AMD
-    M880G）
+  - U165 （CPU:[Athlon II Neo](https://zh.wikipedia.org/wiki/Athlon_II_Neo "wikilink") K325，[内存](https://zh.wikipedia.org/wiki/内存 "wikilink"):2GB，[硬盘](../Page/硬盘.md "wikilink"):250GB，[芯片组](../Page/芯片组.md "wikilink"):AMD M880G）
   - U330
   - U350
   - U450p
@@ -87,16 +83,11 @@ Review称其键盘有“独特的ThinkPad的感觉”和“平稳灵敏的触摸
 
 ### K系列（[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")）
 
-  - K1（10.1型,
-    CPU:[Tegra](https://zh.wikipedia.org/wiki/NVIDIA_Tegra "wikilink"),
-    RAM:1GB,
-    [SSD](https://zh.wikipedia.org/wiki/Flash_SSD "wikilink"):32GB）
+  - K1（10.1型, CPU:[Tegra](https://zh.wikipedia.org/wiki/NVIDIA_Tegra "wikilink"), RAM:1GB, [SSD](https://zh.wikipedia.org/wiki/Flash_SSD "wikilink"):32GB）
 
 ### A系列（[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")）
 
-  - A1（7型,
-    CPU:[OMAP](https://zh.wikipedia.org/wiki/Texas_Instruments_OMAP "wikilink")
-    3622, RAM:512MB, SSD:16GB）
+  - A1（7型, CPU:[OMAP](https://zh.wikipedia.org/wiki/Texas_Instruments_OMAP "wikilink") 3622, RAM:512MB, SSD:16GB）
 
 ## 参见
 
@@ -110,8 +101,7 @@ Review称其键盘有“独特的ThinkPad的感觉”和“平稳灵敏的触摸
 
   - [联想中国_ideapad](http://appserver.lenovo.com.cn/Lenovo_Brand_List.aspx?CategoryID=1)
 
-[Category:2008年面世的產品](https://zh.wikipedia.org/wiki/Category:2008年面世的產品 "wikilink")
-[Category:联想笔记本电脑](https://zh.wikipedia.org/wiki/Category:联想笔记本电脑 "wikilink")
+[Category:2008年面世的產品](https://zh.wikipedia.org/wiki/Category:2008年面世的產品 "wikilink") [Category:联想笔记本电脑](https://zh.wikipedia.org/wiki/Category:联想笔记本电脑 "wikilink")
 
 1.
 

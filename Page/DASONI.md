@@ -1,5 +1,4 @@
-**DASONI**（）為韓國女子組合[EXID首個子團體](https://zh.wikipedia.org/wiki/EXID "wikilink")，成員包括[率智](../Page/率智.md "wikilink")及[哈妮](https://zh.wikipedia.org/wiki/安喜延 "wikilink")。於2013年2月15日以首張單曲《Good
-Bye》出道，同年3月15日發行第二張單曲《Stage Of The 70's》，主打曲為〈Said So Often（아주 흔한 말）〉。
+**DASONI**（）為韓國女子組合[EXID首個子團體](https://zh.wikipedia.org/wiki/EXID "wikilink")，成員包括[率智](../Page/率智.md "wikilink")及[哈妮](https://zh.wikipedia.org/wiki/安喜延 "wikilink")。於2013年2月15日以首張單曲《Good Bye》出道，同年3月15日發行第二張單曲《Stage Of The 70's》，主打曲為〈Said So Often（아주 흔한 말）〉。
 
 ## 成員資料
 
@@ -72,14 +71,8 @@ Bye》出道，同年3月15日發行第二張單曲《Stage Of The 70's》，主
 
   -
   -
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
 
 1.  [news of EXID members](http://kpopn.com/2012/04/01/114456/)
-2.  [news of the
-    members](http://xportsnews.hankyung.com/?ac=article_view&entry_id=254176)
-
-3.  [NAVER
-    MUSIC-DASONI](http://music.naver.com/artist/home.nhn?artistId=259183)
+2.  [news of the members](http://xportsnews.hankyung.com/?ac=article_view&entry_id=254176)
+3.  [NAVER MUSIC-DASONI](http://music.naver.com/artist/home.nhn?artistId=259183)

@@ -2,18 +2,13 @@
 
 ## 游戏玩法
 
-《Joker
-2》的游戏玩法和前作相近。玩家探索世界并驯养加入队伍的野生怪物。怪物以[回合制方式战斗并能生长强壮](https://zh.wikipedia.org/wiki/回合制 "wikilink")。战斗系统本身和之前的勇者斗恶龙怪兽篇游戏非常相似。玩家控制最多三个怪物并组成队，并进而以直接指挥它们或是从四种人工智能设定中选择一种。除了使用道具外，主角不能直接参加战斗。《Joker
-2》中出现了311种怪物，其中包括来自[勇者斗恶龙游戏](https://zh.wikipedia.org/wiki/勇者斗恶龙 "wikilink")，以及《[勇者斗恶龙怪兽篇
-特瑞仙境](../Page/勇者斗恶龙怪兽篇_特瑞仙境.md "wikilink")》中首次出现的新怪物\[2\]。这是继《Joker》后，系列第二款支持[Wi-Fi](../Page/Wi-Fi.md "wikilink")的游戏，同时这也是第一款支持玩家直接对战的游戏。
+《Joker 2》的游戏玩法和前作相近。玩家探索世界并驯养加入队伍的野生怪物。怪物以[回合制方式战斗并能生长强壮](https://zh.wikipedia.org/wiki/回合制 "wikilink")。战斗系统本身和之前的勇者斗恶龙怪兽篇游戏非常相似。玩家控制最多三个怪物并组成队，并进而以直接指挥它们或是从四种人工智能设定中选择一种。除了使用道具外，主角不能直接参加战斗。《Joker 2》中出现了311种怪物，其中包括来自[勇者斗恶龙游戏](https://zh.wikipedia.org/wiki/勇者斗恶龙 "wikilink")，以及《[勇者斗恶龙怪兽篇 特瑞仙境](../Page/勇者斗恶龙怪兽篇_特瑞仙境.md "wikilink")》中首次出现的新怪物\[2\]。这是继《Joker》后，系列第二款支持[Wi-Fi](../Page/Wi-Fi.md "wikilink")的游戏，同时这也是第一款支持玩家直接对战的游戏。
 
-史克威尔艾尼克斯在2011年3月31日发行了《Joker 2
-专家版》。《专家版》新增了100多种怪兽，以及新地点和能力，但是剧情没有变化。玩家可以从原版游戏中导入他们的旧怪兽\[3\]。
+史克威尔艾尼克斯在2011年3月31日发行了《Joker 2 专家版》。《专家版》新增了100多种怪兽，以及新地点和能力，但是剧情没有变化。玩家可以从原版游戏中导入他们的旧怪兽\[3\]。
 
 ### 联机
 
-《Joker
-2》具有Wi-Fi支持功能，史克威尔艾尼克斯宣称最多同时允许八个玩家互相连接到对方\[4\]。玩家可以实时与其他玩家怪物组成的队伍对战\[5\]。游戏还会记录最佳玩家进入排行榜的路线。
+《Joker 2》具有Wi-Fi支持功能，史克威尔艾尼克斯宣称最多同时允许八个玩家互相连接到对方\[4\]。玩家可以实时与其他玩家怪物组成的队伍对战\[5\]。游戏还会记录最佳玩家进入排行榜的路线。
 
 ## 评价
 
@@ -26,11 +21,7 @@
   - [官方网站](http://www.dqm-j2.com/)
   - [北美官方站点](https://web.archive.org/web/20110923143105/http://dqm2.nintendo.com/)
 
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink")
-[Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink")
+[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink") [Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink")
 
 1.
 

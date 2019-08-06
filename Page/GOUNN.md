@@ -15,8 +15,7 @@
         作詞：、作曲：[Shihori](../Page/Shihori.md "wikilink")（）、編曲：木村篤史
 2.  **你之前给的**（）
       -
-        作詞:桃色幸運草Z &
-        [miwa](https://zh.wikipedia.org/wiki/miwa "wikilink")、作曲:miwa、編曲：
+        作詞:桃色幸運草Z & [miwa](https://zh.wikipedia.org/wiki/miwa "wikilink")、作曲:miwa、編曲：
 3.  GOUNN（off vocal ver.）
 4.  你之前给的（off vocal ver.）
 
@@ -48,10 +47,8 @@
 
 **你之前给的**
 
-  - [A.Guitar](../Page/原聲吉他.md "wikilink") &
-    Chorus：[miwa](https://zh.wikipedia.org/wiki/miwa "wikilink")
-  - [E.Guitar](../Page/电吉他.md "wikilink"), Other Instruments &
-    Programming :
+  - [A.Guitar](../Page/原聲吉他.md "wikilink") & Chorus：[miwa](https://zh.wikipedia.org/wiki/miwa "wikilink")
+  - [E.Guitar](../Page/电吉他.md "wikilink"), Other Instruments & Programming :
 
 **桃色太鼓的DO-DON节奏**
 
@@ -69,10 +66,7 @@
 ### 音樂影片
 
   -
-[Category:桃色幸运草Z歌曲](https://zh.wikipedia.org/wiki/Category:桃色幸运草Z歌曲 "wikilink")
-[Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
+[Category:桃色幸运草Z歌曲](https://zh.wikipedia.org/wiki/Category:桃色幸运草Z歌曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
 
 1.
 2.

@@ -1,15 +1,8 @@
-《Hero》是韓國演唱團體[Super
-Junior的第一張日語正規專輯](../Page/Super_Junior.md "wikilink")，於2013年7月24日發行。\[1\]\[2\]專輯一發行便登上日本[Oricon](../Page/Oricon.md "wikilink")公信榜專輯日榜首位。\[3\]
+《Hero》是韓國演唱團體[Super Junior的第一張日語正規專輯](../Page/Super_Junior.md "wikilink")，於2013年7月24日發行。\[1\]\[2\]專輯一發行便登上日本[Oricon](../Page/Oricon.md "wikilink")公信榜專輯日榜首位。\[3\]
 
 ## 簡介
 
-專輯《Hero》收錄Super
-Junior的第1至第4張日文單曲主打歌（[Bonamana](../Page/Bonamana_\(單曲\).md "wikilink")、[Mr.
-Simple](https://zh.wikipedia.org/wiki/Mr._Simple_\(單曲\) "wikilink")、[Opera](../Page/Opera_\(單曲\).md "wikilink")、[Sexy,
-Free &
-Single](../Page/Sexy,_Free_&_Single_\(單曲\).md "wikilink")），以及的B面曲「[Way](../Page/Opera_\(單曲\).md "wikilink")」、「[Our
-Love](../Page/Sexy,_Free_&_Single_\(單曲\).md "wikilink")」，共4首A面曲和2首B面曲。新曲「A-CHA」是Super
-Junior第五張正規專輯的改版專輯《[A-CHA](../Page/Mr._Simple.md "wikilink")》主打歌曲《A-CHA》的日語版本。新曲「**Hero**」為此專輯的主打曲目。
+專輯《Hero》收錄Super Junior的第1至第4張日文單曲主打歌（[Bonamana](../Page/Bonamana_\(單曲\).md "wikilink")、[Mr. Simple](https://zh.wikipedia.org/wiki/Mr._Simple_\(單曲\) "wikilink")、[Opera](../Page/Opera_\(單曲\).md "wikilink")、[Sexy, Free & Single](../Page/Sexy,_Free_&_Single_\(單曲\).md "wikilink")），以及的B面曲「[Way](../Page/Opera_\(單曲\).md "wikilink")」、「[Our Love](../Page/Sexy,_Free_&_Single_\(單曲\).md "wikilink")」，共4首A面曲和2首B面曲。新曲「A-CHA」是Super Junior第五張正規專輯的改版專輯《[A-CHA](../Page/Mr._Simple.md "wikilink")》主打歌曲《A-CHA》的日語版本。新曲「**Hero**」為此專輯的主打曲目。
 
 專輯分為「2CD+DVD」、「CD Only」和「CD+DVD＜E.L.F-JAPAN限定＞」3種版本。
 
@@ -72,9 +65,7 @@ Junior第五張正規專輯的改版專輯《[A-CHA](../Page/Mr._Simple.md "wiki
 
   - [Super Junior 日本官方網站](http://superjunior-jp.net/)
 
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:Super_Junior音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior音樂專輯 "wikilink")
+[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:Super_Junior音樂專輯](https://zh.wikipedia.org/wiki/Category:Super_Junior音樂專輯 "wikilink")
 
 1.
 

@@ -1,6 +1,4 @@
-[MEGA_Plus.jpg](https://zh.wikipedia.org/wiki/File:MEGA_Plus.jpg "fig:MEGA_Plus.jpg")
-**MEGA
-Plus**為[新意網](../Page/新意網.md "wikilink")旗下位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[西貢區](../Page/西貢區.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")第85區[環保大道](../Page/環保大道.md "wikilink")299號一幅1.03[公頃的土地上高端](https://zh.wikipedia.org/wiki/公頃 "wikilink")[數據中心](https://zh.wikipedia.org/wiki/數據中心 "wikilink")，樓面面積逾47萬平方呎，高度限制在主水平基準以上60米，於2017年落成。
+[MEGA_Plus.jpg](https://zh.wikipedia.org/wiki/File:MEGA_Plus.jpg "fig:MEGA_Plus.jpg") **MEGA Plus**為[新意網](../Page/新意網.md "wikilink")旗下位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[西貢區](../Page/西貢區.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")第85區[環保大道](../Page/環保大道.md "wikilink")299號一幅1.03[公頃的土地上高端](https://zh.wikipedia.org/wiki/公頃 "wikilink")[數據中心](https://zh.wikipedia.org/wiki/數據中心 "wikilink")，樓面面積逾47萬平方呎，高度限制在主水平基準以上60米，於2017年落成。
 
 ## 沿革
 
@@ -24,19 +22,11 @@ Plus**為[新意網](../Page/新意網.md "wikilink")旗下位於[香港](../Pag
 
 [Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink")
 
-1.  [高緯環球：香港蟬聯亞太區數據中心最佳選址](http://www.finet.hk/mainsite/newscenter/PRNCN/0/201209180133188b3733xprbgs.html)
-    《華財華網》 2012年9月21日
-2.  [將軍澳擬建高端數據中心](http://orientaldaily.on.cc/cnt/news/20120921/00176_066.html)
-    《東方日報》 2012年9月21日
-3.  [政府三招催谷數據中心](http://news.sina.com.hk/news/5/1/1/2695538/1.html)
-    《星島日報》 2012年6月19日
-4.  [數據中心專用地明夏推出](http://www.singtao.com/yesterday/loc/0618ao09.html)
-    《星島日報》 2012年6月18日
-5.  [將軍澳數據中心地今午截標](http://hk.news.yahoo.com/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%9C%B0%E4%BB%8A%E5%8D%88%E6%88%AA%E6%A8%99-031400470.html)
-    《星島日報》 2013年10月4日
-6.  [將軍澳數據中心地皮接5份標書](http://hk.news.yahoo.com/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%9C%B0%E7%9A%AE%E6%8E%A55%E4%BB%BD%E6%A8%99%E6%9B%B8-091400998.html)
-    《星島日報》 2013年10月4日
-7.  [新意網4.28億低價奪數據中心地](http://hk.news.yahoo.com/%E6%96%B0%E6%84%8F%E7%B6%B24-28%E5%84%84%E4%BD%8E%E5%83%B9%E5%A5%AA%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%9C%B0-214600684.html)
-    《星島日報》 2013年10月9日
-8.  [數據中心地以4.28億批出](http://hk.news.yahoo.com/%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%9C%B0%E4%BB%A54-28%E5%84%84%E6%89%B9%E5%87%BA-094900956.html)
-    《星島日報》 2013年10月9日
+1.  [高緯環球：香港蟬聯亞太區數據中心最佳選址](http://www.finet.hk/mainsite/newscenter/PRNCN/0/201209180133188b3733xprbgs.html) 《華財華網》 2012年9月21日
+2.  [將軍澳擬建高端數據中心](http://orientaldaily.on.cc/cnt/news/20120921/00176_066.html) 《東方日報》 2012年9月21日
+3.  [政府三招催谷數據中心](http://news.sina.com.hk/news/5/1/1/2695538/1.html)  《星島日報》 2012年6月19日
+4.  [數據中心專用地明夏推出](http://www.singtao.com/yesterday/loc/0618ao09.html) 《星島日報》 2012年6月18日
+5.  [將軍澳數據中心地今午截標](http://hk.news.yahoo.com/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%9C%B0%E4%BB%8A%E5%8D%88%E6%88%AA%E6%A8%99-031400470.html) 《星島日報》 2013年10月4日
+6.  [將軍澳數據中心地皮接5份標書](http://hk.news.yahoo.com/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%9C%B0%E7%9A%AE%E6%8E%A55%E4%BB%BD%E6%A8%99%E6%9B%B8-091400998.html) 《星島日報》 2013年10月4日
+7.  [新意網4.28億低價奪數據中心地](http://hk.news.yahoo.com/%E6%96%B0%E6%84%8F%E7%B6%B24-28%E5%84%84%E4%BD%8E%E5%83%B9%E5%A5%AA%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%9C%B0-214600684.html) 《星島日報》 2013年10月9日
+8.  [數據中心地以4.28億批出](http://hk.news.yahoo.com/%E6%95%B8%E6%93%9A%E4%B8%AD%E5%BF%83%E5%9C%B0%E4%BB%A54-28%E5%84%84%E6%89%B9%E5%87%BA-094900956.html) 《星島日報》 2013年10月9日

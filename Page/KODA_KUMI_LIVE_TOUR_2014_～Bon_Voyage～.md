@@ -1,12 +1,9 @@
-《**KODA KUMI LIVE TOUR 2014 ～Bon Voyage～**》（倖田來未 2014巡迴演唱會
-～倖感旅程～）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2014年在[日本](../Page/日本.md "wikilink")、[台灣舉行的巡迴演唱會](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
+《**KODA KUMI LIVE TOUR 2014 ～Bon Voyage～**》（倖田來未 2014巡迴演唱會 ～倖感旅程～）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2014年在[日本](../Page/日本.md "wikilink")、[台灣舉行的巡迴演唱會](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 
 ## 簡介
 
-  - 內容主要以專輯《[Bon
-    Voyage](../Page/Bon_Voyage_\(倖田來未專輯\).md "wikilink")》，場地為HALL型演唱會，主題為「豪華客輪的航海」\[1\]，本次巡迴場次51場\[2\]共動員13萬人。
-  - 演唱會於2014年3月12日在大阪Festival
-    Hall開始至同年8月16日於台灣台北[南港101文創會館閉幕](https://zh.wikipedia.org/wiki/南港101文創會館 "wikilink")，此為倖田首次將台灣納入巡迴演唱會的日程並把台灣作為最終場，倖田表示他實現了對歌迷的承諾\[3\]，另將於歌迷應募中抽選出兩組四名的粉絲招待他們免費到台灣參加演唱會。
+  - 內容主要以專輯《[Bon Voyage](../Page/Bon_Voyage_\(倖田來未專輯\).md "wikilink")》，場地為HALL型演唱會，主題為「豪華客輪的航海」\[1\]，本次巡迴場次51場\[2\]共動員13萬人。
+  - 演唱會於2014年3月12日在大阪Festival Hall開始至同年8月16日於台灣台北[南港101文創會館閉幕](https://zh.wikipedia.org/wiki/南港101文創會館 "wikilink")，此為倖田首次將台灣納入巡迴演唱會的日程並把台灣作為最終場，倖田表示他實現了對歌迷的承諾\[3\]，另將於歌迷應募中抽選出兩組四名的粉絲招待他們免費到台灣參加演唱會。
   - 影音作品將收錄5月11日於神戶的神戶國際會館場次\[4\]。
   - 台灣最終場於5月8日開始販售演唱會票券，最終全數售鑿。
 
@@ -38,8 +35,7 @@
 10. 戀愛花蕾
 11. Special Medley
       -
-        (real Emotion 真實情感/ LAST ANGLE / Go to the top / Crazy 4 U /
-        Gentle Words 柔情細語 / 唯有你 / TAKE BACK 原來的我 / TABOO 禁忌 / Lady Go\!)
+        (real Emotion 真實情感/ LAST ANGLE / Go to the top / Crazy 4 U / Gentle Words 柔情細語 / 唯有你 / TAKE BACK 原來的我 / TABOO 禁忌 / Lady Go\!)
         〈第3幕〉
 12. Crank Tha Bass feat.OVDS
 13. TOUCH DOWN
@@ -116,8 +112,7 @@
 
 ### 簡介
 
-  - 本次的LIVE DVD名稱特別改為「Koda Kumi Hall Tour 2014 \~Bon
-    Voyage\~」，特別強調Hall場地與觀眾的互動感。
+  - 本次的LIVE DVD名稱特別改為「Koda Kumi Hall Tour 2014 \~Bon Voyage\~」，特別強調Hall場地與觀眾的互動感。
 
 ### 發行版本
 
@@ -155,8 +150,7 @@
       -
         \-Band Introduce-
 10. 戀愛花蕾
-11. Special Medley（real Emotion〜LAST ANGEL〜Go to the top〜Crazy 4
-    U〜Gentle Words〜あなただけが〜TAKE BACK〜TABOO〜Lady Go\!）
+11. Special Medley（real Emotion〜LAST ANGEL〜Go to the top〜Crazy 4 U〜Gentle Words〜あなただけが〜TAKE BACK〜TABOO〜Lady Go\!）
       -
         ＜INTERLUDE MOVIE 2＞
 12. Crank Tha Bass
@@ -182,8 +176,7 @@
 
 \#:【BONUS MOVIE】
 
-1.  MONEY IN MY BAG LIVE MOVIE(New Song Performed in 2014.8.2@ Kobe
-    Kokusai Kaikan)
+1.  MONEY IN MY BAG LIVE MOVIE(New Song Performed in 2014.8.2@ Kobe Kokusai Kaikan)
 2.  Crank Tha Bass LIVE BACKGROUND MOVIE
 3.  Koda Kumi HALL TOUR 2014 \~Bon Voyage\~ document real
 

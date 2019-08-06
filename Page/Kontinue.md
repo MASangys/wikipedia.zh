@@ -1,13 +1,10 @@
-《**KONTINUE**》
-是香港女歌手[謝安琪](../Page/謝安琪.md "wikilink")第十二張個人專輯，亦為其久違三年的廣東大碟。於2014年9月29日正式發行，收錄十一首歌曲。\[1\]
+《**KONTINUE**》 是香港女歌手[謝安琪](../Page/謝安琪.md "wikilink")第十二張個人專輯，亦為其久違三年的廣東大碟。於2014年9月29日正式發行，收錄十一首歌曲。\[1\]
 
-唱片發行首周即空降所有本地實體唱片銷售榜冠軍，包括**香港唱片商會銷量榜冠軍**，**香港[HMV](../Page/HMV.md "wikilink")冠軍**，**香港唱片排行榜冠軍**，**CD
-Warehouse冠軍**及**Sky Music冠軍**。
+唱片發行首周即空降所有本地實體唱片銷售榜冠軍，包括**香港唱片商會銷量榜冠軍**，**香港[HMV](../Page/HMV.md "wikilink")冠軍**，**香港唱片排行榜冠軍**，**CD Warehouse冠軍**及**Sky Music冠軍**。
 
 而網上音樂商店方面，以KKBOX為例，派台首日而登上專輯榜冠軍，《**KONTINUE**》中11首歌曲亦全數上榜，成績優異。
 
-其中，派台作品《[最好的時刻](../Page/最好的時刻.md "wikilink")》、《[勢不兩立](../Page/勢不兩立_\(謝安琪歌曲\).md "wikilink")》及《[獨家村](../Page/獨家村.md "wikilink")》均成為四大電子傳媒流行榜的共同冠軍作品，使《**KONTINUE**》成為2010代首隻**一碟三曲四台共同冠軍**的廣東專輯，是繼[容祖兒在](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")2006年憑年尾推出的廣東大碟《[**Close
-Up**](https://zh.wikipedia.org/wiki/Close_Up_\(容祖兒專輯\) "wikilink")》奪得一碟三曲四台共同冠軍以來，首次有香港歌手有如此佳績。随后在[2014年度勁歌金曲颁奖典礼上](../Page/2014年度勁歌金曲得獎名單.md "wikilink")，《[勢不兩立](../Page/勢不兩立_\(謝安琪歌曲\).md "wikilink")》和《[獨家村](../Page/獨家村.md "wikilink")》分别都获得了劲歌金曲奖，联同2013年度的《[最好的時刻](../Page/最好的時刻.md "wikilink")》，使得此专辑成为**劲歌金曲至今为止获得最多歌曲奖的唱片(三首)**。
+其中，派台作品《[最好的時刻](../Page/最好的時刻.md "wikilink")》、《[勢不兩立](../Page/勢不兩立_\(謝安琪歌曲\).md "wikilink")》及《[獨家村](../Page/獨家村.md "wikilink")》均成為四大電子傳媒流行榜的共同冠軍作品，使《**KONTINUE**》成為2010代首隻**一碟三曲四台共同冠軍**的廣東專輯，是繼[容祖兒在](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")2006年憑年尾推出的廣東大碟《[**Close Up**](https://zh.wikipedia.org/wiki/Close_Up_\(容祖兒專輯\) "wikilink")》奪得一碟三曲四台共同冠軍以來，首次有香港歌手有如此佳績。随后在[2014年度勁歌金曲颁奖典礼上](../Page/2014年度勁歌金曲得獎名單.md "wikilink")，《[勢不兩立](../Page/勢不兩立_\(謝安琪歌曲\).md "wikilink")》和《[獨家村](../Page/獨家村.md "wikilink")》分别都获得了劲歌金曲奖，联同2013年度的《[最好的時刻](../Page/最好的時刻.md "wikilink")》，使得此专辑成为**劲歌金曲至今为止获得最多歌曲奖的唱片(三首)**。
 
 唱片推出34日，旋即奪得「**新城勁爆年度專輯大獎**」，後再奪「**香港樂評選′2014年度唱片**」、「**第15屆華語音樂傳媒年度粵語專輯**」等大獎；並成為「**[香港樂評選](../Page/香港樂評選.md "wikilink")′2014年度女歌手**」、「**第15屆華語音樂傳媒最佳粵語女歌手**」。
 
@@ -216,11 +213,9 @@ KKBOX 本地單曲週榜 Top 100
 
 ### 專輯獎
 
-  - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    **新城勁爆年度專輯大獎**
+  - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") - **新城勁爆年度專輯大獎**
   - [YAHOO\!搜尋人氣大獎2014](../Page/2014年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")－人氣大碟
-  - [第15屆華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink") -
-    年度粵語專輯
+  - [第15屆華語音樂傳媒大獎](https://zh.wikipedia.org/wiki/華語音樂傳媒大獎 "wikilink") - 年度粵語專輯
   - 華語金曲獎2015 - 十大粵語唱片《Kontinue》
   - 華語金曲獎2015 - **年度最佳粵語專輯《Kontinue》**
   - 第三屆[香港樂評選](../Page/香港樂評選.md "wikilink") - **年度唱片《Kontinue》**
@@ -229,18 +224,14 @@ KKBOX 本地單曲週榜 Top 100
 
   - [2014勁歌金曲優秀選第二回](../Page/2014年勁歌金曲優秀選第二回得獎名單.md "wikilink") - 得獎歌曲
   - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲
-  - [2014年度叱咤樂壇流行榜頒獎典禮](../Page/2014年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    專業推介 叱咤十大 第六位
+  - [2014年度叱咤樂壇流行榜頒獎典禮](../Page/2014年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 專業推介 叱咤十大 第六位
   - [第三十七屆十大中文金曲頒獎音樂會](../Page/第三十七屆十大中文金曲得獎名單.md "wikilink") - 十大中文金曲獎
-  - [第三十七屆十大中文金曲頒獎音樂會](../Page/第三十七屆十大中文金曲得獎名單.md "wikilink") -
-    **全球華人至尊金曲獎**
+  - [第三十七屆十大中文金曲頒獎音樂會](../Page/第三十七屆十大中文金曲得獎名單.md "wikilink") - **全球華人至尊金曲獎**
   - 「加拿大至HIT中文歌曲排行榜 2014年度總選」 - 全國推崇十大歌曲（粵語）《獨家村》
   - [2014年度勁歌金曲頒獎典禮](../Page/2014年度勁歌金曲得獎名單.md "wikilink") - 勁歌金曲獎
-  - [第十屆勁歌王金曲金榜全球華人音樂盛典](https://zh.wikipedia.org/wiki/「勁歌王」全球華人樂壇音樂盛典 "wikilink")
-    - 勁歌王（粵語）金曲獎
+  - [第十屆勁歌王金曲金榜全球華人音樂盛典](https://zh.wikipedia.org/wiki/「勁歌王」全球華人樂壇音樂盛典 "wikilink") - 勁歌王（粵語）金曲獎
   - 華語金曲獎2015 - 十大粵語歌曲《獨家村》
-  - [2015 CASH金帆音樂獎](https://zh.wikipedia.org/wiki/CASH金帆音樂獎 "wikilink")
-    - 最佳女歌手演繹獎（流行音樂）《獨家村》
+  - [2015 CASH金帆音樂獎](https://zh.wikipedia.org/wiki/CASH金帆音樂獎 "wikilink") - 最佳女歌手演繹獎（流行音樂）《獨家村》
   - [第十五屆全球華語歌曲排行榜頒獎禮](../Page/全球華語歌曲排行榜.md "wikilink") - 年度二十大金曲《獨家村》
 
 ### 《最好的時刻》
@@ -249,8 +240,7 @@ KKBOX 本地單曲週榜 Top 100
   - [新城勁爆頒獎禮2013](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆歌曲
   - [2013年度勁歌金曲頒獎典禮](../Page/2013年度勁歌金曲得獎名單.md "wikilink") - 勁歌金曲獎 第十二位
   - [第三十六屆十大中文金曲頒獎音樂會](../Page/第三十六屆十大中文金曲得獎名單.md "wikilink") - 十大中文金曲獎
-  - [YAHOO\!搜尋人氣大獎2013](../Page/2013年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") -
-    人氣歌曲
+  - [YAHOO\!搜尋人氣大獎2013](../Page/2013年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") - 人氣歌曲
 
 ### 《勢不兩立》
 
@@ -271,9 +261,7 @@ KKBOX 本地單曲週榜 Top 100
 
 </div>
 
-[Category:謝安琪音樂專輯](https://zh.wikipedia.org/wiki/Category:謝安琪音樂專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:謝安琪音樂專輯](https://zh.wikipedia.org/wiki/Category:謝安琪音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.
 2.  [KKBOX 本地專輯周榜](http://www.kkbox.com/hk/tc/index.html)
@@ -288,17 +276,13 @@ KKBOX 本地單曲週榜 Top 100
 
 7.  [台灣佳佳唱片排行榜](https://www.ccr.com.tw/charts.php?t=1)
 
-8.  [KKBOX
-    本地專輯週榜](http://www.kkbox.com/hk/tc/charts/cantonese-weekly-album-latest.html)
+8.  [KKBOX 本地專輯週榜](http://www.kkbox.com/hk/tc/charts/cantonese-weekly-album-latest.html)
 
-9.  [KKBOX
-    本地專輯日榜](http://www.kkbox.com/hk/tc/charts/cantonese-daily-album-latest.html)
+9.  [KKBOX 本地專輯日榜](http://www.kkbox.com/hk/tc/charts/cantonese-daily-album-latest.html)
 
-10. [KKBOX
-    本地單曲日榜](http://www.kkbox.com/hk/tc/charts/cantonese-daily-song-latest.html)
+10. [KKBOX 本地單曲日榜](http://www.kkbox.com/hk/tc/charts/cantonese-daily-song-latest.html)
 
-11. [KKBOX
-    本地單曲週榜](http://www.kkbox.com/hk/tc/charts/cantonese-weekly-song-latest.html)
+11. [KKBOX 本地單曲週榜](http://www.kkbox.com/hk/tc/charts/cantonese-weekly-song-latest.html)
 
 12.
 13.

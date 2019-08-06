@@ -2,24 +2,17 @@
 
 相較於臺灣的[金曲獎](../Page/金曲獎.md "wikilink")音樂評審團制度，[HITO流行音樂獎的各獎項是以](https://zh.wikipedia.org/wiki/HITO流行音樂獎 "wikilink")「唱片行銷售量」、「數位音樂下載」以及「歌曲播出率」三大要素作為評分標準，另外最受歡迎系列獎項是由網民公投選出獎項得主，該獎定位好比[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[告示牌音樂獎和](https://zh.wikipedia.org/wiki/告示牌音樂獎 "wikilink")[全美音樂獎](../Page/全美音樂獎.md "wikilink")一樣主打大眾化、流行度高、名氣與人氣高的音樂頒獎典禮。
 
-2009年由於[臺北之音的管理權易主](https://zh.wikipedia.org/wiki/臺北之音 "wikilink")，原HitFM聯播網與北京音樂台的合作關係終止，退出[全球華語歌曲排行榜](../Page/全球華語歌曲排行榜.md "wikilink")聯盟，HitFM聯播網轉為與[中央人民廣播電臺音樂之聲共同發起](https://zh.wikipedia.org/wiki/中央人民廣播電臺音樂之聲 "wikilink")**[全球流行音樂金榜](https://zh.wikipedia.org/wiki/全球流行音樂金榜 "wikilink")**，[全球流行音樂金榜聯合主辦台還包括CITY](https://zh.wikipedia.org/wiki/全球流行音樂金榜 "wikilink")
-FM城市之音、馬來西亞MY FM、新加坡[UFM
-100.3](../Page/UFM_100.3.md "wikilink")、[加拿大中文電台](../Page/加拿大中文電台.md "wikilink")、舊金山星島中文電臺。2011年停辦改辦[全球流行音樂金榜](https://zh.wikipedia.org/wiki/全球流行音樂金榜 "wikilink")。2012年**Hito流行音樂獎**
-於[高雄巨蛋重啟復辦](https://zh.wikipedia.org/wiki/高雄巨蛋 "wikilink")。2013年起大多數每年都在6月初[臺北市](../Page/臺北市.md "wikilink")[台北小巨蛋舉行頒獎典禮](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")。
+2009年由於[臺北之音的管理權易主](https://zh.wikipedia.org/wiki/臺北之音 "wikilink")，原HitFM聯播網與北京音樂台的合作關係終止，退出[全球華語歌曲排行榜](../Page/全球華語歌曲排行榜.md "wikilink")聯盟，HitFM聯播網轉為與[中央人民廣播電臺音樂之聲共同發起](https://zh.wikipedia.org/wiki/中央人民廣播電臺音樂之聲 "wikilink")**[全球流行音樂金榜](https://zh.wikipedia.org/wiki/全球流行音樂金榜 "wikilink")**，[全球流行音樂金榜聯合主辦台還包括CITY](https://zh.wikipedia.org/wiki/全球流行音樂金榜 "wikilink") FM城市之音、馬來西亞MY FM、新加坡[UFM 100.3](../Page/UFM_100.3.md "wikilink")、[加拿大中文電台](../Page/加拿大中文電台.md "wikilink")、舊金山星島中文電臺。2011年停辦改辦[全球流行音樂金榜](https://zh.wikipedia.org/wiki/全球流行音樂金榜 "wikilink")。2012年**Hito流行音樂獎** 於[高雄巨蛋重啟復辦](https://zh.wikipedia.org/wiki/高雄巨蛋 "wikilink")。2013年起大多數每年都在6月初[臺北市](../Page/臺北市.md "wikilink")[台北小巨蛋舉行頒獎典禮](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")。
 
 ## 評獎根據
 
-Hito流行音樂頒獎典禮所有獎項源，根據[HitFM聯播網全年度](https://zh.wikipedia.org/wiki/HitFM聯播網 "wikilink")52週(統計時間：前年12月至去年11月)的「Hito排行榜」總積分來結算。也依據唱片行銷售量
-(含[玫瑰唱片](https://zh.wikipedia.org/wiki/玫瑰唱片 "wikilink")、大眾唱片、五大唱片、佳佳唱片等全台各大唱片行)、[數位音樂下載](../Page/數位音樂下載.md "wikilink")(包含[KKBOX](../Page/KKBOX.md "wikilink")、[ezPeer和各鈴聲下載榜](https://zh.wikipedia.org/wiki/Mymusic "wikilink"))，以及Hit
-Fm聯播網AIR PLAY（聽眾點播、網站票選和電台播出率等）。
+Hito流行音樂頒獎典禮所有獎項源，根據[HitFM聯播網全年度](https://zh.wikipedia.org/wiki/HitFM聯播網 "wikilink")52週(統計時間：前年12月至去年11月)的「Hito排行榜」總積分來結算。也依據唱片行銷售量 (含[玫瑰唱片](https://zh.wikipedia.org/wiki/玫瑰唱片 "wikilink")、大眾唱片、五大唱片、佳佳唱片等全台各大唱片行)、[數位音樂下載](../Page/數位音樂下載.md "wikilink")(包含[KKBOX](../Page/KKBOX.md "wikilink")、[ezPeer和各鈴聲下載榜](https://zh.wikipedia.org/wiki/Mymusic "wikilink"))，以及Hit Fm聯播網AIR PLAY（聽眾點播、網站票選和電台播出率等）。
 
-同一日中國[城市之音聯播網](https://zh.wikipedia.org/wiki/城市之音 "wikilink")，馬來西亞[MY
-FM](https://zh.wikipedia.org/wiki/MY_FM "wikilink")、[加拿大中文電台](../Page/加拿大中文電台.md "wikilink")、紐約中國廣播網、[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")[華人之聲](../Page/華人之聲.md "wikilink")AM936等多家電臺也加入該聯盟\[1\]。
+同一日中國[城市之音聯播網](https://zh.wikipedia.org/wiki/城市之音 "wikilink")，馬來西亞[MY FM](https://zh.wikipedia.org/wiki/MY_FM "wikilink")、[加拿大中文電台](../Page/加拿大中文電台.md "wikilink")、紐約中國廣播網、[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")[華人之聲](../Page/華人之聲.md "wikilink")AM936等多家電臺也加入該聯盟\[1\]。
 
 ## 轉播頻道
 
-  - 東南亞：[TVBS-Asia](../Page/TVBS-Asia.md "wikilink")(-2018年)、[Animax
-    Asia](../Page/Animax_Asia.md "wikilink")(2019年起)
+  - 東南亞：[TVBS-Asia](../Page/TVBS-Asia.md "wikilink")(-2018年)、[Animax Asia](../Page/Animax_Asia.md "wikilink")(2019年起)
   - 台灣
       - 無線電視：中視（2015年）、[華視主頻](../Page/華視主頻.md "wikilink")（2014年、2016年）
       - 有線：[TVBS](../Page/TVBS_\(頻道\).md "wikilink")（2014年起）、[TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")（2014年起）
@@ -191,11 +184,7 @@ HITO流行音樂獎頒獎典禮每年會選出各3首在臺灣非常熱門且有
 
   - [Hitoradio‧Hit Fm --華人音樂入口指標](http://www.hitoradio.com)
 
-[Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink")
-[Category:音樂獎項](https://zh.wikipedia.org/wiki/Category:音樂獎項 "wikilink")
-[Category:台灣音樂](https://zh.wikipedia.org/wiki/Category:台灣音樂 "wikilink")
-[Category:電台](https://zh.wikipedia.org/wiki/Category:電台 "wikilink")
+[Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink") [Category:音樂獎項](https://zh.wikipedia.org/wiki/Category:音樂獎項 "wikilink") [Category:台灣音樂](https://zh.wikipedia.org/wiki/Category:台灣音樂 "wikilink") [Category:電台](https://zh.wikipedia.org/wiki/Category:電台 "wikilink")
 
 1.  [音樂之聲一鳴驚金人全球流行音樂金榜發布](http://www.istars.co.nz/thread-3943-1-33.html)
-
 2.  [「HITO最受歡迎系列獎項」票選活動，總投票數已突破150萬！](http://ent.sina.com.tw/music/news/content/90171)

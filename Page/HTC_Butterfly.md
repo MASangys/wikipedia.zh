@@ -1,12 +1,6 @@
-**HTC
-Butterfly**（[國際版型號](https://zh.wikipedia.org/wiki/國際版 "wikilink")：**X920d**；[中國大陸型號](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")：**X920e**，俗稱「**蝴蝶機**」）是2012年12月[宏達國際電子](../Page/宏達國際電子.md "wikilink")在[臺灣](../Page/臺灣.md "wikilink")與[中國大陸市場推出的高階](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。針對[日本](../Page/日本.md "wikilink")電信商[KDDI](../Page/KDDI.md "wikilink")客製化，日本地區推出的同名機種為[HTC
-J
-Butterfly](../Page/HTC_J_Butterfly.md "wikilink")。在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，由[Verizon獨家推出的機種命名為](https://zh.wikipedia.org/wiki/Verizon "wikilink")[Verizon
-Droid DNA by
-HTC](https://zh.wikipedia.org/wiki/Verizon_Droid_DNA_by_HTC "wikilink")\[1\]。
+**HTC Butterfly**（[國際版型號](https://zh.wikipedia.org/wiki/國際版 "wikilink")：**X920d**；[中國大陸型號](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")：**X920e**，俗稱「**蝴蝶機**」）是2012年12月[宏達國際電子](../Page/宏達國際電子.md "wikilink")在[臺灣](../Page/臺灣.md "wikilink")與[中國大陸市場推出的高階](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。針對[日本](../Page/日本.md "wikilink")電信商[KDDI](../Page/KDDI.md "wikilink")客製化，日本地區推出的同名機種為[HTC J Butterfly](../Page/HTC_J_Butterfly.md "wikilink")。在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，由[Verizon獨家推出的機種命名為](https://zh.wikipedia.org/wiki/Verizon "wikilink")[Verizon Droid DNA by HTC](https://zh.wikipedia.org/wiki/Verizon_Droid_DNA_by_HTC "wikilink")\[1\]。
 
-臺灣版HTC
-Butterfly由[中華電信於](https://zh.wikipedia.org/wiki/中華電信 "wikilink")12月11日率先販售，[台灣大哥大](../Page/台灣大哥大.md "wikilink")及[遠傳電信](../Page/遠傳電信.md "wikilink")也於2013年1月底正式開賣。中華電信表示，2012年12月單月共創造了6萬台以上的銷售量。而龐大的預購量更是讓電信業者無法消化，導致全台缺貨，部分通訊行甚至哄抬售價販賣。
+臺灣版HTC Butterfly由[中華電信於](https://zh.wikipedia.org/wiki/中華電信 "wikilink")12月11日率先販售，[台灣大哥大](../Page/台灣大哥大.md "wikilink")及[遠傳電信](../Page/遠傳電信.md "wikilink")也於2013年1月底正式開賣。中華電信表示，2012年12月單月共創造了6萬台以上的銷售量。而龐大的預購量更是讓電信業者無法消化，導致全台缺貨，部分通訊行甚至哄抬售價販賣。
 
 於2013年[母親節前夕](https://zh.wikipedia.org/wiki/母親節 "wikilink")，臺灣推出了玫瑰粉母親節限定版，而單機價將調降為新台幣21,900元，其餘黑、紅、白款也同步降價發售。
 
@@ -134,8 +128,7 @@ Butterfly由[中華電信於](https://zh.wikipedia.org/wiki/中華電信 "wikili
   - 大陸X920e白、黑與棕色皆採用拋光[聚碳酸酯](../Page/聚碳酸酯.md "wikilink")製成，白色版和台灣版不同的地方是，正面框架亦為白色，且鏡頭處有紅色圈點綴，觸控按鈕亦為紅色。
   - 機身背面採用弧形設計，貼合手掌曲線，提供更好的握感。
   - 前置聽筒旁設有訊息通知燈，且在背面相機鏡頭旁，亦有通知燈的設置。
-  - 有防水設計，支援 [IPX5](https://zh.wikipedia.org/wiki/IPX5 "wikilink")
-    等級的防水標準，可抵抗輕柔水柱沖洗，側邊連接口皆有防水蓋保護住，耳機孔亦有鍍膜防水處理。
+  - 有防水設計，支援 [IPX5](https://zh.wikipedia.org/wiki/IPX5 "wikilink") 等級的防水標準，可抵抗輕柔水柱沖洗，側邊連接口皆有防水蓋保護住，耳機孔亦有鍍膜防水處理。
   - 螢幕表面玻璃在邊緣有稍作一些曲面收邊提升手感，但可能導致螢幕保護貼無法完整覆蓋。
 
 ### 軟件
@@ -144,13 +137,8 @@ Butterfly由[中華電信於](https://zh.wikipedia.org/wiki/中華電信 "wikili
 
 <!-- end list -->
 
-  - 系統內建：電話、訊息(SMS)、聯絡人、時鐘、下載、小算盤、記事、工作、日曆、三段亮度手電筒、錄音機、設定、設定精靈、傳輸資料、電影編輯程式、使用攻略、鏡像、Car、FM收音機、HTC
-    Media link
-    HD、Watch、PDF檢視器、Rescue、Wi-Fi無線基地台、音樂、個人化、影片、相機、相片集、GPS衛星定位、工作管理員、以及需要連網的〈Internet、郵件、地圖、在地服務、氣象、新聞與氣象、股票、Friend
-    Stream、Location進階導航、導航、音樂商店、Play Store、Google+、Google+
-    Messenger、Chrome瀏覽器、Google語音搜尋、Google Talk〉。
-  - 與第三方業者合作所植入的應用程式：YouTube、新浪微博()、Twitter、Facebook、Facebook手機即時通、Dropbox、KKBOX、Polaris
-    Office、Dr.eye、SoundHound、TuneIn Radio、悠遊卡、Flash Player Setting。
+  - 系統內建：電話、訊息(SMS)、聯絡人、時鐘、下載、小算盤、記事、工作、日曆、三段亮度手電筒、錄音機、設定、設定精靈、傳輸資料、電影編輯程式、使用攻略、鏡像、Car、FM收音機、HTC Media link HD、Watch、PDF檢視器、Rescue、Wi-Fi無線基地台、音樂、個人化、影片、相機、相片集、GPS衛星定位、工作管理員、以及需要連網的〈Internet、郵件、地圖、在地服務、氣象、新聞與氣象、股票、Friend Stream、Location進階導航、導航、音樂商店、Play Store、Google+、Google+ Messenger、Chrome瀏覽器、Google語音搜尋、Google Talk〉。
+  - 與第三方業者合作所植入的應用程式：YouTube、新浪微博()、Twitter、Facebook、Facebook手機即時通、Dropbox、KKBOX、Polaris Office、Dr.eye、SoundHound、TuneIn Radio、悠遊卡、Flash Player Setting。
 
 <!-- end list -->
 
@@ -365,31 +353,24 @@ Butterfly由[中華電信於](https://zh.wikipedia.org/wiki/中華電信 "wikili
 ## 官方網站
 
   - HTC全球官網介紹
-      - [HTC butterfly
-        Overview](https://web.archive.org/web/20121209023643/http://www.htc.com/www/smartphones/htc-butterfly/)
+      - [HTC butterfly Overview](https://web.archive.org/web/20121209023643/http://www.htc.com/www/smartphones/htc-butterfly/)
 
 <!-- end list -->
 
   - HTC台灣官網介紹
-      - [HTC butterfly
-        概觀](https://web.archive.org/web/20121215181734/http://www.htc.com/tw/smartphones/htc-butterfly/#overview)
+      - [HTC butterfly 概觀](https://web.archive.org/web/20121215181734/http://www.htc.com/tw/smartphones/htc-butterfly/#overview)
 
 <!-- end list -->
 
   - HTC中國官網介紹
-      - [HTC butterfly
-        概述](https://web.archive.org/web/20121213031131/http://www.htc.com/cn/smartphones/htc-butterfly/#overview)
+      - [HTC butterfly 概述](https://web.archive.org/web/20121213031131/http://www.htc.com/cn/smartphones/htc-butterfly/#overview)
 
 ## 參考資料
 
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
+[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
 
 1.  [HTC Droid DNA(en)](http://en.wikipedia.org/wiki/HTC_Droid_DNA)
 2.  [HTC台灣官網](http://www.htc.com/tw/smartphones/htc-butterfly/#specs)
 3.  [HTC全球官網](http://www.htc.com/www/smartphones/htc-butterfly/#specs)
 4.  [HTC中國官網](http://www.htc.com/cn/smartphones/htc-butterfly/#specs)
-5.  [HTC Butterfly 搭中華　單機 $22,900
-    月中上市](http://www.eprice.com.tw/mobile/talk/4542/4839119/1/rv/htc-butterfly-%E8%9D%B4%E8%9D%B6%E6%A9%9F-launch/)
+5.  [HTC Butterfly 搭中華　單機 $22,900 月中上市](http://www.eprice.com.tw/mobile/talk/4542/4839119/1/rv/htc-butterfly-%E8%9D%B4%E8%9D%B6%E6%A9%9F-launch/)

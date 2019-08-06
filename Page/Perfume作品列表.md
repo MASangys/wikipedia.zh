@@ -62,8 +62,30 @@
 <tr class="even">
 <td><p>7th</p></td>
 <td><p>2018年8月15日</p></td>
-<td><p><a href="../Page/Future_Pop.md" title="wikilink">Future Pop</a></p></td>
+<td><p><strong><a href="../Page/Future_Pop.md" title="wikilink">Future Pop</a></strong></p></td>
 <td><p>1</p></td>
+</tr>
+</tbody>
+</table>
+
+### 精选辑
+
+<table>
+<thead>
+<tr class="header">
+<th><p>張數</p></th>
+<th><p>發售日期</p></th>
+<th><p>名稱</p></th>
+<th><p>Oricon銷售榜<br />
+最高位置</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p>2019年9月18日</p></td>
+<td><p><strong>Perfume The Best “P Cubed”</strong></p></td>
+<td><p>未知</p></td>
 </tr>
 </tbody>
 </table>
@@ -106,7 +128,7 @@
 <tr class="odd">
 <td><p>1st</p></td>
 <td><p>2008年2月15日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Fan_Service_-Prima_Box-" title="wikilink">Fan Service -Prima Box-</a></strong></p></td>
+<td><p><strong>Fan Service -Prima Box-</strong></p></td>
 <td><p>9（算入单曲榜）</p></td>
 </tr>
 </tbody>
@@ -150,7 +172,7 @@
 <tr class="odd">
 <td><p>2nd</p></td>
 <td><p>2002年11月1日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/彼氏募集中" title="wikilink">彼氏募集中</a></strong></p></td>
+<td><p><strong>彼氏募集中</strong></p></td>
 <td><p>男友徵集中</p></td>
 <td><ol>
 <li>彼氏募集中 (Kareshi Boshuchu)</li>
@@ -260,7 +282,7 @@
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>2007年2月14日</p></td>
-<td><p><strong><a href="../Page/Fan_Service［sweet］.md" title="wikilink">ファン・サーヴィス［sweet］</a></strong></p></td>
+<td><p><strong><a href="../Page/Fan_Service［sweet］.md" title="wikilink">Fan Service ［sweet］</a></strong></p></td>
 <td><p>Fan Service ［sweet］</p></td>
 <td><ol>
 <li>チョコレイト・ディスコ (Chocolate Disco)</li>
@@ -563,7 +585,7 @@
 <tr class="odd">
 <td><p>25th</p></td>
 <td><p>2018年3月14日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/無限未来" title="wikilink">無限未来</a></strong></p></td>
+<td><p><strong>無限未来</strong></p></td>
 <td><p>無限未来</p></td>
 <td><ol>
 <li>無限未来 (Mugenmirai)</li>
@@ -1236,9 +1258,7 @@
 
 </div>
 
-[Category:Perfume](https://zh.wikipedia.org/wiki/Category:Perfume "wikilink")
-[Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
+[Category:Perfume](https://zh.wikipedia.org/wiki/Category:Perfume "wikilink") [Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.  日本音樂著作權協會 [作品データベース検索サービス](http://www2.jasrac.or.jp/eJwid/)
 2.  『QuickJapan』 74号 p34

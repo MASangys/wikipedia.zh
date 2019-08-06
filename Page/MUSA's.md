@@ -1,5 +1,4 @@
-**MUSA's**是由來自[阿根廷](../Page/阿根廷.md "wikilink")的鋼琴及鍵盤手[Martin "Musa"
-Musaubach](../Page/明馬丁.md "wikilink") (Musa)帶領的演奏團體。
+**MUSA's**是由來自[阿根廷](../Page/阿根廷.md "wikilink")的鋼琴及鍵盤手[Martin "Musa" Musaubach](../Page/明馬丁.md "wikilink") (Musa)帶領的演奏團體。
 
 ## 有關樂團
 
@@ -7,30 +6,19 @@ Musaubach](../Page/明馬丁.md "wikilink") (Musa)帶領的演奏團體。
 
 2007年，鋼琴及鍵盤手Musa連同貝斯及低音大提琴手LuKa、以及鼓手José Centorbi組成了MUSAS。
 
-由演奏拉丁音樂到爵士樂、藍調及搖滾，樂團於[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")，以至香港、昆明、上海和北京都有現場表演和錄音錄影，以及曾經於北京國貿大酒店當駐場樂團。2007年在深圳的一次公開演出場合裡，高飛
-(當時為BR Connection鼓手，同樂團成員包括吉他手Fabio Moreira)
-認識了Musa和LuKa，並於2010年加入MUSA'S Trio成為現任鼓手\[1\]。
+由演奏拉丁音樂到爵士樂、藍調及搖滾，樂團於[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")，以至香港、昆明、上海和北京都有現場表演和錄音錄影，以及曾經於北京國貿大酒店當駐場樂團。2007年在深圳的一次公開演出場合裡，高飛 (當時為BR Connection鼓手，同樂團成員包括吉他手Fabio Moreira) 認識了Musa和LuKa，並於2010年加入MUSA'S Trio成為現任鼓手\[1\]。
 
 2011年夏天，成員正式將工作遷移至[台北發展](https://zh.wikipedia.org/wiki/台北 "wikilink")。
 
 ### 2011: MUSA's Trio x Gary Chaw: Project SENSATION
 
-2011年期間，音樂製作人涂惠源老師將Musa、LuKa和高飛介紹了給[曹格](../Page/曹格.md "wikilink")。在認識雙方的音樂之後，三位樂手再加上曹格，組成了[SENSATION](../Page/SENSATION_\(樂團\).md "wikilink")——「曹格
-x MUSA's Trio x 涂惠源」的爵士新概念、一個新的音樂品牌，正式始動\[2\]。
+2011年期間，音樂製作人涂惠源老師將Musa、LuKa和高飛介紹了給[曹格](../Page/曹格.md "wikilink")。在認識雙方的音樂之後，三位樂手再加上曹格，組成了[SENSATION](../Page/SENSATION_\(樂團\).md "wikilink")——「曹格 x MUSA's Trio x 涂惠源」的爵士新概念、一個新的音樂品牌，正式始動\[2\]。
 
-SENSATION組成後，選擇了台北「河岸留言」(Riverside Café Taipei)
-作為初次獨立演出的地點\[3\]。2011年底、2011年12月至2012年1月間，MUSA's
-Trio與曹格於在台北、高雄及台中舉行了四場「Gary Chaw SENSATION x JAZZ
-爵士巡迴音樂會」，及發行了會場/在線限定發售單曲《Project
-Sensation JAZZ》。這是曹格及MUSA's Trio成員及首次以新組合樂團SENSATION的名義公式發行音樂作品和演出。
+SENSATION組成後，選擇了台北「河岸留言」(Riverside Café Taipei) 作為初次獨立演出的地點\[3\]。2011年底、2011年12月至2012年1月間，MUSA's Trio與曹格於在台北、高雄及台中舉行了四場「Gary Chaw SENSATION x JAZZ 爵士巡迴音樂會」，及發行了會場/在線限定發售單曲《Project Sensation JAZZ》。這是曹格及MUSA's Trio成員及首次以新組合樂團SENSATION的名義公式發行音樂作品和演出。
 
-2012年6月，SENSATION發行首張出道專輯《Gary Chaw Project Sensation 1
-Jazz》。7月14日，「SENSATION
-爵士音樂會」巡演於台北作為首站正式展開\[4\]，樂團隨即於新加坡、馬來西亞兩地演出\[5\]。
+2012年6月，SENSATION發行首張出道專輯《Gary Chaw Project Sensation 1 Jazz》。7月14日，「SENSATION 爵士音樂會」巡演於台北作為首站正式展開\[4\]，樂團隨即於新加坡、馬來西亞兩地演出\[5\]。
 
-同年8月4日及5日，曹格首次入主[香港紅磡體育館](https://zh.wikipedia.org/wiki/香港紅磡體育館 "wikilink")，MUSA's
-Trio即連同曹格，作為SENSATION成員舉行一連兩場「Gary Chaw Sensational Sound
-Concert」\[6\]。10月5日，樂團再度以SENSATION名義在澳門與曹格共同演出「CPOP LIVE」\[7\]。
+同年8月4日及5日，曹格首次入主[香港紅磡體育館](https://zh.wikipedia.org/wiki/香港紅磡體育館 "wikilink")，MUSA's Trio即連同曹格，作為SENSATION成員舉行一連兩場「Gary Chaw Sensational Sound Concert」\[6\]。10月5日，樂團再度以SENSATION名義在澳門與曹格共同演出「CPOP LIVE」\[7\]。
 
 2012年12月，曹格發行專輯《荷里活的動物園》，MUSA's Trio加入參與製作專輯歌曲、以及擔任編寫和樂器演奏部份\[8\]。
 
@@ -38,20 +26,11 @@ Concert」\[6\]。10月5日，樂團再度以SENSATION名義在澳門與曹格�
 
 自2012年第四季開始，MUSA's Trio開始不單只與其曹格合作，尤其在現場表演上樂團與不同音樂人的合作漸多。
 
-2013年4月，吉他手Fabio Moreira加入D.F.M，作為MUS4's (Quartet 四重奏) 成員與MUSA's
-Trio共同參與曹格Project SENSATION
-2\[9\]。夏天開始，小號及富魯格號手Danny加入樂團，將之前的MUS4's擴充成MU5A's
-(Quintet 五重奏) ——由最初的三重奏，擴展成包括完整節奏組 ([rhythm
-section](https://zh.wikipedia.org/wiki/节奏组_\(音乐\) "wikilink")) 的小型編制樂團
-([jazz
-ensemble](../Page/爵士乐队.md "wikilink"))。就如爵士樂樂手之間常見的合作演出或錄音，MUSA's會邀請不同的樂手或歌手加入演奏，共同創造出更多的音樂新面貌。
+2013年4月，吉他手Fabio Moreira加入D.F.M，作為MUS4's (Quartet 四重奏) 成員與MUSA's Trio共同參與曹格Project SENSATION 2\[9\]。夏天開始，小號及富魯格號手Danny加入樂團，將之前的MUS4's擴充成MU5A's (Quintet 五重奏) ——由最初的三重奏，擴展成包括完整節奏組 ([rhythm section](https://zh.wikipedia.org/wiki/节奏组_\(音乐\) "wikilink")) 的小型編制樂團 ([jazz ensemble](../Page/爵士乐队.md "wikilink"))。就如爵士樂樂手之間常見的合作演出或錄音，MUSA's會邀請不同的樂手或歌手加入演奏，共同創造出更多的音樂新面貌。
 
-除了繼續進行「曹格 x SENSATION」Project 2及參與曹格的演唱會演奏部份，MUS4's及MU5A's亦會以DFM Jazz
-Club (其唱片公司) 的名義與旗下歌手Shiny
-Lv和Norma其同演出小型音樂會。除了參予MUSA's的演出，成員們也同時開始個人身份與其他樂手、歌手合作，不定期在台北的小型演出場地或者爵士樂酒吧舉行/主持現場演奏。
+除了繼續進行「曹格 x SENSATION」Project 2及參與曹格的演唱會演奏部份，MUS4's及MU5A's亦會以DFM Jazz Club (其唱片公司) 的名義與旗下歌手Shiny Lv和Norma其同演出小型音樂會。除了參予MUSA's的演出，成員們也同時開始個人身份與其他樂手、歌手合作，不定期在台北的小型演出場地或者爵士樂酒吧舉行/主持現場演奏。
 
-同年8月，Musa發行首張錄音室錄音專輯[《3690》](https://zh.wikipedia.org/wiki/明馬丁#.E5.80.8B.E4.BA.BA.E5.89.B5.E4.BD.9C.2F.E9.9F.B3.E6.A8.82.E7.99.BC.E8.A1.8C "wikilink")。這張專輯是以Musa個人名義發行；而參予其中的演奏部份包括了LuKa和高飛，也可以代表這是MUSA's
-Trio的樂團出道錄音發行。
+同年8月，Musa發行首張錄音室錄音專輯[《3690》](https://zh.wikipedia.org/wiki/明馬丁#.E5.80.8B.E4.BA.BA.E5.89.B5.E4.BD.9C.2F.E9.9F.B3.E6.A8.82.E7.99.BC.E8.A1.8C "wikilink")。這張專輯是以Musa個人名義發行；而參予其中的演奏部份包括了LuKa和高飛，也可以代表這是MUSA's Trio的樂團出道錄音發行。
 
 ## 成員
 
@@ -62,23 +41,16 @@ Trio的樂團出道錄音發行。
 <!-- end list -->
 
   -
-    Musa，鋼琴及鍵盤手，來自[阿根廷](../Page/阿根廷.md "wikilink")[布宜諾斯艾利斯省](https://zh.wikipedia.org/wiki/布宜諾斯艾利斯省 "wikilink")[拉普拉塔](../Page/拉普拉塔.md "wikilink")。1982年5月23日生日。中文名字明馬丁
-    (這是在台灣簽證結婚證書的時候所需要的中文名字，姓氏「明」是為了紀念祖父Mingo\[10\])。曾經所屬樂團包括Labrusca、Zoe、5
-    Australes、Reina Venus、Blues Oil及Bin Bin。2011年於北京組成MUSA's Trio
-    (同為MUSAS)。跟貝斯手LuKa自少是鄰居\[11\]。
+    Musa，鋼琴及鍵盤手，來自[阿根廷](../Page/阿根廷.md "wikilink")[布宜諾斯艾利斯省](https://zh.wikipedia.org/wiki/布宜諾斯艾利斯省 "wikilink")[拉普拉塔](../Page/拉普拉塔.md "wikilink")。1982年5月23日生日。中文名字明馬丁 (這是在台灣簽證結婚證書的時候所需要的中文名字，姓氏「明」是為了紀念祖父Mingo\[10\])。曾經所屬樂團包括Labrusca、Zoe、5 Australes、Reina Venus、Blues Oil及Bin Bin。2011年於北京組成MUSA's Trio (同為MUSAS)。跟貝斯手LuKa自少是鄰居\[11\]。
 
 <!-- end list -->
 
-  - **[Adriano Moreira
-    (高飛)](https://zh.wikipedia.org/wiki/Adriano_Moreira_\(高飛\) "wikilink")**
+  - **[Adriano Moreira (高飛)](https://zh.wikipedia.org/wiki/Adriano_Moreira_\(高飛\) "wikilink")**
 
 <!-- end list -->
 
   -
-    高飛，鼓手及敲擊樂手，來自[巴西](../Page/巴西.md "wikilink")[聖保羅](../Page/聖保羅_\(巴西\).md "wikilink")。1987年3月20日生日。Fabio的堂兄弟。原巴西現場演奏樂團BR
-    Connection (Brazilian Connection)
-    成員，2005年開始跟隨樂團於深圳及海外郵輪上工作。2011年加入Musa和LuKa成為MUSA's
-    Trio鼓手。「高飛」是Adriano在[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[西安工作的時候](https://zh.wikipedia.org/wiki/西安 "wikilink")、一位中國籍朋友給他改的中文名字\[12\]。
+    高飛，鼓手及敲擊樂手，來自[巴西](../Page/巴西.md "wikilink")[聖保羅](../Page/聖保羅_\(巴西\).md "wikilink")。1987年3月20日生日。Fabio的堂兄弟。原巴西現場演奏樂團BR Connection (Brazilian Connection) 成員，2005年開始跟隨樂團於深圳及海外郵輪上工作。2011年加入Musa和LuKa成為MUSA's Trio鼓手。「高飛」是Adriano在[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[西安工作的時候](https://zh.wikipedia.org/wiki/西安 "wikilink")、一位中國籍朋友給他改的中文名字\[12\]。
 
 <!-- end list -->
 
@@ -87,9 +59,7 @@ Trio的樂團出道錄音發行。
 <!-- end list -->
 
   -
-    Fabio，吉他手，來自[巴西](../Page/巴西.md "wikilink")[聖保羅](../Page/聖保羅_\(巴西\).md "wikilink")。1988年3月16日生日。高飛的堂兄弟。原巴西現場演奏樂團BR
-    Connection (Brazilian Connection)及Salsamba Duo成員。現同時為Bad Ass
-    Brass成員\[13\]。
+    Fabio，吉他手，來自[巴西](../Page/巴西.md "wikilink")[聖保羅](../Page/聖保羅_\(巴西\).md "wikilink")。1988年3月16日生日。高飛的堂兄弟。原巴西現場演奏樂團BR Connection (Brazilian Connection)及Salsamba Duo成員。現同時為Bad Ass Brass成員\[13\]。
 
 <!-- end list -->
 
@@ -98,9 +68,7 @@ Trio的樂團出道錄音發行。
 <!-- end list -->
 
   -
-    Danny，小號及富魯格號手，來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。1957年生。10歲開始演奏小號，1980年參演過Tom
-    Jones的世界巡迴演唱會。80年代末至90年代中曾於[西班牙](../Page/西班牙.md "wikilink")及[法國居住](https://zh.wikipedia.org/wiki/法國 "wikilink")，參與不同的演出、比賽和錄音，並於1993年移居台灣。近期演出包括《伍佰and
-    China Blue -生命的現場- 20周年演唱會》。現同時為Bad Ass Brass成員\[14\]。
+    Danny，小號及富魯格號手，來自[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。1957年生。10歲開始演奏小號，1980年參演過Tom Jones的世界巡迴演唱會。80年代末至90年代中曾於[西班牙](../Page/西班牙.md "wikilink")及[法國居住](https://zh.wikipedia.org/wiki/法國 "wikilink")，參與不同的演出、比賽和錄音，並於1993年移居台灣。近期演出包括《伍佰and China Blue -生命的現場- 20周年演唱會》。現同時為Bad Ass Brass成員\[14\]。
 
 **低音琴手 (MUSA's 2013年9月\~)**
 
@@ -109,8 +77,7 @@ Trio的樂團出道錄音發行。
 <!-- end list -->
 
   -
-    Vincent，貝斯及低音大提琴手，來自[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")。Soy
-    La Ley 非洲古巴爵士樂團 (Afro-Cuban Jazz Band) 領隊成員。
+    Vincent，貝斯及低音大提琴手，來自[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")。Soy La Ley 非洲古巴爵士樂團 (Afro-Cuban Jazz Band) 領隊成員。
 
 <!-- end list -->
 
@@ -119,9 +86,7 @@ Trio的樂團出道錄音發行。
 <!-- end list -->
 
   -
-    阿達
-    (A-Ta)，貝斯手，來自[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")。Timeless
-    Fusion Party (TFP) 無限融合樂團成員。
+    阿達 (A-Ta)，貝斯手，來自[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")。Timeless Fusion Party (TFP) 無限融合樂團成員。
 
 **過往成員**
 
@@ -129,17 +94,12 @@ Trio的樂團出道錄音發行。
 
 <!-- end list -->
 
-  - **[Lautaro "LuKa"
-    Bellucca](../Page/Lautaro_Bellucca.md "wikilink")** (貝斯及低音大提琴手) (-
-    2013)
+  - **[Lautaro "LuKa" Bellucca](../Page/Lautaro_Bellucca.md "wikilink")** (貝斯及低音大提琴手) (- 2013)
 
 <!-- end list -->
 
   -
-    LuKa，貝斯及低音大提琴手，來自[阿根廷](../Page/阿根廷.md "wikilink")[布宜諾斯艾利斯省](https://zh.wikipedia.org/wiki/布宜諾斯艾利斯省 "wikilink")[拉普拉塔](../Page/拉普拉塔.md "wikilink")。1986年1月4日生日。20歲的時候與
-    José Centorbi (前MUSAS鼓手及敲擊樂手) 和弟弟Joaquin Bellucca等人組成爵士及民族樂樂團Lo Que
-    Te Falta Quarteto，曾於拉普拉塔獲獎及錄製專輯。同為5 Australes及MUSAS/ MUSA's
-    Trio成員。跟Musa自少是鄰居\[15\]。個人樂團LuKa Group於2013年10月正式公開演出。
+    LuKa，貝斯及低音大提琴手，來自[阿根廷](../Page/阿根廷.md "wikilink")[布宜諾斯艾利斯省](https://zh.wikipedia.org/wiki/布宜諾斯艾利斯省 "wikilink")[拉普拉塔](../Page/拉普拉塔.md "wikilink")。1986年1月4日生日。20歲的時候與 José Centorbi (前MUSAS鼓手及敲擊樂手) 和弟弟Joaquin Bellucca等人組成爵士及民族樂樂團Lo Que Te Falta Quarteto，曾於拉普拉塔獲獎及錄製專輯。同為5 Australes及MUSAS/ MUSA's Trio成員。跟Musa自少是鄰居\[15\]。個人樂團LuKa Group於2013年10月正式公開演出。
 
 ## 現場演奏
 
@@ -1007,11 +967,9 @@ Gary Chaw 曹格 (voc)</p></td>
 
 **專輯**
 
-  - 《Gary Chaw Project Sensation 1 Jazz》- with Gary Chaw 曹格 - 錄音室專輯
-    (2012年6月)
+  - 《Gary Chaw Project Sensation 1 Jazz》- with Gary Chaw 曹格 - 錄音室專輯 (2012年6月)
   - 《荷里活的動物園》- with Gary Chaw 曹格 - 錄音室專輯 (2012年12月)
-  - 《3690》- Martin Musaubach - 錄音室專輯 (2013年8月16日 亞神音樂娛樂AsiaMuse
-    Entertainment發行)
+  - 《3690》- Martin Musaubach - 錄音室專輯 (2013年8月16日 亞神音樂娛樂AsiaMuse Entertainment發行)
 
 **DVD**
 
@@ -1027,18 +985,14 @@ Gary Chaw 曹格 (voc)</p></td>
   - [Musaubach facebook](https://www.facebook.com/MUSA.Keys/)
   - [MUSA's facebook](https://www.facebook.com/musas.group/)
   - [Musaubach homepage](http://www.musaubach.com/)
-  - [LuKa
-    facebook](https://www.facebook.com/pages/LuKa-Lautaro-Bellucca/141119429322727/)
-  - [DFM Jazz Club facebook (record
-    label)](https://www.facebook.com/DFMJazzClub/)
+  - [LuKa facebook](https://www.facebook.com/pages/LuKa-Lautaro-Bellucca/141119429322727/)
+  - [DFM Jazz Club facebook (record label)](https://www.facebook.com/DFMJazzClub/)
 
 ## 註解
 
-[Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink")
-[Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
+[Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
 
-1.  台灣壹週刊 Next Magazine Taiwan \#581 (2012/07/12) - p.194 - 紅男綠女「音樂讓我們相遇
-    Sensation」
+1.  台灣壹週刊 Next Magazine Taiwan \#581 (2012/07/12) - p.194 - 紅男綠女「音樂讓我們相遇 Sensation」
 
 2.
 3.

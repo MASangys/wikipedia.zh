@@ -1,16 +1,12 @@
-《**鄭俊弘Welcome_to_My_Dreams演唱會2014**》是香港男歌手[鄭俊弘](../Page/鄭俊弘.md "wikilink")加入樂壇未滿一年而已經能開第一個人演唱會，於2014年11月1日假九龍灣國際展貿中心舉行，名字全寫為「惠康呈獻：鄭俊弘Welcome
-to My Dreams演唱會2014」。
+《**鄭俊弘Welcome_to_My_Dreams演唱會2014**》是香港男歌手[鄭俊弘](../Page/鄭俊弘.md "wikilink")加入樂壇未滿一年而已經能開第一個人演唱會，於2014年11月1日假九龍灣國際展貿中心舉行，名字全寫為「惠康呈獻：鄭俊弘Welcome to My Dreams演唱會2014」。
 
 ## 簡介
 
-鄭俊弘從歌唱節目《[星夢傳奇](../Page/星夢傳奇.md "wikilink")》獲得冠軍而在2014年加入樂壇，曾於2014年9月15日推出第一張個人專輯《[熊貓的故事](https://zh.wikipedia.org/wiki/熊貓的故事 "wikilink")》。他成功在同年11月1日假九展舉行一場名為《鄭俊弘Welcome
-to My
-Dreams演唱會2014》，成績理想。亦是「[星夢娛樂](https://zh.wikipedia.org/wiki/星夢娛樂 "wikilink")」公司成立以來主辮第一個旗下歌手的個人演唱會。
+鄭俊弘從歌唱節目《[星夢傳奇](../Page/星夢傳奇.md "wikilink")》獲得冠軍而在2014年加入樂壇，曾於2014年9月15日推出第一張個人專輯《[熊貓的故事](https://zh.wikipedia.org/wiki/熊貓的故事 "wikilink")》。他成功在同年11月1日假九展舉行一場名為《鄭俊弘Welcome to My Dreams演唱會2014》，成績理想。亦是「[星夢娛樂](https://zh.wikipedia.org/wiki/星夢娛樂 "wikilink")」公司成立以來主辮第一個旗下歌手的個人演唱會。
 
 ## 演唱會曲目
 
-**演唱會嘉賓**：[樂隊HOME](../Page/HOME_\(樂隊\).md "wikilink")、及「星夢娛樂」公司旗下歌手:
-[胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink")、[王君馨](../Page/王君馨.md "wikilink")、[吳若希](../Page/吳若希.md "wikilink")、[鄭世豪](../Page/鄭世豪.md "wikilink")、[姚兵](../Page/姚兵.md "wikilink")、[羅鈞滿](../Page/羅鈞滿.md "wikilink")、[謝文欣](../Page/謝文欣.md "wikilink")、[林師傑](https://zh.wikipedia.org/wiki/林師傑 "wikilink")
+**演唱會嘉賓**：[樂隊HOME](../Page/HOME_\(樂隊\).md "wikilink")、及「星夢娛樂」公司旗下歌手: [胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink")、[王君馨](../Page/王君馨.md "wikilink")、[吳若希](../Page/吳若希.md "wikilink")、[鄭世豪](../Page/鄭世豪.md "wikilink")、[姚兵](../Page/姚兵.md "wikilink")、[羅鈞滿](../Page/羅鈞滿.md "wikilink")、[謝文欣](../Page/謝文欣.md "wikilink")、[林師傑](https://zh.wikipedia.org/wiki/林師傑 "wikilink")
 
 <table>
 <tbody>
@@ -307,40 +303,25 @@ Dreams演唱會2014》，成績理想。亦是「[星夢娛樂](https://zh.wikip
 
 ## 記事
 
-  - 2014年8月25日，於中環威靈頓街一號三樓Magnum Club「鄭俊弘Welcome to my Dreams 演唱會2014
-    」記者招待會。
+  - 2014年8月25日，於中環威靈頓街一號三樓Magnum Club「鄭俊弘Welcome to my Dreams 演唱會2014 」記者招待會。
   - 2014年8月25日，門票分$580、$380、$280於AEG優先預訂。
   - 2014年9月2日，門票公開發售。
 
 ## 參考資料
 
-  - [15.08.14
-    鄭俊弘11月開處男騷](http://paper.wenweipo.com/2014/08/15/EN1408150026.htm)
-  - [17.08.14
-    郑俊弘撑够歌开骚](http://news.takungpao.com/paper/q/2014/0817/2676871.html#0-tsina-1-92602-397232819ff9a47a7b7e80a40613cfe1)
-  - [25.08.14
-    鄭俊弘開騷實現夢想](http://hk.on.cc/hk/bkn/cnt/entertainment/20140825/bkn-20140825155239547-0825_00862_001.html)
-  - [25.08.14
-    鄭俊弘瞓身處男個唱唔該姜麗文借歪](http://hk.on.cc/hk/bkn/cnt/entertainment/20140825/bkn-20140825163718043-0825_00862_001.html)
-  - [25.08.14
-    鄭俊弘個唱盼姜麗文撐場](http://news2.mingpao.com/ins/%E9%84%AD%E4%BF%8A%E5%BC%98%E5%80%8B%E5%94%B1%E7%9B%BC%E5%A7%9C%E9%BA%97%E6%96%87%E6%92%90%E5%A0%B4/web_tc/article/20140825/s00007/1408976066155)
-  - [26.08.14 鄭俊弘備戰處男個唱
-    沒空理姜麗文新緋聞](http://paper.wenweipo.com/2014/08/26/EN1408260013.htm)
-  - \[<https://hk.celebrity.yahoo.com/news/%E5%80%8B%E5%94%B1%E8%A8%82%E7%88%86-%E9%84%AD%E4%BF%8A%E5%BC%98%E6%9C%9B%E5%8A%A0%E5%A0%B4-230018942.html;_ylt=A3eg.oZV3vtTwnQAEsi4ygt>.
-    26.08.14 個唱訂爆 鄭俊弘望加場\]
-  - [26.08.14
-    鄭俊弘個唱嗌脫掉](https://web.archive.org/web/20140903113653/http://www.hkdailynews.com.hk/NewsDetail/index/437365)
-  - [26.08.14
-    演唱會門票即日售罄想加場](https://web.archive.org/web/20140903091756/http://www.singpao.com/yl/mx/201408/t20140826_524419.html)
-  - [26.08.14
-    鄭俊弘請所有緋聞女友睇個唱](http://ol.mingpao.com/cfm/star5.cfm?File=20140826%2Fsaa01%2Fmbc1.txt)
-  - [27.08.14
-    鄭俊弘請師傅巫啟賢做個唱嘉賓](http://hk.on.cc/hk/bkn/cnt/entertainment/20140827/bkn-20140827154003952-0827_00862_001.html)
-  - [28.08.14
-    鄭俊弘一改形象：有啲Surprise畀大家](http://hk.on.cc/hk/bkn/cnt/entertainment/20140828/bkn-20140828163952207-0828_00862_001.html)
-  - [11.09.2014 鄭俊弘個唱
-    練歌唔練肌](https://web.archive.org/web/20140916062320/http://www.skypost.hk/%E5%A8%9B%E6%A8%82/%E5%A8%9B%E6%A8%82/20140911/002/%E9%84%AD%E4%BF%8A%E5%BC%98%E5%80%8B%E5%94%B1%20%E7%B7%B4%E6%AD%8C%E5%94%94%E7%B7%B4%E8%82%8C/153855)
-  - [2.11.2014
-    鄭俊弘脫衣騷肌　Solo結他超有型](http://hk.on.cc/hk/bkn/cnt/entertainment/20141102/bkn-20141102002422182-1102_00862_001.html)
+  - [15.08.14 鄭俊弘11月開處男騷](http://paper.wenweipo.com/2014/08/15/EN1408150026.htm)
+  - [17.08.14 郑俊弘撑够歌开骚](http://news.takungpao.com/paper/q/2014/0817/2676871.html#0-tsina-1-92602-397232819ff9a47a7b7e80a40613cfe1)
+  - [25.08.14 鄭俊弘開騷實現夢想](http://hk.on.cc/hk/bkn/cnt/entertainment/20140825/bkn-20140825155239547-0825_00862_001.html)
+  - [25.08.14 鄭俊弘瞓身處男個唱唔該姜麗文借歪](http://hk.on.cc/hk/bkn/cnt/entertainment/20140825/bkn-20140825163718043-0825_00862_001.html)
+  - [25.08.14 鄭俊弘個唱盼姜麗文撐場](http://news2.mingpao.com/ins/%E9%84%AD%E4%BF%8A%E5%BC%98%E5%80%8B%E5%94%B1%E7%9B%BC%E5%A7%9C%E9%BA%97%E6%96%87%E6%92%90%E5%A0%B4/web_tc/article/20140825/s00007/1408976066155)
+  - [26.08.14 鄭俊弘備戰處男個唱 沒空理姜麗文新緋聞](http://paper.wenweipo.com/2014/08/26/EN1408260013.htm)
+  - \[<https://hk.celebrity.yahoo.com/news/%E5%80%8B%E5%94%B1%E8%A8%82%E7%88%86-%E9%84%AD%E4%BF%8A%E5%BC%98%E6%9C%9B%E5%8A%A0%E5%A0%B4-230018942.html;_ylt=A3eg.oZV3vtTwnQAEsi4ygt>. 26.08.14 個唱訂爆 鄭俊弘望加場\]
+  - [26.08.14 鄭俊弘個唱嗌脫掉](https://web.archive.org/web/20140903113653/http://www.hkdailynews.com.hk/NewsDetail/index/437365)
+  - [26.08.14 演唱會門票即日售罄想加場](https://web.archive.org/web/20140903091756/http://www.singpao.com/yl/mx/201408/t20140826_524419.html)
+  - [26.08.14 鄭俊弘請所有緋聞女友睇個唱](http://ol.mingpao.com/cfm/star5.cfm?File=20140826%2Fsaa01%2Fmbc1.txt)
+  - [27.08.14 鄭俊弘請師傅巫啟賢做個唱嘉賓](http://hk.on.cc/hk/bkn/cnt/entertainment/20140827/bkn-20140827154003952-0827_00862_001.html)
+  - [28.08.14 鄭俊弘一改形象：有啲Surprise畀大家](http://hk.on.cc/hk/bkn/cnt/entertainment/20140828/bkn-20140828163952207-0828_00862_001.html)
+  - [11.09.2014 鄭俊弘個唱 練歌唔練肌](https://web.archive.org/web/20140916062320/http://www.skypost.hk/%E5%A8%9B%E6%A8%82/%E5%A8%9B%E6%A8%82/20140911/002/%E9%84%AD%E4%BF%8A%E5%BC%98%E5%80%8B%E5%94%B1%20%E7%B7%B4%E6%AD%8C%E5%94%94%E7%B7%B4%E8%82%8C/153855)
+  - [2.11.2014 鄭俊弘脫衣騷肌　Solo結他超有型](http://hk.on.cc/hk/bkn/cnt/entertainment/20141102/bkn-20141102002422182-1102_00862_001.html)
 
 [Category:香港演唱會](https://zh.wikipedia.org/wiki/Category:香港演唱會 "wikilink")

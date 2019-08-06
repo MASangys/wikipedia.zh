@@ -238,14 +238,12 @@ Sleepy曾擔任女團[SONAMOO](../Page/SONAMOO.md "wikilink")、[AOA](../Page/AO
 
 ## 外部連結
 
-  - [TS
-    Entertainment官方網站](https://web.archive.org/web/20120103092902/http://tsenter.co.kr/)
+  - [TS Entertainment官方網站](https://web.archive.org/web/20120103092902/http://tsenter.co.kr/)
   - [Untouchable韓國官方Cafe](http://cafe.daum.net/TS-Untouchable/)
 
 [分類:TS娛樂](https://zh.wikipedia.org/wiki/分類:TS娛樂 "wikilink")
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 
 1.
 2.

@@ -12,8 +12,7 @@ BXP與[以色列](../Page/以色列.md "wikilink")[烏茲衝鋒槍](../Page/烏�
 
 由於BXP配備了各種各樣的槍口設備，包括[消聲器](../Page/抑制器.md "wikilink")、、、[槍口制退器](../Page/砲口制動器.md "wikilink")，甚至[槍榴彈發射器](../Page/步槍用榴彈.md "wikilink")，該武器可以使用[空包彈](../Page/空包彈.md "wikilink")以及常規普通[彈藥以發射非致命性和爆炸性彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。BXP還設有一個向下折疊式[衝壓](../Page/衝壓.md "wikilink")[钢](../Page/钢.md "wikilink")製[槍托](../Page/槍托.md "wikilink")。BXP的標準瞄具為開放式瞄具，亦可以利用照門座配備其他[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、等輔助瞄準裝置。
 
-BXP以高達1,000
-發／分鐘的理論[射速射擊](https://zh.wikipedia.org/wiki/射速 "wikilink")，208毫米（8.19英吋）的[槍管](../Page/槍管.md "wikilink")長度平衡了全槍和保持合理[準確](../Page/準確與精密.md "wikilink")。它可以把槍托向前摺疊以形成堅固的[前握把使用](../Page/輔助握把.md "wikilink")，並可以在需要時單手射擊。
+BXP以高達1,000 發／分鐘的理論[射速射擊](https://zh.wikipedia.org/wiki/射速 "wikilink")，208毫米（8.19英吋）的[槍管](../Page/槍管.md "wikilink")長度平衡了全槍和保持合理[準確](../Page/準確與精密.md "wikilink")。它可以把槍托向前摺疊以形成堅固的[前握把使用](../Page/輔助握把.md "wikilink")，並可以在需要時單手射擊。
 
 ## 使用國
 
@@ -23,23 +22,14 @@ BXP以高達1,000
 
 ### [电影](../Page/电影.md "wikilink")
 
-  - 1997年—《[-{zh-hk:奪面雙雄; zh-tw:變臉;
-    zh-cn:变脸;}-](../Page/奪面雙雄.md "wikilink")》：原來被利奧（Leo，-{[湯米·弗拉納根](https://zh.wikipedia.org/wiki/湯米·弗拉納根 "wikilink")}-飾演）所使用，利奧被殺害後被卡斯特·特洛伊／肖恩·阿徹（Castor
-    Troy/Sean Archer，[-{zh-hans:约翰·特拉沃尔塔; zh-hk:尊·特拉華特;
-    zh-tw:約翰·屈伏塔;}-飾演](../Page/约翰·特拉沃尔塔.md "wikilink")）所奪取。
-  - 2009年—《[-{zh-cn:第九区; zh-tw:第九禁區;
-    zh-hk:D-9異形禁區;}-](../Page/第九区.md "wikilink")》：裝上[Aimpoint
-    Comp
-    M2紅點鏡並且被](../Page/Aimpoint_Comp_M2紅點鏡.md "wikilink")[私人軍事公司](https://zh.wikipedia.org/wiki/私人軍事公司 "wikilink")[僱傭兵](../Page/僱傭兵.md "wikilink")固斯特·文特爾（Koobus
-    Venter，[大衛·詹姆斯飾演](https://zh.wikipedia.org/wiki/大衛·詹姆斯_\(南非演員\) "wikilink")）所使用。
-  - 2012年—《[-{zh-cn:新特警判官; zh-hk:新特警判官; zh-sg:新特警判官;
-    zh-tw:超時空戰警3D;}-](../Page/新特警判官.md "wikilink")》：被罪犯茨維爾納（Zwirner，[賈森·庫伯飾演](https://zh.wikipedia.org/wiki/賈森·庫伯 "wikilink")）和其他多名打手所使用。
+  - 1997年—《[-{zh-hk:奪面雙雄; zh-tw:變臉; zh-cn:变脸;}-](../Page/奪面雙雄.md "wikilink")》：原來被利奧（Leo，-{[湯米·弗拉納根](https://zh.wikipedia.org/wiki/湯米·弗拉納根 "wikilink")}-飾演）所使用，利奧被殺害後被卡斯特·特洛伊／肖恩·阿徹（Castor Troy/Sean Archer，[-{zh-hans:约翰·特拉沃尔塔; zh-hk:尊·特拉華特; zh-tw:約翰·屈伏塔;}-飾演](../Page/约翰·特拉沃尔塔.md "wikilink")）所奪取。
+  - 2009年—《[-{zh-cn:第九区; zh-tw:第九禁區; zh-hk:D-9異形禁區;}-](../Page/第九区.md "wikilink")》：裝上[Aimpoint Comp M2紅點鏡並且被](../Page/Aimpoint_Comp_M2紅點鏡.md "wikilink")[私人軍事公司](https://zh.wikipedia.org/wiki/私人軍事公司 "wikilink")[僱傭兵](../Page/僱傭兵.md "wikilink")固斯特·文特爾（Koobus Venter，[大衛·詹姆斯飾演](https://zh.wikipedia.org/wiki/大衛·詹姆斯_\(南非演員\) "wikilink")）所使用。
+  - 2012年—《[-{zh-cn:新特警判官; zh-hk:新特警判官; zh-sg:新特警判官; zh-tw:超時空戰警3D;}-](../Page/新特警判官.md "wikilink")》：被罪犯茨維爾納（Zwirner，[賈森·庫伯飾演](https://zh.wikipedia.org/wiki/賈森·庫伯 "wikilink")）和其他多名打手所使用。
   - 2015年—《[-{zh-tw:成人世界;zh-cn:超能查派;zh-hk:超人類：卓比;}-](https://zh.wikipedia.org/wiki/成人世界 "wikilink")》：鮮豔的粉紅色槍身，被尤蘭蒂（Yolandi，[尤蘭蒂·維瑟](../Page/尤蘭蒂·維瑟.md "wikilink")飾演）所使用。
 
 ### [电视剧](../Page/电视剧.md "wikilink")
 
-  - 2008年—《[-{zh-cn:24; zh-hk:24;
-    zh-tw:24小時反恐任務;}-：救贖](../Page/24：救赎.md "wikilink")》：被非洲叛軍攻擊學校時所使用。
+  - 2008年—《[-{zh-cn:24; zh-hk:24; zh-tw:24小時反恐任務;}-：救贖](../Page/24：救赎.md "wikilink")》：被非洲叛軍攻擊學校時所使用。
 
 ## 參見
 
@@ -62,32 +52,20 @@ BXP以高達1,000
 
   - —[Modern Firearms—BXP](http://world.guns.ru/smg/smg50-e.htm)
 
-  - —[SecurityArms.com—BXP
-    Tressitu](http://www.securityarms.com/firearm/2636)
+  - —[SecurityArms.com—BXP Tressitu](http://www.securityarms.com/firearm/2636)
 
-  - —[Weapon.ge—Milkor
-    BXP](http://georgians.weapon.ge/index.php?sel=1&id=271&man=&coun=26&cat=&l=en)
+  - —[Weapon.ge—Milkor BXP](http://georgians.weapon.ge/index.php?sel=1&id=271&man=&coun=26&cat=&l=en)
 
-  - —[Military, Security and Civilian Guns and Equipment—BXP
-    (SMG)](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=636)
+  - —[Military, Security and Civilian Guns and Equipment—BXP (SMG)](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=636)
 
-  - —[Jane's Police and Homeland Security Equipment—Tressitu 9 mm BXP
-    sub-machine gun (South
-    Africa)](http://articles.janes.com/articles/Janes-Police-and-Homeland-Security-Equipment/Tressitu-9-mm-BXP-sub-machine-gun-South-Africa.html)
+  - —[Jane's Police and Homeland Security Equipment—Tressitu 9 mm BXP sub-machine gun (South Africa)](http://articles.janes.com/articles/Janes-Police-and-Homeland-Security-Equipment/Tressitu-9-mm-BXP-sub-machine-gun-South-Africa.html)
 
-  - —[Энциклопедия Вооружений－Milkor
-    BXP](http://gunsite.narod.ru/bxp.htm)
+  - —[Энциклопедия Вооружений－Milkor BXP](http://gunsite.narod.ru/bxp.htm)
 
-  - —[D Boy Gun
-    World（槍炮世界）—BXP冲锋枪](http://firearmsworld.net/safrica/bxp/bxp.htm)
+  - —[D Boy Gun World（槍炮世界）—BXP冲锋枪](http://firearmsworld.net/safrica/bxp/bxp.htm)
 
   - —[光明网—冲锋枪：南非9毫米BXP冲锋枪](https://web.archive.org/web/20160304234201/http://mil.gmw.cn/2012-01/23/content_3351483.htm)
 
-[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink")
-[Category:衝鋒手槍](https://zh.wikipedia.org/wiki/Category:衝鋒手槍 "wikilink")
-[Category:包絡式槍機衝鋒槍](https://zh.wikipedia.org/wiki/Category:包絡式槍機衝鋒槍 "wikilink")
-[Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink")
-[Category:南非槍械](https://zh.wikipedia.org/wiki/Category:南非槍械 "wikilink")
+[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:衝鋒手槍](https://zh.wikipedia.org/wiki/Category:衝鋒手槍 "wikilink") [Category:包絡式槍機衝鋒槍](https://zh.wikipedia.org/wiki/Category:包絡式槍機衝鋒槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:南非槍械](https://zh.wikipedia.org/wiki/Category:南非槍械 "wikilink")
 
-1.  Miller, David (2001). The Illustrated Directory of 20th Century
-    Guns. Salamander Books Ltd. ISBN 1-84065-245-4.
+1.  Miller, David (2001). The Illustrated Directory of 20th Century Guns. Salamander Books Ltd. ISBN 1-84065-245-4.

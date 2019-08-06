@@ -1,13 +1,8 @@
-《**LINE TOWN
-麻吉樂園**》是从2013年4月开始播放的一部日本動畫，為[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")[應用程式](https://zh.wikipedia.org/wiki/行動應用程式 "wikilink")《[LINE](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")》的[衍生作品](../Page/衍生作品.md "wikilink")。動畫製作公司和《[LINE
-OFFLINE
-上班族](../Page/LINE_OFFLINE_上班族.md "wikilink")》不同，但人物設定一致。前作為青年动画，而本作為儿童動畫。\[1\]
+《**LINE TOWN 麻吉樂園**》是从2013年4月开始播放的一部日本動畫，為[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")[應用程式](https://zh.wikipedia.org/wiki/行動應用程式 "wikilink")《[LINE](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")》的[衍生作品](../Page/衍生作品.md "wikilink")。動畫製作公司和《[LINE OFFLINE 上班族](../Page/LINE_OFFLINE_上班族.md "wikilink")》不同，但人物設定一致。前作為青年动画，而本作為儿童動畫。\[1\]
 
 ## 故事概要
 
-一個無奇不有的溫馨小鎮「LINE
-TOWN」，鎮上住著許多歡樂、開心的LINE卡通明星：沉默溫和的**熊大**、開朗時髦的**兔兔**、隨心所欲的**饅頭人**、自戀的**詹姆士**、愛漂亮的**潔西卡**、常常幫大家解決事情的**莎莉**、以及害羞內向的**雷納德**等人，在LINE
-TOWN發生了一連串有趣的大小事。
+一個無奇不有的溫馨小鎮「LINE TOWN」，鎮上住著許多歡樂、開心的LINE卡通明星：沉默溫和的**熊大**、開朗時髦的**兔兔**、隨心所欲的**饅頭人**、自戀的**詹姆士**、愛漂亮的**潔西卡**、常常幫大家解決事情的**莎莉**、以及害羞內向的**雷納德**等人，在LINE TOWN發生了一連串有趣的大小事。
 
 ## 登場人物
 
@@ -1178,16 +1173,9 @@ TOWN發生了一連串有趣的大小事。
 
   - [DVD特設サイト](http://columbia.jp/linedvd/)
 
-  - [LINE FRIENDS |
-    タカラトミー](http://www.takaratomy.co.jp/products/linefriends/)
+  - [LINE FRIENDS | タカラトミー](http://www.takaratomy.co.jp/products/linefriends/)
 
-[Category:2013年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2013年日本電視動畫 "wikilink")
-[Category:LINE](https://zh.wikipedia.org/wiki/Category:LINE "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
-[Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink")
-[Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink")
-[Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
-[Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink")
+[Category:2013年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2013年日本電視動畫 "wikilink") [Category:LINE](https://zh.wikipedia.org/wiki/Category:LINE "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink") [Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink") [Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink") [Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink")
 
 1.
 

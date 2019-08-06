@@ -1,5 +1,4 @@
-《**HEAVY
-GAUGE**》為[GLAY](../Page/GLAY.md "wikilink")的第5張原創專輯，於1999年10月20日發行。
+《**HEAVY GAUGE**》為[GLAY](../Page/GLAY.md "wikilink")的第5張原創專輯，於1999年10月20日發行。
 
 ## 簡介
 
@@ -31,9 +30,4 @@ GAUGE**》為[GLAY](../Page/GLAY.md "wikilink")的第5張原創專輯，於1999�
 11. **生存的意義**
 12. **Savile Row ～savile row第3街～**
 
-[Category:GLAY音樂專輯](https://zh.wikipedia.org/wiki/Category:GLAY音樂專輯 "wikilink")
-[Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink")
-[Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink")
-[Category:1999年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1999年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:1999年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1999年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
+[Category:GLAY音樂專輯](https://zh.wikipedia.org/wiki/Category:GLAY音樂專輯 "wikilink") [Category:1999年音樂專輯](https://zh.wikipedia.org/wiki/Category:1999年音樂專輯 "wikilink") [Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink") [Category:1999年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1999年Oricon專輯週榜冠軍作品 "wikilink") [Category:1999年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1999年Oricon專輯月榜冠軍作品 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")

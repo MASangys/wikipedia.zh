@@ -11,10 +11,7 @@ DKZ13型由[长春轨道客车和](https://zh.wikipedia.org/wiki/长春轨道客
 客室内设有残疾人轮椅区和老、幼、病、残、孕专席，有相应的标识区分。此外车辆的通道门使乘客可以更加方便的流动，同时提高了车厢的乘载率。列车車廂内部设有自动[报站的](https://zh.wikipedia.org/wiki/报站 "wikilink")[液晶显示屏](https://zh.wikipedia.org/wiki/液晶显示屏 "wikilink")，[液晶顯示器到站显示](https://zh.wikipedia.org/wiki/液晶顯示器 "wikilink")，声音[报站提示](https://zh.wikipedia.org/wiki/报站提示 "wikilink")。当客室出现紧急情况时，乘客可以操纵紧急报警系统与司机进行对话联系，确保情况儘快解决。車廂内部设有[液晶视频实时播放系统](https://zh.wikipedia.org/wiki/液晶视频 "wikilink")，将资讯第一时间带给乘客。在2008年奥运会时乘客可以通过车内液晶顯示器显示屏幕观看比赛直播。\[1\]
 在列车内部，静止条件下的[噪音](../Page/噪音.md "wikilink")水平不超过69[dB](https://zh.wikipedia.org/wiki/dB "wikilink")；在列车外部，列车以不超过80km/h的任意恒定速度（通常列车以60km/h±5%的恒定速度）运行时，车辆发出的噪声不超过80dB。为使车辆更加环保，在车轮上安装了降噪胶块，大大的降低了[轮轨间的噪音](https://zh.wikipedia.org/wiki/轮轨 "wikilink")，使乘客乘坐更加舒适。
 
-[File:BJ-Line5-Op.JPG|列车驾驶控制台](File:BJ-Line5-Op.JPG%7C列车驾驶控制台)
-[File:BJ-Line5-LCD-inner.JPG|列车内的报站LCD显示屏](File:BJ-Line5-LCD-inner.JPG%7C列车内的报站LCD显示屏)
-[File:BJ-Line5-Train.JPG|列车内部](File:BJ-Line5-Train.JPG%7C列车内部)
-<File:Route> map of Beijing Subway Line 5.jpg|列车内的闪灯图
+[File:BJ-Line5-Op.JPG|列车驾驶控制台](File:BJ-Line5-Op.JPG%7C列车驾驶控制台) [File:BJ-Line5-LCD-inner.JPG|列车内的报站LCD显示屏](File:BJ-Line5-LCD-inner.JPG%7C列车内的报站LCD显示屏) [File:BJ-Line5-Train.JPG|列车内部](File:BJ-Line5-Train.JPG%7C列车内部) <File:Route> map of Beijing Subway Line 5.jpg|列车内的闪灯图
 
 ## 编组
 
@@ -98,18 +95,11 @@ DKZ13型由[长春轨道客车和](https://zh.wikipedia.org/wiki/长春轨道客
 
 [车](https://zh.wikipedia.org/wiki/分类:北京地铁5号线 "wikilink")
 
-[Category:北京地铁DKZ系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DKZ系列电动车组 "wikilink")
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
-[Category:750伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:750伏直流電力動車組 "wikilink")
+[Category:北京地铁DKZ系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DKZ系列电动车组 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:750伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:750伏直流電力動車組 "wikilink")
 
-1.  [北京地铁5号线采用高科技装备
-    可实时观看奥运直播](http://sports.sina.com.cn/o/2007-09-09/01593157688.shtml)
-2.  [北京地铁5号线频发车门故障
-    因灵敏度过高所致](http://news.sohu.com/20071020/n252753350.shtml)
+1.  [北京地铁5号线采用高科技装备 可实时观看奥运直播](http://sports.sina.com.cn/o/2007-09-09/01593157688.shtml)
+2.  [北京地铁5号线频发车门故障 因灵敏度过高所致](http://news.sohu.com/20071020/n252753350.shtml)
 3.  [硅谷动力：北京地铁5号线发生事故 5天2次事故](http://www.enet.com.cn/article/2010/0920/A20100920734388.shtml)
-
 4.  [广佛都市网：北京地铁5号线因列车故障部分晚点](http://www.citygf.com/CA/CA_011001/CA_011002003/201108/t20110823_2091468.html)
-
 5.  [蓝途旅游网：北京地铁5号线列车故障致大量乘客滞留](http://www.landtu.com/news-5495.html)
-6.  [新浪新闻：北京地铁5号线今晨故障
-    网友微博抱怨迟到点](http://news.sina.com.cn/c/2013-01-17/101726057569.shtml)
+6.  [新浪新闻：北京地铁5号线今晨故障 网友微博抱怨迟到点](http://news.sina.com.cn/c/2013-01-17/101726057569.shtml)

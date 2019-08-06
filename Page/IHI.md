@@ -43,13 +43,10 @@ IHI公司起源於1853年（嘉永6年），當時[江戶幕府指令](https://z
   - 1968年（昭和43年）－併購株式會社吳造船所。
   - 1975年（昭和50年）－製成當時世界排水量最大（約48萬噸）的運油輪「[日精丸](https://zh.wikipedia.org/wiki/日精丸號運油輪 "wikilink")」號。
   - 2000年（平成12年）－與[川崎重工業](../Page/川崎重工業.md "wikilink")及[三井造船締結船舶](https://zh.wikipedia.org/wiki/三井造船 "wikilink")、海洋事業（政府船舶業務除外）的合作協議。購入[日産自動車的軍事及航太業務](https://zh.wikipedia.org/wiki/日産自動車 "wikilink")（現[IHI航太](https://zh.wikipedia.org/wiki/IHI航太 "wikilink")）。
-  - 2002年（平成14年）－受政府開發東京臨海地區影響，關閉東京第1工場（豐洲），業務遷移至橫濱第3工場。將船舶、海洋事業注入與住友重機械工業合資的Marine
-    United，成為子公司IHI Marine United。
+  - 2002年（平成14年）－受政府開發東京臨海地區影響，關閉東京第1工場（豐洲），業務遷移至橫濱第3工場。將船舶、海洋事業注入與住友重機械工業合資的Marine United，成為子公司IHI Marine United。
   - 2003年（平成15年）－購入[新潟鐵工所原動機](https://zh.wikipedia.org/wiki/新潟鐵工所 "wikilink")（現新潟原動機）、產業機械（現[新潟運輸系統](../Page/新潟運輸系統.md "wikilink")）等業務。
-  - 2006年（平成18年）－購入IHI Marine United餘下股權，令IHI Marine
-    United成為旗下全資子公司。總公司自[千代田區](../Page/千代田區.md "wikilink")[大手町二丁目遷至](../Page/大手町_\(千代田區\).md "wikilink")[江東區](https://zh.wikipedia.org/wiki/江東區 "wikilink")[豐洲](../Page/豐洲.md "wikilink")三丁目。
-  - 2007年（平成19年）－被發現與其他企業參與鐵橋工程的圍標活動，被國土交通省按[建設業法判罰停業](https://zh.wikipedia.org/wiki/建設業法 "wikilink")45天。公司更名為**株式會社IHI**（英文社名：*IHI
-    Corporation*）。2006年度的年報被懷疑載有虛假資料，股份被東京證券交易所列入監察名單。
+  - 2006年（平成18年）－購入IHI Marine United餘下股權，令IHI Marine United成為旗下全資子公司。總公司自[千代田區](../Page/千代田區.md "wikilink")[大手町二丁目遷至](../Page/大手町_\(千代田區\).md "wikilink")[江東區](https://zh.wikipedia.org/wiki/江東區 "wikilink")[豐洲](../Page/豐洲.md "wikilink")三丁目。
+  - 2007年（平成19年）－被發現與其他企業參與鐵橋工程的圍標活動，被國土交通省按[建設業法判罰停業](https://zh.wikipedia.org/wiki/建設業法 "wikilink")45天。公司更名為**株式會社IHI**（英文社名：*IHI Corporation*）。2006年度的年報被懷疑載有虛假資料，股份被東京證券交易所列入監察名單。
   - 2008年（平成20年）－2月9日改列入特別注意名單。
   - 2009年（平成21年）－5月12日解除列入特別注意名單。
 
@@ -75,8 +72,7 @@ IHI公司起源於1853年（嘉永6年），當時[江戶幕府指令](https://z
   - 驅逐艦：
       - [樅型驅逐艦](https://zh.wikipedia.org/wiki/樅型驅逐艦 "wikilink")：[栂號驅逐艦](https://zh.wikipedia.org/wiki/栂號驅逐艦 "wikilink")、[薄號驅逐艦](https://zh.wikipedia.org/wiki/薄號驅逐艦 "wikilink")、[菫號驅逐艦](https://zh.wikipedia.org/wiki/菫號驅逐艦 "wikilink")、[蓬號驅逐艦](https://zh.wikipedia.org/wiki/蓬號驅逐艦 "wikilink")
       - [若竹型驅逐艦](https://zh.wikipedia.org/wiki/若竹型驅逐艦 "wikilink")：[朝顏號驅逐艦](../Page/朝顏號驅逐艦.md "wikilink")、[夕顏號驅逐艦](../Page/夕顏號驅逐艦.md "wikilink")
-      - [神風型驅逐艦
-        (二代)](../Page/神風型驅逐艦_\(二代\).md "wikilink")：[疾風號驅逐艦](https://zh.wikipedia.org/wiki/疾風號驅逐艦 "wikilink")
+      - [神風型驅逐艦 (二代)](../Page/神風型驅逐艦_\(二代\).md "wikilink")：[疾風號驅逐艦](https://zh.wikipedia.org/wiki/疾風號驅逐艦 "wikilink")
       - [睦月型驅逐艦](../Page/睦月型驅逐艦.md "wikilink")：[卯月號驅逐艦](https://zh.wikipedia.org/wiki/卯月號驅逐艦_\(二代\) "wikilink")、[長月號驅逐艦](https://zh.wikipedia.org/wiki/長月號驅逐艦_\(二代\) "wikilink")
       - [吹雪型驅逐艦](../Page/吹雪型驅逐艦.md "wikilink")：[薄雲號驅逐艦](https://zh.wikipedia.org/wiki/薄雲號驅逐艦 "wikilink")、[天霧號驅逐艦](https://zh.wikipedia.org/wiki/天霧號驅逐艦 "wikilink")
 
@@ -130,8 +126,4 @@ IHI公司起源於1853年（嘉永6年），當時[江戶幕府指令](https://z
 
   - [公司網站](http://www.ihi.co.jp)
 
-[Category:日本軍事工業](https://zh.wikipedia.org/wiki/Category:日本軍事工業 "wikilink")
-[Category:江東區公司](https://zh.wikipedia.org/wiki/Category:江東區公司 "wikilink")
-[Category:三井集團](https://zh.wikipedia.org/wiki/Category:三井集團 "wikilink")
-[Category:日本軍工廠](https://zh.wikipedia.org/wiki/Category:日本軍工廠 "wikilink")
-[Category:日本造船廠](https://zh.wikipedia.org/wiki/Category:日本造船廠 "wikilink")
+[Category:日本軍事工業](https://zh.wikipedia.org/wiki/Category:日本軍事工業 "wikilink") [Category:江東區公司](https://zh.wikipedia.org/wiki/Category:江東區公司 "wikilink") [Category:三井集團](https://zh.wikipedia.org/wiki/Category:三井集團 "wikilink") [Category:日本軍工廠](https://zh.wikipedia.org/wiki/Category:日本軍工廠 "wikilink") [Category:日本造船廠](https://zh.wikipedia.org/wiki/Category:日本造船廠 "wikilink")

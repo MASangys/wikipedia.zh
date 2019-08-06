@@ -1553,13 +1553,9 @@
 ## 相關項目
 
   - [KBS TV小說](../Page/KBS_TV小說.md "wikilink")
-  - [KBS
-    2TV晨間連續劇](https://zh.wikipedia.org/wiki/KBS_2TV晨間連續劇 "wikilink")
+  - [KBS 2TV晨間連續劇](https://zh.wikipedia.org/wiki/KBS_2TV晨間連續劇 "wikilink")
   - [MBC晨間連續劇](../Page/MBC晨間連續劇.md "wikilink")
   - [tvN晨間連續劇](https://zh.wikipedia.org/wiki/tvN晨間連續劇 "wikilink")
   - [JTBC晨間連續劇](https://zh.wikipedia.org/wiki/JTBC晨間連續劇 "wikilink")
 
-[Category:SBS晨間連續劇](https://zh.wikipedia.org/wiki/Category:SBS晨間連續劇 "wikilink")
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
+[Category:SBS晨間連續劇](https://zh.wikipedia.org/wiki/Category:SBS晨間連續劇 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")

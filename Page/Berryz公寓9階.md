@@ -1,19 +1,11 @@
-《**Berryz公寓9階**》（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第8張原創專輯，於2013年1月30日發行。唱片公司為[PICCOLO
-TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
+《**Berryz公寓9階**》（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第8張原創專輯，於2013年1月30日發行。唱片公司為[PICCOLO TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
 ## 概要
 
   - 與上一張專輯《[愛的專輯⑧](../Page/愛的專輯⑧.md "wikilink")》相距約11個月。
-  - 收錄第28張單曲《[Be元氣
-    ＜只要嘗試便能做到\!＞](../Page/Be元氣_＜只要嘗試便能做到!＞.md "wikilink")》至第30張單曲《[WANT\!](../Page/WANT!.md "wikilink")》3首A面曲，以及《[cha
-    cha
-    SING](https://zh.wikipedia.org/wiki/cha_cha_SING "wikilink")》B面曲《Momochi\!
-    饒恕我吧♡體操》的Remix版本、《[沒有你活不下去](../Page/沒有你活不下去.md "wikilink")》的全新版本和新曲等，一共10首歌曲。
+  - 收錄第28張單曲《[Be元氣 ＜只要嘗試便能做到\!＞](../Page/Be元氣_＜只要嘗試便能做到!＞.md "wikilink")》至第30張單曲《[WANT\!](../Page/WANT!.md "wikilink")》3首A面曲，以及《[cha cha SING](https://zh.wikipedia.org/wiki/cha_cha_SING "wikilink")》B面曲《Momochi\! 饒恕我吧♡體操》的Remix版本、《[沒有你活不下去](../Page/沒有你活不下去.md "wikilink")》的全新版本和新曲等，一共10首歌曲。
   - 本作分「初回限定盤」和「CD盤」2種版本。
-  - 「初回限定盤」收錄了新曲《亂七八糟〜（各成員 Solo
-    Ver.）》的[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")（PV）、專輯「Berryz公寓9階」的製作花絮（Making）、《cha
-    cha SING（Flash Mob ver.）》、B面曲《Momochi\! 饒恕我吧♡體操》的Making和「Berryz工房
-    訪問泰國」的片段。
+  - 「初回限定盤」收錄了新曲《亂七八糟〜（各成員 Solo Ver.）》的[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")（PV）、專輯「Berryz公寓9階」的製作花絮（Making）、《cha cha SING（Flash Mob ver.）》、B面曲《Momochi\! 饒恕我吧♡體操》的Making和「Berryz工房 訪問泰國」的片段。
   - 在2月11日於公信榜專輯週排行榜取得第24位。
 
 ## 收錄內容
@@ -44,20 +36,15 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
         第28張單曲
 7.  **率直的我**（）
     （作詞、作曲：淳君 編曲：上杉洋史）
-8.  **[cha cha
-    SING](https://zh.wikipedia.org/wiki/cha_cha_SING "wikilink")**
-    （作詞：[Mukek
-    Jongmankhong](https://zh.wikipedia.org/wiki/Mukek_Jongmankhong "wikilink")　日語填詞：淳君　作曲：[Sudsan
-    Wongsamut](https://zh.wikipedia.org/wiki/Sudsan_Wongsamut "wikilink")　編曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")）
+8.  **[cha cha SING](https://zh.wikipedia.org/wiki/cha_cha_SING "wikilink")**
+    （作詞：[Mukek Jongmankhong](https://zh.wikipedia.org/wiki/Mukek_Jongmankhong "wikilink")　日語填詞：淳君　作曲：[Sudsan Wongsamut](https://zh.wikipedia.org/wiki/Sudsan_Wongsamut "wikilink")　編曲：[大久保薫](https://zh.wikipedia.org/wiki/大久保薫 "wikilink")）
       -
         第29張單曲
 9.  **[沒有你活不下去](../Page/沒有你活不下去.md "wikilink")（2013 Ver.）**（）
     （作詞、作曲：淳君　編曲：[AKIRA](../Page/AKIRA.md "wikilink")）
       -
         第1張單曲
-10. **[Momochi\!
-    饒恕我吧♡體操](https://zh.wikipedia.org/wiki/cha_cha_SING "wikilink")（饒恕我
-    Remix）**（）
+10. **[Momochi\! 饒恕我吧♡體操](https://zh.wikipedia.org/wiki/cha_cha_SING "wikilink")（饒恕我 Remix）**（）
     （作詞、作曲：淳君　編曲：[原田ナオ](https://zh.wikipedia.org/wiki/原田ナオ "wikilink")）
       -
         第29張單曲《cha cha SING》的B面曲、[嗣永桃子](../Page/嗣永桃子.md "wikilink")主唱
@@ -77,5 +64,4 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 11. Berryz工房 訪問泰國 Making映像 ①
 12. Berryz工房 訪問泰國 Making映像 ②
 
-[Category:Berryz工房專輯](https://zh.wikipedia.org/wiki/Category:Berryz工房專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
+[Category:Berryz工房專輯](https://zh.wikipedia.org/wiki/Category:Berryz工房專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")

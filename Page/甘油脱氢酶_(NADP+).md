@@ -1,17 +1,9 @@
-**甘油脱氢酶
-(NADP<sup>+</sup>)**（，[EC](https://zh.wikipedia.org/wiki/EC编号 "wikilink")
-[1.1.1.72](http://enzyme.expasy.org/EC/1.1.1.72)）是一种以[NAD<sup>+</sup>或](../Page/烟酰胺腺嘌呤二核苷酸.md "wikilink")[NADP<sup>+</sup>为](../Page/烟酰胺腺嘌呤二核苷酸磷酸.md "wikilink")[受体](../Page/受体_\(生物化学\).md "wikilink")、作用于[供体](https://zh.wikipedia.org/wiki/供体 "wikilink")[CH](https://zh.wikipedia.org/wiki/次甲基 "wikilink")-[OH](../Page/羟基.md "wikilink")[基团上的](https://zh.wikipedia.org/wiki/基团 "wikilink")[氧化还原酶](https://zh.wikipedia.org/wiki/氧化还原酶 "wikilink")。这种[酶](../Page/酶.md "wikilink")能[催化](../Page/催化.md "wikilink")以下[酶促反应](../Page/酶促反应.md "wikilink")：
+**甘油脱氢酶 (NADP<sup>+</sup>)**（，[EC](https://zh.wikipedia.org/wiki/EC编号 "wikilink") [1.1.1.72](http://enzyme.expasy.org/EC/1.1.1.72)）是一种以[NAD<sup>+</sup>或](../Page/烟酰胺腺嘌呤二核苷酸.md "wikilink")[NADP<sup>+</sup>为](../Page/烟酰胺腺嘌呤二核苷酸磷酸.md "wikilink")[受体](../Page/受体_\(生物化学\).md "wikilink")、作用于[供体](https://zh.wikipedia.org/wiki/供体 "wikilink")[CH](https://zh.wikipedia.org/wiki/次甲基 "wikilink")-[OH](../Page/羟基.md "wikilink")[基团上的](https://zh.wikipedia.org/wiki/基团 "wikilink")[氧化还原酶](https://zh.wikipedia.org/wiki/氧化还原酶 "wikilink")。这种[酶](../Page/酶.md "wikilink")能[催化](../Page/催化.md "wikilink")以下[酶促反应](../Page/酶促反应.md "wikilink")：
 
   -
-    [甘油](../Page/甘油.md "wikilink") +
-    [NADP<sup>+</sup>](../Page/烟酰胺腺嘌呤二核苷酸磷酸.md "wikilink")
-    \(\rightleftharpoons\)
-    [D-甘油醛](https://zh.wikipedia.org/wiki/D-甘油醛 "wikilink")
-    + NADPH +
-    [H<sup>+</sup>](https://zh.wikipedia.org/wiki/氢离子 "wikilink")
+    [甘油](../Page/甘油.md "wikilink") + [NADP<sup>+</sup>](../Page/烟酰胺腺嘌呤二核苷酸磷酸.md "wikilink") \(\rightleftharpoons\) [D-甘油醛](https://zh.wikipedia.org/wiki/D-甘油醛 "wikilink") + NADPH + [H<sup>+</sup>](https://zh.wikipedia.org/wiki/氢离子 "wikilink")
 
-甘油脱氢酶
-(NADP<sup>+</sup>)主要参与[甘油酯](../Page/甘油酯.md "wikilink")的[代谢](../Page/代谢.md "wikilink")过程。
+甘油脱氢酶 (NADP<sup>+</sup>)主要参与[甘油酯](../Page/甘油酯.md "wikilink")的[代谢](../Page/代谢.md "wikilink")过程。
 
 ## 参考文献
 

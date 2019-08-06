@@ -1,6 +1,4 @@
-**SidusHQ
-Entertainment**（）是韓國一間[經紀公司](../Page/經紀公司.md "wikilink")，於1999年2月創立。是目前韓國比較大規模的的新音樂獨立唱片公司之一**SidusHQ**是一間製作過電視劇電影維方式把握未來的方向，進而影進領域橫跨音樂，影像與平面，是一家全新概念的綜合娛樂公司。\[1\]\[2\]
-\[3\] \[4\]\[5\]\[6\]\[7\]
+**SidusHQ Entertainment**（）是韓國一間[經紀公司](../Page/經紀公司.md "wikilink")，於1999年2月創立。是目前韓國比較大規模的的新音樂獨立唱片公司之一**SidusHQ**是一間製作過電視劇電影維方式把握未來的方向，進而影進領域橫跨音樂，影像與平面，是一家全新概念的綜合娛樂公司。\[1\]\[2\] \[3\] \[4\]\[5\]\[6\]\[7\]
 
 ## 所屬藝人
 
@@ -254,21 +252,12 @@ Entertainment**（）是韓國一間[經紀公司](../Page/經紀公司.md "wiki
   -
 ## 參考資料
 
-[Category:1992年成立的公司](https://zh.wikipedia.org/wiki/Category:1992年成立的公司 "wikilink")
-[Category:韓國證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:韓國證券交易所上市公司 "wikilink")
-[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
+[Category:1992年成立的公司](https://zh.wikipedia.org/wiki/Category:1992年成立的公司 "wikilink") [Category:韓國證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:韓國證券交易所上市公司 "wikilink") [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
 
 1.  [CUBE 與 iHQ 結盟](http://kpopn.niusnews.com/=K279q6y2)2013-09-18
-2.  [Cube Entertainment Joins Forces With iHQ, Vies For \#1 Spot In
-    K-Pop
-    Industry](http://www.kpopstarz.com/articles/41771/20130917/cube-entertainment-ihq-join-forces.htm)2013-09-17
-3.  [비스트 소속사 큐브엔터 품은 iHQ 정훈탁의
-    속내는?](http://sports.chosun.com/news/ntype.htm?id=201310020100007200000140&servicedate=20131001)2013-10-01
+2.  [Cube Entertainment Joins Forces With iHQ, Vies For \#1 Spot In K-Pop Industry](http://www.kpopstarz.com/articles/41771/20130917/cube-entertainment-ihq-join-forces.htm)2013-09-17
+3.  [비스트 소속사 큐브엔터 품은 iHQ 정훈탁의 속내는?](http://sports.chosun.com/news/ntype.htm?id=201310020100007200000140&servicedate=20131001)2013-10-01
 4.  [Cube, iHQ 與中國公司結盟](http://kpopn.niusnews.com/=K1yxdx69)2014-07-16
-5.  [D'Live selling
-    iHQ](http://thebell.co.kr/free/content/ArticleView.asp?key=201711220100041070002529)2017-11-24
-6.  [金宇彬所属经纪公司IHQ将再次进行出售](http://ikr.ifeng.com/6179060/news.shtml?srctag=pc2m&back)
-    2017-11-24
-7.  [iHQ Cube selling
-    separately?](http://thebell.co.kr/free/content/ArticleView.asp?key=201712120100019200001152)
-    2017-12-19
+5.  [D'Live selling iHQ](http://thebell.co.kr/free/content/ArticleView.asp?key=201711220100041070002529)2017-11-24
+6.  [金宇彬所属经纪公司IHQ将再次进行出售](http://ikr.ifeng.com/6179060/news.shtml?srctag=pc2m&back) 2017-11-24
+7.  [iHQ Cube selling separately?](http://thebell.co.kr/free/content/ArticleView.asp?key=201712120100019200001152) 2017-12-19

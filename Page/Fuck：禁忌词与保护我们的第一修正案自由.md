@@ -10,8 +10,7 @@
 
 2006年的文章《》是从语言和法律角色对这个辞汇的禁忌加以分析\[11\]。其中涵盖了有关使用这个词的[性骚扰](../Page/性骚扰.md "wikilink")和[教育](../Page/教育.md "wikilink")案例研究\[12\]。这篇文章长达74页\[13\]，其中“”这个词一共出现了超过560次\[14\]。据作家杰西·谢德劳尔（）在其著作《开头的那个词》（）中所说，菲尔曼的这篇作品是历史上第一篇就只是用“”来作标题的学术文章\[15\]。
 
-[Christopher_Fairman.jpg](https://zh.wikipedia.org/wiki/File:Christopher_Fairman.jpg "fig:Christopher_Fairman.jpg")[莫里兹法学院教授克里斯托弗](https://zh.wikipedia.org/wiki/俄亥俄州立大学莫里兹法学院 "wikilink")··菲尔曼（摄于2008年）\]\]
-2006年4月17日，菲尔曼将自己的文章作为工作文件发表在社会科学研究网上\[16\]。起初他向全美多家[法律评论](https://zh.wikipedia.org/wiki/法律评论 "wikilink")[杂志](../Page/杂志.md "wikilink")提供了复本希望能得以发表，但收到的回应很冷淡\[17\]。《堪萨斯法律评论》收到文章仅25[分钟后就给出了否定的答复](https://zh.wikipedia.org/wiki/分钟 "wikilink")\[18\]，之后一直到2007年才由《[卡多佐法律评论](../Page/本杰明·卡多佐法学院.md "wikilink")》发表\[19\]。2007年4月，作者还写了一篇标题为《和法律学院排名》的后续文章\[20\]。
+[Christopher_Fairman.jpg](https://zh.wikipedia.org/wiki/File:Christopher_Fairman.jpg "fig:Christopher_Fairman.jpg")[莫里兹法学院教授克里斯托弗](https://zh.wikipedia.org/wiki/俄亥俄州立大学莫里兹法学院 "wikilink")··菲尔曼（摄于2008年）\]\] 2006年4月17日，菲尔曼将自己的文章作为工作文件发表在社会科学研究网上\[16\]。起初他向全美多家[法律评论](https://zh.wikipedia.org/wiki/法律评论 "wikilink")[杂志](../Page/杂志.md "wikilink")提供了复本希望能得以发表，但收到的回应很冷淡\[17\]。《堪萨斯法律评论》收到文章仅25[分钟后就给出了否定的答复](https://zh.wikipedia.org/wiki/分钟 "wikilink")\[18\]，之后一直到2007年才由《[卡多佐法律评论](../Page/本杰明·卡多佐法学院.md "wikilink")》发表\[19\]。2007年4月，作者还写了一篇标题为《和法律学院排名》的后续文章\[20\]。
 
 ## 内容提要
 
@@ -42,16 +41,10 @@
 
 ## 外部链接
 
-  - [Christopher M. Fairman, Alumni Society Designated Professor of
-    Law](https://web.archive.org/web/20140318094953/http://moritzlaw.osu.edu/faculty/professor/christopher-m-fairman/)作者在[俄亥俄州立大学](../Page/俄亥俄州立大学.md "wikilink")[俄亥俄州立大学莫里兹法学院网站上的简介](https://zh.wikipedia.org/wiki/俄亥俄州立大学莫里兹法学院 "wikilink")
-  - [Christopher M
-    Fairman](https://web.archive.org/web/20140318121737/http://works.bepress.com/christopher_fairman/)作者在伯克利电子出版社上的简介
+  - [Christopher M. Fairman, Alumni Society Designated Professor of Law](https://web.archive.org/web/20140318094953/http://moritzlaw.osu.edu/faculty/professor/christopher-m-fairman/)作者在[俄亥俄州立大学](../Page/俄亥俄州立大学.md "wikilink")[俄亥俄州立大学莫里兹法学院网站上的简介](https://zh.wikipedia.org/wiki/俄亥俄州立大学莫里兹法学院 "wikilink")
+  - [Christopher M Fairman](https://web.archive.org/web/20140318121737/http://works.bepress.com/christopher_fairman/)作者在伯克利电子出版社上的简介
 
-[Category:2009年書籍](https://zh.wikipedia.org/wiki/Category:2009年書籍 "wikilink")
-[Category:言论自由相关书籍](https://zh.wikipedia.org/wiki/Category:言论自由相关书籍 "wikilink")
-[Category:美國法制史](https://zh.wikipedia.org/wiki/Category:美國法制史 "wikilink")
-[Category:美國非虛構作品書籍](https://zh.wikipedia.org/wiki/Category:美國非虛構作品書籍 "wikilink")
-[Category:美利坚合众国宪法第一条修正案](https://zh.wikipedia.org/wiki/Category:美利坚合众国宪法第一条修正案 "wikilink")
+[Category:2009年書籍](https://zh.wikipedia.org/wiki/Category:2009年書籍 "wikilink") [Category:言论自由相关书籍](https://zh.wikipedia.org/wiki/Category:言论自由相关书籍 "wikilink") [Category:美國法制史](https://zh.wikipedia.org/wiki/Category:美國法制史 "wikilink") [Category:美國非虛構作品書籍](https://zh.wikipedia.org/wiki/Category:美國非虛構作品書籍 "wikilink") [Category:美利坚合众国宪法第一条修正案](https://zh.wikipedia.org/wiki/Category:美利坚合众国宪法第一条修正案 "wikilink")
 
 1.
 
@@ -78,8 +71,7 @@
 
 15.
 
-16.  [alternate
-    link](http://www.cosmopolitanuniversity.ac/library/Fuck.pdf)
+16.  [alternate link](http://www.cosmopolitanuniversity.ac/library/Fuck.pdf)
 
 17.
 18.

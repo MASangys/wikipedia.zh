@@ -18,8 +18,7 @@
     編曲：直樹
       -
         出自第1張迷你專輯『從這個地方…』。
-3.  **天使們的旋律（Street Live Ver.）**<small>（天使たちのメロディー（Street Live
-    Ver.））</small>
+3.  **天使們的旋律（Street Live Ver.）**<small>（天使たちのメロディー（Street Live Ver.））</small>
     編曲：川嶋愛
       -
         出自第1張迷你專輯『從這個地方…』。
@@ -64,8 +63,6 @@
 
 ## 參考資料
 
-[Category:川嶋愛音樂專輯](https://zh.wikipedia.org/wiki/Category:川嶋愛音樂專輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
+[Category:川嶋愛音樂專輯](https://zh.wikipedia.org/wiki/Category:川嶋愛音樂專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
 
-1.  [川嶋あい My Room - DISCOGRAPHY -
-    ALBUM](http://www.kawashimaai.com/discography/album.php)  川嶋愛官方網站
+1.  [川嶋あい My Room - DISCOGRAPHY - ALBUM](http://www.kawashimaai.com/discography/album.php)  川嶋愛官方網站

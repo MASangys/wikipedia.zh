@@ -19,8 +19,7 @@
     （作詞：岩里祐穂、作曲・編曲：AKIRASTAR）
 4.  **消失点〜Vanishing Point〜**
     （作詞：川上夏季、作曲：[崎谷健次郎](https://zh.wikipedia.org/wiki/崎谷健次郎 "wikilink")、編曲：佐久間誠）
-5.  **[Lotta Love Lotta
-    Love](../Page/Lotta_Love_Lotta_Love.md "wikilink")**
+5.  **[Lotta Love Lotta Love](../Page/Lotta_Love_Lotta_Love.md "wikilink")**
     （作詞：岩里祐穂、作曲：井上慎二郎、編曲：西川進）
       -
         5th單曲
@@ -62,6 +61,4 @@
 
   - [Hello\!Project唱片](https://web.archive.org/web/20090916072133/http://www.helloproject.com/discography/buono/a_002.html)
 
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink")
-[Category:Buono\!音樂專輯](https://zh.wikipedia.org/wiki/Category:Buono!音樂專輯 "wikilink")
+[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink") [Category:Buono\!音樂專輯](https://zh.wikipedia.org/wiki/Category:Buono!音樂專輯 "wikilink")

@@ -2,8 +2,7 @@
 
 ## 公司歷史
 
-1991年2月，公司以「Levie」（）名義成立\[1\]，社長為本間憲\[2\]。為[Burning
-Production系列事務所之一](../Page/Burning_Production.md "wikilink")。
+1991年2月，公司以「Levie」（）名義成立\[1\]，社長為本間憲\[2\]。為[Burning Production系列事務所之一](../Page/Burning_Production.md "wikilink")。
 
 1997年4月，成立屬下的音樂出版公司「Levie Plus」\[3\]。
 
@@ -31,13 +30,11 @@ Production系列事務所之一](../Page/Burning_Production.md "wikilink")。
 
 2012年1月28日，LesPros參與製作的電影《[麒麟之翼](https://zh.wikipedia.org/wiki/麒麟之翼#電影 "wikilink")》上映。
 
-2013年1月，開展第三屆「LesPros
-Girls」選秀活動\[12\]，更名為「LesPros次世代Star選秀2013」（）\[13\]。
+2013年1月，開展第三屆「LesPros Girls」選秀活動\[12\]，更名為「LesPros次世代Star選秀2013」（）\[13\]。
 
 2013年4月，屬下公司「Holstein」更名為「LesPros Aster」（）\[14\]。
 
-2014年8月16日，LesPros參與製作的電影《[Hot
-Road](../Page/Hot_Road_\(電影\).md "wikilink")》上映。
+2014年8月16日，LesPros參與製作的電影《[Hot Road](../Page/Hot_Road_\(電影\).md "wikilink")》上映。
 
 2014年11月8日，LesPros參與製作的電影《[再一次說愛你](../Page/再一次說愛你.md "wikilink")》上映。
 
@@ -192,8 +189,7 @@ Road](../Page/Hot_Road_\(電影\).md "wikilink")》上映。
 
   - 出村真実（[ヒラタオフィス移籍後](https://zh.wikipedia.org/wiki/ヒラタオフィス "wikilink")、改名成）
 
-  - （[ユマニテ](https://zh.wikipedia.org/wiki/ユマニテ_\(企業\) "wikilink")→[Stardust
-    Production移籍](https://zh.wikipedia.org/wiki/Stardust_Production "wikilink")）
+  - （[ユマニテ](https://zh.wikipedia.org/wiki/ユマニテ_\(企業\) "wikilink")→[Stardust Production移籍](https://zh.wikipedia.org/wiki/Stardust_Production "wikilink")）
 
   -
   -
@@ -294,8 +290,7 @@ Road](../Page/Hot_Road_\(電影\).md "wikilink")》上映。
 
   - （引退）
 
-  - [Babyraids
-    Japan](../Page/Babyraids_Japan.md "wikilink")（於2018年9月24日解散）
+  - [Babyraids Japan](../Page/Babyraids_Japan.md "wikilink")（於2018年9月24日解散）
 
   - 西川美里（）
 
@@ -346,36 +341,27 @@ Road](../Page/Hot_Road_\(電影\).md "wikilink")》上映。
 
 ### LesPros Girls
 
-[lespros_audition_2008.jpg](https://zh.wikipedia.org/wiki/File:lespros_audition_2008.jpg "fig:lespros_audition_2008.jpg")
-「LesPros Girls」選秀活動是LesPros娛樂在創立15周年（2006年）時開始舉辦的紀念活動，專門發掘新模特兒和藝人。
+[lespros_audition_2008.jpg](https://zh.wikipedia.org/wiki/File:lespros_audition_2008.jpg "fig:lespros_audition_2008.jpg") 「LesPros Girls」選秀活動是LesPros娛樂在創立15周年（2006年）時開始舉辦的紀念活動，專門發掘新模特兒和藝人。
 
   - 2006年（第1回）
       - 報名人數：18,219人
-      - 優勝者：松原汐織（現[雜誌屋](https://zh.wikipedia.org/wiki/雜誌屋 "wikilink")
-        BOAO 專屬模特兒）
-      - 審査員特別獎：水野裕美、三浦繪美（現雜誌屋 BOAO 專屬模特兒）、篠原美由紀、瀬間詠里花、吉川貴世子（現
-        [Ray](../Page/Ray_\(雜誌\).md "wikilink")
-        雜誌專屬模特兒）、平山美春（現[小学館](https://zh.wikipedia.org/wiki/小学館 "wikilink")
-        CanCam 專屬模特兒）。
+      - 優勝者：松原汐織（現[雜誌屋](https://zh.wikipedia.org/wiki/雜誌屋 "wikilink") BOAO 專屬模特兒）
+      - 審査員特別獎：水野裕美、三浦繪美（現雜誌屋 BOAO 專屬模特兒）、篠原美由紀、瀬間詠里花、吉川貴世子（現 [Ray](../Page/Ray_\(雜誌\).md "wikilink") 雜誌專屬模特兒）、平山美春（現[小学館](https://zh.wikipedia.org/wiki/小学館 "wikilink") CanCam 專屬模特兒）。
   - 2008年（[夏威夷大會](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")）
       - 報名人數：585人
       - 優勝者：Alessa Miki （， 專屬模特兒）
-      - 特別獎：Julie Baer（[ViVi](../Page/ViVi.md "wikilink") 專屬模特兒）、村上Devin
-        （，JJ 專屬模特兒）
+      - 特別獎：Julie Baer（[ViVi](../Page/ViVi.md "wikilink") 專屬模特兒）、村上Devin （，JJ 專屬模特兒）
   - 2008年（第2回）
       - 報名人數：21,452人
       - 優勝獎金：100萬[日圓](../Page/日圓.md "wikilink")\[15\]
-      - 優勝者：[李建伊](../Page/梨衣名.md "wikilink")（現[小学館](https://zh.wikipedia.org/wiki/小学館 "wikilink")
-        [CanCam](../Page/CanCam.md "wikilink") 專屬模特兒）\[16\]
+      - 優勝者：[李建伊](../Page/梨衣名.md "wikilink")（現[小学館](https://zh.wikipedia.org/wiki/小学館 "wikilink") [CanCam](../Page/CanCam.md "wikilink") 專屬模特兒）\[16\]
       - 最受歡迎獎：、JULIE BAER
       - 最佳風格獎：杉浦花奈
-      - 好個性獎：[清水富美加](../Page/清水富美加.md "wikilink")（[德間書店](../Page/德間書店.md "wikilink")
-         專屬模特兒）
+      - 好個性獎：[清水富美加](../Page/清水富美加.md "wikilink")（[德間書店](../Page/德間書店.md "wikilink")  專屬模特兒）
 
 ### LesPros次世代Star選秀
 
-[lespros_star.png](https://zh.wikipedia.org/wiki/File:lespros_star.png "fig:lespros_star.png")
-2013年，選秀活動首次開放予男性參加者，並更名為「LesPros次世代Star選秀2013」（）\[17\]
+[lespros_star.png](https://zh.wikipedia.org/wiki/File:lespros_star.png "fig:lespros_star.png") 2013年，選秀活動首次開放予男性參加者，並更名為「LesPros次世代Star選秀2013」（）\[17\]
 
 ## 參考來源
 
@@ -389,11 +375,7 @@ Road](../Page/Hot_Road_\(電影\).md "wikilink")》上映。
 <!-- end list -->
 
   -
-[Category:LesPros娱乐](https://zh.wikipedia.org/wiki/Category:LesPros娱乐 "wikilink")
-[Category:Burning_Production系列](https://zh.wikipedia.org/wiki/Category:Burning_Production系列 "wikilink")
-[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink")
-[Category:品川區公司](https://zh.wikipedia.org/wiki/Category:品川區公司 "wikilink")
-[Category:1991年成立的公司](https://zh.wikipedia.org/wiki/Category:1991年成立的公司 "wikilink")
+[Category:LesPros娱乐](https://zh.wikipedia.org/wiki/Category:LesPros娱乐 "wikilink") [Category:Burning_Production系列](https://zh.wikipedia.org/wiki/Category:Burning_Production系列 "wikilink") [Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:品川區公司](https://zh.wikipedia.org/wiki/Category:品川區公司 "wikilink") [Category:1991年成立的公司](https://zh.wikipedia.org/wiki/Category:1991年成立的公司 "wikilink")
 
 1.
 2.

@@ -1,23 +1,18 @@
-《**Still in
-Love**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBLAQ的第四張單曲](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")，由作曲、作詞，並在2014年2月26日以四個不同版本推出\[1\]。
+《**Still in Love**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBLAQ的第四張單曲](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")，由作曲、作詞，並在2014年2月26日以四個不同版本推出\[1\]。
 
 ## 背景
 
-2013年12月25日，韓國公司J.Tune
-CAMP在MBLAQ的日本官方網站公布了這單曲的發行消息\[2\]\[3\]；並在2014年1月17日提供了單曲的詳細資訊，包括三個限定盤，它們的曲目資料也同時公開\[4\]。次日（1月28日），日本方面決定加推famima.com限定盤\[5\]。
+2013年12月25日，韓國公司J.Tune CAMP在MBLAQ的日本官方網站公布了這單曲的發行消息\[2\]\[3\]；並在2014年1月17日提供了單曲的詳細資訊，包括三個限定盤，它們的曲目資料也同時公開\[4\]。次日（1月28日），日本方面決定加推famima.com限定盤\[5\]。
 
 ### 發行版本
 
 此單曲共分為4個發行版本。
 
-  - 限定盤A（編號：QYZI-10011/12）：這版本包括了一片CD、一片收錄《Still in
-    Love》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮、MBLAQ的給歌迷的影片（韓語版）及《Oshiete
-    MBLAQ》精華片段的DVD\[6\]。
+  - 限定盤A（編號：QYZI-10011/12）：這版本包括了一片CD、一片收錄《Still in Love》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮、MBLAQ的給歌迷的影片（韓語版）及《Oshiete MBLAQ》精華片段的DVD\[6\]。
 
 <!-- end list -->
 
-  - 限定盤B（編號：QYZI-10013/14）：這版本包括了一片CD、一片收錄MBLAQ的給歌迷的影片（日語版）及《Oshiete
-    MBLAQ》完整片段的DVD\[7\]。
+  - 限定盤B（編號：QYZI-10013/14）：這版本包括了一片CD、一片收錄MBLAQ的給歌迷的影片（日語版）及《Oshiete MBLAQ》完整片段的DVD\[7\]。
 
 <!-- end list -->
 
@@ -50,8 +45,7 @@ CAMP在MBLAQ的日本官方網站公布了這單曲的發行消息\[2\]\[3\]；�
 
   -
 
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:MBLAQ音樂專輯](https://zh.wikipedia.org/wiki/Category:MBLAQ音樂專輯 "wikilink")
+[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:MBLAQ音樂專輯](https://zh.wikipedia.org/wiki/Category:MBLAQ音樂專輯 "wikilink")
 
 1.
 

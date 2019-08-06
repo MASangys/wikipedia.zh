@@ -1,5 +1,4 @@
-『**Berryz工房Single V Clips
-②**』（）是[Berryz工房](../Page/Berryz工房.md "wikilink")的第2張PV集。
+『**Berryz工房Single V Clips ②**』（）是[Berryz工房](../Page/Berryz工房.md "wikilink")的第2張PV集。
 
 ## 收錄内容
 
@@ -17,9 +16,6 @@
 
 ## 外部連結
 
-  - [UP-FRONT
-    WORKSディスコグラフィ](https://web.archive.org/web/20081005213039/http://www.up-front-works.jp/discography/piccolotown/05/v_06/)
+  - [UP-FRONT WORKSディスコグラフィ](https://web.archive.org/web/20081005213039/http://www.up-front-works.jp/discography/piccolotown/05/v_06/)
 
-[Category:Berryz工房影像作品](https://zh.wikipedia.org/wiki/Category:Berryz工房影像作品 "wikilink")
-[Category:2006年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2006年音樂相關影像作品 "wikilink")
-[Category:音樂影片集](https://zh.wikipedia.org/wiki/Category:音樂影片集 "wikilink")
+[Category:Berryz工房影像作品](https://zh.wikipedia.org/wiki/Category:Berryz工房影像作品 "wikilink") [Category:2006年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2006年音樂相關影像作品 "wikilink") [Category:音樂影片集](https://zh.wikipedia.org/wiki/Category:音樂影片集 "wikilink")

@@ -1,5 +1,4 @@
-《**CIRCLE
-CYCLE**》（無限循環）為日本歌手[柴崎幸於](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")2011年5月18日發行之5th[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")（原創專輯）。
+《**CIRCLE CYCLE**》（無限循環）為日本歌手[柴崎幸於](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")2011年5月18日發行之5th[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")（原創專輯）。
 
 ## 概要
 
@@ -47,6 +46,4 @@ CYCLE**》（無限循環）為日本歌手[柴崎幸於](https://zh.wikipedia.o
 
 [日文維基](http://ja.wikipedia.org/wiki/CIRCLE_CYCLE)
 
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:柴咲幸音樂專輯](https://zh.wikipedia.org/wiki/Category:柴咲幸音樂專輯 "wikilink")
-[Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")
+[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:柴咲幸音樂專輯](https://zh.wikipedia.org/wiki/Category:柴咲幸音樂專輯 "wikilink") [Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")

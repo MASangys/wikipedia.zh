@@ -1,5 +1,4 @@
-**班布里奇号驱逐舰**（USS *Bainbridge*
-(DD-1)）是[美国海军第一艘](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[驱逐舰](../Page/驱逐舰.md "wikilink")，[班布里奇级驱逐舰](https://zh.wikipedia.org/wiki/班布里奇级驱逐舰 "wikilink")[首舰](https://zh.wikipedia.org/wiki/首舰 "wikilink")，也是第二艘以此为名的美国海军舰只。其命名来源于美国海军军官[威廉·班布里奇](../Page/威廉·班布里奇.md "wikilink")。
+**班布里奇号驱逐舰**（USS *Bainbridge* (DD-1)）是[美国海军第一艘](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[驱逐舰](../Page/驱逐舰.md "wikilink")，[班布里奇级驱逐舰](https://zh.wikipedia.org/wiki/班布里奇级驱逐舰 "wikilink")[首舰](https://zh.wikipedia.org/wiki/首舰 "wikilink")，也是第二艘以此为名的美国海军舰只。其命名来源于美国海军军官[威廉·班布里奇](../Page/威廉·班布里奇.md "wikilink")。
 
 ## 建造
 
@@ -18,13 +17,7 @@
   -
 ## 外部链接
 
-  - [Navy Photos of
-    *Bainbridge*](http://www.history.navy.mil/photos/sh-usn/usnsh-b/dd1.htm)
+  - [Navy Photos of *Bainbridge*](http://www.history.navy.mil/photos/sh-usn/usnsh-b/dd1.htm)
   - [navsource.org](http://www.navsource.org/archives/05/001.htm)
 
-[Category:班布里奇级驱逐舰](https://zh.wikipedia.org/wiki/Category:班布里奇级驱逐舰 "wikilink")
-[Category:美国一战驱逐舰](https://zh.wikipedia.org/wiki/Category:美国一战驱逐舰 "wikilink")
-[Category:宾夕法尼亚州建造的船只](https://zh.wikipedia.org/wiki/Category:宾夕法尼亚州建造的船只 "wikilink")
-[Category:纳菲尔-利维建造的船只](https://zh.wikipedia.org/wiki/Category:纳菲尔-利维建造的船只 "wikilink")
-[Category:1901年下水的船只](https://zh.wikipedia.org/wiki/Category:1901年下水的船只 "wikilink")
-[Category:1903年竣工的船只](https://zh.wikipedia.org/wiki/Category:1903年竣工的船只 "wikilink")
+[Category:班布里奇级驱逐舰](https://zh.wikipedia.org/wiki/Category:班布里奇级驱逐舰 "wikilink") [Category:美国一战驱逐舰](https://zh.wikipedia.org/wiki/Category:美国一战驱逐舰 "wikilink") [Category:宾夕法尼亚州建造的船只](https://zh.wikipedia.org/wiki/Category:宾夕法尼亚州建造的船只 "wikilink") [Category:纳菲尔-利维建造的船只](https://zh.wikipedia.org/wiki/Category:纳菲尔-利维建造的船只 "wikilink") [Category:1901年下水的船只](https://zh.wikipedia.org/wiki/Category:1901年下水的船只 "wikilink") [Category:1903年竣工的船只](https://zh.wikipedia.org/wiki/Category:1903年竣工的船只 "wikilink")

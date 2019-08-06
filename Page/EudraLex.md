@@ -8,8 +8,7 @@ EudraLex共分10冊：
       - 第1冊 - 製藥法例
       - 第2冊 - Notice to Applicants.
           - 第2A冊 deals with procedures for marketing authorisation.
-          - 第2B冊 deals with the presentation and content of the
-            application dossier.
+          - 第2B冊 deals with the presentation and content of the application dossier.
           - 第2C冊 deals with Guidelines.
       - 第3冊 - 指引
 
@@ -35,8 +34,7 @@ EudraLex共分10冊：
 <!-- end list -->
 
   - 其他：
-      - Guidelines on Good Distribution Practice of Medicinal Products
-        for Human Use (94/C 63/03)
+      - Guidelines on Good Distribution Practice of Medicinal Products for Human Use (94/C 63/03)
 
 ## 指令
 
@@ -59,44 +57,24 @@ EudraLex共分10冊：
 
 ## 參考資料
 
-  - Eudralex,The Rules Governing Medicinal Products in the European
-    Union, European Communities Commission. Directorate-General for
-    Industry, Pharmaceuticals and Cosmetics.
-      - Vol. 1: Pharmaceutical legislation: medicinal products for human
-        use. ISBN 92-828-2032-7
-      - Vol. 2: Notice to applicants: medicinal products for human use.
-        ISBN 0-11-975780-X
-      - Vol. 3: Guidelines: medicinal products for human use. ISBN
-        92-828-2436-5
-      - Vol. 4: Good manufacturing practices: medicinal products for
-        human and veterinary use. ISBN 92-828-2029-7
-      - Vol. 5: Pharmaceutical legislation: veterinary medicinal
-        products. ISBN 92-828-2037-8
-      - Vol. 6: Notice to applicants: veterinary medical products. ISBN
-        0-11-985351-5
-      - Vol. 7. Guidelines: Veterinary medicinal products. ISBN
-        0-11-985366-3
-  - Markus Hartmann and Florence Hartmann-Vareilles, *The Clinical
-    Trials Directive: How Is It Affecting Europe's Noncommercial
-    Research?*, PLoS Clin Trials. 2006 June; 1(2): e13
+  - Eudralex,The Rules Governing Medicinal Products in the European Union, European Communities Commission. Directorate-General for Industry, Pharmaceuticals and Cosmetics.
+      - Vol. 1: Pharmaceutical legislation: medicinal products for human use. ISBN 92-828-2032-7
+      - Vol. 2: Notice to applicants: medicinal products for human use. ISBN 0-11-975780-X
+      - Vol. 3: Guidelines: medicinal products for human use. ISBN 92-828-2436-5
+      - Vol. 4: Good manufacturing practices: medicinal products for human and veterinary use. ISBN 92-828-2029-7
+      - Vol. 5: Pharmaceutical legislation: veterinary medicinal products. ISBN 92-828-2037-8
+      - Vol. 6: Notice to applicants: veterinary medical products. ISBN 0-11-985351-5
+      - Vol. 7. Guidelines: Veterinary medicinal products. ISBN 0-11-985366-3
+  - Markus Hartmann and Florence Hartmann-Vareilles, *The Clinical Trials Directive: How Is It Affecting Europe's Noncommercial Research?*, PLoS Clin Trials. 2006 June; 1(2): e13
 
 ## 外部链接
 
-  - [News on
-    Pharmaceuticals](https://web.archive.org/web/20100413104348/http://ec.europa.eu/enterprise/pharmaceuticals/index_en.htm),
-    (European Union)
+  - [News on Pharmaceuticals](https://web.archive.org/web/20100413104348/http://ec.europa.eu/enterprise/pharmaceuticals/index_en.htm), (European Union)
   - [EudraLex](http://ec.europa.eu/health/documents/eudralex/index_en.htm)
   - [EUR-Lex](http://eur-lex.europa.eu/en/index.htm)
-  - [Review of pharmaceutical
-    legislation](https://web.archive.org/web/20061021073704/http://ec.europa.eu/enterprise/pharmaceuticals/review/index.htm)
-    (EU DG Enterprise and Industry)
-  - [Directorate General Enterprise and
-    Industry](https://web.archive.org/web/20130421021032/http://ec.europa.eu/enterprise/index_en.htm)
-    (European Commission)
+  - [Review of pharmaceutical legislation](https://web.archive.org/web/20061021073704/http://ec.europa.eu/enterprise/pharmaceuticals/review/index.htm) (EU DG Enterprise and Industry)
+  - [Directorate General Enterprise and Industry](https://web.archive.org/web/20130421021032/http://ec.europa.eu/enterprise/index_en.htm) (European Commission)
 
 {{-}}
 
-[Category:臨床研究](https://zh.wikipedia.org/wiki/Category:臨床研究 "wikilink")
-[Category:歐盟法律](https://zh.wikipedia.org/wiki/Category:歐盟法律 "wikilink")
-[Category:製藥政策](https://zh.wikipedia.org/wiki/Category:製藥政策 "wikilink")
-[Category:藥物監管機構](https://zh.wikipedia.org/wiki/Category:藥物監管機構 "wikilink")
+[Category:臨床研究](https://zh.wikipedia.org/wiki/Category:臨床研究 "wikilink") [Category:歐盟法律](https://zh.wikipedia.org/wiki/Category:歐盟法律 "wikilink") [Category:製藥政策](https://zh.wikipedia.org/wiki/Category:製藥政策 "wikilink") [Category:藥物監管機構](https://zh.wikipedia.org/wiki/Category:藥物監管機構 "wikilink")

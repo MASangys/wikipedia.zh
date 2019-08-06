@@ -1,26 +1,18 @@
-Turbo Prolog 是一個以[Prolog](../Page/Prolog.md "wikilink")(即：Programming in
-Logic) 語言的軟體，該系統只適用於[MS-DOS](../Page/MS-DOS.md "wikilink"),
-亦可以使用[Windows內的Console介面來編輯使用](https://zh.wikipedia.org/wiki/Windows "wikilink")。
+Turbo Prolog 是一個以[Prolog](../Page/Prolog.md "wikilink")(即：Programming in Logic) 語言的軟體，該系統只適用於[MS-DOS](../Page/MS-DOS.md "wikilink"), 亦可以使用[Windows內的Console介面來編輯使用](https://zh.wikipedia.org/wiki/Windows "wikilink")。
 
 ## 版本資訊
 
-Turbo Prolog 1.0 版本是Borland公司於 1986年面世，但隨後於同年再出版 1.1 版本，於1988年推出 Turbo
-Prolog 2.0版本後即未再有更新的商業版本。 而最新的版本是視窗化，可視覺化版本**Visual Prolog**。
+Turbo Prolog 1.0 版本是Borland公司於 1986年面世，但隨後於同年再出版 1.1 版本，於1988年推出 Turbo Prolog 2.0版本後即未再有更新的商業版本。 而最新的版本是視窗化，可視覺化版本**Visual Prolog**。
 
 [TurboProlog2.png](https://zh.wikipedia.org/wiki/File:TurboProlog2.png "fig:TurboProlog2.png")
 
 ## 軟體說明
 
-[Borland](../Page/Borland.md "wikilink") Turbo Prolog 採用了特殊的
-[Prolog](../Page/Prolog.md "wikilink")
-的語法與類型的變量，並於使用上有一些限制，但這不符合Edinborough的標準。
-然而，Turbo Prolog
-編輯器包含基本的使用者介面，可以方便設計人使用。而[Prolog](../Page/Prolog.md "wikilink")是一種邏輯編程語言。它建立在邏輯學的理論基礎之上，最初被運用於自然語言等研究領域。現在它已廣泛的應用在人工智慧的研究中，它可以用來建造專家系統、自然語言理解、智慧知識庫等，在早期的機器智慧研究領域，[Prolog](../Page/Prolog.md "wikilink")曾經是主要的開發工具。而Prolog語言中最重要的功能即是：回溯，這點與其他一般的程式語言有著明顯的不同。
+[Borland](../Page/Borland.md "wikilink") Turbo Prolog 採用了特殊的 [Prolog](../Page/Prolog.md "wikilink") 的語法與類型的變量，並於使用上有一些限制，但這不符合Edinborough的標準。 然而，Turbo Prolog 編輯器包含基本的使用者介面，可以方便設計人使用。而[Prolog](../Page/Prolog.md "wikilink")是一種邏輯編程語言。它建立在邏輯學的理論基礎之上，最初被運用於自然語言等研究領域。現在它已廣泛的應用在人工智慧的研究中，它可以用來建造專家系統、自然語言理解、智慧知識庫等，在早期的機器智慧研究領域，[Prolog](../Page/Prolog.md "wikilink")曾經是主要的開發工具。而Prolog語言中最重要的功能即是：回溯，這點與其他一般的程式語言有著明顯的不同。
 
 ## 程式資訊
 
-[Prolog](../Page/Prolog.md "wikilink")的程式語言包含了三個主要部份：domains, predicates
-與 clauses，而執行程式則是以Goal來回應。
+[Prolog](../Page/Prolog.md "wikilink")的程式語言包含了三個主要部份：domains, predicates 與 clauses，而執行程式則是以Goal來回應。
 
 說明如下：
 
@@ -89,5 +81,4 @@ X=Mark
   - [Visual Prolog官方網站](http://www.visual-prolog.com/)
   - [GNU Prolog官方網站](http://www.gprolog.org/)
 
-[Category:Prolog](https://zh.wikipedia.org/wiki/Category:Prolog "wikilink")
-[Category:Borland軟體](https://zh.wikipedia.org/wiki/Category:Borland軟體 "wikilink")
+[Category:Prolog](https://zh.wikipedia.org/wiki/Category:Prolog "wikilink") [Category:Borland軟體](https://zh.wikipedia.org/wiki/Category:Borland軟體 "wikilink")

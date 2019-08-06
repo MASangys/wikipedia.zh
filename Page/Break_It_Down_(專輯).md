@@ -1,18 +1,11 @@
-《**Break it
-down**》是[台灣男子偶像團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")[SpeXial](../Page/SpeXial.md "wikilink")的第二張專輯，於2014年6月5日舉行專輯發表會\[1\]，同月12日發行\[2\]；並於8月1日推出專輯改版《**Break
-it down**
-情人節慶功紀念版》\[3\]。首波主打歌為《[終極X宿舍](../Page/終極X宿舍.md "wikilink")》主題曲《Break
-it
-down》\[4\]；第二主打為《[明若曉溪](../Page/明若曉溪.md "wikilink")》主題曲《愛這種離譜感覺》\[5\]；第三主打為《[百年新娘](https://zh.wikipedia.org/wiki/百年新娘 "wikilink")》片尾曲《愛不再呼吸》\[6\]；第四主打為來自[丹麥原創舞曲的](https://zh.wikipedia.org/wiki/丹麥 "wikilink")《X未知數》；第五主打為《[終極X宿舍](../Page/終極X宿舍.md "wikilink")》插曲《拼貼記憶》。專輯發行首週(2014年第24週)即登上五大金榜第三名，並在第二週登上第二名\[7\]。
+《**Break it down**》是[台灣男子偶像團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")[SpeXial](../Page/SpeXial.md "wikilink")的第二張專輯，於2014年6月5日舉行專輯發表會\[1\]，同月12日發行\[2\]；並於8月1日推出專輯改版《**Break it down** 情人節慶功紀念版》\[3\]。首波主打歌為《[終極X宿舍](../Page/終極X宿舍.md "wikilink")》主題曲《Break it down》\[4\]；第二主打為《[明若曉溪](../Page/明若曉溪.md "wikilink")》主題曲《愛這種離譜感覺》\[5\]；第三主打為《[百年新娘](https://zh.wikipedia.org/wiki/百年新娘 "wikilink")》片尾曲《愛不再呼吸》\[6\]；第四主打為來自[丹麥原創舞曲的](https://zh.wikipedia.org/wiki/丹麥 "wikilink")《X未知數》；第五主打為《[終極X宿舍](../Page/終極X宿舍.md "wikilink")》插曲《拼貼記憶》。專輯發行首週(2014年第24週)即登上五大金榜第三名，並在第二週登上第二名\[7\]。
 
 ## 專輯簡介
 
   - 新成員[晨翔](https://zh.wikipedia.org/wiki/連晨翔 "wikilink")、[Evan](https://zh.wikipedia.org/wiki/馬振桓 "wikilink")、[Teddy加入後](https://zh.wikipedia.org/wiki/陳向熙 "wikilink")，以七人之姿發行的首張專輯。
-  - 這張專輯的歌曲，大部分都只有第一代的成員錄音，第二代有參與《Break it
-    down》，[Evan有參與錄製](https://zh.wikipedia.org/wiki/馬振桓 "wikilink")《愛這種離譜感覺》
+  - 這張專輯的歌曲，大部分都只有第一代的成員錄音，第二代有參與《Break it down》，[Evan有參與錄製](https://zh.wikipedia.org/wiki/馬振桓 "wikilink")《愛這種離譜感覺》
   - 首版專輯內附36頁寫真；情人節慶功紀念版以全新封面發行，加送32頁全新寫真歌詞本、球員卡和親筆信，以及肖像應援扇。
-  - 首波主打《Break it
-    down》是由[宏正](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")、[偉晉](https://zh.wikipedia.org/wiki/黃偉晉 "wikilink")、[明-{杰}-主演的電視劇](https://zh.wikipedia.org/wiki/許明杰 "wikilink")《[終極X宿舍](../Page/終極X宿舍.md "wikilink")》主題曲。
+  - 首波主打《Break it down》是由[宏正](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")、[偉晉](https://zh.wikipedia.org/wiki/黃偉晉 "wikilink")、[明-{杰}-主演的電視劇](https://zh.wikipedia.org/wiki/許明杰 "wikilink")《[終極X宿舍](../Page/終極X宿舍.md "wikilink")》主題曲。
   - 第二主打《愛這種離譜感覺》是由[子閎](https://zh.wikipedia.org/wiki/林子閎 "wikilink")、[Evan與同門師姐](https://zh.wikipedia.org/wiki/馬振桓 "wikilink")[曾沛慈](../Page/曾沛慈.md "wikilink")主演的電視劇《[明若曉溪](../Page/明若曉溪.md "wikilink")》主題曲。
   - 專輯發行首週(2014年第24週)即登上五大金榜第三名，並在第二週登上第二名\[8\]。
   - 這張專輯是[明-{杰}-入伍前的最後一張專輯](https://zh.wikipedia.org/wiki/許明杰 "wikilink")，同時也是[Evan完成學業前的最後一張專輯](https://zh.wikipedia.org/wiki/馬振桓 "wikilink")。
@@ -52,13 +45,10 @@ down》\[4\]；第二主打為《[明若曉溪](../Page/明若曉溪.md "wikilin
 
 ## 來源
 
-  - [SpeXial / Break it down |
-    華納線上音樂雜誌](https://store.warnermusic.com.tw/store/item/3828)
-  - [Break it down 情人節慶功紀念版 |
-    華納線上音樂雜誌](https://store.warnermusic.com.tw/store/item/3991)
+  - [SpeXial / Break it down | 華納線上音樂雜誌](https://store.warnermusic.com.tw/store/item/3828)
+  - [Break it down 情人節慶功紀念版 | 華納線上音樂雜誌](https://store.warnermusic.com.tw/store/item/3991)
 
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:SpeXial音樂專輯](https://zh.wikipedia.org/wiki/Category:SpeXial音樂專輯 "wikilink")
+[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:SpeXial音樂專輯](https://zh.wikipedia.org/wiki/Category:SpeXial音樂專輯 "wikilink")
 
 1.
 

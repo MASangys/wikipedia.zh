@@ -1,6 +1,4 @@
-**Pandoc**是由[John
-MacFarlane](http://johnmacfarlane.net/)开发的[标记语言转换工具](https://zh.wikipedia.org/wiki/标记语言 "wikilink")，可实现不同标记语言间的格式转换，堪称该领域中的“[瑞士军刀](https://zh.wikipedia.org/wiki/瑞士军刀 "wikilink")”\[1\]。Pandoc使用[Haskell](../Page/Haskell.md "wikilink")语言编写，以[命令行形式实现与用户的交互](https://zh.wikipedia.org/wiki/命令行 "wikilink")，可支持多种操作系统；Pandoc采用[GNU
-GPL授权协议发布](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")，属于[自由软件](../Page/自由软件.md "wikilink")。
+**Pandoc**是由[John MacFarlane](http://johnmacfarlane.net/)开发的[标记语言转换工具](https://zh.wikipedia.org/wiki/标记语言 "wikilink")，可实现不同标记语言间的格式转换，堪称该领域中的“[瑞士军刀](https://zh.wikipedia.org/wiki/瑞士军刀 "wikilink")”\[1\]。Pandoc使用[Haskell](../Page/Haskell.md "wikilink")语言编写，以[命令行形式实现与用户的交互](https://zh.wikipedia.org/wiki/命令行 "wikilink")，可支持多种操作系统；Pandoc采用[GNU GPL授权协议发布](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")，属于[自由软件](../Page/自由软件.md "wikilink")。
 
 ## Pandoc支持的标记语言格式
 
@@ -107,13 +105,11 @@ pandoc -f markdown -t html -o output.html input.md
   - [Pandoc转换示例](http://johnmacfarlane.net/pandoc/demos.html)
   - [Haskell库中的Pandoc包](http://hackage.haskell.org/package/pandoc)
   - [Pandoc项目的Github页面](https://github.com/jgm/pandoc)
-  - [Pandoc项目的Google
-    Code页面](https://code.google.com/p/pandoc/)（自1.12.3版本后已移至Github）
+  - [Pandoc项目的Google Code页面](https://code.google.com/p/pandoc/)（自1.12.3版本后已移至Github）
   - [支持Pandoc绑定或插件的文本编辑器列表](https://github.com/jgm/pandoc/wiki/Pandoc-Extras#editors)
   - [Pandoc版Markdown语法说明（中文）](http://pages.tzengyuxio.me/pandoc/)（Pandoc对原始的Markdown语法进行了扩充，由此形成了Pandoc版本的Markdown）
   - [Pandoc与Multimarkdown的比较](https://github.com/jgm/pandoc/wiki/Pandoc-vs-Multimarkdown)
-  - [在Raspberry
-    Pi上安装使用Pandoc](https://github.com/jgm/pandoc/wiki/Pandoc-Extras#building-pandoc-on-a-raspberry-pi)
+  - [在Raspberry Pi上安装使用Pandoc](https://github.com/jgm/pandoc/wiki/Pandoc-Extras#building-pandoc-on-a-raspberry-pi)
 
 [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
 

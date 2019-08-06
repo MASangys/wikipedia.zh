@@ -4,10 +4,7 @@
 
 ## 各地版本播放
 
-****共分為兩個地區播放版本：美國版本僅在[美國透過](https://zh.wikipedia.org/wiki/美國 "wikilink")[Dish
-Network及](https://zh.wikipedia.org/wiki/w:en:Dish_Network "wikilink")[AT\&T
-U-verse收看](https://zh.wikipedia.org/wiki/w:en:AT&T_U-verse "wikilink")，該版本從啟播至2012年11月18日在[美國曾透過](https://zh.wikipedia.org/wiki/美國 "wikilink")[DIRECTV使用第](https://zh.wikipedia.org/wiki/w:en:DirecTV "wikilink")2076頻道收看，同日在[美國透過](https://zh.wikipedia.org/wiki/美國 "wikilink")[Dish
-Network使用第](https://zh.wikipedia.org/wiki/w:en:Dish_Network "wikilink")9997頻道收看\[2\]；澳洲版本僅在[澳洲透過](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[翡翠互動電視收看](https://zh.wikipedia.org/wiki/翡翠互動電視 "wikilink")。
+****共分為兩個地區播放版本：美國版本僅在[美國透過](https://zh.wikipedia.org/wiki/美國 "wikilink")[Dish Network及](https://zh.wikipedia.org/wiki/w:en:Dish_Network "wikilink")[AT\&T U-verse收看](https://zh.wikipedia.org/wiki/w:en:AT&T_U-verse "wikilink")，該版本從啟播至2012年11月18日在[美國曾透過](https://zh.wikipedia.org/wiki/美國 "wikilink")[DIRECTV使用第](https://zh.wikipedia.org/wiki/w:en:DirecTV "wikilink")2076頻道收看，同日在[美國透過](https://zh.wikipedia.org/wiki/美國 "wikilink")[Dish Network使用第](https://zh.wikipedia.org/wiki/w:en:Dish_Network "wikilink")9997頻道收看\[2\]；澳洲版本僅在[澳洲透過](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[翡翠互動電視收看](https://zh.wikipedia.org/wiki/翡翠互動電視 "wikilink")。
 
 美國版本的節目編排時間以[西岸為準](../Page/美國西岸.md "wikilink")，播放地區亦同時僅在美國收看，該版本與澳洲版本所播放的節目內容不同，美國版本主要以全日24小時不停播放[香港無綫電視劇集](https://zh.wikipedia.org/wiki/香港無綫電視 "wikilink")。
 
@@ -22,10 +19,7 @@ Network使用第](https://zh.wikipedia.org/wiki/w:en:Dish_Network "wikilink")999
   - [電視廣播(美國)有限公司相關網站](http://www.tvbusa.com/index.php?option=com_channel&Itemid=118&channel=JV)
   - [電視廣播(澳洲)有限公司相關網站](https://web.archive.org/web/20120807033802/http://www.tvbvietnam.com.au/)
 
-[Category:電視廣播有限公司電視頻道](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司電視頻道 "wikilink")
-[Category:越南語電視頻道](https://zh.wikipedia.org/wiki/Category:越南語電視頻道 "wikilink")
+[Category:電視廣播有限公司電視頻道](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司電視頻道 "wikilink") [Category:越南語電視頻道](https://zh.wikipedia.org/wiki/Category:越南語電視頻道 "wikilink")
 
-1.  [See the best in Vietnamese
-    TV](http://www.directv.com/cms2/international/ChannelLineup_Vietnamese.pdf)，DirecTV
-2.  [2012年11月18日起，節目將在衛星平台繼續播放。](http://www.tvbusa.com/index.php?option=com_channel&Itemid=140&id=3686)
-    電視廣播(美國)有限公司網站
+1.  [See the best in Vietnamese TV](http://www.directv.com/cms2/international/ChannelLineup_Vietnamese.pdf)，DirecTV
+2.  [2012年11月18日起，節目將在衛星平台繼續播放。](http://www.tvbusa.com/index.php?option=com_channel&Itemid=140&id=3686) 電視廣播(美國)有限公司網站

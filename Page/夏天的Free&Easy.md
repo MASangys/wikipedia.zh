@@ -78,19 +78,13 @@
 ## 外部連結
 
   - [乃木坂46官方網站](http://www.nogizaka46.com/discography/)
-  - PV
-    <small>（乃木坂46官方[YouTube](../Page/YouTube.md "wikilink")频道、限日本地區觀看）</small>
+  - PV <small>（乃木坂46官方[YouTube](../Page/YouTube.md "wikilink")频道、限日本地區觀看）</small>
       -
       -
       -
       -
       -
-[Category:乃木坂46歌曲](https://zh.wikipedia.org/wiki/Category:乃木坂46歌曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:2014年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2014年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:夏天題材樂曲](https://zh.wikipedia.org/wiki/Category:夏天題材樂曲 "wikilink")
+[Category:乃木坂46歌曲](https://zh.wikipedia.org/wiki/Category:乃木坂46歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:2014年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Oricon單曲週榜冠軍作品 "wikilink") [Category:2014年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Oricon單曲月榜冠軍作品 "wikilink") [Category:夏天題材樂曲](https://zh.wikipedia.org/wiki/Category:夏天題材樂曲 "wikilink")
 
 1.
 2.

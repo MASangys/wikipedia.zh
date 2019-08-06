@@ -1,12 +1,10 @@
-《**RAIL WARS\!
--日本國有鐵道公安隊-**》（）是由所著的[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")，負責插畫。於2012年1月起由[創藝社發行](https://zh.wikipedia.org/wiki/創藝社 "wikilink")，但因創藝社退出輕小說市場，後來於2017年12月轉由[實業之日本社發行](https://zh.wikipedia.org/wiki/實業之日本社 "wikilink")。2014年6月起由[青文出版社](../Page/青文出版社.md "wikilink")翻譯並出版其繁體中文版。
+《**RAIL WARS\! -日本國有鐵道公安隊-**》（）是由所著的[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")，負責插畫。於2012年1月起由[創藝社發行](https://zh.wikipedia.org/wiki/創藝社 "wikilink")，但因創藝社退出輕小說市場，後來於2017年12月轉由[實業之日本社發行](https://zh.wikipedia.org/wiki/實業之日本社 "wikilink")。2014年6月起由[青文出版社](../Page/青文出版社.md "wikilink")翻譯並出版其繁體中文版。
 
 ## 簡介
 
 這作品以[日本國有鐵道](../Page/日本國有鐵道.md "wikilink")沒被[分割民營化的](../Page/國鐵分割民營化.md "wikilink")[平行世界日本為舞台](https://zh.wikipedia.org/wiki/平行世界 "wikilink")，描述被編配到**鐵道公安隊**培訓的主角高山直人等四位高中生與公安隊隊員一起活動的情形。由於作品將主張國鐵分割民營化者描繪為[恐怖分子](https://zh.wikipedia.org/wiki/恐怖分子 "wikilink")，其組織「RJ」標誌為「JR」共同標誌反轉而成，故有醜化、抹黑現有[JR集團之嫌](https://zh.wikipedia.org/wiki/JR集團 "wikilink")。
 
-2012年11月起，此作品於[Blade
-Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikipedia.org/wiki/Blade_Online "wikilink")。\[1\]其後於2013年底發表改編電視動畫的計劃\[2\]並決定於2014年夏天在[TBS電視和](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[BS-TBS](../Page/BS-TBS.md "wikilink")開始播放\[3\]。另外，亦有改編為遊戲的計劃，並已於2014年5月設立官方網站。\[4\]
+2012年11月起，此作品於[Blade Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikipedia.org/wiki/Blade_Online "wikilink")。\[1\]其後於2013年底發表改編電視動畫的計劃\[2\]並決定於2014年夏天在[TBS電視和](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[BS-TBS](../Page/BS-TBS.md "wikilink")開始播放\[3\]。另外，亦有改編為遊戲的計劃，並已於2014年5月設立官方網站。\[4\]
 
 ## 登場人物
 
@@ -917,9 +915,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 <!-- end list -->
 
   -
-    瞳所領導的機動部隊，隊員受過嚴格的訓練並配備精良的裝備，能對付危險性更高的罪犯，內部還組織更精銳的「特別急襲班」（**N**ational
-    **R**ailway **S**pecial **A**ssualt
-    **T**eam簡稱「NRSAT」）。動畫中還表示有可載運部隊至日本各鐵道的地下專用路線與專用列車。
+    瞳所領導的機動部隊，隊員受過嚴格的訓練並配備精良的裝備，能對付危險性更高的罪犯，內部還組織更精銳的「特別急襲班」（**N**ational **R**ailway **S**pecial **A**ssualt **T**eam簡稱「NRSAT」）。動畫中還表示有可載運部隊至日本各鐵道的地下專用路線與專用列車。
 
 <!-- end list -->
 
@@ -1131,8 +1127,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 ### 主題曲
 
   - 片頭曲「」
-    作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲、編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（[Elements
-    Garden](../Page/Elements_Garden.md "wikilink")），歌：[茅原实里](https://zh.wikipedia.org/wiki/茅原实里 "wikilink")\[12\]\[13\]
+    作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲、編曲：[菊田大介](https://zh.wikipedia.org/wiki/菊田大介 "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），歌：[茅原实里](https://zh.wikipedia.org/wiki/茅原实里 "wikilink")\[12\]\[13\]
 
   - 片尾曲「OVERDRIVER」
     作詞、作曲、編曲、歌：[ZAQ](../Page/ZAQ.md "wikilink")\[14\]\[15\]
@@ -1141,8 +1136,7 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 
 :;「Borderless journey」（第4話）
 
-::
-作詞：畑亞貴，作曲、編曲：[齊藤真也](https://zh.wikipedia.org/wiki/齊藤真也 "wikilink")，歌：鹿島乃亞（茅原實里）
+:: 作詞：畑亞貴，作曲、編曲：[齊藤真也](https://zh.wikipedia.org/wiki/齊藤真也 "wikilink")，歌：鹿島乃亞（茅原實里）
 
 :;「」（第4話）
 
@@ -1410,20 +1404,15 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 
 ## 遊戲
 
-原本預定由[5pb.](../Page/5pb..md "wikilink")在2014年11月27日發售[PlayStation
-Vita的](../Page/PlayStation_Vita.md "wikilink")[冒險類型遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")《**RAIL
-WARS\!
--軽井沢より殺意を乗せて-**》\[16\]，後來在2014年10月24日將發售日變更為未定\[17\]，最後官方網站在2016年1月28日宣布取消發售。\[18\]
+原本預定由[5pb.](../Page/5pb..md "wikilink")在2014年11月27日發售[PlayStation Vita的](../Page/PlayStation_Vita.md "wikilink")[冒險類型遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")《**RAIL WARS\! -軽井沢より殺意を乗せて-**》\[16\]，後來在2014年10月24日將發售日變更為未定\[17\]，最後官方網站在2016年1月28日宣布取消發售。\[18\]
 
 ## 參考資料
 
 ## 外部連結
 
-  - [夢の鉄道パラダイス・エンタテイメント「RAIL
-    WARS\!」官方網站](https://web.archive.org/web/20140619000157/http://www.groundnet.co.jp/railwars/)
+  - [夢の鉄道パラダイス・エンタテイメント「RAIL WARS\!」官方網站](https://web.archive.org/web/20140619000157/http://www.groundnet.co.jp/railwars/)
 
-  - [創芸社Clear文庫
-    官方網站](https://web.archive.org/web/20131206202411/http://sohgei.sip.jpn.com/)
+  - [創芸社Clear文庫 官方網站](https://web.archive.org/web/20131206202411/http://sohgei.sip.jpn.com/)
 
   - [創芸社 官方網站](http://sougeisha.com/)
 
@@ -1431,17 +1420,12 @@ WARS\!
 
   - [RAILWARS\! 官方網站｜TBS電視台](http://www.tbs.co.jp/anime/railwars/)
 
-  - [RAIL
-    WARS\!公式支援網站](https://web.archive.org/web/20140322081227/http://railwars.jp/)
+  - [RAIL WARS\!公式支援網站](https://web.archive.org/web/20140322081227/http://railwars.jp/)
 
   - [遊戲官方網站](http://5pb.jp/games/rw/)
 
   -
-[Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink")
-[Category:鐵路題材作品](https://zh.wikipedia.org/wiki/Category:鐵路題材作品 "wikilink")
-[Category:虛構日本背景小說](https://zh.wikipedia.org/wiki/Category:虛構日本背景小說 "wikilink")
+[Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink") [Category:鐵路題材作品](https://zh.wikipedia.org/wiki/Category:鐵路題材作品 "wikilink") [Category:虛構日本背景小說](https://zh.wikipedia.org/wiki/Category:虛構日本背景小說 "wikilink")
 
 1.
 
@@ -1471,11 +1455,8 @@ WARS\!
 14.
 15.
 
-16. [MAGES.の新作ADV「RAIL WARS\!」はPS
-    Vitaで11月27日に発売](http://www.4gamer.net/games/258/G025816/20140711109/)[4Gamer.net](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")
+16. [MAGES.の新作ADV「RAIL WARS\!」はPS Vitaで11月27日に発売](http://www.4gamer.net/games/258/G025816/20140711109/)[4Gamer.net](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")
 
-17. [『RAIL
-    WARS\!-軽井沢より殺意を乗せて-』の発売延期が発表、発売日は未定](http://www.famitsu.com/news/201410/24064278.html)[ファミ通.com](https://zh.wikipedia.org/wiki/ファミ通.com "wikilink")
+17. [『RAIL WARS\!-軽井沢より殺意を乗せて-』の発売延期が発表、発売日は未定](http://www.famitsu.com/news/201410/24064278.html)[ファミ通.com](https://zh.wikipedia.org/wiki/ファミ通.com "wikilink")
 
-18. [PS Vita用ソフト「RAIL WARS\!
-    -軽井沢より殺意を乗せて-」が発売中止に](http://www.4gamer.net/games/258/G025816/20160129167/)4Gamer.net
+18. [PS Vita用ソフト「RAIL WARS\! -軽井沢より殺意を乗せて-」が発売中止に](http://www.4gamer.net/games/258/G025816/20160129167/)4Gamer.net

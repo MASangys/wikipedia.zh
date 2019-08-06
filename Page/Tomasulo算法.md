@@ -1,18 +1,10 @@
-**Tomasulo算法**（托马苏洛算法）是[IBM](../Page/IBM.md "wikilink")的Robert
-Tomasulo在1967年研发出来的一种用来改善处理器[乱序执行](../Page/乱序执行.md "wikilink")的[指令级并行性的硬件](https://zh.wikipedia.org/wiki/指令层级平行 "wikilink")[算法](../Page/算法.md "wikilink")。
+**Tomasulo算法**（托马苏洛算法）是[IBM](../Page/IBM.md "wikilink")的Robert Tomasulo在1967年研发出来的一种用来改善处理器[乱序执行](../Page/乱序执行.md "wikilink")的[指令级并行性的硬件](https://zh.wikipedia.org/wiki/指令层级平行 "wikilink")[算法](../Page/算法.md "wikilink")。
 
 ## 概述
 
-在[处理器中](https://zh.wikipedia.org/wiki/处理器 "wikilink")，先后执行的指令之间经常具有相关性（例如后一条指令用到前一条指令向寄存器写入的结果），因此早期简单的处理器使后续指令停顿，直到其所需的资源已经由前序指令准备就绪。Tomasulo算法则通过动态调度的方式，在不影响结果正确性的前提下，重新排列指令实际执行的顺序（[乱序执行](../Page/乱序执行.md "wikilink")），提高时间利用效率。IBM
-System/360 Model
-91处理器的[浮点运算器中率先使用了这种算法](https://zh.wikipedia.org/wiki/浮点运算器 "wikilink")。
+在[处理器中](https://zh.wikipedia.org/wiki/处理器 "wikilink")，先后执行的指令之间经常具有相关性（例如后一条指令用到前一条指令向寄存器写入的结果），因此早期简单的处理器使后续指令停顿，直到其所需的资源已经由前序指令准备就绪。Tomasulo算法则通过动态调度的方式，在不影响结果正确性的前提下，重新排列指令实际执行的顺序（[乱序执行](../Page/乱序执行.md "wikilink")），提高时间利用效率。IBM System/360 Model 91处理器的[浮点运算器中率先使用了这种算法](https://zh.wikipedia.org/wiki/浮点运算器 "wikilink")。
 
-该算法与之前同样用于实现[指令流水线动态调度的](../Page/指令管線化.md "wikilink")[计分板不同在于它使用了](../Page/计分板_\(处理器\).md "wikilink")[寄存器重命名](../Page/寄存器重命名.md "wikilink")机制。指令之间具有[数据相关性](https://zh.wikipedia.org/wiki/数据-程序依赖 "wikilink")（例如后条指令的源寄存器恰好是前条指令要写入的目标寄存器），进行动态调度时必须避免三类[冒险](../Page/冒险_\(计算机体系结构\).md "wikilink")：写后读（Read-after-Write,
-RAW）、写后写（Write-after-Write, WAW）、读后写（Write-after-Read,
-WAR）。第一种冒险也被称为真数据相关（true data
-dependence），而后两种冒险则并没有那么致命，它们可以由寄存器重命名来予以解决。Tomasulo算法使用了一个共享数据总线（common
-data bus,
-CDB）将已计算出的值广播给所有需要这个值作为指令源操作数的[保留站](https://zh.wikipedia.org/wiki/保留站 "wikilink")。该算法尽可能降低了使用计分板技术导致的流水线停顿，从而改善了[并行计算](../Page/并行计算.md "wikilink")的效率。
+该算法与之前同样用于实现[指令流水线动态调度的](../Page/指令管線化.md "wikilink")[计分板不同在于它使用了](../Page/计分板_\(处理器\).md "wikilink")[寄存器重命名](../Page/寄存器重命名.md "wikilink")机制。指令之间具有[数据相关性](https://zh.wikipedia.org/wiki/数据-程序依赖 "wikilink")（例如后条指令的源寄存器恰好是前条指令要写入的目标寄存器），进行动态调度时必须避免三类[冒险](../Page/冒险_\(计算机体系结构\).md "wikilink")：写后读（Read-after-Write, RAW）、写后写（Write-after-Write, WAW）、读后写（Write-after-Read, WAR）。第一种冒险也被称为真数据相关（true data dependence），而后两种冒险则并没有那么致命，它们可以由寄存器重命名来予以解决。Tomasulo算法使用了一个共享数据总线（common data bus, CDB）将已计算出的值广播给所有需要这个值作为指令源操作数的[保留站](https://zh.wikipedia.org/wiki/保留站 "wikilink")。该算法尽可能降低了使用计分板技术导致的流水线停顿，从而改善了[并行计算](../Page/并行计算.md "wikilink")的效率。
 
 ## 具体流程
 
@@ -30,23 +22,14 @@ CDB）将已计算出的值广播给所有需要这个值作为指令源操作�
 
 ## 外部链接
 
-  - [Dynamic Scheduling - Tomasulo's
-    Algorithm](http://www.cs.umd.edu/class/fall2001/cmsc411/projects/dynamic/tomasulo.html)
-  - [Web based Java demo of Tomasulo's
-    algorithm](https://web.archive.org/web/20140202102737/http://www.dgomezpr.com/ece/computer-architecture/73-tomasulo)
+  - [Dynamic Scheduling - Tomasulo's Algorithm](http://www.cs.umd.edu/class/fall2001/cmsc411/projects/dynamic/tomasulo.html)
+  - [Web based Java demo of Tomasulo's algorithm](https://web.archive.org/web/20140202102737/http://www.dgomezpr.com/ece/computer-architecture/73-tomasulo)
 
 ## 学术文献
 
-  - *[An Efficient Algorithm for Exploiting Multiple Arithmetic
-    Units](http://domino.research.ibm.com/tchjr/journalindex.nsf/0/ed39cdf7e40549ec85256bfa00683f73?OpenDocument)*,
-    IBM Journal of Research and Development, 11(1):25-33, January 1967.
-  - *[WebHASE: Tomasulo's Algorithm: HASE Java applet simulation of the
-    Tomasulo's
-    Algorithm](http://www.dcs.ed.ac.uk/home/hase/webhase/demo/tomasulo.html)*,
-    Institute for Computing Systems Architecture, Edinburgh University.
-  - *[TOMASULO'S ALGORITHM FOR DYNAMIC
-    SCHEDULING](http://www.ecs.umass.edu/ece/koren/architecture/Tomasulo1/tomasulo.htm)*
-  - *Computer Architecture: A Quantitative Approach*, John L. Hennessy &
-    David A. Patterson
+  - *[An Efficient Algorithm for Exploiting Multiple Arithmetic Units](http://domino.research.ibm.com/tchjr/journalindex.nsf/0/ed39cdf7e40549ec85256bfa00683f73?OpenDocument)*, IBM Journal of Research and Development, 11(1):25-33, January 1967.
+  - *[WebHASE: Tomasulo's Algorithm: HASE Java applet simulation of the Tomasulo's Algorithm](http://www.dcs.ed.ac.uk/home/hase/webhase/demo/tomasulo.html)*, Institute for Computing Systems Architecture, Edinburgh University.
+  - *[TOMASULO'S ALGORITHM FOR DYNAMIC SCHEDULING](http://www.ecs.umass.edu/ece/koren/architecture/Tomasulo1/tomasulo.htm)*
+  - *Computer Architecture: A Quantitative Approach*, John L. Hennessy & David A. Patterson
 
 [Category:算法](https://zh.wikipedia.org/wiki/Category:算法 "wikilink")

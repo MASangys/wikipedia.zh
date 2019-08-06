@@ -1,5 +1,4 @@
-**Woollim
-Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wikilink")[经纪公司](https://zh.wikipedia.org/wiki/经纪公司 "wikilink")，於2003年9月創立，代表為[李重燁](https://zh.wikipedia.org/wiki/李重燁 "wikilink")（）。創立初期的音樂風格為[Rock和](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[Hip-hop](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")，而後於2010年推出首組偶像男子團體[INFINITE](../Page/INFINITE.md "wikilink")，成為[K-POP主流經紀公司之一](../Page/韓國流行音樂.md "wikilink")。
+**Woollim Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wikilink")[经纪公司](https://zh.wikipedia.org/wiki/经纪公司 "wikilink")，於2003年9月創立，代表為[李重燁](https://zh.wikipedia.org/wiki/李重燁 "wikilink")（）。創立初期的音樂風格為[Rock和](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[Hip-hop](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")，而後於2010年推出首組偶像男子團體[INFINITE](../Page/INFINITE.md "wikilink")，成為[K-POP主流經紀公司之一](../Page/韓國流行音樂.md "wikilink")。
 
 ## 旗下藝人
 
@@ -58,11 +57,11 @@ Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rocket_Punch" title="wikilink">Rocket Punch</a></p></td>
+<td><p>2019年8月7日</p></td>
+<td><p><a href="../Page/Rocket_Punch.md" title="wikilink">Rocket Punch</a></p></td>
 <td><p>女</p></td>
 <td><p><a href="../Page/高橋朱里.md" title="wikilink">朱里</a>、<a href="https://zh.wikipedia.org/wiki/金蓮熙" title="wikilink">蓮熙</a>、<a href="https://zh.wikipedia.org/wiki/金秀潤" title="wikilink">秀潤</a>、<a href="https://zh.wikipedia.org/wiki/徐胤卿" title="wikilink">胤卿</a>、<a href="https://zh.wikipedia.org/wiki/金素嬉" title="wikilink">素嬉</a>、<a href="https://zh.wikipedia.org/wiki/鄭多玹" title="wikilink">多玹</a></p></td>
-<td><p><a href="../Page/高橋朱里.md" title="wikilink">朱里</a></p></td>
+<td><p>蓮熙</p></td>
 <td><p>準備出道</p></td>
 <td></td>
 <td></td>
@@ -198,8 +197,8 @@ Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>2016年</p></td>
 <td><p>2011年</p></td>
+<td></td>
 <td><p>박주환</p></td>
 <td><p>男</p></td>
 <td><p>-</p></td>
@@ -214,8 +213,8 @@ Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p>2017年</p></td>
 <td><p>2010年</p></td>
+<td></td>
 <td></td>
 <td><p>男</p></td>
 <td><p>-</p></td>
@@ -244,7 +243,7 @@ Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 
   - 權恩妃（[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）
   - 金采源（[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）
-  - 車俊昊（[X1](https://zh.wikipedia.org/wiki/X1_\(組合\) "wikilink")）
+  - 車俊昊（[X1](../Page/X1_\(組合\).md "wikilink")）
 
 ### 女練習生
 
@@ -255,6 +254,7 @@ Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
   - 周昌煜（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 金敏緒（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - 文俊號（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - 李協（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 ## 離開藝人
 
@@ -265,8 +265,7 @@ Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
   - Pe2ny
   - 장우수
   - Strawberry Fields
-  - [Jisun
-    (黃智宣)](https://zh.wikipedia.org/wiki/黃智善_\(1979年\) "wikilink")
+  - [Jisun (黃智宣)](https://zh.wikipedia.org/wiki/黃智善_\(1979年\) "wikilink")
   - [郭正旭](../Page/郭正旭.md "wikilink")
   - [TASTY](../Page/TASTY.md "wikilink")（2012年 — 2015年）
   - [Nell](../Page/Nell_\(樂團\).md "wikilink")（2006年 — 2016年）
@@ -278,31 +277,23 @@ Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 
 ### 曾經所屬企劃組合／子團
 
-  - [INFINITE
-    H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")（成員Hoya確定與公司不續約，同時子團隨之解散。）
+  - [INFINITE H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")（成員Hoya確定與公司不續約，同時子團隨之解散。）
 
 ### 昔日練習生
 
   - [郭正旭](../Page/郭正旭.md "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")預備成員，現為演員）
-  - [B-Bomb](https://zh.wikipedia.org/wiki/B-Bomb "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")預備成員，後以[Block
-    B出道](../Page/Block_B.md "wikilink")）
-  - [安宰孝](https://zh.wikipedia.org/wiki/安宰孝 "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")預備成員，後以[Block
-    B岀道](../Page/Block_B.md "wikilink")）
+  - [B-Bomb](https://zh.wikipedia.org/wiki/B-Bomb "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")預備成員，後以[Block B出道](../Page/Block_B.md "wikilink")）
+  - [安宰孝](https://zh.wikipedia.org/wiki/安宰孝 "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")預備成員，後以[Block B岀道](../Page/Block_B.md "wikilink")）
   - 吳成鍾（曾以[SPEED出道](../Page/SPEED_\(韓國音樂團體\).md "wikilink")，現為個人歌手）
   - 崔宇赫（以[Like A Movie出道](../Page/Like_A_Movie.md "wikilink")）
   - [李婁彬](../Page/李婁彬.md "wikilink")（曾參與《[少年24](../Page/少年24.md "wikilink")》、《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，後以[1TEAM](../Page/1TEAM.md "wikilink")出道）
   - [全雄](../Page/全雄.md "wikilink")（曾是[JYP娛樂](../Page/JYP娛樂.md "wikilink")及[YG娛樂](../Page/YG娛樂.md "wikilink")練習生，後以[AB6IX](../Page/AB6IX.md "wikilink")出道）
-  - 具寶慧（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後以[Heart
-    Rabbit Girls出道](../Page/Heart_Rabbit_Girls.md "wikilink")）
-  - [曺承希](../Page/曺承希.md "wikilink")（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，曾以[F-VE
-    DOLLS](../Page/F-VE_DOLLS.md "wikilink")、[DIA出道](https://zh.wikipedia.org/wiki/DIA "wikilink")，現為演員）
-  - [韓書仁](https://zh.wikipedia.org/wiki/吳連卿 "wikilink")（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，曾以[The
-    SeeYa](../Page/The_SeeYa.md "wikilink")、[F-VE
-    DOLLS出道](../Page/F-VE_DOLLS.md "wikilink")，現為個人歌手）
+  - 具寶慧（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後以[Heart Rabbit Girls出道](../Page/Heart_Rabbit_Girls.md "wikilink")）
+  - [曺承希](../Page/曺承希.md "wikilink")（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，曾以[F-VE DOLLS](../Page/F-VE_DOLLS.md "wikilink")、[DIA出道](https://zh.wikipedia.org/wiki/DIA "wikilink")，現為演員）
+  - [韓書仁](https://zh.wikipedia.org/wiki/吳連卿 "wikilink")（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，曾以[The SeeYa](../Page/The_SeeYa.md "wikilink")、[F-VE DOLLS出道](../Page/F-VE_DOLLS.md "wikilink")，現為個人歌手）
   - 崔允瑄（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後以[SONAMOO](../Page/SONAMOO.md "wikilink")出道）
   - [奇熙賢](../Page/奇熙賢.md "wikilink")（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後以[DIA出道](https://zh.wikipedia.org/wiki/DIA "wikilink")）
-  - 朴允珠（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後轉到Ulala
-    Company練習）
+  - 朴允珠（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後轉到Ulala Company練習）
   - 趙敏智（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後轉到其他公司練習）
   - 劉智雅（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後因個人因素退出）
   - 裴仁彬（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後因個人因素退出）
@@ -311,39 +302,22 @@ Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
   - 金彩璘（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後因個人因素退出）
   - 安書允（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後因個人因素退出）
   - 劉靜恩（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後因個人因素退出）
-  - 尹素允（[Lovelyz預備成員](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，後因個人因素退出）
+  - 尹素允（[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")、Rocket Punch預備成員，後因個人因素退出）
 
 ## Woollim Label
 
-2013年8月9日，SM Entertainment全面開始推動商標化，為了確保 [Universal Music
-Group](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")、[Warner Music
-Group](../Page/華納音樂集團.md "wikilink")、[Sony Music
-Entertainment](../Page/索尼音樂娛樂.md "wikilink")
-等國際主要音樂公司的藝人，開始深入了解商標化的經營。首先，SM
-C\&C 首先合併了旗下擁有
-[INFINITE](../Page/INFINITE.md "wikilink")、[Nell](../Page/Nell_\(樂團\).md "wikilink")、[TASTY](../Page/TASTY.md "wikilink")
-等藝人的 [Woollim
-Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")，並決定經營一個與現存的SM
-Entertainment 不同的獨立品牌「[Woollim
-Label](https://zh.wikipedia.org/wiki/Woollim_Label "wikilink")」。
+2013年8月9日，SM Entertainment全面開始推動商標化，為了確保 [Universal Music Group](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")、[Warner Music Group](../Page/華納音樂集團.md "wikilink")、[Sony Music Entertainment](../Page/索尼音樂娛樂.md "wikilink") 等國際主要音樂公司的藝人，開始深入了解商標化的經營。首先，SM C\&C 首先合併了旗下擁有 [INFINITE](../Page/INFINITE.md "wikilink")、[Nell](../Page/Nell_\(樂團\).md "wikilink")、[TASTY](../Page/TASTY.md "wikilink") 等藝人的 [Woollim Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")，並決定經營一個與現存的SM Entertainment 不同的獨立品牌「[Woollim Label](https://zh.wikipedia.org/wiki/Woollim_Label "wikilink")」。
 
-未來，「Woollim Label」將會盡力成為擁有特色音樂風格藝人的後盾，並致力於培養更多有實力的藝人，同時，與SM
-Entertainment、SM
-C\&C、國際上的企劃公司維持良好且緊密的關係，達到加乘的效果，加上Woollim旗下藝人的國際知名度，未來SM
-Entertainment有望成為國際上強而有力的企業，具有一定的規模與競爭力，大幅增加SM集團的整體收益，並期待成為能與國際主要音樂公司抗衡的首個韓國娱乐公司。2016年3月21日，SM
-C\&C正式宣佈將於6月设立全资子公司Woollim Entertainment。
+未來，「Woollim Label」將會盡力成為擁有特色音樂風格藝人的後盾，並致力於培養更多有實力的藝人，同時，與SM Entertainment、SM C\&C、國際上的企劃公司維持良好且緊密的關係，達到加乘的效果，加上Woollim旗下藝人的國際知名度，未來SM Entertainment有望成為國際上強而有力的企業，具有一定的規模與競爭力，大幅增加SM集團的整體收益，並期待成為能與國際主要音樂公司抗衡的首個韓國娱乐公司。2016年3月21日，SM C\&C正式宣佈將於6月设立全资子公司Woollim Entertainment。
 
 ## 參考資料
 
   - [即将出道7人偶像组合Infinite9日举行出道公演](https://web.archive.org/web/20161103220838/http://labikpop.blogbus.com/logs/65391296.html)
   - [INFINITE所屬經紀公司公開新組合“Tasty”成員](http://www.koreastardaily.com/tc/news/19483)
   - [Infinite经纪公司将推出新人女歌手刘智愛](https://web.archive.org/web/20130503085410/http://kpoppark.com/201304/1611322955352.html)
-  - [Woollim Label 即將推出新女團 — LOVELYZ
-    (러블리즈)](http://kpopn.com/2014/11/03/247525/)
-  - [SM Entertainment合併 Woollim
-    Entertainment.](http://kpopn.com/2013/08/09/187756/)
-  - [SM Culture & Contents to merge with Woollim
-    Entertainment](https://web.archive.org/web/20150521144027/http://www.privateequitykorea.com/ma-news/sm-culture-contents-to-merge-with-woollim-entertainment/)
+  - [Woollim Label 即將推出新女團 — LOVELYZ (러블리즈)](http://kpopn.com/2014/11/03/247525/)
+  - [SM Entertainment合併 Woollim Entertainment.](http://kpopn.com/2013/08/09/187756/)
+  - [SM Culture & Contents to merge with Woollim Entertainment](https://web.archive.org/web/20150521144027/http://www.privateequitykorea.com/ma-news/sm-culture-contents-to-merge-with-woollim-entertainment/)
 
 ## 外部連結
 
@@ -355,6 +329,4 @@ C\&C正式宣佈將於6月设立全资子公司Woollim Entertainment。
   -
   -
   -
-[Category:Woollim娛樂](https://zh.wikipedia.org/wiki/Category:Woollim娛樂 "wikilink")
-[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
-[Category:2003年成立的公司](https://zh.wikipedia.org/wiki/Category:2003年成立的公司 "wikilink")
+[Category:Woollim娛樂](https://zh.wikipedia.org/wiki/Category:Woollim娛樂 "wikilink") [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink") [Category:2003年成立的公司](https://zh.wikipedia.org/wiki/Category:2003年成立的公司 "wikilink")

@@ -10,6 +10,4 @@ QKZ2型由[长春轨道客车和](https://zh.wikipedia.org/wiki/長春軌道客�
 
   - [列车介绍](https://web.archive.org/web/20160304192525/http://www.chinacnr.com/p325.aspx?ProductID=11&ParentID=8)
 
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
-[Category:重庆轨道交通车辆](https://zh.wikipedia.org/wiki/Category:重庆轨道交通车辆 "wikilink")
-[Category:重庆轨道交通2号线](https://zh.wikipedia.org/wiki/Category:重庆轨道交通2号线 "wikilink")
+[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:重庆轨道交通车辆](https://zh.wikipedia.org/wiki/Category:重庆轨道交通车辆 "wikilink") [Category:重庆轨道交通2号线](https://zh.wikipedia.org/wiki/Category:重庆轨道交通2号线 "wikilink")

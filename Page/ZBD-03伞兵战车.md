@@ -1,5 +1,4 @@
-**ZBD-03伞兵战车**简称为“03式伞战”，又被称为**03式空降步兵战车**、**03式伞兵战车**，是装备[中国人民解放军](../Page/中国人民解放军.md "wikilink")[空降兵的轻型履带式装甲](https://zh.wikipedia.org/wiki/空降兵 "wikilink")[步兵战车](../Page/步兵战车.md "wikilink")。该车的研发从2000年开始（项目代号WZ506工程），2003年设计定型\[1\]
-，命名为“ZBD-03伞兵战车”。开始列装第15空降军。外界曾经一度其称为“ZBD-2000空降步兵战车”（亦或是方案论证时的命名）。
+**ZBD-03伞兵战车**简称为“03式伞战”，又被称为**03式空降步兵战车**、**03式伞兵战车**，是装备[中国人民解放军](../Page/中国人民解放军.md "wikilink")[空降兵的轻型履带式装甲](https://zh.wikipedia.org/wiki/空降兵 "wikilink")[步兵战车](../Page/步兵战车.md "wikilink")。该车的研发从2000年开始（项目代号WZ506工程），2003年设计定型\[1\] ，命名为“ZBD-03伞兵战车”。开始列装第15空降军。外界曾经一度其称为“ZBD-2000空降步兵战车”（亦或是方案论证时的命名）。
 
 ZBD-03伞兵战车在2005年[中华人民共和国与](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[俄罗斯等国举行的](https://zh.wikipedia.org/wiki/俄罗斯联邦 "wikilink")“和平使命-2005”联合军事演习中首次公开亮相。在2009年10月1日的[中华人民共和国国庆60周年阅兵式上](../Page/首都各界庆祝中华人民共和国成立60周年大会.md "wikilink")，排在受阅装备方队的第7位，由[中国人民解放军空降兵第15军第](https://zh.wikipedia.org/wiki/中国人民解放军空降兵第15军 "wikilink")45师第134团8连（上甘岭特功八连）的成员驾驶。
 
@@ -40,9 +39,7 @@ ZBD-03的单人炮塔装备一门30毫米口径[ZPT-99A](../Page/希普諾夫2A7
   - [俄罗斯BMD-3空降步兵战车](../Page/BMD-3步兵战车.md "wikilink")
   - [俄罗斯BMD-4空降步兵战车](../Page/BMD-4步兵战车.md "wikilink")
 
-[分類:步兵战车](https://zh.wikipedia.org/wiki/分類:步兵战车 "wikilink")
-[分類:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/分類:中華人民共和國裝甲戰鬥車輛 "wikilink")
-[分類:空降戰車](https://zh.wikipedia.org/wiki/分類:空降戰車 "wikilink")
+[分類:步兵战车](https://zh.wikipedia.org/wiki/分類:步兵战车 "wikilink") [分類:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/分類:中華人民共和國裝甲戰鬥車輛 "wikilink") [分類:空降戰車](https://zh.wikipedia.org/wiki/分類:空降戰車 "wikilink")
 
 1.  [王天民：我的五十年战斗历程](http://www.hjgbj.com/show.asp?id=1202) ，哈军工北京校友会。
 
@@ -51,8 +48,7 @@ ZBD-03的单人炮塔装备一门30毫米口径[ZPT-99A](../Page/希普諾夫2A7
 4.  \[铁甲神兵降九霄\]，《坦克装甲车辆》，2014年10期。
 
 5.
-6.  [车辆第07方队：ZBD-03
-    伞兵战车(空降兵)](http://mil.news.sohu.com/20090926/n267016892_4.shtml)
+6.  [车辆第07方队：ZBD-03 伞兵战车(空降兵)](http://mil.news.sohu.com/20090926/n267016892_4.shtml)
 
 7.  [ZBD-03伞兵战车](http://www.airforceworld.com/a/20160201/3008.html)
 

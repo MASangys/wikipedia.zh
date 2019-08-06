@@ -1,28 +1,22 @@
-**Linked
-Horizon**是一個由音樂人[Revo](../Page/Revo.md "wikilink")創立并主導的[日本](../Page/日本.md "wikilink")[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[團體](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。
+**Linked Horizon**是一個由音樂人[Revo](../Page/Revo.md "wikilink")創立并主導的[日本](../Page/日本.md "wikilink")[流行音樂](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[團體](https://zh.wikipedia.org/wiki/樂隊 "wikilink")。
 
 ## 概要
 
-**Linked Horizon**這一名義，是專門在Revo和其他作品合作時使用的，用於替代之前“Revo（[Sound
-Horizon](../Page/Sound_Horizon.md "wikilink")）”的表述方法。
+**Linked Horizon**這一名義，是專門在Revo和其他作品合作時使用的，用於替代之前“Revo（[Sound Horizon](../Page/Sound_Horizon.md "wikilink")）”的表述方法。
 
 這個名稱有**“與外面的世界相連”**的含義，而作品之中亦經常提及**“鎖鏈”**\[1\]這一概念，Revo因此曾將其稱為**“鎖地平團”**並自稱為“鎖地平團團長”。
 
-2012年，Revo轉投[PONY
-CANYON旗下](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")，以擔任任天堂[3DS遊戲](https://zh.wikipedia.org/wiki/3DS "wikilink")[勇氣默示錄](../Page/勇氣默示錄.md "wikilink")（Bravely
-Default: Flying Fairy）的音樂製作為契機開始活動；
+2012年，Revo轉投[PONY CANYON旗下](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")，以擔任任天堂[3DS遊戲](https://zh.wikipedia.org/wiki/3DS "wikilink")[勇氣默示錄](../Page/勇氣默示錄.md "wikilink")（Bravely Default: Flying Fairy）的音樂製作為契機開始活動；
 
 同年6月19日，在PONY CANYON總部舉行的第一作製作發表會上，首次公開了這一新的企劃名稱。
 
-与Sound
-Horizon一樣，除卻Revo以外的其他成員，如[歌手](../Page/歌手.md "wikilink")、敘述者以及樂手等，均會在每次活動時按需重新編組。
+与Sound Horizon一樣，除卻Revo以外的其他成員，如[歌手](../Page/歌手.md "wikilink")、敘述者以及樂手等，均會在每次活動時按需重新編組。
 
 2012年12月8日，宣佈了LH將負責[進擊的巨人](../Page/進擊的巨人.md "wikilink")（於2013年四月在[MBS播出的TV動畫](../Page/每日放送.md "wikilink")）片頭曲的製作。
 
 之後並陸續製作了本篇[動畫一期片頭曲](https://zh.wikipedia.org/wiki/動畫 "wikilink")(前、後篇)、劇場版主題歌(前、後篇)、衍生動畫『進撃\!巨人中学校』片頭曲以及本篇動畫二期片頭曲。
 
-2013年12月31日，于[第64回NHK红白歌合战上演唱了](https://zh.wikipedia.org/wiki/第64回NHK红白歌合战 "wikilink")**紅蓮の弓矢\[紅白スペシャルSize\]**，这是Linked
-Horizon及Revo初次参演红白。
+2013年12月31日，于[第64回NHK红白歌合战上演唱了](https://zh.wikipedia.org/wiki/第64回NHK红白歌合战 "wikilink")**紅蓮の弓矢\[紅白スペシャルSize\]**，这是Linked Horizon及Revo初次参演红白。
 
 ## 構成
 
@@ -50,8 +44,7 @@ Revo：負責演唱、作詞、作曲、編曲、演奏。
   - 8月22日：單曲 『ルクセンダルク小紀行』發售。
   - 9月19日：專輯『ルクセンダルク大紀行』發售。
   - 10月5日：『 Luxendarc 大紀行』台壓盤發售。
-  - 10月10日：BDFF OST『ブレイブリーデフォルト フライングフェアリー
-    オリジナルサウンドトラック』發售。※以REVO個人名義發行。
+  - 10月10日：BDFF OST『ブレイブリーデフォルト フライングフェアリー オリジナルサウンドトラック』發售。※以REVO個人名義發行。
   - 11月25日：演唱會「Revo Linked BRAVELY DEFAULT Concert」於橫濱・横浜アリーナ舉行。
   - 12月8日：發表將製作動畫『進撃の巨人』主題歌。
 
@@ -73,8 +66,7 @@ Revo：負責演唱、作詞、作曲、編曲、演奏。
   - 4月8日：『紅蓮の弓矢（TVサイズ ver.）』網路配信發售。
   - 7月9日-30日・12日-13日・17日-18日・25日-26日：「進撃の巨人訪談＆Live演唱會」於Zeppダイバーシティ東京、Zeppなんば大阪、Zepp名古屋舉行。
       - 10日：單曲『自由への進撃』發售。
-  - 10月26日：演唱會「Revo's Halloween Party」於さいたまスーパーアリーナ舉行。※演唱內容包含「Sound
-    Horizon」、「Linked Horizon」及Revo個人名義發表的印象專輯曲目。
+  - 10月26日：演唱會「Revo's Halloween Party」於さいたまスーパーアリーナ舉行。※演唱內容包含「Sound Horizon」、「Linked Horizon」及Revo個人名義發表的印象專輯曲目。
   - 12月31日：於『第64回NHK紅白歌合戦』出場並演唱『紅蓮の弓矢 \[紅白スペシャルver.\]』。
 
 </div>
@@ -92,8 +84,7 @@ Revo：負責演唱、作詞、作曲、編曲、演奏。
 <div class="NavContent" style="text-align: left;">
 
   - 1月1日：『紅蓮の弓矢 \[紅白スペシャルSize.\]」網路配信發售。
-  - 6月18日：Live DVD\&Blu-ray『The Assorted
-    Horizons』發售。※初回限定盤收錄2013年「進撃の巨人訪談＆Live演唱會」的三首曲目。
+  - 6月18日：Live DVD\&Blu-ray『The Assorted Horizons』發售。※初回限定盤收錄2013年「進撃の巨人訪談＆Live演唱會」的三首曲目。
   - 8月30日：發表將製作電影『進撃の巨人 前編 〜紅蓮の弓矢〜』主題歌。
   - 11月22日：『紅蓮の座標 \[劇場版Size\]』網路配信發售。
 
@@ -136,8 +127,7 @@ Revo：負責演唱、作詞、作曲、編曲、演奏。
   - 5月17日：專輯『進擊的軌跡』（『進撃の軌跡』）發售。
   - 5月19日：專輯『進擊的軌跡』韓國盤發售。
   - 5月26日：專輯『進擊的軌跡』台壓盤發售。
-  - 7月8日\~2018年11月10日：演唱會Linked Horizon Live Tour 2017
-    『進撃の軌跡』於22個會場舉行，共計36場公演，其中包含台灣及香港公演。
+  - 7月8日\~2018年11月10日：演唱會Linked Horizon Live Tour 2017 『進撃の軌跡』於22個會場舉行，共計36場公演，其中包含台灣及香港公演。
 
 </div>
 
@@ -153,21 +143,14 @@ Revo：負責演唱、作詞、作曲、編曲、演奏。
 
 <div class="NavContent" style="text-align: left;">
 
-  - 1月13日-14日：演唱會Linked Horizon Live Tour 2017 『進撃の軌跡
-    総員集結凱旋公演』於橫浜アリーナ舉行。
-  - 5月19日：演唱會電影暨迷你演唱會Linked Horizon Live Tour “SHINGEKI NO KISEKI”
-    Memoirs & Mini Live Show in Korea於 韓国・MUV HALL舉行。
-      - 26日：演唱會電影暨迷你演唱會Linked Horizon Live Tour “SHINGEKI NO KISEKI”
-        Memoirs & Mini Live Show in Singapore於 新加坡・Zepp@BIGBOX
-        Singapore舉行。
+  - 1月13日-14日：演唱會Linked Horizon Live Tour 2017 『進撃の軌跡 総員集結凱旋公演』於橫浜アリーナ舉行。
+  - 5月19日：演唱會電影暨迷你演唱會Linked Horizon Live Tour “SHINGEKI NO KISEKI” Memoirs & Mini Live Show in Korea於 韓国・MUV HALL舉行。
+      - 26日：演唱會電影暨迷你演唱會Linked Horizon Live Tour “SHINGEKI NO KISEKI” Memoirs & Mini Live Show in Singapore於 新加坡・Zepp@BIGBOX Singapore舉行。
   - 7月30日：『暁の鎮魂歌\[TV Size\]』（拂曉的安魂曲）網路配信發售。
   - 9月19日：單曲『楽園への進撃』（向樂園進擊）發售。
-      - 28日-12月29日：「劇場版 Linked Horizon Live Tour 『進撃の軌跡（進擊的軌跡）』全員集結
-        凱旋公演」於全日本上映。※上映種類包含杜比音效版、通常版以及應援上映版。
-  - 10月6日：「劇場版 Linked Horizon Live Tour 『進撃の軌跡（進擊的軌跡）』全員集結 凱旋公演」於香港MOVIE
-    TOWN Cinema上映。
-      - 13日-14日：「劇場版 Linked Horizon Live Tour 『進撃の軌跡（進擊的軌跡）』全員集結
-        凱旋公演」於台灣真善美影城、韓國Seoul Cinema上映。
+      - 28日-12月29日：「劇場版 Linked Horizon Live Tour 『進撃の軌跡（進擊的軌跡）』全員集結 凱旋公演」於全日本上映。※上映種類包含杜比音效版、通常版以及應援上映版。
+  - 10月6日：「劇場版 Linked Horizon Live Tour 『進撃の軌跡（進擊的軌跡）』全員集結 凱旋公演」於香港MOVIE TOWN Cinema上映。
+      - 13日-14日：「劇場版 Linked Horizon Live Tour 『進撃の軌跡（進擊的軌跡）』全員集結 凱旋公演」於台灣真善美影城、韓國Seoul Cinema上映。
   - 12月26日：Blu-ray「Linked Horizon Live Tour『進撃の軌跡』総員集結 凱旋公演」預定發售。
 
 </div>
@@ -184,8 +167,7 @@ Revo：負責演唱、作詞、作曲、編曲、演奏。
 
 <div class="NavHead" style="text-align: left;">
 
-**「ルクセンダルク小紀行」（3DS遊戲「[Bravely
-Default](../Page/勇氣默示錄.md "wikilink")」作曲）**（初回限定版・普通版）（2012年8月22日）
+**「ルクセンダルク小紀行」（3DS遊戲「[Bravely Default](../Page/勇氣默示錄.md "wikilink")」作曲）**（初回限定版・普通版）（2012年8月22日）
 
 </div>
 
@@ -287,7 +269,7 @@ Default](../Page/勇氣默示錄.md "wikilink")」作曲）**（初回限定版�
 8.  双翼のヒカリ
 9.  自由の代償
 10. 彼女は冷たい棺の中で
-11. 心臓を捧げよ\!
+11. 心臓を捧げよ\!（動畫「[進撃の巨人](../Page/進擊的巨人.md "wikilink")」第二季片頭曲）
 12. 青春は花火のように \[ボーナストラック\]
 
 </div>
@@ -372,8 +354,7 @@ Default](../Page/勇氣默示錄.md "wikilink")」作曲）**（初回限定版�
 
   - **紅蓮の弓矢\[紅白スペシャルSize\]'（2014年1月1日）**
 
-※于[第64回NHK红白歌合战演唱的特殊编曲的](https://zh.wikipedia.org/wiki/第64回NHK红白歌合战 "wikilink")「紅蓮の弓矢」，为纪念Linked
-Horizon能够登上红白而配信。
+※于[第64回NHK红白歌合战演唱的特殊编曲的](https://zh.wikipedia.org/wiki/第64回NHK红白歌合战 "wikilink")「紅蓮の弓矢」，为纪念Linked Horizon能够登上红白而配信。
 
   - **红莲の座标 \[剧场版Size\]'（2014年11月22日）**
 
@@ -510,8 +491,7 @@ Horizon能够登上红白而配信。
 
 ## 外部連結
 
-  - [Linked Horizon Official Website](http://linked-horizon.com/) Linked
-    Horizon的官方網站
+  - [Linked Horizon Official Website](http://linked-horizon.com/) Linked Horizon的官方網站
   - [Linked Horizon的官方Twitter](https://twitter.com/L_Horizon_info)
 
 ## 註釋
@@ -522,5 +502,4 @@ Horizon能够登上红白而配信。
 
 1.  在日語中，鎖（くさり）的含義是鎖鏈，並非漢語中的鎖頭。
 2.  Revo所作隐藏曲的惯例，没有特定标题的时候会取名“无题”。
-3.  [Linked Horizon首度來台 第二日驚喜演唱多首Sound
-    Horizon曲目](https://memeon-music.com/2017/09/09/linked-horizon-livereport/)
+3.  [Linked Horizon首度來台 第二日驚喜演唱多首Sound Horizon曲目](https://memeon-music.com/2017/09/09/linked-horizon-livereport/)

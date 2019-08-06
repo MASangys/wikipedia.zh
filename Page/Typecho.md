@@ -1,19 +1,16 @@
-**Typecho**是一个基于[PHP](../Page/PHP.md "wikilink")的简洁的开源博客程序。它使用多种数据库（[MySQL](../Page/MySQL.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[SQLite](../Page/SQLite.md "wikilink")、[MariaDB](../Page/MariaDB.md "wikilink")）储存数据，在[GNU
-GPLv2许可证下发行](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
+**Typecho**是一个基于[PHP](../Page/PHP.md "wikilink")的简洁的开源博客程序。它使用多种数据库（[MySQL](../Page/MySQL.md "wikilink")、[PostgreSQL](../Page/PostgreSQL.md "wikilink")、[SQLite](../Page/SQLite.md "wikilink")、[MariaDB](../Page/MariaDB.md "wikilink")）储存数据，在[GNU GPLv2许可证下发行](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
 ## 名称来历
 
 Typecho 是由 type 和 echo 两个词合成的，来自于开发团队的头脑风暴。
 
-Type，有打字的意思，博客这个东西，正是一个让我们通过打字，在网络上表达自己的平台。Echo，意思是回声、反馈、共鸣，也是PHP里最常见、最重要的函数，相信大部分PHP爱好者都是从
-echo 'Hello,world\!'; 开始自己的PHP编程之路的。\[7\]
+Type，有打字的意思，博客这个东西，正是一个让我们通过打字，在网络上表达自己的平台。Echo，意思是回声、反馈、共鸣，也是PHP里最常见、最重要的函数，相信大部分PHP爱好者都是从 echo 'Hello,world\!'; 开始自己的PHP编程之路的。\[7\]
 
 Typecho 由两个单词 type 和 echo 组成的，在发音的时候也发这两个音`/taɪpˌ'ekoʊ/`。\[8\]
 
 ## 发展历史
 
-Typecho的前身是开源博客程序Magike，由Typecho项目的发起人JoyQi(70)开发。该团队的最初形成，是在[wordcamp
-china的活动上](../Page/WordCamp.md "wikilink")，后来有更多成员加入了这个项目，之后改名为Typecho。\[9\]这个名字来源于团队内部的头脑风暴：Type，有打字的意思；Echo，意思是回声、反馈、共鸣，也是PHP里最常见、最重要的函数。将这两个词合并在一起，就有了Typecho。\[10\]\[11\]
+Typecho的前身是开源博客程序Magike，由Typecho项目的发起人JoyQi(70)开发。该团队的最初形成，是在[wordcamp china的活动上](../Page/WordCamp.md "wikilink")，后来有更多成员加入了这个项目，之后改名为Typecho。\[9\]这个名字来源于团队内部的头脑风暴：Type，有打字的意思；Echo，意思是回声、反馈、共鸣，也是PHP里最常见、最重要的函数。将这两个词合并在一起，就有了Typecho。\[10\]\[11\]
 
 团队成员来自天南地北，通过邮件、[IM沟通并制订开发计划](https://zh.wikipedia.org/wiki/即时通信 "wikilink")，利用工作之余的闲暇时间完成开发工作。\[12\]
 
@@ -29,8 +26,7 @@ Typecho使用的是[Markdown语法](https://zh.wikipedia.org/wiki/Markdown "wiki
 
 ### 简洁
 
-Typecho 的代码不到 500 KB，数据表仅7张（不包括扩展生成的数据表）。\[18\]
-整站只需几个接口，通过静态继承快速传递参数，插件越多，功能只会越强大，对速度影响却微乎其微。
+Typecho 的代码不到 500 KB，数据表仅7张（不包括扩展生成的数据表）。\[18\] 整站只需几个接口，通过静态继承快速传递参数，插件越多，功能只会越强大，对速度影响却微乎其微。
 
 ### 自适应
 
@@ -38,15 +34,13 @@ Typecho的默认模板和后台，全部采用了[响应式设计](../Page/响�
 
 ## 版本
 
-Typecho最早可下载的版本是0.3 <small>(8.12.30)</small>，括号内的数字即代表发布日期，如0.3
-<small>(8.12.30)</small>的发布时间为2008年12月30日。\[20\]
+Typecho最早可下载的版本是0.3 <small>(8.12.30)</small>，括号内的数字即代表发布日期，如0.3 <small>(8.12.30)</small>的发布时间为2008年12月30日。\[20\]
 
 截止2018年8月19日，Typecho的最新正式版为1.1(17.10.30)\[21\]，最新开发版为1.2(18.1.29)\[22\]\[23\]。
 
 正式版可在官方网站下载，开发版可在官方网站和Github上下载。\[24\]\[25\]
 
-1.0及以前的版本为旧版，存在安全漏洞，除非特殊需要否则请不要下载。它们可以在 [Google
-Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink") 存档页面下载。
+1.0及以前的版本为旧版，存在安全漏洞，除非特殊需要否则请不要下载。它们可以在 [Google Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink") 存档页面下载。
 
 <table>
 <colgroup>
@@ -194,8 +188,7 @@ Code](https://zh.wikipedia.org/wiki/Google_Code "wikilink") 存档页面下载�
 
 ## 参考资料
 
-[Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink")
-[Category:網誌軟體](https://zh.wikipedia.org/wiki/Category:網誌軟體 "wikilink")
+[Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink") [Category:網誌軟體](https://zh.wikipedia.org/wiki/Category:網誌軟體 "wikilink")
 
 1.
 

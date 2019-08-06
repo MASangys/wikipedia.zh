@@ -30,8 +30,7 @@
   -
 
       -
-        出自同名小說家[中島敦](../Page/中島敦.md "wikilink")(なかじま
-        あつし)的作品《》，作品改編自中國明代《[古今說海](https://zh.wikipedia.org/wiki/古今說海 "wikilink")》中的《[人虎傳](https://zh.wikipedia.org/wiki/人虎傳 "wikilink")》，描述一名叫做[李徵的進士因官場不得志](https://zh.wikipedia.org/wiki/李徵 "wikilink")，鬱鬱寡歡後性情丕變，最終變為山中虎怪的故事。故事原篇名為《[李徵](https://zh.wikipedia.org/wiki/李徵 "wikilink")》出自唐代[張讀](https://zh.wikipedia.org/wiki/張讀 "wikilink")《[宣室志](https://zh.wikipedia.org/wiki/宣室志 "wikilink")》後收錄於宋代[李昉編著之](https://zh.wikipedia.org/wiki/李昉 "wikilink")《[太平廣記](../Page/太平廣記.md "wikilink")》中。
+        出自同名小說家[中島敦](../Page/中島敦.md "wikilink")(なかじま あつし)的作品《》，作品改編自中國明代《[古今說海](https://zh.wikipedia.org/wiki/古今說海 "wikilink")》中的《[人虎傳](https://zh.wikipedia.org/wiki/人虎傳 "wikilink")》，描述一名叫做[李徵的進士因官場不得志](https://zh.wikipedia.org/wiki/李徵 "wikilink")，鬱鬱寡歡後性情丕變，最終變為山中虎怪的故事。故事原篇名為《[李徵](https://zh.wikipedia.org/wiki/李徵 "wikilink")》出自唐代[張讀](https://zh.wikipedia.org/wiki/張讀 "wikilink")《[宣室志](https://zh.wikipedia.org/wiki/宣室志 "wikilink")》後收錄於宋代[李昉編著之](https://zh.wikipedia.org/wiki/李昉 "wikilink")《[太平廣記](../Page/太平廣記.md "wikilink")》中。
 
 <!-- end list -->
 
@@ -60,8 +59,7 @@
   -
 
       -
-        出自同名小說家[津島修治的筆名](../Page/太宰治.md "wikilink")[太宰治](../Page/太宰治.md "wikilink")(だざい
-        おさむ)的作品《[人間失格](../Page/人間失格.md "wikilink")》，作品描述一個名為[大庭葉藏的青年](https://zh.wikipedia.org/wiki/大庭葉藏 "wikilink")，由於生長背景而養成的個性的緣故，總是處處跟他人格格不入。無法融入他人規則的葉藏，短短一生就自殺未遂多次，故事的最後葉藏二十七歲時，外表竟已看似四十來歲。作品中雖然以「失去做人的資格」來描寫主角，但在篇尾又以對主角簡單的肯定，讓人反省究竟失去做人的資格的，是主角、還是其他人？這篇通常被外界認為是作者[太宰治](../Page/太宰治.md "wikilink")在影射自己的半自傳小說。
+        出自同名小說家[津島修治的筆名](../Page/太宰治.md "wikilink")[太宰治](../Page/太宰治.md "wikilink")(だざい おさむ)的作品《[人間失格](../Page/人間失格.md "wikilink")》，作品描述一個名為[大庭葉藏的青年](https://zh.wikipedia.org/wiki/大庭葉藏 "wikilink")，由於生長背景而養成的個性的緣故，總是處處跟他人格格不入。無法融入他人規則的葉藏，短短一生就自殺未遂多次，故事的最後葉藏二十七歲時，外表竟已看似四十來歲。作品中雖然以「失去做人的資格」來描寫主角，但在篇尾又以對主角簡單的肯定，讓人反省究竟失去做人的資格的，是主角、還是其他人？這篇通常被外界認為是作者[太宰治](../Page/太宰治.md "wikilink")在影射自己的半自傳小說。
 
 <!-- end list -->
 
@@ -81,8 +79,7 @@
   -
 
       -
-        出自同名小說家、詩人[國木田獨步](../Page/國木田獨步.md "wikilink")(くにきだ
-        どっぽ)的筆名「独歩吟客」另與好友[田山花袋](https://zh.wikipedia.org/wiki/田山花袋 "wikilink")、[柳田國男](../Page/柳田國男.md "wikilink")等人合著有《[独歩吟](https://zh.wikipedia.org/wiki/独歩吟 "wikilink")》詩集。[國木田獨步](../Page/國木田獨步.md "wikilink")在日本文學史中以自然文學、抒情詩人而聞名，自然文學的著名代表作品為《[武藏野](https://zh.wikipedia.org/wiki/武藏野 "wikilink")》散文集，描寫作者在武藏野台地一帶散步時，對自然環境的觀察與體悟。日本[琦玉縣舊名](https://zh.wikipedia.org/wiki/琦玉縣 "wikilink")[武藏國](../Page/武藏國.md "wikilink")，廣義來說，舊時武藏野泛指武藏國境內一帶，但這邊的武藏野一般認為指的是[武藏野台地](../Page/武藏野台地.md "wikilink")，指的是地區以南、直到東京都[府中的地區](https://zh.wikipedia.org/wiki/府中 "wikilink")，介於[荒川與](https://zh.wikipedia.org/wiki/荒川 "wikilink")[多摩川之間](https://zh.wikipedia.org/wiki/多摩川 "wikilink")；作者在作品中以人生來觀察自然、又以自然來體悟人生，探索自然與人的關聯。[國木田獨步](../Page/國木田獨步.md "wikilink")同時也是短篇小說家，寫有《[春の鳥](https://zh.wikipedia.org/wiki/春の鳥 "wikilink")》與《》等作。
+        出自同名小說家、詩人[國木田獨步](../Page/國木田獨步.md "wikilink")(くにきだ どっぽ)的筆名「独歩吟客」另與好友[田山花袋](https://zh.wikipedia.org/wiki/田山花袋 "wikilink")、[柳田國男](../Page/柳田國男.md "wikilink")等人合著有《[独歩吟](https://zh.wikipedia.org/wiki/独歩吟 "wikilink")》詩集。[國木田獨步](../Page/國木田獨步.md "wikilink")在日本文學史中以自然文學、抒情詩人而聞名，自然文學的著名代表作品為《[武藏野](https://zh.wikipedia.org/wiki/武藏野 "wikilink")》散文集，描寫作者在武藏野台地一帶散步時，對自然環境的觀察與體悟。日本[琦玉縣舊名](https://zh.wikipedia.org/wiki/琦玉縣 "wikilink")[武藏國](../Page/武藏國.md "wikilink")，廣義來說，舊時武藏野泛指武藏國境內一帶，但這邊的武藏野一般認為指的是[武藏野台地](../Page/武藏野台地.md "wikilink")，指的是地區以南、直到東京都[府中的地區](https://zh.wikipedia.org/wiki/府中 "wikilink")，介於[荒川與](https://zh.wikipedia.org/wiki/荒川 "wikilink")[多摩川之間](https://zh.wikipedia.org/wiki/多摩川 "wikilink")；作者在作品中以人生來觀察自然、又以自然來體悟人生，探索自然與人的關聯。[國木田獨步](../Page/國木田獨步.md "wikilink")同時也是短篇小說家，寫有《[春の鳥](https://zh.wikipedia.org/wiki/春の鳥 "wikilink")》與《》等作。
 
 <!-- end list -->
 
@@ -105,8 +102,7 @@
   -
 
       -
-        出自知名推理小說家[平井太郎](../Page/江戶川亂步.md "wikilink")(ひらい たろう)的筆名「江戸川
-        乱歩」及其開先河的名詞「推理小說」(在[平井太郎之前都是以](../Page/江戶川亂步.md "wikilink")「偵探小說」一詞稱呼此類文學作品)。[江戶川亂步](../Page/江戶川亂步.md "wikilink")是日本明治的大正到昭和時期之間，重要的推理小說文學代表人物，而後成為[日本推理小說作家協會初代理事長](https://zh.wikipedia.org/wiki/日本推理小說作家協會 "wikilink")，設有「[亂步賞](https://zh.wikipedia.org/wiki/江戶川亂步獎 "wikilink")」。初期作品都是以短篇推理為主，而後開始連載知名的[明智小五郎](../Page/明智小五郎.md "wikilink")、以及[少年偵探團系列](https://zh.wikipedia.org/wiki/少年偵探團 "wikilink")。江戶川亂步的推理小說，常伴有獵奇、扭曲的心理層面描寫，作品的氛圍亦常帶有妖異、鄉野奇談的色彩，著名作品有《[二錢銅幣](https://zh.wikipedia.org/wiki/二錢銅幣 "wikilink")》《心理測驗》《[人間椅子](../Page/人間椅子.md "wikilink")》《[怪人二十面相](https://zh.wikipedia.org/wiki/怪人二十面相 "wikilink")》等。「江戶川亂步」這個筆名其實是來自現代推理小說鼻祖，美國的推理小說作家--[愛倫·坡的名字](https://zh.wikipedia.org/wiki/愛倫·坡 "wikilink")，重新切割而成([愛倫·坡原名為Edgar](https://zh.wikipedia.org/wiki/愛倫·坡 "wikilink")-Allan-Poe，[江戶川亂步](../Page/江戶川亂步.md "wikilink")的羅馬拼音則是近似於E-d-gar-Al-lan-Poe)
+        出自知名推理小說家[平井太郎](../Page/江戶川亂步.md "wikilink")(ひらい たろう)的筆名「江戸川 乱歩」及其開先河的名詞「推理小說」(在[平井太郎之前都是以](../Page/江戶川亂步.md "wikilink")「偵探小說」一詞稱呼此類文學作品)。[江戶川亂步](../Page/江戶川亂步.md "wikilink")是日本明治的大正到昭和時期之間，重要的推理小說文學代表人物，而後成為[日本推理小說作家協會初代理事長](https://zh.wikipedia.org/wiki/日本推理小說作家協會 "wikilink")，設有「[亂步賞](https://zh.wikipedia.org/wiki/江戶川亂步獎 "wikilink")」。初期作品都是以短篇推理為主，而後開始連載知名的[明智小五郎](../Page/明智小五郎.md "wikilink")、以及[少年偵探團系列](https://zh.wikipedia.org/wiki/少年偵探團 "wikilink")。江戶川亂步的推理小說，常伴有獵奇、扭曲的心理層面描寫，作品的氛圍亦常帶有妖異、鄉野奇談的色彩，著名作品有《[二錢銅幣](https://zh.wikipedia.org/wiki/二錢銅幣 "wikilink")》《心理測驗》《[人間椅子](../Page/人間椅子.md "wikilink")》《[怪人二十面相](https://zh.wikipedia.org/wiki/怪人二十面相 "wikilink")》等。「江戶川亂步」這個筆名其實是來自現代推理小說鼻祖，美國的推理小說作家--[愛倫·坡的名字](https://zh.wikipedia.org/wiki/愛倫·坡 "wikilink")，重新切割而成([愛倫·坡原名為Edgar](https://zh.wikipedia.org/wiki/愛倫·坡 "wikilink")-Allan-Poe，[江戶川亂步](../Page/江戶川亂步.md "wikilink")的羅馬拼音則是近似於E-d-gar-Al-lan-Poe)
 
 <!-- end list -->
 
@@ -136,8 +132,7 @@
   -
 
       -
-        出自同名女性詩人、作家[与謝野晶子](../Page/與謝野晶子.md "wikilink")(よさの
-        あきこ)於明治37年在《[明星](https://zh.wikipedia.org/wiki/明星 "wikilink")》文藝誌上發表的《[君死にたまふことなかれ](../Page/與謝野晶子.md "wikilink")》詩作。「君、死に給ふこと勿れ」的意思是「你不要死」，是[與謝野晶子](../Page/與謝野晶子.md "wikilink")寫給其弟的作品，作品中表達了反戰與關注生命的想法。當時的時空背景正逢[日俄戰爭](../Page/日俄战争.md "wikilink")，日軍為了打擊俄羅斯太平洋艦隊，因此包圍了位於[遼寧省](../Page/辽宁省.md "wikilink")[大連市](https://zh.wikipedia.org/wiki/大连市 "wikilink")[旅順口區的二零三高地要塞](https://zh.wikipedia.org/wiki/旅順口區 "wikilink")；但由於日軍準備不足，導致日方陸軍傷亡慘重，而[與謝野晶子](../Page/與謝野晶子.md "wikilink")的弟弟也在旅順包圍軍中。[與謝野晶子](../Page/與謝野晶子.md "wikilink")作為日本文學史上女性作家的代表之一，致力於展現女性、推廣男女平等的觀念，而後與其夫[與謝野鐵幹等人](https://zh.wikipedia.org/wiki/與謝野鐵幹 "wikilink")，共同創辦了[文化學院](https://zh.wikipedia.org/wiki/文化學院 "wikilink")，是日本第一間男女同校的學校。
+        出自同名女性詩人、作家[与謝野晶子](../Page/與謝野晶子.md "wikilink")(よさの あきこ)於明治37年在《[明星](https://zh.wikipedia.org/wiki/明星 "wikilink")》文藝誌上發表的《[君死にたまふことなかれ](../Page/與謝野晶子.md "wikilink")》詩作。「君、死に給ふこと勿れ」的意思是「你不要死」，是[與謝野晶子](../Page/與謝野晶子.md "wikilink")寫給其弟的作品，作品中表達了反戰與關注生命的想法。當時的時空背景正逢[日俄戰爭](../Page/日俄战争.md "wikilink")，日軍為了打擊俄羅斯太平洋艦隊，因此包圍了位於[遼寧省](../Page/辽宁省.md "wikilink")[大連市](https://zh.wikipedia.org/wiki/大连市 "wikilink")[旅順口區的二零三高地要塞](https://zh.wikipedia.org/wiki/旅順口區 "wikilink")；但由於日軍準備不足，導致日方陸軍傷亡慘重，而[與謝野晶子](../Page/與謝野晶子.md "wikilink")的弟弟也在旅順包圍軍中。[與謝野晶子](../Page/與謝野晶子.md "wikilink")作為日本文學史上女性作家的代表之一，致力於展現女性、推廣男女平等的觀念，而後與其夫[與謝野鐵幹等人](https://zh.wikipedia.org/wiki/與謝野鐵幹 "wikilink")，共同創辦了[文化學院](https://zh.wikipedia.org/wiki/文化學院 "wikilink")，是日本第一間男女同校的學校。
 
 <!-- end list -->
 
@@ -157,8 +152,7 @@
   -
 
       -
-        出自同名童話作家、詩人以及農業家[宮沢賢治](../Page/宮澤賢治.md "wikilink")(みやざわ
-        けんじ)的《》（譯名：《無懼風雨》）詩作。[宮澤賢治](../Page/宮澤賢治.md "wikilink")從小家裡從事當舖行業，由於看多了因天災而歉收的農家，拿家中用物來典當的情景，因而也影響了他的價值觀；他同時也是一名虔誠的佛教徒，隨父輩信仰[淨土真宗](../Page/淨土真宗.md "wikilink")，曾在高中時期大病一場後，閱讀《[妙法蓮華經](../Page/妙法莲华经.md "wikilink")》而大受感動。[宮澤賢治](../Page/宮澤賢治.md "wikilink")在從大學農業部畢業後留在學校教書，但後來辭去教師的職務，創立「[羅須地人協會](https://zh.wikipedia.org/wiki/羅須地人協會 "wikilink")」開始免費教導農民施肥、耕作，隔年開始了著名童話作品《[銀河鉄道の夜](../Page/銀河鐵道之夜.md "wikilink")》（譯名：《銀河鐵道之夜》）的寫作。為了那些在荒地上開墾的農民，[宮澤賢治](../Page/宮澤賢治.md "wikilink")四處奔走，針對每塊農地，個別指導應對的土壤改良方式，但卻也因此過勞而一病不起。[宮澤賢治](../Page/宮澤賢治.md "wikilink")在《》描寫了自己的理想、與恬淡的生活觀，希望擁有不畏風雨寒暑的健康身體，並過著粗茶淡飯、四處奔走以助他人為樂的生活。
+        出自同名童話作家、詩人以及農業家[宮沢賢治](../Page/宮澤賢治.md "wikilink")(みやざわ けんじ)的《》（譯名：《無懼風雨》）詩作。[宮澤賢治](../Page/宮澤賢治.md "wikilink")從小家裡從事當舖行業，由於看多了因天災而歉收的農家，拿家中用物來典當的情景，因而也影響了他的價值觀；他同時也是一名虔誠的佛教徒，隨父輩信仰[淨土真宗](../Page/淨土真宗.md "wikilink")，曾在高中時期大病一場後，閱讀《[妙法蓮華經](../Page/妙法莲华经.md "wikilink")》而大受感動。[宮澤賢治](../Page/宮澤賢治.md "wikilink")在從大學農業部畢業後留在學校教書，但後來辭去教師的職務，創立「[羅須地人協會](https://zh.wikipedia.org/wiki/羅須地人協會 "wikilink")」開始免費教導農民施肥、耕作，隔年開始了著名童話作品《[銀河鉄道の夜](../Page/銀河鐵道之夜.md "wikilink")》（譯名：《銀河鐵道之夜》）的寫作。為了那些在荒地上開墾的農民，[宮澤賢治](../Page/宮澤賢治.md "wikilink")四處奔走，針對每塊農地，個別指導應對的土壤改良方式，但卻也因此過勞而一病不起。[宮澤賢治](../Page/宮澤賢治.md "wikilink")在《》描寫了自己的理想、與恬淡的生活觀，希望擁有不畏風雨寒暑的健康身體，並過著粗茶淡飯、四處奔走以助他人為樂的生活。
 
 <!-- end list -->
 
@@ -178,8 +172,7 @@
   -
 
       -
-        出自同名小說家[谷崎潤一郎](../Page/谷崎潤一郎.md "wikilink")(たにざき
-        じゅんいちろう)的長篇小說《》，以作者自身第三段婚姻的妻子家中的四姊妹為雛型而寫成。《》故事描寫大阪豪族蒔岡家族的四姊妹，他們的上流社會日常生活、以及在男女感情上的風風雨雨；然而開頭的美好生活僅是假象，就如同細雪，陽光一照便消融即逝，接下來故事中的一連串變故，開始讓蒔岡家族步向沒落。由於作者寫作此書時，正逢戰爭時期，日本戰況不利，因此一度因書內種種美好生活的描寫而被禁止連載。
+        出自同名小說家[谷崎潤一郎](../Page/谷崎潤一郎.md "wikilink")(たにざき じゅんいちろう)的長篇小說《》，以作者自身第三段婚姻的妻子家中的四姊妹為雛型而寫成。《》故事描寫大阪豪族蒔岡家族的四姊妹，他們的上流社會日常生活、以及在男女感情上的風風雨雨；然而開頭的美好生活僅是假象，就如同細雪，陽光一照便消融即逝，接下來故事中的一連串變故，開始讓蒔岡家族步向沒落。由於作者寫作此書時，正逢戰爭時期，日本戰況不利，因此一度因書內種種美好生活的描寫而被禁止連載。
 
 <!-- end list -->
 
@@ -202,10 +195,8 @@
   -
 
       -
-        出自知名小說家、劇作家[泉鏡太郎](../Page/泉鏡花.md "wikilink")(いずみ
-        きょうたろう)的筆名「[泉鏡花](../Page/泉鏡花.md "wikilink")」以及戲劇《》當中的龍神「白雪姫」，劇中描述一對戀人的悲戀故事。當地湖泊水神「白雪姬」想與愛人相會，但因身為水神，一旦離開就會造成水災，因此村民代代每日都敲三響鐘以鎮神，而劇中主角與戀人，就繼承了這項職務。結果沒想到，村裡為了祈雨，強硬將主角的戀人作為活祭品殺害，主角悲憤之下，斷開敲鐘的木樁、亦自殺而去。敲鐘的儀式中斷後，白雪姬便起身而去，最終村莊淹沒於大水之下。
-        [泉鏡花](../Page/泉鏡花.md "wikilink")是日本[觀念文學的代表人物](https://zh.wikipedia.org/wiki/觀念文學 "wikilink")，以浪漫情懷、以及嚴重的潔癖知名，作品中常可見作者透過筆下人物，體現愛與善良的重要精神、批判社會醜惡。[泉鏡花](../Page/泉鏡花.md "wikilink")本名[泉鏡太郎](../Page/泉鏡花.md "wikilink")，少年時期求學過程兩度退學後，因讀到小說家[尾崎紅葉](../Page/尾崎紅葉.md "wikilink")一篇《[二人比丘尼
-        色懺悔](https://zh.wikipedia.org/wiki/二人比丘尼_色懺悔 "wikilink")》受到感動因而立志往文學創作發展，「鏡花」這個筆名，也是在他拜入[尾崎紅葉](../Page/尾崎紅葉.md "wikilink")門下時，由紅葉替他取名，取「[鏡花水月](https://zh.wikipedia.org/wiki/鏡花水月 "wikilink")」一詞之意，代表作品有《》《[夜行巡査](https://zh.wikipedia.org/wiki/夜行巡査 "wikilink")》《》《[湯島詣](https://zh.wikipedia.org/wiki/湯島詣 "wikilink")》等作。同為小說家的[中島敦](../Page/中島敦.md "wikilink")曾讚賞[泉鏡花](../Page/泉鏡花.md "wikilink")的作品是「如果你生為日本人、或是通曉日文，卻沒看過[泉鏡花](../Page/泉鏡花.md "wikilink")的作品，那你就是拋棄了身為日本人的特權。」
+        出自知名小說家、劇作家[泉鏡太郎](../Page/泉鏡花.md "wikilink")(いずみ きょうたろう)的筆名「[泉鏡花](../Page/泉鏡花.md "wikilink")」以及戲劇《》當中的龍神「白雪姫」，劇中描述一對戀人的悲戀故事。當地湖泊水神「白雪姬」想與愛人相會，但因身為水神，一旦離開就會造成水災，因此村民代代每日都敲三響鐘以鎮神，而劇中主角與戀人，就繼承了這項職務。結果沒想到，村裡為了祈雨，強硬將主角的戀人作為活祭品殺害，主角悲憤之下，斷開敲鐘的木樁、亦自殺而去。敲鐘的儀式中斷後，白雪姬便起身而去，最終村莊淹沒於大水之下。
+        [泉鏡花](../Page/泉鏡花.md "wikilink")是日本[觀念文學的代表人物](https://zh.wikipedia.org/wiki/觀念文學 "wikilink")，以浪漫情懷、以及嚴重的潔癖知名，作品中常可見作者透過筆下人物，體現愛與善良的重要精神、批判社會醜惡。[泉鏡花](../Page/泉鏡花.md "wikilink")本名[泉鏡太郎](../Page/泉鏡花.md "wikilink")，少年時期求學過程兩度退學後，因讀到小說家[尾崎紅葉](../Page/尾崎紅葉.md "wikilink")一篇《[二人比丘尼 色懺悔](https://zh.wikipedia.org/wiki/二人比丘尼_色懺悔 "wikilink")》受到感動因而立志往文學創作發展，「鏡花」這個筆名，也是在他拜入[尾崎紅葉](../Page/尾崎紅葉.md "wikilink")門下時，由紅葉替他取名，取「[鏡花水月](https://zh.wikipedia.org/wiki/鏡花水月 "wikilink")」一詞之意，代表作品有《》《[夜行巡査](https://zh.wikipedia.org/wiki/夜行巡査 "wikilink")》《》《[湯島詣](https://zh.wikipedia.org/wiki/湯島詣 "wikilink")》等作。同為小說家的[中島敦](../Page/中島敦.md "wikilink")曾讚賞[泉鏡花](../Page/泉鏡花.md "wikilink")的作品是「如果你生為日本人、或是通曉日文，卻沒看過[泉鏡花](../Page/泉鏡花.md "wikilink")的作品，那你就是拋棄了身為日本人的特權。」
 
 <!-- end list -->
 
@@ -227,12 +218,7 @@
   -
 
       -
-        出自同名教育家[福澤諭吉](../Page/福泽谕吉.md "wikilink")(ふくざわ
-        ゆきち)的作品《》(譯名:《勸學》)當中的「天は人の上に人を造らず人の下に人を造らず」意為「沒有人天生就是人上人，也沒有人天生就是人下人」。[福澤諭吉是日本明治時期重要的教育家](../Page/福泽谕吉.md "wikilink")，引進並推廣西式教育，而後創辦了[慶應義塾](../Page/學校法人慶應義塾.md "wikilink")。[福澤諭吉以](../Page/福泽谕吉.md "wikilink")《[勸學](https://zh.wikipedia.org/wiki/勸學 "wikilink")》呼籲教育普及，擺脫過去封建階級思維，透過教育來改變自身社會地位；當中的名言「天は人の上に人を造らず人の下に人を造らず」一般認為是引用自[美國](../Page/美国.md "wikilink")《[獨立宣言](https://zh.wikipedia.org/wiki/獨立宣言 "wikilink")》當中起草人之一[湯瑪斯·傑佛遜闡述](https://zh.wikipedia.org/wiki/湯瑪斯·傑佛遜 "wikilink")[天賦人權的平等觀念](https://zh.wikipedia.org/wiki/天賦人權 "wikilink")："We
-        hold these truths to be self-evident, that on all men are
-        created equal on, that they are endowed by Creator with certain
-        unalienable Rights, that among these are Life, Liberty, and the
-        pursuit of Happiness."。
+        出自同名教育家[福澤諭吉](../Page/福泽谕吉.md "wikilink")(ふくざわ ゆきち)的作品《》(譯名:《勸學》)當中的「天は人の上に人を造らず人の下に人を造らず」意為「沒有人天生就是人上人，也沒有人天生就是人下人」。[福澤諭吉是日本明治時期重要的教育家](../Page/福泽谕吉.md "wikilink")，引進並推廣西式教育，而後創辦了[慶應義塾](../Page/學校法人慶應義塾.md "wikilink")。[福澤諭吉以](../Page/福泽谕吉.md "wikilink")《[勸學](https://zh.wikipedia.org/wiki/勸學 "wikilink")》呼籲教育普及，擺脫過去封建階級思維，透過教育來改變自身社會地位；當中的名言「天は人の上に人を造らず人の下に人を造らず」一般認為是引用自[美國](../Page/美国.md "wikilink")《[獨立宣言](https://zh.wikipedia.org/wiki/獨立宣言 "wikilink")》當中起草人之一[湯瑪斯·傑佛遜闡述](https://zh.wikipedia.org/wiki/湯瑪斯·傑佛遜 "wikilink")[天賦人權的平等觀念](https://zh.wikipedia.org/wiki/天賦人權 "wikilink")："We hold these truths to be self-evident, that on all men are created equal on, that they are endowed by Creator with certain unalienable Rights, that among these are Life, Liberty, and the pursuit of Happiness."。
 
 <!-- end list -->
 
@@ -248,8 +234,7 @@
   -
 
       -
-        出自小說家[谷崎潤一郎](../Page/谷崎潤一郎.md "wikilink")(たにざき
-        じゅんいちろう)的長篇小說《》中的女主角「奈緒美」，以作者自身第一段婚姻妻子小林千代子的妹妹小林せい子為雛型而寫成。[谷崎潤一郎](../Page/谷崎潤一郎.md "wikilink")的作品擅長描寫男女情愛、有著唯美的風格，被認為是唯美派的作家，作者自身的情史也是風波不斷，甚至多部作品都是以自身情史為題材寫成。[谷崎潤一郎](../Page/谷崎潤一郎.md "wikilink")跟第一任妻子千代子感情不睦，於是私下與妻妹聖子出軌，而後還為了迎娶聖子，將自己的妻子千代子，出讓給好友[佐藤春夫](../Page/佐藤春夫.md "wikilink")，但聖子卻另外心有所屬，於是[谷崎潤一郎](../Page/谷崎潤一郎.md "wikilink")最後落得兩頭空的下場。
+        出自小說家[谷崎潤一郎](../Page/谷崎潤一郎.md "wikilink")(たにざき じゅんいちろう)的長篇小說《》中的女主角「奈緒美」，以作者自身第一段婚姻妻子小林千代子的妹妹小林せい子為雛型而寫成。[谷崎潤一郎](../Page/谷崎潤一郎.md "wikilink")的作品擅長描寫男女情愛、有著唯美的風格，被認為是唯美派的作家，作者自身的情史也是風波不斷，甚至多部作品都是以自身情史為題材寫成。[谷崎潤一郎](../Page/谷崎潤一郎.md "wikilink")跟第一任妻子千代子感情不睦，於是私下與妻妹聖子出軌，而後還為了迎娶聖子，將自己的妻子千代子，出讓給好友[佐藤春夫](../Page/佐藤春夫.md "wikilink")，但聖子卻另外心有所屬，於是[谷崎潤一郎](../Page/谷崎潤一郎.md "wikilink")最後落得兩頭空的下場。
 
 <!-- end list -->
 
@@ -265,8 +250,7 @@
   -
 
       -
-        出自小說家[谷崎潤一郎](../Page/谷崎潤一郎.md "wikilink")(たにざき
-        じゅんいちろう)的長篇小說《》中的帝國劇場女演員「春野綺羅子」。
+        出自小說家[谷崎潤一郎](../Page/谷崎潤一郎.md "wikilink")(たにざき じゅんいちろう)的長篇小說《》中的帝國劇場女演員「春野綺羅子」。
 
 <!-- end list -->
 
@@ -283,8 +267,7 @@
   -
 
       -
-        出自[田山花袋](https://zh.wikipedia.org/wiki/田山花袋 "wikilink")（たやま
-        かたい）的中篇小說（日語「」的中文即為「棉被」的意思）。
+        出自[田山花袋](https://zh.wikipedia.org/wiki/田山花袋 "wikilink")（たやま かたい）的中篇小說（日語「」的中文即為「棉被」的意思）。
 
 ### 港區黑幫
 
@@ -299,8 +282,7 @@
 
   - 年齡：20歲／生日：3月1日身高：172cm／體重：50kg／血型：A型
   - 喜好：書畫古董、茶、無花果／討厭：盆栽、狗、澡堂、蠶豆、橘子。
-  - 能力：〖羅生門〗，能將穿在身上的衣物變形的能力，最常變為野獸形態，也可以藉著吞噬空間來進行防禦。 攻擊招式有
-    「顎」(黑色龍形)、「叢」(黑色手形)、「彼岸櫻」(從地上冒出無數針刺戳穿後炸開)、「幼蕨」(從地上冒出無數針刺)、「獄門顎」(黑色大龍)、「連門顎」(多數小龍)、「天魔纏鎧」(能力纏繞在身上成為鎧甲)。
+  - 能力：〖羅生門〗，能將穿在身上的衣物變形的能力，最常變為野獸形態，也可以藉著吞噬空間來進行防禦。 攻擊招式有 「顎」(黑色龍形)、「叢」(黑色手形)、「彼岸櫻」(從地上冒出無數針刺戳穿後炸開)、「幼蕨」(從地上冒出無數針刺)、「獄門顎」(黑色大龍)、「連門顎」(多數小龍)、「天魔纏鎧」(能力纏繞在身上成為鎧甲)。
   - 典故：
 
 <!-- end list -->
@@ -308,8 +290,7 @@
   -
 
       -
-        出自同名俳句詩人、小說家[芥川龍之介](../Page/芥川龙之介.md "wikilink")(あくたがわ
-        りゅうのすけ)的短篇小說《[羅生門](https://zh.wikipedia.org/wiki/羅生門 "wikilink")》，故事描述了一個在道德判斷準則上的詭局。[芥川龍之介的作品充滿藝術性](../Page/芥川龙之介.md "wikilink")，喜愛以日本古典說書文學如《[今昔物語集](../Page/今昔物語集.md "wikilink")》或《[宇治拾遺物語](https://zh.wikipedia.org/wiki/宇治拾遺物語 "wikilink")》的鄉野奇談作為題材，風格詭異、借古諷今，但又很少在作品中下定論，而是在敘述故事後，讓讀者各自判斷，代表作品有《[羅生門](https://zh.wikipedia.org/wiki/羅生門 "wikilink")》《[藪の中](../Page/竹林中.md "wikilink")》《[地獄変](https://zh.wikipedia.org/wiki/地獄變 "wikilink")》《[蜘蛛の糸](https://zh.wikipedia.org/wiki/蜘蛛之絲 "wikilink")》等作。《[羅生門](https://zh.wikipedia.org/wiki/羅生門 "wikilink")》的故事是改編自《[今昔物語集](../Page/今昔物語集.md "wikilink")》裡的《[羅城門登上層見死人盜人語第十八](https://zh.wikipedia.org/wiki/羅城門登上層見死人盜人語第十八 "wikilink")》篇。一名被主人解僱的窮困傭人，在傍晚昏暗時分，來到[平安時代的京城門口](../Page/平安时代.md "wikilink")，遇到在破爛失修的[羅城門上一名老婦](https://zh.wikipedia.org/wiki/羅城門 "wikilink")，正在拔取死屍頭上的毛髮要去換錢。原本正陷於要以竊盜維生、亦或堅持道德而餓死兩難的傭人，在聽取老婦拔髮的辯解理由，是因為這名死屍生前是個騙徒之後，也以老婦的行為替自己的內心道德掙扎辯解，強取老婦衣物後離去。
+        出自同名俳句詩人、小說家[芥川龍之介](../Page/芥川龙之介.md "wikilink")(あくたがわ りゅうのすけ)的短篇小說《[羅生門](https://zh.wikipedia.org/wiki/羅生門 "wikilink")》，故事描述了一個在道德判斷準則上的詭局。[芥川龍之介的作品充滿藝術性](../Page/芥川龙之介.md "wikilink")，喜愛以日本古典說書文學如《[今昔物語集](../Page/今昔物語集.md "wikilink")》或《[宇治拾遺物語](https://zh.wikipedia.org/wiki/宇治拾遺物語 "wikilink")》的鄉野奇談作為題材，風格詭異、借古諷今，但又很少在作品中下定論，而是在敘述故事後，讓讀者各自判斷，代表作品有《[羅生門](https://zh.wikipedia.org/wiki/羅生門 "wikilink")》《[藪の中](../Page/竹林中.md "wikilink")》《[地獄変](https://zh.wikipedia.org/wiki/地獄變 "wikilink")》《[蜘蛛の糸](https://zh.wikipedia.org/wiki/蜘蛛之絲 "wikilink")》等作。《[羅生門](https://zh.wikipedia.org/wiki/羅生門 "wikilink")》的故事是改編自《[今昔物語集](../Page/今昔物語集.md "wikilink")》裡的《[羅城門登上層見死人盜人語第十八](https://zh.wikipedia.org/wiki/羅城門登上層見死人盜人語第十八 "wikilink")》篇。一名被主人解僱的窮困傭人，在傍晚昏暗時分，來到[平安時代的京城門口](../Page/平安时代.md "wikilink")，遇到在破爛失修的[羅城門上一名老婦](https://zh.wikipedia.org/wiki/羅城門 "wikilink")，正在拔取死屍頭上的毛髮要去換錢。原本正陷於要以竊盜維生、亦或堅持道德而餓死兩難的傭人，在聽取老婦拔髮的辯解理由，是因為這名死屍生前是個騙徒之後，也以老婦的行為替自己的內心道德掙扎辯解，強取老婦衣物後離去。
 
 <!-- end list -->
 
@@ -332,8 +313,7 @@
   -
 
       -
-        出自同名詩人[中原中也](../Page/中原中也.md "wikilink")(なかはら
-        ちゅうや)的詩作《》（譯名：《污濁了的憂傷之中……》）描寫了在冰天凍地的雪中，只剩一件狐毬的肉體寒冷，以及一個人沒有夢想的心靈寒冷。[中原中也](../Page/中原中也.md "wikilink")以抒情詩人知名，雖然年僅30歲就因結核性腦膜炎病逝，但留下的多篇詩作都因被後世改編為歌曲而傳唱至今，作品包括《[月の光](../Page/月光.md "wikilink")》《[わが喫煙](https://zh.wikipedia.org/wiki/わが喫煙 "wikilink")》《[頑是ない歌](https://zh.wikipedia.org/wiki/頑是ない歌 "wikilink")》等都曾被配上樂曲、或是詩作文字被引用。
+        出自同名詩人[中原中也](../Page/中原中也.md "wikilink")(なかはら ちゅうや)的詩作《》（譯名：《污濁了的憂傷之中……》）描寫了在冰天凍地的雪中，只剩一件狐毬的肉體寒冷，以及一個人沒有夢想的心靈寒冷。[中原中也](../Page/中原中也.md "wikilink")以抒情詩人知名，雖然年僅30歲就因結核性腦膜炎病逝，但留下的多篇詩作都因被後世改編為歌曲而傳唱至今，作品包括《[月の光](../Page/月光.md "wikilink")》《[わが喫煙](https://zh.wikipedia.org/wiki/わが喫煙 "wikilink")》《[頑是ない歌](https://zh.wikipedia.org/wiki/頑是ない歌 "wikilink")》等都曾被配上樂曲、或是詩作文字被引用。
         [中原中也](../Page/中原中也.md "wikilink")的性格相當自我，樂評家[吉田秀作曾在書中提及](https://zh.wikipedia.org/wiki/吉田秀作 "wikilink")，有一天買了唱片之後，就被[中原中也](../Page/中原中也.md "wikilink")慫恿著把剩下的錢都買了酒，然後硬拉著到中原家中邊聽音樂邊喝酒了。[中原中也](../Page/中原中也.md "wikilink")的酒品不好為文壇所知，曾經在酒席上發酒瘋，抓著[太宰治](../Page/太宰治.md "wikilink")硬要他說出喜歡什麼花。中原跟[太宰治](../Page/太宰治.md "wikilink")兩人的關係不好也是眾所皆知，[太宰治](../Page/太宰治.md "wikilink")的好友曾在酒後被太宰慫恿一起自殺，因此被[中原中也](../Page/中原中也.md "wikilink")笑說檀不過是「[太宰治](../Page/太宰治.md "wikilink")身邊的小腰包罷了」。
 
 <!-- end list -->
@@ -355,8 +335,7 @@
   -
 
       -
-        出自同名小說男性作家[尾崎德太郎的筆名](https://zh.wikipedia.org/wiki/尾崎德太郎 "wikilink")[尾崎紅葉](../Page/尾崎紅葉.md "wikilink")（おざき
-        こうよう）以及其遺作小說《[金色夜叉](../Page/金色夜叉.md "wikilink")》作品中描述了主角間貫一因被愛人背叛，而化身復仇惡鬼的故事。主角間貫一從小失親，被鴨澤家收養、寄人籬下，一路讀到大學。本來眾人皆已默許主角與鴨澤家之女鴨澤宮是一對佳人，沒想到，一切卻在一名戴著鑽石戒指的富家子弟提親之後變了樣，鴨澤家將女兒嫁給了那名富家子。主角得知後，決意化作復仇之惡鬼，離開鴨澤家後，以高利貸的方式折磨了這些沉溺於金錢與欲望的人們，使得鴨澤宮也後悔萬分。就在宮向貫一懺悔後，貫一也放下了復仇之心，以高利貸得來的錢，救贖了過去那些被折磨的人們，最終兩人一同在熱海平靜地退隱。
+        出自同名小說男性作家[尾崎德太郎的筆名](https://zh.wikipedia.org/wiki/尾崎德太郎 "wikilink")[尾崎紅葉](../Page/尾崎紅葉.md "wikilink")（おざき こうよう）以及其遺作小說《[金色夜叉](../Page/金色夜叉.md "wikilink")》作品中描述了主角間貫一因被愛人背叛，而化身復仇惡鬼的故事。主角間貫一從小失親，被鴨澤家收養、寄人籬下，一路讀到大學。本來眾人皆已默許主角與鴨澤家之女鴨澤宮是一對佳人，沒想到，一切卻在一名戴著鑽石戒指的富家子弟提親之後變了樣，鴨澤家將女兒嫁給了那名富家子。主角得知後，決意化作復仇之惡鬼，離開鴨澤家後，以高利貸的方式折磨了這些沉溺於金錢與欲望的人們，使得鴨澤宮也後悔萬分。就在宮向貫一懺悔後，貫一也放下了復仇之心，以高利貸得來的錢，救贖了過去那些被折磨的人們，最終兩人一同在熱海平靜地退隱。
         《[金色夜叉](../Page/金色夜叉.md "wikilink")》寫作的背景是在[甲午戰爭之後](https://zh.wikipedia.org/wiki/甲午戰爭 "wikilink")，當時日本因明治維新一躍而起，但社會也開始因資本制度的提倡，沉溺於金錢與欲望之中，此作算是作者對此的一次批判。[尾崎紅葉](../Page/尾崎紅葉.md "wikilink")的文風受到當時反省歐化的潮流影響，偏向[元祿文學的寫實主義](https://zh.wikipedia.org/wiki/元祿文學 "wikilink")，描寫風俗人情，在與一眾好友創辦了文學社團[硯友社後](https://zh.wikipedia.org/wiki/硯友社 "wikilink")，也承襲了這種文風，並以師徒制的方式，陸續收了[廣津柳浪](https://zh.wikipedia.org/wiki/廣津柳浪 "wikilink")、[田山花袋](https://zh.wikipedia.org/wiki/田山花袋 "wikilink")、[泉鏡花](../Page/泉鏡花.md "wikilink")、[小栗風葉等入門](https://zh.wikipedia.org/wiki/小栗風葉 "wikilink")。然而，[國木田獨步](../Page/國木田獨步.md "wikilink")也曾批評過這種寫實主義缺乏理想，不過是以社會學觀點來描述生活現象，因而說是「穿著洋裝的元祿文學」
         [尾崎紅葉](../Page/尾崎紅葉.md "wikilink")同時也是日本近代白話口語文學的推廣者之一，晚期作品文內用語逐漸「言文一致」口語化，小說作品《[多情多恨](https://zh.wikipedia.org/wiki/多情多恨 "wikilink")》就是具體代表。《[金色夜叉](../Page/金色夜叉.md "wikilink")》為[尾崎紅葉](../Page/尾崎紅葉.md "wikilink")之遺作，連載時紅葉身體狀況不佳，斷斷續續，後來更罹患胃癌離世，最終才由門下弟子[小栗風葉根據遺稿](https://zh.wikipedia.org/wiki/小栗風葉 "wikilink")，續寫完成結局。
 
@@ -378,8 +357,7 @@
   -
 
       -
-        出自同名小說家[梶井基次郎](../Page/梶井基次郎.md "wikilink")(かじい
-        もとじろう)的《[檸檬](../Page/檸檬_\(小說\).md "wikilink")》短篇小說。此作原本只是作者於大學時期的作品《[瀬山の話](https://zh.wikipedia.org/wiki/瀬山の話 "wikilink")》中的一章，後來[梶井基次郎](../Page/梶井基次郎.md "wikilink")在創辦文藝誌《[青空](https://zh.wikipedia.org/wiki/青空 "wikilink")》時，將此篇獨立出來重新編寫。故事描述了一個因肺結核病魔纏身，而對自身周遭抱持壓抑苦悶情感的青年，試圖用自己的方式對世界展開惡作劇般的報復，最後將蔬果店的一顆檸檬幻想成炸彈，並且把這顆「炸彈」疊在書店中亂七八糟的書堆上，象徵將這個讓他痛苦的世界引爆。[梶井基次郎](../Page/梶井基次郎.md "wikilink")的文風簡潔直白，但又帶有詩意，生前發表過多篇短篇小說，但一直沒有真正受到文壇重視，直到他1932年3月24日因[肺結核逝世後](https://zh.wikipedia.org/wiki/結核 "wikilink")，才開始獲得注目，後世甚至將3月24日這天定為「[檸檬忌](../Page/梶井基次郎.md "wikilink")」以紀念他。
+        出自同名小說家[梶井基次郎](../Page/梶井基次郎.md "wikilink")(かじい もとじろう)的《[檸檬](../Page/檸檬_\(小說\).md "wikilink")》短篇小說。此作原本只是作者於大學時期的作品《[瀬山の話](https://zh.wikipedia.org/wiki/瀬山の話 "wikilink")》中的一章，後來[梶井基次郎](../Page/梶井基次郎.md "wikilink")在創辦文藝誌《[青空](https://zh.wikipedia.org/wiki/青空 "wikilink")》時，將此篇獨立出來重新編寫。故事描述了一個因肺結核病魔纏身，而對自身周遭抱持壓抑苦悶情感的青年，試圖用自己的方式對世界展開惡作劇般的報復，最後將蔬果店的一顆檸檬幻想成炸彈，並且把這顆「炸彈」疊在書店中亂七八糟的書堆上，象徵將這個讓他痛苦的世界引爆。[梶井基次郎](../Page/梶井基次郎.md "wikilink")的文風簡潔直白，但又帶有詩意，生前發表過多篇短篇小說，但一直沒有真正受到文壇重視，直到他1932年3月24日因[肺結核逝世後](https://zh.wikipedia.org/wiki/結核 "wikilink")，才開始獲得注目，後世甚至將3月24日這天定為「[檸檬忌](../Page/梶井基次郎.md "wikilink")」以紀念他。
 
 <!-- end list -->
 
@@ -397,8 +375,7 @@
   -
 
       -
-        出自知名小說女作家[樋口奈津(夏子)的筆名](../Page/樋口一葉.md "wikilink")「[樋口一葉](../Page/樋口一葉.md "wikilink")」(ひぐち
-        いちよう)，著有仿古文體小說《》(譯名:《青梅竹馬》)。[樋口一葉](../Page/樋口一葉.md "wikilink")是日本明治初期的女性小說家，由於其仿古文體的寫作方式，因而被稱為「現代的[紫式部](../Page/紫式部.md "wikilink")」，也是日本自平安時代以來，相隔一千餘年後的第一位知名女作家。[樋口一葉](../Page/樋口一葉.md "wikilink")小時的求學過程艱辛，由於母親[樋口多喜抱持著日本傳統上女性無才便是德的觀念](https://zh.wikipedia.org/wiki/樋口多喜 "wikilink")，因此[樋口一葉](../Page/樋口一葉.md "wikilink")連小學都還沒畢業就被迫輟學。幸好後來在父親[樋口則義支持下](https://zh.wikipedia.org/wiki/樋口則義 "wikilink")，透過管道安排進入日本詩人開辦的私校繼續學習，後來更以自學方式接觸到影響她寫作風格的日本古典文學，如《[萬葉集](../Page/萬葉集.md "wikilink")》《[古今集](../Page/古今和歌集.md "wikilink")》《》等，並跟隨在[朝日新聞](../Page/朝日新聞.md "wikilink")記者身邊學習寫作技巧。終於，[樋口一葉](../Page/樋口一葉.md "wikilink")的才華在1895年這一年開花結果，《》《》等作發表後震驚四野，但是這位奇女子卻在隔年就因為[肺結核而不幸逝世](https://zh.wikipedia.org/wiki/結核 "wikilink")，結束了她短短十四個月的傳奇寫作生涯。
+        出自知名小說女作家[樋口奈津(夏子)的筆名](../Page/樋口一葉.md "wikilink")「[樋口一葉](../Page/樋口一葉.md "wikilink")」(ひぐち いちよう)，著有仿古文體小說《》(譯名:《青梅竹馬》)。[樋口一葉](../Page/樋口一葉.md "wikilink")是日本明治初期的女性小說家，由於其仿古文體的寫作方式，因而被稱為「現代的[紫式部](../Page/紫式部.md "wikilink")」，也是日本自平安時代以來，相隔一千餘年後的第一位知名女作家。[樋口一葉](../Page/樋口一葉.md "wikilink")小時的求學過程艱辛，由於母親[樋口多喜抱持著日本傳統上女性無才便是德的觀念](https://zh.wikipedia.org/wiki/樋口多喜 "wikilink")，因此[樋口一葉](../Page/樋口一葉.md "wikilink")連小學都還沒畢業就被迫輟學。幸好後來在父親[樋口則義支持下](https://zh.wikipedia.org/wiki/樋口則義 "wikilink")，透過管道安排進入日本詩人開辦的私校繼續學習，後來更以自學方式接觸到影響她寫作風格的日本古典文學，如《[萬葉集](../Page/萬葉集.md "wikilink")》《[古今集](../Page/古今和歌集.md "wikilink")》《》等，並跟隨在[朝日新聞](../Page/朝日新聞.md "wikilink")記者身邊學習寫作技巧。終於，[樋口一葉](../Page/樋口一葉.md "wikilink")的才華在1895年這一年開花結果，《》《》等作發表後震驚四野，但是這位奇女子卻在隔年就因為[肺結核而不幸逝世](https://zh.wikipedia.org/wiki/結核 "wikilink")，結束了她短短十四個月的傳奇寫作生涯。
 
 <!-- end list -->
 
@@ -435,8 +412,7 @@
   -
 
       -
-        出自小說家[芥川龍之介](../Page/芥川龙之介.md "wikilink")(あくたがわ
-        りゅうのすけ)的短篇小說《》（譯名：《阿銀》）作品中描述在日本江戶鎖國時期，一名失去雙親的少女「阿銀」被躲避官府追捕、因「基督教禁令」而躲藏於山中的一對夫婦：孫七與阿澄收養，並接受基督教的受洗。後來一家人仍舊因禁令遭到逮捕，原本三人都已有殉教的覺悟、歸於天國，但就在官府在刑場要處以三人火刑時，阿銀居然甘犯自己的信仰，願意棄信求生。原來阿銀顧慮到沒有信仰基督教、已死的生父生母，而不願只有自己入天國；其後養母阿澄也因為了保下腹中胎兒，而宣告放棄信仰；孫七的內心則在一番掙扎之後，不願拋下兩人而去，因此最終三人都被迫棄信。芥川在此作中描寫了信仰與家族之愛的兩難，雖然最後故事結局看似惡魔得勝，但卻又似非如此。
+        出自小說家[芥川龍之介](../Page/芥川龙之介.md "wikilink")(あくたがわ りゅうのすけ)的短篇小說《》（譯名：《阿銀》）作品中描述在日本江戶鎖國時期，一名失去雙親的少女「阿銀」被躲避官府追捕、因「基督教禁令」而躲藏於山中的一對夫婦：孫七與阿澄收養，並接受基督教的受洗。後來一家人仍舊因禁令遭到逮捕，原本三人都已有殉教的覺悟、歸於天國，但就在官府在刑場要處以三人火刑時，阿銀居然甘犯自己的信仰，願意棄信求生。原來阿銀顧慮到沒有信仰基督教、已死的生父生母，而不願只有自己入天國；其後養母阿澄也因為了保下腹中胎兒，而宣告放棄信仰；孫七的內心則在一番掙扎之後，不願拋下兩人而去，因此最終三人都被迫棄信。芥川在此作中描寫了信仰與家族之愛的兩難，雖然最後故事結局看似惡魔得勝，但卻又似非如此。
 
 <!-- end list -->
 
@@ -459,12 +435,9 @@
   -
 
       -
-        出自同名小說家、醫師[森鷗外](../Page/森鷗外.md "wikilink")(もり
-        おうがい)的短篇小說作品《[ヰタ・セクスアリス](https://zh.wikipedia.org/wiki/Vita_Sexualis "wikilink")》書中以虛構角色哲學教授[金井湛想到不知該如何教導自己即將高中畢業的長男](https://zh.wikipedia.org/wiki/金井湛 "wikilink")、關於性事這一回事為契機，於是金井遂以自述體口吻，開始寫下自己自小到大，跟性事有關的遭遇，以及如何看待性方面的欲望。
+        出自同名小說家、醫師[森鷗外](../Page/森鷗外.md "wikilink")(もり おうがい)的短篇小說作品《[ヰタ・セクスアリス](https://zh.wikipedia.org/wiki/Vita_Sexualis "wikilink")》書中以虛構角色哲學教授[金井湛想到不知該如何教導自己即將高中畢業的長男](https://zh.wikipedia.org/wiki/金井湛 "wikilink")、關於性事這一回事為契機，於是金井遂以自述體口吻，開始寫下自己自小到大，跟性事有關的遭遇，以及如何看待性方面的欲望。
         雖然書名相當聳動，但實際上內容並非以激情或情慾為賣點，而是以一種類似旁觀者的理性角度，去看待生活中各種接觸到「性」這個話題的過程：不論是無意間窺得、還是從大人那聽來的；亦或是兒時孩童間的摸索、又或者是長大成人之後，在酒杯交錯的應酬間流連聲色場所，終於破處後的各種感想。最終全篇以「飼虎」為比喻作結，世人將情慾視為禁忌、視而不見，如同將虎放任，一旦等到偶爾騎上去時，又如騎虎難下、一路奔向懸崖之底；反觀雖然旁人都認為主角冷淡、不喜情色，但那只是因為主角已將情慾這隻虎給馴服，雖伏不衰。
-        作者[森鷗外](../Page/森鷗外.md "wikilink")本名[森
-        林太郎](../Page/森鷗外.md "wikilink")(もり
-        りんたろう)「鷗外」是他自己取的號。出身醫學世家，從小受到良好的教育，師從西學(日本當時稱為「[蘭學](../Page/蘭學.md "wikilink")」)，且外語能力出眾、是一名高材生，除了常喜歡在作品文中穿插外語之外，就連後來出生的小孩也是以外語名字命名(次女Anna、次男Fritz、三男Louise)。林太郎在從[東京大學醫學系畢業後](https://zh.wikipedia.org/wiki/東京大學 "wikilink")，受到未來的上司提拔，以公費生的身份前往德國留學，學習當時蔚為主流的衛生學、對治因細菌而引起的各種病症，學成歸國後，加入日本陸軍擔任軍醫，後來以在國外的經驗與情史，寫下著名的《[舞姬](../Page/舞姬_\(小說\).md "wikilink")》。[森鷗外](../Page/森鷗外.md "wikilink")的文筆充滿浪漫情懷、以及對於理想主義的追求，並且批評「沒有理想的」紀實文學。由於外語能力卓越，也翻譯過多篇外語文學，如[安徒生](../Page/安徒生.md "wikilink")的《》以及[歌德的](https://zh.wikipedia.org/wiki/歌德 "wikilink")《浮士德》等作。
+        作者[森鷗外](../Page/森鷗外.md "wikilink")本名[森 林太郎](../Page/森鷗外.md "wikilink")(もり りんたろう)「鷗外」是他自己取的號。出身醫學世家，從小受到良好的教育，師從西學(日本當時稱為「[蘭學](../Page/蘭學.md "wikilink")」)，且外語能力出眾、是一名高材生，除了常喜歡在作品文中穿插外語之外，就連後來出生的小孩也是以外語名字命名(次女Anna、次男Fritz、三男Louise)。林太郎在從[東京大學醫學系畢業後](https://zh.wikipedia.org/wiki/東京大學 "wikilink")，受到未來的上司提拔，以公費生的身份前往德國留學，學習當時蔚為主流的衛生學、對治因細菌而引起的各種病症，學成歸國後，加入日本陸軍擔任軍醫，後來以在國外的經驗與情史，寫下著名的《[舞姬](../Page/舞姬_\(小說\).md "wikilink")》。[森鷗外](../Page/森鷗外.md "wikilink")的文筆充滿浪漫情懷、以及對於理想主義的追求，並且批評「沒有理想的」紀實文學。由於外語能力卓越，也翻譯過多篇外語文學，如[安徒生](../Page/安徒生.md "wikilink")的《》以及[歌德的](https://zh.wikipedia.org/wiki/歌德 "wikilink")《浮士德》等作。
         近代關於[森鷗外](../Page/森鷗外.md "wikilink")最大的爭議係其在擔任陸軍軍醫期間，對於日軍腳氣病的治療主張。由於當時日本貴白米、賤米糠，為了吸引軍人投效報國、激勵士氣，因此日軍一律以白米精米作為主食作為一種犒賞的象徵(此外也有精米易保存運補的考量)。但久而久之下來，營養的偏廢導致腳氣病在軍中爆發，致使日軍在日俄戰爭中傷亡慘重。當時東京大學出身的醫學派系以衛生學的觀點為主，堅持腳氣病是細菌引起的病症，與師從英國臨床醫學的海軍軍醫[高木兼寛有不同見地](https://zh.wikipedia.org/wiki/高木兼寛 "wikilink")，於是兩派醫學派閥爭論不休。也是從東大出身的[森鷗外](../Page/森鷗外.md "wikilink")出於派閥立場、且為維持軍心，在當時大環境的氛圍下，遂站在[高木兼寛的對立面](https://zh.wikipedia.org/wiki/高木兼寛 "wikilink")，撰文針鋒相對，雖後來[森鷗外](../Page/森鷗外.md "wikilink")在[崎桂一郎所著的](https://zh.wikipedia.org/wiki/崎桂一郎 "wikilink")《日本米食史》中也承認了糙米與腳氣病之間的關係，但畢竟傷亡已經造成，而多次為此事出頭爭論的[森鷗外](../Page/森鷗外.md "wikilink")也從此被記上一筆。
 
 <!-- end list -->
@@ -482,9 +455,7 @@
   -
 
       -
-        出自[森鷗外](../Page/森鷗外.md "wikilink")（もり
-        おうがい）的短篇小說《[舞姬](../Page/舞姬_\(小說\).md "wikilink")》中的女主角愛麗絲。小說《[舞姬](../Page/舞姬_\(小說\).md "wikilink")》中的女主角德國少女愛麗絲與日本男子太田豐太郎有過一段沒有結果的戀情。[森鷗外](../Page/森鷗外.md "wikilink")本名[森
-        林太郎](../Page/森鷗外.md "wikilink")，後世考據《[舞姬](../Page/舞姬_\(小說\).md "wikilink")》女主角愛麗絲的名字可能來自[森鷗外](../Page/森鷗外.md "wikilink")的德國戀人愛麗絲·瑪莉·卡洛莉娜·維格特，而男主角太田豐太郎的性格則與[森鷗外](../Page/森鷗外.md "wikilink")本人有相似之處。
+        出自[森鷗外](../Page/森鷗外.md "wikilink")（もり おうがい）的短篇小說《[舞姬](../Page/舞姬_\(小說\).md "wikilink")》中的女主角愛麗絲。小說《[舞姬](../Page/舞姬_\(小說\).md "wikilink")》中的女主角德國少女愛麗絲與日本男子太田豐太郎有過一段沒有結果的戀情。[森鷗外](../Page/森鷗外.md "wikilink")本名[森 林太郎](../Page/森鷗外.md "wikilink")，後世考據《[舞姬](../Page/舞姬_\(小說\).md "wikilink")》女主角愛麗絲的名字可能來自[森鷗外](../Page/森鷗外.md "wikilink")的德國戀人愛麗絲·瑪莉·卡洛莉娜·維格特，而男主角太田豐太郎的性格則與[森鷗外](../Page/森鷗外.md "wikilink")本人有相似之處。
 
 <!-- end list -->
 
@@ -565,8 +536,7 @@
 
   - 年齡：32歲／生日：9月24日／身高：191cm／體重：88kg／血型：O型
   - 喜好：金錢、家人、自己／討厭：窮人。
-  - 能力：〖華麗的費茲傑羅(The Great
-    Fitzgerald)〗，可以用金錢為代價，根據消耗掉的金額，成正比的強化身體能力。因這個特殊能力曾使敦一度陷入危機，也因他的資本深厚而能力趨近無上限的關係，網路上堪稱白鯨之戰那幕是經典，曾一度瘋傳「課金戰士的覺悟」。
+  - 能力：〖華麗的費茲傑羅(The Great Fitzgerald)〗，可以用金錢為代價，根據消耗掉的金額，成正比的強化身體能力。因這個特殊能力曾使敦一度陷入危機，也因他的資本深厚而能力趨近無上限的關係，網路上堪稱白鯨之戰那幕是經典，曾一度瘋傳「課金戰士的覺悟」。
   - 典故：
 
 <!-- end list -->
@@ -574,10 +544,7 @@
   -
 
       -
-        出自同名小說家、律師[法蘭西斯·史考特·基·費茲傑羅](https://zh.wikipedia.org/wiki/法蘭西斯·史考特·基·費茲傑羅 "wikilink")(法蘭西斯·F，Francis
-        Scott Key Fitzgerald)、以及其知名小說《[The Great
-        Gatsby](https://zh.wikipedia.org/wiki/大亨小傳 "wikilink")》（譯名：《大亨小傳》）小說中描述一名叫作傑·蓋茨比的窮苦年輕人，為了挽回拜金的初戀情人，因此不顧一切染指非法的私酒行業。成為暴發戶後，蓋茨比掩蓋自己不堪的出身過去，極盡所能地裝闊、終日夜夜笙歌；透過這些紙醉金迷的宴會讓自己躋身於放蕩的上流社會，只為盼得伊人回頭，然而在這些浮華的盡頭，等著主角們的最終只有悲劇。費茲傑羅被視為是美國20世紀初期，「爵士時代([Jazz
-        Age](https://zh.wikipedia.org/wiki/Jazz_Age "wikilink"))」的代表作家。當時美國在第一次世界大戰後，成為世界經濟的領頭羊，在總統[柯立芝的鼓吹下](https://zh.wikipedia.org/wiki/柯立芝 "wikilink")，資本市場快速發展，社會上也拋棄過去立國時傳統[清教徒](../Page/清教徒.md "wikilink")提倡的禁慾節儉風氣，一變成為不擇手段追逐金錢、享樂炫富的氛圍，這樣的結果最終導致了[大蕭條的發生](https://zh.wikipedia.org/wiki/大蕭條 "wikilink")。
+        出自同名小說家、律師[法蘭西斯·史考特·基·費茲傑羅](https://zh.wikipedia.org/wiki/法蘭西斯·史考特·基·費茲傑羅 "wikilink")(法蘭西斯·F，Francis Scott Key Fitzgerald)、以及其知名小說《[The Great Gatsby](https://zh.wikipedia.org/wiki/大亨小傳 "wikilink")》（譯名：《大亨小傳》）小說中描述一名叫作傑·蓋茨比的窮苦年輕人，為了挽回拜金的初戀情人，因此不顧一切染指非法的私酒行業。成為暴發戶後，蓋茨比掩蓋自己不堪的出身過去，極盡所能地裝闊、終日夜夜笙歌；透過這些紙醉金迷的宴會讓自己躋身於放蕩的上流社會，只為盼得伊人回頭，然而在這些浮華的盡頭，等著主角們的最終只有悲劇。費茲傑羅被視為是美國20世紀初期，「爵士時代([Jazz Age](https://zh.wikipedia.org/wiki/Jazz_Age "wikilink"))」的代表作家。當時美國在第一次世界大戰後，成為世界經濟的領頭羊，在總統[柯立芝的鼓吹下](https://zh.wikipedia.org/wiki/柯立芝 "wikilink")，資本市場快速發展，社會上也拋棄過去立國時傳統[清教徒](../Page/清教徒.md "wikilink")提倡的禁慾節儉風氣，一變成為不擇手段追逐金錢、享樂炫富的氛圍，這樣的結果最終導致了[大蕭條的發生](https://zh.wikipedia.org/wiki/大蕭條 "wikilink")。
         費茲傑羅雖有寫作才華，但為了追求拜金揮霍的名門妻子[賽爾妲·莎爾](https://zh.wikipedia.org/wiki/賽爾妲·莎爾 "wikilink")，維持龐大的奢華開銷，不得不委身於在報章雜誌上寫一些不入流的短篇小說，來賺取家計，費茲傑羅的好友，作家[海明威也多次批評此事](https://zh.wikipedia.org/wiki/海明威 "wikilink")。從某個角度來說，《[大亨小傳](https://zh.wikipedia.org/wiki/大亨小傳 "wikilink")》中的神秘富家青年蓋茨比，就是作者費茲傑羅的投影，也是爵士時代的悲歌，整個社會被拜金的價值觀拖向深淵、越陷越深，如同小說最後掛在對岸碼頭的那盞綠燈，越是追求浮華，就越如逆水行舟。
 
 <!-- end list -->
@@ -591,8 +558,7 @@
 
   - 年齡：19歲／生日：11月30日／身高：165cm／體重：44kg／血型：AB型
   - 喜好：玩偶、說話、幻想、浪漫的事物／討厭：小氣鬼、以前待過的孤兒院、孤單一人。
-  - 能力：〖深淵的紅髮安妮(Anne of Abyssal
-    Red)〗，創造出名為「安妮的房間」之異空間。房間內有黑色白色兩道門，必須要和異形怪物·安妮玩捉迷藏，要是輸了，就會被囚禁在黑門後的房間裡，只有露西手上的鑰匙打得開，要是跟著鑰匙一起被關進去，就連能力者本人也無法脫逃。而白門可以隨露西的意願連接到任何地方，但從白門離開後，就會忘了房間裡發生過的一切事情，宛如幻想一般。
+  - 能力：〖深淵的紅髮安妮(Anne of Abyssal Red)〗，創造出名為「安妮的房間」之異空間。房間內有黑色白色兩道門，必須要和異形怪物·安妮玩捉迷藏，要是輸了，就會被囚禁在黑門後的房間裡，只有露西手上的鑰匙打得開，要是跟著鑰匙一起被關進去，就連能力者本人也無法脫逃。而白門可以隨露西的意願連接到任何地方，但從白門離開後，就會忘了房間裡發生過的一切事情，宛如幻想一般。
   - 典故：
 
 <!-- end list -->
@@ -600,24 +566,14 @@
   -
 
       -
-        出自同名加拿大女詩人、小說作家[露西·莫德·蒙哥馬利](../Page/露西·莫德·蒙哥馬利.md "wikilink")（露西·M，Lucy
-        Maud Montgomery/L. M.
-        Montgomery）以[安妮·雪莉](https://zh.wikipedia.org/wiki/安妮·雪莉 "wikilink")（Anne
-        Shirley）為主角的系列小說《[清秀佳人](../Page/清秀佳人.md "wikilink")》（Anne of
-        Green
-        Gables，原題意為綠屋子的安）。書中描述一名陰錯陽差下，被一對兄妹從孤兒院中錯領養的愛幻想紅髮小女孩--安妮．雪莉，如何面對人生地不熟的環境，努力以開朗樂觀的童趣、點亮了原本枯燥乏味的農場生活，博取周遭人們的好感，讓自己融入這個新家園，最終透過教育力爭上游。
-        [露西·莫德·蒙哥馬利](../Page/露西·莫德·蒙哥馬利.md "wikilink")暱稱為莫德，出身於加拿大愛德華王子島（[Prince
-        Edward
-        Island](https://zh.wikipedia.org/wiki/Prince_Edward_Island "wikilink")）自小就因為母親病逝、父親離家，因此被送往外祖父母同住。外祖父母對莫德採取嚴厲的管教態度，而孤獨度過這段童年時光的蒙哥馬利也因此學會以幻想中的朋友，來與自己作伴，這點也影響到日後她寫作《[清秀佳人](../Page/清秀佳人.md "wikilink")》時對主角的設定。莫德長大後原本預定出外求職，但此時卻因外祖母病重，因此於1902年又回來在愛德華王子島當地學校擔任教職。
-        在這段時間，莫德開始了小說的寫作，撰寫《[清秀佳人](../Page/清秀佳人.md "wikilink")》並於1908年出版。由於讀者反應很好，因此後來又以同樣的設定，陸續描寫了主角安妮．雪莉從小到大的一生，形成系列作。不過蒙哥馬利晚年曾表示對於一直寫作安妮這個角色已經感到厭倦，因此晚期的作品大多都是改為描寫其他女性角色，偶爾才有從《[清秀佳人](../Page/清秀佳人.md "wikilink")》系列來的角色從中串場。雖然莫德曾表示對於自己的作品沒有真正滿意過，但《[清秀佳人](../Page/清秀佳人.md "wikilink")》系列的成功讓蒙哥馬利成為[英國皇家文藝學會首名女性成員](https://zh.wikipedia.org/wiki/英國皇家文藝學會 "wikilink")，紅髮安妮這個角色也受到作家[馬克·吐溫評為](https://zh.wikipedia.org/wiki/馬克·吐溫 "wikilink")「在不朽的愛麗絲之後，最可愛、動人、有趣的孩子」（the
-        dearest and most moving and delightful child since the immortal
-        Alice）。
+        出自同名加拿大女詩人、小說作家[露西·莫德·蒙哥馬利](../Page/露西·莫德·蒙哥馬利.md "wikilink")（露西·M，Lucy Maud Montgomery/L. M. Montgomery）以[安妮·雪莉](https://zh.wikipedia.org/wiki/安妮·雪莉 "wikilink")（Anne Shirley）為主角的系列小說《[清秀佳人](../Page/清秀佳人.md "wikilink")》（Anne of Green Gables，原題意為綠屋子的安）。書中描述一名陰錯陽差下，被一對兄妹從孤兒院中錯領養的愛幻想紅髮小女孩--安妮．雪莉，如何面對人生地不熟的環境，努力以開朗樂觀的童趣、點亮了原本枯燥乏味的農場生活，博取周遭人們的好感，讓自己融入這個新家園，最終透過教育力爭上游。
+        [露西·莫德·蒙哥馬利](../Page/露西·莫德·蒙哥馬利.md "wikilink")暱稱為莫德，出身於加拿大愛德華王子島（[Prince Edward Island](https://zh.wikipedia.org/wiki/Prince_Edward_Island "wikilink")）自小就因為母親病逝、父親離家，因此被送往外祖父母同住。外祖父母對莫德採取嚴厲的管教態度，而孤獨度過這段童年時光的蒙哥馬利也因此學會以幻想中的朋友，來與自己作伴，這點也影響到日後她寫作《[清秀佳人](../Page/清秀佳人.md "wikilink")》時對主角的設定。莫德長大後原本預定出外求職，但此時卻因外祖母病重，因此於1902年又回來在愛德華王子島當地學校擔任教職。
+        在這段時間，莫德開始了小說的寫作，撰寫《[清秀佳人](../Page/清秀佳人.md "wikilink")》並於1908年出版。由於讀者反應很好，因此後來又以同樣的設定，陸續描寫了主角安妮．雪莉從小到大的一生，形成系列作。不過蒙哥馬利晚年曾表示對於一直寫作安妮這個角色已經感到厭倦，因此晚期的作品大多都是改為描寫其他女性角色，偶爾才有從《[清秀佳人](../Page/清秀佳人.md "wikilink")》系列來的角色從中串場。雖然莫德曾表示對於自己的作品沒有真正滿意過，但《[清秀佳人](../Page/清秀佳人.md "wikilink")》系列的成功讓蒙哥馬利成為[英國皇家文藝學會首名女性成員](https://zh.wikipedia.org/wiki/英國皇家文藝學會 "wikilink")，紅髮安妮這個角色也受到作家[馬克·吐溫評為](https://zh.wikipedia.org/wiki/馬克·吐溫 "wikilink")「在不朽的愛麗絲之後，最可愛、動人、有趣的孩子」（the dearest and most moving and delightful child since the immortal Alice）。
 
 <!-- end list -->
 
   -
-    「組合（Guild）」的工匠（Fellow
-    Craft）→組合殘黨暫定首領。常與[洛夫克拉夫特結伴進行任務](https://zh.wikipedia.org/wiki/洛夫克拉夫特 "wikilink")。來自大家族，有一個可愛的妹妹，為了不使故鄉的家人挨餓，盡全力要完成“組合（Guild）”交予的任務。
+    「組合（Guild）」的工匠（Fellow Craft）→組合殘黨暫定首領。常與[洛夫克拉夫特結伴進行任務](https://zh.wikipedia.org/wiki/洛夫克拉夫特 "wikilink")。來自大家族，有一個可愛的妹妹，為了不使故鄉的家人挨餓，盡全力要完成“組合（Guild）”交予的任務。
     在海外異能組織侵略橫濱事件中，因港口黑手黨的情報操作，兩人因而前往襲擊武裝偵探社的非戰鬥人員，就連前往救援的[谷崎潤一郎](../Page/谷崎潤一郎.md "wikilink")與[國木田獨步](../Page/國木田獨步.md "wikilink")都被壓制，所幸在谷崎的機智下，以幻覺引發車禍才得以掙脫。
     在火燒橫濱計畫中，史坦貝克以能力，將全市的植物與詛咒能力者「Q」的痛覺連結在一起，使得橫濱陷入莫大混亂，最後在偵探社與黑手黨雙方合作下，被[太宰治](../Page/太宰治.md "wikilink")與[中原中也](../Page/中原中也.md "wikilink")聯手擊敗。最後在白鯨墜落計畫結束後，成為組合殘黨暫定首領。
 
@@ -633,20 +589,14 @@
   -
 
       -
-        出自同名小說家[約翰·史坦貝克](../Page/約翰·史坦貝克.md "wikilink")（約翰·S，[John
-        Steinbeck](https://zh.wikipedia.org/wiki/John_Steinbeck "wikilink")）的代表作長篇小說《[憤怒的葡萄](https://zh.wikipedia.org/wiki/憤怒的葡萄 "wikilink")》（[The
-        Grape of
-        Wrath](https://zh.wikipedia.org/wiki/The_Grape_of_Wrath "wikilink")）作品背景設定在美國的[經濟大蕭條後](https://zh.wikipedia.org/wiki/經濟大蕭條 "wikilink")，主角[湯姆·約德好不容易假釋出獄後](https://zh.wikipedia.org/wiki/湯姆·約德 "wikilink")，卻發現家人因遭受天災歉收、農地被銀行沒收。不得已之下，一家人只能與其他同樣背景的農工們離鄉背井，從[奧克拉荷馬州](../Page/奧克拉荷馬州.md "wikilink")艱辛移民到[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")。到達加州後，雖然有聯邦政府設置的難民營，但卻資源不足，而移工們又要面對當地地主的壓榨。最終農工們的憤怒與不滿爆發，組織工會抗爭。
-        史坦貝克的作品常根據史實上實際發生過的事件或是人物，改寫而成，因此被視為社會紀實文學的代表性作家，但卻也因為他筆下的角色常以工人階級生活為背景，曾遭到以資本主義為主的美國政治質疑其為共產主義者，甚至一度被列為禁書。例如《[憤怒的葡萄](https://zh.wikipedia.org/wiki/憤怒的葡萄 "wikilink")》所描述的背景，就是根據美國[大蕭條後](https://zh.wikipedia.org/wiki/大蕭條 "wikilink")，實際於1930年代，在[奧克拉荷馬州](../Page/奧克拉荷馬州.md "wikilink")發生的「[黑色風暴事件](https://zh.wikipedia.org/wiki/黑色風暴事件 "wikilink")」。沙塵暴席捲當地，造成農地歉收、人民生活困苦，不得已移居到[加州的韋德派奇難民營](https://zh.wikipedia.org/wiki/加州 "wikilink")（[Weedpatch
-        Camp](https://zh.wikipedia.org/wiki/Weedpatch_Camp "wikilink")）史坦貝克曾在報章上撰文報導這些移民農工的困境，而後據此寫成《[憤怒的葡萄](https://zh.wikipedia.org/wiki/憤怒的葡萄 "wikilink")》一書。
-        書名「[The Grape of
-        Wrath](https://zh.wikipedia.org/wiki/The_Grape_of_Wrath "wikilink")」是來自天主教[聖經的典故](https://zh.wikipedia.org/wiki/聖經 "wikilink")，意為人們遭受不公義而累積的憤怒，而在[啟示錄的末日審判描述中](https://zh.wikipedia.org/wiki/啟示錄 "wikilink")，神會將這些憤怒解放出來，化為血海，就像從葡萄中榨出酒汁一樣。在《[共和國戰歌](../Page/共和國戰歌.md "wikilink")》的歌詞中也曾引用此一典故，象徵解放被壓迫者。
+        出自同名小說家[約翰·史坦貝克](../Page/約翰·史坦貝克.md "wikilink")（約翰·S，[John Steinbeck](https://zh.wikipedia.org/wiki/John_Steinbeck "wikilink")）的代表作長篇小說《[憤怒的葡萄](https://zh.wikipedia.org/wiki/憤怒的葡萄 "wikilink")》（[The Grape of Wrath](https://zh.wikipedia.org/wiki/The_Grape_of_Wrath "wikilink")）作品背景設定在美國的[經濟大蕭條後](https://zh.wikipedia.org/wiki/經濟大蕭條 "wikilink")，主角[湯姆·約德好不容易假釋出獄後](https://zh.wikipedia.org/wiki/湯姆·約德 "wikilink")，卻發現家人因遭受天災歉收、農地被銀行沒收。不得已之下，一家人只能與其他同樣背景的農工們離鄉背井，從[奧克拉荷馬州](../Page/奧克拉荷馬州.md "wikilink")艱辛移民到[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")。到達加州後，雖然有聯邦政府設置的難民營，但卻資源不足，而移工們又要面對當地地主的壓榨。最終農工們的憤怒與不滿爆發，組織工會抗爭。
+        史坦貝克的作品常根據史實上實際發生過的事件或是人物，改寫而成，因此被視為社會紀實文學的代表性作家，但卻也因為他筆下的角色常以工人階級生活為背景，曾遭到以資本主義為主的美國政治質疑其為共產主義者，甚至一度被列為禁書。例如《[憤怒的葡萄](https://zh.wikipedia.org/wiki/憤怒的葡萄 "wikilink")》所描述的背景，就是根據美國[大蕭條後](https://zh.wikipedia.org/wiki/大蕭條 "wikilink")，實際於1930年代，在[奧克拉荷馬州](../Page/奧克拉荷馬州.md "wikilink")發生的「[黑色風暴事件](https://zh.wikipedia.org/wiki/黑色風暴事件 "wikilink")」。沙塵暴席捲當地，造成農地歉收、人民生活困苦，不得已移居到[加州的韋德派奇難民營](https://zh.wikipedia.org/wiki/加州 "wikilink")（[Weedpatch Camp](https://zh.wikipedia.org/wiki/Weedpatch_Camp "wikilink")）史坦貝克曾在報章上撰文報導這些移民農工的困境，而後據此寫成《[憤怒的葡萄](https://zh.wikipedia.org/wiki/憤怒的葡萄 "wikilink")》一書。
+        書名「[The Grape of Wrath](https://zh.wikipedia.org/wiki/The_Grape_of_Wrath "wikilink")」是來自天主教[聖經的典故](https://zh.wikipedia.org/wiki/聖經 "wikilink")，意為人們遭受不公義而累積的憤怒，而在[啟示錄的末日審判描述中](https://zh.wikipedia.org/wiki/啟示錄 "wikilink")，神會將這些憤怒解放出來，化為血海，就像從葡萄中榨出酒汁一樣。在《[共和國戰歌](../Page/共和國戰歌.md "wikilink")》的歌詞中也曾引用此一典故，象徵解放被壓迫者。
 
 <!-- end list -->
 
   -
-    「組合（Guild）」的工匠（Fellow
-    Craft）。垂着黑色長髮的陰鬱男人。愛發牢騷，在眾人注視下不動手會手癢，總顯得很倦怠，甚至都懶得去呼吸。由於任務而時隔四年再度外出，與約翰·史坦貝克共同行動。總是給人一副不知道在想什麼的樣子。
+    「組合（Guild）」的工匠（Fellow Craft）。垂着黑色長髮的陰鬱男人。愛發牢騷，在眾人注視下不動手會手癢，總顯得很倦怠，甚至都懶得去呼吸。由於任務而時隔四年再度外出，與約翰·史坦貝克共同行動。總是給人一副不知道在想什麼的樣子。
     在海外異能組織侵略橫濱事件中，因港口黑手黨的情報操作，兩人因而前往襲擊武裝偵探社的非戰鬥人員，就連前往救援的[谷崎潤一郎](../Page/谷崎潤一郎.md "wikilink")與[國木田獨步](../Page/國木田獨步.md "wikilink")都被洛夫克拉夫特的強大給壓制，所幸在谷崎的機智下，以幻覺引發車禍才得以掙脫。
     在火燒橫濱計畫中，以其強大的恐怖抓捕到詛咒能力者「Q」，並以其能力對橫濱引起莫大的混亂，但最後還是被[中原中也](../Page/中原中也.md "wikilink")以黑洞「污濁」擊敗，整個身體幾乎被黑洞吸收，但還是靠著自癒能力回復成原來的樣子。最後在白鯨墜落計畫結束後，回到海裡睡覺。
 
@@ -662,15 +612,8 @@
   -
 
       -
-        出自同名美國恐怖小說家[霍華德·菲利普斯·洛夫克拉夫特](https://zh.wikipedia.org/wiki/霍華德·菲利普斯·洛夫克拉夫特 "wikilink")
-        （[Howard Phillips
-        Lovecraft](https://zh.wikipedia.org/wiki/Howard_Phillips_Lovecraft "wikilink")）創作的短篇故事《[克蘇魯的呼喚](../Page/克蘇魯的呼喚.md "wikilink")》（[The
-        Call of
-        Cthulhu](https://zh.wikipedia.org/wiki/The_Call_of_Cthulhu "wikilink")）中的[舊日支配者](https://zh.wikipedia.org/wiki/舊日支配者 "wikilink")（[Great
-        Old
-        Ones](https://zh.wikipedia.org/wiki/Great_Old_Ones "wikilink")）「[克蘇魯](../Page/克蘇魯.md "wikilink")」（[Cthulhu](https://zh.wikipedia.org/wiki/Cthulhu "wikilink")）。故事描述主角法蘭西斯·韋蘭·塞斯頓，追查一樣詭異藝術品祕密的過程。這個詭異生物的雕像是由一名藝術學院的學生創作，而該作者聲稱靈感是來自於夢中一個被稱作「[克蘇魯](../Page/克蘇魯.md "wikilink")」的未知恐怖怪物。[克蘇魯](../Page/克蘇魯.md "wikilink")有著章魚的面孔、人的身體，背上則是龍的翅膀，並且是一座古老城市[拉萊耶的統治者](https://zh.wikipedia.org/wiki/拉萊耶 "wikilink")，隨著城市沉眠在海底。隨著主角追查得越深入，自己也越深陷於恐怖與危險之中，最終不可自拔。
-        洛夫克拉夫特的作品風格深受哥德式恐怖故事影響，此與孩時祖父常會唸一些自編的恐怖故事給他聽有關。此外，洛夫克拉夫特的父母，前後都在晚年時因身心疾病的影響、住進醫療院所而逝世，也一定程度上型塑了他較為悲觀的人生觀。雖然在出社會後，洛夫克拉夫特持續在通俗恐怖小說雜誌《[Weird
-        Tales](https://zh.wikipedia.org/wiki/Weird_Tales "wikilink")》上連載短篇作品，但收入不豐、婚姻也不順遂，其在生前一直沒沒無聞，而晚期的生活更是只能依靠遺產與親戚接濟。
+        出自同名美國恐怖小說家[霍華德·菲利普斯·洛夫克拉夫特](https://zh.wikipedia.org/wiki/霍華德·菲利普斯·洛夫克拉夫特 "wikilink") （[Howard Phillips Lovecraft](https://zh.wikipedia.org/wiki/Howard_Phillips_Lovecraft "wikilink")）創作的短篇故事《[克蘇魯的呼喚](../Page/克蘇魯的呼喚.md "wikilink")》（[The Call of Cthulhu](https://zh.wikipedia.org/wiki/The_Call_of_Cthulhu "wikilink")）中的[舊日支配者](https://zh.wikipedia.org/wiki/舊日支配者 "wikilink")（[Great Old Ones](https://zh.wikipedia.org/wiki/Great_Old_Ones "wikilink")）「[克蘇魯](../Page/克蘇魯.md "wikilink")」（[Cthulhu](https://zh.wikipedia.org/wiki/Cthulhu "wikilink")）。故事描述主角法蘭西斯·韋蘭·塞斯頓，追查一樣詭異藝術品祕密的過程。這個詭異生物的雕像是由一名藝術學院的學生創作，而該作者聲稱靈感是來自於夢中一個被稱作「[克蘇魯](../Page/克蘇魯.md "wikilink")」的未知恐怖怪物。[克蘇魯](../Page/克蘇魯.md "wikilink")有著章魚的面孔、人的身體，背上則是龍的翅膀，並且是一座古老城市[拉萊耶的統治者](https://zh.wikipedia.org/wiki/拉萊耶 "wikilink")，隨著城市沉眠在海底。隨著主角追查得越深入，自己也越深陷於恐怖與危險之中，最終不可自拔。
+        洛夫克拉夫特的作品風格深受哥德式恐怖故事影響，此與孩時祖父常會唸一些自編的恐怖故事給他聽有關。此外，洛夫克拉夫特的父母，前後都在晚年時因身心疾病的影響、住進醫療院所而逝世，也一定程度上型塑了他較為悲觀的人生觀。雖然在出社會後，洛夫克拉夫特持續在通俗恐怖小說雜誌《[Weird Tales](https://zh.wikipedia.org/wiki/Weird_Tales "wikilink")》上連載短篇作品，但收入不豐、婚姻也不順遂，其在生前一直沒沒無聞，而晚期的生活更是只能依靠遺產與親戚接濟。
         洛夫克拉夫特宣稱自己作品的中心主題是「[宇宙主義](https://zh.wikipedia.org/wiki/宇宙主義 "wikilink")」，其核心思想是直指人類只是宇宙中渺小、無力的存在，而在這廣漠的宇宙之中，還存在許多以人類有限的心智，所無法理解的未知存在；而如果人類試著要去接觸、理解這些存在，通常在作品中的下場都是步入瘋狂。雖然洛夫克拉夫特的作品在後世以「[克蘇魯神話](../Page/克蘇魯神話.md "wikilink")體系」著名，但其生前並未刻意建構此一體系，僅係依循著前述的[宇宙主義](https://zh.wikipedia.org/wiki/宇宙主義 "wikilink")，不斷創作出許多人與這些「古神」之間的鬆散關聯短篇故事而已。然而在其逝世後，有許多同好作家陸續根據此一核心，以致敬或引述作品，填補添加了架構，這才形成了著名的「[克蘇魯神話](../Page/克蘇魯神話.md "wikilink")」使[霍華德·菲利普斯·洛夫克拉夫特之名流芳後世](https://zh.wikipedia.org/wiki/霍華德·菲利普斯·洛夫克拉夫特 "wikilink")。
 
 <!-- end list -->
@@ -692,9 +635,7 @@
   -
 
       -
-        出自[納撒尼爾·霍桑](https://zh.wikipedia.org/wiki/納撒尼爾·霍桑 "wikilink")（納撒尼爾·，HNathaniel
-        Hawthorne）的代表作《[紅字](https://zh.wikipedia.org/wiki/紅字 "wikilink")》，該作描述清教徒女性海斯特·白蘭（Hester
-        Prynne）因為通姦罪而被懲罰在胸前佩戴紅色的A字，以及海斯特與牧師之間悲劇的戀情。
+        出自[納撒尼爾·霍桑](https://zh.wikipedia.org/wiki/納撒尼爾·霍桑 "wikilink")（納撒尼爾·，HNathaniel Hawthorne）的代表作《[紅字](https://zh.wikipedia.org/wiki/紅字 "wikilink")》，該作描述清教徒女性海斯特·白蘭（Hester Prynne）因為通姦罪而被懲罰在胸前佩戴紅色的A字，以及海斯特與牧師之間悲劇的戀情。
 
 <!-- end list -->
 
@@ -714,17 +655,13 @@
   -
 
       -
-        出自[瑪格麗特·米契爾](https://zh.wikipedia.org/wiki/瑪格麗特·米契爾 "wikilink")（瑪格麗特·M，Margaret
-        Mitchell）小說作品《飄》（Gone with the
-        Wind），該作又譯為《亂世佳人》。書末名句為「......無論如何，明天又是新的一天。」
+        出自[瑪格麗特·米契爾](https://zh.wikipedia.org/wiki/瑪格麗特·米契爾 "wikilink")（瑪格麗特·M，Margaret Mitchell）小說作品《飄》（Gone with the Wind），該作又譯為《亂世佳人》。書末名句為「......無論如何，明天又是新的一天。」
 
 <!-- end list -->
 
   -
-    「組合（Guild）」的工匠（Fellow
-    Craft）。擅長從利用自己的異能力遠處進行狙擊。爽朗明快元氣的的青年，充滿冒險心。但似乎被組合裡其他成員嫌棄。
-    對橫濱的全面侵攻計畫中，在火燒橫濱計畫中，稱呼中島敦為「tiger
-    boy」（白虎男孩），與其短暫交鋒後失利認輸。最後在白鯨墜落計畫結束後，打算回國寫自己的冒險自傳。
+    「組合（Guild）」的工匠（Fellow Craft）。擅長從利用自己的異能力遠處進行狙擊。爽朗明快元氣的的青年，充滿冒險心。但似乎被組合裡其他成員嫌棄。
+    對橫濱的全面侵攻計畫中，在火燒橫濱計畫中，稱呼中島敦為「tiger boy」（白虎男孩），與其短暫交鋒後失利認輸。最後在白鯨墜落計畫結束後，打算回國寫自己的冒險自傳。
 
 <!-- end list -->
 
@@ -738,16 +675,12 @@
   -
 
       -
-        出自[馬克·吐溫](https://zh.wikipedia.org/wiki/馬克·吐溫 "wikilink")（馬克·T，Mark
-        Twain）小說作品《[The Adventures of Tom
-        Sawyer](https://zh.wikipedia.org/wiki/湯姆歷險記 "wikilink")》（譯名：《湯姆歷險記》），描述頑童湯姆·索伊爾（Tom
-        Sawyer）與小夥伴哈克貝里·芬（Huckleberry Finn）的冒險故事。
+        出自[馬克·吐溫](https://zh.wikipedia.org/wiki/馬克·吐溫 "wikilink")（馬克·T，Mark Twain）小說作品《[The Adventures of Tom Sawyer](https://zh.wikipedia.org/wiki/湯姆歷險記 "wikilink")》（譯名：《湯姆歷險記》），描述頑童湯姆·索伊爾（Tom Sawyer）與小夥伴哈克貝里·芬（Huckleberry Finn）的冒險故事。
 
 <!-- end list -->
 
   -
-    「組合（Guild）」的工匠（Fellow
-    Craft），是上上代的「組合」之首領。蓄有濃密鬍鬚的沉穩老人。將鯨型的飛行異能要塞稱作「夥伴」。
+    「組合（Guild）」的工匠（Fellow Craft），是上上代的「組合」之首領。蓄有濃密鬍鬚的沉穩老人。將鯨型的飛行異能要塞稱作「夥伴」。
 
 <!-- end list -->
 
@@ -759,24 +692,19 @@
   -
 
       -
-        出自[赫爾曼·梅爾維爾](https://zh.wikipedia.org/wiki/赫爾曼·梅爾維爾 "wikilink")（赫爾曼·M，Herman
-        Melville）長篇小說作品《[Moby-Dick; or, The
-        Whale](../Page/白鯨記.md "wikilink")》（譯名：《白鯨記》），書中的白鯨指的是一頭名叫
-        Moby Dick 的白色抹香鯨。
+        出自[赫爾曼·梅爾維爾](https://zh.wikipedia.org/wiki/赫爾曼·梅爾維爾 "wikilink")（赫爾曼·M，Herman Melville）長篇小說作品《[Moby-Dick; or, The Whale](../Page/白鯨記.md "wikilink")》（譯名：《白鯨記》），書中的白鯨指的是一頭名叫 Moby Dick 的白色抹香鯨。
 
 <!-- end list -->
 
   -
-    「組合（Guild）」的設計者長（Master
-    Architect）。帶着一隻名叫的浣熊。擁有優秀的智力，卻在6年前與亂步的推理對決中落敗，一直等着能夠雪恥的機會。第一人稱是「吾輩」。
+    「組合（Guild）」的設計者長（Master Architect）。帶着一隻名叫的浣熊。擁有優秀的智力，卻在6年前與亂步的推理對決中落敗，一直等着能夠雪恥的機會。第一人稱是「吾輩」。
     給亂步發出邀請函進行推理遊戲，因為見到亂步後他忘記了自己而十分傷心。六年前和亂步進行了偵探比賽而落敗並一直耿耿於懷，認為是自己的恥辱。稱亂步的異能超推理為這個世上唯一值得人們驚嘆和刮目相看的能力。受亂步挑戰製作含有半數殺人魔的推理小說，其實是拿來對付黑手黨幹部中原中也所準備，在亂步也進入小說後，為亂步擔心希望他不要喪命，可見其對於對手（亂步）的重視。
 
 <!-- end list -->
 
   - 年齡：28歲／生日：1月19日／身高：182cm／體重：64kg／血型：AB型
   - 喜好：推理小說、浣熊／討厭：一群人一起說話、被邀請到宴會上，卻被唯一認識的人晾在一邊。
-  - 能力：〖莫爾格街的[黑貓](https://zh.wikipedia.org/wiki/黑貓 "wikilink")(Black cat
-    in the Rue Morgue)〗 ，將讀者拉進自己執筆小說裡的特殊能力。
+  - 能力：〖莫爾格街的[黑貓](https://zh.wikipedia.org/wiki/黑貓 "wikilink")(Black cat in the Rue Morgue)〗 ，將讀者拉進自己執筆小說裡的特殊能力。
   - 典故：
 
 <!-- end list -->
@@ -784,14 +712,7 @@
   -
 
       -
-        出自[愛德格·艾倫·坡](https://zh.wikipedia.org/wiki/愛倫·坡 "wikilink")（Edgar
-        Allan Poe）的短篇推理小說作品《[The Murders in the Rue
-        Morgue](../Page/莫爾格街兇殺案.md "wikilink")》（譯名：《莫爾格街兇殺案》）與《[The
-        Black
-        Cat](https://zh.wikipedia.org/wiki/黑貓_\(短篇小說\) "wikilink")》（譯名：《黑貓》）。[愛倫·坡可謂推理小說界的始祖](https://zh.wikipedia.org/wiki/愛倫·坡 "wikilink")，日本推理小說作家[平井太郎(ひらい
-        たろう)的筆名](../Page/江戶川亂步.md "wikilink")「江戸川 亂歩」（Edogawa
-        Ranpo）就是從[愛德格·愛倫·坡](https://zh.wikipedia.org/wiki/愛倫·坡 "wikilink")（Edgar
-        Allan Poe）的名字而來。
+        出自[愛德格·艾倫·坡](https://zh.wikipedia.org/wiki/愛倫·坡 "wikilink")（Edgar Allan Poe）的短篇推理小說作品《[The Murders in the Rue Morgue](../Page/莫爾格街兇殺案.md "wikilink")》（譯名：《莫爾格街兇殺案》）與《[The Black Cat](https://zh.wikipedia.org/wiki/黑貓_\(短篇小說\) "wikilink")》（譯名：《黑貓》）。[愛倫·坡可謂推理小說界的始祖](https://zh.wikipedia.org/wiki/愛倫·坡 "wikilink")，日本推理小說作家[平井太郎(ひらい たろう)的筆名](../Page/江戶川亂步.md "wikilink")「江戸川 亂歩」（Edogawa Ranpo）就是從[愛德格·愛倫·坡](https://zh.wikipedia.org/wiki/愛倫·坡 "wikilink")（Edgar Allan Poe）的名字而來。
 
 <!-- end list -->
 
@@ -801,8 +722,7 @@
 
 <!-- end list -->
 
-  - 能力：〖[小婦人](../Page/小婦人.md "wikilink")〗
-    ，令固有時間以八千分之一的速度流失，但只限於獨自一人在房中的情況。
+  - 能力：〖[小婦人](../Page/小婦人.md "wikilink")〗 ，令固有時間以八千分之一的速度流失，但只限於獨自一人在房中的情況。
   - 典故：
 
 <!-- end list -->
@@ -810,9 +730,7 @@
   -
 
       -
-        出自[露意莎·梅·奧爾柯特](../Page/露意莎·梅·奧爾柯特.md "wikilink")（露意莎·A，Louisa
-        May Alcott）作品《[Little
-        Women](../Page/小婦人.md "wikilink")》（譯名：《小婦人》）
+        出自[露意莎·梅·奧爾柯特](../Page/露意莎·梅·奧爾柯特.md "wikilink")（露意莎·A，Louisa May Alcott）作品《[Little Women](../Page/小婦人.md "wikilink")》（譯名：《小婦人》）
 
 <!-- end list -->
 
@@ -872,9 +790,7 @@
   -
 
       -
-        出自[杜斯妥也夫斯基長篇小說作品](https://zh.wikipedia.org/wiki/杜斯妥也夫斯基 "wikilink")《[Преступлéние
-        и
-        наказáние](https://zh.wikipedia.org/wiki/罪與罰 "wikilink")》（譯名：《罪與罰》）是俄國最具影響力的作品之一。
+        出自[杜斯妥也夫斯基長篇小說作品](https://zh.wikipedia.org/wiki/杜斯妥也夫斯基 "wikilink")《[Преступлéние и наказáние](https://zh.wikipedia.org/wiki/罪與罰 "wikilink")》（譯名：《罪與罰》）是俄國最具影響力的作品之一。
 
 <!-- end list -->
 
@@ -933,9 +849,7 @@
   -
 
       -
-        出自[阿加莎·克里斯蒂](../Page/阿加莎·克里斯蒂.md "wikilink")著名作品《[And Then There
-        Were
-        None](../Page/一個都不留.md "wikilink")》（譯名：《一個都不留》）描述十個素不相識的人在暴風雨中的孤島上連續被謀殺。本作被譽為歷史上成就最高的推理小說之一。
+        出自[阿加莎·克里斯蒂](../Page/阿加莎·克里斯蒂.md "wikilink")著名作品《[And Then There Were None](../Page/一個都不留.md "wikilink")》（譯名：《一個都不留》）描述十個素不相識的人在暴風雨中的孤島上連續被謀殺。本作被譽為歷史上成就最高的推理小說之一。
 
 ### 獵犬
 
@@ -947,8 +861,7 @@
 <!-- end list -->
 
   - 能力：〖(名稱不明)〗，與他的兄長相同，為操縱金屬的能力，但比起他立原的力量較大，可以拉起一整艘小船，甚至能操縱金屬人偶攻擊。
-  - 典故：出自同名日本詩人(たちはら
-    みちぞう)，在年輕時期便早早地就顯露才華，在詩人的身份之外，同時也是畢業於東京大學建築系的高材生。寫作短歌、四行詩，在文學上師從[堀辰雄](../Page/堀辰雄.md "wikilink")([堀辰雄](../Page/堀辰雄.md "wikilink")則師事於[芥川龍之介](../Page/芥川龙之介.md "wikilink"))，後來喜以口語、自由的格式作散文詩，是日本新詩的先河之一，著有《萱草に寄す》《曉と夕の詩》等作，曾獲得第一屆的「[中原中也](../Page/中原中也.md "wikilink")文學獎」，但是卻於僅僅二十四歲的青年歲數，便因肺結核撒手人寰，徒留各方慨嘆。其師[堀辰雄](../Page/堀辰雄.md "wikilink")後來更在小說《菜穂子》中，以立原道造為雛型，寫作人物來緬懷他。
+  - 典故：出自同名日本詩人(たちはら みちぞう)，在年輕時期便早早地就顯露才華，在詩人的身份之外，同時也是畢業於東京大學建築系的高材生。寫作短歌、四行詩，在文學上師從[堀辰雄](../Page/堀辰雄.md "wikilink")([堀辰雄](../Page/堀辰雄.md "wikilink")則師事於[芥川龍之介](../Page/芥川龙之介.md "wikilink"))，後來喜以口語、自由的格式作散文詩，是日本新詩的先河之一，著有《萱草に寄す》《曉と夕の詩》等作，曾獲得第一屆的「[中原中也](../Page/中原中也.md "wikilink")文學獎」，但是卻於僅僅二十四歲的青年歲數，便因肺結核撒手人寰，徒留各方慨嘆。其師[堀辰雄](../Page/堀辰雄.md "wikilink")後來更在小說《菜穂子》中，以立原道造為雛型，寫作人物來緬懷他。
 
 <!-- end list -->
 
@@ -1513,8 +1426,7 @@ ISBN 978-4-041-07310-0<small>（限定版）</small></p></td>
   -
 
       -
-        作詞：，作曲、編曲：[太田雅友](../Page/太田雅友.md "wikilink")，主唱：[SCREEN
-        mode](../Page/SCREEN_mode.md "wikilink")
+        作詞：，作曲、編曲：[太田雅友](../Page/太田雅友.md "wikilink")，主唱：[SCREEN mode](../Page/SCREEN_mode.md "wikilink")
         第13話作為片尾曲使用。
 
 :; 「」（第26-話）
@@ -1979,8 +1891,7 @@ ISBN 978-4-041-07310-0<small>（限定版）</small></p></td>
 
 ## 電影版
 
-於2017年6月19日宣布決定製作電影版《文豪野犬 DEAD
-APPLE》，於2018年3月3日在日本上映，台灣於2018年5月4日上映，由曼迪代理。
+於2017年6月19日宣布決定製作電影版《文豪野犬 DEAD APPLE》，於2018年3月3日在日本上映，台灣於2018年5月4日上映，由曼迪代理。
 
   - 製作人員
 
@@ -2016,9 +1927,7 @@ APPLE》，於2018年3月3日在日本上映，台灣於2018年5月4日上映，
 <!-- end list -->
 
   -
-    作詞：[谷山紀章](../Page/谷山紀章.md "wikilink")
-    作曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink") 歌 -
-    [GRANRODEO](../Page/GRANRODEO.md "wikilink")
+    作詞：[谷山紀章](../Page/谷山紀章.md "wikilink") 作曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink") 歌 - [GRANRODEO](../Page/GRANRODEO.md "wikilink")
 
 <!-- end list -->
 
@@ -2036,9 +1945,7 @@ APPLE》，於2018年3月3日在日本上映，台灣於2018年5月4日上映，
 <!-- end list -->
 
   -
-    作詞：[松井洋平](https://zh.wikipedia.org/wiki/松井洋平 "wikilink")
-    作曲：[太田雅友](../Page/太田雅友.md "wikilink") 歌 - [SCREEN
-    mode](../Page/SCREEN_mode.md "wikilink")
+    作詞：[松井洋平](https://zh.wikipedia.org/wiki/松井洋平 "wikilink") 作曲：[太田雅友](../Page/太田雅友.md "wikilink") 歌 - [SCREEN mode](../Page/SCREEN_mode.md "wikilink")
 
 ## 舞台劇
 
@@ -2075,8 +1982,7 @@ APPLE》，於2018年3月3日在日本上映，台灣於2018年5月4日上映，
 
 ## 參考資料
 
-  - [ピース又吉推薦。「こっちの太宰も悪くない。」
-    『文豪ストレイドッグス』最新巻ポスター解禁！！](http://prtimes.jp/main/html/rd/p/000000847.000007006.html)
+  - [ピース又吉推薦。「こっちの太宰も悪くない。」 『文豪ストレイドッグス』最新巻ポスター解禁！！](http://prtimes.jp/main/html/rd/p/000000847.000007006.html)
   - [鈍器のような文庫本が武器？　京極夏彦氏が文豪キャラ化、「文豪ストレイドッグス」3巻発売記念で](http://nlab.itmedia.co.jp/nl/articles/1312/04/news126.html)
   - [文豪SD企画で「ダ・ヴィンチ・コード」作者が異能力者に](http://natalie.mu/comic/news/106252)
   - 文豪立倫
@@ -2088,18 +1994,7 @@ APPLE》，於2018年3月3日在日本上映，台灣於2018年5月4日上映，
   -
   - [電視動畫「文豪Stray Dogs」官方網頁](http://bungo-stray-dogs.jp/)
 
-[Category:Young_Ace](https://zh.wikipedia.org/wiki/Category:Young_Ace "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:超能力題材作品](https://zh.wikipedia.org/wiki/Category:超能力題材作品 "wikilink")
-[Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink")
-[Category:超能力題材小說](https://zh.wikipedia.org/wiki/Category:超能力題材小說 "wikilink")
-[Category:超能力題材動畫](https://zh.wikipedia.org/wiki/Category:超能力題材動畫 "wikilink")
-[Category:2016年UHF動畫](https://zh.wikipedia.org/wiki/Category:2016年UHF動畫 "wikilink")
-[Category:2018年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2018年日本劇場動畫 "wikilink")
-[Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink")
-[Category:2019年UHF動畫](https://zh.wikipedia.org/wiki/Category:2019年UHF動畫 "wikilink")
-[Category:黑幫題材作品](https://zh.wikipedia.org/wiki/Category:黑幫題材作品 "wikilink")
+[Category:Young_Ace](https://zh.wikipedia.org/wiki/Category:Young_Ace "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:超能力題材作品](https://zh.wikipedia.org/wiki/Category:超能力題材作品 "wikilink") [Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink") [Category:超能力題材小說](https://zh.wikipedia.org/wiki/Category:超能力題材小說 "wikilink") [Category:超能力題材動畫](https://zh.wikipedia.org/wiki/Category:超能力題材動畫 "wikilink") [Category:2016年UHF動畫](https://zh.wikipedia.org/wiki/Category:2016年UHF動畫 "wikilink") [Category:2018年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2018年日本劇場動畫 "wikilink") [Category:2019年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2019年日本電視動畫 "wikilink") [Category:2019年UHF動畫](https://zh.wikipedia.org/wiki/Category:2019年UHF動畫 "wikilink") [Category:黑幫題材作品](https://zh.wikipedia.org/wiki/Category:黑幫題材作品 "wikilink")
 
 1.
 2.

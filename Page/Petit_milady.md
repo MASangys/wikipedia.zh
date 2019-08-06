@@ -2,14 +2,11 @@
 
 ## 簡介
 
-petit
-milady最早只在[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")街头屏幕上展示了只有背影的神秘广告“無法想像的新声优组合”\[2\]，之后在2013年3月21日公开全貌，並於同年5月15日发售团体第一张双主打单曲「」\[3\]。
+petit milady最早只在[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")街头屏幕上展示了只有背影的神秘广告“無法想像的新声优组合”\[2\]，之后在2013年3月21日公开全貌，並於同年5月15日发售团体第一张双主打单曲「」\[3\]。
 
-组合名称petit
-milady直译为“娇小的淑女”，这是竹达为了将娇小的二人“可爱之处表现出来”而提出的，和悠木提出的一词结合形成的。另外在组合名称决定的时候就已经决定公布了\[4\]。
+组合名称petit milady直译为“娇小的淑女”，这是竹达为了将娇小的二人“可爱之处表现出来”而提出的，和悠木提出的一词结合形成的。另外在组合名称决定的时候就已经决定公布了\[4\]。
 
-2013年参加了[Animelo Summer Live 2013 -FLAG
-NINE-的演出](https://zh.wikipedia.org/wiki/Animelo_Summer_Live#2013年 "wikilink")，此後亦有參加2014年和2016年的演出。
+2013年参加了[Animelo Summer Live 2013 -FLAG NINE-的演出](https://zh.wikipedia.org/wiki/Animelo_Summer_Live#2013年 "wikilink")，此後亦有參加2014年和2016年的演出。
 
 2013年8月19日宣布与GA文库合作。
 
@@ -355,8 +352,7 @@ UMCA-59015（B）</p></td>
 
 <!-- end list -->
 
-  - petit milady 出道2週年記念預熱特別節目 「」presented by animelo
-    mix（NicoNico生放送，2015年3月31日）
+  - petit milady 出道2週年記念預熱特別節目 「」presented by animelo mix（NicoNico生放送，2015年3月31日）
 
 <!-- end list -->
 
@@ -367,8 +363,7 @@ UMCA-59015（B）</p></td>
 
 <!-- end list -->
 
-  - petit milady 2nd LIVE、Visual Commentary公開收錄生放送＆1st Live
-    Blu-ray視聽會\!（NicoNico生放送，2016年2月20日）頻道會員
+  - petit milady 2nd LIVE、Visual Commentary公開收錄生放送＆1st Live Blu-ray視聽會\!（NicoNico生放送，2016年2月20日）頻道會員
   - petit milady「」發售記念Nico生（NicoNico生放送，2016年4月19日）
 
 ## LIVE、活動
@@ -446,13 +441,10 @@ UMCA-59015（B）</p></td>
 
   - [petit milady OFFICIAL WEB SITE](http://petitmilady.com/)
 
-  - [petit milady - UNIVERSAL MUSIC
-    JAPAN](http://www.universal-music.co.jp/petit-milady/)
+  - [petit milady - UNIVERSAL MUSIC JAPAN](http://www.universal-music.co.jp/petit-milady/)
 
   -
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:动画歌手](https://zh.wikipedia.org/wiki/Category:动画歌手 "wikilink")
-[Category:日本配音员团体](https://zh.wikipedia.org/wiki/Category:日本配音员团体 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:动画歌手](https://zh.wikipedia.org/wiki/Category:动画歌手 "wikilink") [Category:日本配音员团体](https://zh.wikipedia.org/wiki/Category:日本配音员团体 "wikilink")
 
 1.
 

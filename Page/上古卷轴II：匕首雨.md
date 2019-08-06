@@ -8,11 +8,6 @@
 
   - [官方网站](http://www.elderscrolls.com)
 
-[Category:上古卷轴系列](https://zh.wikipedia.org/wiki/Category:上古卷轴系列 "wikilink")
-[Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink")
-[Category:DOS游戏](https://zh.wikipedia.org/wiki/Category:DOS游戏 "wikilink")
-[Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink")
-[Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink")
-[Category:可選主角性別遊戲](https://zh.wikipedia.org/wiki/Category:可選主角性別遊戲 "wikilink")
+[Category:上古卷轴系列](https://zh.wikipedia.org/wiki/Category:上古卷轴系列 "wikilink") [Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink") [Category:DOS游戏](https://zh.wikipedia.org/wiki/Category:DOS游戏 "wikilink") [Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink") [Category:可選主角性別遊戲](https://zh.wikipedia.org/wiki/Category:可選主角性別遊戲 "wikilink")
 
 1.

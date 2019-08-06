@@ -1,7 +1,6 @@
 \-{H|zh-hans:文件;zh-hant:檔案;}-
 
-**MINIX檔案系統**（），一種[檔案系統](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")，是[MINIX](../Page/MINIX.md "wikilink")[作業系統中的原生檔案系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，由[安德鲁·斯图尔特·塔能鲍姆](../Page/安德鲁·斯图尔特·塔能鲍姆.md "wikilink")於1980年代創作，於1987年伴隨著Minix
-1.0版一同釋出。它源自於[Unix文件系统](../Page/Unix文件系统.md "wikilink")的基本結構，為了使原始碼簡潔，以方便教學，許多複雜的功能都沒有在這個檔案系統中實作，但這也使得它的效能與功能受限。[林纳斯·托瓦兹](../Page/林纳斯·托瓦兹.md "wikilink")在1991年創作[Linux核心時](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")，最初採用了Minix檔案系統，直到1992年4月，才以[延伸檔案系統來取代它](https://zh.wikipedia.org/wiki/延伸檔案系統 "wikilink")。\[1\]
+**MINIX檔案系統**（），一種[檔案系統](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")，是[MINIX](../Page/MINIX.md "wikilink")[作業系統中的原生檔案系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，由[安德鲁·斯图尔特·塔能鲍姆](../Page/安德鲁·斯图尔特·塔能鲍姆.md "wikilink")於1980年代創作，於1987年伴隨著Minix 1.0版一同釋出。它源自於[Unix文件系统](../Page/Unix文件系统.md "wikilink")的基本結構，為了使原始碼簡潔，以方便教學，許多複雜的功能都沒有在這個檔案系統中實作，但這也使得它的效能與功能受限。[林纳斯·托瓦兹](../Page/林纳斯·托瓦兹.md "wikilink")在1991年創作[Linux核心時](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")，最初採用了Minix檔案系統，直到1992年4月，才以[延伸檔案系統來取代它](https://zh.wikipedia.org/wiki/延伸檔案系統 "wikilink")。\[1\]
 
 ## 设计与实现
 
@@ -16,9 +15,7 @@
 
 ## 参考资料
 
-[Category:文件系统](https://zh.wikipedia.org/wiki/Category:文件系统 "wikilink")
-[Category:磁盘文件系统](https://zh.wikipedia.org/wiki/Category:磁盘文件系统 "wikilink")
-[Category:Linux檔案系統](https://zh.wikipedia.org/wiki/Category:Linux檔案系統 "wikilink")
+[Category:文件系统](https://zh.wikipedia.org/wiki/Category:文件系统 "wikilink") [Category:磁盘文件系统](https://zh.wikipedia.org/wiki/Category:磁盘文件系统 "wikilink") [Category:Linux檔案系統](https://zh.wikipedia.org/wiki/Category:Linux檔案系統 "wikilink")
 
 1.
 

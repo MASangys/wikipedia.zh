@@ -1,5 +1,4 @@
-《**Reset**》（）為[韓國OCN自](https://zh.wikipedia.org/wiki/韓國 "wikilink")2014年8月24日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original
-Series），講述距公訴時效僅剩10天之際，想埋藏秘密和想揭發真相的人展開殊死搏鬥的故事。\[1\]
+《**Reset**》（）為[韓國OCN自](https://zh.wikipedia.org/wiki/韓國 "wikilink")2014年8月24日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original Series），講述距公訴時效僅剩10天之際，想埋藏秘密和想揭發真相的人展開殊死搏鬥的故事。\[1\]
 
 ## 演員陣容
 
@@ -113,13 +112,7 @@ Series），講述距公訴時效僅剩10天之際，想埋藏秘密和想揭發
 
   - [韓國OCN官方網站](http://program.interest.me/ocn/reset)
 
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink")
-[Category:2014年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年韓國電視劇集 "wikilink")
-[Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink") [Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink") [Category:2014年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年韓國電視劇集 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
-1.  [千正明搭檔金所炫出演新劇](http://cn.chosun.com/big5/site/data/html_dir/2014/05/30/20140530000019.html)
-    朝鮮日報中文網
-2.  [케이블
-    시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
+1.  [千正明搭檔金所炫出演新劇](http://cn.chosun.com/big5/site/data/html_dir/2014/05/30/20140530000019.html) 朝鮮日報中文網
+2.  [케이블 시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)

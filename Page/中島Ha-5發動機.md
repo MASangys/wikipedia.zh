@@ -1,6 +1,4 @@
-**中島Ha-5發動機**（）乃[日本](../Page/日本.md "wikilink")[中島飛機](../Page/中島飛機.md "wikilink")公司研發製造的氣冷式[星型飛機用](../Page/星型引擎.md "wikilink")[活塞發動機](../Page/往复式发动机.md "wikilink")，內部代號為「NAL」，採複列14汽缸、底置[凸輪軸](https://zh.wikipedia.org/wiki/凸輪軸 "wikilink")（over
-head
-valve，縮寫成OHV）、離心式[機械增壓的配置](https://zh.wikipedia.org/wiki/機械增壓器 "wikilink")；主要擔任設計的工程師是石田義郎、吉川晉作等二人。[大日本帝國陸軍](../Page/大日本帝國陸軍.md "wikilink")命名成**Ha-5**（），衍生的性能提升版本稱為**Ha-41**、**Ha-109**。
+**中島Ha-5發動機**（）乃[日本](../Page/日本.md "wikilink")[中島飛機](../Page/中島飛機.md "wikilink")公司研發製造的氣冷式[星型飛機用](../Page/星型引擎.md "wikilink")[活塞發動機](../Page/往复式发动机.md "wikilink")，內部代號為「NAL」，採複列14汽缸、底置[凸輪軸](https://zh.wikipedia.org/wiki/凸輪軸 "wikilink")（over head valve，縮寫成OHV）、離心式[機械增壓的配置](https://zh.wikipedia.org/wiki/機械增壓器 "wikilink")；主要擔任設計的工程師是石田義郎、吉川晉作等二人。[大日本帝國陸軍](../Page/大日本帝國陸軍.md "wikilink")命名成**Ha-5**（），衍生的性能提升版本稱為**Ha-41**、**Ha-109**。
 
 此系列發動機的構思出發點乃是將單列9汽缸的[中島壽發動機](../Page/中島壽發動機.md "wikilink")（Ha-1）加以擴大成複列14汽缸，故[汽缸](https://zh.wikipedia.org/wiki/汽缸 "wikilink")[直徑](https://zh.wikipedia.org/wiki/直徑 "wikilink")、行程皆與後者相同。開發初期被[陸軍作為](../Page/大日本帝國陸軍.md "wikilink")[轟炸機](https://zh.wikipedia.org/wiki/轟炸機 "wikilink")，性能加強版的Ha-41、Ha-109則使用於[二式單座戰鬥機](../Page/二式單座戰鬥機.md "wikilink")（又稱Ki-44鍾馗）。此外，[大日本帝國海軍](../Page/大日本帝國海軍.md "wikilink")並未裝備此系列發動機，因此沒有海軍慣用的[漢字通稱](https://zh.wikipedia.org/wiki/漢字 "wikilink")。
 
@@ -169,9 +167,6 @@ NAL引起[陸軍的注意](../Page/大日本帝國陸軍.md "wikilink")，並賦
 
   - [中島の発動機について](http://www.ne.jp/asahi/airplane/museum/nakajima/sakae.html)
 
-[Category:中島飛機發動機與技術](https://zh.wikipedia.org/wiki/Category:中島飛機發動機與技術 "wikilink")
-[Category:航空器活塞發動機](https://zh.wikipedia.org/wiki/Category:航空器活塞發動機 "wikilink")
-[Category:星型引擎](https://zh.wikipedia.org/wiki/Category:星型引擎 "wikilink")
+[Category:中島飛機發動機與技術](https://zh.wikipedia.org/wiki/Category:中島飛機發動機與技術 "wikilink") [Category:航空器活塞發動機](https://zh.wikipedia.org/wiki/Category:航空器活塞發動機 "wikilink") [Category:星型引擎](https://zh.wikipedia.org/wiki/Category:星型引擎 "wikilink")
 
-1.  參見[《戦時期中島飛行機の航空エンジン事業 -
-    三菱重工業との比較において》](http://www.rikkyo.ac.jp/eco/research/pdf/p107-140_67-1_sato_tatsuo.pdf)，佐藤達男著，立教経済学研究第67卷第1号，2013年，頁118。
+1.  參見[《戦時期中島飛行機の航空エンジン事業 - 三菱重工業との比較において》](http://www.rikkyo.ac.jp/eco/research/pdf/p107-140_67-1_sato_tatsuo.pdf)，佐藤達男著，立教経済学研究第67卷第1号，2013年，頁118。

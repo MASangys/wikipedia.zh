@@ -1,5 +1,4 @@
-「**Jumping**」（）是[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")2張日语單曲。2010年11月10日由[UNIVERSAL
-SIGMA發售](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。
+「**Jumping**」（）是[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")2張日语單曲。2010年11月10日由[UNIVERSAL SIGMA發售](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。
 
 ## 仕様
 
@@ -38,6 +37,4 @@ SIGMA發售](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。
 
 ### 出典
 
-[Category:KARA歌曲](https://zh.wikipedia.org/wiki/Category:KARA歌曲 "wikilink")
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:RIAJ手機全曲下載百萬認證歌曲](https://zh.wikipedia.org/wiki/Category:RIAJ手機全曲下載百萬認證歌曲 "wikilink")
+[Category:KARA歌曲](https://zh.wikipedia.org/wiki/Category:KARA歌曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:RIAJ手機全曲下載百萬認證歌曲](https://zh.wikipedia.org/wiki/Category:RIAJ手機全曲下載百萬認證歌曲 "wikilink")

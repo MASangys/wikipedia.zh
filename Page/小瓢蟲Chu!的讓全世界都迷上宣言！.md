@@ -8,8 +8,7 @@ AKB48集團的衍生團體「小瓢蟲Chu\!」，是一個集合了[AKB48](../Pa
 
 ## 小瓢蟲Chu\!與小蜜蜂Chu\!
 
-自4月28日播放的第三集節目起，增加了一個名為「昆蟲物語
-小瓢蟲Chu\!與小蜜蜂Chu\!」（）、片長2至3分鐘的[動畫小單元](https://zh.wikipedia.org/wiki/動畫 "wikilink")，此單元實際上是1970年時開播、由[龍之子製作](https://zh.wikipedia.org/wiki/龍之子製作 "wikilink")（）所推出的經典作品《》（）的跨界合作衍生搞笑作品。在故事中當年還是小孩子、為了尋母而四處冒險的主角小[蜜蜂](../Page/蜜蜂.md "wikilink")哈奇（Hutch）在事隔多年之後已經變成一隻年紀44歲但還是找不到媽媽的中年蜜蜂大叔，有天因看到AKB48的傳單，而想效法[秋元康](../Page/秋元康.md "wikilink")當起製作人，以將小瓢蟲Chu\!的成員們變成昆蟲世界的頂尖偶像作為職志而努力著。
+自4月28日播放的第三集節目起，增加了一個名為「昆蟲物語 小瓢蟲Chu\!與小蜜蜂Chu\!」（）、片長2至3分鐘的[動畫小單元](https://zh.wikipedia.org/wiki/動畫 "wikilink")，此單元實際上是1970年時開播、由[龍之子製作](https://zh.wikipedia.org/wiki/龍之子製作 "wikilink")（）所推出的經典作品《》（）的跨界合作衍生搞笑作品。在故事中當年還是小孩子、為了尋母而四處冒險的主角小[蜜蜂](../Page/蜜蜂.md "wikilink")哈奇（Hutch）在事隔多年之後已經變成一隻年紀44歲但還是找不到媽媽的中年蜜蜂大叔，有天因看到AKB48的傳單，而想效法[秋元康](../Page/秋元康.md "wikilink")當起製作人，以將小瓢蟲Chu\!的成員們變成昆蟲世界的頂尖偶像作為職志而努力著。
 
 在動畫作品中小瓢蟲Chu\!成員們化身成卡通偶像MakoChu（，小嶋真子）、MikiChu（，西野未姬）、NanaChu（，岡田奈奈）、UhaChu（，北川綾巴）、NagiChu（，澀谷凪咲）、MeruChu（，田島芽瑠）與MioChu（，朝長美櫻），並由成員本人們進行配音，這也是幾位新手們的首次[聲優](../Page/聲優.md "wikilink")（配音員）挑戰。
 
@@ -52,13 +51,11 @@ AKB48集團的衍生團體「小瓢蟲Chu\!」，是一個集合了[AKB48](../Pa
 
       - 桑原勇蔵（第10集）：小瓢蟲Chu\!成員們進行拜訪的龍之子製作公司之社長。
 
-      - （第10集）：動畫製作人與「昆蟲物語
-        小瓢蟲Chu\!與小蜜蜂Chu\!」的[音響導演](https://zh.wikipedia.org/wiki/音響導演 "wikilink")，在企畫中指導小瓢蟲Chu\!成員們配音相關的技巧。
+      - （第10集）：動畫製作人與「昆蟲物語 小瓢蟲Chu\!與小蜜蜂Chu\!」的[音響導演](https://zh.wikipedia.org/wiki/音響導演 "wikilink")，在企畫中指導小瓢蟲Chu\!成員們配音相關的技巧。
 
 ## 節目內容
 
-《小瓢蟲Chu\!的讓全世界都迷上宣言！》的節目流程大致可以分為兩個部分，一為當集節目的主企畫，一為穿插在節目中後段的短篇動畫「昆蟲物語
-小瓢蟲Chu\!與小蜜蜂Chu\!」。為了呼應節目名稱中的「全世界」這標題概念，有許多企畫都是以世界上不同的國家命名，或作為企畫發想。除此之外，雖然小瓢蟲Chu\!是一個七人團體，但因為每位成員個別分屬48集團內不同姊妹團體的不同分隊，各自有各自的活動行程，因此並不是每次錄影時都能全員一同參與。
+《小瓢蟲Chu\!的讓全世界都迷上宣言！》的節目流程大致可以分為兩個部分，一為當集節目的主企畫，一為穿插在節目中後段的短篇動畫「昆蟲物語 小瓢蟲Chu\!與小蜜蜂Chu\!」。為了呼應節目名稱中的「全世界」這標題概念，有許多企畫都是以世界上不同的國家命名，或作為企畫發想。除此之外，雖然小瓢蟲Chu\!是一個七人團體，但因為每位成員個別分屬48集團內不同姊妹團體的不同分隊，各自有各自的活動行程，因此並不是每次錄影時都能全員一同參與。
 
 | 2014年 |
 | ----- |
@@ -84,7 +81,4 @@ AKB48集團的衍生團體「小瓢蟲Chu\!」，是一個集合了[AKB48](../Pa
 
   - [官方網頁](http://www.ntv.co.jp/muchu/)（日本電視台）
 
-[Category:日本電視台深夜節目](https://zh.wikipedia.org/wiki/Category:日本電視台深夜節目 "wikilink")
-[Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink")
-[Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink")
-[Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
+[Category:日本電視台深夜節目](https://zh.wikipedia.org/wiki/Category:日本電視台深夜節目 "wikilink") [Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink") [Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink") [Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")

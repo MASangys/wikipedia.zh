@@ -1,13 +1,10 @@
-《The Soul Extreme
-EP》為[日本](../Page/日本.md "wikilink")歌手[福原美穗](../Page/福原美穗.md "wikilink")於2011年5月11日發行之2nd[EP](https://zh.wikipedia.org/wiki/EP "wikilink")。
+《The Soul Extreme EP》為[日本](../Page/日本.md "wikilink")歌手[福原美穗](../Page/福原美穗.md "wikilink")於2011年5月11日發行之2nd[EP](https://zh.wikipedia.org/wiki/EP "wikilink")。
 
 ## 解說
 
-  - 本作標題以《The Soul Extreme
-    EP》為名，發揮[福原美穗](../Page/福原美穗.md "wikilink")自己最擅長的「[靈魂樂](../Page/靈魂樂.md "wikilink")」來詮釋，回到最初歌唱的原點。\[1\]
+  - 本作標題以《The Soul Extreme EP》為名，發揮[福原美穗](../Page/福原美穗.md "wikilink")自己最擅長的「[靈魂樂](../Page/靈魂樂.md "wikilink")」來詮釋，回到最初歌唱的原點。\[1\]
   - 初回限定版收錄於2010年12月參加的「Live in Music vol.1」LIVE CD。
-  - 〈O2 featuring
-    AI〉一曲，實現了福原想與[AI合作的想法](https://zh.wikipedia.org/wiki/AI "wikilink")。
+  - 〈O2 featuring AI〉一曲，實現了福原想與[AI合作的想法](https://zh.wikipedia.org/wiki/AI "wikilink")。
 
 ## 發行版本
 
@@ -37,8 +34,7 @@ EP》為[日本](../Page/日本.md "wikilink")歌手[福原美穗](../Page/福�
         作詞：福原美穂/Mavie　作曲：A Watkins/P Wilson/T Ackerman
 4.  '''Virtual Insanity '''
       -
-        作詞：Jason Kay/Wallis Buchanan/Simon Katz/Derric　作曲：Jason
-        Kay/Wallis Buchanan/Simon Katz/Derric
+        作詞：Jason Kay/Wallis Buchanan/Simon Katz/Derric　作曲：Jason Kay/Wallis Buchanan/Simon Katz/Derric
     <!-- end list -->
       - 翻唱自Jamiroquai cover
 5.  **LATELY**
@@ -64,7 +60,6 @@ EP》為[日本](../Page/日本.md "wikilink")歌手[福原美穗](../Page/福�
 
 ## 外部連結
 
-[Category:福原美穗音樂專輯](https://zh.wikipedia.org/wiki/Category:福原美穗音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
+[Category:福原美穗音樂專輯](https://zh.wikipedia.org/wiki/Category:福原美穗音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
 
 1.

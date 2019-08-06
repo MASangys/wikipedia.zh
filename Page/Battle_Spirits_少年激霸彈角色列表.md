@@ -1,5 +1,4 @@
-**Battle Spirits 少年激霸彈 角色列表**是《[Battle Spirits
-少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")》的角色介紹。
+**Battle Spirits 少年激霸彈 角色列表**是《[Battle Spirits 少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")》的角色介紹。
 
 ## 主要人物
 
@@ -204,8 +203,7 @@
 
 ## 其他角色
 
-喬治．多爾文（ジョージ・トールマン，聲：日本：[中博史](../Page/中博史.md "wikilink")／香港：[招世亮](../Page/招世亮.md "wikilink"))
-[美國總統](https://zh.wikipedia.org/wiki/美國 "wikilink")，於第41話登場。被各國元首推舉為人類世界的代表，與[美國海軍](../Page/美國海軍.md "wikilink")的航母戰鬥群於太平洋會晤里昂，其後被傳送到異界王的宮殿與其會晤，更被異界王所騙，以為core光主是威脅世界和平的敵人，。其後在坐艦上和丹進行對戰，並對丹指出「即使他明白受騙也必須服從異界王」，被丹批評為忘記了自我及保衛國民的職責，後被丹撃敗。事後醒覺自己的錯誤並重新找回理想：即保護自己的祖國和國民；自此對core光主們改觀丶轉而支持丹和一眾core光主。曾被里昂指出長相和祖先相似，暗示其祖先可能是里昂的友人。
+喬治．多爾文（ジョージ・トールマン，聲：日本：[中博史](../Page/中博史.md "wikilink")／香港：[招世亮](../Page/招世亮.md "wikilink")) [美國總統](https://zh.wikipedia.org/wiki/美國 "wikilink")，於第41話登場。被各國元首推舉為人類世界的代表，與[美國海軍](../Page/美國海軍.md "wikilink")的航母戰鬥群於太平洋會晤里昂，其後被傳送到異界王的宮殿與其會晤，更被異界王所騙，以為core光主是威脅世界和平的敵人，。其後在坐艦上和丹進行對戰，並對丹指出「即使他明白受騙也必須服從異界王」，被丹批評為忘記了自我及保衛國民的職責，後被丹撃敗。事後醒覺自己的錯誤並重新找回理想：即保護自己的祖國和國民；自此對core光主們改觀丶轉而支持丹和一眾core光主。曾被里昂指出長相和祖先相似，暗示其祖先可能是里昂的友人。
 
 ## 參註
 
@@ -215,16 +213,11 @@
 
 ## 參考網址
 
-  - [Battle Spirits
-    少年激霸彈](http://www.sunrise-inc.co.jp/battlespirits2/character/index.html)（日昇動畫）
+  - [Battle Spirits 少年激霸彈](http://www.sunrise-inc.co.jp/battlespirits2/character/index.html)（日昇動畫）
 
-  - [Battle Spirits
-    少年激霸彈](http://www.nagoyatv.com/battlespirits_dan/chara/index.html)（名古屋電視台）
+  - [Battle Spirits 少年激霸彈](http://www.nagoyatv.com/battlespirits_dan/chara/index.html)（名古屋電視台）
 
-[Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink")
-[Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
+[Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink") [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
 
-1.  「維奧娜·魔魅」是博客上用的名稱，本名為紫乃宮魔魅，在本作中並未公開名字，在續作《[Battle Spirits
-    Brave](../Page/Battle_Spirits_Brave.md "wikilink")》出現正式名字。
-2.  在續作《[Battle Spirits
-    Brave](../Page/Battle_Spirits_Brave.md "wikilink")》有詳盡的介紹。
+1.  「維奧娜·魔魅」是博客上用的名稱，本名為紫乃宮魔魅，在本作中並未公開名字，在續作《[Battle Spirits Brave](../Page/Battle_Spirits_Brave.md "wikilink")》出現正式名字。
+2.  在續作《[Battle Spirits Brave](../Page/Battle_Spirits_Brave.md "wikilink")》有詳盡的介紹。

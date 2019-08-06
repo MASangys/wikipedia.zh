@@ -1,5 +1,4 @@
-**UCI世界巡迴賽**(2009–2010: *UCI世界排名*)
-是最主要的年度男性精英公路自由車巡迴賽。它同時指的是一個29項賽事組成的巡迴賽和根據巡迴賽表現的年度排名系統。世界排名在2009年推出，在2011年與前身的UCI職業巡迴賽完全合併。
+**UCI世界巡迴賽**(2009–2010: *UCI世界排名*) 是最主要的年度男性精英公路自由車巡迴賽。它同時指的是一個29項賽事組成的巡迴賽和根據巡迴賽表現的年度排名系統。世界排名在2009年推出，在2011年與前身的UCI職業巡迴賽完全合併。
 
 ## 排名賽事
 
@@ -392,7 +391,7 @@
 <td><p> <a href="https://zh.wikipedia.org/wiki/Richie_Porte" title="wikilink">Porte</a> (1/5)</p></td>
 <td><p> <a href="https://zh.wikipedia.org/wiki/Carlos_Betancur" title="wikilink">Betancur</a></p></td>
 <td><p> <a href="https://zh.wikipedia.org/wiki/Richie_Porte" title="wikilink">Porte</a> (2/5)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/杰兰特·托马斯" title="wikilink">Thomas</a> (2/2)</p></td>
+<td><p><a href="../Page/杰兰特·托马斯.md" title="wikilink">Thomas</a> (2/2)</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Tirreno–Adriatico" title="wikilink">Tirreno–Adriatico</a></strong></p></td>
@@ -433,7 +432,7 @@
 <td><p> <a href="https://zh.wikipedia.org/wiki/汤姆·布南" title="wikilink">Boonen</a> (3/6)</p></td>
 <td><p> <a href="../Page/法比安·坎切拉拉.md" title="wikilink">Cancellara</a> (4/7)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Peter_Sagan" title="wikilink">Sagan</a> (4/9)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/杰兰特·托马斯" title="wikilink">Thomas</a> (1/2)</p></td>
+<td><p><a href="../Page/杰兰特·托马斯.md" title="wikilink">Thomas</a> (1/2)</p></td>
 <td><p> <a href="https://zh.wikipedia.org/wiki/Michał_Kwiatkowski" title="wikilink">Kwiatkowski</a> (2/6)</p></td>
 <td></td>
 <td></td>
@@ -1056,7 +1055,7 @@
 <td><p>5.</p></td>
 <td></td>
 <td><p>19</p></td>
-<td><p><a href="../Page/克里斯·弗鲁姆.md" title="wikilink">Froome</a> (10), <a href="../Page/布拉德利·威金斯.md" title="wikilink">Wiggins</a> (5), <a href="https://zh.wikipedia.org/wiki/杰兰特·托马斯" title="wikilink">Thomas</a> (2), <a href="../Page/马克·卡文迪什.md" title="wikilink">Cavendish</a>, <a href="https://zh.wikipedia.org/wiki/Adam_Yates_(cyclist)" title="wikilink">Yates</a></p></td>
+<td><p><a href="../Page/克里斯·弗鲁姆.md" title="wikilink">Froome</a> (10), <a href="../Page/布拉德利·威金斯.md" title="wikilink">Wiggins</a> (5), <a href="../Page/杰兰特·托马斯.md" title="wikilink">Thomas</a> (2), <a href="../Page/马克·卡文迪什.md" title="wikilink">Cavendish</a>, <a href="https://zh.wikipedia.org/wiki/Adam_Yates_(cyclist)" title="wikilink">Yates</a></p></td>
 </tr>
 <tr class="even">
 <td><p>6.</p></td>
@@ -1203,7 +1202,7 @@
 <td><p>1.</p></td>
 <td></td>
 <td><p>33</p></td>
-<td><p><a href="../Page/克里斯·弗鲁姆.md" title="wikilink">Froome</a> (10), <a href="https://zh.wikipedia.org/wiki/Michał_Kwiatkowski" title="wikilink">Kwiatkowski</a> (5), <a href="../Page/布拉德利·威金斯.md" title="wikilink">Wiggins</a> (5), <a href="https://zh.wikipedia.org/wiki/Edvald_Boasson_Hagen" title="wikilink">Boasson Hagen</a> (3), <a href="https://zh.wikipedia.org/wiki/Richie_Porte" title="wikilink">Porte</a> (3), <a href="https://zh.wikipedia.org/wiki/杰兰特·托马斯" title="wikilink">Thomas</a> (2), <a href="https://zh.wikipedia.org/wiki/Elia_Viviani" title="wikilink">Viviani</a> (2), <a href="https://zh.wikipedia.org/wiki/Sergio_Henao" title="wikilink">Henao</a>, <a href="https://zh.wikipedia.org/wiki/Lars_Petter_Nordhaug" title="wikilink">Nordhaug</a>, <a href="https://zh.wikipedia.org/wiki/Wout_Poels" title="wikilink">Poels</a></p></td>
+<td><p><a href="../Page/克里斯·弗鲁姆.md" title="wikilink">Froome</a> (10), <a href="https://zh.wikipedia.org/wiki/Michał_Kwiatkowski" title="wikilink">Kwiatkowski</a> (5), <a href="../Page/布拉德利·威金斯.md" title="wikilink">Wiggins</a> (5), <a href="https://zh.wikipedia.org/wiki/Edvald_Boasson_Hagen" title="wikilink">Boasson Hagen</a> (3), <a href="https://zh.wikipedia.org/wiki/Richie_Porte" title="wikilink">Porte</a> (3), <a href="../Page/杰兰特·托马斯.md" title="wikilink">Thomas</a> (2), <a href="https://zh.wikipedia.org/wiki/Elia_Viviani" title="wikilink">Viviani</a> (2), <a href="https://zh.wikipedia.org/wiki/Sergio_Henao" title="wikilink">Henao</a>, <a href="https://zh.wikipedia.org/wiki/Lars_Petter_Nordhaug" title="wikilink">Nordhaug</a>, <a href="https://zh.wikipedia.org/wiki/Wout_Poels" title="wikilink">Poels</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2.</p></td>
@@ -1773,9 +1772,7 @@
 
   - [UCI世界巡迴賽](http://www.uciworldtour.com/templates/UCI/UCI1/layout.asp?MenuId=MTcxNw&LangId=1)
 
-[Category:UCI世界巡迴賽](https://zh.wikipedia.org/wiki/Category:UCI世界巡迴賽 "wikilink")
-[Category:UCI巡迴賽](https://zh.wikipedia.org/wiki/Category:UCI巡迴賽 "wikilink")
-[Category:UCI世界排名](https://zh.wikipedia.org/wiki/Category:UCI世界排名 "wikilink")
+[Category:UCI世界巡迴賽](https://zh.wikipedia.org/wiki/Category:UCI世界巡迴賽 "wikilink") [Category:UCI巡迴賽](https://zh.wikipedia.org/wiki/Category:UCI巡迴賽 "wikilink") [Category:UCI世界排名](https://zh.wikipedia.org/wiki/Category:UCI世界排名 "wikilink")
 
 1.
 2.

@@ -173,5 +173,4 @@
   - [Theatre 劇団子官方網頁](http://www.gekidango.jp/)
   - [Theatre劇団子25th公演「もう一つのシアター！」特設網頁](http://anothertheater.com/)
 
-[Category:2009年小說](https://zh.wikipedia.org/wiki/Category:2009年小說 "wikilink")
-[Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink")
+[Category:2009年小說](https://zh.wikipedia.org/wiki/Category:2009年小說 "wikilink") [Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink")

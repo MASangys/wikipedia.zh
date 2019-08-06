@@ -1,7 +1,4 @@
-***CRUSH*** 是 [南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink") 四人女子組合
-[2NE1](../Page/2NE1.md "wikilink")在闊別四年後終於發行的第二張韓文正規專輯，收錄九首新歌和一首日文單曲韓文版。
-2014年2月27日於各大音源網站公開線上音源，2014年3月7日正式發行實體專輯，共有BLACK EDITION及PINK
-EDITION兩種版本。
+***CRUSH*** 是 [南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink") 四人女子組合 [2NE1](../Page/2NE1.md "wikilink")在闊別四年後終於發行的第二張韓文正規專輯，收錄九首新歌和一首日文單曲韓文版。 2014年2月27日於各大音源網站公開線上音源，2014年3月7日正式發行實體專輯，共有BLACK EDITION及PINK EDITION兩種版本。
 
 ## 曲目
 
@@ -149,13 +146,6 @@ EDITION兩種版本。
 
 ## 參考資料
 
-[Category:2NE1專輯](https://zh.wikipedia.org/wiki/Category:2NE1專輯 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:2014年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon單曲月榜冠軍作品 "wikilink")
-[Category:2014年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2014年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2014年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon數位下載月榜冠軍作品 "wikilink")
+[Category:2NE1專輯](https://zh.wikipedia.org/wiki/Category:2NE1專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:2014年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon單曲月榜冠軍作品 "wikilink") [Category:2014年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon單曲週榜冠軍作品 "wikilink") [Category:2014年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2014年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon數位下載月榜冠軍作品 "wikilink")
 
-1.
-    此為韓國歌手歷年來在告示牌二百強專輯榜的最佳成績。之前的記錄為[少女時代-太蒂徐](../Page/少女時代-太蒂徐.md "wikilink")的第126名
+1.   此為韓國歌手歷年來在告示牌二百強專輯榜的最佳成績。之前的記錄為[少女時代-太蒂徐](../Page/少女時代-太蒂徐.md "wikilink")的第126名

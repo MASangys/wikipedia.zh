@@ -1,6 +1,4 @@
-《**Good
-Luck**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST的第](https://zh.wikipedia.org/wiki/BEAST "wikilink")6枚韓語迷你專輯，於2014年6月17日發行，主打歌曲為《Good
-Luck》，在2014年6月10日公開先行曲《如今再也不是》（）\[1\]。
+《**Good Luck**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST的第](https://zh.wikipedia.org/wiki/BEAST "wikilink")6枚韓語迷你專輯，於2014年6月17日發行，主打歌曲為《Good Luck》，在2014年6月10日公開先行曲《如今再也不是》（）\[1\]。
 
 ## 背景
 
@@ -203,13 +201,7 @@ Luck》，在2014年6月10日公開先行曲《如今再也不是》（）\[1\]�
 
 ## 參考資料
 
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2014年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯月榜冠軍作品 "wikilink")
-[Category:2014年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2014年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon數位下載週榜冠軍作品 "wikilink")
+[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink") [Category:2014年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯月榜冠軍作品 "wikilink") [Category:2014年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon單曲週榜冠軍作品 "wikilink") [Category:2014年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon數位下載週榜冠軍作品 "wikilink")
 
 1.
 

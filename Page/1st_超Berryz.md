@@ -1,6 +1,4 @@
-「**1st 超Berryz**」（1st
-超ベリーズ）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第1枚原創專輯。於2004年7月7日發行。唱片公司為[PICCOLO
-TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
+「**1st 超Berryz**」（1st 超ベリーズ）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第1枚原創專輯。於2004年7月7日發行。唱片公司為[PICCOLO TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
 ## 概要
 
@@ -13,13 +11,11 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 ### CD（初回限定盤・CD盤）
 
 1.  **[沒有你活不下去](../Page/沒有你活不下去.md "wikilink")**（あなたなしでは生きてゆけない）
-    （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
-    編曲：[AKIRA](../Page/AKIRA.md "wikilink")）
+    （作詞・作曲：[淳君](../Page/淳君.md "wikilink") 編曲：[AKIRA](../Page/AKIRA.md "wikilink")）
       -
         1st單曲
 2.  **[活力上路！](../Page/活力上路！.md "wikilink")**（ピリリと行こう\!）
-    （作詞・作曲：淳君
-    編曲：[平田祥一郎](https://zh.wikipedia.org/wiki/平田祥一郎 "wikilink")）
+    （作詞・作曲：淳君 編曲：[平田祥一郎](https://zh.wikipedia.org/wiki/平田祥一郎 "wikilink")）
       -
         3rd單曲
 3.  **日直 〜藝人之交談〜** ()
@@ -45,5 +41,4 @@ TOWN](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 12. **Hello\!之主題（Berryz工房 Version）**（Hello\!のテーマ（Berryz工房 Version））
     （作詞・作曲：淳君 編曲：田中直）
 
-[Category:Berryz工房專輯](https://zh.wikipedia.org/wiki/Category:Berryz工房專輯 "wikilink")
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
+[Category:Berryz工房專輯](https://zh.wikipedia.org/wiki/Category:Berryz工房專輯 "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")

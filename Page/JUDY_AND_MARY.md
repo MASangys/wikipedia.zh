@@ -1,5 +1,4 @@
-**JUDY AND MARY** （日語：ジュディ・アンド・マリー）
-是一支已解散的[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，簡稱「**JAM**」。
+**JUDY AND MARY** （日語：ジュディ・アンド・マリー） 是一支已解散的[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")，簡稱「**JAM**」。
 
 ## 主要成員
 
@@ -15,11 +14,9 @@
 
 ## 簡介
 
-1991年6月，當時以重金屬搖滾樂團「JACKS'N'JOKER」身份出道的恩田快人，在前往北海道參與電影『いつかギラギラする日』的拍攝時，結識了那時擔當臨時演員的YUKI。YUKI在電影工作人員聚會時，向恩田表示「真想參加樂隊，該怎麼辦才好呢?（バンドをやりたいけどどうすればいいのかわからない）」。其後，恩田試聽了YUKI的樣本歌曲後，十分喜歡YUKI的歌聲，於是邀請了YUKI擔任主音。1992年2月，YUKI、恩田和藤本泰司組成了初期的JUDY
-AND MARY樂團。
+1991年6月，當時以重金屬搖滾樂團「JACKS'N'JOKER」身份出道的恩田快人，在前往北海道參與電影『いつかギラギラする日』的拍攝時，結識了那時擔當臨時演員的YUKI。YUKI在電影工作人員聚會時，向恩田表示「真想參加樂隊，該怎麼辦才好呢?（バンドをやりたいけどどうすればいいのかわからない）」。其後，恩田試聽了YUKI的樣本歌曲後，十分喜歡YUKI的歌聲，於是邀請了YUKI擔任主音。1992年2月，YUKI、恩田和藤本泰司組成了初期的JUDY AND MARY樂團。
 
-同年4月，發表第一張樂團專輯「BE
-AMBITIOUS」。11月，五十嵐公太正式加入樂團，擔任鼓手。樂團當時的所有唱片製作費、演出支出全由恩田一人負擔，並支付團員的報酬金。
+同年4月，發表第一張樂團專輯「BE AMBITIOUS」。11月，五十嵐公太正式加入樂團，擔任鼓手。樂團當時的所有唱片製作費、演出支出全由恩田一人負擔，並支付團員的報酬金。
 
 ## 作品
 
@@ -343,45 +340,21 @@ AMBITIOUS」。11月，五十嵐公太正式加入樂團，擔任鼓手。樂團
 
 #### 影片集
 
-1.  [HYPER 90'S JAM
-    TV](https://zh.wikipedia.org/wiki/HYPER_90'S_JAM_TV "wikilink")
-    (VHS/LD：1994/12/12)
-2.  [ミュージック
-    ファイター](https://zh.wikipedia.org/wiki/ミュージック_ファイター#映像作品 "wikilink")
-    (VHS：1998/04/01)
-3.  [手紙をかくよ](https://zh.wikipedia.org/wiki/手紙をかくよ#映像作品 "wikilink")
-    (VHS：1998/11/11)
-4.  [Brand New Wave Upper
-    Ground](https://zh.wikipedia.org/wiki/Brand_New_Wave_Upper_Ground#映像作品 "wikilink")
-    (VHS/DVD：2000/04/19)
-5.  [mottö](https://zh.wikipedia.org/wiki/mottö#映像作品 "wikilink")
-    (VHS/DVD：2000/12/06)
-6.  [JUDY AND MARY ALL CLIPS -JAM COMPLETE VIDEO
-    COLLECTION-](https://zh.wikipedia.org/wiki/JUDY_AND_MARY_ALL_CLIPS_-JAM_COMPLETE_VIDEO_COLLECTION- "wikilink")
-    (VHS/DVD：2001/02/21　DVD再発：2003/11/19)
-7.  [PEACE](https://zh.wikipedia.org/wiki/PEACE_-strings_version-#PEACE "wikilink")
-    (VHS/DVD：2001/06/06)
+1.  [HYPER 90'S JAM TV](https://zh.wikipedia.org/wiki/HYPER_90'S_JAM_TV "wikilink") (VHS/LD：1994/12/12)
+2.  [ミュージック ファイター](https://zh.wikipedia.org/wiki/ミュージック_ファイター#映像作品 "wikilink") (VHS：1998/04/01)
+3.  [手紙をかくよ](https://zh.wikipedia.org/wiki/手紙をかくよ#映像作品 "wikilink") (VHS：1998/11/11)
+4.  [Brand New Wave Upper Ground](https://zh.wikipedia.org/wiki/Brand_New_Wave_Upper_Ground#映像作品 "wikilink") (VHS/DVD：2000/04/19)
+5.  [mottö](https://zh.wikipedia.org/wiki/mottö#映像作品 "wikilink") (VHS/DVD：2000/12/06)
+6.  [JUDY AND MARY ALL CLIPS -JAM COMPLETE VIDEO COLLECTION-](https://zh.wikipedia.org/wiki/JUDY_AND_MARY_ALL_CLIPS_-JAM_COMPLETE_VIDEO_COLLECTION- "wikilink") (VHS/DVD：2001/02/21　DVD再発：2003/11/19)
+7.  [PEACE](https://zh.wikipedia.org/wiki/PEACE_-strings_version-#PEACE "wikilink") (VHS/DVD：2001/06/06)
 
 #### 演唱會
 
 1.  It's A Gaudy It's A Gross (VHS：1995/02/01)
-2.  [MIRACLE NIGHT DIVING TOUR
-    1996](https://zh.wikipedia.org/wiki/MIRACLE_NIGHT_DIVING_TOUR_1996 "wikilink")
-    (VHS/LD：1996/12/09　DVD：2000/04/19)
-3.  [THE POWER STADIUM DESTROY
-    '97](https://zh.wikipedia.org/wiki/THE_POWER_STADIUM_DESTROY_'97 "wikilink")
-    (VHS：1997/12/01　DVD：2000/04/19)
-4.  [POP LIFE SUICIDE
-    1](https://zh.wikipedia.org/wiki/POP_LIFE_SUICIDE_1 "wikilink")
-    (VHS/DVD：1999/04/21)
-5.  [POP LIFE SUICIDE
-    2](https://zh.wikipedia.org/wiki/POP_LIFE_SUICIDE_2 "wikilink")
-    (VHS/DVD：1999/05/21)
-6.  [WARP TOUR
-    FINAL](https://zh.wikipedia.org/wiki/WARP_TOUR_FINAL "wikilink")
-    (VHS/DVD：2001/05/09　DVD再發行：2003/11/19)
+2.  [MIRACLE NIGHT DIVING TOUR 1996](https://zh.wikipedia.org/wiki/MIRACLE_NIGHT_DIVING_TOUR_1996 "wikilink") (VHS/LD：1996/12/09　DVD：2000/04/19)
+3.  [THE POWER STADIUM DESTROY '97](https://zh.wikipedia.org/wiki/THE_POWER_STADIUM_DESTROY_'97 "wikilink") (VHS：1997/12/01　DVD：2000/04/19)
+4.  [POP LIFE SUICIDE 1](https://zh.wikipedia.org/wiki/POP_LIFE_SUICIDE_1 "wikilink") (VHS/DVD：1999/04/21)
+5.  [POP LIFE SUICIDE 2](https://zh.wikipedia.org/wiki/POP_LIFE_SUICIDE_2 "wikilink") (VHS/DVD：1999/05/21)
+6.  [WARP TOUR FINAL](https://zh.wikipedia.org/wiki/WARP_TOUR_FINAL "wikilink") (VHS/DVD：2001/05/09　DVD再發行：2003/11/19)
 
-[Category:1992年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1992年成立的音樂團體 "wikilink")
-[Category:2001年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2001年解散的音樂團體 "wikilink")
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
+[Category:1992年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1992年成立的音樂團體 "wikilink") [Category:2001年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2001年解散的音樂團體 "wikilink") [Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")

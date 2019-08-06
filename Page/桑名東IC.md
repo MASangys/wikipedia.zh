@@ -12,8 +12,7 @@
 
 ## 歷史
 
-  - 1975年10月22日 -
-    [東名阪自動車道](../Page/東名阪自動車道.md "wikilink")[桑名IC至](https://zh.wikipedia.org/wiki/桑名IC "wikilink")[蟹江IC開通](https://zh.wikipedia.org/wiki/蟹江IC "wikilink")，此交流道也同時啟用。
+  - 1975年10月22日 - [東名阪自動車道](../Page/東名阪自動車道.md "wikilink")[桑名IC至](https://zh.wikipedia.org/wiki/桑名IC "wikilink")[蟹江IC開通](https://zh.wikipedia.org/wiki/蟹江IC "wikilink")，此交流道也同時啟用。
 
 ## 收費站設施
 
@@ -38,10 +37,7 @@
 ## 鄰近設施
 
   - [東名阪自動車道](../Page/東名阪自動車道.md "wikilink")
-    (27)[長島IC](https://zh.wikipedia.org/wiki/長島IC_\(東名阪自動車道\) "wikilink")
-    - (28)**桑名東IC** -
-    [大山田PA](https://zh.wikipedia.org/wiki/大山田PA "wikilink")
-    - (29)[桑名IC](https://zh.wikipedia.org/wiki/桑名IC "wikilink")
+    (27)[長島IC](https://zh.wikipedia.org/wiki/長島IC_\(東名阪自動車道\) "wikilink") - (28)**桑名東IC** - [大山田PA](https://zh.wikipedia.org/wiki/大山田PA "wikilink") - (29)[桑名IC](https://zh.wikipedia.org/wiki/桑名IC "wikilink")
 
 ## 相關項目
 
@@ -51,6 +47,4 @@
 
   - [中日本高速道路](http://www.c-nexco.co.jp/)
 
-[Category:日本交流道_Ku](https://zh.wikipedia.org/wiki/Category:日本交流道_Ku "wikilink")
-[Category:三重縣交流道](https://zh.wikipedia.org/wiki/Category:三重縣交流道 "wikilink")
-[Category:桑名市](https://zh.wikipedia.org/wiki/Category:桑名市 "wikilink")
+[Category:日本交流道_Ku](https://zh.wikipedia.org/wiki/Category:日本交流道_Ku "wikilink") [Category:三重縣交流道](https://zh.wikipedia.org/wiki/Category:三重縣交流道 "wikilink") [Category:桑名市](https://zh.wikipedia.org/wiki/Category:桑名市 "wikilink")

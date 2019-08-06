@@ -1,18 +1,14 @@
-《**INNOCENCE**》（）是日本女歌手[藍井艾露](../Page/藍井艾露.md "wikilink")的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年11月21日由[SME
-Records發售](../Page/SME_Records.md "wikilink")。
+《**INNOCENCE**》（）是日本女歌手[藍井艾露](../Page/藍井艾露.md "wikilink")的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年11月21日由[SME Records發售](../Page/SME_Records.md "wikilink")。
 
 ## 概要
 
 INNOCENCE為繼在2011年的《》後，藍井艾露的第3張單曲，是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[刀劍神域](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》ALO篇的[主題曲](../Page/主題曲.md "wikilink")。
 
-INNOCENE是在Eir出道前寫的，主題是不放棄夢想繼續行走 \[1\]。而《Velvet
-Tears》則是以[北歐神話中的](https://zh.wikipedia.org/wiki/北歐神話 "wikilink")[奧丁為主題](https://zh.wikipedia.org/wiki/奧丁 "wikilink")，是一首非常快的歌曲\[2\]。
+INNOCENE是在Eir出道前寫的，主題是不放棄夢想繼續行走 \[1\]。而《Velvet Tears》則是以[北歐神話中的](https://zh.wikipedia.org/wiki/北歐神話 "wikilink")[奧丁為主題](https://zh.wikipedia.org/wiki/奧丁 "wikilink")，是一首非常快的歌曲\[2\]。
 
-販賣形式分為初回版、通常版和限定版3種，其中初回版和限定版附有DVD，前者收錄了INNOCENCE的[PV](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，而後者則收錄了限定版特有的曲子——《dear
-brightness》。
+販賣形式分為初回版、通常版和限定版3種，其中初回版和限定版附有DVD，前者收錄了INNOCENCE的[PV](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，而後者則收錄了限定版特有的曲子——《dear brightness》。
 
-另外，在未發行專輯前的2012年11月3日舉行的[早稻田大學動漫聲優會中的](https://zh.wikipedia.org/wiki/早稻田大學 "wikilink")「早稻田
-de Ei Ei Ru\!」活動時藍井艾露演唱此曲的時候已經非常受歡迎\[3\]。
+另外，在未發行專輯前的2012年11月3日舉行的[早稻田大學動漫聲優會中的](https://zh.wikipedia.org/wiki/早稻田大學 "wikilink")「早稻田 de Ei Ei Ru\!」活動時藍井艾露演唱此曲的時候已經非常受歡迎\[3\]。
 
 ## 反應
 
@@ -20,8 +16,7 @@ de Ei Ei Ru\!」活動時藍井艾露演唱此曲的時候已經非常受歡迎\
 
 ## 評價
 
-[Billboard
-JAPAN的武川春奈形容INNOCENCE是一首](https://zh.wikipedia.org/wiki/Billboard_JAPAN "wikilink")「把擁有生動的色彩的美觀共鳴，並釋放它的活力」的歌，並稱這首曲子是Eir最完美的作品\[6\]。
+[Billboard JAPAN的武川春奈形容INNOCENCE是一首](https://zh.wikipedia.org/wiki/Billboard_JAPAN "wikilink")「把擁有生動的色彩的美觀共鳴，並釋放它的活力」的歌，並稱這首曲子是Eir最完美的作品\[6\]。
 
 ## 收錄曲
 
@@ -83,11 +78,7 @@ JAPAN的武川春奈形容INNOCENCE是一首](https://zh.wikipedia.org/wiki/Bill
   - [通常盤](http://www.sonymusic.co.jp/artist/aoieir/discography/SECL-1216)
   - [期間限定盤](http://www.sonymusic.co.jp/artist/aoieir/discography/SECL-1217)
 
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
-[Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")
-[Category:藍井艾露歌曲](https://zh.wikipedia.org/wiki/Category:藍井艾露歌曲 "wikilink")
-[Category:刀剑神域](https://zh.wikipedia.org/wiki/Category:刀剑神域 "wikilink")
+[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink") [Category:藍井艾露歌曲](https://zh.wikipedia.org/wiki/Category:藍井艾露歌曲 "wikilink") [Category:刀剑神域](https://zh.wikipedia.org/wiki/Category:刀剑神域 "wikilink")
 
 1.
 

@@ -1,8 +1,6 @@
 **AKB48集團**（，）是[日本](../Page/日本.md "wikilink")作詞家[秋元康](../Page/秋元康.md "wikilink")所製作的女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")及其姊妹團體，以及這些團體所形成的[演藝企劃與品牌之合稱](https://zh.wikipedia.org/wiki/演藝 "wikilink")\[1\]\[2\]。通稱**AKB集團**（）\[3\]、**48集團**（）\[4\]，外界也使用**AKB48企劃**（）\[5\]、**AKB48家族**（）\[6\]等稱呼。有時還會使用更省略的稱呼，如**AKB48G**\[7\]、**AKBG**\[8\]、**48G**\[9\]\[10\]，或直接以**48**來表記\[11\]。
 
-AKB48集團是從日本出發、同時使用「[特許經營](../Page/加盟連鎖.md "wikilink")」的概念跨國運作的大型偶像企劃。目前在日本國內有6個團體（AKB48、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")、[HKT48](../Page/HKT48.md "wikilink")、[NGT48](../Page/NGT48.md "wikilink")、[STU48](../Page/STU48.md "wikilink")），日本以外則有9個團體（[JKT48](../Page/JKT48.md "wikilink")、[BNK48](../Page/BNK48.md "wikilink")、[MNL48](https://zh.wikipedia.org/wiki/MNL48 "wikilink")、[AKB48
-Team TP](../Page/AKB48_Team_TP.md "wikilink")、[AKB48 Team
-SH](../Page/AKB48_Team_SH.md "wikilink")、[SGO48](../Page/SGO48.md "wikilink")、[CGM48](../Page/CGM48.md "wikilink")、[DEL48](../Page/DEL48.md "wikilink")、[MUB48](../Page/MUB48.md "wikilink")）。在團體操作上，「AKB48集團」與「AKB48」有時不會加以區分，例如以「AKB48」名義進行的作品或活動，包括[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")、[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")、[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")、[電視節目演出等](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，除了AKB48本團之外，通常也有姊妹團體的成員參加（日本國內各團為主），實際上是整個AKB48集團在參與這些作品與活動，這在日本國內的場合尤其明顯。
+AKB48集團是從日本出發、同時使用「[特許經營](../Page/加盟連鎖.md "wikilink")」的概念跨國運作的大型偶像企劃。目前在日本國內有6個團體（AKB48、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")、[HKT48](../Page/HKT48.md "wikilink")、[NGT48](../Page/NGT48.md "wikilink")、[STU48](../Page/STU48.md "wikilink")），日本以外則有9個團體（[JKT48](../Page/JKT48.md "wikilink")、[BNK48](../Page/BNK48.md "wikilink")、[MNL48](https://zh.wikipedia.org/wiki/MNL48 "wikilink")、[AKB48 Team TP](../Page/AKB48_Team_TP.md "wikilink")、[AKB48 Team SH](../Page/AKB48_Team_SH.md "wikilink")、[SGO48](../Page/SGO48.md "wikilink")、[CGM48](../Page/CGM48.md "wikilink")、[DEL48](../Page/DEL48.md "wikilink")、[MUB48](../Page/MUB48.md "wikilink")）。在團體操作上，「AKB48集團」與「AKB48」有時不會加以區分，例如以「AKB48」名義進行的作品或活動，包括[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")、[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")、[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")、[電視節目演出等](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，除了AKB48本團之外，通常也有姊妹團體的成員參加（日本國內各團為主），實際上是整個AKB48集團在參與這些作品與活動，這在日本國內的場合尤其明顯。
 
 ## 概要
 
@@ -12,8 +10,7 @@ AKB48集團不只在日本，也在[亞洲各地開枝散葉](https://zh.wikiped
 
 AKB48集團特色為人數眾多，並且有正規成員與[研究生](https://zh.wikipedia.org/wiki/訓練生 "wikilink")（預備成員）的制度。另一特色是營運方式，各團體均有各自的營運團隊，但部分成員可能會外簽給其他演藝[經紀公司](../Page/經紀公司.md "wikilink")，負責在AKB48集團以外的演藝工作。各團體或由AKB48的營運公司[AKS](../Page/AKS.md "wikilink")直營，或由AKS以[特許經營的方式授權給特定公司經營](https://zh.wikipedia.org/wiki/特許經營 "wikilink")，其中海外姊妹團體均採特許經營方式營運。
 
-截至2019年2月10日
-，AKB48集團在日本國內的在籍成員總數為**394人**，包含日本以外則為**655人**（詳細請見[後述](https://zh.wikipedia.org/wiki/#人數 "wikilink")）。
+截至2019年2月10日 ，AKB48集團在日本國內的在籍成員總數為**394人**，包含日本以外則為**655人**（詳細請見[後述](https://zh.wikipedia.org/wiki/#人數 "wikilink")）。
 
 AKB48集團的成員如果離開團體，與一般的日本偶像團體一樣以「[畢業](../Page/畢業_\(演藝界\).md "wikilink")」稱之\[23\]。秋元康認為AKB48是只是一個過程，是為了達成未來夢想（此指藝人的志向）的踏腳石\[24\]。成員們畢業的同時，也會定期舉行新成員的徵選募集，透過「畢業」與「募集」的循環，讓團體能夠持續經營下去\[25\]。
 
@@ -177,8 +174,7 @@ AKB48集團的成員如果離開團體，與一般的日本偶像團體一樣以
 
 **未能成立的团体**
 
-  - **[MUM48](../Page/MUM48.md "wikilink")** -
-    在2017年12月27日发表组建，据点为[印度](../Page/印度.md "wikilink")[孟买](../Page/孟买.md "wikilink")\[29\]，但2018年7月起官方SNS逐渐停止更新，官网关闭。在DEL48及MUB48宣布成立时公开了已于2018年11月与MUM48的运营企业解约的消息\[30\]。
+  - **[MUM48](../Page/MUM48.md "wikilink")** - 在2017年12月27日发表组建，据点为[印度](../Page/印度.md "wikilink")[孟买](../Page/孟买.md "wikilink")\[29\]，但2018年7月起官方SNS逐渐停止更新，官网关闭。在DEL48及MUB48宣布成立时公开了已于2018年11月与MUM48的运营企业解约的消息\[30\]。
 
 **AKB48集團旗下各團活動根據地示意圖**
 
@@ -200,23 +196,13 @@ AKB48集團的成員如果離開團體，與一般的日本偶像團體一樣以
 
 ## 歷史
 
-<File:AKB48> members at the J\!-ENT LIVE(cropped).jpg|230|AKB48
-<File:Ske48> teamk2.jpg|SKE48 <File:NMB48> during Asian tour in Bangkok
-2017.jpg|NMB48 <File:AKB48> (2012) performing in concerts.jpg|HKT48
-<File:JKT48> at IIMS 2016 IMG 0072 (26372321461).jpg|JKT48 <File:BNK48>
-Cat Expo 2017.jpg|BNK48 <File:2018.12.08『COOL> JAPAN FEST 2018 in
-台北圓山大飯店』AKB48 Team TP Photo by AKB48-Taiwan Clubs 李承儒
-(46228606131).jpg|AKB48 Team TP
+<File:AKB48> members at the J\!-ENT LIVE(cropped).jpg|230|AKB48 <File:Ske48> teamk2.jpg|SKE48 <File:NMB48> during Asian tour in Bangkok 2017.jpg|NMB48 <File:AKB48> (2012) performing in concerts.jpg|HKT48 <File:JKT48> at IIMS 2016 IMG 0072 (26372321461).jpg|JKT48 <File:BNK48> Cat Expo 2017.jpg|BNK48 <File:2018.12.08『COOL> JAPAN FEST 2018 in 台北圓山大飯店』AKB48 Team TP Photo by AKB48-Taiwan Clubs 李承儒 (46228606131).jpg|AKB48 Team TP
 
-**AKB48集團的演進** {{\#tag:timeline| Define $width = 800 Define $height =
-430
+**AKB48集團的演進** {{\#tag:timeline| Define $width = 800 Define $height = 430
 
-Define $start = 01/01/2004 Define $end = {{\#time: d}}/{{\#time:
-m}}/{{\#time: Y | +1 year }} Define $now = {{\#time: d/m/Y }}
+Define $start = 01/01/2004 Define $end = {{\#time: d}}/{{\#time: m}}/{{\#time: Y | +1 year }} Define $now = {{\#time: d/m/Y }}
 
-ImageSize = width:$width height:$height PlotArea = right:20 left:40
-bottom:40 top:35 DateFormat = dd/mm/yyyy \#日/月/年. Period = from:$start
-till:$end TimeAxis = orientation:horizontal
+ImageSize = width:$width height:$height PlotArea = right:20 left:40 bottom:40 top:35 DateFormat = dd/mm/yyyy \#日/月/年. Period = from:$start till:$end TimeAxis = orientation:horizontal
 
 Colors =
 
@@ -238,9 +224,7 @@ Colors =
 `    id:sgo        value:rgb(0.91,0.24,0.41)`
 `    id:today      value:rgb(1,0.6,0.6)`
 
-BackgroundColors = canvas:bg ScaleMinor = gridcolor:lightline unit:month
-increment:1 start:01/01/2004 ScaleMajor = gridcolor:lighttext unit:year
-increment:1 start:01/01/2004
+BackgroundColors = canvas:bg ScaleMinor = gridcolor:lightline unit:month increment:1 start:01/01/2004 ScaleMajor = gridcolor:lighttext unit:year increment:1 start:01/01/2004
 
 LineData=
 
@@ -486,9 +470,7 @@ TextData =
 
 ### 營運單位與所屬經紀公司
 
-AKB48グループとしての活動は、運営会社が異なるグループも含めて[AKS](../Page/AKS.md "wikilink")が運営管理を統括している\[73\]。運営会社および所属事務所は、AKB48・SKE48・HKT48・NGT48の4グループがAKS\[74\]、NMB48が[Showtitle](https://zh.wikipedia.org/wiki/Showtitle "wikilink")\[75\]、STU48がSTU、JKT48がJKT48
-Operation Team / JKT48 Project、BNK48がBNK48 Office、TPE48がTPE
-Entertainment\[76\]、MNL48がHallohalloとなっている。
+AKB48グループとしての活動は、運営会社が異なるグループも含めて[AKS](../Page/AKS.md "wikilink")が運営管理を統括している\[73\]。運営会社および所属事務所は、AKB48・SKE48・HKT48・NGT48の4グループがAKS\[74\]、NMB48が[Showtitle](https://zh.wikipedia.org/wiki/Showtitle "wikilink")\[75\]、STU48がSTU、JKT48がJKT48 Operation Team / JKT48 Project、BNK48がBNK48 Office、TPE48がTPE Entertainment\[76\]、MNL48がHallohalloとなっている。
 
 メンバー各人の所属事務所については、SDN48を除き、オーディションにおいて芸能事務所と契約していないことを条件としているため、グループ加入時にそれぞれのグループの運営会社の所属となるが、在籍中にグループ外の芸能事務所からの要請により移籍する場合があり、メンバーごとに所属事務所は異なる\[77\]\[78\]。
 
@@ -665,8 +647,7 @@ AKB48グループの在籍人数 （2018年7月4日現在）
 
   - 丸括弧 ( ) 内の数字は**期間限定で在籍したメンバー**も含む人数\[80\]。
 
-  - 角括弧 \[ \]
-    内の数字は\[**当該グループのオーディション等によって加入したメンバーの総数**/**別のAKB48グループと重複しているメンバーを除く人数**あるいは**AKB48グループ以外（乃木坂46）からの兼任メンバーを含む人数**\]。後者が存在しないグループについては省略。
+  - 角括弧 \[ \] 内の数字は\[**当該グループのオーディション等によって加入したメンバーの総数**/**別のAKB48グループと重複しているメンバーを除く人数**あるいは**AKB48グループ以外（乃木坂46）からの兼任メンバーを含む人数**\]。後者が存在しないグループについては省略。
 
   - AKB48 CHINAのメンバーについては、現状の位置づけが不明瞭であるため総数に含めていない。
 
@@ -807,8 +788,7 @@ AKB48グループの在籍人数 （2018年7月4日現在）
 </tbody>
 </table>
 
-  - SNH48がAKB48グループに属していた時期にチームSII, NII, HII, X, XII
-    が結成されている。NGT48のチーム結成時、「チームNII」もAKB48グループに存在していたため「チームNIII」となり、SNH48の独立後もそのまま同じチーム名が使用されている。
+  - SNH48がAKB48グループに属していた時期にチームSII, NII, HII, X, XII が結成されている。NGT48のチーム結成時、「チームNII」もAKB48グループに存在していたため「チームNIII」となり、SNH48の独立後もそのまま同じチーム名が使用されている。
 
 ### 研究生
 
@@ -857,8 +837,7 @@ AKB48グループにおいては、各チームならびにグループ全体の
     :; チームH
     :: キャプテン：[松岡菜摘](../Page/松岡菜摘.md "wikilink")、副キャプテン：不在
     :; チームKIV
-    ::
-    キャプテン：[本村碧唯](../Page/本村碧唯.md "wikilink")、副キャプテン：[宮脇咲良](../Page/宮脇咲良.md "wikilink")
+    :: キャプテン：[本村碧唯](../Page/本村碧唯.md "wikilink")、副キャプテン：[宮脇咲良](../Page/宮脇咲良.md "wikilink")
     :; チームTII
       -
 
@@ -867,8 +846,7 @@ AKB48グループにおいては、各チームならびにグループ全体の
 
       - [NGT48](https://zh.wikipedia.org/wiki/NGT48#歴代キャプテン "wikilink")
     :; チームNIII
-    ::
-    キャプテン：[加藤美南](../Page/加藤美南.md "wikilink")、副キャプテン：[荻野由佳](../Page/荻野由佳.md "wikilink")
+    :: キャプテン：[加藤美南](../Page/加藤美南.md "wikilink")、副キャプテン：[荻野由佳](../Page/荻野由佳.md "wikilink")
     :; チームG
       -
 
@@ -908,15 +886,12 @@ AKB48グループにおいては、各チームならびにグループ全体の
 
 2012年にAKB48グループのメンバーを統括するポジションとして「**AKB48グループ総監督**」が創設された\[85\]\[86\]。
 
-1.  [高橋みなみ](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")（AKB48、2012年
-    - 2015年12月8日）\[87\]\[88\]
-2.  [横山由依](https://zh.wikipedia.org/wiki/横山由依 "wikilink")（AKB48、2015年12月8日
-    - ）\[89\]
+1.  [高橋みなみ](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")（AKB48、2012年 - 2015年12月8日）\[87\]\[88\]
+2.  [横山由依](https://zh.wikipedia.org/wiki/横山由依 "wikilink")（AKB48、2015年12月8日 - ）\[89\]
 
 ### AKB48集團研究生會會長
 
-  - [松村香織](../Page/松村香織.md "wikilink")（SKE48終身名誉研究生〈当時〉、2014年 -
-    2015年3月31日）\[90\]
+  - [松村香織](../Page/松村香織.md "wikilink")（SKE48終身名誉研究生〈当時〉、2014年 - 2015年3月31日）\[90\]
 
 ### 衍生組合
 
@@ -958,12 +933,8 @@ AKB48グループにおいては、各チームならびにグループ全体の
 
 ### 媒體
 
-  - [月刊AKB48集團新聞](https://zh.wikipedia.org/wiki/月刊AKB48集團新聞 "wikilink")（2011年12月
-    -
-    、[日刊スポーツ新聞社](https://zh.wikipedia.org/wiki/日刊スポーツ新聞社 "wikilink")・[日刊スポーツ新聞西日本](https://zh.wikipedia.org/wiki/日刊スポーツ新聞西日本 "wikilink")・[北海道日刊スポーツ新聞社](https://zh.wikipedia.org/wiki/北海道日刊スポーツ新聞社 "wikilink")）
-  - [時事ドットコム
-    AKB48グループニュースワイヤー](https://zh.wikipedia.org/wiki/AKB48グループ_ニュースワイヤー "wikilink")（2015年11月
-    - 、[時事通信社](../Page/時事通信社.md "wikilink")）
+  - [月刊AKB48集團新聞](https://zh.wikipedia.org/wiki/月刊AKB48集團新聞 "wikilink")（2011年12月 - 、[日刊スポーツ新聞社](https://zh.wikipedia.org/wiki/日刊スポーツ新聞社 "wikilink")・[日刊スポーツ新聞西日本](https://zh.wikipedia.org/wiki/日刊スポーツ新聞西日本 "wikilink")・[北海道日刊スポーツ新聞社](https://zh.wikipedia.org/wiki/北海道日刊スポーツ新聞社 "wikilink")）
+  - [時事ドットコム AKB48グループニュースワイヤー](https://zh.wikipedia.org/wiki/AKB48グループ_ニュースワイヤー "wikilink")（2015年11月 - 、[時事通信社](../Page/時事通信社.md "wikilink")）
 
 ### 跨業合作
 
@@ -978,8 +949,7 @@ AKB48グループにおいては、各チームならびにグループ全体の
   - プロデューサー
       - [松村匠](../Page/松村匠.md "wikilink")、牧野彰宏、藤田浩幸、秋元伸介、磯野久美子\[93\]
   - AKB48グループカスタマーセンター長
-      - [戸賀崎智信](https://zh.wikipedia.org/wiki/戸賀崎智信 "wikilink")（2014年 -
-        ）\[94\]
+      - [戸賀崎智信](https://zh.wikipedia.org/wiki/戸賀崎智信 "wikilink")（2014年 - ）\[94\]
   - 音楽ディレクター（レコーディングディレクター）
       - 田中博信\[95\]
   - AKB48グループ衣装総責任者 / クリエイティブディレクター
@@ -1036,8 +1006,7 @@ AKB48グループにおいては、各チームならびにグループ全体の
       - [STU48 OFFICIAL WEB SITE](http://www.stu48.com/)
       - [JKT48 Official Web Site](http://www.jkt48.com/)
       - [BNK48 Official Website](https://www.bnk48.com/)
-      - [TPE48
-        官方網站](https://web.archive.org/web/20170831152036/http://www.tpe48.tw/)
+      - [TPE48 官方網站](https://web.archive.org/web/20170831152036/http://www.tpe48.tw/)
       - [MNL48 Official Website](https://mnl48.hallohallo.com/)
 
   - [「誰かのために」プロジェクト](https://www.akb48.co.jp/darekanotameni/)
@@ -1050,12 +1019,9 @@ AKB48グループにおいては、各チームならびにグループ全体の
 
   - [AKB48グループ ニュースワイヤー](http://www.jiji.com/jc/ak) - 時事ドットコム
 
-  - [AKB48グループ LIVE\!\! ON DEMAND](http://www.dmm.com/lod/) -
-    [DMM.com](../Page/DMM.com.md "wikilink")
+  - [AKB48グループ LIVE\!\! ON DEMAND](http://www.dmm.com/lod/) - [DMM.com](../Page/DMM.com.md "wikilink")
 
-  - [AKB48グループ ×
-    SHOWROOMメンバー個人配信](https://www.showroom-live.com/campaign/akb48_sr)
-    - [SHOWROOM](../Page/SHOWROOM.md "wikilink")
+  - [AKB48グループ × SHOWROOMメンバー個人配信](https://www.showroom-live.com/campaign/akb48_sr) - [SHOWROOM](../Page/SHOWROOM.md "wikilink")
 
   -
   -
@@ -1121,8 +1087,7 @@ AKB48グループにおいては、各チームならびにグループ全体の
 
 29.
 
-30. [“インドにAKB姉妹グループ2チーム誕生　デリーに「DEL48」、ムンバイに「MUB48」”](https://www.sponichi.co.jp/entertainment/news/2019/06/20/kiji/20190620s00041000303000c.html).
-    *Sponichi Annex* (スポーツニッポン新聞社). (2019年6月20日) 2019年6月20日閲覧。
+30. [“インドにAKB姉妹グループ2チーム誕生　デリーに「DEL48」、ムンバイに「MUB48」”](https://www.sponichi.co.jp/entertainment/news/2019/06/20/kiji/20190620s00041000303000c.html). *Sponichi Annex* (スポーツニッポン新聞社). (2019年6月20日) 2019年6月20日閲覧。
 
 31.
 
@@ -1213,11 +1178,7 @@ AKB48グループにおいては、各チームならびにグループ全体の
 
 79.
 
-80. 内訳は、[大人AKB48](https://zh.wikipedia.org/wiki/AKB48のオーディション#大人AKB48_オーディション "wikilink")
-    1人（[塚本まり子](https://zh.wikipedia.org/wiki/塚本まり子 "wikilink")）、[バイトAKB](https://zh.wikipedia.org/wiki/AKB48のオーディション#バイトAKB "wikilink")
-    50人（うち3人〈[佐伯美香](https://zh.wikipedia.org/wiki/佐伯美香_\(AKB48\) "wikilink")、高橋希良、勝又彩央里〉がAKB48の正式メンバーと重複、7人〈一色嶺奈、柴田優衣、松岡はな、荻野由佳、西潟茉莉奈、日下部愛菜、清司麗菜〉がAKB48以外のAKB48グループに在籍）、[バイトAKB
-    ぱるる選抜](https://zh.wikipedia.org/wiki/AKB48のオーディション#バイトAKB_ぱるる選抜 "wikilink")
-    2人。このため、AKB48グループに期間限定の形だけで在籍したメンバーは43人。
+80. 内訳は、[大人AKB48](https://zh.wikipedia.org/wiki/AKB48のオーディション#大人AKB48_オーディション "wikilink") 1人（[塚本まり子](https://zh.wikipedia.org/wiki/塚本まり子 "wikilink")）、[バイトAKB](https://zh.wikipedia.org/wiki/AKB48のオーディション#バイトAKB "wikilink") 50人（うち3人〈[佐伯美香](https://zh.wikipedia.org/wiki/佐伯美香_\(AKB48\) "wikilink")、高橋希良、勝又彩央里〉がAKB48の正式メンバーと重複、7人〈一色嶺奈、柴田優衣、松岡はな、荻野由佳、西潟茉莉奈、日下部愛菜、清司麗菜〉がAKB48以外のAKB48グループに在籍）、[バイトAKB ぱるる選抜](https://zh.wikipedia.org/wiki/AKB48のオーディション#バイトAKB_ぱるる選抜 "wikilink") 2人。このため、AKB48グループに期間限定の形だけで在籍したメンバーは43人。
 
 81. AKB48、HKT48にはグループ全体のキャプテンはいない。
 
@@ -1247,8 +1208,7 @@ AKB48グループにおいては、各チームならびにグループ全体の
 95.
 96.
 
-97. AKB48グループのCDや書籍などのクレジットには、General
-    Manager（[ゼネラルマネージャー](https://zh.wikipedia.org/wiki/ゼネラルマネージャー "wikilink")）と表記されている。
+97. AKB48グループのCDや書籍などのクレジットには、General Manager（[ゼネラルマネージャー](https://zh.wikipedia.org/wiki/ゼネラルマネージャー "wikilink")）と表記されている。
 
 98.
 99.

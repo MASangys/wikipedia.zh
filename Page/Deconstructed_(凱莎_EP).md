@@ -2,10 +2,7 @@
 
 ## 簡介
 
-《*Deconstructed*》收錄了五首原聲版（acoustic）歌曲，其中一曲翻唱自她母親Pebe Sebert所作的歌曲[Dolly
-Parton的](https://zh.wikipedia.org/wiki/Dolly_Parton "wikilink")〈[Old
-Flames Can't Hold a Candle to
-You](https://zh.wikipedia.org/wiki/Old_Flames_Can't_Hold_a_Candle_to_You "wikilink")〉。\[2\]
+《*Deconstructed*》收錄了五首原聲版（acoustic）歌曲，其中一曲翻唱自她母親Pebe Sebert所作的歌曲[Dolly Parton的](https://zh.wikipedia.org/wiki/Dolly_Parton "wikilink")〈[Old Flames Can't Hold a Candle to You](https://zh.wikipedia.org/wiki/Old_Flames_Can't_Hold_a_Candle_to_You "wikilink")〉。\[2\]
 
 ## 曲目
 
@@ -17,8 +14,7 @@ You](https://zh.wikipedia.org/wiki/Old_Flames_Can't_Hold_a_Candle_to_You "wikili
 
 ## 參考資料
 
-[Category:2012年EP](https://zh.wikipedia.org/wiki/Category:2012年EP "wikilink")
-[Category:凱莎音樂專輯](https://zh.wikipedia.org/wiki/Category:凱莎音樂專輯 "wikilink")
+[Category:2012年EP](https://zh.wikipedia.org/wiki/Category:2012年EP "wikilink") [Category:凱莎音樂專輯](https://zh.wikipedia.org/wiki/Category:凱莎音樂專輯 "wikilink")
 
 1.
 

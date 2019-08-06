@@ -60,8 +60,7 @@
 
 州议会还通过康布斯发行1000万美元债券为州立公园建设融资的提议，以改善其中住宿条件差，设施欠齐全的情况。康布斯还发行了1000万美元的营收债券，对全部26所州立公园做出重大整修。虽然他看到公园周围有私人旅游设施像雨后春笋般涌现的梦想并没有实现，但来肯塔基州旅游的州外游客在他担任州长期间增加了超过一倍，达到全部州立公园游客人数的近六成，还在所有过夜游客中占到53%。记者约翰·埃德·皮尔斯（）回忆称，肯塔基州当地人开始抱怨，公园旅游旺季里他们很难预订到行程，因此要求对州外游客人数设限，或是在预订系统中向肯塔基州人提供优先，但政府并没有就此采取过任何实际措施。\[103\]
 
-[Floral_Clock_Frankfort_KY.png](https://zh.wikipedia.org/wiki/File:Floral_Clock_Frankfort_KY.png "fig:Floral_Clock_Frankfort_KY.png")
-1961年4月10日，康布斯从州长备用资金中拨出5万美元，用于在州议会大厦的草坪上建造一个[花钟](https://zh.wikipedia.org/wiki/花钟_\(肯塔基州\) "wikilink")\[104\]。他曾在[苏格兰](https://zh.wikipedia.org/wiki/苏格兰 "wikilink")[爱丁堡](../Page/爱丁堡.md "wikilink")看到过类似的时钟，觉得这可以给州议会大厦增添更多姿彩\[105\]。哈皮·钱德勒曾在之后的选举中嘲笑这个钟，称“瞧瞧看，法兰克福再也不会说，现在是下午两点半了。他们会说，现在是两朵[矮牵牛到](../Page/碧冬茄属.md "wikilink")[智新杂草时间](../Page/曼陀罗花.md "wikilink")”\[106\]。钱德勒的嘲讽只得到了少数人的认同，据约翰·埃德·皮尔斯记载，这个花钟之后成为肯塔基州最具话题性，并且吸引游客数量最多的其中一个景点，也是法兰克福造访量最大的所在\[107\]。
+[Floral_Clock_Frankfort_KY.png](https://zh.wikipedia.org/wiki/File:Floral_Clock_Frankfort_KY.png "fig:Floral_Clock_Frankfort_KY.png") 1961年4月10日，康布斯从州长备用资金中拨出5万美元，用于在州议会大厦的草坪上建造一个[花钟](https://zh.wikipedia.org/wiki/花钟_\(肯塔基州\) "wikilink")\[104\]。他曾在[苏格兰](https://zh.wikipedia.org/wiki/苏格兰 "wikilink")[爱丁堡](../Page/爱丁堡.md "wikilink")看到过类似的时钟，觉得这可以给州议会大厦增添更多姿彩\[105\]。哈皮·钱德勒曾在之后的选举中嘲笑这个钟，称“瞧瞧看，法兰克福再也不会说，现在是下午两点半了。他们会说，现在是两朵[矮牵牛到](../Page/碧冬茄属.md "wikilink")[智新杂草时间](../Page/曼陀罗花.md "wikilink")”\[106\]。钱德勒的嘲讽只得到了少数人的认同，据约翰·埃德·皮尔斯记载，这个花钟之后成为肯塔基州最具话题性，并且吸引游客数量最多的其中一个景点，也是法兰克福造访量最大的所在\[107\]。
 
 ### 道德改革
 
@@ -81,8 +80,7 @@
 
 1964年8月，康布斯谢绝了[美国肯塔基西部联邦地区法院法官职位的提名](https://zh.wikipedia.org/wiki/美国肯塔基西部联邦地区法院 "wikilink")\[134\]。继任康布斯州长一职的内德·布里赛特任职期间，共和党人在路易··纳恩、[马洛·库克](https://zh.wikipedia.org/wiki/马洛·库克 "wikilink")（）和威廉··考格尔（）的领导下逐渐积累实力\[135\]。共和党的崛起加上民主党的宗派之争，促使州内许多知名民主党人找到康布斯，希望他再度出山竞选州长\[136\]，对此康布斯犹豫了一段时间，再于1966年10月公开宣布支持亨利·沃德（）参选\[137\]。康布斯之后在接受[历史学家乔治](https://zh.wikipedia.org/wiki/历史学家 "wikilink")··罗宾逊（）访谈时回忆称，自己有意参选，但当时因家庭方面的私人原因而放弃\[138\]。沃德在初选中轻取哈皮·钱德勒和哈里·李·沃特菲尔德，但在普选中不敌路易··纳恩\[139\]。
 
-1967年1月16日，总统林登·约翰逊提名康布斯担任联邦第六巡回上诉法院法官，接替前一年11月下旬去世的法官小沙克福尔德·米勒（）\[140\]。[联邦参议院于](https://zh.wikipedia.org/wiki/联邦参议院 "wikilink")1967年4月5日确认了这一提名\[141\]。根据联邦司法部门的规定，康布斯必须清算自己的业务和银行资产，还需要严格限制与政治熟人间的接触，来避免今后可能需要作出裁决案件中的潜在[利益冲突](https://zh.wikipedia.org/wiki/利益冲突 "wikilink")\[142\]。他曾表示对自己上任后经手的案件经常会进一步上诉到[联邦最高法院感到失望和无奈](../Page/美国最高法院.md "wikilink")，这也经常导致上诉法院的意见得不到足够的重视\[143\]。1970年6月5日，康布斯辞去法官职务，然后前往路易斯维尔，成为塔兰特、康布斯和布利特（之后更名为怀亚特、塔兰特和康布斯）律师事务所的合伙人\[144\]。
-[Wendell-H-Ford.jpg](https://zh.wikipedia.org/wiki/File:Wendell-H-Ford.jpg "fig:Wendell-H-Ford.jpg")在1971年肯塔基州州长选举民主党初选中战胜了康布斯。\]\]
+1967年1月16日，总统林登·约翰逊提名康布斯担任联邦第六巡回上诉法院法官，接替前一年11月下旬去世的法官小沙克福尔德·米勒（）\[140\]。[联邦参议院于](https://zh.wikipedia.org/wiki/联邦参议院 "wikilink")1967年4月5日确认了这一提名\[141\]。根据联邦司法部门的规定，康布斯必须清算自己的业务和银行资产，还需要严格限制与政治熟人间的接触，来避免今后可能需要作出裁决案件中的潜在[利益冲突](https://zh.wikipedia.org/wiki/利益冲突 "wikilink")\[142\]。他曾表示对自己上任后经手的案件经常会进一步上诉到[联邦最高法院感到失望和无奈](../Page/美国最高法院.md "wikilink")，这也经常导致上诉法院的意见得不到足够的重视\[143\]。1970年6月5日，康布斯辞去法官职务，然后前往路易斯维尔，成为塔兰特、康布斯和布利特（之后更名为怀亚特、塔兰特和康布斯）律师事务所的合伙人\[144\]。 [Wendell-H-Ford.jpg](https://zh.wikipedia.org/wiki/File:Wendell-H-Ford.jpg "fig:Wendell-H-Ford.jpg")在1971年肯塔基州州长选举民主党初选中战胜了康布斯。\]\]
 
 纳恩的州长任期即将结束之际，肯塔基州民主党发展出分别由副州长[温德尔·H·福特](../Page/温德尔·H·福特.md "wikilink")和[州众议院议长](https://zh.wikipedia.org/wiki/肯塔基州众议院 "wikilink")[朱利安·M·卡罗尔](https://zh.wikipedia.org/wiki/朱利安·卡罗尔 "wikilink")（）为首的两个竞争派系\[145\]。康布斯刚从联邦上诉法院辞职就马上有民主党领袖请他出马争夺1971年民主党州长候选人提名，让党派团结在他的周围，而不是分裂成福特和卡罗尔两派\[146\]。1970年6月，卡罗尔宣布自己有意参选副州长，这表明他希望康布斯成为州长\[147\]。就在康布斯还在考虑是否参选时，福特宣布加入竞争\[148\]。几天后，康布斯也正式加入\[149\]。
 
@@ -96,8 +94,7 @@
 
 ### 罗斯诉优化教育委员会案
 
-1984年10月3日，优化教育委员会领导人请求康布斯代理一起挑战肯塔基州学校融资制度的司法案件，声称州内贫穷学区受到了歧视\[164\]。康布斯觉得该案胜诉希望渺茫，还可能导致自己其他客户遭到州政府官员的报复\[165\]。他在之后表示自己并不需要这场官司，“就像一头猪（并不）需要有个侧鞍一样”。不过康布斯最终还是同意，只要优化教育委员会能说服全州30%到40%的学校董事会加入，他就接手这个案件\[166\]\[167\]。委员会最终说服了全部177个校董会中的66个加入\[168\]。康布斯无偿提供了自己的法律服务，他组成的律师团中还包括[克恩·亚历山大](https://zh.wikipedia.org/wiki/克恩·亚历山大 "wikilink")（），是一位精通教育法的肯塔基州人，将于1985年11月获指派为[西肯塔基大学校长](https://zh.wikipedia.org/wiki/西肯塔基大学 "wikilink")\[169\]。
-[Martha_Layne_Collins,_governor_of_Kentucky,_Nov_8,_1986.jpg](https://zh.wikipedia.org/wiki/File:Martha_Layne_Collins,_governor_of_Kentucky,_Nov_8,_1986.jpg "fig:Martha_Layne_Collins,_governor_of_Kentucky,_Nov_8,_1986.jpg")的教育改革未能避免肯塔基州受到优化教育委员会起诉。\]\]
+1984年10月3日，优化教育委员会领导人请求康布斯代理一起挑战肯塔基州学校融资制度的司法案件，声称州内贫穷学区受到了歧视\[164\]。康布斯觉得该案胜诉希望渺茫，还可能导致自己其他客户遭到州政府官员的报复\[165\]。他在之后表示自己并不需要这场官司，“就像一头猪（并不）需要有个侧鞍一样”。不过康布斯最终还是同意，只要优化教育委员会能说服全州30%到40%的学校董事会加入，他就接手这个案件\[166\]\[167\]。委员会最终说服了全部177个校董会中的66个加入\[168\]。康布斯无偿提供了自己的法律服务，他组成的律师团中还包括[克恩·亚历山大](https://zh.wikipedia.org/wiki/克恩·亚历山大 "wikilink")（），是一位精通教育法的肯塔基州人，将于1985年11月获指派为[西肯塔基大学校长](https://zh.wikipedia.org/wiki/西肯塔基大学 "wikilink")\[169\]。 [Martha_Layne_Collins,_governor_of_Kentucky,_Nov_8,_1986.jpg](https://zh.wikipedia.org/wiki/File:Martha_Layne_Collins,_governor_of_Kentucky,_Nov_8,_1986.jpg "fig:Martha_Layne_Collins,_governor_of_Kentucky,_Nov_8,_1986.jpg")的教育改革未能避免肯塔基州受到优化教育委员会起诉。\]\]
 
 康布斯起初试图通过立法途径解决优化教育委员会提出的问题，这样就可能无需展开诉讼\[170\]。1985年中期，州长[玛莎·莱恩·柯林斯](../Page/玛莎·莱恩·柯林斯.md "wikilink")提出一系列的教育改革方案\[171\]，并召开特别立法会议进行考量\[172\]\[173\]。议会通过征收企业[所得税筹集了](https://zh.wikipedia.org/wiki/所得税 "wikilink")3亿美元，旨在建设更多的教室，减少班级学生人数和教学负担。但是，优化教育委员会希望对整个体制做出更根本的结构性调整，认为单纯靠增加拨款不足以让其成员获得与更富裕学区平等的地位\[174\]\[175\]。最终康布斯和委员会于1985年11月20日提起诉讼，案件人称“罗斯诉优化教育委员会案”（）\[176\]。州长、教育总监、财务部长、议会[两院议长](https://zh.wikipedia.org/wiki/两院制 "wikilink")，以及所有州教育委员会成员都成为这起案件的被告\[177\]。
 
@@ -121,17 +118,7 @@
   -
 {{-}}
 
-[Category:銅星勳章獲得者](https://zh.wikipedia.org/wiki/Category:銅星勳章獲得者 "wikilink")
-[Category:肯塔基州州长](https://zh.wikipedia.org/wiki/Category:肯塔基州州长 "wikilink")
-[Category:美国民主党州长](https://zh.wikipedia.org/wiki/Category:美国民主党州长 "wikilink")
-[Category:肯塔基州民主党人](https://zh.wikipedia.org/wiki/Category:肯塔基州民主党人 "wikilink")
-[Category:肯塔基州法院法官](https://zh.wikipedia.org/wiki/Category:肯塔基州法院法官 "wikilink")
-[Category:美國檢察官](https://zh.wikipedia.org/wiki/Category:美國檢察官 "wikilink")
-[Category:肯塔基州律师](https://zh.wikipedia.org/wiki/Category:肯塔基州律师 "wikilink")
-[Category:美國第二次世界大戰軍事人物](https://zh.wikipedia.org/wiki/Category:美國第二次世界大戰軍事人物 "wikilink")
-[Category:肯塔基大學校友](https://zh.wikipedia.org/wiki/Category:肯塔基大學校友 "wikilink")
-[Category:20世纪律师](https://zh.wikipedia.org/wiki/Category:20世纪律师 "wikilink")
-[Category:美國意外身亡者](https://zh.wikipedia.org/wiki/Category:美國意外身亡者 "wikilink")
+[Category:銅星勳章獲得者](https://zh.wikipedia.org/wiki/Category:銅星勳章獲得者 "wikilink") [Category:肯塔基州州长](https://zh.wikipedia.org/wiki/Category:肯塔基州州长 "wikilink") [Category:美国民主党州长](https://zh.wikipedia.org/wiki/Category:美国民主党州长 "wikilink") [Category:肯塔基州民主党人](https://zh.wikipedia.org/wiki/Category:肯塔基州民主党人 "wikilink") [Category:肯塔基州法院法官](https://zh.wikipedia.org/wiki/Category:肯塔基州法院法官 "wikilink") [Category:美國檢察官](https://zh.wikipedia.org/wiki/Category:美國檢察官 "wikilink") [Category:肯塔基州律师](https://zh.wikipedia.org/wiki/Category:肯塔基州律师 "wikilink") [Category:美國第二次世界大戰軍事人物](https://zh.wikipedia.org/wiki/Category:美國第二次世界大戰軍事人物 "wikilink") [Category:肯塔基大學校友](https://zh.wikipedia.org/wiki/Category:肯塔基大學校友 "wikilink") [Category:20世纪律师](https://zh.wikipedia.org/wiki/Category:20世纪律师 "wikilink") [Category:美國意外身亡者](https://zh.wikipedia.org/wiki/Category:美國意外身亡者 "wikilink")
 
 1.
 
@@ -341,9 +328,7 @@
 
 185.
 186.
-187. Day, Richard E., “Bert Combs and the Council for Better Education:
-     Catalysts for School Reform,” *Register of the Kentucky Historical
-     Society* 109 (Winter 2011), 27–62
+187. Day, Richard E., “Bert Combs and the Council for Better Education: Catalysts for School Reform,” *Register of the Kentucky Historical Society* 109 (Winter 2011), 27–62
 
 188.
 

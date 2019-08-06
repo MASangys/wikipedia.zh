@@ -36,8 +36,7 @@
 
 ## 参考文献
 
-[Category:任天堂GameCube游戏](https://zh.wikipedia.org/wiki/Category:任天堂GameCube游戏 "wikilink")
-[Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
+[Category:任天堂GameCube游戏](https://zh.wikipedia.org/wiki/Category:任天堂GameCube游戏 "wikilink") [Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
 
 1.
 

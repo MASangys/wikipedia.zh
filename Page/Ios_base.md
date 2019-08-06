@@ -1,5 +1,4 @@
-**ios_base**
-是[C++標準程式庫中的一個类](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")，定义于<ios>头文件中。ios_base类封装了C++标准中的[流输入输出中不依赖于读写的数据的类型的基本信息](https://zh.wikipedia.org/wiki/iostream "wikilink")，如格式化信息、异常状态、事件回调函数等。
+**ios_base** 是[C++標準程式庫中的一個类](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")，定义于<ios>头文件中。ios_base类封装了C++标准中的[流输入输出中不依赖于读写的数据的类型的基本信息](https://zh.wikipedia.org/wiki/iostream "wikilink")，如格式化信息、异常状态、事件回调函数等。
 
 C++程序设计时，一般不会直接调用std::ios_base的成员函数，但是会经常用到该类中定义的各种流的数据格式的枚举值常量。如ios_base::hex、ios_base::skipws等等。
 
@@ -7,8 +6,7 @@ C++程序设计时，一般不会直接调用std::ios_base的成员函数，但�
 
 在类std::ios_base中，保存了下述关于流的信息：
 
-  - 格式控制信息的枚举类型fmtflags
-    ，影响到如何解释输入序列的格式、如何生成输出序列的格式，例如整数是16进制还是10进制表示，浮点数是科学计数法还是定点形式等；
+  - 格式控制信息的枚举类型fmtflags ，影响到如何解释输入序列的格式、如何生成输出序列的格式，例如整数是16进制还是10进制表示，浮点数是科学计数法还是定点形式等；
   - 流的状态的枚举类型iostate，如数据是否完整、是否到达流的末尾、是否读写失败等；
   - 流的打开方式的枚举类型openmode，如读取、写入、追加、创建时删除原内容、二进制打开、
   - 流的定位位置的枚举类型seekdir，如开始位置、当前位置、结尾位置等。
@@ -53,8 +51,7 @@ C++程序设计时，一般不会直接调用std::ios_base的成员函数，但�
 
 ## 参考文献
 
-  - [ios_base Class
-    Reference](http://gcc.gnu.org/onlinedocs/libstdc++/libstdc++-html-USERS-4.0/classstd_1_1ios__base.html)
+  - [ios_base Class Reference](http://gcc.gnu.org/onlinedocs/libstdc++/libstdc++-html-USERS-4.0/classstd_1_1ios__base.html)
 
 <references/>
 

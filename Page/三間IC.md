@@ -14,8 +14,7 @@
 
 ## 歷史
 
-  - 2012年3月10日 -
-    [松山自動車道](../Page/松山自動車道.md "wikilink")[西予宇和IC至](https://zh.wikipedia.org/wiki/西予宇和IC "wikilink")[宇和島北IC之間開通](https://zh.wikipedia.org/wiki/宇和島北IC "wikilink")，此交流道也同時啟用。
+  - 2012年3月10日 - [松山自動車道](../Page/松山自動車道.md "wikilink")[西予宇和IC至](https://zh.wikipedia.org/wiki/西予宇和IC "wikilink")[宇和島北IC之間開通](https://zh.wikipedia.org/wiki/宇和島北IC "wikilink")，此交流道也同時啟用。
 
 ## 交流道周邊
 
@@ -29,9 +28,7 @@
 ## 鄰近設施
 
   - [松山自動車道](../Page/松山自動車道.md "wikilink")
-    (22)[西予宇和IC](https://zh.wikipedia.org/wiki/西予宇和IC "wikilink") -
-    (23)**三間IC** -
-    (24)[宇和島北IC](https://zh.wikipedia.org/wiki/宇和島北IC "wikilink")
+    (22)[西予宇和IC](https://zh.wikipedia.org/wiki/西予宇和IC "wikilink") - (23)**三間IC** - (24)[宇和島北IC](https://zh.wikipedia.org/wiki/宇和島北IC "wikilink")
 
 ## 相關項目
 
@@ -41,5 +38,4 @@
 
   - [西日本高速道路](http://www.w-nexco.co.jp/)
 
-[Category:日本交流道_Mi](https://zh.wikipedia.org/wiki/Category:日本交流道_Mi "wikilink")
-[Category:愛媛縣交流道](https://zh.wikipedia.org/wiki/Category:愛媛縣交流道 "wikilink")
+[Category:日本交流道_Mi](https://zh.wikipedia.org/wiki/Category:日本交流道_Mi "wikilink") [Category:愛媛縣交流道](https://zh.wikipedia.org/wiki/Category:愛媛縣交流道 "wikilink")

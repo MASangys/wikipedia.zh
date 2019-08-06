@@ -1,5 +1,4 @@
-《**T宝的悲惨日常**》（，*wooser's hand-to-mouth
-life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wikilink")[ふじのきともこ所画的](https://zh.wikipedia.org/wiki/ふじのきともこ "wikilink")[网络漫画作品](https://zh.wikipedia.org/wiki/网络漫画 "wikilink")，改編[电视动画於](https://zh.wikipedia.org/wiki/电视动画 "wikilink")2012年10月開始放送。
+《**T宝的悲惨日常**》（，*wooser's hand-to-mouth life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wikilink")[ふじのきともこ所画的](https://zh.wikipedia.org/wiki/ふじのきともこ "wikilink")[网络漫画作品](https://zh.wikipedia.org/wiki/网络漫画 "wikilink")，改編[电视动画於](https://zh.wikipedia.org/wiki/电视动画 "wikilink")2012年10月開始放送。
 
 ## 概要
 
@@ -52,8 +51,7 @@ life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wiki
 <!-- end list -->
 
   -
-    第二季第一話登場，在超市促銷鹼性電池。2013年秋番動畫《[單色小姐 -The
-    Animation-](../Page/單色小姐_-The_Animation-.md "wikilink")》的主角。
+    第二季第一話登場，在超市促銷鹼性電池。在第三季第五话中在分为53份的T宝的带动下成功成为热门偶像。2013年秋番動畫《[單色小姐 -The Animation-](../Page/單色小姐_-The_Animation-.md "wikilink")》的主角。
 
 <!-- end list -->
 
@@ -73,8 +71,7 @@ life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wiki
 <!-- end list -->
 
   -
-    第二季第五話開場登場，2013年秋番動畫《[KILL la
-    KILL](../Page/KILL_la_KILL.md "wikilink")》的主角之一。
+    第二季第五話開場登場，2013年秋番動畫《[KILL la KILL](../Page/KILL_la_KILL.md "wikilink")》的主角之一。
 
 <!-- end list -->
 
@@ -94,8 +91,7 @@ life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wiki
 <!-- end list -->
 
   -
-    第二季第十話在開場與結尾時客串出現。2013年夏番動畫《[槍彈辯駁
-    希望學園與絕望高中生](../Page/槍彈辯駁_希望學園與絕望高中生.md "wikilink")》的主要[反派角色](https://zh.wikipedia.org/wiki/反派 "wikilink")。
+    第二季第十話在開場與結尾時客串出現。2013年夏番動畫《[槍彈辯駁 希望學園與絕望高中生](../Page/槍彈辯駁_希望學園與絕望高中生.md "wikilink")》的主要[反派角色](https://zh.wikipedia.org/wiki/反派 "wikilink")。
 
 <!-- end list -->
 
@@ -105,8 +101,17 @@ life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wiki
 <!-- end list -->
 
   -
-    第二季第十二話客串出現。遊戲《[超級槍彈辯駁2
-    再會了絕望學園](../Page/超級槍彈辯駁2_再會了絕望學園.md "wikilink")》的角色之一。
+    第二季第十二話客串出現。遊戲《[超級槍彈辯駁2 再會了絕望學園](../Page/超級槍彈辯駁2_再會了絕望學園.md "wikilink")》的角色之一。
+
+<!-- end list -->
+
+  -
+    第三季第四話客串出現，着陆时意外摧毁了T宝的家。动画电影《[乐园追放](https://zh.wikipedia.org/wiki/乐园追放 "wikilink")》的女主角。
+
+<!-- end list -->
+
+  -
+    第三季第十話客串出現。手持双剑，带着奇怪的面具，在展会里销售漫画。
 
 ## 書籍
 
@@ -123,14 +128,12 @@ life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wiki
   - 原作、人物原案 - 宇佐義大（うーさーのその日暮らし／[星海社](../Page/星海社.md "wikilink")刊）
   - 人物设定 - ふじのきともこ
   - 人物原案協力 - CHAN×CO、久世、えいひ、ajipo、カトゆー
-  - 監督 -
-    [山田豐德](https://zh.wikipedia.org/wiki/山田豐德 "wikilink")（第1季）→[瀨藤健嗣](https://zh.wikipedia.org/wiki/瀨藤健嗣 "wikilink")（第2季）
+  - 監督 - [山田豐德](https://zh.wikipedia.org/wiki/山田豐德 "wikilink")（第1季）→[瀨藤健嗣](https://zh.wikipedia.org/wiki/瀨藤健嗣 "wikilink")（第2季）
   - 系列構成、劇本 - [筆安一幸](../Page/筆安一幸.md "wikilink")（第1季）→宇佐義大、中村能子（第2季）
   - OP/ED演出 - [山本沙代](../Page/山本沙代.md "wikilink")
   - 音響監督 - 小泉紀介
   - 音樂 - 若田部誠、坂部大介
-  - 动画製作 -
-    [LIDENFILMS](../Page/LIDENFILMS.md "wikilink")、[三次元](../Page/三次元_\(動畫製作公司\).md "wikilink")
+  - 动画製作 - [LIDENFILMS](../Page/LIDENFILMS.md "wikilink")、[三次元](../Page/三次元_\(動畫製作公司\).md "wikilink")
   - 製作 - Project wooser
 
 ### 主題曲
@@ -142,9 +145,7 @@ life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wiki
   -
 
       -
-        作詞、作曲 -
-        ryo（[supercell](https://zh.wikipedia.org/wiki/supercell "wikilink")）／歌
-        - [Tia](../Page/Tia.md "wikilink")
+        作詞、作曲 - ryo（[supercell](https://zh.wikipedia.org/wiki/supercell "wikilink")）／歌 - [Tia](../Page/Tia.md "wikilink")
 
   - 第2期
 
@@ -157,9 +158,7 @@ life*）是由[宇佐義大和](https://zh.wikipedia.org/wiki/宇佐義大 "wiki
   -
 
       -
-        作詞・作曲 -
-        ryo（[supercell](https://zh.wikipedia.org/wiki/supercell "wikilink")）
-        / 歌 - [Tia](../Page/Tia.md "wikilink")
+        作詞・作曲 - ryo（[supercell](https://zh.wikipedia.org/wiki/supercell "wikilink")） / 歌 - [Tia](../Page/Tia.md "wikilink")
 
 ### 各集列表
 
@@ -447,8 +446,7 @@ kapu</p></td>
 
 ## 外部链接
 
-  - [『うーさーのその日暮らし wooser's hand-to-mouth life』 |
-    最前線](http://sai-zen-sen.jp/special/wooser/)
+  - [『うーさーのその日暮らし wooser's hand-to-mouth life』 | 最前線](http://sai-zen-sen.jp/special/wooser/)
 
   - [テレビアニメ公式サイト](http://wooser.tv/)
 
@@ -456,18 +454,9 @@ kapu</p></td>
 
   - [ニコニコ動画公式サイト](http://ch.nicovideo.jp/channel/wooser)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
-[Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink")
-[Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink")
-[Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink")
-[Category:日本網絡漫畫](https://zh.wikipedia.org/wiki/Category:日本網絡漫畫 "wikilink")
-[Category:动画短片](https://zh.wikipedia.org/wiki/Category:动画短片 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink") [Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink") [Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink") [Category:日本網絡漫畫](https://zh.wikipedia.org/wiki/Category:日本網絡漫畫 "wikilink") [Category:动画短片](https://zh.wikipedia.org/wiki/Category:动画短片 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 2.
 3.
-4.  [『うーさーのその日暮らし』がニコ動にチャンネル開設\!\!
-    配信は10月から](http://news.mynavi.jp/news/2012/09/25/132/)マイナビニュース
-    2012年9月25日
+4.  [『うーさーのその日暮らし』がニコ動にチャンネル開設\!\! 配信は10月から](http://news.mynavi.jp/news/2012/09/25/132/)マイナビニュース 2012年9月25日

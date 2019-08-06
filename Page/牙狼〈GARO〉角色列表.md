@@ -4,14 +4,12 @@
 
 ### 主要人物
 
-**冴島鋼牙（）**（[小西大樹](https://zh.wikipedia.org/wiki/小西大樹 "wikilink")\[現藝名：[小西遼生](../Page/小西遼生.md "wikilink")飾)
-童年([澤畠流星](https://zh.wikipedia.org/wiki/澤畠流星 "wikilink") 飾）
+**冴島鋼牙（）**（[小西大樹](https://zh.wikipedia.org/wiki/小西大樹 "wikilink")\[現藝名：[小西遼生](../Page/小西遼生.md "wikilink")飾) 童年([澤畠流星](https://zh.wikipedia.org/wiki/澤畠流星 "wikilink") 飾）
 
   -
     黃金騎士 牙狼（ガロ）稱號的繼承者。
     第一、二季男主角，與火羅（ホラー）戰鬥的魔戒騎士青年。
-    25歲。有著魔戒騎士最高位稱號「Garo -
-    牙狼」，以及証明其為黃金之鎧傳承一族的直系血統(黃金之鎧的騎士是可以複數存在著，但「牙狼」的稱號只能授與一人，如《魔戒之花》裡，英靈說雷牙無法繼承牙狼，而身在另一時空的鋼牙放棄稱號，雷牙才得以繼承)。愛用的魔戒劍為直刀、兩刃、無鍔的長劍。騎士的紋章是三角形。通常穿著為白外套。有著就算不穿上鎧甲也能擊倒未顯現真身的火羅的戰鬥能力。所屬為東之番犬所。在《魔戒閃騎》中，由於殲滅七隻使徒火羅的功績，成為元老院直屬的魔戒騎士。
+    25歲。有著魔戒騎士最高位稱號「Garo - 牙狼」，以及証明其為黃金之鎧傳承一族的直系血統(黃金之鎧的騎士是可以複數存在著，但「牙狼」的稱號只能授與一人，如《魔戒之花》裡，英靈說雷牙無法繼承牙狼，而身在另一時空的鋼牙放棄稱號，雷牙才得以繼承)。愛用的魔戒劍為直刀、兩刃、無鍔的長劍。騎士的紋章是三角形。通常穿著為白外套。有著就算不穿上鎧甲也能擊倒未顯現真身的火羅的戰鬥能力。所屬為東之番犬所。在《魔戒閃騎》中，由於殲滅七隻使徒火羅的功績，成為元老院直屬的魔戒騎士。
     是個外表看似冷淡，內心實則充滿熱血的青年。對食物有著嚴格的要求，喜歡的食物是玉米片，不過若是權左所做的食物還是會好好享用。
     背上有著巨大的傷痕，這是在父親大河死後與邪美一同生活時被火羅所造成。
     幼時曾與西格瑪一起受教於四十萬渡，當時代號為「白」，在接受幻影考驗時，由於無法斬殺入魔的同袍幻影，而使同袍們做下了一不成文的約定，那就是「斬殺入魔的夥伴」，而鋼牙要斬殺的對象即是西格瑪（代號「紫」）。
@@ -24,8 +22,7 @@
   -
     第一、二季女主角，為一名畫家。
 
-**冴島雷牙(さえじま らいが)**([中山麻聖](https://zh.wikipedia.org/wiki/中山麻聖 "wikilink")
-飾)
+**冴島雷牙(さえじま らいが)**([中山麻聖](https://zh.wikipedia.org/wiki/中山麻聖 "wikilink") 飾)
 
   -
     第四季男主角，黃金騎士牙狼(ガロ)稱號繼承者，號稱歷代黃金騎士中的最強者。劇中沒有明確表示其父母為誰，只有暗示其父母為鋼牙和薰。
@@ -93,9 +90,7 @@
 
 ### 番犬所
 
-**三神官(凱爾・貝爾・羅絲)（）**([渡辺けあき](https://zh.wikipedia.org/wiki/渡辺けあき "wikilink")
-、[岡本杏理](../Page/岡本杏理.md "wikilink")及[柏幸奈](../Page/柏幸奈.md "wikilink")
-飾)（配音：[井上富美子](../Page/井上富美子.md "wikilink")、[川名真知子](../Page/川名真知子.md "wikilink")及[佐藤朱](../Page/佐藤朱.md "wikilink")）
+**三神官(凱爾・貝爾・羅絲)（）**([渡辺けあき](https://zh.wikipedia.org/wiki/渡辺けあき "wikilink") 、[岡本杏理](../Page/岡本杏理.md "wikilink")及[柏幸奈](../Page/柏幸奈.md "wikilink") 飾)（配音：[井上富美子](../Page/井上富美子.md "wikilink")、[川名真知子](../Page/川名真知子.md "wikilink")及[佐藤朱](../Page/佐藤朱.md "wikilink")）
 
 **木靈（）**([マーク武蔵](https://zh.wikipedia.org/wiki/マーク武蔵 "wikilink") 飾)
 
@@ -105,8 +100,7 @@
     暗黑騎士呀(キバ)稱號擁有者。
     其真實身分為大河的弟子(バラゴ)，龍崎駈音只是他的偽名。
 
-**ジイル**([date=2019年6月](https://zh.wikipedia.org/wiki/:http:/護麻奈{{Dead_link "wikilink")(護あさな)\]\]
-飾)
+**ジイル**([date=2019年6月](https://zh.wikipedia.org/wiki/:http:/護麻奈{{Dead_link "wikilink")(護あさな)\]\] 飾)
 
   -
     第四季角色。
@@ -146,8 +140,7 @@
     第四季角色。
     擁有豐富醫學及藥物知識的魔戒法師。
 
-**毒島榮治（ぶすじま エイジ）**([哀川翔](https://zh.wikipedia.org/wiki/哀川翔 "wikilink")
-飾)
+**毒島榮治（ぶすじま エイジ）**([哀川翔](https://zh.wikipedia.org/wiki/哀川翔 "wikilink") 飾)
 
   -
     第四季角色。
@@ -174,9 +167,7 @@
     古靈精怪，善與人交際。喜歡寶石並以此作為製作魔導具的素材。
     協助流牙等人一同對抗潛藏於Volcity的魔導火羅。在澤多姆一役後，離開了Volcity，和流牙一同前往鄰近都市。
 
-**楠神哀空吏(くすがみ
-あくり)**([青木玄德](https://zh.wikipedia.org/wiki/青木玄德 "wikilink")
-飾)
+**楠神哀空吏(くすがみ あくり)**([青木玄德](https://zh.wikipedia.org/wiki/青木玄德 "wikilink") 飾)
 
   -
     魔戒騎士，天弓騎士牙射(ガイ)稱號繼承者。
@@ -189,8 +180,7 @@
     魔戒騎士，炎刃騎士漸(ゼン)稱號繼承者。
     個性魯莽，愛好女色。與楠神同樣受符禮法師徵召，來到Volcity對抗魔導火羅。
 
-**符禮法師(ぶらい ほうし)**([大友康平](https://zh.wikipedia.org/wiki/大友康平 "wikilink")
-飾)
+**符禮法師(ぶらい ほうし)**([大友康平](https://zh.wikipedia.org/wiki/大友康平 "wikilink") 飾)
 
   -
     莉杏的師父，壯年的魔戒法師。
@@ -203,9 +193,7 @@
   -
     Volcity的保安部隊SG1的隊長，其後被金城滔星變成魔導火羅。
 
-**金城滔星(かねしろ
-とうせい)**([津田寬治](https://zh.wikipedia.org/wiki/津田寬治 "wikilink")
-飾)
+**金城滔星(かねしろ とうせい)**([津田寬治](https://zh.wikipedia.org/wiki/津田寬治 "wikilink") 飾)
 
   -
     金城憲水之子。一切事件背後真正的主謀。
@@ -225,8 +213,7 @@
   -
     火群之里的魔戒法師。個性孤僻，排斥身為魔戒騎士的流牙，原因是雙親死於魔戒騎士手中。
 
-**秋月大吾(あきづき だいご)**([脇崎智史](https://zh.wikipedia.org/wiki/脇崎智史 "wikilink")
-飾)
+**秋月大吾(あきづき だいご)**([脇崎智史](https://zh.wikipedia.org/wiki/脇崎智史 "wikilink") 飾)
 
   -
     獸身騎士戲牙(ギガ)稱號繼承者。
@@ -253,9 +240,7 @@
 
 ### 其他人物
 
-**金城憲水(かねしろ
-けんすい)**([北見敏之](https://zh.wikipedia.org/wiki/北見敏之 "wikilink")
-飾)
+**金城憲水(かねしろ けんすい)**([北見敏之](https://zh.wikipedia.org/wiki/北見敏之 "wikilink") 飾)
 
   -
     金城家的掌舵人，也是Volcity的創立者。
@@ -302,11 +287,9 @@
     絕影騎士祖狼（ゾロ）稱號繼承者。
     安娜・路易斯（アンナ・ルイス）之夫。
 
-**阿方索・聖・瓦利安帖（アルフォンソ・サン・ヴァリアンテ）**（[野村勝人](https://zh.wikipedia.org/wiki/野村勝人 "wikilink")
-聲演）
+**阿方索・聖・瓦利安帖（アルフォンソ・サン・ヴァリアンテ）**（[野村勝人](https://zh.wikipedia.org/wiki/野村勝人 "wikilink") 聲演）
 
-**拉菲羅・梵諦拉斯（ラファエロ・ヴァンデラス）**（[天神英貴](https://zh.wikipedia.org/wiki/天神英貴 "wikilink")
-聲演）
+**拉菲羅・梵諦拉斯（ラファエロ・ヴァンデラス）**（[天神英貴](https://zh.wikipedia.org/wiki/天神英貴 "wikilink") 聲演）
 
   -
     堅陣騎士蓋亞（ガイア）稱號繼承者。
@@ -346,6 +329,4 @@
 
 ## 其他人物
 
-[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink")
-[Category:電視劇角色列表](https://zh.wikipedia.org/wiki/Category:電視劇角色列表 "wikilink")
-[Category:電影角色列表](https://zh.wikipedia.org/wiki/Category:電影角色列表 "wikilink")
+[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink") [Category:電視劇角色列表](https://zh.wikipedia.org/wiki/Category:電視劇角色列表 "wikilink") [Category:電影角色列表](https://zh.wikipedia.org/wiki/Category:電影角色列表 "wikilink")

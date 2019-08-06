@@ -2,23 +2,16 @@
 
 ## 故事大綱
 
-《DIVA
-華麗之後》\[1\]是一個關於都市女性追求事業與愛情的電影。在當下的大都會時代裡，情感枷鎖似乎一直都緊緊地套在絕大多數都市女性身上。事業與愛情，她們如何平衡？簡單的幸福與疲憊的奔勞，她們如何取捨？**嚴靖怡（J）**（[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
-飾）通過十年努力終於攀上樂壇天后之位，被經理人**文健新（Man）**（[杜汶澤](https://zh.wikipedia.org/wiki/杜汶澤 "wikilink")
-飾）像扯綫布偶一樣地工作，逼迫她做很多她不想做的事情，同門師妹**洪紅（Red）**（[林欣彤](../Page/林欣彤.md "wikilink")
-飾）因工作的壓力面臨與男友**樂**（[陳家樂飾](../Page/陳家樂_\(藝人\).md "wikilink")）的感情紅燈，一次J往大陸工作認識了盲人按摩師**胡明**（[胡歌](../Page/胡歌.md "wikilink")飾）令她的生活開始改變...
+《DIVA 華麗之後》\[1\]是一個關於都市女性追求事業與愛情的電影。在當下的大都會時代裡，情感枷鎖似乎一直都緊緊地套在絕大多數都市女性身上。事業與愛情，她們如何平衡？簡單的幸福與疲憊的奔勞，她們如何取捨？**嚴靖怡（J）**（[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink") 飾）通過十年努力終於攀上樂壇天后之位，被經理人**文健新（Man）**（[杜汶澤](https://zh.wikipedia.org/wiki/杜汶澤 "wikilink") 飾）像扯綫布偶一樣地工作，逼迫她做很多她不想做的事情，同門師妹**洪紅（Red）**（[林欣彤](../Page/林欣彤.md "wikilink") 飾）因工作的壓力面臨與男友**樂**（[陳家樂飾](../Page/陳家樂_\(藝人\).md "wikilink")）的感情紅燈，一次J往大陸工作認識了盲人按摩師**胡明**（[胡歌](../Page/胡歌.md "wikilink")飾）令她的生活開始改變...
 
-娛樂圈生活璀璨絢麗，不少人渴望成為銀幕上一顆明亮的星，大眾對藝人的私生活充滿好奇心，他們的一舉一動分秒成為大眾窺探的對象。由容祖兒、林欣彤、杜汶澤領銜主演，麥曦茵執導的《DIVA華麗之後》探究一位萬人景仰的天后背後不為人知的生活，同時借初出道的女新人的故事，以及藝人與經理人之間的複雜關係，讓觀眾了解藝人風光背後，為成名付出多少代價。
-故事由一件登台的名貴歌衫開始，樂壇金牌經理人Man(杜汶澤飾)為旗下歌手J嚴靖怡(容祖兒飾)的演唱會，以卑鄙手段從另一女歌手Fi(薛凱琪飾)手上搶走這件歌衫。貴為天后J，歌唱事業如日方中，多年來卻在Man的監督下犧牲了私人感情，直至在內地工作時遇上了盲人推拿師胡明(胡歌飾)。另一邊廂，熱愛唱歌的Red(林欣彤飾)被Man發掘出道，但隨著知名度愈來愈高，她與男友阿樂(陳家樂飾)的感情備受考驗，這時Man再次出招，逼Red與男友分手……
+娛樂圈生活璀璨絢麗，不少人渴望成為銀幕上一顆明亮的星，大眾對藝人的私生活充滿好奇心，他們的一舉一動分秒成為大眾窺探的對象。由容祖兒、林欣彤、杜汶澤領銜主演，麥曦茵執導的《DIVA華麗之後》探究一位萬人景仰的天后背後不為人知的生活，同時借初出道的女新人的故事，以及藝人與經理人之間的複雜關係，讓觀眾了解藝人風光背後，為成名付出多少代價。 故事由一件登台的名貴歌衫開始，樂壇金牌經理人Man(杜汶澤飾)為旗下歌手J嚴靖怡(容祖兒飾)的演唱會，以卑鄙手段從另一女歌手Fi(薛凱琪飾)手上搶走這件歌衫。貴為天后J，歌唱事業如日方中，多年來卻在Man的監督下犧牲了私人感情，直至在內地工作時遇上了盲人推拿師胡明(胡歌飾)。另一邊廂，熱愛唱歌的Red(林欣彤飾)被Man發掘出道，但隨著知名度愈來愈高，她與男友阿樂(陳家樂飾)的感情備受考驗，這時Man再次出招，逼Red與男友分手……
 
-《DIVA華麗之後》可算是為Joey量身打造之作，劇本中女主角經歷過失聲、感情挫折，均與歌者有相似的地方，電影其中一幕她再穿上《Concert
-Number6》演唱過穿過價值不菲的潑水裝，不禁令觀眾聯想到J就是Joey本人。麥曦茵編而優則導，2011年憑《志明與春嬌》獲得香港電影金像獎最佳編劇，此作是她自《烈日當空》和《前度》後第三部長篇電影。
+《DIVA華麗之後》可算是為Joey量身打造之作，劇本中女主角經歷過失聲、感情挫折，均與歌者有相似的地方，電影其中一幕她再穿上《Concert Number6》演唱過穿過價值不菲的潑水裝，不禁令觀眾聯想到J就是Joey本人。麥曦茵編而優則導，2011年憑《志明與春嬌》獲得香港電影金像獎最佳編劇，此作是她自《烈日當空》和《前度》後第三部長篇電影。
 
 ## 演員表
 
   - **[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")** 飾 **嚴靖怡**（J）
-  - **[杜汶澤](https://zh.wikipedia.org/wiki/杜汶澤 "wikilink")** 飾
-    **文健新**（Man）
+  - **[杜汶澤](https://zh.wikipedia.org/wiki/杜汶澤 "wikilink")** 飾 **文健新**（Man）
   - **[胡歌](../Page/胡歌.md "wikilink")** 飾 **胡明**
   - **[林欣彤](../Page/林欣彤.md "wikilink")** 飾 **洪紅**（Red）
   - [陳家樂](../Page/陳家樂_\(藝人\).md "wikilink") 飾 樂
@@ -43,14 +36,10 @@ Number6》演唱過穿過價值不菲的潑水裝，不禁令觀眾聯想到J就
 
 ## 獎項
 
-  - **[香港電影評論學會](https://zh.wikipedia.org/wiki/香港電影評論學會 "wikilink") -
-    最佳男演員 杜汶澤**
-  - [第32屆香港電影金像獎](https://zh.wikipedia.org/wiki/第32屆香港電影金像獎 "wikilink")
-    - 最佳男配角提名 杜汶澤
-  - [第32屆香港電影金像獎](https://zh.wikipedia.org/wiki/第32屆香港電影金像獎 "wikilink")
-    - 最佳原創歌曲提名 容祖兒、林欣彤《追風箏的風箏》
-  - [第32屆香港電影金像獎](https://zh.wikipedia.org/wiki/第32屆香港電影金像獎 "wikilink")
-    - 最佳原創電影音樂提名 林二汶、李端嫻
+  - **[香港電影評論學會](https://zh.wikipedia.org/wiki/香港電影評論學會 "wikilink") - 最佳男演員 杜汶澤**
+  - [第32屆香港電影金像獎](https://zh.wikipedia.org/wiki/第32屆香港電影金像獎 "wikilink") - 最佳男配角提名 杜汶澤
+  - [第32屆香港電影金像獎](https://zh.wikipedia.org/wiki/第32屆香港電影金像獎 "wikilink") - 最佳原創歌曲提名 容祖兒、林欣彤《追風箏的風箏》
+  - [第32屆香港電影金像獎](https://zh.wikipedia.org/wiki/第32屆香港電影金像獎 "wikilink") - 最佳原創電影音樂提名 林二汶、李端嫻
 
 ## 評價
 
@@ -76,11 +65,7 @@ Number6》演唱過穿過價值不菲的潑水裝，不禁令觀眾聯想到J就
   -
   -
   -
-[Category:粵語電影](https://zh.wikipedia.org/wiki/Category:粵語電影 "wikilink")
-[Category:2010年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2010年代香港電影作品 "wikilink")
-[Category:英皇電影](https://zh.wikipedia.org/wiki/Category:英皇電影 "wikilink")
-[Category:香港劇情片](https://zh.wikipedia.org/wiki/Category:香港劇情片 "wikilink")
-[Category:麥曦茵電影](https://zh.wikipedia.org/wiki/Category:麥曦茵電影 "wikilink")
+[Category:粵語電影](https://zh.wikipedia.org/wiki/Category:粵語電影 "wikilink") [Category:2010年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2010年代香港電影作品 "wikilink") [Category:英皇電影](https://zh.wikipedia.org/wiki/Category:英皇電影 "wikilink") [Category:香港劇情片](https://zh.wikipedia.org/wiki/Category:香港劇情片 "wikilink") [Category:麥曦茵電影](https://zh.wikipedia.org/wiki/Category:麥曦茵電影 "wikilink")
 
 1.  [1](https://www.facebook.com/DIVA0817)
 2.

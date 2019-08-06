@@ -1,5 +1,4 @@
-《**Docking48**》（）是2011年4月19日開始在[關西電視台](../Page/關西電視台.md "wikilink")（[關西地方](https://zh.wikipedia.org/wiki/關西地方 "wikilink")）每週星期二24:35
-- 25:30\[1\] 播放的[綜藝節目](../Page/綜藝節目.md "wikilink")。
+《**Docking48**》（）是2011年4月19日開始在[關西電視台](../Page/關西電視台.md "wikilink")（[關西地方](https://zh.wikipedia.org/wiki/關西地方 "wikilink")）每週星期二24:35 - 25:30\[1\] 播放的[綜藝節目](../Page/綜藝節目.md "wikilink")。
 
 ## 出演者
 
@@ -1145,66 +1144,48 @@
 
   - 2010年10月度：[土屋安娜](../Page/土屋安娜.md "wikilink")『Believe in Love』
   - 2010年11月度：[bump.y](https://zh.wikipedia.org/wiki/bump.y "wikilink")『[2人の星〜離れていても〜](https://zh.wikipedia.org/wiki/2人の星〜離れていても〜 "wikilink")』
-  - 2010年12月度：[三代目J Soul
-    Brothers](../Page/J_Soul_Brothers.md "wikilink")『[On Your
-    Mark〜ヒカリのキセキ〜](https://zh.wikipedia.org/wiki/On_Your_Mark〜ヒカリのキセキ〜 "wikilink")』
-  - 2011年1月度：[凱蒂·佩芮](../Page/凱蒂·佩芮.md "wikilink") feat.
-    [史努比狗狗](../Page/史努比狗狗.md "wikilink")『カリフォルニア・ガールズ』
+  - 2010年12月度：[三代目J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")『[On Your Mark〜ヒカリのキセキ〜](https://zh.wikipedia.org/wiki/On_Your_Mark〜ヒカリのキセキ〜 "wikilink")』
+  - 2011年1月度：[凱蒂·佩芮](../Page/凱蒂·佩芮.md "wikilink") feat. [史努比狗狗](../Page/史努比狗狗.md "wikilink")『カリフォルニア・ガールズ』
   - 2011年2月度：[ももちひろこ](https://zh.wikipedia.org/wiki/ももちひろこ "wikilink")『明日、キミと手をつなぐよ』
   - 2011年3月度：bump.y『卒業までに…』
-  - 2011年4月5日：[Not yet](../Page/Not_yet.md "wikilink")『[週末Not
-    yet](../Page/週末Not_yet.md "wikilink")』
-  - 2011年4月19日・26日：[Lady
-    Gaga](../Page/Lady_Gaga.md "wikilink")『ボーン・ディス・ウェイ』
-  - 2011年5月3日 -
-    5月31日：[黑夢](https://zh.wikipedia.org/wiki/黑夢 "wikilink")『アロン』
-  - 2011年6月7日 -
-    6月28日：[SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")『MAX\!乙女心』
+  - 2011年4月5日：[Not yet](../Page/Not_yet.md "wikilink")『[週末Not yet](../Page/週末Not_yet.md "wikilink")』
+  - 2011年4月19日・26日：[Lady Gaga](../Page/Lady_Gaga.md "wikilink")『ボーン・ディス・ウェイ』
+  - 2011年5月3日 - 5月31日：[黑夢](https://zh.wikipedia.org/wiki/黑夢 "wikilink")『アロン』
+  - 2011年6月7日 - 6月28日：[SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")『MAX\!乙女心』
   - 2011年7月5日 - 9月13日：NMB48『[絕滅黑髮少女](../Page/絕滅黑髮少女.md "wikilink")』
-  - 2011年9月20日 - 12月27日：NMB48『[Oh My
-    God\!](../Page/Oh_My_God!.md "wikilink")』
+  - 2011年9月20日 - 12月27日：NMB48『[Oh My God\!](../Page/Oh_My_God!.md "wikilink")』
   - 2012年1月10日 - 4月17日：NMB48『[純情U-19](../Page/純情U-19.md "wikilink")』
   - 2012年2月7日・14日：[安田奈央](https://zh.wikipedia.org/wiki/安田奈央 "wikilink")『真夜中のひだまり』\[5\]
   - 2012年2月21日・28日：[FLOWER](https://zh.wikipedia.org/wiki/FLOWER_\(組合\) "wikilink")『SAKURAリグレット』\[6\]
   - 2012年3月6日・13日：back number『恋』\[7\]
-  - 2012年3月20日・27日：[Acid Black
-    Cherry](https://zh.wikipedia.org/wiki/Acid_Black_Cherry "wikilink")『イエス』\[8\]
-  - 2012年4月24日 -
-    7月10日：NMB48『[海邊之最](https://zh.wikipedia.org/wiki/海邊之最 "wikilink")』
+  - 2012年3月20日・27日：[Acid Black Cherry](https://zh.wikipedia.org/wiki/Acid_Black_Cherry "wikilink")『イエス』\[8\]
+  - 2012年4月24日 - 7月10日：NMB48『[海邊之最](https://zh.wikipedia.org/wiki/海邊之最 "wikilink")』
   - 2012年7月10日・17日：[中村一義](https://zh.wikipedia.org/wiki/中村一義 "wikilink")『運命』\[9\]
-  - 2012年7月17日 -
-    10月9日:NMB48『[Virginity](../Page/Virginity.md "wikilink")』
-  - 2012年10月16日 -
-    2013年1月29日:NMB48『[北川謙二](../Page/北川謙二_\(單曲\).md "wikilink")』
-  - 2013年2月5日 -
-    2月26日:NMB48･1st專輯『[尖端頂點之上\!](https://zh.wikipedia.org/wiki/尖端頂點之上! "wikilink")』收錄曲･「[12月31日](http://ja.wikipedia.org/wiki/%E3%81%A6%E3%81%A3%E3%81%BA%E3%82%93%E3%81%A8%E3%81%A3%E3%81%9F%E3%82%93%E3%81%A7!#12.E6.9C.8831.E6.97.A5)」(MV)
+  - 2012年7月17日 - 10月9日:NMB48『[Virginity](../Page/Virginity.md "wikilink")』
+  - 2012年10月16日 - 2013年1月29日:NMB48『[北川謙二](../Page/北川謙二_\(單曲\).md "wikilink")』
+  - 2013年2月5日 - 2月26日:NMB48･1st專輯『[尖端頂點之上\!](https://zh.wikipedia.org/wiki/尖端頂點之上! "wikilink")』收錄曲･「[12月31日](http://ja.wikipedia.org/wiki/%E3%81%A6%E3%81%A3%E3%81%BA%E3%82%93%E3%81%A8%E3%81%A3%E3%81%9F%E3%82%93%E3%81%A7!#12.E6.9C.8831.E6.97.A5)」(MV)
   - 2013年3月5日 - 3月26日:NMB48･1st專輯『尖端頂點之上\!』收錄曲･「12月31日」(スタジオライブ)
 
 ## 環節曲
 
   - 目指せ\!ゴール\!チャレンジ48
-      - 2012年4月19日 -
-        :NMB48『\[<http://ja.wikipedia.org/wiki/%E3%83%81%E3%83%BC%E3%83%A0A_3rd_Stage%E3%80%8C%E8%AA%B0%E3%81%8B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E3%80%8D#NMB48>　NMB48\]』
-        NMB48 チームN 1st Stage「誰かのために」公演曲
+      - 2012年4月19日 - :NMB48『\[<http://ja.wikipedia.org/wiki/%E3%83%81%E3%83%BC%E3%83%A0A_3rd_Stage%E3%80%8C%E8%AA%B0%E3%81%8B%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AB%E3%80%8D#NMB48>　NMB48\]』 NMB48 チームN 1st Stage「誰かのために」公演曲
 
 ## 相關商品
 
 ### DVD
 
-  - どっキング48 presents
-    NMB48のチャレンジ48（2011年11月29日發售、[よしもとアール・アンド・シー](https://zh.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")）
+  - どっキング48 presents NMB48のチャレンジ48（2011年11月29日發售、[よしもとアール・アンド・シー](https://zh.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")）
   - どっキング48 presents NMB48のチャレンジ48 Vol.2（2012年10月9日發售、よしもとアール・アンド・シー）
 
 ## 備註
 
 ## 外部連結
 
-  - [関西テレビ放送
-    どっキング48](https://web.archive.org/web/20120723052348/http://www.ktv.jp/docking/index.html)
+  - [関西テレビ放送 どっキング48](https://web.archive.org/web/20120723052348/http://www.ktv.jp/docking/index.html)
 
   -
-[Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink")
-[Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
+[Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink") [Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
 
 1.
 
@@ -1214,11 +1195,9 @@
 
 4.  因専念学業，2012年9月28日從NMB48畢業，攝影因事前收錄畢業後亦有在10月16日放送繼續出演。
 
-5.  「最新情報をお届け
-    めぐみのチャレンジだもん\!」終了時に流れる。これとは別に、スタジオパート終了時には引き続きNMB48『純情U-19』が流れている。
+5.  「最新情報をお届け めぐみのチャレンジだもん\!」終了時に流れる。これとは別に、スタジオパート終了時には引き続きNMB48『純情U-19』が流れている。
 
 6.
 7.
 8.
-9.  「最新情報をお届け
-    めぐみのチャレンジだもん\!」終了時に流れる。これとは別に、スタジオパート終了時には引き続き10日放送分ではNMB48『ナギイチ』、17日放送分では『ヴァージニティー』が流れている。
+9.  「最新情報をお届け めぐみのチャレンジだもん\!」終了時に流れる。これとは別に、スタジオパート終了時には引き続き10日放送分ではNMB48『ナギイチ』、17日放送分では『ヴァージニティー』が流れている。

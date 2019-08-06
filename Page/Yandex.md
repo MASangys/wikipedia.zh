@@ -1,12 +1,12 @@
+[](https://zh.wikipedia.org/wiki/ "wikilink")
+
 **Yandex**（，）是一家[俄罗斯](../Page/俄罗斯.md "wikilink")[互联网](../Page/互联网.md "wikilink")企业，旗下的[搜索引擎](../Page/搜索引擎.md "wikilink")在俄国内拥有逾60%的市场占有率，\[1\]同时也提供其他的一系列互联网产品和服务。数据显示，Yandex是目前世界第五大搜索引擎：在2012年4月，平均每日的搜索量超过1.5亿次；5月份，每日访客（包括搜索以外的业务）超过2550万。\[2\]公司的企业使命是为有着任何（明确的或含蓄的）问题的用户提供答案。\[3\]
 
 Yandex的[主页Yandex](https://zh.wikipedia.org/wiki/主页 "wikilink").ru是俄罗斯访问量最高的网址，\[4\]同时也在[白俄罗斯](../Page/白俄罗斯.md "wikilink")、[哈萨克斯坦](../Page/哈萨克斯坦.md "wikilink")、[乌克兰](../Page/乌克兰.md "wikilink")和[土耳其](../Page/土耳其.md "wikilink")运营，\[5\]而且吸引着超过5600万其他国家的用户使用。\[6\]
 
 ## 历史
 
-[Arkadii_volozh.jpg](https://zh.wikipedia.org/wiki/File:Arkadii_volozh.jpg "fig:Arkadii_volozh.jpg")，阿卡迪·沃罗兹。\]\]
-[Segalovich_Ilya_at_MIPT_2010_DSC5517.jpg](https://zh.wikipedia.org/wiki/File:Segalovich_Ilya_at_MIPT_2010_DSC5517.jpg "fig:Segalovich_Ilya_at_MIPT_2010_DSC5517.jpg")。\]\]
-关于Yandex的前身可以追溯到1990年[阿卡迪·沃罗兹和](https://zh.wikipedia.org/wiki/阿卡迪·沃罗兹 "wikilink")[阿卡迪·波卡维斯基创建了阿卡迪公司](https://zh.wikipedia.org/wiki/阿卡迪·波卡维斯基 "wikilink")，专门开发[微软](../Page/微软.md "wikilink")[DOS](../Page/DOS.md "wikilink")用于对专利和产品分类。他们的软件产品可以支持俄语的语法进行全文搜索。三年后，阿卡迪公司被收购，但依旧在从事搜索技术的开发，并发布了可在[圣经和俄文著作中进行搜索的软件](https://zh.wikipedia.org/wiki/圣经 "wikilink")。\[7\]
+[Arkadii_volozh.jpg](https://zh.wikipedia.org/wiki/File:Arkadii_volozh.jpg "fig:Arkadii_volozh.jpg")，阿卡迪·沃罗兹。\]\] [Segalovich_Ilya_at_MIPT_2010_DSC5517.jpg](https://zh.wikipedia.org/wiki/File:Segalovich_Ilya_at_MIPT_2010_DSC5517.jpg "fig:Segalovich_Ilya_at_MIPT_2010_DSC5517.jpg")。\]\] 关于Yandex的前身可以追溯到1990年[阿卡迪·沃罗兹和](https://zh.wikipedia.org/wiki/阿卡迪·沃罗兹 "wikilink")[阿卡迪·波卡维斯基创建了阿卡迪公司](https://zh.wikipedia.org/wiki/阿卡迪·波卡维斯基 "wikilink")，专门开发[微软](../Page/微软.md "wikilink")[DOS](../Page/DOS.md "wikilink")用于对专利和产品分类。他们的软件产品可以支持俄语的语法进行全文搜索。三年后，阿卡迪公司被收购，但依旧在从事搜索技术的开发，并发布了可在[圣经和俄文著作中进行搜索的软件](https://zh.wikipedia.org/wiki/圣经 "wikilink")。\[7\]
 
 1993年，阿卡迪·沃罗兹同老同学[伊亚·塞加洛维奇一起开发了一款新的搜索引擎](https://zh.wikipedia.org/wiki/伊亚·塞加洛维奇 "wikilink")，决定用“Yandex”来命名。\[8\]1997年9月23日，域名为yandex.ru的搜索引擎上线，并在[莫斯科](../Page/莫斯科.md "wikilink")softool展览上公开亮相。2000年，沃罗兹成立了独立的Yandex公司。\[9\]公司的收入主要来自于在线广告业务。1998年，Yandex推出搜索引擎的[文本关联广告](https://zh.wikipedia.org/wiki/文本关联广告 "wikilink")；2001年又推出Yandex.Direct关键词广告。\[10\]
 
@@ -24,14 +24,12 @@ Yandex的[主页Yandex](https://zh.wikipedia.org/wiki/主页 "wikilink").ru是�
 
 ## 参见
 
-  - [ClickHouse](https://zh.wikipedia.org/wiki/ClickHouse "wikilink")
+  - [ClickHouse](../Page/ClickHouse.md "wikilink")
   - [公共域名解析服务](../Page/公共域名解析服务.md "wikilink")
 
 ## 参考来源
 
-[Category:搜索引擎](https://zh.wikipedia.org/wiki/Category:搜索引擎 "wikilink")
-[Category:俄罗斯互联网](https://zh.wikipedia.org/wiki/Category:俄罗斯互联网 "wikilink")
-[Category:俄羅斯網站](https://zh.wikipedia.org/wiki/Category:俄羅斯網站 "wikilink")
+[Category:搜索引擎](https://zh.wikipedia.org/wiki/Category:搜索引擎 "wikilink") [Category:俄罗斯互联网](https://zh.wikipedia.org/wiki/Category:俄罗斯互联网 "wikilink") [Category:俄羅斯網站](https://zh.wikipedia.org/wiki/Category:俄羅斯網站 "wikilink")
 
 1.
 
@@ -49,10 +47,7 @@ Yandex的[主页Yandex](https://zh.wikipedia.org/wiki/主页 "wikilink").ru是�
 
 8.
 
-9.  [About Yandex — History of
-    Yandex](http://company.yandex.com/general_info/history.xml).
-    Retrieved May 24, 2011.[Archived
-    copy](https://www.webcitation.org/5yvl8XgIr?url=http://company.yandex.com/general_info/history.xml?ncrnd=715).
+9.  [About Yandex — History of Yandex](http://company.yandex.com/general_info/history.xml). Retrieved May 24, 2011.[Archived copy](https://www.webcitation.org/5yvl8XgIr?url=http://company.yandex.com/general_info/history.xml?ncrnd=715).
 
 10.
 11.
@@ -71,6 +66,4 @@ Yandex的[主页Yandex](https://zh.wikipedia.org/wiki/主页 "wikilink").ru是�
 18.
 19.
 
-20. [Yandex Keeps On Beating Google In
-    Russia](http://searchengineland.com/yandex-keeps-on-beating-google-in-russia-62186),
-    Search Engine Land
+20. [Yandex Keeps On Beating Google In Russia](http://searchengineland.com/yandex-keeps-on-beating-google-in-russia-62186), Search Engine Land

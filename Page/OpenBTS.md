@@ -8,6 +8,4 @@
   - [OpenBTS部落格](http://openbts.blogspot.com/)
   - [Range Networks, Inc. web site](http://www.rangenetworks.com/)
 
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink")
-[Category:GSM標準](https://zh.wikipedia.org/wiki/Category:GSM標準 "wikilink")
+[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:用C++編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C++編程的自由軟體 "wikilink") [Category:GSM標準](https://zh.wikipedia.org/wiki/Category:GSM標準 "wikilink")

@@ -48,14 +48,6 @@
 
 ## 外部連結
 
-  - [SPEC〜警視庁公安部公安第五課 未詳事件特別対策係事件簿〜 -
-    TBS](http://www.tbs.co.jp/spec2010/)
+  - [SPEC〜警視庁公安部公安第五課 未詳事件特別対策係事件簿〜 - TBS](http://www.tbs.co.jp/spec2010/)
 
-[Category:SPEC](https://zh.wikipedia.org/wiki/Category:SPEC "wikilink")
-[Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink")
-[Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
-[Category:TBS特別劇集](https://zh.wikipedia.org/wiki/Category:TBS特別劇集 "wikilink")
-[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink")
-[Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink")
-[Category:電視劇前傳](https://zh.wikipedia.org/wiki/Category:電視劇前傳 "wikilink")
-[Category:東京國際戲劇節優秀單發劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀單發劇獲獎作品 "wikilink")
+[Category:SPEC](https://zh.wikipedia.org/wiki/Category:SPEC "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink") [Category:TBS特別劇集](https://zh.wikipedia.org/wiki/Category:TBS特別劇集 "wikilink") [Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink") [Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink") [Category:電視劇前傳](https://zh.wikipedia.org/wiki/Category:電視劇前傳 "wikilink") [Category:東京國際戲劇節優秀單發劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀單發劇獲獎作品 "wikilink")

@@ -1,5 +1,4 @@
-**寶石寵物 Sunshine角色列表**介紹《[寶石寵物
-Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")》中的角色。
+**寶石寵物 Sunshine角色列表**介紹《[寶石寵物 Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")》中的角色。
 
 ## 寶石寵物
 
@@ -354,15 +353,13 @@ Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")》中的角色。
 
   -
     [配音員](../Page/配音員.md "wikilink")：日本：[逢澤由理香](../Page/逢澤由理香.md "wikilink")／香港：[凌晞](../Page/凌晞.md "wikilink")
-    全名是「瑪麗・安東華利度・約瑟・祖妮・杜・羅妮奴・杜利殊（Marie Antoinette Josepha Jeanne De
-    Lorraine Dorish）」。
+    全名是「瑪麗・安東華利度・約瑟・祖妮・杜・羅妮奴・杜利殊（Marie Antoinette Josepha Jeanne De Lorraine Dorish）」。
 
 <!-- end list -->
 
   -
     [配音員](../Page/配音員.md "wikilink")：日本：寺島淳太
-    全名是「[祖其姆祖其姆 維洛斯利基力 佳查利斯伊基洛 斯以高馬斯 フウライマツ クウネルトコロニスムトコロ パイポパイポノ
-    シューリンガンノ チョウキュウメイノ チョウスケ](../Page/壽限無.md "wikilink")」。
+    全名是「[祖其姆祖其姆 維洛斯利基力 佳查利斯伊基洛 斯以高馬斯 フウライマツ クウネルトコロニスムトコロ パイポパイポノ シューリンガンノ チョウキュウメイノ チョウスケ](../Page/壽限無.md "wikilink")」。
 
 ### 3年玫瑰班
 
@@ -481,5 +478,4 @@ Sunshine](../Page/寶石寵物_Sunshine.md "wikilink")》中的角色。
   - [寶石寵物 (第一季)角色列表](../Page/寶石寵物_\(第一季\)角色列表.md "wikilink")
   - [寶石寵物 Twinkle☆角色列表](../Page/寶石寵物_Twinkle☆角色列表.md "wikilink")
 
-[Category:寶石寵物](https://zh.wikipedia.org/wiki/Category:寶石寵物 "wikilink")
-[Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
+[Category:寶石寵物](https://zh.wikipedia.org/wiki/Category:寶石寵物 "wikilink") [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")

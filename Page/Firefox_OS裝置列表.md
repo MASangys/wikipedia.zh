@@ -1,5 +1,4 @@
-此條目收錄使用由[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")所開發的[Firefox
-OS作業系統裝置](../Page/Firefox_OS.md "wikilink")。
+此條目收錄使用由[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")所開發的[Firefox OS作業系統裝置](../Page/Firefox_OS.md "wikilink")。
 
 ## 智慧型手機
 
@@ -531,14 +530,12 @@ OS作業系統裝置](../Page/Firefox_OS.md "wikilink")。
 
 ## 外部链接
 
-  - [Firefox OS - Devices &
-    Availability](http://www.mozilla.org/en-US/firefox/os/devices/)
+  - [Firefox OS - Devices & Availability](http://www.mozilla.org/en-US/firefox/os/devices/)
   - [Firefox OS官方網站](http://www.mozilla.org/firefoxos/)
 
 {{-}}
 
-[Category:Firefox_OS設備](https://zh.wikipedia.org/wiki/Category:Firefox_OS設備 "wikilink")
-[Category:信息技术相关列表](https://zh.wikipedia.org/wiki/Category:信息技术相关列表 "wikilink")
+[Category:Firefox_OS設備](https://zh.wikipedia.org/wiki/Category:Firefox_OS設備 "wikilink") [Category:信息技术相关列表](https://zh.wikipedia.org/wiki/Category:信息技术相关列表 "wikilink")
 
 1.
 

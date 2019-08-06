@@ -24,13 +24,8 @@
 
   - [DJMAX RAY官方网页](http://www.pmangplus.com/globalgames/djmax/eng)
 
-  - [《DJMAX
-    RAY》](http://itunes.apple.com/us/app/djmax-ray-by-neowiz/id543439937?mt=8)在[苹果App
-    Store的介绍](../Page/App_Store_\(iOS\).md "wikilink")
+  - [《DJMAX RAY》](http://itunes.apple.com/us/app/djmax-ray-by-neowiz/id543439937?mt=8)在[苹果App Store的介绍](../Page/App_Store_\(iOS\).md "wikilink")
 
   -
   -
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink")
-[Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")
+[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")

@@ -1,6 +1,4 @@
-**Channel
-A周末特別企劃劇**（），是逢[星期六](../Page/星期六.md "wikilink")、[星期日](../Page/星期日.md "wikilink")韓國晚間7點50分在[Channel
-A電視台播映的電視劇](../Page/Channel_A.md "wikilink")。
+**Channel A周末特別企劃劇**（），是逢[星期六](../Page/星期六.md "wikilink")、[星期日](../Page/星期日.md "wikilink")韓國晚間7點50分在[Channel A電視台播映的電視劇](../Page/Channel_A.md "wikilink")。
 
 ## 作品列表
 
@@ -132,7 +130,4 @@ A電視台播映的電視劇](../Page/Channel_A.md "wikilink")。
 </tbody>
 </table>
 
-[Category:Channel_A周末特別企劃劇](https://zh.wikipedia.org/wiki/Category:Channel_A周末特別企劃劇 "wikilink")
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:Channel_A周末特別企劃劇](https://zh.wikipedia.org/wiki/Category:Channel_A周末特別企劃劇 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

@@ -19,9 +19,6 @@ up为“upload”（上传）的缩写，UP = =upload，主=本人，up主的意
 
 [Category:互联网用语](https://zh.wikipedia.org/wiki/Category:互联网用语 "wikilink")
 
-1.  {{ Cite web |url = <http://dic.nicovideo.jp/a/%E3%81%86p%E4%B8%BB>
-    |script-title = ja:うｐ主とは (ウプヌシとは) \[単語記事\] - ニコニコ大百科 |author = |date
-    = |publisher = |language = ja |accessdate = 2014-10-02 |format=
-    |quote = |archiveurl= |archivedate= }}
+1.  {{ Cite web |url = <http://dic.nicovideo.jp/a/%E3%81%86p%E4%B8%BB> |script-title = ja:うｐ主とは (ウプヌシとは) \[単語記事\] - ニコニコ大百科 |author = |date = |publisher = |language = ja |accessdate = 2014-10-02 |format= |quote = |archiveurl= |archivedate= }}
 2.
 3.

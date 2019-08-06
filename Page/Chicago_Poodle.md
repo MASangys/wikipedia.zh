@@ -1,6 +1,4 @@
-**Chicago
-Poodle**是一个[日本](../Page/日本.md "wikilink")三人组合[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")，唱片公司為[GIZA
-studio](../Page/GIZA_studio.md "wikilink")，以[关西為据点](https://zh.wikipedia.org/wiki/关西 "wikilink")。
+**Chicago Poodle**是一个[日本](../Page/日本.md "wikilink")三人组合[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")，唱片公司為[GIZA studio](../Page/GIZA_studio.md "wikilink")，以[关西為据点](https://zh.wikipedia.org/wiki/关西 "wikilink")。
 
 ## 经历
 

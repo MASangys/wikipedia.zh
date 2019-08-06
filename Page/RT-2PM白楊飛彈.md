@@ -1,6 +1,4 @@
-RT-2PM 白楊(俄文:РТ-2ПМ
-Тополь)是由[蘇聯設計的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[洲際彈道飛彈](../Page/洲際彈道飛彈.md "wikilink")，并且在蘇聯[战略火箭军服役](https://zh.wikipedia.org/wiki/战略火箭军 "wikilink").北约代号为SS-25鐮刀，GRAU代号為15Ж58(15Zh58)，其他的名稱為RS-12M。
-[缩略图](https://zh.wikipedia.org/wiki/File:SS-25_Sickle_in_Siberia.jpg "fig:缩略图")
+RT-2PM 白楊(俄文:РТ-2ПМ Тополь)是由[蘇聯設計的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[洲際彈道飛彈](../Page/洲際彈道飛彈.md "wikilink")，并且在蘇聯[战略火箭军服役](https://zh.wikipedia.org/wiki/战略火箭军 "wikilink").北约代号为SS-25鐮刀，GRAU代号為15Ж58(15Zh58)，其他的名稱為RS-12M。 [缩略图](https://zh.wikipedia.org/wiki/File:SS-25_Sickle_in_Siberia.jpg "fig:缩略图")
 
 ## 發展
 
@@ -15,15 +13,9 @@ SS-25洲際彈道飛彈的發射車大都是大型的十車輪型車輛，雖然
 ### 現役部隊
 
   - 第27戰略火箭軍
-      - 第7戰略火箭師
-        位於[Vypolzovo](https://zh.wikipedia.org/wiki/Vypolzovo "wikilink")
-        18枚
-      - 第14戰略火箭師 位於
-        [约什卡尔奥拉](https://zh.wikipedia.org/wiki/约什卡尔奥拉 "wikilink")
-        27 枚
-      - 第54戰略火箭師 位於
-        [捷伊科沃](https://zh.wikipedia.org/wiki/捷伊科沃 "wikilink")
-        9 枚
+      - 第7戰略火箭師 位於[Vypolzovo](https://zh.wikipedia.org/wiki/Vypolzovo "wikilink") 18枚
+      - 第14戰略火箭師 位於 [约什卡尔奥拉](https://zh.wikipedia.org/wiki/约什卡尔奥拉 "wikilink") 27 枚
+      - 第54戰略火箭師 位於 [捷伊科沃](https://zh.wikipedia.org/wiki/捷伊科沃 "wikilink") 9 枚
   - 第31戰略火箭軍
       - 第42戰略火箭師 位於 [下塔吉尔](../Page/下塔吉尔.md "wikilink") 36枚
   - 第33戰略火箭軍

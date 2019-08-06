@@ -59,6 +59,4 @@
 
 新城電台於 2014 年 7 月 27 日起正式把「勁爆兒歌榜」改名為「新城勁爆勵志．兒歌榜」。
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:SiS樂印姊妹音樂專輯](https://zh.wikipedia.org/wiki/Category:SiS樂印姊妹音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:SiS樂印姊妹音樂專輯](https://zh.wikipedia.org/wiki/Category:SiS樂印姊妹音樂專輯 "wikilink")

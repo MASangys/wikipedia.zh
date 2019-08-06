@@ -16,8 +16,7 @@
 
 ## NBA生涯
 
-在2008年NBA选秀中，奥古斯汀以首轮总第9顺位被[夏洛特山猫选中](https://zh.wikipedia.org/wiki/夏洛特山猫 "wikilink")\[22\]。
-2008年7月8日，奧古斯汀与山猫签下一份新秀合同\[23\]。2009年5月1日，奥古斯汀入选当年的最佳新秀阵容第二队\[24\]。
+在2008年NBA选秀中，奥古斯汀以首轮总第9顺位被[夏洛特山猫选中](https://zh.wikipedia.org/wiki/夏洛特山猫 "wikilink")\[22\]。 2008年7月8日，奧古斯汀与山猫签下一份新秀合同\[23\]。2009年5月1日，奥古斯汀入选当年的最佳新秀阵容第二队\[24\]。
 
 同年10月6日，山貓隊執行奧古斯汀合約第三年的球隊選項。\[25\]
 
@@ -39,48 +38,11 @@
 
 ### 例行賽
 
-|- | style="text-align:left;" |  | style="text-align:left;" |
-[夏洛特山猫](https://zh.wikipedia.org/wiki/夏洛特山猫 "wikilink") | 72
-|| 12 || 26.5 || **.430** || **.439** || .893 || 1.8 || 3.5 || .6 || .0
-|| 11.8 |- | style="text-align:left;" |  | style="text-align:left;" |
-夏洛特山猫 | 80 || 2 || 18.4 || .386 || .393 || .779 || 1.2 || 2.4 ||
-.6 || **.1** || 6.3 |- | style="text-align:left;" |  |
-style="text-align:left;" | 夏洛特山猫 | **82** || **82** || **33.6** || .416
-|| .333 || .906 || **2.7** || 6.1 || .7 || .0 || 14.4 |- |
-style="text-align:left;" |  | style="text-align:left;" | 夏洛特山猫 | 48 ||
-46 || 29.3 || .376 || .341 || .875 || 2.3 || **6.4** || .8 || .0 || 11.1
-|- | style="text-align:left;" |  | style="text-align:left;" |
-[印第安纳步行者](../Page/印第安纳步行者.md "wikilink") | 76 || 5 || 16.1
-|| .350 || .353 || .838 || 1.2 || 2.2 || .4 || .0 || 4.7 |- |
-style="text-align:left;" |  | style="text-align:left;" |
-[多伦多猛龙](../Page/多伦多猛龙.md "wikilink") | 10 || 0 || 8.2 || .292
-|| .091 || **1.000** || .4 || 1.0 || .1 || .0 || 2.1 |- |
-style="text-align:left;" |  | style="text-align:left;" |
-[芝加哥公牛](../Page/芝加哥公牛.md "wikilink") | 61 || 9 || 30.4 || .419
-|| .411 || .882 || 2.1 || 5.0 || **.9** || .0 || **14.9** |- |
-style="text-align:left;" |  | style="text-align:left;" |
-[底特律活塞](../Page/底特律活塞.md "wikilink") | 54 || 13 || 23.8 ||
-.410 || .327 || .870 || 1.9 || 4.9 || .6 || .0 || 10.6 |- |
-style="text-align:left;" |  | style="text-align:left;" |
-[俄克拉荷马城雷霆](https://zh.wikipedia.org/wiki/俄克拉荷马城雷霆 "wikilink")
-| 28 || 1 || 24.2 || .371 || .354 || .861 || 2.2 || 3.1 || .6 || .0 ||
-7.3 |- | style="text-align:left;" | 生涯/平均 | style="text-align:left;" | |
-511 || 170 || 24.8 || .403 || .371 || .873 || 1.9 || 4.1 || .6 || .0 ||
-10.0  来源：\[45\]
+|- | style="text-align:left;" |  | style="text-align:left;" | [夏洛特山猫](https://zh.wikipedia.org/wiki/夏洛特山猫 "wikilink") | 72 || 12 || 26.5 || **.430** || **.439** || .893 || 1.8 || 3.5 || .6 || .0 || 11.8 |- | style="text-align:left;" |  | style="text-align:left;" | 夏洛特山猫 | 80 || 2 || 18.4 || .386 || .393 || .779 || 1.2 || 2.4 || .6 || **.1** || 6.3 |- | style="text-align:left;" |  | style="text-align:left;" | 夏洛特山猫 | **82** || **82** || **33.6** || .416 || .333 || .906 || **2.7** || 6.1 || .7 || .0 || 14.4 |- | style="text-align:left;" |  | style="text-align:left;" | 夏洛特山猫 | 48 || 46 || 29.3 || .376 || .341 || .875 || 2.3 || **6.4** || .8 || .0 || 11.1 |- | style="text-align:left;" |  | style="text-align:left;" | [印第安纳步行者](../Page/印第安纳步行者.md "wikilink") | 76 || 5 || 16.1 || .350 || .353 || .838 || 1.2 || 2.2 || .4 || .0 || 4.7 |- | style="text-align:left;" |  | style="text-align:left;" | [多伦多猛龙](../Page/多伦多猛龙.md "wikilink") | 10 || 0 || 8.2 || .292 || .091 || **1.000** || .4 || 1.0 || .1 || .0 || 2.1 |- | style="text-align:left;" |  | style="text-align:left;" | [芝加哥公牛](../Page/芝加哥公牛.md "wikilink") | 61 || 9 || 30.4 || .419 || .411 || .882 || 2.1 || 5.0 || **.9** || .0 || **14.9** |- | style="text-align:left;" |  | style="text-align:left;" | [底特律活塞](../Page/底特律活塞.md "wikilink") | 54 || 13 || 23.8 || .410 || .327 || .870 || 1.9 || 4.9 || .6 || .0 || 10.6 |- | style="text-align:left;" |  | style="text-align:left;" | [俄克拉荷马城雷霆](https://zh.wikipedia.org/wiki/俄克拉荷马城雷霆 "wikilink") | 28 || 1 || 24.2 || .371 || .354 || .861 || 2.2 || 3.1 || .6 || .0 || 7.3 |- | style="text-align:left;" | 生涯/平均 | style="text-align:left;" | | 511 || 170 || 24.8 || .403 || .371 || .873 || 1.9 || 4.1 || .6 || .0 || 10.0  来源：\[45\]
 
 ### 季後賽
 
-|- | align="left" | [2010](../Page/2010年NBA季後賽.md "wikilink") |
-align="left" | 夏洛特山猫 | 4 || 0 || 18.3 || .294 || .333 || .833 || 1.0 ||
-1.8 || .3 || **.3** || 4.3 |- | align="left" |
-[2013](../Page/2013年NBA季後賽.md "wikilink") | align="left" |
-印第安纳步行者 | **19** || **1** || 16.6 || **.380** || **.396** ||
-.806 || .8 || .7 || .4 || .0 || 5.2 |- | align="left" |
-[2014](../Page/2014年NBA季後賽.md "wikilink") | align="left" | 芝加哥公牛 | 5 ||
-0 || **28.2** || .292 || .269 || **.895** || **1.6** || **4.8** ||
-**.6** || .0 || **13.2** |- | align="left" | 生涯/平均 | align="left" | | 28
-|| 1 || 18.9 || .331 || .350 || .839 || 1.0 || 1.6 || .4 || .0 || 6.5
-来源：\[46\]
+|- | align="left" | [2010](../Page/2010年NBA季後賽.md "wikilink") | align="left" | 夏洛特山猫 | 4 || 0 || 18.3 || .294 || .333 || .833 || 1.0 || 1.8 || .3 || **.3** || 4.3 |- | align="left" | [2013](../Page/2013年NBA季後賽.md "wikilink") | align="left" | 印第安纳步行者 | **19** || **1** || 16.6 || **.380** || **.396** || .806 || .8 || .7 || .4 || .0 || 5.2 |- | align="left" | [2014](../Page/2014年NBA季後賽.md "wikilink") | align="left" | 芝加哥公牛 | 5 || 0 || **28.2** || .292 || .269 || **.895** || **1.6** || **4.8** || **.6** || .0 || **13.2** |- | align="left" | 生涯/平均 | align="left" | | 28 || 1 || 18.9 || .331 || .350 || .839 || 1.0 || 1.6 || .4 || .0 || 6.5  来源：\[46\]
 
 ## 参考资料
 
@@ -91,13 +53,7 @@ align="left" | 夏洛特山猫 | 4 || 0 || 18.3 || .294 || .333 || .833 || 1.0 |
   - [德克萨斯大学的专页](http://www.texassports.com/roster.aspx?rp_id=189)
 
   -
-[Category:美国男子篮球运动员](https://zh.wikipedia.org/wiki/Category:美国男子篮球运动员 "wikilink")
-[Category:夏洛特山貓队球员](https://zh.wikipedia.org/wiki/Category:夏洛特山貓队球员 "wikilink")
-[Category:芝加哥公牛队球员](https://zh.wikipedia.org/wiki/Category:芝加哥公牛队球员 "wikilink")
-[Category:多伦多猛龙队球员](https://zh.wikipedia.org/wiki/Category:多伦多猛龙队球员 "wikilink")
-[Category:印第安纳步行者队球员](https://zh.wikipedia.org/wiki/Category:印第安纳步行者队球员 "wikilink")
-[Category:俄克拉荷马城雷霆队球员](https://zh.wikipedia.org/wiki/Category:俄克拉荷马城雷霆队球员 "wikilink")
-[Category:控球後衛](https://zh.wikipedia.org/wiki/Category:控球後衛 "wikilink")
+[Category:美国男子篮球运动员](https://zh.wikipedia.org/wiki/Category:美国男子篮球运动员 "wikilink") [Category:夏洛特山貓队球员](https://zh.wikipedia.org/wiki/Category:夏洛特山貓队球员 "wikilink") [Category:芝加哥公牛队球员](https://zh.wikipedia.org/wiki/Category:芝加哥公牛队球员 "wikilink") [Category:多伦多猛龙队球员](https://zh.wikipedia.org/wiki/Category:多伦多猛龙队球员 "wikilink") [Category:印第安纳步行者队球员](https://zh.wikipedia.org/wiki/Category:印第安纳步行者队球员 "wikilink") [Category:俄克拉荷马城雷霆队球员](https://zh.wikipedia.org/wiki/Category:俄克拉荷马城雷霆队球员 "wikilink") [Category:控球後衛](https://zh.wikipedia.org/wiki/Category:控球後衛 "wikilink")
 
 1.
 

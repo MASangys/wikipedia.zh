@@ -2,8 +2,7 @@
 
 ## 設計
 
-把發動機換成已名聞世界的[Bf
-109E戰鬥機相同的DB](https://zh.wikipedia.org/wiki/Bf_109戰鬥機 "wikilink")601水冷式發動機，於是要在機身下設置散熱器。
+把發動機換成已名聞世界的[Bf 109E戰鬥機相同的DB](https://zh.wikipedia.org/wiki/Bf_109戰鬥機 "wikilink")601水冷式發動機，於是要在機身下設置散熱器。
 
 原本MC.200由於採用風冷式星形發動機，其機身橫切面是圓形而改為水冷式發動機後改為橢圓形，由於要平衡被加長的發動機室以容納DB601水冷式發動機，後機身要加長60厘米，原本MC.200的駕駛艙位置過高，MC.202把其位置降低並在後方形成斜背，此外駕駛艙加上擋風玻璃變為封閉式。
 
@@ -60,5 +59,4 @@ MC.202換了發動機後重量雖比MC.200重了700公斤但由於發動機馬�
 
   - [意大利“马基”MC.200/202/205战斗机](http://www.afwing.com/intro/mc200.htm)
 
-[Category:意大利戰鬥機](https://zh.wikipedia.org/wiki/Category:意大利戰鬥機 "wikilink")
-[Category:意大利二戰武器](https://zh.wikipedia.org/wiki/Category:意大利二戰武器 "wikilink")
+[Category:意大利戰鬥機](https://zh.wikipedia.org/wiki/Category:意大利戰鬥機 "wikilink") [Category:意大利二戰武器](https://zh.wikipedia.org/wiki/Category:意大利二戰武器 "wikilink")

@@ -60,8 +60,7 @@
 ### 初回限定盤B
 
   - CD+DVD
-      - DVD：「Fight for the Eight」のMusic
-        Crip\&Making+unit\&solo曲recording映像
+      - DVD：「Fight for the Eight」のMusic Crip\&Making+unit\&solo曲recording映像
   - 封入特典：COOL FIGHT PHOTO BOOK(48P)
 
 ### 通常盤
@@ -88,6 +87,4 @@
 
   - 封入特典：BASEBALL ∞ CARD（7枚）
 
-[Category:關西傑尼斯8音樂專輯](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:2011年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:關西傑尼斯8音樂專輯](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:2011年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯週榜冠軍作品 "wikilink")

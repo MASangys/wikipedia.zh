@@ -16,27 +16,14 @@
 
 ## 參考
 
-[Category:韓國買賣春](https://zh.wikipedia.org/wiki/Category:韓國買賣春 "wikilink")
-[Category:性俗語](https://zh.wikipedia.org/wiki/Category:性俗語 "wikilink")
-[Category:反韓情緒](https://zh.wikipedia.org/wiki/Category:反韓情緒 "wikilink")
-[Category:性工作](https://zh.wikipedia.org/wiki/Category:性工作 "wikilink")
-[Category:性犯罪](https://zh.wikipedia.org/wiki/Category:性犯罪 "wikilink")
+[Category:韓國買賣春](https://zh.wikipedia.org/wiki/Category:韓國買賣春 "wikilink") [Category:性俗語](https://zh.wikipedia.org/wiki/Category:性俗語 "wikilink") [Category:反韓情緒](https://zh.wikipedia.org/wiki/Category:反韓情緒 "wikilink") [Category:性工作](https://zh.wikipedia.org/wiki/Category:性工作 "wikilink") [Category:性犯罪](https://zh.wikipedia.org/wiki/Category:性犯罪 "wikilink")
 
 1.
 2.
 3.
 4.
 5.
-6.  ["【社説】南太平洋キリバスの「醜い韓国人」"](http://japanese.chosun.com/site/data/html_dir/2007/02/28/20070228000036.html)
-    , [朝鮮日報](../Page/朝鮮日報.md "wikilink"), 2007/02/28.
-7.   ["
-    (韓国船員キリバス児童売買春が依然続き衝撃)"](http://www.yonhapnews.co.kr/economy/2007/02/23/0301000000AKR20070223159900002.HTML),
-    [韓國聯合通訊社](../Page/韓國聯合通訊社.md "wikilink"), 2007/02/23.
-8.   Kim Rahn, ["Sailors Blamed for Child Sex
-    Trade"](http://www.koreatimes.co.kr/www/news/nation/news_view.asp?newsIdx=3083017),
-    [韓国日報英語版](https://zh.wikipedia.org/wiki/韓国日報 "wikilink"),
-    2007-02-25.
-9.   Ben Bohane, ["Kiribati-Fish And Ships-Fishing Fleets Pose Social
-    and Environmental
-    Challenges"](http://www.pacificmagazine.net/issue/2006/11/01/fish-and-ships)
-    , *Pacific Magazine*, November 1, 2006.
+6.  ["【社説】南太平洋キリバスの「醜い韓国人」"](http://japanese.chosun.com/site/data/html_dir/2007/02/28/20070228000036.html) , [朝鮮日報](../Page/朝鮮日報.md "wikilink"), 2007/02/28.
+7.   [" (韓国船員キリバス児童売買春が依然続き衝撃)"](http://www.yonhapnews.co.kr/economy/2007/02/23/0301000000AKR20070223159900002.HTML), [韓國聯合通訊社](../Page/韓國聯合通訊社.md "wikilink"), 2007/02/23.
+8.   Kim Rahn, ["Sailors Blamed for Child Sex Trade"](http://www.koreatimes.co.kr/www/news/nation/news_view.asp?newsIdx=3083017), [韓国日報英語版](https://zh.wikipedia.org/wiki/韓国日報 "wikilink"), 2007-02-25.
+9.   Ben Bohane, ["Kiribati-Fish And Ships-Fishing Fleets Pose Social and Environmental Challenges"](http://www.pacificmagazine.net/issue/2006/11/01/fish-and-ships) , *Pacific Magazine*, November 1, 2006.

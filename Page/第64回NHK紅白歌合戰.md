@@ -11,8 +11,7 @@
   - 2013年11月25日
     正式發表了出演本屆紅白歌合戰的51組出演歌手名單\[4\]。
   - 2013年12月5日
-    宣佈了直播時段中的第二聲道“紅白幕後Talk
-    Channel”（）的主持人是（）与，而負責[電台廣播解說的在則是](https://zh.wikipedia.org/wiki/電台 "wikilink")与[久保田祐佳](../Page/久保田祐佳.md "wikilink")
+    宣佈了直播時段中的第二聲道“紅白幕後Talk Channel”（）的主持人是（）与，而負責[電台廣播解說的在則是](https://zh.wikipedia.org/wiki/電台 "wikilink")与[久保田祐佳](../Page/久保田祐佳.md "wikilink")
   - 2013年12月18日
     發佈了當日的演唱歌曲名單\[5\]。
   - 2013年12月24日
@@ -208,19 +207,12 @@
   -
   - [緯來日本台－第64屆紅白歌唱大賽](http://japan.videoland.com.tw/channel/20131106/intro_02.htm)
 
-[Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink")
-[Category:嵐](https://zh.wikipedia.org/wiki/Category:嵐 "wikilink")
-[Category:2013年音樂](https://zh.wikipedia.org/wiki/Category:2013年音樂 "wikilink")
-[Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink")
+[Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink") [Category:嵐](https://zh.wikipedia.org/wiki/Category:嵐 "wikilink") [Category:2013年音樂](https://zh.wikipedia.org/wiki/Category:2013年音樂 "wikilink") [Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink")
 
 1.  [](http://www.nhk.or.jp/pr/keiei/toptalk/kaichou/k1309.html#02)
 2.
 3.
-4.  [](https://archive.is/20131126024439/www1.nhk.or.jp/kouhaku/artists/index.html)
-    NHK紅白歌合戰官方網站 2013年11月25日查询
-5.  [](https://archive.is/20131126024439/www1.nhk.or.jp/kouhaku/artists/index.html)
-    NHK紅白歌会官方网站 2013年12月18日查询
-6.  [【紅白】審査員に滝川クリステル、マー君ら話題の人ズラリ　くまモンも来るモン](http://www.oricon.co.jp/news/2032317/full/),ORICON
-    STYLE,2013年12月24日
-7.  [](https://archive.is/20131126024439/www1.nhk.or.jp/kouhaku/artists/index.html)
-    NHK紅白歌会官方网站 2013年12月26日查询
+4.  [](https://archive.is/20131126024439/www1.nhk.or.jp/kouhaku/artists/index.html) NHK紅白歌合戰官方網站 2013年11月25日查询
+5.  [](https://archive.is/20131126024439/www1.nhk.or.jp/kouhaku/artists/index.html) NHK紅白歌会官方网站 2013年12月18日查询
+6.  [【紅白】審査員に滝川クリステル、マー君ら話題の人ズラリ　くまモンも来るモン](http://www.oricon.co.jp/news/2032317/full/),ORICON STYLE,2013年12月24日
+7.  [](https://archive.is/20131126024439/www1.nhk.or.jp/kouhaku/artists/index.html) NHK紅白歌会官方网站 2013年12月26日查询

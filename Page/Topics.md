@@ -1,7 +1,4 @@
-『**Topics**』是2001年5月16日發售[MY LITTLE
-LOVER的第](../Page/My_Little_Lover.md "wikilink")4張（包括「[The
-Waters](https://zh.wikipedia.org/wiki/The_Waters "wikilink")」是第5張）的[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。唱片公司是[TOY'S
-FACTORY](../Page/TOY'S_FACTORY.md "wikilink")。
+『**Topics**』是2001年5月16日發售[MY LITTLE LOVER的第](../Page/My_Little_Lover.md "wikilink")4張（包括「[The Waters](https://zh.wikipedia.org/wiki/The_Waters "wikilink")」是第5張）的[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。唱片公司是[TOY'S FACTORY](../Page/TOY'S_FACTORY.md "wikilink")。
 
 ## 收錄曲
 
@@ -16,8 +13,7 @@ FACTORY](../Page/TOY'S_FACTORY.md "wikilink")。
 5.  **赤いグライダー**
     （作詞・作曲・編曲:小林武史）
 6.  **アスプレイ ～晴れた日の空に～**
-    （作詞:小林武史 作曲:[藤井謙二](https://zh.wikipedia.org/wiki/藤井謙二 "wikilink")
-    編曲:小林武史）
+    （作詞:小林武史 作曲:[藤井謙二](https://zh.wikipedia.org/wiki/藤井謙二 "wikilink") 編曲:小林武史）
 7.  **BABEL'S TOWER**
     （作詞:小林武史 作曲:藤井謙二 編曲:小林武史）
 8.  **Like an onion**
@@ -33,5 +29,4 @@ FACTORY](../Page/TOY'S_FACTORY.md "wikilink")。
 13. **A wonderful life**
     （作詞・作曲・編曲:小林武史）
 
-[Category:TOY'S_FACTORY音樂專輯](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY音樂專輯 "wikilink")
-[Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink")
+[Category:TOY'S_FACTORY音樂專輯](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY音樂專輯 "wikilink") [Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink")

@@ -4,8 +4,7 @@
 
 ## 故事簡介
 
-在六本木No.
-1的女公關天王寺美咲，有一天被俱樂部的媽媽桑要求到御堂學園高等學校當教師，而且擔任的還是聚集了問題學生的特別班級，2年Z組。於是美咲利用自己過往在公關界當上No.1的經驗，來應付解決學生各種問題及讓他們開始努力奮鬥向上。
+在六本木No. 1的女公關天王寺美咲，有一天被俱樂部的媽媽桑要求到御堂學園高等學校當教師，而且擔任的還是聚集了問題學生的特別班級，2年Z組。於是美咲利用自己過往在公關界當上No.1的經驗，來應付解決學生各種問題及讓他們開始努力奮鬥向上。
 
 ## 登場人物
 
@@ -266,14 +265,4 @@
 
   - [《美咲 No.1》日本電視台](http://www.ntv.co.jp/misaki/)
 
-[Category:老師主角題材漫畫](https://zh.wikipedia.org/wiki/Category:老師主角題材漫畫 "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink")
-[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink")
-[Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:教師主角電視劇](https://zh.wikipedia.org/wiki/Category:教師主角電視劇 "wikilink")
-[Category:特種行業題材電視劇](https://zh.wikipedia.org/wiki/Category:特種行業題材電視劇 "wikilink")
-[Category:六本木背景作品](https://zh.wikipedia.org/wiki/Category:六本木背景作品 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")
+[Category:老師主角題材漫畫](https://zh.wikipedia.org/wiki/Category:老師主角題材漫畫 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:教師主角電視劇](https://zh.wikipedia.org/wiki/Category:教師主角電視劇 "wikilink") [Category:特種行業題材電視劇](https://zh.wikipedia.org/wiki/Category:特種行業題材電視劇 "wikilink") [Category:六本木背景作品](https://zh.wikipedia.org/wiki/Category:六本木背景作品 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")

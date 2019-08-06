@@ -273,15 +273,10 @@ LU:KUS念法為「Look Us」，如同字面上意義一樣「Look At Us」，要
   -
   -
   -
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
+[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
-1.  [LU:KUS
-    韓国事務所移籍に関して](http://s.ameblo.jp/lukusclub/entry-12154221522.html)
-2.  [『L.A.U』(前
-    LU:KUS)今後の活動予定](http://s.ameblo.jp/lukusclub/entry-12155236380.html)
+1.  [LU:KUS 韓国事務所移籍に関して](http://s.ameblo.jp/lukusclub/entry-12154221522.html)
+2.  [『L.A.U』(前 LU:KUS)今後の活動予定](http://s.ameblo.jp/lukusclub/entry-12155236380.html)
 3.  [L.A.U（前、LU:KUS）韓国シークレットファンイベント](http://s.ameblo.jp/lukusclub/entry-12155237632.html)
 4.  [L.A.U『L.A.Uへウォンの入隊見送りに関して』](http://s.ameblo.jp/lukusclub/entry-12155237632.html)
 5.  [L.A.U 將以三人體制於二月回歸](http://kpopn.niusnews.com/=K20se068)

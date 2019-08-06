@@ -1,10 +1,4 @@
-『**特命戰隊Go Busters THE MOVIE 保護東京Enetower\!**』（日文：）是2012年8月4日
-[東映](../Page/東映.md "wikilink")公開預定上映的『[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")』的『[特命戰隊Go
-Busters](../Page/特命戰隊Go_Busters.md "wikilink")』劇場版作品，與『[假面騎士系列](../Page/假面騎士系列.md "wikilink")
-』的『[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink") 』劇場版『[假面騎士Fourze THE
-MOVIE
-大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")
-』同時上映。
+『**特命戰隊Go Busters THE MOVIE 保護東京Enetower\!**』（日文：）是2012年8月4日 [東映](../Page/東映.md "wikilink")公開預定上映的『[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")』的『[特命戰隊Go Busters](../Page/特命戰隊Go_Busters.md "wikilink")』劇場版作品，與『[假面騎士系列](../Page/假面騎士系列.md "wikilink") 』的『[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink") 』劇場版『[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink") 』同時上映。
 
 ## 概要
 
@@ -92,8 +86,7 @@ MOVIE
 ## Staff
 
   - 原作 - [八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")
-  - 配給 -
-    [朝日](https://zh.wikipedia.org/wiki/朝日 "wikilink")、[東映](../Page/東映.md "wikilink")、[東映ADVERTISING](https://zh.wikipedia.org/wiki/東映ADVERTISING "wikilink")
+  - 配給 - [朝日](https://zh.wikipedia.org/wiki/朝日 "wikilink")、[東映](../Page/東映.md "wikilink")、[東映ADVERTISING](https://zh.wikipedia.org/wiki/東映ADVERTISING "wikilink")
   - 製作 - 劇場版「FOURZE・Go Busters」製作委員会
 
 ## Cast
@@ -120,33 +113,22 @@ MOVIE
 
   - Red Buster：[押川善文](../Page/押川善文.md "wikilink")
   - Blue Buster：[竹内康博](https://zh.wikipedia.org/wiki/竹内康博 "wikilink")
-  - Yellow
-    Buster：[蜂須賀祐一](https://zh.wikipedia.org/wiki/蜂須賀祐一 "wikilink")
+  - Yellow Buster：[蜂須賀祐一](https://zh.wikipedia.org/wiki/蜂須賀祐一 "wikilink")
   - Beet Buster：[清家利一](https://zh.wikipedia.org/wiki/清家利一 "wikilink")
-  - Beet・J・Stag / Stag
-    Buster：[佐藤太輔](https://zh.wikipedia.org/wiki/佐藤太輔 "wikilink")
+  - Beet・J・Stag / Stag Buster：[佐藤太輔](https://zh.wikipedia.org/wiki/佐藤太輔 "wikilink")
   - 豹田・Nick：[浅井宏輔](https://zh.wikipedia.org/wiki/浅井宏輔 "wikilink")
   - 猩崎・Banana：[岡元次郎](https://zh.wikipedia.org/wiki/岡元次郎 "wikilink")
   - 兔田・Lettuce：[村岡弘之](https://zh.wikipedia.org/wiki/村岡弘之 "wikilink")
 
 ## 主題曲
 
-  - 「バスターズ レディーゴー\!/キズナ〜ゴーバスターズ\!|キズナ〜ゴーバスターズ\!」（2012 summer MOVIE
-    UNIT）
-    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") /
-    作曲・編曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")（[Project.R](../Page/Project.R.md "wikilink")）
-    /
-    歌：CV：[鈴木勝大](../Page/鈴木勝大.md "wikilink")&[藤原啓治](https://zh.wikipedia.org/wiki/藤原啓治 "wikilink")、[馬場良馬](../Page/馬場良馬.md "wikilink")&[玄田哲章](../Page/玄田哲章.md "wikilink")、[小宮有紗](../Page/小宮有紗.md "wikilink")&[鈴木達央](../Page/鈴木達央.md "wikilink")
+  - 「バスターズ レディーゴー\!/キズナ〜ゴーバスターズ\!|キズナ〜ゴーバスターズ\!」（2012 summer MOVIE UNIT）
+    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲・編曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")（[Project.R](../Page/Project.R.md "wikilink")） / 歌：CV：[鈴木勝大](../Page/鈴木勝大.md "wikilink")&[藤原啓治](https://zh.wikipedia.org/wiki/藤原啓治 "wikilink")、[馬場良馬](../Page/馬場良馬.md "wikilink")&[玄田哲章](../Page/玄田哲章.md "wikilink")、[小宮有紗](../Page/小宮有紗.md "wikilink")&[鈴木達央](../Page/鈴木達央.md "wikilink")
   - 挿入歌「バスターズ レディーゴー\!/キズナ〜ゴーバスターズ\!|バスターズ レディゴー\!」
-    作詞：藤林聖子 / 作曲・編曲：大石憲一郎（Project.R） /
-    歌：[高橋秀幸](https://zh.wikipedia.org/wiki/高橋秀幸 "wikilink")
+    作詞：藤林聖子 / 作曲・編曲：大石憲一郎（Project.R） / 歌：[高橋秀幸](https://zh.wikipedia.org/wiki/高橋秀幸 "wikilink")
 
 ## 外部連結
 
   - [朝日官網](https://web.archive.org/web/20120529164900/http://www.fourze-gobus.jp/)
 
-[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
-[Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink")
-[Category:東京背景電影](https://zh.wikipedia.org/wiki/Category:東京背景電影 "wikilink")
-[Category:柴崎貴行電影](https://zh.wikipedia.org/wiki/Category:柴崎貴行電影 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
+[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink") [Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink") [Category:東京背景電影](https://zh.wikipedia.org/wiki/Category:東京背景電影 "wikilink") [Category:柴崎貴行電影](https://zh.wikipedia.org/wiki/Category:柴崎貴行電影 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")

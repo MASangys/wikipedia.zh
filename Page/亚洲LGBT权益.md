@@ -8,8 +8,7 @@
 2019年5月17日，[中華民國](../Page/中華民國.md "wikilink")（[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")）[立法院](../Page/立法院.md "wikilink")通過《**[司法院釋字第七四八號解釋施行法](../Page/司法院釋字第七四八號解釋施行法.md "wikilink")**》，5月22日經總統公布，5月24日生效，成為全[亞洲首個](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[同性婚姻合法化之國家](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")。
 
 [250px|**亚洲**
-**同性伴侣合法**      **同性伴侣违法**
-](https://zh.wikipedia.org/wiki/File:Asia_homosexuality_laws.svg "fig:250px|亚洲 同性伴侣合法      同性伴侣违法    ")
+**同性伴侣合法**      **同性伴侣违法**    ](https://zh.wikipedia.org/wiki/File:Asia_homosexuality_laws.svg "fig:250px|亚洲 同性伴侣合法      同性伴侣违法    ")
 
 ## 另见
 
@@ -26,12 +25,9 @@
 
 ## 外部链接
 
-[Category:亞洲LGBT權益](https://zh.wikipedia.org/wiki/Category:亞洲LGBT權益 "wikilink")
-[Category:各大洲LGBT权益](https://zh.wikipedia.org/wiki/Category:各大洲LGBT权益 "wikilink")
+[Category:亞洲LGBT權益](https://zh.wikipedia.org/wiki/Category:亞洲LGBT權益 "wikilink") [Category:各大洲LGBT权益](https://zh.wikipedia.org/wiki/Category:各大洲LGBT权益 "wikilink")
 
-1.  [Asia from a Lesbian and Gay Human Rights Perspective
-    (2013)](http://old.ilga.org/statehomophobia/charts/ILGA_LGBTI_Human_rights_Asia_2013.pdf)
-    .
+1.  [Asia from a Lesbian and Gay Human Rights Perspective (2013)](http://old.ilga.org/statehomophobia/charts/ILGA_LGBTI_Human_rights_Asia_2013.pdf) .
 
 2.
 3.

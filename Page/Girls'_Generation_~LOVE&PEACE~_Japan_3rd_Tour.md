@@ -1,5 +1,4 @@
-**Girls' Generation \~LOVE\&PEACE\~ Japan 3rd
-Tour**是韓國女子組合[少女時代第三次日本巡迴演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。
+**Girls' Generation \~LOVE\&PEACE\~ Japan 3rd Tour**是韓國女子組合[少女時代第三次日本巡迴演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。
 
 ## 巡迴時間表
 
@@ -199,8 +198,7 @@ Tour**是韓國女子組合[少女時代第三次日本巡迴演唱會](https://
 
 <!-- end list -->
 
-  - GIRLS' GENERATION \~Love\&Peace\~ Japan 3rd Tour 『TOUR MEMORIAL
-    BOOK』（2014年9月16日）
+  - GIRLS' GENERATION \~Love\&Peace\~ Japan 3rd Tour 『TOUR MEMORIAL BOOK』（2014年9月16日）
 
 ## 製作
 
@@ -208,8 +206,7 @@ Tour**是韓國女子組合[少女時代第三次日本巡迴演唱會](https://
 
 <!-- end list -->
 
-  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")
-    （[太妍](../Page/太妍.md "wikilink")、[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
+  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink") （[太妍](../Page/太妍.md "wikilink")、[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
 
 <!-- end list -->
 
@@ -217,10 +214,7 @@ Tour**是韓國女子組合[少女時代第三次日本巡迴演唱會](https://
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、[SM
-    Entertainment
-    Japan](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、[SM Entertainment Japan](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
 
 <!-- end list -->
 
@@ -228,8 +222,7 @@ Tour**是韓國女子組合[少女時代第三次日本巡迴演唱會](https://
 
 <!-- end list -->
 
-  - [Nayutawave Records](../Page/環球音樂_\(日本\).md "wikilink")、SM
-    Entertainment Japan
+  - [Nayutawave Records](../Page/環球音樂_\(日本\).md "wikilink")、SM Entertainment Japan
 
 ## 参考资料
 
@@ -247,15 +240,12 @@ Tour**是韓國女子組合[少女時代第三次日本巡迴演唱會](https://
 
   -
   -
-[Category:2014年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2014年巡迴演唱會 "wikilink")
-[Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink")
-[Category:少女時代巡迴演唱會](https://zh.wikipedia.org/wiki/Category:少女時代巡迴演唱會 "wikilink")
+[Category:2014年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2014年巡迴演唱會 "wikilink") [Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink") [Category:少女時代巡迴演唱會](https://zh.wikipedia.org/wiki/Category:少女時代巡迴演唱會 "wikilink")
 
 1.
 
 2.
 
 3.  [少女時代日本環球官方網站](http://www.universal-music.co.jp/girlsgeneration/products/upbh-29046/)
-
 
 4.

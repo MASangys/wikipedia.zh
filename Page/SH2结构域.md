@@ -35,8 +35,7 @@ SH2结构域的功能是特异性识别酪氨酸残基的磷酸化状态，从�
   - [FER](https://zh.wikipedia.org/wiki/FER_\(基因\) "wikilink")、[FES](https://zh.wikipedia.org/wiki/猫科肉瘤癌基因 "wikilink")、[FGR](https://zh.wikipedia.org/wiki/FGR_\(基因\) "wikilink")、[FRK](https://zh.wikipedia.org/wiki/Fyn相关激酶 "wikilink")、[FYN](https://zh.wikipedia.org/wiki/FYN "wikilink")
   - [GRAP](https://zh.wikipedia.org/wiki/GRAP "wikilink")、[GRAP2](https://zh.wikipedia.org/wiki/GRAP2 "wikilink")、[GRB10](https://zh.wikipedia.org/wiki/GRB10 "wikilink")、[GRB14](https://zh.wikipedia.org/wiki/GRB14 "wikilink")、[GRB2](https://zh.wikipedia.org/wiki/Grb2 "wikilink")、[GRB7](https://zh.wikipedia.org/wiki/GRB7 "wikilink")
   - [HCK](https://zh.wikipedia.org/wiki/HCK "wikilink")、[HSH2D](https://zh.wikipedia.org/wiki/HSH2D "wikilink")
-  - [INPP5D](https://zh.wikipedia.org/wiki/INPP5D "wikilink")、[INPPL1](https://zh.wikipedia.org/wiki/INPPL1 "wikilink")、[ITK](https://zh.wikipedia.org/wiki/ITK_\(基因\) "wikilink")、
-    [JAK2](https://zh.wikipedia.org/wiki/JAK激酶2 "wikilink")、[LCK](https://zh.wikipedia.org/wiki/Lck "wikilink")、[LCP2](https://zh.wikipedia.org/wiki/淋巴细胞胞浆蛋白2 "wikilink")、[LYN](https://zh.wikipedia.org/wiki/LYN "wikilink")
+  - [INPP5D](https://zh.wikipedia.org/wiki/INPP5D "wikilink")、[INPPL1](https://zh.wikipedia.org/wiki/INPPL1 "wikilink")、[ITK](https://zh.wikipedia.org/wiki/ITK_\(基因\) "wikilink")、 [JAK2](https://zh.wikipedia.org/wiki/JAK激酶2 "wikilink")、[LCK](https://zh.wikipedia.org/wiki/Lck "wikilink")、[LCP2](https://zh.wikipedia.org/wiki/淋巴细胞胞浆蛋白2 "wikilink")、[LYN](https://zh.wikipedia.org/wiki/LYN "wikilink")
   - [MATK](https://zh.wikipedia.org/wiki/巨核细胞相关酪氨酸激酶 "wikilink")、[NCK1](https://zh.wikipedia.org/wiki/NCK1 "wikilink")、[NCK2](https://zh.wikipedia.org/wiki/NCK2 "wikilink")
   - [PIK3R1](https://zh.wikipedia.org/wiki/PIK3R1 "wikilink")、[PIK3R2](https://zh.wikipedia.org/wiki/PIK3R2 "wikilink")、[PIK3R3](https://zh.wikipedia.org/wiki/PIK3R3 "wikilink")、[PLCG1](https://zh.wikipedia.org/wiki/PLCG1 "wikilink")、[PLCG2](https://zh.wikipedia.org/wiki/PLCG2 "wikilink")、[PTK6](https://zh.wikipedia.org/wiki/PTK6 "wikilink")、[PTPN11](https://zh.wikipedia.org/wiki/PTPN11 "wikilink")、[PTPN6](https://zh.wikipedia.org/wiki/PTPN6 "wikilink")、[RASA1](https://zh.wikipedia.org/wiki/RAS_p21_protein_activator_1 "wikilink")
   - [SH2B1](https://zh.wikipedia.org/wiki/SH2B1 "wikilink")、[SH2B2](https://zh.wikipedia.org/wiki/SH2B2 "wikilink")、[SH2B3](https://zh.wikipedia.org/wiki/SH2B3 "wikilink")、[SH2D1A](https://zh.wikipedia.org/wiki/SH2D1A "wikilink")、[SH2D1B](https://zh.wikipedia.org/wiki/SH2D1B "wikilink")、[SH2D2A](https://zh.wikipedia.org/wiki/SH2D2A "wikilink")、[SH2D3A](https://zh.wikipedia.org/wiki/SH2D3A "wikilink")、[SH2D3C](https://zh.wikipedia.org/wiki/SH2D3C "wikilink")、[SH2D4A](https://zh.wikipedia.org/wiki/SH2D4A "wikilink")、[SH2D4B](https://zh.wikipedia.org/wiki/SH2D4B "wikilink")、[SH2D5](https://zh.wikipedia.org/wiki/SH2D5 "wikilink")、[SH2D6](https://zh.wikipedia.org/wiki/SH2D6 "wikilink")、[SH3BP2](https://zh.wikipedia.org/wiki/SH3BP2 "wikilink")、[SHB](https://zh.wikipedia.org/wiki/SHB_\(基因\) "wikilink")、[SHC1](https://zh.wikipedia.org/wiki/SHC1 "wikilink")、[SHC3](https://zh.wikipedia.org/wiki/SHC3 "wikilink")、[SHC4](https://zh.wikipedia.org/wiki/SHC4 "wikilink")、[SHD](https://zh.wikipedia.org/wiki/SHD_\(基因\) "wikilink")、[SHE](https://zh.wikipedia.org/wiki/Src_homology_2_domain_containing_E "wikilink")
@@ -47,8 +46,7 @@ SH2结构域的功能是特异性识别酪氨酸残基的磷酸化状态，从�
   - [SUPT6H](https://zh.wikipedia.org/wiki/SUPT6H "wikilink")、[SYK](https://zh.wikipedia.org/wiki/Syk "wikilink")
   - [TEC](https://zh.wikipedia.org/wiki/TEC_\(基因\) "wikilink")、[TENC1](https://zh.wikipedia.org/wiki/TENC1 "wikilink")、[TNS](https://zh.wikipedia.org/wiki/TNS_\(基因\) "wikilink")、[TNS1](https://zh.wikipedia.org/wiki/TNS1 "wikilink")、[TNS3](https://zh.wikipedia.org/wiki/TNS3 "wikilink")、[TNS4](https://zh.wikipedia.org/wiki/TNS4 "wikilink")、[TXK](https://zh.wikipedia.org/wiki/TXK "wikilink")
   - [VAV1](https://zh.wikipedia.org/wiki/VAV1 "wikilink")、[VAV2](https://zh.wikipedia.org/wiki/VAV2 "wikilink")、[VAV3](https://zh.wikipedia.org/wiki/VAV3 "wikilink")
-  - [YES1](https://zh.wikipedia.org/wiki/YES1 "wikilink")、
-    [ZAP70](https://zh.wikipedia.org/wiki/ZAP-70 "wikilink")
+  - [YES1](https://zh.wikipedia.org/wiki/YES1 "wikilink")、 [ZAP70](https://zh.wikipedia.org/wiki/ZAP-70 "wikilink")
 
 ## 参考文献
 
@@ -59,9 +57,7 @@ SH2结构域的功能是特异性识别酪氨酸残基的磷酸化状态，从�
   -
   -
   -
-[Category:蛋白质域](https://zh.wikipedia.org/wiki/Category:蛋白质域 "wikilink")
-[Category:信号转导](https://zh.wikipedia.org/wiki/Category:信号转导 "wikilink")
-[Category:外周膜蛋白](https://zh.wikipedia.org/wiki/Category:外周膜蛋白 "wikilink")
+[Category:蛋白质域](https://zh.wikipedia.org/wiki/Category:蛋白质域 "wikilink") [Category:信号转导](https://zh.wikipedia.org/wiki/Category:信号转导 "wikilink") [Category:外周膜蛋白](https://zh.wikipedia.org/wiki/Category:外周膜蛋白 "wikilink")
 
 1.
 2.

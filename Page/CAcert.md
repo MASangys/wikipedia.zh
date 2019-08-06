@@ -1,6 +1,4 @@
-**CAcert.org**
-是一个社群推动的公共[认证机构](https://zh.wikipedia.org/wiki/认证机构 "wikilink")。它可以对个人发放免费[公钥证书](https://zh.wikipedia.org/wiki/公钥 "wikilink")\[1\]
-(其他证书颁发机构需要收费)。该机构目前已经有 200,000 名认证用户，以及接近800,000（截至2012年1月）\[2\]份证书。
+**CAcert.org** 是一个社群推动的公共[认证机构](https://zh.wikipedia.org/wiki/认证机构 "wikilink")。它可以对个人发放免费[公钥证书](https://zh.wikipedia.org/wiki/公钥 "wikilink")\[1\] (其他证书颁发机构需要收费)。该机构目前已经有 200,000 名认证用户，以及接近800,000（截至2012年1月）\[2\]份证书。
 
 该机构的证书支持[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")，以及[X.509](../Page/X.509.md "wikilink")协议
 
@@ -28,28 +26,20 @@ CAcert的签名提供商是[CeBIT](../Page/CeBIT.md "wikilink")和[FOSDEM](https
   - [Debian](../Page/Debian.md "wikilink")
   - [FreeWRT](https://zh.wikipedia.org/wiki/FreeWRT "wikilink")
   - [Gentoo](../Page/Gentoo_Linux.md "wikilink")
-  - [Maemo](../Page/Maemo.md "wikilink") (installed on [Nokia Internet
-    Tablets](https://zh.wikipedia.org/wiki/Nokia_Internet_Tablet "wikilink"))
-    (not on [Nokia
-    N900](https://zh.wikipedia.org/wiki/Nokia_N900 "wikilink"))
+  - [Maemo](../Page/Maemo.md "wikilink") (installed on [Nokia Internet Tablets](https://zh.wikipedia.org/wiki/Nokia_Internet_Tablet "wikilink")) (not on [Nokia N900](https://zh.wikipedia.org/wiki/Nokia_N900 "wikilink"))
   - [Knoppix](../Page/Knoppix.md "wikilink")
   - [Mandriva Linux](../Page/Mandriva_Linux.md "wikilink")
   - [MirOS BSD](https://zh.wikipedia.org/wiki/MirOS_BSD "wikilink")
   - [OpenBSD](../Page/OpenBSD.md "wikilink")
   - [openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink")
-  - [Ubuntu](../Page/Ubuntu.md "wikilink"),
-    [Xubuntu](../Page/Xubuntu.md "wikilink"),
-    [Kubuntu](../Page/Kubuntu.md "wikilink"),
-    [Lubuntu](../Page/Lubuntu.md "wikilink") (Not in CAcert inclusion
-    list, but actually provided by package ca-certificates now.)
+  - [Ubuntu](../Page/Ubuntu.md "wikilink"), [Xubuntu](../Page/Xubuntu.md "wikilink"), [Kubuntu](../Page/Kubuntu.md "wikilink"), [Lubuntu](../Page/Lubuntu.md "wikilink") (Not in CAcert inclusion list, but actually provided by package ca-certificates now.)
 
 ## 参见
 
 其他免费证书签发机构
 
   - [StartCom](../Page/StartCom.md "wikilink")
-  - [Comodo
-    Group](https://zh.wikipedia.org/wiki/Comodo_Group "wikilink")
+  - [Comodo Group](https://zh.wikipedia.org/wiki/Comodo_Group "wikilink")
   - [Let's Encrypt](../Page/Let's_Encrypt.md "wikilink")
 
 ## 参考
@@ -62,14 +52,8 @@ CAcert的签名提供商是[CeBIT](../Page/CeBIT.md "wikilink")和[FOSDEM](https
 
 1.  [About CAcert](https://www.cacert.org/index.php?id=12)
 2.  [CAcert usage statistics](http://www.cacert.org/stats.php)
-3.  [Assurance
-    Policy](http://www.cacert.org/policy/AssurancePolicy.php), section
-    2.3.
-4.  [FAQ/TechnicalQuestions - CAcert
-    Wiki](http://wiki.cacert.org/FAQ/TechnicalQuestions#CAcert_Class_3_certificates)
-5.  [CAcert audit comment on
-    Mozilla](https://bugzilla.mozilla.org/show_bug.cgi?id=215243#c158)
-6.  [Discussion by Mozilla on including CAcert root
-    certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=215243)
-7.  [CAcert inclusion status
-    page](http://wiki.cacert.org/wiki/InclusionStatus)
+3.  [Assurance Policy](http://www.cacert.org/policy/AssurancePolicy.php), section 2.3.
+4.  [FAQ/TechnicalQuestions - CAcert Wiki](http://wiki.cacert.org/FAQ/TechnicalQuestions#CAcert_Class_3_certificates)
+5.  [CAcert audit comment on Mozilla](https://bugzilla.mozilla.org/show_bug.cgi?id=215243#c158)
+6.  [Discussion by Mozilla on including CAcert root certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=215243)
+7.  [CAcert inclusion status page](http://wiki.cacert.org/wiki/InclusionStatus)

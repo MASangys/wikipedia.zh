@@ -14,20 +14,10 @@
 
 ## 外部連結
 
-  - [Stains
-    File](https://web.archive.org/web/20131030010046/http://stainsfile.info/StainsFile/dyes/26125.htm)
-    entry
+  - [Stains File](https://web.archive.org/web/20131030010046/http://stainsfile.info/StainsFile/dyes/26125.htm) entry
 
-[Category:偶氮染料](https://zh.wikipedia.org/wiki/Category:偶氮染料 "wikilink")
-[Category:法醫化學品](https://zh.wikipedia.org/wiki/Category:法醫化學品 "wikilink")
-[Category:染色着色劑](https://zh.wikipedia.org/wiki/Category:染色着色劑 "wikilink")
-[Category:溶劑染料](https://zh.wikipedia.org/wiki/Category:溶劑染料 "wikilink")
-[Category:2-萘酚](https://zh.wikipedia.org/wiki/Category:2-萘酚 "wikilink")
+[Category:偶氮染料](https://zh.wikipedia.org/wiki/Category:偶氮染料 "wikilink") [Category:法醫化學品](https://zh.wikipedia.org/wiki/Category:法醫化學品 "wikilink") [Category:染色着色劑](https://zh.wikipedia.org/wiki/Category:染色着色劑 "wikilink") [Category:溶劑染料](https://zh.wikipedia.org/wiki/Category:溶劑染料 "wikilink") [Category:2-萘酚](https://zh.wikipedia.org/wiki/Category:2-萘酚 "wikilink")
 
 1.
-2.  Rawji, A. ; Beaudoin, A. Oil Red O versus Physical Developer on wet
-    papers: a comparative study. Journal of Forensic Identification,
-    2006, 56 (1), 33-54.
-3.  Guigui, K.; Beaudoin, A. The use of Oil Red O in sequence with other
-    methods of fingerprint development. Journal of Forensic
-    Identification, 2007, 57 (4), 550-581.
+2.  Rawji, A. ; Beaudoin, A. Oil Red O versus Physical Developer on wet papers: a comparative study. Journal of Forensic Identification, 2006, 56 (1), 33-54.
+3.  Guigui, K.; Beaudoin, A. The use of Oil Red O in sequence with other methods of fingerprint development. Journal of Forensic Identification, 2007, 57 (4), 550-581.

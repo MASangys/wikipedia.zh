@@ -1,6 +1,4 @@
-**OGLE-2006-BLG-109L**（字母 "L"
-代表「透鏡」）是一顆位於銀河系[核球區域內的暗淡恆星](https://zh.wikipedia.org/wiki/核球_\(星系\) "wikilink")，視星等為17等，[光譜類型可能是M](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")0V，屬於紅矮星。它和地球距離4920光年，位於[人馬座](https://zh.wikipedia.org/wiki/人馬座 "wikilink")\[1\]
-。
+**OGLE-2006-BLG-109L**（字母 "L" 代表「透鏡」）是一顆位於銀河系[核球區域內的暗淡恆星](https://zh.wikipedia.org/wiki/核球_\(星系\) "wikilink")，視星等為17等，[光譜類型可能是M](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")0V，屬於紅矮星。它和地球距離4920光年，位於[人馬座](https://zh.wikipedia.org/wiki/人馬座 "wikilink")\[1\] 。
 
 ## 行星系
 
@@ -27,10 +25,7 @@
   -
   -
   -
-[Category:紅矮星](https://zh.wikipedia.org/wiki/Category:紅矮星 "wikilink")
-[Category:行星系](https://zh.wikipedia.org/wiki/Category:行星系 "wikilink")
-[Category:人馬座](https://zh.wikipedia.org/wiki/Category:人馬座 "wikilink")
-[Category:重力透鏡](https://zh.wikipedia.org/wiki/Category:重力透鏡 "wikilink")
+[Category:紅矮星](https://zh.wikipedia.org/wiki/Category:紅矮星 "wikilink") [Category:行星系](https://zh.wikipedia.org/wiki/Category:行星系 "wikilink") [Category:人馬座](https://zh.wikipedia.org/wiki/Category:人馬座 "wikilink") [Category:重力透鏡](https://zh.wikipedia.org/wiki/Category:重力透鏡 "wikilink")
 
 1.
 

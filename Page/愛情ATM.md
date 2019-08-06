@@ -1,26 +1,5 @@
 [丁春誠](../Page/丁春誠.md "wikilink"){{、w}}[鄒承恩](../Page/鄒承恩.md "wikilink"){{、w}}
-[房思瑜](../Page/房思瑜.md "wikilink"){{、w}}[楊奇煜](../Page/楊奇煜.md "wikilink"){{、w}}[穆熙妍](../Page/穆熙妍.md "wikilink")
-| judges = | voices = | narrated = | theme_music_composer = |
-opentheme = [四個朋友](../Page/四個朋友.md "wikilink")〈因為有你〉 | endtheme =
-蘭馨〈擦去的愛〉 | composer = 周崇崑 | country =  | language =
-依劇情混用[台語](../Page/臺灣話.md "wikilink")、[國語等語言](../Page/中華民國國語.md "wikilink")
-| num_seasons = | num_episodes = 13集 | list_episodes = | slogan =
-**我是你的愛情，你是我的ATM** | executive_producer = | supervising_producer =
-郝孝祖、吳嘉隆、杜榮峰 | producer = 陳行潔 | editor = 蘇佩玉、溫明龍、游東霖 | location =  |
-cinematography = 魏思傑 | camera = | company = 新遊戲時代製作有限公司 | distributor =
-| channel =
-[民視無線台](../Page/民視無線台.md "wikilink")、[民視HD台](https://zh.wikipedia.org/wiki/民視HD台 "wikilink")
-| picture_format =
-[標準畫質電視](../Page/標準畫質電視.md "wikilink")、[高解析度電視](https://zh.wikipedia.org/wiki/高解析度電視 "wikilink")
-| audio_format = | first_run =  | runtime = 90分鐘（含廣告） | first_aired =
- | last_aired =  | channel_1 = [八大綜合台](../Page/八大綜合台.md "wikilink") |
-picture_format_1 = [標準畫質電視](../Page/標準畫質電視.md "wikilink") |
-audio_format_1 = | first_run_1 =  | first_aired_1 =  |
-last_aired_1 =  | status = | preceded_by = | followed_by = | related
-= | website = <http://program.ftv.com.tw/progList.aspx?id=160> |
-production_website = | imdb_id = 6362798 }}
-，2013年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")，本齣戲為[民視第二部](https://zh.wikipedia.org/wiki/民視 "wikilink")[台灣流行劇](https://zh.wikipedia.org/wiki/台灣流行劇 "wikilink")，由新遊戲時代製作有限公司製作。由[劉品言](../Page/劉品言.md "wikilink")、[丁春誠](../Page/丁春誠.md "wikilink")、[鄒承恩](../Page/鄒承恩.md "wikilink")、[房思瑜](../Page/房思瑜.md "wikilink")、[楊奇煜](../Page/楊奇煜.md "wikilink")、[穆熙妍](../Page/穆熙妍.md "wikilink")主演。2013年1月中旬開拍。[民視於](https://zh.wikipedia.org/wiki/民視 "wikilink")2013年11月10日晚上10點首播，[八大綜合台](../Page/八大綜合台.md "wikilink")於2013年11月16日晚上9點播出，2014年2月2日播出最終回。全劇共13集，接檔《[我愛你愛你愛我](../Page/我愛你愛你愛我.md "wikilink")
-I.U.U.I》。
+[房思瑜](../Page/房思瑜.md "wikilink"){{、w}}[楊奇煜](../Page/楊奇煜.md "wikilink"){{、w}}[穆熙妍](../Page/穆熙妍.md "wikilink") | judges = | voices = | narrated = | theme_music_composer = | opentheme = [四個朋友](../Page/四個朋友.md "wikilink")〈因為有你〉 | endtheme = 蘭馨〈擦去的愛〉 | composer = 周崇崑 | country =  | language = 依劇情混用[台語](../Page/臺灣話.md "wikilink")、[國語等語言](../Page/中華民國國語.md "wikilink") | num_seasons = | num_episodes = 13集 | list_episodes = | slogan = **我是你的愛情，你是我的ATM** | executive_producer = | supervising_producer = 郝孝祖、吳嘉隆、杜榮峰 | producer = 陳行潔 | editor = 蘇佩玉、溫明龍、游東霖 | location =  | cinematography = 魏思傑 | camera = | company = 新遊戲時代製作有限公司 | distributor = | channel = [民視無線台](../Page/民視無線台.md "wikilink")、[民視HD台](https://zh.wikipedia.org/wiki/民視HD台 "wikilink") | picture_format = [標準畫質電視](../Page/標準畫質電視.md "wikilink")、[高解析度電視](https://zh.wikipedia.org/wiki/高解析度電視 "wikilink") | audio_format = | first_run =  | runtime = 90分鐘（含廣告） | first_aired =  | last_aired =  | channel_1 = [八大綜合台](../Page/八大綜合台.md "wikilink") | picture_format_1 = [標準畫質電視](../Page/標準畫質電視.md "wikilink") | audio_format_1 = | first_run_1 =  | first_aired_1 =  | last_aired_1 =  | status = | preceded_by = | followed_by = | related = | website = <http://program.ftv.com.tw/progList.aspx?id=160> | production_website = | imdb_id = 6362798 }} ，2013年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")，本齣戲為[民視第二部](https://zh.wikipedia.org/wiki/民視 "wikilink")[台灣流行劇](https://zh.wikipedia.org/wiki/台灣流行劇 "wikilink")，由新遊戲時代製作有限公司製作。由[劉品言](../Page/劉品言.md "wikilink")、[丁春誠](../Page/丁春誠.md "wikilink")、[鄒承恩](../Page/鄒承恩.md "wikilink")、[房思瑜](../Page/房思瑜.md "wikilink")、[楊奇煜](../Page/楊奇煜.md "wikilink")、[穆熙妍](../Page/穆熙妍.md "wikilink")主演。2013年1月中旬開拍。[民視於](https://zh.wikipedia.org/wiki/民視 "wikilink")2013年11月10日晚上10點首播，[八大綜合台](../Page/八大綜合台.md "wikilink")於2013年11月16日晚上9點播出，2014年2月2日播出最終回。全劇共13集，接檔《[我愛你愛你愛我](../Page/我愛你愛你愛我.md "wikilink") I.U.U.I》。
 
 ## 播出時間
 
@@ -509,19 +488,14 @@ I.U.U.I》。
 
 ## 新聞
 
-  - [劉品言傳胖丟女角
-    周采詩卡位難喬](https://web.archive.org/web/20130101060755/http://www.libertytimes.com.tw/2012/new/dec/28/today-show12.htm)
+  - [劉品言傳胖丟女角 周采詩卡位難喬](https://web.archive.org/web/20130101060755/http://www.libertytimes.com.tw/2012/new/dec/28/today-show12.htm)
   - [劉品言傳E奶太豐滿新戲被踢？　周采詩卡位談愛丁春誠](http://www.ettoday.net/news/20121228/146148.htm)
   - [先丟偶像劇女主角　劉品言再挨嘲「只會拍戲」快嫁人](http://www.ettoday.net/news/20130107/149267.htm)
-  - [劉品言壓縮胸器
-    保住《愛情》女一](https://web.archive.org/web/20130112232547/http://showbiz.chinatimes.com/showbiz/110511/112013010900591.html)
+  - [劉品言壓縮胸器 保住《愛情》女一](https://web.archive.org/web/20130112232547/http://showbiz.chinatimes.com/showbiz/110511/112013010900591.html)
   - [73歲盛竹如演《愛情ATM》 3集提領20萬](https://web.archive.org/web/20130219030949/http://showbiz.chinatimes.com/2009Cti/Channel/Showbiz/showbiz-news-cnt/0,5020,110511+112013021600007,00.html)
-  - [丁春誠新戲享艷福
-    左擁Akemi右抱穆熙妍](https://web.archive.org/web/20130225024619/http://www.libertytimes.com.tw/2013/new/feb/22/today-show4.htm)
-  - [穆熙妍愛搶鋒頭
-    女二自備百萬行頭](https://web.archive.org/web/20130222015417/http://www.libertytimes.com.tw/2013/new/feb/21/today-show9.htm)
-  - [台流對抗華流
-    民視偶像劇3連發](http://udn.com/NEWS/ENTERTAINMENT/ENT7/7775069.shtml)
+  - [丁春誠新戲享艷福 左擁Akemi右抱穆熙妍](https://web.archive.org/web/20130225024619/http://www.libertytimes.com.tw/2013/new/feb/22/today-show4.htm)
+  - [穆熙妍愛搶鋒頭 女二自備百萬行頭](https://web.archive.org/web/20130222015417/http://www.libertytimes.com.tw/2013/new/feb/21/today-show9.htm)
+  - [台流對抗華流 民視偶像劇3連發](http://udn.com/NEWS/ENTERTAINMENT/ENT7/7775069.shtml)
 
 ## 外部連結
 
@@ -532,8 +506,4 @@ I.U.U.I》。
   -
 ## 作品的變遷
 
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
-[Category:2013年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2013年台灣電視劇集 "wikilink")
-[Category:民視電視劇](https://zh.wikipedia.org/wiki/Category:民視電視劇 "wikilink")
-[Category:八大電視劇](https://zh.wikipedia.org/wiki/Category:八大電視劇 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:2013年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2013年台灣電視劇集 "wikilink") [Category:民視電視劇](https://zh.wikipedia.org/wiki/Category:民視電視劇 "wikilink") [Category:八大電視劇](https://zh.wikipedia.org/wiki/Category:八大電視劇 "wikilink")

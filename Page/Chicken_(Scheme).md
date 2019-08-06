@@ -4,12 +4,9 @@
 
 从Chicken的标志下的口号可以看出它的目的非常明确：**一个可移植的實用Scheme系统**。
 
-Chicken的主要目的是将Scheme应用到业界的软件中。Scheme在计算机科学课程和编程语言实验中非常有名，但在工业界却没有什么应用。\[1\]
-Chicken社区已经编写了大量的[库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")，能胜任各类任务。Chicken的维基（底层也是Chicken编写）有一个用Chicken写的软件的[列表](http://wiki.call-cc.org/Software)
+Chicken的主要目的是将Scheme应用到业界的软件中。Scheme在计算机科学课程和编程语言实验中非常有名，但在工业界却没有什么应用。\[1\] Chicken社区已经编写了大量的[库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")，能胜任各类任务。Chicken的维基（底层也是Chicken编写）有一个用Chicken写的软件的[列表](http://wiki.call-cc.org/Software)
 
-Chicken的另一个目的是可移植。通过编译成C代码，Chicken写的程序可以编译到常见的平台如[Linux](../Page/Linux.md "wikilink")、[Mac
-OS
-X和其他类Unix系统以及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Haiku](../Page/Haiku.md "wikilink")\[2\]。它还内置程序和扩展的交叉编译功能\[3\]使它能够在嵌入式系统上使用。
+Chicken的另一个目的是可移植。通过编译成C代码，Chicken写的程序可以编译到常见的平台如[Linux](../Page/Linux.md "wikilink")、[Mac OS X和其他类Unix系统以及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Windows和](https://zh.wikipedia.org/wiki/Windows "wikilink")[Haiku](../Page/Haiku.md "wikilink")\[2\]。它还内置程序和扩展的交叉编译功能\[3\]使它能够在嵌入式系统上使用。
 
 ## 设计
 
@@ -44,12 +41,10 @@ Chicken有一个站点提供了大量的叫做[eggs](http://wiki.call-cc.org/chi
 
 ## 外部链接
 
-  - [Chicken Scheme
-    website](http://www.call-with-current-continuation.org/)
+  - [Chicken Scheme website](http://www.call-with-current-continuation.org/)
   - [The Chicken Wiki](http://wiki.call-cc.org)
 
-[Category:Scheme实现](https://zh.wikipedia.org/wiki/Category:Scheme实现 "wikilink")
-[Category:LISP程式語言家族](https://zh.wikipedia.org/wiki/Category:LISP程式語言家族 "wikilink")
+[Category:Scheme实现](https://zh.wikipedia.org/wiki/Category:Scheme实现 "wikilink") [Category:LISP程式語言家族](https://zh.wikipedia.org/wiki/Category:LISP程式語言家族 "wikilink")
 
 1.
 2.

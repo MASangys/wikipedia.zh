@@ -1,6 +1,4 @@
-**USENIX**成立于1975年，当时的名字叫做**Unix用户群**，其主要目的是学习和开发[Unix以及类似系统](https://zh.wikipedia.org/wiki/Unix "wikilink")。1977
-年 6
-月，[美国电话电报公司的律师告诉用户群他们不能继续使用UNIX这个名字](https://zh.wikipedia.org/wiki/美国电话电报公司 "wikilink")，因为UNIX是美国电话电报公司所拥有的一个商标。所以这个用户群更名为“USENIX”\[1\]。此后，USENIX逐渐发展成一个倍受尊敬的由计算机[操作系统](../Page/操作系统.md "wikilink")用户，开发者和研究者所组成的机构。USENIX从创建之初就出版一份技术杂志名叫[;login:](http://www.usenix.org/publications/login/)
+**USENIX**成立于1975年，当时的名字叫做**Unix用户群**，其主要目的是学习和开发[Unix以及类似系统](https://zh.wikipedia.org/wiki/Unix "wikilink")。1977 年 6 月，[美国电话电报公司的律师告诉用户群他们不能继续使用UNIX这个名字](https://zh.wikipedia.org/wiki/美国电话电报公司 "wikilink")，因为UNIX是美国电话电报公司所拥有的一个商标。所以这个用户群更名为“USENIX”\[1\]。此后，USENIX逐渐发展成一个倍受尊敬的由计算机[操作系统](../Page/操作系统.md "wikilink")用户，开发者和研究者所组成的机构。USENIX从创建之初就出版一份技术杂志名叫[;login:](http://www.usenix.org/publications/login/)
 
 USENIX在其内为系统管理员另辟一个特殊兴趣小组，名叫大型系统安装管理会议。
 
@@ -113,8 +111,7 @@ USENIX在2008年成为首家提供开源阅读服务的计算机机构。所有�
   - 2004 [道格拉斯·麥克羅伊](../Page/道格拉斯·麥克羅伊.md "wikilink")
   - 2003 Rick Adams
   - 2002 [詹姆斯·高斯林](../Page/詹姆斯·高斯林.md "wikilink")
-  - 2001
-    [GNU計劃](../Page/GNU計劃.md "wikilink")及其[所有贡献者](http://www.usenix.org/about/gnuremarks.html)
+  - 2001 [GNU計劃](../Page/GNU計劃.md "wikilink")及其[所有贡献者](http://www.usenix.org/about/gnuremarks.html)
   - 2000 [理查德·史蒂文斯](../Page/理查德·史蒂文斯.md "wikilink")
   - 1999 [X Window系統社区](../Page/X_Window系統.md "wikilink")
   - 1998 [蒂姆·伯纳斯-李](../Page/蒂姆·伯纳斯-李.md "wikilink")
@@ -128,21 +125,17 @@ USENIX在2008年成为首家提供开源阅读服务的计算机机构。所有�
 
 ## 外部链接
 
-  - [USENIX: The Advanced Computing Systems
-    Organization](http://www.usenix.org/)
+  - [USENIX: The Advanced Computing Systems Organization](http://www.usenix.org/)
   - [LISA: The USENIX SIG for Sysadmins](http://www.usenix.org/lisa/)
-  - [Official USENIX YouTube
-    Channel](http://www.youtube.com/user/USENIXAssociation)
+  - [Official USENIX YouTube Channel](http://www.youtube.com/user/USENIXAssociation)
 
 ## 参见
 
   - [Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")
 
-[Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink")
-[Category:系統管理](https://zh.wikipedia.org/wiki/Category:系統管理 "wikilink")
+[Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink") [Category:系統管理](https://zh.wikipedia.org/wiki/Category:系統管理 "wikilink")
 
 1.
-2.  [USENIX Supports Open
-    Access](https://www.usenix.org/blog/usenix-supports-open-access)
+2.  [USENIX Supports Open Access](https://www.usenix.org/blog/usenix-supports-open-access)
 
 3.

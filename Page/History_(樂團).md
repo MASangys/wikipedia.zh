@@ -1,7 +1,4 @@
-**HISTORY**（），是由[LOEN
-Entertainment於](https://zh.wikipedia.org/wiki/LOEN_Entertainment "wikilink")2013年4月26日推出的5人男子團體。成員包括宋慶一、羅燾均、金時亨、金載澔、張利貞。HISTORY的名稱代表著「HIS
-STORY」，意思指「旨在希望他們能夠透過獨特的風格抓住音樂愛好者的心」。在2013年4月26日以單曲《Dreamer》在《[Music
-Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》正式出道。粉丝名称为Storia。
+**HISTORY**（），是由[LOEN Entertainment於](https://zh.wikipedia.org/wiki/LOEN_Entertainment "wikilink")2013年4月26日推出的5人男子團體。成員包括宋慶一、羅燾均、金時亨、金載澔、張利貞。HISTORY的名稱代表著「HIS STORY」，意思指「旨在希望他們能夠透過獨特的風格抓住音樂愛好者的心」。在2013年4月26日以單曲《Dreamer》在《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》正式出道。粉丝名称为Storia。
 
 2016年11月，Fave娛樂公佈HISTORY隊長宋慶一即將接受兵役，而圈內消息則指明為12月8日\[1\]。
 
@@ -266,11 +263,9 @@ Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》正式出道。粉�
   -
   -
   -
-  - [FAVE ENT Official Channel - HISTORY /
-    히스토리（播放清單）](https://www.youtube.com/playlist?list=PLh3rnPr1OM33YoZAKeEVuFf495MpXLeep)
+  - [FAVE ENT Official Channel - HISTORY / 히스토리（播放清單）](https://www.youtube.com/playlist?list=PLh3rnPr1OM33YoZAKeEVuFf495MpXLeep)
 
-  - [1theK (원더케이) -
-    HISTORY(히스토리)（播放清單）](https://www.youtube.com/playlist?list=PLID4CZACkMJQ29QEds_co8hdstUi0wHzv)
+  - [1theK (원더케이) - HISTORY(히스토리)（播放清單）](https://www.youtube.com/playlist?list=PLID4CZACkMJQ29QEds_co8hdstUi0wHzv)
 
   - [FAVE Entertainment 官方網站](http://ifaveent.co.kr/)**日本官方**
 
@@ -294,20 +289,10 @@ Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》正式出道。粉�
 
   -
   -
-[Category:FAVE娛樂](https://zh.wikipedia.org/wiki/Category:FAVE娛樂 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink")
-[Category:已解散的韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國男子演唱團體 "wikilink")
-[Category:2013年韓國建立](https://zh.wikipedia.org/wiki/Category:2013年韓國建立 "wikilink")
-[Category:2017年韓國廢除](https://zh.wikipedia.org/wiki/Category:2017年韓國廢除 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:FAVE娛樂](https://zh.wikipedia.org/wiki/Category:FAVE娛樂 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink") [Category:已解散的韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國男子演唱團體 "wikilink") [Category:2013年韓國建立](https://zh.wikipedia.org/wiki/Category:2013年韓國建立 "wikilink") [Category:2017年韓國廢除](https://zh.wikipedia.org/wiki/Category:2017年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.
-2.  [히스토리 측 "데뷔 4년만 해체 결정, 개별활동
-    지원"［공식］](http://m.entertain.naver.com/music/now/read?oid=117&aid=0002909181)
+2.  [히스토리 측 "데뷔 4년만 해체 결정, 개별활동 지원"［공식］](http://m.entertain.naver.com/music/now/read?oid=117&aid=0002909181)
 3.
 4.
 5.

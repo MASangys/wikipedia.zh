@@ -1,5 +1,4 @@
-《**奇幻魔法Melody：輕鬆舒暢♪**》（日文原名：）為《[奇幻魔法Melody](../Page/奇幻魔法Melody.md "wikilink")》系列動畫第三輯，故事延續[上一輯](../Page/奇幻魔法Melody：轉轉旋律魔法牌.md "wikilink")，主要舞台為人類世界——夢之丘這個虛構市鎮，人類主角為夢野歌。續作為《[奇幻魔法Melody
-IV](https://zh.wikipedia.org/wiki/奇幻魔法Melody_IV "wikilink")》，但與前三輯故事沒有連繫。
+《**奇幻魔法Melody：輕鬆舒暢♪**》（日文原名：）為《[奇幻魔法Melody](../Page/奇幻魔法Melody.md "wikilink")》系列動畫第三輯，故事延續[上一輯](../Page/奇幻魔法Melody：轉轉旋律魔法牌.md "wikilink")，主要舞台為人類世界——夢之丘這個虛構市鎮，人類主角為夢野歌。續作為《[奇幻魔法Melody IV](https://zh.wikipedia.org/wiki/奇幻魔法Melody_IV "wikilink")》，但與前三輯故事沒有連繫。
 
 ## 故事內容
 
@@ -19,9 +18,7 @@ IV](https://zh.wikipedia.org/wiki/奇幻魔法Melody_IV "wikilink")》，但與�
 
 :; 「」（第1話－第27話）
 
-:: 作詞：[山田ひろし](https://zh.wikipedia.org/wiki/山田ひろし "wikilink") /
-作曲・編曲：[渡部チェル](https://zh.wikipedia.org/wiki/渡部チェル "wikilink")
-/ 歌：[黒木マリナ](https://zh.wikipedia.org/wiki/黒木マリナ "wikilink")
+:: 作詞：[山田ひろし](https://zh.wikipedia.org/wiki/山田ひろし "wikilink") / 作曲・編曲：[渡部チェル](https://zh.wikipedia.org/wiki/渡部チェル "wikilink") / 歌：[黒木マリナ](https://zh.wikipedia.org/wiki/黒木マリナ "wikilink")
 
 :: 第7集開始影像有部分變化。
 
@@ -30,8 +27,7 @@ IV](https://zh.wikipedia.org/wiki/奇幻魔法Melody_IV "wikilink")》，但與�
   -
 
       -
-        作詞：t@28 / 作曲・編曲：渡部チェル /
-        歌：[ナナカナ](https://zh.wikipedia.org/wiki/ナナカナ "wikilink")
+        作詞：t@28 / 作曲・編曲：渡部チェル / 歌：[ナナカナ](https://zh.wikipedia.org/wiki/ナナカナ "wikilink")
 
   - 片尾曲
 
@@ -596,12 +592,6 @@ IV](https://zh.wikipedia.org/wiki/奇幻魔法Melody_IV "wikilink")》，但與�
 
   - [交換日記が出来たらイイナ\!](http://mymelotv.exblog.jp/)（製作人員網誌）
 
-[O](https://zh.wikipedia.org/wiki/分類:搞笑動畫 "wikilink")
-[O](https://zh.wikipedia.org/wiki/分類:奇幻動畫 "wikilink")
-[O](https://zh.wikipedia.org/wiki/分類:2007年東京電視網動畫 "wikilink")
-[O](https://zh.wikipedia.org/wiki/分類:以兔子為主角的故事 "wikilink")
-[O](https://zh.wikipedia.org/wiki/分類:中學背景動畫 "wikilink")
-[O](https://zh.wikipedia.org/wiki/分類:無綫電視外購動畫 "wikilink")
-[分類:三麗鷗](https://zh.wikipedia.org/wiki/分類:三麗鷗 "wikilink")
+[O](https://zh.wikipedia.org/wiki/分類:搞笑動畫 "wikilink") [O](https://zh.wikipedia.org/wiki/分類:奇幻動畫 "wikilink") [O](https://zh.wikipedia.org/wiki/分類:2007年東京電視網動畫 "wikilink") [O](https://zh.wikipedia.org/wiki/分類:以兔子為主角的故事 "wikilink") [O](https://zh.wikipedia.org/wiki/分類:中學背景動畫 "wikilink") [O](https://zh.wikipedia.org/wiki/分類:無綫電視外購動畫 "wikilink") [分類:三麗鷗](https://zh.wikipedia.org/wiki/分類:三麗鷗 "wikilink")
 
 [Category:STUDIO_COMET](https://zh.wikipedia.org/wiki/Category:STUDIO_COMET "wikilink")

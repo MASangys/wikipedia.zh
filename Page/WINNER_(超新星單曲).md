@@ -1,8 +1,4 @@
-《**WINNER**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[超新星的第十七張單曲](https://zh.wikipedia.org/wiki/超新星_\(韓國組合\) "wikilink")，由[Didrik
-Thott](https://zh.wikipedia.org/wiki/Didrik_Thott "wikilink")、[Kirstine
-Lind](https://zh.wikipedia.org/wiki/Kirstine_Lind "wikilink")、[Sebastian
-Thott作曲](https://zh.wikipedia.org/wiki/Sebastian_Thott "wikilink")；[kenko-p與Didrik](https://zh.wikipedia.org/wiki/kenko-p "wikilink")
-Thott作詞，並在2013年8月7日以五個不同版本推出\[1\]。此單曲也是隊長[允鶴服兵役後首張再參與的單曲](https://zh.wikipedia.org/wiki/鄭允鶴 "wikilink")。
+《**WINNER**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[超新星的第十七張單曲](https://zh.wikipedia.org/wiki/超新星_\(韓國組合\) "wikilink")，由[Didrik Thott](https://zh.wikipedia.org/wiki/Didrik_Thott "wikilink")、[Kirstine Lind](https://zh.wikipedia.org/wiki/Kirstine_Lind "wikilink")、[Sebastian Thott作曲](https://zh.wikipedia.org/wiki/Sebastian_Thott "wikilink")；[kenko-p與Didrik](https://zh.wikipedia.org/wiki/kenko-p "wikilink") Thott作詞，並在2013年8月7日以五個不同版本推出\[1\]。此單曲也是隊長[允鶴服兵役後首張再參與的單曲](https://zh.wikipedia.org/wiki/鄭允鶴 "wikilink")。
 
 ## 背景
 
@@ -54,8 +50,7 @@ Thott作詞，並在2013年8月7日以五個不同版本推出\[1\]。此單曲�
 
   -
 
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:超新星音樂專輯](https://zh.wikipedia.org/wiki/Category:超新星音樂專輯 "wikilink")
+[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:超新星音樂專輯](https://zh.wikipedia.org/wiki/Category:超新星音樂專輯 "wikilink")
 
 1.
 

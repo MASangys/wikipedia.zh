@@ -12,8 +12,7 @@
 ## 鄰近景點
 
   - [冒險巨蛋](https://zh.wikipedia.org/wiki/冒險巨蛋 "wikilink")（Adventuredome）
-  - [弗蒙街體驗](https://zh.wikipedia.org/wiki/弗蒙街體驗 "wikilink")（Fremont
-    Street Experience）
+  - [弗蒙街體驗](https://zh.wikipedia.org/wiki/弗蒙街體驗 "wikilink")（Fremont Street Experience）
   - 同溫層酒店觀景台
 
 ## 資料來源
@@ -23,8 +22,7 @@
   -
 |-
 
-[Category:拉斯維加斯單軌電車車站](https://zh.wikipedia.org/wiki/Category:拉斯維加斯單軌電車車站 "wikilink")
-[Category:2004年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2004年啟用的鐵路車站 "wikilink")
+[Category:拉斯維加斯單軌電車車站](https://zh.wikipedia.org/wiki/Category:拉斯維加斯單軌電車車站 "wikilink") [Category:2004年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2004年啟用的鐵路車站 "wikilink")
 
 1.
 2.

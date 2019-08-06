@@ -7,8 +7,7 @@
 ## 演員表
 
   - [楊麗青](https://zh.wikipedia.org/wiki/楊麗青 "wikilink") 飾 楊麗青
-  - [甄子丹](../Page/甄子丹.md "wikilink") 飾
-    Donnie（粵語配音：[朱子聰](../Page/朱子聰.md "wikilink")）
+  - [甄子丹](../Page/甄子丹.md "wikilink") 飾 Donnie（粵語配音：[朱子聰](../Page/朱子聰.md "wikilink")）
   - [袁日初](https://zh.wikipedia.org/wiki/袁日初 "wikilink") 飾 陸雲庭(六仔)
   - [王敏德](../Page/王敏德.md "wikilink") 飾 Michael
   - [廖啟智](../Page/廖啟智.md "wikilink") 飾 天九明
@@ -34,9 +33,4 @@
   -
   -
   -
-[Category:袁和平電影](https://zh.wikipedia.org/wiki/Category:袁和平電影 "wikilink")
-[Category:1980年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1980年代香港電影作品 "wikilink")
-[Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink")
-[Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink")
-[Category:美国背景电影](https://zh.wikipedia.org/wiki/Category:美国背景电影 "wikilink")
-[Category:美国取景电影](https://zh.wikipedia.org/wiki/Category:美国取景电影 "wikilink")
+[Category:袁和平電影](https://zh.wikipedia.org/wiki/Category:袁和平電影 "wikilink") [Category:1980年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1980年代香港電影作品 "wikilink") [Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink") [Category:續集電影](https://zh.wikipedia.org/wiki/Category:續集電影 "wikilink") [Category:美国背景电影](https://zh.wikipedia.org/wiki/Category:美国背景电影 "wikilink") [Category:美国取景电影](https://zh.wikipedia.org/wiki/Category:美国取景电影 "wikilink")

@@ -18,10 +18,8 @@
 
 ## 支持的硬件
 
-  - 硬盘和[U盘](https://zh.wikipedia.org/wiki/U盘 "wikilink")（又称闪盘、[优盘](https://zh.wikipedia.org/wiki/优盘 "wikilink")）。
-    支持的文件系统是[FAT12](https://zh.wikipedia.org/wiki/FAT12 "wikilink")，[FAT16](https://zh.wikipedia.org/wiki/FAT16 "wikilink")，[FAT32](https://zh.wikipedia.org/wiki/FAT32 "wikilink")（支持长文件名​​），[NTFS](../Page/NTFS.md "wikilink")（部分只读），EXT2/EXT3（部分只读）和CDFS
-  - AC'97音频[编解码器](../Page/编解码器.md "wikilink")，支持[英特尔](../Page/英特尔.md "wikilink")，[nForce](https://zh.wikipedia.org/wiki/nForce "wikilink")，[nForce2](https://zh.wikipedia.org/wiki/nForce2 "wikilink")，[nForce3](https://zh.wikipedia.org/wiki/nForce3 "wikilink")，[nForce4](https://zh.wikipedia.org/wiki/nForce4 "wikilink")，SIS7012，FM801，VT8233，VT8233C，VT8235，VT8237，VT8237R晶片，威盛VT8237R
-    Plus或EMU10K1X芯片
+  - 硬盘和[U盘](https://zh.wikipedia.org/wiki/U盘 "wikilink")（又称闪盘、[优盘](https://zh.wikipedia.org/wiki/优盘 "wikilink")）。 支持的文件系统是[FAT12](https://zh.wikipedia.org/wiki/FAT12 "wikilink")，[FAT16](https://zh.wikipedia.org/wiki/FAT16 "wikilink")，[FAT32](https://zh.wikipedia.org/wiki/FAT32 "wikilink")（支持长文件名​​），[NTFS](../Page/NTFS.md "wikilink")（部分只读），EXT2/EXT3（部分只读）和CDFS
+  - AC'97音频[编解码器](../Page/编解码器.md "wikilink")，支持[英特尔](../Page/英特尔.md "wikilink")，[nForce](https://zh.wikipedia.org/wiki/nForce "wikilink")，[nForce2](https://zh.wikipedia.org/wiki/nForce2 "wikilink")，[nForce3](https://zh.wikipedia.org/wiki/nForce3 "wikilink")，[nForce4](https://zh.wikipedia.org/wiki/nForce4 "wikilink")，SIS7012，FM801，VT8233，VT8233C，VT8235，VT8237，VT8237R晶片，威盛VT8237R Plus或EMU10K1X芯片
   - 支持某些[主板](../Page/主板.md "wikilink")的[高清音频](https://zh.wikipedia.org/wiki/高清 "wikilink")[编解码器](../Page/编解码器.md "wikilink")
   - [AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")，[ATI和](https://zh.wikipedia.org/wiki/ATI "wikilink")[Intel的视频](https://zh.wikipedia.org/wiki/Intel "wikilink")[芯片](https://zh.wikipedia.org/wiki/芯片 "wikilink")
 

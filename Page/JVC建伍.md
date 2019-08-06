@@ -1,5 +1,4 @@
-[jkhlogo.png](https://zh.wikipedia.org/wiki/File:jkhlogo.png "fig:jkhlogo.png")
-**JVC建伍株式会社**（），是總部設在日本[橫濱的跨國電子產業](https://zh.wikipedia.org/wiki/橫濱 "wikilink")。旗下子公司亦涉足娛樂事業等領域。
+[jkhlogo.png](https://zh.wikipedia.org/wiki/File:jkhlogo.png "fig:jkhlogo.png") **JVC建伍株式会社**（），是總部設在日本[橫濱的跨國電子產業](https://zh.wikipedia.org/wiki/橫濱 "wikilink")。旗下子公司亦涉足娛樂事業等領域。
 
 ## 概要
 
@@ -94,14 +93,7 @@
   - [JVCKW Global](http://www.jvckenwood.com/)
   - [JVCKW](http://www.jvckenwood.co.jp/)
 
-[Category:JVC建伍](https://zh.wikipedia.org/wiki/Category:JVC建伍 "wikilink")
-[Category:日本電子公司](https://zh.wikipedia.org/wiki/Category:日本電子公司 "wikilink")
-[Category:跨国公司](https://zh.wikipedia.org/wiki/Category:跨国公司 "wikilink")
-[Category:東京證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:東京證券交易所上市公司 "wikilink")
-[Category:無線](https://zh.wikipedia.org/wiki/Category:無線 "wikilink")
-[Category:業餘無線電](https://zh.wikipedia.org/wiki/Category:業餘無線電 "wikilink")
-[Category:神奈川縣公司](https://zh.wikipedia.org/wiki/Category:神奈川縣公司 "wikilink")
-[Category:神奈川區](https://zh.wikipedia.org/wiki/Category:神奈川區 "wikilink")
+[Category:JVC建伍](https://zh.wikipedia.org/wiki/Category:JVC建伍 "wikilink") [Category:日本電子公司](https://zh.wikipedia.org/wiki/Category:日本電子公司 "wikilink") [Category:跨国公司](https://zh.wikipedia.org/wiki/Category:跨国公司 "wikilink") [Category:東京證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:東京證券交易所上市公司 "wikilink") [Category:無線](https://zh.wikipedia.org/wiki/Category:無線 "wikilink") [Category:業餘無線電](https://zh.wikipedia.org/wiki/Category:業餘無線電 "wikilink") [Category:神奈川縣公司](https://zh.wikipedia.org/wiki/Category:神奈川縣公司 "wikilink") [Category:神奈川區](https://zh.wikipedia.org/wiki/Category:神奈川區 "wikilink")
 
 1.
 2.

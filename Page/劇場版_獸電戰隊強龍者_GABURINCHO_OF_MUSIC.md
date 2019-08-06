@@ -1,7 +1,4 @@
-『劇場版 獸電戰隊強龍者 GABURINCHO OF MUSIC』（日文：劇場版 獣電戦隊キョウリュウジャー
-ガブリンチョ・オブ・ミュージック）是2013年8月3日東映特攝電視劇[超級戰隊系列的](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")『[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")』的劇場版作品。與[假面騎士系列](../Page/假面騎士系列.md "wikilink")的『[劇場版
-假面騎士Wizard in Magic
-Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』同時上映。
+『劇場版 獸電戰隊強龍者 GABURINCHO OF MUSIC』（日文：劇場版 獣電戦隊キョウリュウジャー ガブリンチョ・オブ・ミュージック）是2013年8月3日東映特攝電視劇[超級戰隊系列的](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")『[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")』的劇場版作品。與[假面騎士系列](../Page/假面騎士系列.md "wikilink")的『[劇場版 假面騎士Wizard in Magic Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』同時上映。
 
 ## 概要
 
@@ -20,8 +17,7 @@ Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』同時
   - 獰猛的戰騎『D』 / 亡龍者
     百面神關卡奧斯採取恐龍的感情所誕生出的太古戰騎，反派的強龍者，換言之，就是邪惡的深藍色戰士。
     個性非常的兇猛好戰，甚至比多科多還要兇暴，為了滿足自己戰鬥的慾望，他不時在外到處破壞和戰鬥，連卡奧斯都對他有些戰慄。對於首領卡奧斯沒有任何的忠誠度。
-    武器為劍，即使習慣使用魔笛型的迴旋鏢「長笛破壞砲（フルートバスター）」，利用長笛破壞砲吹奏出來的音樂會使獸電龍痛苦，體力和力量也會跟著變弱。必殺技為在長笛破壞砲填裝亡領給亡龍者的獸電池，模仿飛馳棘龍頭部所放出來的高能量彈「魔樂章亡領Finish（魔楽章デーボスフィニッシュ）」，和大吾決戰時用「最終樂章亡領Finish（最終楽章デーボスフィニッシュ）」來稱呼。他專用的機車是「D
-    Racer（Dレーサー）」。平時都是穿著亡龍者的戰鬥服，但是和大吾決戰之時他將面罩脫掉露出了素顏。
+    武器為劍，即使習慣使用魔笛型的迴旋鏢「長笛破壞砲（フルートバスター）」，利用長笛破壞砲吹奏出來的音樂會使獸電龍痛苦，體力和力量也會跟著變弱。必殺技為在長笛破壞砲填裝亡領給亡龍者的獸電池，模仿飛馳棘龍頭部所放出來的高能量彈「魔樂章亡領Finish（魔楽章デーボスフィニッシュ）」，和大吾決戰時用「最終樂章亡領Finish（最終楽章デーボスフィニッシュ）」來稱呼。他專用的機車是「D Racer（Dレーサー）」。平時都是穿著亡龍者的戰鬥服，但是和大吾決戰之時他將面罩脫掉露出了素顏。
     於Brave 39再次登場。
 
 <!-- end list -->
@@ -46,8 +42,7 @@ Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』同時
 ### 劇場版原創戰士
 
   - 強龍紅 暴咬Armed on（キョウリュウレッド ガブルアームド・オン）
-    強龍紅利用「暴咬Armed on
-    暴咬龍獸電池」進行強龍變身獸的型態。兩手裝備**暴咬龍獠牙**，和裝備**恐鱷挖掘機**一樣為金色的裝甲鎧。
+    強龍紅利用「暴咬Armed on 暴咬龍獸電池」進行強龍變身獸的型態。兩手裝備**暴咬龍獠牙**，和裝備**恐鱷挖掘機**一樣為金色的裝甲鎧。
     必殺技是比「暴咬龍岩烈拳」還要快速，以超高速連續的攻擊的「GABUGABU·暴咬龍岩烈拳」。
 
 ## 獸電池
@@ -66,8 +61,7 @@ Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』同時
 
 <!-- end list -->
 
-  - 全長：77.6m / 全高：57.2m（戰鬥模式）、49.5m（通常時）/ 全幅：34.1m / 重量：2500t /
-    最高走行速度：350km/h / 出力：920萬馬力
+  - 全長：77.6m / 全高：57.2m（戰鬥模式）、49.5m（通常時）/ 全幅：34.1m / 重量：2500t / 最高走行速度：350km/h / 出力：920萬馬力
 
 <!-- end list -->
 
@@ -81,8 +75,7 @@ Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』同時
 
 <!-- end list -->
 
-  - 全高：51.2m（頭頂部最高點量起）、55.1m（右肩最高的部分） / 全幅：64.7m / 胸厚：22.5m / 重量：4300t /
-    最高速度：400km/h / 最高出力：160萬馬力
+  - 全高：51.2m（頭頂部最高點量起）、55.1m（右肩最高的部分） / 全幅：64.7m / 胸厚：22.5m / 重量：4300t / 最高速度：400km/h / 最高出力：160萬馬力
 
 <!-- end list -->
 
@@ -90,8 +83,7 @@ Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』同時
     以**飛馳棘龍**為中心，並讓**甲鎚龍**和**錘頭龍**強制咬住合體後，所誕生出來的邪惡獸電合體機神。就是黑暗型態的棘大王。
     邪惡型態跟正義型態的駕駛室不同。
     右腕裝備**甲鎚龍鐵錘**、左腕裝備**錘頭龍流星錘**；而且右手是**棘龍迴旋鏢**、左手是**棘龍迴亡劍**。
-    必殺技有兩個，在亡龍者邪惡的支配下，由右肩飛馳棘龍的頭所放出來的「**超破滅光彈**」、喚回正義之心後必殺技是利用全身的高速迴轉，利用右腕的**甲鎚龍鐵錘**及左腕的**錘頭龍流星錘**連續扣打攻擊的「**棘大王・Brave
-    Finish**」。
+    必殺技有兩個，在亡龍者邪惡的支配下，由右肩飛馳棘龍的頭所放出來的「**超破滅光彈**」、喚回正義之心後必殺技是利用全身的高速迴轉，利用右腕的**甲鎚龍鐵錘**及左腕的**錘頭龍流星錘**連續扣打攻擊的「**棘大王・Brave Finish**」。
     最終在天野美琴和強龍者正義的歌聲下，喚回了正義之心，而強制咬住合體的甲鎚龍和錘頭龍也喚回了正義之心。
 
 ## 演員
@@ -99,8 +91,7 @@ Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』同時
   - 桐生大吾 / 強龍紅（聲） - [龍星涼](../Page/龍星涼.md "wikilink")
   - 伊恩・尤克蘭 / 強龍黑（聲） - [齊藤秀翼](../Page/齊藤秀翼.md "wikilink")
   - 有働伸治 / 強龍藍（聲） - [金城大和](../Page/金城大和.md "wikilink")
-  - 立風館總司 / 強龍綠（聲） -
-    [塩野瑛久](https://zh.wikipedia.org/wiki/鹽野瑛久 "wikilink")
+  - 立風館總司 / 強龍綠（聲） - [塩野瑛久](https://zh.wikipedia.org/wiki/鹽野瑛久 "wikilink")
   - 艾美結月 / 強龍粉（聲） - [今野鮎莉](../Page/今野鮎莉.md "wikilink")
   - 空蟬丸 / 強龍金（聲） - [丸山敦史](../Page/丸山敦史.md "wikilink")
   - 天野美琴（Meeko） - [中村静香](../Page/中村静香.md "wikilink")
@@ -129,8 +120,7 @@ Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』同時
       - [大阪櫻花](../Page/大阪櫻花.md "wikilink")：ノブレ・バリエンテ・アッチェ・ロビート・デ・セレッソ
   - [假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")（友情客串）
       - 操真晴人 / 假面騎士Wizard：[白石隼也](../Page/白石隼也.md "wikilink")
-      - 仁藤攻介 /
-        假面騎士Beast：[永瀬匡](https://zh.wikipedia.org/wiki/永瀬匡 "wikilink")
+      - 仁藤攻介 / 假面騎士Beast：[永瀬匡](https://zh.wikipedia.org/wiki/永瀬匡 "wikilink")
       - 曆：[奥仲麻琴](https://zh.wikipedia.org/wiki/奥仲麻琴 "wikilink")
       - 大門凜子：[高山侑子](../Page/高山侑子.md "wikilink")
       - 奈良瞬平：[戶塚純貴](https://zh.wikipedia.org/wiki/戶塚純貴 "wikilink")
@@ -139,8 +129,7 @@ Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』同時
 
   - 原作 - [八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")
 
-  - 製作人 -
-    （[朝日電視台](../Page/朝日電視台.md "wikilink")）、（[東映](../Page/東映.md "wikilink")）、矢田晃一、深田明宏（）
+  - 製作人 - （[朝日電視台](../Page/朝日電視台.md "wikilink")）、（[東映](../Page/東映.md "wikilink")）、矢田晃一、深田明宏（）
 
   - 腳本 - [三条陸](https://zh.wikipedia.org/wiki/三条陸 "wikilink")
 
@@ -200,8 +189,7 @@ Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』同時
 
   - 配給 - [東映](../Page/東映.md "wikilink")
 
-  - 制作 -
-    劇場版「Wizard・強龍者」製作委員会（東映、[朝日電視](https://zh.wikipedia.org/wiki/朝日電視 "wikilink")、[東映動畫](../Page/东映动画.md "wikilink")、、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、東映機構、[萬代](../Page/萬代.md "wikilink")）
+  - 制作 - 劇場版「Wizard・強龍者」製作委員会（東映、[朝日電視](https://zh.wikipedia.org/wiki/朝日電視 "wikilink")、[東映動畫](../Page/东映动画.md "wikilink")、、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、東映機構、[萬代](../Page/萬代.md "wikilink")）
 
 ## 音樂
 
@@ -212,20 +200,17 @@ Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』同時
   -
 
       -
-        作詞・作曲：[高取秀明](../Page/高取秀明.md "wikilink") / 編曲： /
-        歌：[高取秀明](../Page/高取秀明.md "wikilink")、&[強龍者](https://zh.wikipedia.org/wiki/獸電戰隊強龍者#強龍者 "wikilink")
+        作詞・作曲：[高取秀明](../Page/高取秀明.md "wikilink") / 編曲： / 歌：[高取秀明](../Page/高取秀明.md "wikilink")、&[強龍者](https://zh.wikipedia.org/wiki/獸電戰隊強龍者#強龍者 "wikilink")
 
   - 挿入歌
 
 :;「(Samba Mix)」（VAMOLA\! 強龍者(Samba Mix)）
 
-:: 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲： /
-編曲：[山下康介](../Page/山下康介.md "wikilink") / 歌:鎌田章吾
+:: 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲： / 編曲：[山下康介](../Page/山下康介.md "wikilink") / 歌:鎌田章吾
 
 :;「Dino Soul」
 
-:: 作詞：[三条陸](https://zh.wikipedia.org/wiki/三条陸 "wikilink") / 作曲・編曲： /
-歌：Meeko(CV:[中村静香](../Page/中村静香.md "wikilink"))
+:: 作詞：[三条陸](https://zh.wikipedia.org/wiki/三条陸 "wikilink") / 作曲・編曲： / 歌：Meeko(CV:[中村静香](../Page/中村静香.md "wikilink"))
 
 :;「カミツキ・ブレイブ」（Bite Brave）
 
@@ -237,8 +222,7 @@ Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』同時
 
 :;「ココロの隙間ワールド」（心間隙中的世界）
 
-:: 作詞：只野菜摘 / 作曲・編曲：坂部剛 /
-歌:キャンデリラ、アイガロン、ラッキューロ(CV：[戸松遥](https://zh.wikipedia.org/wiki/戸松遥 "wikilink")、、[折笠愛](../Page/折笠愛.md "wikilink"))
+:: 作詞：只野菜摘 / 作曲・編曲：坂部剛 / 歌:キャンデリラ、アイガロン、ラッキューロ(CV：[戸松遥](https://zh.wikipedia.org/wiki/戸松遥 "wikilink")、、[折笠愛](../Page/折笠愛.md "wikilink"))
 
 :;「Dino Soul(古代ver.)」
 
@@ -251,10 +235,4 @@ Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』同時
 
   - [官方網站](https://web.archive.org/web/20130805064408/http://wizard-kyoryu.jp/)
 
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
-[Category:2013年日本電影](https://zh.wikipedia.org/wiki/Category:2013年日本電影 "wikilink")
-[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
-[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink")
-[Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink")
-[Category:2010年代歌舞片](https://zh.wikipedia.org/wiki/Category:2010年代歌舞片 "wikilink")
-[Category:恐龍題材電影](https://zh.wikipedia.org/wiki/Category:恐龍題材電影 "wikilink")
+[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink") [Category:2013年日本電影](https://zh.wikipedia.org/wiki/Category:2013年日本電影 "wikilink") [Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink") [Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink") [Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink") [Category:2010年代歌舞片](https://zh.wikipedia.org/wiki/Category:2010年代歌舞片 "wikilink") [Category:恐龍題材電影](https://zh.wikipedia.org/wiki/Category:恐龍題材電影 "wikilink")

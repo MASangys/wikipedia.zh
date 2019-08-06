@@ -1,8 +1,4 @@
-是由[日本](../Page/日本.md "wikilink")遊戲製作商[史克威爾艾尼克斯第一開發部負責開發](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")，史克威爾艾尼克斯發售的[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，对应
-[PlayStation 3](../Page/PlayStation_3.md "wikilink")、[Xbox
-360和](../Page/Xbox_360.md "wikilink")[Windows平台](https://zh.wikipedia.org/wiki/Windows "wikilink")。游戏最初于2013年11月在日本、台湾和香港的PlayStation
-3和Xbox 360平台發售，2014年2月在欧洲和北美发售。本作亦是“[新的水晶故事
-最终幻想](../Page/新的水晶故事_最终幻想.md "wikilink")”系列的一部分，將作為《[最終幻想XIII-2](https://zh.wikipedia.org/wiki/最終幻想XIII-2 "wikilink")》的續篇，終結自《[最終幻想XIII](https://zh.wikipedia.org/wiki/最終幻想XIII "wikilink")》開始的劇情。《雷霆归来》在游戏系统上进行了大幅改进，采用动作导向的战斗系统。玩家可自定义角色的装备。游戏采用昼夜周期系统，玩家只有13天去阻止世界末日爆发，玩家的某些行动会延迟时间，而有些行动则会加剧末日进程。
+是由[日本](../Page/日本.md "wikilink")遊戲製作商[史克威爾艾尼克斯第一開發部負責開發](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")，史克威爾艾尼克斯發售的[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，对应 [PlayStation 3](../Page/PlayStation_3.md "wikilink")、[Xbox 360和](../Page/Xbox_360.md "wikilink")[Windows平台](https://zh.wikipedia.org/wiki/Windows "wikilink")。游戏最初于2013年11月在日本、台湾和香港的PlayStation 3和Xbox 360平台發售，2014年2月在欧洲和北美发售。本作亦是“[新的水晶故事 最终幻想](../Page/新的水晶故事_最终幻想.md "wikilink")”系列的一部分，將作為《[最終幻想XIII-2](https://zh.wikipedia.org/wiki/最終幻想XIII-2 "wikilink")》的續篇，終結自《[最終幻想XIII](https://zh.wikipedia.org/wiki/最終幻想XIII "wikilink")》開始的劇情。《雷霆归来》在游戏系统上进行了大幅改进，采用动作导向的战斗系统。玩家可自定义角色的装备。游戏采用昼夜周期系统，玩家只有13天去阻止世界末日爆发，玩家的某些行动会延迟时间，而有些行动则会加剧末日进程。
 
 游戏故事发生在前作的500年之后，[雷霆被神布涅貝哲选为](../Page/雷霆_\(最终幻想\).md "wikilink")“解放者”，在末日前的13天从水晶状态被唤醒，来拯救这个世界和她的朋友。在旅途中，她得知了两个世界命运的真相和布涅貝哲的真正目的。
 
@@ -14,36 +10,23 @@
 
 遊戲設有三個難度：簡易（Easy）\[3\]、正常（Normal）及困難（Hard），後者須完成遊戲一次才會解除。遊戲完成後可進入[多週目模式](https://zh.wikipedia.org/wiki/二週目 "wikilink")，在保留上週目裝備與能力參數下再次進行遊戲\[4\]。遊戲難度對遊戲的內置計時器有所影響：在雷光進行探索時，內置計時器將持續運作，簡易難度中遊戲內一天約為現實時間二至三小時，正常與困難遊戲內一天則約為現實時間一小時\[5\]\[6\]。遊戲開始時，內置計時器給予七天遊戲時間，最多能延長至十三天\[7\]。計時器在對話、戰鬥、以及遊戲影片播放期間暫停運作。雷光也能運用其「時間暫停」（Chronostasis）能力使遊戲內時間暫時靜止\[8\]。
 
-遊戲任務對雷光成長與遊戲時間有直接影響：每完成一任務，雷光的能力參數均有所增長，其中主線任務對雷光的能力提升最為顯著\[9\]。由於遊戲世界以實時運行，非玩家角色會持續活動，部分只在指定時段於指定地點徘徊，因此部分支線任務只能在指定時段內取得\[10\]。雷光也能在各遊戲區域均有設立的壁報版「祈禱畫板」（Canvas
-of
-Prayers）處接受任務\[11\]。同時每一完成一任務，雷光均可從心靈得到解放的非玩家角色身上取得名為「輝力」（Eradia）的能量\[12\]，遊戲內每天早上六時，雷光會被傳送至遊戲時間靜止的「方舟」（Ark），為當中的「聖樹」（Yggdrasil）獻上輝力，輝力如達一定程度，遊戲時間將延長一天；然而某些行动会加快世界滅亡\[13\]。雷光於方舟內亦可補充物資和取得新裝備\[14\]\[15\]。
+遊戲任務對雷光成長與遊戲時間有直接影響：每完成一任務，雷光的能力參數均有所增長，其中主線任務對雷光的能力提升最為顯著\[9\]。由於遊戲世界以實時運行，非玩家角色會持續活動，部分只在指定時段於指定地點徘徊，因此部分支線任務只能在指定時段內取得\[10\]。雷光也能在各遊戲區域均有設立的壁報版「祈禱畫板」（Canvas of Prayers）處接受任務\[11\]。同時每一完成一任務，雷光均可從心靈得到解放的非玩家角色身上取得名為「輝力」（Eradia）的能量\[12\]，遊戲內每天早上六時，雷光會被傳送至遊戲時間靜止的「方舟」（Ark），為當中的「聖樹」（Yggdrasil）獻上輝力，輝力如達一定程度，遊戲時間將延長一天；然而某些行动会加快世界滅亡\[13\]。雷光於方舟內亦可補充物資和取得新裝備\[14\]\[15\]。
 
-遊戲設有「外世界服務」（Outerworld
-Services），容許玩家拍下遊戲截圖並在社交網站[Facebook](../Page/Facebook.md "wikilink")和[Twitter](../Page/Twitter.md "wikilink")加以分享，以及分享個人數值與戰鬥分數\[16\]。Facebook服務於2015年4月被取消\[17\]。
+遊戲設有「外世界服務」（Outerworld Services），容許玩家拍下遊戲截圖並在社交網站[Facebook](../Page/Facebook.md "wikilink")和[Twitter](../Page/Twitter.md "wikilink")加以分享，以及分享個人數值與戰鬥分數\[16\]。Facebook服務於2015年4月被取消\[17\]。
 
 ### 戰鬥系統
 
-[Lightning_Returns_gameplay.jpg](https://zh.wikipedia.org/wiki/File:Lightning_Returns_gameplay.jpg "fig:Lightning_Returns_gameplay.jpg")
-遊戲採用「服裝轉換即時戰鬥」系統（Style-Change Active Time
-Battle）\[18\]，包含了前兩作的即時戰鬥職能系統元素，以及《[最終幻想X-2](https://zh.wikipedia.org/wiki/最終幻想X-2 "wikilink")》的換裝系統（Dressphere）\[19\]\[20\]\[21\]：雷光能取得多種服裝（garb），各服裝有各自的ATB槽，不同戰鬥技能可自由搭配在對應遊戲手制按鈕的空格內，最後選出三套服裝搭配不同武裝與飾品成為完整套裝（Schemata）於戰鬥中選用，是項設定容許雷光在戰場上以最少幅度移動，在各套裝之間自由轉換以便即時作出不同的行動\[22\]。大部分服裝與飾品能在遊戲內的店舖中購入或在完成任務後取得\[23\]，較強力的服裝、道具和武裝只能在困難模式中取得\[24\]。各服裝有預設色調，玩家亦可自由更改\[25\]。
+[Lightning_Returns_gameplay.jpg](https://zh.wikipedia.org/wiki/File:Lightning_Returns_gameplay.jpg "fig:Lightning_Returns_gameplay.jpg") 遊戲採用「服裝轉換即時戰鬥」系統（Style-Change Active Time Battle）\[18\]，包含了前兩作的即時戰鬥職能系統元素，以及《[最終幻想X-2](https://zh.wikipedia.org/wiki/最終幻想X-2 "wikilink")》的換裝系統（Dressphere）\[19\]\[20\]\[21\]：雷光能取得多種服裝（garb），各服裝有各自的ATB槽，不同戰鬥技能可自由搭配在對應遊戲手制按鈕的空格內，最後選出三套服裝搭配不同武裝與飾品成為完整套裝（Schemata）於戰鬥中選用，是項設定容許雷光在戰場上以最少幅度移動，在各套裝之間自由轉換以便即時作出不同的行動\[22\]。大部分服裝與飾品能在遊戲內的店舖中購入或在完成任務後取得\[23\]，較強力的服裝、道具和武裝只能在困難模式中取得\[24\]。各服裝有預設色調，玩家亦可自由更改\[25\]。
 
-與前作相同，遊戲內敵人於開放式環境中隨機出現，玩家可自由決定迎戰或迴避。敵人數量於晚上較多，其攻擊力將隨著遊戲內部時間流逝逐漸增加\[26\]\[27\]。在消滅一敵人種類的所有標準版後，其「最後一隻」（Last
-One）將作為頭目現身，擊敗牠能獲得較高報酬，同時使該敵人種類於是次遊戲旅程中滅絕\[28\]。
+與前作相同，遊戲內敵人於開放式環境中隨機出現，玩家可自由決定迎戰或迴避。敵人數量於晚上較多，其攻擊力將隨著遊戲內部時間流逝逐漸增加\[26\]\[27\]。在消滅一敵人種類的所有標準版後，其「最後一隻」（Last One）將作為頭目現身，擊敗牠能獲得較高報酬，同時使該敵人種類於是次遊戲旅程中滅絕\[28\]。
 
-戰鬥於雷光向現身敵人攻擊或被攻擊後展開，戰鬥如在敵人被雷光攻擊下展開，敵人[生命值](../Page/生命值.md "wikilink")將在戰鬥開始時下降；如戰鬥在雷光被敵人攻擊下展開，雷光[生命值](../Page/生命值.md "wikilink")將在戰鬥開始時被扣減\[29\]。雷光每次作出攻擊均會消耗當前服裝的ATB槽，已消耗的ATB值能在雷光停止攻擊行動或切換至另一服裝時逐漸回復，攻擊包括接近戰的實體攻擊以及遠距戰的魔法攻擊，防禦時可使用盾牌抵擋敵攻擊或使用「閃避」（evade）技能\[30\]\[31\]。各敵人均有「擊倒計」（Stagger
-meter），由一道線條代表其生命值，每次承受雷光的指定攻擊時將出現起伏，起伏擴大至一定數值時敵人會被擊倒，期間抗傷害力將下降\[32\]。戰鬥期間，雷光亦可消耗「能量點數」（Energy
-Points）以輔助戰鬥，包括發動「超頻」（Overclock）減慢時間流逝以便於短時間內作出更多攻擊，以及發動雷光絕招「王牌驅散」（Army
-of
-One）\[33\]\[34\]。戰鬥勝出後雷光可取得金錢、回復部分能量點數、以及隨機取得戰鬥技能\[35\]。在遊戲的簡易模式中，雷光在戰鬥結束後可原地不動以自行回復失去的生命值\[36\]\[37\]\[38\]；在正常及困難模式中，戰鬥中損失之生命值將不會自動回復，需要透過耗用補給品恢復，同時雷光如逃離戰鬥或陣亡，遊戲內部時間將扣減一小時\[39\]\[40\]。
+戰鬥於雷光向現身敵人攻擊或被攻擊後展開，戰鬥如在敵人被雷光攻擊下展開，敵人[生命值](../Page/生命值.md "wikilink")將在戰鬥開始時下降；如戰鬥在雷光被敵人攻擊下展開，雷光[生命值](../Page/生命值.md "wikilink")將在戰鬥開始時被扣減\[29\]。雷光每次作出攻擊均會消耗當前服裝的ATB槽，已消耗的ATB值能在雷光停止攻擊行動或切換至另一服裝時逐漸回復，攻擊包括接近戰的實體攻擊以及遠距戰的魔法攻擊，防禦時可使用盾牌抵擋敵攻擊或使用「閃避」（evade）技能\[30\]\[31\]。各敵人均有「擊倒計」（Stagger meter），由一道線條代表其生命值，每次承受雷光的指定攻擊時將出現起伏，起伏擴大至一定數值時敵人會被擊倒，期間抗傷害力將下降\[32\]。戰鬥期間，雷光亦可消耗「能量點數」（Energy Points）以輔助戰鬥，包括發動「超頻」（Overclock）減慢時間流逝以便於短時間內作出更多攻擊，以及發動雷光絕招「王牌驅散」（Army of One）\[33\]\[34\]。戰鬥勝出後雷光可取得金錢、回復部分能量點數、以及隨機取得戰鬥技能\[35\]。在遊戲的簡易模式中，雷光在戰鬥結束後可原地不動以自行回復失去的生命值\[36\]\[37\]\[38\]；在正常及困難模式中，戰鬥中損失之生命值將不會自動回復，需要透過耗用補給品恢復，同時雷光如逃離戰鬥或陣亡，遊戲內部時間將扣減一小時\[39\]\[40\]。
 
 ## 剧情
 
 ### 设定
 
-承接《[最終幻想XIII-2](https://zh.wikipedia.org/wiki/最終幻想XIII-2 "wikilink")》，大脈衝（Gran
-Pulse）遭混沌（Chaos）吞噬且逐漸步向崩壞，五百年後世界只剩下由四個大陸（光都路克瑟里歐（Luxerion）、悠斯南（Yusnaan）、蠻荒原野（The
-Wildlands）、死亡沙-{丘}-（Dead Dunes））組成的世界諾斯·帕托思（Novus
-Partus）。五百年前之新建人工繭「布涅貝哲」（Bhunivelze）則浮於空中，內部是時間靜止之區域「方舟」（Ark）。\[41\]\[42\]\[43\]
+承接《[最終幻想XIII-2](https://zh.wikipedia.org/wiki/最終幻想XIII-2 "wikilink")》，大脈衝（Gran Pulse）遭混沌（Chaos）吞噬且逐漸步向崩壞，五百年後世界只剩下由四個大陸（光都路克瑟里歐（Luxerion）、悠斯南（Yusnaan）、蠻荒原野（The Wildlands）、死亡沙-{丘}-（Dead Dunes））組成的世界諾斯·帕托思（Novus Partus）。五百年前之新建人工繭「布涅貝哲」（Bhunivelze）則浮於空中，內部是時間靜止之區域「方舟」（Ark）。\[41\]\[42\]\[43\]
 
 ### 角色
 
@@ -77,53 +60,33 @@ Partus）。五百年前之新建人工繭「布涅貝哲」（Bhunivelze）則�
 
 ### 音樂
 
-遊戲音樂由創作《XIII》音樂的[浜渦正志](https://zh.wikipedia.org/wiki/浜渦正志 "wikilink")、以及創作《XIII-2》音樂的水田直至與鈴木光人共同創作\[113\]。日本樂隊Language與亦有參與音樂錄製\[114\]\[115\]\[116\]。多個配樂使用了《XIII》系列中經常出現的主題「Blinded
-by
-Light」作為主旋律\[117\]。有別於前兩作，本作沒有主題歌曲；主題音樂為純管弦樂曲\[118\]。宣傳音樂集「雷光歸來：最終幻想XIII先行聲集」於2013年7月推出\[119\]；主音樂集「雷光歸來：最終幻想XIII原聲集」分作四只光碟，於2013年11月21日發行\[120\]；額外音樂集「雷光歸來：最終幻想XIII追加聲集」包含未使用音樂與經典主題音樂的重編版本，於2014年3月26日發行\[121\]。遊戲內有多個音樂[彩蛋](https://zh.wikipedia.org/wiki/彩蛋_\(媒體\) "wikilink")，使用了最終幻想系列部分以往作品的旋律\[122\]。主音樂集與額外音樂集在日本音樂資訊服務公司[Oricon](../Page/Oricon.md "wikilink")中曾分別達到第29位與第211位\[123\]\[124\]。
+遊戲音樂由創作《XIII》音樂的[浜渦正志](https://zh.wikipedia.org/wiki/浜渦正志 "wikilink")、以及創作《XIII-2》音樂的水田直至與鈴木光人共同創作\[113\]。日本樂隊Language與亦有參與音樂錄製\[114\]\[115\]\[116\]。多個配樂使用了《XIII》系列中經常出現的主題「Blinded by Light」作為主旋律\[117\]。有別於前兩作，本作沒有主題歌曲；主題音樂為純管弦樂曲\[118\]。宣傳音樂集「雷光歸來：最終幻想XIII先行聲集」於2013年7月推出\[119\]；主音樂集「雷光歸來：最終幻想XIII原聲集」分作四只光碟，於2013年11月21日發行\[120\]；額外音樂集「雷光歸來：最終幻想XIII追加聲集」包含未使用音樂與經典主題音樂的重編版本，於2014年3月26日發行\[121\]。遊戲內有多個音樂[彩蛋](https://zh.wikipedia.org/wiki/彩蛋_\(媒體\) "wikilink")，使用了最終幻想系列部分以往作品的旋律\[122\]。主音樂集與額外音樂集在日本音樂資訊服務公司[Oricon](../Page/Oricon.md "wikilink")中曾分別達到第29位與第211位\[123\]\[124\]。
 
 ## 销售
 
-在《最终幻想XIII-2》发售前，“最终幻想XIII-3”的域名被注册时，就有了关于第二部续作的传言；但这实为史克威尔艾尼克斯西方部门，在未告知母公司的情况下，自行注册的\[125\]。在《XIII-2》悬而未决的结局广为人知后，制作者发布声明称，此举是为向爱好者推出扩充故事DLC\[126\]。然而公司在最后一部DLC推出后，正式宣布将继续发行《XIII》相关内容\[127\]。在2012年8月的系列25周年纪念前的酝酿活动中，公司开设预告片网站“A
-Storm
-Gathers”，宣布以相同主人公，继续制作XIII系列新作\[128\]。鸟山、上国料、渡边和北濑详述了游戏核心概念，但游戏自身没有公开\[129\]。角色对话会随游戏时间变化，所以西方版翻译、配音和对口型的工作量超过前两作，因此游戏在原版两月多后推出\[130\]。开发团队反思了宣传和销售策略。他们和代理销售公司许多游戏的村上洋平紧密合作。公司在2013年各游戏活动中大力宣传《雷霆归来》\[131\]。同时《[最终幻想XIV：重生之境](../Page/最终幻想XIV：重生之境.md "wikilink")》的玩家事件也出现了雷霆和《XIII》的怪物\[132\]。
+在《最终幻想XIII-2》发售前，“最终幻想XIII-3”的域名被注册时，就有了关于第二部续作的传言；但这实为史克威尔艾尼克斯西方部门，在未告知母公司的情况下，自行注册的\[125\]。在《XIII-2》悬而未决的结局广为人知后，制作者发布声明称，此举是为向爱好者推出扩充故事DLC\[126\]。然而公司在最后一部DLC推出后，正式宣布将继续发行《XIII》相关内容\[127\]。在2012年8月的系列25周年纪念前的酝酿活动中，公司开设预告片网站“A Storm Gathers”，宣布以相同主人公，继续制作XIII系列新作\[128\]。鸟山、上国料、渡边和北濑详述了游戏核心概念，但游戏自身没有公开\[129\]。角色对话会随游戏时间变化，所以西方版翻译、配音和对口型的工作量超过前两作，因此游戏在原版两月多后推出\[130\]。开发团队反思了宣传和销售策略。他们和代理销售公司许多游戏的村上洋平紧密合作。公司在2013年各游戏活动中大力宣传《雷霆归来》\[131\]。同时《[最终幻想XIV：重生之境](../Page/最终幻想XIV：重生之境.md "wikilink")》的玩家事件也出现了雷霆和《XIII》的怪物\[132\]。
 
 ### 追加下载内容
 
-前作推出的[追加下载内容包括角色服装](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")、附加故事篇章、以及战斗竞技场，評價褒貶不一。服装被評論認為只具装饰作用但受玩家喜爱；故事篇章受廣泛批評，被指使原游戏不完整。开发者因此决定本作全部情节直接通过零售版销售\[133\]，但以預售追加下載內容的形式制作雷霆战斗服装\[134\]，收錄於部分限量版游戏的预定奖励包中，分別是《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》角色[克劳德·史特莱夫的服装](https://zh.wikipedia.org/wiki/克劳德·史特莱夫 "wikilink")、武器和装备\[135\]，以及[日本武士服装](../Page/武士_\(日本\).md "wikilink")\[136\]。史克威尔艾尼克斯举办了跨游戏宣传活动\[137\]，日本部门制作了《[最终幻想X](../Page/最终幻想X.md "wikilink")》角色尤娜的服装，贈予购买日本版PlayStation
-3或Vita《[X
-HD重制版](https://zh.wikipedia.org/wiki/最终幻想X/X-2_高清重制版 "wikilink")》的玩家\[138\]，该服装后来通过[Amazon.com独家预定發行](https://zh.wikipedia.org/wiki/Amazon.com "wikilink")\[139\]。更多追加下載服裝在游戏发行后推出，其中包括莫古力装扮。西方版于2014年2月11日免费推出追加下載內容，提供日本語配音和發音口型，推出两周后开始收费\[140\]。
+前作推出的[追加下载内容包括角色服装](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")、附加故事篇章、以及战斗竞技场，評價褒貶不一。服装被評論認為只具装饰作用但受玩家喜爱；故事篇章受廣泛批評，被指使原游戏不完整。开发者因此决定本作全部情节直接通过零售版销售\[133\]，但以預售追加下載內容的形式制作雷霆战斗服装\[134\]，收錄於部分限量版游戏的预定奖励包中，分別是《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》角色[克劳德·史特莱夫的服装](https://zh.wikipedia.org/wiki/克劳德·史特莱夫 "wikilink")、武器和装备\[135\]，以及[日本武士服装](../Page/武士_\(日本\).md "wikilink")\[136\]。史克威尔艾尼克斯举办了跨游戏宣传活动\[137\]，日本部门制作了《[最终幻想X](../Page/最终幻想X.md "wikilink")》角色尤娜的服装，贈予购买日本版PlayStation 3或Vita《[X HD重制版](https://zh.wikipedia.org/wiki/最终幻想X/X-2_高清重制版 "wikilink")》的玩家\[138\]，该服装后来通过[Amazon.com独家预定發行](https://zh.wikipedia.org/wiki/Amazon.com "wikilink")\[139\]。更多追加下載服裝在游戏发行后推出，其中包括莫古力装扮。西方版于2014年2月11日免费推出追加下載內容，提供日本語配音和發音口型，推出两周后开始收费\[140\]。
 
 ### 版本与相关产品
 
-《雷霆归来》于2013年11月21日在日本、台湾和香港发售\[141\]，2014年2月11日、13日和14日分别在北美、欧洲和澳洲发售\[142\]\[143\]。游戏除普通版外，还有特别包装的“Lightning
-Ultimate
-box”版发行。后者收录《最终幻想XIII》、《XIII-2》和《雷霆归来》游戏本题、雷霆小手办、游戏音乐选辑，以及一册原画书\[144\]。亚洲还推出特别主题Dualshock
-3同捆版\[145\]。史克威尔艾尼克斯在北美，通过公司在线商店发售收藏版游戏；该版本收录了游戏本体、原画册、刻有游戏标识的怀表，以及服装DLC下载码\[146\]。游戏预定于2015年，通过[Steam](../Page/Steam.md "wikilink")发行[Microsoft
-Windows移植版](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[147\]。
+《雷霆归来》于2013年11月21日在日本、台湾和香港发售\[141\]，2014年2月11日、13日和14日分别在北美、欧洲和澳洲发售\[142\]\[143\]。游戏除普通版外，还有特别包装的“Lightning Ultimate box”版发行。后者收录《最终幻想XIII》、《XIII-2》和《雷霆归来》游戏本题、雷霆小手办、游戏音乐选辑，以及一册原画书\[144\]。亚洲还推出特别主题Dualshock 3同捆版\[145\]。史克威尔艾尼克斯在北美，通过公司在线商店发售收藏版游戏；该版本收录了游戏本体、原画册、刻有游戏标识的怀表，以及服装DLC下载码\[146\]。游戏预定于2015年，通过[Steam](../Page/Steam.md "wikilink")发行[Microsoft Windows移植版](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[147\]。
 
-史克威尔艾尼克斯在日本的宣传中，和糖果公司[江崎固力果](../Page/江崎固力果.md "wikilink")合作，销售了一系列游戏包装的[百奇](../Page/百奇.md "wikilink")点心\[148\]。公司按雷霆在本作中的形象，创作了Play
-Arts
-Kai手办\[149\]。随游戏推出的还有[Ultimania](../Page/Ultimania.md "wikilink")攻略本，书中收录概念图和角色原画，制作人员访谈，游戏敌人、大陆地图、事件时间等资料\[150\]。日本原计划发行设定在《XIII-2》和《雷霆归来》情节间的小说《混沌时代编年史》\[151\]，但因作者生病而取消\[152\]。在游戏推出后，三卷后传小说《最终幻想XIII
-追忆
--记忆之追迹者-》通过《周刊Fami通》杂志刊载\[153\]。小说由渡边编写，并融入《混沌时代编年史》的内容，小说体裁为XIII系列主角采访\[154\]。
+史克威尔艾尼克斯在日本的宣传中，和糖果公司[江崎固力果](../Page/江崎固力果.md "wikilink")合作，销售了一系列游戏包装的[百奇](../Page/百奇.md "wikilink")点心\[148\]。公司按雷霆在本作中的形象，创作了Play Arts Kai手办\[149\]。随游戏推出的还有[Ultimania](../Page/Ultimania.md "wikilink")攻略本，书中收录概念图和角色原画，制作人员访谈，游戏敌人、大陆地图、事件时间等资料\[150\]。日本原计划发行设定在《XIII-2》和《雷霆归来》情节间的小说《混沌时代编年史》\[151\]，但因作者生病而取消\[152\]。在游戏推出后，三卷后传小说《最终幻想XIII 追忆 -记忆之追迹者-》通过《周刊Fami通》杂志刊载\[153\]。小说由渡边编写，并融入《混沌时代编年史》的内容，小说体裁为XIII系列主角采访\[154\]。
 
 ## 评价
 
 ### 销量
 
-《雷霆归来》PlayStation
-3版本的日本首周销量为27.7万套，高於[任天堂](../Page/任天堂.md "wikilink")的《[超级马里奥3D世界](https://zh.wikipedia.org/wiki/超级马里奥3D世界 "wikilink")》，登上当周排行榜首位\[155\]。Xbox
-360版本於同期售出4,000套，為《XIII-2》Xbox 360版本首周销量的一半以下\[156\]。PlayStation
-3版本在2013年底售出404,147套，为当年第17畅销游戏\[157\]。《雷霆归来》在英國十大首发游戏中排第三\[158\]，以及在2014年2月十大畅销电子游戏中排第8\[159\]。時至2014年5月，家用主機版遊戲於全球共售出約80万套\[160\]。而之後發行的PC版本則在Steam平台上賣出約37萬份\[161\]。
+《雷霆归来》PlayStation 3版本的日本首周销量为27.7万套，高於[任天堂](../Page/任天堂.md "wikilink")的《[超级马里奥3D世界](https://zh.wikipedia.org/wiki/超级马里奥3D世界 "wikilink")》，登上当周排行榜首位\[155\]。Xbox 360版本於同期售出4,000套，為《XIII-2》Xbox 360版本首周销量的一半以下\[156\]。PlayStation 3版本在2013年底售出404,147套，为当年第17畅销游戏\[157\]。《雷霆归来》在英國十大首发游戏中排第三\[158\]，以及在2014年2月十大畅销电子游戏中排第8\[159\]。時至2014年5月，家用主機版遊戲於全球共售出約80万套\[160\]。而之後發行的PC版本則在Steam平台上賣出約37萬份\[161\]。
 
 ### 媒體評論
 
-《雷霆归来》获得媒体的不一评价。《[Fami通](../Page/Fami通.md "wikilink")》杂志四名评论者分别打出10、10、8、9分，合计37分\[162\]。杂志之后在Fami通奖2013中，授予《雷霆归来》“优秀奖”\[163\]。按照西方评论汇总网站[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic](../Page/Metacritic.md "wikilink")的统计，Xbox
-360版平均得分为72%（16篇评论）和69/100（21篇评论）\[164\]\[165\]，PlayStation
-3版为66%（40篇评论）和66/100（62篇评论）\[166\]\[167\]。
+《雷霆归来》获得媒体的不一评价。《[Fami通](../Page/Fami通.md "wikilink")》杂志四名评论者分别打出10、10、8、9分，合计37分\[162\]。杂志之后在Fami通奖2013中，授予《雷霆归来》“优秀奖”\[163\]。按照西方评论汇总网站[GameRankings和](https://zh.wikipedia.org/wiki/GameRankings "wikilink")[Metacritic](../Page/Metacritic.md "wikilink")的统计，Xbox 360版平均得分为72%（16篇评论）和69/100（21篇评论）\[164\]\[165\]，PlayStation 3版为66%（40篇评论）和66/100（62篇评论）\[166\]\[167\]。
 
-战斗系统获得大量评论称赞。《[PlayStation官方杂志](https://zh.wikipedia.org/wiki/PlayStation官方杂志_\(英国\) "wikilink")》的马特·艾略特表示游戏战斗系统很有趣，觉得“像是最终幻想：有力的、新款的，之前的回合制战斗的类似品”\[168\]。[IGN](../Page/IGN.md "wikilink")的马蒂·席尔瓦也很欣赏战斗系统，表示“《雷霆归来》干得很好，我可以制作（三套）独特而私人的（套装）”\[169\]。[Game
-Informer的乔](../Page/Game_Informer.md "wikilink")·朱巴也对系统表示称赞，他认为系统比上两作有改进，换装创造出“快节奏、高压力的系统，让战斗变得刺激”\[170\]。[Eurogamer](../Page/Eurogamer.md "wikilink")的西蒙·帕金称，较之于其他XIII游戏，本作系统“或许是现今最棒，但却无疑是最稳定的版本”，《[游戏机实用技术](../Page/游戏机实用技术.md "wikilink")》表示了类似观点，并称战斗有掉帧问题，[GameSpot](../Page/GameSpot.md "wikilink")凯文·瓦若德则表示，若非这少量缺陷，游戏“可能跻身最终幻想最佳战斗系统之列”\[171\]\[172\]\[173\]。《Fami通》表示战斗系统总体“优秀”，称其快节奏而有趣，但輕度玩家即使是简单難度，也需要一些時間適應\[174\]。
+战斗系统获得大量评论称赞。《[PlayStation官方杂志](https://zh.wikipedia.org/wiki/PlayStation官方杂志_\(英国\) "wikilink")》的马特·艾略特表示游戏战斗系统很有趣，觉得“像是最终幻想：有力的、新款的，之前的回合制战斗的类似品”\[168\]。[IGN](../Page/IGN.md "wikilink")的马蒂·席尔瓦也很欣赏战斗系统，表示“《雷霆归来》干得很好，我可以制作（三套）独特而私人的（套装）”\[169\]。[Game Informer的乔](../Page/Game_Informer.md "wikilink")·朱巴也对系统表示称赞，他认为系统比上两作有改进，换装创造出“快节奏、高压力的系统，让战斗变得刺激”\[170\]。[Eurogamer](../Page/Eurogamer.md "wikilink")的西蒙·帕金称，较之于其他XIII游戏，本作系统“或许是现今最棒，但却无疑是最稳定的版本”，《[游戏机实用技术](../Page/游戏机实用技术.md "wikilink")》表示了类似观点，并称战斗有掉帧问题，[GameSpot](../Page/GameSpot.md "wikilink")凯文·瓦若德则表示，若非这少量缺陷，游戏“可能跻身最终幻想最佳战斗系统之列”\[171\]\[172\]\[173\]。《Fami通》表示战斗系统总体“优秀”，称其快节奏而有趣，但輕度玩家即使是简单難度，也需要一些時間適應\[174\]。
 
 任务制系统的赞扬声不多，席尔瓦称他“感觉像陷入MMO的开放时间”，朱巴也形容任务“枯燥”\[175\]\[176\]。帕金表示任务“好比末日之钟监视下的琐事”\[177\]。然而瓦若德称赞许多任务“自身就非常有趣”，足以将玩家带入世界\[178\]。[Destructoid](../Page/Destructoid.md "wikilink")的戴尔·诺思认为，游戏时限让做任务成了“浪费宝贵时间”\[179\]。时限系统本身褒贬不一。席尔瓦对游戏时限的“迫切感”表示“非常喜欢”，但瓦若德认为时限是和玩家作对，并“几乎抵触游戏其他各方各面”\[180\]\[181\]。朱巴对规划未来日子表示喜爱，但也表示这限制了探索，并“严格（限制）你全面深入探索某些系统的能力”\[182\]。艾略特称，过重的时限压力，加之逃离战斗的时机，让他感到不悦\[183\]。《Fami通》编辑则表示，时限並非很大的压力因素\[184\]。
 
@@ -145,22 +108,7 @@ Informer的乔](../Page/Game_Informer.md "wikilink")·朱巴也对系统表示�
 
   -
 
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink")
-[Category:最終幻想XIII](https://zh.wikipedia.org/wiki/Category:最終幻想XIII "wikilink")
-[Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:开放世界游戏](https://zh.wikipedia.org/wiki/Category:开放世界游戏 "wikilink")
-[Category:最终幻想系列衍生作品](https://zh.wikipedia.org/wiki/Category:最终幻想系列衍生作品 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:宗教题材作品](https://zh.wikipedia.org/wiki/Category:宗教题材作品 "wikilink")
-[Category:仅有单人模式的电子游戏](https://zh.wikipedia.org/wiki/Category:仅有单人模式的电子游戏 "wikilink")
-[Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink")
-[Category:女主人公电子游戏](https://zh.wikipedia.org/wiki/Category:女主人公电子游戏 "wikilink")
-[Category:文明崩潰後世界題材遊戲](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材遊戲 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
+[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink") [Category:最終幻想XIII](https://zh.wikipedia.org/wiki/Category:最終幻想XIII "wikilink") [Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:开放世界游戏](https://zh.wikipedia.org/wiki/Category:开放世界游戏 "wikilink") [Category:最终幻想系列衍生作品](https://zh.wikipedia.org/wiki/Category:最终幻想系列衍生作品 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:宗教题材作品](https://zh.wikipedia.org/wiki/Category:宗教题材作品 "wikilink") [Category:仅有单人模式的电子游戏](https://zh.wikipedia.org/wiki/Category:仅有单人模式的电子游戏 "wikilink") [Category:Steam商店遊戲](https://zh.wikipedia.org/wiki/Category:Steam商店遊戲 "wikilink") [Category:女主人公电子游戏](https://zh.wikipedia.org/wiki/Category:女主人公电子游戏 "wikilink") [Category:文明崩潰後世界題材遊戲](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材遊戲 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.
 2.

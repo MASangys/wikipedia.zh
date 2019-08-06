@@ -19,8 +19,7 @@
 <!-- end list -->
 
   - 橿原（かしはら）
-    代稱「Old Geese」的日本第一情報屋。在新宿的雜居大樓屋頂經營酒吧「Next of
-    Geese」。與JESUS少年時代即有認識，進行情報收集、武器籌備等等後援作業。
+    代稱「Old Geese」的日本第一情報屋。在新宿的雜居大樓屋頂經營酒吧「Next of Geese」。與JESUS少年時代即有認識，進行情報收集、武器籌備等等後援作業。
 
 ## 世界觀
 
@@ -28,8 +27,7 @@
 
 ## JESUS 砂塵航路
 
-是從1992年到1995年週刊少年聖代被連載的JESUS
-復活殺手的續編。從2009年2月20日，小學館的網站「モバMAN」上連載，2012年4月單行本第12集已出版。
+是從1992年到1995年週刊少年聖代被連載的JESUS 復活殺手的續編。從2009年2月20日，小學館的網站「モバMAN」上連載，2012年4月單行本第12集已出版。
 
 ### 故事
 
@@ -42,14 +40,8 @@
 ## 參考資料
 
   -
-    [日文wiki ジーザス
-    (漫畫)](http://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%82%B6%E3%82%B9_%28%E6%BC%AB%E7%94%BB%29)
-    [日文wiki JESUS
-    砂塵航路](http://ja.wikipedia.org/wiki/JESUS_%E7%A0%82%E5%A1%B5%E8%88%AA%E8%B7%AF)
-    [【オススメ】 七月鏡一、藤原芳秀／ＪＥＳＵＳ　砂塵航路
-    マンガ一巻読破](http://happysad.jugem.jp/?eid=4609)
+    [日文wiki ジーザス (漫畫)](http://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%BC%E3%82%B6%E3%82%B9_%28%E6%BC%AB%E7%94%BB%29)
+    [日文wiki JESUS 砂塵航路](http://ja.wikipedia.org/wiki/JESUS_%E7%A0%82%E5%A1%B5%E8%88%AA%E8%B7%AF)
+    [【オススメ】 七月鏡一、藤原芳秀／ＪＥＳＵＳ　砂塵航路 マンガ一巻読破](http://happysad.jugem.jp/?eid=4609)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink")
-[Category:恐怖活動題材作品](https://zh.wikipedia.org/wiki/Category:恐怖活動題材作品 "wikilink")
-[Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink") [Category:恐怖活動題材作品](https://zh.wikipedia.org/wiki/Category:恐怖活動題材作品 "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")

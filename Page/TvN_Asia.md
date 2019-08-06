@@ -1,9 +1,4 @@
-tvN}}   **tvN Asia**原為tvN Southeast Asia及Channel
-M，針對[亞洲播放的](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，由[Mnet媒體](../Page/Mnet媒體.md "wikilink")和[新闻集团旗下](../Page/新闻集团_\(1979－2013年\).md "wikilink")[星空传媒](https://zh.wikipedia.org/wiki/星空传媒 "wikilink")（现时的[福斯國際電視網](https://zh.wikipedia.org/wiki/福斯國際電視網 "wikilink")）共同創辦，於2009年10月26日開播。该频道提供了各种各样的节目组合，从
-[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")，[Mnet](../Page/Mnet媒體.md "wikilink")，OtvN,
-Champ TV（动画频道），[OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")，DIA
-TV，XtvN，SBS MTV，[MBN](../Page/每日广播.md "wikilink")，OLIVE，和
-[OnStyle](../Page/OnStyle.md "wikilink")。
+tvN}}   **tvN Asia**原為tvN Southeast Asia及Channel M，針對[亞洲播放的](https://zh.wikipedia.org/wiki/亞洲 "wikilink")[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")，由[Mnet媒體](../Page/Mnet媒體.md "wikilink")和[新闻集团旗下](../Page/新闻集团_\(1979－2013年\).md "wikilink")[星空传媒](https://zh.wikipedia.org/wiki/星空传媒 "wikilink")（现时的[福斯國際電視網](https://zh.wikipedia.org/wiki/福斯國際電視網 "wikilink")）共同創辦，於2009年10月26日開播。该频道提供了各种各样的节目组合，从 [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")，[Mnet](../Page/Mnet媒體.md "wikilink")，OtvN, Champ TV（动画频道），[OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")，DIA TV，XtvN，SBS MTV，[MBN](../Page/每日广播.md "wikilink")，OLIVE，和 [OnStyle](../Page/OnStyle.md "wikilink")。
 
 ## 歷史
 
@@ -17,23 +12,15 @@ TV，XtvN，SBS MTV，[MBN](../Page/每日广播.md "wikilink")，OLIVE，和
 
 2017年6月4日，tvN Asia新加坡版本開播，率先緊貼韓國播放劇集為[Duel](../Page/Duel.md "wikilink")。
 
-2017年7月4日，tvN Asia第二次紧贴韩国播放剧集为[河伯的新娘
-2017](../Page/河伯的新娘_2017.md "wikilink")（tvN
-Asia早在2016年11月7日起，首次緊貼韓國播放劇集為[Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink")）。
+2017年7月4日，tvN Asia第二次紧贴韩国播放剧集为[河伯的新娘 2017](../Page/河伯的新娘_2017.md "wikilink")（tvN Asia早在2016年11月7日起，首次緊貼韓國播放劇集為[Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink")）。
 
-2017年8月13日，tvN
-Asia馬來西亞版本開播，與新加坡同步，率先緊貼韓國播放劇集為[名不虛傳](../Page/名不虛傳.md "wikilink")（8月13日起），其后参见紧贴韩国播放剧集。
+2017年8月13日，tvN Asia馬來西亞版本開播，與新加坡同步，率先緊貼韓國播放劇集為[名不虛傳](../Page/名不虛傳.md "wikilink")（8月13日起），其后参见紧贴韩国播放剧集。
 
-2018年7月16日，tvN
-Asia的印尼至尊版本開播，與新加坡和馬來西亞同步(除了[神的测验5](https://zh.wikipedia.org/wiki/神的测验 "wikilink"))，但播出時間比當地慢1小時，只限當地收費電視台TransVision
-(321頻道)、MyRepublic (46頻道)、NexMedia
-(311頻道)播放，其餘4間收費電視繼續沿用原有版本，稍後將陸續在其他地區如香港、台灣和泰國提供緊貼韓國隔日播放韓劇。
+2018年7月16日，tvN Asia的印尼至尊版本開播，與新加坡和馬來西亞同步(除了[神的测验5](https://zh.wikipedia.org/wiki/神的测验 "wikilink"))，但播出時間比當地慢1小時，只限當地收費電視台TransVision (321頻道)、MyRepublic (46頻道)、NexMedia (311頻道)播放，其餘4間收費電視繼續沿用原有版本，稍後將陸續在其他地區如香港、台灣和泰國提供緊貼韓國隔日播放韓劇。
 
-2018年9月11日，tvN
-Asia的印尼至尊版本独家与韩国24小时内播出[百日的郎君](../Page/百日的郎君.md "wikilink")、[鸡龙仙女传](https://zh.wikipedia.org/wiki/鸡龙仙女传 "wikilink")、[成为王的男人](https://zh.wikipedia.org/wiki/成为王的男人 "wikilink")。
+2018年9月11日，tvN Asia的印尼至尊版本独家与韩国24小时内播出[百日的郎君](../Page/百日的郎君.md "wikilink")、[鸡龙仙女传](https://zh.wikipedia.org/wiki/鸡龙仙女传 "wikilink")、[成为王的男人](https://zh.wikipedia.org/wiki/成为王的男人 "wikilink")。
 
-tvN Asia大部分節目由Mnet媒體、[CJ
-E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../Page/TVN.md "wikilink")。
+tvN Asia大部分節目由Mnet媒體、[CJ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../Page/TVN.md "wikilink")。
 
 ## 现时节目
 
@@ -77,59 +64,52 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>星期四</p></td>
+<td><p>23:05 - 00:30</p></td>
+<td><p><a href="../Page/The_Call.md" title="wikilink">The Call 2</a></p></td>
+<td><p>8月1日起</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>星期五</p></td>
 <td><p>23:05 - 00:25</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/守美的饭馔" title="wikilink">守美家秘笈：韩式饭饌</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>星期六</p></td>
-<td><p>17:05 - 19:25</p></td>
-<td><p><a href="../Page/PRODUCE_X_101.md" title="wikilink">PRODUCE X 101</a></p></td>
-<td><p>5月4日起，与韩国18小时内同日播出</p></td>
-<td></td>
-</tr>
 <tr class="odd">
+<td><p>星期六</p></td>
 <td><p>21:05 - 22:50</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姜食堂2" title="wikilink">姜食堂2</a></p></td>
-<td><p>6月8日起</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/姜食堂3" title="wikilink">姜食堂3</a></p></td>
 <td><p>7月13日起，下半节播出</p></td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>星期一、二</p></td>
-<td><p>23:05 - 00:20</p></td>
-<td><p><a href="../Page/救救我.md" title="wikilink">救救我</a></p></td>
-<td><p>6月3日起</p></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p>星期二</p></td>
-<td><p>19:05 - 21:35(<a href="https://zh.wikipedia.org/wiki/UTC+7" title="wikilink">UTC+7</a>)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卞赫的爱情" title="wikilink">卞赫的爱情</a></p></td>
-<td><p>6月11日起,两集连播</p></td>
-<td><p><small>1</small></p></td>
+<td><p>星期一、二</p></td>
+<td><p>23:05 - 00:20</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Circle：相连的两个世界" title="wikilink">Circle：相连的两个世界</a></p></td>
+<td><p>7月29日起</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>20:35 - 23:05</p></td>
-<td><p>6月4日起 , 两集连播</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Player_(韩国电视剧)" title="wikilink">玩家</a></p></td>
 <td><p><br />
 </p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>星期四、五</p></td>
+<td><p>星期二、三</p></td>
 <td><p>21:50 - 23:05</p></td>
-<td><p>6月6日起</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德鲁纳酒店" title="wikilink">德鲁纳酒店</a></p></td>
+<td><p>8月13日起</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>星期四、五</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mother_(韩国电视剧)" title="wikilink">母亲</a></p></td>
+<td><p>8月1日起</p></td>
 <td><p><br />
 <br />
 <br />
@@ -140,16 +120,16 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
 </p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/请输入检索词WWW" title="wikilink">请输入检索词WWW</a></p></td>
-<td><p>6月6日起，与韩国24小时内同日播出</p></td>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/当恶魔呼喊你的名字时" title="wikilink">当恶魔呼喊你的名字时</a></p></td>
+<td><p>8月1日起，与韩国24小时内同日播出</p></td>
 <td><p><br />
 <br />
 <small>1</small></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>星期日、一</p></td>
 <td><p>20:50 - 22:05(<a href="https://zh.wikipedia.org/wiki/UTC+7" title="wikilink">UTC+7</a>)</p></td>
 <td><p><a href="../Page/Voice3.md" title="wikilink">声音3</a></p></td>
@@ -420,8 +400,7 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
   - 《K-POP 獵星行動2》
   - 《Baek Jong-won's Street Food Fighter》
   - 《韓星同樂會》
-  - 《[M\!
-    Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》（中文頻道為：韓國流行音樂榜）
+  - 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》（中文頻道為：韓國流行音樂榜）
   - 《M WIDE 娛樂速遞》
   - 《[我愛李太利](../Page/我愛李太利.md "wikilink")》
   - 《[INFINITE TV](../Page/INFINITE.md "wikilink")》
@@ -448,8 +427,7 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
   - 《Enews龍虎榜》
   - 《韓星旅遊團》
   - 《[Taxi脫口秀](https://zh.wikipedia.org/wiki/Taxi脫口秀 "wikilink")》
-  - 《[Hip Hop
-    大比拼](https://zh.wikipedia.org/wiki/Hip_Hop_大比拼 "wikilink")》
+  - 《[Hip Hop 大比拼](https://zh.wikipedia.org/wiki/Hip_Hop_大比拼 "wikilink")》
   - 《Show K Music》
   - 《Get It Beauty on the Road》
   - 《Gag Republic》
@@ -465,20 +443,17 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
   - 《News today and tomorrow.》
   - 《NEWS M》
   - 《2012潮人榜》
-  - 《[Superstar
-    K](https://zh.wikipedia.org/wiki/Superstar_K "wikilink")》
+  - 《[Superstar K](https://zh.wikipedia.org/wiki/Superstar_K "wikilink")》
   - 《偶像戀愛兵團》
   - 《Good Morning, MBN》
   - 《MBN News Worldwide》
   - 《Jeongungap intensive analysis of》
   - 《Newsmaker horse\! End\! End\!》
-  - 《[M\! Countdown
-    亞州特別巡迴演出版](https://zh.wikipedia.org/wiki/M!_Countdown_亞州特別巡迴演出版 "wikilink")》
+  - 《[M\! Countdown 亞州特別巡迴演出版](https://zh.wikipedia.org/wiki/M!_Countdown_亞州特別巡迴演出版 "wikilink")》
   - 《雙星報喜》
   - 《[特殊案件專案組TEN](../Page/特殊案件專案組TEN.md "wikilink")》
   - 《韓遊智囊》
-  - 《[Boyfriend
-    TV](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")》
+  - 《[Boyfriend TV](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")》
   - 《瘋韓必修班》
   - 《[鄰家花美男](../Page/鄰家花美男.md "wikilink")》
   - 《[盛女浪漫日記](../Page/需要浪漫.md "wikilink")》
@@ -501,8 +476,7 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
   - 《Who Is Next (WIN)》
   - 《[韓妝教室](https://zh.wikipedia.org/wiki/韓妝教室 "wikilink")》
   - 《[結婚的策略](../Page/結婚的策略.md "wikilink")》
-  - 《[Who Are
-    You](https://zh.wikipedia.org/wiki/Who_Are_You "wikilink")》
+  - 《[Who Are You](https://zh.wikipedia.org/wiki/Who_Are_You "wikilink")》
   - 《[花樣爺爺](../Page/花樣爺爺.md "wikilink")》
   - 《[花樣姐姐](../Page/花樣姐姐.md "wikilink")》
   - 《[花樣青春](../Page/花樣青春.md "wikilink")》
@@ -523,8 +497,7 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
   - 《Korea's economic Meets the Big Three》
   - 《My office is more beautiful than your bar》
   - 《Mother's Touch: Korean Side Dishes》
-  - 《[Thrifter's Guide to Luxurious
-    Travels](https://zh.wikipedia.org/wiki/窮遊 "wikilink")》
+  - 《[Thrifter's Guide to Luxurious Travels](https://zh.wikipedia.org/wiki/窮遊 "wikilink")》
   - 《[高校處世王](../Page/高校處世王.md "wikilink")》
   - 《[This is INFINITE](../Page/INFINITE.md "wikilink")》
   - 《[Jessica & Krystal](../Page/Jessica_&_Krystal.md "wikilink")》
@@ -597,8 +570,7 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
   - 《MTV House Of Style》
   - 《MTV Most Wanted》
   - 《MTV In Control》
-  - 《[MTV Party
-    Zone](https://zh.wikipedia.org/wiki/MTV_Party_Zone "wikilink")》
+  - 《[MTV Party Zone](https://zh.wikipedia.org/wiki/MTV_Party_Zone "wikilink")》
   - 《[盛女浪漫日記3](../Page/需要浪漫3.md "wikilink")》
   - 《慢遊濟州》
   - 《MTV Music Knowhow》
@@ -606,8 +578,7 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
   - 《MTV FreeStyle》
   - 《》
   - 《MTV Fresh》
-  - 《[Hip Hop 大比拼
-    4](https://zh.wikipedia.org/wiki/Hip_Hop_大比拼_4 "wikilink")》
+  - 《[Hip Hop 大比拼 4](https://zh.wikipedia.org/wiki/Hip_Hop_大比拼_4 "wikilink")》
   - 《小小足球會》
   - 《[看見鬼的刑警處容](../Page/能看見鬼的警察處容.md "wikilink")》
   - 《MTV Pulse》
@@ -621,19 +592,16 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
   - 《FRESH : K-POP》
   - 《Leaving the Nest》
   - 《秘方》
-  - 《[Channel
-    少女時代](https://zh.wikipedia.org/wiki/Channel_少女時代 "wikilink")》
+  - 《[Channel 少女時代](https://zh.wikipedia.org/wiki/Channel_少女時代 "wikilink")》
   - 《School's Out》
   - 《美體姊妹團2》
   - 《[魔女的戀愛](../Page/魔女的戀愛.md "wikilink")》
   - 《[腦性時代：問題男子](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink")》
   - 《[Unpretty Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》
-  - 《[Unpretty Rapstar
-    2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》
+  - 《[Unpretty Rapstar 2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》
   - 《惡魔時尚鬥》（原名：Devil's Runway）
   - 《[特殊失蹤專案組M](../Page/失蹤的黑色M.md "wikilink")》
-  - 《[CHANNEL
-    AOA](https://zh.wikipedia.org/wiki/CHANNEL_AOA "wikilink")》
+  - 《[CHANNEL AOA](https://zh.wikipedia.org/wiki/CHANNEL_AOA "wikilink")》
   - 《SBS MTV the SHOW》
   - 《SBS MTV Live The Script》
   - 《SBS MTV Hits The Script》
@@ -663,5 +631,4 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
   -
 [Category:TvN](https://zh.wikipedia.org/wiki/Category:TvN "wikilink")
 
-1.  [105/6/3 Channel
-    M更名](http://mod.cht.com.tw/news/announcement/content.php?id=862)
+1.  [105/6/3 Channel M更名](http://mod.cht.com.tw/news/announcement/content.php?id=862)

@@ -1,5 +1,4 @@
-**World Wave**（****）是日本[NHK
-BS1自](../Page/NHK_BS1.md "wikilink")2011年（[平成23年](https://zh.wikipedia.org/wiki/平成23年 "wikilink")）4月1日開始播出的國際新聞節目的總稱。NHK在1984年5月衛星第一頻道開播之後就開始每天播出數小時的世界新聞。1987年7月，舊BS1開始進行24小時播出，國際新聞節目的時間也得以延長。2011年4月1日，NHK全面改版BS的節目，將海外電視台製作的新聞集錦節目和NHK自行製作的早安世界（「」）和今日世界（「」）進行整合，改名為「」。各節目的主聲道為日語，副聲道則是用外語播出。
+**World Wave**（****）是日本[NHK BS1自](../Page/NHK_BS1.md "wikilink")2011年（[平成23年](https://zh.wikipedia.org/wiki/平成23年 "wikilink")）4月1日開始播出的國際新聞節目的總稱。NHK在1984年5月衛星第一頻道開播之後就開始每天播出數小時的世界新聞。1987年7月，舊BS1開始進行24小時播出，國際新聞節目的時間也得以延長。2011年4月1日，NHK全面改版BS的節目，將海外電視台製作的新聞集錦節目和NHK自行製作的早安世界（「」）和今日世界（「」）進行整合，改名為「」。各節目的主聲道為日語，副聲道則是用外語播出。
 
 ## 構成節目
 
@@ -7,8 +6,7 @@ BS1自](../Page/NHK_BS1.md "wikilink")2011年（[平成23年](https://zh.wikiped
 
   - 禮拜一至禮拜六（含公共假日）5:00-6:50（途中5:50-6:00播出BS新聞）
       - 「ABC News」澳大利亞ABC
-      - 「NDTV
-        24x7」印度[NDTV](https://zh.wikipedia.org/wiki/NDTV "wikilink")
+      - 「NDTV 24x7」印度[NDTV](https://zh.wikipedia.org/wiki/NDTV "wikilink")
       - 「[BBC六點新聞](https://zh.wikipedia.org/wiki/BBC六點新聞 "wikilink")」英國BBC
       - 「[heute](https://zh.wikipedia.org/wiki/heute "wikilink")」德國ZDF
       - 「Journal de 20 heures」法國電視二台
@@ -31,9 +29,7 @@ BS1自](../Page/NHK_BS1.md "wikilink")2011年（[平成23年](https://zh.wikiped
       - 「ABC世界新聞」美國ABC
   - 禮拜一至禮拜五16:00-16:50（禮拜一至16:30）
       - 「ABC This Week」 - 禮拜一
-      - 「[PBS News
-        Hour](https://zh.wikipedia.org/wiki/PBS_News_Hour "wikilink")」 -
-        禮拜二至禮拜五
+      - 「[PBS News Hour](https://zh.wikipedia.org/wiki/PBS_News_Hour "wikilink")」 - 禮拜二至禮拜五
       - 「[夜線](../Page/夜線.md "wikilink")」 - 禮拜二至禮拜五
 
 ### World Wave Morning
@@ -85,11 +81,9 @@ BS1自](../Page/NHK_BS1.md "wikilink")2011年（[平成23年](https://zh.wikiped
 
 ## 外部連結
 
-  - [ワールドWave](https://web.archive.org/web/20131117051550/http://www.nhk.or.jp/worldwave/)
-    - [NHKオンライン](https://zh.wikipedia.org/wiki/NHKオンライン "wikilink")
+  - [ワールドWave](https://web.archive.org/web/20131117051550/http://www.nhk.or.jp/worldwave/) - [NHKオンライン](https://zh.wikipedia.org/wiki/NHKオンライン "wikilink")
 
   -
-[Category:NHK電視新聞節目](https://zh.wikipedia.org/wiki/Category:NHK電視新聞節目 "wikilink")
-[Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink")
+[Category:NHK電視新聞節目](https://zh.wikipedia.org/wiki/Category:NHK電視新聞節目 "wikilink") [Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink")
 
 1.  NHK國際部記者。

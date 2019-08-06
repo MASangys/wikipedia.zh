@@ -1,6 +1,4 @@
-[Mmmhx_vile.jpg](https://zh.wikipedia.org/wiki/File:Mmmhx_vile.jpg "fig:Mmmhx_vile.jpg")
-是[卡普空](../Page/卡普空.md "wikilink")於2005年12月15日發售的[PlayStation
-Portable平台](../Page/PlayStation_Portable.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，《[洛克人X](../Page/洛克人X_\(遊戲\).md "wikilink")》的重製版作品。遊戲的[圖形改為](https://zh.wikipedia.org/wiki/圖形 "wikilink")[3D並新增動畫影片](https://zh.wikipedia.org/wiki/三維計算機圖形 "wikilink")。\[1\]
+[Mmmhx_vile.jpg](https://zh.wikipedia.org/wiki/File:Mmmhx_vile.jpg "fig:Mmmhx_vile.jpg") 是[卡普空](../Page/卡普空.md "wikilink")於2005年12月15日發售的[PlayStation Portable平台](../Page/PlayStation_Portable.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")，《[洛克人X](../Page/洛克人X_\(遊戲\).md "wikilink")》的重製版作品。遊戲的[圖形改為](https://zh.wikipedia.org/wiki/圖形 "wikilink")[3D並新增動畫影片](https://zh.wikipedia.org/wiki/三維計算機圖形 "wikilink")。\[1\]
 
 ## 登場人物
 
@@ -9,9 +7,7 @@ Portable平台](../Page/PlayStation_Portable.md "wikilink")[動作遊戲](https:
   -
     本作主角，有著藍色裝甲的男性機器人。製作者是[洛克人元祖系列](../Page/洛克人元祖系列.md "wikilink")的萊特博士。是故事中第一個具有能和人類一樣自由思考和情感功能的機器人，被評價為「具有無限的可能性及危險性」。為了確保安全性，被萊特博士封在機器膠囊裡檢查。後來被凱恩博士發現，並加入了負責取締犯罪的思考型機器人的警察組織「非正規獵人」。隸屬17號部隊，等級B級。
     個性善良，愛好和平且有正義感，因為個性溫柔被其他獵人視為軟弱。在西格瑪叛亂後，試圖阻止其引發的大規模思考型機器人叛亂。沒有被凱恩博士發現前的記憶，直到初次和西格瑪對抗才回想起來。
-    能夠在牆壁上[蹬跳移動](https://zh.wikipedia.org/wiki/三角跳 "wikilink")，武器是將手部轉換成砲狀並發射能量彈，打倒頭目後能使用頭目的武器。取得萊特博士遺留的裝甲資料後，身體的外表會發生變化，並提升其性能。在OVA『The
-    day of
-    Σ』中，手臂曾發出光芒並能對西格瑪造成傷害。滿足特定條件的話，能使用格鬥遊戲《[快打旋風](https://zh.wikipedia.org/wiki/快打旋風 "wikilink")》的招式「[波動拳](https://zh.wikipedia.org/wiki/波動拳 "wikilink")」。
+    能夠在牆壁上[蹬跳移動](https://zh.wikipedia.org/wiki/三角跳 "wikilink")，武器是將手部轉換成砲狀並發射能量彈，打倒頭目後能使用頭目的武器。取得萊特博士遺留的裝甲資料後，身體的外表會發生變化，並提升其性能。在OVA『The day of Σ』中，手臂曾發出光芒並能對西格瑪造成傷害。滿足特定條件的話，能使用格鬥遊戲《[快打旋風](https://zh.wikipedia.org/wiki/快打旋風 "wikilink")》的招式「[波動拳](https://zh.wikipedia.org/wiki/波動拳 "wikilink")」。
 
 <!-- end list -->
 
@@ -31,8 +27,7 @@ Portable平台](../Page/PlayStation_Portable.md "wikilink")[動作遊戲](https:
 
   -
     光頭，有著綠色裝甲的男性機器人。原17號部隊隊長，艾克斯和傑洛的原上司。凱恩博士的最高傑作。
-    追求思考型機器人的「進化」，帶領許多思考型機器人反叛人類並試圖征服世界。在OVA『The day of
-    Σ』中，臉部被艾克斯攻擊而留下兩道紫色傷痕。
+    追求思考型機器人的「進化」，帶領許多思考型機器人反叛人類並試圖征服世界。在OVA『The day of Σ』中，臉部被艾克斯攻擊而留下兩道紫色傷痕。
     武器是光劍，能在牆壁上[蹬跳移動](https://zh.wikipedia.org/wiki/三角跳 "wikilink")，被艾克斯打敗後將自身頭部安裝在一具下半身未完成的巨大狼人形機器人上，最後被艾克斯破壞。
 
 <!-- end list -->
@@ -100,11 +95,6 @@ Portable平台](../Page/PlayStation_Portable.md "wikilink")[動作遊戲](https:
 
   - [官方網站](https://web.archive.org/web/20101127020016/http://www.capcom.co.jp/psp_x/)
 
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
-[Category:2005年電子遊戲](https://zh.wikipedia.org/wiki/Category:2005年電子遊戲 "wikilink")
-[Category:復刻遊戲](https://zh.wikipedia.org/wiki/Category:復刻遊戲 "wikilink")
-[Category:卡普空遊戲](https://zh.wikipedia.org/wiki/Category:卡普空遊戲 "wikilink")
-[Category:洛克人X系列](https://zh.wikipedia.org/wiki/Category:洛克人X系列 "wikilink")
+[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:2005年電子遊戲](https://zh.wikipedia.org/wiki/Category:2005年電子遊戲 "wikilink") [Category:復刻遊戲](https://zh.wikipedia.org/wiki/Category:復刻遊戲 "wikilink") [Category:卡普空遊戲](https://zh.wikipedia.org/wiki/Category:卡普空遊戲 "wikilink") [Category:洛克人X系列](https://zh.wikipedia.org/wiki/Category:洛克人X系列 "wikilink")
 
 1.

@@ -1,7 +1,4 @@
-**MKTO**是[美國的二人音樂團體](https://zh.wikipedia.org/wiki/美國 "wikilink")，由[Malcolm
-Kelley和](https://zh.wikipedia.org/wiki/Malcolm_Kelley "wikilink")[Tony
-Oller二人組成](https://zh.wikipedia.org/wiki/Tony_Oller "wikilink")。他們首張單曲"[Thank
-You](https://zh.wikipedia.org/wiki/Thank_You_\(MKTO_song\) "wikilink")"於2013年1月發行，後續單曲"[Classic](https://zh.wikipedia.org/wiki/Classic_\(MKTO_song\) "wikilink")"於2013年6月發行。MKTO的首張同名專輯於2014年1月31日發行。
+**MKTO**是[美國的二人音樂團體](https://zh.wikipedia.org/wiki/美國 "wikilink")，由[Malcolm Kelley和](https://zh.wikipedia.org/wiki/Malcolm_Kelley "wikilink")[Tony Oller二人組成](https://zh.wikipedia.org/wiki/Tony_Oller "wikilink")。他們首張單曲"[Thank You](https://zh.wikipedia.org/wiki/Thank_You_\(MKTO_song\) "wikilink")"於2013年1月發行，後續單曲"[Classic](https://zh.wikipedia.org/wiki/Classic_\(MKTO_song\) "wikilink")"於2013年6月發行。MKTO的首張同名專輯於2014年1月31日發行。
 
 ## 職業生涯
 

@@ -4,8 +4,7 @@
 
 ## 外部链接
 
-  - [MEROPS family
-    S16](http://merops.sanger.ac.uk/cgi-bin/famsum?family=S16)
+  - [MEROPS family S16](http://merops.sanger.ac.uk/cgi-bin/famsum?family=S16)
 
 [Category:蛋白质家族](https://zh.wikipedia.org/wiki/Category:蛋白质家族 "wikilink")
 

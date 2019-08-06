@@ -2,9 +2,7 @@
 
 ## 发展历史
 
-1920年代末，苏联决定对[外高加索铁路](../Page/外高加索铁路.md "wikilink")在[格鲁吉亚](../Page/格鲁吉亚.md "wikilink")境内的[泽斯塔波尼至](https://zh.wikipedia.org/wiki/泽斯塔波尼 "wikilink")[哈舒里区段进行电气化改造](https://zh.wikipedia.org/wiki/哈舒里 "wikilink")，该区段为典型的山区铁路，穿越[苏拉姆山口](https://zh.wikipedia.org/wiki/苏拉姆山口 "wikilink")（Сурамский
-перевал），
-线路最大坡度达到29‰，还有许多小半径曲线。经过研究和论证，[苏联交通人民委员部决定在此区段采用已经在](https://zh.wikipedia.org/wiki/苏联交通人民委员部 "wikilink")[欧洲](../Page/欧洲.md "wikilink")和[美国](../Page/美国.md "wikilink")逐步普及的3000伏[直流电供电制式](https://zh.wikipedia.org/wiki/直流电 "wikilink")，首批电力机车由美国引进，采用[通用电气公司制造的](https://zh.wikipedia.org/wiki/通用电气公司 "wikilink")[S10型电力机车](../Page/苏联铁路S型电力机车.md "wikilink")。根据合同规定，通用电气公司为苏联提供八台电力机车，其中两台机车装用通用电气原厂生产的[牵引电动机](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")，其余六台机车的牵引电动机通过技术转让，由通用电气公司提供必要的设计图纸和技术文件，在莫斯科的[迪纳摩工厂生产](https://zh.wikipedia.org/wiki/迪纳摩工厂 "wikilink")。
+1920年代末，苏联决定对[外高加索铁路](../Page/外高加索铁路.md "wikilink")在[格鲁吉亚](../Page/格鲁吉亚.md "wikilink")境内的[泽斯塔波尼至](https://zh.wikipedia.org/wiki/泽斯塔波尼 "wikilink")[哈舒里区段进行电气化改造](https://zh.wikipedia.org/wiki/哈舒里 "wikilink")，该区段为典型的山区铁路，穿越[苏拉姆山口](https://zh.wikipedia.org/wiki/苏拉姆山口 "wikilink")（Сурамский перевал）， 线路最大坡度达到29‰，还有许多小半径曲线。经过研究和论证，[苏联交通人民委员部决定在此区段采用已经在](https://zh.wikipedia.org/wiki/苏联交通人民委员部 "wikilink")[欧洲](../Page/欧洲.md "wikilink")和[美国](../Page/美国.md "wikilink")逐步普及的3000伏[直流电供电制式](https://zh.wikipedia.org/wiki/直流电 "wikilink")，首批电力机车由美国引进，采用[通用电气公司制造的](https://zh.wikipedia.org/wiki/通用电气公司 "wikilink")[S10型电力机车](../Page/苏联铁路S型电力机车.md "wikilink")。根据合同规定，通用电气公司为苏联提供八台电力机车，其中两台机车装用通用电气原厂生产的[牵引电动机](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")，其余六台机车的牵引电动机通过技术转让，由通用电气公司提供必要的设计图纸和技术文件，在莫斯科的[迪纳摩工厂生产](https://zh.wikipedia.org/wiki/迪纳摩工厂 "wikilink")。
 
 从1929年开始，苏联已经开始了S10型电力机车的国产化工作。1932年5月1日，迪纳摩工厂成功试制首两台牵引电动机，该电机被定型为DPE-340型（）；同年8月，由科洛姆纳工厂制造的机车车体和转向架等机械结构部分送抵迪纳摩工厂并进行总组装。1932年11月，首台国产化机车（）在迪纳摩工厂落成，被定型为Ss型，意为苏联制造的“苏拉姆斯基”（Сурамского）电力机车，并送往北方铁路局的电气化试验区段进行试运行，后投入外高加索铁路运用。1933年，迪纳摩工厂开始小批量生产Ss型电力机车，当年完成生产17台机车。1934年，迪纳摩工厂生产了3台Ss型电力机车后，开始批量生产经过改进的[VL19型电力机车](../Page/VL19型电力机车.md "wikilink")。
 
@@ -25,12 +23,8 @@
   -
 ## 外部链接
 
-  - [ПОМОЩНИК МАШИНИСТА ЛОКОМОТИВА: ЭЛЕКТРОВОЗ
-    Сс](http://pomogala.ru/wiki/elektrovoz_Cc.html)
+  - [ПОМОЩНИК МАШИНИСТА ЛОКОМОТИВА: ЭЛЕКТРОВОЗ Сс](http://pomogala.ru/wiki/elektrovoz_Cc.html)
 
-  - [История поездов: ЭЛЕКТРОВОЗ
-    Сс](http://trainshistory.ru/lokomotivy/magistralnye-elektrovozy/postoyannogo-toka/elektrovoz-ss.html)
+  - [История поездов: ЭЛЕКТРОВОЗ Сс](http://trainshistory.ru/lokomotivy/magistralnye-elektrovozy/postoyannogo-toka/elektrovoz-ss.html)
 
-[Category:苏联电力机车](https://zh.wikipedia.org/wiki/Category:苏联电力机车 "wikilink")
-[Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")
-[Category:3000伏直流电力机车](https://zh.wikipedia.org/wiki/Category:3000伏直流电力机车 "wikilink")
+[Category:苏联电力机车](https://zh.wikipedia.org/wiki/Category:苏联电力机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink") [Category:3000伏直流电力机车](https://zh.wikipedia.org/wiki/Category:3000伏直流电力机车 "wikilink")

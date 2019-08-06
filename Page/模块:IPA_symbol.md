@@ -1,7 +1,6 @@
 local data = mw.loadData('Module:IPA symbol/data').data local p = {}
 
-local gsub = mw.ustring.gsub local len = mw.ustring.len local sub =
-mw.ustring.sub
+local gsub = mw.ustring.gsub local len = mw.ustring.len local sub = mw.ustring.sub
 
 local function reverseLook(t, s)
 
@@ -52,8 +51,7 @@ end
 local function returnError(s)
 
 `   return string.format(`
-`       '`<span class="error">`Error using {{`[`IPA``
- ``symbol`](https://zh.wikipedia.org/wiki/Template:IPA_symbol "wikilink")`}}: "%s" not found in list`</span>`%s',`
+`       '`<span class="error">`Error using {{`[`IPA``   ``symbol`](https://zh.wikipedia.org/wiki/Template:IPA_symbol "wikilink")`}}: "%s" not found in list`</span>`%s',`
 `       s, returnErrorCat())`
 
 end
@@ -76,8 +74,7 @@ function p.main(frame)
 
 end
 
-function p._link(s, displayText, prefix, suffix, audio, addSpan,
-errorText)
+function p._link(s, displayText, prefix, suffix, audio, addSpan, errorText)
 
 `   local t = returnData(s)`
 `   if t then`

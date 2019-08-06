@@ -9,9 +9,6 @@ TEM4型柴油机车是在[TEM2型机车的基础上](../Page/TEM2型柴油机车
 
 ## 參考文獻
 
-[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink")
-[Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")
-[Category:布良斯克制铁路机车](https://zh.wikipedia.org/wiki/Category:布良斯克制铁路机车 "wikilink")
-[Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")
+[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink") [Category:布良斯克制铁路机车](https://zh.wikipedia.org/wiki/Category:布良斯克制铁路机车 "wikilink") [Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")
 
 1.

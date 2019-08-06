@@ -1,10 +1,4 @@
-**HTC Butterfly
-S**（國際版型號：**901e**，俗稱「蝴蝶S」，S為‘Super’縮寫。）是[宏達國際電子](../Page/宏達國際電子.md "wikilink")的高階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，[2013年7月在](https://zh.wikipedia.org/wiki/台灣2013年7月 "wikilink")[臺灣](../Page/臺灣.md "wikilink")首發。該手機為[HTC
-Butterfly的升級版](../Page/HTC_Butterfly.md "wikilink")，延續前代機種機身外型，搭載與[HTC
-One相同的](https://zh.wikipedia.org/wiki/HTC_One_\(手機\) "wikilink")408萬畫素Ultra
-Pixel相機、採用新版介面[HTC
-Sense5之Blinkfeed主頁](../Page/HTC_Sense.md "wikilink")、電池容量增加為3,200[毫安](https://zh.wikipedia.org/wiki/毫安 "wikilink")(mAh)以及[HTC
-BoomSound雙前置音響](https://zh.wikipedia.org/wiki/HTC_BoomSound "wikilink")。
+**HTC Butterfly S**（國際版型號：**901e**，俗稱「蝴蝶S」，S為‘Super’縮寫。）是[宏達國際電子](../Page/宏達國際電子.md "wikilink")的高階[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，[2013年7月在](https://zh.wikipedia.org/wiki/台灣2013年7月 "wikilink")[臺灣](../Page/臺灣.md "wikilink")首發。該手機為[HTC Butterfly的升級版](../Page/HTC_Butterfly.md "wikilink")，延續前代機種機身外型，搭載與[HTC One相同的](https://zh.wikipedia.org/wiki/HTC_One_\(手機\) "wikilink")408萬畫素Ultra Pixel相機、採用新版介面[HTC Sense5之Blinkfeed主頁](../Page/HTC_Sense.md "wikilink")、電池容量增加為3,200[毫安](https://zh.wikipedia.org/wiki/毫安 "wikilink")(mAh)以及[HTC BoomSound雙前置音響](https://zh.wikipedia.org/wiki/HTC_BoomSound "wikilink")。
 
 因不支援IPX5等級防水，所以下方的[MicroUSB防水蓋已被移除](https://zh.wikipedia.org/wiki/MicroUSB "wikilink")；而背面相機鏡頭旁的通知燈也在這次改版被取消。
 
@@ -13,11 +7,7 @@ HTC Butterfly s行貨版擁有兩個不同的版本\[1\]：
   - 一款僅支持單卡，被稱之為HTC Butterfly s單卡版，數字型號為HTC 901e。
   - 一款支持雙手機卡，被稱之為HTC Butterfly s雙卡版，數字型號為HTC 9060。
 
-在2013年9月2日，HTC與[長榮航空](../Page/長榮航空.md "wikilink")共同推出了Butterfly s Hello
-Kitty限量版，基於Butterfly s白色版在背板加上3D彩繪的[Hello
-Kitty](../Page/Hello_Kitty.md "wikilink")，以及加入了9款Hello
-Kitty為主角的桌布。長榮航空機上購買者，還可以免費取得專屬Hello
-Kitty背蓋與耳機塞\[2\] 。
+在2013年9月2日，HTC與[長榮航空](../Page/長榮航空.md "wikilink")共同推出了Butterfly s Hello Kitty限量版，基於Butterfly s白色版在背板加上3D彩繪的[Hello Kitty](../Page/Hello_Kitty.md "wikilink")，以及加入了9款Hello Kitty為主角的桌布。長榮航空機上購買者，還可以免費取得專屬Hello Kitty背蓋與耳機塞\[2\] 。
 
 ## 規格
 
@@ -176,16 +166,11 @@ Kitty背蓋與耳機塞\[2\] 。
 ### 外觀
 
   - 白、紅、灰款機身外殼皆採用拋光**[聚碳酸酯](../Page/聚碳酸酯.md "wikilink")**材質製成。
-  - 和[HTC
-    Butterfly一樣](../Page/HTC_Butterfly.md "wikilink")，背面皆採用弧形設計，貼合手掌曲線，提供更好的握感。
-  - 移除下方的MicroUSB防水蓋，不支援
-    [IPX5](https://zh.wikipedia.org/wiki/IPX5 "wikilink") 等級防水。
+  - 和[HTC Butterfly一樣](../Page/HTC_Butterfly.md "wikilink")，背面皆採用弧形設計，貼合手掌曲線，提供更好的握感。
+  - 移除下方的MicroUSB防水蓋，不支援 [IPX5](https://zh.wikipedia.org/wiki/IPX5 "wikilink") 等級防水。
   - 移除背面相機鏡頭旁的通知燈設置。
-  - 移除背面內建擴大機，改用[HTC
-    BoomSound™](https://zh.wikipedia.org/wiki/HTC_BoomSound™ "wikilink")
-    雙前置音響，有更佳的音質享受。
-  - 電源鍵採用和 [HTC One (M7)](../Page/HTC_One_\(M7\).md "wikilink")
-    相同的設計，內建紅外線遙控功能。
+  - 移除背面內建擴大機，改用[HTC BoomSound™](https://zh.wikipedia.org/wiki/HTC_BoomSound™ "wikilink") 雙前置音響，有更佳的音質享受。
+  - 電源鍵採用和 [HTC One (M7)](../Page/HTC_One_\(M7\).md "wikilink") 相同的設計，內建紅外線遙控功能。
   - 螢幕表面玻璃有邊緣曲面收邊的設計，以提升操作手感，但可能導致螢幕保護貼無法完整覆蓋。
 
 ### 軟件
@@ -333,16 +318,11 @@ Kitty背蓋與耳機塞\[2\] 。
   - [宏達國際電子手機列表](https://zh.wikipedia.org/wiki/宏達國際電子手機列表 "wikilink")
   - [HTC Butterfly](../Page/HTC_Butterfly.md "wikilink")
   - [HTC J Butterfly](../Page/HTC_J_Butterfly.md "wikilink")
-  - [New HTC
-    One](https://zh.wikipedia.org/wiki/HTC_One_\(手機\) "wikilink")
+  - [New HTC One](https://zh.wikipedia.org/wiki/HTC_One_\(手機\) "wikilink")
 
 ## 參考資料
 
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2013年面世的手機](https://zh.wikipedia.org/wiki/Category:2013年面世的手機 "wikilink")
+[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2013年面世的手機](https://zh.wikipedia.org/wiki/Category:2013年面世的手機 "wikilink")
 
 1.
 2.

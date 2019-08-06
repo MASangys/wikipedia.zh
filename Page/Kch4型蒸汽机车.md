@@ -16,8 +16,6 @@
 
 [Category:苏联蒸汽机车](https://zh.wikipedia.org/wiki/Category:苏联蒸汽机车 "wikilink")
 
-1.  [Подробнее о конструкции
-    паровоза](http://uzd-life.ucoz.ru/publ/10-1-0-17)
+1.  [Подробнее о конструкции паровоза](http://uzd-life.ucoz.ru/publ/10-1-0-17)
 2.  同时[波兰](https://zh.wikipedia.org/wiki/波兰 "wikilink")公司还在该款机车的基础上研制出Kp4型蒸汽机车。
-3.  [C2](http://homepage2.nifty.com/QJSYJ/T-C2.htm)_SLProfile_STEAM IN
-    CHINA
+3.  [C2](http://homepage2.nifty.com/QJSYJ/T-C2.htm)_SLProfile_STEAM IN CHINA

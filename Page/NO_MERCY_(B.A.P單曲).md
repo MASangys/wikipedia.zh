@@ -1,5 +1,4 @@
-《**NO
-MERCY**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[B.A.P](../Page/B.A.P.md "wikilink")的第三張日語單曲，由[全多鄖](https://zh.wikipedia.org/wiki/全多鄖 "wikilink")（）、[Marco創作](https://zh.wikipedia.org/wiki/Marco "wikilink")，[方容國協助作詞](https://zh.wikipedia.org/wiki/方容國 "wikilink")，[藤林聖子](../Page/藤林聖子.md "wikilink")翻譯為日語詞，並在2014年4月2日以三個不同版本推出\[1\]。
+《**NO MERCY**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[B.A.P](../Page/B.A.P.md "wikilink")的第三張日語單曲，由[全多鄖](https://zh.wikipedia.org/wiki/全多鄖 "wikilink")（）、[Marco創作](https://zh.wikipedia.org/wiki/Marco "wikilink")，[方容國協助作詞](https://zh.wikipedia.org/wiki/方容國 "wikilink")，[藤林聖子](../Page/藤林聖子.md "wikilink")翻譯為日語詞，並在2014年4月2日以三個不同版本推出\[1\]。
 
 ## 背景
 
@@ -9,13 +8,11 @@ MERCY**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink
 
 此單曲共分為3個發行版本。
 
-  - 通常盤 Type-A（編號：KIZM-277～278）：這版本包括了一片收錄5首歌的CD、一片收錄《NO
-    MERCY》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD，首批版本隨機附送七款收藏卡其中一種和Type-A版小票\[5\]。
+  - 通常盤 Type-A（編號：KIZM-277～278）：這版本包括了一片收錄5首歌的CD、一片收錄《NO MERCY》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD，首批版本隨機附送七款收藏卡其中一種和Type-A版小票\[5\]。
 
 <!-- end list -->
 
-  - 通常盤
-    Type-B（編號：KICM-1514）：這版本包括了一片收錄4首歌的CD，首批版本隨機附送七款收藏卡其中一種和Type-B版小票\[6\]。
+  - 通常盤 Type-B（編號：KICM-1514）：這版本包括了一片收錄4首歌的CD，首批版本隨機附送七款收藏卡其中一種和Type-B版小票\[6\]。
 
 <!-- end list -->
 
@@ -45,8 +42,7 @@ MERCY**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink
 
   -
 
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:B.A.P音樂專輯](https://zh.wikipedia.org/wiki/Category:B.A.P音樂專輯 "wikilink")
+[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:B.A.P音樂專輯](https://zh.wikipedia.org/wiki/Category:B.A.P音樂專輯 "wikilink")
 
 1.
 

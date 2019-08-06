@@ -4,8 +4,7 @@ OpenNTPD作为[OpenBSD](../Page/OpenBSD.md "wikilink")计划的一部分，主�
 
 ## 历史
 
-当时NTP守护进程的一系列问题促成了OpenNTPD的开发：难以配置，复杂、难以审计的代码，及不合适的许可\[1\]。OpenNTPD的目标就是要解决这些问题，扩大时间同步的用户数量。经过一段时间的开发，OpenBSD
-3.6中第一次出现了OpenNTPD\[2\]。它的第一个版本于2004年11月2日发布\[3\]。
+当时NTP守护进程的一系列问题促成了OpenNTPD的开发：难以配置，复杂、难以审计的代码，及不合适的许可\[1\]。OpenNTPD的目标就是要解决这些问题，扩大时间同步的用户数量。经过一段时间的开发，OpenBSD 3.6中第一次出现了OpenNTPD\[2\]。它的第一个版本于2004年11月2日发布\[3\]。
 
 ## 目标
 
@@ -13,8 +12,7 @@ OpenBSD团队计划开发一个安全、易于安全审计、极简的设置和�
 
 ## 示例
 
-OpenNTPD逐步调整系统时钟，如在[64位](https://zh.wikipedia.org/wiki/64位 "wikilink")[Arch
-Linux系统上运行OpenNTPD输出示例所示](../Page/Arch_Linux.md "wikilink")：
+OpenNTPD逐步调整系统时钟，如在[64位](https://zh.wikipedia.org/wiki/64位 "wikilink")[Arch Linux系统上运行OpenNTPD输出示例所示](../Page/Arch_Linux.md "wikilink")：
 
     [root@nikolai karam]# more /var/log/daemon.log | grep ntp | grep adjusting | tail -20
     Aug  4 02:58:21 nikolai ntpd[4784]: adjusting local clock by -2.134620s
@@ -43,11 +41,9 @@ Linux系统上运行OpenNTPD输出示例所示](../Page/Arch_Linux.md "wikilink"
 
 OpenNTPD被批评\[6\]没有网络时间协议项目的NTP守护进程\[7\]精确。OpenNTPD项目也承认这种说法的合理性，但它声称这是在微秒精度和OpenNTPD提供的简便性及安全性之间做出的平衡。
 
-OpenNTPD也被批评违反了NTP协议，因为其在传输数据时省略掉了精确性信息：OpenNTPD服务器声明自己是无限精确的（早期版本在第1层声明；虽然前述问题已得到修复\[8\]，OpenNTPD
-3.9p1仍然提供的是零误差时间\[9\]）。
+OpenNTPD也被批评违反了NTP协议，因为其在传输数据时省略掉了精确性信息：OpenNTPD服务器声明自己是无限精确的（早期版本在第1层声明；虽然前述问题已得到修复\[8\]，OpenNTPD 3.9p1仍然提供的是零误差时间\[9\]）。
 
-在OpenNTPD3.6发布后不久，布拉德·诺尔斯发表了一篇题为《OpenNTPd是有害的》\[10\]的文章，从各个方面批评了OpenNTPD，以及该项目及[OpenSSH](../Page/OpenSSH.md "wikilink")和[OpenBGPD](../Page/OpenBGPD.md "wikilink")所采用的[拆分开发模式](https://zh.wikipedia.org/wiki/拆分开发 "wikilink")。作为回应，OpenNTPD可移植分支的主要开发者达伦·塔克写了一篇详细的文章\[11\]，阐述了一些在OpenNTPD
-3.6.1所解决的问题，并认为诺尔斯的一些言论“有误导之嫌”。诺尔斯的文章也使OpenBSD网络常见问题添加了一个章节\[12\]，解释和反驳其主张。
+在OpenNTPD3.6发布后不久，布拉德·诺尔斯发表了一篇题为《OpenNTPd是有害的》\[10\]的文章，从各个方面批评了OpenNTPD，以及该项目及[OpenSSH](../Page/OpenSSH.md "wikilink")和[OpenBGPD](../Page/OpenBGPD.md "wikilink")所采用的[拆分开发模式](https://zh.wikipedia.org/wiki/拆分开发 "wikilink")。作为回应，OpenNTPD可移植分支的主要开发者达伦·塔克写了一篇详细的文章\[11\]，阐述了一些在OpenNTPD 3.6.1所解决的问题，并认为诺尔斯的一些言论“有误导之嫌”。诺尔斯的文章也使OpenBSD网络常见问题添加了一个章节\[12\]，解释和反驳其主张。
 
 ## 参考
 
@@ -58,9 +54,7 @@ OpenNTPD也被批评违反了NTP协议，因为其在传输数据时省略掉了
 
   - [OpenNTPD相关的OpenBSD网络常见问题](http://www.openbsd.org/faq/faq6.html#OpenNTPD)
 
-[Category:网络时间相关软件](https://zh.wikipedia.org/wiki/Category:网络时间相关软件 "wikilink")
-[Category:BSD软件](https://zh.wikipedia.org/wiki/Category:BSD软件 "wikilink")
-[Category:OpenBSD](https://zh.wikipedia.org/wiki/Category:OpenBSD "wikilink")
+[Category:网络时间相关软件](https://zh.wikipedia.org/wiki/Category:网络时间相关软件 "wikilink") [Category:BSD软件](https://zh.wikipedia.org/wiki/Category:BSD软件 "wikilink") [Category:OpenBSD](https://zh.wikipedia.org/wiki/Category:OpenBSD "wikilink")
 
 1.
 

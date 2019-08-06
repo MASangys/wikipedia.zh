@@ -1,11 +1,6 @@
-**Wise Care
-365**是由WiseCleaner.com开发的一款用来管理，维护，配置以及解决电脑故障的适用于[Windows操作系统的电脑的](https://zh.wikipedia.org/wiki/Windows操作系统 "wikilink")[免费软件](https://zh.wikipedia.org/wiki/免费软件 "wikilink")。
+**Wise Care 365**是由WiseCleaner.com开发的一款用来管理，维护，配置以及解决电脑故障的适用于[Windows操作系统的电脑的](https://zh.wikipedia.org/wiki/Windows操作系统 "wikilink")[免费软件](https://zh.wikipedia.org/wiki/免费软件 "wikilink")。
 
-Wise Care 365 是將諸種功能包裝成一個軟件，包含[Wise Disk
-Cleaner和](../Page/Wise_Disk_Cleaner.md "wikilink")[Wise Registry
-Cleaner的全部功能](../Page/Wise_Registry_Cleaner.md "wikilink")：能够清理无效的[注册表](../Page/注册表.md "wikilink")，无用的文件，对注册表碎片及[磁盘碎片](../Page/磁盘碎片.md "wikilink")进行有效的整理优化等。此外，该款免费软体还提供了一些其他的使用工具，如[Wise
-Data Recovery](../Page/Wise_Data_Recovery.md "wikilink")， Wise Folder
-Hider等等。
+Wise Care 365 是將諸種功能包裝成一個軟件，包含[Wise Disk Cleaner和](../Page/Wise_Disk_Cleaner.md "wikilink")[Wise Registry Cleaner的全部功能](../Page/Wise_Registry_Cleaner.md "wikilink")：能够清理无效的[注册表](../Page/注册表.md "wikilink")，无用的文件，对注册表碎片及[磁盘碎片](../Page/磁盘碎片.md "wikilink")进行有效的整理优化等。此外，该款免费软体还提供了一些其他的使用工具，如[Wise Data Recovery](../Page/Wise_Data_Recovery.md "wikilink")， Wise Folder Hider等等。
 
 ## 功能
 

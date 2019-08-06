@@ -1,5 +1,4 @@
-本列表列出在
-《[最终幻想X](../Page/最终幻想X.md "wikilink")》及其续作《[最终幻想X-2](../Page/最终幻想X-2.md "wikilink")》中登场的主要角色。
+本列表列出在 《[最终幻想X](../Page/最终幻想X.md "wikilink")》及其续作《[最终幻想X-2](../Page/最终幻想X-2.md "wikilink")》中登场的主要角色。
 
 ## 主要人物
 
@@ -35,8 +34,7 @@
 <!-- end list -->
 
   - （聲：[松本真理香](../Page/松本真理香.md "wikilink")）
-    阿爾貝德族首領希德的女兒，優娜的表妹。
-    開朗樂觀的性格、時時憧憬史匹拉的未來。游泳能力出色，是7人中的氣氛製造者。和提達很談得來，怕打雷。喜歡用阿爾貝德語把優娜說成優娜娜（Yunie）。
+    阿爾貝德族首領希德的女兒，優娜的表妹。 開朗樂觀的性格、時時憧憬史匹拉的未來。游泳能力出色，是7人中的氣氛製造者。和提達很談得來，怕打雷。喜歡用阿爾貝德語把優娜說成優娜娜（Yunie）。
     《X-2》中是人盡皆知海鷗團裡最熱鬧的傢伙。此外、她在落雷平原的帳篷克服了怕打雷的毛病。
 
 <!-- end list -->
@@ -63,8 +61,7 @@
 <!-- end list -->
 
   - （聲：[諏訪部順一](../Page/諏訪部順一.md "wikilink")）
-    瓜德族的老師。一般「瓜德」被省略。年齡28歲。耶朋四老師中的成員，統管宗教禮節，知道寺院隱藏的歷史真相。
-    父親基斯卡盧是瓜德族，母親是人類。因此他和母親被周圍的人看不起遭到種種不平待遇。這樣的經歷造成他對世間產生偏執心理，最後發展到決心毀滅整個史匹拉。最初對提達等人尤其是優娜展露好意，最後成為敵人。性格冷酷固執，希摩爾的母親怕兒子被世人欺負，自願變成祈禱者，成為召喚獸靈魂。
+    瓜德族的老師。一般「瓜德」被省略。年齡28歲。耶朋四老師中的成員，統管宗教禮節，知道寺院隱藏的歷史真相。 父親基斯卡盧是瓜德族，母親是人類。因此他和母親被周圍的人看不起遭到種種不平待遇。這樣的經歷造成他對世間產生偏執心理，最後發展到決心毀滅整個史匹拉。最初對提達等人尤其是優娜展露好意，最後成為敵人。性格冷酷固執，希摩爾的母親怕兒子被世人欺負，自願變成祈禱者，成為召喚獸靈魂。
 
 <!-- end list -->
 
@@ -94,9 +91,7 @@
 <!-- end list -->
 
   - 好兄弟（Buddy）聲：[多比良健](https://zh.wikipedia.org/wiki/多比良健 "wikilink")
-    大哥幼年的好友。到底叫什麼他們之間都是個謎。
-    [飛空艇的駕駛員](https://zh.wikipedia.org/wiki/飛空艇 "wikilink")。外表看上去責任心很重的樣子其實是個怕麻煩的人、老是想從麻煩中脫身。
-    X裡面也乘坐飛空艇但是沒有公開。
+    大哥幼年的好友。到底叫什麼他們之間都是個謎。 [飛空艇的駕駛員](https://zh.wikipedia.org/wiki/飛空艇 "wikilink")。外表看上去責任心很重的樣子其實是個怕麻煩的人、老是想從麻煩中脫身。 X裡面也乘坐飛空艇但是沒有公開。
 
 <!-- end list -->
 
@@ -215,13 +210,9 @@
 
 ## 参考文献
 
-  - FINAL FANTASY X SCENARIO ULTIMANIA(ISBN 4-88787-010-8、ISBN
-    4-7575-1215-5)
-  - FINAL FANTASY X BATTLE ULTIMANIA(ISBN 4-88787-011-6、ISBN
-    4-7575-1216-3)
+  - FINAL FANTASY X SCENARIO ULTIMANIA(ISBN 4-88787-010-8、ISBN 4-7575-1215-5)
+  - FINAL FANTASY X BATTLE ULTIMANIA(ISBN 4-88787-011-6、ISBN 4-7575-1216-3)
   - FINAL FANTASY X ULTIMANIA Ω(ISBN 4-88787-021-3、ISBN 4-7575-1214-7)
   - FINAL FANTASY X-2 ULTIMANIA(ISBN 4-88787-126-0、ISBN 4-7575-1205-8)
 
-[Category:最终幻想X](https://zh.wikipedia.org/wiki/Category:最终幻想X "wikilink")
-[Category:最終幻想系列角色](https://zh.wikipedia.org/wiki/Category:最終幻想系列角色 "wikilink")
-[Category:電子遊戲角色列表](https://zh.wikipedia.org/wiki/Category:電子遊戲角色列表 "wikilink")
+[Category:最终幻想X](https://zh.wikipedia.org/wiki/Category:最终幻想X "wikilink") [Category:最終幻想系列角色](https://zh.wikipedia.org/wiki/Category:最終幻想系列角色 "wikilink") [Category:電子遊戲角色列表](https://zh.wikipedia.org/wiki/Category:電子遊戲角色列表 "wikilink")

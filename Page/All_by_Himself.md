@@ -1,10 +1,8 @@
-《**All by
-Himself**》為[臺灣](../Page/臺灣.md "wikilink")歌手[王傑的第十四張個人專輯](https://zh.wikipedia.org/wiki/王傑_\(歌手\) "wikilink")，也是第九張國語專輯，發行於1992年1月3日，由[飛碟唱片](../Page/飛碟唱片.md "wikilink")公司發行，唱片編號：UFO-92208。
+《**All by Himself**》為[臺灣](../Page/臺灣.md "wikilink")歌手[王傑的第十四張個人專輯](https://zh.wikipedia.org/wiki/王傑_\(歌手\) "wikilink")，也是第九張國語專輯，發行於1992年1月3日，由[飛碟唱片](../Page/飛碟唱片.md "wikilink")公司發行，唱片編號：UFO-92208。
 
 ## 專輯簡介
 
-專輯為[王傑](https://zh.wikipedia.org/wiki/王傑_\(歌手\) "wikilink")、陳大力共同製作，彭國華監製，封面以漫畫風格呈現，專輯內的十一首歌曲全是王傑創作，為了防止盜版，專輯發行時僅先推出錄音帶，CD則在一個半月後才上市\[1\]，此專輯在[金曲龍虎榜](../Page/金曲龍虎榜.md "wikilink")上有著相當優異的成績，總共進榜十四週（兩週銷售冠軍、四週票選冠軍、一次週冠軍\[2\]）成為1992年金曲龍虎榜年度亞軍（與[張清芳](../Page/張清芳.md "wikilink")出塞曲並列），更是榜上唯一一張個人全創作專輯\[3\]
-。同時也在1992年度[亞洲華語唱片排行榜拿下第五名](https://zh.wikipedia.org/wiki/亞洲 "wikilink")\[4\]，並且憑這張專輯第二度入圍[金曲獎](../Page/金曲獎.md "wikilink")最佳國語歌曲男演唱人；專輯中也收錄了「中華兒童福利基金會」邀請王傑譜寫的關懷兒童公益廣告片主題曲「我需要你」，王傑也參加了這支廣告片的演出\[5\]，另外在拍攝「我能感覺你在說謊」MTV時，王傑也認識了他的第二任妻子莫綺雯，並譜出戀曲\[6\]。
+專輯為[王傑](https://zh.wikipedia.org/wiki/王傑_\(歌手\) "wikilink")、陳大力共同製作，彭國華監製，封面以漫畫風格呈現，專輯內的十一首歌曲全是王傑創作，為了防止盜版，專輯發行時僅先推出錄音帶，CD則在一個半月後才上市\[1\]，此專輯在[金曲龍虎榜](../Page/金曲龍虎榜.md "wikilink")上有著相當優異的成績，總共進榜十四週（兩週銷售冠軍、四週票選冠軍、一次週冠軍\[2\]）成為1992年金曲龍虎榜年度亞軍（與[張清芳](../Page/張清芳.md "wikilink")出塞曲並列），更是榜上唯一一張個人全創作專輯\[3\] 。同時也在1992年度[亞洲華語唱片排行榜拿下第五名](https://zh.wikipedia.org/wiki/亞洲 "wikilink")\[4\]，並且憑這張專輯第二度入圍[金曲獎](../Page/金曲獎.md "wikilink")最佳國語歌曲男演唱人；專輯中也收錄了「中華兒童福利基金會」邀請王傑譜寫的關懷兒童公益廣告片主題曲「我需要你」，王傑也參加了這支廣告片的演出\[5\]，另外在拍攝「我能感覺你在說謊」MTV時，王傑也認識了他的第二任妻子莫綺雯，並譜出戀曲\[6\]。
 
 ## 曲目
 
@@ -90,16 +88,10 @@ Himself**》為[臺灣](../Page/臺灣.md "wikilink")歌手[王傑的第十四�
 
 ## 參考資料
 
-[Category:王傑音樂專輯](https://zh.wikipedia.org/wiki/Category:王傑音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:華納唱片音樂專輯 "wikilink")
-[Category:飛碟唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:飛碟唱片音樂專輯 "wikilink")
-[Category:1992年音樂專輯](https://zh.wikipedia.org/wiki/Category:1992年音樂專輯 "wikilink")
+[Category:王傑音樂專輯](https://zh.wikipedia.org/wiki/Category:王傑音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:華納唱片音樂專輯 "wikilink") [Category:飛碟唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:飛碟唱片音樂專輯 "wikilink") [Category:1992年音樂專輯](https://zh.wikipedia.org/wiki/Category:1992年音樂專輯 "wikilink")
 
 1.  1992.01.01 聯合報 綜藝新聞版 王傑新專輯CD延後發行以防盜版
-2.  1992.02.15 民生報 影視熱線版 81年春季第5周榜單分析 王傑 王識賢 雙雙封王造新局 本周排行變化多 有強棒出擊
-    也有黑馬出線
+2.  1992.02.15 民生報 影視熱線版 81年春季第5周榜單分析 王傑 王識賢 雙雙封王造新局 本周排行變化多 有強棒出擊 也有黑馬出線
 3.  [1992年金曲龍虎榜年度頒獎](http://www.youtube.com/watch?v=JymR8ZhWF4U)
 4.  [1993年飛碟巨星嘉年華](http://www.tudou.com/programs/view/YmvMd24tT8k/?resourceId=0_03_05_07)
 5.  1991.10.29 中國時報 影視新聞版 關懷及保護受虐待兒童 王傑參加公益廣告演出 完成「我需要你」主題曲

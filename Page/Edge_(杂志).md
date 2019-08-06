@@ -1,5 +1,4 @@
-《**Edge**》是由英国[Future
-plc出版的多格式的](https://zh.wikipedia.org/wiki/Future_plc "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")杂志。其以行业人脉关系、社论立场、独特的匿名第三人称写作风格、年度大奖与长寿而出名。此外杂志亦曾经在英国以外的地方发行过多个版本。
+《**Edge**》是由英国[Future plc出版的多格式的](https://zh.wikipedia.org/wiki/Future_plc "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")杂志。其以行业人脉关系、社论立场、独特的匿名第三人称写作风格、年度大奖与长寿而出名。此外杂志亦曾经在英国以外的地方发行过多个版本。
 
 ## 历史
 
@@ -17,14 +16,11 @@ plc出版的多格式的](https://zh.wikipedia.org/wiki/Future_plc "wikilink")[�
 
 每一期杂志都包括关于特定游戏“制作”的文章，其内容通常包括对原开发商的采访\[11\]。自第143期起，在职退出了“拓展时间”系列回顾型文章，和“制作”栏目一样，每篇文章都聚焦于一个游戏的事后评价，其会对游戏最有趣或创新性的设定给出深入的解析\[12\]。由于杂志的重新设计，该栏目已经取消了。
 
-“代码商店”将会检查更多的技术课题，如[3D建模程序或物理](https://zh.wikipedia.org/wiki/3D建模 "wikilink")[中间件](../Page/中间件.md "wikilink")。而“工作室简介”和“大学简介”则主要是对开发商或出版商，以及[高等教育机构游戏相关课程的单页汇总](https://zh.wikipedia.org/wiki/高等教育机构 "wikilink")
-。
+“代码商店”将会检查更多的技术课题，如[3D建模程序或物理](https://zh.wikipedia.org/wiki/3D建模 "wikilink")[中间件](../Page/中间件.md "wikilink")。而“工作室简介”和“大学简介”则主要是对开发商或出版商，以及[高等教育机构游戏相关课程的单页汇总](https://zh.wikipedia.org/wiki/高等教育机构 "wikilink") 。
 
-虽然每期杂志都印有整体贡献者的名单，但杂志通常不对个人作家的具体的评论和文章署名，而只是以《Edge》杂志做匿名处理。而该做法对杂志的定期专栏作家例外。当前杂志有四个专栏作家：詹姆斯·利奇、兰迪·史密斯、克林特·霍金和Tadgh
-Kelly。此外，杂志的一些专栏作家开始谈论整个游戏产业，而非专注于具体游戏设计话题。他们是《》作者史蒂文·普尔\[13\]，雷·亚历山大和布赖恩·豪，而他们的戏仿章节“你玩错了”在杂志的新设计中开办。
+虽然每期杂志都印有整体贡献者的名单，但杂志通常不对个人作家的具体的评论和文章署名，而只是以《Edge》杂志做匿名处理。而该做法对杂志的定期专栏作家例外。当前杂志有四个专栏作家：詹姆斯·利奇、兰迪·史密斯、克林特·霍金和Tadgh Kelly。此外，杂志的一些专栏作家开始谈论整个游戏产业，而非专注于具体游戏设计话题。他们是《》作者史蒂文·普尔\[13\]，雷·亚历山大和布赖恩·豪，而他们的戏仿章节“你玩错了”在杂志的新设计中开办。
 
-以前的专栏作家包括[保罗·罗斯](https://zh.wikipedia.org/wiki/保罗·罗斯 "wikilink")（的创始人）、[世嘉](../Page/世嘉.md "wikilink")视觉娱乐的[名越稔洋](../Page/名越稔洋.md "wikilink")、作家[蒂姆·盖斯特](https://zh.wikipedia.org/wiki/蒂姆·盖斯特 "wikilink")、N'Gai
-Croal和游戏开发者杰夫·明特。此外，许多栏目都以[化名](../Page/化名.md "wikilink")为“红眼”的形式[匿名](../Page/匿名.md "wikilink")发表，此外几位日本作家的作品发表在一个称为“关于日本的东西”的普通栏目中。
+以前的专栏作家包括[保罗·罗斯](https://zh.wikipedia.org/wiki/保罗·罗斯 "wikilink")（的创始人）、[世嘉](../Page/世嘉.md "wikilink")视觉娱乐的[名越稔洋](../Page/名越稔洋.md "wikilink")、作家[蒂姆·盖斯特](https://zh.wikipedia.org/wiki/蒂姆·盖斯特 "wikilink")、N'Gai Croal和游戏开发者杰夫·明特。此外，许多栏目都以[化名](../Page/化名.md "wikilink")为“红眼”的形式[匿名](../Page/匿名.md "wikilink")发表，此外几位日本作家的作品发表在一个称为“关于日本的东西”的普通栏目中。
 
 詹姆斯·哈钦森的漫画《Crashlander》连载于《Edge》的第143期到193期\[14\]。
 
@@ -39,10 +35,7 @@ Croal和游戏开发者杰夫·明特。此外，许多栏目都以[化名](../P
 ## 外部链接
 
   -
-[Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink")
-[Category:英國電子遊戲雜誌](https://zh.wikipedia.org/wiki/Category:英國電子遊戲雜誌 "wikilink")
-[Category:1993年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1993年創辦的雜誌 "wikilink")
-[Category:1993年英國建立](https://zh.wikipedia.org/wiki/Category:1993年英國建立 "wikilink")
+[Category:月刊](https://zh.wikipedia.org/wiki/Category:月刊 "wikilink") [Category:英國電子遊戲雜誌](https://zh.wikipedia.org/wiki/Category:英國電子遊戲雜誌 "wikilink") [Category:1993年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:1993年創辦的雜誌 "wikilink") [Category:1993年英國建立](https://zh.wikipedia.org/wiki/Category:1993年英國建立 "wikilink")
 
 1.
 2.
@@ -54,24 +47,8 @@ Croal和游戏开发者杰夫·明特。此外，许多栏目都以[化名](../P
 8.
 9.
 10.
-11. Examples of "The Making Of..." articles available online: [*System
-    Shock 2*](http://www.webcitation.org/5zU4sEbNe?url=http://www.next-gen.biz/features/making-system-shock-2)
-    (archived from [the
-    original](http://www.next-gen.biz/features/making-system-shock-2) on
-    16 June 2011).
-12. “扩展时间”的可用在线文章示例：[*NiGHTS Into
-    Dreams*](http://www.next-gen.biz/features/time-extend-nights)
-    ，[*Second
-    Sight*](http://www.next-gen.biz/features/time-extend-second-sight)
-    ，[*Perfect
-    Dark*](http://www.next-gen.biz/features/time-extend-perfect-dark)
-    ，[*Prince of Persia: The Sands of
-    Time*](http://www.next-gen.biz/features/time-extend-prince-persia-sands-time)
-    .
-13. [Archive of "Trigger Happy"
-    columns](http://stevenpoole.net/trigger-happy/)  at Steven Poole's
-    website
+11. Examples of "The Making Of..." articles available online: [*System Shock 2*](http://www.webcitation.org/5zU4sEbNe?url=http://www.next-gen.biz/features/making-system-shock-2) (archived from [the original](http://www.next-gen.biz/features/making-system-shock-2) on 16 June 2011).
+12. “扩展时间”的可用在线文章示例：[*NiGHTS Into Dreams*](http://www.next-gen.biz/features/time-extend-nights) ，[*Second Sight*](http://www.next-gen.biz/features/time-extend-second-sight) ，[*Perfect Dark*](http://www.next-gen.biz/features/time-extend-perfect-dark) ，[*Prince of Persia: The Sands of Time*](http://www.next-gen.biz/features/time-extend-prince-persia-sands-time) .
+13. [Archive of "Trigger Happy" columns](http://stevenpoole.net/trigger-happy/)  at Steven Poole's website
 14.
-15. "[Does a perfect score mean a perfect
-    game?](http://www.gamesradar.com/does-a-perfect-score-mean-a-perfect-game/)"
-    [Games Radar](https://zh.wikipedia.org/wiki/Games_Radar "wikilink")
+15. "[Does a perfect score mean a perfect game?](http://www.gamesradar.com/does-a-perfect-score-mean-a-perfect-game/)" [Games Radar](https://zh.wikipedia.org/wiki/Games_Radar "wikilink")

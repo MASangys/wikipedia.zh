@@ -4,8 +4,7 @@
 
 ## 劇情
 
-本作的背景設定在同時具有高科技和超自然力量的世界\[4\]。此世界有四個「王國」以及在王國外的聚落、兩個智慧人種（人類和獸人
-Faunus）、以及稱為-{zh-hans:戮兽;zh-tw:魔獸;zh-hk:戮獸;zh-mo:戮獸}-（Grimm）的怪獸；大部份的科技是用稱為的物質運作，這是人們得以對抗-{zh-hans:戮兽;zh-tw:魔獸;zh-hk:戮獸;zh-mo:戮獸}-的力量來源之一\[5\]。
+本作的背景設定在同時具有高科技和超自然力量的世界\[4\]。此世界有四個「王國」以及在王國外的聚落、兩個智慧人種（人類和獸人 Faunus）、以及稱為-{zh-hans:戮兽;zh-tw:魔獸;zh-hk:戮獸;zh-mo:戮獸}-（Grimm）的怪獸；大部份的科技是用稱為的物質運作，這是人們得以對抗-{zh-hans:戮兽;zh-tw:魔獸;zh-hk:戮獸;zh-mo:戮獸}-的力量來源之一\[5\]。
 
 ### 第一季
 
@@ -25,11 +24,9 @@ Faunus）、以及稱為-{zh-hans:戮兽;zh-tw:魔獸;zh-hk:戮獸;zh-mo:戮獸}
 
 第四季主要有六條故事線，分別描述四位女主角和另外一位名叫Oscar的農家男孩、以及Salam陣營。
 
-Ruby線：Ruby與Jaune、Ren和Nora前往Mistral，而Qrow亦暗中保護一行人。與此期間Qrow與姊姊Raven相會，Raven希望Qrow回歸家鄉，Qrow則勸Raven放棄獨善其身，最後兩人談判破裂。同時幕後黑手Salem因為Cinder的嚴重傷勢注意到Ruby擁有的力量，派出Tyrian前去抓回Ruby。行至一處廢棄村鎮時遭到Tyrian攻擊，而Qrow亦現身與其對峙，最後Qrow遭到Tyrian以蠍尾劃傷中毒，Tyrian則遭到Ruby斷尾，狼狽逃跑。眾人帶著毒傷瀕死的Qrow四處尋找村鎮求醫，最後決定分頭行動。期間短暫轉至Ren與Nora的過往，提及兩人相識的過程與居住城遭到Grimm摧毀的經過。時間回到現在，RJNR隊重新進入Ren的故鄉「黑百合鎮（Kuroyuri）」，在此遇見曾殺害Ren的父母、毀掉整個城鎮的一隻Grimm，一番血戰後終於由Ren親手斬殺報仇。隨後察覺地方騷動的Mistral飛船來到將RJNR隊與Qrow接回居住地，Qrow因此得救並最後康復。Ruby說Qrow將會帶Ruby一行人去見Haven
-Academy獵人學院的校長Lionheart一起預防Salam派的襲擊。
+Ruby線：Ruby與Jaune、Ren和Nora前往Mistral，而Qrow亦暗中保護一行人。與此期間Qrow與姊姊Raven相會，Raven希望Qrow回歸家鄉，Qrow則勸Raven放棄獨善其身，最後兩人談判破裂。同時幕後黑手Salem因為Cinder的嚴重傷勢注意到Ruby擁有的力量，派出Tyrian前去抓回Ruby。行至一處廢棄村鎮時遭到Tyrian攻擊，而Qrow亦現身與其對峙，最後Qrow遭到Tyrian以蠍尾劃傷中毒，Tyrian則遭到Ruby斷尾，狼狽逃跑。眾人帶著毒傷瀕死的Qrow四處尋找村鎮求醫，最後決定分頭行動。期間短暫轉至Ren與Nora的過往，提及兩人相識的過程與居住城遭到Grimm摧毀的經過。時間回到現在，RJNR隊重新進入Ren的故鄉「黑百合鎮（Kuroyuri）」，在此遇見曾殺害Ren的父母、毀掉整個城鎮的一隻Grimm，一番血戰後終於由Ren親手斬殺報仇。隨後察覺地方騷動的Mistral飛船來到將RJNR隊與Qrow接回居住地，Qrow因此得救並最後康復。Ruby說Qrow將會帶Ruby一行人去見Haven Academy獵人學院的校長Lionheart一起預防Salam派的襲擊。
 
-Weiss線：Weiss遭帶回Atlas後過上了半軟禁的生活，她的父親以商業利益為優先的作法和Weiss發生衝突，被父親禁足並失去繼承人的資格，而一切都在新任繼承人弟弟Witney預料中。同時，Ironwood將軍也在Winter的報告下了解Mistral正處於多方惡勢力的威脅之下，有大批的塵晶與武器正持續交易中，而Haven
-Academy獵人學院的校長Leo也可能無力阻止惡勢力，Ironwood將軍決定為了保護Atlas的人民而實施鎖國，沒有國會的允許，出入境皆受限制，意思是沒有Ironwood將軍的允許，Weiss的父親Jacques塵晶貿易事業將會被迫暫停。Weiss在禁足期間奮發訓練，在成功掌握召喚陣之後，透過管家的幫助下逃家前往Mistral尋找姐姐Winter。
+Weiss線：Weiss遭帶回Atlas後過上了半軟禁的生活，她的父親以商業利益為優先的作法和Weiss發生衝突，被父親禁足並失去繼承人的資格，而一切都在新任繼承人弟弟Witney預料中。同時，Ironwood將軍也在Winter的報告下了解Mistral正處於多方惡勢力的威脅之下，有大批的塵晶與武器正持續交易中，而Haven Academy獵人學院的校長Leo也可能無力阻止惡勢力，Ironwood將軍決定為了保護Atlas的人民而實施鎖國，沒有國會的允許，出入境皆受限制，意思是沒有Ironwood將軍的允許，Weiss的父親Jacques塵晶貿易事業將會被迫暫停。Weiss在禁足期間奮發訓練，在成功掌握召喚陣之後，透過管家的幫助下逃家前往Mistral尋找姐姐Winter。
 
 Blake線：Blake離隊後搭上前往Menagerie的船回家，並丟棄了隱藏種族身分的蝴蝶結。船行路上一度遭遇海龍Grimm攻擊，而這時一直跟蹤的Sun現身相助，兩人最後順利抵達Menagerie的Blake家中。Blake的父親為前白牙領袖，並且不知道白牙有參與-{zh-hans:信标;zh-tw:烽火;zh-hk:信標;zh-mo:信標}-學院的恐怖攻擊。Blake說出事實，但Adam派遣的使節佯稱Adam的分支不代表白牙主流。稍後晚間兩人發現有人盯梢，追逐後Blake搶到對方的隨身通訊裝置，但Sun受重傷。Sun說服Blake不要再為了害怕朋友受牽連受傷而故意疏遠。裝置中顯示Adam準備要在Haven學院進行下一步恐怖行動，就像Beacon淪陷一樣，Blake決定不摧毀白牙而是重新奪回過去的白牙。
 
@@ -51,30 +48,21 @@ Salam：得知反派陣營分別派了三個人，因成為秋之聖女後Cinder
 
 《RWBY》的穊念在開始擴展前於欧伍的腦海中存在已久。在他為公鸡牙齿工作室製作的第十季《》快要完結時，他發展了一套以顏色為角色命名、設計的方法，並為此系列的原點。\[6\]當時，欧伍询问了紅鬥藍的創作者可否在該季度完結後製作此RWBY系列。當時Burns出於對製作進度的憂慮，告訴欧伍“如果你完成了第10季，那你想做什麼都可以。”於是，《RWBY》的製作在《紅鬥藍》第十季製作完結後立即展開，使得其首段預告在兩星期內完成並在2012年11月5日於《紅鬥藍》最終集片末“credits”後播放。\[7\]
 
-欧伍在畫師Ein Lee的幫助下設計了這些角色。一開初，這系列是由和他在公鸡牙齿工作室的同事Miles Luna及Kerry
-Shawcross一起創作的。\[8\]其角色應用設計啟發自經典童話角色，而每個角色的首字母合起來組成了此系列的標題。\[9\]本作的音樂是由此前亦為*Red
-vs. Blue*第8-10季創作背景音樂的Jeff
-Williams負責作曲。起初Oum對於用一個男性為主的團隊來製作一個以女性為主的故事有些擔心，但認為團隊成員在發展女性角色時做得頗好。\[10\]首集於2013年7月5日於2013公鸡牙齿Expo中的一個panel中首播。\[11\]\[12\]
+欧伍在畫師Ein Lee的幫助下設計了這些角色。一開初，這系列是由和他在公鸡牙齿工作室的同事Miles Luna及Kerry Shawcross一起創作的。\[8\]其角色應用設計啟發自經典童話角色，而每個角色的首字母合起來組成了此系列的標題。\[9\]本作的音樂是由此前亦為*Red vs. Blue*第8-10季創作背景音樂的Jeff Williams負責作曲。起初Oum對於用一個男性為主的團隊來製作一個以女性為主的故事有些擔心，但認為團隊成員在發展女性角色時做得頗好。\[10\]首集於2013年7月5日於2013公鸡牙齿Expo中的一個panel中首播。\[11\]\[12\]
 
 歐伍在2015年2月因過敏過世。\[13\]
 
 ### 所獲榮譽
 
-美國時間2014年3月31日被網絡電視國際學院（International Academy of Web
-Television，IAWTV）評為2014年全美最佳電視動畫連續劇。\[14\]
+美國時間2014年3月31日被網絡電視國際學院（International Academy of Web Television，IAWTV）評為2014年全美最佳電視動畫連續劇。\[14\]
 
-美國時間2014年9月6日榮獲迪克·克拉克工作室（Dick Clark
-Productions）和Tubefilter公司聯合頒發的2014年度河流獎（Streamy
-Awards）。\[15\]
+美國時間2014年9月6日榮獲迪克·克拉克工作室（Dick Clark Productions）和Tubefilter公司聯合頒發的2014年度河流獎（Streamy Awards）。\[15\]
 
 ### 宣傳預告片
 
   - vol.1宣傳預告片
 
-在系列首映前，由欧伍和助理動畫家沙恩·紐維爾（Shane
-Newville）主導製作了一系列四段，每段分別以其中一位主角為主題的[宣傳影片](https://zh.wikipedia.org/wiki/宣傳影片 "wikilink")。\[16\]每段影片均由一個角色的登場開始，並接著詳細地演示了她們的動作場景。\[17\]預告片『紅』在2012年11月《》第十季末集credits後播放。\[18\]\[19\]接下來預告片『白』在2013年2月公開。
-\[20\]預告片『黑』在同年三月底於中的一個panel中公開，亦為RWBY首段包含[配音](../Page/配音.md "wikilink")對白的宣傳影片。\[21\]在『黑』的宣傳片首映後，欧伍指出他對前兩段影片較短的時長和較少角色發展感到後侮。\[22\]預告片『黃』在2013年6月1日於公鸡牙齿工作室的
-panel上播放。\[23\]這幾段預告的音樂都有經過幾家網路零售商發售以供下載。\[24\]
+在系列首映前，由欧伍和助理動畫家沙恩·紐維爾（Shane Newville）主導製作了一系列四段，每段分別以其中一位主角為主題的[宣傳影片](https://zh.wikipedia.org/wiki/宣傳影片 "wikilink")。\[16\]每段影片均由一個角色的登場開始，並接著詳細地演示了她們的動作場景。\[17\]預告片『紅』在2012年11月《》第十季末集credits後播放。\[18\]\[19\]接下來預告片『白』在2013年2月公開。 \[20\]預告片『黑』在同年三月底於中的一個panel中公開，亦為RWBY首段包含[配音](../Page/配音.md "wikilink")對白的宣傳影片。\[21\]在『黑』的宣傳片首映後，欧伍指出他對前兩段影片較短的時長和較少角色發展感到後侮。\[22\]預告片『黃』在2013年6月1日於公鸡牙齿工作室的 panel上播放。\[23\]這幾段預告的音樂都有經過幾家網路零售商發售以供下載。\[24\]
 
   - 各片標題
 
@@ -172,18 +160,13 @@ panel上播放。\[23\]這幾段預告的音樂都有經過幾家網路零售商
 
   - vol.2宣傳預告片
 
-美國動畫工作室公鸡牙齿工作室推出的《RWBY》第二期動畫，於美國時間2014年7月4日至6日之間在得克薩斯州舉辦的首映會已圓滿落幕。Rooster
-Teeth在自行主辦的為期三天的遊戲、網絡及計算機藝術展覽會RTX
-2014活動中的一個panel上，正式公佈了二期動畫的唯一預告片。在預告片中可見將會有新角色登場，在最初的四部宣傳預告片中出現的反派角色也將再度現身，劇情發展將愈來愈緊湊，而除了校園生活的描寫，更多的動作場景也值得期待。
+美國動畫工作室公鸡牙齿工作室推出的《RWBY》第二期動畫，於美國時間2014年7月4日至6日之間在得克薩斯州舉辦的首映會已圓滿落幕。Rooster Teeth在自行主辦的為期三天的遊戲、網絡及計算機藝術展覽會RTX 2014活動中的一個panel上，正式公佈了二期動畫的唯一預告片。在預告片中可見將會有新角色登場，在最初的四部宣傳預告片中出現的反派角色也將再度現身，劇情發展將愈來愈緊湊，而除了校園生活的描寫，更多的動作場景也值得期待。
 
-同時，官方也正式宣布日本華納兄弟公司已收購《RWBY》在日本的播放權，公鸡牙齿工作室將與日本華納兄弟（Warner Bros.
-Japan）合作發布正式的《RWBY》日語配音版DVD和蓝光光碟，預計在2015年出品，使之成为第一个由美国创作的动漫登陆日本动漫市场\[25\]。日本華納也获得在当地行銷的权利\[26\]。2015年6月確定聲優配演，Ruby為[早見沙織](../Page/早見沙織.md "wikilink")、Weiss為[日笠陽子](../Page/日笠陽子.md "wikilink")，Blake為[嶋村侑](../Page/嶋村侑.md "wikilink")，Yang則為[小清水亞美](../Page/小清水亞美.md "wikilink")\[27\]。
+同時，官方也正式宣布日本華納兄弟公司已收購《RWBY》在日本的播放權，公鸡牙齿工作室將與日本華納兄弟（Warner Bros. Japan）合作發布正式的《RWBY》日語配音版DVD和蓝光光碟，預計在2015年出品，使之成为第一个由美国创作的动漫登陆日本动漫市场\[25\]。日本華納也获得在当地行銷的权利\[26\]。2015年6月確定聲優配演，Ruby為[早見沙織](../Page/早見沙織.md "wikilink")、Weiss為[日笠陽子](../Page/日笠陽子.md "wikilink")，Blake為[嶋村侑](../Page/嶋村侑.md "wikilink")，Yang則為[小清水亞美](../Page/小清水亞美.md "wikilink")\[27\]。
 
 ## 登場人物
 
-據本動畫導演[Monty
-Oum表示](https://zh.wikipedia.org/wiki/Monty_Oum "wikilink")\[28\],本作中的角色的名字都能和一個特定顏色作連結。而除了四位主要女性外也有其他隊伍的成員名字都能對應上一個特定顏色。劇中對此的解釋是，以前曾出現打壓藝術的極權政府，父母將孩子用顏色取名是一種對抗極權、支持個人主義的不合作手段，並成了一種傳統。此種命名方式被稱為「色彩命名法（Color
-Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozpin）。
+據本動畫導演[Monty Oum表示](https://zh.wikipedia.org/wiki/Monty_Oum "wikilink")\[28\],本作中的角色的名字都能和一個特定顏色作連結。而除了四位主要女性外也有其他隊伍的成員名字都能對應上一個特定顏色。劇中對此的解釋是，以前曾出現打壓藝術的極權政府，父母將孩子用顏色取名是一種對抗極權、支持個人主義的不合作手段，並成了一種傳統。此種命名方式被稱為「色彩命名法（Color Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozpin）。
 
 故事中每個人都有自己的外像力（semblence），通常和角色的性格或主題有關。大部份的獵人都有自己的專屬武器，武器大多可以在槍枝和冷兵器之間變形。
 
@@ -193,8 +176,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 發音同「Ruby」，意為紅寶石。是主角們的隊伍，故事主要以她們的視角描述。
 
-  - **露比·蘿絲**（英文名：，又譯：紅玉·玫瑰，英文配音：[Lindsay
-    Jones](https://zh.wikipedia.org/wiki/Lindsay_Jones "wikilink")，日文配音：[早見沙織](../Page/早見沙織.md "wikilink")）
+  - **露比·蘿絲**（英文名：，又譯：紅玉·玫瑰，英文配音：[Lindsay Jones](https://zh.wikipedia.org/wiki/Lindsay_Jones "wikilink")，日文配音：[早見沙織](../Page/早見沙織.md "wikilink")）
 
 <!-- end list -->
 
@@ -202,25 +184,19 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
     主角，角色原型是[小紅帽](https://zh.wikipedia.org/wiki/小紅帽 "wikilink")，名字取自紅寶石\[29\]\[30\]，故事開始時為15歲，因跳級就讀較其他人年幼。外像力為會成一團玫瑰花瓣進行高速遁走、以及砍殺戮獸Grimm時也能令其消散時化為玫瑰花瓣，代表色是紅色。喜歡助人，期望能夠成為一名獵人，是個武器控。不善長徒手搏擊，一旦武器離手戰鬥能力極為低落，因此在第五季時受到Oscar(Ozpin)的特訓。為Yang的同父異母妹妹。
     在第三季最終話，因目睹Pyrrha遭到Cinder殺害，在極度悲痛的情形下，眼睛發出銀色羽翼般的光芒，瞬間重創Cinder，並將飛龍型Grimm凍結在Beacon的塔頂，後被Qrow救下帶回家中。
     第四季時與Jaune、Nora、Ren組成小隊RNJR（或隊長為Jaune的隊名JNRR）前往Mistral，行經鬼百合鎮(Oniyuri)遺址時遭到Salam手下的Tyrian襲擊，屈居劣勢，Qrow前來救援卻在Aura防禦被擊破後遭其蠍尾蟄傷。之後在Ren與Nora的故鄉黑百合鎮(Kuroyuri)遇上了當年毀滅城鎮的大型魔獸，一番苦戰後勝利，之後被在附近巡邏的飛艇接往Mistral。
-    在Qrow向Ruby透露的傳說中，Ruby與其母Summer
-    Rose的銀瞳是非常特殊的特徵，是天生的戰士，其後從Salem的口中得知銀眼之力對四季聖女繼承者具有相當的威脅，能夠產生對抗聖女的力量
-    例：能夠同時壓制Cinder的火焰和將巨龍戮獸永久凍結的冰之力：也是因此Cinder才會被重創。
-    武器為「新月玫瑰（Crescent
-    Rose）」，是一把具備[反器材步槍](../Page/反器材步槍.md "wikilink")機能的鐮刀，槍彈除了進行射擊以外，尚能利用其反作用力進行推進，由於Ruby使用鐮刀的技術乃師承自Qrow，因此設計上有參考過Qrow的武器。
+    在Qrow向Ruby透露的傳說中，Ruby與其母Summer Rose的銀瞳是非常特殊的特徵，是天生的戰士，其後從Salem的口中得知銀眼之力對四季聖女繼承者具有相當的威脅，能夠產生對抗聖女的力量 例：能夠同時壓制Cinder的火焰和將巨龍戮獸永久凍結的冰之力：也是因此Cinder才會被重創。
+    武器為「新月玫瑰（Crescent Rose）」，是一把具備[反器材步槍](../Page/反器材步槍.md "wikilink")機能的鐮刀，槍彈除了進行射擊以外，尚能利用其反作用力進行推進，由於Ruby使用鐮刀的技術乃師承自Qrow，因此設計上有參考過Qrow的武器。
 
 <!-- end list -->
 
-  - **懷絲·雪倪**（英文名：，又譯：白·雪，配音：[Kara
-    Eberle](https://zh.wikipedia.org/wiki/Kara_Eberle "wikilink")，日文配音：[日笠陽子](../Page/日笠陽子.md "wikilink")）
+  - **懷絲·雪倪**（英文名：，又譯：白·雪，配音：[Kara Eberle](https://zh.wikipedia.org/wiki/Kara_Eberle "wikilink")，日文配音：[日笠陽子](../Page/日笠陽子.md "wikilink")）
 
 <!-- end list -->
 
   -
     角色原型是[白雪公主](../Page/白雪公主.md "wikilink")，名字取自「白雪」的德語。代表色是白色。是左撇子
-    故事開始時是「-{zh-cn:雪倪尘晶公司;zh-sg:雪倪尘晶公司;zh-tw:雪氏塵晶公司;zh-hk:雪倪塵晶公司;zh-mo:雪倪塵晶公司}-」的未來繼承人。有一名姊姊Winter和一名弟弟Whitley。初登場時雖然十分認真但卻相當任性且自我，第一季時更對自己沒有成為隊長一事而對Peter
-    Port教授大吐苦水，但在其開導下開始學習如何成為一名最好的隊員，並逐漸融入團隊中。第三季Beacon學院被摧毀時被其父親帶回Atlas。
-    第四季時在慈善晚會上因賓客對Beacon的詆毀而與之發生爭執，一怒之下失控召喚出一頭山豬型召喚物，所幸被與會的James
-    Ironwood將軍擋下，其後被父親剝奪繼承權並限制自由，最終在管家Klein幫助下逃家成功，前往Mistral，欲與姊姊Winter會合。
+    故事開始時是「-{zh-cn:雪倪尘晶公司;zh-sg:雪倪尘晶公司;zh-tw:雪氏塵晶公司;zh-hk:雪倪塵晶公司;zh-mo:雪倪塵晶公司}-」的未來繼承人。有一名姊姊Winter和一名弟弟Whitley。初登場時雖然十分認真但卻相當任性且自我，第一季時更對自己沒有成為隊長一事而對Peter Port教授大吐苦水，但在其開導下開始學習如何成為一名最好的隊員，並逐漸融入團隊中。第三季Beacon學院被摧毀時被其父親帶回Atlas。
+    第四季時在慈善晚會上因賓客對Beacon的詆毀而與之發生爭執，一怒之下失控召喚出一頭山豬型召喚物，所幸被與會的James Ironwood將軍擋下，其後被父親剝奪繼承權並限制自由，最終在管家Klein幫助下逃家成功，前往Mistral，欲與姊姊Winter會合。
     第五季時因為搭乘的運輸機被女王索矛蜂襲擊而墜毀，並被Raven俘虜，並從其手下Vernal口中得知Winter被召回Atlas，之後和前來找Raven的Yang重逢，並經由Raven的能力而得以和抵達Mistral的Ruby會合。
     外像力為「雕紋」；是目前已知少數可以遺傳的外像力，能施展各種法陣進行攻防，目前總共出現過吸力（黑）、斥力（白）及時間加速三種。
     據其姐姐Winter所述，「雕紋」最終能召喚出類似守護者的存在（被召喚出來的會是自己過去生命中面對的強敵），其型態不一，Winter能召喚各種Grimm，而Weiss於第三季第11集時召喚出一支持有大劍的手臂，擋下了機甲對Velvet的攻擊，並將機甲一刀兩斷。第四季第九集，終於成功召喚出手持大劍的巨大騎士（該騎士為預告片中和Weiss戰鬥的對象），而第五季第十四集在避風港學院戰鬥中召喚出之前擊殺過的女王索矛蜂。
@@ -228,29 +204,21 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **布蕾克·貝拉多娜**（英文名：，配音：[Arryn
-    Zech](https://zh.wikipedia.org/wiki/Arryn_Zech "wikilink")，日文配音：[嵨村侑](https://zh.wikipedia.org/wiki/嵨村侑 "wikilink")）
+  - **布蕾克·貝拉多娜**（英文名：，配音：[Arryn Zech](https://zh.wikipedia.org/wiki/Arryn_Zech "wikilink")，日文配音：[嵨村侑](https://zh.wikipedia.org/wiki/嵨村侑 "wikilink")）
 
 <!-- end list -->
 
   -
     拥有一對貓耳的弗纳人（Faunus）。角色原型是[美女與野獸中的美女](https://zh.wikipedia.org/wiki/美女與野獸 "wikilink")，代表色是黑色。個性沈默寡言，帶有一點貓的習氣，非常喜歡魚類料理，極度怕狗。曾是維權組織及恐怖組織白牙的成員。父親是前任白牙領導及現任困獸州首領。名字源自[古英語的](https://zh.wikipedia.org/wiki/古英語 "wikilink")「黑色」和[顛茄的英文俗名](https://zh.wikipedia.org/wiki/顛茄 "wikilink")。外像力是產生短暫的殘影。
-    故事開始時頭頂紮著黑色蝴蝶結隱藏身為Faunus的身分，第一季尾，和Weiss發生對White
-    Fang及Faunus看法的爭執，一時激動暴露自己是Faunus，旋即因害怕而逃跑，在與Sun共同對抗Roman
-    Torchwick和White Fang共謀的搶劫案後，與Weiss和解，team rwby再次團聚。
+    故事開始時頭頂紮著黑色蝴蝶結隱藏身為Faunus的身分，第一季尾，和Weiss發生對White Fang及Faunus看法的爭執，一時激動暴露自己是Faunus，旋即因害怕而逃跑，在與Sun共同對抗Roman Torchwick和White Fang共謀的搶劫案後，與Weiss和解，team rwby再次團聚。
     第三季時與曾經的師父與同伴Adam對峙，更因Adam的報復而使前來支援的Yang慘遭斷臂，在使用外像力帶著Yang脫逃後，便獨自逃離beacon。
-    第四季時欲返回老家困獸洲，在海上航行中與一路尾行她而來的Sun聯手對抗一隻東方龍形的Grimm。在家中得知Adam意圖推翻White
-    Fang現任首領與策劃對Haven academy的攻擊時，決心重新奪回White Fang。
-    第五季時夥同Sun以及其他的盟友阻止了White Fang對其家人發動的襲擊，並與困獸洲的民兵志願軍一同阻止了White
-    Fang對避風港學院CCT塔發動的恐怖攻擊，同時與RWBY隊的其他人會合。
-    武器為「躍影飛綾（Gambol
-    Shroud）」是一把刀身可折疊的[武士刀](../Page/日本刀.md "wikilink")，板狀的刀鞘同時也身兼第二把刀，劍柄本體是一把手槍，並附有「鎖鏈模式（Kyotetsu
-    Shouge）」，能夠在刀身摺疊時以可伸縮的彈性緞帶甩動進行攻擊或移動。第六季第11集在與Adam對峙的時候遭其斬斷刀身。
+    第四季時欲返回老家困獸洲，在海上航行中與一路尾行她而來的Sun聯手對抗一隻東方龍形的Grimm。在家中得知Adam意圖推翻White Fang現任首領與策劃對Haven academy的攻擊時，決心重新奪回White Fang。
+    第五季時夥同Sun以及其他的盟友阻止了White Fang對其家人發動的襲擊，並與困獸洲的民兵志願軍一同阻止了White Fang對避風港學院CCT塔發動的恐怖攻擊，同時與RWBY隊的其他人會合。
+    武器為「躍影飛綾（Gambol Shroud）」是一把刀身可折疊的[武士刀](../Page/日本刀.md "wikilink")，板狀的刀鞘同時也身兼第二把刀，劍柄本體是一把手槍，並附有「鎖鏈模式（Kyotetsu Shouge）」，能夠在刀身摺疊時以可伸縮的彈性緞帶甩動進行攻擊或移動。第六季第11集在與Adam對峙的時候遭其斬斷刀身。
 
 <!-- end list -->
 
-  - **陽·小龍**（英文名：，配音：[Barbara
-    Dunkelman](https://zh.wikipedia.org/wiki/Barbara_Dunkelman "wikilink")，日文配音：[小清水亞美](../Page/小清水亞美.md "wikilink")）
+  - **陽·小龍**（英文名：，配音：[Barbara Dunkelman](https://zh.wikipedia.org/wiki/Barbara_Dunkelman "wikilink")，日文配音：[小清水亞美](../Page/小清水亞美.md "wikilink")）
 
 <!-- end list -->
 
@@ -259,8 +227,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
     第二季時在火車上與Neopolitan二度交戰，但完全落入下風，險遭其殺害，但因其母親Raven及時趕到而獲救。
     第三季時因目睹Blake遭Adam刺傷，憤而出手，卻遭Adam一刀砍斷手臂，她則被Blake救走，Yang自此消沉了一段時間。
     於第四季中後段時重新振作，並戴上了Ironwood將軍花費大筆心力送來的機械義肢。並在父親的教導後，Yang的戰鬥方式比起以往更加謹慎理智，不再單純只靠外像力挨打後反擊。季末，她騎著重機趕去Mistral尋找Ruby與她母親的下落。
-    武器為「灰燼天堂（Ember
-    Celica）」，是一對能射擊爆裂性[霰彈槍子彈的金黃色護腕拳套](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，平時可以縮小成手環。右手的護腕拳套在第三季連同被斬斷的右手一併遺失，之後是以義肢上的小型火砲代替之。
+    武器為「灰燼天堂（Ember Celica）」，是一對能射擊爆裂性[霰彈槍子彈的金黃色護腕拳套](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，平時可以縮小成手環。右手的護腕拳套在第三季連同被斬斷的右手一併遺失，之後是以義肢上的小型火砲代替之。
 
 #### JNPR隊
 
@@ -271,11 +238,9 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 <!-- end list -->
 
   -
-    隊長，擅長戰術指揮。透過不正當手段進入-{zh-hans:信标;zh-tw:烽火;zh-hk:信標;zh-mo:信標}-學院。家中有七個姊姊且祖先都是獵人，特殊能力是可將Arua移到他人身上並治癒、強化他人，而Pyrrha曾在幫其特訓時意外發現他擁有很高的Arua潛質。名字和角色靈感源自於[聖女貞德](../Page/聖女貞德.md "wikilink")(Jeanne'd
-    Arc)，同時「Jaune」在法語中也可代表黃色。
+    隊長，擅長戰術指揮。透過不正當手段進入-{zh-hans:信标;zh-tw:烽火;zh-hk:信標;zh-mo:信標}-學院。家中有七個姊姊且祖先都是獵人，特殊能力是可將Arua移到他人身上並治癒、強化他人，而Pyrrha曾在幫其特訓時意外發現他擁有很高的Arua潛質。名字和角色靈感源自於[聖女貞德](../Page/聖女貞德.md "wikilink")(Jeanne'd Arc)，同時「Jaune」在法語中也可代表黃色。
     自從Pyrrha去世後，對Cinder抱強烈的憎恨。
-    武器是「黃之死亡（Crocea
-    Mors，與古羅馬的凱撒大帝的佩劍同名）」，為其高祖父使用過的傳家之劍，劍鞘能展開成盾牌，上面繪有Jaune的家族標誌，造型及結構相當單純，在多半具備變形、多機能及塵晶科技的新世代武器中屬於舊式古董，但作為武器的威力仍然不容質疑。第四季進行過全面升級（使用的素材是Phyrra的遺物），並新增了能連劍帶鞘變形為雙手劍的機能。
+    武器是「黃之死亡（Crocea Mors，與古羅馬的凱撒大帝的佩劍同名）」，為其高祖父使用過的傳家之劍，劍鞘能展開成盾牌，上面繪有Jaune的家族標誌，造型及結構相當單純，在多半具備變形、多機能及塵晶科技的新世代武器中屬於舊式古董，但作為武器的威力仍然不容質疑。第四季進行過全面升級（使用的素材是Phyrra的遺物），並新增了能連劍帶鞘變形為雙手劍的機能。
 
 <!-- end list -->
 
@@ -288,13 +253,11 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
     在第三季最終話時隻身與Cinder對抗，在Aura耗盡後先是遭Cinder一箭射中阿基里斯腱，隨後在留下「你相信命運嗎？」的疑問之後被一箭射穿胸膛，最後在Ruby的面前被Cinder燒成灰燼。
     對Jaune抱有好感，在前去與Cinder對決之前，給了他自己一生中唯一一次的吻。
     角色原型是[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")。名字源自古希臘語「火焰色」和希臘神[尼刻](../Page/尼刻.md "wikilink")。
-    武器是「傾訴（）」與「聆聽
-    （）」，前者是一把能夠變形為步槍、長槍、劍三種型態的武器（在與Cinder對峙的過程中被其熔斷），並有來福槍的功能，後者是邊緣有雙凹的希臘式圓盾，除了防禦外亦能以投擲作為攻擊手段。
+    武器是「傾訴（）」與「聆聽 （）」，前者是一把能夠變形為步槍、長槍、劍三種型態的武器（在與Cinder對峙的過程中被其熔斷），並有來福槍的功能，後者是邊緣有雙凹的希臘式圓盾，除了防禦外亦能以投擲作為攻擊手段。
 
 <!-- end list -->
 
-  - **諾拉·瓦爾基里**（英文名：，配音：Samantha
-    Ireland，日文配音：[洲崎綾](../Page/洲崎綾.md "wikilink")）
+  - **諾拉·瓦爾基里**（英文名：，配音：Samantha Ireland，日文配音：[洲崎綾](../Page/洲崎綾.md "wikilink")）
 
 <!-- end list -->
 
@@ -304,25 +267,21 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **烈蓮**（英文名：，配音：[Monty
-    Oum](https://zh.wikipedia.org/wiki/Monty_Oum "wikilink")（本作品原導演）、Neath
-    Oum，日文配音：[齊藤壯馬](https://zh.wikipedia.org/wiki/齊藤壯馬 "wikilink")）
+  - **烈蓮**（英文名：，配音：[Monty Oum](https://zh.wikipedia.org/wiki/Monty_Oum "wikilink")（本作品原導演）、Neath Oum，日文配音：[齊藤壯馬](https://zh.wikipedia.org/wiki/齊藤壯馬 "wikilink")）
 
 <!-- end list -->
 
   -
     善用元氣和徒手武術，性格冷靜客觀，和Nora諾拉宛如銅板的相反面。外像力是隱藏自己及其他人的情緒，可用來躲避戮獸**(戮獸會被負面情緒吸引)**。
     出身自Mistral的黑百合鎮（Kuroyuri），他也是在這裡遇到Nora，但之後故鄉卻被一隻騎士型的戮獸毀滅，父母皆被殺死，危急時Ren使用外像力與Nora逃脫。
-    角色原型是[花木蘭](https://zh.wikipedia.org/wiki/花木蘭 "wikilink")，名字源自「獵人」的[漢語拼音](https://zh.wikipedia.org/wiki/漢語拼音 "wikilink")，同時「Ren」為日語「」字[音讀](../Page/音讀.md "wikilink")的羅馬字，而烈蓮的紋章正是蓮花。造型映射動畫導演Monty
-    Oum，亦由Monty本人配音，在Monty逝世之後改由其兄弟Neath配音。
+    角色原型是[花木蘭](https://zh.wikipedia.org/wiki/花木蘭 "wikilink")，名字源自「獵人」的[漢語拼音](https://zh.wikipedia.org/wiki/漢語拼音 "wikilink")，同時「Ren」為日語「」字[音讀](../Page/音讀.md "wikilink")的羅馬字，而烈蓮的紋章正是蓮花。造型映射動畫導演Monty Oum，亦由Monty本人配音，在Monty逝世之後改由其兄弟Neath配音。
     武器是「嵐之花（）」，為一對草綠色、搭配著刀刃的衝鋒手槍，可以縮短刀刃便於收納。
 
 ### 獵人學院(Becan)
 
 #### 學院教授
 
-  - **格琳達·古德維琪**（英文名：，配音：Kathleen Zuelch
-    ，日文配音：[淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")）
+  - **格琳達·古德維琪**（英文名：，配音：Kathleen Zuelch ，日文配音：[淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")）
 
 <!-- end list -->
 
@@ -331,8 +290,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **奥茲平**（英文名：，又稱**奧茲 Oz**，配音：Shannon
-    McCormick，日文配音：[井上和彥](../Page/井上和彥.md "wikilink")）
+  - **奥茲平**（英文名：，又稱**奧茲 Oz**，配音：Shannon McCormick，日文配音：[井上和彥](../Page/井上和彥.md "wikilink")）
 
 <!-- end list -->
 
@@ -343,8 +301,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **克羅·布蘭溫**（英文名：，配音：Vic Mignogna(至第六季為止)／Jason
-    Liebrecht(第七季開始)，日文配音：[平田廣明](../Page/平田廣明.md "wikilink")）
+  - **克羅·布蘭溫**（英文名：，配音：Vic Mignogna(至第六季為止)／Jason Liebrecht(第七季開始)，日文配音：[平田廣明](../Page/平田廣明.md "wikilink")）
 
 <!-- end list -->
 
@@ -353,25 +310,21 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
     第四季時尾隨、保護Ruby四人前往Mistral，在第7話時與前來追捕Ruby的Tyrian激戰，最終為保護Ruby時不幸遭到Tyrian的蠍尾劃傷，身中劇毒，於最終話在Mistral治療後康復，其後將Ozpin的手杖交給了Oscar。
     第六季隨同RWBY小隊一同行動，卻意外得知了Salem無法被殺死的真相，讓他覺得受到了Ozpin的背叛，進而變得自暴自棄，但最後在姪女Ruby的鼓勵下重拾自信。
     武器是「預兆（Harbinger）[1](https://www.reddit.com/r/RWBY/comments/7x3w4s/crwby_ama_w_miles_luna_kerry_shawcross_and_paula/du5b3d8/?context=3)」,一把單刃大劍，劍柄上端有明顯的齒輪機關及兩管槍管，能縮小刀刃收納、折疊後從劍柄射出子彈、或彎曲成鐮刀。
-    名字「Qrow」讀音與「Crow」相同，英語是烏鴉的意思，「Branwen」是威爾斯語，意思為「祝福的白鴉」。能夠變身成烏鴉為Ozpin賦予的魔法能力。其外像力的效果為無差別的帶給自己及周遭所有人厄運，他曾向Ruby自嘲：「你們可以叫我掃把星」，第六季第一集開頭在列車上因總是會遇到眾多Grimms讓Nora曾吐槽「為何我們總遇到這種事（Why
-    is it always something）.」（雖然有加上聖物的吸引以及Blake也曾在此集吐槽自己的黑貓運氣）。
+    名字「Qrow」讀音與「Crow」相同，英語是烏鴉的意思，「Branwen」是威爾斯語，意思為「祝福的白鴉」。能夠變身成烏鴉為Ozpin賦予的魔法能力。其外像力的效果為無差別的帶給自己及周遭所有人厄運，他曾向Ruby自嘲：「你們可以叫我掃把星」，第六季第一集開頭在列車上因總是會遇到眾多Grimms讓Nora曾吐槽「為何我們總遇到這種事（Why is it always something）.」（雖然有加上聖物的吸引以及Blake也曾在此集吐槽自己的黑貓運氣）。
 
 <!-- end list -->
 
-  - **彼得·波特**（英文名：Peter Port，配音：Ryan
-    Haywood，日文配音：[安倍曽市](https://zh.wikipedia.org/wiki/安倍曽市 "wikilink")）
+  - **彼得·波特**（英文名：Peter Port，配音：Ryan Haywood，日文配音：[安倍曽市](https://zh.wikipedia.org/wiki/安倍曽市 "wikilink")）
 
 <!-- end list -->
 
   -
     \-{zh-hans:信标;zh-tw:烽火;zh-hk:信標;zh-mo:信標}-學院四大教授之一，身材粗短的中年男人，灰色頭髮梳中分，眼睛常常眯着，嘴唇上兩撇八字鬍。Peter平時穿一套酒紅色的鑲金邊套裝，蹬一雙頗具騎兵風格的橄欖色長筒靴。上課總講沒幾句就開始提他當年的英勇事蹟。
-    他的名字「Peter」本為古希臘語詞彙Πέτρος（Petros，「彼得羅斯」），意為「岩石」，姓氏「Port」本為法語詞彙la
-    porte，意為「故鄉」、「門」或「海港」，也是影射其肥壯（portly）的身材，也可指波特酒，引申為酒紅色——他衣服的顏色。武器是一門形同古代喇叭槍的肩射炮，在炮托上下分別加裝了一面鋒利無比的弦月形斧刃
+    他的名字「Peter」本為古希臘語詞彙Πέτρος（Petros，「彼得羅斯」），意為「岩石」，姓氏「Port」本為法語詞彙la porte，意為「故鄉」、「門」或「海港」，也是影射其肥壯（portly）的身材，也可指波特酒，引申為酒紅色——他衣服的顏色。武器是一門形同古代喇叭槍的肩射炮，在炮托上下分別加裝了一面鋒利無比的弦月形斧刃
 
 <!-- end list -->
 
-  - **巴索羅謬·烏貝博士**（英文名：Dr.Bartholomew Oobleck，配音：Joel
-    Heyman，日文配音：[烏丸祐一](https://zh.wikipedia.org/wiki/烏丸祐一 "wikilink")）
+  - **巴索羅謬·烏貝博士**（英文名：Dr.Bartholomew Oobleck，配音：Joel Heyman，日文配音：[烏丸祐一](https://zh.wikipedia.org/wiki/烏丸祐一 "wikilink")）
 
 <!-- end list -->
 
@@ -381,8 +334,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **詹姆士·艾恩伍德將軍**（英文名：，配音：Jason
-    Rose，日文配音：[寺杣昌紀](../Page/寺杣昌紀.md "wikilink")）
+  - **詹姆士·艾恩伍德將軍**（英文名：，配音：Jason Rose，日文配音：[寺杣昌紀](../Page/寺杣昌紀.md "wikilink")）
 
 <!-- end list -->
 
@@ -403,8 +355,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 #### 其他學院學生
 
-  - **可可·安戴兒**（英文名：，配音：Ashley
-    Jenkins，日文配音：[伊藤靜](../Page/伊藤靜.md "wikilink")）
+  - **可可·安戴兒**（英文名：，配音：Ashley Jenkins，日文配音：[伊藤靜](../Page/伊藤靜.md "wikilink")）
 
 <!-- end list -->
 
@@ -413,8 +364,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **菲薇特·史克拉蒂娜**（英文名：，配音：Caiti
-    Ward，日文配音：[潘惠美](../Page/潘惠美.md "wikilink")）
+  - **菲薇特·史克拉蒂娜**（英文名：，配音：Caiti Ward，日文配音：[潘惠美](../Page/潘惠美.md "wikilink")）
 
 <!-- end list -->
 
@@ -423,8 +373,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **卡登·溫徹斯特**（英文名：，配音員：Adam
-    Ellis，日文配音：[木村昴](../Page/木村昴.md "wikilink")）
+  - **卡登·溫徹斯特**（英文名：，配音員：Adam Ellis，日文配音：[木村昴](../Page/木村昴.md "wikilink")）
 
 <!-- end list -->
 
@@ -433,8 +382,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **孫·悟空**（英文名：，配音：Michael
-    Jones，日文配音：[前野智昭](../Page/前野智昭.md "wikilink")）
+  - **孫·悟空**（英文名：，配音：Michael Jones，日文配音：[前野智昭](../Page/前野智昭.md "wikilink")）
 
 <!-- end list -->
 
@@ -456,8 +404,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **潘妮·波倫迪那**（英文名：，配音：Taylor
-    Pelto，日文配音：[潘惠美](../Page/潘惠美.md "wikilink")）
+  - **潘妮·波倫迪那**（英文名：，配音：Taylor Pelto，日文配音：[潘惠美](../Page/潘惠美.md "wikilink")）
 
 <!-- end list -->
 
@@ -468,39 +415,33 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **福林特·科爾**（英文名：Flynt Coal，配音：Flynt
-    Flossy，日文配音：[櫻井透](https://zh.wikipedia.org/wiki/櫻井透 "wikilink")）
+  - **福林特·科爾**（英文名：Flynt Coal，配音：Flynt Flossy，日文配音：[櫻井透](https://zh.wikipedia.org/wiki/櫻井透 "wikilink")）
 
 <!-- end list -->
 
   -
     Atlas王國FNKI隊的隊長，個性幽默而豁達、性格平穩，很讚賞為大局而犧牲自己的作風。能力是與分身術相似的能力，能變出另外三個自己並獲得四倍的攻擊力，展現出「致命四重奏」。使用武器為一把三重屬性Dust加持C調[小號](../Page/小號.md "wikilink")，從目前的使用情況看，這件武器並未展現任何攻擊力。它唯一的用途是吹出一道強勁的聲波風暴把人或物體掀飛。
-    因為Schnee
-    Dust公司打壓了他經營Dust商業的父親，讓他做不成生意，因此對Schnee家族抱持著極為厭惡的態度。原本對Weiss相當的蔑視，但看到Weiss為團隊做出的犧牲及貢獻後則對此改觀。
+    因為Schnee Dust公司打壓了他經營Dust商業的父親，讓他做不成生意，因此對Schnee家族抱持著極為厭惡的態度。原本對Weiss相當的蔑視，但看到Weiss為團隊做出的犧牲及貢獻後則對此改觀。
 
 <!-- end list -->
 
-  - **妮昂·凱特**（英文名：Neon Katt，配音：Meg
-    Tumay，日文配音：[藤村鼓乃美](../Page/藤村鼓乃美.md "wikilink")）
+  - **妮昂·凱特**（英文名：Neon Katt，配音：Meg Tumay，日文配音：[藤村鼓乃美](../Page/藤村鼓乃美.md "wikilink")）
 
 <!-- end list -->
 
   -
-    拥有一条貓尾巴的弗納人，Atlas王國FNKI隊的隊員，性格很像Nora
-    Valkyrie，喜歡滑[直排輪](https://zh.wikipedia.org/wiki/直排輪 "wikilink")，使用武器為帶有Dust的双节棍，角色原型擬似[彩虹貓](../Page/彩虹貓.md "wikilink")。
+    拥有一条貓尾巴的弗納人，Atlas王國FNKI隊的隊員，性格很像Nora Valkyrie，喜歡滑[直排輪](https://zh.wikipedia.org/wiki/直排輪 "wikilink")，使用武器為帶有Dust的双节棍，角色原型擬似[彩虹貓](../Page/彩虹貓.md "wikilink")。
 
 ### Salem的陣營
 
-  - **羅曼·托取維克**（英文名：，配音：Gray G.
-    Haddock，日文配音：[三木真一郎](../Page/三木真一郎.md "wikilink")）
+  - **羅曼·托取維克**（英文名：，配音：Gray G. Haddock，日文配音：[三木真一郎](../Page/三木真一郎.md "wikilink")）
 
 <!-- end list -->
 
   -
     Cinder雇用的人之一，名字源自[木偶奇遇記的反派](https://zh.wikipedia.org/wiki/木偶奇遇記 "wikilink")，角色造型是向[發條橘子致敬](../Page/發條橘子_\(電影\).md "wikilink")。數次與主角群交戰的一位狡猾機智的通緝犯，同時也具備著不俗的身手。
     一開始曾向Junior雇用許多人手來搶塵晶，結果與Ruby發生衝突；最後於第三季時遭Grimm吞食而亡。
-    武器「韻律節杖（Melodic
-    Cudgel）」是一把柺杖，前端裝有折疊式瞄準鏡，可發射塵晶砲彈，同時也將之作為近戰武器，把手是可發射出去的勾索。
+    武器「韻律節杖（Melodic Cudgel）」是一把柺杖，前端裝有折疊式瞄準鏡，可發射塵晶砲彈，同時也將之作為近戰武器，把手是可發射出去的勾索。
     姓氏「Torchwick」意為「燈芯」。
 
 <!-- end list -->
@@ -520,8 +461,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **愛美拉德·蘇芮**（英文名：，配音：Katie
-    Newville，日文配音：[井上麻里奈](../Page/井上麻里奈.md "wikilink")）
+  - **愛美拉德·蘇芮**（英文名：，配音：Katie Newville，日文配音：[井上麻里奈](../Page/井上麻里奈.md "wikilink")）
 
 <!-- end list -->
 
@@ -532,8 +472,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **墨丘利·布萊克**（英文名：，配音：J.J.
-    Castillo，日文配音：[綠川光](../Page/綠川光.md "wikilink")）
+  - **墨丘利·布萊克**（英文名：，配音：J.J. Castillo，日文配音：[綠川光](../Page/綠川光.md "wikilink")）
 
 <!-- end list -->
 
@@ -543,22 +482,17 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **妮奧波莉妲**（英文名：，又稱**妮奧
-    Neo**，英文無配音，日文配音：[藤村鼓乃美](../Page/藤村鼓乃美.md "wikilink")）
+  - **妮奧波莉妲**（英文名：，又稱**妮奧 Neo**，英文無配音，日文配音：[藤村鼓乃美](../Page/藤村鼓乃美.md "wikilink")）
 
 <!-- end list -->
 
   -
-    Roman的夥伴，
-    Cinder雇用的人之一，雙眼為棕色銀色，發動能力時其中一眼會變為亮粉色而且能互換，有時雙眼都變為銀色。在第六季展示她真實的外向力
-    -
-    偽裝，可將任何東西(包括自己)改變外貌一段時間，甚至直接憑空製造偽裝用幻象，但偽裝物體積越大會消耗更多的Aura，鏡像與空間移動的特殊能力，都是她使用偽裝外向力的體現。在第三季與Ruby對峙時被其使計甩出戰艦外，下落不明。第六季再度登場，因為Roman的死亡怪罪於Cinder，和Cinder在寒風王國的情報販子組織蜘蛛(Spiders)內大打出手。經過Cinder的威脅利誘後，轉而和Cinder聯手對Ruby復仇。在第六季終章，和Cinder取得一架飛行器，為了向Ruby復仇一起進入北方的Atlas王國.
+    Roman的夥伴， Cinder雇用的人之一，雙眼為棕色銀色，發動能力時其中一眼會變為亮粉色而且能互換，有時雙眼都變為銀色。在第六季展示她真實的外向力 - 偽裝，可將任何東西(包括自己)改變外貌一段時間，甚至直接憑空製造偽裝用幻象，但偽裝物體積越大會消耗更多的Aura，鏡像與空間移動的特殊能力，都是她使用偽裝外向力的體現。在第三季與Ruby對峙時被其使計甩出戰艦外，下落不明。第六季再度登場，因為Roman的死亡怪罪於Cinder，和Cinder在寒風王國的情報販子組織蜘蛛(Spiders)內大打出手。經過Cinder的威脅利誘後，轉而和Cinder聯手對Ruby復仇。在第六季終章，和Cinder取得一架飛行器，為了向Ruby復仇一起進入北方的Atlas王國.
     武器為一蕾絲紋洋傘，傘面可擋下槍彈攻擊，傘節內藏有細長的劍刃。但其實Neo擅長體術格鬥，總是可以精準預測對手的攻擊軌跡。在第二季曾經將Yang打至昏迷不醒。角色原型是[那不勒斯](../Page/那不勒斯.md "wikilink")三色冰淇淋。
 
 <!-- end list -->
 
-  - **亞瑟·瓦特博士**（英文名：Dr.Arthur Watts，配音：Christopher Sabat,
-    日文配音：[大川透](../Page/大川透.md "wikilink")）
+  - **亞瑟·瓦特博士**（英文名：Dr.Arthur Watts，配音：Christopher Sabat, 日文配音：[大川透](../Page/大川透.md "wikilink")）
 
 <!-- end list -->
 
@@ -570,8 +504,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **海茲爾·雷恩納德**（英文名：Hazel Rainart，配音：William Orendorff,
-    日文配音：[大塚明夫](../Page/大塚明夫.md "wikilink")）
+  - **海茲爾·雷恩納德**（英文名：Hazel Rainart，配音：William Orendorff, 日文配音：[大塚明夫](../Page/大塚明夫.md "wikilink")）
 
 <!-- end list -->
 
@@ -582,8 +515,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **提里安·凱羅斯**（英文名：Tyrian Callows，配音：Josh
-    Grelle，日文配音：[盐屋翼](https://zh.wikipedia.org/wiki/盐屋翼 "wikilink")）
+  - **提里安·凱羅斯**（英文名：Tyrian Callows，配音：Josh Grelle，日文配音：[盐屋翼](https://zh.wikipedia.org/wiki/盐屋翼 "wikilink")）
 
 <!-- end list -->
 
@@ -595,8 +527,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **塞勒姆**（英文名：，配音：Jen
-    Taylor，日文配音：[井上喜久子](../Page/井上喜久子.md "wikilink")）
+  - **塞勒姆**（英文名：，配音：Jen Taylor，日文配音：[井上喜久子](../Page/井上喜久子.md "wikilink")）
 
 <!-- end list -->
 
@@ -621,9 +552,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **伊莉亞·埃米托拉**（英文名：Ilia Amitola，配音：Cherami Leigh
-    Kuehn，日文配音：[伊瀨茉莉也](../Page/伊瀨茉莉也.md "wikilink")
-    ）
+  - **伊莉亞·埃米托拉**（英文名：Ilia Amitola，配音：Cherami Leigh Kuehn，日文配音：[伊瀨茉莉也](../Page/伊瀨茉莉也.md "wikilink") ）
 
 <!-- end list -->
 
@@ -634,10 +563,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **戈薩克·艾爾比恩/費納克·艾爾比恩**（英文名：Corsac/Fennec Albain，配音：Derek
-    Mears(Corsac)、Mike
-    McFarland(Fennec)，日文配音：[白熊寬嗣](../Page/白熊寬嗣.md "wikilink")
-    (Corsac)、矢野智也(Fennec) ）
+  - **戈薩克·艾爾比恩/費納克·艾爾比恩**（英文名：Corsac/Fennec Albain，配音：Derek Mears(Corsac)、Mike McFarland(Fennec)，日文配音：[白熊寬嗣](../Page/白熊寬嗣.md "wikilink") (Corsac)、矢野智也(Fennec) ）
 
 <!-- end list -->
 
@@ -649,8 +575,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **吉拉·貝拉多娜**（英文名：Ghira Belladona，配音：Kent Williams,
-    日文配音：[木村雅史](https://zh.wikipedia.org/wiki/木村雅史 "wikilink")）
+  - **吉拉·貝拉多娜**（英文名：Ghira Belladona，配音：Kent Williams, 日文配音：[木村雅史](https://zh.wikipedia.org/wiki/木村雅史 "wikilink")）
 
 <!-- end list -->
 
@@ -661,8 +586,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **卡莉·貝拉多娜**（英文名：Kali Belladonna，配音：Tara Platt,
-    日文配音：[豐口惠](../Page/豐口惠.md "wikilink")）
+  - **卡莉·貝拉多娜**（英文名：Kali Belladonna，配音：Tara Platt, 日文配音：[豐口惠](../Page/豐口惠.md "wikilink")）
 
 <!-- end list -->
 
@@ -681,8 +605,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 ### \-{zh-cn:擎天;zh-sg:擎天;zh-tw:阿特拉斯;zh-hk:擎天;zh-mo:擎天}-王國
 
-  - **溫特·雪倪**（英文名：Winter Schnee，又譯冬·雪，配音：Elizabeth
-    Maxwell，日文配音：[川澄綾子](../Page/川澄綾子.md "wikilink")）
+  - **溫特·雪倪**（英文名：Winter Schnee，又譯冬·雪，配音：Elizabeth Maxwell，日文配音：[川澄綾子](../Page/川澄綾子.md "wikilink")）
 
 <!-- end list -->
 
@@ -728,8 +651,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **太陽·小龍**（英文名：Taiyang Xiao Long，配音： Burnie Burns,
-    日文配音：[堀內賢雄](../Page/堀內賢雄.md "wikilink")）
+  - **太陽·小龍**（英文名：Taiyang Xiao Long，配音： Burnie Burns, 日文配音：[堀內賢雄](../Page/堀內賢雄.md "wikilink")）
 
 <!-- end list -->
 
@@ -760,8 +682,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **奧斯卡·派恩**（英文名：Oscar Pine，配音：Aaron Dismuke,
-    日文配音：[釘宮理恵](https://zh.wikipedia.org/wiki/釘宮理恵 "wikilink")）
+  - **奧斯卡·派恩**（英文名：Oscar Pine，配音：Aaron Dismuke, 日文配音：[釘宮理恵](https://zh.wikipedia.org/wiki/釘宮理恵 "wikilink")）
 
 <!-- end list -->
 
@@ -771,8 +692,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
 <!-- end list -->
 
-  - **朱尼爾·黑·熊**（英文名：，又稱**朱尼爾 Junior**，配音：Jack Pattillow，
-    日文配音：[克哉宮本](https://zh.wikipedia.org/wiki/克哉宮本 "wikilink")）
+  - **朱尼爾·黑·熊**（英文名：，又稱**朱尼爾 Junior**，配音：Jack Pattillow， 日文配音：[克哉宮本](https://zh.wikipedia.org/wiki/克哉宮本 "wikilink")）
 
 <!-- end list -->
 
@@ -788,14 +708,11 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
   -
     Ruby一夥人在前往Atlas的途中遇到的老婆婆，雖然年邁但卻意外的有著年輕人般的性格與活力，懂得很多關於魔獸的知識。
-    真實身分是比STRQ小隊更早時代的傳奇獵人，以「屠戮死神（Grimm
-    Reaper）」一名為人所稱著的鐮刀使，並且和Ruby同樣是「銀眼」的持有者，但在一次行動中遇襲遭人砍瞎雙眼，之後就此銷聲匿跡。在那之後則是仰賴電子義眼來維持視力。另外她也擁有駕駛飛艇的技術，在Vol
-    6和Weiss奪取軍用飛艇幫助Ruby一行人離開Argus、對抗Atlas超大型人型兵器、消滅海中戮獸Leviathan，並在最終話抵達Atlas。
+    真實身分是比STRQ小隊更早時代的傳奇獵人，以「屠戮死神（Grimm Reaper）」一名為人所稱著的鐮刀使，並且和Ruby同樣是「銀眼」的持有者，但在一次行動中遇襲遭人砍瞎雙眼，之後就此銷聲匿跡。在那之後則是仰賴電子義眼來維持視力。另外她也擁有駕駛飛艇的技術，在Vol 6和Weiss奪取軍用飛艇幫助Ruby一行人離開Argus、對抗Atlas超大型人型兵器、消滅海中戮獸Leviathan，並在最終話抵達Atlas。
 
 <!-- end list -->
 
-  - **光明之神/黑暗之神**（英文名：God Of Light／God Of Dark，配音：Chase McCaskill／Bruce
-    DuBose）
+  - **光明之神/黑暗之神**（英文名：God Of Light／God Of Dark，配音：Chase McCaskill／Bruce DuBose）
 
 <!-- end list -->
 
@@ -812,9 +729,7 @@ RWBY的世界觀是在一個叫「-{zh-hans:树𣎴子;zh-tw:遺風;zh-hk:樹�
 
 維特（Vytal）與英文中的Vital同音，代表「至關重要，生死攸關」之意，同時也是斯瓦西里語中「生命」之意，這和Remnant一樣，也許都反映著這個在Grimm手下倖存的世界的一些特徵。
 
-維特節（Vytal
-Festival，一譯聖育節）是維特大陸上最負盛名的國際性文化慶典，以慶祝和平與團結為目的，由奧茲平教授主辦，屆時大陸上四個國家的獵人訓練學院的學生都會聚集在-{zh-hans:溪谷;zh-tw:維爾;zh-hk:溪谷;zh-mo:溪谷}-王國的首都-{zh-hans:溪谷;zh-tw:維爾;zh-hk:溪谷;zh-mo:溪谷}-市（City
-of Vale），舉行盛大的比武錦標賽，並會舉行聯歡活動。
+維特節（Vytal Festival，一譯聖育節）是維特大陸上最負盛名的國際性文化慶典，以慶祝和平與團結為目的，由奧茲平教授主辦，屆時大陸上四個國家的獵人訓練學院的學生都會聚集在-{zh-hans:溪谷;zh-tw:維爾;zh-hk:溪谷;zh-mo:溪谷}-王國的首都-{zh-hans:溪谷;zh-tw:維爾;zh-hk:溪谷;zh-mo:溪谷}-市（City of Vale），舉行盛大的比武錦標賽，並會舉行聯歡活動。
 
 ### 國家地理
 
@@ -822,8 +737,7 @@ of Vale），舉行盛大的比武錦標賽，並會舉行聯歡活動。
 
 其中存在四個王國，分別為**-{zh-hans:溪谷;zh-tw:維爾;zh-hk:溪谷;zh-mo:溪谷}-王國**（Vale，意為「溪谷」，位於維特大陸東端，地圖正中）、**-{zh-cn:寒風;zh-sg:寒風;zh-tw:密斯特拉;zh-hk:米斯特勒;zh-mo:寒風}-王國**（Mistral，意為「寒風」，位於地圖東部的大陸）、**-{zh-cn:擎天;zh-sg:擎天;zh-tw:阿特拉斯;zh-hk:擎天;zh-mo:擎天}-王國**（Atlas，意為「擎天」，位於地圖北部的曼特大陸）、**-{zh-hans:真空;zh-tw:瓦奇歐;zh-hk:維基亞;zh-mo:維基亞}-王國**（Vacuo，意為「真空」，初期曾用名Vecchia，DVD合集中正式確認為Vacuo，位於維特大陸西端，地圖西部）。
 
-每個王國都有一個理事會來代表民意，也有軍隊充當國防力量。雖然大部分王國只在必要時召集國民入伍，但也有某些王國（如Atlas）認為有備無患很重要。依然有些人冒險選擇在王國城牆外過活。游牧民族和小村落並不鮮見，當然他們一夜之間消失無踪也毫不稀奇\[43\]。各國都開設了獵人學院，核心目標是培養下一代獵人。80年前，四王國之間曾爆發過一場偉大戰爭（The
-Great War），奠定了當前來之不易的短暫和平局面。
+每個王國都有一個理事會來代表民意，也有軍隊充當國防力量。雖然大部分王國只在必要時召集國民入伍，但也有某些王國（如Atlas）認為有備無患很重要。依然有些人冒險選擇在王國城牆外過活。游牧民族和小村落並不鮮見，當然他們一夜之間消失無踪也毫不稀奇\[43\]。各國都開設了獵人學院，核心目標是培養下一代獵人。80年前，四王國之間曾爆發過一場偉大戰爭（The Great War），奠定了當前來之不易的短暫和平局面。
 
 ### 名詞解釋
 
@@ -873,10 +787,7 @@ Great War），奠定了當前來之不易的短暫和平局面。
     第6話中Pyrrha解說，-{zh-hans:元气;zh-tw:靈氣;zh-hk:元氣;zh-mo:元氣}-是這個世界中生物的靈魂具現，能代替生物承擔重負、守護心智，也扮演著能夠感應即將襲來的危機的第六感。經過訓練，-{zh-hans:元气;zh-tw:靈氣;zh-hk:元氣;zh-mo:元氣}-能成為保護身體的「盾」和對抗敵人的「力」，也能作用在任何武裝和物品上\[44\]，在塵晶被發現之前是人類與戮獸對抗的主要手段。
     人與萬物生靈都帶有-{zh-hans:元气;zh-tw:靈氣;zh-hk:元氣;zh-mo:元氣}-，但因-{zh-hans:戮兽;zh-tw:魔獸;zh-hk:戮獸;zh-mo:戮獸}-沒有靈魂所以不擁有-{zh-hans:元气;zh-tw:靈氣;zh-hk:元氣;zh-mo:元氣}-。每個人都有-{zh-hans:元气;zh-tw:靈氣;zh-hk:元氣;zh-mo:元氣}-，只是普通人和獵人最大的分別，就是獵人能夠引動-{zh-hans:元气;zh-tw:靈氣;zh-hk:元氣;zh-mo:元氣}-使它們具現化。所有的獵人都擁有-{zh-hans:元气;zh-tw:靈氣;zh-hk:元氣;zh-mo:元氣}-能力，但並非所有擁有-{zh-hans:元气;zh-tw:靈氣;zh-hk:元氣;zh-mo:元氣}-能力的人都是獵人，擁有-{zh-hans:元气;zh-tw:靈氣;zh-hk:元氣;zh-mo:元氣}-能力卻用來為非作歹的人也存在不少。
     本作中除了-{zh-hans:戮兽;zh-tw:魔獸;zh-hk:戮獸;zh-mo:戮獸}-以外，與人對戰時不會有出血與斷肢場景，除開本作的觀感限制，也可以用「人與人對戰中有-{zh-hans:元气;zh-tw:靈氣;zh-hk:元氣;zh-mo:元氣}-在自動保護身體」來解釋。而-{zh-hans:信标;zh-tw:烽火;zh-hk:信標;zh-mo:信標}-的學生對戰和維特節戰鬥大賽的勝負也是用哪一方-{zh-hans:元气;zh-tw:靈氣;zh-hk:元氣;zh-mo:元氣}-防護先失效、將導致武器造成實際傷害來判定勝負。
-    Pyrrha比喻這就像是光明與黑暗的對比，而與-{zh-hans:戮兽;zh-tw:魔獸;zh-hk:戮獸;zh-mo:戮獸}-戰鬥則是認知手段："Understanding
-    dark and light helps us manifest our Aura. Everyone has some of
-    both.
-    （同時理解光與黑暗有助於-{zh-hans:元气;zh-tw:靈氣;zh-hk:元氣;zh-mo:元氣}-的具現化，人皆有兩者）"
+    Pyrrha比喻這就像是光明與黑暗的對比，而與-{zh-hans:戮兽;zh-tw:魔獸;zh-hk:戮獸;zh-mo:戮獸}-戰鬥則是認知手段："Understanding dark and light helps us manifest our Aura. Everyone has some of both. （同時理解光與黑暗有助於-{zh-hans:元气;zh-tw:靈氣;zh-hk:元氣;zh-mo:元氣}-的具現化，人皆有兩者）"
 
 <!-- end list -->
 
@@ -896,8 +807,7 @@ Great War），奠定了當前來之不易的短暫和平局面。
 <!-- end list -->
 
   - 聖物（）
-    傳說中，光明之神跟黑暗之神兄弟在離開時留給人類的四樣禮物，每樣聖物各自象徵著不同的概念，分別是知識.創造.破壞.選擇，擁有著塵晶望塵莫及的力量，過去曾經有一位國王使用其中一樣聖物的力量平息了世界級的戰爭。傳說集齊了四樣聖物的人就能夠擁有改變世界的力量，而四樣聖物則是被鎖在四個學院中的保管室中，只有與對應的聖女才能夠打開碰觸甚至移動聖物。春之聖女-知識
-    夏之聖女-破壞 秋之聖女-選擇 冬之聖女-創造：劇中反派不停想要奪取聖女法力的原因很可能就是會了奪取聖物。
+    傳說中，光明之神跟黑暗之神兄弟在離開時留給人類的四樣禮物，每樣聖物各自象徵著不同的概念，分別是知識.創造.破壞.選擇，擁有著塵晶望塵莫及的力量，過去曾經有一位國王使用其中一樣聖物的力量平息了世界級的戰爭。傳說集齊了四樣聖物的人就能夠擁有改變世界的力量，而四樣聖物則是被鎖在四個學院中的保管室中，只有與對應的聖女才能夠打開碰觸甚至移動聖物。春之聖女-知識 夏之聖女-破壞 秋之聖女-選擇 冬之聖女-創造：劇中反派不停想要奪取聖女法力的原因很可能就是會了奪取聖物。
 
 <!-- end list -->
 
@@ -909,8 +819,7 @@ Great War），奠定了當前來之不易的短暫和平局面。
 
   - 銀瞳（）
     在遺風大陸的古老傳說中，早在獵人與四季聖女出現之前，世上早已流傳著些許關於銀眼戰士的事蹟，傳聞擁有銀色眼瞳的人生來註定會成為偉大的戰士，那些擁有銀色眼瞳的戰士只需目光一震，就能讓魔獸感到恐懼。
-    實際上，在人類漫長的血脈中，銀瞳的擁有者可謂極其稀有，他們的眼球下方有著一般人所沒有的印記(tick
-    marks)；擁有這項能力的人，能夠透過雙眼釋放出對魔獸而言極具毀滅性的能量。效果從凍結、焚燒、石化、甚至直接抹消目標，不一而足。
+    實際上，在人類漫長的血脈中，銀瞳的擁有者可謂極其稀有，他們的眼球下方有著一般人所沒有的印記(tick marks)；擁有這項能力的人，能夠透過雙眼釋放出對魔獸而言極具毀滅性的能量。效果從凍結、焚燒、石化、甚至直接抹消目標，不一而足。
 
 ### 組織機構
 
@@ -918,8 +827,7 @@ Great War），奠定了當前來之不易的短暫和平局面。
 
   - 「白牙」（）
     全員由弗納人組成的民權團體，努力經由和平抗爭手段解決弗納人飽受人類歧視的問題，成員不限年齡身分，並不定期舉行示威和抗議遊行。
-    在本篇的五年前，第一任領導吉拉·貝拉多娜（Geara Belladona，即Blake的父親）退位後，由西耶娜·可汗（Sienna
-    Khan）繼任，而「白牙」在那之後作風開始激進化，砸毀拒絕服務弗納人的商店、劫持和炸毀剝削弗納人勞工（例如-{zh-cn:雪倪尘晶公司;zh-sg:雪倪尘晶公司;zh-tw:雪氏塵晶公司;zh-hk:雪倪塵晶公司;zh-mo:雪倪塵晶公司}-）的企業運輸火車與載具，甚至發生過血腥攻擊和公開處刑人類的事件。其作風之殘忍，即使是其他普通弗納人也開始以瘋子和異教徒的眼光看待他們。
+    在本篇的五年前，第一任領導吉拉·貝拉多娜（Geara Belladona，即Blake的父親）退位後，由西耶娜·可汗（Sienna Khan）繼任，而「白牙」在那之後作風開始激進化，砸毀拒絕服務弗納人的商店、劫持和炸毀剝削弗納人勞工（例如-{zh-cn:雪倪尘晶公司;zh-sg:雪倪尘晶公司;zh-tw:雪氏塵晶公司;zh-hk:雪倪塵晶公司;zh-mo:雪倪塵晶公司}-）的企業運輸火車與載具，甚至發生過血腥攻擊和公開處刑人類的事件。其作風之殘忍，即使是其他普通弗納人也開始以瘋子和異教徒的眼光看待他們。
     目前與Salem聯手
     第一季第16集中，Blake在與Sun的對話中表示自己曾經是「白牙」的成員，但因為對「白牙」的暴力手段不滿而脫離組織。
     而在第五季第二集中，第二任領導Sienna被Adam發動政變篡位並遭其殺害\[46\]，自此，「白牙」徹底的變成了反人類的恐怖組織。
@@ -929,19 +837,15 @@ Great War），奠定了當前來之不易的短暫和平局面。
 
   - 「-{zh-cn:雪倪尘晶公司;zh-sg:雪倪尘晶公司;zh-tw:雪氏塵晶公司;zh-hk:雪倪塵晶公司;zh-mo:雪倪塵晶公司}-」（）
     是RWBY世界中著名的家族式財閥，世界上最大的塵晶製造商之一。總部位於曼特（Mantle）大陸的Atlas亞特拉斯王國。
-    創始人為Weiss的外祖父Nicolas，現任[CEO是Weiss的父親Jacques](https://zh.wikipedia.org/wiki/CEO "wikilink")，Weiss
-    Schnee是該企業的女繼承人。在第四季的劇情中透Weiss的父親是入贅，因此一家人都是從母姓。該企業擁有從塵晶礦場、鐵路運輸到生產精煉的完整生產線，幾乎涉足整個製造業，小到牙膏和梳子、大到塵驅動自主兵器，其商標在RWBY世界中隨處可見，並與Atlas王國的鐵木將軍保持合作關係。
-    自從Weiss的祖父掌業的時代開始成為「白牙」襲擊目標之一，旗下公司成員經常被「白牙」成員的狙殺受害，到Weiss的父親掌業時代仍然經常遭到襲擊，因此Weiss
-    Schnee對「白牙」成員的瘋狂行動只有厭惡反感印象。另外從Weiss與Winter各自展現對父親的叛離與對抗行為來看，這位父親並不是個很好的家長，而且他強硬的壟斷作風也使很多小本經營的塵企業破產倒閉\[47\]，內部則勾心鬥角、壓榨勞工，在亮麗招牌下已經轉型為名符其實的血汗工廠型式\[48\]。
+    創始人為Weiss的外祖父Nicolas，現任[CEO是Weiss的父親Jacques](https://zh.wikipedia.org/wiki/CEO "wikilink")，Weiss Schnee是該企業的女繼承人。在第四季的劇情中透Weiss的父親是入贅，因此一家人都是從母姓。該企業擁有從塵晶礦場、鐵路運輸到生產精煉的完整生產線，幾乎涉足整個製造業，小到牙膏和梳子、大到塵驅動自主兵器，其商標在RWBY世界中隨處可見，並與Atlas王國的鐵木將軍保持合作關係。
+    自從Weiss的祖父掌業的時代開始成為「白牙」襲擊目標之一，旗下公司成員經常被「白牙」成員的狙殺受害，到Weiss的父親掌業時代仍然經常遭到襲擊，因此Weiss Schnee對「白牙」成員的瘋狂行動只有厭惡反感印象。另外從Weiss與Winter各自展現對父親的叛離與對抗行為來看，這位父親並不是個很好的家長，而且他強硬的壟斷作風也使很多小本經營的塵企業破產倒閉\[47\]，內部則勾心鬥角、壓榨勞工，在亮麗招牌下已經轉型為名符其實的血汗工廠型式\[48\]。
 
 #### 學校
 
   - \-{zh-cn:信标;zh-sg:信标;zh-tw:烽火;zh-hk:信標;zh-mo:信標}-學院（）
-    \-{zh-hans:溪谷;zh-tw:維爾;zh-hk:溪谷;zh-mo:溪谷}-王國的獵人訓練學院，位在-{zh-hans:溪谷;zh-tw:維爾;zh-hk:溪谷;zh-mo:溪谷}-市（City
-    of Vale）東方溪谷河流的懸崖上，俯瞰翡翠之森（Emerald Forest），現任校長是奧茲平教授。
+    \-{zh-hans:溪谷;zh-tw:維爾;zh-hk:溪谷;zh-mo:溪谷}-王國的獵人訓練學院，位在-{zh-hans:溪谷;zh-tw:維爾;zh-hk:溪谷;zh-mo:溪谷}-市（City of Vale）東方溪谷河流的懸崖上，俯瞰翡翠之森（Emerald Forest），現任校長是奧茲平教授。
     已知建築有哥德式風格主樓數幢，用於集合會議的圓形劇場一座，名為「信標塔」的大型通訊信號發射塔（CCT）一幢，三個航空港用於停靠客運飛艇。
-    最低入學年齡為17歲，學期為四年制的精英學院，學院以分別編成四人小隊搭檔進行訓練，目的是訓練能夠守衛世界和平的獵人。為了進入學校，學生們通常得先在一些特殊的戰士訓練學校（如信號(Signal)學院、聖域(Sanctum)學院）參加戰鬥訓練修滿學分後申請入學資格；或者其特殊才能獲得賞識而保薦直接被邀請到學院中（例如Ruby
-    Rose）。一旦被學院接受，新生就必須通過最初的入學測驗，通過入學測驗之後就會組成四人團隊。
+    最低入學年齡為17歲，學期為四年制的精英學院，學院以分別編成四人小隊搭檔進行訓練，目的是訓練能夠守衛世界和平的獵人。為了進入學校，學生們通常得先在一些特殊的戰士訓練學校（如信號(Signal)學院、聖域(Sanctum)學院）參加戰鬥訓練修滿學分後申請入學資格；或者其特殊才能獲得賞識而保薦直接被邀請到學院中（例如Ruby Rose）。一旦被學院接受，新生就必須通過最初的入學測驗，通過入學測驗之後就會組成四人團隊。
     由於比武錦標賽襲擊事件導致的魔獸入侵，校舍遭到嚴重破壞，淪為魔獸的巢穴，在Peter Port的談話中表示目前正緩慢修復中。
     「Beacon」的英語為「信標」、「燈塔」或「烽火台」的意思。
 
@@ -958,36 +862,24 @@ Great War），奠定了當前來之不易的短暫和平局面。
 <!-- end list -->
 
   - 聖域學院（Sanctum Academy）
-    位在-{zh-cn:寒風;zh-sg:寒風;zh-tw:密斯特拉;zh-hk:米斯特勒;zh-mo:寒風}-王國境內的戰士訓練學校，Pyrrha
-    Nikos與Weiss Schnee學成畢業的學校
+    位在-{zh-cn:寒風;zh-sg:寒風;zh-tw:密斯特拉;zh-hk:米斯特勒;zh-mo:寒風}-王國境內的戰士訓練學校，Pyrrha Nikos與Weiss Schnee學成畢業的學校
 
 <!-- end list -->
 
-  - \-{zh-cn:避風;zh-sg:避風;zh-tw:避風港;zh-hk:避風天堂;zh-mo:避風}-學院（Haven
-    Academy）
-    位在-{zh-cn:寒風;zh-sg:寒風;zh-tw:密斯特拉;zh-hk:米斯特勒;zh-mo:寒風}-王國境內的獵人訓練學校，Cinder自稱就讀的學校，也是Sun與Neptune目前就讀的學校，建築風格偏向日式風格，現任校長是
-    Leonardo Lionheart 教授。
+  - \-{zh-cn:避風;zh-sg:避風;zh-tw:避風港;zh-hk:避風天堂;zh-mo:避風}-學院（Haven Academy）
+    位在-{zh-cn:寒風;zh-sg:寒風;zh-tw:密斯特拉;zh-hk:米斯特勒;zh-mo:寒風}-王國境內的獵人訓練學校，Cinder自稱就讀的學校，也是Sun與Neptune目前就讀的學校，建築風格偏向日式風格，現任校長是 Leonardo Lionheart 教授。
 
 <!-- end list -->
 
   - \-{zh-cn:擎天;zh-sg:擎天;zh-tw:阿特拉斯;zh-hk:擎天;zh-mo:擎天}-學院（）
-    位在-{zh-cn:擎天;zh-sg:擎天;zh-tw:阿特拉斯;zh-hk:擎天;zh-mo:擎天}-王國境內的獵人訓練學校，是個軍事化的學校，現任校長是James
-    Ironwood將軍。
+    位在-{zh-cn:擎天;zh-sg:擎天;zh-tw:阿特拉斯;zh-hk:擎天;zh-mo:擎天}-王國境內的獵人訓練學校，是個軍事化的學校，現任校長是James Ironwood將軍。
     「Atlas」一名源自古希臘神話中的擎天神阿特拉斯。
 
 ## 各話列表
 
-本作vol.1首映前，由Oum和助理動畫家Shane
-Newville主導製作了一系列四段，每段分別以其中一位主角為主題的宣傳影片。每段影片均由一個角色的登場開始，並接著詳細地演示了她們的動作場景：第一部「Red
-Trailer」、第二部「White Trailer」、第三部「Black Tralier」以及第四部「Yellow
-Trailer」。2013年7月18日（美國時間）正式播出第一話，北美中部時區（UTC-6）每週四晚間7時（贊助者則提前2小時）在Rooster
-Teeth網站更新，《RWBY》片中內容與任何童話並不相關。
+本作vol.1首映前，由Oum和助理動畫家Shane Newville主導製作了一系列四段，每段分別以其中一位主角為主題的宣傳影片。每段影片均由一個角色的登場開始，並接著詳細地演示了她們的動作場景：第一部「Red Trailer」、第二部「White Trailer」、第三部「Black Tralier」以及第四部「Yellow Trailer」。2013年7月18日（美國時間）正式播出第一話，北美中部時區（UTC-6）每週四晚間7時（贊助者則提前2小時）在Rooster Teeth網站更新，《RWBY》片中內容與任何童話並不相關。
 
-vol.2於美國時間 2014年5月22日放出了片頭動畫，也就是《RWBY》vol.2的OP視頻。片頭採用了由Jeff
-Williams製作、Casey Lee Williams演唱的《Time To Say
-Goodbye》一曲，在慷慨激昂的旋律中可看見四名少女與敵人奮戰的場景，有了更精湛的動作、更豐富的畫面和更多的人物，可以說有著明顯的進步。同時，RoosterTeeth發布了四部製作日誌（Production
-Diary）視頻以進行宣傳。視頻中，製作組的成員向觀眾們介紹了他們的製作流程、在製作中遇到的困難、以及相較於vol.1動畫實現的突破。成員們也談到了他們對於vol.2動畫的想法和展望。官方已經宣布vol.2沒有宣傳預告片，但是於美國時間
-2014年7月4日在RTX 2014展會上放出了vol.2全劇情預告。2014年7月24日正式播出vol.2的第一章。
+vol.2於美國時間 2014年5月22日放出了片頭動畫，也就是《RWBY》vol.2的OP視頻。片頭採用了由Jeff Williams製作、Casey Lee Williams演唱的《Time To Say Goodbye》一曲，在慷慨激昂的旋律中可看見四名少女與敵人奮戰的場景，有了更精湛的動作、更豐富的畫面和更多的人物，可以說有著明顯的進步。同時，RoosterTeeth發布了四部製作日誌（Production Diary）視頻以進行宣傳。視頻中，製作組的成員向觀眾們介紹了他們的製作流程、在製作中遇到的困難、以及相較於vol.1動畫實現的突破。成員們也談到了他們對於vol.2動畫的想法和展望。官方已經宣布vol.2沒有宣傳預告片，但是於美國時間 2014年7月4日在RTX 2014展會上放出了vol.2全劇情預告。2014年7月24日正式播出vol.2的第一章。
 
 ### 第一部vol.1
 
@@ -1237,8 +1129,7 @@ Sandy Casey Lee</small></p></td>
 
 ### 第二部vol.2
 
-於2014年7月4日-6日，在德克薩斯州奥斯汀舉行的RTX 2014中進行首映。7月24日起在Rooster
-Teeth網站上發佈，Youtube延遲一週。將会由12章組成，每章約12\~15分鐘。在連續几周内每周將会發佈一个完整章節，然后空閒一周，再連續几周每周發佈一个完整章節，以此類推。
+於2014年7月4日-6日，在德克薩斯州奥斯汀舉行的RTX 2014中進行首映。7月24日起在Rooster Teeth網站上發佈，Youtube延遲一週。將会由12章組成，每章約12\~15分鐘。在連續几周内每周將会發佈一个完整章節，然后空閒一周，再連續几周每周發佈一个完整章節，以此類推。
 
 <table>
 <thead>
@@ -1933,8 +1824,7 @@ Kerry Shawcross</small></p></td>
 
 ## 回響
 
-評論家普遍對宣傳影片的動畫型式予以讚頌。宣傳影片亦讓愛好者對系列首映抱以熱切期待。\[50\]\[51\]\[52\]當這動畫在首映第一話時，其在入場人士間受歡迎到在全部三場放映時都坐無虛席。Amanda
-Rush在[Crunchyroll](../Page/Crunchyroll.md "wikilink")上撰文，提到該動畫和西方文化對此系列的影響，並稱讚其『詼諧、刺激，真好看』，認為動畫愛好者會享受這系列。\[53\]
+評論家普遍對宣傳影片的動畫型式予以讚頌。宣傳影片亦讓愛好者對系列首映抱以熱切期待。\[50\]\[51\]\[52\]當這動畫在首映第一話時，其在入場人士間受歡迎到在全部三場放映時都坐無虛席。Amanda Rush在[Crunchyroll](../Page/Crunchyroll.md "wikilink")上撰文，提到該動畫和西方文化對此系列的影響，並稱讚其『詼諧、刺激，真好看』，認為動畫愛好者會享受這系列。\[53\]
 
 ## 衍生作品
 
@@ -1950,8 +1840,7 @@ Rush在[Crunchyroll](../Page/Crunchyroll.md "wikilink")上撰文，提到該動�
 <!-- end list -->
 
   - 漫畫版
-    由[三輪士郎](../Page/三輪士郎.md "wikilink")作畫，於集英社的《[Ultra
-    Jump](https://zh.wikipedia.org/wiki/Ultra_Jump "wikilink")》2015年12月號開始連載。
+    由[三輪士郎](../Page/三輪士郎.md "wikilink")作畫，於集英社的《[Ultra Jump](https://zh.wikipedia.org/wiki/Ultra_Jump "wikilink")》2015年12月號開始連載。
 
 <!-- end list -->
 
@@ -1971,17 +1860,7 @@ Rush在[Crunchyroll](../Page/Crunchyroll.md "wikilink")上撰文，提到該動�
   - [《RWBY》日本官方網站](http://rwby.jp/)
 
   -
-[Category:美国动画](https://zh.wikipedia.org/wiki/Category:美国动画 "wikilink")
-[Category:網絡動畫](https://zh.wikipedia.org/wiki/Category:網絡動畫 "wikilink")
-[Category:2013年動畫](https://zh.wikipedia.org/wiki/Category:2013年動畫 "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:格林童话题材作品](https://zh.wikipedia.org/wiki/Category:格林童话题材作品 "wikilink")
-[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
-[Category:怪物題材作品](https://zh.wikipedia.org/wiki/Category:怪物題材作品 "wikilink")
-[Category:魔法學校背景作品](https://zh.wikipedia.org/wiki/Category:魔法學校背景作品 "wikilink")
-[Category:歧視與差別待遇題材作品](https://zh.wikipedia.org/wiki/Category:歧視與差別待遇題材作品 "wikilink")
-[Category:超能力题材作品](https://zh.wikipedia.org/wiki/Category:超能力题材作品 "wikilink")
-[Category:季節題材作品](https://zh.wikipedia.org/wiki/Category:季節題材作品 "wikilink")
+[Category:美国动画](https://zh.wikipedia.org/wiki/Category:美国动画 "wikilink") [Category:網絡動畫](https://zh.wikipedia.org/wiki/Category:網絡動畫 "wikilink") [Category:2013年動畫](https://zh.wikipedia.org/wiki/Category:2013年動畫 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:格林童话题材作品](https://zh.wikipedia.org/wiki/Category:格林童话题材作品 "wikilink") [Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink") [Category:怪物題材作品](https://zh.wikipedia.org/wiki/Category:怪物題材作品 "wikilink") [Category:魔法學校背景作品](https://zh.wikipedia.org/wiki/Category:魔法學校背景作品 "wikilink") [Category:歧視與差別待遇題材作品](https://zh.wikipedia.org/wiki/Category:歧視與差別待遇題材作品 "wikilink") [Category:超能力题材作品](https://zh.wikipedia.org/wiki/Category:超能力题材作品 "wikilink") [Category:季節題材作品](https://zh.wikipedia.org/wiki/Category:季節題材作品 "wikilink")
 
 1.
 

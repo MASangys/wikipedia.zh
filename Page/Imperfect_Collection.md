@@ -1,5 +1,4 @@
-《**Imperfect
-Collection**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周柏豪](../Page/周柏豪.md "wikilink")於2012年12月18日發行\[1\]的第二張個人新曲加精選專輯，收錄三首新歌，當中包括他第一主打《斬立決》、第二主打《無力挽回》、第三主打《Imperfect》。
+《**Imperfect Collection**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[周柏豪](../Page/周柏豪.md "wikilink")於2012年12月18日發行\[1\]的第二張個人新曲加精選專輯，收錄三首新歌，當中包括他第一主打《斬立決》、第二主打《無力挽回》、第三主打《Imperfect》。
 
 ## 曲目
 
@@ -11,8 +10,7 @@ Collection**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.
 
 ### 歌曲《Imperfect》
 
-  - 香港：[2013年度叱咤樂壇流行榜頒獎典禮](../Page/2013年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")－專業推介
-    叱咤十大（第四位）
+  - 香港：[2013年度叱咤樂壇流行榜頒獎典禮](../Page/2013年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")－專業推介 叱咤十大（第四位）
 
 ### 歌曲《無力挽回》
 
@@ -34,8 +32,6 @@ Collection**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.
 
 </div>
 
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:周柏豪音樂專輯](https://zh.wikipedia.org/wiki/Category:周柏豪音樂專輯 "wikilink")
+[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:周柏豪音樂專輯](https://zh.wikipedia.org/wiki/Category:周柏豪音樂專輯 "wikilink")
 
 1.

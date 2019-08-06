@@ -1,6 +1,4 @@
-《**歐陸風雲IV**》（）是由[Paradox Development
-Studio開發的](../Page/Paradox_Development_Studio.md "wikilink")[即時戰略遊戲](../Page/即时战略游戏.md "wikilink")，在2013年8月13日由[Paradox
-Interactive發行](../Page/Paradox_Interactive.md "wikilink")，是《[歐陸風雲III](../Page/歐陸風雲III.md "wikilink")》的后续版本，以[1444年](../Page/1444年.md "wikilink")到[1821年](https://zh.wikipedia.org/wiki/1821年 "wikilink")，背景由1444年11月尾，[波蘭國王](https://zh.wikipedia.org/wiki/波蘭國王 "wikilink")[瓦迪斯瓦夫三世·雅蓋隆契克遠征](https://zh.wikipedia.org/wiki/瓦迪斯瓦夫三世·雅蓋隆契克 "wikilink")[鄂圖曼帝國在](https://zh.wikipedia.org/wiki/鄂圖曼帝國 "wikilink")[瓦尔納戰役中戰死開始](https://zh.wikipedia.org/wiki/瓦尔納戰役 "wikilink")，歷經[大航海時代](https://zh.wikipedia.org/wiki/大航海時代 "wikilink")、[文藝復興](https://zh.wikipedia.org/wiki/文藝復興 "wikilink")、西歐殖民時代、至[法國大革命的歐洲關鍵時代為背景的歷史戰略遊戲](https://zh.wikipedia.org/wiki/法國大革命 "wikilink")。玩家可以扮演這段時期“全球任何一個國家”；東起[日本](../Page/日本.md "wikilink")、西至[美洲](../Page/美洲.md "wikilink")新大陸，這些國家的未來，端看玩家是順應局勢變為[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")[霸主](https://zh.wikipedia.org/wiki/霸主 "wikilink")、或通過穷兵黩武成為[軍事](../Page/軍事.md "wikilink")[帝國](https://zh.wikipedia.org/wiki/帝國 "wikilink")。
+《**歐陸風雲IV**》（）是由[Paradox Development Studio開發的](../Page/Paradox_Development_Studio.md "wikilink")[即時戰略遊戲](../Page/即时战略游戏.md "wikilink")，在2013年8月13日由[Paradox Interactive發行](../Page/Paradox_Interactive.md "wikilink")，是《[歐陸風雲III](../Page/歐陸風雲III.md "wikilink")》的后续版本，以[1444年](../Page/1444年.md "wikilink")到[1821年](https://zh.wikipedia.org/wiki/1821年 "wikilink")，背景由1444年11月尾，[波蘭國王](https://zh.wikipedia.org/wiki/波蘭國王 "wikilink")[瓦迪斯瓦夫三世·雅蓋隆契克遠征](https://zh.wikipedia.org/wiki/瓦迪斯瓦夫三世·雅蓋隆契克 "wikilink")[鄂圖曼帝國在](https://zh.wikipedia.org/wiki/鄂圖曼帝國 "wikilink")[瓦尔納戰役中戰死開始](https://zh.wikipedia.org/wiki/瓦尔納戰役 "wikilink")，歷經[大航海時代](https://zh.wikipedia.org/wiki/大航海時代 "wikilink")、[文藝復興](https://zh.wikipedia.org/wiki/文藝復興 "wikilink")、西歐殖民時代、至[法國大革命的歐洲關鍵時代為背景的歷史戰略遊戲](https://zh.wikipedia.org/wiki/法國大革命 "wikilink")。玩家可以扮演這段時期“全球任何一個國家”；東起[日本](../Page/日本.md "wikilink")、西至[美洲](../Page/美洲.md "wikilink")新大陸，這些國家的未來，端看玩家是順應局勢變為[商業](https://zh.wikipedia.org/wiki/商業 "wikilink")[霸主](https://zh.wikipedia.org/wiki/霸主 "wikilink")、或通過穷兵黩武成為[軍事](../Page/軍事.md "wikilink")[帝國](https://zh.wikipedia.org/wiki/帝國 "wikilink")。
 
 ## 遊戲內容
 
@@ -780,18 +778,7 @@ Interactive發行](../Page/Paradox_Interactive.md "wikilink")，是《[歐陸風
   - [Europa Universalis 4 Wiki](https://eu4.paradoxwikis.com/)
   - [欧陆风云4中文百科](https://www.eu4cn.com/)
 
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:15世纪背景游戏](https://zh.wikipedia.org/wiki/Category:15世纪背景游戏 "wikilink")
-[Category:16世纪背景游戏](https://zh.wikipedia.org/wiki/Category:16世纪背景游戏 "wikilink")
-[Category:17世紀背景游戏](https://zh.wikipedia.org/wiki/Category:17世紀背景游戏 "wikilink")
-[Category:18世纪背景游戏](https://zh.wikipedia.org/wiki/Category:18世纪背景游戏 "wikilink")
-[Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink")
-[Category:Paradox_Interactive游戏](https://zh.wikipedia.org/wiki/Category:Paradox_Interactive游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink")
+[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:15世纪背景游戏](https://zh.wikipedia.org/wiki/Category:15世纪背景游戏 "wikilink") [Category:16世纪背景游戏](https://zh.wikipedia.org/wiki/Category:16世纪背景游戏 "wikilink") [Category:17世紀背景游戏](https://zh.wikipedia.org/wiki/Category:17世紀背景游戏 "wikilink") [Category:18世纪背景游戏](https://zh.wikipedia.org/wiki/Category:18世纪背景游戏 "wikilink") [Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink") [Category:Paradox_Interactive游戏](https://zh.wikipedia.org/wiki/Category:Paradox_Interactive游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink")
 
 1.
 
@@ -831,8 +818,7 @@ Interactive發行](../Page/Paradox_Interactive.md "wikilink")，是《[歐陸風
 
 19.
 
-20.  Paradox
-    Interactive|accessdate=2019-01-09|work=Paradoxplaza|language=en}}
+20.  Paradox Interactive|accessdate=2019-01-09|work=Paradoxplaza|language=en}}
 
 21.
 

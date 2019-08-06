@@ -1,5 +1,4 @@
-《**STEP**》是韩国女子音乐组合[Kara](../Page/Kara.md "wikilink")的第三张[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2011年9月9日由DSP
-Media發行。\[1\]
+《**STEP**》是韩国女子音乐组合[Kara](../Page/Kara.md "wikilink")的第三张[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2011年9月9日由DSP Media發行。\[1\]
 
 ## 收錄曲
 
@@ -25,11 +24,6 @@ Media發行。\[1\]
 
 <references/>
 
-[Category:KARA專輯](https://zh.wikipedia.org/wiki/Category:KARA專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
-[Category:2011年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2011年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2011年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon數位下載月榜冠軍作品 "wikilink")
+[Category:KARA專輯](https://zh.wikipedia.org/wiki/Category:KARA專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:2011年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon專輯週榜冠軍作品 "wikilink") [Category:2011年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2011年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon數位下載月榜冠軍作品 "wikilink")
 
 1.  [Amazon.com『STEP』韓国盤](http://www.amazon.co.jp/KARA-STEP-Album-Special-%E9%9F%93%E5%9B%BD%E8%BC%B8%E5%85%A5%E7%9B%A4/dp/B005J1TOBQ/ref=ntt_mus_ep_dpi_5)

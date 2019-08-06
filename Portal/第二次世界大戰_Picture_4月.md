@@ -1,5 +1,4 @@
-__NOTOC__
-[Portal:第二次世界大戰/Picture/4月1日](https://zh.wikipedia.org/wiki/Portal:第二次世界大戰/Picture/4月1日 "wikilink")
+__NOTOC__ [Portal:第二次世界大戰/Picture/4月1日](https://zh.wikipedia.org/wiki/Portal:第二次世界大戰/Picture/4月1日 "wikilink")
 
 <div style="clear: both">
 

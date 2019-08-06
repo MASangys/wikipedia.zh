@@ -4,8 +4,7 @@
 
 ## 歷史
 
-一開始，這個網站是由Andover.net所擁有，爾後由VA
-Linux系統公司（後來改為VA軟體公司，然後由SourceForge公司接手，最後則是Geeknet）接手。它專門提供自由與開放原始碼軟體社群新聞及服務。該網站在上線運作的第一個月就有2500萬的點擊次數。
+一開始，這個網站是由Andover.net所擁有，爾後由VA Linux系統公司（後來改為VA軟體公司，然後由SourceForge公司接手，最後則是Geeknet）接手。它專門提供自由與開放原始碼軟體社群新聞及服務。該網站在上線運作的第一個月就有2500萬的點擊次數。
 
 Linux.com於2008年12月暫停發佈新文章，但在2009年元旦的一篇公告中暗示將會在一次未具體說明的變動後恢復運作；但又表示出於法律上的理由無法清楚說明變動\[1\]。
 
@@ -17,11 +16,9 @@ Linux.com於2008年12月暫停發佈新文章，但在2009年元旦的一篇公�
 ## 外部連結
 
   -
-  - Bruce Byfield，[Looking back at
-    Linux.com](http://brucebyfield.wordpress.com/2009/03/04/looking-back-at-linuxcom/)，2009-03-04
+  - Bruce Byfield，[Looking back at Linux.com](http://brucebyfield.wordpress.com/2009/03/04/looking-back-at-linuxcom/)，2009-03-04
 
-[Category:Linux基金會](https://zh.wikipedia.org/wiki/Category:Linux基金會 "wikilink")
-[Category:Linux網站](https://zh.wikipedia.org/wiki/Category:Linux網站 "wikilink")
+[Category:Linux基金會](https://zh.wikipedia.org/wiki/Category:Linux基金會 "wikilink") [Category:Linux網站](https://zh.wikipedia.org/wiki/Category:Linux網站 "wikilink")
 
 1.
 2.

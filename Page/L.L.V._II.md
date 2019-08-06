@@ -1,5 +1,4 @@
-**《L.L.V.
-II》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[羅力威](../Page/羅力威.md "wikilink")的第二張個人音樂專輯，於2013年1月31日推出。
+**《L.L.V. II》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[羅力威](../Page/羅力威.md "wikilink")的第二張個人音樂專輯，於2013年1月31日推出。
 
 ## 曲目
 
@@ -31,7 +30,6 @@ II》**是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wiki
   - 2013年度勁歌金曲頒獎典禮 - 勁歌金曲獎 第三位《雙子情歌（合唱）》
   - IFPI香港唱片銷量大獎2013 - 十大銷量數碼歌曲《雙子情歌（合唱）》
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:羅力威音樂專輯](https://zh.wikipedia.org/wiki/Category:羅力威音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:羅力威音樂專輯](https://zh.wikipedia.org/wiki/Category:羅力威音樂專輯 "wikilink")
 
 [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")

@@ -1,5 +1,4 @@
-**辛尼斯狼隊**（**Sandnes
-Ulf**）是[挪威](../Page/挪威.md "wikilink")的一家足球俱樂部，主場位於[桑內斯](https://zh.wikipedia.org/wiki/桑內斯 "wikilink")，球隊現時參與[挪威足球甲级联赛](https://zh.wikipedia.org/wiki/挪威足球甲级联赛 "wikilink")。
+**辛尼斯狼隊**（**Sandnes Ulf**）是[挪威](../Page/挪威.md "wikilink")的一家足球俱樂部，主場位於[桑內斯](https://zh.wikipedia.org/wiki/桑內斯 "wikilink")，球隊現時參與[挪威足球甲级联赛](https://zh.wikipedia.org/wiki/挪威足球甲级联赛 "wikilink")。
 
 ## 簡歷
 
@@ -10,7 +9,6 @@ Ulf**）是[挪威](../Page/挪威.md "wikilink")的一家足球俱樂部，主�
 ## 外部链接
 
   - [Sandnes Ulf's homepage](http://www.sandnesulf.no)
-  - [Ulvane - Sandnes Ulf Supporter's
-    Club](https://web.archive.org/web/20110305092202/http://www.ulvane.no/)
+  - [Ulvane - Sandnes Ulf Supporter's Club](https://web.archive.org/web/20110305092202/http://www.ulvane.no/)
 
 [Category:挪威足球俱樂部](https://zh.wikipedia.org/wiki/Category:挪威足球俱樂部 "wikilink")

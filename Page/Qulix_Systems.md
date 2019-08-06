@@ -16,9 +16,7 @@ Qulix Systems成立于2000年。
 
 2011年6月，Qulix推出网上银行新服务。
 
-2014年3月，Qulix参会 MobiFinance
-2014，并向[乌克兰](../Page/乌克兰.md "wikilink")银行市场推出StandFore
-FS产品。
+2014年3月，Qulix参会 MobiFinance 2014，并向[乌克兰](../Page/乌克兰.md "wikilink")银行市场推出StandFore FS产品。
 
 ## 服务领域
 

@@ -2,8 +2,7 @@
 
 ## 故事大綱
 
-[Rmb_le9372.jpg](https://zh.wikipedia.org/wiki/File:Rmb_le9372.jpg "fig:Rmb_le9372.jpg")
-故事講述主角游梓池（阿池）於某天晚上和朋友「[唱K](../Page/卡拉OK.md "wikilink")」（香港俚語「去卡拉OK」）過後，於凌晨時份乘坐由香港[旺角](../Page/旺角.md "wikilink")開往[大埔的](../Page/大埔_\(香港\).md "wikilink")[紅色公共小巴](../Page/香港小型巴士.md "wikilink")（俗稱「紅van」）回家\[3\]。在該小巴經過[獅子山隧道](../Page/獅子山隧道.md "wikilink")後，主角發現小巴外的世界的所有人及汽車全部消失，只剩下小巴及車廂內的十七人（十六名乘客和司機），彷彿進入了另一個時空之中。故事發展出一連串的神秘事件，而小巴乘客開始一個繼一個的無故死亡，隨後又有一戴著防毒面具的神秘人出現；令主角們要解開一切謎團以期望可以重回原來的世界\[4\]。
+[Rmb_le9372.jpg](https://zh.wikipedia.org/wiki/File:Rmb_le9372.jpg "fig:Rmb_le9372.jpg") 故事講述主角游梓池（阿池）於某天晚上和朋友「[唱K](../Page/卡拉OK.md "wikilink")」（香港俚語「去卡拉OK」）過後，於凌晨時份乘坐由香港[旺角](../Page/旺角.md "wikilink")開往[大埔的](../Page/大埔_\(香港\).md "wikilink")[紅色公共小巴](../Page/香港小型巴士.md "wikilink")（俗稱「紅van」）回家\[3\]。在該小巴經過[獅子山隧道](../Page/獅子山隧道.md "wikilink")後，主角發現小巴外的世界的所有人及汽車全部消失，只剩下小巴及車廂內的十七人（十六名乘客和司機），彷彿進入了另一個時空之中。故事發展出一連串的神秘事件，而小巴乘客開始一個繼一個的無故死亡，隨後又有一戴著防毒面具的神秘人出現；令主角們要解開一切謎團以期望可以重回原來的世界\[4\]。
 
 ## 主要人物
 
@@ -31,21 +30,17 @@
 
 《紅van》在網絡上有近四萬人追隨的人氣\[5\]，雖然故事在網上可供免費閱讀，但小說的印刷版都能擁有高銷售量；在2012年的香港書展中，《紅van》小說上集共售出了過萬本\[6\]。除此之外，小說在其他的香港書店亦有不俗的銷量：例如小說的下集登上了[商務印書館](https://zh.wikipedia.org/wiki/商務印書館 "wikilink")2013年小說書類暢銷榜的第三名\[7\]。
 
-《[號外](../Page/號外_\(雜誌\).md "wikilink")》雜誌創辦人之一的[鄧小宇](../Page/鄧小宇.md "wikilink")撰文評論《紅van》，表示故事編排牽到多個層面：由[香港本土文化](../Page/香港文化.md "wikilink")，至外國[流行文化](../Page/流行文化.md "wikilink")（例如[大衛·寶兒的歌曲](https://zh.wikipedia.org/wiki/大衛·寶兒 "wikilink")），故事內各個細節都能作為解開最終迷團的線索，是一次「視野宏大的創作」\[8\]。同時亦對故事作者Mr.Pizza有此評論：「……
-Pizza
-把故事講得出神入化，裊裊動聽之外，他寫的對話／內心獨白也十分精采，生動傳神，就如我們平日身邊的香港人談話一樣，十分自然，即使[粗口連篇也是因為自然](https://zh.wikipedia.org/wiki/粵語粗口 "wikilink")，所以不會覺得核突，此外他對書內香港地理環境、香港人的生活習慣細膩的描述，更是把『本土精神』發揮得淋漓盡致。」\[9\]
+《[號外](../Page/號外_\(雜誌\).md "wikilink")》雜誌創辦人之一的[鄧小宇](../Page/鄧小宇.md "wikilink")撰文評論《紅van》，表示故事編排牽到多個層面：由[香港本土文化](../Page/香港文化.md "wikilink")，至外國[流行文化](../Page/流行文化.md "wikilink")（例如[大衛·寶兒的歌曲](https://zh.wikipedia.org/wiki/大衛·寶兒 "wikilink")），故事內各個細節都能作為解開最終迷團的線索，是一次「視野宏大的創作」\[8\]。同時亦對故事作者Mr.Pizza有此評論：「…… Pizza 把故事講得出神入化，裊裊動聽之外，他寫的對話／內心獨白也十分精采，生動傳神，就如我們平日身邊的香港人談話一樣，十分自然，即使[粗口連篇也是因為自然](https://zh.wikipedia.org/wiki/粵語粗口 "wikilink")，所以不會覺得核突，此外他對書內香港地理環境、香港人的生活習慣細膩的描述，更是把『本土精神』發揮得淋漓盡致。」\[9\]
 
 ## 軼事
 
-  - 作者Mr.
-    Pizza表示，故事的靈感純粹是和女朋友到日本旅行，在酒店房間空閒時想出來的。而最初在網上連載時，本以為發放幾集後會不了了之，並沒想過小說後來會引來這麼多的追隨者\[10\]。
+  - 作者Mr. Pizza表示，故事的靈感純粹是和女朋友到日本旅行，在酒店房間空閒時想出來的。而最初在網上連載時，本以為發放幾集後會不了了之，並沒想過小說後來會引來這麼多的追隨者\[10\]。
 
 ## 改編電影
 
 2012年12月中，有報導指香港導演[陳果有意開拍](https://zh.wikipedia.org/wiki/陳果 "wikilink")《紅van》的電影版本，令《紅van》成為繼《[東莞的森林](https://zh.wikipedia.org/wiki/東莞的森林 "wikilink")》（「向西村上春樹」著，後改編成電影《[一路向西](../Page/一路向西.md "wikilink")》）後第二部改編成電影的高登連載故事。陳果原打算讓[梁洛施](../Page/梁洛施.md "wikilink")出演女主角Yuki，後換成由[文詠珊](../Page/文詠珊.md "wikilink")出演，而他亦希望能找上影帝級演員來客串；及後確定男主角會由[黃又南](../Page/黃又南.md "wikilink")演出。同時，陳果表示電影會分開上下兩部，預計成本約五千萬元\[11\]。
 
-《紅van》電影於2014年4月10日上映。
-在香港上映前，「紅van」入選第64屆[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[柏林國際電影節之](https://zh.wikipedia.org/wiki/柏林國際電影節 "wikilink")「電影大觀」（Panorama）單元\[12\]\[13\]\[14\]，並會在電影節中作世界首映\[15\]。
+《紅van》電影於2014年4月10日上映。 在香港上映前，「紅van」入選第64屆[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[柏林國際電影節之](https://zh.wikipedia.org/wiki/柏林國際電影節 "wikilink")「電影大觀」（Panorama）單元\[12\]\[13\]\[14\]，並會在電影節中作世界首映\[15\]。
 
 ## 相關音樂創作
 
@@ -59,11 +54,7 @@ Pizza
 
   -
   -
-[Category:改編成電影的香港小說](https://zh.wikipedia.org/wiki/Category:改編成電影的香港小說 "wikilink")
-[Category:科幻小说](https://zh.wikipedia.org/wiki/Category:科幻小说 "wikilink")
-[Category:驚悚小說](https://zh.wikipedia.org/wiki/Category:驚悚小說 "wikilink")
-[Category:網路小說](https://zh.wikipedia.org/wiki/Category:網路小說 "wikilink")
-[Category:2012年小說](https://zh.wikipedia.org/wiki/Category:2012年小說 "wikilink")
+[Category:改編成電影的香港小說](https://zh.wikipedia.org/wiki/Category:改編成電影的香港小說 "wikilink") [Category:科幻小说](https://zh.wikipedia.org/wiki/Category:科幻小说 "wikilink") [Category:驚悚小說](https://zh.wikipedia.org/wiki/Category:驚悚小說 "wikilink") [Category:網路小說](https://zh.wikipedia.org/wiki/Category:網路小說 "wikilink") [Category:2012年小說](https://zh.wikipedia.org/wiki/Category:2012年小說 "wikilink")
 
 1.
 

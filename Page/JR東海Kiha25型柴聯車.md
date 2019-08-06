@@ -16,13 +16,11 @@ Kiha25型的設計與313系四期車設計相同，外觀與同系列的列車�
 
 ### 客室設備
 
-客室設備與313系四期車相同，座位採用固定式斜椅為主，兩個車門之間設置五排斜椅。0番台在車廂尾端設置廁所，100番台沒有設置廁所而設置固定式座位。為了提供[無障礙設施](https://zh.wikipedia.org/wiki/無障礙設施 "wikilink")，列車設置停放輪椅空間以及無障礙廁所。列車的編組載客量0番台134人（座位40人、立位94人）以及100番台140人（座位48人、立位92人）。\[6\]
-為了能夠在[地方交通線](../Page/地方交通線.md "wikilink")行駛，增設了車資顯示器以及投幣箱等[一人控制](../Page/一人控制.md "wikilink")專用設備，以及設置[半自動車門](https://zh.wikipedia.org/wiki/半自動車門 "wikilink")。車門上方設置LED[顯示幕](../Page/路線牌.md "wikilink")\[7\]。
+客室設備與313系四期車相同，座位採用固定式斜椅為主，兩個車門之間設置五排斜椅。0番台在車廂尾端設置廁所，100番台沒有設置廁所而設置固定式座位。為了提供[無障礙設施](https://zh.wikipedia.org/wiki/無障礙設施 "wikilink")，列車設置停放輪椅空間以及無障礙廁所。列車的編組載客量0番台134人（座位40人、立位94人）以及100番台140人（座位48人、立位92人）。\[6\] 為了能夠在[地方交通線](../Page/地方交通線.md "wikilink")行駛，增設了車資顯示器以及投幣箱等[一人控制](../Page/一人控制.md "wikilink")專用設備，以及設置[半自動車門](https://zh.wikipedia.org/wiki/半自動車門 "wikilink")。車門上方設置LED[顯示幕](../Page/路線牌.md "wikilink")\[7\]。
 
 ### 駕駛設備
 
-[JRC_DC25_Cab.jpg](https://zh.wikipedia.org/wiki/File:JRC_DC25_Cab.jpg "fig:JRC_DC25_Cab.jpg")
-駕駛設備以313系四期車為基礎設計，將零組件共同化，因此Kiha25型成為JR東海第一款使用單一把手控制方式的柴聯車。列車的[鐵路安全裝置採用](https://zh.wikipedia.org/wiki/鐵路安全裝置 "wikilink")[自動列車停止裝置](../Page/自動列車停止裝置.md "wikilink")（ATS）當中的ATS-S<small>T</small>、ATS-P<small>T</small>以及[緊急列車停止裝置](https://zh.wikipedia.org/wiki/緊急列車停止裝置 "wikilink")（EB）、[緊急列車防護裝置](https://zh.wikipedia.org/wiki/緊急列車防護裝置 "wikilink")（TE）皆在車輛出廠時設置。\[8\]\[9\]
+[JRC_DC25_Cab.jpg](https://zh.wikipedia.org/wiki/File:JRC_DC25_Cab.jpg "fig:JRC_DC25_Cab.jpg") 駕駛設備以313系四期車為基礎設計，將零組件共同化，因此Kiha25型成為JR東海第一款使用單一把手控制方式的柴聯車。列車的[鐵路安全裝置採用](https://zh.wikipedia.org/wiki/鐵路安全裝置 "wikilink")[自動列車停止裝置](../Page/自動列車停止裝置.md "wikilink")（ATS）當中的ATS-S<small>T</small>、ATS-P<small>T</small>以及[緊急列車停止裝置](https://zh.wikipedia.org/wiki/緊急列車停止裝置 "wikilink")（EB）、[緊急列車防護裝置](https://zh.wikipedia.org/wiki/緊急列車防護裝置 "wikilink")（TE）皆在車輛出廠時設置。\[8\]\[9\]
 
 ### 轉向架與動力機械
 
@@ -30,9 +28,7 @@ Kiha25型的設計與313系四期車設計相同，外觀與同系列的列車�
 
 引擎排氣管設置在車體連結器側，引擎與變速器等動力設備分別設置在車體中央以及後方，制韌相關的設備設置在車體前方。列車的傳動方式採用後方驅動，而轉向架的配置以前方為無動力轉向架，後方為動力轉向架，動力轉向架採用傳導效率較高的雙傳動軸設計。而轉向架屬於[無枕梁轉向架](https://zh.wikipedia.org/wiki/無枕梁轉向架 "wikilink")，採用日本車輛製的C-DT67型動力轉向架以及C-TR255型無動力轉向架。\[13\]\[14\]\[15\]
 
-第二批起的動力轉向架採用[東海道新幹線](../Page/東海道新幹線.md "wikilink")[N700A系列車所採用的轉向架震動檢測系統](../Page/新幹線N700系電聯車.md "wikilink")「BVD（Body
-Vibration Detector）」
-為基礎設計，因此形式變更為C-DT67A型動力轉向架，而無動力轉向架則維持原有的形式而未更動。為了防止傳動軸在行駛當中脫落，在引擎側跟變速機與動力轉向架連結處更改為不易脫落的設計。
+第二批起的動力轉向架採用[東海道新幹線](../Page/東海道新幹線.md "wikilink")[N700A系列車所採用的轉向架震動檢測系統](../Page/新幹線N700系電聯車.md "wikilink")「BVD（Body Vibration Detector）」 為基礎設計，因此形式變更為C-DT67A型動力轉向架，而無動力轉向架則維持原有的形式而未更動。為了防止傳動軸在行駛當中脫落，在引擎側跟變速機與動力轉向架連結處更改為不易脫落的設計。
 
 制韌部分採用電子控制式氣軔、壓縮釋放制軔、電傳操縱後備制軔以及雪地專用制軔\[16\]。
 
@@ -74,10 +70,7 @@ Kiha25型列車的[番台區分](../Page/番台區分.md "wikilink")方式以兩
 </tbody>
 </table>
 
-<File:JR> Central Kiha25-3 at Okkawa.jpg|Kiha（）25-3 <File:JR> Central
-Kiha25-102 at Okkawa.JPG|Kiha（）25-102 <File:JR> Central Kiha 25-4 From
-20150615.jpg|Kiha（）25-4（踏板改造後） <File:JR> Central Kiha 25-104 From
-20150615.jpg|Kiha（）25-104（踏板改造後）
+<File:JR> Central Kiha25-3 at Okkawa.jpg|Kiha（）25-3 <File:JR> Central Kiha25-102 at Okkawa.JPG|Kiha（）25-102 <File:JR> Central Kiha 25-4 From 20150615.jpg|Kiha（）25-4（踏板改造後） <File:JR> Central Kiha 25-104 From 20150615.jpg|Kiha（）25-104（踏板改造後）
 
 ### 1000、1100番台
 
@@ -128,8 +121,7 @@ Kiha25-102 at Okkawa.JPG|Kiha（）25-102 <File:JR> Central Kiha 25-4 From
 </tbody>
 </table>
 
-<File:JR> Central Kiha 25-1003 Until 20151208.jpg|Kiha（）25-1003
-<File:JR> Central Kiha 25-1103 Until 20151208.jpg|Kiha（）25-1103
+<File:JR> Central Kiha 25-1003 Until 20151208.jpg|Kiha（）25-1003 <File:JR> Central Kiha 25-1103 Until 20151208.jpg|Kiha（）25-1103
 
 ### 1500、1600番台
 
@@ -165,8 +157,7 @@ Kiha25-102 at Okkawa.JPG|Kiha（）25-102 <File:JR> Central Kiha 25-4 From
 </tbody>
 </table>
 
-<File:JR> Central Kiha 25-1507.jpg|Kiha（）25-1507 <File:JR> Central Kiha
-25-1607.jpg|Kiha（）25-1607
+<File:JR> Central Kiha 25-1507.jpg|Kiha（）25-1507 <File:JR> Central Kiha 25-1607.jpg|Kiha（）25-1607
 
 ## 運用方式
 
@@ -186,13 +177,11 @@ Kiha25-102 at Okkawa.JPG|Kiha（）25-102 <File:JR> Central Kiha 25-4 From
 
 ## 外部連結
 
-  - [JR東海車輛圖鑑
-    Kiha25型（JR東海官方網站）](http://railway.jr-central.co.jp/train/local/detail_03_10/index.html)
+  - [JR東海車輛圖鑑 Kiha25型（JR東海官方網站）](http://railway.jr-central.co.jp/train/local/detail_03_10/index.html)
 
   - [日本車輛JR東海Kiha25型柴聯車簡介](http://www.n-sharyo.co.jp/business/tetsudo/pages/jrc-kiha25.htm)
 
-[Category:東海旅客鐵道車輛](https://zh.wikipedia.org/wiki/Category:東海旅客鐵道車輛 "wikilink")
-[Category:日本車輛製鐵路車輛](https://zh.wikipedia.org/wiki/Category:日本車輛製鐵路車輛 "wikilink")
+[Category:東海旅客鐵道車輛](https://zh.wikipedia.org/wiki/Category:東海旅客鐵道車輛 "wikilink") [Category:日本車輛製鐵路車輛](https://zh.wikipedia.org/wiki/Category:日本車輛製鐵路車輛 "wikilink")
 
 1.
 

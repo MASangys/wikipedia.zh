@@ -10,9 +10,7 @@ PLZ-07自行榴弹炮射击指挥自动化武器系统由营(连)侦察车、营
 
 ### 武器系统
 
-PLZ-07自行火炮装备有一门经改进身管的带有炮口制退器和身管抽气装置的PL-96牵引式榴弹炮，药室容积更大。炮塔能够360°环射。PLZ-07自行火炮配备半自动式装填机构，配用分装弹药，主要配备杀伤爆破[榴弹](https://zh.wikipedia.org/wiki/榴弹 "wikilink")。\[6\]
-发射底凹弹时最大射程18公里，发射底排弹时最大射程22公里\[7\]。
-辅助武器为一挺[QJC-88式12.7毫米车载高射机枪](../Page/88式车载高射机枪.md "wikilink")。
+PLZ-07自行火炮装备有一门经改进身管的带有炮口制退器和身管抽气装置的PL-96牵引式榴弹炮，药室容积更大。炮塔能够360°环射。PLZ-07自行火炮配备半自动式装填机构，配用分装弹药，主要配备杀伤爆破[榴弹](https://zh.wikipedia.org/wiki/榴弹 "wikilink")。\[6\] 发射底凹弹时最大射程18公里，发射底排弹时最大射程22公里\[7\]。 辅助武器为一挺[QJC-88式12.7毫米车载高射机枪](../Page/88式车载高射机枪.md "wikilink")。
 
 ### 动力系统
 
@@ -22,8 +20,7 @@ PLZ-07自行火炮使用6V150系列544马力水冷增压柴油机，公路上最
 
 ## 外部链接
 
-  - [PLZ-07 122mm Self-propelled tracked howitzer armoured
-    vehicle](https://web.archive.org/web/20121123060638/http://www.armyrecognition.com/china_chinese_army_artillery_vehicles_systems_uk/plz-07_plz07_122mm_self-propelled_howitzer_technical_data_sheet_specifications_information_uk.html)
+  - [PLZ-07 122mm Self-propelled tracked howitzer armoured vehicle](https://web.archive.org/web/20121123060638/http://www.armyrecognition.com/china_chinese_army_artillery_vehicles_systems_uk/plz-07_plz07_122mm_self-propelled_howitzer_technical_data_sheet_specifications_information_uk.html)
 
 ## 相关条目
 
@@ -33,9 +30,7 @@ PLZ-07自行火炮使用6V150系列544马力水冷增压柴油机，公路上最
   - [85式122mm自行火炮](https://zh.wikipedia.org/wiki/85式自行榴弹炮 "wikilink")
   - [89式122mm自行火炮](../Page/PLZ-89自行榴弹炮.md "wikilink")
 
-[分類:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/分類:中華人民共和國裝甲戰鬥車輛 "wikilink")
-[分類:裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/分類:裝甲戰鬥車輛 "wikilink")
-[分類:自行火炮](https://zh.wikipedia.org/wiki/分類:自行火炮 "wikilink")
+[分類:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/分類:中華人民共和國裝甲戰鬥車輛 "wikilink") [分類:裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/分類:裝甲戰鬥車輛 "wikilink") [分類:自行火炮](https://zh.wikipedia.org/wiki/分類:自行火炮 "wikilink")
 
 1.  第一代是[70式122mm自行火炮](../Page/70式122毫米自行榴弹炮.md "wikilink")，第二代是[85式122mm自行火炮](https://zh.wikipedia.org/wiki/85式自行榴弹炮 "wikilink")（主要用于出口）和[89式122mm自行火炮](../Page/PLZ-89自行榴弹炮.md "wikilink")。
 

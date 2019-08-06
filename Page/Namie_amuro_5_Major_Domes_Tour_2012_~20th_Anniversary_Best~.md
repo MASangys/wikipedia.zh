@@ -1,25 +1,14 @@
-《Namie amuro 5 Major Domes Tour 2012 \~20th Anniversary
-Best\~》為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Page/安室奈美惠.md "wikilink")於2013年2月27日發行的影音作品。
+《Namie amuro 5 Major Domes Tour 2012 \~20th Anniversary Best\~》為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Page/安室奈美惠.md "wikilink")於2013年2月27日發行的影音作品。
 
 ## 簡介
 
-  - 原訂於出道日2012年9月16日於故鄉[沖繩舉行的](https://zh.wikipedia.org/wiki/沖繩 "wikilink")「namie
-    amuro 20th ANNIVERSARY LIVE in OKINAWA」因颱風氣候不佳而取消，而後展開本次「namie amuro
-    5 Major Domes Tour 2012 〜20th Anniversary
-    Best〜」五大巨蛋巡迴演唱會，並於2013年2月23日至4月26日舉辦海外巡演「namie
-    amuro ASIA TOUR 2013」。
-  - 20周年的特設網站上讓歌迷票選出從[SUPER
-    MONKEY'S時期單曲](https://zh.wikipedia.org/wiki/SUPER_MONKEY'S "wikilink")《恋のキュート・ビート／ミスターU.S.A.》至《[Go
-    Round/YEAH-OH](https://zh.wikipedia.org/wiki/Go_Round/YEAH-OH "wikilink")》想在演唱會聽的曲目，從中選曲在加上專輯《[Uncontrolled](../Page/Uncontrolled.md "wikilink")》、數位單曲《[Damage](../Page/Damage.md "wikilink")》作成本次歌單。
+  - 原訂於出道日2012年9月16日於故鄉[沖繩舉行的](https://zh.wikipedia.org/wiki/沖繩 "wikilink")「namie amuro 20th ANNIVERSARY LIVE in OKINAWA」因颱風氣候不佳而取消，而後展開本次「namie amuro 5 Major Domes Tour 2012 〜20th Anniversary Best〜」五大巨蛋巡迴演唱會，並於2013年2月23日至4月26日舉辦海外巡演「namie amuro ASIA TOUR 2013」。
+  - 20周年的特設網站上讓歌迷票選出從[SUPER MONKEY'S時期單曲](https://zh.wikipedia.org/wiki/SUPER_MONKEY'S "wikilink")《恋のキュート・ビート／ミスターU.S.A.》至《[Go Round/YEAH-OH](https://zh.wikipedia.org/wiki/Go_Round/YEAH-OH "wikilink")》想在演唱會聽的曲目，從中選曲在加上專輯《[Uncontrolled](../Page/Uncontrolled.md "wikilink")》、數位單曲《[Damage](../Page/Damage.md "wikilink")》作成本次歌單。
   - 本次共發行4版本，「藍光+2CD」以及「DVD+2CD」的初回限定版本為特殊燙金紙盒包裝。
-  - 本作的2CD收錄的場次一般被認為東京某場，可於〈[In The Spotlight
-    (TOKYO)](../Page/Uncontrolled.md "wikilink")〉中聽到安室喊的是「東京Dome」。
-  - 本作於藍光綜合榜及DVD綜合榜奪冠，是繼《[namie amuro BEST FICTION TOUR
-    2008-2009](https://zh.wikipedia.org/wiki/namie_amuro_BEST_FICTION_TOUR_2008-2009 "wikilink")》以來的第二次，此項紀錄為女性藝人第一位擁有兩個雙榜奪冠紀錄，超越了[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[AKB48](../Page/AKB48.md "wikilink")、[KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")，並與[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")、[Mr.Children](../Page/Mr.Children.md "wikilink")並列擁有兩次雙榜奪冠紀錄。
+  - 本作的2CD收錄的場次一般被認為東京某場，可於〈[In The Spotlight (TOKYO)](../Page/Uncontrolled.md "wikilink")〉中聽到安室喊的是「東京Dome」。
+  - 本作於藍光綜合榜及DVD綜合榜奪冠，是繼《[namie amuro BEST FICTION TOUR 2008-2009](https://zh.wikipedia.org/wiki/namie_amuro_BEST_FICTION_TOUR_2008-2009 "wikilink")》以來的第二次，此項紀錄為女性藝人第一位擁有兩個雙榜奪冠紀錄，超越了[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[AKB48](../Page/AKB48.md "wikilink")、[KARA](https://zh.wikipedia.org/wiki/KARA "wikilink")，並與[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")、[Mr.Children](../Page/Mr.Children.md "wikilink")並列擁有兩次雙榜奪冠紀錄。
   - 「2CD租借盤」於3月27日於租借商店發行。
-  - 亞洲巡迴演唱會「namie amuro ASIA TOUR 2013」中將歌單裡的〈Go Round〉改為全英文詞的〈GO ROUND
-    ('N ROUND 'N ROUND)〉、〈YEAH-OH〉改為全英文詞的「SINGING "YEAH-OH"」、〈你愛我嗎
-    麝香葡萄〉改為〈Big Boys Cry〉，而〈Big Boys Cry〉於發行前首次於演唱會中演出。
+  - 亞洲巡迴演唱會「namie amuro ASIA TOUR 2013」中將歌單裡的〈Go Round〉改為全英文詞的〈GO ROUND ('N ROUND 'N ROUND)〉、〈YEAH-OH〉改為全英文詞的「SINGING "YEAH-OH"」、〈你愛我嗎 麝香葡萄〉改為〈Big Boys Cry〉，而〈Big Boys Cry〉於發行前首次於演唱會中演出。
 
 ## 演唱會日程
 
@@ -68,22 +57,16 @@ Best\~》為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Pag
 2.  **[How to be a Girl](../Page/How_to_be_a_Girl.md "wikilink")**
 3.  **[Hot Girls](../Page/Uncontrolled.md "wikilink")**
 4.  **[NAKED](https://zh.wikipedia.org/wiki/NAKED/Fight_Together/Tempest "wikilink")**
-5.  **[Sit\! Stay\! Wait\!
-    Down\!](https://zh.wikipedia.org/wiki/Sit!_Stay!_Wait!_Down!/Love_Story "wikilink")**
-6.  **[Get Myself
-    Back](https://zh.wikipedia.org/wiki/Break_It/Get_Myself_Back "wikilink")**
-7.  **[GIRL
-    TALK](https://zh.wikipedia.org/wiki/GIRL_TALK/the_SPEED_STAR "wikilink")**
+5.  **[Sit\! Stay\! Wait\! Down\!](https://zh.wikipedia.org/wiki/Sit!_Stay!_Wait!_Down!/Love_Story "wikilink")**
+6.  **[Get Myself Back](https://zh.wikipedia.org/wiki/Break_It/Get_Myself_Back "wikilink")**
+7.  **[GIRL TALK](https://zh.wikipedia.org/wiki/GIRL_TALK/the_SPEED_STAR "wikilink")**
 8.  **[NEW LOOK](../Page/60s_70s_80s.md "wikilink")**
-9.  **[Go
-    Round](https://zh.wikipedia.org/wiki/Go_Round/YEAH-OH "wikilink")**
+9.  **[Go Round](https://zh.wikipedia.org/wiki/Go_Round/YEAH-OH "wikilink")**
 10. **[In The Spotlight (TOKYO)](../Page/Uncontrolled.md "wikilink")**
-11. **[Fight
-    Together](https://zh.wikipedia.org/wiki/NAKED/Fight_Together/Tempest "wikilink")**
+11. **[Fight Together](https://zh.wikipedia.org/wiki/NAKED/Fight_Together/Tempest "wikilink")**
 12. **[You're my sunshine](../Page/You're_my_sunshine.md "wikilink")**
 13. **[Don't wanna cry](../Page/Don't_wanna_cry.md "wikilink")**
-14. **[RESPECT the POWER OF
-    LOVE](../Page/RESPECT_the_POWER_OF_LOVE.md "wikilink")**
+14. **[RESPECT the POWER OF LOVE](../Page/RESPECT_the_POWER_OF_LOVE.md "wikilink")**
 15. **[NEVER END](../Page/NEVER_END.md "wikilink")**
 
 </div>
@@ -94,19 +77,15 @@ Best\~》為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Pag
 
     <li value=16>
 
-    **[a walk in the
-    park](https://zh.wikipedia.org/wiki/a_walk_in_the_park "wikilink")**
+    **[a walk in the park](https://zh.wikipedia.org/wiki/a_walk_in_the_park "wikilink")**
 
-2.  **[SWEET 19
-    BLUES](https://zh.wikipedia.org/wiki/SWEET_19_BLUES_\(曲\) "wikilink")**
+2.  **[SWEET 19 BLUES](https://zh.wikipedia.org/wiki/SWEET_19_BLUES_\(曲\) "wikilink")**
 
-3.  **[Love
-    Story](https://zh.wikipedia.org/wiki/Sit!_Stay!_Wait!_Down!/Love_Story "wikilink")**
+3.  **[Love Story](https://zh.wikipedia.org/wiki/Sit!_Stay!_Wait!_Down!/Love_Story "wikilink")**
 
 4.  **[Damage](../Page/Damage.md "wikilink")**
 
-5.  **[Break
-    It](https://zh.wikipedia.org/wiki/Break_It/Get_Myself_Back "wikilink")**
+5.  **[Break It](https://zh.wikipedia.org/wiki/Break_It/Get_Myself_Back "wikilink")**
 
 6.  **[YEAH-OH](https://zh.wikipedia.org/wiki/Go_Round/YEAH-OH "wikilink")**
 
@@ -114,8 +93,7 @@ Best\~》為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Pag
 
 8.  **[Let's Go](../Page/Uncontrolled.md "wikilink")**
 
-9.  **[TRY ME
-    〜請相信我〜](https://zh.wikipedia.org/wiki/TRY_ME_〜請相信我〜 "wikilink")**
+9.  **[TRY ME 〜請相信我〜](https://zh.wikipedia.org/wiki/TRY_ME_〜請相信我〜 "wikilink")**
 
 10. **[太陽的SEASON](https://zh.wikipedia.org/wiki/太陽的SEASON "wikilink")**
 
@@ -190,11 +168,8 @@ Best\~》為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Pag
 ## 外部連結
 
   - [DVD特設網站](https://web.archive.org/web/20130210004747/http://www.avexnet.or.jp/amuro/domes_tour2012_dvd/index.html)
-  - [5 Major Domes Tour 2012 〜20th Anniversary Best〜
-    票選結果發表](https://web.archive.org/web/20130424022906/http://namieamuro.jp/20thbest/)
+  - [5 Major Domes Tour 2012 〜20th Anniversary Best〜 票選結果發表](https://web.archive.org/web/20130424022906/http://namieamuro.jp/20thbest/)
 
-[Category:2012年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2012年巡迴演唱會 "wikilink")
-[Category:2013年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2013年巡迴演唱會 "wikilink")
-[Category:安室奈美惠影像作品](https://zh.wikipedia.org/wiki/Category:安室奈美惠影像作品 "wikilink")
+[Category:2012年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2012年巡迴演唱會 "wikilink") [Category:2013年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2013年巡迴演唱會 "wikilink") [Category:安室奈美惠影像作品](https://zh.wikipedia.org/wiki/Category:安室奈美惠影像作品 "wikilink")
 
 1.  「Love Story (Xmas Music Box Ver.)」として2012年12月22日より配信されている。

@@ -6,12 +6,9 @@ Listary从标准列表控件搜索辅助工具的最初定位到目前成为文�
 
 作者在使用Windows标准列表控件\[3\]所提供的简单搜索——通过输入开头几个字母快速定位一个条目的功能时，因“无法看到自己已输入的内容”、“输入错误后无法修改”同时“必须快速输入，否则会清除需重新开始”等感到诸多不便，于是开发了Listary的最初版本——一个列表搜索辅助工具。不管什么程序只要是采用了Windows标准的列表控件，都可以用Listary搜索定位（例如[任务管理器](../Page/任务管理器.md "wikilink")的任务列表、[注册表编辑器右侧的键值列表](https://zh.wikipedia.org/wiki/注册表#使用注册表编辑器 "wikilink")）。
 
-发布后在与用户交流中发现大多数用户只用于[资源管理器长长的文件列表中定位文件](https://zh.wikipedia.org/wiki/资源管理器 "wikilink")\[4\]
-，感受到用户在这方面的强烈需求，于是逐步增加了文件管理和搜索定位等相关功能。
+发布后在与用户交流中发现大多数用户只用于[资源管理器长长的文件列表中定位文件](https://zh.wikipedia.org/wiki/资源管理器 "wikilink")\[4\] ，感受到用户在这方面的强烈需求，于是逐步增加了文件管理和搜索定位等相关功能。
 
-Windows系统发展了几十年，版本更新了数代，但系统中文件打开/保存对话框的操作方式却没有多少改善，即使在目前最新的[Windows
-8.1中](../Page/Windows_8.1.md "wikilink")，在该对话框中浏览文件的方式依然如此繁琐、低效，一直为大多数用户所诟病。并且与系统其他组件，如[记事本](https://zh.wikipedia.org/wiki/记事本 "wikilink")、[Internet
-Explorer可以很方便找到大量强大的替代程序不同](../Page/Internet_Explorer.md "wikilink")，传统打开/保存对话框的替代工具几乎完全是一个空白。Listary的出现很好的弥补了这点，它为该对话框增加了热键支持的快速文件（夹）定位方式\[5\]，使用方便、高效且人性化，因此很快受到广大用户的欢迎。
+Windows系统发展了几十年，版本更新了数代，但系统中文件打开/保存对话框的操作方式却没有多少改善，即使在目前最新的[Windows 8.1中](../Page/Windows_8.1.md "wikilink")，在该对话框中浏览文件的方式依然如此繁琐、低效，一直为大多数用户所诟病。并且与系统其他组件，如[记事本](https://zh.wikipedia.org/wiki/记事本 "wikilink")、[Internet Explorer可以很方便找到大量强大的替代程序不同](../Page/Internet_Explorer.md "wikilink")，传统打开/保存对话框的替代工具几乎完全是一个空白。Listary的出现很好的弥补了这点，它为该对话框增加了热键支持的快速文件（夹）定位方式\[5\]，使用方便、高效且人性化，因此很快受到广大用户的欢迎。
 
 ## 主要功能
 
@@ -27,8 +24,7 @@ Explorer可以很方便找到大量强大的替代程序不同](../Page/Internet
   - **收藏和历史**：可收藏文件夹及自动保存文件夹访问历史，通过Listary工具栏快速访问收藏文件夹、资源管理器中的最近文件夹和最近打开的文件。
   - **智能命令**：包括了许多有用命令的集合，只需使用按键或单键点击鼠标即可访问，如打开命令行（以当前路径）、复制当前文件夹、显示隐藏文件等。提供了比资源管理器处理文件更好的方式。这里定义了许多[快捷键](../Page/快捷键.md "wikilink")供快速访问，用户也可根据情况自定义。
   - **随心访问**：可在任意位置、通过各种方式快速访问文件和文件夹，如在桌面、文件管理器、打开/保存对话框的空白处双击鼠标左键或点击中键打开菜单，或通过热键调用菜单。
-  - **Total Commander集成**：使用[Total
-    Commander可完全代替文件对话框浏览功能](../Page/Total_Commander.md "wikilink")，具体操作如下：
+  - **Total Commander集成**：使用[Total Commander可完全代替文件对话框浏览功能](../Page/Total_Commander.md "wikilink")，具体操作如下：
     1.  在文件对话框中，首先像平常那样选择文件类型过滤器，接着按；
     2.  Listary会在TC中的新标签页中打开当前文件夹并应用过滤器（必须确保TC在运行中）；
     3.  在TC中结束操作后再次按，这样之前的文件对话框就会打开刚才在TC中选择的文件（未选择文件或者这是文件夹对话框则会切换到TC中浏览的文件夹）。
@@ -49,10 +45,7 @@ Explorer可以很方便找到大量强大的替代程序不同](../Page/Internet
   - **智能排序**：自动记忆输入过的搜索关键字，并根据搜索历史对结果排序，因此使用越多，结果越准确。
   - **键盘化操作**：几乎所有操作都可通过键盘完成，例如选择文件后按右方向键将出现操作菜单，此时可像定位文件一样定位命令来执行操作。
   - **拼音首字母支持**：可使用文件名汉字的拼音首字母定位，且同样可应用于过滤命令，这是中文用户的一大福音。
-  - **无缝集成**：Listary与系统各方面及相关程序融合为一体，它默默出现在需要打开/保存文件、打开/切换目录或过滤列表等环境中，主要指文件（夹）打开/保存对话框（支持标准及常见的非标准对话框）和ListView控件，具体包括标准的打开/保存文件对话框、打开文件夹对话框、[资源管理器](https://zh.wikipedia.org/wiki/资源管理器 "wikilink")、[任务管理器](../Page/任务管理器.md "wikilink")、[桌面及后面众多的常用程序](https://zh.wikipedia.org/wiki/桌面 "wikilink")：[WinRAR](../Page/WinRAR.md "wikilink")、[7zip](https://zh.wikipedia.org/wiki/7zip "wikilink")、[FileZilla](../Page/FileZilla.md "wikilink")、[Total
-    Commander](../Page/Total_Commander.md "wikilink")\[8\]、、xplorer2、\[9\]、[Free
-    Commander
-    XE等](https://zh.wikipedia.org/wiki/Free_Commander_XE "wikilink")，这样可以方便的为这些程序定位所需文件、切换目录或执行其他相关命令。
+  - **无缝集成**：Listary与系统各方面及相关程序融合为一体，它默默出现在需要打开/保存文件、打开/切换目录或过滤列表等环境中，主要指文件（夹）打开/保存对话框（支持标准及常见的非标准对话框）和ListView控件，具体包括标准的打开/保存文件对话框、打开文件夹对话框、[资源管理器](https://zh.wikipedia.org/wiki/资源管理器 "wikilink")、[任务管理器](../Page/任务管理器.md "wikilink")、[桌面及后面众多的常用程序](https://zh.wikipedia.org/wiki/桌面 "wikilink")：[WinRAR](../Page/WinRAR.md "wikilink")、[7zip](https://zh.wikipedia.org/wiki/7zip "wikilink")、[FileZilla](../Page/FileZilla.md "wikilink")、[Total Commander](../Page/Total_Commander.md "wikilink")\[8\]、、xplorer2、\[9\]、[Free Commander XE等](https://zh.wikipedia.org/wiki/Free_Commander_XE "wikilink")，这样可以方便的为这些程序定位所需文件、切换目录或执行其他相关命令。
 
 ## 其他情况
 
@@ -73,8 +66,7 @@ Explorer可以很方便找到大量强大的替代程序不同](../Page/Internet
 
 2010年3月17日，发布了首个公开版本0.95.21\[11\]，此时定位为标准列表控件的搜索增强工具。
 
-0.96.32版本在Listary
-Pro中增加了定位文件（夹）时的[正则表达式](../Page/正则表达式.md "wikilink")支持。
+0.96.32版本在Listary Pro中增加了定位文件（夹）时的[正则表达式](../Page/正则表达式.md "wikilink")支持。
 
 3.23.563版本开始增加了[多语言支持](https://zh.wikipedia.org/wiki/多國語言 "wikilink")。
 
@@ -93,24 +85,17 @@ Pro中增加了定位文件（夹）时的[正则表达式](../Page/正则表达
 
   - [能极大幅度提高你Windows文件浏览与搜索速度效率的「超级神器」](http://www.iplaysoft.com/listary.html)异次元软件世界推荐
 
-  - [Listary 4.10.1446 -
-    強化系統的即時搜尋功能](http://portable.easylife.tw/2586)綠色工廠評測
+  - [Listary 4.10.1446 - 強化系統的即時搜尋功能](http://portable.easylife.tw/2586)綠色工廠評測
 
   - [Listary讓檔案總管也能「隨打即找」](http://blog.joaoko.net/archives/2979)
 
-  - [Supercharge Windows File Management with
-    Listary](http://windows.appstorm.net/reviews/supercharge-windows-file-management-with-listary/)
-    Appstorm's Review
+  - [Supercharge Windows File Management with Listary](http://windows.appstorm.net/reviews/supercharge-windows-file-management-with-listary/) Appstorm's Review
 
-  - [Reviewing Listary, an Awesome File Browsing and Searching tool For
-    Windows](http://www.guidingtech.com/9293/listary-awesome-file-browsing-searching-tool-windows/)
-    GuidingTech's Review
+  - [Reviewing Listary, an Awesome File Browsing and Searching tool For Windows](http://www.guidingtech.com/9293/listary-awesome-file-browsing-searching-tool-windows/) GuidingTech's Review
 
-  - [Listary](http://download.cnet.com/Listary/3000-2248_4-75118772.html)
-    CNET Editors' review
+  - [Listary](http://download.cnet.com/Listary/3000-2248_4-75118772.html) CNET Editors' review
 
-  - [Listary - Smart solution for browsing and finding files or
-    folders](http://listary.findmysoft.com/) FindMySoft Editor's Review
+  - [Listary - Smart solution for browsing and finding files or folders](http://listary.findmysoft.com/) FindMySoft Editor's Review
 
 ## 外部链接
 

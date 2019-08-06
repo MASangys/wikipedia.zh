@@ -1,19 +1,5 @@
 [张新英](https://zh.wikipedia.org/wiki/张新英 "wikilink"){{、w}}[柳秀荣](https://zh.wikipedia.org/wiki/柳秀荣 "wikilink"){{、w}}
-[李宗秀](../Page/李宗秀.md "wikilink") | judges = | voices = | narrated = |
-theme_music_composer = | opentheme = | endtheme = | composer = |
-country =  | language =
-[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons
-= | num_episodes = 14 | list_episodes = | executive_producer = |
-producer = | editor = | location = | cinematography = | camera = |
-runtime = | company = | distributor = | channel =
-[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") |
-picture_format = | audio_format = | slogan = | first_run =  |
-first_aired = 2005年5月16日 | last_aired = 2005年6月28日 | status = |
-preceded_by = [美妙人生](../Page/美妙人生.md "wikilink") | followed_by =
-[律师们](https://zh.wikipedia.org/wiki/律师们 "wikilink") | related = |
-website = <http://www.imbc.com/broad/tv/drama/next/> |
-production_website = }}
-《**还生-NEXT**》（）是韩国[MBC电视台于](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2005年所放映连续剧，共14集。其讲述了几个人在几世轮回中，发生的爱情故事。
+[李宗秀](../Page/李宗秀.md "wikilink") | judges = | voices = | narrated = | theme_music_composer = | opentheme = | endtheme = | composer = | country =  | language = [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = | num_episodes = 14 | list_episodes = | executive_producer = | producer = | editor = | location = | cinematography = | camera = | runtime = | company = | distributor = | channel = [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | picture_format = | audio_format = | slogan = | first_run =  | first_aired = 2005年5月16日 | last_aired = 2005年6月28日 | status = | preceded_by = [美妙人生](../Page/美妙人生.md "wikilink") | followed_by = [律师们](https://zh.wikipedia.org/wiki/律师们 "wikilink") | related = | website = <http://www.imbc.com/broad/tv/drama/next/> | production_website = }} 《**还生-NEXT**》（）是韩国[MBC电视台于](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2005年所放映连续剧，共14集。其讲述了几个人在几世轮回中，发生的爱情故事。
 
 ## 登場人物
 
@@ -134,13 +120,4 @@ production_website = }}
 
   - [MBC](http://www.imbc.com/broad/tv/drama/next/)
 
-[Category:2005年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2005年韓國電視劇集 "wikilink")
-[Category:MBC月火連續劇](https://zh.wikipedia.org/wiki/Category:MBC月火連續劇 "wikilink")
-[Category:轉生題材電視劇](https://zh.wikipedia.org/wiki/Category:轉生題材電視劇 "wikilink")
-[Category:朝鮮王朝背景電視劇](https://zh.wikipedia.org/wiki/Category:朝鮮王朝背景電視劇 "wikilink")
-[Category:高麗背景電視劇](https://zh.wikipedia.org/wiki/Category:高麗背景電視劇 "wikilink")
-[Category:朝鮮日治時期背景電視劇](https://zh.wikipedia.org/wiki/Category:朝鮮日治時期背景電視劇 "wikilink")
-[Category:朝鮮三國時代背景作品](https://zh.wikipedia.org/wiki/Category:朝鮮三國時代背景作品 "wikilink")
-[Category:國興衛視外購電視劇](https://zh.wikipedia.org/wiki/Category:國興衛視外購電視劇 "wikilink")
-[Category:朱燦玉劇本作品](https://zh.wikipedia.org/wiki/Category:朱燦玉劇本作品 "wikilink")
-[Category:MBC時代劇](https://zh.wikipedia.org/wiki/Category:MBC時代劇 "wikilink")
+[Category:2005年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2005年韓國電視劇集 "wikilink") [Category:MBC月火連續劇](https://zh.wikipedia.org/wiki/Category:MBC月火連續劇 "wikilink") [Category:轉生題材電視劇](https://zh.wikipedia.org/wiki/Category:轉生題材電視劇 "wikilink") [Category:朝鮮王朝背景電視劇](https://zh.wikipedia.org/wiki/Category:朝鮮王朝背景電視劇 "wikilink") [Category:高麗背景電視劇](https://zh.wikipedia.org/wiki/Category:高麗背景電視劇 "wikilink") [Category:朝鮮日治時期背景電視劇](https://zh.wikipedia.org/wiki/Category:朝鮮日治時期背景電視劇 "wikilink") [Category:朝鮮三國時代背景作品](https://zh.wikipedia.org/wiki/Category:朝鮮三國時代背景作品 "wikilink") [Category:國興衛視外購電視劇](https://zh.wikipedia.org/wiki/Category:國興衛視外購電視劇 "wikilink") [Category:朱燦玉劇本作品](https://zh.wikipedia.org/wiki/Category:朱燦玉劇本作品 "wikilink") [Category:MBC時代劇](https://zh.wikipedia.org/wiki/Category:MBC時代劇 "wikilink")

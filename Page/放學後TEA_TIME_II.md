@@ -1,6 +1,4 @@
-《**放學後TEA TIME II**》（）是放學後TEA
-TIME於[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[K-ON\!\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》的劇中歌收錄的專輯。於2010年10月27日由[PONY
-CANYON發行](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
+《**放學後TEA TIME II**》（）是放學後TEA TIME於[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[K-ON\!\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")》的劇中歌收錄的專輯。於2010年10月27日由[PONY CANYON發行](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
 
 ## 概要
 
@@ -8,8 +6,7 @@ CANYON發行](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
 
 「**放課後ティータイム**」是『K-ON\!』登場的平澤唯、秋山澪、田井中律、琴吹紬和中野梓的樂隊，實際上即是五人的[聲優](../Page/聲優.md "wikilink")——[豐崎愛生](../Page/豐崎愛生.md "wikilink")、[日笠陽子](../Page/日笠陽子.md "wikilink")、[佐藤聰美](../Page/佐藤聰美.md "wikilink")、[壽美菜子](../Page/壽美菜子.md "wikilink")和[竹達彩奈](../Page/竹達彩奈.md "wikilink")。
 
-[CD](../Page/CD.md "wikilink")分為2枚構成的。前作的『[放學後TEA
-TIME](../Page/放學後TEA_TIME.md "wikilink")』是[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，本作的是[音樂專輯](../Page/音樂專輯.md "wikilink")。
+[CD](../Page/CD.md "wikilink")分為2枚構成的。前作的『[放學後TEA TIME](../Page/放學後TEA_TIME.md "wikilink")』是[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，本作的是[音樂專輯](../Page/音樂專輯.md "wikilink")。
 
 動畫中將所有原創的劇中曲都標示為「秋山澪作詞、琴吹紬作曲」，而實際上真正負責作曲作詞的另有其人\[1\]。
 
@@ -22,8 +19,7 @@ TIME](../Page/放學後TEA_TIME.md "wikilink")』是[迷你專輯](https://zh.wi
         作詞：、作曲・編曲：川口進
         主唱：平澤唯、伴唱：秋山澪・琴吹紬
         第2季第1話曲名登場。
-2.  **[ぴゅあぴゅあはーと](https://zh.wikipedia.org/wiki/ぴゅあぴゅあはーと "wikilink")**（純純的心
-    / Pure Pure Heart）\[4:34\]
+2.  **[ぴゅあぴゅあはーと](https://zh.wikipedia.org/wiki/ぴゅあぴゅあはーと "wikilink")**（純純的心 / Pure Pure Heart）\[4:34\]
       -
         作詞：稻葉エミ、作曲・編曲：[前澤寬之](../Page/前澤寬之.md "wikilink")
         主唱：秋山澪、伴唱：平澤唯
@@ -67,8 +63,7 @@ TIME](../Page/放學後TEA_TIME.md "wikilink")』是[迷你專輯](https://zh.wi
         主唱：平澤唯・秋山澪・田井中律・琴吹紬
         第2季最終回（第24話）及劇場版插入曲。
         此曲為輕音部四位成員畢業前寫給後輩中野梓的歌曲，於劇場版設定為琴吹紬作曲、輕音部四位成員共同作詞。
-10. **[Interlude](https://zh.wikipedia.org/wiki/間奏曲 "wikilink")（Bonus
-    Track）** \[1:05\]
+10. **[Interlude](https://zh.wikipedia.org/wiki/間奏曲 "wikilink")（Bonus Track）** \[1:05\]
       -
         Instrumental，原曲是「[ふわふわ時間](https://zh.wikipedia.org/wiki/ふわふわ時間 "wikilink")」。
 11. **放課後ティータイム（Bonus Track）** \[4:47\]
@@ -78,8 +73,7 @@ TIME](../Page/放學後TEA_TIME.md "wikilink")』是[迷你專輯](https://zh.wi
 
 ### Disc-2（Cassette Mix）
 
-1.  **[Introduction](https://zh.wikipedia.org/wiki/導入部 "wikilink")**
-    \[1:05\]
+1.  **[Introduction](https://zh.wikipedia.org/wiki/導入部 "wikilink")** \[1:05\]
       -
         演奏開始前的說話
 2.  **[ふわふわ時間](../Page/輕飄飄時間.md "wikilink")（\#23『放學後\!』Mix）**\[4:30\]
@@ -94,8 +88,7 @@ TIME](../Page/放學後TEA_TIME.md "wikilink")』是[迷你專輯](https://zh.wi
       -
         作詞：稻葉エミ、作曲：藤末樹、編曲：
         主唱：平澤唯&秋山澪
-5.  **[ふでペン
-    〜ボールペン〜](../Page/放學後TEA_TIME.md "wikilink")（\#23『放學後\!』Mix）**\[4:25\]
+5.  **[ふでペン 〜ボールペン〜](../Page/放學後TEA_TIME.md "wikilink")（\#23『放學後\!』Mix）**\[4:25\]
       -
         作詞：稻葉エミ、作曲・編曲：川口進
         主唱：平澤唯・秋山澪
@@ -129,15 +122,10 @@ TIME](../Page/放學後TEA_TIME.md "wikilink")』是[迷你專輯](https://zh.wi
 
 ## 外部連結
 
-  - [PONY
-    CANYON公式網站内CD情報](https://web.archive.org/web/20140206000850/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201000002032&DSP_SKHKETSEQ=001)
+  - [PONY CANYON公式網站内CD情報](https://web.archive.org/web/20140206000850/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201000002032&DSP_SKHKETSEQ=001)
   - [TBS動畫系・K-ON\! 公式網站](http://www.tbs.co.jp/anime/k-on)
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink")
-[Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink")
-[Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink") [Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink") [Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink") [Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink")
 
 1.  『ふわふわ時間』『ごはんはおかず』『U\&I』的部分歌詞取自於漫畫原著，作者為（kakifly）。
 

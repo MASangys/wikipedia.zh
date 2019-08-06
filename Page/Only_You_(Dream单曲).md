@@ -1,11 +1,9 @@
-《**Only
-You**》是[dream在](https://zh.wikipedia.org/wiki/dream "wikilink")2013年5月29日发售的第22张单曲。
+《**Only You**》是[dream在](https://zh.wikipedia.org/wiki/dream "wikilink")2013年5月29日发售的第22张单曲。
 
 ## 概要
 
   - 本曲是以Dream名義发售的第三张单曲。
-  - 本曲在Dream三人时期进入公信榜前十位的第六张单曲《[My
-    will](https://zh.wikipedia.org/wiki/My_will "wikilink")》之后大约13年，再次进入公信榜前十位，排位第七。
+  - 本曲在Dream三人时期进入公信榜前十位的第六张单曲《[My will](https://zh.wikipedia.org/wiki/My_will "wikilink")》之后大约13年，再次进入公信榜前十位，排位第七。
 
 ## 收录歌曲
 

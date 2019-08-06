@@ -41,11 +41,8 @@ TGP50型柴油机车设有两套完全相同的传动系统液力传动系统，
 
 ## 外部链接
 
-  - [1520mm.ru: Тепловоз
-    ТГП50](https://web.archive.org/web/20091106175544/http://www.1520mm.ru/locomotives/diesel/tgp50.phtml)
+  - [1520mm.ru: Тепловоз ТГП50](https://web.archive.org/web/20091106175544/http://www.1520mm.ru/locomotives/diesel/tgp50.phtml)
 
-[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink")
-[Category:科洛姆纳制铁路机车](https://zh.wikipedia.org/wiki/Category:科洛姆纳制铁路机车 "wikilink")
-[Category:C-C軸式機車](https://zh.wikipedia.org/wiki/Category:C-C軸式機車 "wikilink")
+[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:科洛姆纳制铁路机车](https://zh.wikipedia.org/wiki/Category:科洛姆纳制铁路机车 "wikilink") [Category:C-C軸式機車](https://zh.wikipedia.org/wiki/Category:C-C軸式機車 "wikilink")
 
 1.

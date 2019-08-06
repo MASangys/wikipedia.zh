@@ -1,6 +1,4 @@
-「**Bless
-You**」是[家入里歐](../Page/家入里歐.md "wikilink")的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年9月12日由[Victor
-Entertainment發售](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。
+「**Bless You**」是[家入里歐](../Page/家入里歐.md "wikilink")的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年9月12日由[Victor Entertainment發售](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")。
 
 ## 概要
 
@@ -10,8 +8,7 @@ Entertainment發售](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilin
 
 ### CD
 
-（全曲
-作詞:家入里歐、作曲:家入里歐・[西尾芳彦](https://zh.wikipedia.org/wiki/西尾芳彦 "wikilink")）
+（全曲 作詞:家入里歐、作曲:家入里歐・[西尾芳彦](https://zh.wikipedia.org/wiki/西尾芳彦 "wikilink")）
 
 1.  **Bless You**
       -
@@ -46,10 +43,7 @@ Entertainment發售](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilin
       - [初回限定盤B](http://www.jvcmusic.co.jp/-/Discography/A023686/VIZL-497.html)
       - [通常盤](http://www.jvcmusic.co.jp/-/Discography/A023686/VICL-36717.html)
 
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:TBS電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:TBS電視台節目主題曲 "wikilink")
-[Category:勝利娛樂歌曲](https://zh.wikipedia.org/wiki/Category:勝利娛樂歌曲 "wikilink")
-[Category:家入里歐歌曲](https://zh.wikipedia.org/wiki/Category:家入里歐歌曲 "wikilink")
+[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:TBS電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:TBS電視台節目主題曲 "wikilink") [Category:勝利娛樂歌曲](https://zh.wikipedia.org/wiki/Category:勝利娛樂歌曲 "wikilink") [Category:家入里歐歌曲](https://zh.wikipedia.org/wiki/Category:家入里歐歌曲 "wikilink")
 
 1.
 2.

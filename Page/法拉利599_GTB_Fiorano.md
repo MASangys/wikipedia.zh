@@ -1,9 +1,6 @@
-**法拉利599 GTB
-Fiorano**是[法拉利于](https://zh.wikipedia.org/wiki/法拉利汽车 "wikilink")2006年推出的[GT](../Page/豪華旅行車.md "wikilink")[跑车](../Page/跑车.md "wikilink")，用于取代[法拉利575M](../Page/法拉利575M.md "wikilink")跑车。2013年被[法拉利F12
-Berlinetta所取代](../Page/法拉利F12_Berlinetta.md "wikilink")。
+**法拉利599 GTB Fiorano**是[法拉利于](https://zh.wikipedia.org/wiki/法拉利汽车 "wikilink")2006年推出的[GT](../Page/豪華旅行車.md "wikilink")[跑车](../Page/跑车.md "wikilink")，用于取代[法拉利575M](../Page/法拉利575M.md "wikilink")跑车。2013年被[法拉利F12 Berlinetta所取代](../Page/法拉利F12_Berlinetta.md "wikilink")。
 
-599
-GTB首次展出是在2006年的[日内瓦车展](https://zh.wikipedia.org/wiki/日内瓦车展 "wikilink")。“599”得名于其引擎排量，5999cc。
+599 GTB首次展出是在2006年的[日内瓦车展](https://zh.wikipedia.org/wiki/日内瓦车展 "wikilink")。“599”得名于其引擎排量，5999cc。
 
 ## 参数
 
@@ -25,8 +22,7 @@ GTB首次展出是在2006年的[日内瓦车展](https://zh.wikipedia.org/wiki/�
 
 ## 599XX
 
-法拉利599XX是599
-GTB的赛道车款。由于性能过于强劲，未能取得上路许可。法拉利将最高转速提升到9000转/每分钟，功率提升到720马力。由于在车体和刹车盘使用了[碳纤维材质](https://zh.wikipedia.org/wiki/碳纤维 "wikilink")，整车重量有很大的减轻。搭载全新的变速箱将换挡时间缩短到60毫秒。
+法拉利599XX是599 GTB的赛道车款。由于性能过于强劲，未能取得上路许可。法拉利将最高转速提升到9000转/每分钟，功率提升到720马力。由于在车体和刹车盘使用了[碳纤维材质](https://zh.wikipedia.org/wiki/碳纤维 "wikilink")，整车重量有很大的减轻。搭载全新的变速箱将换挡时间缩短到60毫秒。
 
 该车与2009年在[日内瓦车展展出](https://zh.wikipedia.org/wiki/日内瓦车展 "wikilink")。
 
@@ -38,27 +34,14 @@ GTB的赛道车款。由于性能过于强劲，未能取得上路许可。法�
 
 ## 外部链接
 
-  - [The Ferrari
-    website](https://web.archive.org/web/20081208000000/http://www.ferrariworld.com/FWorld/fw/index.jsp)
-  - [Ferrari 599 Gold In Saudi
-    Arabia](http://blog.c77c.net/2009/09/ferrari-599-hamann-gold-from-saudi-arabia/)
-  - [Ferrari 599 GTB Fiorano on
-    Edmunds.com](https://web.archive.org/web/20090814053857/http://www.edmunds.com/insideline/do/Drives/FirstDrives/articleId=114909)
-  - [Review &
-    Pictures](http://www.roadandtrack.com/article.asp?section_id=3&article_id=5015)
-    from *[Road &
-    Track](https://zh.wikipedia.org/wiki/Road_&_Track "wikilink")*
-  - [Ferrari 599 GTB Fiorano Web
-    Encyclopedia](https://web.archive.org/web/20120315100159/http://www.ferrari599gtbfiorano.com/)
+  - [The Ferrari website](https://web.archive.org/web/20081208000000/http://www.ferrariworld.com/FWorld/fw/index.jsp)
+  - [Ferrari 599 Gold In Saudi Arabia](http://blog.c77c.net/2009/09/ferrari-599-hamann-gold-from-saudi-arabia/)
+  - [Ferrari 599 GTB Fiorano on Edmunds.com](https://web.archive.org/web/20090814053857/http://www.edmunds.com/insideline/do/Drives/FirstDrives/articleId=114909)
+  - [Review & Pictures](http://www.roadandtrack.com/article.asp?section_id=3&article_id=5015) from *[Road & Track](https://zh.wikipedia.org/wiki/Road_&_Track "wikilink")*
+  - [Ferrari 599 GTB Fiorano Web Encyclopedia](https://web.archive.org/web/20120315100159/http://www.ferrari599gtbfiorano.com/)
 
-[Category:2006年面世的汽車](https://zh.wikipedia.org/wiki/Category:2006年面世的汽車 "wikilink")
-[Category:法拉利車輛](https://zh.wikipedia.org/wiki/Category:法拉利車輛 "wikilink")
-[Category:超級跑車](https://zh.wikipedia.org/wiki/Category:超級跑車 "wikilink")
-[Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink")
-[Category:後輪驅動](https://zh.wikipedia.org/wiki/Category:後輪驅動 "wikilink")
+[Category:2006年面世的汽車](https://zh.wikipedia.org/wiki/Category:2006年面世的汽車 "wikilink") [Category:法拉利車輛](https://zh.wikipedia.org/wiki/Category:法拉利車輛 "wikilink") [Category:超級跑車](https://zh.wikipedia.org/wiki/Category:超級跑車 "wikilink") [Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink") [Category:後輪驅動](https://zh.wikipedia.org/wiki/Category:後輪驅動 "wikilink")
 
 1.
 2.
-3.  [Ferrari 599GTB Fiorano official
-    site](http://www.ferrariworld.com/FWorld/fw/events/F599/index.jsp)
-    FerrariWorld.Com Accessed February 28, 2006
+3.  [Ferrari 599GTB Fiorano official site](http://www.ferrariworld.com/FWorld/fw/events/F599/index.jsp) FerrariWorld.Com Accessed February 28, 2006

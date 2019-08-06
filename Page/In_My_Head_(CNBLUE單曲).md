@@ -1,25 +1,12 @@
-《**In My
-Head**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第四張單曲，是他們脫離獨立製作，加盟[華納唱片
-(日本)後首張發行的單曲](../Page/日本華納音樂.md "wikilink")。這單曲由[鄭容和](../Page/鄭容和.md "wikilink")作曲，並找來和[金丸佳史填詞](https://zh.wikipedia.org/wiki/金丸佳史 "wikilink")。2011年10月19日以3個不同版本：CD+DVD初回限定盤\[1\]、通常盤\[2\]及
-Lawson限定盤\[3\]發行。《In My
-Head》的韓語版本後來收錄在他們第三張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")（EP）《[EAR
-FUN](../Page/EAR_FUN.md "wikilink")》中。
+《**In My Head**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第四張單曲，是他們脫離獨立製作，加盟[華納唱片 (日本)後首張發行的單曲](../Page/日本華納音樂.md "wikilink")。這單曲由[鄭容和](../Page/鄭容和.md "wikilink")作曲，並找來和[金丸佳史填詞](https://zh.wikipedia.org/wiki/金丸佳史 "wikilink")。2011年10月19日以3個不同版本：CD+DVD初回限定盤\[1\]、通常盤\[2\]及 Lawson限定盤\[3\]發行。《In My Head》的韓語版本後來收錄在他們第三張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")（EP）《[EAR FUN](../Page/EAR_FUN.md "wikilink")》中。
 
 ## 單曲內容
 
-《In My
-Head》由CNBLUE成員[鄭容和](../Page/鄭容和.md "wikilink")作曲、和[金丸佳史填詞](https://zh.wikipedia.org/wiki/金丸佳史 "wikilink")；B面第一首歌《Mr.
-KIA (Know It
-All)》則由鄭容和和[Ryo創作](https://zh.wikipedia.org/wiki/Ryo "wikilink")；第二首歌《Rain
-of
-Blessing》則由玉井健二、及Keisuke填詞、Ryo與CNBLUE另一成員[李宗泫](../Page/李宗泫.md "wikilink")作曲\[4\]。
+《In My Head》由CNBLUE成員[鄭容和](../Page/鄭容和.md "wikilink")作曲、和[金丸佳史填詞](https://zh.wikipedia.org/wiki/金丸佳史 "wikilink")；B面第一首歌《Mr. KIA (Know It All)》則由鄭容和和[Ryo創作](https://zh.wikipedia.org/wiki/Ryo "wikilink")；第二首歌《Rain of Blessing》則由玉井健二、及Keisuke填詞、Ryo與CNBLUE另一成員[李宗泫](../Page/李宗泫.md "wikilink")作曲\[4\]。
 
 ## 宣傳
 
-為宣傳單曲，樂隊在2011年10月22日的《[MUSIC
-JAPAN](../Page/MUSIC_JAPAN.md "wikilink")》和《》音樂節目中表演新歌。他們也在韓國[KBS的](../Page/韓國放送公社.md "wikilink")《[KBS音樂銀行年終特別篇](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》與[MBC的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《MBC歌謠大戰》中表演這歌曲的韓國特別版本。同時，《In
-My
-Head》被選作美國劇集《[狙魔人](https://zh.wikipedia.org/wiki/狙魔人 "wikilink")》的動畫版之片尾曲\[5\]。
+為宣傳單曲，樂隊在2011年10月22日的《[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")》和《》音樂節目中表演新歌。他們也在韓國[KBS的](../Page/韓國放送公社.md "wikilink")《[KBS音樂銀行年終特別篇](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》與[MBC的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《MBC歌謠大戰》中表演這歌曲的韓國特別版本。同時，《In My Head》被選作美國劇集《[狙魔人](https://zh.wikipedia.org/wiki/狙魔人 "wikilink")》的動畫版之片尾曲\[5\]。
 
 ## 音樂錄影帶
 
@@ -35,12 +22,7 @@ Head》被選作美國劇集《[狙魔人](https://zh.wikipedia.org/wiki/狙魔�
 
 ## 銷售榜單成績
 
-《In My
-Head》推出首日登上Oricon單曲日榜第3名，兩日後日更升上第2名；首週又以賣出71,200張打入單曲週榜第4名，僅次於[Kara](../Page/Kara.md "wikilink")的《[Winter
-Magic](../Page/Winter_Magic.md "wikilink")》、[BUMP OF
-CHICKEN的](../Page/BUMP_OF_CHICKEN.md "wikilink")《[零](../Page/零_\(單曲\).md "wikilink")》及[NMB48](../Page/NMB48.md "wikilink")的《[Oh
-My
-God\!](../Page/Oh_My_God!.md "wikilink")》\[8\]。單曲也在10月下旬登上了Oricon2011年度單曲的第96位，同時獲得[日本唱片協會](../Page/日本唱片協會.md "wikilink")頒授售出單曲10萬張的金唱片認證\[9\]。
+《In My Head》推出首日登上Oricon單曲日榜第3名，兩日後日更升上第2名；首週又以賣出71,200張打入單曲週榜第4名，僅次於[Kara](../Page/Kara.md "wikilink")的《[Winter Magic](../Page/Winter_Magic.md "wikilink")》、[BUMP OF CHICKEN的](../Page/BUMP_OF_CHICKEN.md "wikilink")《[零](../Page/零_\(單曲\).md "wikilink")》及[NMB48](../Page/NMB48.md "wikilink")的《[Oh My God\!](../Page/Oh_My_God!.md "wikilink")》\[8\]。單曲也在10月下旬登上了Oricon2011年度單曲的第96位，同時獲得[日本唱片協會](../Page/日本唱片協會.md "wikilink")頒授售出單曲10萬張的金唱片認證\[9\]。
 
 ### Oricon公信榜
 
@@ -82,9 +64,7 @@ God\!](../Page/Oh_My_God!.md "wikilink")》\[8\]。單曲也在10月下旬登上
   -
 ## 參考資料
 
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:CNBLUE歌曲](https://zh.wikipedia.org/wiki/Category:CNBLUE歌曲 "wikilink")
-[Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:CNBLUE歌曲](https://zh.wikipedia.org/wiki/Category:CNBLUE歌曲 "wikilink") [Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink")
 
 1.
 

@@ -1,6 +1,4 @@
-**TimeZ**是由北京捷特聯合文化傳媒有限公司（SuperJet Entertainment），聯手CJ
-E\&M集團共同打造的中國偶像男團，由隊長孔舒航、田翌臣、劉冠希和[毛若懿](../Page/毛若懿.md "wikilink")4名中國成員和李炯柱和金成煥2名韓國成員組成。2012年10月18日通過韓國Mwave電視台的打榜節目《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。
+**TimeZ**是由北京捷特聯合文化傳媒有限公司（SuperJet Entertainment），聯手CJ E\&M集團共同打造的中國偶像男團，由隊長孔舒航、田翌臣、劉冠希和[毛若懿](../Page/毛若懿.md "wikilink")4名中國成員和李炯柱和金成煥2名韓國成員組成。2012年10月18日通過韓國Mwave電視台的打榜節目《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。
 
 ## 成員列表
 
@@ -207,13 +205,7 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道
   - [timez官方微博](http://weibo.com/timez1018)
   - [timez官方MV](http://www.yinyuetai.com/fanclub/26499)
 
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:中国男子演唱團體](https://zh.wikipedia.org/wiki/Category:中国男子演唱團體 "wikilink")
-[Category:华语流行音乐團體](https://zh.wikipedia.org/wiki/Category:华语流行音乐團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
+[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:中国男子演唱團體](https://zh.wikipedia.org/wiki/Category:中国男子演唱團體 "wikilink") [Category:华语流行音乐團體](https://zh.wikipedia.org/wiki/Category:华语流行音乐團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
 
 1.  [TimeZ荣获韩国MAMA亚洲新人大奖](http://ent.sina.com.cn/y/2012-12-03/14013802319.shtml)
 2.  [TimeZ组合获中国TOP排行榜最具潜力组合大奖](http://ent.qq.com/a/20130427/000192.htm)

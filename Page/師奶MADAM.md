@@ -630,10 +630,8 @@ Richard之女友<br />
 
 ## 外部連結
 
-  - [師奶MADAM - myTV
-    SUPER](http://programme.mytvsuper.com/tc/104910/師奶madam/casts)
-  - [師奶MADAM -
-    encoreTVB](https://encoretvb.com/cantonese/series/AXwr8kJK-Madam_Cutie_On_Duty)
+  - [師奶MADAM - myTV SUPER](http://programme.mytvsuper.com/tc/104910/師奶madam/casts)
+  - [師奶MADAM - encoreTVB](https://encoretvb.com/cantonese/series/AXwr8kJK-Madam_Cutie_On_Duty)
 
 ## 電視節目的變遷
 
@@ -641,23 +639,11 @@ Richard之女友<br />
 
 ### 香港以外地區播放
 
-[Category:無綫電視喜劇劇集](https://zh.wikipedia.org/wiki/Category:無綫電視喜劇劇集 "wikilink")
-[Category:香港警察題材電視劇](https://zh.wikipedia.org/wiki/Category:香港警察題材電視劇 "wikilink")
-[Category:隱瞞身分題材電視劇](https://zh.wikipedia.org/wiki/Category:隱瞞身分題材電視劇 "wikilink")
-[Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")
-[Category:2015年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2015年無綫電視劇集 "wikilink")
-[Category:香港公共屋邨背景作品](https://zh.wikipedia.org/wiki/Category:香港公共屋邨背景作品 "wikilink")
-[Category:在各地區使用不同中文名稱的無綫電視劇集](https://zh.wikipedia.org/wiki/Category:在各地區使用不同中文名稱的無綫電視劇集 "wikilink")
+[Category:無綫電視喜劇劇集](https://zh.wikipedia.org/wiki/Category:無綫電視喜劇劇集 "wikilink") [Category:香港警察題材電視劇](https://zh.wikipedia.org/wiki/Category:香港警察題材電視劇 "wikilink") [Category:隱瞞身分題材電視劇](https://zh.wikipedia.org/wiki/Category:隱瞞身分題材電視劇 "wikilink") [Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink") [Category:2015年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2015年無綫電視劇集 "wikilink") [Category:香港公共屋邨背景作品](https://zh.wikipedia.org/wiki/Category:香港公共屋邨背景作品 "wikilink") [Category:在各地區使用不同中文名稱的無綫電視劇集](https://zh.wikipedia.org/wiki/Category:在各地區使用不同中文名稱的無綫電視劇集 "wikilink")
 
-1.  [藝人月曆- 11月14日-
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-2.  [藝人月曆- 12月10日-
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-3.  [藝人月曆- 1月11日-
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-4.  [藝人月曆- 1月18日-
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-5.  [藝人月曆- 1月23日-
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-6.  [藝人月曆- 1月29日-
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+1.  [藝人月曆- 11月14日- tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+2.  [藝人月曆- 12月10日- tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+3.  [藝人月曆- 1月11日- tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+4.  [藝人月曆- 1月18日- tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+5.  [藝人月曆- 1月23日- tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+6.  [藝人月曆- 1月29日- tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)

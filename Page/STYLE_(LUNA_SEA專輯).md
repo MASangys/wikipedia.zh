@@ -40,11 +40,8 @@
 
 ## 參考資料
 
-  - BAND SCORE LUNA SEA / STYLE（DOREMI樂譜出版社，1998年12月10日出版，日文）ISBN
-    4-8108-3941-9
+  - BAND SCORE LUNA SEA / STYLE（DOREMI樂譜出版社，1998年12月10日出版，日文）ISBN 4-8108-3941-9
 
 <references/>
 
-[Category:1996年音樂專輯](https://zh.wikipedia.org/wiki/Category:1996年音樂專輯 "wikilink")
-[Category:月之海專輯](https://zh.wikipedia.org/wiki/Category:月之海專輯 "wikilink")
-[Category:1996年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1996年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:1996年音樂專輯](https://zh.wikipedia.org/wiki/Category:1996年音樂專輯 "wikilink") [Category:月之海專輯](https://zh.wikipedia.org/wiki/Category:月之海專輯 "wikilink") [Category:1996年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1996年Oricon專輯週榜冠軍作品 "wikilink")

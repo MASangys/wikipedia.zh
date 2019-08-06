@@ -113,6 +113,4 @@
   - [MBC日日特別企劃連續劇](../Page/MBC日日特別企劃連續劇.md "wikilink")
   - [JTBC 晨間連續劇](https://zh.wikipedia.org/wiki/JTBC_晨間連續劇 "wikilink")
 
-[Category:JTBC日日連續劇](https://zh.wikipedia.org/wiki/Category:JTBC日日連續劇 "wikilink")
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:JTBC日日連續劇](https://zh.wikipedia.org/wiki/Category:JTBC日日連續劇 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

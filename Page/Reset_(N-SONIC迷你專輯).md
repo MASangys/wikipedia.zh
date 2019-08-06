@@ -1,5 +1,4 @@
-《**Reset**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[N-SONIC](../Page/N-SONIC.md "wikilink")第2枚迷你韓語專輯，於2014年6月9日發行\[1\]，主打歌曲為《Pop
-Beyond》（）；並在同年7月30日推出香港版專輯《重設》\[2\]，另外加收他們之前的迷你專輯與單曲之歌曲。
+《**Reset**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[N-SONIC](../Page/N-SONIC.md "wikilink")第2枚迷你韓語專輯，於2014年6月9日發行\[1\]，主打歌曲為《Pop Beyond》（）；並在同年7月30日推出香港版專輯《重設》\[2\]，另外加收他們之前的迷你專輯與單曲之歌曲。
 
 ## 曲目
 
@@ -79,9 +78,7 @@ Beyond》（）；並在同年7月30日推出香港版專輯《重設》\[2\]，
 
 ## 参考文献
 
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:N-SONIC音樂專輯](https://zh.wikipedia.org/wiki/Category:N-SONIC音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:N-SONIC音樂專輯](https://zh.wikipedia.org/wiki/Category:N-SONIC音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

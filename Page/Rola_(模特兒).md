@@ -12,14 +12,12 @@ Vivi可以說是Rola完全展現自己獨特魅力的地方，她參與了專輯
 
 ### 雜誌
 
-  - ViVi（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、2008年-） -
-    專屬模特兒
+  - ViVi（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、2008年-） - 專屬模特兒
   - Popteen（[角川春樹事務所](https://zh.wikipedia.org/wiki/角川春樹事務所 "wikilink")）
 
 ### 出演情報
 
-  - 東京カワイイ★TV（[NHK](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")、2010年4月25日
-    23:30 - 24:00）
+  - 東京カワイイ★TV（[NHK](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")、2010年4月25日 23:30 - 24:00）
   - ゴッドタン（[東京電視台](../Page/東京電視台.md "wikilink")、2010年2月24日）
   - The Hills（東京電視台、2009年10月）
   - TOKYO本音モデルズ（[富士電視台](../Page/富士電視台.md "wikilink")、2009年10月19日）
@@ -38,9 +36,7 @@ Vivi可以說是Rola完全展現自己獨特魅力的地方，她參與了專輯
 
 ### 電影
 
-  - 2016:
-    [惡靈古堡6：最終章](https://zh.wikipedia.org/wiki/惡靈古堡6：最終章 "wikilink")
-    飾 Cobalt
+  - 2016: [惡靈古堡6：最終章](https://zh.wikipedia.org/wiki/惡靈古堡6：最終章 "wikilink") 飾 Cobalt
 
 ## 參考資料
 
@@ -52,13 +48,7 @@ Vivi可以說是Rola完全展現自己獨特魅力的地方，她參與了專輯
   -
   -
   -
-[Category:日本女性電視藝人](https://zh.wikipedia.org/wiki/Category:日本女性電視藝人 "wikilink")
-[Category:日本女性模特兒](https://zh.wikipedia.org/wiki/Category:日本女性模特兒 "wikilink")
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
-[Category:孟加拉裔混血兒](https://zh.wikipedia.org/wiki/Category:孟加拉裔混血兒 "wikilink")
-[Category:俄羅斯裔日本人](https://zh.wikipedia.org/wiki/Category:俄羅斯裔日本人 "wikilink")
-[Category:ViVi模特兒](https://zh.wikipedia.org/wiki/Category:ViVi模特兒 "wikilink")
-[Category:Popteen模特兒](https://zh.wikipedia.org/wiki/Category:Popteen模特兒 "wikilink")
+[Category:日本女性電視藝人](https://zh.wikipedia.org/wiki/Category:日本女性電視藝人 "wikilink") [Category:日本女性模特兒](https://zh.wikipedia.org/wiki/Category:日本女性模特兒 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink") [Category:孟加拉裔混血兒](https://zh.wikipedia.org/wiki/Category:孟加拉裔混血兒 "wikilink") [Category:俄羅斯裔日本人](https://zh.wikipedia.org/wiki/Category:俄羅斯裔日本人 "wikilink") [Category:ViVi模特兒](https://zh.wikipedia.org/wiki/Category:ViVi模特兒 "wikilink") [Category:Popteen模特兒](https://zh.wikipedia.org/wiki/Category:Popteen模特兒 "wikilink")
 
 1.
 2.

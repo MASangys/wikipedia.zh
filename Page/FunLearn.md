@@ -1,10 +1,8 @@
 **FunLearn**是一個於2010年成立，採用[Discuz\!](../Page/Discuz!.md "wikilink")架構的[網路論壇](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")，站內免費提供[國中和](https://zh.wikipedia.org/wiki/國中 "wikilink")[高中課程內容的網路影音教學](https://zh.wikipedia.org/wiki/高中 "wikilink")，並設有討論區作為學生和義務性解題的駐站教師討論學科問題的平台，主要服務社群為[台灣地區之中學學生](https://zh.wikipedia.org/wiki/台灣 "wikilink")。但也有少部分的大陸學生註冊使用。約在2017年中開始就連不上網站，2018年7月27日，FunLearn官方主機正式退役。
 
-網路影音教學的來源，主要是學校老師、補習班老師，自發性的無償參與，包括pengtitus、[洪安](https://zh.wikipedia.org/wiki/洪安 "wikilink")、賴方、[李鋒](https://zh.wikipedia.org/wiki/李鋒 "wikilink")、三坪、[劉靜](https://zh.wikipedia.org/wiki/劉靜 "wikilink")、CHT、[高至豪等人](https://zh.wikipedia.org/wiki/高至豪 "wikilink")，合力製作出數百支的影音課程
-但仍然遠遠不足以涵蓋國高中的課程所需，因此此網站在倒站前仍然持續在招募老師參與錄製。
+網路影音教學的來源，主要是學校老師、補習班老師，自發性的無償參與，包括pengtitus、[洪安](https://zh.wikipedia.org/wiki/洪安 "wikilink")、賴方、[李鋒](https://zh.wikipedia.org/wiki/李鋒 "wikilink")、三坪、[劉靜](https://zh.wikipedia.org/wiki/劉靜 "wikilink")、CHT、[高至豪等人](https://zh.wikipedia.org/wiki/高至豪 "wikilink")，合力製作出數百支的影音課程 但仍然遠遠不足以涵蓋國高中的課程所需，因此此網站在倒站前仍然持續在招募老師參與錄製。
 
-但近年因 [Facebook](../Page/Facebook.md "wikilink")
-等社群網站成為學生新寵，如今FunLearn已有沒落趨勢。
+但近年因 [Facebook](../Page/Facebook.md "wikilink") 等社群網站成為學生新寵，如今FunLearn已有沒落趨勢。
 
 ## 網站沿革
 
@@ -16,8 +14,7 @@
 
 ### 網路影音教學
 
-目前Funlearn網站中錄製收集了國中和高中[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")、[物理](https://zh.wikipedia.org/wiki/物理 "wikilink")、[化學](../Page/化學.md "wikilink")、[生物](../Page/生物.md "wikilink")等科目的教學影片與相對應的講義內容，每份課程依照單元歸於不同討論頁，使用者可從站內下載教師提供的講義後連結至[Youtube觀賞一系列的影音內容](https://zh.wikipedia.org/wiki/Youtube "wikilink")。
-(注明：國中在大陸稱為初中）
+目前Funlearn網站中錄製收集了國中和高中[數學](https://zh.wikipedia.org/wiki/數學 "wikilink")、[物理](https://zh.wikipedia.org/wiki/物理 "wikilink")、[化學](../Page/化學.md "wikilink")、[生物](../Page/生物.md "wikilink")等科目的教學影片與相對應的講義內容，每份課程依照單元歸於不同討論頁，使用者可從站內下載教師提供的講義後連結至[Youtube觀賞一系列的影音內容](https://zh.wikipedia.org/wiki/Youtube "wikilink")。 (注明：國中在大陸稱為初中）
 
   - 國中數學影音區
   - 國中理化影音區
@@ -96,5 +93,4 @@
 
   - [FunLearn網站](https://archive.is/20130418220221/http://www.funlearn.tw/index.php)
 
-[Category:台灣網站](https://zh.wikipedia.org/wiki/Category:台灣網站 "wikilink")
-[Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
+[Category:台灣網站](https://zh.wikipedia.org/wiki/Category:台灣網站 "wikilink") [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")

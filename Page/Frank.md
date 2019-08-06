@@ -45,18 +45,12 @@
 ## 外部連結
 
   - [三十過後一個人住：坦白的可貴：Rubberband《Frank》](http://alexxbb.mysinablog.com/index.php?op=ViewArticle&articleId=5233690)
-  - [Ch\!sin：抵抗維穩才是真正坦白- RubberBand
-    【FRANK】](http://chisinchikin.wordpress.com/2014/04/20/frank)
+  - [Ch\!sin：抵抗維穩才是真正坦白- RubberBand 【FRANK】](http://chisinchikin.wordpress.com/2014/04/20/frank)
   - [斐宇梧的中文唱片架：RubberBand《Frank》：夠坦白但不夠深刻](http://www.inmediahk.net/rubberband-frank)
-  - [Yahoo TW：RubberBand
-    【FRANK】的自省與批判](https://archive.is/20140907014459/https://tw.music.yahoo.net/column/reviews-44-1948-1.html)
+  - [Yahoo TW：RubberBand 【FRANK】的自省與批判](https://archive.is/20140907014459/https://tw.music.yahoo.net/column/reviews-44-1948-1.html)
   - [RubberBand出EP延續《Frank》的中心思想](http://www.881903.com/Page/ZH-TW/featuredetail.aspx?itemid=737507&csid=801_3401)
 
-[Category:RuberBand音樂專輯](https://zh.wikipedia.org/wiki/Category:RuberBand音樂專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:RuberBand音樂專輯](https://zh.wikipedia.org/wiki/Category:RuberBand音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
-1.  [Youtube：RubberBand - We are One @ 【FRANK】音樂分享會
-    (樹仁大學)](http://www.youtube.com/watch?v=-6QMUJ5cMzc)
-2.  [iMag：Rubberband 【Frank】
-    簽唱會](http://imag.hk/2014/06/09/rubberband-%E3%80%90frank%E3%80%91-%E7%B0%BD%E5%94%B1%E6%9C%83/)
+1.  [Youtube：RubberBand - We are One @ 【FRANK】音樂分享會 (樹仁大學)](http://www.youtube.com/watch?v=-6QMUJ5cMzc)
+2.  [iMag：Rubberband 【Frank】 簽唱會](http://imag.hk/2014/06/09/rubberband-%E3%80%90frank%E3%80%91-%E7%B0%BD%E5%94%B1%E6%9C%83/)

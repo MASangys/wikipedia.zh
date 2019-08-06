@@ -1,6 +1,5 @@
   -
-    <span style="font-size: large; color: red">**請等等！**</span>
-    上傳任何檔案之前，請務必了解**[Wikipedia:圖像使用守則](https://zh.wikipedia.org/wiki/Wikipedia:圖像使用守則 "wikilink")**以及**[Wikipedia:版權常見問題解答](https://zh.wikipedia.org/wiki/Wikipedia:版權常見問題解答 "wikilink")**的規範。
+    <span style="font-size: large; color: red">**請等等！**</span> 上傳任何檔案之前，請務必了解**[Wikipedia:圖像使用守則](https://zh.wikipedia.org/wiki/Wikipedia:圖像使用守則 "wikilink")**以及**[Wikipedia:版權常見問題解答](https://zh.wikipedia.org/wiki/Wikipedia:版權常見問題解答 "wikilink")**的規範。
     <span style="font-size: small;">為了方便簡體字和繁體字使用者搜尋對方上傳的圖片，檔案名稱請**避免使用漢字**。</span>
 
 <div style="border: 1px solid grey; background: #ccccff; padding: 10px; margin: 5px auto;">
@@ -8,10 +7,8 @@
 [Commons-logo.svg](https://zh.wikipedia.org/wiki/File:Commons-logo.svg "fig:Commons-logo.svg")
 
   - 如果您的圖片以**[自由版權協議](https://zh.wikipedia.org/wiki/Commons:Commons:許可協定 "wikilink")**發布（而不是[合理使用](https://zh.wikipedia.org/wiki/wikipedia:合理使用 "wikilink")！），您可以考慮上傳到**[維基共享資源](https://zh.wikipedia.org/wiki/維基共享資源 "wikilink")**，一個可用於所有語言、所有維基媒體計畫的內容共享倉庫。點擊**[這裡](https://zh.wikipedia.org/wiki/commons:Special:Upload "wikilink")**到[維基共享資源上傳圖片](https://zh.wikipedia.org/wiki/commons:首頁 "wikilink")。
-  - 有些自由版權或無版權的圖片只存在於其他維基計畫（例如英語或其他語種的維基百科），這可能是因為該處使用者不夠了解[維基共享資源所致](https://zh.wikipedia.org/wiki/維基共享資源 "wikilink")，如果希望該圖能於中文維基上使用，可以考慮上傳到\[//commons.wikimedia.org/wiki/Special:Upload
-    維基共享資源\]或這裡。<font color=#CC0000>
-    請注意，若您在維基共享資源沒有帳號，則在上傳至該處之前必須先\[//commons.wikimedia.org/w/index.php?title=Special:Userlogin\&type=signup
-    申請新帳號\]。</font>
+  - 有些自由版權或無版權的圖片只存在於其他維基計畫（例如英語或其他語種的維基百科），這可能是因為該處使用者不夠了解[維基共享資源所致](https://zh.wikipedia.org/wiki/維基共享資源 "wikilink")，如果希望該圖能於中文維基上使用，可以考慮上傳到\[//commons.wikimedia.org/wiki/Special:Upload 維基共享資源\]或這裡。<font color=#CC0000>
+    請注意，若您在維基共享資源沒有帳號，則在上傳至該處之前必須先\[//commons.wikimedia.org/w/index.php?title=Special:Userlogin\&type=signup 申請新帳號\]。</font>
 
 </div>
 

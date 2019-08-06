@@ -1,25 +1,14 @@
-**Ladies'
-Code**（）是[韓國Ilgwang](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-Polaris
-Entertainment公司旗下的[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，成員包含Ashley（[崔嬪娜](https://zh.wikipedia.org/wiki/崔嬪娜 "wikilink")）、Rise（[權梨世](../Page/權梨世.md "wikilink")）、EunB（[高恩妃](../Page/高恩妃.md "wikilink")）、So
-Jung（[李昭政](../Page/李昭政.md "wikilink")）及Zuny（[金主美](https://zh.wikipedia.org/wiki/金主美 "wikilink")）。现以Ashley、So
-Jung和Zuny三人陣容活動中。
+**Ladies' Code**（）是[韓國Ilgwang](https://zh.wikipedia.org/wiki/韓國 "wikilink") Polaris Entertainment公司旗下的[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，成員包含Ashley（[崔嬪娜](https://zh.wikipedia.org/wiki/崔嬪娜 "wikilink")）、Rise（[權梨世](../Page/權梨世.md "wikilink")）、EunB（[高恩妃](../Page/高恩妃.md "wikilink")）、So Jung（[李昭政](../Page/李昭政.md "wikilink")）及Zuny（[金主美](https://zh.wikipedia.org/wiki/金主美 "wikilink")）。现以Ashley、So Jung和Zuny三人陣容活動中。
 
-團名意指包含女人們wannabe元素及實現戲劇化舞台的表演組合，將用音樂表現韓國所有女性想分享的談話與故事，展現新的女組合面貌。2013年3月7日發佈首張迷你專輯《CODE\#01
-BAD
-GIRL》音源，並於當日在[Mnet音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中正式出道，出道主打曲為《Bad
-Girl》。
+團名意指包含女人們wannabe元素及實現戲劇化舞台的表演組合，將用音樂表現韓國所有女性想分享的談話與故事，展現新的女組合面貌。2013年3月7日發佈首張迷你專輯《CODE\#01 BAD GIRL》音源，並於當日在[Mnet音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中正式出道，出道主打曲為《Bad Girl》。
 
 官方粉絲名稱為**Lavely**，由「Lovely + Ladies」組合而成。官方應援物為粉紅色毛巾。
 
 2014年9月3日凌晨，結束行程後在返回首爾的高速公路途中發生嚴重車禍，Rise、EunB兩位成員傷重不治。引起韓國娛樂圈各方震驚與哀慟。2014年11月12日，經紀公司公佈餘下三名成員返家休息過後已重返首爾宿舍生活，並重新開始日常的聲樂課程。
 
-2016年2月24日，Ladies'
-Code以三人面貌重新出發，發行單曲《MYST3RY》。2016年10月13日，繼續以神秘的風格發行單曲《STRANG3R》。
+2016年2月24日，Ladies' Code以三人面貌重新出發，發行單曲《MYST3RY》。2016年10月13日，繼續以神秘的風格發行單曲《STRANG3R》。
 
-2018年12月12日，時隔兩年發行《The Last Holiday》作為Polaris
-Project，並沒有打歌舞台，一改以往兩次回歸的神秘風格。
+2018年12月12日，時隔兩年發行《The Last Holiday》作為Polaris Project，並沒有打歌舞台，一改以往兩次回歸的神秘風格。
 
 ## 成員資料
 
@@ -39,10 +28,7 @@ Project，並沒有打歌舞台，一改以往兩次回歸的神秘風格。
 
 ## 成員變遷表
 
-原為五人女子組合，但因車禍導致兩名成員逝世，如今以三人女子組合活動中。 <timeline> ImageSize = width:650
-height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars
-= justify DateFormat = mm/dd/yyyy Period = from:2013 till:2018 TimeAxis
-= orientation:horizontal format:mm/yyyy
+原為五人女子組合，但因車禍導致兩名成員逝世，如今以三人女子組合活動中。 <timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2013 till:2018 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -81,50 +67,27 @@ PlotData =
 
 ### 出道前
 
-Ladies'
-Code五位成員活躍多個領域，使她們出道前已獲得了一定的人氣。[梨世於](../Page/權梨世.md "wikilink")2009年參加了第53屆韓國小姐得到國際冬季競賽大獎。此後於2011年參加節目[偉大的誕生](https://zh.wikipedia.org/wiki/偉大的誕生 "wikilink")，可惜只於12強止步，同年與同為[偉大的誕生出身的](https://zh.wikipedia.org/wiki/偉大的誕生 "wikilink")[吳志勛](../Page/吳世勛_\(韓國歌手\).md "wikilink")（David
-Oh）出演了[我們結婚了](../Page/我們結婚了.md "wikilink")，組成物理夫婦，使其成為Ladies'
-Code出道時知名度最高的成員。昭政於出道前參加[Voice
-Korea](https://zh.wikipedia.org/wiki/好聲音 "wikilink")，其充滿感染力的歌聲獲得導師激賞，以四轉（所有導師轉身）的成績晉級，最終止步於全國8強。Ashley出道前經常上傳舞蹈影片於自己的[YouTube](../Page/YouTube.md "wikilink")频道，後為圓音樂夢回到韓國，曾為[Cube娛樂](../Page/Cube娛樂.md "wikilink")練習生。
+Ladies' Code五位成員活躍多個領域，使她們出道前已獲得了一定的人氣。[梨世於](../Page/權梨世.md "wikilink")2009年參加了第53屆韓國小姐得到國際冬季競賽大獎。此後於2011年參加節目[偉大的誕生](https://zh.wikipedia.org/wiki/偉大的誕生 "wikilink")，可惜只於12強止步，同年與同為[偉大的誕生出身的](https://zh.wikipedia.org/wiki/偉大的誕生 "wikilink")[吳志勛](../Page/吳世勛_\(韓國歌手\).md "wikilink")（David Oh）出演了[我們結婚了](../Page/我們結婚了.md "wikilink")，組成物理夫婦，使其成為Ladies' Code出道時知名度最高的成員。昭政於出道前參加[Voice Korea](https://zh.wikipedia.org/wiki/好聲音 "wikilink")，其充滿感染力的歌聲獲得導師激賞，以四轉（所有導師轉身）的成績晉級，最終止步於全國8強。Ashley出道前經常上傳舞蹈影片於自己的[YouTube](../Page/YouTube.md "wikilink")频道，後為圓音樂夢回到韓國，曾為[Cube娛樂](../Page/Cube娛樂.md "wikilink")練習生。
 
 ### 2013年：出道、首張迷你專輯《CODE \#01 壞女孩》、首張數位單曲《Hate you》、第二張迷你專輯《CODE \#02 Pretty\! Pretty\!》
 
-2月24日，各成員的預告影片釋出。3月7日，Ladies' Code首張迷你專輯《CODE \#01 壞女孩》全線發行，同日於[M\!
-Countdown中正式出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。完成《壞女孩（Bad
-Girl）》的宣傳後，Ladies' Code開始錄製新曲，原定於七月回歸，但因成員Zuny右腳受傷，公司決定延遲回歸。
+2月24日，各成員的預告影片釋出。3月7日，Ladies' Code首張迷你專輯《CODE \#01 壞女孩》全線發行，同日於[M\! Countdown中正式出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。完成《壞女孩（Bad Girl）》的宣傳後，Ladies' Code開始錄製新曲，原定於七月回歸，但因成員Zuny右腳受傷，公司決定延遲回歸。
 
-7月末，Ladies' Code公開了第二張迷你專輯先行曲《Hate
-you》的預告影片，短短的預告中，以娃娃人偶們為主角，散發一股詭譎的氣氛。8月6日，先行曲《Hate
-you》正式發表。〈Hate you〉這首歌與製作出道曲〈壞女孩（Bad Girl）〉的Super
-Changddai再次合作。不斷重複的歌詞「Hate You」、「Love
-You」讓人留下深刻印象，MV也給人毛骨悚然的感覺。經紀公司Polaris
-Entertainment表示：「Ladies' Code將透過與〈壞女孩〉完全不同風格的〈Hate
-you〉，讓大家看到她們更成熟的魅力」。雖然Ladies' Code沒有登上音樂節目宣傳，〈Hate
-you〉仍獲得亮眼的成績，曾在Bugs的排行榜拿下實時一位。
+7月末，Ladies' Code公開了第二張迷你專輯先行曲《Hate you》的預告影片，短短的預告中，以娃娃人偶們為主角，散發一股詭譎的氣氛。8月6日，先行曲《Hate you》正式發表。〈Hate you〉這首歌與製作出道曲〈壞女孩（Bad Girl）〉的Super Changddai再次合作。不斷重複的歌詞「Hate You」、「Love You」讓人留下深刻印象，MV也給人毛骨悚然的感覺。經紀公司Polaris Entertainment表示：「Ladies' Code將透過與〈壞女孩〉完全不同風格的〈Hate you〉，讓大家看到她們更成熟的魅力」。雖然Ladies' Code沒有登上音樂節目宣傳，〈Hate you〉仍獲得亮眼的成績，曾在Bugs的排行榜拿下實時一位。
 
-9月，Ladies' Code以第二張迷你專輯《CODE \#02 Pretty\!
-Pretty\!》回歸，形象較為活潑和俏皮。主打歌〈Pretty\!
-Pretty\!〉也相當輕快，讓粉絲看到她們與過去不同的面貌。這次回歸得到非常多的支持及推薦，如[Wonder
-Girls的](../Page/Wonder_Girls.md "wikilink")[先藝](https://zh.wikipedia.org/wiki/閔先藝 "wikilink")、[2PM的](https://zh.wikipedia.org/wiki/2PM "wikilink")[Nichkhun](../Page/Nichkhun.md "wikilink")、[Jun.
-K等](https://zh.wikipedia.org/wiki/金閔俊 "wikilink")。
+9月，Ladies' Code以第二張迷你專輯《CODE \#02 Pretty\! Pretty\!》回歸，形象較為活潑和俏皮。主打歌〈Pretty\! Pretty\!〉也相當輕快，讓粉絲看到她們與過去不同的面貌。這次回歸得到非常多的支持及推薦，如[Wonder Girls的](../Page/Wonder_Girls.md "wikilink")[先藝](https://zh.wikipedia.org/wiki/閔先藝 "wikilink")、[2PM的](https://zh.wikipedia.org/wiki/2PM "wikilink")[Nichkhun](../Page/Nichkhun.md "wikilink")、[Jun. K等](https://zh.wikipedia.org/wiki/金閔俊 "wikilink")。
 
 ### 2014年：第二張數位單曲《So Wonderful》、第三張數位單曲《Kiss Kiss》
 
 2月13日，Ladies' Code以全新形象發行第二張數位單曲《So Wonderful》。
 
-8月7日，Ladies' Code延續了之前《Pretty\! Pretty\!》的形象發行第三張數位單曲《Kiss
-Kiss》。但在新歌推出1個月之後，Ladies' Code發生嚴重車禍，造成2死1重傷。
+8月7日，Ladies' Code延續了之前《Pretty\! Pretty\!》的形象發行第三張數位單曲《Kiss Kiss》。但在新歌推出1個月之後，Ladies' Code發生嚴重車禍，造成2死1重傷。
 
-在車禍事件發生後，為了完成高恩妃生前想拿一位的心願，Ladies' Code粉絲和網友們攜手刷音源，因為第二張迷你專輯《CODE \#02
-Pretty\! Pretty\!》的收錄曲〈I'm Fine Thank You〉中的歌詞提及到「就這樣過了一天，就只有今天 I
-cry，希望你永遠幸福 Good
-bye」表達了粉絲沉重的心情，另一個原因是因為這首歌是恩妃生前最喜歡的歌，所以使此曲登上共9個音源網站即時榜的一位，包括：MelOn、Bugs、Genie、Monkey3和Olleh
-Music等。
+在車禍事件發生後，為了完成高恩妃生前想拿一位的心願，Ladies' Code粉絲和網友們攜手刷音源，因為第二張迷你專輯《CODE \#02 Pretty\! Pretty\!》的收錄曲〈I'm Fine Thank You〉中的歌詞提及到「就這樣過了一天，就只有今天 I cry，希望你永遠幸福 Good bye」表達了粉絲沉重的心情，另一個原因是因為這首歌是恩妃生前最喜歡的歌，所以使此曲登上共9個音源網站即時榜的一位，包括：MelOn、Bugs、Genie、Monkey3和Olleh Music等。
 
 ### 2015年：走過傷痛，舉辦紀念演唱會
 
-8月22日，將近梨世和恩妃逝世一週年之際，在日本舉辦《I'm Fine Thank You》梨世及恩妃紀念演唱會。Ladies'
-Code的僅存三位成員、同屬公司藝人也紛紛參與，公佈新歌《就算痛也要笑》，三位成員唱多首抒情歌時悲傷痛哭，場面哀淒。該曲在梨世的一週年忌日9月7日公佈音源，但不會在音樂節目宣傳，此次演唱會也是為了完成梨世想在故鄉日本開演唱會的心願。\[1\]
+8月22日，將近梨世和恩妃逝世一週年之際，在日本舉辦《I'm Fine Thank You》梨世及恩妃紀念演唱會。Ladies' Code的僅存三位成員、同屬公司藝人也紛紛參與，公佈新歌《就算痛也要笑》，三位成員唱多首抒情歌時悲傷痛哭，場面哀淒。該曲在梨世的一週年忌日9月7日公佈音源，但不會在音樂節目宣傳，此次演唱會也是為了完成梨世想在故鄉日本開演唱會的心願。\[1\]
 
 ### 2016年：車禍後首次回歸
 
@@ -132,12 +95,9 @@ Code的僅存三位成員、同屬公司藝人也紛紛參與，公佈新歌《�
 
 2月21日與2月28日，昭政以"我的夜比你的白日美"的舞台名登上[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")47集和48集的舞台，並晉級到第二輪，其深厚的歌唱實力在蒙面的情況下被眾人誤以為是出道幾十年的歌手。
 
-7月19日起，昭政參與[JTBC](../Page/JTBC.md "wikilink")播出的[音乐](../Page/音乐.md "wikilink")竞技[真人秀](../Page/真人實境秀.md "wikilink")[节目](../Page/綜藝節目.md "wikilink")《[Girl
-Spirit](../Page/Girl_Spirit.md "wikilink")》，並挺進最終決賽。
+7月19日起，昭政參與[JTBC](../Page/JTBC.md "wikilink")播出的[音乐](../Page/音乐.md "wikilink")竞技[真人秀](../Page/真人實境秀.md "wikilink")[节目](../Page/綜藝節目.md "wikilink")《[Girl Spirit](../Page/Girl_Spirit.md "wikilink")》，並挺進最終決賽。
 
-Ladies'
-Code在3月結束〈MYST3RY〉主打歌〈GALAXY〉的活動後，便持續地投入創作當中。延續《MYST3RY》的特別概念，再度展現獨有的音樂色彩，於10月13日發行新專輯《STRANG3R》，收錄6首歌曲，其中有3首為新歌。主打歌〈The
-Rain〉，是一首能凸顯Ladies' Code獨特風格的感性舞曲。
+Ladies' Code在3月結束〈MYST3RY〉主打歌〈GALAXY〉的活動後，便持續地投入創作當中。延續《MYST3RY》的特別概念，再度展現獨有的音樂色彩，於10月13日發行新專輯《STRANG3R》，收錄6首歌曲，其中有3首為新歌。主打歌〈The Rain〉，是一首能凸顯Ladies' Code獨特風格的感性舞曲。
 
 ### 2017年：成員個人活動
 
@@ -391,10 +351,11 @@ Rain〉，是一首能凸顯Ladies' Code獨特風格的感性舞曲。
 
 ### 戲劇
 
-|       |           |      |    |     |
-| ----- | --------- | ---- | -- | --- |
-| 日期    | 節目名稱      | 參與成員 | 角色 | 性質  |
-| 2018年 | 《4種House》 | Zuny | 娜允 | 女主角 |
+|       |           |      |     |     |
+| ----- | --------- | ---- | --- | --- |
+| 日期    | 節目名稱      | 參與成員 | 角色  | 性質  |
+| 2018年 | 《4種House》 | Zuny | 娜允  | 女主角 |
+| 2019年 | 《Justice》 | Zuny | 沈善姬 | 女配角 |
 
 ## 演唱會
 
@@ -504,22 +465,13 @@ Rain〉，是一首能凸顯Ladies' Code獨特風格的感性舞曲。
 
 ### 高恩妃車禍身亡
 
-2014年9月3日凌晨約1時30分，Ladies'
-Code乘坐的車輛在韓國[嶺東高速公路](../Page/嶺東高速公路.md "wikilink")發生車禍，成員高恩妃身亡，權梨世與李昭政重傷。據韓國媒體的報導，梨世頭部及腹部傷勢嚴重，經紀公司亦表示：「梨世在11個小時內做了3、4次手術後，因血壓低而要停止手術，之後被安排入住深切治療部繼續觀察。」而她居住在日本的家人也趕往首爾探望。據警方人員透露，其乘坐車輛在嶺東高速公路距離[仁川](https://zh.wikipedia.org/wiki/仁川 "wikilink")43公里處撞上防護欄，警方事後藉由監視錄影帶研判事故系因經紀人以時速130公里超速行駛且天雨路滑致使\[2\]\[3\]。車禍事件中，受傷最嚴重的高恩妃在送醫不久後即停止呼吸。事故發生時車上的Ladies'
-Code五名成員、化粧師和司機共七人，高恩妃身亡，權梨世與李昭政重傷，而其餘四人則為輕傷。高恩妃去世時年僅21歲\[4\]。
+2014年9月3日凌晨約1時30分，Ladies' Code乘坐的車輛在韓國[嶺東高速公路](../Page/嶺東高速公路.md "wikilink")發生車禍，成員高恩妃身亡，權梨世與李昭政重傷。據韓國媒體的報導，梨世頭部及腹部傷勢嚴重，經紀公司亦表示：「梨世在11個小時內做了3、4次手術後，因血壓低而要停止手術，之後被安排入住深切治療部繼續觀察。」而她居住在日本的家人也趕往首爾探望。據警方人員透露，其乘坐車輛在嶺東高速公路距離[仁川](https://zh.wikipedia.org/wiki/仁川 "wikilink")43公里處撞上防護欄，警方事後藉由監視錄影帶研判事故系因經紀人以時速130公里超速行駛且天雨路滑致使\[2\]\[3\]。車禍事件中，受傷最嚴重的高恩妃在送醫不久後即停止呼吸。事故發生時車上的Ladies' Code五名成員、化粧師和司機共七人，高恩妃身亡，權梨世與李昭政重傷，而其餘四人則為輕傷。高恩妃去世時年僅21歲\[4\]。
 
-Ladies' Code經紀公司發表官方聲明表示：「Ladies' Code在結束大邱的行程後，在3日凌晨約1點30分，Ladies'
-Code返回首爾的途中，於水原地區附近因天雨路滑影響，車輛的後輪出現問題，在道路上迴轉然後撞上防護欄。因此發生了不幸的事件，就是高恩妃的離世
-。」\[5\]
+Ladies' Code經紀公司發表官方聲明表示：「Ladies' Code在結束大邱的行程後，在3日凌晨約1點30分，Ladies' Code返回首爾的途中，於水原地區附近因天雨路滑影響，車輛的後輪出現問題，在道路上迴轉然後撞上防護欄。因此發生了不幸的事件，就是高恩妃的離世 。」\[5\]
 
-在車禍事件發生後，為了完成高恩妃生前想拿一位的心願，Ladies' Code粉絲和網友們攜手刷音源，因為第二張迷你專輯《CODE \#02
-Pretty\! Pretty\!》的收錄曲〈I'm Fine Thank You〉中的歌詞提及到「就這樣過了一天，就只有今天 I
-cry，希望你永遠幸福 Good
-bye」表達了粉絲沉重的心情，所以使此曲登上共9個音源網站即時榜的一位，包括：MelOn、Bugs、Genie、Monkey3和Olleh
-Music等。\[6\]
+在車禍事件發生後，為了完成高恩妃生前想拿一位的心願，Ladies' Code粉絲和網友們攜手刷音源，因為第二張迷你專輯《CODE \#02 Pretty\! Pretty\!》的收錄曲〈I'm Fine Thank You〉中的歌詞提及到「就這樣過了一天，就只有今天 I cry，希望你永遠幸福 Good bye」表達了粉絲沉重的心情，所以使此曲登上共9個音源網站即時榜的一位，包括：MelOn、Bugs、Genie、Monkey3和Olleh Music等。\[6\]
 
-9月5日，恩妃的靈堂設立在高麗大學安岩醫院，曾發生車禍的「[Super
-Junior](../Page/Super_Junior.md "wikilink")」、「[Dal★Shabet](../Page/Dal★Shabet.md "wikilink")」、「[BESTie](../Page/BESTie.md "wikilink")」等團陸續到場致哀，而受較輕傷的成員Ashley和Zuny亦有到場，恩妃9月5日的早上8時出殯，火葬後骨灰安厝[京畿道](../Page/京畿道.md "wikilink")[廣州市](https://zh.wikipedia.org/wiki/廣州市_\(京畿道\) "wikilink")[盆唐天城追悼公園](../Page/盆唐區.md "wikilink")。\[7\]而成員李昭政在同日手術成功，但因怕她無法承受，所以尚未被告知隊友恩妃逝世的事，可是最後因爲看到工作人員穿著黑色衣服而得知成員[恩妃死亡](../Page/高恩妃.md "wikilink")。而成員梨世，因腦水腫情況不樂觀，還在加護病房。\[8\]
+9月5日，恩妃的靈堂設立在高麗大學安岩醫院，曾發生車禍的「[Super Junior](../Page/Super_Junior.md "wikilink")」、「[Dal★Shabet](../Page/Dal★Shabet.md "wikilink")」、「[BESTie](../Page/BESTie.md "wikilink")」等團陸續到場致哀，而受較輕傷的成員Ashley和Zuny亦有到場，恩妃9月5日的早上8時出殯，火葬後骨灰安厝[京畿道](../Page/京畿道.md "wikilink")[廣州市](https://zh.wikipedia.org/wiki/廣州市_\(京畿道\) "wikilink")[盆唐天城追悼公園](../Page/盆唐區.md "wikilink")。\[7\]而成員李昭政在同日手術成功，但因怕她無法承受，所以尚未被告知隊友恩妃逝世的事，可是最後因爲看到工作人員穿著黑色衣服而得知成員[恩妃死亡](../Page/高恩妃.md "wikilink")。而成員梨世，因腦水腫情況不樂觀，還在加護病房。\[8\]
 
 ### 權梨世車禍傷重身亡
 
@@ -538,18 +490,13 @@ Junior](../Page/Super_Junior.md "wikilink")」、「[Dal★Shabet](../Page/Dal�
   - [LADIES' CODE官方YouTube](http://www.youtube.com/LadiesCode)
   - [LADIES' CODE官方Facebook](https://www.facebook.com/polaris.lc)
   - [LADIES' CODE官方Twitter](https://twitter.com/polaris_lc)
-  - [LADIES'
-    CODE官方me2day](https://web.archive.org/web/20130328093537/http://me2day.net/ladiescode)
+  - [LADIES' CODE官方me2day](https://web.archive.org/web/20130328093537/http://me2day.net/ladiescode)
   - [Polaris官方YouTube](http://www.youtube.com/user/PolarisMusicOfficial)
   - [Polaris官方網站](https://web.archive.org/web/20130425035548/http://polarisent.co.kr/html/2-2_stars_actor_parkchul.html)
-  - [LADIES'
-    CODE官方Instagram](https://www.instagram.com/ladiescode_official/)
+  - [LADIES' CODE官方Instagram](https://www.instagram.com/ladiescode_official/)
   - [Polaris 官方Instagram](https://www.instagram.com/polaris_emg/)
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
 
 1.
 2.

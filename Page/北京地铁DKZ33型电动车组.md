@@ -57,6 +57,4 @@ DKZ33型车头为草绿涂装，列车两端拥有[紧急出口](https://zh.wiki
 
 ## 资料来源
 
-[Category:北京地铁9号线](https://zh.wikipedia.org/wiki/Category:北京地铁9号线 "wikilink")
-[Category:北京地铁DKZ系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DKZ系列电动车组 "wikilink")
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
+[Category:北京地铁9号线](https://zh.wikipedia.org/wiki/Category:北京地铁9号线 "wikilink") [Category:北京地铁DKZ系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DKZ系列电动车组 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")

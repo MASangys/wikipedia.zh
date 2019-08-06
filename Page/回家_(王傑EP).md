@@ -95,16 +95,10 @@ color=darkgreen><strong>曲</strong></font></p></td>
 
 ## 參考資料
 
-[Category:王傑音樂專輯](https://zh.wikipedia.org/wiki/Category:王傑音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:華納唱片音樂專輯 "wikilink")
-[Category:飛碟唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:飛碟唱片音樂專輯 "wikilink")
-[Category:台灣音樂迷你專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂迷你專輯 "wikilink")
-[Category:1992年音樂專輯](https://zh.wikipedia.org/wiki/Category:1992年音樂專輯 "wikilink")
+[Category:王傑音樂專輯](https://zh.wikipedia.org/wiki/Category:王傑音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:華納唱片音樂專輯 "wikilink") [Category:飛碟唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:飛碟唱片音樂專輯 "wikilink") [Category:台灣音樂迷你專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂迷你專輯 "wikilink") [Category:1992年音樂專輯](https://zh.wikipedia.org/wiki/Category:1992年音樂專輯 "wikilink")
 
 1.  1992.09.18 聯合報 影視廣場版 流行樂壇新旋風 單曲CD 市場試金石 王傑下月也發飆
 2.  [華語流行音樂興衰史](http://magazine.sina.com/bg/xinminweekly/2008034/2008-08-27/ba59215.html)
 3.  1992.11.21 民生報 影劇焦點版 81年冬季第6周榜單分析 王傑一回家 就衝進前五名 旋律與歌詞呼應得恰到好處
-4.  [王傑自彈自唱93年春晚神曲
-    粉絲助上馬年春晚](http://ent.163.com/14/0110/16/9I89CCUM000333J5.html)
+4.  [王傑自彈自唱93年春晚神曲 粉絲助上馬年春晚](http://ent.163.com/14/0110/16/9I89CCUM000333J5.html)
 5.  [王傑93年寫真被曝光 牛仔皮衣中國風依然時尚](http://ent.qq.com/a/20140117/001832.htm)

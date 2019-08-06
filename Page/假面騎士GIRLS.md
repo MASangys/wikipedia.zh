@@ -1,35 +1,20 @@
-**KAMEN RIDER
-GIRLS**（かめんライダーガールズ、仮面ライダーGIRLS）是、[日本](../Page/日本.md "wikilink")的女子[跳舞組合](https://zh.wikipedia.org/wiki/跳舞組合 "wikilink")。
-「[假面騎士](../Page/假面騎士.md "wikilink")」40週年紀念而結成的。成員被分配了在不同系列裡登場的假面騎士身份，穿著自己已被分配的假面騎士身份的假面騎士主題的服裝和變身腰帶。
-當初作為偶像組合出道,不過之後被重新設定為走搖滾樂線路的組合。 主要的活動是演唱假面騎士主題的歌曲及出席相關活動的演出。
+**KAMEN RIDER GIRLS**（かめんライダーガールズ、仮面ライダーGIRLS）是、[日本](../Page/日本.md "wikilink")的女子[跳舞組合](https://zh.wikipedia.org/wiki/跳舞組合 "wikilink")。 「[假面騎士](../Page/假面騎士.md "wikilink")」40週年紀念而結成的。成員被分配了在不同系列裡登場的假面騎士身份，穿著自己已被分配的假面騎士身份的假面騎士主題的服裝和變身腰帶。 當初作為偶像組合出道,不過之後被重新設定為走搖滾樂線路的組合。 主要的活動是演唱假面騎士主題的歌曲及出席相關活動的演出。
 
 ## 來由
 
-2010年10月，由[東映](../Page/東映.md "wikilink")、[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")、[avex
-entertainment](https://zh.wikipedia.org/wiki/愛貝娛樂 "wikilink")
-三家公司的聯合活動『スーパーヒーローミュージックスタジオ VOL.0』作為表演者，「KAMEN
-RIDER
-GIRLS」的名字發表並組成樂隊，同年11月，通過試音，結果[名倉加奈](https://zh.wikipedia.org/wiki/名倉加奈 "wikilink")、[吉住絵里加](https://zh.wikipedia.org/wiki/吉住絵里加 "wikilink")、[廣川由里香](https://zh.wikipedia.org/wiki/廣川由里香 "wikilink")、[井坂仁美](https://zh.wikipedia.org/wiki/井坂仁美 "wikilink")、[安田奈央](https://zh.wikipedia.org/wiki/安田奈央 "wikilink")5人被選中。同年11月29日的『スーパーヒーローミュージックスタジオ
-VOL.0』中初次亮相。
+2010年10月，由[東映](../Page/東映.md "wikilink")、[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")、[avex entertainment](https://zh.wikipedia.org/wiki/愛貝娛樂 "wikilink") 三家公司的聯合活動『スーパーヒーローミュージックスタジオ VOL.0』作為表演者，「KAMEN RIDER GIRLS」的名字發表並組成樂隊，同年11月，通過試音，結果[名倉加奈](https://zh.wikipedia.org/wiki/名倉加奈 "wikilink")、[吉住絵里加](https://zh.wikipedia.org/wiki/吉住絵里加 "wikilink")、[廣川由里香](https://zh.wikipedia.org/wiki/廣川由里香 "wikilink")、[井坂仁美](https://zh.wikipedia.org/wiki/井坂仁美 "wikilink")、[安田奈央](https://zh.wikipedia.org/wiki/安田奈央 "wikilink")5人被選中。同年11月29日的『スーパーヒーローミュージックスタジオ VOL.0』中初次亮相。
 
-2011年4月，發佈首支單曲『Let's Go RiderKick
-2011』。同年11月，通過試音，[遠藤三貴加入](https://zh.wikipedia.org/wiki/遠藤三貴 "wikilink")。同年12月，廣川由里香入了醫院，此後便以名倉加奈、吉住絵里加、井坂仁美、安田奈央、遠藤三貴5人繼續活動了。
+2011年4月，發佈首支單曲『Let's Go RiderKick 2011』。同年11月，通過試音，[遠藤三貴加入](https://zh.wikipedia.org/wiki/遠藤三貴 "wikilink")。同年12月，廣川由里香入了醫院，此後便以名倉加奈、吉住絵里加、井坂仁美、安田奈央、遠藤三貴5人繼續活動了。
 
-2012年9月，『仮面ライダーウィザード公開記者発表イベント〜仮面ライダーウィザード
-G＆Cミュージックマジック〜』宣佈[秋田知里加入](https://zh.wikipedia.org/wiki/秋田知里 "wikilink")，之後便以名倉加奈、吉住絵里加、井坂仁美、安田奈央、遠藤三貴、秋田知里6人活動。另外，廣川由里香方面，她的資料從官方網站及官方Blog上被移除了,但她的退出消息還未被公佈的（在2013年10月時）。
+2012年9月，『仮面ライダーウィザード公開記者発表イベント〜仮面ライダーウィザード G＆Cミュージックマジック〜』宣佈[秋田知里加入](https://zh.wikipedia.org/wiki/秋田知里 "wikilink")，之後便以名倉加奈、吉住絵里加、井坂仁美、安田奈央、遠藤三貴、秋田知里6人活動。另外，廣川由里香方面，她的資料從官方網站及官方Blog上被移除了,但她的退出消息還未被公佈的（在2013年10月時）。
 
-2013年7月，用SHOCKER GIRLS（ショッカーガールズ）的名義發佈了單曲『SSS\~Shock Shocker
-Shockest\~』。同年10月在第二次Live中宣佈[鷲見友美](https://zh.wikipedia.org/wiki/鷲見友美 "wikilink")
-( Jiena )加入，正式改以名倉加奈 、吉住絵里加 、井坂仁美 、安田奈央 、遠藤三貴 、秋田知里 、鷲見友美7人活動。
+2013年7月，用SHOCKER GIRLS（ショッカーガールズ）的名義發佈了單曲『SSS\~Shock Shocker Shockest\~』。同年10月在第二次Live中宣佈[鷲見友美](https://zh.wikipedia.org/wiki/鷲見友美 "wikilink") ( Jiena )加入，正式改以名倉加奈 、吉住絵里加 、井坂仁美 、安田奈央 、遠藤三貴 、秋田知里 、鷲見友美7人活動。
 
 2015年1月18日，名倉在官方網頁宣佈畢業，同年4月名倉正式畢業離團，正式改以吉住絵里加、井坂仁美、安田奈央、遠藤三貴、秋田知里、鷲見友美6人活動。同年9月19日，安田在官方網頁宣佈畢業，同年11月10日在官方網頁宣中宣佈[黑田絢子加入](https://zh.wikipedia.org/wiki/黑田絢子 "wikilink")，正式改以吉住絵里加、井坂仁美、安田奈央、遠藤三貴、秋田知里、鷲見友美、黑田絢子7人活動，同月27日，吉住絵里加在官方網頁宣佈畢業。
 
 2016年1月24日，安田奈央、吉住絵里加兩人同時正式畢業離團，正式改以井坂仁美、遠藤三貴、秋田知里、鷲見友美、黑田絢子的5人活動。
 
-2017年4月，[遠藤三貴正式畢業離團](https://zh.wikipedia.org/wiki/遠藤三貴 "wikilink")，正式改以[井坂仁美](https://zh.wikipedia.org/wiki/井坂仁美 "wikilink")
-、[秋田知里](https://zh.wikipedia.org/wiki/秋田知里 "wikilink")
-、[鷲見友美](https://zh.wikipedia.org/wiki/鷲見友美 "wikilink")
-、[黑田絢子的](https://zh.wikipedia.org/wiki/黑田絢子 "wikilink")4人活動。
+2017年4月，[遠藤三貴正式畢業離團](https://zh.wikipedia.org/wiki/遠藤三貴 "wikilink")，正式改以[井坂仁美](https://zh.wikipedia.org/wiki/井坂仁美 "wikilink") 、[秋田知里](https://zh.wikipedia.org/wiki/秋田知里 "wikilink") 、[鷲見友美](https://zh.wikipedia.org/wiki/鷲見友美 "wikilink") 、[黑田絢子的](https://zh.wikipedia.org/wiki/黑田絢子 "wikilink")4人活動。
 
 ## 成員
 
@@ -197,8 +182,7 @@ Shockest\~』。同年10月在第二次Live中宣佈[鷲見友美](https://zh.wi
 
 ### Let's Go RiderKick 2011
 
-「Let's Go RiderKick
-2011」，穿各自擔任的假面騎士主題塑膠套裝和頭飾，全體成員統一穿著圍巾和過膝長靴。形象顏色及頭飾的主題如下表。
+「Let's Go RiderKick 2011」，穿各自擔任的假面騎士主題塑膠套裝和頭飾，全體成員統一穿著圍巾和過膝長靴。形象顏色及頭飾的主題如下表。
 
 |                                                                                                            | 形象和顏色                                           | 頭飾的主題               |
 | ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------- | ------------------- |
@@ -210,12 +194,7 @@ Shockest\~』。同年10月在第二次Live中宣佈[鷲見友美](https://zh.wi
 
 ### 咲いて
 
-在「咲いて」穿著的是『[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")』的主角如月弦太朗的[校服](../Page/校服.md "wikilink")。[名倉加奈](https://zh.wikipedia.org/wiki/名倉加奈 "wikilink")
-、[吉住絵里加](https://zh.wikipedia.org/wiki/吉住絵里加 "wikilink")
-、[井坂仁美](https://zh.wikipedia.org/wiki/井坂仁美 "wikilink")
-、[安田奈央穿的顏色與](https://zh.wikipedia.org/wiki/安田奈央 "wikilink")「Let's
-Go RiderKick
-2011」時一樣，[遠藤三貴穿的是](https://zh.wikipedia.org/wiki/遠藤三貴 "wikilink")[橙色](../Page/橙色.md "wikilink")。
+在「咲いて」穿著的是『[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")』的主角如月弦太朗的[校服](../Page/校服.md "wikilink")。[名倉加奈](https://zh.wikipedia.org/wiki/名倉加奈 "wikilink") 、[吉住絵里加](https://zh.wikipedia.org/wiki/吉住絵里加 "wikilink") 、[井坂仁美](https://zh.wikipedia.org/wiki/井坂仁美 "wikilink") 、[安田奈央穿的顏色與](https://zh.wikipedia.org/wiki/安田奈央 "wikilink")「Let's Go RiderKick 2011」時一樣，[遠藤三貴穿的是](https://zh.wikipedia.org/wiki/遠藤三貴 "wikilink")[橙色](../Page/橙色.md "wikilink")。
 
 ## 作品
 
@@ -223,8 +202,7 @@ Go RiderKick
 
 ### 單曲
 
-  - Let's Go RiderKick 2011（2011年4月20日）映画『\[OOO・電王・All Riders Let's
-    Go假面騎士\]\]』主題曲
+  - Let's Go RiderKick 2011（2011年4月20日）映画『\[OOO・電王・All Riders Let's Go假面騎士\]\]』主題曲
       - 收錄曲裡面有「恋のライダーキック」和「♡の変身ベルト」在網路首先播放歌曲
   - KAMEN RIDER V3（2011年8月3日）
   - 咲いて（2012年3月14日）
@@ -232,8 +210,7 @@ Go RiderKick
           -
             everset的同名歌曲的翻唱版
             [朝日電視台](../Page/朝日電視台.md "wikilink")系列特攝片『假面騎士Fourze』插曲
-            [TBS系列烹飪節目](../Page/TBS電視台.md "wikilink")『[チューボーですよ\!](https://zh.wikipedia.org/wiki/チューボーですよ! "wikilink")』片尾曲（2012年4月
-            - 6月、以KR Girl名義
+            [TBS系列烹飪節目](../Page/TBS電視台.md "wikilink")『[チューボーですよ\!](https://zh.wikipedia.org/wiki/チューボーですよ! "wikilink")』片尾曲（2012年4月 - 6月、以KR Girl名義
     2.  O.K Alright feat.everset
     3.  咲いて（instrumental）
     4.  O.K Alright feat.everset（instrumental）
@@ -254,16 +231,14 @@ Go RiderKick
     2.  Let's Go\!
     3.  Go get'em (instrumental)
     4.  Let's Go\! (instrumental)
-  - SSS〜Shock Shocker Shockest〜（2013年7月24日、**KAMEN RIDER GIRLS REMODELED
-    FOR SHOCKER GIRLS**名義）
+  - SSS〜Shock Shocker Shockest〜（2013年7月24日、**KAMEN RIDER GIRLS REMODELED FOR SHOCKER GIRLS**名義）
     1.  SSS～Shock Shocker Shockest～
           -
             『Shocker Project 』主題曲
     2.  RRR～Rider Real Respect～
     3.  Rollercoaster Days
           -
-            『[劇場版 假面騎士Wizard in Magic
-            Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』插曲（秋田、名倉、井坂三人合唱）
+            『[劇場版 假面騎士Wizard in Magic Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")』插曲（秋田、名倉、井坂三人合唱）
     4.  SSS～Shock Shocker Shockest～ （instrumental）
     5.  RRR～Rider Real Respect～ （instrumental）
     6.  Rollercoaster Days （instrumental）
@@ -273,8 +248,7 @@ Go RiderKick
     3.  Reckless World
     4.  E-X-A (Exciting × Attitude) (instrumental)
     5.  Reckless World (instrumental)
-  - Break the shell（2014年6月25日） - 『[仮面ライダー
-    バトライド・ウォーII](https://zh.wikipedia.org/wiki/仮面ライダー_バトライド・ウォーII "wikilink")』主題歌
+  - Break the shell（2014年6月25日） - 『[仮面ライダー バトライド・ウォーII](https://zh.wikipedia.org/wiki/仮面ライダー_バトライド・ウォーII "wikilink")』主題歌
     1.  Break the shell
     2.  Scarlet Savage
     3.  Break the shell（instrumental）
@@ -311,9 +285,7 @@ UNLIMITED DRIVE(Kamen Rider Drive Type Tridoron 戰鬥曲)
 13. Girls Anthem～with our BIG LUV～
 14. HEAVY METAL STRIKES BACK-血まみれの救世主(メサイア)たち-（EXTRA TRACK）
       -
-        作詞作曲的是
-        [小暮閣下](../Page/小暮閣下.md "wikilink")、結他是[馬蒂•弗里德曼](https://zh.wikipedia.org/wiki/馬蒂•弗里德曼 "wikilink")、Bass是[ビリー・シーン](https://zh.wikipedia.org/wiki/ビリー・シーン "wikilink")、鼓手是[ブライアン・ティッシー](https://zh.wikipedia.org/wiki/ブライアン・ティッシー "wikilink")
-        參與
+        作詞作曲的是 [小暮閣下](../Page/小暮閣下.md "wikilink")、結他是[馬蒂•弗里德曼](https://zh.wikipedia.org/wiki/馬蒂•弗里德曼 "wikilink")、Bass是[ビリー・シーン](https://zh.wikipedia.org/wiki/ビリー・シーン "wikilink")、鼓手是[ブライアン・ティッシー](https://zh.wikipedia.org/wiki/ブライアン・ティッシー "wikilink") 參與
 
 #### exploded
 
@@ -337,12 +309,10 @@ UNLIMITED DRIVE(Kamen Rider Drive Type Tridoron 戰鬥曲)
       -
         吉住的獨唱曲
 10. SSS ～Shock Shocker Shockest～
-11. Mission Complete（『[假面騎士大亂鬥
-    ガンバライジング](https://zh.wikipedia.org/wiki/假面騎士大亂鬥_ガンバライジング "wikilink")』第3彈主題曲）
+11. Mission Complete（『[假面騎士大亂鬥 ガンバライジング](https://zh.wikipedia.org/wiki/假面騎士大亂鬥_ガンバライジング "wikilink")』第3彈主題曲）
 12. Overdrive Generation
 13. L.U.V. ～Love Under Virginia～
-14. ドラゴン・ロード2014（串田晃& KAMEN RIDER GIRLS）（『[平成騎士對昭和騎士 假面騎士大戰
-    feat.超級戰隊](https://zh.wikipedia.org/wiki/平成騎士對昭和騎士_假面騎士大戰_feat.超級戰隊 "wikilink")』主題曲）
+14. ドラゴン・ロード2014（串田晃& KAMEN RIDER GIRLS）（『[平成騎士對昭和騎士 假面騎士大戰 feat.超級戰隊](https://zh.wikipedia.org/wiki/平成騎士對昭和騎士_假面騎士大戰_feat.超級戰隊 "wikilink")』主題曲）
       -
         [串田晃](../Page/串田晃.md "wikilink")の楽曲「[ドラゴン・ロード](https://zh.wikipedia.org/wiki/ドラゴン・ロード "wikilink")」舊版Remix新版
 
@@ -552,11 +522,8 @@ UNLIMITED DRIVE(Kamen Rider Drive Type Tridoron 戰鬥曲)
 
 ### 参加作品
 
-  - Shout out（2011年、擔任名倉合唱、『[仮面ライダーオーズ Full Combo
-    Collection](https://zh.wikipedia.org/wiki/仮面ライダーオーズ_Full_Combo_Collection "wikilink")』收錄）
-  - O.K Alright feat.KAMEN RIDER GIRLS　（2012年、everset『Shooting
-    Star』收錄）\* Journey through the Decade KAMEN RIDER GIRLS
-    ver.（2012年、DVD『レッツゴー！仮面ライダーGIRLS 総集編』初回生産限定封入特典CD收錄）
+  - Shout out（2011年、擔任名倉合唱、『[仮面ライダーオーズ Full Combo Collection](https://zh.wikipedia.org/wiki/仮面ライダーオーズ_Full_Combo_Collection "wikilink")』收錄）
+  - O.K Alright feat.KAMEN RIDER GIRLS　（2012年、everset『Shooting Star』收錄）\* Journey through the Decade KAMEN RIDER GIRLS ver.（2012年、DVD『レッツゴー！仮面ライダーGIRLS 総集編』初回生産限定封入特典CD收錄）
   - ラッキークッキー（2012年、『假面騎士Fourze』第39話、遠藤獨唱）
   - 情熱 〜We are Brothers〜（2012年、Hero Music All Starsの一員として）
   - 蒸着 〜We are Brothers〜（2013年、Hero Music All Stars Zの一員として）
@@ -580,8 +547,7 @@ UNLIMITED DRIVE(Kamen Rider Drive Type Tridoron 戰鬥曲)
     MASSIVE ROCK FES 2011 "SUMMER SPECIAL"（2011年9月7 - 8日）
     スーパーヒーローミュージックスタジオ VOL.5（2011年9月23日）
     ガンバライド&ダイスオーDX 仮面ライダー×スーパー戦隊クエスト 「爆笑\!ヒーローステージ」（2012年1月１ - 2日）
-    仮面ライダー生誕40周年×スーパー戦隊シリーズ35作品記念 40×35 感謝祭 Anniversary
-    LIVE\&SHOW（2012年1月10 - 11日）
+    仮面ライダー生誕40周年×スーパー戦隊シリーズ35作品記念 40×35 感謝祭 Anniversary LIVE\&SHOW（2012年1月10 - 11日）
     everset VS 仮面ライダーGIRLS 向かい風一本勝負\!\!（2012年3月16日）
     everset vs 仮面ライダーGIRLS 向かい風一本勝負 東二局〜（2012年6月24日）
     仮面ライダーウィザード公開記者発表イベント〜仮面ライダーウィザード G＆Cミュージックマジック〜（2012年9月5日）\[17\]
@@ -604,21 +570,16 @@ UNLIMITED DRIVE(Kamen Rider Drive Type Tridoron 戰鬥曲)
 #### 電視劇
 
   -
-    [假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")（2012年）第26話(客串)
-    輕音樂部部員、除了廣川以外
+    [假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")（2012年）第26話(客串) 輕音樂部部員、除了廣川以外
     [假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")（2014年）第18話(客串)　Team POP UP
     [假面騎士Drive](../Page/假面騎士Drive.md "wikilink")（2014年）如月仁奈(井坂)、山吹沙月(遠藤)
 
 ### 電影
 
   -
-    [劇場版 假面騎士OOO WONDERFUL
-    將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")（2011年）
-    [劇場版 假面騎士Wizard in Magic
-    Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")（2013年）若者
-    [假面騎士×假面騎士 鎧武 & Wizard
-    天下決勝之戰國MOVIE大合戰](../Page/假面騎士×假面騎士_鎧武_&_Wizard_天下決勝之戰國MOVIE大合戰.md "wikilink")（2013年）Team
-    POP UP
+    [劇場版 假面騎士OOO WONDERFUL 將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")（2011年）
+    [劇場版 假面騎士Wizard in Magic Land](../Page/劇場版_假面騎士Wizard_in_Magic_Land.md "wikilink")（2013年）若者
+    [假面騎士×假面騎士 鎧武 & Wizard 天下決勝之戰國MOVIE大合戰](../Page/假面騎士×假面騎士_鎧武_&_Wizard_天下決勝之戰國MOVIE大合戰.md "wikilink")（2013年）Team POP UP
 
 ### Radio
 
@@ -630,8 +591,7 @@ UNLIMITED DRIVE(Kamen Rider Drive Type Tridoron 戰鬥曲)
 
   -
     ハイパーホビー（2012年3月 - 2013年2月、徳間書店）- 連載コーナー「ライドル倶楽部 仮面ライダーGIRLS応援団」
-    ハイパーホビー（2013年3月 - 、徳間書店）- 連載コーナー「KAMEN RIDER GIRLS ROCK STYLE
-    仮面のウラには…」
+    ハイパーホビー（2013年3月 - 、徳間書店）- 連載コーナー「KAMEN RIDER GIRLS ROCK STYLE 仮面のウラには…」
 
 ### Web
 
@@ -641,12 +601,9 @@ UNLIMITED DRIVE(Kamen Rider Drive Type Tridoron 戰鬥曲)
 ## Logo
 
   -
-    [Kamen Rider Girls
-    初代Logo](http://upload.lsforum.net/users/public/f19288kamen-rilogoo199.jpg)
-    [Kamen Rider Girls
-    第二代Logo](http://upload.lsforum.net/users/public/c5492202c199.jpg)
-    [Kamen Rider Girls
-    第三代Logo](http://upload.lsforum.net/users/public/k24748new%20logog199.jpg)
+    [Kamen Rider Girls 初代Logo](http://upload.lsforum.net/users/public/f19288kamen-rilogoo199.jpg)
+    [Kamen Rider Girls 第二代Logo](http://upload.lsforum.net/users/public/c5492202c199.jpg)
+    [Kamen Rider Girls 第三代Logo](http://upload.lsforum.net/users/public/k24748new%20logog199.jpg)
 
 ## 外部連結
 
@@ -656,16 +613,13 @@ UNLIMITED DRIVE(Kamen Rider Drive Type Tridoron 戰鬥曲)
 
 :\*
 
-:\* [仮面ライダーGIRLSオフィシャルブログ「KRG GIRL'S
-talk」](http://ameblo.jp/kamenridergirls/)
+:\* [仮面ライダーGIRLSオフィシャルブログ「KRG GIRL'S talk」](http://ameblo.jp/kamenridergirls/)
 
   - 名倉かおり關連網頁
 
-:\*
-[名倉かおりのわっしょいぶろく](http://ameblo.jp/nasan1217/)(旧オフィシャルブログ(2015年6月20日正式停用))
+:\* [名倉かおりのわっしょいぶろく](http://ameblo.jp/nasan1217/)(旧オフィシャルブログ(2015年6月20日正式停用))
 
-:\* [KAORI Official
-Blog](http://ameblo.jp/kaori-nagura/%7CNAGURA)(2015年6月20日-)
+:\* [KAORI Official Blog](http://ameblo.jp/kaori-nagura/%7CNAGURA)(2015年6月20日-)
 
 :\*
 
@@ -677,9 +631,7 @@ Blog](http://ameblo.jp/kaori-nagura/%7CNAGURA)(2015年6月20日-)
 
 :\*
 
-:\*
-[旧オフィシャルブログ](https://web.archive.org/web/20140426050720/http://ameblo.jp/erikayoshizumi/)（2011年12月
-- 2013年10月）
+:\* [旧オフィシャルブログ](https://web.archive.org/web/20140426050720/http://ameblo.jp/erikayoshizumi/)（2011年12月 - 2013年10月）
 
   - 井坂仁美關連網頁
 
@@ -723,8 +675,4 @@ Blog](http://ameblo.jp/kaori-nagura/%7CNAGURA)(2015年6月20日-)
 
 :\*
 
-[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink")
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本歌手團體](https://zh.wikipedia.org/wiki/Category:日本歌手團體 "wikilink")
-[Category:特攝歌手](https://zh.wikipedia.org/wiki/Category:特攝歌手 "wikilink")
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
+[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本歌手團體](https://zh.wikipedia.org/wiki/Category:日本歌手團體 "wikilink") [Category:特攝歌手](https://zh.wikipedia.org/wiki/Category:特攝歌手 "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")

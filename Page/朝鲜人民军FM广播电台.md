@@ -10,9 +10,6 @@
 
 ## 参考资料
 
-[Category:朝鮮民主主義人民共和國廣播電台](https://zh.wikipedia.org/wiki/Category:朝鮮民主主義人民共和國廣播電台 "wikilink")
-[Category:朝鲜人民军](https://zh.wikipedia.org/wiki/Category:朝鲜人民军 "wikilink")
+[Category:朝鮮民主主義人民共和國廣播電台](https://zh.wikipedia.org/wiki/Category:朝鮮民主主義人民共和國廣播電台 "wikilink") [Category:朝鲜人民军](https://zh.wikipedia.org/wiki/Category:朝鲜人民军 "wikilink")
 
-1.  [](http://japan.dailynk.com/japanese/read.php?cataId=nk00100&num=9551)
-     [Daily
-    NK](https://zh.wikipedia.org/wiki/Daily_NK "wikilink")2010-06-10
+1.  [](http://japan.dailynk.com/japanese/read.php?cataId=nk00100&num=9551)  [Daily NK](https://zh.wikipedia.org/wiki/Daily_NK "wikilink")2010-06-10

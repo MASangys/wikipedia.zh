@@ -1,16 +1,6 @@
-{{Infobox Album | Name = Café Buono\! | Type =
-[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink") | Artist =
-[Buono\!](../Page/Buono!.md "wikilink") | Released = 2008年2月20日 |
-Recorded = | Genre =
-[J-POP](https://zh.wikipedia.org/wiki/J-POP "wikilink") | Length =
-51分54秒 | Label =
-[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink") |
-Producer = 滝川洋 | Reviews = | Chart position =
-\*週間最高順位11位（[Oricon](../Page/Oricon公信榜.md "wikilink")） |
-Certification = | Last album = – | This album = **Café Buono\!**
+{{Infobox Album | Name = Café Buono\! | Type = [專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink") | Artist = [Buono\!](../Page/Buono!.md "wikilink") | Released = 2008年2月20日 | Recorded = | Genre = [J-POP](https://zh.wikipedia.org/wiki/J-POP "wikilink") | Length = 51分54秒 | Label = [波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink") | Producer = 滝川洋 | Reviews = | Chart position = \*週間最高順位11位（[Oricon](../Page/Oricon公信榜.md "wikilink")） | Certification = | Last album = – | This album = **Café Buono\!**
 （2008年） | Next album = [Buono\!2](../Page/Buono!2.md "wikilink")
-（2009年） | Misc =  『**Café
-Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的第1張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2008年2月20日發售。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+（2009年） | Misc =  『**Café Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的第1張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2008年2月20日發售。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要
 
@@ -68,12 +58,10 @@ Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono
   - 木之下慶行 - 吉他・貝斯(1)
   - 上江洌亮司 - 作曲(1)
   - K.OBA - 作曲(1)
-  - [仁科かおり](https://zh.wikipedia.org/wiki/仁科かおり "wikilink") -
-    合唱(1,3,5,6)
+  - [仁科かおり](https://zh.wikipedia.org/wiki/仁科かおり "wikilink") - 合唱(1,3,5,6)
   - AKIRASTAR - 作曲・吉他・貝斯(2,11)
   - Marron - 合唱(2,4,11,12)
-  - [西川進](https://zh.wikipedia.org/wiki/西川進 "wikilink") -
-    吉他(3,8)、吉他・貝斯(4)
+  - [西川進](https://zh.wikipedia.org/wiki/西川進 "wikilink") - 吉他(3,8)、吉他・貝斯(4)
   - [野崎森男](https://zh.wikipedia.org/wiki/野崎森男 "wikilink") - 貝斯(3)
   - [村石雅行](https://zh.wikipedia.org/wiki/村石雅行 "wikilink") - 爵士鼓(3)
   - Eji - 電子琴(3,4,8)
@@ -89,9 +77,6 @@ Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono
 
 ## 外部連結
 
-  - \[<https://web.archive.org/web/20090916072121/http://www.helloproject.com/discography/buono/a_001.html>
-    Hello\!Project唱片
+  - \[<https://web.archive.org/web/20090916072121/http://www.helloproject.com/discography/buono/a_001.html> Hello\!Project唱片
 
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
-[Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink")
-[Category:Buono\!音樂專輯](https://zh.wikipedia.org/wiki/Category:Buono!音樂專輯 "wikilink")
+[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink") [Category:Buono\!音樂專輯](https://zh.wikipedia.org/wiki/Category:Buono!音樂專輯 "wikilink")

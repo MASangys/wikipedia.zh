@@ -109,14 +109,7 @@
 ## 來源
 
   - [「世界の果てで愛ましょう」イメソンをMOSAIC.WAV制作](http://natalie.mu/comic/news/42735)
-  - [\[レポート\]
-    『世界の果てで愛ましょう』のイメージソングをMOSAIC.WAVがステージで披露！](https://web.archive.org/web/20131214095226/http://news.livedoor.com/article/detail/5392570/)
+  - [\[レポート\] 『世界の果てで愛ましょう』のイメージソングをMOSAIC.WAVがステージで披露！](https://web.archive.org/web/20131214095226/http://news.livedoor.com/article/detail/5392570/)
   - [「作品の衝撃的な展開をイメージした」――『世界の果てで愛ましょう』のイメージソングをMOSAIC.WAVが発表！『ゲームの電撃感謝祭』でミニライブ](http://www.animate.tv/news/details.php?id=1300778191)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:角川書店](https://zh.wikipedia.org/wiki/Category:角川書店 "wikilink")
-[Category:LGBT題材作品](https://zh.wikipedia.org/wiki/Category:LGBT題材作品 "wikilink")
-[Category:性轉換題材漫畫](https://zh.wikipedia.org/wiki/Category:性轉換題材漫畫 "wikilink")
-[Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink")
-[Category:完結作品](https://zh.wikipedia.org/wiki/Category:完結作品 "wikilink")
-[Category:電擊魔王](https://zh.wikipedia.org/wiki/Category:電擊魔王 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:角川書店](https://zh.wikipedia.org/wiki/Category:角川書店 "wikilink") [Category:LGBT題材作品](https://zh.wikipedia.org/wiki/Category:LGBT題材作品 "wikilink") [Category:性轉換題材漫畫](https://zh.wikipedia.org/wiki/Category:性轉換題材漫畫 "wikilink") [Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink") [Category:完結作品](https://zh.wikipedia.org/wiki/Category:完結作品 "wikilink") [Category:電擊魔王](https://zh.wikipedia.org/wiki/Category:電擊魔王 "wikilink")

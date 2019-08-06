@@ -13,10 +13,8 @@
 
 ## 歷史
 
-  - 1970年4月17日 -
-    [東名阪自動車道](../Page/東名阪自動車道.md "wikilink")[龜山IC至四日市IC開通](https://zh.wikipedia.org/wiki/龜山IC "wikilink")，此交流道也同時啟用。
-  - 1971年8月9日 -
-    東名阪自動車道[桑名IC至四日市IC開通](https://zh.wikipedia.org/wiki/桑名IC "wikilink")。
+  - 1970年4月17日 - [東名阪自動車道](../Page/東名阪自動車道.md "wikilink")[龜山IC至四日市IC開通](https://zh.wikipedia.org/wiki/龜山IC "wikilink")，此交流道也同時啟用。
+  - 1971年8月9日 - 東名阪自動車道[桑名IC至四日市IC開通](https://zh.wikipedia.org/wiki/桑名IC "wikilink")。
 
 ## 收費站設施
 
@@ -38,16 +36,12 @@
   - [大和運輸](https://zh.wikipedia.org/wiki/大和運輸 "wikilink") 三重主管分店
   - [四日市西郵局](https://zh.wikipedia.org/wiki/四日市西郵局 "wikilink")
   - [三重縣立四日市西高等學校](https://zh.wikipedia.org/wiki/三重縣立四日市西高等學校 "wikilink")
-  - [近畿日本鐵道](../Page/近畿日本鐵道.md "wikilink")（近鐵）[湯之山線](https://zh.wikipedia.org/wiki/近鐵湯之山線 "wikilink")
-    [櫻站](https://zh.wikipedia.org/wiki/櫻站_\(三重縣\) "wikilink")
+  - [近畿日本鐵道](../Page/近畿日本鐵道.md "wikilink")（近鐵）[湯之山線](https://zh.wikipedia.org/wiki/近鐵湯之山線 "wikilink") [櫻站](https://zh.wikipedia.org/wiki/櫻站_\(三重縣\) "wikilink")
 
 ## 鄰近設施
 
   - [東名阪自動車道](../Page/東名阪自動車道.md "wikilink")
-    (30)[四日市東IC](../Page/四日市東IC.md "wikilink") -
-    [御在所SA](https://zh.wikipedia.org/wiki/御在所SA "wikilink") -
-    (31)**四日市IC** -
-    (32)[鈴鹿IC](https://zh.wikipedia.org/wiki/鈴鹿IC "wikilink")
+    (30)[四日市東IC](../Page/四日市東IC.md "wikilink") - [御在所SA](https://zh.wikipedia.org/wiki/御在所SA "wikilink") - (31)**四日市IC** - (32)[鈴鹿IC](https://zh.wikipedia.org/wiki/鈴鹿IC "wikilink")
 
 ## 相關項目
 
@@ -57,5 +51,4 @@
 
   - [中日本高速道路](http://www.c-nexco.co.jp/)
 
-[Category:日本交流道_Yo](https://zh.wikipedia.org/wiki/Category:日本交流道_Yo "wikilink")
-[Category:三重縣交流道](https://zh.wikipedia.org/wiki/Category:三重縣交流道 "wikilink")
+[Category:日本交流道_Yo](https://zh.wikipedia.org/wiki/Category:日本交流道_Yo "wikilink") [Category:三重縣交流道](https://zh.wikipedia.org/wiki/Category:三重縣交流道 "wikilink")

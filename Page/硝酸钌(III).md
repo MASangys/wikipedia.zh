@@ -2,10 +2,7 @@
 
 ## 参考资料
 
-[Category:钌化合物](https://zh.wikipedia.org/wiki/Category:钌化合物 "wikilink")
-[Category:硝酸盐](https://zh.wikipedia.org/wiki/Category:硝酸盐 "wikilink")
+[Category:钌化合物](https://zh.wikipedia.org/wiki/Category:钌化合物 "wikilink") [Category:硝酸盐](https://zh.wikipedia.org/wiki/Category:硝酸盐 "wikilink")
 
 1.
-2.  Huang, L.; Xu, Y. IR spectroscopic study on surface-​mediated
-    reductive carbonylation of hydrated SiO2-​supported Ru(NO3)​3.
-    *Catalysis Letters*, 2001. 71. (1-2): 27-30. ISSN: 1011-372X.
+2.  Huang, L.; Xu, Y. IR spectroscopic study on surface-​mediated reductive carbonylation of hydrated SiO2-​supported Ru(NO3)​3. *Catalysis Letters*, 2001. 71. (1-2): 27-30. ISSN: 1011-372X.

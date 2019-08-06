@@ -1,4 +1,4 @@
-《**飛虎II**》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")時裝警匪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[馬德鐘](https://zh.wikipedia.org/wiki/馬德鐘 "wikilink")、[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[羅仲謙](../Page/羅仲謙.md "wikilink")領銜主演，並由[梁烈唯](https://zh.wikipedia.org/wiki/梁烈唯 "wikilink")、[黃智雯](../Page/黃智雯.md "wikilink")、[袁偉豪](../Page/袁偉豪.md "wikilink")及[苟芸慧](../Page/苟芸慧.md "wikilink")聯合主演，監製[林志華](../Page/林志華.md "wikilink")。此劇為《[飛虎](https://zh.wikipedia.org/wiki/飛虎_\(電視劇\) "wikilink")》的[續集](https://zh.wikipedia.org/wiki/續集 "wikilink")，為第18屆香港國際影視展中無綫電視所推介的19部劇集之一，此劇是**無線邁向48週年台慶劇（不是正統）**，亦是[鄧健泓](../Page/鄧健泓.md "wikilink")、[高鈞賢](../Page/高鈞賢.md "wikilink")、[蔡淇俊](../Page/蔡淇俊.md "wikilink")在無線電視的告別作。\[1\]\[2\]\[3\]\[4\]\[5\]
+《**飛虎II**》（），[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")時裝警匪[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[馬德鐘](https://zh.wikipedia.org/wiki/馬德鐘 "wikilink")、[鍾嘉欣及](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")[羅仲謙](../Page/羅仲謙.md "wikilink")領銜主演，並由[梁烈唯](https://zh.wikipedia.org/wiki/梁烈唯 "wikilink")、[黃智雯](../Page/黃智雯.md "wikilink")、[袁偉豪](../Page/袁偉豪.md "wikilink")及[苟芸慧](../Page/苟芸慧.md "wikilink")聯合主演，監製[林志華](../Page/林志華.md "wikilink")。此劇為《[飛虎](https://zh.wikipedia.org/wiki/飛虎_\(電視劇\) "wikilink")》的[續集](https://zh.wikipedia.org/wiki/續集 "wikilink")，為第18屆香港國際影視展中無綫電視所推介的19部劇集之一，亦為**無綫電視邁向48週年台慶劇**，亦是[鄧健泓](../Page/鄧健泓.md "wikilink")、[高鈞賢](../Page/高鈞賢.md "wikilink")、[蔡淇俊](../Page/蔡淇俊.md "wikilink")在無線電視的告別作。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 ## 演員表
 
@@ -1062,9 +1062,7 @@ A Team飛虎隊之好友<br />
   - 2013年9月29日：馬德鐘、鍾嘉欣和胡定欣於屯門拍攝煞科戲。
   - 2014年10月12日：此劇於13:30在將軍澳電視廣播城一廠停車場舉行「強勢列陣闖高峰」宣傳活動\[6\]。
   - 2014年10月17日：此劇於21:30在星影匯一號影院舉行首映會\[7\]。
-  - 2014年11月13日：此劇於15:00在[尖沙咀](../Page/尖沙咀.md "wikilink")[The
-    ONE](../Page/The_ONE.md "wikilink") L11 [California
-    Fitness舉行](https://zh.wikipedia.org/wiki/California_Fitness "wikilink")「非常特訓」宣傳活動。
+  - 2014年11月13日：此劇於15:00在[尖沙咀](../Page/尖沙咀.md "wikilink")[The ONE](../Page/The_ONE.md "wikilink") L11 [California Fitness舉行](https://zh.wikipedia.org/wiki/California_Fitness "wikilink")「非常特訓」宣傳活動。
   - 2014年11月30日：劇集《[老表，你好hea！](../Page/老表，你好hea！.md "wikilink")》於當日21:15-23:15播映大結局，本劇暫停播映一次。
   - 2014年12月21日：《[2014勁歌金曲優秀選第二回](https://zh.wikipedia.org/wiki/勁歌金曲優秀選#2014年度 "wikilink")》於當日20:00-21:30播映，本劇順延至21:30-23:30播映。
   - 2014年12月28日：劇集《[醋娘子](../Page/醋娘子.md "wikilink")》於當日21:00－23:00播映大結局，本劇暫停播映一次。
@@ -1073,24 +1071,15 @@ A Team飛虎隊之好友<br />
 
 ## 外部連結
 
-  - [飛虎II - myTV
-    SUPER](http://programme.mytvsuper.com/tc/116382/飛虎-ii/casts)
-  - [飛虎II -
-    encoreTVB](https://encoretvb.com/cantonese/series/A2Rlw84n-Tiger_Cubs_II)
+  - [飛虎II - myTV SUPER](http://programme.mytvsuper.com/tc/116382/飛虎-ii/casts)
+  - [飛虎II - encoreTVB](https://encoretvb.com/cantonese/series/A2Rlw84n-Tiger_Cubs_II)
 
 ## 電視節目的變遷
 
-[Category:2014年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2014年無綫電視劇集 "wikilink")
-[Category:2015年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2015年無綫電視劇集 "wikilink")
-[Category:特別任務連題材電視劇](https://zh.wikipedia.org/wiki/Category:特別任務連題材電視劇 "wikilink")
-[Category:無綫電視犯罪劇集](https://zh.wikipedia.org/wiki/Category:無綫電視犯罪劇集 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")
-[Category:無綫電視台慶劇](https://zh.wikipedia.org/wiki/Category:無綫電視台慶劇 "wikilink")
+[Category:2014年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2014年無綫電視劇集 "wikilink") [Category:2015年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2015年無綫電視劇集 "wikilink") [Category:特別任務連題材電視劇](https://zh.wikipedia.org/wiki/Category:特別任務連題材電視劇 "wikilink") [Category:無綫電視犯罪劇集](https://zh.wikipedia.org/wiki/Category:無綫電視犯罪劇集 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:無綫電視台慶劇](https://zh.wikipedia.org/wiki/Category:無綫電視台慶劇 "wikilink")
 
 1.  [馬德鐘6月返無綫拍劇（太陽報）](http://the-sun.on.cc/cnt/entertainment/20130212/00470_026.html)
-2.  [古明華要保持人氣
-    愈轉愈紅（香港成報）](https://web.archive.org/web/20131017235342/http://www.singpao.com/yl/mx/201302/t20130212_418629.html)
+2.  [古明華要保持人氣 愈轉愈紅（香港成報）](https://web.archive.org/web/20131017235342/http://www.singpao.com/yl/mx/201302/t20130212_418629.html)
 3.  [馬德鐘預告與嘉欣BB《飛虎2》談情（明報）](http://ol.mingpao.com/cfm/Archive1.cfm?File=20130311/saa01/mac1.txt)
 4.  [馬德鐘回巢拍劇﹕唔係救亡（明報）](http://ol.mingpao.com/cfm/Archive1.cfm?File=20130505/saa01/mcb1.txt)
 5.  [鍾嘉欣首與馬德鐘合作緊張（文匯報）](http://paper.wenweipo.com/2013/06/28/EN1306280012.htm)

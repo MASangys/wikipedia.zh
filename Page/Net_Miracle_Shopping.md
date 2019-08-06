@@ -1,5 +1,4 @@
-《**Net Miracle
-Shopping**》，是[每日放送](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")（MBS）製作的[深夜動畫](https://zh.wikipedia.org/wiki/深夜動畫 "wikilink")。
+《**Net Miracle Shopping**》，是[每日放送](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")（MBS）製作的[深夜動畫](https://zh.wikipedia.org/wiki/深夜動畫 "wikilink")。
 
 ## 角色
 
@@ -108,6 +107,4 @@ Shopping**》，是[每日放送](https://zh.wikipedia.org/wiki/MBS電視台 "wi
 
   - [公式網站](http://www.mbs.jp/netmiracle)
 
-[Category:2008年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年TBS電視網動畫 "wikilink")
-[Category:2010年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年TBS電視網動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[Category:2008年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2008年TBS電視網動畫 "wikilink") [Category:2010年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年TBS電視網動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")

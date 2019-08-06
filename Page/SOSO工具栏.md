@@ -64,5 +64,4 @@
 
 ## 外部链接
 
-[Category:腾讯软件](https://zh.wikipedia.org/wiki/Category:腾讯软件 "wikilink")
-[Category:Internet_Explorer工具栏](https://zh.wikipedia.org/wiki/Category:Internet_Explorer工具栏 "wikilink")
+[Category:腾讯软件](https://zh.wikipedia.org/wiki/Category:腾讯软件 "wikilink") [Category:Internet_Explorer工具栏](https://zh.wikipedia.org/wiki/Category:Internet_Explorer工具栏 "wikilink")

@@ -1,19 +1,14 @@
-**Momentus
-XT**是由[希捷公司推出的固态混合硬盘](https://zh.wikipedia.org/wiki/希捷 "wikilink")。这是一款2.5英寸[笔记本](https://zh.wikipedia.org/wiki/笔记本 "wikilink")[硬盘](../Page/硬盘.md "wikilink")，可以提供类似于[固态硬盘](../Page/固态硬盘.md "wikilink")的性能以及[机械硬盘的大容量](https://zh.wikipedia.org/wiki/机械硬盘 "wikilink")、低价格。
+**Momentus XT**是由[希捷公司推出的固态混合硬盘](https://zh.wikipedia.org/wiki/希捷 "wikilink")。这是一款2.5英寸[笔记本](https://zh.wikipedia.org/wiki/笔记本 "wikilink")[硬盘](../Page/硬盘.md "wikilink")，可以提供类似于[固态硬盘](../Page/固态硬盘.md "wikilink")的性能以及[机械硬盘的大容量](https://zh.wikipedia.org/wiki/机械硬盘 "wikilink")、低价格。
 
 ## 特性
 
 ### Seagate Adaptive Memory™ 技术
 
-**Seagate Adaptive Memory™
-技术**可自动辨别出用户经常使用的数据，并把这些数据存放到速度较快的[SSD区域内](https://zh.wikipedia.org/wiki/SSD "wikilink")。其他数据则存放在[HDD区域内](https://zh.wikipedia.org/wiki/HDD "wikilink")。
+**Seagate Adaptive Memory™ 技术**可自动辨别出用户经常使用的数据，并把这些数据存放到速度较快的[SSD区域内](https://zh.wikipedia.org/wiki/SSD "wikilink")。其他数据则存放在[HDD区域内](https://zh.wikipedia.org/wiki/HDD "wikilink")。
 
 ### 兼容性
 
-Momentus
-XT硬盘可兼容各种标准笔记本电脑，以及[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac
-OS
-X操作系统](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，不需另行安装特殊[驱动程序](../Page/驱动程序.md "wikilink")。
+Momentus XT硬盘可兼容各种标准笔记本电脑，以及[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Mac OS X操作系统](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，不需另行安装特殊[驱动程序](../Page/驱动程序.md "wikilink")。
 
 ## 规格参数
 

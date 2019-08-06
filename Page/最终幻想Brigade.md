@@ -6,13 +6,11 @@
 
 ## 剧情
 
-很久以前，国家由两颗水晶守护。然而因为怪物的入侵，其中一颗破碎并散落世界各处。另一颗失去了光芒。只有古老的召唤兽可以让水晶恢复原有的光芒，玩家可以乘坐他/她的飞空艇决定旅行，并像召唤兽展示他/她的力量\[5\]。日本更新版可允许玩家匹配自定角色，以及最终幻想中和反派对战的经典英雄\[6\]。游戏还跨界出现了其它最终幻想系列游戏中的角色，包括《[最终幻想XIII-2](../Page/最终幻想XIII-2.md "wikilink")》的帕拉多，他会发生一个特殊事件，成功会获得一个特殊奖励\[7\]。[萨菲罗斯在](https://zh.wikipedia.org/wiki/萨菲罗斯 "wikilink")2013年2月的“Cloudy
-Wolf”事件中出现\[8\]。
+很久以前，国家由两颗水晶守护。然而因为怪物的入侵，其中一颗破碎并散落世界各处。另一颗失去了光芒。只有古老的召唤兽可以让水晶恢复原有的光芒，玩家可以乘坐他/她的飞空艇决定旅行，并像召唤兽展示他/她的力量\[5\]。日本更新版可允许玩家匹配自定角色，以及最终幻想中和反派对战的经典英雄\[6\]。游戏还跨界出现了其它最终幻想系列游戏中的角色，包括《[最终幻想XIII-2](../Page/最终幻想XIII-2.md "wikilink")》的帕拉多，他会发生一个特殊事件，成功会获得一个特殊奖励\[7\]。[萨菲罗斯在](https://zh.wikipedia.org/wiki/萨菲罗斯 "wikilink")2013年2月的“Cloudy Wolf”事件中出现\[8\]。
 
 ## 开发
 
-[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")在开设公司与Mobage合作的公告站点中，最早暗示了该游戏\[9\]。公司时任总裁[和田洋一](../Page/和田洋一.md "wikilink")在2011年12月2日公布了《最终幻想Brigade》的消息。这是史克威尔艾尼克斯首个有关最终幻想的免费手机游戏\[10\]。游戏由[史克威尔艾尼克斯第一制作部开发](https://zh.wikipedia.org/wiki/史克威尔艾尼克斯#开发单位 "wikilink")。游戏与2011年12月中旬开始封闭测试，2012年1月6日游戏正式发行\[11\]。游戏还曾有智能机版本的消息宣布，钒发售日期从未公布\[12\]。游戏的美工风格和另一游戏《[最终幻想
-节奏剧场](https://zh.wikipedia.org/wiki/最终幻想_节奏剧场 "wikilink")》相似\[13\]。游戏在日本和韩国由DeNA销售，其中韩国由[多音通信本地化](https://zh.wikipedia.org/wiki/Daum "wikilink")，于2012年11月30日发行，史克威尔艾尼克斯和DeNA宣布游戏将于北美[iOS设备发售](https://zh.wikipedia.org/wiki/iOS "wikilink")\[14\]。在给北美玩家的官网页面注册，在游戏推出时会受到消息，同时还会给他们赠送三个月期的《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》克劳德召唤\[15\]\[16\]。
+[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")在开设公司与Mobage合作的公告站点中，最早暗示了该游戏\[9\]。公司时任总裁[和田洋一](../Page/和田洋一.md "wikilink")在2011年12月2日公布了《最终幻想Brigade》的消息。这是史克威尔艾尼克斯首个有关最终幻想的免费手机游戏\[10\]。游戏由[史克威尔艾尼克斯第一制作部开发](https://zh.wikipedia.org/wiki/史克威尔艾尼克斯#开发单位 "wikilink")。游戏与2011年12月中旬开始封闭测试，2012年1月6日游戏正式发行\[11\]。游戏还曾有智能机版本的消息宣布，钒发售日期从未公布\[12\]。游戏的美工风格和另一游戏《[最终幻想 节奏剧场](https://zh.wikipedia.org/wiki/最终幻想_节奏剧场 "wikilink")》相似\[13\]。游戏在日本和韩国由DeNA销售，其中韩国由[多音通信本地化](https://zh.wikipedia.org/wiki/Daum "wikilink")，于2012年11月30日发行，史克威尔艾尼克斯和DeNA宣布游戏将于北美[iOS设备发售](https://zh.wikipedia.org/wiki/iOS "wikilink")\[14\]。在给北美玩家的官网页面注册，在游戏推出时会受到消息，同时还会给他们赠送三个月期的《[最终幻想VII](../Page/最终幻想VII.md "wikilink")》克劳德召唤\[15\]\[16\]。
 
 ## 评价
 
@@ -26,11 +24,7 @@ Wolf”事件中出现\[8\]。
 
   -
 
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink")
-[Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
+[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink") [Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
 
 1.
 2.

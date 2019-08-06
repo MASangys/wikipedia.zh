@@ -1,16 +1,12 @@
-《**Cool
-Guide**》是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")介紹生活潮流的資訊節目，由[范振鋒](../Page/范振鋒.md "wikilink")及[陸浩明](../Page/陸浩明.md "wikilink")擔任主持。本節目於2012年10月7日起[香港時間](../Page/香港時間.md "wikilink")逢星期日22:00-22:30在[J2](../Page/J2.md "wikilink")播出，及於[MyTV](../Page/MyTV.md "wikilink")提供網上節目重溫（集數上傳後兩個月後會刪除）。
+《**Cool Guide**》是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")介紹生活潮流的資訊節目，由[范振鋒](../Page/范振鋒.md "wikilink")及[陸浩明](../Page/陸浩明.md "wikilink")擔任主持。本節目於2012年10月7日起[香港時間](../Page/香港時間.md "wikilink")逢星期日22:00-22:30在[J2](../Page/J2.md "wikilink")播出，及於[MyTV](../Page/MyTV.md "wikilink")提供網上節目重溫（集數上傳後兩個月後會刪除）。
 
 ## 節目簡介
 
-「潮流」是一種改革的力量，摒棄封建社會的權威價值，力求破格的人創造出新的風格，把生活融合於時尚潮物、新穎玩意及至潮活動。《Cool
-Guide》為一潮流雜誌式節目，網羅香港最「潮」的事物，為年輕觀眾製造至hit話題！
+「潮流」是一種改革的力量，摒棄封建社會的權威價值，力求破格的人創造出新的風格，把生活融合於時尚潮物、新穎玩意及至潮活動。《Cool Guide》為一潮流雜誌式節目，網羅香港最「潮」的事物，為年輕觀眾製造至hit話題！
 
-每週半小時的節目由范振鋒、陸浩明主持，請來多位嘉賓或藝人作介紹、分享及討論至潮主題。包括牛仔褲、波鞋、懷舊玩具收藏家分享採購攻略，並展示私人珍藏。如日牛傳道師Benny
-Seki講解數千元，以至過萬的牛仔褲如何「潮」得有價。
+每週半小時的節目由范振鋒、陸浩明主持，請來多位嘉賓或藝人作介紹、分享及討論至潮主題。包括牛仔褲、波鞋、懷舊玩具收藏家分享採購攻略，並展示私人珍藏。如日牛傳道師Benny Seki講解數千元，以至過萬的牛仔褲如何「潮」得有價。
 
-單車、飛標、泰拳、滑浪、X
-Game，爆發魅力，主持會親身拜訪潮流達人，由各路達人實地試玩至潮玩意，務求快人一步，帶領潮流文化。如香港首席鐵人外號的李致和介紹外形美觀、配搭性能多變的公路計時單車。
+單車、飛標、泰拳、滑浪、X Game，爆發魅力，主持會親身拜訪潮流達人，由各路達人實地試玩至潮玩意，務求快人一步，帶領潮流文化。如香港首席鐵人外號的李致和介紹外形美觀、配搭性能多變的公路計時單車。
 
 ## 每集內容
 
@@ -69,19 +65,14 @@ Game，爆發魅力，主持會親身拜訪潮流達人，由各路達人實地�
 
 ## 記事
 
-  - 2012年10月6日：此劇於下午14:30在[尖沙咀](../Page/尖沙咀.md "wikilink")[美麗華商場](https://zh.wikipedia.org/wiki/美麗華商場 "wikilink")《Cool
-    Guide》記者會\[1\]
+  - 2012年10月6日：此劇於下午14:30在[尖沙咀](../Page/尖沙咀.md "wikilink")[美麗華商場](https://zh.wikipedia.org/wiki/美麗華商場 "wikilink")《Cool Guide》記者會\[1\]
 
 ## 參考資料
 
 ## 外部連結
 
-  - [無綫電視節目網頁 - Cool
-    Guide](http://programme.tvb.com/lifestyle/coolguide/)
+  - [無綫電視節目網頁 - Cool Guide](http://programme.tvb.com/lifestyle/coolguide/)
 
-[Category:2012年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2012年無綫電視節目 "wikilink")
-[Category:2013年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2013年無綫電視節目 "wikilink")
-[Category:J2節目](https://zh.wikipedia.org/wiki/Category:J2節目 "wikilink")
+[Category:2012年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2012年無綫電視節目 "wikilink") [Category:2013年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2013年無綫電視節目 "wikilink") [Category:J2節目](https://zh.wikipedia.org/wiki/Category:J2節目 "wikilink")
 
-1.  [藝人月曆 - 2012年10月6日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+1.  [藝人月曆 - 2012年10月6日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)

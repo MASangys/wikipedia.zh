@@ -4,14 +4,10 @@
 
 ## 参与人员
 
-  - [約翰·藍儂](https://zh.wikipedia.org/wiki/約翰·藍儂 "wikilink") –
-    主唱、节奏吉他、钢琴（结尾和音）
-  - [保羅·麥卡尼](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink") –
-    主唱（过门）、钢琴（全曲和结尾和音）、贝斯
-  - [乔治·哈里森](../Page/乔治·哈里森.md "wikilink") –
-    吉他、[沙锤](../Page/沙锤.md "wikilink")
-  - [林哥·史達](https://zh.wikipedia.org/wiki/林哥·史達 "wikilink") –
-    架子鼓、[康加鼓](../Page/康加鼓.md "wikilink")、钢琴（结尾和音）
+  - [約翰·藍儂](https://zh.wikipedia.org/wiki/約翰·藍儂 "wikilink") – 主唱、节奏吉他、钢琴（结尾和音）
+  - [保羅·麥卡尼](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink") – 主唱（过门）、钢琴（全曲和结尾和音）、贝斯
+  - [乔治·哈里森](../Page/乔治·哈里森.md "wikilink") – 吉他、[沙锤](../Page/沙锤.md "wikilink")
+  - [林哥·史達](https://zh.wikipedia.org/wiki/林哥·史達 "wikilink") – 架子鼓、[康加鼓](../Page/康加鼓.md "wikilink")、钢琴（结尾和音）
 
 ## 脚注
 
@@ -25,8 +21,7 @@
 
 {{《Sgt. Pepper's Lonely Hearts Club Band》}}
 
-[Category:1967年歌曲](https://zh.wikipedia.org/wiki/Category:1967年歌曲 "wikilink")
-[Category:披頭四歌曲](https://zh.wikipedia.org/wiki/Category:披頭四歌曲 "wikilink")
+[Category:1967年歌曲](https://zh.wikipedia.org/wiki/Category:1967年歌曲 "wikilink") [Category:披頭四歌曲](https://zh.wikipedia.org/wiki/Category:披頭四歌曲 "wikilink")
 
 1.
 2.

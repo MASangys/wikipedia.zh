@@ -1,5 +1,4 @@
-《**Shibuya Deep A**》（2009年4月10日後是《**SHIBUYA DEEP
-A**》。讀音相同）是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")（2011年3月4日在[BS2](https://zh.wikipedia.org/wiki/NHK衛星第2頻道 "wikilink")）播放，觀眾参加型投稿[綜藝節目](../Page/綜藝節目.md "wikilink")。
+《**Shibuya Deep A**》（2009年4月10日後是《**SHIBUYA DEEP A**》。讀音相同）是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilink")（2011年3月4日在[BS2](https://zh.wikipedia.org/wiki/NHK衛星第2頻道 "wikilink")）播放，觀眾参加型投稿[綜藝節目](../Page/綜藝節目.md "wikilink")。
 
 ## 播放時間
 
@@ -120,17 +119,12 @@ A**》。讀音相同）是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilin
   - [ワッキー](https://zh.wikipedia.org/wiki/ワッキー "wikilink")（[ペナルティ](https://zh.wikipedia.org/wiki/ペナルティ_\(お笑いコンビ\) "wikilink")）
   - [福士蒼汰](../Page/福士蒼汰.md "wikilink")（俳優）
   - [ウエンツ瑛士](https://zh.wikipedia.org/wiki/ウエンツ瑛士 "wikilink")
-  - [コカドケンタロウ](https://zh.wikipedia.org/wiki/コカドケンタロウ "wikilink")・[中岡創一](https://zh.wikipedia.org/wiki/中岡創一 "wikilink")
-    （[ロッチ](https://zh.wikipedia.org/wiki/ロッチ "wikilink")）
+  - [コカドケンタロウ](https://zh.wikipedia.org/wiki/コカドケンタロウ "wikilink")・[中岡創一](https://zh.wikipedia.org/wiki/中岡創一 "wikilink") （[ロッチ](https://zh.wikipedia.org/wiki/ロッチ "wikilink")）
   - [千葉雄大](../Page/千葉雄大.md "wikilink")
-  - [高橋茂雄](https://zh.wikipedia.org/wiki/高橋茂雄 "wikilink")
-    （[サバンナ](https://zh.wikipedia.org/wiki/サバンナ_\(お笑いコンビ\) "wikilink")）
-  - [川島明](https://zh.wikipedia.org/wiki/川島明 "wikilink")[田村裕](https://zh.wikipedia.org/wiki/田村裕 "wikilink")
-    （[麒麟](https://zh.wikipedia.org/wiki/麒麟_\(お笑いコンビ\) "wikilink")）
-  - [加藤シゲアキ](https://zh.wikipedia.org/wiki/加藤シゲアキ "wikilink")
-    （[NEWS](https://zh.wikipedia.org/wiki/NEWS_\(組合\) "wikilink")）
-  - [藤本敏史](https://zh.wikipedia.org/wiki/藤本敏史 "wikilink")
-    （[FUJIWARA](https://zh.wikipedia.org/wiki/FUJIWARA "wikilink")）
+  - [高橋茂雄](https://zh.wikipedia.org/wiki/高橋茂雄 "wikilink") （[サバンナ](https://zh.wikipedia.org/wiki/サバンナ_\(お笑いコンビ\) "wikilink")）
+  - [川島明](https://zh.wikipedia.org/wiki/川島明 "wikilink")[田村裕](https://zh.wikipedia.org/wiki/田村裕 "wikilink") （[麒麟](https://zh.wikipedia.org/wiki/麒麟_\(お笑いコンビ\) "wikilink")）
+  - [加藤シゲアキ](https://zh.wikipedia.org/wiki/加藤シゲアキ "wikilink") （[NEWS](https://zh.wikipedia.org/wiki/NEWS_\(組合\) "wikilink")）
+  - [藤本敏史](https://zh.wikipedia.org/wiki/藤本敏史 "wikilink") （[FUJIWARA](https://zh.wikipedia.org/wiki/FUJIWARA "wikilink")）
   - [加藤和樹](../Page/加藤和樹.md "wikilink")
   - [クリス松村](https://zh.wikipedia.org/wiki/クリス松村 "wikilink")
 
@@ -202,8 +196,7 @@ A**》。讀音相同）是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilin
   - [和田正人](../Page/和田正人.md "wikilink")（[D-BOYS](../Page/D-BOYS.md "wikilink")）
   - [斎藤工](https://zh.wikipedia.org/wiki/斎藤工 "wikilink")（俳優）
   - [岩尾望](../Page/岩尾望.md "wikilink")・[後藤輝基](../Page/後藤輝基.md "wikilink")（[フットボールアワー](https://zh.wikipedia.org/wiki/フットボールアワー "wikilink")）
-  - [井上裕介](https://zh.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")、[石田明](https://zh.wikipedia.org/wiki/石田明 "wikilink")（[NON
-    STYLE](../Page/NON_STYLE.md "wikilink")）
+  - [井上裕介](https://zh.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")、[石田明](https://zh.wikipedia.org/wiki/石田明 "wikilink")（[NON STYLE](../Page/NON_STYLE.md "wikilink")）
   - 内間政成（[スリムクラブ](https://zh.wikipedia.org/wiki/スリムクラブ "wikilink")）
   - [千葉雄大](../Page/千葉雄大.md "wikilink")（俳優・モデル）
   - [徳山秀典](https://zh.wikipedia.org/wiki/徳山秀典 "wikilink")（俳優）
@@ -240,16 +233,11 @@ A**》。讀音相同）是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilin
   - アイアム野田（鬼ヶ島）※ワンセグ2延長戦
   - 赤羽健一（[ジューシーズ](https://zh.wikipedia.org/wiki/ジューシーズ "wikilink")）※ワンセグ2延長戦
   - [もう中学生](https://zh.wikipedia.org/wiki/もう中学生 "wikilink") ※ワンセグ2延長戦
-  - おたこぷー（[プー&ムー](https://zh.wikipedia.org/wiki/プー&ムー "wikilink")）
-    ※ワンセグ2延長戦
-  - 佐藤哲夫（[パンクブーブー](https://zh.wikipedia.org/wiki/パンクブーブー "wikilink")）
-    ※ワンセグ2延長戦
-  - 岩橋良昌（[プラスマイナス](https://zh.wikipedia.org/wiki/プラスマイナス "wikilink")）
-    ※ワンセグ2延長戦
-  - 植野行雄（[デニス](https://zh.wikipedia.org/wiki/デニス_\(お笑いコンビ\) "wikilink")）
-    ※ワンセグ2延長戦
-  - ちゅうえいさん（[流れ星](https://zh.wikipedia.org/wiki/流れ星_\(お笑いコンビ\) "wikilink")）
-    ※ワンセグ2延長戦
+  - おたこぷー（[プー&ムー](https://zh.wikipedia.org/wiki/プー&ムー "wikilink")） ※ワンセグ2延長戦
+  - 佐藤哲夫（[パンクブーブー](https://zh.wikipedia.org/wiki/パンクブーブー "wikilink")） ※ワンセグ2延長戦
+  - 岩橋良昌（[プラスマイナス](https://zh.wikipedia.org/wiki/プラスマイナス "wikilink")） ※ワンセグ2延長戦
+  - 植野行雄（[デニス](https://zh.wikipedia.org/wiki/デニス_\(お笑いコンビ\) "wikilink")） ※ワンセグ2延長戦
+  - ちゅうえいさん（[流れ星](https://zh.wikipedia.org/wiki/流れ星_\(お笑いコンビ\) "wikilink")） ※ワンセグ2延長戦
   - 新妻悠太（[トップリード](https://zh.wikipedia.org/wiki/トップリード "wikilink")）※ワンセグ2延長戦
 
 </div>
@@ -454,8 +442,7 @@ A**》。讀音相同）是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilin
   - [石原さとみ](https://zh.wikipedia.org/wiki/石原さとみ "wikilink")（女優）
   - 住友淑恵（マナー講師）
   - [井垣利英](https://zh.wikipedia.org/wiki/井垣利英 "wikilink")（マナーコーチ）
-  - [川村エミコ](https://zh.wikipedia.org/wiki/川村エミコ "wikilink")（[たんぽぽ](https://zh.wikipedia.org/wiki/たんぽぽ_\(お笑いコンビ\) "wikilink")
-    ※ワンセグ2延長戦）
+  - [川村エミコ](https://zh.wikipedia.org/wiki/川村エミコ "wikilink")（[たんぽぽ](https://zh.wikipedia.org/wiki/たんぽぽ_\(お笑いコンビ\) "wikilink") ※ワンセグ2延長戦）
 
 </div>
 
@@ -463,15 +450,11 @@ A**》。讀音相同）是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilin
 
 ## 外部連結
 
-  - [Shibuya Deep
-    A](https://archive.is/20121219194025/www.nhk.or.jp/deep/index.html)
+  - [Shibuya Deep A](https://archive.is/20121219194025/www.nhk.or.jp/deep/index.html)
 
   -
-[Category:NHK綜藝節目](https://zh.wikipedia.org/wiki/Category:NHK綜藝節目 "wikilink")
-[Category:NHK深夜節目](https://zh.wikipedia.org/wiki/Category:NHK深夜節目 "wikilink")
-[Category:2007年日本電視節目](https://zh.wikipedia.org/wiki/Category:2007年日本電視節目 "wikilink")
+[Category:NHK綜藝節目](https://zh.wikipedia.org/wiki/Category:NHK綜藝節目 "wikilink") [Category:NHK深夜節目](https://zh.wikipedia.org/wiki/Category:NHK深夜節目 "wikilink") [Category:2007年日本電視節目](https://zh.wikipedia.org/wiki/Category:2007年日本電視節目 "wikilink")
 
-1.  1月28日因[国会議事堂衆議院本会議場的代表質問直播録画綜合電視台在同日](https://zh.wikipedia.org/wiki/国会議事堂 "wikilink")0:44
-    - 1:15縮短30分播放。
+1.  1月28日因[国会議事堂衆議院本会議場的代表質問直播録画綜合電視台在同日](https://zh.wikipedia.org/wiki/国会議事堂 "wikilink")0:44 - 1:15縮短30分播放。
 2.  その後『[大人ドリル](https://zh.wikipedia.org/wiki/大人ドリル "wikilink")』の聞き手となる。
 3.  当初は1〜2ヶ月に1度の出演だったが2008年度よりほぼ不定期で出演。

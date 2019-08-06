@@ -1,5 +1,4 @@
-「**Super Junior World Tour - "Super Show 5"**」是[Super
-Junior的第五次巡回演唱会](../Page/Super_Junior.md "wikilink")，于2013年3月23日在首尔揭幕，\[1\]后展开长达11个月的巡演，在全球20个城市举办28场演唱会。總人次數為45萬。
+「**Super Junior World Tour - "Super Show 5"**」是[Super Junior的第五次巡回演唱会](../Page/Super_Junior.md "wikilink")，于2013年3月23日在首尔揭幕，\[1\]后展开长达11个月的巡演，在全球20个城市举办28场演唱会。總人次數為45萬。
 
 [利特](../Page/利特.md "wikilink")因為入伍關係，所以沒參與這次演唱會的演出，[藝聲](../Page/藝聲.md "wikilink")於2013年5月入伍，因而只參加前半段的演唱會，[希澈](../Page/希澈.md "wikilink")在2013年8月底退伍後參加了中後期的演唱會表演。
 
@@ -236,10 +235,7 @@ Junior的第五次巡回演唱会](../Page/Super_Junior.md "wikilink")，于2013
 
   - [Super Junior 日本官方網站](http://superjunior-jp.net/)
 
-[Category:2013年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2013年巡迴演唱會 "wikilink")
-[Category:2014年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2014年巡迴演唱會 "wikilink")
-[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink")
-[Category:Super_Junior巡迴演唱會](https://zh.wikipedia.org/wiki/Category:Super_Junior巡迴演唱會 "wikilink")
+[Category:2013年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2013年巡迴演唱會 "wikilink") [Category:2014年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2014年巡迴演唱會 "wikilink") [Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:Super_Junior巡迴演唱會](https://zh.wikipedia.org/wiki/Category:Super_Junior巡迴演唱會 "wikilink")
 
 1.
 2.

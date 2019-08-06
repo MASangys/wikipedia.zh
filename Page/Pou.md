@@ -6,9 +6,7 @@
 
 ## 參考資料
 
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
-[Category:虛擬寵物](https://zh.wikipedia.org/wiki/Category:虛擬寵物 "wikilink")
+[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink") [Category:虛擬寵物](https://zh.wikipedia.org/wiki/Category:虛擬寵物 "wikilink")
 
 1.
 2.

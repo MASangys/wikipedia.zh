@@ -2,8 +2,7 @@
 
 ## 概述
 
-它可以让任何熟悉或不熟悉[程序设计](../Page/程序设计.md "wikilink")的人来创造基于[Android](../Page/Android.md "wikilink")操作系统的[应用软件](https://zh.wikipedia.org/wiki/应用软件 "wikilink")。它使用图形化界面，非常类似于[Scratch語言和StarLogo](https://zh.wikipedia.org/wiki/Scratch語言 "wikilink")
-TNG[用户界面](../Page/用户界面.md "wikilink")。用户可以[拖放图形对象来创造一个运行在安卓系统上的应用](https://zh.wikipedia.org/wiki/拖放 "wikilink")，它就可以在许多手机设备上运行。
+它可以让任何熟悉或不熟悉[程序设计](../Page/程序设计.md "wikilink")的人来创造基于[Android](../Page/Android.md "wikilink")操作系统的[应用软件](https://zh.wikipedia.org/wiki/应用软件 "wikilink")。它使用图形化界面，非常类似于[Scratch語言和StarLogo](https://zh.wikipedia.org/wiki/Scratch語言 "wikilink") TNG[用户界面](../Page/用户界面.md "wikilink")。用户可以[拖放图形对象来创造一个运行在安卓系统上的应用](https://zh.wikipedia.org/wiki/拖放 "wikilink")，它就可以在许多手机设备上运行。
 
 應用開發者團隊是由[哈尔·阿伯尔森](../Page/哈尔·阿伯尔森.md "wikilink")和馬克·弗里德曼領導。\[1\]
 
@@ -43,11 +42,7 @@ TNG[用户界面](../Page/用户界面.md "wikilink")。用户可以[拖放图�
 
   -
   -
-[Category:2010年软件](https://zh.wikipedia.org/wiki/Category:2010年软件 "wikilink")
-[Category:Google服务](https://zh.wikipedia.org/wiki/Category:Google服务 "wikilink")
-[Category:集成开发环境](https://zh.wikipedia.org/wiki/Category:集成开发环境 "wikilink")
-[Category:視覺化程式設計語言](https://zh.wikipedia.org/wiki/Category:視覺化程式設計語言 "wikilink")
-[Category:手机软件编程工具](https://zh.wikipedia.org/wiki/Category:手机软件编程工具 "wikilink")
+[Category:2010年软件](https://zh.wikipedia.org/wiki/Category:2010年软件 "wikilink") [Category:Google服务](https://zh.wikipedia.org/wiki/Category:Google服务 "wikilink") [Category:集成开发环境](https://zh.wikipedia.org/wiki/Category:集成开发环境 "wikilink") [Category:視覺化程式設計語言](https://zh.wikipedia.org/wiki/Category:視覺化程式設計語言 "wikilink") [Category:手机软件编程工具](https://zh.wikipedia.org/wiki/Category:手机软件编程工具 "wikilink")
 
 1.  见。
 2.

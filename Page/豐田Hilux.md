@@ -16,13 +16,7 @@
 
   - [武裝改裝車](https://zh.wikipedia.org/wiki/武裝改裝車 "wikilink")
 
-[Category:1968年面世的汽車](https://zh.wikipedia.org/wiki/Category:1968年面世的汽車 "wikilink")
-[Category:豐田車輛](https://zh.wikipedia.org/wiki/Category:豐田車輛 "wikilink")
-[Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink")
-[Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink")
-[Category:農夫車](https://zh.wikipedia.org/wiki/Category:農夫車 "wikilink")
+[Category:1968年面世的汽車](https://zh.wikipedia.org/wiki/Category:1968年面世的汽車 "wikilink") [Category:豐田車輛](https://zh.wikipedia.org/wiki/Category:豐田車輛 "wikilink") [Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink") [Category:四輪驅動](https://zh.wikipedia.org/wiki/Category:四輪驅動 "wikilink") [Category:農夫車](https://zh.wikipedia.org/wiki/Category:農夫車 "wikilink")
 
-1.  [Top Gear: Killing a Toyota
-    Part 1](https://www.youtube.com/watch?v=xnWKz7Cthkk) BBCWorldwide on
-    [YouTube](../Page/YouTube.md "wikilink"). Added: March 30, 2007
+1.  [Top Gear: Killing a Toyota Part 1](https://www.youtube.com/watch?v=xnWKz7Cthkk) BBCWorldwide on [YouTube](../Page/YouTube.md "wikilink"). Added: March 30, 2007
 2.

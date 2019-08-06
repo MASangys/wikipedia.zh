@@ -1,5 +1,4 @@
-**Burrows–Wheeler
-Transform**（简称BWT，也称作**块排序压缩**），是一个被应用在[数据压缩](../Page/数据压缩.md "wikilink")技术（如[bzip2](https://zh.wikipedia.org/wiki/bzip2 "wikilink")）中的[算法](../Page/算法.md "wikilink")。该算法于1994年被和在位于加利福尼亚州帕洛阿尔托的发明\[1\]。它的基础是之前Wheeler在1983年发明的一种没有公开的转换方法。
+**Burrows–Wheeler Transform**（简称BWT，也称作**块排序压缩**），是一个被应用在[数据压缩](../Page/数据压缩.md "wikilink")技术（如[bzip2](https://zh.wikipedia.org/wiki/bzip2 "wikilink")）中的[算法](../Page/算法.md "wikilink")。该算法于1994年被和在位于加利福尼亚州帕洛阿尔托的发明\[1\]。它的基础是之前Wheeler在1983年发明的一种没有公开的转换方法。
 
 当一个[字符串](../Page/字符串.md "wikilink")用该算法转换时，算法只改变这个字符串中字符的顺序而并不改变其字符。如果原字符串有几个出现多次的[子串](../Page/子串.md "wikilink")，那么转换过的字符串上就会有一些连续重复的字符，这对压缩是很有用的。该方法能使得基于处理字符串中连续重复字符的技术（如[MTF变换和](https://zh.wikipedia.org/wiki/:move-to-front_transform "wikilink")[游程编码](../Page/游程编码.md "wikilink")）的编码更容易被压缩。
 
@@ -32,45 +31,31 @@ Transform**（简称BWT，也称作**块排序压缩**），是一个被应用�
 | ---------------------- |
 | 输入                     |
 
-1.  2 经过1.1的转移、排序和组合，我们得到了7对邻接字符串：\<a$\> <na> <na> <ba> \<$b\> <an>
-    <an>，将这7对邻接字符串进行排序后，得到\<$b\> \<a$\> <an> <an> <ba> <na>
-    <na>，由此，我们得到了还原矩阵的第二列“b$nnaaa”
+1.  2 经过1.1的转移、排序和组合，我们得到了7对邻接字符串：\<a$\> <na> <na> <ba> \<$b\> <an> <an>，将这7对邻接字符串进行排序后，得到\<$b\> \<a$\> <an> <an> <ba> <na> <na>，由此，我们得到了还原矩阵的第二列“b$nnaaa”
 
 | Burrows–Wheeler 还原过程 2 |
 | ---------------------- |
 | 输入                     |
 
-1.  3 经过1.2的转移、排序和组合，我们得到了7对邻接字符串：\<a$b\> \<na$\> <nan> <ban> \<$ba\>
-    <ana> <ana>，将这7对邻接字符串进行排序后，得到\<$ba\> \<a$b\> <ana> <ana> <ban>
-    \<na$\> <nan>，由此，我们得到了还原矩阵的第三列“abaan$n”
+1.  3 经过1.2的转移、排序和组合，我们得到了7对邻接字符串：\<a$b\> \<na$\> <nan> <ban> \<$ba\> <ana> <ana>，将这7对邻接字符串进行排序后，得到\<$ba\> \<a$b\> <ana> <ana> <ban> \<na$\> <nan>，由此，我们得到了还原矩阵的第三列“abaan$n”
 
 | Burrows–Wheeler 还原过程 3 |
 | ---------------------- |
 | 输入                     |
 
-1.  4 经过1.3的转移、排序和组合，我们得到了7对邻接字符串：\<a$ba\> \<na$b\> <nana> <bana>
-    \<$ban\> \<ana$\> <anan>，将这7对邻接字符串进行排序后，得到\<$ban\> \< a$ba \>
-    \<ana$\> \< anan \> \< bana \> \< na$b \> \< nana
-    \>，由此，我们得到了还原矩阵的第四列“na$naba”
+1.  4 经过1.3的转移、排序和组合，我们得到了7对邻接字符串：\<a$ba\> \<na$b\> <nana> <bana> \<$ban\> \<ana$\> <anan>，将这7对邻接字符串进行排序后，得到\<$ban\> \< a$ba \> \<ana$\> \< anan \> \< bana \> \< na$b \> \< nana \>，由此，我们得到了还原矩阵的第四列“na$naba”
 
 | Burrows–Wheeler 还原过程 4 |
 | ---------------------- |
 | 输入                     |
 
-1.  5 经过1.4的转移、排序和组合，我们得到了7对邻接字符串：\<a$ban\> \<na$ba\> \<nana$\> <banan>
-    \<$bana\> \<ana$b\> <anana>，将这7对邻接字符串进行排序后，得到\<$bana\> \<a$ban\> \<
-    ana$b \> <anana> <banan> \<na$ba\>
-    \<nana$\>，由此，我们得到了还原矩阵的第五列“anbana$”
+1.  5 经过1.4的转移、排序和组合，我们得到了7对邻接字符串：\<a$ban\> \<na$ba\> \<nana$\> <banan> \<$bana\> \<ana$b\> <anana>，将这7对邻接字符串进行排序后，得到\<$bana\> \<a$ban\> \< ana$b \> <anana> <banan> \<na$ba\> \<nana$\>，由此，我们得到了还原矩阵的第五列“anbana$”
 
 | Burrows–Wheeler 还原过程 5 |
 | ---------------------- |
 | 输入                     |
 
-1.  6 经过1.5的转移、排序和组合，我们得到了7对邻接字符串：\<a$bana\> \<na$ban\> \<nana$b\>
-    <banaan> \<$banan\> \<ana$ba\>
-    \<anana$\>，将这7对邻接字符串进行排序后，得到\<$banan\>
-    \<a$bana\> \< ana$ba\> \<anana$\> <banana> \<na$ban\>
-    \<nana$b\>，由此，我们得到了还原矩阵的第六列“naa$anb”。
+1.  6 经过1.5的转移、排序和组合，我们得到了7对邻接字符串：\<a$bana\> \<na$ban\> \<nana$b\> <banaan> \<$banan\> \<ana$ba\> \<anana$\>，将这7对邻接字符串进行排序后，得到\<$banan\> \<a$bana\> \< ana$ba\> \<anana$\> <banana> \<na$ban\> \<nana$b\>，由此，我们得到了还原矩阵的第六列“naa$anb”。
 
 | Burrows–Wheeler 还原过程 5 |
 | ---------------------- |
@@ -151,29 +136,14 @@ def ibwt(r):
 
 ## 外部链接
 
-  - [Compression comparison of BWT based file
-    compressors](http://compressionratings.com/bwt.html)
-  - [Article by Mark Nelson on the
-    BWT](http://marknelson.us/1996/09/01/bwt/)
-  - [A Bijective String-Sorting Transform, by Gil and
-    Scott](http://bijective.dogma.net/00yyy.pdf)
-  - [Yuta's openbwt-v1.5.zip contains source code for various BWT
-    routines including BWTS for bijective
-    version](http://encode.ru/attachment.php?attachmentid=959&d=1249146089)
-  - [On Bijective Variants of the Burrows–Wheeler Transform, by
-    Kufleitner](http://arxiv.org/abs/0908.0239)
-  - [Blog
-    post](http://google-opensource.blogspot.com/2008/06/debuting-dcs-bwt-experimental-burrows.html)
-    and [project page](https://code.google.com/p/dcs-bwt-compressor/)
-    for an open-source compression program and library based on the
-    Burrows–Wheeler algorithm
-  - [MIT open courseware lecture on BWT (Foundations of Computational
-    and Systems Biology)](https://www.youtube.com/watch?v=P3ORBMon8aw)
+  - [Compression comparison of BWT based file compressors](http://compressionratings.com/bwt.html)
+  - [Article by Mark Nelson on the BWT](http://marknelson.us/1996/09/01/bwt/)
+  - [A Bijective String-Sorting Transform, by Gil and Scott](http://bijective.dogma.net/00yyy.pdf)
+  - [Yuta's openbwt-v1.5.zip contains source code for various BWT routines including BWTS for bijective version](http://encode.ru/attachment.php?attachmentid=959&d=1249146089)
+  - [On Bijective Variants of the Burrows–Wheeler Transform, by Kufleitner](http://arxiv.org/abs/0908.0239)
+  - [Blog post](http://google-opensource.blogspot.com/2008/06/debuting-dcs-bwt-experimental-burrows.html) and [project page](https://code.google.com/p/dcs-bwt-compressor/) for an open-source compression program and library based on the Burrows–Wheeler algorithm
+  - [MIT open courseware lecture on BWT (Foundations of Computational and Systems Biology)](https://www.youtube.com/watch?v=P3ORBMon8aw)
 
-[Category:Lossless_compression_algorithms](https://zh.wikipedia.org/wiki/Category:Lossless_compression_algorithms "wikilink")
-[Category:Transforms](https://zh.wikipedia.org/wiki/Category:Transforms "wikilink")
-[Category:Articles_with_example_pseudocode](https://zh.wikipedia.org/wiki/Category:Articles_with_example_pseudocode "wikilink")
-[Category:Articles_with_example_Python_code](https://zh.wikipedia.org/wiki/Category:Articles_with_example_Python_code "wikilink")
+[Category:Lossless_compression_algorithms](https://zh.wikipedia.org/wiki/Category:Lossless_compression_algorithms "wikilink") [Category:Transforms](https://zh.wikipedia.org/wiki/Category:Transforms "wikilink") [Category:Articles_with_example_pseudocode](https://zh.wikipedia.org/wiki/Category:Articles_with_example_pseudocode "wikilink") [Category:Articles_with_example_Python_code](https://zh.wikipedia.org/wiki/Category:Articles_with_example_Python_code "wikilink")
 
-1.  [Compression comparison of BWT based file
-    compressors](http://compressionratings.com/bwt.html)（英文）。
+1.  [Compression comparison of BWT based file compressors](http://compressionratings.com/bwt.html)（英文）。

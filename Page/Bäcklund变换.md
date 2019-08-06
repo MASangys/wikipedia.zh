@@ -37,15 +37,11 @@ v_t & = -u_t + \frac{2}{\beta} \sin \Bigl( \frac{v-u}{2} \Bigr)
 
 \[v_{xt} = \sin v.\,\]
 
-Bäcklund变换常用于求[Sine-Gordon方程](../Page/Sine-Gordon方程.md "wikilink")、[高维广义Burger
-I型方程](https://zh.wikipedia.org/wiki/高维广义Burger_I型方程 "wikilink")、[高维广义Burger
-II型方程的精确解](https://zh.wikipedia.org/wiki/高维广义Burger_II型方程 "wikilink")：\[3\]
+Bäcklund变换常用于求[Sine-Gordon方程](../Page/Sine-Gordon方程.md "wikilink")、[高维广义Burger I型方程](https://zh.wikipedia.org/wiki/高维广义Burger_I型方程 "wikilink")、[高维广义Burger II型方程的精确解](https://zh.wikipedia.org/wiki/高维广义Burger_II型方程 "wikilink")：\[3\]
 
 ## 解Sine-Gordon方程
 
-[Sine-gordon_kink2d.gif](https://zh.wikipedia.org/wiki/File:Sine-gordon_kink2d.gif "fig:Sine-gordon_kink2d.gif")
-[Sine-gordon_3D_animation1.gif](https://zh.wikipedia.org/wiki/File:Sine-gordon_3D_animation1.gif "fig:Sine-gordon_3D_animation1.gif")
-[Sine-gordon_3D_animation2.gif](https://zh.wikipedia.org/wiki/File:Sine-gordon_3D_animation2.gif "fig:Sine-gordon_3D_animation2.gif")
+[Sine-gordon_kink2d.gif](https://zh.wikipedia.org/wiki/File:Sine-gordon_kink2d.gif "fig:Sine-gordon_kink2d.gif") [Sine-gordon_3D_animation1.gif](https://zh.wikipedia.org/wiki/File:Sine-gordon_3D_animation1.gif "fig:Sine-gordon_3D_animation1.gif") [Sine-gordon_3D_animation2.gif](https://zh.wikipedia.org/wiki/File:Sine-gordon_3D_animation2.gif "fig:Sine-gordon_3D_animation2.gif")
 
 利用[Sine-Gordon方程](../Page/Sine-Gordon方程.md "wikilink")的自Bäcklund变换解Sine-Gordon方程：
 
@@ -85,8 +81,6 @@ II型方程的精确解](https://zh.wikipedia.org/wiki/高维广义Burger_II型�
 
 [Category:非线性偏微分方程](https://zh.wikipedia.org/wiki/Category:非线性偏微分方程 "wikilink")
 
-1.  Inna Shignareve and Carlos Lizarraga-Celaya, Solving Nonlinear
-    Partial Differential Equations with Maple and Methematica, p46,
-    Springer
+1.  Inna Shignareve and Carlos Lizarraga-Celaya, Solving Nonlinear Partial Differential Equations with Maple and Methematica, p46, Springer
 2.  阎振亚著《复杂非线性波的构造性理论及其应用》6页科学出版社2007年
 3.  阎振亚著《复杂非线性波的构造性理论及其应用》106-111页科学出版社2007年

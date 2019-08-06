@@ -7,8 +7,7 @@
 
 \(M\)的值大約是
 
-\[M\approx 0.261\ 497\ 212\ 847\ 642\ 783\ 755\ 426\ 838\ 608\ 695\ 859\ 0516\ldots\]
-.
+\[M\approx 0.261\ 497\ 212\ 847\ 642\ 783\ 755\ 426\ 838\ 608\ 695\ 859\ 0516\ldots\] .
 
 依，上述的極限存在。
 
@@ -26,9 +25,7 @@ Meissel-Mertens常数的極限定義中出現對數的對數，可以看成是[�
 ## 外部連結
 
   -
-  - [*On the remainder in a series of
-    Mertens*](https://web.archive.org/web/20110716104644/http://www.maths.lth.se/matematiklu/personal/jaak/Mertens,rest.ps)
-    (postscript file)
+  - [*On the remainder in a series of Mertens*](https://web.archive.org/web/20110716104644/http://www.maths.lth.se/matematiklu/personal/jaak/Mertens,rest.ps) (postscript file)
 
 s
 

@@ -14,11 +14,7 @@
 
 ## 外部链接
 
-[Category:白俄罗斯电力机车](https://zh.wikipedia.org/wiki/Category:白俄罗斯电力机车 "wikilink")
-[Category:Bo-Bo+Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo+Bo-Bo軸式機車 "wikilink")
-[Category:25千伏50赫兹交流电力机车](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力机车 "wikilink")
-[Category:中车大同制铁路机车](https://zh.wikipedia.org/wiki/Category:中车大同制铁路机车 "wikilink")
-[Category:中国出口电力机车](https://zh.wikipedia.org/wiki/Category:中国出口电力机车 "wikilink")
+[Category:白俄罗斯电力机车](https://zh.wikipedia.org/wiki/Category:白俄罗斯电力机车 "wikilink") [Category:Bo-Bo+Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo+Bo-Bo軸式機車 "wikilink") [Category:25千伏50赫兹交流电力机车](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力机车 "wikilink") [Category:中车大同制铁路机车](https://zh.wikipedia.org/wiki/Category:中车大同制铁路机车 "wikilink") [Category:中国出口电力机车](https://zh.wikipedia.org/wiki/Category:中国出口电力机车 "wikilink")
 
 1.
 2.

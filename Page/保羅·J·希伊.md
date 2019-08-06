@@ -10,12 +10,7 @@
 
 ## 參考
 
-[Category:麻薩諸塞州參議員](https://zh.wikipedia.org/wiki/Category:麻薩諸塞州參議員 "wikilink")
-[Category:麻薩諸塞州眾議員](https://zh.wikipedia.org/wiki/Category:麻薩諸塞州眾議員 "wikilink")
-[Category:美國民主黨員](https://zh.wikipedia.org/wiki/Category:美國民主黨員 "wikilink")
-[Category:美國律師](https://zh.wikipedia.org/wiki/Category:美國律師 "wikilink")
-[Category:律師出身的政治人物](https://zh.wikipedia.org/wiki/Category:律師出身的政治人物 "wikilink")
-[Category:麻薩諸塞州人](https://zh.wikipedia.org/wiki/Category:麻薩諸塞州人 "wikilink")
+[Category:麻薩諸塞州參議員](https://zh.wikipedia.org/wiki/Category:麻薩諸塞州參議員 "wikilink") [Category:麻薩諸塞州眾議員](https://zh.wikipedia.org/wiki/Category:麻薩諸塞州眾議員 "wikilink") [Category:美國民主黨員](https://zh.wikipedia.org/wiki/Category:美國民主黨員 "wikilink") [Category:美國律師](https://zh.wikipedia.org/wiki/Category:美國律師 "wikilink") [Category:律師出身的政治人物](https://zh.wikipedia.org/wiki/Category:律師出身的政治人物 "wikilink") [Category:麻薩諸塞州人](https://zh.wikipedia.org/wiki/Category:麻薩諸塞州人 "wikilink")
 
 1.
 
@@ -31,5 +26,4 @@
 
 8.
 
-9.  'Former Lowell senator, manager Sheehy dies,' LowellSun.com., Lyle
-    Morgan, March 10, 2014
+9.  'Former Lowell senator, manager Sheehy dies,' LowellSun.com., Lyle Morgan, March 10, 2014

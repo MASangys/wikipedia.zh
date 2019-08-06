@@ -12,8 +12,6 @@
 
 ## 参考来源
 
-[Category:使用Vocaloid的歌曲](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的歌曲 "wikilink")
-[Category:Vocaloid神話曲](https://zh.wikipedia.org/wiki/Category:Vocaloid神話曲 "wikilink")
-[Category:2007年歌曲](https://zh.wikipedia.org/wiki/Category:2007年歌曲 "wikilink")
+[Category:使用Vocaloid的歌曲](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的歌曲 "wikilink") [Category:Vocaloid神話曲](https://zh.wikipedia.org/wiki/Category:Vocaloid神話曲 "wikilink") [Category:2007年歌曲](https://zh.wikipedia.org/wiki/Category:2007年歌曲 "wikilink")
 
 1.

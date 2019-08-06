@@ -44,5 +44,4 @@
 
 ## 外部連結
 
-[Category:洪卓立音樂專輯](https://zh.wikipedia.org/wiki/Category:洪卓立音樂專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
+[Category:洪卓立音樂專輯](https://zh.wikipedia.org/wiki/Category:洪卓立音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")

@@ -1,65 +1,32 @@
-**Deep
-Silver**是一間電子遊戲開發商和出版商，公司創建於2002年，是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[跨國公司](../Page/跨國公司.md "wikilink")下屬的全資子公司。Deep
-Silver在英國、德國、意大利、奧地利、法國、瑞士和西班牙都設有分部\[1\]。截至2014年，Deep
-Sliver已經發行了超過200部作品，其中包括知名的《[地鐵系列](https://zh.wikipedia.org/wiki/模板:地鐵系列 "wikilink")》和《[死亡島系列](https://zh.wikipedia.org/wiki/死亡島系列 "wikilink")》遊戲。\[2\]\[3\]
+**Deep Silver**簡稱為「深銀」，是一間電子遊戲開發商和出版商，公司創建於2002年，是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[跨國公司](../Page/跨國公司.md "wikilink")下屬的全資子公司。Deep Silver在英國、德國、意大利、奧地利、法國、瑞士和西班牙都設有分部\[1\]。截至2014年，Deep Sliver已經發行了超過200部作品，其中包括知名的《[地鐵系列](https://zh.wikipedia.org/wiki/模板:地鐵系列 "wikilink")》和《[死亡島系列](https://zh.wikipedia.org/wiki/死亡島系列 "wikilink")》遊戲。\[2\]\[3\]
 
 ## 歷史
 
 Koch Media於2002年創立Deep Silver\[4\]，翌年開始發行遊戲\[5\]。
 
-2008年4月30日，Deep
-Silver在美國加利福尼亞州洛杉磯開設美國分部，負責美國的銷售、市場運營以及在北美地區的開發業務。同時也是在美國進行業務擴展的其中一部分。\[6\]
+2008年4月30日，Deep Silver在美國加利福尼亞州洛杉磯開設美國分部，負責美國的銷售、市場運營以及在北美地區的開發業務。同時也是在美國進行業務擴展的其中一部分。\[6\]
 
-2013年Deep Silver的業務得到大拓展。Koch
-Media順利在1月[THQ的破產拍賣中收購了](https://zh.wikipedia.org/wiki/THQ "wikilink")《[黑道聖徒](https://zh.wikipedia.org/wiki/黑道聖徒系列 "wikilink")》以及《地鐵》系列遊戲品牌，同時還收購了THQ的全資子公司[Volition](../Page/Volition_\(公司\).md "wikilink")。\[7\]雖然他們沒有提及收購價格，但據Joystiq獲得的資料顯示，這次收購耗資超過了2000萬美元。\[8\]此外，Koch
-Media也於當年12月收購了手機遊戲公司[Fishlabs
-Entertainment及其遊戲版權](https://zh.wikipedia.org/wiki/Fishlabs_Entertainment "wikilink")\[9\]。兩間公司成為Deep
-Silver的子公司。Deep
-Silver也於當年宣布進入[手機遊戲界](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")\[10\]。2014年7月底，他們又從[Crytek](../Page/Crytek.md "wikilink")手上收購了《國土防線》系列的版權，並新建了工作室Dambuster
-Studios接手續作遊戲開發。\[11\]
+2013年Deep Silver的業務得到大拓展。Koch Media順利在1月[THQ的破產拍賣中收購了](https://zh.wikipedia.org/wiki/THQ "wikilink")《[黑道聖徒](https://zh.wikipedia.org/wiki/黑道聖徒系列 "wikilink")》以及《地鐵》系列遊戲品牌，同時還收購了THQ的全資子公司[Volition](../Page/Volition_\(公司\).md "wikilink")。\[7\]雖然他們沒有提及收購價格，但據Joystiq獲得的資料顯示，這次收購耗資超過了2000萬美元。\[8\]此外，Koch Media也於當年12月收購了手機遊戲公司[Fishlabs Entertainment及其遊戲版權](https://zh.wikipedia.org/wiki/Fishlabs_Entertainment "wikilink")\[9\]。兩間公司成為Deep Silver的子公司。Deep Silver也於當年宣布進入[手機遊戲界](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")\[10\]。2014年7月底，他們又從[Crytek](../Page/Crytek.md "wikilink")手上收購了《國土防線》系列的版權，並新建了工作室Dambuster Studios接手續作遊戲開發。\[11\]
 
-2018年2月，奥地利游戏公司[THQ Nordic宣布收购](../Page/THQ_Nordic.md "wikilink")，而Deep
-Silver作为子公司也一并被收购。而《黑道圣徒》、《地铁》以及《家园前线》等原THQ发行的游戏系列也回到新的THQ手中。\[12\]
+2018年2月，奥地利游戏公司[THQ Nordic宣布收购](../Page/THQ_Nordic.md "wikilink")，而Deep Silver作为子公司也一并被收购。而《黑道圣徒》、《地铁》以及《家园前线》等原THQ发行的游戏系列也回到新的THQ手中。\[12\]
 
 ### 爭議
 
-2013年1月15日，Deep
-Silver公佈了《[死亡島：激流](https://zh.wikipedia.org/wiki/死亡島：激流 "wikilink")》限定版本——Zombie
-Bait版。該版本除了遊戲之外，還包含了一具身穿比基尼泳衣、殭屍化的女性身體軀幹塑像模型。此舉在發布當天立即引發爭議和強烈抨擊，Deep
-Silver在當天下午為他們決定道歉，並在社交媒體[Twitter](../Page/Twitter.md "wikilink")上發布了道歉公告。\[13\]
+2013年1月15日，Deep Silver公佈了《[死亡島：激流](https://zh.wikipedia.org/wiki/死亡島：激流 "wikilink")》限定版本——Zombie Bait版。該版本除了遊戲之外，還包含了一具身穿比基尼泳衣、殭屍化的女性身體軀幹塑像模型。此舉在發布當天立即引發爭議和強烈抨擊，Deep Silver在當天下午為他們決定道歉，並在社交媒體[Twitter](../Page/Twitter.md "wikilink")上發布了道歉公告。\[13\]
 
 ## 子公司
 
-Deep Silver的第一間子工作室是2007年成立的Deep Silver
-Vienna，辦公地點位於維奧地利也納。\[14\]它的前身是Games
-That Matter Productions GmbH，由Hannes Seifert、Niki Laber和Jürgen
-Goeldner在2006年創辦，並在翌年營運。\[15\]Hannes Seifert和Niki Laber兩人是[Rockstar
-Vienna的前創始人](../Page/Rockstar_Vienna.md "wikilink")，他們在2006年5月公司結業後創辦了GTH。\[16\]GTH在2007年被Koch
-Media收購，併入Deep Silver，成為Deep
-Siliver擁有的第一間工作室\[17\]。工作室在併入後開發了第一款、也是最後一款遊戲《[Cursed
-Mountain](https://zh.wikipedia.org/wiki/Cursed_Mountain "wikilink")》。這是一款[Wii](../Page/Wii.md "wikilink")平台獨占的驚悚[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，於2009年8月25日發行。\[18\]2010年，工作室因為當時整體的經濟情況而遭到關閉。\[19\]\[20\]
+Deep Silver的第一間子工作室是2007年成立的Deep Silver Vienna，辦公地點位於維奧地利也納。\[14\]它的前身是Games That Matter Productions GmbH，由Hannes Seifert、Niki Laber和Jürgen Goeldner在2006年創辦，並在翌年營運。\[15\]Hannes Seifert和Niki Laber兩人是[Rockstar Vienna的前創始人](../Page/Rockstar_Vienna.md "wikilink")，他們在2006年5月公司結業後創辦了GTH。\[16\]GTH在2007年被Koch Media收購，併入Deep Silver，成為Deep Siliver擁有的第一間工作室\[17\]。工作室在併入後開發了第一款、也是最後一款遊戲《[Cursed Mountain](https://zh.wikipedia.org/wiki/Cursed_Mountain "wikilink")》。這是一款[Wii](../Page/Wii.md "wikilink")平台獨占的驚悚[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，於2009年8月25日發行。\[18\]2010年，工作室因為當時整體的經濟情況而遭到關閉。\[19\]\[20\]
 
 目前，Deep Silver擁有以下的工作室：
 
-  - [Fishlabs
-    Entertainment](https://zh.wikipedia.org/wiki/Fishlabs_Entertainment "wikilink")（全稱**Deep
-    Silver FISHLABS**）位於德國漢堡。公司建於2004年，2013年12月被Koch Media收購，成為Deep
-    Silver子工作室。\[21\]
-  - [Volition](../Page/Volition_\(公司\).md "wikilink")（全稱**Deep Silver
-    Volition,
-    LLC**），於1996在美國伊利諾伊州[尚佩恩成立](https://zh.wikipedia.org/wiki/尚佩恩_\(伊利諾伊州\) "wikilink")，是《黑道聖徒》系列遊戲的開發公司。此前它是THQ的全資子公司。而在THQ破產後，Koch
-    Media在2013年1月的破產拍賣會上收購了Volition，一併被收購的還有[《黑街聖徒》系列的版權](../Page/黑街聖徒系列.md "wikilink")。\[22\]
-  - [Dambuster
-    Studios](https://zh.wikipedia.org/wiki/Dambuster_Studios "wikilink")（全稱**Deep
-    Silver Dambuster Studios**）於2014年7月30日創建，位於英格蘭諾丁漢。當日和Deep
-    Silver宣布收購了[Crytek](../Page/Crytek.md "wikilink")旗下的《國土防線》系列，公司將遊戲續作《國土防線：革命》的開發交由Dambuster
-    Studios負責。\[23\]
+  - [Fishlabs Entertainment](https://zh.wikipedia.org/wiki/Fishlabs_Entertainment "wikilink")（全稱**Deep Silver FISHLABS**）位於德國漢堡。公司建於2004年，2013年12月被Koch Media收購，成為Deep Silver子工作室。\[21\]
+  - [Volition](../Page/Volition_\(公司\).md "wikilink")（全稱**Deep Silver Volition, LLC**），於1996在美國伊利諾伊州[尚佩恩成立](https://zh.wikipedia.org/wiki/尚佩恩_\(伊利諾伊州\) "wikilink")，是《黑道聖徒》系列遊戲的開發公司。此前它是THQ的全資子公司。而在THQ破產後，Koch Media在2013年1月的破產拍賣會上收購了Volition，一併被收購的還有[《黑街聖徒》系列的版權](../Page/黑街聖徒系列.md "wikilink")。\[22\]
+  - [Dambuster Studios](https://zh.wikipedia.org/wiki/Dambuster_Studios "wikilink")（全稱**Deep Silver Dambuster Studios**）於2014年7月30日創建，位於英格蘭諾丁漢。當日和Deep Silver宣布收購了[Crytek](../Page/Crytek.md "wikilink")旗下的《國土防線》系列，公司將遊戲續作《國土防線：革命》的開發交由Dambuster Studios負責。\[23\]
 
 ## 遊戲
 
-Deep
-Silver發行或製作了許多知名的遊戲，例如[動作角色扮演](../Page/動作角色扮演遊戲.md "wikilink")[驚悚遊戲系列](https://zh.wikipedia.org/wiki/驚悚遊戲 "wikilink")《死亡島》、[第一人稱射擊](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")[驚悚遊戲系列](https://zh.wikipedia.org/wiki/驚悚遊戲 "wikilink")《地鐵》和[開放世界](../Page/開放世界.md "wikilink")[動作冒險遊戲](https://zh.wikipedia.org/wiki/動作冒險遊戲 "wikilink")《黑道聖徒IV》等，這些作品為公司帶來豐厚的利潤\[24\]。以下只列出Deep
-Silver發行或製作的遊戲，其子工作室在未併入前的作品不予列出。\[25\]
+Deep Silver發行或製作了許多知名的遊戲，例如[動作角色扮演](../Page/動作角色扮演遊戲.md "wikilink")[驚悚遊戲系列](https://zh.wikipedia.org/wiki/驚悚遊戲 "wikilink")《死亡島》、[第一人稱射擊](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")[驚悚遊戲系列](https://zh.wikipedia.org/wiki/驚悚遊戲 "wikilink")《地鐵》和[開放世界](../Page/開放世界.md "wikilink")[動作冒險遊戲](https://zh.wikipedia.org/wiki/動作冒險遊戲 "wikilink")《黑道聖徒IV》等，這些作品為公司帶來豐厚的利潤\[24\]。以下只列出Deep Silver發行或製作的遊戲，其子工作室在未併入前的作品不予列出。\[25\]
 
 <table>
 <thead>
@@ -529,20 +496,13 @@ Silver發行或製作的遊戲，其子工作室在未併入前的作品不予�
 ## 外部連結
 
   -
-  - [Deep
-    Silver](https://web.archive.org/web/20140729195140/http://www.ign.com/companies/deep-silver)，IGN
+  - [Deep Silver](https://web.archive.org/web/20140729195140/http://www.ign.com/companies/deep-silver)，IGN
 
-  - Koch Media官方網站上關於[Deep
-    Silver](https://web.archive.org/web/20140702135620/http://www.kochmedia.com/games/deep-silver.html)的簡介
+  - Koch Media官方網站上關於[Deep Silver](https://web.archive.org/web/20140702135620/http://www.kochmedia.com/games/deep-silver.html)的簡介
 
-  - [MobyGames上對](https://zh.wikipedia.org/wiki/MobyGames "wikilink")[Deep
-    Silver](http://www.mobygames.com/company/deep-silver)的記述
+  - [MobyGames上對](https://zh.wikipedia.org/wiki/MobyGames "wikilink")[Deep Silver](http://www.mobygames.com/company/deep-silver)的記述
 
-[Category:Deep_Silver](https://zh.wikipedia.org/wiki/Category:Deep_Silver "wikilink")
-[Category:2002年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2002年開業電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
-[Category:THQ_Nordic](https://zh.wikipedia.org/wiki/Category:THQ_Nordic "wikilink")
+[Category:Deep_Silver](https://zh.wikipedia.org/wiki/Category:Deep_Silver "wikilink") [Category:2002年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2002年開業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink") [Category:THQ_Nordic](https://zh.wikipedia.org/wiki/Category:THQ_Nordic "wikilink")
 
 1.
 
@@ -563,8 +523,7 @@ Silver發行或製作的遊戲，其子工作室在未併入前的作品不予�
 10.
 11.
 
-12. [THQ Nordic acquires Deep Silver, meaning Saints Row is back at
-    THQ](https://www.polygon.com/2018/2/14/17011564/thq-nordic-koch-media-deep-silver-saints-row-homefront-dead-island).Polygon.2018-02-14.\[2018-02-22\].
+12. [THQ Nordic acquires Deep Silver, meaning Saints Row is back at THQ](https://www.polygon.com/2018/2/14/17011564/thq-nordic-koch-media-deep-silver-saints-row-homefront-dead-island).Polygon.2018-02-14.\[2018-02-22\].
 
 13.
 

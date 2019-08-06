@@ -1,8 +1,6 @@
-**Guilty Dragon
-罪龍與八個詛咒**（）為[NBGI於](https://zh.wikipedia.org/wiki/NBGI "wikilink")2012年10月9日開始配信的[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")用[線上](https://zh.wikipedia.org/wiki/線上 "wikilink")[卡片戰鬥](https://zh.wikipedia.org/wiki/卡片戰鬥 "wikilink")[RPG](https://zh.wikipedia.org/wiki/RPG "wikilink")。略稱為『罪龍八咒』。
+**Guilty Dragon 罪龍與八個詛咒**（）為[NBGI於](https://zh.wikipedia.org/wiki/NBGI "wikilink")2012年10月9日開始配信的[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")用[線上](https://zh.wikipedia.org/wiki/線上 "wikilink")[卡片戰鬥](https://zh.wikipedia.org/wiki/卡片戰鬥 "wikilink")[RPG](https://zh.wikipedia.org/wiki/RPG "wikilink")。略稱為『罪龍八咒』。
 
-本條目含有『[コンプティーク](https://zh.wikipedia.org/wiki/コンプティーク "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")）所連載的漫畫版『**ギルドラG　ギルティドラゴン〜罪竜と八つの呪い〜
-A GAG CONCEPT**』部分內容解説。
+本條目含有『[コンプティーク](https://zh.wikipedia.org/wiki/コンプティーク "wikilink")』（[角川書店](../Page/角川書店.md "wikilink")）所連載的漫畫版『**ギルドラG　ギルティドラゴン〜罪竜と八つの呪い〜 A GAG CONCEPT**』部分內容解説。
 
 ## 概要
 
@@ -103,7 +101,4 @@ A GAG CONCEPT**』部分內容解説。
 
 {{.hack系列}}
 
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:.hack系列电子游戏](https://zh.wikipedia.org/wiki/Category:.hack系列电子游戏 "wikilink")
+[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:.hack系列电子游戏](https://zh.wikipedia.org/wiki/Category:.hack系列电子游戏 "wikilink")

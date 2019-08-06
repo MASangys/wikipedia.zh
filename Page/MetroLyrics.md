@@ -7,7 +7,6 @@
   -
   - [Facebook上的MetroLyrics专页](http://facebook.com/metrolyrics)
 
-[Category:加拿大网站](https://zh.wikipedia.org/wiki/Category:加拿大网站 "wikilink")
-[Category:2002年建立的网站](https://zh.wikipedia.org/wiki/Category:2002年建立的网站 "wikilink")
+[Category:加拿大网站](https://zh.wikipedia.org/wiki/Category:加拿大网站 "wikilink") [Category:2002年建立的网站](https://zh.wikipedia.org/wiki/Category:2002年建立的网站 "wikilink")
 
 1.

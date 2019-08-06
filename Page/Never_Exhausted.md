@@ -1,5 +1,4 @@
-《**Never
-Exhausted**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王浩信](../Page/王浩信.md "wikilink")的首張專輯，於2006年5月9日推出。專輯第一主打是《訊號》，第二主打則為《別怕》；隨專輯附送一張DVD，內含六首歌曲的音樂錄影帶\[1\]。
+《**Never Exhausted**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[王浩信](../Page/王浩信.md "wikilink")的首張專輯，於2006年5月9日推出。專輯第一主打是《訊號》，第二主打則為《別怕》；隨專輯附送一張DVD，內含六首歌曲的音樂錄影帶\[1\]。
 
 ## 曲目
 
@@ -34,8 +33,7 @@ Exhausted**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.m
 ## 獎項
 
   - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")2006 — 新城勁爆合唱歌曲《愛與被愛》
-  - 2006年度[十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")
-    —最受歡迎合唱歌曲獎 銀獎《愛與被愛》
+  - 2006年度[十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink") —最受歡迎合唱歌曲獎 銀獎《愛與被愛》
 
 ## 備註
 
@@ -47,8 +45,6 @@ Exhausted**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.m
 
 </div>
 
-[Category:王浩信音樂專輯](https://zh.wikipedia.org/wiki/Category:王浩信音樂專輯 "wikilink")
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:王浩信音樂專輯](https://zh.wikipedia.org/wiki/Category:王浩信音樂專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.

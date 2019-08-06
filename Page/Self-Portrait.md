@@ -1,10 +1,8 @@
-**《Self-Portrait》**為[林峯第六張個人粵語專輯](https://zh.wikipedia.org/wiki/林峯 "wikilink")（亦為第七張個人專輯），此專輯於2012年8月17日推出發行，隨碟附送4首Music
-Video。
+**《Self-Portrait》**為[林峯第六張個人粵語專輯](https://zh.wikipedia.org/wiki/林峯 "wikilink")（亦為第七張個人專輯），此專輯於2012年8月17日推出發行，隨碟附送4首Music Video。
 
 ## 曲目列表
 
-《Self-Portrait》共收錄了11首歌曲及4首歌曲的音樂錄影帶（包括「頑石」、「Because of You」、「一刀切」、「I'm
-Okay」）。
+《Self-Portrait》共收錄了11首歌曲及4首歌曲的音樂錄影帶（包括「頑石」、「Because of You」、「一刀切」、「I'm Okay」）。
 
 |        |                |                            |        |                                    |                |            |
 | ------ | -------------- | -------------------------- | ------ | ---------------------------------- | -------------- | ---------- |
@@ -24,32 +22,19 @@ Okay」）。
 ## 所獲獎項
 
   - 2012[勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")第二回：得獎歌曲 - 《頑石》
-  - 2012[勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")第二回：得獎歌曲 - 最受歡迎華語歌曲獎 -
-    《頑石點頭》
-  - [新城國語力頒獎禮](../Page/新城國語力頒獎禮.md "wikilink")[2012](../Page/2012年度新城國語力頒獎禮得獎名單.md "wikilink")：新城國語力歌曲
-    - 《頑石點頭》
-  - [TVB8金曲榜頒獎典禮](https://zh.wikipedia.org/wiki/TVB8金曲榜頒獎典禮 "wikilink")[2012](../Page/2012年度TVB8金曲榜頒獎典禮得獎名單.md "wikilink")：金曲獎
-    - 《頑石點頭》
-  - [TVB8金曲榜頒獎典禮](https://zh.wikipedia.org/wiki/TVB8金曲榜頒獎典禮 "wikilink")[2012](../Page/2012年度TVB8金曲榜頒獎典禮得獎名單.md "wikilink")：全球觀眾最愛粵語歌曲
-    - 《頑石》
-  - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")[2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink")：新城勁爆國語歌曲獎
-    - 《頑石點頭》
-  - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")[2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink")：新城勁爆原創歌曲
-    - 《頑石》
-  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")[2012](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink")：最受歡迎華語歌曲獎銅獎
-    - 《頑石點頭》
-  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")[2012](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink")：最佳填詞獎
-    - 林夕—《頑石》
-  - [SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")[2012](../Page/2012年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")：最高收聽率20大歌曲
-    - 《頑石》
-  - [SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")[2012](../Page/2012年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")：最高收視MV大獎
-    - 《頑石》
+  - 2012[勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")第二回：得獎歌曲 - 最受歡迎華語歌曲獎 - 《頑石點頭》
+  - [新城國語力頒獎禮](../Page/新城國語力頒獎禮.md "wikilink")[2012](../Page/2012年度新城國語力頒獎禮得獎名單.md "wikilink")：新城國語力歌曲 - 《頑石點頭》
+  - [TVB8金曲榜頒獎典禮](https://zh.wikipedia.org/wiki/TVB8金曲榜頒獎典禮 "wikilink")[2012](../Page/2012年度TVB8金曲榜頒獎典禮得獎名單.md "wikilink")：金曲獎 - 《頑石點頭》
+  - [TVB8金曲榜頒獎典禮](https://zh.wikipedia.org/wiki/TVB8金曲榜頒獎典禮 "wikilink")[2012](../Page/2012年度TVB8金曲榜頒獎典禮得獎名單.md "wikilink")：全球觀眾最愛粵語歌曲 - 《頑石》
+  - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")[2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink")：新城勁爆國語歌曲獎 - 《頑石點頭》
+  - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")[2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink")：新城勁爆原創歌曲 - 《頑石》
+  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")[2012](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink")：最受歡迎華語歌曲獎銅獎 - 《頑石點頭》
+  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")[2012](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink")：最佳填詞獎 - 林夕—《頑石》
+  - [SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")[2012](../Page/2012年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")：最高收聽率20大歌曲 - 《頑石》
+  - [SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")[2012](../Page/2012年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")：最高收視MV大獎 - 《頑石》
   - [IFPI香港唱片銷量大獎頒獎典禮](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎 "wikilink")2012：十大銷量廣東唱片
   - 第十七屆全球華語榜中榜音樂大典頒獎典禮：榜中榜年度金曲獎 - 《頑石點頭》
-  - [第十三届](https://zh.wikipedia.org/wiki/第十三屆全球華語歌曲排行榜 "wikilink")[全球華語歌曲排行榜](../Page/全球華語歌曲排行榜.md "wikilink")頒獎典禮
-    ：年度二十大金曲 - 《頑石點頭》
+  - [第十三届](https://zh.wikipedia.org/wiki/第十三屆全球華語歌曲排行榜 "wikilink")[全球華語歌曲排行榜](../Page/全球華語歌曲排行榜.md "wikilink")頒獎典禮 ：年度二十大金曲 - 《頑石點頭》
 
 ## 銷售情況
 
@@ -60,13 +45,10 @@ Okay」）。
 
   - [英皇娛樂官網](https://web.archive.org/web/20121113144739/http://www.eegmusic.com/artist/album.php/view/215/630)
   - [yesasia.com(CD+DVD+海報)](http://www.yesasia.com/global/self-portrait-cd-dvd/1031312196-0-0-0-zh_TW/info.html)
-  - [豆瓣音樂『《Self
-    Portrait》：最好的林峯』](http://music.douban.com/review/5560965/)
+  - [豆瓣音樂『《Self Portrait》：最好的林峯』](http://music.douban.com/review/5560965/)
 
 ## 資料來源
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:林峯音樂專輯](https://zh.wikipedia.org/wiki/Category:林峯音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:林峯音樂專輯](https://zh.wikipedia.org/wiki/Category:林峯音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
 
 1.

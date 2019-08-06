@@ -1,27 +1,22 @@
-《**假面騎士×假面騎士 鎧武 & Wizard
-天下決勝之戰國MOVIE大合戰**》（），是日本特攝節目《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》和《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》聯動劇場版，「MOVIE大戰系列」第5部作品。日本地區於2013年12月14日上映。
+《**假面騎士×假面騎士 鎧武 & Wizard 天下決勝之戰國MOVIE大合戰**》（），是日本特攝節目《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》和《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》聯動劇場版，「MOVIE大戰系列」第5部作品。日本地區於2013年12月14日上映。
 
 ## 本作特色
 
   - 本作為平成假面騎士系列第15部紀念作，及紀念原作者[石之森章太郎](../Page/石之森章太郎.md "wikilink")誕生75週年的首部劇場版。
   - 歷代平成假面騎士會在此作內再次登場。
-  - 本作劇場版的口號為「豪華絢爛
-    平成假面騎士系列第15部作品記念」、「假面騎士戰國激戰繪卷！」、「Wizard、最強敵人現身！？鎧武、為了同伴的激鬥！！」
+  - 本作劇場版的口號為「豪華絢爛 平成假面騎士系列第15部作品記念」、「假面騎士戰國激戰繪卷！」、「Wizard、最強敵人現身！？鎧武、為了同伴的激鬥！！」
 
 ## 故事概要
 
 **假面騎士Wizard「約定的地方」**
 
   -
-    **魅影（Phantom）**餘黨之一的**食人魔**作亂，為了令自身力量變得強大而把同類當作餌食，指環之魔法使**操真晴人 /
-    假面騎士Wizard**因體內寄宿魅影的關係而被對方盯上。再次赴上戰場迎戰時，本已逝去的**曆**竟然出現在面前並變身成為**白色魔法使**。
+    **魅影（Phantom）**餘黨之一的**食人魔**作亂，為了令自身力量變得強大而把同類當作餌食，指環之魔法使**操真晴人 / 假面騎士Wizard**因體內寄宿魅影的關係而被對方盯上。再次赴上戰場迎戰時，本已逝去的**曆**竟然出現在面前並變身成為**白色魔法使**。
 
 **假面騎士鎧武「戰極Battle Royale！」**
 
   -
-    在**澤芽市**內**「Armored Rider」**之間的鬥技場「戰極Battle Royale」開幕，**葛葉紘汰 /
-    假面騎士鎧武**、**驅紋戒斗 / 幪面超人巴隆**、**吳島光實 /
-    幪面超人龍玄**等人開始應戰的時候，卻突然出現時空裂縫及神秘的怪人，眾人掉進裂縫中而到達被稱為「武神」的假面騎士們群雄割據的世界之中。對突如其來的事態存在困惑時，最強的**「武神鎧武」**站立在前。
+    在**澤芽市**內**「Armored Rider」**之間的鬥技場「戰極Battle Royale」開幕，**葛葉紘汰 / 假面騎士鎧武**、**驅紋戒斗 / 幪面超人巴隆**、**吳島光實 / 幪面超人龍玄**等人開始應戰的時候，卻突然出現時空裂縫及神秘的怪人，眾人掉進裂縫中而到達被稱為「武神」的假面騎士們群雄割據的世界之中。對突如其來的事態存在困惑時，最強的**「武神鎧武」**站立在前。
 
 ## 用語
 
@@ -241,8 +236,7 @@
   -
     原文：
 
-  - :外表酷似假面騎士鎧武的武神，以「Blood Orange」定鎖種子變身的形態，專用武裝同樣是Musou
-    Saber以及赤色的大橙丸。
+  - :外表酷似假面騎士鎧武的武神，以「Blood Orange」定鎖種子變身的形態，專用武裝同樣是Musou Saber以及赤色的大橙丸。
     :於戰極時代自成一方作為武將，為奪取和統一天下而率領怪人兵團剿除各方武神，並奪走武神力量將之寄宿於神木內。
 
 #### 變身模式
@@ -313,8 +307,7 @@
 
   -
     原文： / *Naginata Musou Slicer*
-    無雙軍刀與大橙丸連接上的「薙刀模式」狀態下，劍柄位置的「Drive Launch」裝上「Blood
-    Orange」定鎖種子後發動的必殺技。以血橙型能量光球拘束敵人後再衝上前砍下致命一擊。
+    無雙軍刀與大橙丸連接上的「薙刀模式」狀態下，劍柄位置的「Drive Launch」裝上「Blood Orange」定鎖種子後發動的必殺技。以血橙型能量光球拘束敵人後再衝上前砍下致命一擊。
 
 ### 假面騎士Wizard
 
@@ -731,8 +724,7 @@ Fourze鎧甲</p></td>
 **假面騎士Wizard**
 
   - 操真晴人 / 假面騎士Wizard - [白石隼也](../Page/白石隼也.md "wikilink") 飾/聲
-  - 曆 / 白色魔法使 - [奥仲麻琴](https://zh.wikipedia.org/wiki/奥仲麻琴 "wikilink")
-    飾/聲
+  - 曆 / 白色魔法使 - [奥仲麻琴](https://zh.wikipedia.org/wiki/奥仲麻琴 "wikilink") 飾/聲
   - 仁藤攻介 / 假面騎士Beast - [永瀨匡](../Page/永瀨匡.md "wikilink") 飾/聲
   - 大門凛子 - [高山侑子](../Page/高山侑子.md "wikilink") 飾
   - 奈良瞬平 - [戶塚純貴](https://zh.wikipedia.org/wiki/戶塚純貴 "wikilink") 飾
@@ -749,9 +741,7 @@ Fourze鎧甲</p></td>
   - 葛葉紘汰 / 假面騎士鎧武 - [佐野岳](../Page/佐野岳.md "wikilink") 飾/聲
   - 驅紋戒斗 / 假面騎士巴隆 - [小林豐](../Page/小林豐.md "wikilink") 飾/聲
   - 吳島光實 / 假面騎士龍玄 - [高杉真宙](../Page/高杉真宙.md "wikilink") 飾/聲
-  - 吳島貴虎 / 假面騎士斬月 -
-    [久保田悠來](https://zh.wikipedia.org/wiki/久保田悠來 "wikilink")
-    飾/聲
+  - 吳島貴虎 / 假面騎士斬月 - [久保田悠來](https://zh.wikipedia.org/wiki/久保田悠來 "wikilink") 飾/聲
   - 高司舞、謎之少女 - [志田友美](https://zh.wikipedia.org/wiki/志田友美 "wikilink") 飾
   - Chucky - [津山香音](https://zh.wikipedia.org/wiki/津山香音 "wikilink") 飾
   - Rika -  飾
@@ -761,8 +751,7 @@ Fourze鎧甲</p></td>
   - 初瀬亮二 / 假面騎士黑影 -  飾/聲
   - 城乃内秀保 / 假面騎士古列頓 -  飾/聲
   - DJ相樂 - [山口智充](../Page/山口智充.md "wikilink") 飾
-  - 「Team.波普起躍（Popup）」 - [KAMEN RIDER
-    GIRLS](https://zh.wikipedia.org/wiki/KAMEN_RIDER_GIRLS "wikilink")（安田奈央、吉住繪里加、名倉かおり、井坂仁美、遠藤三貴、秋田知里、鷲見友美Jiena）飾
+  - 「Team.波普起躍（Popup）」 - [KAMEN RIDER GIRLS](https://zh.wikipedia.org/wiki/KAMEN_RIDER_GIRLS "wikilink")（安田奈央、吉住繪里加、名倉かおり、井坂仁美、遠藤三貴、秋田知里、鷲見友美Jiena）飾
   - 「Team.蒼天」 - THE☆JACABAL'S（重住綾、阿部Potato、綿屋十目治、竹本洋平、真山奈緒）飾
   - 蘭丸 -  飾
   - 家康 -  飾
@@ -798,24 +787,19 @@ Fourze鎧甲</p></td>
 
 ## 其他相關媒體
 
-  - **《假面騎士×假面騎士 鎧武 & Wizard
-    天下決勝之戰國MOVIE大合戰》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD通常版](https://zh.wikipedia.org/wiki/DVD "wikilink")（2014年5月9日發行）
-  - **《假面騎士×假面騎士 鎧武 & Wizard
-    天下決勝之戰國MOVIE大合戰》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD珍藏版](https://zh.wikipedia.org/wiki/DVD "wikilink")（2014年5月9日發行）
+  - **《假面騎士×假面騎士 鎧武 & Wizard 天下決勝之戰國MOVIE大合戰》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD通常版](https://zh.wikipedia.org/wiki/DVD "wikilink")（2014年5月9日發行）
+  - **《假面騎士×假面騎士 鎧武 & Wizard 天下決勝之戰國MOVIE大合戰》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD珍藏版](https://zh.wikipedia.org/wiki/DVD "wikilink")（2014年5月9日發行）
 
 ## 製作人員
 
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")
   - 導演 -
   - 劇本 - [香村純子](../Page/香村純子.md "wikilink")（Wizard）、毛利亘宏（鎧武、戰國MOVIE大合戰）
-  - 配樂 -
-    [山下康介](../Page/山下康介.md "wikilink")、[中川幸太郎](../Page/中川幸太郎.md "wikilink")
+  - 配樂 - [山下康介](../Page/山下康介.md "wikilink")、[中川幸太郎](../Page/中川幸太郎.md "wikilink")
   - 動作指導 -
   - 特攝導演 -
-  - 製作 -
-    （[東映](../Page/東映.md "wikilink")）、（[朝日電視台](../Page/朝日電視台.md "wikilink")）、日達長夫（）、和田修治（[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")）、（）、古澤圭亮（[萬代](../Page/萬代.md "wikilink")）
-  - 企劃 -
-    有川俊（[東映](../Page/東映.md "wikilink")）、林雄一郎（[朝日電視台](../Page/朝日電視台.md "wikilink")）、加藤和夫（）、波多野淳一（[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")）、服部聰（）、石田忠也（[萬代](../Page/萬代.md "wikilink")）
+  - 製作 - （[東映](../Page/東映.md "wikilink")）、（[朝日電視台](../Page/朝日電視台.md "wikilink")）、日達長夫（）、和田修治（[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")）、（）、古澤圭亮（[萬代](../Page/萬代.md "wikilink")）
+  - 企劃 - 有川俊（[東映](../Page/東映.md "wikilink")）、林雄一郎（[朝日電視台](../Page/朝日電視台.md "wikilink")）、加藤和夫（）、波多野淳一（[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")）、服部聰（）、石田忠也（[萬代](../Page/萬代.md "wikilink")）
   - 監製 - 小野寺章（石森プロ）
   - 執行製作人 - （[朝日電視台](../Page/朝日電視台.md "wikilink")）
   - 製作人 - -{zh-hk:;zh-tw:;zh-hans:;}-、（[東映](../Page/東映.md "wikilink")）
@@ -835,14 +819,12 @@ Fourze鎧甲</p></td>
       - 特效 - 中山亨、和田宏之、黒田政紀
       - 助導 - 小串遼太郎
       - 協力製作 -
-  - 製作人候補 -
-    望月卓、井元隆佑、石川啓、髙橋勇樹（[東映](../Page/東映.md "wikilink")）、菅野亞由美（[朝日電視台](../Page/朝日電視台.md "wikilink")）
+  - 製作人候補 - 望月卓、井元隆佑、石川啓、髙橋勇樹（[東映](../Page/東映.md "wikilink")）、菅野亞由美（[朝日電視台](../Page/朝日電視台.md "wikilink")）
   - 製作統籌 - 富田幸弘
   - 人物設計 - 田嶋秀樹、小林大佑、田中宗二郎、（PLEX）
   - 生物設計 - 、丸山浩
   - 發行 - [東映](../Page/東映.md "wikilink")
-  - 製作 - 劇場版「鎧武 &
-    Wizard」製作委員會（[東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、、[萬代](../Page/萬代.md "wikilink")）
+  - 製作 - 劇場版「鎧武 & Wizard」製作委員會（[東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、、[萬代](../Page/萬代.md "wikilink")）
 
 ## 参考资料
 
@@ -850,10 +832,6 @@ Fourze鎧甲</p></td>
 
   - [官方網站](http://www.movie-taisen.com/)
 
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink")
-[Category:2013年日本電影](https://zh.wikipedia.org/wiki/Category:2013年日本電影 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
-[Category:谷口千吉電影](https://zh.wikipedia.org/wiki/Category:谷口千吉電影 "wikilink")
+[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink") [Category:2013年日本電影](https://zh.wikipedia.org/wiki/Category:2013年日本電影 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink") [Category:谷口千吉電影](https://zh.wikipedia.org/wiki/Category:谷口千吉電影 "wikilink")
 
 1.  資料源自《S.I.C. HERO SAGA CHARACTER DATAFILE》 File No.123

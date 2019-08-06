@@ -26,5 +26,4 @@ Emma是一家網絡公司的秘書，與年紀比她小的上司Rio戀愛。一�
   -
   -
   -
-[Category:香港愛情片](https://zh.wikipedia.org/wiki/Category:香港愛情片 "wikilink")
-[Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink")
+[Category:香港愛情片](https://zh.wikipedia.org/wiki/Category:香港愛情片 "wikilink") [Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink")

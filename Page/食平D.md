@@ -4,8 +4,7 @@
 
 通脹飈升，食衣住行全部加價，可是市民的薪金原地踏步追不上通脹。拿著有限的家用，又要家人吃得好，真是難為了媽媽。對此感同身受的肥媽，將會聯同陸浩明，帶觀眾走訪全港街市及食材店，務求為媽媽們找出既便宜又富營養的食材，並以簡單的方法「食平D」烹調出各式各樣的佳餚美饌。
 
-節目更會請來城中多名星級大廚，包括星級行政總廚張倩敏（Charmaine）、《大廚出馬》中的冠軍人馬陳國強和曾自設私房菜亦是烹飪書籍作家的余健志（Jacky
-Yu）等，他們會教大家如何以最低的價錢煮出最滋味的多款各國美食。
+節目更會請來城中多名星級大廚，包括星級行政總廚張倩敏（Charmaine）、《大廚出馬》中的冠軍人馬陳國強和曾自設私房菜亦是烹飪書籍作家的余健志（Jacky Yu）等，他們會教大家如何以最低的價錢煮出最滋味的多款各國美食。
 
 ## 每集內容
 
@@ -348,16 +347,12 @@ Yu）等，他們會教大家如何以最低的價錢煮出最滋味的多款各
 
 ## 外部連結
 
-  - [無綫電視節目網頁 -
-    食平D](http://programme.tvb.com/foodandtravel/goodcheapeats/)
+  - [無綫電視節目網頁 - 食平D](http://programme.tvb.com/foodandtravel/goodcheapeats/)
 
 ## 電視節目的變遷
 
-[Category:2013年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2013年無綫電視節目 "wikilink")
-[Category:食平D系列](https://zh.wikipedia.org/wiki/Category:食平D系列 "wikilink")
-[Category:無綫電視飲食節目](https://zh.wikipedia.org/wiki/Category:無綫電視飲食節目 "wikilink")
+[Category:2013年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2013年無綫電視節目 "wikilink") [Category:食平D系列](https://zh.wikipedia.org/wiki/Category:食平D系列 "wikilink") [Category:無綫電視飲食節目](https://zh.wikipedia.org/wiki/Category:無綫電視飲食節目 "wikilink")
 
-1.  [肥媽教錯孕婦食益母草急更正道歉](http://news.sina.com.hk/news/20130526/-15-2978070/1.html)
-    ，《明報》，2013年5月26日
+1.  [肥媽教錯孕婦食益母草急更正道歉](http://news.sina.com.hk/news/20130526/-15-2978070/1.html) ，《明報》，2013年5月26日
 2.  <http://www.ihktv.com/sudden-928-maria-cordero.html>
 3.  <http://www.youtube.com/watch?v=vxYPu2cBXmQ>

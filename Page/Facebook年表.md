@@ -540,9 +540,7 @@
 
 ## 資料來源
 
-[Category:Facebook](https://zh.wikipedia.org/wiki/Category:Facebook "wikilink")
-[Category:美国公司历史](https://zh.wikipedia.org/wiki/Category:美国公司历史 "wikilink")
-[Category:公司年表](https://zh.wikipedia.org/wiki/Category:公司年表 "wikilink")
+[Category:Facebook](https://zh.wikipedia.org/wiki/Category:Facebook "wikilink") [Category:美国公司历史](https://zh.wikipedia.org/wiki/Category:美国公司历史 "wikilink") [Category:公司年表](https://zh.wikipedia.org/wiki/Category:公司年表 "wikilink")
 
 1.
 
@@ -584,13 +582,9 @@
 
 20.
 
-21. Brad Stone, ["Facebook to Offer Free
-    Classifieds"](http://www.nytimes.com/2007/05/11/business/11facebook.html)
-    2007-05-11 *纽约时报*
+21. Brad Stone, ["Facebook to Offer Free Classifieds"](http://www.nytimes.com/2007/05/11/business/11facebook.html) 2007-05-11 *纽约时报*
 
-22. Kirkpatrick, David. ["Facebook's plan to hook up the
-    world"](http://money.cnn.com/2007/05/24/technology/facebook.fortune/)
-    . CNN Money, May 29, 2007.
+22. Kirkpatrick, David. ["Facebook's plan to hook up the world"](http://money.cnn.com/2007/05/24/technology/facebook.fortune/) . CNN Money, May 29, 2007.
 
 23.
 
@@ -626,13 +620,9 @@
 
 40.
 
-41. 中国解放军报2009年8月6日第3版国防论坛
-    [截图](http://www.chinamil.com.cn/gfbmap/content/21/2009-08/06/03/2009080603_brief.jpg)
+41. 中国解放军报2009年8月6日第3版国防论坛 [截图](http://www.chinamil.com.cn/gfbmap/content/21/2009-08/06/03/2009080603_brief.jpg)
 
-
-42. [创新的价值：Facebook的山寨行为](http://www.yeeyan.com/articles/view/pestwave/28406)
-     Facebook给自己的新闻推送（News
-    Feeds）功能增加了一个“喜欢（like）”按钮。这招儿是从内容聚合社交网站FriendFeed那里学来的。
+42. [创新的价值：Facebook的山寨行为](http://www.yeeyan.com/articles/view/pestwave/28406)  Facebook给自己的新闻推送（News Feeds）功能增加了一个“喜欢（like）”按钮。这招儿是从内容聚合社交网站FriendFeed那里学来的。
 
 43.
 
@@ -674,17 +664,13 @@
 
 62.
 
-63. [臉書創舉
-    性別選項不侷限男女](http://www.cna.com.tw/news/firstnews/201402140013-1.aspx)，中央社，2014年2月14日
+63. [臉書創舉 性別選項不侷限男女](http://www.cna.com.tw/news/firstnews/201402140013-1.aspx)，中央社，2014年2月14日
 
-64. [WhatsApp
-    臉書花190億美元買下](http://www.cna.com.tw/news/firstnews/201402200003-1.aspx)，中央社，2014年2月20日
+64. [WhatsApp 臉書花190億美元買下](http://www.cna.com.tw/news/firstnews/201402200003-1.aspx)，中央社，2014年2月20日
 
 65.
 
-66. [臉書登記台灣臉書　辦公室在信義誠品大樓27樓](http://www.appledaily.com.tw/realtimenews/article/new/20150129/551336/).
-    [蘋果日報 (台灣)](https://zh.wikipedia.org/wiki/蘋果日報_\(台灣\) "wikilink").
-    2015-01-29.
+66. [臉書登記台灣臉書　辦公室在信義誠品大樓27樓](http://www.appledaily.com.tw/realtimenews/article/new/20150129/551336/). [蘋果日報 (台灣)](https://zh.wikipedia.org/wiki/蘋果日報_\(台灣\) "wikilink"). 2015-01-29.
 
 67.
 

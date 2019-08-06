@@ -19,8 +19,7 @@
 
   - 2008年9月，他們開始在youtube上傳翻唱的歌曲，漸漸地名氣愈來愈大。
   - 2009年5月，他們受韓國新聞頻道節目之邀，做專訪。
-    Star King節目製作在看到他們翻唱SJ的Sorry
-    Sorry影片後，邀請他們出演此節目，但他們以課業衝突與行程對只有他們兩個來說太困難為由拒絕了，而且他們也不想讓全世界或韓國的觀眾，把自己定位在翻唱樂團。
+    Star King節目製作在看到他們翻唱SJ的Sorry Sorry影片後，邀請他們出演此節目，但他們以課業衝突與行程對只有他們兩個來說太困難為由拒絕了，而且他們也不想讓全世界或韓國的觀眾，把自己定位在翻唱樂團。
   - 2009年9月，James作為貝斯手，正式加入。
   - 2009年10月，他們參加加州聖荷西的KOME廣播節目，正式介紹團裡的新貝斯手。
   - 2010年3月，他們釋出自創歌曲「Disappear」的音樂錄影帶，但他們說，這不是個正式的出道，單純只是為了歌迷和宣傳樂團所製作。
@@ -493,14 +492,9 @@
 
 ## 外部連結
 
-  - [Royal
-    Pirates官方網站](https://web.archive.org/web/20130823025142/http://royal-pirates.com/)
+  - [Royal Pirates官方網站](https://web.archive.org/web/20130823025142/http://royal-pirates.com/)
 
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
+[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
 
-1.  <https://star.ettoday.net/news/1017393?from=fb_et_star>
-    韓男團成員「左手壞死」截肢！　星途路斷：我真的好憤怒
+1.  <https://star.ettoday.net/news/1017393?from=fb_et_star> 韓男團成員「左手壞死」截肢！　星途路斷：我真的好憤怒
 2.  <https://www.youtube.com/playlist?list=PLMbJoK72f8w7mcgeipRfQqAUphJvJfSOa>

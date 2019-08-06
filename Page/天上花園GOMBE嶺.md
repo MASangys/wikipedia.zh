@@ -1,17 +1,6 @@
-[柳好貞](../Page/柳好貞.md "wikilink"){{、w}}[金賽綸](../Page/金賽綸.md "wikilink"){{、w}}[金浩鎮](../Page/金浩鎮.md "wikilink"){{、w}}[玄宇成](../Page/玄宇成.md "wikilink"){{、w}}[安瑞賢](../Page/安瑞賢.md "wikilink")
-| slogan = | theme_music_composer = | opentheme = | endtheme = |
-composer = | country =  | language =
-[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons =
-| num_episodes = 30 | list_episodes = | executive_producer = |
-producer = | editor = | location = | runtime = | company = Logos Film |
-distributor = | channel = [Channel A](../Page/Channel_A.md "wikilink") |
-first_run =  | first_aired =  | last_aired =  | preceded_by = |
-followed_by = [不朽的名作](../Page/不朽的名作.md "wikilink") | related = |
-website = <http://tv.ichannela.com/drama/heaven> | production_website =
-}}
+[柳好貞](../Page/柳好貞.md "wikilink"){{、w}}[金賽綸](../Page/金賽綸.md "wikilink"){{、w}}[金浩鎮](../Page/金浩鎮.md "wikilink"){{、w}}[玄宇成](../Page/玄宇成.md "wikilink"){{、w}}[安瑞賢](../Page/安瑞賢.md "wikilink") | slogan = | theme_music_composer = | opentheme = | endtheme = | composer = | country =  | language = [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = | num_episodes = 30 | list_episodes = | executive_producer = | producer = | editor = | location = | runtime = | company = Logos Film | distributor = | channel = [Channel A](../Page/Channel_A.md "wikilink") | first_run =  | first_aired =  | last_aired =  | preceded_by = | followed_by = [不朽的名作](../Page/不朽的名作.md "wikilink") | related = | website = <http://tv.ichannela.com/drama/heaven> | production_website = }}
 
-《**天上花園GOMBE嶺**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[channel
-A於](https://zh.wikipedia.org/wiki/channel_A "wikilink")2011年12月3日至2012年3月11日播出的[週末特別企劃劇](../Page/Channel_A周末特別企劃劇.md "wikilink")，由李宗翰導演執導，朴正華和高恩妮執筆，共30集。以GOMBE嶺這個美麗的自然村莊為背景，描述了一個家庭經歷的糾葛、矛盾及濃濃親情的故事。
+《**天上花園GOMBE嶺**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[channel A於](https://zh.wikipedia.org/wiki/channel_A "wikilink")2011年12月3日至2012年3月11日播出的[週末特別企劃劇](../Page/Channel_A周末特別企劃劇.md "wikilink")，由李宗翰導演執導，朴正華和高恩妮執筆，共30集。以GOMBE嶺這個美麗的自然村莊為背景，描述了一個家庭經歷的糾葛、矛盾及濃濃親情的故事。
 
 ## 演出陣容
 
@@ -490,12 +479,8 @@ A於](https://zh.wikipedia.org/wiki/channel_A "wikilink")2011年12月3日至2012
 
 ## 外部連結
 
-  - [韓國Channel
-    A](https://web.archive.org/web/20141012021954/http://tv.ichannela.com/drama/heaven)
+  - [韓國Channel A](https://web.archive.org/web/20141012021954/http://tv.ichannela.com/drama/heaven)
 
 ## 作品的變遷
 
-[Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink")
-[Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink")
-[Category:首爾特別市背景電視劇](https://zh.wikipedia.org/wiki/Category:首爾特別市背景電視劇 "wikilink")
-[Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink")
+[Category:2011年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2011年韓國電視劇集 "wikilink") [Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink") [Category:首爾特別市背景電視劇](https://zh.wikipedia.org/wiki/Category:首爾特別市背景電視劇 "wikilink") [Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink")

@@ -1,13 +1,10 @@
-《**東方求聞史紀 ～ Perfect Memento in Strict
-Sense.**》（）是同人游戏系列[东方Project官方资料设定集](https://zh.wikipedia.org/wiki/东方Project "wikilink")，以作品里角色稗田阿求所著的记录《幻想鄉緣起》的内容介绍从[红魔乡至](https://zh.wikipedia.org/wiki/东方红魔乡 "wikilink")[花映冢的故事环境和角色介绍](https://zh.wikipedia.org/wiki/东方花映冢 "wikilink")。本書由[ZUN](../Page/ZUN.md "wikilink")编写，于2006年12月27日由[一迅社](../Page/一迅社.md "wikilink")发售\[1\]，附带一张包含3首FM风格乐曲和3种桌面墙纸的CD。在发售前一个月于一迅社[漫画杂志](https://zh.wikipedia.org/wiki/漫画杂志 "wikilink")《[Comic
-REX](https://zh.wikipedia.org/wiki/Comic_REX "wikilink")》2006年12月号发表漫画《可记忆的幻想乡》（），由[ZUN](../Page/ZUN.md "wikilink")所作，[秋★枝](../Page/秋★枝.md "wikilink")所画。
+《**東方求聞史紀 ～ Perfect Memento in Strict Sense.**》（）是同人游戏系列[东方Project官方资料设定集](https://zh.wikipedia.org/wiki/东方Project "wikilink")，以作品里角色稗田阿求所著的记录《幻想鄉緣起》的内容介绍从[红魔乡至](https://zh.wikipedia.org/wiki/东方红魔乡 "wikilink")[花映冢的故事环境和角色介绍](https://zh.wikipedia.org/wiki/东方花映冢 "wikilink")。本書由[ZUN](../Page/ZUN.md "wikilink")编写，于2006年12月27日由[一迅社](../Page/一迅社.md "wikilink")发售\[1\]，附带一张包含3首FM风格乐曲和3种桌面墙纸的CD。在发售前一个月于一迅社[漫画杂志](https://zh.wikipedia.org/wiki/漫画杂志 "wikilink")《[Comic REX](https://zh.wikipedia.org/wiki/Comic_REX "wikilink")》2006年12月号发表漫画《可记忆的幻想乡》（），由[ZUN](../Page/ZUN.md "wikilink")所作，[秋★枝](../Page/秋★枝.md "wikilink")所画。
 
 ## 内容概要
 
 全書主要内容係基于系列内的虚构作品《幻想鄉緣起》整理而成。从设定上，《幻想鄉緣起》是1200年前由稗田家由于避免当时居住在幻想乡人间之里的人类被妖怪所伤害而撰写的，通过亲身探访和收录其他人的口头信息，以十分真实和详细的方式记录幻想乡的所有细节信息，以让人间之里的人类能及时避开会出现妖怪的地方和如何提防妖怪\[2\]。
 
-《求聞史紀》就是基于《幻想鄉緣起》
-对应从[红魔乡至](https://zh.wikipedia.org/wiki/东方红魔乡 "wikilink")[花映冢时期所出现的事物所整理出来的](https://zh.wikipedia.org/wiki/东方花映冢 "wikilink")，按照《幻想鄉緣起》的章节结构，同样也分为〈妖怪图鉴〉〈英雄传〉〈危险地区向导〉和〈未解决资料〉四部分：
+《求聞史紀》就是基于《幻想鄉緣起》 对应从[红魔乡至](https://zh.wikipedia.org/wiki/东方红魔乡 "wikilink")[花映冢时期所出现的事物所整理出来的](https://zh.wikipedia.org/wiki/东方花映冢 "wikilink")，按照《幻想鄉緣起》的章节结构，同样也分为〈妖怪图鉴〉〈英雄传〉〈危险地区向导〉和〈未解决资料〉四部分：
 
   - 〈妖怪图鉴〉是指按照妖怪的种族为分类，详细描述出现过的妖怪的各种详细信息和设定。
   - 〈英雄传〉是出现过的有治退过妖怪，或对幻想乡有明显影响的人类，其中包括了游戏的两大自机等。
@@ -97,9 +94,7 @@ REX](https://zh.wikipedia.org/wiki/Comic_REX "wikilink")》2006年12月号发表
 
 ## 参考资料
 
-[Category:2006年书籍](https://zh.wikipedia.org/wiki/Category:2006年书籍 "wikilink")
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
+[Category:2006年书籍](https://zh.wikipedia.org/wiki/Category:2006年书籍 "wikilink") [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
 1.
 2.

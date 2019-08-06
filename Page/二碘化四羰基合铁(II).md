@@ -8,13 +8,9 @@
 
 ## 参考资料
 
-[Category:羰基配合物](https://zh.wikipedia.org/wiki/Category:羰基配合物 "wikilink")
-[Category:二价铁化合物](https://zh.wikipedia.org/wiki/Category:二价铁化合物 "wikilink")
-[Category:碘化物](https://zh.wikipedia.org/wiki/Category:碘化物 "wikilink")
+[Category:羰基配合物](https://zh.wikipedia.org/wiki/Category:羰基配合物 "wikilink") [Category:二价铁化合物](https://zh.wikipedia.org/wiki/Category:二价铁化合物 "wikilink") [Category:碘化物](https://zh.wikipedia.org/wiki/Category:碘化物 "wikilink")
 
 1.  《无机化学丛书》.第九卷 锰分族 铁系 铂系. 科学出版社. P<sub>161\~162</sub>. 卤化羰基铁
 
 2.
-3.  Ferric iodide as a nonexistent compound. K. B. Yoon , J. K. Kochi.
-    *Inorg. Chem.*, **1990**, *29* (4), pp 869–874 DOI:
-    10.1021/ic00329a058
+3.  Ferric iodide as a nonexistent compound. K. B. Yoon , J. K. Kochi. *Inorg. Chem.*, **1990**, *29* (4), pp 869–874 DOI: 10.1021/ic00329a058

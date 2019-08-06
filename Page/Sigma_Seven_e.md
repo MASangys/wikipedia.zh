@@ -1,11 +1,8 @@
-**株式會社Sigma Seven
-e**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。
+**株式會社Sigma Seven e**（，）是[日本](../Page/日本.md "wikilink")一家位於[東京都](../Page/東京都.md "wikilink")[港區](../Page/港區_\(東京都\).md "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。
 
 ## 概要
 
-2009年10月1日成立\[2\]。是[Sigma
-Seven的旗下企業](../Page/Sigma_Seven.md "wikilink")\[3\]，因應原關係公司的The
-聲優塾養成所解散的關係而創立。另一方面，在這之中畢業生有[安元洋貴](../Page/安元洋貴.md "wikilink")、[福圓美里](../Page/福圓美里.md "wikilink")等人。
+2009年10月1日成立\[2\]。是[Sigma Seven的旗下企業](../Page/Sigma_Seven.md "wikilink")\[3\]，因應原關係公司的The 聲優塾養成所解散的關係而創立。另一方面，在這之中畢業生有[安元洋貴](../Page/安元洋貴.md "wikilink")、[福圓美里](../Page/福圓美里.md "wikilink")等人。
 
 所屬聲優大多來自Sigma Seven附屬培訓學校出身，和第2回以後Sigma Seven新人聲優徵選會經過獲選的合格者。
 
@@ -231,14 +228,11 @@ Seven的旗下企業](../Page/Sigma_Seven.md "wikilink")\[3\]，因應原關係�
   - 相田琴美
 
   -
-  - [石原夏織](../Page/石原夏織.md "wikilink")（現所屬：[Style
-    Cube](../Page/Style_Cube.md "wikilink")）
+  - [石原夏織](../Page/石原夏織.md "wikilink")（現所屬：[Style Cube](../Page/Style_Cube.md "wikilink")）
 
-  - [大龜明日香](../Page/大龜明日香.md "wikilink")（現所屬：[Sigma
-    Seven](../Page/Sigma_Seven.md "wikilink")）
+  - [大龜明日香](../Page/大龜明日香.md "wikilink")（現所屬：[Sigma Seven](../Page/Sigma_Seven.md "wikilink")）
 
-  - [小倉唯](../Page/小倉唯.md "wikilink")（現所屬：[CLARE
-    VOICE](../Page/CLARE_VOICE.md "wikilink")）
+  - [小倉唯](../Page/小倉唯.md "wikilink")（現所屬：[CLARE VOICE](../Page/CLARE_VOICE.md "wikilink")）
 
   - 鬼束彩子（現所屬：Sigma Seven）
 
@@ -284,10 +278,7 @@ Seven的旗下企業](../Page/Sigma_Seven.md "wikilink")\[3\]，因應原關係�
 
   - [株式會社Sigma Seven e公式官網](http://www.sigma7e.com/)
 
-[Category:Sigma_Seven](https://zh.wikipedia.org/wiki/Category:Sigma_Seven "wikilink")
-[Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
-[Category:2009年日本建立](https://zh.wikipedia.org/wiki/Category:2009年日本建立 "wikilink")
+[Category:Sigma_Seven](https://zh.wikipedia.org/wiki/Category:Sigma_Seven "wikilink") [Category:聲優事務所](https://zh.wikipedia.org/wiki/Category:聲優事務所 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:2009年日本建立](https://zh.wikipedia.org/wiki/Category:2009年日本建立 "wikilink")
 
 1.
 

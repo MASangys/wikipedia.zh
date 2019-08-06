@@ -1,9 +1,6 @@
-《**ARACHNID**》（），[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，原作者為[村田真哉](../Page/村田真哉.md "wikilink")，作畫為[いふじシンセン](https://zh.wikipedia.org/wiki/いふじシンセン "wikilink")。在2009年11月21日連載於[Square
-Enix出版社旗下的](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")《[月刊GANGAN
-JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")》雜誌。連載完結，[單行本共](https://zh.wikipedia.org/wiki/單行本 "wikilink")14卷。
+《**ARACHNID**》（），[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，原作者為[村田真哉](../Page/村田真哉.md "wikilink")，作畫為[いふじシンセン](https://zh.wikipedia.org/wiki/いふじシンセン "wikilink")。在2009年11月21日連載於[Square Enix出版社旗下的](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")《[月刊GANGAN JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")》雜誌。連載完結，[單行本共](https://zh.wikipedia.org/wiki/單行本 "wikilink")14卷。
 
-2012年3月2日於同出版社旗下的[YOUNG
-GANGAN雜誌上開始連載ARACHNID外傳](../Page/YOUNG_GANGAN.md "wikilink")〈CATERPILLAR〉（キャタピラー）\[1\]。2013年4月29日因作畫突然去世，〈CATERPILLAR〉休載\[2\]。2014年1月4日宣布恢復連載，作畫由[速水時貞代替](https://zh.wikipedia.org/wiki/速水時貞 "wikilink")\[3\]。單行本目前7卷。
+2012年3月2日於同出版社旗下的[YOUNG GANGAN雜誌上開始連載ARACHNID外傳](../Page/YOUNG_GANGAN.md "wikilink")〈CATERPILLAR〉（キャタピラー）\[1\]。2013年4月29日因作畫突然去世，〈CATERPILLAR〉休載\[2\]。2014年1月4日宣布恢復連載，作畫由[速水時貞代替](https://zh.wikipedia.org/wiki/速水時貞 "wikilink")\[3\]。單行本目前7卷。
 
 ## 劇情簡介
 
@@ -22,8 +19,7 @@ ARACHNID發生前一年，「芋蟲」一如往常地執行任務，卻遭遇世
 #### 主要角色
 
   -
-    故事女主角。患有**先天性集中力過剩（Congenital Excessive
-    Concentretion，CEC）**的精神病，很容易過於專注在某項事物上而對外界事物反應疲弱，因此一直都是受到排擠的對象。個性溫柔，總是替他人著想，連身為敵人的「水黽」及「芋蟲」都認為她是個好女孩。但真的需要時也能毫不猶豫的下殺手。
+    故事女主角。患有**先天性集中力過剩（Congenital Excessive Concentretion，CEC）**的精神病，很容易過於專注在某項事物上而對外界事物反應疲弱，因此一直都是受到排擠的對象。個性溫柔，總是替他人著想，連身為敵人的「水黽」及「芋蟲」都認為她是個好女孩。但真的需要時也能毫不猶豫的下殺手。
     出生前父親已去世(實際上仍存活，58話證實了是「雀蜂」)，在母親去世後寄住在叔父家。有天要被叔父侵犯時，被執行任務的「蜘蛛」誤打誤撞的解救，並且展現了過人的戰鬥能力而被蜘蛛帶回去加以訓練。\[4\]
     後來在與蜘蛛的對決中戰勝了他，並依蜘蛛的請求殺了他。之後寄住在田嶋賴子的家中，在學校中不斷擊退「組織」派來的殺手，並在衝突中制伏了「蜚蠊」沖惠美並將其成為同伴。現在與同伴一起捲入了「軍蟻」黑川沙羅設下的「狩獵蜘蛛」中，在與各種「蟲」周旋、見到黑川沙羅並帶著倉本藍逃出來後，為了拯救朋友拒絕了「螽斯」的提議。
     為了保護同伴而和「巨針蟻」戰鬥，一開始因為戰鬥經驗的差距而極端劣勢，後來覺醒而逆轉擊敗「巨針蟻」，卻也暫時無法動彈，並遇到黑川沙羅及其手下。在保護者「兜蟲」誤觸陷阱掉到洞裡時被藤岡響及冲惠美所救，再度見到田嶋賴子並互相坦白心意。結果賴子被潛伏的「蠍」的毒針刺中，並得知「蠍」就是殺害其母親的兇手，最後用陷阱擊敗了「蠍」。
@@ -170,9 +166,7 @@ ARACHNID發生前一年，「芋蟲」一如往常地執行任務，卻遭遇世
 <!-- end list -->
 
   - 「巨針蟻」
-    緬甸少女，目前世界上最強的「蟲」，比養父「子彈蟻」還強，甚至能令黑川沙羅感到恐懼。原本是個小村莊中唯一活著的人，還是個嬰兒時就被「子彈蟻」帶回去撫養並訓練，從而獲得了**集中力自由操作(Concentration
-    Driving
-    Free，CDF)**，與藤井有栖的CEC相對的能力。力氣很大，手上帶著鋼製臂鎧戰鬥，並能從後端伸出毒針攻擊，上面塗的「巨針毒」能讓被刺到的人24小時內受到如被子彈打到的痛楚一般。
+    緬甸少女，目前世界上最強的「蟲」，比養父「子彈蟻」還強，甚至能令黑川沙羅感到恐懼。原本是個小村莊中唯一活著的人，還是個嬰兒時就被「子彈蟻」帶回去撫養並訓練，從而獲得了**集中力自由操作(Concentration Driving Free，CDF)**，與藤井有栖的CEC相對的能力。力氣很大，手上帶著鋼製臂鎧戰鬥，並能從後端伸出毒針攻擊，上面塗的「巨針毒」能讓被刺到的人24小時內受到如被子彈打到的痛楚一般。
     由於能力太強，其他人在她眼裡都像是虛弱的蟲子一樣，因此除了「子彈蟻」能勉強平等交談以外，沒有任何朋友。」。\[6\]
     最大的夢想就是能交到一個「能對等交流」的朋友，因此來到了日本並在「狩獵蜘蛛」時因為不明原因進入校園。遇到「可能能成為朋友」的人，會與其交手判斷實力，如果實力不足就在擊敗後殺之。認為最有可能成為其「朋友」的人只有藤井有栖。進入校園後先與「芋蟲」交手，在佔上風時因為「雀蜂」偷襲「芋蟲」得手而中斷。之後前往1年D班，先後與「兜蟲」、藤岡響、「蟋螽」交手並以壓倒性的實力獲勝，並如願見到有栖。
     原本以為有栖和她一樣，也是從小就在戰場上生活，才能到與她一戰的地步，因此想和她交朋友，但在「兜蟲」說明了CEC的真正能力後，得知有栖的作戰經歷其實只有兩個禮拜，大受打擊而不承認有栖是她的朋友。一開始因為戰鬥經驗而大佔上風，後來因為有栖的覺醒而被擊敗並逃跑。後來遇到「蠍」，被「毒之尾」注射神經毒素而無法動彈，隨後被丟入濫交的男人群中。
@@ -300,17 +294,11 @@ ARACHNID發生前一年，「芋蟲」一如往常地執行任務，卻遭遇世
 
 ## 外部連結
 
-  - [ARACHNID - 連載作品 - GANGAN JOKER -SQUARE
-    ENIX-](http://www.jp.square-enix.com/magazine/joker/series/arachnid/index.html)
+  - [ARACHNID - 連載作品 - GANGAN JOKER -SQUARE ENIX-](http://www.jp.square-enix.com/magazine/joker/series/arachnid/index.html)
 
-  - [CATERPILLAR | 作品紹介 | ヤングガンガン YOUNG GANGAN
-    OFFICIALSITE](http://www.square-enix.co.jp/magazine/yg/introduction/caterpillar/)
+  - [CATERPILLAR | 作品紹介 | ヤングガンガン YOUNG GANGAN OFFICIALSITE](http://www.square-enix.co.jp/magazine/yg/introduction/caterpillar/)
 
-[Category:村田真哉](https://zh.wikipedia.org/wiki/Category:村田真哉 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:SQUARE_ENIX](https://zh.wikipedia.org/wiki/Category:SQUARE_ENIX "wikilink")
-[Category:月刊GANGAN_JOKER](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_JOKER "wikilink")
-[Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink")
+[Category:村田真哉](https://zh.wikipedia.org/wiki/Category:村田真哉 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:SQUARE_ENIX](https://zh.wikipedia.org/wiki/Category:SQUARE_ENIX "wikilink") [Category:月刊GANGAN_JOKER](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_JOKER "wikilink") [Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink")
 
 1.  [「アラクニド」番外編「キャタピラー」ヤンガンで連載開始](http://news.mynavi.jp/news/2012/03/02/092/index.html)
 2.  [ヤンガン連載「キャタピラー」匣咲いすかが急逝、27歳](http://natalie.mu/comic/news/89240)

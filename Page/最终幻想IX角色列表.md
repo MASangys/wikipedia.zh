@@ -116,6 +116,4 @@
 
   - FINAL FANTASY IX ULTIMANIA(ISBN 4-88787-025-6、ISBN 4-7575-1244-9)
 
-[Category:最终幻想IX](https://zh.wikipedia.org/wiki/Category:最终幻想IX "wikilink")
-[Category:最終幻想系列角色](https://zh.wikipedia.org/wiki/Category:最終幻想系列角色 "wikilink")
-[Category:電子遊戲角色列表](https://zh.wikipedia.org/wiki/Category:電子遊戲角色列表 "wikilink")
+[Category:最终幻想IX](https://zh.wikipedia.org/wiki/Category:最终幻想IX "wikilink") [Category:最終幻想系列角色](https://zh.wikipedia.org/wiki/Category:最終幻想系列角色 "wikilink") [Category:電子遊戲角色列表](https://zh.wikipedia.org/wiki/Category:電子遊戲角色列表 "wikilink")

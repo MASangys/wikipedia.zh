@@ -1,6 +1,4 @@
-《**Departure**》是日本女子搖滾樂團[SCANDAL的第](../Page/SCANDAL_\(日本音樂團體\).md "wikilink")18張單曲，2014年4月23日由[Epic
-Records Japan
-Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")\[1\]。本單曲是首張由成員負責全曲作詞和作曲的作品\[2\]。
+《**Departure**》是日本女子搖滾樂團[SCANDAL的第](../Page/SCANDAL_\(日本音樂團體\).md "wikilink")18張單曲，2014年4月23日由[Epic Records Japan Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")\[1\]。本單曲是首張由成員負責全曲作詞和作曲的作品\[2\]。
 
 ## 簡介
 
@@ -34,8 +32,7 @@ Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")\[1
 
 :\# [LOVE SURVIVE](../Page/LOVE_SURVIVE.md "wikilink")
 
-:\# [Space
-Ranger](https://zh.wikipedia.org/wiki/Space_Ranger_\(SCANDAL單曲\) "wikilink")（）
+:\# [Space Ranger](https://zh.wikipedia.org/wiki/Space_Ranger_\(SCANDAL單曲\) "wikilink")（）
 
 ### 初回生產限定盤B
 
@@ -59,8 +56,7 @@ Ranger](https://zh.wikipedia.org/wiki/Space_Ranger_\(SCANDAL單曲\) "wikilink")
 
   - [SCANDAL | 消息](http://www.scandal-4.com/overdrive_standard/)
 
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:SCANDAL歌曲](https://zh.wikipedia.org/wiki/Category:SCANDAL歌曲 "wikilink")
+[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:SCANDAL歌曲](https://zh.wikipedia.org/wiki/Category:SCANDAL歌曲 "wikilink")
 
 1.
 

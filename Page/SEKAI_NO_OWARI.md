@@ -1,7 +1,4 @@
-**SEKAI NO
-OWARI**（），意即[世界末日](https://zh.wikipedia.org/wiki/世界末日 "wikilink")，簡稱（SEKAOWA），為[日本](../Page/日本.md "wikilink")的一隊四人樂隊，於2007年組成。於2011年憑藉[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[INORI](https://zh.wikipedia.org/wiki/INORI "wikilink")》正式出道，隸屬[TOY'S
-FACTORY旗下](../Page/TOY'S_FACTORY.md "wikilink")。成員有三男一女，包括主唱Fukase、結他手及團長Nakajin、鋼琴手Saori和戴着[小丑](../Page/小丑.md "wikilink")面具的DJ
-LOVE。過往的名稱為，海外活動以**End of the World**為名稱進行。
+**SEKAI NO OWARI**（），意即[世界末日](https://zh.wikipedia.org/wiki/世界末日 "wikilink")，簡稱（SEKAOWA），為[日本](../Page/日本.md "wikilink")的一隊四人樂隊，於2007年組成。於2011年憑藉[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[INORI](https://zh.wikipedia.org/wiki/INORI "wikilink")》正式出道，隸屬[TOY'S FACTORY旗下](../Page/TOY'S_FACTORY.md "wikilink")。成員有三男一女，包括主唱Fukase、結他手及團長Nakajin、鋼琴手Saori和戴着[小丑](../Page/小丑.md "wikilink")面具的DJ LOVE。過往的名稱為，海外活動以**End of the World**為名稱進行。
 
 ## 成員
 
@@ -41,67 +38,35 @@ LOVE。過往的名稱為，海外活動以**End of the World**為名稱進行�
 
 ### 組成樂隊
 
-SEKAI NO
-OWARI的四名成員都是識於微時的朋友。Fukase和Saori由[幼稚園](../Page/幼稚園.md "wikilink")起就是同學，在小學時期跟Nakajin相識，DJ
-LOVE則於高中時認識\[2\]。Fukase跟Nakajin在中學三年級同班，在一次巧合下得知兩人都喜歡二人樂隊[柚子](../Page/柚子_\(組合\).md "wikilink")，之後就常常一起練習柚子的歌曲，成為日後組成樂隊的契機\[3\]。Fukase於2006年向Nakajin提議建設Live
-House\[4\]，其後在[東京都](../Page/東京都.md "wikilink")[大田區建立了](https://zh.wikipedia.org/wiki/大田區 "wikilink")「club
-EARTH」\[5\]\[6\]。Saori和DJ LOVE則被叫到club
-EARTH幫忙打掃和搬運的工作，四人慢慢就組成樂隊，並一起生活\[7\]。在DJ
-LOVE加入前，樂隊還有一名叫做LOVE的支援成員，因不想露面而戴着小丑面具。在第一代的LOVE離開那天，Fukase請求現任的DJ
-LOVE加入樂隊，稱「這是我一生的請求」\[8\]。LOVE加入後就繼承了前任的名字和面具\[9\]。
+SEKAI NO OWARI的四名成員都是識於微時的朋友。Fukase和Saori由[幼稚園](../Page/幼稚園.md "wikilink")起就是同學，在小學時期跟Nakajin相識，DJ LOVE則於高中時認識\[2\]。Fukase跟Nakajin在中學三年級同班，在一次巧合下得知兩人都喜歡二人樂隊[柚子](../Page/柚子_\(組合\).md "wikilink")，之後就常常一起練習柚子的歌曲，成為日後組成樂隊的契機\[3\]。Fukase於2006年向Nakajin提議建設Live House\[4\]，其後在[東京都](../Page/東京都.md "wikilink")[大田區建立了](https://zh.wikipedia.org/wiki/大田區 "wikilink")「club EARTH」\[5\]\[6\]。Saori和DJ LOVE則被叫到club EARTH幫忙打掃和搬運的工作，四人慢慢就組成樂隊，並一起生活\[7\]。在DJ LOVE加入前，樂隊還有一名叫做LOVE的支援成員，因不想露面而戴着小丑面具。在第一代的LOVE離開那天，Fukase請求現任的DJ LOVE加入樂隊，稱「這是我一生的請求」\[8\]。LOVE加入後就繼承了前任的名字和面具\[9\]。
 
-樂隊原名為「」，音義都跟「SEKAI NO
-OWARI」相同。命名原因源於Fukase於18、19歲時，曾打算於[美國留學](https://zh.wikipedia.org/wiki/美國 "wikilink")2年，但赴美後不久卻因言語不通及未能適應當地的生活習慣，因而患上了[恐慌症](../Page/恐慌症.md "wikilink")，結果需要退學回日，並被轉送至精神病院內的封閉式病房內留院超過1年，在院內了無生趣，對自己來說猶如「世界末日」一般\[10\]\[11\]。然而，在住院期間，卻使他重拾對音樂的喜愛，亦讓他頓覺這個「世界末日」，其實也就是他新生活的開始\[12\]\[13\]。康復出院後，透過建立club
-EARTH的過程中，發現自己還有伙伴跟他一起，「我的人生，在覺得世界終結的那瞬間開始了」。\[14\]他因此將樂隊命名為「世界末日」，寓意「從終結起開始」\[15\]，希望將音樂當成一次重生的機會\[16\]。
+樂隊原名為「」，音義都跟「SEKAI NO OWARI」相同。命名原因源於Fukase於18、19歲時，曾打算於[美國留學](https://zh.wikipedia.org/wiki/美國 "wikilink")2年，但赴美後不久卻因言語不通及未能適應當地的生活習慣，因而患上了[恐慌症](../Page/恐慌症.md "wikilink")，結果需要退學回日，並被轉送至精神病院內的封閉式病房內留院超過1年，在院內了無生趣，對自己來說猶如「世界末日」一般\[10\]\[11\]。然而，在住院期間，卻使他重拾對音樂的喜愛，亦讓他頓覺這個「世界末日」，其實也就是他新生活的開始\[12\]\[13\]。康復出院後，透過建立club EARTH的過程中，發現自己還有伙伴跟他一起，「我的人生，在覺得世界終結的那瞬間開始了」。\[14\]他因此將樂隊命名為「世界末日」，寓意「從終結起開始」\[15\]，希望將音樂當成一次重生的機會\[16\]。
 
-他們從2010年起發行了多張唱片，得以逐漸提高知名度\[17\]。2月，他們發行了僅於[TOWER
-RECORDS發售的單曲](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")《[幻之命](../Page/幻之命.md "wikilink")》\[18\]；其後於4月發行以club
-EARTH命名的首張專輯《[EARTH](https://zh.wikipedia.org/wiki/EARTH "wikilink")》，以及於10月發行了雙A面單曲《[天使與惡魔／FANTASY](https://zh.wikipedia.org/wiki/天使與惡魔／FANTASY "wikilink")》\[19\]。其中《EARTH》獲得第3屆[CD店大獎](../Page/CD店大獎.md "wikilink")的準大獎\[20\]，《天使與惡魔》一曲亦成為電視劇《[靈能力者
-小田霧響子的謊言](../Page/靈能力者_小田霧響子的謊言.md "wikilink")》的主題曲\[21\]。
+他們從2010年起發行了多張唱片，得以逐漸提高知名度\[17\]。2月，他們發行了僅於[TOWER RECORDS發售的單曲](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")《[幻之命](../Page/幻之命.md "wikilink")》\[18\]；其後於4月發行以club EARTH命名的首張專輯《[EARTH](https://zh.wikipedia.org/wiki/EARTH "wikilink")》，以及於10月發行了雙A面單曲《[天使與惡魔／FANTASY](https://zh.wikipedia.org/wiki/天使與惡魔／FANTASY "wikilink")》\[19\]。其中《EARTH》獲得第3屆[CD店大獎](../Page/CD店大獎.md "wikilink")的準大獎\[20\]，《天使與惡魔》一曲亦成為電視劇《[靈能力者 小田霧響子的謊言](../Page/靈能力者_小田霧響子的謊言.md "wikilink")》的主題曲\[21\]。
 
 ### 正式出道
 
-2011年，SEKAI NO OWARI跟[TOY'S
-FACTORY簽約](../Page/TOY'S_FACTORY.md "wikilink")，並於8月以單曲《[INORI](https://zh.wikipedia.org/wiki/INORI "wikilink")》正式出道。\[22\]《INORI》收錄了三首歌曲，分別是《花鳥風月》、《不死鳥》和《Never
-Ending
-World》。\[23\]這三首歌的創作者不盡相同——Fukase、Nakajin和Saori分別負責一首歌的作曲，同時亦為另一首歌曲填詞。\[24\]這張出道單曲於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")上取得第13名。\[25\]樂隊從這時正式將名字改為「SEKAI
-NO OWARI」。\[26\]
+2011年，SEKAI NO OWARI跟[TOY'S FACTORY簽約](../Page/TOY'S_FACTORY.md "wikilink")，並於8月以單曲《[INORI](https://zh.wikipedia.org/wiki/INORI "wikilink")》正式出道。\[22\]《INORI》收錄了三首歌曲，分別是《花鳥風月》、《不死鳥》和《Never Ending World》。\[23\]這三首歌的創作者不盡相同——Fukase、Nakajin和Saori分別負責一首歌的作曲，同時亦為另一首歌曲填詞。\[24\]這張出道單曲於[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")上取得第13名。\[25\]樂隊從這時正式將名字改為「SEKAI NO OWARI」。\[26\]
 
-在單曲發行約三個月後，11月22日，SEKAI NO
-OWARI首次在東京[日本武道館](../Page/日本武道館.md "wikilink")舉辦個人演唱會，門票全部售罄。\[27\]他們於當日在約一萬名觀眾前演唱了17首歌曲，包括當時即將發行的新單曲《[STARLIGHT
-PARADE](https://zh.wikipedia.org/wiki/STARLIGHT_PARADE "wikilink")》，以及兩首新歌《Love
-the warz》和《睡美人》。\[28\]單曲《STARLIGHT
-PARADE》於翌日發行。\[29\]其後，他們在11月至12月亦舉辦「SEKAI
-NO OWARI TOUR 2011」全國巡迴演唱會，到日本國內9個城市演出。\[30\]這次巡迴的門票亦全數售罄。\[31\]
+在單曲發行約三個月後，11月22日，SEKAI NO OWARI首次在東京[日本武道館](../Page/日本武道館.md "wikilink")舉辦個人演唱會，門票全部售罄。\[27\]他們於當日在約一萬名觀眾前演唱了17首歌曲，包括當時即將發行的新單曲《[STARLIGHT PARADE](https://zh.wikipedia.org/wiki/STARLIGHT_PARADE "wikilink")》，以及兩首新歌《Love the warz》和《睡美人》。\[28\]單曲《STARLIGHT PARADE》於翌日發行。\[29\]其後，他們在11月至12月亦舉辦「SEKAI NO OWARI TOUR 2011」全國巡迴演唱會，到日本國內9個城市演出。\[30\]這次巡迴的門票亦全數售罄。\[31\]
 
 ### 《ENTERTAINMENT》
 
-2012年5月，SEKAI NO OWARI舉辦「ZEPP TOUR 2012
-『ENTERTAINMENT』」巡迴演唱會，在3個城市舉行了6場演唱會。\[32\]在7月尾至10月期間，他們再次舉辦巡迴演唱會「HALL
-TOUR 2012
-『ENTERTAINMENT』」，合共25場公演。\[33\]他們在4月亦曾到[台灣演出](https://zh.wikipedia.org/wiki/台灣 "wikilink")。\[34\]
+2012年5月，SEKAI NO OWARI舉辦「ZEPP TOUR 2012 『ENTERTAINMENT』」巡迴演唱會，在3個城市舉行了6場演唱會。\[32\]在7月尾至10月期間，他們再次舉辦巡迴演唱會「HALL TOUR 2012 『ENTERTAINMENT』」，合共25場公演。\[33\]他們在4月亦曾到[台灣演出](https://zh.wikipedia.org/wiki/台灣 "wikilink")。\[34\]
 
-在兩輪巡迴演唱會之間，第3張單曲《[睡美人](https://zh.wikipedia.org/wiki/睡美人_\(單曲\) "wikilink")》於5月30日發行，於Oricon公信榜上取得第4名，為他們首次打入該榜五甲以內。\[35\]他們憑這次發行單曲，得以首次在全國性音樂電視節目《[MUSIC
-STATION](../Page/MUSIC_STATION.md "wikilink")》亮相，演唱《睡美人》一曲。\[36\]他們跟TOY'S
-FACTORY簽約後的首張專輯《[ENTERTAINMENT](https://zh.wikipedia.org/wiki/ENTERTAINMENT "wikilink")》也是在這段時間發行。於7月18日發行的《ENTERTAINMENT》在Oricon公信榜上取得第2名，首次進入該榜頭三名。\[37\]這張專輯收錄16首歌曲，包括獨立製作時期和正式出道後發行的多首歌曲。\[38\]主唱Fukase稱他們在《EARTH》發行後約兩年半的時光中，並沒有所謂「理念」這回事，所以沒有特別為《ENTERTAINMENT》設定主題，並視之為「無特定概念的他們在兩年半內的記錄」。\[39\]年尾，他們憑這張專輯獲得第54屆[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")的優秀專輯獎。\[40\]
+在兩輪巡迴演唱會之間，第3張單曲《[睡美人](https://zh.wikipedia.org/wiki/睡美人_\(單曲\) "wikilink")》於5月30日發行，於Oricon公信榜上取得第4名，為他們首次打入該榜五甲以內。\[35\]他們憑這次發行單曲，得以首次在全國性音樂電視節目《[MUSIC STATION](../Page/MUSIC_STATION.md "wikilink")》亮相，演唱《睡美人》一曲。\[36\]他們跟TOY'S FACTORY簽約後的首張專輯《[ENTERTAINMENT](https://zh.wikipedia.org/wiki/ENTERTAINMENT "wikilink")》也是在這段時間發行。於7月18日發行的《ENTERTAINMENT》在Oricon公信榜上取得第2名，首次進入該榜頭三名。\[37\]這張專輯收錄16首歌曲，包括獨立製作時期和正式出道後發行的多首歌曲。\[38\]主唱Fukase稱他們在《EARTH》發行後約兩年半的時光中，並沒有所謂「理念」這回事，所以沒有特別為《ENTERTAINMENT》設定主題，並視之為「無特定概念的他們在兩年半內的記錄」。\[39\]年尾，他們憑這張專輯獲得第54屆[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")的優秀專輯獎。\[40\]
 
-2013年，SEKAI NO OWARI在1月至2月舉辦「ARENA TOUR 2013
-『ENTERTAINMENT』」演唱會。\[41\]2月23日，這次巡迴演出的最後一場，他們在東京[代代木第一體育館宣布將於](../Page/國立代代木競技場.md "wikilink")10月12日、13日舉辦其首個戶外演唱會「火炎與森林的嘉年華」（），以及新單曲《[RPG](../Page/RPG_\(單曲\).md "wikilink")》將於5月1日發行的消息。\[42\]《RPG》是動畫劇場版《[蠟筆小新：超級美味！B級美食大逃亡！！](https://zh.wikipedia.org/wiki/蠟筆小新：超級美味！B級美食大逃亡！！ "wikilink")》的主題曲。\[43\]這張睽違一年的單曲錄得約7.5萬張的首周銷量，於Oricon公信榜取得第2名，刷新了自己的排名紀錄。\[44\]他們亦憑《RPG》首次奪得[Japan
-Hot
-100冠軍](https://zh.wikipedia.org/wiki/Japan_Hot_100 "wikilink")。\[45\]
+2013年，SEKAI NO OWARI在1月至2月舉辦「ARENA TOUR 2013 『ENTERTAINMENT』」演唱會。\[41\]2月23日，這次巡迴演出的最後一場，他們在東京[代代木第一體育館宣布將於](../Page/國立代代木競技場.md "wikilink")10月12日、13日舉辦其首個戶外演唱會「火炎與森林的嘉年華」（），以及新單曲《[RPG](../Page/RPG_\(單曲\).md "wikilink")》將於5月1日發行的消息。\[42\]《RPG》是動畫劇場版《[蠟筆小新：超級美味！B級美食大逃亡！！](https://zh.wikipedia.org/wiki/蠟筆小新：超級美味！B級美食大逃亡！！ "wikilink")》的主題曲。\[43\]這張睽違一年的單曲錄得約7.5萬張的首周銷量，於Oricon公信榜取得第2名，刷新了自己的排名紀錄。\[44\]他們亦憑《RPG》首次奪得[Japan Hot 100冠軍](https://zh.wikipedia.org/wiki/Japan_Hot_100 "wikilink")。\[45\]
 
 ### 2014年起
 
-2014年，SEKAI NO
-OWARI首次獲得參加[紅白歌合戰](../Page/第65回NHK紅白歌合戰.md "wikilink")，演唱了《Dragon
-Night》，同時也獲邀負責2015年中的中學組的指定歌曲及特別曲創作\[46\]，2015年2月10日，在NHK全國學校音樂節的公式網頁及官方Facebook中，正式公佈了指定歌曲的歌名為「禮物」（），由Saori作詞，Nakajin作曲，並由作曲家[大田櫻子改編為混聲合唱版本](https://zh.wikipedia.org/wiki/大田櫻子 "wikilink")\[47\]，2月22日，歌曲及歌詞首次於[NHK教育頻道](../Page/NHK教育頻道.md "wikilink")上發佈\[48\]\[49\]。
+2014年，SEKAI NO OWARI首次獲得參加[紅白歌合戰](../Page/第65回NHK紅白歌合戰.md "wikilink")，演唱了《Dragon Night》，同時也獲邀負責2015年中的中學組的指定歌曲及特別曲創作\[46\]，2015年2月10日，在NHK全國學校音樂節的公式網頁及官方Facebook中，正式公佈了指定歌曲的歌名為「禮物」（），由Saori作詞，Nakajin作曲，並由作曲家[大田櫻子改編為混聲合唱版本](https://zh.wikipedia.org/wiki/大田櫻子 "wikilink")\[47\]，2月22日，歌曲及歌詞首次於[NHK教育頻道](../Page/NHK教育頻道.md "wikilink")上發佈\[48\]\[49\]。
 
 承著紅白的氣勢，2015年1月14日推出了第2張大碟「Tree」，首周已獲得[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")中大碟榜第1名；售出超過24萬張，是上一張大碟首周銷量的3.8倍\[50\]，同時亦宣佈了將於7月在[日產體育場舉行一連兩日的演唱會](https://zh.wikipedia.org/wiki/日產體育場 "wikilink")，共14萬人次的出席。
 
 ## 風格
 
-SEKAI NO OWARI並非由一名成員主導創作，除了DJ
-LOVE以外的成員都會作曲和填詞，而且會從個人的作品選出主打的歌曲。\[51\]他們的歌詞中常常出現極度對立的主題，如「生與死」、「希望與絕望」、「戰爭與和平」等。\[52\]不過，主唱Fukase常將這些陰暗的歌詞配以輕快的旋律，他曾表示很喜歡以反面來描寫正面的事物。\[53\]他們的歌曲亦被形容為將現實和幻想融合，擁有其獨特的夢幻世界觀。\[54\]\[55\]
+SEKAI NO OWARI並非由一名成員主導創作，除了DJ LOVE以外的成員都會作曲和填詞，而且會從個人的作品選出主打的歌曲。\[51\]他們的歌詞中常常出現極度對立的主題，如「生與死」、「希望與絕望」、「戰爭與和平」等。\[52\]不過，主唱Fukase常將這些陰暗的歌詞配以輕快的旋律，他曾表示很喜歡以反面來描寫正面的事物。\[53\]他們的歌曲亦被形容為將現實和幻想融合，擁有其獨特的夢幻世界觀。\[54\]\[55\]
 
 ## 作品列表
 
@@ -706,8 +671,7 @@ CD</p></td>
 ## 獎項
 
   - 2010年 第3回[CD店大獎](../Page/CD店大獎.md "wikilink") 準大獎《EARTH》
-  - 2012年 第54回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")
-    優秀專輯獎《ENTERTAINMENT》
+  - 2012年 第54回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink") 優秀專輯獎《ENTERTAINMENT》
   - 2014年 第56回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink") 優秀作品獎《炎と森のカーニバル》
   - 2015年 第57回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink") 優秀專輯獎《Tree》
   - 2016年 第58回[日本唱片大獎](../Page/日本唱片大獎.md "wikilink") 編曲獎《Hey Ho》
@@ -726,18 +690,11 @@ CD</p></td>
   -
   -
   -
-  - [SEKAI NO OWARI
-    YouTube頻道](http://www.youtube.com/user/sekainoowarijp)
+  - [SEKAI NO OWARI YouTube頻道](http://www.youtube.com/user/sekainoowarijp)
 
-  - [End of the World
-    YouTube頻道](https://www.youtube.com/channel/UC1s-zgvNakAS4ATSKP0Fghw)
+  - [End of the World YouTube頻道](https://www.youtube.com/channel/UC1s-zgvNakAS4ATSKP0Fghw)
 
-[Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink")
-[Category:TOY'S_FACTORY](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY "wikilink")
-[Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
-[Category:日本唱片大獎編曲獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎編曲獎獲獎者 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
-[Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink")
+[Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:TOY'S_FACTORY](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink") [Category:日本唱片大獎編曲獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎編曲獎獲獎者 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink") [Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink")
 
 1.
 
@@ -755,8 +712,7 @@ CD</p></td>
 10.
 11.
 
-12. [SEKAI NO
-    OWARI來港怕變肥仔](http://hk.apple.nextmedia.com/entertainment/art/20141029/18915668)，蘋果日報，2014年10月29日。
+12. [SEKAI NO OWARI來港怕變肥仔](http://hk.apple.nextmedia.com/entertainment/art/20141029/18915668)，蘋果日報，2014年10月29日。
 
 13. Fukase 於出席27/10/2014《SMAPXSMAP》的節目中及其他的電視訪問節目中多次提及相關的事情。
 
@@ -817,15 +773,11 @@ CD</p></td>
 
 47. [セカオワ制作「Nコン」課題曲の詳細発表、タイトルは「プレゼント」](http://natalie.mu/music/news/138263)，音樂Natalie，2015年2月10日
 
-48. [セカオワ、『Nコン』課題曲2・22発表，](http://www.oricon.co.jp/news/2048461/full/)Oricon
-    Style，2015年2月10日。
+48. [セカオワ、『Nコン』課題曲2・22発表，](http://www.oricon.co.jp/news/2048461/full/)Oricon Style，2015年2月10日。
 
 49. [NHK全國學校音樂比賽2015年中學組專頁。](http://www.nhk.or.jp/ncon/music_program/kadaikyoku_j.html#pagetop)
 
-
-50. [【オリコン】セカオワ、アルバム初1位
-    前作比3.8倍・18万枚増](http://www.oricon.co.jp/news/2047413/full/)，Oricon
-    Style，2015年1月20日。
+50. [【オリコン】セカオワ、アルバム初1位 前作比3.8倍・18万枚増](http://www.oricon.co.jp/news/2047413/full/)，Oricon Style，2015年1月20日。
 
 51.
 52.

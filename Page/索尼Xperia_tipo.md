@@ -1,11 +1,8 @@
-**Sony Xperia
-tipo**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的低階[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")\[1\]，將於2012年第三季推出。
+**Sony Xperia tipo**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的低階[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")\[1\]，將於2012年第三季推出。
 
 ## Sony Xperia tipo dual
 
-**Sony Xperia tipo
-dual**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的低階[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")，與Sony
-Xperia tipo不同，因為它是雙卡[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")。
+**Sony Xperia tipo dual**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的低階[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")，與Sony Xperia tipo不同，因為它是雙卡[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")。
 
 ## 顏色
 
@@ -21,12 +18,8 @@ Xperia tipo不同，因為它是雙卡[手機](https://zh.wikipedia.org/wiki/手
 
 ## 外部連結
 
-  - [Xperia™ tipo -
-    索尼官方網站](http://www.sonymobile.com/global-zh/products/phones/xperia-tipo/)
-    中文
-  - [Xperia™ tipo dual -
-    索尼官方網站](https://web.archive.org/web/20130212020204/http://www.sonymobile.com/global-zh/products/phones/xperia-tipo-dual/)
-    中文
+  - [Xperia™ tipo - 索尼官方網站](http://www.sonymobile.com/global-zh/products/phones/xperia-tipo/) 中文
+  - [Xperia™ tipo dual - 索尼官方網站](https://web.archive.org/web/20130212020204/http://www.sonymobile.com/global-zh/products/phones/xperia-tipo-dual/) 中文
 
 ## 參考資料
 
@@ -37,9 +30,6 @@ Xperia tipo不同，因為它是雙卡[手機](https://zh.wikipedia.org/wiki/手
   - [索尼移動](https://zh.wikipedia.org/wiki/索尼移動 "wikilink")
   - [Xperia](../Page/Xperia.md "wikilink")
 
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
+[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
 
 1.  <http://www.sonymobile.com/global-zh/products/phones/xperia-tipo/>

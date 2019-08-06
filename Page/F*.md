@@ -5,12 +5,7 @@ F\*的[类型系统较之于F](https://zh.wikipedia.org/wiki/类型系统 "wikil
 ## 外部链接
 
   - [F\* tutorial](http://rise4fun.com/FStar)
-  - [F\* formalization in
-    Coq](http://research.microsoft.com/en-us/um/people/juanchen/fstar.tgz)
-  - [A fully abstract compiler from F\* to
-    JavaScript](http://rise4fun.com/FStar/tutorial/jsStar)
+  - [F\* formalization in Coq](http://research.microsoft.com/en-us/um/people/juanchen/fstar.tgz)
+  - [A fully abstract compiler from F\* to JavaScript](http://rise4fun.com/FStar/tutorial/jsStar)
 
-[Category:微软研究院](https://zh.wikipedia.org/wiki/Category:微软研究院 "wikilink")
-[Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink")
-[Category:ML語言家族](https://zh.wikipedia.org/wiki/Category:ML語言家族 "wikilink")
-[Category:.NET编程语言](https://zh.wikipedia.org/wiki/Category:.NET编程语言 "wikilink")
+[Category:微软研究院](https://zh.wikipedia.org/wiki/Category:微软研究院 "wikilink") [Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink") [Category:ML語言家族](https://zh.wikipedia.org/wiki/Category:ML語言家族 "wikilink") [Category:.NET编程语言](https://zh.wikipedia.org/wiki/Category:.NET编程语言 "wikilink")

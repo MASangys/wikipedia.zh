@@ -1,17 +1,12 @@
-《**HAMATORA
-─超能偵探社─**》（）是以動畫及漫畫為中心的[跨媒體製作](../Page/跨媒體製作.md "wikilink")作品。漫畫版於2013年11月開始在《[周刊YOUNG
-JUMP](https://zh.wikipedia.org/wiki/周刊YOUNG_JUMP "wikilink")》連載。另外也預定發售遊戲版和小說版。電視動畫於2014年1月7日深夜時段在[東京電視台](../Page/東京電視台.md "wikilink")開始播出。
+《**HAMATORA ─超能偵探社─**》（）是以動畫及漫畫為中心的[跨媒體製作](../Page/跨媒體製作.md "wikilink")作品。漫畫版於2013年11月開始在《[周刊YOUNG JUMP](https://zh.wikipedia.org/wiki/周刊YOUNG_JUMP "wikilink")》連載。另外也預定發售遊戲版和小說版。電視動畫於2014年1月7日深夜時段在[東京電視台](../Page/東京電視台.md "wikilink")開始播出。
 
-電視動畫於2014年3月26日播放第一季最終話時，於片尾預告「To Be
-Continued」，2014年4月30日宣布第二季標題為《**Re：␣
-超能偵探社**》\[1\]，於2014年7月開始放映。
+電視動畫於2014年3月26日播放第一季最終話時，於片尾預告「To Be Continued」，2014年4月30日宣布第二季標題為《**Re：␣ 超能偵探社**》\[1\]，於2014年7月開始放映。
 
 ## 劇情簡介
 
 “minimum”——小小的奇迹。极少部分人类先天便拥有这种异能。
 
-於2014年**奈斯**与**紫**两人组成侦探组合“濱虎”，把咖啡店“Nowhere”的一角当成事务所。两人提到一件委托，他们发现这和旧识警察亚特正在追查的连环杀人案有异曲同工的特點——被害者全部都是“minimum”能力者。同为能力者的奈斯和紫也被卷入了案子，为了实现愿望，年轻人们贯彻觉悟进行战斗，跌宕起伏的战斗剧因而就此展開。
-　
+於2014年**奈斯**与**紫**两人组成侦探组合“濱虎”，把咖啡店“Nowhere”的一角当成事务所。两人提到一件委托，他们发现这和旧识警察亚特正在追查的连环杀人案有异曲同工的特點——被害者全部都是“minimum”能力者。同为能力者的奈斯和紫也被卷入了案子，为了实现愿望，年轻人们贯彻觉悟进行战斗，跌宕起伏的战斗剧因而就此展開。 　
 
 ## 登場人物
 
@@ -21,8 +16,7 @@ Continued」，2014年4月30日宣布第二季標題為《**Re：␣
     「濱虎偵探事務所」的經營者。駿才學園歷年排名第一的天才，因此其身份被駿才學院隱藏，後出於不明原因退學。被人稱作。在紫從駿才學院退學後，和紫組成偵探組合『ハマトラ』。對自己的心情很坦率，很重視自由，是一個很有自我風格的少年。
     接受委託的時候，也不是看報酬的金額，而是去接覺得想做的委託。
     在首篇最後一集打敗莫拉爾。
-    根據Re:篇第八集中初的回憶中，奈斯原本是要找史奇爾（skill），卻因為門口寫了禁止入內反而找到了初，並因為覺得success
-    No.01不像是名字所以給初起了名字。在與初逃跑過程中被槍打中。
+    根據Re:篇第八集中初的回憶中，奈斯原本是要找史奇爾（skill），卻因為門口寫了禁止入內反而找到了初，並因為覺得success No.01不像是名字所以給初起了名字。在與初逃跑過程中被槍打中。
     但在之後被莫拉爾植入了史奇爾的心臟後活了下來，也繼承到了史奇爾的Minimum。
     與初有個約定"一起去外面看看外面是什麼樣的"。
     紫同居，根據紫的說法奈斯是完全不作家務。
@@ -47,8 +41,7 @@ Continued」，2014年4月30日宣布第二季標題為《**Re：␣
   -
     身高150cm，體重42kg，生日11月2日。喪失記憶的不可思議的少女，一直都很餓，總是在吃著什麼，飯量很大，討厭薄荷，肚子餓了沒吃飽會沒力氣打架。與食物無關係的時候，對他人話基本無視。臉上基本上不會顯出什麼太大的表情。在偵探事務所擔任奈斯的助手，但在紫出現於奈斯組成組合後，便開始在子貓的咖啡店幫忙。是一個像男孩子一樣的女孩子。對駿才學院有排斥,曾經也在駿才學院。
     第二部中代替奈斯，成為紫的搭檔。新組合名為Hamatora Mark2。
-    擁有因絕望為契機而發動的消除Minimum的Minimum被稱為'虛無的Minimum'。是莫拉爾的［後天Minimum］實驗中第一個成功的人，代號：success
-    No.01。
+    擁有因絕望為契機而發動的消除Minimum的Minimum被稱為'虛無的Minimum'。是莫拉爾的［後天Minimum］實驗中第一個成功的人，代號：success No.01。
       -
         以絕望為扳機發動的消除超能力的超能力，能夠連他人的［自我］都一並消除掉。
 
@@ -81,8 +74,7 @@ Continued」，2014年4月30日宣布第二季標題為《**Re：␣
     小時候被檢測出有異於常人的智商，因此被父親「博士」(聲：[寶龜克壽](../Page/寶龜克壽.md "wikilink"))和國家分配了暗殺的工作，但哈妮對這個設定好的未來感到非常不滿，於是她在某一次機會，邀請當時參加駿才學園研究的斯利一起反抗，並在畢業後刻意選擇擔任保鑣，也導致她與父親長期不和。
     第二季因為長期與小初相處，導致她使用能力後智商會變得和小孩一樣。
       - \[8\]／
-        從自己所開發的系統「」所獲得的情報作出解析，預測10分鐘後的未來。一般人無法從「Mighty
-        script」的情報中解讀任何資訊。進食巧克力方可發動能力。（漫畫無發動條件）
+        從自己所開發的系統「」所獲得的情報作出解析，預測10分鐘後的未來。一般人無法從「Mighty script」的情報中解讀任何資訊。進食巧克力方可發動能力。（漫畫無發動條件）
 
 <!-- end list -->
 
@@ -104,8 +96,7 @@ Continued」，2014年4月30日宣布第二季標題為《**Re：␣
 <!-- end list -->
 
   -
-    Cafe
-    Nowhere（）的老闆。過去曾是駿才學園的研究員，與莫拉爾是舊識。小初的能力失控後，為了避免小初被處理掉而收養她，並從此退出研究界。
+    Cafe Nowhere（）的老闆。過去曾是駿才學園的研究員，與莫拉爾是舊識。小初的能力失控後，為了避免小初被處理掉而收養她，並從此退出研究界。
     第二季後被桃香派人綁架，店裡還被安置炸彈，但幸好奈斯及時來救援才逃過一劫。動畫最後修好了自己的店面，重新開張。
 
 <!-- end list -->
@@ -330,8 +321,7 @@ Continued」，2014年4月30日宣布第二季標題為《**Re：␣
   - 攝影監督：久野利和（第1期）→鹽見和欣（第2期）
   - 編輯：高橋步（第1期）→坂本雅紀（第2期）
   - 音樂：[吉森信](https://zh.wikipedia.org/wiki/吉森信 "wikilink")
-  - 音樂製作：[DIVE II
-    entertainment](https://zh.wikipedia.org/wiki/Avex "wikilink")
+  - 音樂製作：[DIVE II entertainment](https://zh.wikipedia.org/wiki/Avex "wikilink")
   - 製作人：[田中宏幸](https://zh.wikipedia.org/wiki/田中宏幸 "wikilink")、[瀧內泉](https://zh.wikipedia.org/wiki/瀧內泉 "wikilink")、紅谷佳和、清水美佳、高篠秀一、興野裕之、、松下直樹、石垣毅
   - 動畫製作人：比嘉勇二（第2期）
   - 動畫製作：NAZ Inc.（第1季）→、[Lerche](../Page/雲雀工作室.md "wikilink")（第2季）
@@ -343,10 +333,7 @@ Continued」，2014年4月30日宣布第二季標題為《**Re：␣
 
 :; 片頭曲「FLAT」
 
-::
-作詞、作曲、編曲：kz，主唱：[livetune](https://zh.wikipedia.org/wiki/livetune "wikilink")
-adding Yuuki Ozaki（from [Galileo
-Galilei](../Page/Galileo_Galilei_\(樂團\).md "wikilink")）
+:: 作詞、作曲、編曲：kz，主唱：[livetune](https://zh.wikipedia.org/wiki/livetune "wikilink") adding Yuuki Ozaki（from [Galileo Galilei](../Page/Galileo_Galilei_\(樂團\).md "wikilink")）
 
 :; 片尾曲「Hikari」
 
@@ -970,38 +957,12 @@ Kim Daehun</p></td>
 
   - [テレビ東京・あにてれ ハマトラ](http://www.tv-tokyo.co.jp/anime/hamatora/)
 
-  - [ハマトラ -
-    週刊ヤングジャンプ公式サイト](https://web.archive.org/web/20140203015214/http://youngjump.jp/manga/hamatora/)
+  - [ハマトラ - 週刊ヤングジャンプ公式サイト](https://web.archive.org/web/20140203015214/http://youngjump.jp/manga/hamatora/)
 
   - [ハマトラ Look at Smoking World](http://www.cs.furyu.jp/hamatora/)
 
   -
-[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink")
-[Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink")
-[Category:偵探主角題材動畫](https://zh.wikipedia.org/wiki/Category:偵探主角題材動畫 "wikilink")
-[Category:橫濱市背景作品](https://zh.wikipedia.org/wiki/Category:橫濱市背景作品 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:愛貝克思集團](https://zh.wikipedia.org/wiki/Category:愛貝克思集團 "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:超能力題材動畫](https://zh.wikipedia.org/wiki/Category:超能力題材動畫 "wikilink")
-[Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink")
-[Category:偵探主角題材漫畫](https://zh.wikipedia.org/wiki/Category:偵探主角題材漫畫 "wikilink")
-[Category:橫濱市背景漫畫](https://zh.wikipedia.org/wiki/Category:橫濱市背景漫畫 "wikilink")
-[Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
-[Category:犯罪漫畫](https://zh.wikipedia.org/wiki/Category:犯罪漫畫 "wikilink")
-[Category:2015年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2015年日本劇場動畫 "wikilink")
-[Category:日本電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本電視動畫的電影版 "wikilink")
-[Category:超能力題材動畫電影](https://zh.wikipedia.org/wiki/Category:超能力題材動畫電影 "wikilink")
-[Category:科幻動畫電影](https://zh.wikipedia.org/wiki/Category:科幻動畫電影 "wikilink")
-[Category:日本科幻片](https://zh.wikipedia.org/wiki/Category:日本科幻片 "wikilink")
-[Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink")
-[Category:偵探主角題材電影](https://zh.wikipedia.org/wiki/Category:偵探主角題材電影 "wikilink")
-[Category:橫濱市背景電影](https://zh.wikipedia.org/wiki/Category:橫濱市背景電影 "wikilink")
-[Category:日本犯罪片](https://zh.wikipedia.org/wiki/Category:日本犯罪片 "wikilink")
-[Category:2010年代犯罪片](https://zh.wikipedia.org/wiki/Category:2010年代犯罪片 "wikilink")
-[Category:虚构二人组](https://zh.wikipedia.org/wiki/Category:虚构二人组 "wikilink")
-[Category:咖啡店背景作品](https://zh.wikipedia.org/wiki/Category:咖啡店背景作品 "wikilink")
-[Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
+[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink") [Category:偵探主角題材動畫](https://zh.wikipedia.org/wiki/Category:偵探主角題材動畫 "wikilink") [Category:橫濱市背景作品](https://zh.wikipedia.org/wiki/Category:橫濱市背景作品 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:愛貝克思集團](https://zh.wikipedia.org/wiki/Category:愛貝克思集團 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:超能力題材動畫](https://zh.wikipedia.org/wiki/Category:超能力題材動畫 "wikilink") [Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink") [Category:偵探主角題材漫畫](https://zh.wikipedia.org/wiki/Category:偵探主角題材漫畫 "wikilink") [Category:橫濱市背景漫畫](https://zh.wikipedia.org/wiki/Category:橫濱市背景漫畫 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink") [Category:犯罪漫畫](https://zh.wikipedia.org/wiki/Category:犯罪漫畫 "wikilink") [Category:2015年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2015年日本劇場動畫 "wikilink") [Category:日本電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本電視動畫的電影版 "wikilink") [Category:超能力題材動畫電影](https://zh.wikipedia.org/wiki/Category:超能力題材動畫電影 "wikilink") [Category:科幻動畫電影](https://zh.wikipedia.org/wiki/Category:科幻動畫電影 "wikilink") [Category:日本科幻片](https://zh.wikipedia.org/wiki/Category:日本科幻片 "wikilink") [Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink") [Category:偵探主角題材電影](https://zh.wikipedia.org/wiki/Category:偵探主角題材電影 "wikilink") [Category:橫濱市背景電影](https://zh.wikipedia.org/wiki/Category:橫濱市背景電影 "wikilink") [Category:日本犯罪片](https://zh.wikipedia.org/wiki/Category:日本犯罪片 "wikilink") [Category:2010年代犯罪片](https://zh.wikipedia.org/wiki/Category:2010年代犯罪片 "wikilink") [Category:虚构二人组](https://zh.wikipedia.org/wiki/Category:虚构二人组 "wikilink") [Category:咖啡店背景作品](https://zh.wikipedia.org/wiki/Category:咖啡店背景作品 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
 
 1.
 

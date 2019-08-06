@@ -18,16 +18,11 @@
 ### DVD （CD+DVD盤）
 
 1.  **My Private "Jealousy" (Music Video)**
-2.  **OPENING〜[HAPPY
-    SWING](https://zh.wikipedia.org/wiki/SPEED_POP "wikilink") (We ♥
-    Happy Swing LIVE in MAKUHARI 7/31)**
-3.  '''[VERB](../Page/VERB.md "wikilink") (We ♥ Love Happy Swing LIVE in
-    MAKUHARI 7/30) '''
+2.  **OPENING〜[HAPPY SWING](https://zh.wikipedia.org/wiki/SPEED_POP "wikilink") (We ♥ Happy Swing LIVE in MAKUHARI 7/31)**
+3.  '''[VERB](../Page/VERB.md "wikilink") (We ♥ Love Happy Swing LIVE in MAKUHARI 7/30) '''
 
 ## 收錄專輯
 
   - [GUILTY](../Page/GUILTY_\(GLAY\).md "wikilink")（專輯版本）
 
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink")
-[Category:FOR_LIFE_MUSIC_ENTERTAINMENT歌曲](https://zh.wikipedia.org/wiki/Category:FOR_LIFE_MUSIC_ENTERTAINMENT歌曲 "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink") [Category:FOR_LIFE_MUSIC_ENTERTAINMENT歌曲](https://zh.wikipedia.org/wiki/Category:FOR_LIFE_MUSIC_ENTERTAINMENT歌曲 "wikilink")

@@ -56,31 +56,15 @@
 
 ## 参考资料
 
-[Category:中华人民共和国展览会](https://zh.wikipedia.org/wiki/Category:中华人民共和国展览会 "wikilink")
-[Category:哈尔滨旅游](https://zh.wikipedia.org/wiki/Category:哈尔滨旅游 "wikilink")
-[Category:牡丹江旅游](https://zh.wikipedia.org/wiki/Category:牡丹江旅游 "wikilink")
-[Category:漫畫會展](https://zh.wikipedia.org/wiki/Category:漫畫會展 "wikilink")
-[Category:同好會展](https://zh.wikipedia.org/wiki/Category:同好會展 "wikilink")
+[Category:中华人民共和国展览会](https://zh.wikipedia.org/wiki/Category:中华人民共和国展览会 "wikilink") [Category:哈尔滨旅游](https://zh.wikipedia.org/wiki/Category:哈尔滨旅游 "wikilink") [Category:牡丹江旅游](https://zh.wikipedia.org/wiki/Category:牡丹江旅游 "wikilink") [Category:漫畫會展](https://zh.wikipedia.org/wiki/Category:漫畫會展 "wikilink") [Category:同好會展](https://zh.wikipedia.org/wiki/Category:同好會展 "wikilink")
 
-1.  [突出冰雪特色
-    首届中国冰雪动漫展在哈开幕](http://www.dqdaily.com/ztxw/2011-01/24/content_629161.htm)
-     大庆网 2011-01-24
-2.  [“首届中国冰雪动漫展”主打冰雪动漫牌](http://comic.qq.com/a/20110225/000035.htm)
-    [腾讯网](../Page/腾讯网.md "wikilink") 2011年02月25日
-3.  [中国首个冰雪主题动漫展2011年1月登陆冰城](http://heilongjiang.dbw.cn/system/2010/12/28/052904616.shtml)
-    [东北网](https://zh.wikipedia.org/wiki/东北网 "wikilink") 2010年12月28日
-4.  [第二届中国冰雪动漫展今日鸣锣](http://www.hljnews.cn/fouxw_cs/2012-01/08/content_1130569.htm)
-     黑龙江新闻网 2012-01-08
-5.  [中国冰雪动漫展开幕
-    动漫论坛促南北融合](http://szsb.sznews.com/html/2012-01/10/content_1897406.htm)
-    [深圳商报](https://zh.wikipedia.org/wiki/深圳商报 "wikilink") 2012年01月10日
+1.  [突出冰雪特色 首届中国冰雪动漫展在哈开幕](http://www.dqdaily.com/ztxw/2011-01/24/content_629161.htm)  大庆网 2011-01-24
+2.  [“首届中国冰雪动漫展”主打冰雪动漫牌](http://comic.qq.com/a/20110225/000035.htm) [腾讯网](../Page/腾讯网.md "wikilink") 2011年02月25日
+3.  [中国首个冰雪主题动漫展2011年1月登陆冰城](http://heilongjiang.dbw.cn/system/2010/12/28/052904616.shtml) [东北网](https://zh.wikipedia.org/wiki/东北网 "wikilink") 2010年12月28日
+4.  [第二届中国冰雪动漫展今日鸣锣](http://www.hljnews.cn/fouxw_cs/2012-01/08/content_1130569.htm)  黑龙江新闻网 2012-01-08
+5.  [中国冰雪动漫展开幕 动漫论坛促南北融合](http://szsb.sznews.com/html/2012-01/10/content_1897406.htm) [深圳商报](https://zh.wikipedia.org/wiki/深圳商报 "wikilink") 2012年01月10日
 6.  票价为[冰雪大世界](../Page/冰雪大世界.md "wikilink")园区票价
-7.  [第三届中国冰雪动漫节1月8日开幕
-    知名动漫齐聚冰城](http://heilongjiang.dbw.cn/system/2012/12/27/054477970.shtml)
-    [东北网](https://zh.wikipedia.org/wiki/东北网 "wikilink") 2012年12月27日
-8.  [第三届中国冰雪动漫节在哈尔滨开幕](http://www.mofcom.gov.cn/aarticle/resume/n/201301/20130108516588.html)
-    [中华人民共和国商务部](../Page/中华人民共和国商务部.md "wikilink") 2013-01-09
-9.  [“小黄鸭”亮相中国冰雪动漫节](http://www.chinanews.com/tp/2014/01-04/5697310.shtml)
-    [中新网](https://zh.wikipedia.org/wiki/中新网 "wikilink") 2014年01月04日
-10. [“小黄鸭”亮相第四届中国冰雪动漫节开幕式](http://heilongjiang.dbw.cn/system/2014/01/04/055387138.shtml)
-    [东北网](https://zh.wikipedia.org/wiki/东北网 "wikilink") 2014-01-04
+7.  [第三届中国冰雪动漫节1月8日开幕 知名动漫齐聚冰城](http://heilongjiang.dbw.cn/system/2012/12/27/054477970.shtml) [东北网](https://zh.wikipedia.org/wiki/东北网 "wikilink") 2012年12月27日
+8.  [第三届中国冰雪动漫节在哈尔滨开幕](http://www.mofcom.gov.cn/aarticle/resume/n/201301/20130108516588.html) [中华人民共和国商务部](../Page/中华人民共和国商务部.md "wikilink") 2013-01-09
+9.  [“小黄鸭”亮相中国冰雪动漫节](http://www.chinanews.com/tp/2014/01-04/5697310.shtml) [中新网](https://zh.wikipedia.org/wiki/中新网 "wikilink") 2014年01月04日
+10. [“小黄鸭”亮相第四届中国冰雪动漫节开幕式](http://heilongjiang.dbw.cn/system/2014/01/04/055387138.shtml) [东北网](https://zh.wikipedia.org/wiki/东北网 "wikilink") 2014-01-04

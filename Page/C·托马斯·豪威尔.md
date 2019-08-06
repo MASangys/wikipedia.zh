@@ -2,10 +2,7 @@
 
 ## 生平
 
-1966年，托马斯·豪威尔出生于[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")梵奈斯。
-豪威尔有两个姐妹，一个叫斯泰西，一个叫卡迪，还有一个兄弟叫约翰，他的父亲曾经是特技演员。\[1\]
-豪威尔年幼的时候，他的父母离婚了，母亲带走了斯泰西和2个兄弟，而他和父亲生活在一起。\[2\]\[3\]
-12岁时，豪威尔在马术协会赢得了[马术](../Page/马术.md "wikilink")冠军，而他在年长之后，喜欢打[高尔夫球](https://zh.wikipedia.org/wiki/高尔夫球 "wikilink")，就像他的祖父。
+1966年，托马斯·豪威尔出生于[美国](../Page/美国.md "wikilink")[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")梵奈斯。 豪威尔有两个姐妹，一个叫斯泰西，一个叫卡迪，还有一个兄弟叫约翰，他的父亲曾经是特技演员。\[1\] 豪威尔年幼的时候，他的父母离婚了，母亲带走了斯泰西和2个兄弟，而他和父亲生活在一起。\[2\]\[3\] 12岁时，豪威尔在马术协会赢得了[马术](../Page/马术.md "wikilink")冠军，而他在年长之后，喜欢打[高尔夫球](https://zh.wikipedia.org/wiki/高尔夫球 "wikilink")，就像他的祖父。
 
 ## 电视作品
 
@@ -48,20 +45,11 @@
   -
   - [@cthomashowell on Twitter](https://twitter.com/cthomashowell)
 
-  - [Review of Baby Face Nelson at Manor on
-    Movies](http://www.manoronmovies.com/BabyFace.htm)
+  - [Review of Baby Face Nelson at Manor on Movies](http://www.manoronmovies.com/BabyFace.htm)
 
   -
-[Category:20世纪美国男演员](https://zh.wikipedia.org/wiki/Category:20世纪美国男演员 "wikilink")
-[Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink")
-[Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink")
-[Category:洛杉矶市男演员](https://zh.wikipedia.org/wiki/Category:洛杉矶市男演员 "wikilink")
-[Category:21世紀美國男演員](https://zh.wikipedia.org/wiki/Category:21世紀美國男演員 "wikilink")
+[Category:20世纪美国男演员](https://zh.wikipedia.org/wiki/Category:20世纪美国男演员 "wikilink") [Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink") [Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink") [Category:洛杉矶市男演员](https://zh.wikipedia.org/wiki/Category:洛杉矶市男演员 "wikilink") [Category:21世紀美國男演員](https://zh.wikipedia.org/wiki/Category:21世紀美國男演員 "wikilink")
 
-1.  [aboutct](http://www.cthomashowell.net/aboutct.htm) .
-    Cthomashowell.net. Retrieved on 2011-12-03.
-2.  [Tommy Howell: I'm Just a Normal
-    Kid\!](http://www.cthowell.net/Articles/Normal_Kid/normal_kid.html)
-    . Cthowell.net. Retrieved on 2011-12-03.
-3.  [Marriage](http://www.cthowell.net/Articles/Marriage/marriage.html)
-    . Cthowell.net. Retrieved on 2011-12-03.
+1.  [aboutct](http://www.cthomashowell.net/aboutct.htm) . Cthomashowell.net. Retrieved on 2011-12-03.
+2.  [Tommy Howell: I'm Just a Normal Kid\!](http://www.cthowell.net/Articles/Normal_Kid/normal_kid.html) . Cthowell.net. Retrieved on 2011-12-03.
+3.  [Marriage](http://www.cthowell.net/Articles/Marriage/marriage.html) . Cthowell.net. Retrieved on 2011-12-03.

@@ -2,16 +2,11 @@
 
 ## 簡介
 
-Flight-Plan設立於1989年9月30日，是知名的[SRPG](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")（戰略角色扮演遊戲、戰棋角色扮演遊戲）製作公司，活躍於GBA、PS2，與NDS三種平台。其代表作有：[「召喚夜」（Summon
-Night，又譯召喚之夜、召喚夜想曲、召喚夜響曲）系列](../Page/召喚夜響曲系列.md "wikilink")、「正邪幻想史」（BLACK/MATRIX，又譯正邪幻想曲、黑色細胞）系列。其後於2007年，發行第一款掛名自家品牌的遊戲軟體《[龍影魔咒](../Page/龍影咒.md "wikilink")》（Dragon
-Shadow Spell，又譯龍影咒、龍影符）。
+Flight-Plan設立於1989年9月30日，是知名的[SRPG](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")（戰略角色扮演遊戲、戰棋角色扮演遊戲）製作公司，活躍於GBA、PS2，與NDS三種平台。其代表作有：[「召喚夜」（Summon Night，又譯召喚之夜、召喚夜想曲、召喚夜響曲）系列](../Page/召喚夜響曲系列.md "wikilink")、「正邪幻想史」（BLACK/MATRIX，又譯正邪幻想曲、黑色細胞）系列。其後於2007年，發行第一款掛名自家品牌的遊戲軟體《[龍影魔咒](../Page/龍影咒.md "wikilink")》（Dragon Shadow Spell，又譯龍影咒、龍影符）。
 
 但是在2010年，官方網站失效。隔年，公司大樓遭到解體，看起來已經停止營運。公司大樓解停前，長期未收信件，塞滿公司信箱這件事曾在日本2ch討論板上鬧得沸沸揚揚。\[1\]
 
-前Flight-Plan員工，成立了以川瀨浩一為中心的[阿波羅軟體（アポロソフト）](https://zh.wikipedia.org/wiki/:ja:アポロソフト "wikilink")，還有以木下貴之為代表的[FELISTELLA（フェリステラ）](http://felistella.co.jp/index.html)。「召喚夜新傳
-毀滅之劍與應許騎士」（2010年3月）將是Flight-Plan制作的召喚夜的最後一部。而更新的召唤夜将由[FELISTELLA（フェリステラ）](http://felistella.co.jp/index.html)制作。不論如何，阿波羅軟體仍舊繼續開發SRPG，主要作品有「BLUE
-ROSES
-～妖精和藍眼的戰士們～」（2010年9月）與「仙境傳說～光與闇的公主～」（2011年10月）。FELISTELLA的看板娘由「召喚夜」的人設[飯塚武史設計](../Page/黑星紅白.md "wikilink")，但似乎仍未有獨立作品。
+前Flight-Plan員工，成立了以川瀨浩一為中心的[阿波羅軟體（アポロソフト）](https://zh.wikipedia.org/wiki/:ja:アポロソフト "wikilink")，還有以木下貴之為代表的[FELISTELLA（フェリステラ）](http://felistella.co.jp/index.html)。「召喚夜新傳 毀滅之劍與應許騎士」（2010年3月）將是Flight-Plan制作的召喚夜的最後一部。而更新的召唤夜将由[FELISTELLA（フェリステラ）](http://felistella.co.jp/index.html)制作。不論如何，阿波羅軟體仍舊繼續開發SRPG，主要作品有「BLUE ROSES ～妖精和藍眼的戰士們～」（2010年9月）與「仙境傳說～光與闇的公主～」（2011年10月）。FELISTELLA的看板娘由「召喚夜」的人設[飯塚武史設計](../Page/黑星紅白.md "wikilink")，但似乎仍未有獨立作品。
 
 \== Flight-Plan 經手的作品 ==
 
@@ -77,11 +72,6 @@ ROSES
 
   - [フライトプラン](https://web.archive.org/web/20120621104718/http://www.geocities.jp/bgrtype/gsl/words2/flightplan/flightplan.html)，Flight-Plan要約備份（日文）
 
-[Category:1989年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1989年開業電子遊戲公司 "wikilink")
-[Category:2010年結業公司](https://zh.wikipedia.org/wiki/Category:2010年結業公司 "wikilink")
-[Category:日本已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本已結業電子遊戲公司 "wikilink")
-[Category:电子游戏开发商](https://zh.wikipedia.org/wiki/Category:电子游戏开发商 "wikilink")
-[Category:岐阜縣公司](https://zh.wikipedia.org/wiki/Category:岐阜縣公司 "wikilink")
-[Category:召喚夜響曲系列](https://zh.wikipedia.org/wiki/Category:召喚夜響曲系列 "wikilink")
+[Category:1989年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1989年開業電子遊戲公司 "wikilink") [Category:2010年結業公司](https://zh.wikipedia.org/wiki/Category:2010年結業公司 "wikilink") [Category:日本已結業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本已結業電子遊戲公司 "wikilink") [Category:电子游戏开发商](https://zh.wikipedia.org/wiki/Category:电子游戏开发商 "wikilink") [Category:岐阜縣公司](https://zh.wikipedia.org/wiki/Category:岐阜縣公司 "wikilink") [Category:召喚夜響曲系列](https://zh.wikipedia.org/wiki/Category:召喚夜響曲系列 "wikilink")
 
 1.  [『サモンナイト』を作ったゲーム会社「フライト・プラン」が完全に業務終了したっぽい](http://blog.esuteru.com/archives/669885.html)

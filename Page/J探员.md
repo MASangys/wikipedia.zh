@@ -11,8 +11,7 @@ J探员原名**詹姆斯·達雷爾·愛德華茲三世**，本是[紐約市警�
 ## 另请参阅
 
   - [K探员](../Page/K探员.md "wikilink")
-  - [黑衣人
-    (漫画)](https://zh.wikipedia.org/wiki/黑衣人_\(漫画\) "wikilink")，[虚构角色的灵感以及故事](https://zh.wikipedia.org/wiki/虚构角色 "wikilink")
+  - [黑衣人 (漫画)](https://zh.wikipedia.org/wiki/黑衣人_\(漫画\) "wikilink")，[虚构角色的灵感以及故事](https://zh.wikipedia.org/wiki/虚构角色 "wikilink")
   - [黑衣警探](../Page/黑衣警探.md "wikilink")
   - [黑衣人3](../Page/黑衣人3.md "wikilink")
 
@@ -23,14 +22,7 @@ J探员原名**詹姆斯·達雷爾·愛德華茲三世**，本是[紐約市警�
   -
   -
   -
-[Category:科幻电影角色](https://zh.wikipedia.org/wiki/Category:科幻电影角色 "wikilink")
-[Category:MIB星際戰警角色](https://zh.wikipedia.org/wiki/Category:MIB星際戰警角色 "wikilink")
-[Category:虚构特务与间谍](https://zh.wikipedia.org/wiki/Category:虚构特务与间谍 "wikilink")
-[Category:來自紐約市的虛構角色](https://zh.wikipedia.org/wiki/Category:來自紐約市的虛構角色 "wikilink")
-[Category:虛構非洲裔美國人](https://zh.wikipedia.org/wiki/Category:虛構非洲裔美國人 "wikilink")
-[Category:虛構時間旅行者](https://zh.wikipedia.org/wiki/Category:虛構時間旅行者 "wikilink")
-[Category:马里布漫画角色](https://zh.wikipedia.org/wiki/Category:马里布漫画角色 "wikilink")
-[Category:漫威漫画角色](https://zh.wikipedia.org/wiki/Category:漫威漫画角色 "wikilink")
+[Category:科幻电影角色](https://zh.wikipedia.org/wiki/Category:科幻电影角色 "wikilink") [Category:MIB星際戰警角色](https://zh.wikipedia.org/wiki/Category:MIB星際戰警角色 "wikilink") [Category:虚构特务与间谍](https://zh.wikipedia.org/wiki/Category:虚构特务与间谍 "wikilink") [Category:來自紐約市的虛構角色](https://zh.wikipedia.org/wiki/Category:來自紐約市的虛構角色 "wikilink") [Category:虛構非洲裔美國人](https://zh.wikipedia.org/wiki/Category:虛構非洲裔美國人 "wikilink") [Category:虛構時間旅行者](https://zh.wikipedia.org/wiki/Category:虛構時間旅行者 "wikilink") [Category:马里布漫画角色](https://zh.wikipedia.org/wiki/Category:马里布漫画角色 "wikilink") [Category:漫威漫画角色](https://zh.wikipedia.org/wiki/Category:漫威漫画角色 "wikilink")
 
 1.
 2.

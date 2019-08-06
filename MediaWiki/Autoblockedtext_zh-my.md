@@ -1,5 +1,4 @@
-__NOEDITSECTION____NOTOC__ \<div id="mw-autoblocked-text
-style="border:1px solid \#000; width:100%; margin:auto;"\>
+__NOEDITSECTION____NOTOC__ \<div id="mw-autoblocked-text style="border:1px solid \#000; width:100%; margin:auto;"\>
 
 <div style="text-align:right;">
 
@@ -70,8 +69,7 @@ $2
 
 ### 询问网络服务供应商
 
-倘受此问题屡次影响，则建议联络网络服务供应商（ISP）或IT部门，由其联系[维基媒体基金会](../Page/维基媒体基金会.md "wikilink")[XFF
-project](https://zh.wikipedia.org/wiki/m:XFF_project "wikilink")，以免再受自动查封影响。
+倘受此问题屡次影响，则建议联络网络服务供应商（ISP）或IT部门，由其联系[维基媒体基金会](../Page/维基媒体基金会.md "wikilink")[XFF project](https://zh.wikipedia.org/wiki/m:XFF_project "wikilink")，以免再受自动查封影响。
 
 ## IPv6
 

@@ -1,6 +1,4 @@
-《**東方茨歌仙 〜 Wild and Horned
-Hermit.**》（）是[东方Project在](https://zh.wikipedia.org/wiki/东方Project "wikilink")[一迅社](../Page/一迅社.md "wikilink")《》上连载的漫画作品。从2010年7月24日在该刊开始连载，也在同社刊《Comic
-REX》2011年5 - 6月号和2012年3 - 4月刊发布「（番外篇）」。原作为ZUN，由作画。
+《**東方茨歌仙 〜 Wild and Horned Hermit.**》（）是[东方Project在](https://zh.wikipedia.org/wiki/东方Project "wikilink")[一迅社](../Page/一迅社.md "wikilink")《》上连载的漫画作品。从2010年7月24日在该刊开始连载，也在同社刊《Comic REX》2011年5 - 6月号和2012年3 - 4月刊发布「（番外篇）」。原作为ZUN，由作画。
 
 ## 剧情概述
 
@@ -43,7 +41,7 @@ REX》2011年5 - 6月号和2012年3 - 4月刊发布「（番外篇）」。原�
     有專屬的特製酒器茨木的百葯枡（為鬼族四天王的勇儀和萃香也有專屬的酒器），雖然使用那個酒器可以治百病酸痛，但是使用後本身就會導致體質逐漸轉為鬼族，但華仙卻沒有任何影響\[3\]。
     和身為鬼族四天王的勇儀和萃香皆熟識，有暗示她拜託勇儀把酒的品質用勇儀的酒器星熊杯來提升以帶去宴會中\[4\]，不知為何躲著萃香，從萃香的語氣中也表示她和華仙熟識。
     後來在博麗神社舉辦的酉之祭時與萃香正式碰面，從對話暗示出華仙接近神社的意圖可能是要藉此逃出結界以跑到外界尋找失去的右手\[5\]。
-    名字來自於[酒吞童子](../Page/酒吞童子.md "wikilink")的手下[茨木童子](https://zh.wikipedia.org/wiki/茨木童子 "wikilink")，右手臂被切斷來自於[源賴光砍斷茨木童子的傳說](https://zh.wikipedia.org/wiki/源賴光 "wikilink")（但結局是茨木童子偷回他的手臂）故事中華仙的手臂也確實被切斷了。
+    名字來自於[酒吞童子](../Page/酒吞童子.md "wikilink")的手下[茨木童子](https://zh.wikipedia.org/wiki/茨木童子 "wikilink")，右手臂被切斷來自於[源賴光](../Page/源賴光.md "wikilink")砍斷茨木童子的傳說（但結局是茨木童子偷回他的手臂）故事中華仙的手臂也確實被切斷了。
     酒吞童子、[星熊童子](https://zh.wikipedia.org/wiki/星熊童子 "wikilink")、茨木童子都是日本鬼怪歷史有明確記載的惡鬼，酒吞暗指的是[萃香](../Page/東方萃夢想_～_Immaterial_and_Missing_Power..md "wikilink")，星熊暗指是[勇儀](../Page/東方地靈殿_～_Subterranean_Animism..md "wikilink")，若按此猜測茨木暗指的是華仙，那華仙可能同為四天王之一。
     在32話中，被二岩貒藏間接指出鬼的身份(但靈夢沒有發現)。
 
@@ -417,8 +415,7 @@ REX》2011年5 - 6月号和2012年3 - 4月刊发布「（番外篇）」。原�
 
   - [一迅社WEB | キャラ☆メル Febri](http://www2.ichijinsha.co.jp/febri/)
 
-  - [一迅社WEB | 東方茨歌仙 〜Wild and Horned
-    Hermit.](http://www.ichijinsha.co.jp/special/toho_ibarakasen/)
+  - [一迅社WEB | 東方茨歌仙 〜Wild and Horned Hermit.](http://www.ichijinsha.co.jp/special/toho_ibarakasen/)
 
 [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
 
@@ -434,8 +431,7 @@ REX》2011年5 - 6月号和2012年3 - 4月刊发布「（番外篇）」。原�
 
 6.  [1](http://twitter.com/#!/korindo/status/31700534444425216)
 
-7.  [一迅社WEB | 東方茨歌仙 〜Wild and Horned
-    Hermit.](http://www.ichijinsha.co.jp/special/toho_ibarakasen/)
+7.  [一迅社WEB | 東方茨歌仙 〜Wild and Horned Hermit.](http://www.ichijinsha.co.jp/special/toho_ibarakasen/)
 
 8.
 9.

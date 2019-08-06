@@ -1,5 +1,4 @@
-**SMTOWN Live World Tour
-III**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")從2012至2013年舉辦，旗下藝人的聯合世界巡迴演唱會。這次巡演在八個城市進行，11場共動員約451,000觀眾。
+**SMTOWN Live World Tour III**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")從2012至2013年舉辦，旗下藝人的聯合世界巡迴演唱會。這次巡演在八個城市進行，11場共動員約451,000觀眾。
 
 ## 參與藝人
 
@@ -133,18 +132,12 @@ III**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](
 <!-- end list -->
 
   - [東方神起](../Page/東方神起.md "wikilink") （瑜鹵允浩、最強昌珉）
-  - [Super Junior](../Page/Super_Junior.md "wikilink")
-    （[利特](../Page/利特.md "wikilink")(缺席新加坡、曼谷、北京及尾站東京場演出)、[希澈](../Page/希澈.md "wikilink")(只參與北京及尾場東京站演出)、[藝聲](../Page/藝聲.md "wikilink")(缺席北京及尾站東京場演出)、[強仁](../Page/強仁.md "wikilink")(缺席首站洛杉機場及台灣場演出)、[神童](../Page/神童_\(藝人\).md "wikilink")、[晟敏](../Page/晟敏.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")(缺席首站洛杉機、新加坡、曼谷、北京及尾場東京站演出)、[厲旭](../Page/厲旭.md "wikilink")、[圭賢](../Page/圭賢.md "wikilink")）
-      - [Super Junior-M](../Page/Super_Junior-M.md "wikilink")
-        （[周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")、[Henry](../Page/劉憲華.md "wikilink")）(缺席首站洛杉機場演出)
-  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")
-    （[太妍](../Page/太妍.md "wikilink")、[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[俞利](../Page/俞利.md "wikilink")(缺席首站洛杉機場演出)、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")(缺席首站洛杉機場演出)、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
-  - [SHINee](../Page/SHINee.md "wikilink")
-    （[溫流](../Page/溫流.md "wikilink")、[鐘鉉](../Page/鐘鉉.md "wikilink")、[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")、[珉豪](../Page/珉豪.md "wikilink")(缺席首爾、雅加達、北京及日本場演出)、[泰民](../Page/泰民.md "wikilink")）
-  - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
-    （[Victoria](../Page/宋茜.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna](../Page/朴善英.md "wikilink")、[Sulli](https://zh.wikipedia.org/wiki/崔雪莉 "wikilink")(缺席東京、首爾及雅加達場演出)、[Krystal](../Page/鄭秀晶.md "wikilink")）
-  - [EXO](../Page/EXO.md "wikilink")
-    （[Xiumin](../Page/金珉錫.md "wikilink")、[鹿晗](../Page/鹿晗.md "wikilink")、[Kris](../Page/吳亦凡.md "wikilink")、[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、[Lay](../Page/張藝興.md "wikilink")、[伯賢](../Page/伯賢.md "wikilink")、[Chen](https://zh.wikipedia.org/wiki/金鐘大 "wikilink")、[燦烈](https://zh.wikipedia.org/wiki/燦烈 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")、[Tao](../Page/黃子韜.md "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鍾仁 "wikilink")、[世勳](https://zh.wikipedia.org/wiki/世勳 "wikilink")）
+  - [Super Junior](../Page/Super_Junior.md "wikilink") （[利特](../Page/利特.md "wikilink")(缺席新加坡、曼谷、北京及尾站東京場演出)、[希澈](../Page/希澈.md "wikilink")(只參與北京及尾場東京站演出)、[藝聲](../Page/藝聲.md "wikilink")(缺席北京及尾站東京場演出)、[強仁](../Page/強仁.md "wikilink")(缺席首站洛杉機場及台灣場演出)、[神童](../Page/神童_\(藝人\).md "wikilink")、[晟敏](../Page/晟敏.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")(缺席首站洛杉機、新加坡、曼谷、北京及尾場東京站演出)、[厲旭](../Page/厲旭.md "wikilink")、[圭賢](../Page/圭賢.md "wikilink")）
+      - [Super Junior-M](../Page/Super_Junior-M.md "wikilink") （[周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")、[Henry](../Page/劉憲華.md "wikilink")）(缺席首站洛杉機場演出)
+  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink") （[太妍](../Page/太妍.md "wikilink")、[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[俞利](../Page/俞利.md "wikilink")(缺席首站洛杉機場演出)、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")(缺席首站洛杉機場演出)、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
+  - [SHINee](../Page/SHINee.md "wikilink") （[溫流](../Page/溫流.md "wikilink")、[鐘鉉](../Page/鐘鉉.md "wikilink")、[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")、[珉豪](../Page/珉豪.md "wikilink")(缺席首爾、雅加達、北京及日本場演出)、[泰民](../Page/泰民.md "wikilink")）
+  - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink") （[Victoria](../Page/宋茜.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna](../Page/朴善英.md "wikilink")、[Sulli](https://zh.wikipedia.org/wiki/崔雪莉 "wikilink")(缺席東京、首爾及雅加達場演出)、[Krystal](../Page/鄭秀晶.md "wikilink")）
+  - [EXO](../Page/EXO.md "wikilink") （[Xiumin](../Page/金珉錫.md "wikilink")、[鹿晗](../Page/鹿晗.md "wikilink")、[Kris](../Page/吳亦凡.md "wikilink")、[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、[Lay](../Page/張藝興.md "wikilink")、[伯賢](../Page/伯賢.md "wikilink")、[Chen](https://zh.wikipedia.org/wiki/金鐘大 "wikilink")、[燦烈](https://zh.wikipedia.org/wiki/燦烈 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")、[Tao](../Page/黃子韜.md "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鍾仁 "wikilink")、[世勳](https://zh.wikipedia.org/wiki/世勳 "wikilink")）
 
 <!-- end list -->
 
@@ -152,8 +145,7 @@ III**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
 
 <!-- end list -->
 
@@ -192,8 +184,7 @@ III**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](
 
 <!-- end list -->
 
-  - 首爾－KB
-    國民卡、[VISA](https://zh.wikipedia.org/wiki/VISA "wikilink")、Genie
+  - 首爾－KB 國民卡、[VISA](https://zh.wikipedia.org/wiki/VISA "wikilink")、Genie
 
 <!-- end list -->
 
@@ -215,8 +206,7 @@ III**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](
   -
   -
 
-[Category:SMTOWN巡迴演唱會](https://zh.wikipedia.org/wiki/Category:SMTOWN巡迴演唱會 "wikilink")
-[Category:2012年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2012年巡迴演唱會 "wikilink")
+[Category:SMTOWN巡迴演唱會](https://zh.wikipedia.org/wiki/Category:SMTOWN巡迴演唱會 "wikilink") [Category:2012年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2012年巡迴演唱會 "wikilink")
 
 1.
 

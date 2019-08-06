@@ -1,5 +1,4 @@
-**RPG-27**（；\[1\]\[2\]Таволга；[英文](../Page/英语.md "wikilink")：**Tavolga**，意為：[藍草](https://zh.wikipedia.org/wiki/藍草 "wikilink")；[俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：／）是一款由[前苏联](../Page/苏联.md "wikilink")（現在是[俄罗斯](../Page/俄罗斯.md "wikilink")）國家研究和生產企業[Bazalt所研製及生產的](https://zh.wikipedia.org/wiki/Bazalt "wikilink")105毫米一次射擊型[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，是[RPG-26](../Page/RPG-26.md "wikilink")的改進型。同樣地，主要在短距離[反坦克戰](../Page/反坦克戰.md "wikilink")時使用，發射[PG-27](https://zh.wikipedia.org/wiki/PG-27 "wikilink")
-[HEAT火箭彈](../Page/高爆反坦克彈.md "wikilink")。
+**RPG-27**（；\[1\]\[2\]Таволга；[英文](../Page/英语.md "wikilink")：**Tavolga**，意為：[藍草](https://zh.wikipedia.org/wiki/藍草 "wikilink")；[俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：／）是一款由[前苏联](../Page/苏联.md "wikilink")（現在是[俄罗斯](../Page/俄罗斯.md "wikilink")）國家研究和生產企業[Bazalt所研製及生產的](https://zh.wikipedia.org/wiki/Bazalt "wikilink")105毫米一次射擊型[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，是[RPG-26](../Page/RPG-26.md "wikilink")的改進型。同樣地，主要在短距離[反坦克戰](../Page/反坦克戰.md "wikilink")時使用，發射[PG-27](https://zh.wikipedia.org/wiki/PG-27 "wikilink") [HEAT火箭彈](../Page/高爆反坦克彈.md "wikilink")。
 
 ## 歷史
 
@@ -9,8 +8,7 @@ RPG-27是由[前苏联國家研究和生產企業](../Page/苏联.md "wikilink")
 
 ## 設計細節
 
-[Tula_State_Museum_of_Weapons_(79-58).jpg](https://zh.wikipedia.org/wiki/File:Tula_State_Museum_of_Weapons_\(79-58\).jpg "fig:Tula_State_Museum_of_Weapons_(79-58).jpg")、[RPG-26](../Page/RPG-26.md "wikilink")、RPG-27、[RPG-29](../Page/RPG-29.md "wikilink")和[RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")。\]\]
-RPG-27與RPG-26相同的是在於採用單筒式結構，發射筒兼作包裝筒，一次性使用（實際上與[AT4有些類似](../Page/AT4反坦克火箭筒.md "wikilink")）。發射筒由平紋玻璃纖維布浸塗樹酯卷製而成，兩端和中部有鋁製加強圈，上面裝有與RPG-22、RPG-26相同的簡易折疊式[機械瞄具](../Page/機械瞄具.md "wikilink")和發射、擊發機構，右側有背帶環和背帶組件。出廠時，發射筒預先裝好火箭彈，兩端使用橡膠盂密封，並且由[钢](../Page/钢.md "wikilink")圈所固定。發射、擊發機構由按鈕式扳機、扳機彈簧、擊發桿、擊發桿簧、導管、擊針組件等組成。平時後瞄準具П形板將扳機掩蓋起來，與帶拉環的橫向保險銷一起，作為貯存、運輸和攜行過程中的雙保險裝置，以確保使用安全。發射時，扣住拉環，撥出保險銷，豎起後瞄準具П型板，則擊發桿簧處於壓縮狀態，按壓扳機，即可射擊。只需6秒就能從攜行模式轉換到戰鬥模式。
+[Tula_State_Museum_of_Weapons_(79-58).jpg](https://zh.wikipedia.org/wiki/File:Tula_State_Museum_of_Weapons_\(79-58\).jpg "fig:Tula_State_Museum_of_Weapons_(79-58).jpg")、[RPG-26](../Page/RPG-26.md "wikilink")、RPG-27、[RPG-29](../Page/RPG-29.md "wikilink")和[RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")。\]\] RPG-27與RPG-26相同的是在於採用單筒式結構，發射筒兼作包裝筒，一次性使用（實際上與[AT4有些類似](../Page/AT4反坦克火箭筒.md "wikilink")）。發射筒由平紋玻璃纖維布浸塗樹酯卷製而成，兩端和中部有鋁製加強圈，上面裝有與RPG-22、RPG-26相同的簡易折疊式[機械瞄具](../Page/機械瞄具.md "wikilink")和發射、擊發機構，右側有背帶環和背帶組件。出廠時，發射筒預先裝好火箭彈，兩端使用橡膠盂密封，並且由[钢](../Page/钢.md "wikilink")圈所固定。發射、擊發機構由按鈕式扳機、扳機彈簧、擊發桿、擊發桿簧、導管、擊針組件等組成。平時後瞄準具П形板將扳機掩蓋起來，與帶拉環的橫向保險銷一起，作為貯存、運輸和攜行過程中的雙保險裝置，以確保使用安全。發射時，扣住拉環，撥出保險銷，豎起後瞄準具П型板，則擊發桿簧處於壓縮狀態，按壓扳機，即可射擊。只需6秒就能從攜行模式轉換到戰鬥模式。
 
 RPG-27發射​​PG-27（）105毫米火箭彈，以同期研製的為基礎，其[彈頭](../Page/彈頭.md "wikilink")為[锥形装药](https://zh.wikipedia.org/wiki/锥形装药 "wikilink")[反戰車高爆彈頭](../Page/高爆反坦克彈.md "wikilink")（，簡稱：HEAT），可以將主戰坦克本身的裝甲連[爆炸反應裝甲](https://zh.wikipedia.org/wiki/装甲#反應裝甲 "wikilink")（，簡稱：ERA）或是坦克的履帶側裙一併一擊貫穿。它可以在200公尺（218.72碼，656.17英尺）以內一擊貫穿大約600毫米的傳統[軋壓均質裝甲](../Page/軋壓均質裝甲.md "wikilink")連[爆炸反應裝甲](../Page/反应装甲.md "wikilink")（無爆炸反應裝甲則增至750毫米），1.5公尺的[磚](../Page/磚.md "wikilink")牆或是3.7米公尺的[钢筋混凝土](../Page/钢筋混凝土.md "wikilink")牆，比起破壞力不足以對付現代[裝甲車輛的PG](../Page/装甲车.md "wikilink")-18和PG-22具有更大威力。\[4\]
 
@@ -71,32 +69,23 @@ RPG-27還有一種衍生型名為RShG-1，改用[燃料空氣炸彈](../Page/燃
 
 <references />
 
-  - Jones, Richard. *Jane's Infantry Weapons 2005–06*. Coulsdon: Jane's,
-    2005. ISBN 0-7106-2694-0.
+  - Jones, Richard. *Jane's Infantry Weapons 2005–06*. Coulsdon: Jane's, 2005. ISBN 0-7106-2694-0.
 
 </div>
 
 ## 外部連結
 
-  - —[Modern Firearms—RPG-27 antitank disposable grenade launcher /
-    rocket-propelled
-    grenade](http://world.guns.ru/grenade/rus/rpg-27-e.html)
+  - —[Modern Firearms—RPG-27 antitank disposable grenade launcher / rocket-propelled grenade](http://world.guns.ru/grenade/rus/rpg-27-e.html)
 
-      - [RShG-1 assault disposable grenade launcher /
-        rocket-propelledgrenade](http://world.guns.ru/grenade/rus/rshg-1-e.html)
+      - [RShG-1 assault disposable grenade launcher / rocket-propelledgrenade](http://world.guns.ru/grenade/rus/rshg-1-e.html)
 
-  - —[MegaSword—Ручной противотанковый гранатомет РПГ-27
-    «Таволга»](http://www.megasword.ru/index.php?pg=618)
+  - —[MegaSword—Ручной противотанковый гранатомет РПГ-27 «Таволга»](http://www.megasword.ru/index.php?pg=618)
 
-  - —[**RPG-27
-    "Tavolga"**](http://jollyroger666.narod.ru/granatomet/rpg27_Tavolga.html)
+  - —[**RPG-27 "Tavolga"**](http://jollyroger666.narod.ru/granatomet/rpg27_Tavolga.html)
 
   - —[defenseonline.com.cn—俄罗斯塔沃尔加RPG-27式105mm火箭筒](https://web.archive.org/web/20160304072149/http://www.defenseonline.com.cn/weapon/qwq/hjt/hjt00047.htm)
 
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
-[Category:反坦克火箭筒](https://zh.wikipedia.org/wiki/Category:反坦克火箭筒 "wikilink")
-[Category:反坦克榴彈](https://zh.wikipedia.org/wiki/Category:反坦克榴彈 "wikilink")
+[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:反坦克火箭筒](https://zh.wikipedia.org/wiki/Category:反坦克火箭筒 "wikilink") [Category:反坦克榴彈](https://zh.wikipedia.org/wiki/Category:反坦克榴彈 "wikilink")
 
 1.  РПГ，全寫：**Р**учной **п**ротивотанковый **г**ранатомёт，意為：反坦克榴彈發射器
 

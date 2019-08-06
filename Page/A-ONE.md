@@ -68,9 +68,7 @@
   - [A-one 官方博客](http://blog.sina.com.cn/aone1111)
   - [A-one 音乐MV](http://www.yinyuetai.com/fanclub/5300)
 
-[Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink")
-[Category:2008年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2008年成立的音乐团体 "wikilink")
-[Category:华语流行音乐团体](https://zh.wikipedia.org/wiki/Category:华语流行音乐团体 "wikilink")
+[Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink") [Category:2008年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2008年成立的音乐团体 "wikilink") [Category:华语流行音乐团体](https://zh.wikipedia.org/wiki/Category:华语流行音乐团体 "wikilink")
 
 1.
 2.
@@ -78,9 +76,7 @@
 4.
 5.
 6.  [A-ONE林心如快乐大本营勇夺收视冠军](http://www.tianjinwe.com/tianjin/tjyl/201010/t20101020_2182842.html)
-
 7.  [A-ONE乐队推出首张专辑](http://epaper.jinghua.cn/html/2009-04/16/content_411445.htm)
-
 8.
 9.
 10.

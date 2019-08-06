@@ -1,5 +1,4 @@
-《**KODA KUMI Premium Night～Love & Songs～**》（典藏之夜～Love &
-Songs～）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2013年3月20日發行的演唱會影音作品。
+《**KODA KUMI Premium Night～Love & Songs～**》（典藏之夜～Love & Songs～）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2013年3月20日發行的演唱會影音作品。
 
 ## 解說
 
@@ -120,6 +119,4 @@ Songs～）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page
 
 ## 外部連結
 
-[官網介紹](https://web.archive.org/web/20130425053351/http://rhythmzone.net/koda/music2/dvd_15_premiumnight.html)
- [分類:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/分類:倖田來未音樂專輯 "wikilink")
-[分類:倖田來未影音作品](https://zh.wikipedia.org/wiki/分類:倖田來未影音作品 "wikilink")
+[官網介紹](https://web.archive.org/web/20130425053351/http://rhythmzone.net/koda/music2/dvd_15_premiumnight.html)  [分類:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/分類:倖田來未音樂專輯 "wikilink") [分類:倖田來未影音作品](https://zh.wikipedia.org/wiki/分類:倖田來未影音作品 "wikilink")

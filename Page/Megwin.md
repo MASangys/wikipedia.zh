@@ -1,6 +1,4 @@
-**MEGWIN TV（メグウィン
-TV）**，建立者為關根劍，為一名日本籍的[YouTuber](../Page/YouTuber.md "wikilink")，也是[YouTube](../Page/YouTube.md "wikilink")合作伙伴的其中一個。MEGWIN
-TV於2005年至2018年末間，每天都有上傳新影片。
+**MEGWIN TV（メグウィン TV）**，建立者為關根劍，為一名日本籍的[YouTuber](../Page/YouTuber.md "wikilink")，也是[YouTube](../Page/YouTube.md "wikilink")合作伙伴的其中一個。MEGWIN TV於2005年至2018年末間，每天都有上傳新影片。
 這頻道的訂閱者數量於2016年突破五十萬，後於2018年突破一百萬。此外，這頻道被認為是日本Youtuber的先驅和鼻祖\[1\]\[2\]。
 \*為防止歧義，本文會以MEGWIN代表關根劍，MEGWIN TV代表整個頻道。
 
@@ -10,13 +8,11 @@ MEGWIN TV每天一定會發放新的影片，漏了的話會補回。
 內容主要以搞笑為主，也有煮食教學（通常為[刺身](../Page/刺身.md "wikilink")），也有一些令人反感的影片。
 一年可能會有多於一次的粉絲見面會，完畢之後，有可能會上傳影片描述當天所發生的事情。
 有時會播放有關MEGWIN去旅行的片段。去旅行的時候，MEGWIN可能使用直播網站來通知粉絲們MEGWIN本人目前的位置、或會播放現場直播，旅行完畢後也可能會製成影片上傳到[YouTube](../Page/YouTube.md "wikilink")。
-另外，部分MEGWIN
-TV的影片可能含有成人內容（含[馬賽克](../Page/馬賽克_\(影像處理\).md "wikilink")），[YouTube](../Page/YouTube.md "wikilink")也會將該影片列為18歲以上人士才可觀看。
+另外，部分MEGWIN TV的影片可能含有成人內容（含[馬賽克](../Page/馬賽克_\(影像處理\).md "wikilink")），[YouTube](../Page/YouTube.md "wikilink")也會將該影片列為18歲以上人士才可觀看。
 
 其錄影現場十分廣泛，但主要都是在自己的家居錄製。
 
-在每年的4月1日[愚人節裡](https://zh.wikipedia.org/wiki/愚人節 "wikilink")，MEGWIN
-TV都會發一條假的「MEGWIN TV最後的影片」來作開玩笑。
+在每年的4月1日[愚人節裡](https://zh.wikipedia.org/wiki/愚人節 "wikilink")，MEGWIN TV都會發一條假的「MEGWIN TV最後的影片」來作開玩笑。
 
 ## 人物
 
@@ -67,24 +63,18 @@ MEGWIN的暱稱是「梅格先生」（メグさん）。自稱是搞笑影片�
     曾經主持MEGWIN TV節目「RRCK」、節目曾經停止播影，之後重新播出，但開始不久後又突然停止。\[12\]。
     :;從MEGWIN TV「畢業」
       -
-        於2018年10月14日，BANDY透過影片宣佈，自己以結婚為理由而已向MEGWIN TV辭職，為於MEGWIN
-        TV八年的工作畫上句號。\[13\]
+        於2018年10月14日，BANDY透過影片宣佈，自己以結婚為理由而已向MEGWIN TV辭職，為於MEGWIN TV八年的工作畫上句號。\[13\]
         與2013年「畢業」的DEBESO一樣，BANDY亦有宣佈開設了個人頻道，並會於該頻道活躍。\[14\]
   - 戸川俊（デルベッソ俊・デベソ・DEBESO）
     前副導演。[左撇子](https://zh.wikipedia.org/wiki/左撇子 "wikilink")。主要輔助MEGWIN從事錄影工作，有時候還會因劇中需要而負責演死對頭或突然亂入的角色。
-    原本在[新潟工作](https://zh.wikipedia.org/wiki/新潟 "wikilink")。辭職後偶然見到MEGWIN
-    TV而有興趣加入其「軍團」。
+    原本在[新潟工作](https://zh.wikipedia.org/wiki/新潟 "wikilink")。辭職後偶然見到MEGWIN TV而有興趣加入其「軍團」。
     在以前官方網頁的員工介紹頁面裡，表示DEBESO從來沒有吃過[雞蛋](../Page/雞蛋.md "wikilink")。但在此[影片](http://www.youtube.com/watch?v=RGIjiFWHGBc)中，卻顯示DEBESO正在吃一碗混有雞蛋和[豉油的飯](https://zh.wikipedia.org/wiki/豉油 "wikilink")。
     :;從MEGWIN TV「畢業」
       -
-        自從2013年11月之後，DEBESO在MEGWIN、BANDY和FALCON去美國留學開始，一直沒有更新過MEGWIN
-        TV的任何節目。
+        自從2013年11月之後，DEBESO在MEGWIN、BANDY和FALCON去美國留學開始，一直沒有更新過MEGWIN TV的任何節目。
         在MEGWIN、BANDY和FALCON回到[日本](../Page/日本.md "wikilink")之後，一直被訂閱者追問有關DEBESO的情況。
-        在追問後的翌日，MEGWIN
-        TV上傳了一條影片，證實DEBESO已經「畢業」，理由是創作理念上發生了分歧，儘管經過多次的討論，但DEBESO仍然決定離開工作了三年的MEGWIN
-        TV。\[15\]
-        儘管離開了MEGWIN
-        TV，DEBESO在[YouTube](../Page/YouTube.md "wikilink")上開了一個新的個人頻道\[16\]，亦開設了新網誌\[17\]。
+        在追問後的翌日，MEGWIN TV上傳了一條影片，證實DEBESO已經「畢業」，理由是創作理念上發生了分歧，儘管經過多次的討論，但DEBESO仍然決定離開工作了三年的MEGWIN TV。\[15\]
+        儘管離開了MEGWIN TV，DEBESO在[YouTube](../Page/YouTube.md "wikilink")上開了一個新的個人頻道\[16\]，亦開設了新網誌\[17\]。
   - 西田 隼人（ファルコン・FALCON）
     真名為西田ハヤト。在2013年加入MEGWIN TV。個人特色為對好東西進行讚賞時會大叫「極上〜！」。
     :;從MEGWIN TV離職
@@ -107,8 +97,7 @@ MEGWIN的暱稱是「梅格先生」（メグさん）。自稱是搞笑影片�
 
   - メグワート大佐
 
-MEGWIN會全裸登場、利用物件當成[馬賽克
-(影像處理)而看不到](../Page/馬賽克_\(影像處理\).md "wikilink")「那地方」的系列，通常主要都是被YouTube列為18歲以上才可以看。
+MEGWIN會全裸登場、利用物件當成[馬賽克 (影像處理)而看不到](../Page/馬賽克_\(影像處理\).md "wikilink")「那地方」的系列，通常主要都是被YouTube列為18歲以上才可以看。
 
   - アニメグ
 
@@ -147,8 +136,7 @@ RRCK英文全稱為"**R**oad of the **R**etort-pouched **C**urry **K**ing"
 
   - 旅企画
 
-主要是記錄MEGWIN去旅行的過程。主要規劃包括：「最北端（宗谷岬）で初日の出を拝む旅」（2011年-2012年)、『MEGWINTV
-スポ根CLUB』和『本土最南端にフラグを立てろ』。
+主要是記錄MEGWIN去旅行的過程。主要規劃包括：「最北端（宗谷岬）で初日の出を拝む旅」（2011年-2012年)、『MEGWINTV スポ根CLUB』和『本土最南端にフラグを立てろ』。
 
   - Fighting MEMO
 
@@ -199,14 +187,9 @@ YouTubeで小さく稼ぐ \~再生回数2億回の達人が教える、撮った
 MEGWIN在所有遊戲裡都是主要的挑戰者\[20\]，但也有邀請其他[YouTuber](../Page/YouTuber.md "wikilink")來一起挑戰或處理遊戲事務。
 在「馬で江戸横断ゲーム」完結之後，BEGIRAGONS宣佈將會進行改革，變成很多人都可以一起遊玩的遊戲頻道，意味著不是只有MEGWIN一個玩家，而是有很多其他YouTuber以至觀眾都能參與遊戲。
 
-在「嫌だバトル」系列完結之後，BEGIRAGONS推出了新作「Sh\*tty Game
-Show」，而主持由MEGWIN改成JUSTICE，惟新作沒有英語字幕，同時內容與風格相比以前的作品有明顯差異，因而引發部分觀眾批評。
-兩天後，BEGIRAGONS的骨幹成員MEGWIN和BANDY與新作的主持人JUSTICE一起出現於[新影片](https://www.youtube.com/watch?v=RehdhmqVrRE)中，BANDY親自解釋在系列「竹家チャレンジ」上傳完成後，BEGIRAGONS原本打算無限期停止更新，因為此頻道得不到足夠的訂閱者，以及主頻道MEGWIN
-TV進行重組，所以MEGWIN、BANDY及其他MEGWIN
-TV的成員均不得不停止BEGIRAGONS的計劃。當BANDY正在製作宣佈停止更新的影片時，曾經在「竹家チャレンジ」系列尾段出現的JUSTICE出現了，往後骨幹成員以「來一個新的挑戰」為由，決定把頻道的控制權轉給JUSTICE。而JUSTICE則解釋，因為頻道本來就是以外國觀眾為市場，所以影片會改為全英語並不加任何英語字幕。同時他成立了一個團隊，以獲得更多外國觀眾的注目為目標，並表示努力地製作影片，甚至要超越以前的系列。最後JUSTICE和BANDY都提及，以後MEGWIN
-TV的骨幹成員會比較少出現在BEGIRAGONS的影片裡。
-對此，有觀眾表示，BEGIRAGONS的魅力就是在於有關日本的一切，外國的遊戲節目周圍都能看到，但像BEGIRAGONS一樣附上英語字幕、由日本人主持的日本遊戲節目，對於外國人而言是十分新鮮且有魅力的，因此BEGIRAGONS建立初期便已經成功獲得部分外國觀眾的關注和訂閱。另外也有觀眾表示，一旦BEGIRAGONS的節目不再由MEGWIN
-TV的成員主持，頻道將會完全失去擁有的魅力和特色，繼而導致訂閱者的大量流失。
+在「嫌だバトル」系列完結之後，BEGIRAGONS推出了新作「Sh\*tty Game Show」，而主持由MEGWIN改成JUSTICE，惟新作沒有英語字幕，同時內容與風格相比以前的作品有明顯差異，因而引發部分觀眾批評。
+兩天後，BEGIRAGONS的骨幹成員MEGWIN和BANDY與新作的主持人JUSTICE一起出現於[新影片](https://www.youtube.com/watch?v=RehdhmqVrRE)中，BANDY親自解釋在系列「竹家チャレンジ」上傳完成後，BEGIRAGONS原本打算無限期停止更新，因為此頻道得不到足夠的訂閱者，以及主頻道MEGWIN TV進行重組，所以MEGWIN、BANDY及其他MEGWIN TV的成員均不得不停止BEGIRAGONS的計劃。當BANDY正在製作宣佈停止更新的影片時，曾經在「竹家チャレンジ」系列尾段出現的JUSTICE出現了，往後骨幹成員以「來一個新的挑戰」為由，決定把頻道的控制權轉給JUSTICE。而JUSTICE則解釋，因為頻道本來就是以外國觀眾為市場，所以影片會改為全英語並不加任何英語字幕。同時他成立了一個團隊，以獲得更多外國觀眾的注目為目標，並表示努力地製作影片，甚至要超越以前的系列。最後JUSTICE和BANDY都提及，以後MEGWIN TV的骨幹成員會比較少出現在BEGIRAGONS的影片裡。
+對此，有觀眾表示，BEGIRAGONS的魅力就是在於有關日本的一切，外國的遊戲節目周圍都能看到，但像BEGIRAGONS一樣附上英語字幕、由日本人主持的日本遊戲節目，對於外國人而言是十分新鮮且有魅力的，因此BEGIRAGONS建立初期便已經成功獲得部分外國觀眾的關注和訂閱。另外也有觀眾表示，一旦BEGIRAGONS的節目不再由MEGWIN TV的成員主持，頻道將會完全失去擁有的魅力和特色，繼而導致訂閱者的大量流失。
 
 目前此頻道的系列包括：
 
@@ -238,22 +221,13 @@ TV的成員主持，頻道將會完全失去擁有的魅力和特色，繼而導
 
 ## 歷史
 
-2005年2月
-[互聯網](https://zh.wikipedia.org/wiki/互聯網 "wikilink")「[廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")」『MEGWIN
-TV』正式開局。
+2005年2月 [互聯網](https://zh.wikipedia.org/wiki/互聯網 "wikilink")「[廣播電台](https://zh.wikipedia.org/wiki/廣播電台 "wikilink")」『MEGWIN TV』正式開局。
 2011年6月 MEGWIN TV[株式会社](../Page/株式会社.md "wikilink")正式成立。
 2014年1月29日 MEGWIN TV成立子頻道「BEGIRAGONS」。
-2014年11月23日
-MEGWIN與一名澳洲籍女子Amanda[結婚](https://zh.wikipedia.org/wiki/結婚 "wikilink")，並於12月6日開始上傳有關影片，當中MEGWIN表示這是「MEGWIN
-TV成立以來最大的挑戰」。\[21\]
-2018年12月12日 FALCON與METEOR開設了新頻道，並上傳影片宣佈已經辭去MEGWIN
-TV工作。該影片中，兩人更有「已發展到再也不能與公司（MEGWIN
-TV）合作的情況」、「事實上更像是被[解僱](../Page/解僱.md "wikilink")」、「被塑造成自己想休息的樣子」等言\[22\]\[23\]，引發日本網絡對MEGWIN
-TV的負評。
-2018年12月13日
-MEGWIN上傳影片解釋事件。該影片中，MEGWIN強調自己的決策合法，且因有「我們既不是朋友，也不是團隊，而是一間公司」的發言而觸發更激烈的負評\[24\]。
-2018年12月14日
-MEGWIN再度上傳影片，試圖為爭議事件降溫。該影片中，MEGWIN對FALCON和METEOR致謝，並宣佈「將中斷13年來每日上傳影片的活動」\[25\]。
+2014年11月23日 MEGWIN與一名澳洲籍女子Amanda[結婚](https://zh.wikipedia.org/wiki/結婚 "wikilink")，並於12月6日開始上傳有關影片，當中MEGWIN表示這是「MEGWIN TV成立以來最大的挑戰」。\[21\]
+2018年12月12日 FALCON與METEOR開設了新頻道，並上傳影片宣佈已經辭去MEGWIN TV工作。該影片中，兩人更有「已發展到再也不能與公司（MEGWIN TV）合作的情況」、「事實上更像是被[解僱](../Page/解僱.md "wikilink")」、「被塑造成自己想休息的樣子」等言\[22\]\[23\]，引發日本網絡對MEGWIN TV的負評。
+2018年12月13日 MEGWIN上傳影片解釋事件。該影片中，MEGWIN強調自己的決策合法，且因有「我們既不是朋友，也不是團隊，而是一間公司」的發言而觸發更激烈的負評\[24\]。
+2018年12月14日 MEGWIN再度上傳影片，試圖為爭議事件降溫。該影片中，MEGWIN對FALCON和METEOR致謝，並宣佈「將中斷13年來每日上傳影片的活動」\[25\]。
 2019年1月10日 MEGWIN宣布自己「復活」，將繼續影片製作活動\[26\]。
 
 ## 參考
@@ -262,17 +236,13 @@ MEGWIN再度上傳影片，試圖為爭議事件降溫。該影片中，MEGWIN�
 
   - [MEGWIN TV官方網站](http://megwin.com)
   - [MEGWIN在YouTube的官方頻道](http://www.youtube.com/user/megwin)
-  - [MEGWIN
-    TV子頻道「BEGIRAGONS」在YouTube的官方頻道](http://www.youtube.com/user/begiragons/)
+  - [MEGWIN TV子頻道「BEGIRAGONS」在YouTube的官方頻道](http://www.youtube.com/user/begiragons/)
 
-[Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink")
-[Category:日本YouTuber](https://zh.wikipedia.org/wiki/Category:日本YouTuber "wikilink")
-[Category:日本網路紅人](https://zh.wikipedia.org/wiki/Category:日本網路紅人 "wikilink")
+[Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:日本YouTuber](https://zh.wikipedia.org/wiki/Category:日本YouTuber "wikilink") [Category:日本網路紅人](https://zh.wikipedia.org/wiki/Category:日本網路紅人 "wikilink")
 
 1.  <https://moneyforward.com/media/work/12156/>
 2.  <http://ure.pia.co.jp/articles/-/29820>
-3.  \[<http://www.brst.tv/new_prof/05wabi.php>　brst.TVお笑いチャンネル　わびさびわさび紹介ページ\]
-    相中的人就是MEGWIN本人
+3.  \[<http://www.brst.tv/new_prof/05wabi.php>　brst.TVお笑いチャンネル　わびさびわさび紹介ページ\] 相中的人就是MEGWIN本人
 4.  <https://www.youtube.com/watch?v=a6WUxpIPi1k>
 5.  <https://www.youtube.com/watch?v=Db_iEaCCTGg?t=434>
 6.  <http://www.youtube.com/watch?v=yRsq7b06tyE> 有關影片
@@ -280,8 +250,7 @@ MEGWIN再度上傳影片，試圖為爭議事件降溫。該影片中，MEGWIN�
 8.  <http://www.youtube.com/watch?v=28NtgyGpn3Y>
 9.  <http://www.youtube.com/watch?v=XAyLN42XXnY>
 10. <http://www.youtube.com/watch?v=40uiC_P5TFg>
-11. <http://ameblo.jp/todaysdinner/theme-10009314034.html>
-    圖中人就是在當時組合的BANDY
+11. <http://ameblo.jp/todaysdinner/theme-10009314034.html> 圖中人就是在當時組合的BANDY
 12. <http://www.youtube.com/user/RRCKRRCKRRCK> RRCK專屬頻道。
 13. <https://www.youtube.com/watch?v=Wp9Qyjrn7hI>
 14. <https://www.youtube.com/watch?v=Dt6MNduMd10>

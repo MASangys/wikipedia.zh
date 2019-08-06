@@ -18,14 +18,10 @@ EPL2T型电力动车组是[动力分散式列车](https://zh.wikipedia.org/wiki/
 
 ## 外部链接
 
-  - [ПАО «Лугансктепловоз»: Электропоезд
-    ЕПЛ2Т](http://www.luganskteplovoz.com/ProdOsnProduct/OnlyOsnProduct/26)
+  - [ПАО «Лугансктепловоз»: Электропоезд ЕПЛ2Т](http://www.luganskteplovoz.com/ProdOsnProduct/OnlyOsnProduct/26)
 
-  - [«Подвижной состав»: Электропоезд
-    ЭПЛ2Т](https://web.archive.org/web/20150518230132/http://railway-publish.com/epl2t.html)
+  - [«Подвижной состав»: Электропоезд ЭПЛ2Т](https://web.archive.org/web/20150518230132/http://railway-publish.com/epl2t.html)
 
-[Category:3000伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:3000伏直流电力动车组 "wikilink")
-[Category:乌克兰电力动车组](https://zh.wikipedia.org/wiki/Category:乌克兰电力动车组 "wikilink")
-[Category:盧甘斯克製鐵路車輛](https://zh.wikipedia.org/wiki/Category:盧甘斯克製鐵路車輛 "wikilink")
+[Category:3000伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:3000伏直流电力动车组 "wikilink") [Category:乌克兰电力动车组](https://zh.wikipedia.org/wiki/Category:乌克兰电力动车组 "wikilink") [Category:盧甘斯克製鐵路車輛](https://zh.wikipedia.org/wiki/Category:盧甘斯克製鐵路車輛 "wikilink")
 
 1.

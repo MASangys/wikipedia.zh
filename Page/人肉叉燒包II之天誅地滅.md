@@ -26,5 +26,4 @@
   -
 [分類:人吃人題材電影](https://zh.wikipedia.org/wiki/分類:人吃人題材電影 "wikilink")
 
-[Category:香港犯罪片](https://zh.wikipedia.org/wiki/Category:香港犯罪片 "wikilink")
-[Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink")
+[Category:香港犯罪片](https://zh.wikipedia.org/wiki/Category:香港犯罪片 "wikilink") [Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink")

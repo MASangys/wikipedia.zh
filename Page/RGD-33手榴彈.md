@@ -36,7 +36,4 @@ RGD-33手榴彈的彈體內置一層薄破片套，爆炸時會產生一定量�
   - [24型柄式手榴弹](https://zh.wikipedia.org/wiki/24型柄式手榴弹 "wikilink")
   - [RG-42手榴弹](https://zh.wikipedia.org/wiki/RG-42手榴弹 "wikilink")
 
-[Category:手榴彈](https://zh.wikipedia.org/wiki/Category:手榴彈 "wikilink")
-[Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")
-[Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
-[Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink")
+[Category:手榴彈](https://zh.wikipedia.org/wiki/Category:手榴彈 "wikilink") [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink") [Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink")

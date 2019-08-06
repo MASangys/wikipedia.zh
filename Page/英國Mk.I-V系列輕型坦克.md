@@ -1,10 +1,8 @@
 **英國Mk.I-V系列輕型坦克**包括了Mk.I-V輕型坦克。
 
-在[戰間期](https://zh.wikipedia.org/wiki/戰間期 "wikilink")，英國製造了一系列相似的[輕型坦克](https://zh.wikipedia.org/wiki/輕型坦克 "wikilink")。它們被用於訓練，並在1941年的[東非戰爭期間和一些諸如](https://zh.wikipedia.org/wiki/東非戰爭 "wikilink")[南非的](https://zh.wikipedia.org/wiki/南非 "wikilink")[大英帝国](../Page/大英帝国.md "wikilink")的成員共同進行了少量的作戰。所有這些戰車的重量都在5[長噸左右](https://zh.wikipedia.org/wiki/長噸 "wikilink")，并在平路上擁有30 mph(50 km/h)的最大速度，越野時則為20 mph
-(30 km/h)。
+在[戰間期](https://zh.wikipedia.org/wiki/戰間期 "wikilink")，英國製造了一系列相似的[輕型坦克](https://zh.wikipedia.org/wiki/輕型坦克 "wikilink")。它們被用於訓練，並在1941年的[東非戰爭期間和一些諸如](https://zh.wikipedia.org/wiki/東非戰爭 "wikilink")[南非的](https://zh.wikipedia.org/wiki/南非 "wikilink")[大英帝国](../Page/大英帝国.md "wikilink")的成員共同進行了少量的作戰。所有這些戰車的重量都在5[長噸左右](https://zh.wikipedia.org/wiki/長噸 "wikilink")，并在平路上擁有30 mph(50 km/h)的最大速度，越野時則為20 mph (30 km/h)。
 
-因為英國人並不指望他們的輕型坦克能對付除了輕型坦克以外的戰車，因此，它們僅僅安裝了維克斯.50或.303英寸機槍。懸掛採用霍姆斯斜彈簧式。引擎一般是[亨利-梅朵](https://zh.wikipedia.org/wiki/亨利-梅朵 "wikilink")6缸[汽油機](https://zh.wikipedia.org/wiki/汽油機 "wikilink")。除了Mk
-V，所有這些坦克都只有兩名乘員:車長（兼任駕駛員）和炮手。Mk.V則有三名成員：炮手，車長（要幫助操控機槍），駕駛員。
+因為英國人並不指望他們的輕型坦克能對付除了輕型坦克以外的戰車，因此，它們僅僅安裝了維克斯.50或.303英寸機槍。懸掛採用霍姆斯斜彈簧式。引擎一般是[亨利-梅朵](https://zh.wikipedia.org/wiki/亨利-梅朵 "wikilink")6缸[汽油機](https://zh.wikipedia.org/wiki/汽油機 "wikilink")。除了Mk V，所有這些坦克都只有兩名乘員:車長（兼任駕駛員）和炮手。Mk.V則有三名成員：炮手，車長（要幫助操控機槍），駕駛員。
 
 ## 研發
 
@@ -14,8 +12,7 @@ Mk.VII是一種輕型的安裝機槍的戰車，使用59匹梅朵引擎。最大
 
 ## Mk.I輕型坦克
 
-Mk.I與Mk.VII坦克有些不同。外置的懸掛主軸爲了增強載重能力而下調。切角砲塔被一種個圓柱形的設計取代，但仍安裝一門0.303
-英寸[維克斯機槍](../Page/維克斯機槍.md "wikilink")。它的裝甲為14mm。因為裝甲的增加，最大速度下降到了。
+Mk.I與Mk.VII坦克有些不同。外置的懸掛主軸爲了增強載重能力而下調。切角砲塔被一種個圓柱形的設計取代，但仍安裝一門0.303 英寸[維克斯機槍](../Page/維克斯機槍.md "wikilink")。它的裝甲為14mm。因為裝甲的增加，最大速度下降到了。
 
 米多斯引擎通過一個四檔變速箱調節前輪的轉速從而控制履帶的速度。傳動裝置是一個控制履帶和制動的離合驅動器，從而增強了轉向性能。它的履帶被一個放置在與驅動鏈輪相同高度處的后惰轮拉緊。該設計在英國坦克設計中顯得十分新穎。同時，採用了3根棍軸支架。
 
@@ -145,27 +142,19 @@ Mk.V的火力比起更早的型號有了提升：用一把[0.5英寸維克斯機
   -
 <!-- end list -->
 
-  - Rickard, J (11 September 2009) ["Light Tank Mk I,
-    A4"](http://www.historyofwar.org/articles/weapons_light_tank_mkI.html)
+  - Rickard, J (11 September 2009) ["Light Tank Mk I, A4"](http://www.historyofwar.org/articles/weapons_light_tank_mkI.html)
 
 ## 圖片
 
 Image:IWM-KID-333-Light-tank-MkIII.jpg| Mk.III輕型坦克
 
-Image:British Light Tank Mk IIA - at Bovington.jpg|
-陳列於[博文頓坦克博物館的Mk](https://zh.wikipedia.org/wiki/博文頓坦克博物館 "wikilink")
-IIA
+Image:British Light Tank Mk IIA - at Bovington.jpg| 陳列於[博文頓坦克博物館的Mk](https://zh.wikipedia.org/wiki/博文頓坦克博物館 "wikilink") IIA
 
 ## 外部連結
 
   - [二戰戰車](http://www.wwiivehicles.com/unitedkingdom/tanks-light/light-tanks.asp)
-  - [Mk I](http://ww2photo.mimerswell.com/tanks/gb/ligh/mk1/mk1.htm),
-    [Mk
-    II/III](http://ww2photo.mimerswell.com/tanks/gb/ligh/mk2/mk2.htm),
-    [Mk IV/V](http://ww2photo.mimerswell.com/tanks/gb/ligh/mk4/mk4.htm)
+  - [Mk I](http://ww2photo.mimerswell.com/tanks/gb/ligh/mk1/mk1.htm), [Mk II/III](http://ww2photo.mimerswell.com/tanks/gb/ligh/mk2/mk2.htm), [Mk IV/V](http://ww2photo.mimerswell.com/tanks/gb/ligh/mk4/mk4.htm)
 
-[Category:英國坦克](https://zh.wikipedia.org/wiki/Category:英國坦克 "wikilink")
-[Category:轻型坦克](https://zh.wikipedia.org/wiki/Category:轻型坦克 "wikilink")
-[Category:二戰坦克](https://zh.wikipedia.org/wiki/Category:二戰坦克 "wikilink")
+[Category:英國坦克](https://zh.wikipedia.org/wiki/Category:英國坦克 "wikilink") [Category:轻型坦克](https://zh.wikipedia.org/wiki/Category:轻型坦克 "wikilink") [Category:二戰坦克](https://zh.wikipedia.org/wiki/Category:二戰坦克 "wikilink")
 
 1.  Duncan

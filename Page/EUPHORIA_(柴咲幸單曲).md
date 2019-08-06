@@ -34,5 +34,4 @@
 1.  **EUPHORIA -MUSIC VIDEO-**
 2.  **EUPHORIA -MAKING-**
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:柴咲幸單曲](https://zh.wikipedia.org/wiki/Category:柴咲幸單曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:柴咲幸單曲](https://zh.wikipedia.org/wiki/Category:柴咲幸單曲 "wikilink")

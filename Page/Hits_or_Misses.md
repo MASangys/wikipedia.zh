@@ -1,5 +1,4 @@
-《**Hits or
-Misses**》是[陳冠希](../Page/陳冠希.md "wikilink")的第7張[音樂專輯](../Page/音樂專輯.md "wikilink")、第1張新曲+精選，於2003年2月13日推出。
+《**Hits or Misses**》是[陳冠希](../Page/陳冠希.md "wikilink")的第7張[音樂專輯](../Page/音樂專輯.md "wikilink")、第1張新曲+精選，於2003年2月13日推出。
 
 ## 曲目
 
@@ -14,6 +13,4 @@ Misses**》是[陳冠希](../Page/陳冠希.md "wikilink")的第7張[音樂專�
 
 ## 獎項
 
-[Category:陳冠希音樂專輯](https://zh.wikipedia.org/wiki/Category:陳冠希音樂專輯 "wikilink")
-[Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:陳冠希音樂專輯](https://zh.wikipedia.org/wiki/Category:陳冠希音樂專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

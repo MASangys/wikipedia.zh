@@ -17,24 +17,15 @@
         和2004年「[Blue Jean](../Page/Blue_Jean.md "wikilink")」同時期製作的歌曲。
 3.  **戀**
       -
-        MV由[紀里谷和明](../Page/紀里谷和明.md "wikilink")擔任導演，描寫同性戀和背叛愛情。在電視節目『[音樂戰士
-        MUSIC
-        FIGHTER](../Page/音樂戰士_MUSIC_FIGHTER.md "wikilink")』、『[我們的音樂](https://zh.wikipedia.org/wiki/我們的音樂 "wikilink")』中演出。
+        MV由[紀里谷和明](../Page/紀里谷和明.md "wikilink")擔任導演，描寫同性戀和背叛愛情。在電視節目『[音樂戰士 MUSIC FIGHTER](../Page/音樂戰士_MUSIC_FIGHTER.md "wikilink")』、『[我們的音樂](https://zh.wikipedia.org/wiki/我們的音樂 "wikilink")』中演出。
 4.  **LAYLA**
       -
         這首歌原本預定在2005年發行單曲。
 
 ## 收錄專輯
 
-  - [LOVE IS
-    BEAUTIFUL](https://zh.wikipedia.org/wiki/LOVE_IS_BEAUTIFUL "wikilink")（ROCK'N'ROLL
-    SWINDLE和LAYLA為專輯版本）
-  - [THE GREAT VACATION VOL.1 〜SUPER BEST OF
-    GLAY〜](https://zh.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink")
-    （ROCK'N'ROLL SWINDLE和LAYLA為專輯版本）
-  - [rare collectives
-    vol.3](https://zh.wikipedia.org/wiki/rare_collectives_vol.3 "wikilink")
+  - [LOVE IS BEAUTIFUL](https://zh.wikipedia.org/wiki/LOVE_IS_BEAUTIFUL "wikilink")（ROCK'N'ROLL SWINDLE和LAYLA為專輯版本）
+  - [THE GREAT VACATION VOL.1 〜SUPER BEST OF GLAY〜](https://zh.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink") （ROCK'N'ROLL SWINDLE和LAYLA為專輯版本）
+  - [rare collectives vol.3](https://zh.wikipedia.org/wiki/rare_collectives_vol.3 "wikilink")
 
-[Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
-[Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink")
-[Category:EMI日本歌曲](https://zh.wikipedia.org/wiki/Category:EMI日本歌曲 "wikilink")
+[Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink") [Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink") [Category:EMI日本歌曲](https://zh.wikipedia.org/wiki/Category:EMI日本歌曲 "wikilink")

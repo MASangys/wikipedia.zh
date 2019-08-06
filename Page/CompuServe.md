@@ -5,16 +5,13 @@
 ## 外部链接
 
   -
-  - [Aviation Special Interest
-    Group](http://www.aero-farm.com/cisaolwww.htm)
+  - [Aviation Special Interest Group](http://www.aero-farm.com/cisaolwww.htm)
 
-  - [CompuServe Interactive Services, Inc.
-    History](http://www.fundinguniverse.com/company-histories/compuserve-interactive-services-inc-history/)
+  - [CompuServe Interactive Services, Inc. History](http://www.fundinguniverse.com/company-histories/compuserve-interactive-services-inc-history/)
 
 [分类:美国互联网公司](https://zh.wikipedia.org/wiki/分类:美国互联网公司 "wikilink")
 
-[Category:美國線上公司](https://zh.wikipedia.org/wiki/Category:美國線上公司 "wikilink")
-[Category:1969年成立的公司](https://zh.wikipedia.org/wiki/Category:1969年成立的公司 "wikilink")
+[Category:美國線上公司](https://zh.wikipedia.org/wiki/Category:美國線上公司 "wikilink") [Category:1969年成立的公司](https://zh.wikipedia.org/wiki/Category:1969年成立的公司 "wikilink")
 
 1.
 2.

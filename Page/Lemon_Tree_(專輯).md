@@ -1,6 +1,4 @@
-《**Lemon
-Tree**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[蘇慧倫](../Page/蘇慧倫.md "wikilink")的第十一張大碟，在1996年5月23日推出。專輯第一主打歌是專輯同名歌曲《Lemon
-Tree》，這歌曲令她火速走紅，更使這專輯在台灣銷量達到70萬張。
+《**Lemon Tree**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[蘇慧倫](../Page/蘇慧倫.md "wikilink")的第十一張大碟，在1996年5月23日推出。專輯第一主打歌是專輯同名歌曲《Lemon Tree》，這歌曲令她火速走紅，更使這專輯在台灣銷量達到70萬張。
 
 ## 曲目
 
@@ -106,8 +104,4 @@ Tree》，這歌曲令她火速走紅，更使這專輯在台灣銷量達到70�
   - 平裝CD版
   - 錄音帶版
 
-[Category:蘇慧倫音樂專輯](https://zh.wikipedia.org/wiki/Category:蘇慧倫音樂專輯 "wikilink")
-[Category:1996年音樂專輯](https://zh.wikipedia.org/wiki/Category:1996年音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:滚石唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:滚石唱片音乐专辑 "wikilink")
-[Category:樹題材歌曲](https://zh.wikipedia.org/wiki/Category:樹題材歌曲 "wikilink")
+[Category:蘇慧倫音樂專輯](https://zh.wikipedia.org/wiki/Category:蘇慧倫音樂專輯 "wikilink") [Category:1996年音樂專輯](https://zh.wikipedia.org/wiki/Category:1996年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:滚石唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:滚石唱片音乐专辑 "wikilink") [Category:樹題材歌曲](https://zh.wikipedia.org/wiki/Category:樹題材歌曲 "wikilink")

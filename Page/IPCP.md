@@ -896,8 +896,7 @@ RFC 1877
 ## 参考资料
 
   - RFC 1332: 网际协议控制协议（IPCP）
-  - RFC 1570:
-    PPP[链路控制协议](https://zh.wikipedia.org/wiki/链路控制协议 "wikilink")（LCP）扩展
+  - RFC 1570: PPP[链路控制协议](https://zh.wikipedia.org/wiki/链路控制协议 "wikilink")（LCP）扩展
   - RFC 1661: [点对点协议](../Page/点对点协议.md "wikilink")（PPP）
 
 [Category:网际协议](https://zh.wikipedia.org/wiki/Category:网际协议 "wikilink")

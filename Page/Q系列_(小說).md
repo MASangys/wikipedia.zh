@@ -1,9 +1,6 @@
 是由日本作家[松岡圭祐](../Page/松岡圭祐.md "wikilink")所撰寫的[推理小說](../Page/推理小說.md "wikilink")系列，封面插畫為[清原紘](../Page/清原紘.md "wikilink")繪製。由[角川文庫](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")（[角川書店](../Page/角川書店.md "wikilink")）刊行。[漫畫於](https://zh.wikipedia.org/wiki/漫畫 "wikilink")2013年2月開始連載，2017年三月完結。
 
-Q系列包括第一部《**万能鑑定士Q的事件簿**》（、Case Files of All-Round Appraiser
-Q）、第二部《**万能鑑定士Q的推理劇**》（、The Mystery Featuring of
-All-Round Appraiser Q）、短篇集《**万能鑑定士Q的短篇集**》（、Story Collection of
-All-Round Appraiser Q）。
+Q系列包括第一部《**万能鑑定士Q的事件簿**》（、Case Files of All-Round Appraiser Q）、第二部《**万能鑑定士Q的推理劇**》（、The Mystery Featuring of All-Round Appraiser Q）、短篇集《**万能鑑定士Q的短篇集**》（、Story Collection of All-Round Appraiser Q）。
 
 ## 人物
 
@@ -384,29 +381,11 @@ All-Round Appraiser Q）。
 
 ## 外部連結
 
-  - [万能鑑定士Qの事件簿
-    著者公式サイト](https://web.archive.org/web/20131023053416/http://www.matsuokakeisuke.jp/menu/q/)
-  - [web
-    KADOKAWA『松岡圭祐』](https://web.archive.org/web/20131008113500/http://www.kadokawa.co.jp/senrigan/index.php)
+  - [万能鑑定士Qの事件簿 著者公式サイト](https://web.archive.org/web/20131023053416/http://www.matsuokakeisuke.jp/menu/q/)
+  - [web KADOKAWA『松岡圭祐』](https://web.archive.org/web/20131008113500/http://www.kadokawa.co.jp/senrigan/index.php)
   - [圓神書活網－萬能鑑定士Q的事件簿9：蒙娜麗莎之瞳](http://www.booklife.com.tw/%E8%90%AC%E8%83%BD%E9%91%91%E5%AE%9A%E5%A3%ABQ%E7%9A%84%E4%BA%8B%E4%BB%B6%E7%B0%BF9%EF%BC%9A%E8%92%99%E5%A8%9C%E9%BA%97%E8%8E%8E%E4%B9%8B%E7%9E%B3/action-products_detail-lid-1-did-4273.htm)
-  - [天馬行空－萬能鑑定士Q
-    蒙娜麗莎之瞳](http://www.skydigient.com/new_movies_detail.asp?mmid=136&bt=3)
+  - [天馬行空－萬能鑑定士Q 蒙娜麗莎之瞳](http://www.skydigient.com/new_movies_detail.asp?mmid=136&bt=3)
 
-[Category:绫濑遥](https://zh.wikipedia.org/wiki/Category:绫濑遥 "wikilink")
-[Category:松岡圭祐](https://zh.wikipedia.org/wiki/Category:松岡圭祐 "wikilink")
-[Category:日本推理小說系列作品](https://zh.wikipedia.org/wiki/Category:日本推理小說系列作品 "wikilink")
-[Category:美術題材作品](https://zh.wikipedia.org/wiki/Category:美術題材作品 "wikilink")
-[Category:被改編成電影的推理小說](https://zh.wikipedia.org/wiki/Category:被改編成電影的推理小說 "wikilink")
-[Category:改編成電影的日本小說](https://zh.wikipedia.org/wiki/Category:改編成電影的日本小說 "wikilink")
-[Category:2014年日本電影](https://zh.wikipedia.org/wiki/Category:2014年日本電影 "wikilink")
-[Category:日本懸疑片](https://zh.wikipedia.org/wiki/Category:日本懸疑片 "wikilink")
-[Category:2010年代懸疑片](https://zh.wikipedia.org/wiki/Category:2010年代懸疑片 "wikilink")
-[Category:TBS製作的電影](https://zh.wikipedia.org/wiki/Category:TBS製作的電影 "wikilink")
-[Category:東寶電影](https://zh.wikipedia.org/wiki/Category:東寶電影 "wikilink")
-[Category:每日放送製作的電影](https://zh.wikipedia.org/wiki/Category:每日放送製作的電影 "wikilink")
-[Category:WOWOW製作的電影](https://zh.wikipedia.org/wiki/Category:WOWOW製作的電影 "wikilink")
-[Category:日本推理小說改編電影](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電影 "wikilink")
-[Category:巴黎背景電影](https://zh.wikipedia.org/wiki/Category:巴黎背景電影 "wikilink")
-[Category:Young_Ace](https://zh.wikipedia.org/wiki/Category:Young_Ace "wikilink")
+[Category:绫濑遥](https://zh.wikipedia.org/wiki/Category:绫濑遥 "wikilink") [Category:松岡圭祐](https://zh.wikipedia.org/wiki/Category:松岡圭祐 "wikilink") [Category:日本推理小說系列作品](https://zh.wikipedia.org/wiki/Category:日本推理小說系列作品 "wikilink") [Category:美術題材作品](https://zh.wikipedia.org/wiki/Category:美術題材作品 "wikilink") [Category:被改編成電影的推理小說](https://zh.wikipedia.org/wiki/Category:被改編成電影的推理小說 "wikilink") [Category:改編成電影的日本小說](https://zh.wikipedia.org/wiki/Category:改編成電影的日本小說 "wikilink") [Category:2014年日本電影](https://zh.wikipedia.org/wiki/Category:2014年日本電影 "wikilink") [Category:日本懸疑片](https://zh.wikipedia.org/wiki/Category:日本懸疑片 "wikilink") [Category:2010年代懸疑片](https://zh.wikipedia.org/wiki/Category:2010年代懸疑片 "wikilink") [Category:TBS製作的電影](https://zh.wikipedia.org/wiki/Category:TBS製作的電影 "wikilink") [Category:東寶電影](https://zh.wikipedia.org/wiki/Category:東寶電影 "wikilink") [Category:每日放送製作的電影](https://zh.wikipedia.org/wiki/Category:每日放送製作的電影 "wikilink") [Category:WOWOW製作的電影](https://zh.wikipedia.org/wiki/Category:WOWOW製作的電影 "wikilink") [Category:日本推理小說改編電影](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電影 "wikilink") [Category:巴黎背景電影](https://zh.wikipedia.org/wiki/Category:巴黎背景電影 "wikilink") [Category:Young_Ace](https://zh.wikipedia.org/wiki/Category:Young_Ace "wikilink")
 
 1.  [圓神書活網-萬能鑑定士Q的事件簿9：蒙娜麗莎之瞳](http://www.booklife.com.tw/%E8%90%AC%E8%83%BD%E9%91%91%E5%AE%9A%E5%A3%ABQ%E7%9A%84%E4%BA%8B%E4%BB%B6%E7%B0%BF9%EF%BC%9A%E8%92%99%E5%A8%9C%E9%BA%97%E8%8E%8E%E4%B9%8B%E7%9E%B3/action-products_detail-lid-1-did-4273.htm#內容介紹)

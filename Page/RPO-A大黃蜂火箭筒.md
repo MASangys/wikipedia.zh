@@ -1,14 +1,10 @@
-**RPO-A
-「大黃蜂」**（）是一種[蘇聯製造的單兵便攜式火箭筒](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，不過蘇聯是把它歸類為[火焰噴射器](https://zh.wikipedia.org/wiki/火焰噴射器 "wikilink")。此武器是由位於[科洛姆納的KBP](https://zh.wikipedia.org/wiki/科洛姆納 "wikilink")[機械設計局](https://zh.wikipedia.org/wiki/機械設計局 "wikilink")（）生產。
+**RPO-A 「大黃蜂」**（）是一種[蘇聯製造的單兵便攜式火箭筒](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")，不過蘇聯是把它歸類為[火焰噴射器](https://zh.wikipedia.org/wiki/火焰噴射器 "wikilink")。此武器是由位於[科洛姆納的KBP](https://zh.wikipedia.org/wiki/科洛姆納 "wikilink")[機械設計局](https://zh.wikipedia.org/wiki/機械設計局 "wikilink")（）生產。
 
-「大黃蜂」於1980年代後期被[蘇聯軍隊定為制式武器](https://zh.wikipedia.org/wiki/蘇聯軍隊 "wikilink")，以取代過時的RPO
-「Rys」。此武器至今仍有被[俄羅斯採用及出口](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。
+「大黃蜂」於1980年代後期被[蘇聯軍隊定為制式武器](https://zh.wikipedia.org/wiki/蘇聯軍隊 "wikilink")，以取代過時的RPO 「Rys」。此武器至今仍有被[俄羅斯採用及出口](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")。
 
 ## 概述
 
-RPO-A
-「大黃蜂」為一種單發式和一次性的火箭筒，其用途類似於某些型號的[RPG和](../Page/火箭推進榴彈.md "wikilink")[M72
-LAW](../Page/M72輕型反裝甲武器.md "wikilink")。發射筒為密封式設計，而用戶能夠隨時把武器處於待發狀態，並在不需任何援助的情況下發射武器。在發射後，發射筒就要被丟棄。每種型號都有著類似的特性。
+RPO-A 「大黃蜂」為一種單發式和一次性的火箭筒，其用途類似於某些型號的[RPG和](../Page/火箭推進榴彈.md "wikilink")[M72 LAW](../Page/M72輕型反裝甲武器.md "wikilink")。發射筒為密封式設計，而用戶能夠隨時把武器處於待發狀態，並在不需任何援助的情況下發射武器。在發射後，發射筒就要被丟棄。每種型號都有著類似的特性。
 
 ## 彈藥
 
@@ -92,29 +88,17 @@ RPO-A及其衍生型最近出現在[敘利亞內戰和](https://zh.wikipedia.org
 
 ## 外部連結
 
-  - [Video of the Schmel in
-    use](http://www.youtube.com/watch?v=TgRJRpGJfbg)
-  - [RPO-A, RPO-D and RPO-Z Infantry rocket flamethrowers -
-    Shipunov](http://www.shipunov.com/eng/str/grenades/rpo.htm)
-  - [Video of RPO-A destroying building
-    (MPG)](http://warfare.be/video/wmv/shmel.mpg)
-  - [Modern
-    Firearms](http://world.guns.ru/grenade/rus/rpo-a-shmel-e.html)
+  - [Video of the Schmel in use](http://www.youtube.com/watch?v=TgRJRpGJfbg)
+  - [RPO-A, RPO-D and RPO-Z Infantry rocket flamethrowers - Shipunov](http://www.shipunov.com/eng/str/grenades/rpo.htm)
+  - [Video of RPO-A destroying building (MPG)](http://warfare.be/video/wmv/shmel.mpg)
+  - [Modern Firearms](http://world.guns.ru/grenade/rus/rpo-a-shmel-e.html)
 
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
-[Category:反坦克火箭筒](https://zh.wikipedia.org/wiki/Category:反坦克火箭筒 "wikilink")
-[Category:燃燒武器](https://zh.wikipedia.org/wiki/Category:燃燒武器 "wikilink")
-[Category:俄聯邦儀器設計局](https://zh.wikipedia.org/wiki/Category:俄聯邦儀器設計局 "wikilink")
-[Category:别斯兰人质危机](https://zh.wikipedia.org/wiki/Category:别斯兰人质危机 "wikilink")
+[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:反坦克火箭筒](https://zh.wikipedia.org/wiki/Category:反坦克火箭筒 "wikilink") [Category:燃燒武器](https://zh.wikipedia.org/wiki/Category:燃燒武器 "wikilink") [Category:俄聯邦儀器設計局](https://zh.wikipedia.org/wiki/Category:俄聯邦儀器設計局 "wikilink") [Category:别斯兰人质危机](https://zh.wikipedia.org/wiki/Category:别斯兰人质危机 "wikilink")
 
 1.
 2.
 3.  <http://world.guns.ru/grenade/rus/rpo-m-shmel-m-e.html>
 4.  <http://www.defensereview.com/new-rpo-shmel-m-infantry-rocket-flamethrower-man-packable-thermobaric-weapon/>
-5.  [Rocket Flamethrower Shmel-M (Огнемет
-    Шмель-М)](http://www.youtube.com/watch?v=rzxVL8WoTwo)
-6.
-    <http://kbptula.ru/index.php?option=com_content&view=article&id=309&Itemid=653&lang=en#spoiler_0>
-
+5.  [Rocket Flamethrower Shmel-M (Огнемет Шмель-М)](http://www.youtube.com/watch?v=rzxVL8WoTwo)
+6.   <http://kbptula.ru/index.php?option=com_content&view=article&id=309&Itemid=653&lang=en#spoiler_0>
 7.

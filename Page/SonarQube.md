@@ -11,8 +11,7 @@
   - 与[JIRA](../Page/JIRA.md "wikilink")、[Mantis](../Page/Mantis.md "wikilink")、[LDAP](https://zh.wikipedia.org/wiki/LDAP "wikilink")、等外部工具集
   - 支持扩展插件\[8\]\[9\]
   - 利用计算[技术债务](https://zh.wikipedia.org/wiki/技术债务 "wikilink")\[10\]
-  - 支持[Tomcat](https://zh.wikipedia.org/wiki/Tomcat "wikilink")。不过计划从SonarQube
-    4.1起终止对Tomcat的支持\[11\]。
+  - 支持[Tomcat](https://zh.wikipedia.org/wiki/Tomcat "wikilink")。不过计划从SonarQube 4.1起终止对Tomcat的支持\[11\]。
 
 ## 参考文献
 
@@ -22,14 +21,12 @@
   - [SonarSource网站](http://www.sonarsource.com/)
   - [SonarQube实例](http://nemo.sonarsource.org/)
   - [SonarQube插件库](https://archive.is/20120715123332/http://sonar-plugins.codehaus.org/)
-  - [SonarQube
-    IDE集成](https://archive.is/20130414152059/http://sonar-ide.codehaus.org/)
+  - [SonarQube IDE集成](https://archive.is/20130414152059/http://sonar-ide.codehaus.org/)
 
 ## 延伸阅读
 
   - [SonarQube指南](http://www.javatips.net/blog/2013/10/sonarqube-tutorial)
-  - [Eclipse
-    Sonar指南](http://www.javatips.net/blog/2013/10/eclipse-sonar-tutorial)
+  - [Eclipse Sonar指南](http://www.javatips.net/blog/2013/10/eclipse-sonar-tutorial)
 
 ## 参见
 

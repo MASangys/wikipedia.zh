@@ -1,14 +1,10 @@
-**OpenMI-规范**(開放式模型界面)定義了一個界面,
-它允許相关模型之间在運行時在內存中交換數據。符合OpenMI规范的数学模型之间可以-边運行边共享信息(例如在每個時間步段)，使得在模型在运行阶段的集成成为可能。开发OpenMI-规范的目的在于方便模型的集成，這有助於理解和預測相关物理過程的相互影响，并提供了環境管理的綜合方法。
+**OpenMI-规范**(開放式模型界面)定義了一個界面, 它允許相关模型之间在運行時在內存中交換數據。符合OpenMI规范的数学模型之间可以-边運行边共享信息(例如在每個時間步段)，使得在模型在运行阶段的集成成为可能。开发OpenMI-规范的目的在于方便模型的集成，這有助於理解和預測相关物理過程的相互影响，并提供了環境管理的綜合方法。
 
-OpenMI-规范是由一個对外開放和非赢利的国际组织 OpenMI 協會擁有和管理。 2014年7月1日,
-開放地理空間聯盟（OGC®）批准開放式模型界面第2版(OpenMI)為OGC
-规范。
+OpenMI-规范是由一個对外開放和非赢利的国际组织 OpenMI 協會擁有和管理。 2014年7月1日, 開放地理空間聯盟（OGC®）批准開放式模型界面第2版(OpenMI)為OGC 规范。
 
 ## OpenMI的結構
 
-OpenMI-规范 基於“问-答”机制和基于“拉”“管道-过滤”结构，它包含了一个通讯系统（源信息和目標信息），以預定的方式和格式 ”
-交换内存数据。\[1\]
+OpenMI-规范 基於“问-答”机制和基于“拉”“管道-过滤”结构，它包含了一个通讯系统（源信息和目標信息），以預定的方式和格式 ” 交换内存数据。\[1\]
 
 OpenMI 规范的界面有三种功能：
 
@@ -45,21 +41,15 @@ OpenMI 规范的界面有三种功能：
 
 ## 发展历史
 
-在2001年，为簡化相關水文模型之间的联接, 歐盟委員會資助（根據第五框架計劃）一个名为HarmonIT的研究項目;
-以开发和应用一个欧洲开放建模界面。为此,
-歐盟水框架法令（WFD）需要建立一个全流域模型作為水資源綜合管理的重要組成部分。為進一步開發和示範,
-“OpenMI-生活”項目在歐委會總局的環境“生活”計劃名下进行研究。
+在2001年，为簡化相關水文模型之间的联接, 歐盟委員會資助（根據第五框架計劃）一个名为HarmonIT的研究項目; 以开发和应用一个欧洲开放建模界面。为此, 歐盟水框架法令（WFD）需要建立一个全流域模型作為水資源綜合管理的重要組成部分。為進一步開發和示範, “OpenMI-生活”項目在歐委會總局的環境“生活”計劃名下进行研究。
 
 為進一步促進OpenMI的使用和推广，OpenMI協會於2007年成立。这为公司，公共研究機構和对系統分析和数学模型感興趣的大學参与开发OpenMI-规范界面成功的開闢了道路。
 
 这些年中，共发布了以下幾個版本的OpenMI-规范：
 
   - 2005年：1.0版本在HarmonIT項目框架名下发布。
-  - 2007年：在很早期的OpenMI-生活項目研究中，发布了OpenMI 规范的更新版本（.Net 1.2版本和Java版本;
-    後者主要由“OpenMI-生活”項目以外的合作夥伴開發）。因為更新过程中出現的兼容性問題，更新和发布过程经过严格審查，最终生成的1.4版(適用於.Net和Java)是从那时起OpenMI官方支持的唯一版本。
-  - 2010年：OpenMI 2.0的開發工作贯穿在整個“OpenMI-生活”項目中;
-    并在開發工作的后期公佈了一個供内部测试的试用版本。最终,經過严格的測試和審查,
-    OpenMI 2.0在2010年發布。
+  - 2007年：在很早期的OpenMI-生活項目研究中，发布了OpenMI 规范的更新版本（.Net 1.2版本和Java版本; 後者主要由“OpenMI-生活”項目以外的合作夥伴開發）。因為更新过程中出現的兼容性問題，更新和发布过程经过严格審查，最终生成的1.4版(適用於.Net和Java)是从那时起OpenMI官方支持的唯一版本。
+  - 2010年：OpenMI 2.0的開發工作贯穿在整個“OpenMI-生活”項目中; 并在開發工作的后期公佈了一個供内部测试的试用版本。最终,經過严格的測試和審查, OpenMI 2.0在2010年發布。
   - 2014年：在2014年7月1日開放地理空間聯盟（OGC®）會員已經批准了開放模型界面规范2.0版（OpenMI）作為OGC的一个规范。
 
 点击[這裡](https://sites.google.com/a/openmi.org/home/new-to-openmi#TOC-Short-history)可以找到有关這段歷史的较详细的资料。
@@ -68,12 +58,9 @@ OpenMI 规范的界面有三种功能：
 
 OpenMI-规范由一組C＃和Java语言所写的軟件界面所定義。一个模型想要成为一个符合OpenMI-规范的模型或模块必须包含这些界面。
 
-OpenMI 可以從兩個層面來說明：在用戶層面，OpenMI
-规范提供了一個规范界面，它允許模型之间，及其他模型工具之间可以在运行过程中相互交换数据。OpenMI-规范可以联接来自不同供應商，不同领域,
-不同理论和不同時間分辨率的模型。
+OpenMI 可以從兩個層面來說明：在用戶層面，OpenMI 规范提供了一個规范界面，它允許模型之间，及其他模型工具之间可以在运行过程中相互交换数据。OpenMI-规范可以联接来自不同供應商，不同领域, 不同理论和不同時間分辨率的模型。
 
-在IT層面，OpenMI-规范是我们准备模拟的某科學領域（如水資源模型）計算模型的計算內核（計算引擎）的軟件信息的界面定義。符合OpenMI-规范的模型不需任何額外的編程就可以在計算过程中（在運行時）进行信息交換。OpenMI-规范支持雙向交互，即相关联接的模型彼此相互需要的計算結果来进行下一步计算。联接可以相對於不同時間步长或以不同计算速度運行的模型;
-可以无缝交換不同的幾何形狀（计算網格）數據。\[4\]
+在IT層面，OpenMI-规范是我们准备模拟的某科學領域（如水資源模型）計算模型的計算內核（計算引擎）的軟件信息的界面定義。符合OpenMI-规范的模型不需任何額外的編程就可以在計算过程中（在運行時）进行信息交換。OpenMI-规范支持雙向交互，即相关联接的模型彼此相互需要的計算結果来进行下一步计算。联接可以相對於不同時間步长或以不同计算速度運行的模型; 可以无缝交換不同的幾何形狀（计算網格）數據。\[4\]
 
 ## 与OpenMI兼容的模型
 
@@ -87,16 +74,11 @@ OpenMI 可以從兩個層面來說明：在用戶層面，OpenMI
 
   - [OpenMI Association](http://www.openmi.org)
   - [OpenMI-LIFE](http://www.openmi-life.org)
-  - [OpenMI Association Technical Committee Wiki
-    Pages](https://web.archive.org/web/20110724151442/http://public.deltares.nl/display/OPENMI/OpenMI+Association+Technical+Committee)
+  - [OpenMI Association Technical Committee Wiki Pages](https://web.archive.org/web/20110724151442/http://public.deltares.nl/display/OPENMI/OpenMI+Association+Technical+Committee)
 
 [Category:地球科学软件](https://zh.wikipedia.org/wiki/Category:地球科学软件 "wikilink")
 
-1.  Gregersen, J. B., et al (2007). “OpenMI: Open Modelling Interface”.
-    Journal of Hydroinformatics 9(3), 175-191.
-2.  “The OpenMI Document Series, Part A – Scope: For the OpenMI (Version
-    1.4)”. OpenMI Association. Retrieved on 2009-05-26.
-3.  “The OpenMI Document Series, Part A – Scope: For the OpenMI (Version
-    1.4)”. OpenMI Association. Retrieved on 2009-05-26.
-4.  “OpenMI Association Website - About OpenMI”. OpenMI Association.
-    Retrieved on 2009-05-28.
+1.  Gregersen, J. B., et al (2007). “OpenMI: Open Modelling Interface”. Journal of Hydroinformatics 9(3), 175-191.
+2.  “The OpenMI Document Series, Part A – Scope: For the OpenMI (Version 1.4)”. OpenMI Association. Retrieved on 2009-05-26.
+3.  “The OpenMI Document Series, Part A – Scope: For the OpenMI (Version 1.4)”. OpenMI Association. Retrieved on 2009-05-26.
+4.  “OpenMI Association Website - About OpenMI”. OpenMI Association. Retrieved on 2009-05-28.

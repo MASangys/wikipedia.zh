@@ -1,7 +1,4 @@
-《***A Very Gaga
-Holiday***》是美國女歌手[女神卡卡的一張](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")[迷你唱片](https://zh.wikipedia.org/wiki/迷你唱片 "wikilink")，用以宣傳ABC的特別節目《*[A
-Very Gaga
-Thanksgiving](https://zh.wikipedia.org/wiki/A_Very_Gaga_Thanksgiving "wikilink")*》。專輯于2011年11月22日正式在iTunes上線。
+《***A Very Gaga Holiday***》是美國女歌手[女神卡卡的一張](https://zh.wikipedia.org/wiki/女神卡卡 "wikilink")[迷你唱片](https://zh.wikipedia.org/wiki/迷你唱片 "wikilink")，用以宣傳ABC的特別節目《*[A Very Gaga Thanksgiving](https://zh.wikipedia.org/wiki/A_Very_Gaga_Thanksgiving "wikilink")*》。專輯于2011年11月22日正式在iTunes上線。
 
 ## 曲目列表
 
@@ -27,8 +24,7 @@ Thanksgiving](https://zh.wikipedia.org/wiki/A_Very_Gaga_Thanksgiving "wikilink")
 ## 外部連結
 
   - [Allmusic評論](http://www.allmusic.com/album/a-very-gaga-holiday-mw0002282192)
-  - [The Edge of
-    Glory](http://www.mtv.com/videos/lady-gaga/742731/the-edge-of-glory-a-very-gaga-thanksgiving.jhtml)
+  - [The Edge of Glory](http://www.mtv.com/videos/lady-gaga/742731/the-edge-of-glory-a-very-gaga-thanksgiving.jhtml)
 
 [Category:2011年迷你專輯](https://zh.wikipedia.org/wiki/Category:2011年迷你專輯 "wikilink")
 

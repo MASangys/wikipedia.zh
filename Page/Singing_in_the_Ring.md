@@ -1,5 +1,4 @@
-《**Singing in the
-Ring**》是[劉浩龍](../Page/劉浩龍.md "wikilink")的第二張個人專輯，於2004年12月30日推出。
+《**Singing in the Ring**》是[劉浩龍](../Page/劉浩龍.md "wikilink")的第二張個人專輯，於2004年12月30日推出。
 
 ## 曲目
 
@@ -12,6 +11,4 @@ Ring**》是[劉浩龍](../Page/劉浩龍.md "wikilink")的第二張個人專輯
 
 ## 獎項
 
-[Category:劉浩龍音樂專輯](https://zh.wikipedia.org/wiki/Category:劉浩龍音樂專輯 "wikilink")
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:劉浩龍音樂專輯](https://zh.wikipedia.org/wiki/Category:劉浩龍音樂專輯 "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

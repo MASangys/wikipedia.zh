@@ -1,5 +1,4 @@
-**`CHKDSK`**（全称Microsoft Check
-Disk，意为磁盘检查）是一种可运行在[DOS](../Page/DOS.md "wikilink")、[OS/2和](https://zh.wikipedia.org/wiki/OS/2 "wikilink")[Windows操作系统上的](https://zh.wikipedia.org/wiki/Windows "wikilink")[指令程序](https://zh.wikipedia.org/wiki/指令 "wikilink")。当系统发生[假死机](../Page/假死机.md "wikilink")或[非法关机时](https://zh.wikipedia.org/wiki/非法关机 "wikilink")，[系统将调用它来检查](../Page/操作系统.md "wikilink")[磁盘](../Page/硬盘.md "wikilink")，用户也可以通过[命令行手动调用检查某个](../Page/命令行界面.md "wikilink")[磁盘分区](https://zh.wikipedia.org/wiki/磁碟分區 "wikilink")。该程序会基于被检测的磁盘所使用的[文件系统](../Page/文件系统.md "wikilink")生成磁盘的状态报告，如果提供[参数](https://zh.wikipedia.org/wiki/参数 "wikilink")，程序还可修复多种磁盘文件系统的逻辑错误。
+**`CHKDSK`**（全称Microsoft Check Disk，意为磁盘检查）是一种可运行在[DOS](../Page/DOS.md "wikilink")、[OS/2和](https://zh.wikipedia.org/wiki/OS/2 "wikilink")[Windows操作系统上的](https://zh.wikipedia.org/wiki/Windows "wikilink")[指令程序](https://zh.wikipedia.org/wiki/指令 "wikilink")。当系统发生[假死机](../Page/假死机.md "wikilink")或[非法关机时](https://zh.wikipedia.org/wiki/非法关机 "wikilink")，[系统将调用它来检查](../Page/操作系统.md "wikilink")[磁盘](../Page/硬盘.md "wikilink")，用户也可以通过[命令行手动调用检查某个](../Page/命令行界面.md "wikilink")[磁盘分区](https://zh.wikipedia.org/wiki/磁碟分區 "wikilink")。该程序会基于被检测的磁盘所使用的[文件系统](../Page/文件系统.md "wikilink")生成磁盘的状态报告，如果提供[参数](https://zh.wikipedia.org/wiki/参数 "wikilink")，程序还可修复多种磁盘文件系统的逻辑错误。
 
 ## 命令参数
 
@@ -25,9 +24,7 @@ Disk，意为磁盘检查）是一种可运行在[DOS](../Page/DOS.md "wikilink"
 
 ## 显示效果
 
-在[Windows
-XP](../Page/Windows_XP.md "wikilink")[命令提示符中运行不带参数的](https://zh.wikipedia.org/wiki/命令提示符 "wikilink")
-CHKDSK 后，效果如下：
+在[Windows XP](../Page/Windows_XP.md "wikilink")[命令提示符中运行不带参数的](https://zh.wikipedia.org/wiki/命令提示符 "wikilink") CHKDSK 后，效果如下：
 
 ``` doscon
  C:\Documents and Settings\Administrator>chkdsk
@@ -67,12 +64,8 @@ CHKDSK 后，效果如下：
   - [復原主控台](https://zh.wikipedia.org/wiki/復原主控台 "wikilink")
   - [命令提示符](https://zh.wikipedia.org/wiki/命令提示符 "wikilink")
 
-[Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
-[Category:Windows实用程序](https://zh.wikipedia.org/wiki/Category:Windows实用程序 "wikilink")
+[Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink") [Category:Windows实用程序](https://zh.wikipedia.org/wiki/Category:Windows实用程序 "wikilink")
 
-1.  [故障恢复控制台主要命令
-    chinaitlab.com](http://windows.chinaitlab.com/system/10410.html)
-2.  [CHKDSK(磁盘检测)命令的运用
-    [网易](../Page/网易.md "wikilink")科技](http://tech.163.com/05/0329/14/1G15EGH700091589.html)
-3.  [Windows 2000 故障恢复控制台说明
-    [Microsoft帮助与支持](https://zh.wikipedia.org/wiki/Microsoft "wikilink")](http://support.microsoft.com/kb/229716/zh-cn)
+1.  [故障恢复控制台主要命令 chinaitlab.com](http://windows.chinaitlab.com/system/10410.html)
+2.  [CHKDSK(磁盘检测)命令的运用 [网易](../Page/网易.md "wikilink")科技](http://tech.163.com/05/0329/14/1G15EGH700091589.html)
+3.  [Windows 2000 故障恢复控制台说明 [Microsoft帮助与支持](https://zh.wikipedia.org/wiki/Microsoft "wikilink")](http://support.microsoft.com/kb/229716/zh-cn)

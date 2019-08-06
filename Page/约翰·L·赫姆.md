@@ -16,8 +16,7 @@
 
 ## 政治生涯
 
-[John_larue_Helm.jpg](https://zh.wikipedia.org/wiki/File:John_larue_Helm.jpg "fig:John_larue_Helm.jpg")
-赫姆学习法律期间，肯塔基州存在一个重大的政治问题，即[新老法院争议一事](https://zh.wikipedia.org/wiki/新老法院争议 "wikilink")。由于[1819年大恐慌的影响](https://zh.wikipedia.org/wiki/1819年大恐慌 "wikilink")，肯塔基州人要求减免债务。肯塔基州议会为此通过了一项法案，宽限债务人两年的偿还期限，除非债权人愿意接受联邦银行发行的贬值纸币。但是[肯塔基州](../Page/肯塔基州.md "wikilink")上诉法院宣布这条法案违反了[美国宪法](../Page/美国宪法.md "wikilink")的[契约条款](https://zh.wikipedia.org/wiki/契约条款 "wikilink")，因此是无效的。愤怒的州议员试图[弹劾](../Page/弹劾.md "wikilink")上诉法院法官，但又缺乏所需的[三分之二多数](https://zh.wikipedia.org/wiki/绝对多数 "wikilink")。于是他们通过法案废除了上诉法院，并以一个新的法院代替，其中的法官由偏向支持缓解债务期间的州长[约翰·亚岱尔](../Page/约翰·亚岱尔.md "wikilink")指派，更支持立法部门通过的法案。这样的做法导致了管辖权上的争议，新老两个法院都自称是肯塔基州的[最高法院](../Page/最高法院.md "wikilink")。\[24\]
+[John_larue_Helm.jpg](https://zh.wikipedia.org/wiki/File:John_larue_Helm.jpg "fig:John_larue_Helm.jpg") 赫姆学习法律期间，肯塔基州存在一个重大的政治问题，即[新老法院争议一事](https://zh.wikipedia.org/wiki/新老法院争议 "wikilink")。由于[1819年大恐慌的影响](https://zh.wikipedia.org/wiki/1819年大恐慌 "wikilink")，肯塔基州人要求减免债务。肯塔基州议会为此通过了一项法案，宽限债务人两年的偿还期限，除非债权人愿意接受联邦银行发行的贬值纸币。但是[肯塔基州](../Page/肯塔基州.md "wikilink")上诉法院宣布这条法案违反了[美国宪法](../Page/美国宪法.md "wikilink")的[契约条款](https://zh.wikipedia.org/wiki/契约条款 "wikilink")，因此是无效的。愤怒的州议员试图[弹劾](../Page/弹劾.md "wikilink")上诉法院法官，但又缺乏所需的[三分之二多数](https://zh.wikipedia.org/wiki/绝对多数 "wikilink")。于是他们通过法案废除了上诉法院，并以一个新的法院代替，其中的法官由偏向支持缓解债务期间的州长[约翰·亚岱尔](../Page/约翰·亚岱尔.md "wikilink")指派，更支持立法部门通过的法案。这样的做法导致了管辖权上的争议，新老两个法院都自称是肯塔基州的[最高法院](../Page/最高法院.md "wikilink")。\[24\]
 
 整个1825年，赫姆多次在哈丁及周边多个县发表演讲并散发传单，为老法院摇旗呐喊\[25\]。1826年，他以辉格党人身份竞选[肯塔基州众议院议席](https://zh.wikipedia.org/wiki/肯塔基州众议院 "wikilink")\[26\]，赫姆赢得这场选举时还只有24岁，成为该州最年轻的州众议员之一\[27\]。1826年，州议会两院中支持老法院的议员都占了多数，于是通过法案废除了新法院\[28\]。
 
@@ -27,8 +26,7 @@
 
 ### 副州长和州长
 
-[John_J_Crittenden.jpg](https://zh.wikipedia.org/wiki/File:John_J_Crittenden.jpg "fig:John_J_Crittenden.jpg")，赫姆曾于1850年7月31日接替他的州长职位。\]\]
-1844年，赫姆当选[肯塔基州参议员并任职到](https://zh.wikipedia.org/wiki/肯塔基州参议院 "wikilink")1848年\[37\]。这年他成为辉格党的副州长候选人，州长候选人则是[约翰·J·克里滕登](../Page/约翰·J·克里滕登.md "wikilink")\[38\]。赫姆在普选中击败了[民主党对手约翰](../Page/民主党_\(美国\).md "wikilink")·普雷斯顿·马丁（）\[39\]。肯塔基州在赫姆担任副州长期间面临的主要政治问题就是是否要制订一部新的州[宪法](../Page/宪法.md "wikilink")\[40\]。1848年担任州参议员时，赫姆曾投票支持该州公民通过全民公决来决定这个问题，但在看过制宪会议所制订的文稿后，他反对将之批准\[41\]。1850年他在一次对州参议院发表的演说中宣称：“我支持改革，但不支持革命。我支持修宪，但不是要把其中包含的一切重要原则全部抹杀”\[42\]。他特别反对其中建立一个民选司法部门的方案\[43\]。这一立场导致他和自己的[岳父本杰明](https://zh.wikipedia.org/wiki/岳父 "wikilink")·哈丁之间产生了严重的分歧\[44\]，两人直到1852年哈丁临终前才达成和解\[45\]。新的宪法于1850年通过，同年六月，赫姆已开始鼓励人们去尝试接受\[46\]。
+[John_J_Crittenden.jpg](https://zh.wikipedia.org/wiki/File:John_J_Crittenden.jpg "fig:John_J_Crittenden.jpg")，赫姆曾于1850年7月31日接替他的州长职位。\]\] 1844年，赫姆当选[肯塔基州参议员并任职到](https://zh.wikipedia.org/wiki/肯塔基州参议院 "wikilink")1848年\[37\]。这年他成为辉格党的副州长候选人，州长候选人则是[约翰·J·克里滕登](../Page/约翰·J·克里滕登.md "wikilink")\[38\]。赫姆在普选中击败了[民主党对手约翰](../Page/民主党_\(美国\).md "wikilink")·普雷斯顿·马丁（）\[39\]。肯塔基州在赫姆担任副州长期间面临的主要政治问题就是是否要制订一部新的州[宪法](../Page/宪法.md "wikilink")\[40\]。1848年担任州参议员时，赫姆曾投票支持该州公民通过全民公决来决定这个问题，但在看过制宪会议所制订的文稿后，他反对将之批准\[41\]。1850年他在一次对州参议院发表的演说中宣称：“我支持改革，但不支持革命。我支持修宪，但不是要把其中包含的一切重要原则全部抹杀”\[42\]。他特别反对其中建立一个民选司法部门的方案\[43\]。这一立场导致他和自己的[岳父本杰明](https://zh.wikipedia.org/wiki/岳父 "wikilink")·哈丁之间产生了严重的分歧\[44\]，两人直到1852年哈丁临终前才达成和解\[45\]。新的宪法于1850年通过，同年六月，赫姆已开始鼓励人们去尝试接受\[46\]。
 
 1850年7月31日，州长克里滕登辞职接受[总统](../Page/美国总统.md "wikilink")[米勒德·菲尔莫尔](../Page/米勒德·菲尔莫尔.md "wikilink")担任[总检察长的任命](https://zh.wikipedia.org/wiki/联邦司法部长 "wikilink")，赫姆因此继任成为州长\[47\]。担任州长期间，赫姆否决了立法部门一项通过从州[偿债基金抽资来掩盖公立学校基金赤字的方案](https://zh.wikipedia.org/wiki/偿债基金 "wikilink")，但州议会之后推翻了这一否决\[48\]。他促请州议会为肯塔基州矿产储量调查以及[农业](../Page/农业.md "wikilink")和[制造业](../Page/制造业.md "wikilink")资源普查提供资金\[49\]，他还呼吁为交通[基础设施](../Page/基础设施.md "wikilink")投入资金，提升[法官](../Page/法官.md "wikilink")的薪酬水平以期吸引到更有能力的法学家出任公职\[50\]\[51\]，并试图对携带隐蔽式致命武器下达禁令\[52\]。然而，立法部门没有采纳这其中的任何一项改革建议\[53\]，赫姆唯一在州议会取得进展的提议只有选举改革\[54\]。
 
@@ -44,8 +42,7 @@
 
 ## 内战和再度当选州长
 
-[John_Larue_Helm_2.jpg](https://zh.wikipedia.org/wiki/File:John_Larue_Helm_2.jpg "fig:John_Larue_Helm_2.jpg")
-1861年1月8日，赫姆在路易维尔主持了一次会议，主张肯塔基州在内战中保持中立\[77\]\[78\]。他公开反对分裂国家，但也谴责了[亚伯拉罕·林肯](../Page/亚伯拉罕·林肯.md "wikilink")的当选，以及使用武力强迫南方州就范的做法\[79\]。由于他没有谴责自己的儿子本杰明加入邦联军队，联邦政府因此认为他对南方抱持同情\[80\]。
+[John_Larue_Helm_2.jpg](https://zh.wikipedia.org/wiki/File:John_Larue_Helm_2.jpg "fig:John_Larue_Helm_2.jpg") 1861年1月8日，赫姆在路易维尔主持了一次会议，主张肯塔基州在内战中保持中立\[77\]\[78\]。他公开反对分裂国家，但也谴责了[亚伯拉罕·林肯](../Page/亚伯拉罕·林肯.md "wikilink")的当选，以及使用武力强迫南方州就范的做法\[79\]。由于他没有谴责自己的儿子本杰明加入邦联军队，联邦政府因此认为他对南方抱持同情\[80\]。
 
 得知前州长[查尔斯·S·莫尔黑德](https://zh.wikipedia.org/wiki/查尔斯·S·莫尔黑德 "wikilink")（）遭到联邦机构逮捕后，赫姆担心自己也会被捕而逃往鲍灵格林。在[华纳·安德伍德](https://zh.wikipedia.org/wiki/华纳·安德伍德 "wikilink")（）的干预下他得以返回自己家中，条件是他要宣誓效忠宪法。然而，北军士兵多次进入他的家中，鼓励他的奴隶抛弃他，消耗或破坏他的庄稼。由于州内的法院都因战争而关闭，他也无法通过从事法律工作谋生。很快，他积蓄的财富所剩无几，只能通过借债来维持家庭生计。\[81\]
 
@@ -69,14 +66,7 @@
   -
 {{-}}
 
-[Category:肯塔基州州长](https://zh.wikipedia.org/wiki/Category:肯塔基州州长 "wikilink")
-[Category:肯塔基州副州长](https://zh.wikipedia.org/wiki/Category:肯塔基州副州长 "wikilink")
-[Category:美国民主党州长](https://zh.wikipedia.org/wiki/Category:美国民主党州长 "wikilink")
-[Category:美国辉格党州长](https://zh.wikipedia.org/wiki/Category:美国辉格党州长 "wikilink")
-[Category:肯塔基州众议院议长](https://zh.wikipedia.org/wiki/Category:肯塔基州众议院议长 "wikilink")
-[Category:肯塔基州律师](https://zh.wikipedia.org/wiki/Category:肯塔基州律师 "wikilink")
-[Category:肯塔基州民主党人](https://zh.wikipedia.org/wiki/Category:肯塔基州民主党人 "wikilink")
-[Category:肯塔基州参议员](https://zh.wikipedia.org/wiki/Category:肯塔基州参议员 "wikilink")
+[Category:肯塔基州州长](https://zh.wikipedia.org/wiki/Category:肯塔基州州长 "wikilink") [Category:肯塔基州副州长](https://zh.wikipedia.org/wiki/Category:肯塔基州副州长 "wikilink") [Category:美国民主党州长](https://zh.wikipedia.org/wiki/Category:美国民主党州长 "wikilink") [Category:美国辉格党州长](https://zh.wikipedia.org/wiki/Category:美国辉格党州长 "wikilink") [Category:肯塔基州众议院议长](https://zh.wikipedia.org/wiki/Category:肯塔基州众议院议长 "wikilink") [Category:肯塔基州律师](https://zh.wikipedia.org/wiki/Category:肯塔基州律师 "wikilink") [Category:肯塔基州民主党人](https://zh.wikipedia.org/wiki/Category:肯塔基州民主党人 "wikilink") [Category:肯塔基州参议员](https://zh.wikipedia.org/wiki/Category:肯塔基州参议员 "wikilink")
 
 1.
 

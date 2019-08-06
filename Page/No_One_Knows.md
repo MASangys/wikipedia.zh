@@ -1,5 +1,4 @@
-《**No One
-Knows**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄧麗欣](../Page/鄧麗欣.md "wikilink")的第7張個人專輯，於2010年7月16日發行。
+《**No One Knows**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄧麗欣](../Page/鄧麗欣.md "wikilink")的第7張個人專輯，於2010年7月16日發行。
 
 ## 曲目
 
@@ -18,7 +17,4 @@ Knows**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "w
 | <small>花小姐</small>  |             \-              |         \-          |
 | <small>2011</small> |   <small>Tonight</small>    |         \-          |
 
-[Category:鄧麗欣音樂專輯](https://zh.wikipedia.org/wiki/Category:鄧麗欣音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:鄧麗欣音樂專輯](https://zh.wikipedia.org/wiki/Category:鄧麗欣音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

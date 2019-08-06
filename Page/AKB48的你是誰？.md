@@ -2,14 +2,11 @@
 
 ## 概要
 
-[東京都](../Page/東京都.md "wikilink")[千代田区神田花岡町](https://zh.wikipedia.org/wiki/千代田区 "wikilink")（[JR秋葉原車站前](https://zh.wikipedia.org/wiki/秋葉原車站 "wikilink")）的「AKB48
-CAFE\&SHOP
-AKIHABARA」内的劇場區域開始公開直播，由AKB48成員4名和MC2人出演，每回播放給30名的一般觀眾（事前抽選制、收費）。
+[東京都](../Page/東京都.md "wikilink")[千代田区神田花岡町](https://zh.wikipedia.org/wiki/千代田区 "wikilink")（[JR秋葉原車站前](https://zh.wikipedia.org/wiki/秋葉原車站 "wikilink")）的「AKB48 CAFE\&SHOP AKIHABARA」内的劇場區域開始公開直播，由AKB48成員4名和MC2人出演，每回播放給30名的一般觀眾（事前抽選制、收費）。
 
 節目內容是成員一邊在粉絲的面前挑戰各式各樣的企劃一邊繼續呼籲個性的東西。此外，這個節目與[Google+](../Page/Google+.md "wikilink")連同展開節目內容的企劃。
 
-還有，關於一般觀眾在每回16時開始在「AKB48 CAFE\&SHOP
-AKIHABARA」商店前進行整理票的配布，可以用抽籤觀賞。觀賞費為2,000圓（飲料、附禮品）。
+還有，關於一般觀眾在每回16時開始在「AKB48 CAFE\&SHOP AKIHABARA」商店前進行整理票的配布，可以用抽籤觀賞。觀賞費為2,000圓（飲料、附禮品）。
 
 ## 出演者
 
@@ -114,8 +111,7 @@ Usiro City</p></td>
 
 <!-- end list -->
 
-  - [チキチキジョニー](https://zh.wikipedia.org/wiki/チキチキジョニー "wikilink")（星期一 -
-    星期三）
+  - [チキチキジョニー](https://zh.wikipedia.org/wiki/チキチキジョニー "wikilink")（星期一 - 星期三）
   - [トップリード](https://zh.wikipedia.org/wiki/トップリード "wikilink")（星期四・星期五）
 
 ## 註解
@@ -125,11 +121,7 @@ Usiro City</p></td>
   -
 ## 外部連結
 
-  - [AKB48のあんた、誰？｜NOTTV
-    番組情報サイト](https://web.archive.org/web/20151127172545/http://tv1.nottv.jp/variety/akb48andare)（節目官方網站）
-  - [“あんた誰プロデューサー”](https://plus.google.com/106112762361092739156/posts)
-    - [Google+](../Page/Google+.md "wikilink")（節目官方的「あんた誰プロデューサー」的帳戶）
+  - [AKB48のあんた、誰？｜NOTTV 番組情報サイト](https://web.archive.org/web/20151127172545/http://tv1.nottv.jp/variety/akb48andare)（節目官方網站）
+  - [“あんた誰プロデューサー”](https://plus.google.com/106112762361092739156/posts) - [Google+](../Page/Google+.md "wikilink")（節目官方的「あんた誰プロデューサー」的帳戶）
 
-[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink")
-[Category:日本電視綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視綜藝節目 "wikilink")
-[Category:2012年日本電視節目](https://zh.wikipedia.org/wiki/Category:2012年日本電視節目 "wikilink")
+[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink") [Category:日本電視綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視綜藝節目 "wikilink") [Category:2012年日本電視節目](https://zh.wikipedia.org/wiki/Category:2012年日本電視節目 "wikilink")

@@ -16,8 +16,7 @@ DDA40X型柴油机车的设计思想，是尽可能提高机车的可靠性及�
 
 ### 黄金时期
 
-[Union_Pacific_EMD_DDA40X_6900_Golden_Spike_Centennial_1969.JPG](https://zh.wikipedia.org/wiki/File:Union_Pacific_EMD_DDA40X_6900_Golden_Spike_Centennial_1969.JPG "fig:Union_Pacific_EMD_DDA40X_6900_Golden_Spike_Centennial_1969.JPG")
-1969年4月，首台DDA40X型柴油机车赶及在[第一條橫貫大陸鐵路](../Page/第一條橫貫大陸鐵路.md "wikilink")通车百周年庆典前夕交付使用，这时距离联合太平洋铁路和易安迪公司展开研制项目仅十三个月。1969年5月10日，首台DDA40X型柴油机车参与了在[猶他州](https://zh.wikipedia.org/wiki/猶他州 "wikilink")[鹽湖城举行了](https://zh.wikipedia.org/wiki/鹽湖城 "wikilink")“金道釘特快列車”庆祝活动。其余46台机车自1969年6月起开始交付，并一直持续到1971年9月。DDA40X型柴油机车可分为两个生产批次，其中第一批机车于1969年4月至12月交付，机车编号为6900～6924；第二批机车于1970年6月至1971年9月交付，机车编号为6925～6946；除了一些非常微小的差异外，两批机车的结构性能基本上相同\[6\]。
+[Union_Pacific_EMD_DDA40X_6900_Golden_Spike_Centennial_1969.JPG](https://zh.wikipedia.org/wiki/File:Union_Pacific_EMD_DDA40X_6900_Golden_Spike_Centennial_1969.JPG "fig:Union_Pacific_EMD_DDA40X_6900_Golden_Spike_Centennial_1969.JPG") 1969年4月，首台DDA40X型柴油机车赶及在[第一條橫貫大陸鐵路](../Page/第一條橫貫大陸鐵路.md "wikilink")通车百周年庆典前夕交付使用，这时距离联合太平洋铁路和易安迪公司展开研制项目仅十三个月。1969年5月10日，首台DDA40X型柴油机车参与了在[猶他州](https://zh.wikipedia.org/wiki/猶他州 "wikilink")[鹽湖城举行了](https://zh.wikipedia.org/wiki/鹽湖城 "wikilink")“金道釘特快列車”庆祝活动。其余46台机车自1969年6月起开始交付，并一直持续到1971年9月。DDA40X型柴油机车可分为两个生产批次，其中第一批机车于1969年4月至12月交付，机车编号为6900～6924；第二批机车于1970年6月至1971年9月交付，机车编号为6925～6946；除了一些非常微小的差异外，两批机车的结构性能基本上相同\[6\]。
 
 在1970年代，DDA40X型柴油机车主要用于牵引联合太平洋铁路的快速重载货物列车，尤其是将装在[铁路平车上的](../Page/平车.md "wikilink")，其运用范围基本上以[内布拉斯加州](https://zh.wikipedia.org/wiki/內布拉斯加州 "wikilink")[北普拉特为中心](../Page/北普拉特_\(内布拉斯加州\).md "wikilink")，从北普拉特到[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")的[洛杉矶](../Page/洛杉矶.md "wikilink")，以及北普拉特到[俄勒冈州](../Page/俄勒冈州.md "wikilink")的[波特兰](../Page/波特蘭_\(俄勒岡州\).md "wikilink")，在这两条繁忙干线上都可见到DDA40X型柴油机车的身影。在这里，DDA40X型柴油机车的牵引功率大、起动加速快、赶点能力强的优势得以充分发挥，以北普拉特至犹他州[奥格登的快速货物列车为例](https://zh.wikipedia.org/wiki/奥格登_\(犹他州\) "wikilink")，由DDA40X型柴油机车牵引的运行时间，比起用其他单位重量马力相同的机车牵引可缩短45分钟\[7\]。
 
@@ -25,8 +24,7 @@ DDA40X型柴油机车拥有相当高的运用强度，投入运用后首五年�
 
 ### 退下火线
 
-[UP_6936_EMD_DDA40X.jpg](https://zh.wikipedia.org/wiki/File:UP_6936_EMD_DDA40X.jpg "fig:UP_6936_EMD_DDA40X.jpg")
-1980年代，受到[第二次石油危机和](https://zh.wikipedia.org/wiki/第二次石油危机 "wikilink")[紧缩性货币政策的影响](../Page/货币政策.md "wikilink")，美国陷入一个相当严峻的经济衰退时期，铁路货运量也因而呈现下滑状态。同时，DDA40X型柴油机车的维护成本也随着走行里程与日俱增，至1980年大多数机车的走行里程已达220万英里，使联合太平洋铁路倾向使用结构简单可靠、运用灵活性更高的[SD40-2型柴油机车](../Page/SD40-2型柴油机车.md "wikilink")和[C30-7型柴油机车](../Page/C30-7型柴油机车.md "wikilink")。除此之外，因承载式燃油箱导致的车体底架结构强度问题也一直困扰着DDA40X型柴油机车。1980年5月至8月期间，大部分DDA40X型柴油机车（不包括因事故报废的2台机车）陆续被封存，分批存放于[艾奥瓦州](../Page/艾奥瓦州.md "wikilink")[康瑟尔布拉夫斯](https://zh.wikipedia.org/wiki/康瑟尔布拉夫斯_\(艾奥瓦州\) "wikilink")、内布拉斯加州北普拉特、犹他州盐湖城、[内华达州](../Page/内华达州.md "wikilink")[拉斯维加斯](../Page/拉斯维加斯.md "wikilink")等地。1982年2月，全数45台DDA40X型柴油机车被转移至加州集中存放。
+[UP_6936_EMD_DDA40X.jpg](https://zh.wikipedia.org/wiki/File:UP_6936_EMD_DDA40X.jpg "fig:UP_6936_EMD_DDA40X.jpg") 1980年代，受到[第二次石油危机和](https://zh.wikipedia.org/wiki/第二次石油危机 "wikilink")[紧缩性货币政策的影响](../Page/货币政策.md "wikilink")，美国陷入一个相当严峻的经济衰退时期，铁路货运量也因而呈现下滑状态。同时，DDA40X型柴油机车的维护成本也随着走行里程与日俱增，至1980年大多数机车的走行里程已达220万英里，使联合太平洋铁路倾向使用结构简单可靠、运用灵活性更高的[SD40-2型柴油机车](../Page/SD40-2型柴油机车.md "wikilink")和[C30-7型柴油机车](../Page/C30-7型柴油机车.md "wikilink")。除此之外，因承载式燃油箱导致的车体底架结构强度问题也一直困扰着DDA40X型柴油机车。1980年5月至8月期间，大部分DDA40X型柴油机车（不包括因事故报废的2台机车）陆续被封存，分批存放于[艾奥瓦州](../Page/艾奥瓦州.md "wikilink")[康瑟尔布拉夫斯](https://zh.wikipedia.org/wiki/康瑟尔布拉夫斯_\(艾奥瓦州\) "wikilink")、内布拉斯加州北普拉特、犹他州盐湖城、[内华达州](../Page/内华达州.md "wikilink")[拉斯维加斯](../Page/拉斯维加斯.md "wikilink")等地。1982年2月，全数45台DDA40X型柴油机车被转移至加州集中存放。
 
 1982年至1983年，联合太平洋铁路曾经与易安迪公司洽商，希望将DDA40X型柴油机车脱手，并[折价贴换新的SD](https://zh.wikipedia.org/wiki/折价贴换 "wikilink")40-2型柴油机车，但这个计划因价格原因未能成事。即使联合太平洋铁路有意订购SD40-2型柴油机车，但当时新一代的[SD50](../Page/SD50型柴油机车.md "wikilink")、[GP50型柴油机车](../Page/GP50型柴油机车.md "wikilink")已经投产，而且新机车亦因易安迪忙于应付订单而无法在短时间内交付。1983年美国经济和铁路货运开始出现复苏，促使联合太平洋铁路考虑重新启用DDA40X型柴油机车。1984年1月，为了评估重新启用DDA40X型柴油机车的可行性，联合太平洋铁路抽调出其中两台机车并将其恢复到运用状态，铁路公司认为这样虽然需要投入一定的维修成本，但仍然比购置新的SD50型柴油机车便宜，而且亦无需浪费时间等候新车交货。
 
@@ -36,15 +34,11 @@ DDA40X型柴油机车拥有相当高的运用强度，投入运用后首五年�
 
 ### 总体布置
 
-[Dda40x-controls.jpg](https://zh.wikipedia.org/wiki/File:Dda40x-controls.jpg "fig:Dda40x-controls.jpg")
-[UP_DDA40X_6900_DSCN0260.JPG](https://zh.wikipedia.org/wiki/File:UP_DDA40X_6900_DSCN0260.JPG "fig:UP_DDA40X_6900_DSCN0260.JPG")
-DDA40X型柴油机车是以上一代的DD35、DD35A型柴油机车为基础，结合当时易安迪最新的技术研发成果而设计的单节八轴柴油机车。机车车体采用底架承载结构、双侧外走廊、单端司机室的罩式车体，DDA40X型柴油机车也是世界上单节长度最长的柴油机车，车体底架长度达到30,143毫米（98英尺5英寸），转向架中心距为19,812毫米（65英尺）。机车具备多机重联运行控制的能力，多节机车可连接成一个机车组，通过相互之间的重联插座和接线，可实现在其中一节机车上对整个机车组集中控制\[9\]。
+[Dda40x-controls.jpg](https://zh.wikipedia.org/wiki/File:Dda40x-controls.jpg "fig:Dda40x-controls.jpg") [UP_DDA40X_6900_DSCN0260.JPG](https://zh.wikipedia.org/wiki/File:UP_DDA40X_6900_DSCN0260.JPG "fig:UP_DDA40X_6900_DSCN0260.JPG") DDA40X型柴油机车是以上一代的DD35、DD35A型柴油机车为基础，结合当时易安迪最新的技术研发成果而设计的单节八轴柴油机车。机车车体采用底架承载结构、双侧外走廊、单端司机室的罩式车体，DDA40X型柴油机车也是世界上单节长度最长的柴油机车，车体底架长度达到30,143毫米（98英尺5英寸），转向架中心距为19,812毫米（65英尺）。机车具备多机重联运行控制的能力，多节机车可连接成一个机车组，通过相互之间的重联插座和接线，可实现在其中一节机车上对整个机车组集中控制\[9\]。
 
 机车走行部为两台完全相同且可交换使用的四轴[转向架](../Page/轉向架.md "wikilink")，其结构与联合太平洋铁路燃气轮机车使用的转向架大致相同，采用导框式轴箱定位、两系弹簧悬挂装置（一系为轴箱螺旋圆弹簧，二系为摇枕螺旋弹簧）、垂向与横向橡胶摩擦减振器、[双侧闸瓦制动](https://zh.wikipedia.org/wiki/闸瓦制动 "wikilink")、心盘牵引装置。车体中部设有一个焊接在底架上的承载式大容量燃油箱，总容积为31,300公升（8,280美制加仑），实际可用油量为31,256公升（8,257美制加仑），当油箱满载燃油时其重量就高达30公吨。
 
-车体从前端至后端分隔为辅助室、司机室、第一动力室、第一冷却室、第二冷却室、第二动力室等部分。辅助室位于司机室前端的全宽度短罩内，设有砂箱和蓄电池组。司机室部分则采用了已经在[FP45型柴油机车](../Page/FP45型柴油机车.md "wikilink")得到应用的全宽度司机室，这也是后来[北美安全司机室](https://zh.wikipedia.org/wiki/北美安全司机室 "wikilink")（North
-American Safety
-Cab）设计的雏形。两个动力室及冷却室采用纵向对称布置。每个动力室设有一台柴油发电机组，以及电气控制柜、[空气滤清器](../Page/空气滤清器.md "wikilink")、牵引电动机通风机、主发电机通风机、辅助发电机、起动电动机等辅助设备，而[制动电阻及其冷却通风机则位于柴油机上方](https://zh.wikipedia.org/wiki/電阻器 "wikilink")。冷却室内顶部设有[散热器](../Page/散热器.md "wikilink")和三个[冷却风扇](../Page/风扇.md "wikilink")，在其下方设有一台[螺杆式空气压缩机](https://zh.wikipedia.org/wiki/压缩机 "wikilink")\[10\]。
+车体从前端至后端分隔为辅助室、司机室、第一动力室、第一冷却室、第二冷却室、第二动力室等部分。辅助室位于司机室前端的全宽度短罩内，设有砂箱和蓄电池组。司机室部分则采用了已经在[FP45型柴油机车](../Page/FP45型柴油机车.md "wikilink")得到应用的全宽度司机室，这也是后来[北美安全司机室](https://zh.wikipedia.org/wiki/北美安全司机室 "wikilink")（North American Safety Cab）设计的雏形。两个动力室及冷却室采用纵向对称布置。每个动力室设有一台柴油发电机组，以及电气控制柜、[空气滤清器](../Page/空气滤清器.md "wikilink")、牵引电动机通风机、主发电机通风机、辅助发电机、起动电动机等辅助设备，而[制动电阻及其冷却通风机则位于柴油机上方](https://zh.wikipedia.org/wiki/電阻器 "wikilink")。冷却室内顶部设有[散热器](../Page/散热器.md "wikilink")和三个[冷却风扇](../Page/风扇.md "wikilink")，在其下方设有一台[螺杆式空气压缩机](https://zh.wikipedia.org/wiki/压缩机 "wikilink")\[10\]。
 
 ### 动力装置
 
@@ -61,13 +55,11 @@ DDA40X型柴油机车的动力装置为两台3,300马力、[16气缸](https://zh
 ## 重大事故
 
   - 1974年4月6日，联合太平洋铁路6903号机车（本务机车）与6924号机车重联牵引货物列车，当运行至加利福尼亚州南部的时与一列[圣塔菲铁路的货物列车发生追尾相撞](../Page/艾奇遜、托皮卡和聖塔菲鐵路.md "wikilink")。事故后6903号机车因严重损毁而报废，被转移到盐湖城机车检修工厂并拆除了所有可用的零部件，余下的车体则作为废金属处理，于1974年6月卖给了犹他州的一家废料回收公司\[14\]。
-  - 1978年8月27日，联合太平洋铁路8046号机车（本务机车，SD40-2型柴油机车）与6937、6921号机车重联牵引快速货物列车，当列车运行至怀俄明州时与侵入线路限界的铁路捣固机相撞，事故造成8046、6937、6921号机车[脱轨颠覆](https://zh.wikipedia.org/wiki/脫軌 "wikilink")。
-    8046、6937号机车被转移到内布拉斯加州奥马哈机车检修工厂进行修理，于1978年12月修复完毕并恢复运用。而报废的6921号机车被转移到犹他州的盐湖城机车检修工厂，拆除了所有可用的零部件后余下的车体则作为废金属处理，于1978年12月卖给了犹他州的一家废料回收公司\[15\]。
+  - 1978年8月27日，联合太平洋铁路8046号机车（本务机车，SD40-2型柴油机车）与6937、6921号机车重联牵引快速货物列车，当列车运行至怀俄明州时与侵入线路限界的铁路捣固机相撞，事故造成8046、6937、6921号机车[脱轨颠覆](https://zh.wikipedia.org/wiki/脫軌 "wikilink")。 8046、6937号机车被转移到内布拉斯加州奥马哈机车检修工厂进行修理，于1978年12月修复完毕并恢复运用。而报废的6921号机车被转移到犹他州的盐湖城机车检修工厂，拆除了所有可用的零部件后余下的车体则作为废金属处理，于1978年12月卖给了犹他州的一家废料回收公司\[15\]。
 
 ## 車輛保存
 
-[缩略图](https://zh.wikipedia.org/wiki/File:UP_6915.jpg "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:UP_6930_20050716_Illinois_Railway_Museum.JPG "fig:缩略图")
+[缩略图](https://zh.wikipedia.org/wiki/File:UP_6915.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:UP_6930_20050716_Illinois_Railway_Museum.JPG "fig:缩略图")
 
   - 6900号机车：联合太平洋铁路于1986年11月将其捐赠予[內布拉斯加州](https://zh.wikipedia.org/wiki/內布拉斯加州 "wikilink")[奧馬哈市政府](https://zh.wikipedia.org/wiki/奧馬哈_\(內布拉斯加州\) "wikilink")，并安置于向公众展示。
   - 6901号机车：联合太平洋铁路于1986年3月将其捐赠予[愛達荷州](../Page/爱达荷州.md "wikilink")[波卡特洛市政府](https://zh.wikipedia.org/wiki/波卡特洛_\(愛達荷州\) "wikilink")，并安置于罗斯公园向公众展示。
@@ -101,16 +93,11 @@ DDA40X型柴油机车的动力装置为两台3,300马力、[16气缸](https://zh
 
 ## 外部链接
 
-  - [American-Rails.com: The DDA40X,
-    "Centennial"](http://www.american-rails.com/dda40x.html)
+  - [American-Rails.com: The DDA40X, "Centennial"](http://www.american-rails.com/dda40x.html)
 
 [Category:聯合太平洋鐵路車輛](https://zh.wikipedia.org/wiki/Category:聯合太平洋鐵路車輛 "wikilink")
 
-[Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink")
-[Category:EMD制铁路机车](https://zh.wikipedia.org/wiki/Category:EMD制铁路机车 "wikilink")
-[Category:Do-Do軸式機車](https://zh.wikipedia.org/wiki/Category:Do-Do軸式機車 "wikilink")
-[Category:美國的世界之最](https://zh.wikipedia.org/wiki/Category:美國的世界之最 "wikilink")
-[Category:交通之最](https://zh.wikipedia.org/wiki/Category:交通之最 "wikilink")
+[Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink") [Category:EMD制铁路机车](https://zh.wikipedia.org/wiki/Category:EMD制铁路机车 "wikilink") [Category:Do-Do軸式機車](https://zh.wikipedia.org/wiki/Category:Do-Do軸式機車 "wikilink") [Category:美國的世界之最](https://zh.wikipedia.org/wiki/Category:美國的世界之最 "wikilink") [Category:交通之最](https://zh.wikipedia.org/wiki/Category:交通之最 "wikilink")
 
 1.
 

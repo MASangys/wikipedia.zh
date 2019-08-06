@@ -1,8 +1,6 @@
-**异常处理**（exception
-handling）是[C++](../Page/C++.md "wikilink")的一项语言机制，用于在程序能处理异常事件。
+**异常处理**（exception handling）是[C++](../Page/C++.md "wikilink")的一项语言机制，用于在程序能处理异常事件。
 
-异常事件在C++中表示为**异常对象**（exception
-object）。异常事件发生时，由操作系统为程序设置当前异常对象，然后执行程序的当前异常处理代码块，在包含了异常出现点的最内层的`try`块，依次匹配同级的`catch`语句。如果匹配`catch`语句成功，则在该catch块内处理异常；然后执行当前`try...catch...`块之后的代码。如果在当前的`try...catch...`块没有能匹配该异常对象的`catch`语句，则由更外一层的`try...catch...`块处理该异常；如果当前函数内的所有`try...catch...`块都不能匹配该异常，则递归回退到[调用栈的上一层函数去处理该异常](https://zh.wikipedia.org/wiki/调用栈 "wikilink")。如果一直回退到主函数`main()`都不能处理该异常，则调用系统函数`terminate()`终止程序。
+异常事件在C++中表示为**异常对象**（exception object）。异常事件发生时，由操作系统为程序设置当前异常对象，然后执行程序的当前异常处理代码块，在包含了异常出现点的最内层的`try`块，依次匹配同级的`catch`语句。如果匹配`catch`语句成功，则在该catch块内处理异常；然后执行当前`try...catch...`块之后的代码。如果在当前的`try...catch...`块没有能匹配该异常对象的`catch`语句，则由更外一层的`try...catch...`块处理该异常；如果当前函数内的所有`try...catch...`块都不能匹配该异常，则递归回退到[调用栈的上一层函数去处理该异常](https://zh.wikipedia.org/wiki/调用栈 "wikilink")。如果一直回退到主函数`main()`都不能处理该异常，则调用系统函数`terminate()`终止程序。
 
 ## throw
 
@@ -14,11 +12,7 @@ object）。异常事件发生时，由操作系统为程序设置当前异常�
 
 `throw`语句抛出的异常对象在匹配成功的`catch`语句的结束处被析构（即使该catch语句使用的是非“引用”的传值参数类型）。
 
-由于`throw`语句都进行了一次副本拷贝，因此异常对象应该是可以[copy构造的](https://zh.wikipedia.org/wiki/复制构造函数 "wikilink")。但对于[Microsoft
-Visual
-C++编译器](../Page/Microsoft_Visual_C++.md "wikilink")，异常对象的[复制构造函数即使私有的情形](https://zh.wikipedia.org/wiki/复制构造函数 "wikilink")，异常对象仍然可以被`throw`语句正常抛出；但在catch语句的参数是传值时，在catch语句处编译报错：“
-cannot be caught as the destructor and/or copy constructor are
-inaccessible”。
+由于`throw`语句都进行了一次副本拷贝，因此异常对象应该是可以[copy构造的](https://zh.wikipedia.org/wiki/复制构造函数 "wikilink")。但对于[Microsoft Visual C++编译器](../Page/Microsoft_Visual_C++.md "wikilink")，异常对象的[复制构造函数即使私有的情形](https://zh.wikipedia.org/wiki/复制构造函数 "wikilink")，异常对象仍然可以被`throw`语句正常抛出；但在catch语句的参数是传值时，在catch语句处编译报错：“ cannot be caught as the destructor and/or copy constructor are inaccessible”。
 
 抛出一个表达式时，被抛出对象的静态编译时类型将决定异常对象的类型。
 
@@ -26,9 +20,7 @@ inaccessible”。
 
 `catch`语句匹配被抛出的异常对象时，如果`catch`语句的参数是引用型，则该参数直接引用到throw语句抛出的异常对象上；如果`catch`参数是传值的，则拷贝构造一个新的对象作为`catch`语句的参数的值。在该catch语句结束时，先析构`catch`的传值的参数对象，然后析构throw语句抛出的异常对象。
 
-`catch`语句匹配异常对象时，不会做任何隐式类型转换（implicit type
-conversion），包括类型提升（promotion）。
-异常对象与catch语句进行匹配的规则很严格，一般除了以下几种情况外，异常对象的类型必须与catch语句的声明类型完全匹配：允许非const到const的转换；允许派生类到基类的转换；将数组和函数类型转换为对应的指针。
+`catch`语句匹配异常对象时，不会做任何隐式类型转换（implicit type conversion），包括类型提升（promotion）。 异常对象与catch语句进行匹配的规则很严格，一般除了以下几种情况外，异常对象的类型必须与catch语句的声明类型完全匹配：允许非const到const的转换；允许派生类到基类的转换；将数组和函数类型转换为对应的指针。
 
 在catch块中可以使用不带表达式的throw语句将捕获的异常重新抛出：
 
@@ -71,8 +63,7 @@ logic_error类（一般的逻辑异常）包含了domain_error、invalid_argumen
 
 ## 函数的异常规格
 
-**异常规格**（exception
-specification）列出函数可能会抛出的所有异常的类型。异常规格写在函数的形参表之后的关键字throw之后跟着一对圆括号括住的异常类型列表。如：
+**异常规格**（exception specification）列出函数可能会抛出的所有异常的类型。异常规格写在函数的形参表之后的关键字throw之后跟着一对圆括号括住的异常类型列表。如：
 
 ``` cpp
 void foo(int) throw(bad_alloc, invalid_argument)
@@ -91,8 +82,7 @@ void foo(int) throw();
 
 如果函数内抛出的异常的类型不在该函数的异常规格中，则[系统函数unexpected](https://zh.wikipedia.org/wiki/系统函数 "wikilink")()被调用。如果在unexpected()中抛出的异常出现在该函数的异常规格中，则在该函数被调用处恢复对异常的catch处理。如果在unexpected()中抛出的异常**不**在该函数的异常规格中，则调用系统函数terminate()以终止程序。
 
-标准异常类中的构造函数、析构函数和what()虚函数都承诺不抛出异常。如what的完整声明为：virtual const char\*
-what() const throw();
+标准异常类中的构造函数、析构函数和what()虚函数都承诺不抛出异常。如what的完整声明为：virtual const char\* what() const throw();
 
 派生类中的虚函数不能抛出基类虚函数中没有声明的新异常。
 
@@ -102,10 +92,7 @@ what() const throw();
   - 函数调用序列中间的函数可以不考虑异常处理，由某一层函数调用扑捉异常；
   - unwinding自动发生。
 
-Microsoft Visual
-C++接受但暂不支持C++标准中的函数的异常规格。即使使用了编译器选项/D1ESrt，函数抛出不在其异常规格中的其他类型异常时，不会自动调用unexpected()，而是在该函数调用点处的`try...catch...`处理。在[Visual
-C++的函数名字修饰](../Page/Visual_C++名字修饰.md "wikilink")（name
-mangling）中，函数的形参的类型都编码入被修饰后的函数名字中；但是函数的异常说明中的类型都没有编码入被修饰后的函数名字中。\[1\]
+Microsoft Visual C++接受但暂不支持C++标准中的函数的异常规格。即使使用了编译器选项/D1ESrt，函数抛出不在其异常规格中的其他类型异常时，不会自动调用unexpected()，而是在该函数调用点处的`try...catch...`处理。在[Visual C++的函数名字修饰](../Page/Visual_C++名字修饰.md "wikilink")（name mangling）中，函数的形参的类型都编码入被修饰后的函数名字中；但是函数的异常说明中的类型都没有编码入被修饰后的函数名字中。\[1\]
 
 ## noexcept关键字
 
@@ -143,8 +130,7 @@ myClass::myClass(type1 pa1)
 
 ## 资源获取即初始化
 
-**资源获取即初始化**（Resource acquisition is
-initialization，RAII）是指：为了更为方便、鲁棒地释放已获取的资源，避免资源死锁，一个办法是把资源数据用对象封装起来。程序发生异常，执行**栈展开**时，封装了资源的对象会被自动调用其析构函数以释放资源。
+**资源获取即初始化**（Resource acquisition is initialization，RAII）是指：为了更为方便、鲁棒地释放已获取的资源，避免资源死锁，一个办法是把资源数据用对象封装起来。程序发生异常，执行**栈展开**时，封装了资源的对象会被自动调用其析构函数以释放资源。
 
 ## 例子
 
@@ -211,8 +197,7 @@ int main()
 
 <references/>
 
-[Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink")
-[Category:控制流程](https://zh.wikipedia.org/wiki/Category:控制流程 "wikilink")
+[Category:C++](https://zh.wikipedia.org/wiki/Category:C++ "wikilink") [Category:控制流程](https://zh.wikipedia.org/wiki/Category:控制流程 "wikilink")
 
 1.  参见VC++ Compiler Warning C4290
 2.  C++11标准附录B

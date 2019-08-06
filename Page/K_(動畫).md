@@ -1,23 +1,14 @@
-《**K**》是名為「GoRA」的七名作家團體[原著](https://zh.wikipedia.org/wiki/原著 "wikilink")、動畫公司[GoHands制作的原創電視動畫](https://zh.wikipedia.org/wiki/GoHands "wikilink")。2012年10月4日開始播放。海外[Animax
-Asia與日本零時差同步播出](../Page/Animax_Asia.md "wikilink")\[1\]，另外，會配合當地法規剪掉部分裸露鏡頭，但此舉使劇情中某些重要片段消失，造成情節突兀，也讓部份集數沒有片尾，只留下下集預告。台灣Animax於2013年3月15日重播時，將首播時備受抨擊的中文字幕修改。香港Animax在1月26日以日語原音方式一次重播全部13集，在5月10日再以廣東話和日語雙語方式開始第二次重播，字幕亦經過修改。
+《**K**》是名為「GoRA」的七名作家團體[原著](https://zh.wikipedia.org/wiki/原著 "wikilink")、動畫公司[GoHands制作的原創電視動畫](https://zh.wikipedia.org/wiki/GoHands "wikilink")。2012年10月4日開始播放。海外[Animax Asia與日本零時差同步播出](../Page/Animax_Asia.md "wikilink")\[1\]，另外，會配合當地法規剪掉部分裸露鏡頭，但此舉使劇情中某些重要片段消失，造成情節突兀，也讓部份集數沒有片尾，只留下下集預告。台灣Animax於2013年3月15日重播時，將首播時備受抨擊的中文字幕修改。香港Animax在1月26日以日語原音方式一次重播全部13集，在5月10日再以廣東話和日語雙語方式開始第二次重播，字幕亦經過修改。
 
-第13話（最終話）結尾，宣布將製作續篇劇場版《K MISSING
-KINGS》，日本於2014年7月12日上映，台灣於2014年8月15日，香港則於2014年9月11日。2014年10月18日，官方於「K
--In this place
-again-」的活動上，宣布2015年動畫續編製作決定的消息\[2\]。2015年2月11日釋出電視動畫第二期「RETURN
-OF KINGS」的預告片，定於10月2日開始播放\[3\]\[4\]。2016年4月30日，官方宣布新作動畫「K Seven
-Stories」製作決定的消息。\[5\]
+第13話（最終話）結尾，宣布將製作續篇劇場版《K MISSING KINGS》，日本於2014年7月12日上映，台灣於2014年8月15日，香港則於2014年9月11日。2014年10月18日，官方於「K -In this place again-」的活動上，宣布2015年動畫續編製作決定的消息\[2\]。2015年2月11日釋出電視動畫第二期「RETURN OF KINGS」的預告片，定於10月2日開始播放\[3\]\[4\]。2016年4月30日，官方宣布新作動畫「K Seven Stories」製作決定的消息。\[5\]
 
 ## 概要
 
-2012年初，曾推出「[蒼穹之戰神](../Page/蒼穹之戰神.md "wikilink")」及「[魔法老師](../Page/魔法老師_\(動畫\).md "wikilink")」等動畫的King
-Record製作人中西豪在推特上公開由革新的作家集團所打造的謎之原創動畫企劃「GoRA Project」開始啟動的消息。
+2012年初，曾推出「[蒼穹之戰神](../Page/蒼穹之戰神.md "wikilink")」及「[魔法老師](../Page/魔法老師_\(動畫\).md "wikilink")」等動畫的King Record製作人中西豪在推特上公開由革新的作家集團所打造的謎之原創動畫企劃「GoRA Project」開始啟動的消息。
 
 隨後陸續放出一些本作的訊息，「GoRA Project」是作家集團的通稱，並非作品的名稱，成員有七人。
 
-在官方小説《K：Side Blue》、《K：Side Red》，漫畫《Stray Dog Story》、《Memory of
-Red》、《Days of Blue》、《K-Count Down》、《Dream of
-Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分。
+在官方小説《K：Side Blue》、《K：Side Red》，漫畫《Stray Dog Story》、《Memory of Red》、《Days of Blue》、《K-Count Down》、《Dream of Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分。
 
   - ORANGE：鈴木鈴
   - RED：宮澤龍生
@@ -52,11 +43,9 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
     而身體被侵占的白銀之王的靈魂逃入這具身體後被無色之王推落飛艇，掉入葦中學園與貓相遇。因為貓對他使用了超能力，完全丟失掉落飛艇前所有記憶，並因這具肉身被各方追究殺害十束多多良的罪行。
     名字是貓在雪染菊理質問時，臨時從海報中的「伊佐那神社」中為社取的名字（填補了社空缺的記憶使他認為自己就是伊佐那社）。
     最後將無色之王壓制在體內讓周防尊殺害，與無色之王同歸於盡，只留下紅色的紙傘。
-    其後於劇場版《K Missing
-    Kings》中，在國外重塑肉體後被黃金之王國常路大覺救起，此後一直與將要死去的黃金之王待在飛船內。黃金之王逝世後，說了「這次我將不再逃避。」
+    其後於劇場版《K Missing Kings》中，在國外重塑肉體後被黃金之王國常路大覺救起，此後一直與將要死去的黃金之王待在飛船內。黃金之王逝世後，說了「這次我將不再逃避。」
     第二季時銜接劇場版的後續，於高空中的飛船墜落，並在之後及時解救遭遇危機的狗朗。與赤之王和青之王在矮腳桌會議協議並通過組合聯盟對抗綠色部族。
-    名字來自於日本神話「[伊邪那岐](https://zh.wikipedia.org/wiki/伊奘諾尊 "wikilink") /
-    [伊邪那美](../Page/伊奘冉尊.md "wikilink")」。
+    名字來自於日本神話「[伊邪那岐](https://zh.wikipedia.org/wiki/伊奘諾尊 "wikilink") / [伊邪那美](../Page/伊奘冉尊.md "wikilink")」。
     在研究出破壞德勒斯登石版的方法後決定為自己氏族設計族徽，並請狗朗取名為「白米黨」。
     第二季第13話，由於石板消失，讓失去力量的白銀之王無法繼續借用身體，因而讓身體物歸原主。靈魂回到原本的身體後回到學校當德語老師，與狗朗還有雨乃（貓）回歸正常生活。
     另見[阿道夫‧K‧威斯曼](https://zh.wikipedia.org/wiki/#阿道夫‧K‧威斯曼 "wikilink")。
@@ -159,8 +148,7 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
     喜歡拿著滑板跟棒球棍。能將赤火能力發輝到極致。討厭英文。
     不喜歡被直呼名字。與猿比古是多年舊識，但在其叛變之後極力撇清關係。但除了憤怒與不解外，私底下其實也很在意為對手陣營效力的猿比古。
     不擅長應付女性，光是對話就變得舉止怪異，且容易臉紅。但在戰鬥的場合除外（例如與淡島世理對戰的時候）。
-    於劇場版《K Missing
-    Kings》中，因為周防尊和十束多多良的死亡而變得意志消沉，後來鐮本力夫告知他櫛名安娜被綠之王的盟臣抓走後恢復正常。
+    於劇場版《K Missing Kings》中，因為周防尊和十束多多良的死亡而變得意志消沉，後來鐮本力夫告知他櫛名安娜被綠之王的盟臣抓走後恢復正常。
     被Jungle懸賞點數為3000點。
     動畫第二季第12話被宗像告知伏見背叛的真正目的，並在危急之際救出伏見，兩人重拾友誼。
 
@@ -238,8 +226,7 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
     最後在周防的要求下，在達摩克里斯之劍落下前將他殺死。
     名字來自日本神話「[宗像三女神](../Page/宗像三女神.md "wikilink")」。
     私生活完全是個謎，有一個單純又豁達的哥哥宗像大司，以及侄子姪女各一，和家人關係似乎不錯。
-    於劇場版《K Missing
-    Kings》中，因弒王造成的負擔，達摩克里斯之劍開始出現崩解現象。在第二季第8話，佩刀天狼星斷裂，而達摩克里斯之劍崩解現象也越來越嚴重。
+    於劇場版《K Missing Kings》中，因弒王造成的負擔，達摩克里斯之劍開始出現崩解現象。在第二季第8話，佩刀天狼星斷裂，而達摩克里斯之劍崩解現象也越來越嚴重。
     被Jungle懸賞點數為100000點。
     動畫第二季第10話被日本政府作為石板奪取事件的責任承擔者而辭退室長一職。
     動畫第二季第12話，與灰之王的死鬥結束後，達摩克里斯之劍已瀕臨墜落。
@@ -389,8 +376,7 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
   -
     25歳。身高175cm。誕生日11月11日。血液A型Rh+。
     第五王權者·綠之王。
-    初次在小說《SIDE：BLUE》中暗示他為事件的幕後黑手，第二次於小說《Lost Small
-    World》更直接表示他是事件主使者，亦是造成伏見離開吠舞羅的主因之一。
+    初次在小說《SIDE：BLUE》中暗示他為事件的幕後黑手，第二次於小說《Lost Small World》更直接表示他是事件主使者，亦是造成伏見離開吠舞羅的主因之一。
     於劇場版中透過御芍神紫身邊的鸚鵡——琴坂自報姓名與身分，在臨走前表示「那個少女（安娜）已經不再是需要捕獲的族人了」，並對剛覺醒的安娜和眾人放出結合大量成員力量的大型攻擊。
     於漫畫版《K-THE FIRST》中慫恿因吸收太多人格而錯亂迷失的無色之王去攻擊其他的王，是事件的真正黑手。
     TV第二季第五集與白銀之王的對談中承認為學園島事件的幕後黑手。
@@ -422,8 +408,7 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
 
   -
     13歳。身高153cm。誕生日12月1日。血液B型Rh+。
-    Jungle
-    J級幹部。使用的武器是用綠之力形成的雙面鐮刀。負責向Jungle的下級幹部發布任務，能一人同時壓制八田美咲和伏見猿比古，但在第二次對決時被兩人共同擊敗。
+    Jungle J級幹部。使用的武器是用綠之力形成的雙面鐮刀。負責向Jungle的下級幹部發布任務，能一人同時壓制八田美咲和伏見猿比古，但在第二次對決時被兩人共同擊敗。
     攻擊御柱塔搶奪石版的時候一度與狗朗、貓和伊佐那社槓上，但隨後被御芍神紫插入戰鬥並強制帶他離開現場，之後與紫駕駛直升機成功將石板帶走，之後在第二季十二話時敗給了八田及伏見等人。在最後被御芍神紫救走，並和他一起告別曾經的夥伴灰之王和綠之王，之後和御芍神紫一起離開。
     名字來自於日本神話「[少彥名](../Page/少彥名.md "wikilink")」。「須久那」，源自「須久那美迦微」，即「少彥名」。
 
@@ -431,8 +416,7 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
 
   -
     28歳。身高165cm。誕生日10月29日。血液A型Rh+。
-    跟隨在御芍神紫身旁的謎之忍者。擁有冷靜的洞察力，偵察、奇襲之類的隱密行動是他的得意技，自認為是職業的戰鬥專家。其實是女人。口味獨特，喜歡吃「披薩壽司」。在劇場版《K
-    Missing Kings》最後被伏見捉住。
+    跟隨在御芍神紫身旁的謎之忍者。擁有冷靜的洞察力，偵察、奇襲之類的隱密行動是他的得意技，自認為是職業的戰鬥專家。其實是女人。口味獨特，喜歡吃「披薩壽司」。在劇場版《K Missing Kings》最後被伏見捉住。
     在伏見叛離青之王潛入綠之氏族時協助他，並在之後收到宗像的報酬前去營救已負傷的伏見。
     名字來自於日本神話「[黄泉比良坂](https://zh.wikipedia.org/wiki/黄泉比良坂 "wikilink")/[道返之大神](https://zh.wikipedia.org/wiki/道返之大神 "wikilink")」。
 
@@ -510,8 +494,7 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
     高中毕业之后他离开老家，进入日本最高学府求学。专攻经济学，考取奖学金留学美国。在美国时攻读的是经营学，获得学位后进入世界知名的证券公司任职。虽然在那里也缔造了非常优秀的业绩，却因健康受损而回国。
     前衛的俳句诗人，主要能力為預言術，戰鬥能力是所有王權者中最低的（但相對於王外的超能力者依然非常強大）。
     喜歡說各種至理名言，被狗朗用收錄機收錄，並時常聆聽。
-    名字來自於日本神話「[三輪山](../Page/三輪山.md "wikilink")([大物主神](https://zh.wikipedia.org/wiki/大物主神 "wikilink"))
-    / [一言主神](https://zh.wikipedia.org/wiki/一事主神 "wikilink")」。
+    名字來自於日本神話「[三輪山](../Page/三輪山.md "wikilink")([大物主神](https://zh.wikipedia.org/wiki/大物主神 "wikilink")) / [一言主神](https://zh.wikipedia.org/wiki/一事主神 "wikilink")」。
 
 <!-- end list -->
 
@@ -580,14 +563,12 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
 <!-- end list -->
 
   -
-    伏見的親戚，八田的同學，嚮往成為上位者，得到綠的力量；但在加入Jungle
-    前因為打算討好綠之王失敗加上被伏見阻止，因此沒能加入Jungle。
+    伏見的親戚，八田的同學，嚮往成為上位者，得到綠的力量；但在加入Jungle 前因為打算討好綠之王失敗加上被伏見阻止，因此沒能加入Jungle。
 
 <!-- end list -->
 
   -
-    登場於小說《K Lost Small
-    World》。伏見猿比古的父親，是造成伏見長年心理陰霾的存在。在伏見中學三年级时因病去世，享年34歲。
+    登場於小說《K Lost Small World》。伏見猿比古的父親，是造成伏見長年心理陰霾的存在。在伏見中學三年级时因病去世，享年34歲。
 
 <!-- end list -->
 
@@ -602,8 +583,7 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
   -
     日本總理大臣，Scepter4形式上的直屬長官，但是實際上並不會、也沒有能力去控制Scepter4。
     不過由於宗像非常重視書面程序，因此仍會由世理交付行動命令給首相簽署。
-    石板被綠之王比水流與灰之王合作奪取後，以直屬長官的權力開除宗像，並同時給予Scepter4
-    待命命令，在石板被綠之王解放時獲得雙眼透視的能力。
+    石板被綠之王比水流與灰之王合作奪取後，以直屬長官的權力開除宗像，並同時給予Scepter4 待命命令，在石板被綠之王解放時獲得雙眼透視的能力。
 
 <!-- end list -->
 
@@ -625,8 +605,7 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
 
 :\* 第一王權者·白銀之王：阿道夫‧K‧威斯曼（伊佐那社）
 
-:\*:
-持有「不變」的屬性，擁有不可侵的特性（不受外界力量影響），其能力為肉體不變、操縱重力，另外還擁有可以改變生物光譜的能力（將其他氏族的人暫時變成自己的族人）、與其進行同步化，甚至還能以自身的意識自由改變自己的威斯曼偏差值。
+:\*: 持有「不變」的屬性，擁有不可侵的特性（不受外界力量影響），其能力為肉體不變、操縱重力，另外還擁有可以改變生物光譜的能力（將其他氏族的人暫時變成自己的族人）、與其進行同步化，甚至還能以自身的意識自由改變自己的威斯曼偏差值。
 
 :\* 第二王權者·黃金之王：國常路大覺（逝世）
 
@@ -642,8 +621,7 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
 
 :\* 第五王權者·綠色之王：比水流
 
-:\*:
-司掌「改變」和「變革」的化身，能改變物理法則或釋放綠色雷電，運用能力甚至能獲得足以匹敵黃金之王的力量，就連赤色之王與青色之王二人聯手也只能打成平手，但有時間上的限制。
+:\*: 司掌「改變」和「變革」的化身，能改變物理法則或釋放綠色雷電，運用能力甚至能獲得足以匹敵黃金之王的力量，就連赤色之王與青色之王二人聯手也只能打成平手，但有時間上的限制。
 
 :\* 第六王權者·灰色之王：磐舟天雞（本名鳳聖悟）
 
@@ -738,9 +716,7 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
   -
 
       -
-        綠之王的氏族，分為J到E六個階級，利用手機程式拓展勢力、挑選成員，亦透過程式召集、任務的模式達到影響現實的目的（曾於「Lost
-        Small
-        World」中造成暴動、誘發伏見的陰影擾亂他的情緒），多數成員並不曉得能力者的事，只有少部分的人為真正的氏族成員，他們真正麻煩之處是因為透過網路號召、組織，防不勝防。且成員有多數是一般民眾，卻可能具有些微的綠色之力，可以藏身於圍觀的人群不被發現（即使是在Scepter4面前也沒被察覺），匯集起來的攻擊足以對身為王權者造成強大威脅。
+        綠之王的氏族，分為J到E六個階級，利用手機程式拓展勢力、挑選成員，亦透過程式召集、任務的模式達到影響現實的目的（曾於「Lost Small World」中造成暴動、誘發伏見的陰影擾亂他的情緒），多數成員並不曉得能力者的事，只有少部分的人為真正的氏族成員，他們真正麻煩之處是因為透過網路號召、組織，防不勝防。且成員有多數是一般民眾，卻可能具有些微的綠色之力，可以藏身於圍觀的人群不被發現（即使是在Scepter4面前也沒被察覺），匯集起來的攻擊足以對身為王權者造成強大威脅。
         其氏族據點在市中心最底層，生活空間僅有一和室大小，但可以透過市中心的各個電梯通往每個地方。
 
 :;
@@ -929,8 +905,7 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
   -
 
       -
-        作詞︰atsuko，作曲︰atsuko、KATSU，編曲︰KATSU，歌︰貓
-        （[小松未可子](../Page/小松未可子.md "wikilink")）
+        作詞︰atsuko，作曲︰atsuko、KATSU，編曲︰KATSU，歌︰貓 （[小松未可子](../Page/小松未可子.md "wikilink")）
 
 ::; 「Circle of Friends」（第6話）
 
@@ -960,8 +935,7 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
   -
 
       -
-        作詞︰atsuko，作曲︰atsuko、KATSU，編曲︰KATSU，歌︰櫛名安娜（[堀江由衣](../Page/堀江由衣.md "wikilink")）&
-        吠舞羅全體
+        作詞︰atsuko，作曲︰atsuko、KATSU，編曲︰KATSU，歌︰櫛名安娜（[堀江由衣](../Page/堀江由衣.md "wikilink")）& 吠舞羅全體
 
 <!-- end list -->
 
@@ -1548,8 +1522,7 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
 
 ## 劇場版
 
-劇場版《**K MISSING KINGS**》於2014年7月12日上映，片長約75分鐘。《**K SEVEN
-STORIES**》於2018年7月7日起上映第一部，共六部，每月一上映一部。
+劇場版《**K MISSING KINGS**》於2014年7月12日上映，片長約75分鐘。《**K SEVEN STORIES**》於2018年7月7日起上映第一部，共六部，每月一上映一部。
 
 ## 角色歌曲
 
@@ -1648,9 +1621,7 @@ ISBN 978-4-06-362260-7（限定版）</p></td>
 </tbody>
 </table>
 
-  - 在[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《good\!
-    afternoon》2012年12月號(\#25)開始\[40\]至2013年4月號(\#29)結束連載。作畫是ミナトサキ，劇本是宮澤龍生。主軸為夜刀神狗朗在離開三輪一言故宅後所發生的事。
-    全1卷。
+  - 在[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《good\! afternoon》2012年12月號(\#25)開始\[40\]至2013年4月號(\#29)結束連載。作畫是ミナトサキ，劇本是宮澤龍生。主軸為夜刀神狗朗在離開三輪一言故宅後所發生的事。 全1卷。
 
 <table>
 <thead>
@@ -1777,9 +1748,7 @@ ISBN 978-4-06-362278-2（特裝版）</p></td>
 </tbody>
 </table>
 
-  - 《**K -Lost Small
-    World-**》在[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《Heart
-    Kiss》2014年7月號開始至2016年7月號結束連載。作畫是，劇本是壁井有可子（）。主要描寫八田美咲與伏見猿比古相識，到伏見猿比古退出吠舞羅加入Scepter4的過程，為同名小說的漫畫版。
+  - 《**K -Lost Small World-**》在[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")《Heart Kiss》2014年7月號開始至2016年7月號結束連載。作畫是，劇本是壁井有可子（）。主要描寫八田美咲與伏見猿比古相識，到伏見猿比古退出吠舞羅加入Scepter4的過程，為同名小說的漫畫版。
 
 <table>
 <thead>
@@ -1814,8 +1783,7 @@ ISBN 978-4-06-362334-5（特裝版）</p></td>
 </tbody>
 </table>
 
-  - 在講談社《ARIA》2015年2月號開始\[42\]至2015年9月號結束連載。作畫是黑榮唯（），劇本是來樂零（）。時間軸為Missing
-    King劇場版安娜成王後，到動畫第二季前。全2卷。
+  - 在講談社《ARIA》2015年2月號開始\[42\]至2015年9月號結束連載。作畫是黑榮唯（），劇本是來樂零（）。時間軸為Missing King劇場版安娜成王後，到動畫第二季前。全2卷。
 
 <table>
 <thead>
@@ -1845,8 +1813,7 @@ ISBN 978-4-06-362309-3（特裝版）</p></td>
 </tbody>
 </table>
 
-  - 《**K MISSING
-    KINGS**》在史克威爾艾尼克斯《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》2015年5月號開始至2015年9月號結束連載。作畫是汐田晴人，劇本是古橋秀之。為劇場版的漫畫化。全1冊。
+  - 《**K MISSING KINGS**》在史克威爾艾尼克斯《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》2015年5月號開始至2015年9月號結束連載。作畫是汐田晴人，劇本是古橋秀之。為劇場版的漫畫化。全1冊。
 
 <table>
 <thead>
@@ -1912,8 +1879,7 @@ ISBN 978-4-06-362309-3（特裝版）</p></td>
 </tbody>
 </table>
 
-  - 《**K RETURN OF
-    KINGS**》在史克威爾艾尼克斯《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》2015年11月號開始至2017年3月號結束連載。作畫是汐田晴人，劇本是古橋秀之。全2冊。
+  - 《**K RETURN OF KINGS**》在史克威爾艾尼克斯《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》2015年11月號開始至2017年3月號結束連載。作畫是汐田晴人，劇本是古橋秀之。全2冊。
 
 <table>
 <thead>
@@ -2156,24 +2122,7 @@ ISBN 978-4-06-362309-3（特裝版）</p></td>
 
 [分類:日本的海外聯播動畫](https://zh.wikipedia.org/wiki/分類:日本的海外聯播動畫 "wikilink")
 
-[Category:2012年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年TBS電視網動畫 "wikilink")
-[Category:日本原創電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫的電影版 "wikilink")
-[Category:Animeism](https://zh.wikipedia.org/wiki/Category:Animeism "wikilink")
-[Category:超能力題材作品](https://zh.wikipedia.org/wiki/Category:超能力題材作品 "wikilink")
-[Category:超能力題材動畫電影](https://zh.wikipedia.org/wiki/Category:超能力題材動畫電影 "wikilink")
-[Category:2014年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2014年日本劇場動畫 "wikilink")
-[Category:2015年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2015年TBS電視網動畫 "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
-[Category:GoHands](https://zh.wikipedia.org/wiki/Category:GoHands "wikilink")
-[Category:月刊GFantasy](https://zh.wikipedia.org/wiki/Category:月刊GFantasy "wikilink")
+[Category:2012年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年TBS電視網動畫 "wikilink") [Category:日本原創電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫的電影版 "wikilink") [Category:Animeism](https://zh.wikipedia.org/wiki/Category:Animeism "wikilink") [Category:超能力題材作品](https://zh.wikipedia.org/wiki/Category:超能力題材作品 "wikilink") [Category:超能力題材動畫電影](https://zh.wikipedia.org/wiki/Category:超能力題材動畫電影 "wikilink") [Category:2014年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2014年日本劇場動畫 "wikilink") [Category:2015年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2015年TBS電視網動畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink") [Category:GoHands](https://zh.wikipedia.org/wiki/Category:GoHands "wikilink") [Category:月刊GFantasy](https://zh.wikipedia.org/wiki/Category:月刊GFantasy "wikilink")
 
 1.  如果日本播出時間延後，台灣和香港Animax為配合時間也會延後播出。
 2.  資料來自官方推特[1](https://twitter.com/GoRAproject/status/523745916813979648)

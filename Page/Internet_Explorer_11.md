@@ -1,33 +1,14 @@
-**Internet Explorer 11**（简称**IE11**）是浏览器[Internet
-Explorer的最後一个版本](../Page/Internet_Explorer.md "wikilink")，由[微软](../Page/微软.md "wikilink")开发。正式版本隨[Windows
-8.1於](../Page/Windows_8.1.md "wikilink")2013年10月17日發佈。2013年11月7日發佈於[Windows
-7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。2015年7月29日上市的[Windows
-10會改以](../Page/Windows_10.md "wikilink")[Microsoft
-Edge作為預設瀏覽器](../Page/Microsoft_Edge.md "wikilink")，但為了相容性需求，Windows
-10仍會內建IE11供使用者選用。
+**Internet Explorer 11**（简称**IE11**）是浏览器[Internet Explorer的最後一个版本](../Page/Internet_Explorer.md "wikilink")，由[微软](../Page/微软.md "wikilink")开发。正式版本隨[Windows 8.1於](../Page/Windows_8.1.md "wikilink")2013年10月17日發佈。2013年11月7日發佈於[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。2015年7月29日上市的[Windows 10會改以](../Page/Windows_10.md "wikilink")[Microsoft Edge作為預設瀏覽器](../Page/Microsoft_Edge.md "wikilink")，但為了相容性需求，Windows 10仍會內建IE11供使用者選用。
 
 ## 新特性
 
-IE11重新設計了[開發人員工具](https://zh.wikipedia.org/wiki/Internet_Explorer_Developer_Tools "wikilink")\[1\]、支援[WebGL](../Page/WebGL.md "wikilink")\[2\]、增強對高DPI支援\[3\]、預先轉譯和預先擷取\[4\]、IE11-{zh-hans:只;
-zh-tw:只}-在Windows
-8.1上支援[SPDY](../Page/SPDY.md "wikilink")\[5\]\[6\]；此外，IE11支援全螢幕和螢幕方向APIs、CSS
-border
-image支援、JavaScript增強功能、DOM變動觀察者、Web密碼編譯API、視訊定時文字播放軌支援、加密媒體延伸〈EME〉支援和改進的HTML編輯器\[7\]。IE11預設使用[Transport
-Layer Security
-v1.2](https://zh.wikipedia.org/wiki/傳輸層安全協議 "wikilink")（TLS
-1.2）協定來作[加密傳輸](https://zh.wikipedia.org/wiki/HTTP_Secure "wikilink")，並且依照RFC
-7465的規範放棄使用有安全弱點的[RC4](../Page/RC4.md "wikilink")加密套件\[8\]。
+IE11重新設計了[開發人員工具](https://zh.wikipedia.org/wiki/Internet_Explorer_Developer_Tools "wikilink")\[1\]、支援[WebGL](../Page/WebGL.md "wikilink")\[2\]、增強對高DPI支援\[3\]、預先轉譯和預先擷取\[4\]、IE11-{zh-hans:只; zh-tw:只}-在Windows 8.1上支援[SPDY](../Page/SPDY.md "wikilink")\[5\]\[6\]；此外，IE11支援全螢幕和螢幕方向APIs、CSS border image支援、JavaScript增強功能、DOM變動觀察者、Web密碼編譯API、視訊定時文字播放軌支援、加密媒體延伸〈EME〉支援和改進的HTML編輯器\[7\]。IE11預設使用[Transport Layer Security v1.2](https://zh.wikipedia.org/wiki/傳輸層安全協議 "wikilink")（TLS 1.2）協定來作[加密傳輸](https://zh.wikipedia.org/wiki/HTTP_Secure "wikilink")，並且依照RFC 7465的規範放棄使用有安全弱點的[RC4](../Page/RC4.md "wikilink")加密套件\[8\]。
 
-[Windows RT上的Internet](../Page/Windows_RT.md "wikilink") Explorer
-11並不支援[Java和其他附加元件](https://zh.wikipedia.org/wiki/Java_\(程式語言\) "wikilink")\[9\]。
+[Windows RT上的Internet](../Page/Windows_RT.md "wikilink") Explorer 11並不支援[Java和其他附加元件](https://zh.wikipedia.org/wiki/Java_\(程式語言\) "wikilink")\[9\]。
 
 ## 歷史
 
-IE11的內部版本於2013年3月25日被洩露\[10\]。2013年6月，微軟在[Build
-2013大會上宣佈](https://zh.wikipedia.org/wiki/Build_\(開發者大會\) "wikilink")，IE11將包含在Windows
-Server 2012 R2和Windows 8.1預覽版\[11\]。2013年7月25日，微軟於Windows 7和[Windows
-Server 2008 R2發布Internet](../Page/Windows_Server_2008_R2.md "wikilink")
-Explorer 11開發者預覽版\[12\]\[13\]。
+IE11的內部版本於2013年3月25日被洩露\[10\]。2013年6月，微軟在[Build 2013大會上宣佈](https://zh.wikipedia.org/wiki/Build_\(開發者大會\) "wikilink")，IE11將包含在Windows Server 2012 R2和Windows 8.1預覽版\[11\]。2013年7月25日，微軟於Windows 7和[Windows Server 2008 R2發布Internet](../Page/Windows_Server_2008_R2.md "wikilink") Explorer 11開發者預覽版\[12\]\[13\]。
 
 ### 版本歷史
 
@@ -113,21 +94,14 @@ Explorer 11開發者預覽版\[12\]\[13\]。
 
 ## 官方资源
 
-  - [Internet Explorer 11
-    必备更新](https://support.microsoft.com/zh-cn/help/2847882/prerequisite-updates-for-internet-explorer-11)
-    ：列出了 Windows 7 Service Pack 1 (SP1) 或 Windows Server 2008 R2 Service
-    Pack 1 (SP1) 中 Internet Explorer 11 的必备更新。 必须安装以下更新，然后才能在 Windows 7
-    SP1 和 Windows Server 2008 R2 SP1 中安装 Internet Explorer 11。
-  - [下载 Internet
-    Explorer 11（脱机安装程序）](https://support.microsoft.com/zh-cn/help/18520/download-internet-explorer-11-offline-installer)
+  - [Internet Explorer 11 必备更新](https://support.microsoft.com/zh-cn/help/2847882/prerequisite-updates-for-internet-explorer-11) ：列出了 Windows 7 Service Pack 1 (SP1) 或 Windows Server 2008 R2 Service Pack 1 (SP1) 中 Internet Explorer 11 的必备更新。 必须安装以下更新，然后才能在 Windows 7 SP1 和 Windows Server 2008 R2 SP1 中安装 Internet Explorer 11。
+  - [下载 Internet Explorer 11（脱机安装程序）](https://support.microsoft.com/zh-cn/help/18520/download-internet-explorer-11-offline-installer)
 
 ## 外部連結
 
   - [官方網站](https://web.archive.org/web/20130715223741/http://ie.microsoft.com/)
 
-[Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink")
-[Category:Windows_8](https://zh.wikipedia.org/wiki/Category:Windows_8 "wikilink")
-[Category:2013年软件](https://zh.wikipedia.org/wiki/Category:2013年软件 "wikilink")
+[Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink") [Category:Windows_8](https://zh.wikipedia.org/wiki/Category:Windows_8 "wikilink") [Category:2013年软件](https://zh.wikipedia.org/wiki/Category:2013年软件 "wikilink")
 
 1.
 

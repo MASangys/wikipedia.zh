@@ -103,14 +103,8 @@ Maksym Radziwill</p></td>
 
 ## 参考文献
 
-[Category:数学奖项](https://zh.wikipedia.org/wiki/Category:数学奖项 "wikilink")
-[Category:2005年建立的奖项](https://zh.wikipedia.org/wiki/Category:2005年建立的奖项 "wikilink")
-[Category:2005年印度建立](https://zh.wikipedia.org/wiki/Category:2005年印度建立 "wikilink")
+[Category:数学奖项](https://zh.wikipedia.org/wiki/Category:数学奖项 "wikilink") [Category:2005年建立的奖项](https://zh.wikipedia.org/wiki/Category:2005年建立的奖项 "wikilink") [Category:2005年印度建立](https://zh.wikipedia.org/wiki/Category:2005年印度建立 "wikilink")
 
-1.  [SASTRA Official prize
-    announcement](http://www.sastra.edu/mnews/2008/sep/Ramanujanaward.htm)
-
-2.  [SASTRA Ramanujan
-    Prize 2016](http://www.higher.royalholloway.ac.uk/alumni-network/news/2016/10/25/alunma-awarded-2016-sastra-ramanujan-prize/)
-3.  [SASTRA Ramanujan
-    Prize 2017](http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/maryna-viazovska-to-receive-2017-sastra-ramanujan-prize/article19754956.ece)
+1.  [SASTRA Official prize announcement](http://www.sastra.edu/mnews/2008/sep/Ramanujanaward.htm)
+2.  [SASTRA Ramanujan Prize 2016](http://www.higher.royalholloway.ac.uk/alumni-network/news/2016/10/25/alunma-awarded-2016-sastra-ramanujan-prize/)
+3.  [SASTRA Ramanujan Prize 2017](http://www.thehindu.com/todays-paper/tp-national/tp-tamilnadu/maryna-viazovska-to-receive-2017-sastra-ramanujan-prize/article19754956.ece)

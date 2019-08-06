@@ -1,9 +1,6 @@
 [A_Young_Star_Flaunts_its_X-ray_Spots.ogv](https://zh.wikipedia.org/wiki/File:A_Young_Star_Flaunts_its_X-ray_Spots.ogv "fig:A_Young_Star_Flaunts_its_X-ray_Spots.ogv")在2004年釋放[X射线](../Page/X射线.md "wikilink")輻射的影片。\]\]
 
-在[恆星演化](../Page/恆星演化.md "wikilink")中，**獵戶FU型變星**（**FU Orionis star**，或
-**FU Orionis object**、
-*FUor*）是一種在光度和光譜形式上會出現極大變化的[主序前星](https://zh.wikipedia.org/wiki/主序前星 "wikilink")。典型例子[天鵝座V1057會出現亮度增加](https://zh.wikipedia.org/wiki/天鵝座V1057 "wikilink")6個星等，和光譜形式從
-dKe 變成 F 型超巨星的變化。這類恆星是以它的原型恆星[獵戶座FU](../Page/獵戶座FU.md "wikilink")命名。
+在[恆星演化](../Page/恆星演化.md "wikilink")中，**獵戶FU型變星**（**FU Orionis star**，或 **FU Orionis object**、 *FUor*）是一種在光度和光譜形式上會出現極大變化的[主序前星](https://zh.wikipedia.org/wiki/主序前星 "wikilink")。典型例子[天鵝座V1057會出現亮度增加](https://zh.wikipedia.org/wiki/天鵝座V1057 "wikilink")6個星等，和光譜形式從 dKe 變成 F 型超巨星的變化。這類恆星是以它的原型恆星[獵戶座FU](../Page/獵戶座FU.md "wikilink")命名。
 
 ## 特性
 
@@ -17,18 +14,12 @@ dKe 變成 F 型超巨星的變化。這類恆星是以它的原型恆星[獵戶
 
 ## 參考資料
 
-  - Juhan Frank, Andrew King, Derek Raine (2002). Accretion power in
-    astrophysics, Third Edition, Cambridge University Press. ISBN
-    0-521-62957-8.
+  - Juhan Frank, Andrew King, Derek Raine (2002). Accretion power in astrophysics, Third Edition, Cambridge University Press. ISBN 0-521-62957-8.
 
 ## 外部連結
 
-  - [The Furor over
-    FUOrs](http://simostronomy.blogspot.com/2010/11/furor-over-fuors.html)
-    (15 Nov 2010)
-  - [Discovery of possible FU-Ori and UX-Ori type
-    objects](http://crts.caltech.edu/CSS091110.html) (18 Nov 2009)
+  - [The Furor over FUOrs](http://simostronomy.blogspot.com/2010/11/furor-over-fuors.html) (15 Nov 2010)
+  - [Discovery of possible FU-Ori and UX-Ori type objects](http://crts.caltech.edu/CSS091110.html) (18 Nov 2009)
   - <https://web.archive.org/web/20080704215150/http://www.aavso.org/vstar/vsots/0202.shtml>
 
-[Category:獵戶FU型變星](https://zh.wikipedia.org/wiki/Category:獵戶FU型變星 "wikilink")
-[Category:恒星演化](https://zh.wikipedia.org/wiki/Category:恒星演化 "wikilink")
+[Category:獵戶FU型變星](https://zh.wikipedia.org/wiki/Category:獵戶FU型變星 "wikilink") [Category:恒星演化](https://zh.wikipedia.org/wiki/Category:恒星演化 "wikilink")

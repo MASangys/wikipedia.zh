@@ -2,8 +2,7 @@
 
 <div style="float:right;" class="noprint plainlinks">
 
-[action=edit}}
-編輯](https://zh.wikipedia.org/wiki/{{fullurl:Portal:MAD/简介 "wikilink")
+[action=edit}} 編輯](https://zh.wikipedia.org/wiki/{{fullurl:Portal:MAD/简介 "wikilink")
 
 </div>
 
@@ -39,8 +38,7 @@
 
 <div style="font-size:80%; float:right;" class="noprint plainlinks">
 
-[action=edit}}
-編輯](https://zh.wikipedia.org/wiki/{{fullurl:Portal:MAD/特色条目 "wikilink")
+[action=edit}} 編輯](https://zh.wikipedia.org/wiki/{{fullurl:Portal:MAD/特色条目 "wikilink")
 
 </div>
 
@@ -64,8 +62,7 @@
 
 <div style="font-size:80%; float:right;" class="noprint plainlinks">
 
-[action=edit}}
-編輯](https://zh.wikipedia.org/wiki/{{fullurl:Portal:MAD/新进条目 "wikilink")
+[action=edit}} 編輯](https://zh.wikipedia.org/wiki/{{fullurl:Portal:MAD/新进条目 "wikilink")
 
 </div>
 
@@ -89,8 +86,7 @@
 
 <div style="font-size:80%; float:right;" class="noprint plainlinks">
 
-[action=edit}}
-編輯](https://zh.wikipedia.org/wiki/{{fullurl:Portal:MAD/欢迎参与 "wikilink")
+[action=edit}} 編輯](https://zh.wikipedia.org/wiki/{{fullurl:Portal:MAD/欢迎参与 "wikilink")
 
 </div>
 
@@ -118,8 +114,7 @@
 
 <div style="font-size:80%; float:right;" class="noprint plainlinks">
 
-[action=edit}}
-編輯](https://zh.wikipedia.org/wiki/{{fullurl:Portal:MAD/你知道吗 "wikilink")
+[action=edit}} 編輯](https://zh.wikipedia.org/wiki/{{fullurl:Portal:MAD/你知道吗 "wikilink")
 
 </div>
 
@@ -143,8 +138,7 @@
 
 <div style="font-size:80%; float:right;" class="noprint plainlinks">
 
-[action=edit}}
-編輯](https://zh.wikipedia.org/wiki/{{fullurl:Portal:MAD/分类 "wikilink")
+[action=edit}} 編輯](https://zh.wikipedia.org/wiki/{{fullurl:Portal:MAD/分类 "wikilink")
 
 </div>
 
@@ -168,8 +162,7 @@
 
 <div style="font-size:80%; float:right;" class="noprint plainlinks">
 
-[action=edit}}
-編輯](https://zh.wikipedia.org/wiki/{{fullurl:Portal:MAD/专题 "wikilink")
+[action=edit}} 編輯](https://zh.wikipedia.org/wiki/{{fullurl:Portal:MAD/专题 "wikilink")
 
 </div>
 
@@ -193,8 +186,7 @@
 
 <div style="font-size:80%; float:right;" class="noprint plainlinks">
 
-[action=edit}}
-編輯](https://zh.wikipedia.org/wiki/{{fullurl:Portal:MAD/特色图片 "wikilink")
+[action=edit}} 編輯](https://zh.wikipedia.org/wiki/{{fullurl:Portal:MAD/特色图片 "wikilink")
 
 </div>
 
@@ -226,6 +218,4 @@
 
 </div>
 
-[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")
-[Category:動畫](https://zh.wikipedia.org/wiki/Category:動畫 "wikilink")
-[Category:漫画](https://zh.wikipedia.org/wiki/Category:漫画 "wikilink")
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink") [Category:動畫](https://zh.wikipedia.org/wiki/Category:動畫 "wikilink") [Category:漫画](https://zh.wikipedia.org/wiki/Category:漫画 "wikilink")

@@ -1,35 +1,18 @@
-**SHA-3**第三代安全雜湊演算法(Secure Hash Algorithm
-3)，之前名為**Keccak**（唸作或)）演算法，\[1\]\[2\]\[3\]設計者宣稱在
-[Intel Core 2](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink")
-的CPU上面，此演算法的效能是12.5cpb（[每位元組周期數](https://zh.wikipedia.org/wiki/每位元組周期數 "wikilink")，cycles
-per byte）。\[4\]不過，在[-{zh-cn:硬件实现;
-zh-tw:硬體實做}-上面](../Page/特殊應用積體電路.md "wikilink")，這個演算法比起其他演算法明顯的快上很多。\[5\]
+**SHA-3**第三代安全雜湊演算法(Secure Hash Algorithm 3)，之前名為**Keccak**（唸作或)）演算法，\[1\]\[2\]\[3\]設計者宣稱在 [Intel Core 2](https://zh.wikipedia.org/wiki/Intel_Core_2 "wikilink") 的CPU上面，此演算法的效能是12.5cpb（[每位元組周期數](https://zh.wikipedia.org/wiki/每位元組周期數 "wikilink")，cycles per byte）。\[4\]不過，在[-{zh-cn:硬件实现; zh-tw:硬體實做}-上面](../Page/特殊應用積體電路.md "wikilink")，這個演算法比起其他演算法明顯的快上很多。\[5\]
 
 SHA-3 在2015年8月5日由 NIST 通过 FIPS 202 正式发表。\[6\]\[7\]
 
 ## 历史
 
-  - Keccak
-    是一個[加密雜湊演算法](https://zh.wikipedia.org/wiki/加密雜湊演算法 "wikilink")，由
-    [Guido
-    Bertoni](https://zh.wikipedia.org/wiki/Guido_Bertoni "wikilink")，[Joan
-    Daemen](https://zh.wikipedia.org/wiki/Joan_Daemen "wikilink")，[Michaël
-    Peeters](https://zh.wikipedia.org/wiki/Michaël_Peeters "wikilink")，以及[Gilles
-    Van
-    Assche在](https://zh.wikipedia.org/wiki/Gilles_Van_Assche "wikilink")[RadioGatún上设计](https://zh.wikipedia.org/wiki/RadioGatún "wikilink")。
+  - Keccak 是一個[加密雜湊演算法](https://zh.wikipedia.org/wiki/加密雜湊演算法 "wikilink")，由 [Guido Bertoni](https://zh.wikipedia.org/wiki/Guido_Bertoni "wikilink")，[Joan Daemen](https://zh.wikipedia.org/wiki/Joan_Daemen "wikilink")，[Michaël Peeters](https://zh.wikipedia.org/wiki/Michaël_Peeters "wikilink")，以及[Gilles Van Assche在](https://zh.wikipedia.org/wiki/Gilles_Van_Assche "wikilink")[RadioGatún上设计](https://zh.wikipedia.org/wiki/RadioGatún "wikilink")。
 
 <!-- end list -->
 
-  - 2012年10月2日，Keccak
-    被選為[NIST雜湊函式競賽的勝利者](https://zh.wikipedia.org/wiki/NIST雜湊函式競賽 "wikilink")\[8\]。SHA-3並不是要取代[SHA-2](../Page/SHA-2.md "wikilink")，因為SHA-2目前並沒有出現明顯的弱點。由於對[MD5](../Page/MD5.md "wikilink")、[SHA-0和](https://zh.wikipedia.org/wiki/SHA-0 "wikilink")[SHA-1](../Page/SHA-1.md "wikilink")出現成功的破解，NIST感覺需要一個與之前演算法不同的，可替換的加密雜湊演算法，也就是現在的
-    SHA-3。
+  - 2012年10月2日，Keccak 被選為[NIST雜湊函式競賽的勝利者](https://zh.wikipedia.org/wiki/NIST雜湊函式競賽 "wikilink")\[8\]。SHA-3並不是要取代[SHA-2](../Page/SHA-2.md "wikilink")，因為SHA-2目前並沒有出現明顯的弱點。由於對[MD5](../Page/MD5.md "wikilink")、[SHA-0和](https://zh.wikipedia.org/wiki/SHA-0 "wikilink")[SHA-1](../Page/SHA-1.md "wikilink")出現成功的破解，NIST感覺需要一個與之前演算法不同的，可替換的加密雜湊演算法，也就是現在的 SHA-3。
 
 <!-- end list -->
 
-  - 2014年，[NIST](https://zh.wikipedia.org/wiki/NIST "wikilink") 发布了
-    [FIPS](https://zh.wikipedia.org/wiki/FIPS "wikilink") 202 的草案 "SHA-3
-    Standard: Permutation-Based Hash and Extendable-Output
-    Functions"。\[9\]
+  - 2014年，[NIST](https://zh.wikipedia.org/wiki/NIST "wikilink") 发布了 [FIPS](https://zh.wikipedia.org/wiki/FIPS "wikilink") 202 的草案 "SHA-3 Standard: Permutation-Based Hash and Extendable-Output Functions"。\[9\]
 
 <!-- end list -->
 
@@ -37,18 +20,13 @@ SHA-3 在2015年8月5日由 NIST 通过 FIPS 202 正式发表。\[6\]\[7\]
 
 ## 设计
 
-Keccak
-使用[海綿函數](../Page/海綿函數.md "wikilink")\[11\]\[12\]，此函數會將資料與初始的內部狀態做XOR運算，這是無可避免可置換的(inevitably
-permuted)。在最大的版本，演算法使用的內存狀態是使用一個5×5的二維陣列，資料型態是64位元的字節，總計1600位元
-。縮版的演算法使用比較小的，以2為冪次的字節大小*w*為1位元，總計使用25位元。除了使用較小的版本來研究加密分析攻擊，比較適中的大小(例如從*w*=4使用100位元，到*w*=32使用800位元)則提供了比較實際且輕量的替代方案。
+Keccak 使用[海綿函數](../Page/海綿函數.md "wikilink")\[11\]\[12\]，此函數會將資料與初始的內部狀態做XOR運算，這是無可避免可置換的(inevitably permuted)。在最大的版本，演算法使用的內存狀態是使用一個5×5的二維陣列，資料型態是64位元的字節，總計1600位元 。縮版的演算法使用比較小的，以2為冪次的字節大小*w*為1位元，總計使用25位元。除了使用較小的版本來研究加密分析攻擊，比較適中的大小(例如從*w*=4使用100位元，到*w*=32使用800位元)則提供了比較實際且輕量的替代方案。
 
 ## Keccak 的置換
 
 置換方法是先定義[字的長度為二的某次方](https://zh.wikipedia.org/wiki/字_\(計算機\) "wikilink")，*w* = 2<sup>ℓ</sup>位元。SHA-3的主要應用使用64位元的字長，ℓ = 6。
 
-內存狀態可以被視為5×5×*w*的三維陣列。令*a*\[*i*\]\[*j*\]\[*k*\]代表內存狀態的第(*i*×5 + *j*)×*w*
-+
-*k*個位元（使用小端序，little-endian，參見[位元組序](https://zh.wikipedia.org/wiki/位元組序 "wikilink")）。
+內存狀態可以被視為5×5×*w*的三維陣列。令*a*\[*i*\]\[*j*\]\[*k*\]代表內存狀態的第(*i*×5 + *j*)×*w* + *k*個位元（使用小端序，little-endian，參見[位元組序](https://zh.wikipedia.org/wiki/位元組序 "wikilink")）。
 
 置換函數是五個子段落(sub-round)作12+2ℓ次的迴圈，每一個子段落都相當簡單：
 
@@ -77,8 +55,7 @@ permuted)。在最大的版本，演算法使用的內存狀態是使用一個5�
 <span style="color: green;">`SHAKE256("", 512)`</span>
 `46b9dd2b0ba88d13233b3feb743eeb243fcd52ea62b81b82b50c27646ed5762fd75dc4ddd8c0f200cb05019d67b592f6fc821c49479ab48640292eacb3b7c4be`
 
-  - 由於[雪崩效应](../Page/雪崩效应.md "wikilink")，即使一個很小的改變都會產出幾乎完全不同的雜湊值。舉例來說，把
-    dog 改成 dof：
+  - 由於[雪崩效应](../Page/雪崩效应.md "wikilink")，即使一個很小的改變都會產出幾乎完全不同的雜湊值。舉例來說，把 dog 改成 dof：
 
 <span style="color: green;">`SHAKE128("The quick brown fox jumps over the lazy dog", 256)`</span>
 `f4202e3c5852f9182a0430fd8144f0a74b95e7417ecae17db0f8cfeed0e3e66e`
@@ -230,26 +207,17 @@ min (<em>d</em>/2, 256)</p></td>
   - [Keccak網站(英文)](http://keccak.noekeon.org/)
   - [Keccak官方C语言代码包](https://github.com/gvanas/KeccakCodePackage)
   - [Keccak官方C++语言工具集](https://github.com/gvanas/KeccakTools)
-  - [A Java implementation of
-    Keccak](https://github.com/kocakosm/pitaya/blob/master/src/org/kocakosm/pitaya/security/Keccak.java)
-  - [A Cryptol implementation of
-    Keccak](https://web.archive.org/web/20130407154409/http://plaintext.crypto.lo.gy/article/495/untwisted-a-cryptol-implementation-of-keccak-part-1)
-  - [A VHDL source codes developed in the Cryptographic Engineering
-    Research Group (CERG) at George Mason
-    University](http://cryptography.gmu.edu/athena/index.php?id=source_codes)
+  - [A Java implementation of Keccak](https://github.com/kocakosm/pitaya/blob/master/src/org/kocakosm/pitaya/security/Keccak.java)
+  - [A Cryptol implementation of Keccak](https://web.archive.org/web/20130407154409/http://plaintext.crypto.lo.gy/article/495/untwisted-a-cryptol-implementation-of-keccak-part-1)
+  - [A VHDL source codes developed in the Cryptographic Engineering Research Group (CERG) at George Mason University](http://cryptography.gmu.edu/athena/index.php?id=source_codes)
 
-[Category:密码散列函数](https://zh.wikipedia.org/wiki/Category:密码散列函数 "wikilink")
-[Category:密碼學理論](https://zh.wikipedia.org/wiki/Category:密碼學理論 "wikilink")
-[Category:带有源代码的公共领域软件](https://zh.wikipedia.org/wiki/Category:带有源代码的公共领域软件 "wikilink")
-[Category:NIST散列函数竞赛](https://zh.wikipedia.org/wiki/Category:NIST散列函数竞赛 "wikilink")
+[Category:密码散列函数](https://zh.wikipedia.org/wiki/Category:密码散列函数 "wikilink") [Category:密碼學理論](https://zh.wikipedia.org/wiki/Category:密碼學理論 "wikilink") [Category:带有源代码的公共领域软件](https://zh.wikipedia.org/wiki/Category:带有源代码的公共领域软件 "wikilink") [Category:NIST散列函数竞赛](https://zh.wikipedia.org/wiki/Category:NIST散列函数竞赛 "wikilink")
 
 1.
 2.
 3.
-4.  Keccak implementation overview Version 3.2
-    <http://keccak.noekeon.org/Keccak-implementation-3.2.pdf>
-5.  Keccak is second only to Luffa, which did not advance to the final
-    round.
+4.  Keccak implementation overview Version 3.2 <http://keccak.noekeon.org/Keccak-implementation-3.2.pdf>
+5.  Keccak is second only to Luffa, which did not advance to the final round.
 6.  <http://www.nist.gov/itl/csd/201508_sha3.cfm>
 7.  <http://www.nist.gov/manuscript-publication-search.cfm?pub_id=919061>
 8.

@@ -1,89 +1,14 @@
 [thumb](https://zh.wikipedia.org/wiki/image:RockAmRingMarilynManson.jpg "wikilink")\]\]
 
-**Rock am Ring** (*Rock at the Ring*) 和 **Rock im Park** (*Rock in the
-Park*)音乐节是每年在[德国](../Page/德国.md "wikilink")同时举办的两个[摇滚](../Page/摇滚.md "wikilink")音乐节。所有音乐人在三天音乐节里，一天是在纽伯格林Rock
-am Ring表演，另一天是在纽伦堡Rock im Park表演。Rock im Park和Rock am
-Ring一起是[德国](../Page/德国.md "wikilink")最大的音乐节盛会，在2007年共有超过15万人参观者，成为全世界最大音乐节之一，这音乐会的门票也首次提前售罄一空。\[1\]
+**Rock am Ring** (*Rock at the Ring*) 和 **Rock im Park** (*Rock in the Park*)音乐节是每年在[德国](../Page/德国.md "wikilink")同时举办的两个[摇滚](../Page/摇滚.md "wikilink")音乐节。所有音乐人在三天音乐节里，一天是在纽伯格林Rock am Ring表演，另一天是在纽伦堡Rock im Park表演。Rock im Park和Rock am Ring一起是[德国](../Page/德国.md "wikilink")最大的音乐节盛会，在2007年共有超过15万人参观者，成为全世界最大音乐节之一，这音乐会的门票也首次提前售罄一空。\[1\]
 
 ## 2012音乐节
 
-演出阵容包括[Soundgarden](https://zh.wikipedia.org/wiki/Soundgarden "wikilink"),[As
-I Lay
-Dying](https://zh.wikipedia.org/wiki/As_I_Lay_Dying_\(band\) "wikilink"),
-[Anthrax](https://zh.wikipedia.org/wiki/Anthrax_\(band\) "wikilink"),
-[Awolnation](../Page/Awolnation.md "wikilink"), [Billy
-Talent](https://zh.wikipedia.org/wiki/Billy_Talent "wikilink"), [Crystal
-Castles](https://zh.wikipedia.org/wiki/Crystal_Castles_\(band\) "wikilink"),
-[Deichkind](https://zh.wikipedia.org/wiki/Deichkind "wikilink"),
-[DevilDriver](https://zh.wikipedia.org/wiki/DevilDriver "wikilink"),
-[Dick Brave and the
-Backbeats](https://zh.wikipedia.org/wiki/Dick_Brave_and_the_Backbeats "wikilink"),
-[Die Toten
-Hosen](https://zh.wikipedia.org/wiki/Die_Toten_Hosen "wikilink"),
-[Donots](https://zh.wikipedia.org/wiki/Donots "wikilink"), [Enter
-Shikari](../Page/Enter_Shikari.md "wikilink"),
-[Evanescence](https://zh.wikipedia.org/wiki/Evanescence "wikilink"),
-[Example](https://zh.wikipedia.org/wiki/Example_\(musician\) "wikilink"),
-[Gossip](https://zh.wikipedia.org/wiki/Gossip_\(band\) "wikilink"),
-[Gojira](https://zh.wikipedia.org/wiki/Gojira_\(band\) "wikilink"),
-[Guano Apes](https://zh.wikipedia.org/wiki/Guano_Apes "wikilink"),
-[Kasabian](https://zh.wikipedia.org/wiki/Kasabian "wikilink"),
-[Keane](https://zh.wikipedia.org/wiki/Keane_\(band\) "wikilink"), [The
-Koletzkis](https://zh.wikipedia.org/wiki/The_Koletzkis "wikilink"),
-[Killswitch
-Engage](https://zh.wikipedia.org/wiki/Killswitch_Engage "wikilink"),
-[Lamb of
-God](https://zh.wikipedia.org/wiki/Lamb_of_God_\(band\) "wikilink"),
-[Lexy & K-Paul](https://zh.wikipedia.org/wiki/Lexy_&_K-Paul "wikilink"),
-[Linkin Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink"),
-[Machine
-Head](https://zh.wikipedia.org/wiki/Machine_Head_\(band\) "wikilink"),
-[Marilyn
-Manson](https://zh.wikipedia.org/wiki/Marilyn_Manson "wikilink"),
-[Metallica](https://zh.wikipedia.org/wiki/Metallica "wikilink"),
-[MIA.](https://zh.wikipedia.org/wiki/MIA. "wikilink"),
-[Motörhead](https://zh.wikipedia.org/wiki/Motörhead "wikilink"), [The
-Offspring](https://zh.wikipedia.org/wiki/The_Offspring "wikilink"),
-[Opeth](https://zh.wikipedia.org/wiki/Opeth "wikilink"),
-[Shinedown](https://zh.wikipedia.org/wiki/Shinedown "wikilink"),
-[Skrillex](https://zh.wikipedia.org/wiki/Skrillex "wikilink"),
-[Tenacious D](https://zh.wikipedia.org/wiki/Tenacious_D "wikilink"),
-[The Subways](https://zh.wikipedia.org/wiki/The_Subways "wikilink"),
-和[Trivium](https://zh.wikipedia.org/wiki/Trivium_\(band\) "wikilink").\[2\]\[3\]
+演出阵容包括[Soundgarden](https://zh.wikipedia.org/wiki/Soundgarden "wikilink"),[As I Lay Dying](https://zh.wikipedia.org/wiki/As_I_Lay_Dying_\(band\) "wikilink"), [Anthrax](https://zh.wikipedia.org/wiki/Anthrax_\(band\) "wikilink"), [Awolnation](../Page/Awolnation.md "wikilink"), [Billy Talent](https://zh.wikipedia.org/wiki/Billy_Talent "wikilink"), [Crystal Castles](https://zh.wikipedia.org/wiki/Crystal_Castles_\(band\) "wikilink"), [Deichkind](https://zh.wikipedia.org/wiki/Deichkind "wikilink"), [DevilDriver](https://zh.wikipedia.org/wiki/DevilDriver "wikilink"), [Dick Brave and the Backbeats](https://zh.wikipedia.org/wiki/Dick_Brave_and_the_Backbeats "wikilink"), [Die Toten Hosen](https://zh.wikipedia.org/wiki/Die_Toten_Hosen "wikilink"), [Donots](https://zh.wikipedia.org/wiki/Donots "wikilink"), [Enter Shikari](../Page/Enter_Shikari.md "wikilink"), [Evanescence](https://zh.wikipedia.org/wiki/Evanescence "wikilink"), [Example](https://zh.wikipedia.org/wiki/Example_\(musician\) "wikilink"), [Gossip](https://zh.wikipedia.org/wiki/Gossip_\(band\) "wikilink"), [Gojira](https://zh.wikipedia.org/wiki/Gojira_\(band\) "wikilink"), [Guano Apes](https://zh.wikipedia.org/wiki/Guano_Apes "wikilink"), [Kasabian](https://zh.wikipedia.org/wiki/Kasabian "wikilink"), [Keane](https://zh.wikipedia.org/wiki/Keane_\(band\) "wikilink"), [The Koletzkis](https://zh.wikipedia.org/wiki/The_Koletzkis "wikilink"), [Killswitch Engage](https://zh.wikipedia.org/wiki/Killswitch_Engage "wikilink"), [Lamb of God](https://zh.wikipedia.org/wiki/Lamb_of_God_\(band\) "wikilink"), [Lexy & K-Paul](https://zh.wikipedia.org/wiki/Lexy_&_K-Paul "wikilink"), [Linkin Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink"), [Machine Head](https://zh.wikipedia.org/wiki/Machine_Head_\(band\) "wikilink"), [Marilyn Manson](https://zh.wikipedia.org/wiki/Marilyn_Manson "wikilink"), [Metallica](https://zh.wikipedia.org/wiki/Metallica "wikilink"), [MIA.](https://zh.wikipedia.org/wiki/MIA. "wikilink"), [Motörhead](https://zh.wikipedia.org/wiki/Motörhead "wikilink"), [The Offspring](https://zh.wikipedia.org/wiki/The_Offspring "wikilink"), [Opeth](https://zh.wikipedia.org/wiki/Opeth "wikilink"), [Shinedown](https://zh.wikipedia.org/wiki/Shinedown "wikilink"), [Skrillex](https://zh.wikipedia.org/wiki/Skrillex "wikilink"), [Tenacious D](https://zh.wikipedia.org/wiki/Tenacious_D "wikilink"), [The Subways](https://zh.wikipedia.org/wiki/The_Subways "wikilink"), 和[Trivium](https://zh.wikipedia.org/wiki/Trivium_\(band\) "wikilink").\[2\]\[3\]
 
 ## 2011音乐节
 
-演出阵容包括[System of a
-Down](https://zh.wikipedia.org/wiki/System_of_a_Down "wikilink"),
-[Coldplay](https://zh.wikipedia.org/wiki/Coldplay "wikilink").
-其他乐队还包括[Disturbed](https://zh.wikipedia.org/wiki/Disturbed_\(band\) "wikilink"),
-[Alter Bridge](https://zh.wikipedia.org/wiki/Alter_Bridge "wikilink"),
-[Rob Zombie](https://zh.wikipedia.org/wiki/Rob_Zombie "wikilink"),
-[Interpol](https://zh.wikipedia.org/wiki/Interpol_\(band\) "wikilink"),
-[Avenged
-Sevenfold](https://zh.wikipedia.org/wiki/Avenged_Sevenfold "wikilink"),
-[Social
-Distortion](https://zh.wikipedia.org/wiki/Social_Distortion "wikilink"),
-[Volbeat](https://zh.wikipedia.org/wiki/Volbeat "wikilink"),
-[Beatsteaks](https://zh.wikipedia.org/wiki/Beatsteaks "wikilink"),
-[August Burns
-Red](https://zh.wikipedia.org/wiki/August_Burns_Red "wikilink"), [The
-BossHoss](https://zh.wikipedia.org/wiki/The_BossHoss "wikilink"),[The
-Pretty Reckless](../Page/The_Pretty_Reckless.md "wikilink"),
-[Hurts](https://zh.wikipedia.org/wiki/Hurts "wikilink"),
-[KoЯn](https://zh.wikipedia.org/wiki/KoЯn "wikilink"),
-[Madsen](https://zh.wikipedia.org/wiki/Madsen_\(band\) "wikilink"),
-[Mando Diao](https://zh.wikipedia.org/wiki/Mando_Diao "wikilink"), [The
-Kooks](https://zh.wikipedia.org/wiki/The_Kooks "wikilink"),
-[Sevendust](https://zh.wikipedia.org/wiki/Sevendust "wikilink"), [In
-Flames](https://zh.wikipedia.org/wiki/In_Flames "wikilink"), [3 Doors
-Down](https://zh.wikipedia.org/wiki/3_Doors_Down "wikilink"),
-[Lifehouse](https://zh.wikipedia.org/wiki/Lifehouse_\(band\) "wikilink"),
-[The Devil Wears
-Prada](https://zh.wikipedia.org/wiki/The_Devil_Wears_Prada_\(band\) "wikilink"),
-[Ash和](https://zh.wikipedia.org/wiki/Ash_\(band\) "wikilink")[The
-Gaslight
-Anthem](https://zh.wikipedia.org/wiki/The_Gaslight_Anthem "wikilink").
+演出阵容包括[System of a Down](https://zh.wikipedia.org/wiki/System_of_a_Down "wikilink"), [Coldplay](https://zh.wikipedia.org/wiki/Coldplay "wikilink"). 其他乐队还包括[Disturbed](https://zh.wikipedia.org/wiki/Disturbed_\(band\) "wikilink"), [Alter Bridge](https://zh.wikipedia.org/wiki/Alter_Bridge "wikilink"), [Rob Zombie](https://zh.wikipedia.org/wiki/Rob_Zombie "wikilink"), [Interpol](https://zh.wikipedia.org/wiki/Interpol_\(band\) "wikilink"), [Avenged Sevenfold](https://zh.wikipedia.org/wiki/Avenged_Sevenfold "wikilink"), [Social Distortion](https://zh.wikipedia.org/wiki/Social_Distortion "wikilink"), [Volbeat](https://zh.wikipedia.org/wiki/Volbeat "wikilink"), [Beatsteaks](https://zh.wikipedia.org/wiki/Beatsteaks "wikilink"), [August Burns Red](https://zh.wikipedia.org/wiki/August_Burns_Red "wikilink"), [The BossHoss](https://zh.wikipedia.org/wiki/The_BossHoss "wikilink"),[The Pretty Reckless](../Page/The_Pretty_Reckless.md "wikilink"), [Hurts](https://zh.wikipedia.org/wiki/Hurts "wikilink"), [KoЯn](https://zh.wikipedia.org/wiki/KoЯn "wikilink"), [Madsen](https://zh.wikipedia.org/wiki/Madsen_\(band\) "wikilink"), [Mando Diao](https://zh.wikipedia.org/wiki/Mando_Diao "wikilink"), [The Kooks](https://zh.wikipedia.org/wiki/The_Kooks "wikilink"), [Sevendust](https://zh.wikipedia.org/wiki/Sevendust "wikilink"), [In Flames](https://zh.wikipedia.org/wiki/In_Flames "wikilink"), [3 Doors Down](https://zh.wikipedia.org/wiki/3_Doors_Down "wikilink"), [Lifehouse](https://zh.wikipedia.org/wiki/Lifehouse_\(band\) "wikilink"), [The Devil Wears Prada](https://zh.wikipedia.org/wiki/The_Devil_Wears_Prada_\(band\) "wikilink"), [Ash和](https://zh.wikipedia.org/wiki/Ash_\(band\) "wikilink")[The Gaslight Anthem](https://zh.wikipedia.org/wiki/The_Gaslight_Anthem "wikilink").
 
 <table>
 <tbody>
@@ -108,724 +33,122 @@ Anthem](https://zh.wikipedia.org/wiki/The_Gaslight_Anthem "wikilink").
 
 ## 2009音乐节
 
-演出阵容包括[Slipknot](https://zh.wikipedia.org/wiki/Slipknot_\(band\) "wikilink"),[The
-Prodigy](https://zh.wikipedia.org/wiki/The_Prodigy "wikilink"),
-[KoЯn](https://zh.wikipedia.org/wiki/KoЯn "wikilink"), [Limp
-Bizkit](https://zh.wikipedia.org/wiki/Limp_Bizkit "wikilink"), [Marilyn
-Manson](https://zh.wikipedia.org/wiki/Marilyn_Manson "wikilink"), [The
-Killers](https://zh.wikipedia.org/wiki/The_Killers "wikilink"),
-[Placebo](https://zh.wikipedia.org/wiki/Placebo_\(band\) "wikilink") and
-[Billy Talent](https://zh.wikipedia.org/wiki/Billy_Talent "wikilink").
-Other bands included [2raumwohnung](../Page/2raumwohnung.md "wikilink"),
-[Alexisonfire](https://zh.wikipedia.org/wiki/Alexisonfire "wikilink"),
-[All That
-Remains](https://zh.wikipedia.org/wiki/All_That_Remains_\(band\) "wikilink"),
-[...And You Will Know Us by the Trail of
-Dead](https://zh.wikipedia.org/wiki/...And_You_Will_Know_Us_by_the_Trail_of_Dead "wikilink"),
-[Basement Jaxx](https://zh.wikipedia.org/wiki/Basement_Jaxx "wikilink"),
-[Biffy Clyro](https://zh.wikipedia.org/wiki/Biffy_Clyro "wikilink"),
-[Black Stone
-Cherry](https://zh.wikipedia.org/wiki/Black_Stone_Cherry "wikilink"),
-[Bloc Party](https://zh.wikipedia.org/wiki/Bloc_Party "wikilink"),
-[Bring Me the
-Horizon](https://zh.wikipedia.org/wiki/Bring_Me_the_Horizon "wikilink"),
-[Chester
-French](https://zh.wikipedia.org/wiki/Chester_French "wikilink"), [Chris
-Cornell](https://zh.wikipedia.org/wiki/Chris_Cornell "wikilink"), [Dir
-En Grey](https://zh.wikipedia.org/wiki/Dir_En_Grey "wikilink"),
-[DragonForce](https://zh.wikipedia.org/wiki/DragonForce "wikilink"),
-[Dredg](https://zh.wikipedia.org/wiki/Dredg "wikilink"), [Enter
-Shikari](../Page/Enter_Shikari.md "wikilink"),
-[Esser](https://zh.wikipedia.org/wiki/Esser_\(band\) "wikilink"),
-[Expatriate](https://zh.wikipedia.org/wiki/Expatriate "wikilink"), [Five
-Finger Death
-Punch](https://zh.wikipedia.org/wiki/Five_Finger_Death_Punch "wikilink"),
-[Flogging Molly](../Page/Flogging_Molly.md "wikilink"), Forbidden
-Theory, [Gallows](https://zh.wikipedia.org/wiki/Gallows "wikilink"),
-[Guano Apes](https://zh.wikipedia.org/wiki/Guano_Apes "wikilink"),
-[Hollywood
-Undead](https://zh.wikipedia.org/wiki/Hollywood_Undead "wikilink"), Ich
-Bin Bunt, [Jan
-Delay](https://zh.wikipedia.org/wiki/Jan_Delay "wikilink") & Disko No.
-1, [Juliette
-Lewis](https://zh.wikipedia.org/wiki/Juliette_Lewis "wikilink"),
-[Kettcar](https://zh.wikipedia.org/wiki/Kettcar "wikilink"),
-[Kilians](https://zh.wikipedia.org/wiki/Kilians "wikilink"), [Killswitch
-Engage](https://zh.wikipedia.org/wiki/Killswitch_Engage "wikilink"),
-[Kitty, Daisy &
-Lewis](https://zh.wikipedia.org/wiki/Kitty,_Daisy_&_Lewis "wikilink"),
-[Little Man
-Tate](https://zh.wikipedia.org/wiki/Little_Man_Tate "wikilink"),
-[Machine
-Head](https://zh.wikipedia.org/wiki/Machine_Head_\(band\) "wikilink"),
-[Madina Lake](https://zh.wikipedia.org/wiki/Madina_Lake "wikilink"),
-[Madness](https://zh.wikipedia.org/wiki/Madness_\(band\) "wikilink"),
-[Mando Diao](https://zh.wikipedia.org/wiki/Mando_Diao "wikilink"),
-[M.I.A.](https://zh.wikipedia.org/wiki/M.I.A._\(artist\) "wikilink"),
-[Middle Class
-Rut](https://zh.wikipedia.org/wiki/Middle_Class_Rut "wikilink"), [New
-Found Glory](https://zh.wikipedia.org/wiki/New_Found_Glory "wikilink"),
-[Pain](https://zh.wikipedia.org/wiki/Pain_\(musical_project\) "wikilink"),
-[Papa Roach](https://zh.wikipedia.org/wiki/Papa_Roach "wikilink"),
-[Peter Bjorn and
-John](https://zh.wikipedia.org/wiki/Peter_Bjorn_and_John "wikilink"),
-[Peter
-Fox](https://zh.wikipedia.org/wiki/Peter_Fox_\(musician\) "wikilink"),
-Phoenix, [Polarkreis
-18](https://zh.wikipedia.org/wiki/Polarkreis_18 "wikilink"),
-[Razorlight](https://zh.wikipedia.org/wiki/Razorlight "wikilink"),
-[Reamonn](https://zh.wikipedia.org/wiki/Reamonn "wikilink"), [Scouting
-for Girls](https://zh.wikipedia.org/wiki/Scouting_for_Girls "wikilink"),
-[Selig](https://zh.wikipedia.org/wiki/Selig_\(band\) "wikilink"),
-[Sevendust](https://zh.wikipedia.org/wiki/Sevendust "wikilink"),
-[Shinedown](https://zh.wikipedia.org/wiki/Shinedown "wikilink"),
-[Staind](https://zh.wikipedia.org/wiki/Staind "wikilink"),
-[Steadlür](https://zh.wikipedia.org/wiki/Steadlür "wikilink"),
-[Sugarplum
-Fairy](https://zh.wikipedia.org/wiki/Sugarplum_Fairy "wikilink"), [The
-All-American
-Rejects](https://zh.wikipedia.org/wiki/The_All-American_Rejects "wikilink"),
-[The Crave](https://zh.wikipedia.org/wiki/The_Crave "wikilink"), [The
-Gaslight
-Anthem](https://zh.wikipedia.org/wiki/The_Gaslight_Anthem "wikilink"),
-[The Kooks](https://zh.wikipedia.org/wiki/The_Kooks "wikilink"), [The
-Rifles](https://zh.wikipedia.org/wiki/The_Rifles "wikilink"), [The
-Script](https://zh.wikipedia.org/wiki/The_Script "wikilink"), [The
-Soundtrack of Our
-Lives](https://zh.wikipedia.org/wiki/The_Soundtrack_of_Our_Lives "wikilink")
-(OEOC), [The
-Subways](https://zh.wikipedia.org/wiki/The_Subways "wikilink"),
-[Tomte](https://zh.wikipedia.org/wiki/Tomte_\(band\) "wikilink"),
-[Trivium](https://zh.wikipedia.org/wiki/Trivium_\(band\) "wikilink"),
-[Volbeat](https://zh.wikipedia.org/wiki/Volbeat "wikilink"), [White
-Lies](https://zh.wikipedia.org/wiki/White_Lies_\(band\) "wikilink") Rock
-am Ring tickets were sold out by March 26.\[4\]
+演出阵容包括[Slipknot](https://zh.wikipedia.org/wiki/Slipknot_\(band\) "wikilink"),[The Prodigy](https://zh.wikipedia.org/wiki/The_Prodigy "wikilink"), [KoЯn](https://zh.wikipedia.org/wiki/KoЯn "wikilink"), [Limp Bizkit](https://zh.wikipedia.org/wiki/Limp_Bizkit "wikilink"), [Marilyn Manson](https://zh.wikipedia.org/wiki/Marilyn_Manson "wikilink"), [The Killers](https://zh.wikipedia.org/wiki/The_Killers "wikilink"), [Placebo](https://zh.wikipedia.org/wiki/Placebo_\(band\) "wikilink") and [Billy Talent](https://zh.wikipedia.org/wiki/Billy_Talent "wikilink"). Other bands included [2raumwohnung](../Page/2raumwohnung.md "wikilink"), [Alexisonfire](https://zh.wikipedia.org/wiki/Alexisonfire "wikilink"), [All That Remains](https://zh.wikipedia.org/wiki/All_That_Remains_\(band\) "wikilink"), [...And You Will Know Us by the Trail of Dead](https://zh.wikipedia.org/wiki/...And_You_Will_Know_Us_by_the_Trail_of_Dead "wikilink"), [Basement Jaxx](https://zh.wikipedia.org/wiki/Basement_Jaxx "wikilink"), [Biffy Clyro](https://zh.wikipedia.org/wiki/Biffy_Clyro "wikilink"), [Black Stone Cherry](https://zh.wikipedia.org/wiki/Black_Stone_Cherry "wikilink"), [Bloc Party](https://zh.wikipedia.org/wiki/Bloc_Party "wikilink"), [Bring Me the Horizon](https://zh.wikipedia.org/wiki/Bring_Me_the_Horizon "wikilink"), [Chester French](https://zh.wikipedia.org/wiki/Chester_French "wikilink"), [Chris Cornell](https://zh.wikipedia.org/wiki/Chris_Cornell "wikilink"), [Dir En Grey](https://zh.wikipedia.org/wiki/Dir_En_Grey "wikilink"), [DragonForce](https://zh.wikipedia.org/wiki/DragonForce "wikilink"), [Dredg](https://zh.wikipedia.org/wiki/Dredg "wikilink"), [Enter Shikari](../Page/Enter_Shikari.md "wikilink"), [Esser](https://zh.wikipedia.org/wiki/Esser_\(band\) "wikilink"), [Expatriate](https://zh.wikipedia.org/wiki/Expatriate "wikilink"), [Five Finger Death Punch](https://zh.wikipedia.org/wiki/Five_Finger_Death_Punch "wikilink"), [Flogging Molly](../Page/Flogging_Molly.md "wikilink"), Forbidden Theory, [Gallows](https://zh.wikipedia.org/wiki/Gallows "wikilink"), [Guano Apes](https://zh.wikipedia.org/wiki/Guano_Apes "wikilink"), [Hollywood Undead](https://zh.wikipedia.org/wiki/Hollywood_Undead "wikilink"), Ich Bin Bunt, [Jan Delay](https://zh.wikipedia.org/wiki/Jan_Delay "wikilink") & Disko No. 1, [Juliette Lewis](https://zh.wikipedia.org/wiki/Juliette_Lewis "wikilink"), [Kettcar](https://zh.wikipedia.org/wiki/Kettcar "wikilink"), [Kilians](https://zh.wikipedia.org/wiki/Kilians "wikilink"), [Killswitch Engage](https://zh.wikipedia.org/wiki/Killswitch_Engage "wikilink"), [Kitty, Daisy & Lewis](https://zh.wikipedia.org/wiki/Kitty,_Daisy_&_Lewis "wikilink"), [Little Man Tate](https://zh.wikipedia.org/wiki/Little_Man_Tate "wikilink"), [Machine Head](https://zh.wikipedia.org/wiki/Machine_Head_\(band\) "wikilink"), [Madina Lake](https://zh.wikipedia.org/wiki/Madina_Lake "wikilink"), [Madness](https://zh.wikipedia.org/wiki/Madness_\(band\) "wikilink"), [Mando Diao](https://zh.wikipedia.org/wiki/Mando_Diao "wikilink"), [M.I.A.](https://zh.wikipedia.org/wiki/M.I.A._\(artist\) "wikilink"), [Middle Class Rut](https://zh.wikipedia.org/wiki/Middle_Class_Rut "wikilink"), [New Found Glory](https://zh.wikipedia.org/wiki/New_Found_Glory "wikilink"), [Pain](https://zh.wikipedia.org/wiki/Pain_\(musical_project\) "wikilink"), [Papa Roach](https://zh.wikipedia.org/wiki/Papa_Roach "wikilink"), [Peter Bjorn and John](https://zh.wikipedia.org/wiki/Peter_Bjorn_and_John "wikilink"), [Peter Fox](https://zh.wikipedia.org/wiki/Peter_Fox_\(musician\) "wikilink"), Phoenix, [Polarkreis 18](https://zh.wikipedia.org/wiki/Polarkreis_18 "wikilink"), [Razorlight](https://zh.wikipedia.org/wiki/Razorlight "wikilink"), [Reamonn](https://zh.wikipedia.org/wiki/Reamonn "wikilink"), [Scouting for Girls](https://zh.wikipedia.org/wiki/Scouting_for_Girls "wikilink"), [Selig](https://zh.wikipedia.org/wiki/Selig_\(band\) "wikilink"), [Sevendust](https://zh.wikipedia.org/wiki/Sevendust "wikilink"), [Shinedown](https://zh.wikipedia.org/wiki/Shinedown "wikilink"), [Staind](https://zh.wikipedia.org/wiki/Staind "wikilink"), [Steadlür](https://zh.wikipedia.org/wiki/Steadlür "wikilink"), [Sugarplum Fairy](https://zh.wikipedia.org/wiki/Sugarplum_Fairy "wikilink"), [The All-American Rejects](https://zh.wikipedia.org/wiki/The_All-American_Rejects "wikilink"), [The Crave](https://zh.wikipedia.org/wiki/The_Crave "wikilink"), [The Gaslight Anthem](https://zh.wikipedia.org/wiki/The_Gaslight_Anthem "wikilink"), [The Kooks](https://zh.wikipedia.org/wiki/The_Kooks "wikilink"), [The Rifles](https://zh.wikipedia.org/wiki/The_Rifles "wikilink"), [The Script](https://zh.wikipedia.org/wiki/The_Script "wikilink"), [The Soundtrack of Our Lives](https://zh.wikipedia.org/wiki/The_Soundtrack_of_Our_Lives "wikilink") (OEOC), [The Subways](https://zh.wikipedia.org/wiki/The_Subways "wikilink"), [Tomte](https://zh.wikipedia.org/wiki/Tomte_\(band\) "wikilink"), [Trivium](https://zh.wikipedia.org/wiki/Trivium_\(band\) "wikilink"), [Volbeat](https://zh.wikipedia.org/wiki/Volbeat "wikilink"), [White Lies](https://zh.wikipedia.org/wiki/White_Lies_\(band\) "wikilink") Rock am Ring tickets were sold out by March 26.\[4\]
 
 ## 2008音乐节
 
-[20080606_rock_im_park_alternative_stage_panorama.jpg](https://zh.wikipedia.org/wiki/File:20080606_rock_im_park_alternative_stage_panorama.jpg "fig:20080606_rock_im_park_alternative_stage_panorama.jpg")
-2008音乐节从2008年6月6日到8日。确认有91个乐队的表演。在5月1日这两音乐节的门票就售罄。
+[20080606_rock_im_park_alternative_stage_panorama.jpg](https://zh.wikipedia.org/wiki/File:20080606_rock_im_park_alternative_stage_panorama.jpg "fig:20080606_rock_im_park_alternative_stage_panorama.jpg") 2008音乐节从2008年6月6日到8日。确认有91个乐队的表演。在5月1日这两音乐节的门票就售罄。
 
 \[5\] \[6\] \[7\] \[8\] \[9\] \[10\] \[11\]
-演出阵容包括[3 Doors
-Down](https://zh.wikipedia.org/wiki/3_Doors_Down "wikilink") (replacing
-[Chris Cornell](https://zh.wikipedia.org/wiki/Chris_Cornell "wikilink"),
-who backed out to record an album \[12\]), [36
-Crazyfists](https://zh.wikipedia.org/wiki/36_Crazyfists "wikilink"),
-[Against Me\!](https://zh.wikipedia.org/wiki/Against_Me! "wikilink"),
-[Airbourne](https://zh.wikipedia.org/wiki/Airbourne_\(band\) "wikilink"),
-[Alpha Galates](https://zh.wikipedia.org/wiki/Alpha_Galates "wikilink"),
-[Alter Bridge](https://zh.wikipedia.org/wiki/Alter_Bridge "wikilink"),
-[Animal Alpha](https://zh.wikipedia.org/wiki/Animal_Alpha "wikilink"),
-[Babyshambles](https://zh.wikipedia.org/wiki/Babyshambles "wikilink"),
-[Bad Religion](https://zh.wikipedia.org/wiki/Bad_Religion "wikilink"),
-[Bedouin
-Soundclash](https://zh.wikipedia.org/wiki/Bedouin_Soundclash "wikilink"),
-[The Black Dahlia
-Murder](https://zh.wikipedia.org/wiki/The_Black_Dahlia_Murder_\(band\) "wikilink"),
-[Black Stone
-Cherry](https://zh.wikipedia.org/wiki/Black_Stone_Cherry "wikilink"),
-[Black Tide](https://zh.wikipedia.org/wiki/Black_Tide "wikilink"),
-[Bloodlights](https://zh.wikipedia.org/wiki/Bloodlights "wikilink"),
-[Booka Shade](https://zh.wikipedia.org/wiki/Booka_Shade "wikilink"),
-[Bullet for My
-Valentine](https://zh.wikipedia.org/wiki/Bullet_for_My_Valentine "wikilink"),
-[CSS](https://zh.wikipedia.org/wiki/CSS_\(band\) "wikilink"), [Cavalera
-Conspiracy](https://zh.wikipedia.org/wiki/Cavalera_Conspiracy "wikilink"),
-[Chiodos](https://zh.wikipedia.org/wiki/Chiodos "wikilink"), [Coheed and
-Cambria](https://zh.wikipedia.org/wiki/Coheed_and_Cambria "wikilink"),
-[Culcha
-Candela](https://zh.wikipedia.org/wiki/Culcha_Candela "wikilink"),
-[Danko Jones](https://zh.wikipedia.org/wiki/Danko_Jones "wikilink"),
-[Die Toten
-Hosen](https://zh.wikipedia.org/wiki/Die_Toten_Hosen "wikilink"), [Dimmu
-Borgir](https://zh.wikipedia.org/wiki/Dimmu_Borgir "wikilink"), [Disco
-Ensemble](https://zh.wikipedia.org/wiki/Disco_Ensemble "wikilink"),
-[Disturbed](https://zh.wikipedia.org/wiki/Disturbed_\(band\) "wikilink"),
-[Eagles of Death
-Metal](https://zh.wikipedia.org/wiki/Eagles_of_Death_Metal "wikilink"),
-EL\*KE, [Fair to
-Midland](https://zh.wikipedia.org/wiki/Fair_to_Midland "wikilink"),
-[Fettes Brot](https://zh.wikipedia.org/wiki/Fettes_Brot "wikilink"),
-[Fiction Plane](https://zh.wikipedia.org/wiki/Fiction_Plane "wikilink"),
-[Filter](https://zh.wikipedia.org/wiki/Filter_\(band\) "wikilink"),
-[Finger
-Eleven](https://zh.wikipedia.org/wiki/Finger_Eleven "wikilink"),\[13\]\[14\]
-[From First to
-Last](https://zh.wikipedia.org/wiki/From_First_to_Last "wikilink"),
-[Gavin DeGraw](https://zh.wikipedia.org/wiki/Gavin_DeGraw "wikilink"),
-[Gavin
-Rossdale](https://zh.wikipedia.org/wiki/Gavin_Rossdale "wikilink"),
-[High on Fire](https://zh.wikipedia.org/wiki/High_on_Fire "wikilink"),
-[HIM](https://zh.wikipedia.org/wiki/HIM_\(Finnish_band\) "wikilink"),
-[Hot Chip](https://zh.wikipedia.org/wiki/Hot_Chip "wikilink"), [In Case
-of Fire](https://zh.wikipedia.org/wiki/In_Case_of_Fire "wikilink"), [In
-Flames](https://zh.wikipedia.org/wiki/In_Flames "wikilink"),
-[Incubus](https://zh.wikipedia.org/wiki/Incubus_\(band\) "wikilink"),
-[Infadels](https://zh.wikipedia.org/wiki/Infadels "wikilink"), [Jimmy
-Eat World](https://zh.wikipedia.org/wiki/Jimmy_Eat_World "wikilink"),
-[Joe Lean & The Jing Jang
-Jong](https://zh.wikipedia.org/wiki/Joe_Lean_&_The_Jing_Jang_Jong "wikilink"),
-[Johnossi](https://zh.wikipedia.org/wiki/Johnossi "wikilink"), [Jonathan
-Davis](https://zh.wikipedia.org/wiki/Jonathan_Davis "wikilink"),
-[Justice](https://zh.wikipedia.org/wiki/Justice_\(band\) "wikilink"),
-[Kate Nash](https://zh.wikipedia.org/wiki/Kate_Nash "wikilink"), [Kid
-Rock](https://zh.wikipedia.org/wiki/Kid_Rock "wikilink"), [Kill
-Hannah](https://zh.wikipedia.org/wiki/Kill_Hannah "wikilink"),
-[Lostprophets](https://zh.wikipedia.org/wiki/Lostprophets "wikilink"),
-[Madsen](https://zh.wikipedia.org/wiki/Madsen_\(band\) "wikilink"),
-[Manic Street
-Preachers](https://zh.wikipedia.org/wiki/Manic_Street_Preachers "wikilink"),
-[Masters of
-Reality](https://zh.wikipedia.org/wiki/Masters_of_Reality "wikilink"),
-[Metallica](https://zh.wikipedia.org/wiki/Metallica "wikilink"),
-[Motörhead](https://zh.wikipedia.org/wiki/Motörhead "wikilink"),
-[Nightwish](https://zh.wikipedia.org/wiki/Nightwish "wikilink"),
-[Oomph\!](https://zh.wikipedia.org/wiki/Oomph! "wikilink"),
-[Opeth](https://zh.wikipedia.org/wiki/Opeth "wikilink"),
-[Paramore](https://zh.wikipedia.org/wiki/Paramore "wikilink"), [Pete
-Murray](https://zh.wikipedia.org/wiki/Pete_Murray "wikilink"), [Queens
-of the Stone
-Age](https://zh.wikipedia.org/wiki/Queens_of_the_Stone_Age "wikilink"),
-Rafael Weber, [Rage Against the
-Machine](https://zh.wikipedia.org/wiki/Rage_Against_the_Machine "wikilink"),
-[Rival
-Schools](https://zh.wikipedia.org/wiki/Rival_Schools_\(band\) "wikilink"),
-[Róisín Murphy](https://zh.wikipedia.org/wiki/Róisín_Murphy "wikilink"),
-[Rooney](https://zh.wikipedia.org/wiki/Rooney_\(band\) "wikilink"),
-[Rose Tattoo](https://zh.wikipedia.org/wiki/Rose_Tattoo "wikilink"),
-[Saul Williams](https://zh.wikipedia.org/wiki/Saul_Williams "wikilink"),
-[Saxon](https://zh.wikipedia.org/wiki/Saxon_\(band\) "wikilink"),
-[Seether](https://zh.wikipedia.org/wiki/Seether "wikilink"), [Serj
-Tankian](https://zh.wikipedia.org/wiki/Serj_Tankian "wikilink"),
-[Silverstein](https://zh.wikipedia.org/wiki/Silverstein_\(band\) "wikilink"),
-[Simple Plan](https://zh.wikipedia.org/wiki/Simple_Plan "wikilink"),
-[Söhne
-Mannheims](https://zh.wikipedia.org/wiki/Söhne_Mannheims "wikilink"),
-[Sonic
-Syndicate](https://zh.wikipedia.org/wiki/Sonic_Syndicate "wikilink"),
-[Sportfreunde Stiller](../Page/Sportfreunde_Stiller.md "wikilink"),
-[Stereophonics](https://zh.wikipedia.org/wiki/Stereophonics "wikilink"),
-[Steriogram](https://zh.wikipedia.org/wiki/Steriogram "wikilink"),
-[Takida](https://zh.wikipedia.org/wiki/Takida "wikilink"), [The Fall of
-Troy](https://zh.wikipedia.org/wiki/The_Fall_of_Troy "wikilink"), [The
-Fratellis](https://zh.wikipedia.org/wiki/The_Fratellis "wikilink"), [The
-Futureheads](https://zh.wikipedia.org/wiki/The_Futureheads "wikilink"),
-[The
-Hellacopters](https://zh.wikipedia.org/wiki/The_Hellacopters "wikilink"),
-[The Offspring](https://zh.wikipedia.org/wiki/The_Offspring "wikilink"),
-[The Prodigy](https://zh.wikipedia.org/wiki/The_Prodigy "wikilink"),
-[The Streets](https://zh.wikipedia.org/wiki/The_Streets "wikilink"),
-[The Verve](https://zh.wikipedia.org/wiki/The_Verve "wikilink"), [Tokyo
-Police
-Club](https://zh.wikipedia.org/wiki/Tokyo_Police_Club "wikilink"),
-[Turisas](https://zh.wikipedia.org/wiki/Turisas "wikilink") and
-[ZOX](https://zh.wikipedia.org/wiki/ZOX "wikilink").
+演出阵容包括[3 Doors Down](https://zh.wikipedia.org/wiki/3_Doors_Down "wikilink") (replacing [Chris Cornell](https://zh.wikipedia.org/wiki/Chris_Cornell "wikilink"), who backed out to record an album \[12\]), [36 Crazyfists](https://zh.wikipedia.org/wiki/36_Crazyfists "wikilink"), [Against Me\!](https://zh.wikipedia.org/wiki/Against_Me! "wikilink"), [Airbourne](https://zh.wikipedia.org/wiki/Airbourne_\(band\) "wikilink"), [Alpha Galates](https://zh.wikipedia.org/wiki/Alpha_Galates "wikilink"), [Alter Bridge](https://zh.wikipedia.org/wiki/Alter_Bridge "wikilink"), [Animal Alpha](https://zh.wikipedia.org/wiki/Animal_Alpha "wikilink"), [Babyshambles](https://zh.wikipedia.org/wiki/Babyshambles "wikilink"), [Bad Religion](https://zh.wikipedia.org/wiki/Bad_Religion "wikilink"), [Bedouin Soundclash](https://zh.wikipedia.org/wiki/Bedouin_Soundclash "wikilink"), [The Black Dahlia Murder](https://zh.wikipedia.org/wiki/The_Black_Dahlia_Murder_\(band\) "wikilink"), [Black Stone Cherry](https://zh.wikipedia.org/wiki/Black_Stone_Cherry "wikilink"), [Black Tide](https://zh.wikipedia.org/wiki/Black_Tide "wikilink"), [Bloodlights](https://zh.wikipedia.org/wiki/Bloodlights "wikilink"), [Booka Shade](https://zh.wikipedia.org/wiki/Booka_Shade "wikilink"), [Bullet for My Valentine](https://zh.wikipedia.org/wiki/Bullet_for_My_Valentine "wikilink"), [CSS](https://zh.wikipedia.org/wiki/CSS_\(band\) "wikilink"), [Cavalera Conspiracy](https://zh.wikipedia.org/wiki/Cavalera_Conspiracy "wikilink"), [Chiodos](https://zh.wikipedia.org/wiki/Chiodos "wikilink"), [Coheed and Cambria](https://zh.wikipedia.org/wiki/Coheed_and_Cambria "wikilink"), [Culcha Candela](https://zh.wikipedia.org/wiki/Culcha_Candela "wikilink"), [Danko Jones](https://zh.wikipedia.org/wiki/Danko_Jones "wikilink"), [Die Toten Hosen](https://zh.wikipedia.org/wiki/Die_Toten_Hosen "wikilink"), [Dimmu Borgir](https://zh.wikipedia.org/wiki/Dimmu_Borgir "wikilink"), [Disco Ensemble](https://zh.wikipedia.org/wiki/Disco_Ensemble "wikilink"), [Disturbed](https://zh.wikipedia.org/wiki/Disturbed_\(band\) "wikilink"), [Eagles of Death Metal](https://zh.wikipedia.org/wiki/Eagles_of_Death_Metal "wikilink"), EL\*KE, [Fair to Midland](https://zh.wikipedia.org/wiki/Fair_to_Midland "wikilink"), [Fettes Brot](https://zh.wikipedia.org/wiki/Fettes_Brot "wikilink"), [Fiction Plane](https://zh.wikipedia.org/wiki/Fiction_Plane "wikilink"), [Filter](https://zh.wikipedia.org/wiki/Filter_\(band\) "wikilink"), [Finger Eleven](https://zh.wikipedia.org/wiki/Finger_Eleven "wikilink"),\[13\]\[14\] [From First to Last](https://zh.wikipedia.org/wiki/From_First_to_Last "wikilink"), [Gavin DeGraw](https://zh.wikipedia.org/wiki/Gavin_DeGraw "wikilink"), [Gavin Rossdale](https://zh.wikipedia.org/wiki/Gavin_Rossdale "wikilink"), [High on Fire](https://zh.wikipedia.org/wiki/High_on_Fire "wikilink"), [HIM](https://zh.wikipedia.org/wiki/HIM_\(Finnish_band\) "wikilink"), [Hot Chip](https://zh.wikipedia.org/wiki/Hot_Chip "wikilink"), [In Case of Fire](https://zh.wikipedia.org/wiki/In_Case_of_Fire "wikilink"), [In Flames](https://zh.wikipedia.org/wiki/In_Flames "wikilink"), [Incubus](https://zh.wikipedia.org/wiki/Incubus_\(band\) "wikilink"), [Infadels](https://zh.wikipedia.org/wiki/Infadels "wikilink"), [Jimmy Eat World](https://zh.wikipedia.org/wiki/Jimmy_Eat_World "wikilink"), [Joe Lean & The Jing Jang Jong](https://zh.wikipedia.org/wiki/Joe_Lean_&_The_Jing_Jang_Jong "wikilink"), [Johnossi](https://zh.wikipedia.org/wiki/Johnossi "wikilink"), [Jonathan Davis](https://zh.wikipedia.org/wiki/Jonathan_Davis "wikilink"), [Justice](https://zh.wikipedia.org/wiki/Justice_\(band\) "wikilink"), [Kate Nash](https://zh.wikipedia.org/wiki/Kate_Nash "wikilink"), [Kid Rock](https://zh.wikipedia.org/wiki/Kid_Rock "wikilink"), [Kill Hannah](https://zh.wikipedia.org/wiki/Kill_Hannah "wikilink"), [Lostprophets](https://zh.wikipedia.org/wiki/Lostprophets "wikilink"), [Madsen](https://zh.wikipedia.org/wiki/Madsen_\(band\) "wikilink"), [Manic Street Preachers](https://zh.wikipedia.org/wiki/Manic_Street_Preachers "wikilink"), [Masters of Reality](https://zh.wikipedia.org/wiki/Masters_of_Reality "wikilink"), [Metallica](https://zh.wikipedia.org/wiki/Metallica "wikilink"), [Motörhead](https://zh.wikipedia.org/wiki/Motörhead "wikilink"), [Nightwish](https://zh.wikipedia.org/wiki/Nightwish "wikilink"), [Oomph\!](https://zh.wikipedia.org/wiki/Oomph! "wikilink"), [Opeth](https://zh.wikipedia.org/wiki/Opeth "wikilink"), [Paramore](https://zh.wikipedia.org/wiki/Paramore "wikilink"), [Pete Murray](https://zh.wikipedia.org/wiki/Pete_Murray "wikilink"), [Queens of the Stone Age](https://zh.wikipedia.org/wiki/Queens_of_the_Stone_Age "wikilink"), Rafael Weber, [Rage Against the Machine](https://zh.wikipedia.org/wiki/Rage_Against_the_Machine "wikilink"), [Rival Schools](https://zh.wikipedia.org/wiki/Rival_Schools_\(band\) "wikilink"), [Róisín Murphy](https://zh.wikipedia.org/wiki/Róisín_Murphy "wikilink"), [Rooney](https://zh.wikipedia.org/wiki/Rooney_\(band\) "wikilink"), [Rose Tattoo](https://zh.wikipedia.org/wiki/Rose_Tattoo "wikilink"), [Saul Williams](https://zh.wikipedia.org/wiki/Saul_Williams "wikilink"), [Saxon](https://zh.wikipedia.org/wiki/Saxon_\(band\) "wikilink"), [Seether](https://zh.wikipedia.org/wiki/Seether "wikilink"), [Serj Tankian](https://zh.wikipedia.org/wiki/Serj_Tankian "wikilink"), [Silverstein](https://zh.wikipedia.org/wiki/Silverstein_\(band\) "wikilink"), [Simple Plan](https://zh.wikipedia.org/wiki/Simple_Plan "wikilink"), [Söhne Mannheims](https://zh.wikipedia.org/wiki/Söhne_Mannheims "wikilink"), [Sonic Syndicate](https://zh.wikipedia.org/wiki/Sonic_Syndicate "wikilink"), [Sportfreunde Stiller](../Page/Sportfreunde_Stiller.md "wikilink"), [Stereophonics](https://zh.wikipedia.org/wiki/Stereophonics "wikilink"), [Steriogram](https://zh.wikipedia.org/wiki/Steriogram "wikilink"), [Takida](https://zh.wikipedia.org/wiki/Takida "wikilink"), [The Fall of Troy](https://zh.wikipedia.org/wiki/The_Fall_of_Troy "wikilink"), [The Fratellis](https://zh.wikipedia.org/wiki/The_Fratellis "wikilink"), [The Futureheads](https://zh.wikipedia.org/wiki/The_Futureheads "wikilink"), [The Hellacopters](https://zh.wikipedia.org/wiki/The_Hellacopters "wikilink"), [The Offspring](https://zh.wikipedia.org/wiki/The_Offspring "wikilink"), [The Prodigy](https://zh.wikipedia.org/wiki/The_Prodigy "wikilink"), [The Streets](https://zh.wikipedia.org/wiki/The_Streets "wikilink"), [The Verve](https://zh.wikipedia.org/wiki/The_Verve "wikilink"), [Tokyo Police Club](https://zh.wikipedia.org/wiki/Tokyo_Police_Club "wikilink"), [Turisas](https://zh.wikipedia.org/wiki/Turisas "wikilink") and [ZOX](https://zh.wikipedia.org/wiki/ZOX "wikilink").
 
 [20080608_rockimpark_zeppelinfield_panorama.jpg](https://zh.wikipedia.org/wiki/File:20080608_rockimpark_zeppelinfield_panorama.jpg "fig:20080608_rockimpark_zeppelinfield_panorama.jpg")
 
 ## 历史
 
-Rock am
-Ring原计划只是一次性音乐节庆典，这追溯到1985的短期的音乐节，但由于它的商业成功，有7万5千人的观众，所以决定每年举办这音乐节。在1991年，音乐节有了新理念：活动组织者既邀请著名的音乐艺人，还给大众带来比较新鲜的很时兴的乐队。在1993年，Rock
-im
-Park第一次在[维也纳举办](https://zh.wikipedia.org/wiki/维也纳 "wikilink")。1994年，Rock
-im Park移师到被遗弃的[Munich-Riem
-airport](https://zh.wikipedia.org/wiki/Munich-Riem_airport "wikilink"),
-1995年进驻慕尼黑的[Olympiastadion](https://zh.wikipedia.org/wiki/Olympic_Stadium_\(Munich\) "wikilink"),举办了两年。自从1997年，Rock
-im Park就在纽伦堡的法兰克人体育场或周边地区举办。
+Rock am Ring原计划只是一次性音乐节庆典，这追溯到1985的短期的音乐节，但由于它的商业成功，有7万5千人的观众，所以决定每年举办这音乐节。在1991年，音乐节有了新理念：活动组织者既邀请著名的音乐艺人，还给大众带来比较新鲜的很时兴的乐队。在1993年，Rock im Park第一次在[维也纳举办](https://zh.wikipedia.org/wiki/维也纳 "wikilink")。1994年，Rock im Park移师到被遗弃的[Munich-Riem airport](https://zh.wikipedia.org/wiki/Munich-Riem_airport "wikilink"), 1995年进驻慕尼黑的[Olympiastadion](https://zh.wikipedia.org/wiki/Olympic_Stadium_\(Munich\) "wikilink"),举办了两年。自从1997年，Rock im Park就在纽伦堡的法兰克人体育场或周边地区举办。
 
 2007年音乐节上，一个科学实验用来测验人们同时跳跃时，人们巨大身体所产生的效应。这实验数据用来计算如果全体中国人口一同跳跃时所产生的数据结果。从这理论性实验活动，实验没有得出显著的结论。\[15\]
 
 ## 历届音乐节和演出阵容
 
   - 1985.5.25–26
-      - [U2](https://zh.wikipedia.org/wiki/U2 "wikilink"), [Joe
-        Cocker](https://zh.wikipedia.org/wiki/Joe_Cocker "wikilink"),
-        [Foreigner](https://zh.wikipedia.org/wiki/Foreigner_\(band\) "wikilink"),
-        [Marius
-        Müller-Westernhagen](https://zh.wikipedia.org/wiki/Marius_Müller-Westernhagen "wikilink"),
-        [Marillion](https://zh.wikipedia.org/wiki/Marillion "wikilink"),
-        [Chris de
-        Burgh](https://zh.wikipedia.org/wiki/Chris_de_Burgh "wikilink"),
-        [Rick
-        Springfield](https://zh.wikipedia.org/wiki/Rick_Springfield "wikilink"),
-        [Gianna
-        Nannini](https://zh.wikipedia.org/wiki/Gianna_Nannini "wikilink"),
-        [The Alarm](https://zh.wikipedia.org/wiki/The_Alarm "wikilink"),
-        [Lone
-        Justice](https://zh.wikipedia.org/wiki/Lone_Justice "wikilink"),
-        [Immaculate
-        Fools](https://zh.wikipedia.org/wiki/Immaculate_Fools "wikilink"),
-        [REO
-        Speedwagon](https://zh.wikipedia.org/wiki/REO_Speedwagon "wikilink"),
-        [Saga](https://zh.wikipedia.org/wiki/Saga_\(band\) "wikilink"),
-        [Mink
-        DeVille](https://zh.wikipedia.org/wiki/Mink_DeVille "wikilink"),
-        [Russ
-        Ballard](https://zh.wikipedia.org/wiki/Russ_Ballard "wikilink"),
-        [Night
-        Ranger](https://zh.wikipedia.org/wiki/Night_Ranger "wikilink"),
-        [Huey Lewis and the
-        News](https://zh.wikipedia.org/wiki/Huey_Lewis_and_the_News "wikilink"),
-        [Shakatak](https://zh.wikipedia.org/wiki/Shakatak "wikilink")
+      - [U2](https://zh.wikipedia.org/wiki/U2 "wikilink"), [Joe Cocker](https://zh.wikipedia.org/wiki/Joe_Cocker "wikilink"), [Foreigner](https://zh.wikipedia.org/wiki/Foreigner_\(band\) "wikilink"), [Marius Müller-Westernhagen](https://zh.wikipedia.org/wiki/Marius_Müller-Westernhagen "wikilink"), [Marillion](https://zh.wikipedia.org/wiki/Marillion "wikilink"), [Chris de Burgh](https://zh.wikipedia.org/wiki/Chris_de_Burgh "wikilink"), [Rick Springfield](https://zh.wikipedia.org/wiki/Rick_Springfield "wikilink"), [Gianna Nannini](https://zh.wikipedia.org/wiki/Gianna_Nannini "wikilink"), [The Alarm](https://zh.wikipedia.org/wiki/The_Alarm "wikilink"), [Lone Justice](https://zh.wikipedia.org/wiki/Lone_Justice "wikilink"), [Immaculate Fools](https://zh.wikipedia.org/wiki/Immaculate_Fools "wikilink"), [REO Speedwagon](https://zh.wikipedia.org/wiki/REO_Speedwagon "wikilink"), [Saga](https://zh.wikipedia.org/wiki/Saga_\(band\) "wikilink"), [Mink DeVille](https://zh.wikipedia.org/wiki/Mink_DeVille "wikilink"), [Russ Ballard](https://zh.wikipedia.org/wiki/Russ_Ballard "wikilink"), [Night Ranger](https://zh.wikipedia.org/wiki/Night_Ranger "wikilink"), [Huey Lewis and the News](https://zh.wikipedia.org/wiki/Huey_Lewis_and_the_News "wikilink"), [Shakatak](https://zh.wikipedia.org/wiki/Shakatak "wikilink")
 
 <!-- end list -->
 
   - 1986.6.14–15
-      - [Simple
-        Minds](https://zh.wikipedia.org/wiki/Simple_Minds "wikilink")
-        headlining [The
-        Cure](https://zh.wikipedia.org/wiki/The_Cure "wikilink"),
-        [INXS](../Page/INXS.md "wikilink"), [James
-        Taylor](https://zh.wikipedia.org/wiki/James_Taylor "wikilink"),
-        [Simply
-        Red](https://zh.wikipedia.org/wiki/Simply_Red "wikilink"), [Echo
-        & the
-        Bunnymen](https://zh.wikipedia.org/wiki/Echo_&_the_Bunnymen "wikilink"),
-        [Talk
-        Talk](https://zh.wikipedia.org/wiki/Talk_Talk_\(band\) "wikilink"),
-        [The
-        Bangles](https://zh.wikipedia.org/wiki/The_Bangles "wikilink")
+      - [Simple Minds](https://zh.wikipedia.org/wiki/Simple_Minds "wikilink") headlining [The Cure](https://zh.wikipedia.org/wiki/The_Cure "wikilink"), [INXS](../Page/INXS.md "wikilink"), [James Taylor](https://zh.wikipedia.org/wiki/James_Taylor "wikilink"), [Simply Red](https://zh.wikipedia.org/wiki/Simply_Red "wikilink"), [Echo & the Bunnymen](https://zh.wikipedia.org/wiki/Echo_&_the_Bunnymen "wikilink"), [Talk Talk](https://zh.wikipedia.org/wiki/Talk_Talk_\(band\) "wikilink"), [The Bangles](https://zh.wikipedia.org/wiki/The_Bangles "wikilink")
 
 <!-- end list -->
 
   - 1987.6.6–7
-      - [David
-        Bowie](https://zh.wikipedia.org/wiki/David_Bowie "wikilink"),
-        [Eurythmics](https://zh.wikipedia.org/wiki/Eurythmics "wikilink"),
-        [Udo
-        Lindenberg](https://zh.wikipedia.org/wiki/Udo_Lindenberg "wikilink"),
-        [UB40](https://zh.wikipedia.org/wiki/UB40 "wikilink")
+      - [David Bowie](https://zh.wikipedia.org/wiki/David_Bowie "wikilink"), [Eurythmics](https://zh.wikipedia.org/wiki/Eurythmics "wikilink"), [Udo Lindenberg](https://zh.wikipedia.org/wiki/Udo_Lindenberg "wikilink"), [UB40](https://zh.wikipedia.org/wiki/UB40 "wikilink")
 
 <!-- end list -->
 
   - 1988.6.11–12
-      - [Marius
-        Müller-Westernhagen](https://zh.wikipedia.org/wiki/Marius_Müller-Westernhagen "wikilink"),
-        [Fleetwood
-        Mac](https://zh.wikipedia.org/wiki/Fleetwood_Mac "wikilink"),
-        [Chris Rea](https://zh.wikipedia.org/wiki/Chris_Rea "wikilink"),
-        [Imperiet](https://zh.wikipedia.org/wiki/Imperiet "wikilink")
+      - [Marius Müller-Westernhagen](https://zh.wikipedia.org/wiki/Marius_Müller-Westernhagen "wikilink"), [Fleetwood Mac](https://zh.wikipedia.org/wiki/Fleetwood_Mac "wikilink"), [Chris Rea](https://zh.wikipedia.org/wiki/Chris_Rea "wikilink"), [Imperiet](https://zh.wikipedia.org/wiki/Imperiet "wikilink")
 
 <!-- end list -->
 
   - 1991.6.28–30
-      - [INXS](../Page/INXS.md "wikilink"),
-        [Toto](https://zh.wikipedia.org/wiki/Toto_\(band\) "wikilink"),
-        [Sting](https://zh.wikipedia.org/wiki/Sting_\(musician\) "wikilink"),
-        [The Sisters of
-        Mercy](https://zh.wikipedia.org/wiki/The_Sisters_of_Mercy "wikilink"),
-        The Jeremy Days
+      - [INXS](../Page/INXS.md "wikilink"), [Toto](https://zh.wikipedia.org/wiki/Toto_\(band\) "wikilink"), [Sting](https://zh.wikipedia.org/wiki/Sting_\(musician\) "wikilink"), [The Sisters of Mercy](https://zh.wikipedia.org/wiki/The_Sisters_of_Mercy "wikilink"), The Jeremy Days
 
 <!-- end list -->
 
   - 1992.6.5–7
-      - [Marillion](https://zh.wikipedia.org/wiki/Marillion "wikilink"),
-        [Saga](https://zh.wikipedia.org/wiki/Saga_\(band\) "wikilink"),
-        [Bryan
-        Adams](https://zh.wikipedia.org/wiki/Bryan_Adams "wikilink"),
-        [Elton
-        John](https://zh.wikipedia.org/wiki/Elton_John "wikilink"),
-        [Pearl Jam](https://zh.wikipedia.org/wiki/Pearl_Jam "wikilink"),
-        [The Cult](https://zh.wikipedia.org/wiki/The_Cult "wikilink"),
-        [Tori Amos](https://zh.wikipedia.org/wiki/Tori_Amos "wikilink"),
-        [Héroes del
-        Silencio](https://zh.wikipedia.org/wiki/Héroes_del_Silencio "wikilink")
+      - [Marillion](https://zh.wikipedia.org/wiki/Marillion "wikilink"), [Saga](https://zh.wikipedia.org/wiki/Saga_\(band\) "wikilink"), [Bryan Adams](https://zh.wikipedia.org/wiki/Bryan_Adams "wikilink"), [Elton John](https://zh.wikipedia.org/wiki/Elton_John "wikilink"), [Pearl Jam](https://zh.wikipedia.org/wiki/Pearl_Jam "wikilink"), [The Cult](https://zh.wikipedia.org/wiki/The_Cult "wikilink"), [Tori Amos](https://zh.wikipedia.org/wiki/Tori_Amos "wikilink"), [Héroes del Silencio](https://zh.wikipedia.org/wiki/Héroes_del_Silencio "wikilink")
 
 <!-- end list -->
 
   - 1993.5.29–30
-      - [INXS](../Page/INXS.md "wikilink"), [Faith No
-        More](https://zh.wikipedia.org/wiki/Faith_No_More "wikilink"),
-        [Brian May](https://zh.wikipedia.org/wiki/Brian_May "wikilink"),
-        [Robert
-        Plant](https://zh.wikipedia.org/wiki/Robert_Plant "wikilink"),
-        [Melissa
-        Etheridge](https://zh.wikipedia.org/wiki/Melissa_Etheridge "wikilink"),
-        [Def
-        Leppard](https://zh.wikipedia.org/wiki/Def_Leppard "wikilink"),
-        [Danzig](https://zh.wikipedia.org/wiki/Danzig "wikilink"), [The
-        Black
-        Crowes](https://zh.wikipedia.org/wiki/The_Black_Crowes "wikilink"),
-        [Leonard
-        Cohen](https://zh.wikipedia.org/wiki/Leonard_Cohen "wikilink"),
-        [Hothouse
-        Flowers](https://zh.wikipedia.org/wiki/Hothouse_Flowers "wikilink"),
-        [The
-        Jayhawks](https://zh.wikipedia.org/wiki/The_Jayhawks "wikilink"),
-        [World
-        Party](https://zh.wikipedia.org/wiki/World_Party "wikilink"),
-        [Ugly Kid
-        Joe](https://zh.wikipedia.org/wiki/Ugly_Kid_Joe "wikilink")
+      - [INXS](../Page/INXS.md "wikilink"), [Faith No More](https://zh.wikipedia.org/wiki/Faith_No_More "wikilink"), [Brian May](https://zh.wikipedia.org/wiki/Brian_May "wikilink"), [Robert Plant](https://zh.wikipedia.org/wiki/Robert_Plant "wikilink"), [Melissa Etheridge](https://zh.wikipedia.org/wiki/Melissa_Etheridge "wikilink"), [Def Leppard](https://zh.wikipedia.org/wiki/Def_Leppard "wikilink"), [Danzig](https://zh.wikipedia.org/wiki/Danzig "wikilink"), [The Black Crowes](https://zh.wikipedia.org/wiki/The_Black_Crowes "wikilink"), [Leonard Cohen](https://zh.wikipedia.org/wiki/Leonard_Cohen "wikilink"), [Hothouse Flowers](https://zh.wikipedia.org/wiki/Hothouse_Flowers "wikilink"), [The Jayhawks](https://zh.wikipedia.org/wiki/The_Jayhawks "wikilink"), [World Party](https://zh.wikipedia.org/wiki/World_Party "wikilink"), [Ugly Kid Joe](https://zh.wikipedia.org/wiki/Ugly_Kid_Joe "wikilink")
 
 <!-- end list -->
 
   - 1994.5.21–23
-      - [Aerosmith](https://zh.wikipedia.org/wiki/Aerosmith "wikilink"),
-        [Peter
-        Gabriel](https://zh.wikipedia.org/wiki/Peter_Gabriel "wikilink"),
-        [Clawfinger](https://zh.wikipedia.org/wiki/Clawfinger "wikilink"),
-        [Nina
-        Hagen](https://zh.wikipedia.org/wiki/Nina_Hagen "wikilink"),
-        [Radiohead](https://zh.wikipedia.org/wiki/Radiohead "wikilink"),
-        [Rage Against the
-        Machine](https://zh.wikipedia.org/wiki/Rage_Against_the_Machine "wikilink"),
-        [The Smashing
-        Pumpkins](https://zh.wikipedia.org/wiki/The_Smashing_Pumpkins "wikilink")
+      - [Aerosmith](https://zh.wikipedia.org/wiki/Aerosmith "wikilink"), [Peter Gabriel](https://zh.wikipedia.org/wiki/Peter_Gabriel "wikilink"), [Clawfinger](https://zh.wikipedia.org/wiki/Clawfinger "wikilink"), [Nina Hagen](https://zh.wikipedia.org/wiki/Nina_Hagen "wikilink"), [Radiohead](https://zh.wikipedia.org/wiki/Radiohead "wikilink"), [Rage Against the Machine](https://zh.wikipedia.org/wiki/Rage_Against_the_Machine "wikilink"), [The Smashing Pumpkins](https://zh.wikipedia.org/wiki/The_Smashing_Pumpkins "wikilink")
 
 <!-- end list -->
 
   - 1995.6.3–4
-      - [Van Halen](https://zh.wikipedia.org/wiki/Van_Halen "wikilink"),
-        [Bon Jovi](https://zh.wikipedia.org/wiki/Bon_Jovi "wikilink"),
-        [Megadeth](https://zh.wikipedia.org/wiki/Megadeth "wikilink"),
-        [Bad
-        Religion](https://zh.wikipedia.org/wiki/Bad_Religion "wikilink"),
-        [Otto
-        Waalkes](https://zh.wikipedia.org/wiki/Otto_Waalkes "wikilink"),
-        [Pretenders](https://zh.wikipedia.org/wiki/Pretenders_\(band\) "wikilink")
+      - [Van Halen](https://zh.wikipedia.org/wiki/Van_Halen "wikilink"), [Bon Jovi](https://zh.wikipedia.org/wiki/Bon_Jovi "wikilink"), [Megadeth](https://zh.wikipedia.org/wiki/Megadeth "wikilink"), [Bad Religion](https://zh.wikipedia.org/wiki/Bad_Religion "wikilink"), [Otto Waalkes](https://zh.wikipedia.org/wiki/Otto_Waalkes "wikilink"), [Pretenders](https://zh.wikipedia.org/wiki/Pretenders_\(band\) "wikilink")
 
 <!-- end list -->
 
   - 1996.5.24–26
-      - [Rage Against the
-        Machine](https://zh.wikipedia.org/wiki/Rage_Against_the_Machine "wikilink"),
-        [Kiss](https://zh.wikipedia.org/wiki/Kiss_\(band\) "wikilink"),
-        [Bryan
-        Adams](https://zh.wikipedia.org/wiki/Bryan_Adams "wikilink"),
-        [Dave Matthews
-        Band](https://zh.wikipedia.org/wiki/Dave_Matthews_Band "wikilink"),
-        [Herbert
-        Grönemeyer](https://zh.wikipedia.org/wiki/Herbert_Grönemeyer "wikilink"),
-        [Die Toten
-        Hosen](https://zh.wikipedia.org/wiki/Die_Toten_Hosen "wikilink"),
-        [Sting](https://zh.wikipedia.org/wiki/Sting_\(musician\) "wikilink"),
-        [Fugees](https://zh.wikipedia.org/wiki/Fugees "wikilink"),
-        [Alanis
-        Morissette](https://zh.wikipedia.org/wiki/Alanis_Morissette "wikilink"),
-        [Héroes del
-        Silencio](https://zh.wikipedia.org/wiki/Héroes_del_Silencio "wikilink"),
-        [Bush](https://zh.wikipedia.org/wiki/Bush_\(band\) "wikilink"),
-        [Mike + The
-        Mechanics](https://zh.wikipedia.org/wiki/Mike_+_The_Mechanics "wikilink"),
-        [Sepultura](https://zh.wikipedia.org/wiki/Sepultura "wikilink"),
-        [Rancid](https://zh.wikipedia.org/wiki/Rancid_\(band\) "wikilink"),
-        [Paradise
-        Lost](https://zh.wikipedia.org/wiki/Paradise_Lost_\(band\) "wikilink")
+      - [Rage Against the Machine](https://zh.wikipedia.org/wiki/Rage_Against_the_Machine "wikilink"), [Kiss](https://zh.wikipedia.org/wiki/Kiss_\(band\) "wikilink"), [Bryan Adams](https://zh.wikipedia.org/wiki/Bryan_Adams "wikilink"), [Dave Matthews Band](https://zh.wikipedia.org/wiki/Dave_Matthews_Band "wikilink"), [Herbert Grönemeyer](https://zh.wikipedia.org/wiki/Herbert_Grönemeyer "wikilink"), [Die Toten Hosen](https://zh.wikipedia.org/wiki/Die_Toten_Hosen "wikilink"), [Sting](https://zh.wikipedia.org/wiki/Sting_\(musician\) "wikilink"), [Fugees](https://zh.wikipedia.org/wiki/Fugees "wikilink"), [Alanis Morissette](https://zh.wikipedia.org/wiki/Alanis_Morissette "wikilink"), [Héroes del Silencio](https://zh.wikipedia.org/wiki/Héroes_del_Silencio "wikilink"), [Bush](https://zh.wikipedia.org/wiki/Bush_\(band\) "wikilink"), [Mike + The Mechanics](https://zh.wikipedia.org/wiki/Mike_+_The_Mechanics "wikilink"), [Sepultura](https://zh.wikipedia.org/wiki/Sepultura "wikilink"), [Rancid](https://zh.wikipedia.org/wiki/Rancid_\(band\) "wikilink"), [Paradise Lost](https://zh.wikipedia.org/wiki/Paradise_Lost_\(band\) "wikilink")
 
 <!-- end list -->
 
   - 1997.5.16–18
-      - [Soraya](https://zh.wikipedia.org/wiki/Soraya_\(musician\) "wikilink"),
-        [Kiss](https://zh.wikipedia.org/wiki/Kiss_\(band\) "wikilink"),
-        [Aerosmith](https://zh.wikipedia.org/wiki/Aerosmith "wikilink"),
-        [Die Ärzte](https://zh.wikipedia.org/wiki/Die_Ärzte "wikilink"),
-        [Supertramp](https://zh.wikipedia.org/wiki/Supertramp "wikilink"),
-        [Texas](https://zh.wikipedia.org/wiki/Texas_\(band\) "wikilink"),
-        [Neneh
-        Cherry](https://zh.wikipedia.org/wiki/Neneh_Cherry "wikilink"),
-        [Faith No
-        More](https://zh.wikipedia.org/wiki/Faith_No_More "wikilink")
+      - [Soraya](https://zh.wikipedia.org/wiki/Soraya_\(musician\) "wikilink"), [Kiss](https://zh.wikipedia.org/wiki/Kiss_\(band\) "wikilink"), [Aerosmith](https://zh.wikipedia.org/wiki/Aerosmith "wikilink"), [Die Ärzte](https://zh.wikipedia.org/wiki/Die_Ärzte "wikilink"), [Supertramp](https://zh.wikipedia.org/wiki/Supertramp "wikilink"), [Texas](https://zh.wikipedia.org/wiki/Texas_\(band\) "wikilink"), [Neneh Cherry](https://zh.wikipedia.org/wiki/Neneh_Cherry "wikilink"), [Faith No More](https://zh.wikipedia.org/wiki/Faith_No_More "wikilink")
 
 <!-- end list -->
 
   - 1998.5.29–31
-      - [Bob Dylan](https://zh.wikipedia.org/wiki/Bob_Dylan "wikilink"),
-        [Genesis](https://zh.wikipedia.org/wiki/Genesis_\(band\) "wikilink"),
-        [Ozzy
-        Osbourne](https://zh.wikipedia.org/wiki/Ozzy_Osbourne "wikilink"),
-        [Rammstein](https://zh.wikipedia.org/wiki/Rammstein "wikilink"),
-        [BAP](https://zh.wikipedia.org/wiki/BAP_\(German_band\) "wikilink"),
-        [The
-        Prodigy](https://zh.wikipedia.org/wiki/The_Prodigy "wikilink"),
-        [Bad
-        Religion](https://zh.wikipedia.org/wiki/Bad_Religion "wikilink"),
-        [The Smashing
-        Pumpkins](https://zh.wikipedia.org/wiki/The_Smashing_Pumpkins "wikilink"),
-        Soulflower
+      - [Bob Dylan](https://zh.wikipedia.org/wiki/Bob_Dylan "wikilink"), [Genesis](https://zh.wikipedia.org/wiki/Genesis_\(band\) "wikilink"), [Ozzy Osbourne](https://zh.wikipedia.org/wiki/Ozzy_Osbourne "wikilink"), [Rammstein](https://zh.wikipedia.org/wiki/Rammstein "wikilink"), [BAP](https://zh.wikipedia.org/wiki/BAP_\(German_band\) "wikilink"), [The Prodigy](https://zh.wikipedia.org/wiki/The_Prodigy "wikilink"), [Bad Religion](https://zh.wikipedia.org/wiki/Bad_Religion "wikilink"), [The Smashing Pumpkins](https://zh.wikipedia.org/wiki/The_Smashing_Pumpkins "wikilink"), Soulflower
 
 <!-- end list -->
 
   - 1999.5.21–23
-      - [Metallica](https://zh.wikipedia.org/wiki/Metallica "wikilink"),
-        [Bryan
-        Adams](https://zh.wikipedia.org/wiki/Bryan_Adams "wikilink"),
-        [Alanis
-        Morissette](https://zh.wikipedia.org/wiki/Alanis_Morissette "wikilink"),
-        [Xavier
-        Naidoo](https://zh.wikipedia.org/wiki/Xavier_Naidoo "wikilink"),
-        [Robbie
-        Williams](https://zh.wikipedia.org/wiki/Robbie_Williams "wikilink"),
-        [Faithless](https://zh.wikipedia.org/wiki/Faithless "wikilink"),
-        [Skunk
-        Anansie](https://zh.wikipedia.org/wiki/Skunk_Anansie "wikilink")
+      - [Metallica](https://zh.wikipedia.org/wiki/Metallica "wikilink"), [Bryan Adams](https://zh.wikipedia.org/wiki/Bryan_Adams "wikilink"), [Alanis Morissette](https://zh.wikipedia.org/wiki/Alanis_Morissette "wikilink"), [Xavier Naidoo](https://zh.wikipedia.org/wiki/Xavier_Naidoo "wikilink"), [Robbie Williams](https://zh.wikipedia.org/wiki/Robbie_Williams "wikilink"), [Faithless](https://zh.wikipedia.org/wiki/Faithless "wikilink"), [Skunk Anansie](https://zh.wikipedia.org/wiki/Skunk_Anansie "wikilink")
 
 <!-- end list -->
 
   - 2000.6.9–11
-      - [Oasis](https://zh.wikipedia.org/wiki/Oasis_\(band\) "wikilink"),
-        [Pearl Jam](https://zh.wikipedia.org/wiki/Pearl_Jam "wikilink"),
-        [Slipknot](https://zh.wikipedia.org/wiki/Slipknot_\(band\) "wikilink"),
-        [Die Toten
-        Hosen](https://zh.wikipedia.org/wiki/Die_Toten_Hosen "wikilink"),
-        [Sting](https://zh.wikipedia.org/wiki/Sting_\(musician\) "wikilink"),
-        [Eurythmics](https://zh.wikipedia.org/wiki/Eurythmics "wikilink"),
-        [Korn](../Page/Korn.md "wikilink"), [Rage Against the
-        Machine](https://zh.wikipedia.org/wiki/Rage_Against_the_Machine "wikilink")
+      - [Oasis](https://zh.wikipedia.org/wiki/Oasis_\(band\) "wikilink"), [Pearl Jam](https://zh.wikipedia.org/wiki/Pearl_Jam "wikilink"), [Slipknot](https://zh.wikipedia.org/wiki/Slipknot_\(band\) "wikilink"), [Die Toten Hosen](https://zh.wikipedia.org/wiki/Die_Toten_Hosen "wikilink"), [Sting](https://zh.wikipedia.org/wiki/Sting_\(musician\) "wikilink"), [Eurythmics](https://zh.wikipedia.org/wiki/Eurythmics "wikilink"), [Korn](../Page/Korn.md "wikilink"), [Rage Against the Machine](https://zh.wikipedia.org/wiki/Rage_Against_the_Machine "wikilink")
 
 <!-- end list -->
 
   - 2001.6.1–3
-      - [Blackmail](https://zh.wikipedia.org/wiki/Blackmail_\(band\) "wikilink"),
-        [HIM](https://zh.wikipedia.org/wiki/HIM_\(Finnish_band\) "wikilink"),
-        [Limp
-        Bizkit](https://zh.wikipedia.org/wiki/Limp_Bizkit "wikilink"),
-        [Linkin
-        Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink"),
-        [Radiohead](https://zh.wikipedia.org/wiki/Radiohead "wikilink"),
-        [Alanis
-        Morissette](https://zh.wikipedia.org/wiki/Alanis_Morissette "wikilink"),
-        [Kid Rock](https://zh.wikipedia.org/wiki/Kid_Rock "wikilink"),
-        [Godsmack](https://zh.wikipedia.org/wiki/Godsmack "wikilink"),
-        [OutKast](https://zh.wikipedia.org/wiki/OutKast "wikilink"),
-        [Reamonn](https://zh.wikipedia.org/wiki/Reamonn "wikilink"),
-        [Hed PE](https://zh.wikipedia.org/wiki/Hed_PE "wikilink")
+      - [Blackmail](https://zh.wikipedia.org/wiki/Blackmail_\(band\) "wikilink"), [HIM](https://zh.wikipedia.org/wiki/HIM_\(Finnish_band\) "wikilink"), [Limp Bizkit](https://zh.wikipedia.org/wiki/Limp_Bizkit "wikilink"), [Linkin Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink"), [Radiohead](https://zh.wikipedia.org/wiki/Radiohead "wikilink"), [Alanis Morissette](https://zh.wikipedia.org/wiki/Alanis_Morissette "wikilink"), [Kid Rock](https://zh.wikipedia.org/wiki/Kid_Rock "wikilink"), [Godsmack](https://zh.wikipedia.org/wiki/Godsmack "wikilink"), [OutKast](https://zh.wikipedia.org/wiki/OutKast "wikilink"), [Reamonn](https://zh.wikipedia.org/wiki/Reamonn "wikilink"), [Hed PE](https://zh.wikipedia.org/wiki/Hed_PE "wikilink")
 
 <!-- end list -->
 
   - 2002.5.17–19
-      - [Lenny
-        Kravitz](https://zh.wikipedia.org/wiki/Lenny_Kravitz "wikilink"),
-        [Carlos
-        Santana](https://zh.wikipedia.org/wiki/Carlos_Santana "wikilink"),
-        [Faithless](https://zh.wikipedia.org/wiki/Faithless "wikilink"),
-        [Neil
-        Young](https://zh.wikipedia.org/wiki/Neil_Young "wikilink"),
-        [Jamiroquai](https://zh.wikipedia.org/wiki/Jamiroquai "wikilink"),
-        [Wyclef
-        Jean](https://zh.wikipedia.org/wiki/Wyclef_Jean "wikilink"),
-        [P.O.D.](https://zh.wikipedia.org/wiki/P.O.D. "wikilink"),
-        [Drowning
-        Pool](https://zh.wikipedia.org/wiki/Drowning_Pool "wikilink"),
-        [Ozzy
-        Osbourne](https://zh.wikipedia.org/wiki/Ozzy_Osbourne "wikilink"),
-        [Alien Ant
-        Farm](https://zh.wikipedia.org/wiki/Alien_Ant_Farm "wikilink"),
-        [System of a
-        Down](https://zh.wikipedia.org/wiki/System_of_a_Down "wikilink"),
-        [Natalie
-        Merchant](https://zh.wikipedia.org/wiki/Natalie_Merchant "wikilink"),
-        [Bad
-        Religion](https://zh.wikipedia.org/wiki/Bad_Religion "wikilink"),
-        [Muse](https://zh.wikipedia.org/wiki/Muse "wikilink")
+      - [Lenny Kravitz](https://zh.wikipedia.org/wiki/Lenny_Kravitz "wikilink"), [Carlos Santana](https://zh.wikipedia.org/wiki/Carlos_Santana "wikilink"), [Faithless](https://zh.wikipedia.org/wiki/Faithless "wikilink"), [Neil Young](https://zh.wikipedia.org/wiki/Neil_Young "wikilink"), [Jamiroquai](https://zh.wikipedia.org/wiki/Jamiroquai "wikilink"), [Wyclef Jean](https://zh.wikipedia.org/wiki/Wyclef_Jean "wikilink"), [P.O.D.](https://zh.wikipedia.org/wiki/P.O.D. "wikilink"), [Drowning Pool](https://zh.wikipedia.org/wiki/Drowning_Pool "wikilink"), [Ozzy Osbourne](https://zh.wikipedia.org/wiki/Ozzy_Osbourne "wikilink"), [Alien Ant Farm](https://zh.wikipedia.org/wiki/Alien_Ant_Farm "wikilink"), [System of a Down](https://zh.wikipedia.org/wiki/System_of_a_Down "wikilink"), [Natalie Merchant](https://zh.wikipedia.org/wiki/Natalie_Merchant "wikilink"), [Bad Religion](https://zh.wikipedia.org/wiki/Bad_Religion "wikilink"), [Muse](https://zh.wikipedia.org/wiki/Muse "wikilink")
 
 <!-- end list -->
 
   - 2003.6.6–8
-      - [Audioslave](https://zh.wikipedia.org/wiki/Audioslave "wikilink"),
-        [Iron
-        Maiden](https://zh.wikipedia.org/wiki/Iron_Maiden "wikilink"),
-        [Metallica](https://zh.wikipedia.org/wiki/Metallica "wikilink"),
-        [Placebo](https://zh.wikipedia.org/wiki/Placebo_\(band\) "wikilink"),[Evanescence](https://zh.wikipedia.org/wiki/Evanescence "wikilink"),
-        [Apocalyptica](https://zh.wikipedia.org/wiki/Apocalyptica "wikilink"),
-        [Marilyn
-        Manson](https://zh.wikipedia.org/wiki/Marilyn_Manson_\(band\) "wikilink"),
-        [Deftones](https://zh.wikipedia.org/wiki/Deftones "wikilink"),
-        [Queens of the Stone
-        Age](https://zh.wikipedia.org/wiki/Queens_of_the_Stone_Age "wikilink"),
-        [Zwan](https://zh.wikipedia.org/wiki/Zwan "wikilink"), [The
-        Cardigans](https://zh.wikipedia.org/wiki/The_Cardigans "wikilink"),
-        [Maná](../Page/Maná.md "wikilink"),
-        [Molotov](https://zh.wikipedia.org/wiki/Molotov_\(band\) "wikilink"),
-        [Lifehouse](https://zh.wikipedia.org/wiki/Lifehouse_\(band\) "wikilink"),
-        [The
-        Donnas](https://zh.wikipedia.org/wiki/The_Donnas "wikilink"),
-        [Murderdolls](https://zh.wikipedia.org/wiki/Murderdolls "wikilink"),
-        [Reamonn](https://zh.wikipedia.org/wiki/Reamonn "wikilink"),
-        [Silverchair](https://zh.wikipedia.org/wiki/Silverchair "wikilink"),
-        [The Hives](https://zh.wikipedia.org/wiki/The_Hives "wikilink"),
-        [The Dandy
-        Warhols](https://zh.wikipedia.org/wiki/The_Dandy_Warhols "wikilink"),
-        [Die Happy](https://zh.wikipedia.org/wiki/Die_Happy "wikilink"),
-        [blackmail](https://zh.wikipedia.org/wiki/blackmail_\(band\) "wikilink"),
-        [M.I.A.](https://zh.wikipedia.org/wiki/M.I.A._\(band\) "wikilink"),
-        Joachim Deutschland, Whyte Seeds, [Stone
-        Sour](https://zh.wikipedia.org/wiki/Stone_Sour "wikilink"),
-        [Clawfinger](https://zh.wikipedia.org/wiki/Clawfinger "wikilink"),
-        [Emil
-        Bulls](https://zh.wikipedia.org/wiki/Emil_Bulls "wikilink"),
-        [Dave
-        Gahan](https://zh.wikipedia.org/wiki/Dave_Gahan "wikilink"),
-        [Stereophonics](https://zh.wikipedia.org/wiki/Stereophonics "wikilink"),
-        [Badly Drawn
-        Boy](https://zh.wikipedia.org/wiki/Badly_Drawn_Boy "wikilink"),
-        [Turin
-        Brakes](https://zh.wikipedia.org/wiki/Turin_Brakes "wikilink"),
-        Tomte, [The
-        Ark](https://zh.wikipedia.org/wiki/The_Ark_\(band\) "wikilink"),
-        [Saybia](https://zh.wikipedia.org/wiki/Saybia "wikilink"),
-        Surrogat,
-        [Disturbed](https://zh.wikipedia.org/wiki/Disturbed_\(band\) "wikilink"),
-        [Boysetsfire](https://zh.wikipedia.org/wiki/Boysetsfire "wikilink"),
-        [Moby](https://zh.wikipedia.org/wiki/Moby "wikilink"),
-        [Beginner](https://zh.wikipedia.org/wiki/Beginner_\(band\) "wikilink"),
-        ASD ([Afrob](https://zh.wikipedia.org/wiki/Afrob "wikilink") &
-        [Samy
-        Deluxe](https://zh.wikipedia.org/wiki/Samy_Deluxe "wikilink")),
-        Patrice, [Saïan Supa
-        Crew](https://zh.wikipedia.org/wiki/Saïan_Supa_Crew "wikilink"),
-        [Deichkind](https://zh.wikipedia.org/wiki/Deichkind "wikilink"),
-        [Kool
-        Savas](https://zh.wikipedia.org/wiki/Kool_Savas "wikilink"),
-        Creutzfeld & Jakob, Rolf Stahlhofen
+      - [Audioslave](https://zh.wikipedia.org/wiki/Audioslave "wikilink"), [Iron Maiden](https://zh.wikipedia.org/wiki/Iron_Maiden "wikilink"), [Metallica](https://zh.wikipedia.org/wiki/Metallica "wikilink"), [Placebo](https://zh.wikipedia.org/wiki/Placebo_\(band\) "wikilink"),[Evanescence](https://zh.wikipedia.org/wiki/Evanescence "wikilink"), [Apocalyptica](https://zh.wikipedia.org/wiki/Apocalyptica "wikilink"), [Marilyn Manson](https://zh.wikipedia.org/wiki/Marilyn_Manson_\(band\) "wikilink"), [Deftones](https://zh.wikipedia.org/wiki/Deftones "wikilink"), [Queens of the Stone Age](https://zh.wikipedia.org/wiki/Queens_of_the_Stone_Age "wikilink"), [Zwan](https://zh.wikipedia.org/wiki/Zwan "wikilink"), [The Cardigans](https://zh.wikipedia.org/wiki/The_Cardigans "wikilink"), [Maná](../Page/Maná.md "wikilink"), [Molotov](https://zh.wikipedia.org/wiki/Molotov_\(band\) "wikilink"), [Lifehouse](https://zh.wikipedia.org/wiki/Lifehouse_\(band\) "wikilink"), [The Donnas](https://zh.wikipedia.org/wiki/The_Donnas "wikilink"), [Murderdolls](https://zh.wikipedia.org/wiki/Murderdolls "wikilink"), [Reamonn](https://zh.wikipedia.org/wiki/Reamonn "wikilink"), [Silverchair](https://zh.wikipedia.org/wiki/Silverchair "wikilink"), [The Hives](https://zh.wikipedia.org/wiki/The_Hives "wikilink"), [The Dandy Warhols](https://zh.wikipedia.org/wiki/The_Dandy_Warhols "wikilink"), [Die Happy](https://zh.wikipedia.org/wiki/Die_Happy "wikilink"), [blackmail](https://zh.wikipedia.org/wiki/blackmail_\(band\) "wikilink"), [M.I.A.](https://zh.wikipedia.org/wiki/M.I.A._\(band\) "wikilink"), Joachim Deutschland, Whyte Seeds, [Stone Sour](https://zh.wikipedia.org/wiki/Stone_Sour "wikilink"), [Clawfinger](https://zh.wikipedia.org/wiki/Clawfinger "wikilink"), [Emil Bulls](https://zh.wikipedia.org/wiki/Emil_Bulls "wikilink"), [Dave Gahan](https://zh.wikipedia.org/wiki/Dave_Gahan "wikilink"), [Stereophonics](https://zh.wikipedia.org/wiki/Stereophonics "wikilink"), [Badly Drawn Boy](https://zh.wikipedia.org/wiki/Badly_Drawn_Boy "wikilink"), [Turin Brakes](https://zh.wikipedia.org/wiki/Turin_Brakes "wikilink"), Tomte, [The Ark](https://zh.wikipedia.org/wiki/The_Ark_\(band\) "wikilink"), [Saybia](https://zh.wikipedia.org/wiki/Saybia "wikilink"), Surrogat, [Disturbed](https://zh.wikipedia.org/wiki/Disturbed_\(band\) "wikilink"), [Boysetsfire](https://zh.wikipedia.org/wiki/Boysetsfire "wikilink"), [Moby](https://zh.wikipedia.org/wiki/Moby "wikilink"), [Beginner](https://zh.wikipedia.org/wiki/Beginner_\(band\) "wikilink"), ASD ([Afrob](https://zh.wikipedia.org/wiki/Afrob "wikilink") & [Samy Deluxe](https://zh.wikipedia.org/wiki/Samy_Deluxe "wikilink")), Patrice, [Saïan Supa Crew](https://zh.wikipedia.org/wiki/Saïan_Supa_Crew "wikilink"), [Deichkind](https://zh.wikipedia.org/wiki/Deichkind "wikilink"), [Kool Savas](https://zh.wikipedia.org/wiki/Kool_Savas "wikilink"), Creutzfeld & Jakob, Rolf Stahlhofen
 
 <!-- end list -->
 
   - 2004.6.4–6
-      - [Red Hot Chili
-        Peppers](https://zh.wikipedia.org/wiki/Red_Hot_Chili_Peppers "wikilink"),
-        [Muse](https://zh.wikipedia.org/wiki/Muse_\(band\) "wikilink"),
-        [Nickelback](https://zh.wikipedia.org/wiki/Nickelback "wikilink"),
-        [Evanescence](https://zh.wikipedia.org/wiki/Evanescence "wikilink"),
-        [Die Toten
-        Hosen](https://zh.wikipedia.org/wiki/Die_Toten_Hosen "wikilink"),
-        [Faithless](https://zh.wikipedia.org/wiki/Faithless "wikilink"),
-        [Bad
-        Religion](https://zh.wikipedia.org/wiki/Bad_Religion "wikilink"),
-        [Moloko](https://zh.wikipedia.org/wiki/Moloko "wikilink"),
-        [Avril
-        Lavigne](https://zh.wikipedia.org/wiki/Avril_Lavigne "wikilink"),
-        [Wir sind
-        Helden](https://zh.wikipedia.org/wiki/Wir_sind_Helden "wikilink"),
-        [Linkin
-        Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")
-        (Rock am Ring only),
-        [Lostprophets](https://zh.wikipedia.org/wiki/Lostprophets "wikilink"),
-        [Motörhead](https://zh.wikipedia.org/wiki/Motörhead "wikilink"),
-        [Sportfreunde
-        Stiller](../Page/Sportfreunde_Stiller.md "wikilink"), [The
-        Rasmus](https://zh.wikipedia.org/wiki/The_Rasmus "wikilink"),
-        [Seeed](https://zh.wikipedia.org/wiki/Seeed "wikilink"),
-        [Korn](../Page/Korn.md "wikilink"), [3 Doors
-        Down](https://zh.wikipedia.org/wiki/3_Doors_Down "wikilink"),
-        [Lagwagon](https://zh.wikipedia.org/wiki/Lagwagon "wikilink"),
-        [H-Blockx](https://zh.wikipedia.org/wiki/H-Blockx "wikilink"),
-        [Dover](https://zh.wikipedia.org/wiki/Dover "wikilink")
+      - [Red Hot Chili Peppers](https://zh.wikipedia.org/wiki/Red_Hot_Chili_Peppers "wikilink"), [Muse](https://zh.wikipedia.org/wiki/Muse_\(band\) "wikilink"), [Nickelback](https://zh.wikipedia.org/wiki/Nickelback "wikilink"), [Evanescence](https://zh.wikipedia.org/wiki/Evanescence "wikilink"), [Die Toten Hosen](https://zh.wikipedia.org/wiki/Die_Toten_Hosen "wikilink"), [Faithless](https://zh.wikipedia.org/wiki/Faithless "wikilink"), [Bad Religion](https://zh.wikipedia.org/wiki/Bad_Religion "wikilink"), [Moloko](https://zh.wikipedia.org/wiki/Moloko "wikilink"), [Avril Lavigne](https://zh.wikipedia.org/wiki/Avril_Lavigne "wikilink"), [Wir sind Helden](https://zh.wikipedia.org/wiki/Wir_sind_Helden "wikilink"), [Linkin Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink") (Rock am Ring only), [Lostprophets](https://zh.wikipedia.org/wiki/Lostprophets "wikilink"), [Motörhead](https://zh.wikipedia.org/wiki/Motörhead "wikilink"), [Sportfreunde Stiller](../Page/Sportfreunde_Stiller.md "wikilink"), [The Rasmus](https://zh.wikipedia.org/wiki/The_Rasmus "wikilink"), [Seeed](https://zh.wikipedia.org/wiki/Seeed "wikilink"), [Korn](../Page/Korn.md "wikilink"), [3 Doors Down](https://zh.wikipedia.org/wiki/3_Doors_Down "wikilink"), [Lagwagon](https://zh.wikipedia.org/wiki/Lagwagon "wikilink"), [H-Blockx](https://zh.wikipedia.org/wiki/H-Blockx "wikilink"), [Dover](https://zh.wikipedia.org/wiki/Dover "wikilink")
 
 [Rock_am_Ring_2006.jpg](https://zh.wikipedia.org/wiki/File:Rock_am_Ring_2006.jpg "fig:Rock_am_Ring_2006.jpg")
 
   - 2005.6.3–5
-      - [Iron
-        Maiden](https://zh.wikipedia.org/wiki/Iron_Maiden "wikilink"),
-        [R.E.M.](../Page/R.E.M..md "wikilink"),
-        [HIM](https://zh.wikipedia.org/wiki/HIM_\(Finnish_band\) "wikilink"),
-        [Wir sind
-        Helden](https://zh.wikipedia.org/wiki/Wir_sind_Helden "wikilink"),
-        [Mudvayne](https://zh.wikipedia.org/wiki/Mudvayne "wikilink"),
-        [Melody
-        Club](https://zh.wikipedia.org/wiki/Melody_Club "wikilink"),
-        [Green Day](https://zh.wikipedia.org/wiki/Green_Day "wikilink"),
-        [Incubus](https://zh.wikipedia.org/wiki/Incubus_\(band\) "wikilink"),
-        [The Hives](https://zh.wikipedia.org/wiki/The_Hives "wikilink"),
-        [Slayer](https://zh.wikipedia.org/wiki/Slayer "wikilink"),
-        [Marilyn
-        Manson](https://zh.wikipedia.org/wiki/Marilyn_Manson_\(band\) "wikilink"),
-        [3 Doors
-        Down](https://zh.wikipedia.org/wiki/3_Doors_Down "wikilink"),
-        [Helmet](https://zh.wikipedia.org/wiki/Helmet_\(band\) "wikilink"),
-        [Billy
-        Idol](https://zh.wikipedia.org/wiki/Billy_Idol "wikilink"),
-        [Velvet
-        Revolver](https://zh.wikipedia.org/wiki/Velvet_Revolver "wikilink"),
-        [Feeder](https://zh.wikipedia.org/wiki/Feeder "wikilink"), [The
-        Prodigy](https://zh.wikipedia.org/wiki/The_Prodigy "wikilink"),
-        [The Chemical
-        Brothers](https://zh.wikipedia.org/wiki/The_Chemical_Brothers "wikilink"),
-        [Slipknot](https://zh.wikipedia.org/wiki/Slipknot_\(band\) "wikilink"),
-        [Mötley
-        Crüe](https://zh.wikipedia.org/wiki/Mötley_Crüe "wikilink"),
-        [Fettes
-        Brot](https://zh.wikipedia.org/wiki/Fettes_Brot "wikilink"),
-        [Mando
-        Diao](https://zh.wikipedia.org/wiki/Mando_Diao "wikilink"),
-        [Subway to
-        Sally](https://zh.wikipedia.org/wiki/Subway_to_Sally "wikilink"),
-        [Apocalyptica](https://zh.wikipedia.org/wiki/Apocalyptica "wikilink"),
-        [Die Toten
-        Hosen](https://zh.wikipedia.org/wiki/Die_Toten_Hosen "wikilink"),
-        [Wednesday
-        13](https://zh.wikipedia.org/wiki/Wednesday_13 "wikilink"), [Dir
-        En Grey](https://zh.wikipedia.org/wiki/Dir_En_Grey "wikilink"),
-        [Kagerou](https://zh.wikipedia.org/wiki/Kagerou_\(band\) "wikilink"),
-        [Maroon 5](https://zh.wikipedia.org/wiki/Maroon_5 "wikilink"),
-        [Papa
-        Roach](https://zh.wikipedia.org/wiki/Papa_Roach "wikilink"),
-        [Within
-        Temptation](https://zh.wikipedia.org/wiki/Within_Temptation "wikilink"),
-        [Weezer](https://zh.wikipedia.org/wiki/Weezer "wikilink"),
-        [Black
-        Raven](https://zh.wikipedia.org/wiki/Black_Raven "wikilink")
+      - [Iron Maiden](https://zh.wikipedia.org/wiki/Iron_Maiden "wikilink"), [R.E.M.](../Page/R.E.M..md "wikilink"), [HIM](https://zh.wikipedia.org/wiki/HIM_\(Finnish_band\) "wikilink"), [Wir sind Helden](https://zh.wikipedia.org/wiki/Wir_sind_Helden "wikilink"), [Mudvayne](https://zh.wikipedia.org/wiki/Mudvayne "wikilink"), [Melody Club](https://zh.wikipedia.org/wiki/Melody_Club "wikilink"), [Green Day](https://zh.wikipedia.org/wiki/Green_Day "wikilink"), [Incubus](https://zh.wikipedia.org/wiki/Incubus_\(band\) "wikilink"), [The Hives](https://zh.wikipedia.org/wiki/The_Hives "wikilink"), [Slayer](https://zh.wikipedia.org/wiki/Slayer "wikilink"), [Marilyn Manson](https://zh.wikipedia.org/wiki/Marilyn_Manson_\(band\) "wikilink"), [3 Doors Down](https://zh.wikipedia.org/wiki/3_Doors_Down "wikilink"), [Helmet](https://zh.wikipedia.org/wiki/Helmet_\(band\) "wikilink"), [Billy Idol](https://zh.wikipedia.org/wiki/Billy_Idol "wikilink"), [Velvet Revolver](https://zh.wikipedia.org/wiki/Velvet_Revolver "wikilink"), [Feeder](https://zh.wikipedia.org/wiki/Feeder "wikilink"), [The Prodigy](https://zh.wikipedia.org/wiki/The_Prodigy "wikilink"), [The Chemical Brothers](https://zh.wikipedia.org/wiki/The_Chemical_Brothers "wikilink"), [Slipknot](https://zh.wikipedia.org/wiki/Slipknot_\(band\) "wikilink"), [Mötley Crüe](https://zh.wikipedia.org/wiki/Mötley_Crüe "wikilink"), [Fettes Brot](https://zh.wikipedia.org/wiki/Fettes_Brot "wikilink"), [Mando Diao](https://zh.wikipedia.org/wiki/Mando_Diao "wikilink"), [Subway to Sally](https://zh.wikipedia.org/wiki/Subway_to_Sally "wikilink"), [Apocalyptica](https://zh.wikipedia.org/wiki/Apocalyptica "wikilink"), [Die Toten Hosen](https://zh.wikipedia.org/wiki/Die_Toten_Hosen "wikilink"), [Wednesday 13](https://zh.wikipedia.org/wiki/Wednesday_13 "wikilink"), [Dir En Grey](https://zh.wikipedia.org/wiki/Dir_En_Grey "wikilink"), [Kagerou](https://zh.wikipedia.org/wiki/Kagerou_\(band\) "wikilink"), [Maroon 5](https://zh.wikipedia.org/wiki/Maroon_5 "wikilink"), [Papa Roach](https://zh.wikipedia.org/wiki/Papa_Roach "wikilink"), [Within Temptation](https://zh.wikipedia.org/wiki/Within_Temptation "wikilink"), [Weezer](https://zh.wikipedia.org/wiki/Weezer "wikilink"), [Black Raven](https://zh.wikipedia.org/wiki/Black_Raven "wikilink")
 
 <!-- end list -->
 
   - 2006.6.2–4
-      - [Guns N'
-        Roses](https://zh.wikipedia.org/wiki/Guns_N'_Roses "wikilink"),
-        [Kaizers
-        Orchestra](https://zh.wikipedia.org/wiki/Kaizers_Orchestra "wikilink"),
-        [Korn](../Page/Korn.md "wikilink") and
-        [Metallica](https://zh.wikipedia.org/wiki/Metallica "wikilink"),
-        [Angels &
-        Airwaves](https://zh.wikipedia.org/wiki/Angels_&_Airwaves "wikilink"),
-        [Trivium](https://zh.wikipedia.org/wiki/Trivium_\(band\) "wikilink"),
-        [Alter
-        Bridge](https://zh.wikipedia.org/wiki/Alter_Bridge "wikilink"),
-        [Avenged
-        Sevenfold](https://zh.wikipedia.org/wiki/Avenged_Sevenfold "wikilink"),
-        [Cradle of
-        Filth](https://zh.wikipedia.org/wiki/Cradle_of_Filth "wikilink"),
-        [Depeche
-        Mode](https://zh.wikipedia.org/wiki/Depeche_Mode "wikilink"),
-        [The
-        Darkness](https://zh.wikipedia.org/wiki/The_Darkness_\(band\) "wikilink"),
-        [Placebo](https://zh.wikipedia.org/wiki/Placebo_\(band\) "wikilink"),
-        [Morrissey](https://zh.wikipedia.org/wiki/Morrissey "wikilink"),
-        [Franz
-        Ferdinand](https://zh.wikipedia.org/wiki/Franz_Ferdinand_\(band\) "wikilink"),
-        [Deftones](https://zh.wikipedia.org/wiki/Deftones "wikilink"),
-        [Editors](../Page/Editors.md "wikilink"), [Bela
-        B.](https://zh.wikipedia.org/wiki/Die_Ärzte "wikilink"), [Nelly
-        Furtado](https://zh.wikipedia.org/wiki/Nelly_Furtado "wikilink"),
-        [Sportfreunde
-        Stiller](../Page/Sportfreunde_Stiller.md "wikilink"), [Kaiser
-        Chiefs](https://zh.wikipedia.org/wiki/Kaiser_Chiefs "wikilink"),
-        [Tool](https://zh.wikipedia.org/wiki/Tool_\(band\) "wikilink"),
-        [Jamiroquai](https://zh.wikipedia.org/wiki/Jamiroquai "wikilink"),
-        [Dir En
-        Grey](https://zh.wikipedia.org/wiki/Dir_En_Grey "wikilink"),
-        [Atreyu](https://zh.wikipedia.org/wiki/Atreyu_\(band\) "wikilink"),
-        [In Flames](https://zh.wikipedia.org/wiki/In_Flames "wikilink"),
-        [Opeth](https://zh.wikipedia.org/wiki/Opeth "wikilink"),
-        [Bloodhound
-        Gang](https://zh.wikipedia.org/wiki/Bloodhound_Gang "wikilink"),
-        [Kagerou](https://zh.wikipedia.org/wiki/Kagerou_\(band\) "wikilink"),
-        [Danko
-        Jones](https://zh.wikipedia.org/wiki/Danko_Jones "wikilink"),
-        [Bullet for My
-        Valentine](https://zh.wikipedia.org/wiki/Bullet_for_My_Valentine "wikilink"),
-        [Alice in
-        Chains](https://zh.wikipedia.org/wiki/Alice_in_Chains "wikilink"),
-        [Stone
-        Sour](https://zh.wikipedia.org/wiki/Stone_Sour "wikilink"),
-        [Point
-        Blank](https://zh.wikipedia.org/wiki/Point_Blank_\(band\) "wikilink"),
-        [The
-        Zutons](https://zh.wikipedia.org/wiki/The_Zutons "wikilink"),
-        [Strapping Young
-        Lad](https://zh.wikipedia.org/wiki/Strapping_Young_Lad "wikilink"),
-        [She Wants
-        Revenge](https://zh.wikipedia.org/wiki/She_Wants_Revenge "wikilink")
+      - [Guns N' Roses](https://zh.wikipedia.org/wiki/Guns_N'_Roses "wikilink"), [Kaizers Orchestra](https://zh.wikipedia.org/wiki/Kaizers_Orchestra "wikilink"), [Korn](../Page/Korn.md "wikilink") and [Metallica](https://zh.wikipedia.org/wiki/Metallica "wikilink"), [Angels & Airwaves](https://zh.wikipedia.org/wiki/Angels_&_Airwaves "wikilink"), [Trivium](https://zh.wikipedia.org/wiki/Trivium_\(band\) "wikilink"), [Alter Bridge](https://zh.wikipedia.org/wiki/Alter_Bridge "wikilink"), [Avenged Sevenfold](https://zh.wikipedia.org/wiki/Avenged_Sevenfold "wikilink"), [Cradle of Filth](https://zh.wikipedia.org/wiki/Cradle_of_Filth "wikilink"), [Depeche Mode](https://zh.wikipedia.org/wiki/Depeche_Mode "wikilink"), [The Darkness](https://zh.wikipedia.org/wiki/The_Darkness_\(band\) "wikilink"), [Placebo](https://zh.wikipedia.org/wiki/Placebo_\(band\) "wikilink"), [Morrissey](https://zh.wikipedia.org/wiki/Morrissey "wikilink"), [Franz Ferdinand](https://zh.wikipedia.org/wiki/Franz_Ferdinand_\(band\) "wikilink"), [Deftones](https://zh.wikipedia.org/wiki/Deftones "wikilink"), [Editors](../Page/Editors.md "wikilink"), [Bela B.](https://zh.wikipedia.org/wiki/Die_Ärzte "wikilink"), [Nelly Furtado](https://zh.wikipedia.org/wiki/Nelly_Furtado "wikilink"), [Sportfreunde Stiller](../Page/Sportfreunde_Stiller.md "wikilink"), [Kaiser Chiefs](https://zh.wikipedia.org/wiki/Kaiser_Chiefs "wikilink"), [Tool](https://zh.wikipedia.org/wiki/Tool_\(band\) "wikilink"), [Jamiroquai](https://zh.wikipedia.org/wiki/Jamiroquai "wikilink"), [Dir En Grey](https://zh.wikipedia.org/wiki/Dir_En_Grey "wikilink"), [Atreyu](https://zh.wikipedia.org/wiki/Atreyu_\(band\) "wikilink"), [In Flames](https://zh.wikipedia.org/wiki/In_Flames "wikilink"), [Opeth](https://zh.wikipedia.org/wiki/Opeth "wikilink"), [Bloodhound Gang](https://zh.wikipedia.org/wiki/Bloodhound_Gang "wikilink"), [Kagerou](https://zh.wikipedia.org/wiki/Kagerou_\(band\) "wikilink"), [Danko Jones](https://zh.wikipedia.org/wiki/Danko_Jones "wikilink"), [Bullet for My Valentine](https://zh.wikipedia.org/wiki/Bullet_for_My_Valentine "wikilink"), [Alice in Chains](https://zh.wikipedia.org/wiki/Alice_in_Chains "wikilink"), [Stone Sour](https://zh.wikipedia.org/wiki/Stone_Sour "wikilink"), [Point Blank](https://zh.wikipedia.org/wiki/Point_Blank_\(band\) "wikilink"), [The Zutons](https://zh.wikipedia.org/wiki/The_Zutons "wikilink"), [Strapping Young Lad](https://zh.wikipedia.org/wiki/Strapping_Young_Lad "wikilink"), [She Wants Revenge](https://zh.wikipedia.org/wiki/She_Wants_Revenge "wikilink")
 
 <!-- end list -->
 
@@ -833,457 +156,32 @@ im Park就在纽伦堡的法兰克人体育场或周边地区举办。
 
 [Rock_am_ring_2007_mainstage.jpg](https://zh.wikipedia.org/wiki/File:Rock_am_ring_2007_mainstage.jpg "fig:Rock_am_ring_2007_mainstage.jpg")
 
-  -   - [Linkin
-        Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink"),
-        [The Smashing
-        Pumpkins](https://zh.wikipedia.org/wiki/The_Smashing_Pumpkins "wikilink"),
-        [Die Ärzte](https://zh.wikipedia.org/wiki/Die_Ärzte "wikilink")
-        and [Slayer](https://zh.wikipedia.org/wiki/Slayer "wikilink"),
-        [Evanescence](https://zh.wikipedia.org/wiki/Evanescence "wikilink"),
-        [Korn](../Page/Korn.md "wikilink"), [The White
-        Stripes](https://zh.wikipedia.org/wiki/The_White_Stripes "wikilink"),
-        [Velvet
-        Revolver](https://zh.wikipedia.org/wiki/Velvet_Revolver "wikilink"),
-        [30秒上火星](../Page/30秒上火星.md "wikilink"),
-        [Muse](https://zh.wikipedia.org/wiki/Muse_\(band\) "wikilink"),
-        [Beatsteaks](https://zh.wikipedia.org/wiki/Beatsteaks "wikilink"),
-        [Billy
-        Talent](https://zh.wikipedia.org/wiki/Billy_Talent "wikilink"),
-        [Mando
-        Diao](https://zh.wikipedia.org/wiki/Mando_Diao "wikilink"), [Wir
-        sind
-        Helden](https://zh.wikipedia.org/wiki/Wir_sind_Helden "wikilink"),
-        [Dave Matthews
-        Band](https://zh.wikipedia.org/wiki/Dave_Matthews_Band "wikilink")
-        (withdrew from the event), [The
-        Hives](https://zh.wikipedia.org/wiki/The_Hives "wikilink"),
-        [Arctic
-        Monkeys](https://zh.wikipedia.org/wiki/Arctic_Monkeys "wikilink"),
-        [My Chemical
-        Romance](https://zh.wikipedia.org/wiki/My_Chemical_Romance "wikilink"),
-        [Kaiser
-        Chiefs](https://zh.wikipedia.org/wiki/Kaiser_Chiefs "wikilink"),
-        [Jan Delay & Disko No.
-        1](https://zh.wikipedia.org/wiki/Jan_Delay "wikilink"),
-        [M.I.A.](https://zh.wikipedia.org/wiki/M.I.A._\(band\) "wikilink"),
-        [The Kooks](https://zh.wikipedia.org/wiki/The_Kooks "wikilink"),
-        [Wolfmother](https://zh.wikipedia.org/wiki/Wolfmother "wikilink"),
-        [Stone
-        Sour](https://zh.wikipedia.org/wiki/Stone_Sour "wikilink"), [Amy
-        Winehouse](https://zh.wikipedia.org/wiki/Amy_Winehouse "wikilink")
-        (withdrew from the event), [As I Lay
-        Dying](https://zh.wikipedia.org/wiki/As_I_Lay_Dying_\(band\) "wikilink"),
-        [Bloodsimple](https://zh.wikipedia.org/wiki/Bloodsimple "wikilink"),
-        [Breed 77](https://zh.wikipedia.org/wiki/Breed_77 "wikilink"),
-        [The Cat
-        Empire](https://zh.wikipedia.org/wiki/The_Cat_Empire "wikilink"),
-        [Chimaira](https://zh.wikipedia.org/wiki/Chimaira "wikilink"),
-        [The Cribs](../Page/The_Cribs.md "wikilink"), [Fair to
-        Midland](https://zh.wikipedia.org/wiki/Fair_to_Midland "wikilink"),
-        [Disco
-        Ensemble](https://zh.wikipedia.org/wiki/Disco_Ensemble "wikilink"),
-        [Enter Shikari](../Page/Enter_Shikari.md "wikilink"), [The
-        Fratellis](https://zh.wikipedia.org/wiki/The_Fratellis "wikilink"),
-        [Funeral for a
-        Friend](https://zh.wikipedia.org/wiki/Funeral_for_a_Friend "wikilink"),
-        [Ghosts](https://zh.wikipedia.org/wiki/Ghosts_\(band\) "wikilink"),
-        [Gogol
-        Bordello](https://zh.wikipedia.org/wiki/Gogol_Bordello "wikilink"),
-        [Good
-        Charlotte](https://zh.wikipedia.org/wiki/Good_Charlotte "wikilink"),
-        [The
-        Higher](https://zh.wikipedia.org/wiki/The_Higher "wikilink"),
-        [Hinder](https://zh.wikipedia.org/wiki/Hinder "wikilink"),
-        [Killswitch
-        Engage](https://zh.wikipedia.org/wiki/Killswitch_Engage "wikilink"),
-        [Lamb of
-        God](https://zh.wikipedia.org/wiki/Lamb_of_God_\(band\) "wikilink"),
-        [Little Man
-        Tate](https://zh.wikipedia.org/wiki/Little_Man_Tate_\(band\) "wikilink"),
-        [Machine
-        Head](https://zh.wikipedia.org/wiki/Machine_Head_\(band\) "wikilink"),
-        [Maxïmo
-        Park](https://zh.wikipedia.org/wiki/Maxïmo_Park "wikilink"),
-        [McQueen](https://zh.wikipedia.org/wiki/McQueen_\(band\) "wikilink"),
-        [Megadeth](https://zh.wikipedia.org/wiki/Megadeth "wikilink"),
-        [Mr. Hudson & The
-        Library](https://zh.wikipedia.org/wiki/Mr._Hudson_&_The_Library "wikilink"),
-        [Paolo
-        Nutini](https://zh.wikipedia.org/wiki/Paolo_Nutini "wikilink"),
-        [Papa
-        Roach](https://zh.wikipedia.org/wiki/Papa_Roach "wikilink")
-        (canceled Rock im Park performance due to vocal problems),
-        [Razorlight](https://zh.wikipedia.org/wiki/Razorlight "wikilink"),
-        [Scissor
-        Sisters](https://zh.wikipedia.org/wiki/Scissor_Sisters "wikilink"),
-        [Silverstein](https://zh.wikipedia.org/wiki/Silverstein_\(band\) "wikilink"),
-        [The
-        Sounds](https://zh.wikipedia.org/wiki/The_Sounds "wikilink"),
-        [Sugarplum
-        Fairy](https://zh.wikipedia.org/wiki/Sugarplum_Fairy "wikilink"),
-        [Tele](https://zh.wikipedia.org/wiki/Tele_\(band\) "wikilink"),
-        [Type O
-        Negative](https://zh.wikipedia.org/wiki/Type_O_Negative "wikilink"),
-        [Under the Influence of
-        Giants](https://zh.wikipedia.org/wiki/Under_the_Influence_of_Giants "wikilink"),
-        [The Used](https://zh.wikipedia.org/wiki/The_Used "wikilink"),
-        [Zoot
-        Woman](https://zh.wikipedia.org/wiki/Zoot_Woman "wikilink"),
-        [Aiden](../Page/Aiden.md "wikilink"),
-        [Miasma](https://zh.wikipedia.org/wiki/Miasma_\(band\) "wikilink"),
-        [Charlotte
-        Hatherley](https://zh.wikipedia.org/wiki/Charlotte_Hatherley "wikilink"),
-        [DevilDriver](https://zh.wikipedia.org/wiki/DevilDriver "wikilink"),
-        [Down
-        Below](https://zh.wikipedia.org/wiki/Down_Below_\(band\) "wikilink"),
-        [DragonForce](https://zh.wikipedia.org/wiki/DragonForce "wikilink"),
-        [Finley](https://zh.wikipedia.org/wiki/Finley_\(band\) "wikilink"),
-        [Gallows](https://zh.wikipedia.org/wiki/Gallows_\(band\) "wikilink"),
-        [Groove
-        Armada](https://zh.wikipedia.org/wiki/Groove_Armada "wikilink"),
-        [Head
-        Automatica](https://zh.wikipedia.org/wiki/Head_Automatica "wikilink"),
-        [In This
-        Moment](https://zh.wikipedia.org/wiki/In_This_Moment "wikilink"),
-        Kilian, [Lez
-        Zeppelin](https://zh.wikipedia.org/wiki/Lez_Zeppelin "wikilink"),
-        [The Long
-        Blondes](https://zh.wikipedia.org/wiki/The_Long_Blondes "wikilink")
-        (Rock im Park only), Lost Alone,
-        [Mutemath](https://zh.wikipedia.org/wiki/Mutemath "wikilink"),
-        Ohrbooten, [One Fine
-        Day](https://zh.wikipedia.org/wiki/One_Fine_Day_\(band\) "wikilink"),
-        [Paramore](https://zh.wikipedia.org/wiki/Paramore "wikilink"),
-        [Pohlmann](https://zh.wikipedia.org/wiki/Ingo_Pohlmann "wikilink"),
-        [Revolverheld](https://zh.wikipedia.org/wiki/Revolverheld "wikilink"),
-        [Saosin](https://zh.wikipedia.org/wiki/Saosin "wikilink"), Smoke
-        Blow, [Sunrise
-        Avenue](https://zh.wikipedia.org/wiki/Sunrise_Avenue "wikilink"),
-        [Turbostaat](https://zh.wikipedia.org/wiki/Turbostaat "wikilink"),
-        The Last Exit to Anywhere
+  -   - [Linkin Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink"), [The Smashing Pumpkins](https://zh.wikipedia.org/wiki/The_Smashing_Pumpkins "wikilink"), [Die Ärzte](https://zh.wikipedia.org/wiki/Die_Ärzte "wikilink") and [Slayer](https://zh.wikipedia.org/wiki/Slayer "wikilink"), [Evanescence](https://zh.wikipedia.org/wiki/Evanescence "wikilink"), [Korn](../Page/Korn.md "wikilink"), [The White Stripes](https://zh.wikipedia.org/wiki/The_White_Stripes "wikilink"), [Velvet Revolver](https://zh.wikipedia.org/wiki/Velvet_Revolver "wikilink"), [30秒上火星](../Page/30秒上火星.md "wikilink"), [Muse](https://zh.wikipedia.org/wiki/Muse_\(band\) "wikilink"), [Beatsteaks](https://zh.wikipedia.org/wiki/Beatsteaks "wikilink"), [Billy Talent](https://zh.wikipedia.org/wiki/Billy_Talent "wikilink"), [Mando Diao](https://zh.wikipedia.org/wiki/Mando_Diao "wikilink"), [Wir sind Helden](https://zh.wikipedia.org/wiki/Wir_sind_Helden "wikilink"), [Dave Matthews Band](https://zh.wikipedia.org/wiki/Dave_Matthews_Band "wikilink") (withdrew from the event), [The Hives](https://zh.wikipedia.org/wiki/The_Hives "wikilink"), [Arctic Monkeys](https://zh.wikipedia.org/wiki/Arctic_Monkeys "wikilink"), [My Chemical Romance](https://zh.wikipedia.org/wiki/My_Chemical_Romance "wikilink"), [Kaiser Chiefs](https://zh.wikipedia.org/wiki/Kaiser_Chiefs "wikilink"), [Jan Delay & Disko No. 1](https://zh.wikipedia.org/wiki/Jan_Delay "wikilink"), [M.I.A.](https://zh.wikipedia.org/wiki/M.I.A._\(band\) "wikilink"), [The Kooks](https://zh.wikipedia.org/wiki/The_Kooks "wikilink"), [Wolfmother](https://zh.wikipedia.org/wiki/Wolfmother "wikilink"), [Stone Sour](https://zh.wikipedia.org/wiki/Stone_Sour "wikilink"), [Amy Winehouse](https://zh.wikipedia.org/wiki/Amy_Winehouse "wikilink") (withdrew from the event), [As I Lay Dying](https://zh.wikipedia.org/wiki/As_I_Lay_Dying_\(band\) "wikilink"), [Bloodsimple](https://zh.wikipedia.org/wiki/Bloodsimple "wikilink"), [Breed 77](https://zh.wikipedia.org/wiki/Breed_77 "wikilink"), [The Cat Empire](https://zh.wikipedia.org/wiki/The_Cat_Empire "wikilink"), [Chimaira](https://zh.wikipedia.org/wiki/Chimaira "wikilink"), [The Cribs](../Page/The_Cribs.md "wikilink"), [Fair to Midland](https://zh.wikipedia.org/wiki/Fair_to_Midland "wikilink"), [Disco Ensemble](https://zh.wikipedia.org/wiki/Disco_Ensemble "wikilink"), [Enter Shikari](../Page/Enter_Shikari.md "wikilink"), [The Fratellis](https://zh.wikipedia.org/wiki/The_Fratellis "wikilink"), [Funeral for a Friend](https://zh.wikipedia.org/wiki/Funeral_for_a_Friend "wikilink"), [Ghosts](https://zh.wikipedia.org/wiki/Ghosts_\(band\) "wikilink"), [Gogol Bordello](https://zh.wikipedia.org/wiki/Gogol_Bordello "wikilink"), [Good Charlotte](https://zh.wikipedia.org/wiki/Good_Charlotte "wikilink"), [The Higher](https://zh.wikipedia.org/wiki/The_Higher "wikilink"), [Hinder](https://zh.wikipedia.org/wiki/Hinder "wikilink"), [Killswitch Engage](https://zh.wikipedia.org/wiki/Killswitch_Engage "wikilink"), [Lamb of God](https://zh.wikipedia.org/wiki/Lamb_of_God_\(band\) "wikilink"), [Little Man Tate](https://zh.wikipedia.org/wiki/Little_Man_Tate_\(band\) "wikilink"), [Machine Head](https://zh.wikipedia.org/wiki/Machine_Head_\(band\) "wikilink"), [Maxïmo Park](https://zh.wikipedia.org/wiki/Maxïmo_Park "wikilink"), [McQueen](https://zh.wikipedia.org/wiki/McQueen_\(band\) "wikilink"), [Megadeth](https://zh.wikipedia.org/wiki/Megadeth "wikilink"), [Mr. Hudson & The Library](https://zh.wikipedia.org/wiki/Mr._Hudson_&_The_Library "wikilink"), [Paolo Nutini](https://zh.wikipedia.org/wiki/Paolo_Nutini "wikilink"), [Papa Roach](https://zh.wikipedia.org/wiki/Papa_Roach "wikilink") (canceled Rock im Park performance due to vocal problems), [Razorlight](https://zh.wikipedia.org/wiki/Razorlight "wikilink"), [Scissor Sisters](https://zh.wikipedia.org/wiki/Scissor_Sisters "wikilink"), [Silverstein](https://zh.wikipedia.org/wiki/Silverstein_\(band\) "wikilink"), [The Sounds](https://zh.wikipedia.org/wiki/The_Sounds "wikilink"), [Sugarplum Fairy](https://zh.wikipedia.org/wiki/Sugarplum_Fairy "wikilink"), [Tele](https://zh.wikipedia.org/wiki/Tele_\(band\) "wikilink"), [Type O Negative](https://zh.wikipedia.org/wiki/Type_O_Negative "wikilink"), [Under the Influence of Giants](https://zh.wikipedia.org/wiki/Under_the_Influence_of_Giants "wikilink"), [The Used](https://zh.wikipedia.org/wiki/The_Used "wikilink"), [Zoot Woman](https://zh.wikipedia.org/wiki/Zoot_Woman "wikilink"), [Aiden](../Page/Aiden.md "wikilink"), [Miasma](https://zh.wikipedia.org/wiki/Miasma_\(band\) "wikilink"), [Charlotte Hatherley](https://zh.wikipedia.org/wiki/Charlotte_Hatherley "wikilink"), [DevilDriver](https://zh.wikipedia.org/wiki/DevilDriver "wikilink"), [Down Below](https://zh.wikipedia.org/wiki/Down_Below_\(band\) "wikilink"), [DragonForce](https://zh.wikipedia.org/wiki/DragonForce "wikilink"), [Finley](https://zh.wikipedia.org/wiki/Finley_\(band\) "wikilink"), [Gallows](https://zh.wikipedia.org/wiki/Gallows_\(band\) "wikilink"), [Groove Armada](https://zh.wikipedia.org/wiki/Groove_Armada "wikilink"), [Head Automatica](https://zh.wikipedia.org/wiki/Head_Automatica "wikilink"), [In This Moment](https://zh.wikipedia.org/wiki/In_This_Moment "wikilink"), Kilian, [Lez Zeppelin](https://zh.wikipedia.org/wiki/Lez_Zeppelin "wikilink"), [The Long Blondes](https://zh.wikipedia.org/wiki/The_Long_Blondes "wikilink") (Rock im Park only), Lost Alone, [Mutemath](https://zh.wikipedia.org/wiki/Mutemath "wikilink"), Ohrbooten, [One Fine Day](https://zh.wikipedia.org/wiki/One_Fine_Day_\(band\) "wikilink"), [Paramore](https://zh.wikipedia.org/wiki/Paramore "wikilink"), [Pohlmann](https://zh.wikipedia.org/wiki/Ingo_Pohlmann "wikilink"), [Revolverheld](https://zh.wikipedia.org/wiki/Revolverheld "wikilink"), [Saosin](https://zh.wikipedia.org/wiki/Saosin "wikilink"), Smoke Blow, [Sunrise Avenue](https://zh.wikipedia.org/wiki/Sunrise_Avenue "wikilink"), [Turbostaat](https://zh.wikipedia.org/wiki/Turbostaat "wikilink"), The Last Exit to Anywhere
 
 <!-- end list -->
 
   - 2008.6.6–8
-      - [Die Toten
-        Hosen](https://zh.wikipedia.org/wiki/Die_Toten_Hosen "wikilink"),
-        [Rage Against the
-        Machine](https://zh.wikipedia.org/wiki/Rage_Against_the_Machine "wikilink"),
-        [Metallica](https://zh.wikipedia.org/wiki/Metallica "wikilink")，[HIM](https://zh.wikipedia.org/wiki/HIM_\(Finnish_band\) "wikilink"),
-        [The
-        Prodigy](https://zh.wikipedia.org/wiki/The_Prodigy "wikilink"),
-        [Incubus](https://zh.wikipedia.org/wiki/Incubus_\(band\) "wikilink"),
-        [Sportfreunde
-        Stiller](../Page/Sportfreunde_Stiller.md "wikilink"), [The
-        Verve](https://zh.wikipedia.org/wiki/The_Verve "wikilink"), [The
-        Offspring](https://zh.wikipedia.org/wiki/The_Offspring "wikilink"),
-        [Motörhead](https://zh.wikipedia.org/wiki/Motörhead "wikilink"),
-        [Queens of the Stone
-        Age](https://zh.wikipedia.org/wiki/Queens_of_the_Stone_Age "wikilink"),
-        [Eagles of Death
-        Metal](https://zh.wikipedia.org/wiki/Eagles_of_Death_Metal "wikilink"),
-        [Fettes
-        Brot](https://zh.wikipedia.org/wiki/Fettes_Brot "wikilink"),
-        [Culcha
-        Candela](https://zh.wikipedia.org/wiki/Culcha_Candela "wikilink"),
-        [The
-        Fratellis](https://zh.wikipedia.org/wiki/The_Fratellis "wikilink"),
-        [Serj
-        Tankian](https://zh.wikipedia.org/wiki/Serj_Tankian "wikilink"),
-        [Bullet for My
-        Valentine](https://zh.wikipedia.org/wiki/Bullet_for_My_Valentine "wikilink"),
-        [Babyshambles](https://zh.wikipedia.org/wiki/Babyshambles "wikilink"),
-        [Nightwish](https://zh.wikipedia.org/wiki/Nightwish "wikilink"),
-        [Lostprophets](https://zh.wikipedia.org/wiki/Lostprophets "wikilink"),
-        [In Flames](https://zh.wikipedia.org/wiki/In_Flames "wikilink"),
-        [Kate Nash](https://zh.wikipedia.org/wiki/Kate_Nash "wikilink"),
-        [Kid Rock](https://zh.wikipedia.org/wiki/Kid_Rock "wikilink"),
-        [Alter
-        Bridge](https://zh.wikipedia.org/wiki/Alter_Bridge "wikilink"),
-        [Simple
-        Plan](https://zh.wikipedia.org/wiki/Simple_Plan "wikilink"),
-        [Madsen](https://zh.wikipedia.org/wiki/Madsen_\(band\) "wikilink"),
-        [Dimmu
-        Borgir](https://zh.wikipedia.org/wiki/Dimmu_Borgir "wikilink"),
-        [Bad
-        Religion](https://zh.wikipedia.org/wiki/Bad_Religion "wikilink"),
-        Justice,
-        [Disturbed](https://zh.wikipedia.org/wiki/Disturbed_\(band\) "wikilink"),
-        [36
-        Crazyfists](https://zh.wikipedia.org/wiki/36_Crazyfists "wikilink"),
-        [Rooney](https://zh.wikipedia.org/wiki/Rooney_\(band\) "wikilink"),
-        [Stereophonics](https://zh.wikipedia.org/wiki/Stereophonics "wikilink"),
-        [Manic Street
-        Preachers](https://zh.wikipedia.org/wiki/Manic_Street_Preachers "wikilink"),
-        [Airbourne](https://zh.wikipedia.org/wiki/Airbourne_\(band\) "wikilink"),
-        [Saxon](https://zh.wikipedia.org/wiki/Saxon_\(band\) "wikilink"),
-        [Pendulum](https://zh.wikipedia.org/wiki/Pendulum "wikilink"),
-        [Danko
-        Jones](https://zh.wikipedia.org/wiki/Danko_Jones "wikilink")
+      - [Die Toten Hosen](https://zh.wikipedia.org/wiki/Die_Toten_Hosen "wikilink"), [Rage Against the Machine](https://zh.wikipedia.org/wiki/Rage_Against_the_Machine "wikilink"), [Metallica](https://zh.wikipedia.org/wiki/Metallica "wikilink")，[HIM](https://zh.wikipedia.org/wiki/HIM_\(Finnish_band\) "wikilink"), [The Prodigy](https://zh.wikipedia.org/wiki/The_Prodigy "wikilink"), [Incubus](https://zh.wikipedia.org/wiki/Incubus_\(band\) "wikilink"), [Sportfreunde Stiller](../Page/Sportfreunde_Stiller.md "wikilink"), [The Verve](https://zh.wikipedia.org/wiki/The_Verve "wikilink"), [The Offspring](https://zh.wikipedia.org/wiki/The_Offspring "wikilink"), [Motörhead](https://zh.wikipedia.org/wiki/Motörhead "wikilink"), [Queens of the Stone Age](https://zh.wikipedia.org/wiki/Queens_of_the_Stone_Age "wikilink"), [Eagles of Death Metal](https://zh.wikipedia.org/wiki/Eagles_of_Death_Metal "wikilink"), [Fettes Brot](https://zh.wikipedia.org/wiki/Fettes_Brot "wikilink"), [Culcha Candela](https://zh.wikipedia.org/wiki/Culcha_Candela "wikilink"), [The Fratellis](https://zh.wikipedia.org/wiki/The_Fratellis "wikilink"), [Serj Tankian](https://zh.wikipedia.org/wiki/Serj_Tankian "wikilink"), [Bullet for My Valentine](https://zh.wikipedia.org/wiki/Bullet_for_My_Valentine "wikilink"), [Babyshambles](https://zh.wikipedia.org/wiki/Babyshambles "wikilink"), [Nightwish](https://zh.wikipedia.org/wiki/Nightwish "wikilink"), [Lostprophets](https://zh.wikipedia.org/wiki/Lostprophets "wikilink"), [In Flames](https://zh.wikipedia.org/wiki/In_Flames "wikilink"), [Kate Nash](https://zh.wikipedia.org/wiki/Kate_Nash "wikilink"), [Kid Rock](https://zh.wikipedia.org/wiki/Kid_Rock "wikilink"), [Alter Bridge](https://zh.wikipedia.org/wiki/Alter_Bridge "wikilink"), [Simple Plan](https://zh.wikipedia.org/wiki/Simple_Plan "wikilink"), [Madsen](https://zh.wikipedia.org/wiki/Madsen_\(band\) "wikilink"), [Dimmu Borgir](https://zh.wikipedia.org/wiki/Dimmu_Borgir "wikilink"), [Bad Religion](https://zh.wikipedia.org/wiki/Bad_Religion "wikilink"), Justice, [Disturbed](https://zh.wikipedia.org/wiki/Disturbed_\(band\) "wikilink"), [36 Crazyfists](https://zh.wikipedia.org/wiki/36_Crazyfists "wikilink"), [Rooney](https://zh.wikipedia.org/wiki/Rooney_\(band\) "wikilink"), [Stereophonics](https://zh.wikipedia.org/wiki/Stereophonics "wikilink"), [Manic Street Preachers](https://zh.wikipedia.org/wiki/Manic_Street_Preachers "wikilink"), [Airbourne](https://zh.wikipedia.org/wiki/Airbourne_\(band\) "wikilink"), [Saxon](https://zh.wikipedia.org/wiki/Saxon_\(band\) "wikilink"), [Pendulum](https://zh.wikipedia.org/wiki/Pendulum "wikilink"), [Danko Jones](https://zh.wikipedia.org/wiki/Danko_Jones "wikilink")
 
 <!-- end list -->
 
   - 2009.6.5–7
-      - [Marilyn
-        Manson](https://zh.wikipedia.org/wiki/Marilyn_Manson "wikilink"),
-        [Billy
-        Talent](https://zh.wikipedia.org/wiki/Billy_Talent "wikilink"),
-        [Limp
-        Bizkit](https://zh.wikipedia.org/wiki/Limp_Bizkit "wikilink"),
-        [Placebo](https://zh.wikipedia.org/wiki/Placebo_\(band\) "wikilink"),
-        [The
-        Killers](https://zh.wikipedia.org/wiki/The_Killers "wikilink"),
-        [Korn](../Page/Korn.md "wikilink"),
-        [Slipknot](https://zh.wikipedia.org/wiki/Slipknot_\(band\) "wikilink"),
-        [Mando
-        Diao](https://zh.wikipedia.org/wiki/Mando_Diao "wikilink")，[2raumwohnung](../Page/2raumwohnung.md "wikilink"),
-        [Alexisonfire](https://zh.wikipedia.org/wiki/Alexisonfire "wikilink"),
-        [All That
-        Remains](https://zh.wikipedia.org/wiki/All_That_Remains_\(band\) "wikilink"),
-        [...And You Will Know Us by the Trail of
-        Dead](https://zh.wikipedia.org/wiki/...And_You_Will_Know_Us_by_the_Trail_of_Dead "wikilink"),
-        [Basement
-        Jaxx](https://zh.wikipedia.org/wiki/Basement_Jaxx "wikilink"),
-        [Biffy
-        Clyro](https://zh.wikipedia.org/wiki/Biffy_Clyro "wikilink"),
-        [Black Stone
-        Cherry](https://zh.wikipedia.org/wiki/Black_Stone_Cherry "wikilink"),
-        [Bloc
-        Party](https://zh.wikipedia.org/wiki/Bloc_Party "wikilink"),
-        [Bring Me the
-        Horizon](https://zh.wikipedia.org/wiki/Bring_Me_the_Horizon "wikilink"),
-        [Chester
-        French](https://zh.wikipedia.org/wiki/Chester_French "wikilink"),
-        [Chris
-        Cornell](https://zh.wikipedia.org/wiki/Chris_Cornell "wikilink"),
-        [Dir En
-        Grey](https://zh.wikipedia.org/wiki/Dir_En_Grey "wikilink"),
-        [DragonForce](https://zh.wikipedia.org/wiki/DragonForce "wikilink"),
-        [Dredg](https://zh.wikipedia.org/wiki/Dredg "wikilink"), [Enter
-        Shikari](../Page/Enter_Shikari.md "wikilink"),
-        [Esser](https://zh.wikipedia.org/wiki/Esser_\(band\) "wikilink"),
-        [Expatriate](https://zh.wikipedia.org/wiki/Expatriate_\(band\) "wikilink"),
-        [Flogging Molly](../Page/Flogging_Molly.md "wikilink"),
-        [Gallows](https://zh.wikipedia.org/wiki/Gallows "wikilink"),
-        [Guano
-        Apes](https://zh.wikipedia.org/wiki/Guano_Apes "wikilink"), Ich
-        Bin Bunt, [Jan Delay & Disko No.
-        1](https://zh.wikipedia.org/wiki/Jan_Delay "wikilink"),
-        [Juliette
-        Lewis](https://zh.wikipedia.org/wiki/Juliette_Lewis "wikilink"),
-        [Kettcar](https://zh.wikipedia.org/wiki/Kettcar "wikilink"),
-        [Kilians](https://zh.wikipedia.org/wiki/Kilians "wikilink"),
-        [Killswitch
-        Engage](https://zh.wikipedia.org/wiki/Killswitch_Engage "wikilink"),
-        [Kitty, Daisy &
-        Lewis](https://zh.wikipedia.org/wiki/Kitty,_Daisy_&_Lewis "wikilink"),
-        [Little Man
-        Tate](https://zh.wikipedia.org/wiki/Little_Man_Tate "wikilink"),
-        [Machine
-        Head](https://zh.wikipedia.org/wiki/Machine_Head_\(band\) "wikilink"),
-        [Madina
-        Lake](https://zh.wikipedia.org/wiki/Madina_Lake "wikilink"),
-        [Madness](https://zh.wikipedia.org/wiki/Madness_\(band\) "wikilink"),
-        [M.I.A.](https://zh.wikipedia.org/wiki/M.I.A._\(band\) "wikilink"),
-        [Middle Class
-        Rut](https://zh.wikipedia.org/wiki/Middle_Class_Rut "wikilink"),
-        [New Found
-        Glory](https://zh.wikipedia.org/wiki/New_Found_Glory "wikilink"),
-        [Pain](https://zh.wikipedia.org/wiki/Pain "wikilink"), [Papa
-        Roach](https://zh.wikipedia.org/wiki/Papa_Roach "wikilink"),
-        [Peter Bjorn and
-        John](https://zh.wikipedia.org/wiki/Peter_Bjorn_and_John "wikilink"),
-        [Phoenix](https://zh.wikipedia.org/wiki/Phoenix_\(band\) "wikilink"),
-        [Peter
-        Fox](https://zh.wikipedia.org/wiki/Peter_Fox_\(musician\) "wikilink"),
-        [Polarkreis
-        18](https://zh.wikipedia.org/wiki/Polarkreis_18 "wikilink"),
-        [Razorlight](https://zh.wikipedia.org/wiki/Razorlight "wikilink"),
-        [Reamonn](https://zh.wikipedia.org/wiki/Reamonn "wikilink"),
-        [Scouting for
-        Girls](https://zh.wikipedia.org/wiki/Scouting_for_Girls "wikilink"),
-        [Selig](https://zh.wikipedia.org/wiki/Selig_\(band\) "wikilink"),
-        [Sevendust](https://zh.wikipedia.org/wiki/Sevendust "wikilink"),
-        [Shinedown](https://zh.wikipedia.org/wiki/Shinedown "wikilink"),
-        [Steadlür](https://zh.wikipedia.org/wiki/Steadlür "wikilink"),
-        [Sugarplum
-        Fairy](https://zh.wikipedia.org/wiki/Sugarplum_Fairy "wikilink"),
-        [The All-American
-        Rejects](https://zh.wikipedia.org/wiki/The_All-American_Rejects "wikilink"),
-        [The Crave](https://zh.wikipedia.org/wiki/The_Crave "wikilink"),
-        [The Gaslight
-        Anthem](https://zh.wikipedia.org/wiki/The_Gaslight_Anthem "wikilink"),
-        [The Kooks](https://zh.wikipedia.org/wiki/The_Kooks "wikilink"),
-        [The
-        Prodigy](https://zh.wikipedia.org/wiki/The_Prodigy "wikilink"),
-        [The
-        Rifles](https://zh.wikipedia.org/wiki/The_Rifles "wikilink"),
-        [The Soundtrack of Our
-        Lives](https://zh.wikipedia.org/wiki/The_Soundtrack_of_Our_Lives "wikilink"),
-        [The
-        Script](https://zh.wikipedia.org/wiki/The_Script "wikilink"),
-        [The
-        Subways](https://zh.wikipedia.org/wiki/The_Subways "wikilink"),
-        [Tomte](https://zh.wikipedia.org/wiki/Tomte "wikilink"),
-        [Trivium](https://zh.wikipedia.org/wiki/Trivium_\(band\) "wikilink"),
-        [Volbeat](https://zh.wikipedia.org/wiki/Volbeat "wikilink"),
-        [White
-        Lies](https://zh.wikipedia.org/wiki/White_Lies_\(band\) "wikilink")
+      - [Marilyn Manson](https://zh.wikipedia.org/wiki/Marilyn_Manson "wikilink"), [Billy Talent](https://zh.wikipedia.org/wiki/Billy_Talent "wikilink"), [Limp Bizkit](https://zh.wikipedia.org/wiki/Limp_Bizkit "wikilink"), [Placebo](https://zh.wikipedia.org/wiki/Placebo_\(band\) "wikilink"), [The Killers](https://zh.wikipedia.org/wiki/The_Killers "wikilink"), [Korn](../Page/Korn.md "wikilink"), [Slipknot](https://zh.wikipedia.org/wiki/Slipknot_\(band\) "wikilink"), [Mando Diao](https://zh.wikipedia.org/wiki/Mando_Diao "wikilink")，[2raumwohnung](../Page/2raumwohnung.md "wikilink"), [Alexisonfire](https://zh.wikipedia.org/wiki/Alexisonfire "wikilink"), [All That Remains](https://zh.wikipedia.org/wiki/All_That_Remains_\(band\) "wikilink"), [...And You Will Know Us by the Trail of Dead](https://zh.wikipedia.org/wiki/...And_You_Will_Know_Us_by_the_Trail_of_Dead "wikilink"), [Basement Jaxx](https://zh.wikipedia.org/wiki/Basement_Jaxx "wikilink"), [Biffy Clyro](https://zh.wikipedia.org/wiki/Biffy_Clyro "wikilink"), [Black Stone Cherry](https://zh.wikipedia.org/wiki/Black_Stone_Cherry "wikilink"), [Bloc Party](https://zh.wikipedia.org/wiki/Bloc_Party "wikilink"), [Bring Me the Horizon](https://zh.wikipedia.org/wiki/Bring_Me_the_Horizon "wikilink"), [Chester French](https://zh.wikipedia.org/wiki/Chester_French "wikilink"), [Chris Cornell](https://zh.wikipedia.org/wiki/Chris_Cornell "wikilink"), [Dir En Grey](https://zh.wikipedia.org/wiki/Dir_En_Grey "wikilink"), [DragonForce](https://zh.wikipedia.org/wiki/DragonForce "wikilink"), [Dredg](https://zh.wikipedia.org/wiki/Dredg "wikilink"), [Enter Shikari](../Page/Enter_Shikari.md "wikilink"), [Esser](https://zh.wikipedia.org/wiki/Esser_\(band\) "wikilink"), [Expatriate](https://zh.wikipedia.org/wiki/Expatriate_\(band\) "wikilink"), [Flogging Molly](../Page/Flogging_Molly.md "wikilink"), [Gallows](https://zh.wikipedia.org/wiki/Gallows "wikilink"), [Guano Apes](https://zh.wikipedia.org/wiki/Guano_Apes "wikilink"), Ich Bin Bunt, [Jan Delay & Disko No. 1](https://zh.wikipedia.org/wiki/Jan_Delay "wikilink"), [Juliette Lewis](https://zh.wikipedia.org/wiki/Juliette_Lewis "wikilink"), [Kettcar](https://zh.wikipedia.org/wiki/Kettcar "wikilink"), [Kilians](https://zh.wikipedia.org/wiki/Kilians "wikilink"), [Killswitch Engage](https://zh.wikipedia.org/wiki/Killswitch_Engage "wikilink"), [Kitty, Daisy & Lewis](https://zh.wikipedia.org/wiki/Kitty,_Daisy_&_Lewis "wikilink"), [Little Man Tate](https://zh.wikipedia.org/wiki/Little_Man_Tate "wikilink"), [Machine Head](https://zh.wikipedia.org/wiki/Machine_Head_\(band\) "wikilink"), [Madina Lake](https://zh.wikipedia.org/wiki/Madina_Lake "wikilink"), [Madness](https://zh.wikipedia.org/wiki/Madness_\(band\) "wikilink"), [M.I.A.](https://zh.wikipedia.org/wiki/M.I.A._\(band\) "wikilink"), [Middle Class Rut](https://zh.wikipedia.org/wiki/Middle_Class_Rut "wikilink"), [New Found Glory](https://zh.wikipedia.org/wiki/New_Found_Glory "wikilink"), [Pain](https://zh.wikipedia.org/wiki/Pain "wikilink"), [Papa Roach](https://zh.wikipedia.org/wiki/Papa_Roach "wikilink"), [Peter Bjorn and John](https://zh.wikipedia.org/wiki/Peter_Bjorn_and_John "wikilink"), [Phoenix](https://zh.wikipedia.org/wiki/Phoenix_\(band\) "wikilink"), [Peter Fox](https://zh.wikipedia.org/wiki/Peter_Fox_\(musician\) "wikilink"), [Polarkreis 18](https://zh.wikipedia.org/wiki/Polarkreis_18 "wikilink"), [Razorlight](https://zh.wikipedia.org/wiki/Razorlight "wikilink"), [Reamonn](https://zh.wikipedia.org/wiki/Reamonn "wikilink"), [Scouting for Girls](https://zh.wikipedia.org/wiki/Scouting_for_Girls "wikilink"), [Selig](https://zh.wikipedia.org/wiki/Selig_\(band\) "wikilink"), [Sevendust](https://zh.wikipedia.org/wiki/Sevendust "wikilink"), [Shinedown](https://zh.wikipedia.org/wiki/Shinedown "wikilink"), [Steadlür](https://zh.wikipedia.org/wiki/Steadlür "wikilink"), [Sugarplum Fairy](https://zh.wikipedia.org/wiki/Sugarplum_Fairy "wikilink"), [The All-American Rejects](https://zh.wikipedia.org/wiki/The_All-American_Rejects "wikilink"), [The Crave](https://zh.wikipedia.org/wiki/The_Crave "wikilink"), [The Gaslight Anthem](https://zh.wikipedia.org/wiki/The_Gaslight_Anthem "wikilink"), [The Kooks](https://zh.wikipedia.org/wiki/The_Kooks "wikilink"), [The Prodigy](https://zh.wikipedia.org/wiki/The_Prodigy "wikilink"), [The Rifles](https://zh.wikipedia.org/wiki/The_Rifles "wikilink"), [The Soundtrack of Our Lives](https://zh.wikipedia.org/wiki/The_Soundtrack_of_Our_Lives "wikilink"), [The Script](https://zh.wikipedia.org/wiki/The_Script "wikilink"), [The Subways](https://zh.wikipedia.org/wiki/The_Subways "wikilink"), [Tomte](https://zh.wikipedia.org/wiki/Tomte "wikilink"), [Trivium](https://zh.wikipedia.org/wiki/Trivium_\(band\) "wikilink"), [Volbeat](https://zh.wikipedia.org/wiki/Volbeat "wikilink"), [White Lies](https://zh.wikipedia.org/wiki/White_Lies_\(band\) "wikilink")
 
 <!-- end list -->
 
   - 2010.6.3–6
-      - [Rammstein](https://zh.wikipedia.org/wiki/Rammstein "wikilink"),
-        [Muse](https://zh.wikipedia.org/wiki/Muse_\(band\) "wikilink"),
-        [Rage Against the
-        Machine](https://zh.wikipedia.org/wiki/Rage_Against_the_Machine "wikilink"),
-        [Kiss](https://zh.wikipedia.org/wiki/Kiss_\(band\) "wikilink"),
-        [HIM](https://zh.wikipedia.org/wiki/HIM_\(Finnish_band\) "wikilink"),
-        [30秒上火星](../Page/30秒上火星.md "wikilink")，[A Day to
-        Remember](https://zh.wikipedia.org/wiki/A_Day_to_Remember "wikilink"),
-        [Airbourne](https://zh.wikipedia.org/wiki/Airbourne_\(band\) "wikilink"),
-        [Alice in
-        Chains](https://zh.wikipedia.org/wiki/Alice_in_Chains "wikilink"),
-        [Alkaline
-        Trio](https://zh.wikipedia.org/wiki/Alkaline_Trio "wikilink"),
-        [As I Lay
-        Dying](https://zh.wikipedia.org/wiki/As_I_Lay_Dying_\(band\) "wikilink"),
-        [Bad
-        Religion](https://zh.wikipedia.org/wiki/Bad_Religion "wikilink"),
-        [Broilers](https://zh.wikipedia.org/wiki/Broilers_\(band\) "wikilink"),
-        [Bullet for My
-        Valentine](https://zh.wikipedia.org/wiki/Bullet_for_My_Valentine "wikilink"),
-        [Cancer
-        Bats](https://zh.wikipedia.org/wiki/Cancer_Bats "wikilink"),
-        [Carpark
-        North](https://zh.wikipedia.org/wiki/Carpark_North "wikilink"),
-        [Crime in
-        Stereo](https://zh.wikipedia.org/wiki/Crime_in_Stereo "wikilink"),
-        [Crystal
-        Castles](https://zh.wikipedia.org/wiki/Crystal_Castles_\(band\) "wikilink"),
-        [Cypress
-        Hill](https://zh.wikipedia.org/wiki/Cypress_Hill "wikilink"),
-        Das Actionteam, [Delphic](../Page/Delphic.md "wikilink"), [Die
-        Sterne](https://zh.wikipedia.org/wiki/Die_Sterne "wikilink"),
-        [Disco
-        Ensemble](https://zh.wikipedia.org/wiki/Disco_Ensemble "wikilink"),
-        [Dizzee
-        Rascal](https://zh.wikipedia.org/wiki/Dizzee_Rascal "wikilink"),
-        [Dommin](https://zh.wikipedia.org/wiki/Dommin "wikilink"),
-        [Editors](https://zh.wikipedia.org/wiki/Editors_\(band\) "wikilink"),
-        [Donots](https://zh.wikipedia.org/wiki/Donots "wikilink"),
-        [Ellie
-        Goulding](https://zh.wikipedia.org/wiki/Ellie_Goulding "wikilink"),
-        Eyes of Solace, [Fertig,
-        Los\!](https://zh.wikipedia.org/wiki/Fertig,_Los! "wikilink"),
-        [Five Finger Death
-        Punch](https://zh.wikipedia.org/wiki/Five_Finger_Death_Punch "wikilink"),
-        [Foals](https://zh.wikipedia.org/wiki/Foals "wikilink"),
-        [Gentleman](https://zh.wikipedia.org/wiki/Gentleman_\(musician\) "wikilink"),
-        [Gogol
-        Bordello](https://zh.wikipedia.org/wiki/Gogol_Bordello "wikilink"),
-        [Gossip](https://zh.wikipedia.org/wiki/Gossip_\(band\) "wikilink"),
-        [H-Blockx](https://zh.wikipedia.org/wiki/H-Blockx "wikilink"),
-        [Halestorm](https://zh.wikipedia.org/wiki/Halestorm "wikilink"),
-        [HammerFall](https://zh.wikipedia.org/wiki/HammerFall "wikilink"),
-        [Heaven Shall
-        Burn](https://zh.wikipedia.org/wiki/Heaven_Shall_Burn "wikilink"),
-        [Jan Delay & Disko No.
-        1](https://zh.wikipedia.org/wiki/Jan_Delay "wikilink"),
-        [Jay-Z](https://zh.wikipedia.org/wiki/Jay-Z "wikilink"),
-        [Kamelot](https://zh.wikipedia.org/wiki/Kamelot "wikilink"),
-        [Kasabian](https://zh.wikipedia.org/wiki/Kasabian "wikilink"),
-        [Katatonia](https://zh.wikipedia.org/wiki/Katatonia "wikilink"),
-        [Kate Nash](https://zh.wikipedia.org/wiki/Kate_Nash "wikilink"),
-        [Kiss](https://zh.wikipedia.org/wiki/Kiss_\(band\) "wikilink"),
-        [Lamb of
-        God](https://zh.wikipedia.org/wiki/Lamb_of_God_\(band\) "wikilink"),
-        Lazer,
-        [Lissie](https://zh.wikipedia.org/wiki/Lissie "wikilink"),
-        [Motörhead](https://zh.wikipedia.org/wiki/Motörhead "wikilink"),
-        [Muse](https://zh.wikipedia.org/wiki/Muse_\(band\) "wikilink"),
-        [OneRepublic](https://zh.wikipedia.org/wiki/OneRepublic "wikilink"),
-        [Pendulum](https://zh.wikipedia.org/wiki/Pendulum "wikilink"),
-        [Rage Against the
-        Machine](https://zh.wikipedia.org/wiki/Rage_Against_the_Machine "wikilink"),
-        [Rise
-        Against](https://zh.wikipedia.org/wiki/Rise_Against "wikilink"),
-        Rock Rotten's 9mm Assi Rock'n'Roll, Roman Fischer,
-        [Slash](https://zh.wikipedia.org/wiki/Slash_\(musician\) "wikilink"),
-        [Slayer](https://zh.wikipedia.org/wiki/Slayer "wikilink"),
-        [Sportfreunde
-        Stiller](../Page/Sportfreunde_Stiller.md "wikilink")
-        (unplugged), [Stone
-        Sour](https://zh.wikipedia.org/wiki/Stone_Sour "wikilink"),
-        [Sweethead](https://zh.wikipedia.org/wiki/Sweethead "wikilink"),
-        [Taking
-        Dawn](https://zh.wikipedia.org/wiki/Taking_Dawn "wikilink"),
-        [Taylor Hawkins and the Coattail
-        Riders](https://zh.wikipedia.org/wiki/Taylor_Hawkins_and_the_Coattail_Riders "wikilink"),
-        [The Cribs](../Page/The_Cribs.md "wikilink"), [The Damned
-        Things](https://zh.wikipedia.org/wiki/The_Damned_Things "wikilink"),
-        [The Hives](https://zh.wikipedia.org/wiki/The_Hives "wikilink"),
-        [The New
-        Black](https://zh.wikipedia.org/wiki/The_New_Black "wikilink"),
-        [The
-        Sounds](https://zh.wikipedia.org/wiki/The_Sounds "wikilink"),
-        [The
-        Storm](https://zh.wikipedia.org/wiki/The_Storm_\(band\) "wikilink"),
-        [Them Crooked
-        Vultures](https://zh.wikipedia.org/wiki/Them_Crooked_Vultures "wikilink"),
-        [Tocotronic](https://zh.wikipedia.org/wiki/Tocotronic "wikilink"),
-        [Turbostaat](https://zh.wikipedia.org/wiki/Turbostaat "wikilink"),
-        [Volbeat](https://zh.wikipedia.org/wiki/Volbeat "wikilink"), [We
-        Are the
-        Fallen](https://zh.wikipedia.org/wiki/We_Are_the_Fallen "wikilink"),
-        [Whitechapel](https://zh.wikipedia.org/wiki/Whitechapel_\(band\) "wikilink"),
-        WhoMadeWho, Year Long Disaster, [You Me at
-        Six](https://zh.wikipedia.org/wiki/You_Me_at_Six "wikilink"),
-        [Zebrahead](https://zh.wikipedia.org/wiki/Zebrahead "wikilink")
+      - [Rammstein](https://zh.wikipedia.org/wiki/Rammstein "wikilink"), [Muse](https://zh.wikipedia.org/wiki/Muse_\(band\) "wikilink"), [Rage Against the Machine](https://zh.wikipedia.org/wiki/Rage_Against_the_Machine "wikilink"), [Kiss](https://zh.wikipedia.org/wiki/Kiss_\(band\) "wikilink"), [HIM](https://zh.wikipedia.org/wiki/HIM_\(Finnish_band\) "wikilink"), [30秒上火星](../Page/30秒上火星.md "wikilink")，[A Day to Remember](https://zh.wikipedia.org/wiki/A_Day_to_Remember "wikilink"), [Airbourne](https://zh.wikipedia.org/wiki/Airbourne_\(band\) "wikilink"), [Alice in Chains](https://zh.wikipedia.org/wiki/Alice_in_Chains "wikilink"), [Alkaline Trio](https://zh.wikipedia.org/wiki/Alkaline_Trio "wikilink"), [As I Lay Dying](https://zh.wikipedia.org/wiki/As_I_Lay_Dying_\(band\) "wikilink"), [Bad Religion](https://zh.wikipedia.org/wiki/Bad_Religion "wikilink"), [Broilers](https://zh.wikipedia.org/wiki/Broilers_\(band\) "wikilink"), [Bullet for My Valentine](https://zh.wikipedia.org/wiki/Bullet_for_My_Valentine "wikilink"), [Cancer Bats](https://zh.wikipedia.org/wiki/Cancer_Bats "wikilink"), [Carpark North](https://zh.wikipedia.org/wiki/Carpark_North "wikilink"), [Crime in Stereo](https://zh.wikipedia.org/wiki/Crime_in_Stereo "wikilink"), [Crystal Castles](https://zh.wikipedia.org/wiki/Crystal_Castles_\(band\) "wikilink"), [Cypress Hill](https://zh.wikipedia.org/wiki/Cypress_Hill "wikilink"), Das Actionteam, [Delphic](../Page/Delphic.md "wikilink"), [Die Sterne](https://zh.wikipedia.org/wiki/Die_Sterne "wikilink"), [Disco Ensemble](https://zh.wikipedia.org/wiki/Disco_Ensemble "wikilink"), [Dizzee Rascal](https://zh.wikipedia.org/wiki/Dizzee_Rascal "wikilink"), [Dommin](https://zh.wikipedia.org/wiki/Dommin "wikilink"), [Editors](https://zh.wikipedia.org/wiki/Editors_\(band\) "wikilink"), [Donots](https://zh.wikipedia.org/wiki/Donots "wikilink"), [Ellie Goulding](https://zh.wikipedia.org/wiki/Ellie_Goulding "wikilink"), Eyes of Solace, [Fertig, Los\!](https://zh.wikipedia.org/wiki/Fertig,_Los! "wikilink"), [Five Finger Death Punch](https://zh.wikipedia.org/wiki/Five_Finger_Death_Punch "wikilink"), [Foals](https://zh.wikipedia.org/wiki/Foals "wikilink"), [Gentleman](https://zh.wikipedia.org/wiki/Gentleman_\(musician\) "wikilink"), [Gogol Bordello](https://zh.wikipedia.org/wiki/Gogol_Bordello "wikilink"), [Gossip](https://zh.wikipedia.org/wiki/Gossip_\(band\) "wikilink"), [H-Blockx](https://zh.wikipedia.org/wiki/H-Blockx "wikilink"), [Halestorm](https://zh.wikipedia.org/wiki/Halestorm "wikilink"), [HammerFall](https://zh.wikipedia.org/wiki/HammerFall "wikilink"), [Heaven Shall Burn](https://zh.wikipedia.org/wiki/Heaven_Shall_Burn "wikilink"), [Jan Delay & Disko No. 1](https://zh.wikipedia.org/wiki/Jan_Delay "wikilink"), [Jay-Z](https://zh.wikipedia.org/wiki/Jay-Z "wikilink"), [Kamelot](https://zh.wikipedia.org/wiki/Kamelot "wikilink"), [Kasabian](https://zh.wikipedia.org/wiki/Kasabian "wikilink"), [Katatonia](https://zh.wikipedia.org/wiki/Katatonia "wikilink"), [Kate Nash](https://zh.wikipedia.org/wiki/Kate_Nash "wikilink"), [Kiss](https://zh.wikipedia.org/wiki/Kiss_\(band\) "wikilink"), [Lamb of God](https://zh.wikipedia.org/wiki/Lamb_of_God_\(band\) "wikilink"), Lazer, [Lissie](https://zh.wikipedia.org/wiki/Lissie "wikilink"), [Motörhead](https://zh.wikipedia.org/wiki/Motörhead "wikilink"), [Muse](https://zh.wikipedia.org/wiki/Muse_\(band\) "wikilink"), [OneRepublic](https://zh.wikipedia.org/wiki/OneRepublic "wikilink"), [Pendulum](https://zh.wikipedia.org/wiki/Pendulum "wikilink"), [Rage Against the Machine](https://zh.wikipedia.org/wiki/Rage_Against_the_Machine "wikilink"), [Rise Against](https://zh.wikipedia.org/wiki/Rise_Against "wikilink"), Rock Rotten's 9mm Assi Rock'n'Roll, Roman Fischer, [Slash](https://zh.wikipedia.org/wiki/Slash_\(musician\) "wikilink"), [Slayer](https://zh.wikipedia.org/wiki/Slayer "wikilink"), [Sportfreunde Stiller](../Page/Sportfreunde_Stiller.md "wikilink") (unplugged), [Stone Sour](https://zh.wikipedia.org/wiki/Stone_Sour "wikilink"), [Sweethead](https://zh.wikipedia.org/wiki/Sweethead "wikilink"), [Taking Dawn](https://zh.wikipedia.org/wiki/Taking_Dawn "wikilink"), [Taylor Hawkins and the Coattail Riders](https://zh.wikipedia.org/wiki/Taylor_Hawkins_and_the_Coattail_Riders "wikilink"), [The Cribs](../Page/The_Cribs.md "wikilink"), [The Damned Things](https://zh.wikipedia.org/wiki/The_Damned_Things "wikilink"), [The Hives](https://zh.wikipedia.org/wiki/The_Hives "wikilink"), [The New Black](https://zh.wikipedia.org/wiki/The_New_Black "wikilink"), [The Sounds](https://zh.wikipedia.org/wiki/The_Sounds "wikilink"), [The Storm](https://zh.wikipedia.org/wiki/The_Storm_\(band\) "wikilink"), [Them Crooked Vultures](https://zh.wikipedia.org/wiki/Them_Crooked_Vultures "wikilink"), [Tocotronic](https://zh.wikipedia.org/wiki/Tocotronic "wikilink"), [Turbostaat](https://zh.wikipedia.org/wiki/Turbostaat "wikilink"), [Volbeat](https://zh.wikipedia.org/wiki/Volbeat "wikilink"), [We Are the Fallen](https://zh.wikipedia.org/wiki/We_Are_the_Fallen "wikilink"), [Whitechapel](https://zh.wikipedia.org/wiki/Whitechapel_\(band\) "wikilink"), WhoMadeWho, Year Long Disaster, [You Me at Six](https://zh.wikipedia.org/wiki/You_Me_at_Six "wikilink"), [Zebrahead](https://zh.wikipedia.org/wiki/Zebrahead "wikilink")
 
 <!-- end list -->
 
   - 2011.6.3–5
-      - [System of a
-        Down](https://zh.wikipedia.org/wiki/System_of_a_Down "wikilink"),
-        [Coldplay](https://zh.wikipedia.org/wiki/Coldplay "wikilink"),
-        [Kings of
-        Leon](https://zh.wikipedia.org/wiki/Kings_of_Leon "wikilink")，[In
-        Flames](https://zh.wikipedia.org/wiki/In_Flames "wikilink"),
-        [Mando
-        Diao](https://zh.wikipedia.org/wiki/Mando_Diao "wikilink"),
-        [Beatsteaks](https://zh.wikipedia.org/wiki/Beatsteaks "wikilink"),
-        [The
-        Gaslight…](https://zh.wikipedia.org/wiki/The_Gaslight… "wikilink"),
-        [Volbeat](https://zh.wikipedia.org/wiki/Volbeat "wikilink"),
-        [Hurts](https://zh.wikipedia.org/wiki/Hurts "wikilink"), [The
-        BossHoss](https://zh.wikipedia.org/wiki/The_BossHoss "wikilink"),
-        [Jazzkantine](https://zh.wikipedia.org/wiki/Jazzkantine "wikilink").
+      - [System of a Down](https://zh.wikipedia.org/wiki/System_of_a_Down "wikilink"), [Coldplay](https://zh.wikipedia.org/wiki/Coldplay "wikilink"), [Kings of Leon](https://zh.wikipedia.org/wiki/Kings_of_Leon "wikilink")，[In Flames](https://zh.wikipedia.org/wiki/In_Flames "wikilink"), [Mando Diao](https://zh.wikipedia.org/wiki/Mando_Diao "wikilink"), [Beatsteaks](https://zh.wikipedia.org/wiki/Beatsteaks "wikilink"), [The Gaslight…](https://zh.wikipedia.org/wiki/The_Gaslight… "wikilink"), [Volbeat](https://zh.wikipedia.org/wiki/Volbeat "wikilink"), [Hurts](https://zh.wikipedia.org/wiki/Hurts "wikilink"), [The BossHoss](https://zh.wikipedia.org/wiki/The_BossHoss "wikilink"), [Jazzkantine](https://zh.wikipedia.org/wiki/Jazzkantine "wikilink").
 
 <!-- end list -->
 
   - 2012.6.1–3
-      - [Soundgarden](https://zh.wikipedia.org/wiki/Soundgarden "wikilink")
-        [Linkin
-        Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink"),
-        [Metallica](https://zh.wikipedia.org/wiki/Metallica "wikilink"),
-        [Die Toten
-        Hosen](https://zh.wikipedia.org/wiki/Die_Toten_Hosen "wikilink")，[Tenacious
-        D](https://zh.wikipedia.org/wiki/Tenacious_D "wikilink"), [Billy
-        Talent](https://zh.wikipedia.org/wiki/Billy_Talent "wikilink"),
-        [Machine
-        Head](https://zh.wikipedia.org/wiki/Machine_Head_\(band\) "wikilink"),
-        [Marilyn
-        Manson](https://zh.wikipedia.org/wiki/Marilyn_Manson "wikilink"),
-        [Trivium](https://zh.wikipedia.org/wiki/Trivium_\(band\) "wikilink"),
-        [The
-        Offspring](https://zh.wikipedia.org/wiki/The_Offspring "wikilink"),
-        [Kasabian](https://zh.wikipedia.org/wiki/Kasabian "wikilink"),
-        [Skrillex](https://zh.wikipedia.org/wiki/Skrillex "wikilink"),
-        [Gossip](https://zh.wikipedia.org/wiki/Gossip_\(band\) "wikilink"),
-        [Gojira](https://zh.wikipedia.org/wiki/Gojira "wikilink"),
-        [Killswitch
-        Engage](https://zh.wikipedia.org/wiki/Killswitch_Engage "wikilink").
+      - [Soundgarden](https://zh.wikipedia.org/wiki/Soundgarden "wikilink") [Linkin Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink"), [Metallica](https://zh.wikipedia.org/wiki/Metallica "wikilink"), [Die Toten Hosen](https://zh.wikipedia.org/wiki/Die_Toten_Hosen "wikilink")，[Tenacious D](https://zh.wikipedia.org/wiki/Tenacious_D "wikilink"), [Billy Talent](https://zh.wikipedia.org/wiki/Billy_Talent "wikilink"), [Machine Head](https://zh.wikipedia.org/wiki/Machine_Head_\(band\) "wikilink"), [Marilyn Manson](https://zh.wikipedia.org/wiki/Marilyn_Manson "wikilink"), [Trivium](https://zh.wikipedia.org/wiki/Trivium_\(band\) "wikilink"), [The Offspring](https://zh.wikipedia.org/wiki/The_Offspring "wikilink"), [Kasabian](https://zh.wikipedia.org/wiki/Kasabian "wikilink"), [Skrillex](https://zh.wikipedia.org/wiki/Skrillex "wikilink"), [Gossip](https://zh.wikipedia.org/wiki/Gossip_\(band\) "wikilink"), [Gojira](https://zh.wikipedia.org/wiki/Gojira "wikilink"), [Killswitch Engage](https://zh.wikipedia.org/wiki/Killswitch_Engage "wikilink").
 
 ## 关联項目
 
@@ -1300,18 +198,12 @@ im Park就在纽伦堡的法兰克人体育场或周边地区举办。
   - [Rock im Park官方网址](http://www.rock-im-park.com)
   - [Ringrocker.com](http://www.ringrocker.com)
   - [Parkrocker.net](http://www.parkrocker.net)
-  - [Rockpalast – Rock am
-    Ring 2007](http://www.rockpalast.de/konzerte/2007/rock_am_ring/)
-  - [Rock am Ring live sets audio files archive, Rockpalast
-    broadcast](http://www.newmixes.com/live_at_rock_am_ring-0601-0603-dab-2007.html)
+  - [Rockpalast – Rock am Ring 2007](http://www.rockpalast.de/konzerte/2007/rock_am_ring/)
+  - [Rock am Ring live sets audio files archive, Rockpalast broadcast](http://www.newmixes.com/live_at_rock_am_ring-0601-0603-dab-2007.html)
 
-[Category:德国音乐节](https://zh.wikipedia.org/wiki/Category:德国音乐节 "wikilink")
-[Category:德国文化](https://zh.wikipedia.org/wiki/Category:德国文化 "wikilink")
-[Category:搖滾音樂節](https://zh.wikipedia.org/wiki/Category:搖滾音樂節 "wikilink")
+[Category:德国音乐节](https://zh.wikipedia.org/wiki/Category:德国音乐节 "wikilink") [Category:德国文化](https://zh.wikipedia.org/wiki/Category:德国文化 "wikilink") [Category:搖滾音樂節](https://zh.wikipedia.org/wiki/Category:搖滾音樂節 "wikilink")
 
-1.  <http://www.rock-im-park.de/index.php?navi=1&rid=1&artid=513> (in
-    german, google translate:
-    <http://translate.google.com/translate?u=http%3A%2F%2Fwww.rock-im-park.de%2Findex.php%3Fnavi%3D1%26rid%3D1%26artid%3D513>)
+1.  <http://www.rock-im-park.de/index.php?navi=1&rid=1&artid=513> (in german, google translate: <http://translate.google.com/translate?u=http%3A%2F%2Fwww.rock-im-park.de%2Findex.php%3Fnavi%3D1%26rid%3D1%26artid%3D513>)
 
 2.  <http://www.rock-am-ring.com/spielplan>
 
@@ -1319,30 +211,22 @@ im Park就在纽伦堡的法兰克人体育场或周边地区举办。
 
 4.  <http://www.rock-im-park.de/index.php?navi=1&rid=1&artid=583>
 
-5.  [Rock-am-Ring 2008: Ring frei für Rock am Ring und Rock im
-    Park 2008](http://www.rock-am-ring.de/newsitem.html?objId=21)
+5.  [Rock-am-Ring 2008: Ring frei für Rock am Ring und Rock im Park 2008](http://www.rock-am-ring.de/newsitem.html?objId=21)
 
-6.  [Rock-am-Ring 2008: Fans sind heiß auf Rock am Ring und Rock im
-    Park](http://www.rock-am-ring.de/newsitem.html?objId=23)
+6.  [Rock-am-Ring 2008: Fans sind heiß auf Rock am Ring und Rock im Park](http://www.rock-am-ring.de/newsitem.html?objId=23)
 
-7.  [Rock-am-Ring 2008: Rock am Ring und Rock im Park auf
-    Rekordkurs](http://www.rock-am-ring.de/newsitem.html?objId=24)
+7.  [Rock-am-Ring 2008: Rock am Ring und Rock im Park auf Rekordkurs](http://www.rock-am-ring.de/newsitem.html?objId=24)
 
-8.  [Rock-am-Ring 2008: Sensationelles Zwischenergebnis für Ring und
-    Park](http://www.rock-am-ring.de/newsitem.html?objId=25)
+8.  [Rock-am-Ring 2008: Sensationelles Zwischenergebnis für Ring und Park](http://www.rock-am-ring.de/newsitem.html?objId=25)
 
-9.  [Rock-am-Ring 2008: 85.000 Ringrocker übertreffen alle
-    Erwartungen](http://www.rock-am-ring.de/newsitem.html?objId=27)
+9.  [Rock-am-Ring 2008: 85.000 Ringrocker übertreffen alle Erwartungen](http://www.rock-am-ring.de/newsitem.html?objId=27)
 
-10. [Rock-am-Ring 2008: Endspurt in
-    Nürnberg](http://www.rock-am-ring.de/newsitem.html?objId=28)
+10. [Rock-am-Ring 2008: Endspurt in Nürnberg](http://www.rock-am-ring.de/newsitem.html?objId=28)
 
-11. [Rock-am-Ring 2008: 3 Doors Down für Ring und Park
-    bestätigt](http://www.rock-am-ring.de/newsitem.html?objId=29)
+11. [Rock-am-Ring 2008: 3 Doors Down für Ring und Park bestätigt](http://www.rock-am-ring.de/newsitem.html?objId=29)
 
 12.
-13. [Finger Eleven official
-    website](http://www.fingereleven.com/site/tourjournals.asp)
+13. [Finger Eleven official website](http://www.fingereleven.com/site/tourjournals.asp)
 
 14. [Finger Eleven myspace profile](http://www.myspace.com/fingereleven)
 

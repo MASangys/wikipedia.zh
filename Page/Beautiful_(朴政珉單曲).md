@@ -1,17 +1,12 @@
-**《Beautiful》**（）是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")成員[朴政珉](../Page/朴政珉.md "wikilink")，於2012年11月14日由Yamaha
-A\&R企劃、CJ E\&M Music所發行的第二張個人韓語單曲。
+**《Beautiful》**（）是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")成員[朴政珉](../Page/朴政珉.md "wikilink")，於2012年11月14日由Yamaha A\&R企劃、CJ E\&M Music所發行的第二張個人韓語單曲。
 
 ## 發行過程
 
-2012年10月9日朴政珉親自於個人[推特透露與](https://zh.wikipedia.org/wiki/推特 "wikilink")成員金Zuwan一同合作新曲，並挑戰[原聲抒情歌體裁的歌曲於](https://zh.wikipedia.org/wiki/原音樂 "wikilink")11月回歸韓語歌壇\[1\]；12日在拍攝MV的空檔接受OH
-MY
-STAR的採訪中表示現正拍攝MV的新曲將是首使人激動興奮的動感歌曲。11月14日發行名為《Beautiful》的新專輯，此為繼2011年1月20日個人首支主打曲「Not
-Alone」在韓國甚至整個亞洲地區進行華麗的出道宣告後，時隔22個月再次發行的專輯，此外，所屬經紀公司YAMAHA A\&R有關人士表示：
+2012年10月9日朴政珉親自於個人[推特透露與](https://zh.wikipedia.org/wiki/推特 "wikilink")成員金Zuwan一同合作新曲，並挑戰[原聲抒情歌體裁的歌曲於](https://zh.wikipedia.org/wiki/原音樂 "wikilink")11月回歸韓語歌壇\[1\]；12日在拍攝MV的空檔接受OH MY STAR的採訪中表示現正拍攝MV的新曲將是首使人激動興奮的動感歌曲。11月14日發行名為《Beautiful》的新專輯，此為繼2011年1月20日個人首支主打曲「Not Alone」在韓國甚至整個亞洲地區進行華麗的出道宣告後，時隔22個月再次發行的專輯，此外，所屬經紀公司YAMAHA A\&R有關人士表示：
 
 『朴政珉的新專輯‘Beautiful’是朴政珉首次個人參與製作的專輯，專輯的整體主題定位計畫，以及歌曲的選定錄音等都由朴政珉親自參與策劃。\[2\]\[3\]』
 
-同時，他也參與MV與專輯封面的視覺設計，充分地發揮了自身所擁有的天賦與歌唱能力，展現令人感到激情的「朴政珉 Brand New
-Style」。專輯共收錄由朴政珉親自作詞的主打歌曲〈Beautiful〉與和成員金Zuwan合作的歌曲〈你知道的〉等4首新曲。
+同時，他也參與MV與專輯封面的視覺設計，充分地發揮了自身所擁有的天賦與歌唱能力，展現令人感到激情的「朴政珉 Brand New Style」。專輯共收錄由朴政珉親自作詞的主打歌曲〈Beautiful〉與和成員金Zuwan合作的歌曲〈你知道的〉等4首新曲。
 
 ### 音樂錄影帶
 
@@ -21,25 +16,20 @@ Style」。專輯共收錄由朴政珉親自作詞的主打歌曲〈Beautiful〉
 
 ### 造型
 
-11月2日上午通過其官方Facebook（http://www.facebook.com/OfficialParkJungMin
-）公開第二張SOLO專輯《Beautiful》的專輯封面照。在公開的封面照中朴政珉身穿晚禮服，燦爛的笑容凝望著鏡頭。照片中還顯示了專輯名《Beautiful》和發行日期\[9\]。
+11月2日上午通過其官方Facebook（http://www.facebook.com/OfficialParkJungMin ）公開第二張SOLO專輯《Beautiful》的專輯封面照。在公開的封面照中朴政珉身穿晚禮服，燦爛的笑容凝望著鏡頭。照片中還顯示了專輯名《Beautiful》和發行日期\[9\]。
 
 ## 曲目
 
 ### 曲目介紹
 
 1.  Beautiful<small>（）</small>
-      - 是由瑞典的天才作曲家Alexander Holmgren、 Denniz Jam、Derrick
-        Palmer作曲，朴政珉親自填詞的作品。是首通過Acid
-        pop為基盤的英倫風舞曲。歌詞描述男子對一見鍾情的曼妙女子難耐的心情，從前奏具有節奏感的電子吉他聲開始到與副歌的口哨聲構成絕妙和諧的BAND表演。該曲除舞曲版外亦有不插電版本以清新的木吉他為主，呈現朴政珉最原始純粹的天籟美聲。
+      - 是由瑞典的天才作曲家Alexander Holmgren、 Denniz Jam、Derrick Palmer作曲，朴政珉親自填詞的作品。是首通過Acid pop為基盤的英倫風舞曲。歌詞描述男子對一見鍾情的曼妙女子難耐的心情，從前奏具有節奏感的電子吉他聲開始到與副歌的口哨聲構成絕妙和諧的BAND表演。該曲除舞曲版外亦有不插電版本以清新的木吉他為主，呈現朴政珉最原始純粹的天籟美聲。
 2.  你知道的<small>（）</small>
       - 朴政珉與韓國樂團成員金Zuwan共同製作的歌曲，是首能透Acoustic摩登搖滾曲風展現朴政珉全新面貌的作品，傳遞著撫慰孤單人們的感性歌詞，完整無缺地傳達朴政珉濕潤的歌聲，此外，透過Zuwan製作的英倫曲調所搭配的暖暖吉他聲，彷彿像是在凜冽寒風中為已凍結的心口獻上漫溢的溫暖。
 
 ## 成績
 
-在14日發售的朴政珉新單曲「Beautiful」，不管是韓國的專輯總銷量、每日排行榜都獲得第一名。還有，在日本的K-POP新聞網Kstyle的每日MV也獲得首位。並於Kstyle的MV排行榜上，除了「Beautiful」之外的「Not
-Alone」「幸福的眼淚」與朴政珉於日本以ROMEO企劃出道的單曲「Give Me Your
-Heart」分別囊括1～4名\[10\]。根據韓國音樂網GAON統計2012年11月11日至11月17日數位音源綜合榜周間排名位居190名，合計韓國soribada、ollehmusic、melon、bugs音源網之線上連續播放、下載、BGM、手機鈴聲銷售量總和為1,012,005。
+在14日發售的朴政珉新單曲「Beautiful」，不管是韓國的專輯總銷量、每日排行榜都獲得第一名。還有，在日本的K-POP新聞網Kstyle的每日MV也獲得首位。並於Kstyle的MV排行榜上，除了「Beautiful」之外的「Not Alone」「幸福的眼淚」與朴政珉於日本以ROMEO企劃出道的單曲「Give Me Your Heart」分別囊括1～4名\[10\]。根據韓國音樂網GAON統計2012年11月11日至11月17日數位音源綜合榜周間排名位居190名，合計韓國soribada、ollehmusic、melon、bugs音源網之線上連續播放、下載、BGM、手機鈴聲銷售量總和為1,012,005。
 
 ### 專輯排名
 
@@ -63,11 +53,7 @@ Heart」分別囊括1～4名\[10\]。根據韓國音樂網GAON統計2012年11月
 
 ## 活動紀錄
 
-〈Beautiful〉的回歸舞台於11月15日[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》的直播後展開序幕，在此之前亦先於11月13日參與[MBC
-MUSIC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show
-Champion](../Page/Show_Champion.md "wikilink")》的事前錄影舞台，播出時間為11月27日。並於11月17日當日在[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\!
-音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》演出回歸舞台後獲Naver即時搜尋榜一位。
+〈Beautiful〉的回歸舞台於11月15日[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》的直播後展開序幕，在此之前亦先於11月13日參與[MBC MUSIC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show Champion](../Page/Show_Champion.md "wikilink")》的事前錄影舞台，播出時間為11月27日。並於11月17日當日在[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》演出回歸舞台後獲Naver即時搜尋榜一位。
 
 ### 宣傳
 
@@ -245,26 +231,19 @@ SBS MTV錄影播出</p></td>
 
   - [朴政珉日本官方YOUTUBE頻道](http://www.youtube.com/user/parkjungminofficial/)
 
-  - [Park Jung Min *Billboard Korea* Interview 〈Eng
-    Sub〉](http://www.youtube.com/watch?v=Z4UmZIEWS9k)
+  - [Park Jung Min *Billboard Korea* Interview 〈Eng Sub〉](http://www.youtube.com/watch?v=Z4UmZIEWS9k)
 
-  - [박정민(Park Jung Min) - Beautiful (Acoustic Ver.)
-    官方全曲試聽](http://www.youtube.com/watch?v=fgtKehIyP1M)
+  - [박정민(Park Jung Min) - Beautiful (Acoustic Ver.) 官方全曲試聽](http://www.youtube.com/watch?v=fgtKehIyP1M)
 
-  - [박정민(Park Jung Min) - 있잖아요(Tender)
-    官方全曲試聽](http://www.youtube.com/watch?v=LCsOMW-bTmY)
+  - [박정민(Park Jung Min) - 있잖아요(Tender) 官方全曲試聽](http://www.youtube.com/watch?v=LCsOMW-bTmY)
 
-  - [박정민, 아름다운 컴백\! 첫 번째 All Producing 앨범
-    Beautiful](http://music.daum.net/musicbar/musicbar/detail?menu_id=5&board_id=3603)
+  - [박정민, 아름다운 컴백\! 첫 번째 All Producing 앨범 Beautiful](http://music.daum.net/musicbar/musicbar/detail?menu_id=5&board_id=3603)
 
-  - [Special 박정민 & 비바소울 ZUWAN의 어쿠스틱
-    콜라보레이션](http://music.naver.com/promotion/specialContent.nhn?articleId=3460&pcWeb=true)
+  - [Special 박정민 & 비바소울 ZUWAN의 어쿠스틱 콜라보레이션](http://music.naver.com/promotion/specialContent.nhn?articleId=3460&pcWeb=true)
 
-  - [SS501 박정민, 두번째 싱글앨범 'Beautiful'로 컴백\! 지니(Genie)에서 독점 영상&이미지를
-    만나보세요\!](http://smartblog.olleh.com/2196)
+  - [SS501 박정민, 두번째 싱글앨범 'Beautiful'로 컴백\! 지니(Genie)에서 독점 영상&이미지를 만나보세요\!](http://smartblog.olleh.com/2196)
 
-[Category:朴政珉歌曲](https://zh.wikipedia.org/wiki/Category:朴政珉歌曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
+[Category:朴政珉歌曲](https://zh.wikipedia.org/wiki/Category:朴政珉歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
 
 1.
 

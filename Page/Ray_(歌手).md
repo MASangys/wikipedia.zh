@@ -6,9 +6,7 @@
   - 學生時代最初買的CD是[SHOWTA.的單曲](https://zh.wikipedia.org/wiki/SHOWTA. "wikilink")〈願い星〉，在中學二、三年級購買的。
   - 處女作是2012年2月[TV動畫](https://zh.wikipedia.org/wiki/TV動畫 "wikilink")《[在那個夏天等待](../Page/在那個夏天等待.md "wikilink")》主題曲〈[sign](https://zh.wikipedia.org/wiki/sign "wikilink")〉，首次出現在ORICON週間第11位。
   - 2012年7月18日[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")《[十鬼之絆～關原奇譚～](https://zh.wikipedia.org/wiki/十鬼之絆～關原奇譚～ "wikilink")》的主題曲集單曲與[黑崎真音](../Page/黑崎真音.md "wikilink")合輯「[悠久之謳](../Page/悠久之謳.md "wikilink")」片尾曲收錄了〈契―この広い広い、時空を越えてー〉和〈譫言ー沈みゆく私のー〉兩首歌曲。
-  - 2012年8月初次亮相於動漫祭典「[Animelo Summer Live
-    2012－INFINITY∞―](../Page/Animelo_Summer_Live.md "wikilink")」演出，於2013年再次演出。另外，在週二文化放送
-    超\!A\&G＋目前播出的「ARTIST ZONE 2h」一種驅性已經贏得人氣。
+  - 2012年8月初次亮相於動漫祭典「[Animelo Summer Live 2012－INFINITY∞―](../Page/Animelo_Summer_Live.md "wikilink")」演出，於2013年再次演出。另外，在週二文化放送 超\!A\&G＋目前播出的「ARTIST ZONE 2h」一種驅性已經贏得人氣。
   - 2013年6月5日推出第一張專輯《[RAYVE](../Page/RAYVE.md "wikilink")》。
   - 2017年1月25日，Ray表示自己將在同年夏季舉辦最終Live後，結束歌手活動\[1\]。
   - 2017年12月2日，Ray被發現在女僕咖啡館「Dream Land」里工作。\[2\]。
@@ -63,19 +61,15 @@
 
 ## 外部連結
 
-  - [Ray GENEON UNIVERSAL OFFICIAL
-    SITE](http://www.geneonuniversal.jp/rondorobe/music/ray/)
+  - [Ray GENEON UNIVERSAL OFFICIAL SITE](http://www.geneonuniversal.jp/rondorobe/music/ray/)
 
-  - [Ray WarnerHomeVideo Official
-    Website](http://www.whv-amusic.com/ray/)
+  - [Ray WarnerHomeVideo Official Website](http://www.whv-amusic.com/ray/)
 
   - [Going My Ray -Ray Official Blog-](http://ameblo.jp/going-my-ray/)
 
   -
   -
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink")
 
 1.
 2.
@@ -85,9 +79,6 @@
 6.  [](http://profile.ameba.jp/going-my-ray/)
 7.  [](http://profile.ameba.jp/going-my-ray/)
 8.  [](http://profile.ameba.jp/going-my-ray/)
-9.  [出演アーティスト追加発表！8月26日(日)：小松未可子、Ray
-    出演決定！](http://anisama.tv/2012/news/detail.php?id=14)
-10. [出演アーティスト追加発表！8/23(金)：Ray
-    出演決定！](http://anisama.tv/news/detail.php?id=9)
-11. [「Animelo Summer Live 2015 -THE
-    GATE-」第1弾出演アーティストを発表！](http://anisama.tv/2015/news/detail.php?id=0)
+9.  [出演アーティスト追加発表！8月26日(日)：小松未可子、Ray 出演決定！](http://anisama.tv/2012/news/detail.php?id=14)
+10. [出演アーティスト追加発表！8/23(金)：Ray 出演決定！](http://anisama.tv/news/detail.php?id=9)
+11. [「Animelo Summer Live 2015 -THE GATE-」第1弾出演アーティストを発表！](http://anisama.tv/2015/news/detail.php?id=0)

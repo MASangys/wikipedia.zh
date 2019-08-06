@@ -1,6 +1,4 @@
-《**DD北斗之拳**》（日語：），漫畫：加治佐修、原作：[武論尊](../Page/武論尊.md "wikilink")、[原哲夫](../Page/原哲夫.md "wikilink")畫的[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。在《月刊Comic
-Zenon》（[德間書店](../Page/德間書店.md "wikilink")）中的創刊號——2010年12月號開始連載中。《[北斗神拳](../Page/北斗神拳.md "wikilink")》的搞笑漫畫版。「DD」是「Design
-Deformation」（）略稱。電視動畫共13集，每集兩小回。
+《**DD北斗之拳**》（日語：），漫畫：加治佐修、原作：[武論尊](../Page/武論尊.md "wikilink")、[原哲夫](../Page/原哲夫.md "wikilink")畫的[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。在《月刊Comic Zenon》（[德間書店](../Page/德間書店.md "wikilink")）中的創刊號——2010年12月號開始連載中。《[北斗神拳](../Page/北斗神拳.md "wikilink")》的搞笑漫畫版。「DD」是「Design Deformation」（）略稱。電視動畫共13集，每集兩小回。
 
 ## 作品解說
 
@@ -227,12 +225,10 @@ Deformation」（）略稱。電視動畫共13集，每集兩小回。
 ### 主題歌
 
   - 片頭曲《》
-    塡詞：中村公晴／補塡詞、編曲：[前山田健一](../Page/前山田健一.md "wikilink")／作曲：山下三智夫／主唱：[吉木理沙](../Page/吉木理沙.md "wikilink")
-    & [前山田健一](../Page/前山田健一.md "wikilink")
+    塡詞：中村公晴／補塡詞、編曲：[前山田健一](../Page/前山田健一.md "wikilink")／作曲：山下三智夫／主唱：[吉木理沙](../Page/吉木理沙.md "wikilink") & [前山田健一](../Page/前山田健一.md "wikilink")
     《》的封面曲。映像巧妙地富有作品的色彩。
   - 片尾曲《》
-    塡詞：原哲夫／補塡詞、作曲、編曲：前山田健一／歌：[吉木理沙](../Page/吉木理沙.md "wikilink") &
-    [前山田健一](../Page/前山田健一.md "wikilink")
+    塡詞：原哲夫／補塡詞、作曲、編曲：前山田健一／歌：[吉木理沙](../Page/吉木理沙.md "wikilink") & [前山田健一](../Page/前山田健一.md "wikilink")
       - 第1話：南斗無音拳、跳刀地背拳、鷹爪三角腳、野猿牙殺拳、北斗百裂拳、無想轉生
 
 ### 各話列表
@@ -568,11 +564,7 @@ Deformation」（）略稱。電視動畫共13集，每集兩小回。
 
   - [《DD北斗之拳》（Flash動畫介紹頁）](https://web.archive.org/web/20130301060327/http://www.twellv.co.jp/program/kids/dd-hokuto.html)
 
-[Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink")
-[Category:平行世界題材漫畫](https://zh.wikipedia.org/wiki/Category:平行世界題材漫畫 "wikilink")
-[Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink")
-[Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
-[Category:亚细亚堂](https://zh.wikipedia.org/wiki/Category:亚细亚堂 "wikilink")
+[Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink") [Category:平行世界題材漫畫](https://zh.wikipedia.org/wiki/Category:平行世界題材漫畫 "wikilink") [Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:亚细亚堂](https://zh.wikipedia.org/wiki/Category:亚细亚堂 "wikilink")
 
 1.  <http://www.coon-poon.com/actor/koga.html>
 2.  <http://www.coon-poon.com/actor/takamura.html>

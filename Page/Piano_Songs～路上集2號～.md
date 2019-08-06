@@ -1,5 +1,4 @@
-『**Piano
-Songs〜路上集2号〜**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛](../Page/川嶋愛.md "wikilink")在2006年8月23日發售的第二張[重製](../Page/重製.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")\[1\]。
+『**Piano Songs〜路上集2号〜**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛](../Page/川嶋愛.md "wikilink")在2006年8月23日發售的第二張[重製](../Page/重製.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")\[1\]。
 
 ## 解説
 
@@ -64,8 +63,6 @@ Songs〜路上集2号〜**』是[日本](../Page/日本.md "wikilink")[創作歌
 
 ## 參考資料
 
-[Category:川嶋愛音樂專輯](https://zh.wikipedia.org/wiki/Category:川嶋愛音樂專輯 "wikilink")
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
+[Category:川嶋愛音樂專輯](https://zh.wikipedia.org/wiki/Category:川嶋愛音樂專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
 
-1.  [川嶋あい My Room - DISCOGRAPHY -
-    ALBUM](http://www.kawashimaai.com/discography/album.php)  川嶋愛官方網站
+1.  [川嶋あい My Room - DISCOGRAPHY - ALBUM](http://www.kawashimaai.com/discography/album.php)  川嶋愛官方網站

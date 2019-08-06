@@ -1,5 +1,4 @@
-「**TRI-ANGLE**」是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[东方神起的第](https://zh.wikipedia.org/wiki/东方神起 "wikilink")1張正规韩语專輯。於2004年10月13日發行。唱片公司為[SM
-Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。
+「**TRI-ANGLE**」是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[东方神起的第](https://zh.wikipedia.org/wiki/东方神起 "wikilink")1張正规韩语專輯。於2004年10月13日發行。唱片公司為[SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。
 
 ## 概要
 
@@ -12,8 +11,7 @@ Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。
 
 1.  '''믿어요 / 我相信
 2.  Thanks To / 感谢
-3.  '''TRI-ANGLE (Extended Version) (Featuring BoA & The Trax) /
-    三角-魔力(加长版)
+3.  '''TRI-ANGLE (Extended Version) (Featuring BoA & The Trax) / 三角-魔力(加长版)
 4.  내 여자친구가 되어줄래? / 可以做我的女朋友吗？
 5.  Whatever They Say (Accapella) / 不管他们怎么说（清唱版）
 6.  Million Men / 富翁

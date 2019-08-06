@@ -98,7 +98,6 @@ BD8型由[北京地铁车辆厂制造](https://zh.wikipedia.org/wiki/北京地�
 
   - [北京地铁车辆装备有限公司](https://web.archive.org/web/20130116163659/http://www.bsrse.com/)
 
-[车](https://zh.wikipedia.org/wiki/分类:北京地铁13号线 "wikilink")
-[BD8](https://zh.wikipedia.org/wiki/分类:天津地铁车辆 "wikilink")
+[车](https://zh.wikipedia.org/wiki/分类:北京地铁13号线 "wikilink") [BD8](https://zh.wikipedia.org/wiki/分类:天津地铁车辆 "wikilink")
 
 [Category:北京地铁BD系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁BD系列电动车组 "wikilink")

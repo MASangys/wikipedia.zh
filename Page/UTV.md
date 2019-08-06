@@ -4,32 +4,23 @@
 
 [中國移動香港](../Page/中國移動香港.md "wikilink")在2010年6月用1億7千5百萬[港元](../Page/港元.md "wikilink")投得綜合傳送者牌照，以提供廣播類[流動電視及相關服務](https://zh.wikipedia.org/wiki/香港電視廣播#流動電視 "wikilink")。競投對手包括[電訊盈科](../Page/電訊盈科.md "wikilink")及[城市電訊](../Page/城市電訊.md "wikilink")（現名為[香港電視網絡](../Page/香港電視網絡.md "wikilink")）。\[1\]\[2\]
 
-UTV於2012年12月10日正式啟播，啟播時一共有8條頻道，包括2條免費頻道和6條收費頻道。\[3\]免費頻道包括UTV旗艦頻道[UOne](../Page/UOne.md "wikilink")和[互動新聞台](https://zh.wikipedia.org/wiki/互動新聞台 "wikilink")，收費頻道則包括[美亞高清電影台](../Page/美亞電影台.md "wikilink")、[channel
-M
-高清頻道](https://zh.wikipedia.org/wiki/channel_M "wikilink")、[國家地理野生高清頻道](../Page/國家地理野生頻道.md "wikilink")、[衛視中文台](../Page/衛視中文台.md "wikilink")、[Cartoon
-Network和印尼頻道](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")[MNC
-International](https://zh.wikipedia.org/wiki/MNC_International "wikilink")。
+UTV於2012年12月10日正式啟播，啟播時一共有8條頻道，包括2條免費頻道和6條收費頻道。\[3\]免費頻道包括UTV旗艦頻道[UOne](../Page/UOne.md "wikilink")和[互動新聞台](https://zh.wikipedia.org/wiki/互動新聞台 "wikilink")，收費頻道則包括[美亞高清電影台](../Page/美亞電影台.md "wikilink")、[channel M 高清頻道](https://zh.wikipedia.org/wiki/channel_M "wikilink")、[國家地理野生高清頻道](../Page/國家地理野生頻道.md "wikilink")、[衛視中文台](../Page/衛視中文台.md "wikilink")、[Cartoon Network和印尼頻道](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")[MNC International](https://zh.wikipedia.org/wiki/MNC_International "wikilink")。
 
-UTV流動電視牌照的所屬公司「China Mobile Hong Kong Corporation
-Limited」原為中國移動香港的子公司，於2013年12月20日由香港電視網絡全數收購\[4\]。香港電視網絡在收購落實前的2013年10月未獲[香港特區政府接納其免費電視牌照申請](https://zh.wikipedia.org/wiki/香港特區政府 "wikilink")。
+UTV流動電視牌照的所屬公司「China Mobile Hong Kong Corporation Limited」原為中國移動香港的子公司，於2013年12月20日由香港電視網絡全數收購\[4\]。香港電視網絡在收購落實前的2013年10月未獲[香港特區政府接納其免費電視牌照申請](https://zh.wikipedia.org/wiki/香港特區政府 "wikilink")。
 
-2014年10月28日，UTV透過官網表示印尼頻道[MNC
-International將於](https://zh.wikipedia.org/wiki/MNC_International "wikilink")2015年1月1日起停播。\[5\]
+2014年10月28日，UTV透過官網表示印尼頻道[MNC International將於](https://zh.wikipedia.org/wiki/MNC_International "wikilink")2015年1月1日起停播。\[5\]
 
 2015年4月1日，UTV免費頻道之[KMTV在](https://zh.wikipedia.org/wiki/w:en:KMTV_Asia "wikilink")529頻道啓播。
 
 2015年4月17日，UTV透過官網表示[美亞高清電影台將於](../Page/美亞電影台.md "wikilink")2015年4月16日起成為免費頻道。\[6\]
 
-2015年11月30日，由2015年12月1日起，UTV免費頻道之[UOne](../Page/UOne.md "wikilink")及[美亞高清電影台將停止提供服務](../Page/美亞電影台.md "wikilink")。\[7\]同日，[C+
-頻道在](../Page/C+_頻道.md "wikilink")521頻道啟播。
+2015年11月30日，由2015年12月1日起，UTV免費頻道之[UOne](../Page/UOne.md "wikilink")及[美亞高清電影台將停止提供服務](../Page/美亞電影台.md "wikilink")。\[7\]同日，[C+ 頻道在](../Page/C+_頻道.md "wikilink")521頻道啟播。
 
-2015年12月30日，由2016年2月1日起，UTV免費頻道之[互動新聞台及UTV收費頻道之](https://zh.wikipedia.org/wiki/互動新聞台 "wikilink")[Cartoon
-Network將停止提供服務](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")。\[8\]
+2015年12月30日，由2016年2月1日起，UTV免費頻道之[互動新聞台及UTV收費頻道之](https://zh.wikipedia.org/wiki/互動新聞台 "wikilink")[Cartoon Network將停止提供服務](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")。\[8\]
 
 2016年4月7日，UTV透過官網表示[KMTV將於](https://zh.wikipedia.org/wiki/w:en:KMTV_Asia "wikilink")2015年5月9日起成為收費頻道。\[9\]
 
-2016年6月3日，[Channel
-M第](https://zh.wikipedia.org/wiki/Channel_M "wikilink")524頻道改名為[tvN](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")。
+2016年6月3日，[Channel M第](https://zh.wikipedia.org/wiki/Channel_M "wikilink")524頻道改名為[tvN](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")。
 
 2017年12月1日，UTV收費頻道之[tvN](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")、[國家地理野生高清頻道](../Page/國家地理野生頻道.md "wikilink")、[衛視中文台](../Page/衛視中文台.md "wikilink")停播。\[10\]
 
@@ -37,14 +28,11 @@ UTV的應用程式除了適用於香港外，將會在短期內擴展至澳門�
 
 ## 收看方法
 
-由於持有大氣電波的「China Mobile Hong Kong Corporation
-Limited」已由香港電視網絡收購，現時中國移動香港的UTV支援[Android](../Page/Android.md "wikilink")平台和[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")，使用者可在以Android或iOS作為[作業系統的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[手提電話或](https://zh.wikipedia.org/wiki/手提電話 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")上安裝UTV的[應用程式收看頻道](https://zh.wikipedia.org/wiki/流動軟件應用程式 "wikilink")，或使用由UTV自行推出的以Android作為作業系統的UTV
-Dongle。\[11\]UTV Dongle具有HDMI插頭，插在電視機上直接使用。\[12\]
+由於持有大氣電波的「China Mobile Hong Kong Corporation Limited」已由香港電視網絡收購，現時中國移動香港的UTV支援[Android](../Page/Android.md "wikilink")平台和[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")，使用者可在以Android或iOS作為[作業系統的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[手提電話或](https://zh.wikipedia.org/wiki/手提電話 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")上安裝UTV的[應用程式收看頻道](https://zh.wikipedia.org/wiki/流動軟件應用程式 "wikilink")，或使用由UTV自行推出的以Android作為作業系統的UTV Dongle。\[11\]UTV Dongle具有HDMI插頭，插在電視機上直接使用。\[12\]
 
 觀眾不用與UTV簽約即可收看UTV提供的免費頻道，而收看收費頻道亦不需簽約，只需按月收費。\[13\]
 
-UTV將會於短期內擴展至智能電視機（如樂視TV超級電視）及電視盒（如小米盒子、樂視盒子）上收看，並在中國、日本及韓國大型品牌多款型號的智能電視會預載UTV
-APP應用程式。
+UTV將會於短期內擴展至智能電視機（如樂視TV超級電視）及電視盒（如小米盒子、樂視盒子）上收看，並在中國、日本及韓國大型品牌多款型號的智能電視會預載UTV APP應用程式。
 
 ## 頻道
 
@@ -91,10 +79,7 @@ APP應用程式。
   - [UTV官方網站](http://utvhk.com)
   - [中國移動香港：UTV](https://web.archive.org/web/20131219144216/http://www.hk.chinamobile.com/tc/data-n-vas/UTV)
 
-[Category:中國移動](https://zh.wikipedia.org/wiki/Category:中國移動 "wikilink")
-[Category:香港網絡電視](https://zh.wikipedia.org/wiki/Category:香港網絡電視 "wikilink")
-[Category:2012年成立的公司](https://zh.wikipedia.org/wiki/Category:2012年成立的公司 "wikilink")
-[Category:美亞集團](https://zh.wikipedia.org/wiki/Category:美亞集團 "wikilink")
+[Category:中國移動](https://zh.wikipedia.org/wiki/Category:中國移動 "wikilink") [Category:香港網絡電視](https://zh.wikipedia.org/wiki/Category:香港網絡電視 "wikilink") [Category:2012年成立的公司](https://zh.wikipedia.org/wiki/Category:2012年成立的公司 "wikilink") [Category:美亞集團](https://zh.wikipedia.org/wiki/Category:美亞集團 "wikilink")
 
 1.
 
@@ -104,8 +89,7 @@ APP應用程式。
 
 4.
 
-5.  [印尼MNC International 頻道停止接受申請 ，
-    UTV](http://utvhk.com/news/detail/?id=30)
+5.  [印尼MNC International 頻道停止接受申請 ， UTV](http://utvhk.com/news/detail/?id=30)
 
 6.  [好消息\!美亞高清電影台免費任睇\! ， UTV](http://utvhk.com/news/detail/?id=34)
 

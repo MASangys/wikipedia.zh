@@ -1,27 +1,9 @@
-**Epik
-High**（）是由兩名[饒舌](../Page/饒舌.md "wikilink")[歌手](../Page/歌手.md "wikilink")和一名[DJ组成的韓國](https://zh.wikipedia.org/wiki/DJ "wikilink")[嘻哈](../Page/嘻哈.md "wikilink")團體，於2003年出道。團體的名字Epik
-high意為沉醉在詩里的狀態，或者是具有史詩似偉大的意思，粉絲名為High
-Skool。像他們的名字一樣，說唱的歌詞很重視詩式的表現技法，抒情性及文學性，而其CD封面擁有的設計感，MV創作意境也極擄獲人心。Epik
-High的代表作品包括《Fan》、《Fly》、《One》、《Run》、《Love Love Love》、《一分一秒》、《Don't Hate
-Me》、《Happen ending》。至今共發行八張專輯。2003-2010年所屬公司是[Woollim
-Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")。2012年和[YG
-Entertainment簽约](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")，並於2012年10月19日發行第七張專辑《[99](../Page/99.md "wikilink")》，回歸睽違三年的樂壇\[1\]。
+**Epik High**（）是由兩名[饒舌](../Page/饒舌.md "wikilink")[歌手](../Page/歌手.md "wikilink")和一名[DJ组成的韓國](https://zh.wikipedia.org/wiki/DJ "wikilink")[嘻哈](../Page/嘻哈.md "wikilink")團體，於2003年出道。團體的名字Epik high意為沉醉在詩里的狀態，或者是具有史詩似偉大的意思，粉絲名為High Skool。像他們的名字一樣，說唱的歌詞很重視詩式的表現技法，抒情性及文學性，而其CD封面擁有的設計感，MV創作意境也極擄獲人心。Epik High的代表作品包括《Fan》、《Fly》、《One》、《Run》、《Love Love Love》、《一分一秒》、《Don't Hate Me》、《Happen ending》。至今共發行八張專輯。2003-2010年所屬公司是[Woollim Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")。2012年和[YG Entertainment簽约](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")，並於2012年10月19日發行第七張專辑《[99](../Page/99.md "wikilink")》，回歸睽違三年的樂壇\[1\]。
 
 ## 簡介
 
-[EpikHigh_061215_036_(18151992384).jpg](https://zh.wikipedia.org/wiki/File:EpikHigh_061215_036_\(18151992384\).jpg "fig:EpikHigh_061215_036_(18151992384).jpg")
-迄今發行八張正規專輯，其中三、四輯銷售量皆超過十萬張。（三輯：十六萬，四輯：十三萬以上）四輯銷售量也擠到年度排行第三名。從他們出道專輯開始，開展了具有代表性的獨特說唱音樂風格。憑藉詩一般的表現形式，機智的表現及高超的作詞能力，可以說是成為了一個得到廣泛高評價的Hip-hop團體。
-1980年出生的Tablo是在Epik
-High創作歌詞中佔有非常重要作用的人物，畢業於美國[史丹佛大學](../Page/史丹佛大學.md "wikilink")英國文學與寫作碩士學位。他作詞時利用詩的方式，力圖向人們展現一種接近於文學方面的作詞風格。另一位作詞者是Mithra
-Jin，1983年出生，從高中時期就積極於說唱活動，專輯中所有歌詞都是他和Tablo共同完成。DJ
-Tukutz是畢業於東亞廣播大學音像製作專業的成員，1995年開始從事DJ行業，擁有出色的作曲、編曲才華和韓國最頂尖的DJ實力。
-2009、2010年，成員DJ Tukutz與Mithra
-Jin相繼入伍。在另外兩位成員服役這段期間，Tablo陷入學歷風波\[2\]。走出學歷事件後，Tablo與[YG
-Entertainment簽約四年](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")，於2011年11月1日發行了個人的第一張專輯《紅疹》\[3\]。2012年7月YG公司宣布與成員Mithra
-Jin和DJ Tukutz簽約\[4\]，Epik High 成為 YG Family 的一份子，並將在10月份發行Epik
-High的第七張專輯。经过两年的准备，Epik
-High将于2014年10月21日以第八张专辑回归乐坛。距離上張專輯經過三年的籌備，2017年YG娛樂宣布Epik
-High將於出道日10月23日發表第9張正規專輯回歸歌壇，並於11月3日及4日兩天舉辦三場回歸演唱會。
+[EpikHigh_061215_036_(18151992384).jpg](https://zh.wikipedia.org/wiki/File:EpikHigh_061215_036_\(18151992384\).jpg "fig:EpikHigh_061215_036_(18151992384).jpg") 迄今發行八張正規專輯，其中三、四輯銷售量皆超過十萬張。（三輯：十六萬，四輯：十三萬以上）四輯銷售量也擠到年度排行第三名。從他們出道專輯開始，開展了具有代表性的獨特說唱音樂風格。憑藉詩一般的表現形式，機智的表現及高超的作詞能力，可以說是成為了一個得到廣泛高評價的Hip-hop團體。 1980年出生的Tablo是在Epik High創作歌詞中佔有非常重要作用的人物，畢業於美國[史丹佛大學](../Page/史丹佛大學.md "wikilink")英國文學與寫作碩士學位。他作詞時利用詩的方式，力圖向人們展現一種接近於文學方面的作詞風格。另一位作詞者是Mithra Jin，1983年出生，從高中時期就積極於說唱活動，專輯中所有歌詞都是他和Tablo共同完成。DJ Tukutz是畢業於東亞廣播大學音像製作專業的成員，1995年開始從事DJ行業，擁有出色的作曲、編曲才華和韓國最頂尖的DJ實力。
+2009、2010年，成員DJ Tukutz與Mithra Jin相繼入伍。在另外兩位成員服役這段期間，Tablo陷入學歷風波\[2\]。走出學歷事件後，Tablo與[YG Entertainment簽約四年](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")，於2011年11月1日發行了個人的第一張專輯《紅疹》\[3\]。2012年7月YG公司宣布與成員Mithra Jin和DJ Tukutz簽約\[4\]，Epik High 成為 YG Family 的一份子，並將在10月份發行Epik High的第七張專輯。经过两年的准备，Epik High将于2014年10月21日以第八张专辑回归乐坛。距離上張專輯經過三年的籌備，2017年YG娛樂宣布Epik High將於出道日10月23日發表第9張正規專輯回歸歌壇，並於11月3日及4日兩天舉辦三場回歸演唱會。
 2018年10月2日，YG娛樂發出官方聲明，Epik High不再續約，結束7年的合作。
 
 ## 成員資料
@@ -42,23 +24,19 @@ High將於出道日10月23日發表第9張正規專輯回歸歌壇，並於11月
 
 ### 2005年
 
-  - [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[彩虹羅曼史](../Page/彩虹羅曼史.md "wikilink")》（Epik
-    High全體客串）
+  - [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[彩虹羅曼史](../Page/彩虹羅曼史.md "wikilink")》（Epik High全體客串）
 
 ### 2006年
 
-  - [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《打架的技術》（Epik
-    High全體主演）
+  - [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《打架的技術》（Epik High全體主演）
 
 ### 2007年
 
-  - [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[不可阻擋的High
-    Kick](https://zh.wikipedia.org/wiki/不可阻擋的High_Kick "wikilink")》（Tablo客串）
+  - [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[不可阻擋的High Kick](https://zh.wikipedia.org/wiki/不可阻擋的High_Kick "wikilink")》（Tablo客串）
 
 ### 2008年
 
-  - [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[太陽的女子](../Page/太陽的女子.md "wikilink")》（Epik
-    High全體客串）
+  - [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[太陽的女子](../Page/太陽的女子.md "wikilink")》（Epik High全體客串）
 
 ## 電影
 
@@ -279,11 +257,9 @@ High將於出道日10月23日發表第9張正規專輯回歸歌壇，並於11月
 ### 合作歌曲
 
   - 2014年5月18日
-      - Epik High X BiBiZhou（[周笔畅](../Page/周笔畅.md "wikilink")） - With
-        You\[5\]
+      - Epik High X BiBiZhou（[周笔畅](../Page/周笔畅.md "wikilink")） - With You\[5\]
   - 2018年6月28日
-      - Epik High X END OF THE WORLD （SEKAI NO OWARI）－Sleeping
-        Beauty\[6\]
+      - Epik High X END OF THE WORLD （SEKAI NO OWARI）－Sleeping Beauty\[6\]
 
 ### 原聲帶
 
@@ -1141,7 +1117,6 @@ High將於出道日10月23日發表第9張正規專輯回歸歌壇，並於11月
   - [Epik High](https://www.epikhigh.com/) 官方網站
   - [Epik High](https://www.facebook.com/EPIKHIGH/) 官方Facebook
   - [Epik High](https://www.youtube.com/user/OfficialEpikHigh) YouTube頻道
-
   - [Tablo](https://twitter.com/blobyblo) 個人Twitter
   - [Tukutz](https://twitter.com/Tukutz81) 個人Twitter
   - [Mithra](https://twitter.com/realmithrajin) 個人Twitter
@@ -1149,10 +1124,7 @@ High將於出道日10月23日發表第9張正規專輯回歸歌壇，並於11月
   - [Tukutz](https://www.instagram.com/realtukutz/) 個人Instagram
   - [Mithra](https://www.instagram.com/realmithrajin/) 個人Instagram
 
-[Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:Epik_High](https://zh.wikipedia.org/wiki/Category:Epik_High "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
+[Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:Epik_High](https://zh.wikipedia.org/wiki/Category:Epik_High "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
 
 1.  <http://kpopn.com/2012/10/08/146897/>
 2.

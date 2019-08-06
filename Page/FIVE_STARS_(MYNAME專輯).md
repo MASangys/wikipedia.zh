@@ -1,17 +1,14 @@
-《**FIVE
-STARS**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME](../Page/MYNAME.md "wikilink")的第二張[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2014年3月26日以三個版本（共計七款）：通常盤、初回限定盤及WEB盤（共五款）推出。曾打入Oricon單曲週榜前十名的單曲《[Shirayuki](../Page/Shirayuki.md "wikilink")》在專輯推出前預先發行。
+《**FIVE STARS**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MYNAME](../Page/MYNAME.md "wikilink")的第二張[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2014年3月26日以三個版本（共計七款）：通常盤、初回限定盤及WEB盤（共五款）推出。曾打入Oricon單曲週榜前十名的單曲《[Shirayuki](../Page/Shirayuki.md "wikilink")》在專輯推出前預先發行。
 
 ## 背景
 
-2014年1月12日，MYNAME的日本官方網站公佈了《FIVE
-STARS》的發行消息\[1\]。五款WEB盤的封面在2月10日至2月14日依次公開\[2\]\[3\]\[4\]\[5\]\[6\]。至2月21日，通常盤和初回限定盤的封面亦告公開\[7\]。
+2014年1月12日，MYNAME的日本官方網站公佈了《FIVE STARS》的發行消息\[1\]。五款WEB盤的封面在2月10日至2月14日依次公開\[2\]\[3\]\[4\]\[5\]\[6\]。至2月21日，通常盤和初回限定盤的封面亦告公開\[7\]。
 
 ### 發行版本
 
 此專輯共分為3個發行版本：
 
-  - 初回限定盤（編號：YRCS-95017）：此版本包括一片CD及一片收錄《Shirayuki》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")、《F.F.Y.》音樂錄影帶、製作花絮和MYNAME在2014年1月12日的《MYNAME
-    JAPAN HALL TOUR2014〜HANDS UP〜》音樂會片段的DVD\[8\]。
+  - 初回限定盤（編號：YRCS-95017）：此版本包括一片CD及一片收錄《Shirayuki》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")、《F.F.Y.》音樂錄影帶、製作花絮和MYNAME在2014年1月12日的《MYNAME JAPAN HALL TOUR2014〜HANDS UP〜》音樂會片段的DVD\[8\]。
 
 <!-- end list -->
 
@@ -25,9 +22,7 @@ STARS》的發行消息\[1\]。五款WEB盤的封面在2月10日至2月14日依�
 
 1首歌曲曾以單曲形式發行：
 
-唯一單曲《[Shirayuki](../Page/Shirayuki.md "wikilink")》在2013年11月20日發行。這歌曲由[Lensei](https://zh.wikipedia.org/wiki/Lensei "wikilink")、[INP](https://zh.wikipedia.org/wiki/INP "wikilink")、[Zen
-Nishizawa作曲及填詞](https://zh.wikipedia.org/wiki/Zen_Nishizawa "wikilink")，打入了[Oricon](../Page/Oricon.md "wikilink")單曲榜第七名，首週銷售25,263張及在榜停留3星期\[11\]，B面歌曲《Sha
-la la》也出現在《FIVE STARS》的第10首位置。
+唯一單曲《[Shirayuki](../Page/Shirayuki.md "wikilink")》在2013年11月20日發行。這歌曲由[Lensei](https://zh.wikipedia.org/wiki/Lensei "wikilink")、[INP](https://zh.wikipedia.org/wiki/INP "wikilink")、[Zen Nishizawa作曲及填詞](https://zh.wikipedia.org/wiki/Zen_Nishizawa "wikilink")，打入了[Oricon](../Page/Oricon.md "wikilink")單曲榜第七名，首週銷售25,263張及在榜停留3星期\[11\]，B面歌曲《Sha la la》也出現在《FIVE STARS》的第10首位置。
 
 ## 曲目
 
@@ -49,9 +44,7 @@ la la》也出現在《FIVE STARS》的第10首位置。
 
 ## 參考資料
 
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:MYNAME音樂專輯](https://zh.wikipedia.org/wiki/Category:MYNAME音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
+[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:MYNAME音樂專輯](https://zh.wikipedia.org/wiki/Category:MYNAME音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
 
 1.
 

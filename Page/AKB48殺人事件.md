@@ -46,8 +46,7 @@ AKB48在8月畢業的前田敦子在AKB畢業後想做的工作是偵探。這�
 <!-- end list -->
 
   -
-    Team
-    A成員。AKB最年長者和被其他成員感覺到姐姐的一面，自然地裝傻讓高橋慌張失措等等。對於前田的「假裝偵探」是否定的，多次提出結束搜查，要立刻叫警察的建議。
+    Team A成員。AKB最年長者和被其他成員感覺到姐姐的一面，自然地裝傻讓高橋慌張失措等等。對於前田的「假裝偵探」是否定的，多次提出結束搜查，要立刻叫警察的建議。
 
 <!-- end list -->
 
@@ -285,15 +284,8 @@ AKB48在8月畢業的前田敦子在AKB畢業後想做的工作是偵探。這�
 
   - [AKB48殺人事件（小學館）](https://web.archive.org/web/20120807063450/http://www.websunday.net/akb48murder/)
   - [AKB48殺人事件官方網站（固力果）](https://web.archive.org/web/20120712032847/http://ice.glico.jp/jiken/index.html)
-  - [AKB48殺人事件
-    固力果「冰之實」電視廣告](https://web.archive.org/web/20121021130728/http://ice.glico.jp/cm/index.html)
+  - [AKB48殺人事件 固力果「冰之實」電視廣告](https://web.archive.org/web/20121021130728/http://ice.glico.jp/cm/index.html)
 
-[Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink")
-[Category:青山剛昌](https://zh.wikipedia.org/wiki/Category:青山剛昌 "wikilink")
-[Category:無人島背景漫畫](https://zh.wikipedia.org/wiki/Category:無人島背景漫畫 "wikilink")
-[Category:偶像漫畫](https://zh.wikipedia.org/wiki/Category:偶像漫畫 "wikilink")
-[Category:AKB48家族題材作品](https://zh.wikipedia.org/wiki/Category:AKB48家族題材作品 "wikilink")
-[Category:偵探主角題材漫畫](https://zh.wikipedia.org/wiki/Category:偵探主角題材漫畫 "wikilink")
-[Category:虛構事件](https://zh.wikipedia.org/wiki/Category:虛構事件 "wikilink")
+[Category:週刊少年Sunday](https://zh.wikipedia.org/wiki/Category:週刊少年Sunday "wikilink") [Category:青山剛昌](https://zh.wikipedia.org/wiki/Category:青山剛昌 "wikilink") [Category:無人島背景漫畫](https://zh.wikipedia.org/wiki/Category:無人島背景漫畫 "wikilink") [Category:偶像漫畫](https://zh.wikipedia.org/wiki/Category:偶像漫畫 "wikilink") [Category:AKB48家族題材作品](https://zh.wikipedia.org/wiki/Category:AKB48家族題材作品 "wikilink") [Category:偵探主角題材漫畫](https://zh.wikipedia.org/wiki/Category:偵探主角題材漫畫 "wikilink") [Category:虛構事件](https://zh.wikipedia.org/wiki/Category:虛構事件 "wikilink")
 
 1.  1期成員說「頂級偶像還要30年貸款」

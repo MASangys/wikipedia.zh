@@ -3,8 +3,7 @@
 ## 概要
 
   - 與前作「[Wonderland](../Page/Wonderland.md "wikilink")」睽違約6年的單曲。
-  - 初回限定盤，附屬了收錄在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[新墨西哥州](../Page/新墨西哥州.md "wikilink")進行拍攝的「Okay」[PV](https://zh.wikipedia.org/wiki/Music_Video "wikilink")
-    DVD。初回限定盤、通常盤的唱片封面寫真雖是相同的，但唱片盒的製作有所不同。
+  - 初回限定盤，附屬了收錄在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[新墨西哥州](../Page/新墨西哥州.md "wikilink")進行拍攝的「Okay」[PV](https://zh.wikipedia.org/wiki/Music_Video "wikilink") DVD。初回限定盤、通常盤的唱片封面寫真雖是相同的，但唱片盒的製作有所不同。
   - 是首張無商業搭配的單曲。
   - 本作品獲得Oricon週榜第1位，作為男性SOLO藝人是首個達成[1990年代](../Page/1990年代.md "wikilink")、[2000年代](../Page/2000年代.md "wikilink")、[2010年代的](https://zh.wikipedia.org/wiki/2010年代 "wikilink")「3年代連續獲得單曲冠軍」紀錄。
 
@@ -15,8 +14,7 @@
         稻葉對於本曲表示「雖然不是在形容生命的短暫，但仍涵蓋了那樣的事物，是以類似於時間的流動為主題{{\#tag:ref||group="原文"}}」。
 2.  **Salvation** (4:34)
       -
-        發售當初，這首單曲是唯一的演唱會未演奏曲，但僅在『[Koshi Inaba LIVE 2014
-        ～en-ball～](https://zh.wikipedia.org/wiki/羽_\(稻葉浩志單曲\)#收錄曲 "wikilink")』的第9日被演奏了。
+        發售當初，這首單曲是唯一的演唱會未演奏曲，但僅在『[Koshi Inaba LIVE 2014 ～en-ball～](https://zh.wikipedia.org/wiki/羽_\(稻葉浩志單曲\)#收錄曲 "wikilink")』的第9日被演奏了。
 3.  **My未來（）**(2:51)
       -
         [2007年](../Page/2007年.md "wikilink")提供給[宇浦冴香](../Page/宇浦冴香.md "wikilink")的樂曲「」的自我翻唱。歌詞有所變更。
@@ -62,9 +60,6 @@
 
 -----
 
-[Category:稻葉浩志歌曲](https://zh.wikipedia.org/wiki/Category:稻葉浩志歌曲 "wikilink")
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:2010年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2010年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2010年Japan_Hot_100冠軍歌曲 "wikilink")
+[Category:稻葉浩志歌曲](https://zh.wikipedia.org/wiki/Category:稻葉浩志歌曲 "wikilink") [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:2010年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon單曲週榜冠軍作品 "wikilink") [Category:2010年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2010年Japan_Hot_100冠軍歌曲 "wikilink")
 
 1.

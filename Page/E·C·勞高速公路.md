@@ -106,8 +106,7 @@ E·C·勞高速公路西端以交通燈與奧及布威園林路平交，自此�
 
 ## 參考資料
 
-[Category:安大略省公路](https://zh.wikipedia.org/wiki/Category:安大略省公路 "wikilink")
-[Category:加拿大高速公路](https://zh.wikipedia.org/wiki/Category:加拿大高速公路 "wikilink")
+[Category:安大略省公路](https://zh.wikipedia.org/wiki/Category:安大略省公路 "wikilink") [Category:加拿大高速公路](https://zh.wikipedia.org/wiki/Category:加拿大高速公路 "wikilink")
 
 1.
 

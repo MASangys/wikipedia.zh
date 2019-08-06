@@ -14,15 +14,7 @@
 
 <div align="right" style="margin-right:8px">
 
-<small>[查看](https://zh.wikipedia.org/wiki/Wikipedia:WikiProject_Fishing/Proposals "wikilink")
-•</small> <small class="editlink noprint plainlinksneverexpand">\[
-编辑\]</small> <small>•
-[讨论](https://zh.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Fishing/Proposals "wikilink")
-•
-[历史](http://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Fishing/Proposals&action=history)
-•
-[watch](http://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Fishing/Proposals&action=watch)
-</small>
+<small>[查看](https://zh.wikipedia.org/wiki/Wikipedia:WikiProject_Fishing/Proposals "wikilink") •</small> <small class="editlink noprint plainlinksneverexpand">\[ 编辑\]</small> <small>• [讨论](https://zh.wikipedia.org/wiki/Wikipedia_talk:WikiProject_Fishing/Proposals "wikilink") • [历史](http://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Fishing/Proposals&action=history) • [watch](http://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Fishing/Proposals&action=watch) </small>
 
 </div>
 

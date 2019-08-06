@@ -16,7 +16,6 @@ Neotrogla发现于巴西境内的干燥洞穴系统内，主要以蝙蝠粪为�
 
 ## 参考文献
 
-[Category:單屬科昆蟲](https://zh.wikipedia.org/wiki/Category:單屬科昆蟲 "wikilink")
-[Category:小啮虫亚目](https://zh.wikipedia.org/wiki/Category:小啮虫亚目 "wikilink")
+[Category:單屬科昆蟲](https://zh.wikipedia.org/wiki/Category:單屬科昆蟲 "wikilink") [Category:小啮虫亚目](https://zh.wikipedia.org/wiki/Category:小啮虫亚目 "wikilink")
 
 1.

@@ -1,8 +1,6 @@
 **SAGA**是一个成立于2014年的亚洲电子流行音乐乐团。乐团的三位成员分别来自日本，韩国，中国\[1\]。
 
-在四月二号这个组合被列为头号艺术家首次出现在日本最大的音乐网站
-“[BARKS](https://zh.wikipedia.org/wiki/BARKS "wikilink")”\[2\]。他们的第一支音乐录影带"Together"
-在2014-03-29在中国最大互联网电视网站"[乐视网](../Page/乐视网.md "wikilink")(Letv)'登陆网站首页并获得电子音乐排名第一\[3\]。
+在四月二号这个组合被列为头号艺术家首次出现在日本最大的音乐网站 “[BARKS](https://zh.wikipedia.org/wiki/BARKS "wikilink")”\[2\]。他们的第一支音乐录影带"Together" 在2014-03-29在中国最大互联网电视网站"[乐视网](../Page/乐视网.md "wikilink")(Letv)'登陆网站首页并获得电子音乐排名第一\[3\]。
 
 ## 成员
 
@@ -25,17 +23,11 @@
 
 **2014**
 
-  - 在由[Fuji TV播出的](https://zh.wikipedia.org/wiki/Fuji_TV "wikilink")
-    [40th New Years World Rock
-    Festival节目中](https://zh.wikipedia.org/wiki/40th_New_Years_World_Rock_Festival "wikilink")，Rio
-    和 Kevin第一次出现并表演SAGA的音乐.\[8\]
+  - 在由[Fuji TV播出的](https://zh.wikipedia.org/wiki/Fuji_TV "wikilink") [40th New Years World Rock Festival节目中](https://zh.wikipedia.org/wiki/40th_New_Years_World_Rock_Festival "wikilink")，Rio 和 Kevin第一次出现并表演SAGA的音乐.\[8\]
 
 <!-- end list -->
 
-  - 01-18 - Rio出现在[Yuk Keep
-    Smile节目中](https://zh.wikipedia.org/wiki/Yuk_Keep_Smile "wikilink"),
-    [Indonesia全国收视率第一的电视节目](https://zh.wikipedia.org/wiki/Indonesia "wikilink"),
-    宣布SAGA会在[Indonesia出道](https://zh.wikipedia.org/wiki/Indonesia "wikilink").\[9\]
+  - 01-18 - Rio出现在[Yuk Keep Smile节目中](https://zh.wikipedia.org/wiki/Yuk_Keep_Smile "wikilink"), [Indonesia全国收视率第一的电视节目](https://zh.wikipedia.org/wiki/Indonesia "wikilink"), 宣布SAGA会在[Indonesia出道](https://zh.wikipedia.org/wiki/Indonesia "wikilink").\[9\]
 
 <!-- end list -->
 
@@ -43,45 +35,31 @@
 
 <!-- end list -->
 
-  - 03-01 -
-    SAGA在[Facebook](../Page/Facebook.md "wikilink")上宣布正式出道，并在两周内获得10,000全世界的粉丝
-    .\[11\]
+  - 03-01 - SAGA在[Facebook](../Page/Facebook.md "wikilink")上宣布正式出道，并在两周内获得10,000全世界的粉丝 .\[11\]
 
 <!-- end list -->
 
-  - SAGA宣布与为[Girls
-    Generation](https://zh.wikipedia.org/wiki/Girls_Generation "wikilink"),
-    [Super Junior编舞的](../Page/Super_Junior.md "wikilink")[Rino
-    Nakasone合作励志歌曲](https://zh.wikipedia.org/wiki/Rino_Nakasone "wikilink")
-    "One", 该歌曲包含四国语言.
-    它是作为在印尼最大手机品牌之一[Maxtreon的广告歌曲](https://zh.wikipedia.org/wiki/Maxtreon "wikilink").\[12\]
+  - SAGA宣布与为[Girls Generation](https://zh.wikipedia.org/wiki/Girls_Generation "wikilink"), [Super Junior编舞的](../Page/Super_Junior.md "wikilink")[Rino Nakasone合作励志歌曲](https://zh.wikipedia.org/wiki/Rino_Nakasone "wikilink") "One", 该歌曲包含四国语言. 它是作为在印尼最大手机品牌之一[Maxtreon的广告歌曲](https://zh.wikipedia.org/wiki/Maxtreon "wikilink").\[12\]
 
 <!-- end list -->
 
-  - 03-16 -在印尼全国卫视之一
-    [SCTV官方首秀](https://zh.wikipedia.org/wiki/SCTV_\(Indonesia\) "wikilink").Rio出席并与印尼顶级偶像团体[Cherrybelle同台表演](https://zh.wikipedia.org/wiki/Cherrybelle "wikilink").Rio重新编曲他们的歌曲"Pura
-    Pura Cinta”为SAGA的舞曲风格，这种风格被称作“SAGAMIX”,它让听众创造了超过10000的推特转发.\[13\]
+  - 03-16 -在印尼全国卫视之一 [SCTV官方首秀](https://zh.wikipedia.org/wiki/SCTV_\(Indonesia\) "wikilink").Rio出席并与印尼顶级偶像团体[Cherrybelle同台表演](https://zh.wikipedia.org/wiki/Cherrybelle "wikilink").Rio重新编曲他们的歌曲"Pura Pura Cinta”为SAGA的舞曲风格，这种风格被称作“SAGAMIX”,它让听众创造了超过10000的推特转发.\[13\]
 
 <!-- end list -->
 
-  - 03-27 -
-    在[日本](../Page/日本.md "wikilink")多个主要的音乐和新闻网站正式亮相，在“亚洲流行日韩中间单元”公布.\[14\]
+  - 03-27 - 在[日本](../Page/日本.md "wikilink")多个主要的音乐和新闻网站正式亮相，在“亚洲流行日韩中间单元”公布.\[14\]
 
 <!-- end list -->
 
-  - 03-29 -
-    在[中国正式亮相](https://zh.wikipedia.org/wiki/中国 "wikilink")，特别是在[乐视网](../Page/乐视网.md "wikilink")，中国最大的互联网电视网站.\[15\]
+  - 03-29 - 在[中国正式亮相](https://zh.wikipedia.org/wiki/中国 "wikilink")，特别是在[乐视网](../Page/乐视网.md "wikilink")，中国最大的互联网电视网站.\[15\]
 
 <!-- end list -->
 
-  - 04-01 -
-    在[韩国的正式亮相是由韩国著名新闻网站](https://zh.wikipedia.org/wiki/韩国 "wikilink")[Asia
-    Today公布](https://zh.wikipedia.org/wiki/Asia_Today "wikilink").\[16\]
+  - 04-01 - 在[韩国的正式亮相是由韩国著名新闻网站](https://zh.wikipedia.org/wiki/韩国 "wikilink")[Asia Today公布](https://zh.wikipedia.org/wiki/Asia_Today "wikilink").\[16\]
 
 <!-- end list -->
 
-  - 04-02 –
-    SAGA被列为头号艺术家首次出现在日本最大的音乐网站“[BARKS](https://zh.wikipedia.org/wiki/BARKS "wikilink")”.\[17\]
+  - 04-02 – SAGA被列为头号艺术家首次出现在日本最大的音乐网站“[BARKS](https://zh.wikipedia.org/wiki/BARKS "wikilink")”.\[17\]
 
 <!-- end list -->
 
@@ -89,8 +67,7 @@
 
 <!-- end list -->
 
-  - 05-24-
-    SAGA宣布了他们的第一次现场演出，印尼最大的节日现场演出-“[Ennichisai](https://zh.wikipedia.org/wiki/Ennichisai "wikilink")”，每年有超过20万的观众。\[19\]
+  - 05-24- SAGA宣布了他们的第一次现场演出，印尼最大的节日现场演出-“[Ennichisai](https://zh.wikipedia.org/wiki/Ennichisai "wikilink")”，每年有超过20万的观众。\[19\]
 
 <!-- end list -->
 
@@ -102,21 +79,15 @@
 
 ## "SaGa"的由来
 
-  - SAGA的前身，有一个叫做SaGa来自日本[艾回唱片和](https://zh.wikipedia.org/wiki/艾回唱片 "wikilink")[GENEON
-    Entertainment
-    USA唱片公司](https://zh.wikipedia.org/wiki/GENEON_Entertainment_USA "wikilink").\[22\]
+  - SAGA的前身，有一个叫做SaGa来自日本[艾回唱片和](https://zh.wikipedia.org/wiki/艾回唱片 "wikilink")[GENEON Entertainment USA唱片公司](https://zh.wikipedia.org/wiki/GENEON_Entertainment_USA "wikilink").\[22\]
 
 <!-- end list -->
 
-  - 2005年，流行动漫作品和游戏"[Viewtiful
-    Joe（红侠乔伊）](https://zh.wikipedia.org/wiki/Viewtiful_Joe（红侠乔伊） "wikilink")”的片头片尾曲，"[Viewtiful
-    Joe（红侠乔伊）](https://zh.wikipedia.org/wiki/Viewtiful_Joe（红侠乔伊） "wikilink")”赢得“美国最佳游戏”，这些歌曲也成为SAGA的出道曲.\[23\]
+  - 2005年，流行动漫作品和游戏"[Viewtiful Joe（红侠乔伊）](https://zh.wikipedia.org/wiki/Viewtiful_Joe（红侠乔伊） "wikilink")”的片头片尾曲，"[Viewtiful Joe（红侠乔伊）](https://zh.wikipedia.org/wiki/Viewtiful_Joe（红侠乔伊） "wikilink")”赢得“美国最佳游戏”，这些歌曲也成为SAGA的出道曲.\[23\]
 
 <!-- end list -->
 
-  - 在八月的第二支单曲“[Spirit
-    Awake](https://zh.wikipedia.org/wiki/Spirit_Awake "wikilink")”，作为新的“[红侠乔伊](https://zh.wikipedia.org/wiki/红侠乔伊 "wikilink")”开场曲，并参加由日本[艾回主办最大的节日](https://zh.wikipedia.org/wiki/艾回 "wikilink")[A-nation现唱演出](https://zh.wikipedia.org/wiki/A-nation "wikilink").
-    \[24\]
+  - 在八月的第二支单曲“[Spirit Awake](https://zh.wikipedia.org/wiki/Spirit_Awake "wikilink")”，作为新的“[红侠乔伊](https://zh.wikipedia.org/wiki/红侠乔伊 "wikilink")”开场曲，并参加由日本[艾回主办最大的节日](https://zh.wikipedia.org/wiki/艾回 "wikilink")[A-nation现唱演出](https://zh.wikipedia.org/wiki/A-nation "wikilink"). \[24\]
 
 <!-- end list -->
 
@@ -124,10 +95,7 @@
 
 <!-- end list -->
 
-  - SAGA制作的主题曲，为中国第一等级的格斗秀“[武林风](../Page/武林风.md "wikilink")”，这是由[河南卫视](../Page/河南卫视.md "wikilink")自2006年开始制作的节目。[武林风](../Page/武林风.md "wikilink")之[Global
-    Top
-    Fighter由中国](https://zh.wikipedia.org/wiki/Global_Top_Fighter "wikilink")[河南卫视](../Page/河南卫视.md "wikilink")和日本[富士电视台合作](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")。SAGA做他们在中国的第一次现场表演和活动聚集了超过6000人。
-    SAGA煽情的音乐和特别的民族服饰在中国各大新闻媒体成为热门话题，超过50个网络媒体和报纸报道。\[26\]
+  - SAGA制作的主题曲，为中国第一等级的格斗秀“[武林风](../Page/武林风.md "wikilink")”，这是由[河南卫视](../Page/河南卫视.md "wikilink")自2006年开始制作的节目。[武林风](../Page/武林风.md "wikilink")之[Global Top Fighter由中国](https://zh.wikipedia.org/wiki/Global_Top_Fighter "wikilink")[河南卫视](../Page/河南卫视.md "wikilink")和日本[富士电视台合作](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")。SAGA做他们在中国的第一次现场表演和活动聚集了超过6000人。 SAGA煽情的音乐和特别的民族服饰在中国各大新闻媒体成为热门话题，超过50个网络媒体和报纸报道。\[26\]
 
 <!-- end list -->
 
@@ -162,8 +130,7 @@
   - [SAGA 官方YouTube](http://www.youtube.com/user/sagaonlinetv)
   - [SAGA官方Twitter](https://twitter.com/SAGA_ASIA)
 
-[Category:電子音樂團體](https://zh.wikipedia.org/wiki/Category:電子音樂團體 "wikilink")
-[Category:2014年建立的組織](https://zh.wikipedia.org/wiki/Category:2014年建立的組織 "wikilink")
+[Category:電子音樂團體](https://zh.wikipedia.org/wiki/Category:電子音樂團體 "wikilink") [Category:2014年建立的組織](https://zh.wikipedia.org/wiki/Category:2014年建立的組織 "wikilink")
 
 1.
 

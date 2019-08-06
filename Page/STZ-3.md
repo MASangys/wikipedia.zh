@@ -41,11 +41,9 @@
 
   - [STZ-5](../Page/STZ-5.md "wikilink")中型炮兵牽引車
 
-  - [史達林涅茲(Stalinez)拖拉機－ChTZ
-    S-60](../Page/ChTZ_S-60.md "wikilink")－戰爭爆發時蘇軍數量最多的拖拉機
+  - [史達林涅茲(Stalinez)拖拉機－ChTZ S-60](../Page/ChTZ_S-60.md "wikilink")－戰爭爆發時蘇軍數量最多的拖拉機
 
-  - [史達林涅茲(Stalinez)拖拉機－ChTZ
-    S-65](../Page/ChTZ_S-65.md "wikilink")－S-60的後繼拖拉機
+  - [史達林涅茲(Stalinez)拖拉機－ChTZ S-65](../Page/ChTZ_S-65.md "wikilink")－S-60的後繼拖拉機
 
   - [共產國際重型炮兵牽引車](../Page/T-24坦克.md "wikilink")
 
@@ -57,5 +55,4 @@
 
   - David Porter作，卡米柚子譯，《赤色風暴：蘇聯坦克部隊》，臺北，楓書坊，2010年。
 
-[Category:拖拉機](https://zh.wikipedia.org/wiki/Category:拖拉機 "wikilink")
-[Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")
+[Category:拖拉機](https://zh.wikipedia.org/wiki/Category:拖拉機 "wikilink") [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")

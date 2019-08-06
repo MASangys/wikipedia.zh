@@ -1,44 +1,18 @@
-**HD
-Graphics**是[Intel一系列的](https://zh.wikipedia.org/wiki/Intel "wikilink")[整合顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，於2010年首次推出。不同於以往整合在[晶片組的顯示核心](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，此次顯示核心是整合於[處理器上](https://zh.wikipedia.org/wiki/處理器 "wikilink")，並且擁有獨立的[品牌](../Page/品牌.md "wikilink")。[中國大陸官方](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[中文品牌名稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")“****”，\[1\]而[台灣仍採用半](https://zh.wikipedia.org/wiki/台灣 "wikilink")[直譯的](https://zh.wikipedia.org/wiki/直譯 "wikilink")“****”，\[2\]，而[港澳地區](../Page/港澳地區.md "wikilink")則繼續沿用官方的[英文名稱](https://zh.wikipedia.org/wiki/英文 "wikilink")“Intel®
-HD Graphics”\[3\]。
+**HD Graphics**是[Intel一系列的](https://zh.wikipedia.org/wiki/Intel "wikilink")[整合顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，於2010年首次推出。不同於以往整合在[晶片組的顯示核心](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，此次顯示核心是整合於[處理器上](https://zh.wikipedia.org/wiki/處理器 "wikilink")，並且擁有獨立的[品牌](../Page/品牌.md "wikilink")。[中國大陸官方](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[中文品牌名稱為](https://zh.wikipedia.org/wiki/中文 "wikilink")“****”，\[1\]而[台灣仍採用半](https://zh.wikipedia.org/wiki/台灣 "wikilink")[直譯的](https://zh.wikipedia.org/wiki/直譯 "wikilink")“****”，\[2\]，而[港澳地區](../Page/港澳地區.md "wikilink")則繼續沿用官方的[英文名稱](https://zh.wikipedia.org/wiki/英文 "wikilink")“Intel® HD Graphics”\[3\]。
 
-**Iris Graphics**及**Iris Pro
-Graphics**是Intel最新的整合式顯示核心品牌，在2012年推出的Haswell微架構處理器中開始使用，規格與HD
-Graphics相同，但頻率及效能更高。其中，Pro版帶有128MB eDRAM（embedded
-[DRAM](https://zh.wikipedia.org/wiki/DRAM "wikilink")）用作GPU快取，也可當作CPU
-L4。\[4\]
+**Iris Graphics**及**Iris Pro Graphics**是Intel最新的整合式顯示核心品牌，在2012年推出的Haswell微架構處理器中開始使用，規格與HD Graphics相同，但頻率及效能更高。其中，Pro版帶有128MB eDRAM（embedded [DRAM](https://zh.wikipedia.org/wiki/DRAM "wikilink")）用作GPU快取，也可當作CPU L4。\[4\]
 
 ## 歷史
 
-在Intel推出HD
-Graphics以前，Intel的整合顯示核心是整合於[北橋](https://zh.wikipedia.org/wiki/北橋 "wikilink")[晶片中](https://zh.wikipedia.org/wiki/晶片 "wikilink")，包括[Intel
-Extreme
-Graphics和](https://zh.wikipedia.org/wiki/Intel_Extreme_Graphics "wikilink")[Intel
-GMA在內均採用這種設計](../Page/Intel_GMA.md "wikilink")。後來Intel在推出[Nehalem微架構以後逐步推行單晶片組設計](https://zh.wikipedia.org/wiki/Intel_Nehalem "wikilink")——北橋大部分整合於[處理器上](https://zh.wikipedia.org/wiki/處理器 "wikilink")，小部分北橋的功能另外整合於剩下的[南橋晶片內](https://zh.wikipedia.org/wiki/南橋 "wikilink")，即是Intel官方的“PCH單晶片”（Platform
-Controller
-Hub）設計。原來整合於北橋的顯示核心也搬到處理器上。這種設計是為了回應[AMD當時計劃中的](https://zh.wikipedia.org/wiki/AMD "wikilink")[AMD
-Fusion](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink")。
+在Intel推出HD Graphics以前，Intel的整合顯示核心是整合於[北橋](https://zh.wikipedia.org/wiki/北橋 "wikilink")[晶片中](https://zh.wikipedia.org/wiki/晶片 "wikilink")，包括[Intel Extreme Graphics和](https://zh.wikipedia.org/wiki/Intel_Extreme_Graphics "wikilink")[Intel GMA在內均採用這種設計](../Page/Intel_GMA.md "wikilink")。後來Intel在推出[Nehalem微架構以後逐步推行單晶片組設計](https://zh.wikipedia.org/wiki/Intel_Nehalem "wikilink")——北橋大部分整合於[處理器上](https://zh.wikipedia.org/wiki/處理器 "wikilink")，小部分北橋的功能另外整合於剩下的[南橋晶片內](https://zh.wikipedia.org/wiki/南橋 "wikilink")，即是Intel官方的“PCH單晶片”（Platform Controller Hub）設計。原來整合於北橋的顯示核心也搬到處理器上。這種設計是為了回應[AMD當時計劃中的](https://zh.wikipedia.org/wiki/AMD "wikilink")[AMD Fusion](https://zh.wikipedia.org/wiki/AMD_Fusion "wikilink")。
 
 ### Westmere架構
 
-2010年1月，Intel推出基建於Nehalem微架構，核心代號“Clarkdale”和“Arrandale”的處理器，整合HD
-Graphics的首款產品HD
-Graphics，採用這些處理器核心的處理器有[Celeron](https://zh.wikipedia.org/wiki/Celeron "wikilink")、[Pentium
-Dual
-Core和](https://zh.wikipedia.org/wiki/Intel_Pentium_Dual-Core_處理器列表 "wikilink")[Intel
-Core
-i3](../Page/Intel_Core_i3.md "wikilink")。嚴格來說，由於記憶體控制器、PCI-E控制器等高速匯流排控制單元都已移到CPU上，實際相當於在CPU上簡單地整合北橋晶片，只是順帶將整合式顯示核心一併整合上去。而該代顯示核心的架構仍然是基於Intel
-GMA系列。\[5\]
+2010年1月，Intel推出基建於Nehalem微架構，核心代號“Clarkdale”和“Arrandale”的處理器，整合HD Graphics的首款產品HD Graphics，採用這些處理器核心的處理器有[Celeron](https://zh.wikipedia.org/wiki/Celeron "wikilink")、[Pentium Dual Core和](https://zh.wikipedia.org/wiki/Intel_Pentium_Dual-Core_處理器列表 "wikilink")[Intel Core i3](../Page/Intel_Core_i3.md "wikilink")。嚴格來說，由於記憶體控制器、PCI-E控制器等高速匯流排控制單元都已移到CPU上，實際相當於在CPU上簡單地整合北橋晶片，只是順帶將整合式顯示核心一併整合上去。而該代顯示核心的架構仍然是基於Intel GMA系列。\[5\]
 
 ### Sandy Bridge/ Ivy Bridge 架構
 
-2011年1月，Intel發布的[Sandy
-Bridge微架構中](../Page/Sandy_Bridge微架構.md "wikilink")，全線產品整合“第五代”HD
-Graphics，更新顯示核心的架構，使得同樣是6個執行單元（EU，[Execution
-units](https://zh.wikipedia.org/wiki/Execution_units "wikilink")）的情況下，效能翻倍提升。
-2012年4月24日，Intel發布[Ivy
-Bridge全線產品整合](https://zh.wikipedia.org/wiki/Intel_Ivy_Bridge "wikilink")“第六代”HD
-Graphics，但實際上架構仍延續Sandy Bridge架構的設計。包括：\[6\]
+2011年1月，Intel發布的[Sandy Bridge微架構中](../Page/Sandy_Bridge微架構.md "wikilink")，全線產品整合“第五代”HD Graphics，更新顯示核心的架構，使得同樣是6個執行單元（EU，[Execution units](https://zh.wikipedia.org/wiki/Execution_units "wikilink")）的情況下，效能翻倍提升。 2012年4月24日，Intel發布[Ivy Bridge全線產品整合](https://zh.wikipedia.org/wiki/Intel_Ivy_Bridge "wikilink")“第六代”HD Graphics，但實際上架構仍延續Sandy Bridge架構的設計。包括：\[6\]
 
 此代HD Graphics的產品有：
 
@@ -51,8 +25,7 @@ Graphics，但實際上架構仍延續Sandy Bridge架構的設計。包括：\[6
 
 ### Haswell/Broadwell架構
 
-2012年9月12日，英特爾宣布Haswell架構的微處理器上會內建「第七代」整合式顯示核心，儘管仍然延續前一代的設計，但繼續擴增規模。除此以外，高階型號的HD
-Graphics還另立品牌「Iris」，中文名「-{锐炬/銳炬}-」。而Broadwell則內建Intel重新設計「第八代」整合式顯示核心\[7\]
+2012年9月12日，英特爾宣布Haswell架構的微處理器上會內建「第七代」整合式顯示核心，儘管仍然延續前一代的設計，但繼續擴增規模。除此以外，高階型號的HD Graphics還另立品牌「Iris」，中文名「-{锐炬/銳炬}-」。而Broadwell則內建Intel重新設計「第八代」整合式顯示核心\[7\]
 
 此代HD/Iris Graphic的產品有：
 
@@ -64,24 +37,18 @@ Graphics還另立品牌「Iris」，中文名「-{锐炬/銳炬}-」。而Broadw
   - Iris Graphics 6000/6100（EU：48），核心代號「GT3」
   - Iris Graphics 6200/P6300（EU：48），核心代號「GT3e」
 
-此代從HD Graphics 5000便兩倍運算效能於上一代的HD Graphics
-4000，其中帶「P」字型號的是內建於Xeon處理器上，而擁有eDRAM內嵌式動態記憶體，能有效降低延時以增進繪圖效能，雖僅用於[筆電但Broadwell桌上型則有](https://zh.wikipedia.org/wiki/筆電 "wikilink")[Core
-i5-5675C及](https://zh.wikipedia.org/wiki/Core_i5-5675C "wikilink")[Core
-i7-5775C內建該代最高Iris](https://zh.wikipedia.org/wiki/Core_i7-5775C "wikilink")
-Graphics 6200及eDRAM\[8\]
+此代從HD Graphics 5000便兩倍運算效能於上一代的HD Graphics 4000，其中帶「P」字型號的是內建於Xeon處理器上，而擁有eDRAM內嵌式動態記憶體，能有效降低延時以增進繪圖效能，雖僅用於[筆電但Broadwell桌上型則有](https://zh.wikipedia.org/wiki/筆電 "wikilink")[Core i5-5675C及](https://zh.wikipedia.org/wiki/Core_i5-5675C "wikilink")[Core i7-5775C內建該代最高Iris](https://zh.wikipedia.org/wiki/Core_i7-5775C "wikilink") Graphics 6200及eDRAM\[8\]
 
 ### Skylake/Kaby Lake架構
 
 英特爾宣布Skylake架構的微處理器上會內建「第九代」整合式顯示核心，其顯示核心名稱也從四位數改為三位數並新增GT4等級核心。
 
-而Kaby Lake架構的微處理器則原生支援HDCP 2.2、具有全功能的HEVC Main10/10-bit和VP9
-10-bit硬體影片解碼能力 此代HD/Iris Graphic的產品有：
+而Kaby Lake架構的微處理器則原生支援HDCP 2.2、具有全功能的HEVC Main10/10-bit和VP9 10-bit硬體影片解碼能力 此代HD/Iris Graphic的產品有：
 
   - HD Graphics（EU：12/16），核心代號「GT1」
   - HD Graphics 510/610（EU：12），核心代號「GT1」
   - HD Graphics 515/520/530/P530/615/620/630/P630（EU：24)，核心代號「GT2」
-  - HD Graphics Iris 540/550/Iris Plus 640/Iris Plus
-    650（EU：48），核心代號「GT3e」，同時擁有64MB的eDRAM
+  - HD Graphics Iris 540/550/Iris Plus 640/Iris Plus 650（EU：48），核心代號「GT3e」，同時擁有64MB的eDRAM
   - Iris Pro 580（EU：72），核心代號「GT4e」，同時擁有128MB的eDRAM
 
 ## 技術參數
@@ -637,21 +604,16 @@ Core i7-4771</p></td>
 
 ## 外部連結
 
-  - [Intel® Graphics Performance Analyzers 2012
-    R1](https://web.archive.org/web/20120517075229/http://software.intel.com/en-us/articles/vcsource-tools-intel-gpa/)
+  - [Intel® Graphics Performance Analyzers 2012 R1](https://web.archive.org/web/20120517075229/http://software.intel.com/en-us/articles/vcsource-tools-intel-gpa/)
   - [Intel核显进化之路](http://www.expreview.com/46165.html)
 
-[Category:Intel处理器](https://zh.wikipedia.org/wiki/Category:Intel处理器 "wikilink")
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
+[Category:Intel处理器](https://zh.wikipedia.org/wiki/Category:Intel处理器 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
 
-1.  [1](http://www.intel.com/zh_CN/technology/graphics/intelhd.htm) -
-    英特尔® 核芯显卡
+1.  [1](http://www.intel.com/zh_CN/technology/graphics/intelhd.htm) - 英特尔® 核芯显卡
 
-2.  [2](http://www.intel.com.tw/content/www/tw/zh/architecture-and-technology/hd-graphics/hd-graphics-consumer-general.html)
-    - Intel® HD 圖形 (Intel® HD Graphics)
+2.  [2](http://www.intel.com.tw/content/www/tw/zh/architecture-and-technology/hd-graphics/hd-graphics-consumer-general.html) - Intel® HD 圖形 (Intel® HD Graphics)
 
-3.  [3](http://www.intel.hk/content/www/xa/en/architecture-and-technology/hd-graphics/hd-graphics-consumer-general.html)
-    - Intel® HD Graphics
+3.  [3](http://www.intel.hk/content/www/xa/en/architecture-and-technology/hd-graphics/hd-graphics-consumer-general.html) - Intel® HD Graphics
 
 4.
 

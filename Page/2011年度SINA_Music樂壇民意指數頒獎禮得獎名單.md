@@ -1,5 +1,4 @@
-**SINA
-Music樂壇民意指數頒獎禮2011**，於2012年1月4日假[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")展貿廳3舉行，主題為「全城給力．轉發好音樂」，主持為[姜文傑](https://zh.wikipedia.org/wiki/姜文傑 "wikilink")、[姜麗文](../Page/姜麗文.md "wikilink")，當晚共頒發34個項目，其中16項「我最喜愛」獎項為由網民選舉得出，總共52個獎項，以下為當晚的得獎名單：
+**SINA Music樂壇民意指數頒獎禮2011**，於2012年1月4日假[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")展貿廳3舉行，主題為「全城給力．轉發好音樂」，主持為[姜文傑](https://zh.wikipedia.org/wiki/姜文傑 "wikilink")、[姜麗文](../Page/姜麗文.md "wikilink")，當晚共頒發34個項目，其中16項「我最喜愛」獎項為由網民選舉得出，總共52個獎項，以下為當晚的得獎名單：
 
 ## 得獎名單
 
@@ -34,9 +33,7 @@ Music樂壇民意指數頒獎禮2011**，於2012年1月4日假[九龍灣國際�
   - 我最喜愛演唱會
       - 《水．百合王菀之2011演唱會》——[王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink")
   - 我最喜愛至尊大碟
-      - 《[Time
-        Flies](https://zh.wikipedia.org/wiki/Time_Flies_\(EP\) "wikilink")》
-        ——[陳奕迅](../Page/陳奕迅.md "wikilink")
+      - 《[Time Flies](https://zh.wikipedia.org/wiki/Time_Flies_\(EP\) "wikilink")》 ——[陳奕迅](../Page/陳奕迅.md "wikilink")
   - 我最喜愛唱作人
       - [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")
   - 我最喜愛男歌手(香港)
@@ -71,8 +68,7 @@ Music樂壇民意指數頒獎禮2011**，於2012年1月4日假[九龍灣國際�
   - SINA Music 最高收視 MV 大獎
       - 《CHOK》——[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
   - SINA Music 電影主題歌曲大獎
-      - 《I'm Still Loving
-        You》——[連詩雅](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")
+      - 《I'm Still Loving You》——[連詩雅](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")
   - SINA Music 跳舞歌曲大獎
       - 《Take It》——[鍾舒漫](../Page/鍾舒漫.md "wikilink")
       - 《Baby Don't Cry》——[陳偉霆](../Page/陳偉霆.md "wikilink")
@@ -95,11 +91,9 @@ Music樂壇民意指數頒獎禮2011**，於2012年1月4日假[九龍灣國際�
   - SINA Music 年度最高收聽率歌曲
       - 《[你們的幸福](../Page/你們的幸福.md "wikilink")》——[謝安琪](../Page/謝安琪.md "wikilink")
   - SINA Music 全碟試聽 –最高收聽率大碟
-      - 《[August
-        Girl](../Page/August_Girl.md "wikilink")》——[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")
+      - 《[August Girl](../Page/August_Girl.md "wikilink")》——[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")
   - SINA Music 至尊大碟
-      - 《[Stranger Under My
-        Skin](../Page/Stranger_Under_My_Skin.md "wikilink")》——[陳奕迅](../Page/陳奕迅.md "wikilink")
+      - 《[Stranger Under My Skin](../Page/Stranger_Under_My_Skin.md "wikilink")》——[陳奕迅](../Page/陳奕迅.md "wikilink")
 
 ### 微博發聲大獎
 
@@ -114,15 +108,10 @@ Music樂壇民意指數頒獎禮2011**，於2012年1月4日假[九龍灣國際�
 
 ## 外部連結
 
-  - [SINA
-    Music樂壇民意指數頒獎禮2011](https://archive.is/20130430070948/http://ent.sina.com.hk/news/-5622-731087/1.html)
+  - [SINA Music樂壇民意指數頒獎禮2011](https://archive.is/20130430070948/http://ent.sina.com.hk/news/-5622-731087/1.html)
 
 ## 參看
 
-  - [SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
+  - [SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
 
-[Category:SINA_Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/Category:SINA_Music樂壇民意指數頒獎禮 "wikilink")
-[Category:2011年香港](https://zh.wikipedia.org/wiki/Category:2011年香港 "wikilink")
-[Category:2012年香港](https://zh.wikipedia.org/wiki/Category:2012年香港 "wikilink")
-[Category:2012年1月](https://zh.wikipedia.org/wiki/Category:2012年1月 "wikilink")
+[Category:SINA_Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/Category:SINA_Music樂壇民意指數頒獎禮 "wikilink") [Category:2011年香港](https://zh.wikipedia.org/wiki/Category:2011年香港 "wikilink") [Category:2012年香港](https://zh.wikipedia.org/wiki/Category:2012年香港 "wikilink") [Category:2012年1月](https://zh.wikipedia.org/wiki/Category:2012年1月 "wikilink")

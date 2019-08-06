@@ -1,6 +1,4 @@
-《**-{Hotel
-King}-**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2014年4月5日起播出的[週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")，由《-{[神的晚餐](../Page/神的晚餐.md "wikilink")}-》的編劇[趙恩貞執筆](https://zh.wikipedia.org/wiki/趙恩貞 "wikilink")，[李棟旭](../Page/李棟旭.md "wikilink")與[李多海](../Page/李多海.md "wikilink")繼《[My
-Girl](../Page/我的女孩.md "wikilink")》後時隔8年再度搭檔主演。\[1\]\[2\]
+《**-{Hotel King}-**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2014年4月5日起播出的[週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")，由《-{[神的晚餐](../Page/神的晚餐.md "wikilink")}-》的編劇[趙恩貞執筆](https://zh.wikipedia.org/wiki/趙恩貞 "wikilink")，[李棟旭](../Page/李棟旭.md "wikilink")與[李多海](../Page/李多海.md "wikilink")繼《[My Girl](../Page/我的女孩.md "wikilink")》後時隔8年再度搭檔主演。\[1\]\[2\]
 
 ## 劇情
 
@@ -704,24 +702,13 @@ Hotel King 電視劇原聲帶 台壓版
   - [香港有線電視官方網站](http://epg.i-cable.com/new/ent/hotelking.php)
   - [香港無綫電視官方網站](http://programme.tvb.com/drama/hotelking)
 
-[Category:2014年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年韓國電視劇集 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:職場戀情連續劇](https://zh.wikipedia.org/wiki/Category:職場戀情連續劇 "wikilink")
-[Category:旅館背景電視劇](https://zh.wikipedia.org/wiki/Category:旅館背景電視劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
+[Category:2014年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年韓國電視劇集 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:職場戀情連續劇](https://zh.wikipedia.org/wiki/Category:職場戀情連續劇 "wikilink") [Category:旅館背景電視劇](https://zh.wikipedia.org/wiki/Category:旅館背景電視劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
 
-1.  [李棟旭與李多海確定主演「-{Hotel
-    King}-」](http://chinese.joins.com/big5/article.do?method=detail&art_id=115543&category=003004)
-    韓國中央日報中文網
-2.  [李東旭、李多海時隔8年再合作《-{Hotel
-    King}-》](http://www.koreastardaily.com/tc/news/38117) 韓星網
+1.  [李棟旭與李多海確定主演「-{Hotel King}-」](http://chinese.joins.com/big5/article.do?method=detail&art_id=115543&category=003004) 韓國中央日報中文網
+2.  [李東旭、李多海時隔8年再合作《-{Hotel King}-》](http://www.koreastardaily.com/tc/news/38117) 韓星網
 3.  此角色在無綫電視播出時被譯為「**阿慕奈**」。
 4.  此角色在無綫電視播出時被譯為「**阿慕奈**」。
-5.  [《-{Hotel King}-》換導演
-    或因與編劇不和](http://news.sina.com.tw/article/20140513/12418615.html)
-6.  [「-{Hotel King}-」更換導演導致內部分裂
-    但拍攝正常進行中](http://chinese.joins.com/big5/article.do?method=detail&art_id=119486&category=003001)
+5.  [《-{Hotel King}-》換導演 或因與編劇不和](http://news.sina.com.tw/article/20140513/12418615.html)
+6.  [「-{Hotel King}-」更換導演導致內部分裂 但拍攝正常進行中](http://chinese.joins.com/big5/article.do?method=detail&art_id=119486&category=003001)
 7.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 8.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

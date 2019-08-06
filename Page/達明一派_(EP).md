@@ -6,8 +6,6 @@
 
 全碟作詞：[陳少琪](https://zh.wikipedia.org/wiki/陳少琪 "wikilink")　<small>（下面註明例外曲目）</small>　全碟作曲及編曲：[劉以達](https://zh.wikipedia.org/wiki/劉以達 "wikilink")　全碟監製：黃祖輝
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:1986年音樂專輯](https://zh.wikipedia.org/wiki/Category:1986年音樂專輯 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:1986年音樂專輯](https://zh.wikipedia.org/wiki/Category:1986年音樂專輯 "wikilink")
 
-[Category:達明一派](https://zh.wikipedia.org/wiki/Category:達明一派 "wikilink")
-[Category:新艺宝唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:新艺宝唱片音乐专辑 "wikilink")
+[Category:達明一派](https://zh.wikipedia.org/wiki/Category:達明一派 "wikilink") [Category:新艺宝唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:新艺宝唱片音乐专辑 "wikilink")

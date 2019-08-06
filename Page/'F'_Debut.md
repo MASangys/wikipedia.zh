@@ -1,12 +1,8 @@
-**《'F'
-Debut》**為香港女歌手[薛凱琪於](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")2004年發行的第一張廣東專輯，全碟收錄十一首歌曲，當中一首為英文歌曲。推出的版本包括精裝版、特別版、豪華版及限量版，推出的《'F'
-Debut
-AVCD》限量版內附隨精裝版CD附送100頁彩圖及插圖集。此專輯在2004年獲得[金唱片](../Page/金唱片.md "wikilink")，超越二萬五千張的銷量。第二版於2004年5月5日出版。內地引進版本因題材敏感刪減了《麥當娜一吻》。
+**《'F' Debut》**為香港女歌手[薛凱琪於](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")2004年發行的第一張廣東專輯，全碟收錄十一首歌曲，當中一首為英文歌曲。推出的版本包括精裝版、特別版、豪華版及限量版，推出的《'F' Debut AVCD》限量版內附隨精裝版CD附送100頁彩圖及插圖集。此專輯在2004年獲得[金唱片](../Page/金唱片.md "wikilink")，超越二萬五千張的銷量。第二版於2004年5月5日出版。內地引進版本因題材敏感刪減了《麥當娜一吻》。
 
 ## 簡介
 
-《'F'
-Debut》為發行的第一張專輯，收錄薛凱琪第一首作品《XBF》，以及大熱作品《麥當娜一吻》及《奇洛李維斯回信》，而本唱片亦收錄了全城熱門歌曲的MV。
+《'F' Debut》為發行的第一張專輯，收錄薛凱琪第一首作品《XBF》，以及大熱作品《麥當娜一吻》及《奇洛李維斯回信》，而本唱片亦收錄了全城熱門歌曲的MV。
 
   - F debut（第1版）
   - F debut（AVCD特別版）
@@ -71,12 +67,9 @@ CD﹕
 ### 派台歌獲獎
 
   - 2004年無線電視勁歌金曲優秀選第一回 - 十大金曲《奇洛李維斯回信》
-  - [2004年度新城勁爆頒獎禮](https://zh.wikipedia.org/wiki/2004年度新城勁爆頒獎禮 "wikilink")
-    - 新城勁爆原創歌曲《奇洛李維斯回信》
-  - [2004年度叱咤樂壇流行榜頒獎禮](https://zh.wikipedia.org/wiki/2004年度叱咤樂壇流行榜頒獎禮 "wikilink")
-    - 專業推介叱吒十大 第7位《奇洛李維斯回信》
-  - 2004年度[十大中文金曲頒獎音樂會](../Page/十大中文金曲頒獎音樂會.md "wikilink") -
-    十大金曲《奇洛李維斯回信》
+  - [2004年度新城勁爆頒獎禮](https://zh.wikipedia.org/wiki/2004年度新城勁爆頒獎禮 "wikilink") - 新城勁爆原創歌曲《奇洛李維斯回信》
+  - [2004年度叱咤樂壇流行榜頒獎禮](https://zh.wikipedia.org/wiki/2004年度叱咤樂壇流行榜頒獎禮 "wikilink") - 專業推介叱吒十大 第7位《奇洛李維斯回信》
+  - 2004年度[十大中文金曲頒獎音樂會](../Page/十大中文金曲頒獎音樂會.md "wikilink") - 十大金曲《奇洛李維斯回信》
   - Yahoo！搜尋人氣大獎 2004 - Yahoo！音樂十大人氣歌曲 2004 大獎《奇洛李維斯回信》
   - 2004年度無線電視兒歌金曲頒獎典禮 - 十大兒歌金曲《醜小鴨天鵝湖》
   - 2004年廣州電台頒獎禮 - 「金曲金榜」金曲獎《奇洛李維斯回信》
@@ -86,6 +79,4 @@ CD﹕
 
   - [華納唱片 《F-Debut》專頁](http://www.warnermusic.com.hk/F-Debut/)
 
-[Category:薛凱琪音樂專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪音樂專輯 "wikilink")
-[Category:薛凱琪粵語專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪粵語專輯 "wikilink")
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
+[Category:薛凱琪音樂專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪音樂專輯 "wikilink") [Category:薛凱琪粵語專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪粵語專輯 "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")

@@ -14,16 +14,11 @@
 
 ## 微電影
 
-在2013年推出“笑傲江湖
-東方不敗外傳”微電影，[東方不敗由](https://zh.wikipedia.org/wiki/東方不敗 "wikilink")[陳喬恩](../Page/陳喬恩.md "wikilink")飾演。此微電影共有三種不同的結局，分別為「女人心」\[5\]、「人間悲劇」\[6\]、「無情的男人」\[7\]。一結局共15分鐘。
+在2013年推出“笑傲江湖 東方不敗外傳”微電影，[東方不敗由](https://zh.wikipedia.org/wiki/東方不敗 "wikilink")[陳喬恩](../Page/陳喬恩.md "wikilink")飾演。此微電影共有三種不同的結局，分別為「女人心」\[5\]、「人間悲劇」\[6\]、「無情的男人」\[7\]。一結局共15分鐘。
 
 ## 參考
 
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:原生中文游戏](https://zh.wikipedia.org/wiki/Category:原生中文游戏 "wikilink")
+[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:原生中文游戏](https://zh.wikipedia.org/wiki/Category:原生中文游戏 "wikilink")
 
 1.  <http://www.youtube.com/watch?v=nFDOYfuASNo>
 2.  <http://sssonline.iwplay.com.tw/NewsList/newsevent/20131112/5518.html>

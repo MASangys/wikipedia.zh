@@ -12,10 +12,7 @@
 
 ### 德国法律事务所停止并终止通知函
 
-2013年12月德国法律事务所「Urmann und
-Collegen」（U+C）开始寄出大批[停止并终止](../Page/停止并终止.md "wikilink")通知函（德语称之为「Abmahnung」）给RedTube的德国观众，要求他们给事务所支付总额250欧元的赔偿。其中15块5毛将被用于赔偿RedTube上部分影片的版权拥有者，瑞士的“The
-Archive AG”公司。
-截至到2013年12月，超过两万人收到了这封信。\[8\]并不清楚这間法律事务所是如何收集到RedTube用户的IP地址的。在相关的法律文件中，原告声称他委托一所名叫ITGuards的公司（据说位于加利福尼亚州圣荷西市）使用了专业的GLADII版本1.1.3軟體收集用户的IP地址，甚至包括用户在每个影片上的播放和暂停的精确的时间点。\[9\]虽然在德国停止并终止通知函经常被寄给那些进行[档案分享活动的互联网用户](https://zh.wikipedia.org/wiki/档案分享 "wikilink")，但是这是第一次德国对于只是使用[流媒体](../Page/流媒体.md "wikilink")的網路用户采取类似行动。\[10\]
+2013年12月德国法律事务所「Urmann und Collegen」（U+C）开始寄出大批[停止并终止](../Page/停止并终止.md "wikilink")通知函（德语称之为「Abmahnung」）给RedTube的德国观众，要求他们给事务所支付总额250欧元的赔偿。其中15块5毛将被用于赔偿RedTube上部分影片的版权拥有者，瑞士的“The Archive AG”公司。 截至到2013年12月，超过两万人收到了这封信。\[8\]并不清楚这間法律事务所是如何收集到RedTube用户的IP地址的。在相关的法律文件中，原告声称他委托一所名叫ITGuards的公司（据说位于加利福尼亚州圣荷西市）使用了专业的GLADII版本1.1.3軟體收集用户的IP地址，甚至包括用户在每个影片上的播放和暂停的精确的时间点。\[9\]虽然在德国停止并终止通知函经常被寄给那些进行[档案分享活动的互联网用户](https://zh.wikipedia.org/wiki/档案分享 "wikilink")，但是这是第一次德国对于只是使用[流媒体](../Page/流媒体.md "wikilink")的網路用户采取类似行动。\[10\]
 
 ## 参见
 
@@ -27,11 +24,7 @@ Archive AG”公司。
 
 ## 参考文献
 
-[Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink")
-[Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink")
-[Category:美國色情](https://zh.wikipedia.org/wiki/Category:美國色情 "wikilink")
-[Category:情色與色情網站](https://zh.wikipedia.org/wiki/Category:情色與色情網站 "wikilink")
-[Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
+[Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink") [Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink") [Category:美國色情](https://zh.wikipedia.org/wiki/Category:美國色情 "wikilink") [Category:情色與色情網站](https://zh.wikipedia.org/wiki/Category:情色與色情網站 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
 
 1.
 2.

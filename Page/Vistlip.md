@@ -1,5 +1,4 @@
-**vistlip**（ヴィストリップ）、[日本](../Page/日本.md "wikilink")的[視覺系](../Page/視覺系.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。所屬事務所是デルファイサウンド(delfi
-SOUND)。
+**vistlip**（ヴィストリップ）、[日本](../Page/日本.md "wikilink")的[視覺系](../Page/視覺系.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。所屬事務所是デルファイサウンド(delfi SOUND)。
 
 ## 團員
 
@@ -52,8 +51,7 @@ SOUND)。
   - 2009年
       - 3月14日～ - stylish wave CIRCUIT '09 春の嵐 出演（7個地方。到4月12日為止）
       - 04月3日 - 第2張迷你專輯「PATRIOT」發行
-      - 07月2日 - 「[Japan Expo
-        2009](https://zh.wikipedia.org/wiki/Japan_Expo "wikilink")」（法國・巴黎）以LIVE嘉賓的身分演出。8000人參與的海外初LIVE。
+      - 07月2日 - 「[Japan Expo 2009](https://zh.wikipedia.org/wiki/Japan_Expo "wikilink")」（法國・巴黎）以LIVE嘉賓的身分演出。8000人參與的海外初LIVE。
       - 07月7日 - 舉辦首次oneman LIVE「VRGNL RIOT」SHIBUYA O-WEST
       - 07月11日～ - 7月11日～8月16日「stylish wave MAX '09」參加樂團中唯一19個公演全程參與。
       - 08月5日 - 第4張單曲「-OZONE-」發行
@@ -62,15 +60,12 @@ SOUND)。
       - 12月23日- 第1張LIVE DVD「BUG」發行
   - 2010年
       - 03月7日～ - vistlip oneman live tour\[GATHER To the THEATER\]全4場公演
-      - 03月19日 - vistlip oneman live tour\[GATHER To the THEATER\]FINAL
-        赤坂BLITZ
+      - 03月19日 - vistlip oneman live tour\[GATHER To the THEATER\]FINAL 赤坂BLITZ
       - 05月12日 - 第5張單曲「STRAWBERRY BUTTERFLY」發行
-      - 06月11日～ - vistlip oneman live tour\[Re:BIRTH TO SEVEN SHOW
-        CASE\]全7場公演
+      - 06月11日～ - vistlip oneman live tour\[Re:BIRTH TO SEVEN SHOW CASE\]全7場公演
       - 06月23日 - LIVE DVD「GATHER TO the THEATER」發行
       - 07月7日 - 第6張單曲「Hameln」發行
-      - 07月7日 - vistlip oneman live tour\[Re:BIRTH TO SEVEN SHOW
-        CASE\]FINAL SHIBUYA O-EAST
+      - 07月7日 - vistlip oneman live tour\[Re:BIRTH TO SEVEN SHOW CASE\]FINAL SHIBUYA O-EAST
       - 07月7日 - Fan Club「V.I.P. LiST」開始
       - 07月30日　團員全員和工作人員在行經長野縣的高速公路時發生事故，女性經紀人死亡\[1\]。因此取消夏天的LIVE行程以作為告戒。
   - 2011年
@@ -81,8 +76,7 @@ SOUND)。
       - 05月7日～ - vistlip oneman live tour\[revelation space\]全5場公演
       - 06月1日 - 第7張單曲「SINDRA」發售\[2\]
       - 單曲SINDRA首次打進[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")週間前10名。\[3\]
-      - 07月7日 - vistlip oneman live tour\[revelation space\]FINAL Zepp
-        Tokyo \[4\]
+      - 07月7日 - vistlip oneman live tour\[revelation space\]FINAL Zepp Tokyo \[4\]
       - 08月1日 - SCUBERDIVE〜渋谷が大変2011〜出演
       - 08月4日～ - 12012 PRESENTS SUMMER TOUR 12CUP 出演
       - 08月21日 - stylish wave CIRCUIT '11 MAX 出演
@@ -91,8 +85,7 @@ SOUND)。
       - 10月23日 - V-ROCK FESTIVAL '11出演
       - 12月14日 - 第2張專輯「ORDER MADE」發行
   - 2012年
-      - 03月22日～ - vistlip oneman live tour\[the end of ORDER
-        MADE\]全19場公演
+      - 03月22日～ - vistlip oneman live tour\[the end of ORDER MADE\]全19場公演
       - 04月11日 - 第8張單曲「Recipe」發行
       - 07月4日 - 第9張單曲「B」發行
       - 07月7日 - vistlip oneman live \[THE END.\]公演
@@ -102,8 +95,7 @@ SOUND)。
       - 01月1日 - 第3張迷你專輯「GLOSTER」發行
       - 01月19日～ - vistlip oneman live\[FBA\]全3場公演
       - 04月3日 - 第11張單曲「CHIMERA」發行
-      - 07月7日 - vistlip oneman live tour\[TELESCOPE CYLINDER\] Zepp
-        Tokyo
+      - 07月7日 - vistlip oneman live tour\[TELESCOPE CYLINDER\] Zepp Tokyo
       - 07月17日～ - vistlip oneman live\[sequence of chronograph\]全6場公演
       - 07月17日 - 第3張專輯「CHRONUS」發行
       - 07月17日～ - vistlip oneman live\[Good vibes CIRCUIT\]全23場公演
@@ -243,8 +235,7 @@ Oricon公信榜初登場42位</p></td>
 
 ## 関連項目
 
-  - [Marvelous
-    AQL](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink")
+  - [Marvelous AQL](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink")
   - [視覺系](../Page/視覺系.md "wikilink")
 
 ## 外部連結
@@ -264,10 +255,7 @@ Oricon公信榜初登場42位</p></td>
 
   - [デルファイサウンド](http://www.delfisound.co.jp/)
 
-[Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink")
-[Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink")
+[Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink") [Category:日本硬式搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本硬式搖滾樂團 "wikilink")
 
 1.  [1](http://www.nikkansports.com/entertainment/news/f-et-tp0-20100730-659927.html)
 2.

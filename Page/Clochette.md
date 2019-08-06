@@ -1,5 +1,4 @@
-**Clochette**（）社位於[東京都](../Page/東京都.md "wikilink")[台東區](../Page/台東區.md "wikilink")[淺草](https://zh.wikipedia.org/wiki/淺草 "wikilink")，為日本公司ブランエール（BLANC
-AILE）旗下的成人遊戲品牌。自2007年開始活躍，開發浪漫喜劇性質的校園風格的遊戲。
+**Clochette**（）社位於[東京都](../Page/東京都.md "wikilink")[台東區](../Page/台東區.md "wikilink")[淺草](https://zh.wikipedia.org/wiki/淺草 "wikilink")，為日本公司ブランエール（BLANC AILE）旗下的成人遊戲品牌。自2007年開始活躍，開發浪漫喜劇性質的校園風格的遊戲。
 
 在法國“鐘，小鐘”和Clochette是一個詞，意思是（鈴、小鐘），在法國（Blanc Aile）的意思是“白色的翅膀”。
 
@@ -10,8 +9,7 @@ AILE）旗下的成人遊戲品牌。自2007年開始活躍，開發浪漫喜劇
   - 2008年3月28日Clochette社的第一部作品「かみぱに\!」發表\[1\]，此作獲得「美少女遊戲賞2008」角色設計獎（優秀獎），新品牌獎（優秀獎）。\[2\]
   - 2009年1月30日第二部作品「スズノネセブン\!」發表。\[3\]
   - 2009年間「かみぱに\!」「スズノネセブン\!」兩部作品發行了普通版\[4\]\[5\]、和「スズノネセブン\!」這部作品的畫冊。\[6\]
-  - 2009年11月27日「スズノネセブン\!」的續篇「スズノネセブン\! -Sweet Lovers'
-    Concerto-」發表。\[7\]
+  - 2009年11月27日「スズノネセブン\!」的續篇「スズノネセブン\! -Sweet Lovers' Concerto-」發表。\[7\]
   - 2010年5月28日「あまつみそらに\!」發表。\[8\]
   - 2011年5月27日發表作品「神風探險者（カミカゼ☆エクスプローラー\!）」\[9\]，此作獲得「2011年萌系遊戲大賞」BGM銀獎，繪圖金獎，桃色性愛系作品賞的金獎，並奪得年度銀獎。\[10\]
   - 2013年2月22日發表作品「プリズム◇リコレクション\!」\[11\]，此作獲得「2013年萌系遊戲大賞」的年度準大賞。\[12\]
@@ -115,9 +113,7 @@ AILE）旗下的成人遊戲品牌。自2007年開始活躍，開發浪漫喜劇
 
   -
   -
-[Category:2007年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2007年開業電子遊戲公司 "wikilink")
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:台東區公司](https://zh.wikipedia.org/wiki/Category:台東區公司 "wikilink")
+[Category:2007年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2007年開業電子遊戲公司 "wikilink") [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:台東區公司](https://zh.wikipedia.org/wiki/Category:台東區公司 "wikilink")
 
 1.
 2.  [美少女ゲームアワード2008](http://moe-gameaward.com/prize/2008/result.html#award14/)

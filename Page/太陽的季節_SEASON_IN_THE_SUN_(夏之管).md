@@ -1,5 +1,4 @@
-《**SEASON IN THE
-SUN**》（日語：）是1986年4月21日推出的[夏之管](../Page/夏之管.md "wikilink")([TUBE](https://zh.wikipedia.org/wiki/TUBE "wikilink"))的第3張單曲。
+《**SEASON IN THE SUN**》（日語：）是1986年4月21日推出的[夏之管](../Page/夏之管.md "wikilink")([TUBE](https://zh.wikipedia.org/wiki/TUBE "wikilink"))的第3張單曲。
 
 ## 簡介
 
@@ -13,14 +12,10 @@ SUN**》（日語：）是1986年4月21日推出的[夏之管](../Page/夏之管
 <!-- end list -->
 
   -
-    作詞 [亜蘭知子](https://zh.wikipedia.org/wiki/亜蘭知子 "wikilink") : 作曲
-    [織田哲郎](../Page/織田哲郎.md "wikilink")
+    作詞 [亜蘭知子](https://zh.wikipedia.org/wiki/亜蘭知子 "wikilink") : 作曲 [織田哲郎](../Page/織田哲郎.md "wikilink")
 
 <!-- end list -->
 
 1.  **今夜はハートウェイクーheartache tonightー**
 
-[Category:1986年單曲](https://zh.wikipedia.org/wiki/Category:1986年單曲 "wikilink")
-[Category:TUBE歌曲](https://zh.wikipedia.org/wiki/Category:TUBE歌曲 "wikilink")
-[Category:酒廣告歌曲](https://zh.wikipedia.org/wiki/Category:酒廣告歌曲 "wikilink")
-[Category:太陽題材歌曲](https://zh.wikipedia.org/wiki/Category:太陽題材歌曲 "wikilink")
+[Category:1986年單曲](https://zh.wikipedia.org/wiki/Category:1986年單曲 "wikilink") [Category:TUBE歌曲](https://zh.wikipedia.org/wiki/Category:TUBE歌曲 "wikilink") [Category:酒廣告歌曲](https://zh.wikipedia.org/wiki/Category:酒廣告歌曲 "wikilink") [Category:太陽題材歌曲](https://zh.wikipedia.org/wiki/Category:太陽題材歌曲 "wikilink")

@@ -6,8 +6,7 @@ MAPPA是日本一家以執行動畫的企畫和製作為主要事業內容的動
 
 2016年4月，MAPPA社長由以前和丸山一起創立MAPPA的大塚學接任。至於丸山則轉任會長，並兼任同一時間跟MAPPA成立的「M2工作室」社長。
 
-MAPPA一詞由來自「**M**aruyama **A**nimation **P**roduce **P**roject
-**A**ssociation」（漢譯為“丸山動畫生產計劃組織”）中的首字母。
+MAPPA一詞由來自「**M**aruyama **A**nimation **P**roduce **P**roject **A**ssociation」（漢譯為“丸山動畫生產計劃組織”）中的首字母。
 
 2016年11月，電影動畫《[這個世界的角落](../Page/這個世界的角落.md "wikilink")》入圍[第40回日本電影金像獎最優秀作品獎](https://zh.wikipedia.org/wiki/第40回日本電影金像獎 "wikilink")。
 
@@ -394,10 +393,7 @@ MAPPA一詞由來自「**M**aruyama **A**nimation **P**roduce **P**roject
 
   -
 
-[Category:MAPPA](https://zh.wikipedia.org/wiki/Category:MAPPA "wikilink")
-[Category:2011年成立的公司](https://zh.wikipedia.org/wiki/Category:2011年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
+[Category:MAPPA](https://zh.wikipedia.org/wiki/Category:MAPPA "wikilink") [Category:2011年成立的公司](https://zh.wikipedia.org/wiki/Category:2011年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
 
 1.
 2.

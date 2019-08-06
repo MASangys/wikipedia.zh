@@ -1,5 +1,4 @@
-《**NU'EST BEST IN
-KOREA**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")的首張日本精選輯，於2014年7月30日推出，收錄15首他們在韓國的精選歌曲\[1\]。
+《**NU'EST BEST IN KOREA**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")的首張日本精選輯，於2014年7月30日推出，收錄15首他們在韓國的精選歌曲\[1\]。
 
 ## 背景
 
@@ -7,9 +6,7 @@ KOREA**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink
 
 ### 版本
 
-  - 初回生產限定盤，包括36頁歌詞本和一片DVD，收錄《FACE》、《Not Over
-    You》、《Action》、《Sandy》、《喂Yeo Bo Se Yo》、《夢話》及《Fine
-    Girl》的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")，以及精選輯團員個別訪問與特別片段。\[5\]
+  - 初回生產限定盤，包括36頁歌詞本和一片DVD，收錄《FACE》、《Not Over You》、《Action》、《Sandy》、《喂Yeo Bo Se Yo》、《夢話》及《Fine Girl》的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")，以及精選輯團員個別訪問與特別片段。\[5\]
   - 通常盤，包括24頁歌詞本，並加收《Sandy（日語版）》一曲。\[6\]
 
 ## 曲目
@@ -30,9 +27,7 @@ KOREA**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink
 
   -
 
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:NU'EST音樂專輯](https://zh.wikipedia.org/wiki/Category:NU'EST音樂專輯 "wikilink")
-[Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
+[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:NU'EST音樂專輯](https://zh.wikipedia.org/wiki/Category:NU'EST音樂專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
 
 1.
 

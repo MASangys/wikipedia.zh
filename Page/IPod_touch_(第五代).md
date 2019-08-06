@@ -1,24 +1,4 @@
-**第五代[iPod
-touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")**（其正式名称仅为**iPod
-touch**，而**iPod touch 5**或**iTouch
-5**为俗称）是[苹果公司設計的第五代可携式多媒体播放器](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，属于
-iPod 系列。它使用與 [iPhone
-5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink") 一样的 4 吋
-[Retina](https://zh.wikipedia.org/wiki/Retina "wikilink") 螢幕和 [Apple
-A5](../Page/Apple_A5.md "wikilink")
-处理器；搭載了五百萬像素的後置攝像頭，支援[自動對焦並配有](https://zh.wikipedia.org/wiki/自動對焦 "wikilink")
-[LED](https://zh.wikipedia.org/wiki/LED "wikilink")
-[閃光燈](https://zh.wikipedia.org/wiki/閃光燈 "wikilink")，最大[光圈](../Page/光圈.md "wikilink")為
-f/2.4。支援
-[Facetime](https://zh.wikipedia.org/wiki/Facetime "wikilink")、[Siri](../Page/Siri.md "wikilink")
-及 [iCloud](https://zh.wikipedia.org/wiki/iCloud "wikilink")。連接器改用全新的
-[Lightning
-接口](https://zh.wikipedia.org/wiki/Lightning_\(連接器\) "wikilink")，起初只提供
-32 和 64 GB
-兩個版本，不過後來[蘋果公司又推出了](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")
-16 GB 版本以取代[第四代iPod
-touch](../Page/IPod_touch_\(第四代\).md "wikilink")，但此版本移除了後置攝像頭模組、麥克風及
-iPod Touch Loop。
+**第五代[iPod touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")**（其正式名称仅为**iPod touch**，而**iPod touch 5**或**iTouch 5**为俗称）是[苹果公司設計的第五代可携式多媒体播放器](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，属于 iPod 系列。它使用與 [iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink") 一样的 4 吋 [Retina](https://zh.wikipedia.org/wiki/Retina "wikilink") 螢幕和 [Apple A5](../Page/Apple_A5.md "wikilink") 处理器；搭載了五百萬像素的後置攝像頭，支援[自動對焦並配有](https://zh.wikipedia.org/wiki/自動對焦 "wikilink") [LED](https://zh.wikipedia.org/wiki/LED "wikilink") [閃光燈](https://zh.wikipedia.org/wiki/閃光燈 "wikilink")，最大[光圈](../Page/光圈.md "wikilink")為 f/2.4。支援 [Facetime](https://zh.wikipedia.org/wiki/Facetime "wikilink")、[Siri](../Page/Siri.md "wikilink") 及 [iCloud](https://zh.wikipedia.org/wiki/iCloud "wikilink")。連接器改用全新的 [Lightning 接口](https://zh.wikipedia.org/wiki/Lightning_\(連接器\) "wikilink")，起初只提供 32 和 64 GB 兩個版本，不過後來[蘋果公司又推出了](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink") 16 GB 版本以取代[第四代iPod touch](../Page/IPod_touch_\(第四代\).md "wikilink")，但此版本移除了後置攝像頭模組、麥克風及 iPod Touch Loop。
 
 ## 规格表
 
@@ -108,5 +88,4 @@ iPod Touch Loop。
 
 [官方網站](http://www.apple.com/cn/ipodtouch/)
 
-[Category:IPod](https://zh.wikipedia.org/wiki/Category:IPod "wikilink")
-[Category:个人数码助理](https://zh.wikipedia.org/wiki/Category:个人数码助理 "wikilink")
+[Category:IPod](https://zh.wikipedia.org/wiki/Category:IPod "wikilink") [Category:个人数码助理](https://zh.wikipedia.org/wiki/Category:个人数码助理 "wikilink")

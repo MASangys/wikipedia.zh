@@ -44,15 +44,12 @@ APS的[機匣左側設有一個](https://zh.wikipedia.org/wiki/機匣 "wikilink"
 
 ### 電子遊戲
 
-  - 《[-{zh-cn:使命召唤：幽灵;
-    zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》：只在劇情模式登場，奇怪地裝有鏡橋，而且能裝彈30發，被[美國精銳部隊](https://zh.wikipedia.org/wiki/美國 "wikilink")“-{zh-cn:幽灵;
-    zh-tw:魅影;}-”和敵軍「聯邦」雙方於水底交戰期間所使用。
+  - 《[-{zh-cn:使命召唤：幽灵; zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》：只在劇情模式登場，奇怪地裝有鏡橋，而且能裝彈30發，被[美國精銳部隊](https://zh.wikipedia.org/wiki/美國 "wikilink")“-{zh-cn:幽灵; zh-tw:魅影;}-”和敵軍「聯邦」雙方於水底交戰期間所使用。
   - 《[Depth](https://zh.wikipedia.org/wiki/Depth "wikilink")》：此遊戲之中用來射擊鯊魚所使用。
 
 ### 動畫
 
-  - 《[-{zh-cn:黑礁;
-    zh-tw:企業傭兵;}-](../Page/企業傭兵.md "wikilink")》：在第一季第4和第5集中被萊薇所使用。
+  - 《[-{zh-cn:黑礁; zh-tw:企業傭兵;}-](../Page/企業傭兵.md "wikilink")》：在第一季第4和第5集中被萊薇所使用。
 
 ## 另見
 
@@ -64,24 +61,15 @@ APS的[機匣左側設有一個](https://zh.wikipedia.org/wiki/機匣 "wikilink"
 
 ## 外部連結
 
-  - [5.66×39mm MPS
-    cartridge](http://www.municion.org/5_66x39_5/5_66G.jpg)
-  - [Modern Firearms
-    article](https://web.archive.org/web/20041025183045/http://world.guns.ru/assault/as69-e.htm)
-  - [Weaponland
-    article](http://weaponland.ru/load/avtomat_dvukhsrednyj_specialnyj_ads/21-1-0-86)
-
+  - [5.66×39mm MPS cartridge](http://www.municion.org/5_66x39_5/5_66G.jpg)
+  - [Modern Firearms article](https://web.archive.org/web/20041025183045/http://world.guns.ru/assault/as69-e.htm)
+  - [Weaponland article](http://weaponland.ru/load/avtomat_dvukhsrednyj_specialnyj_ads/21-1-0-86)
 
 ## 參考文獻
 
 <references/>
 
-[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink")
-[Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink")
-[Category:水下步槍](https://zh.wikipedia.org/wiki/Category:水下步槍 "wikilink")
-[Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
+[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:水下步槍](https://zh.wikipedia.org/wiki/Category:水下步槍 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
 
 1.  <http://firearmsworld.net/russain/underwater/aps.htm>
-2.  [СПЕЦНАЗ СНБ УЗБЕКИСТАНА-НА СТРАЖЕ МИРА
-    ПРОФЕССИОНАЛЫ](https://m.ok.ru/video/66366383702196-0)
+2.  [СПЕЦНАЗ СНБ УЗБЕКИСТАНА-НА СТРАЖЕ МИРА ПРОФЕССИОНАЛЫ](https://m.ok.ru/video/66366383702196-0)

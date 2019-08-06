@@ -1,9 +1,4 @@
-**J
-Team**是一支台灣職業[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，所屬-{杰}-藝文創公司旗下，主要參與[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")。原為**台北暗殺星**（**Taipei
-Assassins**，簡稱**TPA**），2012年10月14日在美國洛杉磯舉辦的[英雄聯盟第2季世界大賽中](https://zh.wikipedia.org/wiki/英雄聯盟S2賽季全球總決賽 "wikilink")，擊敗[南韓職業隊伍Azubu](https://zh.wikipedia.org/wiki/南韓 "wikilink")
-Frost（現，已解散），贏得100萬美金獎金\[1\]。全隊在奪冠後曾與中華民國電子競技推廣協會一同拜會立法院，爭取電子競技列為正式的運動項目之一，[中華民國](../Page/中華民國.md "wikilink")政府及朝野各黨團則以允諾修法、拋出「電競選手可服替代役」構想回應\[2\]\[3\]。
-2016年4月由台灣藝人[周杰倫](../Page/周杰倫.md "wikilink")代表的-{杰}-藝文創公司取得經營權，改名為**J
-Team**，並由周杰倫擔任董事长。
+**J Team**是一支台灣職業[電子競技隊伍](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，所屬-{杰}-藝文創公司旗下，主要參與[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")。原為**台北暗殺星**（**Taipei Assassins**，簡稱**TPA**），2012年10月14日在美國洛杉磯舉辦的[英雄聯盟第2季世界大賽中](https://zh.wikipedia.org/wiki/英雄聯盟S2賽季全球總決賽 "wikilink")，擊敗[南韓職業隊伍Azubu](https://zh.wikipedia.org/wiki/南韓 "wikilink") Frost（現，已解散），贏得100萬美金獎金\[1\]。全隊在奪冠後曾與中華民國電子競技推廣協會一同拜會立法院，爭取電子競技列為正式的運動項目之一，[中華民國](../Page/中華民國.md "wikilink")政府及朝野各黨團則以允諾修法、拋出「電競選手可服替代役」構想回應\[2\]\[3\]。 2016年4月由台灣藝人[周杰倫](../Page/周杰倫.md "wikilink")代表的-{杰}-藝文創公司取得經營權，改名為**J Team**，並由周杰倫擔任董事长。
 
 ## 英雄聯盟(LOL)
 
@@ -11,19 +6,15 @@ Team**，並由周杰倫擔任董事长。
 
 #### 2011
 
-  - 9月：台北暗殺星的前身**For The Win**（FTW）創立。創始成員有
-    **Mistake**、**Lilballz**、**Colalin**、**NeXAbc**及**Stanley0506**（即
-    Stanley）。
-  - 10月16日：在[Garena舉辦的](https://zh.wikipedia.org/wiki/Garena "wikilink")「G1
-    電競大賽」中拿下冠軍。
+  - 9月：台北暗殺星的前身**For The Win**（FTW）創立。創始成員有 **Mistake**、**Lilballz**、**Colalin**、**NeXAbc**及**Stanley0506**（即 Stanley）。
+  - 10月16日：在[Garena舉辦的](https://zh.wikipedia.org/wiki/Garena "wikilink")「G1 電競大賽」中拿下冠軍。
   - 12月9日：代表臺灣出賽2011年在[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[釜山舉行的](../Page/釜山廣域市.md "wikilink")[世界电子竞技大赛](../Page/世界电子竞技大赛.md "wikilink")，排名第8－12名。
 
 #### 2012
 
 [Taipei_Assassins_at_LoL_World_Championship_2012.jpg](https://zh.wikipedia.org/wiki/File:Taipei_Assassins_at_LoL_World_Championship_2012.jpg "fig:Taipei_Assassins_at_LoL_World_Championship_2012.jpg")獲得冠軍\]\]
 
-  - 4月7日：隊名更改為**Taipei Assassins**（台北暗殺星），組成成員為*'Mistake
-    **、**NeXAbc**、**Colalin**、**Lilballz**和**Stanley*'
+  - 4月7日：隊名更改為**Taipei Assassins**（台北暗殺星），組成成員為*'Mistake **、**NeXAbc**、**Colalin**、**Lilballz**和**Stanley*'
   - 4月20日：正式宣布加入兩位新成員**bebe**和**Toyz**。
   - 4月30日：NGF Second Place亞軍。
   - 5月5日：GPL（Garena Premier League）開幕賽冠軍。
@@ -33,40 +24,29 @@ Team**，並由周杰倫擔任董事长。
   - 9月1日：Season2第二季[臺](../Page/臺灣.md "wikilink")[港](../Page/香港.md "wikilink")[澳區域賽](../Page/澳門.md "wikilink")（臺港澳伺服器）冠軍，取得台港澳代表資格進軍世界錦標賽。
   - 10月14日：**英雄聯盟Season2第二季世界錦標賽**，於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")拿下**冠軍**，獲得100萬美元高額獎金。
   - 10月20日：於TPA榮耀共享見面會上，正式宣布加入兩位新成員：**GoDJJ**、**Zonda**。
-  - 11月17日：[GPL](../Page/GPL超級聯賽.md "wikilink")（Garena Premier
-    League）第一屆季後賽總冠軍。
+  - 11月17日：[GPL](../Page/GPL超級聯賽.md "wikilink")（Garena Premier League）第一屆季後賽總冠軍。
   - 11月:經理Erica在個人推特上發表離職消息。
   - 12月3日：IPL 5（IGN Pro League 5）季軍。
   - 12月31日：成員與[景美女中拔河隊等](https://zh.wikipedia.org/wiki/景美女中 "wikilink")「[台灣之光](../Page/台灣之光.md "wikilink")」應邀出席[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")[跨年晚會](https://zh.wikipedia.org/wiki/跨年 "wikilink")。
 
 #### 2013
 
-  - 1月3日：TPA部分成員異動，由部分選手隊籍轉移到到新成立的「[台北狙擊者](../Page/台北狙擊者.md "wikilink")Taipei
-    Snipers」（TPS）戰隊，其中包括AD
-    Carry玩家**GoDJJ**、女性選手**Colalin**、隊長**MisTake**、AP
-    Carry玩家**NeXAbc**、上路玩家**Zonda**以及外界原先認為內定成員**OhReal**，TPA隊長一職則由AP
-    Carry玩家**Toyz**接任,並加入Support玩家**Dinter**\[4\]。
+  - 1月3日：TPA部分成員異動，由部分選手隊籍轉移到到新成立的「[台北狙擊者](../Page/台北狙擊者.md "wikilink")Taipei Snipers」（TPS）戰隊，其中包括AD Carry玩家**GoDJJ**、女性選手**Colalin**、隊長**MisTake**、AP Carry玩家**NeXAbc**、上路玩家**Zonda**以及外界原先認為內定成員**OhReal**，TPA隊長一職則由AP Carry玩家**Toyz**接任,並加入Support玩家**Dinter**\[4\]。
   - 3月4日：受邀出席[外交部NGO新春茶會](../Page/中華民國外交部.md "wikilink")，因去年獲S2世界冠軍而獲頒「國民外交褒揚狀」，由前後任隊長**MiSTakE**、**Toyz**一同代表領受。
-  - 3月7日：接受德國複合娛樂媒體平台「Azubu」冠名贊助，戰隊全名為Azubu Taipei Assassins，簡稱AZB
-    TPA\[5\]。
+  - 3月7日：接受德國複合娛樂媒體平台「Azubu」冠名贊助，戰隊全名為Azubu Taipei Assassins，簡稱AZB TPA\[5\]。
   - 5月8日，引入一名戰術分析師史益豪（叉燒）。
   - 6月5日：正式宣佈新成員**Sarsky**加入\[6\]。
   - 6月30日：**Toyz**及**Stanley**兩位選手離隊。由**Bebe**接任隊長\[7\]。
   - 7月1日：宣布新成員**Achie**以及**Jay**加入，並釋出照片以及個人資料\[8\]。**Bebe**轉任上路。
   - 7月31日，於Season3台港澳區資格賽中敗給橘子熊（現為[Yoe閃電狼](https://zh.wikipedia.org/wiki/Yoe閃電狼 "wikilink")），確定本年度無緣衛冕世界冠軍。
-  - 8月29日：參加[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")**2013
-    GPL/S3小巨蛋總決賽**，在BO3賽制中以0-2敗給[ahq e-Sports
-    Club](https://zh.wikipedia.org/wiki/ahq_e-Sports_Club "wikilink")，獲得亞軍。
-  - 9月10日：正式宣佈新成員**Morning**加入。**Bebe**回任AD
-    Carry、**Achie**轉任上路、**DinTer**轉任打野\[9\]。
+  - 8月29日：參加[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")**2013 GPL/S3小巨蛋總決賽**，在BO3賽制中以0-2敗給[ahq e-Sports Club](https://zh.wikipedia.org/wiki/ahq_e-Sports_Club "wikilink")，獲得亞軍。
+  - 9月10日：正式宣佈新成員**Morning**加入。**Bebe**回任AD Carry、**Achie**轉任上路、**DinTer**轉任打野\[9\]。
   - 10月11日：選手**Lilballz**使用朋友帳戶代打，受禁賽一年之處分，同時宣佈退役，將會跟**叉燒**一起，協助TPA和TPS的訓練。
-  - 10月17日：發佈隊經理專訪，是繼一年前Erica去職後的首次發布有關隊經理之資訊，新任隊經理Quaker是前[CS台灣區國家代表隊eXtreme](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")
-    Gamers(XG)隊長\[10\]\[11\]。
+  - 10月17日：發佈隊經理專訪，是繼一年前Erica去職後的首次發布有關隊經理之資訊，新任隊經理Quaker是前[CS台灣區國家代表隊eXtreme](https://zh.wikipedia.org/wiki/絕對武力 "wikilink") Gamers(XG)隊長\[10\]\[11\]。
 
 #### 2014
 
-  - 1月11日：GPL
-    2014冬季聯賽，在BO5賽制中以3:2擊敗[台北狙擊者](../Page/台北狙擊者.md "wikilink")，獲得冠軍。
+  - 1月11日：GPL 2014冬季聯賽，在BO5賽制中以3:2擊敗[台北狙擊者](../Page/台北狙擊者.md "wikilink")，獲得冠軍。
   - 1月27日：選手**Sarsky**離隊\[12\]。
   - 4月7日: GPL 2014春季聯賽，在BO5賽制中以3:2擊敗ahq e-sports，獲得冠軍。
   - 4月23日：選手**DinTer**暫時轉任為隊伍第六人，新成員**Winds**加入。
@@ -96,14 +76,11 @@ Team**，並由周杰倫擔任董事长。
 #### 2016
 
   - 4月15日：TPA VS M17，以2:3落敗給M17。
-  - 4月19日：由-{杰}-藝文創公司宣布取得TPA經營權，正式改名為J 戰隊(英文名J
-    Team，簡稱JT)，並邀請周杰倫擔任精神領袖。\[18\]。
+  - 4月19日：由-{杰}-藝文創公司宣布取得TPA經營權，正式改名為J 戰隊(英文名J Team，簡稱JT)，並邀請周杰倫擔任精神領袖。\[18\]。
 
 #### 2017
 
-  - 10月2日：前任[Raise
-    Gaming](https://zh.wikipedia.org/wiki/Raise_Gaming "wikilink") AD
-    **Lilv**宣布加入
+  - 10月2日：前任[Raise Gaming](https://zh.wikipedia.org/wiki/Raise_Gaming "wikilink") AD **Lilv**宣布加入
   - 11月12日：**BeBe**宣布退役，**Jay**離隊，**Morning**、**Refrain**轉入[yoeFW閃電狼](https://zh.wikipedia.org/wiki/yoe閃電狼 "wikilink")
   - 11月20日 : 新成員**Hana**宣布加入，擔任打野位置
 
@@ -117,18 +94,13 @@ Team**，並由周杰倫擔任董事长。
   - 9月21日:LMS區域資格賽JT VS M17，以3:2取得勝利
   - 9月22日:LMS區域資格賽JT VS GRX，以0:3敗給GRX
   - 11月30日:戰隊總監兼總教練**FireFox**黃鼎翔(火狐)、教練**Prydz**陳廣峯(小峯)及教練**Dog8**蔡學裕(狗八)宣布正式離隊\[22\]
-  - 12月28日:前[J
-    Team打野](https://zh.wikipedia.org/wiki/J_Team "wikilink")、前閃電狼教練陳冠廷**REFRA1N**宣布加入，擔任總教練，前[G-Rex](../Page/G-Rex.md "wikilink")輔助Koala宣布加入，擔任輔助位置\[23\]
+  - 12月28日:前[J Team打野](https://zh.wikipedia.org/wiki/J_Team "wikilink")、前閃電狼教練陳冠廷**REFRA1N**宣布加入，擔任總教練，前[G-Rex](../Page/G-Rex.md "wikilink")輔助Koala宣布加入，擔任輔助位置\[23\]
 
 #### 2019
 
-  - 2月26日:輔助選手'''Ysera '''(汪宗志)宣布轉入[ahq e-sports
-    club](https://zh.wikipedia.org/wiki/ahq_e-sports_club "wikilink")\[24\]
-  - 3月12日:[中國信託宣布贊助](https://zh.wikipedia.org/wiki/中國信託 "wikilink")[J
-    Team](https://zh.wikipedia.org/wiki/J_Team "wikilink")，隊名變更為CTBC J
-    Team(中信J Team)\[25\]
-  - 3月18日:原總教練陳冠廷**REFRA1N**改登錄為2019
-    LMS春季賽選手，總教練由**Coldicee**凱淵(游閔翔）接任\[26\]
+  - 2月26日:輔助選手'''Ysera '''(汪宗志)宣布轉入[ahq e-sports club](https://zh.wikipedia.org/wiki/ahq_e-sports_club "wikilink")\[24\]
+  - 3月12日:[中國信託宣布贊助](https://zh.wikipedia.org/wiki/中國信託 "wikilink")[J Team](https://zh.wikipedia.org/wiki/J_Team "wikilink")，隊名變更為CTBC J Team(中信J Team)\[25\]
+  - 3月18日:原總教練陳冠廷**REFRA1N**改登錄為2019 LMS春季賽選手，總教練由**Coldicee**凱淵(游閔翔）接任\[26\]
 
 ### 隊伍名單
 
@@ -534,8 +506,7 @@ Team**，並由周杰倫擔任董事长。
 
 ### 集體轉隊
 
-JTeam奪冠原班人馬在2019集體跳槽至MADTeam，JTeam官方於1/9日於JTeam
-傳說對決粉絲團發表聲明稿，因對於GCS聯賽規則不滿，宣布無限期退出聯盟。
+JTeam奪冠原班人馬在2019集體跳槽至MADTeam，JTeam官方於1/9日於JTeam 傳說對決粉絲團發表聲明稿，因對於GCS聯賽規則不滿，宣布無限期退出聯盟。
 但此聲明卻對全體隊員跳槽的狀況產生矛盾，網傳原因為給予待遇太差且長期沒有戰隊教練導致，但JTeam官方並沒有再做做任何表態。
 
 得獎紀錄
@@ -723,56 +694,34 @@ JTeam奪冠原班人馬在2019集體跳槽至MADTeam，JTeam官方於1/9日於JT
 
 ## 參考文獻
 
-[Category:台北暗殺星](https://zh.wikipedia.org/wiki/Category:台北暗殺星 "wikilink")
-[Category:台湾电子竞技团队](https://zh.wikipedia.org/wiki/Category:台湾电子竞技团队 "wikilink")
-[Category:英雄聯盟競技團隊](https://zh.wikipedia.org/wiki/Category:英雄聯盟競技團隊 "wikilink")
-[Category:競舞娛樂](https://zh.wikipedia.org/wiki/Category:競舞娛樂 "wikilink")
+[Category:台北暗殺星](https://zh.wikipedia.org/wiki/Category:台北暗殺星 "wikilink") [Category:台湾电子竞技团队](https://zh.wikipedia.org/wiki/Category:台湾电子竞技团队 "wikilink") [Category:英雄聯盟競技團隊](https://zh.wikipedia.org/wiki/Category:英雄聯盟競技團隊 "wikilink") [Category:競舞娛樂](https://zh.wikipedia.org/wiki/Category:競舞娛樂 "wikilink")
 
 1.
 2.
 3.
 4.  [台灣競舞宣佈成立第二支《英雄聯盟》職業戰隊「台北狙擊者」](http://gnn.gamer.com.tw/4/75164.html)
-5.  [生活時報相片- Taipei Assassins
-    (台北暗殺星)](http://www.facebook.com/photo.php?fbid=463541657051843&set=a.302583299814347.68155.241409359265075&type=1&theater)
-6.  [生活時報相片- Taipei Assassins
-    (台北暗殺星)](https://www.facebook.com/photo.php?fbid=521563204583021&set=a.302583299814347.68155.241409359265075&type=1)
-7.  [生活時報相片- Taipei Assassins
-    (台北暗殺星)](https://www.facebook.com/photo.php?fbid=538644816208193&set=a.302583299814347.68155.241409359265075&type=1)
-8.  [台北暗殺星新成員Jay、Achie接棒　培養默契不斷向前 2013/7/22
-    今日新聞網](http://www.nownews.com/2013/07/22/91-2965718.htm)
-9.  [TPA新血AZB TPA Morning 的粉絲團已經成立摟，Morning預計上場打中路，…-Taipei Assassins
-    (台北暗殺星)](https://www.facebook.com/tpaLoL/posts/578589258880415)
-10. [【專訪】AZB TPA、TPS 最堅強的後盾，隊經理 Quaker
-    專訪](http://lol.esport.garena.tw/news/news_info.php?nid=1751)
-11. [X06 Taiwan 週末主題活動
-    玩家擠爆現場](https://zh.wikinews.org/zh-tw/X06_Taiwan_週末主題活動_玩家擠爆現場)
-12. [天下無不散之宴席！感謝 Dinter、NeXAbc、Sarsky
-    為電子競技運動的付出！](http://taipeiassassins.tw/news.php#)
-13. [【情報】TPA 職業選手 DinTer 宣布與 Garena
-    選手合作關係終止](http://forum.gamer.com.tw/C.php?bsn=17532&snA=419691)
-14. [生活時報相片- Taipei Assassins
-    (台北暗殺星)](https://www.facebook.com/photo.phpfbid=728349903904349&set=pb.241409359265075.-2207520000.1403228168.&type=3&theater)
-15. [【專訪】遠渡重洋跨海執教！前 Najin 總教練正式加入「Azubu Taipei
-    Assassins」！](http://lol.esport.garena.tw/news/news_info.php?nid=2268)
-16. [【專訪】勇敢挑戰自我，用盡全力追夢－Winds
-    退役專訪](http://lol.esport.garena.tw/news/news_info.php?nid=2619)
+5.  [生活時報相片- Taipei Assassins (台北暗殺星)](http://www.facebook.com/photo.php?fbid=463541657051843&set=a.302583299814347.68155.241409359265075&type=1&theater)
+6.  [生活時報相片- Taipei Assassins (台北暗殺星)](https://www.facebook.com/photo.php?fbid=521563204583021&set=a.302583299814347.68155.241409359265075&type=1)
+7.  [生活時報相片- Taipei Assassins (台北暗殺星)](https://www.facebook.com/photo.php?fbid=538644816208193&set=a.302583299814347.68155.241409359265075&type=1)
+8.  [台北暗殺星新成員Jay、Achie接棒　培養默契不斷向前 2013/7/22 今日新聞網](http://www.nownews.com/2013/07/22/91-2965718.htm)
+9.  [TPA新血AZB TPA Morning 的粉絲團已經成立摟，Morning預計上場打中路，…-Taipei Assassins (台北暗殺星)](https://www.facebook.com/tpaLoL/posts/578589258880415)
+10. [【專訪】AZB TPA、TPS 最堅強的後盾，隊經理 Quaker 專訪](http://lol.esport.garena.tw/news/news_info.php?nid=1751)
+11. [X06 Taiwan 週末主題活動 玩家擠爆現場](https://zh.wikinews.org/zh-tw/X06_Taiwan_週末主題活動_玩家擠爆現場)
+12. [天下無不散之宴席！感謝 Dinter、NeXAbc、Sarsky 為電子競技運動的付出！](http://taipeiassassins.tw/news.php#)
+13. [【情報】TPA 職業選手 DinTer 宣布與 Garena 選手合作關係終止](http://forum.gamer.com.tw/C.php?bsn=17532&snA=419691)
+14. [生活時報相片- Taipei Assassins (台北暗殺星)](https://www.facebook.com/photo.phpfbid=728349903904349&set=pb.241409359265075.-2207520000.1403228168.&type=3&theater)
+15. [【專訪】遠渡重洋跨海執教！前 Najin 總教練正式加入「Azubu Taipei Assassins」！](http://lol.esport.garena.tw/news/news_info.php?nid=2268)
+16. [【專訪】勇敢挑戰自我，用盡全力追夢－Winds 退役專訪](http://lol.esport.garena.tw/news/news_info.php?nid=2619)
 17. [專訪／TPA強者回歸！微笑Bebe：想再次奪冠不留遺憾](http://game.ettoday.net/article/604600.htm)
 18.
-19. [又一 LMS 打野出走，JT Alex 轉戰 LPL
-    戰隊](https://tw.esports.yahoo.com/lms-%E6%89%93%E9%87%8E%E9%81%B8%E6%89%8B%E5%87%BA%E8%B5%B0%E6%BD%AE%EF%BC%9Fjt-alex-%E5%B0%87%E8%BD%89%E6%88%B0-lpl-fpx-%E6%88%B0%E9%9A%8A-114033582.html)
-20. [前 RNG 總監風哥落腳 JT！一肩扛下總教練重任：想為 LMS
-    盡力](https://tw.esports.yahoo.com/%E9%A2%A8%E5%93%A5%E6%89%9B%E4%B8%8B-jt-%E6%88%B0%E9%9A%8A%E7%B8%BD%E7%9B%A3%E3%80%81%E7%B8%BD%E6%95%99%E7%B7%B4%E9%87%8D%E8%B2%AC%EF%BC%8C%E5%B0%8F%E5%B3%AF%E5%B0%87%E6%94%9C%E6%89%8B%E7%8B%97-102721962.html)
-21. [電競》六都表演賽TPA全員到齊
-    網友感動：「眼淚流不停」](https://sports.ltn.com.tw/news/breakingnews/2531758)
+19. [又一 LMS 打野出走，JT Alex 轉戰 LPL 戰隊](https://tw.esports.yahoo.com/lms-%E6%89%93%E9%87%8E%E9%81%B8%E6%89%8B%E5%87%BA%E8%B5%B0%E6%BD%AE%EF%BC%9Fjt-alex-%E5%B0%87%E8%BD%89%E6%88%B0-lpl-fpx-%E6%88%B0%E9%9A%8A-114033582.html)
+20. [前 RNG 總監風哥落腳 JT！一肩扛下總教練重任：想為 LMS 盡力](https://tw.esports.yahoo.com/%E9%A2%A8%E5%93%A5%E6%89%9B%E4%B8%8B-jt-%E6%88%B0%E9%9A%8A%E7%B8%BD%E7%9B%A3%E3%80%81%E7%B8%BD%E6%95%99%E7%B7%B4%E9%87%8D%E8%B2%AC%EF%BC%8C%E5%B0%8F%E5%B3%AF%E5%B0%87%E6%94%9C%E6%89%8B%E7%8B%97-102721962.html)
+21. [電競》六都表演賽TPA全員到齊 網友感動：「眼淚流不停」](https://sports.ltn.com.tw/news/breakingnews/2531758)
 22. [《英雄聯盟》震驚！JT教練團大更動，風哥、小峯、狗八全部離職](https://www.4gamers.com.tw/news/detail/37021/firefox-and-prydz-suddenly-left-j-team-for-personal-reasons)
-23. [《英雄聯盟》J Team迎來REFRA1N、Koala
-    迎接新賽季](https://tw.esports.yahoo.com/%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-j-team%E8%BF%8E%E4%BE%86refra1n-koala-%E8%BF%8E%E6%8E%A5%E6%96%B0%E8%B3%BD%E5%AD%A3-114417654.html)
-24. [《英雄聯盟》ahq與J
-    Team達成協議，迎回老將Ysera](https://www.4gamers.com.tw/news/detail/38120/ahq-lol-team-new-support-ysera)
-25. [中國信託冠名贊助J
-    Team《英雄聯盟》戰隊](https://www.4gamers.com.tw/news/detail/38233/ctbcbank-x-jteam)
+23. [《英雄聯盟》J Team迎來REFRA1N、Koala 迎接新賽季](https://tw.esports.yahoo.com/%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-j-team%E8%BF%8E%E4%BE%86refra1n-koala-%E8%BF%8E%E6%8E%A5%E6%96%B0%E8%B3%BD%E5%AD%A3-114417654.html)
+24. [《英雄聯盟》ahq與J Team達成協議，迎回老將Ysera](https://www.4gamers.com.tw/news/detail/38120/ahq-lol-team-new-support-ysera)
+25. [中國信託冠名贊助J Team《英雄聯盟》戰隊](https://www.4gamers.com.tw/news/detail/38233/ctbcbank-x-jteam)
 26. [叫你們教練出來打！JT登錄Refra1n努努本人重回賽場](https://tw.news.yahoo.com/%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E5%8F%AB%E4%BD%A0%E5%80%91%E6%95%99%E7%B7%B4%E5%87%BA%E4%BE%86%E6%89%93-jt%E7%99%BB%E9%8C%84refra1n%E5%8A%AA%E5%8A%AA%E6%9C%AC%E4%BA%BA%E9%87%8D%E5%9B%9E%E8%B3%BD%E5%A0%B4-101100008.html)
 27. [【英雄聯盟】叫你們教練出來打！JT登錄Refra1n努努本人重回賽場](https://tw.news.yahoo.com/%E8%8B%B1%E9%9B%84%E8%81%AF%E7%9B%9F-%E5%8F%AB%E4%BD%A0%E5%80%91%E6%95%99%E7%B7%B4%E5%87%BA%E4%BE%86%E6%89%93-jt%E7%99%BB%E9%8C%84refra1n%E5%8A%AA%E5%8A%AA%E6%9C%AC%E4%BA%BA%E9%87%8D%E5%9B%9E%E8%B3%BD%E5%A0%B4-101100008.html)
-28. [【專訪】重整旗鼓再出發，AZB TPA/TPS
-    領隊公布未來戰隊方針](http://lol.esport.garena.tw/news/news_info.php?nid=1638&category=0)
+28. [【專訪】重整旗鼓再出發，AZB TPA/TPS 領隊公布未來戰隊方針](http://lol.esport.garena.tw/news/news_info.php?nid=1638&category=0)
 29. [2015 AIC 世界賽季軍戰戰況報導](http://ava.garena.tw/news/show/1018)

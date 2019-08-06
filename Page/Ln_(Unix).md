@@ -30,9 +30,7 @@ $ cat hardlink.file
 
 [单一Unix规范](https://zh.wikipedia.org/wiki/单一Unix规范 "wikilink")（SUS）规定了创建一个原始文件（或目录）的链接（不管是符号链接还是硬链接）文件时的行为。
 
-`ln`
-可以用两种方式使用。第一种，是第一个参数指定原始文件，第二个参数指定链接文件；第二种，指定多于两个选项，应该先是多个原始文件（或目录），最后指定一个目录，所有原始文件（或目录）的链接将会被创建于最后指定的目录里。在后一种方式中，ln
-命令的行为和具体的程序实现有关。
+`ln` 可以用两种方式使用。第一种，是第一个参数指定原始文件，第二个参数指定链接文件；第二种，指定多于两个选项，应该先是多个原始文件（或目录），最后指定一个目录，所有原始文件（或目录）的链接将会被创建于最后指定的目录里。在后一种方式中，ln 命令的行为和具体的程序实现有关。
 
 `ln` 和标准的 `unlink()` 和 `link()` 函数执行完全一致的操作，详细的 `ln` 命令用法，可以执行以下两个命令查询：
 
@@ -44,26 +42,18 @@ $ cat hardlink.file
 ## 参见
 
   - [Unix实用程序列表](../Page/Unix实用程序列表.md "wikilink")
-  - [NTFS junction
-    point](https://zh.wikipedia.org/wiki/NTFS_junction_point "wikilink")
+  - [NTFS junction point](https://zh.wikipedia.org/wiki/NTFS_junction_point "wikilink")
 
 ## 外部链接
 
-  - 单一 Unix 规范里的
-    [ln](http://www.opengroup.org/onlinepubs/009695399/utilities/ln.html)
-    命令
-  - [ln](http://en.wikibooks.org/wiki/Guide_to_Unix/Commands/File_System_Utilities#ln)
-    命令简要指南
+  - 单一 Unix 规范里的 [ln](http://www.opengroup.org/onlinepubs/009695399/utilities/ln.html) 命令
+  - [ln](http://en.wikibooks.org/wiki/Guide_to_Unix/Commands/File_System_Utilities#ln) 命令简要指南
 
 ### 手册页
 
-  - [GNU](../Page/GNU.md "wikilink") 网站上的
-    [ln](http://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html)
-    手册页
-  - [OpenBSD](../Page/OpenBSD.md "wikilink") 网站上的
-    [ln](http://www.openbsd.org/cgi-bin/man.cgi?query=ln) 手册页
+  - [GNU](../Page/GNU.md "wikilink") 网站上的 [ln](http://www.gnu.org/software/coreutils/manual/html_node/ln-invocation.html) 手册页
+  - [OpenBSD](../Page/OpenBSD.md "wikilink") 网站上的 [ln](http://www.openbsd.org/cgi-bin/man.cgi?query=ln) 手册页
 
 {{-}}
 
-[Category:标准Unix程序](https://zh.wikipedia.org/wiki/Category:标准Unix程序 "wikilink")
-[Category:Unix_SUS2008实用程序](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用程序 "wikilink")
+[Category:标准Unix程序](https://zh.wikipedia.org/wiki/Category:标准Unix程序 "wikilink") [Category:Unix_SUS2008实用程序](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用程序 "wikilink")

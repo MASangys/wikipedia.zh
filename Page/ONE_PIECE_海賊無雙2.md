@@ -1,7 +1,4 @@
-為[光榮特庫摩所開發](https://zh.wikipedia.org/wiki/光榮特庫摩控股 "wikilink")，以《[ONE
-PIECE](../Page/ONE_PIECE.md "wikilink")》為題材的無雙動作遊戲，平台為[PlayStation
-3和](../Page/PlayStation_3.md "wikilink")[PlayStation
-Vita](../Page/PlayStation_Vita.md "wikilink")，由[南夢宮萬代發行](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")，發售日是2013年3月20日。
+為[光榮特庫摩所開發](https://zh.wikipedia.org/wiki/光榮特庫摩控股 "wikilink")，以《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》為題材的無雙動作遊戲，平台為[PlayStation 3和](../Page/PlayStation_3.md "wikilink")[PlayStation Vita](../Page/PlayStation_Vita.md "wikilink")，由[南夢宮萬代發行](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")，發售日是2013年3月20日。
 
 ## 概要
 
@@ -51,16 +48,6 @@ Vita](../Page/PlayStation_Vita.md "wikilink")，由[南夢宮萬代發行](https
 
 ## 外部連結
 
-  - [《航海王
-    海賊無雙2》官方網站](http://www.bandaigames.channel.or.jp/list/opm/2/pc/)
+  - [《航海王 海賊無雙2》官方網站](http://www.bandaigames.channel.or.jp/list/opm/2/pc/)
 
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:無雙系列](https://zh.wikipedia.org/wiki/Category:無雙系列 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:海贼王改编游戏](https://zh.wikipedia.org/wiki/Category:海贼王改编游戏 "wikilink")
-[Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
+[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:無雙系列](https://zh.wikipedia.org/wiki/Category:無雙系列 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:海贼王改编游戏](https://zh.wikipedia.org/wiki/Category:海贼王改编游戏 "wikilink") [Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")

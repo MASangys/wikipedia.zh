@@ -2,8 +2,7 @@
 
 ## Team A 「Waiting」公演
 
-2012年11月2日－2013年7月22日之Team A稱為篠田Team A，翌日23日後則改稱為橫山Team
-A，但並未於當日便更改公演內容，而是到10月16日才開始演出新的「Waiting」公演。
+2012年11月2日－2013年7月22日之Team A稱為篠田Team A，翌日23日後則改稱為橫山Team A，但並未於當日便更改公演內容，而是到10月16日才開始演出新的「Waiting」公演。
 
 ### 篠田Team A 「Waiting」公演
 
@@ -101,8 +100,7 @@ A，但並未於當日便更改公演內容，而是到10月16日才開始演出
 
 ### 橫山Team A 「Waiting」公演
 
-虽然被称作「Waiting」公演 ，但本场公演演目的所有全员曲皆与[Team A 4th
-Stage“正在恋爱中”的曲目与曲顺相同](../Page/Team_A_4th_Stage“正在恋爱中”.md "wikilink")，因此下面将仅列出发生变动的分组曲部分
+虽然被称作「Waiting」公演 ，但本场公演演目的所有全员曲皆与[Team A 4th Stage“正在恋爱中”的曲目与曲顺相同](../Page/Team_A_4th_Stage“正在恋爱中”.md "wikilink")，因此下面将仅列出发生变动的分组曲部分
 
   - 全部歌曲均由AKB48總製作人秋元康作詞。
 
@@ -225,8 +223,7 @@ Stage“正在恋爱中”的曲目与曲顺相同](../Page/Team_A_4th_Stage“�
     （作曲：山崎燿　編曲：田中ユウスケ）
 2.  《First Rabbit》（）
     （作曲：楊慶豪　編曲：楊慶豪）
-3.  《[To be
-    continued.](../Page/Team_K_5th_Stage“引体后翻”.md "wikilink")》\[6\]
+3.  《[To be continued.](../Page/Team_K_5th_Stage“引体后翻”.md "wikilink")》\[6\]
     （作曲：井上義正　編曲：井上義正）
 4.  《[草原的奇蹟](../Page/Team_K_3rd_Stage“脑内天堂”.md "wikilink")》（）
     （作曲：梅堀淳　編曲：田口智則、稲留春雄）
@@ -338,8 +335,7 @@ Stage“正在恋爱中”的曲目与曲顺相同](../Page/Team_A_4th_Stage“�
     （作曲：岡田実音、編曲：市川裕一）
 2.  《[因為喜歡你](../Page/RIVER_\(AKB48單曲\).md "wikilink")》（）
     （作曲：織田哲郎：野中MASA雄一）
-3.  《[Virgin
-    love](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage“青春女孩” "wikilink")》
+3.  《[Virgin love](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage“青春女孩” "wikilink")》
     （作曲：井上義正、編曲：井上義正）
 4.  《[不是正義使者的英雄](../Page/UZA.md "wikilink")》（）
     （作曲：森脇正敏、編曲：板垣祐介）
@@ -371,8 +367,7 @@ Stage“正在恋爱中”的曲目与曲顺相同](../Page/Team_A_4th_Stage“�
 
 1.  《UZA》\[8\]
     （作曲：井上義正　編曲：井上義正）
-2.  《[推Team
-    B](https://zh.wikipedia.org/wiki/Team_B_5th_Stage“剧场的女神” "wikilink")》（）
+2.  《[推Team B](https://zh.wikipedia.org/wiki/Team_B_5th_Stage“剧场的女神” "wikilink")》（）
     （作曲：吉野貴雄　編曲：武藤星兒）
 3.  《[格子花紋](../Page/格子花紋.md "wikilink")》（）
     （作曲：板垣佑介　編曲：板垣佑介）
@@ -437,8 +432,7 @@ Stage“正在恋爱中”的曲目与曲顺相同](../Page/Team_A_4th_Stage“�
 
 5.  因自6月18日更換分組曲後，分組曲由5曲變成6曲，故此曲序號以11開始
 
-6.  於8月28日（秋元才加卒業式）或以前安可第3曲（尾曲）為＂草原的奇蹟＂，自9月4日開始第3曲轉為＂To be
-    continued.＂，8月30日（宮崎美穗誕生祭）安可曲只有首兩曲，再加上時賣單曲＂[戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")＂，而2014年1月15日（佐藤亞美菜卒業式）則兩曲皆有演出
+6.  於8月28日（秋元才加卒業式）或以前安可第3曲（尾曲）為＂草原的奇蹟＂，自9月4日開始第3曲轉為＂To be continued.＂，8月30日（宮崎美穗誕生祭）安可曲只有首兩曲，再加上時賣單曲＂[戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")＂，而2014年1月15日（佐藤亞美菜卒業式）則兩曲皆有演出
 
 7.
 8.  2013年2月13日及以前，UZA為安可曲第4首，2月20日則安可曲第2、3首次序掉轉

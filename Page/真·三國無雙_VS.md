@@ -27,16 +27,9 @@
 ## 外部連結
 
   - [官方网站](http://www.gamecity.ne.jp/smusouvs/)
-  - [《真·三國無雙
-    VS》](http://www.nintendo.co.jp/3ds/software/as5j/index.html)在任天堂上的页面
+  - [《真·三國無雙 VS》](http://www.nintendo.co.jp/3ds/software/as5j/index.html)在任天堂上的页面
 
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:真·三国无双系列电子游戏](https://zh.wikipedia.org/wiki/Category:真·三国无双系列电子游戏 "wikilink")
-[Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink")
-[Category:任天堂3DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS独占游戏 "wikilink")
-[Category:Nintendo_Network遊戲](https://zh.wikipedia.org/wiki/Category:Nintendo_Network遊戲 "wikilink")
-[Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
-[Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink")
+[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:真·三国无双系列电子游戏](https://zh.wikipedia.org/wiki/Category:真·三国无双系列电子游戏 "wikilink") [Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink") [Category:任天堂3DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS独占游戏 "wikilink") [Category:Nintendo_Network遊戲](https://zh.wikipedia.org/wiki/Category:Nintendo_Network遊戲 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink")
 
 1.
 2.

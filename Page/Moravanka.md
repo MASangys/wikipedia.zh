@@ -1,6 +1,4 @@
-**Moravanka**，又稱**Moravanka Jana
-Slabáka**(意即「揚‧斯萊博克的Moravanka」)，是一個[捷克](../Page/捷克.md "wikilink")的管樂樂團，它由揚‧斯萊博克(Jan
-Slabák，1941年3月24日生於Kelčany)於1971年(或1972年)創立。它演奏的內容很多都源自摩拉維亞地區，尤其是（）一帶的民俗傳統音樂。
+**Moravanka**，又稱**Moravanka Jana Slabáka**(意即「揚‧斯萊博克的Moravanka」)，是一個[捷克](../Page/捷克.md "wikilink")的管樂樂團，它由揚‧斯萊博克(Jan Slabák，1941年3月24日生於Kelčany)於1971年(或1972年)創立。它演奏的內容很多都源自摩拉維亞地區，尤其是（）一帶的民俗傳統音樂。
 
 ## 唱片目錄
 
@@ -43,8 +41,7 @@ Slabák，1941年3月24日生於Kelčany)於1971年(或1972年)創立。它演�
   - 25 let Moravanky (1996); MC, CD
   - Pod májú (1997); MC, CD
   - Daheim ist daheim; VIDEOBAND (1997)
-  - Moravanka "Die schönsten instrumental Hits der Volksmusik" (1997);
-    CD
+  - Moravanka "Die schönsten instrumental Hits der Volksmusik" (1997); CD
   - Písničky, které udělaly Moravanku 2 (1998); MC, CD
   - Písničky, které udělaly Moravanku 3 (1999); MC, CD
   - Je to nádherný (1999); MC, CD
@@ -79,5 +76,4 @@ Slabák，1941年3月24日生於Kelčany)於1971年(或1972年)創立。它演�
 
   - <http://www2.moravanka.eu/>
 
-[Category:捷克樂團](https://zh.wikipedia.org/wiki/Category:捷克樂團 "wikilink")
-[Category:管樂團](https://zh.wikipedia.org/wiki/Category:管樂團 "wikilink")
+[Category:捷克樂團](https://zh.wikipedia.org/wiki/Category:捷克樂團 "wikilink") [Category:管樂團](https://zh.wikipedia.org/wiki/Category:管樂團 "wikilink")

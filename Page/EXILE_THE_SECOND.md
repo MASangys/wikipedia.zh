@@ -1,24 +1,12 @@
-**EXILE THE
-SECOND**是[日本](../Page/日本.md "wikilink")的六人舞蹈及歌唱組合。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")。唱片公司是[rhythm
-zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
+**EXILE THE SECOND**是[日本](../Page/日本.md "wikilink")的六人舞蹈及歌唱組合。[LDH所屬](../Page/LDH_\(藝能事務所\).md "wikilink")。唱片公司是[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 略歴
 
-  - 2012年7月1日、於巨蛋巡演「EXILE TRIBE LIVE TOUR 2012 ～TOWER OF
-    WISH～」的最終日中發表了為[EXILE
-    TRIBE的新組合組及開始活動](../Page/EXILE_TRIBE.md "wikilink")\[1\]。
-  - 2012年11月7日、單曲「[THINK 'BOUT
-    IT\!](../Page/THINK_'BOUT_IT!.md "wikilink")」出道。
-  - 2015 年12月4日於[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")舉行的「EXILE LIVE TOUR
-    2015 "AMAZING WORLD"」中發表了會於2016年秋天起舉行Arena Tour
-    。另外、至今也只有在EXILE、EXILE
-    TRIBE的演唱會中活動的他們、這天也發表了該組合於2016年起會真正地單獨活動。\[2\]\[3\]。同時、橘KENCHI正式成為隊長。
-  - 2016年2月 - 4月、首次舉辧FANCLUB活動「EX FAMILY限定\! THE SECOND from EXILE "
-    kickoff meeting"」\[4\]。5月20日、團名由「THE SECOND from EXILE」改名為『**EXILE
-    THE SECOND**』。9月5日、發表了EXILE的[EXILE
-    AKIRA以表演者身份加入](../Page/AKIRA.md "wikilink")、成為六人組合\[5\]。
-  - 2016年10月 - 2017年5月舉行首次的單獨巡迴演唱會「EXILE THE SECOND LIVE TOUR 2016-2017
-    "WILD WILD WARRIORS"」。
+  - 2012年7月1日、於巨蛋巡演「EXILE TRIBE LIVE TOUR 2012 ～TOWER OF WISH～」的最終日中發表了為[EXILE TRIBE的新組合組及開始活動](../Page/EXILE_TRIBE.md "wikilink")\[1\]。
+  - 2012年11月7日、單曲「[THINK 'BOUT IT\!](../Page/THINK_'BOUT_IT!.md "wikilink")」出道。
+  - 2015 年12月4日於[大阪巨蛋](../Page/大阪巨蛋.md "wikilink")舉行的「EXILE LIVE TOUR 2015 "AMAZING WORLD"」中發表了會於2016年秋天起舉行Arena Tour 。另外、至今也只有在EXILE、EXILE TRIBE的演唱會中活動的他們、這天也發表了該組合於2016年起會真正地單獨活動。\[2\]\[3\]。同時、橘KENCHI正式成為隊長。
+  - 2016年2月 - 4月、首次舉辧FANCLUB活動「EX FAMILY限定\! THE SECOND from EXILE " kickoff meeting"」\[4\]。5月20日、團名由「THE SECOND from EXILE」改名為『**EXILE THE SECOND**』。9月5日、發表了EXILE的[EXILE AKIRA以表演者身份加入](../Page/AKIRA.md "wikilink")、成為六人組合\[5\]。
+  - 2016年10月 - 2017年5月舉行首次的單獨巡迴演唱會「EXILE THE SECOND LIVE TOUR 2016-2017 "WILD WILD WARRIORS"」。
 
 ## 成員
 
@@ -276,27 +264,23 @@ EXILE THE SECOND LIVE TOUR 2016-2017 "WILD WILD WARRIORS"\[12\]
 
 <div class="NavContent" style="text-align: left;">
 
-  - 10月29日、10月30日：新潟・[朱鷺メッセ](https://zh.wikipedia.org/wiki/朱鷺メッセ "wikilink")
-    新潟コンベンションセンター
+  - 10月29日、10月30日：新潟・[朱鷺メッセ](https://zh.wikipedia.org/wiki/朱鷺メッセ "wikilink") 新潟コンベンションセンター
   - 11月10日、11月11日、11月12日：兵庫・[ワールド記念ホール](https://zh.wikipedia.org/wiki/ワールド記念ホール "wikilink")
   - 11月16日、11月17日：大阪・[大阪城ホール](https://zh.wikipedia.org/wiki/大阪城ホール "wikilink")
   - 11月26日、11月27日：広島・[広島グリーンアリーナ](https://zh.wikipedia.org/wiki/広島県立総合体育館 "wikilink")
-  - 12月3日、12月4日：北海道・[北海道立総合体育センター](https://zh.wikipedia.org/wiki/北海道立総合体育センター "wikilink")
-    北海きたえーる
+  - 12月3日、12月4日：北海道・[北海道立総合体育センター](https://zh.wikipedia.org/wiki/北海道立総合体育センター "wikilink") 北海きたえーる
   - 12月17日、12月18日：宮城・[セキスイハイムスーパーアリーナ](https://zh.wikipedia.org/wiki/宮城県総合運動公園総合体育館 "wikilink")
   - 12月26日、12月27日：埼玉・[さいたまスーパーアリーナ](https://zh.wikipedia.org/wiki/さいたまスーパーアリーナ "wikilink")
   - 01月14日、01月15日：福岡・[マリンメッセ福岡](https://zh.wikipedia.org/wiki/マリンメッセ福岡 "wikilink")
   - 01月19日：愛知・[日本ガイシホール](https://zh.wikipedia.org/wiki/名古屋市総合体育館 "wikilink")
   - 02月1日、02月2日：神奈川・[横浜アリーナ](https://zh.wikipedia.org/wiki/横浜アリーナ "wikilink")
-  - 02月8日、02月9日：東京・[国立代々木競技場](https://zh.wikipedia.org/wiki/国立代々木競技場 "wikilink")
-    第一体育館
+  - 02月8日、02月9日：東京・[国立代々木競技場](https://zh.wikipedia.org/wiki/国立代々木競技場 "wikilink") 第一体育館
   - 02月21日、02月22日：大阪・大阪城ホール
   - 03月10日、03月11日、03月12日：兵庫・ワールド記念ホール
   - 03月24日、03月25日：福岡・マリンメッセ福岡
   - 04月6日、04月7日：静岡・[エコパアリーナ](https://zh.wikipedia.org/wiki/エコパアリーナ "wikilink")
   - 04月22日、04月23日：青森・[盛運輸アリーナ](https://zh.wikipedia.org/wiki/青森県営スケート場 "wikilink")
-  - 05月12日、05月13日、05月14日：千葉・[幕張メッセ](https://zh.wikipedia.org/wiki/幕張メッセ "wikilink")
-    国際展示場ホール
+  - 05月12日、05月13日、05月14日：千葉・[幕張メッセ](https://zh.wikipedia.org/wiki/幕張メッセ "wikilink") 国際展示場ホール
 
 </div>
 
@@ -337,8 +321,7 @@ EXILE THE SECOND LIVE TOUR 2017-2018 "ROUTE 6・6"
 
 <div class="NavHead" style="text-align: left;">
 
-EXILE TRIBE PERFECT YEAR 2014 SPECIAL STAGE "THE SURVIVAL" IN SAITAMA
-SUPER ARENA 10DAYS
+EXILE TRIBE PERFECT YEAR 2014 SPECIAL STAGE "THE SURVIVAL" IN SAITAMA SUPER ARENA 10DAYS
 
 </div>
 
@@ -354,8 +337,7 @@ SUPER ARENA 10DAYS
 
 <div class="NavHead" style="text-align: left;">
 
-EXILE TRIBE PERFECT YEAR LIVE TOUR TOWER OF WISH 2014 〜THE
-REVOLUTION〜\[13\]
+EXILE TRIBE PERFECT YEAR LIVE TOUR TOWER OF WISH 2014 〜THE REVOLUTION〜\[13\]
 
 </div>
 
@@ -409,15 +391,13 @@ EX FAMILY限定\! THE SECOND from EXILE "キックオフミーティング"\[14\
 
   - 2016年2月19日：新潟・新潟市民プラザ
   - 3月8日：宮城・仙台サンフェスタ
-  - 3月10日：愛媛・[アイテムえひめ](https://zh.wikipedia.org/wiki/アイテムえひめ "wikilink")
-    小展示場
+  - 3月10日：愛媛・[アイテムえひめ](https://zh.wikipedia.org/wiki/アイテムえひめ "wikilink") 小展示場
   - 3月24日：愛知・名古屋国際会議場白鳥ホール
   - 3月26日：北海道・[札幌コンベンションセンター](https://zh.wikipedia.org/wiki/札幌コンベンションセンター "wikilink")
   - 3月29日：福岡・スカラエスパシオ
   - 4月1日：広島・[NTTクレドホール](https://zh.wikipedia.org/wiki/NTTクレドホール "wikilink")
   - 4月5日、4月6日：東京・ベルサール渋谷ファースト
-  - 4月16日：大阪・[マイドームおおさか](https://zh.wikipedia.org/wiki/マイドームおおさか "wikilink")
-    Fホール
+  - 4月16日：大阪・[マイドームおおさか](https://zh.wikipedia.org/wiki/マイドームおおさか "wikilink") Fホール
 
 </div>
 
@@ -427,23 +407,18 @@ EX FAMILY限定\! THE SECOND from EXILE "キックオフミーティング"\[14\
 
 ### 廣告
 
-  - [adidas](https://zh.wikipedia.org/wiki/adidas "wikilink")「adidasenergy
-    13」（2012年）
+  - [adidas](https://zh.wikipedia.org/wiki/adidas "wikilink")「adidasenergy 13」（2012年）
   - 第一興商「SmartDAM」（2013年）
   - ANGFA「Scalp-D」(2013年)
-  - [洋服の青山](https://zh.wikipedia.org/wiki/洋服の青山 "wikilink")「AOYAMA
-    PRESTIGE TECHNOLOGY」（2016年）\[15\]
-  - [アルペン](https://zh.wikipedia.org/wiki/アルペン "wikilink")・アディダス「ADIDAS
-    DREAM CAMPAIGN With EXILE THE SECOND」（2016年）\[16\]
+  - [洋服の青山](https://zh.wikipedia.org/wiki/洋服の青山 "wikilink")「AOYAMA PRESTIGE TECHNOLOGY」（2016年）\[15\]
+  - [アルペン](https://zh.wikipedia.org/wiki/アルペン "wikilink")・アディダス「ADIDAS DREAM CAMPAIGN With EXILE THE SECOND」（2016年）\[16\]
   - ANGFA「SCALP-D 睫毛美容液增長液」（2017年）\[17\]
   - [IDOM](https://zh.wikipedia.org/wiki/IDOM "wikilink")「ガリバー大創業祭」（2017年）
-  - [太陽劇團](../Page/太陽劇團.md "wikilink")「DAIHATSU KURIOS」（2017年 - 2018年） -
-    日本公演特别支援者\[18\]
+  - [太陽劇團](../Page/太陽劇團.md "wikilink")「DAIHATSU KURIOS」（2017年 - 2018年） - 日本公演特别支援者\[18\]
 
 ### 電視節目
 
-  - EXILE THE SECOND × WOWOW（2016年8月 -
-    2017年2月、[WOWOW](../Page/WOWOW.md "wikilink")）
+  - EXILE THE SECOND × WOWOW（2016年8月 - 2017年2月、[WOWOW](../Page/WOWOW.md "wikilink")）
 
 ### 廣播節目
 
@@ -452,22 +427,18 @@ EX FAMILY限定\! THE SECOND from EXILE "キックオフミーティング"\[14\
 
 ### 雜誌連載
 
-  - [steady.](https://zh.wikipedia.org/wiki/steady. "wikilink")（2017年1月号
-    - 、[寶島社](https://zh.wikipedia.org/wiki/寶島社 "wikilink")）
+  - [steady.](https://zh.wikipedia.org/wiki/steady. "wikilink")（2017年1月号 - 、[寶島社](https://zh.wikipedia.org/wiki/寶島社 "wikilink")）
 
 ## 獲獎歷
 
-  - [MTV Video Music Awards
-    Japan](https://zh.wikipedia.org/wiki/MTV_Video_Music_Awards_Japan "wikilink")
-    最佳本地音樂團體音樂錄影帶獎 「Shut up\!\! Shut up\!\! Shut up\!\!」（2016年）
+  - [MTV Video Music Awards Japan](https://zh.wikipedia.org/wiki/MTV_Video_Music_Awards_Japan "wikilink") 最佳本地音樂團體音樂錄影帶獎 「Shut up\!\! Shut up\!\! Shut up\!\!」（2016年）
 
 ## 備考
 
   - GREEN DRAGON
     THE SECOND from EXILE的化身\[21\]。
   - 「**EXILE THE SECOND DAY**」
-    2017年2月、日本記念日協會認定了[2月22日](../Page/2月22日.md "wikilink")為EXILE THE
-    SECOND的記念日「**EXILE THE SECOND DAY**」\[22\]。
+    2017年2月、日本記念日協會認定了[2月22日](../Page/2月22日.md "wikilink")為EXILE THE SECOND的記念日「**EXILE THE SECOND DAY**」\[22\]。
 
 ## 備註
 
@@ -482,17 +453,9 @@ EX FAMILY限定\! THE SECOND from EXILE "キックオフミーティング"\[14\
   -
   - [EX FAMILY -EXILE TRIBE OFFICIAL FAN CLUB-](http://exfamily.jp/)
 
-[Category:EXILE_THE_SECOND](https://zh.wikipedia.org/wiki/Category:EXILE_THE_SECOND "wikilink")
-[Category:放浪兄弟](https://zh.wikipedia.org/wiki/Category:放浪兄弟 "wikilink")
-[Category:J_Soul_Brothers](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers "wikilink")
-[Category:Rhythm_zone](https://zh.wikipedia.org/wiki/Category:Rhythm_zone "wikilink")
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:EXILE_TRIBE](https://zh.wikipedia.org/wiki/Category:EXILE_TRIBE "wikilink")
-[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
+[Category:EXILE_THE_SECOND](https://zh.wikipedia.org/wiki/Category:EXILE_THE_SECOND "wikilink") [Category:放浪兄弟](https://zh.wikipedia.org/wiki/Category:放浪兄弟 "wikilink") [Category:J_Soul_Brothers](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers "wikilink") [Category:Rhythm_zone](https://zh.wikipedia.org/wiki/Category:Rhythm_zone "wikilink") [Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:EXILE_TRIBE](https://zh.wikipedia.org/wiki/Category:EXILE_TRIBE "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
-1.  [EXILE TRIBE NEW UNIT “THE SECOND”
-    始動！](http://exile.jp/news/201207011.html)
+1.  [EXILE TRIBE NEW UNIT “THE SECOND” 始動！](http://exile.jp/news/201207011.html)
 
 2.
 
@@ -502,9 +465,7 @@ EX FAMILY限定\! THE SECOND from EXILE "キックオフミーティング"\[14\
 
 5.
 
-6.  以[DANCE EARTH
-    PARTY](https://zh.wikipedia.org/wiki/DANCE_EARTH_PARTY "wikilink")×EXILE
-    THE SECOND的名義推出
+6.  以[DANCE EARTH PARTY](https://zh.wikipedia.org/wiki/DANCE_EARTH_PARTY "wikilink")×EXILE THE SECOND的名義推出
 
 7.
 
@@ -517,9 +478,7 @@ EX FAMILY限定\! THE SECOND from EXILE "キックオフミーティング"\[14\
 
 12.
 
-13. [EXILE TRIBE PERFECT YEAR LIVE TOUR TOWER OF WISH 2014〜THE
-    REVOLUTION](http://exiletribe-perfectyear.com/tower_of_wish/) EXILE
-    TRIBE PERFECT YEAR 2014 Official Website、2015年4月3日閲覧。
+13. [EXILE TRIBE PERFECT YEAR LIVE TOUR TOWER OF WISH 2014〜THE REVOLUTION](http://exiletribe-perfectyear.com/tower_of_wish/) EXILE TRIBE PERFECT YEAR 2014 Official Website、2015年4月3日閲覧。
 
 14.
 

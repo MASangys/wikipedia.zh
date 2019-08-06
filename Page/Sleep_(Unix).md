@@ -42,8 +42,7 @@
 
 睡眠5个小时，然后再睡眠30分钟。
 
-[GNU计划的sleep实现](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")（[coreutils的一部分](../Page/GNU核心工具组.md "wikilink")）允许用户传递多个参数，因此**`sleep 5h 30m`**（时和分之间的空格是必须的）可以工作在任何使用GNU
-sleep的系统上，包括[GNU](../Page/GNU.md "wikilink")/[Linux](../Page/Linux内核.md "wikilink")。
+[GNU计划的sleep实现](https://zh.wikipedia.org/wiki/GNU计划 "wikilink")（[coreutils的一部分](../Page/GNU核心工具组.md "wikilink")）允许用户传递多个参数，因此**`sleep 5h 30m`**（时和分之间的空格是必须的）可以工作在任何使用GNU sleep的系统上，包括[GNU](../Page/GNU.md "wikilink")/[Linux](../Page/Linux内核.md "wikilink")。
 
 `sleep`的可能用途包括调度任务和延迟执行，或允许一个进程启动，或等待几个用户[wget完一个大文件后释放共享网络连接](https://zh.wikipedia.org/wiki/wget "wikilink")。
 
@@ -54,5 +53,4 @@ sleep的系统上，包括[GNU](../Page/GNU.md "wikilink")/[Linux](../Page/Linux
 ## 外部链接
 
   -
-[Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
-[Category:Unix进程和任务管理相关软件](https://zh.wikipedia.org/wiki/Category:Unix进程和任务管理相关软件 "wikilink")
+[Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink") [Category:Unix进程和任务管理相关软件](https://zh.wikipedia.org/wiki/Category:Unix进程和任务管理相关软件 "wikilink")

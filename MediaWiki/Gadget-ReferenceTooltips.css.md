@@ -1,6 +1,4 @@
-/\* See [mw:Reference
-Tooltips](https://zh.wikipedia.org/wiki/mw:Reference_Tooltips "wikilink")
-\*/
+/\* See [mw:Reference Tooltips](https://zh.wikipedia.org/wiki/mw:Reference_Tooltips "wikilink") \*/
 
 .referencetooltip {
 

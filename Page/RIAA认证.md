@@ -1,5 +1,4 @@
-在[美国](../Page/美国.md "wikilink")，**RIAA认证**/**[美国唱片业协会认证](https://zh.wikipedia.org/wiki/美国唱片业协会 "wikilink")**奖项是基于[专辑和](https://zh.wikipedia.org/wiki/专辑 "wikilink")[单曲](../Page/单曲.md "wikilink")唱片的零售以及其它附属市场的销售量来认证的。\[1\]其他国家也有类似认证奖项（请参见
-[音乐唱片销售认证](../Page/音乐唱片销售认证.md "wikilink")）。
+在[美国](../Page/美国.md "wikilink")，**RIAA认证**/**[美国唱片业协会认证](https://zh.wikipedia.org/wiki/美国唱片业协会 "wikilink")**奖项是基于[专辑和](https://zh.wikipedia.org/wiki/专辑 "wikilink")[单曲](../Page/单曲.md "wikilink")唱片的零售以及其它附属市场的销售量来认证的。\[1\]其他国家也有类似认证奖项（请参见 [音乐唱片销售认证](../Page/音乐唱片销售认证.md "wikilink")）。
 
 ## 到2012年11月，金唱片、白金唱片和多白金唱片专辑最多认证的音乐艺人
 
@@ -274,16 +273,9 @@
   - [RIAA网址](http://www.RIAA.com)
   - [RIAA金唱片和白金唱片数据库的搜索](https://web.archive.org/web/20070626050454/http://www.riaa.com/goldandplatinumdata.php?table=SEARCH)
 
-[Category:美國音樂](https://zh.wikipedia.org/wiki/Category:美國音樂 "wikilink")
-[Category:最高程度](https://zh.wikipedia.org/wiki/Category:最高程度 "wikilink")
-[Category:歌手列表](https://zh.wikipedia.org/wiki/Category:歌手列表 "wikilink")
-[Category:音樂家列表](https://zh.wikipedia.org/wiki/Category:音樂家列表 "wikilink")
-[Category:摇滚乐](https://zh.wikipedia.org/wiki/Category:摇滚乐 "wikilink")
-[Category:Pop音乐](https://zh.wikipedia.org/wiki/Category:Pop音乐 "wikilink")
+[Category:美國音樂](https://zh.wikipedia.org/wiki/Category:美國音樂 "wikilink") [Category:最高程度](https://zh.wikipedia.org/wiki/Category:最高程度 "wikilink") [Category:歌手列表](https://zh.wikipedia.org/wiki/Category:歌手列表 "wikilink") [Category:音樂家列表](https://zh.wikipedia.org/wiki/Category:音樂家列表 "wikilink") [Category:摇滚乐](https://zh.wikipedia.org/wiki/Category:摇滚乐 "wikilink") [Category:Pop音乐](https://zh.wikipedia.org/wiki/Category:Pop音乐 "wikilink")
 
-1.  [RIAA certification
-    criteria](http://www.riaa.com/goldandplatinum.php?content_selector=criteria).
-    Retrieved on September 19, 2006
+1.  [RIAA certification criteria](http://www.riaa.com/goldandplatinum.php?content_selector=criteria). Retrieved on September 19, 2006
 
 2.
 

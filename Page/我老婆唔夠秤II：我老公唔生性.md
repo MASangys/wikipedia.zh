@@ -1,5 +1,4 @@
-2012年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")[喜劇](../Page/喜劇.md "wikilink")，由[鄭伊健](../Page/鄭伊健.md "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")領銜主演，由[阮世生](../Page/阮世生.md "wikilink")執導，由[寰宇娛樂出品](https://zh.wikipedia.org/wiki/寰宇娛樂 "wikilink")。是於2002年上映的《[我老婆唔夠秤](https://zh.wikipedia.org/wiki/:zh-yue:我老婆唔夠秤 "wikilink")》的續作。
-獲選為2012年度【香港電影評論學會】八部推薦電影之一\[1\]。
+2012年上映的[香港電影](https://zh.wikipedia.org/wiki/香港電影 "wikilink")[喜劇](../Page/喜劇.md "wikilink")，由[鄭伊健](../Page/鄭伊健.md "wikilink")、[蔡卓妍](../Page/蔡卓妍.md "wikilink")領銜主演，由[阮世生](../Page/阮世生.md "wikilink")執導，由[寰宇娛樂出品](https://zh.wikipedia.org/wiki/寰宇娛樂 "wikilink")。是於2002年上映的《[我老婆唔夠秤](https://zh.wikipedia.org/wiki/:zh-yue:我老婆唔夠秤 "wikilink")》的續作。 獲選為2012年度【香港電影評論學會】八部推薦電影之一\[1\]。
 
 ## 演員表
 
@@ -182,8 +181,7 @@
 ## 外部連結
 
   -
-  - [我老公唔生性（My Sassy
-    Hubby）](http://thehkneo.com/blog/?p=3490)，（澳大利亚電影評論學會）
+  - [我老公唔生性（My Sassy Hubby）](http://thehkneo.com/blog/?p=3490)，（澳大利亚電影評論學會）
 
 <!-- end list -->
 
@@ -194,14 +192,6 @@
   -
   -
   -
-[Category:太陽娛樂文化電影](https://zh.wikipedia.org/wiki/Category:太陽娛樂文化電影 "wikilink")
-[Category:2010年代爱情片](https://zh.wikipedia.org/wiki/Category:2010年代爱情片 "wikilink")
-[Category:2010年代浪漫喜劇片](https://zh.wikipedia.org/wiki/Category:2010年代浪漫喜劇片 "wikilink")
-[Category:香港续集電影](https://zh.wikipedia.org/wiki/Category:香港续集電影 "wikilink")
-[Category:香港浪漫喜劇片](https://zh.wikipedia.org/wiki/Category:香港浪漫喜劇片 "wikilink")
-[Category:2010年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2010年代香港電影作品 "wikilink")
-[Category:寰宇電影](https://zh.wikipedia.org/wiki/Category:寰宇電影 "wikilink")
-[Category:阮世生电影](https://zh.wikipedia.org/wiki/Category:阮世生电影 "wikilink")
-[Category:阮世生编剧作品](https://zh.wikipedia.org/wiki/Category:阮世生编剧作品 "wikilink")
+[Category:太陽娛樂文化電影](https://zh.wikipedia.org/wiki/Category:太陽娛樂文化電影 "wikilink") [Category:2010年代爱情片](https://zh.wikipedia.org/wiki/Category:2010年代爱情片 "wikilink") [Category:2010年代浪漫喜劇片](https://zh.wikipedia.org/wiki/Category:2010年代浪漫喜劇片 "wikilink") [Category:香港续集電影](https://zh.wikipedia.org/wiki/Category:香港续集電影 "wikilink") [Category:香港浪漫喜劇片](https://zh.wikipedia.org/wiki/Category:香港浪漫喜劇片 "wikilink") [Category:2010年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2010年代香港電影作品 "wikilink") [Category:寰宇電影](https://zh.wikipedia.org/wiki/Category:寰宇電影 "wikilink") [Category:阮世生电影](https://zh.wikipedia.org/wiki/Category:阮世生电影 "wikilink") [Category:阮世生编剧作品](https://zh.wikipedia.org/wiki/Category:阮世生编剧作品 "wikilink")
 
 1.  [第十九屆香港電影評論學會大獎](http://www.filmcritics.org.hk/%E5%AD%B8%E6%9C%83%E5%A4%A7%E7%8D%8E/%E5%BE%97%E7%8D%8E%E5%90%8D%E5%96%AE/%E7%AC%AC%E5%8D%81%E4%B9%9D%E5%B1%86%E9%A6%99%E6%B8%AF%E9%9B%BB%E5%BD%B1%E8%A9%95%E8%AB%96%E5%AD%B8%E6%9C%83%E5%A4%A7%E7%8D%8E)

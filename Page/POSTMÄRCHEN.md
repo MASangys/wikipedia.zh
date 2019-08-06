@@ -2,11 +2,9 @@
 
 ## 概要
 
-POSTMÄRCHEN是为了制作原创的动画作品而于1999年创建的[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[动画](../Page/动画.md "wikilink")系的创作型同人社团。社长是。名称POSTMÄRCHEN的由来是在表示「……以后」的前缀POST后加上[德语](../Page/德语.md "wikilink")里表示「传说」的意思的MÄRCHEN。也被称为「**PMMK**」（「POSTMÄRCHEN
-by MINATO KAWAI」的简称）。主要工作是为动画、游戏提供音乐、设计等，现在也断续持续着活动。\[1\]
+POSTMÄRCHEN是为了制作原创的动画作品而于1999年创建的[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[动画](../Page/动画.md "wikilink")系的创作型同人社团。社长是。名称POSTMÄRCHEN的由来是在表示「……以后」的前缀POST后加上[德语](../Page/德语.md "wikilink")里表示「传说」的意思的MÄRCHEN。也被称为「**PMMK**」（「POSTMÄRCHEN by MINATO KAWAI」的简称）。主要工作是为动画、游戏提供音乐、设计等，现在也断续持续着活动。\[1\]
 
-[网站曾经是](https://zh.wikipedia.org/wiki/网站 "wikilink") http://www.pmmk.jp/
-，关闭之后2010年11月新开设了http://postmarchen.org/ 。
+[网站曾经是](https://zh.wikipedia.org/wiki/网站 "wikilink") http://www.pmmk.jp/ ，关闭之后2010年11月新开设了http://postmarchen.org/ 。
 
 ## 主要成员
 
@@ -26,10 +24,8 @@ by MINATO KAWAI」的简称）。主要工作是为动画、游戏提供音乐�
 
 <!-- end list -->
 
-  - [Little
-    Busters\!](../Page/Little_Busters!.md "wikilink")（音乐，2007年）\[2\]
-  - [Little Busters\!
-    EX](../Page/Little_Busters!.md "wikilink")（音乐，2008年）
+  - [Little Busters\!](../Page/Little_Busters!.md "wikilink")（音乐，2007年）\[2\]
+  - [Little Busters\! EX](../Page/Little_Busters!.md "wikilink")（音乐，2008年）
 
 <!-- end list -->
 
@@ -37,8 +33,7 @@ by MINATO KAWAI」的简称）。主要工作是为动画、游戏提供音乐�
 
 <!-- end list -->
 
-  - [Little
-    Busters\!](../Page/Little_Busters!.md "wikilink")（音乐，2012年）\[3\]
+  - [Little Busters\!](../Page/Little_Busters!.md "wikilink")（音乐，2012年）\[3\]
 
 ## 注释
 
@@ -49,8 +44,7 @@ by MINATO KAWAI」的简称）。主要工作是为动画、游戏提供音乐�
   -
   -
   -
-[Category:游戏音乐作曲家](https://zh.wikipedia.org/wiki/Category:游戏音乐作曲家 "wikilink")
-[Category:同人创作者](https://zh.wikipedia.org/wiki/Category:同人创作者 "wikilink")
+[Category:游戏音乐作曲家](https://zh.wikipedia.org/wiki/Category:游戏音乐作曲家 "wikilink") [Category:同人创作者](https://zh.wikipedia.org/wiki/Category:同人创作者 "wikilink")
 
 1.
 2.

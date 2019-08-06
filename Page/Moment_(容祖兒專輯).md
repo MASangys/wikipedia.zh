@@ -51,8 +51,7 @@
 
   - 7月21日於[廣州白雲國際會議中心舉行的](https://zh.wikipedia.org/wiki/廣州 "wikilink")[騰訊微博QQ音樂MOMENT首唱會](https://zh.wikipedia.org/wiki/騰訊微博 "wikilink")\[3\]
   - 8月24日的台灣河岸留言音樂會，亦為她首場在台灣舉辦的音樂會
-  - 8月30日於香港[兆基創意書院多媒體劇場舉行的容祖兒](https://zh.wikipedia.org/wiki/兆基創意書院 "wikilink")
-    MOOV Live 2012
+  - 8月30日於香港[兆基創意書院多媒體劇場舉行的容祖兒](https://zh.wikipedia.org/wiki/兆基創意書院 "wikilink") MOOV Live 2012
 
 ## 發行版本
 
@@ -175,8 +174,7 @@
 | 14   | 新城國語力頒獎禮2013         | 新城國語力熱播冠軍歌曲大獎《加大力度》 |
 | 15   | 新城國語力全球最受歡迎歌曲 《加大力度》 |                     |
 
-  - 《加大力度》於台灣金曲獎2013獲提名「最佳音樂錄影帶獎」（導演:
-    [比爾賈](https://zh.wikipedia.org/wiki/比爾賈 "wikilink")）\[6\]
+  - 《加大力度》於台灣金曲獎2013獲提名「最佳音樂錄影帶獎」（導演: [比爾賈](https://zh.wikipedia.org/wiki/比爾賈 "wikilink")）\[6\]
 
 ## 參考資料
 
@@ -186,14 +184,9 @@
   - 碟評︰[呢個《Moment》，依然盡力](http://music.douban.com/review/5515472/)
   - 碟評︰[思考這個《Moment》下穿黑絲襪的容祖兒](http://music.douban.com/review/5516025/)
   - 碟評︰[守得云开，等月明](http://music.douban.com/review/5517530/)
-  - 碟評︰[脫胎換骨，修成正果 ～
-    容祖儿《Moment》](http://yuebeifan.wordpress.com/2012/08/13/%E8%84%AB%E8%83%8E%E6%8F%9B%E9%AA%A8%EF%BC%8C%E4%BF%AE%E6%88%90%E6%AD%A3%E6%9E%9C-%EF%BD%9E-%E5%AE%B9%E7%A5%96%E5%84%BF%E3%80%8Amoment%E3%80%8B/)
+  - 碟評︰[脫胎換骨，修成正果 ～ 容祖儿《Moment》](http://yuebeifan.wordpress.com/2012/08/13/%E8%84%AB%E8%83%8E%E6%8F%9B%E9%AA%A8%EF%BC%8C%E4%BF%AE%E6%88%90%E6%AD%A3%E6%9E%9C-%EF%BD%9E-%E5%AE%B9%E7%A5%96%E5%84%BF%E3%80%8Amoment%E3%80%8B/)
 
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:容祖兒音樂專輯](https://zh.wikipedia.org/wiki/Category:容祖兒音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:容祖兒音樂專輯](https://zh.wikipedia.org/wiki/Category:容祖兒音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
 1.
 2.

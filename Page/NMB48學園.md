@@ -25,8 +25,7 @@
 ### 演出者
 
   - [山田菜々](https://zh.wikipedia.org/wiki/山田菜々 "wikilink")([NMB48](../Page/NMB48.md "wikilink"))
-  - [上西恵](https://zh.wikipedia.org/wiki/上西恵 "wikilink")([NMB48](../Page/NMB48.md "wikilink"))
-    2013年10月5日起
+  - [上西恵](https://zh.wikipedia.org/wiki/上西恵 "wikilink")([NMB48](../Page/NMB48.md "wikilink")) 2013年10月5日起
   - [モンスターエンジン](https://zh.wikipedia.org/wiki/モンスターエンジン "wikilink")（西森洋一、大林健二）
 
 ※2012年7月14日，西森缺席。只有三人表演。
@@ -48,12 +47,7 @@
 
 ## 外部連結
 
-  - [NMB48学園](http://abc1008.com/nmb48/)
-    [朝日放送](../Page/朝日放送.md "wikilink")
-  - [ABC発「NMB48学園
-    ～教えて千鳥先生～」に潜入](https://web.archive.org/web/20100531200041/http://www.asahi.com/kansai/news/abc_yu/index.html#nmb48)
-    [朝日新聞](../Page/朝日新聞.md "wikilink")関西版
+  - [NMB48学園](http://abc1008.com/nmb48/) [朝日放送](../Page/朝日放送.md "wikilink")
+  - [ABC発「NMB48学園 ～教えて千鳥先生～」に潜入](https://web.archive.org/web/20100531200041/http://www.asahi.com/kansai/news/abc_yu/index.html#nmb48) [朝日新聞](../Page/朝日新聞.md "wikilink")関西版
 
-[Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
-[Category:AKB48家族題材作品](https://zh.wikipedia.org/wiki/Category:AKB48家族題材作品 "wikilink")
-[Category:學校背景作品](https://zh.wikipedia.org/wiki/Category:學校背景作品 "wikilink")
+[Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink") [Category:AKB48家族題材作品](https://zh.wikipedia.org/wiki/Category:AKB48家族題材作品 "wikilink") [Category:學校背景作品](https://zh.wikipedia.org/wiki/Category:學校背景作品 "wikilink")

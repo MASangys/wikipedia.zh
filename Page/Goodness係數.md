@@ -29,9 +29,7 @@
 
 ## 參考資料
 
-[Category:電動機](https://zh.wikipedia.org/wiki/Category:電動機 "wikilink")
-[Category:无量纲](https://zh.wikipedia.org/wiki/Category:无量纲 "wikilink")
-[Category:磁学](https://zh.wikipedia.org/wiki/Category:磁学 "wikilink")
+[Category:電動機](https://zh.wikipedia.org/wiki/Category:電動機 "wikilink") [Category:无量纲](https://zh.wikipedia.org/wiki/Category:无量纲 "wikilink") [Category:磁学](https://zh.wikipedia.org/wiki/Category:磁学 "wikilink")
 
 1.
 2.

@@ -1,10 +1,6 @@
-**301 Move Permanently**
-是[HTTP协议中的一个状态码](https://zh.wikipedia.org/wiki/HTTP协议 "wikilink")（Status
-Code）。可以简单地理解为该资源已经被永久改变了位置\[1\]，通常会发送[HTTP
-Location来](../Page/HTTP_Location.md "wikilink")[重定向到正确的新位置](https://zh.wikipedia.org/wiki/重定向 "wikilink")。
+**301 Move Permanently** 是[HTTP协议中的一个状态码](https://zh.wikipedia.org/wiki/HTTP协议 "wikilink")（Status Code）。可以简单地理解为该资源已经被永久改变了位置\[1\]，通常会发送[HTTP Location来](../Page/HTTP_Location.md "wikilink")[重定向到正确的新位置](https://zh.wikipedia.org/wiki/重定向 "wikilink")。
 
-返回301状态码进行跳转被[Google](../Page/Google.md "wikilink")认为是将网站地址由 HTTP 迁移到
-[HTTPS](https://zh.wikipedia.org/wiki/HTTPS "wikilink") 的最佳方法。\[2\]
+返回301状态码进行跳转被[Google](../Page/Google.md "wikilink")认为是将网站地址由 HTTP 迁移到 [HTTPS](https://zh.wikipedia.org/wiki/HTTPS "wikilink") 的最佳方法。\[2\]
 
 ## 定义
 
@@ -41,10 +37,7 @@ Cache-control: private; max-age=600
 
 ## 服务器配置
 
-这是一个例子，展示如何使用 [Apache HTTP
-Server的](../Page/Apache_HTTP_Server.md "wikilink")[.htaccess](https://zh.wikipedia.org/wiki/.htaccess "wikilink")
-配置文件将带 www 的 HTTP [URI](https://zh.wikipedia.org/wiki/URI "wikilink")
-全部重定向到不带 www 的 HTTPS URI：
+这是一个例子，展示如何使用 [Apache HTTP Server的](../Page/Apache_HTTP_Server.md "wikilink")[.htaccess](https://zh.wikipedia.org/wiki/.htaccess "wikilink") 配置文件将带 www 的 HTTP [URI](https://zh.wikipedia.org/wiki/URI "wikilink") 全部重定向到不带 www 的 HTTPS URI：
 
     RewriteEngine On
     RewriteCond %{HTTPS} off
@@ -77,8 +70,7 @@ exit();
 
 ## 客户端实现问题
 
-当某些HTTP/1.0客户端收到该状态码时，可能会将POST方法改为GET方法，继续向新地址发出请求，这是错误的实现——故而后续标准引入了[HTTP
-307](../Page/HTTP_307.md "wikilink")。\[8\]
+当某些HTTP/1.0客户端收到该状态码时，可能会将POST方法改为GET方法，继续向新地址发出请求，这是错误的实现——故而后续标准引入了[HTTP 307](../Page/HTTP_307.md "wikilink")。\[8\]
 
 ## 搜索引擎优化
 
@@ -100,13 +92,11 @@ exit();
 
 ## 外部連結
 
-  - [HTTP/1.1 Error codes in
-    RFC 2616](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
+  - [HTTP/1.1 Error codes in RFC 2616](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
   - RFC 1945
   - RFC 2068
 
-[Category:計算機錯誤](https://zh.wikipedia.org/wiki/Category:計算機錯誤 "wikilink")
-[Category:HTTP](https://zh.wikipedia.org/wiki/Category:HTTP "wikilink")
+[Category:計算機錯誤](https://zh.wikipedia.org/wiki/Category:計算機錯誤 "wikilink") [Category:HTTP](https://zh.wikipedia.org/wiki/Category:HTTP "wikilink")
 
 1.
 2.

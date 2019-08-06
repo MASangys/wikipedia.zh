@@ -1,11 +1,8 @@
-『**Sphere LIVE 2010 sphere ON LOVE, ON 日本武道館**』（スフィア LIVE 2010 sphere ON
-LOVE, ON
-日本武道館）是[sphere第](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")2張的Live影像作品。2011年8月31日由[GloryHeaven以](../Page/Lantis.md "wikilink")[BD](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD版發售](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+『**Sphere LIVE 2010 sphere ON LOVE, ON 日本武道館**』（スフィア LIVE 2010 sphere ON LOVE, ON 日本武道館）是[sphere第](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")2張的Live影像作品。2011年8月31日由[GloryHeaven以](../Page/Lantis.md "wikilink")[BD](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD版發售](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 概要
 
-2010年11月23日舉行演唱會『sphere ON LOVE, ON
-日本武道館』的[日本武道館](../Page/日本武道館.md "wikilink")公演模様收錄，[BD](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD版共各成員的獨唱樂曲收錄](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+2010年11月23日舉行演唱會『sphere ON LOVE, ON 日本武道館』的[日本武道館](../Page/日本武道館.md "wikilink")公演模様收錄，[BD](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD版共各成員的獨唱樂曲收錄](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 收錄内容
 
@@ -37,14 +34,10 @@ LOVE, ON
 ## 外部連結
 
   - GloryHeaven介紹網頁
-      - [スフィア LIVE 2010 sphere ON LOVE, ON 日本武道館 LIVE
-        BD](http://gloryheaven.jp/release/data.php?id=b838f0361403583851835f7b87eb14a7)
-      - [スフィア LIVE 2010 sphere ON LOVE, ON 日本武道館 LIVE
-        DVD](http://gloryheaven.jp/release/data.php?id=2fb859b7cd4228a30ff2a501ba78e424)
+      - [スフィア LIVE 2010 sphere ON LOVE, ON 日本武道館 LIVE BD](http://gloryheaven.jp/release/data.php?id=b838f0361403583851835f7b87eb14a7)
+      - [スフィア LIVE 2010 sphere ON LOVE, ON 日本武道館 LIVE DVD](http://gloryheaven.jp/release/data.php?id=2fb859b7cd4228a30ff2a501ba78e424)
   - [Pl@net sphere](http://www.planet-sphere.jp/)（官方網站）
 
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
-[Category:2011年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2011年音樂相關影像作品 "wikilink")
-[Category:Sphere](https://zh.wikipedia.org/wiki/Category:Sphere "wikilink")
+[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink") [Category:2011年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2011年音樂相關影像作品 "wikilink") [Category:Sphere](https://zh.wikipedia.org/wiki/Category:Sphere "wikilink")
 
 1.  第11首曲和第12首曲之間舞台的大屏幕『外伝』映像上映。

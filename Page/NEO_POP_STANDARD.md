@@ -1,6 +1,4 @@
-《**NEO POP
-STANDARD**》是日本男子音乐组合[橘子新乐园](../Page/橘子新乐园.md "wikilink")的第八张录音室专辑，2012年4月18日由SPICE
-MUSIC/SPEEDSTAR RECORDS发行。\[1\] \[2\]
+《**NEO POP STANDARD**》是日本男子音乐组合[橘子新乐园](../Page/橘子新乐园.md "wikilink")的第八张录音室专辑，2012年4月18日由SPICE MUSIC/SPEEDSTAR RECORDS发行。\[1\] \[2\]
 
 ## 曲目
 
@@ -33,9 +31,7 @@ MUSIC/SPEEDSTAR RECORDS发行。\[1\] \[2\]
 
 ## 参考文献
 
-[Category:橘子新樂園音樂專輯](https://zh.wikipedia.org/wiki/Category:橘子新樂園音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:勝利娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:勝利娛樂音樂專輯 "wikilink")
+[Category:橘子新樂園音樂專輯](https://zh.wikipedia.org/wiki/Category:橘子新樂園音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:勝利娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:勝利娛樂音樂專輯 "wikilink")
 
 1.
 2.

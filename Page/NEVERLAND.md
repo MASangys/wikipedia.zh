@@ -1,5 +1,4 @@
-《**NEVERLAND**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第2枚正規韓語專輯。於2011年9月1日發行。唱片公司為[NH
-Media](../Page/NH_Media.md "wikilink")。
+《**NEVERLAND**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第2枚正規韓語專輯。於2011年9月1日發行。唱片公司為[NH Media](../Page/NH_Media.md "wikilink")。
 
 ## 概要
 
@@ -19,13 +18,11 @@ Media](../Page/NH_Media.md "wikilink")。
 5.  **Take Me Away**
 6.  **ON THE Floor**
 7.  **朋友的愛**（친구의 사랑）
-8.  **四月的故事**（Feat. Eun Young for [Brave
-    Girls](../Page/Brave_Girls.md "wikilink")）（4월 이야기）
+8.  **四月的故事**（Feat. Eun Young for [Brave Girls](../Page/Brave_Girls.md "wikilink")）（4월 이야기）
 9.  **Obsession**
 10. **TOP THAT**
 11. **Tell Me Y**
 12. **再次相見**（U-KISS with PARAN）（다시 만나요）
 13. SOMEDAY (Instrumental)
 
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:U-KISS音樂專輯](https://zh.wikipedia.org/wiki/Category:U-KISS音樂專輯 "wikilink")
+[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:U-KISS音樂專輯](https://zh.wikipedia.org/wiki/Category:U-KISS音樂專輯 "wikilink")

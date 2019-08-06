@@ -2,8 +2,7 @@
 
 ## 历史
 
-TOPMAN創立於1978年，開創之初邀请了足球明星作代言人，。2009年4月在紐約曼哈頓中心百老匯新開的TOPMAN/Topshop店有4層樓，面積有2300多平米，Kate
-Moss Anna和Wintour等時尚界名流悉數到場。
+TOPMAN創立於1978年，開創之初邀请了足球明星作代言人，。2009年4月在紐約曼哈頓中心百老匯新開的TOPMAN/Topshop店有4層樓，面積有2300多平米，Kate Moss Anna和Wintour等時尚界名流悉數到場。
 
 ## 分店
 
@@ -14,9 +13,6 @@ Moss Anna和Wintour等時尚界名流悉數到場。
 ## 外部連結
 
   - [TOPMAN官網](http://www.topman.com/)
-  - [TOPMAN
-    分店據點](https://web.archive.org/web/20130920054246/http://www.arcadiagroup.co.uk/about-us/international/international-stores-1/)
+  - [TOPMAN 分店據點](https://web.archive.org/web/20130920054246/http://www.arcadiagroup.co.uk/about-us/international/international-stores-1/)
 
-[Category:英國服裝公司](https://zh.wikipedia.org/wiki/Category:英國服裝公司 "wikilink")
-[Category:服裝品牌](https://zh.wikipedia.org/wiki/Category:服裝品牌 "wikilink")
-[Category:1978年成立的公司](https://zh.wikipedia.org/wiki/Category:1978年成立的公司 "wikilink")
+[Category:英國服裝公司](https://zh.wikipedia.org/wiki/Category:英國服裝公司 "wikilink") [Category:服裝品牌](https://zh.wikipedia.org/wiki/Category:服裝品牌 "wikilink") [Category:1978年成立的公司](https://zh.wikipedia.org/wiki/Category:1978年成立的公司 "wikilink")

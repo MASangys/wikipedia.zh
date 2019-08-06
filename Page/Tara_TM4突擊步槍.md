@@ -1,5 +1,4 @@
-**TM-4**是由[蒙特內哥羅](../Page/蒙特內哥羅.md "wikilink")[塔拉完善公司](https://zh.wikipedia.org/wiki/塔拉完善公司 "wikilink")（Tara
-Perfection）以[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")作基礎研製的[AR-15樣式](https://zh.wikipedia.org/wiki/AR-15 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。
+**TM-4**是由[蒙特內哥羅](../Page/蒙特內哥羅.md "wikilink")[塔拉完善公司](https://zh.wikipedia.org/wiki/塔拉完善公司 "wikilink")（Tara Perfection）以[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")作基礎研製的[AR-15樣式](https://zh.wikipedia.org/wiki/AR-15 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。
 
 ## 概述
 
@@ -28,9 +27,6 @@ TM-4是為適應21世紀的各種戰場而被研製出來的突擊步槍，其�
 
   - [塔拉完善公司官網介紹TM-4的頁面](http://tara-perfection.com/tm-4/)
 
-[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink")
-[Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink")
-[Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink")
-[Category:黑山槍械](https://zh.wikipedia.org/wiki/Category:黑山槍械 "wikilink")
+[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:黑山槍械](https://zh.wikipedia.org/wiki/Category:黑山槍械 "wikilink")
 
 1.  <http://forum.cafemontenegro.com/showthread.php?17641-Crnogorska-vojska/page3>

@@ -1,6 +1,4 @@
-**SIG
-P228**是一款由[西格-紹爾所研製及生產的緊湊型軍用型](../Page/西格&紹爾.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，是[SIG
-P226手槍的緊湊型版本](../Page/SIG_P226手槍.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**SIG P228**是一款由[西格-紹爾所研製及生產的緊湊型軍用型](../Page/西格&紹爾.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，是[SIG P226手槍的緊湊型版本](../Page/SIG_P226手槍.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 概述
 
@@ -8,12 +6,9 @@ P226手槍的緊湊型版本](../Page/SIG_P226手槍.md "wikilink")，發射[9×
 
 從遠處看，P228與P226可以通過比較[扳機護環](https://zh.wikipedia.org/wiki/扳機護圈 "wikilink")（P228的是圓滑過渡的，而P226的前有小型防滑凹陷和掛鉤）以及槍管和[套筒的長度](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")（P228的槍管是99毫米（3.9英寸），因此具有一個相應較短的套筒）來區分。P228與P226並排比較也可看出P228比P226略短（縮短15毫米（0.59英寸））。雖然更大容量的P226彈匣也可以給P228使用，但是這會因超出原來握把的部分而破壞手槍的隱蔽性。
 
-民用型銷售的P228已經隨著同時地有[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[P229的推出而停產P](../Page/SIG_P229手槍.md "wikilink")229與P228幾乎是相同的，不過它的[套筒是以](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")所製造（而P228的是鍛造[碳鋼](../Page/碳鋼.md "wikilink")套筒），而且可以發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[.40
-S\&W和](../Page/.40_S&W.md "wikilink")[.357
-SIG三種](../Page/.357_SIG.md "wikilink")[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")[子彈](../Page/子彈.md "wikilink")。
+民用型銷售的P228已經隨著同時地有[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[P229的推出而停產P](../Page/SIG_P229手槍.md "wikilink")229與P228幾乎是相同的，不過它的[套筒是以](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")所製造（而P228的是鍛造[碳鋼](../Page/碳鋼.md "wikilink")套筒），而且可以發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[.40 S\&W和](../Page/.40_S&W.md "wikilink")[.357 SIG三種](../Page/.357_SIG.md "wikilink")[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
-在2012年夏季，[SIG
-Sauer宣布他們推出M](https://zh.wikipedia.org/wiki/SIG_Sauer "wikilink")11A1，這在本質上是裝上了快速復位扳機（，簡稱：SRT）、SIGLITE[氚](../Page/氚.md "wikilink")光夜間瞄準具、MecGar15發彈匣，以及軍用風格的智能標記和序列號的P228。後來在2012年，P228的空軍M11B版本被推出作民間銷售。據傳聞，有50把M11B民用型推出了市場。
+在2012年夏季，[SIG Sauer宣布他們推出M](https://zh.wikipedia.org/wiki/SIG_Sauer "wikilink")11A1，這在本質上是裝上了快速復位扳機（，簡稱：SRT）、SIGLITE[氚](../Page/氚.md "wikilink")光夜間瞄準具、MecGar15發彈匣，以及軍用風格的智能標記和序列號的P228。後來在2012年，P228的空軍M11B版本被推出作民間銷售。據傳聞，有50把M11B民用型推出了市場。
 
 M11將會被陸軍和空軍通過[模組化手槍系統](https://zh.wikipedia.org/wiki/模組化手槍系統 "wikilink")（，簡稱：MHS）計劃取代。\[1\]
 
@@ -25,15 +20,11 @@ P228與SIG經典手槍系列的其他成員一樣，採用了由[約翰·白朗�
 
 P228的所有型號的[底把是由硬質](../Page/机匣.md "wikilink")[氧化](https://zh.wikipedia.org/wiki/氧化 "wikilink")[鋁合金](../Page/鋁合金.md "wikilink")所製造。
 
-標準型SIG
-P228在槍身的左側和[彈匣](../Page/彈匣.md "wikilink")釋放按鈕的上方具有[待擊解脫桿](https://zh.wikipedia.org/wiki/待擊解脫桿 "wikilink")（），其首次出現在[第二次世界大战](../Page/第二次世界大战.md "wikilink")時期的[绍尔38H上](https://zh.wikipedia.org/wiki/绍尔38H手槍 "wikilink")，它可以降低以鎖上全槍。在[膛室](../Page/膛室.md "wikilink")裝彈或是發射子彈時，[套筒會使擊錘自動地向後方拉下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。由於使用了待擊解脫桿，擊錘可以在不使用[撞針保險以下向後方拉下](https://zh.wikipedia.org/wiki/撞針保險 "wikilink")，這使得武器在已經使用待擊解脫桿以下不大可能出現[走火](https://zh.wikipedia.org/wiki/走火 "wikilink")。此外，使用了待擊解脫桿並使武器很像裝上了“[防跌落保險](https://zh.wikipedia.org/wiki/防跌落保險 "wikilink")”（）。這就意味著，除非扣動扳機，否則[撞針](../Page/撞針.md "wikilink")將不能撞上上膛的[子彈](../Page/子彈.md "wikilink")[底火](https://zh.wikipedia.org/wiki/底火 "wikilink")。扣動扳機並慢慢地降低擊錘不會使武器具有“[防跌落保險](https://zh.wikipedia.org/wiki/防跌落保險 "wikilink")”，這是因為有相當的力道施加到擊錘的話就會導致可以在一個偶然的排放。只要手槍可以按正確方式待擊解脫，可以安全地收藏於槍套內，亦可以在雙動操作模式以下只需扣動扳機就可以發射。SIG
-P226並沒有[手動保險裝置](https://zh.wikipedia.org/wiki/手動保險裝置 "wikilink")。[雙動操作扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")[扣力大約是](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")44[牛頓](../Page/牛頓_\(單位\).md "wikilink")（10[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")）。在隨後的射擊模式就會改為[單動操作扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")，這時扳機扣力會減輕至約20牛頓（4.5磅力）。與其他單／雙動操作扳機（SA／DA）手槍，例如[HK
-USP和](../Page/HK_USP手槍.md "wikilink")[貝瑞塔92F等一樣](../Page/貝瑞塔92手槍.md "wikilink")，都需要一些時間進行訓練以盡量減少首發時的雙動操作模式射擊和以後的單動操作模式射擊之間的不同扳機扣力造成的差異感。事實上，其擊錘也可以在任何時間以下由使用者以手動方式拉下，然後就會在單動操作模式以下射擊。
+標準型SIG P228在槍身的左側和[彈匣](../Page/彈匣.md "wikilink")釋放按鈕的上方具有[待擊解脫桿](https://zh.wikipedia.org/wiki/待擊解脫桿 "wikilink")（），其首次出現在[第二次世界大战](../Page/第二次世界大战.md "wikilink")時期的[绍尔38H上](https://zh.wikipedia.org/wiki/绍尔38H手槍 "wikilink")，它可以降低以鎖上全槍。在[膛室](../Page/膛室.md "wikilink")裝彈或是發射子彈時，[套筒會使擊錘自動地向後方拉下](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。由於使用了待擊解脫桿，擊錘可以在不使用[撞針保險以下向後方拉下](https://zh.wikipedia.org/wiki/撞針保險 "wikilink")，這使得武器在已經使用待擊解脫桿以下不大可能出現[走火](https://zh.wikipedia.org/wiki/走火 "wikilink")。此外，使用了待擊解脫桿並使武器很像裝上了“[防跌落保險](https://zh.wikipedia.org/wiki/防跌落保險 "wikilink")”（）。這就意味著，除非扣動扳機，否則[撞針](../Page/撞針.md "wikilink")將不能撞上上膛的[子彈](../Page/子彈.md "wikilink")[底火](https://zh.wikipedia.org/wiki/底火 "wikilink")。扣動扳機並慢慢地降低擊錘不會使武器具有“[防跌落保險](https://zh.wikipedia.org/wiki/防跌落保險 "wikilink")”，這是因為有相當的力道施加到擊錘的話就會導致可以在一個偶然的排放。只要手槍可以按正確方式待擊解脫，可以安全地收藏於槍套內，亦可以在雙動操作模式以下只需扣動扳機就可以發射。SIG P226並沒有[手動保險裝置](https://zh.wikipedia.org/wiki/手動保險裝置 "wikilink")。[雙動操作扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")[扣力大約是](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")44[牛頓](../Page/牛頓_\(單位\).md "wikilink")（10[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")）。在隨後的射擊模式就會改為[單動操作扳機](https://zh.wikipedia.org/wiki/扳機 "wikilink")，這時扳機扣力會減輕至約20牛頓（4.5磅力）。與其他單／雙動操作扳機（SA／DA）手槍，例如[HK USP和](../Page/HK_USP手槍.md "wikilink")[貝瑞塔92F等一樣](../Page/貝瑞塔92手槍.md "wikilink")，都需要一些時間進行訓練以盡量減少首發時的雙動操作模式射擊和以後的單動操作模式射擊之間的不同扳機扣力造成的差異感。事實上，其擊錘也可以在任何時間以下由使用者以手動方式拉下，然後就會在單動操作模式以下射擊。
 
 ## 生產
 
-SIG槍械同時在[德国](../Page/德国.md "wikilink")[埃肯弗特的JP](https://zh.wikipedia.org/wiki/埃肯弗特 "wikilink")[西格-紹爾父子公司和](../Page/西格&紹爾.md "wikilink")[美国](../Page/美国.md "wikilink")[新罕布什尔州](../Page/新罕布什尔州.md "wikilink")[埃克塞特城的](../Page/埃克塞特_\(新罕布什尔州\).md "wikilink")[Swiss
-Arms公司](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")（前稱[SIGARMS公司](https://zh.wikipedia.org/wiki/SIGARMS "wikilink")）兩地生產。
+SIG槍械同時在[德国](../Page/德国.md "wikilink")[埃肯弗特的JP](https://zh.wikipedia.org/wiki/埃肯弗特 "wikilink")[西格-紹爾父子公司和](../Page/西格&紹爾.md "wikilink")[美国](../Page/美国.md "wikilink")[新罕布什尔州](../Page/新罕布什尔州.md "wikilink")[埃克塞特城的](../Page/埃克塞特_\(新罕布什尔州\).md "wikilink")[Swiss Arms公司](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")（前稱[SIGARMS公司](https://zh.wikipedia.org/wiki/SIGARMS "wikilink")）兩地生產。
 
 ## 衍生型
 
@@ -47,9 +38,7 @@ P228R的導軌與[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikil
 
 ### M11-A1
 
-2012年，[SIG
-Sauer在夏季宣布](https://zh.wikipedia.org/wiki/SIG_Sauer "wikilink")，他們推出M11-A1，這在本質上是P228的[不鏽鋼](../Page/不鏽鋼.md "wikilink")[套筒和](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[鋁合金](../Page/鋁合金.md "wikilink")[底把版本](../Page/机匣.md "wikilink")，具有最新型短行程復位扳機（，簡稱：SRT），SIG精簡版[氚](../Page/氚.md "wikilink")光夜間瞄具，MecGar
-15發彈匣，和一個軍用風格的智能標籤和序列號。
+2012年，[SIG Sauer在夏季宣布](https://zh.wikipedia.org/wiki/SIG_Sauer "wikilink")，他們推出M11-A1，這在本質上是P228的[不鏽鋼](../Page/不鏽鋼.md "wikilink")[套筒和](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[鋁合金](../Page/鋁合金.md "wikilink")[底把版本](../Page/机匣.md "wikilink")，具有最新型短行程復位扳機（，簡稱：SRT），SIG精簡版[氚](../Page/氚.md "wikilink")光夜間瞄具，MecGar 15發彈匣，和一個軍用風格的智能標籤和序列號。
 
 ## 使用國
 
@@ -385,85 +374,55 @@ Sauer在夏季宣布](https://zh.wikipedia.org/wiki/SIG_Sauer "wikilink")，他�
 
 ## 外部連結
 
-  - —[GAO report, Pistol Procurement, Allegations on Army Selection of
-    Beretta 9mm. as DOD Standard Sidearm,
-    June 1986.](http://archive.gao.gov/d4t4/130439.pdf)
+  - —[GAO report, Pistol Procurement, Allegations on Army Selection of Beretta 9mm. as DOD Standard Sidearm, June 1986.](http://archive.gao.gov/d4t4/130439.pdf)
 
-  - —[Official
-    page](https://web.archive.org/web/20071112135728/http://www.sigsauer.com/Products/ShowCatalogProduct.aspx?categoryid=7)
+  - —[Official page](https://web.archive.org/web/20071112135728/http://www.sigsauer.com/Products/ShowCatalogProduct.aspx?categoryid=7)
 
-  - —[P226 operator's
-    manual](https://web.archive.org/web/20091122204105/http://www.sauer-waffen.de/uploads/media/P226_01gb_08.pdf)
+  - —[P226 operator's manual](https://web.archive.org/web/20091122204105/http://www.sauer-waffen.de/uploads/media/P226_01gb_08.pdf)
 
-  - —[Modern firearms—SIG-Sauer P228 and P229
-    pistols](http://world.guns.ru/handguns/hg/switch/sig-sauer-p228-and-p229-e.html)
+  - —[Modern firearms—SIG-Sauer P228 and P229 pistols](http://world.guns.ru/handguns/hg/switch/sig-sauer-p228-and-p229-e.html)
 
-  - —[Weapon.ge—SIG-Sauer
-    P228](http://georgians.weapon.ge/index.php?sel=1&id=84&man=30&coun=&cat=&l=en)
+  - —[Weapon.ge—SIG-Sauer P228](http://georgians.weapon.ge/index.php?sel=1&id=84&man=30&coun=&cat=&l=en)
 
-  - —[The Firearm Blog.com—Sig Sauer Announces New M11
-    A-1](http://www.thefirearmblog.com/blog/2012/09/14/sig-sauer-announces-new-m11-a-1/)
+  - —[The Firearm Blog.com—Sig Sauer Announces New M11 A-1](http://www.thefirearmblog.com/blog/2012/09/14/sig-sauer-announces-new-m11-a-1/)
 
   - —The Truth About Guns.com—
 
-      - [Obscure Object of Desire: SIG SAUER M11-B
-        Pistol](http://www.thetruthaboutguns.com/2013/08/jim-barrett/obscure-object-of-desire-sig-sauer-m11-b-pistol/)
-      - [Which Gun Would You Grab: HK P30 V3 9mm or SIG P228
-        M11-A1](http://www.thetruthaboutguns.com/2013/11/robert-farago/gun-grab-hk-p30-v3-9mm-sig-p228-m11-a1/)
-      - [Everyday Carry Pocket Dump of the Day:
-        Annon](http://www.thetruthaboutguns.com/2016/04/daniel-zimmerman/everyday-carry-pocket-dump-day-annon/)
-      - [Showdown: SIG P229 Legion vs. SIG
-        M11-A1](http://www.thetruthaboutguns.com/2016/09/daniel-zimmerman/showdown-sig-p229-legion-vs-sig-m11-a1/)
+      - [Obscure Object of Desire: SIG SAUER M11-B Pistol](http://www.thetruthaboutguns.com/2013/08/jim-barrett/obscure-object-of-desire-sig-sauer-m11-b-pistol/)
+      - [Which Gun Would You Grab: HK P30 V3 9mm or SIG P228 M11-A1](http://www.thetruthaboutguns.com/2013/11/robert-farago/gun-grab-hk-p30-v3-9mm-sig-p228-m11-a1/)
+      - [Everyday Carry Pocket Dump of the Day: Annon](http://www.thetruthaboutguns.com/2016/04/daniel-zimmerman/everyday-carry-pocket-dump-day-annon/)
+      - [Showdown: SIG P229 Legion vs. SIG M11-A1](http://www.thetruthaboutguns.com/2016/09/daniel-zimmerman/showdown-sig-p229-legion-vs-sig-m11-a1/)
 
-  - —[Guns & Ammo.com—Honorable Service: SIG Sauer M11-A1
-    Review](http://www.gunsandammo.com/?p=39896)
+  - —[Guns & Ammo.com—Honorable Service: SIG Sauer M11-A1 Review](http://www.gunsandammo.com/?p=39896)
 
-  - —[Gunblast.com—Sig Sauer MK25 & M11 9mm Semi-Automatic Service
-    Pistols](http://www.gunblast.com/Sig-MK25-M11A1.htm)
+  - —[Gunblast.com—Sig Sauer MK25 & M11 9mm Semi-Automatic Service Pistols](http://www.gunblast.com/Sig-MK25-M11A1.htm)
 
-  - —[Military, Security and Civilian Guns and Equipment—SIG-Sauer P228
-    (M11)](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=576)
+  - —[Military, Security and Civilian Guns and Equipment—SIG-Sauer P228 (M11)](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=576)
 
   - —Tactical-Life.com—
 
-      - [Top 10 Guns Of Combat Handguns
-        For 2013](http://www.tactical-life.com/combat-handguns/top-10-guns-of-combat-handguns-for-2013/2/)
-      - [Sig Sauer Desert Models – MK25 & M11-A1
-        Pistols](http://www.tactical-life.com/firearms/sig-sauer-desert-models-mk25-m11-a1-pistols/)
-      - [Top 8 Pistols of SPECIAL WEAPONS FOR MILITARY & POLICE
-        in 2014](http://www.tactical-life.com/firearms/top-swmp-pistols-of-2014/4/)
-      - [Gun Review: Sig Sauer’s M11-A1 9mm
-        Handgun](http://www.tactical-life.com/firearms/sig-sauer-m11-a1-9mm-handgun/#twas15-m11-a1-lead)
-      - [5 Buzzworthy Handguns Taking 2015 by
-        Storm](http://www.tactical-life.com/firearms/5-notable-handguns-2015-storm/#twas15-m11-a1-lead)
+      - [Top 10 Guns Of Combat Handguns For 2013](http://www.tactical-life.com/combat-handguns/top-10-guns-of-combat-handguns-for-2013/2/)
+      - [Sig Sauer Desert Models – MK25 & M11-A1 Pistols](http://www.tactical-life.com/firearms/sig-sauer-desert-models-mk25-m11-a1-pistols/)
+      - [Top 8 Pistols of SPECIAL WEAPONS FOR MILITARY & POLICE in 2014](http://www.tactical-life.com/firearms/top-swmp-pistols-of-2014/4/)
+      - [Gun Review: Sig Sauer’s M11-A1 9mm Handgun](http://www.tactical-life.com/firearms/sig-sauer-m11-a1-9mm-handgun/#twas15-m11-a1-lead)
+      - [5 Buzzworthy Handguns Taking 2015 by Storm](http://www.tactical-life.com/firearms/5-notable-handguns-2015-storm/#twas15-m11-a1-lead)
 
   - —Personal Defense World.com—
 
-      - [Sig Sauer M11 –
-        A1](http://www.personaldefenseworld.com/2013/06/sig-sauer-m11-a1/)
-      - [SNEAK PEEK: SIG SAUER
-        M11-A1 9mm](http://www.personaldefenseworld.com/2013/06/sneak-peek-sig-sauer-m11-a1-9mm/)
+      - [Sig Sauer M11 – A1](http://www.personaldefenseworld.com/2013/06/sig-sauer-m11-a1/)
+      - [SNEAK PEEK: SIG SAUER M11-A1 9mm](http://www.personaldefenseworld.com/2013/06/sneak-peek-sig-sauer-m11-a1-9mm/)
 
-  - —[Энциклопедия Вооружений－Зиг - Зауер П225, П226, П228, П229 (SIG -
-    Sauer P225, P226, P228,
-    P229)](http://gunsite.narod.ru/sigsauer_p225.htm)
+  - —[Энциклопедия Вооружений－Зиг - Зауер П225, П226, П228, П229 (SIG - Sauer P225, P226, P228, P229)](http://gunsite.narod.ru/sigsauer_p225.htm)
 
-  - —[D Boy Gun World（槍炮世界）—SIG Sauer
-    P228](http://firearmsworld.net/sigsauer/p228/P228.htm)
+  - —[D Boy Gun World（槍炮世界）—SIG Sauer P228](http://firearmsworld.net/sigsauer/p228/P228.htm)
 
   - —[Civilian Gunner—SIG SAUER P228](http://www.wargamehk.com/P228.htm)
 
-[en:SIG Sauer P226\#P228
-(M11)](https://zh.wikipedia.org/wiki/en:SIG_Sauer_P226#P228_\(M11\) "wikilink")
+[en:SIG Sauer P226\#P228 (M11)](https://zh.wikipedia.org/wiki/en:SIG_Sauer_P226#P228_\(M11\) "wikilink")
 
-[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink")
-[Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink")
-[Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink")
-[Category:瑞士槍械](https://zh.wikipedia.org/wiki/Category:瑞士槍械 "wikilink")
+[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink") [Category:瑞士槍械](https://zh.wikipedia.org/wiki/Category:瑞士槍械 "wikilink")
 
-1.  [Testing of M9 replacement to start next
-    year](http://www.armytimes.com/article/20130723/NEWS04/307230008/Testing-M9-replacement-start-next-year)
-    - Armytimes.com, 23 July 2013
+1.  [Testing of M9 replacement to start next year](http://www.armytimes.com/article/20130723/NEWS04/307230008/Testing-M9-replacement-start-next-year) - Armytimes.com, 23 July 2013
 
 2.
 
@@ -495,8 +454,7 @@ Sauer在夏季宣布](https://zh.wikipedia.org/wiki/SIG_Sauer "wikilink")，他�
 
 17.
 18.
-19. Miller、David (2001). *The Illustrated Directory of 20th Century
-    Guns*. Salamander Books Ltd. ISBN 1-84065-245-4.
+19. Miller、David (2001). *The Illustrated Directory of 20th Century Guns*. Salamander Books Ltd. ISBN 1-84065-245-4.
 
 20.
 

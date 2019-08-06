@@ -24,14 +24,11 @@
   - 2009年8月28日 -
   - 2009年12月25日 -
   - 2010年4月23日 -
-  - 2011年2月25日 -
-    [グリザイアの果実](https://zh.wikipedia.org/wiki/グリザイアの果実 "wikilink")
+  - 2011年2月25日 - [グリザイアの果実](https://zh.wikipedia.org/wiki/グリザイアの果実 "wikilink")
   - 2011年7月29日 -
-  - 2012年2月24日 -
-    [グリザイアの迷宮](https://zh.wikipedia.org/wiki/グリザイアの迷宮 "wikilink")
+  - 2012年2月24日 - [グリザイアの迷宮](https://zh.wikipedia.org/wiki/グリザイアの迷宮 "wikilink")
   - 2012年9月28日 - [ピュアガール](../Page/Pure_Girl.md "wikilink")
-  - 2013年5月24日 -
-    [グリザイアの楽園](https://zh.wikipedia.org/wiki/グリザイアの楽園 "wikilink")
+  - 2013年5月24日 - [グリザイアの楽園](https://zh.wikipedia.org/wiki/グリザイアの楽園 "wikilink")
   - 2014年2月28日 - [イノセントガール](../Page/Innocent_Girl.md "wikilink")
   - 2014年8月15日 -
   - 2014年12月26日 -
@@ -39,14 +36,10 @@
   - 2015年11月27日 -
   - 2016年4月28日 - [ISLAND](../Page/ISLAND_\(遊戲\).md "wikilink")
   - 2016年6月23日 - [Purino Party](../Page/Purino_Party.md "wikilink")
-  - 2016年8月26日 -[Corona Blossom Vol.1 Gift From the
-    Galaxy](../Page/Corona_Blossom.md "wikilink")
-  - 2016年11月25日 - [Corona Blossom Vol.2 The Truth From
-    Beyond](../Page/Corona_Blossom.md "wikilink")
-  - 2017年1月26日 - [Corona Blossom Vol.3 Journey to the
-    Stars](../Page/Corona_Blossom.md "wikilink")
-  - 2017年4月28日 - [グリザイア
-    ファントムトリガー](https://zh.wikipedia.org/wiki/灰色：Phantom_Trigger "wikilink")
+  - 2016年8月26日 -[Corona Blossom Vol.1 Gift From the Galaxy](../Page/Corona_Blossom.md "wikilink")
+  - 2016年11月25日 - [Corona Blossom Vol.2 The Truth From Beyond](../Page/Corona_Blossom.md "wikilink")
+  - 2017年1月26日 - [Corona Blossom Vol.3 Journey to the Stars](../Page/Corona_Blossom.md "wikilink")
+  - 2017年4月28日 - [グリザイア ファントムトリガー](https://zh.wikipedia.org/wiki/灰色：Phantom_Trigger "wikilink")
   - 2018年4月27日 - ももいろクローゼット
   - 2018年10月26日 - ろけらぶ 同棲×後輩
   - 2019年8月30日 - ろけらぶ 電車×同級生
@@ -105,6 +98,4 @@
   - [英文版官方網站](http://en.frontwing.jp/)
 
   -
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:1999年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1999年開業電子遊戲公司 "wikilink")
+[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:1999年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1999年開業電子遊戲公司 "wikilink")

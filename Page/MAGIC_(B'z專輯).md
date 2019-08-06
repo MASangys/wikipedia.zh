@@ -1,5 +1,4 @@
-《**MAGIC**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十七张录音室专辑。2009年11月18日由[VERMILLION
-RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
+《**MAGIC**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十七张录音室专辑。2009年11月18日由[VERMILLION RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約48.8萬張。
 
@@ -72,11 +71,7 @@ RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 ## 参考文献
 
-[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink")
-[Category:2009年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:2009年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink") [Category:2009年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯月榜冠軍作品 "wikilink") [Category:2009年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

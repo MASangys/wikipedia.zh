@@ -2,8 +2,7 @@
 
 ## GSM频段
 
-以下14个频段由[3GPP](../Page/3GPP.md "wikilink") TS 45.005（继承于3GPP TS
-05.05）定义。
+以下14个频段由[3GPP](../Page/3GPP.md "wikilink") TS 45.005（继承于3GPP TS 05.05）定义。
 
 | 系统        | 频带   | 上行(MHz)         | 下行 (MHz)        | 信道编号            | 对应UMTS/LTE频段号 |
 | --------- | ---- | --------------- | --------------- | --------------- | ------------- |
@@ -46,13 +45,10 @@ GSM-900和GSM-1800被用于世界上大部分区域：[欧洲](../Page/欧洲.md
 
 :\*[萨尔瓦多](../Page/萨尔瓦多.md "wikilink") – GSM-850，GSM-900和1900
 
-:\*[委内瑞拉](https://zh.wikipedia.org/wiki/委内瑞拉 "wikilink") –
-GSM-850，GSM-900和1900
+:\*[委内瑞拉](https://zh.wikipedia.org/wiki/委内瑞拉 "wikilink") – GSM-850，GSM-900和1900
 
   - GSM-900使用890–915MHz从[裝置向](https://zh.wikipedia.org/wiki/裝置 "wikilink")[基站](../Page/基站.md "wikilink")发送信息（上行），使用935–960MHz接收信息（下行），其提供124个无线频道（频道号1-124），每个频道占用200kHz。[双工间隔是](https://zh.wikipedia.org/wiki/双工间隔 "wikilink")45MHz。100kHz的保护带宽被置于频段的两端。\[2\]
-  - GSM-1800使用1710–1785MHz从移动台向基站发送信息（上行），使用1805–1880MHz接收信息（下行）,
-    其提供374个频道（频道号512-885）。
-    双工间隔是95MHz。GSM-1800在[英国也称为DCS](https://zh.wikipedia.org/wiki/英国 "wikilink")（数字移动电话服务），而在[香港](../Page/香港.md "wikilink")被称为[PCS](https://zh.wikipedia.org/wiki/个人通讯服务 "wikilink")\[3\]——为避免混淆，GSM-1900在世界上其他地区称作PCS。[MCA使用GSM](https://zh.wikipedia.org/wiki/手机与飞航安全 "wikilink")1800。\[4\]
+  - GSM-1800使用1710–1785MHz从移动台向基站发送信息（上行），使用1805–1880MHz接收信息（下行）, 其提供374个频道（频道号512-885）。 双工间隔是95MHz。GSM-1800在[英国也称为DCS](https://zh.wikipedia.org/wiki/英国 "wikilink")（数字移动电话服务），而在[香港](../Page/香港.md "wikilink")被称为[PCS](https://zh.wikipedia.org/wiki/个人通讯服务 "wikilink")\[3\]——为避免混淆，GSM-1900在世界上其他地区称作PCS。[MCA使用GSM](https://zh.wikipedia.org/wiki/手机与飞航安全 "wikilink")1800。\[4\]
 
 ### GSM-850和GSM-1900
 
@@ -68,27 +64,15 @@ GSM-850和GSM-1900用于[阿根廷](../Page/阿根廷.md "wikilink")、[巴西](
 
 ## 外部链接
 
-  - [LDpost.com – History of GSM and
-    More](https://web.archive.org/web/20080517095542/http://www.ldpost.com/telecom-articles/History-of-GSM-and-More.html)
-    GSM history, technology, bands, multi-band phones
-  - [3GPP Specification detail
-    TS 05.05](http://www.3gpp.org/ftp/Specs/html-info/0505.htm)
-    Specification 3GPP TS 05.05 Radio Transmission and Reception
-  - [3GPP Specification detail
-    TS 45.005](http://www.3gpp.org/ftp/Specs/html-info/45005.htm)
-    Specification 3GPP TS 45.005 Radio Transmission and Reception
-  - [3GPP Specifications for group:
-    R4](http://www.3gpp.org/ftp/Specs/html-info/TSG-WG--R4.htm) –
-    Frequencies info for UMTS (TS 25.101/102/104/105)
+  - [LDpost.com – History of GSM and More](https://web.archive.org/web/20080517095542/http://www.ldpost.com/telecom-articles/History-of-GSM-and-More.html) GSM history, technology, bands, multi-band phones
+  - [3GPP Specification detail TS 05.05](http://www.3gpp.org/ftp/Specs/html-info/0505.htm) Specification 3GPP TS 05.05 Radio Transmission and Reception
+  - [3GPP Specification detail TS 45.005](http://www.3gpp.org/ftp/Specs/html-info/45005.htm) Specification 3GPP TS 45.005 Radio Transmission and Reception
+  - [3GPP Specifications for group: R4](http://www.3gpp.org/ftp/Specs/html-info/TSG-WG--R4.htm) – Frequencies info for UMTS (TS 25.101/102/104/105)
 
 [Category:GSM標準](https://zh.wikipedia.org/wiki/Category:GSM標準 "wikilink")
 
 1.  3GPP TS 05.05 version 8.20.0 Release 1999 Pages 9 and 10
-2.  Rappaport, Theodore S., Wireless Communications: Principles and
-    Practices, 2nd Ed. Upper Saddle River, NJ: Prentice Hall, 2002. p.
-    554.
-3.  [OFTA of HK, Office of the Telecommunications
-    Authority](http://www.ofta.gov.hk/en/ad-comm/tsac/tsacpaper.html)
+2.  Rappaport, Theodore S., Wireless Communications: Principles and Practices, 2nd Ed. Upper Saddle River, NJ: Prentice Hall, 2002. p. 554.
+3.  [OFTA of HK, Office of the Telecommunications Authority](http://www.ofta.gov.hk/en/ad-comm/tsac/tsacpaper.html)
 4.  <http://europa.eu/rapid/pressReleasesAction.do?reference=MEMO/08/220&format=HTML&aged=1&language=EN&guiLanguage=en>
-5.  [Ericsson, Nokia Eye 450 MHz GSM
-    technology](http://www.cdrinfo.com/Sections/News/Print.aspx?NewsId=15254)
+5.  [Ericsson, Nokia Eye 450 MHz GSM technology](http://www.cdrinfo.com/Sections/News/Print.aspx?NewsId=15254)

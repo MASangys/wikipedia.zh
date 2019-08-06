@@ -218,8 +218,7 @@
   - 音響監督：土屋雅紀
   - 攝影監督：三口達也
   - 編集：平木大輔
-  - 音響制作：[DAX International
-    Inc.](https://zh.wikipedia.org/wiki/DAX_International_Inc. "wikilink")
+  - 音響制作：[DAX International Inc.](https://zh.wikipedia.org/wiki/DAX_International_Inc. "wikilink")
   - 總製作人：[森實陽三](https://zh.wikipedia.org/wiki/森實陽三 "wikilink")
   - 製作人：植野浩之、渡部智明、田村學、伊藤隼之介
   - 動畫製作人：鎌田肇
@@ -518,8 +517,7 @@ KIM SHINYEONG</p></td>
 
 ## 漫畫
 
-由小說改編的漫畫於《[月刊Sunday
-Gene-X](../Page/月刊Sunday_Gene-X.md "wikilink")》（小學館）2013年1月號開始連載。作畫畫家與小說插畫同為あるや。
+由小說改編的漫畫於《[月刊Sunday Gene-X](../Page/月刊Sunday_Gene-X.md "wikilink")》（小學館）2013年1月號開始連載。作畫畫家與小說插畫同為あるや。
 
 ## 參考資料
 
@@ -528,17 +526,10 @@ Gene-X](../Page/月刊Sunday_Gene-X.md "wikilink")》（小學館）2013年1月�
   - [GJ部｜日本電視台](http://www.ntv.co.jp/gj/)
 
   -
-[Category:2010年小说](https://zh.wikipedia.org/wiki/Category:2010年小说 "wikilink")
-[Category:Gagaga文庫](https://zh.wikipedia.org/wiki/Category:Gagaga文庫 "wikilink")
-[Category:2013年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2013年日本電視動畫 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:2010年小说](https://zh.wikipedia.org/wiki/Category:2010年小说 "wikilink") [Category:Gagaga文庫](https://zh.wikipedia.org/wiki/Category:Gagaga文庫 "wikilink") [Category:2013年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2013年日本電視動畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 2.
 3.
-4.  [前半部分「GJ部NYへ行く」](https://twitter.com/gj_anime/statuses/463369900270952448)公式twitter
-    2014年5月5日
+4.  [前半部分「GJ部NYへ行く」](https://twitter.com/gj_anime/statuses/463369900270952448)公式twitter 2014年5月5日
 5.  [公式Twitterより](https://twitter.com/gj_anime/status/288837121349931008)

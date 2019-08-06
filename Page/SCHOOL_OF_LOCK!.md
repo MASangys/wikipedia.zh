@@ -1,7 +1,4 @@
-《**SCHOOL OF
-LOCK\!**》（；簡稱）是日本[FM東京](../Page/FM東京.md "wikilink")製播的[廣播](../Page/電台廣播.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，每週一到週四22:00
-- 23:55、週五22:00 -
-22:55現場直播（[JST](../Page/日本標準時間.md "wikilink")），並透過廣播聯播網[JFN旗下加盟台向日本全國播出](https://zh.wikipedia.org/wiki/JFN "wikilink")。其主要為面向[中學生之廣播綜藝](https://zh.wikipedia.org/wiki/中學生 "wikilink")，節目主題為「掌握未來之鑰之廣播之中的學校」（），許多節目內容均以[學校](https://zh.wikipedia.org/wiki/學校 "wikilink")[上課為概念呈現](https://zh.wikipedia.org/wiki/課堂 "wikilink")。現由遠山大輔、蘆澤統人主持，節目中另有多個由個別藝人主持的單元。
+《**SCHOOL OF LOCK\!**》（；簡稱）是日本[FM東京](../Page/FM東京.md "wikilink")製播的[廣播](../Page/電台廣播.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，每週一到週四22:00 - 23:55、週五22:00 - 22:55現場直播（[JST](../Page/日本標準時間.md "wikilink")），並透過廣播聯播網[JFN](../Page/JFN.md "wikilink")旗下加盟台向日本全國播出。其主要為面向[中學生之廣播綜藝](https://zh.wikipedia.org/wiki/中學生 "wikilink")，節目主題為「掌握未來之鑰的學校」（），許多節目內容均以[學校](https://zh.wikipedia.org/wiki/學校 "wikilink")[上課為概念呈現](https://zh.wikipedia.org/wiki/課堂 "wikilink")。現由遠山大輔、蘆澤統人主持，節目中另有多個由個別藝人主持的單元。
 
 ## 上課時間（播出時間）
 
@@ -222,8 +219,7 @@ LOCK\!**》（；簡稱）是日本[FM東京](../Page/FM東京.md "wikilink")製
     23:30 - 23:55（2006年10月1日 - 2007年3月25日）
   - 每週星期五（以「SCHOOL OF LOCK\! FRIDAY」名稱播出）
     22:00 - 22:55、23:30 - 23:55（2007年3月 - 2010年9月）
-      - 23:00 - 23:30播出獨立節目《[木村拓哉的What's UP
-        SMAP\!](../Page/木村拓哉的What's_UP_SMAP!.md "wikilink")》。
+      - 23:00 - 23:30播出獨立節目《[木村拓哉的What's UP SMAP\!](../Page/木村拓哉的What's_UP_SMAP!.md "wikilink")》。
   - 每週星期六（以「SCHOOL OF LOCK\! SATURDAY 長淵LOCKS'ROAD TO FUJI'」名稱播出；錄播）
     22:00 - 22:30（2014年10月4日 - 2015年3月21日）
   - 每週星期日（以「SCHOOL OF LOCK\! SUNDAY 長渕LOCKS'ROAD TO FUJI'」名稱播出；錄播）
@@ -242,8 +238,7 @@ LOCK\!**》（；簡稱）是日本[FM東京](../Page/FM東京.md "wikilink")製
 
 <!-- end list -->
 
-  - 本名：遠山大輔。2010年4月5日起就任，為SCHOOL OF
-    LOCK\!第2任[校長](https://zh.wikipedia.org/wiki/校長 "wikilink")。
+  - 本名：遠山大輔。2010年4月5日起就任，為SCHOOL OF LOCK\!第2任[校長](https://zh.wikipedia.org/wiki/校長 "wikilink")。
 
 <!-- end list -->
 
@@ -264,11 +259,9 @@ LOCK\!**》（；簡稱）是日本[FM東京](../Page/FM東京.md "wikilink")製
   -
   - [](https://web.archive.org/web/20070929133430/http://www.tfm.co.jp/saiyo/message/morita2008.html)
 
-  - [](http://plusd.itmedia.co.jp/mobile/articles/0601/06/news036.html)
-    - ITmedia
+  - [](http://plusd.itmedia.co.jp/mobile/articles/0601/06/news036.html) - ITmedia
 
-[Category:SCHOOL_OF_LOCK\!](https://zh.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink")
-[Category:FM東京的廣播節目](https://zh.wikipedia.org/wiki/Category:FM東京的廣播節目 "wikilink")
+[Category:SCHOOL_OF_LOCK\!](https://zh.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink") [Category:FM東京的廣播節目](https://zh.wikipedia.org/wiki/Category:FM東京的廣播節目 "wikilink")
 
 1.  每逢第5週為「生放送教室」單元。
 2.  部分聯播台沒有播出。

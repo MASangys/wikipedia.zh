@@ -364,18 +364,9 @@
   - [韓國KBS官方網站](http://www.kbs.co.kr/drama/trotlover/)
   - [台灣八大官方網站](https://www.gtv.com.tw/Program/P2017100201/index.html)
 
-[Category:2014年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年韓國電視劇集 "wikilink")
-[Category:演藝界題材電視劇](https://zh.wikipedia.org/wiki/Category:演藝界題材電視劇 "wikilink")
-[Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink")
-[Category:音樂家主角題材作品](https://zh.wikipedia.org/wiki/Category:音樂家主角題材作品 "wikilink")
-[Category:音樂電視劇](https://zh.wikipedia.org/wiki/Category:音樂電視劇 "wikilink")
-[Category:流行音樂題材作品](https://zh.wikipedia.org/wiki/Category:流行音樂題材作品 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
+[Category:2014年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年韓國電視劇集 "wikilink") [Category:演藝界題材電視劇](https://zh.wikipedia.org/wiki/Category:演藝界題材電視劇 "wikilink") [Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink") [Category:音樂家主角題材作品](https://zh.wikipedia.org/wiki/Category:音樂家主角題材作品 "wikilink") [Category:音樂電視劇](https://zh.wikipedia.org/wiki/Category:音樂電視劇 "wikilink") [Category:流行音樂題材作品](https://zh.wikipedia.org/wiki/Category:流行音樂題材作品 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
 
-1.  [鄭恩地，出演「Trot戀人」..與智鉉寓-申成祿上演三角關係](http://tw.starnnews.com/news/index.html?no=299578)
-    StarN
-2.  [鄭恩地搭檔池賢宇出演《Trot戀人》](http://cnnews.chosun.com/site/data/html_dir/2014/05/19/20140519000024.html)
-     朝鮮日報中文網
+1.  [鄭恩地，出演「Trot戀人」..與智鉉寓-申成祿上演三角關係](http://tw.starnnews.com/news/index.html?no=299578) StarN
+2.  [鄭恩地搭檔池賢宇出演《Trot戀人》](http://cnnews.chosun.com/site/data/html_dir/2014/05/19/20140519000024.html)  朝鮮日報中文網
 3.  [TNmS 멀티미디어 홈페이지 참조](http://www.tnms.tv/rating/default.asp)
 4.  [AGB 닐슨 미디어리서치 홈페이지 참조](http://www.agbnielsen.co.kr/index.asp?ref=0)

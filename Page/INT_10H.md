@@ -1,8 +1,4 @@
-**INT 10h**，**INT 10H**或**INT
-16**是[BIOS中断调用的第](https://zh.wikipedia.org/wiki/BIOS中断呼叫 "wikilink")10H功能的简写，
-在基于[x86的计算机系统中属于第](https://zh.wikipedia.org/wiki/x86 "wikilink")17[中断向量](https://zh.wikipedia.org/wiki/中断向量 "wikilink")。[BIOS](../Page/BIOS.md "wikilink")通常在此建立了一个[中断处理程序提供了](https://zh.wikipedia.org/wiki/中断处理程序 "wikilink")[实模式下的视频服务](https://zh.wikipedia.org/wiki/实模式 "wikilink")。此类服务包括设置显示模式，字符和字符串输出，和基本图形（在图形模式下的读取和写入[像素](../Page/像素.md "wikilink")）功能。要使用这个功能的调用，在寄存器AH赋予子功能号，其它的寄存器赋予其它所需的参数，并用指令INT
-10H调用。INT
-10H的执行速度是相当缓慢的，所以很多程序都绕过这个[BIOS](../Page/BIOS.md "wikilink")例程而直接访问显示硬件。设置显示模式并不经常使用，可以通过[BIOS](../Page/BIOS.md "wikilink")来实现，而一个游戏在屏幕上绘制图形，需要做得很快，所以直接访问显存比用BIOS调用每个像素更适合。
+**INT 10h**，**INT 10H**或**INT 16**是[BIOS中断调用的第](https://zh.wikipedia.org/wiki/BIOS中断呼叫 "wikilink")10H功能的简写， 在基于[x86的计算机系统中属于第](https://zh.wikipedia.org/wiki/x86 "wikilink")17[中断向量](https://zh.wikipedia.org/wiki/中断向量 "wikilink")。[BIOS](../Page/BIOS.md "wikilink")通常在此建立了一个[中断处理程序提供了](https://zh.wikipedia.org/wiki/中断处理程序 "wikilink")[实模式下的视频服务](https://zh.wikipedia.org/wiki/实模式 "wikilink")。此类服务包括设置显示模式，字符和字符串输出，和基本图形（在图形模式下的读取和写入[像素](../Page/像素.md "wikilink")）功能。要使用这个功能的调用，在寄存器AH赋予子功能号，其它的寄存器赋予其它所需的参数，并用指令INT 10H调用。INT 10H的执行速度是相当缓慢的，所以很多程序都绕过这个[BIOS](../Page/BIOS.md "wikilink")例程而直接访问显示硬件。设置显示模式并不经常使用，可以通过[BIOS](../Page/BIOS.md "wikilink")来实现，而一个游戏在屏幕上绘制图形，需要做得很快，所以直接访问显存比用BIOS调用每个像素更适合。
 
 ## 支持功能列表
 
@@ -138,8 +134,7 @@ CH=高行数，CL=左列数，DH=低行数，DL=右列数</p></td>
 
 ## 参考
 
-  - [INT 10h from Ralf Brown Interrupt List, online
-    version](http://www.ctyme.com/intr/int-10.htm)
+  - [INT 10h from Ralf Brown Interrupt List, online version](http://www.ctyme.com/intr/int-10.htm)
   - [INT 10h on www.ousob.com](http://www.ousob.com/ng/asm/ng6f862.php)
 
 ## 参见
@@ -148,5 +143,4 @@ CH=高行数，CL=左列数，DH=低行数，DL=右列数</p></td>
   - [INT 13h](https://zh.wikipedia.org/wiki/INT_13h "wikilink")
   - [mode 13h](https://zh.wikipedia.org/wiki/mode_13h "wikilink")
 
-[Category:BIOS](https://zh.wikipedia.org/wiki/Category:BIOS "wikilink")
-[Category:中断](https://zh.wikipedia.org/wiki/Category:中断 "wikilink")
+[Category:BIOS](https://zh.wikipedia.org/wiki/Category:BIOS "wikilink") [Category:中断](https://zh.wikipedia.org/wiki/Category:中断 "wikilink")

@@ -1,5 +1,4 @@
-**GARNiDELiA**（）為[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下[SACRA
-MUSIC所屬的音樂團體](../Page/SACRA_MUSIC.md "wikilink")\[1\]。簡稱為「」，由歌手MARiA（[水桥舞](https://zh.wikipedia.org/wiki/水桥舞 "wikilink")）和作曲家toku（[阿部尚徳](https://zh.wikipedia.org/wiki/阿部尚徳 "wikilink")）組成。團體名稱的由來為「（法語，含義為（水桥舞）的[加尼葉歌劇場](../Page/巴黎歌劇院.md "wikilink")）」，與toku的出生年份同時發現的[小行星2758](../Page/小行星2758.md "wikilink")（Cordelia）」中的文字所組合而成。\[2\]
+**GARNiDELiA**（）為[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下[SACRA MUSIC所屬的音樂團體](../Page/SACRA_MUSIC.md "wikilink")\[1\]。簡稱為「」，由歌手MARiA（[水桥舞](https://zh.wikipedia.org/wiki/水桥舞 "wikilink")）和作曲家toku（[阿部尚徳](https://zh.wikipedia.org/wiki/阿部尚徳 "wikilink")）組成。團體名稱的由來為「（法語，含義為（水桥舞）的[加尼葉歌劇場](../Page/巴黎歌劇院.md "wikilink")）」，與toku的出生年份同時發現的[小行星2758](../Page/小行星2758.md "wikilink")（Cordelia）」中的文字所組合而成。\[2\]
 
 ## 經歷
 
@@ -16,8 +15,7 @@ MUSIC所屬的音樂團體](../Page/SACRA_MUSIC.md "wikilink")\[1\]。簡稱為�
 
 <!-- end list -->
 
-  - 2月4日、5日「NICONICO大會議2010-2011全國巡迴演出 〜謝謝100萬人〜
-    FINAL（凸）・（凹）」出演\[3\]\[4\]。
+  - 2月4日、5日「NICONICO大會議2010-2011全國巡迴演出 〜謝謝100萬人〜 FINAL（凸）・（凹）」出演\[3\]\[4\]。
   - 5月1日「M3-2011春」頒布第2部專輯『PRAYER』。
   - 10月4日「MOSAiC EXPRESS」出演。
 
@@ -48,12 +46,9 @@ MUSIC所屬的音樂團體](../Page/SACRA_MUSIC.md "wikilink")\[1\]。簡稱為�
 <!-- end list -->
 
   - 3月1日、2日「1st PLACE 10-11th CELEBRATION LIVE」出演
-  - 3月5日以『ambiguous』作為出道單曲，擔任TV動畫『[KILL la
-    KILL](../Page/KILL_la_KILL.md "wikilink")（斬服少女）』的片頭曲，，在iTunes上的動畫類別之中更取得單曲配信第一名、專輯配信第一名、音樂錄影帶配信第一名、作為新人歌手取得了三冠的殊榮。\[6\]
-  - 7月30日
-    發行第2張單曲「grilletto」，為[魔法科高中的劣等生片頭曲](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")。
-  - 10月29日 發行第3張單曲「BLAZING」，為[GUNDAM
-    G之復國運動片頭曲](https://zh.wikipedia.org/wiki/GUNDAM_G之復國運動 "wikilink")。
+  - 3月5日以『ambiguous』作為出道單曲，擔任TV動畫『[KILL la KILL](../Page/KILL_la_KILL.md "wikilink")（斬服少女）』的片頭曲，，在iTunes上的動畫類別之中更取得單曲配信第一名、專輯配信第一名、音樂錄影帶配信第一名、作為新人歌手取得了三冠的殊榮。\[6\]
+  - 7月30日 發行第2張單曲「grilletto」，為[魔法科高中的劣等生片頭曲](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")。
+  - 10月29日 發行第3張單曲「BLAZING」，為[GUNDAM G之復國運動片頭曲](https://zh.wikipedia.org/wiki/GUNDAM_G之復國運動 "wikilink")。
 
 <!-- end list -->
 
@@ -61,9 +56,7 @@ MUSIC所屬的音樂團體](../Page/SACRA_MUSIC.md "wikilink")\[1\]。簡稱為�
 
 <!-- end list -->
 
-  - 1月21日 發行第1張專輯，總共收錄了[KILL la
-    KILL](../Page/KILL_la_KILL.md "wikilink")（斬服少女）片頭曲、[魔法科高中的劣等生片頭曲](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")、[GUNDAM
-    G之復國運動片頭曲](https://zh.wikipedia.org/wiki/GUNDAM_G之復國運動 "wikilink")、動畫投稿網站nico動畫百萬點閱的[Lamb.等曲子](https://zh.wikipedia.org/wiki/Lamb. "wikilink")。
+  - 1月21日 發行第1張專輯，總共收錄了[KILL la KILL](../Page/KILL_la_KILL.md "wikilink")（斬服少女）片頭曲、[魔法科高中的劣等生片頭曲](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")、[GUNDAM G之復國運動片頭曲](https://zh.wikipedia.org/wiki/GUNDAM_G之復國運動 "wikilink")、動畫投稿網站nico動畫百萬點閱的[Lamb.等曲子](https://zh.wikipedia.org/wiki/Lamb. "wikilink")。
   - 5月13日 發行第4張單曲「MIRAI」，為[雙槍激鬥](../Page/雙槍激鬥.md "wikilink")片尾曲。
 
 <!-- end list -->
@@ -72,16 +65,10 @@ MUSIC所屬的音樂團體](../Page/SACRA_MUSIC.md "wikilink")\[1\]。簡稱為�
 
 <!-- end list -->
 
-  - 1月30日 來台參與「 GARNiDELiA & 八王子P LIVE 2016 in TAIPEI」在「ATT SHOW BOX
-    立方文創」中舉辦。
-  - 3月11日
-    為[PC遊戲](https://zh.wikipedia.org/wiki/PC遊戲 "wikilink")「靈魂行者（ソウルワーカー）」所創作主題曲「Burning
-    Soul」\[7\]。
-  - 8月17日 發行第5張單曲「約束 -Promise
-    code-」，第6單曲「clever」與[ClariS](../Page/ClariS.md "wikilink")合作，為[Qualidea
-    Code第二](../Page/Qualidea_Code.md "wikilink")、第三片尾曲
-  - 12月3日 來台灣參與「 LisAni！LIVE TAIWAN Supported by
-    戰鬥女子學園」在「台北國際會議中心」中舉辦\[8\]。
+  - 1月30日 來台參與「 GARNiDELiA & 八王子P LIVE 2016 in TAIPEI」在「ATT SHOW BOX 立方文創」中舉辦。
+  - 3月11日 為[PC遊戲](https://zh.wikipedia.org/wiki/PC遊戲 "wikilink")「靈魂行者（ソウルワーカー）」所創作主題曲「Burning Soul」\[7\]。
+  - 8月17日 發行第5張單曲「約束 -Promise code-」，第6單曲「clever」與[ClariS](../Page/ClariS.md "wikilink")合作，為[Qualidea Code第二](../Page/Qualidea_Code.md "wikilink")、第三片尾曲
+  - 12月3日 來台灣參與「 LisAni！LIVE TAIWAN Supported by 戰鬥女子學園」在「台北國際會議中心」中舉辦\[8\]。
   - 12月14日 發行第2張專輯「Violet Cry」\[9\]。
 
 <!-- end list -->
@@ -90,18 +77,12 @@ MUSIC所屬的音樂團體](../Page/SACRA_MUSIC.md "wikilink")\[1\]。簡稱為�
 
 <!-- end list -->
 
-  - 4月 由原先[SME
-    Records移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/SME_Records.md "wikilink")[SACRA
-    MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[10\]
+  - 4月 由原先[SME Records移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/SME_Records.md "wikilink")[SACRA MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[10\]
   - 5月20日 在上海市举办了中国第一次Live见面会和演唱会。\[11\]
-  - 6月14日 發行第6張單曲「SPEED STAR」，為[魔法科高中的劣等生
-    呼喚繁星的少女主題曲](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")\[12\]。
-  - 8月23日
-    發行第7張單曲「Désir」，為[Fate/Apocrypha片尾曲](https://zh.wikipedia.org/wiki/Fate/Apocrypha "wikilink")\[13\]。
-  - 10月14日 來台舉辦個人團體演唱會「-GARNiDELiA stellacage Asia Tour 2017 in
-    Taipei-」在「花漾 HANA 展演空間」中舉辦\[14\]\[15\]。
-  - 11月1日
-    發行第8張單曲「」，為[動畫同好會片頭曲](https://zh.wikipedia.org/wiki/動畫同好會 "wikilink")\[16\]。
+  - 6月14日 發行第6張單曲「SPEED STAR」，為[魔法科高中的劣等生 呼喚繁星的少女主題曲](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")\[12\]。
+  - 8月23日 發行第7張單曲「Désir」，為[Fate/Apocrypha片尾曲](https://zh.wikipedia.org/wiki/Fate/Apocrypha "wikilink")\[13\]。
+  - 10月14日 來台舉辦個人團體演唱會「-GARNiDELiA stellacage Asia Tour 2017 in Taipei-」在「花漾 HANA 展演空間」中舉辦\[14\]\[15\]。
+  - 11月1日 發行第8張單曲「」，為[動畫同好會片頭曲](https://zh.wikipedia.org/wiki/動畫同好會 "wikilink")\[16\]。
 
 <!-- end list -->
 
@@ -109,11 +90,9 @@ MUSIC所屬的音樂團體](../Page/SACRA_MUSIC.md "wikilink")\[1\]。簡稱為�
 
 <!-- end list -->
 
-  - 1月31日 發行第9張單曲「Error」，為[沒有心跳的少女
-    BEATLESS片頭曲](../Page/沒有心跳的少女_BEATLESS.md "wikilink")\[17\]。
+  - 1月31日 發行第9張單曲「Error」，為[沒有心跳的少女 BEATLESS片頭曲](../Page/沒有心跳的少女_BEATLESS.md "wikilink")\[17\]。
   - 3月28日 發行第3張專輯「G.R.N.D.」\[18\]。
-  - 9月26日
-    發行第4張專輯「響喜亂舞」，初回限定版中附贈寫真當中收錄[水橋舞](../Page/水橋舞.md "wikilink")的舞蹈服裝照片\[19\]。
+  - 9月26日 發行第4張專輯「響喜亂舞」，初回限定版中附贈寫真當中收錄[水橋舞](../Page/水橋舞.md "wikilink")的舞蹈服裝照片\[19\]。
 
 <!-- end list -->
 
@@ -121,17 +100,13 @@ MUSIC所屬的音樂團體](../Page/SACRA_MUSIC.md "wikilink")\[1\]。簡稱為�
 
 <!-- end list -->
 
-  - 3月13日 發行第10張單曲「REBEL
-    FLAG」，為[魔法少女特殊戰明日香](../Page/魔法少女特殊戰明日香.md "wikilink")片尾曲\[20\]。
-  - 6月1日 亞巡來台舉辦個人團體演唱會「stellacage Asia Tour 2019 "響喜乱舞" in Taipei
-    」在「永豐Legacy Taipei 音樂展演空間」中舉辦\[21\]\[22\]
+  - 3月13日 發行第10張單曲「REBEL FLAG」，為[魔法少女特殊戰明日香](../Page/魔法少女特殊戰明日香.md "wikilink")片尾曲\[20\]。
+  - 6月1日 亞巡來台舉辦個人團體演唱會「stellacage Asia Tour 2019 "響喜乱舞" in Taipei 」在「永豐Legacy Taipei 音樂展演空間」中舉辦\[21\]\[22\]
 
 ## 成員
 
-  - [水橋舞](../Page/水橋舞.md "wikilink")（MARiA ）（メイリア、1992年1月31日 - ） -
-    演唱、作詞。
-  - [阿部尚徳](https://zh.wikipedia.org/wiki/阿部尚徳 "wikilink")（toku
-    ）（とく、1978年3月5日 – ） - 乐器、作曲、編曲、音樂製作。
+  - [水橋舞](../Page/水橋舞.md "wikilink")（MARiA ）（メイリア、1992年1月31日 - ） - 演唱、作詞。
+  - [阿部尚徳](https://zh.wikipedia.org/wiki/阿部尚徳 "wikilink")（toku ）（とく、1978年3月5日 – ） - 乐器、作曲、編曲、音樂製作。
 
 ## 音樂唱片
 
@@ -537,8 +512,7 @@ CD</p></td>
       - 4\. ARiA -ReACT-
   - ドリームボーカリスト（2013年10月23日）
   - 1\. Go Tight\!
-  - [ClariS](../Page/ClariS.md "wikilink") SPRING TRACKS
-    -春のうた-（2016年3月2日）
+  - [ClariS](../Page/ClariS.md "wikilink") SPRING TRACKS -春のうた-（2016年3月2日）
 
 ## 音樂合作
 
@@ -569,8 +543,7 @@ CD</p></td>
 
   - [GARNiDELiA Facebook](https://www.facebook.com/GARNiDELiA)
 
-  - [SONY MUSIC
-    GARNiDELiA官方網站](http://www.sonymusic.co.jp/artist/garnidelia/)
+  - [SONY MUSIC GARNiDELiA官方網站](http://www.sonymusic.co.jp/artist/garnidelia/)
 
   - [GARNiDELiA[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")](https://twitter.com/garnidelia)
 
@@ -579,29 +552,23 @@ CD</p></td>
   -
   -
   -
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:索尼音樂娛樂旗下藝人 "wikilink")
+[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:索尼音樂娛樂旗下藝人 "wikilink")
 
 1.  [ソニーミュージックによるGARNiDELiAのオフィシャルサイト](http://www.sonymusic.co.jp/artist/garnidelia/)
 2.
 3.  ただし、名義は「MARiA」、「とくP」での出演であった。
-4.  [キャスト情報 -
-    ニコニコ大会議OfficialWebsite](http://info.nicovideo.jp/daikaigi/2011final/2011final_cast.html)
+4.  [キャスト情報 - ニコニコ大会議OfficialWebsite](http://info.nicovideo.jp/daikaigi/2011final/2011final_cast.html)
 5.
 6.
 7.
 8.
 9.
-10. [新レーベル『SACRA MUSIC』発足！ | プレスリリース | Sony Music Group Company
-    Site](https://www.sme.co.jp/s/SME/pressrelease/detail/NEWS00366?ima=1257)
+10. [新レーベル『SACRA MUSIC』発足！ | プレスリリース | Sony Music Group Company Site](https://www.sme.co.jp/s/SME/pressrelease/detail/NEWS00366?ima=1257)
 11.
 12.
 13.
 14.
-15. [GARNiDELiA臺灣單獨首唱
-    歌迷不畏風雨熱情支持](https://memeon-music.com/2017/10/24/garnidelia-report/)
+15. [GARNiDELiA臺灣單獨首唱 歌迷不畏風雨熱情支持](https://memeon-music.com/2017/10/24/garnidelia-report/)
 16.
 17.
 18.

@@ -2,16 +2,14 @@
 
 local p = {}
 
-local getArgs = require('Module:Arguments').getArgs local navbar =
-require('Module:Navbar')._navbar
+local getArgs = require('Module:Arguments').getArgs local navbar = require('Module:Navbar')._navbar
 
 local function trimAndAddAutomaticNewline(s)
 
 `   -- For compatibility with the original `
 `   -- implementation, which passed some parameters through {{#if}} to trim`
 `   -- their whitespace. This also triggered the automatic newline behavior.`
-`   -- (`[`meta:Help:Newlines``   ``and``   ``spaces#Automatic``
- ``newline`](https://zh.wikipedia.org/wiki/meta:Help:Newlines_and_spaces#Automatic_newline "wikilink")`)`
+`   -- (`[`meta:Help:Newlines``   ``and``   ``spaces#Automatic``   ``newline`](https://zh.wikipedia.org/wiki/meta:Help:Newlines_and_spaces#Automatic_newline "wikilink")`)`
 `   s = mw.ustring.gsub(s, "^%s*(.-)%s*$", "%1")`
 `   if mw.ustring.find(s, '^[#*:;]') or mw.ustring.find(s, '^{|') then`
 `       return '\n' .. s`

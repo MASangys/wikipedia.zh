@@ -1,7 +1,4 @@
-**AMC**电视台是美国的[有线电视](../Page/有线电视.md "wikilink")频道，主要播出电影并会伴随着数量有限的原创节目，AMC是《美国经典电影》（American
-Movie
-Classics）的简称，然而自2002年起制作的[节目不再强调这一全称](../Page/电视节目.md "wikilink")\[1\]\[2\]
-，目前为AMC網路所拥有。2012年7月因商业纠纷问题，频道从Dish Network撤出。
+**AMC**电视台是美国的[有线电视](../Page/有线电视.md "wikilink")频道，主要播出电影并会伴随着数量有限的原创节目，AMC是《美国经典电影》（American Movie Classics）的简称，然而自2002年起制作的[节目不再强调这一全称](../Page/电视节目.md "wikilink")\[1\]\[2\] ，目前为AMC網路所拥有。2012年7月因商业纠纷问题，频道从Dish Network撤出。
 
 ## 原创节目
 
@@ -31,15 +28,12 @@ Classics）的简称，然而自2002年起制作的[节目不再强调这一全�
   -
   - [AMC's Blogs for movies and TV series](http://blogs.amctv.com)
 
-  - [AMC Canada television
-    schedule](http://tvlistings.zap2it.com/tvlistings/ZCSGrid.do?stnNum=52247&channel=629)
+  - [AMC Canada television schedule](http://tvlistings.zap2it.com/tvlistings/ZCSGrid.do?stnNum=52247&channel=629)
 
 [Category:AMC网络](https://zh.wikipedia.org/wiki/Category:AMC网络 "wikilink")
 
 1.
 2.
 3.
-4.  [Bryan Cranston Twitter
-    status](http://twitter.com/#!/BryanCranston/status/176468630500941824)
-5.  [website for AMC's The
-    Pitch](http://www.amctv.com/shows/the-pitch%7COfficial)
+4.  [Bryan Cranston Twitter status](http://twitter.com/#!/BryanCranston/status/176468630500941824)
+5.  [website for AMC's The Pitch](http://www.amctv.com/shows/the-pitch%7COfficial)

@@ -1,6 +1,4 @@
-《**First
-Experience**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳柏宇](../Page/陳柏宇.md "wikilink")的首張專輯，於2007年5月3日推出。大碟第一主打歌為《固執》，第二主打則是《斷絕來往》。後來這專輯在10月29日推出「永久保存
-珍藏版」，加收《永久保存》與《最佳努力獎》兩首歌。
+《**First Experience**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳柏宇](../Page/陳柏宇.md "wikilink")的首張專輯，於2007年5月3日推出。大碟第一主打歌為《固執》，第二主打則是《斷絕來往》。後來這專輯在10月29日推出「永久保存 珍藏版」，加收《永久保存》與《最佳努力獎》兩首歌。
 
 ## 曲目
 
@@ -11,8 +9,7 @@ Experience**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.
 ## 唱片版本
 
   - 第一版，附送一片DVD，收錄《固執》及《斷絕來往》的音樂錄影帶和專輯製作花絮。
-  - 永久保存
-    珍藏版，附送一片DVD，收錄《永久保存》、《最佳努力獎》、《車匙》、《不等於》與《斷絕來往（Featuring黃凱琪）》的音樂錄影帶和電視廣告拍攝特輯。
+  - 永久保存 珍藏版，附送一片DVD，收錄《永久保存》、《最佳努力獎》、《車匙》、《不等於》與《斷絕來往（Featuring黃凱琪）》的音樂錄影帶和電視廣告拍攝特輯。
 
 ## 音樂錄影帶
 
@@ -64,6 +61,4 @@ Experience**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.
 
 </div>
 
-[Category:陳柏宇音樂專輯](https://zh.wikipedia.org/wiki/Category:陳柏宇音樂專輯 "wikilink")
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:陳柏宇音樂專輯](https://zh.wikipedia.org/wiki/Category:陳柏宇音樂專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

@@ -1,5 +1,4 @@
-**guyzware
-Inc.(有限会社ガイズウェア)**是[日本](../Page/日本.md "wikilink")的[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")[開發](https://zh.wikipedia.org/wiki/開發 "wikilink")[公司](../Page/公司.md "wikilink")。
+**guyzware Inc.(有限会社ガイズウェア)**是[日本](../Page/日本.md "wikilink")的[電腦遊戲](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")[開發](https://zh.wikipedia.org/wiki/開發 "wikilink")[公司](../Page/公司.md "wikilink")。
 
 ## 作品一覧
 
@@ -16,8 +15,7 @@ Inc.(有限会社ガイズウェア)**是[日本](../Page/日本.md "wikilink")�
 11.ゴルゴ13 ファイルG13を追え（2009年6月18日発売）
 12.おおかみかくし（2009年8月20日発売）
 13.俺の妹がこんなに可愛いわけがない ポータブル（2011年1月27日発売）
-14.魔法少女リリカルなのはA's PORTABLE -THE BATTLE OF ACES-
-DLマガジン「デジタルなのは」（2010年2月26日配信開始）
+14.魔法少女リリカルなのはA's PORTABLE -THE BATTLE OF ACES- DLマガジン「デジタルなのは」（2010年2月26日配信開始）
 15.涼宮ハルヒの追想（2011年5月12日発売）
 16.魔法少女まどか☆マギカiP（2012年1月20日配信開始）
 16.僕は友達が少ない ぽーたぶる（2012年2月23日発売）

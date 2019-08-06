@@ -71,8 +71,7 @@
 <!-- end list -->
 
   -
-    德國實業家，成員之一，主張對外星人採取[綏靖主義](https://zh.wikipedia.org/wiki/綏靖主義 "wikilink")\[18\]\[19\]。「史莊侯」這個名字參考自[納粹德國](../Page/納粹德國.md "wikilink")科學家（Hubertus
-    Strughold）\[20\]。這個角色後來並沒有出現在電視劇中，有傳言稱原因是卡特無法說服繆勒-史泰\[21\]。
+    德國實業家，成員之一，主張對外星人採取[綏靖主義](https://zh.wikipedia.org/wiki/綏靖主義 "wikilink")\[18\]\[19\]。「史莊侯」這個名字參考自[納粹德國](../Page/納粹德國.md "wikilink")科學家（Hubertus Strughold）\[20\]。這個角色後來並沒有出現在電視劇中，有傳言稱原因是卡特無法說服繆勒-史泰\[21\]。
 
 <!-- end list -->
 
@@ -223,8 +222,7 @@
 
 ### 實體特效
 
-剛完成《[異形4：浴火重生](../Page/异形4：浴火重生.md "wikilink")》（1997年）的（縮寫為ADI）負責為該片製作實體特效。不過，他們發現製作受感染消防員的屍體的難度比他們預期中還高。ADI也負責設計片中的外星人，成員之一湯姆·伍德拉夫（）選擇仿照經典的灰色外星人，並打算透過眼睛來呈現出外星人既脆弱又凶狠的感覺。編劇卡特也希望外星人看起來很聰明。ADI原本製作了兩套不同的外星人道具，其中看起來較為原始的一套用在設定於史前時代的開場，而另一套看起來比較進化，用在以現代為背景的橋段。然而，劇組為了省時，所以只用了其中一套。由於Amalgamated
-Dynamics大多數時間都花在設計外星人身上，實在忙不過來，於是劇組另外聘請KNB EFX來完成屍體的特效\[79\]。
+剛完成《[異形4：浴火重生](../Page/异形4：浴火重生.md "wikilink")》（1997年）的（縮寫為ADI）負責為該片製作實體特效。不過，他們發現製作受感染消防員的屍體的難度比他們預期中還高。ADI也負責設計片中的外星人，成員之一湯姆·伍德拉夫（）選擇仿照經典的灰色外星人，並打算透過眼睛來呈現出外星人既脆弱又凶狠的感覺。編劇卡特也希望外星人看起來很聰明。ADI原本製作了兩套不同的外星人道具，其中看起來較為原始的一套用在設定於史前時代的開場，而另一套看起來比較進化，用在以現代為背景的橋段。然而，劇組為了省時，所以只用了其中一套。由於Amalgamated Dynamics大多數時間都花在設計外星人身上，實在忙不過來，於是劇組另外聘請KNB EFX來完成屍體的特效\[79\]。
 
 ## 音樂
 
@@ -432,20 +430,7 @@ Dynamics大多數時間都花在設計外星人身上，實在忙不過來，於
   -
   -
   -
-[Category:1998年电影](https://zh.wikipedia.org/wiki/Category:1998年电影 "wikilink")
-[Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink")
-[Category:1990年代科幻片](https://zh.wikipedia.org/wiki/Category:1990年代科幻片 "wikilink")
-[Category:美國科幻片](https://zh.wikipedia.org/wiki/Category:美國科幻片 "wikilink")
-[Category:美國科幻恐怖片](https://zh.wikipedia.org/wiki/Category:美國科幻恐怖片 "wikilink")
-[Category:X檔案](https://zh.wikipedia.org/wiki/Category:X檔案 "wikilink")
-[Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink")
-[Category:陰謀論電影](https://zh.wikipedia.org/wiki/Category:陰謀論電影 "wikilink")
-[Category:推理电影](https://zh.wikipedia.org/wiki/Category:推理电影 "wikilink")
-[Category:寄生生物題材電影](https://zh.wikipedia.org/wiki/Category:寄生生物題材電影 "wikilink")
-[Category:南極洲背景電影](https://zh.wikipedia.org/wiki/Category:南極洲背景電影 "wikilink")
-[Category:德克薩斯州背景電影](https://zh.wikipedia.org/wiki/Category:德克薩斯州背景電影 "wikilink")
-[Category:華盛頓哥倫比亞特區背景電影](https://zh.wikipedia.org/wiki/Category:華盛頓哥倫比亞特區背景電影 "wikilink")
-[Category:20世纪福斯电影](https://zh.wikipedia.org/wiki/Category:20世纪福斯电影 "wikilink")
+[Category:1998年电影](https://zh.wikipedia.org/wiki/Category:1998年电影 "wikilink") [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:1990年代科幻片](https://zh.wikipedia.org/wiki/Category:1990年代科幻片 "wikilink") [Category:美國科幻片](https://zh.wikipedia.org/wiki/Category:美國科幻片 "wikilink") [Category:美國科幻恐怖片](https://zh.wikipedia.org/wiki/Category:美國科幻恐怖片 "wikilink") [Category:X檔案](https://zh.wikipedia.org/wiki/Category:X檔案 "wikilink") [Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink") [Category:陰謀論電影](https://zh.wikipedia.org/wiki/Category:陰謀論電影 "wikilink") [Category:推理电影](https://zh.wikipedia.org/wiki/Category:推理电影 "wikilink") [Category:寄生生物題材電影](https://zh.wikipedia.org/wiki/Category:寄生生物題材電影 "wikilink") [Category:南極洲背景電影](https://zh.wikipedia.org/wiki/Category:南極洲背景電影 "wikilink") [Category:德克薩斯州背景電影](https://zh.wikipedia.org/wiki/Category:德克薩斯州背景電影 "wikilink") [Category:華盛頓哥倫比亞特區背景電影](https://zh.wikipedia.org/wiki/Category:華盛頓哥倫比亞特區背景電影 "wikilink") [Category:20世纪福斯电影](https://zh.wikipedia.org/wiki/Category:20世纪福斯电影 "wikilink")
 
 1.
 2.

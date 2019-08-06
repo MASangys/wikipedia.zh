@@ -1,8 +1,6 @@
-**Hamcrest**是一个协助编写用[Java](../Page/Java.md "wikilink")语言进行软件测试的框架。它支持创建自定义的[断言匹配器](../Page/斷言_\(程式\).md "wikilink")（assertion
-matchers）（名称“Hamcrest”即为“matchers”的[异位构词](../Page/易位构词游戏.md "wikilink")），允许[声明式定义匹配规则](../Page/宣告式編程.md "wikilink")。\[1\]这些匹配器在[单元测试](../Page/单元测试.md "wikilink")框架（例如[JUnit](../Page/JUnit.md "wikilink")\[2\]和jMock）中有用。
+**Hamcrest**是一个协助编写用[Java](../Page/Java.md "wikilink")语言进行软件测试的框架。它支持创建自定义的[断言匹配器](../Page/斷言_\(程式\).md "wikilink")（assertion matchers）（名称“Hamcrest”即为“matchers”的[异位构词](../Page/易位构词游戏.md "wikilink")），允许[声明式定义匹配规则](../Page/宣告式編程.md "wikilink")。\[1\]这些匹配器在[单元测试](../Page/单元测试.md "wikilink")框架（例如[JUnit](../Page/JUnit.md "wikilink")\[2\]和jMock）中有用。
 
-Hamcrest已经被移植到[Java](../Page/Java.md "wikilink")、[C++](../Page/C++.md "wikilink")、[Objective-C](../Page/Objective-C.md "wikilink")、[Python](../Page/Python.md "wikilink")、[ActionScript](../Page/ActionScript.md "wikilink")
-3\[3\]、[PHP](../Page/PHP.md "wikilink")\[4\]、[JavaScript](../Page/JavaScript.md "wikilink")\[5\]和[Erlang](../Page/Erlang.md "wikilink").\[6\]
+Hamcrest已经被移植到[Java](../Page/Java.md "wikilink")、[C++](../Page/C++.md "wikilink")、[Objective-C](../Page/Objective-C.md "wikilink")、[Python](../Page/Python.md "wikilink")、[ActionScript](../Page/ActionScript.md "wikilink") 3\[3\]、[PHP](../Page/PHP.md "wikilink")\[4\]、[JavaScript](../Page/JavaScript.md "wikilink")\[5\]和[Erlang](../Page/Erlang.md "wikilink").\[6\]
 
 ## 解释
 
@@ -12,8 +10,7 @@ Hamcrest已经被移植到[Java](../Page/Java.md "wikilink")、[C++](../Page/C++
 assert(x == y);
 ```
 
-但是在这种语法下，如果“x”和“y”的是不相等的，产生错误信息不够好——如果错误消息中显示“x”和“y”的值就更好了。
-为了解决这个问题，“第二代”单元测试框架提供了一组断言语句，从而产生更好的错误消息。例如，
+但是在这种语法下，如果“x”和“y”的是不相等的，产生错误信息不够好——如果错误消息中显示“x”和“y”的值就更好了。 为了解决这个问题，“第二代”单元测试框架提供了一组断言语句，从而产生更好的错误消息。例如，
 
 ``` c
 assert_equal(x, y);
@@ -37,8 +34,7 @@ assert_that(x, is_not(equal_to(y)))
 
   - <https://github.com/hamcrest>
 
-[Category:Java平台软件](https://zh.wikipedia.org/wiki/Category:Java平台软件 "wikilink")
-[Category:单元测试框架](https://zh.wikipedia.org/wiki/Category:单元测试框架 "wikilink")
+[Category:Java平台软件](https://zh.wikipedia.org/wiki/Category:Java平台软件 "wikilink") [Category:单元测试框架](https://zh.wikipedia.org/wiki/Category:单元测试框架 "wikilink")
 
 1.
 2.

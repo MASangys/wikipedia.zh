@@ -1,7 +1,4 @@
-《**Final Home當我們混在一起
-Live全紀錄**》（****）是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")的現場專輯，此張專輯收錄了他們於2004至2005年《[Final
-Home 當我們混在一起
-世界巡迴演唱會](../Page/Final_Home_當我們混在一起_世界巡迴演唱會.md "wikilink")》演唱會的曲目，於2005年5月27日發行。
+《**Final Home當我們混在一起 Live全紀錄**》（****）是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")的現場專輯，此張專輯收錄了他們於2004至2005年《[Final Home 當我們混在一起 世界巡迴演唱會](../Page/Final_Home_當我們混在一起_世界巡迴演唱會.md "wikilink")》演唱會的曲目，於2005年5月27日發行。
 
 ## 曲目
 
@@ -32,7 +29,7 @@ Home 當我們混在一起
 <td><p><a href="../Page/陳信宏.md" title="wikilink">阿信</a>／<a href="../Page/陳奐仁.md" title="wikilink">陳奐仁</a></p></td>
 <td><p>怪獸／陳奐仁</p></td>
 <td><p>6:28</p></td>
-<td></td>
+<td><p>feat. <a href="../Page/Energy.md" title="wikilink">Energy</a></p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
@@ -386,10 +383,4 @@ Frank Farian</p></td>
 
 ## 參考文獻
 
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
-[Category:五月天音樂專輯](https://zh.wikipedia.org/wiki/Category:五月天音樂專輯 "wikilink")
-[Category:滚石唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:滚石唱片音乐专辑 "wikilink")
-[Category:台灣流行搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行搖滾音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:現場專輯](https://zh.wikipedia.org/wiki/Category:現場專輯 "wikilink")
+[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink") [Category:五月天音樂專輯](https://zh.wikipedia.org/wiki/Category:五月天音樂專輯 "wikilink") [Category:滚石唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:滚石唱片音乐专辑 "wikilink") [Category:台灣流行搖滾音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行搖滾音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:現場專輯](https://zh.wikipedia.org/wiki/Category:現場專輯 "wikilink")

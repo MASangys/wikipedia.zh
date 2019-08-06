@@ -14,8 +14,7 @@
 
 \(\mathbb{Z}_p\)上的函数也可以定义导数，就像实分析中一样：给定开集，考察函数\(f : \; U \rightarrow \mathbb{Q}_p\)。对中一点，如果极限：
 
-\[f'(x) := \, \lim_{h\to 0}\frac{f(x+h) - f(x)}{h}\]
-存在，就称函数在点可导，导数为上述极限()。这样定义的导数和导函数与它们在实分析中对应的对象拥有某些共同点。比如可导的函数总是连续函数。不过，由于“区间”概念的缺失，\(\mathbb{Q}_p\)上无法建立对应于实分析中[中值定理](../Page/中值定理.md "wikilink")的结论。没有“中值定理”，“传统的”导数在进分析中无法拥有很多在实分析中有重要价值的性质。比如，存在一个处处可导，导函数恒等于零的函数，它自身并不是常数函数。
+\[f'(x) := \, \lim_{h\to 0}\frac{f(x+h) - f(x)}{h}\] 存在，就称函数在点可导，导数为上述极限()。这样定义的导数和导函数与它们在实分析中对应的对象拥有某些共同点。比如可导的函数总是连续函数。不过，由于“区间”概念的缺失，\(\mathbb{Q}_p\)上无法建立对应于实分析中[中值定理](../Page/中值定理.md "wikilink")的结论。没有“中值定理”，“传统的”导数在进分析中无法拥有很多在实分析中有重要价值的性质。比如，存在一个处处可导，导函数恒等于零的函数，它自身并不是常数函数。
 
 ## 参见
 
@@ -27,5 +26,4 @@
 
 ## 参考来源
 
-[Category:数论](https://zh.wikipedia.org/wiki/Category:数论 "wikilink")
-[Category:数学分析](https://zh.wikipedia.org/wiki/Category:数学分析 "wikilink")
+[Category:数论](https://zh.wikipedia.org/wiki/Category:数论 "wikilink") [Category:数学分析](https://zh.wikipedia.org/wiki/Category:数学分析 "wikilink")

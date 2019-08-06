@@ -1,5 +1,4 @@
-《**STILL**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起](../Page/東方神起.md "wikilink")在日本发行的第34张[单曲](../Page/单曲.md "wikilink")。于2012年3月14日由[avex
-trax公司发行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
+《**STILL**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起](../Page/東方神起.md "wikilink")在日本发行的第34张[单曲](../Page/单曲.md "wikilink")。于2012年3月14日由[avex trax公司发行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -19,8 +18,7 @@ trax公司发行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
       -
         [江崎固力果](../Page/江崎固力果.md "wikilink")ICE《挤挤牧场》（）广告曲
 2.  《One More Thing》
-      - 作詞：H.U.B.，作曲、編曲：, SHIROSE from WHITE JAM & SHIMADA from WHITE
-        JAM BEATZ
+      - 作詞：H.U.B.，作曲、編曲：, SHIROSE from WHITE JAM & SHIMADA from WHITE JAM BEATZ
     <!-- end list -->
       -
 
@@ -53,8 +51,4 @@ trax公司发行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 外部链接
 
-[Category:東方神起歌曲](https://zh.wikipedia.org/wiki/Category:東方神起歌曲 "wikilink")
-[Category:2012年单曲](https://zh.wikipedia.org/wiki/Category:2012年单曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
-[Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink")
+[Category:東方神起歌曲](https://zh.wikipedia.org/wiki/Category:東方神起歌曲 "wikilink") [Category:2012年单曲](https://zh.wikipedia.org/wiki/Category:2012年单曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink") [Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink")

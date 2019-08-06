@@ -1,11 +1,8 @@
-**tvN**（**T**otal **V**ariety **N**etwork）是[CJ
-E\&M所拥有的](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[韩国综合娱乐频道](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")。
+**tvN**（**T**otal **V**ariety **N**etwork）是[CJ E\&M所拥有的](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[韩国综合娱乐频道](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")。
 
 ## 戲劇節目
 
-tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，包括於2012年首度製作[日日劇](https://zh.wikipedia.org/wiki/tvN晨間連續劇 "wikilink")《[黃色復仇草](../Page/黃色復仇草.md "wikilink")》便創下有線台有史以來最高收視；月火連續劇《[請回答1997](../Page/請回答1997.md "wikilink")》收視率最高達5%以上，引發人氣話題；2013年，《[請回答1994](../Page/請回答1994.md "wikilink")》打敗[JTBC](../Page/JTBC.md "wikilink")《[無子無憂](https://zh.wikipedia.org/wiki/無子無憂 "wikilink")》，創下有線電視自製電視劇最高收視。《花美男系列》之三部曲《[花美男拉麵店](../Page/花美男拉麵店.md "wikilink")》、《[閉嘴！花美男樂團](../Page/閉嘴！花美男樂團.md "wikilink")》、《[鄰家花美男](../Page/鄰家花美男.md "wikilink")》也得到許多關注。
-2015年，《[請回答1988](../Page/請回答1988.md "wikilink")》創下最高平均收視率(AGB全國)的記錄，打破《[請回答1994](../Page/請回答1994.md "wikilink")》於2013年創下的最高平均收視率**10.431%**(AGB全國)的紀錄，成為韓國有線電視台收視紀錄排名第1位。
-2017年，《[孤單又燦爛的神-鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》又以(AGB全國**不含廣告**)的平均收視率，打敗《[請回答1988](../Page/請回答1988.md "wikilink")》的**19.6%**(AGB全國**不含廣告**)成為韓國有線電視台收視紀錄排名第1位\[1\]。
+tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，包括於2012年首度製作[日日劇](https://zh.wikipedia.org/wiki/tvN晨間連續劇 "wikilink")《[黃色復仇草](../Page/黃色復仇草.md "wikilink")》便創下有線台有史以來最高收視；月火連續劇《[請回答1997](../Page/請回答1997.md "wikilink")》收視率最高達5%以上，引發人氣話題；2013年，《[請回答1994](../Page/請回答1994.md "wikilink")》打敗[JTBC](../Page/JTBC.md "wikilink")《[無子無憂](https://zh.wikipedia.org/wiki/無子無憂 "wikilink")》，創下有線電視自製電視劇最高收視。《花美男系列》之三部曲《[花美男拉麵店](../Page/花美男拉麵店.md "wikilink")》、《[閉嘴！花美男樂團](../Page/閉嘴！花美男樂團.md "wikilink")》、《[鄰家花美男](../Page/鄰家花美男.md "wikilink")》也得到許多關注。 2015年，《[請回答1988](../Page/請回答1988.md "wikilink")》創下最高平均收視率(AGB全國)的記錄，打破《[請回答1994](../Page/請回答1994.md "wikilink")》於2013年創下的最高平均收視率**10.431%**(AGB全國)的紀錄，成為韓國有線電視台收視紀錄排名第1位。 2017年，《[孤單又燦爛的神-鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》又以(AGB全國**不含廣告**)的平均收視率，打敗《[請回答1988](../Page/請回答1988.md "wikilink")》的**19.6%**(AGB全國**不含廣告**)成為韓國有線電視台收視紀錄排名第1位\[1\]。
 
 ### 最高收視率排行
 
@@ -137,20 +134,20 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><a href="../Page/金秘書為何那樣.md" title="wikilink">金秘書為何那樣</a></p></td>
-<td><p>16</p></td>
-<td><p>8.665%</p></td>
-<td><p>2018/07/11</p></td>
-<td><p>水木</p></td>
+<td><p><a href="../Page/德魯納酒店.md" title="wikilink">德魯納酒店</a></p></td>
+<td><p>6</p></td>
+<td><p>8.701%</p></td>
+<td><p>2019/07/28</p></td>
+<td><p>週末</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p><a href="../Page/德魯納酒店.md" title="wikilink">德魯納酒店</a></p></td>
-<td><p>3</p></td>
-<td><p>8.281%</p></td>
-<td><p>2019/07/20</p></td>
-<td><p>週末</p></td>
+<td><p><a href="../Page/金秘書為何那樣.md" title="wikilink">金秘書為何那樣</a></p></td>
+<td><p>11</p></td>
+<td><p>8.665%</p></td>
+<td><p>2018/07/11</p></td>
+<td><p>水木</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1182,7 +1179,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/姜食堂_(第三季)" title="wikilink">姜食堂3</a><br />
+<td><p><a href="../Page/姜食堂_(第三季).md" title="wikilink">姜食堂3</a><br />
 （新西遊記外傳）</p></td>
 <td><p>2019年7月5日</p></td>
 <td><p>播放中</p></td>
@@ -1663,21 +1660,21 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>競技節目</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/狗屎哲學館" title="wikilink">狗屎哲學館</a></p></td>
+<td><p><a href="../Page/狗屎哲學館.md" title="wikilink">狗屎哲學館</a></p></td>
 <td><p>2019年7月16日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>脫口秀節目</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/無論什麼friends" title="wikilink">無論什麼friends</a></p></td>
+<td><p><a href="../Page/無論什麼friends.md" title="wikilink">無論什麼friends</a></p></td>
 <td><p>2019年7月17日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/工作見面的關係" title="wikilink">工作見面的關係</a></p></td>
+<td><p><a href="../Page/工作見面的關係.md" title="wikilink">工作見面的關係</a></p></td>
 <td><p>2019年8月</p></td>
 <td></td>
 <td><p>1</p></td>
@@ -1885,7 +1882,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姜食堂_(第三季)" title="wikilink">姜食堂</a><br />
+<td><p><a href="../Page/姜食堂_(第三季).md" title="wikilink">姜食堂</a><br />
 第三季</p></td>
 <td><p>1</p></td>
 <td><p>7.470%</p></td>
@@ -1917,15 +1914,13 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 
 ## 相關條目
 
-  - [tvN
-    Asia](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")（本頻道之境外版本，針對亞洲地區進行廣播）
+  - [tvN Asia](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")（本頻道之境外版本，針對亞洲地區進行廣播）
 
   - （基於本頻道增設的另一生活娛樂頻道，2015年9月10日開播）
 
   - （基於本頻道增設的另一千禧一代的娛樂頻道，2018年1月26日開播）
 
-  - [tvN10
-    Awards](https://zh.wikipedia.org/wiki/tvN10_Awards "wikilink")（本頻道之電視節目頒獎禮）
+  - [tvN10 Awards](https://zh.wikipedia.org/wiki/tvN10_Awards "wikilink")（本頻道之電視節目頒獎禮）
 
 ## 參考資料
 
@@ -1947,8 +1942,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 
   -
 
-[Category:韓國電視台](https://zh.wikipedia.org/wiki/Category:韓國電視台 "wikilink")
-[Category:tvN](https://zh.wikipedia.org/wiki/Category:tvN "wikilink")
+[Category:韓國電視台](https://zh.wikipedia.org/wiki/Category:韓國電視台 "wikilink") [Category:tvN](https://zh.wikipedia.org/wiki/Category:tvN "wikilink")
 
 1.
 2.  節目組以拍攝地點分成兩季接續播出，第五季於第五集上半部完結，下半部起為第六季

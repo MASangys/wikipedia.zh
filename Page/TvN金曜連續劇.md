@@ -1,5 +1,4 @@
-**tvN金土連續劇**（），是[tvN電視台逢](https://zh.wikipedia.org/wiki/tvN "wikilink")[星期五](https://zh.wikipedia.org/wiki/星期五 "wikilink")、[星期六](../Page/星期六.md "wikilink")播映的電視劇。
-2017年6月3日結束之後廢除金土劇，改由週末劇取代。\[1\]\[2\]2018年9月7日改為金曜連續劇逢[星期五播出](https://zh.wikipedia.org/wiki/星期五 "wikilink")。\[3\]
+**tvN金土連續劇**（），是[tvN電視台逢](https://zh.wikipedia.org/wiki/tvN "wikilink")[星期五](https://zh.wikipedia.org/wiki/星期五 "wikilink")、[星期六](../Page/星期六.md "wikilink")播映的電視劇。 2017年6月3日結束之後廢除金土劇，改由週末劇取代。\[1\]\[2\]2018年9月7日改為金曜連續劇逢[星期五播出](https://zh.wikipedia.org/wiki/星期五 "wikilink")。\[3\]
 
 ## 播出時間更動表
 
@@ -644,10 +643,7 @@
 
 ## 外部連結
 
-[Category:tvN金土連續劇](https://zh.wikipedia.org/wiki/Category:tvN金土連續劇 "wikilink")
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:tvN金土連續劇](https://zh.wikipedia.org/wiki/Category:tvN金土連續劇 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
 
 1.
 2.

@@ -45,8 +45,7 @@
 | [森昌子](../Page/森昌子.md "wikilink")(13)                        | 愛傷歌                                               |
 |                                                             |                                                   |
 
-<small>
-演唱歌手後面的(括號)即代表登上[紅白歌合戰的次數](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")。</small>
+<small> 演唱歌手後面的(括號)即代表登上[紅白歌合戰的次數](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")。</small>
 
 ## 其他參予者
 
@@ -61,8 +60,7 @@
   - [山口洋子](../Page/山口洋子.md "wikilink")（作家・作詞家）
   - [吉田義男](https://zh.wikipedia.org/wiki/吉田義男 "wikilink")（[阪神虎](../Page/阪神虎.md "wikilink")監督）
   - [大地真央](../Page/大地真央.md "wikilink")（女演員）
-  - [北尾光司](https://zh.wikipedia.org/wiki/北尾光司 "wikilink")（[相撲](../Page/相撲.md "wikilink")選手
-    - 大關）
+  - [北尾光司](https://zh.wikipedia.org/wiki/北尾光司 "wikilink")（[相撲](../Page/相撲.md "wikilink")選手 - 大關）
   - [遠藤利男](https://zh.wikipedia.org/wiki/遠藤利男 "wikilink") (NHK番組制作局長)
 
 ## 收視率
@@ -82,7 +80,4 @@
 
   - [NHK紅白歌合戰](http://www.nhk.or.jp/kouhaku/)
 
-[Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink")
-[Category:1985年音樂](https://zh.wikipedia.org/wiki/Category:1985年音樂 "wikilink")
-[Category:1985年日本電視節目](https://zh.wikipedia.org/wiki/Category:1985年日本電視節目 "wikilink")
-[Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink")
+[Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink") [Category:1985年音樂](https://zh.wikipedia.org/wiki/Category:1985年音樂 "wikilink") [Category:1985年日本電視節目](https://zh.wikipedia.org/wiki/Category:1985年日本電視節目 "wikilink") [Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink")

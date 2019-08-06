@@ -1,8 +1,4 @@
-**Kindle
-Paperwhite**是一個[亞馬遜公司的](https://zh.wikipedia.org/wiki/Amazon.com "wikilink")[電子書閱讀器](https://zh.wikipedia.org/wiki/電子書閱讀器 "wikilink")\[1\]。
-[Kindle](../Page/Kindle.md "wikilink")
-Paperwhite最初於2012年9月6日亞馬遜所舉行的發布會上發布，包括了一個[Wi-Fi](../Page/Wi-Fi.md "wikilink")版本和一個[3G](../Page/3G.md "wikilink")版本。於2013年6月7日下午4時登陸中國地區。在亞馬遜、蘇寧易購和蘇寧網點開售\[2\]。
-Paperwhite使用了一塊6英寸的[E-Ink](https://zh.wikipedia.org/wiki/E-Ink "wikilink")（俗稱電子墨水）螢幕。同時，還使用了一種新型的閱讀燈來為Paperwhite提供照明。截止2019年1月，Paperwhite发布至Paperwhite4\[3\]。
+**Kindle Paperwhite**是一個[亞馬遜公司的](https://zh.wikipedia.org/wiki/Amazon.com "wikilink")[電子書閱讀器](https://zh.wikipedia.org/wiki/電子書閱讀器 "wikilink")\[1\]。 [Kindle](../Page/Kindle.md "wikilink") Paperwhite最初於2012年9月6日亞馬遜所舉行的發布會上發布，包括了一個[Wi-Fi](../Page/Wi-Fi.md "wikilink")版本和一個[3G](../Page/3G.md "wikilink")版本。於2013年6月7日下午4時登陸中國地區。在亞馬遜、蘇寧易購和蘇寧網點開售\[2\]。 Paperwhite使用了一塊6英寸的[E-Ink](https://zh.wikipedia.org/wiki/E-Ink "wikilink")（俗稱電子墨水）螢幕。同時，還使用了一種新型的閱讀燈來為Paperwhite提供照明。截止2019年1月，Paperwhite发布至Paperwhite4\[3\]。
 
 ## 设计
 
@@ -26,8 +22,7 @@ Paperwhite的屏幕不同于其他大部分[电子书阅读器](https://zh.wikip
 
 #### 显示
 
-Paperwhite的[PPI达到了](../Page/每英寸像素.md "wikilink")212，后续机型Paperwhite3和Paperwhite4的PPI为300。这意味着Paperwhite的屏幕中，每平方英寸就有212个像素。但是由于其本身采用了[电子墨水屏幕](https://zh.wikipedia.org/wiki/电子墨水 "wikilink")，导致其刷新率过慢。在使用过程中体现为屏幕点按后需要有一段时间（大约不到1秒）才可有反应。刷新率低也是Paperwhite被诟病的一点\[5\]
-。
+Paperwhite的[PPI达到了](../Page/每英寸像素.md "wikilink")212，后续机型Paperwhite3和Paperwhite4的PPI为300。这意味着Paperwhite的屏幕中，每平方英寸就有212个像素。但是由于其本身采用了[电子墨水屏幕](https://zh.wikipedia.org/wiki/电子墨水 "wikilink")，导致其刷新率过慢。在使用过程中体现为屏幕点按后需要有一段时间（大约不到1秒）才可有反应。刷新率低也是Paperwhite被诟病的一点\[5\] 。
 
 Paperwhite屏幕尺寸为6寸，机身厚度为9.1mm，较为小巧。但因为屏幕尺寸、渲染读取原因，Paperwhite对于扫描文档（PDF）的显示体验不佳。
 

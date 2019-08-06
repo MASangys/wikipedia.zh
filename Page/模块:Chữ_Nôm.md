@@ -34,9 +34,7 @@ p.han_cd_fonts = {
 
 }
 
-\---[Bản
-mẫu:Vi-nom](https://zh.wikipedia.org/wiki/Bản_mẫu:Vi-nom "wikilink")
-function p.applyHanFonts(text, size)
+\---[Bản mẫu:Vi-nom](https://zh.wikipedia.org/wiki/Bản_mẫu:Vi-nom "wikilink") function p.applyHanFonts(text, size)
 
 `   if type(text) == "table" then`
 `       text, size = text.args[1], text.args.size`

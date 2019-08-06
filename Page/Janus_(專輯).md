@@ -1,5 +1,4 @@
-《**Janus**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BOYFRIEND第](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")1枚正規韓語專輯，於2012年11月13日發行，主打歌曲為《Janus》。並在2013年1月14日推出重新包裝版專輯《I
-yah》\[1\]，主打歌則為《I yah》（）。
+《**Janus**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BOYFRIEND第](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")1枚正規韓語專輯，於2012年11月13日發行，主打歌曲為《Janus》。並在2013年1月14日推出重新包裝版專輯《I yah》\[1\]，主打歌則為《I yah》（）。
 
 ## 曲目
 
@@ -159,10 +158,7 @@ yah》\[1\]，主打歌則為《I yah》（）。
 
 ## 参考文献
 
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:Boyfriend音樂專輯](https://zh.wikipedia.org/wiki/Category:Boyfriend音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:Boyfriend音樂專輯](https://zh.wikipedia.org/wiki/Category:Boyfriend音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

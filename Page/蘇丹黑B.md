@@ -6,12 +6,8 @@
 
 ## 外部链接
 
-  - [Stains File](http://stainsfile.info/StainsFile/dyes/26150.htm)
-    entry
+  - [Stains File](http://stainsfile.info/StainsFile/dyes/26150.htm) entry
 
-[Category:偶氮染料](https://zh.wikipedia.org/wiki/Category:偶氮染料 "wikilink")
-[Category:含氮雜環](https://zh.wikipedia.org/wiki/Category:含氮雜環 "wikilink")
-[Category:染色着色劑](https://zh.wikipedia.org/wiki/Category:染色着色劑 "wikilink")
-[Category:法醫化學品](https://zh.wikipedia.org/wiki/Category:法醫化學品 "wikilink")
+[Category:偶氮染料](https://zh.wikipedia.org/wiki/Category:偶氮染料 "wikilink") [Category:含氮雜環](https://zh.wikipedia.org/wiki/Category:含氮雜環 "wikilink") [Category:染色着色劑](https://zh.wikipedia.org/wiki/Category:染色着色劑 "wikilink") [Category:法醫化學品](https://zh.wikipedia.org/wiki/Category:法醫化學品 "wikilink")
 
 1.

@@ -20,8 +20,7 @@
 
   - 人氣國語歌曲
       - 《桐花》 － [鍾欣潼](../Page/鍾欣潼.md "wikilink")
-      - 《你把我灌醉》 －
-        [G.E.M.](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")
+      - 《你把我灌醉》 － [G.E.M.](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")
       - 《愛的海洋》 － [曲婉婷](../Page/曲婉婷.md "wikilink")
 
 <!-- end list -->
@@ -35,8 +34,7 @@
 
   - 網上熱爆歌曲
       - 《負親》 － [小肥](../Page/小肥.md "wikilink")
-      - 《玫瑰的故事》 － [Gin
-        Lee](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink")
+      - 《玫瑰的故事》 － [Gin Lee](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink")
       - 《雙子情歌》 － [羅力威](../Page/羅力威.md "wikilink")
 
 <!-- end list -->
@@ -109,14 +107,12 @@
 <!-- end list -->
 
   - 人氣大碟
-      - 《[Cantopopsibility](../Page/Cantopopsibility.md "wikilink")》 －
-        [C AllStar](../Page/C_AllStar.md "wikilink")
+      - 《[Cantopopsibility](../Page/Cantopopsibility.md "wikilink")》 － [C AllStar](../Page/C_AllStar.md "wikilink")
 
 <!-- end list -->
 
   - 人氣演唱會
-      - 《G.E.M. 鄧紫棋XXX Live Concert 2013》 －
-        [G.E.M.](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")
+      - 《G.E.M. 鄧紫棋XXX Live Concert 2013》 － [G.E.M.](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")
 
 <!-- end list -->
 
@@ -178,8 +174,7 @@
 <!-- end list -->
 
   - 人氣微電影
-      - [愛在魅來1分鐘](https://zh.wikipedia.org/wiki/愛在魅來1分鐘 "wikilink") －
-        [林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
+      - [愛在魅來1分鐘](https://zh.wikipedia.org/wiki/愛在魅來1分鐘 "wikilink") － [林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")
 
 <!-- end list -->
 
@@ -263,8 +258,7 @@
 
 ## 參看
 
-  - [YAHOO
-    搜尋人氣大獎2013](https://web.archive.org/web/20141221204509/https://hk.promotions.yahoo.com/buzz2013/)
+  - [YAHOO 搜尋人氣大獎2013](https://web.archive.org/web/20141221204509/https://hk.promotions.yahoo.com/buzz2013/)
 
 ## 資料來源
 

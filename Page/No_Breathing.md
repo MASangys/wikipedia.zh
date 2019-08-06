@@ -1,8 +1,6 @@
-《**No
-Breathing**》（、），2013年上映的韓國青春運動電影，由[徐仁國](../Page/徐仁國.md "wikilink")、[李鍾碩](../Page/李鍾碩.md "wikilink")和[權俞利主演](https://zh.wikipedia.org/wiki/權俞利 "wikilink")，以韓國游泳選手[朴泰桓](../Page/朴泰桓.md "wikilink")為原型創作而成\[1\]。
+《**No Breathing**》（、），2013年上映的韓國青春運動電影，由[徐仁國](../Page/徐仁國.md "wikilink")、[李鍾碩](../Page/李鍾碩.md "wikilink")和[權俞利主演](https://zh.wikipedia.org/wiki/權俞利 "wikilink")，以韓國游泳選手[朴泰桓](../Page/朴泰桓.md "wikilink")為原型創作而成\[1\]。
 
-「-{No
-Breathing}-」是游泳專業術語，意指“屏住呼吸後游泳”，以游泳競技為背景，融合夢想、友情、親情等元素，展示為了更好的未來，暫時放慢奮鬥腳步的年輕人的熱情以及執著。
+「-{No Breathing}-」是游泳專業術語，意指“屏住呼吸後游泳”，以游泳競技為背景，融合夢想、友情、親情等元素，展示為了更好的未來，暫時放慢奮鬥腳步的年輕人的熱情以及執著。
 
 由《[朝韓夢之隊](../Page/朝韓夢之隊.md "wikilink")》、《[帕帕羅蒂](../Page/帕帕羅蒂.md "wikilink")》等電影的編劇[劉英雅](../Page/劉英雅.md "wikilink")創作，曾打造《[七級公務員](https://zh.wikipedia.org/wiki/七級公務員 "wikilink")》、《Chaw》等影片的製作社SUJAK擔任製片工作。\[2\]
 
@@ -103,16 +101,7 @@ Breathing}-」是游泳專業術語，意指“屏住呼吸後游泳”，以游
 
 ## 參考資料
 
-[Category:2013年電影](https://zh.wikipedia.org/wiki/Category:2013年電影 "wikilink")
-[Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
-[Category:韓國劇情片](https://zh.wikipedia.org/wiki/Category:韓國劇情片 "wikilink")
-[Category:青春電影](https://zh.wikipedia.org/wiki/Category:青春電影 "wikilink")
-[Category:運動片](https://zh.wikipedia.org/wiki/Category:運動片 "wikilink")
-[Category:游泳題材作品](https://zh.wikipedia.org/wiki/Category:游泳題材作品 "wikilink")
-[Category:勵志題材影片](https://zh.wikipedia.org/wiki/Category:勵志題材影片 "wikilink")
+[Category:2013年電影](https://zh.wikipedia.org/wiki/Category:2013年電影 "wikilink") [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink") [Category:韓國劇情片](https://zh.wikipedia.org/wiki/Category:韓國劇情片 "wikilink") [Category:青春電影](https://zh.wikipedia.org/wiki/Category:青春電影 "wikilink") [Category:運動片](https://zh.wikipedia.org/wiki/Category:運動片 "wikilink") [Category:游泳題材作品](https://zh.wikipedia.org/wiki/Category:游泳題材作品 "wikilink") [Category:勵志題材影片](https://zh.wikipedia.org/wiki/Category:勵志題材影片 "wikilink")
 
-1.  [朴泰桓，出席「No Breathing」VIP試映會
-    「以自己為原型創作的電影」](http://tw.starnnews.com/news/index.html?no=244617)
-    StarN
-2.  [《No Breathing》正式開機
-    李鍾碩、徐仁國、Yuri合作引關注](http://www.koreastardaily.com/tc/news/28203)
+1.  [朴泰桓，出席「No Breathing」VIP試映會 「以自己為原型創作的電影」](http://tw.starnnews.com/news/index.html?no=244617) StarN
+2.  [《No Breathing》正式開機 李鍾碩、徐仁國、Yuri合作引關注](http://www.koreastardaily.com/tc/news/28203)

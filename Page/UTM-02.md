@@ -26,14 +26,9 @@ UTM-02是[韩国的第](https://zh.wikipedia.org/wiki/韩国 "wikilink")5款[磁
 
 ## 外部链接
 
-  - [국립중앙과학관 자기부상열차
-    소개](http://www.science.go.kr/index.sko?menuCd=AA01008001000)
-  - [현대로템
-    자기부상열차](https://www.hyundai-rotem.co.kr/Business/Rail/Railroad/Product/rail_car05.asp)
+  - [국립중앙과학관 자기부상열차 소개](http://www.science.go.kr/index.sko?menuCd=AA01008001000)
+  - [현대로템 자기부상열차](https://www.hyundai-rotem.co.kr/Business/Rail/Railroad/Product/rail_car05.asp)
 
-[Category:韩国电力动车组](https://zh.wikipedia.org/wiki/Category:韩国电力动车组 "wikilink")
-[Category:磁懸浮列車](https://zh.wikipedia.org/wiki/Category:磁懸浮列車 "wikilink")
-[Category:1500伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:1500伏直流电力动车组 "wikilink")
+[Category:韩国电力动车组](https://zh.wikipedia.org/wiki/Category:韩国电力动车组 "wikilink") [Category:磁懸浮列車](https://zh.wikipedia.org/wiki/Category:磁懸浮列車 "wikilink") [Category:1500伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:1500伏直流电力动车组 "wikilink")
 
-1.  [韩国磁悬浮列车发展](http://www.chinametro.net/Content/DisplayArticle.aspx?ID=2520)
-     中国城市轨道交通网 2007-3-13
+1.  [韩国磁悬浮列车发展](http://www.chinametro.net/Content/DisplayArticle.aspx?ID=2520)  中国城市轨道交通网 2007-3-13

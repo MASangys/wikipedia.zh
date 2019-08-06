@@ -1,22 +1,9 @@
-| defunct = | location =
-[美国](../Page/美国.md "wikilink")[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[曼哈顿](https://zh.wikipedia.org/wiki/曼哈顿 "wikilink")
-| area_served = [美国](../Page/美国.md "wikilink") | key_people =  |
-industry = [大众传媒](https://zh.wikipedia.org/wiki/大众传媒 "wikilink") |
-products =
-[电影](../Page/电影.md "wikilink")、[电视](../Page/电视.md "wikilink")、[广播](https://zh.wikipedia.org/wiki/广播 "wikilink")、[有线电视](../Page/有线电视.md "wikilink")
-[唱片](https://zh.wikipedia.org/wiki/音乐产业 "wikilink")、[出版](https://zh.wikipedia.org/wiki/出版 "wikilink")、[互联网](../Page/互联网.md "wikilink")
-| revenue = 138.8亿美元<small>（2015年）</small>\[1\] | operating_income =
-24.17亿美元<small>（2015年）</small>\[2\] | net_income =
-14.13亿美元<small>（2015年）</small>\[3\] | assets =
-237.6亿美元<small>（2015年）</small>\[4\] | equity =
-55.63亿美元<small>（2015年）</small>\[5\] | owner =
-[全美娱乐公司](https://zh.wikipedia.org/wiki/全美娱乐公司 "wikilink")<small>（占股80%）</small>
-| divisions =  | subsid =  | homepage =  }}
+| defunct = | location = [美国](../Page/美国.md "wikilink")[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[曼哈顿](https://zh.wikipedia.org/wiki/曼哈顿 "wikilink") | area_served = [美国](../Page/美国.md "wikilink") | key_people =  | industry = [大众传媒](https://zh.wikipedia.org/wiki/大众传媒 "wikilink") | products = [电影](../Page/电影.md "wikilink")、[电视](../Page/电视.md "wikilink")、[广播](https://zh.wikipedia.org/wiki/广播 "wikilink")、[有线电视](../Page/有线电视.md "wikilink")
+[唱片](https://zh.wikipedia.org/wiki/音乐产业 "wikilink")、[出版](https://zh.wikipedia.org/wiki/出版 "wikilink")、[互联网](../Page/互联网.md "wikilink") | revenue = 138.8亿美元<small>（2015年）</small>\[1\] | operating_income = 24.17亿美元<small>（2015年）</small>\[2\] | net_income = 14.13亿美元<small>（2015年）</small>\[3\] | assets = 237.6亿美元<small>（2015年）</small>\[4\] | equity = 55.63亿美元<small>（2015年）</small>\[5\] | owner = [全美娱乐公司](https://zh.wikipedia.org/wiki/全美娱乐公司 "wikilink")<small>（占股80%）</small> | divisions =  | subsid =  | homepage =  }}
 
 **CBS公司**（）是[美国](../Page/美国.md "wikilink")一家[大众传媒公司](https://zh.wikipedia.org/wiki/大众传媒 "wikilink")，其专注于[商业广播](https://zh.wikipedia.org/wiki/商业广播 "wikilink")、[出版和](https://zh.wikipedia.org/wiki/出版 "wikilink")[电视](../Page/电视.md "wikilink")制作，主要业务在美国。公司执行董事长、总裁兼CEO是；控股母公司是[全美娱乐公司](https://zh.wikipedia.org/wiki/全美娱乐公司 "wikilink")，[萨莫·雷石东](../Page/萨莫·雷石东.md "wikilink")为本公司的大股东兼名誉董事长。公司于2006年1月3日在美国[纽约证交所上市](https://zh.wikipedia.org/wiki/纽约证交所 "wikilink")，原名为。
 
-维亚康姆在分拆之后，成立了一家新公司保留维亚康姆这个名字，而另一家分拆出来的公司就是CBS公司。CBS公司是维亚康姆在法律上的正式继承人。\[6\]
-CBS电视公司继承了原维亚康姆公司的[地面电视业务](https://zh.wikipedia.org/wiki/地面电视 "wikilink")（[CBS电视网](../Page/CBS_\(電視網\).md "wikilink")、[CW电视网](https://zh.wikipedia.org/wiki/CW电视网 "wikilink")）、[广播电台业务](https://zh.wikipedia.org/wiki/广播电台 "wikilink")、电视制作与发行业务、出版业务、[付费有线电视业务](../Page/付费电视.md "wikilink")、[基础有线电视业务](../Page/有线电视.md "wikilink")（）、[唱片业务等](https://zh.wikipedia.org/wiki/音乐产业 "wikilink")。CBS公司总部位于[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[曼哈顿的](https://zh.wikipedia.org/wiki/曼哈顿 "wikilink")（又名“黑石大厦”）。\[7\]
+维亚康姆在分拆之后，成立了一家新公司保留维亚康姆这个名字，而另一家分拆出来的公司就是CBS公司。CBS公司是维亚康姆在法律上的正式继承人。\[6\] CBS电视公司继承了原维亚康姆公司的[地面电视业务](https://zh.wikipedia.org/wiki/地面电视 "wikilink")（[CBS电视网](../Page/CBS_\(電視網\).md "wikilink")、[CW电视网](https://zh.wikipedia.org/wiki/CW电视网 "wikilink")）、[广播电台业务](https://zh.wikipedia.org/wiki/广播电台 "wikilink")、电视制作与发行业务、出版业务、[付费有线电视业务](../Page/付费电视.md "wikilink")、[基础有线电视业务](../Page/有线电视.md "wikilink")（）、[唱片业务等](https://zh.wikipedia.org/wiki/音乐产业 "wikilink")。CBS公司总部位于[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[曼哈顿的](https://zh.wikipedia.org/wiki/曼哈顿 "wikilink")（又名“黑石大厦”）。\[7\]
 
 ## 公司背景
 
@@ -24,13 +11,11 @@ CBS电视公司继承了原维亚康姆公司的[地面电视业务](https://zh.
 
 ## 公司历史
 
-[Viacom-old.svg](https://zh.wikipedia.org/wiki/File:Viacom-old.svg "fig:Viacom-old.svg")
-[The_CW.svg](https://zh.wikipedia.org/wiki/File:The_CW.svg "fig:The_CW.svg")标志。\]\]
+[Viacom-old.svg](https://zh.wikipedia.org/wiki/File:Viacom-old.svg "fig:Viacom-old.svg") [The_CW.svg](https://zh.wikipedia.org/wiki/File:The_CW.svg "fig:The_CW.svg")标志。\]\]
 
 ### 2005年
 
-2005年3月，维亚康姆集团宣布计划将公司分拆成两个独立上市公司，以解决公司股票上涨停滞的问题。6月14日，公司董事会宣布正式将维亚康姆集团分拆为两家公司。\[8\]
-其中一家公司将恢复使用CBS这个标志，同时交由长期从事电视部门管理的联席总裁管理。这家新公司的资产包括[CBS电视网](../Page/CBS_\(電視網\).md "wikilink")、[联合派拉蒙电视网](https://zh.wikipedia.org/wiki/联合派拉蒙电视网 "wikilink")、无限广播公司、CBS户外、[Showtime电视网和派拉蒙的电视制片厂](https://zh.wikipedia.org/wiki/Showtime电视网 "wikilink")。
+2005年3月，维亚康姆集团宣布计划将公司分拆成两个独立上市公司，以解决公司股票上涨停滞的问题。6月14日，公司董事会宣布正式将维亚康姆集团分拆为两家公司。\[8\] 其中一家公司将恢复使用CBS这个标志，同时交由长期从事电视部门管理的联席总裁管理。这家新公司的资产包括[CBS电视网](../Page/CBS_\(電視網\).md "wikilink")、[联合派拉蒙电视网](https://zh.wikipedia.org/wiki/联合派拉蒙电视网 "wikilink")、无限广播公司、CBS户外、[Showtime电视网和派拉蒙的电视制片厂](https://zh.wikipedia.org/wiki/Showtime电视网 "wikilink")。
 
 这次分拆使得新维亚康姆集团从老维亚康姆集团中剥离出来，并使原公司改名为CBS公司。这次分拆可以看做是1971年分拆的重复，但是CBS公司却保留了原公司几乎所有的电视业务之外，还获得其他一些辛迪加公司。
 
@@ -60,8 +45,7 @@ CBS电视公司继承了原维亚康姆公司的[地面电视业务](https://zh.
 
 <!-- end list -->
 
-  - 2月13日，据媒体报道，CBS公司以约2.34亿美元向出售了位于[威斯康辛州](../Page/威斯康辛州.md "wikilink")[绿湾的电视台站](https://zh.wikipedia.org/wiki/绿湾_\(威斯康辛州\) "wikilink")和位于[密歇根州](../Page/密歇根州.md "wikilink")的卫星台站。\[13\]
-    据悉，CBS公司打算以这些台站折价后连同1.7亿美元的现金向自由传媒公司置换其所持有的7,510万普通股。
+  - 2月13日，据媒体报道，CBS公司以约2.34亿美元向出售了位于[威斯康辛州](../Page/威斯康辛州.md "wikilink")[绿湾的电视台站](https://zh.wikipedia.org/wiki/绿湾_\(威斯康辛州\) "wikilink")和位于[密歇根州](../Page/密歇根州.md "wikilink")的卫星台站。\[13\] 据悉，CBS公司打算以这些台站折价后连同1.7亿美元的现金向自由传媒公司置换其所持有的7,510万普通股。
 
 <!-- end list -->
 
@@ -148,8 +132,7 @@ CBS电视公司继承了原维亚康姆公司的[地面电视业务](https://zh.
 
 ## 相关条目
 
-  - [维亚康姆
-    (1971–2005)](https://zh.wikipedia.org/wiki/维亚康姆_\(1971–2005\) "wikilink")：2005年之前的CBS公司。
+  - [维亚康姆 (1971–2005)](https://zh.wikipedia.org/wiki/维亚康姆_\(1971–2005\) "wikilink")：2005年之前的CBS公司。
 
   - [CBS公司 (1997)](../Page/西屋公司.md "wikilink")：一家老公司，被原维亚康姆在1999年收购。
 
@@ -171,14 +154,7 @@ CBS电视公司继承了原维亚康姆公司的[地面电视业务](https://zh.
 
   - [CBS公司官网](http://www.cbscorporation.com/)
 
-[Category:CBS公司](https://zh.wikipedia.org/wiki/Category:CBS公司 "wikilink")
-[Category:美國電視台](https://zh.wikipedia.org/wiki/Category:美國電視台 "wikilink")
-[Category:美国传媒公司](https://zh.wikipedia.org/wiki/Category:美国传媒公司 "wikilink")
-[Category:美国娱乐公司](https://zh.wikipedia.org/wiki/Category:美国娱乐公司 "wikilink")
-[Category:紐約市媒體公司](https://zh.wikipedia.org/wiki/Category:紐約市媒體公司 "wikilink")
-[Category:1971年成立的公司](https://zh.wikipedia.org/wiki/Category:1971年成立的公司 "wikilink")
-[Category:总部位于纽约市的公司](https://zh.wikipedia.org/wiki/Category:总部位于纽约市的公司 "wikilink")
-[Category:標準普爾500指數成分股](https://zh.wikipedia.org/wiki/Category:標準普爾500指數成分股 "wikilink")
+[Category:CBS公司](https://zh.wikipedia.org/wiki/Category:CBS公司 "wikilink") [Category:美國電視台](https://zh.wikipedia.org/wiki/Category:美國電視台 "wikilink") [Category:美国传媒公司](https://zh.wikipedia.org/wiki/Category:美国传媒公司 "wikilink") [Category:美国娱乐公司](https://zh.wikipedia.org/wiki/Category:美国娱乐公司 "wikilink") [Category:紐約市媒體公司](https://zh.wikipedia.org/wiki/Category:紐約市媒體公司 "wikilink") [Category:1971年成立的公司](https://zh.wikipedia.org/wiki/Category:1971年成立的公司 "wikilink") [Category:总部位于纽约市的公司](https://zh.wikipedia.org/wiki/Category:总部位于纽约市的公司 "wikilink") [Category:標準普爾500指數成分股](https://zh.wikipedia.org/wiki/Category:標準普爾500指數成分股 "wikilink")
 
 1.
 
@@ -188,9 +164,7 @@ CBS电视公司继承了原维亚康姆公司的[地面电视业务](https://zh.
 5.
 6.
 
-7.  "[Contact
-    Info](http://www.cbscorporation.com/contact_info/index.php) ." CBS
-    Corporation. 2009-11-03查阅.
+7.  "[Contact Info](http://www.cbscorporation.com/contact_info/index.php) ." CBS Corporation. 2009-11-03查阅.
 
 8.
 
@@ -210,31 +184,19 @@ CBS电视公司继承了原维亚康姆公司的[地面电视业务](https://zh.
 
 16.
 
-17. [Music site Last.fm bought by
-    CBS](http://news.bbc.co.uk/1/hi/technology/6701863.stm), *BBC*,
-    2007-05-30
+17. [Music site Last.fm bought by CBS](http://news.bbc.co.uk/1/hi/technology/6701863.stm), *BBC*, 2007-05-30
 
-18. [CBS Corporation to acquire CNET Networks,
-    inc.](http://www.cbscorporation.com/news/prdetails.php?id=3263) ,
-    *CBS Press Release*, 2008-05-15
+18. [CBS Corporation to acquire CNET Networks, inc.](http://www.cbscorporation.com/news/prdetails.php?id=3263) , *CBS Press Release*, 2008-05-15
 
 19.
 
 20.
 
-21. Andreeva, Nellie. ["CBS Poised To Buy Half Of TV Guide, Partner With
-    Lionsgate."](http://www.deadline.com/2013/03/cbs-acquiring-tv-guide-partner-with-lionsgate/)
-    *[Deadline.com](../Page/Deadline.com.md "wikilink")* (2013-03-22)
+21. Andreeva, Nellie. ["CBS Poised To Buy Half Of TV Guide, Partner With Lionsgate."](http://www.deadline.com/2013/03/cbs-acquiring-tv-guide-partner-with-lionsgate/) *[Deadline.com](../Page/Deadline.com.md "wikilink")* (2013-03-22)
 
-22. Andreeva, Nellie. ["It’s Official: CBS Acquires Half Of TV Guide,
-    Partners With
-    Lionsgate."](http://www.deadline.com/2013/03/its-official-cbs-acquires-half-of-tv-guide-partners-with-lionsgate/)
-    *[Deadline.com](../Page/Deadline.com.md "wikilink")* (2013-03-26)
+22. Andreeva, Nellie. ["It’s Official: CBS Acquires Half Of TV Guide, Partners With Lionsgate."](http://www.deadline.com/2013/03/its-official-cbs-acquires-half-of-tv-guide-partners-with-lionsgate/) *[Deadline.com](../Page/Deadline.com.md "wikilink")* (2013-03-26)
 
-23. Andreeva, Nellie. ["It’s Official: CBS Takes Full Control Of
-    TVGuide.Com, Acquiring
-    Lionsgate’s 50%."](http://www.deadline.com/2013/05/its-official-cbs-takes-full-control-of-tvguide-com-acquiring-lionsgate%E2%80%99s-50/)
-    *[Deadline.com](../Page/Deadline.com.md "wikilink")* (2013-05-31)
+23. Andreeva, Nellie. ["It’s Official: CBS Takes Full Control Of TVGuide.Com, Acquiring Lionsgate’s 50%."](http://www.deadline.com/2013/05/its-official-cbs-takes-full-control-of-tvguide-com-acquiring-lionsgate%E2%80%99s-50/) *[Deadline.com](../Page/Deadline.com.md "wikilink")* (2013-05-31)
 
 24.
 

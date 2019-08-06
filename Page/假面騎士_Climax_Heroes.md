@@ -1,15 +1,10 @@
-，是由[Eighting公司開發](https://zh.wikipedia.org/wiki/Eighting "wikilink")，[NAMCO
-BANDAI
-Games推出](https://zh.wikipedia.org/wiki/NAMCO_BANDAI_Games "wikilink")，以[特攝片](../Page/特攝片.md "wikilink")『[假面騎士系列](../Page/假面騎士系列.md "wikilink")』為主的格鬥遊戲系列。
+，是由[Eighting公司開發](https://zh.wikipedia.org/wiki/Eighting "wikilink")，[NAMCO BANDAI Games推出](https://zh.wikipedia.org/wiki/NAMCO_BANDAI_Games "wikilink")，以[特攝片](../Page/特攝片.md "wikilink")『[假面騎士系列](../Page/假面騎士系列.md "wikilink")』為主的格鬥遊戲系列。
 
-在本系列推出以前，假面騎士系列的[電子遊戲都是以再現劇中各畫面為基本的](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，不過為了乎合平成假面騎士10週年作品『[假面騎士DECADE](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")』的故事內容，於是在2009年開發了集結了從『[假面騎士空我](../Page/假面騎士空我.md "wikilink")』到『[假面騎士DECADE](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")』的十作平成假面騎士作品的[跨界作品](../Page/跨界作品.md "wikilink")遊戲：『**假面騎士
-Climax Heroes**』。
+在本系列推出以前，假面騎士系列的[電子遊戲都是以再現劇中各畫面為基本的](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，不過為了乎合平成假面騎士10週年作品『[假面騎士DECADE](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")』的故事內容，於是在2009年開發了集結了從『[假面騎士空我](../Page/假面騎士空我.md "wikilink")』到『[假面騎士DECADE](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")』的十作平成假面騎士作品的[跨界作品](../Page/跨界作品.md "wikilink")遊戲：『**假面騎士 Climax Heroes**』。
 
-本系列也是繼2006年的『**[假面騎士KABUTO](https://zh.wikipedia.org/wiki/假面騎士KABUTO "wikilink")**』後時隔三年推出的電子遊戲作品，而且自2007年的『**[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")**』開始的作品也首次的遊戲化。同年末加上『**[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")**』的『**假面騎士
-Climax Heroes W**』推出後，每年以加入新角色的形式來進行系列化。
+本系列也是繼2006年的『**[假面騎士KABUTO](https://zh.wikipedia.org/wiki/假面騎士KABUTO "wikilink")**』後時隔三年推出的電子遊戲作品，而且自2007年的『**[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")**』開始的作品也首次的遊戲化。同年末加上『**[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")**』的『**假面騎士 Climax Heroes W**』推出後，每年以加入新角色的形式來進行系列化。
 
-本系列是使用多邊形的3D對戰型格鬥遊戲，前四作角色移動系統都與[鐵拳系列般只左右平行移動](../Page/铁拳系列.md "wikilink")、向上跳躍和橫向移動。但在『**假面騎士
-超 Climax Heroes**』則開始改成跟[魂之系列](../Page/魂之系列.md "wikilink")系列般能在場地自由移動。
+本系列是使用多邊形的3D對戰型格鬥遊戲，前四作角色移動系統都與[鐵拳系列般只左右平行移動](../Page/铁拳系列.md "wikilink")、向上跳躍和橫向移動。但在『**假面騎士 超 Climax Heroes**』則開始改成跟[魂之系列](../Page/魂之系列.md "wikilink")系列般能在場地自由移動。
 
 配音方面，除了部份用上原演員的配音外，大部份都是由遊戲本身的[聲優](../Page/聲優.md "wikilink")進行配音，不過，在『超』中將盡可能收錄原演員的配音。
 
@@ -138,8 +133,7 @@ Rider Gauge槽滿額後能使用角色的特殊能力和超必殺技。</p></td>
 </tbody>
 </table>
 
-  - \*另外，Climax
-    Heroes系列故事的舞台並不是Decade本篇中那個曾進行過再構成的平成騎士世界，而是以該騎士原著本身相近的世界\[1\]。
+  - \*另外，Climax Heroes系列故事的舞台並不是Decade本篇中那個曾進行過再構成的平成騎士世界，而是以該騎士原著本身相近的世界\[1\]。
     \*但是這都只是在開始前旁白中說明，所以騎士以外的角色都不會登場。
 
 ### 其他模式
@@ -273,8 +267,7 @@ Rider Gauge框架顏色為紫色。</p></td>
 <!-- end list -->
 
   -
-    作詞・作曲：[LindaAI-CUE](https://zh.wikipedia.org/wiki/石川哲彦 "wikilink")\[4\]/
-    歌：[古谷徹](../Page/古谷徹.md "wikilink")
+    作詞・作曲：[LindaAI-CUE](https://zh.wikipedia.org/wiki/石川哲彦 "wikilink")\[4\]/ 歌：[古谷徹](../Page/古谷徹.md "wikilink")
 
 ### 『OOO』
 
@@ -292,8 +285,7 @@ Rider Gauge框架顏色為紫色。</p></td>
 <!-- end list -->
 
   -
-    作詞：藤林聖子 / 作曲：TAKUYA / 編曲：飯塚啓介、TAKUYA / 歌：Astronauts
-    feat.SHINA（Vocal.[椎名慶治](https://zh.wikipedia.org/wiki/椎名慶治 "wikilink")）\[7\]
+    作詞：藤林聖子 / 作曲：TAKUYA / 編曲：飯塚啓介、TAKUYA / 歌：Astronauts feat.SHINA（Vocal.[椎名慶治](https://zh.wikipedia.org/wiki/椎名慶治 "wikilink")）\[7\]
 
 ### 『超』
 
@@ -302,11 +294,7 @@ Rider Gauge框架顏色為紫色。</p></td>
 <!-- end list -->
 
   -
-    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") /
-    作曲：[Ryo](https://zh.wikipedia.org/wiki/Ryo "wikilink") /
-    編曲：[RIDER
-    CHIPS](https://zh.wikipedia.org/wiki/RIDER_CHIPS "wikilink")・Ryo /
-    歌：G\&C MUSIC MAGIC
+    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲：[Ryo](https://zh.wikipedia.org/wiki/Ryo "wikilink") / 編曲：[RIDER CHIPS](https://zh.wikipedia.org/wiki/RIDER_CHIPS "wikilink")・Ryo / 歌：G\&C MUSIC MAGIC
 
 ## 註釋
 
@@ -318,17 +306,10 @@ Rider Gauge框架顏色為紫色。</p></td>
 
 ## 外部連結
 
-  - [假面騎士 Climax Heroes
-    系列官方網站](http://www.bandaigames.channel.or.jp/list/climax_heroes/)
+  - [假面騎士 Climax Heroes 系列官方網站](http://www.bandaigames.channel.or.jp/list/climax_heroes/)
   - [開發團隊Blog](http://www.bandaigames.channel.or.jp/list/ganbaride/blog/)
 
-[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink")
-[Category:石之森章太郎](https://zh.wikipedia.org/wiki/Category:石之森章太郎 "wikilink")
-[Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink")
-[Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink")
+[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink") [Category:石之森章太郎](https://zh.wikipedia.org/wiki/Category:石之森章太郎 "wikilink") [Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink") [Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink")
 
 1.  如遊戲中假面騎士空我的變身者是原著的五代雄介而不是Decade本篇的小野寺雄介。
 

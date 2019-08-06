@@ -2,12 +2,9 @@
 
 ## 參考資料
 
-[Category:字型](https://zh.wikipedia.org/wiki/Category:字型 "wikilink")
-[Category:红帽公司](https://zh.wikipedia.org/wiki/Category:红帽公司 "wikilink")
+[Category:字型](https://zh.wikipedia.org/wiki/Category:字型 "wikilink") [Category:红帽公司](https://zh.wikipedia.org/wiki/Category:红帽公司 "wikilink")
 
 1.
 2.
 3.
-4.  [*Wikimedia Foundation
-    Report*](https://zh.wikipedia.org/wiki/:meta:Wikimedia_Foundation_Report,_March_2012 "wikilink"),
-    March 2012
+4.  [*Wikimedia Foundation Report*](https://zh.wikipedia.org/wiki/:meta:Wikimedia_Foundation_Report,_March_2012 "wikilink"), March 2012

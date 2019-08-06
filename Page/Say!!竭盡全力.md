@@ -52,12 +52,10 @@
 
 ## 外部連結
 
-  - [Warner Music
-    Japan](https://web.archive.org/web/20121225022425/http://wmg.jp/artist/onoerena/WPCL000011253.html)
+  - [Warner Music Japan](https://web.archive.org/web/20121225022425/http://wmg.jp/artist/onoerena/WPCL000011253.html)
 
   -
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink")
+[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink")
 
 1.  [元AKB48小野恵令奈、“精一杯”頑張っている人を応援　3rdシングル発売決定！2012.11.12](http://headlines.yahoo.co.jp/hl?a=20121112-00000059-flix-movi)
 2.  [「小野恵令奈、3rdシングル12月26日(水)リリース決定！」](https://finn-asp.jp/user.cgi?articleid=13669&actmode=NewsArticleList&fanclub_id=22#article_13669)

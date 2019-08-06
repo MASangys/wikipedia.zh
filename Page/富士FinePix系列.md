@@ -21,8 +21,7 @@ FinePix旗下产品具体也分为不同系列
 | XP  | 具备防水、防震、防冻、防尘特性的全天候机型 |
 | 3D  | 具备拍摄3D画面功能的机型         |
 
-2010年产品[X100也属于FinePix产品](https://zh.wikipedia.org/wiki/富士胶片_FinePix_X100 "wikilink")\[1\]，但是后期则被归并到**X
-Premium Compact**中。
+2010年产品[X100也属于FinePix产品](https://zh.wikipedia.org/wiki/富士胶片_FinePix_X100 "wikilink")\[1\]，但是后期则被归并到**X Premium Compact**中。
 
 ### 停产机型
 
@@ -32,11 +31,9 @@ Premium Compact**中。
       - 富士胶片 FinePix S3 Pro，2004年
       - 富士胶片 FinePix S3 Pro UVIR，2006年（红外拍摄机型）
       - 富士胶片 FinePix S5 Pro，2006年
-      - 富士胶片 FinePix IS Pro，2007年（以S5
-        Pro为基础的红外机型，能够捕捉波长为350-1000nm之间的红外线）
+      - 富士胶片 FinePix IS Pro，2007年（以S5 Pro为基础的红外机型，能够捕捉波长为350-1000nm之间的红外线）
 
-该系列单反相机采用尼康机身作为基础，使用[尼康F卡口](https://zh.wikipedia.org/wiki/尼康F卡口 "wikilink")，机身传感器使用[Super
-CCD](https://zh.wikipedia.org/wiki/Super_CCD "wikilink")
+该系列单反相机采用尼康机身作为基础，使用[尼康F卡口](https://zh.wikipedia.org/wiki/尼康F卡口 "wikilink")，机身传感器使用[Super CCD](https://zh.wikipedia.org/wiki/Super_CCD "wikilink")
 
   - 普通数码相机
       - E系列，2003～2004年，E500、E510、E550
@@ -57,22 +54,16 @@ CCD](https://zh.wikipedia.org/wiki/Super_CCD "wikilink")
 <!-- end list -->
 
   - 其他厂家对应系列
-      - [佳能
-        PowerShot](https://zh.wikipedia.org/wiki/佳能_PowerShot "wikilink")
+      - [佳能 PowerShot](https://zh.wikipedia.org/wiki/佳能_PowerShot "wikilink")
       - [美能达 DiMAGE](https://zh.wikipedia.org/wiki/DiMAGE "wikilink")
       - [尼康Coolpix](https://zh.wikipedia.org/wiki/尼康Coolpix系列 "wikilink")
-      - [索尼
-        Cyber-shot](https://zh.wikipedia.org/wiki/Cyber-shot "wikilink")
+      - [索尼 Cyber-shot](https://zh.wikipedia.org/wiki/Cyber-shot "wikilink")
       - [松下 Lumix](https://zh.wikipedia.org/wiki/Lumix "wikilink")
 
 ## 外部链接
 
-  - [FinePix
-    系列](http://www.fujifilm.com.cn/products/digital_cameras/finepix/)
-    Fujifilm 中国
+  - [FinePix 系列](http://www.fujifilm.com.cn/products/digital_cameras/finepix/) Fujifilm 中国
 
 [Category:富士數位相機](https://zh.wikipedia.org/wiki/Category:富士數位相機 "wikilink")
 
-1.  [Fujifilm FinePix
-    X100](http://www.dpreview.com/products/fujifilm/compacts/fujifilm_x100)
-    DPReview
+1.  [Fujifilm FinePix X100](http://www.dpreview.com/products/fujifilm/compacts/fujifilm_x100) DPReview

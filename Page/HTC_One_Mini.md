@@ -1,6 +1,4 @@
-**HTC One
-Mini**是[臺灣](../Page/臺灣.md "wikilink")手機公司[HTC開發的中階](https://zh.wikipedia.org/wiki/HTC "wikilink")[智慧手機](https://zh.wikipedia.org/wiki/智慧手機 "wikilink")。搭載[Android](../Page/Android.md "wikilink")作業系統、[HTC
-Sense使用者介面](../Page/HTC_Sense.md "wikilink")，[宏達電花](https://zh.wikipedia.org/wiki/宏達電 "wikilink")1200萬美金(3.6億新台幣)請明星[小勞勃道尼來做宣傳](https://zh.wikipedia.org/wiki/小勞勃道尼 "wikilink")。
+**HTC One Mini**是[臺灣](../Page/臺灣.md "wikilink")手機公司[HTC開發的中階](https://zh.wikipedia.org/wiki/HTC "wikilink")[智慧手機](https://zh.wikipedia.org/wiki/智慧手機 "wikilink")。搭載[Android](../Page/Android.md "wikilink")作業系統、[HTC Sense使用者介面](../Page/HTC_Sense.md "wikilink")，[宏達電花](https://zh.wikipedia.org/wiki/宏達電 "wikilink")1200萬美金(3.6億新台幣)請明星[小勞勃道尼來做宣傳](https://zh.wikipedia.org/wiki/小勞勃道尼 "wikilink")。
 
 ## 更新
 
@@ -93,13 +91,9 @@ Sense使用者介面](../Page/HTC_Sense.md "wikilink")，[宏達電花](https://
 ## 参见
 
   - [HTC One](https://zh.wikipedia.org/wiki/HTC_One_\(手机\) "wikilink")
-  - [HTC One
-    系列](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")
+  - [HTC One 系列](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")
   - [宏达国际电子手机列表](https://zh.wikipedia.org/wiki/宏达国际电子手机列表 "wikilink")
 
 ## 参考资料
 
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
+[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")

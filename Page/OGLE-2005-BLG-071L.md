@@ -18,10 +18,7 @@ or 2.1 ± 0.1 | eccentricity = }}
 ## 外部連結
 
   -
-[Category:紅矮星](https://zh.wikipedia.org/wiki/Category:紅矮星 "wikilink")
-[Category:天蠍座](https://zh.wikipedia.org/wiki/Category:天蠍座 "wikilink")
-[Category:行星系](https://zh.wikipedia.org/wiki/Category:行星系 "wikilink")
-[Category:重力透鏡](https://zh.wikipedia.org/wiki/Category:重力透鏡 "wikilink")
+[Category:紅矮星](https://zh.wikipedia.org/wiki/Category:紅矮星 "wikilink") [Category:天蠍座](https://zh.wikipedia.org/wiki/Category:天蠍座 "wikilink") [Category:行星系](https://zh.wikipedia.org/wiki/Category:行星系 "wikilink") [Category:重力透鏡](https://zh.wikipedia.org/wiki/Category:重力透鏡 "wikilink")
 
 1.
 2.

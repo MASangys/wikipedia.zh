@@ -1,5 +1,4 @@
-《**By
-Heart**》是[香港](../Page/香港.md "wikilink")歌手[陳慧嫻](../Page/陳慧嫻.md "wikilink")第十七張粵語專輯，是她在2013年重返[寶麗金](../Page/寶麗金.md "wikilink")（[環球唱片旗下](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")）後第一張發行的唱片，於2013年11月開始灌錄。香港唱片商會銷量榜連續五星期冠軍。
+《**By Heart**》是[香港](../Page/香港.md "wikilink")歌手[陳慧嫻](../Page/陳慧嫻.md "wikilink")第十七張粵語專輯，是她在2013年重返[寶麗金](../Page/寶麗金.md "wikilink")（[環球唱片旗下](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")）後第一張發行的唱片，於2013年11月開始灌錄。香港唱片商會銷量榜連續五星期冠軍。
 
 ## 簡介
 
@@ -23,15 +22,12 @@ Heart**》是[香港](../Page/香港.md "wikilink")歌手[陳慧嫻](../Page/陳
 | 香港 唱片商會銷量榜 | 1   |
 |            |     |
 
-  - 唱片商會榜 完整走勢:
-    2-\>**1**-\>**1**-\>**1**-\>**1**-\>**1**-\>5-\>5-\>9-\>4-\>4
-    (共上榜11週)
+  - 唱片商會榜 完整走勢: 2-\>**1**-\>**1**-\>**1**-\>**1**-\>**1**-\>5-\>5-\>9-\>4-\>4 (共上榜11週)
 
 <!-- end list -->
 
   -
-    在《**By
-    Heart**》落榜後，精選集《[嫻情三十](https://zh.wikipedia.org/wiki/嫻情三十 "wikilink")》便立即上榜並進駐第二位。
+    在《**By Heart**》落榜後，精選集《[嫻情三十](https://zh.wikipedia.org/wiki/嫻情三十 "wikilink")》便立即上榜並進駐第二位。
 
 ## 軼事
 
@@ -39,10 +35,6 @@ Heart**》是[香港](../Page/香港.md "wikilink")歌手[陳慧嫻](../Page/陳
 
 ## 外部連結
 
-  - [By Heart (CD+DVD) | 環球唱片-
-    正東唱片](http://www.umg.com.hk/album/2924/detail)
+  - [By Heart (CD+DVD) | 環球唱片- 正東唱片](http://www.umg.com.hk/album/2924/detail)
 
-[Category:陳慧嫻音樂專輯](https://zh.wikipedia.org/wiki/Category:陳慧嫻音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")
+[Category:陳慧嫻音樂專輯](https://zh.wikipedia.org/wiki/Category:陳慧嫻音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")

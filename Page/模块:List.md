@@ -1,9 +1,6 @@
-\-- This module outputs different kinds of lists. At the moment,
-bulleted, -- unbulleted, horizontal, ordered, and horizontal ordered
-lists are supported.
+\-- This module outputs different kinds of lists. At the moment, bulleted, -- unbulleted, horizontal, ordered, and horizontal ordered lists are supported.
 
-local libUtil = require('libraryUtil') local checkType =
-libUtil.checkType local mTableTools = require('Module:TableTools')
+local libUtil = require('libraryUtil') local checkType = libUtil.checkType local mTableTools = require('Module:TableTools')
 
 local p = {}
 

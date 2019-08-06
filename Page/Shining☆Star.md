@@ -41,8 +41,7 @@
 
   -
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:超新星音樂專輯](https://zh.wikipedia.org/wiki/Category:超新星音樂專輯 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:超新星音樂專輯](https://zh.wikipedia.org/wiki/Category:超新星音樂專輯 "wikilink")
 
 1.
 

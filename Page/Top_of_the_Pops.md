@@ -1,33 +1,10 @@
-***Top of the
-Pops***是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[BBC播出的一檔現場直播的流行](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")[音樂節目](https://zh.wikipedia.org/wiki/音樂 "wikilink")。節目播出於1964年1月1日至2006年7月30日期間。節目基本上在每週四晚間於[BBC1播出](https://zh.wikipedia.org/wiki/BBC1 "wikilink")，只有1974年和1996年時曾有一段時間在週五播出，以及在2005年曾於週日在
-[BBC2播出](https://zh.wikipedia.org/wiki/BBC2 "wikilink")。節目內容主要是發表最新的流行音樂排行榜，當時[吉米·薩維爾](../Page/吉米·薩維爾.md "wikilink")是該節目的代表人物。節目還製作聖誕專輯，請來歌手演唱這一年最流行的歌曲。雖然Top
-of the
-Pops的常規節播出已經停播\[1\]，但聖誕特輯仍在繼續播出\[2\]\[3\]\[4\]。自1994年起，BBC還製作了一個名為Top
-of the Pops 2的節目，節目內容主要是收錄了過去Top of the Pops的精彩內容。
+***Top of the Pops***是[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[BBC播出的一檔現場直播的流行](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")[音樂節目](https://zh.wikipedia.org/wiki/音樂 "wikilink")。節目播出於1964年1月1日至2006年7月30日期間。節目基本上在每週四晚間於[BBC1播出](https://zh.wikipedia.org/wiki/BBC1 "wikilink")，只有1974年和1996年時曾有一段時間在週五播出，以及在2005年曾於週日在 [BBC2播出](https://zh.wikipedia.org/wiki/BBC2 "wikilink")。節目內容主要是發表最新的流行音樂排行榜，當時[吉米·薩維爾](../Page/吉米·薩維爾.md "wikilink")是該節目的代表人物。節目還製作聖誕專輯，請來歌手演唱這一年最流行的歌曲。雖然Top of the Pops的常規節播出已經停播\[1\]，但聖誕特輯仍在繼續播出\[2\]\[3\]\[4\]。自1994年起，BBC還製作了一個名為Top of the Pops 2的節目，節目內容主要是收錄了過去Top of the Pops的精彩內容。
 
 ## 參考資料
 
-[Category:1960年代英國電視節目](https://zh.wikipedia.org/wiki/Category:1960年代英國電視節目 "wikilink")
-[Category:1970年代英國電視節目](https://zh.wikipedia.org/wiki/Category:1970年代英國電視節目 "wikilink")
-[Category:1980年代英國電視節目](https://zh.wikipedia.org/wiki/Category:1980年代英國電視節目 "wikilink")
-[Category:1990年代英國電視節目](https://zh.wikipedia.org/wiki/Category:1990年代英國電視節目 "wikilink")
-[Category:2000年代英國電視節目](https://zh.wikipedia.org/wiki/Category:2000年代英國電視節目 "wikilink")
-[Category:英國廣播公司電視節目](https://zh.wikipedia.org/wiki/Category:英國廣播公司電視節目 "wikilink")
-[Category:英語電視節目](https://zh.wikipedia.org/wiki/Category:英語電視節目 "wikilink")
-[Category:音樂節目](https://zh.wikipedia.org/wiki/Category:音樂節目 "wikilink")
-[Category:聖誕節電視特別節目](https://zh.wikipedia.org/wiki/Category:聖誕節電視特別節目 "wikilink")
-[Category:英國音樂](https://zh.wikipedia.org/wiki/Category:英國音樂 "wikilink")
+[Category:1960年代英國電視節目](https://zh.wikipedia.org/wiki/Category:1960年代英國電視節目 "wikilink") [Category:1970年代英國電視節目](https://zh.wikipedia.org/wiki/Category:1970年代英國電視節目 "wikilink") [Category:1980年代英國電視節目](https://zh.wikipedia.org/wiki/Category:1980年代英國電視節目 "wikilink") [Category:1990年代英國電視節目](https://zh.wikipedia.org/wiki/Category:1990年代英國電視節目 "wikilink") [Category:2000年代英國電視節目](https://zh.wikipedia.org/wiki/Category:2000年代英國電視節目 "wikilink") [Category:英國廣播公司電視節目](https://zh.wikipedia.org/wiki/Category:英國廣播公司電視節目 "wikilink") [Category:英語電視節目](https://zh.wikipedia.org/wiki/Category:英語電視節目 "wikilink") [Category:音樂節目](https://zh.wikipedia.org/wiki/Category:音樂節目 "wikilink") [Category:聖誕節電視特別節目](https://zh.wikipedia.org/wiki/Category:聖誕節電視特別節目 "wikilink") [Category:英國音樂](https://zh.wikipedia.org/wiki/Category:英國音樂 "wikilink")
 
-1.  [Show's over for Top of the
-    Pops](http://media.guardian.co.uk/broadcast/story/0,,1802058,00.html),
-    *[The
-    Guardian](https://zh.wikipedia.org/wiki/The_Guardian "wikilink")*,
-    20 June 2006.
-2.  [Top of the Pops
-    FAQ](http://www.bbc.co.uk/totp/faq/tvshow_02.shtml), *TOTP* website.
-    Retrieved 7 November 2006.
+1.  [Show's over for Top of the Pops](http://media.guardian.co.uk/broadcast/story/0,,1802058,00.html), *[The Guardian](https://zh.wikipedia.org/wiki/The_Guardian "wikilink")*, 20 June 2006.
+2.  [Top of the Pops FAQ](http://www.bbc.co.uk/totp/faq/tvshow_02.shtml), *TOTP* website. Retrieved 7 November 2006.
 3.
-4.  [Top of the Pops back at
-    Christmas](http://news.bbc.co.uk/1/hi/entertainment/7738180.stm),
-    [BBC News](https://zh.wikipedia.org/wiki/BBC_News "wikilink"), 20
-    November 2008
+4.  [Top of the Pops back at Christmas](http://news.bbc.co.uk/1/hi/entertainment/7738180.stm), [BBC News](https://zh.wikipedia.org/wiki/BBC_News "wikilink"), 20 November 2008

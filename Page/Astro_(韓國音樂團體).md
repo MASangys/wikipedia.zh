@@ -1,19 +1,12 @@
-**ASTRO**（）是[韓國六人男子偶像團體](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")，ASTRO為西班牙文，意思是天體、星星，意義為希望能夠成為所有粉絲心中的宇宙與星星，經紀公司為[Fantagio](../Page/Fantagio.md "wikilink")
-。
+**ASTRO**（）是[韓國六人男子偶像團體](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")，ASTRO為西班牙文，意思是天體、星星，意義為希望能夠成為所有粉絲心中的宇宙與星星，經紀公司為[Fantagio](../Page/Fantagio.md "wikilink") 。
 
-官方粉絲名為「AROHA」（），意為「**A**ST**RO** **H**EART **A**LL
-FANS」，另外也是[毛利語中的](../Page/毛利语.md "wikilink")「愛」。應援色為Vivid
-Plum與Space Violet。
+官方粉絲名為「AROHA」（），意為「**A**ST**RO** **H**EART **A**LL FANS」，另外也是[毛利語中的](../Page/毛利语.md "wikilink")「愛」。應援色為Vivid Plum與Space Violet。
 
 ## 歷程
 
 ### 2015年：出道前
 
-8月18日，成員在[MBC Every1](https://zh.wikipedia.org/wiki/MBC "wikilink")《[To
-Be Continued](../Page/To_Be_Continued.md "wikilink")》正式曝光。ASTRO
-與師姊金賽綸合作的網路戲劇《To Be
-Continued》做為出道的開端，內容講述一組即將出道的男子團體，在登上出道舞台之前，突然穿越回到過去，並在知道秘密的「雅琳」（[金賽綸](../Page/金賽綸.md "wikilink")
-飾）的幫助之下，順利出道的奇幻青春故事。《To Be Continued》於8月18日首播、一共播出12集，每集約15分鐘。
+8月18日，成員在[MBC Every1](https://zh.wikipedia.org/wiki/MBC "wikilink")《[To Be Continued](../Page/To_Be_Continued.md "wikilink")》正式曝光。ASTRO 與師姊金賽綸合作的網路戲劇《To Be Continued》做為出道的開端，內容講述一組即將出道的男子團體，在登上出道舞台之前，突然穿越回到過去，並在知道秘密的「雅琳」（[金賽綸](../Page/金賽綸.md "wikilink") 飾）的幫助之下，順利出道的奇幻青春故事。《To Be Continued》於8月18日首播、一共播出12集，每集約15分鐘。
 
 ### 2016年：推出多張迷你專輯
 
@@ -21,26 +14,21 @@ Continued》做為出道的開端，內容講述一組即將出道的男子團�
 
 2月26日，經紀公司官方Youtube頻道公開收錄曲《穿靴子的貓》MV。
 
-6月30日，ASTRO在首爾江南區清潭洞ilchi art hall舉辦第二張迷你專輯《Summer
-Vibes》的發行紀念Showcase\[1\]。
+6月30日，ASTRO在首爾江南區清潭洞ilchi art hall舉辦第二張迷你專輯《Summer Vibes》的發行紀念Showcase\[1\]。
 
-7月1日，推出第二張迷你專輯《Summer
-Vibes》\[2\]\[3\]。1日通過YouTube公開的主打歌《Breathless》的MV，三天之內累計點擊率突破了50萬\[4\]。
+7月1日，推出第二張迷你專輯《Summer Vibes》\[2\]\[3\]。1日通過YouTube公開的主打歌《Breathless》的MV，三天之內累計點擊率突破了50萬\[4\]。
 
 7月30－31日，ASTRO 參與 KCON 2016 LA 演出\[5\]。
 
-10月14日、10月22日，ASTRO 分別於於日本東京、印尼雅加達舉辦海外showcase「ASTRO THE 1st SEASON
-SHOWCASE 2016」。
+10月14日、10月22日，ASTRO 分別於於日本東京、印尼雅加達舉辦海外showcase「ASTRO THE 1st SEASON SHOWCASE 2016」。
 
 11月10日，推出第三張迷你專輯《Autumn Story》，並公開主打歌《告白》MV\[6\]。
 
 ### 2017年：海外迷你演唱會、首次單獨演唱會、接續第五張迷你專輯、發行年曆
 
-2月12日，ASTRO 在泰國舉辦showcase「ASTRO THE 1st SEASON SHOWCASE 2016 IN
-BANGKOK」\[7\]。
+2月12日，ASTRO 在泰國舉辦showcase「ASTRO THE 1st SEASON SHOWCASE 2016 IN BANGKOK」\[7\]。
 
-2月22日，推出特別版專輯《Winter Dream》，並公開專輯收錄歌《要緊緊捉住妳》、《棉花糖》和粉絲頌《You & Me(thanks
-aroha)》。
+2月22日，推出特別版專輯《Winter Dream》，並公開專輯收錄歌《要緊緊捉住妳》、《棉花糖》和粉絲頌《You & Me(thanks aroha)》。
 
 2月28日，ASTRO 在臺灣舉辦showcase「ASTRO 1ST MINI CONCERT IN TAIPEI」\[8\]。
 
@@ -48,13 +36,11 @@ aroha)》。
 
 3月5日，ASTRO 在新加坡舉行首次showcase「ASTRO THE 1st SHOWCASE IN SINGAPORE」\[11\]。
 
-5月29日，推出第四張迷你專輯《Dream Part.01》。 7月15-16日，ASTRO在首爾舉辦首次單獨演唱會「The 1st
-ASTROAD TO SEOUL」。
+5月29日，推出第四張迷你專輯《Dream Part.01》。 7月15-16日，ASTRO在首爾舉辦首次單獨演唱會「The 1st ASTROAD TO SEOUL」。
 
 11月1日，推出第五張迷你專輯《Dream Part.02》。
 
-12月27日, 發行《ASTRO-2018 SEASON GREETING》和《ASTRO-2018 SPECIAL
-PRESENT》兩版本年曆。
+12月27日, 發行《ASTRO-2018 SEASON GREETING》和《ASTRO-2018 SPECIAL PRESENT》兩版本年曆。
 
 ### 2018年：推出特別專輯
 
@@ -296,14 +282,14 @@ PRESENT》兩版本年曆。
 <td><p>2018年2月7日</p></td>
 <td><p>잘 알지도 못하면서<br />
 (because I'm a fool)</p></td>
-<td><p>尹產賀 &amp; Bily Acoustie</p></td>
+<td><p><a href="../Page/尹產賀.md" title="wikilink">尹產賀</a> &amp; Bily Acoustie</p></td>
 <td><p>03:49</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年4月30日</p></td>
 <td><p>언어 영역<br />
 （語言領域）</p></td>
-<td><p>文彬 &amp; <a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a>(Suyeon)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文彬" title="wikilink">文彬</a> &amp; <a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a>(Suyeon)</p></td>
 <td><p>03:11</p></td>
 </tr>
 <tr class="even">
@@ -316,13 +302,13 @@ PRESENT》兩版本年曆。
 <td><p>2018年8月30日</p></td>
 <td><p>오늘처럼<br />
 (Like Today)</p></td>
-<td><p>MJ &amp; <a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a>(Lucy)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MJ" title="wikilink">MJ</a> &amp; <a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a>(Lucy)</p></td>
 <td><p>03:44</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年11月30日</p></td>
 <td><p>별(STAR)</p></td>
-<td><p>Rocky &amp; Chawoo(차우)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rocky" title="wikilink">Rocky</a>&amp; Chawoo(차우)</p></td>
 <td><p>03:20</p></td>
 </tr>
 <tr class="odd">
@@ -434,9 +420,9 @@ Rocky</p></td>
 <tr class="even">
 <td><p>2019</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/18歲的瞬間" title="wikilink">18歲的瞬間</a></p></td>
+<td><p><a href="../Page/18歲的瞬間.md" title="wikilink">18歲的瞬間</a></p></td>
 <td><p>文彬</p></td>
-<td><p>鄭五宰</p></td>
+<td><p>鄭武帝</p></td>
 <td><p>男配角</p></td>
 </tr>
 <tr class="odd">
@@ -741,7 +727,7 @@ Rocky</p></td>
 <td><p>11月30日</p></td>
 </tr>
 <tr class="odd">
-<td><p>11月30日</p></td>
+<td><p>12月1日</p></td>
 </tr>
 <tr class="even">
 <td><p>12月3日</p></td>
@@ -755,26 +741,29 @@ Rocky</p></td>
 </tbody>
 </table>
 
-| 2019年 |
-| ----- |
-|       |
-| 日期    |
-| 1月17日 |
-| 1月18日 |
-| 1月18日 |
-| 1月19日 |
-| 1月22日 |
-| 1月22日 |
-| 1月23日 |
-| 1月25日 |
-| 1月26日 |
-| 2月2日  |
-| 2月9日  |
-| 2月20日 |
-| 3月4日  |
-| 6月15日 |
-| 6月16日 |
-|       |
+| 2019年   |
+| ------- |
+|         |
+| 日期      |
+| 1月17日   |
+| 1月18日   |
+| 1月18日   |
+| 1月19日   |
+| 1月22日   |
+| 1月22日   |
+| 1月23日   |
+| 1月25日   |
+| 1月26日   |
+| 2月2日    |
+| 2月9日    |
+| 2月20日   |
+| 3月4日    |
+| 6月15日   |
+| 6月16日   |
+| 7月17日   |
+| 7月18日 │ |
+| 7月28日 │ |
+|         |
 
 ### 電台節目
 
@@ -1418,39 +1407,19 @@ Rocky</p></td>
   -
   -
 
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
-[Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink")
+[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink") [Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink")
 
-1.  [Astro回歸Showcase獲I.O.I磪有情現身打氣：ASTRO
-    加油！](http://www.vlovekpop.com/20160704-ioi/) vlovekpop
-2.  [Astro夏天回歸啦！MV更找來I.O.I磪有情出演，年輕活力指數破標！](http://www.vlovekpop.com/20160620-astro/)
-    vlovekpop
-3.  [汽水偶像ASTRO，清新舞曲Breathless接管2016夏天！](http://www.vlovekpop.com/astro-summer-vibes/)
-    vlovekpop
-4.  [本年度大勢新人出爐！
-    ASTRO新歌《Breathless》MV三天內突破50萬點撃！](http://www.vlovekpop.com/20160706-astro/)
-    vlovekpop
-5.  [ASTRO有新行程公佈！參與 KCON LA 2016
-    演出](http://www.vlovekpop.com/20160721-astro-kcon/) vlovekpop
-6.  [《Summer Vibes》的後續，ASTRO以秋天為題的專輯《Autumn
-    story》回歸！](http://www.vlovekpop.com/20161031-astro/)
-    vlovekpop
-7.  [追加海外行程！ ASTRO SHOWCASE
-    在泰國舉行](http://www.vlovekpop.com/20161128-astro/)vlovekpop
-8.  [臺灣 AROHA 注意！ASTRO
-    二月來臺舉行迷你演唱會](http://www.vlovekpop.com/20170111-astro/)
-    vlovekpop
-9.  [ASTRO 香港 SHOW 詳情公佈！AROHA
-    做好準備購票喇！](http://www.vlovekpop.com/20170124-astro/)
-    vlovekpop
-10. [ASTRO首次香港舉行演唱會
-    約定AROHA有機會再見！](http://www.vlovekpop.com/20170306-astro/)
-    vlovekpop
-11. [3月輪到新加坡！ASTRO 將於新加坡舉行首次
-    SHOWCASE](http://www.vlovekpop.com/20170114-astro/) vlovekpop
+1.  [Astro回歸Showcase獲I.O.I磪有情現身打氣：ASTRO 加油！](http://www.vlovekpop.com/20160704-ioi/) vlovekpop
+2.  [Astro夏天回歸啦！MV更找來I.O.I磪有情出演，年輕活力指數破標！](http://www.vlovekpop.com/20160620-astro/) vlovekpop
+3.  [汽水偶像ASTRO，清新舞曲Breathless接管2016夏天！](http://www.vlovekpop.com/astro-summer-vibes/) vlovekpop
+4.  [本年度大勢新人出爐！ ASTRO新歌《Breathless》MV三天內突破50萬點撃！](http://www.vlovekpop.com/20160706-astro/) vlovekpop
+5.  [ASTRO有新行程公佈！參與 KCON LA 2016 演出](http://www.vlovekpop.com/20160721-astro-kcon/) vlovekpop
+6.  [《Summer Vibes》的後續，ASTRO以秋天為題的專輯《Autumn story》回歸！](http://www.vlovekpop.com/20161031-astro/) vlovekpop
+7.  [追加海外行程！ ASTRO SHOWCASE 在泰國舉行](http://www.vlovekpop.com/20161128-astro/)vlovekpop
+8.  [臺灣 AROHA 注意！ASTRO 二月來臺舉行迷你演唱會](http://www.vlovekpop.com/20170111-astro/) vlovekpop
+9.  [ASTRO 香港 SHOW 詳情公佈！AROHA 做好準備購票喇！](http://www.vlovekpop.com/20170124-astro/) vlovekpop
+10. [ASTRO首次香港舉行演唱會 約定AROHA有機會再見！](http://www.vlovekpop.com/20170306-astro/) vlovekpop
+11. [3月輪到新加坡！ASTRO 將於新加坡舉行首次 SHOWCASE](http://www.vlovekpop.com/20170114-astro/) vlovekpop
 12. [2019年2月GAON專輯榜63位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=03&hitYear=2019&termGbn=month)
 13. [2016年GAON專輯榜91位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=year)
 14. [2017年2月GAON專輯榜77位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=year)
@@ -1467,8 +1436,7 @@ Rocky</p></td>
 25.
 26.
 27.
-28.  M COUNTDOWN 161110
-    EP.500|date=2016-11-10|url=[https://www.youtube.com/watch?v=k0saglyPww8|accessdate=2017-08-10](https://www.youtube.com/watch?v=k0saglyPww8%7Caccessdate=2017-08-10)}}
+28.  M COUNTDOWN 161110 EP.500|date=2016-11-10|url=[https://www.youtube.com/watch?v=k0saglyPww8|accessdate=2017-08-10](https://www.youtube.com/watch?v=k0saglyPww8%7Caccessdate=2017-08-10)}}
 29.
 30.
 31.

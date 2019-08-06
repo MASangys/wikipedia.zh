@@ -8,9 +8,7 @@
 
 ## 參看
 
-  - *[Tenagodus
-    cumingii](https://zh.wikipedia.org/wiki/Tenagodus_cumingii "wikilink")*
-    ：中文的「[蚯蚓螺](../Page/蚯蚓螺.md "wikilink")」有時指的其實是這個物種。
+  - *[Tenagodus cumingii](https://zh.wikipedia.org/wiki/Tenagodus_cumingii "wikilink")* ：中文的「[蚯蚓螺](../Page/蚯蚓螺.md "wikilink")」有時指的其實是這個物種。
 
 ## 外部連結
 

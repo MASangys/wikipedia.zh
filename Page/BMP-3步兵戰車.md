@@ -15,9 +15,7 @@
 
 ## 設計
 
-[RIAN_archive_311539_Military_parade_dedicated_to_the_63rd_anniversary_of_the_Soviet_Union's_victory_in_the_1941-1945_Great_Patriotic_War.jpg](https://zh.wikipedia.org/wiki/File:RIAN_archive_311539_Military_parade_dedicated_to_the_63rd_anniversary_of_the_Soviet_Union's_victory_in_the_1941-1945_Great_Patriotic_War.jpg "fig:RIAN_archive_311539_Military_parade_dedicated_to_the_63rd_anniversary_of_the_Soviet_Union's_victory_in_the_1941-1945_Great_Patriotic_War.jpg")
-[BMP-3_IFV_-_TankBiathlon14part2-68.jpg](https://zh.wikipedia.org/wiki/File:BMP-3_IFV_-_TankBiathlon14part2-68.jpg "fig:BMP-3_IFV_-_TankBiathlon14part2-68.jpg")
-BMP-3的車身和炮塔是鋁合金焊接結構，若干重要部份鑲鋼做補強。動力組件由BMP-1/2的車頭改為在車尾，為了乘員進出而在車尾加上兩道有腳踏的車門，為此動力組件盡量造得扁平以降低高度。車尾門因為要遷就車尾的動力組件而被設計成一對小門，乘坐的步兵上下車皆要爬過此門，因此BMP-3乘員進出的便利性不及BMP-1/2。BMP-3乘員為車長，炮手和駕駛再加7名士兵，車長和炮手在雙人炮塔中（車長在右而炮長在左），駕駛在車身前方中央位置，左右兩側各有一個士兵坐位，士兵坐位前方各有一挺[PKT機槍](../Page/PK通用機槍.md "wikilink")，其餘5名士兵坐在後方的運兵艙內，其座位也有槍孔可用手上的槍械向車外開火射擊。
+[RIAN_archive_311539_Military_parade_dedicated_to_the_63rd_anniversary_of_the_Soviet_Union's_victory_in_the_1941-1945_Great_Patriotic_War.jpg](https://zh.wikipedia.org/wiki/File:RIAN_archive_311539_Military_parade_dedicated_to_the_63rd_anniversary_of_the_Soviet_Union's_victory_in_the_1941-1945_Great_Patriotic_War.jpg "fig:RIAN_archive_311539_Military_parade_dedicated_to_the_63rd_anniversary_of_the_Soviet_Union's_victory_in_the_1941-1945_Great_Patriotic_War.jpg") [BMP-3_IFV_-_TankBiathlon14part2-68.jpg](https://zh.wikipedia.org/wiki/File:BMP-3_IFV_-_TankBiathlon14part2-68.jpg "fig:BMP-3_IFV_-_TankBiathlon14part2-68.jpg") BMP-3的車身和炮塔是鋁合金焊接結構，若干重要部份鑲鋼做補強。動力組件由BMP-1/2的車頭改為在車尾，為了乘員進出而在車尾加上兩道有腳踏的車門，為此動力組件盡量造得扁平以降低高度。車尾門因為要遷就車尾的動力組件而被設計成一對小門，乘坐的步兵上下車皆要爬過此門，因此BMP-3乘員進出的便利性不及BMP-1/2。BMP-3乘員為車長，炮手和駕駛再加7名士兵，車長和炮手在雙人炮塔中（車長在右而炮長在左），駕駛在車身前方中央位置，左右兩側各有一個士兵坐位，士兵坐位前方各有一挺[PKT機槍](../Page/PK通用機槍.md "wikilink")，其餘5名士兵坐在後方的運兵艙內，其座位也有槍孔可用手上的槍械向車外開火射擊。
 
 BMP-3的火力極為強大，炮塔上裝有一門100毫米口徑2A70型線膛炮，此炮能發射破片榴彈和AT-10炮射反坦克飛彈，在2A70右側為30毫米口徑[2A72機炮](../Page/希普諾夫2A72機炮.md "wikilink")，在2A70主炮左側為7.62毫米口徑PKT機槍。
 
@@ -189,8 +187,7 @@ Afghanit主動防禦系統</small></p></td>
 
   - – 54輛。\[6\]\[7\]
 
-  - – 1995–1996年交付118輛，2013年簽署新合同，目前約有200餘輛。\[8\]\[9\]\[10\]\[11\]
-    \[12\]\[13\]
+  - – 1995–1996年交付118輛，2013年簽署新合同，目前約有200餘輛。\[8\]\[9\]\[10\]\[11\] \[12\]\[13\]
 
   - – 1996–1997年交付33輛，\[14\]2005年交付37輛。\[15\]\[16\]\[17\]
 
@@ -200,9 +197,7 @@ Afghanit主動防禦系統</small></p></td>
 
   - –
 
-  - – 4輛儲備。<ref>[Ground Forces Equipment –
-    Ukraine](http://www.globalsecurity.org/military/world/ukraine/groundforces-equipment.htm)
-    inherited from the USSR.
+  - – 4輛儲備。<ref>[Ground Forces Equipment – Ukraine](http://www.globalsecurity.org/military/world/ukraine/groundforces-equipment.htm) inherited from the USSR.
 
 globalsecurity.org</ref>\[22\]
 
@@ -244,9 +239,7 @@ globalsecurity.org</ref>\[22\]
 
 ## 參考資料
 
-[Category:步兵战车](https://zh.wikipedia.org/wiki/Category:步兵战车 "wikilink")
-[Category:兩棲車輛](https://zh.wikipedia.org/wiki/Category:兩棲車輛 "wikilink")
-[Category:俄聯邦儀器設計局](https://zh.wikipedia.org/wiki/Category:俄聯邦儀器設計局 "wikilink")
+[Category:步兵战车](https://zh.wikipedia.org/wiki/Category:步兵战车 "wikilink") [Category:兩棲車輛](https://zh.wikipedia.org/wiki/Category:兩棲車輛 "wikilink") [Category:俄聯邦儀器設計局](https://zh.wikipedia.org/wiki/Category:俄聯邦儀器設計局 "wikilink")
 
 1.
 
@@ -279,22 +272,15 @@ globalsecurity.org</ref>\[22\]
 16.
 17. <http://armstrade.sipri.org/armstrade>
 
-18. [Libya; Army incepts Russian tank
-    destroyers](http://dmilt.com/index.php?option=com_content&view=article&id=8116:libya-army-incepts-russian-tank-destroyers&catid=3:asia&Itemid=56)
-     – Dmilt.com, 7 October 2013
+18. [Libya; Army incepts Russian tank destroyers](http://dmilt.com/index.php?option=com_content&view=article&id=8116:libya-army-incepts-russian-tank-destroyers&catid=3:asia&Itemid=56)  – Dmilt.com, 7 October 2013
 
-19. [Russians delivers armoured fighting
-    vehicles](http://www.libyaherald.com/2013/09/25/russians-delivers-armoured-fighting-vehicles/#axzz2fxSqSdIq)
+19. [Russians delivers armoured fighting vehicles](http://www.libyaherald.com/2013/09/25/russians-delivers-armoured-fighting-vehicles/#axzz2fxSqSdIq)
 
-20. [Libya; Army incepts Russian tank
-    destroyers](http://dmilt.com/index.php?option=com_content&view=article&id=8116:libya-army-incepts-russian-tank-destroyers&catid=3:asia&Itemid=56)
-     – Dmilt.com, 7 October 2013
+20. [Libya; Army incepts Russian tank destroyers](http://dmilt.com/index.php?option=com_content&view=article&id=8116:libya-army-incepts-russian-tank-destroyers&catid=3:asia&Itemid=56)  – Dmilt.com, 7 October 2013
 
-21. [Russians delivers armoured fighting
-    vehicles](http://www.libyaherald.com/2013/09/25/russians-delivers-armoured-fighting-vehicles/#axzz2fxSqSdIq)
+21. [Russians delivers armoured fighting vehicles](http://www.libyaherald.com/2013/09/25/russians-delivers-armoured-fighting-vehicles/#axzz2fxSqSdIq)
 
-22. [Ground Forces Equipment –
-    Ukraine](http://www.globalsecurity.org/military/world/ukraine/groundforces-equipment.htm)
+22. [Ground Forces Equipment – Ukraine](http://www.globalsecurity.org/military/world/ukraine/groundforces-equipment.htm)
 
 23.
 24. <http://www.armstrade.org/includes/periodics/news/2015/0911/120531103/detail.shtml>
@@ -303,23 +289,16 @@ globalsecurity.org</ref>\[22\]
 26. Jane's Sentinel: Turkmenistan (2011)
 
 27.
-28. [Completed vehicle
-    deliveries](http://www.ruaviation.com/news/2012/7/20/1111/) –
-    Ruaviation.com, July 20, 2012
+28. [Completed vehicle deliveries](http://www.ruaviation.com/news/2012/7/20/1111/) – Ruaviation.com, July 20, 2012
 
 29.
 
 30.
-31. [Completed vehicle
-    deliveries](http://www.ruaviation.com/news/2012/7/20/1111/) –
-    Ruaviation.com, July 20, 2012
+31. [Completed vehicle deliveries](http://www.ruaviation.com/news/2012/7/20/1111/) – Ruaviation.com, July 20, 2012
 
 32.
 
-33. [Iraq and Saudi Arabia plan to acquire BMP-3 armoured infantry
-    fighting vehicles from
-    Russia](http://www.armyrecognition.com/september_2015_global_defense_security_news_uk/iraq_and_saudi_arabia_plan_to_acquire_bmp-3_armoured_infantry_fighting_vehicles_from_russia_13009155.html)
-    - Armyrecognition.com, 30 September 2015
+33. [Iraq and Saudi Arabia plan to acquire BMP-3 armoured infantry fighting vehicles from Russia](http://www.armyrecognition.com/september_2015_global_defense_security_news_uk/iraq_and_saudi_arabia_plan_to_acquire_bmp-3_armoured_infantry_fighting_vehicles_from_russia_13009155.html) - Armyrecognition.com, 30 September 2015
 
 34.
 35. <http://asian-defence-news.blogspot.com/2014/06/philippines-interested-in-russian-bmp-3f.html>

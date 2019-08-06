@@ -1,6 +1,4 @@
-《**It's All About Angela
-Pang**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[彭家麗](../Page/彭家麗.md "wikilink")的第三張精選專輯，也是她重投[索尼音樂娛樂
-(香港)後首張作品](https://zh.wikipedia.org/wiki/索尼音樂娛樂_\(香港\) "wikilink")\[1\]，在2014年8月8日推出，主打曲為《從今喜歡孤單一個》。
+《**It's All About Angela Pang**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[彭家麗](../Page/彭家麗.md "wikilink")的第三張精選專輯，也是她重投[索尼音樂娛樂 (香港)後首張作品](https://zh.wikipedia.org/wiki/索尼音樂娛樂_\(香港\) "wikilink")\[1\]，在2014年8月8日推出，主打曲為《從今喜歡孤單一個》。
 
 ## 曲目
 
@@ -23,8 +21,6 @@ Pang**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wi
 
 ## 参考文献
 
-[Category:彭家麗音樂專輯](https://zh.wikipedia.org/wiki/Category:彭家麗音樂專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:彭家麗音樂專輯](https://zh.wikipedia.org/wiki/Category:彭家麗音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.

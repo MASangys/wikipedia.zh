@@ -1,11 +1,6 @@
-《**Clover
-Day's**》是[ALcot](../Page/ALcot.md "wikilink")在2014年3月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。於2016年6月24日發售新增E-mote的加強版《Clover
-Day’s Plus》。
+《**Clover Day's**》是[ALcot](../Page/ALcot.md "wikilink")在2014年3月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")\[1\]。於2016年6月24日發售新增E-mote的加強版《Clover Day’s Plus》。
 
-Clover
-Day's是ALcot公司的第14部作品，不僅是做為該公司於PC平台上的10周年紀念作，也是全新的原創作品。\[2\]\[3\]網路上亦有官方釋出的本作各女性角色介紹影片，可見其對本作的重視。\[4\]本作場景與世界觀和《》相同，也同样是以“双子×双子×双子”为主题，还以《Clover
-Heart's》十年後的世界做為舞台。其全新重製的背景，也能明顯的感受出為《Clover Heart's》之後的時間，不過《Clover
-Heart's》裡面的人物仅飛鳥凜登场。
+Clover Day's是ALcot公司的第14部作品，不僅是做為該公司於PC平台上的10周年紀念作，也是全新的原創作品。\[2\]\[3\]網路上亦有官方釋出的本作各女性角色介紹影片，可見其對本作的重視。\[4\]本作場景與世界觀和《》相同，也同样是以“双子×双子×双子”为主题，还以《Clover Heart's》十年後的世界做為舞台。其全新重製的背景，也能明顯的感受出為《Clover Heart's》之後的時間，不過《Clover Heart's》裡面的人物仅飛鳥凜登场。
 
 ## 登場人物
 
@@ -77,10 +72,8 @@ Heart's》裡面的人物仅飛鳥凜登场。
 <!-- end list -->
 
   -
-    主人公所就讀學校的教養課教師，也是戲劇部的代理顧問。與加賀美姐妹是遠親關係。愛講[冷笑話](../Page/冷笑話.md "wikilink")，被人稱為「blizzard
-    princess」。
-    同时也是用于致敬前作的角色，是十年前的前作[Clover
-    Hearts的登场人物之一](https://zh.wikipedia.org/wiki/Clover_Heart's "wikilink")。
+    主人公所就讀學校的教養課教師，也是戲劇部的代理顧問。與加賀美姐妹是遠親關係。愛講[冷笑話](../Page/冷笑話.md "wikilink")，被人稱為「blizzard princess」。
+    同时也是用于致敬前作的角色，是十年前的前作[Clover Hearts的登场人物之一](https://zh.wikipedia.org/wiki/Clover_Heart's "wikilink")。
 
 <!-- end list -->
 
@@ -102,39 +95,31 @@ Heart's》裡面的人物仅飛鳥凜登场。
 
 1.  Clover Heart's -Re:product mix-（full chorus ver）
 
-:\*作詞 : 宮藏 / 作曲 : Manack / 編曲 : 川崎海 / Sound Produce : 八木沼悟志 / 歌 :
-[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")
+:\*作詞 : 宮藏 / 作曲 : Manack / 編曲 : 川崎海 / Sound Produce : 八木沼悟志 / 歌 : [fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")
 
 1.  Clover Heart's -Re:product mix-（half chorus ver）
 2.  Clover Heart's -Re:product mix-（off vocal ver）
 
 ## 書籍
 
-書籍《Clover Day's Art
-Works》（）於2014年7月31日發售\[6\]，是由發行的[畫集](https://zh.wikipedia.org/wiki/畫集 "wikilink")。
+書籍《Clover Day's Art Works》（）於2014年7月31日發售\[6\]，是由發行的[畫集](https://zh.wikipedia.org/wiki/畫集 "wikilink")。
 
 ## 評價
 
-《Clover
-Day's》在日本美少女遊戲與動畫相關商品銷售網站Getchu.com的2014年銷量榜上排名第7名\[7\]，並獲得「[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")2014」角色設計賞的金獎\[8\]。
+《Clover Day's》在日本美少女遊戲與動畫相關商品銷售網站Getchu.com的2014年銷量榜上排名第7名\[7\]，並獲得「[萌えゲーアワード](https://zh.wikipedia.org/wiki/萌えゲーアワード "wikilink")2014」角色設計賞的金獎\[8\]。
 
 ## 參考資料
 
 <references/>
 
-  - [Galge Review – Clover
-    Day's](http://otakuoverdrive.com/2014/04/11/galge-review-clover-days/)
+  - [Galge Review – Clover Day's](http://otakuoverdrive.com/2014/04/11/galge-review-clover-days/)
 
 ## 外部連結
 
   - [ALcot](http://www.alcot.biz/)
   - [Clover Day's](http://www.alcot.biz/product/cld/index.html)
 
-[Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:學校背景作品](https://zh.wikipedia.org/wiki/Category:學校背景作品 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
+[Category:2014年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2014年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:學校背景作品](https://zh.wikipedia.org/wiki/Category:學校背景作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-**Sankt Egyden am
-Steinfeld**（德语：）是[奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[下奥地利州](https://zh.wikipedia.org/wiki/下奥地利州 "wikilink")[诺因基兴县的一个](https://zh.wikipedia.org/wiki/诺因基兴县 "wikilink")[市镇](../Page/市镇_\(奥地利\).md "wikilink")。总面积26.15平方公里，总人口1828人，人口密度69.9人/平方公里（2005年）。
+**Sankt Egyden am Steinfeld**（德语：）是[奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[下奥地利州](https://zh.wikipedia.org/wiki/下奥地利州 "wikilink")[诺因基兴县的一个](https://zh.wikipedia.org/wiki/诺因基兴县 "wikilink")[市镇](../Page/市镇_\(奥地利\).md "wikilink")。总面积26.15平方公里，总人口1828人，人口密度69.9人/平方公里（2005年）。
 
 ## 参见
 

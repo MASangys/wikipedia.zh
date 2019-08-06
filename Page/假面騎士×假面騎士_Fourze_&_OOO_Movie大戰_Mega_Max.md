@@ -1,5 +1,4 @@
-《**假面騎士×假面騎士 Fourze & OOO MOVIE大戰MEGA
-MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")**》和《**[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")**》聯動劇場版，「MOVIE大戰系列」第3部作品。此外[假面騎士W和榮光](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")7人騎士亦參與作品演出。
+《**假面騎士×假面騎士 Fourze & OOO MOVIE大戰MEGA MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")**》和《**[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")**》聯動劇場版，「MOVIE大戰系列」第3部作品。此外[假面騎士W和榮光](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")7人騎士亦參與作品演出。
 
 本作劇場版的口號為「2011年冬、MOVIE大戰進化」
 
@@ -8,8 +7,7 @@ MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.m
 **序幕「戰鬥吧\!傳說之7人騎士」**
 
   -
-    宇宙突如其來的隕石，**財團X**為了取得附在其表面的物質**SOLU**（Seeds Of Life from the
-    Universe）而派員採集，傳說中的7人騎士分別在世界各地阻止他們的行動。
+    宇宙突如其來的隕石，**財團X**為了取得附在其表面的物質**SOLU**（Seeds Of Life from the Universe）而派員採集，傳說中的7人騎士分別在世界各地阻止他們的行動。
     **核心硬幣**與**天文裝置**，就是財團X接下來的目的。
 
 **假面騎士OOO「Ankh復活‧未來核心硬幣‧相連的希望」**
@@ -35,8 +33,7 @@ MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.m
   -
     雷姆・神薙叛變並且獨佔**未來核心硬幣**與**SOLU天文裝置**。同時受翔太郎所召的映司和弦太朗集結，三人變身W、OOO和Fourze迎接決戰時刻。
     OOO與Fourze作先鋒以阻止雷姆・神薙，途中得到被解救的**7人騎士**和**假面騎士AQUA**支援抵抗財團X的怪人軍團。
-    得到未來核心硬幣變身成**超鷹虎蝗聯組**的OOO、從撫子手中得到的Rocket-Super Switch變身成**Rocket
-    States**的Fourze，與雷姆・神薙變身成的**超銀河王**作最後決戰。
+    得到未來核心硬幣變身成**超鷹虎蝗聯組**的OOO、從撫子手中得到的Rocket-Super Switch變身成**Rocket States**的Fourze，與雷姆・神薙變身成的**超銀河王**作最後決戰。
 
 ## 登場人物
 
@@ -111,8 +108,7 @@ MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.m
     假面騎士Fourze變身者。天之川學園高中的2年級生。
     學園祭期間眼見撫子從天墜下而上前救起，並對她戀愛起來。
     發現撫子並非人類後曾一度情緒低落，但明白對她的真愛無需對任何事分清，重拾心情後走去和撫子表白。
-    雷姆・神薙把撫子變成SOLU天文裝置後傷心欲絕，因此誓要向其復仇。同時得到由撫子自身製造的No.S-1 Super-Rocket
-    Switch，變身成Rocket States擊敗超進化生命體Suddendath。
+    雷姆・神薙把撫子變成SOLU天文裝置後傷心欲絕，因此誓要向其復仇。同時得到由撫子自身製造的No.S-1 Super-Rocket Switch，變身成Rocket States擊敗超進化生命體Suddendath。
     受翔太郎和映司邀請共同對付雷姆・神薙及一眾怪人，最後與OOO合力撃敗超銀河王。
     故事結尾遇見真正的美咲撫子，心知並非所認識的「她」，無奈的與其擦身而過。
 
@@ -121,8 +117,7 @@ MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.m
   -
     天之川學園高中的2年級生，假面騎士部部員之一，如月弦太朗的拍擋。
     當初對美咲撫子的出現及持有與Fourze相似的變身系統存有多種疑問。
-    從月面基地「Rabbit Hutch」用儀器探測出撫子真身是宇宙生命體SOLU(Seeds Of Life from the
-    Universe)。
+    從月面基地「Rabbit Hutch」用儀器探測出撫子真身是宇宙生命體SOLU(Seeds Of Life from the Universe)。
 
 **城島悠木（）**（[清水富美加](../Page/清水富美加.md "wikilink")飾）
 
@@ -161,13 +156,10 @@ MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.m
   -
     假面騎士Nadeshiko的變身者。身穿昴星高中制服的謎之少女。
     於學園祭的人前從天而降，及時被弦太朗所救。
-    眾人考究她從何而來之際受到星塵忍者的襲擊，從旁看著Fourze戰鬥期間卻拿著近似Fourze
-    Driver的系統，變身成Nadeshiko，並一同撃退處女座Zodiarts。
-    真身是宇宙生命體SOLU(Seeds Of Life from the
-    Universe)，能進行細胞分裂再重組，自行形成另類的物質，變身系統都是利用自己身體一部分製造。SOLU本身沒有智慧，行為純粹是鏡像反射去模仿，外表亦是隨著遇見真正的美咲撫子而自行仿製。
+    眾人考究她從何而來之際受到星塵忍者的襲擊，從旁看著Fourze戰鬥期間卻拿著近似Fourze Driver的系統，變身成Nadeshiko，並一同撃退處女座Zodiarts。
+    真身是宇宙生命體SOLU(Seeds Of Life from the Universe)，能進行細胞分裂再重組，自行形成另類的物質，變身系統都是利用自己身體一部分製造。SOLU本身沒有智慧，行為純粹是鏡像反射去模仿，外表亦是隨著遇見真正的美咲撫子而自行仿製。
     奇蹟地與弦太朗經歷之間進化成擁有情感，能夠感受到弦太朗對自己的愛意。
-    其後被雷姆・神薙轉化成天文裝置而快要消失的一刻，自行製造出No.S-1 Super-Rocket
-    Switch留給弦太朗轉變為Fourze Rocket States應戰。
+    其後被雷姆・神薙轉化成天文裝置而快要消失的一刻，自行製造出No.S-1 Super-Rocket Switch留給弦太朗轉變為Fourze Rocket States應戰。
     在對戰超銀河王途中，以無形能量體姿態出現替Fourze注入宇宙能量。
     最後與弦太朗進行「友情之証」並送上一吻後道別，回歸無盡的宇宙中。
 
@@ -215,18 +207,15 @@ MAX**》，是日本特攝節目《**[假面騎士OOO](../Page/假面騎士OOO.m
     在得到SOLU天文裝置與未來核心硬幣後叛變，並殺害財團X日本支部幹部，目的是支配全地球所有能源。故此企圖把宇宙船升上大氣層，用宇宙能量為其充電以達到其目的。
     其後變身成超銀河王，最後被OOO與Fourze聯手擊敗。
 
-**Catarrh（）**（[Dante
-Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikilink")）
+**Catarrh（）**（[Dante Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikilink")）
 
   -
-    雷姆的部下。超進化生命體Mutamit實驗體之一，體力驚人，變身成Suddendath並和Fourze交手，最後被Fourze
-    Rocket States用Rider Spin Crusher擊敗。
+    雷姆的部下。超進化生命體Mutamit實驗體之一，體力驚人，變身成Suddendath並和Fourze交手，最後被Fourze Rocket States用Rider Spin Crusher擊敗。
 
 **Solaris（）**（飾）
 
   -
-    雷姆的部下。超進化生命體Mutamit實驗體之一，體力驚人，變身成[麒麟座](../Page/麒麟座.md "wikilink")Zodiarts企圖阻止OOO與Fourze前進，最後被W
-    Cyclone Joker Xtreme形態用Bicker Charge Break擊敗。
+    雷姆的部下。超進化生命體Mutamit實驗體之一，體力驚人，變身成[麒麟座](../Page/麒麟座.md "wikilink")Zodiarts企圖阻止OOO與Fourze前進，最後被W Cyclone Joker Xtreme形態用Bicker Charge Break擊敗。
 
 ## 登場假面騎士
 
@@ -265,8 +254,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
   -
     外觀與Base States相似，全身變成以橘紅色為主，眼睛為深藍色。
-    由美咲撫子自行製造的No.S-1 Super-Rocket
-    Switch變身，雙手裝備上火箭，推進力或攻擊力都大幅增強，甚至可隻身突破大氣層到達宇宙。
+    由美咲撫子自行製造的No.S-1 Super-Rocket Switch變身，雙手裝備上火箭，推進力或攻擊力都大幅增強，甚至可隻身突破大氣層到達宇宙。
     單一的火箭威力亦達到1.5倍的強化，全身裝備的耐熱程度同樣增強。
     需要操作Fourze Driver時，左手火箭會自動解除。
     必殺技為Rider迴旋Crusher和Rider Double Rocket Drill Kick。
@@ -304,8 +292,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
 <!-- end list -->
 
-  - **假面騎士Birth
-    Prototype**（替身演員：[永德](https://zh.wikipedia.org/wiki/:ja:永徳_\(俳優\) "wikilink")、CV：[岩永洋昭](../Page/岩永洋昭.md "wikilink")）
+  - **假面騎士Birth Prototype**（替身演員：[永德](https://zh.wikipedia.org/wiki/:ja:永徳_\(俳優\) "wikilink")、CV：[岩永洋昭](../Page/岩永洋昭.md "wikilink")）
 
 <!-- end list -->
 
@@ -519,8 +506,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
 <!-- end list -->
 
-  - **Suddendath（）**（替身演員：[高田將司](https://zh.wikipedia.org/wiki/:ja:高田将司 "wikilink")、CV：[Dante
-    Carver](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikilink")）
+  - **Suddendath（）**（替身演員：[高田將司](https://zh.wikipedia.org/wiki/:ja:高田将司 "wikilink")、CV：[Dante Carver](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikilink")）
 
 <!-- end list -->
 
@@ -534,9 +520,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 <!-- end list -->
 
   -
-    雷姆・神薙利用未來核心硬幣與SOLU天文裝置力量，以Galactic
-    Driver變身而成，擁有時間靜止的能力，披風可化成各式形態的武器。若突破大氣層後可接收宇宙能量作為填充，如果成功的話七人騎士都會不敵。但最後在突破大氣層前，被OOO與Fourze聯手用Rider
-    Double Rocket Drill Kick擊敗。
+    雷姆・神薙利用未來核心硬幣與SOLU天文裝置力量，以Galactic Driver變身而成，擁有時間靜止的能力，披風可化成各式形態的武器。若突破大氣層後可接收宇宙能量作為填充，如果成功的話七人騎士都會不敵。但最後在突破大氣層前，被OOO與Fourze聯手用Rider Double Rocket Drill Kick擊敗。
 
 ## 曲目
 
@@ -580,12 +564,9 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")
   - 監製 - 小野寺章
-  - 製片 -
-    ・・高橋一浩（[東映](../Page/東映.md "wikilink")）、本井健吾（[朝日電視台](../Page/朝日電視台.md "wikilink")）
+  - 製片 - ・・高橋一浩（[東映](../Page/東映.md "wikilink")）、本井健吾（[朝日電視台](../Page/朝日電視台.md "wikilink")）
   - 導演・動作導演 - [坂本浩一](../Page/坂本浩一.md "wikilink")
-  - 編劇 -
-    [中島一基](https://zh.wikipedia.org/wiki/:ja:中島かずき "wikilink")（Fourze、Movie大戰Mega
-    Max）、[小林靖子](../Page/小林靖子.md "wikilink")（OOO）
+  - 編劇 - [中島一基](https://zh.wikipedia.org/wiki/:ja:中島かずき "wikilink")（Fourze、Movie大戰Mega Max）、[小林靖子](../Page/小林靖子.md "wikilink")（OOO）
   - 配樂 - 、[中川幸太郎](../Page/中川幸太郎.md "wikilink")
   - 攝影 - 倉田幸治
   - 特攝導演 -
@@ -596,8 +577,4 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 ## 外部連結
 
   -
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink")
-[Category:學校背景電影](https://zh.wikipedia.org/wiki/Category:學校背景電影 "wikilink")
-[Category:2011年日本電影](https://zh.wikipedia.org/wiki/Category:2011年日本電影 "wikilink")
-[Category:坂本浩一電影](https://zh.wikipedia.org/wiki/Category:坂本浩一電影 "wikilink")
+[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink") [Category:學校背景電影](https://zh.wikipedia.org/wiki/Category:學校背景電影 "wikilink") [Category:2011年日本電影](https://zh.wikipedia.org/wiki/Category:2011年日本電影 "wikilink") [Category:坂本浩一電影](https://zh.wikipedia.org/wiki/Category:坂本浩一電影 "wikilink")

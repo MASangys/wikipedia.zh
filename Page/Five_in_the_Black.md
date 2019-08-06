@@ -1,5 +1,4 @@
-《**Five in the
-Black**》為[東方神起](../Page/東方神起.md "wikilink")於[日本](../Page/日本.md "wikilink")2007年3月14日發行之2nd[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
+《**Five in the Black**》為[東方神起](../Page/東方神起.md "wikilink")於[日本](../Page/日本.md "wikilink")2007年3月14日發行之2nd[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
 
 ## 专辑曲目
 
@@ -60,8 +59,7 @@ Black**》為[東方神起](../Page/東方神起.md "wikilink")於[日本](../Pa
 
 ## 關聯項目
 
-  - 2nd LIVE TOUR 2007 \~Five in the Black\~ (LIVE CD / LIVE DVD / LIVE
-    Blu-ray)
+  - 2nd LIVE TOUR 2007 \~Five in the Black\~ (LIVE CD / LIVE DVD / LIVE Blu-ray)
   - TVXQ 2nd日本巡迴演唱會(2nd LIVE TOUR 2007 \~Five in the Black\~)
 
 |                       |           |                 |
@@ -80,7 +78,4 @@ Black**》為[東方神起](../Page/東方神起.md "wikilink")於[日本](../Pa
 | TVXQ 2nd日本巡迴Encore演唱會 |           |                 |
 | 2007年6月18\~19日        | 東京站       | 東京武道館           |
 
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
-[Category:愛貝克思音樂專輯](https://zh.wikipedia.org/wiki/Category:愛貝克思音樂專輯 "wikilink")
-[Category:东方神起专辑](https://zh.wikipedia.org/wiki/Category:东方神起专辑 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
+[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:愛貝克思音樂專輯](https://zh.wikipedia.org/wiki/Category:愛貝克思音樂專輯 "wikilink") [Category:东方神起专辑](https://zh.wikipedia.org/wiki/Category:东方神起专辑 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")

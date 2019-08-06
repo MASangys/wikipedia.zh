@@ -2,10 +2,7 @@
 
 ## 專輯簡介
 
-專輯由[李進](https://zh.wikipedia.org/wiki/李進 "wikilink")、江港生擔任製作人，共有雙CD，收錄19首歌，包含7首經典歌曲重唱；睽違香港樂壇6年的[王傑](https://zh.wikipedia.org/wiki/王傑_\(歌手\) "wikilink")，於1999年年底復出，以3000萬港幣加盟[英皇娛樂](../Page/英皇娛樂.md "wikilink")\[1\]，在千禧年1月18日推出最新粵語專輯《Giving》，發片當天銷量直達白金（5萬張）\[2\]，更蟬聯香港[IFPI銷量榜連續三週銷售冠軍](https://zh.wikipedia.org/wiki/IFPI "wikilink")\[3\]，銷量累計突破雙白金，成為2000年全港唯五張白金唱片的其一，首波主打歌「心癮」，MV由[何超儀](../Page/何超儀.md "wikilink")演出\[4\]，並接連登上香港電台中文歌曲龍虎榜、無線電視勁歌金榜、新城電台勁爆榜三台排行榜冠軍，而[英皇在台灣試發這張粵語專輯](https://zh.wikipedia.org/wiki/英皇 "wikilink")，也在短短時日內追加四次，賣出三萬多張，接著在2月舉辦王傑「Giving
-For The Children 慈善演唱會」票房亦相當熱烈\[5\]
-，更在3月的『中國原創歌曲總評榜』99年度總選拿下「最受歡迎亞太男歌手」大獎\[6\]
-，宣告回歸樂壇成功。
+專輯由[李進](https://zh.wikipedia.org/wiki/李進 "wikilink")、江港生擔任製作人，共有雙CD，收錄19首歌，包含7首經典歌曲重唱；睽違香港樂壇6年的[王傑](https://zh.wikipedia.org/wiki/王傑_\(歌手\) "wikilink")，於1999年年底復出，以3000萬港幣加盟[英皇娛樂](../Page/英皇娛樂.md "wikilink")\[1\]，在千禧年1月18日推出最新粵語專輯《Giving》，發片當天銷量直達白金（5萬張）\[2\]，更蟬聯香港[IFPI銷量榜連續三週銷售冠軍](https://zh.wikipedia.org/wiki/IFPI "wikilink")\[3\]，銷量累計突破雙白金，成為2000年全港唯五張白金唱片的其一，首波主打歌「心癮」，MV由[何超儀](../Page/何超儀.md "wikilink")演出\[4\]，並接連登上香港電台中文歌曲龍虎榜、無線電視勁歌金榜、新城電台勁爆榜三台排行榜冠軍，而[英皇在台灣試發這張粵語專輯](https://zh.wikipedia.org/wiki/英皇 "wikilink")，也在短短時日內追加四次，賣出三萬多張，接著在2月舉辦王傑「Giving For The Children 慈善演唱會」票房亦相當熱烈\[5\] ，更在3月的『中國原創歌曲總評榜』99年度總選拿下「最受歡迎亞太男歌手」大獎\[6\] ，宣告回歸樂壇成功。
 
 ## 曲目
 
@@ -238,10 +235,7 @@ color=darkgreen><strong>曲</strong></font></p></td>
 
 ## 參考資料
 
-[Category:王傑音樂專輯](https://zh.wikipedia.org/wiki/Category:王傑音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
+[Category:王傑音樂專輯](https://zh.wikipedia.org/wiki/Category:王傑音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
 
 1.  1999.07.21 太陽報 娛樂版 含屈離開香港6年 王傑浪子回歸 歌酬3000萬
 2.  2000.01.19 新報 娛樂版 王傑出新碟銷量達白金　李進送紅褸　笑言會發惡夢

@@ -1,9 +1,6 @@
 \-- This module implements .
 
-local mArguments -- Lazily initialise
-[Module:Arguments](https://zh.wikipedia.org/wiki/Module:Arguments "wikilink")
-local mTableTools = require('Module:TableTools') local yesno =
-require('Module:Yesno')
+local mArguments -- Lazily initialise [Module:Arguments](https://zh.wikipedia.org/wiki/Module:Arguments "wikilink") local mTableTools = require('Module:TableTools') local yesno = require('Module:Yesno')
 
 local p = {}
 

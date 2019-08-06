@@ -21,6 +21,4 @@
 | 一刀不剪 No Cut舞蹈版        | 賴偉康  | 2014年8月20日 | [郭雪芙](../Page/郭雪芙.md "wikilink")特別演出                                                              |
 | 台北沉睡了 Taipei Dreamin' | 黃中平  | 2013年8月12日 | [Popu Lady](../Page/Popu_Lady.md "wikilink")[宇珊特別演出](https://zh.wikipedia.org/wiki/宇珊 "wikilink") |
 
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:炎亞綸音樂專輯](https://zh.wikipedia.org/wiki/Category:炎亞綸音樂專輯 "wikilink")
+[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:炎亞綸音樂專輯](https://zh.wikipedia.org/wiki/Category:炎亞綸音樂專輯 "wikilink")

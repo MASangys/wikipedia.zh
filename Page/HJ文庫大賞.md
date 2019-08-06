@@ -1,13 +1,11 @@
 **HJ文庫大賞**（****）是由於舉辦的文學獎。於2006年開始招募。獲獎作於[HJ文庫](../Page/HJ文庫.md "wikilink")出版。
 
-在2006年9月，由同社的輕小說雜誌《Novel JAPAN》創刊時一同舉行，起名《》。其後《Novel
-JAPAN》於2007年8月號更名《\[1\]》，加上雜誌於2009年1月（2009年3月號）休刊，導致大賞的名稱變得不適合，於2011年，第6回的募集期間的途中變更為現在的名稱。
+在2006年9月，由同社的輕小說雜誌《Novel JAPAN》創刊時一同舉行，起名《》。其後《Novel JAPAN》於2007年8月號更名《\[1\]》，加上雜誌於2009年1月（2009年3月號）休刊，導致大賞的名稱變得不適合，於2011年，第6回的募集期間的途中變更為現在的名稱。
 
 ## 選考委員
 
   - 第1回（2006年）、第2回（2007年）
-    [榊一郎](../Page/榊一郎.md "wikilink")・五代ゆう・松岡卓（ZERO-Section）・星野孝太（Hobby
-    Japan 取締役編集制作局長）
+    [榊一郎](../Page/榊一郎.md "wikilink")・五代ゆう・松岡卓（ZERO-Section）・星野孝太（Hobby Japan 取締役編集制作局長）
   - 第3回（2008年）〜
     宇田川芳彦（HJ文庫編集長）・其他
 
@@ -385,8 +383,7 @@ JAPAN》於2007年8月號更名《\[1\]》，加上雜誌於2009年1月（2009�
 
   - [HJ文庫大賞](http://www.hobbyjapan.co.jp/hjbunko/prize.php)
 
-[Category:HJ文庫](https://zh.wikipedia.org/wiki/Category:HJ文庫 "wikilink")
-[Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink")
+[Category:HJ文庫](https://zh.wikipedia.org/wiki/Category:HJ文庫 "wikilink") [Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink")
 
 1.  把「」及「」（「」的略稱）結合的造語。
 2.  在得獎之前，於2006年，以「藤村脩」名義在出道，作品名《》。

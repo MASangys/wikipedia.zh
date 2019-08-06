@@ -1,6 +1,4 @@
-**Lotte
-Girls**，中文名“乐天女孩”，由中国国韵文化联手韩国大弘企划强势推出的中韩女子歌唱偶像[团体](https://zh.wikipedia.org/wiki/团体 "wikilink")，由中国成员杨千艺、曲广曌、王静熙、孙梓淇4位成员和孙惠珠1个韩国成员组成。于2010年6月22日出道并发行首张专辑《Kiss
-Me》。
+**Lotte Girls**，中文名“乐天女孩”，由中国国韵文化联手韩国大弘企划强势推出的中韩女子歌唱偶像[团体](https://zh.wikipedia.org/wiki/团体 "wikilink")，由中国成员杨千艺、曲广曌、王静熙、孙梓淇4位成员和孙惠珠1个韩国成员组成。于2010年6月22日出道并发行首张专辑《Kiss Me》。
 
 ## 成员资料
 
@@ -65,11 +63,7 @@ Me》。
 
 [Category:中国女子演唱团体](https://zh.wikipedia.org/wiki/Category:中国女子演唱团体 "wikilink")
 
-1.  [Lotte Girls首张专辑《Kiss
-    me》](http://ent.163.com/10/0720/16/6C24MDHF00032PQV.html)
-2.  [Lotte Girls《Kiss
-    Me》首发成绩不俗](http://ent.sina.com.cn/y/2010-06-02/16122976349.shtml)
-3.  [中韩少女组合Lotte
-    Girls发布新专辑《大明星》](http://www.chinanews.com/tp/hd2011/2011/07-29/58003.shtml)
-4.  [Lotte Girls发行《大明星》
-    李在元到场力挺](http://ent.sina.com.cn/y/2011-07-29/11483372437.shtml)
+1.  [Lotte Girls首张专辑《Kiss me》](http://ent.163.com/10/0720/16/6C24MDHF00032PQV.html)
+2.  [Lotte Girls《Kiss Me》首发成绩不俗](http://ent.sina.com.cn/y/2010-06-02/16122976349.shtml)
+3.  [中韩少女组合Lotte Girls发布新专辑《大明星》](http://www.chinanews.com/tp/hd2011/2011/07-29/58003.shtml)
+4.  [Lotte Girls发行《大明星》 李在元到场力挺](http://ent.sina.com.cn/y/2011-07-29/11483372437.shtml)

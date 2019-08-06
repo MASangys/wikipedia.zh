@@ -1,16 +1,10 @@
-**Team N 3rd Stage「天使在這裡」**（）是[NMB48](../Page/NMB48.md "wikilink") Team
-N的第3场剧场公演，也是组合第一台原创公演。\[1\]。
+**Team N 3rd Stage「天使在這裡」**（）是[NMB48](../Page/NMB48.md "wikilink") Team N的第3场剧场公演，也是组合第一台原创公演。\[1\]。
 
 ## 概要
 
-当初、Team
-N的新公演本来预定于2012年5月就将开始演出，但是因为乐曲没有完成而不得不推迟\[2\]。之后，2013年8月23日在[東京巨蛋](../Page/東京巨蛋.md "wikilink")举行的演唱会「[AKB48
-2013盛夏的巨蛋巡回〜还有许多
-不得不做的事情〜](https://zh.wikipedia.org/wiki/AKB48_2013盛夏的巨蛋巡回〜还有许多_不得不做的事情〜 "wikilink")」（）中发布了新公演的标题及开始时间\[3\]，而且将目标定为“献上最棒的公演”（）因此又稍有延期\[4\]。而后，在大阪举行的《[大葱鸭们](https://zh.wikipedia.org/wiki/大葱鸭们 "wikilink")》（）单曲握手会上正式发表公演首场演出日期为「11月19日」，为表明按时开始演出的决心，运营方面也开始了公演的票务预订工作\[5\]。林林总总，Team
-N新公演的初日公演经过5次时间延迟，在第一次确定日期的1年半之后终于得以呈现\[6\]。
+当初、Team N的新公演本来预定于2012年5月就将开始演出，但是因为乐曲没有完成而不得不推迟\[2\]。之后，2013年8月23日在[東京巨蛋](../Page/東京巨蛋.md "wikilink")举行的演唱会「[AKB48 2013盛夏的巨蛋巡回〜还有许多 不得不做的事情〜](https://zh.wikipedia.org/wiki/AKB48_2013盛夏的巨蛋巡回〜还有许多_不得不做的事情〜 "wikilink")」（）中发布了新公演的标题及开始时间\[3\]，而且将目标定为“献上最棒的公演”（）因此又稍有延期\[4\]。而后，在大阪举行的《[大葱鸭们](https://zh.wikipedia.org/wiki/大葱鸭们 "wikilink")》（）单曲握手会上正式发表公演首场演出日期为「11月19日」，为表明按时开始演出的决心，运营方面也开始了公演的票务预订工作\[5\]。林林总总，Team N新公演的初日公演经过5次时间延迟，在第一次确定日期的1年半之后终于得以呈现\[6\]。
 
-初日公演上在观众席上就坐的有制作人[秋元康](../Page/秋元康.md "wikilink")与AKB48
-Group总监督[高橋南](../Page/高橋南.md "wikilink")（）\[7\]，公演结束后粉丝也向成员们表达了敬意\[8\]。
+初日公演上在观众席上就坐的有制作人[秋元康](../Page/秋元康.md "wikilink")与AKB48 Group总监督[高橋南](../Page/高橋南.md "wikilink")（）\[7\]，公演结束后粉丝也向成员们表达了敬意\[8\]。
 
 ## 公演内容
 
@@ -74,8 +68,7 @@ Group总监督[高橋南](../Page/高橋南.md "wikilink")（）\[7\]，公演�
 
 ### 关于演出
 
-  - 《梦之dead
-    body》中山本彩使用[电吉他](../Page/电吉他.md "wikilink")弹唱\[9\]。这也是48Group内首支自弹自唱的独唱曲目。
+  - 《梦之dead body》中山本彩使用[电吉他](../Page/电吉他.md "wikilink")弹唱\[9\]。这也是48Group内首支自弹自唱的独唱曲目。
   - 《拉链》中，渡边、吉田、上西三人在演出时脱去了外层的服装\[10\]。
   - 《德加与芭蕾舞者》中负责芭蕾舞的主要是門脇\[11\]。
 
@@ -130,8 +123,7 @@ Group总监督[高橋南](../Page/高橋南.md "wikilink")（）\[7\]，公演�
 
 ## 參考資料
 
-[Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
-[Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink")
+[Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink") [Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink")
 
 1.
 

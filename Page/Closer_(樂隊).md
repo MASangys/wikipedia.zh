@@ -46,6 +46,4 @@
   - [吳浩康轉型做Band仔](https://archive.is/20130107173615/http://news.sina.com.hk/news/15/1/1/2600093/1.html)
   - [新樂隊組合「Closer」進軍香港樂壇](http://www.epochtimes.com/b5/12/3/7/n3532934.htm%E6%96%B0%E6%A8%82%E9%9A%8A%E7%B5%84%E5%90%88%E3%80%8CCloser%E3%80%8D%E9%80%B2%E8%BB%8D%E9%A6%99%E6%B8%AF%E6%A8%82%E5%A3%87)
 
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
-[Category:粵語流行音樂團體](https://zh.wikipedia.org/wiki/Category:粵語流行音樂團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
+[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:粵語流行音樂團體](https://zh.wikipedia.org/wiki/Category:粵語流行音樂團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")

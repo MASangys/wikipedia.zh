@@ -1,6 +1,4 @@
-《**BTOOOM\!**》（；）是[日本](../Page/日本.md "wikilink")漫畫家[井上淳哉](../Page/井上淳哉.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。2009年6月19日（29號）至2010年8月27日（39號，最終號）在[新潮社旗下青年漫畫雜誌](https://zh.wikipedia.org/wiki/新潮社 "wikilink")《[週刊Comic
-Bunch](https://zh.wikipedia.org/wiki/週刊Comic_Bunch "wikilink")》上連載，之后由於《週刊Comic
-Bunch》的休刊，在2011年1月21日轉移到同属新潮社旗下另一本青年漫畫雜誌《[月刊Comic@Bunch](https://zh.wikipedia.org/wiki/月刊Comic@Bunch "wikilink")》上，从雜誌創刊號开始連載至今。
+《**BTOOOM\!**》（；）是[日本](../Page/日本.md "wikilink")漫畫家[井上淳哉](../Page/井上淳哉.md "wikilink")的[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。2009年6月19日（29號）至2010年8月27日（39號，最終號）在[新潮社旗下青年漫畫雜誌](https://zh.wikipedia.org/wiki/新潮社 "wikilink")《[週刊Comic Bunch](https://zh.wikipedia.org/wiki/週刊Comic_Bunch "wikilink")》上連載，之后由於《週刊Comic Bunch》的休刊，在2011年1月21日轉移到同属新潮社旗下另一本青年漫畫雜誌《[月刊Comic@Bunch](https://zh.wikipedia.org/wiki/月刊Comic@Bunch "wikilink")》上，从雜誌創刊號开始連載至今。
 
 ## 故事
 
@@ -20,15 +18,14 @@ Bunch》的休刊，在2011年1月21日轉移到同属新潮社旗下另一本�
     Dark真實篇最後與織田同歸於盡。
   -
     生死情況：存活（兩篇皆是）
-    本作的女主角，本名**御子神赫米利亞**，15歲，身高158公分，血型B型，高中生，居住在東京，因金髮碧眼和豐滿巨乳的身材而經常被誤會為外國人，但能懂英文很可能是[混血](https://zh.wikipedia.org/wiki/混血 "wikilink")。對男性極度不信任，就像[恐懼症](../Page/恐懼症.md "wikilink")那樣嚴重。
+    本作的女主角，本名**御子神赫米利亞**，15歲，身高158公分，血型B型，高中生，居住在東京，因金髮碧眼和過於色情提早發育過頭的豐滿H罩杯巨乳的身材而經常被誤會為外國人，但能懂英文很可能是[混血](https://zh.wikipedia.org/wiki/混血 "wikilink")。對男性極度不信任，就像[恐懼症](../Page/恐懼症.md "wikilink")那樣嚴重。
     因認識的青梅竹馬是日本著名的樂團成員，約了那些成員跟她的同學會面，但他們卻把她的同學帶到公寓強暴，而HIMIKO因過於害怕而自己逃跑，沒有去救她的同學們，雖然最後事件被公諸於世，成員也都被警方逮捕，但最後還是被同學填上「讓人消失的表格」，因而被送往孤島進行遊戲。
     初始BIM為「計時式」。後來因多次被龍太拯救及發現龍太是網絡遊戲「BTOOOM\!」中的情人「SAKAMOTO」，開始對龍太敞開心房，並喜歡上他。後與龍太組隊。執行搶奪直升機失敗後與織田同時落海，並與織田一起行動，直到遇到敵人後分開，自己去找龍太。
     Light友情篇事件兩年後決定與龍太結婚。
   -
     生死情況：存活（兩篇皆是）
     14歲孩童，因為被父親長期的虐待，導致精神不正常。有著搶劫、偷竊等罪名。在公園以先殺後姦之罪移送法辦，與夏目總一和父親吉良義久來到島上。
-    初始BIM為「爆縮式」。殺了吉良義久後奪取其BIM。為BTOOOM的三星級玩家，視坂本為宿敵。殺了原是4人組之一的SHIGEASA
-    KOSONOKI，之後加入4人組。到最後還非常執著於坂本，在對戰中被東鄉所救。視東鄉為父親。
+    初始BIM為「爆縮式」。殺了吉良義久後奪取其BIM。為BTOOOM的三星級玩家，視坂本為宿敵。殺了原是4人組之一的SHIGEASA KOSONOKI，之後加入4人組。到最後還非常執著於坂本，在對戰中被東鄉所救。視東鄉為父親。
   -
     生死情況：存活（Light友情篇）／死亡（Dark真實篇）
     龍太高中的同班同學，做任何事都要求完美，會互相訴說心裡的話，也告訴龍太為了找尋出路而謊報年齡並從事牛郎的工作，龍太也因為有如此肯談心的朋友而感到開心，所以告訴信隆他暗戀愛子的事情，但是織田卻背著龍太和愛子發生性行為，龍太認為織田踐踏他小心謹慎向他敞開的心，憤怒之下打了織田，最後龍太與織田被學校退學，並開始當了正式的牛郎也有了自己的店。
@@ -90,8 +87,7 @@ Bunch》的休刊，在2011年1月21日轉移到同属新潮社旗下另一本�
     以前的職業是警察，最後遭吉岡用MP5K衝鋒槍射殺身亡。
   -
     生死情況：存活（Light友情篇）／死亡（Dark真實篇）
-    11歲的小女孩。月光教的教主。特殊靈異體質，有看的到靈魂的能力。相信坂本曾把性命交給坂本，而坂本離開後與東鄉和康介一起行動，然後在東鄉遭吉岡殺害後與葉子一同行動，後遭無人機的雷射擊穿身體但沒死。
-    Light友情篇遊戲結束後經治療休養已康復。Dark真實篇最後因守護龍太而靈力用盡死亡。
+    11歲的小女孩。月光教的教主。特殊靈異體質，有看的到靈魂的能力。相信坂本曾把性命交給坂本，而坂本離開後與東鄉和康介一起行動，然後在東鄉遭吉岡殺害後與葉子一同行動，後遭無人機的雷射擊穿身體但沒死。 Light友情篇遊戲結束後經治療休養已康復。Dark真實篇最後因守護龍太而靈力用盡死亡。
   -
     生死情況：死亡
     18歲。喜愛攝影所以被大家稱作“攝夫”。表面上是無害草食男,但實際上是有計劃的殺人。在聖域負責保管大家的BIM，了解大家的BIM，在計劃即將成功時被龍太、蘇我及輝夜聯合擊敗。最後因蘇我丟出的追蹤式BIM炸成重傷而被巨蜥蜴咬死。
@@ -131,8 +127,7 @@ Bunch》的休刊，在2011年1月21日轉移到同属新潮社旗下另一本�
   -
     45歲。開發「遊戲版BTOOOM\!」的主要成員，同時也是「現實版BTOOOM\!」的主辦人之一。
   -
-    24歲。Tyrannos
-    JAPAN的遊戲設計師，居住於東京。坂本龍太在學生時代時的前輩。開發「遊戲版BTOOOM\!」的成員之一，同時也是「現實版BTOOOM\!」的相關成員之一，不過在第77話被鷹嘴認定是背叛者，遭到鷹嘴派來的秘書盯上。
+    24歲。Tyrannos JAPAN的遊戲設計師，居住於東京。坂本龍太在學生時代時的前輩。開發「遊戲版BTOOOM\!」的成員之一，同時也是「現實版BTOOOM\!」的相關成員之一，不過在第77話被鷹嘴認定是背叛者，遭到鷹嘴派來的秘書盯上。
   -
     戴眼鏡的男性。開發「遊戲版BTOOOM\!」的成員。
   -
@@ -353,8 +348,7 @@ ISBN 978-4-10-772110-5（Dark真實篇）</p></td>
 
 ### 製作人員
 
-  - 原作 -
-    [井上淳哉](../Page/井上淳哉.md "wikilink")（《[月刊Comic@Bunch](https://zh.wikipedia.org/wiki/月刊Comic@Bunch "wikilink")》[新潮社刊](https://zh.wikipedia.org/wiki/新潮社 "wikilink")）
+  - 原作 - [井上淳哉](../Page/井上淳哉.md "wikilink")（《[月刊Comic@Bunch](https://zh.wikipedia.org/wiki/月刊Comic@Bunch "wikilink")》[新潮社刊](https://zh.wikipedia.org/wiki/新潮社 "wikilink")）
   - 監督 - 渡邊こと乃
   - 腳本 - [黑田洋介](../Page/黑田洋介.md "wikilink")
   - 角色設計 - [岸田隆宏](../Page/岸田隆宏.md "wikilink")
@@ -364,8 +358,7 @@ ISBN 978-4-10-772110-5（Dark真實篇）</p></td>
   - 音響監督 - 蝦名恭範
   - 音樂 - [井内啓二](https://zh.wikipedia.org/wiki/井内啓二 "wikilink")
   - 動畫製作 - [馬多浩斯](https://zh.wikipedia.org/wiki/馬多浩斯 "wikilink")
-  - 製作 - 「BTOOOM\!」製作委員会（[flying
-    DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")、[KlockWorx](https://zh.wikipedia.org/wiki/KlockWorx "wikilink")、[Showgate](https://zh.wikipedia.org/wiki/Showgate "wikilink")、[新潮社](https://zh.wikipedia.org/wiki/新潮社 "wikilink")、[馬多浩斯](https://zh.wikipedia.org/wiki/馬多浩斯 "wikilink")、[創通](../Page/創通.md "wikilink")）
+  - 製作 - 「BTOOOM\!」製作委員会（[flying DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")、[KlockWorx](https://zh.wikipedia.org/wiki/KlockWorx "wikilink")、[Showgate](https://zh.wikipedia.org/wiki/Showgate "wikilink")、[新潮社](https://zh.wikipedia.org/wiki/新潮社 "wikilink")、[馬多浩斯](https://zh.wikipedia.org/wiki/馬多浩斯 "wikilink")、[創通](../Page/創通.md "wikilink")）
 
 ### 主題曲
 
@@ -596,11 +589,9 @@ ISBN 978-4-10-772110-5（Dark真實篇）</p></td>
 
   - [BTOOOM！](http://www.btooom.com/)，電視動畫官方網站。
 
-  - [BTOOOM\! animelo -
-    アニメ系音楽サイト](http://animelo.jp/animes/BTOOOM%EF%BC%81)
+  - [BTOOOM\! animelo - アニメ系音楽サイト](http://animelo.jp/animes/BTOOOM%EF%BC%81)
 
-  - [響 - HiBiKi Radio Station
-    -「BTOOOM\!ラジオ\!」番組詳細](http://hibiki-radio.jp/description/btooom)
+  - [響 - HiBiKi Radio Station -「BTOOOM\!ラジオ\!」番組詳細](http://hibiki-radio.jp/description/btooom)
 
   - [BTOOOM！](http://www.btooom-online.jp/)，遊戲官方網站。
 
@@ -608,13 +599,6 @@ ISBN 978-4-10-772110-5（Dark真實篇）</p></td>
 
   - ，遊戲相關。
 
-[Category:2012年UHF動畫](https://zh.wikipedia.org/wiki/Category:2012年UHF動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink")
-[Category:虛構電子遊戲](https://zh.wikipedia.org/wiki/Category:虛構電子遊戲 "wikilink")
-[Category:死亡遊戲題材作品](https://zh.wikipedia.org/wiki/Category:死亡遊戲題材作品 "wikilink")
-[Category:無人島背景漫畫](https://zh.wikipedia.org/wiki/Category:無人島背景漫畫 "wikilink")
-[Category:無人島背景動畫](https://zh.wikipedia.org/wiki/Category:無人島背景動畫 "wikilink")
+[Category:2012年UHF動畫](https://zh.wikipedia.org/wiki/Category:2012年UHF動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:虛構電子遊戲](https://zh.wikipedia.org/wiki/Category:虛構電子遊戲 "wikilink") [Category:死亡遊戲題材作品](https://zh.wikipedia.org/wiki/Category:死亡遊戲題材作品 "wikilink") [Category:無人島背景漫畫](https://zh.wikipedia.org/wiki/Category:無人島背景漫畫 "wikilink") [Category:無人島背景動畫](https://zh.wikipedia.org/wiki/Category:無人島背景動畫 "wikilink")
 
 1.  超豪華HIMIKO印刷「寫真集」『Gravity Angel』附贈限定版

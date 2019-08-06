@@ -2,9 +2,7 @@
 
 ## 概要
 
-EV-E301系是以被暱稱為「NE Train Smart電池君」（）的[KuMoYa
-E995型實驗車為基礎所開發而出的量產車型](../Page/JR東日本E995型電聯車.md "wikilink")，JR東日本在其上使用了一套被稱為「蓄電池驅動電聯車系統」（）的新技術，在傳統的電力列車驅動系統上額外加裝了大容量[鋰離子蓄電池與相關控制迴路](https://zh.wikipedia.org/wiki/鋰離子蓄電池 "wikilink")，可在不同的供電來源間自由切換。配合此特色新車款被賦予「**ACCUM**」的暱稱，而該暱稱是取自「能源蓄集車輛」（Energy
-**Accum**ulating Vehicle）的部分拼字。
+EV-E301系是以被暱稱為「NE Train Smart電池君」（）的[KuMoYa E995型實驗車為基礎所開發而出的量產車型](../Page/JR東日本E995型電聯車.md "wikilink")，JR東日本在其上使用了一套被稱為「蓄電池驅動電聯車系統」（）的新技術，在傳統的電力列車驅動系統上額外加裝了大容量[鋰離子蓄電池與相關控制迴路](https://zh.wikipedia.org/wiki/鋰離子蓄電池 "wikilink")，可在不同的供電來源間自由切換。配合此特色新車款被賦予「**ACCUM**」的暱稱，而該暱稱是取自「能源蓄集車輛」（Energy **Accum**ulating Vehicle）的部分拼字。
 
 除了作為一般的電聯車使用外，EV-E301系也可以行駛於非電氣化的路線上，JR東日本於2014年3月15日的班次表修改後，先投入一列兩輛編組的試產車至旗下的非電氣化路線——[烏山線](../Page/烏山線.md "wikilink")實際營運，並陸續量產擴增編組。以完全取代該線上使用柴油動力的為目標。
 
@@ -16,8 +14,7 @@ E995型實驗車為基礎所開發而出的量產車型](../Page/JR東日本E995
 
 ### 車型命名
 
-EV-E301系是JR東日本首度採用「EV」這個編號作為列車車型命名，代表「能源儲存車輛」（**E**nergy storage
-**V**ehicle）之意。EV-E301系列實際上包括兩個車型，分別是代號「Mc」、實際車型編號**EV-E301**，裝有[集電弓](../Page/集電弓.md "wikilink")與蓄電池的電力收集車，與代號「Mc'」、車型編號**EV-E300**的純電池車。每個營運編組由Mc與Mc'各一輛組成，兩車廂共四個[轉向架](../Page/轉向架.md "wikilink")皆有驅動力。
+EV-E301系是JR東日本首度採用「EV」這個編號作為列車車型命名，代表「能源儲存車輛」（**E**nergy storage **V**ehicle）之意。EV-E301系列實際上包括兩個車型，分別是代號「Mc」、實際車型編號**EV-E301**，裝有[集電弓](../Page/集電弓.md "wikilink")與蓄電池的電力收集車，與代號「Mc'」、車型編號**EV-E300**的純電池車。每個營運編組由Mc與Mc'各一輛組成，兩車廂共四個[轉向架](../Page/轉向架.md "wikilink")皆有驅動力。
 
 ### 運作
 
@@ -72,13 +69,9 @@ EV-E301系列的動力系統設計大體沿用自E995型實驗車，主要的差
 
 ### 優點
 
-[EV-E301_Karasuyama2.JPG](https://zh.wikipedia.org/wiki/File:EV-E301_Karasuyama2.JPG "fig:EV-E301_Karasuyama2.JPG")
-[EV-E301_and_Kiha40_Ogane.jpg](https://zh.wikipedia.org/wiki/File:EV-E301_and_Kiha40_Ogane.jpg "fig:EV-E301_and_Kiha40_Ogane.jpg")內。\]\]
-[EV-E300-1_V1_at_karasuyama_station.JPG](https://zh.wikipedia.org/wiki/File:EV-E300-1_V1_at_karasuyama_station.JPG "fig:EV-E300-1_V1_at_karasuyama_station.JPG")後，車頂的集電弓升起以利用站內設置的剛性懸掛高架供電線進行充電。EV-E301系V1編組，2014年攝於烏山車站內。\]\]
-除了上述的車輛調度彈性與鐵路線的建置維護成本外，相較於傳統非電化路線所使用的柴油動力車輛，EV-E301也具有大幅降低[燃料](../Page/燃料.md "wikilink")消耗、減少[碳排放量與其他污染排放的優勢](https://zh.wikipedia.org/wiki/碳排放量 "wikilink")。JR東日本對於非電化路線提出了兩種不同的解決方案，其一是針對全線皆為非電氣化路線的地區所開發的串聯式[混合動力柴聯車](https://zh.wikipedia.org/wiki/混合動力車 "wikilink")，另一種就是從EV-E301開始啟用的蓄電池電聯車系統，適合使用於部分電氣化、部分非電氣化的混合路線上。
+[EV-E301_Karasuyama2.JPG](https://zh.wikipedia.org/wiki/File:EV-E301_Karasuyama2.JPG "fig:EV-E301_Karasuyama2.JPG") [EV-E301_and_Kiha40_Ogane.jpg](https://zh.wikipedia.org/wiki/File:EV-E301_and_Kiha40_Ogane.jpg "fig:EV-E301_and_Kiha40_Ogane.jpg")內。\]\] [EV-E300-1_V1_at_karasuyama_station.JPG](https://zh.wikipedia.org/wiki/File:EV-E300-1_V1_at_karasuyama_station.JPG "fig:EV-E300-1_V1_at_karasuyama_station.JPG")後，車頂的集電弓升起以利用站內設置的剛性懸掛高架供電線進行充電。EV-E301系V1編組，2014年攝於烏山車站內。\]\] 除了上述的車輛調度彈性與鐵路線的建置維護成本外，相較於傳統非電化路線所使用的柴油動力車輛，EV-E301也具有大幅降低[燃料](../Page/燃料.md "wikilink")消耗、減少[碳排放量與其他污染排放的優勢](https://zh.wikipedia.org/wiki/碳排放量 "wikilink")。JR東日本對於非電化路線提出了兩種不同的解決方案，其一是針對全線皆為非電氣化路線的地區所開發的串聯式[混合動力柴聯車](https://zh.wikipedia.org/wiki/混合動力車 "wikilink")，另一種就是從EV-E301開始啟用的蓄電池電聯車系統，適合使用於部分電氣化、部分非電氣化的混合路線上。
 
-串聯式混合動力柴聯車的代表性車種包括了最早投入[小海線](../Page/小海線.md "wikilink")進行實際營運的預產車輛[KiHa
-E200型](https://zh.wikipedia.org/wiki/KiHa_E200型 "wikilink")，與第一款量產化的混合動力列車、行駛於[大糸線](../Page/大糸線.md "wikilink")等路線上的[HB-E300系觀光用列車](https://zh.wikipedia.org/wiki/HB-E300系 "wikilink")。無論是串聯式混合動力系統還是蓄電池式電力系統，都是利用日益成熟的大容量鋰離子蓄電池這種元件，來提升車輛的運作彈性。
+串聯式混合動力柴聯車的代表性車種包括了最早投入[小海線](../Page/小海線.md "wikilink")進行實際營運的預產車輛[KiHa E200型](https://zh.wikipedia.org/wiki/KiHa_E200型 "wikilink")，與第一款量產化的混合動力列車、行駛於[大糸線](../Page/大糸線.md "wikilink")等路線上的[HB-E300系觀光用列車](https://zh.wikipedia.org/wiki/HB-E300系 "wikilink")。無論是串聯式混合動力系統還是蓄電池式電力系統，都是利用日益成熟的大容量鋰離子蓄電池這種元件，來提升車輛的運作彈性。
 
 ## 營運
 
@@ -133,12 +126,9 @@ JR東日本預計在2014年春時，將兩輛一編組的EV-E301投入實際營�
 ## 外部連結
 
   - [<span lang="ja">JR東日本、2014年春から新型車両「EV-E301系」を烏山線に導入</span>](http://otakei.otakuma.net/archives/2012111202.html)（御宅間經濟新聞（））
-  - [<span lang="ja">編集長敬白 -
-    烏山線にＥＶ-Ｅ301系</span>](http://rail.hobidas.com/news/info/article/134417.html)（鐵道Hobidas）
+  - [<span lang="ja">編集長敬白 - 烏山線にＥＶ-Ｅ301系</span>](http://rail.hobidas.com/news/info/article/134417.html)（鐵道Hobidas）
 
-[Category:日本電力動車組](https://zh.wikipedia.org/wiki/Category:日本電力動車組 "wikilink")
-[Category:東日本旅客鐵道車輛](https://zh.wikipedia.org/wiki/Category:東日本旅客鐵道車輛 "wikilink")
-[Category:桂冠獎](https://zh.wikipedia.org/wiki/Category:桂冠獎 "wikilink")
+[Category:日本電力動車組](https://zh.wikipedia.org/wiki/Category:日本電力動車組 "wikilink") [Category:東日本旅客鐵道車輛](https://zh.wikipedia.org/wiki/Category:東日本旅客鐵道車輛 "wikilink") [Category:桂冠獎](https://zh.wikipedia.org/wiki/Category:桂冠獎 "wikilink")
 
 1.  [2016年　ブルーリボン・ローレル賞選定車両](http://www.jrc.gr.jp/award/bl/bl2016)
 2.   - 東日本旅客鉄道プレスリリース、2016年12月16日

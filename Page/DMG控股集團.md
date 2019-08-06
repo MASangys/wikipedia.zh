@@ -13,8 +13,4 @@ DMG控股集團創始人為肖文閣、吳冰，現任公司董事長為肖文�
 
   - [DMG控股集團](https://web.archive.org/web/20151117020334/http://www.d-m-g.com/)
 
-[Category:北京市公司](https://zh.wikipedia.org/wiki/Category:北京市公司 "wikilink")
-[Category:中國民營企業](https://zh.wikipedia.org/wiki/Category:中國民營企業 "wikilink")
-[Category:中国传媒公司](https://zh.wikipedia.org/wiki/Category:中国传媒公司 "wikilink")
-[Category:中國房地產開發公司](https://zh.wikipedia.org/wiki/Category:中國房地產開發公司 "wikilink")
-[Category:1993年成立的公司](https://zh.wikipedia.org/wiki/Category:1993年成立的公司 "wikilink")
+[Category:北京市公司](https://zh.wikipedia.org/wiki/Category:北京市公司 "wikilink") [Category:中國民營企業](https://zh.wikipedia.org/wiki/Category:中國民營企業 "wikilink") [Category:中国传媒公司](https://zh.wikipedia.org/wiki/Category:中国传媒公司 "wikilink") [Category:中國房地產開發公司](https://zh.wikipedia.org/wiki/Category:中國房地產開發公司 "wikilink") [Category:1993年成立的公司](https://zh.wikipedia.org/wiki/Category:1993年成立的公司 "wikilink")

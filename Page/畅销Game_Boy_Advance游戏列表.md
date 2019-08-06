@@ -1,5 +1,4 @@
-本表列出销售或出货超过100万的[Game Boy
-Advance游戏](../Page/Game_Boy_Advance.md "wikilink")。
+本表列出销售或出货超过100万的[Game Boy Advance游戏](../Page/Game_Boy_Advance.md "wikilink")。
 
 ## 列表
 
@@ -47,9 +46,7 @@ Advance游戏](../Page/Game_Boy_Advance.md "wikilink")。
 
 ## 参考文献
 
-[Category:Game_Boy_Advance游戏](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance游戏 "wikilink")
-[Category:電子遊戲列表](https://zh.wikipedia.org/wiki/Category:電子遊戲列表 "wikilink")
-[Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
+[Category:Game_Boy_Advance游戏](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance游戏 "wikilink") [Category:電子遊戲列表](https://zh.wikipedia.org/wiki/Category:電子遊戲列表 "wikilink") [Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
 
 1.
 

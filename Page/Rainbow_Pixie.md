@@ -1,21 +1,15 @@
-**Rainbow
-Pixie**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Rainbow於](../Page/Rainbow_\(音樂團體\).md "wikilink")2012年組成的子團，成員包括隊長[吳丞芽](../Page/吳丞芽.md "wikilink")、[金智淑](https://zh.wikipedia.org/wiki/金智淑_\(RAINBOW\) "wikilink")、[趙賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")\[1\]。2016年11月12日，随着原團體Rainbow全體成員不再與[DSP
-Media續約](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")、團體正式解散，成員獨立發展
+**Rainbow Pixie**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Rainbow於](../Page/Rainbow_\(音樂團體\).md "wikilink")2012年組成的子團，成員包括隊長[吳丞芽](../Page/吳丞芽.md "wikilink")、[金智淑](https://zh.wikipedia.org/wiki/金智淑_\(RAINBOW\) "wikilink")、[趙賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")\[1\]。2016年11月12日，随着原團體Rainbow全體成員不再與[DSP Media續約](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")、團體正式解散，成員獨立發展
 
 ## 概要
 
-  - 2012年1月3日，[DSP官方公布將會成立Rainbow首支子團](https://zh.wikipedia.org/wiki/DSP "wikilink")，稱為「Rainbow
-    Pixie」，同日凌晨12時，於官網公布神秘照片，並在24小時內進行猜成員活動。
-  - 「Rainbow Pixie」意謂「彩虹精靈」，代表子團將兼備
-    Rainbow原有的成熟，並加上平時難得一見的可愛風格。此外，Rainbow隊長[栽經一手包辦子團](../Page/金栽經.md "wikilink")「Rainbow
-    Pixie」相關美編、成員造型、道具、定妝概念\[2\]。
+  - 2012年1月3日，[DSP官方公布將會成立Rainbow首支子團](https://zh.wikipedia.org/wiki/DSP "wikilink")，稱為「Rainbow Pixie」，同日凌晨12時，於官網公布神秘照片，並在24小時內進行猜成員活動。
+  - 「Rainbow Pixie」意謂「彩虹精靈」，代表子團將兼備 Rainbow原有的成熟，並加上平時難得一見的可愛風格。此外，Rainbow隊長[栽經一手包辦子團](../Page/金栽經.md "wikilink")「Rainbow Pixie」相關美編、成員造型、道具、定妝概念\[2\]。
   - 1月4日，官網發佈成員照片﹕隊長[丞芽](../Page/吳丞芽.md "wikilink")、[智淑](https://zh.wikipedia.org/wiki/金智淑_\(RAINBOW\) "wikilink")、[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")\[3\]，同時宣佈新單曲將於12日發佈。
   - 1月5日，公開新單曲宣傳封面\[4\]。
   - 1月14日，以「Show\!音樂中心」作子團出道舞台[1](https://www.youtube.com/watch?v=_h3maqEOMHs)\[5\]，成為網民熱話，更登上搜索排行榜冠軍。
   - 1月17日，公開《Hoi Hoi》MV幕後花絮\[6\]。
   - 2012年2月17日，以「Music Core」演出結束宣傳期。
-  - 2014年4月2日，成員智淑在訪問中，曾分享對Rainbow Pixie的評價﹕「大家記得Rainbow
-    Pixie嗎？因為不刺激，所以不記得。對於女團，這是很大的苦楚。"」\[7\]
+  - 2014年4月2日，成員智淑在訪問中，曾分享對Rainbow Pixie的評價﹕「大家記得Rainbow Pixie嗎？因為不刺激，所以不記得。對於女團，這是很大的苦楚。"」\[7\]
 
 ## 成員
 
@@ -101,21 +95,12 @@ Media續約](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")、團體正式�
 
   -
 
-[Category:Rainbow](https://zh.wikipedia.org/wiki/Category:Rainbow "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2016年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年解散的音樂團體 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
+[Category:Rainbow](https://zh.wikipedia.org/wiki/Category:Rainbow "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2016年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年解散的音樂團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
 
 1.  [Rainbow Pixie](http://kpopn.com/2012/06/17/128709/)
 2.  [Rainbow Pixie 的造型師](http://kpopn.com/2012/01/18/103070/)
 3.  [Rainbow Pixie 成員公開！](http://kpopn.com/2012/01/04/100237/)
 4.  [Rainbow Pixie 專輯封面照](http://kpopn.com/2012/01/07/100948/)
-5.  [Rainbow
-    Pixie首秀獲魔法掃把禮物](http://www.koreastardaily.com/tc/news/14498)
-6.  [Rainbow Pixie《Hoi
-    Hoi》MV拍攝花絮曝光](http://www.koreastardaily.com/tc/video/14531)
+5.  [Rainbow Pixie首秀獲魔法掃把禮物](http://www.koreastardaily.com/tc/news/14498)
+6.  [Rainbow Pixie《Hoi Hoi》MV拍攝花絮曝光](http://www.koreastardaily.com/tc/video/14531)
 7.  [Rainbow智淑：「女團走性感路線不是被強迫，而是…」](http://chinese.kpopstarz.com/trad/articles/26921/20140402/rainbow-zhishu.htm)

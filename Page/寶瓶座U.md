@@ -2,11 +2,7 @@
 
 ## 參考資料
 
-[Category:寶瓶座](https://zh.wikipedia.org/wiki/Category:寶瓶座 "wikilink")
-[Category:HIP天體](https://zh.wikipedia.org/wiki/Category:HIP天體 "wikilink")
-[Category:BD、CD和CP天体](https://zh.wikipedia.org/wiki/Category:BD、CD和CP天体 "wikilink")
-[Category:北冕座R變星](https://zh.wikipedia.org/wiki/Category:北冕座R變星 "wikilink")
-[Category:以变星命名法命名的天体](https://zh.wikipedia.org/wiki/Category:以变星命名法命名的天体 "wikilink")
+[Category:寶瓶座](https://zh.wikipedia.org/wiki/Category:寶瓶座 "wikilink") [Category:HIP天體](https://zh.wikipedia.org/wiki/Category:HIP天體 "wikilink") [Category:BD、CD和CP天体](https://zh.wikipedia.org/wiki/Category:BD、CD和CP天体 "wikilink") [Category:北冕座R變星](https://zh.wikipedia.org/wiki/Category:北冕座R變星 "wikilink") [Category:以变星命名法命名的天体](https://zh.wikipedia.org/wiki/Category:以变星命名法命名的天体 "wikilink")
 
 1.
 2.

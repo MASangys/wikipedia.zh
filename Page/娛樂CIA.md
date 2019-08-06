@@ -98,8 +98,7 @@
   - 2012年8月13日，傳訊媒體集團在[海逸君綽酒店為](https://zh.wikipedia.org/wiki/海逸君綽酒店 "wikilink")《娛樂CIA》舉行盛大首播晚宴，招待超過200位嘉賓，一起見證節目首播及觀賞首集節目。
   - 2012年8月10日開始，作為期三周到港、九、新界，派專人到10個地區派發「阿媽醒Summer 熱爆Fun」100萬港元大抽獎宣傳單張。
   - 2012年8月25日至31日，於[荃灣](../Page/荃灣.md "wikilink")[愉景新城](../Page/愉景新城.md "wikilink")商場設置推廣電視宣傳專櫃，全日播放節目精選片段予遊人觀賞。
-  - 2012年9月8日，舉行「阿媽醒Summer
-    熱爆Fun」100萬港元大抽獎遊戲巴士巡遊宣傳，同日於[尖沙咀](../Page/尖沙咀.md "wikilink")[活方商場設置推廣電視專櫃](https://zh.wikipedia.org/wiki/活方商場 "wikilink")，作為期一個月全日播放節目精選片段予遊人觀賞。
+  - 2012年9月8日，舉行「阿媽醒Summer 熱爆Fun」100萬港元大抽獎遊戲巴士巡遊宣傳，同日於[尖沙咀](../Page/尖沙咀.md "wikilink")[活方商場設置推廣電視專櫃](https://zh.wikipedia.org/wiki/活方商場 "wikilink")，作為期一個月全日播放節目精選片段予遊人觀賞。
   - 2012年9月15日，於荃灣愉景新城商場舉行「娛樂CIA滿月暨阿媽醒Summer熱爆Fun大衝刺」大型戶外活動，吸引達200名觀眾欣賞。
   - 2012年9月15日，由新任監製[鄧特希](../Page/鄧特希.md "wikilink")將節目內容改善為現時播放的新安排。
   - 2013年2月27日：由於因為不滿有人干預編輯自主，令節目難以保持水準，故傳訊媒體製作有限公司已向亞視發出律師信，通知腰斬節目及追討賠償。\[2\]
@@ -136,16 +135,11 @@
 
   - 2012年9月30日：由於調動節目播映時間及播映《天涯共此時 蘆溝曉月 2012年中秋晚會》，本節目暫停播映一次。
   - 2012年10月1日：由於播映《[亞洲電視55周年慶典](../Page/亞洲電視五十五周年.md "wikilink")》，本節目暫停播映一次。
-  - 2012年10月21日：由於播映《[ATV
-    2013節目巡禮](https://zh.wikipedia.org/wiki/ATV_2013節目巡禮 "wikilink")》及《[微·電影特號](https://zh.wikipedia.org/wiki/微·電影 "wikilink")》，本節目暫停播映一次。
-  - 2012年11月18日：由於直播《[ATV
-    2012亞洲先生競選](../Page/亞洲先生競選.md "wikilink")》，本節目暫停播映一次。
-  - 2012年12月2日：由於直播《[ATV
-    2012感動香港年度人物頒獎禮](https://zh.wikipedia.org/wiki/ATV_2012感動香港年度人物頒獎禮 "wikilink")》，本節目暫停播映一次。
-  - 2012年12月9日：由於播映《[合正榮悅之夜
-    亞洲電視55周年星光大典](../Page/亞洲電視五十五周年.md "wikilink")》，本節目暫停播映一次。
-  - 2012年12月16日：由於播映《[ATV
-    2012亞洲小姐競選大中華總決賽](https://zh.wikipedia.org/wiki/亞洲小姐競選 "wikilink")》，本節目暫停播映一次。
+  - 2012年10月21日：由於播映《[ATV 2013節目巡禮](https://zh.wikipedia.org/wiki/ATV_2013節目巡禮 "wikilink")》及《[微·電影特號](https://zh.wikipedia.org/wiki/微·電影 "wikilink")》，本節目暫停播映一次。
+  - 2012年11月18日：由於直播《[ATV 2012亞洲先生競選](../Page/亞洲先生競選.md "wikilink")》，本節目暫停播映一次。
+  - 2012年12月2日：由於直播《[ATV 2012感動香港年度人物頒獎禮](https://zh.wikipedia.org/wiki/ATV_2012感動香港年度人物頒獎禮 "wikilink")》，本節目暫停播映一次。
+  - 2012年12月9日：由於播映《[合正榮悅之夜 亞洲電視55周年星光大典](../Page/亞洲電視五十五周年.md "wikilink")》，本節目暫停播映一次。
+  - 2012年12月16日：由於播映《[ATV 2012亞洲小姐競選大中華總決賽](https://zh.wikipedia.org/wiki/亞洲小姐競選 "wikilink")》，本節目暫停播映一次。
   - 2013年1月16日：由於直播《施政論壇2013》，本節目暫停播映一次。
   - 2013年2月11日：由於播映《[2013全球同歡慶新春](https://zh.wikipedia.org/wiki/2013全球同歡慶新春 "wikilink")》，本節目暫停播映一次。
 
@@ -154,15 +148,11 @@
 ## 外部連結
 
   - 娛樂CIA[亞視節目網頁](https://web.archive.org/web/20130315072327/http://www.hkatv.com/v5/12/ecia/content.html)／[亞視討論區](https://web.archive.org/web/20130204233436/http://forum.hkatv.com/v5/forumdisplay.php?fid=187)／[宣傳片](http://www.youtube.com/watch?v=gtZxWIXprNo)
-  - [娛樂CIA
-    Facebook專頁](https://zh-hk.facebook.com/pages/%E5%A8%9B%E6%A8%82CIAeCIA/462179243822120)
+  - [娛樂CIA Facebook專頁](https://zh-hk.facebook.com/pages/%E5%A8%9B%E6%A8%82CIAeCIA/462179243822120)
 
 ## 電視節目的變遷
 
-[Category:亞洲電視節目](https://zh.wikipedia.org/wiki/Category:亞洲電視節目 "wikilink")
-[Category:2012年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2012年亞洲電視節目 "wikilink")
-[Category:2013年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2013年亞洲電視節目 "wikilink")
+[Category:亞洲電視節目](https://zh.wikipedia.org/wiki/Category:亞洲電視節目 "wikilink") [Category:2012年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2012年亞洲電視節目 "wikilink") [Category:2013年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2013年亞洲電視節目 "wikilink")
 
-1.  [傳訊媒體集團新思維娛樂資訊節目《娛樂CIA》開鑼啟動拍攝
-    將締造一個資訊節目新面貌](http://app2.hkatv.com/v5/atvnews/atvnews.php?id=4473)
+1.  [傳訊媒體集團新思維娛樂資訊節目《娛樂CIA》開鑼啟動拍攝 將締造一個資訊節目新面貌](http://app2.hkatv.com/v5/atvnews/atvnews.php?id=4473)
 2.  [亞視封殺杜汶澤](http://hk.apple.nextmedia.com/entertainment/art/20130227/18177944)，2013年2月27日蘋果日報

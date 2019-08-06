@@ -15,8 +15,6 @@
 
   - [Фотогаллерея ТЭ6](http://ivan1950.tripod.com/Disel-TE6.html)
 
-[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink")
-[Category:哈尔科夫制铁路机车](https://zh.wikipedia.org/wiki/Category:哈尔科夫制铁路机车 "wikilink")
-[Category:Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo軸式機車 "wikilink")
+[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:哈尔科夫制铁路机车](https://zh.wikipedia.org/wiki/Category:哈尔科夫制铁路机车 "wikilink") [Category:Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo軸式機車 "wikilink")
 
 1.

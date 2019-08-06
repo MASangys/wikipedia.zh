@@ -1066,14 +1066,9 @@ Paulala Beauty美容院老闆<br />
 
 ## 外部連結
 
-  - [《My盛Lady》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222154920/http://gotv.tvb.com/programme/103788/161451/)
+  - [《My盛Lady》 GOTV 第1集重溫](https://web.archive.org/web/20140222154920/http://gotv.tvb.com/programme/103788/161451/)
 
   -
 ## 電視節目的變遷
 
-[Category:2013年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2013年無綫電視劇集 "wikilink")
-[Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink")
-[Category:2013無綫節目巡禮劇集](https://zh.wikipedia.org/wiki/Category:2013無綫節目巡禮劇集 "wikilink")
-[Category:無綫電視喜劇劇集](https://zh.wikipedia.org/wiki/Category:無綫電視喜劇劇集 "wikilink")
-[Category:在各地區使用不同中文名稱的無綫電視劇集](https://zh.wikipedia.org/wiki/Category:在各地區使用不同中文名稱的無綫電視劇集 "wikilink")
+[Category:2013年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2013年無綫電視劇集 "wikilink") [Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink") [Category:2013無綫節目巡禮劇集](https://zh.wikipedia.org/wiki/Category:2013無綫節目巡禮劇集 "wikilink") [Category:無綫電視喜劇劇集](https://zh.wikipedia.org/wiki/Category:無綫電視喜劇劇集 "wikilink") [Category:在各地區使用不同中文名稱的無綫電視劇集](https://zh.wikipedia.org/wiki/Category:在各地區使用不同中文名稱的無綫電視劇集 "wikilink")

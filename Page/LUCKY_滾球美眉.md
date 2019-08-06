@@ -1,7 +1,4 @@
-《**LUCKY
-滾球美眉**》（）是[みそおでん的日本](https://zh.wikipedia.org/wiki/みそおでん "wikilink")[四格漫畫](../Page/四格漫畫.md "wikilink")作品，以保齡球為主題。於芳文社的《月刊Manga
-Time Kirara
-MAX》2009年10月號起連載至2012年3月號\[1\]\[2\]。中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理發行。
+《**LUCKY 滾球美眉**》（）是[みそおでん的日本](https://zh.wikipedia.org/wiki/みそおでん "wikilink")[四格漫畫](../Page/四格漫畫.md "wikilink")作品，以保齡球為主題。於芳文社的《月刊Manga Time Kirara MAX》2009年10月號起連載至2012年3月號\[1\]\[2\]。中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理發行。
 
 ## 故事簡介
 
@@ -68,9 +65,7 @@ MAX》2009年10月號起連載至2012年3月號\[1\]\[2\]。中文版由[東立�
 
 ## 參考資料
 
-[Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink")
+[Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink")
 
 1.
 2.

@@ -134,24 +134,7 @@ local function loadEasterFormat(fmt)
 
 end
 
-\--[PURPOSE: This function returns Easter Sunday day and month for a
-specified year and method. INPUTS: Year - Any year between 326 and 4099.
-Method - 1 = the original calculation based on the Julian calendar 2 =
-the original calculation, with the Julian date converted to the
-equivalent Gregorian calendar 3 = the revised calculation based on the
-Gregorian calendar OUTPUTS: None. RETURNS: 0, error message - Error;
-invalid arguments month, day - month and day of the Sunday NOTES: The
-code is translated from DN OSP 6.4.0 sources. The roots of the code
-might be found in http://www.gmarts.org/index.php?go=415 ORIGINAL NOTES:
-This algorithm is an arithmetic interpretation of the 3 step Easter
-Dating Method developed by Ron Mallen 1985, as a vast improvement on the
-method described in the Common Prayer Book Published Australian Almanac
-1988 Refer to this publication, or the Canberra Library for a clear
-understanding of the method used Because this algorithm is a direct
-translation of the official tables, it can be easily proved to be 100%
-correct It's free\! Please do not modify code or
-comments\!](https://zh.wikipedia.org/wiki/PURPOSE:_This_function_returns_Easter_Sunday_day_and_month_for_a_specified_year_and_method._INPUTS:_Year_-_Any_year_between_326_and_4099._Method_-_1_=_the_original_calculation_based_on_the_Julian_calendar_2_=_the_original_calculation,_with_the_Julian_date_converted_to_the_equivalent_Gregorian_calendar_3_=_the_revised_calculation_based_on_the_Gregorian_calendar_OUTPUTS:_None._RETURNS:_0,_error_message_-_Error;_invalid_arguments_month,_day_-_month_and_day_of_the_Sunday_NOTES:_The_code_is_translated_from_DN_OSP_6.4.0_sources._The_roots_of_the_code_might_be_found_in_http://www.gmarts.org/index.php?go=415_ORIGINAL_NOTES:_This_algorithm_is_an_arithmetic_interpretation_of_the_3_step_Easter_Dating_Method_developed_by_Ron_Mallen_1985,_as_a_vast_improvement_on_the_method_described_in_the_Common_Prayer_Book_Published_Australian_Almanac_1988_Refer_to_this_publication,_or_the_Canberra_Library_for_a_clear_understanding_of_the_method_used_Because_this_algorithm_is_a_direct_translation_of_the_official_tables,_it_can_be_easily_proved_to_be_100%_correct_It's_free!_Please_do_not_modify_code_or_comments! "wikilink")
-local function calculateEasterDate(year, method)
+\--[PURPOSE: This function returns Easter Sunday day and month for a specified year and method. INPUTS: Year - Any year between 326 and 4099. Method - 1 = the original calculation based on the Julian calendar 2 = the original calculation, with the Julian date converted to the equivalent Gregorian calendar 3 = the revised calculation based on the Gregorian calendar OUTPUTS: None. RETURNS: 0, error message - Error; invalid arguments month, day - month and day of the Sunday NOTES: The code is translated from DN OSP 6.4.0 sources. The roots of the code might be found in http://www.gmarts.org/index.php?go=415 ORIGINAL NOTES: This algorithm is an arithmetic interpretation of the 3 step Easter Dating Method developed by Ron Mallen 1985, as a vast improvement on the method described in the Common Prayer Book Published Australian Almanac 1988 Refer to this publication, or the Canberra Library for a clear understanding of the method used Because this algorithm is a direct translation of the official tables, it can be easily proved to be 100% correct It's free\! Please do not modify code or comments\!](https://zh.wikipedia.org/wiki/PURPOSE:_This_function_returns_Easter_Sunday_day_and_month_for_a_specified_year_and_method._INPUTS:_Year_-_Any_year_between_326_and_4099._Method_-_1_=_the_original_calculation_based_on_the_Julian_calendar_2_=_the_original_calculation,_with_the_Julian_date_converted_to_the_equivalent_Gregorian_calendar_3_=_the_revised_calculation_based_on_the_Gregorian_calendar_OUTPUTS:_None._RETURNS:_0,_error_message_-_Error;_invalid_arguments_month,_day_-_month_and_day_of_the_Sunday_NOTES:_The_code_is_translated_from_DN_OSP_6.4.0_sources._The_roots_of_the_code_might_be_found_in_http://www.gmarts.org/index.php?go=415_ORIGINAL_NOTES:_This_algorithm_is_an_arithmetic_interpretation_of_the_3_step_Easter_Dating_Method_developed_by_Ron_Mallen_1985,_as_a_vast_improvement_on_the_method_described_in_the_Common_Prayer_Book_Published_Australian_Almanac_1988_Refer_to_this_publication,_or_the_Canberra_Library_for_a_clear_understanding_of_the_method_used_Because_this_algorithm_is_a_direct_translation_of_the_official_tables,_it_can_be_easily_proved_to_be_100%_correct_It's_free!_Please_do_not_modify_code_or_comments! "wikilink") local function calculateEasterDate(year, method)
 
 `   if year < 326 or year > 4099 then`
 `       -- Easter dates are valid for years between 326 and 4099`

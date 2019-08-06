@@ -1,12 +1,10 @@
-《**愛歌成狂
-15年B面歌曲完全精選**》是[平井堅](../Page/平井堅.md "wikilink")於2010年11月10日發行的B面曲[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
+《**愛歌成狂 15年B面歌曲完全精選**》是[平井堅](../Page/平井堅.md "wikilink")於2010年11月10日發行的B面曲[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 
 ## 概述
 
   - 為[平井堅](../Page/平井堅.md "wikilink")的第二張精選專輯。曲順正好為作品發表的年代順序。
   - 紀念出道15周年，收錄出道單曲至《Sing Forever》中的所有原創B面歌曲，包括多首從未收錄在專輯當中的遺珠歌曲。
-  - 收錄目前已絕版的兩首歌《只要你微笑》（1998年唯一主演戲劇的劇中歌，原收錄在OST《せつない ORIGINAL
-    ALBUM》）及《One Love Wonderful World》。
+  - 收錄目前已絕版的兩首歌《只要你微笑》（1998年唯一主演戲劇的劇中歌，原收錄在OST《せつない ORIGINAL ALBUM》）及《One Love Wonderful World》。
   - 初回限定盤的CD3收錄所有單曲中、以及新的混音歌曲。僅在有日本發售。
 
 ## 收錄曲目
@@ -43,8 +41,7 @@
       - 作詞：平井堅／作曲：平井堅、中野雅仁／編曲：中野雅仁
 15. **[CAT](../Page/KISS_OF_LIFE.md "wikilink")**
       - 作詞：平井堅／作曲・編曲：URU
-16. **[One Love Wonderful
-    World](https://zh.wikipedia.org/wiki/Kh_re-mixed_up_1 "wikilink")**
+16. **[One Love Wonderful World](https://zh.wikipedia.org/wiki/Kh_re-mixed_up_1 "wikilink")**
       - 作詞：平井堅、TIM JENSEN／作曲：平井堅、松原憲／編曲：FILUR
 
 ### CD 2
@@ -88,37 +85,26 @@
 
 初回限定盤附（僅日本發售）
 
-1.  **[KISS OF LIFE（S.O.U.L. remix =Sound Of Urban
-    London=）](https://zh.wikipedia.org/wiki/missin'_you～It_will_break_my_heart～ "wikilink")**
-      - Words: Ken Hirai、Music: Ken Hirai・Masahito Nakano、Remixed by
-        Shiro Sagisu for Ro-JAM
-2.  **[By(e) My Melody HALFBY’s music for momo
-    REMIX](../Page/就是喜歡你_\(平井堅單曲\).md "wikilink")**
+1.  **[KISS OF LIFE（S.O.U.L. remix =Sound Of Urban London=）](https://zh.wikipedia.org/wiki/missin'_you～It_will_break_my_heart～ "wikilink")**
+      - Words: Ken Hirai、Music: Ken Hirai・Masahito Nakano、Remixed by Shiro Sagisu for Ro-JAM
+2.  **[By(e) My Melody HALFBY’s music for momo REMIX](../Page/就是喜歡你_\(平井堅單曲\).md "wikilink")**
       - Words・Music: Ken Hirai、Remixed by HALFBY
 3.  **[CANDY -Suspicious Remix-](../Page/Sing_Forever.md "wikilink")**
       - Words: Ken Hirai、Music: Daisuke Sakurai、Remixed by Tucker
 4.  **[style（D.O.I. re-M.I.X.）](../Page/朋友_\(平井堅單曲\).md "wikilink")**
-      - Words: Ken Hirai、Music: Yasuhiro Minami、Remixed by
-        D.O.I（DAIMONION RECORDINGS）
+      - Words: Ken Hirai、Music: Yasuhiro Minami、Remixed by D.O.I（DAIMONION RECORDINGS）
 5.  **nostalgia 〜s,w,k, mix〜**
       - Words: Ken Hirai、Music: Shinichi Osawa、Remixed by Shinichi Osawa
-6.  **[Missin’ you 〜It will break my heart〜（remix
-    ascended）](../Page/Strawberry_Sex.md "wikilink")**
+6.  **[Missin’ you 〜It will break my heart〜（remix ascended）](../Page/Strawberry_Sex.md "wikilink")**
       - Words: Ken Hirai、Music: Babyface、Remixed by Nanae Mimura
-7.  **[Strawberry Sex 〜Sweet
-    Mix〜](../Page/Ring_\(平井堅單曲\).md "wikilink")**
-      - Words: Taku Tada・Ken Hirai 、Music: Masahito Nakano・Ken
-        Hirai、Remixed by Stephane K
-8.  **[POP STAR × fake star（MASH UP
-    version）](https://zh.wikipedia.org/wiki/fake_star "wikilink")**
+7.  **[Strawberry Sex 〜Sweet Mix〜](../Page/Ring_\(平井堅單曲\).md "wikilink")**
+      - Words: Taku Tada・Ken Hirai 、Music: Masahito Nakano・Ken Hirai、Remixed by Stephane K
+8.  **[POP STAR × fake star（MASH UP version）](https://zh.wikipedia.org/wiki/fake_star "wikilink")**
       - Words・Music: Ken Hirai、Remixed by metalmouse
-9.  **[Come Back 〜FILUR Deep Down & Low
-    Remix〜](../Page/生命之歌～另一章～.md "wikilink")**
-      - Words: Ken Hirai・Angie Irons、Music: T.KURA（Giant Swing
-        Productions）・Angie Irons、Remixed by FILUR
+9.  **[Come Back 〜FILUR Deep Down & Low Remix〜](../Page/生命之歌～另一章～.md "wikilink")**
+      - Words: Ken Hirai・Angie Irons、Music: T.KURA（Giant Swing Productions）・Angie Irons、Remixed by FILUR
 10. **[朋友（Soul Source Production Mix）](../Page/在思緒重疊之前….md "wikilink")**
-      - Words・Music: Ken Hirai、Remixed by Soul Source Production a.k.a.
-        Kenichi Yanai
+      - Words・Music: Ken Hirai、Remixed by Soul Source Production a.k.a. Kenichi Yanai
 11. **世上最愛的就是你 Funknown mix**
       - Words: Taku Tada、Music: Ken Hirai、Remixed by □□□
 12. **Sing Forever（STUDIO APARTMENT Remix）**
@@ -128,5 +114,4 @@
 14. **[戀上妳 rei harakami remix](../Page/我愛你_\(平井堅單曲\).md "wikilink")**
       - Words・Music: Ken Hirai、Remixed by rei harakami
 
-[Category:平井堅音樂專輯](https://zh.wikipedia.org/wiki/Category:平井堅音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
+[Category:平井堅音樂專輯](https://zh.wikipedia.org/wiki/Category:平井堅音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")

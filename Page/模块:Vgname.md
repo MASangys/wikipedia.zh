@@ -1,8 +1,6 @@
 require('Module:No globals')
 
-local getArgs = require('Module:Arguments').getArgs local yesno =
-require('Module:Yesno') local lc = require('Module:WikitextLC') local
-foreignRegionList = mw.loadData('Module:Vgname/languages')
+local getArgs = require('Module:Arguments').getArgs local yesno = require('Module:Yesno') local lc = require('Module:WikitextLC') local foreignRegionList = mw.loadData('Module:Vgname/languages')
 
 local chineseRegion = {
 
@@ -63,8 +61,7 @@ local function bold(args, str, openBracket, closeBracket, isConvert)
 
 end
 
-local function boldWithIdeographicComma(args, str, openBracket,
-closeBracket, isConvert)
+local function boldWithIdeographicComma(args, str, openBracket, closeBracket, isConvert)
 
 `   local tab, _tab = mw.text.split(str, '、'), {}`
 `   `
@@ -77,8 +74,7 @@ closeBracket, isConvert)
 
 end
 
-local function styleForeignLanguageAndAddLabel(args,
-indexOfTheForeignRegion, str)
+local function styleForeignLanguageAndAddLabel(args, indexOfTheForeignRegion, str)
 
 `   local text, footnotes = separateFootnotesFromText(str)`
 `   local theLanguage = foreignRegionList[indexOfTheForeignRegion]`

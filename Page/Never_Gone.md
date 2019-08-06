@@ -1,27 +1,14 @@
-**《Never Gone》**是音乐团体[Backstreet
-Boys发行的第五张](https://zh.wikipedia.org/wiki/Backstreet_Boys "wikilink")（于美国发行的第四张）
-录音室专辑。专辑原计划于2004年推出，但因为未知的原因而推迟到2005年7月14日。本张专辑改变Backstreet
-Boys一贯曲风，在其中加入了摇滚风格。
-与以往专辑不同，本张专辑只搭售了巡演实况。本专辑得名于悼念Kevin
-Richardson父亲的曲目“Never Gone”。
+**《Never Gone》**是音乐团体[Backstreet Boys发行的第五张](https://zh.wikipedia.org/wiki/Backstreet_Boys "wikilink")（于美国发行的第四张） 录音室专辑。专辑原计划于2004年推出，但因为未知的原因而推迟到2005年7月14日。本张专辑改变Backstreet Boys一贯曲风，在其中加入了摇滚风格。 与以往专辑不同，本张专辑只搭售了巡演实况。本专辑得名于悼念Kevin Richardson父亲的曲目“Never Gone”。
 
 ## 背景
 
-《Never
-Gone》在美国获得[白金唱片销量认证](https://zh.wikipedia.org/wiki/白金唱片 "wikilink")。首周销量293,000张，并空降[Billboard
-200季军位置](https://zh.wikipedia.org/wiki/Billboard_200 "wikilink")。在日本,《Never
-Gone》售出528,000张唱片并成为2005年西方歌手专辑销量亚军。\[1\] 这是组合成员 Kevin Richardson
-2006年离队前参与最后一张专辑。Kevin Richardson 曾于2006年以追寻其他兴趣为理由离队，已于2012年回归。
+《Never Gone》在美国获得[白金唱片销量认证](https://zh.wikipedia.org/wiki/白金唱片 "wikilink")。首周销量293,000张，并空降[Billboard 200季军位置](https://zh.wikipedia.org/wiki/Billboard_200 "wikilink")。在日本,《Never Gone》售出528,000张唱片并成为2005年西方歌手专辑销量亚军。\[1\] 这是组合成员 Kevin Richardson 2006年离队前参与最后一张专辑。Kevin Richardson 曾于2006年以追寻其他兴趣为理由离队，已于2012年回归。
 
-在专辑上市后不久，Backstreet Boys 便开始了 Never Gone Tour 全球巡演。《Never Gone: The
-Videos》在2005年12月20日以DVD为介质上市。其中包括幕后花絮和"Incomplete", "Just Want You To
-Know", "I Still三首歌曲的MV。其中，德国版DVD内增加一份以歌曲"Just Want You To
-Know"伴奏为背景的幻灯片并介绍了即将到来的演唱会。
+在专辑上市后不久，Backstreet Boys 便开始了 Never Gone Tour 全球巡演。《Never Gone: The Videos》在2005年12月20日以DVD为介质上市。其中包括幕后花絮和"Incomplete", "Just Want You To Know", "I Still三首歌曲的MV。其中，德国版DVD内增加一份以歌曲"Just Want You To Know"伴奏为背景的幻灯片并介绍了即将到来的演唱会。
 
 ## 反响
 
-最初对专辑的负面评价集中于专辑曲风不同于以往。[Metacritic](../Page/Metacritic.md "wikilink")的在线调查中，综合线上的7份评价，《Never
-Gone》只得到了40分（满分100分）。
+最初对专辑的负面评价集中于专辑曲风不同于以往。[Metacritic](../Page/Metacritic.md "wikilink")的在线调查中，综合线上的7份评价，《Never Gone》只得到了40分（满分100分）。
 
 ## 曲目列表
 
@@ -73,12 +60,9 @@ Gone》只得到了40分（满分100分）。
 
 ## 参考资料
 
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
-[Category:馬克斯·馬丁製作的專輯](https://zh.wikipedia.org/wiki/Category:馬克斯·馬丁製作的專輯 "wikilink")
+[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink") [Category:馬克斯·馬丁製作的專輯](https://zh.wikipedia.org/wiki/Category:馬克斯·馬丁製作的專輯 "wikilink")
 
-1.  [Oricon Top 30 Western Artist's
-    Sale 2005](https://www.oricon.co.jp/music/specialeng/051221_01_best30.html)
-
+1.  [Oricon Top 30 Western Artist's Sale 2005](https://www.oricon.co.jp/music/specialeng/051221_01_best30.html)
 
 2.
 

@@ -427,5 +427,4 @@
 
   - [GA文庫大賞・GA文庫テーマ大賞](http://ga.sbcr.jp/novel/taisyo/index.html)
 
-[Category:GA文庫](https://zh.wikipedia.org/wiki/Category:GA文庫 "wikilink")
-[Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink")
+[Category:GA文庫](https://zh.wikipedia.org/wiki/Category:GA文庫 "wikilink") [Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink")

@@ -1,12 +1,9 @@
-『超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE &
-SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia.org/wiki/特攝 "wikilink")[超級戰隊系列和](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[假面騎士系列](../Page/假面騎士系列.md "wikilink")在每年1月中旬時的特別表演。
+『超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE & SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia.org/wiki/特攝 "wikilink")[超級戰隊系列和](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[假面騎士系列](../Page/假面騎士系列.md "wikilink")在每年1月中旬時的特別表演。
 
 ## 概要
 
   -
-    在2012年1月10日、1月11日因為紀念『超級戰隊系列35作品紀念』及『假面騎士系列40周年紀念』而有了『仮面ライダー生誕40周年×スーパー戦隊シリーズ35作品記念
-    40×35 感謝祭 Anniversary LIVE & SHOW』的表演，因此在2013年開始，每年1月中旬舉辦『超英雄祭 KAMEN
-    RIDER × SUPER SENTAI LIVE & SHOW』，分別邀請劇中演員和唱劇中歌曲的歌手來參與。
+    在2012年1月10日、1月11日因為紀念『超級戰隊系列35作品紀念』及『假面騎士系列40周年紀念』而有了『仮面ライダー生誕40周年×スーパー戦隊シリーズ35作品記念 40×35 感謝祭 Anniversary LIVE & SHOW』的表演，因此在2013年開始，每年1月中旬舉辦『超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE & SHOW』，分別邀請劇中演員和唱劇中歌曲的歌手來參與。
 
 <!-- end list -->
 
@@ -16,16 +13,14 @@ SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia
 <!-- end list -->
 
   -
-    在2018年的『45×40
-    感謝祭』第二天的『超級戰隊DAY』當天早上進行**[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")**制作發表記者會，劇中初期的9位成員並於同天下午LIVE中的新戰隊就紹環節首度公開亮相。隔年的**超英雄祭2018**初期的9位成員再次登場，這也是同一組戰隊的初期成員二度在演唱會中全登場。
+    在2018年的『45×40 感謝祭』第二天的『超級戰隊DAY』當天早上進行**[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")**制作發表記者會，劇中初期的9位成員並於同天下午LIVE中的新戰隊就紹環節首度公開亮相。隔年的**超英雄祭2018**初期的9位成員再次登場，這也是同一組戰隊的初期成員二度在演唱會中全登場。
 
 ## 歷年表演資料
 
 ### 假面騎士誕生40周年×超級戰隊系列35作品記念 40×35 感謝祭 Anniversary LIVE & SHOW
 
   - 日期：2012年1月10日、1月11日
-  - 地點：[東京國際論壇大樓](https://zh.wikipedia.org/wiki/東京國際論壇大樓 "wikilink") A棟
-    1F前廳
+  - 地點：[東京國際論壇大樓](https://zh.wikipedia.org/wiki/東京國際論壇大樓 "wikilink") A棟 1F前廳
   - 演員：[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")、[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")
 
 <!-- end list -->
@@ -42,12 +37,8 @@ SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia
 <!-- end list -->
 
   -
-    假面騎士：、[土屋安娜](../Page/土屋安娜.md "wikilink")、Astronauts（、[May'n](https://zh.wikipedia.org/wiki/中林芽依 "wikilink")）、[上木彩矢](../Page/上木彩矢.md "wikilink")
-    w
-    、[松本梨香](../Page/松本梨香.md "wikilink")、[假面騎士GIRLS](../Page/假面騎士GIRLS.md "wikilink")
-    超級戰隊：、[串田晃](../Page/串田晃.md "wikilink")、[高取秀明](../Page/高取秀明.md "wikilink")、[松原剛志](../Page/松原剛志.md "wikilink")、[PSYCHIC
-    LOVER](../Page/PSYCHIC_LOVER.md "wikilink")（YOFFY、IMAJO）、[岩崎貴文](../Page/岩崎貴文.md "wikilink")、[Sister
-    MAYO](../Page/Sister_MAYO.md "wikilink")、[谷本貴義](../Page/谷本貴義.md "wikilink")、、[五條真由美](../Page/五條真由美.md "wikilink")、、、[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")、[NoB](../Page/山田信夫.md "wikilink")
+    假面騎士：、[土屋安娜](../Page/土屋安娜.md "wikilink")、Astronauts（、[May'n](https://zh.wikipedia.org/wiki/中林芽依 "wikilink")）、[上木彩矢](../Page/上木彩矢.md "wikilink") w 、[松本梨香](../Page/松本梨香.md "wikilink")、[假面騎士GIRLS](../Page/假面騎士GIRLS.md "wikilink")
+    超級戰隊：、[串田晃](../Page/串田晃.md "wikilink")、[高取秀明](../Page/高取秀明.md "wikilink")、[松原剛志](../Page/松原剛志.md "wikilink")、[PSYCHIC LOVER](../Page/PSYCHIC_LOVER.md "wikilink")（YOFFY、IMAJO）、[岩崎貴文](../Page/岩崎貴文.md "wikilink")、[Sister MAYO](../Page/Sister_MAYO.md "wikilink")、[谷本貴義](../Page/谷本貴義.md "wikilink")、、[五條真由美](../Page/五條真由美.md "wikilink")、、、[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")、[NoB](../Page/山田信夫.md "wikilink")
 
 | 歌曲                                                     |
 | ------------------------------------------------------ |
@@ -87,8 +78,7 @@ SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia
 
   - 日期：2013年1月11日、1月12日
   - 地點：東京國際論壇大樓 A棟
-  - 演員：[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")、[特命戰隊Go
-    Busters](../Page/特命戰隊Go_Busters.md "wikilink")
+  - 演員：[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")、[特命戰隊Go Busters](../Page/特命戰隊Go_Busters.md "wikilink")
 
 <!-- end list -->
 
@@ -107,8 +97,7 @@ SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia
 <!-- end list -->
 
   -
-    假面騎士：RIDER
-    CHIPS、土屋安娜、Astronauts（椎名慶治、May'n）、假面騎士GIRLS、[小暮閣下](../Page/小暮閣下.md "wikilink")
+    假面騎士：RIDER CHIPS、土屋安娜、Astronauts（椎名慶治、May'n）、假面騎士GIRLS、[小暮閣下](../Page/小暮閣下.md "wikilink")
     超級戰隊：串田晃、高取秀明、松原剛志、高橋秀幸
 
 | 歌曲                                                         |
@@ -152,8 +141,7 @@ SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia
 
   -
     假面騎士：[佐野岳](../Page/佐野岳.md "wikilink")、[小林豐](../Page/小林豐.md "wikilink")、[高杉真宙](../Page/高杉真宙.md "wikilink")、[志田友美](https://zh.wikipedia.org/wiki/志田友美 "wikilink")、[久保田悠來](https://zh.wikipedia.org/wiki/久保田悠來 "wikilink")、、
-    超級戰隊：[龍星涼](../Page/龍星涼.md "wikilink")、[齊藤秀翼](../Page/齊藤秀翼.md "wikilink")、[金城大和](../Page/金城大和.md "wikilink")、[塩野瑛久](https://zh.wikipedia.org/wiki/鹽野瑛久 "wikilink")、[今野鮎莉](../Page/今野鮎莉.md "wikilink")、[丸山敦史](../Page/丸山敦史.md "wikilink")、Robert
-    Baldwin、[出合正幸](../Page/出合正幸.md "wikilink")、[飯豐萬理江](../Page/飯豐萬理江.md "wikilink")、[森川智之](../Page/森川智之.md "wikilink")
+    超級戰隊：[龍星涼](../Page/龍星涼.md "wikilink")、[齊藤秀翼](../Page/齊藤秀翼.md "wikilink")、[金城大和](../Page/金城大和.md "wikilink")、[塩野瑛久](https://zh.wikipedia.org/wiki/鹽野瑛久 "wikilink")、[今野鮎莉](../Page/今野鮎莉.md "wikilink")、[丸山敦史](../Page/丸山敦史.md "wikilink")、Robert Baldwin、[出合正幸](../Page/出合正幸.md "wikilink")、[飯豐萬理江](../Page/飯豐萬理江.md "wikilink")、[森川智之](../Page/森川智之.md "wikilink")
     神秘嘉賓：\[2\]、\[3\]、、[姜暢雄](../Page/姜暢雄.md "wikilink")\[4\]
 
 <!-- end list -->
@@ -163,10 +151,8 @@ SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia
 <!-- end list -->
 
   -
-    假面騎士：RIDER CHIPS、土屋安娜、上木彩矢 w
-    TAKUYA、假面騎士GIRLS、[鎧武乃風](https://zh.wikipedia.org/wiki/湘南乃風 "wikilink")、[hitomi](https://zh.wikipedia.org/wiki/hitomi "wikilink")、
-    超級戰隊：Z旗、高取秀明、松原剛志、高橋秀幸、NoB、岩崎貴文、谷本貴義、、PSYCHIC
-    LOVER（YOFFY、IMAJO）、[桃井晴子](../Page/桃井晴子.md "wikilink")、[山形幸生](../Page/山形幸生.md "wikilink")、
+    假面騎士：RIDER CHIPS、土屋安娜、上木彩矢 w TAKUYA、假面騎士GIRLS、[鎧武乃風](https://zh.wikipedia.org/wiki/湘南乃風 "wikilink")、[hitomi](https://zh.wikipedia.org/wiki/hitomi "wikilink")、
+    超級戰隊：Z旗、高取秀明、松原剛志、高橋秀幸、NoB、岩崎貴文、谷本貴義、、PSYCHIC LOVER（YOFFY、IMAJO）、[桃井晴子](../Page/桃井晴子.md "wikilink")、[山形幸生](../Page/山形幸生.md "wikilink")、
 
 | 歌曲                                 |
 | ---------------------------------- |
@@ -381,10 +367,8 @@ SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia
 <!-- end list -->
 
   -
-    假面騎士：[氣志團](../Page/氣志團.md "wikilink")、松岡充、假面騎士GIRLS、RIDER
-    CHIPS、m.c.A・T、TEAM BARON（小林豊、松田岳、百瀬朔）、1 FINGER、
-    超級戰隊：伊勢大貴、松原剛志、高橋秀幸、NoB、谷本貴義、鎌田章吾、PSYCHIC
-    LOVER（YOFFY、IMAJO）、山形幸生、岩崎貴文、Z旗、
+    假面騎士：[氣志團](../Page/氣志團.md "wikilink")、松岡充、假面騎士GIRLS、RIDER CHIPS、m.c.A・T、TEAM BARON（小林豊、松田岳、百瀬朔）、1 FINGER、
+    超級戰隊：伊勢大貴、松原剛志、高橋秀幸、NoB、谷本貴義、鎌田章吾、PSYCHIC LOVER（YOFFY、IMAJO）、山形幸生、岩崎貴文、Z旗、
 
 | 歌曲                                           |
 | -------------------------------------------- |
@@ -459,10 +443,7 @@ SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia
     假面騎士：[三浦大知](../Page/三浦大知.md "wikilink")、[大黑摩季](../Page/大黑摩季.md "wikilink")、鎧武乃風、、、[ISSA](../Page/DA_PUMP.md "wikilink")、[相川七瀨](../Page/相川七瀨.md "wikilink")、[lol](../Page/Lol_\(團體\).md "wikilink")（戰隊日出演）
       -
         兩日出演：松岡充、RIDER CHIPS、假面騎士GIRLS
-    超級戰隊：松原剛志、高橋秀幸、NoB、谷本貴義、鎌田章吾、PSYCHIC
-    LOVER（YOFFY、IMAJO）、岩崎貴文、Z旗、Sister
-    MAYO、五條真由美、桃井晴子、[Girls
-    Squad](https://zh.wikipedia.org/wiki/Girls_Squad "wikilink")（木下由美、菊地美香、[森田涼花](../Page/森田涼花.md "wikilink")、[桃瀨美咲](../Page/桃瀨美咲.md "wikilink")、）
+    超級戰隊：松原剛志、高橋秀幸、NoB、谷本貴義、鎌田章吾、PSYCHIC LOVER（YOFFY、IMAJO）、岩崎貴文、Z旗、Sister MAYO、五條真由美、桃井晴子、[Girls Squad](https://zh.wikipedia.org/wiki/Girls_Squad "wikilink")（木下由美、菊地美香、[森田涼花](../Page/森田涼花.md "wikilink")、[桃瀨美咲](../Page/桃瀨美咲.md "wikilink")、）
       -
         兩日出演：伊勢大貴、大西洋平、高取秀明
 
@@ -576,11 +557,8 @@ SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia
 <!-- end list -->
 
   -
-    假面騎士：RIDER
-    CHIPS、假面騎士GIRLS、小林太郎、[貴水博之](https://zh.wikipedia.org/wiki/:ja:貴水博之 "wikilink")、土屋安娜、三浦大知、松岡充、PANDORA
-    feat.Beverly\[6\]
-    超級戰隊：Z旗、伊勢大貴、大西洋平、高取秀明、幡野智宏、松原剛志、高橋秀幸、鎌田章吾、PSYCHIC
-    LOVER（YOFFY、IMAJO）、串田晃
+    假面騎士：RIDER CHIPS、假面騎士GIRLS、小林太郎、[貴水博之](https://zh.wikipedia.org/wiki/:ja:貴水博之 "wikilink")、土屋安娜、三浦大知、松岡充、PANDORA feat.Beverly\[6\]
+    超級戰隊：Z旗、伊勢大貴、大西洋平、高取秀明、幡野智宏、松原剛志、高橋秀幸、鎌田章吾、PSYCHIC LOVER（YOFFY、IMAJO）、串田晃
 
 <table>
 <thead>
@@ -739,10 +717,8 @@ SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia
 <!-- end list -->
 
   -
-    假面騎士：RIDER CHIPS、假面騎士GIRLS、小林太郎、松岡充、Beverly、 Shuta Sueyoshi feat.
-    ISSA、石原慎一、小林太郎、田中昌之、松本梨香、上木彩矢 w TAKUYA
-    超級戰隊：伊勢大貴、大西洋平、高取秀明、幡野智宏、松原剛志、高橋秀幸、鎌田章吾、NoB、PSYCHIC
-    LOVER（YOFFY、IMAJO）、吉田達彥、吉田仁美
+    假面騎士：RIDER CHIPS、假面騎士GIRLS、小林太郎、松岡充、Beverly、 Shuta Sueyoshi feat. ISSA、石原慎一、小林太郎、田中昌之、松本梨香、上木彩矢 w TAKUYA
+    超級戰隊：伊勢大貴、大西洋平、高取秀明、幡野智宏、松原剛志、高橋秀幸、鎌田章吾、NoB、PSYCHIC LOVER（YOFFY、IMAJO）、吉田達彥、吉田仁美
 
 <table>
 <thead>
@@ -1011,26 +987,16 @@ SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia
 
 ## 外部連結
 
-  - [假面騎士誕生40周年×超級戰隊系列35作品記念 40×35 感謝祭 Anniversary LIVE &
-    SHOW](http://www.tv-asahi.co.jp/fourze/event/) 官方網站（已關閉）
-  - [超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE &
-    SHOW 2013](http://www.tv-asahi.co.jp/wizard/event/) 官方網站（已關閉）
-  - [超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE & SHOW
-    日本武道館2014](http://www.tv-asahi.co.jp/gaimu/eiyusai2014/)
-    官方網站（已關閉）
-  - [超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE &
-    SHOW 2015](http://www.tv-asahi.co.jp/drive/eiyusai2015/) 官方網站
-  - [超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE &
-    SHOW 2016](http://www.tv-asahi.co.jp/ghost/eiyusai2016/) 官方網站
-  - [假面騎士誕生45周年×超級戰隊系列40作品記念 45×40 感謝祭 Anniversary LIVE &
-    SHOW](http://www.tv-asahi.co.jp/ex-aid/kanshasai2017/) 官方網站
-  - [超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE &
-    SHOW 2018](http://www.tv-asahi.co.jp/build/eiyusai2018/) 官方網站
-  - [超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE &
-    SHOW 2019](https://www.tv-asahi.co.jp/zi-o/eiyusai2019/) 官方網站
+  - [假面騎士誕生40周年×超級戰隊系列35作品記念 40×35 感謝祭 Anniversary LIVE & SHOW](http://www.tv-asahi.co.jp/fourze/event/) 官方網站（已關閉）
+  - [超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE & SHOW 2013](http://www.tv-asahi.co.jp/wizard/event/) 官方網站（已關閉）
+  - [超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE & SHOW 日本武道館2014](http://www.tv-asahi.co.jp/gaimu/eiyusai2014/) 官方網站（已關閉）
+  - [超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE & SHOW 2015](http://www.tv-asahi.co.jp/drive/eiyusai2015/) 官方網站
+  - [超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE & SHOW 2016](http://www.tv-asahi.co.jp/ghost/eiyusai2016/) 官方網站
+  - [假面騎士誕生45周年×超級戰隊系列40作品記念 45×40 感謝祭 Anniversary LIVE & SHOW](http://www.tv-asahi.co.jp/ex-aid/kanshasai2017/) 官方網站
+  - [超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE & SHOW 2018](http://www.tv-asahi.co.jp/build/eiyusai2018/) 官方網站
+  - [超英雄祭 KAMEN RIDER × SUPER SENTAI LIVE & SHOW 2019](https://www.tv-asahi.co.jp/zi-o/eiyusai2019/) 官方網站
 
-[Category:超級戰隊系列](https://zh.wikipedia.org/wiki/Category:超級戰隊系列 "wikilink")
-[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink")
+[Category:超級戰隊系列](https://zh.wikipedia.org/wiki/Category:超級戰隊系列 "wikilink") [Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink")
 
 1.  官方並未說明為何宇宙刑事會被歸類到超級戰隊演唱部分。
 2.  [塩谷瞬BLOG](http://www.diamondblog.jp/official/shunshioya/2014/01/16/%E8%B6%85%E8%8B%B1%E9%9B%84%E7%A5%ADx%E3%83%8F%E3%83%AA%E3%82%B1%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BCin%E6%AD%A6%E9%81%93%E9%A4%A8%EF%BC%81%EF%BC%81%EF%BC%81/)

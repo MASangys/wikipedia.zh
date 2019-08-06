@@ -1,5 +1,4 @@
-《**beautiful**》
-是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第十五張單曲（第十二張主流單曲），由作曲、作詞，並在2014年1月22日以四個不同版本推出\[1\]。
+《**beautiful**》 是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第十五張單曲（第十二張主流單曲），由作曲、作詞，並在2014年1月22日以四個不同版本推出\[1\]。
 
 ## 背景
 
@@ -9,13 +8,11 @@
 
 此單曲共分為4個發行版本，包括三個限量版本及一個通常版本，每個版本都收錄了不同歌曲的純音樂版本和不同的隨附卡序列碼。
 
-  - 初回限定盤A：這版本包括了一片收錄了《ANOTHER NEW
-    WORLD》的純音樂版本的單曲CD、一片收錄《beautiful》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮及2013年7月15日在[東京國際論壇大樓舉行的](https://zh.wikipedia.org/wiki/東京國際論壇大樓 "wikilink")《[RATED-FT](../Page/RATED-FT.md "wikilink")》發行限定活動片段的DVD\[5\]。
+  - 初回限定盤A：這版本包括了一片收錄了《ANOTHER NEW WORLD》的純音樂版本的單曲CD、一片收錄《beautiful》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮及2013年7月15日在[東京國際論壇大樓舉行的](https://zh.wikipedia.org/wiki/東京國際論壇大樓 "wikilink")《[RATED-FT](../Page/RATED-FT.md "wikilink")》發行限定活動片段的DVD\[5\]。
 
 <!-- end list -->
 
-  - 初回限定盤B：這版本包括了一片收錄了《On My
-    Way》的純音樂版本的單曲CD、一片收錄FTIsland在《[御台場合眾國](../Page/御台場合眾國.md "wikilink")鬧鐘LIVE2013》之音樂會片段的DVD\[6\]。
+  - 初回限定盤B：這版本包括了一片收錄了《On My Way》的純音樂版本的單曲CD、一片收錄FTIsland在《[御台場合眾國](../Page/御台場合眾國.md "wikilink")鬧鐘LIVE2013》之音樂會片段的DVD\[6\]。
 
 <!-- end list -->
 
@@ -23,8 +20,7 @@
 
 <!-- end list -->
 
-  - famima.com限定盤：這版本包括了一片收錄了《beautiful》的純音樂版本的單曲CD、一片收錄《M-ON\!
-    SPECIAL「FTISLAND」》訪問片段的DVD，並只在famima.com發售\[8\]。
+  - famima.com限定盤：這版本包括了一片收錄了《beautiful》的純音樂版本的單曲CD、一片收錄《M-ON\! SPECIAL「FTISLAND」》訪問片段的DVD，並只在famima.com發售\[8\]。
 
 ## 曲目
 
@@ -50,8 +46,7 @@
 
   -
 
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:FTIsland歌曲](https://zh.wikipedia.org/wiki/Category:FTIsland歌曲 "wikilink")
+[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:FTIsland歌曲](https://zh.wikipedia.org/wiki/Category:FTIsland歌曲 "wikilink")
 
 1.
 

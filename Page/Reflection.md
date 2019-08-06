@@ -1,11 +1,4 @@
-《**Reflection**》，是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳慧琳](../Page/陳慧琳.md "wikilink")的第十九張個人粵語大碟，於2013年2月7日正式發售。共收錄了10首粵語歌曲。於[iTunes推出Deluxe版本](https://zh.wikipedia.org/wiki/iTunes "wikilink")，獨家收錄《So
-Hot (Director
-Cut)》，連續多天於香港及其他國家／地區登上[iTunes專輯排行榜](https://zh.wikipedia.org/wiki/iTunes "wikilink")。首波主打《So
-Hot》成為三個電台冠軍歌，更連續於2月25日至3月12日連續三星期登上[Red
-MR紅人榜榜首](https://zh.wikipedia.org/wiki/Red_MR "wikilink")。4月5日推出第二版《**Reflection
-2nd
-Edition**》CD加錄《抱喜》（《[八星抱喜](../Page/八星抱喜.md "wikilink")》主題曲），DVD加錄《Moov
-Live 2013陳慧琳》演唱會全實錄。
+《**Reflection**》，是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳慧琳](../Page/陳慧琳.md "wikilink")的第十九張個人粵語大碟，於2013年2月7日正式發售。共收錄了10首粵語歌曲。於[iTunes推出Deluxe版本](https://zh.wikipedia.org/wiki/iTunes "wikilink")，獨家收錄《So Hot (Director Cut)》，連續多天於香港及其他國家／地區登上[iTunes專輯排行榜](https://zh.wikipedia.org/wiki/iTunes "wikilink")。首波主打《So Hot》成為三個電台冠軍歌，更連續於2月25日至3月12日連續三星期登上[Red MR紅人榜榜首](https://zh.wikipedia.org/wiki/Red_MR "wikilink")。4月5日推出第二版《**Reflection 2nd Edition**》CD加錄《抱喜》（《[八星抱喜](../Page/八星抱喜.md "wikilink")》主題曲），DVD加錄《Moov Live 2013陳慧琳》演唱會全實錄。
 
 ### 曲目
 
@@ -239,8 +232,7 @@ Fergus Chow</p></td>
   - 24日，於Youtube及各大網站《So Hot》MV首播。
   - 28日，於[香港理工大學](../Page/香港理工大學.md "wikilink")蔣震劇院舉行《Reflection》新碟試聽會。
   - 30日，於港台節目"Made In Hong Kong 李志剛"宣傳《So Hot》。
-  - 31日，於KKBOX舉行Online Chatting宣傳新碟《Reflection》，並率先播放兩首推介作品《點心》及《It's
-    All About Timing》。
+  - 31日，於KKBOX舉行Online Chatting宣傳新碟《Reflection》，並率先播放兩首推介作品《點心》及《It's All About Timing》。
 
 **2013年2月**
 
@@ -249,20 +241,16 @@ Fergus Chow</p></td>
   - 4日至10日，於"Roadshow 紅人館"宣傳《Reflection》。
   - 5日，於商台節目"口水多過浪花"宣傳《皮外傷》。
   - 由2月6日開始，於[無線電視翡翠台播出](https://zh.wikipedia.org/wiki/無線電視翡翠台 "wikilink")15秒新碟廣告。
-  - 12日，於[iTunes提供](https://zh.wikipedia.org/wiki/iTunes "wikilink")《So
-    Hot(Director Cut)》、《點心》及《It's All About Timing》免費下載。
+  - 12日，於[iTunes提供](https://zh.wikipedia.org/wiki/iTunes "wikilink")《So Hot(Director Cut)》、《點心》及《It's All About Timing》免費下載。
   - 13日至15日，香港區[iTunes以](https://zh.wikipedia.org/wiki/iTunes "wikilink")$23出售本唱片。
   - 15日，於新城電台節目"開心家天下"宣傳《皮外傷》及新碟《Reflection》。
   - 17日，於[荃灣廣場](../Page/荃灣廣場.md "wikilink")舉行《Reflection》簽唱會。
   - 18日，於新城電台節目"開心家天下"宣傳《皮外傷》及新碟《Reflection》。
   - 18日至19日，於[無線收費電視首播](https://zh.wikipedia.org/wiki/無線收費電視 "wikilink")《皮外傷》MV製作花絮。
   - 18日至22日，於[叱咤903](../Page/叱咤903.md "wikilink")節目"雲妮鍾情"宣傳《Reflection》。
-  - 18日，於[Now TV](../Page/Now_TV.md "wikilink")-Channel 102節目"Hello Au
-    Pa Ma"宣傳新碟《Reflection》。
-  - 18日，於[Now TV](../Page/Now_TV.md "wikilink")-Channel 102節目"Hello Au
-    Pa Ma"宣傳新碟《Reflection》。
-  - 20日至22日，於[新城電台](../Page/新城電台.md "wikilink")節目"晨希Good
-    Day"宣傳新碟《Reflection》。
+  - 18日，於[Now TV](../Page/Now_TV.md "wikilink")-Channel 102節目"Hello Au Pa Ma"宣傳新碟《Reflection》。
+  - 18日，於[Now TV](../Page/Now_TV.md "wikilink")-Channel 102節目"Hello Au Pa Ma"宣傳新碟《Reflection》。
+  - 20日至22日，於[新城電台](../Page/新城電台.md "wikilink")節目"晨希Good Day"宣傳新碟《Reflection》。
   - 22日，於[新城電台](../Page/新城電台.md "wikilink")節目"爸爸媽媽你好嗎"宣傳新碟《Reflection》。
   - 23日，於[有線娛樂新聞台](../Page/有線娛樂新聞台.md "wikilink")節目"樂壇第一手"宣傳新碟《Reflection》。
 
@@ -289,8 +277,6 @@ Fergus Chow</p></td>
 
   - [Reflection官方網站](http://www.umg.com.hk/minisite/kelly_reflection/)
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:陳慧琳音樂專輯](https://zh.wikipedia.org/wiki/Category:陳慧琳音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:陳慧琳音樂專輯](https://zh.wikipedia.org/wiki/Category:陳慧琳音樂專輯 "wikilink")
 
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
+[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")

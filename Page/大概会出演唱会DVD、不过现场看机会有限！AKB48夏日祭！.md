@@ -31,71 +31,42 @@
 <!-- end list -->
 
 1.  **overtune**
-2.  **[Dear my
-    teacher](https://zh.wikipedia.org/wiki/櫻花的花瓣們 "wikilink")**
-    - Team A（北原、宮崎除外）
-3.  **[最終鐘聲鳴響](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最終鐘聲鳴響」 "wikilink")**（）
-    - Team K
-4.  **[初日](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**
-    - Team B（仁藤除外）
-5.  **[想見你](https://zh.wikipedia.org/wiki/想見你_\(AKB48單曲\) "wikilink")**
-    - Team A、K、B、研究生
+2.  **[Dear my teacher](https://zh.wikipedia.org/wiki/櫻花的花瓣們 "wikilink")** - Team A（北原、宮崎除外）
+3.  **[最終鐘聲鳴響](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最終鐘聲鳴響」 "wikilink")**（） - Team K
+4.  **[初日](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")** - Team B（仁藤除外）
+5.  **[想見你](https://zh.wikipedia.org/wiki/想見你_\(AKB48單曲\) "wikilink")** - Team A、K、B、研究生
 6.  **MC1** - 全員
-7.  **[沙灘的櫻桃](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想見你」 "wikilink")**（）
-    - 渡邊（中心）、仲川、片山、多田
-8.  **[淚之湘南](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想見你」 "wikilink")**（）
-    - 浦野、篠田、大島麻、小嶋、佐藤由
-9.  **[用飛吻擊落他！](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「為了誰」 "wikilink")**（）
-    - 前田、板野、藤江、成田、平嶋、峯岸
-10. **[對不起
-    我的寶石](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最終鐘聲鳴響」 "wikilink")**（）
-    - 大島優、增田、梅田、倉持（伴舞：大家、冨田、石田、鈴木、畑山、中西優）
-11. **[玻璃般的我愛你](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想見你」 "wikilink")**（）
-    - 北原、仁藤、指原、宮崎
-12. **[純愛的漸強音](https://zh.wikipedia.org/wiki/Team_A_4th_Stage「正在戀愛中」 "wikilink")**（）
-    - 高橋、峯岸、小嶋
-13. **[雨中動物園](../Page/Team_K_2nd_Stage「青春女孩」.md "wikilink")**（） -
-    小野、奧、早野、松原、梅田、小林、野呂、成瀨
-14. **[鏡中的聖女貞德](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（）
-    - 浦野、米澤、指原、早乙女、田名部
-15. **[Blue rose](../Page/Team_K_2nd_Stage「青春女孩」.md "wikilink")** -
-    佐伯、秋元、柏木、宮澤
-16. **[雄蕊雌蕊夜之蝶](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最終鐘聲鳴響」 "wikilink")**（）
-    - 大堀、河西
+7.  **[沙灘的櫻桃](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想見你」 "wikilink")**（） - 渡邊（中心）、仲川、片山、多田
+8.  **[淚之湘南](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想見你」 "wikilink")**（） - 浦野、篠田、大島麻、小嶋、佐藤由
+9.  **[用飛吻擊落他！](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「為了誰」 "wikilink")**（） - 前田、板野、藤江、成田、平嶋、峯岸
+10. **[對不起 我的寶石](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最終鐘聲鳴響」 "wikilink")**（） - 大島優、增田、梅田、倉持（伴舞：大家、冨田、石田、鈴木、畑山、中西優）
+11. **[玻璃般的我愛你](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想見你」 "wikilink")**（） - 北原、仁藤、指原、宮崎
+12. **[純愛的漸強音](https://zh.wikipedia.org/wiki/Team_A_4th_Stage「正在戀愛中」 "wikilink")**（） - 高橋、峯岸、小嶋
+13. **[雨中動物園](../Page/Team_K_2nd_Stage「青春女孩」.md "wikilink")**（） - 小野、奧、早野、松原、梅田、小林、野呂、成瀨
+14. **[鏡中的聖女貞德](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（） - 浦野、米澤、指原、早乙女、田名部
+15. **[Blue rose](../Page/Team_K_2nd_Stage「青春女孩」.md "wikilink")** - 佐伯、秋元、柏木、宮澤
+16. **[雄蕊雌蕊夜之蝶](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最終鐘聲鳴響」 "wikilink")**（） - 大堀、河西
 17. **MC2** - 佐藤由、小嶋、板野、大島麻、前田、高橋、峯岸、篠田
-18. **[浪漫、不需要](../Page/浪漫、不需要.md "wikilink")**（） -
-    板野、大島麻、小嶋、佐藤由、篠田、高橋、藤江、前田、峯岸、秋元、大島優、小野、河西、佐藤夏、野呂、近野
-19. **[RUN RUN
-    RUN](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」 "wikilink")**
-    - 大江、川崎、駒谷、佐藤亞、戶島、中西里、成田、奧、大堀、倉持、小林、成瀨、早野、增田、松原、宮澤
-20. **[呀喝B！](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（）
-    - Team B（仁藤除外）
-21. **[不開心的美人魚](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（）
-    - Team B（仁藤除外）（伴舞：小原、仁藤、北原、中田、藤本、中西優、不詳2名）
+18. **[浪漫、不需要](../Page/浪漫、不需要.md "wikilink")**（） - 板野、大島麻、小嶋、佐藤由、篠田、高橋、藤江、前田、峯岸、秋元、大島優、小野、河西、佐藤夏、野呂、近野
+19. **[RUN RUN RUN](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」 "wikilink")** - 大江、川崎、駒谷、佐藤亞、戶島、中西里、成田、奧、大堀、倉持、小林、成瀨、早野、增田、松原、宮澤
+20. **[呀喝B！](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（） - Team B（仁藤除外）
+21. **[不開心的美人魚](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（） - Team B（仁藤除外）（伴舞：小原、仁藤、北原、中田、藤本、中西優、不詳2名）
 22. **[化作滾石吧](../Page/Team_K_2nd_Stage「青春女孩」.md "wikilink")**（） - Team K
-23. **[梅樂斯之路](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最終鐘聲鳴響」 "wikilink")**（）
-    - Team K（伴舞：研究生12名）
-24. **[Only
-    today](https://zh.wikipedia.org/wiki/Team_A_4th_Stage「正在戀愛中」 "wikilink")**
-    - Team A（北原、宮崎除外）
+23. **[梅樂斯之路](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最終鐘聲鳴響」 "wikilink")**（） - Team K（伴舞：研究生12名）
+24. **[Only today](https://zh.wikipedia.org/wiki/Team_A_4th_Stage「正在戀愛中」 "wikilink")** - Team A（北原、宮崎除外）
 25. **[裙襬飄飄](../Page/裙襬飄飄.md "wikilink")**（） - Team A（北原、宮崎除外）
 26. **MC3** - Team A
-27. **[櫻花的花瓣們](https://zh.wikipedia.org/wiki/櫻花的花瓣們 "wikilink")**（） -
-    Team A、K、B
+27. **[櫻花的花瓣們](https://zh.wikipedia.org/wiki/櫻花的花瓣們 "wikilink")**（） - Team A、K、B
 
 **安可曲**
 
-1.  **[Virgin Love](../Page/Team_K_2nd_Stage「青春女孩」.md "wikilink")** -
-    研究生
-2.  **[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")**
-    - Team A（北原、宮崎除外）
+1.  **[Virgin Love](../Page/Team_K_2nd_Stage「青春女孩」.md "wikilink")** - 研究生
+2.  **[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")** - Team A（北原、宮崎除外）
 3.  **MC4** - 宮澤、平嶋、大堀、渡邊、小野、河田、大島優、浦野、秋元
-4.  **[Party開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」 "wikilink")**（）
-    - SKE48（包括中西優）
+4.  **[Party開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」 "wikilink")**（） - SKE48（包括中西優）
 5.  **MC5** - 柏木、渡邊、大島麻、高橋、大島優、宮澤
 6.  **[我的太陽](../Page/我的太陽_\(AKB48單曲\).md "wikilink")**（） - Team A、K、B
-7.  **[AKB48](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」 "wikilink")**
-    - Team A、K、B、研究生
+7.  **[AKB48](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」 "wikilink")** - Team A、K、B、研究生
 8.  **MC6** - 全員
 9.  **[BINGO\!](../Page/BINGO!.md "wikilink")** - Team A、K、B、研究生
 
@@ -103,13 +74,11 @@
 
   - AKB48的姐妹團體，以[名古屋市](../Page/名古屋市.md "wikilink")中部[榮為根據地的](../Page/榮_\(名古屋市\).md "wikilink")[SKE48](../Page/SKE48.md "wikilink")在本演唱會正式披露。
   - 當時為AKB研究生的[中西優香](../Page/中西優香.md "wikilink")在演唱會中發表移籍至SKE48\[13\]。
-  - 在2008年2月與[DefSTAR
-    Records解約後](../Page/DefSTAR_Records.md "wikilink")，正式公佈與[國王唱片](../Page/國王唱片.md "wikilink")簽約，並於10月發表最新單曲《[大聲鑽石](https://zh.wikipedia.org/wiki/大聲鑽石 "wikilink")》\[14\]。
+  - 在2008年2月與[DefSTAR Records解約後](../Page/DefSTAR_Records.md "wikilink")，正式公佈與[國王唱片](../Page/國王唱片.md "wikilink")簽約，並於10月發表最新單曲《[大聲鑽石](https://zh.wikipedia.org/wiki/大聲鑽石 "wikilink")》\[14\]。
 
 ## DVD
 
-演唱會的[DVD同樣由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS](../Page/AKS.md "wikilink")於2008年11月20日發行\[15\]，內容包括演唱會及幕後花絮。同時亦發售Premium
-Box版本，內容包括DVD、演唱會的歌曲CD、96頁寫真集、[生寫真](https://zh.wikipedia.org/wiki/生寫真 "wikilink")5張及A5th公演「機尾雲」圍巾\[16\]。
+演唱會的[DVD同樣由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS](../Page/AKS.md "wikilink")於2008年11月20日發行\[15\]，內容包括演唱會及幕後花絮。同時亦發售Premium Box版本，內容包括DVD、演唱會的歌曲CD、96頁寫真集、[生寫真](https://zh.wikipedia.org/wiki/生寫真 "wikilink")5張及A5th公演「機尾雲」圍巾\[16\]。
 
 幕後花絮分別由前田敦子、大島麻衣及高橋南作為旁白，而指原莉乃及仁藤萌乃則負責拍攝成員的排練情況\[17\]。
 

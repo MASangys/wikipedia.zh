@@ -6,8 +6,7 @@
 
 在1990年推出第3張唱片名為《Dreams》，主打歌曲《告別Barcelona》《月球地球》《某一夜的IDD》
 
-成员: 楊漢源 William Yong, 陳光榮 Punk Chan, 符元偉 Ronald Fu, 胡玉儀 Kathy Wu, 勞國超
-Enoch Lo & 劉家煌 Gary Lau.
+成员: 楊漢源 William Yong, 陳光榮 Punk Chan, 符元偉 Ronald Fu, 胡玉儀 Kathy Wu, 勞國超 Enoch Lo & 劉家煌 Gary Lau.
 
 ## 樂團成員
 

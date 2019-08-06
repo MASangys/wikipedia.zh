@@ -1,6 +1,4 @@
-《**Lonely**》是南韓女子組合[SPICA於](../Page/SPICA_\(組合\).md "wikilink")2012年11月23日由B2M
-Entertainment企劃/LOEN
-Music發行的第二張迷你專輯。即在線上音源發布當日（11月21日）獲NAVER即時搜尋榜一位\[1\]與蟬聯音樂網站-Bugs即時音源榜第三名\[2\]顯示其音樂的影響力。
+《**Lonely**》是南韓女子組合[SPICA於](../Page/SPICA_\(組合\).md "wikilink")2012年11月23日由B2M Entertainment企劃/LOEN Music發行的第二張迷你專輯。即在線上音源發布當日（11月21日）獲NAVER即時搜尋榜一位\[1\]與蟬聯音樂網站-Bugs即時音源榜第三名\[2\]顯示其音樂的影響力。
 
 ## 專輯概要
 
@@ -14,8 +12,7 @@ Music發行的第二張迷你專輯。即在線上音源發布當日（11月21�
 
 ## 造型
 
-在甫結束[I'll Be
-There的宣傳活動後](../Page/I'll_Be_There.md "wikilink")，旋即於2012年11月9日在其官方Twitter公開成員們新曲的回歸概念照，褪去以往強勢帥氣的形象，身著各款誘人的性感裝扮，以清純撫媚的姿態展現性感的女人魅力\[4\]。11月13日通過概念照變身的SPICA公開“Lonely”專輯封面照，照片中SPICA成員身穿紅色成熟性感服裝，和之前概念照中的清純形像不同，流露出冷豔高貴的氣質；11月15日則公佈身著統一樣式的黑色連衣裙概念照，成員們擺出盡顯領袖魅力的表情和姿勢，與之前公開的紅色裙裝的專輯封面照呈現出一脈相承的性感魅力\[5\]。
+在甫結束[I'll Be There的宣傳活動後](../Page/I'll_Be_There.md "wikilink")，旋即於2012年11月9日在其官方Twitter公開成員們新曲的回歸概念照，褪去以往強勢帥氣的形象，身著各款誘人的性感裝扮，以清純撫媚的姿態展現性感的女人魅力\[4\]。11月13日通過概念照變身的SPICA公開“Lonely”專輯封面照，照片中SPICA成員身穿紅色成熟性感服裝，和之前概念照中的清純形像不同，流露出冷豔高貴的氣質；11月15日則公佈身著統一樣式的黑色連衣裙概念照，成員們擺出盡顯領袖魅力的表情和姿勢，與之前公開的紅色裙裝的專輯封面照呈現出一脈相承的性感魅力\[5\]。
 
 ## 曲目
 
@@ -46,15 +43,13 @@ There的宣傳活動後](../Page/I'll_Be_There.md "wikilink")，旋即於2012年
 ### 曲目介紹
 
 1.  LONELY
-      - 主打歌曲。再次由為Spica製作[Russian
-        Roulette的K](../Page/Russian_Roulette.md "wikilink")-POP熱門音樂製作團隊「SWEETUNE」傾力製作，描述在分手後喝醉的悲傷女子漫步在曾與前男友共同走過的街頭卻感受著完全不同的情緒，是首刻劃著想念對方卻又苦澀的女人傷口與孤獨徬徨的歌曲。
+      - 主打歌曲。再次由為Spica製作[Russian Roulette的K](../Page/Russian_Roulette.md "wikilink")-POP熱門音樂製作團隊「SWEETUNE」傾力製作，描述在分手後喝醉的悲傷女子漫步在曾與前男友共同走過的街頭卻感受著完全不同的情緒，是首刻劃著想念對方卻又苦澀的女人傷口與孤獨徬徨的歌曲。
 2.  With you
       - 由Spica成員[金甫娥](../Page/金甫娥.md "wikilink")親自填詞譜曲，並參與製作，是首擁有純淨懏永的歌詞與能夠感受[放克](../Page/放克.md "wikilink")律動的都會歌曲。
 3.  那晚
       - 由Spica成員[金保亨](../Page/金保亨.md "wikilink")個人提供詞曲與編曲及製作，是首結合合成聲與電子吉他配樂的歌曲。
 4.  Since You’re Out of My Life
-      - 專輯中最後一首曲目，由現正在美國活動的「MARCAN」團隊製作是首能強烈感受到Urban
-        Soul的歌曲，為Spica獻給期待已久的粉絲們的禮物。
+      - 專輯中最後一首曲目，由現正在美國活動的「MARCAN」團隊製作是首能強烈感受到Urban Soul的歌曲，為Spica獻給期待已久的粉絲們的禮物。
 
 ## 成績
 
@@ -339,12 +334,9 @@ There的宣傳活動後](../Page/I'll_Be_There.md "wikilink")，旋即於2012年
 
   - [CSI: SPICA(스피카)](http://www.youtube.com/watch?v=eJY0xbSpXpc)
 
-  - [Let's Dance:
-    SPICA(스피카)](http://www.youtube.com/watch?v=61mYM1GOJ0M)
+  - [Let's Dance: SPICA(스피카)](http://www.youtube.com/watch?v=61mYM1GOJ0M)
 
-[Category:SPICA音樂專輯](https://zh.wikipedia.org/wiki/Category:SPICA音樂專輯 "wikilink")
-[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:SPICA音樂專輯](https://zh.wikipedia.org/wiki/Category:SPICA音樂專輯 "wikilink") [Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
 1.
 2.

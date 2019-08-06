@@ -1,21 +1,10 @@
-**GIRLS' GENERATION
-TOUR**是韓國女子組合[少女時代第二次亞洲巡迴演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。這次巡演的一部分是在日本舉行的The
-1st Japan Arena Tour，舞台的設計、配置設備都是一樣。
-[少女時代這次巡演一共有七套服裝的變化](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。2011年7月23日[首爾](../Page/首爾.md "wikilink")開始巡演，之後在[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[香港](../Page/香港.md "wikilink")舉行，2012年2月12日在[曼谷](../Page/曼谷.md "wikilink")完成最後一次巡演。
+**GIRLS' GENERATION TOUR**是韓國女子組合[少女時代第二次亞洲巡迴演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。這次巡演的一部分是在日本舉行的The 1st Japan Arena Tour，舞台的設計、配置設備都是一樣。 [少女時代這次巡演一共有七套服裝的變化](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。2011年7月23日[首爾](../Page/首爾.md "wikilink")開始巡演，之後在[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[香港](../Page/香港.md "wikilink")舉行，2012年2月12日在[曼谷](../Page/曼谷.md "wikilink")完成最後一次巡演。
 
 ## 概述
 
-於2011年7月23日在韓國首爾[首爾奧林匹克體操競技場舉行這次巡演的首場已經開始](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")。這次巡演的一部分是在日本舉行的The
-1st Japan Arena Tour，因此舞台的設計、配置設備都是一樣。日本專輯收錄曲〈The Great Escape〉、〈Bad
-Girl〉、〈Mr. Taxi〉和〈Let it rain〉等，在這次巡演亦有演唱。\[1\] 特別是〈Mr. Taxi〉、〈Let it
-rain〉的韓文版在這次巡演首次公開，〈Mr.
-Taxi〉韓文版收錄在正規三輯中，並發佈了Repackage的專輯。同年9月，台北站的門票銷售是從原來的兩場加至三場，三天動員31,000名觀眾，是首個海外女子組合舉行最多三場演唱會，是最多觀眾動員的記錄。
-\[2\]
-同年12月，[少女時代是首個韓國女子歌手在](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[新加坡室內體育館舉行個人演唱會](https://zh.wikipedia.org/wiki/新加坡室內體育館 "wikilink")，門票在預訂開始4小時內售罄，所以演唱會增加一場。此外，新歌〈The
-Boys〉的表演舞台首次推出。\[3\]
+於2011年7月23日在韓國首爾[首爾奧林匹克體操競技場舉行這次巡演的首場已經開始](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")。這次巡演的一部分是在日本舉行的The 1st Japan Arena Tour，因此舞台的設計、配置設備都是一樣。日本專輯收錄曲〈The Great Escape〉、〈Bad Girl〉、〈Mr. Taxi〉和〈Let it rain〉等，在這次巡演亦有演唱。\[1\] 特別是〈Mr. Taxi〉、〈Let it rain〉的韓文版在這次巡演首次公開，〈Mr. Taxi〉韓文版收錄在正規三輯中，並發佈了Repackage的專輯。同年9月，台北站的門票銷售是從原來的兩場加至三場，三天動員31,000名觀眾，是首個海外女子組合舉行最多三場演唱會，是最多觀眾動員的記錄。 \[2\] 同年12月，[少女時代是首個韓國女子歌手在](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[新加坡室內體育館舉行個人演唱會](https://zh.wikipedia.org/wiki/新加坡室內體育館 "wikilink")，門票在預訂開始4小時內售罄，所以演唱會增加一場。此外，新歌〈The Boys〉的表演舞台首次推出。\[3\]
 
-2012年1月15日在香港[亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")舉行 \[4\]
-，2月12日的最後一站在曼谷結束。\[5\] 亞洲巡演成功舉行，九場演唱會動員共92,000名觀眾。
+2012年1月15日在香港[亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink")舉行 \[4\] ，2月12日的最後一站在曼谷結束。\[5\] 亞洲巡演成功舉行，九場演唱會動員共92,000名觀眾。
 
 ## JAPAN FIRST TOUR GIRLS' GENERATION
 
@@ -138,8 +127,7 @@ Boys〉的表演舞台首次推出。\[3\]
 
 <!-- end list -->
 
-  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")
-    （[太妍](../Page/太妍.md "wikilink")、[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
+  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink") （[太妍](../Page/太妍.md "wikilink")、[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
 
 <!-- end list -->
 
@@ -147,9 +135,7 @@ Boys〉的表演舞台首次推出。\[3\]
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream
-    Maker Entertainment
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream Maker Entertainment
 
 <!-- end list -->
 
@@ -160,8 +146,7 @@ Boys〉的表演舞台首次推出。\[3\]
   - 首爾－SM Entertainment、Dream Maker Entertainment
   - 台北－超級圓頂
   - 新加坡－Running Into The Sun、Conceptual
-  - 香港－亞洲旋風(香港)有限公司、大名娛樂、框格音樂事務有限公司、好人有限、Purple Green、佳音娛樂有限公司、Wonder
-    Wonder
+  - 香港－亞洲旋風(香港)有限公司、大名娛樂、框格音樂事務有限公司、好人有限、Purple Green、佳音娛樂有限公司、Wonder Wonder
   - 曼谷－[SM True](../Page/SM娛樂.md "wikilink")
 
 <!-- end list -->
@@ -184,9 +169,7 @@ Boys〉的表演舞台首次推出。\[3\]
   -
   -
 
-[Category:2011年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2011年巡迴演唱會 "wikilink")
-[Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink")
-[Category:少女時代巡迴演唱會](https://zh.wikipedia.org/wiki/Category:少女時代巡迴演唱會 "wikilink")
+[Category:2011年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2011年巡迴演唱會 "wikilink") [Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink") [Category:少女時代巡迴演唱會](https://zh.wikipedia.org/wiki/Category:少女時代巡迴演唱會 "wikilink")
 
 1.
 

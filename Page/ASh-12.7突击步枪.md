@@ -1,6 +1,4 @@
-**ASh-12.7**（；全寫：，意為：12.7毫米自動突擊步槍）是一枝由[俄罗斯](../Page/俄罗斯.md "wikilink")[圖拉](../Page/圖拉_\(圖拉州\).md "wikilink")[KBP儀器設計廠旗下的](../Page/俄联邦仪器设计局.md "wikilink")（TsKIB
-SOO）槍械設計師在[俄羅斯聯邦安全局的要求下研制](https://zh.wikipedia.org/wiki/俄羅斯聯邦安全局 "wikilink")、（，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Kontsern
-Kalashnikova，；前稱：伊茨瑪希工廠，，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Izhmash）生产的大[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")，是一種[近身距離作戰](../Page/近身距離作戰.md "wikilink")及[城市作戰專用的武器](../Page/城鎮戰.md "wikilink")，发射俄羅斯口徑[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]\[2\]該武器的研製目的是給諸如俄羅斯聯邦安全局這些在城市環境戰鬥的[特種部隊](../Page/特種部隊.md "wikilink")單位對付全副武裝及有組織[黑社會](../Page/黑社會.md "wikilink")和[恐怖分子勢力時使用](../Page/恐怖主义.md "wikilink")。該槍在2011年底亮相，據說首批ASh-12.7已經被送到FSB進行試用。
+**ASh-12.7**（；全寫：，意為：12.7毫米自動突擊步槍）是一枝由[俄罗斯](../Page/俄罗斯.md "wikilink")[圖拉](../Page/圖拉_\(圖拉州\).md "wikilink")[KBP儀器設計廠旗下的](../Page/俄联邦仪器设计局.md "wikilink")（TsKIB SOO）槍械設計師在[俄羅斯聯邦安全局的要求下研制](https://zh.wikipedia.org/wiki/俄羅斯聯邦安全局 "wikilink")、（，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Kontsern Kalashnikova，；前稱：伊茨瑪希工廠，，[俄语罗马化](../Page/俄语罗马化.md "wikilink")：Izhmash）生产的大[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")，是一種[近身距離作戰](../Page/近身距離作戰.md "wikilink")及[城市作戰專用的武器](../Page/城鎮戰.md "wikilink")，发射俄羅斯口徑[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]\[2\]該武器的研製目的是給諸如俄羅斯聯邦安全局這些在城市環境戰鬥的[特種部隊](../Page/特種部隊.md "wikilink")單位對付全副武裝及有組織[黑社會](../Page/黑社會.md "wikilink")和[恐怖分子勢力時使用](../Page/恐怖主义.md "wikilink")。該槍在2011年底亮相，據說首批ASh-12.7已經被送到FSB進行試用。
 
 ## 概述
 
@@ -36,31 +34,20 @@ ASh-12.7基本上有兩種型號。第一個版本具有整體式提把配置，
 
 ## 外部連結
 
-  - —[Modern Firearms－ASh-12.7 assault
-    rifle](http://world.guns.ru/assault/rus/ash-12_7-assault-rifle-e.html)
+  - —[Modern Firearms－ASh-12.7 assault rifle](http://world.guns.ru/assault/rus/ash-12_7-assault-rifle-e.html)
 
-  - —[The Firearm Blog－New Russian TsKIB ASh-12 .50 Cal (12.7x55mm)
-    Bullpup
-    Rifle](http://www.thefirearmblog.com/blog/2011/12/05/new-russian-tskib-ash-12-50-cal-12-7x55mm-bullpup-rifle/)
+  - —[The Firearm Blog－New Russian TsKIB ASh-12 .50 Cal (12.7x55mm) Bullpup Rifle](http://www.thefirearmblog.com/blog/2011/12/05/new-russian-tskib-ash-12-50-cal-12-7x55mm-bullpup-rifle/)
 
-  - —[D Boy Gun
-    World（槍炮世界）—ASh-12.7突击步枪](http://firearmsworld.net/russain/ar/ash12/ash12.htm)
+  - —[D Boy Gun World（槍炮世界）—ASh-12.7突击步枪](http://firearmsworld.net/russain/ar/ash12/ash12.htm)
 
-[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink")
-[Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink")
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:犢牛式槍械](https://zh.wikipedia.org/wiki/Category:犢牛式槍械 "wikilink")
-[Category:運動及狩獵武器中央設計研究局](https://zh.wikipedia.org/wiki/Category:運動及狩獵武器中央設計研究局 "wikilink")
+[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:犢牛式槍械](https://zh.wikipedia.org/wiki/Category:犢牛式槍械 "wikilink") [Category:運動及狩獵武器中央設計研究局](https://zh.wikipedia.org/wiki/Category:運動及狩獵武器中央設計研究局 "wikilink")
 
-1.  [Modern Firearms - ASh-12_7 assault
-    rifle](http://world.guns.ru/assault/rus/ash-12_7-assault-rifle-e.html)
+1.  [Modern Firearms - ASh-12_7 assault rifle](http://world.guns.ru/assault/rus/ash-12_7-assault-rifle-e.html)
 
 2.
 
 3.
 4.
-5.  [12,7х55
-    СЦ-130](http://ammo-collection.com/index.php?title=12,7%D1%8555_%D0%A1%D0%A6-130)
-
+5.  [12,7х55 СЦ-130](http://ammo-collection.com/index.php?title=12,7%D1%8555_%D0%A1%D0%A6-130)
 
 6.

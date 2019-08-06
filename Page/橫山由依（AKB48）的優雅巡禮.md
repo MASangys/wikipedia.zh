@@ -1,16 +1,12 @@
-《**橫山由依（AKB48）的優雅巡禮**》（）是一個由[日本](../Page/日本.md "wikilink")[關西電視台](../Page/關西電視台.md "wikilink")所製作播放的，於2012年7月18日開播，每月播放一集。此節目是女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")成員[橫山由依](../Page/橫山由依.md "wikilink")第一個個人冠名節目，由出身於[京都府的橫山實地走訪故鄉的名勝](https://zh.wikipedia.org/wiki/京都府 "wikilink")，介紹京都當地的傳統文化。節目的第一季《**京都‧美的音色**》（）在播出12集之後，於2013年6月19日完結，並自同年7月17日接續播出第二季《**京都
-色彩日記**》（）。除了製作節目的關西電視台外，此節目也有在[衛星電視頻道](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[BS富士](../Page/BS富士.md "wikilink")上播出。
+《**橫山由依（AKB48）的優雅巡禮**》（）是一個由[日本](../Page/日本.md "wikilink")[關西電視台](../Page/關西電視台.md "wikilink")所製作播放的，於2012年7月18日開播，每月播放一集。此節目是女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")成員[橫山由依](../Page/橫山由依.md "wikilink")第一個個人冠名節目，由出身於[京都府的橫山實地走訪故鄉的名勝](https://zh.wikipedia.org/wiki/京都府 "wikilink")，介紹京都當地的傳統文化。節目的第一季《**京都‧美的音色**》（）在播出12集之後，於2013年6月19日完結，並自同年7月17日接續播出第二季《**京都 色彩日記**》（）。除了製作節目的關西電視台外，此節目也有在[衛星電視頻道](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[BS富士](../Page/BS富士.md "wikilink")上播出。
 
 ## 簡介
 
-橫山由依出身於京都府[木津川市](../Page/木津川市.md "wikilink")，在成員大都來自[關東地區各縣的AKB](https://zh.wikipedia.org/wiki/關東地區 "wikilink")48之中是少數的特例，因此經常在團體內擔任[關西地區的代言角色](https://zh.wikipedia.org/wiki/關西地區 "wikilink")，並曾經在第一季節目播出的2012至2013年間，限期兼任以關西為主要活動範圍的姊妹團體[NMB48](../Page/NMB48.md "wikilink")的成員。橫山除了本身就是以京都知名的古蹟[金閣寺作為自己的劇場自我介紹語之外](https://zh.wikipedia.org/wiki/金閣寺 "wikilink")，也常會出席各類[綜藝節目](../Page/綜藝節目.md "wikilink")或擔任京都的採訪員。在《橫山由依（AKB48）的優雅巡禮》
-節目中，她首度以個人主持[外景採訪的方式](https://zh.wikipedia.org/wiki/外景 "wikilink")，在每次節目中選擇京都的一個特定地區，進行較為深入的散步尋訪，或是選定特定主題，在京都各地拜訪相關的人物、機關或地點。節目的內容包含了景點的介紹，訪問當地的店家與相關的專家，或是介紹試吃各地的傳統或特色食物等。
+橫山由依出身於京都府[木津川市](../Page/木津川市.md "wikilink")，在成員大都來自[關東地區各縣的AKB](https://zh.wikipedia.org/wiki/關東地區 "wikilink")48之中是少數的特例，因此經常在團體內擔任[關西地區的代言角色](https://zh.wikipedia.org/wiki/關西地區 "wikilink")，並曾經在第一季節目播出的2012至2013年間，限期兼任以關西為主要活動範圍的姊妹團體[NMB48](../Page/NMB48.md "wikilink")的成員。橫山除了本身就是以京都知名的古蹟[金閣寺作為自己的劇場自我介紹語之外](https://zh.wikipedia.org/wiki/金閣寺 "wikilink")，也常會出席各類[綜藝節目](../Page/綜藝節目.md "wikilink")或擔任京都的採訪員。在《橫山由依（AKB48）的優雅巡禮》 節目中，她首度以個人主持[外景採訪的方式](https://zh.wikipedia.org/wiki/外景 "wikilink")，在每次節目中選擇京都的一個特定地區，進行較為深入的散步尋訪，或是選定特定主題，在京都各地拜訪相關的人物、機關或地點。節目的內容包含了景點的介紹，訪問當地的店家與相關的專家，或是介紹試吃各地的傳統或特色食物等。
 
-與一般的旅遊節目不太相同的是，由於第一季的節目《京都‧美的音色》作品名稱中就強調了「[聲音](https://zh.wikipedia.org/wiki/聲音 "wikilink")」這個要素，因此不管是景點或是人物採訪，都是先傾聽採訪場合的獨特聲音作為話題起點，例如[西陣](../Page/西陣.md "wikilink")的工匠在製作[西陣織時](https://zh.wikipedia.org/wiki/西陣織 "wikilink")[織布機獨特的敲打聲](https://zh.wikipedia.org/wiki/織布機 "wikilink")，風吹過[嵯峨野的](https://zh.wikipedia.org/wiki/嵯峨野 "wikilink")[竹](../Page/竹.md "wikilink")林時所產生的沙沙聲，或[祇園](../Page/祇園.md "wikilink")的[舞妓](../Page/舞妓.md "wikilink")在走路時（京都方言稱為「」）上的[鈴鐺所發出的響聲等](https://zh.wikipedia.org/wiki/鈴 "wikilink")，再擴及到周遭環境的文化歷史之美，此外在每集節目的末尾都有一個「由依的日記」（由依's
-Diary）小單元，展示數張以橫山的視角所拍攝或選擇的照片，搭配簡短的手寫感言與旁白，總結該集節目的內容。
+與一般的旅遊節目不太相同的是，由於第一季的節目《京都‧美的音色》作品名稱中就強調了「[聲音](https://zh.wikipedia.org/wiki/聲音 "wikilink")」這個要素，因此不管是景點或是人物採訪，都是先傾聽採訪場合的獨特聲音作為話題起點，例如[西陣](../Page/西陣.md "wikilink")的工匠在製作[西陣織時](https://zh.wikipedia.org/wiki/西陣織 "wikilink")[織布機獨特的敲打聲](https://zh.wikipedia.org/wiki/織布機 "wikilink")，風吹過[嵯峨野的](https://zh.wikipedia.org/wiki/嵯峨野 "wikilink")[竹](../Page/竹.md "wikilink")林時所產生的沙沙聲，或[祇園](../Page/祇園.md "wikilink")的[舞妓](../Page/舞妓.md "wikilink")在走路時（京都方言稱為「」）上的[鈴鐺所發出的響聲等](https://zh.wikipedia.org/wiki/鈴 "wikilink")，再擴及到周遭環境的文化歷史之美，此外在每集節目的末尾都有一個「由依的日記」（由依's Diary）小單元，展示數張以橫山的視角所拍攝或選擇的照片，搭配簡短的手寫感言與旁白，總結該集節目的內容。
 
-繼以聲音為主題的第一季節目結束後，第二季《京都
-色彩日記》則改以「[顏色](https://zh.wikipedia.org/wiki/顏色 "wikilink")」作為核心話題，自2013年7月17日起於每個月的第三個星期三深夜（相當於週四凌晨）1時58分播放，此外在每集的末尾亦維持第一季「由依的日記」小單元，但第二季是以橫山手繪的繪圖日記來回顧並總結該集內容，此外在2014年6月11日播出的節目中，橫山宣布了第二季將會持續邁入第二年的播出，並製作開播以來的首集特別篇，除會邀請同為AKB48成員的[北原里英](../Page/北原里英.md "wikilink")擔任特別來賓外\[1\]，特別篇將會有90分鐘的延長播出。
+繼以聲音為主題的第一季節目結束後，第二季《京都 色彩日記》則改以「[顏色](https://zh.wikipedia.org/wiki/顏色 "wikilink")」作為核心話題，自2013年7月17日起於每個月的第三個星期三深夜（相當於週四凌晨）1時58分播放，此外在每集的末尾亦維持第一季「由依的日記」小單元，但第二季是以橫山手繪的繪圖日記來回顧並總結該集內容，此外在2014年6月11日播出的節目中，橫山宣布了第二季將會持續邁入第二年的播出，並製作開播以來的首集特別篇，除會邀請同為AKB48成員的[北原里英](../Page/北原里英.md "wikilink")擔任特別來賓外\[1\]，特別篇將會有90分鐘的延長播出。
 
 ## 節目內容
 
@@ -599,9 +595,6 @@ Diary）小單元，展示數張以橫山的視角所拍攝或選擇的照片，
       - [京都 色彩日記](http://www.ktv.jp/hannari/index.html)
 
       -
-[Category:日本電視旅遊節目](https://zh.wikipedia.org/wiki/Category:日本電視旅遊節目 "wikilink")
-[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink")
-[Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink")
-[Category:關西電視台](https://zh.wikipedia.org/wiki/Category:關西電視台 "wikilink")
+[Category:日本電視旅遊節目](https://zh.wikipedia.org/wiki/Category:日本電視旅遊節目 "wikilink") [Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink") [Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink") [Category:關西電視台](https://zh.wikipedia.org/wiki/Category:關西電視台 "wikilink")
 
 1.

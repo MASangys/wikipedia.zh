@@ -1,6 +1,4 @@
-《**Comic
-Gum**》是[日本](../Page/日本.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，由[Wani
-Books發行](https://zh.wikipedia.org/wiki/Wani_Books "wikilink")，1997年独立創刊。1999年成為[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")。
+《**Comic Gum**》是[日本](../Page/日本.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，由[Wani Books發行](https://zh.wikipedia.org/wiki/Wani_Books "wikilink")，1997年独立創刊。1999年成為[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")。
 
 ## 連載中作品
 
@@ -32,33 +30,26 @@ Books發行](https://zh.wikipedia.org/wiki/Wani_Books "wikilink")，1997年独�
   - [トーキョー・リトル・ガナーズ](https://zh.wikipedia.org/wiki/トーキョー・リトル・ガナーズ "wikilink")（漫画：長谷川光司、原作：柿沼秀樹）
   - [エンブリヲン・ロード](https://zh.wikipedia.org/wiki/エンブリヲン・ロード "wikilink")（[やまむらはじめ](https://zh.wikipedia.org/wiki/やまむらはじめ "wikilink")）
   - [おとぎ奉り](https://zh.wikipedia.org/wiki/おとぎ奉り "wikilink")（[井上淳哉](../Page/井上淳哉.md "wikilink")）
-  - [大人になる呪文
-    新学期](https://zh.wikipedia.org/wiki/大人になる呪文_新学期 "wikilink")（[パニックアタック](https://zh.wikipedia.org/wiki/パニックアタック_\(漫画家\) "wikilink")）
+  - [大人になる呪文 新学期](https://zh.wikipedia.org/wiki/大人になる呪文_新学期 "wikilink")（[パニックアタック](https://zh.wikipedia.org/wiki/パニックアタック_\(漫画家\) "wikilink")）
   - [KaNa](https://zh.wikipedia.org/wiki/KaNa "wikilink")（漫画：[相楽直哉](https://zh.wikipedia.org/wiki/相楽直哉 "wikilink")、原作：[為我井徹](https://zh.wikipedia.org/wiki/為我井徹 "wikilink")）
   - [神様だもの♥](https://zh.wikipedia.org/wiki/神様だもの "wikilink")（[紗夢猫](https://zh.wikipedia.org/wiki/紗夢猫 "wikilink")）
-  - [北へ。Diamond Dust
-    Drops](https://zh.wikipedia.org/wiki/北へ。〜Diamond_Dust_Drops〜 "wikilink")（漫画：[トミィ大塚](https://zh.wikipedia.org/wiki/トミィ大塚 "wikilink")+[千葉道徳](https://zh.wikipedia.org/wiki/千葉道徳 "wikilink")、原作：[広井王子](https://zh.wikipedia.org/wiki/広井王子 "wikilink")）
-  - [GRANDEEK](https://zh.wikipedia.org/wiki/GRANDEEK "wikilink")（[桜瀬琥姫](https://zh.wikipedia.org/wiki/桜瀬琥姫 "wikilink")）
-    ※『[ウルトラジャンプ](https://zh.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて連載再開
+  - [北へ。Diamond Dust Drops](https://zh.wikipedia.org/wiki/北へ。〜Diamond_Dust_Drops〜 "wikilink")（漫画：[トミィ大塚](https://zh.wikipedia.org/wiki/トミィ大塚 "wikilink")+[千葉道徳](https://zh.wikipedia.org/wiki/千葉道徳 "wikilink")、原作：[広井王子](https://zh.wikipedia.org/wiki/広井王子 "wikilink")）
+  - [GRANDEEK](https://zh.wikipedia.org/wiki/GRANDEEK "wikilink")（[桜瀬琥姫](https://zh.wikipedia.org/wiki/桜瀬琥姫 "wikilink")） ※『[ウルトラジャンプ](https://zh.wikipedia.org/wiki/ウルトラジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）にて連載再開
   - [くるりくる\!](https://zh.wikipedia.org/wiki/くるりくる! "wikilink")（[ひよひよ](https://zh.wikipedia.org/wiki/ひよひよ "wikilink")）
   - [豪放ライラック](https://zh.wikipedia.org/wiki/豪放ライラック "wikilink")（[桑田乃梨子](../Page/桑田乃梨子.md "wikilink")）
   - [荒野の蒸気娘](https://zh.wikipedia.org/wiki/荒野の蒸気娘 "wikilink")（[あさりよしとお](https://zh.wikipedia.org/wiki/あさりよしとお "wikilink")）
   - [ジャンキー・フィクション](https://zh.wikipedia.org/wiki/ジャンキー・フィクション "wikilink")（漫画：[明治ていか](https://zh.wikipedia.org/wiki/明治ていか "wikilink")、原作：為我井徹）
-  - [SCRIPT
-    ダウナーズ](https://zh.wikipedia.org/wiki/SCRIPT_ダウナーズ "wikilink")（[RYU-TMR](https://zh.wikipedia.org/wiki/RYU-TMR "wikilink")）
+  - [SCRIPT ダウナーズ](https://zh.wikipedia.org/wiki/SCRIPT_ダウナーズ "wikilink")（[RYU-TMR](https://zh.wikipedia.org/wiki/RYU-TMR "wikilink")）
   - [マンションズ&ドラゴンズ](https://zh.wikipedia.org/wiki/マンションズ&ドラゴンズ "wikilink")（漫画：[佐々木亮](https://zh.wikipedia.org/wiki/佐々木亮 "wikilink")、原作：[藤浪智之](https://zh.wikipedia.org/wiki/藤浪智之 "wikilink")）
-      - [ダークローダーズ
-        魔王のおしごと](https://zh.wikipedia.org/wiki/ダークローダーズ_魔王のおしごと "wikilink")
+      - [ダークローダーズ 魔王のおしごと](https://zh.wikipedia.org/wiki/ダークローダーズ_魔王のおしごと "wikilink")
   - [大同人物語](https://zh.wikipedia.org/wiki/大同人物語 "wikilink")（[平野耕太](https://zh.wikipedia.org/wiki/平野耕太 "wikilink")）
   - [大復活祭](https://zh.wikipedia.org/wiki/大復活祭 "wikilink")（みなぎ得一）
   - [斷罪者](https://zh.wikipedia.org/wiki/斷罪者 "wikilink")（[いとうえい](https://zh.wikipedia.org/wiki/いとうえい "wikilink")）
-  - [月詠 -MOON
-    PHASE-](../Page/月詠.md "wikilink")（[有馬啓太郎](https://zh.wikipedia.org/wiki/有馬啓太郎 "wikilink")）
+  - [月詠 -MOON PHASE-](../Page/月詠.md "wikilink")（[有馬啓太郎](https://zh.wikipedia.org/wiki/有馬啓太郎 "wikilink")）
   - [ぬいぐるみっくす♥](https://zh.wikipedia.org/wiki/ぬいぐるみっくす "wikilink")（[泉ゆうじ](https://zh.wikipedia.org/wiki/泉ゆうじ "wikilink")）
   - [ネコミミデイズ](https://zh.wikipedia.org/wiki/ネコミミデイズ "wikilink")（[草野ほうき](https://zh.wikipedia.org/wiki/草野ほうき "wikilink")）
   - [H・A・L](https://zh.wikipedia.org/wiki/H・A・L "wikilink")（あさりよしとお）
-  - [PARADIGM
-    OUT](https://zh.wikipedia.org/wiki/PARADIGM_OUT "wikilink")（RYU-TMR）
+  - [PARADIGM OUT](https://zh.wikipedia.org/wiki/PARADIGM_OUT "wikilink")（RYU-TMR）
   - [Pinky:comic](https://zh.wikipedia.org/wiki/ピンキーストリート "wikilink")（[ヤスダスズヒト](https://zh.wikipedia.org/wiki/ヤスダスズヒト "wikilink")）
   - [プリンス・スタンダード](https://zh.wikipedia.org/wiki/プリンス・スタンダード "wikilink")（[別天荒人](https://zh.wikipedia.org/wiki/別天荒人 "wikilink")）
   - [魔力女管家](../Page/魔力女管家.md "wikilink")（漫画：ぢたま（某）、原作：中山文十郎）
@@ -80,8 +71,7 @@ Books發行](https://zh.wikipedia.org/wiki/Wani_Books "wikilink")，1997年独�
   - [ヘブンズゲイト](https://zh.wikipedia.org/wiki/ヘブンズゲイト "wikilink")（[門井亜矢](https://zh.wikipedia.org/wiki/門井亜矢 "wikilink")）
   - [マギーペール](https://zh.wikipedia.org/wiki/マギーペール "wikilink")（[髙木信孝](https://zh.wikipedia.org/wiki/高木信孝 "wikilink")）
   - [マブイノコトワリ](https://zh.wikipedia.org/wiki/マブイノコトワリ "wikilink")（漫画：森ゆきなつ、原作：[高円寺雅彦](https://zh.wikipedia.org/wiki/高円寺雅彦 "wikilink")）
-  - [99 -NINTY
-    NINE-](https://zh.wikipedia.org/wiki/99_-NINTY_NINE- "wikilink")（[宗我部としのり](https://zh.wikipedia.org/wiki/宗我部としのり "wikilink")）
+  - [99 -NINTY NINE-](https://zh.wikipedia.org/wiki/99_-NINTY_NINE- "wikilink")（[宗我部としのり](https://zh.wikipedia.org/wiki/宗我部としのり "wikilink")）
   - [キコケン](https://zh.wikipedia.org/wiki/キコケン "wikilink")（[ヒライユキオ](https://zh.wikipedia.org/wiki/ヒライユキオ "wikilink")）
 
 ## 外部連結
@@ -89,6 +79,4 @@ Books發行](https://zh.wikipedia.org/wiki/Wani_Books "wikilink")，1997年独�
   - [（株）ワニブックス 公式サイト](http://www.wani.co.jp/)
   - [Comic Gum 公式サイト](http://www.comicgum.com/)
 
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
+[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")

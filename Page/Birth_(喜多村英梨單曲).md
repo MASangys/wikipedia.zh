@@ -2,8 +2,7 @@
 
 ## 概要
 
-本作於喜多村的前一單曲作品「[Miracle
-Gliders](https://zh.wikipedia.org/wiki/Miracle_Gliders "wikilink")」約7個月後發售。
+本作於喜多村的前一單曲作品「[Miracle Gliders](https://zh.wikipedia.org/wiki/Miracle_Gliders "wikilink")」約7個月後發售。
 
 本曲是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[神不在的星期天](../Page/神不在的星期天.md "wikilink")》的片頭曲。
 
@@ -25,6 +24,4 @@ Gliders](https://zh.wikipedia.org/wiki/Miracle_Gliders "wikilink")」約7個月�
       - [初回限定盤](http://www.starchild.co.jp/new/KICM_91460.html)
       - [通常盤](http://www.starchild.co.jp/new/KICM_1460.html)
 
-[Category:喜多村英梨歌曲](https://zh.wikipedia.org/wiki/Category:喜多村英梨歌曲 "wikilink")
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:電視動畫主題曲](https://zh.wikipedia.org/wiki/Category:電視動畫主題曲 "wikilink")
+[Category:喜多村英梨歌曲](https://zh.wikipedia.org/wiki/Category:喜多村英梨歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:電視動畫主題曲](https://zh.wikipedia.org/wiki/Category:電視動畫主題曲 "wikilink")

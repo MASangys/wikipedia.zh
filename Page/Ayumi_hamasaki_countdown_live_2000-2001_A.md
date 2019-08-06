@@ -1,5 +1,4 @@
-《**ayumi hamasaki countdown live 2000-2001 A**》（濱崎步 2000-2001 跨年演唱會
-A）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2000年12月30日、31日在國立代代木競技場第一體育場舉行首次跨年演唱會。
+《**ayumi hamasaki countdown live 2000-2001 A**》（濱崎步 2000-2001 跨年演唱會 A）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2000年12月30日、31日在國立代代木競技場第一體育場舉行首次跨年演唱會。
 
 ## 說明
 
@@ -37,5 +36,4 @@ A）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2000年12月30
 
 </small>
 
-[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink")
-[Category:2001年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2001年音樂相關影像作品 "wikilink")
+[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink") [Category:2001年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2001年音樂相關影像作品 "wikilink")

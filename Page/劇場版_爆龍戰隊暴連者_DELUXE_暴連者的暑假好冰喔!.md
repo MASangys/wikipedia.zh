@@ -25,20 +25,14 @@
 ### 戰隊關係者
 
   -
-    **杉下龍之介<small>｜**([奧村公延](https://zh.wikipedia.org/wiki/奧村公延 "wikilink")
-    飾/台配：待確認/港配：待確認)</small>
-    **今中笑里<small>｜**([西島未智](https://zh.wikipedia.org/wiki/西島未智 "wikilink")
-    飾/台配：待確認/港配：[曾秀清](../Page/曾秀清.md "wikilink"))</small>
-    **伯亞舞<small>｜**([坂野真彌](https://zh.wikipedia.org/wiki/坂野真彌 "wikilink")
-    飾/台配：待確認/港配：[張頌欣](../Page/張頌欣.md "wikilink")) </small>
-    **芙莉慈亞公主<small>｜**([小向美奈子](../Page/小向美奈子.md "wikilink")
-    飾/台配：待確認/港配：待確認) </small>
+    **杉下龍之介<small>｜**([奧村公延](https://zh.wikipedia.org/wiki/奧村公延 "wikilink") 飾/台配：待確認/港配：待確認)</small>
+    **今中笑里<small>｜**([西島未智](https://zh.wikipedia.org/wiki/西島未智 "wikilink") 飾/台配：待確認/港配：[曾秀清](../Page/曾秀清.md "wikilink"))</small>
+    **伯亞舞<small>｜**([坂野真彌](https://zh.wikipedia.org/wiki/坂野真彌 "wikilink") 飾/台配：待確認/港配：[張頌欣](../Page/張頌欣.md "wikilink")) </small>
+    **芙莉慈亞公主<small>｜**([小向美奈子](../Page/小向美奈子.md "wikilink") 飾/台配：待確認/港配：待確認) </small>
       -
-        古代爆龍大地的公主，在爆龍大地即將滅亡之際，將自己的生命寄宿在神聖之劍上，將兩大凶惡爆龍－**鬥牛爆龍**、**加斯莫盾爆龍**給封印了起來。由於斷裂的劍身「吹雪石之刃」遺落在異處，爆雷射的封印威力減弱，使得兩大凶惡爆龍在現代復活了。為了找回吹雪石之刃與暴連者們一同展開尋找，成功找回之後卻反過來殺害暴連者們，因為其真面目正是企圖操控兩大凶惡爆龍的次元漂流者
-        卡爾比迪。
+        古代爆龍大地的公主，在爆龍大地即將滅亡之際，將自己的生命寄宿在神聖之劍上，將兩大凶惡爆龍－**鬥牛爆龍**、**加斯莫盾爆龍**給封印了起來。由於斷裂的劍身「吹雪石之刃」遺落在異處，爆雷射的封印威力減弱，使得兩大凶惡爆龍在現代復活了。為了找回吹雪石之刃與暴連者們一同展開尋找，成功找回之後卻反過來殺害暴連者們，因為其真面目正是企圖操控兩大凶惡爆龍的次元漂流者 卡爾比迪。
         但真正的芙莉慈亞其實一直都在爆雷射裡看著凌駕等人的戰鬥（僅在劍身上顯影），最後說完感謝暴連者的話後，與爆雷射一起消失了。
-    **賢者阿庫卡<small>｜**([誠直也](https://zh.wikipedia.org/wiki/誠直也 "wikilink")
-    飾/台配：待確認/港配：待確認) </small>
+    **賢者阿庫卡<small>｜**([誠直也](https://zh.wikipedia.org/wiki/誠直也 "wikilink") 飾/台配：待確認/港配：待確認) </small>
       -
         龍人族長老。15年前告訴飛鳥關於15000年前的爆龍大地上、過去兩大凶惡爆龍的存在。
         曾留下恐怖傳說「黑暗的兩百天」，此傳說於第49集經由飛鳥口中告訴凌駕三人。
@@ -49,16 +43,13 @@
     **黎明之使徒·莉婕<small>｜**[鈴木霞](../Page/鈴木霞.md "wikilink")</small>
     **破壞之使徒·貞德<small>｜**[櫻井映里](https://zh.wikipedia.org/wiki/櫻井映里 "wikilink")</small>
     **無限之使徒·渥法<small>｜**[宇垣秀成](../Page/宇垣秀成.md "wikilink") 聲</small>
-    **創造之使徒·米開朗<small>｜**[緒方文興](https://zh.wikipedia.org/wiki/緒方文興 "wikilink")
-    聲</small>
-    **「六合使徒」花火比基痘蜂茄維納斯<small>｜**（[高田由美](../Page/高田由美.md "wikilink")
-    聲/台配：待確認/港配：待確認） </small>
+    **創造之使徒·米開朗<small>｜**[緒方文興](https://zh.wikipedia.org/wiki/緒方文興 "wikilink") 聲</small>
+    **「六合使徒」花火比基痘蜂茄維納斯<small>｜**（[高田由美](../Page/高田由美.md "wikilink") 聲/台配：待確認/港配：待確認） </small>
       -
         具有六種物體、生物之特性的六合使徒，擁有三合使徒兩倍的力量。由米開朗將[煙火](https://zh.wikipedia.org/wiki/煙火 "wikilink")、[比基尼](../Page/比基尼泳衣.md "wikilink")、[青春痘](https://zh.wikipedia.org/wiki/青春痘 "wikilink")、[蜜蜂](../Page/蜜蜂.md "wikilink")、[茄子](https://zh.wikipedia.org/wiki/茄子 "wikilink")、[維納斯六種要素融合製作出來的使徒](https://zh.wikipedia.org/wiki/維納斯 "wikilink")。右手可放射出讓人類穿著比基尼的心型光線·比基尼光束，胸部則可射出使小笑變成維納斯雕像的維納斯毒針，嘴巴可以拋出數枚茄子炸彈，頭頂的蜂巢能飛出無數蜜蜂，迷你迷你化蜜蜂的尾針讓幸人變成了迷你尺寸，分身分身化蜜蜂的尾針則使蘭琉增殖為100人。
         劇情中段時，與暴黃、暴黑進行戰鬥，這時，被迷你化的暴藍將自己與暴黃的暴雷射結為一體，再由暴黃使出「拇指大幸人的小個子是很方便的炸彈」，迷你暴藍從體內以暴雷射掃射，效果相當顯著。沒有巨大化的能力（據米開朗推測，因是能力增加至六個所導致）。本作少數的女性怪人。
         幸人在打倒她時，就變回原本的大小，但是小笑卻在片尾時才從維納斯型態變回穿比基尼的樣子。
-    **「次元漂流者」卡爾比迪<small>｜**（[古川登志夫](../Page/古川登志夫.md "wikilink")
-    聲/台配：待確認/港配：待確認）</small>
+    **「次元漂流者」卡爾比迪<small>｜**（[古川登志夫](../Page/古川登志夫.md "wikilink") 聲/台配：待確認/港配：待確認）</small>
       -
         本片終極敵人，能夠自由穿梭爆龍大地和地球的異星怪人。為了奪取爆雷射，假扮成芙莉慈亞。以身上的利爪為武器，實力在暴殺手之上，登場時還將暴殺手徹底打敗。在爆雷射入手後，操縱了兩大凶惡爆龍合體成爆連王與暴連者們進行戰鬥，結果被殺手暴連王攻擊的威力給震出爆連王外，最後被暴紅和霸王龍的聯手招式**爆雷射劍擊粉碎**消滅。
     **「巨型使徒」[愚者](https://zh.wikipedia.org/wiki/約瑟夫·海頓 "wikilink")**
@@ -146,7 +137,4 @@
 
 ## 外部連結
 
-[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
-[Category:朝日電視台劇場版作品](https://zh.wikipedia.org/wiki/Category:朝日電視台劇場版作品 "wikilink")
-[Category:2003年电影](https://zh.wikipedia.org/wiki/Category:2003年电影 "wikilink")
-[Category:恐龍題材電影](https://zh.wikipedia.org/wiki/Category:恐龍題材電影 "wikilink")
+[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink") [Category:朝日電視台劇場版作品](https://zh.wikipedia.org/wiki/Category:朝日電視台劇場版作品 "wikilink") [Category:2003年电影](https://zh.wikipedia.org/wiki/Category:2003年电影 "wikilink") [Category:恐龍題材電影](https://zh.wikipedia.org/wiki/Category:恐龍題材電影 "wikilink")

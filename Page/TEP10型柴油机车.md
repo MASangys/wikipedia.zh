@@ -11,9 +11,6 @@ TEP10型柴油机车主要配属[十月铁路局](https://zh.wikipedia.org/wiki/
 
 ## 外部链接
 
-  - [1520mm.ru: Тепловоз ТЭП10
-    (ТЭ11)](https://web.archive.org/web/20091106175845/http://www.1520mm.ru/locomotives/diesel/tep10.phtml)
+  - [1520mm.ru: Тепловоз ТЭП10 (ТЭ11)](https://web.archive.org/web/20091106175845/http://www.1520mm.ru/locomotives/diesel/tep10.phtml)
 
-[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink")
-[Category:哈尔科夫制铁路机车](https://zh.wikipedia.org/wiki/Category:哈尔科夫制铁路机车 "wikilink")
-[Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")
+[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:哈尔科夫制铁路机车](https://zh.wikipedia.org/wiki/Category:哈尔科夫制铁路机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")

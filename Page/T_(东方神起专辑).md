@@ -1,5 +1,4 @@
-「**T**」為[東方神起](../Page/東方神起.md "wikilink")在2008年1月23日於[日本](../Page/日本.md "wikilink")發行的第3張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。分《2CD+2DVD》、《CD+DVD》、《CD
-ONLY》三種形態發售。
+「**T**」為[東方神起](../Page/東方神起.md "wikilink")在2008年1月23日於[日本](../Page/日本.md "wikilink")發行的第3張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。分《2CD+2DVD》、《CD+DVD》、《CD ONLY》三種形態發售。
 
 ## 专辑曲目
 
@@ -105,16 +104,14 @@ ONLY》三種形態發售。
         作詞：H.U.B.、作曲：SMITH STEVEN ANDREW
 3.  Purple Line
       -
-        作词：YOO YOUNG JIN / RYOJI SONODA、作曲：YOO YOUNG JIN / YOO HAN JIN /
-        JJ650
+        作词：YOO YOUNG JIN / RYOJI SONODA、作曲：YOO YOUNG JIN / YOO HAN JIN / JJ650
 4.  Forever Love
 5.  Summer Dream
       -
         作词：H.U.B.、作曲：Tatta Works
 6.  Ride On
       -
-        作词：H.U.B.、作曲：PHILIPPE-MARC ANQUETIL / CHRISTOPHER LEE-JOE / IAIN
-        JAMES FARQUHARSON
+        作词：H.U.B.、作曲：PHILIPPE-MARC ANQUETIL / CHRISTOPHER LEE-JOE / IAIN JAMES FARQUHARSON
 7.  DARKNESS EYES
       -
         作词：RYOJISONODA、作曲：TOMMY HENRIKSEN
@@ -164,6 +161,4 @@ ONLY》三種形態發售。
 | 2008年4月26日            | 札幌站       | 札幌马科马那舞台  |
 | 2008年5月3、5\~6日        | 崎玉站       | 崎玉超級競技場   |
 
-[Category:东方神起专辑](https://zh.wikipedia.org/wiki/Category:东方神起专辑 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
+[Category:东方神起专辑](https://zh.wikipedia.org/wiki/Category:东方神起专辑 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")

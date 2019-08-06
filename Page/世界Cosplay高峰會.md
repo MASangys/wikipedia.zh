@@ -60,22 +60,16 @@
 
 ## 外部連結
 
-  - [WORLD COSPLAY SUMMIT OFFICIAL
-    SITE](http://www.worldcosplaysummit.jp/en/)
-  - [【公式】世界コスプレサミット | WORLD COSPLAY
-    SUMMIT](http://www.worldcosplaysummit.jp/)
+  - [WORLD COSPLAY SUMMIT OFFICIAL SITE](http://www.worldcosplaysummit.jp/en/)
+  - [【公式】世界コスプレサミット | WORLD COSPLAY SUMMIT](http://www.worldcosplaysummit.jp/)
 
 ## 参考资料
 
-[Category:Cosplay](https://zh.wikipedia.org/wiki/Category:Cosplay "wikilink")
-[Category:動畫會展](https://zh.wikipedia.org/wiki/Category:動畫會展 "wikilink")
+[Category:Cosplay](https://zh.wikipedia.org/wiki/Category:Cosplay "wikilink") [Category:動畫會展](https://zh.wikipedia.org/wiki/Category:動畫會展 "wikilink")
 
 1.
-2.  [Taiwan - WORLD COSPLAY SUMMIT 2017 | WORLD COSPLAY SUMMIT OFFICIAL
-    SITE](http://www.worldcosplaysummit.jp/en/2017/team/tw.html)
+2.  [Taiwan - WORLD COSPLAY SUMMIT 2017 | WORLD COSPLAY SUMMIT OFFICIAL SITE](http://www.worldcosplaysummit.jp/en/2017/team/tw.html)
 3.
 4.
 5.
-6.  [Introduction of each team 2017 - WORLD COSPLAY SUMMIT 2017 | WORLD
-    COSPLAY SUMMIT OFFICIAL
-    SITE](http://www.worldcosplaysummit.jp/en/2017/team/)
+6.  [Introduction of each team 2017 - WORLD COSPLAY SUMMIT 2017 | WORLD COSPLAY SUMMIT OFFICIAL SITE](http://www.worldcosplaysummit.jp/en/2017/team/)

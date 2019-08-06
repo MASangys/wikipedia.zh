@@ -16,8 +16,7 @@
   - 動畫中人物裸露較少，僅在正版DVD或BD的附屬特典中，經常可以見到裸體或半裸，而且仍然不露出乳頭和性器的。
   - 動畫中把很多原著中在戰鬥和殺傷的場面簡化了，如沒有見到貝賴德腹部被刺傷時露出的內臟。
   - 在原著中未央\`剎那\`槴等被稱為失落的環節三人組，是僅次於四大天王的高級幹部，但動畫中沒有特別的稱號，少女部隊也沒有原著中「一軍二軍」的等級分別。
-  - 七海和美咲在原著中主在正史直前外傳KILLER
-    GIRLS登場，正史被剎那和未央打得直觀上死亡(但證實復完了)，但動畫中是在剎那和未央把夏娜抓回後的事，打敗兩人後僅脫光和拍照示眾徵戒。
+  - 七海和美咲在原著中主在正史直前外傳KILLER GIRLS登場，正史被剎那和未央打得直觀上死亡(但證實復完了)，但動畫中是在剎那和未央把夏娃抓回後的事，打敗兩人後僅脫光和拍照示眾徵戒。
   - 胡桃在動畫中負傷後流的血量遠較原著多的，動畫中被左天踢飛時，刺穿她的木板不合理地脫落。
   - 失落的環節三人組帶走胡桃時，原著相信是剎那確認胡桃未死而急忙逃回去的。動畫中由未央抱起認定是屍體的胡桃，不合理地慢慢地和殺死自己朋友的人(貝賴德一黨)道別。
   - 原著中貝賴德不是複制人，而是以為自己是複制人，真名「御田靜馬」。但亞當系列是被「定性」或「定義」為複制人的指鹿為馬下，和夏娃一起被強行篡改了記憶。
@@ -40,16 +39,12 @@
   - 音響監督：高桑一
   - 制片人：大胡寬二、川村仁、櫻井優香、二方由紀子
   - 動畫製作：[Madhouse](https://zh.wikipedia.org/wiki/Madhouse "wikilink")
-  - 制作：NEEDLESS制作委員會（[Avex
-    Entertainment](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")、[博報堂
-    Media
-    Partners](../Page/博報堂.md "wikilink")DY、[Lantis](../Page/Lantis.md "wikilink")、[Madhouse](https://zh.wikipedia.org/wiki/Madhouse "wikilink")）
+  - 制作：NEEDLESS制作委員會（[Avex Entertainment](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")、[博報堂 Media Partners](../Page/博報堂.md "wikilink")DY、[Lantis](../Page/Lantis.md "wikilink")、[Madhouse](https://zh.wikipedia.org/wiki/Madhouse "wikilink")）
 
 ## 主題曲
 
   - 片頭曲
-    \*「[modern strange
-    cowboy](https://zh.wikipedia.org/wiki/modern_strange_cowboy "wikilink")」
+    \*「[modern strange cowboy](https://zh.wikipedia.org/wiki/modern_strange_cowboy "wikilink")」
 
       -
         作詞：[谷山紀章](../Page/谷山紀章.md "wikilink")，作曲、編曲：[飯塚昌明](../Page/飯塚昌明.md "wikilink")，演唱：[GRANRODEO](../Page/GRANRODEO.md "wikilink")
@@ -547,6 +542,4 @@ HAN SUNG HUI</p></td>
   - [NEEDLESS角色列表](../Page/NEEDLESS角色列表.md "wikilink")
   - [NEEDLESS能力列表](https://zh.wikipedia.org/wiki/NEEDLESS能力列表 "wikilink")
 
-[Category:超能力題材動畫](https://zh.wikipedia.org/wiki/Category:超能力題材動畫 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:2009年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2009年日本電視動畫 "wikilink")
+[Category:超能力題材動畫](https://zh.wikipedia.org/wiki/Category:超能力題材動畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:2009年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2009年日本電視動畫 "wikilink")

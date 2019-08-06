@@ -1,10 +1,4 @@
-**《[MY
-AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒獎典禮 "wikilink")2012》**（MY
-AOD Favourites Awards
-2012）於2012年12月2日晚在[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[吉隆坡](../Page/吉隆坡.md "wikilink")Sunway
-Convention Centre舉行，當晚共頒發12個獎項。於2012年12月2日大馬時間20:30在 Astro On The Go和
-Astro On Demand（頻道934）
-同步播出。由林震前及蕭慧敏主持。出席藝人包括有[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[陳豪](../Page/陳豪.md "wikilink")、[郭晉安](../Page/郭晉安.md "wikilink")、[謝天華](../Page/謝天華.md "wikilink")、[黎耀祥](../Page/黎耀祥.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")、[吳卓羲](../Page/吳卓羲.md "wikilink")、[楊怡](../Page/楊怡.md "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")、[徐子珊](../Page/徐子珊.md "wikilink")、[古明華](../Page/古明華.md "wikilink")、[黃智雯](../Page/黃智雯.md "wikilink")、[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[梁烈唯及](https://zh.wikipedia.org/wiki/梁烈唯 "wikilink")[羅仲謙](../Page/羅仲謙.md "wikilink")。
+**《[MY AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒獎典禮 "wikilink")2012》**（MY AOD Favourites Awards 2012）於2012年12月2日晚在[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[吉隆坡](../Page/吉隆坡.md "wikilink")Sunway Convention Centre舉行，當晚共頒發12個獎項。於2012年12月2日大馬時間20:30在 Astro On The Go和 Astro On Demand（頻道934） 同步播出。由林震前及蕭慧敏主持。出席藝人包括有[林峯](https://zh.wikipedia.org/wiki/林峯 "wikilink")、[陳豪](../Page/陳豪.md "wikilink")、[郭晉安](../Page/郭晉安.md "wikilink")、[謝天華](../Page/謝天華.md "wikilink")、[黎耀祥](../Page/黎耀祥.md "wikilink")、[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[馬國明](https://zh.wikipedia.org/wiki/馬國明 "wikilink")、[吳卓羲](../Page/吳卓羲.md "wikilink")、[楊怡](../Page/楊怡.md "wikilink")、[胡杏兒](../Page/胡杏兒.md "wikilink")、[徐子珊](../Page/徐子珊.md "wikilink")、[古明華](../Page/古明華.md "wikilink")、[黃智雯](../Page/黃智雯.md "wikilink")、[胡定欣](https://zh.wikipedia.org/wiki/胡定欣 "wikilink")、[梁烈唯及](https://zh.wikipedia.org/wiki/梁烈唯 "wikilink")[羅仲謙](../Page/羅仲謙.md "wikilink")。
 
 ## 我的最愛電視劇集
 
@@ -352,5 +346,4 @@ Astro On Demand（頻道934）
   - [星和無綫電視大獎2012](../Page/星和無綫電視大獎2012.md "wikilink")
   - [萬千星輝頒獎典禮2012](../Page/萬千星輝頒獎典禮2012.md "wikilink")
 
-[Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink")
-[Category:MY_AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/Category:MY_AOD我的最愛頒獎典禮 "wikilink")
+[Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink") [Category:MY_AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/Category:MY_AOD我的最愛頒獎典禮 "wikilink")

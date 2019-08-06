@@ -48,12 +48,7 @@
   -
   - [香港無綫電視《-{Life}-》節目網頁](http://programme.tvb.com/lifestyle/life)
 
-[Category:英國電視紀錄片](https://zh.wikipedia.org/wiki/Category:英國電視紀錄片 "wikilink")
-[Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink")
-[Category:中国中央电视台外购纪录片](https://zh.wikipedia.org/wiki/Category:中国中央电视台外购纪录片 "wikilink")
-[Category:2000年代英國電視節目](https://zh.wikipedia.org/wiki/Category:2000年代英國電視節目 "wikilink")
-[Category:BBC電視紀錄片](https://zh.wikipedia.org/wiki/Category:BBC電視紀錄片 "wikilink")
-[Category:BBC高清節目](https://zh.wikipedia.org/wiki/Category:BBC高清節目 "wikilink")
+[Category:英國電視紀錄片](https://zh.wikipedia.org/wiki/Category:英國電視紀錄片 "wikilink") [Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink") [Category:中国中央电视台外购纪录片](https://zh.wikipedia.org/wiki/Category:中国中央电视台外购纪录片 "wikilink") [Category:2000年代英國電視節目](https://zh.wikipedia.org/wiki/Category:2000年代英國電視節目 "wikilink") [Category:BBC電視紀錄片](https://zh.wikipedia.org/wiki/Category:BBC電視紀錄片 "wikilink") [Category:BBC高清節目](https://zh.wikipedia.org/wiki/Category:BBC高清節目 "wikilink")
 
 1.
 2.

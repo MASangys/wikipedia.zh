@@ -1,14 +1,10 @@
-**UCAS**（全稱：**Universities and Colleges Admissions
-Service**）是[英國全國大學的統一學生申請機構](https://zh.wikipedia.org/wiki/英國 "wikilink")。其資金來自申請學生所付的申請費，和各大學及學院所付的均攤費。\[1\]
+**UCAS**（全稱：**Universities and Colleges Admissions Service**）是[英國全國大學的統一學生申請機構](https://zh.wikipedia.org/wiki/英國 "wikilink")。其資金來自申請學生所付的申請費，和各大學及學院所付的均攤費。\[1\]
 
-UCAS總部在[切爾滕納姆](../Page/切爾滕納姆.md "wikilink")Marle
-Hill附近，處在B4075和[A435的交叉處](https://zh.wikipedia.org/wiki/A435公路 "wikilink")。\[2\]
-靠近[切爾滕納姆賽馬場](../Page/切爾滕納姆賽馬場.md "wikilink")，處在教區[佩斯貝瑞內](../Page/佩斯貝瑞_\(格羅斯特郡\).md "wikilink")。\[3\]
+UCAS總部在[切爾滕納姆](../Page/切爾滕納姆.md "wikilink")Marle Hill附近，處在B4075和[A435的交叉處](https://zh.wikipedia.org/wiki/A435公路 "wikilink")。\[2\] 靠近[切爾滕納姆賽馬場](../Page/切爾滕納姆賽馬場.md "wikilink")，處在教區[佩斯貝瑞內](../Page/佩斯貝瑞_\(格羅斯特郡\).md "wikilink")。\[3\]
 
 ## 申请流程
 
-几乎所有的英国高等教育机构都是UCAS的成员，所有想要在英國上[本科的學生](https://zh.wikipedia.org/wiki/本科 "wikilink")，包括本地學生（home
-student，英國和歐盟國家學生）和國際學生都要通過UCAS來申請學校。雖然之後有變動的可能性，但基本上申請能遞交一次。申請中總共有五個課程選則，其內容保密，各申請院校無法看到申請人的其他申請項。除去[牛劍](../Page/牛劍.md "wikilink")和一些特殊課程之外，大部份課程的申請截止日期為入學前的一月中旬。
+几乎所有的英国高等教育机构都是UCAS的成员，所有想要在英國上[本科的學生](https://zh.wikipedia.org/wiki/本科 "wikilink")，包括本地學生（home student，英國和歐盟國家學生）和國際學生都要通過UCAS來申請學校。雖然之後有變動的可能性，但基本上申請能遞交一次。申請中總共有五個課程選則，其內容保密，各申請院校無法看到申請人的其他申請項。除去[牛劍](../Page/牛劍.md "wikilink")和一些特殊課程之外，大部份課程的申請截止日期為入學前的一月中旬。
 
 ### 醫學
 
@@ -28,22 +24,17 @@ student，英國和歐盟國家學生）和國際學生都要通過UCAS來申請
 
 ### 申請表
 
-申請表中要填入過去和現在的學歷、就業經歷、犯罪記錄、個人陳述（personal
-statement）和推薦書（reference，如果是在學學生，一般會加入預計會取得的成績）。申請經由UCAS交給各個申請院校，並由後者決定錄取與否。
+申請表中要填入過去和現在的學歷、就業經歷、犯罪記錄、個人陳述（personal statement）和推薦書（reference，如果是在學學生，一般會加入預計會取得的成績）。申請經由UCAS交給各個申請院校，並由後者決定錄取與否。
 
-其中個人陳述相當之重要，\[5\]
-在此學生有機會自由陳述自己對課程的愛好和相關的優點。個人陳述也是面試時的重要問題之一。其長度為47行（包含空行）或4,000字節（包含空格）。\[6\]
+其中個人陳述相當之重要，\[5\] 在此學生有機會自由陳述自己對課程的愛好和相關的優點。個人陳述也是面試時的重要問題之一。其長度為47行（包含空行）或4,000字節（包含空格）。\[6\]
 
 ### 通知書
 
-在一月截止日期前遞交申請的學生通常會在五月中旬之前收到其申請被接受與否的信息，不過UCAS的建議是各大院校最好在三月末作出所有決定，因此在此之前大部份學生都可能已經收到了通知信。如果一個學生的所有申請全部被拒，則可通過UCAS
-Extra程序補選一個還有空位的大學。Extra程序在二月中旬至六月末可用。如果還是未能被錄取，則可使用UCAS Clearing聯繫其他院校。
+在一月截止日期前遞交申請的學生通常會在五月中旬之前收到其申請被接受與否的信息，不過UCAS的建議是各大院校最好在三月末作出所有決定，因此在此之前大部份學生都可能已經收到了通知信。如果一個學生的所有申請全部被拒，則可通過UCAS Extra程序補選一個還有空位的大學。Extra程序在二月中旬至六月末可用。如果還是未能被錄取，則可使用UCAS Clearing聯繫其他院校。
 
 #### 類型
 
-通知書（offer）分為兩類：一類是有條件錄取（conditional），即錄取與否取決於學生是否能滿足申請學校給出的成績要求；另一類是完全不需要未來成績的無條件錄取（unconditional）。一旦學生收到所有回覆，便必須定下一個固定選擇（Firm
-Acceptance）或者加上一個保險選擇（Insurance
-Acceptance）。選擇接受無條件錄取為固定選擇即意味著將會退回其他所有申請，相反，若選擇有條件錄取則還有機會選擇一個保險項，在未能達到第一選擇的要求時，可申請滿足保險項。因此最終通知書的組合形式只可能是以下4類：
+通知書（offer）分為兩類：一類是有條件錄取（conditional），即錄取與否取決於學生是否能滿足申請學校給出的成績要求；另一類是完全不需要未來成績的無條件錄取（unconditional）。一旦學生收到所有回覆，便必須定下一個固定選擇（Firm Acceptance）或者加上一個保險選擇（Insurance Acceptance）。選擇接受無條件錄取為固定選擇即意味著將會退回其他所有申請，相反，若選擇有條件錄取則還有機會選擇一個保險項，在未能達到第一選擇的要求時，可申請滿足保險項。因此最終通知書的組合形式只可能是以下4類：
 
 1.  UF（一個無條件錄取，無保險項）
 2.  CF（一個有條件錄取，無保險項）
@@ -54,18 +45,13 @@ Acceptance）。選擇接受無條件錄取為固定選擇即意味著將會退�
 
 ### 補錄
 
-UCAS
-Clearing是在錄取時段的最末端時進行補錄的程序，時間為七月至九月末，沒有被任何學校錄取的學生可以通過此程序再次尋找一個願意招生的大學。但在Clearing程序結束后，有的大學可能也會進行公開廣告招生。
+UCAS Clearing是在錄取時段的最末端時進行補錄的程序，時間為七月至九月末，沒有被任何學校錄取的學生可以通過此程序再次尋找一個願意招生的大學。但在Clearing程序結束后，有的大學可能也會進行公開廣告招生。
 
-UCAS
-Adjustment適用於其成績超過自己預期因此希望能申請更好的大學的學生，在此學生也可以尋找願意接受他們的大學，此程序開始於他們確定自己所有的通知書之後或八月的第三個星期四（即A-level成績公開日），一般共運行連續5天。但是在8月31日，無論是否期滿五天，程序結束。
+UCAS Adjustment適用於其成績超過自己預期因此希望能申請更好的大學的學生，在此學生也可以尋找願意接受他們的大學，此程序開始於他們確定自己所有的通知書之後或八月的第三個星期四（即A-level成績公開日），一般共運行連續5天。但是在8月31日，無論是否期滿五天，程序結束。
 
 ## UCAS下屬
 
-除去本科生申請服務外，UCAS還有兩個[研究生](../Page/研究生.md "wikilink")申請服務，即2007年引入的為普通研究生提供服務的[UKPASS](https://zh.wikipedia.org/wiki/UKPASS "wikilink")（UK
-Postgraduate Application and Statistical Service）\[7\]
-和為持有[PGCE或](https://zh.wikipedia.org/wiki/學位教師教育證書課程 "wikilink")[PGDE的教師提供服務的](https://zh.wikipedia.org/wiki/Professional_Graduate_Diploma_in_Education "wikilink")[GTTR](https://zh.wikipedia.org/wiki/GTTR "wikilink")（Graduate
-Teacher Training Registry）。
+除去本科生申請服務外，UCAS還有兩個[研究生](../Page/研究生.md "wikilink")申請服務，即2007年引入的為普通研究生提供服務的[UKPASS](https://zh.wikipedia.org/wiki/UKPASS "wikilink")（UK Postgraduate Application and Statistical Service）\[7\] 和為持有[PGCE或](https://zh.wikipedia.org/wiki/學位教師教育證書課程 "wikilink")[PGDE的教師提供服務的](https://zh.wikipedia.org/wiki/Professional_Graduate_Diploma_in_Education "wikilink")[GTTR](https://zh.wikipedia.org/wiki/GTTR "wikilink")（Graduate Teacher Training Registry）。
 
 英國八所[音樂學院需要通过UCAS下的CUKAS來申請](https://zh.wikipedia.org/wiki/音樂學院 "wikilink")。
 
@@ -73,26 +59,20 @@ Teacher Training Registry）。
 
 ## 外部連結
 
-  -   - [UCAS tariff](http://www.ucas.com/students/ucas_tariff) ("UCAS
-        points") table
+  -   - [UCAS tariff](http://www.ucas.com/students/ucas_tariff) ("UCAS points") table
 
   -
-  - [UKPASS](http://www.ukpass.ac.uk/) - applications service for
-    postgraduate courses
+  - [UKPASS](http://www.ukpass.ac.uk/) - applications service for postgraduate courses
 
   -
   - [UCAStv](http://www.ucas.tv)
 
-[Category:英國高等教育](https://zh.wikipedia.org/wiki/Category:英國高等教育 "wikilink")
-[Category:大學與學院招生](https://zh.wikipedia.org/wiki/Category:大學與學院招生 "wikilink")
-[Category:1994年創建的教育機構](https://zh.wikipedia.org/wiki/Category:1994年創建的教育機構 "wikilink")
+[Category:英國高等教育](https://zh.wikipedia.org/wiki/Category:英國高等教育 "wikilink") [Category:大學與學院招生](https://zh.wikipedia.org/wiki/Category:大學與學院招生 "wikilink") [Category:1994年創建的教育機構](https://zh.wikipedia.org/wiki/Category:1994年創建的教育機構 "wikilink")
 
 1.
 2.
 3.  [Geograph.org.uk](http://www.geograph.org.uk/photo/881386)
-4.  [UCAS
-    website](http://www.ucas.com/students/applying/howtoapply/cost) :
-    price listings.
+4.  [UCAS website](http://www.ucas.com/students/applying/howtoapply/cost) : price listings.
 5.
 6.
 7.

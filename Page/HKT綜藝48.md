@@ -2,11 +2,8 @@
 
 此節目的主旨與節目名稱相同，主要是讓HKT48的成員挑戰各種不同的綜藝企畫，因此節目的變化很大並沒有特定的流程，但仍然有些比較常出現的單元會不固定的出現在各集節目中。有時特定的集別會有一個核心的主題單元，但也有整集節目都是以不同的小單元串成的情況。
 
-在HKT48的第二期生於2012年10月28日播出的第五集節目中亮相之後，以一期生組成的Team
-H成員就逐漸淡出，成為以研究生為主角的節目。但部分以[中西智代梨](../Page/中西智代梨.md "wikilink")為主、在團體間主打綜藝擔當的一期成員，仍然常在節目中登場，甚至擁有自己主持的小單元。
+在HKT48的第二期生於2012年10月28日播出的第五集節目中亮相之後，以一期生組成的Team H成員就逐漸淡出，成為以研究生為主角的節目。但部分以[中西智代梨](../Page/中西智代梨.md "wikilink")為主、在團體間主打綜藝擔當的一期成員，仍然常在節目中登場，甚至擁有自己主持的小單元。
 
 ## 參考文獻
 
-[Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
-[Category:日本電視綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視綜藝節目 "wikilink")
-[Category:2012年日本電視節目](https://zh.wikipedia.org/wiki/Category:2012年日本電視節目 "wikilink")
+[Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink") [Category:日本電視綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視綜藝節目 "wikilink") [Category:2012年日本電視節目](https://zh.wikipedia.org/wiki/Category:2012年日本電視節目 "wikilink")

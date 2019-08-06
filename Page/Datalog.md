@@ -1,5 +1,4 @@
-**Datalog**是一种数据查询语言，专门设计与大型[关系数据库](../Page/关系数据库.md "wikilink")交互\[1\]，语法与[Prolog](../Page/Prolog.md "wikilink")相似。正如[SQL](../Page/SQL.md "wikilink")只是一个规范，[Transact-SQL](../Page/Transact-SQL.md "wikilink")、[PL-SQL](../Page/PL-SQL.md "wikilink")是其具体实现一样；Datalog也是一个规范，bddbddb\[2\]、
-DES\[3\]、OverLog\[4\]、Deals\[5\]等都按照Datalog的语法实现了自己的语言，所以Datalog没有特定的执行环境（如[Java](../Page/Java.md "wikilink")之于[Java虚拟机](../Page/Java虚拟机.md "wikilink")，[Prolog](../Page/Prolog.md "wikilink")之于[SWI-Prolog](https://zh.wikipedia.org/wiki/SWI-Prolog "wikilink")）。
+**Datalog**是一种数据查询语言，专门设计与大型[关系数据库](../Page/关系数据库.md "wikilink")交互\[1\]，语法与[Prolog](../Page/Prolog.md "wikilink")相似。正如[SQL](../Page/SQL.md "wikilink")只是一个规范，[Transact-SQL](../Page/Transact-SQL.md "wikilink")、[PL-SQL](../Page/PL-SQL.md "wikilink")是其具体实现一样；Datalog也是一个规范，bddbddb\[2\]、 DES\[3\]、OverLog\[4\]、Deals\[5\]等都按照Datalog的语法实现了自己的语言，所以Datalog没有特定的执行环境（如[Java](../Page/Java.md "wikilink")之于[Java虚拟机](../Page/Java虚拟机.md "wikilink")，[Prolog](../Page/Prolog.md "wikilink")之于[SWI-Prolog](https://zh.wikipedia.org/wiki/SWI-Prolog "wikilink")）。
 
 ## 起源
 
@@ -16,8 +15,7 @@ Prolog程序里的**事实**和**规则**的出现顺序决定了执行结果。
 ## 参考资料
 
   -
-[Category:邏輯編程語言](https://zh.wikipedia.org/wiki/Category:邏輯編程語言 "wikilink")
-[Category:数据查询语言](https://zh.wikipedia.org/wiki/Category:数据查询语言 "wikilink")
+[Category:邏輯編程語言](https://zh.wikipedia.org/wiki/Category:邏輯編程語言 "wikilink") [Category:数据查询语言](https://zh.wikipedia.org/wiki/Category:数据查询语言 "wikilink")
 
 1.
 

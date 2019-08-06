@@ -1,22 +1,14 @@
-*' Weekly
-Idol**（；-{zh-hans:;zh-hant:;zh-cn:;zh-hk:另譯**一週偶像**;zh-mo:另譯**一週偶像**;zh-tw:;zh-sg:另譯**一週偶像*'}-）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")頻道逢[當地時間週三](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")18時播出的一檔音樂娛樂類綜藝節目，一般每期都會邀請一組歌星嘉賓參與演出。招牌單元為「隨機舞蹈」、「重寫履歷」等。因為攝影棚位處建築的地下三層，所以常稱攝影棚為“地下三層”。因節目錄影時間是星期天，與《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》直播時間部分衝突，故有來賓缺席下部的情況。
+*' Weekly Idol**（；-{zh-hans:;zh-hant:;zh-cn:;zh-hk:另譯**一週偶像**;zh-mo:另譯**一週偶像**;zh-tw:;zh-sg:另譯**一週偶像*'}-）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")頻道逢[當地時間週三](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")18時播出的一檔音樂娛樂類綜藝節目，一般每期都會邀請一組歌星嘉賓參與演出。招牌單元為「隨機舞蹈」、「重寫履歷」等。因為攝影棚位處建築的地下三層，所以常稱攝影棚為“地下三層”。因節目錄影時間是星期天，與《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》直播時間部分衝突，故有來賓缺席下部的情況。
 
 ## 概況
 
 ### 鄭亨敦因病中斷主持
 
-2015年11月12日，[鄭亨敦](../Page/鄭亨敦.md "wikilink")宣布因[恐慌症](../Page/恐慌症.md "wikilink")病情加劇，決定暫時中斷所有演藝活動。23日，製作組表示，將由[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Super
-Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink")、[Super
-Junior](../Page/Super_Junior.md "wikilink")[利特](../Page/利特.md "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")[鄭容和](../Page/鄭容和.md "wikilink")、[Infinite](https://zh.wikipedia.org/wiki/Infinite "wikilink")[聖圭等暫時代替](https://zh.wikipedia.org/wiki/聖圭 "wikilink")[鄭亨敦](../Page/鄭亨敦.md "wikilink")擔任特別MC。\[1\]2016年3月17日製作組表示，[Super
-Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink")、[EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")
-[Hani將成為節目的主持人](https://zh.wikipedia.org/wiki/安喜延 "wikilink")，以固定主持人之姿，和[Defconn](../Page/Defconn.md "wikilink")一起進行節目。直至[鄭亨敦](../Page/鄭亨敦.md "wikilink")康復回歸為止\[2\]
-。[鄭亨敦](../Page/鄭亨敦.md "wikilink")在第271集回歸主持\[3\]\[4\]。
+2015年11月12日，[鄭亨敦](../Page/鄭亨敦.md "wikilink")宣布因[恐慌症](../Page/恐慌症.md "wikilink")病情加劇，決定暫時中斷所有演藝活動。23日，製作組表示，將由[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Super Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink")、[Super Junior](../Page/Super_Junior.md "wikilink")[利特](../Page/利特.md "wikilink")、[BEAST](https://zh.wikipedia.org/wiki/BEAST "wikilink")[斗俊](https://zh.wikipedia.org/wiki/斗俊 "wikilink")、[CNBLUE](../Page/CNBLUE.md "wikilink")[鄭容和](../Page/鄭容和.md "wikilink")、[Infinite](https://zh.wikipedia.org/wiki/Infinite "wikilink")[聖圭等暫時代替](https://zh.wikipedia.org/wiki/聖圭 "wikilink")[鄭亨敦](../Page/鄭亨敦.md "wikilink")擔任特別MC。\[1\]2016年3月17日製作組表示，[Super Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink")、[EXID](https://zh.wikipedia.org/wiki/EXID "wikilink") [Hani將成為節目的主持人](https://zh.wikipedia.org/wiki/安喜延 "wikilink")，以固定主持人之姿，和[Defconn](../Page/Defconn.md "wikilink")一起進行節目。直至[鄭亨敦](../Page/鄭亨敦.md "wikilink")康復回歸為止\[2\] 。[鄭亨敦](../Page/鄭亨敦.md "wikilink")在第271集回歸主持\[3\]\[4\]。
 
 ### 鄭亨敦、Defconn下車，節目春季改版（季播）
 
-於2018年3月7日錄製最後一集後，[鄭亨敦](../Page/鄭亨敦.md "wikilink")，[Defconn](../Page/Defconn.md "wikilink")將退出節目。
-節目將會改成季播。接任MC為[金信英](../Page/金信英.md "wikilink")、[李尚敏](../Page/李尚敏.md "wikilink")與[俞世潤](../Page/俞世潤.md "wikilink")\[5\]\[6\]。
-4月11日播出改版後第一集。來賓進場方向反轉，改為（向主持人的）左邊進場。
+於2018年3月7日錄製最後一集後，[鄭亨敦](../Page/鄭亨敦.md "wikilink")，[Defconn](../Page/Defconn.md "wikilink")將退出節目。 節目將會改成季播。接任MC為[金信英](../Page/金信英.md "wikilink")、[李尚敏](../Page/李尚敏.md "wikilink")與[俞世潤](../Page/俞世潤.md "wikilink")\[5\]\[6\]。 4月11日播出改版後第一集。來賓進場方向反轉，改為（向主持人的）左邊進場。
 
 ## 播出時間
 
@@ -268,8 +260,7 @@ Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink"
 
 #### 現有單元
 
-  - 「粉絲願望清單」，在改版後，與粉絲預先錄製願望：例：Random Play Dance、Roller Coaster Play
-    Dance (歌曲速度隨時加到2X，或減慢至1／2倍)、經典畫面重現、再確認Profile
+  - 「粉絲願望清單」，在改版後，與粉絲預先錄製願望：例：Random Play Dance、Roller Coaster Play Dance (歌曲速度隨時加到2X，或減慢至1／2倍)、經典畫面重現、再確認Profile
   - 「力量大戰」，把手交叉捆在小腿後，不用手之下，把其他團員推出瑜珈毯子外。
 
 #### 結束單元
@@ -279,8 +270,7 @@ Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink"
   - 「Idol Real Chart Season 2 Top 7 + 鎰勳」
   - 「Idol問題對決！請培育我們吧」
   - 「知道不知道 二選一」
-  - 自第104期起取代Idol Real
-    Chart成為節目上半部常設單元。[BTOB](../Page/BTOB.md "wikilink")成員[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")和[Apink](../Page/Apink.md "wikilink")成員[尹普美](../Page/尹普美.md "wikilink")固定參與本環節。本環節進行至206期結束。成員分成兩組（鄭亨敦和普美一組，Defconn和鎰勳一組），分別指定想吃的食物，然後進行二選一偶像知識問答。各組須派出一人進行指定任務（成員有權因應實際情況，增加或減低任務難度，或提出更改任務項目），任務勝方才能有作答權，答對可得一分，答錯的話對方得分。最先得到4分的隊伍勝出，可現場享用兩隊指定的食物。
+  - 自第104期起取代Idol Real Chart成為節目上半部常設單元。[BTOB](../Page/BTOB.md "wikilink")成員[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")和[Apink](../Page/Apink.md "wikilink")成員[尹普美](../Page/尹普美.md "wikilink")固定參與本環節。本環節進行至206期結束。成員分成兩組（鄭亨敦和普美一組，Defconn和鎰勳一組），分別指定想吃的食物，然後進行二選一偶像知識問答。各組須派出一人進行指定任務（成員有權因應實際情況，增加或減低任務難度，或提出更改任務項目），任務勝方才能有作答權，答對可得一分，答錯的話對方得分。最先得到4分的隊伍勝出，可現場享用兩隊指定的食物。
   - 規則變更：
       - 初始版本中，成員要在九宮格選出關鍵詞，製作人會提問和該關鍵詞有關的問題。先在九宮格上連成一直線的隊伍勝出。為了節省製作費，負方必須為勝方享用的食物結帳；
       - 第106期起，改為先得5分的隊伍勝出；
@@ -298,8 +288,7 @@ Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink"
 
 ##### 「Idol is 完美」
 
-  - 自第246期起成為節目上半部單元。[GOT7](../Page/GOT7.md "wikilink")成員[Jackson](../Page/王嘉爾.md "wikilink")、[MONSTA
-    X成員周憲](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")、[TWICE成員](https://zh.wikipedia.org/wiki/TWICE "wikilink")[多賢](../Page/多賢.md "wikilink")和[GFRIEND](../Page/GFRIEND.md "wikilink")成員[SinB](../Page/SinB.md "wikilink")固定參與本環節。主持群決定挑戰8位明星內其中一位的個人技，任何人如果挑戰成功，即可完成單元，若挑戰失敗，則需挑戰另一位明星的個人技，至第290期完結。
+  - 自第246期起成為節目上半部單元。[GOT7](../Page/GOT7.md "wikilink")成員[Jackson](../Page/王嘉爾.md "wikilink")、[MONSTA X成員周憲](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")、[TWICE成員](https://zh.wikipedia.org/wiki/TWICE "wikilink")[多賢](../Page/多賢.md "wikilink")和[GFRIEND](../Page/GFRIEND.md "wikilink")成員[SinB](../Page/SinB.md "wikilink")固定參與本環節。主持群決定挑戰8位明星內其中一位的個人技，任何人如果挑戰成功，即可完成單元，若挑戰失敗，則需挑戰另一位明星的個人技，至第290期完結。
 
 ### 第二部分：本週偶像
 
@@ -315,24 +304,15 @@ Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink"
 
   - **「2X Speed Random Play Dance」**
 
-與「Random Play
-Dance」原理相同，但是歌曲播放速度為二倍速，以增加難度。該單元在321期首次讓[GFRIEND](../Page/GFRIEND.md "wikilink")挑戰，以測試該單元的可行性。
+與「Random Play Dance」原理相同，但是歌曲播放速度為二倍速，以增加難度。該單元在321期首次讓[GFRIEND](../Page/GFRIEND.md "wikilink")挑戰，以測試該單元的可行性。
 
   - **「Magic Choreography」**
 
-現場會播放其他歌手的歌曲，來賓则需跳出自己歌曲的舞蹈。在理論上，兩首歌之間的舞蹈恰會對到相同的拍子，無違和感。第一次进行此单元是在第42期，[SHINee](../Page/SHINee.md "wikilink")跳《Replay》搭配[李孝利](../Page/李孝利.md "wikilink")的《U
-Go
-Girl》。而節目上所進行過的例子有：[EXID跳](https://zh.wikipedia.org/wiki/EXID "wikilink")《Up
-&
-Down》搭配[Seventeen的](../Page/Seventeen_\(組合\).md "wikilink")《Mansae》、[EXID跳](https://zh.wikipedia.org/wiki/EXID "wikilink")《Hot
-Pink》搭配[少女時代的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")《Mr.
-Mr.》、[Red Velvet跳](../Page/Red_Velvet.md "wikilink")《Russian
-Roulette》搭配[金泫雅](../Page/金泫雅.md "wikilink")的《Bubble Pop》。
+現場會播放其他歌手的歌曲，來賓则需跳出自己歌曲的舞蹈。在理論上，兩首歌之間的舞蹈恰會對到相同的拍子，無違和感。第一次进行此单元是在第42期，[SHINee](../Page/SHINee.md "wikilink")跳《Replay》搭配[李孝利](../Page/李孝利.md "wikilink")的《U Go Girl》。而節目上所進行過的例子有：[EXID跳](https://zh.wikipedia.org/wiki/EXID "wikilink")《Up & Down》搭配[Seventeen的](../Page/Seventeen_\(組合\).md "wikilink")《Mansae》、[EXID跳](https://zh.wikipedia.org/wiki/EXID "wikilink")《Hot Pink》搭配[少女時代的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")《Mr. Mr.》、[Red Velvet跳](../Page/Red_Velvet.md "wikilink")《Russian Roulette》搭配[金泫雅](../Page/金泫雅.md "wikilink")的《Bubble Pop》。
 
   - **「和【該期來賓名稱】一起初次寫Profile/重寫Profile/又再寫Profile」**
 
-現場會準備該期出席嘉賓成員們的個人資料卡，上面寫有成員的個人資料、簡介，和特長。主持人會和嘉賓們一起探討各個藝人的性格和特點，並驗證資料卡的資料是否屬實。主持人也會要求嘉賓們表演資料卡上所寫到的特長，即個人技。在336期的狗年特輯，所有資料卡的主人，是來賓的愛犬們。改版後，以整張履歷書寫，包括名稱、出生日期、婚姻狀況、個人技、弱點、腦袋思想圖。2019年改為「搜藏器
-（[昶熙韓語名字諧音](../Page/南昶熙.md "wikilink")）」，資料卡上面寫有多位成員（以年齡分隔）的個人資料和搜尋器關鍵字，因為在第一次改版，很多隊長或比較內向的嘉賓，都不會在履歷作答所有問題。
+現場會準備該期出席嘉賓成員們的個人資料卡，上面寫有成員的個人資料、簡介，和特長。主持人會和嘉賓們一起探討各個藝人的性格和特點，並驗證資料卡的資料是否屬實。主持人也會要求嘉賓們表演資料卡上所寫到的特長，即個人技。在336期的狗年特輯，所有資料卡的主人，是來賓的愛犬們。改版後，以整張履歷書寫，包括名稱、出生日期、婚姻狀況、個人技、弱點、腦袋思想圖。2019年改為「搜藏器 （[昶熙韓語名字諧音](../Page/南昶熙.md "wikilink")）」，資料卡上面寫有多位成員（以年齡分隔）的個人資料和搜尋器關鍵字，因為在第一次改版，很多隊長或比較內向的嘉賓，都不會在履歷作答所有問題。
 
 #### 已結束單元
 
@@ -346,8 +326,7 @@ Roulette》搭配[金泫雅](../Page/金泫雅.md "wikilink")的《Bubble Pop》
 
   - **「這次主人公是我啊我」**
 
-靈感來至[PRODUCE 101
-第二季](../Page/PRODUCE_101_第二季.md "wikilink")，主持人先向嘉賓們收集罰的時間地點及罰的內容，以遊戲/任務分別決定用哪位嘉賓提出的罰，最後以遊戲/任務決定哪位成員嘉賓。例[APINK](https://zh.wikipedia.org/wiki/APINK "wikilink")、[GFRIEND](../Page/GFRIEND.md "wikilink")、[MAMAMOO等](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")。
+靈感來至[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")，主持人先向嘉賓們收集罰的時間地點及罰的內容，以遊戲/任務分別決定用哪位嘉賓提出的罰，最後以遊戲/任務決定哪位成員嘉賓。例[APINK](https://zh.wikipedia.org/wiki/APINK "wikilink")、[GFRIEND](../Page/GFRIEND.md "wikilink")、[MAMAMOO等](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")。
 
   - **「韓牛妖精 Doni Coni和鐵板上的偶像」**
 
@@ -363,8 +342,7 @@ Roulette》搭配[金泫雅](../Page/金泫雅.md "wikilink")的《Bubble Pop》
 
   - **「Show me the 個人卡」**
 
-與「Show me the
-社卡」相似，製作組會事先拿到進行此單元的團體所有成員的個人卡，由主持人隨機抽取出個人卡，進行與該卡主人相關的小遊戲，卡的主人可依據喜好選出第一名並用個人卡為該成員購買想要的禮物。
+與「Show me the 社卡」相似，製作組會事先拿到進行此單元的團體所有成員的個人卡，由主持人隨機抽取出個人卡，進行與該卡主人相關的小遊戲，卡的主人可依據喜好選出第一名並用個人卡為該成員購買想要的禮物。
 
   - **「偉大的挑戰，【该期来宾名称】99/100秒」**
 
@@ -2076,7 +2054,7 @@ Roulette》搭配[金泫雅](../Page/金泫雅.md "wikilink")的《Bubble Pop》
 <tr class="odd">
 <td><p>256</p></td>
 <td><p>6月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/4TEN" title="wikilink">4TEN</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/ASTRO" title="wikilink">ASTRO</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">KNK</a> <sup>1st</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/4TEN" title="wikilink">4TEN</a> <sup>1st</sup>、<a href="../Page/Astro_(韓國音樂團體).md" title="wikilink">ASTRO</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">KNK</a> <sup>1st</sup></p></td>
 <td><p>「本週偶像」1小時特輯</p></td>
 </tr>
 <tr class="even">
@@ -2223,7 +2201,7 @@ Roulette》搭配[金泫雅](../Page/金泫雅.md "wikilink")的《Bubble Pop》
 <tr class="even">
 <td><p>279</p></td>
 <td><p>11月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ASTRO" title="wikilink">ASTRO</a> <sup>2nd</sup></p></td>
+<td><p><a href="../Page/Astro_(韓國音樂團體).md" title="wikilink">ASTRO</a> <sup>2nd</sup></p></td>
 <td><p>上半部特別嘉賓：<a href="../Page/BTOB.md" title="wikilink">BTOB</a><a href="../Page/李旼赫.md" title="wikilink">李旼赫</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a><a href="https://zh.wikipedia.org/wiki/孫軒宇" title="wikilink">Shownu</a><br />
 <a href="../Page/王嘉爾.md" title="wikilink">Jackson</a>、<a href="../Page/多賢.md" title="wikilink">多賢</a>、<a href="../Page/SinB.md" title="wikilink">SinB</a>缺席</p></td>
 </tr>
@@ -2413,7 +2391,7 @@ Roulette》搭配[金泫雅](../Page/金泫雅.md "wikilink")的《Bubble Pop》
 <tr class="even">
 <td><p>307</p></td>
 <td><p>6月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ASTRO" title="wikilink">ASTRO</a> <sup>3rd</sup></p></td>
+<td><p><a href="../Page/Astro_(韓國音樂團體).md" title="wikilink">ASTRO</a> <sup>3rd</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3050,7 +3028,7 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <tr class="odd">
 <td><p>404</p></td>
 <td><p>4月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李承協" title="wikilink">李承協</a><sup>1st</sup> (<a href="../Page/N.Flying.md" title="wikilink">N.Flying</a>)、 文彬<sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/Astro" title="wikilink">Astro</a>)、 柱延<sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/THE_BOYZ" title="wikilink">THE BOYZ</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李承協" title="wikilink">李承協</a><sup>1st</sup> (<a href="../Page/N.Flying.md" title="wikilink">N.Flying</a>)、 文彬<sup>1st</sup> (<a href="../Page/Astro_(韓國音樂團體).md" title="wikilink">Astro</a>)、 柱延<sup>1st</sup> (<a href="https://zh.wikipedia.org/wiki/THE_BOYZ" title="wikilink">THE BOYZ</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3122,13 +3100,25 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <tr class="odd">
 <td><p>416</p></td>
 <td><p>7月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Pentagon" title="wikilink">Pentagon</a><sup>2nd</sup></p></td>
+<td><p><a href="../Page/Pentagon_(男子組合).md" title="wikilink">Pentagon</a><sup>2nd</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>417</p></td>
 <td><p>7月24日</p></td>
 <td><p><a href="../Page/CIX.md" title="wikilink">CIX</a><sup>1st</sup></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>418</p></td>
+<td><p>7月31日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NCT_DREAM" title="wikilink">NCT DREAM</a><sup>2nd</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴志晟" title="wikilink">朴志晟缺席</a></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -3153,15 +3143,14 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 | 265                                   | 8月24日   |
 | 266                                   | 8月31日   |
 | 267                                   | 9月7日    |
-| 268                                   | 9月7日    |
-| 269                                   | 9月14日   |
-| 270                                   | 9月21日   |
-| 271                                   | 9月28日   |
-| 272                                   | 10月5日   |
-| 273                                   | 10月12日  |
-| 274                                   | 10月19日  |
-| 275                                   | 10月26日  |
-| 276                                   | 11月2日   |
+| 268                                   | 9月14日   |
+| 269                                   | 9月21日   |
+| 270                                   | 9月28日   |
+| 271                                   | 10月5日   |
+| 272                                   | 10月12日  |
+| 273                                   | 10月19日  |
+| 274                                   | 10月26日  |
+| 275                                   | 11月2日   |
 | 276                                   | 11月9日   |
 | 277                                   | 11月16日  |
 | 278                                   | 11月23日  |
@@ -3234,10 +3223,7 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 
   -
   -
-[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:星空傳媒(台灣)電視節目](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視節目 "wikilink")
-[Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink")
+[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:星空傳媒(台灣)電視節目](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視節目 "wikilink") [Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink")
 
 1.
 2.

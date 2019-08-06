@@ -1,15 +1,10 @@
-《**Diamond
-Only**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")8张[单曲](../Page/单曲.md "wikilink")，於2014年2月26日由[rhythm
-zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
+《**Diamond Only**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")8张[单曲](../Page/单曲.md "wikilink")，於2014年2月26日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
-  - A面曲《Diamond
-    Only》是日本電視台電視劇《[戀文日和](https://zh.wikipedia.org/wiki/戀文日和 "wikilink")》的主題曲，亦是品牌《Samantha
-    Vega×Honey Bunch〜Disney New Collection〜》的電視廣告歌曲。
+  - A面曲《Diamond Only》是日本電視台電視劇《[戀文日和](https://zh.wikipedia.org/wiki/戀文日和 "wikilink")》的主題曲，亦是品牌《Samantha Vega×Honey Bunch〜Disney New Collection〜》的電視廣告歌曲。
   - 與前作不同，E-girls全員均有選拔並參與。
-  - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《Diamond Only》的Music
-    Video。
+  - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《Diamond Only》的Music Video。
   - 在3月10日於公信榜单曲週排行榜取得第2位。
 
 ## 選抜成员
@@ -26,10 +21,8 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 <!-- end list -->
 
   - 上一首單曲《[轉啊轉](../Page/轉啊轉.md "wikilink")》的選拔成員全部入選了本次的選拔成員。而第一次入選選拔組有EGD的渡邉真梨奈。
-  - Aya、Erie、MIYUU、杉枝真結、川本璃、武藤千春、市來杏香、萩尾美聖、稲垣莉生、中嶋桃花繼《[滿懷歉意的Kissing
-    You](../Page/滿懷歉意的Kissing_You.md "wikilink")》後重回選拔組
-  - Aya繼《[THE NEVER ENDING STORY
-    ～告訴你一個小秘密～](../Page/THE_NEVER_ENDING_STORY.md "wikilink")》後再選拔為主唱。
+  - Aya、Erie、MIYUU、杉枝真結、川本璃、武藤千春、市來杏香、萩尾美聖、稲垣莉生、中嶋桃花繼《[滿懷歉意的Kissing You](../Page/滿懷歉意的Kissing_You.md "wikilink")》後重回選拔組
+  - Aya繼《[THE NEVER ENDING STORY ～告訴你一個小秘密～](../Page/THE_NEVER_ENDING_STORY.md "wikilink")》後再選拔為主唱。
   - [水野繪梨奈](../Page/水野繪梨奈.md "wikilink")因已離隊而沒有在選拔名單上。
 
 ### GO LADY\!\!
@@ -53,5 +46,4 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 </noinclude>
 
-[Category:E-girls歌曲](https://zh.wikipedia.org/wiki/Category:E-girls歌曲 "wikilink")
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
+[Category:E-girls歌曲](https://zh.wikipedia.org/wiki/Category:E-girls歌曲 "wikilink") [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")

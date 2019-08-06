@@ -1,7 +1,4 @@
-**VBC-90毫米輪式突擊炮**是法國[雷諾一款轮式突击炮](https://zh.wikipedia.org/wiki/雷諾 "wikilink")，雷諾公司1970年代利用GIAT
-TS 90砲塔和激光测距仪結合裝甲車底盤生產此車，獲得法國陸軍採用，1979年在萨托里军械展览会（Satory Exhibition of
-Military
-Equipment）上首次展出。可发射法国地面武器工业集团的霰弹、榴弹、破甲弹、烟幕弹和翼稳脱壳穿甲弹，可載20發砲彈，汤姆逊无线电（Thomson-CSF）公司的卡纳斯达（Canasta）被动式夜视系统使炮长在夜间能搜寻到2000m内的目标并瞄准射击。適合裝甲偵察任務。
+**VBC-90毫米輪式突擊炮**是法國[雷諾一款轮式突击炮](https://zh.wikipedia.org/wiki/雷諾 "wikilink")，雷諾公司1970年代利用GIAT TS 90砲塔和激光测距仪結合裝甲車底盤生產此車，獲得法國陸軍採用，1979年在萨托里军械展览会（Satory Exhibition of Military Equipment）上首次展出。可发射法国地面武器工业集团的霰弹、榴弹、破甲弹、烟幕弹和翼稳脱壳穿甲弹，可載20發砲彈，汤姆逊无线电（Thomson-CSF）公司的卡纳斯达（Canasta）被动式夜视系统使炮长在夜间能搜寻到2000m内的目标并瞄准射击。適合裝甲偵察任務。
 
 [阿曼](../Page/阿曼.md "wikilink")共订购了6辆，也装备SOPTAC11火控系统，于1985年交付使用。
 
@@ -16,12 +13,9 @@ Equipment）上首次展出。可发射法国地面武器工业集团的霰弹�
 
 ## 参考文献
 
-  - Foss, Christopher F. Jane's Armour and Artillery 1987–88. London:
-    Jane's Yearbooks, 1987. ISBN 0-7106-0849-7.
-  - Foss, Christopher F. Jane's Tanks and Combat Vehicles Recognition
-    Guide. London: HarperCollins Publishers, 2002. ISBN 0-00-712759-6.
+  - Foss, Christopher F. Jane's Armour and Artillery 1987–88. London: Jane's Yearbooks, 1987. ISBN 0-7106-0849-7.
+  - Foss, Christopher F. Jane's Tanks and Combat Vehicles Recognition Guide. London: HarperCollins Publishers, 2002. ISBN 0-00-712759-6.
 
-[分類:突擊炮](https://zh.wikipedia.org/wiki/分類:突擊炮 "wikilink")
-[分類:法國軍事](https://zh.wikipedia.org/wiki/分類:法國軍事 "wikilink")
+[分類:突擊炮](https://zh.wikipedia.org/wiki/分類:突擊炮 "wikilink") [分類:法國軍事](https://zh.wikipedia.org/wiki/分類:法國軍事 "wikilink")
 
 [Category:法国装甲战斗车辆](https://zh.wikipedia.org/wiki/Category:法国装甲战斗车辆 "wikilink")

@@ -24,9 +24,7 @@ FL9型机车的动力装置是一台16[气缸的](https://zh.wikipedia.org/wiki/
 
 ### 传动系统
 
-传动系统采用直—直流电传动装置，柴油机直接驱动一台直流牵引发电机，发出的直流电供给四台D37B型[直流](../Page/直流电动机.md "wikilink")[牵引电动机](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")。当以柴油机作为动力源时，[司机控制器手柄的八个级位分别对应着八个柴油机转速档位](https://zh.wikipedia.org/wiki/司机控制器 "wikilink")\[9\]。为了充分利用牵引发电机发出的[功率](../Page/功率.md "wikilink")，并使牵引[电流](../Page/电流.md "wikilink")、[电压自动保持在规定的限值内](https://zh.wikipedia.org/wiki/电压 "wikilink")，在加速过程中牵引电动机自动进行四种方式的[串](../Page/串聯電路.md "wikilink")—[并联换接](../Page/並聯電路.md "wikilink")，当机车起动和加速时牵引电动机以“两串两并”方式连接（Series-Parallel），当达到一定速度后在牵引电动机回路接入分流电阻进行[磁场削弱](https://zh.wikipedia.org/wiki/磁场削弱 "wikilink")（Series-Parallel
-Shunt），随着速度继续提高又改为以全并联方式连接（Parallel）来继续加速，当达到牵引电动机额定电压之后再次接入分流电阻进行磁场削弱（Parallel
-Shunt），以此扩大恒功率调速范围并使机车达到最高速度\[10\]。这种控制方式当时被广泛应用于易安迪公司的柴油机车。
+传动系统采用直—直流电传动装置，柴油机直接驱动一台直流牵引发电机，发出的直流电供给四台D37B型[直流](../Page/直流电动机.md "wikilink")[牵引电动机](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")。当以柴油机作为动力源时，[司机控制器手柄的八个级位分别对应着八个柴油机转速档位](https://zh.wikipedia.org/wiki/司机控制器 "wikilink")\[9\]。为了充分利用牵引发电机发出的[功率](../Page/功率.md "wikilink")，并使牵引[电流](../Page/电流.md "wikilink")、[电压自动保持在规定的限值内](https://zh.wikipedia.org/wiki/电压 "wikilink")，在加速过程中牵引电动机自动进行四种方式的[串](../Page/串聯電路.md "wikilink")—[并联换接](../Page/並聯電路.md "wikilink")，当机车起动和加速时牵引电动机以“两串两并”方式连接（Series-Parallel），当达到一定速度后在牵引电动机回路接入分流电阻进行[磁场削弱](https://zh.wikipedia.org/wiki/磁场削弱 "wikilink")（Series-Parallel Shunt），随着速度继续提高又改为以全并联方式连接（Parallel）来继续加速，当达到牵引电动机额定电压之后再次接入分流电阻进行磁场削弱（Parallel Shunt），以此扩大恒功率调速范围并使机车达到最高速度\[10\]。这种控制方式当时被广泛应用于易安迪公司的柴油机车。
 
 当机车在电气化铁路上由第三轨供电时，仍由同一个司机控制器对机车实行操纵。由于受流电压和牵引电动机的额定电压相若，因此只需使用串—并联换接和电阻调压来作为调速手段。司机控制器的第一个级位使牵引电动机以“两串两并”方式连接，并和所有[电阻器串联连接](https://zh.wikipedia.org/wiki/电阻器 "wikilink")；第二至第五级位顺序减少串联连接的电阻器，逐步提高向牵引电动机供给的电压；第六级位使牵引电动机转换到全并联连接，并和另外一系列电阻器连接；第七和第八级位是接入分流电阻进行二级磁场削弱。FL9型机车总共有28个调压级，从而获得相对平滑的调速性能\[11\]。
 
@@ -48,16 +46,11 @@ FL9AC型机车上的升压斩波器、制动斩波器、牵引逆变器均采用
 
 ## 运用历史
 
-[EMD_FL-9_NYC_2013.jpg](https://zh.wikipedia.org/wiki/File:EMD_FL-9_NYC_2013.jpg "fig:EMD_FL-9_NYC_2013.jpg")
-[Maine_Eastern_FL9.jpg](https://zh.wikipedia.org/wiki/File:Maine_Eastern_FL9.jpg "fig:Maine_Eastern_FL9.jpg")
-FL9型双动力源机车于1957年开始投入服务，最初主要担当纽约至波士顿、[斯普林菲尔德的直通旅客列车的牵引任务](../Page/斯普林菲尔德_\(马萨诸塞州\).md "wikilink")，包括纽黑文铁路的优等旅客列车“商旅特快号”（*Merchants
-Limited*），这趟列车往返于纽约大中央车站和波士顿南站，运行里程全长229.5英里（369.3公里），单程旅行时间约4小时15分钟。后来，FL9型机车的运行区段不仅延伸到[普罗维登斯甚至](https://zh.wikipedia.org/wiki/普罗维登斯_\(罗德岛州\) "wikilink")[鳕鱼角](https://zh.wikipedia.org/wiki/鳕鱼角 "wikilink")，在新英格兰地区的[丹伯里](https://zh.wikipedia.org/wiki/丹伯里_\(康涅狄格州\) "wikilink")、[皮茨菲尔德](https://zh.wikipedia.org/wiki/皮茨菲爾德_\(馬薩諸塞州\) "wikilink")、[伯克希尔等地均可见到其踪影](https://zh.wikipedia.org/wiki/伯克希尔县_\(马萨诸塞州\) "wikilink")。FL9型双动力源机车的灵活性和广泛运用，使纽黑文铁路公司得以在1961年拆除了纽黑文线至间的电气化铁路架空接触网，另外亦促使纽黑文铁路淘汰了所有在1955年以前投入运用的旧型电力机车，只保留了部分和交流电力机车继续使用。
+[EMD_FL-9_NYC_2013.jpg](https://zh.wikipedia.org/wiki/File:EMD_FL-9_NYC_2013.jpg "fig:EMD_FL-9_NYC_2013.jpg") [Maine_Eastern_FL9.jpg](https://zh.wikipedia.org/wiki/File:Maine_Eastern_FL9.jpg "fig:Maine_Eastern_FL9.jpg") FL9型双动力源机车于1957年开始投入服务，最初主要担当纽约至波士顿、[斯普林菲尔德的直通旅客列车的牵引任务](../Page/斯普林菲尔德_\(马萨诸塞州\).md "wikilink")，包括纽黑文铁路的优等旅客列车“商旅特快号”（*Merchants Limited*），这趟列车往返于纽约大中央车站和波士顿南站，运行里程全长229.5英里（369.3公里），单程旅行时间约4小时15分钟。后来，FL9型机车的运行区段不仅延伸到[普罗维登斯甚至](https://zh.wikipedia.org/wiki/普罗维登斯_\(罗德岛州\) "wikilink")[鳕鱼角](https://zh.wikipedia.org/wiki/鳕鱼角 "wikilink")，在新英格兰地区的[丹伯里](https://zh.wikipedia.org/wiki/丹伯里_\(康涅狄格州\) "wikilink")、[皮茨菲尔德](https://zh.wikipedia.org/wiki/皮茨菲爾德_\(馬薩諸塞州\) "wikilink")、[伯克希尔等地均可见到其踪影](https://zh.wikipedia.org/wiki/伯克希尔县_\(马萨诸塞州\) "wikilink")。FL9型双动力源机车的灵活性和广泛运用，使纽黑文铁路公司得以在1961年拆除了纽黑文线至间的电气化铁路架空接触网，另外亦促使纽黑文铁路淘汰了所有在1955年以前投入运用的旧型电力机车，只保留了部分和交流电力机车继续使用。
 
 1969年，纽黑文铁路公司被（由原[賓夕法尼亞鐵路](../Page/賓夕法尼亞鐵路.md "wikilink")和纽约中央铁路合并而成）兼并，纽黑文铁路的所有资产包括FL9型机车均被宾州中央公司继承，部分机车被接收后披上了宾州中央公司的新涂装，但也有一些机车仍然保留纽黑文铁路公司的旧涂装。纽黑文铁路公司被整体兼并后，宾州中央运输公司的经营状态更是雪上加霜，最终在1970年6月正式宣布破产。在宾州中央运输公司的清盘过程中，原本由其经营的通勤客运业务改由[紐約大都會運輸署](https://zh.wikipedia.org/wiki/紐約大都會運輸署 "wikilink")（MTA）和[马萨诸塞湾交通局](https://zh.wikipedia.org/wiki/马萨诸塞湾交通局 "wikilink")（MBTA）继续拨款来维持营运\[17\]。
 
-在的介入之下，时任美国总统[尼克松于](../Page/理查德·尼克松.md "wikilink")1973年签署了《地区铁路重组法案》（Regional
-Rail Reorganization
-Act），并于1976年由美国联邦政府注资成立了[联合铁路公司](https://zh.wikipedia.org/wiki/联合铁路公司 "wikilink")（Conrail），对宣布或濒临破产的铁路公司进行重组。联合铁路公司开始营业后接收了原属宾州中央运输公司的FL9型机车，其中12台机车在不久之后被转售予美国国家铁路客运公司（Amtrak）\[18\]。1983年，联合铁路公司将通勤铁路客运业务移交给各州政府的交通管理部门。为此，纽约州政府下辖的紐約大都會運輸署于同年成立了[大都會北方鐵路](../Page/大都會北方鐵路.md "wikilink")，作为一家经营纽约州通勤铁路服务的公营机构，这些属于大都會北方鐵路的FL9型机车都采用了新涂装。其中10台机车后来经过翻新后又被转售予，这批机车均采用原始的纽黑文铁路涂装。
+在的介入之下，时任美国总统[尼克松于](../Page/理查德·尼克松.md "wikilink")1973年签署了《地区铁路重组法案》（Regional Rail Reorganization Act），并于1976年由美国联邦政府注资成立了[联合铁路公司](https://zh.wikipedia.org/wiki/联合铁路公司 "wikilink")（Conrail），对宣布或濒临破产的铁路公司进行重组。联合铁路公司开始营业后接收了原属宾州中央运输公司的FL9型机车，其中12台机车在不久之后被转售予美国国家铁路客运公司（Amtrak）\[18\]。1983年，联合铁路公司将通勤铁路客运业务移交给各州政府的交通管理部门。为此，纽约州政府下辖的紐約大都會運輸署于同年成立了[大都會北方鐵路](../Page/大都會北方鐵路.md "wikilink")，作为一家经营纽约州通勤铁路服务的公营机构，这些属于大都會北方鐵路的FL9型机车都采用了新涂装。其中10台机车后来经过翻新后又被转售予，这批机车均采用原始的纽黑文铁路涂装。
 
 1980年代末，[长岛铁路计划开行由](https://zh.wikipedia.org/wiki/长岛铁路 "wikilink")[杰斐逊港经纽约市至](https://zh.wikipedia.org/wiki/杰斐逊港 "wikilink")[奥尔巴尼的直通旅客列车](https://zh.wikipedia.org/wiki/奥尔巴尼县_\(纽约州\) "wikilink")，由于列车会进入位于纽约市曼哈顿地底的[宾夕法尼亚车站](https://zh.wikipedia.org/wiki/賓夕法尼亞車站_\(紐約市\) "wikilink")，长岛铁路考虑到进行全线电气化改造的成本高昂，因此决定使用双动力源机车作为牵引动力，以利用宾夕法尼亚车站的第三轨供电电气化铁路\[19\]。1989年，长岛铁路向大都會北方鐵路购置了三台FL9型机车，并且连同大都會北方鐵路的七台机车进行了现代化改造。同时，长岛铁路还向日本的[東急車輛製造](../Page/東急車輛製造.md "wikilink")订购了10辆[C1型双层客车](https://zh.wikipedia.org/wiki/长岛铁路C1型铁路客车 "wikilink")，这批客车于1991年7月抵达美国并开始试运行；由于当时改造后的FL9AC型机车尚未来得及完成试验，在试运行初期曾经一度使用[E8型和](../Page/E8型柴油机车.md "wikilink")[GP38-2型柴油机车](../Page/GP38-2型柴油机车.md "wikilink")作为牵引动力，直到FL9AC型机车于1992年开始投入试运行为止\[20\]。然而，C1型双层客车因设计方面存在不足之处而未曾实际投入营运，长岛铁路的FL9AC型机车也因此归还给大都會北方鐵路。
 
@@ -84,10 +77,7 @@ Act），并于1976年由美国联邦政府注资成立了[联合铁路公司](h
   -
 ## 参考文献
 
-[Category:双动力源铁路机车](https://zh.wikipedia.org/wiki/Category:双动力源铁路机车 "wikilink")
-[Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink")
-[Category:美国电力机车](https://zh.wikipedia.org/wiki/Category:美国电力机车 "wikilink")
-[Category:EMD制铁路机车](https://zh.wikipedia.org/wiki/Category:EMD制铁路机车 "wikilink")
+[Category:双动力源铁路机车](https://zh.wikipedia.org/wiki/Category:双动力源铁路机车 "wikilink") [Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink") [Category:美国电力机车](https://zh.wikipedia.org/wiki/Category:美国电力机车 "wikilink") [Category:EMD制铁路机车](https://zh.wikipedia.org/wiki/Category:EMD制铁路机车 "wikilink")
 
 1.
 

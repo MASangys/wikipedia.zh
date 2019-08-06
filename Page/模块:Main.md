@@ -1,12 +1,6 @@
-\--[-- This module produces a link to a main article or articles. It
-implements the -- template {{main}}. -- -- If the module is used in
-category or category talk space, it produces "The -- main article for
-this category is xxx". Otherwise, it produces -- "Main article: xxx".
---](https://zh.wikipedia.org/wiki/--_This_module_produces_a_link_to_a_main_article_or_articles._It_implements_the_--_template_{{main}}._--_--_If_the_module_is_used_in_category_or_category_talk_space,_it_produces_"The_--_main_article_for_this_category_is_xxx"._Otherwise,_it_produces_--_"Main_article:_xxx"._-- "wikilink")
+\--[-- This module produces a link to a main article or articles. It implements the -- template {{main}}. -- -- If the module is used in category or category talk space, it produces "The -- main article for this category is xxx". Otherwise, it produces -- "Main article: xxx". --](https://zh.wikipedia.org/wiki/--_This_module_produces_a_link_to_a_main_article_or_articles._It_implements_the_--_template_{{main}}._--_--_If_the_module_is_used_in_category_or_category_talk_space,_it_produces_"The_--_main_article_for_this_category_is_xxx"._Otherwise,_it_produces_--_"Main_article:_xxx"._-- "wikilink")
 
-local mHatnote = require('Module:Hatnote') local mHatlist =
-require('Module:Hatnote list') local mArguments -- lazily initialise
-local p = {}
+local mHatnote = require('Module:Hatnote') local mHatlist = require('Module:Hatnote list') local mArguments -- lazily initialise local p = {}
 
 function p.main(frame)
 

@@ -8,24 +8,11 @@
 
 ## 风格
 
-这张专辑在音乐角度标志着音乐风格从《[Angels Fall
-First](../Page/Angels_Fall_First.md "wikilink")》的民谣风格产生了明确变化，展示了一个的节奏更快的，使用谐波吉他/键盘引导和和双重低音鼓的更夸张的力量金属风格。《Oceanborn》的声音在总体音乐角度加入了更戏剧性的方式，其中大多转移到了交响键盘和主唱[塔雅·图伦尼](../Page/塔雅·图伦尼.md "wikilink")的声音上。专辑的大部分歌曲是以幻想为主题的，如《Swanheart》和《Walking
-in the
-Air》，封面来自动画式图片《[雪人](https://zh.wikipedia.org/wiki/雪人_\(绘本\) "wikilink")》；然而，其他歌曲，如《Gethsmane》更有宗教的感觉。此外还有如《Devil
-& the Deep Dark Ocean》的戏剧性曲目。《Oceanborn》是他们声音最低沉的专辑，在歌曲《The Pharaoh
-Sails to Orion》和《Devil & the Deep Dark Ocean》重使用了[Tapio
-Wilska的死嗓](https://zh.wikipedia.org/wiki/Tapio_Wilska "wikilink")。
+这张专辑在音乐角度标志着音乐风格从《[Angels Fall First](../Page/Angels_Fall_First.md "wikilink")》的民谣风格产生了明确变化，展示了一个的节奏更快的，使用谐波吉他/键盘引导和和双重低音鼓的更夸张的力量金属风格。《Oceanborn》的声音在总体音乐角度加入了更戏剧性的方式，其中大多转移到了交响键盘和主唱[塔雅·图伦尼](../Page/塔雅·图伦尼.md "wikilink")的声音上。专辑的大部分歌曲是以幻想为主题的，如《Swanheart》和《Walking in the Air》，封面来自动画式图片《[雪人](https://zh.wikipedia.org/wiki/雪人_\(绘本\) "wikilink")》；然而，其他歌曲，如《Gethsmane》更有宗教的感觉。此外还有如《Devil & the Deep Dark Ocean》的戏剧性曲目。《Oceanborn》是他们声音最低沉的专辑，在歌曲《The Pharaoh Sails to Orion》和《Devil & the Deep Dark Ocean》重使用了[Tapio Wilska的死嗓](https://zh.wikipedia.org/wiki/Tapio_Wilska "wikilink")。
 
 ## 现场演出
 
-自专辑发行后《[Sacrament of
-Wilderness](https://zh.wikipedia.org/wiki/Sacrament_of_Wilderness "wikilink")》一直是音乐会中爱好者最喜欢的音乐，歌曲也经常被演唱。《[Sleeping
-Sun](https://zh.wikipedia.org/wiki/Sleeping_Sun_\(Four_Ballads_of_the_Eclipse\) "wikilink")》和《[Walking
-in the
-Air](https://zh.wikipedia.org/wiki/Walking_in_the_Air_\(夜愿歌曲\) "wikilink")》经常在节目上演唱，但是《Stargazers》在2005年图伦尼被解雇后就不再演唱。《Walking
-in the
-Air》在2009年9月19日[哈特瓦尔体育馆的演出中回到了现场歌单](https://zh.wikipedia.org/wiki/哈特瓦尔体育馆 "wikilink")，这次是由新主唱[Anette
-Olzon作为原音歌曲演唱](https://zh.wikipedia.org/wiki/Anette_Olzon "wikilink")。
+自专辑发行后《[Sacrament of Wilderness](https://zh.wikipedia.org/wiki/Sacrament_of_Wilderness "wikilink")》一直是音乐会中爱好者最喜欢的音乐，歌曲也经常被演唱。《[Sleeping Sun](https://zh.wikipedia.org/wiki/Sleeping_Sun_\(Four_Ballads_of_the_Eclipse\) "wikilink")》和《[Walking in the Air](https://zh.wikipedia.org/wiki/Walking_in_the_Air_\(夜愿歌曲\) "wikilink")》经常在节目上演唱，但是《Stargazers》在2005年图伦尼被解雇后就不再演唱。《Walking in the Air》在2009年9月19日[哈特瓦尔体育馆的演出中回到了现场歌单](https://zh.wikipedia.org/wiki/哈特瓦尔体育馆 "wikilink")，这次是由新主唱[Anette Olzon作为原音歌曲演唱](https://zh.wikipedia.org/wiki/Anette_Olzon "wikilink")。
 
 ## 曲目列表
 
@@ -39,21 +26,11 @@ Olzon作为原音歌曲演唱](https://zh.wikipedia.org/wiki/Anette_Olzon "wikil
 
 **乐队**
 
-  - [Tarja
-    Turunen](https://zh.wikipedia.org/wiki/Tarja_Turunen "wikilink") -
-    [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")
-  - [Tuomas
-    Holopainen](https://zh.wikipedia.org/wiki/Tuomas_Holopainen "wikilink")
-    - [键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")
-  - [Emppu
-    Vuorinen](https://zh.wikipedia.org/wiki/Emppu_Vuorinen "wikilink") -
-    [主吉他](https://zh.wikipedia.org/wiki/主吉他 "wikilink")
-  - [Sami Vänskä](https://zh.wikipedia.org/wiki/Sami_Vänskä "wikilink")
-    - [低音吉他](https://zh.wikipedia.org/wiki/低音吉他 "wikilink")
-  - [Jukka
-    Nevalainen](https://zh.wikipedia.org/wiki/Jukka_Nevalainen "wikilink")
-    -
-    [鼓](../Page/鼓.md "wikilink")和[打击乐器组](https://zh.wikipedia.org/wiki/打击乐器组 "wikilink")
+  - [Tarja Turunen](https://zh.wikipedia.org/wiki/Tarja_Turunen "wikilink") - [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")
+  - [Tuomas Holopainen](https://zh.wikipedia.org/wiki/Tuomas_Holopainen "wikilink") - [键盘](https://zh.wikipedia.org/wiki/键盘 "wikilink")
+  - [Emppu Vuorinen](https://zh.wikipedia.org/wiki/Emppu_Vuorinen "wikilink") - [主吉他](https://zh.wikipedia.org/wiki/主吉他 "wikilink")
+  - [Sami Vänskä](https://zh.wikipedia.org/wiki/Sami_Vänskä "wikilink") - [低音吉他](https://zh.wikipedia.org/wiki/低音吉他 "wikilink")
+  - [Jukka Nevalainen](https://zh.wikipedia.org/wiki/Jukka_Nevalainen "wikilink") - [鼓](../Page/鼓.md "wikilink")和[打击乐器组](https://zh.wikipedia.org/wiki/打击乐器组 "wikilink")
 
 **主要职员**
 
@@ -64,8 +41,7 @@ Olzon作为原音歌曲演唱](https://zh.wikipedia.org/wiki/Anette_Olzon "wikil
 
 **邀请**
 
-  - [Tapio
-    Wilska](https://zh.wikipedia.org/wiki/Tapio_Wilska "wikilink") - 男声
+  - [Tapio Wilska](https://zh.wikipedia.org/wiki/Tapio_Wilska "wikilink") - 男声
   - Esa Lehtinen - [长笛](../Page/长笛.md "wikilink")
   - Plamen Dimov & Kaisli Kaivola - [小提琴](../Page/小提琴.md "wikilink")
   - Markku Palola - [中提琴](../Page/中提琴.md "wikilink")
@@ -77,8 +53,7 @@ Olzon作为原音歌曲演唱](https://zh.wikipedia.org/wiki/Anette_Olzon "wikil
 
   - [夜愿官方网站](http://www.nightwish.com/)
 
-[Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink")
-[Category:夜愿音乐专辑](https://zh.wikipedia.org/wiki/Category:夜愿音乐专辑 "wikilink")
+[Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink") [Category:夜愿音乐专辑](https://zh.wikipedia.org/wiki/Category:夜愿音乐专辑 "wikilink")
 
 1.
 
@@ -86,10 +61,7 @@ Olzon作为原音歌曲演唱](https://zh.wikipedia.org/wiki/Anette_Olzon "wikil
 
 3.
 
-4.  Ruskell, Nick.
-    *[Kerrang\!](https://zh.wikipedia.org/wiki/Kerrang! "wikilink")*
-    August 16, 2008, \#1223. Treasure Chest. An Ultimate Portrait of a
-    Life in Rock. Tuomas Holopainen. p 54
+4.  Ruskell, Nick. *[Kerrang\!](https://zh.wikipedia.org/wiki/Kerrang! "wikilink")* August 16, 2008, \#1223. Treasure Chest. An Ultimate Portrait of a Life in Rock. Tuomas Holopainen. p 54
 
 5.
 6.

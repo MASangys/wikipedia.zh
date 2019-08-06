@@ -1,5 +1,4 @@
-《**Big Comic
-Original**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，1972年創刊。
+《**Big Comic Original**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，1972年創刊。
 
 ## 連載作品
 
@@ -7,12 +6,10 @@ Original**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜�
 
   - [青い鳥](https://zh.wikipedia.org/wiki/青い鳥_\(村上たかし\) "wikilink")（[村上たかし](https://zh.wikipedia.org/wiki/村上たかし "wikilink")）
   - [赤兵衛](https://zh.wikipedia.org/wiki/赤兵衛 "wikilink")（[黒鉄ヒロシ](https://zh.wikipedia.org/wiki/黒鉄ヒロシ "wikilink")）
-  - [〜あじさいの唄〜
-    栗之助江戸草紙](https://zh.wikipedia.org/wiki/あじさいの唄 "wikilink")（[森栗丸](https://zh.wikipedia.org/wiki/森栗丸 "wikilink")、「あじさいの唄」を2012年2月20日号より改題）
+  - [〜あじさいの唄〜 栗之助江戸草紙](https://zh.wikipedia.org/wiki/あじさいの唄 "wikilink")（[森栗丸](https://zh.wikipedia.org/wiki/森栗丸 "wikilink")、「あじさいの唄」を2012年2月20日号より改題）
   - [あぶさん](https://zh.wikipedia.org/wiki/あぶさん "wikilink")（[水島新司](https://zh.wikipedia.org/wiki/水島新司 "wikilink")）
   - [安藤奈津](../Page/安藤奈津.md "wikilink")（作・[西ゆうじ](https://zh.wikipedia.org/wiki/西ゆうじ "wikilink")、画・[テリー山本](https://zh.wikipedia.org/wiki/テリー山本 "wikilink")）
-  - [おかみさん平成場所
-    新米内儀わかばの相撲部屋奮闘記](https://zh.wikipedia.org/wiki/おかみさん平成場所 "wikilink")（[一丸](https://zh.wikipedia.org/wiki/一丸 "wikilink")）
+  - [おかみさん平成場所 新米内儀わかばの相撲部屋奮闘記](https://zh.wikipedia.org/wiki/おかみさん平成場所 "wikilink")（[一丸](https://zh.wikipedia.org/wiki/一丸 "wikilink")）
   - [風の大地](https://zh.wikipedia.org/wiki/風の大地 "wikilink")（作・[坂田信弘](https://zh.wikipedia.org/wiki/坂田信弘 "wikilink")、画・[かざま鋭二](https://zh.wikipedia.org/wiki/かざま鋭二 "wikilink")）
   - [看護助手のナナちゃん](https://zh.wikipedia.org/wiki/看護助手のナナちゃん "wikilink")（[野村知紗](https://zh.wikipedia.org/wiki/野村知紗 "wikilink")）　ビッグコミックオリジナル増刊との並行連載
   - [三丁目の夕日](https://zh.wikipedia.org/wiki/三丁目の夕日 "wikilink")（[西岸良平](https://zh.wikipedia.org/wiki/西岸良平 "wikilink")）
@@ -24,17 +21,14 @@ Original**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜�
   - [浮浪雲](https://zh.wikipedia.org/wiki/浮浪雲 "wikilink")（[ジョージ秋山](https://zh.wikipedia.org/wiki/ジョージ秋山 "wikilink")）
   - [百年川柳](https://zh.wikipedia.org/wiki/百年川柳 "wikilink")（[業田良家](https://zh.wikipedia.org/wiki/業田良家 "wikilink")）
   - [ひよっこ料理人](https://zh.wikipedia.org/wiki/ひよっこ料理人 "wikilink")（[魚戸おさむ](https://zh.wikipedia.org/wiki/魚戸おさむ "wikilink")）
-  - [弁護士のくず](https://zh.wikipedia.org/wiki/弁護士のくず "wikilink")
-    第二審（[井浦秀夫](https://zh.wikipedia.org/wiki/井浦秀夫 "wikilink")）
+  - [弁護士のくず](https://zh.wikipedia.org/wiki/弁護士のくず "wikilink") 第二審（[井浦秀夫](https://zh.wikipedia.org/wiki/井浦秀夫 "wikilink")）
   - [真夜中のこじか](https://zh.wikipedia.org/wiki/真夜中のこじか "wikilink")（作・[北原雅紀](https://zh.wikipedia.org/wiki/北原雅紀 "wikilink")、画・[あおきてつお](https://zh.wikipedia.org/wiki/あおきてつお "wikilink")）
   - [まんが親](https://zh.wikipedia.org/wiki/まんが親 "wikilink")（[吉田戦車](https://zh.wikipedia.org/wiki/吉田戦車 "wikilink")）
 
 ### 通常連載以外作品
 
-  - [高橋留美子劇場](../Page/高橋留美子劇場.md "wikilink")（[高橋留美子](https://zh.wikipedia.org/wiki/高橋留美子 "wikilink")）
-    ※年1回ペースで掲載している読み切り作品
-  - [小孤島大醫生](../Page/小孤島大醫生.md "wikilink")（[山田貴敏](https://zh.wikipedia.org/wiki/山田貴敏 "wikilink")）
-    ※『[週刊ヤングサンデー](https://zh.wikipedia.org/wiki/週刊ヤングサンデー "wikilink")』（2008年7月末で休刊）から移籍、2010年から長期休載中
+  - [高橋留美子劇場](../Page/高橋留美子劇場.md "wikilink")（[高橋留美子](https://zh.wikipedia.org/wiki/高橋留美子 "wikilink")） ※年1回ペースで掲載している読み切り作品
+  - [小孤島大醫生](../Page/小孤島大醫生.md "wikilink")（[山田貴敏](https://zh.wikipedia.org/wiki/山田貴敏 "wikilink")） ※『[週刊ヤングサンデー](https://zh.wikipedia.org/wiki/週刊ヤングサンデー "wikilink")』（2008年7月末で休刊）から移籍、2010年から長期休載中
   - [ヒゲとボイン](https://zh.wikipedia.org/wiki/ヒゲとボイン "wikilink")（[小島功](https://zh.wikipedia.org/wiki/小島功 "wikilink")）　※2011年から長期休載中
   - [危險調查員](https://zh.wikipedia.org/wiki/危險調查員 "wikilink")（[浦沢直樹](https://zh.wikipedia.org/wiki/浦沢直樹 "wikilink")、ストーリー/[長崎尚志](https://zh.wikipedia.org/wiki/長崎尚志 "wikilink")）　※不定期掲載
 
@@ -46,8 +40,7 @@ Original**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜�
 
 ### 連載終了作品
 
-  - [岳
-    みんなの山](https://zh.wikipedia.org/wiki/岳_みんなの山 "wikilink")（[石塚真一](../Page/石塚真一.md "wikilink")）
+  - [岳 みんなの山](https://zh.wikipedia.org/wiki/岳_みんなの山 "wikilink")（[石塚真一](../Page/石塚真一.md "wikilink")）
 
   - [パイナップルARMY](https://zh.wikipedia.org/wiki/パイナップルARMY "wikilink")（作・[工藤かずや](https://zh.wikipedia.org/wiki/工藤かずや "wikilink")、画・[浦沢直樹](https://zh.wikipedia.org/wiki/浦沢直樹 "wikilink")）
 
@@ -79,8 +72,7 @@ Original**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜�
 
   - [チアー](https://zh.wikipedia.org/wiki/チアー "wikilink")（一丸）
 
-  - [アイ'ム
-    ホーム](https://zh.wikipedia.org/wiki/アイ'ム_ホーム "wikilink")（[石坂啓](https://zh.wikipedia.org/wiki/石坂啓 "wikilink")）
+  - [アイ'ム ホーム](https://zh.wikipedia.org/wiki/アイ'ム_ホーム "wikilink")（[石坂啓](https://zh.wikipedia.org/wiki/石坂啓 "wikilink")）
 
   - [ひみつの箱](https://zh.wikipedia.org/wiki/ひみつの箱 "wikilink")（作・石坂啓、画・堀田あきお）
 
@@ -90,8 +82,7 @@ Original**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜�
 
   - [蔵人](https://zh.wikipedia.org/wiki/蔵人_\(漫画\) "wikilink")（尾瀬あきら）
 
-  - [PS
-    -羅生門-](https://zh.wikipedia.org/wiki/PS_-羅生門- "wikilink")（作・矢島正雄、画・[中山昌亮](https://zh.wikipedia.org/wiki/中山昌亮 "wikilink")）
+  - [PS -羅生門-](https://zh.wikipedia.org/wiki/PS_-羅生門- "wikilink")（作・矢島正雄、画・[中山昌亮](https://zh.wikipedia.org/wiki/中山昌亮 "wikilink")）
 
   - [沈夫人の料理人](https://zh.wikipedia.org/wiki/沈夫人の料理人 "wikilink")（[深巳琳子](https://zh.wikipedia.org/wiki/深巳琳子 "wikilink")）
 
@@ -99,8 +90,7 @@ Original**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜�
 
   - [蠢太郎](https://zh.wikipedia.org/wiki/蠢太郎 "wikilink")（村上もとか）
 
-  - [最強伝説
-    黒沢](https://zh.wikipedia.org/wiki/最強伝説_黒沢 "wikilink")（[福本伸行](../Page/福本伸行.md "wikilink")）
+  - [最強伝説 黒沢](https://zh.wikipedia.org/wiki/最強伝説_黒沢 "wikilink")（[福本伸行](../Page/福本伸行.md "wikilink")）
 
   - [電脳炎](https://zh.wikipedia.org/wiki/電脳炎 "wikilink")（[唐沢なをき](https://zh.wikipedia.org/wiki/唐沢なをき "wikilink")）
 
@@ -112,11 +102,9 @@ Original**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜�
 
   - [アフター0](https://zh.wikipedia.org/wiki/アフター0 "wikilink")（[岡崎二郎](https://zh.wikipedia.org/wiki/岡崎二郎 "wikilink")）
 
-  - [ハイサイ\!甲子園
-    〜島人が燃えた1958年〜](https://zh.wikipedia.org/wiki/ハイサイ!甲子園_〜島人が燃えた1958年〜 "wikilink")（作・[市田実](https://zh.wikipedia.org/wiki/市田実 "wikilink")、画・[高田靖彦](https://zh.wikipedia.org/wiki/高田靖彦 "wikilink")）
+  - [ハイサイ\!甲子園 〜島人が燃えた1958年〜](https://zh.wikipedia.org/wiki/ハイサイ!甲子園_〜島人が燃えた1958年〜 "wikilink")（作・[市田実](https://zh.wikipedia.org/wiki/市田実 "wikilink")、画・[高田靖彦](https://zh.wikipedia.org/wiki/高田靖彦 "wikilink")）
 
-  - [魔物語
-    愛しのベティ](https://zh.wikipedia.org/wiki/魔物語_愛しのベティ "wikilink")（作・[小池一夫](https://zh.wikipedia.org/wiki/小池一夫 "wikilink")、画・[叶精作](https://zh.wikipedia.org/wiki/叶精作 "wikilink")）
+  - [魔物語 愛しのベティ](https://zh.wikipedia.org/wiki/魔物語_愛しのベティ "wikilink")（作・[小池一夫](https://zh.wikipedia.org/wiki/小池一夫 "wikilink")、画・[叶精作](https://zh.wikipedia.org/wiki/叶精作 "wikilink")）
 
   - [PLUTO](https://zh.wikipedia.org/wiki/PLUTO "wikilink")（[浦沢直樹](https://zh.wikipedia.org/wiki/浦沢直樹 "wikilink")、原作・[手塚治虫](../Page/手塚治虫.md "wikilink")、監修・[手塚眞](../Page/手塚眞.md "wikilink")、プロデューサー・[長崎尚志](https://zh.wikipedia.org/wiki/長崎尚志 "wikilink")）
 
@@ -150,7 +138,4 @@ Original**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜�
 
   - [小学館コミック -ビッグスリーネット-ビッグコミックオリジナル](http://big-3.jp/bigoriginal/)
 
-[Category:Big_Comic_Original](https://zh.wikipedia.org/wiki/Category:Big_Comic_Original "wikilink")
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink")
-[Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink")
+[Category:Big_Comic_Original](https://zh.wikipedia.org/wiki/Category:Big_Comic_Original "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink") [Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink")

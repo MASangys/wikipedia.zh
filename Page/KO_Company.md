@@ -2,8 +2,7 @@
 
 ## 公司簡介
 
-最早於1994年在[日本](../Page/日本.md "wikilink")[京都](../Page/京都.md "wikilink")成立，是一家拍攝[同性戀](../Page/同性戀.md "wikilink")向或[雙性戀向的](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")[色情片](../Page/色情片.md "wikilink")製片商。當時日本[關西地區主要的](https://zh.wikipedia.org/wiki/關西地區 "wikilink")[男同性戀色情片](../Page/男同性戀色情片.md "wikilink")包括、等，\[1\]
-而當時的公司名則是“舞男”（）。
+最早於1994年在[日本](../Page/日本.md "wikilink")[京都](../Page/京都.md "wikilink")成立，是一家拍攝[同性戀](../Page/同性戀.md "wikilink")向或[雙性戀向的](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")[色情片](../Page/色情片.md "wikilink")製片商。當時日本[關西地區主要的](https://zh.wikipedia.org/wiki/關西地區 "wikilink")[男同性戀色情片](../Page/男同性戀色情片.md "wikilink")包括、等，\[1\] 而當時的公司名則是“舞男”（）。
 
 早期的錄像帶系列包括“猛舞男”（）、“嬌舞男”（）和“”，而隨著公司發展又陸續推出了體育會系列等。
 
@@ -120,7 +119,6 @@
 
   - [公司官方網站](http://www.ko-company.com/)
 
-[Category:日本男同性戀色情片公司](https://zh.wikipedia.org/wiki/Category:日本男同性戀色情片公司 "wikilink")
-[Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink")
+[Category:日本男同性戀色情片公司](https://zh.wikipedia.org/wiki/Category:日本男同性戀色情片公司 "wikilink") [Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink")
 
 1.  2002年6月発売の「蒼い時刻」に「オフィスカワサキ10周年記念」とプリントされている。

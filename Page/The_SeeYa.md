@@ -1,42 +1,20 @@
-**The SeeYa**（）是由[MBK
-Entertainment所打造的](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")4人女子團體組合，是繼承[SeeYa](../Page/SeeYa.md "wikilink")之名的全新組合，成員包括[玟京](https://zh.wikipedia.org/wiki/宋玟京 "wikilink")、、[憐朱](../Page/許憐朱.md "wikilink")、[書仁](https://zh.wikipedia.org/wiki/吳連卿 "wikilink")；在2012年11月12日正式出道。出道曲為〈Be
-With You〉為一首與同是Core Contents
-Media旗下男子組合[SPEED成員泰云合作的歌曲](../Page/SPEED_\(韓國音樂團體\).md "wikilink")。而〈Be
-With
-You〉劇情版MV更請來知名演員[朱相旭和](https://zh.wikipedia.org/wiki/朱相旭 "wikilink")[林晶恩](../Page/林晶恩.md "wikilink")演出。組合已宣告解散。
+**The SeeYa**（）是由[MBK Entertainment所打造的](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")4人女子團體組合，是繼承[SeeYa](../Page/SeeYa.md "wikilink")之名的全新組合，成員包括[玟京](https://zh.wikipedia.org/wiki/宋玟京 "wikilink")、、[憐朱](../Page/許憐朱.md "wikilink")、[書仁](https://zh.wikipedia.org/wiki/吳連卿 "wikilink")；在2012年11月12日正式出道。出道曲為〈Be With You〉為一首與同是Core Contents Media旗下男子組合[SPEED成員泰云合作的歌曲](../Page/SPEED_\(韓國音樂團體\).md "wikilink")。而〈Be With You〉劇情版MV更請來知名演員[朱相旭和](https://zh.wikipedia.org/wiki/朱相旭 "wikilink")[林晶恩](../Page/林晶恩.md "wikilink")演出。組合已宣告解散。
 
 ## 經歷
 
-  - 2012年11月21日，公開出道歌曲 "Be With You (My Heart is Dying)"，"Be With You"
-    更與[SPEED的成員泰雲合作](../Page/SPEED_\(韓國音樂團體\).md "wikilink")。同日也發行出道專輯
-    "Good To Seeya"。
-  - 2012年12月6日，發行首張迷你專輯 "Love U"。主打歌 "POISON (毒藥)"
-    邀請了前輩[Davichi](../Page/Davichi.md "wikilink")的[李海利](../Page/李海利.md "wikilink")合作。
-  - 2013年1月25日，幼真參與雙人嘻哈組合[Leessang](../Page/Leessang.md "wikilink")全新單曲
-    "Tears (眼淚 / 눈물)"
-  - 2013年6月10日，[Core Contents
-    Media旗下藝人](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")
-    ─ [昭妍](../Page/朴昭妍.md "wikilink")、、、和合作演唱抒情曲〈Painkiller〉(止痛藥)。
-  - 2013年7月10日，所屬公司宣布成員書仁加入[F-VE
-    DOLLS](../Page/F-VE_DOLLS.md "wikilink")，未來書仁也會同時進行著 F-VE DOLLS 與
-    The SeeYa 的活動。
-  - 2014年1月3日，發布與[孫浩俊合唱的先行曲](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink")
-    "More and More"。
+  - 2012年11月21日，公開出道歌曲 "Be With You (My Heart is Dying)"，"Be With You" 更與[SPEED的成員泰雲合作](../Page/SPEED_\(韓國音樂團體\).md "wikilink")。同日也發行出道專輯 "Good To Seeya"。
+  - 2012年12月6日，發行首張迷你專輯 "Love U"。主打歌 "POISON (毒藥)" 邀請了前輩[Davichi](../Page/Davichi.md "wikilink")的[李海利](../Page/李海利.md "wikilink")合作。
+  - 2013年1月25日，幼真參與雙人嘻哈組合[Leessang](../Page/Leessang.md "wikilink")全新單曲 "Tears (眼淚 / 눈물)"
+  - 2013年6月10日，[Core Contents Media旗下藝人](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink") ─ [昭妍](../Page/朴昭妍.md "wikilink")、、、和合作演唱抒情曲〈Painkiller〉(止痛藥)。
+  - 2013年7月10日，所屬公司宣布成員書仁加入[F-VE DOLLS](../Page/F-VE_DOLLS.md "wikilink")，未來書仁也會同時進行著 F-VE DOLLS 與 The SeeYa 的活動。
+  - 2014年1月3日，發布與[孫浩俊合唱的先行曲](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink") "More and More"。
   - 2014年1月21日，發表新輯主打歌 "Tell Me" 回歸。
   - 2014年12月29日，發表新單曲主打歌 "The Song of LOVE" 回歸。
-  - 2015年2月10日，所屬社[MBK
-    Entertainment旗下藝人](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")
-    ─
-    [昭妍](../Page/朴昭妍.md "wikilink")、[𤨒晶](../Page/咸𤨒晶.md "wikilink")、[玟京](https://zh.wikipedia.org/wiki/宋玟京 "wikilink")、和、[承希合作演唱抒情曲](../Page/曺承希.md "wikilink")"不要忘記我"。
-  - 2015年4月16日，所屬社[MBK
-    Entertainment相關人員表示](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")，玟京將在今年秋天與圈外男友結婚，婚後不會退出組合。
-  - 2015年年底，所屬社[MBK
-    Entertainment官網已刪除The](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")
-    SeeYa頁面。
-  - 2016年5月18日，幼真出演SBS《[神的聲音](../Page/Vocal_戰爭：神的聲音.md "wikilink")》報導中提及The
-    SeeYa已解散，而幼真目前為運動選手準備生。\[1\]
-  - 2017年10月28日，連卿（書仁）參與偶像選秀節目《[The
-    Unit](../Page/The_Unit.md "wikilink")》。
+  - 2015年2月10日，所屬社[MBK Entertainment旗下藝人](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink") ─ [昭妍](../Page/朴昭妍.md "wikilink")、[𤨒晶](../Page/咸𤨒晶.md "wikilink")、[玟京](https://zh.wikipedia.org/wiki/宋玟京 "wikilink")、和、[承希合作演唱抒情曲](../Page/曺承希.md "wikilink")"不要忘記我"。
+  - 2015年4月16日，所屬社[MBK Entertainment相關人員表示](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")，玟京將在今年秋天與圈外男友結婚，婚後不會退出組合。
+  - 2015年年底，所屬社[MBK Entertainment官網已刪除The](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink") SeeYa頁面。
+  - 2016年5月18日，幼真出演SBS《[神的聲音](../Page/Vocal_戰爭：神的聲音.md "wikilink")》報導中提及The SeeYa已解散，而幼真目前為運動選手準備生。\[1\]
+  - 2017年10月28日，連卿（書仁）參與偶像選秀節目《[The Unit](../Page/The_Unit.md "wikilink")》。
 
 ## 成員資料
 
@@ -350,14 +328,6 @@ You〉劇情版MV更請來知名演員[朱相旭和](https://zh.wikipedia.org/wi
   - [The SeeYa官咖](http://cafe.daum.net/theseeya)
 
   -
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
-1.  [The SeeYa前成員出演《神的聲音》
-    本有機會與許英智以組合出道　許英智因而暴風流淚](http://seoulsunday.com/news/47795-+The+SeeYa%E5%89%8D%E6%88%90%E5%93%A1%E5%87%BA%E6%BC%94%E3%80%8A%E7%A5%9E%E7%9A%84%E8%81%B2%E9%9F%B3%E3%80%8B+%E6%9C%AC%E6%9C%89%E6%A9%9F%E6%9C%83%E8%88%87%E8%A8%B1%E8%8B%B1%E6%99%BA%E4%BB%A5%E7%B5%84%E5%90%88%E5%87%BA%E9%81%93%E3%80%80%E8%A8%B1%E8%8B%B1%E6%99%BA%E5%9B%A0%E8%80%8C%E6%9A%B4%E9%A2%A8%E6%B5%81%E6%B7%9A)
+1.  [The SeeYa前成員出演《神的聲音》 本有機會與許英智以組合出道　許英智因而暴風流淚](http://seoulsunday.com/news/47795-+The+SeeYa%E5%89%8D%E6%88%90%E5%93%A1%E5%87%BA%E6%BC%94%E3%80%8A%E7%A5%9E%E7%9A%84%E8%81%B2%E9%9F%B3%E3%80%8B+%E6%9C%AC%E6%9C%89%E6%A9%9F%E6%9C%83%E8%88%87%E8%A8%B1%E8%8B%B1%E6%99%BA%E4%BB%A5%E7%B5%84%E5%90%88%E5%87%BA%E9%81%93%E3%80%80%E8%A8%B1%E8%8B%B1%E6%99%BA%E5%9B%A0%E8%80%8C%E6%9A%B4%E9%A2%A8%E6%B5%81%E6%B7%9A)

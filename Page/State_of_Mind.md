@@ -1,6 +1,4 @@
-《**State Of
-Mind**》是[香港](../Page/香港.md "wikilink")女歌手[吳雨霏](../Page/吳雨霏.md "wikilink")的個人專輯，於2013年11月20日發行\[1\]\[2\]。這亦是她的首張全創作專輯，專輯記錄了她這一年的心情變化，並邀得[Fergus
-Chow和](https://zh.wikipedia.org/wiki/Fergus_Chow "wikilink")[陳考威](../Page/陳考威.md "wikilink")協助她在音樂上的製作，而[吳雨霏](../Page/吳雨霏.md "wikilink")亦首次擔任創作總監及監製。專輯的製作歷時10個月，首波主打《今夜煙花燦爛》於8月正式派台，吳雨霏改變已有的唱法，唱出一重淡淡的哀傷，而該曲更於電台流行榜上取得不俗的成績。接力主打《生我的命》於10月首發，歌曲曲式是[吳雨霏](../Page/吳雨霏.md "wikilink")從來未試過的曲風。專輯隨碟附送DVD，特別收錄了MV和專輯的製作特輯，特別版則送了一副限量版的太陽眼鏡\[3\]\[4\]。
+《**State Of Mind**》是[香港](../Page/香港.md "wikilink")女歌手[吳雨霏](../Page/吳雨霏.md "wikilink")的個人專輯，於2013年11月20日發行\[1\]\[2\]。這亦是她的首張全創作專輯，專輯記錄了她這一年的心情變化，並邀得[Fergus Chow和](https://zh.wikipedia.org/wiki/Fergus_Chow "wikilink")[陳考威](../Page/陳考威.md "wikilink")協助她在音樂上的製作，而[吳雨霏](../Page/吳雨霏.md "wikilink")亦首次擔任創作總監及監製。專輯的製作歷時10個月，首波主打《今夜煙花燦爛》於8月正式派台，吳雨霏改變已有的唱法，唱出一重淡淡的哀傷，而該曲更於電台流行榜上取得不俗的成績。接力主打《生我的命》於10月首發，歌曲曲式是[吳雨霏](../Page/吳雨霏.md "wikilink")從來未試過的曲風。專輯隨碟附送DVD，特別收錄了MV和專輯的製作特輯，特別版則送了一副限量版的太陽眼鏡\[3\]\[4\]。
 
 ## 曲目
 
@@ -50,9 +48,7 @@ Chow和](https://zh.wikipedia.org/wiki/Fergus_Chow "wikilink")[陳考威](../Pag
 
 ## 参考资料
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:吳雨霏音樂專輯](https://zh.wikipedia.org/wiki/Category:吳雨霏音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:吳雨霏音樂專輯](https://zh.wikipedia.org/wiki/Category:吳雨霏音樂專輯 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-**PDO**（PHP Data
-Objects）是一種在[PHP](../Page/PHP.md "wikilink")裡連接資料庫的使用介面\[1\]。PDO與mysqli\[2\]曾經被建議用來取代原本PHP在用的mysql\[3\]相關函數，基於資料庫使用的安全性，因為後者欠缺對於[SQL資料隱碼的防護](https://zh.wikipedia.org/wiki/SQL資料隱碼攻擊 "wikilink")\[4\]。
+**PDO**（PHP Data Objects）是一種在[PHP](../Page/PHP.md "wikilink")裡連接資料庫的使用介面\[1\]。PDO與mysqli\[2\]曾經被建議用來取代原本PHP在用的mysql\[3\]相關函數，基於資料庫使用的安全性，因為後者欠缺對於[SQL資料隱碼的防護](https://zh.wikipedia.org/wiki/SQL資料隱碼攻擊 "wikilink")\[4\]。
 
 ## 範例
 

@@ -1,5 +1,4 @@
-《**The
-Dessert**》是[日本](../Page/日本.md "wikilink")[講談社發行的月刊](https://zh.wikipedia.org/wiki/講談社 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，1999年創刊。
+《**The Dessert**》是[日本](../Page/日本.md "wikilink")[講談社發行的月刊](https://zh.wikipedia.org/wiki/講談社 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，1999年創刊。
 
 ## 発行数量
 
@@ -13,14 +12,9 @@ Dessert**》是[日本](../Page/日本.md "wikilink")[講談社發行的月刊](
 
 ## 外部連結
 
-  - [講談社コミックプラス
-    デザートWeb](https://web.archive.org/web/20120829002915/http://kc.kodansha.co.jp/dessert/)（公式サイト）
+  - [講談社コミックプラス デザートWeb](https://web.archive.org/web/20120829002915/http://kc.kodansha.co.jp/dessert/)（公式サイト）
 
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink")
-[Category:女性漫畫雜誌](https://zh.wikipedia.org/wiki/Category:女性漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:講談社的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:講談社的漫畫雜誌 "wikilink")
+[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink") [Category:女性漫畫雜誌](https://zh.wikipedia.org/wiki/Category:女性漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:講談社的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:講談社的漫畫雜誌 "wikilink")
 
 1.  [日本雑誌協会](http://www.j-magazine.or.jp/)マガジンデータによる。
 

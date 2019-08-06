@@ -1,6 +1,4 @@
-《**Medical Top
-Team**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2013年10月9日起播放的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，由《[Royal
-Family](../Page/Royal_Family.md "wikilink")》、《[擁抱太陽的月亮](../Page/擁抱太陽的月亮.md "wikilink")》[金道勳](../Page/金道勳.md "wikilink")導演與《[學習之神](../Page/學習之神.md "wikilink")》、《[Brain](../Page/Brain.md "wikilink")》[尹景雅作家合作打造](https://zh.wikipedia.org/wiki/尹景雅 "wikilink")，講述來自各領域最頂尖的醫生打造一個夢幻醫療團隊的過程。\[1\]
+《**Medical Top Team**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2013年10月9日起播放的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，由《[Royal Family](../Page/Royal_Family.md "wikilink")》、《[擁抱太陽的月亮](../Page/擁抱太陽的月亮.md "wikilink")》[金道勳](../Page/金道勳.md "wikilink")導演與《[學習之神](../Page/學習之神.md "wikilink")》、《[Brain](../Page/Brain.md "wikilink")》[尹景雅作家合作打造](https://zh.wikipedia.org/wiki/尹景雅 "wikilink")，講述來自各領域最頂尖的醫生打造一個夢幻醫療團隊的過程。\[1\]
 
 ## 演員陣容
 
@@ -380,14 +378,9 @@ Family](../Page/Royal_Family.md "wikilink")》、《[擁抱太陽的月亮](../P
   - [香港無綫電視官方網站](http://programme.tvb.com/drama/medicaltopteam)
 
   -
-[Category:2013年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2013年韓國電視劇集 "wikilink")
-[Category:韓國醫學劇](https://zh.wikipedia.org/wiki/Category:韓國醫學劇 "wikilink")
-[Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:2013年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2013年韓國電視劇集 "wikilink") [Category:韓國醫學劇](https://zh.wikipedia.org/wiki/Category:韓國醫學劇 "wikilink") [Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
-1.  [權相佑接拍《Medical Top Team》
-    演繹正義醫師](http://www.koreastardaily.com/tc/news/28728) 韓星網
+1.  [權相佑接拍《Medical Top Team》 演繹正義醫師](http://www.koreastardaily.com/tc/news/28728) 韓星網
 2.  香港無綫電視版本譯為「-{承載}-」，有線電視版本譯為「-{勝宰}-」。
 3.  香港無綫電視版本譯為「-{雅珍}-」，有線電視版本譯為「-{雅真}-」。
 4.  香港無綫電視版本譯為「-{城友}-」，有線電視版本譯為「-{成宇}-」。

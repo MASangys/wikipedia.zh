@@ -1,5 +1,4 @@
-《**I do I
-do**》（，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2012年5月30日起播放的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，改編自同名少女漫畫。
+《**I do I do**》（，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2012年5月30日起播放的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，改編自同名少女漫畫。
 
 ## 劇情簡介
 
@@ -450,15 +449,7 @@ do**》（，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於
   - [臺灣緯來官方網站](http://drama.videoland.com.tw/channel/IdoIdo/index.html)
   - [香港無綫電視官方網站](http://programme.tvb.com/drama/idoido)
 
-[Category:MBC水木迷你連續劇](https://zh.wikipedia.org/wiki/Category:MBC水木迷你連續劇 "wikilink")
-[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink")
-[Category:韓國漫畫改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國漫畫改編韓國電視劇 "wikilink")
-[Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink")
-[Category:職場戀情連續劇](https://zh.wikipedia.org/wiki/Category:職場戀情連續劇 "wikilink")
-[Category:姊弟戀題材電視劇](https://zh.wikipedia.org/wiki/Category:姊弟戀題材電視劇 "wikilink")
-[Category:時尚題材電視劇](https://zh.wikipedia.org/wiki/Category:時尚題材電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink")
+[Category:MBC水木迷你連續劇](https://zh.wikipedia.org/wiki/Category:MBC水木迷你連續劇 "wikilink") [Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink") [Category:韓國漫畫改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國漫畫改編韓國電視劇 "wikilink") [Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink") [Category:職場戀情連續劇](https://zh.wikipedia.org/wiki/Category:職場戀情連續劇 "wikilink") [Category:姊弟戀題材電視劇](https://zh.wikipedia.org/wiki/Category:姊弟戀題材電視劇 "wikilink") [Category:時尚題材電視劇](https://zh.wikipedia.org/wiki/Category:時尚題材電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink")
 
 1.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 2.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

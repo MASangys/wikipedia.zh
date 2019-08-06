@@ -14,11 +14,7 @@ Mode學園螺旋塔在[名古屋站前的原名古屋三井大厦南棟和東棟
 
   - [名古屋Mode学园网站](http://www.mode.ac.jp/nagoya/index.html)
 
-[Category:名古屋市摩天大楼](https://zh.wikipedia.org/wiki/Category:名古屋市摩天大楼 "wikilink")
-[Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink")
-[Category:2008年完工建築物](https://zh.wikipedia.org/wiki/Category:2008年完工建築物 "wikilink")
-[Category:扭曲建築物](https://zh.wikipedia.org/wiki/Category:扭曲建築物 "wikilink")
-[Category:中村區](https://zh.wikipedia.org/wiki/Category:中村區 "wikilink")
+[Category:名古屋市摩天大楼](https://zh.wikipedia.org/wiki/Category:名古屋市摩天大楼 "wikilink") [Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink") [Category:2008年完工建築物](https://zh.wikipedia.org/wiki/Category:2008年完工建築物 "wikilink") [Category:扭曲建築物](https://zh.wikipedia.org/wiki/Category:扭曲建築物 "wikilink") [Category:中村區](https://zh.wikipedia.org/wiki/Category:中村區 "wikilink")
 
 1.
 2.

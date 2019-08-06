@@ -1,5 +1,4 @@
-《**Twinkle**》是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子音乐组合](../Page/女子音乐组合.md "wikilink")[少女时代](../Page/少女时代.md "wikilink")子团体[少女时代-太蒂徐的首张迷你專輯](https://zh.wikipedia.org/wiki/少女时代-太蒂徐 "wikilink")。2012年4月29日通过[iTunes发行数字版本](https://zh.wikipedia.org/wiki/iTunes "wikilink")，CD实体版于5月2日在韩国发行\[1\]
-。
+《**Twinkle**》是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女子音乐组合](../Page/女子音乐组合.md "wikilink")[少女时代](../Page/少女时代.md "wikilink")子团体[少女时代-太蒂徐的首张迷你專輯](https://zh.wikipedia.org/wiki/少女时代-太蒂徐 "wikilink")。2012年4月29日通过[iTunes发行数字版本](https://zh.wikipedia.org/wiki/iTunes "wikilink")，CD实体版于5月2日在韩国发行\[1\] 。
 
 ## 单曲
 
@@ -174,15 +173,7 @@
 
 ## 参考资料
 
-[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
-[Category:少女時代歌曲](https://zh.wikipedia.org/wiki/Category:少女時代歌曲 "wikilink")
-[Category:少女時代音樂專輯](https://zh.wikipedia.org/wiki/Category:少女時代音樂專輯 "wikilink")
-[Category:2012年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2012年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon專輯月榜冠軍作品 "wikilink")
-[Category:2012年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2012年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon單曲月榜冠軍作品 "wikilink")
-[Category:2012年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2012年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon流媒體週榜冠軍作品 "wikilink")
+[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:少女時代歌曲](https://zh.wikipedia.org/wiki/Category:少女時代歌曲 "wikilink") [Category:少女時代音樂專輯](https://zh.wikipedia.org/wiki/Category:少女時代音樂專輯 "wikilink") [Category:2012年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon專輯週榜冠軍作品 "wikilink") [Category:2012年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon專輯月榜冠軍作品 "wikilink") [Category:2012年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon單曲週榜冠軍作品 "wikilink") [Category:2012年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon單曲月榜冠軍作品 "wikilink") [Category:2012年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2012年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon流媒體週榜冠軍作品 "wikilink")
 
 1.
 2.

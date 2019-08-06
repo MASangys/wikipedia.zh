@@ -1,9 +1,6 @@
-**第四代iPad**（正式名称为**配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad**，而**iPad
-4**为俗称）\[1\]是[蘋果公司在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2012年10月23日於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[聖荷西發布的](https://zh.wikipedia.org/wiki/聖荷西 "wikilink")9.7吋-{zh-cn:显示屏;zh-hant:顯示器;}-[平板電腦](../Page/平板電腦.md "wikilink")，取代同年3月7日所發布、同樣配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的[第三代iPad](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")。
+**第四代iPad**（正式名称为**配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad**，而**iPad 4**为俗称）\[1\]是[蘋果公司在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2012年10月23日於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[聖荷西發布的](https://zh.wikipedia.org/wiki/聖荷西 "wikilink")9.7吋-{zh-cn:显示屏;zh-hant:顯示器;}-[平板電腦](../Page/平板電腦.md "wikilink")，取代同年3月7日所發布、同樣配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的[第三代iPad](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")。
 
-2013年10月22日，蘋果公司發布[配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad
-mini與](https://zh.wikipedia.org/wiki/iPad_mini_\(第二代\) "wikilink")[iPad
-Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")，原先配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的第四代iPad因而調整售價，不再提供32GB、64GB或128GB規格。
+2013年10月22日，蘋果公司發布[配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad mini與](https://zh.wikipedia.org/wiki/iPad_mini_\(第二代\) "wikilink")[iPad Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")，原先配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的第四代iPad因而調整售價，不再提供32GB、64GB或128GB規格。
 
 2014年3月，另在若干地區持續提供16GB機型作為“入門機”\[2\]\[3\]。直到2014年10月16日確定停售。\[4\]
 
@@ -13,17 +10,11 @@ iPad第四代於2012年11月2日起開始出貨，配備16GB、32GB或64GB的容
 
 ## 硬件
 
-配備Retina顯示器的iPad採用9.7英寸、2,048×1,536解像度顯示屏，500萬[像素](../Page/像素.md "wikilink")後置[iSight](https://zh.wikipedia.org/wiki/iSight "wikilink")[鏡頭](../Page/鏡頭.md "wikilink")，120萬像素前置[FaceTime](../Page/FaceTime.md "wikilink")[HD鏡頭](https://zh.wikipedia.org/wiki/HD "wikilink")，採用與[iPhone
-5所用的](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")[Apple
-A6相似](../Page/Apple_A6.md "wikilink")、具有雙[中央處理器核心及四繪圖核心的](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[Apple
-A6X](../Page/Apple_A6X.md "wikilink")[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")；並且採用與iPhone
-5及[iPad
-mini相同的](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")[Lightning連接線作為充電或者資料傳送](https://zh.wikipedia.org/wiki/Lightning_\(連接器\) "wikilink")。
+配備Retina顯示器的iPad採用9.7英寸、2,048×1,536解像度顯示屏，500萬[像素](../Page/像素.md "wikilink")後置[iSight](https://zh.wikipedia.org/wiki/iSight "wikilink")[鏡頭](../Page/鏡頭.md "wikilink")，120萬像素前置[FaceTime](../Page/FaceTime.md "wikilink")[HD鏡頭](https://zh.wikipedia.org/wiki/HD "wikilink")，採用與[iPhone 5所用的](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")[Apple A6相似](../Page/Apple_A6.md "wikilink")、具有雙[中央處理器核心及四繪圖核心的](https://zh.wikipedia.org/wiki/中央處理器 "wikilink")[Apple A6X](../Page/Apple_A6X.md "wikilink")[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")；並且採用與iPhone 5及[iPad mini相同的](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")[Lightning連接線作為充電或者資料傳送](https://zh.wikipedia.org/wiki/Lightning_\(連接器\) "wikilink")。
 
 ### 市場反應
 
-第四代[iPad與](https://zh.wikipedia.org/wiki/iPad "wikilink")[iPad
-mini在](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")3天之內共售出三百萬台，被評為「驚人的表現」\[6\]。
+第四代[iPad與](https://zh.wikipedia.org/wiki/iPad "wikilink")[iPad mini在](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")3天之內共售出三百萬台，被評為「驚人的表現」\[6\]。
 
 ## 規格
 
@@ -222,21 +213,11 @@ mini在](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")3天之內共售出�
 
 <references/>
 
-[Category:蘋果公司硬體](https://zh.wikipedia.org/wiki/Category:蘋果公司硬體 "wikilink")
-[Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink")
-[Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink")
-[Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink")
-[Category:2012年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2012年面世的平板電腦 "wikilink")
+[Category:蘋果公司硬體](https://zh.wikipedia.org/wiki/Category:蘋果公司硬體 "wikilink") [Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink") [Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink") [Category:2012年面世的平板電腦](https://zh.wikipedia.org/wiki/Category:2012年面世的平板電腦 "wikilink")
 
 1.  蘋果公司稱此機型爲「**配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad**」。
-2.  2014年3月，[iPad
-    2確認在臺灣停售](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")。該機型（iPad
-    2）自2012年3月起作為“入門機”，調整售價在部份地區持續發售（16GB）直到2014年3月。此後改以“配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad”（16GB）替代。
+2.  2014年3月，[iPad 2確認在臺灣停售](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")。該機型（iPad 2）自2012年3月起作為“入門機”，調整售價在部份地區持續發售（16GB）直到2014年3月。此後改以“配備Retina-{zh-hans:显示屏;zh-hant:顯示器;}-的iPad”（16GB）替代。
 3.
-4.  2014年10月16日，[iPad Air
-    2與](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")[iPad mini
-    3發布後](https://zh.wikipedia.org/wiki/iPad_mini_3 "wikilink")，作為入門版的16GB的第四代iPad正式從蘋果網站商店下架。同日蘋果產品副總裁席勒在說明iPad
-    Air 2的處理器的CPU與GPU性能的圖表中可發現，已下架的第四代iPad始被稱作iPad 4。
+4.  2014年10月16日，[iPad Air 2與](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")[iPad mini 3發布後](https://zh.wikipedia.org/wiki/iPad_mini_3 "wikilink")，作為入門版的16GB的第四代iPad正式從蘋果網站商店下架。同日蘋果產品副總裁席勒在說明iPad Air 2的處理器的CPU與GPU性能的圖表中可發現，已下架的第四代iPad始被稱作iPad 4。
 5.
-6.  [iPad mini 與 iPad 4 ，3 天售出 300
-    萬台](http://www.techbang.com/posts/11255-ipad-mini-sells-three-million)
+6.  [iPad mini 與 iPad 4 ，3 天售出 300 萬台](http://www.techbang.com/posts/11255-ipad-mini-sells-three-million)

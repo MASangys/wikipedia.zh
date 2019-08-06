@@ -1,6 +1,4 @@
-《**ayumi hamasaki ARENA TOUR 2006 A ～(miss)understood～**》（濱崎步 2006 巡迴演唱會
-A
-〜(步)解〜）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2006年間舉行的巡迴演唱會，同年11月1日發行DVD。
+《**ayumi hamasaki ARENA TOUR 2006 A ～(miss)understood～**》（濱崎步 2006 巡迴演唱會 A 〜(步)解〜）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2006年間舉行的巡迴演唱會，同年11月1日發行DVD。
 
 ## 說明
 
@@ -13,24 +11,20 @@ DVD特典影像收錄收錄全公演的MC、幕後花絮影像等。
 ### DISC 01
 
 1.  [Are You Wake Up?](../Page/\(miss\)understood.md "wikilink")
-2.  [Born To
-    Be...](https://zh.wikipedia.org/wiki/Startin'/Born_To_Be... "wikilink")
+2.  [Born To Be...](https://zh.wikipedia.org/wiki/Startin'/Born_To_Be... "wikilink")
 3.  [AUDIENCE](../Page/AUDIENCE.md "wikilink")
 4.  [evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")
-5.  [STEP
-    you](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")
+5.  [STEP you](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")
 6.  [Ladies Night](../Page/\(miss\)understood.md "wikilink")
 7.  [alterna](https://zh.wikipedia.org/wiki/fairyland "wikilink")
-8.  [is this
-    LOVE?](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")
+8.  [is this LOVE?](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")
 9.  [(miss)understood](../Page/\(miss\)understood.md "wikilink")
 10. [tasking](../Page/\(miss\)understood.md "wikilink")
 11. [Pride](https://zh.wikipedia.org/wiki/Bold&Delicious/Pride "wikilink")
 12. [rainy day](../Page/\(miss\)understood.md "wikilink")
 13. [Startin'](https://zh.wikipedia.org/wiki/Startin'/Born_To_Be... "wikilink")
 14. [UNITE\!](../Page/UNITE!.md "wikilink")
-15. [Bold &
-    Delicious](https://zh.wikipedia.org/wiki/Bold&Delicious/Pride "wikilink")
+15. [Bold & Delicious](https://zh.wikipedia.org/wiki/Bold&Delicious/Pride "wikilink")
 
 </div>
 
@@ -63,5 +57,4 @@ DVD特典影像收錄收錄全公演的MC、幕後花絮影像等。
 
 </small>
 
-[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink")
-[Category:2006年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2006年音樂相關影像作品 "wikilink")
+[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink") [Category:2006年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2006年音樂相關影像作品 "wikilink")

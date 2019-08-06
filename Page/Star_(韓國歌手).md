@@ -23,8 +23,7 @@
 
 ### 電視劇OST
 
-  - 2004年：《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》－I
-    Think I
+  - 2004年：《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》－I Think I
   - 2005年：《[我們應對離別的方式](../Page/我們應對離別的方式.md "wikilink")》－激動、곁에서만 들리는
   - 2006年：《[無敵情報員](../Page/無敵情報員.md "wikilink")》－如果愛
   - 2006年：《[飛越彩虹](../Page/飛越彩虹.md "wikilink")》－美夢
@@ -32,27 +31,21 @@
   - 2007年：《[我是老師](../Page/我是老師.md "wikilink")》－Love You
   - 2009年：《[不能結婚的男人](../Page/不能結婚的男人_\(韓國電視劇\).md "wikilink")》－愛嗎
   - 2010年：《[灰姑娘的姐姐](../Page/灰姑娘的姐姐.md "wikilink")》－葬心
-  - 2010年：《[還想結婚的女子](https://zh.wikipedia.org/wiki/還想結婚的女子 "wikilink")》－Beautiful
-    Girl
+  - 2010年：《[還想結婚的女子](https://zh.wikipedia.org/wiki/還想結婚的女子 "wikilink")》－Beautiful Girl
   - 2010年：《[Gloria](https://zh.wikipedia.org/wiki/Gloria "wikilink")》－一無所有（與簡鍾旭）
   - 2012年：《[暴力羅曼史](../Page/暴力羅曼史.md "wikilink")》－會這樣都是因為你
   - 2012年：《[順藤而上的你](../Page/順藤而上的你.md "wikilink")》－刻骨銘心的話
   - 2012年：《[黃金時刻](../Page/黃金時刻.md "wikilink")》－觸到雙頰前
   - 2012年：《[想你](../Page/想你.md "wikilink")》－浮現你的臉（Feat. Swings）
-  - 2013年：《[Love in Memory](../Page/Love_in_Memory.md "wikilink")》－Love
-    in Memory
-  - 2015年：《[Who Are
-    You－學校2015](../Page/Who_Are_You－學校2015.md "wikilink")》 -
-    Remember
+  - 2013年：《[Love in Memory](../Page/Love_in_Memory.md "wikilink")》－Love in Memory
+  - 2015年：《[Who Are You－學校2015](../Page/Who_Are_You－學校2015.md "wikilink")》 - Remember
   - 2015年：《[第二個二十歲](../Page/第二個二十歲.md "wikilink")》 - 美好的時節
 
 ### 電影OST
 
-  - 2006年：《[戀愛，不堪忍受的輕浮](https://zh.wikipedia.org/wiki/戀愛，不堪忍受的輕浮 "wikilink")》－버려야
-    할 것들
+  - 2006年：《[戀愛，不堪忍受的輕浮](https://zh.wikipedia.org/wiki/戀愛，不堪忍受的輕浮 "wikilink")》－버려야 할 것들
   - 2006年：《[伴我走天涯](https://zh.wikipedia.org/wiki/伴我走天涯 "wikilink")》－心
-  - 2009年：《[樂園](https://zh.wikipedia.org/wiki/樂園_\(電影\) "wikilink")》－보내는
-    마음（與Natural）
+  - 2009年：《[樂園](https://zh.wikipedia.org/wiki/樂園_\(電影\) "wikilink")》－보내는 마음（與Natural）
 
 ## 被華語歌手翻唱的歌曲
 
@@ -66,8 +59,7 @@
 
 ### 2009年
 
-  - 12月15、22日 : SBS
-    《[強心臟](https://zh.wikipedia.org/wiki/強心臟 "wikilink")》聖誕特輯：甜蜜或者苦澀(上、下）
+  - 12月15、22日 : SBS 《[強心臟](https://zh.wikipedia.org/wiki/強心臟 "wikilink")》聖誕特輯：甜蜜或者苦澀(上、下）
 
 ### 2012年
 
@@ -75,10 +67,8 @@
 
 ### 2015年
 
-  - 3月16日：SBS《[Healing Camp](../Page/Healing_Camp.md "wikilink")》，與
-    [Haha](../Page/Haha.md "wikilink")
-  - 6月14日：SBS《[Running Man](../Page/Running_Man.md "wikilink")》
-    Ep251，孫俊浩、金素賢
+  - 3月16日：SBS《[Healing Camp](../Page/Healing_Camp.md "wikilink")》，與 [Haha](../Page/Haha.md "wikilink")
+  - 6月14日：SBS《[Running Man](../Page/Running_Man.md "wikilink")》 Ep251，孫俊浩、金素賢
 
 ### 2016年
 
@@ -101,8 +91,4 @@
 
   -
 
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:忠清南道出身人物](https://zh.wikipedia.org/wiki/Category:忠清南道出身人物 "wikilink")
-[Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
+[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:忠清南道出身人物](https://zh.wikipedia.org/wiki/Category:忠清南道出身人物 "wikilink") [Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")

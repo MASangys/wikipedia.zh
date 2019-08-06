@@ -14,5 +14,4 @@
   - 重播：
       - 每周一至周三 16:00－17:00（2013年11月26日－未知）
 
-[Category:星空傳媒(台灣)電視節目](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視節目 "wikilink")
-[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink")
+[Category:星空傳媒(台灣)電視節目](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視節目 "wikilink") [Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink")

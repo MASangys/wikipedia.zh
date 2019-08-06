@@ -2,9 +2,7 @@
 
 ## 劇情介紹
 
-講述18歲叛逆少年姜景俊（[申原昊](../Page/申原昊.md "wikilink")
-飾）因為一場事故，靈魂意外進入30歲完美醫生徐潤財（[孔劉](../Page/孔劉.md "wikilink")
-飾）體內和糊塗女老師吉多蘭（[李珉廷](../Page/李珉廷.md "wikilink") 飾）之間的奇幻浪漫故事。
+講述18歲叛逆少年姜景俊（[申原昊](../Page/申原昊.md "wikilink") 飾）因為一場事故，靈魂意外進入30歲完美醫生徐潤財（[孔劉](../Page/孔劉.md "wikilink") 飾）體內和糊塗女老師吉多蘭（[李珉廷](../Page/李珉廷.md "wikilink") 飾）之間的奇幻浪漫故事。
 
 ## 演員陣容
 
@@ -372,8 +370,7 @@
 <!-- end list -->
 
   - 其他音樂
-      - Lynden David Hall《All You Need Is Love》（出自：《[Love
-        Actually](https://zh.wikipedia.org/wiki/愛是您·愛是我 "wikilink")》OST）
+      - Lynden David Hall《All You Need Is Love》（出自：《[Love Actually](https://zh.wikipedia.org/wiki/愛是您·愛是我 "wikilink")》OST）
     <!-- end list -->
       -
         羅孝尚登場時常使用的背景歌曲
@@ -409,8 +406,7 @@
 
 ## 同期競爭作品
 
-  - [SBS](../Page/SBS_\(韓國\).md "wikilink")：《[追擊者 THE
-    CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》
+  - [SBS](../Page/SBS_\(韓國\).md "wikilink")：《[追擊者 THE CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[光與影](../Page/光與影.md "wikilink")》、《[黃金時刻](../Page/黃金時刻.md "wikilink")》
 
 ## 腳註

@@ -8,14 +8,12 @@
   -
   -
   -
-  - *[Full
-    text](https://web.archive.org/web/20060508235645/http://www.pubmedcentral.gov/articlerender.fcgi?tool=pubmed)*
+  - *[Full text](https://web.archive.org/web/20060508235645/http://www.pubmedcentral.gov/articlerender.fcgi?tool=pubmed)*
 
   -
   -
   -
-  - *[Full
-    text](https://web.archive.org/web/20060508235645/http://www.pubmedcentral.gov/articlerender.fcgi?tool=pubmed)*
+  - *[Full text](https://web.archive.org/web/20060508235645/http://www.pubmedcentral.gov/articlerender.fcgi?tool=pubmed)*
 
   -
   - *[Full text (PDF)](http://www.annals.org/cgi/reprint/136/12/896)*
@@ -25,16 +23,13 @@
 
   -
   -
-  - *[Full
-    text(PDF)](http://onlinelibrary.wiley.com/doi/10.1111/j.1528-1167.2010.02533.x/pdf)*
+  - *[Full text(PDF)](http://onlinelibrary.wiley.com/doi/10.1111/j.1528-1167.2010.02533.x/pdf)*
 
-*This article incorporates public domain text from [The U.S. National
-Library of Medicine](http://ghr.nlm.nih.gov)*
+*This article incorporates public domain text from [The U.S. National Library of Medicine](http://ghr.nlm.nih.gov)*
 
 ## 外部链接
 
   -
   -
   -
-  - [Nomenclature for factors of the HLA
-    system](https://web.archive.org/web/20041210030749/http://www.anthonynolan.org.uk/HIG/lists/nomenc.html)
+  - [Nomenclature for factors of the HLA system](https://web.archive.org/web/20041210030749/http://www.anthonynolan.org.uk/HIG/lists/nomenc.html)

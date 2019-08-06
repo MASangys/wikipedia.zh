@@ -17,14 +17,6 @@
 
   -
   -
-[Category:虚构美国人](https://zh.wikipedia.org/wiki/Category:虚构美国人 "wikilink")
-[Category:虚构特务与间谍](https://zh.wikipedia.org/wiki/Category:虚构特务与间谍 "wikilink")
-[Category:虚构邮政工人](https://zh.wikipedia.org/wiki/Category:虚构邮政工人 "wikilink")
-[Category:马里布漫画人物](https://zh.wikipedia.org/wiki/Category:马里布漫画人物 "wikilink")
-[Category:漫威漫画角色](https://zh.wikipedia.org/wiki/Category:漫威漫画角色 "wikilink")
-[Category:黑衣人_(系列)](https://zh.wikipedia.org/wiki/Category:黑衣人_\(系列\) "wikilink")
-[Category:科幻电影角色](https://zh.wikipedia.org/wiki/Category:科幻电影角色 "wikilink")
-[Category:MIB星際戰警角色](https://zh.wikipedia.org/wiki/Category:MIB星際戰警角色 "wikilink")
-[Category:1997年引入虚构人物](https://zh.wikipedia.org/wiki/Category:1997年引入虚构人物 "wikilink")
+[Category:虚构美国人](https://zh.wikipedia.org/wiki/Category:虚构美国人 "wikilink") [Category:虚构特务与间谍](https://zh.wikipedia.org/wiki/Category:虚构特务与间谍 "wikilink") [Category:虚构邮政工人](https://zh.wikipedia.org/wiki/Category:虚构邮政工人 "wikilink") [Category:马里布漫画人物](https://zh.wikipedia.org/wiki/Category:马里布漫画人物 "wikilink") [Category:漫威漫画角色](https://zh.wikipedia.org/wiki/Category:漫威漫画角色 "wikilink") [Category:黑衣人_(系列)](https://zh.wikipedia.org/wiki/Category:黑衣人_\(系列\) "wikilink") [Category:科幻电影角色](https://zh.wikipedia.org/wiki/Category:科幻电影角色 "wikilink") [Category:MIB星際戰警角色](https://zh.wikipedia.org/wiki/Category:MIB星際戰警角色 "wikilink") [Category:1997年引入虚构人物](https://zh.wikipedia.org/wiki/Category:1997年引入虚构人物 "wikilink")
 
 1.

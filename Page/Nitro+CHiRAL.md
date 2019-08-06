@@ -3,20 +3,15 @@
 ## 作品列表
 
   - 2005年2月25日 - [咎狗之血](../Page/咎狗之血.md "wikilink")
-  - 2006年10月27日 - [Lamento -BEYOND THE
-    VOID-](../Page/Lamento_-BEYOND_THE_VOID-.md "wikilink")
+  - 2006年10月27日 - [Lamento -BEYOND THE VOID-](../Page/Lamento_-BEYOND_THE_VOID-.md "wikilink")
   - 2008年1月25日 -
   - 2008年5月29日 - [咎狗之血 True Blood](../Page/咎狗之血.md "wikilink")
-  - 2008年12月19日 - [sweet
-    pool](https://zh.wikipedia.org/wiki/sweet_pool "wikilink")
+  - 2008年12月19日 - [sweet pool](https://zh.wikipedia.org/wiki/sweet_pool "wikilink")
   - 2010年6月7日 - （CHiRAL MOBiLE配信）
   - 2010年12月23日 - [咎狗之血 True Blood Portable](../Page/咎狗之血.md "wikilink")
-  - 2012年3月23日 - [DRAMAtical
-    Murder](https://zh.wikipedia.org/wiki/DRAMAtical_Murder "wikilink")
-  - 2013年4月26日 - [DRAMAtical Murder
-    re:connect](https://zh.wikipedia.org/wiki/DRAMAtical_Murder "wikilink")
-  - 2014年10月30日 - [DRAMAtical Murder
-    re:code](https://zh.wikipedia.org/wiki/DRAMAtical_Murder "wikilink")
+  - 2012年3月23日 - [DRAMAtical Murder](https://zh.wikipedia.org/wiki/DRAMAtical_Murder "wikilink")
+  - 2013年4月26日 - [DRAMAtical Murder re:connect](https://zh.wikipedia.org/wiki/DRAMAtical_Murder "wikilink")
+  - 2014年10月30日 - [DRAMAtical Murder re:code](https://zh.wikipedia.org/wiki/DRAMAtical_Murder "wikilink")
 
 ## 工作人員
 
@@ -43,7 +38,4 @@
 
   - [Nitro+](https://web.archive.org/web/20090110114236/http://www.nitroplus.co.jp/pc/)
 
-[Category:Nitro+CHiRAL](https://zh.wikipedia.org/wiki/Category:Nitro+CHiRAL "wikilink")
-[Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
+[Category:Nitro+CHiRAL](https://zh.wikipedia.org/wiki/Category:Nitro+CHiRAL "wikilink") [Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")

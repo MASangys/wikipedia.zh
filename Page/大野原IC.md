@@ -14,8 +14,7 @@
 
 ## 歷史
 
-  - 1987年12月16日 -
-    [高松自動車道](../Page/高松自動車道.md "wikilink")[善通寺IC至](https://zh.wikipedia.org/wiki/善通寺IC "wikilink")[川之江JCT之間開通](https://zh.wikipedia.org/wiki/川之江JCT "wikilink")，此交流道也同時啟用。
+  - 1987年12月16日 - [高松自動車道](../Page/高松自動車道.md "wikilink")[善通寺IC至](https://zh.wikipedia.org/wiki/善通寺IC "wikilink")[川之江JCT之間開通](https://zh.wikipedia.org/wiki/川之江JCT "wikilink")，此交流道也同時啟用。
 
 ## 交流道周邊
 
@@ -24,9 +23,7 @@
 ## 鄰近設施
 
   - [高松自動車道](../Page/高松自動車道.md "wikilink")
-    (4)[讚岐豐中IC](../Page/讚岐豐中IC.md "wikilink") - (5)**大野原IC** -
-    [豐濱SA](https://zh.wikipedia.org/wiki/豐濱SA "wikilink") -
-    (6)[川之江JCT](https://zh.wikipedia.org/wiki/川之江JCT "wikilink")
+    (4)[讚岐豐中IC](../Page/讚岐豐中IC.md "wikilink") - (5)**大野原IC** - [豐濱SA](https://zh.wikipedia.org/wiki/豐濱SA "wikilink") - (6)[川之江JCT](https://zh.wikipedia.org/wiki/川之江JCT "wikilink")
 
 ## 相關項目
 
@@ -36,5 +33,4 @@
 
   - [西日本高速道路](http://www.w-nexco.co.jp/)
 
-[Category:日本交流道_O](https://zh.wikipedia.org/wiki/Category:日本交流道_O "wikilink")
-[Category:香川縣交流道](https://zh.wikipedia.org/wiki/Category:香川縣交流道 "wikilink")
+[Category:日本交流道_O](https://zh.wikipedia.org/wiki/Category:日本交流道_O "wikilink") [Category:香川縣交流道](https://zh.wikipedia.org/wiki/Category:香川縣交流道 "wikilink")

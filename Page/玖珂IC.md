@@ -14,8 +14,7 @@
 
 ## 歷史
 
-  - 1992年6月25日 -
-    [山陽自動車道](../Page/山陽自動車道.md "wikilink")[熊毛IC](../Page/熊毛IC.md "wikilink")至[岩國IC](../Page/岩國IC.md "wikilink")之間開通，此交流道也同時啟用。
+  - 1992年6月25日 - [山陽自動車道](../Page/山陽自動車道.md "wikilink")[熊毛IC](../Page/熊毛IC.md "wikilink")至[岩國IC](../Page/岩國IC.md "wikilink")之間開通，此交流道也同時啟用。
 
 ## 收費站設施
 
@@ -36,9 +35,7 @@
 ## 鄰近設施
 
   - [山陽自動車道](../Page/山陽自動車道.md "wikilink")
-    (34)[岩國IC](../Page/岩國IC.md "wikilink") -
-    [玖珂PA](https://zh.wikipedia.org/wiki/玖珂PA "wikilink") -
-    (35)**玖珂IC** - (36)[熊毛IC](../Page/熊毛IC.md "wikilink")
+    (34)[岩國IC](../Page/岩國IC.md "wikilink") - [玖珂PA](https://zh.wikipedia.org/wiki/玖珂PA "wikilink") - (35)**玖珂IC** - (36)[熊毛IC](../Page/熊毛IC.md "wikilink")
 
 ## 相關項目
 
@@ -48,5 +45,4 @@
 
   - [西日本高速道路株式會社](http://www.w-nexco.co.jp/)
 
-[Category:日本交流道_Ku](https://zh.wikipedia.org/wiki/Category:日本交流道_Ku "wikilink")
-[Category:山口縣交流道](https://zh.wikipedia.org/wiki/Category:山口縣交流道 "wikilink")
+[Category:日本交流道_Ku](https://zh.wikipedia.org/wiki/Category:日本交流道_Ku "wikilink") [Category:山口縣交流道](https://zh.wikipedia.org/wiki/Category:山口縣交流道 "wikilink")

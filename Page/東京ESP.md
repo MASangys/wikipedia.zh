@@ -50,8 +50,7 @@
     小学生。黑道江户山會的會長女兒，當地人都害怕她，因此没有一个朋友。自從發現拥有飛天能力的小企後，每天给它送食物，也因此與凛華和京太郎認識。在仏田组要挟江户山會時被抓作人質，被困的期間中獲得超能力。
     第二部中成為ESP学園中等部的2年生、警察的搜査協力者。對步抱有好感，也積極的應援喜歡是臼的蓮。
       - 能力：Psychometry
-        可以看到所接觸物體上的思念或記憶或是過去型態的超能力，甚至能完全模仿過去使用者的動作（Remember -
-        追憶），但動作超出身體的負擔會做成肌肉酸痛。
+        可以看到所接觸物體上的思念或記憶或是過去型態的超能力，甚至能完全模仿過去使用者的動作（Remember - 追憶），但動作超出身體的負擔會做成肌肉酸痛。
 
 <!-- end list -->
 
@@ -285,8 +284,7 @@
   - 音響擔當：杉山好美
   - 音響工作室：Studio2010:
   - 音響製作：[樂音舍](https://zh.wikipedia.org/wiki/樂音舍 "wikilink")
-  - 音樂：Evan Call（[Elements
-    Garden](../Page/Elements_Garden.md "wikilink")）
+  - 音樂：Evan Call（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
   - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")
   - 音樂製作人：[齋藤滋](../Page/齋藤滋.md "wikilink")、吉江輝成
   - 執行製作人：[安田猛](https://zh.wikipedia.org/wiki/安田猛_\(角川書店\) "wikilink")
@@ -298,9 +296,7 @@
 ### 主題曲
 
   - 片頭曲「」（第2話－第12話）
-    作詞、作曲：[上松範康](../Page/上松範康.md "wikilink")（[Elements
-    Garden](../Page/Elements_Garden.md "wikilink")），編曲：[藤間仁](../Page/藤間仁.md "wikilink")（Elements
-    Garden），主唱：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")
+    作詞、作曲：[上松範康](../Page/上松範康.md "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")），編曲：[藤間仁](../Page/藤間仁.md "wikilink")（Elements Garden），主唱：[飛蘭](https://zh.wikipedia.org/wiki/飛蘭 "wikilink")
     第1話未使用。
   - 片尾曲「」（第1話－第3話、第5話－第11話）
     作詞：YUI，作曲：紫煉，編曲：紫煉、妖精帝國，主唱：[妖精帝國](../Page/妖精帝國.md "wikilink")
@@ -479,27 +475,18 @@
 
 ## 外部連結
 
-  - [瀨川初『東京ESP』｜web
-    KADOKAWA（原作公式網站）](http://www.kadokawa.co.jp/sp/201305-03/)
+  - [瀨川初『東京ESP』｜web KADOKAWA（原作公式網站）](http://www.kadokawa.co.jp/sp/201305-03/)
 
   - [少年ACE公式網站](http://www.kadokawa.co.jp/ace/)
 
   - [電視動畫公式網站](http://www.tokyo-esp.org/)
 
-  - [东京ESP
-    爱奇艺中文独播专区](https://web.archive.org/web/20141208050918/http://www.iqiyi.com/a_19rrgiixqd.html)
+  - [东京ESP 爱奇艺中文独播专区](https://web.archive.org/web/20141208050918/http://www.iqiyi.com/a_19rrgiixqd.html)
 
   -
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊少年Ace](https://zh.wikipedia.org/wiki/Category:月刊少年Ace "wikilink")
-[Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink")
-[Category:格鬥技漫畫](https://zh.wikipedia.org/wiki/Category:格鬥技漫畫 "wikilink")
-[Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink")
-[Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink")
-[Category:超能力題材作品](https://zh.wikipedia.org/wiki/Category:超能力題材作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊少年Ace](https://zh.wikipedia.org/wiki/Category:月刊少年Ace "wikilink") [Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink") [Category:格鬥技漫畫](https://zh.wikipedia.org/wiki/Category:格鬥技漫畫 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink") [Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink") [Category:超能力題材作品](https://zh.wikipedia.org/wiki/Category:超能力題材作品 "wikilink")
 
-1.  [超能力動作《東京ESP》動畫化決定！《Sword Art
-    Online刀劍神域》進軍美國！](https://www.kadokawa.com.tw/p9-news_detail.php?seriesa=8&id=634)
+1.  [超能力動作《東京ESP》動畫化決定！《Sword Art Online刀劍神域》進軍美國！](https://www.kadokawa.com.tw/p9-news_detail.php?seriesa=8&id=634)
 2.  <http://f128052035.pixnet.net/blog/post/42813271>
 3.  <http://www.tokyo-esp.org/>

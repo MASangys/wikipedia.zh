@@ -16,8 +16,7 @@ PHZ-89火箭炮的自动装弹系统位于火箭发射器之前、动力室的�
 
 <references />
 
-  - [PGZ-88Self-Propelled Anti-Aircraft
-    Artillery](http://en.valka.cz/viewtopic.php/t/38346)
+  - [PGZ-88Self-Propelled Anti-Aircraft Artillery](http://en.valka.cz/viewtopic.php/t/38346)
   - Jane's Land Based Air Defence 2005-2006
 
 ## 参见

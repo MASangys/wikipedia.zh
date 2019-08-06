@@ -1,12 +1,8 @@
-**IGG
-Inc.**（），在2006年，由蔡宗建（董事長）和池元（首席執行官），於[福建](https://zh.wikipedia.org/wiki/福建 "wikilink")[福州成立](https://zh.wikipedia.org/wiki/福州 "wikilink")「福州天盟數碼有限公司」。再在2009年，於新加坡成立「IGG
-Singapore Pte. Ltd.」（總部）（前身為「Skyunion Pte. Ltd.」）。
+**IGG Inc.**（），在2006年，由蔡宗建（董事長）和池元（首席執行官），於[福建](https://zh.wikipedia.org/wiki/福建 "wikilink")[福州成立](https://zh.wikipedia.org/wiki/福州 "wikilink")「福州天盟數碼有限公司」。再在2009年，於新加坡成立「IGG Singapore Pte. Ltd.」（總部）（前身為「Skyunion Pte. Ltd.」）。
 
 業務在全球經營遊戲研發、授權、運營、推廣、營銷及伺服器託管\[1\]，而最為人熟悉是《神界》、《海盜王》、《天使之戀》、《瘋狂診所》、《魔幻花園》、《瘋狂尋寶》、《銀龍之翼》、《德州撲克至尊版》、《王國紀元》《Wegamers》等。
 
-股份在2013年10月18日於[港交所](https://zh.wikipedia.org/wiki/港交所 "wikilink")[創業板上市](https://zh.wikipedia.org/wiki/香港創業板 "wikilink")，當時代碼為8002.HK。配售價格為2.4至2.91港元，配售股份為327,434,000股，集資額為9.5億港元\[2\]\[3\]。其中被日本彈珠機商家[Dynam
-Japan
-Holdings旗下大樂門香港](https://zh.wikipedia.org/wiki/Dynam_Japan_Holdings "wikilink")，以1,500萬美元（1.2億港元）進行認購股份\[4\]。
+股份在2013年10月18日於[港交所](https://zh.wikipedia.org/wiki/港交所 "wikilink")[創業板上市](https://zh.wikipedia.org/wiki/香港創業板 "wikilink")，當時代碼為8002.HK。配售價格為2.4至2.91港元，配售股份為327,434,000股，集資額為9.5億港元\[2\]\[3\]。其中被日本彈珠機商家[Dynam Japan Holdings旗下大樂門香港](https://zh.wikipedia.org/wiki/Dynam_Japan_Holdings "wikilink")，以1,500萬美元（1.2億港元）進行認購股份\[4\]。
 
 2015年7月7日，該公司由創業板轉往主板上市，代碼為0799.HK\[5\]。
 
@@ -181,9 +177,7 @@ Holdings旗下大樂門香港](https://zh.wikipedia.org/wiki/Dynam_Japan_Holding
 
 IGG股份於同日上午11時47分起短暫停牌\[9\]對於全年業績疑被提早外洩事件，公司一度未有回應。\[10\]IGG於停牌3小時後，才刊發短暫停牌公告，聲稱「以待報章報導的澄清及公司2018年度全年業績的刊發」\[11\]，不過，IGG於當晚9時40分才刊發其澄清公告，6日刊登的報道當中有關於公司的若干財務資料，包括截至2018年12月31日止年度的淨利潤、毛利率、每股盈利及建議股息等相關財務資料，乃由公司委聘的公關公司所管理的移動網絡平台所洩露，而上傳至移動網絡平台的相關財務資料乃由公關公司的技術故障所致，至於該等報道的內容（包括相關財務資料）正確，強調有關報道刊登時未經公司董事會批准或授權。\[12\]此澄清公告曲線承認業績早洩事件，及以免市場存在有人藉內幕消息交易的揣測。
 
-翌日（2019年3月7日）早上，IGG舉行的分析員會議上，會議一開始，皓天財經公關派員向與會人士道歉，聲稱「AI抓取出現問題」才引發今次的錯誤。而原定早上11時舉行的業績媒體發佈會，皓天財經公關繼續固有對待記者的方式，不單沒有將IGG一度「早洩」的簡報派給在場記者，IGG管理層更遲到約15分鐘，一度令部分在場記者懷疑發佈會是否取消，而IGG主席蔡宗建最終沒有出席是次業績發佈會\[13\]
-對於外洩事件，有記者直言會不會轉換公關公司，IGG首席運營官許元稱在6日早上才知道事件，認為從其角度而言「可以接受」，首席財務官沈潔蕾更稱讚今次事件的始作俑者皓天財經在危機處理上「頗專業」
-，但無正面回應日後會否撤換公關公司。\[14\]被問及事件是否有人需要負責，以及證監會有否接觸公司，許元稱已跟足程序處理，包括自願申請停牌以及於聯交所上刊發澄清公告，並無直接回應監管方面是否有行動。\[15\]
+翌日（2019年3月7日）早上，IGG舉行的分析員會議上，會議一開始，皓天財經公關派員向與會人士道歉，聲稱「AI抓取出現問題」才引發今次的錯誤。而原定早上11時舉行的業績媒體發佈會，皓天財經公關繼續固有對待記者的方式，不單沒有將IGG一度「早洩」的簡報派給在場記者，IGG管理層更遲到約15分鐘，一度令部分在場記者懷疑發佈會是否取消，而IGG主席蔡宗建最終沒有出席是次業績發佈會\[13\] 對於外洩事件，有記者直言會不會轉換公關公司，IGG首席運營官許元稱在6日早上才知道事件，認為從其角度而言「可以接受」，首席財務官沈潔蕾更稱讚今次事件的始作俑者皓天財經在危機處理上「頗專業」 ，但無正面回應日後會否撤換公關公司。\[14\]被問及事件是否有人需要負責，以及證監會有否接觸公司，許元稱已跟足程序處理，包括自願申請停牌以及於聯交所上刊發澄清公告，並無直接回應監管方面是否有行動。\[15\]
 
 ## 參考
 
@@ -191,39 +185,22 @@ IGG股份於同日上午11時47分起短暫停牌\[9\]對於全年業績疑被�
 
   - [IGG.com](http://www.igg.com/)
 
-[Category:中國民營企業](https://zh.wikipedia.org/wiki/Category:中國民營企業 "wikilink")
-[Category:福州公司](https://zh.wikipedia.org/wiki/Category:福州公司 "wikilink")
-[Category:新加坡公司](https://zh.wikipedia.org/wiki/Category:新加坡公司 "wikilink")
-[Category:網路遊戲運營商](https://zh.wikipedia.org/wiki/Category:網路遊戲運營商 "wikilink")
-[Category:香港上市資訊科技公司](https://zh.wikipedia.org/wiki/Category:香港上市資訊科技公司 "wikilink")
+[Category:中國民營企業](https://zh.wikipedia.org/wiki/Category:中國民營企業 "wikilink") [Category:福州公司](https://zh.wikipedia.org/wiki/Category:福州公司 "wikilink") [Category:新加坡公司](https://zh.wikipedia.org/wiki/Category:新加坡公司 "wikilink") [Category:網路遊戲運營商](https://zh.wikipedia.org/wiki/Category:網路遊戲運營商 "wikilink") [Category:香港上市資訊科技公司](https://zh.wikipedia.org/wiki/Category:香港上市資訊科技公司 "wikilink")
 
-[Category:2006年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2006年開業電子遊戲公司 "wikilink")
-[Category:中国大陆电子游戏公司](https://zh.wikipedia.org/wiki/Category:中国大陆电子游戏公司 "wikilink")
-[Category:香港交易所上市認股證](https://zh.wikipedia.org/wiki/Category:香港交易所上市認股證 "wikilink")
+[Category:2006年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2006年開業電子遊戲公司 "wikilink") [Category:中国大陆电子游戏公司](https://zh.wikipedia.org/wiki/Category:中国大陆电子游戏公司 "wikilink") [Category:香港交易所上市認股證](https://zh.wikipedia.org/wiki/Category:香港交易所上市認股證 "wikilink")
 
 1.  [IGG Inc.簡介（英文版）](http://www.igg.com/about/about.php)
-2.  [【新股上市】ＩＧＧ獲７倍超額認購，料配售上限定價](http://www.etnet.com.hk/www/tc/news/categorized_news_detail.php?newsid=ETN231010174&page=1&category=latest)經濟通
-    2013年10月10日
+2.  [【新股上市】ＩＧＧ獲７倍超額認購，料配售上限定價](http://www.etnet.com.hk/www/tc/news/categorized_news_detail.php?newsid=ETN231010174&page=1&category=latest)經濟通 2013年10月10日
 3.  [IGG Inc.配售資料](http://investor.igg.com/CWP101_c.pdf)
-4.  [手機網遊商IGG傳獲超購近10倍](http://paper.wenweipo.com/2013/10/15/FI1310150023.htm)[文匯報](https://zh.wikipedia.org/wiki/文匯報 "wikilink")
-    2013年10月14日
+4.  [手機網遊商IGG傳獲超購近10倍](http://paper.wenweipo.com/2013/10/15/FI1310150023.htm)[文匯報](https://zh.wikipedia.org/wiki/文匯報 "wikilink") 2013年10月14日
 5.  [由香港聯合交易所有限公司創業板轉往主板上市通告](http://www.hkexnews.hk/listedco/listconews/sehk/2015/0625/LTN20150625898_C.pdf)
 6.
-7.  [【業績洩露】IGG業績數據 公關意外流出！,
-    蘋果財經即時新聞, 2019年3月6日 10:40am](https://hk.finance.appledaily.com/finance/realtime/article/20190306/59335696)
-8.  [IGG(00799)去年業績被公關意外洩露 全年多賺22% ,
-    華富財經, 2019年3月6日 11:01am](http://www.quamnet.com/newscontent.action?articleId=6036540&listSectionCode=NEW_ALL)
-9.  [IGG短暫停牌,
-    交易所通告, 2019年3月6日 11:59am](http://www3.hkexnews.hk/listedco/listconews/SEHK/2019/0306/LTN201903069992_C.HTM)
-10. [IGG業績外洩　股價偷步漲2%突停牌,
-    香港經濟日報, 2019年3月6日 11:52am](https://wealth.hket.com/article/2286515/IGG%E6%A5%AD%E7%B8%BE%E5%A4%96%E6%B4%A9%E3%80%80%E8%82%A1%E5%83%B9%E5%81%B7%E6%AD%A5%E6%BC%B22-%E7%AA%81%E5%81%9C%E7%89%8C?mtc=b0002)
-11. [IGG短暫停牌公告,
-    港交所披露易, 2019年3月6日 2:09pm](http://www3.hkexnews.hk/listedco/listconews/SEHK/2019/0306/LTN201903069990_C.PDF)
-12. [IGG有關報章報道的澄清公告及復牌,
-    港交所披露易, 2019年3月6日 9:40pm](http://www3.hkexnews.hk/listedco/listconews/SEHK/2019/0306/LTN201903061420_C.pdf)
-13. [【業績早洩】皓天道歉認AI出錯 IGG午後跌8%,
-    蘋果財經即時新聞, 2019年3月7日](https://hk.finance.appledaily.com/finance/realtime/article/20190307/59339491)
-14. [IGG：不放棄中國市場　年內推至少10款遊戲,
-    東網, 2019年3月7日 12:49](https://hk.on.cc/hk/bkn/cnt/finance/20190307/bkn-20190307124954237-0307_00842_001.html)
-15. [IGG：業績外洩失誤可接受，未回應證監會有否接觸公司,
-    經濟通, 2019年3月7日 12:07](http://www.etnet.com.hk/www/tc/stocks/realtime/quote_news_detail.php?section=related&code=799&newsid=ETN290307500)
+7.  [【業績洩露】IGG業績數據 公關意外流出！, 蘋果財經即時新聞, 2019年3月6日 10:40am](https://hk.finance.appledaily.com/finance/realtime/article/20190306/59335696)
+8.  [IGG(00799)去年業績被公關意外洩露 全年多賺22% , 華富財經, 2019年3月6日 11:01am](http://www.quamnet.com/newscontent.action?articleId=6036540&listSectionCode=NEW_ALL)
+9.  [IGG短暫停牌, 交易所通告, 2019年3月6日 11:59am](http://www3.hkexnews.hk/listedco/listconews/SEHK/2019/0306/LTN201903069992_C.HTM)
+10. [IGG業績外洩　股價偷步漲2%突停牌, 香港經濟日報, 2019年3月6日 11:52am](https://wealth.hket.com/article/2286515/IGG%E6%A5%AD%E7%B8%BE%E5%A4%96%E6%B4%A9%E3%80%80%E8%82%A1%E5%83%B9%E5%81%B7%E6%AD%A5%E6%BC%B22-%E7%AA%81%E5%81%9C%E7%89%8C?mtc=b0002)
+11. [IGG短暫停牌公告, 港交所披露易, 2019年3月6日 2:09pm](http://www3.hkexnews.hk/listedco/listconews/SEHK/2019/0306/LTN201903069990_C.PDF)
+12. [IGG有關報章報道的澄清公告及復牌, 港交所披露易, 2019年3月6日 9:40pm](http://www3.hkexnews.hk/listedco/listconews/SEHK/2019/0306/LTN201903061420_C.pdf)
+13. [【業績早洩】皓天道歉認AI出錯 IGG午後跌8%, 蘋果財經即時新聞, 2019年3月7日](https://hk.finance.appledaily.com/finance/realtime/article/20190307/59339491)
+14. [IGG：不放棄中國市場　年內推至少10款遊戲, 東網, 2019年3月7日 12:49](https://hk.on.cc/hk/bkn/cnt/finance/20190307/bkn-20190307124954237-0307_00842_001.html)
+15. [IGG：業績外洩失誤可接受，未回應證監會有否接觸公司, 經濟通, 2019年3月7日 12:07](http://www.etnet.com.hk/www/tc/stocks/realtime/quote_news_detail.php?section=related&code=799&newsid=ETN290307500)

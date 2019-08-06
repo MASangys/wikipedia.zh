@@ -1,5 +1,4 @@
-《**電影 光之美少女 All Stars New Stage3
-永遠的朋友**》於2014年3月15日在[日本](../Page/日本.md "wikilink")上映\[1\]。此作品是第六次集結[光之美少女系列](../Page/光之美少女系列.md "wikilink")的結合作品。
+《**電影 光之美少女 All Stars New Stage3 永遠的朋友**》於2014年3月15日在[日本](../Page/日本.md "wikilink")上映\[1\]。此作品是第六次集結[光之美少女系列](../Page/光之美少女系列.md "wikilink")的結合作品。
 
 ## 故事簡介
 
@@ -177,16 +176,13 @@
   -
 
       -
-        由黑天使、 花天使、 夢天使 、桃天使、 花蕾天使、 旋律天使、 快樂天使、
-        愛心天使及可愛天使一起聯合使出拳擊，把敵人打至四散。這是光之美少女
-        All Stars DX3的全新升級攻擊。
+        由黑天使、 花天使、 夢天使 、桃天使、 花蕾天使、 旋律天使、 快樂天使、 愛心天使及可愛天使一起聯合使出拳擊，把敵人打至四散。這是光之美少女 All Stars DX3的全新升級攻擊。
 
 ### 僅限於All Stars 系列電影登場的光之美少女與其搭檔
 
   -
 
-    前作劇場版《[光之美少女 All Stars New Stage
-    未來的朋友](../Page/光之美少女_All_Stars_New_Stage_未來的朋友.md "wikilink")》的第一女主角。
+    前作劇場版《[光之美少女 All Stars New Stage 未來的朋友](../Page/光之美少女_All_Stars_New_Stage_未來的朋友.md "wikilink")》的第一女主角。
 
     轉學到橫濱的中學生，光之美少女的狂熱支持者，在本作中她擁有了自己的搭檔精靈：古萊魯與恩恩。
 
@@ -241,9 +237,7 @@
 <!-- end list -->
 
   - 「」
-    作詞：只野菜摘，作曲：小杉保夫，編曲：Dr.Usui，主唱：[本名陽子](../Page/本名陽子.md "wikilink")
-    、[樹元織江](../Page/樹元織江.md "wikilink")
-    、[三瓶由布子](../Page/三瓶由布子.md "wikilink")、[沖佳苗](../Page/沖佳苗.md "wikilink")、[水樹奈奈](../Page/水樹奈奈.md "wikilink")、[小清水亞美](../Page/小清水亞美.md "wikilink")、[福圓美里](../Page/福圓美里.md "wikilink")、生天目仁美、中島愛
+    作詞：只野菜摘，作曲：小杉保夫，編曲：Dr.Usui，主唱：[本名陽子](../Page/本名陽子.md "wikilink") 、[樹元織江](../Page/樹元織江.md "wikilink") 、[三瓶由布子](../Page/三瓶由布子.md "wikilink")、[沖佳苗](../Page/沖佳苗.md "wikilink")、[水樹奈奈](../Page/水樹奈奈.md "wikilink")、[小清水亞美](../Page/小清水亞美.md "wikilink")、[福圓美里](../Page/福圓美里.md "wikilink")、生天目仁美、中島愛
 
 ## 製作人員
 
@@ -256,21 +250,15 @@
   - 色彩設計：澤田豐二
   - 製作擔當：藤岡和實
   - 動畫製作：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
-  - 製作：[電影光之美少女All Stars
-    NS3製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（東映動畫、東映、[Bandai](https://zh.wikipedia.org/wiki/Bandai "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[Marvelous
-    AQL](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink")、木下工務店）
+  - 製作：[電影光之美少女All Stars NS3製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（東映動畫、東映、[Bandai](https://zh.wikipedia.org/wiki/Bandai "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[Marvelous AQL](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink")、木下工務店）
   - 發行：[東映](../Page/東映.md "wikilink")
 
 ## 參考資料
 
 ## 外部連結
 
-  - [光之美少女 All Stars New Stage 3 永遠的朋友
-    官方網站](http://www.toei-anim.co.jp/movie/2014_precure_allstars/)
+  - [光之美少女 All Stars New Stage 3 永遠的朋友 官方網站](http://www.toei-anim.co.jp/movie/2014_precure_allstars/)
 
-[Category:2014年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2014年日本劇場動畫 "wikilink")
-[Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink")
-[Category:動畫跨界作品](https://zh.wikipedia.org/wiki/Category:動畫跨界作品 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
+[Category:2014年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2014年日本劇場動畫 "wikilink") [Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink") [Category:動畫跨界作品](https://zh.wikipedia.org/wiki/Category:動畫跨界作品 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
 1.  上映消息來源於[プリキュア「ニューステージ」３月最終章](http://www.nikkansports.com/entertainment/news/f-et-tp0-20131026-1209446.html)

@@ -1,7 +1,6 @@
 [YACA_20130430.jpg](https://zh.wikipedia.org/wiki/File:YACA_20130430.jpg "fig:YACA_20130430.jpg")
 
-**YACA**全稱**Young Animation and Comic
-Association**（無正式中文名稱，直譯為**青年動漫協會**，音譯**雅卡**），又稱為**YACA動漫協會**，是[中華人民共和國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[广州市](../Page/广州市.md "wikilink")的一個民間[動漫](../Page/動漫.md "wikilink")[社團組織](https://zh.wikipedia.org/wiki/社團 "wikilink")，於2003年4月正式成立，創會會長為鄧國堅，业务主管是广州市[越秀区文学艺术界联合会](https://zh.wikipedia.org/wiki/越秀区 "wikilink")。\[1\]
+**YACA**全稱**Young Animation and Comic Association**（無正式中文名稱，直譯為**青年動漫協會**，音譯**雅卡**），又稱為**YACA動漫協會**，是[中華人民共和國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[广州市](../Page/广州市.md "wikilink")的一個民間[動漫](../Page/動漫.md "wikilink")[社團組織](https://zh.wikipedia.org/wiki/社團 "wikilink")，於2003年4月正式成立，創會會長為鄧國堅，业务主管是广州市[越秀区文学艺术界联合会](https://zh.wikipedia.org/wiki/越秀区 "wikilink")。\[1\]
 
 ## 簡介
 
@@ -252,13 +251,9 @@ YACA是广州第一个在政府注册的民间动漫组织，也是中国华南�
 
   -
   -
-  - [历届YACA报道专题](https://web.archive.org/web/20130430022744/http://game.21cn.com/zhuanti/comic/yaca201202/index.shtml)
-    - 21CN游戏频道
+  - [历届YACA报道专题](https://web.archive.org/web/20130430022744/http://game.21cn.com/zhuanti/comic/yaca201202/index.shtml) - 21CN游戏频道
 
-[Category:同人誌即賣會](https://zh.wikipedia.org/wiki/Category:同人誌即賣會 "wikilink")
-[Category:广州展览](https://zh.wikipedia.org/wiki/Category:广州展览 "wikilink")
-[Category:中國民間組織](https://zh.wikipedia.org/wiki/Category:中國民間組織 "wikilink")
-[Category:中国青年组织](https://zh.wikipedia.org/wiki/Category:中国青年组织 "wikilink")
+[Category:同人誌即賣會](https://zh.wikipedia.org/wiki/Category:同人誌即賣會 "wikilink") [Category:广州展览](https://zh.wikipedia.org/wiki/Category:广州展览 "wikilink") [Category:中國民間組織](https://zh.wikipedia.org/wiki/Category:中國民間組織 "wikilink") [Category:中国青年组织](https://zh.wikipedia.org/wiki/Category:中国青年组织 "wikilink")
 
 1.
 

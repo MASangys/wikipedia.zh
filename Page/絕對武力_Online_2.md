@@ -102,8 +102,7 @@
 
 <!-- end list -->
 
-  - [-{zh-cn:洛奇英雄传 ;
-    zh-tw:洛奇英雄傳}-模式](https://zh.wikipedia.org/wiki/洛奇英雄传 "wikilink")
+  - [-{zh-cn:洛奇英雄传 ; zh-tw:洛奇英雄傳}-模式](https://zh.wikipedia.org/wiki/洛奇英雄传 "wikilink")
 
 <!-- end list -->
 
@@ -212,8 +211,7 @@
 
 ### 等級區別
 
-  - 如其他網路遊戲一樣，絕對武力Online
-    2中也有透過比賽來獲取經驗值提升等級的設計，實際上不代表玩家的技術水平。然而到達一定的等級數系統就會派發道具給予玩家作為獎勵。
+  - 如其他網路遊戲一樣，絕對武力Online 2中也有透過比賽來獲取經驗值提升等級的設計，實際上不代表玩家的技術水平。然而到達一定的等級數系統就會派發道具給予玩家作為獎勵。
 
 ## 研發及發行
 
@@ -266,8 +264,7 @@
 
 <!-- end list -->
 
-  - 2013年7月26日，韓國NEXON宣佈8月1日正式公測，但因某些原因改為2013年8月7日公測，並發佈「Big
-    City」（大城市）地圖的宣傳影片。
+  - 2013年7月26日，韓國NEXON宣佈8月1日正式公測，但因某些原因改為2013年8月7日公測，並發佈「Big City」（大城市）地圖的宣傳影片。
 
 <!-- end list -->
 
@@ -287,8 +284,7 @@
 
 <!-- end list -->
 
-  - 2017年3月下旬，香港遊戲橘子《絕對武力online 2》因不明原因突然宣佈關閉伺服器，玩家獲安排至台灣遊戲橘子《絕對武力online
-    2》繼續遊玩
+  - 2017年3月下旬，香港遊戲橘子《絕對武力online 2》因不明原因突然宣佈關閉伺服器，玩家獲安排至台灣遊戲橘子《絕對武力online 2》繼續遊玩
 
 <!-- end list -->
 
@@ -304,8 +300,7 @@
 
 <!-- end list -->
 
-  - 2018年2月22日，韓國NEXON官方和台灣遊戲橘子官方相繼宣布《絕對武力Online
-    2》將會在4月26日(韓國)與5月2日(台灣)結束營運。
+  - 2018年2月22日，韓國NEXON官方和台灣遊戲橘子官方相繼宣布《絕對武力Online 2》將會在4月26日(韓國)與5月2日(台灣)結束營運。
 
 <!-- end list -->
 
@@ -317,8 +312,7 @@
 
 <!-- end list -->
 
-  - 2016年12月，台灣遊戲橘子《絕對武力online 2》首度與台灣中華電信105年資訊展進行月合作，並且讓玩家親身體驗以HiNet
-    光世代1G極速飆網進行《絕對武力online 2》的快感，同時也可以領取到參與活動的獎勵。
+  - 2016年12月，台灣遊戲橘子《絕對武力online 2》首度與台灣中華電信105年資訊展進行月合作，並且讓玩家親身體驗以HiNet 光世代1G極速飆網進行《絕對武力online 2》的快感，同時也可以領取到參與活動的獎勵。
 
 ## 相關事件
 
@@ -353,24 +347,13 @@
 
   - 日本CSO2[官方網站](http://cso2.nexon.co.jp)
 
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:多人电子游戏](https://zh.wikipedia.org/wiki/Category:多人电子游戏 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink")
-[Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink")
-[Category:恐怖活動題材作品](https://zh.wikipedia.org/wiki/Category:恐怖活動題材作品 "wikilink")
-[Category:反恐題材電子遊戲](https://zh.wikipedia.org/wiki/Category:反恐題材電子遊戲 "wikilink")
+[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:多人电子游戏](https://zh.wikipedia.org/wiki/Category:多人电子游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:第一人称射击游戏](https://zh.wikipedia.org/wiki/Category:第一人称射击游戏 "wikilink") [Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink") [Category:恐怖活動題材作品](https://zh.wikipedia.org/wiki/Category:恐怖活動題材作品 "wikilink") [Category:反恐題材電子遊戲](https://zh.wikipedia.org/wiki/Category:反恐題材電子遊戲 "wikilink")
 
-1.  [NEXON 《絕對武力Online 2》韓國首次封測體驗報導
-    強調兼顧原創性與大眾接受度](http://gnn.gamer.com.tw/7/69457.html)
-2.  [NEXON 《絕對武力 Online 2》韓國首次封測體驗報導
-    強調兼顧原創性與大眾接受度](http://gnn.gamer.com.tw/7/69457.html)
+1.  [NEXON 《絕對武力Online 2》韓國首次封測體驗報導 強調兼顧原創性與大眾接受度](http://gnn.gamer.com.tw/7/69457.html)
+2.  [NEXON 《絕對武力 Online 2》韓國首次封測體驗報導 強調兼顧原創性與大眾接受度](http://gnn.gamer.com.tw/7/69457.html)
 3.
-4.  [NEXON 宣布《CSO》續作《絕對武力
-    Online 2》研發中](http://gnn.gamer.com.tw/3/64233.html)
-5.  [遊戲橘子取得《絕對武力 Online》續作《CSO 2》台港澳代理權
-    明年問世](http://gnn.gamer.com.tw/2/72812.html)
+4.  [NEXON 宣布《CSO》續作《絕對武力 Online 2》研發中](http://gnn.gamer.com.tw/3/64233.html)
+5.  [遊戲橘子取得《絕對武力 Online》續作《CSO 2》台港澳代理權 明年問世](http://gnn.gamer.com.tw/2/72812.html)
 6.
 7.
 8.

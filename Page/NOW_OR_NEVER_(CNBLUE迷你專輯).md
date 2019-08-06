@@ -1,6 +1,4 @@
-《**NOW OR
-NEVER**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")首張[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，也是他們以地下樂團名義出版的第一張作品，在2009年8月19日由[AI
-Entertainment製作發行](https://zh.wikipedia.org/wiki/AI_Entertainment "wikilink")\[1\]。EP包含了五首歌曲，當中有兩首由團員[鄭容和](../Page/鄭容和.md "wikilink")參與創作。
+《**NOW OR NEVER**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")首張[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，也是他們以地下樂團名義出版的第一張作品，在2009年8月19日由[AI Entertainment製作發行](https://zh.wikipedia.org/wiki/AI_Entertainment "wikilink")\[1\]。EP包含了五首歌曲，當中有兩首由團員[鄭容和](../Page/鄭容和.md "wikilink")參與創作。
 
 ## 曲目
 
@@ -21,9 +19,6 @@ Entertainment製作發行](https://zh.wikipedia.org/wiki/AI_Entertainment "wikil
 
 ## 參考資料
 
-[Category:2009年迷你專輯](https://zh.wikipedia.org/wiki/Category:2009年迷你專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:CNBLUE音樂專輯](https://zh.wikipedia.org/wiki/Category:CNBLUE音樂專輯 "wikilink")
+[Category:2009年迷你專輯](https://zh.wikipedia.org/wiki/Category:2009年迷你專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:CNBLUE音樂專輯](https://zh.wikipedia.org/wiki/Category:CNBLUE音樂專輯 "wikilink")
 
-1.  [DISCOGRAPHY｜CNBLUE](http://cnblue-official.jp/discography/detail.php?id=1006549)
-    *CNBLUE discography* (cnblue-official.jp) Retrieved 2014-03-27
+1.  [DISCOGRAPHY｜CNBLUE](http://cnblue-official.jp/discography/detail.php?id=1006549) *CNBLUE discography* (cnblue-official.jp) Retrieved 2014-03-27

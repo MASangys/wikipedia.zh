@@ -1,12 +1,10 @@
-《**5TH
-DIMENSION**》（）是[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")的第2張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2013年4月10日由[STARCHILD發售](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。
+《**5TH DIMENSION**》（）是[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")的第2張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。於2013年4月10日由[STARCHILD發售](https://zh.wikipedia.org/wiki/STARCHILD "wikilink")。
 
 2013年8月4日黑胶唱片數量限定發售（LPレコード2枚組、180g重量盤）。
 
 ## 概要
 
-3月13日、專輯第一首歌同時也是主打的「Neo STARGATE」於[iTunes Music
-Store](https://zh.wikipedia.org/wiki/iTunes_Music_Store "wikilink")・[レコチョク配信開始](https://zh.wikipedia.org/wiki/レコチョク "wikilink")。
+3月13日、專輯第一首歌同時也是主打的「Neo STARGATE」於[iTunes Music Store](https://zh.wikipedia.org/wiki/iTunes_Music_Store "wikilink")・[レコチョク配信開始](https://zh.wikipedia.org/wiki/レコチョク "wikilink")。
 
 初回盤A（2CD）・初回盤B（CD+DVD）・通常盤（CD）等3種形態發售
 
@@ -62,12 +60,10 @@ Store](https://zh.wikipedia.org/wiki/iTunes_Music_Store "wikilink")・[レコチ
 
 收錄2012年11月17日於Zepp Tokyo舉辦之「ももいろ夜ばなし第一夜『白秋』」第一部的現場錄音。
 
-1.  '''秋桜
-    '''（[山口百恵之翻唱歌曲](https://zh.wikipedia.org/wiki/山口百恵 "wikilink")）
+1.  '''秋桜 '''（[山口百恵之翻唱歌曲](https://zh.wikipedia.org/wiki/山口百恵 "wikilink")）
       -
         歌：[佐佐木彩夏](../Page/佐佐木彩夏.md "wikilink")
-2.  **初恋
-    (村下孝蔵の曲)|初恋**（[村下孝蔵之翻唱歌曲](https://zh.wikipedia.org/wiki/村下孝蔵 "wikilink")）
+2.  **初恋 (村下孝蔵の曲)|初恋**（[村下孝蔵之翻唱歌曲](https://zh.wikipedia.org/wiki/村下孝蔵 "wikilink")）
       -
         歌：[百田夏菜子](../Page/百田夏菜子.md "wikilink")
 3.  **涙目のアリス**
@@ -116,10 +112,6 @@ Store](https://zh.wikipedia.org/wiki/iTunes_Music_Store "wikilink")・[レコチ
 
   -
   -
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:桃色幸運草Z](https://zh.wikipedia.org/wiki/Category:桃色幸運草Z "wikilink")
-[Category:King_Records音樂專輯](https://zh.wikipedia.org/wiki/Category:King_Records音樂專輯 "wikilink")
-[Category:2013年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:2013年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:桃色幸運草Z](https://zh.wikipedia.org/wiki/Category:桃色幸運草Z "wikilink") [Category:King_Records音樂專輯](https://zh.wikipedia.org/wiki/Category:King_Records音樂專輯 "wikilink") [Category:2013年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯月榜冠軍作品 "wikilink") [Category:2013年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.

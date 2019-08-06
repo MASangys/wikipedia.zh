@@ -2,9 +2,7 @@
 
 ## 單曲
 
-官方發方〈내가 네게
-(Whisper)〉的音源作為先行曲在2014年9月13日發行，並透過[SM娛樂](../Page/SM娛樂.md "wikilink")官方Youtube公開主打歌〈Holler〉的預告及專輯其他歌曲的Highlight
-Medley。
+官方發方〈내가 네게 (Whisper)〉的音源作為先行曲在2014年9月13日發行，並透過[SM娛樂](../Page/SM娛樂.md "wikilink")官方Youtube公開主打歌〈Holler〉的預告及專輯其他歌曲的Highlight Medley。
 
 ## 曲目
 
@@ -37,9 +35,4 @@ Medley。
 
 ## 参考资料
 
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:少女時代歌曲](https://zh.wikipedia.org/wiki/Category:少女時代歌曲 "wikilink")
-[Category:少女時代音樂專輯](https://zh.wikipedia.org/wiki/Category:少女時代音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2014年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon數位下載週榜冠軍作品 "wikilink")
+[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:少女時代歌曲](https://zh.wikipedia.org/wiki/Category:少女時代歌曲 "wikilink") [Category:少女時代音樂專輯](https://zh.wikipedia.org/wiki/Category:少女時代音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink") [Category:2014年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon數位下載週榜冠軍作品 "wikilink")

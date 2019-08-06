@@ -12,11 +12,9 @@
 
 ( function () {
 
-var collapseCaption = wgULS('隐藏', '隱藏'); var expandCaption = wgULS('显示',
-'顯示');
+var collapseCaption = wgULS('隐藏', '隱藏'); var expandCaption = wgULS('显示', '顯示');
 
-var navigationBarHide = collapseCaption + '▲'; var navigationBarShow =
-expandCaption + '▼';
+var navigationBarHide = collapseCaption + '▲'; var navigationBarShow = expandCaption + '▼';
 
 /\*\*
 

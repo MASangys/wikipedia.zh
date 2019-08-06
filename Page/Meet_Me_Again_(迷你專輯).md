@@ -1,12 +1,8 @@
-**《Meet Me Again》**是韓國Pop
-Dance組合[SS501](../Page/SS501.md "wikilink")中心[金奎鐘](../Page/金奎鐘.md "wikilink")於2012年7月18日由B2M
-Entertainment企劃，Loen Entertainment發行的第二張個人迷你專輯\[1\]。
+**《Meet Me Again》**是韓國Pop Dance組合[SS501](../Page/SS501.md "wikilink")中心[金奎鐘](../Page/金奎鐘.md "wikilink")於2012年7月18日由B2M Entertainment企劃，Loen Entertainment發行的第二張個人迷你專輯\[1\]。
 
 ## 專輯概要
 
-  - 歌手[金奎鐘](../Page/金奎鐘.md "wikilink")在沉寂1年後正式於7月發行的第二張個人迷你專輯。上張專輯是在2011年9月份發行的首張個人迷你專輯《[Turn
-    Me
-    On](../Page/Turn_Me_On_\(迷你專輯\).md "wikilink")》。期間主演韓國音樂劇《[宮](https://zh.wikipedia.org/wiki/宮 "wikilink")》擔任皇太子一角，及2011年12月參演有線頻道TV朝鮮開台電視劇《[拯救高奉實歐巴桑](../Page/拯救高奉實歐巴桑.md "wikilink")》後睽違許久發行的作品。而金奎鐘從出道到現在7年的時間裡都熱衷於專輯的工作這次與一直在一起支持他的FANS們約定2年的空白期後再次地相遇。這次的迷你專輯是金奎鐘在2012年7月23日入伍前特意給FANS們的訊息，表達對FANS的愛與感激之情，沒有其他的活動，只通過線上下載及銷售專輯的方式和FANS進行入伍前的見面\[2\]。
+  - 歌手[金奎鐘](../Page/金奎鐘.md "wikilink")在沉寂1年後正式於7月發行的第二張個人迷你專輯。上張專輯是在2011年9月份發行的首張個人迷你專輯《[Turn Me On](../Page/Turn_Me_On_\(迷你專輯\).md "wikilink")》。期間主演韓國音樂劇《[宮](https://zh.wikipedia.org/wiki/宮 "wikilink")》擔任皇太子一角，及2011年12月參演有線頻道TV朝鮮開台電視劇《[拯救高奉實歐巴桑](../Page/拯救高奉實歐巴桑.md "wikilink")》後睽違許久發行的作品。而金奎鐘從出道到現在7年的時間裡都熱衷於專輯的工作這次與一直在一起支持他的FANS們約定2年的空白期後再次地相遇。這次的迷你專輯是金奎鐘在2012年7月23日入伍前特意給FANS們的訊息，表達對FANS的愛與感激之情，沒有其他的活動，只通過線上下載及銷售專輯的方式和FANS進行入伍前的見面\[2\]。
   - 特別值得一提此張專輯為了回饋粉絲，限量發售「初回限量版」**3000張**（0001\~3000限定編號）。發售完畢後仍可購買無編號「普通版」。
 
 <!-- end list -->
@@ -44,13 +40,8 @@ Entertainment企劃，Loen Entertainment發行的第二張個人迷你專輯\[1\
 
 <!-- end list -->
 
-  - 作為送給FANS入伍前最後的禮物，奎鐘在M/V中化作每一位ThanKYU / Triple
-    S的男朋友。奎鐘在藍天綠樹的襯託下展現了一貫溫柔的笑容，並跳出了[SS501](../Page/SS501.md "wikilink")《警告》、《Lalala....為了妳》、《U
-    R
-    Man》等經典歌曲的舞步，勾起FANS的回憶。而和女孩十指緊扣、牽手等畫面，也再次傳遞了奎鐘和FANS約定再見的訊息。特別的是部分畫面以女孩的視野角度拍攝而成，甜蜜地記錄了專屬ThanKYU
-    / Triple S與奎鐘的幸福時光\[4\]。
-  - 2012年7月23日，台灣華納線上購物網
-    E-Warner公告\[5\]，07月26日於[MTV台灣頻道首播完整版M](https://zh.wikipedia.org/wiki/MTV "wikilink")/V。
+  - 作為送給FANS入伍前最後的禮物，奎鐘在M/V中化作每一位ThanKYU / Triple S的男朋友。奎鐘在藍天綠樹的襯託下展現了一貫溫柔的笑容，並跳出了[SS501](../Page/SS501.md "wikilink")《警告》、《Lalala....為了妳》、《U R Man》等經典歌曲的舞步，勾起FANS的回憶。而和女孩十指緊扣、牽手等畫面，也再次傳遞了奎鐘和FANS約定再見的訊息。特別的是部分畫面以女孩的視野角度拍攝而成，甜蜜地記錄了專屬ThanKYU / Triple S與奎鐘的幸福時光\[4\]。
+  - 2012年7月23日，台灣華納線上購物網 E-Warner公告\[5\]，07月26日於[MTV台灣頻道首播完整版M](https://zh.wikipedia.org/wiki/MTV "wikilink")/V。
 
 ## 曲目
 
@@ -78,13 +69,9 @@ Entertainment企劃，Loen Entertainment發行的第二張個人迷你專輯\[1\
 1.  珍貴的人<small>（）</small>
       - 是由和奎鍾建立了深厚親密友誼，為RAIN的《緊緊抓住你的歌》作曲的Taewan親自作曲作為禮物的歌曲。是即使悲傷也能使人融化溫暖心靈的抒情曲目。透過歌詞「即使在身邊也珍貴的人，即使在身邊也想念的人，在愛裡，愛著，即使分離遽增也愛到最後的人」，表達了對FANS的心意。
 2.  One Luv<small>（）</small>
-      - 擁有快速且炫爛的節奏搭配強而有力的配樂是首令人印象深刻的RnB嘻哈曲目。由 Mighty Mouse的Shorry J
-        擔任Rap featuring而在 wuss up
-        一曲中擔任featuring的作曲家Taewan則是在這首曲目裡直接參與了duet。以快樂的旋律吟唱著唯一的愛，兩個男人甜美的和聲引人關注。
+      - 擁有快速且炫爛的節奏搭配強而有力的配樂是首令人印象深刻的RnB嘻哈曲目。由 Mighty Mouse的Shorry J 擔任Rap featuring而在 wuss up 一曲中擔任featuring的作曲家Taewan則是在這首曲目裡直接參與了duet。以快樂的旋律吟唱著唯一的愛，兩個男人甜美的和聲引人關注。
 3.  謝謝你<small>（）</small>
-      - 由金奎鐘親自作曲填詞，是金奎鐘回顧著與FANS一起度過的時間親自寫下的歌詞。並在6月3日首爾舉行的金圭鐘FANMEETING上以「謝謝你
-        要幸福喔（）」首次亮相\[6\]。特色是在柔軟的弦旋律上再吟詠出「謝謝你 要幸福喔（）」的副歌歌詞，此外，奎鐘親自與FAN
-        CLUB ThanKYU一起錄音，收錄了FANS的聲音作為和聲，透過和FANS交融的旋律，是首描繪奎鐘對粉絲無限愛意的歌曲。
+      - 由金奎鐘親自作曲填詞，是金奎鐘回顧著與FANS一起度過的時間親自寫下的歌詞。並在6月3日首爾舉行的金圭鐘FANMEETING上以「謝謝你 要幸福喔（）」首次亮相\[6\]。特色是在柔軟的弦旋律上再吟詠出「謝謝你 要幸福喔（）」的副歌歌詞，此外，奎鐘親自與FAN CLUB ThanKYU一起錄音，收錄了FANS的聲音作為和聲，透過和FANS交融的旋律，是首描繪奎鐘對粉絲無限愛意的歌曲。
 
 ## 成績
 
@@ -100,8 +87,7 @@ Entertainment企劃，Loen Entertainment發行的第二張個人迷你專輯\[1\
 | 專輯月榜          | 16    | 2012/7 （9,987）   |         |
 |               |       |                  |         |
 
-  - <small>數位音源榜指的是韓國soribada、ollehmusic、melon、bugs音源網之線上連續播放 + 下載 +BGM
-    + 手機鈴聲銷售量總和所得結果於Gaon公佈</small>
+  - <small>數位音源榜指的是韓國soribada、ollehmusic、melon、bugs音源網之線上連續播放 + 下載 +BGM + 手機鈴聲銷售量總和所得結果於Gaon公佈</small>
 
 ### 台壓
 
@@ -306,16 +292,11 @@ Entertainment企劃，Loen Entertainment發行的第二張個人迷你專輯\[1\
 
   - [金奎鐘個人日本官方網站](https://web.archive.org/web/20111124014000/http://www.kimkyujong.jp/)
 
-  - [金奎鐘《珍重再見 MEET ME
-    AGAIN》給台灣歌迷獨家畫面搶先曝光1/2](http://www.youtube.com/watch?v=1uj-ef6qAU4)
+  - [金奎鐘《珍重再見 MEET ME AGAIN》給台灣歌迷獨家畫面搶先曝光1/2](http://www.youtube.com/watch?v=1uj-ef6qAU4)
 
-  - [金奎鐘《珍重再見 MEET ME
-    AGAIN》給台灣歌迷獨家畫面搶先曝光2/2](http://www.youtube.com/watch?v=WXvbU_57Xjo)
+  - [金奎鐘《珍重再見 MEET ME AGAIN》給台灣歌迷獨家畫面搶先曝光2/2](http://www.youtube.com/watch?v=WXvbU_57Xjo)
 
-[Category:金奎鐘專輯](https://zh.wikipedia.org/wiki/Category:金奎鐘專輯 "wikilink")
-[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:华纳唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华纳唱片音乐专辑 "wikilink")
+[Category:金奎鐘專輯](https://zh.wikipedia.org/wiki/Category:金奎鐘專輯 "wikilink") [Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:华纳唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华纳唱片音乐专辑 "wikilink")
 
 1.
 

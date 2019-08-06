@@ -2,8 +2,7 @@
 
 ## 生平
 
-他生于[匹兹堡](../Page/匹兹堡.md "wikilink")，父亲是1920年代移民美国的[叙利亚](../Page/叙利亚.md "wikilink")[亚述人](../Page/亚述人.md "wikilink")，母亲是[意大利裔美国人](../Page/意大利裔美国人.md "wikilink")。亞伯拉罕毕业于[德克薩斯州大學奧斯汀分校](../Page/德克薩斯州大學奧斯汀分校.md "wikilink")。后来到[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[Uta
-Hagen门下学习表演](https://zh.wikipedia.org/wiki/Uta_Hagen "wikilink")，之后在[洛杉矶](../Page/洛杉矶.md "wikilink")从事舞台表演。
+他生于[匹兹堡](../Page/匹兹堡.md "wikilink")，父亲是1920年代移民美国的[叙利亚](../Page/叙利亚.md "wikilink")[亚述人](../Page/亚述人.md "wikilink")，母亲是[意大利裔美国人](../Page/意大利裔美国人.md "wikilink")。亞伯拉罕毕业于[德克薩斯州大學奧斯汀分校](../Page/德克薩斯州大學奧斯汀分校.md "wikilink")。后来到[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[Uta Hagen门下学习表演](https://zh.wikipedia.org/wiki/Uta_Hagen "wikilink")，之后在[洛杉矶](../Page/洛杉矶.md "wikilink")从事舞台表演。
 
 ## 作品
 
@@ -509,15 +508,4 @@ Hagen门下学习表演](https://zh.wikipedia.org/wiki/Uta_Hagen "wikilink")，�
   -
   -
   -
-[Category:德州大學奧斯汀分校校友](https://zh.wikipedia.org/wiki/Category:德州大學奧斯汀分校校友 "wikilink")
-[Category:匹兹堡人](https://zh.wikipedia.org/wiki/Category:匹兹堡人 "wikilink")
-[Category:美国电影男演员](https://zh.wikipedia.org/wiki/Category:美国电影男演员 "wikilink")
-[Category:美国舞台男演员](https://zh.wikipedia.org/wiki/Category:美国舞台男演员 "wikilink")
-[Category:美国电视男演员](https://zh.wikipedia.org/wiki/Category:美国电视男演员 "wikilink")
-[Category:叙利亚裔美国人](https://zh.wikipedia.org/wiki/Category:叙利亚裔美国人 "wikilink")
-[Category:亚述裔美国人](https://zh.wikipedia.org/wiki/Category:亚述裔美国人 "wikilink")
-[Category:意大利裔美国人](https://zh.wikipedia.org/wiki/Category:意大利裔美国人 "wikilink")
-[Category:奧斯卡最佳男主角獎獲獎演員](https://zh.wikipedia.org/wiki/Category:奧斯卡最佳男主角獎獲獎演員 "wikilink")
-[Category:金球獎最佳電影男主角獲得者](https://zh.wikipedia.org/wiki/Category:金球獎最佳電影男主角獲得者 "wikilink")
-[Category:20世纪美国男演员](https://zh.wikipedia.org/wiki/Category:20世纪美国男演员 "wikilink")
-[Category:21世紀美國男演員](https://zh.wikipedia.org/wiki/Category:21世紀美國男演員 "wikilink")
+[Category:德州大學奧斯汀分校校友](https://zh.wikipedia.org/wiki/Category:德州大學奧斯汀分校校友 "wikilink") [Category:匹兹堡人](https://zh.wikipedia.org/wiki/Category:匹兹堡人 "wikilink") [Category:美国电影男演员](https://zh.wikipedia.org/wiki/Category:美国电影男演员 "wikilink") [Category:美国舞台男演员](https://zh.wikipedia.org/wiki/Category:美国舞台男演员 "wikilink") [Category:美国电视男演员](https://zh.wikipedia.org/wiki/Category:美国电视男演员 "wikilink") [Category:叙利亚裔美国人](https://zh.wikipedia.org/wiki/Category:叙利亚裔美国人 "wikilink") [Category:亚述裔美国人](https://zh.wikipedia.org/wiki/Category:亚述裔美国人 "wikilink") [Category:意大利裔美国人](https://zh.wikipedia.org/wiki/Category:意大利裔美国人 "wikilink") [Category:奧斯卡最佳男主角獎獲獎演員](https://zh.wikipedia.org/wiki/Category:奧斯卡最佳男主角獎獲獎演員 "wikilink") [Category:金球獎最佳電影男主角獲得者](https://zh.wikipedia.org/wiki/Category:金球獎最佳電影男主角獲得者 "wikilink") [Category:20世纪美国男演员](https://zh.wikipedia.org/wiki/Category:20世纪美国男演员 "wikilink") [Category:21世紀美國男演員](https://zh.wikipedia.org/wiki/Category:21世紀美國男演員 "wikilink")

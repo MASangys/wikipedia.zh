@@ -176,8 +176,7 @@
 </tbody>
 </table>
 
-[WaltherPPK-E.png](https://zh.wikipedia.org/wiki/File:WaltherPPK-E.png "fig:WaltherPPK-E.png")
-[32_mod.jpg](https://zh.wikipedia.org/wiki/File:32_mod.jpg "fig:32_mod.jpg")
+[WaltherPPK-E.png](https://zh.wikipedia.org/wiki/File:WaltherPPK-E.png "fig:WaltherPPK-E.png") [32_mod.jpg](https://zh.wikipedia.org/wiki/File:32_mod.jpg "fig:32_mod.jpg")
 
 #### 次要人物
 
@@ -1213,32 +1212,19 @@
 </tbody>
 </table>
 
-  - 因播出『[AFC女子アジアカップ2014](https://zh.wikipedia.org/wiki/2014_AFC女子アジアカップ "wikilink")
-    準決勝
-    [なでしこジャパン](https://zh.wikipedia.org/wiki/サッカー日本女子代表 "wikilink")×[中国](https://zh.wikipedia.org/wiki/サッカー中国女子代表 "wikilink")』實況轉播，原時段於21:15撥出的第7話因轉播時間延長而延後播出（22:00
-    - 22:54）。
+  - 因播出『[AFC女子アジアカップ2014](https://zh.wikipedia.org/wiki/2014_AFC女子アジアカップ "wikilink") 準決勝 [なでしこジャパン](https://zh.wikipedia.org/wiki/サッカー日本女子代表 "wikilink")×[中国](https://zh.wikipedia.org/wiki/サッカー中国女子代表 "wikilink")』實況轉播，原時段於21:15撥出的第7話因轉播時間延長而延後播出（22:00 - 22:54）。
 
 ### 節目的變遷
 
 ## 參考連結
 
-  - [金城一紀　プロジェクトBORDER始動、サイトOPEN！](http://prtimes.jp/main/html/rd/p/000000437.000007006.html)KADOKAWA
-    (2013年12月18日)。
-  - [小栗旬主演ドラマ直木賞作家の金城氏脚本](http://www.nikkansports.com/entertainment/news/p-et-tp0-20140204-1252874.html)
-    日刊スポーツ新聞社 (2014年2月4日)。
-  - [小説、ドラマ、コミック…前代未聞の「BORDERプロジェクト」始動！](http://news.ameba.jp/20140416-561/)Ameba
-    (2014年4月16日)。
-  - [小栗旬と元BJCの中村達也の壮絶な殴り合いに注目\!?
-    「BORDER」第7話がオンエア！](https://web.archive.org/web/20140523225508/http://news.thetv.jp/article/46944/)web
-    ザ テレビジョン (2014年5月22日)。
-  - [傷だらけの小栗旬、予想以上の爆破に大興奮](http://mdpr.jp/news/detail/1355063)モデルプレス
-    (2014年4月22日)。
-  - [宮藤官九郎 ：
-    はまり役？　“記憶喪失”の死者に　初共演の小栗旬も絶賛](http://mantan-web.jp/2014/05/01/20140430dog00m200027000c.html)毎日新聞デジタル
-    (2014年5月1日)。
-  - [ＢＯＲＤＥＲ -
-    スポニチアネックス](https://web.archive.org/web/20140604180942/http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/04_06/border/index.html)
-    全放送回と平均の出典。
+  - [金城一紀　プロジェクトBORDER始動、サイトOPEN！](http://prtimes.jp/main/html/rd/p/000000437.000007006.html)KADOKAWA (2013年12月18日)。
+  - [小栗旬主演ドラマ直木賞作家の金城氏脚本](http://www.nikkansports.com/entertainment/news/p-et-tp0-20140204-1252874.html) 日刊スポーツ新聞社 (2014年2月4日)。
+  - [小説、ドラマ、コミック…前代未聞の「BORDERプロジェクト」始動！](http://news.ameba.jp/20140416-561/)Ameba (2014年4月16日)。
+  - [小栗旬と元BJCの中村達也の壮絶な殴り合いに注目\!? 「BORDER」第7話がオンエア！](https://web.archive.org/web/20140523225508/http://news.thetv.jp/article/46944/)web ザ テレビジョン (2014年5月22日)。
+  - [傷だらけの小栗旬、予想以上の爆破に大興奮](http://mdpr.jp/news/detail/1355063)モデルプレス (2014年4月22日)。
+  - [宮藤官九郎 ： はまり役？　“記憶喪失”の死者に　初共演の小栗旬も絶賛](http://mantan-web.jp/2014/05/01/20140430dog00m200027000c.html)毎日新聞デジタル (2014年5月1日)。
+  - [ＢＯＲＤＥＲ - スポニチアネックス](https://web.archive.org/web/20140604180942/http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/04_06/border/index.html) 全放送回と平均の出典。
 
 ## 參考資料
 
@@ -1250,8 +1236,7 @@
 
 ## 外部連結
 
-  - [小手川瑜亞＆金城一紀『BORDER Between life and
-    death』](http://www.kadokawa.co.jp/sp/border/)- KADOKAWA・漫画特設網站
+  - [小手川瑜亞＆金城一紀『BORDER Between life and death』](http://www.kadokawa.co.jp/sp/border/)- KADOKAWA・漫画特設網站
 
   - [BORDER 警視廳搜查一課殺人犯搜查第4係 - 朝日電視台](http://www.tv-asahi.co.jp/border/)
 
@@ -1259,43 +1244,12 @@
 
   -
   -
-[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink")
-[Category:Young_Ace](https://zh.wikipedia.org/wiki/Category:Young_Ace "wikilink")
-[Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink")
-[Category:靈異漫畫](https://zh.wikipedia.org/wiki/Category:靈異漫畫 "wikilink")
-[Category:警察主角題材漫畫](https://zh.wikipedia.org/wiki/Category:警察主角題材漫畫 "wikilink")
-[Category:警視廳背景漫畫](https://zh.wikipedia.org/wiki/Category:警視廳背景漫畫 "wikilink")
-[Category:2014年日本小說](https://zh.wikipedia.org/wiki/Category:2014年日本小說 "wikilink")
-[Category:日本推理小說](https://zh.wikipedia.org/wiki/Category:日本推理小說 "wikilink")
-[Category:鬼題材小說](https://zh.wikipedia.org/wiki/Category:鬼題材小說 "wikilink")
-[Category:超能力題材小說](https://zh.wikipedia.org/wiki/Category:超能力題材小說 "wikilink")
-[Category:警察主角題材小說](https://zh.wikipedia.org/wiki/Category:警察主角題材小說 "wikilink")
-[Category:警視廳背景小說](https://zh.wikipedia.org/wiki/Category:警視廳背景小說 "wikilink")
-[Category:朝日電視台週四晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間九點連續劇 "wikilink")
-[Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:日本科幻劇](https://zh.wikipedia.org/wiki/Category:日本科幻劇 "wikilink")
-[Category:日本奇幻劇](https://zh.wikipedia.org/wiki/Category:日本奇幻劇 "wikilink")
-[Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink")
-[Category:超能力題材電視劇](https://zh.wikipedia.org/wiki/Category:超能力題材電視劇 "wikilink")
-[Category:鬼題材電視劇](https://zh.wikipedia.org/wiki/Category:鬼題材電視劇 "wikilink")
-[Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink")
-[Category:2017年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年日本電視劇集 "wikilink")
-[Category:2017年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2017年電視特別劇集 "wikilink")
-[Category:朝日電視台特別劇集](https://zh.wikipedia.org/wiki/Category:朝日電視台特別劇集 "wikilink")
-[Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink")
-[Category:東京國際戲劇節優秀連續劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀連續劇獲獎作品 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:金城一紀](https://zh.wikipedia.org/wiki/Category:金城一紀 "wikilink")
+[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:Young_Ace](https://zh.wikipedia.org/wiki/Category:Young_Ace "wikilink") [Category:超能力題材漫畫](https://zh.wikipedia.org/wiki/Category:超能力題材漫畫 "wikilink") [Category:靈異漫畫](https://zh.wikipedia.org/wiki/Category:靈異漫畫 "wikilink") [Category:警察主角題材漫畫](https://zh.wikipedia.org/wiki/Category:警察主角題材漫畫 "wikilink") [Category:警視廳背景漫畫](https://zh.wikipedia.org/wiki/Category:警視廳背景漫畫 "wikilink") [Category:2014年日本小說](https://zh.wikipedia.org/wiki/Category:2014年日本小說 "wikilink") [Category:日本推理小說](https://zh.wikipedia.org/wiki/Category:日本推理小說 "wikilink") [Category:鬼題材小說](https://zh.wikipedia.org/wiki/Category:鬼題材小說 "wikilink") [Category:超能力題材小說](https://zh.wikipedia.org/wiki/Category:超能力題材小說 "wikilink") [Category:警察主角題材小說](https://zh.wikipedia.org/wiki/Category:警察主角題材小說 "wikilink") [Category:警視廳背景小說](https://zh.wikipedia.org/wiki/Category:警視廳背景小說 "wikilink") [Category:朝日電視台週四晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間九點連續劇 "wikilink") [Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:日本科幻劇](https://zh.wikipedia.org/wiki/Category:日本科幻劇 "wikilink") [Category:日本奇幻劇](https://zh.wikipedia.org/wiki/Category:日本奇幻劇 "wikilink") [Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink") [Category:超能力題材電視劇](https://zh.wikipedia.org/wiki/Category:超能力題材電視劇 "wikilink") [Category:鬼題材電視劇](https://zh.wikipedia.org/wiki/Category:鬼題材電視劇 "wikilink") [Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink") [Category:2017年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年日本電視劇集 "wikilink") [Category:2017年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2017年電視特別劇集 "wikilink") [Category:朝日電視台特別劇集](https://zh.wikipedia.org/wiki/Category:朝日電視台特別劇集 "wikilink") [Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink") [Category:東京國際戲劇節優秀連續劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀連續劇獲獎作品 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:金城一紀](https://zh.wikipedia.org/wiki/Category:金城一紀 "wikilink")
 
 1.  當初電視劇發表為[池賴廣](../Page/池賴廣.md "wikilink")。
 
 2.
 
-3.  全放送回と平均の出典。[BORDER -
-    スポニチアネックス](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/04_06/border/index.html)
-     2014年6月6日閲覧。
+3.  全放送回と平均の出典。[BORDER - スポニチアネックス](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/04_06/border/index.html)  2014年6月6日閲覧。
 
 4.

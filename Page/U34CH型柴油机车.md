@@ -8,8 +8,7 @@
 
 ## 技术特点
 
-U34CH型柴油机车的总体结构与U36C型柴油机车大致相同，唯一的区别是前者具备了为[旅客列车供电之](https://zh.wikipedia.org/wiki/旅客列车 "wikilink")[列车供电系统](https://zh.wikipedia.org/wiki/列车供电系统 "wikilink")（HEP）。U34CH型柴油机车同样装用一台16[气缸](https://zh.wikipedia.org/wiki/气缸 "wikilink")、[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")、[涡轮增压的](../Page/渦輪增壓器.md "wikilink")[FDL16型](../Page/通用电气7FDL系列柴油机.md "wikilink")[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，当转速为每分钟1050转时的额定功率为3600马力。机车上加装了一台与柴油机同轴驱动的副发电机，这台专门为列车供电的副发电机是[三相交流工频同步发电机](../Page/交流發電機.md "wikilink")，输出电压为480伏特60赫兹[三相交流电](https://zh.wikipedia.org/wiki/三相交流电 "wikilink")。
-由于柴油机[曲轴输出直接驱动副发电机](https://zh.wikipedia.org/wiki/曲轴 "wikilink")，在机车向列车供电时为了保持供电电源稳定性，柴油机需要长时间维持每分钟900转的较高转速（即副发电机的额定转速），此时柴油机的最大功率为3430马力；而且副发电机会消耗柴油机的部分功率（最多670马力），因此用于牵引的实际功率为3430马力再扣除供电功率（视乎供电负载情况）。当U34CH型柴油机车无需向列车供电时，柴油机的工作方式和输出功率与U36C型柴油机车相同。
+U34CH型柴油机车的总体结构与U36C型柴油机车大致相同，唯一的区别是前者具备了为[旅客列车供电之](https://zh.wikipedia.org/wiki/旅客列车 "wikilink")[列车供电系统](https://zh.wikipedia.org/wiki/列车供电系统 "wikilink")（HEP）。U34CH型柴油机车同样装用一台16[气缸](https://zh.wikipedia.org/wiki/气缸 "wikilink")、[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")、[涡轮增压的](../Page/渦輪增壓器.md "wikilink")[FDL16型](../Page/通用电气7FDL系列柴油机.md "wikilink")[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，当转速为每分钟1050转时的额定功率为3600马力。机车上加装了一台与柴油机同轴驱动的副发电机，这台专门为列车供电的副发电机是[三相交流工频同步发电机](../Page/交流發電機.md "wikilink")，输出电压为480伏特60赫兹[三相交流电](https://zh.wikipedia.org/wiki/三相交流电 "wikilink")。 由于柴油机[曲轴输出直接驱动副发电机](https://zh.wikipedia.org/wiki/曲轴 "wikilink")，在机车向列车供电时为了保持供电电源稳定性，柴油机需要长时间维持每分钟900转的较高转速（即副发电机的额定转速），此时柴油机的最大功率为3430马力；而且副发电机会消耗柴油机的部分功率（最多670马力），因此用于牵引的实际功率为3430马力再扣除供电功率（视乎供电负载情况）。当U34CH型柴油机车无需向列车供电时，柴油机的工作方式和输出功率与U36C型柴油机车相同。
 
 ## 参看
 
@@ -21,12 +20,9 @@ U34CH型柴油机车的总体结构与U36C型柴油机车大致相同，唯一�
 
 ## 外部链接
 
-  - [THE DINOSAURS OF NJ
-    TRANSIT](https://web.archive.org/web/20150924030831/http://www.hobokenterminal.com/u34ch.html)
+  - [THE DINOSAURS OF NJ TRANSIT](https://web.archive.org/web/20150924030831/http://www.hobokenterminal.com/u34ch.html)
 
-[Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink")
-[Category:GE制铁路机车](https://zh.wikipedia.org/wiki/Category:GE制铁路机车 "wikilink")
-[Category:Co-Co轴式机车](https://zh.wikipedia.org/wiki/Category:Co-Co轴式机车 "wikilink")
+[Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink") [Category:GE制铁路机车](https://zh.wikipedia.org/wiki/Category:GE制铁路机车 "wikilink") [Category:Co-Co轴式机车](https://zh.wikipedia.org/wiki/Category:Co-Co轴式机车 "wikilink")
 
 1.
 2.

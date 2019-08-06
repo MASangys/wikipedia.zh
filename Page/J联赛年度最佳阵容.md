@@ -554,5 +554,4 @@ J联赛每个赛季结束后，会颁布一系列奖项，统称为“[J联赛�
   - [J联赛资料收集网站](https://web.archive.org/web/20130503063836/http://gya-suka.sakura.ne.jp/j/j_main.htm#j_index)
   - 『J.LEAGUE YEARBOOK』　株式会社 朝日新聞出版　ISBN 978-4021902222
 
-[Category:日本職業足球聯賽](https://zh.wikipedia.org/wiki/Category:日本職業足球聯賽 "wikilink")
-[Category:足球獎項](https://zh.wikipedia.org/wiki/Category:足球獎項 "wikilink")
+[Category:日本職業足球聯賽](https://zh.wikipedia.org/wiki/Category:日本職業足球聯賽 "wikilink") [Category:足球獎項](https://zh.wikipedia.org/wiki/Category:足球獎項 "wikilink")

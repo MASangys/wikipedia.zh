@@ -45,8 +45,7 @@ G.50箭式(意文:Freccia)戰鬥機是意大利最初研發的全鋁合金製單
 
 ## 實戰
 
-[Bundesarchiv_Bild_101I-425-0338-16A,_Flugzeuge_Fiat_G.50_und_Messerschmitt_Me_110.jpg](https://zh.wikipedia.org/wiki/File:Bundesarchiv_Bild_101I-425-0338-16A,_Flugzeuge_Fiat_G.50_und_Messerschmitt_Me_110.jpg "fig:Bundesarchiv_Bild_101I-425-0338-16A,_Flugzeuge_Fiat_G.50_und_Messerschmitt_Me_110.jpg")
-1939年12架G.50抵達西班牙，原本想參與[西班牙內戰但因不久後佛朗哥將軍已在內戰中勝出](https://zh.wikipedia.org/wiki/西班牙內戰 "wikilink")，故G.50並未參戰，1940年6月10日，意大利對英法宣戰，意軍G.50在法國南部和法軍戰機交戰，戰果並不遜色，之後G.50進駐比利時與法國境內機場，和[德國空軍一起參與](../Page/納粹德國空軍.md "wikilink")[不列顛空戰](https://zh.wikipedia.org/wiki/不列顛空戰 "wikilink")，到該年年底由於到了冬天，G.50採用開放式駕駛艙而因此無暖氣，飛行員難以在高空抵受寒冷，故祇在荷比盧三國作低飛巡邏，到1941年全部撒回意大利。
+[Bundesarchiv_Bild_101I-425-0338-16A,_Flugzeuge_Fiat_G.50_und_Messerschmitt_Me_110.jpg](https://zh.wikipedia.org/wiki/File:Bundesarchiv_Bild_101I-425-0338-16A,_Flugzeuge_Fiat_G.50_und_Messerschmitt_Me_110.jpg "fig:Bundesarchiv_Bild_101I-425-0338-16A,_Flugzeuge_Fiat_G.50_und_Messerschmitt_Me_110.jpg") 1939年12架G.50抵達西班牙，原本想參與[西班牙內戰但因不久後佛朗哥將軍已在內戰中勝出](https://zh.wikipedia.org/wiki/西班牙內戰 "wikilink")，故G.50並未參戰，1940年6月10日，意大利對英法宣戰，意軍G.50在法國南部和法軍戰機交戰，戰果並不遜色，之後G.50進駐比利時與法國境內機場，和[德國空軍一起參與](../Page/納粹德國空軍.md "wikilink")[不列顛空戰](https://zh.wikipedia.org/wiki/不列顛空戰 "wikilink")，到該年年底由於到了冬天，G.50採用開放式駕駛艙而因此無暖氣，飛行員難以在高空抵受寒冷，故祇在荷比盧三國作低飛巡邏，到1941年全部撒回意大利。
 
 1940年10月28日開始，意軍G.50參加攻打希臘但遇上英軍的颶風式，G.50唯有改為對地攻擊而不再打空戰，1941年4月，G.50來到北非利比亞，同樣大多掛上炸彈執行對地攻擊任務，因為在空戰中，G.50雖有不錯轉彎能力但速度慢，火力也不足以擊落有裝甲保護的敵機，故即使遇上已算落伍機種的颶風式都陷入苦戰，1942年10月的[阿拉曼戰役時祇下](https://zh.wikipedia.org/wiki/阿拉曼戰役 "wikilink")43架G.50，北非之戰後，意軍G.50退入西西里島，在後來的[西西里島戰役](../Page/西西里島戰役.md "wikilink")時面對盟軍強大海空戰力，已完全落伍的G.50難以有任何作為。
 
@@ -72,5 +71,4 @@ G.50也有35架外銷芬蘭，參與了對蘇聯紅軍的[冬季戰爭和](https
 
 作者:野原茂，譯者:林大維，麥田出版社，ISBN957-708-432-X
 
-[Category:意大利戰鬥機](https://zh.wikipedia.org/wiki/Category:意大利戰鬥機 "wikilink")
-[Category:意大利二戰武器](https://zh.wikipedia.org/wiki/Category:意大利二戰武器 "wikilink")
+[Category:意大利戰鬥機](https://zh.wikipedia.org/wiki/Category:意大利戰鬥機 "wikilink") [Category:意大利二戰武器](https://zh.wikipedia.org/wiki/Category:意大利二戰武器 "wikilink")

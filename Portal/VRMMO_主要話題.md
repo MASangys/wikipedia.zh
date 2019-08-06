@@ -111,21 +111,16 @@
   - [色鍵](https://zh.wikipedia.org/wiki/色鍵 "wikilink")（Chroma key），關鍵色透空
   - [精靈](https://zh.wikipedia.org/wiki/精灵_\(计算机图形学\) "wikilink")（Sprite）
   - [影像變形](../Page/影像變形.md "wikilink")（Morphing）
-  - [高动态范围成像](../Page/高动态范围成像.md "wikilink")（High Dynamic Range
-    Imaging）、[高动态光照渲染](../Page/高动态光照渲染.md "wikilink")（High-Dynamic
-    Range）
+  - [高动态范围成像](../Page/高动态范围成像.md "wikilink")（High Dynamic Range Imaging）、[高动态光照渲染](../Page/高动态光照渲染.md "wikilink")（High-Dynamic Range）
   - [三维模型](../Page/三维模型.md "wikilink")、[材质贴图](../Page/材质贴图.md "wikilink")
   - [骨骼動畫](https://zh.wikipedia.org/wiki/骨骼動畫 "wikilink")
-  - [幾何著色器](https://zh.wikipedia.org/wiki/幾何著色器 "wikilink")（Geometry
-    Shader）、[頂點著色引擎](https://zh.wikipedia.org/wiki/頂點著色引擎 "wikilink")（Vertex
-    Shader）、[像素著色引擎](../Page/像素著色引擎.md "wikilink")（Pixel Shader）
+  - [幾何著色器](https://zh.wikipedia.org/wiki/幾何著色器 "wikilink")（Geometry Shader）、[頂點著色引擎](https://zh.wikipedia.org/wiki/頂點著色引擎 "wikilink")（Vertex Shader）、[像素著色引擎](../Page/像素著色引擎.md "wikilink")（Pixel Shader）
   - [粒子系统](../Page/粒子系统.md "wikilink")
   - [光線追蹤](../Page/光線追蹤.md "wikilink")
 
 ### 資料結構與搜尋相關技術
 
-  - （BSP）、[二元樹](https://zh.wikipedia.org/wiki/二叉樹 "wikilink")（Binary
-    tree）、[四元樹](https://zh.wikipedia.org/wiki/四叉樹 "wikilink")（Quadtree）、[八元樹](https://zh.wikipedia.org/wiki/八叉樹 "wikilink")（Octree）
+  - （BSP）、[二元樹](https://zh.wikipedia.org/wiki/二叉樹 "wikilink")（Binary tree）、[四元樹](https://zh.wikipedia.org/wiki/四叉樹 "wikilink")（Quadtree）、[八元樹](https://zh.wikipedia.org/wiki/八叉樹 "wikilink")（Octree）
 
   - [A\*搜寻算法](https://zh.wikipedia.org/wiki/A*搜寻算法 "wikilink")、[广度优先搜索](../Page/广度优先搜索.md "wikilink")（BFS）、[深度优先搜索](../Page/深度优先搜索.md "wikilink")（DFS）
 

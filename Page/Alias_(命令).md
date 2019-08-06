@@ -1,19 +1,6 @@
-在[计算机运算中](https://zh.wikipedia.org/wiki/计算机运算 "wikilink")，**alias**
-是许多命令行界面的命令，比如 [Unix
-shell](../Page/Unix_shell.md "wikilink")，[4DOS](https://zh.wikipedia.org/wiki/4DOS "wikilink")/[4NT](https://zh.wikipedia.org/wiki/4NT "wikilink")
-和 [Windows PowerShell](../Page/Windows_PowerShell.md "wikilink")
-等，它给用户提供了别名——也就是用自定义字符串替换指定命令的功能，通常用于简写系统命令，或给常用命令添加默认选项，[MS-DOS](../Page/MS-DOS.md "wikilink")
-和 [Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
-操作系统里，通常使用
-[DOSKey](https://zh.wikipedia.org/wiki/DOSKey "wikilink") 命令定义别名。
+在[计算机运算中](https://zh.wikipedia.org/wiki/计算机运算 "wikilink")，**alias** 是许多命令行界面的命令，比如 [Unix shell](../Page/Unix_shell.md "wikilink")，[4DOS](https://zh.wikipedia.org/wiki/4DOS "wikilink")/[4NT](https://zh.wikipedia.org/wiki/4NT "wikilink") 和 [Windows PowerShell](../Page/Windows_PowerShell.md "wikilink") 等，它给用户提供了别名——也就是用自定义字符串替换指定命令的功能，通常用于简写系统命令，或给常用命令添加默认选项，[MS-DOS](../Page/MS-DOS.md "wikilink") 和 [Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink") 操作系统里，通常使用 [DOSKey](https://zh.wikipedia.org/wiki/DOSKey "wikilink") 命令定义别名。
 
-alias 命令的作用时间是命令运行之后到 shell 会话结束，经常使用的别名可在 shell 的配置文件比如 [C
-Shell](../Page/C_Shell.md "wikilink")（csh）的 `~/.cshrc` 或 [Bourne Again
-Shell](../Page/Bash.md "wikilink") 的 `~/.bashrc` 里定义，如此当相应的 shell
-会话启动后就可以使用这些自定义的别名了。alias 命令可以直接写入这些配置文件，或单独放在一个文件，比如
-.alias 里，或依用户使用的解释器分别定义于 .alias-bash，.alias-csh 等文件，然后使用 source
-命令执行该文件来设定。
+alias 命令的作用时间是命令运行之后到 shell 会话结束，经常使用的别名可在 shell 的配置文件比如 [C Shell](../Page/C_Shell.md "wikilink")（csh）的 `~/.cshrc` 或 [Bourne Again Shell](../Page/Bash.md "wikilink") 的 `~/.bashrc` 里定义，如此当相应的 shell 会话启动后就可以使用这些自定义的别名了。alias 命令可以直接写入这些配置文件，或单独放在一个文件，比如 .alias 里，或依用户使用的解释器分别定义于 .alias-bash，.alias-csh 等文件，然后使用 source 命令执行该文件来设定。
 
 ## 定义别名
 
@@ -21,8 +8,7 @@ Shell](../Page/Bash.md "wikilink") 的 `~/.bashrc` 里定义，如此当相应�
 
 `alias copy='cp'`
 
-同样的别名，在 csh 或 [tcsh](https://zh.wikipedia.org/wiki/tcsh "wikilink")
-里可以这样指定：
+同样的别名，在 csh 或 [tcsh](https://zh.wikipedia.org/wiki/tcsh "wikilink") 里可以这样指定：
 
 `alias copy "cp"`
 
@@ -36,17 +22,11 @@ Shell](../Page/Bash.md "wikilink") 的 `~/.bashrc` 里定义，如此当相应�
 
 `new-alias ci copy-item`
 
-以上命令给 Windows PowerShell 的 `copy-item` 命令定义了一个别名 `ci`，因此用户在 Windows
-PowerShell 里输入 ci 时，实际执行的是 `copy-item` 命令。
+以上命令给 Windows PowerShell 的 `copy-item` 命令定义了一个别名 `ci`，因此用户在 Windows PowerShell 里输入 ci 时，实际执行的是 `copy-item` 命令。
 
 ## 历史
 
-Unix 里，alias 命令是由 C shell 引入的，之后也被加入到 tcsh 和 Bash 里。C shell
-的别名被严格限制在一行里，复杂的 shell
-语言则需要多行，不过单行别名对建立快捷的命令仍然很有用。[Bourne
-shell](../Page/Bourne_shell.md "wikilink")（sh）里没有别名功能，但它有更强大的 shell
-函数方式。Bash 和 [Korn
-shell](https://zh.wikipedia.org/wiki/Korn_shell "wikilink")（ksh）则同时支持函数和别名，并建议在可能时尽量使用函数。
+Unix 里，alias 命令是由 C shell 引入的，之后也被加入到 tcsh 和 Bash 里。C shell 的别名被严格限制在一行里，复杂的 shell 语言则需要多行，不过单行别名对建立快捷的命令仍然很有用。[Bourne shell](../Page/Bourne_shell.md "wikilink")（sh）里没有别名功能，但它有更强大的 shell 函数方式。Bash 和 [Korn shell](https://zh.wikipedia.org/wiki/Korn_shell "wikilink")（ksh）则同时支持函数和别名，并建议在可能时尽量使用函数。
 
 ## 查看當前已定義的别名
 
@@ -74,9 +54,7 @@ shell](https://zh.wikipedia.org/wiki/Korn_shell "wikilink")（ksh）则同时支
 
 `alias dir = *dir /2/p`
 
-第二个 dir 命令前的星号，确保其运行的是原始的 dir
-命令，避免递归地别名展开，用户还可以运行以下命令，确保运行的是原始（未设定别名的）dir
-命令：
+第二个 dir 命令前的星号，确保其运行的是原始的 dir 命令，避免递归地别名展开，用户还可以运行以下命令，确保运行的是原始（未设定别名的）dir 命令：
 
 `*dir`
 
@@ -109,8 +87,7 @@ shell](https://zh.wikipedia.org/wiki/Korn_shell "wikilink")（ksh）则同时支
 
 ### Chaining
 
-别名通常只替换第一个词，但有些命令行解释器，比如 Bash 和 ksh 允许替换一个字符序列或几个单词，这个特性使用 shell
-函数方式是做不到的。
+别名通常只替换第一个词，但有些命令行解释器，比如 Bash 和 ksh 允许替换一个字符序列或几个单词，这个特性使用 shell 函数方式是做不到的。
 
 通常的语法是在第一个定义的别名所替换的命令后加一个空格，比如定义以下两个别名：
 
@@ -157,8 +134,7 @@ shell](https://zh.wikipedia.org/wiki/Korn_shell "wikilink")（ksh）则同时支
 
 `alias l-less 'ls \!* | less'`
 
-然后执行 `l-less /etc /usr`，命令会被展开成 `ls /etc /usr | less`，即列出 /etc 和 /usr
-两个目录的文件，且满屏后暂停，若没有 `\!*`，
+然后执行 `l-less /etc /usr`，命令会被展开成 `ls /etc /usr | less`，即列出 /etc 和 /usr 两个目录的文件，且满屏后暂停，若没有 `\!*`，
 
 `alias l-less 'ls | less'`
 
@@ -199,15 +175,11 @@ Windows PowerShell 的标准别名：
 
 <!-- end list -->
 
-  - [符号链接](../Page/符号链接.md "wikilink")，可放在 `/usr/local/bin`
-    给所有用户使用，或放在用户自己的 `$HOME/bin`
-    目录，只供自己使用。这提供了一个调用命令的新方式，并在某些情况下，对少数支持使用调用名选择操作模式的命令，允许使用其隐含的命令函数。
+  - [符号链接](../Page/符号链接.md "wikilink")，可放在 `/usr/local/bin` 给所有用户使用，或放在用户自己的 `$HOME/bin` 目录，只供自己使用。这提供了一个调用命令的新方式，并在某些情况下，对少数支持使用调用名选择操作模式的命令，允许使用其隐含的命令函数。
 
 <!-- end list -->
 
-  - Shell 函数，特别是如果命令需要修改 shell
-    内部运行环境（如[环境变量](../Page/环境变量.md "wikilink")）、改变当前[工作目录](https://zh.wikipedia.org/wiki/工作目录 "wikilink")、或在非交互
-    shell 使用情况下出现在搜索路径里面（特别是“较安全的” `rm`，`cp`，`mv` 版本等等）。
+  - Shell 函数，特别是如果命令需要修改 shell 内部运行环境（如[环境变量](../Page/环境变量.md "wikilink")）、改变当前[工作目录](https://zh.wikipedia.org/wiki/工作目录 "wikilink")、或在非交互 shell 使用情况下出现在搜索路径里面（特别是“较安全的” `rm`，`cp`，`mv` 版本等等）。
 
 别名最常见的使用方式，是给命令添加常用的选项，这可以使用定义简单 Shell 函数的方式代替：
 
@@ -216,8 +188,7 @@ Windows PowerShell 的标准别名：
  ll () { ls -Flas "$@" ; }        # 列出文件详细信息，Shell 函数方式
 ```
 
-把 **ls** 本身定义成函数，可以用以下方式定义（注意这是 Bash 的 ls 命令，较老的 Bourne shell 需要使用
-/bin/ls 代替）：
+把 **ls** 本身定义成函数，可以用以下方式定义（注意这是 Bash 的 ls 命令，较老的 Bourne shell 需要使用 /bin/ls 代替）：
 
 ``` bash
  ls () { command ls --color=auto "$@" ; }
@@ -232,15 +203,11 @@ Windows PowerShell 的标准别名：
   -
   - [Bash 的 alias 手册页](http://www.ss64.com/bash/alias.html)
 
-  - The Linux 信息项目（LINFO）上的 [alias
-    命令](https://web.archive.org/web/20100218165830/http://www.bellevuelinux.org/alias.html)
+  - The Linux 信息项目（LINFO）上的 [alias 命令](https://web.archive.org/web/20100218165830/http://www.bellevuelinux.org/alias.html)
 
   - [在Linux中设置Alias别名](https://www.ytyzx.org/index.php/%E5%9C%A8Linux%E4%B8%8B%E5%88%9B%E5%BB%BA%E5%88%AB%E5%90%8D%EF%BC%88alias%EF%BC%89)
 
-[Category:标准Unix程序](https://zh.wikipedia.org/wiki/Category:标准Unix程序 "wikilink")
-[Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
-[Category:Windows管理](https://zh.wikipedia.org/wiki/Category:Windows管理 "wikilink")
+[Category:标准Unix程序](https://zh.wikipedia.org/wiki/Category:标准Unix程序 "wikilink") [Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink") [Category:Windows管理](https://zh.wikipedia.org/wiki/Category:Windows管理 "wikilink")
 
-1.  [StackOverflow
-    上的解释](http://stackoverflow.com/questions/1250079/bash-escaping-single-quotes-inside-of-single-quoted-strings#1250279)
+1.  [StackOverflow 上的解释](http://stackoverflow.com/questions/1250079/bash-escaping-single-quotes-inside-of-single-quoted-strings#1250279)
 2.  [给别名传递参数的示例](http://unixhelp.ed.ac.uk/shell/alias_csh2.1.html)

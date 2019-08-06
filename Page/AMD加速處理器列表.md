@@ -1,7 +1,4 @@
-[AMD Accelerated Processing
-Unit](https://zh.wikipedia.org/wiki/AMD加速處理器 "wikilink")
-(APU)前稱AMD
-Fusion，整合[CPU和](https://zh.wikipedia.org/wiki/CPU "wikilink")[GPU](https://zh.wikipedia.org/wiki/GPU "wikilink")。
+[AMD Accelerated Processing Unit](https://zh.wikipedia.org/wiki/AMD加速處理器 "wikilink") (APU)前稱AMD Fusion，整合[CPU和](https://zh.wikipedia.org/wiki/CPU "wikilink")[GPU](https://zh.wikipedia.org/wiki/GPU "wikilink")。
 
 ## 時程表
 
@@ -25,27 +22,17 @@ Fusion，整合[CPU和](https://zh.wikipedia.org/wiki/CPU "wikilink")[GPU](https
 
 ### 第一代AMD APU，基於AMD 10h（K10、K12/12h）
 
-第一款Fusion處理器代號為「**Swift**」，最早將用於代號為「**Shrike**」筆記型電腦平台。Fusion處理器將使用[Socket
-AM3腳位](../Page/Socket_AM3.md "wikilink")，CPU核心是基於Phenom
-X2處理器。那是Phenom處理器的雙核心版本，但不會使用[HyperTransport](../Page/HyperTransport.md "wikilink")，而改用Onion介面。顯示核心方面，將採用縮減版的RV710顯示核心，代號為**Kong**，支援[UVD](../Page/UVD.md "wikilink")，有40個流處理器\[1\]。Fusion處理器將使用40nm製程\[2\]，而非AM3
-Phenom處理器的45nm製程，而Swift核心的Fusion處理器繼任者代號為「**Falcon**」，預計將使用32nm製程，暫定2010年推出。並且Falcon處理器仍由[台積電代工](https://zh.wikipedia.org/wiki/台積電 "wikilink")。\[3\]
-AMD亦將Fusion產品介定為APU(Accelerated Processing Units)。實際上Fusion
-APU的首發產品是2011年初發佈的「Llano」核心。
+第一款Fusion處理器代號為「**Swift**」，最早將用於代號為「**Shrike**」筆記型電腦平台。Fusion處理器將使用[Socket AM3腳位](../Page/Socket_AM3.md "wikilink")，CPU核心是基於Phenom X2處理器。那是Phenom處理器的雙核心版本，但不會使用[HyperTransport](../Page/HyperTransport.md "wikilink")，而改用Onion介面。顯示核心方面，將採用縮減版的RV710顯示核心，代號為**Kong**，支援[UVD](../Page/UVD.md "wikilink")，有40個流處理器\[1\]。Fusion處理器將使用40nm製程\[2\]，而非AM3 Phenom處理器的45nm製程，而Swift核心的Fusion處理器繼任者代號為「**Falcon**」，預計將使用32nm製程，暫定2010年推出。並且Falcon處理器仍由[台積電代工](https://zh.wikipedia.org/wiki/台積電 "wikilink")。\[3\] AMD亦將Fusion產品介定為APU(Accelerated Processing Units)。實際上Fusion APU的首發產品是2011年初發佈的「Llano」核心。
 
 #### Llano
 
-  - 所有型號採用CPU核心是基於[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink")
-    [K10微處理架構核心改進而成的](https://zh.wikipedia.org/wiki/AMD_K10 "wikilink")"
-    Husky "
-  - 所有型號採用32nm [SOI](../Page/SOI.md "wikilink")
-    製程由[GlobalFoundries代工](https://zh.wikipedia.org/wiki/GlobalFoundries "wikilink")
+  - 所有型號採用CPU核心是基於[AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") [K10微處理架構核心改進而成的](https://zh.wikipedia.org/wiki/AMD_K10 "wikilink")" Husky "
+  - 所有型號採用32nm [SOI](../Page/SOI.md "wikilink") 製程由[GlobalFoundries代工](https://zh.wikipedia.org/wiki/GlobalFoundries "wikilink")
   - 所有型號支援[UVD 3硬件視訊解碼器](../Page/UVD.md "wikilink")
   - 所有型號皆為原生雙核心/四核心
   - 所有型號處理器內集成[PCI-E 2.0控制器](../Page/PCI_Express.md "wikilink")
   - 部分型號支援AMD Turbo Core 加速技術
-  - 部分型號可與AMD[Radeon](../Page/Radeon.md "wikilink")HD 6450,
-    6550,6570,6670獨立顯示卡進行[Hybrid
-    CrossFireX](https://zh.wikipedia.org/wiki/CrossFire "wikilink")
+  - 部分型號可與AMD[Radeon](../Page/Radeon.md "wikilink")HD 6450, 6550,6570,6670獨立顯示卡進行[Hybrid CrossFireX](https://zh.wikipedia.org/wiki/CrossFire "wikilink")
   - 部分型號為不建置內顯的處理器，以Athlon、Sempron命名
 
 <table>
@@ -542,22 +529,16 @@ support</p></th>
 
 第二代A系列APU於2012年第二至第三季度分兩批上市，和流動平台一樣，但時間押後於流動平台，而且發布對象是[OEM市場](https://zh.wikipedia.org/wiki/OEM "wikilink")，[零售](../Page/零售.md "wikilink")市場則在10月份推出。4月至6月首發型號有A10-5800K、A10-5700、A8-5600和A8-5500四款型號，CPU部分均為2模組4核心，4MB二級快取；7月至9月第二批上市的型號有A6-5400K和A4-5300，CPU部分均為單模組雙核心，以及1MB二級快取。
 
-和桌上型主流級平台一樣，AMD Fusion
-A系列APU流動版本的核心代號為“Trinity”（三位一體），也分為A10、A8、A6和A4四大系列。其中A10、A8的CPU部分均為雙模組四核心，4MB
-L2快取，主要區別在於內建GPU部分和時脈設定。A10、A8和A6均在2012年4月發布。
+和桌上型主流級平台一樣，AMD Fusion A系列APU流動版本的核心代號為“Trinity”（三位一體），也分為A10、A8、A6和A4四大系列。其中A10、A8的CPU部分均為雙模組四核心，4MB L2快取，主要區別在於內建GPU部分和時脈設定。A10、A8和A6均在2012年4月發布。
 
-實際上，原來「Llano」A8 APU的位置被「Trinity」A10 APU所替代，「Llano」A6 APU的位置被「Trinity」A8
-APU所替代，「Llano」A4 APU的位置被「Trinity」A6 APU所替代（實際是高時脈版的「Trinity」A4 APU）。
+實際上，原來「Llano」A8 APU的位置被「Trinity」A10 APU所替代，「Llano」A6 APU的位置被「Trinity」A8 APU所替代，「Llano」A4 APU的位置被「Trinity」A6 APU所替代（實際是高時脈版的「Trinity」A4 APU）。
 
 #### Trinity
 
-  - 所有型號採用28nm [SOI](../Page/SOI.md "wikilink")
-    製程由[GlobalFoundries代工](https://zh.wikipedia.org/wiki/GlobalFoundries "wikilink")
+  - 所有型號採用28nm [SOI](../Page/SOI.md "wikilink") 製程由[GlobalFoundries代工](https://zh.wikipedia.org/wiki/GlobalFoundries "wikilink")
   - 所有型號處理器內集成[PCI-E 3.0控制器](../Page/PCI_Express.md "wikilink")
   - 部分型號支援AMD Turbo Core 加速技術
-  - 部分型號可與AMD[Radeon](../Page/Radeon.md "wikilink")HD 6450,
-    6550,6570,6670獨立顯示卡進行[Hybrid
-    CrossFireX](https://zh.wikipedia.org/wiki/CrossFire "wikilink")
+  - 部分型號可與AMD[Radeon](../Page/Radeon.md "wikilink")HD 6450, 6550,6570,6670獨立顯示卡進行[Hybrid CrossFireX](https://zh.wikipedia.org/wiki/CrossFire "wikilink")
   - 部分型號為不建置內顯的處理器，以Athlon、Sempron命名
   - Firepro系列為工作站處理器
 
@@ -955,13 +936,9 @@ support</p></th>
 
 #### Richland
 
-「Richland」仍然基於AMD
-Piledriver架構，顯示核心也是基於VILW4架構（雖然GPU改以HD8000命名）。由於CPU核心基本沒大改動，初期有媒體認為「Richland」只是「Trinity」的重新命名。根據AMD在2012年的路線圖，2013年會生產28nm製程的Kaveri取代Trinity，並會使用新的[Steamroller架構及](https://zh.wikipedia.org/wiki/Steamroller架構 "wikilink")[GCN架構](https://zh.wikipedia.org/wiki/GCN架構 "wikilink")。但由於當時格羅方德28nm製程技術未夠成熟，加上要應付[PS4及](https://zh.wikipedia.org/wiki/PS4 "wikilink")[Xbox
-One的APU需求](../Page/Xbox_One.md "wikilink")，桌面級處理器便沒有更新。AMD也把Richland視為第二代處理器。\[7\]\[8\]\[9\]\[10\]\[11\]
+「Richland」仍然基於AMD Piledriver架構，顯示核心也是基於VILW4架構（雖然GPU改以HD8000命名）。由於CPU核心基本沒大改動，初期有媒體認為「Richland」只是「Trinity」的重新命名。根據AMD在2012年的路線圖，2013年會生產28nm製程的Kaveri取代Trinity，並會使用新的[Steamroller架構及](https://zh.wikipedia.org/wiki/Steamroller架構 "wikilink")[GCN架構](https://zh.wikipedia.org/wiki/GCN架構 "wikilink")。但由於當時格羅方德28nm製程技術未夠成熟，加上要應付[PS4及](https://zh.wikipedia.org/wiki/PS4 "wikilink")[Xbox One的APU需求](../Page/Xbox_One.md "wikilink")，桌面級處理器便沒有更新。AMD也把Richland視為第二代處理器。\[7\]\[8\]\[9\]\[10\]\[11\]
 
-同樣採用格羅方德（GlobalFoundries）的32nm製程，但相比「Trinity」核心，工藝仍有所改進；基於Turbo Core
-3.0和PowerTune技術，還增加了Hybrid Boost / Temperature Smart Turbo
-Core（混合加速/溫度智慧動態加速），可根據核心溫度變化情況實時調整CPU和GPU的時脈與電壓。事實上，在製程不變及架構不變的情況下，提高核心時脈及效能而[功率](../Page/功率.md "wikilink")不升高也是一種進步。\[12\]\[13\]
+同樣採用格羅方德（GlobalFoundries）的32nm製程，但相比「Trinity」核心，工藝仍有所改進；基於Turbo Core 3.0和PowerTune技術，還增加了Hybrid Boost / Temperature Smart Turbo Core（混合加速/溫度智慧動態加速），可根據核心溫度變化情況實時調整CPU和GPU的時脈與電壓。事實上，在製程不變及架構不變的情況下，提高核心時脈及效能而[功率](../Page/功率.md "wikilink")不升高也是一種進步。\[12\]\[13\]
 
 <table>
 <caption>桌上版</caption>
@@ -1484,17 +1461,13 @@ support</p></th>
 
 ### 第三代AMD APU，基於AMD Jagaur架構
 
-隨著Bobcat 2.0的取消，[AMD
-Bobcat架構的繼任為新的](../Page/AMD_Bobcat.md "wikilink")[AMD
-Jagaur架構](https://zh.wikipedia.org/wiki/AMD_Jagaur "wikilink")，也是SoC系統單晶片設計，定位和Bobcat一致，面向[平板電腦](../Page/平板電腦.md "wikilink")裝置、超輕薄[小筆電](https://zh.wikipedia.org/wiki/小筆電 "wikilink")、入門級PC以及超低功耗HTPC。採用台積電的28奈米HKMG製程。熱設計功耗在3到15瓦之間。內建採用GCN架構的顯示核心、[USB3.0控制器以及視頻轉碼器等](../Page/USB_3.0.md "wikilink")。CPU核心是原生四核心設計，雙核心產品將會從四核心的晶片上像英特爾首代Core處理器那樣屏蔽遮蔽一半的核心數來獲得。\[18\]
+隨著Bobcat 2.0的取消，[AMD Bobcat架構的繼任為新的](../Page/AMD_Bobcat.md "wikilink")[AMD Jagaur架構](https://zh.wikipedia.org/wiki/AMD_Jagaur "wikilink")，也是SoC系統單晶片設計，定位和Bobcat一致，面向[平板電腦](../Page/平板電腦.md "wikilink")裝置、超輕薄[小筆電](https://zh.wikipedia.org/wiki/小筆電 "wikilink")、入門級PC以及超低功耗HTPC。採用台積電的28奈米HKMG製程。熱設計功耗在3到15瓦之間。內建採用GCN架構的顯示核心、[USB3.0控制器以及視頻轉碼器等](../Page/USB_3.0.md "wikilink")。CPU核心是原生四核心設計，雙核心產品將會從四核心的晶片上像英特爾首代Core處理器那樣屏蔽遮蔽一半的核心數來獲得。\[18\]
 
   - Xbox One與PS4就是使用該架構
 
 #### Kabini
 
-「Kabini」核心主要用於入門PC、HTPC等低功耗裝置，熱設計功耗在9到25瓦之間，內建顯示核心為AMD Radeon
-HD8200/8300/8400系列
-[圖形處理器](../Page/圖形處理器.md "wikilink")，其擁有8個CU單元共128個流處理器，預設時脈400MHz至600MHz。
+「Kabini」核心主要用於入門PC、HTPC等低功耗裝置，熱設計功耗在9到25瓦之間，內建顯示核心為AMD Radeon HD8200/8300/8400系列 [圖形處理器](../Page/圖形處理器.md "wikilink")，其擁有8個CU單元共128個流處理器，預設時脈400MHz至600MHz。
 
   - 在此羅列使用Socket AM1系列APU
 
@@ -1568,20 +1541,13 @@ support</p></th>
 
 ### 第四代AMD APU，基於AMD Steamroller架構
 
-[AMD
-Steamroller是超微第三代](../Page/AMD_Steamroller.md "wikilink")[Bulldozer架構](../Page/AMD_Bulldozer.md "wikilink")，基於第二代Bulldozer架構Piledriver改進，採用台積電和格羅方德的28奈米製程。第四代AMD
-A系列APU將使用基於AMD Steamroller架構的CPU核心，代號「Kaveri」。\[19\]\[20\]
+[AMD Steamroller是超微第三代](../Page/AMD_Steamroller.md "wikilink")[Bulldozer架構](../Page/AMD_Bulldozer.md "wikilink")，基於第二代Bulldozer架構Piledriver改進，採用台積電和格羅方德的28奈米製程。第四代AMD A系列APU將使用基於AMD Steamroller架構的CPU核心，代號「Kaveri」。\[19\]\[20\]
 
 #### Kaveri
 
   - 「Kaveri」核心的AMD APU型號仍然是A10、A8、A6和A4系列，和第二代的一樣
-  - 「Kaveri」核心內建[ARM Cortex-A5
-    MPCore作為TrustZone](https://zh.wikipedia.org/wiki/ARM_Cortex-A5_MPCore "wikilink")
-    IP使用，由[ARM授權AMD使用](https://zh.wikipedia.org/wiki/ARM "wikilink")\[21\]
-  - 「Kaveri」的內建顯示核心確認將使用GCN架構，可能基於Southern Islands顯示核心（[AMD Radeon HD
-    7000](../Page/AMD_Radeon_HD_7000.md "wikilink")）或者是Sea
-    Islands顯示核心（[AMD Radeon HD
-    8000](../Page/AMD_Radeon_HD_8000.md "wikilink")）系列
+  - 「Kaveri」核心內建[ARM Cortex-A5 MPCore作為TrustZone](https://zh.wikipedia.org/wiki/ARM_Cortex-A5_MPCore "wikilink") IP使用，由[ARM授權AMD使用](https://zh.wikipedia.org/wiki/ARM "wikilink")\[21\]
+  - 「Kaveri」的內建顯示核心確認將使用GCN架構，可能基於Southern Islands顯示核心（[AMD Radeon HD 7000](../Page/AMD_Radeon_HD_7000.md "wikilink")）或者是Sea Islands顯示核心（[AMD Radeon HD 8000](../Page/AMD_Radeon_HD_8000.md "wikilink")）系列
   - 正式支援[DDR3](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-2133，而非超頻支援\[22\]
   - 支援 AMD Turbo Core 3.0技術
   - 內建PCI-E 3.0控制器\[23\]
@@ -1926,8 +1892,7 @@ A系列APU將使用基於AMD Steamroller架構的CPU核心，代號「Kaveri」�
   - 桌面版僅推出不帶內顯的型號
   - CPU基於Excavator架構
   - 桌面版使用[Socket FM2+腳位](../Page/Socket_FM2+.md "wikilink")
-  - 筆電版使用[Socket
-    FP4腳位](https://zh.wikipedia.org/wiki/Socket_FP4 "wikilink")
+  - 筆電版使用[Socket FP4腳位](https://zh.wikipedia.org/wiki/Socket_FP4 "wikilink")
 
 <table>
 <thead>
@@ -2005,9 +1970,7 @@ AD845XACKASBX</p></td>
 
 #### "Bristol Ridge" (2016, 28 nm)
 
-  - 桌面版使用Socket AM4 筆電版使用[Socket
-    FP4](https://zh.wikipedia.org/wiki/Socket_FP4 "wikilink") 並支援 [PCIe
-    3.0](https://zh.wikipedia.org/wiki/PCI_Express#3.0 "wikilink")
+  - 桌面版使用Socket AM4 筆電版使用[Socket FP4](https://zh.wikipedia.org/wiki/Socket_FP4 "wikilink") 並支援 [PCIe 3.0](https://zh.wikipedia.org/wiki/PCI_Express#3.0 "wikilink")
   - 內置雙通道DDR4控制器
   - 使用第三代GCN架構顯示晶片
   - 2或4核心配置基於Excavator架構
@@ -2443,22 +2406,7 @@ A12-9720P[27][28]</p></td>
   - 核心面积: 210 mm²
   - [Socket AM4](../Page/Socket_AM4.md "wikilink")
   - [Zen微架构CPU核心](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")
-  - MMX, [SSE](../Page/SSE.md "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [SSE4](../Page/SSE4.md "wikilink")a,
-    [AMD64](../Page/X86-64.md "wikilink"),
-    [AMD-V](../Page/X86虚拟化.md "wikilink"),
-    [AES](https://zh.wikipedia.org/wiki/AES "wikilink"),
-    [CLMUL](https://zh.wikipedia.org/wiki/CLMUL "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink"), [AVX
-    1.1](https://zh.wikipedia.org/wiki/AVX_1.1 "wikilink"),
-    [AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink"),
-    [FMA3](../Page/FMA指令集.md "wikilink"), F16C, ABM, BMI1, BMI2,
-    [RdRand](../Page/RdRand.md "wikilink"), Turbo Core
+  - MMX, [SSE](../Page/SSE.md "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [SSE4](../Page/SSE4.md "wikilink")a, [AMD64](../Page/X86-64.md "wikilink"), [AMD-V](../Page/X86虚拟化.md "wikilink"), [AES](https://zh.wikipedia.org/wiki/AES "wikilink"), [CLMUL](https://zh.wikipedia.org/wiki/CLMUL "wikilink"), [AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink"), [AVX 1.1](https://zh.wikipedia.org/wiki/AVX_1.1 "wikilink"), [AVX2](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink"), [FMA3](../Page/FMA指令集.md "wikilink"), F16C, ABM, BMI1, BMI2, [RdRand](../Page/RdRand.md "wikilink"), Turbo Core
   - GPU基于第五代GCN
   - VCN 1.0
 
@@ -2496,14 +2444,10 @@ A12-9720P[27][28]</p></td>
 ### Opteron X1100-series "Kyoto" (28nm)
 
   - 採用Socket FT3 (BGA)
-  - 全系列4 CPU Cores ([Jaguar
-    (microarchitecture)](https://zh.wikipedia.org/wiki/Jaguar_\(microarchitecture\) "wikilink"))
-  - 支援SSE4.1, SSE4.2, AVX, AES, F16C, BMI1,
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink"), AMD-P
-    (power management)
+  - 全系列4 CPU Cores ([Jaguar (microarchitecture)](https://zh.wikipedia.org/wiki/Jaguar_\(microarchitecture\) "wikilink"))
+  - 支援SSE4.1, SSE4.2, AVX, AES, F16C, BMI1, [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink"), AMD-P (power management)
   - 支援Turbo Dock Technology, C6 and CC6 low power states
-  - 128-bit
-    [FPU](https://zh.wikipedia.org/wiki/floating-point_unit "wikilink")
+  - 128-bit [FPU](https://zh.wikipedia.org/wiki/floating-point_unit "wikilink")
 
 <table>
 <thead>
@@ -2543,9 +2487,7 @@ support</p></th>
 ### [Opteron](../Page/Opteron.md "wikilink") X2100系列 "Kyoto" (2013, 28 nm)
 
   - Socket BGA [FT3](https://zh.wikipedia.org/wiki/FT3 "wikilink")
-  - 4核心配置基於 [Jaguar
-    microarchitecture](https://zh.wikipedia.org/wiki/Jaguar_\(microarchitecture\) "wikilink")
-    核心
+  - 4核心配置基於 [Jaguar microarchitecture](https://zh.wikipedia.org/wiki/Jaguar_\(microarchitecture\) "wikilink") 核心
   - 支援 SSE4.1、SSE4.2、AVX、AES、F16C、BMI1
   - GPU基於[GCN架構](https://zh.wikipedia.org/wiki/GCN "wikilink")
 
@@ -2663,30 +2605,14 @@ support</p></th>
 
 ### 基於AMD Bobcat架構
 
-AMD Bobcat架構的製品採用舊有的AMD K8架構重制而來，面向超輕薄筆電、迷你PC市場，主要競爭對手是[Intel
-Atom以及](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")[VIA
-Isaiah](https://zh.wikipedia.org/wiki/VIA_Isaiah "wikilink")。與同時期基於K10的製品相比，更注重超低功耗表現，內建顯示核心也要比對手Intel
-Atom的要優秀。熱設計功耗在3至17瓦之間不等。
+AMD Bobcat架構的製品採用舊有的AMD K8架構重制而來，面向超輕薄筆電、迷你PC市場，主要競爭對手是[Intel Atom以及](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")[VIA Isaiah](https://zh.wikipedia.org/wiki/VIA_Isaiah "wikilink")。與同時期基於K10的製品相比，更注重超低功耗表現，內建顯示核心也要比對手Intel Atom的要優秀。熱設計功耗在3至17瓦之間不等。
 
 #### Brazos: "Desna", "Ontario", "Zacate" (2011, 40 nm)
 
-  - 基於 [Bobcat
-    microarchitecture](https://zh.wikipedia.org/wiki/Bobcat_\(processor\) "wikilink"),\[30\]
-    manufactured in
-    [TSMC](https://zh.wikipedia.org/wiki/TSMC "wikilink")'s 40 nm
-    process in BGA-413 package for socket FT1
-  - 支援[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")
+  - 基於 [Bobcat microarchitecture](https://zh.wikipedia.org/wiki/Bobcat_\(processor\) "wikilink"),\[30\] manufactured in [TSMC](https://zh.wikipedia.org/wiki/TSMC "wikilink")'s 40 nm process in BGA-413 package for socket FT1
+  - 支援[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")
   - 支援[PowerNow\!](https://zh.wikipedia.org/wiki/PowerNow! "wikilink")
-  - 內建顯示核心支援[DirectX
-    11](https://zh.wikipedia.org/wiki/DirectX_11 "wikilink") [UVD
-    3.0](https://zh.wikipedia.org/wiki/Unified_Video_Decoder#UVD_3 "wikilink")
+  - 內建顯示核心支援[DirectX 11](https://zh.wikipedia.org/wiki/DirectX_11 "wikilink") [UVD 3.0](https://zh.wikipedia.org/wiki/Unified_Video_Decoder#UVD_3 "wikilink")
 
 <table>
 <thead>
@@ -2819,19 +2745,8 @@ C0</p></td>
 
 #### Brazos 2.0: "Ontario", "Zacate" (2012, 40 nm)
 
-  - 基於[Bobcat
-    microarchitecture](https://zh.wikipedia.org/wiki/Bobcat_\(processor\) "wikilink"),\[31\]
-    manufactured in
-    [TSMC](https://zh.wikipedia.org/wiki/TSMC "wikilink")'s 40 nm
-    process in BGA-413 package for socket FT1
-  - 支援[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")
+  - 基於[Bobcat microarchitecture](https://zh.wikipedia.org/wiki/Bobcat_\(processor\) "wikilink"),\[31\] manufactured in [TSMC](https://zh.wikipedia.org/wiki/TSMC "wikilink")'s 40 nm process in BGA-413 package for socket FT1
+  - 支援[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")
   - 支援PowerNow\!
   - 內顯支援DirectX 11
 
@@ -2925,19 +2840,8 @@ support</p></th>
 
 #### Brazos-T: "Hondo" (2012, 40 nm)
 
-  - 基於 [Bobcat
-    microarchitecture](https://zh.wikipedia.org/wiki/Bobcat_\(processor\) "wikilink"),\[32\]
-    manufactured in
-    [TSMC](https://zh.wikipedia.org/wiki/TSMC "wikilink")'s 40 nm
-    process in BGA-413 package for socket FT1. Found in tablet computers
-  - 支援[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [NX
-    bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"),
-    [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"),
-    [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")
+  - 基於 [Bobcat microarchitecture](https://zh.wikipedia.org/wiki/Bobcat_\(processor\) "wikilink"),\[32\] manufactured in [TSMC](https://zh.wikipedia.org/wiki/TSMC "wikilink")'s 40 nm process in BGA-413 package for socket FT1. Found in tablet computers
+  - 支援[SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4a](https://zh.wikipedia.org/wiki/SSE4a "wikilink"), [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink"), [AMD64](https://zh.wikipedia.org/wiki/AMD64 "wikilink"), [AMD-V](https://zh.wikipedia.org/wiki/AMD-V "wikilink")
   - 支援PowerNow\!
   - 內顯支援DirectX 11
 
@@ -2982,15 +2886,11 @@ support</p></th>
 ### 基於AMD Jagaur架構
 
   - 採用Socket FT3 (BGA)
-  - 全系列2或4個核心 ([Jaguar
-    (microarchitecture)](https://zh.wikipedia.org/wiki/Jaguar_\(microarchitecture\) "wikilink"))
+  - 全系列2或4個核心 ([Jaguar (microarchitecture)](https://zh.wikipedia.org/wiki/Jaguar_\(microarchitecture\) "wikilink"))
   - 支援SSE4.1, SSE4.2, AVX, AES, F16C, BMI1
   - 支援Turbo Dock Technology, C6 and CC6 low power states
-  - GPU 基於 [Graphics Core
-    Next](https://zh.wikipedia.org/wiki/Graphics_Core_Next "wikilink")
-    (GCN)
-  - 支援[AMD
-    Eyefinity最高能提供雙螢幕輸出](https://zh.wikipedia.org/wiki/AMD_Eyefinity "wikilink")
+  - GPU 基於 [Graphics Core Next](https://zh.wikipedia.org/wiki/Graphics_Core_Next "wikilink") (GCN)
+  - 支援[AMD Eyefinity最高能提供雙螢幕輸出](https://zh.wikipedia.org/wiki/AMD_Eyefinity "wikilink")
 
 #### Temash
 
@@ -3184,17 +3084,12 @@ support</p></th>
 
 ### 第五代AMD APU "Beema", "Mullins"，基於 PUMA 核心 (2014, 28 nm)
 
-  - 採用[Socket FT3b](https://zh.wikipedia.org/wiki/Socket_FT3 "wikilink")
-    (BGA)
-  - 全系列2或4個([Puma
-    cores](https://zh.wikipedia.org/wiki/Puma_\(microarchitecture\) "wikilink"))
-  - GPU 基於 [Graphics Core
-    Next](https://zh.wikipedia.org/wiki/Graphics_Core_Next "wikilink")
-    (GCN)
+  - 採用[Socket FT3b](https://zh.wikipedia.org/wiki/Socket_FT3 "wikilink") (BGA)
+  - 全系列2或4個([Puma cores](https://zh.wikipedia.org/wiki/Puma_\(microarchitecture\) "wikilink"))
+  - GPU 基於 [Graphics Core Next](https://zh.wikipedia.org/wiki/Graphics_Core_Next "wikilink") (GCN)
   - 支援SSE4.1, SSE4.2, AVX, AES, F16C, BMI1
   - 支援Intelligent Turbo Boost
-  - 內置 [ARM Cortex-A5](../Page/ARM_Cortex-A5.md "wikilink") 做為
-    [TrustZone](https://zh.wikipedia.org/wiki/TrustZone "wikilink")
+  - 內置 [ARM Cortex-A5](../Page/ARM_Cortex-A5.md "wikilink") 做為 [TrustZone](https://zh.wikipedia.org/wiki/TrustZone "wikilink")
 
 #### Mullins
 
@@ -3358,10 +3253,8 @@ support</p></th>
 
 ### "Carrizo-L" (2015, 28 nm)
 
-  - 採用[Socket FP4](https://zh.wikipedia.org/wiki/Socket_FP4 "wikilink")
-    (µBGA)\[35\]
-  - 全系列2 或 4個 ([Puma+
-    cores](https://zh.wikipedia.org/wiki/Puma_\(microarchitecture\) "wikilink"))
+  - 採用[Socket FP4](https://zh.wikipedia.org/wiki/Socket_FP4 "wikilink") (µBGA)\[35\]
+  - 全系列2 或 4個 ([Puma+ cores](https://zh.wikipedia.org/wiki/Puma_\(microarchitecture\) "wikilink"))
 
 | 型號            | CPU | GPU     | 記憶體支援     | TDP  | 發表時間       |
 | ------------- | --- | ------- | --------- | ---- | ---------- |
@@ -3400,12 +3293,9 @@ support</p></th>
 
 #### Brazos: "Ontario" and "Zacate" (2011, 40 nm)
 
-  - 採用[Socket FT1](https://zh.wikipedia.org/wiki/Socket_FT1 "wikilink")
-    (BGA-413)
-  - CPU 基於
-    [Bobcat](https://zh.wikipedia.org/wiki/Bobcat_\(processor\) "wikilink")\[39\]
-  - GPU 基於 [TeraScale 2 (VLIW5)
-    "Evergreen"](https://zh.wikipedia.org/wiki/TeraScale_\(microarchitecture\)#TeraScale_2 "wikilink")
+  - 採用[Socket FT1](https://zh.wikipedia.org/wiki/Socket_FT1 "wikilink") (BGA-413)
+  - CPU 基於 [Bobcat](https://zh.wikipedia.org/wiki/Bobcat_\(processor\) "wikilink")\[39\]
+  - GPU 基於 [TeraScale 2 (VLIW5) "Evergreen"](https://zh.wikipedia.org/wiki/TeraScale_\(microarchitecture\)#TeraScale_2 "wikilink")
   - 記憶體支援單通道雙DIMM DDR3-1066/1333
   - 5 GT/s UMI
 
@@ -3567,31 +3457,16 @@ HD 6320</p></td>
 
 #### "Kabini" (2013, 28 nm)
 
-  - 採用[Socket FT3](https://zh.wikipedia.org/wiki/Socket_FT3 "wikilink")
-    (769-BGA)\[40\]
-  - CPU 基於
-    [Jaguar](https://zh.wikipedia.org/wiki/Jaguar_\(microarchitecture\) "wikilink")
+  - 採用[Socket FT3](https://zh.wikipedia.org/wiki/Socket_FT3 "wikilink") (769-BGA)\[40\]
+  - CPU 基於 [Jaguar](https://zh.wikipedia.org/wiki/Jaguar_\(microarchitecture\) "wikilink")
   - 支援 SSE4.1, SSE4.2, AVX, AES, F16C, BMI1
-  - 不支援[FMA (Fused
-    Multiply-Accumulate)](https://zh.wikipedia.org/wiki/FMA_instruction_set "wikilink"),
-    [AMD Virtualization
-    technology](https://zh.wikipedia.org/wiki/AMD_Virtualization "wikilink")
-  - GPU 基於 [Graphics Core
-    Next](https://zh.wikipedia.org/wiki/Graphics_Core_Next "wikilink")
-    (GCN)
-  - 不支援支援視訊硬體加速 [Unified Video
-    Decoder](https://zh.wikipedia.org/wiki/Unified_Video_Decoder "wikilink") 3
-    (H.264, VC-1, MPEG2, etc.)
-  - 支援單通道[ECC
-    memory](https://zh.wikipedia.org/wiki/ECC_memory "wikilink")
-    DDR3-1600
-  - integrates [Controller
-    Hub](https://zh.wikipedia.org/wiki/A85X "wikilink") functional block
-    as well
+  - 不支援[FMA (Fused Multiply-Accumulate)](https://zh.wikipedia.org/wiki/FMA_instruction_set "wikilink"), [AMD Virtualization technology](https://zh.wikipedia.org/wiki/AMD_Virtualization "wikilink")
+  - GPU 基於 [Graphics Core Next](https://zh.wikipedia.org/wiki/Graphics_Core_Next "wikilink") (GCN)
+  - 不支援支援視訊硬體加速 [Unified Video Decoder](https://zh.wikipedia.org/wiki/Unified_Video_Decoder "wikilink") 3 (H.264, VC-1, MPEG2, etc.)
+  - 支援單通道[ECC memory](https://zh.wikipedia.org/wiki/ECC_memory "wikilink") DDR3-1600
+  - integrates [Controller Hub](https://zh.wikipedia.org/wiki/A85X "wikilink") functional block as well
   - [G-Series 2.0](http://www.amd.com/us/press-releases/Pages/amd-embedded-gseries-2013apr23.aspx)
-  - 支援[Trusted Platform
-    Module](https://zh.wikipedia.org/wiki/Trusted_Platform_Module "wikilink")
-    (TPM)
+  - 支援[Trusted Platform Module](https://zh.wikipedia.org/wiki/Trusted_Platform_Module "wikilink") (TPM)
   - 內建 HD audio and 2 SATA channels
   - 內建 USB 2.0 and USB 3.0 (GX-210JA no USB 3.0)\[41\]
 
@@ -3685,8 +3560,7 @@ support</p></th>
 
 #### "Steppe Eagle" (2014, [SoC](https://zh.wikipedia.org/wiki/System_on_a_chip "wikilink"),28nm)
 
-  - 採用[Socket
-    FT3b](https://zh.wikipedia.org/wiki/Socket_FT3b "wikilink")(BGA-769)腳位
+  - 採用[Socket FT3b](https://zh.wikipedia.org/wiki/Socket_FT3b "wikilink")(BGA-769)腳位
   - CPU基於[Puma架構](https://zh.wikipedia.org/wiki/Puma "wikilink")
 
 <table>
@@ -3778,8 +3652,7 @@ support</p></th>
 
 #### "Crowned Eagle" (2014, [SoC](https://zh.wikipedia.org/wiki/System_on_a_chip "wikilink"),28nm)
 
-  - 採用[Socket
-    FT3b](https://zh.wikipedia.org/wiki/Socket_FT3b "wikilink")(BGA-769)腳位
+  - 採用[Socket FT3b](https://zh.wikipedia.org/wiki/Socket_FT3b "wikilink")(BGA-769)腳位
   - CPU基於[PUMA](../Page/PUMA.md "wikilink")架構
   - 不帶內顯
 
@@ -3852,11 +3725,9 @@ support</p></th>
 
 #### I家族: "Brown Falcon" (2016, [SoC](https://zh.wikipedia.org/wiki/System_on_a_chip "wikilink"),28nm)
 
-  - 採用[Socket
-    FP4腳位](https://zh.wikipedia.org/wiki/Socket_FP4 "wikilink")
+  - 採用[Socket FP4腳位](https://zh.wikipedia.org/wiki/Socket_FP4 "wikilink")
   - 2核心配置基於[Excavator架構](https://zh.wikipedia.org/wiki/Excavator "wikilink")
-  - GPU基於[GCN架構支援](https://zh.wikipedia.org/wiki/GCN "wikilink")[DirectX](../Page/DirectX.md "wikilink")
-    12
+  - GPU基於[GCN架構支援](https://zh.wikipedia.org/wiki/GCN "wikilink")[DirectX](../Page/DirectX.md "wikilink") 12
   - 支援雙通道ECC DDR3或DDR4
   - 支援 4K\*2K H.265解碼
 
@@ -3899,11 +3770,9 @@ support</p></th>
 
 #### J家族: "Prairie Falcon" (2016, [SoC](https://zh.wikipedia.org/wiki/System_on_a_chip "wikilink"),28nm)
 
-  - 採用[Socket
-    FP4腳位](https://zh.wikipedia.org/wiki/Socket_FP4 "wikilink")
+  - 採用[Socket FP4腳位](https://zh.wikipedia.org/wiki/Socket_FP4 "wikilink")
   - 2核心配置基於[Excavator架構](https://zh.wikipedia.org/wiki/Excavator "wikilink")
-  - GPU最高配置3CU基於[GCN架構支援](https://zh.wikipedia.org/wiki/GCN "wikilink")[DirectX](../Page/DirectX.md "wikilink")
-    12
+  - GPU最高配置3CU基於[GCN架構支援](https://zh.wikipedia.org/wiki/GCN "wikilink")[DirectX](../Page/DirectX.md "wikilink") 12
   - 支援單通道DDR3或DDR4
   - 支援 4K\*2K H.265解碼
 
@@ -3956,8 +3825,7 @@ support</p></th>
 
 #### LX家族 (2016, [SoC](https://zh.wikipedia.org/wiki/System_on_a_chip "wikilink"),28nm)
 
-  - 採用[Socket
-    FT3b腳位](https://zh.wikipedia.org/wiki/Socket_FT3b "wikilink")(BGA-769)
+  - 採用[Socket FT3b腳位](https://zh.wikipedia.org/wiki/Socket_FT3b "wikilink")(BGA-769)
   - 2核心配置基於[Puma架構](https://zh.wikipedia.org/wiki/Puma "wikilink")
   - GPU最高1CU配置基於[GCN架構支援](https://zh.wikipedia.org/wiki/GCN "wikilink")[DirctX](https://zh.wikipedia.org/wiki/DirctX "wikilink")12
   - 支援單通道ECC DDR3
@@ -4033,12 +3901,9 @@ support</p></th>
 
 #### Comal: "Trinity" (2012, 32 nm)
 
-  - 採用[Socket FP2](https://zh.wikipedia.org/wiki/Socket_FP2 "wikilink")
-    (BGA-827)
-  - CPU 基於
-    [Piledriver](https://zh.wikipedia.org/wiki/Piledriver_\(microarchitecture\) "wikilink")
-  - GPU 基於 [TeraScale 3 (VLIW4) "Northern
-    Islands"](https://zh.wikipedia.org/wiki/TeraScale_\(microarchitecture\)#TeraScale_3 "wikilink")
+  - 採用[Socket FP2](https://zh.wikipedia.org/wiki/Socket_FP2 "wikilink") (BGA-827)
+  - CPU 基於 [Piledriver](https://zh.wikipedia.org/wiki/Piledriver_\(microarchitecture\) "wikilink")
+  - GPU 基於 [TeraScale 3 (VLIW4) "Northern Islands"](https://zh.wikipedia.org/wiki/TeraScale_\(microarchitecture\)#TeraScale_3 "wikilink")
   - 記憶體支援雙通道DDR3L-1600/DDR3-1600
   - 2.5 GT/s UMI
   - Die size: 246 mm²; Transistors: 1.303 billion
@@ -4349,48 +4214,21 @@ DDR4-2400</p></td>
 
 ## 備註
 
-<cite id="fn_1">[Note
-1:](https://zh.wikipedia.org/wiki/#fn_1_back "wikilink")</cite> The
-clock multiplier applies to the 200 MHz base clock. (AMD default clock
-base is 200 MHz)
-<cite id="fn_2">[Note
-2:](https://zh.wikipedia.org/wiki/#fn_2_back "wikilink")</cite> [Unified
-shader
-processors](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink")
-(USPs): [Texture mapping
-units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink")
-(TMUs): [Render output
-units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink")
-(ROPs). 1 CU (Compute Unit) = 64 USPs: 4 TMUs : 1 ROPs
-<cite id="fn_3">[Note
-3:](https://zh.wikipedia.org/wiki/#fn_3_back "wikilink")</cite> Models
-enabled by Turbo Core technology, up to 10% clock speed increase is
-planned. With CPU boost, only one core of a dual-core model has boost
-enabled.
-<cite id="fn_4">[Note
-4:](https://zh.wikipedia.org/wiki/#fn_4_back "wikilink")</cite> K models
-feature an unlocked multiplier and overclockable GPU.
-<cite id="fn_5">[Note
-5:](https://zh.wikipedia.org/wiki/#fn_5_back "wikilink")</cite> One AMD
-module consists of two integer cores and two FPUs, which can be combined
-into one wide FPU for executing certain instructions, such as FMA. The
-two cores share certain resources, but are two separate units.
+<cite id="fn_1">[Note 1:](https://zh.wikipedia.org/wiki/#fn_1_back "wikilink")</cite> The clock multiplier applies to the 200 MHz base clock. (AMD default clock base is 200 MHz)
+<cite id="fn_2">[Note 2:](https://zh.wikipedia.org/wiki/#fn_2_back "wikilink")</cite> [Unified shader processors](https://zh.wikipedia.org/wiki/Unified_shader_model "wikilink") (USPs): [Texture mapping units](https://zh.wikipedia.org/wiki/Texture_mapping_unit "wikilink") (TMUs): [Render output units](https://zh.wikipedia.org/wiki/Render_output_unit "wikilink") (ROPs). 1 CU (Compute Unit) = 64 USPs: 4 TMUs : 1 ROPs
+<cite id="fn_3">[Note 3:](https://zh.wikipedia.org/wiki/#fn_3_back "wikilink")</cite> Models enabled by Turbo Core technology, up to 10% clock speed increase is planned. With CPU boost, only one core of a dual-core model has boost enabled.
+<cite id="fn_4">[Note 4:](https://zh.wikipedia.org/wiki/#fn_4_back "wikilink")</cite> K models feature an unlocked multiplier and overclockable GPU.
+<cite id="fn_5">[Note 5:](https://zh.wikipedia.org/wiki/#fn_5_back "wikilink")</cite> One AMD module consists of two integer cores and two FPUs, which can be combined into one wide FPU for executing certain instructions, such as FMA. The two cores share certain resources, but are two separate units.
 
 ## 參考資料
 
 ## 外部連結
 
-  - [AMD Accelerated Processing Units official
-    website](https://web.archive.org/web/20131122152330/http://www.amd.com/us/products/technologies/apu/Pages/apu.aspx)
-  - [Technical specification AMD
-    products](http://products.amd.com/en-us/)
-  - [AMD products and
-    technologies](http://www.amd.com/us/products/Pages/products.aspx)
+  - [AMD Accelerated Processing Units official website](https://web.archive.org/web/20131122152330/http://www.amd.com/us/products/technologies/apu/Pages/apu.aspx)
+  - [Technical specification AMD products](http://products.amd.com/en-us/)
+  - [AMD products and technologies](http://www.amd.com/us/products/Pages/products.aspx)
 
-[Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink")
-[Category:并发计算](https://zh.wikipedia.org/wiki/Category:并发计算 "wikilink")
-[Category:系統單晶片](https://zh.wikipedia.org/wiki/Category:系統單晶片 "wikilink")
-[Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink")
+[Category:AMD处理器](https://zh.wikipedia.org/wiki/Category:AMD处理器 "wikilink") [Category:并发计算](https://zh.wikipedia.org/wiki/Category:并发计算 "wikilink") [Category:系統單晶片](https://zh.wikipedia.org/wiki/Category:系統單晶片 "wikilink") [Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink")
 
 1.
 
@@ -4404,22 +4242,15 @@ two cores share certain resources, but are two separate units.
 
 6.
 
-7.  [Richland
-    APU拒绝马甲！4.1GHz起跳、GCN显卡](http://news.mydrivers.com/1/253/253415.htm)
-    - mydrivers.com
+7.  [Richland APU拒绝马甲！4.1GHz起跳、GCN显卡](http://news.mydrivers.com/1/253/253415.htm) - mydrivers.com
 
-8.  [都是马甲？6000系列APU型号、规格曝光](http://news.mydrivers.com/1/253/253362.htm)
-    - mydrivers.com
+8.  [都是马甲？6000系列APU型号、规格曝光](http://news.mydrivers.com/1/253/253362.htm) - mydrivers.com
 
-9.  [(6/6更新)測試文 APU A10-6800k (第1頁) - 中央處理器 -
-    mobile01](http://www.mobile01.com/topicdetail.php?f=296&t=3396407&last=44212883)
+9.  [(6/6更新)測試文 APU A10-6800k (第1頁) - 中央處理器 - mobile01](http://www.mobile01.com/topicdetail.php?f=296&t=3396407&last=44212883)
 
-10. [AMD先發表行動版本Richland
-    APU，桌機版本再等等\~](http://www.oc.com.tw/articles/2013-03-13-news-amd-release-mobile-richland-apu-model.html)
-     - oc.com.tw
+10. [AMD先發表行動版本Richland APU，桌機版本再等等\~](http://www.oc.com.tw/articles/2013-03-13-news-amd-release-mobile-richland-apu-model.html)  - oc.com.tw
 
-11. [AMD：架构什么的都去见鬼 性能才是王道](http://www.ithome.com/html/digi/40117.htm)  -
-    ithome.com
+11. [AMD：架构什么的都去见鬼 性能才是王道](http://www.ithome.com/html/digi/40117.htm)  - ithome.com
 
 12.
 13.
@@ -4430,8 +4261,7 @@ two cores share certain resources, but are two separate units.
 16.
 17.
 
-18. [最低不足4W：AMD 28nm低功耗APU真身露面](http://news.mydrivers.com/1/252/252408.htm)
-    - mydrivers.com
+18. [最低不足4W：AMD 28nm低功耗APU真身露面](http://news.mydrivers.com/1/252/252408.htm) - mydrivers.com
 
 19.
 
@@ -4455,8 +4285,7 @@ two cores share certain resources, but are two separate units.
 
 29. [1](https://www.amd.com/zh-hant/opteron)
 
-30. [AMD Brazos Platform
-    Preview](http://www.anandtech.com/show/4003/previewing-amds-brazos-part-1-more-details-on-zacateontario-and-fusion/2)
+30. [AMD Brazos Platform Preview](http://www.anandtech.com/show/4003/previewing-amds-brazos-part-1-more-details-on-zacateontario-and-fusion/2)
 
 31.
 32.
@@ -4472,8 +4301,7 @@ two cores share certain resources, but are two separate units.
 
 38. <http://store.hp.com/us/en/pdp/hp-pavilion-desktop-570-a135m?pStoreID=epp>
 
-39. [AMD Delivers the World’s First and Only APU for Embedded
-    Systems](http://www.amd.com/us/press-releases/Pages/apu-embedded-systems-2011jan19.aspx?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+amdpressreleases+%28Press+Releases%29)
+39. [AMD Delivers the World’s First and Only APU for Embedded Systems](http://www.amd.com/us/press-releases/Pages/apu-embedded-systems-2011jan19.aspx?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+amdpressreleases+%28Press+Releases%29)
 
 40. [2](http://www.amd.com/en-us/products/embedded/processors/g-series#)
 

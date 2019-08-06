@@ -1,10 +1,6 @@
-**One57**，又名**卡內基
-57**（）\[1\]，是一棟位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")區57街157號西的摩天大樓，其建築高度，實際樓高75層（官方宣稱共90層），於2014年建成，是紐約的[摩天大樓之一](https://zh.wikipedia.org/wiki/高層建築物 "wikilink")。\[2\]\[3\]\[4\]發展商為，該大樓擁有135個住宅單位，和一個有210個房間的五星級酒店，由[凱悅酒店](../Page/凱悅酒店.md "wikilink")集團管理。\[5\]\[6\]\[7\]地基工程於2010年1月展開，直到2012年6月20日封頂。\[8\]近頂層的9個全層單位已經售出，買家包括最少2名來自[中國](../Page/中國.md "wikilink")的[富豪](https://zh.wikipedia.org/wiki/富豪 "wikilink")。位於89樓及90樓近的單位，均以逾7億4000萬港元天價成交，打破同年3月由一個頂層單位創下6億8000萬港元的成交記錄。\[9\]
+**One57**，又名**卡內基 57**（）\[1\]，是一棟位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")區57街157號西的摩天大樓，其建築高度，實際樓高75層（官方宣稱共90層），於2014年建成，是紐約的[摩天大樓之一](https://zh.wikipedia.org/wiki/高層建築物 "wikilink")。\[2\]\[3\]\[4\]發展商為，該大樓擁有135個住宅單位，和一個有210個房間的五星級酒店，由[凱悅酒店](../Page/凱悅酒店.md "wikilink")集團管理。\[5\]\[6\]\[7\]地基工程於2010年1月展開，直到2012年6月20日封頂。\[8\]近頂層的9個全層單位已經售出，買家包括最少2名來自[中國](../Page/中國.md "wikilink")的[富豪](https://zh.wikipedia.org/wiki/富豪 "wikilink")。位於89樓及90樓近的單位，均以逾7億4000萬港元天價成交，打破同年3月由一個頂層單位創下6億8000萬港元的成交記錄。\[9\]
 
-香港時裝業大亨[曹其峰](../Page/曹其峰.md "wikilink")（Silas
-Chou）已簽約落訂，買入紐約市興建中的住宅大廈One
-57一個佔全層的單位，價值為五千萬美元（約三億九千萬港元）。而另一名買家則為曹的生意拍檔，來自加拿大的億萬富翁斯特羅（Lawrence
-Stroll）。\[10\]截至2015年1月，One57是紐約市最昂貴的公寓住宅。\[11\]
+香港時裝業大亨[曹其峰](../Page/曹其峰.md "wikilink")（Silas Chou）已簽約落訂，買入紐約市興建中的住宅大廈One 57一個佔全層的單位，價值為五千萬美元（約三億九千萬港元）。而另一名買家則為曹的生意拍檔，來自加拿大的億萬富翁斯特羅（Lawrence Stroll）。\[10\]截至2015年1月，One57是紐約市最昂貴的公寓住宅。\[11\]
 
 ## 計畫與建造
 
@@ -14,8 +10,7 @@ One57的開發商是，在建築開工前，埃克斯特爾的創辦人兼總裁
 
 2012年6月20日，建築頂層的框架已經完工。\[20\]不久之後，官方透露位於第75樓與第76樓且樓板面積的住宅單位，其別稱為「冬季花園」的雙層豪華公寓已交易出去，但細節並未公開。.\[21\]\[22\]
 
-2012年10月，企業家邁克爾·希爾滕斯坦（Michael
-Hirtenstein）在購買時與巴尼特起爭執。希爾滕斯坦聲稱他不會花費1600萬美元後，無法事先查看購屋處，並直指他所購買的公寓單位，其向外看的視野被遮蔽了。巴尼特堅持所有買家禁止在購買前查看公寓，當希爾滕斯坦私自買通一名建築工人拍攝一段視頻後，巴尼特決定取消與希爾滕斯坦簽署的合同。\[23\]\[24\]
+2012年10月，企業家邁克爾·希爾滕斯坦（Michael Hirtenstein）在購買時與巴尼特起爭執。希爾滕斯坦聲稱他不會花費1600萬美元後，無法事先查看購屋處，並直指他所購買的公寓單位，其向外看的視野被遮蔽了。巴尼特堅持所有買家禁止在購買前查看公寓，當希爾滕斯坦私自買通一名建築工人拍攝一段視頻後，巴尼特決定取消與希爾滕斯坦簽署的合同。\[23\]\[24\]
 
 ### 起重機倒塌
 
@@ -33,15 +28,13 @@ Hirtenstein）在購買時與巴尼特起爭執。希爾滕斯坦聲稱他不會
 
 ## 建築主體與設計
 
-One57的設計者為曾獲得[普立茲克獎的法籍建築師](https://zh.wikipedia.org/wiki/普立茲克獎 "wikilink")[克里斯蒂安·德·波宗巴克](https://zh.wikipedia.org/wiki/克里斯蒂安·德·波宗巴克 "wikilink")，建築內部設計則由紐約知名設計師湯馬士·尤爾·漢森（Thomas
-Juul-Hansen）包辦。\[37\]
+One57的設計者為曾獲得[普立茲克獎的法籍建築師](https://zh.wikipedia.org/wiki/普立茲克獎 "wikilink")[克里斯蒂安·德·波宗巴克](https://zh.wikipedia.org/wiki/克里斯蒂安·德·波宗巴克 "wikilink")，建築內部設計則由紐約知名設計師湯馬士·尤爾·漢森（Thomas Juul-Hansen）包辦。\[37\]
 
 建築物外部使用黑色和淺色玻璃製成垂直條紋裝飾，同時還可以控制陽光透射量及視野最大化。\[38\]大廈的設計特點在於其波紋狀頂罩、靠57街側的外牆逐漸縮進、斑點式開窗法、曲線樣式的頂層與凹槽設計、以及幾近垂直的建築立面。\[39\]One57建成後超越自1930年建成的[華爾街40號](../Page/華爾街40號.md "wikilink")，成為紐約市中城區域最高的摩天大樓。\[40\]
 
 ## 評價
 
-One57在網站上票選獲得2014年年度最糟糕建築，大多數建築評論者反應其藍色波浪立面很醜陋，紐約雜誌的評論家甚至稱其為「笨拙的花花公子」。前[彭博社評論家詹姆士](https://zh.wikipedia.org/wiki/彭博社 "wikilink")·拉塞爾（James
-Russell）感嘆「無止盡的廉價無框玻璃如同卡通似地條紋，上面還有著銀色與白鑞斑點」。[紐約時報的評論家](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")以更犀利的評論道「這個建築物如同一條笨拙的曲線瀑布，它們僅被一層有光澤的窗戶的折射來美化，如同上面有水痘及老年斑。」\[41\]
+One57在網站上票選獲得2014年年度最糟糕建築，大多數建築評論者反應其藍色波浪立面很醜陋，紐約雜誌的評論家甚至稱其為「笨拙的花花公子」。前[彭博社評論家詹姆士](https://zh.wikipedia.org/wiki/彭博社 "wikilink")·拉塞爾（James Russell）感嘆「無止盡的廉價無框玻璃如同卡通似地條紋，上面還有著銀色與白鑞斑點」。[紐約時報的評論家](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")以更犀利的評論道「這個建築物如同一條笨拙的曲線瀑布，它們僅被一層有光澤的窗戶的折射來美化，如同上面有水痘及老年斑。」\[41\]
 
 ## 名人業主
 
@@ -52,9 +45,7 @@ Russell）感嘆「無止盡的廉價無框玻璃如同卡通似地條紋，上�
 
 ## 照片集
 
-<File:2017> One57 base from Seventh Avenue.jpg|位於第7大道的One57基座
-<File:2017> One57 tower from Seventh Avenue.jpg|從第7大道仰望One57
-<File:Central> Park New York May 2015 001 crop.jpg|從中央公園仰望One57
+<File:2017> One57 base from Seventh Avenue.jpg|位於第7大道的One57基座 <File:2017> One57 tower from Seventh Avenue.jpg|從第7大道仰望One57 <File:Central> Park New York May 2015 001 crop.jpg|從中央公園仰望One57
 
 ## 參見
 
@@ -71,13 +62,9 @@ Russell）感嘆「無止盡的廉價無框玻璃如同卡通似地條紋，上�
 ## 外部連結
 
   -
-  - [Archive of One57 Construction Photos From New York
-    YIMBY](http://www.newyorkyimby.com/search/label/One57)
+  - [Archive of One57 Construction Photos From New York YIMBY](http://www.newyorkyimby.com/search/label/One57)
 
-[Category:300米至349米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:300米至349米高的摩天大樓 "wikilink")
-[Category:曼哈頓摩天大樓](https://zh.wikipedia.org/wiki/Category:曼哈頓摩天大樓 "wikilink")
-[Category:2014年完工建築物](https://zh.wikipedia.org/wiki/Category:2014年完工建築物 "wikilink")
-[Category:2014年紐約州建立](https://zh.wikipedia.org/wiki/Category:2014年紐約州建立 "wikilink")
+[Category:300米至349米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:300米至349米高的摩天大樓 "wikilink") [Category:曼哈頓摩天大樓](https://zh.wikipedia.org/wiki/Category:曼哈頓摩天大樓 "wikilink") [Category:2014年完工建築物](https://zh.wikipedia.org/wiki/Category:2014年完工建築物 "wikilink") [Category:2014年紐約州建立](https://zh.wikipedia.org/wiki/Category:2014年紐約州建立 "wikilink")
 
 1.
 

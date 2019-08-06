@@ -2,13 +2,11 @@
 
 ## 歷史
 
-PlentyOfFish創辦人馬爾庫斯·弗萊德在1999年畢業於[英屬哥倫比亞理工學院](https://zh.wikipedia.org/wiki/英屬哥倫比亞理工學院 "wikilink")。\[5\]自從2003年創立起，該網站一直是以[免費註冊的方式運行](https://zh.wikipedia.org/wiki/免費 "wikilink")，其收入主要來自於[Google
-AdSense](../Page/Google_AdSense.md "wikilink")，並無與[投資者合作](https://zh.wikipedia.org/wiki/投資者 "wikilink")。\[6\]2012年，PlentyOfFish被[商業內幕選為全球第](https://zh.wikipedia.org/wiki/商業內幕 "wikilink")97家最有價值的未[上市科技公司](https://zh.wikipedia.org/wiki/上市 "wikilink")。\[7\]
+PlentyOfFish創辦人馬爾庫斯·弗萊德在1999年畢業於[英屬哥倫比亞理工學院](https://zh.wikipedia.org/wiki/英屬哥倫比亞理工學院 "wikilink")。\[5\]自從2003年創立起，該網站一直是以[免費註冊的方式運行](https://zh.wikipedia.org/wiki/免費 "wikilink")，其收入主要來自於[Google AdSense](../Page/Google_AdSense.md "wikilink")，並無與[投資者合作](https://zh.wikipedia.org/wiki/投資者 "wikilink")。\[6\]2012年，PlentyOfFish被[商業內幕選為全球第](https://zh.wikipedia.org/wiki/商業內幕 "wikilink")97家最有價值的未[上市科技公司](https://zh.wikipedia.org/wiki/上市 "wikilink")。\[7\]
 
 ## 參考資料
 
-[Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")
-[Category:2003年成立的公司](https://zh.wikipedia.org/wiki/Category:2003年成立的公司 "wikilink")
+[Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:2003年成立的公司](https://zh.wikipedia.org/wiki/Category:2003年成立的公司 "wikilink")
 
 1.
 

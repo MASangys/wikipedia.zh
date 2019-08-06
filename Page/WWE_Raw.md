@@ -1,14 +1,8 @@
 [RawIsWar_Logo.png](https://zh.wikipedia.org/wiki/File:RawIsWar_Logo.png "fig:RawIsWar_Logo.png")
 
-**WWE Raw**（全名為**WWE Monday Night Raw**，亦稱為為**Monday Night
-Raw**，或簡稱**Raw**），是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）[公司](../Page/公司.md "wikilink")所制作的重頭[節目之一](https://zh.wikipedia.org/wiki/節目 "wikilink")，於美國時間禮拜一播出於[USA](../Page/USA電視台.md "wikilink")，亦在全世界多個[國家都有轉播](https://zh.wikipedia.org/wiki/國家 "wikilink")。WWE
-Raw於1993年1月11日時在[USA電視台](../Page/USA電視台.md "wikilink")首播。\[1\]WWE
-Raw從開播到現在，被認為是世界摔角娛樂旗下的旗艦節目，再加上它的高[收視率以及高人氣](https://zh.wikipedia.org/wiki/收視率 "wikilink")，以至於WWE
-Raw一次就播出三個小時。
+**WWE Raw**（全名為**WWE Monday Night Raw**，亦稱為為**Monday Night Raw**，或簡稱**Raw**），是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）[公司](../Page/公司.md "wikilink")所制作的重頭[節目之一](https://zh.wikipedia.org/wiki/節目 "wikilink")，於美國時間禮拜一播出於[USA](../Page/USA電視台.md "wikilink")，亦在全世界多個[國家都有轉播](https://zh.wikipedia.org/wiki/國家 "wikilink")。WWE Raw於1993年1月11日時在[USA電視台](../Page/USA電視台.md "wikilink")首播。\[1\]WWE Raw從開播到現在，被認為是世界摔角娛樂旗下的旗艦節目，再加上它的高[收視率以及高人氣](https://zh.wikipedia.org/wiki/收視率 "wikilink")，以至於WWE Raw一次就播出三個小時。
 
-目前WWE Raw是世界摔角娛樂公司的三大重頭節目之一，其餘的兩個重頭節目分別是[SmackDown
-LIVE和](../Page/SmackDown_LIVE.md "wikilink")[WWE
-NXT](../Page/WWE_NXT.md "wikilink")。
+目前WWE Raw是世界摔角娛樂公司的三大重頭節目之一，其餘的兩個重頭節目分別是[SmackDown LIVE和](../Page/SmackDown_LIVE.md "wikilink")[WWE NXT](../Page/WWE_NXT.md "wikilink")。
 
 ## WWE Raw各國播出频道
 
@@ -276,13 +270,9 @@ NXT](../Page/WWE_NXT.md "wikilink")。
   - [WWE環球冠軍](https://zh.wikipedia.org/wiki/WWE環球冠軍 "wikilink")
       - [賽特·罗林](https://zh.wikipedia.org/wiki/賽特·罗林 "wikilink")
   - [WWE女子冠軍](https://zh.wikipedia.org/wiki/WWE女子冠軍 "wikilink")
-      - [Becky
-        lynch](https://zh.wikipedia.org/wiki/Becky_lynch "wikilink")
+      - [Becky lynch](https://zh.wikipedia.org/wiki/Becky_lynch "wikilink")
   - [ECW雙打冠軍](https://zh.wikipedia.org/wiki/WWE雙打冠軍 "wikilink")
-      - [The
-        Revival](https://en.m.wikipedia.org/wiki/The_Revival_\(professional_wrestling)（[Dash
-        Wilder](https://en.m.wikipedia.org/wiki/Dash_Wilder)和[Scott
-        Dawson](https://en.m.wikipedia.org/wiki/Scott_Dawson_\(wrestler\))）
+      - [The Revival](https://en.m.wikipedia.org/wiki/The_Revival_\(professional_wrestling)（[Dash Wilder](https://en.m.wikipedia.org/wiki/Dash_Wilder)和[Scott Dawson](https://en.m.wikipedia.org/wiki/Scott_Dawson_\(wrestler\))）
   - [WWE洲際冠軍](https://zh.wikipedia.org/wiki/WWE洲際冠軍 "wikilink")
       - [芬恩·貝勒](../Page/芬恩·貝勒.md "wikilink")
 
@@ -357,16 +347,13 @@ NXT](../Page/WWE_NXT.md "wikilink")。
 
   - （和）
 
-  - （[Luke
-    Gallows和](https://zh.wikipedia.org/wiki/Luke_Gallows "wikilink")[Karl
-    Anderson](https://zh.wikipedia.org/wiki/Karl_Anderson "wikilink")）
+  - （[Luke Gallows和](https://zh.wikipedia.org/wiki/Luke_Gallows "wikilink")[Karl Anderson](https://zh.wikipedia.org/wiki/Karl_Anderson "wikilink")）
 
   - （和）
 
   - （、和）
 
-  - [The
-    Ascension](https://zh.wikipedia.org/wiki/The_Ascension "wikilink")（[瑞克·維克托和](https://zh.wikipedia.org/wiki/瑞克·維克托 "wikilink")[康納·歐布萊恩](../Page/康納·歐布萊恩_\(摔角手\).md "wikilink")）
+  - [The Ascension](https://zh.wikipedia.org/wiki/The_Ascension "wikilink")（[瑞克·維克托和](https://zh.wikipedia.org/wiki/瑞克·維克托 "wikilink")[康納·歐布萊恩](../Page/康納·歐布萊恩_\(摔角手\).md "wikilink")）
 
   - （和）
 
@@ -382,8 +369,7 @@ NXT](../Page/WWE_NXT.md "wikilink")。
 
 ## 參見
 
-  - [WWE Raw
-    1000](https://zh.wikipedia.org/wiki/WWE_Raw_1000 "wikilink")
+  - [WWE Raw 1000](https://zh.wikipedia.org/wiki/WWE_Raw_1000 "wikilink")
 
 ## 外部連結
 
@@ -393,10 +379,7 @@ NXT](../Page/WWE_NXT.md "wikilink")。
 
 [Category:世界摔角娛樂](https://zh.wikipedia.org/wiki/Category:世界摔角娛樂 "wikilink")
 
-1.  about.com. The History of Monday Night RAW. By Eric Cohen, About.com
-    Guide.
-    <http://prowrestling.about.com/od/historyofwrestling/p/rawhistory.htm>.
-    2013-25-06. Retrieved 2013-25-06.
+1.  about.com. The History of Monday Night RAW. By Eric Cohen, About.com Guide. <http://prowrestling.about.com/od/historyofwrestling/p/rawhistory.htm>. 2013-25-06. Retrieved 2013-25-06.
 
 2.
 
@@ -432,8 +415,7 @@ NXT](../Page/WWE_NXT.md "wikilink")。
 
 19.
 
-20. [WWE](http://www.jsports.co.jp/wwe/) on [J
-    Sports](https://zh.wikipedia.org/wiki/J_Sports "wikilink")
+20. [WWE](http://www.jsports.co.jp/wwe/) on [J Sports](https://zh.wikipedia.org/wiki/J_Sports "wikilink")
 
 21.  Amerikietiškos imtynės
 

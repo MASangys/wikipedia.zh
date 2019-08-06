@@ -1,5 +1,4 @@
-**Uru**，[日本](../Page/日本.md "wikilink")的女性[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")，[索尼音乐娱乐旗下所属](https://zh.wikipedia.org/wiki/索尼音乐娱乐 "wikilink")。未出道前以mai
-Uru名义活动。由于本名、年龄等个人-{zh-cn:信息;zh-tw:資訊;}-均不公开，被称为“神秘的歌手”\[1\]。
+**Uru**，[日本](../Page/日本.md "wikilink")的女性[创作歌手](https://zh.wikipedia.org/wiki/创作歌手 "wikilink")，[索尼音乐娱乐旗下所属](https://zh.wikipedia.org/wiki/索尼音乐娱乐 "wikilink")。未出道前以mai Uru名义活动。由于本名、年龄等个人-{zh-cn:信息;zh-tw:資訊;}-均不公开，被称为“神秘的歌手”\[1\]。
 
 ## 人物
 
@@ -254,9 +253,7 @@ Uru名义活动。由于本名、年龄等个人-{zh-cn:信息;zh-tw:資訊;}-�
   -
   -
   -
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:索尼音樂娛樂旗下藝人 "wikilink")
-[Category:日本女性創作歌手](https://zh.wikipedia.org/wiki/Category:日本女性創作歌手 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:索尼音樂娛樂旗下藝人 "wikilink") [Category:日本女性創作歌手](https://zh.wikipedia.org/wiki/Category:日本女性創作歌手 "wikilink")
 
 1.
 

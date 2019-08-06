@@ -8,8 +8,7 @@
 
 ## 运用历史
 
-1954年至1959年间，这组柴油机车由通用电气公司租借予[伊利鐵路](https://zh.wikipedia.org/wiki/伊利铁路 "wikilink")，以750号机车的名义在[霍内尔](https://zh.wikipedia.org/wiki/霍内尔 "wikilink")（Hornell）至[马里恩](https://zh.wikipedia.org/wiki/马里恩 "wikilink")（Marion）之间投入试运行，机车在这段时间的运行里程超过一百万英里，为柴油机和电传动系统的改进累积了大量经验，为后继的[U25B型柴油机车](../Page/U25B型柴油机车.md "wikilink")乃至整个[“通用”系列柴油机车奠定了技术基础](https://zh.wikipedia.org/wiki/通用系列柴油机车 "wikilink")。机车完成试运行后返回通用电气公司的伊利工厂进行改造，改装功率增大至2000马力的FVBL-12T型柴油机，UM20B型柴油机车因而得名，其中“U”代表“通用”系列（Universal
-Series）、“M”代表改良型（Modified）、“20”代表单节功率为2000马力、“B”代表机车轴式为Bo-Bo\[2\]。而从机车上拆下来的旧柴油机则用作进一步的试验，其中一台柴油机被送往库珀贝西默公司位于[俄亥俄州](../Page/俄亥俄州.md "wikilink")[弗農山的工厂](https://zh.wikipedia.org/wiki/弗農山_\(俄亥俄州\) "wikilink")\[3\]。完成改造后的机车于1959年10月21日售予[联合太平洋铁路](../Page/聯合太平洋鐵路.md "wikilink")，四节机车分别获得620、620B、621、621B的编号，这组柴油机车一直服役到1963年，才被新一代的[U50型柴油机车](../Page/U50型柴油机车.md "wikilink")取代。
+1954年至1959年间，这组柴油机车由通用电气公司租借予[伊利鐵路](https://zh.wikipedia.org/wiki/伊利铁路 "wikilink")，以750号机车的名义在[霍内尔](https://zh.wikipedia.org/wiki/霍内尔 "wikilink")（Hornell）至[马里恩](https://zh.wikipedia.org/wiki/马里恩 "wikilink")（Marion）之间投入试运行，机车在这段时间的运行里程超过一百万英里，为柴油机和电传动系统的改进累积了大量经验，为后继的[U25B型柴油机车](../Page/U25B型柴油机车.md "wikilink")乃至整个[“通用”系列柴油机车奠定了技术基础](https://zh.wikipedia.org/wiki/通用系列柴油机车 "wikilink")。机车完成试运行后返回通用电气公司的伊利工厂进行改造，改装功率增大至2000马力的FVBL-12T型柴油机，UM20B型柴油机车因而得名，其中“U”代表“通用”系列（Universal Series）、“M”代表改良型（Modified）、“20”代表单节功率为2000马力、“B”代表机车轴式为Bo-Bo\[2\]。而从机车上拆下来的旧柴油机则用作进一步的试验，其中一台柴油机被送往库珀贝西默公司位于[俄亥俄州](../Page/俄亥俄州.md "wikilink")[弗農山的工厂](https://zh.wikipedia.org/wiki/弗農山_\(俄亥俄州\) "wikilink")\[3\]。完成改造后的机车于1959年10月21日售予[联合太平洋铁路](../Page/聯合太平洋鐵路.md "wikilink")，四节机车分别获得620、620B、621、621B的编号，这组柴油机车一直服役到1963年，才被新一代的[U50型柴油机车](../Page/U50型柴油机车.md "wikilink")取代。
 
 除此之外，通用电气公司授权[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[戈尼南公司生产的](https://zh.wikipedia.org/wiki/戈尼南公司 "wikilink")[新南威尔士43型柴油机车](https://zh.wikipedia.org/wiki/新南威尔士43型柴油机车 "wikilink")，其车体和传动装置也是以UM20B型柴油机车作为基础。
 
@@ -22,9 +21,7 @@ Series）、“M”代表改良型（Modified）、“20”代表单节功率为
 
 [Category:聯合太平洋鐵路車輛](https://zh.wikipedia.org/wiki/Category:聯合太平洋鐵路車輛 "wikilink")
 
-[Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink")
-[Category:GE制铁路机车](https://zh.wikipedia.org/wiki/Category:GE制铁路机车 "wikilink")
-[Category:Bo-Bo轴式机车](https://zh.wikipedia.org/wiki/Category:Bo-Bo轴式机车 "wikilink")
+[Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink") [Category:GE制铁路机车](https://zh.wikipedia.org/wiki/Category:GE制铁路机车 "wikilink") [Category:Bo-Bo轴式机车](https://zh.wikipedia.org/wiki/Category:Bo-Bo轴式机车 "wikilink")
 
 1.
 2.

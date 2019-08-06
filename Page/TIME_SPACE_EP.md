@@ -1,7 +1,4 @@
-《**TIME SPACE
-EP**》是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")，[歌手](../Page/歌手.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")第27張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2012年6月6日由[King
-Records
-MM製作部發售](../Page/King_Records_MM製作部.md "wikilink")，商品番號KICM-1392。
+《**TIME SPACE EP**》是[日本](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")，[歌手](../Page/歌手.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")第27張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。在2012年6月6日由[King Records MM製作部發售](../Page/King_Records_MM製作部.md "wikilink")，商品番號KICM-1392。
 
 ## 概要
 
@@ -92,10 +89,6 @@ MM製作部發售](../Page/King_Records_MM製作部.md "wikilink")，商品番�
 
 ## 参考资料
 
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:水樹奈奈單曲](https://zh.wikipedia.org/wiki/Category:水樹奈奈單曲 "wikilink")
-[Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
-[Category:日本電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台節目主題曲 "wikilink")
-[Category:遊戲主題曲](https://zh.wikipedia.org/wiki/Category:遊戲主題曲 "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:水樹奈奈單曲](https://zh.wikipedia.org/wiki/Category:水樹奈奈單曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:日本電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台節目主題曲 "wikilink") [Category:遊戲主題曲](https://zh.wikipedia.org/wiki/Category:遊戲主題曲 "wikilink")
 
 1.

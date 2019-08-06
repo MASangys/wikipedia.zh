@@ -2,9 +2,7 @@
 
 1884年，麦克里当选[联邦众议员并连任](https://zh.wikipedia.org/wiki/联邦众议员 "wikilink")5次。他支持[自由铸造银币](https://zh.wikipedia.org/wiki/自由铸造银币 "wikilink")，也是肯塔基州农业利益的捍卫者。经过两次参选[联邦参议员失败后](https://zh.wikipedia.org/wiki/联邦参议员 "wikilink")，他获得州长[J·C·W·贝克汉姆](../Page/J·C·W·贝克汉姆.md "wikilink")的支持，于1902年获[肯塔基州议会](../Page/肯塔基州议会.md "wikilink")选举为联邦参议员。麦克里的参议员任期总体上平凡无奇，只任职一届就由贝克汉姆取代。不过，麦克里和贝克汉姆之间的裂痕只存在很短的时间，后者支持他在1911年再度竞选州长。
 
-麦克里以[渐进式改革作为竞选纲领](https://zh.wikipedia.org/wiki/进步主义 "wikilink")5次在普选中战胜共和党候选人爱德华··奥里尔，成为肯塔基州第二套州长官邸的首位主人，也是唯一曾入主新旧两套官邸的州长。麦克里在第二个任期里5次成功说服州议会允许女性在学校董事会选举中投票，并强制实行直接初选，建立肯塔基州公共事业委员会，并允许全州各[县在是否](../Page/县_\(美国\).md "wikilink")[禁酒的问题上自决](https://zh.wikipedia.org/wiki/禁酒时期 "wikilink")。他还意识到大幅增加教育支出的重要性，并通过了强制入学法之类的改革提案，但没能-{zh-cn:通过;
-zh-tw:透過;
-zh-hk:通過;}-法律对向两院游说的行为作出限制，也没能提供[工伤赔偿方案](https://zh.wikipedia.org/wiki/工伤赔偿 "wikilink")。麦克里还是负责监管新州长官邸的五名委员会成员之一，对其建设方案产生很大的影响。他的任期在1916年结束，并于两年后逝世。麦克里第二次担任州长期间，肯塔基州以他的名字来为新组建的[麦克雷里县命名](https://zh.wikipedia.org/wiki/麦克雷里县_\(肯塔基州\) "wikilink")。
+麦克里以[渐进式改革作为竞选纲领](https://zh.wikipedia.org/wiki/进步主义 "wikilink")5次在普选中战胜共和党候选人爱德华··奥里尔，成为肯塔基州第二套州长官邸的首位主人，也是唯一曾入主新旧两套官邸的州长。麦克里在第二个任期里5次成功说服州议会允许女性在学校董事会选举中投票，并强制实行直接初选，建立肯塔基州公共事业委员会，并允许全州各[县在是否](../Page/县_\(美国\).md "wikilink")[禁酒的问题上自决](https://zh.wikipedia.org/wiki/禁酒时期 "wikilink")。他还意识到大幅增加教育支出的重要性，并通过了强制入学法之类的改革提案，但没能-{zh-cn:通过; zh-tw:透過; zh-hk:通過;}-法律对向两院游说的行为作出限制，也没能提供[工伤赔偿方案](https://zh.wikipedia.org/wiki/工伤赔偿 "wikilink")。麦克里还是负责监管新州长官邸的五名委员会成员之一，对其建设方案产生很大的影响。他的任期在1916年结束，并于两年后逝世。麦克里第二次担任州长期间，肯塔基州以他的名字来为新组建的[麦克雷里县命名](https://zh.wikipedia.org/wiki/麦克雷里县_\(肯塔基州\) "wikilink")。
 
 ## 早年生活和内战经历
 
@@ -26,8 +24,7 @@ zh-hk:通過;}-法律对向两院游说的行为作出限制，也没能提供[�
 
 1875的肯塔基州州长选举民主党[初选在四位前邦联军人间展开](https://zh.wikipedia.org/wiki/初选 "wikilink")，除麦克里以外，另外三位分别是[约翰·斯图亚特·威廉斯](https://zh.wikipedia.org/wiki/约翰·斯图亚特·威廉斯 "wikilink")（）、·斯托达德·约翰逊（）和乔治··霍奇（）\[26\]。威廉斯在民主党提名大会开始时是最有望获得提名的候选人，不过他的人品受到肯塔基州西部报刊的抨击\[27\]。最终麦克里在第四轮投票中战胜威廉斯获得了提名\[28\]。
 
-[JudgeJMHarlan.jpg](https://zh.wikipedia.org/wiki/File:JudgeJMHarlan.jpg "fig:JudgeJMHarlan.jpg")是麦克里在1875年肯塔基州州长选举的对手。\]\]
-共和党提名的是曾在北军服役的[约翰·马歇尔·哈伦](https://zh.wikipedia.org/wiki/约翰·马歇尔·哈伦 "wikilink")\[29\]。麦克里在两人跨越全州进行的多场辩论中强调了当时许多肯塔基州人认为共和党总统[尤利西斯·辛普森·格兰特](../Page/尤利西斯·辛普森·格兰特.md "wikilink")在[重建时期滥用权力的心声](https://zh.wikipedia.org/wiki/美国重建时期 "wikilink")\[30\]。哈伦则通过指责州内的民主党政客于内政结束近十年后还在继续纠缠战争时期问题的方式加以反击\[31\]，他还指责称民主党在财务上穷奢极侈，批评在任民主党州长普雷斯顿·莱斯利[特赦](../Page/特赦.md "wikilink")了大批罪犯\[32\]，宣称这都是民主党内部存在大规模[腐败的](https://zh.wikipedia.org/wiki/政治腐败 "wikilink")[证据](https://zh.wikipedia.org/wiki/证据 "wikilink")\[33\]。肯塔基州几乎所有的报纸都站在民主党一边，麦克里也得到了他们的坚定支持\[34\]。之后哈伦虽然在竞选资金和宣传上都获得了一些支持，但麦克里最终还是以13万零26票比9万4236票的大幅优势轻松取胜\[35\]\[36\]。
+[JudgeJMHarlan.jpg](https://zh.wikipedia.org/wiki/File:JudgeJMHarlan.jpg "fig:JudgeJMHarlan.jpg")是麦克里在1875年肯塔基州州长选举的对手。\]\] 共和党提名的是曾在北军服役的[约翰·马歇尔·哈伦](https://zh.wikipedia.org/wiki/约翰·马歇尔·哈伦 "wikilink")\[29\]。麦克里在两人跨越全州进行的多场辩论中强调了当时许多肯塔基州人认为共和党总统[尤利西斯·辛普森·格兰特](../Page/尤利西斯·辛普森·格兰特.md "wikilink")在[重建时期滥用权力的心声](https://zh.wikipedia.org/wiki/美国重建时期 "wikilink")\[30\]。哈伦则通过指责州内的民主党政客于内政结束近十年后还在继续纠缠战争时期问题的方式加以反击\[31\]，他还指责称民主党在财务上穷奢极侈，批评在任民主党州长普雷斯顿·莱斯利[特赦](../Page/特赦.md "wikilink")了大批罪犯\[32\]，宣称这都是民主党内部存在大规模[腐败的](https://zh.wikipedia.org/wiki/政治腐败 "wikilink")[证据](https://zh.wikipedia.org/wiki/证据 "wikilink")\[33\]。肯塔基州几乎所有的报纸都站在民主党一边，麦克里也得到了他们的坚定支持\[34\]。之后哈伦虽然在竞选资金和宣传上都获得了一些支持，但麦克里最终还是以13万零26票比9万4236票的大幅优势轻松取胜\[35\]\[36\]。
 
 麦克里当选时，他的妻子凯特成为了肯塔基州历史上最年轻的[第一夫人](../Page/第一夫人.md "wikilink")。由于麦克里就职时州议会大厦的附属建筑已接近完工，他也因此得以把正式的州长办公室搬出原来的旧州长官邸，和家人一起住起私人住所，免受公共事务的侵扰。麦克里在旧州长官邸接受了即将离任州长莱斯利转交的州玺和行政日志，这也是最后一次有州长在这里执行公务。\[37\]
 
@@ -45,8 +42,7 @@ zh-hk:通過;}-法律对向两院游说的行为作出限制，也没能提供[�
 
 担任联邦众议员期间，麦克里为肯塔基州的农业利益代言，引入组建[美国农业部](../Page/美国农业部.md "wikilink")的法案，他亲自起草的一份包含大部分同样条款的法案也在议会期间得以通过。他还提出对《[威尔逊—戈尔曼关税法](https://zh.wikipedia.org/wiki/威尔逊—戈尔曼关税法 "wikilink")》加以修订，对农具和农用机械免收关税，这一提议也获得了通过。麦克里是自由铸造银币运动的支持者，1892年，他获得总统[本杰明·哈里森](../Page/本杰明·哈里森.md "wikilink")委任作为美国代表前往[布鲁塞尔](../Page/布鲁塞尔.md "wikilink")参加[国际货币会议](https://zh.wikipedia.org/wiki/国际货币会议 "wikilink")。他曾担任众议院外交事务委员会主席，并在这一期间起草法案建立旨在解决因[盖兹登购地和](https://zh.wikipedia.org/wiki/盖兹登购地 "wikilink")[瓜达卢佩-伊达尔戈条约](../Page/瓜达卢佩-伊达尔戈条约.md "wikilink")产生土地诉求争议的法院。他还主张建立连通[加拿大](../Page/加拿大.md "wikilink")、美国和[墨西哥](../Page/墨西哥.md "wikilink")的铁路。1890年，麦克里支持了一项授权召开首届[泛美会议的法案](https://zh.wikipedia.org/wiki/泛美会议 "wikilink")，还提倡于1893年在[首都](../Page/首都.md "wikilink")[哥伦比亚特区召开泛美医学会议](https://zh.wikipedia.org/wiki/哥伦比亚特区 "wikilink")。他还撰写了一份报告，宣布美国对欧洲在连接[大西洋](../Page/大西洋.md "wikilink")和[太平洋运河上的所有权抱敌视态度](https://zh.wikipedia.org/wiki/太平洋 "wikilink")，并且支持通过立法授权美国总统打击报复那些骚扰美国渔船的外国船只。\[58\]
 
-[J._C._W._Beckham.jpg](https://zh.wikipedia.org/wiki/File:J._C._W._Beckham.jpg "fig:J._C._W._Beckham.jpg")继任了麦克里的联邦参议员席位。\]\]
-1890年，肯塔基州的另一位联邦参议员詹姆斯··贝克（）在任上去世，麦克里再度成为继任候选人\[59\]。民主党各个派别还分别提名了约翰··卡莱尔、·普罗克特·诺特、威廉·林赛、拉班··摩尔（）和埃文··塞特尔（），共和党人则提名了[赛拉斯·亚当斯](https://zh.wikipedia.org/wiki/赛拉斯·亚当斯 "wikilink")（）\[60\]，最终卡莱尔在第九轮投票中胜出\[61\]。麦克里继续担任联邦众议员直到1896年，这时他已连续五次获得连任，寻求第六度连任没有成功\[62\]。同年他还成为众多参选参议员的人选之一，但始终没能获得超过13票的支持\[63\]。这以后，麦克里回到里士满，重新开始从事法律工作\[64\]。
+[J._C._W._Beckham.jpg](https://zh.wikipedia.org/wiki/File:J._C._W._Beckham.jpg "fig:J._C._W._Beckham.jpg")继任了麦克里的联邦参议员席位。\]\] 1890年，肯塔基州的另一位联邦参议员詹姆斯··贝克（）在任上去世，麦克里再度成为继任候选人\[59\]。民主党各个派别还分别提名了约翰··卡莱尔、·普罗克特·诺特、威廉·林赛、拉班··摩尔（）和埃文··塞特尔（），共和党人则提名了[赛拉斯·亚当斯](https://zh.wikipedia.org/wiki/赛拉斯·亚当斯 "wikilink")（）\[60\]，最终卡莱尔在第九轮投票中胜出\[61\]。麦克里继续担任联邦众议员直到1896年，这时他已连续五次获得连任，寻求第六度连任没有成功\[62\]。同年他还成为众多参选参议员的人选之一，但始终没能获得超过13票的支持\[63\]。这以后，麦克里回到里士满，重新开始从事法律工作\[64\]。
 
 麦克里在充满争议的[1899年肯塔基州州长选举](../Page/1899年肯塔基州州长选举.md "wikilink")期间选择支持民主党人[威廉·格贝尔](../Page/威廉·格贝尔.md "wikilink")\[65\]。1900至1912年，他连续4次代表肯塔基州参加[民主党全国大会](https://zh.wikipedia.org/wiki/民主党全国大会 "wikilink")\[66\]。1902年，在任州长·贝克汉姆及其精力打造的[政治机器都支持麦克里当选联邦参议员](https://zh.wikipedia.org/wiki/政治机器 "wikilink")\[67\]。他的对手是6年前以折衷人选形式获选的在任参议员威廉··德博伊，也是肯塔基州历史上的首位共和党联邦参议员\[68\]。德博伊当选后没有花多大力气来确保州议员对自己的支持，所以麦克里最终以95票对30票轻取对手\[69\]。当选参议员后，麦克里投桃报李，支持贝克汉姆在1903年竞选连任州长，后者也成功当选\[70\]。麦克里的参议员任期总体上平淡无奇，他继续倡导自由铸造银币，并试图推进肯塔基州的农业利益\[71\]。
 
@@ -62,8 +58,7 @@ zh-hk:通過;}-法律对向两院游说的行为作出限制，也没能提供[�
 
 ### 建筑新州长官邸
 
-[KY_Governors_Mansion.png](https://zh.wikipedia.org/wiki/File:KY_Governors_Mansion.png "fig:KY_Governors_Mansion.png")
-麦克里第二个州长任期最早签署的法案之一就是批准拨款7.5万美元建设新的州长官邸。州议会指派了包括麦克里在内的五人组成一个委员会，对官邸的建设进行监管。州长在这一过程中发挥了很大的影响力，例如在建设规划中把一间温室改成宴会厅，还选择了一位自己故乡里士满的承包商来对建设的监督加以协助。不断变化的社会思潮也对施工产生了影响，原本仓促建成的的马车房很快就予以废弃改建成车库。\[89\]
+[KY_Governors_Mansion.png](https://zh.wikipedia.org/wiki/File:KY_Governors_Mansion.png "fig:KY_Governors_Mansion.png") 麦克里第二个州长任期最早签署的法案之一就是批准拨款7.5万美元建设新的州长官邸。州议会指派了包括麦克里在内的五人组成一个委员会，对官邸的建设进行监管。州长在这一过程中发挥了很大的影响力，例如在建设规划中把一间温室改成宴会厅，还选择了一位自己故乡里士满的承包商来对建设的监督加以协助。不断变化的社会思潮也对施工产生了影响，原本仓促建成的的马车房很快就予以废弃改建成车库。\[89\]
 
 官邸于1914年建成。由于麦克里的夫人在他第二任州长任期开始前就已过世，所以他的孙女，还在[维斯理学院](../Page/维斯理学院.md "wikilink")进修的哈里特·纽贝里·麦克里（）也就在自己[暑假](../Page/暑假.md "wikilink")期间成为这里的第一位女主人。哈里特返校期间则由爷爷的管家珍妮·肖（）担任女主人。麦克里授权将旧官邸通过拍卖销售，但最终的成交金额仅13,600美元，官邸委员会认为有欠公平未予接受\[90\]。
 
@@ -87,18 +82,10 @@ zh-hk:通過;}-法律对向两院游说的行为作出限制，也没能提供[�
   -
 ## 外部链接
 
-  - [Men of Mark in
-    America](http://www.archive.org/stream/menofmarkinamerica00gate#page/136/mode/2up)传记和肖像
+  - [Men of Mark in America](http://www.archive.org/stream/menofmarkinamerica00gate#page/136/mode/2up)传记和肖像
   - [美国州长协会网站上麦克里的传记](https://web.archive.org/web/20110622033543/http://www.nga.org/portal/site/nga/menuitem.29fab9fb4add37305ddcbeeb501010a0/?vgnextoid=cd1737a59b066010VgnVCM1000001a01010aRCRD&vgnextchannel=e449a0ca9e3f1010VgnVCM1000001a01010aRCRD)
 
-[Category:肯塔基州州长](https://zh.wikipedia.org/wiki/Category:肯塔基州州长 "wikilink")
-[Category:美國長老宗教徒](https://zh.wikipedia.org/wiki/Category:美國長老宗教徒 "wikilink")
-[Category:肯塔基州律师](https://zh.wikipedia.org/wiki/Category:肯塔基州律师 "wikilink")
-[Category:美国民主党州长](https://zh.wikipedia.org/wiki/Category:美国民主党州长 "wikilink")
-[Category:美国民主党联邦参议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦参议员 "wikilink")
-[Category:肯塔基州联邦参议员](https://zh.wikipedia.org/wiki/Category:肯塔基州联邦参议员 "wikilink")
-[Category:肯塔基州眾議員](https://zh.wikipedia.org/wiki/Category:肯塔基州眾議員 "wikilink")
-[Category:美国内战战俘](https://zh.wikipedia.org/wiki/Category:美国内战战俘 "wikilink")
+[Category:肯塔基州州长](https://zh.wikipedia.org/wiki/Category:肯塔基州州长 "wikilink") [Category:美國長老宗教徒](https://zh.wikipedia.org/wiki/Category:美國長老宗教徒 "wikilink") [Category:肯塔基州律师](https://zh.wikipedia.org/wiki/Category:肯塔基州律师 "wikilink") [Category:美国民主党州长](https://zh.wikipedia.org/wiki/Category:美国民主党州长 "wikilink") [Category:美国民主党联邦参议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦参议员 "wikilink") [Category:肯塔基州联邦参议员](https://zh.wikipedia.org/wiki/Category:肯塔基州联邦参议员 "wikilink") [Category:肯塔基州眾議員](https://zh.wikipedia.org/wiki/Category:肯塔基州眾議員 "wikilink") [Category:美国内战战俘](https://zh.wikipedia.org/wiki/Category:美国内战战俘 "wikilink")
 
 1.
 

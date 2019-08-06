@@ -1,5 +1,4 @@
-**雷神导弹**（Thor）是[美国空军](../Page/美国空军.md "wikilink")第一代战略[弹道导弹](../Page/弹道导弹.md "wikilink")，名字来自北欧神话中的[雷神索爾](https://zh.wikipedia.org/wiki/雷神索爾 "wikilink")。1959年至1963年9月作为[远程弹道导弹](../Page/远程弹道导弹.md "wikilink")(IRBM)
-部署在英国。
+**雷神导弹**（Thor）是[美国空军](../Page/美国空军.md "wikilink")第一代战略[弹道导弹](../Page/弹道导弹.md "wikilink")，名字来自北欧神话中的[雷神索爾](https://zh.wikipedia.org/wiki/雷神索爾 "wikilink")。1959年至1963年9月作为[远程弹道导弹](../Page/远程弹道导弹.md "wikilink")(IRBM) 部署在英国。
 
 导弹高20米，直径2.4米。可携带一枚[热核](../Page/热核.md "wikilink")弹头，射程为1,850—3,700公里，从英国发射可以打到[莫斯科](../Page/莫斯科.md "wikilink")。
 
@@ -11,9 +10,7 @@
 
 ## 参数 (PGM-17A)
 
-  - 系列: 雷神远程弹道导弹（Thor IRBM）, Thor DM-18 (单极 LV); Thor DM-19 (火箭第一级),
-    Thor DM-21 (火箭第一级), Thor DSV-2D,E,F,G (亚轨道 LV), Thor DSV-2J (反弹道导弹),
-    Thor DSV-2U (轨道运载火箭).
+  - 系列: 雷神远程弹道导弹（Thor IRBM）, Thor DM-18 (单极 LV); Thor DM-19 (火箭第一级), Thor DM-21 (火箭第一级), Thor DSV-2D,E,F,G (亚轨道 LV), Thor DSV-2J (反弹道导弹), Thor DSV-2U (轨道运载火箭).
 
 <!-- end list -->
 
@@ -38,15 +35,12 @@
 
   - 一个[W49弹头在Mk](https://zh.wikipedia.org/wiki/W49 "wikilink"). 2 再入飞行器
   - **弹头质量:**
-  - **当量:**
-    相当于1,440千吨[TNT](https://zh.wikipedia.org/wiki/TNT "wikilink")
-    (6.02 PJ)
+  - **当量:** 相当于1,440千吨[TNT](https://zh.wikipedia.org/wiki/TNT "wikilink") (6.02 PJ)
   - **CEP:**
 
 <!-- end list -->
 
-  - 加速推进: 液体燃料火箭,
-    [LOX和](../Page/液氧.md "wikilink")[煤油](https://zh.wikipedia.org/wiki/煤油 "wikilink").
+  - 加速推进: 液体燃料火箭, [LOX和](../Page/液氧.md "wikilink")[煤油](https://zh.wikipedia.org/wiki/煤油 "wikilink").
   - 引擎:
       - Rocketdyne LR79-NA-9 (Model S-3D); 666 kN (150000 lbf)
       - Vernier: 2x Rocketdyne LR101-NA; 4.5 kN (1000 lbf) each
@@ -65,8 +59,7 @@
       - 第一次发射: 1958
       - 最后一次发射: 1980
       - Flown: 145.
-      - Comments: Designed for booster applications. Gas generator,
-        [pump-fed](https://zh.wikipedia.org/wiki/Pump-fed_engine "wikilink")
+      - Comments: Designed for booster applications. Gas generator, [pump-fed](https://zh.wikipedia.org/wiki/Pump-fed_engine "wikilink")
   - Guidance: Inertial
   - 最高速度:
   - 研制经费（[美元](../Page/美元.md "wikilink")）: $500百万
@@ -83,56 +76,27 @@
 
 ## 参考
 
-  - Boyes, John. *Project Emily: The Thor IRBM and the Royal Air Force
-    1959–1963*. *Prospero, Journal of the British Rocketry Oral History
-    Programme (BROHP)* No 4, Spring 2007.
-  - Boyes, John. *Project Emily: Thor IRBM and the RAF*. Tempus
-    Publishing, 2008. ISBN 978-0-7524-4611-0.
-  - Boyes, John. *The Thor IRBM: The Cuban Missile Crisis and the
-    subsequent run-down of the Thor Force*. pub: *Royal Air Force
-    Historical Society*. Journal 42, May 2008. ISSN 1361 4231.
-  - Forsyth, Kevin S. *Delta: The Ultimate Thor*. In Roger Launius and
-    Dennis Jenkins (Eds.), *To Reach The High Frontier: A History of
-    U.S. Launch Vehicles*. Lexington: University Press of Kentucky,
-    2002. ISBN 0-8131-2245-7.
-  - Hartt, Julian. *The Mighty Thor: Missile in Readiness*. New York:
-    Duell, Sloan, and Pearce, 1961.
+  - Boyes, John. *Project Emily: The Thor IRBM and the Royal Air Force 1959–1963*. *Prospero, Journal of the British Rocketry Oral History Programme (BROHP)* No 4, Spring 2007.
+  - Boyes, John. *Project Emily: Thor IRBM and the RAF*. Tempus Publishing, 2008. ISBN 978-0-7524-4611-0.
+  - Boyes, John. *The Thor IRBM: The Cuban Missile Crisis and the subsequent run-down of the Thor Force*. pub: *Royal Air Force Historical Society*. Journal 42, May 2008. ISSN 1361 4231.
+  - Forsyth, Kevin S. *Delta: The Ultimate Thor*. In Roger Launius and Dennis Jenkins (Eds.), *To Reach The High Frontier: A History of U.S. Launch Vehicles*. Lexington: University Press of Kentucky, 2002. ISBN 0-8131-2245-7.
+  - Hartt, Julian. *The Mighty Thor: Missile in Readiness*. New York: Duell, Sloan, and Pearce, 1961.
 
 *For RAF Squadrons list:*
 
-  - Jefford, [Wing
-    Commander](https://zh.wikipedia.org/wiki/Wing_Commander_\(rank\) "wikilink")
-    C.G.,
-    [MBE](https://zh.wikipedia.org/wiki/Order_of_the_British_Empire "wikilink"),
-    BA, RAF(Retd.). *RAF Squadrons, a Comprehensive record of the
-    Movement and Equipment of all RAF Squadrons and their Antecedents
-    since 1912*. Shrewsbury, Shropshire, UK: Airlife Publishing, 1988
-    (second edition 2001). ISBN 1-85310-053-6. p. 178.
-  - Wynn, Humphrey. *RAF Strategic Nuclear Deterrent Forces, their
-    Origins, Roles and Deployment 1946-69*. London:
-    [HMSO](https://zh.wikipedia.org/wiki/Office_of_Public_Sector_Information "wikilink"),
-    1994. ISBN 0-11-772833-0. p. 449.
+  - Jefford, [Wing Commander](https://zh.wikipedia.org/wiki/Wing_Commander_\(rank\) "wikilink") C.G., [MBE](https://zh.wikipedia.org/wiki/Order_of_the_British_Empire "wikilink"), BA, RAF(Retd.). *RAF Squadrons, a Comprehensive record of the Movement and Equipment of all RAF Squadrons and their Antecedents since 1912*. Shrewsbury, Shropshire, UK: Airlife Publishing, 1988 (second edition 2001). ISBN 1-85310-053-6. p. 178.
+  - Wynn, Humphrey. *RAF Strategic Nuclear Deterrent Forces, their Origins, Roles and Deployment 1946-69*. London: [HMSO](https://zh.wikipedia.org/wiki/Office_of_Public_Sector_Information "wikilink"), 1994. ISBN 0-11-772833-0. p. 449.
 
 ## 外部链接
 
-  - [Thor](https://web.archive.org/web/20031230231150/http://www.astronautix.com/lvs/thor.htm)
-    from Encyclopedia Astronautica
-  - [Thor IRBM History
-    site](https://web.archive.org/web/20091027003047/http://geocities.com/thor_irbm/)
-  - [History of the Delta Launch
-    Vehicle](http://kevinforsyth.net/delta/)
-  - [UK Thor missile launch sites on Secret Bases
-    website](http://www.secret-bases.co.uk/secret2.htm#thor)
-  - [UK Thor deployment in
-    Lincolnshire](https://web.archive.org/web/20070928011002/http://raf-lincolnshire.info/missiles/thor.htm)
-  - [Maxwell Hunter, "Father of the Thor
-    Rocket"](http://www.maxwellhunter.com/)
-  - ["YouTube contemporary film of Thor missiles at North
-    Pickenham"](http://uk.youtube.com/watch?v=VbTJ0WUEmWI)
+  - [Thor](https://web.archive.org/web/20031230231150/http://www.astronautix.com/lvs/thor.htm) from Encyclopedia Astronautica
+  - [Thor IRBM History site](https://web.archive.org/web/20091027003047/http://geocities.com/thor_irbm/)
+  - [History of the Delta Launch Vehicle](http://kevinforsyth.net/delta/)
+  - [UK Thor missile launch sites on Secret Bases website](http://www.secret-bases.co.uk/secret2.htm#thor)
+  - [UK Thor deployment in Lincolnshire](https://web.archive.org/web/20070928011002/http://raf-lincolnshire.info/missiles/thor.htm)
+  - [Maxwell Hunter, "Father of the Thor Rocket"](http://www.maxwellhunter.com/)
+  - ["YouTube contemporary film of Thor missiles at North Pickenham"](http://uk.youtube.com/watch?v=VbTJ0WUEmWI)
 
-[Category:冷战期间美国导弹](https://zh.wikipedia.org/wiki/Category:冷战期间美国导弹 "wikilink")
-[Category:美国核武器](https://zh.wikipedia.org/wiki/Category:美国核武器 "wikilink")
-[Category:美国远程弹道导弹](https://zh.wikipedia.org/wiki/Category:美国远程弹道导弹 "wikilink")
-[Category:战区弹道导弹](https://zh.wikipedia.org/wiki/Category:战区弹道导弹 "wikilink")
+[Category:冷战期间美国导弹](https://zh.wikipedia.org/wiki/Category:冷战期间美国导弹 "wikilink") [Category:美国核武器](https://zh.wikipedia.org/wiki/Category:美国核武器 "wikilink") [Category:美国远程弹道导弹](https://zh.wikipedia.org/wiki/Category:美国远程弹道导弹 "wikilink") [Category:战区弹道导弹](https://zh.wikipedia.org/wiki/Category:战区弹道导弹 "wikilink")
 
 1.

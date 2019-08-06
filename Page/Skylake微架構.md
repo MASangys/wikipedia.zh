@@ -1,18 +1,11 @@
-**Intel
-Skylake**是[英特爾的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")[架構](../Page/微架構.md "wikilink")，將會是[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
-[Haswell](https://zh.wikipedia.org/wiki/Haswell "wikilink")／[Broadwell微架構的繼任者](https://zh.wikipedia.org/wiki/Broadwell "wikilink")。\[1\]Intel
-Skylake微架為使用[14納米製程製造](https://zh.wikipedia.org/wiki/14纳米制程 "wikilink")。\[2\]
-根据[Intel於](https://zh.wikipedia.org/wiki/Intel "wikilink")2016年公開的[Tick-Tock發展戰略模式](https://zh.wikipedia.org/wiki/Tick-Tock "wikilink")，Skylake是一个「Architechture」版本，意思是在「Process」製程基礎上，更新微處理器架構，提升效能\[3\]。Skylake的下一代架構為[Kaby
-Lake](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")（已于2016年下半年发布）\[4\]\[5\]。
+**Intel Skylake**是[英特爾的](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")[架構](../Page/微架構.md "wikilink")，將會是[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [Haswell](https://zh.wikipedia.org/wiki/Haswell "wikilink")／[Broadwell微架構的繼任者](https://zh.wikipedia.org/wiki/Broadwell "wikilink")。\[1\]Intel Skylake微架為使用[14納米製程製造](https://zh.wikipedia.org/wiki/14纳米制程 "wikilink")。\[2\] 根据[Intel於](https://zh.wikipedia.org/wiki/Intel "wikilink")2016年公開的[Tick-Tock發展戰略模式](https://zh.wikipedia.org/wiki/Tick-Tock "wikilink")，Skylake是一个「Architechture」版本，意思是在「Process」製程基礎上，更新微處理器架構，提升效能\[3\]。Skylake的下一代架構為[Kaby Lake](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")（已于2016年下半年发布）\[4\]\[5\]。
 
 ## 主要特性
 
 1.  採用14納米製程；
-2.  支持[DDR4及](../Page/DDR4_SDRAM.md "wikilink")[DDR3L](https://zh.wikipedia.org/wiki/DDR3L "wikilink")
-    [SDRAM](../Page/SDRAM.md "wikilink")(若使用DDR3而非DDR3L則會導致處理器受損，Y系列不支持DDR4)；\[6\]\[7\]
+2.  支持[DDR4及](../Page/DDR4_SDRAM.md "wikilink")[DDR3L](https://zh.wikipedia.org/wiki/DDR3L "wikilink") [SDRAM](../Page/SDRAM.md "wikilink")(若使用DDR3而非DDR3L則會導致處理器受損，Y系列不支持DDR4)；\[6\]\[7\]
 3.  內建英特爾第九代[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")
-4.  移除EHCI主控，改为支持XHCI主控（Windows
-    7及之前版本的Windows安装在Skylake上时，USB接口将无法正常使用）\[8\]
+4.  移除EHCI主控，改为支持XHCI主控（Windows 7及之前版本的Windows安装在Skylake上时，USB接口将无法正常使用）\[8\]
 5.  採用第二代[FinFET電晶管技術](https://zh.wikipedia.org/wiki/FinFET "wikilink")；
 6.  取消FIVR
 7.  Skylake微架構顯示核心：
@@ -28,26 +21,18 @@ Lake](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")（已于2016年下半�
 
 ## 14奈米架構改進版：[Kaby Lake](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")
 
-[英特爾於](https://zh.wikipedia.org/wiki/英特爾 "wikilink")2016年第二季發布[Kaby
-Lake架構](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")，為Skylake架構改良版，已於2016年第三季及第四季分別推出U版及Y版(超低及極低功耗)；H版及桌面S版在2017年1月6日推出。[Kaby
-Lake及](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")[Skylake同時能相容](https://zh.wikipedia.org/wiki/Skylake "wikilink")100及200系列晶片組(100系列需先更新BIOS)\[9\]。
+[英特爾於](https://zh.wikipedia.org/wiki/英特爾 "wikilink")2016年第二季發布[Kaby Lake架構](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")，為Skylake架構改良版，已於2016年第三季及第四季分別推出U版及Y版(超低及極低功耗)；H版及桌面S版在2017年1月6日推出。[Kaby Lake及](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")[Skylake同時能相容](https://zh.wikipedia.org/wiki/Skylake "wikilink")100及200系列晶片組(100系列需先更新BIOS)\[9\]。
 Kaby Lake比Skylake擁有更高的時脈，內建Intel第9.5代顯示核心，完整對4K解析度的改進及支援。
 
 <big>**主要特性：**</big>
 
   - [14+](https://zh.wikipedia.org/wiki/14+ "wikilink")[纳米](../Page/纳米.md "wikilink")[制程](https://zh.wikipedia.org/wiki/制程 "wikilink")
-  - 采用与Skylake处理器相同[LGA
-    1151插座](https://zh.wikipedia.org/wiki/LGA_1151 "wikilink")，且两者可以兼容
+  - 采用与Skylake处理器相同[LGA 1151插座](https://zh.wikipedia.org/wiki/LGA_1151 "wikilink")，且两者可以兼容
   - 內建Intel第9.5代顯示核心
   - 200系列[PCH](https://zh.wikipedia.org/wiki/PCH "wikilink")
   - [热设计功耗](../Page/热设计功耗.md "wikilink")（TDP）最高95W（LGA 1151）
-  - 最高可支持双通道记忆体，支援[DDR3L](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600
-    (1.35V，最高32GB)及[DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2400
-    (1.2V，最高64GB)，即使在100系列芯片组使用DDR4-2400也不会降至2133，但Skylake在200系列芯片组使用DDR4-2400则会降至2133
-  - 支持16个[PCI Express](../Page/PCI_Express.md "wikilink")
-    3.0通道从CPU，24个[PCI
-    Express](../Page/PCI_Express.md "wikilink") 3.0通道从PCH（LGA
-    1151）Z270晶片才有
+  - 最高可支持双通道记忆体，支援[DDR3L](https://zh.wikipedia.org/wiki/DDR3 "wikilink")-1600 (1.35V，最高32GB)及[DDR4](https://zh.wikipedia.org/wiki/DDR4 "wikilink")-2400 (1.2V，最高64GB)，即使在100系列芯片组使用DDR4-2400也不会降至2133，但Skylake在200系列芯片组使用DDR4-2400则会降至2133
+  - 支持16个[PCI Express](../Page/PCI_Express.md "wikilink") 3.0通道从CPU，24个[PCI Express](../Page/PCI_Express.md "wikilink") 3.0通道从PCH（LGA 1151）Z270晶片才有
   - 支持DMI 3.0
   - 支持[Thunderbolt 3](../Page/Thunderbolt.md "wikilink")
   - 搭载Iris Plus/Iris Pro高级显示晶片上的处理器有额外64至128MB L4 eDRAM缓存(只限U/H型处理器)
@@ -57,19 +42,13 @@ Kaby Lake比Skylake擁有更高的時脈，內建Intel第9.5代顯示核心，�
 
 ## 14奈米製程改進版：[Coffee Lake](../Page/Coffee_Lake微架构.md "wikilink")／[Coffee Lake Refresh](https://zh.wikipedia.org/wiki/Coffee_Lake_Refresh微架构 "wikilink")
 
-[Coffee Lake實為](../Page/Coffee_Lake微架构.md "wikilink")[Kaby
-Lake核心增量版](../Page/Kaby_Lake微架構.md "wikilink")，其核心在基礎上跟[Kaby
-Lake並無多大變化](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")，但在實體上因核心數量實質增加及使用更成熟的14[奈米技術](https://zh.wikipedia.org/wiki/奈米 "wikilink")，連帶效能在與Kaby
-Lake相比下約增加近40%左右。
+[Coffee Lake實為](../Page/Coffee_Lake微架构.md "wikilink")[Kaby Lake核心增量版](../Page/Kaby_Lake微架構.md "wikilink")，其核心在基礎上跟[Kaby Lake並無多大變化](https://zh.wikipedia.org/wiki/Kaby_Lake "wikilink")，但在實體上因核心數量實質增加及使用更成熟的14[奈米技術](https://zh.wikipedia.org/wiki/奈米 "wikilink")，連帶效能在與Kaby Lake相比下約增加近40%左右。
 
 <big>**主要特性：**</big>
 
   - [14++](https://zh.wikipedia.org/wiki/14++ "wikilink")[纳米](../Page/纳米.md "wikilink")[制程](https://zh.wikipedia.org/wiki/制程 "wikilink")
 
-  - 採用與[Skylake與](https://zh.wikipedia.org/wiki/Skylake "wikilink")[Kaby
-    Lake不同的LGA](../Page/Kaby_Lake微架構.md "wikilink")
-    1151-v2腳位，無法相容前兩代(即使你能透過魔改版BIOS安裝在100
-    200系主機板上)
+  - 採用與[Skylake與](https://zh.wikipedia.org/wiki/Skylake "wikilink")[Kaby Lake不同的LGA](../Page/Kaby_Lake微架構.md "wikilink") 1151-v2腳位，無法相容前兩代(即使你能透過魔改版BIOS安裝在100 200系主機板上)
 
   - 內建增強影音部分型號為UHD 630的Intel第9.5代顯示核心
 
@@ -81,17 +60,13 @@ Lake相比下約增加近40%左右。
 
   - [PCI Express通道數維持](../Page/PCI_Express.md "wikilink")24條，與Z270相同
 
-  - [Core
-    i3由雙核心提升至四核心](https://zh.wikipedia.org/wiki/Core_i3 "wikilink")，不支援[超執行緒](../Page/超執行緒.md "wikilink")
+  - [Core i3由雙核心提升至四核心](https://zh.wikipedia.org/wiki/Core_i3 "wikilink")，不支援[超執行緒](../Page/超執行緒.md "wikilink")
 
-  - [Core
-    i5由四核心提升至六核心](https://zh.wikipedia.org/wiki/Core_i5 "wikilink")，不支援[超執行緒](../Page/超執行緒.md "wikilink")
+  - [Core i5由四核心提升至六核心](https://zh.wikipedia.org/wiki/Core_i5 "wikilink")，不支援[超執行緒](../Page/超執行緒.md "wikilink")
 
-  - [Core
-    i7由四核心提升至六核心](https://zh.wikipedia.org/wiki/Core_i7 "wikilink")，支援[超執行緒](../Page/超執行緒.md "wikilink")，第九代增加核心至八核但不支援[超執行緒](../Page/超執行緒.md "wikilink")
+  - [Core i7由四核心提升至六核心](https://zh.wikipedia.org/wiki/Core_i7 "wikilink")，支援[超執行緒](../Page/超執行緒.md "wikilink")，第九代增加核心至八核但不支援[超執行緒](../Page/超執行緒.md "wikilink")
 
-  - [Core
-    i9為八核心](https://zh.wikipedia.org/wiki/Core_i9 "wikilink")，支援[超執行緒](../Page/超執行緒.md "wikilink")
+  - [Core i9為八核心](https://zh.wikipedia.org/wiki/Core_i9 "wikilink")，支援[超執行緒](../Page/超執行緒.md "wikilink")
 
   - 依核心數量提升L3 Cache容量
 
@@ -104,12 +79,9 @@ Lake相比下約增加近40%左右。
   - 採用與Coffee Lake相同的LGA 1151-v2腳位
   - 300系列PCH
 
-根據英特爾“[Tick-Tock](../Page/Intel_Tick-Tock.md "wikilink")”（鐘擺）時間表，下一代製程**Cannon
-Lake**（暫定）將採用[10納米製程](https://zh.wikipedia.org/wiki/10纳米制程 "wikilink")，將於Skylake發布後一年半以內發布。Intel在2012年第三季度的[英特爾開發者論壇](../Page/英特爾開發者論壇.md "wikilink")上表明[7納米製程的晶片會在](../Page/7纳米制程.md "wikilink")2017年面世，[5納米製程的晶片則在](../Page/5纳米制程.md "wikilink")2019年。\[10\]
+根據英特爾“[Tick-Tock](../Page/Intel_Tick-Tock.md "wikilink")”（鐘擺）時間表，下一代製程**Cannon Lake**（暫定）將採用[10納米製程](https://zh.wikipedia.org/wiki/10纳米制程 "wikilink")，將於Skylake發布後一年半以內發布。Intel在2012年第三季度的[英特爾開發者論壇](../Page/英特爾開發者論壇.md "wikilink")上表明[7納米製程的晶片會在](../Page/7纳米制程.md "wikilink")2017年面世，[5納米製程的晶片則在](../Page/5纳米制程.md "wikilink")2019年。\[10\]
 
-但在2016年3月22日，Intel在財務報告中宣布，Tick
-Tock將放緩至三年一迴圈，即增加最佳化環節，進一步減緩實際更新的速度。目前的環節為：Process,
-Architechture, Optimization，即製程、架構、優化。而Cannonlake已延至2018年發布攜帶版。
+但在2016年3月22日，Intel在財務報告中宣布，Tick Tock將放緩至三年一迴圈，即增加最佳化環節，進一步減緩實際更新的速度。目前的環節為：Process, Architechture, Optimization，即製程、架構、優化。而Cannonlake已延至2018年發布攜帶版。
 
 ## 10奈米架構改進版：[Ice Lake](https://zh.wikipedia.org/wiki/Ice_Lake "wikilink")
 
@@ -833,11 +805,8 @@ Intel在2015年8月5日於Gamescom推出兩款桌上型處理器——分別是i
 ### Xeon E3 V5處理器
 
 E3 系列伺服器晶片包含了 System Bus 9GT/s、34.1GB/s 最大雙通道記憶體寬頻。
-另外E3-1200 v5系列處理器需搭配伺服器C232或是 C236晶片組，不過支援的Xeon E3-1200
-v5處理器和周邊連結性會有所差異。
-簡單來說，Xeon E3-1200 v5 系列將無法在桌上型晶片組上運作，包含 Z170、H170、H110，甚至 Q170、Q150、B150
-也無法使用\[18\]。一些主機板廠商開始以 C232 或是 C236 晶片組生產桌上型主機板，如華碩的 E3 Pro Gaming V5
-以及技嘉的 X150-PLUS WS\[19\]\[20\] C236好比閹割Z170. C232 好比閹割B150不支援超頻。
+另外E3-1200 v5系列處理器需搭配伺服器C232或是 C236晶片組，不過支援的Xeon E3-1200 v5處理器和周邊連結性會有所差異。
+簡單來說，Xeon E3-1200 v5 系列將無法在桌上型晶片組上運作，包含 Z170、H170、H110，甚至 Q170、Q150、B150 也無法使用\[18\]。一些主機板廠商開始以 C232 或是 C236 晶片組生產桌上型主機板，如華碩的 E3 Pro Gaming V5 以及技嘉的 X150-PLUS WS\[19\]\[20\] C236好比閹割Z170. C232 好比閹割B150不支援超頻。
 
 <table>
 <caption>Skylake E3-12xx + E3 15xx v5 SKUs</caption>
@@ -1077,9 +1046,7 @@ tray / 盒裝</p></th>
 
 ## AVX bug
 
-2016年1月有用戶表示，处理器在執行GIMPS Prime
-95應用程式尋找[梅森質數](https://zh.wikipedia.org/wiki/梅森質數 "wikilink")（Mersenne
-prime）時發生[AVX指令錯誤](https://zh.wikipedia.org/wiki/AVX "wikilink")，甚至發生當機。Intel已承認Skylake架構存在此問題，並承諾將會透過[BIOS](../Page/BIOS.md "wikilink")更新來解決這個bug。\[21\]
+2016年1月有用戶表示，处理器在執行GIMPS Prime 95應用程式尋找[梅森質數](https://zh.wikipedia.org/wiki/梅森質數 "wikilink")（Mersenne prime）時發生[AVX指令錯誤](https://zh.wikipedia.org/wiki/AVX "wikilink")，甚至發生當機。Intel已承認Skylake架構存在此問題，並承諾將會透過[BIOS](../Page/BIOS.md "wikilink")更新來解決這個bug。\[21\]
 
 ## 下一代微架構
 
@@ -1087,8 +1054,7 @@ prime）時發生[AVX指令錯誤](https://zh.wikipedia.org/wiki/AVX "wikilink")
 
 ## 參考資料
 
-[Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink")
-[Category:Intel處理器架構](https://zh.wikipedia.org/wiki/Category:Intel處理器架構 "wikilink")
+[Category:X86架構](https://zh.wikipedia.org/wiki/Category:X86架構 "wikilink") [Category:Intel處理器架構](https://zh.wikipedia.org/wiki/Category:Intel處理器架構 "wikilink")
 
 1.
 2.
@@ -1097,8 +1063,7 @@ prime）時發生[AVX指令錯誤](https://zh.wikipedia.org/wiki/AVX "wikilink")
 5.  <http://www.extremetech.com/computing/210050-intel-confirms-10nm-delayed-to-2017-will-introduce-kaby-lake-at-14nm-to-fill-gap>
 6.
 7.  <http://www.fudzilla.com/home/item/26647-intel-to-introduce-ddr4-memory-with-haswell-ex-server-platform?tmpl=component&print=1>
-8.  [Intel、微软联手“坑X”：Skylake平台不能装Windows 7了](http://www.expreview.com/38258.html)
-    - 超能网
+8.  [Intel、微软联手“坑X”：Skylake平台不能装Windows 7了](http://www.expreview.com/38258.html) - 超能网
 9.
 10.
 11.
@@ -1108,11 +1073,8 @@ prime）時發生[AVX指令錯誤](https://zh.wikipedia.org/wiki/AVX "wikilink")
 15.
 16.
 17.
-18. [Intel封杀100系主板：E3-1200
-    v5完全不支持](http://news.mydrivers.com/1/452/452325.htm)
-19. [Intel封杀E3-1200
-    v5：华硕、技嘉新主板绕道](http://news.mydrivers.com/1/458/458252.htm)
-20. [Intel封杀也没用！E3-1230
-    v5首测：彪悍](http://news.mydrivers.com/1/458/458443.htm)
+18. [Intel封杀100系主板：E3-1200 v5完全不支持](http://news.mydrivers.com/1/452/452325.htm)
+19. [Intel封杀E3-1200 v5：华硕、技嘉新主板绕道](http://news.mydrivers.com/1/458/458252.htm)
+20. [Intel封杀也没用！E3-1230 v5首测：彪悍](http://news.mydrivers.com/1/458/458443.htm)
 21.
 22. 詳見[Intel Tick-Tock](../Page/Intel_Tick-Tock.md "wikilink")

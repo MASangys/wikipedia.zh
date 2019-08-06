@@ -9,6 +9,4 @@
   - [BET電視網官方站點](http://www.bet.com/)
   - [BET電視網資訊站](http://betpressroom.com/)
 
-[Category:BET電視網](https://zh.wikipedia.org/wiki/Category:BET電視網 "wikilink")
-[Category:維亞康姆傳媒電視網](https://zh.wikipedia.org/wiki/Category:維亞康姆傳媒電視網 "wikilink")
-[Category:美國電視網](https://zh.wikipedia.org/wiki/Category:美國電視網 "wikilink")
+[Category:BET電視網](https://zh.wikipedia.org/wiki/Category:BET電視網 "wikilink") [Category:維亞康姆傳媒電視網](https://zh.wikipedia.org/wiki/Category:維亞康姆傳媒電視網 "wikilink") [Category:美國電視網](https://zh.wikipedia.org/wiki/Category:美國電視網 "wikilink")

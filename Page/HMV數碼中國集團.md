@@ -8,19 +8,13 @@
 
 該公司於2016年11月，斥資4,650萬元收購香港本地OTT影視點播平台Anyplex。
 
-該公司於2017年6月與台灣[華聯國際](../Page/華聯國際.md "wikilink")（經由華聯國際的集團控股公司「Vantage
-Metro Limited
-益都有限公司」，[開曼群島](../Page/開曼群島.md "wikilink")註冊）簽約合併\[5\]\[6\]\[7\]\[8\]。
+該公司於2017年6月與台灣[華聯國際](../Page/華聯國際.md "wikilink")（經由華聯國際的集團控股公司「Vantage Metro Limited 益都有限公司」，[開曼群島](../Page/開曼群島.md "wikilink")註冊）簽約合併\[5\]\[6\]\[7\]\[8\]。
 
-該公司於2018年11月起已先後被入稟追討欠租和貨款，包括銅鑼灣hmv旗艦店和中環萬年大廈分店的業主於11月30日，分別入稟向被告追討共約486萬港元欠租，並要求收回舖位和向被告索償。位於銅鑼灣珠城大廈2至5樓的hmv旗艦店業主Ever
-Light
-Limited在其入稟狀中指稱，該公司2015年7月與被告訂立為期4年的租約，把涉案的舖位租給被告，現時每月租金約159萬港元，被告上月開始欠租，連同其他拖欠的雜費，合共欠該公司約342.3萬港元；另外，位於中環萬年大廈地庫的hmv分店業主Pridemax
-Limited則在其入稟狀指稱，該公司2016年9月與被告訂立為期6年的租約，以每月100萬港元把該地庫租給被告，被告上月開始欠租，連同其他拖欠的雜費，合共欠該公司約143.7萬港元。\[9\]。
+該公司於2018年11月起已先後被入稟追討欠租和貨款，包括銅鑼灣hmv旗艦店和中環萬年大廈分店的業主於11月30日，分別入稟向被告追討共約486萬港元欠租，並要求收回舖位和向被告索償。位於銅鑼灣珠城大廈2至5樓的hmv旗艦店業主Ever Light Limited在其入稟狀中指稱，該公司2015年7月與被告訂立為期4年的租約，把涉案的舖位租給被告，現時每月租金約159萬港元，被告上月開始欠租，連同其他拖欠的雜費，合共欠該公司約342.3萬港元；另外，位於中環萬年大廈地庫的hmv分店業主Pridemax Limited則在其入稟狀指稱，該公司2016年9月與被告訂立為期6年的租約，以每月100萬港元把該地庫租給被告，被告上月開始欠租，連同其他拖欠的雜費，合共欠該公司約143.7萬港元。\[9\]。
 
 2019年，該公司主席蕭定一建議將公司名稱由「HMV數碼中國集團有限公司」更改為「中國創意數碼娛樂有限公司」。\[10\]
 
-旗下藝人[SIS樂印姊妹](../Page/SIS樂印姊妹.md "wikilink")、[譚芷昀](https://zh.wikipedia.org/wiki/譚芷昀 "wikilink")、[陳永馨](../Page/陳永馨.md "wikilink")、[譚順生](../Page/譚順生.md "wikilink")的唱片合約由**GME中國**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md "wikilink")；[鄭欣宜](../Page/鄭欣宜.md "wikilink")的唱片合約由**Passionfruit
-Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md "wikilink")\[11\]；[鄧健泓](../Page/鄧健泓.md "wikilink")的唱片合約由[星娛樂代理發行](../Page/中星集團.md "wikilink")；[周柏豪](../Page/周柏豪.md "wikilink")、[連詩雅的唱片合約由](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")[星夢娛樂代理出品及發行](https://zh.wikipedia.org/wiki/星夢娛樂 "wikilink")。
+旗下藝人[SIS樂印姊妹](../Page/SIS樂印姊妹.md "wikilink")、[譚芷昀](https://zh.wikipedia.org/wiki/譚芷昀 "wikilink")、[陳永馨](../Page/陳永馨.md "wikilink")、[譚順生](../Page/譚順生.md "wikilink")的唱片合約由**GME中國**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md "wikilink")；[鄭欣宜](../Page/鄭欣宜.md "wikilink")的唱片合約由**Passionfruit Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md "wikilink")\[11\]；[鄧健泓](../Page/鄧健泓.md "wikilink")的唱片合約由[星娛樂代理發行](../Page/中星集團.md "wikilink")；[周柏豪](../Page/周柏豪.md "wikilink")、[連詩雅的唱片合約由](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")[星夢娛樂代理出品及發行](https://zh.wikipedia.org/wiki/星夢娛樂 "wikilink")。
 
 ## 旗下藝人
 
@@ -2192,11 +2186,7 @@ Sexy Central</p></td>
 
   - [種星堂娛樂](http://www.youtube.com/user/StarzEntertainmentHK)在[Youtube的頁面](https://zh.wikipedia.org/wiki/Youtube "wikilink")
 
-[Category:香港電影公司](https://zh.wikipedia.org/wiki/Category:香港電影公司 "wikilink")
-[Category:香港唱片公司](https://zh.wikipedia.org/wiki/Category:香港唱片公司 "wikilink")
-[Category:香港交易所上市公司](https://zh.wikipedia.org/wiki/Category:香港交易所上市公司 "wikilink")
-[Category:2001年成立的公司](https://zh.wikipedia.org/wiki/Category:2001年成立的公司 "wikilink")
-[Category:香港上市綜合企業公司](https://zh.wikipedia.org/wiki/Category:香港上市綜合企業公司 "wikilink")
+[Category:香港電影公司](https://zh.wikipedia.org/wiki/Category:香港電影公司 "wikilink") [Category:香港唱片公司](https://zh.wikipedia.org/wiki/Category:香港唱片公司 "wikilink") [Category:香港交易所上市公司](https://zh.wikipedia.org/wiki/Category:香港交易所上市公司 "wikilink") [Category:2001年成立的公司](https://zh.wikipedia.org/wiki/Category:2001年成立的公司 "wikilink") [Category:香港上市綜合企業公司](https://zh.wikipedia.org/wiki/Category:香港上市綜合企業公司 "wikilink")
 
 1.  [港交所上市公司公告－更改公司名稱及更改股份簡稱](http://www.hkexnews.hk/listedco/listconews/GEM/2016/0909/GLN20160909014_C.pdf)
 

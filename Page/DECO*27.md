@@ -2,21 +2,15 @@
 
 ## 概要
 
-特色為融合[搖滾樂和](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[電子音樂](../Page/電子音樂.md "wikilink")的元素，歌詞概念則表現出各式各樣對戀人、朋友、家庭、甚或自身的愛情。
-名稱是從「凸額頭」的凸（・Deco）而來，數字則是因為喜歡「２」跟幸運數字「７」而決定，為了將英文和數字結合在一起而成加入＊符號，成為了「DECO\*27」。\[1\]
+特色為融合[搖滾樂和](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[電子音樂](../Page/電子音樂.md "wikilink")的元素，歌詞概念則表現出各式各樣對戀人、朋友、家庭、甚或自身的愛情。 名稱是從「凸額頭」的凸（・Deco）而來，數字則是因為喜歡「２」跟幸運數字「７」而決定，為了將英文和數字結合在一起而成加入＊符號，成為了「DECO\*27」。\[1\]
 十三歲時受到父親的影響開始學吉他，一年後開始獨自作曲。\[2\]在參與樂團活動時，於2007年在友人推薦下瀏覽[Niconico動畫](../Page/Niconico動畫.md "wikilink")網站，偶然看見[livetune用初音未來所創作的歌曲](https://zh.wikipedia.org/wiki/livetune "wikilink")「Packaged」，從此展開VOCALOID創作。\[3\]\[4\]
-DECO\*27的曲子在網路上獲得一定人氣後，於2010年四月發表了自主製作的專輯。\[5\]在發現初音未來之前一直沒有找到適合自己曲風的歌手，而在網路上活動之後，逐漸找到適合人選，開始陸續發表原創曲目。\[6\]
-最初使用VOCALOID中的初音未來進行創作。受到[sasakure.UK於](https://zh.wikipedia.org/wiki/sasakure.UK "wikilink")2010年3月發售的的專輯收錄曲的影響，也開始使用[Megpoid](../Page/Megpoid.md "wikilink")。\[7\]
-Deco\*27在2010年7月使用Megpoid發表的歌曲「モザイクロール」獲得絕大人氣，網路達到百萬點閱率，給予「Megpoid」本身的軟體銷量和爆紅都有相當大的影響。\[8\]
+DECO\*27的曲子在網路上獲得一定人氣後，於2010年四月發表了自主製作的專輯。\[5\]在發現初音未來之前一直沒有找到適合自己曲風的歌手，而在網路上活動之後，逐漸找到適合人選，開始陸續發表原創曲目。\[6\] 最初使用VOCALOID中的初音未來進行創作。受到[sasakure.UK於](https://zh.wikipedia.org/wiki/sasakure.UK "wikilink")2010年3月發售的的專輯收錄曲的影響，也開始使用[Megpoid](../Page/Megpoid.md "wikilink")。\[7\] Deco\*27在2010年7月使用Megpoid發表的歌曲「モザイクロール」獲得絕大人氣，網路達到百萬點閱率，給予「Megpoid」本身的軟體銷量和爆紅都有相當大的影響。\[8\]
 
 ## 樂團
 
 2010年與女歌手 marina 組成樂團「DECO\*27 feat. marina」活動。\[9\]
-2011年與女演員兼歌手[柴崎幸](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")、ＤＪ[TeddyLoid組成新團體](https://zh.wikipedia.org/wiki/TeddyLoid "wikilink")「galaxias\!」，同年11月發行專輯《galaxias\!》；樂團結成的因緣，來自製作單位送給柴崎幸一張DECO\*27的首張專輯《相愛性理論》，柴崎幸相當中意音樂，便邀請DECO\*27合作，提供樂曲給柴崎幸的個人單曲《無形スピリット》，單曲中也收錄了
-TeddyLoid 製作的混音版樂曲，製作過程讓三人結交深厚而決定共創樂團。\[10\]\[11\]
-2011同年，DECO\*27也與 Mai、HIRO、Alex 三人結成樂團「LOVE LASTS
-FOREVER」，十二月在[Youtube公開處女作](https://zh.wikipedia.org/wiki/Youtube "wikilink")「[アイバリィ](http://www.youtube.com/watch?v=L4cFVHLSXRU)」。2012年加入鍵盤手
-Eddy，以五人樂團的體制正式活動，2013年5月發表第一張專輯「HASHTAG LADY」。 \[12\]
+2011年與女演員兼歌手[柴崎幸](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")、ＤＪ[TeddyLoid組成新團體](https://zh.wikipedia.org/wiki/TeddyLoid "wikilink")「galaxias\!」，同年11月發行專輯《galaxias\!》；樂團結成的因緣，來自製作單位送給柴崎幸一張DECO\*27的首張專輯《相愛性理論》，柴崎幸相當中意音樂，便邀請DECO\*27合作，提供樂曲給柴崎幸的個人單曲《無形スピリット》，單曲中也收錄了 TeddyLoid 製作的混音版樂曲，製作過程讓三人結交深厚而決定共創樂團。\[10\]\[11\]
+2011同年，DECO\*27也與 Mai、HIRO、Alex 三人結成樂團「LOVE LASTS FOREVER」，十二月在[Youtube公開處女作](https://zh.wikipedia.org/wiki/Youtube "wikilink")「[アイバリィ](http://www.youtube.com/watch?v=L4cFVHLSXRU)」。2012年加入鍵盤手 Eddy，以五人樂團的體制正式活動，2013年5月發表第一張專輯「HASHTAG LADY」。 \[12\]
 
 ## 投稿歌曲
 
@@ -517,20 +511,15 @@ Eddy，以五人樂團的體制正式活動，2013年5月發表第一張專輯�
 
       - 使用VOCALOID的歌曲的彙編專輯。提供「ANIMALIA」。
 
-  - 『[valuable
-    sheaves](https://zh.wikipedia.org/wiki/valuable_sheaves "wikilink")』（、2010年3月24日發售）
+  - 『[valuable sheaves](https://zh.wikipedia.org/wiki/valuable_sheaves "wikilink")』（、2010年3月24日發售）
 
       - [VALSHE](../Page/VALSHE.md "wikilink")的專輯。提供「二息歩行」。
 
-  - 『[初音ミク -Project DIVA- 2nd NONSTOP MIX
-    COLLECTION](https://zh.wikipedia.org/wiki/初音ミク_-Project_DIVA-_2nd_NONSTOP_MIX_COLLECTION "wikilink")』（[ソニー・ミュージックダイレクト](../Page/Sony_Music_Direct.md "wikilink")、2010年7月28日發售）
+  - 『[初音ミク -Project DIVA- 2nd NONSTOP MIX COLLECTION](https://zh.wikipedia.org/wiki/初音ミク_-Project_DIVA-_2nd_NONSTOP_MIX_COLLECTION "wikilink")』（[ソニー・ミュージックダイレクト](../Page/Sony_Music_Direct.md "wikilink")、2010年7月28日發售）
 
-      - [PlayStation
-        Portable用節奏動作遊戲軟體](../Page/PlayStation_Portable.md "wikilink")『初音ミク
-        -Project DIVA- 2nd』的公式彙編專輯。遊戲提供的REMIX版本。
+      - [PlayStation Portable用節奏動作遊戲軟體](../Page/PlayStation_Portable.md "wikilink")『初音ミク -Project DIVA- 2nd』的公式彙編專輯。遊戲提供的REMIX版本。
 
-  - 「[無形スピリット](https://zh.wikipedia.org/wiki/無形スピリット "wikilink")」（[環球音樂
-    (日本)](../Page/環球音樂_\(日本\).md "wikilink")、2011年2月9日發售）
+  - 「[無形スピリット](https://zh.wikipedia.org/wiki/無形スピリット "wikilink")」（[環球音樂 (日本)](../Page/環球音樂_\(日本\).md "wikilink")、2011年2月9日發售）
 
       - [柴崎幸的單曲](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")。擔當作曲。
 
@@ -610,15 +599,11 @@ Eddy，以五人樂團的體制正式活動，2013年5月發表第一張專輯�
 
       - 灯油の的專輯。提供「」。
 
-  - 『[初音ミク 5thバースデー
-    ベスト〜impacts〜](https://zh.wikipedia.org/wiki/初音ミク_5thバースデー_ベスト〜impacts〜 "wikilink")』（ドワンゴ・ミュージックエンタテインメント、2012年8月1日發售）
+  - 『[初音ミク 5thバースデー ベスト〜impacts〜](https://zh.wikipedia.org/wiki/初音ミク_5thバースデー_ベスト〜impacts〜 "wikilink")』（ドワンゴ・ミュージックエンタテインメント、2012年8月1日發售）
 
-      - 初音未來發售五周年紀念專輯。提供與sasakure.UK共同創作的「」。「」は初音ミク発売5周年を記念して行われた[ファミリーマートで行われた](https://zh.wikipedia.org/wiki/ファミリーマート "wikilink")「初音ミク
-        5th Anniversary
-        ミクLOVESファミマ♪キャンペーン」の[テレビCMソングに起用されている](https://zh.wikipedia.org/wiki/コマーシャルソング "wikilink")\[14\]。
+      - 初音未來發售五周年紀念專輯。提供與sasakure.UK共同創作的「」。「」は初音ミク発売5周年を記念して行われた[ファミリーマートで行われた](https://zh.wikipedia.org/wiki/ファミリーマート "wikilink")「初音ミク 5th Anniversary ミクLOVESファミマ♪キャンペーン」の[テレビCMソングに起用されている](https://zh.wikipedia.org/wiki/コマーシャルソング "wikilink")\[14\]。
 
-  - 『[初音ミク 5thバースデー
-    ベスト〜memories〜](https://zh.wikipedia.org/wiki/初音ミク_5thバースデー_ベスト〜memories〜 "wikilink")』（ソニー・ミュージックダイレクト、2012年8月1日發售）
+  - 『[初音ミク 5thバースデー ベスト〜memories〜](https://zh.wikipedia.org/wiki/初音ミク_5thバースデー_ベスト〜memories〜 "wikilink")』（ソニー・ミュージックダイレクト、2012年8月1日發售）
 
       - 初音未來發售五周年紀念專輯。提供「」、與sasakure.UK之共作「」。
 
@@ -626,8 +611,7 @@ Eddy，以五人樂團的體制正式活動，2013年5月發表第一張專輯�
 
       - [96猫的專輯](https://zh.wikipedia.org/wiki/96貓 "wikilink")。提供「」。
 
-  - 『BabyPod 〜VocaloidP × 歌い手 collaboration
-    collection〜』（日本クラウン、2012年9月26日發售）
+  - 『BabyPod 〜VocaloidP × 歌い手 collaboration collection〜』（日本クラウン、2012年9月26日發售）
 
       - VOCALOID樂曲的翻唱彙編專輯。提供「」。
 
@@ -646,23 +630,17 @@ Eddy，以五人樂團的體制正式活動，2013年5月發表第一張專輯�
 #### 其他
 
   - 『ミクうた、おかわり』（[SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink")、2010年3月25日發售）
-      - 遊戲軟體『[初音ミク -Project
-        DIVA-](https://zh.wikipedia.org/wiki/初音ミク_-Project_DIVA- "wikilink")』的追加下載內容。能夠在遊戲中使用「二息步行」一曲遊玩。\[15\]
-  - 『初音ミク -Project DIVA-
-    2nd』（[SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink")、2010年7月29日發售）
+      - 遊戲軟體『[初音ミク -Project DIVA-](https://zh.wikipedia.org/wiki/初音ミク_-Project_DIVA- "wikilink")』的追加下載內容。能夠在遊戲中使用「二息步行」一曲遊玩。\[15\]
+  - 『初音ミク -Project DIVA- 2nd』（[SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink")、2010年7月29日發售）
       - 『初音ミク -Project DIVA-』系列第二彈、提供「愛言葉」一曲。
   - 『[週刊はじめての初音ミク](https://zh.wikipedia.org/wiki/週刊はじめての初音ミク "wikilink")』（[集英社](../Page/集英社.md "wikilink")）
-      - 集英社雜誌《[週刊YOUNG
-        JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》漫畫家林健太郎連載的四格漫畫作品『週刊第一次的初音未來』之中，2010年51號之中出現了「デコP（DecoP）」的角色。Deco\*27並擔綱官方印象樂曲製作「很久很久以前的今天的我」。
-  - 『[初音ミク and Future Stars Project
-    mirai](https://zh.wikipedia.org/wiki/初音ミク_and_Future_Stars_Project_mirai "wikilink")』（[SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink")、2012年3月8日發售）
+      - 集英社雜誌《[週刊YOUNG JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》漫畫家林健太郎連載的四格漫畫作品『週刊第一次的初音未來』之中，2010年51號之中出現了「デコP（DecoP）」的角色。Deco\*27並擔綱官方印象樂曲製作「很久很久以前的今天的我」。
+  - 『[初音ミク and Future Stars Project mirai](https://zh.wikipedia.org/wiki/初音ミク_and_Future_Stars_Project_mirai "wikilink")』（[SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink")、2012年3月8日發售）
       - 提供主題曲與遊戲使用樂曲「ゆめゆめ」。
   - 『ラブカレンダー』（水瀬マユ、Square Enix）
-      - DECO\*27 3rd Album 『ラブカレンダー』由水瀬マユ改編漫畫。2012年在漫畫雜誌《月刊 BIG
-        GANGAN》連載。\[16\]
+      - DECO\*27 3rd Album 『ラブカレンダー』由水瀬マユ改編漫畫。2012年在漫畫雜誌《月刊 BIG GANGAN》連載。\[16\]
   - 『モザイクロール』（akka、ASCII MEDIA WORKS）
-      - 樂曲「モザイクロール」依照 Deco\*27 本人的原始設定，由製作音樂ＰＶ的繪師 akka
-        改編漫畫。2013年在電子漫畫雜誌《COMIC@LOID》連載。\[17\]
+      - 樂曲「モザイクロール」依照 Deco\*27 本人的原始設定，由製作音樂ＰＶ的繪師 akka 改編漫畫。2013年在電子漫畫雜誌《COMIC@LOID》連載。\[17\]
 
 ## 備註
 
@@ -678,19 +656,14 @@ Eddy，以五人樂團的體制正式活動，2013年5月發表第一張專輯�
 
   - [DECO\*27 OFFICIAL WEBSITE](http://deco27.com/) - 官方網站
 
-  - [::U/M/A/A::ARTIST|DECO\*27](https://web.archive.org/web/20120722055153/http://www.umaa.net/artist/deco27/)
-    - 唱片公司
+  - [::U/M/A/A::ARTIST|DECO\*27](https://web.archive.org/web/20120722055153/http://www.umaa.net/artist/deco27/) - 唱片公司
 
   -
 <!-- end list -->
 
-  - [挑戦を続けるDECO\*27、創作の軌跡（12年7月26日
-    CINRA.NET掲載）](http://www.cinra.net/interview/2012/07/26/000000.php)
+  - [挑戦を続けるDECO\*27、創作の軌跡（12年7月26日 CINRA.NET掲載）](http://www.cinra.net/interview/2012/07/26/000000.php)
 
-[Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink")
-[Category:日本音樂家](https://zh.wikipedia.org/wiki/Category:日本音樂家 "wikilink")
-[Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
-[Category:福岡縣出身人物](https://zh.wikipedia.org/wiki/Category:福岡縣出身人物 "wikilink")
+[Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink") [Category:日本音樂家](https://zh.wikipedia.org/wiki/Category:日本音樂家 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink") [Category:福岡縣出身人物](https://zh.wikipedia.org/wiki/Category:福岡縣出身人物 "wikilink")
 
 1.
 

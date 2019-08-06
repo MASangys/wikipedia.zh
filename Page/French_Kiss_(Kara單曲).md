@@ -1,6 +1,4 @@
-「**French
-Kiss**」（）是[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")10張日文[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年11月27日由[UNIVERSAL
-SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")。
+「**French Kiss**」（）是[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")10張日文[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年11月27日由[UNIVERSAL SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")。
 
 ## 版本
 
@@ -19,8 +17,7 @@ SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")�
 
 1.  フレンチキス （French Kiss） \[4:07\]
       -
-        作词：SHIROSE from WHITE JAM、作曲：ヒロイズム・SHIROSE from WHITE JAM・NIKKI
-        from WHITE JAM
+        作词：SHIROSE from WHITE JAM、作曲：ヒロイズム・SHIROSE from WHITE JAM・NIKKI from WHITE JAM
 2.  ガールフレンド （Girl Friend） \[3:25\]
       -
         作詞：Glory face 1・Glory face 2・Jam9、作曲：Glory face 1・Glory face 2
@@ -82,5 +79,4 @@ SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")�
 1.  フレンチキス PV 知英版)
 2.  フレンチキス PV 知英版拍摄花絮)
 
-[Category:KARA歌曲](https://zh.wikipedia.org/wiki/Category:KARA歌曲 "wikilink")
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
+[Category:KARA歌曲](https://zh.wikipedia.org/wiki/Category:KARA歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")

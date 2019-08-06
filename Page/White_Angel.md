@@ -1,6 +1,4 @@
-《**White
-Angel**》是[Fairies](../Page/Fairies.md "wikilink")的第5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2012年11月14日由[SONIC
-GROOVE發售](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")\[1\]。
+《**White Angel**》是[Fairies](../Page/Fairies.md "wikilink")的第5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，2012年11月14日由[SONIC GROOVE發售](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")\[1\]。
 
 ## 概要
 
@@ -54,17 +52,12 @@ GROOVE發售](https://zh.wikipedia.org/wiki/SONIC_GROOVE "wikilink")\[1\]。
 
 ## 外部連結
 
-  - [待望の5thシングル「White
-    Angel」11/14発売決定\!](http://www.visionfactory.jp/artist/fairies/news/121010_1.html)
-    - Fairies OFFICIAL WEBSITE
+  - [待望の5thシングル「White Angel」11/14発売決定\!](http://www.visionfactory.jp/artist/fairies/news/121010_1.html) - Fairies OFFICIAL WEBSITE
 
-  - [DISCOGRAPHY](http://www.visionfactory.jp/artist/fairies/discography/)
-    - Fairies OFFICIAL WEBSITE
+  - [DISCOGRAPHY](http://www.visionfactory.jp/artist/fairies/discography/) - Fairies OFFICIAL WEBSITE
 
   -
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
-[Category:天使題材樂曲](https://zh.wikipedia.org/wiki/Category:天使題材樂曲 "wikilink")
+[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:天使題材樂曲](https://zh.wikipedia.org/wiki/Category:天使題材樂曲 "wikilink")
 
 1.
 

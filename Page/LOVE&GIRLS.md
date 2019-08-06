@@ -8,5 +8,4 @@
 
 ## 参考文献
 
-[Category:少女時代歌曲](https://zh.wikipedia.org/wiki/Category:少女時代歌曲 "wikilink")
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
+[Category:少女時代歌曲](https://zh.wikipedia.org/wiki/Category:少女時代歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")

@@ -10,8 +10,7 @@
 
 第二次世界大戰後，美國中情局啟動[迴紋針行動](https://zh.wikipedia.org/wiki/迴紋針行動 "wikilink")，將一些前[納粹德國](../Page/納粹德國.md "wikilink")的科學家、技術人員、工程人員等秘密帶進美國效力。雖然當中許多是[戰爭罪犯](https://zh.wikipedia.org/wiki/戰爭罪犯 "wikilink")，但由於當年野心勃勃的納粹德國重視科研，戰爭期間又頻繁作殘酷的人體實驗，使得該批科學家擁有充足的實際科研經驗，為MKUltra等计划奠下基礎。
 
-而在MKUltra之前，已經存在類似的計劃，包括（1947成立）及Project
-Bluebird（1950年成立，1951年改名為），主要是研究思想控制、審問技巧、等相關項目。\[3\]\[4\]
+而在MKUltra之前，已經存在類似的計劃，包括（1947成立）及Project Bluebird（1950年成立，1951年改名為），主要是研究思想控制、審問技巧、等相關項目。\[3\]\[4\]
 
 ## 目標
 
@@ -19,8 +18,7 @@ Bluebird（1950年成立，1951年改名為），主要是研究思想控制、�
 
 ## 實驗研究
 
-中情局解密文件顯示，計劃中使用了许多化學、生物和[放射性](../Page/放射性.md "wikilink")方法来測試如何藉著操纵人們的心理状态，進而影響[大脑](../Page/大脑.md "wikilink")功能，包括暗中给予药物和其他化学物质，[催眠](../Page/催眠.md "wikilink")，[感觉剥夺](https://zh.wikipedia.org/wiki/感觉剥夺 "wikilink")，隔绝，辱骂和[性虐待](../Page/性虐待.md "wikilink")，以及各种形式的酷刑
-。
+中情局解密文件顯示，計劃中使用了许多化學、生物和[放射性](../Page/放射性.md "wikilink")方法来測試如何藉著操纵人們的心理状态，進而影響[大脑](../Page/大脑.md "wikilink")功能，包括暗中给予药物和其他化学物质，[催眠](../Page/催眠.md "wikilink")，[感觉剥夺](https://zh.wikipedia.org/wiki/感觉剥夺 "wikilink")，隔绝，辱骂和[性虐待](../Page/性虐待.md "wikilink")，以及各种形式的酷刑 。
 
 ### 藥物
 
@@ -28,8 +26,7 @@ Bluebird（1950年成立，1951年改名為），主要是研究思想控制、�
 
 MKUltra計劃中許多實驗皆以LSD（全稱：D-麥角酸二乙胺）作為研究主體。基於中情局已知LSD能扭曲或剝奪服用者對現實環境的認知，他們希望進一步試驗該藥物能否影響一個人的忠誠度，使當時[冷戰期間的蘇聯](https://zh.wikipedia.org/wiki/冷戰 "wikilink")[間諜能違反自己的作戰意願](https://zh.wikipedia.org/wiki/間諜 "wikilink")，拒絕服從雇主。
 
-1953年，MKUltra正式開始在[精神病患者](https://zh.wikipedia.org/wiki/精神病 "wikilink")、囚犯、癮君子和妓女身上進行試驗。其中一個研究個案中，一位[肯塔基州](../Page/肯塔基州.md "wikilink")精神病患者被餵食LSD
-174天。除了以上反抗能力較弱的社群外，後來亦在中情局雇員、軍人、醫生、一般百姓身上測試服後反應。但大部分受試者皆沒被事前通知，違反了美國在第二次世界大戰後簽訂的[紐倫堡守則](https://zh.wikipedia.org/wiki/紐倫堡守則 "wikilink")。
+1953年，MKUltra正式開始在[精神病患者](https://zh.wikipedia.org/wiki/精神病 "wikilink")、囚犯、癮君子和妓女身上進行試驗。其中一個研究個案中，一位[肯塔基州](../Page/肯塔基州.md "wikilink")精神病患者被餵食LSD 174天。除了以上反抗能力較弱的社群外，後來亦在中情局雇員、軍人、醫生、一般百姓身上測試服後反應。但大部分受試者皆沒被事前通知，違反了美國在第二次世界大戰後簽訂的[紐倫堡守則](https://zh.wikipedia.org/wiki/紐倫堡守則 "wikilink")。
 
 ## 另見
 
@@ -38,24 +35,13 @@ MKUltra計劃中許多實驗皆以LSD（全稱：D-麥角酸二乙胺）作為�
 
 ## 參考文獻
 
-  - Gillmor, D. I Swear By Apollo. Dr. Ewen Cameron and the
-    CIA-Brainwashing Experiments. Montreal: Eden press, 1987.
-  - Jump up to: a b Scheflin, A.W., & Opton, E.M. The Mind manipulators.
-    New York: Paddington Press, 1978.
+  - Gillmor, D. I Swear By Apollo. Dr. Ewen Cameron and the CIA-Brainwashing Experiments. Montreal: Eden press, 1987.
+  - Jump up to: a b Scheflin, A.W., & Opton, E.M. The Mind manipulators. New York: Paddington Press, 1978.
 
-[Category:陰謀論](https://zh.wikipedia.org/wiki/Category:陰謀論 "wikilink")
-[Category:美國人類受試者研究項目](https://zh.wikipedia.org/wiki/Category:美國人類受試者研究項目 "wikilink")
-[Category:人類試驗](https://zh.wikipedia.org/wiki/Category:人類試驗 "wikilink")
+[Category:陰謀論](https://zh.wikipedia.org/wiki/Category:陰謀論 "wikilink") [Category:美國人類受試者研究項目](https://zh.wikipedia.org/wiki/Category:美國人類受試者研究項目 "wikilink") [Category:人類試驗](https://zh.wikipedia.org/wiki/Category:人類試驗 "wikilink")
 
-1.  [Science, Technology, and the
-    CIA](http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB54/), *National
-    Security Archive Electronic Briefing Book*, Jeffrey T. Richelson,
-    Editor, September 10, 2001（accessed: 02/18/2010）
-2.  ["U.S. Senate: Joint Hearing before The Select Committee on
-    Intelligence and The Subcommittee on Health and Scientific Research
-    of the Committee on Human
-    Resources"](http://www.druglibrary.org/schaffer/history/e1950/mkultra/index.htm),
-    95th Cong., 1st Sess. August 3, 1977.
+1.  [Science, Technology, and the CIA](http://www.gwu.edu/~nsarchiv/NSAEBB/NSAEBB54/), *National Security Archive Electronic Briefing Book*, Jeffrey T. Richelson, Editor, September 10, 2001（accessed: 02/18/2010）
+2.  ["U.S. Senate: Joint Hearing before The Select Committee on Intelligence and The Subcommittee on Health and Scientific Research of the Committee on Human Resources"](http://www.druglibrary.org/schaffer/history/e1950/mkultra/index.htm), 95th Cong., 1st Sess. August 3, 1977.
 3.
 4.
 5.

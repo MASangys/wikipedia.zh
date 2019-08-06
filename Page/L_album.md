@@ -1,5 +1,4 @@
-《**L
-album**》是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")13張[專輯](../Page/音樂專輯.md "wikilink")。於2013年12月4日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")唱片公司發行。
+《**L album**》是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的第](https://zh.wikipedia.org/wiki/近畿小子 "wikilink")13張[專輯](../Page/音樂專輯.md "wikilink")。於2013年12月4日由[傑尼斯娛樂](../Page/傑尼斯娛樂.md "wikilink")唱片公司發行。
 
 ## 解說
 
@@ -47,8 +46,7 @@ album**》是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的�
       - 和音編排：[Ko-saku](https://zh.wikipedia.org/wiki/Ko-saku "wikilink")
 7.  **Stand By Me**
       - 作曲：[田中直](https://zh.wikipedia.org/wiki/田中直 "wikilink")
-      - 作詞：[Komei
-        Kobayashi](https://zh.wikipedia.org/wiki/Komei_Kobayashi "wikilink")
+      - 作詞：[Komei Kobayashi](https://zh.wikipedia.org/wiki/Komei_Kobayashi "wikilink")
       - 編曲：[田中直](https://zh.wikipedia.org/wiki/田中直 "wikilink")
 8.  **i love you**
       - 作曲：[吉田建](https://zh.wikipedia.org/wiki/吉田建 "wikilink")
@@ -118,14 +116,9 @@ album**》是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的�
 8.  **i love you**
 9.  **戀情雖美終將凋零**（****）
 10. **Candle Night**
-      - 作曲：[Kiyohito
-        Komatsu](https://zh.wikipedia.org/wiki/Kiyohito_Komatsu "wikilink")、[Samuel
-        Waermo](https://zh.wikipedia.org/wiki/Samuel_Waermo "wikilink")
-      - 作詞：[Komei
-        Kobayashi](https://zh.wikipedia.org/wiki/Komei_Kobayashi "wikilink")
-      - 編曲：[Janne
-        Huttunen](https://zh.wikipedia.org/wiki/Janne_Huttunen "wikilink")、[Pessi
-        Levanto](https://zh.wikipedia.org/wiki/Pessi_Levanto "wikilink")
+      - 作曲：[Kiyohito Komatsu](https://zh.wikipedia.org/wiki/Kiyohito_Komatsu "wikilink")、[Samuel Waermo](https://zh.wikipedia.org/wiki/Samuel_Waermo "wikilink")
+      - 作詞：[Komei Kobayashi](https://zh.wikipedia.org/wiki/Komei_Kobayashi "wikilink")
+      - 編曲：[Janne Huttunen](https://zh.wikipedia.org/wiki/Janne_Huttunen "wikilink")、[Pessi Levanto](https://zh.wikipedia.org/wiki/Pessi_Levanto "wikilink")
       - 和音編排：[Ko-saku](https://zh.wikipedia.org/wiki/Ko-saku "wikilink")
 
 #### DISK LIFE
@@ -145,10 +138,6 @@ album**》是[日本](../Page/日本.md "wikilink")二人組合[近畿小子的�
 
 ## 外部链接
 
-[Johnny's
-Entertainment](https://www.jehp.jp/kinki_discography/article/1210)
+[Johnny's Entertainment](https://www.jehp.jp/kinki_discography/article/1210)
 
-[Category:近畿小子專輯](https://zh.wikipedia.org/wiki/Category:近畿小子專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:2013年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:2013年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯月榜冠軍作品 "wikilink")
+[Category:近畿小子專輯](https://zh.wikipedia.org/wiki/Category:近畿小子專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:2013年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯週榜冠軍作品 "wikilink") [Category:2013年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯月榜冠軍作品 "wikilink")

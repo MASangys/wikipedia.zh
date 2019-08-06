@@ -1,5 +1,4 @@
-《**One
-off**》（）是一部在2012年推出的[日本](../Page/日本.md "wikilink")原創[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由導演[佐藤順一](../Page/佐藤順一.md "wikilink")策劃和執導，將於冬天以[OVA形式推出](https://zh.wikipedia.org/wiki/OVA "wikilink")。此外，本動畫乃由[本田技研工業特別贊助播出](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")。
+《**One off**》（）是一部在2012年推出的[日本](../Page/日本.md "wikilink")原創[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，由導演[佐藤順一](../Page/佐藤順一.md "wikilink")策劃和執導，將於冬天以[OVA形式推出](https://zh.wikipedia.org/wiki/OVA "wikilink")。此外，本動畫乃由[本田技研工業特別贊助播出](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")。
 
 ## 故事概要
 
@@ -54,19 +53,15 @@ off**》（）是一部在2012年推出的[日本](../Page/日本.md "wikilink")
   - 攝影監督：荻原猛夫
   - 音響監督：[若林和弘](../Page/若林和弘.md "wikilink")、原口昇
   - 音樂：原田節（）
-  - 音樂製作：[flying
-    DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")
-  - 動画製作：[TYO
-    Animations](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink")
+  - 音樂製作：[flying DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")
+  - 動画製作：[TYO Animations](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink")
   - 特别贊助：[HONDA](https://zh.wikipedia.org/wiki/HONDA "wikilink")
   - 製作: oneoff製作委员会
 
 ### 主題曲
 
   - 片頭曲「約束の場所」
-    作詞・作曲 - 伊藤利恵子 / 編曲 - [ROUND
-    TABLE](../Page/ROUND_TABLE.md "wikilink") / 弦樂編曲 - 長谷泰宏 / 歌 - ROUND
-    TABLE featuring Nino
+    作詞・作曲 - 伊藤利恵子 / 編曲 - [ROUND TABLE](../Page/ROUND_TABLE.md "wikilink") / 弦樂編曲 - 長谷泰宏 / 歌 - ROUND TABLE featuring Nino
   - 片尾曲「メモリーズ」
     作詞・作曲 - 北川勝利 / 編曲 - ROUND TABLE / 歌 - ROUND TABLE featuring Nino
 
@@ -83,12 +78,7 @@ off**》（）是一部在2012年推出的[日本](../Page/日本.md "wikilink")
   - [動畫官方網站](https://web.archive.org/web/20121002053912/http://www.anime-oneoff.info/index.html)
 
   -
-[Category:2012年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2012年日本OVA動畫 "wikilink")
-[Category:日本原創動畫](https://zh.wikipedia.org/wiki/Category:日本原創動畫 "wikilink")
-[Category:HAL_FILM_MAKER](https://zh.wikipedia.org/wiki/Category:HAL_FILM_MAKER "wikilink")
-[Category:本田汽车](https://zh.wikipedia.org/wiki/Category:本田汽车 "wikilink")
-[Category:未来产品](https://zh.wikipedia.org/wiki/Category:未来产品 "wikilink")
-[Category:機車題材作品](https://zh.wikipedia.org/wiki/Category:機車題材作品 "wikilink")
+[Category:2012年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2012年日本OVA動畫 "wikilink") [Category:日本原創動畫](https://zh.wikipedia.org/wiki/Category:日本原創動畫 "wikilink") [Category:HAL_FILM_MAKER](https://zh.wikipedia.org/wiki/Category:HAL_FILM_MAKER "wikilink") [Category:本田汽车](https://zh.wikipedia.org/wiki/Category:本田汽车 "wikilink") [Category:未来产品](https://zh.wikipedia.org/wiki/Category:未来产品 "wikilink") [Category:機車題材作品](https://zh.wikipedia.org/wiki/Category:機車題材作品 "wikilink")
 
 1.  [動畫官方網站 STORY](http://www.anime-oneoff.info/story.html)
 2.

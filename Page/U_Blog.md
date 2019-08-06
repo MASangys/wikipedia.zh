@@ -1,14 +1,10 @@
-**U Blog**
-是香港一個**網上[博客平台](https://zh.wikipedia.org/wiki/博客 "wikilink")**，為[香港經濟日報集團有限公司](https://zh.wikipedia.org/wiki/香港經濟日報集團有限公司 "wikilink")\[1\]旗下[U
-Lifestyle](../Page/U_Lifestyle.md "wikilink")\[2\]網站成員之一。
+**U Blog** 是香港一個**網上[博客平台](https://zh.wikipedia.org/wiki/博客 "wikilink")**，為[香港經濟日報集團有限公司](https://zh.wikipedia.org/wiki/香港經濟日報集團有限公司 "wikilink")\[1\]旗下[U Lifestyle](../Page/U_Lifestyle.md "wikilink")\[2\]網站成員之一。
 
-該網站可以讓[U
-Lifestyle會員免費上載個人文章](../Page/U_Lifestyle.md "wikilink")，分享各類個人生活相關體驗，包括[旅遊](https://zh.wikipedia.org/wiki/旅遊 "wikilink")、[美容](../Page/美容.md "wikilink")、[飲食及其他分享如](https://zh.wikipedia.org/wiki/飲食 "wikilink")[玩樂](https://zh.wikipedia.org/wiki/玩樂 "wikilink")、[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")、[潮流等](https://zh.wikipedia.org/wiki/潮流 "wikilink")。
+該網站可以讓[U Lifestyle會員免費上載個人文章](../Page/U_Lifestyle.md "wikilink")，分享各類個人生活相關體驗，包括[旅遊](https://zh.wikipedia.org/wiki/旅遊 "wikilink")、[美容](../Page/美容.md "wikilink")、[飲食及其他分享如](https://zh.wikipedia.org/wiki/飲食 "wikilink")[玩樂](https://zh.wikipedia.org/wiki/玩樂 "wikilink")、[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")、[潮流等](https://zh.wikipedia.org/wiki/潮流 "wikilink")。
 
 ## 歷史
 
-  - 該網站之雛型為[U Travel](../Page/U_Travel.md "wikilink") 及 U Beauty
-    之博客區，在融合兩個博客區並加入其他分類如飲食及生活後，U Blog於2014年6月12日正式開始運作。
+  - 該網站之雛型為[U Travel](../Page/U_Travel.md "wikilink") 及 U Beauty 之博客區，在融合兩個博客區並加入其他分類如飲食及生活後，U Blog於2014年6月12日正式開始運作。
 
 ## 軟體及內容管理系統
 
@@ -64,9 +60,7 @@ Lifestyle會員免費上載個人文章](../Page/U_Lifestyle.md "wikilink")，�
 ## 博客分類
 
   - 推薦博客
-      - 為[U Travel](../Page/U_Travel.md "wikilink")、[U
-        Beauty及](https://zh.wikipedia.org/wiki/U_Beauty "wikilink")[U
-        Food網站個別邀請的博客](https://zh.wikipedia.org/wiki/U_Food "wikilink")
+      - 為[U Travel](../Page/U_Travel.md "wikilink")、[U Beauty及](https://zh.wikipedia.org/wiki/U_Beauty "wikilink")[U Food網站個別邀請的博客](https://zh.wikipedia.org/wiki/U_Food "wikilink")
 
 <!-- end list -->
 
@@ -80,10 +74,8 @@ Lifestyle會員免費上載個人文章](../Page/U_Lifestyle.md "wikilink")，�
 
 ## 同類網站
 
-  - Yahoo\!
-    BLOG：[Yahoo網誌社交網絡平台已於](https://zh.wikipedia.org/wiki/Yahoo "wikilink")2013年12月26日停止服務\[3\]
-  - [Windows Live
-    Spaces](../Page/Windows_Live_Spaces.md "wikilink")：微軟推出的網誌社交網絡平台，已於2010年9月28日停止服務
+  - Yahoo\! BLOG：[Yahoo網誌社交網絡平台已於](https://zh.wikipedia.org/wiki/Yahoo "wikilink")2013年12月26日停止服務\[3\]
+  - [Windows Live Spaces](../Page/Windows_Live_Spaces.md "wikilink")：微軟推出的網誌社交網絡平台，已於2010年9月28日停止服務
   - Qooza\[4\]
   - [Mysinablog](https://zh.wikipedia.org/wiki/Mysinablog "wikilink")
 

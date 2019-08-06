@@ -35,23 +35,18 @@ LightDM提供了至少與[GNOME顯示管理器一樣的功能](https://zh.wikipe
 ## 外部連結
 
   -
-  - [LightDM開發頁](https://launchpad.net/lightdm)
-    在[Launchpad上](https://zh.wikipedia.org/wiki/Launchpad "wikilink")
+  - [LightDM開發頁](https://launchpad.net/lightdm) 在[Launchpad上](https://zh.wikipedia.org/wiki/Launchpad "wikilink")
 
 ## 參見
 
-  - [GNOME顯示管理器](https://zh.wikipedia.org/wiki/GNOME顯示管理器 "wikilink")
-    (GDM)
-  - [KDE 顯示管理器](https://zh.wikipedia.org/wiki/KDE_顯示管理器 "wikilink")
-    (KDM)
-  - [SDDM 顯示管理器](https://zh.wikipedia.org/wiki/简单显示管理器 "wikilink")
-    (SDDM)
+  - [GNOME顯示管理器](https://zh.wikipedia.org/wiki/GNOME顯示管理器 "wikilink") (GDM)
+  - [KDE 顯示管理器](https://zh.wikipedia.org/wiki/KDE_顯示管理器 "wikilink") (KDM)
+  - [SDDM 顯示管理器](https://zh.wikipedia.org/wiki/简单显示管理器 "wikilink") (SDDM)
   - [其他顯示管理器](https://zh.wikipedia.org/wiki/X顯示管理器#一些實例 "wikilink")
 
 {{-}}
 
-[Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink")
-[Category:X显示管理器](https://zh.wikipedia.org/wiki/Category:X显示管理器 "wikilink")
+[Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink") [Category:X显示管理器](https://zh.wikipedia.org/wiki/Category:X显示管理器 "wikilink")
 
 1.
 2.

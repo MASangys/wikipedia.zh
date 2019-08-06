@@ -3,12 +3,9 @@
 | {{Timeline of release years | subtitle = **桌上型電腦處理器** | range1 = 2008 – | range1_color = \#0BDA51 \#228B22 | 2008 = [Nehalem微架構](https://zh.wikipedia.org/wiki/#Nehalem微架構 "wikilink")                    | 2009 =                              | 2010 = Westmere微架構 （1st generation）     | 2011 = Sandy Bridge微架構 （2nd generation） | 2012 = Ivy Bridge微架構 （3rd generation） | 2013 = Haswell微架構 （4th generation） | 2014 =                                | 2015a = Broadwell微架構 （5th generation） | 2015b = Skylake微架構 （6th generation） | 2016 =                                   | 2017a = Kaby Lake微架構 （7th generation）                                                                 | 2017b = Coffee Lake微架構 （8th generation） | 2018a = [Coffee Lake 微架構 （9th generation）](https://zh.wikipedia.org/wiki/#Coffee_Lake_microarchitecture_（9th） "wikilink") }} |
 | {{Timeline of release years | subtitle = **移動型處理器**   | range1 = 2009 – | range1_color = yellow gold       | 2009 = [Nehalem微架構 (1st generation)](https://zh.wikipedia.org/wiki/#Nehalem微架構_2 "wikilink") | 2010 = Westmere微架構 (1st generation) | 2011 = Sandy Bridge微架構 (2nd generation) | 2012 = Ivy Bridge微架構 (3rd generation)   | 2013 = Haswell微架構 (4th generation)    | 2014 =                             | 2015a = Broadwell微架構 (5th generation) | 2015b = Skylake微架構 (6th generation)   | 2016 =                              | 2017 = Kaby Lake微架構 (7th/8th generation) | 2018 = [Coffee Lake微架構 (8th generation)](https://zh.wikipedia.org/wiki/#Coffee_Lake微架構 "wikilink") }} |                                         |                                                                                                                              |
 
-**[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [Core
-i7](https://zh.wikipedia.org/wiki/Core_i7 "wikilink")** 是「Core
-i品牌」四個子系列之一。
+**[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [Core i7](https://zh.wikipedia.org/wiki/Core_i7 "wikilink")** 是「Core i品牌」四個子系列之一。
 
-從[Sandy
-Bridge微架構開始](../Page/Sandy_Bridge微架構.md "wikilink")，Intel把微架構和代號改成相同名字。
+從[Sandy Bridge微架構開始](../Page/Sandy_Bridge微架構.md "wikilink")，Intel把微架構和代號改成相同名字。
 
 ## 桌上型處理器
 
@@ -249,32 +246,7 @@ Bridge微架構開始](../Page/Sandy_Bridge微架構.md "wikilink")，Intel把�
 
 #### "Coffee Lake-S" (14 nm)
 
-  - 所有型號支援： *[MMX](../Page/MMX.md "wikilink"),
-    [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"),
-    [SSE2](../Page/SSE2.md "wikilink"),
-    [SSE3](../Page/SSE3.md "wikilink"),
-    [SSSE3](../Page/SSSE3.md "wikilink"),
-    [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"),
-    [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"),
-    [AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink"),
-    [AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink"),
-    [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"),
-    [SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink"),
-    [MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink"), Enhanced
-    Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology
-    (EIST), [Intel
-    64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an
-    [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink")
-    implementation), [Intel
-    VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Intel
-    VT-d](https://zh.wikipedia.org/wiki/Intel_VT-d "wikilink"), [Turbo
-    Boost](https://zh.wikipedia.org/wiki/Turbo_Boost "wikilink"),
-    [Hyper-threading](../Page/超執行緒.md "wikilink"),
-    [AES-NI](../Page/AES指令集.md "wikilink"), [Intel
-    TSX-NI](https://zh.wikipedia.org/wiki/Transactional_Synchronization_Extensions "wikilink"),
-    [Intel vPro](https://zh.wikipedia.org/wiki/Intel_vPro "wikilink"),
-    [Intel TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink"),
-    Smart Cache.*
+  - 所有型號支援： *[MMX](../Page/MMX.md "wikilink"), [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink"), [SSE2](../Page/SSE2.md "wikilink"), [SSE3](../Page/SSE3.md "wikilink"), [SSSE3](../Page/SSSE3.md "wikilink"), [SSE4.1](https://zh.wikipedia.org/wiki/SSE4.1 "wikilink"), [SSE4.2](https://zh.wikipedia.org/wiki/SSE4.2 "wikilink"), [AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink"), [AVX2](https://zh.wikipedia.org/wiki/AVX2 "wikilink"), [FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink"), [SGX](https://zh.wikipedia.org/wiki/Intel_SGX "wikilink"), [MPX](https://zh.wikipedia.org/wiki/Intel_MPX "wikilink"), Enhanced Intel [SpeedStep](../Page/SpeedStep.md "wikilink") Technology (EIST), [Intel 64](https://zh.wikipedia.org/wiki/Intel_64 "wikilink"), XD bit (an [NX bit](https://zh.wikipedia.org/wiki/NX_bit "wikilink") implementation), [Intel VT-x](https://zh.wikipedia.org/wiki/Intel_VT-x "wikilink"), [Intel VT-d](https://zh.wikipedia.org/wiki/Intel_VT-d "wikilink"), [Turbo Boost](https://zh.wikipedia.org/wiki/Turbo_Boost "wikilink"), [Hyper-threading](../Page/超執行緒.md "wikilink"), [AES-NI](../Page/AES指令集.md "wikilink"), [Intel TSX-NI](https://zh.wikipedia.org/wiki/Transactional_Synchronization_Extensions "wikilink"), [Intel vPro](https://zh.wikipedia.org/wiki/Intel_vPro "wikilink"), [Intel TXT](https://zh.wikipedia.org/wiki/Intel_TXT "wikilink"), Smart Cache.*
   - PCI外設元件互連標準：16
 
 #### "Coffee Lake-H" (14 nm)

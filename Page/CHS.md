@@ -24,11 +24,9 @@
 
   - [社区卫生系统公司](https://zh.wikipedia.org/wiki/社区卫生系统 "wikilink")（），美国一家运营医院的公司
 
-  - [联系处理系统](https://zh.wikipedia.org/wiki/联系处理系统 "wikilink")（）, a
-    software package used by the Metropolitan Police Service
+  - [联系处理系统](https://zh.wikipedia.org/wiki/联系处理系统 "wikilink")（）, a software package used by the Metropolitan Police Service
 
-  - [康涅狄格州历史学会](https://zh.wikipedia.org/wiki/康涅狄格州历史学会 "wikilink")（）,
-    the historical society of the US State of Connecticut
+  - [康涅狄格州历史学会](https://zh.wikipedia.org/wiki/康涅狄格州历史学会 "wikilink")（）, the historical society of the US State of Connecticut
 
   - [柱面-磁头-扇区](https://zh.wikipedia.org/wiki/柱面-磁头-扇区 "wikilink")（），一种用于磁盘数据寻址的方法
 
@@ -36,5 +34,4 @@
 
 ## 学校
 
-  - [綜合高中](https://zh.wikipedia.org/wiki/綜合高中 "wikilink")([英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：Comprehensive
-    High School)
+  - [綜合高中](https://zh.wikipedia.org/wiki/綜合高中 "wikilink")([英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：Comprehensive High School)

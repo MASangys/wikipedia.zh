@@ -6,16 +6,13 @@
 
 ## 背景
 
-[Original_iPhone_docked.jpg](https://zh.wikipedia.org/wiki/File:Original_iPhone_docked.jpg "fig:Original_iPhone_docked.jpg")
-苹果公司在美国发布的iPhone带有一个软件“锁”，令其僅能使用AT\&T移动公司的[网络](../Page/无线网络.md "wikilink")\[12\]。用户购买后可以使用苹果[iTunes软件激活iPhone的AT](https://zh.wikipedia.org/wiki/iTunes "wikilink")\&T服务合同\[13\]，合同期间，用户可以自主选择账单上所需列出的内容，但如用户没有特别指定，那么AT\&T默认将给出详尽账单\[14\]，其上会列出每一次数据传输，包括[电子邮件](../Page/电子邮件.md "wikilink")、[短信](https://zh.wikipedia.org/wiki/短信 "wikilink")、[网页浏览器](../Page/网页浏览器.md "wikilink")的后台流量\[15\]，这将产生包含大量项目的详细清单\[16\]。
+[Original_iPhone_docked.jpg](https://zh.wikipedia.org/wiki/File:Original_iPhone_docked.jpg "fig:Original_iPhone_docked.jpg") 苹果公司在美国发布的iPhone带有一个软件“锁”，令其僅能使用AT\&T移动公司的[网络](../Page/无线网络.md "wikilink")\[12\]。用户购买后可以使用苹果[iTunes软件激活iPhone的AT](https://zh.wikipedia.org/wiki/iTunes "wikilink")\&T服务合同\[13\]，合同期间，用户可以自主选择账单上所需列出的内容，但如用户没有特别指定，那么AT\&T默认将给出详尽账单\[14\]，其上会列出每一次数据传输，包括[电子邮件](../Page/电子邮件.md "wikilink")、[短信](https://zh.wikipedia.org/wiki/短信 "wikilink")、[网页浏览器](../Page/网页浏览器.md "wikilink")的后台流量\[15\]，这将产生包含大量项目的详细清单\[16\]。
 
-一个月后\[17\]，新用户们开始收到首月账单，有关超长或超贵iPhone账单的故事也开始流传。300页的账单实属罕见，但其他用户收到过50至100页的账单\[18\]。其中首位引起较大范围关注的是本·库彻拉（Ben
-Kuchera），他是一个名叫[Ars
-Technica的技术类网站游戏编辑](../Page/Ars_Technica.md "wikilink")。库彻拉描述自己收到了34页的双面账单，他的一位同事更是收到了104页的账单\[19\]\[20\]。“我们中有好几位已经用过一段时间的[智能手机](../Page/智能手机.md "wikilink")，但大家从来没见过这样的账单。”\[21\]不过，一直到艾扎里克的视频发布後，才如同催化剂般引起了媒体对iPhone这方面故事的广泛关注\[22\]。
+一个月后\[17\]，新用户们开始收到首月账单，有关超长或超贵iPhone账单的故事也开始流传。300页的账单实属罕见，但其他用户收到过50至100页的账单\[18\]。其中首位引起较大范围关注的是本·库彻拉（Ben Kuchera），他是一个名叫[Ars Technica的技术类网站游戏编辑](../Page/Ars_Technica.md "wikilink")。库彻拉描述自己收到了34页的双面账单，他的一位同事更是收到了104页的账单\[19\]\[20\]。“我们中有好几位已经用过一段时间的[智能手机](../Page/智能手机.md "wikilink")，但大家从来没见过这样的账单。”\[21\]不过，一直到艾扎里克的视频发布後，才如同催化剂般引起了媒体对iPhone这方面故事的广泛关注\[22\]。
 
 ## 视频
 
-贾斯汀·伊扎里克是[匹兹堡](../Page/匹兹堡.md "wikilink")区域的一位[平面设计](../Page/平面设计.md "wikilink")师，当时23岁\[23\]的她还是一位[喜剧小品](../Page/喜剧小品.md "wikilink")演员和[博客写手](https://zh.wikipedia.org/wiki/博客 "wikilink")，她于2007年8月11日（星期六）收到了这份300页的账单\[24\]，然后决定在一家咖啡馆裡以此为题材拍一段视频\[25\]。到了星期一，她将剪辑出来的一分钟片段發布到了多家互联网流行[影片分享网站](https://zh.wikipedia.org/wiki/影片分享网站 "wikilink")\[26\]。根据8月22日4家网站总结的数字，这段视频仅第一个星期就在YouTube获得了超过50万次的点击率，在有35万人次观看，[Break.com又有](https://zh.wikipedia.org/wiki/Break.com "wikilink")50万人点击，[雅虎视频上更高达](https://zh.wikipedia.org/wiki/雅虎视频 "wikilink")110万人次。到了2007年底，报道的观看人次已经突破800万。艾扎里克表示这段视频从Revver为自己带来了2000美元的收入\[27\]。
+贾斯汀·伊扎里克是[匹兹堡](../Page/匹兹堡.md "wikilink")区域的一位[平面设计](../Page/平面设计.md "wikilink")师，当时23岁\[23\]的她还是一位[喜剧小品](../Page/喜剧小品.md "wikilink")演员和[博客写手](https://zh.wikipedia.org/wiki/博客 "wikilink")，她于2007年8月11日（星期六）收到了这份300页的账单\[24\]，然后决定在一家咖啡馆裡以此为题材拍一段视频\[25\]。到了星期一，她将剪辑出来的一分钟片段發布到了多家互联网流行[影片分享网站](https://zh.wikipedia.org/wiki/影片分享网站 "wikilink")\[26\]。根据8月22日4家网站总结的数字，这段视频仅第一个星期就在YouTube获得了超过50万次的点击率，在有35万人次观看，[Break.com又有](https://zh.wikipedia.org/wiki/Break.com "wikilink")50万人点击，[雅虎视频](../Page/雅虎视频.md "wikilink")上更高达110万人次。到了2007年底，报道的观看人次已经突破800万。艾扎里克表示这段视频从Revver为自己带来了2000美元的收入\[27\]。
 
 部分视频还在多家全国或地方电视台播出，艾扎里克也接受了一对一的采访，其中包括[有线电视新闻网](../Page/有线电视新闻网.md "wikilink")\[28\]、[福克斯新闻频道](https://zh.wikipedia.org/wiki/福克斯新闻频道 "wikilink")\[29\]、\[30\]和\[31\]。[美国广播公司](../Page/美国广播公司.md "wikilink")新闻频道也独立播放了由其一位广播电台记者主持的一次视频采访\[32\]。
 
@@ -39,18 +36,15 @@ iPhone的[移动电话](../Page/移动电话.md "wikilink")报务提供商AT\&T�
 
 AT\&T可能没有预料到iPhone用户高数据使用量的影响\[48\]\[49\]，于是该公司的呼叫服务中心被有关账单长度洪水般的投诉淹没\[50\]。
 
-“（账单裡）简直是废话连天”，愤怒的迈克·布鲁菲（Mike
-Brophy）也在博客裡贴出了64页的账单，“95%都是一页又一页的数据传输记录，大部分只有1K，且收费为‘0’”。他还毫不留情地批评账AT\&T浪费资源，“我的账单差不多有半磅重，先不说信息超载，光汽油就浪费了不少。”\[51\][佛罗里达州](../Page/佛罗里达州.md "wikilink")[坦帕一个](https://zh.wikipedia.org/wiki/坦帕_\(佛罗里达州\) "wikilink")[智库的创始人收到了一份](https://zh.wikipedia.org/wiki/智库 "wikilink")42页的账单后告诉记者：“这也太扯了。”\[52\][俄亥俄州](../Page/俄亥俄州.md "wikilink")[渥太华县的一位教师收到了](https://zh.wikipedia.org/wiki/渥太华县_\(俄亥俄州\) "wikilink")52页的账单，称这是“我这辈子所拿到最大的电话账单”\[53\]。一家[麦金塔电脑咨询公司的合伙人称自己的账单是](https://zh.wikipedia.org/wiki/麦金塔电脑 "wikilink")“60页的虚无”\[54\]。[弗吉尼亚州](../Page/弗吉尼亚州.md "wikilink")的一位业务顾问收到一份62页的账单后询问记者：“为什么你要送出一份这么大的账单呢？”\[55\][华盛顿州](../Page/华盛顿州.md "wikilink")[西雅图附近一家软件公司的老板拍下了自己](https://zh.wikipedia.org/wiki/西雅图 "wikilink")127页账单的照片，他将账单铺在地板上，上面还坐了一条[马尔济斯](https://zh.wikipedia.org/wiki/马尔济斯 "wikilink")，之后还将这张照片发布到了博客上\[56\]\[57\]并且问道：“有没有哪位苹果环保小组成员见过一份AT\&T账单？”\[58\]一位专栏作家在文章中写道，自己的妻子收到了一份150页的盒装iPhone账单，他对此评论道：“好吧，为这第一个月的账单他们到底杀死了多少棵树？”\[59\]
+“（账单裡）简直是废话连天”，愤怒的迈克·布鲁菲（Mike Brophy）也在博客裡贴出了64页的账单，“95%都是一页又一页的数据传输记录，大部分只有1K，且收费为‘0’”。他还毫不留情地批评账AT\&T浪费资源，“我的账单差不多有半磅重，先不说信息超载，光汽油就浪费了不少。”\[51\][佛罗里达州](../Page/佛罗里达州.md "wikilink")[坦帕一个](https://zh.wikipedia.org/wiki/坦帕_\(佛罗里达州\) "wikilink")[智库的创始人收到了一份](https://zh.wikipedia.org/wiki/智库 "wikilink")42页的账单后告诉记者：“这也太扯了。”\[52\][俄亥俄州](../Page/俄亥俄州.md "wikilink")[渥太华县的一位教师收到了](https://zh.wikipedia.org/wiki/渥太华县_\(俄亥俄州\) "wikilink")52页的账单，称这是“我这辈子所拿到最大的电话账单”\[53\]。一家[麦金塔电脑咨询公司的合伙人称自己的账单是](https://zh.wikipedia.org/wiki/麦金塔电脑 "wikilink")“60页的虚无”\[54\]。[弗吉尼亚州](../Page/弗吉尼亚州.md "wikilink")的一位业务顾问收到一份62页的账单后询问记者：“为什么你要送出一份这么大的账单呢？”\[55\][华盛顿州](../Page/华盛顿州.md "wikilink")[西雅图附近一家软件公司的老板拍下了自己](https://zh.wikipedia.org/wiki/西雅图 "wikilink")127页账单的照片，他将账单铺在地板上，上面还坐了一条[马尔济斯](https://zh.wikipedia.org/wiki/马尔济斯 "wikilink")，之后还将这张照片发布到了博客上\[56\]\[57\]并且问道：“有没有哪位苹果环保小组成员见过一份AT\&T账单？”\[58\]一位专栏作家在文章中写道，自己的妻子收到了一份150页的盒装iPhone账单，他对此评论道：“好吧，为这第一个月的账单他们到底杀死了多少棵树？”\[59\]
 
 ### 环保
 
-[硅谷](../Page/硅谷.md "wikilink")的一位科技分析师呼应了艾扎里克的[环保主义理念](https://zh.wikipedia.org/wiki/环保主义 "wikilink")，他说：“AT\&T应该有个新口号——选择AT\&T，您就杀死了一棵树。”\[60\]《今日美国》的报道使用了这样的标题：《你的iPhone账单杀害了多少棵树？》\[61\]。据博客写手穆罕默德·萨林姆所说，苹果的目标是在2008年末让iPhone用户达到1000万，如果每人每月的账单是100页，那么每年就需要砍掉74535棵树\[62\]\[63\]\[64\]。[俄亥俄州](../Page/俄亥俄州.md "wikilink")[托莱多的一份独立报纸The](../Page/托莱多_\(俄亥俄州\).md "wikilink")
-Blade的社论中称这种详细的账单“荒谬并对环境造成浪费”\[65\]。
+[硅谷](../Page/硅谷.md "wikilink")的一位科技分析师呼应了艾扎里克的[环保主义理念](https://zh.wikipedia.org/wiki/环保主义 "wikilink")，他说：“AT\&T应该有个新口号——选择AT\&T，您就杀死了一棵树。”\[60\]《今日美国》的报道使用了这样的标题：《你的iPhone账单杀害了多少棵树？》\[61\]。据博客写手穆罕默德·萨林姆所说，苹果的目标是在2008年末让iPhone用户达到1000万，如果每人每月的账单是100页，那么每年就需要砍掉74535棵树\[62\]\[63\]\[64\]。[俄亥俄州](../Page/俄亥俄州.md "wikilink")[托莱多的一份独立报纸The](../Page/托莱多_\(俄亥俄州\).md "wikilink") Blade的社论中称这种详细的账单“荒谬并对环境造成浪费”\[65\]。
 
 ### 安全
 
-发表在[消费电子产品博客](https://zh.wikipedia.org/wiki/消费电子产品 "wikilink")[Engadget](../Page/Engadget.md "wikilink")上的一份安全意识评议认为要解决超长账单带来的隐私问题，个人[碎纸机已经存在局限性](https://zh.wikipedia.org/wiki/碎纸机 "wikilink")，或许要保护账单中个人信息免受泄露的一个更实用的办法是将其付之一炬\[66\]。[自由意志主义月刊](https://zh.wikipedia.org/wiki/自由意志主义 "wikilink")《[理智](https://zh.wikipedia.org/wiki/理智_\(雜誌\) "wikilink")》的一位编辑同样推测了这些详细信息在政府调查中的实用性\[67\]。不过最初的Ars
-Technica网站博客上则认为这种对隐私权的担忧纯粹是无稽之谈，表示这些账单的详细信息页面上并不包含任何敏感信息\[68\]。
+发表在[消费电子产品博客](https://zh.wikipedia.org/wiki/消费电子产品 "wikilink")[Engadget](../Page/Engadget.md "wikilink")上的一份安全意识评议认为要解决超长账单带来的隐私问题，个人[碎纸机已经存在局限性](https://zh.wikipedia.org/wiki/碎纸机 "wikilink")，或许要保护账单中个人信息免受泄露的一个更实用的办法是将其付之一炬\[66\]。[自由意志主义月刊](https://zh.wikipedia.org/wiki/自由意志主义 "wikilink")《[理智](https://zh.wikipedia.org/wiki/理智_\(雜誌\) "wikilink")》的一位编辑同样推测了这些详细信息在政府调查中的实用性\[67\]。不过最初的Ars Technica网站博客上则认为这种对隐私权的担忧纯粹是无稽之谈，表示这些账单的详细信息页面上并不包含任何敏感信息\[68\]。
 
 ## 参考资料
 
@@ -65,354 +59,117 @@ Technica网站博客上则认为这种对隐私权的担忧纯粹是无稽之谈
 
 [分類:2007年美國](https://zh.wikipedia.org/wiki/分類:2007年美國 "wikilink")
 
-[Category:2007年網絡事件](https://zh.wikipedia.org/wiki/Category:2007年網絡事件 "wikilink")
-[Category:iPhone](https://zh.wikipedia.org/wiki/Category:iPhone "wikilink")
-[Category:AT\&T](https://zh.wikipedia.org/wiki/Category:AT&T "wikilink")
-[Category:环境保护](https://zh.wikipedia.org/wiki/Category:环境保护 "wikilink")
+[Category:2007年網絡事件](https://zh.wikipedia.org/wiki/Category:2007年網絡事件 "wikilink") [Category:iPhone](https://zh.wikipedia.org/wiki/Category:iPhone "wikilink") [Category:AT\&T](https://zh.wikipedia.org/wiki/Category:AT&T "wikilink") [Category:环境保护](https://zh.wikipedia.org/wiki/Category:环境保护 "wikilink")
 
-1.  {{ cite news | url =
-    <http://www.washingtonpost.com/wp-dyn/content/article/2007/09/05/AR2007090500370.html>
-    | title = Sexy Portable Storage : The 300-Page iPhone Bill |
-    accessdate = 2013-06-04 | date = 2007-09-05 | author = Martin, James
-    A. | newspaper= Washington Post }}
+1.  {{ cite news | url = <http://www.washingtonpost.com/wp-dyn/content/article/2007/09/05/AR2007090500370.html> | title = Sexy Portable Storage : The 300-Page iPhone Bill | accessdate = 2013-06-04 | date = 2007-09-05 | author = Martin, James A. | newspaper= Washington Post }}
 
-2.  {{ cite web|url=<http://www.pcworld.com/article/136068/article.html>
-    |title=A 300-page iPhone Bill? |first=Gregg |last=Keizer
-    |date=2007-08-16 |work=PC World |issn=0737-8939
-    |archiveurl=<http://www.webcitation.org/67Dd9eCTQ?url=http://www.pcworld.com/article/136068/a_300page_iphone_bill.html>
-    |archivedate=2012-04-26 |accessdate=2013-06-04 |deadurl=yes }}
+2.  {{ cite web|url=<http://www.pcworld.com/article/136068/article.html> |title=A 300-page iPhone Bill? |first=Gregg |last=Keizer |date=2007-08-16 |work=PC World |issn=0737-8939 |archiveurl=<http://www.webcitation.org/67Dd9eCTQ?url=http://www.pcworld.com/article/136068/a_300page_iphone_bill.html> |archivedate=2012-04-26 |accessdate=2013-06-04 |deadurl=yes }}
 
-3.  {{ cite news | url =
-    <http://usatoday30.usatoday.com/tech/wireless/phones/2007-08-14-iphone-bill_N.htm?imw=Y>
-    | title = How many trees did your iPhone bill kill? | accessdate =
-    2013-06-05 | author = Graham, Jefferson | date = 2007-08-15 |
-    newspaper = USA Today}}
+3.  {{ cite news | url = <http://usatoday30.usatoday.com/tech/wireless/phones/2007-08-14-iphone-bill_N.htm?imw=Y> | title = How many trees did your iPhone bill kill? | accessdate = 2013-06-05 | author = Graham, Jefferson | date = 2007-08-15 | newspaper = USA Today}}
 
-4.  {{ cite
-    web|url=<http://www.thepittsburghchannel.com/news/14552595/detail.html>
-    |title=Pittsburgh Ranked Third 'Bloggiest' City |date=2007-11-09
-    |accessdate=2013-06-04 |work=WTAE-TV News
-    |archiveurl=<https://web.archive.org/web/20071112125939/http://www.thepittsburghchannel.com/news/14552595/detail.html>
-    |archivedate=2007-11-12 |deadurl=yes }}
+4.  {{ cite web|url=<http://www.thepittsburghchannel.com/news/14552595/detail.html> |title=Pittsburgh Ranked Third 'Bloggiest' City |date=2007-11-09 |accessdate=2013-06-04 |work=WTAE-TV News |archiveurl=<https://web.archive.org/web/20071112125939/http://www.thepittsburghchannel.com/news/14552595/detail.html> |archivedate=2007-11-12 |deadurl=yes }}
 
-5.  {{ cite
-    web|url=<http://www.coxwashington.com/hp/content/reporters/stories/2007/08/16/BC_IBILL16_COX.html>
-    |title=A 300-page iPhone bill? Too much information, users say
-    |accessdate=2007-10-02 |author=Ho, David |date=2007-08-16
-    |newspaper=Atlanta Journal-Constitution |page=C1
-    |archiveurl=<https://web.archive.org/web/20071012173841/http://coxwashington.com/hp/content/reporters/stories/2007/08/16/BC_IBILL16_COX.html>
-    |archivedate=2007-10-12 |deadurl=yes }}
+5.  {{ cite web|url=<http://www.coxwashington.com/hp/content/reporters/stories/2007/08/16/BC_IBILL16_COX.html> |title=A 300-page iPhone bill? Too much information, users say |accessdate=2007-10-02 |author=Ho, David |date=2007-08-16 |newspaper=Atlanta Journal-Constitution |page=C1 |archiveurl=<https://web.archive.org/web/20071012173841/http://coxwashington.com/hp/content/reporters/stories/2007/08/16/BC_IBILL16_COX.html> |archivedate=2007-10-12 |deadurl=yes }}
 
-6.  {{ cite web | url =
-    <http://www.technewsworld.com/story/Sprints-Singing-the-iPhone-Blues-73592.html>
-    | title = Singing the iPhone Billing Blues | accessdate = 2013-06-04
-    |date=2007-08-17| work = TelecomWeb News |publisher=Free Press}}
+6.  {{ cite web | url = <http://www.technewsworld.com/story/Sprints-Singing-the-iPhone-Blues-73592.html> | title = Singing the iPhone Billing Blues | accessdate = 2013-06-04 |date=2007-08-17| work = TelecomWeb News |publisher=Free Press}}
 
-7.  {{ cite news | url =
-    <http://technology.timesonline.co.uk/tol/news/tech_and_web/personal_tech/article2313662.ece>
-    | title = Dear iPhone owner: your 300-page bill | accessdate =
-    2007-08-23 | author = Richards, Jonathan | date = 2007-08-23 |
-    format = | newspaper = The Times }}
+7.  {{ cite news | url = <http://technology.timesonline.co.uk/tol/news/tech_and_web/personal_tech/article2313662.ece> | title = Dear iPhone owner: your 300-page bill | accessdate = 2007-08-23 | author = Richards, Jonathan | date = 2007-08-23 | format = | newspaper = The Times }}
 
-8.  {{ cite news | url =
-    <http://www.nytimes.com/2007/08/23/business/23bill.html?em&ex=1188014400&en=de1fe8dde56cab98&ei=5087%0A>
-    | title = AT\&T's Overstuffed iPhone Bills Annoy Customers |
-    accessdate = 2007-08-23 | author = Hafner, Katie | date = 2007-08-23
-    | newspaper = The New York Times}}
+8.  {{ cite news | url = <http://www.nytimes.com/2007/08/23/business/23bill.html?em&ex=1188014400&en=de1fe8dde56cab98&ei=5087%0A> | title = AT\&T's Overstuffed iPhone Bills Annoy Customers | accessdate = 2007-08-23 | author = Hafner, Katie | date = 2007-08-23 | newspaper = The New York Times}}
 
-9.  {{ cite news
-    |url=<http://articles.latimes.com/2007/aug/23/business/fi-iphone23>
-    |title=AT & T to keep iPhone bills brief |accessdate=2013-06-04
-    |author=Quinn, Michelle |date= 2007-08-23|newspaper=The Los Angeles
-    Times}}
+9.  {{ cite news |url=<http://articles.latimes.com/2007/aug/23/business/fi-iphone23> |title=AT & T to keep iPhone bills brief |accessdate=2013-06-04 |author=Quinn, Michelle |date= 2007-08-23|newspaper=The Los Angeles Times}}
 
-10. {{ cite
-    web|url=<http://www.computerworld.com/s/article/9041858/Technology_s_10_Most_Mortifying_Moments?pageNumber=2>
-    |title=Technology's 10 Most Mortifying Moments : iPhone Bills Kill
-    Trees |accessdate=2013-06-04 |date=2007-10-17 |author=Haskin, David
-    |work=Computerworld
-    |archiveurl=<https://web.archive.org/web/20071119172546/http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9041858&pageNumber=2>
-    |archivedate=2007-11-19 |deadurl=yes }}
+10. {{ cite web|url=<http://www.computerworld.com/s/article/9041858/Technology_s_10_Most_Mortifying_Moments?pageNumber=2> |title=Technology's 10 Most Mortifying Moments : iPhone Bills Kill Trees |accessdate=2013-06-04 |date=2007-10-17 |author=Haskin, David |work=Computerworld |archiveurl=<https://web.archive.org/web/20071119172546/http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9041858&pageNumber=2> |archivedate=2007-11-19 |deadurl=yes }}
 
-11. {{ cite
-    web|url=<http://connectedplanetonline.com/wireless/news/telecom-billing-practices-0815/>
-    |title=Billing confusion a pain for wireless customers and customer
-    service |work=Telephony Online |first=Sarah |last=Reedy
-    |publisher=Penton Media |date=2008-08-15 |accessdate=2013-06-04
-    |quote=When the first version of the iPhone came out, in what
-    *Computerworld* called one of "technology's 10 most mortifying
-    moments", consumers with 300-page bills voiced their disdain in what
-    became a viral video on the Internet.
-    |archiveurl=<https://web.archive.org/web/20080823215446/http://telephonyonline.com/wireless/news/telecom-billing-practices-0815/>
-    |archivedate=2008-08-23 |deadurl=yes }}
+11. {{ cite web|url=<http://connectedplanetonline.com/wireless/news/telecom-billing-practices-0815/> |title=Billing confusion a pain for wireless customers and customer service |work=Telephony Online |first=Sarah |last=Reedy |publisher=Penton Media |date=2008-08-15 |accessdate=2013-06-04 |quote=When the first version of the iPhone came out, in what *Computerworld* called one of "technology's 10 most mortifying moments", consumers with 300-page bills voiced their disdain in what became a viral video on the Internet. |archiveurl=<https://web.archive.org/web/20080823215446/http://telephonyonline.com/wireless/news/telecom-billing-practices-0815/> |archivedate=2008-08-23 |deadurl=yes }}
 
-12. {{ cite web | url =
-    <http://news.cnet.com/Finally,-Apple-answers-call-for-iPhone/2100-1041_3-6148392.html>
-    | title = Finally, Apple answers call for iPhone | date = 2007-01-09
-    | accessdate = 2013-06-04 | author = Krazit, Tom |coauthors =
-    Jennifer Guevin and Michelle Meyers | work = CNET News }}
+12. {{ cite web | url = <http://news.cnet.com/Finally,-Apple-answers-call-for-iPhone/2100-1041_3-6148392.html> | title = Finally, Apple answers call for iPhone | date = 2007-01-09 | accessdate = 2013-06-04 | author = Krazit, Tom |coauthors = Jennifer Guevin and Michelle Meyers | work = CNET News }}
 
-13. {{ cite
-    news|url=<http://www.nytimes.com/2007/06/27/technology/circuits/27pogue.html?ex=1190001600&en=42e2ea76b04c524e&ei=5070>
-    |title=The iPhone Matches Most of Its Hype |accessdate=2007-09-22
-    |date=2007-06-27 |author=Pogue, David |newspaper=The New York Times
-    |archiveurl=<https://web.archive.org/web/20071012175637/http://nytimes.com/2007/06/27/technology/circuits/27pogue.html?ex=1190001600&en=42e2ea76b04c524e&ei=5070>
-    |archivedate=2007-10-12 |deadurl=yes }}
+13. {{ cite news|url=<http://www.nytimes.com/2007/06/27/technology/circuits/27pogue.html?ex=1190001600&en=42e2ea76b04c524e&ei=5070> |title=The iPhone Matches Most of Its Hype |accessdate=2007-09-22 |date=2007-06-27 |author=Pogue, David |newspaper=The New York Times |archiveurl=<https://web.archive.org/web/20071012175637/http://nytimes.com/2007/06/27/technology/circuits/27pogue.html?ex=1190001600&en=42e2ea76b04c524e&ei=5070> |archivedate=2007-10-12 |deadurl=yes }}
 
-14. {{ cite
-    web|url=<http://www.networkworld.com/news/2007/082307-the-300-page-iphone-bill-to.html?nwwpkg=iphone>
-    |title=The 300-page iPhone bill to disappear |accessdate=2013-06-04
-    |date=2007-08-23 |author=Perenson, Melissa J. |work=PC World
-    |archiveurl=<https://web.archive.org/web/20070903205536/http://www.networkworld.com/news/2007/082307-the-300-page-iphone-bill-to.html?nwwpkg=iphone>
-    |archivedate=2007-09-03 |deadurl=yes }}
+14. {{ cite web|url=<http://www.networkworld.com/news/2007/082307-the-300-page-iphone-bill-to.html?nwwpkg=iphone> |title=The 300-page iPhone bill to disappear |accessdate=2013-06-04 |date=2007-08-23 |author=Perenson, Melissa J. |work=PC World |archiveurl=<https://web.archive.org/web/20070903205536/http://www.networkworld.com/news/2007/082307-the-300-page-iphone-bill-to.html?nwwpkg=iphone> |archivedate=2007-09-03 |deadurl=yes }}
 
 15.
 16.
-17. {{ cite
-    web|url=<http://www.dnaindia.com/report.asp?NewsID=1118034&CatID=19>
-    |title=Opinion : Phone service |accessdate=2013-06-04
-    |date=2007-08-27 |work=Daily News & Analysis, India
-    |publisher=Diligent Media Corporation Ltd. |quote=The new iPhone has
-    been staggering users, first with its gizmo-good-looks, then with
-    its functionality and now, about a month after it was launched, with
-    its bills.
-    |archiveurl=<https://web.archive.org/web/20070927200915/http://www.dnaindia.com/report.asp?NewsID=1118034&CatID=19>
-    |archivedate=2007-09-27 |deadurl=yes }}
+17. {{ cite web|url=<http://www.dnaindia.com/report.asp?NewsID=1118034&CatID=19> |title=Opinion : Phone service |accessdate=2013-06-04 |date=2007-08-27 |work=Daily News & Analysis, India |publisher=Diligent Media Corporation Ltd. |quote=The new iPhone has been staggering users, first with its gizmo-good-looks, then with its functionality and now, about a month after it was launched, with its bills. |archiveurl=<https://web.archive.org/web/20070927200915/http://www.dnaindia.com/report.asp?NewsID=1118034&CatID=19> |archivedate=2007-09-27 |deadurl=yes }}
 
-18. {{ cite web
-    |url=<http://www.switched.com/2007/08/14/girl-gets-300-page-iphone-bill-delivered-in-a-box/>
-    |title=Girl Videotapes 300-Page iPhone Bill — Switched: Gadgets,
-    Tech, Digital Stuff for the Rest of Us |accessdate=2013-06-04 | date
-    = 2007-08-14 | first=Terrence | last=O'Brien|work=Switched |
-    publisher = [美国在线](../Page/美国在线.md "wikilink") }}
+18. {{ cite web |url=<http://www.switched.com/2007/08/14/girl-gets-300-page-iphone-bill-delivered-in-a-box/> |title=Girl Videotapes 300-Page iPhone Bill — Switched: Gadgets, Tech, Digital Stuff for the Rest of Us |accessdate=2013-06-04 | date = 2007-08-14 | first=Terrence | last=O'Brien|work=Switched | publisher = [美国在线](../Page/美国在线.md "wikilink") }}
 
 19.
 20.
-21. {{ cite news
-    |url=<http://business.timesonline.co.uk/tol/business/industry_sectors/telecoms/article2317395.ece>
-    |title=The iPhone bill that's as thick as a novel
-    |accessdate=2007-12-28| date = 2004-08-27 |first = Chris| last =
-    Ayres |newspaper=The Times }}
+21. {{ cite news |url=<http://business.timesonline.co.uk/tol/business/industry_sectors/telecoms/article2317395.ece> |title=The iPhone bill that's as thick as a novel |accessdate=2007-12-28| date = 2004-08-27 |first = Chris| last = Ayres |newspaper=The Times }}
 
-22. {{ cite web | url =
-    <http://triblive.com/x/pittsburghtrib/news/tribpm/s_522522.html#axzz2VFtM6K69>
-    | title = The blog is on | accessdate = 2013-06-04 | author = Lyons,
-    Kim | date = 2007-08-16 | newspaper = Pittsburgh Tribune-Review}}
+22. {{ cite web | url = <http://triblive.com/x/pittsburghtrib/news/tribpm/s_522522.html#axzz2VFtM6K69> | title = The blog is on | accessdate = 2013-06-04 | author = Lyons, Kim | date = 2007-08-16 | newspaper = Pittsburgh Tribune-Review}}
 
 23.
-24. {{ cite
-    web|url=<http://www.monstersandcritics.com/tech/news/article_1344359.php/Thirty_thousand_text_messages_equal_a_forest_killing_300-page_phone_bill>
-    |title=Thirty thousand text messages equal a forest killing 300-page
-    phone bill |accessdate=2013-06-04 |author=Ragan, Steve
-    |date=2007-08-17 |work=Monsters and Critics |deadurl=yes
-    |archiveurl=<https://web.archive.org/web/20100304185324/http://www.monstersandcritics.com/tech/news/article_1344359.php/Thirty_thousand_text_messages_equal_a_forest_killing_300-page_phone_bill>
-    |archivedate=2010-03-04 }}
+24. {{ cite web|url=<http://www.monstersandcritics.com/tech/news/article_1344359.php/Thirty_thousand_text_messages_equal_a_forest_killing_300-page_phone_bill> |title=Thirty thousand text messages equal a forest killing 300-page phone bill |accessdate=2013-06-04 |author=Ragan, Steve |date=2007-08-17 |work=Monsters and Critics |deadurl=yes |archiveurl=<https://web.archive.org/web/20100304185324/http://www.monstersandcritics.com/tech/news/article_1344359.php/Thirty_thousand_text_messages_equal_a_forest_killing_300-page_phone_bill> |archivedate=2010-03-04 }}
 
-25. {{ cite
-    web|url=<http://www.wtae.com/Pittsburgh-Blogger-s-300-Page-iPhone-Bill-Mailed-In-Box/-/9681798/7761558/-/jnsf29/-/index.html>
-    |title=Pittsburgh Blogger's 300-Page iPhone Bill Mailed In Box
-    |accessdate=2013-06-04 |author=Stockey, Andrew |date=2007-08-15
-    |work=WTAE-TV News, Pittsburgh
-    |archiveurl=<https://web.archive.org/web/20070927002858/http://www.thepittsburghchannel.com/news/13898996/detail.html>
-    |archivedate=2007-09-27 |deadurl=yes }}
+25. {{ cite web|url=<http://www.wtae.com/Pittsburgh-Blogger-s-300-Page-iPhone-Bill-Mailed-In-Box/-/9681798/7761558/-/jnsf29/-/index.html> |title=Pittsburgh Blogger's 300-Page iPhone Bill Mailed In Box |accessdate=2013-06-04 |author=Stockey, Andrew |date=2007-08-15 |work=WTAE-TV News, Pittsburgh |archiveurl=<https://web.archive.org/web/20070927002858/http://www.thepittsburghchannel.com/news/13898996/detail.html> |archivedate=2007-09-27 |deadurl=yes }}
 
 26.
-27. {{ cite
-    web|url=<http://www.tvweek.com/news/2007/12/online_fame_easy_ads_harder_to.php>
-    |title=Online Fame Easy; Ads Harder to Get |date=2007-12-08
-    |author=Whitney, Daisy |accessdate=2013-06-04 |work=TVWeek
-    |archiveurl=<https://web.archive.org/web/20071215041314/http://www.tvweek.com/news/2007/12/online_fame_easy_ads_harder_to.php>
-    |archivedate=2007-12-15 |deadurl=yes }}
+27. {{ cite web|url=<http://www.tvweek.com/news/2007/12/online_fame_easy_ads_harder_to.php> |title=Online Fame Easy; Ads Harder to Get |date=2007-12-08 |author=Whitney, Daisy |accessdate=2013-06-04 |work=TVWeek |archiveurl=<https://web.archive.org/web/20071215041314/http://www.tvweek.com/news/2007/12/online_fame_easy_ads_harder_to.php> |archivedate=2007-12-15 |deadurl=yes }}
 
-28. {{ cite
-    news|url=<http://transcripts.cnn.com/TRANSCRIPTS/0708/16/gb.01.html>
-    |title=Transcripts |accessdate=2007-09-18 |date=2007-08-16
-    |author=Glenn Beck |work=[有线电视新闻网](../Page/有线电视新闻网.md "wikilink")
-    |archiveurl=<https://web.archive.org/web/20071012184441/http://transcripts.cnn.com/TRANSCRIPTS/0708/16/gb.01.html>
-    |archivedate=2007-10-12 |deadurl=yes }}
+28. {{ cite news|url=<http://transcripts.cnn.com/TRANSCRIPTS/0708/16/gb.01.html> |title=Transcripts |accessdate=2007-09-18 |date=2007-08-16 |author=Glenn Beck |work=[有线电视新闻网](../Page/有线电视新闻网.md "wikilink") |archiveurl=<https://web.archive.org/web/20071012184441/http://transcripts.cnn.com/TRANSCRIPTS/0708/16/gb.01.html> |archivedate=2007-10-12 |deadurl=yes }}
 
-29. {{ cite
-    news|url=<http://video.foxnews.com/?081707/081707_studiob_iphone&iSurprise&Studio_B&Blogger%2520shocked%2520after%2520receiving%2520300-page%2520iPhone%2520bill&Technology&-1&iSurprise&Video%2520Launch%2520Page&News>
-    |title=Video: iSurprise : Blogger shocked after receiving 300-page
-    iPhone bill |accessdate=2013-06-04 |date=2007-08-17 |newspaper=Fox
-    News Channel |author=Shepard Smith
-    |archiveurl=<https://web.archive.org/web/20071015153001/http://www.foxnews.com/video2/launchPage.html?081707%2F081707_studiob_iphone&iSurprise&Studio_B&Blogger%20shocked%20after%20receiving%20300-page%20iPhone%20bill&Technology&-1&iSurprise&Video%20Launch%20Page&News>
-    |archivedate=2007-10-15 |deadurl=yes }}
+29. {{ cite news|url=<http://video.foxnews.com/?081707/081707_studiob_iphone&iSurprise&Studio_B&Blogger%2520shocked%2520after%2520receiving%2520300-page%2520iPhone%2520bill&Technology&-1&iSurprise&Video%2520Launch%2520Page&News> |title=Video: iSurprise : Blogger shocked after receiving 300-page iPhone bill |accessdate=2013-06-04 |date=2007-08-17 |newspaper=Fox News Channel |author=Shepard Smith |archiveurl=<https://web.archive.org/web/20071015153001/http://www.foxnews.com/video2/launchPage.html?081707%2F081707_studiob_iphone&iSurprise&Studio_B&Blogger%20shocked%20after%20receiving%20300-page%20iPhone%20bill&Technology&-1&iSurprise&Video%20Launch%20Page&News> |archivedate=2007-10-15 |deadurl=yes }}
 
 30.
-31. {{ cite
-    web|url=<http://www.wpxi.com/news/news/local-iphone-customer-gets-300-page-phone-bill/nGcC7/>
-    |title=Local iPhone Customer Gets 300-Page Phone Bill
-    |accessdate=2013-06-04 |date=2007-08-15 |work=WPXI Pittsburgh
-    |archiveurl=<https://web.archive.org/web/20070927214141/http://www.wpxi.com/news/13899466/detail.html>
-    |archivedate=2007-09-27 |deadurl=yes }}
+31. {{ cite web|url=<http://www.wpxi.com/news/news/local-iphone-customer-gets-300-page-phone-bill/nGcC7/> |title=Local iPhone Customer Gets 300-Page Phone Bill |accessdate=2013-06-04 |date=2007-08-15 |work=WPXI Pittsburgh |archiveurl=<https://web.archive.org/web/20070927214141/http://www.wpxi.com/news/13899466/detail.html> |archivedate=2007-09-27 |deadurl=yes }}
 
-32. {{ cite
-    news|url=<http://abcnews.go.com/Video/playerIndex?id=3492501>
-    |title=Getting the iPhone Bill |accessdate=2013-06-04 |newspaper=ABC
-    News |quote=First billing cycle arrives looking more like a novel
-    then a bill.
-    |archiveurl=<https://web.archive.org/web/20070830230026/http://abcnews.go.com/Video/playerIndex?id=3492501>
-    |archivedate=2007-08-30 |deadurl=yes }}
+32. {{ cite news|url=<http://abcnews.go.com/Video/playerIndex?id=3492501> |title=Getting the iPhone Bill |accessdate=2013-06-04 |newspaper=ABC News |quote=First billing cycle arrives looking more like a novel then a bill. |archiveurl=<https://web.archive.org/web/20070830230026/http://abcnews.go.com/Video/playerIndex?id=3492501> |archivedate=2007-08-30 |deadurl=yes }}
 
 33.
-34. {{ cite web | url =
-    <http://www.cio-today.com/news/AT-T-Decides-To-Kill-the-iPhone-Bill/story.xhtml?story_id=1200091KVVLC&full_skip=1>
-    | title = AT\&T Decides To Kill the iPhone Bill | accessdate =
-    2013-06-04 | date=2007-08-24 | author = Levine, Barry | work = CIO
-    Today }}
+34. {{ cite web | url = <http://www.cio-today.com/news/AT-T-Decides-To-Kill-the-iPhone-Bill/story.xhtml?story_id=1200091KVVLC&full_skip=1> | title = AT\&T Decides To Kill the iPhone Bill | accessdate = 2013-06-04 | date=2007-08-24 | author = Levine, Barry | work = CIO Today }}
 
 35.
 36.
 37.
-38. {{ cite
-    web|url=<http://abcnews.go.com/Technology/story?id=3478095&page=1>
-    |title=Bulky iPhone Bills Can Top 300 Pages |accessdate=2007-08-19
-    |author=Phillips, Ashley |date=2007-08-14 |publisher=ABC News
-    |archiveurl=<https://web.archive.org/web/20070911154658/http://abcnews.go.com/Technology/Story?id=3478095&page=1>
-    |archivedate=2007-09-11 |deadurl=yes }}
+38. {{ cite web|url=<http://abcnews.go.com/Technology/story?id=3478095&page=1> |title=Bulky iPhone Bills Can Top 300 Pages |accessdate=2007-08-19 |author=Phillips, Ashley |date=2007-08-14 |publisher=ABC News |archiveurl=<https://web.archive.org/web/20070911154658/http://abcnews.go.com/Technology/Story?id=3478095&page=1> |archivedate=2007-09-11 |deadurl=yes }}
 
 39.
-40. {{ cite
-    news|url=<http://www.hispanicbusiness.com/news/newsbyid.asp?id=74758&cat=Business+News&more=%2Fnews%2Fmore-business-news.asp>
-    |title=300-page iPhone Bill |accessdate=2007-09-04
-    |author=Littlejohn, Georgina |date=2007-08-25 |work=Hispanic
-    Business News |publisher=ProQuest Information and Learning Company
-    |archiveurl=<https://web.archive.org/web/20070927224050/http://www.hispanicbusiness.com/news/newsbyid.asp?id=74758&cat=Business%20News&more=%2Fnews%2Fmore-business-news.asp>
-    |archivedate=2007-09-27 |deadurl=yes }}
+40. {{ cite news|url=<http://www.hispanicbusiness.com/news/newsbyid.asp?id=74758&cat=Business+News&more=%2Fnews%2Fmore-business-news.asp> |title=300-page iPhone Bill |accessdate=2007-09-04 |author=Littlejohn, Georgina |date=2007-08-25 |work=Hispanic Business News |publisher=ProQuest Information and Learning Company |archiveurl=<https://web.archive.org/web/20070927224050/http://www.hispanicbusiness.com/news/newsbyid.asp?id=74758&cat=Business%20News&more=%2Fnews%2Fmore-business-news.asp> |archivedate=2007-09-27 |deadurl=yes }}
 
 41.
-42. {{ cite
-    web|url=<http://www.wfaa.com/sharedcontent/dws/wfaa/latestnews/stories/wfaa070817_lj_brady.43920fb0.html>
-    |title=Woman mocks 300-page bill-in-a-box |accessdate=2007-08-22
-    |author=Brady, Jeff |date=2007-08-18 |work=WFAA-TV news (Dallas/Fort
-    Worth)
-    |archiveurl=<https://web.archive.org/web/20070819061418/http://www.wfaa.com/sharedcontent/dws/wfaa/latestnews/stories/wfaa070817_lj_brady.43920fb0.html>
-    |archivedate=2007-08-19 |deadurl=yes }}
+42. {{ cite web|url=<http://www.wfaa.com/sharedcontent/dws/wfaa/latestnews/stories/wfaa070817_lj_brady.43920fb0.html> |title=Woman mocks 300-page bill-in-a-box |accessdate=2007-08-22 |author=Brady, Jeff |date=2007-08-18 |work=WFAA-TV news (Dallas/Fort Worth) |archiveurl=<https://web.archive.org/web/20070819061418/http://www.wfaa.com/sharedcontent/dws/wfaa/latestnews/stories/wfaa070817_lj_brady.43920fb0.html> |archivedate=2007-08-19 |deadurl=yes }}
 
 43.
-44. {{ cite
-    web|url=<http://arstechnica.com/apple/2007/08/att-says-no-more-300-page-iphone-bills/>
-    |title=AT\&T says "No more 300-page iPhone bills"
-    |accessdate=2013-06-04 |author=Cheng, Jacqui |date=2007-08-22
-    |work=Ars Technica
-    |archiveurl=<https://web.archive.org/web/20070823122233/http://arstechnica.com/journals/apple.ars/2007/08/22/att-says-no-more-300-page-iphone-bills>
-    |archivedate=2007-08-23 |deadurl=yes }}
+44. {{ cite web|url=<http://arstechnica.com/apple/2007/08/att-says-no-more-300-page-iphone-bills/> |title=AT\&T says "No more 300-page iPhone bills" |accessdate=2013-06-04 |author=Cheng, Jacqui |date=2007-08-22 |work=Ars Technica |archiveurl=<https://web.archive.org/web/20070823122233/http://arstechnica.com/journals/apple.ars/2007/08/22/att-says-no-more-300-page-iphone-bills> |archivedate=2007-08-23 |deadurl=yes }}
 
 45.
 46.
-47. {{ cite newspaper | url =
-    <http://www.sacbee.com/103/story/339802.html> | archiveurl =
-    <https://web.archive.org/web/20080121145845/http://www.sacbee.com/103/story/339802.html>
-    | archivedate = 2008-01-21 | title = Long iPhone bills go away |
-    accessdate = 2007-08-23 | author = Swett, Clint | date = 2007-08-23
-    | newspaper = The Sacramento Bee | deadurl = yes }}
+47. {{ cite newspaper | url = <http://www.sacbee.com/103/story/339802.html> | archiveurl = <https://web.archive.org/web/20080121145845/http://www.sacbee.com/103/story/339802.html> | archivedate = 2008-01-21 | title = Long iPhone bills go away | accessdate = 2007-08-23 | author = Swett, Clint | date = 2007-08-23 | newspaper = The Sacramento Bee | deadurl = yes }}
 
 48.
-49. {{ cite
-    web|url=<http://www.idm.net.au/blog/001038no-more-300-page-bills-iphone-customers>
-    |archiveurl=<https://web.archive.org/web/20071012173843/http://idm.net.au/story.asp?id=8760>
-    |archivedate=2007-10-12 |title=No More 300 Page Bills for iPhone
-    Customers |accessdate=2013-06-04 |author=McNevin, Greg
-    |date=2007-08-29 |work=Image and Data Manager, Australia
-    |publisher=Knapp Communications |deadurl=yes }}
+49. {{ cite web|url=<http://www.idm.net.au/blog/001038no-more-300-page-bills-iphone-customers> |archiveurl=<https://web.archive.org/web/20071012173843/http://idm.net.au/story.asp?id=8760> |archivedate=2007-10-12 |title=No More 300 Page Bills for iPhone Customers |accessdate=2013-06-04 |author=McNevin, Greg |date=2007-08-29 |work=Image and Data Manager, Australia |publisher=Knapp Communications |deadurl=yes }}
 
-50. {{ cite web
-    |url=<http://www.dailymail.co.uk/news/article-477451/300-page-iPhone-thats-novel.html>
-    |title=300-page iPhone bill that's as thick as a novel
-    |accessdate=2013-06-04 |date=2007-08-28 |work= Daily Mail}}
+50. {{ cite web |url=<http://www.dailymail.co.uk/news/article-477451/300-page-iPhone-thats-novel.html> |title=300-page iPhone bill that's as thick as a novel |accessdate=2013-06-04 |date=2007-08-28 |work= Daily Mail}}
 
 51.
 
-52. {{ cite newspaper | url =
-    <http://www.sptimes.com/2007/08/16/Business/iPhone_bills_land_wit.shtml>
-    | title = Business: iPhone bills land with a thump | accessdate =
-    2013-06-04 | author = Bora, Madhusmita | date = 2007-08-16 |
-    newspaper = St. Petersburg Times | archiveurl =
-    <https://web.archive.org/web/20070818165812/http://www.sptimes.com/2007/08/16/Business/iPhone_bills_land_wit.shtml>
-    | archivedate = 2007-08-18 | deadurl = yes }}
+52. {{ cite newspaper | url = <http://www.sptimes.com/2007/08/16/Business/iPhone_bills_land_wit.shtml> | title = Business: iPhone bills land with a thump | accessdate = 2013-06-04 | author = Bora, Madhusmita | date = 2007-08-16 | newspaper = St. Petersburg Times | archiveurl = <https://web.archive.org/web/20070818165812/http://www.sptimes.com/2007/08/16/Business/iPhone_bills_land_wit.shtml> | archivedate = 2007-08-18 | deadurl = yes }}
 
 53.
-54. {{ cite
-    web|url=<http://upstart.bizjournals.com/news/wire/2007/08/14/little-phone-big-bill.html?addComment=true>
-    |title=Daily Brief: Little Phone, Big Bill |accessdate=2013-06-05
-    |author=Barnett, Megan |date=2007-08-14 |work=Portfolio.com
-    |publisher=Condé Nast |quote=At the end of the bill, if anyone
-    actually reads that far, the phone company has an announcement to
-    make. "The New AT\&T is going green".
-    |archiveurl=<https://web.archive.org/web/20070928023203/http://www.portfolio.com/views/blogs/daily-brief/2007/08/14/little-phone-big-bill?addComment=true>
-    |archivedate=2007-09-28 |deadurl=yes }}
+54. {{ cite web|url=<http://upstart.bizjournals.com/news/wire/2007/08/14/little-phone-big-bill.html?addComment=true> |title=Daily Brief: Little Phone, Big Bill |accessdate=2013-06-05 |author=Barnett, Megan |date=2007-08-14 |work=Portfolio.com |publisher=Condé Nast |quote=At the end of the bill, if anyone actually reads that far, the phone company has an announcement to make. "The New AT\&T is going green". |archiveurl=<https://web.archive.org/web/20070928023203/http://www.portfolio.com/views/blogs/daily-brief/2007/08/14/little-phone-big-bill?addComment=true> |archivedate=2007-09-28 |deadurl=yes }}
 
-55. {{ cite news
-    |url=<http://www.inrich.com/cva/ric/news/business.apx.-content-articles-RTD-2007-08-16-0106.html>
-    |title=AT\&T users, may find a big bill in the mail
-    |accessdate=2007-08-19 |date=2007-08-16 |author=Kelley, Jeffrey
-    |newspaper=Richmond Times-Dispatch |deadurl=yes
-    |archiveurl=<https://web.archive.org/web/20070823052421/http://www.inrich.com/cva/ric/news/business.apx.-content-articles-RTD-2007-08-16-0106.html>
-    |archivedate=2007-08-23 }}
+55. {{ cite news |url=<http://www.inrich.com/cva/ric/news/business.apx.-content-articles-RTD-2007-08-16-0106.html> |title=AT\&T users, may find a big bill in the mail |accessdate=2007-08-19 |date=2007-08-16 |author=Kelley, Jeffrey |newspaper=Richmond Times-Dispatch |deadurl=yes |archiveurl=<https://web.archive.org/web/20070823052421/http://www.inrich.com/cva/ric/news/business.apx.-content-articles-RTD-2007-08-16-0106.html> |archivedate=2007-08-23 }}
 
 56.
 57.
-58. {{ cite
-    news|url=<http://money.cnn.com/2007/08/23/technology/iphone_bill/index.htm>
-    |title=AT\&T drops iPhone bills that ran hundreds of pages
-    |date=2007-08-23 |accessdate=2013-06-05 |work=CNNMoney.com
-    |quote=Brophy's blog post asked "Has anyone on the Apple
-    Environmental Team seen an AT\&T bill?" Former Vice President Al
-    Gore, an environmental activist, sits on the Apple board.
-    |archiveurl=<https://web.archive.org/web/20071014043140/http://money.cnn.com/2007/08/23/technology/iphone_bill/index.htm>
-    |archivedate=2007-10-14 |deadurl=yes }}
+58. {{ cite news|url=<http://money.cnn.com/2007/08/23/technology/iphone_bill/index.htm> |title=AT\&T drops iPhone bills that ran hundreds of pages |date=2007-08-23 |accessdate=2013-06-05 |work=CNNMoney.com |quote=Brophy's blog post asked "Has anyone on the Apple Environmental Team seen an AT\&T bill?" Former Vice President Al Gore, an environmental activist, sits on the Apple board. |archiveurl=<https://web.archive.org/web/20071014043140/http://money.cnn.com/2007/08/23/technology/iphone_bill/index.htm> |archivedate=2007-10-14 |deadurl=yes }}
 
-59. {{ cite
-    web|url=<http://gcn.com/articles/2007/08/24/r-fink--cant-see-the-forest-for-the-iphone-bills.aspx>
-    |title=The Packet Rat: Commentary: The other shoe — measured by the
-    ton — drops with the iPhone bill |accessdate=2013-06-05
-    |author=Fink, R. |date=2007-08-27 |work=Government Computer News
-    |archiveurl=<https://web.archive.org/web/20070927194532/http://www.gcn.com/print/26_22/44949-1.html>
-    |archivedate=2007-09-27 |deadurl=yes }}
+59. {{ cite web|url=<http://gcn.com/articles/2007/08/24/r-fink--cant-see-the-forest-for-the-iphone-bills.aspx> |title=The Packet Rat: Commentary: The other shoe — measured by the ton — drops with the iPhone bill |accessdate=2013-06-05 |author=Fink, R. |date=2007-08-27 |work=Government Computer News |archiveurl=<https://web.archive.org/web/20070927194532/http://www.gcn.com/print/26_22/44949-1.html> |archivedate=2007-09-27 |deadurl=yes }}
 
 60.
 61.
 62.
-63. {{ cite
-    web|url=<http://www.efluxmedia.com/news_Massive_ATT_iPhone_Bills_Considered_Useless_07820.html>
-    |title=Massive AT\&T iPhone Bills Considered Useless
-    |accessdate=2013-06-05 |author=Brenn, Max |work=eFluxMedia
-    |deadurl=yes
-    |archiveurl=<https://web.archive.org/web/20070623052601/http://www.efluxmedia.com/news_Massive_ATT_iPhone_Bills_Considered_Useless_07820.html>
-    |archivedate=2007-06-23 }}
+63. {{ cite web|url=<http://www.efluxmedia.com/news_Massive_ATT_iPhone_Bills_Considered_Useless_07820.html> |title=Massive AT\&T iPhone Bills Considered Useless |accessdate=2013-06-05 |author=Brenn, Max |work=eFluxMedia |deadurl=yes |archiveurl=<https://web.archive.org/web/20070623052601/http://www.efluxmedia.com/news_Massive_ATT_iPhone_Bills_Considered_Useless_07820.html> |archivedate=2007-06-23 }}
 
-64. {{ cite web|url=<http://tidbits.com/article/9116> |title=iPhone
-    Billing and International Issues |accessdate=2013-06-04
-    |author=Brown, Jorg |date=2007-08-17 |work=TidBITS
-    |archiveurl=<https://web.archive.org/web/20070829223318/http://db.tidbits.com/article/9116>
-    |archivedate=2007-08-29 |deadurl=yes }}
+64. {{ cite web|url=<http://tidbits.com/article/9116> |title=iPhone Billing and International Issues |accessdate=2013-06-04 |author=Brown, Jorg |date=2007-08-17 |work=TidBITS |archiveurl=<https://web.archive.org/web/20070829223318/http://db.tidbits.com/article/9116> |archivedate=2007-08-29 |deadurl=yes }}
 
-65. {{ cite
-    web|url=<http://www.toledoblade.com/Editorials/2007/08/23/A-bill-in-a-box-is-a-waste.html>
-    |title=A bill in a box is a waste |date=2007-08-23
-    |accessdate=2013-06-05 |work=Toledo Blade
-    |archiveurl=<https://web.archive.org/web/20071012182146/http://toledoblade.com/apps/pbcs.dll/article?AID=%2F20070823%2FOPINION02%2F708230304>
-    |archivedate=2007-10-12 |deadurl=yes }}
+65. {{ cite web|url=<http://www.toledoblade.com/Editorials/2007/08/23/A-bill-in-a-box-is-a-waste.html> |title=A bill in a box is a waste |date=2007-08-23 |accessdate=2013-06-05 |work=Toledo Blade |archiveurl=<https://web.archive.org/web/20071012182146/http://toledoblade.com/apps/pbcs.dll/article?AID=%2F20070823%2FOPINION02%2F708230304> |archivedate=2007-10-12 |deadurl=yes }}
 
-66. {{ cite
-    news|url=<http://www.telegraph.co.uk/news/worldnews/1561232/iPhone-bill-is-as-thick-as-a-novel.html>
-    |archiveurl=<https://web.archive.org/web/20071012173906/http://telegraph.co.uk/news/main.jhtml?xml=%2Fnews%2F2007%2F08%2F24%2Fwiphone124.xml>
-    |archivedate=2007-10-12 |title=iPhone bill is as thick as a novel
-    |accessdate=2013-06-05 |author=Smit, Martina |date=2007-08-24
-    |work=Daily Telegraph |deadurl=yes }}
+66. {{ cite news|url=<http://www.telegraph.co.uk/news/worldnews/1561232/iPhone-bill-is-as-thick-as-a-novel.html> |archiveurl=<https://web.archive.org/web/20071012173906/http://telegraph.co.uk/news/main.jhtml?xml=%2Fnews%2F2007%2F08%2F24%2Fwiphone124.xml> |archivedate=2007-10-12 |title=iPhone bill is as thick as a novel |accessdate=2013-06-05 |author=Smit, Martina |date=2007-08-24 |work=Daily Telegraph |deadurl=yes }}
 
-67. {{ cite
-    web|url=<http://reason.com/blog/2007/08/16/the-feeding-of-the-300>
-    |title=Hit & Run \> The Feeding of the 300 |accessdate=2013-06-05
-    |date=2007-08-16 |author=Weigel, David |work=Reason Magazine
-    |archiveurl=<https://web.archive.org/web/20070912064608/http://www.reason.com/blog/show/121978.html>
-    |archivedate=2007-09-12 |deadurl=yes }}
+67. {{ cite web|url=<http://reason.com/blog/2007/08/16/the-feeding-of-the-300> |title=Hit & Run \> The Feeding of the 300 |accessdate=2013-06-05 |date=2007-08-16 |author=Weigel, David |work=Reason Magazine |archiveurl=<https://web.archive.org/web/20070912064608/http://www.reason.com/blog/show/121978.html> |archivedate=2007-09-12 |deadurl=yes }}
 
-68. {{ cite
-    web|url=<http://arstechnica.com/apple/2007/08/iphone-bill-is-surprisingly-xbox-huge-lol/>
-    |title=iPhone bill is surprisingly Xbox HUGE (lol)
-    |accessdate=2013-06-05 |author=Kuchera, Ben |work=Ars Technica
-    |date=2007-08-11
-    |archiveurl=<https://web.archive.org/web/20070910132054/http://arstechnica.com/news.ars/post/20070811-iphone-bill-is-surprisingly-xbox-huge-lol.html>
-    |archivedate=2007-09-10 |deadurl=yes }}
+68. {{ cite web|url=<http://arstechnica.com/apple/2007/08/iphone-bill-is-surprisingly-xbox-huge-lol/> |title=iPhone bill is surprisingly Xbox HUGE (lol) |accessdate=2013-06-05 |author=Kuchera, Ben |work=Ars Technica |date=2007-08-11 |archiveurl=<https://web.archive.org/web/20070910132054/http://arstechnica.com/news.ars/post/20070811-iphone-bill-is-surprisingly-xbox-huge-lol.html> |archivedate=2007-09-10 |deadurl=yes }}

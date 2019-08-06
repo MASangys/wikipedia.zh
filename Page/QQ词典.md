@@ -1,8 +1,4 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:QQ词典网络版首页.png "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:QQ词典普通窗口.png "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:QQ词典迷你窗口.png "fig:缩略图")
-**QQ词典**是[腾讯](../Page/腾讯.md "wikilink")公司推出的词典，分为[网络版本和](https://zh.wikipedia.org/wiki/网络 "wikilink")[桌面版两个版本](https://zh.wikipedia.org/wiki/桌面 "wikilink")。
-***在2013年7月18日的更新（版本：1.1.147.400）发布后，QQ词典再无更新，伴随着官方网站的关闭，腾讯正式放弃了QQ词典项目。***
+[缩略图](https://zh.wikipedia.org/wiki/File:QQ词典网络版首页.png "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:QQ词典普通窗口.png "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:QQ词典迷你窗口.png "fig:缩略图") **QQ词典**是[腾讯](../Page/腾讯.md "wikilink")公司推出的词典，分为[网络版本和](https://zh.wikipedia.org/wiki/网络 "wikilink")[桌面版两个版本](https://zh.wikipedia.org/wiki/桌面 "wikilink")。 ***在2013年7月18日的更新（版本：1.1.147.400）发布后，QQ词典再无更新，伴随着官方网站的关闭，腾讯正式放弃了QQ词典项目。***
 
 ## QQ词典网络版
 
@@ -16,6 +12,4 @@ QQ词典桌面版是腾讯公司推出的桌面词典[软件](../Page/软件.md 
 
 1.
 2.
-[Category:腾讯软件](https://zh.wikipedia.org/wiki/Category:腾讯软件 "wikilink")
-[Category:电子词典](https://zh.wikipedia.org/wiki/Category:电子词典 "wikilink")
-[Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink")
+[Category:腾讯软件](https://zh.wikipedia.org/wiki/Category:腾讯软件 "wikilink") [Category:电子词典](https://zh.wikipedia.org/wiki/Category:电子词典 "wikilink") [Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink")

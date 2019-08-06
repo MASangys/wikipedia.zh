@@ -1,17 +1,13 @@
-《**Celebration\!**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")1张[单曲](../Page/单曲.md "wikilink")，於2011年12月28日由[rhythm
-zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
+《**Celebration\!**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")1张[单曲](../Page/单曲.md "wikilink")，於2011年12月28日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
   - 《Celebration\!》是E-girls的首張單曲，全員均有選拔並參與。
   - 此單曲亦是[Dream的](https://zh.wikipedia.org/wiki/Dream "wikilink")[Sayaka和](https://zh.wikipedia.org/wiki/山本紗也加 "wikilink")[Happiness的](../Page/Happiness_\(組合\).md "wikilink")[MIMU退出前參與的單曲](https://zh.wikipedia.org/wiki/日置美夢 "wikilink")
   - A面曲 《Celebration\!》是LAZONA川崎廣場《Lazona冬季酬賓》電視廣告歌曲。
-  - B面曲《Dreaming
-    Girls》為組合[Dream的歌曲](https://zh.wikipedia.org/wiki/Dream "wikilink")，是品牌Samantha
-    Thavasa「Samantha Thavasa ALL STARS」電視廣告歌曲
+  - B面曲《Dreaming Girls》為組合[Dream的歌曲](https://zh.wikipedia.org/wiki/Dream "wikilink")，是品牌Samantha Thavasa「Samantha Thavasa ALL STARS」電視廣告歌曲
   - B面曲《CAT'S EYE》是E-girls第1首翻唱歌曲，原唱者為ANRI（杏里）。
-  - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《Celebration\!》和《Dreaming
-    Girls》的Music Video。
+  - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《Celebration\!》和《Dreaming Girls》的Music Video。
   - 在2012年1月9日於公信榜单曲週排行榜取得第7位。
 
 ## 選拔成員
@@ -69,5 +65,4 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 6.  Dreaming Girls (Instrumental)
 7.  Celebration\! 〜Winter Mix〜 (Special Track)
 
-[Category:E-girls歌曲](https://zh.wikipedia.org/wiki/Category:E-girls歌曲 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
+[Category:E-girls歌曲](https://zh.wikipedia.org/wiki/Category:E-girls歌曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")

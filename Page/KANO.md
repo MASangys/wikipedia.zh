@@ -442,8 +442,7 @@ Ishitsuka Yoshitaka</p></td>
 香港版主題曲：勇者的浪漫(粵語)\[10\]\[11\]
 
   -
-    作曲：Rake / 填詞：[林若寧](../Page/林若寧.md "wikilink") /
-    編曲：[舒文](../Page/舒文.md "wikilink") / 監製：舒文
+    作曲：Rake / 填詞：[林若寧](../Page/林若寧.md "wikilink") / 編曲：[舒文](../Page/舒文.md "wikilink") / 監製：舒文
     演唱：[陳柏宇](../Page/陳柏宇.md "wikilink")、[VnP](https://zh.wikipedia.org/wiki/VnP "wikilink")
 
 ### 主題曲衍生版本
@@ -452,8 +451,7 @@ Ishitsuka Yoshitaka</p></td>
 
   -
     作曲：Rake、填詞：嚴云農
-    演唱：羅美玲、[馬志翔](../Page/馬志翔.md "wikilink")、[魏德聖](../Page/魏德聖.md "wikilink")、ft.
-    KANO演員（謝竣倢、謝竣晟、鍾硯誠、張弘邑、陳勁宏、周俊豪、鄭秉宏、孫睿、葉星辰）、嚴云農
+    演唱：羅美玲、[馬志翔](../Page/馬志翔.md "wikilink")、[魏德聖](../Page/魏德聖.md "wikilink")、ft. KANO演員（謝竣倢、謝竣晟、鍾硯誠、張弘邑、陳勁宏、周俊豪、鄭秉宏、孫睿、葉星辰）、嚴云農
 
 \[ 勇者的浪漫\]\[14\]\[15\]
 
@@ -496,9 +494,7 @@ Ishitsuka Yoshitaka</p></td>
 
 ### 音效
 
-「KANO」創下多項國片影史紀錄，邀請到音效大師[杜篤之](../Page/杜篤之.md "wikilink")親自催生首部[杜比全景聲](../Page/杜比全景聲.md "wikilink")(Dolby
-Atmos)國片，耗時5個月創作完美成果。國外[Dolby
-Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia.org/wiki/Dolby_Digital "wikilink")\[24\]。
+「KANO」創下多項國片影史紀錄，邀請到音效大師[杜篤之](../Page/杜篤之.md "wikilink")親自催生首部[杜比全景聲](../Page/杜比全景聲.md "wikilink")(Dolby Atmos)國片，耗時5個月創作完美成果。國外[Dolby Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia.org/wiki/Dolby_Digital "wikilink")\[24\]。
 
 ## 票房
 
@@ -514,8 +510,7 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 
   - 紐約電影節 KANO等4片獲選\[44\]
 
-第13屆紐約亞洲影展週末登場，在臺灣創下3億票房的
-「KANO」以及「失魂」、「對面的女孩殺過來」、「總舖師」4部電影獲選，另知名演員王羽將獲頒終生成就獎。2014紐約亞洲電影節將分別於6月29日及7月5日在林肯中心舉行，馬志翔及王羽將出席影展，和紐約觀眾面對面交流。馬志翔執導、魏德聖監製的熱血棒球電影KANO，訴說鮮為人知的臺灣棒球史第一章，嘉農棒球隊打進甲子園決賽的光榮故事。在臺灣掀起一陣棒球熱潮。
+第13屆紐約亞洲影展週末登場，在臺灣創下3億票房的 「KANO」以及「失魂」、「對面的女孩殺過來」、「總舖師」4部電影獲選，另知名演員王羽將獲頒終生成就獎。2014紐約亞洲電影節將分別於6月29日及7月5日在林肯中心舉行，馬志翔及王羽將出席影展，和紐約觀眾面對面交流。馬志翔執導、魏德聖監製的熱血棒球電影KANO，訴說鮮為人知的臺灣棒球史第一章，嘉農棒球隊打進甲子園決賽的光榮故事。在臺灣掀起一陣棒球熱潮。
 
 2014年3月5日，登上《[朝日新聞](../Page/朝日新聞.md "wikilink")》報紙頭版，成為首次出現在朝日新聞報頭版的電影。
 
@@ -526,11 +521,7 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 
   - 萬人封街遊行首映活動\[46\]\[47\]
 
-[A_statue_of_former_Kano_pitcher_Wu_Ming-chieh_at_the_Central_Fountain_of_Chiayi_City_(Taiwan).jpg](https://zh.wikipedia.org/wiki/File:A_statue_of_former_Kano_pitcher_Wu_Ming-chieh_at_the_Central_Fountain_of_Chiayi_City_\(Taiwan\).jpg "fig:A_statue_of_former_Kano_pitcher_Wu_Ming-chieh_at_the_Central_Fountain_of_Chiayi_City_(Taiwan).jpg")的
-「一隻展開翅膀的老鷹─KANO 1931」雕像\]\]
-《KANO》也創下國片史上第一次，萬人遊行宣傳手法，在2014年2月22日於嘉義市舉辦盛大的萬人封街遊行首映活動，監製[黃志明](https://zh.wikipedia.org/wiki/黃志明 "wikilink")、[魏德聖](../Page/魏德聖.md "wikilink")、導演[馬志翔](../Page/馬志翔.md "wikilink")、男主角[永瀨正敏](../Page/永瀨正敏.md "wikilink")、[近藤的](../Page/近藤兵太郎.md "wikilink")2個女兒亞琦與[喬喬](../Page/于卉喬.md "wikilink")，也會帶領全片的素人球員、[海角七號](../Page/海角七號.md "wikilink")、[賽德克·巴萊](../Page/賽德克·巴萊.md "wikilink")演員、嘉義地區的棒球隊，重現歷史中嘉農隊勇奪甲子園殊榮後，搭乘火車回到嘉義火車站。**KANO萬人封街遊行首映活動**從[嘉義火車站開始](https://zh.wikipedia.org/wiki/嘉義火車站 "wikilink")，沿著[中山路走到](../Page/中山路_\(嘉義市\).md "wikilink")[中央噴水池為新的](https://zh.wikipedia.org/wiki/中央噴水池 "wikilink")[嘉農投手](https://zh.wikipedia.org/wiki/嘉農棒球隊 "wikilink")[吳明捷](../Page/吳明捷.md "wikilink")雕像，雕塑家[蒲浩明作品](https://zh.wikipedia.org/wiki/蒲浩明 "wikilink")
-- 「一隻展開翅膀的老鷹─KANO
-1931」揭幕，再沿著[中山路走到](../Page/中山路_\(嘉義市\).md "wikilink")[嘉義市立棒球場](../Page/嘉義市立棒球場.md "wikilink")舉行**KANO**電影首映會\[48\]。特別的是，歷史上嘉農隊球員的後代家屬，[近藤兵太郎](../Page/近藤兵太郎.md "wikilink")教練在臺灣、日本教導過的學生，也全都將一同齊聚嘉義，參與遊行活動。
+[A_statue_of_former_Kano_pitcher_Wu_Ming-chieh_at_the_Central_Fountain_of_Chiayi_City_(Taiwan).jpg](https://zh.wikipedia.org/wiki/File:A_statue_of_former_Kano_pitcher_Wu_Ming-chieh_at_the_Central_Fountain_of_Chiayi_City_\(Taiwan\).jpg "fig:A_statue_of_former_Kano_pitcher_Wu_Ming-chieh_at_the_Central_Fountain_of_Chiayi_City_(Taiwan).jpg")的 「一隻展開翅膀的老鷹─KANO 1931」雕像\]\] 《KANO》也創下國片史上第一次，萬人遊行宣傳手法，在2014年2月22日於嘉義市舉辦盛大的萬人封街遊行首映活動，監製[黃志明](https://zh.wikipedia.org/wiki/黃志明 "wikilink")、[魏德聖](../Page/魏德聖.md "wikilink")、導演[馬志翔](../Page/馬志翔.md "wikilink")、男主角[永瀨正敏](../Page/永瀨正敏.md "wikilink")、[近藤的](../Page/近藤兵太郎.md "wikilink")2個女兒亞琦與[喬喬](../Page/于卉喬.md "wikilink")，也會帶領全片的素人球員、[海角七號](../Page/海角七號.md "wikilink")、[賽德克·巴萊](../Page/賽德克·巴萊.md "wikilink")演員、嘉義地區的棒球隊，重現歷史中嘉農隊勇奪甲子園殊榮後，搭乘火車回到嘉義火車站。**KANO萬人封街遊行首映活動**從[嘉義火車站開始](https://zh.wikipedia.org/wiki/嘉義火車站 "wikilink")，沿著[中山路走到](../Page/中山路_\(嘉義市\).md "wikilink")[中央噴水池為新的](https://zh.wikipedia.org/wiki/中央噴水池 "wikilink")[嘉農投手](https://zh.wikipedia.org/wiki/嘉農棒球隊 "wikilink")[吳明捷](../Page/吳明捷.md "wikilink")雕像，雕塑家[蒲浩明作品](https://zh.wikipedia.org/wiki/蒲浩明 "wikilink") - 「一隻展開翅膀的老鷹─KANO 1931」揭幕，再沿著[中山路走到](../Page/中山路_\(嘉義市\).md "wikilink")[嘉義市立棒球場](../Page/嘉義市立棒球場.md "wikilink")舉行**KANO**電影首映會\[48\]。特別的是，歷史上嘉農隊球員的後代家屬，[近藤兵太郎](../Page/近藤兵太郎.md "wikilink")教練在臺灣、日本教導過的學生，也全都將一同齊聚嘉義，參與遊行活動。
 
 2014臺北電影節 《KANO》榮獲【觀眾票選獎】 演員《曹佑寧》得【最佳男配角獎】
 
@@ -587,8 +578,7 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 
 ### 《KANO》電影同名漫畫
 
-作者：
-[魏德聖](../Page/魏德聖.md "wikilink")、[陳嘉蔚](https://zh.wikipedia.org/wiki/陳嘉蔚 "wikilink")/原著劇本
+作者： [魏德聖](../Page/魏德聖.md "wikilink")、[陳嘉蔚](https://zh.wikipedia.org/wiki/陳嘉蔚 "wikilink")/原著劇本
 繪者：[陳小雅](../Page/陳小雅.md "wikilink")\[65\]
 出版社：[遠流](https://zh.wikipedia.org/wiki/遠流 "wikilink")
 
@@ -711,13 +701,11 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 
   - [【KANO 幕後直擊】嘉義首映 萬人遊行](http://www.youtube.com/watch?v=scZBnm09oTI)影片
 
-  - [【KANO】一球入魂 Baseball is the
-    soul](http://www.youtube.com/watch?v=xBAoOWxAmcc)影片
+  - [【KANO】一球入魂 Baseball is the soul](http://www.youtube.com/watch?v=xBAoOWxAmcc)影片
 
   - [嘉農與紅葉的光輝年代 - 臺灣的棒球故事](http://www.youtube.com/watch?v=9CajIcV7yCc)影片
 
-  - [台灣啟示錄 20140302 英雄戰場
-    天下嘉農](https://web.archive.org/web/20140306084601/http://www.maplestage.com/episode/69881/%E5%8F%B0%E7%81%A3%E5%95%9F%E7%A4%BA%E9%8C%84-20140302-%E8%8B%B1%E9%9B%84%E6%88%B0%E5%A0%B4-%E5%A4%A9%E4%B8%8B%E5%98%89%E8%BE%B2)影片
+  - [台灣啟示錄 20140302 英雄戰場 天下嘉農](https://web.archive.org/web/20140306084601/http://www.maplestage.com/episode/69881/%E5%8F%B0%E7%81%A3%E5%95%9F%E7%A4%BA%E9%8C%84-20140302-%E8%8B%B1%E9%9B%84%E6%88%B0%E5%A0%B4-%E5%A4%A9%E4%B8%8B%E5%98%89%E8%BE%B2)影片
 
   - [重回KANO年代](http://blog.udn.com/a102753325/11720338)資料
 
@@ -725,27 +713,11 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 
   - [雅虎電影－【Y\!專訪】「為台灣農民爭口氣！」《KANO》大澤隆夫專訪](https://web.archive.org/web/20140519024950/https://tw.movies.yahoo.com/spotlight/d/a/140428/3/14lv.html)
 
-  - [《KANO》影評推薦與背景文章懶人包 |
-    台灣好生活電子報](http://www.taiwangoodlife.org/node/5565)
+  - [《KANO》影評推薦與背景文章懶人包 | 台灣好生活電子報](http://www.taiwangoodlife.org/node/5565)
 
 [分類:2010年代歷史電影](https://zh.wikipedia.org/wiki/分類:2010年代歷史電影 "wikilink")
 
-[Category:2010年代台灣電影作品](https://zh.wikipedia.org/wiki/Category:2010年代台灣電影作品 "wikilink")
-[Category:台灣劇情片](https://zh.wikipedia.org/wiki/Category:台灣劇情片 "wikilink")
-[Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink")
-[Category:台灣日治時期背景電影](https://zh.wikipedia.org/wiki/Category:台灣日治時期背景電影 "wikilink")
-[Category:棒球電影](https://zh.wikipedia.org/wiki/Category:棒球電影 "wikilink")
-[Category:嘉義縣市背景電影](https://zh.wikipedia.org/wiki/Category:嘉義縣市背景電影 "wikilink")
-[Category:兵庫縣背景電影](https://zh.wikipedia.org/wiki/Category:兵庫縣背景電影 "wikilink")
-[Category:臺南州立嘉義農林學校棒球隊](https://zh.wikipedia.org/wiki/Category:臺南州立嘉義農林學校棒球隊 "wikilink")
-[Category:全國高等學校棒球錦標賽](https://zh.wikipedia.org/wiki/Category:全國高等學校棒球錦標賽 "wikilink")
-[Category:高中背景電影](https://zh.wikipedia.org/wiki/Category:高中背景電影 "wikilink")
-[Category:臺灣學校背景電影](https://zh.wikipedia.org/wiki/Category:臺灣學校背景電影 "wikilink")
-[Category:台灣運動片](https://zh.wikipedia.org/wiki/Category:台灣運動片 "wikilink")
-[Category:1944年背景電影](https://zh.wikipedia.org/wiki/Category:1944年背景電影 "wikilink")
-[Category:2014年電影](https://zh.wikipedia.org/wiki/Category:2014年電影 "wikilink")
-[Category:臺灣青春電影](https://zh.wikipedia.org/wiki/Category:臺灣青春電影 "wikilink")
-[Category:KANO](https://zh.wikipedia.org/wiki/Category:KANO "wikilink")
+[Category:2010年代台灣電影作品](https://zh.wikipedia.org/wiki/Category:2010年代台灣電影作品 "wikilink") [Category:台灣劇情片](https://zh.wikipedia.org/wiki/Category:台灣劇情片 "wikilink") [Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink") [Category:台灣日治時期背景電影](https://zh.wikipedia.org/wiki/Category:台灣日治時期背景電影 "wikilink") [Category:棒球電影](https://zh.wikipedia.org/wiki/Category:棒球電影 "wikilink") [Category:嘉義縣市背景電影](https://zh.wikipedia.org/wiki/Category:嘉義縣市背景電影 "wikilink") [Category:兵庫縣背景電影](https://zh.wikipedia.org/wiki/Category:兵庫縣背景電影 "wikilink") [Category:臺南州立嘉義農林學校棒球隊](https://zh.wikipedia.org/wiki/Category:臺南州立嘉義農林學校棒球隊 "wikilink") [Category:全國高等學校棒球錦標賽](https://zh.wikipedia.org/wiki/Category:全國高等學校棒球錦標賽 "wikilink") [Category:高中背景電影](https://zh.wikipedia.org/wiki/Category:高中背景電影 "wikilink") [Category:臺灣學校背景電影](https://zh.wikipedia.org/wiki/Category:臺灣學校背景電影 "wikilink") [Category:台灣運動片](https://zh.wikipedia.org/wiki/Category:台灣運動片 "wikilink") [Category:1944年背景電影](https://zh.wikipedia.org/wiki/Category:1944年背景電影 "wikilink") [Category:2014年電影](https://zh.wikipedia.org/wiki/Category:2014年電影 "wikilink") [Category:臺灣青春電影](https://zh.wikipedia.org/wiki/Category:臺灣青春電影 "wikilink") [Category:KANO](https://zh.wikipedia.org/wiki/Category:KANO "wikilink")
 
 1.  [オープニング作品｜特別招待作品部門｜特集企画《台湾：電影ルネッサンス2014》](http://www.oaff.jp/2014/ja/program/lineup/s01.html)
 
@@ -757,67 +729,43 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 
 5.  電影劇情中未知其名，僅自製作成員名單中窺得。
 
-6.  [\[有雷](https://www.ptt.cc/bbs/movie/M.1395506164.A.FB7.html) KANO閒聊
-    實況放送 戲院\] 演員陳錘鐘曾自志學之年起擔任此職。
+6.  [\[有雷](https://www.ptt.cc/bbs/movie/M.1395506164.A.FB7.html) KANO閒聊 實況放送 戲院\] 演員陳錘鐘曾自志學之年起擔任此職。
 
 7.  出自片尾製作成員名單中，原型為[菊池寬](../Page/菊池寬.md "wikilink")。
 
-8.  [【KANO
-    電影主題曲】勇者的浪漫～風になって～](http://www.youtube.com/watch?v=u0rgcWyuQbY)
-    2014-02-20.
+8.  [【KANO 電影主題曲】勇者的浪漫～風になって～](http://www.youtube.com/watch?v=u0rgcWyuQbY) 2014-02-20.
 
-9.  [2014 台南Fun幸福跨年晚會](http://www.youtube.com/watch?v=UHtbaq_bmEM)
-    2014-01-02.
+9.  [2014 台南Fun幸福跨年晚會](http://www.youtube.com/watch?v=UHtbaq_bmEM) 2014-01-02.
 
-10. [陳柏宇 Jason Chan & VnP - 勇者的浪漫(電影”Kano”
-    香港區宣傳歌曲)](https://www.youtube.com/watch?v=SOZP9MHX0WU)
-    2014-03-03
+10. [陳柏宇 Jason Chan & VnP - 勇者的浪漫(電影”Kano” 香港區宣傳歌曲)](https://www.youtube.com/watch?v=SOZP9MHX0WU) 2014-03-03
 
 11. [勇者的浪漫(粵語) 歌詞](http://mojim.com/twy105054x17x1.htm)
 
-12. [羅美玲「勇者的浪漫(中文版)
-    」(官方完整上字HD版)](http://www.youtube.com/watch?v=oqnHujKcEpk)
-    2014-04-03
+12. [羅美玲「勇者的浪漫(中文版) 」(官方完整上字HD版)](http://www.youtube.com/watch?v=oqnHujKcEpk) 2014-04-03
 
-13. [《KANO》齊獻聲羅美玲　馬志翔看妹喊尷尬](http://www.nownews.com/n/2014/03/27/1166691)
-    2014-03-27.
+13. [《KANO》齊獻聲羅美玲　馬志翔看妹喊尷尬](http://www.nownews.com/n/2014/03/27/1166691) 2014-03-27.
 
-14. [勇者的浪漫 - 盧廣仲 ft.
-    KANO演員、羅美玲](https://www.youtube.com/watch?v=29G4dM4U6SU)
-    2014-03-29.
+14. [勇者的浪漫 - 盧廣仲 ft. KANO演員、羅美玲](https://www.youtube.com/watch?v=29G4dM4U6SU) 2014-03-29.
 
-15. [電影「KANO」演員一起合唱「勇者的浪漫」盧廣仲《天然的最好》演唱會](https://www.youtube.com/watch?v=2Vnj8vX3j3Q)
-    2014-03-30.
+15. [電影「KANO」演員一起合唱「勇者的浪漫」盧廣仲《天然的最好》演唱會](https://www.youtube.com/watch?v=2Vnj8vX3j3Q) 2014-03-30.
 
-16. [電影原聲帶 /
-    KANO](http://www.books.com.tw/exep/cdfile.php?item=0020177280)
-    2017-02-11.
+16. [電影原聲帶 / KANO](http://www.books.com.tw/exep/cdfile.php?item=0020177280) 2017-02-11.
 
-17. [(限量精裝寫真版)](http://www.books.com.tw/exep/cdfile.php?item=0020177739)
-    2017-02-11.
+17. [(限量精裝寫真版)](http://www.books.com.tw/exep/cdfile.php?item=0020177739) 2017-02-11.
 
 18. [KANO-"小鳥先生"](https://www.youtube.com/watch?v=WVA6aQNM6Vk)
 
 19. [【KANO幕後直擊】唱那首歌吧《小鳥先生》](https://www.youtube.com/watch?v=KAEjk6KHfeU)
 
-20. [魏導新片KANO 9月開拍](http://tw.news.yahoo.com/魏導新片kano-9月開拍-150809110.html)
-    2012-05-27.
+20. [魏導新片KANO 9月開拍](http://tw.news.yahoo.com/魏導新片kano-9月開拍-150809110.html) 2012-05-27.
 
-21. [重遊1930年嘉義
-    「KANO」喚醒棒球魂](http://news.cts.com.tw/udn/entertain/201303/201303111206989.html)
-     2013-03-11.
+21. [重遊1930年嘉義 「KANO」喚醒棒球魂](http://news.cts.com.tw/udn/entertain/201303/201303111206989.html)  2013-03-11.
 
-22. [KANO片場
-    延用到6月底](http://tw.news.yahoo.com/kano片場-延用到6月底-221219512.html)
-     2013-03-31.
+22. [KANO片場 延用到6月底](http://tw.news.yahoo.com/kano片場-延用到6月底-221219512.html)  2013-03-31.
 
-23. [劉厝里片場已拆 影迷可惜 -
-    聯合新聞網](http://www.udn.com/2014/3/15/NEWS/DOMESTIC/DOM5/8548658.shtml)
+23. [劉厝里片場已拆 影迷可惜 - 聯合新聞網](http://www.udn.com/2014/3/15/NEWS/DOMESTIC/DOM5/8548658.shtml)
 
-
-24. [KANO全景聲
-    杜篤之親操刀](http://www.cna.com.tw/news/amov/201402080142-1.aspx)
-    ，中央社，2014年2月8日
+24. [KANO全景聲 杜篤之親操刀](http://www.cna.com.tw/news/amov/201402080142-1.aspx) ，中央社，2014年2月8日
 
 25.
 
@@ -849,27 +797,21 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 
 40. [特集企画《台湾：電影ルネッサンス2014》](http://www.oaff.jp/2014/ja/program/lineup/s01.html)
 
-41. [KANO列大阪亞洲影展開幕片](http://tw.news.yahoo.com/kano%E5%88%97%E5%A4%A7%E9%98%AA%E4%BA%9E%E6%B4%B2%E5%BD%B1%E5%B1%95%E9%96%8B%E5%B9%95%E7%89%87-080303738.html)
-    2014-01-08.
+41. [KANO列大阪亞洲影展開幕片](http://tw.news.yahoo.com/kano%E5%88%97%E5%A4%A7%E9%98%AA%E4%BA%9E%E6%B4%B2%E5%BD%B1%E5%B1%95%E9%96%8B%E5%B9%95%E7%89%87-080303738.html) 2014-01-08.
 
 42. [「KANO」獲大阪電影節觀眾獎](http://udn.com/NEWS/BREAKINGNEWS/BREAKINGNEWS8/8551324.shtml)
 
 43. [《KANO》《阿嬤》大阪亞洲電影節擒雙獎](http://www.appledaily.com.tw/realtimenews/article/entertainment/20140316/361194/)
 
-44. [紐約電影節
-    KANO等4片獲選](http://udn.com/NEWS/BREAKINGNEWS/BREAKINGNEWS8/8760616.shtml)
+44. [紐約電影節 KANO等4片獲選](http://udn.com/NEWS/BREAKINGNEWS/BREAKINGNEWS8/8760616.shtml)
 
-45. [上映前5天已達百場包場創紀錄](http://iservice.libertytimes.com.tw/liveNews/news.php?no=954868&type=%E5%BD%B1%E5%8A%87)
-     2014-02-20.
+45. [上映前5天已達百場包場創紀錄](http://iservice.libertytimes.com.tw/liveNews/news.php?no=954868&type=%E5%BD%B1%E5%8A%87)  2014-02-20.
 
-46. [萬人封街遊行首映活動](http://www.nownews.com/n/2014/02/21/1126984)
-    2014-02-21.
+46. [萬人封街遊行首映活動](http://www.nownews.com/n/2014/02/21/1126984) 2014-02-21.
 
-47. [嘉義萬人大遊行為《KANO》瘋狂　掉進棒球時光隧道](http://www.nownews.com/n/2014/02/23/1127739)
-    2014-02-23.
+47. [嘉義萬人大遊行為《KANO》瘋狂　掉進棒球時光隧道](http://www.nownews.com/n/2014/02/23/1127739) 2014-02-23.
 
-48. [KANO首映遊行 再現萬人空巷 -
-    CNA中央通訊社](http://www.cna.com.tw/news/firstnews/201402220027-1.aspx)
+48. [KANO首映遊行 再現萬人空巷 - CNA中央通訊社](http://www.cna.com.tw/news/firstnews/201402220027-1.aspx)
 
 49. [KANO](https://tw.movies.yahoo.com/movieinfo_main.html/id=4783)
 
@@ -877,18 +819,13 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 
 51.
 
-52. \[<http://www.appledaily.com.tw/realtimenews/article/life/20140306/355725/applesearch/【更新>】「不存在的九局」
-    「不存在的九局」　KANO後代批作假\]，蘋果日報，2014年3月6日
+52. \[<http://www.appledaily.com.tw/realtimenews/article/life/20140306/355725/applesearch/【更新>】「不存在的九局」 「不存在的九局」　KANO後代批作假\]，蘋果日報，2014年3月6日
 
-53. [「KANO」將破億　9局下3振不符史實惹議](http://news.tvbs.com.tw/entry/523576)，TVBS
-    新聞，2014年3月7日
+53. [「KANO」將破億　9局下3振不符史實惹議](http://news.tvbs.com.tw/entry/523576)，TVBS 新聞，2014年3月7日
 
-54. [出場就三振 上松親友不舒服](http://www.cna.com.tw/news/amov/201403060203-1.aspx)
-    ，中央社，2014年3月6日
+54. [出場就三振 上松親友不舒服](http://www.cna.com.tw/news/amov/201403060203-1.aspx) ，中央社，2014年3月6日
 
-55. [《KANO》讓阿公被三振
-    孫女不介意](http://showbiz.chinatimes.com/2009Cti/Channel/Showbiz/showbiz-news-cnt/0,5020,110511+112014031500016,00.html)
-    ，中國時報，2014年3月15日
+55. [《KANO》讓阿公被三振 孫女不介意](http://showbiz.chinatimes.com/2009Cti/Channel/Showbiz/showbiz-news-cnt/0,5020,110511+112014031500016,00.html) ，中國時報，2014年3月15日
 
 56.
 
@@ -908,5 +845,4 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 
 64.
 
-65. [7年級女破撞牆期　催生《KANO》改編漫畫](http://www.nownews.com/n/2014/02/10/1113958)
-    2014-02-10.
+65. [7年級女破撞牆期　催生《KANO》改編漫畫](http://www.nownews.com/n/2014/02/10/1113958) 2014-02-10.

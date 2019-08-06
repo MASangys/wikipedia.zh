@@ -11,10 +11,7 @@
   - [韩国《Ssbak（쌈박）》官方网站](https://web.archive.org/web/20081013155755/http://sb.nopp.co.kr/index.aspx)
   - [韩国《BigBang（빅뱅온라인）》官方网站](http://bb.space.co.kr/)
 
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:大型多人線上格鬥遊戲](https://zh.wikipedia.org/wiki/Category:大型多人線上格鬥遊戲 "wikilink")
-[Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink")
+[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:大型多人線上格鬥遊戲](https://zh.wikipedia.org/wiki/Category:大型多人線上格鬥遊戲 "wikilink") [Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink")
 
 1.
 2.

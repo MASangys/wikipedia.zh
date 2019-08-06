@@ -1,6 +1,4 @@
-《**超人III**》（），是一部於1983年上映的[美国](../Page/美国.md "wikilink")[超级英雄](https://zh.wikipedia.org/wiki/超级英雄电影 "wikilink")[嘲讽电影](https://zh.wikipedia.org/wiki/嘲讽电影 "wikilink")，导演为[理查德·莱斯特](https://zh.wikipedia.org/wiki/理查德·莱斯特 "wikilink")，主演[克里斯托弗·里夫](../Page/克里斯托弗·里夫.md "wikilink")。其是[超人系列电影](../Page/超人系列电影.md "wikilink")的第三部，基于其连续上演很长时间的[DC漫画](https://zh.wikipedia.org/wiki/DC漫画 "wikilink")[超级英雄人物](../Page/超人.md "wikilink")。这部电影是最后一部由[Alexander
-Salkind和](https://zh.wikipedia.org/wiki/Alexander_Salkind "wikilink")[Ilya
-Salkind制作](https://zh.wikipedia.org/wiki/Ilya_Salkind "wikilink")，并由[李察·普瑞爾](../Page/李察·普瑞爾.md "wikilink")、[安妮特·奥图勒](https://zh.wikipedia.org/wiki/安妮特·奥图勒 "wikilink")、[安妮·罗丝](https://zh.wikipedia.org/wiki/安妮·罗丝 "wikilink")、[帕梅拉·斯蒂芬森和](https://zh.wikipedia.org/wiki/帕梅拉·斯蒂芬森 "wikilink")[罗伯特·沃恩主演的超人电影](https://zh.wikipedia.org/wiki/罗伯特·沃恩 "wikilink")。
+《**超人III**》（），是一部於1983年上映的[美国](../Page/美国.md "wikilink")[超级英雄](https://zh.wikipedia.org/wiki/超级英雄电影 "wikilink")[嘲讽电影](https://zh.wikipedia.org/wiki/嘲讽电影 "wikilink")，导演为[理查德·莱斯特](https://zh.wikipedia.org/wiki/理查德·莱斯特 "wikilink")，主演[克里斯托弗·里夫](../Page/克里斯托弗·里夫.md "wikilink")。其是[超人系列电影](../Page/超人系列电影.md "wikilink")的第三部，基于其连续上演很长时间的[DC漫画](https://zh.wikipedia.org/wiki/DC漫画 "wikilink")[超级英雄人物](../Page/超人.md "wikilink")。这部电影是最后一部由[Alexander Salkind和](https://zh.wikipedia.org/wiki/Alexander_Salkind "wikilink")[Ilya Salkind制作](https://zh.wikipedia.org/wiki/Ilya_Salkind "wikilink")，并由[李察·普瑞爾](../Page/李察·普瑞爾.md "wikilink")、[安妮特·奥图勒](https://zh.wikipedia.org/wiki/安妮特·奥图勒 "wikilink")、[安妮·罗丝](https://zh.wikipedia.org/wiki/安妮·罗丝 "wikilink")、[帕梅拉·斯蒂芬森和](https://zh.wikipedia.org/wiki/帕梅拉·斯蒂芬森 "wikilink")[罗伯特·沃恩主演的超人电影](https://zh.wikipedia.org/wiki/罗伯特·沃恩 "wikilink")。
 
 ## 劇情
 
@@ -10,8 +8,7 @@ Salkind制作](https://zh.wikipedia.org/wiki/Ilya_Salkind "wikilink")，并由[�
 
 ## 演員
 
-  - [克里斯多夫·李維飾](https://zh.wikipedia.org/wiki/克里斯多夫·李維 "wikilink")[超人
-    克拉克.肯特）](../Page/超人.md "wikilink")（卡-艾爾/
+  - [克里斯多夫·李維飾](https://zh.wikipedia.org/wiki/克里斯多夫·李維 "wikilink")[超人 克拉克.肯特）](../Page/超人.md "wikilink")（卡-艾爾/
 
   - [馬戈迪·基德爾飾](https://zh.wikipedia.org/wiki/馬戈迪·基德爾 "wikilink")[露薏絲·蓮恩](../Page/露薏絲·蓮恩.md "wikilink")
 
@@ -49,22 +46,6 @@ Salkind制作](https://zh.wikipedia.org/wiki/Ilya_Salkind "wikilink")，并由[�
 
   -
   -
-[Category:1983年电影](https://zh.wikipedia.org/wiki/Category:1983年电影 "wikilink")
-[Category:1980年代科幻片](https://zh.wikipedia.org/wiki/Category:1980年代科幻片 "wikilink")
-[Category:超人电影](https://zh.wikipedia.org/wiki/Category:超人电影 "wikilink")
-[Category:1980年代特攝作品](https://zh.wikipedia.org/wiki/Category:1980年代特攝作品 "wikilink")
-[Category:美国特摄电影](https://zh.wikipedia.org/wiki/Category:美国特摄电影 "wikilink")
-[Category:超級英雄電影](https://zh.wikipedia.org/wiki/Category:超級英雄電影 "wikilink")
-[Category:美国喜剧动作片](https://zh.wikipedia.org/wiki/Category:美国喜剧动作片 "wikilink")
-[Category:续集电影](https://zh.wikipedia.org/wiki/Category:续集电影 "wikilink")
-[Category:亚利桑那州取景电影](https://zh.wikipedia.org/wiki/Category:亚利桑那州取景电影 "wikilink")
-[Category:哥伦比亚取景电影](https://zh.wikipedia.org/wiki/Category:哥伦比亚取景电影 "wikilink")
-[Category:堪萨斯州取景电影](https://zh.wikipedia.org/wiki/Category:堪萨斯州取景电影 "wikilink")
-[Category:西弗吉尼亚州取景电影](https://zh.wikipedia.org/wiki/Category:西弗吉尼亚州取景电影 "wikilink")
-[Category:阿尔伯塔省取景电影](https://zh.wikipedia.org/wiki/Category:阿尔伯塔省取景电影 "wikilink")
-[Category:白金漢郡取景電影](https://zh.wikipedia.org/wiki/Category:白金漢郡取景電影 "wikilink")
-[Category:英格兰取景电影](https://zh.wikipedia.org/wiki/Category:英格兰取景电影 "wikilink")
-[Category:意大利取景电影](https://zh.wikipedia.org/wiki/Category:意大利取景电影 "wikilink")
-[Category:犹他州取景电影](https://zh.wikipedia.org/wiki/Category:犹他州取景电影 "wikilink")
+[Category:1983年电影](https://zh.wikipedia.org/wiki/Category:1983年电影 "wikilink") [Category:1980年代科幻片](https://zh.wikipedia.org/wiki/Category:1980年代科幻片 "wikilink") [Category:超人电影](https://zh.wikipedia.org/wiki/Category:超人电影 "wikilink") [Category:1980年代特攝作品](https://zh.wikipedia.org/wiki/Category:1980年代特攝作品 "wikilink") [Category:美国特摄电影](https://zh.wikipedia.org/wiki/Category:美国特摄电影 "wikilink") [Category:超級英雄電影](https://zh.wikipedia.org/wiki/Category:超級英雄電影 "wikilink") [Category:美国喜剧动作片](https://zh.wikipedia.org/wiki/Category:美国喜剧动作片 "wikilink") [Category:续集电影](https://zh.wikipedia.org/wiki/Category:续集电影 "wikilink") [Category:亚利桑那州取景电影](https://zh.wikipedia.org/wiki/Category:亚利桑那州取景电影 "wikilink") [Category:哥伦比亚取景电影](https://zh.wikipedia.org/wiki/Category:哥伦比亚取景电影 "wikilink") [Category:堪萨斯州取景电影](https://zh.wikipedia.org/wiki/Category:堪萨斯州取景电影 "wikilink") [Category:西弗吉尼亚州取景电影](https://zh.wikipedia.org/wiki/Category:西弗吉尼亚州取景电影 "wikilink") [Category:阿尔伯塔省取景电影](https://zh.wikipedia.org/wiki/Category:阿尔伯塔省取景电影 "wikilink") [Category:白金漢郡取景電影](https://zh.wikipedia.org/wiki/Category:白金漢郡取景電影 "wikilink") [Category:英格兰取景电影](https://zh.wikipedia.org/wiki/Category:英格兰取景电影 "wikilink") [Category:意大利取景电影](https://zh.wikipedia.org/wiki/Category:意大利取景电影 "wikilink") [Category:犹他州取景电影](https://zh.wikipedia.org/wiki/Category:犹他州取景电影 "wikilink")
 
 1.

@@ -1,22 +1,8 @@
-**GOOD4NOTHING**是來自[日本](../Page/日本.md "wikilink")[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")[堺市](../Page/堺市.md "wikilink")的Melodic
-Punk樂團。由U-TAN（主唱&吉他）、 TANNY（主唱&吉他）、MAKKIN（貝斯&和聲）、
-SUNE（鼓）组成。樂團前身為1997年组成的“電器風呂”，新成員加入後，於1999年改名。他们是ROCK
-IN JAPAN、SUMMER SONIC、FUJI ROCK FESTIVAL、COUNTDOWN JAPAN、PUNK
-SPRING等各大音樂節的常客
+**GOOD4NOTHING**是來自[日本](../Page/日本.md "wikilink")[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")[堺市](../Page/堺市.md "wikilink")的Melodic Punk樂團。由U-TAN（主唱&吉他）、 TANNY（主唱&吉他）、MAKKIN（貝斯&和聲）、 SUNE（鼓）组成。樂團前身為1997年组成的“電器風呂”，新成員加入後，於1999年改名。他们是ROCK IN JAPAN、SUMMER SONIC、FUJI ROCK FESTIVAL、COUNTDOWN JAPAN、PUNK SPRING等各大音樂節的常客
 
 ## 樂團經歷
 
-　　樂團前身為1996年組成的indies band“電器風呂”，曲風受到美國西海岸Melodic
-Punk的影響。1998年，MAKKIN加入，1999年改名“GOOD4NOTHING”。
-　　2009年9月，在大阪堺club
-massive的one-man演唱會上，這場活動是在樂團12年的KAWAJIN（鼓）的最後一場，並公布了新成員SUNE加入的消息。
-　　曾經隸屬KICK ROCK
-MUSIC，後來在2010年8月成立自主經紀公司L.M.N.O.P。官方網站上寫著為了能有一個我們自己想要的創作環境而成立了這間公司。這是一個以self
-produce的形式來表現我們音樂的地方。我們拿出日文版ABC字母歌和英語版中不同的地方，作為我們事務所名稱的由來的說明。目前唱片約簽在UNIVERSAL。
-　　　2012年10月，在本據地大阪舉辦以復興堺市為目的的自主企劃演出《BURN SOUL
-DOWN》。多年的兄弟團dustbox，FULLSCRATCH，Jr.MONSTER也參與其中的演出。與Maximum
-The
-Hormone、locofrank、10-FEET、ELLEGARDEN、dustbox、B-DASH、SHACHI、SABOTEN、PAN、MEANING等樂團有濃厚的交情。
+　　樂團前身為1996年組成的indies band“電器風呂”，曲風受到美國西海岸Melodic Punk的影響。1998年，MAKKIN加入，1999年改名“GOOD4NOTHING”。 　　2009年9月，在大阪堺club massive的one-man演唱會上，這場活動是在樂團12年的KAWAJIN（鼓）的最後一場，並公布了新成員SUNE加入的消息。 　　曾經隸屬KICK ROCK MUSIC，後來在2010年8月成立自主經紀公司L.M.N.O.P。官方網站上寫著為了能有一個我們自己想要的創作環境而成立了這間公司。這是一個以self produce的形式來表現我們音樂的地方。我們拿出日文版ABC字母歌和英語版中不同的地方，作為我們事務所名稱的由來的說明。目前唱片約簽在UNIVERSAL。 　　　2012年10月，在本據地大阪舉辦以復興堺市為目的的自主企劃演出《BURN SOUL DOWN》。多年的兄弟團dustbox，FULLSCRATCH，Jr.MONSTER也參與其中的演出。與Maximum The Hormone、locofrank、10-FEET、ELLEGARDEN、dustbox、B-DASH、SHACHI、SABOTEN、PAN、MEANING等樂團有濃厚的交情。
 
 ## 樂團成員
 
@@ -116,5 +102,4 @@ DVD
 
 <references/>
 
-[Category:日本龐克搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本龐克搖滾樂團 "wikilink")
-[Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")
+[Category:日本龐克搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本龐克搖滾樂團 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")

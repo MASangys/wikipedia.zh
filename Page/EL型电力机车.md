@@ -4,9 +4,7 @@
 
 ### 历史
 
-EL2型电力机车是由LEW
-Hennigsdorf公司在1952年-1988年间制造的一种工矿电力机车，共计1384台。这款电力机车不仅供东德企业使用（大约有一半的机车），而且还出口保加利亚（206台）、中国（186台）、和波兰（62台）。1957年-1970年有245台机车交付给苏联。\[1\]
-[缩略图](https://zh.wikipedia.org/wiki/File:ElectricLoco_EL2.jpg "fig:缩略图")[马格尼托哥尔斯克](../Page/马格尼托哥尔斯克.md "wikilink")服役的EL2型408号机车\]\]
+EL2型电力机车是由LEW Hennigsdorf公司在1952年-1988年间制造的一种工矿电力机车，共计1384台。这款电力机车不仅供东德企业使用（大约有一半的机车），而且还出口保加利亚（206台）、中国（186台）、和波兰（62台）。1957年-1970年有245台机车交付给苏联。\[1\] [缩略图](https://zh.wikipedia.org/wiki/File:ElectricLoco_EL2.jpg "fig:缩略图")[马格尼托哥尔斯克](../Page/马格尼托哥尔斯克.md "wikilink")服役的EL2型408号机车\]\]
 
 ### 技术数据
 
@@ -31,8 +29,7 @@ Hennigsdorf公司在1952年-1988年间制造的一种工矿电力机车，共计
 
 ### 概况
 
-EL21型电力机车是LEW Hennigsdorf公司于1981年到1986年间为苏联制造的一种工矿电力机车，共计265台。
-[缩略图](https://zh.wikipedia.org/wiki/File:EL21-171.jpg "fig:缩略图")
+EL21型电力机车是LEW Hennigsdorf公司于1981年到1986年间为苏联制造的一种工矿电力机车，共计265台。 [缩略图](https://zh.wikipedia.org/wiki/File:EL21-171.jpg "fig:缩略图")
 
 ### 技术数据
 
@@ -51,22 +48,11 @@ EL21型电力机车是LEW Hennigsdorf公司于1981年到1986年间为苏联制�
 
 ## 参看
 
-  - Teilmodernisierung der MIBRAG-Industrielkomotiven EL 2. In:
-    Eisenbahn-Revue International, Heft 7/2004,
-    [ISSN 1421-2811](https://web.archive.org/web/20170320084929/http://dispatch.opac.d-nb.de/DB=1.1/CMD?ACT=SRCHA&IKT=8&TRM=1421-2811),
-    S. 329 f.
-  - Раков В. А. Электровозы серии ЕЛ2 // Локомотивы и моторвагонный
-    подвижной состав железных дорог Советского Союза 1976-1985. —
-    М.: Транспорт, 1990. — С. 393 - 396. — ISBN 5-277-00933-7
-  - Под редакцией Л. В. Балона. Основные технические данные промышленных
-    электровозов и тяговых агрегатов // Справочник. Электро-подвижной
-    состав промышленного транспорта. — М.: Транспорт, 1987. — С. 5.
+  - Teilmodernisierung der MIBRAG-Industrielkomotiven EL 2. In: Eisenbahn-Revue International, Heft 7/2004, [ISSN 1421-2811](https://web.archive.org/web/20170320084929/http://dispatch.opac.d-nb.de/DB=1.1/CMD?ACT=SRCHA&IKT=8&TRM=1421-2811), S. 329 f.
+  - Раков В. А. Электровозы серии ЕЛ2 // Локомотивы и моторвагонный подвижной состав железных дорог Советского Союза 1976-1985. — М.: Транспорт, 1990. — С. 393 - 396. — ISBN 5-277-00933-7
+  - Под редакцией Л. В. Балона. Основные технические данные промышленных электровозов и тяговых агрегатов // Справочник. Электро-подвижной состав промышленного транспорта. — М.: Транспорт, 1987. — С. 5.
 
-[Category:俄罗斯电力机车](https://zh.wikipedia.org/wiki/Category:俄罗斯电力机车 "wikilink")
-[Category:苏联电力机车](https://zh.wikipedia.org/wiki/Category:苏联电力机车 "wikilink")
-[Category:其他中国电力机车](https://zh.wikipedia.org/wiki/Category:其他中国电力机车 "wikilink")
+[Category:俄罗斯电力机车](https://zh.wikipedia.org/wiki/Category:俄罗斯电力机车 "wikilink") [Category:苏联电力机车](https://zh.wikipedia.org/wiki/Category:苏联电力机车 "wikilink") [Category:其他中国电力机车](https://zh.wikipedia.org/wiki/Category:其他中国电力机车 "wikilink")
 
-1.  [EL2](http://www.locomotives.com.pl/Electric%20Locomotives/EL2.htm)，Kolumna
-    wyrównana do lewej。
-2.  Neumann, Holger; Burde, Henry: Kohlenloks, in Modelleisenbahner
-    1992; S. 16
+1.  [EL2](http://www.locomotives.com.pl/Electric%20Locomotives/EL2.htm)，Kolumna wyrównana do lewej。
+2.  Neumann, Holger; Burde, Henry: Kohlenloks, in Modelleisenbahner 1992; S. 16

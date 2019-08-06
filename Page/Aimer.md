@@ -1,5 +1,4 @@
-**Aimer**是一名[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")。其個人資料（包含姓名）未曾對外公開披露。藝名Aimer取自法語單詞「愛」，作詞時使用aimerrhythm的名義署名。在2011年她以[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《》\[1\]正式出道，其唱片由[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下的[SME
-Records唱片公司发行](../Page/SME_Records.md "wikilink")，本人則隸屬於FOURseam[經紀公司](../Page/經紀公司.md "wikilink")。
+**Aimer**是一名[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")。其個人資料（包含姓名）未曾對外公開披露。藝名Aimer取自法語單詞「愛」，作詞時使用aimerrhythm的名義署名。在2011年她以[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《》\[1\]正式出道，其唱片由[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下的[SME Records唱片公司发行](../Page/SME_Records.md "wikilink")，本人則隸屬於FOURseam[經紀公司](../Page/經紀公司.md "wikilink")。
 
 ## 經歷
 
@@ -7,23 +6,15 @@ Records唱片公司发行](../Page/SME_Records.md "wikilink")，本人則隸屬�
 
 由於其父親曾在樂團中担任[贝斯手](https://zh.wikipedia.org/wiki/贝斯手 "wikilink")，Aimer從小就成长在十分优渥的音樂環境中，用[爵士乐](../Page/爵士乐.md "wikilink")和[藍調](../Page/藍調.md "wikilink")打下了良好的基础。她小學時開始學習[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")，并经常在家练习模仿[椎名林檎](../Page/椎名林檎.md "wikilink")和[宇多田光](../Page/宇多田光.md "wikilink")的歌喉。中學時由於崇拜[艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink")\[2\]，開始練習吉他，并结合其海外生活的經驗，在英文作詞上亦投注了非常大的心力。十五歲時，因為過度使用喉嚨導致聲帶發痛，被迫采用了沉默治療法\[3\]。在长达约半年的沉默过后，确立了自己想要成为歌手的意愿，并结合着后续的康复训练，確立了現在的唱法和音質。当时的聲帶損傷直到目前仍未痊癒，又有主治醫師告知Aimer完全康复会导致声色变化，因此她為了保住現在的音質，保持着其声带目前的状态。日本音響研究所所長鈴木松美先生认为，「Aimer的聲音中振幅起伏與頻率起伏同時發生，是非常之稀少的聲音」\[4\]。
 
-2011年，在FOURseam所屬的agehasprings下開始音樂活動，該組合曾與[YUKI](../Page/YUKI_\(歌手\).md "wikilink")、[中島美嘉](../Page/中島美嘉.md "wikilink")、[flumpool](https://zh.wikipedia.org/wiki/flumpool "wikilink")、[Superfly](../Page/Superfly.md "wikilink")、[柚子等人合作](https://zh.wikipedia.org/wiki/柚子_\(组合\) "wikilink")，製作或提供樂曲。2月，被J-WAVE的節目HELLO
-WORLD中的新人發掘企劃SPIDER SOUNDS邀請，以agehasprings feat.
-Aimer的名義客串演出，4月以相同名義在與COMIC
-ZENON合作的CM中演唱キズナ。
+2011年，在FOURseam所屬的agehasprings下開始音樂活動，該組合曾與[YUKI](../Page/YUKI_\(歌手\).md "wikilink")、[中島美嘉](../Page/中島美嘉.md "wikilink")、[flumpool](https://zh.wikipedia.org/wiki/flumpool "wikilink")、[Superfly](../Page/Superfly.md "wikilink")、[柚子等人合作](https://zh.wikipedia.org/wiki/柚子_\(组合\) "wikilink")，製作或提供樂曲。2月，被J-WAVE的節目HELLO WORLD中的新人發掘企劃SPIDER SOUNDS邀請，以agehasprings feat. Aimer的名義客串演出，4月以相同名義在與COMIC ZENON合作的CM中演唱キズナ。
 
-5月11日，在FOURseam的官方網站開設，收錄了10首熱門爵士和鄉村西部音樂翻唱的概念專輯Your favorite
-things登陸iTunes，其中收錄的歌曲Poker Face在iTunes爵士區獲得初登場第1位的成績，專輯最高排到了第4位。
+5月11日，在FOURseam的官方網站開設，收錄了10首熱門爵士和鄉村西部音樂翻唱的概念專輯Your favorite things登陸iTunes，其中收錄的歌曲Poker Face在iTunes爵士區獲得初登場第1位的成績，專輯最高排到了第4位。
 
 ### 正式出道
 
-2011年6月6日，以DefSTAR Records作為品牌正式宣布出道，並在9月7日發布單曲《六等星の夜/悲しみはオーロラに/TWINKLE
-TWINKLE LITTLE
-STAR》其中《六等星之夜》作為富士電視台noitaminA檔《未來都市No.6》的片尾曲登場，並獲得了RecoChoku音樂銷量榜最高第9位的成績。第二張單曲《Re:pray/寂しくて眠れない夜は》在2011年12月14日發售，在Mora音樂下載網站最高排位第1位，Re:pray作為《死神》的的第29首ED登場。2016年，Aimer首度來台演出，門票隨即搶購一空\[5\]。
+2011年6月6日，以DefSTAR Records作為品牌正式宣布出道，並在9月7日發布單曲《六等星の夜/悲しみはオーロラに/TWINKLE TWINKLE LITTLE STAR》其中《六等星之夜》作為富士電視台noitaminA檔《未來都市No.6》的片尾曲登場，並獲得了RecoChoku音樂銷量榜最高第9位的成績。第二張單曲《Re:pray/寂しくて眠れない夜は》在2011年12月14日發售，在Mora音樂下載網站最高排位第1位，Re:pray作為《死神》的的第29首ED登場。2016年，Aimer首度來台演出，門票隨即搶購一空\[5\]。
 
-2017年1月6日，首次於Tokyo Music Odyssey2017年的Space Shower Music
-Award上被提名為年度最佳女歌手。2017年3月10日，首度來港參與「Anisong
-Fantasy Live 2017」。3月13日，憑著第4張大碟《daydream》奪得第九屇全日本唱片店大獎的准大賞。
+2017年1月6日，首次於Tokyo Music Odyssey2017年的Space Shower Music Award上被提名為年度最佳女歌手。2017年3月10日，首度來港參與「Anisong Fantasy Live 2017」。3月13日，憑著第4張大碟《daydream》奪得第九屇全日本唱片店大獎的准大賞。
 
 2017年8月29日，首次於[日本武道館](../Page/日本武道館.md "wikilink")使用四面舞台進行單人演出。
 
@@ -938,10 +929,7 @@ SawanoHiroyuki[nZk]『&lt;<a href="https://zh.wikipedia.org/wiki/2V-ALK" title="
 
   -
   -
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本女性流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本女性流行音樂歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本女性流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本女性流行音樂歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.
 

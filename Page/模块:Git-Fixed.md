@@ -107,9 +107,7 @@ function p.main(frame)
 `   else`
 `       text = fixedLater(frame, os.difftime(branchSchedule(major, minor, wmf) + delay, os.time()))`
 `   end`
-`   return text .. '`<b>`于`[`MediaWiki``   ``'``   ``..``
- ``format(major,``   ``minor,``   ``wmf)``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/mw:'_.._mw.ustring.format\('MediaWiki_%d.%d/wmf%d',_major,_minor,_wmf\)_.._' "wikilink")</b>`'`
+`   return text .. '`<b>`于`[`MediaWiki``   ``'``   ``..``   ``format(major,``   ``minor,``   ``wmf)``   ``..``   ``'`](https://zh.wikipedia.org/wiki/mw:'_.._mw.ustring.format\('MediaWiki_%d.%d/wmf%d',_major,_minor,_wmf\)_.._' "wikilink")</b>`'`
 
 end
 

@@ -1,5 +1,4 @@
-《**Loving You 我愛你**》（The Threat of
-Love），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")時裝單元愛情喜劇[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，為十集時裝單元愛情喜劇，每集內容均完全不同。
+《**Loving You 我愛你**》（The Threat of Love），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")時裝單元愛情喜劇[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，為十集時裝單元愛情喜劇，每集內容均完全不同。
 
 ## 演員表
 
@@ -83,9 +82,6 @@ Love），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipe
 
 ## 外部連結
 
-  - [《LOVING YOU 我愛你》myTV
-    SUPER](https://programme.mytvsuper.com/tc/117959/loving-you-我愛你)
+  - [《LOVING YOU 我愛你》myTV SUPER](https://programme.mytvsuper.com/tc/117959/loving-you-我愛你)
 
-[Category:2000年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2000年無綫電視劇集 "wikilink")
-[Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink")
-[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")
+[Category:2000年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2000年無綫電視劇集 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink") [Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")

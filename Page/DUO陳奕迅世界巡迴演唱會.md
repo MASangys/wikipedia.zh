@@ -2,10 +2,7 @@
 
 ## 製作概念
 
-這次演唱會是繼陳奕迅2007年《[Eason's Moving On
-Stage](https://zh.wikipedia.org/wiki/Eason's_Moving_On_Stage "wikilink")》巡迴演唱會後第二個世界巡迴演唱會。演唱會主題「DUO」說的是「雙面」，概念來自於波蘭導演[奇斯洛夫斯基的經典電影](https://zh.wikipedia.org/wiki/奇斯洛夫斯基 "wikilink")《[兩生花](https://zh.wikipedia.org/wiki/兩生花 "wikilink")》
-(The Double Life of
-Véronique)，舞台設計朱祖兒、服裝設計何志恩都認為Eason的內心、或說每個人其實都有兩種相反面貌，所以從髮型、服裝到鞋襪，Eason都把自己一分為二。而台上數個環環相扣逆轉的灰色大齒輪，則是用時間的巨輪演繹愛情的起伏轉變。
+這次演唱會是繼陳奕迅2007年《[Eason's Moving On Stage](https://zh.wikipedia.org/wiki/Eason's_Moving_On_Stage "wikilink")》巡迴演唱會後第二個世界巡迴演唱會。演唱會主題「DUO」說的是「雙面」，概念來自於波蘭導演[奇斯洛夫斯基的經典電影](https://zh.wikipedia.org/wiki/奇斯洛夫斯基 "wikilink")《[兩生花](https://zh.wikipedia.org/wiki/兩生花 "wikilink")》 (The Double Life of Véronique)，舞台設計朱祖兒、服裝設計何志恩都認為Eason的內心、或說每個人其實都有兩種相反面貌，所以從髮型、服裝到鞋襪，Eason都把自己一分為二。而台上數個環環相扣逆轉的灰色大齒輪，則是用時間的巨輪演繹愛情的起伏轉變。
 
 ## 製作班底
 
@@ -13,8 +10,7 @@ Véronique)，舞台設計朱祖兒、服裝設計何志恩都認為Eason的內�
 
 ## 外間評價
 
-不計陳奕迅是現今碩果僅存的實力派歌手，單純以今次的演唱會主題而言，意念創新，實際執行上來卻帶點有心無力。DUO的概念是不俗，但要從眾多歌曲之中選出題材對應的實在不容易（是以會有人埋怨怎麼老是唱別人的歌），加上沒有幾多人會仔細分析所有選曲的意義（因而有不少人批評曲目混亂），更不巧的是陳奕迅本人最近確實並非處於最佳狀態（時也命也），故難怪外界對今次演唱會毀譽參半。──
-新浪網
+不計陳奕迅是現今碩果僅存的實力派歌手，單純以今次的演唱會主題而言，意念創新，實際執行上來卻帶點有心無力。DUO的概念是不俗，但要從眾多歌曲之中選出題材對應的實在不容易（是以會有人埋怨怎麼老是唱別人的歌），加上沒有幾多人會仔細分析所有選曲的意義（因而有不少人批評曲目混亂），更不巧的是陳奕迅本人最近確實並非處於最佳狀態（時也命也），故難怪外界對今次演唱會毀譽參半。── 新浪網
 
 ## 演出城市及場次
 
@@ -172,10 +168,8 @@ Véronique)，舞台設計朱祖兒、服裝設計何志恩都認為Eason的內�
 
 ## 外部連結
 
-  - [DUO 陳奕迅 2010 演唱會 Facebook
-    官方網站](http://www.facebook.com/pages/DUO-陳奕迅-2010-演唱會/423876735505)
+  - [DUO 陳奕迅 2010 演唱會 Facebook 官方網站](http://www.facebook.com/pages/DUO-陳奕迅-2010-演唱會/423876735505)
 
 ## 參考文獻
 
-[Category:陳奕迅演唱會](https://zh.wikipedia.org/wiki/Category:陳奕迅演唱會 "wikilink")
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
+[Category:陳奕迅演唱會](https://zh.wikipedia.org/wiki/Category:陳奕迅演唱會 "wikilink") [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")

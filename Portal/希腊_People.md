@@ -61,13 +61,11 @@ __NOEDITSECTION__
 
 <!-- end list -->
 
-  -   - [Francesco
-        Maurolico](https://zh.wikipedia.org/wiki/Francesco_Maurolico "wikilink")
+  -   - [Francesco Maurolico](https://zh.wikipedia.org/wiki/Francesco_Maurolico "wikilink")
 
   - **近代**
 
-      - [Constantin
-        Carathéodory](https://zh.wikipedia.org/wiki/Constantin_Carathéodory "wikilink")
+      - [Constantin Carathéodory](https://zh.wikipedia.org/wiki/Constantin_Carathéodory "wikilink")
 
 ## 哲学界
 
@@ -96,8 +94,7 @@ __NOEDITSECTION__
 
 <!-- end list -->
 
-  -   - [Cornelius
-        Castoriadis](https://zh.wikipedia.org/wiki/Cornelius_Castoriadis "wikilink")
+  -   - [Cornelius Castoriadis](https://zh.wikipedia.org/wiki/Cornelius_Castoriadis "wikilink")
 
 ## 文学界
 

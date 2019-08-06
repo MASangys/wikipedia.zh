@@ -6,10 +6,7 @@ MLL基因若发生重排（即染色体结构改变造成遗传物质的重新�
 
 ## 交互作用
 
-现已显示MLL这个基因与[HDAC1](https://zh.wikipedia.org/wiki/HDAC1 "wikilink")\[5\]、[PPP1R15A](https://zh.wikipedia.org/wiki/PPP1R15A "wikilink")\[6\]、[宿主细胞因子C1](https://zh.wikipedia.org/wiki/宿主细胞因子C1 "wikilink")\[7\]、[MEN1](https://zh.wikipedia.org/wiki/MEN1 "wikilink")\[8\]
-[RBBP5](https://zh.wikipedia.org/wiki/RBBP5 "wikilink"),\[9\]
-[ASH2L](https://zh.wikipedia.org/wiki/ASH2L "wikilink"),\[10\]、[CREB结合蛋白](https://zh.wikipedia.org/wiki/CREB结合蛋白 "wikilink")\[11\]\[12\]、[WDR5](https://zh.wikipedia.org/wiki/WDR5 "wikilink")\[13\]
-[CTBP1](https://zh.wikipedia.org/wiki/CTBP1 "wikilink")\[14\]及[PPIE](https://zh.wikipedia.org/wiki/PPIE_\(gene\) "wikilink").\[15\]之间有着[相互作用](https://zh.wikipedia.org/wiki/蛋白质-蛋白质相互作用 "wikilink")。
+现已显示MLL这个基因与[HDAC1](https://zh.wikipedia.org/wiki/HDAC1 "wikilink")\[5\]、[PPP1R15A](https://zh.wikipedia.org/wiki/PPP1R15A "wikilink")\[6\]、[宿主细胞因子C1](https://zh.wikipedia.org/wiki/宿主细胞因子C1 "wikilink")\[7\]、[MEN1](https://zh.wikipedia.org/wiki/MEN1 "wikilink")\[8\] [RBBP5](https://zh.wikipedia.org/wiki/RBBP5 "wikilink"),\[9\] [ASH2L](https://zh.wikipedia.org/wiki/ASH2L "wikilink"),\[10\]、[CREB结合蛋白](https://zh.wikipedia.org/wiki/CREB结合蛋白 "wikilink")\[11\]\[12\]、[WDR5](https://zh.wikipedia.org/wiki/WDR5 "wikilink")\[13\] [CTBP1](https://zh.wikipedia.org/wiki/CTBP1 "wikilink")\[14\]及[PPIE](https://zh.wikipedia.org/wiki/PPIE_\(gene\) "wikilink").\[15\]之间有着[相互作用](https://zh.wikipedia.org/wiki/蛋白质-蛋白质相互作用 "wikilink")。
 
 ## 参考文献
 
@@ -17,18 +14,12 @@ MLL基因若发生重排（即染色体结构改变造成遗传物质的重新�
 
 ## 外部链接
 
-  - [MLL OMIM Entry:](http://omim.org/entry/159555) MYELOID/LYMPHOID OR
-    MIXED LINEAGE LEUKEMIA GENE; **MLL**
+  - [MLL OMIM Entry:](http://omim.org/entry/159555) MYELOID/LYMPHOID OR MIXED LINEAGE LEUKEMIA GENE; **MLL**
 
   -
-  - [Gene
-    MLL](https://web.archive.org/web/20111007123411/http://atlasgeneticsoncology.org/Genes/MLL.html)
-    on the [Atlas of Genetics and
-    Oncology](https://zh.wikipedia.org/wiki/Atlas_of_Genetics_and_Cytogenetics_in_Oncology_and_Haematology "wikilink")
+  - [Gene MLL](https://web.archive.org/web/20111007123411/http://atlasgeneticsoncology.org/Genes/MLL.html) on the [Atlas of Genetics and Oncology](https://zh.wikipedia.org/wiki/Atlas_of_Genetics_and_Cytogenetics_in_Oncology_and_Haematology "wikilink")
 
-[Category:遗传学](https://zh.wikipedia.org/wiki/Category:遗传学 "wikilink")
-[Category:表觀遺傳學](https://zh.wikipedia.org/wiki/Category:表觀遺傳學 "wikilink")
-[Category:转录因子](https://zh.wikipedia.org/wiki/Category:转录因子 "wikilink")
+[Category:遗传学](https://zh.wikipedia.org/wiki/Category:遗传学 "wikilink") [Category:表觀遺傳學](https://zh.wikipedia.org/wiki/Category:表觀遺傳學 "wikilink") [Category:转录因子](https://zh.wikipedia.org/wiki/Category:转录因子 "wikilink")
 
 1.
 

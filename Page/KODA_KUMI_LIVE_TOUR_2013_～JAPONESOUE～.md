@@ -1,15 +1,11 @@
-《**KODA KUMI LIVE TOUR 2013 ～JAPONESQUE～**》（倖田來未 2013巡迴演唱會
-～絢爛大和～）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2013年在[日本](../Page/日本.md "wikilink")舉行的巡迴演唱會，並於2013年12月4日發行演唱會作品。
+《**KODA KUMI LIVE TOUR 2013 ～JAPONESQUE～**》（倖田來未 2013巡迴演唱會 ～絢爛大和～）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2013年在[日本](../Page/日本.md "wikilink")舉行的巡迴演唱會，並於2013年12月4日發行演唱會作品。
 
 ## 簡介
 
-  - 內容主要以專輯《[JAPONESQUE](../Page/JAPONESQUE.md "wikilink")》以及《[Color the
-    Cover](https://zh.wikipedia.org/wiki/Color_the_Cover "wikilink")》為主，場地為體育館型演唱會，約15萬人參加\[1\]。
+  - 內容主要以專輯《[JAPONESQUE](../Page/JAPONESQUE.md "wikilink")》以及《[Color the Cover](https://zh.wikipedia.org/wiki/Color_the_Cover "wikilink")》為主，場地為體育館型演唱會，約15萬人參加\[1\]。
   - 演唱會於2013年3月16日在[埼玉超級體育館開始至同年](https://zh.wikipedia.org/wiki/埼玉超級體育館 "wikilink")6月30日於[橫濱體育館](../Page/橫濱體育館.md "wikilink")閉幕。
   - 本演唱會作品收錄6月30日橫濱體育館最終場影像，為首次收錄最多曲目，總收錄時間超過3小時，初回限定盤特別以金箔紙盒包裝。
-  - 本作於[公信榜獲得週間DVD音樂榜](https://zh.wikipedia.org/wiki/公信榜 "wikilink")、藍光音樂榜第一名，DVD綜合榜第二名。是繼《[Secret
-    ～FIRST CLASS LIMITED
-    LIVE～](../Page/Secret_～FIRST_CLASS_LIMITED_LIVE～.md "wikilink")》以來連續9年都得到音樂DVD第1名，與[Mr.Children](../Page/Mr.Children.md "wikilink")並列紀錄\[2\]。
+  - 本作於[公信榜獲得週間DVD音樂榜](https://zh.wikipedia.org/wiki/公信榜 "wikilink")、藍光音樂榜第一名，DVD綜合榜第二名。是繼《[Secret ～FIRST CLASS LIMITED LIVE～](../Page/Secret_～FIRST_CLASS_LIMITED_LIVE～.md "wikilink")》以來連續9年都得到音樂DVD第1名，與[Mr.Children](../Page/Mr.Children.md "wikilink")並列紀錄\[2\]。
 
 ## 背景
 
@@ -19,8 +15,7 @@
 
 演唱會中共換了9套服裝，最終場共演唱了38首歌\[4\]。
 
-以歌曲〈So
-Nice〉開場，並搭配上改良型和服以及足蹬重達5公斤、30公分的厚底[木屐的花魁樣貌出場](https://zh.wikipedia.org/wiki/木屐 "wikilink")，而最後的安可曲表演了「空中吊環」\[5\]。
+以歌曲〈So Nice〉開場，並搭配上改良型和服以及足蹬重達5公斤、30公分的厚底[木屐的花魁樣貌出場](https://zh.wikipedia.org/wiki/木屐 "wikilink")，而最後的安可曲表演了「空中吊環」\[5\]。
 
 ## 發行版本
 
@@ -78,8 +73,7 @@ Nice〉開場，並搭配上改良型和服以及足蹬重達5公斤、30公分�
 9.  ESCALATE
 10. Slow feat. Omarion
 11. Dance Part l
-12. Black Cherry INTRODUCTION～JUICY remix～Hot Stuff feat. KM−MARKIT
-    remix～TABOO
+12. Black Cherry INTRODUCTION～JUICY remix～Hot Stuff feat. KM−MARKIT remix～TABOO
 13. Dance Part ll
 14. IS THIS TRAP？
 15. Alone
@@ -125,11 +119,9 @@ Nice〉開場，並搭配上改良型和服以及足蹬重達5公斤、30公分�
 
 ## 外部連結
 
-[倖田來未官方網站 -
-影音作品發售訊息](https://web.archive.org/web/20131113180326/http://rhythmzone.net/koda/news2/2013/11/15koda-kumi-live-tour-2013-japonesquelive-dvdblu-ray124.html#more)
+[倖田來未官方網站 - 影音作品發售訊息](https://web.archive.org/web/20131113180326/http://rhythmzone.net/koda/news2/2013/11/15koda-kumi-live-tour-2013-japonesquelive-dvdblu-ray124.html#more)
 
-[分類:倖田來未影音作品](https://zh.wikipedia.org/wiki/分類:倖田來未影音作品 "wikilink")
-[分類:2013年巡迴演唱會](https://zh.wikipedia.org/wiki/分類:2013年巡迴演唱會 "wikilink")
+[分類:倖田來未影音作品](https://zh.wikipedia.org/wiki/分類:倖田來未影音作品 "wikilink") [分類:2013年巡迴演唱會](https://zh.wikipedia.org/wiki/分類:2013年巡迴演唱會 "wikilink")
 
 1.
 

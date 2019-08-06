@@ -1,5 +1,4 @@
-**Bestmann-Ohira试剂**，即1-重氮基-2-氧代丙基膦酸二甲酯，在反应时与[甲醇](../Page/甲醇.md "wikilink")和[碳酸钾](../Page/碳酸钾.md "wikilink")合用，首先经历一个[缩合反应的逆反应](https://zh.wikipedia.org/wiki/缩合反应 "wikilink")，可以生成一个[磷叶立德中间体](https://zh.wikipedia.org/wiki/叶立德 "wikilink")。之后经过类似HWE试剂的机理，生成一个[重氮化合物](../Page/重氮化合物.md "wikilink")，并经过氢迁移得到产物[炔烃](../Page/炔烃.md "wikilink")。
-由于在反应之中使用了碳酸钾作为[碱](../Page/碱.md "wikilink")，所以反应环境较为温和，使得这个试剂能够很好地在[醛基原位高产率地生成端炔](https://zh.wikipedia.org/wiki/醛基 "wikilink")\[1\]\[2\]。
+**Bestmann-Ohira试剂**，即1-重氮基-2-氧代丙基膦酸二甲酯，在反应时与[甲醇](../Page/甲醇.md "wikilink")和[碳酸钾](../Page/碳酸钾.md "wikilink")合用，首先经历一个[缩合反应的逆反应](https://zh.wikipedia.org/wiki/缩合反应 "wikilink")，可以生成一个[磷叶立德中间体](https://zh.wikipedia.org/wiki/叶立德 "wikilink")。之后经过类似HWE试剂的机理，生成一个[重氮化合物](../Page/重氮化合物.md "wikilink")，并经过氢迁移得到产物[炔烃](../Page/炔烃.md "wikilink")。 由于在反应之中使用了碳酸钾作为[碱](../Page/碱.md "wikilink")，所以反应环境较为温和，使得这个试剂能够很好地在[醛基原位高产率地生成端炔](https://zh.wikipedia.org/wiki/醛基 "wikilink")\[1\]\[2\]。
 
 [Bestmann's_Reagent_Scheme.png](https://zh.wikipedia.org/wiki/File:Bestmann's_Reagent_Scheme.png "fig:Bestmann's_Reagent_Scheme.png")
 
@@ -11,9 +10,7 @@
 
 ### 与独立醛基的反应
 
-在这里，首先，我们以2014年Taek
-Kang等在[全合成](../Page/全合成.md "wikilink")(−)-Crinipellin
-A中所用到的一步反应为例\[5\]。他们在将一个含环氧的醇转化为末端的炔基时，合成小组首先利用[草酰氯以及](https://zh.wikipedia.org/wiki/草酰氯 "wikilink")[DMSO进行](https://zh.wikipedia.org/wiki/二甲亚砜 "wikilink")[Swern氧化](https://zh.wikipedia.org/wiki/Swern氧化 "wikilink")，将末端的羟甲基转化为醛基。随后，考虑到这个[底物存在的不稳定性](https://zh.wikipedia.org/wiki/底物 "wikilink")，合成人员使用了条件较为温和的Bestmann-Ohira试剂进行下一步的合成，两步的总收率为87%。
+在这里，首先，我们以2014年Taek Kang等在[全合成](../Page/全合成.md "wikilink")(−)-Crinipellin A中所用到的一步反应为例\[5\]。他们在将一个含环氧的醇转化为末端的炔基时，合成小组首先利用[草酰氯以及](https://zh.wikipedia.org/wiki/草酰氯 "wikilink")[DMSO进行](https://zh.wikipedia.org/wiki/二甲亚砜 "wikilink")[Swern氧化](https://zh.wikipedia.org/wiki/Swern氧化 "wikilink")，将末端的羟甲基转化为醛基。随后，考虑到这个[底物存在的不稳定性](https://zh.wikipedia.org/wiki/底物 "wikilink")，合成人员使用了条件较为温和的Bestmann-Ohira试剂进行下一步的合成，两步的总收率为87%。
 
 ### 与α,β不饱和醛基化合物的反应
 
@@ -41,18 +38,12 @@ A中所用到的一步反应为例\[5\]。他们在将一个含环氧的醇转�
 
 [Category:人名试剂](https://zh.wikipedia.org/wiki/Category:人名试剂 "wikilink")
 
-1.  D. Seyferth, R. S. Marmor and P. Hilbert. J. Org. Chem. 1971, 36
-    (10): 1379–1386.
-2.  J. C. Gilbert and U. Weerasooriya. Diazoethenes. J. Org. Chem. 1982,
-    47 (10): 1837–1845.
-3.  Callant, P.; D’haenens, L.; Vandewalle, M. Synth. Commun. 1984, 14,
-    155.
+1.  D. Seyferth, R. S. Marmor and P. Hilbert. J. Org. Chem. 1971, 36 (10): 1379–1386.
+2.  J. C. Gilbert and U. Weerasooriya. Diazoethenes. J. Org. Chem. 1982, 47 (10): 1837–1845.
+3.  Callant, P.; D’haenens, L.; Vandewalle, M. Synth. Commun. 1984, 14, 155.
 4.  Pietruszka, J.; Witt, A. Synthesis 2006, 4266.
-5.  Taek Kang, Seog Boem Song, Won-Yeob Kim, Byung Gyu Kim, and Hee-Yoon
-    Lee. J. Am. Chem. Soc.2014, 136, 10274−10276.
-6.  Dickson, H. D.; Smith, S. C.; Hinkle, K. W. Tetrahedron Lett. 2004,
-    45, 5597.
-7.  Muruganantham, R.; Mobin, S. M.; Namboothiri, I. N. N. Org. Lett.
-    2007, 9, 1125.
+5.  Taek Kang, Seog Boem Song, Won-Yeob Kim, Byung Gyu Kim, and Hee-Yoon Lee. J. Am. Chem. Soc.2014, 136, 10274−10276.
+6.  Dickson, H. D.; Smith, S. C.; Hinkle, K. W. Tetrahedron Lett. 2004, 45, 5597.
+7.  Muruganantham, R.; Mobin, S. M.; Namboothiri, I. N. N. Org. Lett. 2007, 9, 1125.
 8.  Gong, D.; Zhang, L.; Yuan, C. Synth. Commun. 2004, 34, 3259.
 9.  Ohira, S. Synth. Commun. 1989, 19, 561.

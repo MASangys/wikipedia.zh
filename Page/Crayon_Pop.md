@@ -1,7 +1,4 @@
-**Crayon
-Pop**（，，又称：**蜡笔团**\[1\]）是2012年7月出道的[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，所屬公司為Chrome
-Entertainment。歌曲及舞蹈风格与一般的女子團體不同，偏向于搞怪风格，[官方](https://zh.wikipedia.org/wiki/官方 "wikilink")[粉絲團名稱為](https://zh.wikipedia.org/wiki/粉絲 "wikilink")「Sketch
-Book」， 官方應援顏色為青蘋果綠。目前成員為金美、艾琳、超娥、唯一等4人，隊長為金美。2014年8月24日首次來台舉行演唱會。
+**Crayon Pop**（，，又称：**蜡笔团**\[1\]）是2012年7月出道的[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，所屬公司為Chrome Entertainment。歌曲及舞蹈风格与一般的女子團體不同，偏向于搞怪风格，[官方](https://zh.wikipedia.org/wiki/官方 "wikilink")[粉絲團名稱為](https://zh.wikipedia.org/wiki/粉絲 "wikilink")「Sketch Book」， 官方應援顏色為青蘋果綠。目前成員為金美、艾琳、超娥、唯一等4人，隊長為金美。2014年8月24日首次來台舉行演唱會。
 
 ## 成員資料
 
@@ -57,28 +54,19 @@ Book」， 官方應援顏色為青蘋果綠。目前成員為金美、艾琳、
 
 ## 經歷
 
-在2012年發行首支出道單曲後，因尚未獲得市場肯定加上唱片音源銷量未達排行榜水準之上，無法參與韓國各大電視音樂現場放送節目錄影，一度讓Crayon
-Pop成員陷入困頓之際。成員們為了展現對音樂永不放棄的決心，於是便開始了「街頭突擊\[9\]\[10\]」的表演，在捷運站、地下街、商圈廣場、店家門口前...等，都是Crayon
-Pop當時所僅有的華麗舞台。不畏懼路人投以異樣的眼光，此種街頭即興表演的方式令路人們感到相當新奇有趣，逐漸吸引了一群忠心的歌迷「POP大叔」。以此出道至今，便維持了以街頭突擊為主要宣傳方式。2013年，以《Bar
-Bar
-Bar》的「直列五汽缸舞」红遍韩国，让她们人气大增。六月份剛發行時並未獲得樂迷重視，直至七月份才紅遍韓國大街小巷，並掀起連串的模仿潮，音源榜也從百名外以光速竄升至第一名。韩国网友形容為繼《[江南style](https://zh.wikipedia.org/wiki/江南style "wikilink")》和《[Gentleman](https://zh.wikipedia.org/wiki/紳士_\(歌曲\) "wikilink")》后，第3首人气搞怪舞蹈歌曲。
+在2012年發行首支出道單曲後，因尚未獲得市場肯定加上唱片音源銷量未達排行榜水準之上，無法參與韓國各大電視音樂現場放送節目錄影，一度讓Crayon Pop成員陷入困頓之際。成員們為了展現對音樂永不放棄的決心，於是便開始了「街頭突擊\[9\]\[10\]」的表演，在捷運站、地下街、商圈廣場、店家門口前...等，都是Crayon Pop當時所僅有的華麗舞台。不畏懼路人投以異樣的眼光，此種街頭即興表演的方式令路人們感到相當新奇有趣，逐漸吸引了一群忠心的歌迷「POP大叔」。以此出道至今，便維持了以街頭突擊為主要宣傳方式。2013年，以《Bar Bar Bar》的「直列五汽缸舞」红遍韩国，让她们人气大增。六月份剛發行時並未獲得樂迷重視，直至七月份才紅遍韓國大街小巷，並掀起連串的模仿潮，音源榜也從百名外以光速竄升至第一名。韩国网友形容為繼《[江南style](https://zh.wikipedia.org/wiki/江南style "wikilink")》和《[Gentleman](https://zh.wikipedia.org/wiki/紳士_\(歌曲\) "wikilink")》后，第3首人气搞怪舞蹈歌曲。
 
-2014年10月15日，成員CHOA和WAY（[雙胞胎](../Page/雙胞胎.md "wikilink")姊妹）組成了Crayon
-Pop的首隊分支組合－[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")「草莓牛奶」（），並於當日發行迷你專輯《The
-1st. Mini Album》。
+2014年10月15日，成員CHOA和WAY（[雙胞胎](../Page/雙胞胎.md "wikilink")姊妹）組成了Crayon Pop的首隊分支組合－[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")「草莓牛奶」（），並於當日發行迷你專輯《The 1st. Mini Album》。
 
-2015年1月12日，成員SoYul和製作公司Rainbow bridge合作，並於當日發表其首支個人單曲《Y-Shirt》(Feat.
-[楊正模](https://zh.wikipedia.org/wiki/楊正模 "wikilink")（）)。
+2015年1月12日，成員SoYul和製作公司Rainbow bridge合作，並於當日發表其首支個人單曲《Y-Shirt》(Feat. [楊正模](https://zh.wikipedia.org/wiki/楊正模 "wikilink")（）)。
 
-2016年10月4日，新聞傳出成員SoYul最近檢查發現自身患有恐慌症，因此決定全面暫停演藝活動，積極接受治療；而Crayon
-Pop短時間內將由4人形式做宣傳。\[11\]
+2016年10月4日，新聞傳出成員SoYul最近檢查發現自身患有恐慌症，因此決定全面暫停演藝活動，積極接受治療；而Crayon Pop短時間內將由4人形式做宣傳。\[11\]
 
 2016年11月29日，新聞傳出成員SoYul與男子團體[H.O.T.](../Page/H.O.T..md "wikilink")隊長[文熙俊](../Page/文熙俊.md "wikilink")結婚的消息。\[12\]
 
 2017年5月12日，已懷孕成員SoYul已於下午4點30分左右產出1女，母女均安。\[13\]\[14\]\[15\]\[16\]
 
-2017年5月31日，生下1女的成員SoYul與Chrome娛樂的合約到期，離開Crayon Pop，Crayon Pop開始以4人形式活動
-\[17\]\[18\]\[19\]
+2017年5月31日，生下1女的成員SoYul與Chrome娛樂的合約到期，離開Crayon Pop，Crayon Pop開始以4人形式活動 \[17\]\[18\]\[19\]
 
 ## 影視作品
 
@@ -90,9 +78,7 @@ Pop短時間內將由4人形式做宣傳。\[11\]
 | 2012年-2013年 | Crayon Pop TV 第一季 | 共10集。未包含2012年12月16日之線上試播版。正式第1集於2012年12月30日製播。 |
 | 2013年-2014年 | Crayon Pop TV 第二季 | 目前播至第10集、外加一集「香港特輯」。                           |
 
-「Crayon Pop
-TV」是由經紀公司所獨立製作之網路線上節目，初期嘗試以線上直播方式與歌迷即時互動並以聊天型式來錄製節目，讓歌迷更瞭解CRAYON
-POP。接著又加入以記錄團員生活、街頭突擊表演、成長學習、玩樂趣事、跑行程時的幕後花絮等紀錄，有時亦會由團員自行手持DV掌鏡拍攝。每集均會上傳至經紀公司所開設的官方Youtube帳號內供歌迷們收看。該節目的製播為時下韓國藝人經紀公司少見之創舉，不同於電視、電台等傳統形式之傳播管道進而改以網路方式來與歌迷接觸。
+「Crayon Pop TV」是由經紀公司所獨立製作之網路線上節目，初期嘗試以線上直播方式與歌迷即時互動並以聊天型式來錄製節目，讓歌迷更瞭解CRAYON POP。接著又加入以記錄團員生活、街頭突擊表演、成長學習、玩樂趣事、跑行程時的幕後花絮等紀錄，有時亦會由團員自行手持DV掌鏡拍攝。每集均會上傳至經紀公司所開設的官方Youtube帳號內供歌迷們收看。該節目的製播為時下韓國藝人經紀公司少見之創舉，不同於電視、電台等傳統形式之傳播管道進而改以網路方式來與歌迷接觸。
 
 ### 電視節目
 
@@ -694,12 +680,8 @@ POP。接著又加入以記錄團員生活、街頭突擊表演、成長學習�
 
 ## 爭議
 
-1.有人说Crayon
-Pop好像是在抄襲日本女子偶像組合[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")。2013年8月至11月，Crayon
-Pop被媒体指出其模仿桃草的服裝引起了争议\[29\]。
-2.被指疑似在High
-One首爾歌謠大賞典禮結束後，眾家明星齊聚簇擁著拍大合照時，因為鏡頭錯位的關係，Way被影射推了前輩[少女時代的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")，新聞一出鬧得沸沸揚揚，有人批評也有人反駁，而後Chrome
-Entertainment經紀公司發表申明，表示當時狀況是Ellin抓住Way的手，把Way拉到自己這裡，並沒有推Sunny，網路上的照片純屬鏡頭畫面錯位所致\[30\]。
+1.有人说Crayon Pop好像是在抄襲日本女子偶像組合[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")。2013年8月至11月，Crayon Pop被媒体指出其模仿桃草的服裝引起了争议\[29\]。
+2.被指疑似在High One首爾歌謠大賞典禮結束後，眾家明星齊聚簇擁著拍大合照時，因為鏡頭錯位的關係，Way被影射推了前輩[少女時代的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")，新聞一出鬧得沸沸揚揚，有人批評也有人反駁，而後Chrome Entertainment經紀公司發表申明，表示當時狀況是Ellin抓住Way的手，把Way拉到自己這裡，並沒有推Sunny，網路上的照片純屬鏡頭畫面錯位所致\[30\]。
 
 ## 參考資料
 
@@ -709,11 +691,9 @@ Entertainment經紀公司發表申明，表示當時狀況是Ellin抓住Way的�
 
   - [中文官方網站](https://web.archive.org/web/20150926231925/http://chrome-ent.cn/wp/?page_id=19)
 
-
   - [香港官方網站](https://www.sonymusic.com.hk/main/artist/crayon-pop)
 
   - [日本官方網站](https://web.archive.org/web/20140402171518/http://www.crayonpop.co.jp/)
-
 
   - [波麗佳音官方網站](http://crayonpop.ponycanyon.co.jp)
 
@@ -723,15 +703,11 @@ Entertainment經紀公司發表申明，表示當時狀況是Ellin抓住Way的�
 
   -
 
-  - [Crayon
-    Pop](http://blog.naver.com/chrome_ent)在naver的-{zh-cn:博客;zh-hk:網誌;zh-tw:部落格}-
-
+  - [Crayon Pop](http://blog.naver.com/chrome_ent)在naver的-{zh-cn:博客;zh-hk:網誌;zh-tw:部落格}-
 
   -
 
-  - [Official
-    Ticket官方售票網站](https://web.archive.org/web/20131103230702/http://www.chrome-ticket.com/)
-
+  - [Official Ticket官方售票網站](https://web.archive.org/web/20131103230702/http://www.chrome-ticket.com/)
 
 <!-- end list -->
 
@@ -739,35 +715,26 @@ Entertainment經紀公司發表申明，表示當時狀況是Ellin抓住Way的�
 
 <!-- end list -->
 
-  - [Crayon Pop 官方歌迷Cafe
-    「Sketchbook」](http://cafe.daum.net/lovecrayonpop)
+  - [Crayon Pop 官方歌迷Cafe 「Sketchbook」](http://cafe.daum.net/lovecrayonpop)
 
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:Crayon_Pop](https://zh.wikipedia.org/wiki/Category:Crayon_Pop "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
+[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:Crayon_Pop](https://zh.wikipedia.org/wiki/Category:Crayon_Pop "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
 
-1.  [Crayon
-    Pop蜡笔团，参与纪念出道三周年的粉丝见面会，和粉丝们一同留下了美好的回忆](http://chrome-ent.cn/wp/?p=929)
+1.  [Crayon Pop蜡笔团，参与纪念出道三周年的粉丝见面会，和粉丝们一同留下了美好的回忆](http://chrome-ent.cn/wp/?p=929)
 
-
-2.  [SONY
-    TAIWAN向Chrome詢問成員漢字正名，Chrome答覆僅以韓文及英文藝名活動](https://www.facebook.com/photo.php?v=10151731093694912)
+2.  [SONY TAIWAN向Chrome詢問成員漢字正名，Chrome答覆僅以韓文及英文藝名活動](https://www.facebook.com/photo.php?v=10151731093694912)
 
 3.  2014年前為**Gummi**，此為[圖片](http://www.chrome-ent.co.kr/index.php?mid=crayonpop)
-
 
 4.
 
 5.
 
-6.  [SONY
-    TAIWAN向Chrome詢問成員漢字正名，Chrome答覆僅以韓文及英文藝名活動](https://www.facebook.com/photo.php?v=10151731093694912)
+6.  [SONY TAIWAN向Chrome詢問成員漢字正名，Chrome答覆僅以韓文及英文藝名活動](https://www.facebook.com/photo.php?v=10151731093694912)
 
 7.
 8.
 
-9.  [關於街頭突擊的定義或形式，請參見官方側錄影片](http://www.youtube.com/watch?v=ki3W2ceBY3g)，資料來源:Crayon
-    Pop官方頻道，2012年10月31日。
+9.  [關於街頭突擊的定義或形式，請參見官方側錄影片](http://www.youtube.com/watch?v=ki3W2ceBY3g)，資料來源:Crayon Pop官方頻道，2012年10月31日。
 
 10. [](http://www.epochtimes.com/b5/15/3/23/n4394457.htm)、[](http://www.epochtimes.com/gb/15/3/23/n4394457.htm)
 
@@ -785,21 +752,13 @@ Entertainment經紀公司發表申明，表示當時狀況是Ellin抓住Way的�
 17.
 18.
 19.
-20. [參見韓國Crayon
-    Pop官方Youtube頻道](http://www.youtube.com/watch?v=CaTcPBuqspE)
-    不同於Hurricane Pop時期，《Bing Bing》一曲於Crayon
-    Pop時期有重新拍攝新MV，並遠赴日本取景。官方MV受限版權因素僅對韓國公開發表。另外，當時於日本宣傳時亦有配唱日文版歌詞。
+20. [參見韓國Crayon Pop官方Youtube頻道](http://www.youtube.com/watch?v=CaTcPBuqspE) 不同於Hurricane Pop時期，《Bing Bing》一曲於Crayon Pop時期有重新拍攝新MV，並遠赴日本取景。官方MV受限版權因素僅對韓國公開發表。另外，當時於日本宣傳時亦有配唱日文版歌詞。
 
-21. [參見韓國Crayon Pop官方Youtube頻道1,2,3,4 (JPN Ver.)
-    편집영상](http://www.youtube.com/watch?v=b0IzqxNgSpA)
-    《1,2,3,4》一曲並未正式收錄於專輯或單曲作品內，也尚未發行數位音源或實體唱片，但韓國官方有為這首歌曲剪輯編製MV，並上傳至官方Youtube頻道內。
+21. [參見韓國Crayon Pop官方Youtube頻道1,2,3,4 (JPN Ver.) 편집영상](http://www.youtube.com/watch?v=b0IzqxNgSpA) 《1,2,3,4》一曲並未正式收錄於專輯或單曲作品內，也尚未發行數位音源或實體唱片，但韓國官方有為這首歌曲剪輯編製MV，並上傳至官方Youtube頻道內。
 
-22. [CRAYON POP、PSYへのオマージュが詰まった「パパパ」グローバルバージョンの見どころは？
-    kstyle 2013年9月10日](http://news.kstyle.com/article.ksn?articleNo=1977612)
+22. [CRAYON POP、PSYへのオマージュが詰まった「パパパ」グローバルバージョンの見どころは？ kstyle 2013年9月10日](http://news.kstyle.com/article.ksn?articleNo=1977612)
 
-23. [「水果」攜「颶風」
-    微電影《咖哩校園》杭州開拍](http://ori.hangzhou.com.cn/ornews/content/2012-01/11/content_4033143.htm)
-    資料來源:杭州網新聞稿
+23. [「水果」攜「颶風」 微電影《咖哩校園》杭州開拍](http://ori.hangzhou.com.cn/ornews/content/2012-01/11/content_4033143.htm) 資料來源:杭州網新聞稿
 
 24. [MBC심심타파](http://imbbs.imbc.com/view.mbc?list_id=6207527&page=1&bid=simsim79&sk=title-content&sv=%C5%A9%B7%B9%BF%EB%C6%CB)，資料來源:深深打破官方網站12.08.05節目照片冊。
 
@@ -807,11 +766,9 @@ Entertainment經紀公司發表申明，表示當時狀況是Ellin抓住Way的�
 
 26. [MBC심심타파](http://imbbs.imbc.com/view.mbc?list_id=6363744&page=40&bid=simsim79)，資料來源:深深打破官方網站12.11.22節目照片冊。
 
-27. [加值版附贈POPCARD及特製CrayonPop卡通人物版桌曆](http://www.hanteo.com/search/album_info.asp?mcode=800212362)，Crayon
-    Pop首本寫真書，內容記錄2013年赴澳洲活動行程所拍攝之照片。資料來源:韓國HANTEO CHART唱片銷量網站。
+27. [加值版附贈POPCARD及特製CrayonPop卡通人物版桌曆](http://www.hanteo.com/search/album_info.asp?mcode=800212362)，Crayon Pop首本寫真書，內容記錄2013年赴澳洲活動行程所拍攝之照片。資料來源:韓國HANTEO CHART唱片銷量網站。
 
-28. [Crayon
-    Pop穿韓服送新年祝福湖南衛視元宵晚會唱神曲](http://zixun.hunantv.com/hntv/20140129/1337458706.html)，湖南衛視官方新聞稿。
+28. [Crayon Pop穿韓服送新年祝福湖南衛視元宵晚會唱神曲](http://zixun.hunantv.com/hntv/20140129/1337458706.html)，湖南衛視官方新聞稿。
 
 29.
 

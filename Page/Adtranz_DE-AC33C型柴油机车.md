@@ -1,10 +1,8 @@
-**Adtranz
-DE-AC33C型柴油机车**是一款用于重载的[柴电动力](../Page/柴电动力.md "wikilink")[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，由[Adtranz](../Page/Adtranz.md "wikilink")与[通用电气](../Page/通用电气.md "wikilink")合作开发。它在[德国铁路](../Page/德国铁路.md "wikilink")的试运行中被定型为**250型**，在市场推广中则使用**蓝虎**（）的名称。
+**Adtranz DE-AC33C型柴油机车**是一款用于重载的[柴电动力](../Page/柴电动力.md "wikilink")[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，由[Adtranz](../Page/Adtranz.md "wikilink")与[通用电气](../Page/通用电气.md "wikilink")合作开发。它在[德国铁路](../Page/德国铁路.md "wikilink")的试运行中被定型为**250型**，在市场推广中则使用**蓝虎**（）的名称。
 
 ## 历史
 
-[Blue_tiger10.11.97.jpg](https://zh.wikipedia.org/wiki/File:Blue_tiger10.11.97.jpg "fig:Blue_tiger10.11.97.jpg")（1007年）\]\]
-首台[样机于](../Page/原型_\(工程\).md "wikilink")1996年面世，其最初的设想是作为蓝虎系列机车的平台开发。它在2004年获得了在[德国](../Page/德国.md "wikilink")中运行的适航证。此后再有两台基于原型机的技术而专为[亚洲](../Page/亚洲.md "wikilink")地区运营的机车被生产出来，然而在2005年初，[庞巴迪宣布](https://zh.wikipedia.org/wiki/庞巴迪 "wikilink")，大批量的机车订单将倾向于以[庞巴迪TRAXX](../Page/庞巴迪TRAXX.md "wikilink")为基础生产，这是由前者自主研发的另一个机车平台。因此，蓝虎系列机车是否会继续生产仍未能确定。总体而言，已有1台样机（原型机）、10台用于德国、30台用于[巴基斯坦](../Page/巴基斯坦.md "wikilink")和20台用于[马来西亚](../Page/马来西亚.md "wikilink")的机车被生产出来\[1\]。
+[Blue_tiger10.11.97.jpg](https://zh.wikipedia.org/wiki/File:Blue_tiger10.11.97.jpg "fig:Blue_tiger10.11.97.jpg")（1007年）\]\] 首台[样机于](../Page/原型_\(工程\).md "wikilink")1996年面世，其最初的设想是作为蓝虎系列机车的平台开发。它在2004年获得了在[德国](../Page/德国.md "wikilink")中运行的适航证。此后再有两台基于原型机的技术而专为[亚洲](../Page/亚洲.md "wikilink")地区运营的机车被生产出来，然而在2005年初，[庞巴迪宣布](https://zh.wikipedia.org/wiki/庞巴迪 "wikilink")，大批量的机车订单将倾向于以[庞巴迪TRAXX](../Page/庞巴迪TRAXX.md "wikilink")为基础生产，这是由前者自主研发的另一个机车平台。因此，蓝虎系列机车是否会继续生产仍未能确定。总体而言，已有1台样机（原型机）、10台用于德国、30台用于[巴基斯坦](../Page/巴基斯坦.md "wikilink")和20台用于[马来西亚](../Page/马来西亚.md "wikilink")的机车被生产出来\[1\]。
 
 截至2009年，庞巴迪已不再生产这一型号的机车，通用电气则将其作为变体纳入既有的，并用作出口\[2\]。
 
@@ -22,15 +20,11 @@ DE-AC33C型柴油机车**是一款用于重载的[柴电动力](../Page/柴电�
 
 ### 马来西亚
 
-20台机车按照马来西亚的运营需求而以[米轨](../Page/米轨.md "wikilink")轨距的版本生产，它们由通用电气在2003年至2004年生产及交付[马来亚铁路使用](https://zh.wikipedia.org/wiki/马来亚铁路 "wikilink")\[7\]\[8\]，并在当地被定型为“[26型](https://zh.wikipedia.org/wiki/馬來亞鐵道26型柴油機車 "wikilink")”（编号：26
-101 - 26
-120）。所有这一型号的机车均以马来西亚的地名命名。在投入运营的前十年中，它们证明了比马来亚铁路在同期购买的[29型柴油机车更为可靠](https://zh.wikipedia.org/wiki/馬來亞鐵道29型柴油機車 "wikilink")\[9\]。
+20台机车按照马来西亚的运营需求而以[米轨](../Page/米轨.md "wikilink")轨距的版本生产，它们由通用电气在2003年至2004年生产及交付[马来亚铁路使用](https://zh.wikipedia.org/wiki/马来亚铁路 "wikilink")\[7\]\[8\]，并在当地被定型为“[26型](https://zh.wikipedia.org/wiki/馬來亞鐵道26型柴油機車 "wikilink")”（编号：26 101 - 26 120）。所有这一型号的机车均以马来西亚的地名命名。在投入运营的前十年中，它们证明了比马来亚铁路在同期购买的[29型柴油机车更为可靠](https://zh.wikipedia.org/wiki/馬來亞鐵道29型柴油機車 "wikilink")\[9\]。
 
 ### 德国
 
-[OHE_Blue_tiger_locomotive.jpg](https://zh.wikipedia.org/wiki/File:OHE_Blue_tiger_locomotive.jpg "fig:OHE_Blue_tiger_locomotive.jpg")（2008年）\]\]
-[250_007_ITL.JPG](https://zh.wikipedia.org/wiki/File:250_007_ITL.JPG "fig:250_007_ITL.JPG")（2010年）\]\]
-1台原型机和10台量产机车是按[标准轨距生产](https://zh.wikipedia.org/wiki/标准轨距 "wikilink")，可供各[铁路运营商租赁或订购](https://zh.wikipedia.org/wiki/铁路运营商 "wikilink")。曾一度使用蓝灰色涂装的原型机最初由[巴斯夫持有](https://zh.wikipedia.org/wiki/巴斯夫 "wikilink")，后由使用，并最终出售至。在原型机的使用年限届满后，它需要进行大幅度的改造以满足继续运用的需求。因此，除了经过强化的焊接钢前脸，机车还获得了圆形网状的侧面\[10\]。
+[OHE_Blue_tiger_locomotive.jpg](https://zh.wikipedia.org/wiki/File:OHE_Blue_tiger_locomotive.jpg "fig:OHE_Blue_tiger_locomotive.jpg")（2008年）\]\] [250_007_ITL.JPG](https://zh.wikipedia.org/wiki/File:250_007_ITL.JPG "fig:250_007_ITL.JPG")（2010年）\]\] 1台原型机和10台量产机车是按[标准轨距生产](https://zh.wikipedia.org/wiki/标准轨距 "wikilink")，可供各[铁路运营商租赁或订购](https://zh.wikipedia.org/wiki/铁路运营商 "wikilink")。曾一度使用蓝灰色涂装的原型机最初由[巴斯夫持有](https://zh.wikipedia.org/wiki/巴斯夫 "wikilink")，后由使用，并最终出售至。在原型机的使用年限届满后，它需要进行大幅度的改造以满足继续运用的需求。因此，除了经过强化的焊接钢前脸，机车还获得了圆形网状的侧面\[10\]。
 
 10台量产机车在德国完全由[私营铁路运营商使用](https://zh.wikipedia.org/wiki/私铁 "wikilink")，例如东汉诺威铁路及。此前，大部分的机车均由制造商下属的机车租赁公司所持有，并向第一大客户出租了8台机车，在后者于2005年[破产后](https://zh.wikipedia.org/wiki/破产 "wikilink")，原本的出售计划也被叫停\[11\]。[德国铁路](../Page/德国铁路.md "wikilink")的[子公司](../Page/子公司.md "wikilink")[德铁汽车列车](../Page/德铁汽车列车.md "wikilink")在2005年1月对这些机车进行的系列测试也曾轰动一时，它们在一段时间内被用于牵引[人车同行班次](https://zh.wikipedia.org/wiki/人车同行 "wikilink")，并被归类为250型\[12\]。
 
@@ -67,43 +61,27 @@ DE-AC33C型柴油机车**是一款用于重载的[柴电动力](../Page/柴电�
 
   - [250型“蓝虎”机车图片](http://www.bahn-galerie.de/Diesellok/Blue_Tiger/BR_Blue_Tiger.htm)
 
-[Category:Adtranz制铁路机车](https://zh.wikipedia.org/wiki/Category:Adtranz制铁路机车 "wikilink")
-[Category:庞巴迪制铁路机车](https://zh.wikipedia.org/wiki/Category:庞巴迪制铁路机车 "wikilink")
-[Category:GE制铁路机车](https://zh.wikipedia.org/wiki/Category:GE制铁路机车 "wikilink")
-[Category:Co-Co轴式机车](https://zh.wikipedia.org/wiki/Category:Co-Co轴式机车 "wikilink")
+[Category:Adtranz制铁路机车](https://zh.wikipedia.org/wiki/Category:Adtranz制铁路机车 "wikilink") [Category:庞巴迪制铁路机车](https://zh.wikipedia.org/wiki/Category:庞巴迪制铁路机车 "wikilink") [Category:GE制铁路机车](https://zh.wikipedia.org/wiki/Category:GE制铁路机车 "wikilink") [Category:Co-Co轴式机车](https://zh.wikipedia.org/wiki/Category:Co-Co轴式机车 "wikilink")
 
 1.
 
-2.  [Noise Reduction Measures at Freight Train Locomotives “Blue
-    Tiger”](http://www.springerlink.com/content/f865268175595q27/)*Springer
-    Link*
+2.  [Noise Reduction Measures at Freight Train Locomotives “Blue Tiger”](http://www.springerlink.com/content/f865268175595q27/)*Springer Link*
 
-3.  [Europe/Mid East - 'Blue Tiger' unveiled,
-    Rail](http://www.janes.com/articles/Janes-Transport-Finance-96/Europe-Mid-East--Blue-Tiger-unveiled.html)
-    *janes.com*
+3.  [Europe/Mid East - 'Blue Tiger' unveiled, Rail](http://www.janes.com/articles/Janes-Transport-Finance-96/Europe-Mid-East--Blue-Tiger-unveiled.html) *janes.com*
 
-4.  [InnoTrans 2002 in
-    Berlin](http://www.railfan.de/nebahn/articles/innotrans2002.html)
-    *railfan.de*
+4.  [InnoTrans 2002 in Berlin](http://www.railfan.de/nebahn/articles/innotrans2002.html) *railfan.de*
 
 5.
 
-6.  [GE Locomotives in Asia & Middle
-    East](http://www.locopage.net/asia-pics.htm) subsection 'Pakistan'
-    *locopage.net*
+6.  [GE Locomotives in Asia & Middle East](http://www.locopage.net/asia-pics.htm) subsection 'Pakistan' *locopage.net*
 
-7.  [26 Class / Blue Tiger](http://www.keretapi.com/26class.html)
-    *keratapi.com*
+7.  [26 Class / Blue Tiger](http://www.keretapi.com/26class.html)  *keratapi.com*
 
 8.
 
 9.
 10.
-11. [Bombardier: Eight Blue Tiger Locomotives Soon To Be In Service For
-    Karsdorfer Eisenbahn (Bombardier press
-    release)](http://canadair.ca/en/1_0/1_0_0_99_p.html) *canadair.ca*
+11. [Bombardier: Eight Blue Tiger Locomotives Soon To Be In Service For Karsdorfer Eisenbahn (Bombardier press release)](http://canadair.ca/en/1_0/1_0_0_99_p.html) *canadair.ca*
 
 12.
-13. [Blue Tiger
-    Lieferliste](http://www.privat-bahn.de/Blue_Tiger_Lieferliste.html)
-    'Blue Tiger' operator list *privat-bahn.de*
+13. [Blue Tiger Lieferliste](http://www.privat-bahn.de/Blue_Tiger_Lieferliste.html) 'Blue Tiger' operator list *privat-bahn.de*

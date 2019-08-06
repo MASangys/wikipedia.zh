@@ -1,5 +1,4 @@
-**戰隊系列Ｘ假面騎士SPECIAL LIVE In
-Taiwan**，是由2010年至2014年由台灣及日本聯合舉辦的[超級戰隊系列和](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[假面騎士系列](../Page/假面騎士系列.md "wikilink")的大型[舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")，大多在每一年的9月份舉辦，道具皆由日本原裝搬來台灣，並納入台灣在地文化，量身訂做的劇情。2010年剛開始時並沒有假面騎士登場，直到第二年才有假面騎士登場。
+**戰隊系列Ｘ假面騎士SPECIAL LIVE In Taiwan**，是由2010年至2014年由台灣及日本聯合舉辦的[超級戰隊系列和](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")[假面騎士系列](../Page/假面騎士系列.md "wikilink")的大型[舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink")，大多在每一年的9月份舉辦，道具皆由日本原裝搬來台灣，並納入台灣在地文化，量身訂做的劇情。2010年剛開始時並沒有假面騎士登場，直到第二年才有假面騎士登場。
 
 ## 起因
 
@@ -38,8 +37,7 @@ Taiwan**，是由2010年至2014年由台灣及日本聯合舉辦的[超級戰隊
   - 日期：2013年9月21日～9月22日
   - 時間：11:00、15:00、19:00（日本語場21日限定）
   - 地點：台北國際會議中心
-  - 登場英雄：假面騎士1號、假面騎士2號、假面騎士電王、假面騎士W、假面騎士Accel、[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")、[假面騎士Birth](../Page/假面騎士OOO.md "wikilink")、[赤連者](../Page/秘密戰隊五連者.md "wikilink")、海賊戰隊豪快者、[特命戰隊Go
-    Busters](../Page/特命戰隊Go_Busters.md "wikilink")
+  - 登場英雄：假面騎士1號、假面騎士2號、假面騎士電王、假面騎士W、假面騎士Accel、[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")、[假面騎士Birth](../Page/假面騎士OOO.md "wikilink")、[赤連者](../Page/秘密戰隊五連者.md "wikilink")、海賊戰隊豪快者、[特命戰隊Go Busters](../Page/特命戰隊Go_Busters.md "wikilink")
   - 登場敵人：修卡、貪婪怪人**卡佳里**、Enter、殘虐、司令官**華魯斯‧基爾**、參謀長**達瑪拉斯**、巴利佐格、巴斯克・達・朱羅基亞
   - 中場表演：[Suite 光之美少女](../Page/Suite_光之美少女♪.md "wikilink")
 
@@ -48,8 +46,7 @@ Taiwan**，是由2010年至2014年由台灣及日本聯合舉辦的[超級戰隊
   - 日期：2014年11月1日～11月2日
   - 時間：10:30、13:00、16:00（本次無日語場）
   - 地點：[花博公園](../Page/花博公園.md "wikilink")[舞蝶館](https://zh.wikipedia.org/wiki/舞蝶館 "wikilink")
-  - 登場英雄：[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")、特命戰隊Go
-    Busters、假面騎士OOO、假面騎士Birth、[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")
+  - 登場英雄：[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")、特命戰隊Go Busters、假面騎士OOO、假面騎士Birth、[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")
   - 登場敵人：修卡、宙體闇使、亡領軍、亡領·冰河期、怒之戰騎·多科多、哀之戰騎·獃賈隆
   - 中場表演：[Smile 光之美少女](../Page/Smile_光之美少女！.md "wikilink")
 
@@ -65,5 +62,4 @@ Taiwan**，是由2010年至2014年由台灣及日本聯合舉辦的[超級戰隊
 
   - [官方網站](https://web.archive.org/web/20130730141558/http://www.supersentai.com.tw/)
 
-[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink")
-[Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink")
+[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink") [Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink")

@@ -1,5 +1,4 @@
-**週刊文春推理小說 Best
-10**（**週刊文春ミステリーベスト10**）是[日本](../Page/日本.md "wikilink")《[週刊文春](https://zh.wikipedia.org/wiki/週刊文春 "wikilink")》[推理小說](../Page/推理小說.md "wikilink")排行榜，從1977年開始。
+**週刊文春推理小說 Best 10**（**週刊文春ミステリーベスト10**）是[日本](../Page/日本.md "wikilink")《[週刊文春](https://zh.wikipedia.org/wiki/週刊文春 "wikilink")》[推理小說](../Page/推理小說.md "wikilink")排行榜，從1977年開始。
 
 ## 歷年排行
 
@@ -187,9 +186,6 @@
 
 ## 外部連結
 
-  - [文藝春秋｜StockFile 週刊文春年末恒例企画
-    傑作ミステリーベスト10](http://www.bunshun.co.jp/stockfile/)
+  - [文藝春秋｜StockFile 週刊文春年末恒例企画 傑作ミステリーベスト10](http://www.bunshun.co.jp/stockfile/)
 
-[Category:日本文學獎](https://zh.wikipedia.org/wiki/Category:日本文學獎 "wikilink")
-[Category:推理小說獎](https://zh.wikipedia.org/wiki/Category:推理小說獎 "wikilink")
-[Category:1977年建立的獎項](https://zh.wikipedia.org/wiki/Category:1977年建立的獎項 "wikilink")
+[Category:日本文學獎](https://zh.wikipedia.org/wiki/Category:日本文學獎 "wikilink") [Category:推理小說獎](https://zh.wikipedia.org/wiki/Category:推理小說獎 "wikilink") [Category:1977年建立的獎項](https://zh.wikipedia.org/wiki/Category:1977年建立的獎項 "wikilink")

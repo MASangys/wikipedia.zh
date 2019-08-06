@@ -26,8 +26,7 @@
 
 \(u(x,t) = \sum_{k=0}^{\infty}(u[j](t)\phi^j, j = 0 .. N))/\phi^\rho\)
 
-其中\(\phi=x-\psi(t)\) 和 \(u_{j}=u_{j}(t)\) 是非特征奇异点流型\(x-\psi(t)=0\) 和
-u\[0\]≠0附近的解析函数。
+其中\(\phi=x-\psi(t)\) 和 \(u_{j}=u_{j}(t)\) 是非特征奇异点流型\(x-\psi(t)=0\) 和 u\[0\]≠0附近的解析函数。
 
 设定方程解的首项可以表示为
 
@@ -71,6 +70,4 @@ u\[0\]≠0附近的解析函数。
 
 [Category:非线性偏微分方程](https://zh.wikipedia.org/wiki/Category:非线性偏微分方程 "wikilink")
 
-1.  Inna Shingareva, Carlos Lizarrraga-Celyaya Solving Nonlinear Partial
-    Differential Equations with Maple and Mathematica,
-    SpringerWienNewYork
+1.  Inna Shingareva, Carlos Lizarrraga-Celyaya Solving Nonlinear Partial Differential Equations with Maple and Mathematica, SpringerWienNewYork

@@ -80,57 +80,34 @@ Yak-7的長程實驗機，只有一架，可以飛行6小時半，航程達2,285
 ## 參考文獻
 
   -
-  - Gordon, Yefim and Dmitri Khazanov. *Soviet Combat Aircraft of the
-    Second World War, Volume One: Single-Engined Fighters*. Earl
-    Shilton, Leicester, UK: Midland Publishing Ltd., 1998. ISBN
-    1-85780-083-4.
+  - Gordon, Yefim and Dmitri Khazanov. *Soviet Combat Aircraft of the Second World War, Volume One: Single-Engined Fighters*. Earl Shilton, Leicester, UK: Midland Publishing Ltd., 1998. ISBN 1-85780-083-4.
 
-  - Green, William. *Warplanes of the Second World War, Volume Three:
-    Fighters*. London: Macdonald & Co. (Publishers) Ltd., 1961 (seventh
-    impression 1973). ISBN 0-356-01447-9.
+  - Green, William. *Warplanes of the Second World War, Volume Three: Fighters*. London: Macdonald & Co. (Publishers) Ltd., 1961 (seventh impression 1973). ISBN 0-356-01447-9.
 
-  - Green, William and Gordon Swanborough. *WW2 Aircraft Fact Files:
-    Soviet Air Force Fighters, Part 2*. London: Macdonald and Jane's
-    Publishers Ltd., 1978. ISBN 0-354-01088-3.
+  - Green, William and Gordon Swanborough. *WW2 Aircraft Fact Files: Soviet Air Force Fighters, Part 2*. London: Macdonald and Jane's Publishers Ltd., 1978. ISBN 0-354-01088-3.
 
-  - Kopenhagen, W., ed. *Das große Flugzeug-Typenbuch.* Stuggart,
-    Germany: Transpress, 1987. ISBN 3-344-00162-0.
+  - Kopenhagen, W., ed. *Das große Flugzeug-Typenbuch.* Stuggart, Germany: Transpress, 1987. ISBN 3-344-00162-0.
 
-  - Leonard, Herbert. *Encyclopaedia of Soviet Fighters 1939-1951*.
-    Paris: Histoire & Collections, 2005. ISBN 2-915239-60-6.
+  - Leonard, Herbert. *Encyclopaedia of Soviet Fighters 1939-1951*. Paris: Histoire & Collections, 2005. ISBN 2-915239-60-6.
 
-  - Liss, Witold. *The Yak 9 Series (Aircraft in Profile number 185)*.
-    Leatherhead, Surrey, UK: Profile Publications Ltd., 1967.
+  - Liss, Witold. *The Yak 9 Series (Aircraft in Profile number 185)*. Leatherhead, Surrey, UK: Profile Publications Ltd., 1967.
 
-  - Mellinger, George. *Yakovlev Aces of World War 2*. Botley, UK:
-    Osprey Publishing Ltd., 2005. ISBN 1-84176-845-6.
+  - Mellinger, George. *Yakovlev Aces of World War 2*. Botley, UK: Osprey Publishing Ltd., 2005. ISBN 1-84176-845-6.
 
-  - Morgan, Hugh. *Soviet Aces of World War 2*. London: Reed
-    International Books Ltd., 1997. ISBN 1-85532-632-9.
+  - Morgan, Hugh. *Soviet Aces of World War 2*. London: Reed International Books Ltd., 1997. ISBN 1-85532-632-9.
 
-  - , 1994(Shavrov, V.B. *Istoriia konstruktskii samoletov v SSSR,
-    1938-1950 gg., 3rd ed. (*History of Aircraft Design in USSR:
-    1938-1950*)*. Kniga, Russia: Mashinostroenie, 1994. ISBN
-    5-217-00477-0.
+  - , 1994(Shavrov, V.B. *Istoriia konstruktskii samoletov v SSSR, 1938-1950 gg., 3rd ed. (*History of Aircraft Design in USSR: 1938-1950*)*. Kniga, Russia: Mashinostroenie, 1994. ISBN 5-217-00477-0.
 
-  - Stapfer, Hans-Heiri. *Yak Fighters in Action (Aircraft number 78)*.
-    Carrollton, Texas: Squadron/Signal Publications, Inc., 1986. ISBN
-    0-89747-187-3.
+  - Stapfer, Hans-Heiri. *Yak Fighters in Action (Aircraft number 78)*. Carrollton, Texas: Squadron/Signal Publications, Inc., 1986. ISBN 0-89747-187-3.
 
-  - Taylor, Michael J.H. *Fighters and Bombers of World War II in
-    Colour*. London: Bison Books, 1985. ISBN 0-86124-224-6.
+  - Taylor, Michael J.H. *Fighters and Bombers of World War II in Colour*. London: Bison Books, 1985. ISBN 0-86124-224-6.
 
-  - Winchester, Jim. "Yak Fighters." Fighters: The World's Finest Combat
-    Aircraft- 1914 to the Present Day. Bath, UK: Parragon Publishing,
-    2003. ISBN 1-4054-3843-6.
+  - Winchester, Jim. "Yak Fighters." Fighters: The World's Finest Combat Aircraft- 1914 to the Present Day. Bath, UK: Parragon Publishing, 2003. ISBN 1-4054-3843-6.
 
 ## 外部連結
 
   - [心在天山-蘇聯雅克-7飛機簡史](http://www.afwing.com/intro/yak7.htm)
-  - [Yakovlev Yak-7 description on
-    aviation.ru](https://web.archive.org/web/20130430162446/http://www.aviation.ru/Yak/#7)
+  - [Yakovlev Yak-7 description on aviation.ru](https://web.archive.org/web/20130430162446/http://www.aviation.ru/Yak/#7)
   - [Yakovlev fighters](http://www.wio.ru/tacftr/yak.htm)
 
-[Category:蘇聯戰鬥機](https://zh.wikipedia.org/wiki/Category:蘇聯戰鬥機 "wikilink")
-[Category:雅克設計局航空器](https://zh.wikipedia.org/wiki/Category:雅克設計局航空器 "wikilink")
-[Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")
+[Category:蘇聯戰鬥機](https://zh.wikipedia.org/wiki/Category:蘇聯戰鬥機 "wikilink") [Category:雅克設計局航空器](https://zh.wikipedia.org/wiki/Category:雅克設計局航空器 "wikilink") [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")

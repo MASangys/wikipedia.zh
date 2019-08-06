@@ -17,8 +17,6 @@
 
   - [歌曲列表](http://www.kuwo.cn/album/527/)
 
-[Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink")
-[Category:劉德華音樂專輯](https://zh.wikipedia.org/wiki/Category:劉德華音樂專輯 "wikilink")
-[Category:主題曲](https://zh.wikipedia.org/wiki/Category:主題曲 "wikilink")
+[Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink") [Category:劉德華音樂專輯](https://zh.wikipedia.org/wiki/Category:劉德華音樂專輯 "wikilink") [Category:主題曲](https://zh.wikipedia.org/wiki/Category:主題曲 "wikilink")
 
 1.  [夏日Fiesta](http://www.kuwo.cn/album/527/)

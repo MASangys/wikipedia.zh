@@ -368,9 +368,4 @@
 
   - [TVB8](../Page/TVB8.md "wikilink")
 
-[Category:聯利媒體電視頻道](https://zh.wikipedia.org/wiki/Category:聯利媒體電視頻道 "wikilink")
-[Category:台灣已停播的電視頻道](https://zh.wikipedia.org/wiki/Category:台灣已停播的電視頻道 "wikilink")
-[Category:2013年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2013年成立的电视台或电视频道 "wikilink")
-[Category:2017年停播的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2017年停播的電視台或電視頻道 "wikilink")
-[Category:2013年台灣建立](https://zh.wikipedia.org/wiki/Category:2013年台灣建立 "wikilink")
-[Category:2017年台灣廢除](https://zh.wikipedia.org/wiki/Category:2017年台灣廢除 "wikilink")
+[Category:聯利媒體電視頻道](https://zh.wikipedia.org/wiki/Category:聯利媒體電視頻道 "wikilink") [Category:台灣已停播的電視頻道](https://zh.wikipedia.org/wiki/Category:台灣已停播的電視頻道 "wikilink") [Category:2013年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2013年成立的电视台或电视频道 "wikilink") [Category:2017年停播的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2017年停播的電視台或電視頻道 "wikilink") [Category:2013年台灣建立](https://zh.wikipedia.org/wiki/Category:2013年台灣建立 "wikilink") [Category:2017年台灣廢除](https://zh.wikipedia.org/wiki/Category:2017年台灣廢除 "wikilink")

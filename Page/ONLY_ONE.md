@@ -1,15 +1,11 @@
-《**ONLY
-ONE**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第1枚正規韓語專輯。於2010年2月3日發行。唱片公司為[NH
-Media](../Page/NH_Media.md "wikilink")。
+《**ONLY ONE**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第1枚正規韓語專輯。於2010年2月3日發行。唱片公司為[NH Media](../Page/NH_Media.md "wikilink")。
 
 ## 概要
 
-  - 《天旋地轉（빙글빙글）》為此專輯的主打曲目，此曲往後成為U-KISS第一張原創日語專輯《[A Shared
-    Dream](../Page/A_Shared_Dream.md "wikilink")》的收錄曲。
+  - 《天旋地轉（빙글빙글）》為此專輯的主打曲目，此曲往後成為U-KISS第一張原創日語專輯《[A Shared Dream](../Page/A_Shared_Dream.md "wikilink")》的收錄曲。
   - 新曲《你說什麼》於2010年4月15日配信發行。
   - 此專輯是成員[基燮加入後首張正規專輯](https://zh.wikipedia.org/wiki/李基燮 "wikilink")。
-  - 除了新曲，此專輯更收錄U-KISS第1枚迷你專輯「[New
-    Generation](https://zh.wikipedia.org/wiki/New_Generation "wikilink")」至第3枚迷你專輯「[CONTIUKISS](https://zh.wikipedia.org/wiki/CONTIUKISS "wikilink")」多首曲目的Remix版本，包括主打曲目《不再年幼》、《喜歡你》、《好欺負嗎》等。
+  - 除了新曲，此專輯更收錄U-KISS第1枚迷你專輯「[New Generation](https://zh.wikipedia.org/wiki/New_Generation "wikilink")」至第3枚迷你專輯「[CONTIUKISS](https://zh.wikipedia.org/wiki/CONTIUKISS "wikilink")」多首曲目的Remix版本，包括主打曲目《不再年幼》、《喜歡你》、《好欺負嗎》等。
 
 ## 收錄內容
 
@@ -36,7 +32,4 @@ Media](../Page/NH_Media.md "wikilink")。
 13. 天旋地轉 (Instrumental)
 14. 你說什麼 (Instrumental)
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:U-KISS音樂專輯](https://zh.wikipedia.org/wiki/Category:U-KISS音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2011年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:U-KISS音樂專輯](https://zh.wikipedia.org/wiki/Category:U-KISS音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2011年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon專輯週榜冠軍作品 "wikilink")

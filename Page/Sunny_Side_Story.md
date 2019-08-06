@@ -1,7 +1,4 @@
-《**Sunny Side
-Story**》是[聲優](../Page/聲優.md "wikilink")[戶松遥的第](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")2張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2013年1月16日由[Music
-Ray'n
-Inc.發行](https://zh.wikipedia.org/wiki/Music_Ray'n_Inc. "wikilink")。
+《**Sunny Side Story**》是[聲優](../Page/聲優.md "wikilink")[戶松遥的第](https://zh.wikipedia.org/wiki/戶松遥 "wikilink")2張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2013年1月16日由[Music Ray'n Inc.發行](https://zh.wikipedia.org/wiki/Music_Ray'n_Inc. "wikilink")。
 
 ## 收錄曲
 
@@ -41,5 +38,4 @@ Inc.發行](https://zh.wikipedia.org/wiki/Music_Ray'n_Inc. "wikilink")。
 
   - [戶松遥 Special website](http://www.tomatsuharuka.com/)
 
-[Category:戶松遙音樂專輯](https://zh.wikipedia.org/wiki/Category:戶松遙音樂專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
+[Category:戶松遙音樂專輯](https://zh.wikipedia.org/wiki/Category:戶松遙音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")

@@ -10,10 +10,4 @@
 
   - [Battle.net魔獸世界故事介紹](http://tw.battle.net/wow/zh/game/the-story-of-warcraft/chapter2/)
 
-[Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink")
-[Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:魔兽系列电子游戏](https://zh.wikipedia.org/wiki/Category:魔兽系列电子游戏 "wikilink")
-[Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink")
+[Category:1996年电子游戏](https://zh.wikipedia.org/wiki/Category:1996年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:即时战略游戏](https://zh.wikipedia.org/wiki/Category:即时战略游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:魔兽系列电子游戏](https://zh.wikipedia.org/wiki/Category:魔兽系列电子游戏 "wikilink") [Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink")

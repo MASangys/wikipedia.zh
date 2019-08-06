@@ -1,6 +1,4 @@
-《**CROSSANGE
-天使與龍的輪舞**》（）是由[日昇動畫](../Page/日昇動畫.md "wikilink")與[國王唱片](../Page/國王唱片.md "wikilink")合作推出的原創電視動畫作品，是一部以主人公安琪為軸，描寫少女們與龍戰鬥，在魔法世界中的高科技機械人碰撞\[1\]。動畫於2014年10月至2015年3月播出。另在Comic
-Walker線上漫畫網站也同步發表由[竹下堅次朗](../Page/竹下堅次朗.md "wikilink")作畫的漫畫。
+《**CROSSANGE 天使與龍的輪舞**》（）是由[日昇動畫](../Page/日昇動畫.md "wikilink")與[國王唱片](../Page/國王唱片.md "wikilink")合作推出的原創電視動畫作品，是一部以主人公安琪為軸，描寫少女們與龍戰鬥，在魔法世界中的高科技機械人碰撞\[1\]。動畫於2014年10月至2015年3月播出。另在Comic Walker線上漫畫網站也同步發表由[竹下堅次朗](../Page/竹下堅次朗.md "wikilink")作畫的漫畫。
 
 ## 故事簡介
 
@@ -41,11 +39,9 @@ Walker線上漫畫網站也同步發表由[竹下堅次朗](../Page/竹下堅次
 
     於第3話因安琪的血滴落由母親所贈、屬於班鳩皇家的戒指而覺醒，現出本來的姿態。
 
-    於第11話，安琪在機艙內詠唱「歌」令戒指發出光芒，打開了機體最後的封印，使機體轉變為金黃色並於兩肩部展開能發射高輸出力的次元共鳴兵器「收斂時空砲（Discord
-    phaser）」。
+    於第11話，安琪在機艙內詠唱「歌」令戒指發出光芒，打開了機體最後的封印，使機體轉變為金黃色並於兩肩部展開能發射高輸出力的次元共鳴兵器「收斂時空砲（Discord phaser）」。
 
-    第13話確認機體能透過轉變機身顏色來使用不同的武裝或發動能力。在「」下，機體會轉化為紅色，並能使用超長的光束軍刀和展開光之屏障；在「」下，機體會轉化為藍色，並能發動類似瞬間移動的「次元跳躍」能力；而在「」下，機體會轉化為金色，此為使用「收斂時空砲（Discord
-    phaser）」所必備的模式。
+    第13話確認機體能透過轉變機身顏色來使用不同的武裝或發動能力。在「」下，機體會轉化為紅色，並能使用超長的光束軍刀和展開光之屏障；在「」下，機體會轉化為藍色，並能發動類似瞬間移動的「次元跳躍」能力；而在「」下，機體會轉化為金色，此為使用「收斂時空砲（Discord phaser）」所必備的模式。
 
     第16话确定其有着疑似自我再生的特殊能力，是七台拉格納美露之一。
 
@@ -59,9 +55,7 @@ Walker線上漫畫網站也同步發表由[竹下堅次朗](../Page/竹下堅次
 
     恩布利歐的座机。七台拉格納美露之一，是在戰爭後期時所製造的「絕對兵器」。機體顏色为黑底紫條紋。同樣可以使用次元共鳴兵器「收斂時空砲」，安布利歐用此杀死了朱利奥。事实上是恩布里奥真身所在。最終話被安琪所駕駛維爾基斯之收斂時空砲轟剩上半身後，以大型光束軍刀徹底摧毀。
 
-    機體名稱Hysterica源自[古希臘語](https://zh.wikipedia.org/wiki/古希臘語 "wikilink")"
-    (ὑστέρα)"(hystera
-    [子宮](https://zh.wikipedia.org/wiki/子宮 "wikilink"))，與恩布利歐Embryo([胚胎](https://zh.wikipedia.org/wiki/胚胎 "wikilink"))相應。
+    機體名稱Hysterica源自[古希臘語](https://zh.wikipedia.org/wiki/古希臘語 "wikilink")" (ὑστέρα)"(hystera [子宮](https://zh.wikipedia.org/wiki/子宮 "wikilink"))，與恩布利歐Embryo([胚胎](https://zh.wikipedia.org/wiki/胚胎 "wikilink"))相應。
 
 {{-}}
 
@@ -115,8 +109,7 @@ Walker線上漫畫網站也同步發表由[竹下堅次朗](../Page/竹下堅次
 
     最終話在由恩布利歐遙控的狀態下被薩莉亞所駕駛的埃及艷后徹底摧毀。
 
-    機體名稱來源:
-    [大英帝國的](https://zh.wikipedia.org/wiki/大英帝國 "wikilink")[維多利亞女皇](https://zh.wikipedia.org/wiki/維多利亞女皇 "wikilink")。
+    機體名稱來源: [大英帝國的](https://zh.wikipedia.org/wiki/大英帝國 "wikilink")[維多利亞女皇](https://zh.wikipedia.org/wiki/維多利亞女皇 "wikilink")。
 
 {{-}}
 
@@ -164,8 +157,7 @@ Walker線上漫畫網站也同步發表由[竹下堅次朗](../Page/竹下堅次
 
 ### 帕拉美露（Para-mail）
 
-源自拉格納美露的人型機械，與拉格納美露一樣具備變形機構，是亞捷納爾用來對抗龍的兵器。
-被視為諾瑪的棺材，因為“早晚都要死在裡面”，所以高度容許駕駛員的個性化改裝。
+源自拉格納美露的人型機械，與拉格納美露一樣具備變形機構，是亞捷納爾用來對抗龍的兵器。 被視為諾瑪的棺材，因為“早晚都要死在裡面”，所以高度容許駕駛員的個性化改裝。
 
   -
 
@@ -290,9 +282,7 @@ Walker線上漫畫網站也同步發表由[竹下堅次朗](../Page/竹下堅次
 <!-- end list -->
 
   -
-    與人類為敵的生物。全稱為「**D**imensional **R**ift **A**ttuned **G**argantuan
-    **O**rganic
-    **N**eototypes（穿越次元並侵略世界的異界巨大生物）」，簡稱「龍（DRAGON）」。出現時空間門（特異點）會打開。多數個體為飛龍，亦有少數是地龍。肉食性生物，會捕食人類。被凍結後會被人類回收。
+    與人類為敵的生物。全稱為「**D**imensional **R**ift **A**ttuned **G**argantuan **O**rganic **N**eototypes（穿越次元並侵略世界的異界巨大生物）」，簡稱「龍（DRAGON）」。出現時空間門（特異點）會打開。多數個體為飛龍，亦有少數是地龍。肉食性生物，會捕食人類。被凍結後會被人類回收。
     由於每隻個體的體格及攻擊力的差別較大，故給予不同級別作分類，級別的名稱則來自[帆船](../Page/帆船.md "wikilink")的種類。現時出現的有[加利恩](../Page/加利恩帆船.md "wikilink")\[6\]級、[布里格](../Page/雙桅橫帆船.md "wikilink")\[7\]級、[斯庫納](https://zh.wikipedia.org/wiki/雙桅縱帆船 "wikilink")\[8\]級及[弗里蓋特級](../Page/巡防艦.md "wikilink")。加利恩級的大型種會以固有魔法陣展開防禦壁及發動特殊攻擊。假若出現阿爾澤納爾的人並未遭遇的新個體，該新個體會被稱為「」，無論是成功討伐或回收戰鬥記錄都會使報酬上升。
     其叫声可以让玛娜精神混乱，但对诺玛无效。这就是为什么要让诺玛去和龙战斗。
     第15话确认龙是由原始地球上的人為適應受到汙染的環境转化而来的。其中大型的龍是由男性變成（可能無法變回人形），女性則可以在小型龍和人形之間變化。至於凍結後被人類回收的龍，事實是會取出體內的鑨結晶，用以補充支撐瑪娜世界的能量來源－－原初之龍·奥拉其身上的能量。
@@ -359,8 +349,7 @@ Walker線上漫畫網站也同步發表由[竹下堅次朗](../Page/竹下堅次
 ### 技術、兵器
 
   -
-    本作中登場的可變人型機動兵器的總稱，能切換至戰鬥機型態「」及人型型態「」。駕駛者被稱為「」\[9\]。考慮到長時間的行動及排泄的便利性，鎧騎士的戰鬥服（Rider
-    Suit，通稱為騎士服）會露出胴體前面及臀部。
+    本作中登場的可變人型機動兵器的總稱，能切換至戰鬥機型態「」及人型型態「」。駕駛者被稱為「」\[9\]。考慮到長時間的行動及排泄的便利性，鎧騎士的戰鬥服（Rider Suit，通稱為騎士服）會露出胴體前面及臀部。
     駕駛艙採用了重型機車的形式，駕駛者操作機體時需採取類似騎重機時的前傾姿勢式。戰鬥機型態時駕駛者會暴露於外部空氣，而變形至人型型態時駕駛者則會被周圍的裝甲包裹並收納至機體內部（但是並非完全密閉，所以一般帕拉美露無法進行水下戰鬥）。鎧騎士的戰鬥服在腰部有一纜索，能與機體進行有線連接，騎士服上亦有配備槍械等武器。
     阿爾澤納爾的所有帕拉美露皆於機體腕部裝備了對龍用的固定武裝「」，且會配備標準的攜帶武器及「對龍用突擊步槍」。\[10\]
     為防止逃亡，機體出擊時只搭載了足夠一次出擊份量的燃料，出現逃亡者時僚機能追蹤並擊落該機。
@@ -489,9 +478,7 @@ Walker線上漫畫網站也同步發表由[竹下堅次朗](../Page/竹下堅次
   -
 
       -
-        作詞、主唱：[水樹奈奈](../Page/水樹奈奈.md "wikilink")，
-        作曲：吉木絵里子，編曲：[藤間仁](../Page/藤間仁.md "wikilink")（[Elements
-        Garden](../Page/Elements_Garden.md "wikilink")）
+        作詞、主唱：[水樹奈奈](../Page/水樹奈奈.md "wikilink")， 作曲：吉木絵里子，編曲：[藤間仁](../Page/藤間仁.md "wikilink")（[Elements Garden](../Page/Elements_Garden.md "wikilink")）
 
 :;「[禁斷的逆戰](../Page/禁斷的逆戰.md "wikilink")（）」（第25話）
 
@@ -993,9 +980,7 @@ CROSSANGE 天使與龍的學園
 
 ### 電玩軟件
 
-對應[PS
-Vita的電玩軟件](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")《CROSSANGE
-天使與龍的輪舞tr.》於2015年5月28日發售，以娜奧米作為遊戲主角，遊戲類型為3D動作射擊類，由[萬代南夢宮娛樂發行](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")
+對應[PS Vita的電玩軟件](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")《CROSSANGE 天使與龍的輪舞tr.》於2015年5月28日發售，以娜奧米作為遊戲主角，遊戲類型為3D動作射擊類，由[萬代南夢宮娛樂發行](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")
 
 並參戰PS4\&PSVita的《[超級機器人大戰V](../Page/超級機器人大戰V.md "wikilink")》以及新作《[超級機器人大戰X](../Page/超級機器人大戰X.md "wikilink")》
 
@@ -1008,18 +993,9 @@ Vita的電玩軟件](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")《CROSSAN
   -
   - [ComicWalker CROSSANGE](http://comic-walker.com/special/crossange/)
 
-  - [ComicWalker CROSSANGE
-    天使與龍的圓舞](http://comic-walker.com/contents/detail/KDCW_CW01000037030000_68/)
+  - [ComicWalker CROSSANGE 天使與龍的圓舞](http://comic-walker.com/contents/detail/KDCW_CW01000037030000_68/)
 
-[Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
-[Category:龍題材動畫](https://zh.wikipedia.org/wiki/Category:龍題材動畫 "wikilink")
-[Category:公主主角題材動畫](https://zh.wikipedia.org/wiki/Category:公主主角題材動畫 "wikilink")
-[Category:歧視與差別待遇題材作品](https://zh.wikipedia.org/wiki/Category:歧視與差別待遇題材作品 "wikilink")
-[Category:平行世界題材動畫](https://zh.wikipedia.org/wiki/Category:平行世界題材動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink") [Category:龍題材動畫](https://zh.wikipedia.org/wiki/Category:龍題材動畫 "wikilink") [Category:公主主角題材動畫](https://zh.wikipedia.org/wiki/Category:公主主角題材動畫 "wikilink") [Category:歧視與差別待遇題材作品](https://zh.wikipedia.org/wiki/Category:歧視與差別待遇題材作品 "wikilink") [Category:平行世界題材動畫](https://zh.wikipedia.org/wiki/Category:平行世界題材動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 

@@ -1,27 +1,18 @@
-《**GUNDAM Reconguista in
-G**》（，）是一部由[富野由悠季](../Page/富野由悠季.md "wikilink")執导、2014年10月2日由[每日放送](../Page/每日放送.md "wikilink")首播的日本[电视动画作品](https://zh.wikipedia.org/wiki/电视动画 "wikilink")。
+《**GUNDAM Reconguista in G**》（，）是一部由[富野由悠季](../Page/富野由悠季.md "wikilink")執导、2014年10月2日由[每日放送](../Page/每日放送.md "wikilink")首播的日本[电视动画作品](https://zh.wikipedia.org/wiki/电视动画 "wikilink")。
 
 ## 概述
 
-本作品為了包含《SD鋼彈FORCE》與《SD
-鋼彈三國傳BraveBattleWarriors》在內的[《机动战士GUNDAM》系列第](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")16部电视动画作品（未算入独立小说、游戏、剧场版、OVA）。作为GUNDAM系列35周年的庆祝活动之一，本作也是日本电视动画[《机动战士GUNDAM》系列](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")[首部作品的原作者兼导演富野由悠季自](../Page/機動戰士GUNDAM.md "wikilink")1999年《[∀GUNDAM](../Page/∀GUNDAM.md "wikilink")》以來，再度执导的GUNDAM系列電視動畫新作。\[1\]在10月開播之前，8月與9月還將分別於電影院以及網路進行前3集特別編輯版本的先行公開\[2\]。10月開播時，將前兩話組合在一起播放。
+本作品為了包含《SD鋼彈FORCE》與《SD 鋼彈三國傳BraveBattleWarriors》在內的[《机动战士GUNDAM》系列第](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")16部电视动画作品（未算入独立小说、游戏、剧场版、OVA）。作为GUNDAM系列35周年的庆祝活动之一，本作也是日本电视动画[《机动战士GUNDAM》系列](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")[首部作品的原作者兼导演富野由悠季自](../Page/機動戰士GUNDAM.md "wikilink")1999年《[∀GUNDAM](../Page/∀GUNDAM.md "wikilink")》以來，再度执导的GUNDAM系列電視動畫新作。\[1\]在10月開播之前，8月與9月還將分別於電影院以及網路進行前3集特別編輯版本的先行公開\[2\]。10月開播時，將前兩話組合在一起播放。
 
-本作原案為GUNDAM ACE
-2010年12月所發表的短篇小說《希冀啟動的首都G之物語》（），是一個以[轨道电梯為主要世界觀](https://zh.wikipedia.org/wiki/轨道电梯 "wikilink")，而會跳脫過去自身所創作以[宇宙殖民地為指標之](../Page/宇宙殖民地_\(GUNDAM世界\).md "wikilink")[宇宙世紀](../Page/宇宙世紀.md "wikilink")的故事\[3\]。2014年3月20日，[BANDAI在日本](https://zh.wikipedia.org/wiki/BANDAI "wikilink")[東京都](../Page/東京都.md "wikilink")[御台場](../Page/御台場.md "wikilink")所舉行的機動戰士GUNDAM35周年發表會上正式發表了本作將於2014年秋天公開的消息，導演富野並在會上說明其標題命名根據：「Reconguista」是從西班牙語「reconquista」（[收復失地運動](../Page/收復失地運動.md "wikilink")）所轉化；而「G」指的既是GUNDAM、也是大地（=GROUND），同時也是日文的「元氣」（=GENKI，活力之意）\[4\]。
+本作原案為GUNDAM ACE 2010年12月所發表的短篇小說《希冀啟動的首都G之物語》（），是一個以[轨道电梯為主要世界觀](https://zh.wikipedia.org/wiki/轨道电梯 "wikilink")，而會跳脫過去自身所創作以[宇宙殖民地為指標之](../Page/宇宙殖民地_\(GUNDAM世界\).md "wikilink")[宇宙世紀](../Page/宇宙世紀.md "wikilink")的故事\[3\]。2014年3月20日，[BANDAI在日本](https://zh.wikipedia.org/wiki/BANDAI "wikilink")[東京都](../Page/東京都.md "wikilink")[御台場](../Page/御台場.md "wikilink")所舉行的機動戰士GUNDAM35周年發表會上正式發表了本作將於2014年秋天公開的消息，導演富野並在會上說明其標題命名根據：「Reconguista」是從西班牙語「reconquista」（[收復失地運動](../Page/收復失地運動.md "wikilink")）所轉化；而「G」指的既是GUNDAM、也是大地（=GROUND），同時也是日文的「元氣」（=GENKI，活力之意）\[4\]。
 
-本作的舞台由於不同於既往系列，因此並非使用「宇宙世紀」，而是改用「復新世紀」(Regild Century,
-R.C.)，是接續宇宙世紀的新世紀\[5\]。角色设计为曾经制作过《[-{zh-cn:返乡战士;
-zh-tw:極限戰士;
-zh-hk:帝皇戰紀;}-](https://zh.wikipedia.org/wiki/返乡战士 "wikilink")》、《[交响诗篇](../Page/交响诗篇.md "wikilink")》等作品，并负责《[机动战士GUNDAM
-UC](https://zh.wikipedia.org/wiki/机动战士GUNDAM_UC "wikilink")》[原画](../Page/原画.md "wikilink")的吉田健一\[6\]。
+本作的舞台由於不同於既往系列，因此並非使用「宇宙世紀」，而是改用「復新世紀」(Regild Century, R.C.)，是接續宇宙世紀的新世紀\[5\]。角色设计为曾经制作过《[-{zh-cn:返乡战士; zh-tw:極限戰士; zh-hk:帝皇戰紀;}-](https://zh.wikipedia.org/wiki/返乡战士 "wikilink")》、《[交响诗篇](../Page/交响诗篇.md "wikilink")》等作品，并负责《[机动战士GUNDAM UC](https://zh.wikipedia.org/wiki/机动战士GUNDAM_UC "wikilink")》[原画](../Page/原画.md "wikilink")的吉田健一\[6\]。
 
 ## 故事簡介
 
-宇宙移民與宇宙戰爭的歷史—宇宙世紀（UC）終結後，時光飛逝，人們迎來新的歷史復新世紀（RC，Regild
-Century），並開始繁榮與和平的生活。
+宇宙移民與宇宙戰爭的歷史—宇宙世紀（UC）終結後，時光飛逝，人們迎來新的歷史復新世紀（RC，Regild Century），並開始繁榮與和平的生活。
 
-RC1014年，聳立大地、連接地球和宇宙的軌道天梯「中樞塔」，從宇宙中為人類帶來作為地球能量之源的光子電池（Photon
-Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝爾利・傑納姆在初次飛行的時候遭到所屬不明的MS「G-Self」攻擊。貝爾利使用作業用MS「雷克汀」與其交戰並成功捕獲。然而「G-Self」的駕駛者，名為艾妲·雷哈頓的宇宙海賊少女卻對貝爾利產生某種感覺，不滿足特定條件便不會啟動的「G-Self」亦對貝爾利產生某種反應。宇宙海賊和艾妲的目的、被「G-Self」選中的貝爾利的命運、令RC全體動搖的真相――這一切只不過是Reconguista的開始。
+RC1014年，聳立大地、連接地球和宇宙的軌道天梯「中樞塔」，從宇宙中為人類帶來作為地球能量之源的光子電池（Photon Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝爾利・傑納姆在初次飛行的時候遭到所屬不明的MS「G-Self」攻擊。貝爾利使用作業用MS「雷克汀」與其交戰並成功捕獲。然而「G-Self」的駕駛者，名為艾妲·雷哈頓的宇宙海賊少女卻對貝爾利產生某種感覺，不滿足特定條件便不會啟動的「G-Self」亦對貝爾利產生某種反應。宇宙海賊和艾妲的目的、被「G-Self」選中的貝爾利的命運、令RC全體動搖的真相――這一切只不過是Reconguista的開始。
 
 ## 登场人物
 
@@ -43,8 +34,7 @@ Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝�
 
   -
     突然搭乘G-SELF出現在地球的謎之少女。
-    因为缺氧而大脑受损的她，因為是在星期一被中樞衛隊的德蘭森上尉带回，所以取名為**曼地**（Monday），本名**娜拉雅‧亞古柏爾**（Raraiya
-    Akuparl）。
+    因为缺氧而大脑受损的她，因為是在星期一被中樞衛隊的德蘭森上尉带回，所以取名為**曼地**（Monday），本名**娜拉雅‧亞古柏爾**（Raraiya Akuparl）。
     是可以啟動G-SELF的其中一人。
 
 <!-- end list -->
@@ -290,11 +280,9 @@ Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝�
           - 光束軍刀
         與光束步槍同為重金屬粒子的運用，以特定範圍的磁場拘束米加粒子並收束成細長的刀刃狀，可以調整出力並有著驚人切斷能力的近距離戰鬥用兵器。配置數量為兩把。
           - 光束步槍
-        鋼彈
-        G-SELF的基本裝備之一，原理為將米加粒子收束並加速射出，擁有極為強大破壞力的中距離用射擊兵器。有亞美利亞製造與月球製造，樣式性能幾乎一樣。
+        鋼彈 G-SELF的基本裝備之一，原理為將米加粒子收束並加速射出，擁有極為強大破壞力的中距離用射擊兵器。有亞美利亞製造與月球製造，樣式性能幾乎一樣。
           - 盾牌
-        同為鋼彈
-        G-SELF的基本裝備之一，最初登場時正是配置此盾牌。與光束步槍一樣，有亞美利亞製造（易損毀的消耗品）與月球製造（配備火神砲並可展開小型I立場吸收光束攻擊）兩種樣式。使用完全背包時配置維納斯星團製造的盾牌（其表面可分離在周圍展開浮游盾）。
+        同為鋼彈 G-SELF的基本裝備之一，最初登場時正是配置此盾牌。與光束步槍一樣，有亞美利亞製造（易損毀的消耗品）與月球製造（配備火神砲並可展開小型I立場吸收光束攻擊）兩種樣式。使用完全背包時配置維納斯星團製造的盾牌（其表面可分離在周圍展開浮游盾）。
 
 \*; 武裝背包：
 
@@ -302,8 +290,7 @@ Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝�
 
       -
         **大氣圈用背包**(Atmospheric Pack)
-        為高機動標準型背包。最初跟著鋼彈
-        G-SELF一同登場的裝備，在造型方面顯得簡潔俐落，也由於此裝備的體積不大，因此就算著裝了也依舊在整體上給人一種輕盈的感覺，然而在性能方面，其兩對高出力推進器和八對子推進器賦予了本機大氣圈內極高的機動性能，且能夠輕易的實現大氣圈內飛行。機翼連同兩對主推進器能夠上下改變作用角度，而兩側主翼能夠在非使用狀態時向後收納。設定中主翼上的鐳射筴艙可以自行搜索敵機並進行攻擊，但在劇中沒有使用。此裝備似乎為多華申加解析了「漢密士薔薇設計圖」內的設計資料而製成的裝備，但具體詳細不明。裝備的G-SELF機體不會變色。
+        為高機動標準型背包。最初跟著鋼彈 G-SELF一同登場的裝備，在造型方面顯得簡潔俐落，也由於此裝備的體積不大，因此就算著裝了也依舊在整體上給人一種輕盈的感覺，然而在性能方面，其兩對高出力推進器和八對子推進器賦予了本機大氣圈內極高的機動性能，且能夠輕易的實現大氣圈內飛行。機翼連同兩對主推進器能夠上下改變作用角度，而兩側主翼能夠在非使用狀態時向後收納。設定中主翼上的鐳射筴艙可以自行搜索敵機並進行攻擊，但在劇中沒有使用。此裝備似乎為多華申加解析了「漢密士薔薇設計圖」內的設計資料而製成的裝備，但具體詳細不明。裝備的G-SELF機體不會變色。
 
 <!-- end list -->
 
@@ -352,18 +339,12 @@ Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝�
       -
         **完全背包**(Perfect Pack)
         由維納斯星團開發，極像是宇宙用背包的升級版本。內藏數種特殊武器，如光子魚雷(反物質飛彈，透過低溫對消以消滅敵人，被擊中的東西會直接消失，而消滅反應所產生的能量會被G-Self回收)、光子探測(散佈黑煙粒子將一定範圍內的光吸收掉，以確認附近有沒有光子反應正，以搜索敵人)、全方位光束(以G-SELF為中心向全方位發射低出力光束，以用於突圍)、牽引光束(發射光束連接對方機體，雖然沒有殺傷力，但能讓敵人不得動及能與對方通信)，當背包變換模式時可發揮過往所有（六部）背包同等性能，裝備背包時會裝備額外的裝甲，型號為BPMF-01。裝備的G-SELF機體不會變色，但當變換模式時會轉為不同顏色。
-        **大氣圈模式**(Atmospheric
-        Mode):將機翼水平展開，以產生推進揚力以助大氣圈內飛行。使用該模式時G-SELF機體不會變色。
-        **宇宙模式**(Space
-        Mode):將機翼向後集中推力以提高在宇宙時的機動性能，此模式為完全背包平時的模式。使用該模式時G-SELF機體不會變色。
-        **反射模式**(Reflector
-        Mode):將機翼向左右兩端展開，機翼兩側張開後會出現虚擬反射板，將敵機的光束兵器無效化。使用該模式時G-SELF機體全身會轉為紫色。
-        **機巧模式**(Tricky
-        Mode):將背包上端的翼狀零件分離並作出物理攻擊，類似於感應導彈。使用該模式時G-SELF機體不會變色。
-        **高扭力模式**(Torque
-        Mode):使用時四肢追加的裝甲產生出I力場，利用I力場強化機體關節及格鬥時的衝擊力，並可只使用於手部或腳部。使用該模式時G-SELF機體全身會轉為綠色。
-        **突擊模式**(Assault
-        Mode):將機翼向前伸展，機翼兩側張開並變成高出力光束砲，使用該模式時可單機突入大氣層。使用該模式時G-SELF機體全身會轉為紅色。
+        **大氣圈模式**(Atmospheric Mode):將機翼水平展開，以產生推進揚力以助大氣圈內飛行。使用該模式時G-SELF機體不會變色。
+        **宇宙模式**(Space Mode):將機翼向後集中推力以提高在宇宙時的機動性能，此模式為完全背包平時的模式。使用該模式時G-SELF機體不會變色。
+        **反射模式**(Reflector Mode):將機翼向左右兩端展開，機翼兩側張開後會出現虚擬反射板，將敵機的光束兵器無效化。使用該模式時G-SELF機體全身會轉為紫色。
+        **機巧模式**(Tricky Mode):將背包上端的翼狀零件分離並作出物理攻擊，類似於感應導彈。使用該模式時G-SELF機體不會變色。
+        **高扭力模式**(Torque Mode):使用時四肢追加的裝甲產生出I力場，利用I力場強化機體關節及格鬥時的衝擊力，並可只使用於手部或腳部。使用該模式時G-SELF機體全身會轉為綠色。
+        **突擊模式**(Assault Mode):將機翼向前伸展，機翼兩側張開並變成高出力光束砲，使用該模式時可單機突入大氣層。使用該模式時G-SELF機體全身會轉為紅色。
 
 <!-- end list -->
 
@@ -374,8 +355,7 @@ Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝�
   -
     艾達於海盜部隊裡的專用機，是G的奧秘之意，以「漢密士薔薇設計圖」製造出來的「G系統」MS。
     搭載了高出力的大型對艦光束步槍，可以變形為MA形態。不過1號機規格來說無法變形，自啟動以來從未變形過MA型態。
-    24話加裝了正裝（フルドレス，Full
-    Dress）推進器，每一個推進器上裝有能擴散光束的攔截式光線（共八個），更換頭部散熱器與大型對艦光束步槍。
+    24話加裝了正裝（フルドレス，Full Dress）推進器，每一個推進器上裝有能擴散光束的攔截式光線（共八個），更換頭部散熱器與大型對艦光束步槍。
 
 <!-- end list -->
 
@@ -384,8 +364,7 @@ Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝�
 <!-- end list -->
 
   -
-    維納斯星團開發的「G系統」最新銳MS，有G的路西法之意，左大腿裝有兩把光束軍刀，後腰間裝備3支大型感應砲－裙甲感應砲（Skirt
-    Funnel）。此感應砲的超級加農砲能用當G-Lucifer的推進器和大型光束軍刀使用，外裝十個光束砲也能變化光束軍刀。在26話娜拉雅發動該機體的月光蝶。
+    維納斯星團開發的「G系統」最新銳MS，有G的路西法之意，左大腿裝有兩把光束軍刀，後腰間裝備3支大型感應砲－裙甲感應砲（Skirt Funnel）。此感應砲的超級加農砲能用當G-Lucifer的推進器和大型光束軍刀使用，外裝十個光束砲也能變化光束軍刀。在26話娜拉雅發動該機體的月光蝶。
     在茲特研究所的某區收納庫裡，被馬妮與蘿蕾度劫持成為捕獲一號機。駕駛艙的規格跟G-SELF一樣是通用型，非戰鬥員也能駕駛。
     駕駛艙裡有三個座位，前一位後兩位（前座是主要機身操作；後座是負責感應砲系統操作）。後面設有衛浴設備；前面能在太空直接與MS的駕駛艙無縫隙地連結。
 
@@ -804,8 +783,7 @@ Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝�
 <!-- end list -->
 
   - 「」（第14－26話）
-    作詞：，作曲、編曲：[菅野祐悟](../Page/菅野祐悟.md "wikilink")，主唱：[May
-    J.](../Page/May_J..md "wikilink")
+    作詞：，作曲、編曲：[菅野祐悟](../Page/菅野祐悟.md "wikilink")，主唱：[May J.](../Page/May_J..md "wikilink")
 
 ### 片尾曲
 
@@ -1302,21 +1280,13 @@ Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝�
   - [鋼彈 Reconguista in G每日放送動畫官網](http://www.mbs.jp/greco/)
 
   -
-  - [敢-{}-达 Reconguista in G
-    土豆網中文獨播專區](http://www.tudou.com/albumcover/iU6KdfiaSxo.html)
+  - [敢-{}-达 Reconguista in G 土豆網中文獨播專區](http://www.tudou.com/albumcover/iU6KdfiaSxo.html)
 
-  - [敢-{}-达 Reconguista in G
-    优酷中文独播专区](http://www.youku.com/show_page/id_z21e664b6b01011e3a705.html)
+  - [敢-{}-达 Reconguista in G 优酷中文独播专区](http://www.youku.com/show_page/id_z21e664b6b01011e3a705.html)
 
   -
   -
-[Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
-[Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:宇宙海盜題材動畫](https://zh.wikipedia.org/wiki/Category:宇宙海盜題材動畫 "wikilink")
-[Category:WIT_STUDIO](https://zh.wikipedia.org/wiki/Category:WIT_STUDIO "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink")
+[Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink") [Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:宇宙海盜題材動畫](https://zh.wikipedia.org/wiki/Category:宇宙海盜題材動畫 "wikilink") [Category:WIT_STUDIO](https://zh.wikipedia.org/wiki/Category:WIT_STUDIO "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink")
 
 1.  [ガンダム Gのレコンギスタ](http://www.g-reco.net/)，官方網站。
 
@@ -1326,11 +1296,9 @@ Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝�
 
 4.
 
-5.  [「ガンダム
-    Gのレコンギスタ」特別先行版特製チラシ](http://randal.blog91.fc2.com/blog-entry-2388.html)，官方發行傳單。
+5.  [「ガンダム Gのレコンギスタ」特別先行版特製チラシ](http://randal.blog91.fc2.com/blog-entry-2388.html)，官方發行傳單。
 
 6.
-7.  [『ガンダム
-    Gのレコンギスタ』の「カシーバミコシ」の語源は「河岸場の神輿」か](http://buzz-plus.com/article/2014/11/26/g-reco/)
+7.  [『ガンダム Gのレコンギスタ』の「カシーバミコシ」の語源は「河岸場の神輿」か](http://buzz-plus.com/article/2014/11/26/g-reco/)
 
 8.

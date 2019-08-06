@@ -1,13 +1,10 @@
-《**超級機器人大戰Operation
-Extend**》（）為[南夢宮萬代遊戲以](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[萬普](../Page/萬普.md "wikilink")名義發售的[超級機器人大戰系列](../Page/超級機器人大戰系列.md "wikilink")遊戲。第1章於2013年7月18日在[PlayStation
-Portable上配信](../Page/PlayStation_Portable.md "wikilink")，並於2015年12月24日停止配信。簡稱「機戰OE」「SRWOE」。
+《**超級機器人大戰Operation Extend**》（）為[南夢宮萬代遊戲以](https://zh.wikipedia.org/wiki/南夢宮萬代遊戲 "wikilink")[萬普](../Page/萬普.md "wikilink")名義發售的[超級機器人大戰系列](../Page/超級機器人大戰系列.md "wikilink")遊戲。第1章於2013年7月18日在[PlayStation Portable上配信](../Page/PlayStation_Portable.md "wikilink")，並於2015年12月24日停止配信。簡稱「機戰OE」「SRWOE」。
 
 官方宣傳為「**擴大（Extend）的戰場上，你能夠離開戰鬥嗎……**」。
 
 ## 概要
 
-本系列作是系列中第一次以[電子軟件分發形式發售的專用作品](https://zh.wikipedia.org/wiki/電子軟件分發 "wikilink")。整個劇情共由8章（1章的劇情數約有20話以上）構成，會依序推出下載。另外亦預定有其他副劇情及道具會以Download
-Content的形式追加下載。作為之前系列作中從未有過的要素、還追加有能增加經驗值以及能夠讓改造段數提升等效果的收費項目「部隊零件」、讓玩家可以利用現實的金錢而可以更順利遊玩遊戲。
+本系列作是系列中第一次以[電子軟件分發形式發售的專用作品](https://zh.wikipedia.org/wiki/電子軟件分發 "wikilink")。整個劇情共由8章（1章的劇情數約有20話以上）構成，會依序推出下載。另外亦預定有其他副劇情及道具會以Download Content的形式追加下載。作為之前系列作中從未有過的要素、還追加有能增加經驗值以及能夠讓改造段數提升等效果的收費項目「部隊零件」、讓玩家可以利用現實的金錢而可以更順利遊玩遊戲。
 
 基於盡量增加參戰作品的製作方針、登場角色都只保留各作品的主要角色、作為主軸的劇本雖然也包括各作品的故事及世界觀、但也遭到有意圖的簡化\[1\]。另外無論是主線或輔線，只要過關後，都可以重複選擇遊玩。
 
@@ -35,36 +32,27 @@ Content的形式追加下載。作為之前系列作中從未有過的要素、�
   - [天元突破紅蓮螺巖](https://zh.wikipedia.org/wiki/天元突破紅蓮螺巖 "wikilink")（）
   - [蒼藍流星](../Page/蒼藍流星.md "wikilink")（）
   - [裝甲騎兵](../Page/裝甲騎兵.md "wikilink")（）
-  - [裝甲騎兵 紅肩隊記錄
-    野心的根源](https://zh.wikipedia.org/wiki/裝甲騎兵#《紅肩隊記錄_野心的根源》 "wikilink")（）
-  - E[裝甲騎兵
-    最後的紅肩隊](https://zh.wikipedia.org/wiki/裝甲騎兵#《最後的紅肩隊》 "wikilink")（）
-  - [裝甲騎兵
-    裴爾森密件](https://zh.wikipedia.org/wiki/裝甲騎兵#《裴爾森密件》 "wikilink")（）
+  - [裝甲騎兵 紅肩隊記錄 野心的根源](https://zh.wikipedia.org/wiki/裝甲騎兵#《紅肩隊記錄_野心的根源》 "wikilink")（）
+  - E[裝甲騎兵 最後的紅肩隊](https://zh.wikipedia.org/wiki/裝甲騎兵#《最後的紅肩隊》 "wikilink")（）
+  - [裝甲騎兵 裴爾森密件](https://zh.wikipedia.org/wiki/裝甲騎兵#《裴爾森密件》 "wikilink")（）
   - ☆[絕對無敵](https://zh.wikipedia.org/wiki/絕對無敵 "wikilink")（）
   - ☆[元氣爆發](../Page/元氣爆發.md "wikilink")（）
   - ☆[熱血最強](../Page/熱血最強.md "wikilink")（）
   - ☆[完全勝利](https://zh.wikipedia.org/wiki/完全勝利 "wikilink")（）
-  - [Code Geass
-    反叛的魯路修](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修 "wikilink")（）
+  - [Code Geass 反叛的魯路修](https://zh.wikipedia.org/wiki/Code_Geass_反叛的魯路修 "wikilink")（）
   - E Code Geass 反叛的魯路修R2（）
   - [機動戰士GUNDAM](../Page/機動戰士GUNDAM.md "wikilink")（）
-  - [機動戰士GUNDAM
-    第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")（）
-  - [機動戰士GUNDAM0080
-    口袋裡的戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0080_口袋裡的戰爭 "wikilink")（）
+  - [機動戰士GUNDAM 第08MS小隊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_第08MS小隊 "wikilink")（）
+  - [機動戰士GUNDAM0080 口袋裡的戰爭](https://zh.wikipedia.org/wiki/機動戰士GUNDAM0080_口袋裡的戰爭 "wikilink")（）
   - [機動戰士Z GUNDAM](../Page/機動戰士Z_GUNDAM.md "wikilink")（）
   - [機動戰士GUNDAM ZZ](../Page/機動戰士GUNDAM_ZZ.md "wikilink")（）
-  - [機動戰士GUNDAM
-    馬沙之反擊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_馬沙之反擊 "wikilink")（）
+  - [機動戰士GUNDAM 馬沙之反擊](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_馬沙之反擊 "wikilink")（）
   - [機動武鬥傳G GUNDAM](../Page/機動武鬥傳G_GUNDAM.md "wikilink")（）
   - [新機動戰記GUNDAM W](../Page/新機動戰記GUNDAM_W.md "wikilink")（）
-  - [機動戰士GUNDAM SEED
-    DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")（）
+  - [機動戰士GUNDAM SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")（）
   - [機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")（）
   - [聖戰士丹拜因](https://zh.wikipedia.org/wiki/聖戰士丹拜因 "wikilink")（）
-  - E[New Story of Aura Battler
-    DUNBINE](https://zh.wikipedia.org/wiki/New_Story_of_Aura_Battler_DUNBINE "wikilink")（）
+  - E[New Story of Aura Battler DUNBINE](https://zh.wikipedia.org/wiki/New_Story_of_Aura_Battler_DUNBINE "wikilink")（）
   - [重戰機](../Page/重戰機.md "wikilink")（）
   - ★[索斯機械獸](../Page/索斯機械獸.md "wikilink")（）
   - ★E[機獸新世紀ZERO](https://zh.wikipedia.org/wiki/機獸新世紀ZERO "wikilink")（）
@@ -78,10 +66,8 @@ Content的形式追加下載。作為之前系列作中從未有過的要素、�
   - ☆[獸神萊卡](https://zh.wikipedia.org/wiki/獸神萊卡 "wikilink")（）
   - [真蓋特機器人 世界最後之日](../Page/真蓋特機器人_世界最後之日.md "wikilink")（）
   - [超時空要塞Frontier](https://zh.wikipedia.org/wiki/超時空要塞Frontier "wikilink")（）
-  - [真鐵甲萬能俠
-    衝擊！Z篇](https://zh.wikipedia.org/wiki/真鐵甲萬能俠_衝擊！Z篇 "wikilink")（）
-  - E[魔裝機神 THE LORD OF
-    ELEMENTAL](https://zh.wikipedia.org/wiki/魔裝機神_THE_LORD_OF_ELEMENTAL "wikilink")（）
+  - [真鐵甲萬能俠 衝擊！Z篇](https://zh.wikipedia.org/wiki/真鐵甲萬能俠_衝擊！Z篇 "wikilink")（）
+  - E[魔裝機神 THE LORD OF ELEMENTAL](https://zh.wikipedia.org/wiki/魔裝機神_THE_LORD_OF_ELEMENTAL "wikilink")（）
 
 ### 解說
 
@@ -117,8 +103,7 @@ Content的形式追加下載。作為之前系列作中從未有過的要素、�
   - ZZGUNDAM（機動戰士GUNDAMZZ）
   - \-{zh-hans:神高达;zh-hk:神高達;zh-tw:神威鋼彈;}-（機動武鬥傳GGUNDAM）
   - 飛翼高達零式（新機動戰記GUNDAMW）
-  - [-{zh-hans:强袭自由;zh-hk:突擊自由;zh-tw:攻擊自由;}-GUNDAM](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")（機動戰士GUNDAMSEED
-    DESTINY）
+  - [-{zh-hans:强袭自由;zh-hk:突擊自由;zh-tw:攻擊自由;}-GUNDAM](../Page/ZGMF-X20A_Strike_Freedom.md "wikilink")（機動戰士GUNDAMSEED DESTINY）
   - [00 Raiser](../Page/GN-0000_00_GUNDAM.md "wikilink")（機動戰士GUNDAM00）
   - 丹拜因（聖戰士丹拜因）
   - L-Gaim（重戰機）
@@ -141,11 +126,7 @@ Content的形式追加下載。作為之前系列作中從未有過的要素、�
   - 強化零件交換
     本作中擁有能夠以打敗敵人所得到的素材零件來交換強化零件的「零件交易」功能。
   - 部隊出撃
-    本作中可以組成最多5機組成的部隊、除了單機出擊外，也可以部隊出擊。組隊的機體群也都是固定（例：[RX-78鋼彈](https://zh.wikipedia.org/wiki/RX-78系列機動戰士 "wikilink")、[-{zh-cn:钢加农;
-    zh-tw:鋼加農;
-    zh-hk:鐳射大炮}-](https://zh.wikipedia.org/wiki/RX-77系列機動戰士 "wikilink")、[-{zh-cn:钢坦克;
-    zh-tw:鋼坦克;
-    zh-hk:太空坦克}-](https://zh.wikipedia.org/wiki/RX-75系列機動戰士 "wikilink")、[G戰機](https://zh.wikipedia.org/wiki/G戰機 "wikilink")）、部隊出擊只能在可能的劇本中以部隊方式出擊。戰鬥基本上是由在地圖上呈現的機體負責。隨著氣力上升還可以使出由各機體接續攻擊的「連攜攻撃」。在地圖上呈現的機體也能夠使用指令「交換」而切換機體。經驗值能夠全體共享、補給・修理也適用在部隊中的機體。
+    本作中可以組成最多5機組成的部隊、除了單機出擊外，也可以部隊出擊。組隊的機體群也都是固定（例：[RX-78鋼彈](https://zh.wikipedia.org/wiki/RX-78系列機動戰士 "wikilink")、[-{zh-cn:钢加农; zh-tw:鋼加農; zh-hk:鐳射大炮}-](https://zh.wikipedia.org/wiki/RX-77系列機動戰士 "wikilink")、[-{zh-cn:钢坦克; zh-tw:鋼坦克; zh-hk:太空坦克}-](https://zh.wikipedia.org/wiki/RX-75系列機動戰士 "wikilink")、[G戰機](https://zh.wikipedia.org/wiki/G戰機 "wikilink")）、部隊出擊只能在可能的劇本中以部隊方式出擊。戰鬥基本上是由在地圖上呈現的機體負責。隨著氣力上升還可以使出由各機體接續攻擊的「連攜攻撃」。在地圖上呈現的機體也能夠使用指令「交換」而切換機體。經驗值能夠全體共享、補給・修理也適用在部隊中的機體。
   - 模擬訓練
     滿足特定條件後就能夠解放的劇本。能夠使用主角所屬組織開發的高性能模擬訓練來進行實戰訓練。不僅能夠重複遊玩、透過模擬訓練、也能夠得到敵人的素材零件及金錢。系統中還有《GC/XO》的輔線劇本。
   - 連續任務
@@ -165,9 +146,7 @@ Content的形式追加下載。作為之前系列作中從未有過的要素、�
 
   - [超級機器人大戰OE 官方網站](http://srw-oe.suparobo.jp/)
 
-[Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink")
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
+[Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink") [Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink")
 
 1.
 2.

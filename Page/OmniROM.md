@@ -23,13 +23,11 @@ Om基于niROM旨在：
 
 OmniRom支持以下机型（仅列出更新中的机型，逢星期日更新）
 
-小米：[小米手機5](../Page/小米手機5.md "wikilink")、[小米手機6](../Page/小米手機6.md "wikilink")、小米MIX2、[紅米Note
-4](../Page/紅米Note_4.md "wikilink")
+小米：[小米手機5](../Page/小米手機5.md "wikilink")、[小米手機6](../Page/小米手機6.md "wikilink")、小米MIX2、[紅米Note 4](../Page/紅米Note_4.md "wikilink")
 
 一加：[一加手机5](../Page/一加手机5.md "wikilink")、[一加手机5T](../Page/一加手机5T.md "wikilink")、[一加手机6](../Page/一加手机6.md "wikilink")
 
-索尼：[Sony Xperia XZ](../Page/Sony_Xperia_XZ.md "wikilink")、[Sony Xperia
-XZs](../Page/Sony_Xperia_XZs.md "wikilink")
+索尼：[Sony Xperia XZ](../Page/Sony_Xperia_XZ.md "wikilink")、[Sony Xperia XZs](../Page/Sony_Xperia_XZs.md "wikilink")
 
 摩托罗拉：Moto G5 Plus、Moto G4 Plus
 

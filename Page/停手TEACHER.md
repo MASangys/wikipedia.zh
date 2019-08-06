@@ -7,8 +7,7 @@
 ## 收錄曲
 
 1.  **およしになってねTEACHER**
-      - 作詞: [秋元康](../Page/秋元康.md "wikilink")、作曲・編曲:
-        [佐藤準](https://zh.wikipedia.org/wiki/佐藤準 "wikilink")
+      - 作詞: [秋元康](../Page/秋元康.md "wikilink")、作曲・編曲: [佐藤準](https://zh.wikipedia.org/wiki/佐藤準 "wikilink")
 2.  **テディベアの頃 -少女の香り-**
       - 作詞: 秋元康、作曲・編曲: 佐藤準
           - フロントボーカル: 新田恵利
@@ -16,17 +15,11 @@
 ## 收錄作品
 
   - [目錄的夢想](https://zh.wikipedia.org/wiki/目錄的夢想 "wikilink")
-  - [PANIC THE
-    WORLD](https://zh.wikipedia.org/wiki/PANIC_THE_WORLD "wikilink")
+  - [PANIC THE WORLD](https://zh.wikipedia.org/wiki/PANIC_THE_WORLD "wikilink")
   - [小貓俱樂部 Best](https://zh.wikipedia.org/wiki/小貓俱樂部_Best "wikilink")
-  - [MYこれ\!クション
-    小貓俱樂部BEST](https://zh.wikipedia.org/wiki/MYこれ!クション_小貓俱樂部BEST "wikilink")
+  - [MYこれ\!クション 小貓俱樂部BEST](https://zh.wikipedia.org/wiki/MYこれ!クション_小貓俱樂部BEST "wikilink")
   - [「小貓俱樂部」SINGLES完成](https://zh.wikipedia.org/wiki/小貓俱樂部_SINGLES完成 "wikilink")
-  - [Myこれ\!チョイス 14
-    「夢カタログ」+シングルコレクション](https://zh.wikipedia.org/wiki/目錄的夢想#2008年盤 "wikilink")
-  - [小貓俱樂部大全集 for HiQualityCD 上・下卷
-    限定CD-BOX](https://zh.wikipedia.org/wiki/小貓俱樂部大全集_for_HiQualityCD_上・下卷_限定CD-BOX "wikilink")
+  - [Myこれ\!チョイス 14 「夢カタログ」+シングルコレクション](https://zh.wikipedia.org/wiki/目錄的夢想#2008年盤 "wikilink")
+  - [小貓俱樂部大全集 for HiQualityCD 上・下卷 限定CD-BOX](https://zh.wikipedia.org/wiki/小貓俱樂部大全集_for_HiQualityCD_上・下卷_限定CD-BOX "wikilink")
 
-[Category:小貓俱樂部歌曲](https://zh.wikipedia.org/wiki/Category:小貓俱樂部歌曲 "wikilink")
-[Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink")
-[Category:1985年單曲](https://zh.wikipedia.org/wiki/Category:1985年單曲 "wikilink")
+[Category:小貓俱樂部歌曲](https://zh.wikipedia.org/wiki/Category:小貓俱樂部歌曲 "wikilink") [Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink") [Category:1985年單曲](https://zh.wikipedia.org/wiki/Category:1985年單曲 "wikilink")

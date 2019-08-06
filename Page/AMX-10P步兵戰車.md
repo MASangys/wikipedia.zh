@@ -14,8 +14,7 @@
 
 ## 設計
 
-[Amx10p_75.jpg](https://zh.wikipedia.org/wiki/File:Amx10p_75.jpg "fig:Amx10p_75.jpg")
-AMX-10P採用典型裝甲運兵車/步兵戰車的設計，車身是鋁合金製箱形而最前為銳角，駕駛室在左側並有3個潛望鏡而在中間那個可換為微光夜視鏡，動力室在右側，有一個280匹馬力的水冷式柴油發動機，此發動機除了在AMX-10P在陸上行駛時提供動力外還可以用來帶動一個在車尾的噴水推進器，這令AMX-10P也可以在水中行駛，因此外銷[印尼的AMX](https://zh.wikipedia.org/wiki/印尼 "wikilink")-10P是給[海軍陸戰隊](../Page/海軍陸戰隊.md "wikilink")使用的[兩棲步兵戰車](../Page/兩棲車輛.md "wikilink")。
+[Amx10p_75.jpg](https://zh.wikipedia.org/wiki/File:Amx10p_75.jpg "fig:Amx10p_75.jpg") AMX-10P採用典型裝甲運兵車/步兵戰車的設計，車身是鋁合金製箱形而最前為銳角，駕駛室在左側並有3個潛望鏡而在中間那個可換為微光夜視鏡，動力室在右側，有一個280匹馬力的水冷式柴油發動機，此發動機除了在AMX-10P在陸上行駛時提供動力外還可以用來帶動一個在車尾的噴水推進器，這令AMX-10P也可以在水中行駛，因此外銷[印尼的AMX](https://zh.wikipedia.org/wiki/印尼 "wikilink")-10P是給[海軍陸戰隊](../Page/海軍陸戰隊.md "wikilink")使用的[兩棲步兵戰車](../Page/兩棲車輛.md "wikilink")。
 
 車身中央是一個雙人炮塔，武器為法製20毫米口徑M693機炮和7.62毫米口徑NF-1同軸機槍再加上10發[米蘭反坦克飛彈](../Page/米蘭反坦克飛彈.md "wikilink")的強大火力，車尾是可容納8名士兵並有槍眼可向車外射擊，AMX-10P採用扭力桿式懸掛系統，第1對和第5對車輪有油壓減震器。
 
@@ -68,5 +67,4 @@ AMX-10P採用典型裝甲運兵車/步兵戰車的設計，車身是鋁合金製
 
   - [法国AMX-10P履带式步兵战车](http://www.airforceworld.com/tank/bbzc/bbzc084.htm)
 
-[Category:步兵战车](https://zh.wikipedia.org/wiki/Category:步兵战车 "wikilink")
-[Category:兩棲車輛](https://zh.wikipedia.org/wiki/Category:兩棲車輛 "wikilink")
+[Category:步兵战车](https://zh.wikipedia.org/wiki/Category:步兵战车 "wikilink") [Category:兩棲車輛](https://zh.wikipedia.org/wiki/Category:兩棲車輛 "wikilink")

@@ -21,8 +21,7 @@ translatewiki.net也是[语义wiki站点](https://zh.wikipedia.org/wiki/Semantic
 
 [Translating_the_wiki_way.webm](https://zh.wikipedia.org/wiki/File:Translating_the_wiki_way.webm "fig:Translating_the_wiki_way.webm")
 
-translatewiki.net在2006年6月左右由Niklas
-Laxström开发\[10\]，作为[MediaWiki](../Page/MediaWiki.md "wikilink")所有语言的本地化平台，​​当时被命名为Betawiki\[11\]。
+translatewiki.net在2006年6月左右由Niklas Laxström开发\[10\]，作为[MediaWiki](../Page/MediaWiki.md "wikilink")所有语言的本地化平台，​​当时被命名为Betawiki\[11\]。
 
 除了翻译，它还兼为MediaWiki的[集成开发环境](../Page/集成开发环境.md "wikilink")（2005年的Nukawiki\[12\]），着重于改善[国际化功能](https://zh.wikipedia.org/wiki/国际化 "wikilink")\[13\]。
 
@@ -32,11 +31,9 @@ Laxström开发\[10\]，作为[MediaWiki](../Page/MediaWiki.md "wikilink")所有
 
 2008年4月，它已为MediaWiki及其200个扩展提供了超过100种语言的翻译，“使之成为有史以来翻译最为完全的软件项目之一”，同时还有[FreeCol](../Page/FreeCol.md "wikilink")。此后，虽然是一个独立的志愿者项目\[15\]\[16\]，普遍认为它在很大程度上促成了MediaWiki全球性的成功，以及基于此的[维基媒体基金会](../Page/维基媒体基金会.md "wikilink")项目如[维基百科](../Page/维基百科.md "wikilink")，其提供了超过280种语言的版本\[17\]。
 
-2009年，Niklas
-Laxström的[Google编程之夏项目协助改进了此站点](https://zh.wikipedia.org/wiki/Google编程之夏 "wikilink")\[18\]。2011年引入了校对功能\[19\]。2012年，其为所有维基媒体计划的翻译启用了翻译记忆库引擎\[20\]。
+2009年，Niklas Laxström的[Google编程之夏项目协助改进了此站点](https://zh.wikipedia.org/wiki/Google编程之夏 "wikilink")\[18\]。2011年引入了校对功能\[19\]。2012年，其为所有维基媒体计划的翻译启用了翻译记忆库引擎\[20\]。
 
-2013年，“翻译用户体验”（Translate User
-eXperience）项目，又称“TUX”，对翻译平台进行了巨大革新，其中包括“导航工具栏、编辑区外观和感觉、翻译区、过滤器、搜索、色彩与风格上的改变”\[21\]。
+2013年，“翻译用户体验”（Translate User eXperience）项目，又称“TUX”，对翻译平台进行了巨大革新，其中包括“导航工具栏、编辑区外观和感觉、翻译区、过滤器、搜索、色彩与风格上的改变”\[21\]。
 
 ## 支持的格式
 
@@ -48,8 +45,7 @@ eXperience）项目，又称“TUX”，对翻译平台进行了巨大革新，�
 
   - [Java properties](../Page/.properties.md "wikilink")
 
-  - [Android string
-    resources](https://zh.wikipedia.org/wiki/Android_string_resources "wikilink")
+  - [Android string resources](https://zh.wikipedia.org/wiki/Android_string_resources "wikilink")
 
   - [INI](https://zh.wikipedia.org/wiki/INI文件 "wikilink")
 
@@ -86,8 +82,7 @@ eXperience）项目，又称“TUX”，对翻译平台进行了巨大革新，�
   - [MantisBT](https://zh.wikipedia.org/wiki/MantisBT "wikilink")
 
   -
-  - Wikimedia Mobile Apps
-    （包含[维基百科应用程序等](https://zh.wikipedia.org/wiki/维基百科应用程序 "wikilink")）
+  - Wikimedia Mobile Apps （包含[维基百科应用程序等](https://zh.wikipedia.org/wiki/维基百科应用程序 "wikilink")）
 
   - Wikimania Scholarships App
 
@@ -109,8 +104,7 @@ eXperience）项目，又称“TUX”，对翻译平台进行了巨大革新，�
 
   - [Pandora文档](https://zh.wikipedia.org/wiki/Pandora_\(终端\) "wikilink")
 
-  - [Simple Machines
-    Forum文档](https://zh.wikipedia.org/wiki/Simple_Machines_Forum "wikilink")\[28\]
+  - [Simple Machines Forum文档](https://zh.wikipedia.org/wiki/Simple_Machines_Forum "wikilink")\[28\]
 
   - VicuñaUploader
 
@@ -128,17 +122,11 @@ eXperience）项目，又称“TUX”，对翻译平台进行了巨大革新，�
   - MediaWiki上的[translatewiki.net主页](https://zh.wikipedia.org/wiki/mw:Translatewiki.net "wikilink")
 
   -
-[Category:軟體在地化工具](https://zh.wikipedia.org/wiki/Category:軟體在地化工具 "wikilink")
-[Category:翻译数据库](https://zh.wikipedia.org/wiki/Category:翻译数据库 "wikilink")
-[Category:语义wiki](https://zh.wikipedia.org/wiki/Category:语义wiki "wikilink")
-[Category:MediaWiki網站](https://zh.wikipedia.org/wiki/Category:MediaWiki網站 "wikilink")
-[Category:MediaWiki](https://zh.wikipedia.org/wiki/Category:MediaWiki "wikilink")
-[Category:用PHP编程的自由软件](https://zh.wikipedia.org/wiki/Category:用PHP编程的自由软件 "wikilink")
+[Category:軟體在地化工具](https://zh.wikipedia.org/wiki/Category:軟體在地化工具 "wikilink") [Category:翻译数据库](https://zh.wikipedia.org/wiki/Category:翻译数据库 "wikilink") [Category:语义wiki](https://zh.wikipedia.org/wiki/Category:语义wiki "wikilink") [Category:MediaWiki網站](https://zh.wikipedia.org/wiki/Category:MediaWiki網站 "wikilink") [Category:MediaWiki](https://zh.wikipedia.org/wiki/Category:MediaWiki "wikilink") [Category:用PHP编程的自由软件](https://zh.wikipedia.org/wiki/Category:用PHP编程的自由软件 "wikilink")
 
 1.
 
-2.  [Statistics](https://zh.wikipedia.org/wiki/translatewiki:Special:Statistics "wikilink"),
-    2 August 2014.
+2.  [Statistics](https://zh.wikipedia.org/wiki/translatewiki:Special:Statistics "wikilink"), 2 August 2014.
 
 3.
 
@@ -161,8 +149,7 @@ eXperience）项目，又称“TUX”，对翻译平台进行了巨大革新，�
 12.
 13.
 
-14. \-{zh-hans:[Project:关于](https://zh.wikipedia.org/wiki/translatewiki:Project:About/zh-hans "wikilink");zh-hant:[Project:關於](https://zh.wikipedia.org/wiki/translatewiki:Project:About/zh-hant "wikilink")}-
-    translatewiki.net
+14. \-{zh-hans:[Project:关于](https://zh.wikipedia.org/wiki/translatewiki:Project:About/zh-hans "wikilink");zh-hant:[Project:關於](https://zh.wikipedia.org/wiki/translatewiki:Project:About/zh-hant "wikilink")}- translatewiki.net
 
 15.
 
@@ -187,11 +174,6 @@ eXperience）项目，又称“TUX”，对翻译平台进行了巨大革新，�
 
 26.
 
-27. *[Localising Joomla\!
-    Documentation](http://community.joomla.org/blogs/leadership/1806-localising-joomla-documentation.html)*,
-    by [Tom Hutchison](http://docs.joomla.org/User:Tom_Hutchison), 24
-    February 2014.
+27. *[Localising Joomla\! Documentation](http://community.joomla.org/blogs/leadership/1806-localising-joomla-documentation.html)*, by [Tom Hutchison](http://docs.joomla.org/User:Tom_Hutchison), 24 February 2014.
 
-28. [Translation
-    Portal](http://wiki.simplemachines.org/smf/Online_Manual:Translation_Portal),
-    wiki.simplemachines.org.
+28. [Translation Portal](http://wiki.simplemachines.org/smf/Online_Manual:Translation_Portal), wiki.simplemachines.org.

@@ -18,43 +18,23 @@
 
 ## 影視作品
 
-  - 2009年
-    [公視偶像劇](https://zh.wikipedia.org/wiki/公視 "wikilink")《[熱血青春](https://zh.wikipedia.org/wiki/熱血青春 "wikilink")》
-    可芬飾 真妹
+  - 2009年 [公視偶像劇](https://zh.wikipedia.org/wiki/公視 "wikilink")《[熱血青春](https://zh.wikipedia.org/wiki/熱血青春 "wikilink")》 可芬飾 真妹
   - 2010年 電影《[初戀風暴](../Page/初戀風暴.md "wikilink")》 可芬飾 小荳
-  - 2010年 電視電影《[看見天堂](https://zh.wikipedia.org/wiki/看見天堂 "wikilink")》
-    可芬飾 妮妮
+  - 2010年 電視電影《[看見天堂](https://zh.wikipedia.org/wiki/看見天堂 "wikilink")》 可芬飾 妮妮
   - 2011年世新大學廣電畢業製作《暖暖》可芳飾 夏雨
-  - 2011年
-    [台視偶像劇](https://zh.wikipedia.org/wiki/台視 "wikilink")《[國民英雄](../Page/國民英雄.md "wikilink")》
-    可芬飾 陳思佳
+  - 2011年 [台視偶像劇](https://zh.wikipedia.org/wiki/台視 "wikilink")《[國民英雄](../Page/國民英雄.md "wikilink")》 可芬飾 陳思佳
   - 2011年青輔會青年壯遊宣傳短片
-  - 2012年
-    [華視](https://zh.wikipedia.org/wiki/華視 "wikilink")、[八大綜合台](../Page/八大綜合台.md "wikilink")偶像劇《[給愛麗絲的奇蹟](../Page/給愛麗絲的奇蹟.md "wikilink")》
-    可芳飾演 蘇美玫
-  - 2012年
-    [中視](https://zh.wikipedia.org/wiki/中視 "wikilink")、[中天綜合台](../Page/中天綜合台.md "wikilink")偶像劇《[白色之戀](https://zh.wikipedia.org/wiki/白色之戀_\(台灣電視劇\) "wikilink")》
-    可芬飾 櫻井春子
+  - 2012年 [華視](https://zh.wikipedia.org/wiki/華視 "wikilink")、[八大綜合台](../Page/八大綜合台.md "wikilink")偶像劇《[給愛麗絲的奇蹟](../Page/給愛麗絲的奇蹟.md "wikilink")》 可芳飾演 蘇美玫
+  - 2012年 [中視](https://zh.wikipedia.org/wiki/中視 "wikilink")、[中天綜合台](../Page/中天綜合台.md "wikilink")偶像劇《[白色之戀](https://zh.wikipedia.org/wiki/白色之戀_\(台灣電視劇\) "wikilink")》 可芬飾 櫻井春子
   - 2012年 龍山寺形象短片
   - 2013年 小紅帽x2\*sweet番外篇
-  - 2013年
-    [台視](https://zh.wikipedia.org/wiki/台視 "wikilink")、[八大綜合台](../Page/八大綜合台.md "wikilink")偶像劇《[流氓蛋糕店](../Page/流氓蛋糕店_\(台灣電視劇\).md "wikilink")》可芬飾
-    背包客（「公司」成員）、可芳飾 「公司」成員
+  - 2013年 [台視](https://zh.wikipedia.org/wiki/台視 "wikilink")、[八大綜合台](../Page/八大綜合台.md "wikilink")偶像劇《[流氓蛋糕店](../Page/流氓蛋糕店_\(台灣電視劇\).md "wikilink")》可芬飾 背包客（「公司」成員）、可芳飾 「公司」成員
   - 2014年 電影《[大稻埕](../Page/大稻埕_\(電影\).md "wikilink")》飾日本少女
-  - 2014年
-    [東森幼幼台](../Page/東森幼幼台.md "wikilink")偶像劇《[萌學園六復活之戰](https://zh.wikipedia.org/wiki/萌學園六復活之戰 "wikilink")》
-    可芳飾 諾蓓兒
-  - 2015年
-    [中視金鐘電視電影](https://zh.wikipedia.org/wiki/中視 "wikilink")《[願望清單](../Page/願望清單.md "wikilink")》
-    可芬飾 希希 可芳飾 望望
-  - 2016年
-    微電影《[愛麗絲的告白前夕](https://zh.wikipedia.org/wiki/愛麗絲的告白前夕 "wikilink")》
-    飾愛麗絲
-  - 2016年
-    電影《[萌學園之尋找磐古](https://zh.wikipedia.org/wiki/萌學園之尋找磐古 "wikilink")》
-    可芳飾 羅　娜
-  - 2016年 電視《[High 5 制霸青春](../Page/High_5_制霸青春.md "wikilink")》可芬飾 雙雙 可芳飾
-    冬冬
+  - 2014年 [東森幼幼台](../Page/東森幼幼台.md "wikilink")偶像劇《[萌學園六復活之戰](https://zh.wikipedia.org/wiki/萌學園六復活之戰 "wikilink")》 可芳飾 諾蓓兒
+  - 2015年 [中視金鐘電視電影](https://zh.wikipedia.org/wiki/中視 "wikilink")《[願望清單](../Page/願望清單.md "wikilink")》 可芬飾 希希 可芳飾 望望
+  - 2016年 微電影《[愛麗絲的告白前夕](https://zh.wikipedia.org/wiki/愛麗絲的告白前夕 "wikilink")》 飾愛麗絲
+  - 2016年 電影《[萌學園之尋找磐古](https://zh.wikipedia.org/wiki/萌學園之尋找磐古 "wikilink")》 可芳飾 羅　娜
+  - 2016年 電視《[High 5 制霸青春](../Page/High_5_制霸青春.md "wikilink")》可芬飾 雙雙 可芳飾 冬冬
 
 ## 節目
 
@@ -63,52 +43,39 @@
   - [台灣腳逛大陸](https://zh.wikipedia.org/wiki/台灣腳逛大陸 "wikilink")(2010/05/06,2010/05/13,2010/06/24,2010/07/15)
   - [美眉向前行](https://zh.wikipedia.org/wiki/美眉向前行 "wikilink")》(2012/10/29,2012/11/19,2012/11/26,2012/12/03,2012/12/10)
   - [2\*sweet@JAPAN](https://zh.wikipedia.org/wiki/2*sweet@JAPAN "wikilink")
-  - [紅豆泥2\*sweet](https://zh.wikipedia.org/wiki/紅豆泥2*sweet "wikilink")
-    (2013/12/20) 台灣達人秀頻道撥出
+  - [紅豆泥2\*sweet](https://zh.wikipedia.org/wiki/紅豆泥2*sweet "wikilink") (2013/12/20) 台灣達人秀頻道撥出
   - [寶島縱貫線](../Page/寶島縱貫線.md "wikilink")(2014/7/5)
 
 ### 節目來賓
 
-  - [緯來綜合台](../Page/緯來綜合台.md "wikilink")《[天黑請閉眼](../Page/天黑請閉眼_\(綜藝節目\).md "wikilink")》(2011/03/10,
-    2011/04/04, 2011/05/17)　
+  - [緯來綜合台](../Page/緯來綜合台.md "wikilink")《[天黑請閉眼](../Page/天黑請閉眼_\(綜藝節目\).md "wikilink")》(2011/03/10, 2011/04/04, 2011/05/17)　
   - [超視](https://zh.wikipedia.org/wiki/超視 "wikilink")《[青春猛回頭](../Page/青春猛回頭.md "wikilink")》(2011/12/10)　　
   - [TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink")《[哈林哈時尚](https://zh.wikipedia.org/wiki/哈林哈時尚 "wikilink")》
   - [台視](https://zh.wikipedia.org/wiki/台視 "wikilink")《[超級設計師](../Page/超級設計師.md "wikilink")》　
-  - [Channel
-    V](../Page/Channel_V.md "wikilink")《[今晚淘汰誰](https://zh.wikipedia.org/wiki/今晚淘汰誰 "wikilink")》　
-  - [八大電視](../Page/八大電視.md "wikilink")《[娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")》(2012/11/28,
-    2013/07/25, 2013/08/01, 2013/08/30, 2013/09/23, 2013/11/16,
-    2013/12/16, 2014/03/15, 2014/03/20, 2014/04/17，2014/08/12,
-    2014/09/04, 2014/10/03, 2014/11/04, 2014/11/05, 2014/11/17,
-    2015/01/17, 2015/03/12)
+  - [Channel V](../Page/Channel_V.md "wikilink")《[今晚淘汰誰](https://zh.wikipedia.org/wiki/今晚淘汰誰 "wikilink")》　
+  - [八大電視](../Page/八大電視.md "wikilink")《[娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")》(2012/11/28, 2013/07/25, 2013/08/01, 2013/08/30, 2013/09/23, 2013/11/16, 2013/12/16, 2014/03/15, 2014/03/20, 2014/04/17，2014/08/12, 2014/09/04, 2014/10/03, 2014/11/04, 2014/11/05, 2014/11/17, 2015/01/17, 2015/03/12)
   - [八大電視](../Page/八大電視.md "wikilink")《[我們都來了](../Page/我們都來了.md "wikilink")》(2014/05/02)
-  - [衛視中文台](../Page/衛視中文台.md "wikilink")《[歡樂智多星](../Page/歡樂智多星.md "wikilink")》(2012/12/04,
-    2014/09/02, 2014/11/18)　　
+  - [衛視中文台](../Page/衛視中文台.md "wikilink")《[歡樂智多星](../Page/歡樂智多星.md "wikilink")》(2012/12/04, 2014/09/02, 2014/11/18)　　
   - [衛視中文台](../Page/衛視中文台.md "wikilink")《[麻辣天后宮](../Page/麻辣天后宮.md "wikilink")》(2013/03/07)　
   - [衛視中文台](../Page/衛視中文台.md "wikilink")《[移動星樂園](https://zh.wikipedia.org/wiki/移動星樂園 "wikilink")》
   - [衛視中文台](../Page/衛視中文台.md "wikilink")《[瘋神無雙](https://zh.wikipedia.org/wiki/瘋神無雙 "wikilink")》(2012/12/22)
-  - [三立都會台](../Page/三立都會台.md "wikilink")《[國光幫幫忙](https://zh.wikipedia.org/wiki/國光幫幫忙 "wikilink")》(2013/05/13,
-    2013/07/18, 2013/10/24, 2014/09/24)　
+  - [三立都會台](../Page/三立都會台.md "wikilink")《[國光幫幫忙](https://zh.wikipedia.org/wiki/國光幫幫忙 "wikilink")》(2013/05/13, 2013/07/18, 2013/10/24, 2014/09/24)　
   - [衛視中文台](../Page/衛視中文台.md "wikilink")《[一袋女王](../Page/一袋女王.md "wikilink")》
-  - [衛視中文台](../Page/衛視中文台.md "wikilink")《[冠軍任務](../Page/冠軍任務.md "wikilink")》(2013/09/07,
-    2014/03/29)
+  - [衛視中文台](../Page/衛視中文台.md "wikilink")《[冠軍任務](../Page/冠軍任務.md "wikilink")》(2013/09/07, 2014/03/29)
   - [中天電視](../Page/中天電視.md "wikilink")《[康熙來了](../Page/康熙來了.md "wikilink")》(2014/01/17)　　
   - [衛視中文台](../Page/衛視中文台.md "wikilink")《[WOW！侯麻吉](../Page/WOW！侯麻吉.md "wikilink")》(2014/02/11)　
   - [超視](https://zh.wikipedia.org/wiki/超視 "wikilink")《[超級小英雄](../Page/超級小英雄.md "wikilink")》(2014/03/30)
   - [緯來綜合台](../Page/緯來綜合台.md "wikilink")《[愛喲我的媽](../Page/愛喲我的媽.md "wikilink")》　
   - [年代MUCH台](../Page/年代MUCH台.md "wikilink")《[流行映時尚](https://zh.wikipedia.org/wiki/流行映時尚 "wikilink")》　
-  - [民視](https://zh.wikipedia.org/wiki/民視 "wikilink")《[美鳳有約](https://zh.wikipedia.org/wiki/美鳳有約 "wikilink")》(2013/11/11
-    ,2014/01/14)
+  - [民視](https://zh.wikipedia.org/wiki/民視 "wikilink")《[美鳳有約](https://zh.wikipedia.org/wiki/美鳳有約 "wikilink")》(2013/11/11 ,2014/01/14)
   - [超視](https://zh.wikipedia.org/wiki/超視 "wikilink")《[絕對不單淳](https://zh.wikipedia.org/wiki/絕對不單淳 "wikilink")》三峽玩樂古早味
   - [中天綜合台](../Page/中天綜合台.md "wikilink")《[真的！了不起](https://zh.wikipedia.org/wiki/真的！了不起 "wikilink")》(2014/06/11)
   - [三立都會台](../Page/三立都會台.md "wikilink")《[綜藝大熱門](../Page/綜藝大熱門.md "wikilink")》(2014/02/21)
   - [中天電視](../Page/中天電視.md "wikilink")《[最強大國民](../Page/最強大國民.md "wikilink")》(2014/03/02)
   - [緯來綜合台](../Page/緯來綜合台.md "wikilink")《[健康好食在](../Page/健康好食在.md "wikilink")》(2014/03/21)
-  - [MTV台](https://zh.wikipedia.org/wiki/MTV台 "wikilink")《[我愛偶像Idols of
-    Asia](https://zh.wikipedia.org/wiki/我愛偶像Idols_of_Asia "wikilink")》(2014/08/01)
+  - [MTV台](https://zh.wikipedia.org/wiki/MTV台 "wikilink")《[我愛偶像Idols of Asia](https://zh.wikipedia.org/wiki/我愛偶像Idols_of_Asia "wikilink")》(2014/08/01)
   - [MTV台](https://zh.wikipedia.org/wiki/MTV台 "wikilink")《[MTV校園大人物(可芬)](https://zh.wikipedia.org/wiki/MTV校園大人物\(可芬\) "wikilink")》(2014/07/26)
-  - [三立都會台](../Page/三立都會台.md "wikilink")《[綜藝玩很大](https://zh.wikipedia.org/wiki/綜藝玩很大 "wikilink")》(2015/01/10
-    ,2015/01/17)
+  - [三立都會台](../Page/三立都會台.md "wikilink")《[綜藝玩很大](https://zh.wikipedia.org/wiki/綜藝玩很大 "wikilink")》(2015/01/10 ,2015/01/17)
   - [TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink")《[全球中文音樂榜上榜](https://zh.wikipedia.org/wiki/全球中文音樂榜上榜 "wikilink")》(2016/04/16)
   - [三立都會台](../Page/三立都會台.md "wikilink")《[綜藝大熱門](../Page/綜藝大熱門.md "wikilink")》(2017/10/30)
 
@@ -256,7 +223,6 @@
   -
   - [2\*sweet 官方Twitter](https://twitter.com/2sweetTwins)
 
-[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink")
-[Category:雙胞胎人物](https://zh.wikipedia.org/wiki/Category:雙胞胎人物 "wikilink")
+[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink") [Category:雙胞胎人物](https://zh.wikipedia.org/wiki/Category:雙胞胎人物 "wikilink")
 
 1.  [7-11佛蒙特咖哩燴飯](http://www.youtube.com/watch?v=d_mqAWayNio)

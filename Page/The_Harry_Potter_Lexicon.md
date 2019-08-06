@@ -1,21 +1,16 @@
-**The Harry Potter Lexicon**
-是一个由粉丝创建的在线[哈利波特百科全书](https://zh.wikipedia.org/wiki/哈利波特 "wikilink")。
+**The Harry Potter Lexicon** 是一个由粉丝创建的在线[哈利波特百科全书](https://zh.wikipedia.org/wiki/哈利波特 "wikilink")。
 
 ## 简介
 
 网站由图书馆员Steve Vander Ark在2000年创立。
 
-网站收录了七部哈利波特小说的详细资料，包括角色、场景、神奇动物、魔咒、魔药等方方面面的内容，分类详细、考证准确。其中尤其值得一提的是网站提供了整个哈利波特故事的[时间线](https://zh.wikipedia.org/wiki/时间线 "wikilink")；该时间线几乎包含了哈利波特背景下的所有事件，小说主体部分的时间线更是精确到日。[华纳曾在DVD中使用了与之相似的时间线](https://zh.wikipedia.org/wiki/华纳 "wikilink"),[J·K·罗琳](../Page/J·K·罗琳.md "wikilink")也采用它确认自己的创作。
-网站的主要内容还有七部哈利波特小说及《[神奇动物在哪里](https://zh.wikipedia.org/wiki/神奇动物在哪里 "wikilink")》、《[神奇的魁地奇球](https://zh.wikipedia.org/wiki/神奇的魁地奇球 "wikilink")》、《[诗翁彼豆故事集](https://zh.wikipedia.org/wiki/诗翁彼豆故事集 "wikilink")》的基本资料、章节导读、章节分析和花絮。
+网站收录了七部哈利波特小说的详细资料，包括角色、场景、神奇动物、魔咒、魔药等方方面面的内容，分类详细、考证准确。其中尤其值得一提的是网站提供了整个哈利波特故事的[时间线](https://zh.wikipedia.org/wiki/时间线 "wikilink")；该时间线几乎包含了哈利波特背景下的所有事件，小说主体部分的时间线更是精确到日。[华纳曾在DVD中使用了与之相似的时间线](https://zh.wikipedia.org/wiki/华纳 "wikilink"),[J·K·罗琳](../Page/J·K·罗琳.md "wikilink")也采用它确认自己的创作。 网站的主要内容还有七部哈利波特小说及《[神奇动物在哪里](https://zh.wikipedia.org/wiki/神奇动物在哪里 "wikilink")》、《[神奇的魁地奇球](https://zh.wikipedia.org/wiki/神奇的魁地奇球 "wikilink")》、《[诗翁彼豆故事集](https://zh.wikipedia.org/wiki/诗翁彼豆故事集 "wikilink")》的基本资料、章节导读、章节分析和花絮。
 
 Lexicon曾获罗琳授予的“优秀哈迷网站”荣誉。
 
 ## 诉讼
 
-J·K·罗琳和华纳决定起诉美版《哈利波特百科（The Harry Potter
-Lexicon）》侵权行为，以阻止这本图书的发行。这本百科全书的作者是Steve
-Vander Ark，共400页，售价24.95美元，由RDR
-Books出版社出版。\[1\]罗琳在她的官方网站对此事发表了声明，对此事表示遗憾和难过。
+J·K·罗琳和华纳决定起诉美版《哈利波特百科（The Harry Potter Lexicon）》侵权行为，以阻止这本图书的发行。这本百科全书的作者是Steve Vander Ark，共400页，售价24.95美元，由RDR Books出版社出版。\[1\]罗琳在她的官方网站对此事发表了声明，对此事表示遗憾和难过。
 
 罗琳还特别提到，任何未经授权将哈利波特相关人物、情节等进行编写并出版谋利都是侵权的行为。
 
@@ -29,9 +24,7 @@ Books出版社出版。\[1\]罗琳在她的官方网站对此事发表了声明�
 
 <references />
 
-[Category:百科全书](https://zh.wikipedia.org/wiki/Category:百科全书 "wikilink")
-[Category:哈利波特网站](https://zh.wikipedia.org/wiki/Category:哈利波特网站 "wikilink")
+[Category:百科全书](https://zh.wikipedia.org/wiki/Category:百科全书 "wikilink") [Category:哈利波特网站](https://zh.wikipedia.org/wiki/Category:哈利波特网站 "wikilink")
 
-1.  [1](http://en.wikipedia.org/wiki/Warner_Bros._and_JK_Rowling_vs._RDR_Books)，Warner
-    Bros. and J. K. Rowling v. RDR Books。
+1.  [1](http://en.wikipedia.org/wiki/Warner_Bros._and_JK_Rowling_vs._RDR_Books)，Warner Bros. and J. K. Rowling v. RDR Books。
 2.

@@ -1,5 +1,4 @@
-《**The Third Album Part
-1**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K.Will第六張大碟](https://zh.wikipedia.org/wiki/K.Will "wikilink")，第三張[韓語正規專輯的第一部分](https://zh.wikipedia.org/wiki/韓語 "wikilink")，在2012年10月11日由[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")製作發行\[1\]。專輯包括了7首歌，並以歌曲《請不要這樣》（）作主打單曲。
+《**The Third Album Part 1**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K.Will第六張大碟](https://zh.wikipedia.org/wiki/K.Will "wikilink")，第三張[韓語正規專輯的第一部分](https://zh.wikipedia.org/wiki/韓語 "wikilink")，在2012年10月11日由[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")製作發行\[1\]。專輯包括了7首歌，並以歌曲《請不要這樣》（）作主打單曲。
 
 ## 曲目
 
@@ -66,9 +65,7 @@
 
 ## 參考資料
 
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:K.Will音樂專輯](https://zh.wikipedia.org/wiki/Category:K.Will音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:K.Will音樂專輯](https://zh.wikipedia.org/wiki/Category:K.Will音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

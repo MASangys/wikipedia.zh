@@ -19,14 +19,10 @@
 
   - [在freedesktop.org上的AppStream](http://distributions.freedesktop.org/wiki/AppStream)
   - [Bretzn專案](http://socialdesktop.org/bretzn/)
-  - [Phoronix -
-    介紹AppStream，一個跨發行版的應用程式框架](http://www.phoronix.com/scan.php?page=news_item&px=OTA1MA)
-  - [2011年Google夏日程式碼大賽 -
-    PackageKit後端以及AppStream與軟體中心的整合](https://web.archive.org/web/20110728122149/http://www.google-melange.com/gsoc/project/google/gsoc2011/alexef/8001)
+  - [Phoronix - 介紹AppStream，一個跨發行版的應用程式框架](http://www.phoronix.com/scan.php?page=news_item&px=OTA1MA)
+  - [2011年Google夏日程式碼大賽 - PackageKit後端以及AppStream與軟體中心的整合](https://web.archive.org/web/20110728122149/http://www.google-melange.com/gsoc/project/google/gsoc2011/alexef/8001)
   - [OpenSuse的應用程式管理器](http://news.opensuse.org/wp-content/uploads/2011/01/appstore_details.png)
 
-[Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink")
-[Category:自由軟體](https://zh.wikipedia.org/wiki/Category:自由軟體 "wikilink")
+[Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink") [Category:自由軟體](https://zh.wikipedia.org/wiki/Category:自由軟體 "wikilink")
 
-1.  [2011 AppInstaller
-    meeting](http://distributions.freedesktop.org/wiki/Meetings/AppInstaller2011)
+1.  [2011 AppInstaller meeting](http://distributions.freedesktop.org/wiki/Meetings/AppInstaller2011)

@@ -1,8 +1,4 @@
-**P.O**（，），本名**表志勳**，[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，也是韓國男子組合[Block
-B](../Page/Block_B.md "wikilink")\[1\]的成員之一與忙內，隸屬於[KQ
-Entertainment](https://zh.wikipedia.org/wiki/KQ_Entertainment "wikilink")。在2011年4月15日以單曲《[Do
-U Wanna
-B?](https://zh.wikipedia.org/wiki/Do_U_Wanna_B? "wikilink")》正式出道。
+**P.O**（，），本名**表志勳**，[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，也是韓國男子組合[Block B](../Page/Block_B.md "wikilink")\[1\]的成員之一與忙內，隸屬於[KQ Entertainment](https://zh.wikipedia.org/wiki/KQ_Entertainment "wikilink")。在2011年4月15日以單曲《[Do U Wanna B?](https://zh.wikipedia.org/wiki/Do_U_Wanna_B? "wikilink")》正式出道。
 
 ## 經歷
 
@@ -60,7 +56,7 @@ B?](https://zh.wikipedia.org/wiki/Do_U_Wanna_B? "wikilink")》正式出道。
 | 2017年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[愛情的溫度](../Page/愛情的溫度.md "wikilink")》     | 姜敏浩 |
 | 2018年 | [MBN](https://zh.wikipedia.org/wiki/MBN "wikilink") | 《[心動警報](../Page/心動警報.md "wikilink")》       | 尹柳俊 |
 | 2018年 | [tvN](../Page/TVN.md "wikilink")                    | 《[男朋友](../Page/男朋友_\(電視劇\).md "wikilink")》 | 金振明 |
-| 2019年 | [tvN](../Page/TVN.md "wikilink")                    | 《[德魯納酒店](../Page/德魯納酒店.md "wikilink")》     | 池賢宇 |
+| 2019年 | [tvN](../Page/TVN.md "wikilink")                    | 《[德魯納酒店](../Page/德魯納酒店.md "wikilink")》     | 池玄中 |
 
 ### 話劇
 
@@ -72,16 +68,15 @@ B?](https://zh.wikipedia.org/wiki/Do_U_Wanna_B? "wikilink")》正式出道。
 
 ### 主持
 
-| 日期               | 電視台                                                 | 名稱                                                           | 備註                                                                  |
-| ---------------- | --------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------- |
-| 2017年3月13日－4月17日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | [鬧怪食堂](../Page/鬧怪食堂.md "wikilink")                           | 與、[徐章煇](../Page/徐章煇.md "wikilink")、[金鍾旼](../Page/金鍾旼.md "wikilink") |
-| 2017年5月16日－8月29日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink") 第五季 | 第四組MC，與[正花](../Page/正花.md "wikilink")、                              |
-|                  |                                                     |                                                              |                                                                     |
+| 日期               | 電視台                                                 | 名稱                                                           | 備註                                                                                                                 |
+| ---------------- | --------------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| 2017年3月13日－4月17日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | [鬧怪食堂](../Page/鬧怪食堂.md "wikilink")                           | 與、[徐章煇](../Page/徐章煇.md "wikilink")、[金鍾旼](../Page/金鍾旼.md "wikilink")                                                |
+| 2017年5月16日－8月29日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink") 第五季 | 第四組MC，與[正花](../Page/正花.md "wikilink")、                                                                             |
+| 2019年7月3日—至今     | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [曖昧生存戰1+1](../Page/曖昧生存戰1+1.md "wikilink")                   | 與[李壽根](../Page/李壽根.md "wikilink")、[希澈](../Page/希澈.md "wikilink")、[韶宥](https://zh.wikipedia.org/wiki/韶宥 "wikilink") |
 
 ### 影視作品
 
-  - 僅列出P.O**個人參與**的綜藝節目，**團體**請參見[Block
-    B](../Page/Block_B.md "wikilink")**。**
+  - 僅列出P.O**個人參與**的綜藝節目，**團體**請參見[Block B](../Page/Block_B.md "wikilink")**。**
 
 #### 音樂錄影帶
 
@@ -163,24 +158,29 @@ B?](https://zh.wikipedia.org/wiki/Do_U_Wanna_B? "wikilink")》正式出道。
 <td><p><a href="https://zh.wikipedia.org/wiki/新西游记5" title="wikilink">新西游记5</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p>2018年10月28日—12月2日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新西游记6" title="wikilink">新西游记6</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
-<td><p>2019年3月17日—至今</p></td>
+<td><p>2019年3月17日—6月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大逃出2" title="wikilink">大逃出2</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p>2019年3月30日—至今</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/驚人的週六" title="wikilink">驚人的週六</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
-<td><p>2019年5月31日—至今</p></td>
+<td><p>2019年5月31日—7月5日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/姜食堂2" title="wikilink">姜食堂2</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年7月5日—8月2日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姜食堂3" title="wikilink">姜食堂3</a></p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -198,9 +198,6 @@ B?](https://zh.wikipedia.org/wiki/Do_U_Wanna_B? "wikilink")》正式出道。
   - （由公司經營）
 
   -
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink")
+[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink")
 
 1.

@@ -26,9 +26,7 @@
   - 牧村真司（搜查官）：[水上劍星](https://zh.wikipedia.org/wiki/水上劍星 "wikilink")
   - 池田草介（管理官、與百合根同期）：[林遣都](../Page/林遣都.md "wikilink")（粵語配音：[李家傑](../Page/李家傑_\(配音員\).md "wikilink")）
   - 松戶紫織（理事官、ST監查役）：[瀨戶朝香](../Page/瀨戶朝香.md "wikilink")（粵語配音：[周文瑛](../Page/周文瑛.md "wikilink")）
-  - 三枝俊郎（原参事官、Cafe'3店主）：[渡部篤郎](../Page/渡部篤郎.md "wikilink") ( 粵語配音 :
-    [楊智聰(阿朗)](https://zh.wikipedia.org/wiki/楊智聰\(阿朗\) "wikilink")
-    )
+  - 三枝俊郎（原参事官、Cafe'3店主）：[渡部篤郎](../Page/渡部篤郎.md "wikilink") ( 粵語配音 : [楊智聰(阿朗)](https://zh.wikipedia.org/wiki/楊智聰\(阿朗\) "wikilink") )
 
 ##### 每集角色
 
@@ -45,8 +43,7 @@
 
 ###### 第二集
 
-  - 廣塚章太 /
-    大畑昭夫（輕小說作家）：[忍成修吾](../Page/忍成修吾.md "wikilink")（幼少期：[石塚獅櫻](https://zh.wikipedia.org/wiki/石塚獅櫻 "wikilink")）
+  - 廣塚章太 / 大畑昭夫（輕小說作家）：[忍成修吾](../Page/忍成修吾.md "wikilink")（幼少期：[石塚獅櫻](https://zh.wikipedia.org/wiki/石塚獅櫻 "wikilink")）
   - 大畑章夫（公寓管理人）：[中山仁](https://zh.wikipedia.org/wiki/中山仁 "wikilink")
   - 山田修（原文具製造商社員）：[大沼遼平](https://zh.wikipedia.org/wiki/大沼遼平 "wikilink")
 
@@ -163,12 +160,9 @@
 
 ### ST 紅與白的搜查檔案
 
-單發劇版於2013年播映完畢後，日本電視台決定翌年再製作連續劇版，劇集改以的名稱，在2014年7月16日開始於每週三晚[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")22:00
--
-23:00於[日本電視系](https://zh.wikipedia.org/wiki/日本電視系 "wikilink")「[週三連續劇](../Page/日本電視台週三連續劇.md "wikilink")」時段內播出\[4\]。
+單發劇版於2013年播映完畢後，日本電視台決定翌年再製作連續劇版，劇集改以的名稱，在2014年7月16日開始於每週三晚[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")22:00 - 23:00於[日本電視系](https://zh.wikipedia.org/wiki/日本電視系 "wikilink")「[週三連續劇](../Page/日本電視台週三連續劇.md "wikilink")」時段內播出\[4\]。
 
-劇集繼續由[藤原龍也](../Page/藤原龍也.md "wikilink")與[岡田將生主演](https://zh.wikipedia.org/wiki/岡田將生 "wikilink")。本劇廣告標語為「無法解釋的事件儘管交給那兩個人\!
-正因互相對立，卻可成為最強的夥伴。」。
+劇集繼續由[藤原龍也](../Page/藤原龍也.md "wikilink")與[岡田將生主演](https://zh.wikipedia.org/wiki/岡田將生 "wikilink")。本劇廣告標語為「無法解釋的事件儘管交給那兩個人\! 正因互相對立，卻可成為最強的夥伴。」。
 
 #### 工作人員
 
@@ -176,8 +170,7 @@
   - 編劇：[渡邊雄介](https://zh.wikipedia.org/wiki/渡邊雄介 "wikilink")、水無月友子、[真野勝成](https://zh.wikipedia.org/wiki/真野勝成 "wikilink")、[大口幸子](https://zh.wikipedia.org/wiki/大口幸子 "wikilink")、[深澤正樹](https://zh.wikipedia.org/wiki/深澤正樹 "wikilink")、[及川真實](https://zh.wikipedia.org/wiki/及川真實 "wikilink")、[夏川朋子](https://zh.wikipedia.org/wiki/夏川朋子 "wikilink")
   - 音樂：[木村秀彬](https://zh.wikipedia.org/wiki/木村秀彬 "wikilink")
   - 導演：[佐藤東彌](https://zh.wikipedia.org/wiki/佐藤東彌 "wikilink")、[長沼誠](https://zh.wikipedia.org/wiki/長沼誠 "wikilink")（AXON）、[山下學美](https://zh.wikipedia.org/wiki/山下學美 "wikilink")
-  - 主題曲：[Funky加藤](https://zh.wikipedia.org/wiki/Funky加藤 "wikilink")
-    《[太陽](https://zh.wikipedia.org/wiki/太陽 "wikilink")》（DREAMUSIC）\[5\]
+  - 主題曲：[Funky加藤](https://zh.wikipedia.org/wiki/Funky加藤 "wikilink") 《[太陽](https://zh.wikipedia.org/wiki/太陽 "wikilink")》（DREAMUSIC）\[5\]
   - 助理導演：[田部井稔](https://zh.wikipedia.org/wiki/田部井稔 "wikilink")、[工藤貴紀](https://zh.wikipedia.org/wiki/工藤貴紀 "wikilink")、[木村修](https://zh.wikipedia.org/wiki/木村修 "wikilink")、[安食大輔](https://zh.wikipedia.org/wiki/安食大輔 "wikilink")
   - 音樂製作人：[志田博英](https://zh.wikipedia.org/wiki/志田博英 "wikilink")
   - 背景標題：松井夢壮
@@ -307,13 +300,11 @@
 </tbody>
 </table>
 
-  - 第1集與第10集播映時間延長10分鐘（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")
-    22:00 - 23:10）。
+  - 第1集與第10集播映時間延長10分鐘（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink") 22:00 - 23:10）。
 
 ## 電影
 
-2014年8月6日，電視台公布將會電影化的消息\[8\]。《**電影 ST
-紅與白的搜查檔案**》（）將於2015年1月10日在日本上映。電影繼續由[藤原龍也](../Page/藤原龍也.md "wikilink")、[岡田將生主演](https://zh.wikipedia.org/wiki/岡田將生 "wikilink")，[佐藤東彌執導](https://zh.wikipedia.org/wiki/佐藤東彌 "wikilink")。電影故事將會延續電視劇結局繼續展開，而電影亦會與電視劇平行拍攝，主要演員的拍攝工作已於九月初完成，而所有拍攝亦於九月下旬全部完成。
+2014年8月6日，電視台公布將會電影化的消息\[8\]。《**電影 ST 紅與白的搜查檔案**》（）將於2015年1月10日在日本上映。電影繼續由[藤原龍也](../Page/藤原龍也.md "wikilink")、[岡田將生主演](https://zh.wikipedia.org/wiki/岡田將生 "wikilink")，[佐藤東彌執導](https://zh.wikipedia.org/wiki/佐藤東彌 "wikilink")。電影故事將會延續電視劇結局繼續展開，而電影亦會與電視劇平行拍攝，主要演員的拍攝工作已於九月初完成，而所有拍攝亦於九月下旬全部完成。
 
 ### 演出角色
 
@@ -349,13 +340,9 @@
   - 導演：[佐藤東彌](https://zh.wikipedia.org/wiki/佐藤東彌 "wikilink")
   - 主題曲：Funky加藤 《太陽》（DREAMUSIC）
   - 製作幹事：[日本電視台](../Page/日本電視台.md "wikilink")
-  - 製作公司：[日本電視台](../Page/日本電視台.md "wikilink")
-    [AXON](https://zh.wikipedia.org/wiki/AXON "wikilink")
+  - 製作公司：[日本電視台](../Page/日本電視台.md "wikilink") [AXON](https://zh.wikipedia.org/wiki/AXON "wikilink")
   - 電影發行：[東寶株式會社](https://zh.wikipedia.org/wiki/東寶株式會社 "wikilink")
-  - 製作：電影「ST
-    紅與白的搜查檔案」製作委員會（[日本電視台](../Page/日本電視台.md "wikilink")、[Horipro](../Page/Horipro.md "wikilink")、[東寶](../Page/東寶.md "wikilink")、[STARDUST
-    PICTURES](../Page/星塵傳播.md "wikilink")、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、VAP、博報堂DY
-    Media Partners、[日本電視系全國28間電視台](../Page/日本電視網協議會.md "wikilink")）
+  - 製作：電影「ST 紅與白的搜查檔案」製作委員會（[日本電視台](../Page/日本電視台.md "wikilink")、[Horipro](../Page/Horipro.md "wikilink")、[東寶](../Page/東寶.md "wikilink")、[STARDUST PICTURES](../Page/星塵傳播.md "wikilink")、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、VAP、博報堂DY Media Partners、[日本電視系全國28間電視台](../Page/日本電視網協議會.md "wikilink")）
 
 ## 參考資料
 
@@ -374,38 +361,15 @@
   -
   -
   -
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:1998年小說](https://zh.wikipedia.org/wiki/Category:1998年小說 "wikilink")
-[Category:警察主角題材小說](https://zh.wikipedia.org/wiki/Category:警察主角題材小說 "wikilink")
-[Category:警視廳背景小說](https://zh.wikipedia.org/wiki/Category:警視廳背景小說 "wikilink")
-[Category:改編成電影的日本小說](https://zh.wikipedia.org/wiki/Category:改編成電影的日本小說 "wikilink")
-[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink")
-[Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink")
-[Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink")
-[Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink")
-[Category:日本電視台特別劇集](https://zh.wikipedia.org/wiki/Category:日本電視台特別劇集 "wikilink")
-[Category:日本推理小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電視劇 "wikilink")
-[Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink")
-[Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink")
-[Category:日本推理小說改編電影](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電影 "wikilink")
-[Category:警察主角題材電影](https://zh.wikipedia.org/wiki/Category:警察主角題材電影 "wikilink")
-[Category:警視廳背景電影](https://zh.wikipedia.org/wiki/Category:警視廳背景電影 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
+[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:1998年小說](https://zh.wikipedia.org/wiki/Category:1998年小說 "wikilink") [Category:警察主角題材小說](https://zh.wikipedia.org/wiki/Category:警察主角題材小說 "wikilink") [Category:警視廳背景小說](https://zh.wikipedia.org/wiki/Category:警視廳背景小說 "wikilink") [Category:改編成電影的日本小說](https://zh.wikipedia.org/wiki/Category:改編成電影的日本小說 "wikilink") [Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink") [Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink") [Category:日本電視台特別劇集](https://zh.wikipedia.org/wiki/Category:日本電視台特別劇集 "wikilink") [Category:日本推理小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電視劇 "wikilink") [Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink") [Category:電視劇改編電影](https://zh.wikipedia.org/wiki/Category:電視劇改編電影 "wikilink") [Category:日本推理小說改編電影](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電影 "wikilink") [Category:警察主角題材電影](https://zh.wikipedia.org/wiki/Category:警察主角題材電影 "wikilink") [Category:警視廳背景電影](https://zh.wikipedia.org/wiki/Category:警視廳背景電影 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
 
 1.
 2.  [ドラマ/注目のドラマ/ST警視庁科学特捜班日テレ屋web](http://www.ntvshop.jp/410/p/c/cst/)
-3.  [神谷浩史が日テレドラマ「ST」のオープニングナレーションを担当
-    :おた☆スケ](http://www.ota-suke.jp/news/94950)
+3.  [神谷浩史が日テレドラマ「ST」のオープニングナレーションを担当 :おた☆スケ](http://www.ota-suke.jp/news/94950)
 4.
 5.
-6.  [ST
-    警視庁科学特捜班](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/07_09/st/index.html)
-    、スポニチアネックス、2014年7月17日閲覧。
-7.  [数少ない二桁ドラマ！『ST 赤と白の捜査ファイル』第２話視聴率は１１．４％](http://newclassic.jp/17764)
-    、THE NEW CLASSIC、2014年7月28日閲覧。
-8.  [「ST赤と白の捜査ファイル」映画化決定！藤原竜也＆岡田将生の新たな関係にも注目\!?](http://news.thetv.jp/article/49212/)
-    、、2014年9月18日閲覧。
+6.  [ST 警視庁科学特捜班](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/07_09/st/index.html) 、スポニチアネックス、2014年7月17日閲覧。
+7.  [数少ない二桁ドラマ！『ST 赤と白の捜査ファイル』第２話視聴率は１１．４％](http://newclassic.jp/17764) 、THE NEW CLASSIC、2014年7月28日閲覧。
+8.  [「ST赤と白の捜査ファイル」映画化決定！藤原竜也＆岡田将生の新たな関係にも注目\!?](http://news.thetv.jp/article/49212/) 、、2014年9月18日閲覧。
 9.
 10.

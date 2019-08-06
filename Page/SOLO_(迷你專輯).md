@@ -9,20 +9,10 @@
 ### 錄製與音樂
 
   - [許永生](../Page/許永生.md "wikilink")作為聯合製作人在專輯的整體企劃、概念、構成等方面全部參與了製作，同時連歌詞錄音等細節的工作也沒有忽略，並親自作詞等\[3\]。
-  - 主打歌曲《**Crying**》是由[SS501](../Page/SS501.md "wikilink")“Love like
-    this ”、“Love Ya”和首張個人迷你專輯中“Out the Club”、“Rainy Heart”等歌曲的作曲家STEVEN
-    LEE親自作曲，[許永生](../Page/許永生.md "wikilink")親自參與作詞的作品，兩人相輔相成使得專輯的完成度更高。此首為中板節奏，以流行的RnB形式將RnB節奏與URBAN旋律相融合的歌曲，歌詞以分手後的男人希望戀人再次回來的內容展開\[4\]。音樂影像導演：문성주（Moon
-    Sang Joo）。
-  - 另外收錄的《**Intimidated**》是由名作曲家Drew Ryan Scott、Steven
-    Lee、凱蒂佩芮、凱莉克萊森、小甜甜布蘭妮等多位國際歌手御用吉他手/作曲家Brent
-    Paschke還有[SHINee](../Page/SHINee.md "wikilink")的" Amigo " ，SS501的
-    "Love Like This" 等替許多的亞洲偶像組合的音樂作曲且為組合"Varsity
-    Fanclub"主唱，活躍在英國和美國的Drew Ryan
-    Scott碰撞誕生的歌曲。以強烈的電吉他節奏和抒情旋律的流行搖滾曲風巧妙的融入了永生的歌聲。
-  - 《**Maria(眼淚之樹)**》是首為了給廣大等待已久的粉絲獻上只有許永生才能消化的Powerful抒情歌曲，以distortion吉他、輕快的drum
-    rock組合與前不同的情感旋律和抒情的鋼琴旋律相互融合的歌曲。
-  - 許永生第一次嘗試主要以舞曲風格的曲目《**Hello
-    Mello**》擺脫小調沉重的元素們，是首能在舞台上與觀眾愉快的融合在一起，此外亦是首能呈現永生歌聲的歌曲。
+  - 主打歌曲《**Crying**》是由[SS501](../Page/SS501.md "wikilink")“Love like this ”、“Love Ya”和首張個人迷你專輯中“Out the Club”、“Rainy Heart”等歌曲的作曲家STEVEN LEE親自作曲，[許永生](../Page/許永生.md "wikilink")親自參與作詞的作品，兩人相輔相成使得專輯的完成度更高。此首為中板節奏，以流行的RnB形式將RnB節奏與URBAN旋律相融合的歌曲，歌詞以分手後的男人希望戀人再次回來的內容展開\[4\]。音樂影像導演：문성주（Moon Sang Joo）。
+  - 另外收錄的《**Intimidated**》是由名作曲家Drew Ryan Scott、Steven Lee、凱蒂佩芮、凱莉克萊森、小甜甜布蘭妮等多位國際歌手御用吉他手/作曲家Brent Paschke還有[SHINee](../Page/SHINee.md "wikilink")的" Amigo " ，SS501的 "Love Like This" 等替許多的亞洲偶像組合的音樂作曲且為組合"Varsity Fanclub"主唱，活躍在英國和美國的Drew Ryan Scott碰撞誕生的歌曲。以強烈的電吉他節奏和抒情旋律的流行搖滾曲風巧妙的融入了永生的歌聲。
+  - 《**Maria(眼淚之樹)**》是首為了給廣大等待已久的粉絲獻上只有許永生才能消化的Powerful抒情歌曲，以distortion吉他、輕快的drum rock組合與前不同的情感旋律和抒情的鋼琴旋律相互融合的歌曲。
+  - 許永生第一次嘗試主要以舞曲風格的曲目《**Hello Mello**》擺脫小調沉重的元素們，是首能在舞台上與觀眾愉快的融合在一起，此外亦是首能呈現永生歌聲的歌曲。
 
 ## 曲目
 
@@ -53,8 +43,7 @@
 | 綜合          | 國內            |
 | SOLO        | 39（6,691,719） |
 
-  - <small>數位音源榜指的是韓國soribada、ollehmusic、melon、bugs音源網之線上連續播放 + 下載 +BGM
-    + 手機鈴聲銷售量總和所得結果於Gaon公佈</small>
+  - <small>數位音源榜指的是韓國soribada、ollehmusic、melon、bugs音源網之線上連續播放 + 下載 +BGM + 手機鈴聲銷售量總和所得結果於Gaon公佈</small>
 
 ### 銷售量及認證
 
@@ -211,26 +200,18 @@
 
 ### 新聞事件
 
-  - 2012年6月10日韓國Startoday新聞報導，指出後輩組合《NU VANE》中的成員張孝元在8日下午的MBC TV'show\!
-    音樂中心'結束之後，在自己的推特上發表了“許永生像乞丐似的”文字。引起許永生的歌迷們對其進行了非難，隨後該名成員又寫下了“好恐怖，要註銷推特才行…嗯，假的啦。這些都是什麼呀”這樣的文字，態度更為惡劣。
-    《NU
-    VANE》的隊長金斗衡也說出“哎（表不滿）那些歌迷真是好可怕啊，呵呵呵，說了句話就在推特爆發了”這樣的話，使歌迷們更加生氣。結果張孝元在10日凌晨“對於談及在同一公演場的某個歌手時，好像是有缺乏尊重的問題。在此對歌手和歌迷道歉。”低頭認錯。非難的文字也被刪除，此事告一段落\[7\]。
-  - 在張孝元發表完道歉申明後，許永生的經紀人即是SS501時期的經紀人許亨鎮於其[Twitter](../Page/Twitter.md "wikilink")上
-    \[<https://twitter.com/hyeongjin2>
-    [https://twitter.com/hyeongjin2\]發布以下文字](https://twitter.com/hyeongjin2%5D發布以下文字)：
+  - 2012年6月10日韓國Startoday新聞報導，指出後輩組合《NU VANE》中的成員張孝元在8日下午的MBC TV'show\! 音樂中心'結束之後，在自己的推特上發表了“許永生像乞丐似的”文字。引起許永生的歌迷們對其進行了非難，隨後該名成員又寫下了“好恐怖，要註銷推特才行…嗯，假的啦。這些都是什麼呀”這樣的文字，態度更為惡劣。 《NU VANE》的隊長金斗衡也說出“哎（表不滿）那些歌迷真是好可怕啊，呵呵呵，說了句話就在推特爆發了”這樣的話，使歌迷們更加生氣。結果張孝元在10日凌晨“對於談及在同一公演場的某個歌手時，好像是有缺乏尊重的問題。在此對歌手和歌迷道歉。”低頭認錯。非難的文字也被刪除，此事告一段落\[7\]。
+  - 在張孝元發表完道歉申明後，許永生的經紀人即是SS501時期的經紀人許亨鎮於其[Twitter](../Page/Twitter.md "wikilink")上 \[<https://twitter.com/hyeongjin2> [https://twitter.com/hyeongjin2\]發布以下文字](https://twitter.com/hyeongjin2%5D發布以下文字)：
 
 <!-- end list -->
 
   -
     <SMALL>
-    **在這個世界上，喜歡也好不喜歡也好，雖然有發表個人意見的自由，但是在那自由背後，我想要讓88年的弟弟們知道，是應該有責任的。
-    80年生的哥以哥的姿態和你談談，互相尊重才是做人的原則，而不是Diss（意指對對方不敬）！ ！
-    ！我是不會做那種事的喔，呵呵。**</SMALL>
+    **在這個世界上，喜歡也好不喜歡也好，雖然有發表個人意見的自由，但是在那自由背後，我想要讓88年的弟弟們知道，是應該有責任的。 80年生的哥以哥的姿態和你談談，互相尊重才是做人的原則，而不是Diss（意指對對方不敬）！ ！ ！我是不會做那種事的喔，呵呵。**</SMALL>
 
 <!-- end list -->
 
-  - 2012年12月5日平面媒體報導中國一位以原創音樂成名的年輕女歌手-[本兮](../Page/本兮.md "wikilink")在該年11月推出的全新EP《現在開始》被指其編曲與本作主打歌曲《Crying》相似度極高，並且本作演唱者的粉絲們隨即向該曲製作團隊投訴\[8\]。而該曲的作曲人Steven
-    Lee在獲悉此事後，也在個人推特上表示：'''Now on, we shouldn't put Inst ver :(
+  - 2012年12月5日平面媒體報導中國一位以原創音樂成名的年輕女歌手-[本兮](../Page/本兮.md "wikilink")在該年11月推出的全新EP《現在開始》被指其編曲與本作主打歌曲《Crying》相似度極高，並且本作演唱者的粉絲們隨即向該曲製作團隊投訴\[8\]。而該曲的作曲人Steven Lee在獲悉此事後，也在個人推特上表示：'''Now on, we shouldn't put Inst ver :(
 
 ## 參考資料
 
@@ -242,17 +223,13 @@
 
   - [**Crying** 官方M/V](http://www.youtube.com/watch?v=BjDC5BPZ0O0)
 
-  - [BILLBOARD K-POP
-    HOT100 69位](https://web.archive.org/web/20120922072544/http://www.billboard.co.kr/v1/chart.php)
+  - [BILLBOARD K-POP HOT100 69位](https://web.archive.org/web/20120922072544/http://www.billboard.co.kr/v1/chart.php)
 
   - [許永生《SOLO》給台灣歌迷獨家畫面搶先曝光1/2](http://www.youtube.com/watch?v=Lx_eAXcJPuc)
 
   - [許永生《SOLO》給台灣歌迷獨家畫面搶先曝光2/2](http://www.youtube.com/watch?v=J92YVMpvAa0)
 
-[Category:許永生專輯](https://zh.wikipedia.org/wiki/Category:許永生專輯 "wikilink")
-[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:华纳唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华纳唱片音乐专辑 "wikilink")
+[Category:許永生專輯](https://zh.wikipedia.org/wiki/Category:許永生專輯 "wikilink") [Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:华纳唱片音乐专辑](https://zh.wikipedia.org/wiki/Category:华纳唱片音乐专辑 "wikilink")
 
 1.
 

@@ -14,29 +14,22 @@
 
 #### 国外引进的节目
 
-  - 《[M\!
-    Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》（[Mnet
-    Media](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")）
-  - 《[Super Star
-    K](https://zh.wikipedia.org/wiki/Super_Star_K "wikilink")》（Mnet
-    Media）
+  - 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》（[Mnet Media](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")）
+  - 《[Super Star K](https://zh.wikipedia.org/wiki/Super_Star_K "wikilink")》（Mnet Media）
 
 ### 过去播出的节目
 
 #### 国外引进的节目
 
   - 《》（[英国独立电视台](https://zh.wikipedia.org/wiki/英国独立电视台 "wikilink")）\[1\]
-  - 《[Music
-    Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")》（[日本朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")）
-  - 《[Running
-    Man](../Page/Running_Man.md "wikilink")》（[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")）
+  - 《[Music Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")》（[日本朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")）
+  - 《[Running Man](../Page/Running_Man.md "wikilink")》（[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")）
 
 ## 参考文献
 
 ## 外部链接
 
   -
-[Category:2004年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2004年成立的电视台或电视频道 "wikilink")
-[Category:中国中央电视台数字频道](https://zh.wikipedia.org/wiki/Category:中国中央电视台数字频道 "wikilink")
+[Category:2004年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2004年成立的电视台或电视频道 "wikilink") [Category:中国中央电视台数字频道](https://zh.wikipedia.org/wiki/Category:中国中央电视台数字频道 "wikilink")
 
 1.

@@ -1,5 +1,4 @@
-《**WHO AM
-I**》是韓國男子組合[B1A4](../Page/B1A4.md "wikilink")第二張正規專輯，在2014年1月13日由[WM娛樂製作](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")，[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。這專輯的主打曲目《Lonely》（）與其他7首歌曲由組合隊長振永製作；成員CNU也參與了另外兩首歌曲的製作部分\[1\]。
+《**WHO AM I**》是韓國男子組合[B1A4](../Page/B1A4.md "wikilink")第二張正規專輯，在2014年1月13日由[WM娛樂製作](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")，[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。這專輯的主打曲目《Lonely》（）與其他7首歌曲由組合隊長振永製作；成員CNU也參與了另外兩首歌曲的製作部分\[1\]。
 
 ## 發行及宣傳
 
@@ -111,10 +110,7 @@ I**》是韓國男子組合[B1A4](../Page/B1A4.md "wikilink")第二張正規專�
 
   -
 
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:B1A4音樂專輯](https://zh.wikipedia.org/wiki/Category:B1A4音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:B1A4音樂專輯](https://zh.wikipedia.org/wiki/Category:B1A4音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

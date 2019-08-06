@@ -1,12 +1,6 @@
-**介面**（），在[Java](../Page/Java.md "wikilink")程式語言中是一個（Abstract
-Type），它被用來要求[類別](../Page/类_\(计算机科学\).md "wikilink")(Class)必須實作指定的方法，使不同類別的物件可以利用相同的界面進行溝通。介面通常以**`interface`**來宣告，它僅能包含[方法簽名](https://zh.wikipedia.org/wiki/方法簽名 "wikilink")（Method
-Signature）以及[常數宣告](https://zh.wikipedia.org/wiki/常數 "wikilink")（變數宣告包含了
-[`static`](https://zh.wikipedia.org/wiki/Static_variable#Static_Variables_as_Class_Variables "wikilink")
-及
-[`final`](https://zh.wikipedia.org/wiki/Final_\(Java\) "wikilink")），一個介面不會包含[方法的實作](../Page/方法_\(電腦科學\).md "wikilink")（僅有定義）。
+**介面**（），在[Java](../Page/Java.md "wikilink")程式語言中是一個（Abstract Type），它被用來要求[類別](../Page/类_\(计算机科学\).md "wikilink")(Class)必須實作指定的方法，使不同類別的物件可以利用相同的界面進行溝通。介面通常以**`interface`**來宣告，它僅能包含[方法簽名](https://zh.wikipedia.org/wiki/方法簽名 "wikilink")（Method Signature）以及[常數宣告](https://zh.wikipedia.org/wiki/常數 "wikilink")（變數宣告包含了 [`static`](https://zh.wikipedia.org/wiki/Static_variable#Static_Variables_as_Class_Variables "wikilink") 及 [`final`](https://zh.wikipedia.org/wiki/Final_\(Java\) "wikilink")），一個介面不會包含[方法的實作](../Page/方法_\(電腦科學\).md "wikilink")（僅有定義）。
 
-介面無法被实例化，但是可以被實作。一個實作介面的類別，必須實作介面內所描述的所有方法，否則就必須宣告為（Abstract
-Class）。另外，在Java中，介面型別可用來宣告一個變數，他們可以成為一個空指標，或是被綁定在一個以此介面實現的物件。
+介面無法被实例化，但是可以被實作。一個實作介面的類別，必須實作介面內所描述的所有方法，否則就必須宣告為（Abstract Class）。另外，在Java中，介面型別可用來宣告一個變數，他們可以成為一個空指標，或是被綁定在一個以此介面實現的物件。
 
 其中一個使用介面的優勢是，可以利用他們模擬[多重继承](../Page/多重继承.md "wikilink")，類別在JAVA中不允許多重继承，所有在JAVA中的類別必須而且僅能有一個父類別，而（JAVA型別系統中最頂層的型別）是唯一一個例外。
 
@@ -78,8 +72,7 @@ public class Lion implements Predator {
  public class Frog implements Predator, Prey { ... }
 ```
 
-介面通常被使用在Java程式語言，用來做[回调函数](../Page/回调函数.md "wikilink")使用\[2\]
-。Java並不允许方法作為參數傳遞使用，因此，其中一個解決辦法則是可以定義一個介面，把這個介面當成方法的參數，以此來使用該項物件的方法簽名。
+介面通常被使用在Java程式語言，用來做[回调函数](../Page/回调函数.md "wikilink")使用\[2\] 。Java並不允许方法作為參數傳遞使用，因此，其中一個解決辦法則是可以定義一個介面，把這個介面當成方法的參數，以此來使用該項物件的方法簽名。
 
 ### 子介面
 
@@ -91,9 +84,7 @@ public class Lion implements Predator {
  }
 ```
 
-以上的程式片段是合法定義的子介面，與類別不同的是，介面允許多重繼承，而`Predator` 及 `Venomous`
-可能定義或是繼承相同的方法，比如說`kill(Prey
-prey)`，當一個類別實現`VenomousPredator`的時候，它將同時實現這兩種方法。
+以上的程式片段是合法定義的子介面，與類別不同的是，介面允許多重繼承，而`Predator` 及 `Venomous` 可能定義或是繼承相同的方法，比如說`kill(Prey prey)`，當一個類別實現`VenomousPredator`的時候，它將同時實現這兩種方法。
 
 ## 範例
 
@@ -101,9 +92,7 @@ prey)`，當一個類別實現`VenomousPredator`的時候，它將同時實現�
 
   - 擁有一個方法，用以描述兩個物件是否相等，或是其中一個物件大於另外一個物件。[泛型](../Page/泛型.md "wikilink")允許已經實現的類別，其物件可以用來互相比較。
 
-  - 是一個[marker
-    interface](https://zh.wikipedia.org/wiki/marker_interface "wikilink")
-    沒有任何介面或是欄位，僅有一個空的主體，它被用來表示一個類別可以被[序列化](../Page/序列化.md "wikilink")。它的[Javadoc](../Page/Javadoc.md "wikilink")描述了他是如何運作，而且不需要被強制編程。
+  - 是一個[marker interface](https://zh.wikipedia.org/wiki/marker_interface "wikilink") 沒有任何介面或是欄位，僅有一個空的主體，它被用來表示一個類別可以被[序列化](../Page/序列化.md "wikilink")。它的[Javadoc](../Page/Javadoc.md "wikilink")描述了他是如何運作，而且不需要被強制編程。
 
 ## 另見
 
@@ -114,18 +103,11 @@ prey)`，當一個類別實現`VenomousPredator`的時候，它將同時實現�
 
 ## 外部連結
 
-  - [Skeletal Implementations in Java
-    Explained](http://10kloc.wordpress.com/2012/12/03/abstract-interfaces-the-mystery-revealed/)
-  - [What Is an
-    Interface?](http://java.sun.com/docs/books/tutorial/java/concepts/interface.html)
-  - [Difference between a Java interface and a Java abstract
-    class](http://javapapers.com/?p=17)
+  - [Skeletal Implementations in Java Explained](http://10kloc.wordpress.com/2012/12/03/abstract-interfaces-the-mystery-revealed/)
+  - [What Is an Interface?](http://java.sun.com/docs/books/tutorial/java/concepts/interface.html)
+  - [Difference between a Java interface and a Java abstract class](http://javapapers.com/?p=17)
 
-[de:Schnittstelle_(Objektorientierung)](https://zh.wikipedia.org/wiki/de:Schnittstelle_\(Objektorientierung\) "wikilink")
-[pl:Interfejs
-(Java)](https://zh.wikipedia.org/wiki/pl:Interfejs_\(Java\) "wikilink")
-[ru:Интерфейс (объектно-ориентированное
-программирование)](https://zh.wikipedia.org/wiki/ru:Интерфейс_\(объектно-ориентированное_программирование\) "wikilink")
+[de:Schnittstelle_(Objektorientierung)](https://zh.wikipedia.org/wiki/de:Schnittstelle_\(Objektorientierung\) "wikilink") [pl:Interfejs (Java)](https://zh.wikipedia.org/wiki/pl:Interfejs_\(Java\) "wikilink") [ru:Интерфейс (объектно-ориентированное программирование)](https://zh.wikipedia.org/wiki/ru:Интерфейс_\(объектно-ориентированное_программирование\) "wikilink")
 
 [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
 

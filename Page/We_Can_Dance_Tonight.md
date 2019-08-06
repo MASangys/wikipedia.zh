@@ -1,5 +1,4 @@
-《**We Can Dance
-Tonight**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[徐仁國](../Page/徐仁國.md "wikilink")的第二張單曲，由[INP作曲填詞](https://zh.wikipedia.org/wiki/INP "wikilink")，[Justin](../Page/Justin.md "wikilink")協作作曲，並在2013年10月16日以兩個不同版本推出\[1\]。
+《**We Can Dance Tonight**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[徐仁國](../Page/徐仁國.md "wikilink")的第二張單曲，由[INP作曲填詞](https://zh.wikipedia.org/wiki/INP "wikilink")，[Justin](../Page/Justin.md "wikilink")協作作曲，並在2013年10月16日以兩個不同版本推出\[1\]。
 
 ## 背景
 
@@ -9,8 +8,7 @@ Tonight**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 
 此單曲共分為2個發行版本，每個版本都收錄了三首歌曲的純音樂版本，首批版本附有握手會參加卷。
 
-  - Type-A（編號：CRCP-10297）：這版本包括了一片CD及《We Can Dance
-    Tonight》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作特輯的DVD\[4\]。
+  - Type-A（編號：CRCP-10297）：這版本包括了一片CD及《We Can Dance Tonight》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作特輯的DVD\[4\]。
 
 <!-- end list -->
 
@@ -54,8 +52,7 @@ Tonight**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 
   -
 
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:徐仁國音樂專輯](https://zh.wikipedia.org/wiki/Category:徐仁國音樂專輯 "wikilink")
+[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:徐仁國音樂專輯](https://zh.wikipedia.org/wiki/Category:徐仁國音樂專輯 "wikilink")
 
 1.
 

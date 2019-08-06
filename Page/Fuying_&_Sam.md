@@ -1,5 +1,4 @@
-**Fuying &
-Sam**（縮寫FS），是[馬來西亞雙人演唱團體](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，由歌手[王赴穎](https://zh.wikipedia.org/wiki/王赴穎 "wikilink")（英文名：Fuying）及[沈展寧](https://zh.wikipedia.org/wiki/沈展寧 "wikilink")（英文名：Sam）於2012年10月29日組成出道。
+**Fuying & Sam**（縮寫FS），是[馬來西亞雙人演唱團體](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")，由歌手[王赴穎](https://zh.wikipedia.org/wiki/王赴穎 "wikilink")（英文名：Fuying）及[沈展寧](https://zh.wikipedia.org/wiki/沈展寧 "wikilink")（英文名：Sam）於2012年10月29日組成出道。
 
 在發行首張專輯《溫度》時，巨星[劉德華](../Page/劉德華.md "wikilink")錄製了VCR祝福他們\[1\]，並稱讚看好FS的歌唱實力，祝福他們的音樂能得到大家的支持。兩人看了這段VCR後感到難以置信，並期許每張專辑都能夠大賣。FS曾榮登大馬的「十冠王」\[2\]，更被外界一致認為是[無印良品的接班人](../Page/無印良品_\(樂團\).md "wikilink")。
 
@@ -169,12 +168,8 @@ MV
 
 ## 獲獎紀錄
 
-  - 2013 [MY
-    Astro至尊流行榜頒獎典禮](https://zh.wikipedia.org/wiki/MY_Astro至尊流行榜頒獎典禮 "wikilink")
-    至尊新人獎
-  - 2013 [MY
-    Astro至尊流行榜頒獎典禮](https://zh.wikipedia.org/wiki/MY_Astro至尊流行榜頒獎典禮 "wikilink")
-    20大金曲 - 分開以後
+  - 2013 [MY Astro至尊流行榜頒獎典禮](https://zh.wikipedia.org/wiki/MY_Astro至尊流行榜頒獎典禮 "wikilink") 至尊新人獎
+  - 2013 [MY Astro至尊流行榜頒獎典禮](https://zh.wikipedia.org/wiki/MY_Astro至尊流行榜頒獎典禮 "wikilink") 20大金曲 - 分開以後
   - 2013 AIM 中文音樂頒獎典禮 新人獎 - 銅獎
   - 2013 Neway K歌頒獎典禮 我最喜愛傑出新人獎 - 金獎
   - 2013 Neway K歌頒獎典禮 我最喜愛演唱组合獎 - 銀獎
@@ -190,9 +185,7 @@ MV
   - 2015 馬來西亞娛協獎 現場投選最受歡迎歌手獎
   - 2015 馬來西亞娛協獎 新人推薦-銅獎
   - 2015 馬來西亞娛協獎 十大原創歌曲獎（本地組）- 分開以後
-  - 2015
-    第五屆[全球流行音樂金榜](https://zh.wikipedia.org/wiki/全球流行音樂金榜 "wikilink")
-    年度最佳組合
+  - 2015 第五屆[全球流行音樂金榜](https://zh.wikipedia.org/wiki/全球流行音樂金榜 "wikilink") 年度最佳組合
   - 2016 Neway K歌頒獎典禮 [JOOX](../Page/Joox.md "wikilink") 人氣獎
   - 2016 Neway K歌頒獎典禮 5大熱門獨家K歌獎 - 海
   - 2016 Neway K歌頒獎典禮 NEWAY 10大熱門MV獎 - 愛一個人不一定要在一起
@@ -212,8 +205,7 @@ MV
   - 《RIBENA PINEAPPLE & PASSIONFRUIT 》飲品代言
   - 《McDonald's》BIG MAC CHANT CHALLENGE 宣傳大使
   - 2013 [聯華食品](../Page/聯華食品.md "wikilink")《MINI可樂果》台灣廣告、代言
-  - 2014
-    [卡巴斯基廣告](https://zh.wikipedia.org/wiki/卡巴斯基 "wikilink")（和[周杰倫](../Page/周杰倫.md "wikilink")合拍）\[12\]
+  - 2014 [卡巴斯基廣告](https://zh.wikipedia.org/wiki/卡巴斯基 "wikilink")（和[周杰倫](../Page/周杰倫.md "wikilink")合拍）\[12\]
   - 2016 WATSONS SWITCH & SAVE CAMPAIGN 宣傳大使
   - 2016 中華民國紅心字會公益大使\[13\]
 
@@ -227,31 +219,18 @@ MV
 
 </div>
 
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:馬來西亞演唱團體](https://zh.wikipedia.org/wiki/Category:馬來西亞演唱團體 "wikilink")
-[Category:馬來西亞男子演唱團體](https://zh.wikipedia.org/wiki/Category:馬來西亞男子演唱團體 "wikilink")
-[Category:台灣演唱團體](https://zh.wikipedia.org/wiki/Category:台灣演唱團體 "wikilink")
+[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:馬來西亞演唱團體](https://zh.wikipedia.org/wiki/Category:馬來西亞演唱團體 "wikilink") [Category:馬來西亞男子演唱團體](https://zh.wikipedia.org/wiki/Category:馬來西亞男子演唱團體 "wikilink") [Category:台灣演唱團體](https://zh.wikipedia.org/wiki/Category:台灣演唱團體 "wikilink")
 
 1.
 2.
 3.
 4.
-5.   為海洋主持公道 {{\!}} 海洋危機 {{\!}}
-    願景工程|newspaper=願景工程|accessdate=2017-09-30}}
+5.   為海洋主持公道 {{\!}} 海洋危機 {{\!}} 願景工程|newspaper=願景工程|accessdate=2017-09-30}}
 6.
-7.  [\[Love
-    Protection 1.0介紹](https://ent.sinchew.com.my/node/38094)，2013年10月26日
-    (六) 21:50 (UTC+8)查閱
-8.  FS (Fuying & Sam)- 專輯介紹
-    -懂你想聽的-myMusic|accessdate=2017-09-30|work=全世界{{\!}}FS
-    (Fuying & Sam)- 專輯介紹
-    -懂你想聽的-myMusic|language=zh-hant|archive-url=[https://web.archive.org/web/20171001031957/https://www.mymusic.net.tw/ux/w/album/show/464769|archive-date=2017-10-01|dead-url=yes](https://web.archive.org/web/20171001031957/https://www.mymusic.net.tw/ux/w/album/show/464769%7Carchive-date=2017-10-01%7Cdead-url=yes)}}
+7.  [\[Love Protection 1.0介紹](https://ent.sinchew.com.my/node/38094)，2013年10月26日 (六) 21:50 (UTC+8)查閱
+8.  FS (Fuying & Sam)- 專輯介紹 -懂你想聽的-myMusic|accessdate=2017-09-30|work=全世界{{\!}}FS (Fuying & Sam)- 專輯介紹 -懂你想聽的-myMusic|language=zh-hant|archive-url=[https://web.archive.org/web/20171001031957/https://www.mymusic.net.tw/ux/w/album/show/464769|archive-date=2017-10-01|dead-url=yes](https://web.archive.org/web/20171001031957/https://www.mymusic.net.tw/ux/w/album/show/464769%7Carchive-date=2017-10-01%7Cdead-url=yes)}}
 9.
 10.
-11. FS (Fuying & Sam)- 專輯介紹
-    -懂你想聽的-myMusic|accessdate=2017-09-30|work=我們走在相思湖畔{{\!}}FS
-    (Fuying & Sam)- 專輯介紹 -懂你想聽的-myMusic|language=zh-hant}}
-12.  即時新聞 {{\!}} 20140907 {{\!}}
-    蘋果日報|newspaper=蘋果日報|accessdate=2017-09-30|language=zh-hant}}
-13.
-    Woah.MY|last=MY|first=Woah\!|date=2016-12-21|newspaper=Woah.MY|accessdate=2017-09-30|language=en-US}}
+11. FS (Fuying & Sam)- 專輯介紹 -懂你想聽的-myMusic|accessdate=2017-09-30|work=我們走在相思湖畔{{\!}}FS (Fuying & Sam)- 專輯介紹 -懂你想聽的-myMusic|language=zh-hant}}
+12.  即時新聞 {{\!}} 20140907 {{\!}} 蘋果日報|newspaper=蘋果日報|accessdate=2017-09-30|language=zh-hant}}
+13.  Woah.MY|last=MY|first=Woah\!|date=2016-12-21|newspaper=Woah.MY|accessdate=2017-09-30|language=en-US}}

@@ -24,16 +24,12 @@ ED2T型电力动车组是在[ER2T型电力动车组](../Page/ER2T型电力动车
 
 ## 外部链接
 
-  - [Историческая
-    справка](https://web.archive.org/web/20030705104700/http://www.emupages.narod.ru/history/ed2t.htm)
+  - [Историческая справка](https://web.archive.org/web/20030705104700/http://www.emupages.narod.ru/history/ed2t.htm)
 
   - [Приписка поездов ЭД2Т](http://rus-etrain.ru/series/ЭД2Т)
 
-  - [Электропоезд постоянного тока
-    ЭД2Т](http://www.emupages.narod.ru/trains-ed2t.htm)
+  - [Электропоезд постоянного тока ЭД2Т](http://www.emupages.narod.ru/trains-ed2t.htm)
 
-[Category:3000伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:3000伏直流电力动车组 "wikilink")
-[Category:俄罗斯电力动车组](https://zh.wikipedia.org/wiki/Category:俄罗斯电力动车组 "wikilink")
-[Category:乌克兰电力动车组](https://zh.wikipedia.org/wiki/Category:乌克兰电力动车组 "wikilink")
+[Category:3000伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:3000伏直流电力动车组 "wikilink") [Category:俄罗斯电力动车组](https://zh.wikipedia.org/wiki/Category:俄罗斯电力动车组 "wikilink") [Category:乌克兰电力动车组](https://zh.wikipedia.org/wiki/Category:乌克兰电力动车组 "wikilink")
 
 1.

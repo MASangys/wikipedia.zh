@@ -1,6 +1,4 @@
-**NBA年度最佳队友奖**，全名**特曼-史托克斯年度最佳队友奖**（英文：Twyman–Stokes Teammate of the
-Year
-Award）為一年一度的[NBA](../Page/NBA.md "wikilink")獎項，頒發給被認為在比賽中「無私打球，對球隊專注敬業」的理想隊友。\[1\]
+**NBA年度最佳队友奖**，全名**特曼-史托克斯年度最佳队友奖**（英文：Twyman–Stokes Teammate of the Year Award）為一年一度的[NBA](../Page/NBA.md "wikilink")獎項，頒發給被認為在比賽中「無私打球，對球隊專注敬業」的理想隊友。\[1\]
 
 ## 由来
 
@@ -14,10 +12,7 @@ Award）為一年一度的[NBA](../Page/NBA.md "wikilink")獎項，頒發給被�
 
 ## 获奖情况
 
-[洛杉磯快艇隊後衛](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink")[昌西·比卢普斯為首位得獎者](https://zh.wikipedia.org/wiki/昌西·比卢普斯 "wikilink")，[邁阿密熱火隊前鋒](https://zh.wikipedia.org/wiki/邁阿密熱火 "wikilink")[肖恩·巴蒂尔](../Page/肖恩·巴蒂尔.md "wikilink")得到第二名，而紐約尼克隊後衛[傑森·基德得到第三名](https://zh.wikipedia.org/wiki/傑森·基德 "wikilink")。\[7\]而巴蒂尔則在[2013-14
-NBA賽季得到此獎](../Page/2013-14_NBA賽季.md "wikilink")，[艾爾·傑佛森得到第二名](https://zh.wikipedia.org/wiki/艾爾·傑佛森 "wikilink")，而[德克·諾威斯基得到第三名](https://zh.wikipedia.org/wiki/德克·諾威斯基 "wikilink")。\[8\]
-[蒂姆·邓肯在](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")[2014-15
-NBA赛季得到此奖](https://zh.wikipedia.org/wiki/2014-15_NBA赛季 "wikilink")。\[9\][文斯·卡特得到第二名](https://zh.wikipedia.org/wiki/文斯·卡特 "wikilink")，[埃尔顿·布兰德](../Page/埃尔顿·布兰德.md "wikilink")得到第三名。
+[洛杉磯快艇隊後衛](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink")[昌西·比卢普斯為首位得獎者](https://zh.wikipedia.org/wiki/昌西·比卢普斯 "wikilink")，[邁阿密熱火隊前鋒](https://zh.wikipedia.org/wiki/邁阿密熱火 "wikilink")[肖恩·巴蒂尔](../Page/肖恩·巴蒂尔.md "wikilink")得到第二名，而紐約尼克隊後衛[傑森·基德得到第三名](https://zh.wikipedia.org/wiki/傑森·基德 "wikilink")。\[7\]而巴蒂尔則在[2013-14 NBA賽季得到此獎](../Page/2013-14_NBA賽季.md "wikilink")，[艾爾·傑佛森得到第二名](https://zh.wikipedia.org/wiki/艾爾·傑佛森 "wikilink")，而[德克·諾威斯基得到第三名](https://zh.wikipedia.org/wiki/德克·諾威斯基 "wikilink")。\[8\] [蒂姆·邓肯在](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")[2014-15 NBA赛季得到此奖](https://zh.wikipedia.org/wiki/2014-15_NBA赛季 "wikilink")。\[9\][文斯·卡特得到第二名](https://zh.wikipedia.org/wiki/文斯·卡特 "wikilink")，[埃尔顿·布兰德](../Page/埃尔顿·布兰德.md "wikilink")得到第三名。
 
 ## 得獎者
 
@@ -103,13 +98,10 @@ NBA赛季得到此奖](https://zh.wikipedia.org/wiki/2014-15_NBA赛季 "wikilink
 
 ## 外部連結
 
-  - [GIVE A HAND
-    最佳隊友](http://channel.pixnet.net/sport/carticle/basketball/xxlnbamag/151780918)
-  - [\[場外\] 完美詮釋最佳隊友
-    史透克斯、泰恩曼精神永流傳](http://channel.pixnet.net/sport/news/article/391947)
+  - [GIVE A HAND 最佳隊友](http://channel.pixnet.net/sport/carticle/basketball/xxlnbamag/151780918)
+  - [\[場外\] 完美詮釋最佳隊友 史透克斯、泰恩曼精神永流傳](http://channel.pixnet.net/sport/news/article/391947)
 
-[Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink")
-[Category:2013年建立的獎項](https://zh.wikipedia.org/wiki/Category:2013年建立的獎項 "wikilink")
+[Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink") [Category:2013年建立的獎項](https://zh.wikipedia.org/wiki/Category:2013年建立的獎項 "wikilink")
 
 1.
 

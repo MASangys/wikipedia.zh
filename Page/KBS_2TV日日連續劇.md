@@ -1,5 +1,4 @@
-**KBS 2TV日日連續劇**（）是[KBS
-2TV於](../Page/KBS第2频道.md "wikilink")[週一至](https://zh.wikipedia.org/wiki/週一 "wikilink")[週五晚上](https://zh.wikipedia.org/wiki/週五 "wikilink")7時50分所播出的時段。該時段自1984年9月至1997年4月、2001至2003年、2008年實行。該時段隨《回來的大醬湯鍋》播畢後暫停，時隔5年於2013年8月19日重新恢復。
+**KBS 2TV日日連續劇**（）是[KBS 2TV於](../Page/KBS第2频道.md "wikilink")[週一至](https://zh.wikipedia.org/wiki/週一 "wikilink")[週五晚上](https://zh.wikipedia.org/wiki/週五 "wikilink")7時50分所播出的時段。該時段自1984年9月至1997年4月、2001至2003年、2008年實行。該時段隨《回來的大醬湯鍋》播畢後暫停，時隔5年於2013年8月19日重新恢復。
 
 ## 作品列表
 
@@ -806,6 +805,4 @@
   - [SBS日日連續劇](../Page/SBS日日連續劇.md "wikilink")
   - [JTBC日日連續劇](../Page/JTBC日日連續劇.md "wikilink")
 
-[Category:KBS_2TV日日連續劇](https://zh.wikipedia.org/wiki/Category:KBS_2TV日日連續劇 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
+[Category:KBS_2TV日日連續劇](https://zh.wikipedia.org/wiki/Category:KBS_2TV日日連續劇 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")

@@ -1,10 +1,8 @@
-**AKB48
-春季之全國小小巡演～路還遠着呢AKB48\!～**（)是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")在2007年3月10日至4月1日在\[1\]、、\[2\]、\[3\]舉行的全國巡迴演唱會，亦是AKB48初次巡迴演唱會\[4\]。
+**AKB48 春季之全國小小巡演～路還遠着呢AKB48\!～**（)是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")在2007年3月10日至4月1日在\[1\]、、\[2\]、\[3\]舉行的全國巡迴演唱會，亦是AKB48初次巡迴演唱會\[4\]。
 
 ## 概要
 
-本次演唱會是AKB48第二次演唱會，亦是初次的全國巡迴演唱會。出演為是初代Team A、Team K及三位由Team A移植至Team
-B的成員。而當有成員因工作等原因未能出現，則由Team B的候補生代演。
+本次演唱會是AKB48第二次演唱會，亦是初次的全國巡迴演唱會。出演為是初代Team A、Team K及三位由Team A移植至Team B的成員。而當有成員因工作等原因未能出現，則由Team B的候補生代演。
 
   - 官方Blog於2006年8月披露將會在2007年春天舉行全國巡迴演唱會\[5\]\[6\]。而在2006年12月於官方Blog公佈詳細的全國巡迴演唱會資訊\[7\]\[8\]。
 
@@ -49,70 +47,43 @@ B的成員。而當有成員因工作等原因未能出現，則由Team B的候�
 <!-- end list -->
 
 1.  **overture**
-2.  **[Virgin love](https://zh.wikipedia.org/wiki/制服真礙事 "wikilink")** -
-    全員
+2.  **[Virgin love](https://zh.wikipedia.org/wiki/制服真礙事 "wikilink")** - 全員
 3.  **[BINGO\!](../Page/BINGO!.md "wikilink")** - 全員
-4.  **[生日夜](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「為了誰」 "wikilink")**（）
-    - 全員
+4.  **[生日夜](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「為了誰」 "wikilink")**（） - 全員
 5.  **MC1**
-6.  **[正在戀愛中](https://zh.wikipedia.org/wiki/TeamA_4th_Stage「正在戀愛中」 "wikilink")**（）
-    - Team A、浦野、平嶋、渡邊
-7.  **[令人在意的轉校生](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（）
-    - Team K
+6.  **[正在戀愛中](https://zh.wikipedia.org/wiki/TeamA_4th_Stage「正在戀愛中」 "wikilink")**（） - Team A、浦野、平嶋、渡邊
+7.  **[令人在意的轉校生](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（） - Team K
 8.  **[Only today](../Page/BINGO!.md "wikilink")** - Team A、浦野、平嶋、渡邊
-9.  **[腦內天堂](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（）
-    - Team K
+9.  **[腦內天堂](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（） - Team K
 10. **MC2**
-11. **[7點12分的初戀](https://zh.wikipedia.org/wiki/TeamA_4th_Stage「正在戀愛中」 "wikilink")**（）
-    - 大江、駒谷、成田、前田、增山
-12. **[你是天馬](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（）
-    - 秋元、佐藤夏、野呂、宮澤
-13. **[純愛的漸強音](https://zh.wikipedia.org/wiki/TeamA_4th_Stage「正在戀愛中」 "wikilink")**（）
-    - 小嶋、高橋、峯岸
-14. **[MARIA](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**
-    - 大堀、河西、增田
-15. **[Faint](https://zh.wikipedia.org/wiki/TeamA_4th_Stage「正在戀愛中」 "wikilink")**
-    - 板野、川崎、戶島
-16. **[淚中帶笑](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（）
-    - 大島
+11. **[7點12分的初戀](https://zh.wikipedia.org/wiki/TeamA_4th_Stage「正在戀愛中」 "wikilink")**（） - 大江、駒谷、成田、前田、增山
+12. **[你是天馬](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（） - 秋元、佐藤夏、野呂、宮澤
+13. **[純愛的漸強音](https://zh.wikipedia.org/wiki/TeamA_4th_Stage「正在戀愛中」 "wikilink")**（） - 小嶋、高橋、峯岸
+14. **[MARIA](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")** - 大堀、河西、增田
+15. **[Faint](https://zh.wikipedia.org/wiki/TeamA_4th_Stage「正在戀愛中」 "wikilink")** - 板野、川崎、戶島
+16. **[淚中帶笑](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（） - 大島
 17. **[加油！](../Page/星野滿.md "wikilink")**（） - 星野
-18. **[骨頭華爾茲](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（）
-    - 骨頭組 from AKB48（板野、奧、小野和增山）
-19. **[歸鄉](https://zh.wikipedia.org/wiki/TeamA_4th_Stage「正在戀愛中」 "wikilink")**（）
-    - 佐藤由、篠田、中西
-20. **[滴溜溜的轉](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（）
-    - 大堀、小林、高田、早野、松原
+18. **[骨頭華爾茲](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（） - 骨頭組 from AKB48（板野、奧、小野和增山）
+19. **[歸鄉](https://zh.wikipedia.org/wiki/TeamA_4th_Stage「正在戀愛中」 "wikilink")**（） - 佐藤由、篠田、中西
+20. **[滴溜溜的轉](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（） - 大堀、小林、高田、早野、松原
 21. **MC3**
-22. **[制服真礙事](https://zh.wikipedia.org/wiki/制服真礙事 "wikilink")**（） -
-    板野、大島麻、小嶋、篠田、高橋、中西、前田、峯岸、秋元、大島、小野、河西、增田、宮澤
-23. **[曾不屑一顧的愛情](../Page/曾不屑一顧的愛情.md "wikilink")**（） -
-    板野、大島麻、小嶋、篠田、高橋、中西、前田、峯岸、秋元、大島、小野、河西、小林、佐藤夏、增田、宮澤
-24. **[Mr.
-    Kissman](https://zh.wikipedia.org/wiki/TeamA_4th_Stage「正在戀愛中」 "wikilink")**
-    - 全員
+22. **[制服真礙事](https://zh.wikipedia.org/wiki/制服真礙事 "wikilink")**（） - 板野、大島麻、小嶋、篠田、高橋、中西、前田、峯岸、秋元、大島、小野、河西、增田、宮澤
+23. **[曾不屑一顧的愛情](../Page/曾不屑一顧的愛情.md "wikilink")**（） - 板野、大島麻、小嶋、篠田、高橋、中西、前田、峯岸、秋元、大島、小野、河西、小林、佐藤夏、增田、宮澤
+24. **[Mr. Kissman](https://zh.wikipedia.org/wiki/TeamA_4th_Stage「正在戀愛中」 "wikilink")** - 全員
 25. **MC4**
-26. **[單戀的畢業式](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（）
-    - 全員
+26. **[單戀的畢業式](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（） - 全員
 
 **安可曲**
 
-1.  **[Dear my
-    teacher](https://zh.wikipedia.org/wiki/櫻花的花瓣們 "wikilink")**
-    - 全員
-2.  **[LOVE
-    CHASE](https://zh.wikipedia.org/wiki/TeamA_4th_Stage「正在戀愛中」 "wikilink")**
-    - Team A、浦野、平嶋、渡邊
+1.  **[Dear my teacher](https://zh.wikipedia.org/wiki/櫻花的花瓣們 "wikilink")** - 全員
+2.  **[LOVE CHASE](https://zh.wikipedia.org/wiki/TeamA_4th_Stage「正在戀愛中」 "wikilink")** - Team A、浦野、平嶋、渡邊
 3.  **[化作滾石吧](../Page/Team_K_2nd_Stage「青春女孩」.md "wikilink")**（） - Team K
-4.  **[與花迸散！](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（）
-    - Team K
-5.  **[AKB48](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」 "wikilink")**
-    - 全員
+4.  **[與花迸散！](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（） - Team K
+5.  **[AKB48](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」 "wikilink")** - 全員
 6.  **[櫻花的花瓣們](https://zh.wikipedia.org/wiki/櫻花的花瓣們 "wikilink")** - 全員
 7.  **[裙襬飄飄](../Page/裙襬飄飄.md "wikilink")** - 全員
-8.  **[想見你](https://zh.wikipedia.org/wiki/想見你_\(AKB48單曲\) "wikilink")**
-    - 全員\[13\]
-9.  **[明天會有不一樣的你](../Page/Chocolove_from_AKB48.md "wikilink")**（） -
-    Chocolove from AKB48（中西、秋元、宮澤）※只於大阪演出\[14\]
+8.  **[想見你](https://zh.wikipedia.org/wiki/想見你_\(AKB48單曲\) "wikilink")** - 全員\[13\]
+9.  **[明天會有不一樣的你](../Page/Chocolove_from_AKB48.md "wikilink")**（） - Chocolove from AKB48（中西、秋元、宮澤）※只於大阪演出\[14\]
 
 ### 名古屋、福岡
 
@@ -162,8 +133,7 @@ B的成員。而當有成員因工作等原因未能出現，則由Team B的候�
 
 ## DVD
 
-演唱會的[DVD於](https://zh.wikipedia.org/wiki/DVD "wikilink")2007年7月18日由[DefSTAR
-Records負責發行](../Page/DefSTAR_Records.md "wikilink")，收錄了在東京厚生年金會館舉行的演出及幕後花絮。本DVD在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")的最高排名為42名\[15\]。
+演唱會的[DVD於](https://zh.wikipedia.org/wiki/DVD "wikilink")2007年7月18日由[DefSTAR Records負責發行](../Page/DefSTAR_Records.md "wikilink")，收錄了在東京厚生年金會館舉行的演出及幕後花絮。本DVD在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")的最高排名為42名\[15\]。
 
 ## 注释
 
@@ -179,8 +149,7 @@ Records負責發行](../Page/DefSTAR_Records.md "wikilink")，收錄了在東京
 
   - [AKB官方網站](http://www.akb48.co.jp/about/discography/)
 
-  - [Sony Music
-    Shop](http://www.sonymusicshop.jp/m/arti/artiShw.php?site=S&ima=0556&cd=70004491&so=NW)
+  - [Sony Music Shop](http://www.sonymusicshop.jp/m/arti/artiShw.php?site=S&ima=0556&cd=70004491&so=NW)
 
 [Category:AKB48的演唱会](https://zh.wikipedia.org/wiki/Category:AKB48的演唱会 "wikilink")
 

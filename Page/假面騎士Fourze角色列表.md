@@ -10,28 +10,21 @@
     **假面騎士Fourze**的變身者，轉學到天之川學園高中的學生。頂著飛機頭髮型並配短袍，看起來雖然像[不良少年](https://zh.wikipedia.org/wiki/Bad_Boy "wikilink")，但其實只有成績不好，而且本人擁有很強的正義感。「要和全校學生成為朋友」是本人一直努力的目標。
     性格非常鮮明的熱血笨蛋角色，相反待人時表現出乎意料的洞察力，對朋友是非常愛護，必先和對方進行「友情之証」來確立朋友關係。
     開始時轉學到天之川學園高中的2年B班學生，第29話開始升為3年B班。17歲→18歲。
-    與歌星賢吾命運般的相遇，使用從他手上獲得的Fourze
-    Driver成為假面騎士Fourze進行戰鬥。從野座間友子聽聞有關假面騎士的都市傳說後，才開始將Fourze稱為「假面騎士」並藉此成立假面騎士部，以守護校園和平為目的。
+    與歌星賢吾命運般的相遇，使用從他手上獲得的Fourze Driver成為假面騎士Fourze進行戰鬥。從野座間友子聽聞有關假面騎士的都市傳說後，才開始將Fourze稱為「假面騎士」並藉此成立假面騎士部，以守護校園和平為目的。
     初登場時因為看見賢吾將女生情書丟掉的行為感到氣憤，間接說明了自己對友情的重視，第一個想結交為朋友的就是賢吾。之後陸續和有所過節的美羽、JK、隼和友子化敵為友，加入假面騎士部並肩作戰，第12話賢吾在月面通道事件後真正成為好友。
     打架能力很強，學校中的不良少年幾乎被他擺平，變身後經常對上Zodiarts卻被打得毫無還手之力，但能夠以靈活地運用天文裝置應對戰鬥狀況獲勝，和認真細緻訓練天文裝置功能。
     經常會有無厘頭的想法或招惹不必要的麻煩，也是假面騎士部眾人傷腦筋之處。
     很怕[鬼怪和](https://zh.wikipedia.org/wiki/鬼怪 "wikilink")[昆蟲](https://zh.wikipedia.org/wiki/昆蟲 "wikilink")，特別是[蟬](https://zh.wikipedia.org/wiki/蟬 "wikilink")。每次友子發出怨念或把玩昆蟲標本時都會敬而遠之。
     經常擅自代Zodiarts改名字\[1\]，第5話把[麒麟座](../Page/麒麟座.md "wikilink")Zodiarts稱為馬；第29話[蒼蠅座Zodiarts由於跳躍力很強](https://zh.wikipedia.org/wiki/蒼蠅座 "wikilink")，弦太朗把他稱為跳蚤。
     第27話透露小時候受父親薰陶而造就重視友情的契機。小學3年級的時候雙親因交通意外喪生，至此由爺爺如月吾郎獨力撫養，衣著裝扮和豪邁性格同樣是受爺爺的影響。
-    流星因企圖潛入部內而主動提出加入，但是以表裏不一的性格為理由一度拒絕，最後選擇為了看其真意而讓之加入。第31話因流星為保護[白羊座](../Page/白羊座.md "wikilink")Zodiarts而被襲擊至重傷，相反知道這就是其真意而含笑倒下，心臟停頓死亡。第32話因友情的真諦，成功啟動
-    No.40 Cosmic Switch 的力量令自己能救活下來。趕到營救為了抵罪而身受重傷的流星，並在此時終於可肯定成為真正好友。
+    流星因企圖潛入部內而主動提出加入，但是以表裏不一的性格為理由一度拒絕，最後選擇為了看其真意而讓之加入。第31話因流星為保護[白羊座](../Page/白羊座.md "wikilink")Zodiarts而被襲擊至重傷，相反知道這就是其真意而含笑倒下，心臟停頓死亡。第32話因友情的真諦，成功啟動 No.40 Cosmic Switch 的力量令自己能救活下來。趕到營救為了抵罪而身受重傷的流星，並在此時終於可肯定成為真正好友。
     第39話因髮型和制服違反新制定的校規加上進行挑戰失敗，劇中首次以正常髮型及穿著天高制服的造型示人。
-    繼第35話JK退部的事件後，第41話因友子失蹤而再次無法使用 No.40 Cosmic Switch
-    ，於是接受立花提議進行特訓以達到另類途徑將之使用，但不苟同「友情是危險」這種結論。特訓期間被賢吾揭穿並得知立花正是[處女座Zodiarts](https://zh.wikipedia.org/wiki/處女座 "wikilink")。
-    第42話再次成功使用 No.40 Cosmic
-    Switch，並解釋過往是因為懷疑自己的內心而導致無法使用，事件中認識到不論與好友相隔多遠，只要相信羈絆一直連繫著就可以，這一點令立花/江本心感贊同。
-    第47話得知賢吾的身世及使命後，雖然有點難捨但仍然把Fourze
-    Driver交還和送別。殊不知睜眼看著賢吾被[射手座Zodiarts襲撃而消失在月面](https://zh.wikipedia.org/wiki/射手座 "wikilink")。
-    最終話雖趕及「Rabbit
-    Hutch」爆炸前逃離，但仍然未能接受賢吾消失這個事實。感到挫敗之際，城島讀出賢吾寫給假面騎士部眾人的書信，收到「對我望放下憎恨，助他從絕望中帶出光明」這給自己的訊息後再次振作。為阻止我望而作最後決戰，與部中眾人以畢業禮形式傳送心意，最後終於將其打敗並感化。
+    繼第35話JK退部的事件後，第41話因友子失蹤而再次無法使用 No.40 Cosmic Switch ，於是接受立花提議進行特訓以達到另類途徑將之使用，但不苟同「友情是危險」這種結論。特訓期間被賢吾揭穿並得知立花正是[處女座Zodiarts](https://zh.wikipedia.org/wiki/處女座 "wikilink")。
+    第42話再次成功使用 No.40 Cosmic Switch，並解釋過往是因為懷疑自己的內心而導致無法使用，事件中認識到不論與好友相隔多遠，只要相信羈絆一直連繫著就可以，這一點令立花/江本心感贊同。
+    第47話得知賢吾的身世及使命後，雖然有點難捨但仍然把Fourze Driver交還和送別。殊不知睜眼看著賢吾被[射手座Zodiarts襲撃而消失在月面](https://zh.wikipedia.org/wiki/射手座 "wikilink")。
+    最終話雖趕及「Rabbit Hutch」爆炸前逃離，但仍然未能接受賢吾消失這個事實。感到挫敗之際，城島讀出賢吾寫給假面騎士部眾人的書信，收到「對我望放下憎恨，助他從絕望中帶出光明」這給自己的訊息後再次振作。為阻止我望而作最後決戰，與部中眾人以畢業禮形式傳送心意，最後終於將其打敗並感化。
     事件後因書信會勾起傷痛回憶，打算丟掉時賢吾突然出現阻止，眼看這好友復活因而喜極而泣。最後向新生的**宇宙假面騎士部**宣言以「和宇宙人成為朋友！」為最大目的。
-    於劇場版《[假面騎士×假面騎士 Wizard & Fourze
-    MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後擔任天之川學園高中教師及宇宙假面騎士部顧問教師。並於劇情中為了讓「怪人同盟」的那群學生返回正途而將腰帶拋進熔爐毀掉，之後因劇情關係回到過去時空為了拯救學生於是向過去的自己借腰帶救人，卻意外掉落與眾人的合照，因此成為過去的自己立志擔任教師的真正原因。
+    於劇場版《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後擔任天之川學園高中教師及宇宙假面騎士部顧問教師。並於劇情中為了讓「怪人同盟」的那群學生返回正途而將腰帶拋進熔爐毀掉，之後因劇情關係回到過去時空為了拯救學生於是向過去的自己借腰帶救人，卻意外掉落與眾人的合照，因此成為過去的自己立志擔任教師的真正原因。
     著名台詞為「宇宙來了！」（原文為「宇宙キター！」）和「來好好單挑一局吧！」（原文為「タイマンはらせてもらうぜ！」）。
 
 如月弦太朗與對方進行「友情之証」後，表示該角色已建立朋友關係
@@ -61,55 +54,38 @@
   - 第40話：杉浦雄太
   - 第42話：江本州輝
   - 最終話：我望光明
-  - 劇場版《[假面騎士OOO WONDERFUL
-    將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")》：火野映司
-  - 劇場版《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega
-    Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》：美咲撫子
-  - 劇場版《[假面騎士x超級戰隊
-    超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》：櫻田弘
-  - 劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》：巨大宇宙鐵人「XVII」
-  - 劇場版《[假面騎士×假面騎士 Wizard & Fourze
-    MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》：大木美代子、操真晴人、風田三郎
-  - 劇場版《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》：桐生戰兔
+  - 劇場版《[假面騎士OOO WONDERFUL 將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")》：火野映司
+  - 劇場版《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》：美咲撫子
+  - 劇場版《[假面騎士x超級戰隊 超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》：櫻田弘
+  - 劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》：巨大宇宙鐵人「XVII」
+  - 劇場版《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》：大木美代子、操真晴人、風田三郎
+  - 劇場版《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》：桐生戰兔
 
 **歌星賢吾（）**（[高橋龍輝](../Page/高橋龍輝.md "wikilink")飾／香港配音：[李凱傑](../Page/李凱傑.md "wikilink")／台灣配音：[賈文安](https://zh.wikipedia.org/wiki/賈文安 "wikilink")）
 
   -
     如月弦太朗的搭檔。持有天文裝置的少年。
-    使用天文裝置將空間扭曲讓校內舊校舍的儲藏櫃與月面基地「Rabbit Hutch」連接在一起，擁有如電單車Machine
-    Massigler、[動力服](../Page/動力服.md "wikilink")Powerdizer等各種機械裝備。
+    使用天文裝置將空間扭曲讓校內舊校舍的儲藏櫃與月面基地「Rabbit Hutch」連接在一起，擁有如電單車Machine Massigler、[動力服](../Page/動力服.md "wikilink")Powerdizer等各種機械裝備。
     雖然成績優異，但體弱多病，因此被歸類為問題學生，甚至自稱為保健室的老大，然而卻有著一顆堅強的心。
     事實過去是由核心裝置所誕生的生命體，目的為收集地球有關的文明知識。
     2年B班，第29話開始升為3年B班。17歲→18歲。
-    故事開始一年前生日時使用匿名寄來的“生日禮物”天文裝置，將空間扭曲讓校內舊校舍的儲藏櫃與月面基地「Rabbit
-    Hutch」連接在一起，擁有如電單車Machine
-    Massigler、[動力服](../Page/動力服.md "wikilink")Powerdizer等各種機械裝備。
-    隨身攜帶著自己改裝的[手提箱式](https://zh.wikipedia.org/wiki/手提箱 "wikilink")[筆記本電腦](https://zh.wikipedia.org/wiki/筆記本電腦 "wikilink")（可存放天文裝置），可隨時連接「Rabbit
-    Hutch」的資料庫分析情報，也可以隨時呼叫Machine Massigler和Powerdizer出動。
+    故事開始一年前生日時使用匿名寄來的“生日禮物”天文裝置，將空間扭曲讓校內舊校舍的儲藏櫃與月面基地「Rabbit Hutch」連接在一起，擁有如電單車Machine Massigler、[動力服](../Page/動力服.md "wikilink")Powerdizer等各種機械裝備。
+    隨身攜帶著自己改裝的[手提箱式](https://zh.wikipedia.org/wiki/手提箱 "wikilink")[筆記本電腦](https://zh.wikipedia.org/wiki/筆記本電腦 "wikilink")（可存放天文裝置），可隨時連接「Rabbit Hutch」的資料庫分析情報，也可以隨時呼叫Machine Massigler和Powerdizer出動。
     在大文字隼加入假面騎士部之前，一直駕駛著Powerdizer。
-    歌星綠郎在十七年前的月球基地爆炸意外中死亡，因此把Fourze
-    Driver和天文裝置當成父親的遺物般珍惜，不准他人隨意亂碰。第19-20話中亦因此對流星調整天文裝置一事十分介意，更因此和弦太朗吵架但最後還是和好。
-    由於不認同弦太朗的想法和作為，當初對假面騎士部使用「Rabbit
-    Hutch」當作俱樂部活動場地的行為十分不滿，並不承認自身為假面騎士部的一員，甚至不認同這個部。直到第12話舊校舍的儲藏櫃被當作不良品回收，引發自身被困在「Rabbit
-    Hutch」等一連串事件，而後在假面騎士部等人努力下成功解決後，深受友情的感動，才真正承認自身為假面騎士部的一員，和如月弦太朗建立起友好的關係。
+    歌星綠郎在十七年前的月球基地爆炸意外中死亡，因此把Fourze Driver和天文裝置當成父親的遺物般珍惜，不准他人隨意亂碰。第19-20話中亦因此對流星調整天文裝置一事十分介意，更因此和弦太朗吵架但最後還是和好。
+    由於不認同弦太朗的想法和作為，當初對假面騎士部使用「Rabbit Hutch」當作俱樂部活動場地的行為十分不滿，並不承認自身為假面騎士部的一員，甚至不認同這個部。直到第12話舊校舍的儲藏櫃被當作不良品回收，引發自身被困在「Rabbit Hutch」等一連串事件，而後在假面騎士部等人努力下成功解決後，深受友情的感動，才真正承認自身為假面騎士部的一員，和如月弦太朗建立起友好的關係。
     除了城島悠木外，對任何人都只會稱呼其姓氏。即使是弦太朗仍會稱作「如月」，直至第47話才首次稱呼其名字。
-    第32話拼命救活心臟停頓的弦太朗，從立花口中得知一年前通往「Rabbit
-    Hutch」的天文裝置正是由他送贈，和基地外部有著父親歌星綠郎刻下的遺言，明白如何利用
-    No.40 Cosmic Switch 救活弦太朗。
+    第32話拼命救活心臟停頓的弦太朗，從立花口中得知一年前通往「Rabbit Hutch」的天文裝置正是由他送贈，和基地外部有著父親歌星綠郎刻下的遺言，明白如何利用 No.40 Cosmic Switch 救活弦太朗。
     第33話京都修業旅行期間，親自拜訪父親的好友江本州輝，了解宇宙能量傳送點「The Hole」有關的知識。
     第37話天高宇航員選拔試中，據知上屆因病而未能完成考試，今屆受到Erinu須田利用[水瓶座Zodiarts的能力治療才得繼續進行](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")。第38話通過所有考驗而合格，第39話開始成為宇宙特別生進行特別授課而重遇江本教授。
     第41話暗中放出Nagejaroika小機器人偵測[處女座Zodiarts動向但發現後被破壞](https://zh.wikipedia.org/wiki/處女座 "wikilink")。立花幫助弦太朗進行特訓期間，探知出其手上有著已破壞的小機器人殘留的宇宙能量，因此發現立花就是[處女座Zodiarts](https://zh.wikipedia.org/wiki/處女座 "wikilink")。
     第42話進一步得知立花或[處女座Zodiarts真正身份正是江本](https://zh.wikipedia.org/wiki/處女座 "wikilink")，並得知父親歌星綠郎在月面事件中是由其親手弄至遇害。
     第44話曾在危急之際發動某種神秘力量擋下[摩羯座](../Page/摩羯座.md "wikilink")Zodiarts的音波攻擊；第46話憤怒之下再一次發動該力量阻止[射手座Zodiarts後隨即昏迷](https://zh.wikipedia.org/wiki/射手座 "wikilink")，身體出現奇特的光芒並浮現核心裝置出來。
     第47話因核心裝置力量而覺醒到自己的由來。十八年前月球基地爆炸事件中前一天，核心裝置自行誕生出嬰孩，其目的是仿製該行星智慧生物的形體去收集有關的文明知識，而此嬰孩就由歌星綠郎取名為賢吾。月面事件過後不久由已成為[處女座Zodiarts的江本帶走交由歌星綠郎的親戚撫養](https://zh.wikipedia.org/wiki/處女座 "wikilink")。之前體弱多病亦是因為核心裝置力量所產生的副作用。
-    向弦太朗解釋一切後要求其交還Fourze
-    Driver，以用作打開傳送之門回歸「Presenter」一方。道別過後準備傳送時卻身中[射手座Zodiarts的踢擊](https://zh.wikipedia.org/wiki/射手座 "wikilink")，再被破壞核心裝置後肉體消失得無形。
+    向弦太朗解釋一切後要求其交還Fourze Driver，以用作打開傳送之門回歸「Presenter」一方。道別過後準備傳送時卻身中[射手座Zodiarts的踢擊](https://zh.wikipedia.org/wiki/射手座 "wikilink")，再被破壞核心裝置後肉體消失得無形。
     最終話以留下的書信，向部中每一個人作真情的刮白，更奉勸弦太朗對我望放下憎恨。眾人因以此作為動力而成功打敗[射手座Zodiarts](https://zh.wikipedia.org/wiki/射手座 "wikilink")。
     最後我望臨終前變身成[水瓶座Zodiarts](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")，利用治癒能力修復核心裝置從而復活，同時因核心裝置無故失蹤，過往的病徵亦隨之消失。
-    於劇場版《[假面騎士×假面騎士 Wizard & Fourze
-    MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後與過往的歌星綠郎一樣成為科學家。
+    於劇場版《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後與過往的歌星綠郎一樣成為科學家。
     在假面騎士部中擔任天文裝置調整和作戰參謀，負責分析資料和下達指令；第27話被封為「副部長」。
     劇場版《假面騎士Fourze THE MOVIE 大家的宇宙來了\!》中為救弦太朗而幫助去啟動No.1 Rocket Switch。
     姓名源自於[假面騎士](../Page/幪面超人.md "wikilink")1號本鄉 猛。
@@ -118,11 +94,8 @@
 **城島悠木（）**（[清水富美加](../Page/清水富美加.md "wikilink")、春日香音（童年期）飾／香港配音：[陳皓宜](../Page/陳皓宜.md "wikilink")／台灣配音：[呂筱薇](https://zh.wikipedia.org/wiki/呂筱薇 "wikilink")）
 
   -
-    如月弦太朗的青梅竹馬。陽光開朗的女高中生及「宇宙宅」\[4\]
-    ，下課後一般都鑽研進[JAXA的附屬機關中](../Page/宇宙航空研究開發機構.md "wikilink")。\[5\]
-    故事一年前賢吾生日時發現儲藏櫃能夠與月面基地「Rabbit
-    Hutch」連接在一起以後，唯一能讓賢吾放心的存在，共享天文裝置和「Rabbit
-    Hutch」的秘密。
+    如月弦太朗的青梅竹馬。陽光開朗的女高中生及「宇宙宅」\[4\] ，下課後一般都鑽研進[JAXA的附屬機關中](../Page/宇宙航空研究開發機構.md "wikilink")。\[5\]
+    故事一年前賢吾生日時發現儲藏櫃能夠與月面基地「Rabbit Hutch」連接在一起以後，唯一能讓賢吾放心的存在，共享天文裝置和「Rabbit Hutch」的秘密。
     風城美羽畢業後開始繼任為假面騎士部部長。
     曾覺醒為Horoscope十二使徒之一的[雙子座Zodiarts](https://zh.wikipedia.org/wiki/雙子座 "wikilink")。
     2年B班，第29話開始升為3年B班。17歲→18歲。如月弦太朗的青梅竹馬。為天之川學園裡面的[怪咖](https://zh.wikipedia.org/wiki/極客 "wikilink")。\[6\]
@@ -136,42 +109,34 @@
     第44話連記憶也開始被[雙子座Zodiarts剝奪](https://zh.wikipedia.org/wiki/雙子座 "wikilink")，身旁的朋友、Fourze的名字也全忘記。當星運儀式進行到一半，弦太朗拿著好不容易找到的「羈絆」，也就是從小相約要一起去宇宙旅行的票券趕到現場，成功讓自身的意念變強而回復原有的容貌與一切記憶。事件過後發給部中每個人一張「一起去宇宙旅行」的票券，並刻意把流星與友子的那份製作成雙人票。
     （有關闇悠木的詳情見下「[Horoscope](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Horoscope "wikilink")」一欄）
     最終話在賢吾消失後，傷感地向部員逐一讀出其留下的書信。事件過後與弦太朗眼見賢吾復活後歡喜不已。
-    於劇場版《[假面騎士×假面騎士 Wizard & Fourze
-    MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後終於夢想成真當上了宇航員。
+    於劇場版《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後終於夢想成真當上了宇航員。
     在假面騎士部中職銜是「部員第一號」；第25話被美羽封為「部長」。
     劇場版《假面騎士Fourze THE MOVIE 大家的宇宙來了\!》中為救弦太朗而幫助去啟動No.40 Cosmic Switch。
     姓名源自於[假面騎士V3](../Page/假面騎士V3.md "wikilink")的騎士人結城 丈二。
     【名字變化：“城島悠木”的發音Joujima Yuuki為“結城 丈二”的發音Yuuki Jouji再添加了一個MA音重組】
 
-**朔田流星（）**（[吉澤亮](../Page/吉澤亮.md "wikilink")飾）飾／香港配音：[李致林](../Page/李致林.md "wikilink")、[張方正](../Page/張方正.md "wikilink")（代配）
-/ 台灣配音：[呂惇熙](https://zh.wikipedia.org/wiki/呂惇熙 "wikilink")）
+**朔田流星（）**（[吉澤亮](../Page/吉澤亮.md "wikilink")飾）飾／香港配音：[李致林](../Page/李致林.md "wikilink")、[張方正](../Page/張方正.md "wikilink")（代配） / 台灣配音：[呂惇熙](https://zh.wikipedia.org/wiki/呂惇熙 "wikilink")）
 
   -
     **假面騎士Meteor**的變身者，昴星高中交換至天之川學園高中的特別編入生。
     為了拯救其好友石井二郎，加入反Zodiarts同盟成為假面騎士Meteor，潛入天高作臥底。主要目的找出和利用[白羊座](../Page/白羊座.md "wikilink")Zodiarts。
     故事中期終於找出[白羊座](../Page/白羊座.md "wikilink")Zodiarts並與其作交易，對如月弦太朗狠下殺手而後來得償所願。亦因自己的一己私慾而懊悔不已，但同時得到了弦太朗原諒並與之建立友情。
-    變身成為假面騎士Meteor時的著名台詞為「我來決定你的命運！」（原文為「お前の運命（さだめ）は俺が決める\!」）；變身成為假面騎士Meteor
-    Storm時的著名台詞為「我的命運將要呼風喚雨」（原文為「俺の運命（さだめ）は嵐を呼ぶぜ\!」）。
-    最初於劇場版《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega
-    Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》結尾以謎之轉校生身份登場，TV版第17話正式登場。
+    變身成為假面騎士Meteor時的著名台詞為「我來決定你的命運！」（原文為「お前の運命（さだめ）は俺が決める\!」）；變身成為假面騎士Meteor Storm時的著名台詞為「我的命運將要呼風喚雨」（原文為「俺の運命（さだめ）は嵐を呼ぶぜ\!」）。
+    最初於劇場版《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》結尾以謎之轉校生身份登場，TV版第17話正式登場。
     編入2年B班，第29話開始升為3年B班。
     最初匿藏「Rabbit Hutch」時聽見友子把Meteor稱為「假面騎士」後，才開始欣然接受並以此名號自稱。
     格鬥術師承「星心大輪拳」\[8\]。（現實中乃是[截拳道](../Page/截拳道.md "wikilink")，所以劇中的攻擊模式和戰鬥風格與[李小龍相似](https://zh.wikipedia.org/wiki/李小龍 "wikilink")）
-    除了立花之外沒有人知道其真實身份。第27話鬼島夏兒得悉其Meteor的身份，被立花視為違反約定而得不到 M-BUS
-    能量傳輸以致無法變身。第28話立花再給予機會，並得到新天文裝置變身成假面騎士Meteor
-    Storm擊敗[巨蟹座](../Page/巨蟹座.md "wikilink")Zodiarts。戰敗後的鬼島因被處決，身份才沒有曝光。而在第31話不惜出賣假面騎士部而出手幫助[白羊座](../Page/白羊座.md "wikilink")Zodiarts，因此被立花強制解除變身，正式暴露真正身份。
+    除了立花之外沒有人知道其真實身份。第27話鬼島夏兒得悉其Meteor的身份，被立花視為違反約定而得不到 M-BUS 能量傳輸以致無法變身。第28話立花再給予機會，並得到新天文裝置變身成假面騎士Meteor Storm擊敗[巨蟹座](../Page/巨蟹座.md "wikilink")Zodiarts。戰敗後的鬼島因被處決，身份才沒有曝光。而在第31話不惜出賣假面騎士部而出手幫助[白羊座](../Page/白羊座.md "wikilink")Zodiarts，因此被立花強制解除變身，正式暴露真正身份。
     在人前裝出開朗隨和的樣子，這點原先不被弦太朗接受。實際性格冷漠和機心重，原因二郎的事件令他覺得友情為自己帶來悲傷和沉重壓力，從此決定拒絕和他人建立任何關係。第29話之前都是變身Meteor後才顯露出真本性，向Fourze擺出敵對的態度。
     不論學習能力\[9\]或機械工程技術方面都和賢吾相差不大，在假面騎士部中成為不可或缺的助力。
     第23話對被[天鵝座Zodiarts挾持作肉盾的友子無法下手](https://zh.wikipedia.org/wiki/天鵝座 "wikilink")，本來無情的心態有微妙的變化，感覺自己變得天真起來；同樣第30話，[天秤座](../Page/天秤座.md "wikilink")Zodiarts擬態出友子模樣的那一刻亦有相同的情況。加上彼此經歷的因緣際會，第44話二人關係\[10\]進一步明確起來。
     第28話被[巨蟹座](../Page/巨蟹座.md "wikilink")Zodiarts奪去靈魂之環，假面騎士部一眾為了救他甘願作人質。事件過後雖然打從心裏感激，因未達成主要目的，始終未能有勇氣釋懷與之建立友情。
-    第31話終於找到
-    [白羊座](../Page/白羊座.md "wikilink")Zodiarts。同話為了二郎不惜違背立花的命令，與龍守（[白羊座](../Page/白羊座.md "wikilink")Zodiarts）作交易，對弦太朗狠下殺手，以寸勁重擊心臟位置令其心臟停頓而死。
+    第31話終於找到 [白羊座](../Page/白羊座.md "wikilink")Zodiarts。同話為了二郎不惜違背立花的命令，與龍守（[白羊座](../Page/白羊座.md "wikilink")Zodiarts）作交易，對弦太朗狠下殺手，以寸勁重擊心臟位置令其心臟停頓而死。
     第32話終於得償所願，二郎成功得救。但是因自己的一己私慾而害死弦太朗令他懊悔不已，為了贖罪以血肉之軀抵抗，誓死保護險些被處決的假面騎士部眾。寡不敵眾重傷倒地之際弦太朗及時趕到，見其安然無恙後歡喜不已，得到了原諒並在這時開懷地建立友情。事件後反Zodiarts同盟與假面騎士部合作，在部中可以不再以潛入員身份活動下去。
     第37話的第一輪天高宇航員選拔試中因為受到考試內容之一的干擾而情緒爆發，平時理性的他看得出來也有暴躁的一面。
     第41話立花被揭發[處女座Zodiarts的身份](https://zh.wikipedia.org/wiki/處女座 "wikilink")，感到自己被騙而怒火中燒的情況下與其對戰，始終不幸地被送往[暗星雲](../Page/暗星雲.md "wikilink")（其實只是被江本送往M-BUS基地）。第42話和友子一起安全被[處女座Zodiarts釋放](https://zh.wikipedia.org/wiki/處女座 "wikilink")。
     最終話與弦太朗共同阻止我望的陰謀，過往對上[獅子座Zodiarts必然屢戰屢敗的他](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，最後以頑強鬥志終於能夠將其擊敗。事件過後因特別編入生學期完結而回歸昴星高中。
-    於劇場版《[假面騎士×假面騎士 Wizard & Fourze
-    MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後任職國際刑警搜查員。
+    於劇場版《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後任職國際刑警搜查員。
     在假面騎士部中以見習部員活躍（潛入）。第32話後光明正大地正式承認為真正的部員；最終話因回歸母校而離開。
 
 **風城美羽（）**（[坂田梨香子飾](https://zh.wikipedia.org/wiki/:ja:坂田梨香子 "wikilink")／香港配音：[羅孔柔](../Page/羅孔柔.md "wikilink")、[何寶珊](../Page/何寶珊.md "wikilink")（代配）／台灣配音：[穆宣名](../Page/穆宣名.md "wikilink")）
@@ -186,18 +151,14 @@
     平時在眾人面前表現出完美的女王架式，只因討厭自我滿足，要做到眾人之中最耀眼並得到認同的就是真正的「女王」，對此毫不馬虎地努力著。
     曾稱呼弦太朗為「垃圾中的垃圾」，成為朋友後稱他為「男人中的男人」。第26話畢業舞會更想與之作為舞伴，她認為在舞會上與影響深遠的人跳舞才具意義。雖然受弦太朗請求與隼作伴，但最後亦得償所願與之共舞。
     有時候會因為無謀的正義感，而作出在不適當的情況底下站在跟前呼喝敵人的行動，但這樣只會火上澆油。
-    第8話曾因為魯莽私自駕駛Powerdizer而虛脫倒下。縱然如此，在劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中亦駕駛軍事專用Powerdizer戰鬥。
-    高中畢業後以參加AO（Admissions
-    Office）入學試進註大學。第25話畢業前夕時非常懷念和擔心假面騎士部的未來，第26話過後以大學生身份繼續留任部內。
+    第8話曾因為魯莽私自駕駛Powerdizer而虛脫倒下。縱然如此，在劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中亦駕駛軍事專用Powerdizer戰鬥。
+    高中畢業後以參加AO（Admissions Office）入學試進註大學。第25話畢業前夕時非常懷念和擔心假面騎士部的未來，第26話過後以大學生身份繼續留任部內。
     第41話受到[處女座Zodiarts直接的死亡威脅](https://zh.wikipedia.org/wiki/處女座 "wikilink")，為免連累身邊的好友始終選擇脫離假面騎士部。第42話因受到良心責備而重返假面騎士部。
     最終話正式向假面騎士部告別。
     最終話事件後正準備接收隼的求婚戒指時，卻被路過的操真晴人手上的魔法指環外型吸引著。
     「Oops\!」是日常的口頭禪。
-    劇場版《假面騎士Fourze THE MOVIE 大家的宇宙來了\!》中為救弦太朗而幫助去啟動No.30 N magnet
-    Switch。
-    於劇場版《[假面騎士×假面騎士 Wizard & Fourze
-    MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後成為時裝模特兒。
+    劇場版《假面騎士Fourze THE MOVIE 大家的宇宙來了\!》中為救弦太朗而幫助去啟動No.30 N magnet Switch。
+    於劇場版《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後成為時裝模特兒。
     姓名源自於[假面騎士V3](../Page/假面騎士V3.md "wikilink")風見 志郎。
     【名字變化：“風城美羽”的發音Kazashiro Miu為“風見 志郎”的發音Kazami Shirou重組】
 
@@ -217,10 +178,8 @@
     第41話受到[處女座Zodiarts直接的死亡威脅而選擇脫離假面騎士部](https://zh.wikipedia.org/wiki/處女座 "wikilink")。第42話因受到良心責備而重返假面騎士部。
     最終話正式向假面騎士部告別。
     最終話事件後正準備向美羽求婚時，卻因路過的操真晴人手上的魔法指環緣故而宣告失敗。
-    劇場版《假面騎士Fourze THE MOVIE 大家的宇宙來了\!》中為救弦太朗而幫助去啟動No.31 S magnet
-    Switch。
-    於劇場版《[假面騎士×假面騎士 Wizard & Fourze
-    MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後成為海外職業美式橄欖球隊選手。
+    劇場版《假面騎士Fourze THE MOVIE 大家的宇宙來了\!》中為救弦太朗而幫助去啟動No.31 S magnet Switch。
+    於劇場版《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後成為海外職業美式橄欖球隊選手。
     姓名源自於[假面騎士](../Page/幪面超人.md "wikilink")2號一文字 隼人。
     【名字變化：“大文字隼”名字源自將“一文字 隼人”中的“一”與“人”二字合併為“大”字】
 
@@ -238,14 +197,11 @@
     自從第3話城島悠木於女王選舉中表演了[隼鳥號後表示喜歡](https://zh.wikipedia.org/wiki/隼鳥號 "wikilink")，開始對她處處示好。
     第9話成為超自然社社員，從[天蠍座Zodiarts手中得到星座不明的天文裝置](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")，之後被弦太朗說服並帶著假面騎士部一眾尋找[天壇座Zodiarts阻止其陰謀](https://zh.wikipedia.org/wiki/天壇座 "wikilink")，並在其後加入假面骑士部，把得來的天文裝置丢入河中。
     對於假面騎士作為暗地裏對抗邪惡的正義英雄充滿憧憬，第18話中因此眼看同為假面騎士的Meteor對Fourze連番痛擊也不惜以身去阻止。
-    與流星有某一種微妙的關係\[11\]，而且Meteor身份曝光前，每次亦是由她首先發現流星無故失蹤（事實是找地方藏匿變身）或有任何異樣。以往多方經歷直至第44話事件後，二人關係開始明朗化。劇場版《[假面騎士Fourze
-    THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中更為流星被Inga‧Blink親吻的事情而顯得非常嫉妒。
+    與流星有某一種微妙的關係\[11\]，而且Meteor身份曝光前，每次亦是由她首先發現流星無故失蹤（事實是找地方藏匿變身）或有任何異樣。以往多方經歷直至第44話事件後，二人關係開始明朗化。劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中更為流星被Inga‧Blink親吻的事情而顯得非常嫉妒。
     第37－38話通過予選參加天高宇航員選拔試，第二輪測試後落選。第39話因艾妮露須田退出而代替成為宇宙特別生進行特別授課，首次認識江本教授。第40話因新校規中訂明嚴禁化妝的關係而被學生會盯上，江本教授暗中接應給她躲避。亦因此事件作起端而偶然得悉江本就是[處女座Zodiarts的身份](https://zh.wikipedia.org/wiki/處女座 "wikilink")，最終被送往[暗星雲](../Page/暗星雲.md "wikilink")（其實只是被江本送往M-BUS基地）。第42話和流星一起安全被[處女座Zodiarts釋放](https://zh.wikipedia.org/wiki/處女座 "wikilink")。
     最終話事件後送別回歸母校的流星，因其說明與同校的白川芽以並非情侶而放下心頭大石。
     劇場版《假面騎士Fourze THE MOVIE 大家的宇宙來了\!》中為救弦太朗而幫助去啟動No.20 Fire Switch。
-    於劇場版《[假面騎士×假面騎士 Wizard & Fourze
-    MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後成為小說作家。
+    於劇場版《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後成為小說作家。
     在假面騎士部中雖然負責位置不明（外出調查居多）。但憑著敏銳的感覺和出人意料的想法，仔細考究去解決問題或發現開關真正特質而幫助化險為夷。
     姓名源自於[假面騎士亞馬遜](../Page/假面騎士AMAZON.md "wikilink")。
     【名字變化：“野座間”的發音Nozama為亞馬遜的英文“Amazon”字母倒過來；“友子”名字源自重視友情的亞馬遜常說的台詞「亞馬遜、朋友（原文為「アマゾン、トモダチ」）」而得來】
@@ -258,22 +214,14 @@
     有很高的危險察覺能力，會判斷對自己有利與否的情報，更具有對危險事情迴避的能力。
     1年C班，第29話開始升為2年C班。
     講求「對等交換」的原則，藉此交換情報與報酬，有時會過分要求報酬，有時會迴避麻煩事而打破原則。
-    第5話曾派人偷偷搶走如月弦太朗的 No.10 Elek
-    Switch，並且也表明了他跟本就很討厭如月弦太朗的「想要和全校的人做朋友」之理想。
+    第5話曾派人偷偷搶走如月弦太朗的 No.10 Elek Switch，並且也表明了他跟本就很討厭如月弦太朗的「想要和全校的人做朋友」之理想。
     表面上有很多朋友讓弦太朗相當佩服，但這些都是酒肉朋友，JK甚至將這些人作为自己惹了麻烦事后的挡箭牌，新田文博正是如此。
     在[麒麟座](../Page/麒麟座.md "wikilink")Zodiarts事件後，被弦太朗以反省的名義，強迫其加入假面騎士部，不過他自己也願意加入，但經常企圖偷溜缺席部內活動。
-    第25話因要填補隼的空缺而被強迫駕駛Powerdizer。瞬間爆發力雖強但戰鬥力實際上不強兼耐力不足。縱然如此，在劇場版《[假面騎士Fourze
-    THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中亦駕駛軍事專用Powerdizer戰鬥。
-    雖然平常給人感覺游手好閒，實際上有著成為搖滾歌星的夢想，對音樂的一切有所熱忱，深夜以「GENE」的名義作網絡電台節目《Milky
-    Night
-    Carnival》的DJ並大受歡迎。第35話為了自己的意向而不惜與東次郎搭擋，借助[摩羯座](../Page/摩羯座.md "wikilink")Zodiarts望能實現歌手的夢想，並打算退出假面騎士部。切斷與弦太朗羈絆的情況下，令Fourze
-    Cosmic
-    States力量失效而被強制自動解除。第36話弦太朗彈奏出父親神宮敬藏的歌曲，受到霎時的感動而臨崖勒馬，事件過後決定放棄成為「GENE」。
+    第25話因要填補隼的空缺而被強迫駕駛Powerdizer。瞬間爆發力雖強但戰鬥力實際上不強兼耐力不足。縱然如此，在劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中亦駕駛軍事專用Powerdizer戰鬥。
+    雖然平常給人感覺游手好閒，實際上有著成為搖滾歌星的夢想，對音樂的一切有所熱忱，深夜以「GENE」的名義作網絡電台節目《Milky Night Carnival》的DJ並大受歡迎。第35話為了自己的意向而不惜與東次郎搭擋，借助[摩羯座](../Page/摩羯座.md "wikilink")Zodiarts望能實現歌手的夢想，並打算退出假面騎士部。切斷與弦太朗羈絆的情況下，令Fourze Cosmic States力量失效而被強制自動解除。第36話弦太朗彈奏出父親神宮敬藏的歌曲，受到霎時的感動而臨崖勒馬，事件過後決定放棄成為「GENE」。
     第41話受到[處女座Zodiarts直接的死亡威脅而選擇脫離假面騎士部](https://zh.wikipedia.org/wiki/處女座 "wikilink")，雖然口說如願以償但心有不甘。第42話因受到良心責備而重返假面騎士部。
     最終話事件後與友子送別回歸昴星高中的流星。
-    於劇場版《[假面騎士×假面騎士 Wizard & Fourze
-    MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後任職雜誌記者。
+    於劇場版《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後任職雜誌記者。
     劇場版《假面騎士Fourze THE MOVIE 大家的宇宙來了\!》中為救弦太朗而幫助去啟動No.10 Elek Switch。
     在假面騎士部中負責收集情報。第26話後兼任Powerdizer後備駕駛員。
     姓名源自於[假面騎士X](../Page/假面騎士X.md "wikilink")的主角神敬介。
@@ -287,12 +235,9 @@
     對園田紗理奈抱有好意，常用猥瑣的目光觀察她。自己亦對自己和園田的「合照」\[13\]甚為重視。
     其後成為3年B班的班導師。故事初期與弦太朗、悠木、及賢吾不和並經常針對弦太朗，其後更發現假面騎士部的存在，事件後自動請纓擔任顧問教師來保護假面騎士部並與弦太朗等人和解。
     在言語間透露自己的星座是[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")
-    第11話被城島所騙，誤以為月面基地「Rabbit
-    Hutch」入口儲藏櫃是園田曾經使用過的關係，偷偷把整個儲藏櫃搬走並以另一個調包和棄置，因此觸發賢吾被困在「Rabbit
-    Hutch」的一連串事件。
+    第11話被城島所騙，誤以為月面基地「Rabbit Hutch」入口儲藏櫃是園田曾經使用過的關係，偷偷把整個儲藏櫃搬走並以另一個調包和棄置，因此觸發賢吾被困在「Rabbit Hutch」的一連串事件。
     第21話得知園田辭職後心情陷入絕望（雖然那只是謊言，但園田已消失是事實）。第46話得知園田是[天蠍座Zodiarts這個事實後更大受打擊](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")。
-    第29話開始成為3年B班的班導師。因跟蹤賢吾而闖入「Rabbit
-    Hutch」，發現假面騎士部的存在。第30話提出要廢部並打算如實告知校長速水公平，但眼見弦太朗所做的事情後卻心表認同兼佩服，事件後自動請纓擔任顧問教師來保護假面騎士部。
+    第29話開始成為3年B班的班導師。因跟蹤賢吾而闖入「Rabbit Hutch」，發現假面騎士部的存在。第30話提出要廢部並打算如實告知校長速水公平，但眼見弦太朗所做的事情後卻心表認同兼佩服，事件後自動請纓擔任顧問教師來保護假面騎士部。
     日後以利用教職人員的權限暗中幫助安排一切，令部內的行動更加方便。第31話利用體驗上學的理由，幫助弦太朗他們潛入昴星高中調查。
     第33話透露自己在高中時代分組永遠都是一個人的。
     劇場版《假面騎士Fourze THE MOVIE 大家的宇宙來了\!》中為救弦太朗而幫助去啟動No.32 Freeze Switch。
@@ -304,9 +249,7 @@
     初中時期與草尾春同是游泳社社員，而且備受觸目。但是社中的前輩因覺得與她特別友好的草尾只會是負累而對之處處為難。
     目睹一切後從此不再相信什麼「前輩」和由自己保護這個唯一好友，但反而令草尾自卑感加劇。
     第30話事件後對弦太朗這位前輩建立信任的關係，並主動要求加入假面騎士部，暫定為後備部員。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.23
-    Water Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.23 Water Switch。
     第45話遭到[獅子座Zodiarts強行押走](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，欲使她成為十二使徒的最後一人。
     為保眾人的安危按下天文裝置後，成功由[仙女座](../Page/仙女座.md "wikilink")Zodiarts覺醒為[雙魚座Zodiarts迎戰來襲的](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")[獅子座Zodiarts](https://zh.wikipedia.org/wiki/獅子座 "wikilink")。其時戰力跟[獅子座Zodiarts不相上下](https://zh.wikipedia.org/wiki/獅子座 "wikilink")。
     第46話因心理關口始終未能完全覺醒，天文裝置呈現青藍色，隨後立神挾持草尾作人質而被迫完全覺醒。戰鬥期間受到[天秤座](../Page/天秤座.md "wikilink")Zodiarts偷襲並被奪走天文裝置，得知整件事原來是一個騙局。
@@ -321,9 +264,7 @@
     自己的弱小和常被黑木蘭保護之下自卑感作祟，為追求力量憤然按下天文裝置變成[蒼蠅座Zodiarts](https://zh.wikipedia.org/wiki/蒼蠅座 "wikilink")。
     第30話進化成Last One後精神更陷入崩潰邊緣，但聽見蘭的真意後才能夠回復意識。
     事件後與蘭主動要求加入假面騎士部，暫定為後備部員，待住院康復後再作安排。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.38
-    Net Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.38 Net Switch。
     第45話因為後遺症復發導致盲腸炎而再度入院。
     第46話被立神挾持作人質，迫蘭就範令天文裝置完全覺醒。
     最終話與蘭正式加入宇宙假面騎士部。
@@ -332,8 +273,7 @@
 
 ## Horoscope
 
-**我望光明（）**
-（[鶴見辰吾](https://zh.wikipedia.org/wiki/鶴見辰吾 "wikilink")、高旗武藏（童年期）飾／香港配音：[朱子聰](../Page/朱子聰.md "wikilink")、[馮志輝](../Page/馮志輝.md "wikilink")（代配）／台灣配音：[李勇](https://zh.wikipedia.org/wiki/李勇 "wikilink")）
+**我望光明（）** （[鶴見辰吾](https://zh.wikipedia.org/wiki/鶴見辰吾 "wikilink")、高旗武藏（童年期）飾／香港配音：[朱子聰](../Page/朱子聰.md "wikilink")、[馮志輝](../Page/馮志輝.md "wikilink")（代配）／台灣配音：[李勇](https://zh.wikipedia.org/wiki/李勇 "wikilink")）
 
   -
     本作最終反派，1964年出生的原[太空人](https://zh.wikipedia.org/wiki/太空人 "wikilink")[科學家](https://zh.wikipedia.org/wiki/科學家 "wikilink")，現為天之川學園的[理事長](https://zh.wikipedia.org/wiki/理事長 "wikilink")。
@@ -341,18 +281,13 @@
     即使有上述身分，他背後卻也是在操縱Horoscope所有事件的幕後主導者，即是暗中给予學生利用天文裝置成為Zodiarts並觀察情況的「赤眼男子」，跟十七年前發生的月球事件有關。
     二十年前與歌星綠郎從月球表面尋獲核心裝置，著手進行研究並藉其開發出使人類肉體強制進化的Zodiarts天文裝置。但歌星有感此舉的危險性因而與之產生分岐，亦導致聯同江本州輝計劃把其誅滅。
     身負隨意控制或消除別人記憶的神秘力量。
-    第33-34話派遣速水公平和立神吼前往京都，再利用Fourze的力量開啟穩定上空「The
-    Hole」的四個古代石碑並將其破壞，京都上空「The
-    Hole」消失後，從而令天高上空的「The Hole」一極化，擴大Horoscope覺醒的可能。
+    第33-34話派遣速水公平和立神吼前往京都，再利用Fourze的力量開啟穩定上空「The Hole」的四個古代石碑並將其破壞，京都上空「The Hole」消失後，從而令天高上空的「The Hole」一極化，擴大Horoscope覺醒的可能。
     第36話接受立神的建議，賜予[摩羯座](../Page/摩羯座.md "wikilink")Zodiarts「[超新星](../Page/超新星.md "wikilink")化」力量，利用琴音令天文裝置產生共鳴後，再靠感應去確認核心裝置仍然存在的可能。
     第41話能正式使用天文裝置變身為[射手座Zodiarts](https://zh.wikipedia.org/wiki/射手座 "wikilink")。
     第42話因江本叛變而向他施以突襲，儘管如此亦對其離世而感到歎息。
-    曾經在劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中製造出Horoscope天文裝置的贗品，但是與財團X交接期間被Inga‧Blink奪走。
-    第45話被速水揭發而令假面騎士部得知其[射手座Zodiarts的身份](https://zh.wikipedia.org/wiki/射手座 "wikilink")。並了解其十年前建立天高已開始把學生當作實驗品，從而收集十二使徒的天文裝置。企圖利用天文裝置巨大的宇宙能量以「The
-    Hold」開啟[暗星雲](../Page/暗星雲.md "wikilink")，製造通道望能傳送至宇宙深淵意志體「Presenter」一方探求真理，即使產生引力足以波及整片日本亦在所不惜。
-    第46話終於集齊十二使徒的天文裝置，面臨成功之際卻受到賢吾身負的核心裝置力量影響而中斷。第47話再次反覆嘗試製造傳送通道亦徒勞無功，怒火中燒的他決定親自到達「Rabbit
-    Hutch」找上賢吾並破壞其核心裝置。
+    曾經在劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中製造出Horoscope天文裝置的贗品，但是與財團X交接期間被Inga‧Blink奪走。
+    第45話被速水揭發而令假面騎士部得知其[射手座Zodiarts的身份](https://zh.wikipedia.org/wiki/射手座 "wikilink")。並了解其十年前建立天高已開始把學生當作實驗品，從而收集十二使徒的天文裝置。企圖利用天文裝置巨大的宇宙能量以「The Hold」開啟[暗星雲](../Page/暗星雲.md "wikilink")，製造通道望能傳送至宇宙深淵意志體「Presenter」一方探求真理，即使產生引力足以波及整片日本亦在所不惜。
+    第46話終於集齊十二使徒的天文裝置，面臨成功之際卻受到賢吾身負的核心裝置力量影響而中斷。第47話再次反覆嘗試製造傳送通道亦徒勞無功，怒火中燒的他決定親自到達「Rabbit Hutch」找上賢吾並破壞其核心裝置。
     最終話再次進行製造傳送門但是被Fourze阻止，戰鬥途中卻被送到天高禮堂裏，迎接著的竟是假面騎士部眾人舉辦的畢業禮，各人懷著感激的心情向自己朗讀致謝詞表達心意。被Fourze打敗後為自己的所為心感愧疚，得到弦太朗的包容而與其達成「友情之証」。
     最後因急速進化的後遺症令身體出現崩潰，臨終前利用[水瓶座Zodiarts的能力修復核心裝置](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")，從而令賢吾復活，完事後仰望著寂靜的星空之下消失。核心裝置卻行蹤不明。
     劇場版《假面騎士Fourze THE MOVIE 大家的宇宙來了\!》中為救弦太朗而幫助去啟動No. 3 Drill Switch。
@@ -397,8 +332,7 @@
     於第22話成功超越了 Last one，覺醒成為[巨蟹座](../Page/巨蟹座.md "wikilink")Zodiarts。
     對於被流星揭發Switcher身份一事懷恨在心，至此以他為首要復仇對象。
     第27話邀請流星合作但被拒絕，並用計引出其表露假面騎士Meteor的身份。
-    第28話被Meteor
-    Storm打敗後逃去學校，途中被速水公平設計而被[處女座Zodiarts流放到](https://zh.wikipedia.org/wiki/處女座 "wikilink")[暗星雲](../Page/暗星雲.md "wikilink")。
+    第28話被Meteor Storm打敗後逃去學校，途中被速水公平設計而被[處女座Zodiarts流放到](https://zh.wikipedia.org/wiki/處女座 "wikilink")[暗星雲](../Page/暗星雲.md "wikilink")。
     第42話得知和其他被處決的幹部一樣，只是送往M-BUS基地裏沉睡著。
     於《小說 幪面超人Fourze ～天・高・卒・業～》中再次登場。
 
@@ -410,11 +344,9 @@
     在昴星高中的存在如同決定一切的帝王般，連老師都懼其三分。
     愛以撰寫劇本自編自導為樂，玩弄全校師生於股掌之中。
     第32話被Fourze打敗後住院昏迷中。
-    於第30—32話變成[白羊座](../Page/白羊座.md "wikilink")Zodiarts。而[白羊座](../Page/白羊座.md "wikilink")Zodiarts
-    是由[天兔座](../Page/天兔座.md "wikilink")Zodiarts成功覺醒成為幹部之一。
+    於第30—32話變成[白羊座](../Page/白羊座.md "wikilink")Zodiarts。而[白羊座](../Page/白羊座.md "wikilink")Zodiarts 是由[天兔座](../Page/天兔座.md "wikilink")Zodiarts成功覺醒成為幹部之一。
 
-**立神吼（）**
-（[横山一敏飾](https://zh.wikipedia.org/wiki/横山一敏 "wikilink")／香港配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
+**立神吼（）** （[横山一敏飾](https://zh.wikipedia.org/wiki/横山一敏 "wikilink")／香港配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
 
   -
     第33話登場，我望光明最值得信賴的秘書兼保鑣。有掐核桃的習慣。
@@ -430,14 +362,12 @@
     第47話憑著速水的情報而到達「Rabbit Hutch」，把設施嚴重破壞。
     最終話與Meteor對戰而遭到擊敗，身體如霧般消失。
 
-**江本州輝（）**
-（[山崎一飾](https://zh.wikipedia.org/wiki/山崎一 "wikilink")／香港配音：[葉振聲](../Page/葉振聲.md "wikilink")）
+**江本州輝（）** （[山崎一飾](https://zh.wikipedia.org/wiki/山崎一 "wikilink")／香港配音：[葉振聲](../Page/葉振聲.md "wikilink")）
 
   -
     現任宇宙京都大學教授兼擔任宇宙特別生的講師。
     與歌星綠郎、我望光明為好友兼研究夥伴。曾一同在月面基地進行研究。
-    從他道出日本上空有兩處宇宙能量注入地球的傳送點「The
-    Hole」，分別位於[京都](../Page/京都.md "wikilink")與天之川學園高中。
+    從他道出日本上空有兩處宇宙能量注入地球的傳送點「The Hole」，分別位於[京都](../Page/京都.md "wikilink")與天之川學園高中。
     私下卻暗藏幹部級怪人[處女座Zodiarts及Meteor支援者立花三重身份](https://zh.wikipedia.org/wiki/處女座 "wikilink")。同樣也是十七年前月面基地爆炸事件中，即是故事開始時登場的真正「赤眼男子」。
     第40話[處女座Zodiarts身份揭露後把野座間友子送往](https://zh.wikipedia.org/wiki/處女座 "wikilink")[暗星雲](../Page/暗星雲.md "wikilink")；第41話以立花身份和如月弦太朗特訓期間，被悉破[處女座Zodiarts身份後把朔田流星送往](https://zh.wikipedia.org/wiki/處女座 "wikilink")[暗星雲](../Page/暗星雲.md "wikilink")。
     第42話再次以立花及[處女座Zodiarts身份和弦太朗進行特訓](https://zh.wikipedia.org/wiki/處女座 "wikilink")，並說明一直深信孤獨才可令自己強大起來，但始終還是受到弦太朗友情理念所感化。
@@ -454,9 +384,7 @@
     由[天琴座](../Page/天琴座.md "wikilink")Zodiarts成功覺醒成為幹部之一。
     第36話被Fourze打敗，我望光明消去他成為Zodiarts時的記憶後如常在校內活動。
     於第35、36話變成[摩羯座](../Page/摩羯座.md "wikilink")Zodiarts。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.18
-    Shield Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.18 Shield Switch。
 
 **艾妮露須田（）**（[滝沢カレン飾](https://zh.wikipedia.org/wiki/滝沢カレン "wikilink")／香港配音：[葉曉欣](../Page/葉曉欣.md "wikilink")）
 
@@ -470,9 +398,7 @@
     最後因覺得和弦太朗立場不同，二人始終需要展開對戰。被Fourze打敗後，我望光明消去她的記憶，再次認識弦太朗和城島而成為好友。
     第39話得知辭退宇宙特別生的資格，空缺由友子補上。
     於第37、38話變成[水瓶座Zodiarts](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.26
-    Wheel Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.26 Wheel Switch。
 
 **杉浦雄太（）**（[絲木建太飾](https://zh.wikipedia.org/wiki/絲木建太 "wikilink")／香港配音：[黃積權](../Page/黃積權.md "wikilink")）
 
@@ -487,8 +413,7 @@
     於第39、40話變成[金牛座](../Page/金牛座.md "wikilink")Zodiarts。
     於《小說 幪面超人Fourze ～天・高・卒・業～》中再次登場。
 
-**闇悠木（）**
-（[清水富美加](../Page/清水富美加.md "wikilink")飾、CV：[今野宏美](../Page/今野宏美.md "wikilink")）
+**闇悠木（）** （[清水富美加](../Page/清水富美加.md "wikilink")飾、CV：[今野宏美](../Page/今野宏美.md "wikilink")）
 
   -
     由城島悠木被強行按下天文裝置後誕生的另一人格個體。
@@ -533,19 +458,14 @@
     但對大文字隼的態度較為偏袒，兩者的待遇更是相差甚大。
     有一個名為輝彦的兒子。（輝彦是[獵犬座Zodiarts的Switcher](https://zh.wikipedia.org/wiki/獵犬座 "wikilink")）
     於最終話對大杉忠太道出有關我望光明的事情顯得不太信任。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.22
-    Hammer Switch。
-    劇場版《[假面騎士×假面騎士 Wizard & Fourze
-    MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後擔任校長一職。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.22 Hammer Switch。
+    劇場版《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後擔任校長一職。
 
 **諸田先生（）**（[諸田敏飾](https://zh.wikipedia.org/wiki/諸田敏 "wikilink")）
 
   -
     天之川學園高中的教師，科目是數學。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.9
-    Hopping Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.9 Hopping Switch。
 
 **宇津木遥（）**（[長澤奈央](../Page/長澤奈央.md "wikilink")飾／香港配音：[魏惠娥](../Page/魏惠娥.md "wikilink")）
 
@@ -557,9 +477,7 @@
     有一種在煩惱和驚恐時自然地使出roundhouse kick的壞習慣，第21話初曾因此不慎踢壞警報器而誤鳴。
     事件過後對教師一職重新振作，並擔任校內[踢拳](../Page/踢拳.md "wikilink")社的顧問教師。
     於最終話信任大杉忠太道出有關我望光明的事情並嘗試說服各教師。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救如月弦太朗而幫助去啟動No.11
-    Scissors Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救如月弦太朗而幫助去啟動No.11 Scissors Switch。
 
 **瀨田梓（）**（[廣村美つ美飾](https://zh.wikipedia.org/wiki/廣村美つ美 "wikilink")）
 
@@ -571,8 +489,7 @@
 
 ## OSTO（外宇宙技術開發機構）
 
-**歌星綠郎（）**
-（[風間トオル飾](https://zh.wikipedia.org/wiki/:ja:風間トオル "wikilink")、第1話CV：[勇吹輝](https://zh.wikipedia.org/wiki/:ja:勇吹輝 "wikilink")\[14\]／香港配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
+**歌星綠郎（）** （[風間トオル飾](https://zh.wikipedia.org/wiki/:ja:風間トオル "wikilink")、第1話CV：[勇吹輝](https://zh.wikipedia.org/wiki/:ja:勇吹輝 "wikilink")\[14\]／香港配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
 
   -
     歌星賢吾的父親，於十七年前的月面基地爆炸事件中身歿。
@@ -603,26 +520,19 @@
     協助朔田流星的蒙面人。反Zodiarts同盟成員。
     待在太空中的人造衛星M-BUS（METEOR-BACKUP SATELITE）協助流星及假面騎士部，亦可以隨時控制Meteor變身系統。
     當初歌星賢吾收到的生日禮物，也就是連接到「Rabbit Hutch」的神秘裝置正是由他所送。
-    最開始強調流星不能被其他人得悉其真正身份。第27話因為流星被鬼島發現Meteor真身而斷絕支援，使其不能變身，真正目的為了修正流星過於自負的態度，而乘機給他經歷挫折。第28話再次批准流星變身並給予天文裝置Meteor
-    Storm Switch。
+    最開始強調流星不能被其他人得悉其真正身份。第27話因為流星被鬼島發現Meteor真身而斷絕支援，使其不能變身，真正目的為了修正流星過於自負的態度，而乘機給他經歷挫折。第28話再次批准流星變身並給予天文裝置Meteor Storm Switch。
     第31話要求流星將[白羊座](../Page/白羊座.md "wikilink")Zodiarts消滅但遭其拒絕，因而解除流星的變身使其身分曝光。
-    第32話和賢吾進行通訊並幫助他帶著弦太朗逃離，回到「Rabbit
-    Hutch」告知基地外部有著歌星綠郎刻下的遺言，啟發賢吾如何利用Comsic
-    Switch救活弦太朗。事件過後和假面騎士部結盟，並恢復流星變身Meteor的資格。
-    第41話弦太朗因友子失蹤而無法運用 Cosmic
-    Switch，說出「友情是危險」這言論之餘並出現人前幫助進行特訓以達到另闢途徑將之運用。特訓中途被賢吾揭露是[處女座Zodiarts](https://zh.wikipedia.org/wiki/處女座 "wikilink")，也是江本州輝的真正身份。
+    第32話和賢吾進行通訊並幫助他帶著弦太朗逃離，回到「Rabbit Hutch」告知基地外部有著歌星綠郎刻下的遺言，啟發賢吾如何利用Comsic Switch救活弦太朗。事件過後和假面騎士部結盟，並恢復流星變身Meteor的資格。
+    第41話弦太朗因友子失蹤而無法運用 Cosmic Switch，說出「友情是危險」這言論之餘並出現人前幫助進行特訓以達到另闢途徑將之運用。特訓中途被賢吾揭露是[處女座Zodiarts](https://zh.wikipedia.org/wiki/處女座 "wikilink")，也是江本州輝的真正身份。
     第42話再次到達特訓地點，並變身為[處女座Zodiarts來進行未完成的特訓](https://zh.wikipedia.org/wiki/處女座 "wikilink")。特訓結束後因為受到弦太朗的友情感化而脫下面罩。
-    （有關江本州輝的詳情見上「[Horoscope](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Horoscope "wikilink")」一欄
-    ）
-    【姓名源自於[假面騎士的立花](../Page/幪面超人.md "wikilink") 藤兵衛（本鄉
-    猛的教練，原作中也是類似的協助者存在）】
+    （有關江本州輝的詳情見上「[Horoscope](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Horoscope "wikilink")」一欄 ）
+    【姓名源自於[假面騎士的立花](../Page/幪面超人.md "wikilink") 藤兵衛（本鄉 猛的教練，原作中也是類似的協助者存在）】
 
 ## 財團X
 
 **雷姆・神薙（）**（[益-{岡}-徹飾](https://zh.wikipedia.org/wiki/:ja:益岡徹 "wikilink")）
 
-**Catarrh（）**（[Dante
-Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikilink")）
+**Catarrh（）**（[Dante Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikilink")）
 
 **Solaris（）**（[人見早苗飾](https://zh.wikipedia.org/wiki/:ja:人見早苗 "wikilink")）
 
@@ -632,9 +542,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
 ## OSTO·Legacy
 
-**冴葉晴海（）**
-（[-{岡}-田浩暉](https://zh.wikipedia.org/wiki/:ja:岡田浩暉 "wikilink")
-飾）
+**冴葉晴海（）** （[-{岡}-田浩暉](https://zh.wikipedia.org/wiki/:ja:岡田浩暉 "wikilink") 飾）
 
 **白山靜（）** （[木下亞由美](../Page/木下亞由美.md "wikilink")飾）
 
@@ -649,8 +557,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
   -
     朔田流星同校朋友兼學習「星心大輪拳」\[15\]的同門。
-    從某處得到天文裝置，不理會流星的勸阻之下按動，但因為他並非天高的學生，沒有受Zodiarts的力量來源「The
-    Hole」影響以致裝置失控爆炸而受創昏迷。
+    從某處得到天文裝置，不理會流星的勸阻之下按動，但因為他並非天高的學生，沒有受Zodiarts的力量來源「The Hole」影響以致裝置失控爆炸而受創昏迷。
     因此流星為尋找[白羊座](../Page/白羊座.md "wikilink")Zodiarts的力量救活他，而成為[假面騎士](../Page/假面騎士.md "wikilink")Meteor。
     由於昏迷後天文裝置一直處於開動狀態而無法自行關上，一直被裝置的力量壓制令病情持續惡化。第32話[白羊座](../Page/白羊座.md "wikilink")Zodiarts利用能力令他甦醒，再親手關上裝置才得以無恙。
 
@@ -738,9 +645,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     2年級生，風城美羽的跟班之一。
     天然呆而迷糊的美少女，因喜愛食物而對食物難以抗拒。
     美羽在加入假面騎士部後，啦啦隊的事務全部交給她管理。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.19
-    Gatling Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.19 Gatling Switch。
 
 **廣田玲子（）**（[橘ゆりか飾](https://zh.wikipedia.org/wiki/:ja:橘ゆりか "wikilink")／香港配音：[凌晞](../Page/凌晞.md "wikilink")）
 
@@ -748,9 +653,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     1年級生，第3話被弦太朗邀請參加女王選舉，但將其拒絕。
     第7話再度出现，成為大文字的女友，但卻因為大文字與弦太朗等「不良少年」在一起而狠狠甩了他。
     第12話和美羽等同校女學生被[羅盤座Zodiarts挾持](https://zh.wikipedia.org/wiki/羅盤座 "wikilink")，也一同被Fourze所救。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.27
-    Screw Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.27 Screw Switch。
 
 **番長介（）**（[黒石高大飾](https://zh.wikipedia.org/wiki/:ja:黒石高大 "wikilink")）
 
@@ -758,9 +661,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     2年A班，校園内不良少年的老大，對打架之類的事感興趣。
     曾因為弦太朗兩次的調查而大打出手，結果全被擺平。
     第39話因違反新制定的校規遭學生會處分。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.35
-    Giant-foot Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.35 Giant-foot Switch。
 
 **倉持百合（）**（[今村美步飾](https://zh.wikipedia.org/wiki/:ja:今村美步 "wikilink")）
 
@@ -768,9 +669,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     與岡村雅美同為超自然集團的社員。
     曾被游泳社的人欺負，因此懷恨在心成為了魔女的一員。
     被鹈坂律子利用且以超能力對游泳社的人下手造成混乱。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.28
-    Hand Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.28 Hand Switch。
 
 **-{岡}-村雅美（）**（[鈴木米香飾](https://zh.wikipedia.org/wiki/:ja:鈴木米香 "wikilink")／香港配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）
 
@@ -778,9 +677,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     與倉持百合同為超自然集團的社員。
     曾是啦啦队的一员，和橄欖球隊隊員名古屋雄二談過戀爱但被抛棄，傷心之下成為了魔女。
     第9話被鹈坂律子利用且以超能力對名古屋雄二報復同時亦將大文字隼困於火場。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.33
-    Claw Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.33 Claw Switch。
 
 **有馬博美\[18\]（）**（[鈴木ふみ奈飾](https://zh.wikipedia.org/wiki/:ja:鈴木ふみ奈 "wikilink")）
 
@@ -797,17 +694,13 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
   -
     2年級生，攝影社的社員，三浦俊也的女友。因為三浦的影響也喜歡拍照。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.6
-    Camera Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.6 Camera Switch。
 
 **阿部純太（）**（[田邊季正飾](https://zh.wikipedia.org/wiki/:ja:田辺季正 "wikilink")／香港配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）
 
   -
     2年級生，清唱社的社長，元山的童年玩伴。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.12
-    Beat Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.12 Beat Switch。
 
 **渡邊伊吹（）**（[吉田伊吹飾](https://zh.wikipedia.org/wiki/:ja:吉田伊吹 "wikilink")／香港配音：[李致林](../Page/李致林.md "wikilink")）
 
@@ -832,43 +725,33 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
   -
     「醜小鴨聯會」會長，有用加分，減分以評價一個人的癖好。
     原本是芭蕾社的社員，根據JK的情報，鳥居崎一直處於後段班。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.16
-    Winch Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.16 Winch Switch。
 
 **母部田太朗（）**（[親川優志飾](https://zh.wikipedia.org/wiki/:ja:親川優志 "wikilink")）
 
   -
     1年A班\[20\]，「醜小鴨聯會」會員。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.36
-    Aero Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.36 Aero Switch。
 
 **高村優希奈（）**（[秋月三佳飾](https://zh.wikipedia.org/wiki/:ja:秋月三佳 "wikilink")／香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
 
   -
     3年B班，對弦太朗有好感，第33-34話修學旅行時刻意與他同組。
     從前已知弦太朗假面騎士的身份，並希望他像普通人一樣生活，甚至搶奪他的Fourze Driver。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.24
-    Medical Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.24 Medical Switch。
     於《小說 幪面超人Fourze ～天・高・卒・業～》中擔任畢業舞會實行委員會會長。
 
 **乙川美奈（）**（[村上穗乃佳飾](https://zh.wikipedia.org/wiki/:ja:村上穂乃佳 "wikilink")）
 
   -
     《Milky Night Carnival》的忠實聽眾之一。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.34
-    Board Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.34 Board Switch。
 
 **甲田鈴美（）**（[城戶愛莉飾](https://zh.wikipedia.org/wiki/:ja:城戸愛莉 "wikilink")）
 
   -
     《Milky Night Carnival》的忠實聽眾之一。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.37
-    Gyro Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.37 Gyro Switch。
 
 **沖莊子（）**（[前田聖來](../Page/前田聖來.md "wikilink")飾／香港配音：[魏惠娥](../Page/魏惠娥.md "wikilink")）
 
@@ -906,9 +789,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     因為對大文字随意差遣自己並不讓自己参加橄欖球赛的行為不滿而變身成Zodiarts攻擊大文字，他卻不知道其實是由大文字高人從中作梗。
     於第1、2話變成[獵戶座Zodiarts](https://zh.wikipedia.org/wiki/獵戶座 "wikilink")。
     第13話再度出場，因為害怕使用天文裝置而一直曠課，並被[天蠍座Zodiarts盯上強制給予天文裝置](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")，卻又難拒其誘惑。最後克服恐懼回校上課並加入攝影社。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.2
-    Launcher Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.2 Launcher Switch。
 
 **佐久間珠惠（）**（[吉川まりあ飾](https://zh.wikipedia.org/wiki/:ja:吉川まりあ "wikilink")／香港配音：[吳羨婷](../Page/吳羨婷.md "wikilink")）
 
@@ -917,18 +798,14 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     嫉妒美羽在学校的地位，不惜事先攻擊其他參選者逼迫退出，更利用Zodiarts的能力陷害並攻擊美羽。
     於第3、4話變成[蝘蜓座](../Page/蝘蜓座.md "wikilink")Zodiarts。
     第25話再度出場，因[蝘蜓座](../Page/蝘蜓座.md "wikilink")Zodiarts再次引起騷亂而含冤，得知是德田彌生變身[后髮座Zodiarts後的所為才得以清白](https://zh.wikipedia.org/wiki/后髮座 "wikilink")。最後與野本仁結伴參加畢業舞會。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.21
-    Stealth Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.21 Stealth Switch。
 
 **新田文博（）**（[宇治清高飾](https://zh.wikipedia.org/wiki/:ja:宇治清高 "wikilink")／香港配音：[李安邦](../Page/李安邦.md "wikilink")）
 
   -
     1年C班，西洋劍社的社員，以前曾經被JK利用過而對之有著天大仇恨。
     於第5、6話變成[麒麟座](../Page/麒麟座.md "wikilink")Zodiarts。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.8
-    Chainsaw Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.8 Chainsaw Switch。
 
 **佐竹輝彦（）**\[21\]（[佐藤流司飾](https://zh.wikipedia.org/wiki/:ja:佐藤流司 "wikilink")／香港配音：[黃積權](../Page/黃積權.md "wikilink")）
 
@@ -936,9 +813,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     1年級生，佐竹剛的兒子，現實生活中為資優生，私底下卻是不良少年，平時喜歡隨身帶著鐵鏈。
     為了逃避父親的束縛而變身成Zodiarts。
     於第7、8話變成[獵犬座Zodiarts](https://zh.wikipedia.org/wiki/獵犬座 "wikilink")。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.13
-    Chainarrays Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.13 Chainarrays Switch。
 
 **鵜坂律子（）**（[梶原光](../Page/梶原光.md "wikilink")飾／香港配音：[張頌欣](../Page/張頌欣.md "wikilink")）
 
@@ -947,9 +822,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     利用Zodiarts的能力製造許多超自然現象，藉以攻擊他人，並利用魔女的傳言掩飾犯行。
     於第9、10話變成[天壇座Zodiarts](https://zh.wikipedia.org/wiki/天壇座 "wikilink")。
     第25話再度出場，因[天壇座Zodiarts再次引起騷亂而含冤](https://zh.wikipedia.org/wiki/天壇座 "wikilink")，得知是德田彌生變身[后髮座Zodiarts後的所為才得以清白](https://zh.wikipedia.org/wiki/后髮座 "wikilink")。最後與受弦太朗們所託的流星結伴參加畢業舞會。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.5
-    Magic-hand Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.5 Magic-hand Switch。
 
 **牧瀨弘樹（）**（[篠原孝文飾](https://zh.wikipedia.org/wiki/:ja:篠原孝文 "wikilink")／香港配音：[李震權](../Page/李震權.md "wikilink")）
 
@@ -958,11 +831,8 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     曾企圖把被他所強迫坐上巴士的女學生連同巴士墜入溪中。
     於第11、12話變成[羅盤座Zodiarts](https://zh.wikipedia.org/wiki/羅盤座 "wikilink")。
     第37話再度出場，入選參加天高宇航員選拔試，但在首輪考試出局。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.4
-    Radar Switch。
-    於《小說 幪面超人Fourze
-    ～天・高・卒・業～》中再次變身成[羅盤座Zodiarts](https://zh.wikipedia.org/wiki/羅盤座 "wikilink")。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.4 Radar Switch。
+    於《小說 幪面超人Fourze ～天・高・卒・業～》中再次變身成[羅盤座Zodiarts](https://zh.wikipedia.org/wiki/羅盤座 "wikilink")。
 
 **園田紗理奈（）**（[虎南有香飾](https://zh.wikipedia.org/wiki/:ja:虎南有香 "wikilink")）
 
@@ -983,20 +853,15 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     經常在校園頂樓作畫，卻不滿其他學生發出的噪音及其他影響而變成Zodiarts攻擊他人。
     於第15、16話變成[英仙座](../Page/英仙座.md "wikilink")Zodiarts，並成功超越了 Last one。
     第16話被弦太朗說服，卻因為[天秤座](../Page/天秤座.md "wikilink")Zodiarts的電波攻擊而暴走。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.39
-    Stamper Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.39 Stamper Switch。
 
 **野野村公夫（）**（[山崎將平飾](https://zh.wikipedia.org/wiki/:ja:山崎将平 "wikilink")）
 
   -
     2年級生，為了在考試中獲得第一名而變成Zodiarts攻擊優秀學生。
     有掐手指的習慣，因此被弦太朗識破。
-    於第17、18話變成[天貓座Zodiarts](https://zh.wikipedia.org/wiki/天貓座 "wikilink")，並成功超越了
-    Last one。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.7
-    Parachute Switch。
+    於第17、18話變成[天貓座Zodiarts](https://zh.wikipedia.org/wiki/天貓座 "wikilink")，並成功超越了 Last one。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.7 Parachute Switch。
 
 **野本仁（）**（[安藤龍飾](https://zh.wikipedia.org/wiki/:ja:安藤龍 "wikilink")／香港配音：[陳成港](../Page/陳成港.md "wikilink")）
 
@@ -1004,9 +869,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     3年級生，田徑社社長，受[天秤座](../Page/天秤座.md "wikilink")Zodiarts指示，要抹殺Fourze和Meteor而變成Zodiarts攻擊他人。
     於第19、20話變成[天龍座Zodiarts](https://zh.wikipedia.org/wiki/天龍座 "wikilink")。
     第25話再度出場，因[天龍座Zodiarts再次引起騷亂而含冤](https://zh.wikipedia.org/wiki/天龍座 "wikilink")，得知是德田彌生變身[后髮座Zodiarts後的所為才得以清白](https://zh.wikipedia.org/wiki/后髮座 "wikilink")。最後與佐久間珠惠結伴參加畢業舞會。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.15
-    Spike Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.15 Spike Switch。
 
 **鬼島夏兒（）**（[田本清嵐飾](https://zh.wikipedia.org/wiki/:ja:タモト清嵐 "wikilink")）
 
@@ -1021,9 +884,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     變成[天鵝座Zodiarts後完全變成邪惡意識](https://zh.wikipedia.org/wiki/天鵝座 "wikilink")，但自身意識卻以旁觀者方式看著[天鵝座Zodiarts的所作所為](https://zh.wikipedia.org/wiki/天鵝座 "wikilink")。
     但在騎士部等人的努力下，克服了心理障礙，卻被鳥居崎等人強迫按下裝置。
     於第23、24話變成[天鵝座Zodiarts](https://zh.wikipedia.org/wiki/天鵝座 "wikilink")。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.29
-    Scoop Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.29 Scoop Switch。
 
 **德田彌生（）**（[鈴木霞](../Page/鈴木霞.md "wikilink")飾／香港配音：[何晶晶](../Page/何晶晶.md "wikilink")）
 
@@ -1031,9 +892,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     3年級生，新聞社社長。
     為了破壞畢業典禮而刻意抹黑佐久間珠惠、鵜坂律子和野本仁，利用[后髮座Zodiarts的能力分別複製出](https://zh.wikipedia.org/wiki/后髮座 "wikilink")[蝘蜓座](../Page/蝘蜓座.md "wikilink")Zodiarts、[天壇座Zodiarts和](https://zh.wikipedia.org/wiki/天壇座 "wikilink")[天龍座Zodiarts來破壞學校](https://zh.wikipedia.org/wiki/天龍座 "wikilink")。
     於第25、26話變成[后髮座Zodiarts](https://zh.wikipedia.org/wiki/后髮座 "wikilink")。
-    劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.25
-    Pen Switch。
+    劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.25 Pen Switch。
 
 **草尾春（）**（[荒木次元飾](https://zh.wikipedia.org/wiki/:ja:荒木次元 "wikilink")）
 
@@ -1083,8 +942,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     為[射手座Zodiarts](https://zh.wikipedia.org/wiki/射手座 "wikilink")。
     詳見「[Horoscope](https://zh.wikipedia.org/wiki/假面騎士Fourze角色列表#Horoscope "wikilink")」一欄
 
-**闇悠木（）**
-（[清水富美加](../Page/清水富美加.md "wikilink")飾、CV：[今野宏美](../Page/今野宏美.md "wikilink")）
+**闇悠木（）** （[清水富美加](../Page/清水富美加.md "wikilink")飾、CV：[今野宏美](../Page/今野宏美.md "wikilink")）
 
   -
     為[雙子座Zodiarts](https://zh.wikipedia.org/wiki/雙子座 "wikilink")。
@@ -1129,14 +987,11 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
 1.  擅自代改名字這一點跟[假面騎士電王的桃太洛斯相似](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")
 
-2.  角色名字來源:《[網路版 - 假面騎士Fourze
-    大家的授業來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了!#其他相關放映 "wikilink")》-《來學習全天高生\!
-    ④》 單元中
+2.  角色名字來源:《[網路版 - 假面騎士Fourze 大家的授業來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了!#其他相關放映 "wikilink")》-《來學習全天高生\! ④》 單元中
 
 3.  《Climax Episode 31話32話 導演剪輯版 － 天星之絆》中的情節
 
-4.  《特攝Newtype THE LIVE
-    2012年10月號》描述雖然在企劃階段就設定為「宇宙宅」，但個性方面則是因為演員清水富美加的關係而改為設定成現在的樣貌。
+4.  《特攝Newtype THE LIVE 2012年10月號》描述雖然在企劃階段就設定為「宇宙宅」，但個性方面則是因為演員清水富美加的關係而改為設定成現在的樣貌。
 
 5.  劇中可確認取景地為[筑波宇宙中心](https://zh.wikipedia.org/wiki/筑波 "wikilink")（預告、OP）和[調布宇宙中心](https://zh.wikipedia.org/wiki/調布 "wikilink")（第3集的ALFLEX測試機安置地）。
 
@@ -1144,13 +999,11 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 
 7.  第23話從散落地上的試卷中，分別可看到賢吾**100分**、流星**98分**、悠木**66分**和弦太朗**4分**。
 
-8.  資料來源：劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》，現實為[截拳道](../Page/截拳道.md "wikilink")。
+8.  資料來源：劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》，現實為[截拳道](../Page/截拳道.md "wikilink")。
 
 9.
 10.
-11. 《小学館スペシャル5月号増刊 THE仮面ライダーSPRING付録 仮面ライダーフォーゼ
-    エピソード＆全ステイツガイド》的人物相關圖中描述為曖昧關係（原文「アヤシイ関係」)
+11. 《小学館スペシャル5月号増刊 THE仮面ライダーSPRING付録 仮面ライダーフォーゼ エピソード＆全ステイツガイド》的人物相關圖中描述為曖昧關係（原文「アヤシイ関係」)
 
 12. 若Jack會讀作ジャック（jakku）、但此處讀為ジェイク（jeiku）、目前最大可能性英文名為Jake，但也有可是依照JK的英文發音的讀音，如香港[無綫電視翡翠台播出時就是直接讀英文字母JK](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")。
 
@@ -1162,16 +1015,10 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
 16. 這點與前作《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》的白石千世子相似。
 
 17.
-18. 名字及資料來源:《[網路版 - 假面騎士Fourze
-    大家的授業來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了!#其他相關放映 "wikilink")》-《來學習全天高生\!
-    ②》 單元中
+18. 名字及資料來源:《[網路版 - 假面騎士Fourze 大家的授業來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了!#其他相關放映 "wikilink")》-《來學習全天高生\! ②》 單元中
 
-19. 資料來源:《[網路版 - 假面騎士Fourze
-    大家的授業來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了!#其他相關放映 "wikilink")》-《來學習全天高生\!
-    ①》 單元中
+19. 資料來源:《[網路版 - 假面騎士Fourze 大家的授業來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了!#其他相關放映 "wikilink")》-《來學習全天高生\! ①》 單元中
 
-20. 資料來源:《[網路版 - 假面騎士Fourze
-    大家的授業來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了!#其他相關放映 "wikilink")》-《來學習全天高生\!
-    ④》 單元中
+20. 資料來源:《[網路版 - 假面騎士Fourze 大家的授業來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了!#其他相關放映 "wikilink")》-《來學習全天高生\! ④》 單元中
 
 21. Cast表記為。

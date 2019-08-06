@@ -327,5 +327,4 @@
   - [《牙狼〈GARO〉-魔戒之花-》官方網站](http://garo-project.jp/TV4/)
   - [東京電視台《牙狼〈GARO〉-魔戒之花-》節目情報網頁](http://www.tv-tokyo.co.jp/anime/garo-makainohana/)
 
-[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink")
-[Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink")
+[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink") [Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink")

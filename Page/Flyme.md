@@ -2,8 +2,7 @@
 
 ## 軟件
 
-Flyme内置了自家软件，並大幅修改原生[Android](../Page/Android.md "wikilink")界面，且中国版不预装[GMS](https://zh.wikipedia.org/wiki/GMS "wikilink")，[Eico
-Design亦有參與設計](https://zh.wikipedia.org/wiki/Eico_Design "wikilink")\[1\]。
+Flyme内置了自家软件，並大幅修改原生[Android](../Page/Android.md "wikilink")界面，且中国版不预装[GMS](https://zh.wikipedia.org/wiki/GMS "wikilink")，[Eico Design亦有參與設計](https://zh.wikipedia.org/wiki/Eico_Design "wikilink")\[1\]。
 
 对于預裝YunOS版本的手機，如魅蓝metal等诸多魅蓝机型，魅族也已为其提供了Android版本系统。
 
@@ -80,8 +79,7 @@ Flyme雲服務是[魅族科技](../Page/魅族科技.md "wikilink")開發的[雲
 
 ## mBack
 
-mBack是魅族手机使用的Home键方案。在手机正面采用一个支持[触摸感应的按键](https://zh.wikipedia.org/wiki/触摸操作 "wikilink")，来代替原生Android的三个按键。触摸主键执行返回操作，按压主键执行回到桌面，从主键两侧的屏幕底部上滑打开多任务卡片。\[4\]主键亦可支持[指纹识别](../Page/指纹识别.md "wikilink")，用于指纹解锁、[微信](../Page/微信.md "wikilink")和[支付宝](../Page/支付宝.md "wikilink")的指纹支付。魅族手机自魅蓝note2以后均采用mBack，但未全部搭载指纹识别。在魅族PRO
-6 Plus上，主键还包括活体指纹检测和心率检测功能。
+mBack是魅族手机使用的Home键方案。在手机正面采用一个支持[触摸感应的按键](https://zh.wikipedia.org/wiki/触摸操作 "wikilink")，来代替原生Android的三个按键。触摸主键执行返回操作，按压主键执行回到桌面，从主键两侧的屏幕底部上滑打开多任务卡片。\[4\]主键亦可支持[指纹识别](../Page/指纹识别.md "wikilink")，用于指纹解锁、[微信](../Page/微信.md "wikilink")和[支付宝](../Page/支付宝.md "wikilink")的指纹支付。魅族手机自魅蓝note2以后均采用mBack，但未全部搭载指纹识别。在魅族PRO 6 Plus上，主键还包括活体指纹检测和心率检测功能。
 
 ### 评价
 
@@ -108,11 +106,9 @@ mBack用一个按键替换原生Android三个按键的做法被认为符合魅�
   - [魅族Pro 5](https://zh.wikipedia.org/wiki/魅族Pro_5 "wikilink")
   - [魅族Pro 6](https://zh.wikipedia.org/wiki/魅族Pro_6 "wikilink")
   - [魅族Pro 6s](https://zh.wikipedia.org/wiki/魅族Pro_6s "wikilink")
-  - [魅族Pro 6
-    Plus](https://zh.wikipedia.org/wiki/魅族Pro_6_Plus "wikilink")
+  - [魅族Pro 6 Plus](https://zh.wikipedia.org/wiki/魅族Pro_6_Plus "wikilink")
   - [魅族Pro 7](https://zh.wikipedia.org/wiki/魅族Pro_7 "wikilink")
-  - [魅族Pro 7
-    Plus](https://zh.wikipedia.org/wiki/魅族Pro_7_Plus "wikilink")
+  - [魅族Pro 7 Plus](https://zh.wikipedia.org/wiki/魅族Pro_7_Plus "wikilink")
   - [魅族M15](https://zh.wikipedia.org/wiki/魅族M15 "wikilink")
   - [魅族15](https://zh.wikipedia.org/wiki/魅族15 "wikilink")
   - [魅族15 Plus](https://zh.wikipedia.org/wiki/魅族15_Plus "wikilink")
@@ -143,8 +139,7 @@ mBack用一个按键替换原生Android三个按键的做法被认为符合魅�
   - [魅蓝E](https://zh.wikipedia.org/wiki/魅蓝E "wikilink")
   - [魅蓝E2](https://zh.wikipedia.org/wiki/魅蓝E2 "wikilink")
   - [魅蓝E3](https://zh.wikipedia.org/wiki/魅蓝E3 "wikilink")
-  - [魅族（魅蓝）Note
-    9](https://zh.wikipedia.org/wiki/魅族（魅蓝）Note_9 "wikilink")
+  - [魅族（魅蓝）Note 9](https://zh.wikipedia.org/wiki/魅族（魅蓝）Note_9 "wikilink")
 
 #### 其他
 
@@ -164,20 +159,13 @@ mBack用一个按键替换原生Android三个按键的做法被认为符合魅�
 
 ## 參考資料
 
-[Category:魅族科技](https://zh.wikipedia.org/wiki/Category:魅族科技 "wikilink")
-[Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink")
-[Category:嵌入式作業系統](https://zh.wikipedia.org/wiki/Category:嵌入式作業系統 "wikilink")
-[Category:嵌入式Linux](https://zh.wikipedia.org/wiki/Category:嵌入式Linux "wikilink")
-[Category:售後韌體](https://zh.wikipedia.org/wiki/Category:售後韌體 "wikilink")
+[Category:魅族科技](https://zh.wikipedia.org/wiki/Category:魅族科技 "wikilink") [Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink") [Category:嵌入式作業系統](https://zh.wikipedia.org/wiki/Category:嵌入式作業系統 "wikilink") [Category:嵌入式Linux](https://zh.wikipedia.org/wiki/Category:嵌入式Linux "wikilink") [Category:售後韌體](https://zh.wikipedia.org/wiki/Category:售後韌體 "wikilink")
 
-1.  [EICO 案例：魅族 Flyme
-    OS](http://eicodesign.com/productcase/meizu-flymeos)
+1.  [EICO 案例：魅族 Flyme OS](http://eicodesign.com/productcase/meizu-flymeos)
 
-2.  [Flyme 6
-    首版系统发布](http://bbs.flyme.cn/thread-1507772-1-1.html)，Flyme社区。
+2.  [Flyme 6 首版系统发布](http://bbs.flyme.cn/thread-1507772-1-1.html)，Flyme社区。
 
-3.  [Flyme 7
-    首版系统更新](http://bbs.flyme.cn/thread-2321031-1-1.html)，Flyme社区。
+3.  [Flyme 7 首版系统更新](http://bbs.flyme.cn/thread-2321031-1-1.html)，Flyme社区。
 
 4.
 

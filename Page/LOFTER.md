@@ -51,15 +51,13 @@ LOFTER有一些名人加入，如[寂地](../Page/寂地.md "wikilink")。\[8\]
   - [LOFTER主页](http://www.lofter.com/)
   - [LOFTER精选](http://www.lofter.com/wall)
 
-[Category:网易](https://zh.wikipedia.org/wiki/Category:网易 "wikilink")
-[Category:网志](https://zh.wikipedia.org/wiki/Category:网志 "wikilink")
+[Category:网易](https://zh.wikipedia.org/wiki/Category:网易 "wikilink") [Category:网志](https://zh.wikipedia.org/wiki/Category:网志 "wikilink")
 
 1.
 2.  [LOFTER，将于12月1日开放注册](http://i.lofter.com/post/4a3a_498dc)
 3.  [LOFTER官方介绍页面](http://www.lofter.com/about)
 4.
-5.  [LOFTER\#我在现场
-    Vol.1——梁晓雪:活在当下，且行且记录](http://i.lofter.com/post/4a3a_1e56a5)
+5.  [LOFTER\#我在现场 Vol.1——梁晓雪:活在当下，且行且记录](http://i.lofter.com/post/4a3a_1e56a5)
 6.  [首页交给你](http://www.lofter.com/login_design/)
 7.  [淘宝技术嘉年华2012 金凌的演讲](http://v.youku.com/v_show/id_XNDM0MTA2MDY0.html)
 8.  [寂地接受LOFTER官方博客访谈](http://i.lofter.com/post/4a3a_1d1a69)

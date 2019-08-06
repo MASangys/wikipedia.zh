@@ -4,8 +4,7 @@
 
 ## 引用
 
-[Category:蛋白质](https://zh.wikipedia.org/wiki/Category:蛋白质 "wikilink")
-[Category:酶](https://zh.wikipedia.org/wiki/Category:酶 "wikilink")
+[Category:蛋白质](https://zh.wikipedia.org/wiki/Category:蛋白质 "wikilink") [Category:酶](https://zh.wikipedia.org/wiki/Category:酶 "wikilink")
 
 1.
 2.

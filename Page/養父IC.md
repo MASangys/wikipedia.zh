@@ -13,8 +13,7 @@
 
 ## 歷史
 
-  - 2012年11月（預計） -
-    [北近畿豐岡自動車道](https://zh.wikipedia.org/wiki/北近畿豐岡自動車道 "wikilink")[八鹿冰之山IC至](https://zh.wikipedia.org/wiki/八鹿冰之山IC "wikilink")[和田山IC之間開通](https://zh.wikipedia.org/wiki/和田山IC "wikilink")，此交流道也同時啟用。
+  - 2012年11月（預計） - [北近畿豐岡自動車道](https://zh.wikipedia.org/wiki/北近畿豐岡自動車道 "wikilink")[八鹿冰之山IC至](https://zh.wikipedia.org/wiki/八鹿冰之山IC "wikilink")[和田山IC之間開通](https://zh.wikipedia.org/wiki/和田山IC "wikilink")，此交流道也同時啟用。
 
 ## 交流道周邊
 
@@ -25,9 +24,7 @@
 ## 鄰近設施
 
   - [北近畿豐岡自動車道](https://zh.wikipedia.org/wiki/北近畿豐岡自動車道 "wikilink")
-    [和田山IC/JCT](https://zh.wikipedia.org/wiki/和田山IC "wikilink") -
-    **養父IC**（建設中） -
-    *[八鹿冰之山IC](https://zh.wikipedia.org/wiki/八鹿冰之山IC "wikilink")*（建設中）
+    [和田山IC/JCT](https://zh.wikipedia.org/wiki/和田山IC "wikilink") - **養父IC**（建設中） - *[八鹿冰之山IC](https://zh.wikipedia.org/wiki/八鹿冰之山IC "wikilink")*（建設中）
 
 ## 相關項目
 
@@ -38,6 +35,4 @@
   - [兵庫國道事務所](http://www.kkr.mlit.go.jp/hyogo/)
   - [豐岡河川國道事務所](http://www.kkr.mlit.go.jp/toyooka/)
 
-[Category:日本交流道_Ya](https://zh.wikipedia.org/wiki/Category:日本交流道_Ya "wikilink")
-[Category:兵庫縣交流道](https://zh.wikipedia.org/wiki/Category:兵庫縣交流道 "wikilink")
-[Category:養父市](https://zh.wikipedia.org/wiki/Category:養父市 "wikilink")
+[Category:日本交流道_Ya](https://zh.wikipedia.org/wiki/Category:日本交流道_Ya "wikilink") [Category:兵庫縣交流道](https://zh.wikipedia.org/wiki/Category:兵庫縣交流道 "wikilink") [Category:養父市](https://zh.wikipedia.org/wiki/Category:養父市 "wikilink")

@@ -2,8 +2,7 @@
 
 ## 游戏背景
 
-《使命召唤Online》英雄行动以《[使命召唤](https://zh.wikipedia.org/wiki/使命召唤 "wikilink")》的《现代战争》系列（Modern
-Warfare）为故事背景，采用《现代战争》系列的世界观，讲述的是《现代战争》1—2代之间发生的故事\[2\]。但随着游戏版本的更新以及开发组的更换导致剧本更改，除部分人物外已与《现代战争》系列无多大联系，已作为一个平行世界。
+《使命召唤Online》英雄行动以《[使命召唤](https://zh.wikipedia.org/wiki/使命召唤 "wikilink")》的《现代战争》系列（Modern Warfare）为故事背景，采用《现代战争》系列的世界观，讲述的是《现代战争》1—2代之间发生的故事\[2\]。但随着游戏版本的更新以及开发组的更换导致剧本更改，除部分人物外已与《现代战争》系列无多大联系，已作为一个平行世界。
 
 ## 阵营
 
@@ -149,8 +148,7 @@ Warfare）为故事背景，采用《现代战争》系列的世界观，讲述�
   - 天际广场 [Spire（黑色行动3）](http://callofduty.wikia.com/wiki/Spire)
   - 公寓楼 [Skidrow（现代战争2）](http://callofduty.wikia.com/wiki/Skidrow)
   - 西西里小镇 [Piazza（现代战争3）](http://callofduty.wikia.com/wiki/Piazza)
-  - 摩天大楼
-    [Overwatch（现代战争3）](http://callofduty.wikia.com/wiki/Overwatch_\(map\))
+  - 摩天大楼 [Overwatch（现代战争3）](http://callofduty.wikia.com/wiki/Overwatch_\(map\))
   - 坠机之地
   - 交叉火力
   - 农场
@@ -169,16 +167,14 @@ Warfare）为故事背景，采用《现代战争》系列的世界观，讲述�
   - 废弃工业区 [Hardhat（现代战争3）](http://callofduty.wikia.com/wiki/Hardhat)
   - 战火小镇
   - 山景别墅
-  - 雷达站
-    [Dome（现代战争3）](http://callofduty.wikia.com/wiki/Dome_\(Modern_Warfare_3\))
+  - 雷达站 [Dome（现代战争3）](http://callofduty.wikia.com/wiki/Dome_\(Modern_Warfare_3\))
   - 潜艇基地 [SubBase（现代战争2）](http://callofduty.wikia.com/wiki/Sub_Base)
   - 货轮
   - 荒漠边陲 [Afghan（现代战争2）](http://callofduty.wikia.com/wiki/Afghan)
   - 滨海镇 [Seatown（现代战争3）](http://callofduty.wikia.com/wiki/Seatown)
   - 高楼 [Skyrise（高级战争）](http://callofduty.wikia.com/wiki/Skyrise)
   - 雪山之巅
-  - 航站楼
-    [Terminal（现代战争3）](http://callofduty.wikia.com/wiki/Terminal_\(map\)#MW3)
+  - 航站楼 [Terminal（现代战争3）](http://callofduty.wikia.com/wiki/Terminal_\(map\)#MW3)
   - 能源基地
   - 杀戮小屋
   - 末日钻井
@@ -561,10 +557,7 @@ Warfare）为故事背景，采用《现代战争》系列的世界观，讲述�
 
 {{-}}
 
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:多人線上第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:多人線上第一人稱射擊遊戲 "wikilink")
-[Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink")
-[Category:使命召唤系列电子游戏](https://zh.wikipedia.org/wiki/Category:使命召唤系列电子游戏 "wikilink")
+[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:多人線上第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:多人線上第一人稱射擊遊戲 "wikilink") [Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink") [Category:使命召唤系列电子游戏](https://zh.wikipedia.org/wiki/Category:使命召唤系列电子游戏 "wikilink")
 
 1.
 

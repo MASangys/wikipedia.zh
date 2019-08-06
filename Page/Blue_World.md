@@ -1,17 +1,10 @@
-**Blue World**是韓國男子組合[Super
-Junior的第五張日語單曲](../Page/Super_Junior.md "wikilink")。2013年12月11日由Avex
-trax發售。\[1\]
+**Blue World**是韓國男子組合[Super Junior的第五張日語單曲](../Page/Super_Junior.md "wikilink")。2013年12月11日由Avex trax發售。\[1\]
 
 ## 概要
 
-Blue World是[Super
-Junior的第五張日語單曲](../Page/Super_Junior.md "wikilink")，亦是成員[金希澈退伍後復出的首張音樂作品](https://zh.wikipedia.org/wiki/金希澈 "wikilink")，一共收錄了兩首歌曲。專輯主打曲《Blue
-World》是日語原創歌曲，以Super Junior的應援色‘Blue’（宝蓝色）為主題。
+Blue World是[Super Junior的第五張日語單曲](../Page/Super_Junior.md "wikilink")，亦是成員[金希澈退伍後復出的首張音樂作品](https://zh.wikipedia.org/wiki/金希澈 "wikilink")，一共收錄了兩首歌曲。專輯主打曲《Blue World》是日語原創歌曲，以Super Junior的應援色‘Blue’（宝蓝色）為主題。
 
-2013年9月27日，Super Junior在日本歌迷會"E.L.F-Japan Festival 2013"上首次宣布發行《Blue
-World》。11月15日，在[Super Show
-5大阪站上公開](../Page/Super_Show_5.md "wikilink")《Blue
-World》舞曲。12月28至29日，在SMTown Week演唱《Blue World》的韓語版本。
+2013年9月27日，Super Junior在日本歌迷會"E.L.F-Japan Festival 2013"上首次宣布發行《Blue World》。11月15日，在[Super Show 5大阪站上公開](../Page/Super_Show_5.md "wikilink")《Blue World》舞曲。12月28至29日，在SMTown Week演唱《Blue World》的韓語版本。
 
 ## 收錄內容
 
@@ -73,12 +66,9 @@ World》舞曲。12月28至29日，在SMTown Week演唱《Blue World》的韓語
 
 ## 外部链接
 
-  - – 日本官方網站 ([Avex
-    Group](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink"))
+  - – 日本官方網站 ([Avex Group](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink"))
 
-[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink")
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:Super_Junior歌曲](https://zh.wikipedia.org/wiki/Category:Super_Junior歌曲 "wikilink")
+[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:Super_Junior歌曲](https://zh.wikipedia.org/wiki/Category:Super_Junior歌曲 "wikilink")
 
 1.
 

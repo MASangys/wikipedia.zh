@@ -1,5 +1,4 @@
-**TRASH樂團**，為[臺灣](../Page/臺灣.md "wikilink")樂團，於2009年12月成立於[臺北](../Page/臺北.md "wikilink")，目前成員四位由[主唱阿夜](https://zh.wikipedia.org/wiki/主唱 "wikilink")（林志融）、[吉他手頤原](https://zh.wikipedia.org/wiki/吉他手 "wikilink")（林頤原）、[貝斯手博文](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")（鄧博文）、[鼓手金魁剛](https://zh.wikipedia.org/wiki/鼓手 "wikilink")（王韋翔）所組成。音樂風格以[Britpop](https://zh.wikipedia.org/wiki/Britpop "wikilink")、[Alternative
-rock](https://zh.wikipedia.org/wiki/Alternative_rock "wikilink")、[Grunge為主](https://zh.wikipedia.org/wiki/Grunge "wikilink")，但不會被一定的型式所侷限，而常有超出這些風格的創意出現。
+**TRASH樂團**，為[臺灣](../Page/臺灣.md "wikilink")樂團，於2009年12月成立於[臺北](../Page/臺北.md "wikilink")，目前成員四位由[主唱阿夜](https://zh.wikipedia.org/wiki/主唱 "wikilink")（林志融）、[吉他手頤原](https://zh.wikipedia.org/wiki/吉他手 "wikilink")（林頤原）、[貝斯手博文](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")（鄧博文）、[鼓手金魁剛](https://zh.wikipedia.org/wiki/鼓手 "wikilink")（王韋翔）所組成。音樂風格以[Britpop](https://zh.wikipedia.org/wiki/Britpop "wikilink")、[Alternative rock](https://zh.wikipedia.org/wiki/Alternative_rock "wikilink")、[Grunge為主](https://zh.wikipedia.org/wiki/Grunge "wikilink")，但不會被一定的型式所侷限，而常有超出這些風格的創意出現。
 
 創作靈感多來自於團員們對[現實生活的真實](https://zh.wikipedia.org/wiki/現實生活 "wikilink")[體驗](https://zh.wikipedia.org/wiki/體驗 "wikilink")、[感觸](https://zh.wikipedia.org/wiki/感觸 "wikilink")，活在自認是革命世代的當下。嚮往六七零年代[搖滾樂萌芽時期的輝煌](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")，更憧憬著搖滾不死的精神實踐。
 
@@ -63,25 +62,13 @@ rock](https://zh.wikipedia.org/wiki/Alternative_rock "wikilink")、[Grunge為主
 
 ## 演出經歷
 
-  - 2011年：金曲音樂節-新星飛起來、[貢寮國際海洋音樂祭](../Page/貢寮國際海洋音樂祭.md "wikilink")、宜蘭露營季、夏日高雄系列活動-世運不斷電、巨獸搖滾音樂祭1.0、基隆大武崙澳沙灘音樂祭、建國百年-我行我秀全台青年精采大匯演、董事長冠宇紀念會、搖滾台中-跳躍舞台、全台各大Live
-    House。
-  - 2012年：CONVERSE x
-    GORILLAZ主題展、[墾丁春天吶喊](https://zh.wikipedia.org/wiki/墾丁春天吶喊 "wikilink")-台灣舞台、金曲音樂節-學生之音、貢寮國際海洋音樂祭-熱浪舞台、見證大團開發場6＠LEGACY、巨獸搖滾2.0＠淡水、高雄大彩虹音樂節、台北台灣樂團潮、全台各大Live
-    House。
-  - 2013年：車庫大帝國全台巡演 with
-    八十八顆芭樂籽、[宜蘭童玩節](https://zh.wikipedia.org/wiki/宜蘭童玩節 "wikilink")、新加坡Music
-    Matter音樂節演出、韓國Pentaport
-    Rock音樂節、台北京華城京夏好搖音樂會、台北新光三越南西夏日樂園、大高雄超級搖滾日、高雄硬地音樂展、搖滾台中、香港呼叫音樂節、高雄大彩虹音樂節、桃園鐵玫瑰熱音賞、彰化乳牛節、全聯公益搖滾路跑、全台各大Live
-    House。
-  - 2014年：多次受邀參與海外音樂節的演出，分別前往：中國深圳迷笛音樂節；中國上海熱波音樂節；香港呼叫音樂節；[新加坡](../Page/新加坡.md "wikilink")Music
-    Matters Live；[韓國仁川音樂節](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
-  - 2015年：亞洲巡迴（[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[日本](../Page/日本.md "wikilink").....等）、河岸留言《河岸聲現》with
-    [放客兄弟](../Page/放客兄弟.md "wikilink")\[1\]。
-  - 2016年：[SXSW美國南方音樂節](https://zh.wikipedia.org/wiki/SXSW "wikilink")、韓國[Pentaport
-    Rock音樂節](https://zh.wikipedia.org/wiki/Pentaport_Rock "wikilink")
-  - 2017年：[2017年夏季世界大學運動會閉幕式](https://zh.wikipedia.org/wiki/2017年夏季世界大學運動會 "wikilink")、嘉大狂人音樂祭、搖滾台中、泰國大山音樂節（[Big
-    Mountain Music
-    Festival](https://zh.wikipedia.org/wiki/Big_Mountain_Music_Festival "wikilink"))
+  - 2011年：金曲音樂節-新星飛起來、[貢寮國際海洋音樂祭](../Page/貢寮國際海洋音樂祭.md "wikilink")、宜蘭露營季、夏日高雄系列活動-世運不斷電、巨獸搖滾音樂祭1.0、基隆大武崙澳沙灘音樂祭、建國百年-我行我秀全台青年精采大匯演、董事長冠宇紀念會、搖滾台中-跳躍舞台、全台各大Live House。
+  - 2012年：CONVERSE x GORILLAZ主題展、[墾丁春天吶喊](https://zh.wikipedia.org/wiki/墾丁春天吶喊 "wikilink")-台灣舞台、金曲音樂節-學生之音、貢寮國際海洋音樂祭-熱浪舞台、見證大團開發場6＠LEGACY、巨獸搖滾2.0＠淡水、高雄大彩虹音樂節、台北台灣樂團潮、全台各大Live House。
+  - 2013年：車庫大帝國全台巡演 with 八十八顆芭樂籽、[宜蘭童玩節](https://zh.wikipedia.org/wiki/宜蘭童玩節 "wikilink")、新加坡Music Matter音樂節演出、韓國Pentaport Rock音樂節、台北京華城京夏好搖音樂會、台北新光三越南西夏日樂園、大高雄超級搖滾日、高雄硬地音樂展、搖滾台中、香港呼叫音樂節、高雄大彩虹音樂節、桃園鐵玫瑰熱音賞、彰化乳牛節、全聯公益搖滾路跑、全台各大Live House。
+  - 2014年：多次受邀參與海外音樂節的演出，分別前往：中國深圳迷笛音樂節；中國上海熱波音樂節；香港呼叫音樂節；[新加坡](../Page/新加坡.md "wikilink")Music Matters Live；[韓國仁川音樂節](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
+  - 2015年：亞洲巡迴（[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[日本](../Page/日本.md "wikilink").....等）、河岸留言《河岸聲現》with [放客兄弟](../Page/放客兄弟.md "wikilink")\[1\]。
+  - 2016年：[SXSW美國南方音樂節](https://zh.wikipedia.org/wiki/SXSW "wikilink")、韓國[Pentaport Rock音樂節](https://zh.wikipedia.org/wiki/Pentaport_Rock "wikilink")
+  - 2017年：[2017年夏季世界大學運動會閉幕式](https://zh.wikipedia.org/wiki/2017年夏季世界大學運動會 "wikilink")、嘉大狂人音樂祭、搖滾台中、泰國大山音樂節（[Big Mountain Music Festival](https://zh.wikipedia.org/wiki/Big_Mountain_Music_Festival "wikilink"))
   - 2018年：桃園鐵玫瑰熱音賞、前往火星的班機/登機場 華山Legacy演唱會（Sold Out）
 
 ## 得獎記錄
@@ -167,12 +154,10 @@ rock](https://zh.wikipedia.org/wiki/Alternative_rock "wikilink")、[Grunge為主
 
 ### 單曲
 
-  - 2016.08
-    <我們的歌>（[中華職棒年度歌曲](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")）
+  - 2016.08 <我們的歌>（[中華職棒年度歌曲](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")）
 
 ## 參考文獻
 
-[Category:重金屬樂團](https://zh.wikipedia.org/wiki/Category:重金屬樂團 "wikilink")
-[Category:台灣搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣搖滾樂團 "wikilink")
+[Category:重金屬樂團](https://zh.wikipedia.org/wiki/Category:重金屬樂團 "wikilink") [Category:台灣搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣搖滾樂團 "wikilink")
 
 1.

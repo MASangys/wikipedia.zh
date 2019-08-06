@@ -10,8 +10,7 @@
 
 <!-- end list -->
 
-  - 金田一二三男（38） -
-    [木村拓哉](../Page/木村拓哉.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）（少年時期：）（粵語配音：[蘇強文](../Page/蘇強文.md "wikilink")）
+  - 金田一二三男（38） - [木村拓哉](../Page/木村拓哉.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）（少年時期：）（粵語配音：[蘇強文](../Page/蘇強文.md "wikilink")）
 
 <!-- end list -->
 
@@ -20,8 +19,7 @@
 
 <!-- end list -->
 
-  - 模合謙吾（46） -
-    [中井貴一](../Page/中井貴一.md "wikilink")（粵語配音：[招世亮](../Page/招世亮.md "wikilink")）
+  - 模合謙吾（46） - [中井貴一](../Page/中井貴一.md "wikilink")（粵語配音：[招世亮](../Page/招世亮.md "wikilink")）
 
 <!-- end list -->
 
@@ -30,8 +28,7 @@
 
 <!-- end list -->
 
-  - 二階堂彩矢（27） -
-    [香里奈](../Page/香里奈.md "wikilink")（粵語配音：[劉惠雲](../Page/劉惠雲.md "wikilink")）
+  - 二階堂彩矢（27） - [香里奈](../Page/香里奈.md "wikilink")（粵語配音：[劉惠雲](../Page/劉惠雲.md "wikilink")）
 
 <!-- end list -->
 
@@ -39,8 +36,7 @@
 
 <!-- end list -->
 
-  - 大屋敷統一郎（40） -
-    [藤木直人](../Page/藤木直人.md "wikilink")（幼少期：）（粵語配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
+  - 大屋敷統一郎（40） - [藤木直人](../Page/藤木直人.md "wikilink")（幼少期：）（粵語配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
 
 <!-- end list -->
 
@@ -49,11 +45,9 @@
 
 <!-- end list -->
 
-  - 榎本小太郎（25） -
-    [藤谷太輔](../Page/藤谷太輔.md "wikilink")（[Kis-My-Ft2](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")）（粵語配音：[李致林](../Page/李致林.md "wikilink")）
+  - 榎本小太郎（25） - [藤谷太輔](../Page/藤谷太輔.md "wikilink")（[Kis-My-Ft2](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")）（粵語配音：[李致林](../Page/李致林.md "wikilink")）
   - 財前修（55） - （粵語配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
-  - 大屋敷巖 -
-    [中村敦夫](../Page/中村敦夫.md "wikilink")（第1、9話）（特別演出）（粵語配音：[盧國權](../Page/盧國權.md "wikilink")）
+  - 大屋敷巖 - [中村敦夫](../Page/中村敦夫.md "wikilink")（第1、9話）（特別演出）（粵語配音：[盧國權](../Page/盧國權.md "wikilink")）
 
 <!-- end list -->
 
@@ -63,13 +57,10 @@
 
   - 鞠丘貫太（11） - （）（粵語配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
   - 鞠丘兩太（7） -（粵語配音：[魏惠娥](../Page/魏惠娥.md "wikilink")）
-  - 富澤萌（19） - [小嶋陽菜](../Page/小嶋陽菜.md "wikilink")
-    （[AKB48](../Page/AKB48.md "wikilink")）（第3-5、7-最終話）（粵語配音：[陳皓宜](../Page/陳皓宜.md "wikilink")）
-  - 豪田武雄（52） -
-    [酒井敏也](../Page/酒井敏也.md "wikilink")（粵語配音：[陳卓智](../Page/陳卓智.md "wikilink")）
+  - 富澤萌（19） - [小嶋陽菜](../Page/小嶋陽菜.md "wikilink") （[AKB48](../Page/AKB48.md "wikilink")）（第3-5、7-最終話）（粵語配音：[陳皓宜](../Page/陳皓宜.md "wikilink")）
+  - 豪田武雄（52） - [酒井敏也](../Page/酒井敏也.md "wikilink")（粵語配音：[陳卓智](../Page/陳卓智.md "wikilink")）
   - 大島陽輝（36） - （粵語配音：[劉昭文](../Page/劉昭文.md "wikilink")）
-  - 鞠丘一厘（64） -
-    [夏木麻里](../Page/夏木麻里.md "wikilink")（粵語配音：[袁淑珍](../Page/袁淑珍.md "wikilink")）
+  - 鞠丘一厘（64） - [夏木麻里](../Page/夏木麻里.md "wikilink")（粵語配音：[袁淑珍](../Page/袁淑珍.md "wikilink")）
 
 <!-- end list -->
 
@@ -77,16 +68,13 @@
 
 <!-- end list -->
 
-  - 廣瀨瑤子（24） -
-    [蓮佛美沙子](../Page/蓮佛美沙子.md "wikilink")（粵語配音：[羅杏芝](../Page/羅杏芝.md "wikilink")）
+  - 廣瀨瑤子（24） - [蓮佛美沙子](../Page/蓮佛美沙子.md "wikilink")（粵語配音：[羅杏芝](../Page/羅杏芝.md "wikilink")）
   - 廣瀨遼一 - （第4話～）（粵語配音：[張炳強](../Page/張炳強.md "wikilink")）
   - 藤澤健（45） - （粵語配音：[陳廷軒](../Page/陳廷軒.md "wikilink")）
   - 辻義人 - （第5話～）（粵語配音：[林國雄](../Page/林國雄.md "wikilink")）
-  - 能見實 -
-    [香川照之](../Page/香川照之.md "wikilink")（粵語配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
+  - 能見實 - [香川照之](../Page/香川照之.md "wikilink")（粵語配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
   - 模合德子 - （第3～4話）（粵語配音：[黃麗芳](../Page/黃麗芳.md "wikilink")）
-  - 模合奈美 -
-    [伊倉愛美](../Page/伊倉愛美.md "wikilink")（第3～4話）（粵語配音：[何寶珊](../Page/何寶珊.md "wikilink")）
+  - 模合奈美 - [伊倉愛美](../Page/伊倉愛美.md "wikilink")（第3～4話）（粵語配音：[何寶珊](../Page/何寶珊.md "wikilink")）
 
 <!-- end list -->
 
@@ -99,12 +87,9 @@
   - 倉內勉 - （第2話）（粵語配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）
   - 佐倉辰彥 - （第2～4話）（粵語配音：[葉振聲](../Page/葉振聲.md "wikilink")）
   - 德一 - （第4話）（粵語配音：[朱子聰](../Page/朱子聰.md "wikilink")）
-  - 相模川 -
-    [石井正則](https://zh.wikipedia.org/wiki/石井正則 "wikilink")（第4話）（粵語配音：[陳卓智](../Page/陳卓智.md "wikilink")）
-  - 相馬 -
-    [平泉成](https://zh.wikipedia.org/wiki/平泉成 "wikilink")（第7話）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
-  - 阮安新（グェン・アン・シン，音譯） -
-    （第8話）（粵語配音：[許秉珩](https://zh.wikipedia.org/wiki/許秉珩 "wikilink")）
+  - 相模川 - [石井正則](https://zh.wikipedia.org/wiki/石井正則 "wikilink")（第4話）（粵語配音：[陳卓智](../Page/陳卓智.md "wikilink")）
+  - 相馬 - [平泉成](https://zh.wikipedia.org/wiki/平泉成 "wikilink")（第7話）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
+  - 阮安新（グェン・アン・シン，音譯） - （第8話）（粵語配音：[許秉珩](https://zh.wikipedia.org/wiki/許秉珩 "wikilink")）
   - 佃基夫 - （第9話）（粵語配音：[陳廷軒](../Page/陳廷軒.md "wikilink")）
 
 ## 製作團隊
@@ -119,8 +104,7 @@
 
 ## 歌曲
 
-  - 主題曲：[滾石樂團](https://zh.wikipedia.org/wiki/滾石樂團 "wikilink") 《Jumpin'
-    Jack Flash》
+  - 主題曲：[滾石樂團](https://zh.wikipedia.org/wiki/滾石樂團 "wikilink") 《Jumpin' Jack Flash》
 
 ## 收視率
 
@@ -238,15 +222,6 @@
 ## 外部連結
 
   - [富士電視台官網](https://web.archive.org/web/20121128053331/http://www.fujitv.co.jp/PRICELESS/index.html)
-
   - [緯來日本台官網](http://japan.videoland.com.tw/channel/20130405/)
 
-[Category:富士電視台週一晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週一晚間九點連續劇 "wikilink")
-[Category:2012年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年日本電視劇集 "wikilink")
-[Category:日本電視喜劇](https://zh.wikipedia.org/wiki/Category:日本電視喜劇 "wikilink")
-[Category:貧窮題材電視劇](https://zh.wikipedia.org/wiki/Category:貧窮題材電視劇 "wikilink")
-[Category:職場題材電視劇](https://zh.wikipedia.org/wiki/Category:職場題材電視劇 "wikilink")
-[Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:木村拓哉](https://zh.wikipedia.org/wiki/Category:木村拓哉 "wikilink")
+[Category:富士電視台週一晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週一晚間九點連續劇 "wikilink") [Category:2012年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年日本電視劇集 "wikilink") [Category:日本電視喜劇](https://zh.wikipedia.org/wiki/Category:日本電視喜劇 "wikilink") [Category:貧窮題材電視劇](https://zh.wikipedia.org/wiki/Category:貧窮題材電視劇 "wikilink") [Category:職場題材電視劇](https://zh.wikipedia.org/wiki/Category:職場題材電視劇 "wikilink") [Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:木村拓哉](https://zh.wikipedia.org/wiki/Category:木村拓哉 "wikilink")

@@ -1,5 +1,4 @@
-这是一个[PlayStation
-2](../Page/PlayStation_2.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")的列表。它包含了销售100万份以上的游戏，并按销售量排序。
+这是一个[PlayStation 2](../Page/PlayStation_2.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")的列表。它包含了销售100万份以上的游戏，并按销售量排序。
 
 ## 列表
 
@@ -1818,14 +1817,11 @@
 </tbody>
 </table>
 
-</onlyinclude> 截止2007年3月31日，PlayStation
-2游戏出货量：12.4亿\[326\]。2007年4月1日至2012年3月31日间，PlayStation
-2游戏总计售出：2.975亿\[327\]。请注意，因为前者数据是指出货量，后者是指销售量，两者之间可能有部分重叠。
+</onlyinclude> 截止2007年3月31日，PlayStation 2游戏出货量：12.4亿\[326\]。2007年4月1日至2012年3月31日间，PlayStation 2游戏总计售出：2.975亿\[327\]。请注意，因为前者数据是指出货量，后者是指销售量，两者之间可能有部分重叠。
 
 ## 参考
 
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
+[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
 
 1.
 
@@ -1878,8 +1874,7 @@
 
 37.
 
-38.  Level Five
-    Inc.|publisher=[LEVEL-5](../Page/LEVEL-5.md "wikilink")|url=[http://www.level5.co.jp/products/dq9/staff.html|language=ja|accessdate=2008-12-30](http://www.level5.co.jp/products/dq9/staff.html%7Clanguage=ja%7Caccessdate=2008-12-30)}}
+38.  Level Five Inc.|publisher=[LEVEL-5](../Page/LEVEL-5.md "wikilink")|url=[http://www.level5.co.jp/products/dq9/staff.html|language=ja|accessdate=2008-12-30](http://www.level5.co.jp/products/dq9/staff.html%7Clanguage=ja%7Caccessdate=2008-12-30)}}
 
 39.
 40.
@@ -2226,5 +2221,4 @@
 
 326.
 
-327.  CORPORATE INFORMATION{{\!}} Sony Computer Entertainment
-     Inc.|accessdate=2013-03-12|publisher=Sony|deadurl=yes|archiveurl=[https://web.archive.org/web/20130215032406/http://scei.co.jp/corporate/data/bizdataps2soft_sale_e.html|archivedate=2013-02-15](https://web.archive.org/web/20130215032406/http://scei.co.jp/corporate/data/bizdataps2soft_sale_e.html%7Carchivedate=2013-02-15)}}
+327.  CORPORATE INFORMATION{{\!}} Sony Computer Entertainment Inc.|accessdate=2013-03-12|publisher=Sony|deadurl=yes|archiveurl=[https://web.archive.org/web/20130215032406/http://scei.co.jp/corporate/data/bizdataps2soft_sale_e.html|archivedate=2013-02-15](https://web.archive.org/web/20130215032406/http://scei.co.jp/corporate/data/bizdataps2soft_sale_e.html%7Carchivedate=2013-02-15)}}

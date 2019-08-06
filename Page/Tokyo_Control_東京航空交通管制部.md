@@ -1,5 +1,4 @@
-《**Tokyo Control
-東京航空交通管制部**》（）是一套以[東京航空交通管制部](../Page/東京航空交通管制部.md "wikilink")的[航空管制為主題的全十集電視劇](https://zh.wikipedia.org/wiki/航空管制 "wikilink")，自2011年1月19日起在[富士電視台](../Page/富士電視台.md "wikilink")收費頻道，每隔周三晚上10時播放，直至5月25日播映完畢。該劇更是全球及日本電視史上，全套利用[3D技術播放的電視劇集](../Page/3D立體電視.md "wikilink")，同時也提供傳統[2D版本](https://zh.wikipedia.org/wiki/2D "wikilink")。\[1\]\[2\]
+《**Tokyo Control 東京航空交通管制部**》（）是一套以[東京航空交通管制部](../Page/東京航空交通管制部.md "wikilink")的[航空管制為主題的全十集電視劇](https://zh.wikipedia.org/wiki/航空管制 "wikilink")，自2011年1月19日起在[富士電視台](../Page/富士電視台.md "wikilink")收費頻道，每隔周三晚上10時播放，直至5月25日播映完畢。該劇更是全球及日本電視史上，全套利用[3D技術播放的電視劇集](../Page/3D立體電視.md "wikilink")，同時也提供傳統[2D版本](https://zh.wikipedia.org/wiki/2D "wikilink")。\[1\]\[2\]
 
 ## 劇情大綱
 
@@ -92,11 +91,7 @@
 
 ## 每集內容
 
-《Tokyo Control 東京航空交通管制部》部份集數是以真實事件為劇情題材例如自然災害。而每集的開始前會有「FLY\! FLY\!
-FLY\! Tokyo
-Control」的短片，介紹[航空管制員](../Page/航空管制員.md "wikilink")的工作、航空管制和航空知識，部份集數完結後有「FLY\!
-FLY\!
-FLY\!紀行」介紹東京航空交通管制部及東京機場管制保安部、訪問航空管制員及介紹[波音](../Page/波音.md "wikilink")美國[西雅圖](../Page/西雅圖.md "wikilink")的組裝工廠。
+《Tokyo Control 東京航空交通管制部》部份集數是以真實事件為劇情題材例如自然災害。而每集的開始前會有「FLY\! FLY\! FLY\! Tokyo Control」的短片，介紹[航空管制員](../Page/航空管制員.md "wikilink")的工作、航空管制和航空知識，部份集數完結後有「FLY\! FLY\! FLY\!紀行」介紹東京航空交通管制部及東京機場管制保安部、訪問航空管制員及介紹[波音](../Page/波音.md "wikilink")美國[西雅圖](../Page/西雅圖.md "wikilink")的組裝工廠。
 
 <table>
 <tbody>
@@ -192,15 +187,11 @@ FLY\!紀行」介紹東京航空交通管制部及東京機場管制保安部、
 
 ### TOKYO机场～东京机场管制保安部～
 
-富士電視台在2012年10月14日播放另一套以航空管制為題的電視劇《[TOKYO机场～东京机场管制保安部～](../Page/TOKYO机场～东京机场管制保安部～.md "wikilink")》，但主場景由東京航空交通管制部轉移至[東京國際機場](../Page/東京國際機場.md "wikilink")（羽田機場）的[塔台](../Page/塔台.md "wikilink")，故事設定發生在《Tokyo
-Control
-東京航空交通管制部》之後兩年，[航空管制員](../Page/航空管制員.md "wikilink")的角色因由航空交通管制部（）轉職為機場管制保安部（）而有所不同，而部份演員則繼續參演新劇。
+富士電視台在2012年10月14日播放另一套以航空管制為題的電視劇《[TOKYO机场～东京机场管制保安部～](../Page/TOKYO机场～东京机场管制保安部～.md "wikilink")》，但主場景由東京航空交通管制部轉移至[東京國際機場](../Page/東京國際機場.md "wikilink")（羽田機場）的[塔台](../Page/塔台.md "wikilink")，故事設定發生在《Tokyo Control 東京航空交通管制部》之後兩年，[航空管制員](../Page/航空管制員.md "wikilink")的角色因由航空交通管制部（）轉職為機場管制保安部（）而有所不同，而部份演員則繼續參演新劇。
 
 ### TOKUNOSHIMA機場
 
-在《[TOKYO机场～东京机场管制保安部～](../Page/TOKYO机场～东京机场管制保安部～.md "wikilink")》播出同時，富士電視台在頻下收費及衛星頻道播放《Tokyo
-Control
-東京航空交通管制部》的續集《TOKUNOSHIMA機場》（），以[德之島機場](../Page/德之島機場.md "wikilink")管制保安部為題的電視劇，由[小池榮子及三名原東京航空交通管制部的航空管制員參演](https://zh.wikipedia.org/wiki/小池榮子 "wikilink")。
+在《[TOKYO机场～东京机场管制保安部～](../Page/TOKYO机场～东京机场管制保安部～.md "wikilink")》播出同時，富士電視台在頻下收費及衛星頻道播放《Tokyo Control 東京航空交通管制部》的續集《TOKUNOSHIMA機場》（），以[德之島機場](../Page/德之島機場.md "wikilink")管制保安部為題的電視劇，由[小池榮子及三名原東京航空交通管制部的航空管制員參演](https://zh.wikipedia.org/wiki/小池榮子 "wikilink")。
 
 ## 参考文献
 
@@ -209,16 +200,10 @@ Control
   -
   - [TOKYOコントロール　公式サイト](http://www.fujitv.co.jp/otn/TACC/index.html)
 
-  - [TOKUNOSHIMAエアポート -
-    フジテレビ](https://web.archive.org/web/20130804104750/http://www.fujitv.co.jp/otn/tokunoshima-airport/)
+  - [TOKUNOSHIMAエアポート - フジテレビ](https://web.archive.org/web/20130804104750/http://www.fujitv.co.jp/otn/tokunoshima-airport/)
 
   -
-[Category:富士電視台電視劇](https://zh.wikipedia.org/wiki/Category:富士電視台電視劇 "wikilink")
-[Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink")
-[Category:航空题材电视剧](https://zh.wikipedia.org/wiki/Category:航空题材电视剧 "wikilink")
-[Category:埼玉縣背景作品](https://zh.wikipedia.org/wiki/Category:埼玉縣背景作品 "wikilink")
-[Category:亚洲航空交通管制](https://zh.wikipedia.org/wiki/Category:亚洲航空交通管制 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
+[Category:富士電視台電視劇](https://zh.wikipedia.org/wiki/Category:富士電視台電視劇 "wikilink") [Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink") [Category:航空题材电视剧](https://zh.wikipedia.org/wiki/Category:航空题材电视剧 "wikilink") [Category:埼玉縣背景作品](https://zh.wikipedia.org/wiki/Category:埼玉縣背景作品 "wikilink") [Category:亚洲航空交通管制](https://zh.wikipedia.org/wiki/Category:亚洲航空交通管制 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
 
 1.
 2.

@@ -1,20 +1,14 @@
-**TraxX**，為[SM
-Entertainment旗下的EDM樂團](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。出道於2004年，韓國出道名為
-THE TRAX（日本活動則是 TRAX），作为摇滚乐团，以日本為首先發展目標，當時被其所屬公司—[SM
-Entertainment稱為是秘密武器](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")；後統一更名為TRAX；2018年3月加入新成员、更名为TraxX，并将曲风转变为EDM。
+**TraxX**，為[SM Entertainment旗下的EDM樂團](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。出道於2004年，韓國出道名為 THE TRAX（日本活動則是 TRAX），作为摇滚乐团，以日本為首先發展目標，當時被其所屬公司—[SM Entertainment稱為是秘密武器](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")；後統一更名為TRAX；2018年3月加入新成员、更名为TraxX，并将曲风转变为EDM。
 
 現在的TRAX是Jay、政模、Ginjo三人形式組合進行活動。\[1\]
 
 ## 簡介
 
-TRAX這個名稱則取自**T**yphoon of the **R**ose **A**ttack on **X**-mas的頭一個英文字母而成
-，原先為4人團體，分為主唱 Typhoon、鼓手 Rose、貝斯手 Attack、吉他手 X-mas。
+TRAX這個名稱則取自**T**yphoon of the **R**ose **A**ttack on **X**-mas的頭一個英文字母而成 ，原先為4人團體，分為主唱 Typhoon、鼓手 Rose、貝斯手 Attack、吉他手 X-mas。
 
 TRAX是由日本視覺搖滾樂團鼻祖人物[Yoshiki](../Page/Yoshiki.md "wikilink")一手打造的；每員個成都有很強的實力和讓人無法移開目光的特點，無論是華麗出眾的外表還是獨特的搖滾風格，都能感動任何一個有搖滾精神的人。他們能帶給人們不同於以往的視覺搖滾樂團帶來的驚喜！對音樂的執著會打動更多的人，使更多的人喜歡TRAX，並支持這個走視覺搖滾路線的獨一無二的韓國樂團！
 
-2005年11月5日，身兼鼓手和吉他手的Rose（[魯敏宇](https://zh.wikipedia.org/wiki/魯敏宇 "wikilink")）因音樂理念不合而離開[SM
-Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。之後
-TRAX是以Typhoon（Jay）、Attack、X-mas（政模）的3人組合方式。TRAX有幾次沒有以團體活動做表出，但2008年貝斯手Attack退團。目前TRAX只剩下Jay、政模兩名成員。
+2005年11月5日，身兼鼓手和吉他手的Rose（[魯敏宇](https://zh.wikipedia.org/wiki/魯敏宇 "wikilink")）因音樂理念不合而離開[SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。之後 TRAX是以Typhoon（Jay）、Attack、X-mas（政模）的3人組合方式。TRAX有幾次沒有以團體活動做表出，但2008年貝斯手Attack退團。目前TRAX只剩下Jay、政模兩名成員。
 
 2018年3月26日，SM方面表示一直以来以摇滚乐队活动的TRAX将在原有名字的基础上增加X，更名为**TraxX**，迎入DJ兼制作人的新成员[GINJO](https://zh.wikipedia.org/wiki/GINJO "wikilink")，与RAP兼主唱Jay以及兼具作曲实力的吉他家政模一起以三人组的形式展开正式的活动，并改变音乐风格，从摇滚乐队更改为EDM风格乐队。另外，新变身的TraxX预计将于4月发表新歌，将在国内外进行音乐节以及Club巡演活动。
 
@@ -33,17 +27,13 @@ TRAX是以Typhoon（Jay）、Attack、X-mas（政模）的3人組合方式。TRA
 
 ### 成員變遷表
 
-<timeline> ImageSize = width:1000 height:300 PlotArea = width:600
-height:250 left:75 bottom:20 Alignbars = justify DateFormat = mm/dd/yyyy
-Period = from:2004 till:2019 TimeAxis = orientation:horizontal
-format:yyyy
+<timeline> ImageSize = width:1000 height:300 PlotArea = width:600 height:250 left:75 bottom:20 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2004 till:2019 TimeAxis = orientation:horizontal format:yyyy
 
 Colors =
 
 `id:album     value:blue       legend:Studio_album`
 
-Legend = orientation:horizontal position:bottom ScaleMajor = unit:year
-increment:1 start:2004 gridcolor:black
+Legend = orientation:horizontal position:bottom ScaleMajor = unit:year increment:1 start:2004 gridcolor:black
 
 PlotData =
 
@@ -273,11 +263,6 @@ LineData =
   -
   - [GINJO](https://weibo.com/u/5534502805)的新浪微博
 
-[Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
-[Category:韓國演唱團體](https://zh.wikipedia.org/wiki/Category:韓國演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink")
+[Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink") [Category:韓國演唱團體](https://zh.wikipedia.org/wiki/Category:韓國演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink")
 
-1.  [韓國視覺搖滾樂團 TRAX-成員介紹](http://kpopn.com/2012/04/03/114244/)；kpopn
-    2012年04月03日
+1.  [韓國視覺搖滾樂團 TRAX-成員介紹](http://kpopn.com/2012/04/03/114244/)；kpopn 2012年04月03日

@@ -22,6 +22,4 @@
 
   - [『Glossy:MMM』Lantis介紹網頁](http://www.lantis.jp/new-release/data.php?id=92059a73538b0955df411c2ebdea92dc)
 
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
-[Category:咲-Saki-](https://zh.wikipedia.org/wiki/Category:咲-Saki- "wikilink")
+[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink") [Category:咲-Saki-](https://zh.wikipedia.org/wiki/Category:咲-Saki- "wikilink")

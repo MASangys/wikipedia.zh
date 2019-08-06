@@ -1,5 +1,4 @@
-『**Berryz工房Single V Clips
-①**』（）是[Berryz工房](../Page/Berryz工房.md "wikilink")的第1張PV集。
+『**Berryz工房Single V Clips ①**』（）是[Berryz工房](../Page/Berryz工房.md "wikilink")的第1張PV集。
 
 ## 概要
 
@@ -10,9 +9,7 @@
 1.  [沒有你活不下去](../Page/沒有你活不下去.md "wikilink")
 2.  [戰鬥姿勢不是虛有其表\!](../Page/戰鬥姿勢不是虛有其表!.md "wikilink")
 3.  [活力上路\!](https://zh.wikipedia.org/wiki/活力上路! "wikilink")
-4.  [Happiness
-    ～幸福歡迎\!～](https://zh.wikipedia.org/wiki/Happiness_～幸福歡迎!～ "wikilink")
-    （New Ver.）
+4.  [Happiness ～幸福歡迎\!～](https://zh.wikipedia.org/wiki/Happiness_～幸福歡迎!～ "wikilink") （New Ver.）
 5.  [戀愛咒縛](../Page/戀愛咒縛.md "wikilink")
 
 <!-- end list -->
@@ -30,9 +27,6 @@
 
 ## 外部連結
 
-  - [UP-FRONT
-    WORKSディスコグラフィ](https://web.archive.org/web/20081005213039/http://www.up-front-works.jp/discography/piccolotown/05/v_06/)
+  - [UP-FRONT WORKSディスコグラフィ](https://web.archive.org/web/20081005213039/http://www.up-front-works.jp/discography/piccolotown/05/v_06/)
 
-[Category:Berryz工房影像作品](https://zh.wikipedia.org/wiki/Category:Berryz工房影像作品 "wikilink")
-[Category:2004年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2004年音樂相關影像作品 "wikilink")
-[Category:音樂影片集](https://zh.wikipedia.org/wiki/Category:音樂影片集 "wikilink")
+[Category:Berryz工房影像作品](https://zh.wikipedia.org/wiki/Category:Berryz工房影像作品 "wikilink") [Category:2004年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2004年音樂相關影像作品 "wikilink") [Category:音樂影片集](https://zh.wikipedia.org/wiki/Category:音樂影片集 "wikilink")

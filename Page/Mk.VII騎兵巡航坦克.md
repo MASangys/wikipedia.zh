@@ -44,19 +44,13 @@
   -
   - Fletcher, David *The Great Tank Scandal* HMSO
 
-  - FLetcher D, Harley, R *Cromwell Cruiser Tank 1942–50* Osprey
-    Publishing New Vanguard
+  - FLetcher D, Harley, R *Cromwell Cruiser Tank 1942–50* Osprey Publishing New Vanguard
 
 ## 外部連結
 
-  - [World War II
-    Vehicles](http://www.wwiivehicles.com/unitedkingdom/cruiser/mk_vii_a24.html)
+  - [World War II Vehicles](http://www.wwiivehicles.com/unitedkingdom/cruiser/mk_vii_a24.html)
 
-[Category:巡航坦克](https://zh.wikipedia.org/wiki/Category:巡航坦克 "wikilink")
-[Category:英國坦克](https://zh.wikipedia.org/wiki/Category:英國坦克 "wikilink")
-[Category:英國二戰坦克](https://zh.wikipedia.org/wiki/Category:英國二戰坦克 "wikilink")
-[Category:中型坦克](https://zh.wikipedia.org/wiki/Category:中型坦克 "wikilink")
-[Category:二戰坦克](https://zh.wikipedia.org/wiki/Category:二戰坦克 "wikilink")
+[Category:巡航坦克](https://zh.wikipedia.org/wiki/Category:巡航坦克 "wikilink") [Category:英國坦克](https://zh.wikipedia.org/wiki/Category:英國坦克 "wikilink") [Category:英國二戰坦克](https://zh.wikipedia.org/wiki/Category:英國二戰坦克 "wikilink") [Category:中型坦克](https://zh.wikipedia.org/wiki/Category:中型坦克 "wikilink") [Category:二戰坦克](https://zh.wikipedia.org/wiki/Category:二戰坦克 "wikilink")
 
 1.
 2.

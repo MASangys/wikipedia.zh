@@ -1,13 +1,8 @@
-**GIRLS' GENERATION \~Girls\&Peace\~ Japan 2nd
-Tour**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[少女時代第二次日本巡迴演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。這次演唱會是之後世界巡迴演唱會[GIRLS'
-GENERATION World Tour -Girls &
-Peace-的一部分](../Page/GIRLS'_GENERATION_World_Tour_-Girls_&_Peace-.md "wikilink")。
+**GIRLS' GENERATION \~Girls\&Peace\~ Japan 2nd Tour**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[少女時代第二次日本巡迴演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。這次演唱會是之後世界巡迴演唱會[GIRLS' GENERATION World Tour -Girls & Peace-的一部分](../Page/GIRLS'_GENERATION_World_Tour_-Girls_&_Peace-.md "wikilink")。
 
 ## 概要
 
-這次演唱會在2013年2月9日開始，並於4月21日結束，是[少女時代世界巡迴演唱會Girls](https://zh.wikipedia.org/wiki/少女時代 "wikilink")'
-Generation World Tour - Girls &
-Peace的一部分。去年10月14日計劃在14場巡演動員14萬名觀眾，但由於反應熱烈，分別在新潟、埼玉、大阪加開2場，共增加6場，演唱會總共20場。
+這次演唱會在2013年2月9日開始，並於4月21日結束，是[少女時代世界巡迴演唱會Girls](https://zh.wikipedia.org/wiki/少女時代 "wikilink")' Generation World Tour - Girls & Peace的一部分。去年10月14日計劃在14場巡演動員14萬名觀眾，但由於反應熱烈，分別在新潟、埼玉、大阪加開2場，共增加6場，演唱會總共20場。
 
 ## GIRLS' GENERATION World Tour -Girls & Peace-
 
@@ -248,8 +243,7 @@ Peace的一部分。去年10月14日計劃在14場巡演動員14萬名觀眾，�
 
 <!-- end list -->
 
-  - GIRLS' GENERATION \~Girls & Peace\~ Japan 2nd Tour 『TOUR MEMORIAL
-    2013』（2013年6月10日）
+  - GIRLS' GENERATION \~Girls & Peace\~ Japan 2nd Tour 『TOUR MEMORIAL 2013』（2013年6月10日）
 
 ## 製作
 
@@ -257,8 +251,7 @@ Peace的一部分。去年10月14日計劃在14場巡演動員14萬名觀眾，�
 
 <!-- end list -->
 
-  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")
-    （[太妍](../Page/太妍.md "wikilink")、[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
+  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink") （[太妍](../Page/太妍.md "wikilink")、[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
 
 <!-- end list -->
 
@@ -266,10 +259,7 @@ Peace的一部分。去年10月14日計劃在14場巡演動員14萬名觀眾，�
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、[SM
-    Entertainment
-    Japan](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、[SM Entertainment Japan](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
 
 <!-- end list -->
 
@@ -277,8 +267,7 @@ Peace的一部分。去年10月14日計劃在14場巡演動員14萬名觀眾，�
 
 <!-- end list -->
 
-  - [Nayutawave Records](../Page/環球音樂_\(日本\).md "wikilink")、SM
-    Entertainment Japan
+  - [Nayutawave Records](../Page/環球音樂_\(日本\).md "wikilink")、SM Entertainment Japan
 
 ## 参考资料
 
@@ -296,13 +285,10 @@ Peace的一部分。去年10月14日計劃在14場巡演動員14萬名觀眾，�
 
   -
   -
-[Category:2013年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2013年巡迴演唱會 "wikilink")
-[Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink")
-[Category:少女時代巡迴演唱會](https://zh.wikipedia.org/wiki/Category:少女時代巡迴演唱會 "wikilink")
+[Category:2013年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2013年巡迴演唱會 "wikilink") [Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink") [Category:少女時代巡迴演唱會](https://zh.wikipedia.org/wiki/Category:少女時代巡迴演唱會 "wikilink")
 
 1.
 
 2.  [少女時代日本官方網站](http://www.girls-generation.jp/TheBEST_Discography/#GPT1)
-
 
 3.

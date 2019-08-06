@@ -1,7 +1,6 @@
 \-- This module provides a library for formatting file wikilinks.
 
-local yesno = require('Module:Yesno') local checkType =
-require('libraryUtil').checkType
+local yesno = require('Module:Yesno') local checkType = require('libraryUtil').checkType
 
 local p = {}
 
@@ -87,8 +86,7 @@ function p.main(frame)
 `       wrappers = 'Template:File link'`
 `   })`
 `   if not origArgs.file then`
-`       error("'file' parameter missing from `[`Template:File``
- ``link`](https://zh.wikipedia.org/wiki/Template:File_link "wikilink")`", 0)`
+`       error("'file' parameter missing from `[`Template:File``   ``link`](https://zh.wikipedia.org/wiki/Template:File_link "wikilink")`", 0)`
 `   end`
 
 `   -- Copy the arguments that were passed to a new table to avoid looking up`

@@ -279,20 +279,8 @@ Desiro干线型是Desiro家族中可适应长距离运输需求的改款。
 
 1.
 2.
-3.  *Erster Desiro für Grossbriannien vorgestellt*. In: Eisenbahn-Revue
-    International, Heft 6/2002, , S. 274 f.
-4.  [Bangkok Airport Express to change city
-    travel](http://www.railwaygazette.com/news/single-view/view/10/bangkok-airport-express-to-change-city-travel.html).
-    *Railway Gazette International* December 2005.
-5.  Siemens Pressemitteilung, 9. Juli 2009: [Siemens entwickelt
-    Desiro-Plattform der zweiten Generation für den britischen
-    Markt](http://w1.siemens.com/press/de/pressemitteilungen/?press=/de/pressemitteilungen/2009/mobility/imo20090736.htm)
-6.  Department of Transport (DfT): [*Rail passengers to benefit
-    from 1,200 new
-    carriages*](http://www.dft.gov.uk/news/press-releases/dft-press-20110616b),
-    Pressemitteilung vom 16. Juni 2011. Abgerufen am 17. August 2011.
-7.  ÖPNV aktuell: [*Preiswert oder Protektionismus – England streitet
-    über
-    Bahnauftrag*](http://www.oepnvaktuell.de/fileadmin/user_upload/pdf/OEPNVaktuell_Nr_060_2011_W.pdf).
-    In: ÖPNV aktuell 60/11 vom 29. Juli 2011. Abgerufen am 17. August
-    2011.
+3.  *Erster Desiro für Grossbriannien vorgestellt*. In: Eisenbahn-Revue International, Heft 6/2002, , S. 274 f.
+4.  [Bangkok Airport Express to change city travel](http://www.railwaygazette.com/news/single-view/view/10/bangkok-airport-express-to-change-city-travel.html). *Railway Gazette International* December 2005.
+5.  Siemens Pressemitteilung, 9. Juli 2009: [Siemens entwickelt Desiro-Plattform der zweiten Generation für den britischen Markt](http://w1.siemens.com/press/de/pressemitteilungen/?press=/de/pressemitteilungen/2009/mobility/imo20090736.htm)
+6.  Department of Transport (DfT): [*Rail passengers to benefit from 1,200 new carriages*](http://www.dft.gov.uk/news/press-releases/dft-press-20110616b), Pressemitteilung vom 16. Juni 2011. Abgerufen am 17. August 2011.
+7.  ÖPNV aktuell: [*Preiswert oder Protektionismus – England streitet über Bahnauftrag*](http://www.oepnvaktuell.de/fileadmin/user_upload/pdf/OEPNVaktuell_Nr_060_2011_W.pdf). In: ÖPNV aktuell 60/11 vom 29. Juli 2011. Abgerufen am 17. August 2011.

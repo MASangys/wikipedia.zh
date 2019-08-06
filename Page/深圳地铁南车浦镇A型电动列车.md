@@ -1,5 +1,4 @@
-[SZMetro_Shangmeilin.jpg](https://zh.wikipedia.org/wiki/File:SZMetro_Shangmeilin.jpg "fig:SZMetro_Shangmeilin.jpg")
-[Shenzhen_Metro_Line_4_Train_20141124.JPG](https://zh.wikipedia.org/wiki/File:Shenzhen_Metro_Line_4_Train_20141124.JPG "fig:Shenzhen_Metro_Line_4_Train_20141124.JPG")
+[SZMetro_Shangmeilin.jpg](https://zh.wikipedia.org/wiki/File:SZMetro_Shangmeilin.jpg "fig:SZMetro_Shangmeilin.jpg") [Shenzhen_Metro_Line_4_Train_20141124.JPG](https://zh.wikipedia.org/wiki/File:Shenzhen_Metro_Line_4_Train_20141124.JPG "fig:Shenzhen_Metro_Line_4_Train_20141124.JPG")
 
 **深圳地铁南车浦镇A型电动列车**，是[深圳地铁的一款载客列车](https://zh.wikipedia.org/wiki/深圳地铁 "wikilink")，於[深圳地鐵4號綫行走](https://zh.wikipedia.org/wiki/深圳地鐵4號綫 "wikilink")，列車由[南车集团](https://zh.wikipedia.org/wiki/南车集团 "wikilink")[南京浦镇车辆有限公司製造](https://zh.wikipedia.org/wiki/南京浦镇车辆有限公司 "wikilink")。
 
@@ -21,8 +20,7 @@
 
 本型列車採用由原廠（中車南京浦鎮車輛）研製之列車監察介面，但其設計與三菱電機為港鐵伊藤忠近畿川崎列車列車提供之「列車控制及管理系統」（TCMS）相似。
 
-集電弓方面，則使用[中車大同電力機車製DSA](https://zh.wikipedia.org/wiki/中車大同電力機車 "wikilink")-100型單臂剪式普速集電弓（德國斯特曼公司授權生產），與港鐵一向使用的英國Brecknell
-Willis單臂普速集電弓不同。
+集電弓方面，則使用[中車大同電力機車製DSA](https://zh.wikipedia.org/wiki/中車大同電力機車 "wikilink")-100型單臂剪式普速集電弓（德國斯特曼公司授權生產），與港鐵一向使用的英國Brecknell Willis單臂普速集電弓不同。
 
 列车中设有了多功能区，方便乘客摆放行李并乘靠。车辆内设有目前中国地铁车辆中最大的22寸LCD显示屏（與[港鐵市區綫中國製列車](../Page/港鐵市區綫中國製列車.md "wikilink")、[港鐵南港島綫中國製列車](../Page/港鐵南港島綫中國製列車.md "wikilink")及[港鐵中期翻新列車](../Page/港鐵中期翻新列車.md "wikilink")的[港鐵車廂電視](../Page/港鐵車廂電視.md "wikilink")標準看齊，但屏幕由一個增至兩個）。设计座椅时，亦邀请不同年龄乘客试坐合适后才确定方案。列车采用全球最高等级的防火标准，在车头两端还设有坡道式逃生门，可以帮助乘客在紧急情况下疏散逃生\[7\]。另外，車內用色大致沿襲自港鐵中國製列車及[港鐵伊藤忠近畿川崎列車](../Page/港鐵伊藤忠近畿川崎列車.md "wikilink")，但油漆及地板用料明顯遠遜於前者，例如在開通七年之後，扶手上的黃色塗料已完全褪色。
 
@@ -257,9 +255,7 @@ Willis單臂普速集電弓不同。
 
   - [深圳轨道交通四号线列车](http://www.crrcgc.cc/pz/g3236/s7529/t88181.aspx)，中车南京浦镇车辆网站
 
-[Category:深圳地鐵車輛](https://zh.wikipedia.org/wiki/Category:深圳地鐵車輛 "wikilink")
-[Category:中车浦镇制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车浦镇制铁路车辆 "wikilink")
-[Category:港鐵](https://zh.wikipedia.org/wiki/Category:港鐵 "wikilink")
+[Category:深圳地鐵車輛](https://zh.wikipedia.org/wiki/Category:深圳地鐵車輛 "wikilink") [Category:中车浦镇制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车浦镇制铁路车辆 "wikilink") [Category:港鐵](https://zh.wikipedia.org/wiki/Category:港鐵 "wikilink")
 
 1.
 2.

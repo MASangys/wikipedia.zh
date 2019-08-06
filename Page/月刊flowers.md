@@ -28,8 +28,7 @@
 
   - [失戀巧克力職人](https://zh.wikipedia.org/wiki/失戀巧克力職人 "wikilink")（[水城雪可奈](../Page/水城雪可奈.md "wikilink")）
 
-  - [7SEEDS
-    幻海奇情](../Page/7SEEDS_幻海奇情.md "wikilink")（[田村由美](../Page/田村由美.md "wikilink")）
+  - [7SEEDS 幻海奇情](../Page/7SEEDS_幻海奇情.md "wikilink")（[田村由美](../Page/田村由美.md "wikilink")）
 
   - [月影ベイベ](https://zh.wikipedia.org/wiki/:ja:月影ベイベ "wikilink")（[小玉ユキ](https://zh.wikipedia.org/wiki/:ja:小玉ユキ "wikilink")）
 
@@ -37,25 +36,21 @@
 
   - 都の昼寝物語（[秋里和國](https://zh.wikipedia.org/wiki/:ja:秋里和国 "wikilink")）
 
-  - [夢幻遊戲
-    白虎仙記](../Page/夢幻遊戲_白虎仙記.md "wikilink")（[渡瀨悠宇](../Page/渡瀨悠宇.md "wikilink")）（休載中）
+  - [夢幻遊戲 白虎仙記](../Page/夢幻遊戲_白虎仙記.md "wikilink")（[渡瀨悠宇](../Page/渡瀨悠宇.md "wikilink")）（休載中）
 
 ## 過去連載作品
 
   - [アイスフォレスト](https://zh.wikipedia.org/wiki/:ja:アイスフォレスト "wikilink")（[齊藤千穗](../Page/齊藤千穗.md "wikilink")）
   - [暁のARIA](https://zh.wikipedia.org/wiki/:ja:暁のARIA "wikilink")（[赤石路代](../Page/赤石路代.md "wikilink")）
-  - [アナスタシア倶楽部](https://zh.wikipedia.org/wiki/:ja:アナスタシア倶楽部 "wikilink")（齊藤千穗）※Petti
-    Flower時期連載
+  - [アナスタシア倶楽部](https://zh.wikipedia.org/wiki/:ja:アナスタシア倶楽部 "wikilink")（齊藤千穗）※Petti Flower時期連載
   - [AMAKUSA1637](https://zh.wikipedia.org/wiki/:ja:AMAKUSA1637 "wikilink")（赤石路代）
   - [イヴの眠り](https://zh.wikipedia.org/wiki/:ja:イヴの眠り "wikilink")（吉田秋生）
-  - [Yesterday, Yes a
-    day](https://zh.wikipedia.org/wiki/:ja:Yesterday,_Yes_a_day "wikilink")（岩本ナオ）
+  - [Yesterday, Yes a day](https://zh.wikipedia.org/wiki/:ja:Yesterday,_Yes_a_day "wikilink")（岩本ナオ）
   - [うまんが](https://zh.wikipedia.org/wiki/:ja:うまんが "wikilink")（新井理恵）
   - [娚の一生](https://zh.wikipedia.org/wiki/:ja:娚の一生 "wikilink")（西炯子）
   - 亀の鳴く声（西炯子）
   - ガールズ美術（[今日町子](../Page/今日町子.md "wikilink")）
-  - [恋ひうた
-    和泉式部異聞](https://zh.wikipedia.org/wiki/:ja:恋ひうた_和泉式部異聞 "wikilink")（[江平洋巳](https://zh.wikipedia.org/wiki/:ja:江平洋巳 "wikilink")）
+  - [恋ひうた 和泉式部異聞](https://zh.wikipedia.org/wiki/:ja:恋ひうた_和泉式部異聞 "wikilink")（[江平洋巳](https://zh.wikipedia.org/wiki/:ja:江平洋巳 "wikilink")）
   - [ここではない★どこか系列](https://zh.wikipedia.org/wiki/:ja:ここではない★どこか "wikilink")（[萩尾望都](../Page/萩尾望都.md "wikilink")）
   - [坂道上的阿波羅](../Page/坂道上的阿波羅.md "wikilink")（[小玉ユキ](https://zh.wikipedia.org/wiki/:ja:小玉ユキ "wikilink")）
   - [さよならソルシエ](https://zh.wikipedia.org/wiki/:ja:さよならソルシエ "wikilink")（穂積）
@@ -63,12 +58,9 @@
   - ――準備中。（[山崎貴子](../Page/山崎貴子.md "wikilink")）
   - ショートメルヘン（[奈知未佐子](https://zh.wikipedia.org/wiki/奈知未佐子_\(漫畫家\) "wikilink")）
   - [白熊咖啡廳](https://zh.wikipedia.org/wiki/白熊咖啡廳 "wikilink")（[比嘉Aloha](../Page/比嘉Aloha.md "wikilink")）
-  - [スケルトン イン ザ
-    クローゼット](https://zh.wikipedia.org/wiki/:ja:スケルトン_イン_ザ_クローゼット "wikilink")（岩本ナオ）
-  - [蛇蝎
-    -DAKATSU-](https://zh.wikipedia.org/wiki/:ja:蛇蝎_-DAKATSU- "wikilink")（[秋里和國](https://zh.wikipedia.org/wiki/:ja:秋里和国 "wikilink")）
-  - トウカ草紙（[大野潤子](https://zh.wikipedia.org/wiki/:ja:大野潤子 "wikilink")） ※
-    移籍至《凛花》
+  - [スケルトン イン ザ クローゼット](https://zh.wikipedia.org/wiki/:ja:スケルトン_イン_ザ_クローゼット "wikilink")（岩本ナオ）
+  - [蛇蝎 -DAKATSU-](https://zh.wikipedia.org/wiki/:ja:蛇蝎_-DAKATSU- "wikilink")（[秋里和國](https://zh.wikipedia.org/wiki/:ja:秋里和国 "wikilink")）
+  - トウカ草紙（[大野潤子](https://zh.wikipedia.org/wiki/:ja:大野潤子 "wikilink")） ※ 移籍至《凛花》
   - とりあえず地球が滅びる前に（[ねむようこ](https://zh.wikipedia.org/wiki/:ja:ねむようこ "wikilink")）
   - ドリームスケープ（江平洋巳）
   - 薄幸日和（[グレゴリ青山](https://zh.wikipedia.org/wiki/:ja:グレゴリ青山 "wikilink")）
@@ -104,7 +96,4 @@ flowers月刊每兩個月舉辦一次新人漫畫賞的活動，名稱為「flow
 
   - [公式サイト](http://flowers.shogakukan.co.jp/)
 
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink")
+[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink")

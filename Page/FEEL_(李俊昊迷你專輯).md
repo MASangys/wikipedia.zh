@@ -8,8 +8,7 @@
 
 此專輯共分為5個發行版本：
 
-  - 初回生產限定盤A（編號：ESCL-4247/8）：此版本包括一片5首歌曲的CD及一片收錄兩個版本的主打歌《FEEL》、曾收錄在《》初回生產限定盤B的個人獨唱曲《HEY
-    YOU》之[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與《FEEL》的音樂錄影帶製作花絮之DVD\[5\]。
+  - 初回生產限定盤A（編號：ESCL-4247/8）：此版本包括一片5首歌曲的CD及一片收錄兩個版本的主打歌《FEEL》、曾收錄在《》初回生產限定盤B的個人獨唱曲《HEY YOU》之[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與《FEEL》的音樂錄影帶製作花絮之DVD\[5\]。
 
 <!-- end list -->
 
@@ -87,10 +86,7 @@
 
   -
 
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:2PM音樂專輯](https://zh.wikipedia.org/wiki/Category:2PM音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
+[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:2PM音樂專輯](https://zh.wikipedia.org/wiki/Category:2PM音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
 
 1.
 

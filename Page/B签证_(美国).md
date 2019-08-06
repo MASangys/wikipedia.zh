@@ -1,5 +1,4 @@
-[USA_Visa_-_Arg.jpg](https://zh.wikipedia.org/wiki/File:USA_Visa_-_Arg.jpg "fig:USA_Visa_-_Arg.jpg")人的一张B1/B2签证\]\]
-**B签证**又称**美国商务及旅游签证**，是[美国](../Page/美国.md "wikilink")非移民[签证中的一种](https://zh.wikipedia.org/wiki/签证 "wikilink")，其中包括：
+[USA_Visa_-_Arg.jpg](https://zh.wikipedia.org/wiki/File:USA_Visa_-_Arg.jpg "fig:USA_Visa_-_Arg.jpg")人的一张B1/B2签证\]\] **B签证**又称**美国商务及旅游签证**，是[美国](../Page/美国.md "wikilink")非移民[签证中的一种](https://zh.wikipedia.org/wiki/签证 "wikilink")，其中包括：
 
   - **B-1签证**：**商务签证**，签发给前往美国进行短期商务活动的人员；
   - **B-2签证**：**旅游签证**，签发给前往美国旅游的人员。
@@ -85,8 +84,7 @@
 
 ## 有效期和停留期
 
-对于大多数国家的公民，使用美国商务及旅游签证可以在有效期内多次进入美国并每次停留最多**6个月**。美国商务及旅游签证的有效期视申请人的[国籍或](https://zh.wikipedia.org/wiki/国籍 "wikilink")[永久居民身份而定](https://zh.wikipedia.org/wiki/永久居民 "wikilink")，详见下表：\[6\]
-[US_visa_validity_period.png](https://zh.wikipedia.org/wiki/File:US_visa_validity_period.png "fig:US_visa_validity_period.png")
+对于大多数国家的公民，使用美国商务及旅游签证可以在有效期内多次进入美国并每次停留最多**6个月**。美国商务及旅游签证的有效期视申请人的[国籍或](https://zh.wikipedia.org/wiki/国籍 "wikilink")[永久居民身份而定](https://zh.wikipedia.org/wiki/永久居民 "wikilink")，详见下表：\[6\] [US_visa_validity_period.png](https://zh.wikipedia.org/wiki/File:US_visa_validity_period.png "fig:US_visa_validity_period.png")
 
 <table>
 <thead>

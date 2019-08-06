@@ -25,8 +25,7 @@
 
 ## Ultratip
 
-除了主要的Ultratop
-50单曲榜之外，还有另一个名为**Ultratip**的每周单曲榜，也被称为**Tipparade榜**。它是商业单曲的指标榜单，榜单排名基于销售和播放的组合，即歌曲在电台或电视上播放的次数，结合经计算的每个广播电视台、地区和语言的听众数。
+除了主要的Ultratop 50单曲榜之外，还有另一个名为**Ultratip**的每周单曲榜，也被称为**Tipparade榜**。它是商业单曲的指标榜单，榜单排名基于销售和播放的组合，即歌曲在电台或电视上播放的次数，结合经计算的每个广播电视台、地区和语言的听众数。
 
 Ultratip与Ultratop排行榜的不同之处在于它取决于播放和销售，而Ultratop排行榜仅基于销售。一首歌不能仅基于AirPlay数字而登上Ultratop榜。\[1\]
 
@@ -35,7 +34,6 @@ Ultratip与Ultratop排行榜的不同之处在于它取决于播放和销售，�
   - [Ultratop佛兰德斯榜 （荷兰语）](http://www.ultratop.be/nl/)
   - [Ultratop瓦隆榜 （法语）](http://www.ultratop.be/fr/)
 
-[Category:比利時音樂](https://zh.wikipedia.org/wiki/Category:比利時音樂 "wikilink")
-[Category:音樂排行榜](https://zh.wikipedia.org/wiki/Category:音樂排行榜 "wikilink")
+[Category:比利時音樂](https://zh.wikipedia.org/wiki/Category:比利時音樂 "wikilink") [Category:音樂排行榜](https://zh.wikipedia.org/wiki/Category:音樂排行榜 "wikilink")
 
 1.

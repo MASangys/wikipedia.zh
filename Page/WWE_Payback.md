@@ -1,15 +1,8 @@
-**絕命復仇**（）\[1\]，是[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）的[世界摔角娛樂付費收看節目](../Page/世界摔角娛樂付費收看節目.md "wikilink")（WWE
-Pay-Per-View）之一，於6月時舉行。 WWE Payback首次亮相於2013年6月16日。
+**絕命復仇**（）\[1\]，是[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）的[世界摔角娛樂付費收看節目](../Page/世界摔角娛樂付費收看節目.md "wikilink")（WWE Pay-Per-View）之一，於6月時舉行。 WWE Payback首次亮相於2013年6月16日。
 
 ## 概述
 
-WWE Payback將有的專業摔角比賽，會涉及從[WWE Raw和](../Page/WWE_Raw.md "wikilink")[WWE
-SmackDown存在的爭鬥](https://zh.wikipedia.org/wiki/WWE_Friday_Night_SmackDown! "wikilink")、情節和故事情節，進而決定出場的摔角選手，而出場的摔角選手將會依循他們的一系列事件被描繪英雄或惡棍，使WWE
-Payback的比賽有著緊張情緒和高潮迭起。
-因為[萊貝克（摔角手）和](https://zh.wikipedia.org/wiki/萊貝克（摔角手） "wikilink")[約翰·希南](../Page/約翰·希南.md "wikilink")在[極限規則的殊死戰](https://zh.wikipedia.org/wiki/極限規則 "wikilink")（Last
-Man Standing Match）並沒有結果，因此兩人將在WWE Payback以伐木工人戰（Lumberjack
-match）、桌子戰（Tables match）、救護車大戰（Ambulance
-match）所組合的三層地獄戰（Three Stages of Hell match）再次重新對決。
+WWE Payback將有的專業摔角比賽，會涉及從[WWE Raw和](../Page/WWE_Raw.md "wikilink")[WWE SmackDown存在的爭鬥](https://zh.wikipedia.org/wiki/WWE_Friday_Night_SmackDown! "wikilink")、情節和故事情節，進而決定出場的摔角選手，而出場的摔角選手將會依循他們的一系列事件被描繪英雄或惡棍，使WWE Payback的比賽有著緊張情緒和高潮迭起。 因為[萊貝克（摔角手）和](https://zh.wikipedia.org/wiki/萊貝克（摔角手） "wikilink")[約翰·希南](../Page/約翰·希南.md "wikilink")在[極限規則的殊死戰](https://zh.wikipedia.org/wiki/極限規則 "wikilink")（Last Man Standing Match）並沒有結果，因此兩人將在WWE Payback以伐木工人戰（Lumberjack match）、桌子戰（Tables match）、救護車大戰（Ambulance match）所組合的三層地獄戰（Three Stages of Hell match）再次重新對決。
 
 ## 列表
 

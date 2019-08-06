@@ -10,8 +10,7 @@
 
   - [阿爾卑斯人種](../Page/阿爾卑斯人種.md "wikilink")
 
-  - Alpine
-    butterfly或Satyrini的[紅眼蝶屬](../Page/紅眼蝶屬.md "wikilink")，同在北美的落矶山脉
+  - Alpine butterfly或Satyrini的[紅眼蝶屬](../Page/紅眼蝶屬.md "wikilink")，同在北美的落矶山脉
 
   - Alpine butterfly或[絹蝶屬](../Page/絹蝶屬.md "wikilink")（在欧亚大陆）
 
@@ -46,8 +45,7 @@
   -
   -
   -
-  - [阿尔派恩县
-    (加利福尼亚州)](https://zh.wikipedia.org/wiki/阿尔派恩县_\(加利福尼亚州\) "wikilink")
+  - [阿尔派恩县 (加利福尼亚州)](https://zh.wikipedia.org/wiki/阿尔派恩县_\(加利福尼亚州\) "wikilink")
 
   -
   -
@@ -60,8 +58,7 @@
 
   -
   -
-  - [阿尔派恩
-    (怀俄明州)](https://zh.wikipedia.org/wiki/阿尔派恩_\(怀俄明州\) "wikilink")，城镇
+  - [阿尔派恩 (怀俄明州)](https://zh.wikipedia.org/wiki/阿尔派恩_\(怀俄明州\) "wikilink")，城镇
 
   -
   -

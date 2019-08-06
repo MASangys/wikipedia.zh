@@ -1,5 +1,4 @@
-《**Something New**》是喜剧《[老爸老妈的浪漫史
-(第八季)](../Page/老爸老妈的浪漫史_\(第八季\).md "wikilink")》的季终集，全剧第184集。这一集的标题是西方婚礼的一个习俗中新娘需要为在婚前装备好的东西中的一样，中文意思是“有新”\[1\]，“有新”的含义能比作在本集首次露面的老妈。
+《**Something New**》是喜剧《[老爸老妈的浪漫史 (第八季)](../Page/老爸老妈的浪漫史_\(第八季\).md "wikilink")》的季终集，全剧第184集。这一集的标题是西方婚礼的一个习俗中新娘需要为在婚前装备好的东西中的一样，中文意思是“有新”\[1\]，“有新”的含义能比作在本集首次露面的老妈。
 
 ## 剧情
 
@@ -29,8 +28,7 @@ Simple Song - The Shins（播放与片中最后一段）
 
 ### 评价
 
-Donna
-Bowman在[影音俱乐部上给这集A](https://zh.wikipedia.org/wiki/影音俱乐部 "wikilink")-的评价\[4\]。
+Donna Bowman在[影音俱乐部上给这集A](https://zh.wikipedia.org/wiki/影音俱乐部 "wikilink")-的评价\[4\]。
 
 Max Nicholson在[IGN](../Page/IGN.md "wikilink")上给这集评7.5分\[5\]。
 
@@ -44,15 +42,12 @@ TV.com的Bill Kuchman指出这集是“具有纪念意义”的\[7\]。
 
   -
   -
-[Category:2013年電視劇集](https://zh.wikipedia.org/wiki/Category:2013年電視劇集 "wikilink")
-[Category:老爸老妈的浪漫史](https://zh.wikipedia.org/wiki/Category:老爸老妈的浪漫史 "wikilink")
+[Category:2013年電視劇集](https://zh.wikipedia.org/wiki/Category:2013年電視劇集 "wikilink") [Category:老爸老妈的浪漫史](https://zh.wikipedia.org/wiki/Category:老爸老妈的浪漫史 "wikilink")
 
 1.  [有旧有新有借有蓝--百年婚礼习俗](http://news.xinhuanet.com/edu/2005-08/23/content_3390676.htm)
-2.  [星期一：老爸老妈的浪漫史 S08E24
-    (季终集)](http://tvfantasy.net/2013/05/13/himym-8x24-season-finale-synopsis/)
+2.  [星期一：老爸老妈的浪漫史 S08E24 (季终集)](http://tvfantasy.net/2013/05/13/himym-8x24-season-finale-synopsis/)
 3.  <http://tvbythenumbers.zap2it.com/2013/06/03/live7-dvr-ratings-the-big-bang-theory-again-leads-adults-18-49-ratings-increase-90210-earns-biggest-percentage-increase-in-week-34/185525/>
 4.
 5.
-6.  [How I Met Your Mother Season 8 Episode 24 - TV
-    Fanatic](http://www.tvfanatic.com/shows/how-i-met-your-mother/episodes/season-8/something-new/)
+6.  [How I Met Your Mother Season 8 Episode 24 - TV Fanatic](http://www.tvfanatic.com/shows/how-i-met-your-mother/episodes/season-8/something-new/)
 7.  <http://www.tv.com/news/how-i-met-your-mother-season-8-finale-review-kids-heres-how-we-met-the-mother-136850410109/>

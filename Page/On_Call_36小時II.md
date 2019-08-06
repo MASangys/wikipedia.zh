@@ -1,6 +1,4 @@
-[Queen_Elizabeth_Hospital.jpg](https://zh.wikipedia.org/wiki/File:Queen_Elizabeth_Hospital.jpg "fig:Queen_Elizabeth_Hospital.jpg")取景拍攝\]\]
-《**On Call
-36小時II**》（），[香港電視廣播有限公司時裝醫務](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[吳啟華](../Page/吳啟華.md "wikilink")、[馬國明及](https://zh.wikipedia.org/wiki/馬國明 "wikilink")[楊怡](../Page/楊怡.md "wikilink")領銜主演，並由[黃智雯](../Page/黃智雯.md "wikilink")、[羅仲謙](../Page/羅仲謙.md "wikilink")、[朱千雪](../Page/朱千雪.md "wikilink")、[岑麗香](https://zh.wikipedia.org/wiki/岑麗香 "wikilink")、[蘇玉華](../Page/蘇玉華.md "wikilink")、[袁偉豪](../Page/袁偉豪.md "wikilink")及[古明華](../Page/古明華.md "wikilink")聯合主演，監製[潘嘉德](../Page/潘嘉德.md "wikilink")。本劇為第十七屆香港國際影視展中無綫電視重點推介的劇集之一，亦是無綫電視**46週年台慶劇**，並由FWD香港富衛保險呈獻。此劇於[伊利沙伯醫院](../Page/伊利沙伯醫院.md "wikilink")取景拍攝。
+[Queen_Elizabeth_Hospital.jpg](https://zh.wikipedia.org/wiki/File:Queen_Elizabeth_Hospital.jpg "fig:Queen_Elizabeth_Hospital.jpg")取景拍攝\]\] 《**On Call 36小時II**》（），[香港電視廣播有限公司時裝醫務](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[吳啟華](../Page/吳啟華.md "wikilink")、[馬國明及](https://zh.wikipedia.org/wiki/馬國明 "wikilink")[楊怡](../Page/楊怡.md "wikilink")領銜主演，並由[黃智雯](../Page/黃智雯.md "wikilink")、[羅仲謙](../Page/羅仲謙.md "wikilink")、[朱千雪](../Page/朱千雪.md "wikilink")、[岑麗香](https://zh.wikipedia.org/wiki/岑麗香 "wikilink")、[蘇玉華](../Page/蘇玉華.md "wikilink")、[袁偉豪](../Page/袁偉豪.md "wikilink")及[古明華](../Page/古明華.md "wikilink")聯合主演，監製[潘嘉德](../Page/潘嘉德.md "wikilink")。本劇為第十七屆香港國際影視展中無綫電視重點推介的劇集之一，亦是無綫電視**46週年台慶劇**，並由FWD香港富衛保險呈獻。此劇於[伊利沙伯醫院](../Page/伊利沙伯醫院.md "wikilink")取景拍攝。
 
 ## 演員表
 
@@ -1363,15 +1361,13 @@ Monica之生意夥伴<br />
   - 2013年5月18日：此劇正式殺青。\[3\]
   - 2013年11月19日：由於當日20:00-22:30在[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")直播《萬千星輝賀台慶》的關係，本劇集暫停播映一次。
   - 2013年11月22日：由於當日20:30-22:30在[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")播映劇集《[法外風雲](../Page/法外風雲.md "wikilink")》結局篇的關係，本劇集暫停播映一次。
-  - 2013年12月15日：此劇於當日21:00-21:15及23:15-23:30在[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")直播特備節目《On
-    Call 36小時II 美麗使命》，其於21:15-23:15播映劇集的兩小時大結局。
+  - 2013年12月15日：此劇於當日21:00-21:15及23:15-23:30在[翡翠台](../Page/翡翠台.md "wikilink")及[高清翡翠台](../Page/高清翡翠台.md "wikilink")直播特備節目《On Call 36小時II 美麗使命》，其於21:15-23:15播映劇集的兩小時大結局。
 
 ## 參考資料
 
 ## 外部連結
 
-  - [《On Call 36小時II》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222154640/http://gotv.tvb.com/programme/103785/161348/)
+  - [《On Call 36小時II》 GOTV 第1集重溫](https://web.archive.org/web/20140222154640/http://gotv.tvb.com/programme/103785/161348/)
 
 ## 相關
 
@@ -1379,18 +1375,8 @@ Monica之生意夥伴<br />
 
 ## 電視節目的變遷
 
-[Category:2013年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2013年無綫電視劇集 "wikilink")
-[Category:無綫電視台慶劇](https://zh.wikipedia.org/wiki/Category:無綫電視台慶劇 "wikilink")
-[Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink")
-[Category:2013無綫節目巡禮劇集](https://zh.wikipedia.org/wiki/Category:2013無綫節目巡禮劇集 "wikilink")
-[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:無綫電視醫學劇集](https://zh.wikipedia.org/wiki/Category:無綫電視醫學劇集 "wikilink")
-[Category:無綫電視愛情劇集](https://zh.wikipedia.org/wiki/Category:無綫電視愛情劇集 "wikilink")
-[Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink")
+[Category:2013年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2013年無綫電視劇集 "wikilink") [Category:無綫電視台慶劇](https://zh.wikipedia.org/wiki/Category:無綫電視台慶劇 "wikilink") [Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink") [Category:2013無綫節目巡禮劇集](https://zh.wikipedia.org/wiki/Category:2013無綫節目巡禮劇集 "wikilink") [Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:無綫電視醫學劇集](https://zh.wikipedia.org/wiki/Category:無綫電視醫學劇集 "wikilink") [Category:無綫電視愛情劇集](https://zh.wikipedia.org/wiki/Category:無綫電視愛情劇集 "wikilink") [Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink")
 
-1.  [藝人月曆 - 1月30日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-2.  [藝人月曆 - 2月28日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+1.  [藝人月曆 - 1月30日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+2.  [藝人月曆 - 2月28日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
 3.  [胡蓓蔚微博 - 5月18日](http://weibo.com/1748781094/zxjpSqiBn)

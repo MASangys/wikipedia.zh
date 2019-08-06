@@ -1,5 +1,4 @@
-**BH
-Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，由[李炳憲](../Page/李炳憲.md "wikilink")創立並擔任行政總裁。
+**BH Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，由[李炳憲](../Page/李炳憲.md "wikilink")創立並擔任行政總裁。
 
 ## 旗下藝人
 
@@ -39,10 +38,8 @@ Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikili
 
 ## 參考資料
 
-  - [Han Ji Min Finds Her New Home With Lee Byung Hun’s Agency BH
-    Entertainment](https://web.archive.org/web/20131102224438/http://dramabucks.com/celebrity/han-ji-min-finds-her-new-home-with-lee-byung-huns-agency-bh-entertainment/)
-  - [Han Ji Min moves from SM C\&C to BH
-    Entertainment](http://fooyoh.com/kpop_news/8701818/han-ji-min-moves-from-sm-campc-to-bh-entertainment)
+  - [Han Ji Min Finds Her New Home With Lee Byung Hun’s Agency BH Entertainment](https://web.archive.org/web/20131102224438/http://dramabucks.com/celebrity/han-ji-min-finds-her-new-home-with-lee-byung-huns-agency-bh-entertainment/)
+  - [Han Ji Min moves from SM C\&C to BH Entertainment](http://fooyoh.com/kpop_news/8701818/han-ji-min-moves-from-sm-campc-to-bh-entertainment)
 
 ## 外部連結
 
@@ -50,5 +47,4 @@ Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikili
 
 <noinclude> </noinclude>
 
-[Category:Kakao_M](https://zh.wikipedia.org/wiki/Category:Kakao_M "wikilink")
-[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
+[Category:Kakao_M](https://zh.wikipedia.org/wiki/Category:Kakao_M "wikilink") [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")

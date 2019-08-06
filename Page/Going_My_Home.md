@@ -1,23 +1,4 @@
-[山口智子](../Page/山口智子.md "wikilink"){{、w}}[宮崎葵](../Page/宮崎葵.md "wikilink")
-| judges = | voices = | narrated = | theme_music_composer = |
-opentheme = | composer = | lyricist = | singer = | endtheme = 〈四葉幸運草〉 |
-composer_2 = | lyricist_2 = | singer_2 =
-[槙原敬之](../Page/槙原敬之.md "wikilink") | slogan = | country
-=  | language = | num_seasons = | num_episodes = 10 | list_episodes =
-| executive_producer = | supervising_producer = | producer =
-[豐福陽子](https://zh.wikipedia.org/wiki/豐福陽子 "wikilink"){{、w}}[熊谷喜一](https://zh.wikipedia.org/wiki/熊谷喜一 "wikilink")
-| editor = 是枝裕和 | location = | cinematography = | camera = | runtime =
-54分鐘（含廣告） | company = [關西電視台](../Page/關西電視台.md "wikilink"){{、w}}[TVMAN
-UNION](https://zh.wikipedia.org/wiki/TVMAN_UNION "wikilink") |
-distributor = | channel = [FNS](../Page/富士電視網.md "wikilink") |
-picture_format = | audio_format = | first_run =  | first_aired =  |
-last_aired =  | preceded_by = | followed_by = | related = | website =
-<http://www.ktv.jp/goingmyhome/> | production_website = }}
-，為自2012年10月9日起至同年12月18日止，每[周二](https://zh.wikipedia.org/wiki/星期二 "wikilink")22:00
--
-22:54（[JST](../Page/日本標準時間.md "wikilink")）由[關西電視台](../Page/關西電視台.md "wikilink")·[TVMAN
-UNION](https://zh.wikipedia.org/wiki/TVMAN_UNION "wikilink")（）共同製作，並於[富士電視台聯播網播出的](../Page/富士電視網.md "wikilink")[日本电视剧](../Page/日本电视剧.md "wikilink")。第一集製播2小時5分鐘的特別版。第二集於22:15
-- 23:09（JST）延遲15分鐘播出。
+[山口智子](../Page/山口智子.md "wikilink"){{、w}}[宮崎葵](../Page/宮崎葵.md "wikilink") | judges = | voices = | narrated = | theme_music_composer = | opentheme = | composer = | lyricist = | singer = | endtheme = 〈四葉幸運草〉 | composer_2 = | lyricist_2 = | singer_2 = [槙原敬之](../Page/槙原敬之.md "wikilink") | slogan = | country =  | language = | num_seasons = | num_episodes = 10 | list_episodes = | executive_producer = | supervising_producer = | producer = [豐福陽子](https://zh.wikipedia.org/wiki/豐福陽子 "wikilink"){{、w}}[熊谷喜一](https://zh.wikipedia.org/wiki/熊谷喜一 "wikilink") | editor = 是枝裕和 | location = | cinematography = | camera = | runtime = 54分鐘（含廣告） | company = [關西電視台](../Page/關西電視台.md "wikilink"){{、w}}[TVMAN UNION](https://zh.wikipedia.org/wiki/TVMAN_UNION "wikilink") | distributor = | channel = [FNS](../Page/富士電視網.md "wikilink") | picture_format = | audio_format = | first_run =  | first_aired =  | last_aired =  | preceded_by = | followed_by = | related = | website = <http://www.ktv.jp/goingmyhome/> | production_website = }} ，為自2012年10月9日起至同年12月18日止，每[周二](https://zh.wikipedia.org/wiki/星期二 "wikilink")22:00 - 22:54（[JST](../Page/日本標準時間.md "wikilink")）由[關西電視台](../Page/關西電視台.md "wikilink")·[TVMAN UNION](https://zh.wikipedia.org/wiki/TVMAN_UNION "wikilink")（）共同製作，並於[富士電視台聯播網播出的](../Page/富士電視網.md "wikilink")[日本电视剧](../Page/日本电视剧.md "wikilink")。第一集製播2小時5分鐘的特別版。第二集於22:15 - 23:09（JST）延遲15分鐘播出。
 
 此劇是[阿部寬](../Page/阿部寬.md "wikilink")繼《[白之春](../Page/白之春.md "wikilink")》（2009年4月）以來，睽違三年主演關西電視台製作的周二晚間十點連續劇。另外[山口智子](../Page/山口智子.md "wikilink")則是繼《[長假](../Page/悠長假期.md "wikilink")》（1996年4月）以來，睽違16年再度演出電視劇，[宮崎葵](../Page/宮崎葵.md "wikilink")則是繼《[幸福的尾巴](https://zh.wikipedia.org/wiki/幸福的尾巴 "wikilink")》（）以來，睽違10年再度演出民營電視台的電視劇。[是枝裕和](../Page/是枝裕和.md "wikilink")則是首部經手商業廣播電視台電視劇的導演·編劇。
 
@@ -115,14 +96,12 @@ UNION](https://zh.wikipedia.org/wiki/TVMAN_UNION "wikilink")（）共同製作�
 
   - 製作助理：田中耕司（關西電視台）、大西隼、岡村洋子
 
-  - 製作：關西電視台、[TVMAN
-    UNION](https://zh.wikipedia.org/wiki/TVMAN_UNION "wikilink")
+  - 製作：關西電視台、[TVMAN UNION](https://zh.wikipedia.org/wiki/TVMAN_UNION "wikilink")
 
 ## 主題曲
 
   - [槙原敬之](../Page/槙原敬之.md "wikilink")「四葉幸運草」（WORD\&MUSIC）\[1\]
-      - 槙原是繼《[向牛許願](../Page/向牛許願.md "wikilink")》（2007年7月）主題曲〈GREEN
-        DAY〉以來，再次演唱本時段電視劇主題曲
+      - 槙原是繼《[向牛許願](../Page/向牛許願.md "wikilink")》（2007年7月）主題曲〈GREEN DAY〉以來，再次演唱本時段電視劇主題曲
 
 ## 各集副標題
 
@@ -205,8 +184,7 @@ UNION](https://zh.wikipedia.org/wiki/TVMAN_UNION "wikilink")（）共同製作�
 </tbody>
 </table>
 
-  - 10月19日，由於轉播足球國際友誼賽
-    [日本代表](https://zh.wikipedia.org/wiki/日本國家足球隊 "wikilink")×[巴西代表足球賽](../Page/巴西國家足球隊.md "wikilink")，暫停播出一次。
+  - 10月19日，由於轉播足球國際友誼賽 [日本代表](https://zh.wikipedia.org/wiki/日本國家足球隊 "wikilink")×[巴西代表足球賽](../Page/巴西國家足球隊.md "wikilink")，暫停播出一次。
 
 ## 參考資料
 
@@ -217,16 +195,7 @@ UNION](https://zh.wikipedia.org/wiki/TVMAN_UNION "wikilink")（）共同製作�
 
   - [富士电视台中文官网介绍](http://www.fujitv.co.jp/cn/d_12_24.html)
 
-[Category:2012年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年日本電視劇集 "wikilink")
-[Category:日本家庭劇](https://zh.wikipedia.org/wiki/Category:日本家庭劇 "wikilink")
-[Category:日本奇幻劇](https://zh.wikipedia.org/wiki/Category:日本奇幻劇 "wikilink")
-[Category:仙女及妖精題材電視劇](https://zh.wikipedia.org/wiki/Category:仙女及妖精題材電視劇 "wikilink")
-[Category:長野縣背景作品](https://zh.wikipedia.org/wiki/Category:長野縣背景作品 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:阿部寬](https://zh.wikipedia.org/wiki/Category:阿部寬 "wikilink")
+[Category:2012年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年日本電視劇集 "wikilink") [Category:日本家庭劇](https://zh.wikipedia.org/wiki/Category:日本家庭劇 "wikilink") [Category:日本奇幻劇](https://zh.wikipedia.org/wiki/Category:日本奇幻劇 "wikilink") [Category:仙女及妖精題材電視劇](https://zh.wikipedia.org/wiki/Category:仙女及妖精題材電視劇 "wikilink") [Category:長野縣背景作品](https://zh.wikipedia.org/wiki/Category:長野縣背景作品 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:阿部寬](https://zh.wikipedia.org/wiki/Category:阿部寬 "wikilink")
 
 1.  [トピックス｜ゴーイング マイ ホーム](http://ktv.typepad.jp/gmh/)
-2.  全部播出及平均收視率資料來源。[ゴーイング　マイ　ホーム - スポニチ Sponichi Annex
-    芸能](http://www.sponichi.co.jp/entertainment/yomimono/drama/2012/kayou22/index.html)
-    、2012年10月10日参照。
+2.  全部播出及平均收視率資料來源。[ゴーイング　マイ　ホーム - スポニチ Sponichi Annex 芸能](http://www.sponichi.co.jp/entertainment/yomimono/drama/2012/kayou22/index.html) 、2012年10月10日参照。

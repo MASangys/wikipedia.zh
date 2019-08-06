@@ -13,8 +13,7 @@
 
 ## 歷史
 
-  - 2005年3月19日 -
-    [東海環狀自動車道](../Page/東海環狀自動車道.md "wikilink")[美濃關JCT至](https://zh.wikipedia.org/wiki/美濃關JCT "wikilink")[豐田東JCT開通](https://zh.wikipedia.org/wiki/豐田東JCT "wikilink")，此交流道也同時啟用。
+  - 2005年3月19日 - [東海環狀自動車道](../Page/東海環狀自動車道.md "wikilink")[美濃關JCT至](https://zh.wikipedia.org/wiki/美濃關JCT "wikilink")[豐田東JCT開通](https://zh.wikipedia.org/wiki/豐田東JCT "wikilink")，此交流道也同時啟用。
 
 ## 收費站設施
 
@@ -40,10 +39,7 @@
 ## 鄰近設施
 
   - [東海環狀自動車道](../Page/東海環狀自動車道.md "wikilink")
-    (1)[豐田東JCT](https://zh.wikipedia.org/wiki/豐田東JCT "wikilink") -
-    (2)**豐田松平IC** -
-    (2-1)[鞍池PA/SIC](https://zh.wikipedia.org/wiki/鞍池PA "wikilink")
-    - (3)[豐田勘八IC](https://zh.wikipedia.org/wiki/豐田勘八IC "wikilink")
+    (1)[豐田東JCT](https://zh.wikipedia.org/wiki/豐田東JCT "wikilink") - (2)**豐田松平IC** - (2-1)[鞍池PA/SIC](https://zh.wikipedia.org/wiki/鞍池PA "wikilink") - (3)[豐田勘八IC](https://zh.wikipedia.org/wiki/豐田勘八IC "wikilink")
 
 ## 相關項目
 
@@ -53,5 +49,4 @@
 
   - [中日本高速道路](http://www.c-nexco.co.jp/)
 
-[Category:日本交流道_To](https://zh.wikipedia.org/wiki/Category:日本交流道_To "wikilink")
-[Category:愛知縣交流道](https://zh.wikipedia.org/wiki/Category:愛知縣交流道 "wikilink")
+[Category:日本交流道_To](https://zh.wikipedia.org/wiki/Category:日本交流道_To "wikilink") [Category:愛知縣交流道](https://zh.wikipedia.org/wiki/Category:愛知縣交流道 "wikilink")

@@ -1,6 +1,4 @@
-**索尼 NEX 系列相机配件列表**是一个关于[索尼 NEX
-系列](https://zh.wikipedia.org/wiki/索尼_NEX_系列 "wikilink")[数码相机](../Page/数码相机.md "wikilink")适用配件的列表，该列表中不包含镜头，有关该系列相机的适配镜头，请参见[索尼
-E 卡口镜头列表](https://zh.wikipedia.org/wiki/索尼_E_卡口镜头列表 "wikilink")。
+**索尼 NEX 系列相机配件列表**是一个关于[索尼 NEX 系列](https://zh.wikipedia.org/wiki/索尼_NEX_系列 "wikilink")[数码相机](../Page/数码相机.md "wikilink")适用配件的列表，该列表中不包含镜头，有关该系列相机的适配镜头，请参见[索尼 E 卡口镜头列表](https://zh.wikipedia.org/wiki/索尼_E_卡口镜头列表 "wikilink")。
 
 ## 原厂配件
 
@@ -44,17 +42,10 @@ E 卡口镜头列表](https://zh.wikipedia.org/wiki/索尼_E_卡口镜头列表 
 
 #### E卡口转A卡口
 
-  - LA-EA1 ，应用于APS-C幅面的NEX机型，可以转接使用[Minolta
-    AF](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink") / [Sony
-    α镜头](https://zh.wikipedia.org/wiki/Sony_α "wikilink")，当且仅当镜头有配备马达（原厂的SAM与SSM）时，可以实现自动对焦功能
-  - LA-EA2 ，应用于APS-C幅面的NEX机型，可以转接使用[Minolta
-    AF](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink") / [Sony
-    α镜头](https://zh.wikipedia.org/wiki/Sony_α "wikilink")，由于其内置半透镜（[SLT机型使用技术](https://zh.wikipedia.org/wiki/SLT "wikilink")），可以实现除STF135镜头外其他镜头的自动对焦功能。
+  - LA-EA1 ，应用于APS-C幅面的NEX机型，可以转接使用[Minolta AF](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink") / [Sony α镜头](https://zh.wikipedia.org/wiki/Sony_α "wikilink")，当且仅当镜头有配备马达（原厂的SAM与SSM）时，可以实现自动对焦功能
+  - LA-EA2 ，应用于APS-C幅面的NEX机型，可以转接使用[Minolta AF](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink") / [Sony α镜头](https://zh.wikipedia.org/wiki/Sony_α "wikilink")，由于其内置半透镜（[SLT机型使用技术](https://zh.wikipedia.org/wiki/SLT "wikilink")），可以实现除STF135镜头外其他镜头的自动对焦功能。
   - LA-EA3 ，应用于135幅面的E卡口机型，基本类似于LA-EA1，但支持全画幅（如VG900、ILCE-7），随VG900有附赠。
-  - LA-EA4
-    ，应用于135幅面的E卡口机型，使用[SLT上的半透明反光镜](https://zh.wikipedia.org/wiki/SLT "wikilink")，可以实现对[Minolta
-    AF](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink") / [Sony
-    α镜头的转接使用](https://zh.wikipedia.org/wiki/Sony_α "wikilink")，实现除STF135镜头外其他镜头的自动对焦功能。
+  - LA-EA4 ，应用于135幅面的E卡口机型，使用[SLT上的半透明反光镜](https://zh.wikipedia.org/wiki/SLT "wikilink")，可以实现对[Minolta AF](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink") / [Sony α镜头的转接使用](https://zh.wikipedia.org/wiki/Sony_α "wikilink")，实现除STF135镜头外其他镜头的自动对焦功能。
 
 ### 液晶屏保护配件
 
@@ -132,12 +123,9 @@ E 卡口镜头列表](https://zh.wikipedia.org/wiki/索尼_E_卡口镜头列表 
   - [日本 Sony NEX 官方網站](http://www.sony.jp/ichigan-e/message/index.html)
   - [台灣 Sony NEX 官方網站](http://www.sonystyle.com.tw/nex/)
   - [E口附件列表](http://www.sony.jp/ichigan/lineup/e-chart.html) sony.jp
-  - [香港Sony
-    NEX官方網站](https://web.archive.org/web/20111125153109/http://www.sonystyle.com.hk/ss/product/alpha/nex3/spec.jsp)
-  - [DP Review（Digital Photography
-    Review）](https://web.archive.org/web/20100720140854/http://www.dpreview.com/reviews/SonyNex5Nex3/Default.asp)
-  - [Pop Photo
-    Review](http://www.popphoto.com/reviews/cameras/2010/05/new-gear-sony-alpha-nex-3-and-nex-5-cameras)
+  - [香港Sony NEX官方網站](https://web.archive.org/web/20111125153109/http://www.sonystyle.com.hk/ss/product/alpha/nex3/spec.jsp)
+  - [DP Review（Digital Photography Review）](https://web.archive.org/web/20100720140854/http://www.dpreview.com/reviews/SonyNex5Nex3/Default.asp)
+  - [Pop Photo Review](http://www.popphoto.com/reviews/cameras/2010/05/new-gear-sony-alpha-nex-3-and-nex-5-cameras)
   - [相关评论](http://www.TheBestcamerabags.com)
 
 [Category:索尼相機](https://zh.wikipedia.org/wiki/Category:索尼相機 "wikilink")

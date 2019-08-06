@@ -1,16 +1,11 @@
-**《無法入眠的夜晚-Long Night-》（）**是韓國人氣男子組合
-[SS501](../Page/SS501.md "wikilink")老么[金亨俊](../Page/金亨俊.md "wikilink")，於2011年7月27日由avex
-trax所發行的首張個人日文單曲。
+**《無法入眠的夜晚-Long Night-》（）**是韓國人氣男子組合 [SS501](../Page/SS501.md "wikilink")老么[金亨俊](../Page/金亨俊.md "wikilink")，於2011年7月27日由avex trax所發行的首張個人日文單曲。
 
 ## 單曲概要
 
   - 本作是金亨俊以個人名義於日本發行的首張單曲\[1\]。
   - 另收錄（淋著雨）一曲。
-  - 兩首曲目皆由日本知名作詞家春和文負責，主打曲目「無法入睡的夜晚-Long
-    Night-」由韓國近來受矚目的新人作曲家RADO及「淋著雨」則是由日本作曲家BRAVE
-    Brothers擔任製作。
-  - 官網會員限定CD+Photobook版預購時間：2011年7月1日(週五) \~
-    2011年7月20日(週三)，韓國發貨預定日：2011年8月1日(週日)始。
+  - 兩首曲目皆由日本知名作詞家春和文負責，主打曲目「無法入睡的夜晚-Long Night-」由韓國近來受矚目的新人作曲家RADO及「淋著雨」則是由日本作曲家BRAVE Brothers擔任製作。
+  - 官網會員限定CD+Photobook版預購時間：2011年7月1日(週五) \~ 2011年7月20日(週三)，韓國發貨預定日：2011年8月1日(週日)始。
 
 ### 音樂錄影帶
 
@@ -152,14 +147,12 @@ trax所發行的首張個人日文單曲。
 
 ## 外部連結
 
-  - [SS501's official
-    site](https://web.archive.org/web/20060518205215/http://ss501.dspenter.com/)
+  - [SS501's official site](https://web.archive.org/web/20060518205215/http://ss501.dspenter.com/)
 
   - [金亨俊韓國官方網站](https://web.archive.org/web/20100925164307/http://www.hyungjun.co.kr/)
 
   - [金亨俊日本官方網站](http://www.kimhyungjun.jp/)
 
-[Category:金亨俊歌曲](https://zh.wikipedia.org/wiki/Category:金亨俊歌曲 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
+[Category:金亨俊歌曲](https://zh.wikipedia.org/wiki/Category:金亨俊歌曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
 
 1.

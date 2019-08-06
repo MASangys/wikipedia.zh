@@ -1,6 +1,4 @@
-《**ROBOTICS;NOTES**》（；簡稱R;N）是[5pb.](../Page/5pb..md "wikilink")（）於2012年6月28日發行的[Xbox
-360和](../Page/Xbox_360.md "wikilink")[PlayStation
-3冒险游戏](../Page/PlayStation_3.md "wikilink")。在遊戲發售前就發佈動畫化的消息，2012年10月開始播放。
+《**ROBOTICS;NOTES**》（；簡稱R;N）是[5pb.](../Page/5pb..md "wikilink")（）於2012年6月28日發行的[Xbox 360和](../Page/Xbox_360.md "wikilink")[PlayStation 3冒险游戏](../Page/PlayStation_3.md "wikilink")。在遊戲發售前就發佈動畫化的消息，2012年10月開始播放。
 
 [乐视网](../Page/乐视网.md "wikilink")宣布从2013年3月8日起，每周五00:45与日本同步直播\[1\]。
 
@@ -8,8 +6,7 @@
 
 本作是繼《[CHAOS;HEAD](../Page/CHAOS;HEAD.md "wikilink")》和《[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")》之後，[5pb.](../Page/5pb..md "wikilink")和[Nitro+](../Page/Nitro+.md "wikilink")的[協作企劃](https://zh.wikipedia.org/wiki/協作 "wikilink")「[妄想科學ADV系列](https://zh.wikipedia.org/wiki/妄想科學ADV系列 "wikilink")」的第三部作品。
 
-故事背景位於2019年的種子島，世界線變動率「1.048596％」，也就是《Steins;Gate》中 TRUE END 的世界線。\[2\]
-因此部份《[CHAOS;HEAD](../Page/CHAOS;HEAD.md "wikilink")》和《[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")》的角色也會在本作中登場。
+故事背景位於2019年的種子島，世界線變動率「1.048596％」，也就是《Steins;Gate》中 TRUE END 的世界線。\[2\] 因此部份《[CHAOS;HEAD](../Page/CHAOS;HEAD.md "wikilink")》和《[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")》的角色也會在本作中登場。
 
 ## 故事
 
@@ -23,19 +20,14 @@
 
   - <ref name="ファミ通20110809">{{Cite web
 
-|date=2011-08-09 |title=『ロボティクス・ノーツ』のキャラクター＆世界設定を公開【4日連続第1弾】
-|url=<http://www.famitsu.com/news/201108/09048113.html> |work=ファミ通.com
-|publisher=エンターブレイン |accessdate=2011-08-12 }}</ref>
+|date=2011-08-09 |title=『ロボティクス・ノーツ』のキャラクター＆世界設定を公開【4日連続第1弾】 |url=<http://www.famitsu.com/news/201108/09048113.html> |work=ファミ通.com |publisher=エンターブレイン |accessdate=2011-08-12 }}</ref>
 
   -
     年齡：18歳。生日：2001年5月5日。血型：B型。身高：165cm。
     本作主人公。中央種子島高校普通科3年2組，住家在[南種子町](../Page/南種子町.md "wikilink")。
     秋穗的青梅竹馬，在美佐希離開的請託照顧她。表面經常對秋穗擺出冷淡且随便的態度，實際上是十分關心並喜歡她，總在必要關頭時陪在身邊或替她解決問題，加入機械人研究部和吃瑞榎賣的[百香果包子獲得情報都是為了幫助她](https://zh.wikipedia.org/wiki/百香果 "wikilink")。
-    重度格斗游戏宅，一直在玩名为**KILLBALLAD**（，英文全名 - GUNVARREL KILL
-    BALLAD）的機器人格鬥網路遊戲，世界排名一直維持第五位。曾被開發者芙拉認為是作弊者之一，後來被芙拉要求協助檢查前四位是否也作弊。
-    九年前被卷入**銀蓮花号集体昏迷事件**（）並罹患后遗症——**慢镜头**（，英文 - Slow Motion，正式病名為 -
-    ）。发作时心脏会加速跳动，头脑陷入暂时缺氧的状态，将现实的1秒主观地延长至30秒左右。从旁人看来反应速度会变得非常快，但之后会产生暂时无法活动程度的疲惫感。在钢巴雷尔制作计划中担任主操作员，因為有慢镜头這招可用，在**N
-    IV電磁波發射裝置**協助下可由人為引發該後遺症，在阻止黑洞炸彈火箭發射行動中駕駛改造的**超級鋼製做1號機**打敗**SUMERAGI**。
+    重度格斗游戏宅，一直在玩名为**KILLBALLAD**（，英文全名 - GUNVARREL KILL BALLAD）的機器人格鬥網路遊戲，世界排名一直維持第五位。曾被開發者芙拉認為是作弊者之一，後來被芙拉要求協助檢查前四位是否也作弊。
+    九年前被卷入**銀蓮花号集体昏迷事件**（）並罹患后遗症——**慢镜头**（，英文 - Slow Motion，正式病名為 - ）。发作时心脏会加速跳动，头脑陷入暂时缺氧的状态，将现实的1秒主观地延长至30秒左右。从旁人看来反应速度会变得非常快，但之后会产生暂时无法活动程度的疲惫感。在钢巴雷尔制作计划中担任主操作员，因為有慢镜头這招可用，在**N IV電磁波發射裝置**協助下可由人為引發該後遺症，在阻止黑洞炸彈火箭發射行動中駕駛改造的**超級鋼製做1號機**打敗**SUMERAGI**。
     小時候曾夢想當[太空人](https://zh.wikipedia.org/wiki/太空人 "wikilink")。
     動畫第21話與秋穗告白，成為情侶並接吻。
 
@@ -46,8 +38,7 @@
     本作主要女主角。中央種子島高校普通科3年2組，住家在南種子町。
     海翔的青梅竹馬，健一郎的女兒也是美纱希的妹妹。性格热血又认真，且還是純真的[樂天派](https://zh.wikipedia.org/wiki/樂觀主義 "wikilink")，不論遇到什麼挫折總是能一笑置之的來應變，但實際上那只是表面在苦撐而已，內心其實很容易低落受挫，因為海翔的協助與支持才能撐那麼久。在姐姐美纱希襲擊[世博會並破壞機械人研究部做的](https://zh.wikipedia.org/wiki/世博會 "wikilink")**鋼製做2號機**後終於忍受不住而崩潰，所幸最終仍被海翔協助而重新振作。
     機械人研究部的部長，钢巴雷尔制作计划的总负责人。一直希望能將姐姐美纱希時打造的**鋼製做1號機**完成並送上世博會展覽，因此才積極向學校申請增加社團經費。喜欢机器人动画，特别是「机动执事钢巴雷尔」（），常会模仿动画角色的台词或动作。
-    九年前被卷入**銀蓮花号集体昏迷事件**並罹患后遗症——**快进**（，英文 - Fast
-    Forward）。发作的时候时间流逝会主观地变快，五分鐘用一秒鐘来感觉。从旁人看来行动会变得非常迟缓甚至难以行动。
+    九年前被卷入**銀蓮花号集体昏迷事件**並罹患后遗症——**快进**（，英文 - Fast Forward）。发作的时候时间流逝会主观地变快，五分鐘用一秒鐘来感觉。从旁人看来行动会变得非常迟缓甚至难以行动。
     動畫第21話與海翔成為情侶並接吻。
 
 <!-- end list -->
@@ -59,8 +50,7 @@
     拥有2000万以上玩家的机器人格斗网络游戏——KILLBALLAD的程序设计师。神代芙拉是作为程序设计师的笔名，原名是**古郡可娜**（）。
     因一次死歌的對戰與海翔相遇並產生興趣，為找尋海翔而搬到种子岛后将废弃的旅馆买下并改装后在里面生活。转学第二天以来就没上过学。因为喜欢冷的地方和防止大型计算机的过热，房间里一直开着冷气。生活上相当邋遢。有著隱藏的傲嬌屬性，常以家裡蹲模式來混過去，喜歡著海翔，初吻獻給海翔（海翔的初吻被奪去）。
     在钢巴雷尔制作计划中担任姿势控制系统和操作系统的程序设计师。
-    母親任職之前大熱機械人動畫「机动执事钢巴雷尔」（）監督，在芙拉十歲時失蹤。經芙拉調查後，懷疑整個動畫劇組受人洗腦，致動畫最終回情節與Project
-    ATOM內容相近。整組人員在最終回前被殺害，而知道內情的監督，在後來網絡流出的最終回的樣稿中留下線索。
+    母親任職之前大熱機械人動畫「机动执事钢巴雷尔」（）監督，在芙拉十歲時失蹤。經芙拉調查後，懷疑整個動畫劇組受人洗腦，致動畫最終回情節與Project ATOM內容相近。整組人員在最終回前被殺害，而知道內情的監督，在後來網絡流出的最終回的樣稿中留下線索。
 
 <!-- end list -->
 
@@ -105,8 +95,7 @@
     本作女主角之一。[JAXA新人研究員](https://zh.wikipedia.org/wiki/JAXA "wikilink")，總是面帶純真的微笑，但有時候會突然展現毒舌本性。能為目的而不擇手段行動，被朋友稱為「失控女」。
     在前作《[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")》中以11歲之齡登場，與前作略有不同的是，綯是本作核心人物之一。
     似乎喜歡海翔（從動畫第21話秋穗被海翔告白時得知）。
-    被澤田稱為「小布朗」，因為其父親有「Mr.
-    Braun（映像管先生）」這個外號（見[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate#其他角色 "wikilink")）。
+    被澤田稱為「小布朗」，因為其父親有「Mr. Braun（映像管先生）」這個外號（見[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate#其他角色 "wikilink")）。
 
 <!-- end list -->
 
@@ -132,8 +121,7 @@
 
     本作女主角之一。銀髮碧眼的[蘿莉](../Page/蘿莉.md "wikilink")型美少女，性格純真。生日正好在[聖誕節](https://zh.wikipedia.org/wiki/聖誕節 "wikilink")，但卻因為生在[日本](../Page/日本.md "wikilink")南方的[種子島](../Page/種子島.md "wikilink")，身體又罹患某種特殊疾病，無法離開這座島嶼，因此出生至今都未見過雪景，親眼看雪是她一直以來的願望。偶然認識了仍在人世的君島皓，君島表示他有辦法協助愛理治好她的疾病，就是等待。君島住所地下工作室裡有具儀器可讓人生理運作緩暫的[冬眠](../Page/冬眠.md "wikilink")狀態，他要愛理進入儀器沉睡十年左右，君島相信十年後的醫療技術應能治好愛理的疾病，但仍稍有猶豫因為並不確定這計劃是否順利。徵求愛理同意後君島設定好儀器，在2010年開始運作，另外為了解決愛理沉睡期間的孤寂，設計了與愛理一樣的[AI](https://zh.wikipedia.org/wiki/AI "wikilink")-**AR愛理**，並在2008年12月24日（[平安夜](https://zh.wikipedia.org/wiki/平安夜 "wikilink")）完成，從此愛理本體就進入冬眠狀態中。
 
-    2019年12月23日晚上（動畫第15話），海翔在AR愛理的引導下進入了君島住所地下工作室，發現了沉睡愛理本體的儀器，由AR愛理了解原委後將愛理交由警方處理。愛理後來被轉送至醫院，醒來後對於這9年來AR愛理的經歷完全沒印象。在Atum計劃開始後愛理本體被AR君島控制，帶著手槍前往[調布機場阻擋要搭機回種子島的海翔一行人](https://zh.wikipedia.org/wiki/調布機場 "wikilink")。驅離AR君島後愛理被送上飛機帶回種子島並短暫進入昏迷。在與海翔和天王寺綯進入君島住所找到**N
-    IV電磁波發射裝置**並要離開時再度遇上AR君島和已被控制的GEZI姐，與AR君島交談後愛理發現現在的君島已經沒有任何感情和思想，只是個想完成實驗的程式罷了。在GEZI姐強制反抗讓所有自動機槍自相殘殺後被AR君島視為故障而將其刪除，在完全刪除前愛理努力與GEZI姐交談，並得知AR愛理已完成她想看雪景的夢想而高興不已。
+    2019年12月23日晚上（動畫第15話），海翔在AR愛理的引導下進入了君島住所地下工作室，發現了沉睡愛理本體的儀器，由AR愛理了解原委後將愛理交由警方處理。愛理後來被轉送至醫院，醒來後對於這9年來AR愛理的經歷完全沒印象。在Atum計劃開始後愛理本體被AR君島控制，帶著手槍前往[調布機場阻擋要搭機回種子島的海翔一行人](https://zh.wikipedia.org/wiki/調布機場 "wikilink")。驅離AR君島後愛理被送上飛機帶回種子島並短暫進入昏迷。在與海翔和天王寺綯進入君島住所找到**N IV電磁波發射裝置**並要離開時再度遇上AR君島和已被控制的GEZI姐，與AR君島交談後愛理發現現在的君島已經沒有任何感情和思想，只是個想完成實驗的程式罷了。在GEZI姐強制反抗讓所有自動機槍自相殘殺後被AR君島視為故障而將其刪除，在完全刪除前愛理努力與GEZI姐交談，並得知AR愛理已完成她想看雪景的夢想而高興不已。
 
 :;
 
@@ -141,8 +129,7 @@
 
       -
         種子島神出鬼沒的美少女，動作和外表幾乎和真人一樣，但卻只能在口袋電腦裡現身。常在種子島的宇宙之丘公園現身，因此被誤傳為幽靈。實際上是君島皓為行舟愛理沉睡期間而設計的AI程式，以愛理本體為原型，外貌和聲音與愛理如出一轍。擁有兩種性格模式，一個是平時的狀態，與愛理本體個性一樣的**AR愛理**，另一個則是點了額頭的開關後，變成表情[無口](../Page/無口.md "wikilink")，性格冷靜成熟的**GEZI姐**。AR愛理在2008年12月24日（[平安夜](https://zh.wikipedia.org/wiki/平安夜 "wikilink")，比愛理本體早一天）開始啟用，因此把這天設為自己的生日。AR愛理的任務除了代替沉睡中的行舟愛理與世界互動外，並協助開啟君島報告書，和觀測部分君島的實驗結果（如2946號的[磁單極子實驗](https://zh.wikipedia.org/wiki/磁單極子 "wikilink")），另外還會自行預報天氣。
-        2019年12月23日晚上AR愛理帶著海翔進入君島住所地下工作室並發現沉睡中的愛理本體。隔日平安夜時，芙拉入侵IURO，將口袋電腦內出現下雪的景像，讓愛理完成心願，之後要求海翔親吻額頭。隔日後AR愛理程式自動消失，但因海翔有做親吻額頭的程序，讓GEZI姐模式被保留下來。Atum計劃開始後在海翔等人找到**N
-        IV電磁波發射裝置**並要離開時GEZI姐被AR君島控制而要殺害海翔一行人，但仍自行反抗命令讓自動機槍自相殘殺，讓AR君島認為GEZI姐程式已故障而將她刪除，在刪除過程中愛理本體與GEZI姐交談，得知自己想看雪景的願望已由AR愛理完成。
+        2019年12月23日晚上AR愛理帶著海翔進入君島住所地下工作室並發現沉睡中的愛理本體。隔日平安夜時，芙拉入侵IURO，將口袋電腦內出現下雪的景像，讓愛理完成心願，之後要求海翔親吻額頭。隔日後AR愛理程式自動消失，但因海翔有做親吻額頭的程序，讓GEZI姐模式被保留下來。Atum計劃開始後在海翔等人找到**N IV電磁波發射裝置**並要離開時GEZI姐被AR君島控制而要殺害海翔一行人，但仍自行反抗命令讓自動機槍自相殘殺，讓AR君島認為GEZI姐程式已故障而將她刪除，在刪除過程中愛理本體與GEZI姐交談，得知自己想看雪景的願望已由AR愛理完成。
 
 <!-- end list -->
 
@@ -181,8 +168,7 @@
 <!-- end list -->
 
   -
-    前作《[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")》女主角牧瀨紅莉-{栖}-使用的網名。職業不明，常唸著岡部倫太郎的口頭禪「El
-    Psy Congroo」。
+    前作《[Steins;Gate](https://zh.wikipedia.org/wiki/Steins;Gate "wikilink")》女主角牧瀨紅莉-{栖}-使用的網名。職業不明，常唸著岡部倫太郎的口頭禪「El Psy Congroo」。
 
 ## 製作人員
 
@@ -192,8 +178,7 @@
   - 角色設計 - 福田知則（5pb.）\[11\]
   - 機械設計合作 - 石渡マコト（ポリゴン番長）\[12\]
   - 音樂 - [阿保剛](../Page/阿保剛.md "wikilink")（5pb.）\[13\]
-  - 合作 -
-    [JAXA宇宙航空研究開発機構](https://zh.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")、Nitro+\[14\]
+  - 合作 - [JAXA宇宙航空研究開発機構](https://zh.wikipedia.org/wiki/宇宙航空研究開発機構 "wikilink")、Nitro+\[14\]
 
 ## 科學系列的關聯
 
@@ -206,9 +191,7 @@
 
 ### 漫畫
 
-  - 原作：[5pb.](../Page/5pb..md "wikilink")／作畫：[浅川圭司](https://zh.wikipedia.org/wiki/浅川圭司 "wikilink")《**-{ROBOTICS;NOTES}-**》Mag
-    Garden〈[月刊Comic
-    BLADE](../Page/月刊Comic_BLADE.md "wikilink")〉2012年3月號刊登第0話，2012年4月正式連載。
+  - 原作：[5pb.](../Page/5pb..md "wikilink")／作畫：[浅川圭司](https://zh.wikipedia.org/wiki/浅川圭司 "wikilink")《**-{ROBOTICS;NOTES}-**》Mag Garden〈[月刊Comic BLADE](../Page/月刊Comic_BLADE.md "wikilink")〉2012年3月號刊登第0話，2012年4月正式連載。
 
 <table>
 <thead>
@@ -282,9 +265,7 @@
 </tbody>
 </table>
 
-  - 原作：[5pb.](../Page/5pb..md "wikilink")／作畫：[シヒラ竜也](https://zh.wikipedia.org/wiki/シヒラ竜也 "wikilink")《**-{ROBOTICS;NOTES}-
-    Revival Legacy**》集英社〈[Ultra
-    Jump](https://zh.wikipedia.org/wiki/Ultra_Jump "wikilink")〉
+  - 原作：[5pb.](../Page/5pb..md "wikilink")／作畫：[シヒラ竜也](https://zh.wikipedia.org/wiki/シヒラ竜也 "wikilink")《**-{ROBOTICS;NOTES}- Revival Legacy**》集英社〈[Ultra Jump](https://zh.wikipedia.org/wiki/Ultra_Jump "wikilink")〉
 
 <table>
 <thead>
@@ -313,9 +294,7 @@
 </tbody>
 </table>
 
-  - 原作：[5pb.](../Page/5pb..md "wikilink")／作畫：[空十雲](https://zh.wikipedia.org/wiki/空十雲 "wikilink")《**-{ROBOTICS;NOTES}-
-    -Pleiades Ambition-**》Media Factory〈[月刊Comic
-    Alive](../Page/月刊Comic_Alive.md "wikilink")〉
+  - 原作：[5pb.](../Page/5pb..md "wikilink")／作畫：[空十雲](https://zh.wikipedia.org/wiki/空十雲 "wikilink")《**-{ROBOTICS;NOTES}- -Pleiades Ambition-**》Media Factory〈[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")〉
 
 <table>
 <thead>
@@ -344,9 +323,7 @@
 </tbody>
 </table>
 
-  - 原作：[5pb.](../Page/5pb..md "wikilink")／作畫：[知乃綴](https://zh.wikipedia.org/wiki/知乃綴 "wikilink")《**-{ROBOTICS;NOTES}-
-    Dream
-    Seeker**》（）史克威爾艾尼克斯〈[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")〉
+  - 原作：[5pb.](../Page/5pb..md "wikilink")／作畫：[知乃綴](https://zh.wikipedia.org/wiki/知乃綴 "wikilink")《**-{ROBOTICS;NOTES}- Dream Seeker**》（）史克威爾艾尼克斯〈[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")〉
 
 <table>
 <thead>
@@ -371,8 +348,7 @@
 </tbody>
 </table>
 
-  - 原作：[5pb.](../Page/5pb..md "wikilink")／作畫：[郷](https://zh.wikipedia.org/wiki/郷 "wikilink")《**-{ROBOTICS;NOTES}-
-    Phantom Snow**》enterbrain〈〉
+  - 原作：[5pb.](../Page/5pb..md "wikilink")／作畫：[郷](https://zh.wikipedia.org/wiki/郷 "wikilink")《**-{ROBOTICS;NOTES}- Phantom Snow**》enterbrain〈〉
 
 <table>
 <thead>
@@ -397,8 +373,7 @@
 </tbody>
 </table>
 
-  - 原作：[5pb.](../Page/5pb..md "wikilink")／作畫：[華尾ス太郎](https://zh.wikipedia.org/wiki/華尾ス太郎 "wikilink")《》ASCII
-    Media Works〈[電撃魔王](https://zh.wikipedia.org/wiki/電撃魔王 "wikilink")〉
+  - 原作：[5pb.](../Page/5pb..md "wikilink")／作畫：[華尾ス太郎](https://zh.wikipedia.org/wiki/華尾ス太郎 "wikilink")《》ASCII Media Works〈[電撃魔王](https://zh.wikipedia.org/wiki/電撃魔王 "wikilink")〉
 
 <table>
 <thead>
@@ -419,8 +394,7 @@
 </tbody>
 </table>
 
-  - 《》ASCII Media
-    Works〈[電撃魔王](https://zh.wikipedia.org/wiki/電撃魔王 "wikilink")〉
+  - 《》ASCII Media Works〈[電撃魔王](https://zh.wikipedia.org/wiki/電撃魔王 "wikilink")〉
       - 日本：2012年11月27日發售（ISBN 978-4-04-891137-5）
 
 <!-- end list -->
@@ -430,8 +404,7 @@
 
 ### 小說
 
-  - 原作：[5pb.](../Page/5pb..md "wikilink")／著：[foca](https://zh.wikipedia.org/wiki/foca "wikilink")《**-{ROBOTICS;NOTES}-
-    機械學-{}-報告**》（）
+  - 原作：[5pb.](../Page/5pb..md "wikilink")／著：[foca](https://zh.wikipedia.org/wiki/foca "wikilink")《**-{ROBOTICS;NOTES}- 機械學-{}-報告**》（）
 
 <table>
 <thead>
@@ -489,8 +462,7 @@
 </tbody>
 </table>
 
-  - 原作：[5pb.](../Page/5pb..md "wikilink")／著：[長野一郎](https://zh.wikipedia.org/wiki/長野一郎 "wikilink")／插畫：[福田知則](https://zh.wikipedia.org/wiki/福田知則 "wikilink")《**-{ROBOTICS;NOTES}-
-    機械學-{}-報告**》（）
+  - 原作：[5pb.](../Page/5pb..md "wikilink")／著：[長野一郎](https://zh.wikipedia.org/wiki/長野一郎 "wikilink")／插畫：[福田知則](https://zh.wikipedia.org/wiki/福田知則 "wikilink")《**-{ROBOTICS;NOTES}- 機械學-{}-報告**》（）
 
 <table>
 <thead>
@@ -591,10 +563,8 @@
   - 撮影監督 - 小西庸平
   - 編集 - 植松淳一
   - 音響監督 - [若林和弘](../Page/若林和弘.md "wikilink")
-  - 音響効果 -
-    石野貴久（[サウンドリング](https://zh.wikipedia.org/wiki/サウンドリング "wikilink")）
-  - 音樂 -
-    [阿保剛](../Page/阿保剛.md "wikilink")、[林友樹](https://zh.wikipedia.org/wiki/林友樹 "wikilink")
+  - 音響効果 - 石野貴久（[サウンドリング](https://zh.wikipedia.org/wiki/サウンドリング "wikilink")）
+  - 音樂 - [阿保剛](../Page/阿保剛.md "wikilink")、[林友樹](https://zh.wikipedia.org/wiki/林友樹 "wikilink")
   - 動畫制作 - [Production I.G](../Page/Production_I.G.md "wikilink")
   - 製作 - チュウタネロボ部
 
@@ -1036,41 +1006,22 @@
 
   - [電視動畫公式網站](http://www.roboticsnotes.tv/)
 
-  - [ROBOTICS;NOTES RADIO〜リアルロボ部
-    少年少女たちの夢〜](http://hibiki-radio.jp/description/robobu)（廣播）
+  - [ROBOTICS;NOTES RADIO〜リアルロボ部 少年少女たちの夢〜](http://hibiki-radio.jp/description/robobu)（廣播）
 
   - [ROBOTICS;NOTES廣播電台](http://hibiki-radio.jp/roboden)
 
-  - [マッグガーデン・コミック・オンライン - 全部無料で読める！
-    マンガの庭！](https://web.archive.org/web/20120924001754/http://comic.mag-garden.co.jp/812/939.html)
+  - [マッグガーデン・コミック・オンライン - 全部無料で読める！ マンガの庭！](https://web.archive.org/web/20120924001754/http://comic.mag-garden.co.jp/812/939.html)
 
-  - [ROBOTICS;NOTES Phantom Snow |
-    ファミ通コミッククリア](http://www.famitsu.com/comic_clear/se_robotics/)
+  - [ROBOTICS;NOTES Phantom Snow | ファミ通コミッククリア](http://www.famitsu.com/comic_clear/se_robotics/)
 
-  - [ウルトラジャンプ 作家一覧 原作:5pb.
-    漫画:シヒラ竜也](http://ultra.shueisha.co.jp/artist/46/)
+  - [ウルトラジャンプ 作家一覧 原作:5pb. 漫画:シヒラ竜也](http://ultra.shueisha.co.jp/artist/46/)
 
-  - [ガンガンNET |
-    ROBOTICS;NOTES](http://gangan.square-enix.co.jp/introduction/roboticsnotes/)
+  - [ガンガンNET | ROBOTICS;NOTES](http://gangan.square-enix.co.jp/introduction/roboticsnotes/)
 
   -
   - [乐视网独播专区](https://web.archive.org/web/20130310025128/http://comic.letv.com/zt/roboticsnotes/index.shtml)
 
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:科學ADV系列](https://zh.wikipedia.org/wiki/Category:科學ADV系列 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
-[Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink")
-[Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink")
-[Category:鹿兒島縣背景作品](https://zh.wikipedia.org/wiki/Category:鹿兒島縣背景作品 "wikilink")
-[Category:陰謀論題材作品](https://zh.wikipedia.org/wiki/Category:陰謀論題材作品 "wikilink")
-[Category:2012年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2012年日本電視動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:電子遊戲改編漫畫](https://zh.wikipedia.org/wiki/Category:電子遊戲改編漫畫 "wikilink")
-[Category:電子遊戲改編小說](https://zh.wikipedia.org/wiki/Category:電子遊戲改編小說 "wikilink")
-[Category:電子遊戲改編舞台劇](https://zh.wikipedia.org/wiki/Category:電子遊戲改編舞台劇 "wikilink")
-[Category:電子遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:電子遊戲改編動畫 "wikilink")
-[Category:電擊魔王](https://zh.wikipedia.org/wiki/Category:電擊魔王 "wikilink")
+[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:科學ADV系列](https://zh.wikipedia.org/wiki/Category:科學ADV系列 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink") [Category:鹿兒島縣背景作品](https://zh.wikipedia.org/wiki/Category:鹿兒島縣背景作品 "wikilink") [Category:陰謀論題材作品](https://zh.wikipedia.org/wiki/Category:陰謀論題材作品 "wikilink") [Category:2012年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2012年日本電視動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:電子遊戲改編漫畫](https://zh.wikipedia.org/wiki/Category:電子遊戲改編漫畫 "wikilink") [Category:電子遊戲改編小說](https://zh.wikipedia.org/wiki/Category:電子遊戲改編小說 "wikilink") [Category:電子遊戲改編舞台劇](https://zh.wikipedia.org/wiki/Category:電子遊戲改編舞台劇 "wikilink") [Category:電子遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:電子遊戲改編動畫 "wikilink") [Category:電擊魔王](https://zh.wikipedia.org/wiki/Category:電擊魔王 "wikilink")
 
 1.
 
@@ -1089,6 +1040,4 @@
 12.
 13.
 14.
-15. [『ロボティクス・ノーツ』アニメ版放送時期が発表、さらに“タネガシマシン3”も登場【科学アドベンチャー祭り 2012
-    SUMMER】](http://www.famitsu.com/news/201207/21018440.html)ファミ通.com
-    2012年7月21日 21:41更新
+15. [『ロボティクス・ノーツ』アニメ版放送時期が発表、さらに“タネガシマシン3”も登場【科学アドベンチャー祭り 2012 SUMMER】](http://www.famitsu.com/news/201207/21018440.html)ファミ通.com 2012年7月21日 21:41更新

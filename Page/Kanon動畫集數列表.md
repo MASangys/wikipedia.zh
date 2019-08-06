@@ -6,10 +6,8 @@
 
 ### 製作人員\[1\]
 
-  - 原作：[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")/[Visual
-    Art's](../Page/Visual_Art's.md "wikilink")
-  - 角色原案：[樋上至](../Page/樋上至.md "wikilink")（[Visual
-    Art's](../Page/Visual_Art's.md "wikilink")）
+  - 原作：[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")/[Visual Art's](../Page/Visual_Art's.md "wikilink")
+  - 角色原案：[樋上至](../Page/樋上至.md "wikilink")（[Visual Art's](../Page/Visual_Art's.md "wikilink")）
   - 動畫製作：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
   - 音樂：神津裕之
   - 导演：伊藤尚往
@@ -94,18 +92,15 @@
 
 ## 京都動畫版
 
-2006年，因製作同樣改編自Key社遊戲[AIR的動畫版](https://zh.wikipedia.org/wiki/AIR "wikilink")，而受好評的[京都動畫](../Page/京都動畫.md "wikilink")宣佈將對Kanon進行第二次動畫化。此版動畫共24集，於2006年10月5日至2007年3月15日在日本
-BS-i 數位頻道播放。
+2006年，因製作同樣改編自Key社遊戲[AIR的動畫版](https://zh.wikipedia.org/wiki/AIR "wikilink")，而受好評的[京都動畫](../Page/京都動畫.md "wikilink")宣佈將對Kanon進行第二次動畫化。此版動畫共24集，於2006年10月5日至2007年3月15日在日本 BS-i 數位頻道播放。
 
 ### 製作人員\[5\]
 
   - 导演：[石原立也](../Page/石原立也.md "wikilink")
-  - 原作：[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")/[Visual
-    Art's](../Page/Visual_Art's.md "wikilink")
+  - 原作：[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")/[Visual Art's](../Page/Visual_Art's.md "wikilink")
   - 動畫製作：[京都動畫](../Page/京都動畫.md "wikilink")
   - 音樂：[折戶伸治](../Page/折戶伸治.md "wikilink")／／OdiakeS
-  - 角色原案：[樋上至](../Page/樋上至.md "wikilink")（[Visual
-    Art's](../Page/Visual_Art's.md "wikilink")）
+  - 角色原案：[樋上至](../Page/樋上至.md "wikilink")（[Visual Art's](../Page/Visual_Art's.md "wikilink")）
   - 剧本统筹：[志茂文彥](../Page/志茂文彥.md "wikilink")
 
 ### 各話資料

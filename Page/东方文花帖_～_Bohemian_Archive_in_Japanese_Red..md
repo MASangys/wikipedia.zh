@@ -1,14 +1,8 @@
-**東方文花帖 〜 Bohemian Archive in Japanese Red.**（，ISBN
-4-7580-1037-4）为2005年8月[一迅社](../Page/一迅社.md "wikilink")出版的一本[东方Project](https://zh.wikipedia.org/wiki/东方Project "wikilink")[同人志](https://zh.wikipedia.org/wiki/同人志 "wikilink")。
+**東方文花帖 〜 Bohemian Archive in Japanese Red.**（，ISBN 4-7580-1037-4）为2005年8月[一迅社](../Page/一迅社.md "wikilink")出版的一本[东方Project](https://zh.wikipedia.org/wiki/东方Project "wikilink")[同人志](https://zh.wikipedia.org/wiki/同人志 "wikilink")。
 
 ## 概述
 
-本书前半部分主要是以[東方花映塚中的角色](https://zh.wikipedia.org/wiki/東方花映塚 "wikilink")[射命丸
-文在本系列世界中所办的报纸](https://zh.wikipedia.org/wiki/東方花映塚_～_Phantasmagoria_of_Flower_View.#射命丸_文 "wikilink")《（文文新闻）》为主，以此所作的访谈式小说，记述幻想乡的各种八卦事，由ZUN编写，多位插画家提供插画。后半部分收录8位同人画家所作漫画，和ZUN的游戏访谈。附有一张CD，其中包含了[東方花映塚
-～ Phantasmagoria of Flower
-View.的体验版](../Page/東方花映塚_～_Phantasmagoria_of_Flower_View..md "wikilink")。
-后来基于本书设定，ZUN以射命丸文为主角制作了相应的游戏[東方文花帖 ～ Shoot the
-Bullet.](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")。
+本书前半部分主要是以[東方花映塚中的角色](https://zh.wikipedia.org/wiki/東方花映塚 "wikilink")[射命丸 文在本系列世界中所办的报纸](https://zh.wikipedia.org/wiki/東方花映塚_～_Phantasmagoria_of_Flower_View.#射命丸_文 "wikilink")《（文文新闻）》为主，以此所作的访谈式小说，记述幻想乡的各种八卦事，由ZUN编写，多位插画家提供插画。后半部分收录8位同人画家所作漫画，和ZUN的游戏访谈。附有一张CD，其中包含了[東方花映塚 ～ Phantasmagoria of Flower View.的体验版](../Page/東方花映塚_～_Phantasmagoria_of_Flower_View..md "wikilink")。 后来基于本书设定，ZUN以射命丸文为主角制作了相应的游戏[東方文花帖 ～ Shoot the Bullet.](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")。
 
 ## 内容
 
@@ -48,10 +42,8 @@ Bullet.](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")。
 
 收录了：
 
-  - [東方花映塚 ～ Phantasmagoria of Flower
-    View.的体验版](../Page/東方花映塚_～_Phantasmagoria_of_Flower_View..md "wikilink")\[2\]
-  - [東方文花帖 ～ Shoot the
-    Bullet.使用的](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")3首乐曲
+  - [東方花映塚 ～ Phantasmagoria of Flower View.的体验版](../Page/東方花映塚_～_Phantasmagoria_of_Flower_View..md "wikilink")\[2\]
+  - [東方文花帖 ～ Shoot the Bullet.使用的](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")3首乐曲
       - （天狗的筆記 ～ Mysterious Note）
 
       - （風的循環 ～ Wind Tour）
@@ -61,10 +53,7 @@ Bullet.](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")。
 
 ## 参考资料
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:同人作品](https://zh.wikipedia.org/wiki/Category:同人作品 "wikilink")
-[Category:2005年書籍](https://zh.wikipedia.org/wiki/Category:2005年書籍 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:同人作品](https://zh.wikipedia.org/wiki/Category:同人作品 "wikilink") [Category:2005年書籍](https://zh.wikipedia.org/wiki/Category:2005年書籍 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
 1.  [大妖精、小悪魔](https://zh.wikipedia.org/wiki/東方紅魔鄉_～_the_Embodiment_of_Scarlet_Devil.#没有名字的角色 "wikilink")、[莉莉白](https://zh.wikipedia.org/wiki/東方妖妖夢_～_Perfect_Cherry_Blossom.#莉莉白 "wikilink")3名角色也包括在内
 2.  体验版plus的收录音乐为midi版，与正式发售的收录为wav版不同

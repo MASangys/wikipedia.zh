@@ -1,19 +1,4 @@
-[張景怡](https://zh.wikipedia.org/wiki/張景怡 "wikilink"){{、w}}[張沛婕](https://zh.wikipedia.org/wiki/張沛婕 "wikilink"){{、w}}[朱陸豪](../Page/朱陸豪.md "wikilink"){{、w}}[孟庭麗](../Page/孟庭麗.md "wikilink")
-| judges = | voices = | narrated = | theme_music_composer = |
-opentheme = | endtheme = | composer = | country =  | language =
-[國語](../Page/中華民國國語.md "wikilink") | num_seasons = | num_episodes
-= | list_episodes = | slogan = | executive_producer = |
-supervising_producer = | producer = | editor = | location = |
-cinematography = | camera = | runtime =
-60分鐘（含[廣告](../Page/廣告.md "wikilink")） | company =  |
-distributor = | channel =
-[台視](https://zh.wikipedia.org/wiki/台視 "wikilink") |
-picture_format = | audio_format = | first_run =  | first_aired =  |
-last_aired =  | channel_1 = | picture_format_1 = | audio_format_1
-= | first_run_1 = | runtime_1 = | first_aired_1 = | last_aired_1
-= | status = | preceded_by = | followed_by = | related = | website = |
-production_website = }}
-《**家有Mr.J**》（），2013年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")。是2013年[台視製作的電視劇](https://zh.wikipedia.org/wiki/台視 "wikilink")。由[林惟毅](https://zh.wikipedia.org/wiki/林惟毅 "wikilink")、[張景怡](https://zh.wikipedia.org/wiki/張景怡 "wikilink")、[張沛婕](https://zh.wikipedia.org/wiki/張沛婕 "wikilink")、[朱陸豪](../Page/朱陸豪.md "wikilink")、[孟庭麗](../Page/孟庭麗.md "wikilink")主演。2013年11月3日於台視播出。
+[張景怡](https://zh.wikipedia.org/wiki/張景怡 "wikilink"){{、w}}[張沛婕](https://zh.wikipedia.org/wiki/張沛婕 "wikilink"){{、w}}[朱陸豪](../Page/朱陸豪.md "wikilink"){{、w}}[孟庭麗](../Page/孟庭麗.md "wikilink") | judges = | voices = | narrated = | theme_music_composer = | opentheme = | endtheme = | composer = | country =  | language = [國語](../Page/中華民國國語.md "wikilink") | num_seasons = | num_episodes = | list_episodes = | slogan = | executive_producer = | supervising_producer = | producer = | editor = | location = | cinematography = | camera = | runtime = 60分鐘（含[廣告](../Page/廣告.md "wikilink")） | company =  | distributor = | channel = [台視](https://zh.wikipedia.org/wiki/台視 "wikilink") | picture_format = | audio_format = | first_run =  | first_aired =  | last_aired =  | channel_1 = | picture_format_1 = | audio_format_1 = | first_run_1 = | runtime_1 = | first_aired_1 = | last_aired_1 = | status = | preceded_by = | followed_by = | related = | website = | production_website = }} 《**家有Mr.J**》（），2013年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")。是2013年[台視製作的電視劇](https://zh.wikipedia.org/wiki/台視 "wikilink")。由[林惟毅](https://zh.wikipedia.org/wiki/林惟毅 "wikilink")、[張景怡](https://zh.wikipedia.org/wiki/張景怡 "wikilink")、[張沛婕](https://zh.wikipedia.org/wiki/張沛婕 "wikilink")、[朱陸豪](../Page/朱陸豪.md "wikilink")、[孟庭麗](../Page/孟庭麗.md "wikilink")主演。2013年11月3日於台視播出。
 
 ## 播出時間
 
@@ -183,8 +168,4 @@ production_website = }}
   -
 ## 作品的變遷
 
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:台灣律政劇](https://zh.wikipedia.org/wiki/Category:台灣律政劇 "wikilink")
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
-[Category:2013年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2013年台灣電視劇集 "wikilink")
-[Category:台視電視劇](https://zh.wikipedia.org/wiki/Category:台視電視劇 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:台灣律政劇](https://zh.wikipedia.org/wiki/Category:台灣律政劇 "wikilink") [Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:2013年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2013年台灣電視劇集 "wikilink") [Category:台視電視劇](https://zh.wikipedia.org/wiki/Category:台視電視劇 "wikilink")

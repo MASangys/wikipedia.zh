@@ -1,24 +1,10 @@
-《**Century
-Child**》是[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[交響金屬](../Page/交響金屬.md "wikilink")樂團[日暮頌歌的第四張錄音室專輯](https://zh.wikipedia.org/wiki/日暮頌歌 "wikilink")，其由[Spinefarm
-Records發行於](https://zh.wikipedia.org/wiki/Spinefarm_Records "wikilink")2002年。這是現貝斯手和男主唱[Marco
-Hietala第一张参与的专辑](https://zh.wikipedia.org/wiki/Marco_Hietala "wikilink")。
+《**Century Child**》是[芬蘭](https://zh.wikipedia.org/wiki/芬蘭 "wikilink")[交響金屬](../Page/交響金屬.md "wikilink")樂團[日暮頌歌的第四張錄音室專輯](https://zh.wikipedia.org/wiki/日暮頌歌 "wikilink")，其由[Spinefarm Records發行於](https://zh.wikipedia.org/wiki/Spinefarm_Records "wikilink")2002年。這是現貝斯手和男主唱[Marco Hietala第一张参与的专辑](https://zh.wikipedia.org/wiki/Marco_Hietala "wikilink")。
 
-这张专辑是明显的改变了以前的Nightwish作品抒情于注重音乐性的风格。相对于轻快的《[Oceanborn](../Page/Oceanborn.md "wikilink")》和《[Wishmaster](../Page/Wishmaster.md "wikilink")》，专辑总体的音乐策划显得慢而低沉，更注重氛围和旋律倾向。其包含管弦乐背衬、一个空灵的作品、塔雅·图伦尼的温和而带有少量歌剧风格的声音，以及Marco的歌声，如《Ever
-Dream》、《Slaying the Dreamer》、《Dead to the World》、《Feel for You》和《The
-Phantom of the
-Opera》；此外歌词有描绘强烈[概念专辑的潜在倾向](https://zh.wikipedia.org/wiki/概念专辑 "wikilink")。这也可以认为夜愿的最低沉的专辑之一。专辑收到了强烈的正面评价。《Century
-Child》也是吉他手[Emppu
-Vuorinen为配合Hietala的](https://zh.wikipedia.org/wiki/Emppu_Vuorinen "wikilink")[D调贝斯而将吉他调为D调的第一张专辑](https://zh.wikipedia.org/wiki/D调 "wikilink")。
+这张专辑是明显的改变了以前的Nightwish作品抒情于注重音乐性的风格。相对于轻快的《[Oceanborn](../Page/Oceanborn.md "wikilink")》和《[Wishmaster](../Page/Wishmaster.md "wikilink")》，专辑总体的音乐策划显得慢而低沉，更注重氛围和旋律倾向。其包含管弦乐背衬、一个空灵的作品、塔雅·图伦尼的温和而带有少量歌剧风格的声音，以及Marco的歌声，如《Ever Dream》、《Slaying the Dreamer》、《Dead to the World》、《Feel for You》和《The Phantom of the Opera》；此外歌词有描绘强烈[概念专辑的潜在倾向](https://zh.wikipedia.org/wiki/概念专辑 "wikilink")。这也可以认为夜愿的最低沉的专辑之一。专辑收到了强烈的正面评价。《Century Child》也是吉他手[Emppu Vuorinen为配合Hietala的](https://zh.wikipedia.org/wiki/Emppu_Vuorinen "wikilink")[D调贝斯而将吉他调为D调的第一张专辑](https://zh.wikipedia.org/wiki/D调 "wikilink")。
 
-[Spinefarm
-Records在](https://zh.wikipedia.org/wiki/Spinefarm_Records "wikilink")2002年发型了专辑的2-CD[特别版](https://zh.wikipedia.org/wiki/特别版 "wikilink")。其中包含了CD，带有乐队成员签名的艺术线条，一个收录他们翻唱[Gary
-Moore歌曲](https://zh.wikipedia.org/wiki/Gary_Moore "wikilink")《[Over the
-Hills and Far
-Away](https://zh.wikipedia.org/wiki/Over_the_Hills_and_Far_Away_\(Gary_Moore歌曲\) "wikilink")》的[音乐影片的](https://zh.wikipedia.org/wiki/音乐影片 "wikilink")[VCD](../Page/VCD.md "wikilink")。此外，一个包含ID代码的小册子允许所有者在有限的时间内从互联网下载整个专辑和三个附加曲目。附加曲目包括《Nightwish》、《The
-Forever Moments》和《Etiäinen》，他们全都来自乐队1996年的首个样本专辑。
+[Spinefarm Records在](https://zh.wikipedia.org/wiki/Spinefarm_Records "wikilink")2002年发型了专辑的2-CD[特别版](https://zh.wikipedia.org/wiki/特别版 "wikilink")。其中包含了CD，带有乐队成员签名的艺术线条，一个收录他们翻唱[Gary Moore歌曲](https://zh.wikipedia.org/wiki/Gary_Moore "wikilink")《[Over the Hills and Far Away](https://zh.wikipedia.org/wiki/Over_the_Hills_and_Far_Away_\(Gary_Moore歌曲\) "wikilink")》的[音乐影片的](https://zh.wikipedia.org/wiki/音乐影片 "wikilink")[VCD](../Page/VCD.md "wikilink")。此外，一个包含ID代码的小册子允许所有者在有限的时间内从互联网下载整个专辑和三个附加曲目。附加曲目包括《Nightwish》、《The Forever Moments》和《Etiäinen》，他们全都来自乐队1996年的首个样本专辑。
 
-专辑超过60,000套的销量获得了芬兰的双白金认证，专辑也是2002年芬兰销量第二高的芬兰专辑。《Century
-Child》在芬兰售出超过90,000套\[1\]。在全球，专辑在2002年和2003年间售出超过35万套。
+专辑超过60,000套的销量获得了芬兰的双白金认证，专辑也是2002年芬兰销量第二高的芬兰专辑。《Century Child》在芬兰售出超过90,000套\[1\]。在全球，专辑在2002年和2003年间售出超过35万套。
 
 ## 曲目列表
 
@@ -62,21 +48,11 @@ Child》在芬兰售出超过90,000套\[1\]。在全球，专辑在2002年和200
 
 <!-- end list -->
 
-  - [Tarja
-    Turunen](https://zh.wikipedia.org/wiki/Tarja_Turunen "wikilink") –
-    [女高音](../Page/女高音.md "wikilink")[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")
-  - [Erno "Emppu"
-    Vuorinen](https://zh.wikipedia.org/wiki/Erno_"Emppu"_Vuorinen "wikilink")
-    – [主吉他](../Page/吉他.md "wikilink")
-  - [Marco
-    Hietala](https://zh.wikipedia.org/wiki/Marco_Hietala "wikilink") –
-    [低音吉他](https://zh.wikipedia.org/wiki/低音吉他 "wikilink")，[人声](https://zh.wikipedia.org/wiki/人声 "wikilink")（3，5，8，9），背景人声（4，10）
-  - [Tuomas
-    Holopainen](https://zh.wikipedia.org/wiki/Tuomas_Holopainen "wikilink")
-    – [键盘](https://zh.wikipedia.org/wiki/键盘乐器 "wikilink")
-  - [Jukka
-    Nevalainen](https://zh.wikipedia.org/wiki/Jukka_Nevalainen "wikilink")
-    – [鼓](../Page/鼓.md "wikilink")和[打击乐器](../Page/打击乐器.md "wikilink")
+  - [Tarja Turunen](https://zh.wikipedia.org/wiki/Tarja_Turunen "wikilink") – [女高音](../Page/女高音.md "wikilink")[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")
+  - [Erno "Emppu" Vuorinen](https://zh.wikipedia.org/wiki/Erno_"Emppu"_Vuorinen "wikilink") – [主吉他](../Page/吉他.md "wikilink")
+  - [Marco Hietala](https://zh.wikipedia.org/wiki/Marco_Hietala "wikilink") – [低音吉他](https://zh.wikipedia.org/wiki/低音吉他 "wikilink")，[人声](https://zh.wikipedia.org/wiki/人声 "wikilink")（3，5，8，9），背景人声（4，10）
+  - [Tuomas Holopainen](https://zh.wikipedia.org/wiki/Tuomas_Holopainen "wikilink") – [键盘](https://zh.wikipedia.org/wiki/键盘乐器 "wikilink")
+  - [Jukka Nevalainen](https://zh.wikipedia.org/wiki/Jukka_Nevalainen "wikilink") – [鼓](../Page/鼓.md "wikilink")和[打击乐器](../Page/打击乐器.md "wikilink")
 
 <!-- end list -->
 
@@ -96,9 +72,7 @@ Child》在芬兰售出超过90,000套\[1\]。在全球，专辑在2002年和200
 
   - [夜愿官方网站](http://www.nightwish.com/)
 
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
-[Category:夜愿音乐专辑](https://zh.wikipedia.org/wiki/Category:夜愿音乐专辑 "wikilink")
-[Category:概念專輯](https://zh.wikipedia.org/wiki/Category:概念專輯 "wikilink")
+[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink") [Category:夜愿音乐专辑](https://zh.wikipedia.org/wiki/Category:夜愿音乐专辑 "wikilink") [Category:概念專輯](https://zh.wikipedia.org/wiki/Category:概念專輯 "wikilink")
 
 1.
 2.

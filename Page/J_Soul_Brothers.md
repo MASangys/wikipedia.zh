@@ -1,33 +1,22 @@
-**J Soul
-Brothers**是[日本](../Page/日本.md "wikilink")的[男子歌舞團體](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，為[放浪一族的組成團體之一](https://zh.wikipedia.org/wiki/放浪一族 "wikilink")，所屬經紀公司為[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")，所屬唱片公司為[rhythm
-zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
+**J Soul Brothers**是[日本](../Page/日本.md "wikilink")的[男子歌舞團體](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，為[放浪一族的組成團體之一](https://zh.wikipedia.org/wiki/放浪一族 "wikilink")，所屬經紀公司為[LDH](../Page/LDH_\(藝能事務所\).md "wikilink")，所屬唱片公司為[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 該團體曾組成過3次：
 
   - 初　代（第一代）：1999年組成，2001年改名為「[EXILE](../Page/放浪兄弟.md "wikilink")」。
   - 二代目（第二代）：2007年組成，2009年全體團員加入EXILE、並結束「J Soul Brothers」名義的活動。
-  - 三代目（第三代）：2010年組成，至今以「**三代目J Soul Brothers**」或者「**三代目J Soul Brothers
-    from EXILE
-    TRIBE**」的名義活動中。[台灣愛貝克思於](https://zh.wikipedia.org/wiki/台灣愛貝克思 "wikilink")《[THE
-    BEST / BLUE
-    IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》專輯台壓版發行時，將團體的中文全名從「**第三代J
-    Soul Brothers from EXILE TRIBE**」變更為「**三代目J Soul Brothers from
-    放浪一族**」。
+  - 三代目（第三代）：2010年組成，至今以「**三代目J Soul Brothers**」或者「**三代目J Soul Brothers from EXILE TRIBE**」的名義活動中。[台灣愛貝克思於](https://zh.wikipedia.org/wiki/台灣愛貝克思 "wikilink")《[THE BEST / BLUE IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》專輯台壓版發行時，將團體的中文全名從「**第三代J Soul Brothers from EXILE TRIBE**」變更為「**三代目J Soul Brothers from 放浪一族**」。
 
 ## 簡歷
 
 ### 前史
 
-  - 1991年，[HIRO組成由](../Page/五十嵐廣行.md "wikilink")[鮑比·布朗命名的舞蹈團體](https://zh.wikipedia.org/wiki/鮑比·布朗 "wikilink")「Japanese
-    Soul Brothers」。
+  - 1991年，[HIRO組成由](../Page/五十嵐廣行.md "wikilink")[鮑比·布朗命名的舞蹈團體](https://zh.wikipedia.org/wiki/鮑比·布朗 "wikilink")「Japanese Soul Brothers」。
   - [MATSU](../Page/松本利夫.md "wikilink")、[USA](../Page/宇佐美吉啟.md "wikilink")、[MAKIDAI](../Page/MAKIDAI.md "wikilink")加入。
 
 ### 初代：1999年至2001年
 
-  - 1999年，以HIRO為中心，[MATSU](../Page/松本利夫.md "wikilink")、[USA](../Page/宇佐美吉啟.md "wikilink")、[MAKIDAI](https://zh.wikipedia.org/wiki/真木大輔 "wikilink")、主唱5人組成「**J
-    Soul Brothers**」。
-  - 1999年4月21日·22日，以支持成員身份參加[DREAMS COME
-    TRUE的日本武道館公演](../Page/DREAMS_COME_TRUE.md "wikilink")。
+  - 1999年，以HIRO為中心，[MATSU](../Page/松本利夫.md "wikilink")、[USA](../Page/宇佐美吉啟.md "wikilink")、[MAKIDAI](https://zh.wikipedia.org/wiki/真木大輔 "wikilink")、主唱5人組成「**J Soul Brothers**」。
+  - 1999年4月21日·22日，以支持成員身份參加[DREAMS COME TRUE的日本武道館公演](../Page/DREAMS_COME_TRUE.md "wikilink")。
   - 1999年10月20日，以單曲『』出道。
   - 2001年，為了專注作家的活動，SASA退出。新主唱[ATSUSHI與](https://zh.wikipedia.org/wiki/佐藤篤志 "wikilink")[SHUN加入](../Page/清木場俊介.md "wikilink")。\[1\]\[2\]
   - 2001年8月24日，改名為「[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")」開始活動，結束該名義的活動。
@@ -35,94 +24,64 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 ### 二代目：2007年 - 2009年
 
   - 2007年1月25日，HIRO監制，以新的成員為新生「**J Soul Brothers**」起動。
-  - 2007年5月11日在「EXILE LIVE TOUR 2007 EXILE
-    EVOLUTION」發表組成。8月4日·5日的廵廻最後公演，成員首次公開表演。主唱是「EXILE
-    VOCAL BATTLE AUDITION 2006 ～ ASIAN DREAM
-    ～」出身的[NESMITH](../Page/NESMITH.md "wikilink")及[SHOKICHI](../Page/SHOKICHI.md "wikilink")，表演者則是[KENCHI](../Page/KENCHI.md "wikilink")，[KEIJI](../Page/KEIJI.md "wikilink")，[TETSUYA](../Page/TETSUYA_\(舞者\).md "wikilink")。
+  - 2007年5月11日在「EXILE LIVE TOUR 2007 EXILE EVOLUTION」發表組成。8月4日·5日的廵廻最後公演，成員首次公開表演。主唱是「EXILE VOCAL BATTLE AUDITION 2006 ～ ASIAN DREAM ～」出身的[NESMITH](../Page/NESMITH.md "wikilink")及[SHOKICHI](../Page/SHOKICHI.md "wikilink")，表演者則是[KENCHI](../Page/KENCHI.md "wikilink")，[KEIJI](../Page/KEIJI.md "wikilink")，[TETSUYA](../Page/TETSUYA_\(舞者\).md "wikilink")。
   - 2007年11月10日，表演者[NAOTO](../Page/NAOTO.md "wikilink")與[NAOKI加入](https://zh.wikipedia.org/wiki/NAOKI "wikilink")，7位成員首次全體公開表演。
   - 2008年5月7日，以單曲『[WE\!](../Page/WE!.md "wikilink")』作獨立製作單曲出道。
   - 2008年10月2日起，開始為期約1個月以1台麵包車移動全國的「再次武者修行」48公演。
   - 2008年11月29日起參與EXILE舉行的巨蛋巡廻「EXILE PERFECT LIVE 2008」演出。
-  - 2009年2月25日，專輯『[J Soul
-    Brothers](../Page/J_Soul_Brothers_\(J_Soul_Brothers專輯\).md "wikilink")』發售，完成主流出道。
-  - 2009年2月27日，在[MUSIC
-    STATION首次演出](../Page/MUSIC_STATION.md "wikilink")，表演『』。
+  - 2009年2月25日，專輯『[J Soul Brothers](../Page/J_Soul_Brothers_\(J_Soul_Brothers專輯\).md "wikilink")』發售，完成主流出道。
+  - 2009年2月27日，在[MUSIC STATION首次演出](../Page/MUSIC_STATION.md "wikilink")，表演『』。
   - 2009年3月1日，發表全體成員加入EXILE，結束該名義的活動。
 
 **短暫性復活**
 
-  - 2011年6月，以「**二代目J Soul Brothers**」名義參與第三代J Soul
-    Brothers的專輯，並同時參與在同月舉行的「二代目J Soul
-    Brothers VS 三代目J Soul Brothers Live Tour 2011～EXILE TRIBE～」演出。
+  - 2011年6月，以「**二代目J Soul Brothers**」名義參與第三代J Soul Brothers的專輯，並同時參與在同月舉行的「二代目J Soul Brothers VS 三代目J Soul Brothers Live Tour 2011～EXILE TRIBE～」演出。
   - 2012年4月至7月參與「EXILE TRIBE LIVE TOUR 2012～TOWER OF WISH～」演出。
-  - 2014年6月參與「EXILE TRIBE PERFECT YEAR 2014 SPECIAL STAGE “THE SURVIVAL”
-    IN SAITAMA SUPER ARENA 10DAYS」的演出。
+  - 2014年6月參與「EXILE TRIBE PERFECT YEAR 2014 SPECIAL STAGE “THE SURVIVAL” IN SAITAMA SUPER ARENA 10DAYS」的演出。
 
 ### 第三代：2010年至今
 
 **2010年**
 
-  - 7月19日播放的[週刊EXILE](../Page/週刊EXILE.md "wikilink")發表「**第三代J Soul
-    Brothers**」誕生的消息。表演者是EXILE裏的成員NAOTO和NAOKI、劇團EXILE風組，再從「EXILE
-    Presents VOCAL BATTLE AUDITION 2\~ 給懷抱夢想的年輕人們 \~」最終名單選出主唱2名。
+  - 7月19日播放的[週刊EXILE](../Page/週刊EXILE.md "wikilink")發表「**第三代J Soul Brothers**」誕生的消息。表演者是EXILE裏的成員NAOTO和NAOKI、劇團EXILE風組，再從「EXILE Presents VOCAL BATTLE AUDITION 2\~ 給懷抱夢想的年輕人們 \~」最終名單選出主唱2名。
   - 9月15日，最後現場表演審查結束後，合格者決定為[今市隆二](../Page/今市隆二.md "wikilink")和[登坂廣臣](../Page/登坂廣臣.md "wikilink")。
-  - 9月27日，在「FANTASY後夜祭
-    ～EXILE魂～」中，加上未發表的2名表演者，劇團EXILE風組的和大學生的[岩田剛典](../Page/岩田剛典.md "wikilink")，7個成員首次全體公開表演。
-  - 11月10日，以「EXILE Presents VOCAL BATTLE AUDITION 2\~ 給懷抱夢想的年輕人們
-    \~」的3次審查課題曲『[Best Friend's
-    Girl](../Page/Best_Friend's_Girl.md "wikilink")』出道。
-  - 12月1日，第二張單曲『[On Your
-    Mark〜奇蹟之光〜](../Page/On_Your_Mark〜奇蹟之光〜.md "wikilink")』發售。並在12月3日播出的MUSIC
-    STATION首次演出，表演了該曲。
+  - 9月27日，在「FANTASY後夜祭 ～EXILE魂～」中，加上未發表的2名表演者，劇團EXILE風組的和大學生的[岩田剛典](../Page/岩田剛典.md "wikilink")，7個成員首次全體公開表演。
+  - 11月10日，以「EXILE Presents VOCAL BATTLE AUDITION 2\~ 給懷抱夢想的年輕人們 \~」的3次審查課題曲『[Best Friend's Girl](../Page/Best_Friend's_Girl.md "wikilink")』出道。
+  - 12月1日，第二張單曲『[On Your Mark〜奇蹟之光〜](../Page/On_Your_Mark〜奇蹟之光〜.md "wikilink")』發售。並在12月3日播出的MUSIC STATION首次演出，表演了該曲。
 
 **2011年**
 
-  - 6月28日，與二代目J Soul Brothers（現在是EXILE成員）舉行聯合廵廻演唱會「二代目J Soul Brothers VS
-    三代目J Soul Brothers Live Tour 2011～EXILE
-    TRIBE～」。於兵庫縣和埼玉縣舉行15場公演，動員約15萬人。
-  - 9月7日，被[日本電視台](../Page/日本電視台.md "wikilink")劇集「[鐵拳對鋼拳](../Page/鐵拳對鋼拳.md "wikilink")」起用為主題歌的第四張單曲『[FIGHTERS](../Page/FIGHTERS.md "wikilink")』獲得首次[Oricon單曲週榜的首位](../Page/Oricon公信榜.md "wikilink")，也是歷代的J
-    Soul Brothers的第一次。
+  - 6月28日，與二代目J Soul Brothers（現在是EXILE成員）舉行聯合廵廻演唱會「二代目J Soul Brothers VS 三代目J Soul Brothers Live Tour 2011～EXILE TRIBE～」。於兵庫縣和埼玉縣舉行15場公演，動員約15萬人。
+  - 9月7日，被[日本電視台](../Page/日本電視台.md "wikilink")劇集「[鐵拳對鋼拳](../Page/鐵拳對鋼拳.md "wikilink")」起用為主題歌的第四張單曲『[FIGHTERS](../Page/FIGHTERS.md "wikilink")』獲得首次[Oricon單曲週榜的首位](../Page/Oricon公信榜.md "wikilink")，也是歷代的J Soul Brothers的第一次。
 
 **2012年**
 
   - 4月起參與「EXILE TRIBE LIVE TOUR 2012～TOWER OF WISH～」演出。
-  - 9月1日，舉行首次單獨巡廻演唱會「第三代J Soul Brothers LIVE TOUR
-    2012『0～ZERO～』」。於9處地方舉行27場公演，動員約25萬人。
+  - 9月1日，舉行首次單獨巡廻演唱會「第三代J Soul Brothers LIVE TOUR 2012『0～ZERO～』」。於9處地方舉行27場公演，動員約25萬人。
   - 12月30日，第七張單曲『[0〜ZERO〜](../Page/0〜ZERO〜.md "wikilink")』所收錄的『煙火』獲得優秀作品獎，為[日本唱片大獎](../Page/日本唱片大獎.md "wikilink")首次出場。
   - 12月31日，以『煙火』在[NHK紅白歌合戰首次出場](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")。
 
 **2013年**
 
   - 2013年1月1日，第三張專輯『[奇蹟](https://zh.wikipedia.org/wiki/MIRACLE_\(第三代J_Soul_Brothers的專輯\) "wikilink")』首次並連續2週獲得Oricon專輯週榜首位。
-  - 2013年4月24日，以「三代目J Soul Brothers from EXILE
-    TRIBE」名義發行第九張單曲『[SPARK](https://zh.wikipedia.org/wiki/SPARK_\(第三代J_Soul_Brothers的曲\) "wikilink")』。
+  - 2013年4月24日，以「三代目J Soul Brothers from EXILE TRIBE」名義發行第九張單曲『[SPARK](https://zh.wikipedia.org/wiki/SPARK_\(第三代J_Soul_Brothers的曲\) "wikilink")』。
 
 **2014年**
 
-  - 2014年1月1日，第四張原創專輯及首張精選專輯『[THE BEST / BLUE
-    IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")』發售；該專輯首次連續4週獲得Oricon專輯週榜首位。
-  - 1月8日，EXILE TRIBE PERFECT YEAR 2014的一環，第二次的單獨巡迴演唱會ー「三代目J Soul
-    Brothers LIVE TOUR 2014 BLUE
-    IMPACT」開始。日本全國13都市34公演,共動員40萬人。\[3\][三代目JSBがツアーファイナル　40万人を熱狂の渦に](http://www.oricon.co.jp/news/2036562/full/)</ref>。
-  - 6月參與「EXILE TRIBE PERFECT YEAR 2014 SPECIAL STAGE “THE SURVIVAL” IN
-    SAITAMA SUPER ARENA 10DAYS」的演出。
-  - 6月25日同日發售的第13張單曲「[R.Y.U.S.E.I.](../Page/R.Y.U.S.E.I..md "wikilink")」、演唱會影像『[三代目J
-    Soul Brothers LIVE TOUR 2014 “BLUE
-    IMPACT”](https://zh.wikipedia.org/wiki/三代目J_Soul_Brothers_LIVE_TOUR_2014_“BLUE_IMPACT” "wikilink")』的DVD和Blu-ray
-    Disc皆獲得首位。成為史上單曲・DVD・Blu-ray Disc三部門同時首位的第三組\[4\]。
+  - 2014年1月1日，第四張原創專輯及首張精選專輯『[THE BEST / BLUE IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")』發售；該專輯首次連續4週獲得Oricon專輯週榜首位。
+  - 1月8日，EXILE TRIBE PERFECT YEAR 2014的一環，第二次的單獨巡迴演唱會ー「三代目J Soul Brothers LIVE TOUR 2014 BLUE IMPACT」開始。日本全國13都市34公演,共動員40萬人。\[3\][三代目JSBがツアーファイナル　40万人を熱狂の渦に](http://www.oricon.co.jp/news/2036562/full/)</ref>。
+  - 6月參與「EXILE TRIBE PERFECT YEAR 2014 SPECIAL STAGE “THE SURVIVAL” IN SAITAMA SUPER ARENA 10DAYS」的演出。
+  - 6月25日同日發售的第13張單曲「[R.Y.U.S.E.I.](../Page/R.Y.U.S.E.I..md "wikilink")」、演唱會影像『[三代目J Soul Brothers LIVE TOUR 2014 “BLUE IMPACT”](https://zh.wikipedia.org/wiki/三代目J_Soul_Brothers_LIVE_TOUR_2014_“BLUE_IMPACT” "wikilink")』的DVD和Blu-ray Disc皆獲得首位。成為史上單曲・DVD・Blu-ray Disc三部門同時首位的第三組\[4\]。
   - 2月30日、以「R.Y.U.S.E.I.」首次獲得[第56回日本唱片大獎的大奬](https://zh.wikipedia.org/wiki/第56回日本唱片大獎 "wikilink")。\[5\]。
 
 **2015年**
 
-  - 1月28日、第5張原創專輯『[PLANET
-    SEVEN](../Page/PLANET_SEVEN.md "wikilink")』發行。獲得ORICON年榜「專輯部門作品銷售額」首位\[6\]。
-  - 5月27日 - 10月18日、舉行首次巨蛋巡迴演唱會「三代目 J Soul Brothers LIVE TOUR 2015 BLUE
-    PLANET」。
+  - 1月28日、第5張原創專輯『[PLANET SEVEN](../Page/PLANET_SEVEN.md "wikilink")』發行。獲得ORICON年榜「專輯部門作品銷售額」首位\[6\]。
+  - 5月27日 - 10月18日、舉行首次巨蛋巡迴演唱會「三代目 J Soul Brothers LIVE TOUR 2015 BLUE PLANET」。
 
 **2016年**
 
-  - 12月24日、ORICON年榜『[三代目J Soul Brothers LIVE TOUR 2015「BLUE
-    PLANET」](https://zh.wikipedia.org/wiki/三代目J_Soul_Brothers_LIVE_TOUR_2015「BLUE_PLANET」 "wikilink")』獲得首位\[7\]。
+  - 12月24日、ORICON年榜『[三代目J Soul Brothers LIVE TOUR 2015「BLUE PLANET」](https://zh.wikipedia.org/wiki/三代目J_Soul_Brothers_LIVE_TOUR_2015「BLUE_PLANET」 "wikilink")』獲得首位\[7\]。
 
 **2017年**
 
@@ -1059,13 +1018,10 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ### 聯合
 
-  - 二代目J Soul Brothers VS 三代目J Soul Brothers Live Tour 2011 〜EXILE
-    TRIBE〜
+  - 二代目J Soul Brothers VS 三代目J Soul Brothers Live Tour 2011 〜EXILE TRIBE〜
   - EXILE TRIBE LIVE TOUR 2012 〜TOWER OF WISH〜
-  - EXILE TRIBE PERFECT YEAR 2014 SPECIAL STAGE "THE SURVIVAL" IN
-    SAITAMA SUPER ARENA 10DAYS
-  - EXILE TRIBE PERFECT YEAR LIVE TOUR TOWER OF WISH 2014 〜THE
-    REVOLUTION〜
+  - EXILE TRIBE PERFECT YEAR 2014 SPECIAL STAGE "THE SURVIVAL" IN SAITAMA SUPER ARENA 10DAYS
+  - EXILE TRIBE PERFECT YEAR LIVE TOUR TOWER OF WISH 2014 〜THE REVOLUTION〜
   - HiGH\&LOW THE LIVE
 
 ## 演出
@@ -1074,11 +1030,9 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ### 電視節目
 
-  - [週刊EXILE](../Page/週刊EXILE.md "wikilink")（[TBS電視](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")、2010年
-    - ）
+  - [週刊EXILE](../Page/週刊EXILE.md "wikilink")（[TBS電視](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")、2010年 - ）
 
-  - （[MBS](https://zh.wikipedia.org/wiki/MBS "wikilink")・TBS電視、2011年 -
-    2012年）
+  - （[MBS](https://zh.wikipedia.org/wiki/MBS "wikilink")・TBS電視、2011年 - 2012年）
 
   - （2014年 - 、富士電視台）
 
@@ -1098,17 +1052,14 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
   - [ANA](../Page/全日本空輸.md "wikilink")「旅割」（2015年）
 
-  - [軟庫集團](https://zh.wikipedia.org/wiki/軟庫集團 "wikilink")「Sponavi
-    Live」（2016年）
+  - [軟庫集團](https://zh.wikipedia.org/wiki/軟庫集團 "wikilink")「Sponavi Live」（2016年）
 
   - 江崎固力果「Pocky」（2017年 - ）
 
 ### PV
 
-  - EXILE
-    「[Bloom](https://zh.wikipedia.org/wiki/EXILE_BEST_HITS_-LOVE_SIDE_/_SOUL_SIDE- "wikilink")」（2012年）
-  - EXILE 「[放浪榮耀
-    ～因為如此深愛這世界～](../Page/放浪榮耀_～因為如此深愛這世界～.md "wikilink")」（2013年）
+  - EXILE 「[Bloom](https://zh.wikipedia.org/wiki/EXILE_BEST_HITS_-LOVE_SIDE_/_SOUL_SIDE- "wikilink")」（2012年）
+  - EXILE 「[放浪榮耀 ～因為如此深愛這世界～](../Page/放浪榮耀_～因為如此深愛這世界～.md "wikilink")」（2013年）
 
 ### 廣播
 
@@ -1443,8 +1394,7 @@ LIVE TOUR 2014「BLUE IMPACT」</p></td>
   - **二代目**
       -
   - **三代目**
-      - [三代目 J Soul Brothers from EXILE TRIBE OFFICIAL
-        WEBSITE](http://www.jsoulb.jp/)
+      - [三代目 J Soul Brothers from EXILE TRIBE OFFICIAL WEBSITE](http://www.jsoulb.jp/)
 
       - [所屬事務所LDH官方中文團體簡介](http://www.ldh.co.jp/chh/artist/musician/jsoulbrothers/)
 
@@ -1455,8 +1405,7 @@ LIVE TOUR 2014「BLUE IMPACT」</p></td>
 
       - [EXILE TRIBE mobile](http://m.tribe-m.jp)
 
-      - [三代目 J Soul Brothers オフィシャルブログ Powered by
-        Ameba](http://ameblo.jp/jsb3-official) (2013年12月 - 2014年4月)
+      - [三代目 J Soul Brothers オフィシャルブログ Powered by Ameba](http://ameblo.jp/jsb3-official) (2013年12月 - 2014年4月)
   - **J.S.B** - J Soul Brothers的服裝品牌
       - [J.S.B OFFICIAL WEBSITE](http://www.jsb-official.jp)
 
@@ -1471,14 +1420,7 @@ LIVE TOUR 2014「BLUE IMPACT」</p></td>
 
 {{-}}
 
-[Category:J_Soul_Brothers](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers "wikilink")
-[Category:EXILE_TRIBE](https://zh.wikipedia.org/wiki/Category:EXILE_TRIBE "wikilink")
-[Category:Rhythm_zone](https://zh.wikipedia.org/wiki/Category:Rhythm_zone "wikilink")
-[Category:日本唱片大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎者 "wikilink")
-[Category:Japan_Hot_100年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Japan_Hot_100年榜冠軍獲得者 "wikilink")
-[Category:日本有線大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本有線大獎獲獎者 "wikilink")
-[Category:Oricon卡拉OK年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon卡拉OK年榜冠軍獲得者 "wikilink")
-[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
+[Category:J_Soul_Brothers](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers "wikilink") [Category:EXILE_TRIBE](https://zh.wikipedia.org/wiki/Category:EXILE_TRIBE "wikilink") [Category:Rhythm_zone](https://zh.wikipedia.org/wiki/Category:Rhythm_zone "wikilink") [Category:日本唱片大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎獲獎者 "wikilink") [Category:Japan_Hot_100年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Japan_Hot_100年榜冠軍獲得者 "wikilink") [Category:日本有線大獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本有線大獎獲獎者 "wikilink") [Category:Oricon卡拉OK年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon卡拉OK年榜冠軍獲得者 "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
 
@@ -1526,10 +1468,8 @@ LIVE TOUR 2014「BLUE IMPACT」</p></td>
 
 24.
 
-25. [「NexTone
-    Award 2017」](https://www.barks.jp/news/?id=1000140353)BARKS（2017年4月5日）2017年4月5日閲覧。
+25. [「NexTone Award 2017」](https://www.barks.jp/news/?id=1000140353)BARKS（2017年4月5日）2017年4月5日閲覧。
 
-26. [「2017年年間ライブ推定観客動員ランキング発表　総合第1位は三代目JSB」](https://realsound.jp/2018/01/post-151602.html)real
-    sound（2018年1月25日）2018年1月25日閲覧。
+26. [「2017年年間ライブ推定観客動員ランキング発表　総合第1位は三代目JSB」](https://realsound.jp/2018/01/post-151602.html)real sound（2018年1月25日）2018年1月25日閲覧。
 
 27.

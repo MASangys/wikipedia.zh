@@ -1,13 +1,6 @@
-《**舞力全开Wii**》（）是一款由[育碧](../Page/育碧.md "wikilink")巴黎和[育碧](../Page/育碧.md "wikilink")布加勒斯特联合开发，并由[任天堂](../Page/任天堂.md "wikilink")发行于[Wii](../Page/Wii.md "wikilink")平台上的[音乐韵律类](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")[舞蹈游戏](https://zh.wikipedia.org/wiki/舞蹈游戏 "wikilink")。本作是[Just
-Dance系列在日本地区的特殊版本](https://zh.wikipedia.org/wiki/Just_Dance系列 "wikilink")，游戏将系列一直使用的欧美音乐曲目更替为[日本流行音乐](https://zh.wikipedia.org/wiki/日本流行音乐 "wikilink")，但保留了一些在系列前两作《[Just
-Dance](https://zh.wikipedia.org/wiki/Just_Dance_\(遊戲\) "wikilink")》和《[Just
-Dance
-2](https://zh.wikipedia.org/wiki/Just_Dance_2 "wikilink")》中高人气的曲目\[1\]。《Just
-Dance Wii》主要游戏架构基于《Just Dance
-2》，保留了大多数的游戏模式，但取消了在线商店。本作于2011年10月13日发售，游戏是该系列在日本市场推出的第一款作品。[任天堂溥天](../Page/任天堂溥天.md "wikilink")及[任天堂香港都有引进日文原版](https://zh.wikipedia.org/wiki/任天堂香港 "wikilink")。
+《**舞力全开Wii**》（）是一款由[育碧](../Page/育碧.md "wikilink")巴黎和[育碧](../Page/育碧.md "wikilink")布加勒斯特联合开发，并由[任天堂](../Page/任天堂.md "wikilink")发行于[Wii](../Page/Wii.md "wikilink")平台上的[音乐韵律类](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")[舞蹈游戏](https://zh.wikipedia.org/wiki/舞蹈游戏 "wikilink")。本作是[Just Dance系列在日本地区的特殊版本](https://zh.wikipedia.org/wiki/Just_Dance系列 "wikilink")，游戏将系列一直使用的欧美音乐曲目更替为[日本流行音乐](https://zh.wikipedia.org/wiki/日本流行音乐 "wikilink")，但保留了一些在系列前两作《[Just Dance](https://zh.wikipedia.org/wiki/Just_Dance_\(遊戲\) "wikilink")》和《[Just Dance 2](https://zh.wikipedia.org/wiki/Just_Dance_2 "wikilink")》中高人气的曲目\[1\]。《Just Dance Wii》主要游戏架构基于《Just Dance 2》，保留了大多数的游戏模式，但取消了在线商店。本作于2011年10月13日发售，游戏是该系列在日本市场推出的第一款作品。[任天堂溥天](../Page/任天堂溥天.md "wikilink")及[任天堂香港都有引进日文原版](https://zh.wikipedia.org/wiki/任天堂香港 "wikilink")。
 
-游戏续作《[舞力全开Wii
-2](https://zh.wikipedia.org/wiki/舞力全开Wii_2 "wikilink")》于2012年7月在日本发售\[2\]。
+游戏续作《[舞力全开Wii 2](https://zh.wikipedia.org/wiki/舞力全开Wii_2 "wikilink")》于2012年7月在日本发售\[2\]。
 
 ## 曲目列表
 
@@ -358,10 +351,8 @@ Dance Wii》主要游戏架构基于《Just Dance
 </table>
 
   - "\*" 表示本曲目为翻唱版本，并非由歌曲原唱所演绎。
-  - "\*\*" 表示本曲目收录在《[Just Dance
-    3](https://zh.wikipedia.org/wiki/Just_Dance_3 "wikilink")》的[DLC中](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")。
-  - "\*\*\*" 表示本曲目同样收录在《[Just
-    Dance：精选集](https://zh.wikipedia.org/wiki/Just_Dance：精选集 "wikilink")》中。
+  - "\*\*" 表示本曲目收录在《[Just Dance 3](https://zh.wikipedia.org/wiki/Just_Dance_3 "wikilink")》的[DLC中](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")。
+  - "\*\*\*" 表示本曲目同样收录在《[Just Dance：精选集](https://zh.wikipedia.org/wiki/Just_Dance：精选集 "wikilink")》中。
   - (U) 表示本曲目为隐藏曲目。若要解锁此曲目，需先玩遍《舞力全开Wii》中的所有曲目。
 
 ## 发行
@@ -376,15 +367,8 @@ Dance Wii》主要游戏架构基于《Just Dance
   - [香港官方网站](http://www.nintendo.com.hk/justdancewii/index.htm)
   - [台湾官方网站](http://www.nintendo.tw/justdancewii/index.htm)
 
-[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
-[Category:舞力全开系列](https://zh.wikipedia.org/wiki/Category:舞力全开系列 "wikilink")
-[Category:任天堂游戏](https://zh.wikipedia.org/wiki/Category:任天堂游戏 "wikilink")
-[Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink")
-[Category:Wii独占游戏](https://zh.wikipedia.org/wiki/Category:Wii独占游戏 "wikilink")
-[Category:法國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:法國開發電子遊戲 "wikilink")
-[Category:意大利开发电子游戏](https://zh.wikipedia.org/wiki/Category:意大利开发电子游戏 "wikilink")
+[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:舞力全开系列](https://zh.wikipedia.org/wiki/Category:舞力全开系列 "wikilink") [Category:任天堂游戏](https://zh.wikipedia.org/wiki/Category:任天堂游戏 "wikilink") [Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink") [Category:Wii独占游戏](https://zh.wikipedia.org/wiki/Category:Wii独占游戏 "wikilink") [Category:法國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:法國開發電子遊戲 "wikilink") [Category:意大利开发电子游戏](https://zh.wikipedia.org/wiki/Category:意大利开发电子游戏 "wikilink")
 
-1.  ["Japanese Version of Just Dance Wii Packed with
-    JPOP"](https://archive.is/20120722233327/www.andriasang.com/e/blog/2011/09/02/japanese_just_dance/)
+1.  ["Japanese Version of Just Dance Wii Packed with JPOP"](https://archive.is/20120722233327/www.andriasang.com/e/blog/2011/09/02/japanese_just_dance/)
 2.
 3.

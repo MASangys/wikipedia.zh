@@ -22,8 +22,6 @@ U30CG型柴油机车于1967年11月交付聖塔菲鐵路\[1\]，机车编号为�
 
 ## 参考文献
 
-[Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink")
-[Category:GE制铁路机车](https://zh.wikipedia.org/wiki/Category:GE制铁路机车 "wikilink")
-[Category:Co-Co轴式机车](https://zh.wikipedia.org/wiki/Category:Co-Co轴式机车 "wikilink")
+[Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink") [Category:GE制铁路机车](https://zh.wikipedia.org/wiki/Category:GE制铁路机车 "wikilink") [Category:Co-Co轴式机车](https://zh.wikipedia.org/wiki/Category:Co-Co轴式机车 "wikilink")
 
 1.

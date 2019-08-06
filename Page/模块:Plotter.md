@@ -170,8 +170,7 @@ function p.piechart(frame)
 
 <div style="position:absolute;top:0px;left:0px;width:'..2*radius..'px;height:'..2*radius..'px;z-index:1000;">
 
-\\n<imagemap>\\nFile:transparent600.gif|'..2\*radius..'px\\n'..imgmap..'desc
-none\\n</imagemap>
+\\n<imagemap>\\nFile:transparent600.gif|'..2\*radius..'px\\n'..imgmap..'desc none\\n</imagemap>
 
 </div>
 
@@ -288,8 +287,7 @@ function p.main(frame)
 
 end
 
-\-- data structure is -- data\[y\]\[x\].value -- maxyval\[y\] --
-data\[y\].color -- data\[y\].legend -- data.legend\[x\]
+\-- data structure is -- data\[y\]\[x\].value -- maxyval\[y\] -- data\[y\].color -- data\[y\].legend -- data.legend\[x\]
 
 function p.bar(frame)
 

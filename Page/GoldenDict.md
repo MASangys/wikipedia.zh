@@ -2,9 +2,7 @@
 
 該計劃旨在建立一個特性充分的辭典檢索程式。
 
-與
-[StarDict（星際譯王）類似](https://zh.wikipedia.org/wiki/星际译王 "wikilink")，但GoldenDict
-較為持續更新。
+與 [StarDict（星際譯王）類似](https://zh.wikipedia.org/wiki/星际译王 "wikilink")，但GoldenDict 較為持續更新。
 
 ## 特性
 
@@ -18,8 +16,7 @@
 
       - （.index、.dict、.dz）
 
-      - [ABBYY
-        Lingvo](https://zh.wikipedia.org/wiki/ABBYY_Lingvo "wikilink")（.dsl）源檔案，連同縮寫檔案。本檔案可由壓縮。辭典資源可打包進[Zip檔](https://zh.wikipedia.org/wiki/Zip "wikilink")。
+      - [ABBYY Lingvo](https://zh.wikipedia.org/wiki/ABBYY_Lingvo "wikilink")（.dsl）源檔案，連同縮寫檔案。本檔案可由壓縮。辭典資源可打包進[Zip檔](https://zh.wikipedia.org/wiki/Zip "wikilink")。
 
       - ABBYY Lingvo（.lsa、.dat）音訊檔案。可單獨索引，也可從.dsl檔索引。
 
@@ -46,11 +43,9 @@
   - 可以向外部程式傳送詞彙，還可連帶其他辭典結果一併輸出。
   - 完全的[Unicode支援](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
   - 支援多種語言的[音譯](https://zh.wikipedia.org/wiki/音譯 "wikilink")。
-  - 支援Windows與OS
-    X的本地[TTS](https://zh.wikipedia.org/wiki/TTS "wikilink")。
+  - 支援Windows與OS X的本地[TTS](https://zh.wikipedia.org/wiki/TTS "wikilink")。
   - 使用由[Qt](../Page/Qt.md "wikilink")4/5介面提供的標籤式瀏覽。
-  - 支援[NPAPI](../Page/NPAPI.md "wikilink")網路插件（如[Flash
-    Player](https://zh.wikipedia.org/wiki/Flash_Player "wikilink")）。
+  - 支援[NPAPI](../Page/NPAPI.md "wikilink")網路插件（如[Flash Player](https://zh.wikipedia.org/wiki/Flash_Player "wikilink")）。
   - 支援辭典定制的[圖示](../Page/圖示.md "wikilink")。
   - 平臺支援如右：Linux/X11、Mac OS X、MaeMo、Android、Windows以及其他移植版本。
   - 使用[Forvo](../Page/Forvo.md "wikilink")線上服務時，允許發音音訊播放。
@@ -59,26 +54,16 @@
 
 ## 外部連結
 
-  - [Independent review in Linux
-    Magazine](http://www.linux-magazine.com/content/view/full/39054)
-  - [Description of Goldendict 1.0.1 at
-    Softpedia](http://www.softpedia.com/get/Others/Home-Education/GoldenDict.shtml)
+  - [Independent review in Linux Magazine](http://www.linux-magazine.com/content/view/full/39054)
+  - [Description of Goldendict 1.0.1 at Softpedia](http://www.softpedia.com/get/Others/Home-Education/GoldenDict.shtml)
   - [GoldenDict web site](http://goldendict.org/)
   - [Download page](http://goldendict.org/download.php)
-  - [Early Access Builds for
-    Windows](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows)
-  - [Download early access builds for Windows, Linux/X11 and
-    MacOS](https://github.com/goldendict/goldendict/wiki/_pages)
-  - [Download nightly builds (in English and Russian, look for the
-    latest post)](http://goldendict.org/forum/viewtopic.php?f=8&t=77)
-  - [Discussion forum (in English and
-    Russian)](http://goldendict.org/forum/)
-  - [Another discussion forum (in
-    Russian)](http://forum.ru-board.com/topic.cgi?forum=5&topic=30250)
-  - In StarDict format:
-    [HowToCreateDictionary](https://web.archive.org/web/20100728230559/http://stardict.sourceforge.net/HowToCreateDictionary)
-    and
-    [StarDictFileFormat](https://web.archive.org/web/20100914232004/http://stardict.sourceforge.net/StarDictFileFormat)
+  - [Early Access Builds for Windows](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows)
+  - [Download early access builds for Windows, Linux/X11 and MacOS](https://github.com/goldendict/goldendict/wiki/_pages)
+  - [Download nightly builds (in English and Russian, look for the latest post)](http://goldendict.org/forum/viewtopic.php?f=8&t=77)
+  - [Discussion forum (in English and Russian)](http://goldendict.org/forum/)
+  - [Another discussion forum (in Russian)](http://forum.ru-board.com/topic.cgi?forum=5&topic=30250)
+  - In StarDict format: [HowToCreateDictionary](https://web.archive.org/web/20100728230559/http://stardict.sourceforge.net/HowToCreateDictionary) and [StarDictFileFormat](https://web.archive.org/web/20100914232004/http://stardict.sourceforge.net/StarDictFileFormat)
 
 ## 参见
 
@@ -87,19 +72,11 @@
 
 {{-}}
 
-[Category:自由词典软件](https://zh.wikipedia.org/wiki/Category:自由词典软件 "wikilink")
-[Category:機器翻譯](https://zh.wikipedia.org/wiki/Category:機器翻譯 "wikilink")
-[Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
-[Category:应用软件](https://zh.wikipedia.org/wiki/Category:应用软件 "wikilink")
+[Category:自由词典软件](https://zh.wikipedia.org/wiki/Category:自由词典软件 "wikilink") [Category:機器翻譯](https://zh.wikipedia.org/wiki/Category:機器翻譯 "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink") [Category:应用软件](https://zh.wikipedia.org/wiki/Category:应用软件 "wikilink")
 
-1.  [File formats supported by
-    GoldenDict](http://goldendict.org/wiki/index.php/Supported_dictionary_formats)
+1.  [File formats supported by GoldenDict](http://goldendict.org/wiki/index.php/Supported_dictionary_formats)
 2.
-3.  [MDict (.mdx/.mdd) format support (by Timon
-    Wong)](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows#goldendict-101-763-g8b23f07)
-4.  [Add support for Epwing
-    dictionaries](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows#150-rc-394-g141703a)
-5.  [Implement full-text
-    search](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows#150-rc-358-g6cb186a)
-6.  [Add "Favorites"
-    feature](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows#150-rc2-135-g58e41fe)
+3.  [MDict (.mdx/.mdd) format support (by Timon Wong)](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows#goldendict-101-763-g8b23f07)
+4.  [Add support for Epwing dictionaries](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows#150-rc-394-g141703a)
+5.  [Implement full-text search](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows#150-rc-358-g6cb186a)
+6.  [Add "Favorites" feature](https://github.com/goldendict/goldendict/wiki/Early-Access-Builds-for-Windows#150-rc2-135-g58e41fe)

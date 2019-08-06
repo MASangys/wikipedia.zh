@@ -4,8 +4,7 @@ IPv6主机可以使用[无状态地址自动配置](https://zh.wikipedia.org/wik
 
 使用无状态自动配置的IPv6主机可能会需要除了IP地址以外的其他信息。DHCPv6可被用来获取这样的信息，哪怕这些信息对于配置IP地址毫无用处。配置[DNS服务器无需使用DHCPv](../Page/域名系统.md "wikilink")6，它们可以使用无状态自动配置所需的[邻居发现协议来进行配置](https://zh.wikipedia.org/wiki/邻居发现协议 "wikilink")\[1\]。
 
-IPv6路由器，如家庭路由器，必须在无需人工干预的情况下被自动配置。这样的路由器不仅需要一个IPv6地址用来与上游路由器通信，还需要一个IPv6前缀用来配置下游的设备。DHCPv6
-[前缀代理](../Page/前缀代理.md "wikilink")提供了配置此类路由器的机制。
+IPv6路由器，如家庭路由器，必须在无需人工干预的情况下被自动配置。这样的路由器不仅需要一个IPv6地址用来与上游路由器通信，还需要一个IPv6前缀用来配置下游的设备。DHCPv6 [前缀代理](../Page/前缀代理.md "wikilink")提供了配置此类路由器的机制。
 
 ## 实现
 
@@ -29,14 +28,10 @@ DHCP唯一标识符（DUID）用于客户端从DHCPv6服务器获得IP地址。�
 ## IETF标准
 
   - RFC 3315, "Dynamic Host Configuration Protocol for IPv6 (DHCPv6)"
-  - RFC 3319, "Dynamic Host Configuration Protocol (DHCPv6) Options for
-    Session Initiation Protocol (SIP) Servers"
-  - RFC 3633, "IPv6 Prefix Options for Dynamic Host Configuration
-    Protocol (DHCP) version 6"
-  - RFC 3646, "DNS Configuration options for Dynamic Host Configuration
-    Protocol for IPv6 (DHCPv6)"
-  - RFC 3736, "Stateless Dynamic Host Configuration Protocol (DHCP)
-    Service for IPv6"
+  - RFC 3319, "Dynamic Host Configuration Protocol (DHCPv6) Options for Session Initiation Protocol (SIP) Servers"
+  - RFC 3633, "IPv6 Prefix Options for Dynamic Host Configuration Protocol (DHCP) version 6"
+  - RFC 3646, "DNS Configuration options for Dynamic Host Configuration Protocol for IPv6 (DHCPv6)"
+  - RFC 3736, "Stateless Dynamic Host Configuration Protocol (DHCP) Service for IPv6"
   - RFC 5007, "DHCPv6 Leasequery"
   - RFC 6221, "Lightweight DHCPv6 Relay Agent"
 
@@ -44,19 +39,11 @@ DHCP唯一标识符（DUID）用于客户端从DHCPv6服务器获得IP地址。�
 
 ## 外部链接
 
-  - [IPv6 Intelligence:
-    DHCPv6](http://ipv6int.net/software/index.html#dhcpv6), comparison
-    of DHCPv6 packages and implementations (Last updated: April, 2009)
-  - [IPv6 Ready:
-    DHCPv6](https://www.ipv6ready.org/db/index.php/public/search/?l=&c=&ds=&de=&pc=&ap=2&oem=&etc=D&fw=&vn=&do=1&o=6),
-    list of IPv6 Phase II Certified DHCPv6 implementations (Last
-    updated: December, 2012)
+  - [IPv6 Intelligence: DHCPv6](http://ipv6int.net/software/index.html#dhcpv6), comparison of DHCPv6 packages and implementations (Last updated: April, 2009)
+  - [IPv6 Ready: DHCPv6](https://www.ipv6ready.org/db/index.php/public/search/?l=&c=&ds=&de=&pc=&ap=2&oem=&etc=D&fw=&vn=&do=1&o=6), list of IPv6 Phase II Certified DHCPv6 implementations (Last updated: December, 2012)
 
-[de:Dynamic Host Configuration
-Protocol\#DHCPv6](https://zh.wikipedia.org/wiki/de:Dynamic_Host_Configuration_Protocol#DHCPv6 "wikilink")
+[de:Dynamic Host Configuration Protocol\#DHCPv6](https://zh.wikipedia.org/wiki/de:Dynamic_Host_Configuration_Protocol#DHCPv6 "wikilink")
 
-[Category:IPv6](https://zh.wikipedia.org/wiki/Category:IPv6 "wikilink")
-[Category:应用层协议](https://zh.wikipedia.org/wiki/Category:应用层协议 "wikilink")
+[Category:IPv6](https://zh.wikipedia.org/wiki/Category:IPv6 "wikilink") [Category:应用层协议](https://zh.wikipedia.org/wiki/Category:应用层协议 "wikilink")
 
-1.  RFC 4339, *IPv6 Host Configuration of DNS Server Information
-    Approaches*, J. Jeong (February 2006)
+1.  RFC 4339, *IPv6 Host Configuration of DNS Server Information Approaches*, J. Jeong (February 2006)

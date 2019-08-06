@@ -1,20 +1,4 @@
-[熊熊](../Page/卓毓彤.md "wikilink"){{、w}}[陳艾熙](https://zh.wikipedia.org/wiki/陳艾熙 "wikilink"){{、w}}[楊昇達](../Page/楊昇達.md "wikilink")
-| judges = | voices = | narrated = | theme_music_composer = |
-opentheme = | endtheme = | composer = | country =  | language =
-[國語](https://zh.wikipedia.org/wiki/國語 "wikilink") | num_seasons = |
-list_episodes = | slogan = '''如果人能活一萬年，你能愛一个人多久。。。 ''' |
-executive_producer = | supervising_producer = | producer = | editor =
-| location =  | cinematography = | camera = | runtime = | num_episodes
-= 40集 | company =
-[野火娛樂事業有限公司](https://zh.wikipedia.org/wiki/野火娛樂事業有限公司 "wikilink")
-| distributor = | channel = | picture_format = | audio_format = |
-first_run = | first_aired = | last_aired = | channel_1 =
-[樂視網](https://zh.wikipedia.org/wiki/樂視網 "wikilink") |
-picture_format_1 = | audio_format_1 = | first_run_1 = |
-first_aired_1 =  | last_aired_1 =  | preceded_by =
-[PMAM](../Page/PMAM.md "wikilink") | followed_by = | related = |
-website = | production_website = }} 《 '''美好偵探社
-'''》，2014年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")、[中天綜合台](../Page/中天綜合台.md "wikilink")迷你偶像劇。本劇由[野火娛樂製作](https://zh.wikipedia.org/wiki/野火娛樂 "wikilink")，為紅透網路的[PMAM](../Page/PMAM.md "wikilink")系列的第三季。第三季以四個不同的案件連串，將觸角延伸到偵探社。講述是人性，但是社會是現實的。是關於正義與背叛的故事。由[竇智孔](../Page/竇智孔.md "wikilink")、[熊熊](../Page/卓毓彤.md "wikilink")、[陳艾熙](https://zh.wikipedia.org/wiki/陳艾熙 "wikilink")、[楊昇達](../Page/楊昇達.md "wikilink")主演。
+[熊熊](../Page/卓毓彤.md "wikilink"){{、w}}[陳艾熙](https://zh.wikipedia.org/wiki/陳艾熙 "wikilink"){{、w}}[楊昇達](../Page/楊昇達.md "wikilink") | judges = | voices = | narrated = | theme_music_composer = | opentheme = | endtheme = | composer = | country =  | language = [國語](https://zh.wikipedia.org/wiki/國語 "wikilink") | num_seasons = | list_episodes = | slogan = '''如果人能活一萬年，你能愛一个人多久。。。 ''' | executive_producer = | supervising_producer = | producer = | editor = | location =  | cinematography = | camera = | runtime = | num_episodes = 40集 | company = [野火娛樂事業有限公司](https://zh.wikipedia.org/wiki/野火娛樂事業有限公司 "wikilink") | distributor = | channel = | picture_format = | audio_format = | first_run = | first_aired = | last_aired = | channel_1 = [樂視網](https://zh.wikipedia.org/wiki/樂視網 "wikilink") | picture_format_1 = | audio_format_1 = | first_run_1 = | first_aired_1 =  | last_aired_1 =  | preceded_by = [PMAM](../Page/PMAM.md "wikilink") | followed_by = | related = | website = | production_website = }} 《 '''美好偵探社 '''》，2014年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")、[中天綜合台](../Page/中天綜合台.md "wikilink")迷你偶像劇。本劇由[野火娛樂製作](https://zh.wikipedia.org/wiki/野火娛樂 "wikilink")，為紅透網路的[PMAM](../Page/PMAM.md "wikilink")系列的第三季。第三季以四個不同的案件連串，將觸角延伸到偵探社。講述是人性，但是社會是現實的。是關於正義與背叛的故事。由[竇智孔](../Page/竇智孔.md "wikilink")、[熊熊](../Page/卓毓彤.md "wikilink")、[陳艾熙](https://zh.wikipedia.org/wiki/陳艾熙 "wikilink")、[楊昇達](../Page/楊昇達.md "wikilink")主演。
 
 ## 播出時間
 
@@ -802,10 +786,4 @@ website = | production_website = }} 《 '''美好偵探社
   - [《PMAM之美好偵探社》樂視網專題](http://tv.letv.com/zt/lswjzzjc/index.shtml)
 
   -
-[Category:2014年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2014年台灣電視劇集 "wikilink")
-[Category:中天電視劇](https://zh.wikipedia.org/wiki/Category:中天電視劇 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:PMAM系列](https://zh.wikipedia.org/wiki/Category:PMAM系列 "wikilink")
-[Category:偵探主角題材電視劇](https://zh.wikipedia.org/wiki/Category:偵探主角題材電視劇 "wikilink")
-[Category:探討人性電視劇](https://zh.wikipedia.org/wiki/Category:探討人性電視劇 "wikilink")
-[Category:虛構公司](https://zh.wikipedia.org/wiki/Category:虛構公司 "wikilink")
+[Category:2014年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2014年台灣電視劇集 "wikilink") [Category:中天電視劇](https://zh.wikipedia.org/wiki/Category:中天電視劇 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:PMAM系列](https://zh.wikipedia.org/wiki/Category:PMAM系列 "wikilink") [Category:偵探主角題材電視劇](https://zh.wikipedia.org/wiki/Category:偵探主角題材電視劇 "wikilink") [Category:探討人性電視劇](https://zh.wikipedia.org/wiki/Category:探討人性電視劇 "wikilink") [Category:虛構公司](https://zh.wikipedia.org/wiki/Category:虛構公司 "wikilink")

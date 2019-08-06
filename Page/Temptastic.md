@@ -2,8 +2,7 @@
 
 ## 宣傳與發行
 
-2010年11月15日時宣布[Core Contents
-Media](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")，T-ara將推出她們的第一張迷你專輯。11月23日，主打單曲之一的《[為什麼這樣](../Page/為什麼這樣.md "wikilink")》開放數位下載。
+2010年11月15日時宣布[Core Contents Media](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")，T-ara將推出她們的第一張迷你專輯。11月23日，主打單曲之一的《[為什麼這樣](../Page/為什麼這樣.md "wikilink")》開放數位下載。
 
 12月1日，《Temptastic》開放[數位下載及另一支主打單曲](../Page/數位音樂下載.md "wikilink")《[Yayaya](https://zh.wikipedia.org/wiki/Yayaya "wikilink")》的[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，而實體專輯原定在11月發行，但因為[延坪島炮擊事件的發生](https://zh.wikipedia.org/wiki/延坪島炮擊事件 "wikilink")，最後被延遲至12月3日\[2\]。
 
@@ -51,8 +50,7 @@ Media](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")，T-ara將�
 
 ## 參考文獻
 
-[分類:T-ara音樂專輯](https://zh.wikipedia.org/wiki/分類:T-ara音樂專輯 "wikilink")
-[分類:2010年迷你專輯](https://zh.wikipedia.org/wiki/分類:2010年迷你專輯 "wikilink")
+[分類:T-ara音樂專輯](https://zh.wikipedia.org/wiki/分類:T-ara音樂專輯 "wikilink") [分類:2010年迷你專輯](https://zh.wikipedia.org/wiki/分類:2010年迷你專輯 "wikilink")
 
 1.
 2.

@@ -1,7 +1,4 @@
-[GPL-Logo.jpg](https://zh.wikipedia.org/wiki/File:GPL-Logo.jpg "fig:GPL-Logo.jpg")
-**GPL超級聯賽（Garena Premier
-League）**是由[Garena所舉辦的](https://zh.wikipedia.org/wiki/Garena "wikilink")《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》東南亞的跨國職業[電子競技聯賽](https://zh.wikipedia.org/wiki/電子競技 "wikilink")。2015年台港澳地區獨立成[LMS賽區](../Page/LMS職業聯賽.md "wikilink")，2018年越南獨立成VCS聯賽，剩下新加坡、馬來西亞、菲律賓、泰國及印尼地區。2018年春季賽期後，由LOL
-SEA Tour(LST)代替。
+[GPL-Logo.jpg](https://zh.wikipedia.org/wiki/File:GPL-Logo.jpg "fig:GPL-Logo.jpg") **GPL超級聯賽（Garena Premier League）**是由[Garena所舉辦的](https://zh.wikipedia.org/wiki/Garena "wikilink")《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》東南亞的跨國職業[電子競技聯賽](https://zh.wikipedia.org/wiki/電子競技 "wikilink")。2015年台港澳地區獨立成[LMS賽區](../Page/LMS職業聯賽.md "wikilink")，2018年越南獨立成VCS聯賽，剩下新加坡、馬來西亞、菲律賓、泰國及印尼地區。2018年春季賽期後，由LOL SEA Tour(LST)代替。
 
 ## 概要
 
@@ -128,16 +125,11 @@ SEA Tour(LST)代替。
 
 GPL2014冬季賽事的參賽隊伍共有12隊，分別是：
 
-台港澳地區:[台北暗殺星](https://zh.wikipedia.org/wiki/台北暗殺星 "wikilink")、[台北狙擊者](../Page/台北狙擊者.md "wikilink")、[Ucan
-香港態度](https://zh.wikipedia.org/wiki/Ucan_香港態度 "wikilink")(Ucan HKA)、[ahq
-e-Sports
-Club](https://zh.wikipedia.org/wiki/ahq_e-Sports_Club "wikilink")(AHQ)
+台港澳地區:[台北暗殺星](https://zh.wikipedia.org/wiki/台北暗殺星 "wikilink")、[台北狙擊者](../Page/台北狙擊者.md "wikilink")、[Ucan 香港態度](https://zh.wikipedia.org/wiki/Ucan_香港態度 "wikilink")(Ucan HKA)、[ahq e-Sports Club](https://zh.wikipedia.org/wiki/ahq_e-Sports_Club "wikilink")(AHQ)
 新馬地區:[新加坡先鋒](https://zh.wikipedia.org/wiki/新加坡先鋒 "wikilink")(SGS)、[吉隆坡獵人](https://zh.wikipedia.org/wiki/吉隆坡獵人 "wikilink")(KLH)
-越南地區:[西貢小丑](https://zh.wikipedia.org/wiki/西貢小丑 "wikilink")(SAJ)、[西貢新奇5](https://zh.wikipedia.org/wiki/西貢新奇5 "wikilink")(SF5)、[Full
-Louis](https://zh.wikipedia.org/wiki/Full_Louis "wikilink")(NFL)
+越南地區:[西貢小丑](https://zh.wikipedia.org/wiki/西貢小丑 "wikilink")(SAJ)、[西貢新奇5](https://zh.wikipedia.org/wiki/西貢新奇5 "wikilink")(SF5)、[Full Louis](https://zh.wikipedia.org/wiki/Full_Louis "wikilink")(NFL)
 菲律賓地區:Mineski（MSKI）
-泰國地區:
-[曼谷巨人](https://zh.wikipedia.org/wiki/曼谷巨人 "wikilink")(BKT)、Infinite（iFIN）。\[1\]
+泰國地區: [曼谷巨人](https://zh.wikipedia.org/wiki/曼谷巨人 "wikilink")(BKT)、Infinite（iFIN）。\[1\]
 
 | 總冠軍賽名次 | 隊伍                                                                              | 獎金        | 積分  |
 | ------ | ------------------------------------------------------------------------------- | --------- | --- |
@@ -150,20 +142,11 @@ Louis](https://zh.wikipedia.org/wiki/Full_Louis "wikilink")(NFL)
 
 GPL2014春季賽事的參賽隊伍共有12隊，分別是：
 
-台港澳地區:[台北暗殺星](https://zh.wikipedia.org/wiki/台北暗殺星 "wikilink")、[台北狙擊者](../Page/台北狙擊者.md "wikilink")、[Yoe閃電狼](https://zh.wikipedia.org/wiki/Yoe閃電狼 "wikilink")(Yoe
-FW)、[ahq e-Sports
-Club](https://zh.wikipedia.org/wiki/ahq_e-Sports_Club "wikilink")(AHQ)
-新馬地區:[新加坡先鋒](https://zh.wikipedia.org/wiki/新加坡先鋒 "wikilink")(SGS)、[Insidious
-Gaming](https://zh.wikipedia.org/wiki/Insidious_Gaming "wikilink")(iSG)
-越南地區:[西貢小丑](https://zh.wikipedia.org/wiki/西貢小丑 "wikilink")(SAJ)、[西貢新奇5](https://zh.wikipedia.org/wiki/西貢新奇5 "wikilink")(SF5)、[Neolution
-Esports Full
-Louis](https://zh.wikipedia.org/wiki/Neolution_Esports_Full_Louis "wikilink")(NFL)
-菲律賓地區:[Imperium Pro
-Team](https://zh.wikipedia.org/wiki/Imperium_Pro_Team "wikilink")（IPT）、[Tt
-Esports Manila
-Eagles](https://zh.wikipedia.org/wiki/Tt_Esports_Manila_Eagles "wikilink")(MLE)
-泰國地區:
-[曼谷巨人](https://zh.wikipedia.org/wiki/曼谷巨人 "wikilink")(BKT)、Infinite（iFIN）。\[2\]
+台港澳地區:[台北暗殺星](https://zh.wikipedia.org/wiki/台北暗殺星 "wikilink")、[台北狙擊者](../Page/台北狙擊者.md "wikilink")、[Yoe閃電狼](https://zh.wikipedia.org/wiki/Yoe閃電狼 "wikilink")(Yoe FW)、[ahq e-Sports Club](https://zh.wikipedia.org/wiki/ahq_e-Sports_Club "wikilink")(AHQ)
+新馬地區:[新加坡先鋒](https://zh.wikipedia.org/wiki/新加坡先鋒 "wikilink")(SGS)、[Insidious Gaming](https://zh.wikipedia.org/wiki/Insidious_Gaming "wikilink")(iSG)
+越南地區:[西貢小丑](https://zh.wikipedia.org/wiki/西貢小丑 "wikilink")(SAJ)、[西貢新奇5](https://zh.wikipedia.org/wiki/西貢新奇5 "wikilink")(SF5)、[Neolution Esports Full Louis](https://zh.wikipedia.org/wiki/Neolution_Esports_Full_Louis "wikilink")(NFL)
+菲律賓地區:[Imperium Pro Team](https://zh.wikipedia.org/wiki/Imperium_Pro_Team "wikilink")（IPT）、[Tt Esports Manila Eagles](https://zh.wikipedia.org/wiki/Tt_Esports_Manila_Eagles "wikilink")(MLE)
+泰國地區: [曼谷巨人](https://zh.wikipedia.org/wiki/曼谷巨人 "wikilink")(BKT)、Infinite（iFIN）。\[2\]
 
 | 總冠軍賽名次 | 隊伍                                                                              | 獎金        | 積分  |
 | ------ | ------------------------------------------------------------------------------- | --------- | --- |
@@ -176,24 +159,11 @@ Eagles](https://zh.wikipedia.org/wiki/Tt_Esports_Manila_Eagles "wikilink")(MLE)
 
 GPL2014夏季賽事的參賽隊伍共有12隊，分別是：
 
-台港澳地區:[台北暗殺星](https://zh.wikipedia.org/wiki/台北暗殺星 "wikilink")、[ahq
-Fighter](https://zh.wikipedia.org/wiki/ahq_e-Sports_Club "wikilink")
-(ahq F) 、[Machi
-E-sports](https://zh.wikipedia.org/wiki/Machi_E-sports "wikilink")(Machi)、[ahq
-e-Sports
-Club](https://zh.wikipedia.org/wiki/ahq_e-Sports_Club "wikilink")(AHQ)
-新馬地區:[Insidious Gaming
-Rebirth](https://zh.wikipedia.org/wiki/Insidious_Gaming_Rebirth "wikilink")(IGR)、[Insidious
-Gaming](https://zh.wikipedia.org/wiki/Insidious_Gaming "wikilink")(iSG)
-越南地區:[西貢小丑](https://zh.wikipedia.org/wiki/西貢小丑 "wikilink")(SAJ)、[西貢新奇5](https://zh.wikipedia.org/wiki/西貢新奇5 "wikilink")(SF5)、[Neolution
-Esports Full
-Louis](https://zh.wikipedia.org/wiki/Neolution_Esports_Full_Louis "wikilink")(NFL)
-菲律賓地區:[Imperium Pro
-Team](https://zh.wikipedia.org/wiki/Imperium_Pro_Team "wikilink")（IPT）、[Tt
-Esports Manila
-Eagles](https://zh.wikipedia.org/wiki/Tt_Esports_Manila_Eagles "wikilink")(MLE)
-泰國地區:
-[曼谷巨人](https://zh.wikipedia.org/wiki/曼谷巨人 "wikilink")(BKT)、Infinite（iFIN）。\[3\]
+台港澳地區:[台北暗殺星](https://zh.wikipedia.org/wiki/台北暗殺星 "wikilink")、[ahq Fighter](https://zh.wikipedia.org/wiki/ahq_e-Sports_Club "wikilink") (ahq F) 、[Machi E-sports](https://zh.wikipedia.org/wiki/Machi_E-sports "wikilink")(Machi)、[ahq e-Sports Club](https://zh.wikipedia.org/wiki/ahq_e-Sports_Club "wikilink")(AHQ)
+新馬地區:[Insidious Gaming Rebirth](https://zh.wikipedia.org/wiki/Insidious_Gaming_Rebirth "wikilink")(IGR)、[Insidious Gaming](https://zh.wikipedia.org/wiki/Insidious_Gaming "wikilink")(iSG)
+越南地區:[西貢小丑](https://zh.wikipedia.org/wiki/西貢小丑 "wikilink")(SAJ)、[西貢新奇5](https://zh.wikipedia.org/wiki/西貢新奇5 "wikilink")(SF5)、[Neolution Esports Full Louis](https://zh.wikipedia.org/wiki/Neolution_Esports_Full_Louis "wikilink")(NFL)
+菲律賓地區:[Imperium Pro Team](https://zh.wikipedia.org/wiki/Imperium_Pro_Team "wikilink")（IPT）、[Tt Esports Manila Eagles](https://zh.wikipedia.org/wiki/Tt_Esports_Manila_Eagles "wikilink")(MLE)
+泰國地區: [曼谷巨人](https://zh.wikipedia.org/wiki/曼谷巨人 "wikilink")(BKT)、Infinite（iFIN）。\[3\]
 
 | 總冠軍賽名次 | 隊伍                                                                              | 獎金        | 積分  |
 | ------ | ------------------------------------------------------------------------------- | --------- | --- |
@@ -224,18 +194,14 @@ Eagles](https://zh.wikipedia.org/wiki/Tt_Esports_Manila_Eagles "wikilink")(MLE)
 
 ## 參考資料
 
-  - [【GPL 超級聯賽】Garena 超級聯賽
-    台北世貿點燃戰火](https://archive.is/20130418221409/http://lol.garena.tw/competitive/news/news_info.php?nid=247&category=0)
+  - [【GPL 超級聯賽】Garena 超級聯賽 台北世貿點燃戰火](https://archive.is/20130418221409/http://lol.garena.tw/competitive/news/news_info.php?nid=247&category=0)
   - [快訊／英雄聯盟GPL超級聯賽　TPA台北暗殺星奪冠](http://www.ettoday.net/news/20121117/128828.htm)
   - [LOL遭指沒聯賽　主播長毛嗆：「我工作是假的嗎？」](http://www.ettoday.net/news/20121118/129064.htm)
 
-[Category:競舞娛樂](https://zh.wikipedia.org/wiki/Category:競舞娛樂 "wikilink")
-[Category:英雄聯盟](https://zh.wikipedia.org/wiki/Category:英雄聯盟 "wikilink")
-[Category:2012年新加坡建立](https://zh.wikipedia.org/wiki/Category:2012年新加坡建立 "wikilink")
+[Category:競舞娛樂](https://zh.wikipedia.org/wiki/Category:競舞娛樂 "wikilink") [Category:英雄聯盟](https://zh.wikipedia.org/wiki/Category:英雄聯盟 "wikilink") [Category:2012年新加坡建立](https://zh.wikipedia.org/wiki/Category:2012年新加坡建立 "wikilink")
 
 1.
 
 2.
 3.
-4.  [【英雄聯盟】賽事中心 第一季 GPL
-    超級聯賽](http://lol.garena.tw/competitive/game/gamesinfoinner.php?gf_permalink=13370675074fb207f3e4ba6)
+4.  [【英雄聯盟】賽事中心 第一季 GPL 超級聯賽](http://lol.garena.tw/competitive/game/gamesinfoinner.php?gf_permalink=13370675074fb207f3e4ba6)

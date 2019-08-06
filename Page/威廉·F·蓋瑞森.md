@@ -1,7 +1,4 @@
-**威廉·F·「比爾」·蓋瑞森**（William F. "Bill"
-Garrison），是[美國陸軍退役](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")[少將](https://zh.wikipedia.org/wiki/少將 "wikilink")，也是（Op.
-Gothic
-Serpent）指揮官。1993年展開軍事行動，抓捕[索馬里軍閥](https://zh.wikipedia.org/wiki/索馬里 "wikilink")[穆罕默德·法拉赫·艾迪德](../Page/穆罕默德·法拉赫·艾迪德.md "wikilink")。
+**威廉·F·「比爾」·蓋瑞森**（William F. "Bill" Garrison），是[美國陸軍退役](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")[少將](https://zh.wikipedia.org/wiki/少將 "wikilink")，也是（Op. Gothic Serpent）指揮官。1993年展開軍事行動，抓捕[索馬里軍閥](https://zh.wikipedia.org/wiki/索馬里 "wikilink")[穆罕默德·法拉赫·艾迪德](../Page/穆罕默德·法拉赫·艾迪德.md "wikilink")。
 
 ## 生平
 
@@ -21,24 +18,9 @@ Serpent）指揮官。1993年展開軍事行動，抓捕[索馬里軍閥](https:
 
 ## 參考資料
 
-  - [Smith,
-    Michael](https://zh.wikipedia.org/wiki/Michael_Smith_\(newspaper_reporter\) "wikilink")
-    (2006). *Killer Elite: The Inside Story of America's Most Secret
-    Special Operations Team*. Cassell. London. ISBN 0-304-36727-3
-    [online
-    presentation](http://www.michaelsmithwriter.com/books_special.html)
-  - [Bowden, Mark](https://zh.wikipedia.org/wiki/Mark_Bowden "wikilink")
-    (March 1999). *[Black Hawk Down: A Story of Modern
-    War](https://zh.wikipedia.org/wiki/Black_Hawk_Down:_A_Story_of_Modern_War "wikilink")*.
-    Atlantic Monthly Press. Berkeley, California (USA). ISBN
-    0-87113-738-0
-  - Boykin, William (Lt.Gen.) (2008). *Never Surrender*. Faith Words.
-    New York, NY. ISBN 978-0-446-58215-5.
-  - Eversmann, M. (2006). *The Battle of Mogadishu: Firsthand Accounts
-    From The Men of Task Force Ranger*.
+  - [Smith, Michael](https://zh.wikipedia.org/wiki/Michael_Smith_\(newspaper_reporter\) "wikilink") (2006). *Killer Elite: The Inside Story of America's Most Secret Special Operations Team*. Cassell. London. ISBN 0-304-36727-3 [online presentation](http://www.michaelsmithwriter.com/books_special.html)
+  - [Bowden, Mark](https://zh.wikipedia.org/wiki/Mark_Bowden "wikilink") (March 1999). *[Black Hawk Down: A Story of Modern War](https://zh.wikipedia.org/wiki/Black_Hawk_Down:_A_Story_of_Modern_War "wikilink")*. Atlantic Monthly Press. Berkeley, California (USA). ISBN 0-87113-738-0
+  - Boykin, William (Lt.Gen.) (2008). *Never Surrender*. Faith Words. New York, NY. ISBN 978-0-446-58215-5.
+  - Eversmann, M. (2006). *The Battle of Mogadishu: Firsthand Accounts From The Men of Task Force Ranger*.
 
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:德克萨斯州人](https://zh.wikipedia.org/wiki/Category:德克萨斯州人 "wikilink")
-[Category:美國陸軍少將](https://zh.wikipedia.org/wiki/Category:美國陸軍少將 "wikilink")
-[Category:銅星勳章獲得者](https://zh.wikipedia.org/wiki/Category:銅星勳章獲得者 "wikilink")
-[Category:紫心勳章獲得者](https://zh.wikipedia.org/wiki/Category:紫心勳章獲得者 "wikilink")
+[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:德克萨斯州人](https://zh.wikipedia.org/wiki/Category:德克萨斯州人 "wikilink") [Category:美國陸軍少將](https://zh.wikipedia.org/wiki/Category:美國陸軍少將 "wikilink") [Category:銅星勳章獲得者](https://zh.wikipedia.org/wiki/Category:銅星勳章獲得者 "wikilink") [Category:紫心勳章獲得者](https://zh.wikipedia.org/wiki/Category:紫心勳章獲得者 "wikilink")

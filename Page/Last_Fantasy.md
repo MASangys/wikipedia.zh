@@ -1,7 +1,4 @@
-《**Last
-Fantasy**》是歌手[IU的第二張正規專輯](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")，共有13首曲目，包括主打歌《You
-& I》 (너랑
-나)。本轉輯為IU繼[EP](https://zh.wikipedia.org/wiki/EP "wikilink")《Real》，於9個月後回歸歌壇後推出，於2011年11月29日發行。
+《**Last Fantasy**》是歌手[IU的第二張正規專輯](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")，共有13首曲目，包括主打歌《You & I》 (너랑 나)。本轉輯為IU繼[EP](https://zh.wikipedia.org/wiki/EP "wikilink")《Real》，於9個月後回歸歌壇後推出，於2011年11月29日發行。
 
 ## 背景
 
@@ -61,10 +58,4 @@ Fantasy**》是歌手[IU的第二張正規專輯](https://zh.wikipedia.org/wiki/
 
 [分类:韩国音乐专辑](https://zh.wikipedia.org/wiki/分类:韩国音乐专辑 "wikilink")
 
-[Category:2011年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:2011年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon單曲月榜冠軍作品 "wikilink")
-[Category:2011年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2012年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon流媒體週榜冠軍作品 "wikilink")
-[Category:2011年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon數位下載週榜冠軍作品 "wikilink")
-[Category:2011年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon數位下載月榜冠軍作品 "wikilink")
+[Category:2011年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon專輯週榜冠軍作品 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:2011年Gaon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon單曲月榜冠軍作品 "wikilink") [Category:2011年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon單曲週榜冠軍作品 "wikilink") [Category:2012年Gaon流媒體週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon流媒體週榜冠軍作品 "wikilink") [Category:2011年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon數位下載週榜冠軍作品 "wikilink") [Category:2011年Gaon數位下載月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon數位下載月榜冠軍作品 "wikilink")

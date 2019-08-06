@@ -1,6 +1,4 @@
-《**時日如飛 C AllCollection**》是香港歌唱組合[C
-AllStar的第六張音樂專輯及首張精選輯](../Page/C_AllStar.md "wikilink")，於2014年3月21日推出，首波主打為他們在2014年3月23日舉行的《C
-AllStar 我們的胡士托演唱會》宣傳曲《時日如飛》。
+《**時日如飛 C AllCollection**》是香港歌唱組合[C AllStar的第六張音樂專輯及首張精選輯](../Page/C_AllStar.md "wikilink")，於2014年3月21日推出，首波主打為他們在2014年3月23日舉行的《C AllStar 我們的胡士托演唱會》宣傳曲《時日如飛》。
 
 ## 曲目
 
@@ -93,7 +91,6 @@ AllStar 我們的胡士托演唱會》宣傳曲《時日如飛》。
 
 </div>
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:C_AllStar音樂專輯](https://zh.wikipedia.org/wiki/Category:C_AllStar音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:C_AllStar音樂專輯](https://zh.wikipedia.org/wiki/Category:C_AllStar音樂專輯 "wikilink")
 
 [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")

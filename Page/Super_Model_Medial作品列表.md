@@ -1,8 +1,6 @@
 ## 概要
 
-[Super Model
-Media是一家在](https://zh.wikipedia.org/wiki/Super_Model_Media "wikilink")[美國註冊的日本無碼AV製作公司](https://zh.wikipedia.org/wiki/美國 "wikilink")，作品全是[無碼影片](https://zh.wikipedia.org/wiki/無碼 "wikilink")。
-繫列：1.Super Model 2.Super Model 4 Hour 3.Super Model DV 4.Super Model 3D
+[Super Model Media是一家在](https://zh.wikipedia.org/wiki/Super_Model_Media "wikilink")[美國註冊的日本無碼AV製作公司](https://zh.wikipedia.org/wiki/美國 "wikilink")，作品全是[無碼影片](https://zh.wikipedia.org/wiki/無碼 "wikilink")。 繫列：1.Super Model 2.Super Model 4 Hour 3.Super Model DV 4.Super Model 3D
 
 ## 作品列表
 
@@ -106,8 +104,7 @@ S Model 意译为“S级模特”，S级是最上级的意思，無官方中文�
 
 ## 關連項目
 
-  - [Sky High
-    Entertainment作品列表](../Page/Sky_High_Entertainment作品列表.md "wikilink")
+  - [Sky High Entertainment作品列表](../Page/Sky_High_Entertainment作品列表.md "wikilink")
   - [REDHOT Collection作品列表](../Page/REDHOT_Collection作品列表.md "wikilink")
   - [CATWALK Entertainment](../Page/CATWALK_Entertainment.md "wikilink")
   - [MUGEN Entertainment](../Page/MUGEN_Entertainment.md "wikilink")
@@ -116,8 +113,7 @@ S Model 意译为“S级模特”，S级是最上级的意思，無官方中文�
 
 ## 外部連結
 
-  - [S-Model
-    影片汇总](https://web.archive.org/web/20120809061456/http://www.avfans.org/thread-8595-1-1.html)
+  - [S-Model 影片汇总](https://web.archive.org/web/20120809061456/http://www.avfans.org/thread-8595-1-1.html)
 
 ## 註釋
 

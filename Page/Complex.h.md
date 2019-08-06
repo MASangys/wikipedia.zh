@@ -14,8 +14,7 @@
 
 [C99规定](https://zh.wikipedia.org/wiki/C99 "wikilink")`complex`作为宏扩展为`_Complex`。但C++未定义`complex`宏。
 
-[gcc仅支持complex](https://zh.wikipedia.org/wiki/gcc "wikilink")
-type，不支持imaginary type。因此宏`I`扩展为`_Complex_I`。
+[gcc仅支持complex](https://zh.wikipedia.org/wiki/gcc "wikilink") type，不支持imaginary type。因此宏`I`扩展为`_Complex_I`。
 
 定义复数变量时，可以如此：
 
@@ -35,8 +34,7 @@ long double _Complex v5=1.23456789L+3.456789999iL; //必须先写i，后写L
       - [反余弦](https://zh.wikipedia.org/wiki/反余弦 "wikilink")
           - cacos [双精度版本](https://zh.wikipedia.org/wiki/双精度 "wikilink")
           - cacosf [单精度版本](https://zh.wikipedia.org/wiki/单精度 "wikilink")
-          - cacosl
-            [长双精度版本](https://zh.wikipedia.org/wiki/长双精度 "wikilink")
+          - cacosl [长双精度版本](https://zh.wikipedia.org/wiki/长双精度 "wikilink")
       - [反正弦](../Page/反正弦.md "wikilink")
           - casin 双精度版本
           - casinf 单精度版本

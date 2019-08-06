@@ -2,13 +2,7 @@
 
 ## 注释
 
-[Category:服裝零售商](https://zh.wikipedia.org/wiki/Category:服裝零售商 "wikilink")
-[Category:德國零售商](https://zh.wikipedia.org/wiki/Category:德國零售商 "wikilink")
-[Category:1962年成立的公司](https://zh.wikipedia.org/wiki/Category:1962年成立的公司 "wikilink")
+[Category:服裝零售商](https://zh.wikipedia.org/wiki/Category:服裝零售商 "wikilink") [Category:德國零售商](https://zh.wikipedia.org/wiki/Category:德國零售商 "wikilink") [Category:1962年成立的公司](https://zh.wikipedia.org/wiki/Category:1962年成立的公司 "wikilink")
 
-1.  [NKD - eine
-    Erfolgsgeschichte](http://www2.nkd.com/unternehmen/chronik_16.html)
-    . NKD.
-2.  [NKD stellt sich neu
-    auf](http://www2.nkd.com/unternehmen/presse/0/401/details_22.htm) .
-    NKD. 2012-06-29.
+1.  [NKD - eine Erfolgsgeschichte](http://www2.nkd.com/unternehmen/chronik_16.html) . NKD.
+2.  [NKD stellt sich neu auf](http://www2.nkd.com/unternehmen/presse/0/401/details_22.htm) . NKD. 2012-06-29.

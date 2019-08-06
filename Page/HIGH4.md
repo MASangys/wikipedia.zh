@@ -1,5 +1,4 @@
-**HIGH4**（），為[韓國N](https://zh.wikipedia.org/wiki/韓國 "wikilink").A.P娛樂公司於2014年所推出的[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，成員人數4位。韓國N.A.P
-Entertainment 推出的韓國男子團體組合，於4月8日與IU合作歌曲《除了春天，愛情和櫻花》出道。
+**HIGH4**（），為[韓國N](https://zh.wikipedia.org/wiki/韓國 "wikilink").A.P娛樂公司於2014年所推出的[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，成員人數4位。韓國N.A.P Entertainment 推出的韓國男子團體組合，於4月8日與IU合作歌曲《除了春天，愛情和櫻花》出道。
 
 他們由崔甲源制作人推出的**HIGH4**組合由兩名Vocal和兩名Rapper組成。**HIGH4**這個名字有成員四人一起達到演藝界的頂峰之意。
 
@@ -297,7 +296,4 @@ Entertainment 推出的韓國男子團體組合，於4月8日與IU合作歌曲�
   -
   -
   -
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
+[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")

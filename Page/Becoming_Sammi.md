@@ -1,5 +1,4 @@
-《**Becoming
-Sammi**》（意思：成為Sammi）是[鄭秀文](../Page/鄭秀文.md "wikilink")的第26張個人專輯和第20張粵語專輯，於2002年發行\[1\]。
+《**Becoming Sammi**》（意思：成為Sammi）是[鄭秀文](../Page/鄭秀文.md "wikilink")的第26張個人專輯和第20張粵語專輯，於2002年發行\[1\]。
 
 ## 專輯介紹
 
@@ -42,9 +41,6 @@ Sammi**》（意思：成為Sammi）是[鄭秀文](../Page/鄭秀文.md "wikilin
 
 ## 參考資料
 
-[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
-[Category:香港華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:香港華納唱片音樂專輯 "wikilink")
+[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink") [Category:香港華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:香港華納唱片音樂專輯 "wikilink")
 
 1.

@@ -1,5 +1,4 @@
-**《Happy
-Ending》**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")於2012年4月23日首播的[月火劇](../Page/JTBC月火連續劇.md "wikilink")，逢韓國時間週一、二晚上8:45播出。
+**《Happy Ending》**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")於2012年4月23日首播的[月火劇](../Page/JTBC月火連續劇.md "wikilink")，逢韓國時間週一、二晚上8:45播出。
 
 ## 劇情簡介
 
@@ -9,8 +8,7 @@ Ending》**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 
 ### 主要人物
 
-  - [崔民秀](../Page/崔民秀.md "wikilink") 飾演
-    **金斗秀**（少年：[金株英](../Page/金株英.md "wikilink")）
+  - [崔民秀](../Page/崔民秀.md "wikilink") 飾演 **金斗秀**（少年：[金株英](../Page/金株英.md "wikilink")）
   - [沈慧珍](../Page/沈慧珍.md "wikilink") 飾演 **梁善雅**
 
 ### 斗秀和善雅家
@@ -68,8 +66,6 @@ Ending》**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 
 ## 作品的變遷
 
-[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink")
-[Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink")
+[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink") [Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink")
 
-1.  [케이블
-    일일시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
+1.  [케이블 일일시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)

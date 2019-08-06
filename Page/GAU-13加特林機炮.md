@@ -1,5 +1,4 @@
-**GAU-13**（GAU，全寫：Gun Automatic
-Universal，意為：通用自動火砲）是一門由[美国](../Page/美国.md "wikilink")武器製造商[通用動力以](https://zh.wikipedia.org/wiki/通用動力 "wikilink")[GAU-8复仇者机炮](../Page/GAU-8复仇者机炮.md "wikilink")為基礎所研製及生產的電力驅動式[加特林式](../Page/加特林机枪.md "wikilink")[机炮](https://zh.wikipedia.org/wiki/机炮 "wikilink")，发射[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[機炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")[炮彈](../Page/炮彈.md "wikilink")。
+**GAU-13**（GAU，全寫：Gun Automatic Universal，意為：通用自動火砲）是一門由[美国](../Page/美国.md "wikilink")武器製造商[通用動力以](https://zh.wikipedia.org/wiki/通用動力 "wikilink")[GAU-8复仇者机炮](../Page/GAU-8复仇者机炮.md "wikilink")為基礎所研製及生產的電力驅動式[加特林式](../Page/加特林机枪.md "wikilink")[机炮](https://zh.wikipedia.org/wiki/机炮 "wikilink")，发射[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[機炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")[炮彈](../Page/炮彈.md "wikilink")。
 
 ## 描述
 
@@ -9,8 +8,7 @@ GAU-13/A是以更為大型的[GAU-8「復仇者」的機構為藍本的四管式
 
 GAU-13/A使用與復仇者相同系列的**PGU-13**和**PGU-14**，當中還包含一種[貧鈾](../Page/貧化鈾彈.md "wikilink")[穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")。儘管其射速比七管式復仇者機炮有所下降，它仍然是一門[火力非常強大的武器](https://zh.wikipedia.org/wiki/火力 "wikilink")。
 
-GAU-13/A的主要應用是裝在**[GPU-5/A](https://zh.wikipedia.org/wiki/美國飛機機槍筴艙列表 "wikilink")**機炮筴艙（原來是以**GEPOD
-30**的型號銷售）以內使用。該機炮筴艙的長度是4,300[毫米](../Page/毫米.md "wikilink")（169.29[英吋](https://zh.wikipedia.org/wiki/英寸 "wikilink")），並可以安裝在任何標準[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")762[毫米](../Page/毫米.md "wikilink")（30[英吋](https://zh.wikipedia.org/wiki/英寸 "wikilink")）懸架鎖耳（）。它可裝填353發無鏈[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，足夠大約9秒的火力持續時間。GAU-13/A的空重為600公斤（1,322.77[磅](../Page/磅.md "wikilink")），而滿載全重則是841公斤（1,854.09[磅](../Page/磅.md "wikilink")）。該機炮筴艙完全獨立。\[1\]
+GAU-13/A的主要應用是裝在**[GPU-5/A](https://zh.wikipedia.org/wiki/美國飛機機槍筴艙列表 "wikilink")**機炮筴艙（原來是以**GEPOD 30**的型號銷售）以內使用。該機炮筴艙的長度是4,300[毫米](../Page/毫米.md "wikilink")（169.29[英吋](https://zh.wikipedia.org/wiki/英寸 "wikilink")），並可以安裝在任何標準[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")762[毫米](../Page/毫米.md "wikilink")（30[英吋](https://zh.wikipedia.org/wiki/英寸 "wikilink")）懸架鎖耳（）。它可裝填353發無鏈[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，足夠大約9秒的火力持續時間。GAU-13/A的空重為600公斤（1,322.77[磅](../Page/磅.md "wikilink")），而滿載全重則是841公斤（1,854.09[磅](../Page/磅.md "wikilink")）。該機炮筴艙完全獨立。\[1\]
 
 GPU-5/A的研製目的是為了可在各式各樣的美國戰術飛機，包括[F-15鷹式戰鬥機](../Page/F-15鷹式戰鬥機.md "wikilink")和[F-16戰隼戰鬥機](../Page/F-16戰隼戰鬥機.md "wikilink")上載運。在1980年代中期，[美国空军](../Page/美国空军.md "wikilink")考慮對F-16的[空中密接支援](../Page/密接支援.md "wikilink")（，簡稱：CAS）任務的一個專門衍生型上使用GPU-5，作為[A-10雷霆二式攻擊機](../Page/A-10雷霆二式攻擊機.md "wikilink")的替代或輔助。
 
@@ -39,31 +37,21 @@ GPU-5/A的研製目的是為了可在各式各樣的美國戰術飛機，包括[
 <references />
 
   - [f-16.net](http://www.f-16.net/f-16_versions_article18.html)
-  - Friedman, Norman (1997). *The Naval Institute Guide to World Naval
-    Weapon Systems*. Naval Institute Press. ISBN 978-1-55750-268-1.
-  - Polmar, Norman (2004). *The Naval Institute Guide to the Ships and
-    Aircraft of the U.S. Fleet*. Naval Institute Press. ISBN
-    978-1-59114-685-8.
+  - Friedman, Norman (1997). *The Naval Institute Guide to World Naval Weapon Systems*. Naval Institute Press. ISBN 978-1-55750-268-1.
+  - Polmar, Norman (2004). *The Naval Institute Guide to the Ships and Aircraft of the U.S. Fleet*. Naval Institute Press. ISBN 978-1-59114-685-8.
 
 </div>
 
 ## 外部連結
 
-  - —[Globalsecurity.com's article on the
-    GAU-13](http://www.globalsecurity.org/military/systems/aircraft/systems/gau-13.htm)
+  - —[Globalsecurity.com's article on the GAU-13](http://www.globalsecurity.org/military/systems/aircraft/systems/gau-13.htm)
 
-  - —[Probert
-    Encyclopaedia—GAU-13/A](https://web.archive.org/web/20140203185236/http://www.probertencyclopaedia.com/cgi-bin/res.pl?keyword=GAU-13)
+  - —[Probert Encyclopaedia—GAU-13/A](https://web.archive.org/web/20140203185236/http://www.probertencyclopaedia.com/cgi-bin/res.pl?keyword=GAU-13)
 
-  - —[Federation of American
-    Scientists－GAU-13](http://www.fas.org/man/dod-101/sys/ac/equip/gau-13.htm)
+  - —[Federation of American Scientists－GAU-13](http://www.fas.org/man/dod-101/sys/ac/equip/gau-13.htm)
 
-  - —[D Boy Gun
-    World（槍炮世界）—GAU-13/A机炮](http://firearmsworld.net/usa/mg/vulcan/gau13.htm)
+  - —[D Boy Gun World（槍炮世界）—GAU-13/A机炮](http://firearmsworld.net/usa/mg/vulcan/gau13.htm)
 
-[Category:30毫米口径武器](https://zh.wikipedia.org/wiki/Category:30毫米口径武器 "wikilink")
-[Category:多管機槍及機砲](https://zh.wikipedia.org/wiki/Category:多管機槍及機砲 "wikilink")
-[Category:空用機槍及機炮](https://zh.wikipedia.org/wiki/Category:空用機槍及機炮 "wikilink")
-[Category:美國槍械](https://zh.wikipedia.org/wiki/Category:美國槍械 "wikilink")
+[Category:30毫米口径武器](https://zh.wikipedia.org/wiki/Category:30毫米口径武器 "wikilink") [Category:多管機槍及機砲](https://zh.wikipedia.org/wiki/Category:多管機槍及機砲 "wikilink") [Category:空用機槍及機炮](https://zh.wikipedia.org/wiki/Category:空用機槍及機炮 "wikilink") [Category:美國槍械](https://zh.wikipedia.org/wiki/Category:美國槍械 "wikilink")
 
 1.  [weaponsystems.net－GPU-5](http://www.weaponsystems.net/weapon.php?weapon=HH13%20-%20GPU-5)

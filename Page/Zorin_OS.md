@@ -1,13 +1,8 @@
-**Zorin OS**，是一个基于Ubuntu的Linux发行版。其目的是尽可能的模拟Windows的操作习惯，让用户可以方便的使用Zorin
-OS\[1\]。Zorin
-OS默认的浏览器为[Chromium](../Page/Chromium.md "wikilink")。同时Zorin
-OS提供了一个浏览器管理工具，即Zorin Web Browser Manager\[2\]，可方便的安装/卸载浏览器。
+**Zorin OS**，是一个基于Ubuntu的Linux发行版。其目的是尽可能的模拟Windows的操作习惯，让用户可以方便的使用Zorin OS\[1\]。Zorin OS默认的浏览器为[Chromium](../Page/Chromium.md "wikilink")。同时Zorin OS提供了一个浏览器管理工具，即Zorin Web Browser Manager\[2\]，可方便的安装/卸载浏览器。
 
 ## 特点
 
-为了让Windows用户更方便的使用Zorin，Zorin操作系统预装了[Wine](../Page/Wine.md "wikilink")。同时，Zorin有自己特有的[Zorin
-Look
-Changer](https://zh.wikipedia.org/wiki/Zorin_Look_Changer "wikilink")，该软件可以用来方便的切换桌面的外观，比如切换成Windows7的外观或Mac外观。\[3\]
+为了让Windows用户更方便的使用Zorin，Zorin操作系统预装了[Wine](../Page/Wine.md "wikilink")。同时，Zorin有自己特有的[Zorin Look Changer](https://zh.wikipedia.org/wiki/Zorin_Look_Changer "wikilink")，该软件可以用来方便的切换桌面的外观，比如切换成Windows7的外观或Mac外观。\[3\]
 
 ## 发布历史
 

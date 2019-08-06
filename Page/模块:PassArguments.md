@@ -1,5 +1,4 @@
-\-- Simple Module that passes all arguments in the parent frame to a
-specified template pa = {};
+\-- Simple Module that passes all arguments in the parent frame to a specified template pa = {};
 
 function pa.run( frame )
 

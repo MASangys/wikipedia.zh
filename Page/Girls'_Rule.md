@@ -1,18 +1,14 @@
-《**Girls'
-Rule**》（，又譯為**女生規則**）是[日本](../Page/日本.md "wikilink")女子組合[乃木坂46的第](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")6張單曲，於2013年7月3日由[N46Div.發行](../Page/Sony_Music_Records.md "wikilink")。\[1\]
+《**Girls' Rule**》（，又譯為**女生規則**）是[日本](../Page/日本.md "wikilink")女子組合[乃木坂46的第](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")6張單曲，於2013年7月3日由[N46Div.發行](../Page/Sony_Music_Records.md "wikilink")。\[1\]
 
 ## 發行
 
-《Girls'
-Rule》跟上一張單曲《[你就是希望](../Page/你就是希望.md "wikilink")》相隔約四個月發行，是乃木坂46於2013年發行的第二張單曲。單曲分為附送DVD的「Type-A」、「Type-B」和「Type-C」，以及只有CD的「通常盤」，共四種形式發行。\[2\]。
+《Girls' Rule》跟上一張單曲《[你就是希望](../Page/你就是希望.md "wikilink")》相隔約四個月發行，是乃木坂46於2013年發行的第二張單曲。單曲分為附送DVD的「Type-A」、「Type-B」和「Type-C」，以及只有CD的「通常盤」，共四種形式發行。\[2\]。
 
-与前几作不同，表题曲的中心位（Center）由[生驹里奈更换为了](https://zh.wikipedia.org/wiki/生驹里奈 "wikilink")[白石麻衣](../Page/白石麻衣.md "wikilink")，这也是生驹里奈首次从中心位跌落。B面曲《世界上最孤独的Lover》被用作成员出演的日剧《[BAD
-BOYS J](https://zh.wikipedia.org/wiki/BADBOYS#电视剧 "wikilink")》的插曲。
+与前几作不同，表题曲的中心位（Center）由[生驹里奈更换为了](https://zh.wikipedia.org/wiki/生驹里奈 "wikilink")[白石麻衣](../Page/白石麻衣.md "wikilink")，这也是生驹里奈首次从中心位跌落。B面曲《世界上最孤独的Lover》被用作成员出演的日剧《[BAD BOYS J](https://zh.wikipedia.org/wiki/BADBOYS#电视剧 "wikilink")》的插曲。
 
 ## 銷售成績
 
-《Girls'
-Rule》在2013年7月15日的Oricon单曲周榜上获得了第1名。这也是自《[来吧香波](https://zh.wikipedia.org/wiki/来吧香波 "wikilink")》以来组合的第5张周冠单曲。单曲以约33.7万张的销量超越了《[你就是希望](../Page/你就是希望.md "wikilink")》約24.2万张的一周内销量纪录、同时也直接超过了《[制服模特兒](../Page/制服模特兒.md "wikilink")》最终累计約30.3万张的销量\[3\]。
+《Girls' Rule》在2013年7月15日的Oricon单曲周榜上获得了第1名。这也是自《[来吧香波](https://zh.wikipedia.org/wiki/来吧香波 "wikilink")》以来组合的第5张周冠单曲。单曲以约33.7万张的销量超越了《[你就是希望](../Page/你就是希望.md "wikilink")》約24.2万张的一周内销量纪录、同时也直接超过了《[制服模特兒](../Page/制服模特兒.md "wikilink")》最终累计約30.3万张的销量\[3\]。
 
 ## 收錄內容
 
@@ -84,8 +80,7 @@ Rule》在2013年7月15日的Oricon单曲周榜上获得了第1名。这也是�
 
   - [乃木坂46官方網站](http://www.nogizaka46.com/discography/)
 
-  - [Oricon
-    Style網站专访](http://www.oricon.co.jp/music/interview/page/609/)
+  - [Oricon Style網站专访](http://www.oricon.co.jp/music/interview/page/609/)
 
   - [YouTube](../Page/YouTube.md "wikilink") PV <small>（限日本地區觀看）</small>
 
@@ -93,12 +88,7 @@ Rule》在2013年7月15日的Oricon单曲周榜上获得了第1名。这也是�
   -
   -
   -
-[Category:乃木坂46歌曲](https://zh.wikipedia.org/wiki/Category:乃木坂46歌曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:2013年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2013年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2013年Japan_Hot_100冠軍歌曲 "wikilink")
-[Category:2013年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2013年Hot_Singles_Sales冠軍單曲 "wikilink")
+[Category:乃木坂46歌曲](https://zh.wikipedia.org/wiki/Category:乃木坂46歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:2013年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon單曲週榜冠軍作品 "wikilink") [Category:2013年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2013年Japan_Hot_100冠軍歌曲 "wikilink") [Category:2013年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2013年Hot_Singles_Sales冠軍單曲 "wikilink")
 
 1.
 

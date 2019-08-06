@@ -1,7 +1,6 @@
 require('Module:No globals')
 
-local getArgs = require('Module:Arguments').getArgs local yesno =
-require('Module:Yesno')
+local getArgs = require('Module:Arguments').getArgs local yesno = require('Module:Yesno')
 
 local classList = {
 
@@ -89,8 +88,7 @@ local function categoryName(args, class, importance)
 
 end
 
-local function pageNumberOfClassAndImportance(args, class, importance,
-enabledClassList, enabledImportanceList)
+local function pageNumberOfClassAndImportance(args, class, importance, enabledClassList, enabledImportanceList)
 
 `   local nonArticle = {`
 `           'category', 'disambig', 'draft', 'file', 'portal', `
@@ -132,8 +130,7 @@ enabledClassList, enabledImportanceList)
 
 end
 
-local function pageNumberWithLink(args, class, importance,
-enabledClassList, enabledImportanceList)
+local function pageNumberWithLink(args, class, importance, enabledClassList, enabledImportanceList)
 
 `   local pageNumber = pageNumberOfClassAndImportance(args, class, importance, enabledClassList, enabledImportanceList)`
 `   `
@@ -185,8 +182,7 @@ enabledClassList, enabledImportanceList)
 
 end
 
-local function getColNumubers(args, enabledClassList,
-enabledImportanceList)
+local function getColNumubers(args, enabledClassList, enabledImportanceList)
 
 `   local col = 0`
 
@@ -267,8 +263,7 @@ local function rowScore(args, enabledClassList, col)
 
 <td colspan="2" style="font-weight: bold;">
 
-<abbr title="%s">-{zh-hans:质量;zh-hant:質量;zh-tw:品質;}-指数</abbr>
-([?](https://zh.wikipedia.org/wiki/Template:Articles_by_Quality_and_Importance#质量指数 "wikilink"))
+<abbr title="%s">-{zh-hans:质量;zh-hant:質量;zh-tw:品質;}-指数</abbr> ([?](https://zh.wikipedia.org/wiki/Template:Articles_by_Quality_and_Importance#质量指数 "wikilink"))
 
 </td>
 
@@ -282,8 +277,7 @@ local function rowScore(args, enabledClassList, col)
 
 </td>
 
-', ret, col - 1, mw.language.new('zh'):formatNum( math.ceil( (pages \*
-classList\[1\].score - totalScore) / classList\[1\].score ) ) )
+', ret, col - 1, mw.language.new('zh'):formatNum( math.ceil( (pages \* classList\[1\].score - totalScore) / classList\[1\].score ) ) )
 
 `   ret = string.format('%s`
 
@@ -396,8 +390,7 @@ function p._main(args)
 
 </caption>
 
-', builder, args.project or '', yesno(args.taskforce) and '工作组' or '专题'
-or '專題')
+', builder, args.project or '', yesno(args.taskforce) and '工作组' or '专题' or '專題')
 
 `   builder = builder .. '`
 
@@ -480,8 +473,7 @@ or '專題')
 
 </th>
 
-', builder, pageNumberWithLink(args, 'ALL', 'ALL', enabledClassList,
-enabledImportanceList))
+', builder, pageNumberWithLink(args, 'ALL', 'ALL', enabledClassList, enabledImportanceList))
 
 `   builder = builder .. '`
 

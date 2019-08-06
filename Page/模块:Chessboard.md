@@ -1,7 +1,6 @@
 local p = {}
 
-function chessboard(args, size, rev, letters, numbers, header, footer,
-align, clear)
+function chessboard(args, size, rev, letters, numbers, header, footer, align, clear)
 
 `   function image_square( pc, row, col, size )`
 `       local colornames = { l = '白', d = '黑' }`

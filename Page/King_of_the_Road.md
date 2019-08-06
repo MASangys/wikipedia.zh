@@ -1,5 +1,4 @@
-《**King of the
-Road**》是香港歌手[黃耀明](../Page/黃耀明.md "wikilink")的粤语音乐專輯，於2008年10月3日發行。
+《**King of the Road**》是香港歌手[黃耀明](../Page/黃耀明.md "wikilink")的粤语音乐專輯，於2008年10月3日發行。
 
 ## 專輯簡介
 
@@ -43,6 +42,4 @@ Road**》是香港歌手[黃耀明](../Page/黃耀明.md "wikilink")的粤语音
 
 ## 外部連結
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
-[Category:黃耀明音樂專輯](https://zh.wikipedia.org/wiki/Category:黃耀明音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:黃耀明音樂專輯](https://zh.wikipedia.org/wiki/Category:黃耀明音樂專輯 "wikilink")

@@ -10,9 +10,7 @@ Mi-6直昇機採用最常見的尾螺旋槳設計，兩部索罗维耶夫D-25V�
 
 ## 型號
 
-[Mil-6Flanke.jpg](https://zh.wikipedia.org/wiki/File:Mil-6Flanke.jpg "fig:Mil-6Flanke.jpg")
-[Ми-6.JPG](https://zh.wikipedia.org/wiki/File:Ми-6.JPG "fig:Ми-6.JPG")
-[Mi-6PZh-2008-Monino.jpg](https://zh.wikipedia.org/wiki/File:Mi-6PZh-2008-Monino.jpg "fig:Mi-6PZh-2008-Monino.jpg")
+[Mil-6Flanke.jpg](https://zh.wikipedia.org/wiki/File:Mil-6Flanke.jpg "fig:Mil-6Flanke.jpg") [Ми-6.JPG](https://zh.wikipedia.org/wiki/File:Ми-6.JPG "fig:Ми-6.JPG") [Mi-6PZh-2008-Monino.jpg](https://zh.wikipedia.org/wiki/File:Mi-6PZh-2008-Monino.jpg "fig:Mi-6PZh-2008-Monino.jpg")
 
   - Mi-6基本型
 
@@ -64,8 +62,7 @@ Mi-6P民用客機的貨機版
 
 ## 使用與實戰
 
-[Peruvian_Mi-6_Hook_helicopters_during_an_exercise.jpg](https://zh.wikipedia.org/wiki/File:Peruvian_Mi-6_Hook_helicopters_during_an_exercise.jpg "fig:Peruvian_Mi-6_Hook_helicopters_during_an_exercise.jpg")
-Mi-6PRTBV作為蘇聯戰略火箭軍（彈道飛彈部隊）的運輸直昇機運送蘇軍的彈道飛彈，Mi-6PS用於蘇聯太空開發，每當載有蘇聯航天員的返回艙跌入大海，Mi-6PS都會出動，蘇聯空軍的Mi-6作為炮兵和空降兵的運輸直昇機，Mi-6民用貨機用於西伯利亞的石油開發。
+[Peruvian_Mi-6_Hook_helicopters_during_an_exercise.jpg](https://zh.wikipedia.org/wiki/File:Peruvian_Mi-6_Hook_helicopters_during_an_exercise.jpg "fig:Peruvian_Mi-6_Hook_helicopters_during_an_exercise.jpg") Mi-6PRTBV作為蘇聯戰略火箭軍（彈道飛彈部隊）的運輸直昇機運送蘇軍的彈道飛彈，Mi-6PS用於蘇聯太空開發，每當載有蘇聯航天員的返回艙跌入大海，Mi-6PS都會出動，蘇聯空軍的Mi-6作為炮兵和空降兵的運輸直昇機，Mi-6民用貨機用於西伯利亞的石油開發。
 
 蘇聯空軍的Mi-6首次用於1968年出兵[捷克斯洛伐克](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")，之後又用於[阿富汗戰爭](https://zh.wikipedia.org/wiki/阿富汗戰爭_\(1979年\) "wikilink")，蘇軍第181和第280直昇機團用於阿富汗，主要是為地面部隊運送物資，另有一個由蘇聯專家組成的Mi-6去支援阿富汗政府軍作戰，由於Mi-6能在海拔6,000米的高度飛行，故Mi-6是在阿富汗主要的蘇軍運輸直昇機，Mi-6在阿富汗另一個任務是吊運其他被擊傷的飛機，例如:[Mi-24雌鹿直昇機](https://zh.wikipedia.org/wiki/Mi-24雌鹿直昇機 "wikilink")，1986年4月26日，當時的[烏克蘭發生](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")[車諾比核能電廠事故](https://zh.wikipedia.org/wiki/車諾比核能電廠 "wikilink")，蘇軍出动8架Mi-6参与用砂石和混凝土埋葬出事的第4號反應堆，事後由於此批Mi-6沾有輻射，而被拆解后碎片全部被深埋地下。
 
@@ -81,13 +78,7 @@ Mi-6PRTBV作為蘇聯戰略火箭軍（彈道飛彈部隊）的運輸直昇機�
 
 1970年中國想自行研製大型運輸直昇機，想以Mi-6作為參考，故第二次向蘇聯購買3架Mi-6，此3架Mi-6於1971年10月22日到達，隨同還有4部發動機和3個螺旋槳等備份零件，蘇聯也派來了4名技術人員作技術支援，後來經中方有關技術人員評定要仿製Mi-6有一定難度而作罷，此3架Mi-6被派去[武漢軍區服役](https://zh.wikipedia.org/wiki/武漢軍區 "wikilink")，現已全部退役，其中一架被放在位於北京的[中國航空博物館](https://zh.wikipedia.org/wiki/中國航空博物館 "wikilink")。\[1\]
 
-[File:KazakhstanMi-6(DF-SD-01-06280).jpg|Mi-6傘兵跳下](File:KazakhstanMi-6\(DF-SD-01-06280\).jpg%7CMi-6傘兵跳下)
-[File:Mil-6.seite.jpg|Mi-6的側門](File:Mil-6.seite.jpg%7CMi-6的側門)
-<File:DATANGSHAN> CHINA AVIATION MUSEUM BEIJING OCT 2012 6
-(8271422593).jpg|中國航空博物館的Mi-6 <File:THE> DATANSHAN AVIATION MUSEUM
-BEIJING CHINA OCT 2012 (8181901192).jpg|中國航空博物館的Mi-6
-<File:Flugausstellung> Hermeskeil MIL MI 6 A - 3 - Flickr -
-KlausNahr.jpg|Mi-6民用無短翼版
+[File:KazakhstanMi-6(DF-SD-01-06280).jpg|Mi-6傘兵跳下](File:KazakhstanMi-6\(DF-SD-01-06280\).jpg%7CMi-6傘兵跳下) [File:Mil-6.seite.jpg|Mi-6的側門](File:Mil-6.seite.jpg%7CMi-6的側門) <File:DATANGSHAN> CHINA AVIATION MUSEUM BEIJING OCT 2012 6 (8271422593).jpg|中國航空博物館的Mi-6 <File:THE> DATANSHAN AVIATION MUSEUM BEIJING CHINA OCT 2012 (8181901192).jpg|中國航空博物館的Mi-6 <File:Flugausstellung> Hermeskeil MIL MI 6 A - 3 - Flickr - KlausNahr.jpg|Mi-6民用無短翼版
 
 ## 使用國家
 
@@ -127,10 +118,6 @@ KlausNahr.jpg|Mi-6民用無短翼版
   - [米-6直升机](http://www.afwing.com/intro/mi-6/mi6-1.htm)
   - [內部駕駛艙](http://toniosky7.blogspot.com/2010/08/mil-mi-6-hook-cockpit-aviation-museum.html)
 
-[Category:米爾設計局](https://zh.wikipedia.org/wiki/Category:米爾設計局 "wikilink")
-[Category:軍用直升機](https://zh.wikipedia.org/wiki/Category:軍用直升機 "wikilink")
-[Category:蘇聯航空器](https://zh.wikipedia.org/wiki/Category:蘇聯航空器 "wikilink")
-[Category:中國解放軍直昇機](https://zh.wikipedia.org/wiki/Category:中國解放軍直昇機 "wikilink")
-[Category:重型直升機](https://zh.wikipedia.org/wiki/Category:重型直升機 "wikilink")
+[Category:米爾設計局](https://zh.wikipedia.org/wiki/Category:米爾設計局 "wikilink") [Category:軍用直升機](https://zh.wikipedia.org/wiki/Category:軍用直升機 "wikilink") [Category:蘇聯航空器](https://zh.wikipedia.org/wiki/Category:蘇聯航空器 "wikilink") [Category:中國解放軍直昇機](https://zh.wikipedia.org/wiki/Category:中國解放軍直昇機 "wikilink") [Category:重型直升機](https://zh.wikipedia.org/wiki/Category:重型直升機 "wikilink")
 
 1.  《红色帝国的旋翼霸王—中国拥有“米-6”直升机之谜》

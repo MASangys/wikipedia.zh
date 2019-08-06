@@ -1288,9 +1288,7 @@ Pink Dolls由電影中的四名主角<br />
 
 ## 參考資料
 
-[Category:T-ara](https://zh.wikipedia.org/wiki/Category:T-ara "wikilink")
-[Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink")
-[Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
+[Category:T-ara](https://zh.wikipedia.org/wiki/Category:T-ara "wikilink") [Category:韓國音樂作品列表](https://zh.wikipedia.org/wiki/Category:韓國音樂作品列表 "wikilink") [Category:流行音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行音樂作品列表 "wikilink")
 
 1.
 

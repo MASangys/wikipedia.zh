@@ -4,8 +4,6 @@
 
 ## 参考文献
 
-[Category:1971年音樂專輯](https://zh.wikipedia.org/wiki/Category:1971年音樂專輯 "wikilink")
-[Category:保羅·麥卡尼音樂專輯](https://zh.wikipedia.org/wiki/Category:保羅·麥卡尼音樂專輯 "wikilink")
-[Category:Apple_Records音乐专辑](https://zh.wikipedia.org/wiki/Category:Apple_Records音乐专辑 "wikilink")
+[Category:1971年音樂專輯](https://zh.wikipedia.org/wiki/Category:1971年音樂專輯 "wikilink") [Category:保羅·麥卡尼音樂專輯](https://zh.wikipedia.org/wiki/Category:保羅·麥卡尼音樂專輯 "wikilink") [Category:Apple_Records音乐专辑](https://zh.wikipedia.org/wiki/Category:Apple_Records音乐专辑 "wikilink")
 
 1.

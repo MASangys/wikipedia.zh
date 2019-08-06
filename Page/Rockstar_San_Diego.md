@@ -1,12 +1,4 @@
-**Rockstar San Diego**（前身為**Angel Studios**，2002年11月被[Take-Two
-Interactive收購](../Page/Take-Two_Interactive.md "wikilink")）是一間美國的電子遊戲開發公司，隸屬於[Rockstar
-Games旗下](../Page/Rockstar_Games.md "wikilink")。該公司以《[瘋狂城市賽車](../Page/瘋狂城市賽車.md "wikilink")》和獲獎的《[灣岸](https://zh.wikipedia.org/wiki/灣岸 "wikilink")》（*Midnight
-Club*）系列開創了[開放世界](../Page/開放世界.md "wikilink")[競速遊戲類型](https://zh.wikipedia.org/wiki/競速遊戲 "wikilink")。Rockstar
-San Diego也負責西部風格遊戲《-{zh-cn:荒野大镖客;
-zh-tw:碧血狂殺;}-》系列的開發製作，包括2004年的《[紅色死亡左輪](../Page/紅色死亡左輪.md "wikilink")》與2010年的《[碧血狂殺](https://zh.wikipedia.org/wiki/碧血狂殺 "wikilink")》。負責研發[RAGE引擎的RAGE](https://zh.wikipedia.org/wiki/RAGE引擎 "wikilink")
-Technology
-Group也隸屬於該公司旗下，包括《[俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")》在內的多款Rockstar
-Games遊戲作品皆使用了RAGE引擎進行製作。\[1\]
+**Rockstar San Diego**（前身為**Angel Studios**，2002年11月被[Take-Two Interactive收購](../Page/Take-Two_Interactive.md "wikilink")）是一間美國的電子遊戲開發公司，隸屬於[Rockstar Games旗下](../Page/Rockstar_Games.md "wikilink")。該公司以《[瘋狂城市賽車](../Page/瘋狂城市賽車.md "wikilink")》和獲獎的《[灣岸](https://zh.wikipedia.org/wiki/灣岸 "wikilink")》（*Midnight Club*）系列開創了[開放世界](../Page/開放世界.md "wikilink")[競速遊戲類型](https://zh.wikipedia.org/wiki/競速遊戲 "wikilink")。Rockstar San Diego也負責西部風格遊戲《-{zh-cn:荒野大镖客; zh-tw:碧血狂殺;}-》系列的開發製作，包括2004年的《[紅色死亡左輪](../Page/紅色死亡左輪.md "wikilink")》與2010年的《[碧血狂殺](https://zh.wikipedia.org/wiki/碧血狂殺 "wikilink")》。負責研發[RAGE引擎的RAGE](https://zh.wikipedia.org/wiki/RAGE引擎 "wikilink") Technology Group也隸屬於該公司旗下，包括《[俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")》在內的多款Rockstar Games遊戲作品皆使用了RAGE引擎進行製作。\[1\]
 
 ## 遊戲作品
 
@@ -55,10 +47,6 @@ Games遊戲作品皆使用了RAGE引擎進行製作。\[1\]
 
   - [Rockstar San Diego 官方網站](http://www.rockstarsandiego.com/)
 
-[Category:1984年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1984年開業電子遊戲公司 "wikilink")
-[Category:Rockstar_Games](https://zh.wikipedia.org/wiki/Category:Rockstar_Games "wikilink")
-[Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:加利福尼亚州娱乐公司](https://zh.wikipedia.org/wiki/Category:加利福尼亚州娱乐公司 "wikilink")
+[Category:1984年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1984年開業電子遊戲公司 "wikilink") [Category:Rockstar_Games](https://zh.wikipedia.org/wiki/Category:Rockstar_Games "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:加利福尼亚州娱乐公司](https://zh.wikipedia.org/wiki/Category:加利福尼亚州娱乐公司 "wikilink")
 
 1.  <http://www.mobygames.com/company/rockstar-san-diego>

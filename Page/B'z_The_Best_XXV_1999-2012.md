@@ -1,13 +1,9 @@
-《**B'z The Best XXV
-1999-2012**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z](../Page/B'z.md "wikilink")在2013年6月所發行的精選輯，共收錄28首歌曲。
+《**B'z The Best XXV 1999-2012**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z](../Page/B'z.md "wikilink")在2013年6月所發行的精選輯，共收錄28首歌曲。
 
 ## 簡介
 
   - 出道25周年所發行的精選輯。
-  - 與另一張精選輯『B'z The Best XXV
-    1988-1998』在2013年6月12日同步發售。此張精選輯收錄第26張單曲《[極限chop](../Page/極限chop.md "wikilink")》到第50張單曲《[GO
-    FOR IT, BABY
-    -記憶之山脈-](https://zh.wikipedia.org/wiki/GO_FOR_IT,_BABY_-記憶之山脈- "wikilink")》，加上兩首新曲《Q\&A》、《Utopia》共計28首歌曲。
+  - 與另一張精選輯『B'z The Best XXV 1988-1998』在2013年6月12日同步發售。此張精選輯收錄第26張單曲《[極限chop](../Page/極限chop.md "wikilink")》到第50張單曲《[GO FOR IT, BABY -記憶之山脈-](https://zh.wikipedia.org/wiki/GO_FOR_IT,_BABY_-記憶之山脈- "wikilink")》，加上兩首新曲《Q\&A》、《Utopia》共計28首歌曲。
   - 最終銷量約57.3萬張。
 
 ## 收錄曲目
@@ -42,8 +38,7 @@ DISC 2
 9.  [MY LONELY TOWN](../Page/MY_LONELY_TOWN.md "wikilink")
 10. [告別傷痕累累的日子](../Page/告別傷痕累累的日子.md "wikilink")　
 11. [Don't Wanna Lie](../Page/Don't_Wanna_Lie.md "wikilink")　
-12. [GO FOR IT, BABY
-    -記憶之山脈-](https://zh.wikipedia.org/wiki/GO_FOR_IT,_BABY_-記憶之山脈- "wikilink")　
+12. [GO FOR IT, BABY -記憶之山脈-](https://zh.wikipedia.org/wiki/GO_FOR_IT,_BABY_-記憶之山脈- "wikilink")　
 13. Q\&A
       -
         動畫[名偵探柯南](../Page/名偵探柯南.md "wikilink")主題曲
@@ -90,8 +85,7 @@ DISC 2
   - [寺地秀行](https://zh.wikipedia.org/wiki/寺地秀行 "wikilink")：編曲
   - [池田大介](https://zh.wikipedia.org/wiki/池田大介 "wikilink")：編曲・ストリングスアレンジ・ホーンアレンジ
   - [大島康祐](https://zh.wikipedia.org/wiki/大島康祐 "wikilink")：編曲
-  - [Barry
-    Sparks](https://zh.wikipedia.org/wiki/Barry_Sparks "wikilink")：BASS
+  - [Barry Sparks](https://zh.wikipedia.org/wiki/Barry_Sparks "wikilink")：BASS
   - 寺沢功一：BASS
   - 中村“キタロー”幸司：BASS
   - バカボン鈴木：BASS
@@ -99,8 +93,7 @@ DISC 2
   - ロバート・ディレオ：BASS
   - ホアン・アルデレッテ：BASS
   - ショーン・ハーリー：BASS
-  - [Shane
-    Gaalaas,](https://zh.wikipedia.org/wiki/Shane_Gaalaas, "wikilink")：鼓・パーカッション
+  - [Shane Gaalaas,](https://zh.wikipedia.org/wiki/Shane_Gaalaas, "wikilink")：鼓・パーカッション
   - [黑瀨蛙一](https://zh.wikipedia.org/wiki/黑瀨蛙一 "wikilink")：鼓
   - [山木秀夫](https://zh.wikipedia.org/wiki/山木秀夫 "wikilink")：鼓
   - ブライアン・ティッシー：鼓
@@ -121,6 +114,4 @@ DISC 2
   - [B'z官網](http://www.bz-vermillion.com/index2.html)
   - [B'z LIVE-GYM](http://www.bz-livegym.com/)
 
-[Category:B'z精選輯](https://zh.wikipedia.org/wiki/Category:B'z精選輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:VERMILLION_RECORDS音樂專輯](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音樂專輯 "wikilink")
+[Category:B'z精選輯](https://zh.wikipedia.org/wiki/Category:B'z精選輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:VERMILLION_RECORDS音樂專輯](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音樂專輯 "wikilink")

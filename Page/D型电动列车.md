@@ -1,6 +1,4 @@
-**D型电动列车**（[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")：Вагоны
-метро типа
-«Д»）是[莫斯科地铁](../Page/莫斯科地铁.md "wikilink")、[圣彼得堡地铁](../Page/圣彼得堡地铁.md "wikilink")、[新西伯利亚地铁](https://zh.wikipedia.org/wiki/新西伯利亚地铁 "wikilink")、[基辅地铁的](https://zh.wikipedia.org/wiki/基辅地铁 "wikilink")[电力动车组车款之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，现在已经退出使用。
+**D型电动列车**（[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")：Вагоны метро типа «Д»）是[莫斯科地铁](../Page/莫斯科地铁.md "wikilink")、[圣彼得堡地铁](../Page/圣彼得堡地铁.md "wikilink")、[新西伯利亚地铁](https://zh.wikipedia.org/wiki/新西伯利亚地铁 "wikilink")、[基辅地铁的](https://zh.wikipedia.org/wiki/基辅地铁 "wikilink")[电力动车组车款之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，现在已经退出使用。
 
 ## 简介
 
@@ -34,15 +32,7 @@ D型由[地铁车辆机械制造厂](../Page/地铁车辆机械制造厂.md "wik
 
 ## 外部链接
 
-  - [Вагоны типа «Д» на сайте
-    «Метровагоны»](http://vagon.metro.ru/passenger/d.html)
-  - [Фотографии вагонов метро типа «Д» на Фотогалерее
-    метро](http://metro-photo.ru/search.php?search_keywords=%F2%E8%EF-%E4)
+  - [Вагоны типа «Д» на сайте «Метровагоны»](http://vagon.metro.ru/passenger/d.html)
+  - [Фотографии вагонов метро типа «Д» на Фотогалерее метро](http://metro-photo.ru/search.php?search_keywords=%F2%E8%EF-%E4)
 
-[Category:俄罗斯电力动车组](https://zh.wikipedia.org/wiki/Category:俄罗斯电力动车组 "wikilink")
-[Category:莫斯科地铁](https://zh.wikipedia.org/wiki/Category:莫斯科地铁 "wikilink")
-[Category:圣彼得堡地铁](https://zh.wikipedia.org/wiki/Category:圣彼得堡地铁 "wikilink")
-[Category:新西伯利亚地铁](https://zh.wikipedia.org/wiki/Category:新西伯利亚地铁 "wikilink")
-[Category:基辅地铁](https://zh.wikipedia.org/wiki/Category:基辅地铁 "wikilink")
-[Category:750伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:750伏直流電力動車組 "wikilink")
-[Category:825伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:825伏直流電力動車組 "wikilink")
+[Category:俄罗斯电力动车组](https://zh.wikipedia.org/wiki/Category:俄罗斯电力动车组 "wikilink") [Category:莫斯科地铁](https://zh.wikipedia.org/wiki/Category:莫斯科地铁 "wikilink") [Category:圣彼得堡地铁](https://zh.wikipedia.org/wiki/Category:圣彼得堡地铁 "wikilink") [Category:新西伯利亚地铁](https://zh.wikipedia.org/wiki/Category:新西伯利亚地铁 "wikilink") [Category:基辅地铁](https://zh.wikipedia.org/wiki/Category:基辅地铁 "wikilink") [Category:750伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:750伏直流電力動車組 "wikilink") [Category:825伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:825伏直流電力動車組 "wikilink")

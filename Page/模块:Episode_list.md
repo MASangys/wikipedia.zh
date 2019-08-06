@@ -1,23 +1,14 @@
 local p = {}
 
-\-- This module requires the use of the following modules: local
-colorContrastModule = require('Module:Color contrast') local htmlColor =
-mw.loadData('Module:Color contrast/colors') local delinkModule =
-require('Module:Delink') local langModule = require("Module:Lang") local
-mathModule = require('Module:Math') local tableEmptyCellModule =
-require('Module:Table empty cell') local yesNoModule =
-require('Module:Yesno')
+\-- This module requires the use of the following modules: local colorContrastModule = require('Module:Color contrast') local htmlColor = mw.loadData('Module:Color contrast/colors') local delinkModule = require('Module:Delink') local langModule = require("Module:Lang") local mathModule = require('Module:Math') local tableEmptyCellModule = require('Module:Table empty cell') local yesNoModule = require('Module:Yesno')
 
 \-- mw.html object for the generated row. local row
 
-\-- Variable that will decide the colspan= of the Short Summary cell.
-local nonNilParams = 0
+\-- Variable that will decide the colspan= of the Short Summary cell. local nonNilParams = 0
 
-\-- Variable that will keep track if a TBA value was entered. local
-cellValueTBA = false
+\-- Variable that will keep track if a TBA value was entered. local cellValueTBA = false
 
-\-- Variable that handles the assigned tracking categories. local
-trackingCategories = ""
+\-- Variable that handles the assigned tracking categories. local trackingCategories = ""
 
 \-- List of tracking categories. local trackingCategoryList = {
 
@@ -48,11 +39,9 @@ trackingCategories = ""
 
 }
 
-\-- List of cells that have parameter groups local parameterGroupCells =
-{} local firstParameterGroupCell
+\-- List of cells that have parameter groups local parameterGroupCells = {} local firstParameterGroupCell
 
-\-- List of title parameter names in this order. -- List used for multi
-title lists. local titleList = {
+\-- List of title parameter names in this order. -- List used for multi title lists. local titleList = {
 
 `   'Title',`
 `   'RTitle',`
@@ -63,9 +52,7 @@ title lists. local titleList = {
 
 }
 
-\-- Local function which is used to retrieve the episode number or
-production code number, -- without any additional text. local function
-idTrim(val, search)
+\-- Local function which is used to retrieve the episode number or production code number, -- without any additional text. local function idTrim(val, search)
 
 `   local valFind = string.find(val, search)`
 
@@ -77,8 +64,7 @@ idTrim(val, search)
 
 end
 
-\-- Local function which is used to validate that a parameter has an
-actual value. local function hasValue(param)
+\-- Local function which is used to validate that a parameter has an actual value. local function hasValue(param)
 
 `   if (param ~= nil and param ~= "") then`
 `       return true`
@@ -88,8 +74,7 @@ actual value. local function hasValue(param)
 
 end
 
-\-- Local function which is used to create a table data cell. local
-function createTableData(text, rowSpan, textAlign)
+\-- Local function which is used to create a table data cell. local function createTableData(text, rowSpan, textAlign)
 
 `   if (rowSpan ~= nil and tonumber(rowSpan) > 1) then`
 `       row:tag('td')`
@@ -103,15 +88,13 @@ function createTableData(text, rowSpan, textAlign)
 
 end
 
-\-- Local function which is used to add a tracking category to the page.
-local function addTrackingCategory(category)
+\-- Local function which is used to add a tracking category to the page. local function addTrackingCategory(category)
 
 `   trackingCategories = trackingCategories .. category`
 
 end
 
-\-- Local function which is used to create a Short Summary row. local
-function createShortSummaryRow(args, lineColor)
+\-- Local function which is used to create a Short Summary row. local function createShortSummaryRow(args, lineColor)
 
 `   -- fix for lists in the Short Summary`
 `   local shortSummaryText = args.ShortSummary`
@@ -137,8 +120,7 @@ function createShortSummaryRow(args, lineColor)
 
 end
 
-\-- Local function which is used to add tracking categories for Top
-Color issues. local function addTopColorTrackingCategories(args)
+\-- Local function which is used to add tracking categories for Top Color issues. local function addTopColorTrackingCategories(args)
 
 `   if (hasValue(args.TopColor)) then`
 `       addTrackingCategory(trackingCategoryList["row_deviations"])`
@@ -157,8 +139,7 @@ Color issues. local function addTopColorTrackingCategories(args)
 
 end
 
-\-- Local function which is used to add tracking categories for Line
-Color issues. local function addLineColorTrackingCategories(args)
+\-- Local function which is used to add tracking categories for Line Color issues. local function addLineColorTrackingCategories(args)
 
 `   if (hasValue(args.LineColor)) then`
 `       local blackContrastRatio = colorContrastModule._ratio{args.LineColor, 'black', ['error'] = 0}`
@@ -175,19 +156,13 @@ Color issues. local function addLineColorTrackingCategories(args)
 
 end
 
-\-- Local function which is used to remove wiki-links from repated
-information in rowspans. -- Used for Doctor Who serials, where the
-director and writer are the same for each part of serial. local function
-removeWikilinks(args, v)
+\-- Local function which is used to remove wiki-links from repated information in rowspans. -- Used for Doctor Who serials, where the director and writer are the same for each part of serial. local function removeWikilinks(args, v)
 
 `   return delinkModule._delink{args[v]}`
 
 end
 
-\-- Local function which is used to set the text of an empty cell --
-with either "TBD" or "N/A". -- Set to N/A if viewers haven't been
-available for four weeks, else set it as TBD. local function
-setTBDStatus(args)
+\-- Local function which is used to set the text of an empty cell -- with either "TBD" or "N/A". -- Set to N/A if viewers haven't been available for four weeks, else set it as TBD. local function setTBDStatus(args)
 
 `   local month, day, year = args.OriginalAirDate:gsub(" ", " "):match("(%a+) (%d+), (%d+)")`
 
@@ -225,8 +200,7 @@ setTBDStatus(args)
 
 end
 
-\-- Local function which is used to create an empty cell. local function
-createEmptyCell(args, v, unsetParameterGroup)
+\-- Local function which is used to create an empty cell. local function createEmptyCell(args, v, unsetParameterGroup)
 
 `   if (unsetParameterGroup) then`
 `       args[v] = tableEmptyCellModule._main({alt_text = "不適用"})`
@@ -238,8 +212,7 @@ createEmptyCell(args, v, unsetParameterGroup)
 
 end
 
-\-- Air dates that don't use  local function
-checkUsageOfDateTemplates(args, v, onInitialPage, title)
+\-- Air dates that don't use  local function checkUsageOfDateTemplates(args, v, onInitialPage, title)
 
 `   if (v == 'OriginalAirDate'`
 `       and args[v] ~= ''`
@@ -259,8 +232,7 @@ checkUsageOfDateTemplates(args, v, onInitialPage, title)
 
 end
 
-\-- Local function which is used to create a Production Code cell. local
-function createProductionCodeCell(args, v)
+\-- Local function which is used to create a Production Code cell. local function createProductionCodeCell(args, v)
 
 `   if (hasValue(args.ProdCode) and string.find(args.ProdCode, 'TBA') == nil) then`
 `       row:tag('td')`
@@ -278,13 +250,7 @@ function createProductionCodeCell(args, v)
 
 end
 
-\--[Local function which is used to extract data from the numbered
-serial parameters (Title1, Aux1, etc.), and then convert them to use the
-non-numbered prameter names (Title, Aux). The function returns the args
-as non-numbered prameter
-names.](https://zh.wikipedia.org/wiki/Local_function_which_is_used_to_extract_data_from_the_numbered_serial_parameters_\(Title1,_Aux1,_etc.\),_and_then_convert_them_to_use_the_non-numbered_prameter_names_\(Title,_Aux\)._The_function_returns_the_args_as_non-numbered_prameter_names. "wikilink")--
-local function extractDataFromNumberedSerialArgs(args, i,
-numberOfParameterGroups, title)
+\--[Local function which is used to extract data from the numbered serial parameters (Title1, Aux1, etc.), and then convert them to use the non-numbered prameter names (Title, Aux). The function returns the args as non-numbered prameter names.](https://zh.wikipedia.org/wiki/Local_function_which_is_used_to_extract_data_from_the_numbered_serial_parameters_\(Title1,_Aux1,_etc.\),_and_then_convert_them_to_use_the_non-numbered_prameter_names_\(Title,_Aux\)._The_function_returns_the_args_as_non-numbered_prameter_names. "wikilink")-- local function extractDataFromNumberedSerialArgs(args, i, numberOfParameterGroups, title)
 
 `   for _, v in ipairs(cellNameList) do`
 `       local parameter = v`
@@ -307,13 +273,7 @@ numberOfParameterGroups, title)
 
 end
 
-\--[Local function which is used to create column cells. EpisodeNumber,
-EpisodeNumber2 and Title are created in different functions as they
-require some various if checks. See: -- createEpisodeNumberCell() --
-createEpisodeNumberCell2() --
-createTitleCell()](https://zh.wikipedia.org/wiki/Local_function_which_is_used_to_create_column_cells._EpisodeNumber,_EpisodeNumber2_and_Title_are_created_in_different_functions_as_they_require_some_various_if_checks._See:_--_createEpisodeNumberCell\(\)_--_createEpisodeNumberCell2\(\)_--_createTitleCell\(\) "wikilink")--
-local function createCells(args, isSerial, currentRow, onInitialPage,
-title, numberOfParameterGroups)
+\--[Local function which is used to create column cells. EpisodeNumber, EpisodeNumber2 and Title are created in different functions as they require some various if checks. See: -- createEpisodeNumberCell() -- createEpisodeNumberCell2() -- createTitleCell()](https://zh.wikipedia.org/wiki/Local_function_which_is_used_to_create_column_cells._EpisodeNumber,_EpisodeNumber2_and_Title_are_created_in_different_functions_as_they_require_some_various_if_checks._See:_--_createEpisodeNumberCell\(\)_--_createEpisodeNumberCell2\(\)_--_createTitleCell\(\) "wikilink")-- local function createCells(args, isSerial, currentRow, onInitialPage, title, numberOfParameterGroups)
 
 `   for k, v in ipairs(cellNameList) do`
 `       if (v == 'ProdCode') then`
@@ -356,16 +316,7 @@ title, numberOfParameterGroups)
 
 end
 
-\--[Local function which is used to create the Title cell text. The
-title text will be handled in the following way: Line 1:
-\<Title\>\<RTitle\> (with no space between) Line 2:
-\<AltTitle\>\<RAltTitle\> (with no space between) OR Line 2:
-Transcription: \<TranslitTitle\> (\<Language\>:
-\<NativeTitle\>)\<RAltTitle\> (with space between first two parameters)
-If \<Title\> or \<RTitle\> are empty, then the values of line 2 will be
-placed on line 1 instead.
---](https://zh.wikipedia.org/wiki/Local_function_which_is_used_to_create_the_Title_cell_text._The_title_text_will_be_handled_in_the_following_way:_Line_1:_\<Title\>\<RTitle\>_\(with_no_space_between\)_Line_2:_\<AltTitle\>\<RAltTitle\>_\(with_no_space_between\)_OR_Line_2:_Transcription:_\<TranslitTitle\>_\(\<Language\>:_\<NativeTitle\>\)\<RAltTitle\>_\(with_space_between_first_two_parameters\)_If_\<Title\>_or_\<RTitle\>_are_empty,_then_the_values_of_line_2_will_be_placed_on_line_1_instead._-- "wikilink")
-local function createTitleText(args)
+\--[Local function which is used to create the Title cell text. The title text will be handled in the following way: Line 1: \<Title\>\<RTitle\> (with no space between) Line 2: \<AltTitle\>\<RAltTitle\> (with no space between) OR Line 2: Transcription: \<TranslitTitle\> (\<Language\>: \<NativeTitle\>)\<RAltTitle\> (with space between first two parameters) If \<Title\> or \<RTitle\> are empty, then the values of line 2 will be placed on line 1 instead. --](https://zh.wikipedia.org/wiki/Local_function_which_is_used_to_create_the_Title_cell_text._The_title_text_will_be_handled_in_the_following_way:_Line_1:_\<Title\>\<RTitle\>_\(with_no_space_between\)_Line_2:_\<AltTitle\>\<RAltTitle\>_\(with_no_space_between\)_OR_Line_2:_Transcription:_\<TranslitTitle\>_\(\<Language\>:_\<NativeTitle\>\)\<RAltTitle\>_\(with_space_between_first_two_parameters\)_If_\<Title\>_or_\<RTitle\>_are_empty,_then_the_values_of_line_2_will_be_placed_on_line_1_instead._-- "wikilink") local function createTitleText(args)
 
 `   local titleString = ''`
 `   local isCellPresent = false`
@@ -454,13 +405,7 @@ local function createTitleText(args)
 
 end
 
-\--[Local function which is used to extract data from the numbered title
-parameters (Title1, RTitle2, etc.), and then convert them to use the
-non-numbered prameter names (Title, RTitle). The function returns two
-results: -- The args parameter table. -- A boolean indicating if the
-title group has
-data.](https://zh.wikipedia.org/wiki/Local_function_which_is_used_to_extract_data_from_the_numbered_title_parameters_\(Title1,_RTitle2,_etc.\),_and_then_convert_them_to_use_the_non-numbered_prameter_names_\(Title,_RTitle\)._The_function_returns_two_results:_--_The_args_parameter_table._--_A_boolean_indicating_if_the_title_group_has_data. "wikilink")--
-local function extractDataFromNumberedTitleArgs(args, i)
+\--[Local function which is used to extract data from the numbered title parameters (Title1, RTitle2, etc.), and then convert them to use the non-numbered prameter names (Title, RTitle). The function returns two results: -- The args parameter table. -- A boolean indicating if the title group has data.](https://zh.wikipedia.org/wiki/Local_function_which_is_used_to_extract_data_from_the_numbered_title_parameters_\(Title1,_RTitle2,_etc.\),_and_then_convert_them_to_use_the_non-numbered_prameter_names_\(Title,_RTitle\)._The_function_returns_two_results:_--_The_args_parameter_table._--_A_boolean_indicating_if_the_title_group_has_data. "wikilink")-- local function extractDataFromNumberedTitleArgs(args, i)
 
 `   local nextGroupValid = false`
 
@@ -478,8 +423,7 @@ local function extractDataFromNumberedTitleArgs(args, i)
 
 end
 
-\-- Local function which is used to process the multi title list. local
-function processMultiTitleList(args, numberOfParameterGroups)
+\-- Local function which is used to process the multi title list. local function processMultiTitleList(args, numberOfParameterGroups)
 
 `   local nativeTitleLangCode = args.NativeTitleLangCode`
 `   local titleText = ""`
@@ -516,9 +460,7 @@ function processMultiTitleList(args, numberOfParameterGroups)
 
 end
 
-\-- Local function which is used to create a Title cell. local function
-createTitleCell(args, numberOfParameterGroups, multiTitleListEnabled,
-isSerial)
+\-- Local function which is used to create a Title cell. local function createTitleCell(args, numberOfParameterGroups, multiTitleListEnabled, isSerial)
 
 `   local titleText`
 `   local isCellPresent`
@@ -576,10 +518,7 @@ isSerial)
 
 end
 
-\-- Local function which is used to create a table row header for either
-the -- EpisodeNumber or EpisodeNumber2 column cells. local function
-createTableRowEpisodeNumberHeader(episodeNumber,
-numberOfParameterGroups, episodeText)
+\-- Local function which is used to create a table row header for either the -- EpisodeNumber or EpisodeNumber2 column cells. local function createTableRowEpisodeNumberHeader(episodeNumber, numberOfParameterGroups, episodeText)
 
 `       row:tag('th')`
 `           :attr('scope', 'row')`
@@ -590,18 +529,7 @@ numberOfParameterGroups, episodeText)
 
 end
 
-\--[Local function which is used to extract the text from the
-EpisodeNumber or EpisodeNumber2 parameters and format them into a
-correct MoS compliant version. Styles supported: -- A number range of
-two numbers, indicating the start and end of the range, seperated by an
-en-dash (–) with no spaces in between. Example: "1 - 2" -\> "1–2";
-"1-2-3" -\> "1–3". -- An alphanumeric or letter range, similar to the
-above. Example: "A - B" -\> "A–B"; "A-B-C" -\> "A–C". Example: "A1 - B1"
--\> "A1–B1"; "A1-B1-C1" -\> "A1–C1". -- A number range of two numbers,
-indicating the start and end of the range, seperated by a visual \<hr
-/\> (divider line). -- An alphanumeric or letter range, similar to the
-above.](https://zh.wikipedia.org/wiki/Local_function_which_is_used_to_extract_the_text_from_the_EpisodeNumber_or_EpisodeNumber2_parameters_and_format_them_into_a_correct_MoS_compliant_version._Styles_supported:_--_A_number_range_of_two_numbers,_indicating_the_start_and_end_of_the_range,_seperated_by_an_en-dash_\(–\)_with_no_spaces_in_between._Example:_"1_-_2"_-\>_"1–2";_"1-2-3"_-\>_"1–3"._--_An_alphanumeric_or_letter_range,_similar_to_the_above._Example:_"A_-_B"_-\>_"A–B";_"A-B-C"_-\>_"A–C"._Example:_"A1_-_B1"_-\>_"A1–B1";_"A1-B1-C1"_-\>_"A1–C1"._--_A_number_range_of_two_numbers,_indicating_the_start_and_end_of_the_range,_seperated_by_a_visual_\<hr_/\>_\(divider_line\)._--_An_alphanumeric_or_letter_range,_similar_to_the_above. "wikilink")--
-local function getEpisodeText(episodeNumber)
+\--[Local function which is used to extract the text from the EpisodeNumber or EpisodeNumber2 parameters and format them into a correct MoS compliant version. Styles supported: -- A number range of two numbers, indicating the start and end of the range, seperated by an en-dash (–) with no spaces in between. Example: "1 - 2" -\> "1–2"; "1-2-3" -\> "1–3". -- An alphanumeric or letter range, similar to the above. Example: "A - B" -\> "A–B"; "A-B-C" -\> "A–C". Example: "A1 - B1" -\> "A1–B1"; "A1-B1-C1" -\> "A1–C1". -- A number range of two numbers, indicating the start and end of the range, seperated by a visual \<hr /\> (divider line). -- An alphanumeric or letter range, similar to the above.](https://zh.wikipedia.org/wiki/Local_function_which_is_used_to_extract_the_text_from_the_EpisodeNumber_or_EpisodeNumber2_parameters_and_format_them_into_a_correct_MoS_compliant_version._Styles_supported:_--_A_number_range_of_two_numbers,_indicating_the_start_and_end_of_the_range,_seperated_by_an_en-dash_\(–\)_with_no_spaces_in_between._Example:_"1_-_2"_-\>_"1–2";_"1-2-3"_-\>_"1–3"._--_An_alphanumeric_or_letter_range,_similar_to_the_above._Example:_"A_-_B"_-\>_"A–B";_"A-B-C"_-\>_"A–C"._Example:_"A1_-_B1"_-\>_"A1–B1";_"A1-B1-C1"_-\>_"A1–C1"._--_A_number_range_of_two_numbers,_indicating_the_start_and_end_of_the_range,_seperated_by_a_visual_\<hr_/\>_\(divider_line\)._--_An_alphanumeric_or_letter_range,_similar_to_the_above. "wikilink")-- local function getEpisodeText(episodeNumber)
 
 `   if (episodeNumber == '') then`
 `       return tableEmptyCellModule._main({})`
@@ -659,8 +587,7 @@ local function getEpisodeText(episodeNumber)
 
 end
 
-\-- Local function which is used to create an EpisodeNumber2 cell. local
-function createEpisodeNumberCell2(args, numberOfParameterGroups)
+\-- Local function which is used to create an EpisodeNumber2 cell. local function createEpisodeNumberCell2(args, numberOfParameterGroups)
 
 `   if (args.EpisodeNumber2) then`
 `       local episodeText = getEpisodeText(args.EpisodeNumber2)`
@@ -677,8 +604,7 @@ function createEpisodeNumberCell2(args, numberOfParameterGroups)
 
 end
 
-\-- Local function which is used to create an EpisodeNumber cell. local
-function createEpisodeNumberCell(args, numberOfParameterGroups)
+\-- Local function which is used to create an EpisodeNumber cell. local function createEpisodeNumberCell(args, numberOfParameterGroups)
 
 `   if (args.EpisodeNumber) then`
 `       local episodeText = getEpisodeText(args.EpisodeNumber)`
@@ -688,10 +614,7 @@ function createEpisodeNumberCell(args, numberOfParameterGroups)
 
 end
 
-\-- Local function which is used to create a single row of cells. --
-This is the standard function called. local function
-createSingleRowCells(args, numberOfParameterGroups,
-multiTitleListEnabled, onInitialPage, title)
+\-- Local function which is used to create a single row of cells. -- This is the standard function called. local function createSingleRowCells(args, numberOfParameterGroups, multiTitleListEnabled, onInitialPage, title)
 
 `   createEpisodeNumberCell(args, 1)`
 `   createEpisodeNumberCell2(args, 1)`
@@ -700,10 +623,7 @@ multiTitleListEnabled, onInitialPage, title)
 
 end
 
-\-- Local function which is used to create a multiple row of cells. --
-This function is called when part of the row is rowspaned. -- Current
-use is for Doctor Who serials. local function createMultiRowCells(args,
-numberOfParameterGroups, onInitialPage, title, topColor)
+\-- Local function which is used to create a multiple row of cells. -- This function is called when part of the row is rowspaned. -- Current use is for Doctor Who serials. local function createMultiRowCells(args, numberOfParameterGroups, onInitialPage, title, topColor)
 
 `   createEpisodeNumberCell(args, numberOfParameterGroups)`
 `   createEpisodeNumberCell2(args, numberOfParameterGroups)`
@@ -721,8 +641,7 @@ numberOfParameterGroups, onInitialPage, title, topColor)
 
 end
 
-\-- Local function which is used to retrieve the NumParts value. local
-function getnumberOfParameterGroups(args)
+\-- Local function which is used to retrieve the NumParts value. local function getnumberOfParameterGroups(args)
 
 `   for k, v in ipairs(cellNameList) do`
 `       local numberedParameter = v .. "_" .. 1`
@@ -742,8 +661,7 @@ function getnumberOfParameterGroups(args)
 
 end
 
-\-- Local function which is used to retrieve the Top Color value. local
-function getTopColor(args, rowColorEnabled, onInitialPage)
+\-- Local function which is used to retrieve the Top Color value. local function getTopColor(args, rowColorEnabled, onInitialPage)
 
 `   local episodeNumber = mathModule._cleanNumber(args.EpisodeNumber) or 1`
 `   if (args.TopColor) then`
@@ -762,8 +680,7 @@ function getTopColor(args, rowColorEnabled, onInitialPage)
 
 end
 
-\-- Local function which is used to retrieve the Row Color value. local
-function isRowColorEnabled(args)
+\-- Local function which is used to retrieve the Row Color value. local function isRowColorEnabled(args)
 
 `   local rowColorEnabled = yesNoModule(args.RowColor, false)`
 
@@ -775,8 +692,7 @@ function isRowColorEnabled(args)
 
 end
 
-\-- Local function which is used to retrieve the Line Color value. local
-function getLineColor(args)
+\-- Local function which is used to retrieve the Line Color value. local function getLineColor(args)
 
 `   -- Default color to light blue`
 `   local lineColor = args.LineColor or 'CCCCFF'`
@@ -793,10 +709,7 @@ function getLineColor(args)
 
 end
 
-\-- Local function which is used to check if the table is located on the
-page -- currently viewed, or on a transcluded page instead. -- If it is
-on a transcluded page, the episode summary should not be shown. local
-function isOnInitialPage(args, sublist, pageTitle, initiallistTitle)
+\-- Local function which is used to check if the table is located on the page -- currently viewed, or on a transcluded page instead. -- If it is on a transcluded page, the episode summary should not be shown. local function isOnInitialPage(args, sublist, pageTitle, initiallistTitle)
 
 `   -- This should be the only check needed, however, it was previously implemented with two templates`
 `   -- with one of them not requiring an article name, so for backward compatability, the whole sequence is kept.`
@@ -821,8 +734,7 @@ function isOnInitialPage(args, sublist, pageTitle, initiallistTitle)
 
 end
 
-\-- Local function which does the actual main process. local function
-_main(args, sublist)
+\-- Local function which does the actual main process. local function _main(args, sublist)
 
 `   local title = mw.title.getCurrentTitle()`
 `   local pageTitle = title.text`
@@ -875,8 +787,7 @@ _main(args, sublist)
 
 end
 
-\-- Local function which handles both module entry points. local
-function main(frame, sublist)
+\-- Local function which handles both module entry points. local function main(frame, sublist)
 
 `   local getArgs = require('Module:Arguments').getArgs`
 `   local args`
@@ -893,9 +804,7 @@ function main(frame, sublist)
 
 end
 
-\--\[\[ Public function which is used to create an Episode row for an
-Episode Table used for lists of episodes where each table is on a
-different page, usually placed on individual season articles.
+\--\[\[ Public function which is used to create an Episode row for an Episode Table used for lists of episodes where each table is on a different page, usually placed on individual season articles.
 
 For tables which are all on the same page see p.list().
 
@@ -942,12 +851,7 @@ Parameters:
 
 end
 
-\--[Public function which is used to create an Episode row for an
-Episode Table used for lists of episodes where all tables are on the
-same page. For tables which are on different pages see p.sublist(). For
-complete parameter documentation, see the documentation at p.sublist().
---](https://zh.wikipedia.org/wiki/Public_function_which_is_used_to_create_an_Episode_row_for_an_Episode_Table_used_for_lists_of_episodes_where_all_tables_are_on_the_same_page._For_tables_which_are_on_different_pages_see_p.sublist\(\)._For_complete_parameter_documentation,_see_the_documentation_at_p.sublist\(\)._-- "wikilink")
-function p.list(frame)
+\--[Public function which is used to create an Episode row for an Episode Table used for lists of episodes where all tables are on the same page. For tables which are on different pages see p.sublist(). For complete parameter documentation, see the documentation at p.sublist(). --](https://zh.wikipedia.org/wiki/Public_function_which_is_used_to_create_an_Episode_row_for_an_Episode_Table_used_for_lists_of_episodes_where_all_tables_are_on_the_same_page._For_tables_which_are_on_different_pages_see_p.sublist\(\)._For_complete_parameter_documentation,_see_the_documentation_at_p.sublist\(\)._-- "wikilink") function p.list(frame)
 
 `   return main(frame, false)`
 
@@ -955,12 +859,4 @@ end
 
 return p
 
-[Category:劇集列表中存在不規則的播出日期](https://zh.wikipedia.org/wiki/Category:劇集列表中存在不規則的播出日期 "wikilink")
-[Category:劇集列表中存在不規則的備用播出日期](https://zh.wikipedia.org/wiki/Category:劇集列表中存在不規則的備用播出日期 "wikilink")
-[Category:劇集列表中存在不正確的線條顏色](https://zh.wikipedia.org/wiki/Category:劇集列表中存在不正確的線條顏色 "wikilink")
-[Category:劇集列表中存在不合規則的線條顏色](https://zh.wikipedia.org/wiki/Category:劇集列表中存在不合規則的線條顏色 "wikilink")
-[Category:使用默认线条颜色的剧集列表](https://zh.wikipedia.org/wiki/Category:使用默认线条颜色的剧集列表 "wikilink")
-[Category:行偏差的剧集列表](https://zh.wikipedia.org/wiki/Category:行偏差的剧集列表 "wikilink")
-[Category:劇集列表中存在無效的頂部顏色](https://zh.wikipedia.org/wiki/Category:劇集列表中存在無效的頂部顏色 "wikilink")
-[Category:劇集列表中存在未確定的參數](https://zh.wikipedia.org/wiki/Category:劇集列表中存在未確定的參數 "wikilink")
-[Category:劇集列表中存在不匹配的數值參數](https://zh.wikipedia.org/wiki/Category:劇集列表中存在不匹配的數值參數 "wikilink")
+[Category:劇集列表中存在不規則的播出日期](https://zh.wikipedia.org/wiki/Category:劇集列表中存在不規則的播出日期 "wikilink") [Category:劇集列表中存在不規則的備用播出日期](https://zh.wikipedia.org/wiki/Category:劇集列表中存在不規則的備用播出日期 "wikilink") [Category:劇集列表中存在不正確的線條顏色](https://zh.wikipedia.org/wiki/Category:劇集列表中存在不正確的線條顏色 "wikilink") [Category:劇集列表中存在不合規則的線條顏色](https://zh.wikipedia.org/wiki/Category:劇集列表中存在不合規則的線條顏色 "wikilink") [Category:使用默认线条颜色的剧集列表](https://zh.wikipedia.org/wiki/Category:使用默认线条颜色的剧集列表 "wikilink") [Category:行偏差的剧集列表](https://zh.wikipedia.org/wiki/Category:行偏差的剧集列表 "wikilink") [Category:劇集列表中存在無效的頂部顏色](https://zh.wikipedia.org/wiki/Category:劇集列表中存在無效的頂部顏色 "wikilink") [Category:劇集列表中存在未確定的參數](https://zh.wikipedia.org/wiki/Category:劇集列表中存在未確定的參數 "wikilink") [Category:劇集列表中存在不匹配的數值參數](https://zh.wikipedia.org/wiki/Category:劇集列表中存在不匹配的數值參數 "wikilink")

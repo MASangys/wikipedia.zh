@@ -1,6 +1,4 @@
-**洛伊·奧利弗·迪士尼**
-（，1893年6月24日－1971年12月20日）是[華特·迪士尼](../Page/華特·迪士尼.md "wikilink")的三哥，[華特迪士尼公司共同創辦人兼首任](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")[執行長](https://zh.wikipedia.org/wiki/執行長 "wikilink")。为了与同名的兒子分别，现今在解说相关事蹟时会以「老洛伊」(Roy
-Disney, Sr.)与「小洛伊」(Roy Disney, Jr.)代称。
+**洛伊·奧利弗·迪士尼** （，1893年6月24日－1971年12月20日）是[華特·迪士尼](../Page/華特·迪士尼.md "wikilink")的三哥，[華特迪士尼公司共同創辦人兼首任](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")[執行長](https://zh.wikipedia.org/wiki/執行長 "wikilink")。为了与同名的兒子分别，现今在解说相关事蹟时会以「老洛伊」(Roy Disney, Sr.)与「小洛伊」(Roy Disney, Jr.)代称。
 
 洛伊·奧利弗·迪士尼和他的弟弟華特·迪士尼共同创办了[华特迪士尼公司](../Page/华特迪士尼公司.md "wikilink")，成為全球著名的企业家，在1929年-1971年担任總裁，1925年4月和埃德娜·弗朗西斯（）结婚，1930年1月10日他的儿子[洛伊·愛德華·迪士尼](../Page/洛伊·愛德華·迪士尼.md "wikilink")（）出生。众所周知，華特·迪士尼是一个梦想家和创意天才，而洛伊·迪士尼则是经营公司的高手，是他保证了迪士尼公司财务和各个部门有效的稳定运转。華特·迪士尼去世後，洛伊·奧利弗·迪士尼努力让迪士尼世界度假区开幕，并为了纪念他的弟弟将度假区更改名字为[华特迪士尼世界](https://zh.wikipedia.org/wiki/华特迪士尼世界 "wikilink")（）。1971年10月华特迪士尼世界度假区开幕之後，他選擇退休，可是两个月後，他由于积劳成疾，死于脑溢血。
 
@@ -12,8 +10,7 @@ Disney, Sr.)与「小洛伊」(Roy Disney, Jr.)代称。
 
 ### 迪士尼事業
 
-[华特·迪士尼搬到](https://zh.wikipedia.org/wiki/华特·迪士尼 "wikilink")[堪薩斯城裡開展一生的藝術工作事業](https://zh.wikipedia.org/wiki/堪薩斯城 "wikilink")，此時洛伊·奧利弗·迪士尼在銀行上班，透過洛伊朋友的引薦，华特得到一份在藝術工作室的工作，工作內容是替報紙、雜誌、戲院製作廣告，成立影片公司破産後,
-华特·迪士尼決定前往成功發展中的娛樂工業中心[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[好萊塢求發展](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")，但發覺影片界發展不會順利後，便回到動畫領域，华特·迪士尼在好萊塢第一個卡通工作室就位於伯父羅伯特家的車庫。
+[华特·迪士尼搬到](https://zh.wikipedia.org/wiki/华特·迪士尼 "wikilink")[堪薩斯城裡開展一生的藝術工作事業](https://zh.wikipedia.org/wiki/堪薩斯城 "wikilink")，此時洛伊·奧利弗·迪士尼在銀行上班，透過洛伊朋友的引薦，华特得到一份在藝術工作室的工作，工作內容是替報紙、雜誌、戲院製作廣告，成立影片公司破産後, 华特·迪士尼決定前往成功發展中的娛樂工業中心[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[好萊塢求發展](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")，但發覺影片界發展不會順利後，便回到動畫領域，华特·迪士尼在好萊塢第一個卡通工作室就位於伯父羅伯特家的車庫。
 
 华特極力尋求洛伊·奧利弗·迪士尼的協助，此時洛伊正因肺結核在[洛杉磯的一家退伍軍人醫院療養](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。华特非常誠心地請求三哥能到這家草創的工作室幫忙。表示如果欠缺他的協助，財務上將無法維持收支的正常，洛伊·奧利弗·迪士尼答應了他，並和他一起離開醫院。洛伊日後並未再回到這家醫院，而肺結核也未曾復發。在迪士尼的邀請下一些昔日的工作夥伴和家人陸續由堪薩斯城移居到好萊塢，有"愛麗絲的幻想世界"的人物主角，和先前創業夥伴，形成初期的「迪士尼兄弟工作室」。
 
@@ -42,24 +39,11 @@ Disney, Sr.)与「小洛伊」(Roy Disney, Jr.)代称。
 
 ## 參考書目
 
-  - [Bob
-    Thomas](https://zh.wikipedia.org/wiki/Bob_Thomas_\(reporter\) "wikilink")
-    *Building a Company: Roy O. Disney and the Creation of an
-    Entertainment Empire.* Disney Editions, 1998. ISBN 0-7868-6200-9
+  - [Bob Thomas](https://zh.wikipedia.org/wiki/Bob_Thomas_\(reporter\) "wikilink") *Building a Company: Roy O. Disney and the Creation of an Entertainment Empire.* Disney Editions, 1998. ISBN 0-7868-6200-9
 
 ## 外部連結
 
   -
-  - [Roy and Walt and Disneyland and Pacific Ready-cut
-    Homes](http://www.uglywomansguide.com/index.php/2009/12/roy-and-walt-and-disneyland-and-pacific-ready-cut-homes/)
+  - [Roy and Walt and Disneyland and Pacific Ready-cut Homes](http://www.uglywomansguide.com/index.php/2009/12/roy-and-walt-and-disneyland-and-pacific-ready-cut-homes/)
 
-[Category:1893年出生](https://zh.wikipedia.org/wiki/Category:1893年出生 "wikilink")
-[Category:死于神经系统疾病的人](https://zh.wikipedia.org/wiki/Category:死于神经系统疾病的人 "wikilink")
-[Category:迪士尼人物](https://zh.wikipedia.org/wiki/Category:迪士尼人物 "wikilink")
-[Category:美國商人](https://zh.wikipedia.org/wiki/Category:美國商人 "wikilink")
-[Category:加拿大裔美國人](https://zh.wikipedia.org/wiki/Category:加拿大裔美國人 "wikilink")
-[Category:英格蘭裔美國人](https://zh.wikipedia.org/wiki/Category:英格蘭裔美國人 "wikilink")
-[Category:德國裔美國人](https://zh.wikipedia.org/wiki/Category:德國裔美國人 "wikilink")
-[Category:愛爾蘭裔美國人](https://zh.wikipedia.org/wiki/Category:愛爾蘭裔美國人 "wikilink")
-[Category:芝加哥人](https://zh.wikipedia.org/wiki/Category:芝加哥人 "wikilink")
-[Category:罹患腦溢血逝世者](https://zh.wikipedia.org/wiki/Category:罹患腦溢血逝世者 "wikilink")
+[Category:1893年出生](https://zh.wikipedia.org/wiki/Category:1893年出生 "wikilink") [Category:死于神经系统疾病的人](https://zh.wikipedia.org/wiki/Category:死于神经系统疾病的人 "wikilink") [Category:迪士尼人物](https://zh.wikipedia.org/wiki/Category:迪士尼人物 "wikilink") [Category:美國商人](https://zh.wikipedia.org/wiki/Category:美國商人 "wikilink") [Category:加拿大裔美國人](https://zh.wikipedia.org/wiki/Category:加拿大裔美國人 "wikilink") [Category:英格蘭裔美國人](https://zh.wikipedia.org/wiki/Category:英格蘭裔美國人 "wikilink") [Category:德國裔美國人](https://zh.wikipedia.org/wiki/Category:德國裔美國人 "wikilink") [Category:愛爾蘭裔美國人](https://zh.wikipedia.org/wiki/Category:愛爾蘭裔美國人 "wikilink") [Category:芝加哥人](https://zh.wikipedia.org/wiki/Category:芝加哥人 "wikilink") [Category:罹患腦溢血逝世者](https://zh.wikipedia.org/wiki/Category:罹患腦溢血逝世者 "wikilink")

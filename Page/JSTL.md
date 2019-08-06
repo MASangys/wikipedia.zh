@@ -1,9 +1,6 @@
-**JSP标准标签库**（**JSP Standard Tag Library**）是[Java
-EE](https://zh.wikipedia.org/wiki/Java_EE "wikilink")[网络应用程序](../Page/网络应用程序.md "wikilink")开发平台的组成部分。它在[JSP](../Page/JSP.md "wikilink")规范的基础上，扩充了一个JSP的[标签库来完成一些通用任务](https://zh.wikipedia.org/wiki/标签库 "wikilink")，比如[XML](../Page/XML.md "wikilink")数据处理、条件执行、[数据库](../Page/数据库.md "wikilink")访问、循环和[国际化](https://zh.wikipedia.org/wiki/国际化 "wikilink")。
+**JSP标准标签库**（**JSP Standard Tag Library**）是[Java EE](https://zh.wikipedia.org/wiki/Java_EE "wikilink")[网络应用程序](../Page/网络应用程序.md "wikilink")开发平台的组成部分。它在[JSP](../Page/JSP.md "wikilink")规范的基础上，扩充了一个JSP的[标签库来完成一些通用任务](https://zh.wikipedia.org/wiki/标签库 "wikilink")，比如[XML](../Page/XML.md "wikilink")数据处理、条件执行、[数据库](../Page/数据库.md "wikilink")访问、循环和[国际化](https://zh.wikipedia.org/wiki/国际化 "wikilink")。
 
-JSTL是在[JCP](../Page/JCP.md "wikilink")下，作为**JSR**
-52被开发出来的。2006年5月8日发布了JSTL
-1.2，接下来是2011年12月7日的JSTL 1.2.1。\[1\]
+JSTL是在[JCP](../Page/JCP.md "wikilink")下，作为**JSR** 52被开发出来的。2006年5月8日发布了JSTL 1.2，接下来是2011年12月7日的JSTL 1.2.1。\[1\]
 
 ## 概述
 
@@ -36,19 +33,15 @@ JSTL提供了一个有效的途径，以在[JSP](../Page/JSP.md "wikilink")页�
   - [Apache标准标签库](http://tomcat.apache.org/taglibs/standard/)，一个JSTL规范的实现
   - [JSTL 1.0参考资料](http://www.oio.de/public/java/jstl-reference/index.htm)
   - [JSTL 1.2主页](http://jstl.java.net/)
-  - [官方指导：Java
-    EE 5指导，第7章，JSTL](http://java.sun.com/javaee/5/docs/tutorial/doc/bnakc.html)\[2\]
+  - [官方指导：Java EE 5指导，第7章，JSTL](http://java.sun.com/javaee/5/docs/tutorial/doc/bnakc.html)\[2\]
   - [JSTL 1.1参考资料](http://docs.oracle.com/javaee/5/jstl/1.1/docs/tlddocs/)
-  - [JSF 2.1
-    Facelets标签库文档](http://docs.oracle.com/javaee/6/javaserverfaces/2.1/docs/vdldocs/facelets/)\[3\]
+  - [JSF 2.1 Facelets标签库文档](http://docs.oracle.com/javaee/6/javaserverfaces/2.1/docs/vdldocs/facelets/)\[3\]
   - [JSTL的功能](http://www.javatips.net/blog/2011/10/jstl-functions)
-  - [OWASP
-    ESAPI标签](https://web.archive.org/web/20131216020401/http://owasp-esapi-java.googlecode.com/svn/trunk_doc/latest/org/owasp/esapi/tags/package-summary.html)（作为JSTL未提供任何网站安全标签）
+  - [OWASP ESAPI标签](https://web.archive.org/web/20131216020401/http://owasp-esapi-java.googlecode.com/svn/trunk_doc/latest/org/owasp/esapi/tags/package-summary.html)（作为JSTL未提供任何网站安全标签）
 
 ## 参考资料
 
-[Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink")
-[Category:Java规范请求](https://zh.wikipedia.org/wiki/Category:Java规范请求 "wikilink")
+[Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink") [Category:Java规范请求](https://zh.wikipedia.org/wiki/Category:Java规范请求 "wikilink")
 
 1.  <http://search.maven.org/#browse%7C707331597>
 2.  <http://jstl.java.net/getStarted.html>

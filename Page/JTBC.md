@@ -8,8 +8,7 @@
 
 ## 口號
 
-「為您的世界增添色彩」（Coloring Your
-World），JTBC提出面向未來[多媒體的發展方向](https://zh.wikipedia.org/wiki/多媒體 "wikilink")。
+「為您的世界增添色彩」（Coloring Your World），JTBC提出面向未來[多媒體的發展方向](https://zh.wikipedia.org/wiki/多媒體 "wikilink")。
 
 ## 電視節目
 
@@ -158,73 +157,50 @@ World），JTBC提出面向未來[多媒體的發展方向](https://zh.wikipedia
 #### 進行中的節目
 
   - 2013年《[舌戰](https://zh.wikipedia.org/wiki/舌戰 "wikilink")》（썰전）
-  - 2014年《[拜託了冰箱](https://zh.wikipedia.org/wiki/拜託了冰箱 "wikilink")》（냉장고를
-    부탁해）
+  - 2014年《[拜託了冰箱](https://zh.wikipedia.org/wiki/拜託了冰箱 "wikilink")》（냉장고를 부탁해）
   - 2015年《》 (최고의 사랑)：《和你一起》第2季
-  - 2015年《[Two Yoo Project - Sugar
-    Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》
+  - 2015年《[Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》
   - 2015年《[認識的哥哥](../Page/認識的哥哥.md "wikilink")》 (아는 형님)
-  - 2016年《[請給一頓飯Show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")》
-    (한끼줍쇼)
+  - 2016年《[請給一頓飯Show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")》 (한끼줍쇼)
   - 2016年《[團結才能火](../Page/團結才能火.md "wikilink")》 (뭉쳐야 뜬다)
   - 2017年《[孝利家民宿](../Page/孝利家民宿.md "wikilink")》（효리네 민박）
-  - 2017年《[Begin
-    Again](../Page/Begin_Again_\(電視節目\).md "wikilink")》（비긴어게인）
+  - 2017年《[Begin Again](../Page/Begin_Again_\(電視節目\).md "wikilink")》（비긴어게인）
   - 2017年《》（차이나는 클라스）
   - 2018年《[Idol Room](../Page/Idol_Room.md "wikilink")》(아이돌룸)
   - 2019年《[Stage K](../Page/Stage_K.md "wikilink")》(스테이지 K)
-  - 2019年《[完美搭檔](https://zh.wikipedia.org/wiki/完美搭檔 "wikilink")》(찰떡콤비)
+  - 2019年《[完美搭檔](../Page/完美搭檔.md "wikilink")》(찰떡콤비)
 
 #### 完結的節目
 
-  - 2011年《[少女時代和危險少年](../Page/少女時代和危險少年.md "wikilink")》 （소녀시대와 위험한
-    소년들）（2011年12月18日－2012年3月11日）
-  - 2011年《[李秀根和金炳萬的上流社會](../Page/李秀根和金炳萬的上流社會.md "wikilink")》（이수근 김병만의
-    상류사회）（2011年12月10日－2013年6月15日）
+  - 2011年《[少女時代和危險少年](../Page/少女時代和危險少年.md "wikilink")》 （소녀시대와 위험한 소년들）（2011年12月18日－2012年3月11日）
+  - 2011年《[李秀根和金炳萬的上流社會](../Page/李秀根和金炳萬的上流社會.md "wikilink")》（이수근 김병만의 상류사회）（2011年12月10日－2013年6月15日）
   - 2012年《[神話放送](../Page/神話放送.md "wikilink")》（신화방송）（2012年3月17日－2014年1月19日）
   - 2013年《[魔女狩猎](https://zh.wikipedia.org/wiki/魔女狩猎 "wikilink")》（마녀사냥）（2013年8月2日－2015年12月28日）
-  - 2014年《[Crime Scene
-    犯罪現場](../Page/Crime_Scene_犯罪現場.md "wikilink")》（크라임씬）（2014年5月10日－2014年7月12日、2015年4月1日–2015年6月24日、2017年4月21日－2017年7月14日）
+  - 2014年《[Crime Scene 犯罪現場](../Page/Crime_Scene_犯罪現場.md "wikilink")》（크라임씬）（2014年5月10日－2014年7月12日、2015年4月1日–2015年6月24日、2017年4月21日－2017年7月14日）
   - 2014年《[非首腦會談](https://zh.wikipedia.org/wiki/非首腦會談 "wikilink")》（비정상회담）（2014年7月7日－2017年12月4日）
-  - 2014年《[我去上學啦](../Page/我去上學啦_\(韓國\).md "wikilink")》（학교
-    다녀오겠습니다）（2014年7月12日－2015年11月3日）
-  - 2015年《[我獨自戀愛中](../Page/我獨自戀愛中.md "wikilink")》 (나홀로
-    연애중)（2015年1月31日－2015年4月18日）
-  - 2015年《[我朋友的家在哪裏](https://zh.wikipedia.org/wiki/我朋友的家在哪裏 "wikilink")》
-    (내 친구의 집은 어디인가)（2015年2月7日－2016年4月29日）
-  - 2016年《[CODE -
-    秘密的房間](https://zh.wikipedia.org/wiki/CODE_-_秘密的房間 "wikilink")》
-    (코드 - 비밀의 방)（2016年1月1日－2016年3月25日）
-  - 2016年《[瑪麗和我](../Page/瑪麗和我.md "wikilink")》 (마리와
-    나)（2016年12月16日－2017年4月6日）
-  - 2016年《[半月朋友](../Page/半月朋友.md "wikilink")》
-    (반달친구)（2016年4月24日－2017年7月16日）
-  - 2016年《[我要開動了](https://zh.wikipedia.org/wiki/我要開動了 "wikilink")》 (잘
-    먹겠습니다)（2016年7月24日－2017年2月2日）
-  - 2016年《[说话之路](../Page/说话之路.md "wikilink")》
-    (말하는대로)（2016年9月21日－2017年3月8日）
-  - 2017年《[我的家誕生了](../Page/我的家誕生了.md "wikilink")》（내 집이
-    나타났다）（2017年2月3日－2017年3月24日）
+  - 2014年《[我去上學啦](../Page/我去上學啦_\(韓國\).md "wikilink")》（학교 다녀오겠습니다）（2014年7月12日－2015年11月3日）
+  - 2015年《[我獨自戀愛中](../Page/我獨自戀愛中.md "wikilink")》 (나홀로 연애중)（2015年1月31日－2015年4月18日）
+  - 2015年《[我朋友的家在哪裏](https://zh.wikipedia.org/wiki/我朋友的家在哪裏 "wikilink")》 (내 친구의 집은 어디인가)（2015年2月7日－2016年4月29日）
+  - 2016年《[CODE - 秘密的房間](https://zh.wikipedia.org/wiki/CODE_-_秘密的房間 "wikilink")》 (코드 - 비밀의 방)（2016年1月1日－2016年3月25日）
+  - 2016年《[瑪麗和我](../Page/瑪麗和我.md "wikilink")》 (마리와 나)（2016年12月16日－2017年4月6日）
+  - 2016年《[半月朋友](../Page/半月朋友.md "wikilink")》 (반달친구)（2016年4月24日－2017年7月16日）
+  - 2016年《[我要開動了](https://zh.wikipedia.org/wiki/我要開動了 "wikilink")》 (잘 먹겠습니다)（2016年7月24日－2017年2月2日）
+  - 2016年《[说话之路](../Page/说话之路.md "wikilink")》 (말하는대로)（2016年9月21日－2017年3月8日）
+  - 2017年《[我的家誕生了](../Page/我的家誕生了.md "wikilink")》（내 집이 나타났다）（2017年2月3日－2017年3月24日）
   - 2017年《[夜行鬼怪](../Page/夜行鬼怪.md "wikilink")》（밤도깨비）（2017年7月30日－2018年3月18日）
-  - 2017年《[理論上完美的男人](../Page/理論上完美的男人.md "wikilink")》（이론상 완벽한
-    남자）（2017年11月10日－2018年1月12日）
-  - 2018年《[善良地活吧](../Page/善良地活吧.md "wikilink")》（착하게
-    살자）（2018年1月19日－2018年3月16日）
-  - 2018年《[WHYNOT － The
-    Dancer](../Page/WHYNOT_－_The_Dancer.md "wikilink")》（WHYNOT: 더
-    댄서）(JTBC4頻道播放) （2018年5月5日－2018年6月23日）
+  - 2017年《[理論上完美的男人](../Page/理論上完美的男人.md "wikilink")》（이론상 완벽한 남자）（2017年11月10日－2018年1月12日）
+  - 2018年《[善良地活吧](../Page/善良地活吧.md "wikilink")》（착하게 살자）（2018年1月19日－2018年3月16日）
+  - 2018年《[WHYNOT － The Dancer](../Page/WHYNOT_－_The_Dancer.md "wikilink")》（WHYNOT: 더 댄서）(JTBC4頻道播放) （2018年5月5日－2018年6月23日）
 
 #### 試播節目
 
-  - 2018年《[人工智能-最完美的A.I.](https://zh.wikipedia.org/wiki/人工智能-最完美的A.I. "wikilink")》（인간지능-가장
-    완벽한 A.I.）（2018年11月18日－2018年11月23日）
+  - 2018年《[人工智能-最完美的A.I.](https://zh.wikipedia.org/wiki/人工智能-最完美的A.I. "wikilink")》（인간지능-가장 완벽한 A.I.）（2018年11月18日－2018年11月23日）
 
 ### 音樂節目
 
   - 2011年《Music On Top》
   - 2011年《Made In U》
-  - 2012年《[隱藏歌手](../Page/隱藏歌手.md "wikilink")》[隱藏歌手](../Page/隱藏歌手.md "wikilink")
-    ( Hidden Singer) 第一季（2012年12月21日－2013年6月22日)
+  - 2012年《[隱藏歌手](../Page/隱藏歌手.md "wikilink")》[隱藏歌手](../Page/隱藏歌手.md "wikilink") ( Hidden Singer) 第一季（2012年12月21日－2013年6月22日)
   - 2016年《Girl Spirit》
   - 2016年《》 (팬텀싱어) 第一季（2016年11月11日－2017年1月27日）
   - 2016年《》 (싱포유)：《Sing For You》
@@ -259,19 +235,15 @@ World），JTBC提出面向未來[多媒體的發展方向](https://zh.wikipedia
 
 ## 參考資料
 
-  - [2011年12月1日JTBC正式開播，將為韓國增色添彩](http://chinese.joins.com/big5/article.do?method=detail&art_id=75556&category=002002)
-    韓國中央日報
-  - [JTBC等四個綜編頻道今日開播，開啓傳媒Bigbang時代](http://chinese.joins.com/big5/article.do?method=detail&art_id=76950&category=002002)
-    韓國中央日報
+  - [2011年12月1日JTBC正式開播，將為韓國增色添彩](http://chinese.joins.com/big5/article.do?method=detail&art_id=75556&category=002002) 韓國中央日報
+  - [JTBC等四個綜編頻道今日開播，開啓傳媒Bigbang時代](http://chinese.joins.com/big5/article.do?method=detail&art_id=76950&category=002002) 韓國中央日報
 
 ## 外部連結
 
   - [JTBC官方網站](http://jtbc.joins.com)
   - [JTBC3 Fox Sports](http://jtbc3foxsports.joins.com)
 
-[Category:韓國綜合編成頻道](https://zh.wikipedia.org/wiki/Category:韓國綜合編成頻道 "wikilink")
-[Category:韩国电视台](https://zh.wikipedia.org/wiki/Category:韩国电视台 "wikilink")
-[Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
+[Category:韓國綜合編成頻道](https://zh.wikipedia.org/wiki/Category:韓國綜合編成頻道 "wikilink") [Category:韩国电视台](https://zh.wikipedia.org/wiki/Category:韩国电视台 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
 
 1.
 2.

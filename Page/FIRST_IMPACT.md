@@ -1,16 +1,10 @@
-**《FIRST
-IMPACT》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")隊長[金賢重](../Page/金賢重.md "wikilink")于2012年5月16日在日本推出，由[環球音樂J發行的現場專輯](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")。
+**《FIRST IMPACT》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")隊長[金賢重](../Page/金賢重.md "wikilink")于2012年5月16日在日本推出，由[環球音樂J發行的現場專輯](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")。
 
 ## 概述
 
-  - 作為2012年最吸引話題的藝人，韓國N01.的SOLO藝人金賢重。在[ORICON榜](https://zh.wikipedia.org/wiki/ORICON "wikilink")，周排名(2月6日)第二，超過十萬張的紀錄，脫穎而出的首張日文單曲【[KISS
-    KISS/Lucky
-    Guy](https://zh.wikipedia.org/wiki/KISS_KISS/Lucky_Guy "wikilink")】之後，於5月16日發行了期待已久的影像商品【FIRST
-    IMPACT】。
+  - 作為2012年最吸引話題的藝人，韓國N01.的SOLO藝人金賢重。在[ORICON榜](https://zh.wikipedia.org/wiki/ORICON "wikilink")，周排名(2月6日)第二，超過十萬張的紀錄，脫穎而出的首張日文單曲【[KISS KISS/Lucky Guy](https://zh.wikipedia.org/wiki/KISS_KISS/Lucky_Guy "wikilink")】之後，於5月16日發行了期待已久的影像商品【FIRST IMPACT】。
   - 有〔行走的雕像〕之稱的金賢重面貌大膽地全面展現，作為強調本次作品的標題，成為粉絲們難以形容的套裝寫真。
-  - 本次作品的內容收錄2011年11月在東京國際會場的現場演出、首次日本巡迴的花絮，2012年2月在橫濱競技場的現場演出，以單曲【[KISS
-    KISS/Lucky
-    Guy](https://zh.wikipedia.org/wiki/KISS_KISS/Lucky_Guy "wikilink")】提升形象的金賢重在日本‘傳說的開始’的紀錄影像\[1\]。
+  - 本次作品的內容收錄2011年11月在東京國際會場的現場演出、首次日本巡迴的花絮，2012年2月在橫濱競技場的現場演出，以單曲【[KISS KISS/Lucky Guy](https://zh.wikipedia.org/wiki/KISS_KISS/Lucky_Guy "wikilink")】提升形象的金賢重在日本‘傳說的開始’的紀錄影像\[1\]。
 
 ## 四版本收錄內容
 
@@ -197,10 +191,8 @@ IMPACT》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")隊長
 
 ## 官方預告
 
-  - [キム・ヒョンジュン - 「FIRST IMPACT」
-    TEASER](http://www.youtube.com/watch?v=onms7HFxx3I)
-  - [キム・ヒョンジュン - 「FIRST IMPACT」 TEASER
-    vol.2](http://www.youtube.com/watch?v=zR9Jbv8ZkL0)
+  - [キム・ヒョンジュン - 「FIRST IMPACT」 TEASER](http://www.youtube.com/watch?v=onms7HFxx3I)
+  - [キム・ヒョンジュン - 「FIRST IMPACT」 TEASER vol.2](http://www.youtube.com/watch?v=zR9Jbv8ZkL0)
 
 ## 參考資料
 
@@ -218,9 +210,7 @@ IMPACT》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")隊長
 
   - [金賢重個人日本官方網站](http://kimhyunjoong.jp/index.php)
 
-[Category:金賢重專輯](https://zh.wikipedia.org/wiki/Category:金賢重專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:金賢重專輯](https://zh.wikipedia.org/wiki/Category:金賢重專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
 1.
 

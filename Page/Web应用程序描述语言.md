@@ -1,6 +1,4 @@
-**Web应用程序描述语言**（**，WADL**）是一个可用计算机处理的表达基于[HTTP的](https://zh.wikipedia.org/wiki/HTTP "wikilink")[Web应用](https://zh.wikipedia.org/wiki/Web "wikilink")（如[REST](https://zh.wikipedia.org/wiki/REST "wikilink")[Web服务](../Page/Web服务.md "wikilink")）的XML词汇。
-WADL描述了Web服务提供的资源及他们的联系。
-WADL试图简化重用基于HTTP架构的Web服务。它是一个平台，且与语言无关，并试图推动除Web浏览器的基本使用外的应用重用。
+**Web应用程序描述语言**（**，WADL**）是一个可用计算机处理的表达基于[HTTP的](https://zh.wikipedia.org/wiki/HTTP "wikilink")[Web应用](https://zh.wikipedia.org/wiki/Web "wikilink")（如[REST](https://zh.wikipedia.org/wiki/REST "wikilink")[Web服务](../Page/Web服务.md "wikilink")）的XML词汇。 WADL描述了Web服务提供的资源及他们的联系。 WADL试图简化重用基于HTTP架构的Web服务。它是一个平台，且与语言无关，并试图推动除Web浏览器的基本使用外的应用重用。
 
 WADL于2009年8月31日由[昇陽電腦](../Page/昇陽電腦.md "wikilink")提交至[万维网联盟](../Page/万维网联盟.md "wikilink")，但联盟目前没有标准化它的计划并且它并没有被广泛地支持。WADL依照描述基于[SOAP的RPC式服务的XML词汇](https://zh.wikipedia.org/wiki/SOAP "wikilink")[WSDL](../Page/WSDL.md "wikilink")定义，用于描述REST服务，而WSDL也可用于描述RESTWeb服务。
 
@@ -71,5 +69,4 @@ WADL于2009年8月31日由[昇陽電腦](../Page/昇陽電腦.md "wikilink")提�
 
   - [《我们需要WADL么？》](http://bitworking.org/news/193/Do-we-need-WADL)乔·格雷戈里奥的博客文章
 
-[Category:Web服务](https://zh.wikipedia.org/wiki/Category:Web服务 "wikilink")
-[Category:万维网](https://zh.wikipedia.org/wiki/Category:万维网 "wikilink")
+[Category:Web服务](https://zh.wikipedia.org/wiki/Category:Web服务 "wikilink") [Category:万维网](https://zh.wikipedia.org/wiki/Category:万维网 "wikilink")

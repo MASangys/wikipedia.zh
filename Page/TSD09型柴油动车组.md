@@ -12,8 +12,7 @@
 
 2001年6月，三茂铁路公司董事会审议通过购置柴油动车组项目，随后立即上报给[广东省发改委](../Page/广东省发展和改革委员会.md "wikilink")，并立即获批准项目立项。2002年2月，三茂铁路公司与唐山机车车辆厂签订了《开发内燃摆式动车组合作意向书》；随后几经铁道部科技司调研批准，三茂铁路公司遂与唐山机车车辆厂签订了购车商业合同，订购两列5节编组的摆式列车，计划于2003年底交车，总价值为9880万元[人民币](../Page/人民币.md "wikilink")。按照合同要求，三茂铁路公司预付了4000万元的预付款。摆式列车的整个研发、制造、签订商业订单的过程都在铁道部的授意下进行\[2\]。
 
-2002年3月，铁道部科技司在三水主持召开了三茂铁路开行摆式动车组技术可行性研讨会，对摆式列车的技术可行性予以了肯定。2002年5月，铁道部科技司印发了《三茂铁路开行内燃摆式列车可行性研讨会会议纪要》，表明“采用动力分散的摆式动车组方案基本适合三茂铁路线路状况”。获得铁道部认可后，三茂铁路公司与唐山机车车辆厂签订了《摆式动车组设计任务建议书》，一个月后又签订《关于开发内燃摆式动车组的意向书》。2003年1月，双方正式签署了购车合同。列车由唐山机车车辆厂、[西南交通大学](../Page/西南交通大学.md "wikilink")、
-[北京交通大学](../Page/北京交通大学.md "wikilink")等单位合作研制\[3\]。
+2002年3月，铁道部科技司在三水主持召开了三茂铁路开行摆式动车组技术可行性研讨会，对摆式列车的技术可行性予以了肯定。2002年5月，铁道部科技司印发了《三茂铁路开行内燃摆式列车可行性研讨会会议纪要》，表明“采用动力分散的摆式动车组方案基本适合三茂铁路线路状况”。获得铁道部认可后，三茂铁路公司与唐山机车车辆厂签订了《摆式动车组设计任务建议书》，一个月后又签订《关于开发内燃摆式动车组的意向书》。2003年1月，双方正式签署了购车合同。列车由唐山机车车辆厂、[西南交通大学](../Page/西南交通大学.md "wikilink")、 [北京交通大学](../Page/北京交通大学.md "wikilink")等单位合作研制\[3\]。
 
 按原定计划这两列动车组会在2003年底交付三茂铁路公司投入使用，并制定了相应的运行方案，主要目标为商务及旅游客流。三茂铁路公司计划每天开行早、中、晚3对[广州至](../Page/广州站.md "wikilink")[茂名东的快速列车](../Page/茂名东站.md "wikilink")，使用两组列车套跑，最快运行时间为3小时30分钟，最高运行速度为120公里/小时（[三水至](../Page/三水站.md "wikilink")[腰鼓间可按最高](https://zh.wikipedia.org/wiki/腰鼓站 "wikilink")130公里/小时运行），列车在茂名东站进行检修\[4\]\[5\]。三茂铁路公司曾为购买摆式列车做过详细的财务测算，当时按其自有资金投入3000万元人民币，其他6880万元来自[银行贷款来测算](https://zh.wikipedia.org/wiki/贷款 "wikilink")，只要该线路列车上座率达到60.4%就可以达到收支平衡，投资回报期可以小于8年\[6\]。
 
@@ -33,8 +32,7 @@ TSD09型柴油动车组的标准编组形式为4节全动车车厢编组（Mc+2M
 
 ### 动力系统
 
-该列车为动力分散的液力传动柴油动车组，[柴油机输出的](https://zh.wikipedia.org/wiki/柴油机 "wikilink")[扭矩通过](https://zh.wikipedia.org/wiki/扭矩 "wikilink")[万向轴](https://zh.wikipedia.org/wiki/万向轴 "wikilink")、液力传动箱、车轴齿轮箱传递到车轴，驱动列车运行。每辆动车车厢装用一台[美国](../Page/美国.md "wikilink")[康明斯](../Page/康明斯.md "wikilink")公司的QSK-19R型[卧式柴油机](https://zh.wikipedia.org/wiki/卧式发动机 "wikilink")，该型柴油机被广泛运用于欧洲多种柴油动车组，为6[气缸](https://zh.wikipedia.org/wiki/气缸 "wikilink")、[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")、[废气涡轮增压](../Page/渦輪增壓器.md "wikilink")、直列式高速柴油机，气缸直径159毫米，活塞行程159毫米；装车功率为559千瓦，额定转速为每分钟2100转，并符合欧盟第二阶段废气排放标准（EU
-II）。传动装置选用了[德国](../Page/德国.md "wikilink")[福伊特公司制造的T](https://zh.wikipedia.org/wiki/福伊特公司 "wikilink")311r型液力传动箱，内装一个[液力变扭器和一个](https://zh.wikipedia.org/wiki/液力变扭器 "wikilink")[液力耦合器](../Page/液力耦合器.md "wikilink")，采用自动换档、气动换向的结构，设计最大输入功率为530千瓦。
+该列车为动力分散的液力传动柴油动车组，[柴油机输出的](https://zh.wikipedia.org/wiki/柴油机 "wikilink")[扭矩通过](https://zh.wikipedia.org/wiki/扭矩 "wikilink")[万向轴](https://zh.wikipedia.org/wiki/万向轴 "wikilink")、液力传动箱、车轴齿轮箱传递到车轴，驱动列车运行。每辆动车车厢装用一台[美国](../Page/美国.md "wikilink")[康明斯](../Page/康明斯.md "wikilink")公司的QSK-19R型[卧式柴油机](https://zh.wikipedia.org/wiki/卧式发动机 "wikilink")，该型柴油机被广泛运用于欧洲多种柴油动车组，为6[气缸](https://zh.wikipedia.org/wiki/气缸 "wikilink")、[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")、[废气涡轮增压](../Page/渦輪增壓器.md "wikilink")、直列式高速柴油机，气缸直径159毫米，活塞行程159毫米；装车功率为559千瓦，额定转速为每分钟2100转，并符合欧盟第二阶段废气排放标准（EU II）。传动装置选用了[德国](../Page/德国.md "wikilink")[福伊特公司制造的T](https://zh.wikipedia.org/wiki/福伊特公司 "wikilink")311r型液力传动箱，内装一个[液力变扭器和一个](https://zh.wikipedia.org/wiki/液力变扭器 "wikilink")[液力耦合器](../Page/液力耦合器.md "wikilink")，采用自动换档、气动换向的结构，设计最大输入功率为530千瓦。
 
 ### 倾摆系统
 
@@ -109,9 +107,7 @@ TSD09型柴油动车组的[转向架可分为动车转向架和拖车转向架�
 
   - [唐山轨道客车有限责任公司：动力分散内燃摆式动车组](https://web.archive.org/web/20130130162420/http://www.tangche.com/pviwe.php?id=14)
 
-[Category:中国柴油动车组](https://zh.wikipedia.org/wiki/Category:中国柴油动车组 "wikilink")
-[Category:中车唐山制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车唐山制铁路车辆 "wikilink")
-[Category:擺式列車](https://zh.wikipedia.org/wiki/Category:擺式列車 "wikilink")
+[Category:中国柴油动车组](https://zh.wikipedia.org/wiki/Category:中国柴油动车组 "wikilink") [Category:中车唐山制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车唐山制铁路车辆 "wikilink") [Category:擺式列車](https://zh.wikipedia.org/wiki/Category:擺式列車 "wikilink")
 
 1.
 

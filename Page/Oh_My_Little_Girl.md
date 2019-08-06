@@ -1,18 +1,12 @@
-《**OH MY LITTLE
-GIRL**》是[日本](../Page/日本.md "wikilink")[唱作人](https://zh.wikipedia.org/wiki/唱作人 "wikilink")[尾崎豐](../Page/尾崎豐.md "wikilink")的第13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於1994年1月21日經[唱片公司](../Page/唱片公司.md "wikilink")[Sony
-Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
+《**OH MY LITTLE GIRL**》是[日本](../Page/日本.md "wikilink")[唱作人](https://zh.wikipedia.org/wiki/唱作人 "wikilink")[尾崎豐](../Page/尾崎豐.md "wikilink")的第13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於1994年1月21日經[唱片公司](../Page/唱片公司.md "wikilink")[Sony Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 簡介
 
-本曲的原標題為《[水手服](../Page/水手服.md "wikilink")和小女孩》（），在試聽帶完成後再改為《鄰家的小女孩》（），不過最後在監製的建議之下更名為《OH
-MY LITTLE GIRL》\[1\]。
+本曲的原標題為《[水手服](../Page/水手服.md "wikilink")和小女孩》（），在試聽帶完成後再改為《鄰家的小女孩》（），不過最後在監製的建議之下更名為《OH MY LITTLE GIRL》\[1\]。
 
-表題曲《OH MY LITTLE
-GIRL》在此單曲發行前曾被收錄在1983年專輯《[十七歲的地圖](../Page/十七歲的地圖.md "wikilink")》中，並在一年後再以B面曲名義收錄於第2張單曲《》中。[B面曲的](https://zh.wikipedia.org/wiki/B面曲 "wikilink")《DONUTS
-SHOP》則是取自1985年推出的第3張專輯《》。
+表題曲《OH MY LITTLE GIRL》在此單曲發行前曾被收錄在1983年專輯《[十七歲的地圖](../Page/十七歲的地圖.md "wikilink")》中，並在一年後再以B面曲名義收錄於第2張單曲《》中。[B面曲的](https://zh.wikipedia.org/wiki/B面曲 "wikilink")《DONUTS SHOP》則是取自1985年推出的第3張專輯《》。
 
-2001年，《OH MY LITTLE
-GIRL》在[雙A面單曲](../Page/A面與B面.md "wikilink")《》中以單曲名義再發行。
+2001年，《OH MY LITTLE GIRL》在[雙A面單曲](../Page/A面與B面.md "wikilink")《》中以單曲名義再發行。
 
 ## 排行榜成績
 
@@ -60,8 +54,7 @@ GIRL》在[雙A面單曲](../Page/A面與B面.md "wikilink")《》中以單曲�
 ## 媒體合作
 
   - [富士電視台](../Page/富士電視台.md "wikilink")系列[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《》[主題曲](../Page/主題曲.md "wikilink")（1994年）
-  - 電影《[-{zh-cn:热血之路;zh-hk:HOT ROAD;zh-tw:HOT
-    ROAD}-](../Page/Hot_Road_\(電影\).md "wikilink")》主題曲（2014年）
+  - 電影《[-{zh-cn:热血之路;zh-hk:HOT ROAD;zh-tw:HOT ROAD}-](../Page/Hot_Road_\(電影\).md "wikilink")》主題曲（2014年）
 
 ## 收錄專輯
 
@@ -94,8 +87,7 @@ GIRL》在[雙A面單曲](../Page/A面與B面.md "wikilink")《》中以單曲�
 
   - [伴都美子](../Page/伴都美子.md "wikilink")《》（2008年）
 
-  - [廣瀬香美](https://zh.wikipedia.org/wiki/廣瀬香美 "wikilink")《DRAMA
-    Songs》（2010年）
+  - [廣瀬香美](https://zh.wikipedia.org/wiki/廣瀬香美 "wikilink")《DRAMA Songs》（2010年）
 
   - 《The Heart Song Colection》（2011年）
 
@@ -137,17 +129,9 @@ GIRL》在[雙A面單曲](../Page/A面與B面.md "wikilink")《》中以單曲�
 
 ## 參考文獻
 
-[Category:尾崎豐歌曲](https://zh.wikipedia.org/wiki/Category:尾崎豐歌曲 "wikilink")
-[Category:1994年單曲](https://zh.wikipedia.org/wiki/Category:1994年單曲 "wikilink")
-[Category:1994年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1994年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink")
-[Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
-[Category:富士電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台電視劇主題曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
-[Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink")
+[Category:尾崎豐歌曲](https://zh.wikipedia.org/wiki/Category:尾崎豐歌曲 "wikilink") [Category:1994年單曲](https://zh.wikipedia.org/wiki/Category:1994年單曲 "wikilink") [Category:1994年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1994年Oricon單曲週榜冠軍作品 "wikilink") [Category:Oricon百萬銷量達成單曲](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成單曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink") [Category:富士電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台電視劇主題曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:RIAJ百萬認證單曲](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證單曲 "wikilink")
 
-1.  [NHK BS
-    Premium](../Page/NHK_BS_Premium.md "wikilink")《》2012年11月28日播出
+1.  [NHK BS Premium](../Page/NHK_BS_Premium.md "wikilink")《》2012年11月28日播出
 
 2.
 3.

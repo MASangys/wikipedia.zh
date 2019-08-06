@@ -4,22 +4,8 @@
 
 ## 参考资料
 
-[Category:1931年电影](https://zh.wikipedia.org/wiki/Category:1931年电影 "wikilink")
-[Category:德语电影](https://zh.wikipedia.org/wiki/Category:德语电影 "wikilink")
-[Category:德國電影作品](https://zh.wikipedia.org/wiki/Category:德國電影作品 "wikilink")
-[Category:黑白電影](https://zh.wikipedia.org/wiki/Category:黑白電影 "wikilink")
-[Category:弗里茨·朗电影](https://zh.wikipedia.org/wiki/Category:弗里茨·朗电影 "wikilink")
-[Category:德国表现主义电影](https://zh.wikipedia.org/wiki/Category:德国表现主义电影 "wikilink")
-[Category:死刑題材電影](https://zh.wikipedia.org/wiki/Category:死刑題材電影 "wikilink")
-[Category:柏林背景電影](https://zh.wikipedia.org/wiki/Category:柏林背景電影 "wikilink")
-[Category:德国取景电影](https://zh.wikipedia.org/wiki/Category:德国取景电影 "wikilink")
-[Category:派拉蒙影業電影](https://zh.wikipedia.org/wiki/Category:派拉蒙影業電影 "wikilink")
-[Category:警匪片](https://zh.wikipedia.org/wiki/Category:警匪片 "wikilink")
-[Category:連環殺手題材電影](https://zh.wikipedia.org/wiki/Category:連環殺手題材電影 "wikilink")
-[Category:心理驚悚片](https://zh.wikipedia.org/wiki/Category:心理驚悚片 "wikilink")
+[Category:1931年电影](https://zh.wikipedia.org/wiki/Category:1931年电影 "wikilink") [Category:德语电影](https://zh.wikipedia.org/wiki/Category:德语电影 "wikilink") [Category:德國電影作品](https://zh.wikipedia.org/wiki/Category:德國電影作品 "wikilink") [Category:黑白電影](https://zh.wikipedia.org/wiki/Category:黑白電影 "wikilink") [Category:弗里茨·朗电影](https://zh.wikipedia.org/wiki/Category:弗里茨·朗电影 "wikilink") [Category:德国表现主义电影](https://zh.wikipedia.org/wiki/Category:德国表现主义电影 "wikilink") [Category:死刑題材電影](https://zh.wikipedia.org/wiki/Category:死刑題材電影 "wikilink") [Category:柏林背景電影](https://zh.wikipedia.org/wiki/Category:柏林背景電影 "wikilink") [Category:德国取景电影](https://zh.wikipedia.org/wiki/Category:德国取景电影 "wikilink") [Category:派拉蒙影業電影](https://zh.wikipedia.org/wiki/Category:派拉蒙影業電影 "wikilink") [Category:警匪片](https://zh.wikipedia.org/wiki/Category:警匪片 "wikilink") [Category:連環殺手題材電影](https://zh.wikipedia.org/wiki/Category:連環殺手題材電影 "wikilink") [Category:心理驚悚片](https://zh.wikipedia.org/wiki/Category:心理驚悚片 "wikilink")
 
-1.  [Now I Lay Me Down To Sleep: A Brief History of Child Murder in
-    Cinema](http://www.bloody-disgusting.com/news/19930)
-2.  [Reader
-    Archive-Extract: 1997/970808/M](https://securesite.chireader.com/cgi-bin/Archive/abridged2.bat?path=1997/970808/M&search=Mabuse%20Rosenbaum)
+1.  [Now I Lay Me Down To Sleep: A Brief History of Child Murder in Cinema](http://www.bloody-disgusting.com/news/19930)
+2.  [Reader Archive-Extract: 1997/970808/M](https://securesite.chireader.com/cgi-bin/Archive/abridged2.bat?path=1997/970808/M&search=Mabuse%20Rosenbaum)
 3.

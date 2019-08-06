@@ -21,9 +21,7 @@ JTG畢業於。他有一個女兒名叫麥迪遜。\[4\]
   -
 ### 進場樂
 
-  - "Bringin' Da Hood 2 U"\[6\] -
-    （[WWE](https://zh.wikipedia.org/wiki/WWE "wikilink");
-    2006年10月16日–2014年6月12日；在與及個人出場時使用）
+  - "Bringin' Da Hood 2 U"\[6\] - （[WWE](https://zh.wikipedia.org/wiki/WWE "wikilink"); 2006年10月16日–2014年6月12日；在與及個人出場時使用）
 
 ## 冠軍及成就
 
@@ -39,9 +37,7 @@ JTG畢業於。他有一個女兒名叫麥迪遜。\[4\]
   - [摔角網路世界上的個人資料](http://www.onlineworldofwrestling.com/profiles/j/jtg.html)
   - [AAMRecords.com的個人資料](https://web.archive.org/web/20080427044034/http://aamrecords.ning.com/profile/JTG)
 
-[Category:世界摔角娛樂](https://zh.wikipedia.org/wiki/Category:世界摔角娛樂 "wikilink")
-[Category:美國職業摔角手](https://zh.wikipedia.org/wiki/Category:美國職業摔角手 "wikilink")
-[Category:纽约布鲁克林弗拉特布什人士](https://zh.wikipedia.org/wiki/Category:纽约布鲁克林弗拉特布什人士 "wikilink")
+[Category:世界摔角娛樂](https://zh.wikipedia.org/wiki/Category:世界摔角娛樂 "wikilink") [Category:美國職業摔角手](https://zh.wikipedia.org/wiki/Category:美國職業摔角手 "wikilink") [Category:纽约布鲁克林弗拉特布什人士](https://zh.wikipedia.org/wiki/Category:纽约布鲁克林弗拉特布什人士 "wikilink")
 
 1.
 2.

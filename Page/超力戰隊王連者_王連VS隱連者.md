@@ -16,8 +16,7 @@ VS系列</p></td>
 </tbody>
 </table>
 
-《**超力戰隊王連者 王連VS隱連者**》（原文：超力戦隊オーレンジャー
-オーレVSカクレンジャー）。係於日本時間1996年3月8日所發售的V-cinema。
+《**超力戰隊王連者 王連VS隱連者**》（原文：超力戦隊オーレンジャー オーレVSカクレンジャー）。係於日本時間1996年3月8日所發售的V-cinema。
 
 ## 概要
 
@@ -77,8 +76,7 @@ VS系列</p></td>
 ### 戰隊關係者
 
   -
-    **三浦尚之參謀長<small>｜**[宮內洋](https://zh.wikipedia.org/wiki/宮內洋 "wikilink")／台配：[李景唐](../Page/李景唐.md "wikilink")
-    聲</small>
+    **三浦尚之參謀長<small>｜**[宮內洋](https://zh.wikipedia.org/wiki/宮內洋 "wikilink")／台配：[李景唐](../Page/李景唐.md "wikilink") 聲</small>
       -
         由於此次的敵人有妖怪，參謀長便商請擅於對付妖怪的隱連者出手幫忙。
     **顏魔神<small>｜**[神谷明](../Page/神谷明.md "wikilink") 聲</small>
@@ -88,51 +86,41 @@ VS系列</p></td>
 ### 其他人物
 
   -
-    **小瞳<small>｜**[高野蘭](https://zh.wikipedia.org/wiki/高野蘭 "wikilink")／台配：[錢欣郁](../Page/錢欣郁.md "wikilink")
-    聲</small>
+    **小瞳<small>｜**[高野蘭](https://zh.wikipedia.org/wiki/高野蘭 "wikilink")／台配：[錢欣郁](../Page/錢欣郁.md "wikilink") 聲</small>
       -
         哲也和友也的姐姐，為了報達王連者援救小狗小小和其他民眾，奮不顧身的誘敵脫離小桃身體，結果反被捉走。
 
 <!-- end list -->
 
   -
-    **哲也<small>｜**[伊藤悠昭](https://zh.wikipedia.org/wiki/伊藤悠昭 "wikilink")／台配：[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")
-    聲</small>
+    **哲也<small>｜**[伊藤悠昭](https://zh.wikipedia.org/wiki/伊藤悠昭 "wikilink")／台配：[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") 聲</small>
       -
         瞳的弟弟，和友也向顏魔人許願援救困在倒塌大樓內的小狗小小。
 
 <!-- end list -->
 
   -
-    **友也<small>｜**[厚木拓郎](https://zh.wikipedia.org/wiki/厚木拓郎 "wikilink")／台配：[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")
-    聲</small>
+    **友也<small>｜**[厚木拓郎](https://zh.wikipedia.org/wiki/厚木拓郎 "wikilink")／台配：[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") 聲</small>
       -
         瞳的弟弟，和哲也向顏魔人許願援救困在倒塌大樓內的小狗小小。
 
 ### 機械帝國‧巴拉諾亞
 
   -
-    **皇帝‧巴卡斯芬特<small>｜**[大平透](https://zh.wikipedia.org/wiki/大平透 "wikilink")／台配：[林谷珍](../Page/林谷珍.md "wikilink")
-    聲</small>
+    **皇帝‧巴卡斯芬特<small>｜**[大平透](https://zh.wikipedia.org/wiki/大平透 "wikilink")／台配：[林谷珍](../Page/林谷珍.md "wikilink") 聲</small>
       -
         本作的時間軸設定在阻絕王者、轉輪男孩和顏魔神登場後，但照劇集設定巴卡斯芬特早已戰死，便經由「[平行宇宙](https://zh.wikipedia.org/wiki/平行宇宙 "wikilink")」的設定而復活。
-    **皇后‧希絲特莉亞<small>｜**[松島みのり](https://zh.wikipedia.org/wiki/松島みのり "wikilink")／台配：[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")
-    聲</small>
-    **皇子‧布魯敦特<small>｜**[關智一](../Page/關智一.md "wikilink")／台配：[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")
-    聲</small>
-    **執事‧阿恰<small>｜**[肝村兼太](https://zh.wikipedia.org/wiki/肝村兼太 "wikilink")
-    聲</small>
+    **皇后‧希絲特莉亞<small>｜**[松島みのり](https://zh.wikipedia.org/wiki/松島みのり "wikilink")／台配：[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") 聲</small>
+    **皇子‧布魯敦特<small>｜**[關智一](../Page/關智一.md "wikilink")／台配：[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink") 聲</small>
+    **執事‧阿恰<small>｜**[肝村兼太](https://zh.wikipedia.org/wiki/肝村兼太 "wikilink") 聲</small>
     **執事‧寇恰<small>｜**[安達忍](../Page/安達忍.md "wikilink") 聲</small>
-    **巴拉齒輪<small>｜**[仁內建之](../Page/仁內建之.md "wikilink")／台配：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
-    聲</small>
+    **巴拉齒輪<small>｜**[仁內建之](../Page/仁內建之.md "wikilink")／台配：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink") 聲</small>
       -
         巴卡斯芬特使用自身的[齒輪所製造的機械獸](https://zh.wikipedia.org/wiki/齒輪 "wikilink")。隱藏在體內大量的「超級齒輪」，不僅能操控各式各樣機械（如王連者金剛的主引擎都能被控制），還能提升巴羅兵的機械性使其戰力強化。最後還承受了王連者們的「超力炸藥攻擊」、「大爆炸破壞砲」以及「巨型車輪」的連續大絕招攻擊，足見其出色的耐久性，但仍不敵究極武器「王連大砲」的驚人威力。
-    **揹揹鬼<small>｜**[安西正弘](https://zh.wikipedia.org/wiki/安西正弘 "wikilink")／台配：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
-    聲</small>
+    **揹揹鬼<small>｜**[安西正弘](https://zh.wikipedia.org/wiki/安西正弘 "wikilink")／台配：[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink") 聲</small>
       -
         布魯敦特將[超自然現象與](https://zh.wikipedia.org/wiki/超自然現象 "wikilink")[機械科學結合而製作的妖怪](https://zh.wikipedia.org/wiki/科學 "wikilink")。具有[隱形以及能吸收敵方攻擊](https://zh.wikipedia.org/wiki/隱形 "wikilink")，再將攻擊反彈回去的特殊能力。這能力讓王連者金剛和其他機器人的攻擊完全失效，使得王連者們陷入苦戰。但是光線等以外的攻擊不能接收，強力的物理性攻擊是其弱點。另外，亦有著扮演著小丑的人類型態<small>（[中川素州飾](https://zh.wikipedia.org/wiki/中川素州 "wikilink")）</small>。相當愛好女色，會拉開嘴上的拉鍊，伸出那又長又黏的舌頭汲取年輕女性的生命能量。
-    **揹揹齒輪<small>｜**[仁內建之](../Page/仁內建之.md "wikilink")‧[安西正弘](https://zh.wikipedia.org/wiki/安西正弘 "wikilink")
-    聲</small>
+    **揹揹齒輪<small>｜**[仁內建之](../Page/仁內建之.md "wikilink")‧[安西正弘](https://zh.wikipedia.org/wiki/安西正弘 "wikilink") 聲</small>
       -
         巨大化後的巴拉齒輪與揹揹鬼的合體型態。因為持有揹揹鬼的能力，所以能吸收掉**雙重封鎖斬擊**的能量。王連者金剛、紅色拳擊手、阻絕王者三架機器人將轉輪男孩（車輪型態）以不停地傳接的方式，將揹揹齒輪搞得暈頭轉向之後，再由阻絕王者使出與轉輪男孩的聯合技「炸藥轉輪」順利擊敗揹揹齒輪。
 
@@ -163,6 +151,4 @@ VS系列</p></td>
 
 ## 外部連結
 
-[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink")
-[Category:忍者題材作品](https://zh.wikipedia.org/wiki/Category:忍者題材作品 "wikilink")
-[Category:超古代文明題材作品](https://zh.wikipedia.org/wiki/Category:超古代文明題材作品 "wikilink")
+[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink") [Category:忍者題材作品](https://zh.wikipedia.org/wiki/Category:忍者題材作品 "wikilink") [Category:超古代文明題材作品](https://zh.wikipedia.org/wiki/Category:超古代文明題材作品 "wikilink")

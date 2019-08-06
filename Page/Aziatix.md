@@ -1,7 +1,4 @@
-[Aziatix.jpg](https://zh.wikipedia.org/wiki/File:Aziatix.jpg "fig:Aziatix.jpg")
-**Aziatix**组合是由3位美籍韓裔歌手組成，分别是歌手、Flowsik和Eddie
-Shin。他們曾於2011年在MAMA頒獎禮上獲得亞洲新人獎(The Best
-New Asian Group )。該組合的迷你專輯《Aziatix》曾在台灣及韓國流行排行榜登上冠軍位置。\[1\]
+[Aziatix.jpg](https://zh.wikipedia.org/wiki/File:Aziatix.jpg "fig:Aziatix.jpg") **Aziatix**组合是由3位美籍韓裔歌手組成，分别是歌手、Flowsik和Eddie Shin。他們曾於2011年在MAMA頒獎禮上獲得亞洲新人獎(The Best New Asian Group )。該組合的迷你專輯《Aziatix》曾在台灣及韓國流行排行榜登上冠軍位置。\[1\]
 
 ## 音乐作品
 
@@ -47,10 +44,8 @@ New Asian Group )。該組合的迷你專輯《Aziatix》曾在台灣及韓國�
 
 ## 外部連結
 
-  - [MSN "Get To Know:
-    Aziatix"](https://web.archive.org/web/20120402022338/http://social.entertainment.msn.com/music/blogs/groove-blogpost.aspx?post=970860a3-2804-4e98-9bf9-dfed7b7a4cad)
-  - [& Nicky Lee: The Next Far East Movement? Video
-    Interview"](https://web.archive.org/web/20120509054635/http://taiwan543.net/2011/11/17/aziatix-nicky-lee/%22Aziatix)
+  - [MSN "Get To Know: Aziatix"](https://web.archive.org/web/20120402022338/http://social.entertainment.msn.com/music/blogs/groove-blogpost.aspx?post=970860a3-2804-4e98-9bf9-dfed7b7a4cad)
+  - [& Nicky Lee: The Next Far East Movement? Video Interview"](https://web.archive.org/web/20120509054635/http://taiwan543.net/2011/11/17/aziatix-nicky-lee/%22Aziatix)
 
 [Category:美國演唱團體](https://zh.wikipedia.org/wiki/Category:美國演唱團體 "wikilink")
 

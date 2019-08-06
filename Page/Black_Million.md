@@ -1,10 +1,8 @@
-《**Black
-Million**》（）是2013年4月6日開始在[東京電視台](../Page/東京電視台.md "wikilink")播放的[綜藝節目](../Page/綜藝節目.md "wikilink")。
+《**Black Million**》（）是2013年4月6日開始在[東京電視台](../Page/東京電視台.md "wikilink")播放的[綜藝節目](../Page/綜藝節目.md "wikilink")。
 
 ## 概要
 
-在複合娛樂設施「[ROUND
-ONE](https://zh.wikipedia.org/wiki/ROUND_ONE "wikilink")」\[1\]，挑戰者能挑戰5個遊戲，能獲得獎金100萬日圓的綜藝節目。
+在複合娛樂設施「[ROUND ONE](https://zh.wikipedia.org/wiki/ROUND_ONE "wikilink")」\[1\]，挑戰者能挑戰5個遊戲，能獲得獎金100萬日圓的綜藝節目。
 
 ## 出演者
 
@@ -45,14 +43,9 @@ ONE](https://zh.wikipedia.org/wiki/ROUND_ONE "wikilink")」\[1\]，挑戰者能�
 
 ## 外部連結
 
-  - [Black
-    Million:東京電視台](http://www.tv-tokyo.co.jp/official/blackmillion/)
+  - [Black Million:東京電視台](http://www.tv-tokyo.co.jp/official/blackmillion/)
 
-[Category:東京電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:東京電視台綜藝節目 "wikilink")
-[Category:東京電視台深夜節目](https://zh.wikipedia.org/wiki/Category:東京電視台深夜節目 "wikilink")
-[Category:吉本興業節目](https://zh.wikipedia.org/wiki/Category:吉本興業節目 "wikilink")
-[Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink")
-[Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
+[Category:東京電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:東京電視台綜藝節目 "wikilink") [Category:東京電視台深夜節目](https://zh.wikipedia.org/wiki/Category:東京電視台深夜節目 "wikilink") [Category:吉本興業節目](https://zh.wikipedia.org/wiki/Category:吉本興業節目 "wikilink") [Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink") [Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
 
 1.  節目中出演的NMB48在ROUND ONE的CM中出演。
 2.  [AKB48](../Page/AKB48.md "wikilink")兼任。

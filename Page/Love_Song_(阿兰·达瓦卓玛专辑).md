@@ -1,5 +1,4 @@
-《**Love
-Song**》是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")（alan）的第三张[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")。
+《**Love Song**》是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](../Page/歌手.md "wikilink")[阿兰·达瓦卓玛](../Page/阿兰·达瓦卓玛.md "wikilink")（alan）的第三张[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")。
 
 ## 收录歌曲
 
@@ -28,5 +27,4 @@ Song**》是[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[歌手](..
 12. Love Song 〜きっともう一度〜 (Japanese Version)
       - 作詞：中山邦夫　作曲：李悦朗　編曲：张彧　制作人：中山邦夫、曹兰笛
 
-[Category:Alan音樂專輯](https://zh.wikipedia.org/wiki/Category:Alan音樂專輯 "wikilink")
-[Category:2012年音乐专辑](https://zh.wikipedia.org/wiki/Category:2012年音乐专辑 "wikilink")
+[Category:Alan音樂專輯](https://zh.wikipedia.org/wiki/Category:Alan音樂專輯 "wikilink") [Category:2012年音乐专辑](https://zh.wikipedia.org/wiki/Category:2012年音乐专辑 "wikilink")

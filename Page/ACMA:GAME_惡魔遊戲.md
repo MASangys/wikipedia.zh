@@ -1,5 +1,4 @@
-《**ACMA:GAME
-惡魔遊戲**》是原作，[惠廣史](../Page/惠廣史.md "wikilink")作畫的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。日本自《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》2013年19號起開始連載\[1\]，台灣則於《[新少年快報](../Page/新少年快報.md "wikilink")》2013年34期起連載。
+《**ACMA:GAME 惡魔遊戲**》是原作，[惠廣史](../Page/惠廣史.md "wikilink")作畫的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。日本自《[週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")》2013年19號起開始連載\[1\]，台灣則於《[新少年快報](../Page/新少年快報.md "wikilink")》2013年34期起連載。
 
 ## 故事簡介
 
@@ -98,8 +97,7 @@
 <!-- end list -->
 
   -
-    直屬於照朝的保全隊「HOUND
-    DOG」（HD）的隊長，身手非常高超。原為僱傭兵，回到日本後跟織田清司邂逅並開始為織田家工作，在集團分崩離析後也一直看顧著照朝。對織田一家非常忠心，最後之戰中先導者被擊敗後替其擋下攻擊而身受重傷。最後跟清司一起在遊戲空間裡死亡。
+    直屬於照朝的保全隊「HOUND DOG」（HD）的隊長，身手非常高超。原為僱傭兵，回到日本後跟織田清司邂逅並開始為織田家工作，在集團分崩離析後也一直看顧著照朝。對織田一家非常忠心，最後之戰中先導者被擊敗後替其擋下攻擊而身受重傷。最後跟清司一起在遊戲空間裡死亡。
 
 <!-- end list -->
 
@@ -424,12 +422,7 @@
 
 [講談社本作介紹](http://www.shonenmagazine.com/smaga/acmagame)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink")
-[Category:推理漫畫](https://zh.wikipedia.org/wiki/Category:推理漫畫 "wikilink")
-[Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
-[Category:賭博題材作品](https://zh.wikipedia.org/wiki/Category:賭博題材作品 "wikilink")
-[Category:惡魔題材漫畫](https://zh.wikipedia.org/wiki/Category:惡魔題材漫畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink") [Category:推理漫畫](https://zh.wikipedia.org/wiki/Category:推理漫畫 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink") [Category:賭博題材作品](https://zh.wikipedia.org/wiki/Category:賭博題材作品 "wikilink") [Category:惡魔題材漫畫](https://zh.wikipedia.org/wiki/Category:惡魔題材漫畫 "wikilink")
 
 1.
 2.

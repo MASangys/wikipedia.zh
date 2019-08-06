@@ -2,13 +2,9 @@
 
 ## 概述
 
-  - 距離前作《[為戀而愛／Special morning day to
-    you](../Page/為戀而愛／Special_morning_day_to_you.md "wikilink")》約6個月的新作。
+  - 距離前作《[為戀而愛／Special morning day to you](../Page/為戀而愛／Special_morning_day_to_you.md "wikilink")》約6個月的新作。
   - 對一般消費者以「初回限定盤」、「通常盤」和「名偵探柯南盤」三種形態發售，另外包括只向歌迷會會員和Musing限定會員發售的「Musing\&FC盤」，實際上是以四種形態發售。各版本封面均不相同。
-  - 《**TRY
-    AGAIN**》是繼《[為戀而愛](../Page/為戀而愛／Special_morning_day_to_you.md "wikilink")》以來第16次、相隔6個月為《[名偵探柯南](../Page/名偵探柯南_\(動畫\).md "wikilink")》演唱歌曲，同時是繼《[SUMMER
-    TIME
-    GONE](../Page/SUMMER_TIME_GONE.md "wikilink")》以來再次為《名偵探柯南》演唱片頭曲。
+  - 《**TRY AGAIN**》是繼《[為戀而愛](../Page/為戀而愛／Special_morning_day_to_you.md "wikilink")》以來第16次、相隔6個月為《[名偵探柯南](../Page/名偵探柯南_\(動畫\).md "wikilink")》演唱歌曲，同時是繼《[SUMMER TIME GONE](../Page/SUMMER_TIME_GONE.md "wikilink")》以來再次為《名偵探柯南》演唱片頭曲。
 
 ## 收錄歌曲
 
@@ -45,7 +41,4 @@
   - [youtube試聽版](http://www.youtube.com/watch?v=1r1bS2qjN1E)
   - [優酷土豆試聽版](http://www.tudou.com/programs/view/cukBwidE8_k/)
 
-[Category:倉木麻衣歌曲](https://zh.wikipedia.org/wiki/Category:倉木麻衣歌曲 "wikilink")
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名偵探柯南歌曲 "wikilink")
-[Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")
+[Category:倉木麻衣歌曲](https://zh.wikipedia.org/wiki/Category:倉木麻衣歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:名偵探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名偵探柯南歌曲 "wikilink") [Category:讀賣電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:讀賣電視台動畫主題曲 "wikilink")

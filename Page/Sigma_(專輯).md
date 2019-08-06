@@ -1,5 +1,4 @@
-「**SIGMA首張同名專輯**」是[台灣男子偶像團體](https://zh.wikipedia.org/wiki/台灣 "wikilink")
-[SIGMA](../Page/SIGMA_\(組合\).md "wikilink")(成員：[周定緯](../Page/周定緯.md "wikilink")(團長)、[李-{杰}-宇](../Page/李杰宇.md "wikilink")、[林維哲](../Page/林維哲.md "wikilink"))的首張專輯，於2010年12月17日發行。首波主打歌為〈SIGMA〉；而第二主打則為〈淚奔〉；第三主打〈後男友〉。另外於2011年1月28日出影音雙全升級版，並主打第四波〈世界這麼亂〉。
+「**SIGMA首張同名專輯**」是[台灣男子偶像團體](https://zh.wikipedia.org/wiki/台灣 "wikilink") [SIGMA](../Page/SIGMA_\(組合\).md "wikilink")(成員：[周定緯](../Page/周定緯.md "wikilink")(團長)、[李-{杰}-宇](../Page/李杰宇.md "wikilink")、[林維哲](../Page/林維哲.md "wikilink"))的首張專輯，於2010年12月17日發行。首波主打歌為〈SIGMA〉；而第二主打則為〈淚奔〉；第三主打〈後男友〉。另外於2011年1月28日出影音雙全升級版，並主打第四波〈世界這麼亂〉。
 
 ## 曲目
 

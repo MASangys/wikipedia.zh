@@ -2,8 +2,7 @@
 
 ## 历史
 
-touch程序最早出现在第七版[AT\&T](../Page/AT&T.md "wikilink")[UNIX](../Page/UNIX.md "wikilink")，包含在[GNU核心工具组](../Page/GNU核心工具组.md "wikilink")的touch程序的作者为Paul
-Rubin，Arnold Robbins，Jim Kingdon，David MacKenzie。
+touch程序最早出现在第七版[AT\&T](../Page/AT&T.md "wikilink")[UNIX](../Page/UNIX.md "wikilink")，包含在[GNU核心工具组](../Page/GNU核心工具组.md "wikilink")的touch程序的作者为Paul Rubin，Arnold Robbins，Jim Kingdon，David MacKenzie。
 
 ## 使用方法
 
@@ -43,8 +42,7 @@ $ touch -d 'Jan 31 2007 8:46:26' index.html
 其他操作系统，如(Windows、Mac OS）也存在执行相似功能的软件：
 
   - Windows
-      - [File Date
-        Touch](http://date.bghot.com)-[Windows下的](https://zh.wikipedia.org/wiki/Windows "wikilink")[自由软件](../Page/自由软件.md "wikilink")
+      - [File Date Touch](http://date.bghot.com)-[Windows下的](https://zh.wikipedia.org/wiki/Windows "wikilink")[自由软件](../Page/自由软件.md "wikilink")
 
 ## 参看
 

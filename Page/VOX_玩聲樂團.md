@@ -1,17 +1,10 @@
-**VOX玩聲樂團**，是「[A
-Cappella](https://zh.wikipedia.org/wiki/A_Cappella "wikilink")」([阿卡貝拉](https://zh.wikipedia.org/wiki/阿卡貝拉 "wikilink")、[無伴奏合唱](../Page/無伴奏合唱.md "wikilink"))人聲樂團，也是流行音樂團體，成軍於2012年，是由五位男性組成的純人聲演唱團體，擅長演唱現代A
-Cappella，曲風為[流行音樂及](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[搖滾風格](https://zh.wikipedia.org/wiki/搖滾 "wikilink")。經常將流行音樂改編為A
-Cappella版本，並在[YouTube](../Page/YouTube.md "wikilink")上播送，也是台灣第一支以阿卡貝拉為職業演出的團體。根據純人聲音樂跨國性整合平台--中華暢聲亞洲音樂協會（Vocal
-Asia）紀載，VOX玩聲樂團是目前台灣最活躍、也是最受矚目的A Cappella
-團隊之一。\[1\]2013年在音樂製作人[李壽全](../Page/李壽全.md "wikilink")老師的協助及指導下發行首張專輯《朱古力》，並於2016年11月發表第二張專輯《VOX
-2》。\[2\]
+**VOX玩聲樂團**，是「[A Cappella](https://zh.wikipedia.org/wiki/A_Cappella "wikilink")」([阿卡貝拉](https://zh.wikipedia.org/wiki/阿卡貝拉 "wikilink")、[無伴奏合唱](../Page/無伴奏合唱.md "wikilink"))人聲樂團，也是流行音樂團體，成軍於2012年，是由五位男性組成的純人聲演唱團體，擅長演唱現代A Cappella，曲風為[流行音樂及](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[搖滾風格](https://zh.wikipedia.org/wiki/搖滾 "wikilink")。經常將流行音樂改編為A Cappella版本，並在[YouTube](../Page/YouTube.md "wikilink")上播送，也是台灣第一支以阿卡貝拉為職業演出的團體。根據純人聲音樂跨國性整合平台--中華暢聲亞洲音樂協會（Vocal Asia）紀載，VOX玩聲樂團是目前台灣最活躍、也是最受矚目的A Cappella 團隊之一。\[1\]2013年在音樂製作人[李壽全](../Page/李壽全.md "wikilink")老師的協助及指導下發行首張專輯《朱古力》，並於2016年11月發表第二張專輯《VOX 2》。\[2\]
 
 ## 獲獎及經歷
 
 ### 2009
 
-  - 洪大為、陳建華、鍾宜勳、謝祈中與賽「奧地利國際無伴奏人聲重唱大賽（International A Cappella
-    Competition)」以「一樣的月光」、「One Night in 北京」、「望春風」等歌曲，獲得流行組金牌獎第一名\[3\]
+  - 洪大為、陳建華、鍾宜勳、謝祈中與賽「奧地利國際無伴奏人聲重唱大賽（International A Cappella Competition)」以「一樣的月光」、「One Night in 北京」、「望春風」等歌曲，獲得流行組金牌獎第一名\[3\]
 
 ### 2012
 
@@ -189,23 +182,18 @@ Asia）紀載，VOX玩聲樂團是目前台灣最活躍、也是最受矚目的A
 
 ### 洪大為 David Hung
 
-  - 主要聲部：[男高音](../Page/男高音.md "wikilink")、人聲打擊[Vocal
-    Percussion](https://zh.wikipedia.org/wiki/Vocal_Percussion "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")、[混音](../Page/混音.md "wikilink")
+  - 主要聲部：[男高音](../Page/男高音.md "wikilink")、人聲打擊[Vocal Percussion](https://zh.wikipedia.org/wiki/Vocal_Percussion "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")、[混音](../Page/混音.md "wikilink")
 
 <!-- end list -->
 
-  - 國立台北教育大學音樂學系畢業，主修聲樂，副修鋼琴、小提琴，2004年加入第一個a cappella團體「Trying
-    Times」開始一連串的無伴奏音樂生涯，2007年共同創立「公共澡堂人聲樂團」，2008年公澡改制為全男生八人團體，並拿下該年度台灣a
-    cappella大賽第一名，隔年2009年8月代表臺灣赴奧地利Graz比賽拿下POP組冠軍；2012年公澡協議解散，並於該年2月與音樂農場有限公司共同創立「VOX玩聲樂團」
-  - [洪孩兒
-    H.D.](https://www.facebook.com/%E6%B4%AA%E5%AD%A9%E5%85%92-HD-1975197826093552/)
+  - 國立台北教育大學音樂學系畢業，主修聲樂，副修鋼琴、小提琴，2004年加入第一個a cappella團體「Trying Times」開始一連串的無伴奏音樂生涯，2007年共同創立「公共澡堂人聲樂團」，2008年公澡改制為全男生八人團體，並拿下該年度台灣a cappella大賽第一名，隔年2009年8月代表臺灣赴奧地利Graz比賽拿下POP組冠軍；2012年公澡協議解散，並於該年2月與音樂農場有限公司共同創立「VOX玩聲樂團」
+  - [洪孩兒 H.D.](https://www.facebook.com/%E6%B4%AA%E5%AD%A9%E5%85%92-HD-1975197826093552/)
 
 ### 黃宏洲(洲洲) Joe Huang
 
   - 主要聲部:[男低音](../Page/男低音.md "wikilink")
   - 生日:7月3日（巨蟹座）
-  - 高中曾加入「福爾摩沙青年合唱團」,並參與「2008～2011年台灣青年節慶合唱團營隊」,更於2009年9月加入由蘇慶俊老師帶領的「福爾摩沙合唱團」至2012年3月,隨合唱團參與許多演出,歷經外國客席指揮有
-    Anton Armstrong、田中信昭、松下耕、Steven Leek。
+  - 高中曾加入「福爾摩沙青年合唱團」,並參與「2008～2011年台灣青年節慶合唱團營隊」,更於2009年9月加入由蘇慶俊老師帶領的「福爾摩沙合唱團」至2012年3月,隨合唱團參與許多演出,歷經外國客席指揮有 Anton Armstrong、田中信昭、松下耕、Steven Leek。
 
 ## 參考來源
 

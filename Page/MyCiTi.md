@@ -1,6 +1,4 @@
-[MyCiti_Bus_system_Civic_Centre_station_1.JPG](https://zh.wikipedia.org/wiki/File:MyCiti_Bus_system_Civic_Centre_station_1.JPG "fig:MyCiti_Bus_system_Civic_Centre_station_1.JPG")
-[MyCiTi_bus_in_the_Foreshore,_Cape_Town.jpg](https://zh.wikipedia.org/wiki/File:MyCiTi_bus_in_the_Foreshore,_Cape_Town.jpg "fig:MyCiTi_bus_in_the_Foreshore,_Cape_Town.jpg")的MyCiTi巴士。\]\]
-[MyCiTi_Optare_Solo_bus_in_a_bus_lane_in_the_Foreshore,_Cape_Town.jpg](https://zh.wikipedia.org/wiki/File:MyCiTi_Optare_Solo_bus_in_a_bus_lane_in_the_Foreshore,_Cape_Town.jpg "fig:MyCiTi_Optare_Solo_bus_in_a_bus_lane_in_the_Foreshore,_Cape_Town.jpg")上。\]\]
+[MyCiti_Bus_system_Civic_Centre_station_1.JPG](https://zh.wikipedia.org/wiki/File:MyCiti_Bus_system_Civic_Centre_station_1.JPG "fig:MyCiti_Bus_system_Civic_Centre_station_1.JPG") [MyCiTi_bus_in_the_Foreshore,_Cape_Town.jpg](https://zh.wikipedia.org/wiki/File:MyCiTi_bus_in_the_Foreshore,_Cape_Town.jpg "fig:MyCiTi_bus_in_the_Foreshore,_Cape_Town.jpg")的MyCiTi巴士。\]\] [MyCiTi_Optare_Solo_bus_in_a_bus_lane_in_the_Foreshore,_Cape_Town.jpg](https://zh.wikipedia.org/wiki/File:MyCiTi_Optare_Solo_bus_in_a_bus_lane_in_the_Foreshore,_Cape_Town.jpg "fig:MyCiTi_Optare_Solo_bus_in_a_bus_lane_in_the_Foreshore,_Cape_Town.jpg")上。\]\]
 
 **MyCiTi**（，）是一種帶有饋線的[巴士快速交通系統](https://zh.wikipedia.org/wiki/巴士快速交通系統 "wikilink")，是[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")[開普敦](../Page/開普敦.md "wikilink")市以更大的綜合[公共交通](../Page/公共交通.md "wikilink")來驅動經濟發展戰略的一部分\[1\]\[2\]。該服務正在開普敦各地推廣，並在約10%的城市內提供顯著增強的公共交通系統。該服務於2010年開通，第一階段的特色是沿城市西海岸線從北向南行駛的巴士。
 
@@ -18,8 +16,7 @@ MyCiTi於[2010年國際足協世界盃前夕的](https://zh.wikipedia.org/wiki/2
 
 第一條正式的[快速公交系統路線](https://zh.wikipedia.org/wiki/快速公交系統 "wikilink")（1A線）于2011年5月开始营运。其有一条沿着西海岸的公交专用道，从市中心穿过直至，用来提供快速公交服务。该条干线连接着在地区另一条路线：从经过市民中心，直至；与此同时，在、和三個地区均有接驳服务路线。
 
-2012年，MyCiTi第一次開始使用其首個定制的9米巴士作為其車隊的一部分。該巴士是190個單位訂單的一部分，由Busmark
-2000於組裝，並用作支線巴士。Optare Solo的尺寸較短，使其即使在住宅和密集城市區域內也可以輕鬆操控\[5\]。
+2012年，MyCiTi第一次開始使用其首個定制的9米巴士作為其車隊的一部分。該巴士是190個單位訂單的一部分，由Busmark 2000於組裝，並用作支線巴士。Optare Solo的尺寸較短，使其即使在住宅和密集城市區域內也可以輕鬆操控\[5\]。
 
 2012年至2013年间，西海岸营运了一些新的线路，与此同时也扩展至东海岸地区\[6\]\[7\]。在2013年底，服務大規模擴張。這些路線包括泰堡維和帕克蘭周圍的新路線，並連接至以下地區：經過賽馬場路及幹河路前往世紀城；沿庫貝赫路前往蒙塔古花園；經過布勞烏堡路前往基拉尼、達農及多魯巴赫；位於西海岸路的桑尼戴爾和桑當車站；梅爾克博斯特蘭；、馬姆雷和佩拉。
 
@@ -32,25 +29,16 @@ MyCiTi服务旨在為开普敦提供可靠、安全的公共交通。目前，My
 ## 外部連結
 
   - [Official website](http://www.myciti.org.za/)
-  - [COMPREHENSIVE INTEGRATED TRANSPORT PLAN 2013 – 2018 MINI
-    REVIEW 2014](http://www.capetown.gov.za/en/TransportCapeTown/Documents/2014-05-13_Transport_Plan_2013-18.pdf)
+  - [COMPREHENSIVE INTEGRATED TRANSPORT PLAN 2013 – 2018 MINI REVIEW 2014](http://www.capetown.gov.za/en/TransportCapeTown/Documents/2014-05-13_Transport_Plan_2013-18.pdf)
 
-[Category:開普敦交通](https://zh.wikipedia.org/wiki/Category:開普敦交通 "wikilink")
-[Category:快速公交系統](https://zh.wikipedia.org/wiki/Category:快速公交系統 "wikilink")
-[Category:南非快速運輸](https://zh.wikipedia.org/wiki/Category:南非快速運輸 "wikilink")
+[Category:開普敦交通](https://zh.wikipedia.org/wiki/Category:開普敦交通 "wikilink") [Category:快速公交系統](https://zh.wikipedia.org/wiki/Category:快速公交系統 "wikilink") [Category:南非快速運輸](https://zh.wikipedia.org/wiki/Category:南非快速運輸 "wikilink")
 
 1.
 
-2.  Information for this article was updated based on information
-    obtained from www.myciti.org.za, as at 29 December 2015.
+2.  Information for this article was updated based on information obtained from www.myciti.org.za, as at 29 December 2015.
 
 3.
-4.  A passenger journey is defined by [Transport for Cape
-    Town](https://zh.wikipedia.org/wiki/Transport_for_Cape_Town "wikilink")
-    (TCT) as the number of individual passengers travelling from origin
-    to destination, for one way travel. It is not the number of
-    ‘boardings’, so it does not count passengers again when they
-    transfer to a new bus.
+4.  A passenger journey is defined by [Transport for Cape Town](https://zh.wikipedia.org/wiki/Transport_for_Cape_Town "wikilink") (TCT) as the number of individual passengers travelling from origin to destination, for one way travel. It is not the number of ‘boardings’, so it does not count passengers again when they transfer to a new bus.
 
 5.
 

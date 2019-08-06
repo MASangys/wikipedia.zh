@@ -1,7 +1,4 @@
-本列表為[Windows
-3.1x到](https://zh.wikipedia.org/wiki/Windows_3.1x "wikilink")[Windows
-10的](../Page/Windows_10.md "wikilink")[字型](../Page/计算机字体.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]不包含[Microsoft
-Office和其它](../Page/Microsoft_Office.md "wikilink")[微軟應用程式的字型](https://zh.wikipedia.org/wiki/微軟 "wikilink")。
+本列表為[Windows 3.1x到](https://zh.wikipedia.org/wiki/Windows_3.1x "wikilink")[Windows 10的](../Page/Windows_10.md "wikilink")[字型](../Page/计算机字体.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]不包含[Microsoft Office和其它](../Page/Microsoft_Office.md "wikilink")[微軟應用程式的字型](https://zh.wikipedia.org/wiki/微軟 "wikilink")。
 
 | 字体                                                                                                             | 支持字形                                                                                      | 应用文字                                               | 首次自带  | 样例                                                                                                                                                                                   |
 | -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -173,18 +170,15 @@ Office和其它](../Page/Microsoft_Office.md "wikilink")[微軟應用程式的�
 ## 參見
 
   - [字體列表](https://zh.wikipedia.org/wiki/字體列表 "wikilink")
-  - [Windows Phone
-    OS字體列表](https://zh.wikipedia.org/wiki/Windows_Phone_OS字體列表 "wikilink")
-  - [Mac OS
-    X字體列表](https://zh.wikipedia.org/wiki/Mac_OS_X字體列表 "wikilink")
+  - [Windows Phone OS字體列表](https://zh.wikipedia.org/wiki/Windows_Phone_OS字體列表 "wikilink")
+  - [Mac OS X字體列表](https://zh.wikipedia.org/wiki/Mac_OS_X字體列表 "wikilink")
   - [Unicode字型](https://zh.wikipedia.org/wiki/Unicode字型 "wikilink")
 
 ## 參考來源
 
 ## 外部連結
 
-  - [Revised (cross-platform) font stack (for the
-    web)](https://web.archive.org/web/20100308204215/http://www.awayback.com/revised-font-stack/)
+  - [Revised (cross-platform) font stack (for the web)](https://web.archive.org/web/20100308204215/http://www.awayback.com/revised-font-stack/)
 
 [Category:微軟字體](https://zh.wikipedia.org/wiki/Category:微軟字體 "wikilink")
 

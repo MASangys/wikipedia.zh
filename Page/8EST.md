@@ -1,5 +1,4 @@
-《**8EST**》是[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第1張單精選集，發行於2012年10月17日發行，唱片公司為[Imperial
-Records](https://zh.wikipedia.org/wiki/Imperial_Records "wikilink")。
+《**8EST**》是[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第1張單精選集，發行於2012年10月17日發行，唱片公司為[Imperial Records](https://zh.wikipedia.org/wiki/Imperial_Records "wikilink")。
 
 ## 概要
 
@@ -37,13 +36,10 @@ Records](https://zh.wikipedia.org/wiki/Imperial_Records "wikilink")。
         作詞: MASA、作曲・編曲: 馬飼野康二
 9.  [跌跌撞撞男人路](../Page/ZUKKOKE男道.md "wikilink")（ズッコケ男道）
       -
-        作詞: 上中丈弥（THE イナズマ戦隊）、作曲:
-        [ピエール](https://zh.wikipedia.org/wiki/浜田ピエール裕介 "wikilink")、編曲:
-        白井良明
+        作詞: 上中丈弥（THE イナズマ戦隊）、作曲: [ピエール](https://zh.wikipedia.org/wiki/浜田ピエール裕介 "wikilink")、編曲: 白井良明
 10. [It's my soul](../Page/It's_my_soul.md "wikilink")（イッツ マイ ソウル）
       -
-        作詞: 上中丈弥（THE イナズマ戦隊）、作曲: 林田健司、編曲:
-        [CHOKKAKU](https://zh.wikipedia.org/wiki/CHOKKAKU "wikilink")
+        作詞: 上中丈弥（THE イナズマ戦隊）、作曲: 林田健司、編曲: [CHOKKAKU](https://zh.wikipedia.org/wiki/CHOKKAKU "wikilink")
 11. [Wahaha](../Page/Wahaha.md "wikilink")(ワッハッハー)
       -
         作詞･作曲:竹森マサユキ([カラーボトル](https://zh.wikipedia.org/wiki/カラーボトル "wikilink"))、編曲:CHOKKAKU
@@ -149,8 +145,7 @@ Records](https://zh.wikipedia.org/wiki/Imperial_Records "wikilink")。
 
 **DISC 1**
 
-收錄了8祭的LIVE\&DOCUMENTARY和2012年8月8日[京瓷巨蛋大阪公演的fan感謝CD特典Free](../Page/大阪巨蛋.md "wikilink")
-Event（松原信一 presents）。
+收錄了8祭的LIVE\&DOCUMENTARY和2012年8月8日[京瓷巨蛋大阪公演的fan感謝CD特典Free](../Page/大阪巨蛋.md "wikilink") Event（松原信一 presents）。
 
 收錄曲
 
@@ -186,6 +181,4 @@ Event（松原信一 presents）。
 
 ## 參考資料
 
-[Category:關西傑尼斯8音樂專輯](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:2012年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:關西傑尼斯8音樂專輯](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:2012年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon專輯週榜冠軍作品 "wikilink")

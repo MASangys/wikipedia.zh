@@ -1,13 +1,10 @@
-《**重甲機神
-Baryon**》是由[臺灣](../Page/臺灣.md "wikilink")一家位於[台北市的動畫工作室](https://zh.wikipedia.org/wiki/台北市 "wikilink")「[乾坤一擊創意股份有限公司](https://zh.wikipedia.org/wiki/乾坤一擊創意股份有限公司 "wikilink")」（）製作，由紀敦智、黃瀛洲導演所推出的原創機器人動畫作品\[1\]，於2019年10月正式上映的[台灣動畫](https://zh.wikipedia.org/wiki/台灣動畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。\[2\]\[3\]
+《**重甲機神 Baryon**》是由[臺灣](../Page/臺灣.md "wikilink")一家位於[台北市的動畫工作室](https://zh.wikipedia.org/wiki/台北市 "wikilink")「[乾坤一擊創意股份有限公司](https://zh.wikipedia.org/wiki/乾坤一擊創意股份有限公司 "wikilink")」（）製作，由紀敦智、黃瀛洲導演所推出的原創機器人動畫作品\[1\]，於2019年10月正式上映的[台灣動畫](https://zh.wikipedia.org/wiki/台灣動畫 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。\[2\]\[3\]
 
-劇情以台灣為舞台，動畫以2D和3D的方式呈現\[4\]。故事原案、編劇、系列構成、科學考據部分則有[東海大學應用物理系及](https://zh.wikipedia.org/wiki/東海大學 "wikilink")[中原大學](../Page/中原大學.md "wikilink")物理系的參與\[5\]。音樂總監則由為[張惠妹](../Page/張惠妹.md "wikilink")、[蔡依林](../Page/蔡依林.md "wikilink")等製作專輯的音樂人[陳星翰](../Page/陳星翰.md "wikilink")（Starr
-Chen）擔任\[6\]。
+劇情以台灣為舞台，動畫以2D和3D的方式呈現\[4\]。故事原案、編劇、系列構成、科學考據部分則有[東海大學應用物理系及](https://zh.wikipedia.org/wiki/東海大學 "wikilink")[中原大學](../Page/中原大學.md "wikilink")物理系的參與\[5\]。音樂總監則由為[張惠妹](../Page/張惠妹.md "wikilink")、[蔡依林](../Page/蔡依林.md "wikilink")等製作專輯的音樂人[陳星翰](../Page/陳星翰.md "wikilink")（Starr Chen）擔任\[6\]。
 
 ## 劇情簡介
 
-某日，無數[衛星雷射砲光束從天而降](../Page/激光武器.md "wikilink")，將全世界所有武力先進國家摧毀殆盡，世界陷入潰滅狀態。由於台灣特殊的[國際政治背景](https://zh.wikipedia.org/wiki/國際政治 "wikilink")，可說是屬於二線國家當中的領頭，經濟科技一流但[武裝薄弱不成比例](https://zh.wikipedia.org/wiki/武裝 "wikilink")，反而幸運逃過謎之敵人的第一波攻擊。而以為雷射無法攻擊到的海底都市安全無虞，因此全世界殘存勢力向台灣集結，以深海為基地，準備展開絕地大反攻，殊不知深海中蠢蠢欲動的怪獸才是另一場夢魘的開始，惡魔正向海底都市正面襲擊而來……
-\[7\]
+某日，無數[衛星雷射砲光束從天而降](../Page/激光武器.md "wikilink")，將全世界所有武力先進國家摧毀殆盡，世界陷入潰滅狀態。由於台灣特殊的[國際政治背景](https://zh.wikipedia.org/wiki/國際政治 "wikilink")，可說是屬於二線國家當中的領頭，經濟科技一流但[武裝薄弱不成比例](https://zh.wikipedia.org/wiki/武裝 "wikilink")，反而幸運逃過謎之敵人的第一波攻擊。而以為雷射無法攻擊到的海底都市安全無虞，因此全世界殘存勢力向台灣集結，以深海為基地，準備展開絕地大反攻，殊不知深海中蠢蠢欲動的怪獸才是另一場夢魘的開始，惡魔正向海底都市正面襲擊而來…… \[7\]
 
 ## 登場角色
 
@@ -20,8 +17,7 @@ Chen）擔任\[6\]。
 
   - 天音（）
     配音：[戴瑋嫺](https://zh.wikipedia.org/wiki/戴瑋嫺 "wikilink")(凍凍)\[11\]
-    本作女主角，全名**苗天音**，18歲，[海洋音樂祭的偶像歌手](https://zh.wikipedia.org/wiki/海洋音樂祭 "wikilink")，快速竄紅得實力派，擁有對音律有特殊敏感度「絕對聽覺」的能力。以星形飾件與漸層髮色來凸顯閃耀動人的形象，Bling
-    Bling的大眼看起來天真清新，但其實她擁有一顆比任何人都堅強的心。\[12\]
+    本作女主角，全名**苗天音**，18歲，[海洋音樂祭的偶像歌手](https://zh.wikipedia.org/wiki/海洋音樂祭 "wikilink")，快速竄紅得實力派，擁有對音律有特殊敏感度「絕對聽覺」的能力。以星形飾件與漸層髮色來凸顯閃耀動人的形象，Bling Bling的大眼看起來天真清新，但其實她擁有一顆比任何人都堅強的心。\[12\]
     為重甲機二號「CHARM QUARK」以及重甲機神RROTON的副駕駛兼搜查官\[13\]。
 
 <!-- end list -->
@@ -146,8 +142,7 @@ Chen）擔任\[6\]。
   - 人物設定：[余品翰](https://zh.wikipedia.org/wiki/余品翰 "wikilink")\[34\]（主角設計/動畫完稿）、胡雅涵（主角設計/動畫完稿）
   - 原畫師：[吳東晟](https://zh.wikipedia.org/wiki/吳東晟 "wikilink")（動態設計/2D特效動畫）
   - 動畫師：[曾繁庭](https://zh.wikipedia.org/wiki/曾繁庭 "wikilink")（動畫完稿）、[王莉棋](https://zh.wikipedia.org/wiki/王莉棋 "wikilink")（動畫完稿）
-  - 3D技術總監：[曾右任](https://zh.wikipedia.org/wiki/曾右任 "wikilink")（機器人設定/3D
-    動畫/後製特效）
+  - 3D技術總監：[曾右任](https://zh.wikipedia.org/wiki/曾右任 "wikilink")（機器人設定/3D 動畫/後製特效）
   - 製片：[徐雅竹](https://zh.wikipedia.org/wiki/徐雅竹 "wikilink")（行銷公關/後製剪接）
   - 動畫製作：[乾坤一擊創意工作室](https://zh.wikipedia.org/wiki/乾坤一擊創意工作室 "wikilink")\[35\]
 
@@ -241,11 +236,7 @@ Chen）擔任\[6\]。
   -
   - [重甲機神第一集《台灣人之不得不成為救世主！》22分鐘製作計畫始動！](https://www.flyingv.cc/project/9743)
 
-[Category:臺灣動畫](https://zh.wikipedia.org/wiki/Category:臺灣動畫 "wikilink")
-[Category:臺灣背景動畫](https://zh.wikipedia.org/wiki/Category:臺灣背景動畫 "wikilink")
-[Category:臺灣動漫角色](https://zh.wikipedia.org/wiki/Category:臺灣動漫角色 "wikilink")
-[Category:末日題材作品](https://zh.wikipedia.org/wiki/Category:末日題材作品 "wikilink")
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
+[Category:臺灣動畫](https://zh.wikipedia.org/wiki/Category:臺灣動畫 "wikilink") [Category:臺灣背景動畫](https://zh.wikipedia.org/wiki/Category:臺灣背景動畫 "wikilink") [Category:臺灣動漫角色](https://zh.wikipedia.org/wiki/Category:臺灣動漫角色 "wikilink") [Category:末日題材作品](https://zh.wikipedia.org/wiki/Category:末日題材作品 "wikilink") [Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
 
 1.
 

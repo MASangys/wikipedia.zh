@@ -13,89 +13,49 @@
 | Fucking Machines device example Bunny Fucker cropped to machine.jpg|Bunny Fucker Fucking Machines device example The Toolbox cropped to machine.jpg|The Toolbox Fucking Machines device example Annihilator cropped to machine.jpg|Annihilator Fucking Machines device example Intruder MK II cropped to machine.jpg|Intruder MK II |
 | Fucking Machines视频中使用的机器示例                                                                                                                                                                                                                                                                                                          |
 
-Fucking
-Machines是彼得·阿克沃思为他的公司Cybernet娱乐创造的第二个网站。于2000年9月25日成立\[3\]\[4\]Cybernet娱乐随后因为商业原因而更名为[Kink.com](../Page/Kink.com.md "wikilink")。\[5\]网站的主任和网管的专业名为Tomcat，他拥有一个电影与媒体专业的本科学位，并且具有丰富的制片和操作性机器的经验。\[6\]\[7\]他开始在Kink.com担任协助制作的角色。\[8\]他的导演方式专注于摄制女性参与者在使用机器的过程中所感受到的诚心的快感。\[9\]
+Fucking Machines是彼得·阿克沃思为他的公司Cybernet娱乐创造的第二个网站。于2000年9月25日成立\[3\]\[4\]Cybernet娱乐随后因为商业原因而更名为[Kink.com](../Page/Kink.com.md "wikilink")。\[5\]网站的主任和网管的专业名为Tomcat，他拥有一个电影与媒体专业的本科学位，并且具有丰富的制片和操作性机器的经验。\[6\]\[7\]他开始在Kink.com担任协助制作的角色。\[8\]他的导演方式专注于摄制女性参与者在使用机器的过程中所感受到的诚心的快感。\[9\]
 
-网站描述了可以把妇女带入[性高潮](../Page/性高潮.md "wikilink")的机器。\[10\]
-莎拉·沙舍克在书《放映爱情的黑暗的一面》中写道网站上的影片制作小组中大部分组员是女性。\[11\]在其所有的网站上，Kink.com不断阐述了一套针对导演们和演员们的价值观念以及行为准则，以期预防受害者化。\[12\]网站上的每一部影片的开始及最后制片者都会面试演员。\[13\]在Fucking
-Machines电影里出现的模特被要求真实的演出以及简单的从机器里感受性快感，而不是演绎虚假的性快感。\[14\]
+网站描述了可以把妇女带入[性高潮](../Page/性高潮.md "wikilink")的机器。\[10\] 莎拉·沙舍克在书《放映爱情的黑暗的一面》中写道网站上的影片制作小组中大部分组员是女性。\[11\]在其所有的网站上，Kink.com不断阐述了一套针对导演们和演员们的价值观念以及行为准则，以期预防受害者化。\[12\]网站上的每一部影片的开始及最后制片者都会面试演员。\[13\]在Fucking Machines电影里出现的模特被要求真实的演出以及简单的从机器里感受性快感，而不是演绎虚假的性快感。\[14\]
 
-2007年Fucking
-Machines与其它Kink.com旗下网站搬到了旧金山军火库。\[15\]\[16\]影片在军火库的地下室被录制。\[17\]Fucking
-Machines在2007年的在[内华达州拉斯维加斯市所举办的](https://zh.wikipedia.org/wiki/Las_Vegas,_Nevada "wikilink")[成人影帶新聞成人娛樂博覽會上以](https://zh.wikipedia.org/wiki/成人影帶新聞成人娛樂博覽會 "wikilink")“每分钟350转的性行为”的广告标语被推销给与会者。\[18\]
-被展示的机器包括“钻子”以及“双起重机”。\[19\]一个名叫[舔阴器的机器在一条传送带上装上很多橡皮舌头](https://zh.wikipedia.org/wiki/舔阴 "wikilink")，在2007年日本[幕張展覽館](../Page/幕張展覽館.md "wikilink")所举办的成人宝物展览会中被展示。\[20\]于2007年10月在加利福尼亚州旧金山市举办的[Arse
-Elektronika性与科技讲座中展示了一个来自Fucking](../Page/Arse_Elektronika.md "wikilink")
-Machines的名叫“Fuckzilla”的机器人与一个与会者在现场进行性交。\[21\]Kink.com于2007年与Pulse分销商签订协议，把它旗下的网站上的内容以DVD形式销售给观众。\[22\]网站所销售的第一张DVD名为《Fucking
-Machines第一卷》，内含211分钟的由阿莉安娜·洛夫（，米卡·摩尔（），莱克茜·洛夫（）和[莎夏·葛蕾](../Page/莎夏·葛蕾.md "wikilink")所表演的情节\[23\]
+2007年Fucking Machines与其它Kink.com旗下网站搬到了旧金山军火库。\[15\]\[16\]影片在军火库的地下室被录制。\[17\]Fucking Machines在2007年的在[内华达州拉斯维加斯市所举办的](https://zh.wikipedia.org/wiki/Las_Vegas,_Nevada "wikilink")[成人影帶新聞成人娛樂博覽會上以](https://zh.wikipedia.org/wiki/成人影帶新聞成人娛樂博覽會 "wikilink")“每分钟350转的性行为”的广告标语被推销给与会者。\[18\] 被展示的机器包括“钻子”以及“双起重机”。\[19\]一个名叫[舔阴器的机器在一条传送带上装上很多橡皮舌头](https://zh.wikipedia.org/wiki/舔阴 "wikilink")，在2007年日本[幕張展覽館](../Page/幕張展覽館.md "wikilink")所举办的成人宝物展览会中被展示。\[20\]于2007年10月在加利福尼亚州旧金山市举办的[Arse Elektronika性与科技讲座中展示了一个来自Fucking](../Page/Arse_Elektronika.md "wikilink") Machines的名叫“Fuckzilla”的机器人与一个与会者在现场进行性交。\[21\]Kink.com于2007年与Pulse分销商签订协议，把它旗下的网站上的内容以DVD形式销售给观众。\[22\]网站所销售的第一张DVD名为《Fucking Machines第一卷》，内含211分钟的由阿莉安娜·洛夫（，米卡·摩尔（），莱克茜·洛夫（）和[莎夏·葛蕾](../Page/莎夏·葛蕾.md "wikilink")所表演的情节\[23\]
 
-2009年网站上的影片里已经展示了50种不同的机器\[24\]SF周报在2009年刊登的一篇文章批评了加利福尼亚州州政府把税收花在了影视制作课程上，而这些课程随后被Fucking
-Machines的录像剪辑者所听取。\[25\]这篇文章又被TheSword.com批评\[26\]。SFist报纸也批评SF周报过于“迂腐”。\[27\]\[28\]
+2009年网站上的影片里已经展示了50种不同的机器\[24\]SF周报在2009年刊登的一篇文章批评了加利福尼亚州州政府把税收花在了影视制作课程上，而这些课程随后被Fucking Machines的录像剪辑者所听取。\[25\]这篇文章又被TheSword.com批评\[26\]。SFist报纸也批评SF周报过于“迂腐”。\[27\]\[28\]
 
-网站向它的访问者断言所有的演员都是以她们自己的意愿出现在录像里面的，并且在拍片的过程中感受到了幸福与快感。\[29\]成人影视行业的大部分新手都喜爱她们在Fucking
-Machine的工作，原因是她们发现与机器做爱比与真人做爱更易为社会所接受。\[30\]Kink.com的公关经理托马斯·罗氏（）在2009年的一次访问里指出Fucking
-Machines没有专注于[BDSM](../Page/BDSM.md "wikilink")
-的材料上。\[31\]2010年9月网站现场拍摄了一部带有40位观众的影片。2010年11月网站启用一种互动格式，让观众能够建议演员应该使用何种设备。\[32\]2012年网站上积累了500小时的存档影片资料，其中包含有成人影视演员包括[亞歷克西·得克薩斯](https://zh.wikipedia.org/wiki/亞歷克西·得克薩斯 "wikilink")，，和莎夏·葛蕾。\[33\]
+网站向它的访问者断言所有的演员都是以她们自己的意愿出现在录像里面的，并且在拍片的过程中感受到了幸福与快感。\[29\]成人影视行业的大部分新手都喜爱她们在Fucking Machine的工作，原因是她们发现与机器做爱比与真人做爱更易为社会所接受。\[30\]Kink.com的公关经理托马斯·罗氏（）在2009年的一次访问里指出Fucking Machines没有专注于[BDSM](../Page/BDSM.md "wikilink") 的材料上。\[31\]2010年9月网站现场拍摄了一部带有40位观众的影片。2010年11月网站启用一种互动格式，让观众能够建议演员应该使用何种设备。\[32\]2012年网站上积累了500小时的存档影片资料，其中包含有成人影视演员包括[亞歷克西·得克薩斯](https://zh.wikipedia.org/wiki/亞歷克西·得克薩斯 "wikilink")，，和莎夏·葛蕾。\[33\]
 
 ### 商标申请
 
-网站于2005年试图为“fuckingmachines”注册商标，被[美国专利及商标局](../Page/美国专利及商标局.md "wikilink")拒绝，所给的理由是此商标为色情商标。[言论自由律师马克](https://zh.wikipedia.org/wiki/言论自由 "wikilink")·兰达扎代表网站二审USPTO的决定。《奥兰多周报》把兰达扎律师所写的法律文件称之为“你所能读到的最具有娱乐性的司法文件之一”。\[34\]二审于2008年4月维持原判，并且终止了整个案件。兰达扎律师所写的法律文件自此之后被称之为*The
-Fuck Brief*。 \[35\]\[36\]\[37\]
+网站于2005年试图为“fuckingmachines”注册商标，被[美国专利及商标局](../Page/美国专利及商标局.md "wikilink")拒绝，所给的理由是此商标为色情商标。[言论自由律师马克](https://zh.wikipedia.org/wiki/言论自由 "wikilink")·兰达扎代表网站二审USPTO的决定。《奥兰多周报》把兰达扎律师所写的法律文件称之为“你所能读到的最具有娱乐性的司法文件之一”。\[34\]二审于2008年4月维持原判，并且终止了整个案件。兰达扎律师所写的法律文件自此之后被称之为*The Fuck Brief*。 \[35\]\[36\]\[37\]
 
-美国政府的态度由律师迈克尔·恩格尔（）所阐述，他写道：“注册请求被拒是因为被注册的商标包含了不道德的内容。‘fucking’是一个具有冒犯性和粗俗的用来描述性交的词语...
-不道德的和具有丑闻性的商标……是不能被登记的”\[38\]\[39\]USPTO依据一条1905年的法律来拒绝商标注册\[40\]在此之前专利局以同样的理由已经拒绝了44个商标申请。\[41\]\[42\]
-带有[shit的商标申请被专利局拒绝了](https://zh.wikipedia.org/wiki/shit "wikilink")50次，带有[cunt的商标申请被专利局拒绝了一次](https://zh.wikipedia.org/wiki/cunt "wikilink")。\[43\]带有[ass的商标申请被专利局接受了](https://zh.wikipedia.org/wiki/屁股 "wikilink")135次，带有[bitch的商标申请也曾经被专利局批准过几次](https://zh.wikipedia.org/wiki/bitch "wikilink")。\[44\]\[45\]
+美国政府的态度由律师迈克尔·恩格尔（）所阐述，他写道：“注册请求被拒是因为被注册的商标包含了不道德的内容。‘fucking’是一个具有冒犯性和粗俗的用来描述性交的词语... 不道德的和具有丑闻性的商标……是不能被登记的”\[38\]\[39\]USPTO依据一条1905年的法律来拒绝商标注册\[40\]在此之前专利局以同样的理由已经拒绝了44个商标申请。\[41\]\[42\] 带有[shit的商标申请被专利局拒绝了](https://zh.wikipedia.org/wiki/shit "wikilink")50次，带有[cunt的商标申请被专利局拒绝了一次](https://zh.wikipedia.org/wiki/cunt "wikilink")。\[43\]带有[ass的商标申请被专利局接受了](https://zh.wikipedia.org/wiki/屁股 "wikilink")135次，带有[bitch的商标申请也曾经被专利局批准过几次](https://zh.wikipedia.org/wiki/bitch "wikilink")。\[44\]\[45\]
 
-作为对专利局的回应，兰达扎写道：“专利局依据2(a)条例所作出的拒绝出格了。”\[46\]\[47\] 2(a)部分，15 USC
-§1052(a)法令禁止商标中出现“不道德，欺骗性或丑闻性的内容”\[48\]\[49\]
+作为对专利局的回应，兰达扎写道：“专利局依据2(a)条例所作出的拒绝出格了。”\[46\]\[47\] 2(a)部分，15 USC §1052(a)法令禁止商标中出现“不道德，欺骗性或丑闻性的内容”\[48\]\[49\]
 
-[The_Fuck_Brief.pdf](https://zh.wikipedia.org/wiki/File:The_Fuck_Brief.pdf "fig:The_Fuck_Brief.pdf")律师马克·兰达扎执笔\]\]
-Cybernet娱乐有限公司针对专利局的裁决于2006年8月以“修正案和应对局裁决的回应”为理由提起上诉\[50\]兰达扎在上诉材料开头写道：“申请者富有尊重性的对‘fucking’一词的定性以及其所谓‘富有攻击性和粗俗’的词源提出异议”\[51\]
-《奥兰多周报》如此评论了Randazza的上诉材料：“Randazza...经常打言论自由的官司，他是在为你能够使用任何你所喜欢的肮脏词语来注册商标的权利而跟联邦政府进行司法抗争。他的司法文件可能是你一辈子所能读到的最富有娱乐性的司法文件。"\[52\]Randazza的司法论证材料被后来的人们称之为《The
-Fuck Brief》.\[53\]\[54\]
+[The_Fuck_Brief.pdf](https://zh.wikipedia.org/wiki/File:The_Fuck_Brief.pdf "fig:The_Fuck_Brief.pdf")律师马克·兰达扎执笔\]\] Cybernet娱乐有限公司针对专利局的裁决于2006年8月以“修正案和应对局裁决的回应”为理由提起上诉\[50\]兰达扎在上诉材料开头写道：“申请者富有尊重性的对‘fucking’一词的定性以及其所谓‘富有攻击性和粗俗’的词源提出异议”\[51\] 《奥兰多周报》如此评论了Randazza的上诉材料：“Randazza...经常打言论自由的官司，他是在为你能够使用任何你所喜欢的肮脏词语来注册商标的权利而跟联邦政府进行司法抗争。他的司法文件可能是你一辈子所能读到的最富有娱乐性的司法文件。"\[52\]Randazza的司法论证材料被后来的人们称之为《The Fuck Brief》.\[53\]\[54\]
 
 兰达扎声称：
 
-> "这个倍受污名化的四字单词并没有什么内在的意思。Fuck可以作为一个假借词被使用，比如'to
-> fuck'可以代表'行骗'。它可以被用作一个加强语气的词，当我们非常高兴的时刻把它点缀到另外一个单词里，比如'绝-fucking-对'.
-> 'Fuck'帮助我们表示愤怒，当我们朝着足球评判的脸或者一个刚刚超了我们的车的机动车驾驶员大喊'fuck you'！
-> 'Fuck'可以帮助我们表示疼痛，很多男人当他们不小心用榔头砸到自己的拇指的时候，他们嘴里蹦出的第一个词往往就是fuck。'Fuck'是一个帮助我们表达失望的语气介词，当我们看到我们的成绩单上的成绩没有达到我们预期的理想时，或者我们的另一半晚饭约会迟到时，又或者我们的另一半抛弃我们而去时，我们都会说这个词。'Fuck'是一位老朋友，它无时无刻让我们的生活充满着欢笑。\[55\]\[56\]
+> "这个倍受污名化的四字单词并没有什么内在的意思。Fuck可以作为一个假借词被使用，比如'to fuck'可以代表'行骗'。它可以被用作一个加强语气的词，当我们非常高兴的时刻把它点缀到另外一个单词里，比如'绝-fucking-对'. 'Fuck'帮助我们表示愤怒，当我们朝着足球评判的脸或者一个刚刚超了我们的车的机动车驾驶员大喊'fuck you'！ 'Fuck'可以帮助我们表示疼痛，很多男人当他们不小心用榔头砸到自己的拇指的时候，他们嘴里蹦出的第一个词往往就是fuck。'Fuck'是一个帮助我们表达失望的语气介词，当我们看到我们的成绩单上的成绩没有达到我们预期的理想时，或者我们的另一半晚饭约会迟到时，又或者我们的另一半抛弃我们而去时，我们都会说这个词。'Fuck'是一位老朋友，它无时无刻让我们的生活充满着欢笑。\[55\]\[56\]
 
 兰达扎向《奥兰多周报》解释道他在他所撰写的司法文件里常规性的使用"fuck"一词来表达他的对于“fuck”一词可以有多种用法的论断的支持。\[57\]\[58\]他提到了一些相关术语，包括“Fuck-me鞋子”和“fuck-me靴子”，以及在诸如《[冒牌伴郎生擒姊妹團](../Page/冒牌伴郎生擒姊妹團.md "wikilink")》和《[賭城風雲](../Page/賭城風雲_\(1995年電影\).md "wikilink")》等电影里频繁使用到的“fuck”台词。\[59\]
 
 恩格尔代表USPTO承认了“fuck”一词的常用性，但是他同时也指出了此词的丑闻性：“虽然这个单词被频繁的使用，但是它在绝大多是正式的场合下还是被认为是非常具有冒犯性的。例如，在基本有线电视台里，这个词会被哔哔声所取代。FCC可以向无线电台处以罚款，如果这个词被无线电波传送出去了的话。\[60\]他也提到此词在工作场所和政府管理中被限制使用。\[61\]
 
-兰达扎与2007年6月5日提出上诉，诉讼被商标判决和上诉委员会聆听。\[62\]\[63\]阿克沃思告诉《奥兰多周报》他在被UPSTO否决了商标注册以后就打算不再上诉了。\[64\]
-他说他并无意图成为成人业界的第一修正案代言人。\[65\]阿克沃思《奥兰多周报》：“马克叫我这么做的。我通常不是这样的人。马克觉得他的胜算很大。我听了他的忠告...我自己并无任何企图。"\[66\]
+兰达扎与2007年6月5日提出上诉，诉讼被商标判决和上诉委员会聆听。\[62\]\[63\]阿克沃思告诉《奥兰多周报》他在被UPSTO否决了商标注册以后就打算不再上诉了。\[64\] 他说他并无意图成为成人业界的第一修正案代言人。\[65\]阿克沃思《奥兰多周报》：“马克叫我这么做的。我通常不是这样的人。马克觉得他的胜算很大。我听了他的忠告...我自己并无任何企图。"\[66\]
 
 成人娱乐律师罗伯特·阿普古德（）声称他赞同阿克沃思和兰达扎所做的努力。\[67\]阿普古德指出他观察到了越来越多的专利局的商标申请被拒是由于商标被政府定性为“丑闻性的”。\[68\]他说：“行政部门越来越深入到了政府的各个角落来推销其所谓的‘道德立法’企图是很让人遗憾的。诸如阿克沃思和Randazza等人肩负起与行政部门进行这些必要的司法斗争的责任是着实让人感到鼓舞的。”\[69\]二审于2008年4月维持原判，并且终止了整个案件。\[70\]目前，由于上诉方未能作出任何回应，申请状况已被列为“放弃”。\[71\]
 
 ## 分析
 
-忠告专栏作家Dan Savage在2004年把网站介绍给了想要知道更多有关性机器信息的读者。\[72\]2005年Carly
-Milne编辑的书《赤裸野心》中，作家Regina Lynn评论了网站对于交流的强调。\[73\]作家Timothy
-Archibald在访问了Fucking Machines的操作者以后写出了他的书《性机器：照片和访谈》。\[74\]
+忠告专栏作家Dan Savage在2004年把网站介绍给了想要知道更多有关性机器信息的读者。\[72\]2005年Carly Milne编辑的书《赤裸野心》中，作家Regina Lynn评论了网站对于交流的强调。\[73\]作家Timothy Archibald在访问了Fucking Machines的操作者以后写出了他的书《性机器：照片和访谈》。\[74\]
 
-[Etech05_Annalee1.jpg](https://zh.wikipedia.org/wiki/File:Etech05_Annalee1.jpg "fig:Etech05_Annalee1.jpg")
-[Violet_Blue_April_2013.jpg](https://zh.wikipedia.org/wiki/File:Violet_Blue_April_2013.jpg "fig:Violet_Blue_April_2013.jpg")
-AlterNet的Annalee Newitz于2006年访问了Fucking
-Machines影片拍摄现场。她把网站归类为色情2.0现象的一部分。\[75\]作家Violet
-Blue在她的2006年书《富有冒险性夫妇的性玩具指南》中指出：“Fucking
-Machines把机器性行为第一次放在了地图上和放到了大众的视野里，为一些个人公司铺好了路，让它们能够大批量生产便宜的性机器来提供给夫妇或者个人在家里使用。”\[76\]
+[Etech05_Annalee1.jpg](https://zh.wikipedia.org/wiki/File:Etech05_Annalee1.jpg "fig:Etech05_Annalee1.jpg") [Violet_Blue_April_2013.jpg](https://zh.wikipedia.org/wiki/File:Violet_Blue_April_2013.jpg "fig:Violet_Blue_April_2013.jpg") AlterNet的Annalee Newitz于2006年访问了Fucking Machines影片拍摄现场。她把网站归类为色情2.0现象的一部分。\[75\]作家Violet Blue在她的2006年书《富有冒险性夫妇的性玩具指南》中指出：“Fucking Machines把机器性行为第一次放在了地图上和放到了大众的视野里，为一些个人公司铺好了路，让它们能够大批量生产便宜的性机器来提供给夫妇或者个人在家里使用。”\[76\]
 
-在她的2007年书《赤裸的在互联网上》，作者Audacia Ray如此描述Fucking
-Machines：“在女性性行为和技术产品的融合过程中，这些玩具让人感到好奇和迷恋的地方是它们能够把性和科技融合成一片类似浆糊状的技术恐惧以及技术恋物癖主义。”\[77\]\[78\][纽约时报](../Page/纽约时报.md "wikilink")杂志的Jon
-Mooallem描述网站为：“完全专注于描述妇女和大到让人不安的精巧的机器做爱。”\[79\]在一篇为[连线](../Page/连线.md "wikilink")所撰写的文章中，Regina
-Lynn注意到了Fucking
-Machines在2007年的成人影帶新聞成人娛樂博覽會上出现是网站试图移向主流所迈出的一步。Lynn写道：“这个网站已经存在了好几年了，它存在在所谓的‘独立互联网kink’这一片灰色地带里，虽然主流业界对这一片地带还不是太了解，但是今年它却出现在了主流色情的正中央。”\[80\]
+在她的2007年书《赤裸的在互联网上》，作者Audacia Ray如此描述Fucking Machines：“在女性性行为和技术产品的融合过程中，这些玩具让人感到好奇和迷恋的地方是它们能够把性和科技融合成一片类似浆糊状的技术恐惧以及技术恋物癖主义。”\[77\]\[78\][纽约时报](../Page/纽约时报.md "wikilink")杂志的Jon Mooallem描述网站为：“完全专注于描述妇女和大到让人不安的精巧的机器做爱。”\[79\]在一篇为[连线](../Page/连线.md "wikilink")所撰写的文章中，Regina Lynn注意到了Fucking Machines在2007年的成人影帶新聞成人娛樂博覽會上出现是网站试图移向主流所迈出的一步。Lynn写道：“这个网站已经存在了好几年了，它存在在所谓的‘独立互联网kink’这一片灰色地带里，虽然主流业界对这一片地带还不是太了解，但是今年它却出现在了主流色情的正中央。”\[80\]
 
-村子之音的Bonnie Ruberg于2008年写道Fucking
-Machines把男人们对于[按摩棒感到的不安转变为了一种诱惑](../Page/按摩棒_\(性玩具\).md "wikilink")。\[81\]2008版《牛津世界历史里的妇女百科全书》把网站上所描绘的机器称为“丑陋的”\[82\]在他的2009年书《从疼痛到狂喜》中，作者Arnold
-P. Abbott如此评论网站上所使用的设备：“Fucking
-Machines里的机械奇观只有[薩德侯爵](../Page/薩德侯爵.md "wikilink")其本人才能创造出来。”\[83\]他观察到有些机器：“似乎是中世纪宗教裁判所用来刑讯逼供获得假认罪的刑具的翻版。”\[84\]
+村子之音的Bonnie Ruberg于2008年写道Fucking Machines把男人们对于[按摩棒感到的不安转变为了一种诱惑](../Page/按摩棒_\(性玩具\).md "wikilink")。\[81\]2008版《牛津世界历史里的妇女百科全书》把网站上所描绘的机器称为“丑陋的”\[82\]在他的2009年书《从疼痛到狂喜》中，作者Arnold P. Abbott如此评论网站上所使用的设备：“Fucking Machines里的机械奇观只有[薩德侯爵](../Page/薩德侯爵.md "wikilink")其本人才能创造出来。”\[83\]他观察到有些机器：“似乎是中世纪宗教裁判所用来刑讯逼供获得假认罪的刑具的翻版。”\[84\]
 
-在一篇于2012年为《纽约观察家报》所撰写的文章中，记者Jessica Roy把Fucking
-Machines中描绘的性高潮归类为一种[超人类主义](../Page/超人类主义.md "wikilink")。\[85\]在2012年的书《放映爱情的黑暗的一面：从欧洲恐怖到美国电影》莎拉·沙舍克专门花费了一个章节，题为《Fucking
-Machines：在色情里的高科技身体》来描述这个网站。\[86\]Schaschek得出结论：“在反色情女权主义者同上会批评女性色情演员在演绎色情影片的过程中被男性演员在视觉和行为上蹂躏同时，她们不得不承认这样的结论和印象对于FuckingMachines的录像是极难成立的。给定所有色情作品都嗳味化差异的前提，同时也给定性幻想通常需要被清楚划分的统治和顺从角色的前提，FuckingMachines中的妇女似乎能够反抗至少前面所说的这几种分类...严格的来说，在这些视频里的妇女既是控制者又是被控制者。"\[87\]
+在一篇于2012年为《纽约观察家报》所撰写的文章中，记者Jessica Roy把Fucking Machines中描绘的性高潮归类为一种[超人类主义](../Page/超人类主义.md "wikilink")。\[85\]在2012年的书《放映爱情的黑暗的一面：从欧洲恐怖到美国电影》莎拉·沙舍克专门花费了一个章节，题为《Fucking Machines：在色情里的高科技身体》来描述这个网站。\[86\]Schaschek得出结论：“在反色情女权主义者同上会批评女性色情演员在演绎色情影片的过程中被男性演员在视觉和行为上蹂躏同时，她们不得不承认这样的结论和印象对于FuckingMachines的录像是极难成立的。给定所有色情作品都嗳味化差异的前提，同时也给定性幻想通常需要被清楚划分的统治和顺从角色的前提，FuckingMachines中的妇女似乎能够反抗至少前面所说的这几种分类...严格的来说，在这些视频里的妇女既是控制者又是被控制者。"\[87\]
 
 ## 参见
 
@@ -120,10 +80,7 @@ Machines：在色情里的高科技身体》来描述这个网站。\[86\]Schasc
   -
   -
   -
-  - [后备链接](http://ttabvue.uspto.gov/ttabvue/v?pno=78680513&pty=EXA&eno=7);
-    另[维基共享资源有后备链接](https://zh.wikipedia.org/wiki/Wikimedia_Commons "wikilink"):
-    [2007年7月24日美国专利及商标局应对Fucking
-    Machines提出的上诉而给出的回应的PDF文件](https://zh.wikipedia.org/wiki/:File:2007_July_24_USPTO_appeal_response_to_Fucking_Machines.pdf "wikilink")
+  - [后备链接](http://ttabvue.uspto.gov/ttabvue/v?pno=78680513&pty=EXA&eno=7); 另[维基共享资源有后备链接](https://zh.wikipedia.org/wiki/Wikimedia_Commons "wikilink"): [2007年7月24日美国专利及商标局应对Fucking Machines提出的上诉而给出的回应的PDF文件](https://zh.wikipedia.org/wiki/:File:2007_July_24_USPTO_appeal_response_to_Fucking_Machines.pdf "wikilink")
 
   -
 <!-- end list -->
@@ -140,9 +97,7 @@ Machines：在色情里的高科技身体》来描述这个网站。\[86\]Schasc
   -
   - [Fuckingmachines](http://ttabvue.uspto.gov/ttabvue/v?qt=adv&procstatus=All&pno=&propno=&qs=&propnameop=&propname=fuckingmachines&pop=&pn=&pop2=&pn2=&cop=&cn=)，[美国专利及商标局的个案历史](https://zh.wikipedia.org/wiki/United_States_Patent_and_Trademark_Office "wikilink")
 
-[Category:三藩市文化](https://zh.wikipedia.org/wiki/Category:三藩市文化 "wikilink")
-[Category:情色與色情網站](https://zh.wikipedia.org/wiki/Category:情色與色情網站 "wikilink")
-[Category:2000年建立的网站](https://zh.wikipedia.org/wiki/Category:2000年建立的网站 "wikilink")
+[Category:三藩市文化](https://zh.wikipedia.org/wiki/Category:三藩市文化 "wikilink") [Category:情色與色情網站](https://zh.wikipedia.org/wiki/Category:情色與色情網站 "wikilink") [Category:2000年建立的网站](https://zh.wikipedia.org/wiki/Category:2000年建立的网站 "wikilink")
 
 1.
 2.

@@ -1,63 +1,39 @@
-《**Wake Up,
-Girls\!**》，簡稱《**WUG**》，是由[Ordet](../Page/Ordet.md "wikilink")和[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")共同製作的原創偶像動畫，2014年1月10日開始播放[電視動畫及公開上映](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")《**Wake
-Up, Girls\!
-七位偶像**》\[1\]。劇場版第2作於2015年9月及12月分上下篇公開，主導製作改由Ordet與[Millepensee](../Page/Millepensee.md "wikilink")製作\[2\]。原创网络动画《**うぇいくあっぷがーるZOO\!**》开始龙之子不再参与，改为Ordet和STUDIO
-MORIKEN共同制作。
+《**Wake Up, Girls\!**》，簡稱《**WUG**》，是由[Ordet](../Page/Ordet.md "wikilink")和[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")共同製作的原創偶像動畫，2014年1月10日開始播放[電視動畫及公開上映](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")《**Wake Up, Girls\! 七位偶像**》\[1\]。劇場版第2作於2015年9月及12月分上下篇公開，主導製作改由Ordet與[Millepensee](../Page/Millepensee.md "wikilink")製作\[2\]。原创网络动画《**うぇいくあっぷがーるZOO\!**》开始龙之子不再参与，改为Ordet和STUDIO MORIKEN共同制作。
 
-新電視動畫系列《**Wake Up,
-Girls\!新章**》於2017年10月9日起[東京電視台](../Page/東京電視台.md "wikilink")播出\[3\]。除聲優不變外，動畫製作人員大幅變更，動畫監督由山本寬更換為板垣伸，製作公司由Ordet、Millepensee共同製作變更為Millepensee獨立製作，舞蹈動作變更為3DCG，下集預告中的真人角色變更為新組合Run
-Girls, Run\!的三人。
+新電視動畫系列《**Wake Up, Girls\!新章**》於2017年10月9日起[東京電視台](../Page/東京電視台.md "wikilink")播出\[3\]。除聲優不變外，動畫製作人員大幅變更，動畫監督由山本寬更換為板垣伸，製作公司由Ordet、Millepensee共同製作變更為Millepensee獨立製作，舞蹈動作變更為3DCG，下集預告中的真人角色變更為新組合Run Girls, Run\!的三人。
 
-劇場版的副標題、電視動畫的各話標題，大部分皆來自[電影導演](../Page/電影導演.md "wikilink")[黑澤明執導的作品](https://zh.wikipedia.org/wiki/黑澤明 "wikilink")。但《うぇいくあっぷがーるZOO！》和《Wake
-Up, Girls\!新章》則無此設定。
+劇場版的副標題、電視動畫的各話標題，大部分皆來自[電影導演](../Page/電影導演.md "wikilink")[黑澤明執導的作品](https://zh.wikipedia.org/wiki/黑澤明 "wikilink")。但《うぇいくあっぷがーるZOO！》和《Wake Up, Girls\!新章》則無此設定。
 
 ## 簡介
 
-2012年9月10日，本作於日本[東北地方正式發表並公開製作人員名單](https://zh.wikipedia.org/wiki/東北地方 "wikilink")，7位主角将会从[81
-Produce和](../Page/81_Produce.md "wikilink")[avex共同舉辦的選秀會中選出](https://zh.wikipedia.org/wiki/avex "wikilink")。同时宣布作品舞台定于受到[东日本大震灾严重冲击的东北地方](https://zh.wikipedia.org/wiki/东日本大震灾 "wikilink")。
+2012年9月10日，本作於日本[東北地方正式發表並公開製作人員名單](https://zh.wikipedia.org/wiki/東北地方 "wikilink")，7位主角将会从[81 Produce和](../Page/81_Produce.md "wikilink")[avex共同舉辦的選秀會中選出](https://zh.wikipedia.org/wiki/avex "wikilink")。同时宣布作品舞台定于受到[东日本大震灾严重冲击的东北地方](https://zh.wikipedia.org/wiki/东日本大震灾 "wikilink")。
 
-2013年7月28日，在「WONDERFUL HOBBY LIFE FOR YOU\!\!」活動中正式公開7名合格者，并组成声优组合「[Wake
-Up,
-Girls\!](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")」，同时宣佈將於2014年初春開始播放電視動畫及將會製作劇場版動畫。
+2013年7月28日，在「WONDERFUL HOBBY LIFE FOR YOU\!\!」活動中正式公開7名合格者，并组成声优组合「[Wake Up, Girls\!](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")」，同时宣佈將於2014年初春開始播放電視動畫及將會製作劇場版動畫。
 
-剧场版与电视动画版为连续故事。剧场版第一部描写Wake Up,
-Girls\!如何建立并开始出道演出，电视动画版剧情紧接剧场版结局。续·剧场版（前后篇）虽然是电视动画的续作，但故事内容相对独立。
+剧场版与电视动画版为连续故事。剧场版第一部描写Wake Up, Girls\!如何建立并开始出道演出，电视动画版剧情紧接剧场版结局。续·剧场版（前后篇）虽然是电视动画的续作，但故事内容相对独立。
 
-2014年10月开始在网络上播放动画短篇《うぇいくあっぷがーるZOO\!》，2014年12月发表制作剧场版第二部将于2015年上映。随后于2015年9月上映续·剧场版（前篇）「青春之影」，同年12月上映续·剧场版（后篇）「Beyond
-the Bottom」。
+2014年10月开始在网络上播放动画短篇《うぇいくあっぷがーるZOO\!》，2014年12月发表制作剧场版第二部将于2015年上映。随后于2015年9月上映续·剧场版（前篇）「青春之影」，同年12月上映续·剧场版（后篇）「Beyond the Bottom」。
 
-2015年2月18日因參加東日本大震災東北地方災區的振興活動幫助加油打氣被評價，榮獲第9回[聲優Awards特別賞](../Page/聲優獎.md "wikilink")\[4\]。同年12月12日，在活动「Wake
-Up, Girls！Festa. 2015 Beyond the Bottom Extend」结尾处公布Wake Up,
-Girls\!新企划启动，但未知是否指2017年的新动画《Wake Up,
-Girls！新章》。随后12月20日在宫城县发表新企划，包含新作短篇动画的合作项目「Wake
-Up, 宮城！触れ愛プロジェクトin台湾」正式公开，作为振兴宫城县旅游业活动的一环。
+2015年2月18日因參加東日本大震災東北地方災區的振興活動幫助加油打氣被評價，榮獲第9回[聲優Awards特別賞](../Page/聲優獎.md "wikilink")\[4\]。同年12月12日，在活动「Wake Up, Girls！Festa. 2015 Beyond the Bottom Extend」结尾处公布Wake Up, Girls\!新企划启动，但未知是否指2017年的新动画《Wake Up, Girls！新章》。随后12月20日在宫城县发表新企划，包含新作短篇动画的合作项目「Wake Up, 宮城！触れ愛プロジェクトin台湾」正式公开，作为振兴宫城县旅游业活动的一环。
 
-2016年12月11日，在活动「Wake Up, Girls！Festa. 2016 SUPER LIVE」的最后公布了《Wake Up,
-Girls！新章》全新动画即将在2017年播出。『新章』更换了原监督[山本宽](https://zh.wikipedia.org/wiki/山本宽 "wikilink")，由当时一同制作第一季电视动画第一季和续·剧场版的板垣伸就任新监督。同时新角色声优亦在第三回アニソンヴォーカルオーディション公开募集，最后在约2000名候选者中选出3名全新声优。于2017年7月30日的「WONDERFUL
-HOBBY LIFE FOR YOU\!\!26」中在公众面前亮相新组合「Run Girls, Run\!」，同时宣布正式出道。
+2016年12月11日，在活动「Wake Up, Girls！Festa. 2016 SUPER LIVE」的最后公布了《Wake Up, Girls！新章》全新动画即将在2017年播出。『新章』更换了原监督[山本宽](https://zh.wikipedia.org/wiki/山本宽 "wikilink")，由当时一同制作第一季电视动画第一季和续·剧场版的板垣伸就任新监督。同时新角色声优亦在第三回アニソンヴォーカルオーディション公开募集，最后在约2000名候选者中选出3名全新声优。于2017年7月30日的「WONDERFUL HOBBY LIFE FOR YOU\!\!26」中在公众面前亮相新组合「Run Girls, Run\!」，同时宣布正式出道。
 
 ## 故事簡介
 
 ### Wake Up, Girls\! 簡介
 
-這是一個「偶像戰國」的時代，這是在這驚濤駭浪之中掙扎生存的7位少女「Wake Up,Girls\!」的物語。
-在東北仙台，某個瀕臨倒閉的弱小事務所Green
-Leaves娛樂公司，雖然旗下曾有多位魔術師、寫真偶像、占卜師，但現在最後一位仍在活動的藝人也終於辭職，事務所陷入了所屬藝人為零的危機狀況。
-經過思考，事務所社長丹下決定推出一個偶像組合。經紀人松田雖然抱有不滿，但還是上街開始尋找「偶像原石」。在這時，松田和某個少女實現了必然的邂逅……
+這是一個「偶像戰國」的時代，這是在這驚濤駭浪之中掙扎生存的7位少女「Wake Up,Girls\!」的物語。 在東北仙台，某個瀕臨倒閉的弱小事務所Green Leaves娛樂公司，雖然旗下曾有多位魔術師、寫真偶像、占卜師，但現在最後一位仍在活動的藝人也終於辭職，事務所陷入了所屬藝人為零的危機狀況。 經過思考，事務所社長丹下決定推出一個偶像組合。經紀人松田雖然抱有不滿，但還是上街開始尋找「偶像原石」。在這時，松田和某個少女實現了必然的邂逅……
 
 ### Wake Up, Girls\!新章 簡介
 
-隶属于仙台的弱小艺能事务所“Green Leaves
-Entertainment”的WUG，历经挫折与经验，在“偶像祭典”当中击败国民级偶像组合“I-1club”，获得优胜。一跃成为顶级偶像……这么想着没过多久，受迫于发出“偶像经济不景气”这一呼声的这个时代、现实对她们来说没有那么简单。7人过着被脚踏实地的偶像活动所迫的每一天。另一方面，就读于仙台市中学的速志步、守岛音芽、阿津木一花3人，接连产生了对于偶像的憧憬…
+隶属于仙台的弱小艺能事务所“Green Leaves Entertainment”的WUG，历经挫折与经验，在“偶像祭典”当中击败国民级偶像组合“I-1club”，获得优胜。一跃成为顶级偶像……这么想着没过多久，受迫于发出“偶像经济不景气”这一呼声的这个时代、现实对她们来说没有那么简单。7人过着被脚踏实地的偶像活动所迫的每一天。另一方面，就读于仙台市中学的速志步、守岛音芽、阿津木一花3人，接连产生了对于偶像的憧憬…
 
 ## 登場人物
 
 ### 「Wake Up, Girls\!」
 
   -
-    「Wake Up,
-    Girls\!」简称「WUG」，在动画设定中，组合的名字来自于[威猛乐队的Wham](https://zh.wikipedia.org/wiki/威猛乐队 "wikilink")\!。七名成员的姓氏均来自于黑泽明执导电影[七武士](../Page/七武士.md "wikilink")中的角色,成员的名字取自声优名字的同音汉字。而生日等设定以声优为原型，每个成员均有代表色和代表动物。一开始建立时仅有6人，最后岛田真梦于第一次公演前加入。动画「新章」中，七名成员均在「タチアガレ莊」内共同生活。口号是「いくぞ！がんばっぺ！Wake
-    Up, Girls\! 」
+    「Wake Up, Girls\!」简称「WUG」，在动画设定中，组合的名字来自于[威猛乐队的Wham](https://zh.wikipedia.org/wiki/威猛乐队 "wikilink")\!。七名成员的姓氏均来自于黑泽明执导电影[七武士](../Page/七武士.md "wikilink")中的角色,成员的名字取自声优名字的同音汉字。而生日等设定以声优为原型，每个成员均有代表色和代表动物。一开始建立时仅有6人，最后岛田真梦于第一次公演前加入。动画「新章」中，七名成员均在「タチアガレ莊」内共同生活。口号是「いくぞ！がんばっぺ！Wake Up, Girls\! 」
     （以下年龄为剧场版第一部出道时）
   -
     故事主角，昵称まゆしぃ，16歲。1997年11月7日出生。[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")。身高159cm。體重46kg。三圍B75，W57，H83。血型O型。兴趣是唱歌，喜欢的东西是小鸡，讨厌的东西是说谎。出身於[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")。家中有母亲和祖父母三人。
@@ -82,19 +58,15 @@ Entertainment”的WUG，历经挫折与经验，在“偶像祭典”当中击�
 
   -
     WUG的队长，16歲，昵称よっぴー。1997年5月15日出生。[金牛座](../Page/金牛座.md "wikilink")。身高159cm。體重44kg。三圍B74，W58，H82。血型A型。兴趣是滑雪，喜欢的东西是毛绒玩具，讨厌的东西是狡猾的人。出身於[青森縣](../Page/青森縣.md "wikilink")[青森市](../Page/青森市.md "wikilink")，现在搬到仙台市居住。家中有父母和妹妹三人。
-    責任感強，[完美主義者](https://zh.wikipedia.org/wiki/完美主義 "wikilink")，有[潔癖](https://zh.wikipedia.org/wiki/潔癖 "wikilink")，冰山美人，本身也是时装模特出身，后来辞去原本的事务所加入Green
-    Leaves。一开始对真梦隐瞒过去的经历感到不满，因此产生竞争意识。两人和解后感情变得非常好，动画中出现一同回家甚至同住一室的场景。发型一开始是长发，在续·剧场版前篇「青春の影」中剪成短发。「新章」中头发稍稍变长。
+    責任感強，[完美主義者](https://zh.wikipedia.org/wiki/完美主義 "wikilink")，有[潔癖](https://zh.wikipedia.org/wiki/潔癖 "wikilink")，冰山美人，本身也是时装模特出身，后来辞去原本的事务所加入Green Leaves。一开始对真梦隐瞒过去的经历感到不满，因此产生竞争意识。两人和解后感情变得非常好，动画中出现一同回家甚至同住一室的场景。发型一开始是长发，在续·剧场版前篇「青春の影」中剪成短发。「新章」中头发稍稍变长。
     代表色為水藍色，象徵動物為[北極熊](../Page/北極熊.md "wikilink")。
 
 <!-- end list -->
 
   -
-    13歲，昵称ななみん。1999年7月19日出生。[巨蟹座](../Page/巨蟹座.md "wikilink")。身高148cm。體重39kg。三圍B74，W50，H79。血型A型。兴趣是钢琴，喜欢的东西是光塚歌剧团，讨厌的东西是纳豆。出身於[山形縣](https://zh.wikipedia.org/wiki/山形縣 "wikilink")[山形市](../Page/山形市.md "wikilink")。家中有父母二人，父亲在续·剧场版「Beyond
-    the Bottom」中登场，母亲仅在漫画中出现。
-    最年輕的團員，家庭背景可能较好，對光塚歌劇團十分憧憬，想以Wake Up,
-    Girls\!為跳板，已经准备报读光塚歌剧团的艺术学校，在动画第一部中曾计划退出WUG，但在听过真梦的经历后决定全力参加偶像祭典而推迟一年报读。
-    在续·剧场版后篇「Beyond the
-    Bottom」中受到父亲的话的影响，因为光塚歌剧团考试与WUG的偶像祭典在同一天因此只能退出WUG。在机场独自流泪确认自己心意后，在偶像祭典开演前再次在众人面前出现并回到WUG团队中。
+    13歲，昵称ななみん。1999年7月19日出生。[巨蟹座](../Page/巨蟹座.md "wikilink")。身高148cm。體重39kg。三圍B74，W50，H79。血型A型。兴趣是钢琴，喜欢的东西是光塚歌剧团，讨厌的东西是纳豆。出身於[山形縣](https://zh.wikipedia.org/wiki/山形縣 "wikilink")[山形市](../Page/山形市.md "wikilink")。家中有父母二人，父亲在续·剧场版「Beyond the Bottom」中登场，母亲仅在漫画中出现。
+    最年輕的團員，家庭背景可能较好，對光塚歌劇團十分憧憬，想以Wake Up, Girls\!為跳板，已经准备报读光塚歌剧团的艺术学校，在动画第一部中曾计划退出WUG，但在听过真梦的经历后决定全力参加偶像祭典而推迟一年报读。
+    在续·剧场版后篇「Beyond the Bottom」中受到父亲的话的影响，因为光塚歌剧团考试与WUG的偶像祭典在同一天因此只能退出WUG。在机场独自流泪确认自己心意后，在偶像祭典开演前再次在众人面前出现并回到WUG团队中。
     代表色為紫色，象徵動物為[野狼](../Page/狼.md "wikilink")。
 
 <!-- end list -->
@@ -120,21 +92,17 @@ Entertainment”的WUG，历经挫折与经验，在“偶像祭典”当中击�
 
   -
     事務所社長，熊本县出身，血型AB型。在禁烟场所也能若无其事地吸烟。脾气略暴躁，手腕强硬，但广通人脉，擅长培养艺人偶像，曾捧红多名艺人进军东京。在Twinkle出道時幫了她們很多，因此與她們的關係很好。
-    在Wake Up,
-    Girls\!出道的前夕，欠下CD製作費和場地租賃費後，攜款潛逃。在動畫第2集发现耕平令WUG误入困境后重回事務所，但其帶走款項被男人在賭博中輸光，之后一直为WUG寻找很多增加名气的演出机会。
-    在续·剧场版后篇「Beyond the
-    Bottom」中透露实际上当时携款潜逃是把资金全部拿去救助在东京重病的佐藤勝子。续·剧场版前篇「青春の影」中也有去看望在东京的医院戴着呼吸机的勝子的画面。
+    在Wake Up, Girls\!出道的前夕，欠下CD製作費和場地租賃費後，攜款潛逃。在動畫第2集发现耕平令WUG误入困境后重回事務所，但其帶走款項被男人在賭博中輸光，之后一直为WUG寻找很多增加名气的演出机会。
+    在续·剧场版后篇「Beyond the Bottom」中透露实际上当时携款潜逃是把资金全部拿去救助在东京重病的佐藤勝子。续·剧场版前篇「青春の影」中也有去看望在东京的医院戴着呼吸机的勝子的画面。
     与「I-1club」的白木社长是旧识，在续·剧场版前篇中透露丹下于30年前是白木社长担任制作人的「Saint40」的成员之一。同时佐藤勝子亦是该团体的成员，在续·剧场版中丹下在白木社长手中拿到「Saint40」的旧照片。
 
 <!-- end list -->
 
   -
     活躍於世界的音樂製作人，與「I-1」俱樂部有合作關係。
-    在動畫第6集由于看中WUG的表演潜质而免費幫助WUG，但條件是暫時接管WUG，对WUG的训练也相当严格。每周到仙台对WUG成员进行体力或者基础训练等课程，并且要求WUG进行每月2次，每天3场的公演。之后对能力较弱的蓝里提出解雇，如果蓝里不同意的话将会解雇WUG全员。后来在蓝里和其他成员的坚持下撤回决定。为了让WUG在「偶像祭典2014」中出场创作了「極上スマイル」和决赛用的「7
-    Girls War」。
+    在動畫第6集由于看中WUG的表演潜质而免費幫助WUG，但條件是暫時接管WUG，对WUG的训练也相当严格。每周到仙台对WUG成员进行体力或者基础训练等课程，并且要求WUG进行每月2次，每天3场的公演。之后对能力较弱的蓝里提出解雇，如果蓝里不同意的话将会解雇WUG全员。后来在蓝里和其他成员的坚持下撤回决定。为了让WUG在「偶像祭典2014」中出场创作了「極上スマイル」和决赛用的「7 Girls War」。
     续·剧场版前篇中因为对在东京出道的WUG表现感到不满，拒绝参加新CD的录音工作和创作新曲。后通过经理人松田和电视节目了解到WUG在东京的事业并不顺利，回心转意建议WUG再次参加偶像祭典，并且创作了新曲「少女交響曲」，但偶像祭典上的决赛曲因早坂想了解WUG的真正实力而不参与创作。
-    在动画「新章」中透露过去曾经组建乐队「TasK'ill」，但因与其他成员产生矛盾而解散。现在为虚拟偶像玛琪娜X创作歌曲而陷于瓶颈期，第9话离开日本前往美国，离开前为WUG创作了新曲，但使用的前提是歌词由WUG成员填写。12话及最终话中透露他在背后促成了WUG巡演活动的最后一站及Wake
-    Up，Idols活动。
+    在动画「新章」中透露过去曾经组建乐队「TasK'ill」，但因与其他成员产生矛盾而解散。现在为虚拟偶像玛琪娜X创作歌曲而陷于瓶颈期，第9话离开日本前往美国，离开前为WUG创作了新曲，但使用的前提是歌词由WUG成员填写。12话及最终话中透露他在背后促成了WUG巡演活动的最后一站及Wake Up，Idols活动。
 
 <!-- end list -->
 
@@ -142,43 +110,33 @@ Entertainment”的WUG，历经挫折与经验，在“偶像祭典”当中击�
     前Green Leaves所属艺人，艺名サファイヤ麗子。因为本人想前往东京发展所以从事务所辞职。
     虽然初次登场在续·剧场版后篇「Beyond the Bottom」，但以宣传画形式出场则是在剧场版第一部「七位偶像」。
     同前所述与丹下社长是旧识，被丹下社长称为「かっちゃん」，Saint40时代以幽灵写手的身份为Saint40创作歌曲，也因此大受欢迎且令Saint40获得金唱片奖。前往东京后因工作失败酗酒导致一度在生死边缘，后在丹下社长出资治疗下康复。
-    在剧场版中受到丹下社长的委托，在观看了WUG自主练习的舞蹈后创作了新曲「Beyond the
-    Bottom」。偶像祭典决赛前重新加入事务所。
+    在剧场版中受到丹下社长的委托，在观看了WUG自主练习的舞蹈后创作了新曲「Beyond the Bottom」。偶像祭典决赛前重新加入事务所。
     称呼丹下为「じゅんじゅん」，但丹下本人却不喜欢这个称呼。
 
 ### 「Run Girls, Run\!」
 
-在动画「新章」中登場、三人的少女组合。动画第8话中以见习生身份加入Green Leaves
-Entertainment，12话中由冈本未夕定下组合名「Run Girls,
-Run\!」，出道曲 「カケル×カケル」由Twinkle提供。最终话在WUG巡演最后一站上演出。口号是「位置について，よーい
-どん！私たちRun Girls Runです」。
+在动画「新章」中登場、三人的少女组合。动画第8话中以见习生身份加入Green Leaves Entertainment，12话中由冈本未夕定下组合名「Run Girls, Run\!」，出道曲 「カケル×カケル」由Twinkle提供。最终话在WUG巡演最后一站上演出。口号是「位置について，よーい どん！私たちRun Girls Runです」。
 
   - \[7\]\[8\]
-    13歲，昵称はやまる。2003年5月15日出生。[金牛座](../Page/金牛座.md "wikilink")。身高150cm。體重40kg。三围B
-    74cm W 53cm H
-    82cm。血型A型。兴趣是画画，喜欢的东西是[猫](../Page/猫.md "wikilink")，讨厌的东西是数学。出身於宫城县仙台市。
+    13歲，昵称はやまる。2003年5月15日出生。[金牛座](../Page/金牛座.md "wikilink")。身高150cm。體重40kg。三围B 74cm W 53cm H 82cm。血型A型。兴趣是画画，喜欢的东西是[猫](../Page/猫.md "wikilink")，讨厌的东西是数学。出身於宫城县仙台市。
     性格沉着而开朗，一旦紧张就会脸红，自己也非常在意这一方面。实际上歌唱和舞蹈能力都不错。
 
 <!-- end list -->
 
   - \[9\]\[10\]
-    13歲，昵称もっち。2004年3月16日出生。[双鱼座](../Page/双鱼座.md "wikilink")。身高148cm。體重41kg。三围B
-    75cm W 56cm H
-    82cm。血型A型。兴趣是摄影，喜欢的东西是[卡拉OK](../Page/卡拉OK.md "wikilink")，讨厌的东西是虫子。出身於宫城县仙台市。
+    13歲，昵称もっち。2004年3月16日出生。[双鱼座](../Page/双鱼座.md "wikilink")。身高148cm。體重41kg。三围B 75cm W 56cm H 82cm。血型A型。兴趣是摄影，喜欢的东西是[卡拉OK](../Page/卡拉OK.md "wikilink")，讨厌的东西是虫子。出身於宫城县仙台市。
     从小就喜欢偶像，很有活力的WUG粉丝。三人组中的捣蛋鬼，虽然很擅长唱歌，但是舞蹈能力较低。
 
 <!-- end list -->
 
   - \[11\]\[12\]
-    13歲，昵称あっちゃん。2004年10月11日出生。[天秤座](../Page/天秤座.md "wikilink")。身高157cm。體重46kg。三围B
-    72cm W 56cm H 80cm。血型B型。兴趣是读书，喜欢的东西是舞蹈，讨厌的东西是番茄。出身於宫城县仙台市。
+    13歲，昵称あっちゃん。2004年10月11日出生。[天秤座](../Page/天秤座.md "wikilink")。身高157cm。體重46kg。三围B 72cm W 56cm H 80cm。血型B型。兴趣是读书，喜欢的东西是舞蹈，讨厌的东西是番茄。出身於宫城县仙台市。
     表面冷静，实际上有点[天然呆](../Page/天然呆.md "wikilink")，沉默寡言，舞蹈能力是三人当中最强的,另外也是I-1的粉丝。
 
 ### 「I-1 Club」
 
   -
-    日本頂級的國民偶像團體。2010年一期生20人开始出道，2011年1月二期生加入共约50人，2012年1月三期生举办试镜会后共约150人，2013年1月四期生到2013年8月五期生选拔后扩展到约250人的规模。團體分為第一线的I-1、二线的I-2和三线的I-3并且可以隨時更換，所以競爭十分激烈。身兼总经理和公司社长的白木甚至会当场宣布解雇不合格的成员。成員的年齡層由中學生至20歲，範圍十分廣。座右铭是「不休息、不抱怨、不思考、时常感激」，整个I-1club采用类似军队的体制，成员登上杂志封面或举行个人活动的情况也非常多。在续·剧场版前篇「青春の影」中因为单曲CD销量跌破百万因此引起新center位置的竞争。登台前会由队长喊出口号：「誰よりも激しく！　誰よりも美しく！　誰よりも正確に！　I-1
-    club、行くぞ！」。以下為剧情主要角色。
+    日本頂級的國民偶像團體。2010年一期生20人开始出道，2011年1月二期生加入共约50人，2012年1月三期生举办试镜会后共约150人，2013年1月四期生到2013年8月五期生选拔后扩展到约250人的规模。團體分為第一线的I-1、二线的I-2和三线的I-3并且可以隨時更換，所以競爭十分激烈。身兼总经理和公司社长的白木甚至会当场宣布解雇不合格的成员。成員的年齡層由中學生至20歲，範圍十分廣。座右铭是「不休息、不抱怨、不思考、时常感激」，整个I-1club采用类似军队的体制，成员登上杂志封面或举行个人活动的情况也非常多。在续·剧场版前篇「青春の影」中因为单曲CD销量跌破百万因此引起新center位置的竞争。登台前会由队长喊出口号：「誰よりも激しく！　誰よりも美しく！　誰よりも正確に！　I-1 club、行くぞ！」。以下為剧情主要角色。
 
 <!-- end list -->
 
@@ -226,9 +184,7 @@ Run\!」，出道曲 「カケル×カケル」由Twinkle提供。最终话在WU
 <!-- end list -->
 
   -
-    I-1
-    CLUB的[總經理及](https://zh.wikipedia.org/wiki/總經理 "wikilink")[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")，为人冷酷，对I-1
-    CLUB犹如军事化式的偶像培养。总是抱着「在成为人之前是一名偶像」的强烈信念，如果旗下偶像不听指示或违反规定会毫不犹豫地解雇。
+    I-1 CLUB的[總經理及](https://zh.wikipedia.org/wiki/總經理 "wikilink")[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")，为人冷酷，对I-1 CLUB犹如军事化式的偶像培养。总是抱着「在成为人之前是一名偶像」的强烈信念，如果旗下偶像不听指示或违反规定会毫不犹豫地解雇。
     对以前「Saint40」的解散感到后悔，在续·剧场版前篇中与丹下社长的谈话少有地显露出冷血之外的表情。
     动画「新章」中对「I-1」成员进行大幅度替换。最终话宣布重新举办偶像祭典。
 
@@ -240,9 +196,7 @@ Run\!」，出道曲 「カケル×カケル」由Twinkle提供。最终话在WU
 <!-- end list -->
 
   -
-    漫画「リトルチャレンジャー Wake Up, Girls\! -side I-1 club-
-    」的主角，I-1的五期生，因体型与志保相似因而被选为center替补。在续·剧场版后篇中登场，在志保移籍到「Next
-    Storm」后升格为正式成员。
+    漫画「リトルチャレンジャー Wake Up, Girls\! -side I-1 club- 」的主角，I-1的五期生，因体型与志保相似因而被选为center替补。在续·剧场版后篇中登场，在志保移籍到「Next Storm」后升格为正式成员。
     1998年1月17日出生，动画登场时17歳，血型A型。身高163cm、体重44kg。
 
 ### 「Next Storm」
@@ -253,11 +207,8 @@ Run\!」，出道曲 「カケル×カケル」由Twinkle提供。最终话在WU
     原「I-1」成员，17歲，高中二年级，昵称しほっち。身高163cm。體重45kg，血型O型。兴趣是观看DVD，喜欢的东西是晴天，讨厌的东西是幽灵。出身於栃木縣。
     與真夢同期的「I-1」一期生，並與真夢爭奪Center。在真夢因丑闻離開「I-1」後成為第二代Center，其後乘破竹之勢在「I-1」大躍進。
     [現實主義者](https://zh.wikipedia.org/wiki/現實主義 "wikilink")，決定在弱肉強食的演藝界繼續打拼。縱使真夢退出I-1一樣視為競爭對手。
-    在续·剧场版前篇中因「I-1」单曲CD销量跌破百万，与萌歌争夺center的位置。在续·剧场版后篇中因销量不及萌歌被迫让出center之位，之后白木要求志保移籍到[福冈](../Page/福冈.md "wikilink")并且组建新的团体「Next
-    Storm」，离开前对center替补的里佳道歉。
-    动画「新章」中继续带领「Next
-    Storm」在福冈活动，对真梦的态度有所缓和。第9话被白木从福冈召回东京。第12话因不接受白木提出解散「Next
-    Storm」的决定，退出「I-1」并回到福冈独自带领「Next Storm」继续进行偶像活动。
+    在续·剧场版前篇中因「I-1」单曲CD销量跌破百万，与萌歌争夺center的位置。在续·剧场版后篇中因销量不及萌歌被迫让出center之位，之后白木要求志保移籍到[福冈](../Page/福冈.md "wikilink")并且组建新的团体「Next Storm」，离开前对center替补的里佳道歉。
+    动画「新章」中继续带领「Next Storm」在福冈活动，对真梦的态度有所缓和。第9话被白木从福冈召回东京。第12话因不接受白木提出解散「Next Storm」的决定，退出「I-1」并回到福冈独自带领「Next Storm」继续进行偶像活动。
 
 <!-- end list -->
 
@@ -273,9 +224,7 @@ Run\!」，出道曲 「カケル×カケル」由Twinkle提供。最终话在WU
 
 ### 「Twinkle」
 
-全國活躍的女性雙人組團體。多次举办全国巡回演出。双马尾的是卡莉娜，而短发的则是安娜。出道當時受到丹下社長的照顧，因此關係良好。在Wake Up,
-Girls\!出道曲難產的情況下，为他们创作了「タチアガレ」和「16歳のアガペー」。续·剧场版后篇中丹下社长曾拜托他们为WUG再次创作新曲，但由于两人忙于准备演出而拒绝。动画「新章」第12话透露为新组合Run
-Girls, Run\!创作了新曲。
+全國活躍的女性雙人組團體。多次举办全国巡回演出。双马尾的是卡莉娜，而短发的则是安娜。出道當時受到丹下社長的照顧，因此關係良好。在Wake Up, Girls\!出道曲難產的情況下，为他们创作了「タチアガレ」和「16歳のアガペー」。续·剧场版后篇中丹下社长曾拜托他们为WUG再次创作新曲，但由于两人忙于准备演出而拒绝。动画「新章」第12话透露为新组合Run Girls, Run\!创作了新曲。
 
   -
 
@@ -311,9 +260,7 @@ Girls, Run\!创作了新曲。
 <!-- end list -->
 
   -
-    住在仙台的偶像團體「I-1」的高級粉絲。很在意離開「I-1」的島田真夢，在网上对真夢的退出骂声一片的情况，仍坚持为真夢声讨。在公園看到有關Wake
-    Up,Girls\!演出的傳單上有島田真夢的名字後十分驚訝，也是在WUG出道演出中唯一一个喊安可的人。之后与其他WUG粉丝一起支持WUG，经常在家庭餐厅中举行粉丝聚会，而店员每次也会要求他们注意不要影响到别人的场景成为本作的固定剧情。在续·剧场版后篇「Beyond
-    the Bottom」中与另外三名WUG粉丝设立了粉丝俱乐部。在动画「新章」中继续为WUG应援。
+    住在仙台的偶像團體「I-1」的高級粉絲。很在意離開「I-1」的島田真夢，在网上对真夢的退出骂声一片的情况，仍坚持为真夢声讨。在公園看到有關Wake Up,Girls\!演出的傳單上有島田真夢的名字後十分驚訝，也是在WUG出道演出中唯一一个喊安可的人。之后与其他WUG粉丝一起支持WUG，经常在家庭餐厅中举行粉丝聚会，而店员每次也会要求他们注意不要影响到别人的场景成为本作的固定剧情。在续·剧场版后篇「Beyond the Bottom」中与另外三名WUG粉丝设立了粉丝俱乐部。在动画「新章」中继续为WUG应援。
 
 <!-- end list -->
 
@@ -323,27 +270,21 @@ Girls, Run\!创作了新曲。
 <!-- end list -->
 
   -
-    动画第3、4话登场，电视台的制作人之一。得知岛田真梦在仙台再次开展活动后，为了刺探真梦当时离开「I-1」的内幕，炮制了假策划借故到Green
-    Leaves事务所采访。最后被丹下社长拆穿而赶了出去。
+    动画第3、4话登场，电视台的制作人之一。得知岛田真梦在仙台再次开展活动后，为了刺探真梦当时离开「I-1」的内幕，炮制了假策划借故到Green Leaves事务所采访。最后被丹下社长拆穿而赶了出去。
 
 <!-- end list -->
 
   -
     秋田县的女性三人偶像团体，成员分别是队长绢宫咲和队员六代阳子、风山唯。与WUG同样在偶像祭典东北地方预赛出场。跳舞时会穿上当地的传统服饰，演唱时则是脱掉外面的传统服饰换成水手服，另外也会使用[溜溜球](../Page/溜溜球.md "wikilink")进行表演。说话带秋田腔（实际上是津轻腔）。
     于电视动画第一部第10话正式登场。在偶像祭典东北地方预赛前对一同回家的真梦和佳乃进行挑衅，之后于预赛止步。
-    在续·剧场版后篇「Beyond the
-    Bottom」中再次登场，并且邀请WUG到个人演出中作为嘉宾参与共演。亦再度参加偶像祭典。实力比起去年有了大幅度提高。但仍然不敌WUG在预赛中落败。
-    在动画「新章」中透露已经解散。11话中与未夕偶遇后得知解散原因是事务所倒闭。现在以自由身身份一边打工一边举办演出。在演出的宣传单上得知他们代表东北地区参加了2016年偶像祭典。最终话接受WUG的邀请参加全国巡演最后一站的Wake
-    Up Idols活动。
+    在续·剧场版后篇「Beyond the Bottom」中再次登场，并且邀请WUG到个人演出中作为嘉宾参与共演。亦再度参加偶像祭典。实力比起去年有了大幅度提高。但仍然不敌WUG在预赛中落败。
+    在动画「新章」中透露已经解散。11话中与未夕偶遇后得知解散原因是事务所倒闭。现在以自由身身份一边打工一边举办演出。在演出的宣传单上得知他们代表东北地区参加了2016年偶像祭典。最终话接受WUG的邀请参加全国巡演最后一站的Wake Up Idols活动。
 
 <!-- end list -->
 
   -
-    与续·剧场版前篇中登场。著名音乐公司bvex当中负责[A\&R业务的工作人员](https://zh.wikipedia.org/wiki/A&R "wikilink")。注意到了在偶像祭典2014上WUG的表演，之后打电话联络Green
-    Leaves向其伸出橄榄枝并提出签约一年。
-    说话带有各种业界用词及仿佛演讲一般的语气。在成功发行「7 Girls
-    War」之后曾再次请求早坂为WUG创作新曲但遭到拒绝。随后因WUG的第二张单曲「素顔でKISS
-    ME」销量不佳，将WUG各成员的演出活动大幅削减。
+    与续·剧场版前篇中登场。著名音乐公司bvex当中负责[A\&R业务的工作人员](https://zh.wikipedia.org/wiki/A&R "wikilink")。注意到了在偶像祭典2014上WUG的表演，之后打电话联络Green Leaves向其伸出橄榄枝并提出签约一年。
+    说话带有各种业界用词及仿佛演讲一般的语气。在成功发行「7 Girls War」之后曾再次请求早坂为WUG创作新曲但遭到拒绝。随后因WUG的第二张单曲「素顔でKISS ME」销量不佳，将WUG各成员的演出活动大幅削减。
     在续·剧场版后篇中得知早坂为WUG创作了「少女交響曲」后想再次推出新单曲，因为WUG需要用「少女交響曲」参加偶像祭典2015所以没有成功。但是他也同意了松田“想以bvex旗下艺人身份展开更注重独立性的活动”的请求。
 
 <!-- end list -->
@@ -380,10 +321,7 @@ Girls, Run\!创作了新曲。
   - 動畫監製：藤尾勉
   - 總製作監製：竹内宏彰
   - 動畫製作：[Ordet](../Page/Ordet.md "wikilink")×[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")\[16\]
-  - 製作：Wake Up,
-    Girls\!製作委員會\[17\]（[愛貝克思娛樂](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")、[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")、[Good
-    Smile
-    Company](../Page/Good_Smile_Company.md "wikilink")、[東京電視台](../Page/東京電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、學研出版、[東寶](../Page/東寶.md "wikilink")、[SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink")、[創通](../Page/創通.md "wikilink")）
+  - 製作：Wake Up, Girls\!製作委員會\[17\]（[愛貝克思娛樂](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")、[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")、[Good Smile Company](../Page/Good_Smile_Company.md "wikilink")、[東京電視台](../Page/東京電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、學研出版、[東寶](../Page/東寶.md "wikilink")、[SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink")、[創通](../Page/創通.md "wikilink")）
 
 #### 主題曲
 
@@ -395,16 +333,14 @@ Girls, Run\!创作了新曲。
   -
 
       -
-        作詞：辛矢凡，作曲、編曲：神前曉，主唱：[Wake Up,
-        Girls\!](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")
+        作詞：辛矢凡，作曲、編曲：神前曉，主唱：[Wake Up, Girls\!](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")
 
 :;「7 girls war」（TV版第3－12話、BD版第1－12話、第11、12話劇中曲）
 
   -
 
       -
-        作詞：辛矢凡，作曲：神前曉、田中秀和，編曲：田中秀和，主唱：[Wake Up,
-        Girls\!](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")
+        作詞：辛矢凡，作曲：神前曉、田中秀和，編曲：田中秀和，主唱：[Wake Up, Girls\!](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")
 
 <!-- end list -->
 
@@ -415,8 +351,7 @@ Girls, Run\!创作了新曲。
   -
 
       -
-        作詞：只野菜摘，作曲、編曲：岡部啟一，主唱：[Wake Up,
-        Girls\!](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")
+        作詞：只野菜摘，作曲、編曲：岡部啟一，主唱：[Wake Up, Girls\!](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")
 
 #### 劇中曲
 
@@ -428,8 +363,7 @@ Girls, Run\!创作了新曲。
 
       -
         作詞：辛矢凡，作曲、編曲：田中秀和
-        主唱：I-1
-        CLUB（岩崎志保（大坪由佳）、近藤麻衣（加藤英美里）、吉川愛（津田美波）、相澤菜野花（福原香織）、鈴木萌歌（山本希望）、鈴木玲奈（明坂聰美）、小早川蒂娜（安野希世乃））
+        主唱：I-1 CLUB（岩崎志保（大坪由佳）、近藤麻衣（加藤英美里）、吉川愛（津田美波）、相澤菜野花（福原香織）、鈴木萌歌（山本希望）、鈴木玲奈（明坂聰美）、小早川蒂娜（安野希世乃））
 
 :;「」（第2話）
 
@@ -443,8 +377,7 @@ Girls, Run\!创作了新曲。
   -
 
       -
-        作詞：只野菜摘，作曲、編曲：廣川惠一（MONACA），主唱：[Wake Up,
-        Girls\!](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")
+        作詞：只野菜摘，作曲、編曲：廣川惠一（MONACA），主唱：[Wake Up, Girls\!](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")
 
 :;「」（第5話）
 
@@ -473,8 +406,7 @@ Girls, Run\!创作了新曲。
 
       -
         作詞：只野菜摘，作曲、編曲：田中秀和（MONACA）
-        主唱（第8、10話）：[Wake Up,
-        Girls\!](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")
+        主唱（第8、10話）：[Wake Up, Girls\!](../Page/Wake_Up,_Girls!_\(聲優組合\).md "wikilink")
         主唱（第11話）：I-1 CLUB
 
 #### 各話列表
@@ -697,10 +629,7 @@ Girls, Run\!创作了新曲。
 於2017年10月播出\[19\]。
 
   -
-    第一话播放后，前作监督山本宽（作词时使用「辛矢凡」名义）对剧中使用的『タチアガレ！』『7 Girls
-    War』等歌曲却没有注明作词人等行为，在对东京电视台做出的回答无法表示满意后，10月17日在博客上发表不承认一切擅自使用自己作词的歌曲的行为，并且表示会采用法律手段。另外也在[Twitter](../Page/Twitter.md "wikilink")上向avex的CEO[松浦胜人直接发送信息](https://zh.wikipedia.org/wiki/松浦胜人 "wikilink")。但直到数日后制作委员会方面也没有做出任何回应，而山本宽方面也没有采取任何行动。之后在各种活动中如「Run
-    Girls, Run！ ショーケースイベント 位置についてよーいドン！Vol.2」和「ANIMAX MUSIX 2017
-    YOKOHAMA」等山本宽的歌曲也在现场如常播放。
+    第一话播放后，前作监督山本宽（作词时使用「辛矢凡」名义）对剧中使用的『タチアガレ！』『7 Girls War』等歌曲却没有注明作词人等行为，在对东京电视台做出的回答无法表示满意后，10月17日在博客上发表不承认一切擅自使用自己作词的歌曲的行为，并且表示会采用法律手段。另外也在[Twitter](../Page/Twitter.md "wikilink")上向avex的CEO[松浦胜人直接发送信息](https://zh.wikipedia.org/wiki/松浦胜人 "wikilink")。但直到数日后制作委员会方面也没有做出任何回应，而山本宽方面也没有采取任何行动。之后在各种活动中如「Run Girls, Run！ ショーケースイベント 位置についてよーいドン！Vol.2」和「ANIMAX MUSIX 2017 YOKOHAMA」等山本宽的歌曲也在现场如常播放。
 
 #### 製作人員（新章）
 
@@ -1002,8 +931,7 @@ Girls, Run\!创作了新曲。
 
 本作於2014年1月10日在日本進行13屏的小規模上映，上映4天票房約只有1000萬日元\[20\]。上映首日动画本篇的开头部分在[niconico直播上免费放送](https://zh.wikipedia.org/wiki/niconico "wikilink")，余下部分则是付费观看。另外利用[Crunchyroll](../Page/Crunchyroll.md "wikilink")、[Tudou](https://zh.wikipedia.org/wiki/Tudou "wikilink")·[Youku等视频网站](https://zh.wikipedia.org/wiki/Youku "wikilink")，在上映第一天向全球108个国家地区同时开始网络播放。2015年11月27日开始在[Youtube上免费播放](https://zh.wikipedia.org/wiki/Youtube "wikilink")。这也是世界上首次采用这种播放方式。
 
-故事主要講述偶像團體“Wake Up,
-Girls\!”的組建過程，是電視動畫版故事的前篇。部分與之後的電視動畫版製作人員相同。其副標題來自黑澤明的作品《[七武士](../Page/七武士.md "wikilink")》。
+故事主要講述偶像團體“Wake Up, Girls\!”的組建過程，是電視動畫版故事的前篇。部分與之後的電視動畫版製作人員相同。其副標題來自黑澤明的作品《[七武士](../Page/七武士.md "wikilink")》。
 
 #### 製作人員
 
@@ -1016,16 +944,14 @@ Girls\!”的組建過程，是電視動畫版故事的前篇。部分與之後�
   - 服裝設計：川妻智美、澤田知世、中田知里
   - 美術設定：井伊篤
   - 數碼影像監修：吉浦康裕
-  - 製作協力：[LIDENFILMS](../Page/LIDENFILMS.md "wikilink")、Chaos
-    Project、Millepensee
+  - 製作協力：[LIDENFILMS](../Page/LIDENFILMS.md "wikilink")、Chaos Project、Millepensee
   - 製作：齊藤淳、勝股英夫、田中修一郎、安藝貴範、平岡利介、山田昇、增山敬祐、古澤佳寬、佐佐木繪美、難波秀行
   - 配給：東寶影像事業部
 
 #### 主題曲
 
   - 「」
-    作詞：[辛矢凡](../Page/山本寬.md "wikilink")，作曲、編曲：[神前曉](https://zh.wikipedia.org/wiki/神前曉 "wikilink")，主唱：Wake
-    Up, Girls\!
+    作詞：[辛矢凡](../Page/山本寬.md "wikilink")，作曲、編曲：[神前曉](https://zh.wikipedia.org/wiki/神前曉 "wikilink")，主唱：Wake Up, Girls\!
 
 #### 插曲
 
@@ -1050,8 +976,7 @@ Girls\!”的組建過程，是電視動畫版故事的前篇。部分與之後�
 
 2015年6月30日，公佈劇場版前篇的主題曲為「少女交響曲」\[23\]。而后篇的主题曲为「Beyond the Bottom」。
 
-续·剧场版前篇时间线紧接电视动画版最终回，约2014年冬天至2015年仲夏之间，讲述WUG众人因「7 Girls
-War」一曲受到东京娱乐公司bvex青睐而在东京正式地表出道，本来以为能在东京顺利发展的WUG却渐渐迎来大危机。
+续·剧场版前篇时间线紧接电视动画版最终回，约2014年冬天至2015年仲夏之间，讲述WUG众人因「7 Girls War」一曲受到东京娱乐公司bvex青睐而在东京正式地表出道，本来以为能在东京顺利发展的WUG却渐渐迎来大危机。
 
 续·剧场版后篇则是描写2015年仲夏到年末之间，在东京活动失败的WUG回到仙台重振旗鼓，在诸位的帮助下举行全国巡回并参加偶像祭典2015，最终成功获得了优胜。
 
@@ -1075,18 +1000,15 @@ War」一曲受到东京娱乐公司bvex青睐而在东京正式地表出道，�
   - 音樂製作：
   - 動畫監制：白石直子
   - 製作顧問：板垣伸（後編）
-  - 制作協力：[project
-    No.9](https://zh.wikipedia.org/wiki/project_No.9 "wikilink")（前編）、[AIC](../Page/動畫國際公司.md "wikilink")（前編）、[ZERO-G](../Page/ZERO-G.md "wikilink")（後編）
+  - 制作協力：[project No.9](https://zh.wikipedia.org/wiki/project_No.9 "wikilink")（前編）、[AIC](../Page/動畫國際公司.md "wikilink")（前編）、[ZERO-G](../Page/ZERO-G.md "wikilink")（後編）
   - 動畫製作：[Ordet](../Page/Ordet.md "wikilink") X millepensee
   - 配給：東寶映像事業部
-  - 製作：Wake Up, Girls\! 2 製作委員會（愛貝克思映畫、龍之子製作公司、東京電視台、AT-X、Ultra Super
-    Pictures、Good Smile Company、東寶、LAWSON HMV 娛樂、HiroshiPlanning）
+  - 製作：Wake Up, Girls\! 2 製作委員會（愛貝克思映畫、龍之子製作公司、東京電視台、AT-X、Ultra Super Pictures、Good Smile Company、東寶、LAWSON HMV 娛樂、HiroshiPlanning）
 
 #### 主題曲
 
   - 「少女交響曲」（前篇）
-    作詞：[辛矢凡](../Page/山本寬.md "wikilink")，作曲、編曲：[田中秀和](https://zh.wikipedia.org/wiki/田中秀和 "wikilink")（MONACA），主唱：Wake
-    Up, Girls\!
+    作詞：[辛矢凡](../Page/山本寬.md "wikilink")，作曲、編曲：[田中秀和](https://zh.wikipedia.org/wiki/田中秀和 "wikilink")（MONACA），主唱：Wake Up, Girls\!
   - 「Beyond the Bottom」（後篇）
     作詞：辛矢凡，作曲、編曲：田中秀和（MONACA），主唱：Wake Up, Girls\!
 
@@ -1096,10 +1018,7 @@ War」一曲受到东京娱乐公司bvex青睐而在东京正式地表出道，�
 
 :; 「素顔でKISS ME」
 
-:: 作詞 - [只野菜摘](https://zh.wikipedia.org/wiki/只野菜摘 "wikilink") / 作曲 -
-田中秀和 / 編曲 -
-[廣川惠一](https://zh.wikipedia.org/wiki/廣川惠一 "wikilink") /
-主唱 - Wake Up, Girls\!
+:: 作詞 - [只野菜摘](https://zh.wikipedia.org/wiki/只野菜摘 "wikilink") / 作曲 - 田中秀和 / 編曲 - [廣川惠一](https://zh.wikipedia.org/wiki/廣川惠一 "wikilink") / 主唱 - Wake Up, Girls\!
 
 :; 「運命の女神」
 
@@ -1107,14 +1026,11 @@ War」一曲受到东京娱乐公司bvex青睐而在东京正式地表出道，�
 
 :; 「Regain Brave」
 
-:: 作詞 - [吉田詩織](https://zh.wikipedia.org/wiki/吉田詩織 "wikilink") / 作曲・編曲 -
-神保トモヒロ / 主唱 - [木高ゆみ](../Page/高木美佑.md "wikilink")
+:: 作詞 - [吉田詩織](https://zh.wikipedia.org/wiki/吉田詩織 "wikilink") / 作曲・編曲 - 神保トモヒロ / 主唱 - [木高ゆみ](../Page/高木美佑.md "wikilink")
 
 :; 「End of endless」
 
-:: 作詞 - 吉田詩織 / 作曲 - 末岡史靖 / 編曲 -
-[立山秋航](https://zh.wikipedia.org/wiki/立山秋航 "wikilink") /
-主唱 - mip'o
+:: 作詞 - 吉田詩織 / 作曲 - 末岡史靖 / 編曲 - [立山秋航](https://zh.wikipedia.org/wiki/立山秋航 "wikilink") / 主唱 - mip'o
 
 :; 「Go for it\!」
 
@@ -1131,9 +1047,7 @@ War」一曲受到东京娱乐公司bvex青睐而在东京正式地表出道，�
 
 :; 「タチアガレ\!」
 
-:: 作詞 - 辛矢凡 / 作曲・編曲 -
-[神前曉](https://zh.wikipedia.org/wiki/神前曉 "wikilink") / 主唱 -
-Wake Up, Girls\!
+:: 作詞 - 辛矢凡 / 作曲・編曲 - [神前曉](https://zh.wikipedia.org/wiki/神前曉 "wikilink") / 主唱 - Wake Up, Girls\!
 
 :; 「止まらない未来」
 
@@ -1145,9 +1059,7 @@ Wake Up, Girls\!
 
 :; 「if you were godness」
 
-:: 作詞・作曲・編曲 - [Noda
-Akiko](https://zh.wikipedia.org/wiki/Noda_Akiko "wikilink") / 主唱 -
-佐藤勝子（サファイア麗子）
+:: 作詞・作曲・編曲 - [Noda Akiko](https://zh.wikipedia.org/wiki/Noda_Akiko "wikilink") / 主唱 - 佐藤勝子（サファイア麗子）
 
 :; 「無限大　ILLUSION」
 
@@ -1190,7 +1102,7 @@ Akiko](https://zh.wikipedia.org/wiki/Noda_Akiko "wikilink") / 主唱 -
 <tr class="even">
 <td><p>後篇</p></td>
 <td><p>Wake Up, Girls! Beyond the Bottom</p></td>
-<td><p>山本寛<br />
+<td><p>山本寬<br />
 山崎雄太<br />
 渡邊政治</p></td>
 <td><p>村田光、白石道太<br />
@@ -1209,8 +1121,7 @@ Akiko](https://zh.wikipedia.org/wiki/Noda_Akiko "wikilink") / 主唱 -
 
 ## OVA
 
-『**Wake Up, Girls\!
-相遇的记录**』是[2013年](../Page/2013年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")于秋叶原UDX举办的活动上\[24\]\[25\]贩卖的前售券附赠DVD内的附属内容，包含约6分钟长度的未使用短篇动画。
+『**Wake Up, Girls\! 相遇的记录**』是[2013年](../Page/2013年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")于秋叶原UDX举办的活动上\[24\]\[25\]贩卖的前售券附赠DVD内的附属内容，包含约6分钟长度的未使用短篇动画。
 
 动画内容是关于WUG的六位成员（除岛田真梦外）的试镜内容，另外也有岛田真梦在试镜现场门外出现的场景。本短篇动画之后作为特典影像包含在BD第六卷中\[26\]。
 
@@ -1224,8 +1135,7 @@ Akiko](https://zh.wikipedia.org/wiki/Noda_Akiko "wikilink") / 主唱 -
 
 『**うぇいくあっぷがーるZOO\!**』是『Wake Up Girls\!』的联动短篇动画。简称『WUGZOO！』
 
-2014年8月10日公布，9月5日试看版在Youtube上放送。10月22日开始dアニメストア、Bandai-Channel、J:COMオンデマンド、ビデオパス、U-NEXT、RakutenShowtime、TSUTAYA
-TV、Gyao\!ストア、DMM、ビデオマーケット、GyaO\!、ニコニコチャンネル上正式播放。共10话，2015年2月25日播放完毕。
+2014年8月10日公布，9月5日试看版在Youtube上放送。10月22日开始dアニメストア、Bandai-Channel、J:COMオンデマンド、ビデオパス、U-NEXT、RakutenShowtime、TSUTAYA TV、Gyao\!ストア、DMM、ビデオマーケット、GyaO\!、ニコニコチャンネル上正式播放。共10话，2015年2月25日播放完毕。
 
 动画中Wake Up Girls！以各自的动物形象设定登场。故事舞台设定在赞助商之一的仙台市八木山动物园。
 
@@ -1284,8 +1194,7 @@ TV、Gyao\!ストア、DMM、ビデオマーケット、GyaO\!、ニコニコチ
   - 音响监督 - [菊田浩巳](https://zh.wikipedia.org/wiki/菊田浩巳 "wikilink")
   - 音乐 - MONACA、[立山秋航](https://zh.wikipedia.org/wiki/立山秋航 "wikilink")
   - 音乐制作人 - 村上貴志
-  - 音乐制作 - [DIVE II
-    entertainment](https://zh.wikipedia.org/wiki/avex "wikilink")
+  - 音乐制作 - [DIVE II entertainment](https://zh.wikipedia.org/wiki/avex "wikilink")
   - 编集 - STUDIO MORIKEN
   - 制片人 - 田中宏幸、矢橋清志、田中聡、菅沢正浩、清水美佳、吉澤隆、菊地等
   - 动画监制 - [竹内宏彰](https://zh.wikipedia.org/wiki/竹内宏彰 "wikilink")
@@ -1295,9 +1204,7 @@ TV、Gyao\!ストア、DMM、ビデオマーケット、GyaO\!、ニコニコチ
 ### 主題曲（WUGZOO\!）
 
   - 片尾曲「ワグ・ズーズー」
-    作詞 - 只野菜摘 / 作曲・編曲 -
-    [高橋邦幸](https://zh.wikipedia.org/wiki/高橋邦幸 "wikilink")
-    / 歌 - Wake Up, Girls\!
+    作詞 - 只野菜摘 / 作曲・編曲 - [高橋邦幸](https://zh.wikipedia.org/wiki/高橋邦幸 "wikilink") / 歌 - Wake Up, Girls\!
 
 ### 各话列表（WUGZOO\!）
 
@@ -1402,11 +1309,9 @@ TV、Gyao\!ストア、DMM、ビデオマーケット、GyaO\!、ニコニコチ
 </tbody>
 </table>
 
-## Wake Up, 宮城！触れ愛プロジェクト
+## Wake Up, Miyagi！亲触之旅
 
-为振兴宫城县观光业，以宣传宫城县为目的的联动计划。最初在台湾开展宣传并播放新作短篇动画。2016年3月31日Youtube上正式公开WUG和WUGZOO中各人物介绍宫城县不同景点的短篇动画（Wake
-Up,Girls\!篇全长7分钟、うぇいくあっぷがーるZOO\!篇全长9分20秒）。另外手机[App](https://zh.wikipedia.org/wiki/App "wikilink")[舞台めぐり也开展了名为](https://zh.wikipedia.org/wiki/舞台めぐり "wikilink")「Wake
-Up,Girls\! Another Real」的商业联动，在宫城县的著名景点打开App后就能听见由WUG各成员朗读的广播剧。
+为振兴宫城县观光业，以宣传宫城县为目的的联动计划。最初在台湾开展宣传并播放新作短篇动画。2016年3月31日Youtube上正式公开WUG和WUGZOO中各人物介绍宫城县不同景点的短篇动画（Wake Up,Girls\!篇全长7分钟、うぇいくあっぷがーるZOO\!篇全长9分20秒）。另外手机[App](https://zh.wikipedia.org/wiki/App "wikilink")[舞台めぐり也开展了名为](https://zh.wikipedia.org/wiki/舞台めぐり "wikilink")「Wake Up,Girls\! Another Real」的商业联动，在宫城县的著名景点打开App后就能听见由WUG各成员朗读的广播剧。
 
 ### Wake Up, Girls！の宮城PRやらせてください！制作人员
 
@@ -1451,9 +1356,7 @@ Up,Girls\! Another Real」的商业联动，在宫城县的著名景点打开App
 ### 舞台剧『Wake Up, Girls\! 青叶的记录』
 
   -
-    于2017年1月19日至2017年1月22日在AiiA 2.5Theater
-    Tokyo上演。剧本[待田堂子](../Page/待田堂子.md "wikilink")，舞台演出[柿ノ木タケヲ](https://zh.wikipedia.org/wiki/柿ノ木タケヲ "wikilink")。WUG全员及「I-1」岩崎志保的声优大坪由佳在剧中饰演动画内同名角色\[27\]。2017年5月26日发售Blu-ray\[28\]。舞台剧剧情以剧场版「Wake
-    Up, Girls\!七位偶像」为基础改编。
+    于2017年1月19日至2017年1月22日在AiiA 2.5Theater Tokyo上演。剧本[待田堂子](../Page/待田堂子.md "wikilink")，舞台演出[柿ノ木タケヲ](https://zh.wikipedia.org/wiki/柿ノ木タケヲ "wikilink")。WUG全员及「I-1」岩崎志保的声优大坪由佳在剧中饰演动画内同名角色\[27\]。2017年5月26日发售Blu-ray\[28\]。舞台剧剧情以剧场版「Wake Up, Girls\!七位偶像」为基础改编。
 
 <!-- end list -->
 
@@ -1495,10 +1398,7 @@ Up,Girls\! Another Real」的商业联动，在宫城县的著名景点打开App
 ### 舞台剧『Wake Up, Girls\! 青叶的轨迹』
 
   -
-    2018年4月13日官方宣布新舞台剧于2018年6月6日至6月10日在[草月Hall上演](https://zh.wikipedia.org/wiki/草月ホール "wikilink")。剧本[待田堂子](../Page/待田堂子.md "wikilink")，总合演出松多壱岱，舞台演出萩原成哉。5月23日于官网上公开舞台剧视觉图及副标题『青叶的轨迹
-    』，同时公布了各演员的定妆照及各种情报。 2018年11月27日发售BD。剧情为『Wake Up, Girls\!
-    青叶的记录』之后的故事，以天才制作人早坂相登场开始的原创剧情。演员阵容除上一部『Wake
-    Up, Girls\! 青叶的记录』的外，新增部分角色，部分演员亦有变动\[34\]：
+    2018年4月13日官方宣布新舞台剧于2018年6月6日至6月10日在[草月Hall上演](https://zh.wikipedia.org/wiki/草月ホール "wikilink")。剧本[待田堂子](../Page/待田堂子.md "wikilink")，总合演出松多壱岱，舞台演出萩原成哉。5月23日于官网上公开舞台剧视觉图及副标题『青叶的轨迹 』，同时公布了各演员的定妆照及各种情报。 2018年11月27日发售BD。剧情为『Wake Up, Girls\! 青叶的记录』之后的故事，以天才制作人早坂相登场开始的原创剧情。演员阵容除上一部『Wake Up, Girls\! 青叶的记录』的外，新增部分角色，部分演员亦有变动\[34\]：
 
 <!-- end list -->
 
@@ -1533,81 +1433,55 @@ Up,Girls\! Another Real」的商业联动，在宫城县的著名景点打开App
 ### 漫画
 
   - 4格漫画
-    2013年11月号至2014年6月号在『[メガミマガジン](https://zh.wikipedia.org/wiki/メガミマガジン "wikilink")』上连载。作者[しろ](https://zh.wikipedia.org/wiki/しろ_\(イラストレーター\) "wikilink")。刊登内容收录在「Wake
-    Up, Girls\! COMPLETE BOOK『WUGpedia』」内。
+    2013年11月号至2014年6月号在『[メガミマガジン](https://zh.wikipedia.org/wiki/メガミマガジン "wikilink")』上连载。作者[しろ](https://zh.wikipedia.org/wiki/しろ_\(イラストレーター\) "wikilink")。刊登内容收录在「Wake Up, Girls\! COMPLETE BOOK『WUGpedia』」内。
   - ワクワク4コマ
-    2013年11月号至2014年4月号在『[アニメディア](https://zh.wikipedia.org/wiki/アニメディア "wikilink")』上连载。作者水知せり。每期介绍作品内2-3人的设定。每月刊登2本。刊登内容收录在「Wake
-    Up, Girls\! COMPLETE BOOK『WUGpedia』」内。
+    2013年11月号至2014年4月号在『[アニメディア](https://zh.wikipedia.org/wiki/アニメディア "wikilink")』上连载。作者水知せり。每期介绍作品内2-3人的设定。每月刊登2本。刊登内容收录在「Wake Up, Girls\! COMPLETE BOOK『WUGpedia』」内。
   - 4格漫画（无标题）
-    2013年10月号至2014年6月号在『アニメディア』上连载。作者はんざわかおり。无特定标题、仅用副标题连载。主要介绍角色声优的4格漫画。每月刊登2本。刊登内容收录在「Wake
-    Up, Girls\! COMPLETE BOOK『WUGpedia』」内。
+    2013年10月号至2014年6月号在『アニメディア』上连载。作者はんざわかおり。无特定标题、仅用副标题连载。主要介绍角色声优的4格漫画。每月刊登2本。刊登内容收录在「Wake Up, Girls\! COMPLETE BOOK『WUGpedia』」内。
   - 剧场版「Wake Up, Girls\! 七位偶像」
-    由NORA COMICS发售。原作Green Leaves、作画緋呂河とも。剧场版「Wake Up, Girls\!
-    七位偶像」的漫画化作品。补充了动画中没有描写的部分。全1卷。
+    由NORA COMICS发售。原作Green Leaves、作画緋呂河とも。剧场版「Wake Up, Girls\! 七位偶像」的漫画化作品。补充了动画中没有描写的部分。全1卷。
       - 2014年3月28日发售、ISBN 978-4-05-607117-7
   - リトルチャレンジャー Wake Up, Girls\! -side I-1 club-
-    2014年5月号至2015年5月号在『メガミマガジン』上连载。全13話。原案山本宽、分镜原案为担任动画系列构成脚本的待田堂子、漫画U.G.E。以I-1club的角度描写续·剧场版后篇『Beyond
-    the Bottom』的剧情。主人公为I-1club
-    5期生高科里佳。揭露了动画世界中I-1club不为人知的一面。目前仅1-6话发行了单行本。
-    1.  [2014年](../Page/2014年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")发售、ISBN
-        978-4-05-607125-2
+    2014年5月号至2015年5月号在『メガミマガジン』上连载。全13話。原案山本宽、分镜原案为担任动画系列构成脚本的待田堂子、漫画U.G.E。以I-1club的角度描写续·剧场版后篇『Beyond the Bottom』的剧情。主人公为I-1club 5期生高科里佳。揭露了动画世界中I-1club不为人知的一面。目前仅1-6话发行了单行本。
+    1.  [2014年](../Page/2014年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")发售、ISBN 978-4-05-607125-2
   - Wake Up, Girls\!
-    『[月刊Comp Ace](../Page/月刊Comp_Ace.md "wikilink")』
-    2015年7月号开始连载。作画カガケント、原作Green
-    Leaves。漫画剧情从电视动画第2话终盘开始讲述。2016年1月号宣布休载。已发售单行本1卷。
-    1.  [2015年](../Page/2015年.md "wikilink")12月26日初版发行、ISBN
-        978-4-04-103770-6
+    『[月刊Comp Ace](../Page/月刊Comp_Ace.md "wikilink")』 2015年7月号开始连载。作画カガケント、原作Green Leaves。漫画剧情从电视动画第2话终盘开始讲述。2016年1月号宣布休载。已发售单行本1卷。
+    1.  [2015年](../Page/2015年.md "wikilink")12月26日初版发行、ISBN 978-4-04-103770-6
   - Wake Up,Girls！Leaders
-    2017年7月18日于『CHAMPION CROSS』开始连载。作画柏木香乃、原作・监修Green Leaves。故事从剧场版「Wake
-    Up, Girls\!
-    七位偶像」以WUG的队长七瀬佳乃与副队长菊間夏夜的角度开始讲述。另外也增加了许多动画版、小说版内没有的设定。2017年12月已发行1卷。
+    2017年7月18日于『CHAMPION CROSS』开始连载。作画柏木香乃、原作・监修Green Leaves。故事从剧场版「Wake Up, Girls\! 七位偶像」以WUG的队长七瀬佳乃与副队长菊間夏夜的角度开始讲述。另外也增加了许多动画版、小说版内没有的设定。2017年12月已发行1卷。
     1.  2017年12月8日发售、ISBN 978-4-253-25264-5
   - Wake Up, Girls\! Eternal Senses
-    2017年7月30日至10月27日于『[コミッククリア](https://zh.wikipedia.org/wiki/コミッククリア "wikilink")』上连载。作画GUNP、原作・监修Green
-    Leaves 。描写续·剧场版到动画『新章』之间的故事。
+    2017年7月30日至10月27日于『[コミッククリア](https://zh.wikipedia.org/wiki/コミッククリア "wikilink")』上连载。作画GUNP、原作・监修Green Leaves 。描写续·剧场版到动画『新章』之间的故事。
 
 ### 小说
 
   - 小说Wake Up, Girls\! 各自的身姿
-    学研パブリッシング发售。作者为担任动画系列构成脚本的待田堂子、插图U.G.E。内容包括剧场版「Wake Up, Girls\!
-    七位偶像」发生前及电视动画结局后的故事。并刊登了WUG成员的详细经历。
-      - [2014年](../Page/2014年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")发售
-        ISBN 978-4-05-405989-4
+    学研パブリッシング发售。作者为担任动画系列构成脚本的待田堂子、插图U.G.E。内容包括剧场版「Wake Up, Girls\! 七位偶像」发生前及电视动画结局后的故事。并刊登了WUG成员的详细经历。
+      - [2014年](../Page/2014年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")发售 ISBN 978-4-05-405989-4
 
 #### 音频小说
 
-小说朗读版，2015年6月3日于『Febe\!』上开始以小说章节形式分开发售。另外收录各章节声优的评论音频。在动画专门店内亦有贩卖下载卡。全内容购买特典是『各自的身姿
-after
-story』。脚本由松田恵里子担当\[35\]。此外在动画中没有进行配音的角色也进行了新配音（例：实波之父：[堀総士郎](https://zh.wikipedia.org/wiki/堀総士郎 "wikilink")、实波之母：[森千晃](https://zh.wikipedia.org/wiki/森千晃 "wikilink")、实波之妹：[桑原由气](https://zh.wikipedia.org/wiki/桑原由气 "wikilink")、佳乃之妹：[空見ゆき](https://zh.wikipedia.org/wiki/空見ゆき "wikilink")、真夢之父：[中村大树](https://zh.wikipedia.org/wiki/中村大树 "wikilink")、菜菜美之母：[神田みか](https://zh.wikipedia.org/wiki/神田みか "wikilink")、菜菜美的姑妈：[たなか久美](https://zh.wikipedia.org/wiki/たなか久美 "wikilink")、暁彗：[夜桜音音](../Page/吉岡茉祐.md "wikilink")）。
+小说朗读版，2015年6月3日于『Febe\!』上开始以小说章节形式分开发售。另外收录各章节声优的评论音频。在动画专门店内亦有贩卖下载卡。全内容购买特典是『各自的身姿 after story』。脚本由松田恵里子担当\[35\]。此外在动画中没有进行配音的角色也进行了新配音（例：实波之父：[堀総士郎](https://zh.wikipedia.org/wiki/堀総士郎 "wikilink")、实波之母：[森千晃](https://zh.wikipedia.org/wiki/森千晃 "wikilink")、实波之妹：[桑原由气](https://zh.wikipedia.org/wiki/桑原由气 "wikilink")、佳乃之妹：[空見ゆき](https://zh.wikipedia.org/wiki/空見ゆき "wikilink")、真夢之父：[中村大树](https://zh.wikipedia.org/wiki/中村大树 "wikilink")、菜菜美之母：[神田みか](https://zh.wikipedia.org/wiki/神田みか "wikilink")、菜菜美的姑妈：[たなか久美](https://zh.wikipedia.org/wiki/たなか久美 "wikilink")、暁彗：[夜桜音音](../Page/吉岡茉祐.md "wikilink")）。
 
 ### FanBook
 
   - Wake Up, Girls\! Official Guide Book
-    2014年1月9日发售。ISBN 978-4-05-610331-1。收录到本书发售为止的版权绘及剧中人物相关图、Wake Up,
-    Girls\!和I-1club成员和周遭人物的个人资料。各声优本人的资料、从参加选拔到动画播放期间的活动、监督山本宽、剧本家待田堂子、负责主题曲的神前暁等工作人员的访谈也包含在内。另外还刊登了作为作品舞台的仙台市名胜、特产和关联商品介绍。特典包括漫画版的『剧场版Wake
-    Up, Girls\! 七位偶像』预览版、声优本人海报、手机游戏『Wake Up, Girls\! 舞台天使』特典卡。
+    2014年1月9日发售。ISBN 978-4-05-610331-1。收录到本书发售为止的版权绘及剧中人物相关图、Wake Up, Girls\!和I-1club成员和周遭人物的个人资料。各声优本人的资料、从参加选拔到动画播放期间的活动、监督山本宽、剧本家待田堂子、负责主题曲的神前暁等工作人员的访谈也包含在内。另外还刊登了作为作品舞台的仙台市名胜、特产和关联商品介绍。特典包括漫画版的『剧场版Wake Up, Girls\! 七位偶像』预览版、声优本人海报、手机游戏『Wake Up, Girls\! 舞台天使』特典卡。
 
 <!-- end list -->
 
   - Wake Up, Girls\! 舞台天使 The Illustrations
-    2014年6月10日发售。ISBN 978-4-05-406022-7。是社交游戏Wake Up, Girls\!
-    舞台天使的画集，记录了电视动画及游戏原创等各种人物共69人的详细资料，部分游戏原创人物的声优也收录在内。书中结尾刊登了动画人物设定的近岡直与Wake
-    Up, Girls\! 舞台天使的主要插画家小島大和的谈话、游戏制作人员座谈会，Wake Up, Girls\!
-    的声优田中美海、青山吉能、高木美佑的座谈会。特典是游戏原创人物大石陽奈的下载码。
+    2014年6月10日发售。ISBN 978-4-05-406022-7。是社交游戏Wake Up, Girls\! 舞台天使的画集，记录了电视动画及游戏原创等各种人物共69人的详细资料，部分游戏原创人物的声优也收录在内。书中结尾刊登了动画人物设定的近岡直与Wake Up, Girls\! 舞台天使的主要插画家小島大和的谈话、游戏制作人员座谈会，Wake Up, Girls\! 的声优田中美海、青山吉能、高木美佑的座谈会。特典是游戏原创人物大石陽奈的下载码。
 
 <!-- end list -->
 
   - Wake Up, Girls\! COMPLETE BOOK『WUGpedia』
-    2014年7月15日发售。ISBN
-    978-4-05-406056-2。包含角色解说、制作委员会各成员、作词家、音乐制作人和宫城县有关人士等共70人以上的访谈内容。乐曲解说、剧场版及电视动画各话解说及故事年表、各话评论、分镜内容等也一同收录。此外还包含监督、剧本、制作人三方对各话的评论及解说词、人物设定、美术设定及刊登在其他媒体上的四格漫画、仙台当地的介绍和Wake
-    Up, Girls\!的关联商品内容。
+    2014年7月15日发售。ISBN 978-4-05-406056-2。包含角色解说、制作委员会各成员、作词家、音乐制作人和宫城县有关人士等共70人以上的访谈内容。乐曲解说、剧场版及电视动画各话解说及故事年表、各话评论、分镜内容等也一同收录。此外还包含监督、剧本、制作人三方对各话的评论及解说词、人物设定、美术设定及刊登在其他媒体上的四格漫画、仙台当地的介绍和Wake Up, Girls\!的关联商品内容。
 
 <!-- end list -->
 
   - Wake Up, Girls\! Visual Collection
-    2014年9月22日发售。ISBN 978-4-05-406146-0。包含动画版Wake
-    Up,Girls\!大部分的版权绘和声优照片。另外包含两张『Wake
-    Up,Girls\!』的入浴海报。
+    2014年9月22日发售。ISBN 978-4-05-406146-0。包含动画版Wake Up,Girls\!大部分的版权绘和声优照片。另外包含两张『Wake Up,Girls\!』的入浴海报。
 
 ### \-{zh-hans:社交;zh-hant:社群}-遊戲
 
@@ -1624,9 +1498,7 @@ story』。脚本由松田恵里子担当\[35\]。此外在动画中没有进行
 <!-- end list -->
 
   -
-    由乐天游戏于2018年5月11日公开的一款[HTML5](../Page/HTML5.md "wikilink")标准的PC/手机网页游戏\[37\]，以动画「Wake
-    Up, Girls\!
-    新章」为基础进行开发，同时开启了事前注册。2018年8月20日正式上线运营。游戏初期不限制IP登录地址，22日早上开始仅限日本IP登录，非日本IP会显示“该游戏在你的国家不受支持”。已于2019年7月9日终止服务\[38\]。
+    由乐天游戏于2018年5月11日公开的一款[HTML5](../Page/HTML5.md "wikilink")标准的PC/手机网页游戏\[37\]，以动画「Wake Up, Girls\! 新章」为基础进行开发，同时开启了事前注册。2018年8月20日正式上线运营。游戏初期不限制IP登录地址，22日早上开始仅限日本IP登录，非日本IP会显示“该游戏在你的国家不受支持”。已于2019年7月9日终止服务\[38\]。
 
 ### CD
 
@@ -1687,17 +1559,9 @@ story』。脚本由松田恵里子担当\[35\]。此外在动画中没有进行
   - 剧场版 七位偶像
     初回限定版的封入特典为剧场版主题曲CD「タチアガレ！」，另外包含录音时吉冈茉祐使用的复制剧本、特制小册子、SNS游戏限定序列号。与初回限定版同时发售的剧场限定版除了上述特典外、还增加剧场版主题曲『タチアガレ！』的6人版本CD和角色的亲笔签名版。剧场限定版仅限使用在剧场中抽选的序号购买。
   - TV版
-    全6卷。仅第一卷初回特典包含Wake Up, Girls\!1st
-    LiveTour「素人臭くてごめんね！」优先申请券，其余各卷初回特典包含复制版的配音剧本（第1卷吉岡茉祐、第2卷高木美佑、第3卷田中美海、第4卷永野愛理、第5卷奥野香耶、第6卷青山吉能）；内容为SNS游戏『Wake
-    Up, Girls\! 舞台天使』
-    限定序列号、收录集数内容解说、人物设定、声优访谈和活动的特制小册子，还有动画插入曲CD（第2卷）、[Drama
-    CD等](https://zh.wikipedia.org/wiki/Drama_CD "wikilink")；映像特典为舞蹈教学动画『Wake
-    Up, Dance\!』（剧场版・第1卷タチアガレ\!、第2・3卷7 Girls
-    War、第4・5卷言の葉青葉）、还有介绍BD封面角色声优的影像『Wake
-    Up, Introduction\!』。
+    全6卷。仅第一卷初回特典包含Wake Up, Girls\!1st LiveTour「素人臭くてごめんね！」优先申请券，其余各卷初回特典包含复制版的配音剧本（第1卷吉岡茉祐、第2卷高木美佑、第3卷田中美海、第4卷永野愛理、第5卷奥野香耶、第6卷青山吉能）；内容为SNS游戏『Wake Up, Girls\! 舞台天使』 限定序列号、收录集数内容解说、人物设定、声优访谈和活动的特制小册子，还有动画插入曲CD（第2卷）、[Drama CD等](https://zh.wikipedia.org/wiki/Drama_CD "wikilink")；映像特典为舞蹈教学动画『Wake Up, Dance\!』（剧场版・第1卷タチアガレ\!、第2・3卷7 Girls War、第4・5卷言の葉青葉）、还有介绍BD封面角色声优的影像『Wake Up, Introduction\!』。
   - 続・劇場版
-    「青春之影」「Beyond the bottom」全2卷。均有剧场限定版，比初回限定版早一个月发售。剧场限定版附赠Drama
-    CD和特典CD。
+    「青春之影」「Beyond the bottom」全2卷。均有剧场限定版，比初回限定版早一个月发售。剧场限定版附赠Drama CD和特典CD。
 
 <table>
 <thead>
@@ -1844,21 +1708,15 @@ Wake Up, Girls!Festa.2017 TRINITY</p></td>
 
 ### Wake Up, Girls\! 山本寛アワー ワグっていいとも！
 
-2013年11月到2014年3月期间不定期在[niconico直播上播出的真人节目](https://zh.wikipedia.org/wiki/niconico "wikilink")。共5回。由Wake
-Up,
-Girls\!成员负责主持，I-1的成员也会偶尔出场客串。介绍电视动画及剧场版情报、路演活动和周边商品等内容的真人节目。虽然名为「山本寛アワー」、但山本宽并不会出演。
+2013年11月到2014年3月期间不定期在[niconico直播上播出的真人节目](https://zh.wikipedia.org/wiki/niconico "wikilink")。共5回。由Wake Up, Girls\!成员负责主持，I-1的成员也会偶尔出场客串。介绍电视动画及剧场版情报、路演活动和周边商品等内容的真人节目。虽然名为「山本寛アワー」、但山本宽并不会出演。
 
 ### Wake Up, Radio\!
 
-2014年5月12日到2015年12月11日期间播放的清谈电台节目。节目由Wake Up,
-Girls\!的其中三名成员主持，每周替换一次。在niconico频道的超\![Animedia](../Page/Animedia.md "wikilink")上发布。
+2014年5月12日到2015年12月11日期间播放的清谈电台节目。节目由Wake Up, Girls\!的其中三名成员主持，每周替换一次。在niconico频道的超\![Animedia](../Page/Animedia.md "wikilink")上发布。
 
-本来仅仅是作为2013年秋冬开始举办共计4场的路演活动上的虚拟企划，在2014年4月27日举行的「Wake Up, Girls\!FESTA.
-イベント、やらせてください\!」上以『帰ってきたWake Up, Radio（仮）』的名字再次开展时宣布正式成为常规节目。
+本来仅仅是作为2013年秋冬开始举办共计4场的路演活动上的虚拟企划，在2014年4月27日举行的「Wake Up, Girls\!FESTA. イベント、やらせてください\!」上以『帰ってきたWake Up, Radio（仮）』的名字再次开展时宣布正式成为常规节目。
 
-首先在2014年5月11日在niconico直播上播放特别节目「Wake Up, Radio\!
-＜生＞ラジオ配信開始直前スペシャル」，于次日5月12日开始每日中午更新一集（周末除外）。每集约10分钟，原则上由Wake
-Up, Girls\!的其中两名成员搭档主持，每周替换。
+首先在2014年5月11日在niconico直播上播放特别节目「Wake Up, Radio\! ＜生＞ラジオ配信開始直前スペシャル」，于次日5月12日开始每日中午更新一集（周末除外）。每集约10分钟，原则上由Wake Up, Girls\!的其中两名成员搭档主持，每周替换。
 
 2014年10月10日的第101集开始扩展为约30分钟的节目，每周周五中午播放新一集。主持人变成三人一组的形式。
 
@@ -1870,31 +1728,22 @@ Up, Girls\!的其中两名成员搭档主持，每周替换。
 
 ### Wake Up, Girls\!のオールナイトニッポンモバイル
 
-由Wake Up,
-Girls\!其中一名成员交替主持的电台清谈节目。于[日本放送](../Page/日本放送.md "wikilink")电台上播放。
+由Wake Up, Girls\!其中一名成员交替主持的电台清谈节目。于[日本放送](../Page/日本放送.md "wikilink")电台上播放。
 
-于2014年11月19日开始以「目指せ幕張！決起集会ラジオ」为题开展的宣传活动，主要目的是宣传同年12月14日在幕张举行的「Wake Up,
-Girls！Festa.2014 Winter 〜Wake Up, Girls！VS
-I-1club〜」，当时共播放8集，仅第0集是7名成员同时登场。第1集开始每集分为前篇和后篇，后篇部分为有偿内容，需付费购买。
-在幕张的活动上宣布自2014年12月24日开始本节目将继续播放，成为常规节目。2016年3月2日播放结束。
+于2014年11月19日开始以「目指せ幕張！決起集会ラジオ」为题开展的宣传活动，主要目的是宣传同年12月14日在幕张举行的「Wake Up, Girls！Festa.2014 Winter 〜Wake Up, Girls！VS I-1club〜」，当时共播放8集，仅第0集是7名成员同时登场。第1集开始每集分为前篇和后篇，后篇部分为有偿内容，需付费购买。 在幕张的活动上宣布自2014年12月24日开始本节目将继续播放，成为常规节目。2016年3月2日播放结束。
 
 ### Wake Up, Girls\!のオールナイトスッポン
 
-以『Wake Up,
-Girls\!のオールナイトニッポンモバイル』为基础的改版电台节目，2016年4月1日于[9129Suppon放送和](https://zh.wikipedia.org/wiki/9129Suppon放送 "wikilink")[Radital上开始播放](https://zh.wikipedia.org/wiki/Radital "wikilink")。每周五10点更新，由Wake
-Up,
-Girls\!其中一名成员交替主持。Radital服务停止后改为在[SoundCloud](../Page/SoundCloud.md "wikilink")上发布。2017年8月25日播放结束。
+以『Wake Up, Girls\!のオールナイトニッポンモバイル』为基础的改版电台节目，2016年4月1日于[9129Suppon放送和](https://zh.wikipedia.org/wiki/9129Suppon放送 "wikilink")[Radital上开始播放](https://zh.wikipedia.org/wiki/Radital "wikilink")。每周五10点更新，由Wake Up, Girls\!其中一名成员交替主持。Radital服务停止后改为在[SoundCloud](../Page/SoundCloud.md "wikilink")上发布。2017年8月25日播放结束。
 
 ### Wake Up, Girls\!のがんばっぺレディオ！
 
-2016年4月8日开始在[音泉](../Page/音泉.md "wikilink")和[HiBiKi Radio
-Station上播放的网络电台节目](https://zh.wikipedia.org/wiki/HiBiKi_Radio_Station "wikilink")。每周五更新，主持人每月更换一次，嘉宾每集2名，每2集更换一次。2018年6月15日组合宣布于2019年3月解散后，改为不定期播出。2018年8月31日恢复播放，出演人员变成2名，每集更换。
+2016年4月8日开始在[音泉](../Page/音泉.md "wikilink")和[HiBiKi Radio Station上播放的网络电台节目](https://zh.wikipedia.org/wiki/HiBiKi_Radio_Station "wikilink")。每周五更新，主持人每月更换一次，嘉宾每集2名，每2集更换一次。2018年6月15日组合宣布于2019年3月解散后，改为不定期播出。2018年8月31日恢复播放，出演人员变成2名，每集更换。
 
 ## 相关事件
 
   - 本作是一部為應援在2011年東日本大地震中受災的東北地區的作品。擔任主演的7位偶像[聲優](../Page/聲優.md "wikilink")候補將選用來自avex和81produce的新人\[39\]。
-  - 作品監督[山本寬](../Page/山本寬.md "wikilink")在2014年1月12日角川新宿劇場舉辦的作品見面會上，對於作品中出現的種種問題表示
-    “是我水準不夠，全部都是我的責任”，“今後一定會做出補救的”。並在三日後，在[推特上發文](https://zh.wikipedia.org/wiki/推特 "wikilink")，希望能招募義工幫助工作室度過難關\[40\]\[41\]。
+  - 作品監督[山本寬](../Page/山本寬.md "wikilink")在2014年1月12日角川新宿劇場舉辦的作品見面會上，對於作品中出現的種種問題表示 “是我水準不夠，全部都是我的責任”，“今後一定會做出補救的”。並在三日後，在[推特上發文](https://zh.wikipedia.org/wiki/推特 "wikilink")，希望能招募義工幫助工作室度過難關\[40\]\[41\]。
   - 有觀眾投訴動畫中7位偶像穿著[校服](../Page/校服.md "wikilink")跳舞卻有露出[內褲的畫面](https://zh.wikipedia.org/wiki/內褲 "wikilink")，認為不妥。動畫的第三集之後更换了主題曲畫面。
 
 ## 參考資料
@@ -1907,10 +1756,7 @@ Station上播放的网络电台节目](https://zh.wikipedia.org/wiki/HiBiKi_Radi
 
   - [電視動畫《Wake Up, Girls！》東京電視台官網](http://www.tv-tokyo.co.jp/anime/wug/)
 
-
-  - [電視動畫《Wake Up,
-    Girls！新章！》東京電視台官網](http://www.tv-tokyo.co.jp/anime/wug3/)
-
+  - [電視動畫《Wake Up, Girls！新章！》東京電視台官網](http://www.tv-tokyo.co.jp/anime/wug3/)
 
   -
 
@@ -1928,28 +1774,15 @@ Station上播放的网络电台节目](https://zh.wikipedia.org/wiki/HiBiKi_Radi
 
   -
 
-[Category:Wake_Up,_Girls\!](https://zh.wikipedia.org/wiki/Category:Wake_Up,_Girls! "wikilink")
-[Category:2014年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2014年東京電視網動畫 "wikilink")
-[Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:龍之子Production](https://zh.wikipedia.org/wiki/Category:龍之子Production "wikilink")
-[Category:AT-X動畫](https://zh.wikipedia.org/wiki/Category:AT-X動畫 "wikilink")
-[Category:仙台市背景作品](https://zh.wikipedia.org/wiki/Category:仙台市背景作品 "wikilink")
-[Category:偶像題材動畫](https://zh.wikipedia.org/wiki/Category:偶像題材動畫 "wikilink")
-[Category:東日本大震災題材作品](https://zh.wikipedia.org/wiki/Category:東日本大震災題材作品 "wikilink")
-[Category:2014年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2014年日本劇場動畫 "wikilink")
-[Category:2015年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2015年日本劇場動畫 "wikilink")
-[Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
+[Category:Wake_Up,_Girls\!](https://zh.wikipedia.org/wiki/Category:Wake_Up,_Girls! "wikilink") [Category:2014年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2014年東京電視網動畫 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:龍之子Production](https://zh.wikipedia.org/wiki/Category:龍之子Production "wikilink") [Category:AT-X動畫](https://zh.wikipedia.org/wiki/Category:AT-X動畫 "wikilink") [Category:仙台市背景作品](https://zh.wikipedia.org/wiki/Category:仙台市背景作品 "wikilink") [Category:偶像題材動畫](https://zh.wikipedia.org/wiki/Category:偶像題材動畫 "wikilink") [Category:東日本大震災題材作品](https://zh.wikipedia.org/wiki/Category:東日本大震災題材作品 "wikilink") [Category:2014年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2014年日本劇場動畫 "wikilink") [Category:2015年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2015年日本劇場動畫 "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink")
 
 1.
 
 2.  龍之子製作公司在劇場版第2作改成以製作委員會方式參加。
 
-3.  [テレビアニメ『Wake Up ,
-    Girls！新章』は2017年10月放送決定！](https://www.famitsu.com/news/201707/23138241.html)，[Fami通](../Page/Fami通.md "wikilink")網站，2017年7月23日閲覧。
+3.  [テレビアニメ『Wake Up , Girls！新章』は2017年10月放送決定！](https://www.famitsu.com/news/201707/23138241.html)，[Fami通](../Page/Fami通.md "wikilink")網站，2017年7月23日閲覧。
 
-4.  [第九回聲優Awards，先行發表受獎者](http://seiyuawards.jp/201502/17131500.php)
-    ，聲優Awards官方網站，2015年8月8日閲覧。
+4.  [第九回聲優Awards，先行發表受獎者](http://seiyuawards.jp/201502/17131500.php) ，聲優Awards官方網站，2015年8月8日閲覧。
 
 5.  動畫第一話
 
@@ -1972,27 +1805,20 @@ Station上播放的网络电台节目](https://zh.wikipedia.org/wiki/HiBiKi_Radi
 17.
 18. 台灣譯名。
 
-19. [テレビアニメ『Wake Up, Girls！
-    新章』は2017年10月放送決定！](https://www.famitsu.com/news/201707/23138241.html)，[Fami通](../Page/Fami通.md "wikilink")網站，2017年7月23日閲覧。
+19. [テレビアニメ『Wake Up, Girls！ 新章』は2017年10月放送決定！](https://www.famitsu.com/news/201707/23138241.html)，[Fami通](../Page/Fami通.md "wikilink")網站，2017年7月23日閲覧。
 
 20.
-21. [ヤマカンのオリジナルアニメ「Wake Up, Girls！」、続編となる劇場版を2015年内に公開！
-    仙台のアイドルたちが東京へ進出](https://akiba-souken.com/article/22248/)、アキバ総研、2014年12月15日配信、2014年12月17日閲覧
+21. [ヤマカンのオリジナルアニメ「Wake Up, Girls！」、続編となる劇場版を2015年内に公開！ 仙台のアイドルたちが東京へ進出](https://akiba-souken.com/article/22248/)、アキバ総研、2014年12月15日配信、2014年12月17日閲覧
 
-22. [Wake Up,
-    Girls！、「続･劇場版」は2部作（前後篇）として9月と12月に公開！　新ビジュアルや監督/声優コメントも到着](https://akiba-souken.com/article/23106/)、アキバ総研、2015年3月18日配信、2015年3月19日閲覧
+22. [Wake Up, Girls！、「続･劇場版」は2部作（前後篇）として9月と12月に公開！　新ビジュアルや監督/声優コメントも到着](https://akiba-souken.com/article/23106/)、アキバ総研、2015年3月18日配信、2015年3月19日閲覧
 
-23. [Wake Up, Girls\!、ニューシングル「少女交響曲」を8月26日に発売！　約1年半ぶりの新曲は「続･劇場版
-    前篇」の主題歌](https://akiba-souken.com/article/23995/)、アキバ総研、2015年6月20日配信、2015年6月20日閲覧
+23. [Wake Up, Girls\!、ニューシングル「少女交響曲」を8月26日に発売！　約1年半ぶりの新曲は「続･劇場版 前篇」の主題歌](https://akiba-souken.com/article/23995/)、アキバ総研、2015年6月20日配信、2015年6月20日閲覧
 
-24. [Wake Up, Girls\! 炎の七番勝負 ヤマカン出てこいやー\!」
-    物販開始時間とステージ詳細のご案内](http://wakeupgirls.jp/news_detail.php?id=1006150)（2013年[12月22日](../Page/12月22日.md "wikilink")配信、2014年[1月18日](../Page/1月18日.md "wikilink")閲覧）
+24. [Wake Up, Girls\! 炎の七番勝負 ヤマカン出てこいやー\!」 物販開始時間とステージ詳細のご案内](http://wakeupgirls.jp/news_detail.php?id=1006150)（2013年[12月22日](../Page/12月22日.md "wikilink")配信、2014年[1月18日](../Page/1月18日.md "wikilink")閲覧）
 
-25. [「Wake Up, Girls\! 炎の七番勝負 ヤマカン出てこいやー\!」
-    物販情報](http://wakeupgirls.jp/news_detail.php?id=1006031)（2013年12月15日配信、2014年1月18日閲覧）
+25. [「Wake Up, Girls\! 炎の七番勝負 ヤマカン出てこいやー\!」 物販情報](http://wakeupgirls.jp/news_detail.php?id=1006031)（2013年12月15日配信、2014年1月18日閲覧）
 
-26. 学研パブリッシング発行、学研マーケティング発売、「Wake Up,Girls\! COMPLETE BOOK
-    WUGpedia」、136頁
+26. 学研パブリッシング発行、学研マーケティング発売、「Wake Up,Girls\! COMPLETE BOOK WUGpedia」、136頁
 
 27.
 
@@ -2000,8 +1826,7 @@ Station上播放的网络电台节目](https://zh.wikipedia.org/wiki/HiBiKi_Radi
 
 29.
 
-30. [舞台「Wake Up, Girls！ 青葉の記録」
-    パンフレット](http://wug-stage.com/news/detail.php?id=1044879)
+30. [舞台「Wake Up, Girls！ 青葉の記録」 パンフレット](http://wug-stage.com/news/detail.php?id=1044879)
 
 31.
 
@@ -2011,8 +1836,7 @@ Station上播放的网络电台节目](https://zh.wikipedia.org/wiki/HiBiKi_Radi
 
 34.
 
-35. [オーディオブック「小説版 Wake Up, Girls！ それぞれの姿」 -
-    Febe\!](http://www.febe.jp/documents/special/wakeupgirls/)(2015年7月1日)
+35. [オーディオブック「小説版 Wake Up, Girls！ それぞれの姿」 - Febe\!](http://www.febe.jp/documents/special/wakeupgirls/)(2015年7月1日)
 
 36.
 

@@ -2,15 +2,11 @@
 
 ## 概要
 
-本作品為包含《[SDGUNDAMFORCE](https://zh.wikipedia.org/wiki/SDGUNDAMFORCE "wikilink")》與《[SD
-GUNDAM三國傳BraveBattleWarriors](../Page/SD_GUNDAM三國傳BraveBattleWarriors.md "wikilink")》在內的「[GUNDAM系列](../Page/GUNDAM系列作品.md "wikilink")」第15部作品，同時也是系列再次以將鋼彈系列作品中的兵器立體化的塑膠模型產品，通稱「GUNPLA」的系列為主題的作品。
+本作品為包含《[SDGUNDAMFORCE](https://zh.wikipedia.org/wiki/SDGUNDAMFORCE "wikilink")》與《[SD GUNDAM三國傳BraveBattleWarriors](../Page/SD_GUNDAM三國傳BraveBattleWarriors.md "wikilink")》在內的「[GUNDAM系列](../Page/GUNDAM系列作品.md "wikilink")」第15部作品，同時也是系列再次以將鋼彈系列作品中的兵器立體化的塑膠模型產品，通稱「GUNPLA」的系列為主題的作品。
 
-本作的原型應當是[模型戰士GUNDAM模型製作家
-起始G](../Page/模型戰士GUNDAM模型製作家_起始G.md "wikilink")，是第一次把高達回歸虛構的遊戲動畫，從現實的人的角度看和玩鋼彈系列，而類似的漫畫作品本首見[模型神童狂四郎](https://zh.wikipedia.org/wiki/模型神童狂四郎 "wikilink")。
+本作的原型應當是[模型戰士GUNDAM模型製作家 起始G](../Page/模型戰士GUNDAM模型製作家_起始G.md "wikilink")，是第一次把高達回歸虛構的遊戲動畫，從現實的人的角度看和玩鋼彈系列，而類似的漫畫作品本首見[模型神童狂四郎](https://zh.wikipedia.org/wiki/模型神童狂四郎 "wikilink")。
 
-2014年5月15日，萬代公佈了該系列的新企劃——「NEXT FIGHTERS
-STANDBY」，並於2014年7月17日宣佈新作名為《**GUNDAM創戰者TRY**》\[1\]，預定于2014年10月放映。
-本作除了将历代高达以改装、改色或无变动的造型再度出场外，剧中还会看到前作大部分高达的角色作为路人出现，可以是驾驶员的长相与原作极为相似，或是前作角色在同一画面中出现作为路人背景
+2014年5月15日，萬代公佈了該系列的新企劃——「NEXT FIGHTERS STANDBY」，並於2014年7月17日宣佈新作名為《**GUNDAM創戰者TRY**》\[1\]，預定于2014年10月放映。 本作除了将历代高达以改装、改色或无变动的造型再度出场外，剧中还会看到前作大部分高达的角色作为路人出现，可以是驾驶员的长相与原作极为相似，或是前作角色在同一画面中出现作为路人背景
 
 ## 故事簡介
 
@@ -123,14 +119,12 @@ STANDBY」，並於2014年7月17日宣佈新作名為《**GUNDAM創戰者TRY**�
 ### 第一季
 
   -
-    由伊織誠親手製作完成的鋼彈模型，是以在《[機動戰士GUNDAM
-    SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")》當中登場的「[攻擊GUNDAM](https://zh.wikipedia.org/wiki/GAT-X105_攻擊GUNDAM "wikilink")」來做為改造的原型。
+    由伊織誠親手製作完成的鋼彈模型，是以在《[機動戰士GUNDAM SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")》當中登場的「[攻擊GUNDAM](https://zh.wikipedia.org/wiki/GAT-X105_攻擊GUNDAM "wikilink")」來做為改造的原型。
 
 <!-- end list -->
 
   -
-    以[機動戰士Z
-    GUNDAM中登場的](../Page/機動戰士Z_GUNDAM.md "wikilink")「[鋼彈MK-II](https://zh.wikipedia.org/wiki/RX-178系列機動戰士 "wikilink")」為基礎、伊織誠假設泰坦斯推出改良版MK-II四號機的原創版本，參考蓋布蘭及G防衛者設計而成。在設定上是運用了舊式骨架，但這個版本的骨架是全新的。
+    以[機動戰士Z GUNDAM中登場的](../Page/機動戰士Z_GUNDAM.md "wikilink")「[鋼彈MK-II](https://zh.wikipedia.org/wiki/RX-178系列機動戰士 "wikilink")」為基礎、伊織誠假設泰坦斯推出改良版MK-II四號機的原創版本，參考蓋布蘭及G防衛者設計而成。在設定上是運用了舊式骨架，但這個版本的骨架是全新的。
 
 ## 科技
 
@@ -140,15 +134,13 @@ STANDBY」，並於2014年7月17日宣佈新作名為《**GUNDAM創戰者TRY**�
 <!-- end list -->
 
   -
-    鋼彈模型對戰時使用的特殊粒子，在十年前被發現。它會對用來製作鋼彈模型的塑膠素材產生反應，使操作者可以從模型外部進行流體式的操作。此外，透過這種粒子的變化效果，可以顯示出光束兵器或是爆炸等效果，讓鋼彈模型間的對戰，看起來更具臨場感。
-    因為帕拉夫斯基粒子的存在，原本不能動的鋼彈模型有了生命， 可以進行究極的鋼彈模型對戰。
+    鋼彈模型對戰時使用的特殊粒子，在十年前被發現。它會對用來製作鋼彈模型的塑膠素材產生反應，使操作者可以從模型外部進行流體式的操作。此外，透過這種粒子的變化效果，可以顯示出光束兵器或是爆炸等效果，讓鋼彈模型間的對戰，看起來更具臨場感。 因為帕拉夫斯基粒子的存在，原本不能動的鋼彈模型有了生命， 可以進行究極的鋼彈模型對戰。
     實際上是大型寶石「-{zh-hk:阿利斯達之星;}-」經粒子化後而成的反粒子，而這祕密也很少人知道。
 
 <!-- end list -->
 
   -
-    鋼彈模型對戰會在特定的戰鬥系統上進行。 將內含鋼彈模型製作資料的「GP
-    BASE」跟鋼彈模型，設置在戰鬥系統內之後，系統就會開始散佈被稱為「帕拉夫斯基」的特殊粒子，並且在固定範圍內隨機形成對戰場景。
+    鋼彈模型對戰會在特定的戰鬥系統上進行。 將內含鋼彈模型製作資料的「GP BASE」跟鋼彈模型，設置在戰鬥系統內之後，系統就會開始散佈被稱為「帕拉夫斯基」的特殊粒子，並且在固定範圍內隨機形成對戰場景。
 
 <!-- end list -->
 
@@ -159,8 +151,7 @@ STANDBY」，並於2014年7月17日宣佈新作名為《**GUNDAM創戰者TRY**�
 ## 用語
 
   -
-    前者意指擅長操作模型進行對戰的人，而後者意指善於模型製作的人。有的人善於前者而不擅長後者，反之亦然，因此也時有操作者和製作者合作的例子（如誠和嶺司的搭檔）。而同時具備兩者的人，則被稱為「創鬥者」（ビルドファイターズ，Build
-    Fighter）。
+    前者意指擅長操作模型進行對戰的人，而後者意指善於模型製作的人。有的人善於前者而不擅長後者，反之亦然，因此也時有操作者和製作者合作的例子（如誠和嶺司的搭檔）。而同時具備兩者的人，則被稱為「創鬥者」（ビルドファイターズ，Build Fighter）。
 
 <!-- end list -->
 
@@ -184,8 +175,7 @@ STANDBY」，並於2014年7月17日宣佈新作名為《**GUNDAM創戰者TRY**�
 <!-- end list -->
 
   -
-    正式名稱為「帕拉夫斯基粒子系統工程公司」（Plavsky Particle System
-    Engineering），是製造帕拉夫斯基粒子以及對戰系統的公司，在每年的世界大賽上擁有種子權。
+    正式名稱為「帕拉夫斯基粒子系統工程公司」（Plavsky Particle System Engineering），是製造帕拉夫斯基粒子以及對戰系統的公司，在每年的世界大賽上擁有種子權。
 
 <!-- end list -->
 
@@ -412,8 +402,7 @@ NAOKI</p></td>
   -
 
       -
-        作詞：黑田洋介，作曲：NARASAKI，編曲：Sadesper
-        Record，歌：KIRARA（[悠木碧](../Page/悠木碧.md "wikilink")）（レーベル：ランティス）
+        作詞：黑田洋介，作曲：NARASAKI，編曲：Sadesper Record，歌：KIRARA（[悠木碧](../Page/悠木碧.md "wikilink")）（レーベル：ランティス）
 
 <!-- end list -->
 
@@ -450,8 +439,7 @@ NAOKI</p></td>
   -
 
       -
-        作詞：勇-YOU-，作曲、編曲：太田雅友，主唱：[SCREEN
-        mode](../Page/SCREEN_mode.md "wikilink")
+        作詞：勇-YOU-，作曲、編曲：太田雅友，主唱：[SCREEN mode](../Page/SCREEN_mode.md "wikilink")
         第1話未使用。
 
 ::;「」（第14－25話）
@@ -473,9 +461,7 @@ NAOKI</p></td>
   -
 
       -
-        作詞：cAnOn、Elizabeth
-        Elias，作曲、編曲：[林友樹](https://zh.wikipedia.org/wiki/林友樹 "wikilink")，主唱：Elizabeth
-        Elias
+        作詞：cAnOn、Elizabeth Elias，作曲、編曲：[林友樹](https://zh.wikipedia.org/wiki/林友樹 "wikilink")，主唱：Elizabeth Elias
 
 <!-- end list -->
 
@@ -1175,12 +1161,7 @@ NAOKI</p></td>
 </tbody>
 </table>
 
-  - 補充：於本作第一季第23集中，有多部過往**GUNDAM**作品的人物現身於劇中，如[機動戰士Z
-    GUNDAM的](../Page/機動戰士Z_GUNDAM.md "wikilink")[哈曼·坎恩](https://zh.wikipedia.org/wiki/哈曼·坎恩 "wikilink")；[機動戰士GUNDAM
-    0080：口袋裡的戰爭的阿爾弗烈德](../Page/機動戰士GUNDAM_0080：口袋裡的戰爭.md "wikilink")·伊茲魯哈、克莉絲汀娜·麥肯錫；[機動武鬥傳G
-    GUNDAM的多蒙](../Page/機動武鬥傳G_GUNDAM.md "wikilink")·卡修一家、莉英·米加姆拉；[機動新世紀GUNDAM
-    X的夏基亞](../Page/機動新世紀GUNDAM_X.md "wikilink")·佛羅斯特、奧魯巴·佛羅斯特；[機動戰士GUNDAM
-    00的克莉絲汀](../Page/機動戰士GUNDAM_00.md "wikilink")·席耶拉、里西典達爾·傑利等。
+  - 補充：於本作第一季第23集中，有多部過往**GUNDAM**作品的人物現身於劇中，如[機動戰士Z GUNDAM的](../Page/機動戰士Z_GUNDAM.md "wikilink")[哈曼·坎恩](https://zh.wikipedia.org/wiki/哈曼·坎恩 "wikilink")；[機動戰士GUNDAM 0080：口袋裡的戰爭的阿爾弗烈德](../Page/機動戰士GUNDAM_0080：口袋裡的戰爭.md "wikilink")·伊茲魯哈、克莉絲汀娜·麥肯錫；[機動武鬥傳G GUNDAM的多蒙](../Page/機動武鬥傳G_GUNDAM.md "wikilink")·卡修一家、莉英·米加姆拉；[機動新世紀GUNDAM X的夏基亞](../Page/機動新世紀GUNDAM_X.md "wikilink")·佛羅斯特、奧魯巴·佛羅斯特；[機動戰士GUNDAM 00的克莉絲汀](../Page/機動戰士GUNDAM_00.md "wikilink")·席耶拉、里西典達爾·傑利等。
 
 ### 特別編
 
@@ -1516,83 +1497,55 @@ NAOKI</p></td>
   - 第一季 官網-{zh-hans:链接;zh-hant:連結;}-
       - [鋼彈創鬥者第一季公式官網](http://www.gundam-bf.net/2013/)
 
-      - [鋼彈創鬥者
-        官網](https://web.archive.org/web/20131002234711/http://tw.gundam.info/topics/white/25866)在
-        -{GUNDAM.INFO}-
+      - [鋼彈創鬥者 官網](https://web.archive.org/web/20131002234711/http://tw.gundam.info/topics/white/25866)在 -{GUNDAM.INFO}-
 
-      - [高達創戰者
-        官網](https://web.archive.org/web/20131021031633/http://hk.gundam.info/topics/white/25867)在
-        -{GUNDAM.INFO}-
+      - [高達創戰者 官網](https://web.archive.org/web/20131021031633/http://hk.gundam.info/topics/white/25867)在 -{GUNDAM.INFO}-
 
-      - [敢达创战者
-        官网](https://web.archive.org/web/20131019071652/http://cn.gundam.info/topics/white/25865)在
-        -{GUNDAM.INFO}-
+      - [敢达创战者 官网](https://web.archive.org/web/20131019071652/http://cn.gundam.info/topics/white/25865)在 -{GUNDAM.INFO}-
 
-      - [高-{}-達創-{}-戰者
-        TVB官方網站](http://programme.tvb.com/animation/gundambuildfighters)
+      - [高-{}-達創-{}-戰者 TVB官方網站](http://programme.tvb.com/animation/gundambuildfighters)
 
 <!-- end list -->
 
   - 第二季 官網-{zh-hans:链接;zh-hant:連結;}-
       - [鋼彈創鬥者TRY第二季 公式官網](http://www.gundam-bf.net/)
 
-      - [鋼彈創鬥者TRY第二季
-        東京電視台官網](http://www.tv-tokyo.co.jp/anime/gundambf/index2.html)
+      - [鋼彈創鬥者TRY第二季 東京電視台官網](http://www.tv-tokyo.co.jp/anime/gundambf/index2.html)
 
-      - [鋼彈創鬥者TRY第二季
-        AT-X電視台日文介紹官網](http://www.at-x.com/program/detail/5733)
+      - [鋼彈創鬥者TRY第二季 AT-X電視台日文介紹官網](http://www.at-x.com/program/detail/5733)
 
       - [鋼彈創鬥者TRY第二季 BS11電視台日文介紹官網](http://www.bs11.jp/anime/2758/)
 
-      - [鋼-{}-彈創-{}-鬥者TRY
-        官網](https://web.archive.org/web/20141104065923/http://tw.gundam.info/topics/white/34831)在
-        -{GUNDAM.INFO}-
+      - [鋼-{}-彈創-{}-鬥者TRY 官網](https://web.archive.org/web/20141104065923/http://tw.gundam.info/topics/white/34831)在 -{GUNDAM.INFO}-
 
-      - [高-{}-達創-{}-戰者TRY
-        官網](https://web.archive.org/web/20141104065828/http://hk.gundam.info/topics/white/34829)在
-        -{GUNDAM.INFO}-
+      - [高-{}-達創-{}-戰者TRY 官網](https://web.archive.org/web/20141104065828/http://hk.gundam.info/topics/white/34829)在 -{GUNDAM.INFO}-
 
-      - [敢-{}-达创-{}-战者TRY
-        官网](https://web.archive.org/web/20141104070435/http://cn.gundam.info/topics/white/34832)在
-        -{GUNDAM.INFO}-
+      - [敢-{}-达创-{}-战者TRY 官网](https://web.archive.org/web/20141104070435/http://cn.gundam.info/topics/white/34832)在 -{GUNDAM.INFO}-
 
-      - [高-{}-達創-{}-戰者TRY
-        TVB官方網站](http://programme.tvb.com/animation/gundambuildfighterstry)
+      - [高-{}-達創-{}-戰者TRY TVB官方網站](http://programme.tvb.com/animation/gundambuildfighterstry)
 
 <!-- end list -->
 
   - 動畫直播-{zh-hans:链接;zh-hant:連結;}-
       - [鋼彈創鬥者第一季 爱奇艺中文播放专区](http://www.iqiyi.com/a_19rrgjaks5.html)
 
-      - [鋼彈創鬥者第一季 繁體中文字幕独播专区](http://tw.gundam.info/movie/white/159)在
-        -{GUNDAM.INFO}-
+      - [鋼彈創鬥者第一季 繁體中文字幕独播专区](http://tw.gundam.info/movie/white/159)在 -{GUNDAM.INFO}-
 
-      - [敢达创鬥者第一季
-        优酷中文播放专区](http://www.youku.com/show_page/id_z1acf7c98e2e911e29748.html)
+      - [敢达创鬥者第一季 优酷中文播放专区](http://www.youku.com/show_page/id_z1acf7c98e2e911e29748.html)
 
-      - [敢达创鬥者第一季
-        土豆中文播放专区](http://www.tudou.com/albumcover/20XSLXv_WuM.html)
+      - [敢达创鬥者第一季 土豆中文播放专区](http://www.tudou.com/albumcover/20XSLXv_WuM.html)
 
-      - [鋼彈創鬥者TRY第二季
-        萬代b-ch頻道網路專題](http://www.b-ch.com/ttl/index.php?ttl_c=4328)
+      - [鋼彈創鬥者TRY第二季 萬代b-ch頻道網路專題](http://www.b-ch.com/ttl/index.php?ttl_c=4328)
 
-      - [鋼彈創鬥者TRY第二季
-        GYAO\!網路專題](http://gyao.yahoo.co.jp/p/00066/v12965/)
+      - [鋼彈創鬥者TRY第二季 GYAO\!網路專題](http://gyao.yahoo.co.jp/p/00066/v12965/)
 
       - [鋼彈創鬥者TRY第二季 爱奇艺中文播放专区](http://www.iqiyi.com/a_19rrhc0r3l.html)
 
-      - [敢达创战者TRY第二季
-        優酷網中文播放专区](http://www.youku.com/show_page/id_z0a038a9e29c411e48b3f.html)
+      - [敢达创战者TRY第二季 優酷網中文播放专区](http://www.youku.com/show_page/id_z0a038a9e29c411e48b3f.html)
 
-      - [敢达创战者TRY第二季
-        土豆網中文播放专区](http://www.tudou.com/albumcover/52Lw1YgzskQ.html)
+      - [敢达创战者TRY第二季 土豆網中文播放专区](http://www.tudou.com/albumcover/52Lw1YgzskQ.html)
 
-[Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink")
-[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
-[Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
-[Category:靜岡市背景作品](https://zh.wikipedia.org/wiki/Category:靜岡市背景作品 "wikilink")
+[Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink") [Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink") [Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:靜岡市背景作品](https://zh.wikipedia.org/wiki/Category:靜岡市背景作品 "wikilink")
 
 1.  [『ガンダムビルドファイターズトライ』ホームページを公開！2014年10月テレビ東京系列にて放送決定！](http://www.sunrise-inc.co.jp/works/news/whatsnew_e.php?id=8050)
 2.  標題以播放時所顯示的字幕為準。

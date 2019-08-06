@@ -17,5 +17,4 @@
 [Category:香港數碼廣播節目](https://zh.wikipedia.org/wiki/Category:香港數碼廣播節目 "wikilink")
 
 1.  [要眼白白看着DBC死亡嗎？](http://hk.apple.nextmedia.com/news/art/20121013/18038839)蘋菓日報，2012年10月13日。
-2.  [思華 ---
-    DBC的喪鐘為你我他而敲。](http://forum.hkej.com/node/93608)信報，2012年10月23日。
+2.  [思華 --- DBC的喪鐘為你我他而敲。](http://forum.hkej.com/node/93608)信報，2012年10月23日。

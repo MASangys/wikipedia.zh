@@ -30,11 +30,7 @@ local labels = {
 
 }
 
-require('Module:No globals') local getArgs =
-require('Module:Arguments').getArgs local list =
-require('Module:List').unbulleted local yesno = require('Module:Yesno')
-local lc = require('Module:WikitextLC').converted local cd =
-require('Module:Chinese date')._main
+require('Module:No globals') local getArgs = require('Module:Arguments').getArgs local list = require('Module:List').unbulleted local yesno = require('Module:Yesno') local lc = require('Module:WikitextLC').converted local cd = require('Module:Chinese date')._main
 
 local p = {}
 

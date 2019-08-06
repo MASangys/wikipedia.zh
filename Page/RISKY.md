@@ -1,5 +1,4 @@
-《**RISKY**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第四张录音室专辑。1990年11月7日由[BMG
-VICTOR於日本發行](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
+《**RISKY**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第四张录音室专辑。1990年11月7日由[BMG VICTOR於日本發行](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 最終銷量約169.6萬張，為日本最暢銷專輯第107名。
 
@@ -18,8 +17,4 @@ VICTOR於日本發行](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 ## 参考文献
 
-[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink")
-[Category:1990年音樂專輯](https://zh.wikipedia.org/wiki/Category:1990年音樂專輯 "wikilink")
-[Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
-[Category:1990年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1990年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink") [Category:1990年音樂專輯](https://zh.wikipedia.org/wiki/Category:1990年音樂專輯 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:1990年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1990年Oricon專輯週榜冠軍作品 "wikilink")

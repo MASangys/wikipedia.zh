@@ -1,12 +1,4 @@
-\-- Module for converting between different representations of numbers.
-See talk page for user documentation. -- For unit tests see:
-[Module:ConvertNumeric/testcases](https://zh.wikipedia.org/wiki/Module:ConvertNumeric/testcases "wikilink")
--- When editing, preview with:
-[Module_talk:ConvertNumeric/testcases](https://zh.wikipedia.org/wiki/Module_talk:ConvertNumeric/testcases "wikilink")
--- First, edit
-[Module:ConvertNumeric/sandbox](https://zh.wikipedia.org/wiki/Module:ConvertNumeric/sandbox "wikilink"),
-then preview with
-[Module_talk:ConvertNumeric/sandbox/testcases](https://zh.wikipedia.org/wiki/Module_talk:ConvertNumeric/sandbox/testcases "wikilink")
+\-- Module for converting between different representations of numbers. See talk page for user documentation. -- For unit tests see: [Module:ConvertNumeric/testcases](https://zh.wikipedia.org/wiki/Module:ConvertNumeric/testcases "wikilink") -- When editing, preview with: [Module_talk:ConvertNumeric/testcases](https://zh.wikipedia.org/wiki/Module_talk:ConvertNumeric/testcases "wikilink") -- First, edit [Module:ConvertNumeric/sandbox](https://zh.wikipedia.org/wiki/Module:ConvertNumeric/sandbox "wikilink"), then preview with [Module_talk:ConvertNumeric/sandbox/testcases](https://zh.wikipedia.org/wiki/Module_talk:ConvertNumeric/sandbox/testcases "wikilink")
 
 local ones_position = {
 
@@ -256,9 +248,7 @@ local eng_lt20 = {
 
 }
 
-\-- Converts a given valid roman numeral (and some invalid roman
-numerals) to a number. Returns -1, errorstring on error local function
-roman_to_numeral(roman)
+\-- Converts a given valid roman numeral (and some invalid roman numerals) to a number. Returns -1, errorstring on error local function roman_to_numeral(roman)
 
 `   if type(roman) ~= "string" then return -1, "roman numeral not a string" end`
 `   local rev = roman:reverse()`
@@ -286,9 +276,7 @@ roman_to_numeral(roman)
 
 end
 
-\-- Converts a given integer between 0 and 100 to English text (e.g. 47
--\> forty-seven) local function numeral_to_english_less_100(num,
-ordinal, plural, zero)
+\-- Converts a given integer between 0 and 100 to English text (e.g. 47 -\> forty-seven) local function numeral_to_english_less_100(num, ordinal, plural, zero)
 
 `   local terminal_ones, terminal_tens`
 `   if ordinal then`
@@ -322,9 +310,7 @@ local function standard_suffix(ordinal, plural)
 
 end
 
-\-- Converts a given integer (in string form) between 0 and 1000 to
-English text (e.g. 47 -\> forty-seven) local function
-numeral_to_english_less_1000(num, use_and, ordinal, plural, zero)
+\-- Converts a given integer (in string form) between 0 and 1000 to English text (e.g. 47 -\> forty-seven) local function numeral_to_english_less_1000(num, use_and, ordinal, plural, zero)
 
 `   num = tonumber(num)`
 `   if num < 100 then`
@@ -337,9 +323,7 @@ numeral_to_english_less_1000(num, use_and, ordinal, plural, zero)
 
 end
 
-\-- Converts an English-text ordinal between 'zeroth' and 'ninety-ninth'
-to a number \[0–99\], else -1 local function
-english_to_ordinal(english)
+\-- Converts an English-text ordinal between 'zeroth' and 'ninety-ninth' to a number \[0–99\], else -1 local function english_to_ordinal(english)
 
 `   local eng = string.lower(english or '')`
 `   `
@@ -365,10 +349,7 @@ english_to_ordinal(english)
 
 end
 
-\-- Converts a number expressed as a string in scientific notation to a
-string in standard decimal notation -- e.g. 1.23E5 -\> 123000, 1.23E-5 =
-.0000123. Conversion is exact, no rounding is performed. local function
-scientific_notation_to_decimal(num)
+\-- Converts a number expressed as a string in scientific notation to a string in standard decimal notation -- e.g. 1.23E5 -\> 123000, 1.23E-5 = .0000123. Conversion is exact, no rounding is performed. local function scientific_notation_to_decimal(num)
 
 `   local exponent, subs = num:gsub("^%-?%d*%.?%d*%-?[Ee]([+%-]?%d+)$", "%1")`
 `   if subs == 0 then return num end  -- Input not in scientific notation, just return unmodified`
@@ -412,8 +393,7 @@ scientific_notation_to_decimal(num)
 
 end
 
-\-- Rounds a number to the nearest integer (NOT USED) local function
-round_num(x)
+\-- Rounds a number to the nearest integer (NOT USED) local function round_num(x)
 
 `   if x%1 >= 0.5 then`
 `       return math.ceil(x)`
@@ -423,12 +403,7 @@ round_num(x)
 
 end
 
-\-- Rounds a number to the nearest two-word number (round = up, down, or
-"on" for round to nearest) -- Numbers with two digits before the decimal
-will be rounded to an integer as specified by round. -- Larger numbers
-will be rounded to a number with only one nonzero digit in front and all
-other digits zero. -- Negative sign is preserved and does not count
-towards word limit. local function round_for_english(num, round)
+\-- Rounds a number to the nearest two-word number (round = up, down, or "on" for round to nearest) -- Numbers with two digits before the decimal will be rounded to an integer as specified by round. -- Larger numbers will be rounded to a number with only one nonzero digit in front and all other digits zero. -- Negative sign is preserved and does not count towards word limit. local function round_for_english(num, round)
 
 `   -- If an integer with at most two digits, just return`
 `   if num:find("^%-?%d?%d%.?$") then return num end`
@@ -489,20 +464,7 @@ local denominators = {
 
 }
 
-\-- Return status, fraction where: -- status is a string: -- "finished"
-if there is a fraction with no whole number; -- "ok" if fraction is
-empty or valid; -- "unsupported" if bad fraction; -- fraction is a
-string giving (numerator / denominator) as English text, or is "". --
-Only unsigned fractions with a very limited range of values are
-supported, -- except that if whole is empty, the numerator can use "-"
-to indicate negative. -- whole (string or nil): nil or "" if no number
-before the fraction -- numerator (string or nil): numerator, if any
-(default = 1 if a denominator is given) -- denominator (string or nil):
-denominator, if any -- sp_us (boolean): true if sp=us -- negative_word
-(string): word to use for negative sign, if whole is empty -- use_one
-(boolean): false: 2+1/2 → "two and a half"; true: "two and one-half"
-local function fraction_to_english(whole, numerator, denominator,
-sp_us, negative_word, use_one)
+\-- Return status, fraction where: -- status is a string: -- "finished" if there is a fraction with no whole number; -- "ok" if fraction is empty or valid; -- "unsupported" if bad fraction; -- fraction is a string giving (numerator / denominator) as English text, or is "". -- Only unsigned fractions with a very limited range of values are supported, -- except that if whole is empty, the numerator can use "-" to indicate negative. -- whole (string or nil): nil or "" if no number before the fraction -- numerator (string or nil): numerator, if any (default = 1 if a denominator is given) -- denominator (string or nil): denominator, if any -- sp_us (boolean): true if sp=us -- negative_word (string): word to use for negative sign, if whole is empty -- use_one (boolean): false: 2+1/2 → "two and a half"; true: "two and one-half" local function fraction_to_english(whole, numerator, denominator, sp_us, negative_word, use_one)
 
 `   if numerator or denominator then`
 `       local finished = (whole == nil or whole == '')`
@@ -553,31 +515,7 @@ sp_us, negative_word, use_one)
 
 end
 
-\-- Takes a decimal number and converts it to English text. -- Return
-nil if a fraction cannot be converted (only some numbers are supported
-for fractions). -- num (string or nil): the number to convert. -- Can be
-an arbitrarily large decimal, such as "-123456789123456789.345", and --
-can use scientific notation (e.g. "1.23E5"). -- May fail for very large
-numbers not listed in "groups" such as "1E4000". -- num is nil if there
-is no whole number before a fraction. -- numerator (string or nil):
-numerator of fraction (nil if no fraction) -- denominator (string or
-nil): denominator of fraction (nil if no fraction) -- capitalize
-(boolean): whether to capitalize the result (e.g. 'One' instead of
-'one') -- use_and (boolean): whether to use the word 'and' between
-tens/ones place and higher places -- hyphenate (boolean): whether to
-hyphenate all words in the result, useful for use as an adjective --
-ordinal (boolean): whether to produce an ordinal (e.g. 'first' instead
-of 'one') -- plural (boolean): whether to pluralize the resulting number
--- links: nil: do not add any links; 'on': link "billion" and larger to
-Orders of magnitude article; -- any other text: list of numbers to link
-(e.g. "billion,quadrillion") -- negative_word: word to use for negative
-sign (typically 'negative' or 'minus'; nil to use default) -- round: nil
-or '': no rounding; 'on': round to nearest two-word number; 'up'/'down':
-round up/down to two-word number -- zero: word to use for value '0' (nil
-to use default) -- use_one (boolean): false: 2+1/2 → "two and a half";
-true: "two and one-half" local function _numeral_to_english(num,
-numerator, denominator, capitalize, use_and, hyphenate, ordinal,
-plural, links, negative_word, round, zero, use_one)
+\-- Takes a decimal number and converts it to English text. -- Return nil if a fraction cannot be converted (only some numbers are supported for fractions). -- num (string or nil): the number to convert. -- Can be an arbitrarily large decimal, such as "-123456789123456789.345", and -- can use scientific notation (e.g. "1.23E5"). -- May fail for very large numbers not listed in "groups" such as "1E4000". -- num is nil if there is no whole number before a fraction. -- numerator (string or nil): numerator of fraction (nil if no fraction) -- denominator (string or nil): denominator of fraction (nil if no fraction) -- capitalize (boolean): whether to capitalize the result (e.g. 'One' instead of 'one') -- use_and (boolean): whether to use the word 'and' between tens/ones place and higher places -- hyphenate (boolean): whether to hyphenate all words in the result, useful for use as an adjective -- ordinal (boolean): whether to produce an ordinal (e.g. 'first' instead of 'one') -- plural (boolean): whether to pluralize the resulting number -- links: nil: do not add any links; 'on': link "billion" and larger to Orders of magnitude article; -- any other text: list of numbers to link (e.g. "billion,quadrillion") -- negative_word: word to use for negative sign (typically 'negative' or 'minus'; nil to use default) -- round: nil or '': no rounding; 'on': round to nearest two-word number; 'up'/'down': round up/down to two-word number -- zero: word to use for value '0' (nil to use default) -- use_one (boolean): false: 2+1/2 → "two and a half"; true: "two and one-half" local function _numeral_to_english(num, numerator, denominator, capitalize, use_and, hyphenate, ordinal, plural, links, negative_word, round, zero, use_one)
 
 `   if not negative_word then`
 `       if use_and then`
@@ -632,8 +570,7 @@ plural, links, negative_word, round, zero, use_one)
 `       local group_digits = #num - group_num*3`
 `       s = s .. numeral_to_english_less_1000(num:sub(1, group_digits), false, false, false, zero) .. ' '`
 `       if links and (((links == 'on' and group_num >= 3) or links:find(group)) and group_num <= 13) then`
-`           s = s .. '`[`'``   ``..``   ``group``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/Orders_of_magnitude_\(numbers\)#10'_.._group_num*3_.._' "wikilink")`'`
+`           s = s .. '`[`'``   ``..``   ``group``   ``..``   ``'`](https://zh.wikipedia.org/wiki/Orders_of_magnitude_\(numbers\)#10'_.._group_num*3_.._' "wikilink")`'`
 `       else`
 `           s = s .. group`
 `       end`
@@ -683,15 +620,13 @@ local p = { -- Functions that can be called from another module
 
 }
 
-function p._roman_to_numeral(frame) -- Callable via
-{{\#invoke:ConvertNumeric|_roman_to_numeral|VI}}
+function p._roman_to_numeral(frame) -- Callable via {{\#invoke:ConvertNumeric|_roman_to_numeral|VI}}
 
 `   return roman_to_numeral(frame.args[1])`
 
 end
 
-function p._english_to_ordinal(frame) -- callable via
-{{\#invoke:ConvertNumeric|_english_to_ordinal|First}}
+function p._english_to_ordinal(frame) -- callable via {{\#invoke:ConvertNumeric|_english_to_ordinal|First}}
 
 `   return english_to_ordinal(frame.args[1])`
 
@@ -731,17 +666,14 @@ function p.numeral_to_english(frame)
 
 end
 
-\---- recursive function for p.decToHex local function
-decToHexDigit(dec)
+\---- recursive function for p.decToHex local function decToHexDigit(dec)
 
 `   local dig = {"0","1","2","3","4","5","6","7","8","9","A","B","C","D","E","F"}`
 `   local div = math.floor(dec/16)`
 `   local mod = dec-(16*div)`
 `   if div >= 1 then return decToHexDigit(div)..dig[mod+1] else return dig[mod+1] end`
 
-end -- I think this is supposed to be done with a tail call but first I
-want something that works at all ---- finds all the decimal numbers in
-the input text and hexes each of them function p.decToHex(frame)
+end -- I think this is supposed to be done with a tail call but first I want something that works at all ---- finds all the decimal numbers in the input text and hexes each of them function p.decToHex(frame)
 
 `   local args=frame.args`
 `   local parent=frame.getParent(frame)`

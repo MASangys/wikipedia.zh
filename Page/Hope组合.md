@@ -60,23 +60,14 @@
   - [朱晨辰 官方微博](http://weibo.com/u/1883488823)
   - [中国最强音](https://zh.wikipedia.org/wiki/中国最强音 "wikilink")
 
-[Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink")
-[Category:2013年建立的組織](https://zh.wikipedia.org/wiki/Category:2013年建立的組織 "wikilink")
+[Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink") [Category:2013年建立的組織](https://zh.wikipedia.org/wiki/Category:2013年建立的組織 "wikilink")
 
-1.  [最强音HOPE组合人气高
-    四大帅哥不同款](http://ent.sina.com.cn/y/2013-06-07/07193938175.shtml)
-2.  [中国最强音曾一鸣问鼎冠军 HOPE亚军
-    刘明辉季军](http://vod2.hdol.cn/zixun/20130629/15023.html)
+1.  [最强音HOPE组合人气高 四大帅哥不同款](http://ent.sina.com.cn/y/2013-06-07/07193938175.shtml)
+2.  [中国最强音曾一鸣问鼎冠军 HOPE亚军 刘明辉季军](http://vod2.hdol.cn/zixun/20130629/15023.html)
 3.  [HOPE组合携“恋爱危险”初闯乐坛](http://www.hunantv.com/v/1/179/f/465094.html#1)
-4.  [《中国最强音》昨晚决赛
-    曾一鸣夺冠HOPE获第二](http://news.hexun.com/2013-06-29/155619270.html)
-5.  [HOPE组合发片签约两不误
-    否认解散传闻](http://ent.163.com/13/0913/07/98KTN38L00031H0O.html)
-6.  [“最强音”HOPE组合发新EP
-    刘雨潼当幕后制作](http://ent.ifeng.com/music/mainland/detail_2013_09/13/29585777_0.shtml)
-7.  [HOPE组合出道变开学礼
-    携EP初闯乐坛](http://www.yangtse.com/system/2013/09/13/018590640.shtml)
-
+4.  [《中国最强音》昨晚决赛 曾一鸣夺冠HOPE获第二](http://news.hexun.com/2013-06-29/155619270.html)
+5.  [HOPE组合发片签约两不误 否认解散传闻](http://ent.163.com/13/0913/07/98KTN38L00031H0O.html)
+6.  [“最强音”HOPE组合发新EP 刘雨潼当幕后制作](http://ent.ifeng.com/music/mainland/detail_2013_09/13/29585777_0.shtml)
+7.  [HOPE组合出道变开学礼 携EP初闯乐坛](http://www.yangtse.com/system/2013/09/13/018590640.shtml)
 8.  [HOPE组合重聚湖南卫视跨年夜引期待](http://ent.sina.com.cn/y/2013-12-17/16094062757.shtml)
-9.  [《梦想起航》公益主题曲
-    陈希郡HOPE组合跨刀加盟](http://news.xinhuanet.com/ent/2014-02/26/c_126193295.htm)
+9.  [《梦想起航》公益主题曲 陈希郡HOPE组合跨刀加盟](http://news.xinhuanet.com/ent/2014-02/26/c_126193295.htm)

@@ -28,16 +28,8 @@
   - [K3](../Page/K3突擊步槍.md "wikilink")
   - [Vepr](../Page/Vepr突擊步槍.md "wikilink")
 
-[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink")
-[Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink")
-[Category:5.45×39毫米槍械](https://zh.wikipedia.org/wiki/Category:5.45×39毫米槍械 "wikilink")
-[Category:阿塞拜疆槍械](https://zh.wikipedia.org/wiki/Category:阿塞拜疆槍械 "wikilink")
+[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:5.45×39毫米槍械](https://zh.wikipedia.org/wiki/Category:5.45×39毫米槍械 "wikilink") [Category:阿塞拜疆槍械](https://zh.wikipedia.org/wiki/Category:阿塞拜疆槍械 "wikilink")
 
-1.  [Азербайджан приступил к серийному производству автоматов АК-74М по
-    российской
-    лицензии](http://www.armstrade.org/includes/periodics/news/2011/0708/10108803/detail.shtml)
-2.  [Первые автоматы Калашникова соберут в Азербайджане в конце 2011
-    года](http://www.aze.az/news_pervye_avtomaty_kalashniko_52455.html)
-
-3.  [Азербайджан начал сборку
-    АК-47М](http://news.am/rus/news/67136.html)
+1.  [Азербайджан приступил к серийному производству автоматов АК-74М по российской лицензии](http://www.armstrade.org/includes/periodics/news/2011/0708/10108803/detail.shtml)
+2.  [Первые автоматы Калашникова соберут в Азербайджане в конце 2011 года](http://www.aze.az/news_pervye_avtomaty_kalashniko_52455.html)
+3.  [Азербайджан начал сборку АК-47М](http://news.am/rus/news/67136.html)

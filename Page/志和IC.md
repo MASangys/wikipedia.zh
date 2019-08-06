@@ -13,8 +13,7 @@
 
 ## 歷史
 
-  - 1987年3月24日 -
-    [山陽自動車道](../Page/山陽自動車道.md "wikilink")志和IC至[廣島東IC之間開通](https://zh.wikipedia.org/wiki/廣島東IC "wikilink")，此交流道也同時啟用。
+  - 1987年3月24日 - [山陽自動車道](../Page/山陽自動車道.md "wikilink")志和IC至[廣島東IC之間開通](https://zh.wikipedia.org/wiki/廣島東IC "wikilink")，此交流道也同時啟用。
   - 1988年7月27日 - 山陽自動車道[西條IC](../Page/西條IC.md "wikilink")至志和IC之間開通。
 
 ## 收費站設施
@@ -37,9 +36,7 @@
 ## 鄰近設施
 
   - [山陽自動車道](../Page/山陽自動車道.md "wikilink")
-    (26)[西條IC](../Page/西條IC.md "wikilink") - (27)**志和IC** -
-    [奧屋PA](https://zh.wikipedia.org/wiki/奧屋PA "wikilink") -
-    (28,28-1)[廣島東IC](https://zh.wikipedia.org/wiki/廣島東IC "wikilink")
+    (26)[西條IC](../Page/西條IC.md "wikilink") - (27)**志和IC** - [奧屋PA](https://zh.wikipedia.org/wiki/奧屋PA "wikilink") - (28,28-1)[廣島東IC](https://zh.wikipedia.org/wiki/廣島東IC "wikilink")
 
 ## 相關項目
 
@@ -49,5 +46,4 @@
 
   - [西日本高速道路株式會社](http://www.w-nexco.co.jp/)
 
-[Category:日本交流道_Shi](https://zh.wikipedia.org/wiki/Category:日本交流道_Shi "wikilink")
-[Category:廣島縣交流道](https://zh.wikipedia.org/wiki/Category:廣島縣交流道 "wikilink")
+[Category:日本交流道_Shi](https://zh.wikipedia.org/wiki/Category:日本交流道_Shi "wikilink") [Category:廣島縣交流道](https://zh.wikipedia.org/wiki/Category:廣島縣交流道 "wikilink")

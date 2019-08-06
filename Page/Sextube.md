@@ -14,8 +14,7 @@ Sextube在美国非常受欢迎。它的35.5%的用户来自美国。它的5.5%�
 
 ## 参考文献
 
-[Category:色情](https://zh.wikipedia.org/wiki/Category:色情 "wikilink")
-[Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink")
+[Category:色情](https://zh.wikipedia.org/wiki/Category:色情 "wikilink") [Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink")
 
 1.
 2.

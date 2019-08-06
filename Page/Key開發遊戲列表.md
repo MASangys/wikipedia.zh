@@ -1,28 +1,10 @@
-[Key_10th_Memorial_Box.jpg](https://zh.wikipedia.org/wiki/File:Key_10th_Memorial_Box.jpg "fig:Key_10th_Memorial_Box.jpg")所推出的「KEY
-10th MEMORIAL BOX」紀念盒裝，封面整理了1999年至2009年期間所推出的視覺小說之宣傳封面。\]\]
+[Key_10th_Memorial_Box.jpg](https://zh.wikipedia.org/wiki/File:Key_10th_Memorial_Box.jpg "fig:Key_10th_Memorial_Box.jpg")所推出的「KEY 10th MEMORIAL BOX」紀念盒裝，封面整理了1999年至2009年期間所推出的視覺小說之宣傳封面。\]\]
 
-**[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")**是日本[Visual
-Art's旗下的](../Page/Visual_Art's.md "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[遊戲工作室暨出版](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[品牌](../Page/品牌.md "wikilink")，其開發的視覺小說遊戲大多先通過Visual
-Art's在[Microsoft
-Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[個人電腦發行](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，之後再由[Interchannel](../Page/Interchannel.md "wikilink")和Prototype[移植到其他電子遊戲平台](https://zh.wikipedia.org/wiki/移植 "wikilink")。而在日本以外的海外地區，Key並沒有與其他廠商進行合作來發行自家的遊戲作品。Key最早在1999年發布了第一款遊戲《[Kanon](../Page/Kanon.md "wikilink")》\[1\]\[2\]，之後於2000年發布第二款作品《[AIR](../Page/AIR_\(遊戲\).md "wikilink")》\[3\]\[4\]，其中這2部作品最早都是作為[成人遊戲推出](../Page/日本成人遊戲.md "wikilink")\[5\]\[6\]。不過在2004年所推出的遊戲《[CLANNAD](../Page/CLANNAD.md "wikilink")》，則是在一開始便將[遊戲分級定為任何人都能夠遊玩](https://zh.wikipedia.org/wiki/電子遊戲分級系統 "wikilink")\[7\]\[8\]。2004年時Key推出的《[星之夢](../Page/星之夢.md "wikilink")》同樣是一款適合各個年齡層遊玩的遊戲，同時開發團隊則將遊戲內容歸類為擁有直線劇情的KineticNovel（）\[9\]\[10\]。
+**[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")**是日本[Visual Art's旗下的](../Page/Visual_Art's.md "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[遊戲工作室暨出版](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[品牌](../Page/品牌.md "wikilink")，其開發的視覺小說遊戲大多先通過Visual Art's在[Microsoft Windows平台](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[個人電腦發行](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，之後再由[Interchannel](../Page/Interchannel.md "wikilink")和Prototype[移植到其他電子遊戲平台](https://zh.wikipedia.org/wiki/移植 "wikilink")。而在日本以外的海外地區，Key並沒有與其他廠商進行合作來發行自家的遊戲作品。Key最早在1999年發布了第一款遊戲《[Kanon](../Page/Kanon.md "wikilink")》\[1\]\[2\]，之後於2000年發布第二款作品《[AIR](../Page/AIR_\(遊戲\).md "wikilink")》\[3\]\[4\]，其中這2部作品最早都是作為[成人遊戲推出](../Page/日本成人遊戲.md "wikilink")\[5\]\[6\]。不過在2004年所推出的遊戲《[CLANNAD](../Page/CLANNAD.md "wikilink")》，則是在一開始便將[遊戲分級定為任何人都能夠遊玩](https://zh.wikipedia.org/wiki/電子遊戲分級系統 "wikilink")\[7\]\[8\]。2004年時Key推出的《[星之夢](../Page/星之夢.md "wikilink")》同樣是一款適合各個年齡層遊玩的遊戲，同時開發團隊則將遊戲內容歸類為擁有直線劇情的KineticNovel（）\[9\]\[10\]。
 
-2005年時Key發布了自家第五部作品、即成人遊戲的《[智代After ～It's a Wonderful
-Life～](../Page/智代After_～It's_a_Wonderful_Life～.md "wikilink")》，內容則是以《CLANNAD》女主角坂上智代其劇情加以擴充而成的[衍生作品](../Page/衍生作品.md "wikilink")\[11\]\[12\]。而在2007年時Key推出了全新題材、適合全年齡遊玩的《[Little
-Busters\!](../Page/Little_Busters!.md "wikilink")》\[13\]\[14\]，並在2008年與2010年時則分別推出劇情擴充的成人版本《Little
-Busters\! Ecstacy》\[15\]、以及延伸能美·庫特莉亞芙卡其角色故事而成的《[Kud
-Wafter](../Page/Kud_Wafter.md "wikilink")》\[16\]\[17\]。2011年時Key則推出最新的全年齡向遊戲《[Rewrite](../Page/Rewrite.md "wikilink")》\[18\]，並且在2012年發布了作為[Fan
-disc的](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《[Rewrite
-Harvest
-festa\!](../Page/Rewrite_Harvest_festa!.md "wikilink")》\[19\]\[20\]。Key於2015年發售參考動畫《[Angel
-Beats\!](../Page/Angel_Beats!.md "wikilink")》發展而來視覺小說作品《Angel
-Beats\!-1st
-beat》\[21\]。2016年年9月23日Key推出15周年紀念作品《[Harmonia](../Page/Harmonia_\(游戏\).md "wikilink")》。\[22\]於2018年6月29日發售《[Summer
-Pockets](../Page/Summer_Pockets.md "wikilink")》。\[23\]
+2005年時Key發布了自家第五部作品、即成人遊戲的《[智代After ～It's a Wonderful Life～](../Page/智代After_～It's_a_Wonderful_Life～.md "wikilink")》，內容則是以《CLANNAD》女主角坂上智代其劇情加以擴充而成的[衍生作品](../Page/衍生作品.md "wikilink")\[11\]\[12\]。而在2007年時Key推出了全新題材、適合全年齡遊玩的《[Little Busters\!](../Page/Little_Busters!.md "wikilink")》\[13\]\[14\]，並在2008年與2010年時則分別推出劇情擴充的成人版本《Little Busters\! Ecstacy》\[15\]、以及延伸能美·庫特莉亞芙卡其角色故事而成的《[Kud Wafter](../Page/Kud_Wafter.md "wikilink")》\[16\]\[17\]。2011年時Key則推出最新的全年齡向遊戲《[Rewrite](../Page/Rewrite.md "wikilink")》\[18\]，並且在2012年發布了作為[Fan disc的](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《[Rewrite Harvest festa\!](../Page/Rewrite_Harvest_festa!.md "wikilink")》\[19\]\[20\]。Key於2015年發售參考動畫《[Angel Beats\!](../Page/Angel_Beats!.md "wikilink")》發展而來視覺小說作品《Angel Beats\!-1st beat》\[21\]。2016年年9月23日Key推出15周年紀念作品《[Harmonia](../Page/Harmonia_\(游戏\).md "wikilink")》。\[22\]於2018年6月29日發售《[Summer Pockets](../Page/Summer_Pockets.md "wikilink")》。\[23\]
 
-截至2018年6月，Key已經透過Visual
-Art's推出共計13款、44種版本的視覺小說遊戲。在這44部遊戲中有11部遊戲被列為成人遊戲，其他33部遊戲作品則是適合任何年齡層遊玩的全年齡向內容。而到了今日，Visual
-Art's已經不再銷售Key公司所推出的21種不同版本遊戲之內容。而在2009年7月10日時，Key則推出了「KEY 10th MEMORIAL
-BOX」的紀念[盒裝企劃](https://zh.wikipedia.org/wiki/Boxset "wikilink")，內容則是收錄有6款適合各個年齡層遊玩的Key公司遊戲作品\[24\]\[25\]，不過紀念盒只限於在網際網路上訂購、之後消費者再以郵購的方式收到\[26\]。而在2010年4月到5月期間，Key則推出了前五部作品全年齡向內容的紀念版本\[27\]\[28\]。
+截至2018年6月，Key已經透過Visual Art's推出共計13款、44種版本的視覺小說遊戲。在這44部遊戲中有11部遊戲被列為成人遊戲，其他33部遊戲作品則是適合任何年齡層遊玩的全年齡向內容。而到了今日，Visual Art's已經不再銷售Key公司所推出的21種不同版本遊戲之內容。而在2009年7月10日時，Key則推出了「KEY 10th MEMORIAL BOX」的紀念[盒裝企劃](https://zh.wikipedia.org/wiki/Boxset "wikilink")，內容則是收錄有6款適合各個年齡層遊玩的Key公司遊戲作品\[24\]\[25\]，不過紀念盒只限於在網際網路上訂購、之後消費者再以郵購的方式收到\[26\]。而在2010年4月到5月期間，Key則推出了前五部作品全年齡向內容的紀念版本\[27\]\[28\]。
 
 ## 視覺小說列表
 
@@ -691,8 +673,7 @@ Prototype</p></td>
 
   - [Key Official HomePage](http://key.visualarts.gr.jp/)
 
-[Category:Key游戏](https://zh.wikipedia.org/wiki/Category:Key游戏 "wikilink")
-[Category:各公司电子游戏列表](https://zh.wikipedia.org/wiki/Category:各公司电子游戏列表 "wikilink")
+[Category:Key游戏](https://zh.wikipedia.org/wiki/Category:Key游戏 "wikilink") [Category:各公司电子游戏列表](https://zh.wikipedia.org/wiki/Category:各公司电子游戏列表 "wikilink")
 
 1.
 
@@ -804,8 +785,7 @@ Prototype</p></td>
 
 71.
 
-72.  Spec|trans_title=Kud Wafter【全年齢版】 {{\!}}
-    Spec|publisher=[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")|accessdate=2014年9月11日|language=Ja}}
+72.  Spec|trans_title=Kud Wafter【全年齢版】 {{\!}} Spec|publisher=[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")|accessdate=2014年9月11日|language=Ja}}
 
 73.
 
@@ -817,8 +797,7 @@ Prototype</p></td>
 
 77.
 78.
-79.
-    Spec|publisher=[Key](../Page/Key_\(遊戲品牌\).md "wikilink")|accessdate=2019年1月18日|language=ja}}
+79.  Spec|publisher=[Key](../Page/Key_\(遊戲品牌\).md "wikilink")|accessdate=2019年1月18日|language=ja}}
 
 80.
 81.

@@ -2,9 +2,7 @@
 
 ## 早期生活
 
-燦烈於1992年11月27日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾](../Page/首爾.md "wikilink")，高中就讀於首爾市江南區現代高中。
-2008年，他通過S.M.Casting System進入[SM
-Entertainment成為練習生](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。同時，在4年的練習生訓練中，燦烈進行了歌唱、舞蹈、演技、禮儀等多訓練，於2012年2月23日公開寫真和預告視頻。
+燦烈於1992年11月27日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾](../Page/首爾.md "wikilink")，高中就讀於首爾市江南區現代高中。 2008年，他通過S.M.Casting System進入[SM Entertainment成為練習生](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。同時，在4年的練習生訓練中，燦烈進行了歌唱、舞蹈、演技、禮儀等多訓練，於2012年2月23日公開寫真和預告視頻。
 
 2016年1月23日至24日，在菲律宾马尼拉为期两天的EXO'luXion音乐会上，燦烈透露他曾于2007年在菲律宾学习英语。\[4\]
 
@@ -16,41 +14,25 @@ Entertainment成為練習生](https://zh.wikipedia.org/wiki/SM_Entertainment "wi
 
 2013年12月，燦烈加盟《[叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》並飛赴密克羅尼西亞進行拍攝。\[5\]
 
-2014年5月，燦烈加盟SBS真人秀《[Roommate](../Page/Roommate.md "wikilink")》\[6\]。7月14日，燦烈與[Henry合唱歌曲](../Page/劉憲華.md "wikilink")《Bad
-Girl》，此歌曲收錄於Henry第二張迷你專輯《Fantastic》。\[7\]10月31日，燦烈與[周覓的合唱曲](https://zh.wikipedia.org/wiki/周覓 "wikilink")《Rewind》收錄於周覓一張迷你專輯《Rewind》，燦烈更為《Rewind》Rap部分作詞。\[8\]
+2014年5月，燦烈加盟SBS真人秀《[Roommate](../Page/Roommate.md "wikilink")》\[6\]。7月14日，燦烈與[Henry合唱歌曲](../Page/劉憲華.md "wikilink")《Bad Girl》，此歌曲收錄於Henry第二張迷你專輯《Fantastic》。\[7\]10月31日，燦烈與[周覓的合唱曲](https://zh.wikipedia.org/wiki/周覓 "wikilink")《Rewind》收錄於周覓一張迷你專輯《Rewind》，燦烈更為《Rewind》Rap部分作詞。\[8\]
 
 ### 2015年-現今：戲劇發展、《Stay With Me》、EXO-SC
 
-2015年3月，燦烈出演電影《[長壽商會](../Page/長壽商會.md "wikilink")》，飾演絕對服從女友的高中生珉盛\[9\]。8月，燦烈再次出演《[叢林的法則汶萊篇](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》，並為節目創作了主題曲《Last
-Hunter》。\[10\]
+2015年3月，燦烈出演電影《[長壽商會](../Page/長壽商會.md "wikilink")》，飾演絕對服從女友的高中生珉盛\[9\]。8月，燦烈再次出演《[叢林的法則汶萊篇](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink")》，並為節目創作了主題曲《Last Hunter》。\[10\]
 
 [Park_Chan-yeol_-_2016_Gaon_Chart_K-pop_Awards_red_carpet.jpg](https://zh.wikipedia.org/wiki/File:Park_Chan-yeol_-_2016_Gaon_Chart_K-pop_Awards_red_carpet.jpg "fig:Park_Chan-yeol_-_2016_Gaon_Chart_K-pop_Awards_red_carpet.jpg")
 
-2016年6月，燦烈與[袁姍姍合作的電影](../Page/袁姗姗.md "wikilink")《所以......和黑粉結婚了》上映，燦烈更與女主角袁姍姍合唱主題曲《我討厭你》\[11\]。10月14日，燦烈和美國Hip-hop團體[Far
-East
-Movement](https://zh.wikipedia.org/wiki/Far_East_Movement "wikilink")、Tinashe合作的新曲《Freal
-Luv》公開音源，燦烈參與了歌曲的音源製作，從作詞、作曲到Rap都有參與，展現了多樣的才能。\[12\]。12月，燦烈與[PUNCH為電視劇](https://zh.wikipedia.org/wiki/Punch_\(韓國歌手\) "wikilink")《[孤單又燦爛的神-鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》合唱OST《Stay
-With Me》，該歌曲的官方MV更於2017年11月於YouTube頻道突破1億次點擊率，為韓國OST最初突破1億次點擊率的MV。\[13\]
+2016年6月，燦烈與[袁姍姍合作的電影](../Page/袁姗姗.md "wikilink")《所以......和黑粉結婚了》上映，燦烈更與女主角袁姍姍合唱主題曲《我討厭你》\[11\]。10月14日，燦烈和美國Hip-hop團體[Far East Movement](https://zh.wikipedia.org/wiki/Far_East_Movement "wikilink")、Tinashe合作的新曲《Freal Luv》公開音源，燦烈參與了歌曲的音源製作，從作詞、作曲到Rap都有參與，展現了多樣的才能。\[12\]。12月，燦烈與[PUNCH為電視劇](https://zh.wikipedia.org/wiki/Punch_\(韓國歌手\) "wikilink")《[孤單又燦爛的神-鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》合唱OST《Stay With Me》，該歌曲的官方MV更於2017年11月於YouTube頻道突破1億次點擊率，為韓國OST最初突破1億次點擊率的MV。\[13\]
 
-2017年1月，燦烈於MBC電視劇《[Missing9](../Page/Missing9.md "wikilink")》中飾演李烈，為已解散樂團「Dreamers」的成員\[14\]。2月23日，燦烈與歌手[鄭基高](../Page/鄭基高.md "wikilink")推出合作區《Let
-Me Love You》\[15\]。9月20日，燦烈獲國際品牌Tommy
-Hilfiger邀請赴英國倫敦出席時裝周，受到了國際性的矚目。\[16\]12月，燦烈於2017
-Instagram Awards裏拿到了 2017 Top5 Account、最多讚的照片和影片三個獎項。\[17\]
+2017年1月，燦烈於MBC電視劇《[Missing9](../Page/Missing9.md "wikilink")》中飾演李烈，為已解散樂團「Dreamers」的成員\[14\]。2月23日，燦烈與歌手[鄭基高](../Page/鄭基高.md "wikilink")推出合作區《Let Me Love You》\[15\]。9月20日，燦烈獲國際品牌Tommy Hilfiger邀請赴英國倫敦出席時裝周，受到了國際性的矚目。\[16\]12月，燦烈於2017 Instagram Awards裏拿到了 2017 Top5 Account、最多讚的照片和影片三個獎項。\[17\]
 
-2018年2月7日，燦烈與[EXO](../Page/EXO.md "wikilink")成員[世勳一同參加於首爾清潭舉辦的Prada](../Page/Sehun.md "wikilink")
-Comics快閃店酒會。\[18\]同月，燦烈與[TRAX的Jay共同參與](https://zh.wikipedia.org/wiki/TRAX "wikilink")[MBC偶像明星運動會的男子保齡球項目](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")，以總分157分奪得金牌。5月12日，燦烈確定出演將於11月在[tvN播出的](https://zh.wikipedia.org/wiki/tvN "wikilink")《[阿爾罕布拉宮的回憶](../Page/阿爾罕布拉宮的回憶_\(電視劇\).md "wikilink")》並飾演鄭世周，一位因小時候受到傷害而緊閉心門的天才程序員。\[19\]6月，燦烈出演樂天免稅店的網絡劇《女神締造者》\[20\]。9月14日，燦烈與[世勳合唱的歌曲](../Page/Sehun.md "wikilink")《We
-Young》透過[STATION X 0發佈](../Page/SM_STATION.md "wikilink")。《We Young》於17
-個國家的 iTunes 綜合單曲榜上拿下冠軍，同時亦拿下中國的蝦米音樂綜合榜第一名\[21\]。
+2018年2月7日，燦烈與[EXO](../Page/EXO.md "wikilink")成員[世勳一同參加於首爾清潭舉辦的Prada](../Page/Sehun.md "wikilink") Comics快閃店酒會。\[18\]同月，燦烈與[TRAX的Jay共同參與](https://zh.wikipedia.org/wiki/TRAX "wikilink")[MBC偶像明星運動會的男子保齡球項目](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")，以總分157分奪得金牌。5月12日，燦烈確定出演將於11月在[tvN播出的](https://zh.wikipedia.org/wiki/tvN "wikilink")《[阿爾罕布拉宮的回憶](../Page/阿爾罕布拉宮的回憶_\(電視劇\).md "wikilink")》並飾演鄭世周，一位因小時候受到傷害而緊閉心門的天才程序員。\[19\]6月，燦烈出演樂天免稅店的網絡劇《女神締造者》\[20\]。9月14日，燦烈與[世勳合唱的歌曲](../Page/Sehun.md "wikilink")《We Young》透過[STATION X 0發佈](../Page/SM_STATION.md "wikilink")。《We Young》於17 個國家的 iTunes 綜合單曲榜上拿下冠軍，同時亦拿下中國的蝦米音樂綜合榜第一名\[21\]。
 
-2019年2月，燦烈再次參與《[偶像明星運動會](../Page/偶像明星運動會.md "wikilink")》的男子保齡球項目並以217分奪得金牌\[22\]。4月25日，燦烈经由[SM
-STATION第三季發行首支独唱曲](../Page/SM_STATION.md "wikilink")《SSFW（春夏秋冬）》
-，同时发布中日韓三個语言版本。6月28日，[SM娛樂](../Page/SM娛樂.md "wikilink")宣佈燦烈將與[世勳組成EXO第二個小分隊](../Page/Sehun.md "wikilink")[EXO-SC](../Page/EXO-SC.md "wikilink")並將於7月22日發行首張迷你專輯《What
-a life》出道\[23\]。
+2019年2月，燦烈再次參與《[偶像明星運動會](../Page/偶像明星運動會.md "wikilink")》的男子保齡球項目並以217分奪得金牌\[22\]。4月25日，燦烈经由[SM STATION第三季發行首支独唱曲](../Page/SM_STATION.md "wikilink")《SSFW（春夏秋冬）》 ，同时发布中日韓三個语言版本。6月28日，[SM娛樂](../Page/SM娛樂.md "wikilink")宣佈燦烈將與[世勳組成EXO第二個小分隊](../Page/Sehun.md "wikilink")[EXO-SC](../Page/EXO-SC.md "wikilink")並將於7月22日發行首張迷你專輯《What a life》出道\[23\]。
 
 ## 個人生活
 
-朴燦烈有一個姐姐朴宥拉，曾是韓國電視台[YTN](../Page/YTN.md "wikilink")的新聞主播，於2019年轉業到金融機構。母親在首爾擁有一間意大利餐廳「Viva
-Polo」，於2018年結業。父親也在首爾開了一間餐廳「Good World Seoul」。
+朴燦烈有一個姐姐朴宥拉，曾是韓國電視台[YTN](../Page/YTN.md "wikilink")的新聞主播，於2019年轉業到金融機構。母親在首爾擁有一間意大利餐廳「Viva Polo」，於2018年結業。父親也在首爾開了一間餐廳「Good World Seoul」。
 
 他對於音樂的熱愛不僅體現在歌唱上，也體現在了他的音樂創作上，手機裡有自己創作的歌曲，錄製節目時也會帶著吉他。並時常會在個人Instagram和Soundcloud帳號裡分享自己的自作曲。
 
@@ -60,8 +42,7 @@ Polo」，於2018年結業。父親也在首爾開了一間餐廳「Good World S
 
     <div style="font-size:small">
 
-    —
-    所屬團體之所有共同作品，請參閱[EXO音樂作品列表](https://zh.wikipedia.org/wiki/EXO音樂作品列表 "wikilink")。
+    — 所屬團體之所有共同作品，請參閱[EXO音樂作品列表和](https://zh.wikipedia.org/wiki/EXO音樂作品列表 "wikilink")[EXO-SC\#音樂作品](https://zh.wikipedia.org/wiki/EXO-SC#音樂作品 "wikilink")。
 
     </div>
 
@@ -609,13 +590,7 @@ Polo」，於2018年結業。父親也在首爾開了一間餐廳「Good World S
 
   -
   -
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink")
-[Category:朴姓](https://zh.wikipedia.org/wiki/Category:朴姓 "wikilink")
-[Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink")
-[Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
+[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink") [Category:朴姓](https://zh.wikipedia.org/wiki/Category:朴姓 "wikilink") [Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
 
 1.  「」是一個純[韓字名字](https://zh.wikipedia.org/wiki/韓字 "wikilink")，未有[漢字表記](https://zh.wikipedia.org/wiki/漢字 "wikilink")，由韓語音譯可推為「朴燦烈」。
 

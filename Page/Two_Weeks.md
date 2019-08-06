@@ -1,5 +1,4 @@
-《**Two
-Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2013年8月7日起播出的[水木迷你連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")，由[蘇賢京](../Page/蘇賢京.md "wikilink")作家執筆，《[個人取向](../Page/個人取向.md "wikilink")》[孫亨錫](../Page/孫亨錫.md "wikilink")導演執導。講述了被誣陷為殺人犯的男子（[李準基](../Page/李準基.md "wikilink")飾演）在得知自己有一個身患白血病的女兒後，為了拯救女兒的生命而孤軍奮戰兩週的故事。
+《**Two Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC自](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2013年8月7日起播出的[水木迷你連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")，由[蘇賢京](../Page/蘇賢京.md "wikilink")作家執筆，《[個人取向](../Page/個人取向.md "wikilink")》[孫亨錫](../Page/孫亨錫.md "wikilink")導演執導。講述了被誣陷為殺人犯的男子（[李準基](../Page/李準基.md "wikilink")飾演）在得知自己有一個身患白血病的女兒後，為了拯救女兒的生命而孤軍奮戰兩週的故事。
 
 ## 演出陣容
 
@@ -433,8 +432,7 @@ Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
 
 ## 獲獎記錄
 
-  - 2013年[APAN Star
-    Awards](https://zh.wikipedia.org/wiki/大田電視劇節#第二屆 "wikilink")
+  - 2013年[APAN Star Awards](https://zh.wikipedia.org/wiki/大田電視劇節#第二屆 "wikilink")
       - 男子最優秀演技獎：李準基
       - 女子優秀演技獎：金素妍
       - 作家獎：蘇賢京
@@ -447,10 +445,7 @@ Weeks**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
   - [韓國MBC](http://www.imbc.com/broad/tv/drama/2w/)
 
   -
-[Category:2013年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2013年韓國電視劇集 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:冤案電視劇](https://zh.wikipedia.org/wiki/Category:冤案電視劇 "wikilink")
-[Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink")
+[Category:2013年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2013年韓國電視劇集 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:冤案電視劇](https://zh.wikipedia.org/wiki/Category:冤案電視劇 "wikilink") [Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink")
 
 1.  [TNmS 멀티미디어 홈페이지](http://home.tnms.tv/rating/main.asp)
 2.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

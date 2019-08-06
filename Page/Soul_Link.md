@@ -1,19 +1,14 @@
-《**Soul
-Link**》是[Navel](../Page/Navel.md "wikilink")開發並於2004年12月17日發售的[科幻題材](../Page/科學幻想.md "wikilink")[十八禁遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。\[1\]故事以[未來世界](https://zh.wikipedia.org/wiki/未來世界 "wikilink")[太空站為舞台](https://zh.wikipedia.org/wiki/太空站 "wikilink")。
+《**Soul Link**》是[Navel](../Page/Navel.md "wikilink")開發並於2004年12月17日發售的[科幻題材](../Page/科學幻想.md "wikilink")[十八禁遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。\[1\]故事以[未來世界](https://zh.wikipedia.org/wiki/未來世界 "wikilink")[太空站為舞台](https://zh.wikipedia.org/wiki/太空站 "wikilink")。
 
-[Interchannel](../Page/Interchannel.md "wikilink")於2006年6月29日發售[PS2遊戲](https://zh.wikipedia.org/wiki/PS2 "wikilink")《Soul
-Link EXTENSION》\[2\]，新增了些許新角色。2010年6月25日推出重製版《Soul Link
-ULTIMATE》。\[3\]2012年3月23日，Gyutto獨家發售網路下載版《Soul Link》。\[4\]
+[Interchannel](../Page/Interchannel.md "wikilink")於2006年6月29日發售[PS2遊戲](https://zh.wikipedia.org/wiki/PS2 "wikilink")《Soul Link EXTENSION》\[2\]，新增了些許新角色。2010年6月25日推出重製版《Soul Link ULTIMATE》。\[3\]2012年3月23日，Gyutto獨家發售網路下載版《Soul Link》。\[4\]
 
-《Soul
-Link》在日本美少女游戏与动画相关商品销售网站Getchu.com的2004年12月销量榜上排名第1，\[5\]2004年排名第5\[6\]。
+《Soul Link》在日本美少女游戏与动画相关商品销售网站Getchu.com的2004年12月销量榜上排名第1，\[5\]2004年排名第5\[6\]。
 
 本作也被改編成[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")、[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
 
 ## 遊戲系統
 
-玩家須與遊戲中的女主角互動以推動劇情發展。玩家在遊玩《Soul
-Link》時將會花費大多數時間觀看出現在螢幕上的文字敘述、人物對話以及角色心理等，藉由這樣的方式除了讓故事獲得進展外，也可以與遊戲角色對話進行交流。
+玩家須與遊戲中的女主角互動以推動劇情發展。玩家在遊玩《Soul Link》時將會花費大多數時間觀看出現在螢幕上的文字敘述、人物對話以及角色心理等，藉由這樣的方式除了讓故事獲得進展外，也可以與遊戲角色對話進行交流。
 
 本作由四章構成，分成序章・第1章・第2章・第3章。在每次閱讀故事發展以及與其他角色對話後，玩家便有機會能夠在與角色互動時、從遊戲提供的數個選項中挑選其中一項。這時遊戲會暫停一會兒以提供玩家依據先前的對話作出決定，玩家在某些關鍵選項之中的抉擇則會影響到遊戲朝特定方向展開，並進入各式分支情節中。藉由決定於數個選項抉擇的方式來讓遊戲系統判定玩家攻略的故事劇情，同時遊戲中所做的決定也會影響這些角色故事後半段呈現不一樣的結局。該作比前作《[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")》的選項更多，並擁有20種以上的壞結局，包括[死亡](../Page/死亡.md "wikilink")、[強暴等](https://zh.wikipedia.org/wiki/強暴 "wikilink")。
 
@@ -220,8 +215,7 @@ Link》時將會花費大多數時間觀看出現在螢幕上的文字敘述、�
   - 音響監督：飯田里樹
   - 製作人：石塚治寿、井出美恵、山崎明日香、櫻井優香、田所達也
   - 動畫製作：Picture Magic
-  - 製作：Soul Link Media
-    Project（[Interchannel](../Page/Interchannel.md "wikilink")、[ジェネオンエンタテインメント](../Page/NBC環球娛樂.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、オンザラン、東京電化）
+  - 製作：Soul Link Media Project（[Interchannel](../Page/Interchannel.md "wikilink")、[ジェネオンエンタテインメント](../Page/NBC環球娛樂.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、オンザラン、東京電化）
 
 ## 相關商品
 
@@ -318,17 +312,7 @@ Link》時將會花費大多數時間觀看出現在螢幕上的文字敘述、�
   - [Soul Link官方網站](http://www.project-navel.com/soullink/)
 
   -
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink")
-[Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink")
-[Category:Navel遊戲](https://zh.wikipedia.org/wiki/Category:Navel遊戲 "wikilink")
-[Category:2006年UHF動畫](https://zh.wikipedia.org/wiki/Category:2006年UHF動畫 "wikilink")
-[Category:2006年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2006年日本電視動畫 "wikilink")
+[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:2004年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2004年日本成人遊戲 "wikilink") [Category:PlayStation_2遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_2遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:日本成人遊戲改編電視動畫](https://zh.wikipedia.org/wiki/Category:日本成人遊戲改編電視動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink") [Category:Navel遊戲](https://zh.wikipedia.org/wiki/Category:Navel遊戲 "wikilink") [Category:2006年UHF動畫](https://zh.wikipedia.org/wiki/Category:2006年UHF動畫 "wikilink") [Category:2006年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2006年日本電視動畫 "wikilink")
 
 1.
 2.

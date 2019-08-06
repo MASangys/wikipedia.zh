@@ -1,6 +1,4 @@
-**BRAND NEW
-WORLD\!\!**（）是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Prizmmy☆](../Page/Prizmmy☆.md "wikilink")第4首單曲\[1\]，2012年8月29日由avex
-entertainment發行。
+**BRAND NEW WORLD\!\!**（）是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Prizmmy☆](../Page/Prizmmy☆.md "wikilink")第4首單曲\[1\]，2012年8月29日由avex entertainment發行。
 
 ## 概要
 
@@ -32,18 +30,13 @@ entertainment發行。
 
   - [Prizmmy☆ OFFICIAL WEB SITE](http://mv.avex.jp/prizmmy/)
 
-  - [在Amazon網站對BRAND NEW
-    WORLD\!\!的介紹](http://www.amazon.co.jp/BRAND-NEW-WORLD-Prizmmy%E2%98%86/dp/B0089F2S1W/ref=pd_sim_m_2)
+  - [在Amazon網站對BRAND NEW WORLD\!\!的介紹](http://www.amazon.co.jp/BRAND-NEW-WORLD-Prizmmy%E2%98%86/dp/B0089F2S1W/ref=pd_sim_m_2)
 
-  - [在Youtube《Brand new
-    world》官方影片](http://www.youtube.com/watch?v=Noy2bXIexQM)
+  - [在Youtube《Brand new world》官方影片](http://www.youtube.com/watch?v=Noy2bXIexQM)
 
-  - [BRAND NEW
-    WORLD在AVEX的官方介紹](https://archive.is/20130501001314/http://avexnet.jp/id/prizm/discography/product/AVCA-49815.html)
+  - [BRAND NEW WORLD在AVEX的官方介紹](https://archive.is/20130501001314/http://avexnet.jp/id/prizm/discography/product/AVCA-49815.html)
 
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:星光少女](https://zh.wikipedia.org/wiki/Category:星光少女 "wikilink")
-[Category:Prizmmy☆](https://zh.wikipedia.org/wiki/Category:Prizmmy☆ "wikilink")
+[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:星光少女](https://zh.wikipedia.org/wiki/Category:星光少女 "wikilink") [Category:Prizmmy☆](https://zh.wikipedia.org/wiki/Category:Prizmmy☆ "wikilink")
 
 1.
 

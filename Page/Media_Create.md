@@ -6,8 +6,7 @@
 
 ## 竞争对手
 
-Media
-Create和[Enterbrain](../Page/Enterbrain.md "wikilink")的《[Fami通](../Page/Fami通.md "wikilink")》以及[MediaWorks](../Page/MediaWorks.md "wikilink")的《[电击PlayStation](https://zh.wikipedia.org/wiki/电击PlayStation "wikilink")》都提供日本游戏销量数据。因为是三家不同的跟踪公司，所以软件和硬件的销量数据总是不同。哪家公司值得信任存在争议，因为没有任何一家的追踪是100%准确的。
+Media Create和[Enterbrain](../Page/Enterbrain.md "wikilink")的《[Fami通](../Page/Fami通.md "wikilink")》以及[MediaWorks](../Page/MediaWorks.md "wikilink")的《[电击PlayStation](https://zh.wikipedia.org/wiki/电击PlayStation "wikilink")》都提供日本游戏销量数据。因为是三家不同的跟踪公司，所以软件和硬件的销量数据总是不同。哪家公司值得信任存在争议，因为没有任何一家的追踪是100%准确的。
 
 [任天堂](../Page/任天堂.md "wikilink")在发布会和演示中引用Media Create的销量数据\[1\]。
 
@@ -16,7 +15,6 @@ Create和[Enterbrain](../Page/Enterbrain.md "wikilink")的《[Fami通](../Page/F
 ## 外部链接
 
   -
-[Category:1994年成立的公司](https://zh.wikipedia.org/wiki/Category:1994年成立的公司 "wikilink")
-[Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink")
+[Category:1994年成立的公司](https://zh.wikipedia.org/wiki/Category:1994年成立的公司 "wikilink") [Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink")
 
 1.

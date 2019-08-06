@@ -8,13 +8,8 @@
 
 <references />
 
-[Category:1975年电子游戏](https://zh.wikipedia.org/wiki/Category:1975年电子游戏 "wikilink")
-[Category:龙与地下城电子游戏](https://zh.wikipedia.org/wiki/Category:龙与地下城电子游戏 "wikilink")
+[Category:1975年电子游戏](https://zh.wikipedia.org/wiki/Category:1975年电子游戏 "wikilink") [Category:龙与地下城电子游戏](https://zh.wikipedia.org/wiki/Category:龙与地下城电子游戏 "wikilink")
 
 1.
-2.  [Gary Whisenhunt, Ray Wood, Dirk Pellett, and Flint Pellett's
-    DND](http://www.armory.com/~dlp/dnd1.html) . [The
-    Armory](http://www.armory.com) . Retrieved on 2008-04-08.
-3.  [dnd (The Game of
-    Dungeons)](http://www.uvlist.net/game-160118).[Universal Videogame
-    List](http://www.uvlist.net/). Retrieved on 2008-04-09.
+2.  [Gary Whisenhunt, Ray Wood, Dirk Pellett, and Flint Pellett's DND](http://www.armory.com/~dlp/dnd1.html) . [The Armory](http://www.armory.com) . Retrieved on 2008-04-08.
+3.  [dnd (The Game of Dungeons)](http://www.uvlist.net/game-160118).[Universal Videogame List](http://www.uvlist.net/). Retrieved on 2008-04-09.

@@ -1,8 +1,6 @@
 [Long_Range_Anti-tank_Weapon_HOT_3_-_ILA2002-clean.jpg](https://zh.wikipedia.org/wiki/File:Long_Range_Anti-tank_Weapon_HOT_3_-_ILA2002-clean.jpg "fig:Long_Range_Anti-tank_Weapon_HOT_3_-_ILA2002-clean.jpg")
 
-**HOT式反坦克飛彈**是由[法國和](https://zh.wikipedia.org/wiki/法國 "wikilink")[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")（當時的[西德](../Page/西德.md "wikilink")）共同研發出來的反坦克飛彈，HOT即是"**H**igh
-Subsonic **O**ptical Remote-Guided,
-**T**ube-Launched"的縮寫，意即"高次音速、光學遙控、筒射"。
+**HOT式反坦克飛彈**是由[法國和](https://zh.wikipedia.org/wiki/法國 "wikilink")[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")（當時的[西德](../Page/西德.md "wikilink")）共同研發出來的反坦克飛彈，HOT即是"**H**igh Subsonic **O**ptical Remote-Guided, **T**ube-Launched"的縮寫，意即"高次音速、光學遙控、筒射"。
 
 HOT式作為重型反坦克飛彈主要由武裝直昇機（例如:[瞪羚直升機](../Page/瞪羚直升機.md "wikilink")）和裝甲車輛（例如:[美洲豹1型發射車](https://zh.wikipedia.org/wiki/美洲豹式驅逐戰車 "wikilink")）發射，其彈頭採用[高爆反坦克彈](../Page/高爆反坦克彈.md "wikilink")設計，能炸穿800至1,250毫米厚鋼裝甲。
 
@@ -26,8 +24,7 @@ HOT式基本型，1964年開始研製至1977年裝備部隊
 
 ## 使用國家
 
-[Long_Range_Anti-tank_Weapon_HOT_3_-_ILA2002.jpg](https://zh.wikipedia.org/wiki/File:Long_Range_Anti-tank_Weapon_HOT_3_-_ILA2002.jpg "fig:Long_Range_Anti-tank_Weapon_HOT_3_-_ILA2002.jpg")
-[Panzermuseum_Munster_2010_0943.JPG](https://zh.wikipedia.org/wiki/File:Panzermuseum_Munster_2010_0943.JPG "fig:Panzermuseum_Munster_2010_0943.JPG")
+[Long_Range_Anti-tank_Weapon_HOT_3_-_ILA2002.jpg](https://zh.wikipedia.org/wiki/File:Long_Range_Anti-tank_Weapon_HOT_3_-_ILA2002.jpg "fig:Long_Range_Anti-tank_Weapon_HOT_3_-_ILA2002.jpg") [Panzermuseum_Munster_2010_0943.JPG](https://zh.wikipedia.org/wiki/File:Panzermuseum_Munster_2010_0943.JPG "fig:Panzermuseum_Munster_2010_0943.JPG")
 
   -
   -
@@ -57,6 +54,4 @@ HOT式基本型，1964年開始研製至1977年裝備部隊
   - [9K112眼鏡蛇反坦克導彈](../Page/9K112眼鏡蛇反坦克導彈.md "wikilink")
   - [9M133短號反坦克导弹](../Page/9M133短號反坦克导弹.md "wikilink")
 
-[Category:法国导弹](https://zh.wikipedia.org/wiki/Category:法国导弹 "wikilink")
-[Category:德国导弹](https://zh.wikipedia.org/wiki/Category:德国导弹 "wikilink")
-[Category:反坦克导弹](https://zh.wikipedia.org/wiki/Category:反坦克导弹 "wikilink")
+[Category:法国导弹](https://zh.wikipedia.org/wiki/Category:法国导弹 "wikilink") [Category:德国导弹](https://zh.wikipedia.org/wiki/Category:德国导弹 "wikilink") [Category:反坦克导弹](https://zh.wikipedia.org/wiki/Category:反坦克导弹 "wikilink")

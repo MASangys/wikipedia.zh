@@ -1,16 +1,12 @@
-《**ayumi hamasaki concert tour 2000 A 第1幕**》（濱崎步 2000年 巡迴演唱會 A
-第1幕）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2000年間舉行的巡迴演唱會。。
+《**ayumi hamasaki concert tour 2000 A 第1幕**》（濱崎步 2000年 巡迴演唱會 A 第1幕）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2000年間舉行的巡迴演唱會。。
 
 ## 說明
 
 2000年濱崎步首次在日本全國巡演。本作VHS版本與DVD版本同時發行。
 
-本作VHS版本在2000年9月13日發行與「[ayumi hamasaki concert tour 2000 A
-第2幕](https://zh.wikipedia.org/wiki/ayumi_hamasaki_concert_tour_2000_A_第2幕 "wikilink")」VHS版本同時發行。
+本作VHS版本在2000年9月13日發行與「[ayumi hamasaki concert tour 2000 A 第2幕](https://zh.wikipedia.org/wiki/ayumi_hamasaki_concert_tour_2000_A_第2幕 "wikilink")」VHS版本同時發行。
 
-本作DVD版本在2000年9月27日第三張專輯「[Duty](../Page/Duty.md "wikilink")」和第十七張單曲「[SURREAL](../Page/SURREAL.md "wikilink")」，另作DVD版本「[ayumi
-hamasaki concert tour 2000 A
-第2幕](https://zh.wikipedia.org/wiki/ayumi_hamasaki_concert_tour_2000_A_第2幕 "wikilink")」同時發行。
+本作DVD版本在2000年9月27日第三張專輯「[Duty](../Page/Duty.md "wikilink")」和第十七張單曲「[SURREAL](../Page/SURREAL.md "wikilink")」，另作DVD版本「[ayumi hamasaki concert tour 2000 A 第2幕](https://zh.wikipedia.org/wiki/ayumi_hamasaki_concert_tour_2000_A_第2幕 "wikilink")」同時發行。
 
 日本Oricon公信榜DVD榜，剛進榜就獲得第1名，與「[Duty](../Page/Duty.md "wikilink")」「[SURREAL](../Page/SURREAL.md "wikilink")」同時進榜當獲得第1名，達成「3冠」的局面。這是日本Oricon公信榜史上第一次，一直到2006年由KAT-TUN獲得第2次的殊榮。
 
@@ -49,5 +45,4 @@ encore
 
 </small>
 
-[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink")
-[Category:2000年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2000年音樂相關影像作品 "wikilink")
+[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink") [Category:2000年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2000年音樂相關影像作品 "wikilink")

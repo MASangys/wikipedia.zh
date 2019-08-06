@@ -1,8 +1,4 @@
-《**Go my
-way**》是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[第三代J
-Soul
-Brothers的第](../Page/J_Soul_Brothers.md "wikilink")6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2012年3月7日由[rhythm
-zone發售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
+《**Go my way**》是[日本](../Page/日本.md "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")[第三代J Soul Brothers的第](../Page/J_Soul_Brothers.md "wikilink")6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2012年3月7日由[rhythm zone發售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
@@ -27,9 +23,6 @@ zone發售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 外部連結
 
-  - [三代目J Soul Brothers「Go my way -short
-    version-」ミュージック・ビデオ](http://www.youtube.com/watch?v=YZfa6As9VwE&feature=player_embedded)
-    - [YouTube](../Page/YouTube.md "wikilink")
+  - [三代目J Soul Brothers「Go my way -short version-」ミュージック・ビデオ](http://www.youtube.com/watch?v=YZfa6As9VwE&feature=player_embedded) - [YouTube](../Page/YouTube.md "wikilink")
 
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:J_Soul_Brothers歌曲](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers歌曲 "wikilink")
+[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:J_Soul_Brothers歌曲](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers歌曲 "wikilink")

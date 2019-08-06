@@ -8,6 +8,4 @@
 
 ## 參考資料
 
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:蒼井翔太單曲](https://zh.wikipedia.org/wiki/Category:蒼井翔太單曲 "wikilink")
-[Category:2014年日本](https://zh.wikipedia.org/wiki/Category:2014年日本 "wikilink")
+[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:蒼井翔太單曲](https://zh.wikipedia.org/wiki/Category:蒼井翔太單曲 "wikilink") [Category:2014年日本](https://zh.wikipedia.org/wiki/Category:2014年日本 "wikilink")

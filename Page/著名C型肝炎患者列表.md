@@ -1,5 +1,4 @@
-[Digestive_system_diagram_zh-hant.svg](https://zh.wikipedia.org/wiki/File:Digestive_system_diagram_zh-hant.svg "fig:Digestive_system_diagram_zh-hant.svg")是C型肝炎病毒的感染對象\]\]
-[C型肝炎是由](https://zh.wikipedia.org/wiki/C型肝炎 "wikilink")[C型肝炎病毒](https://zh.wikipedia.org/wiki/C型肝炎病毒 "wikilink")（HCV）所引起的[病毒性肝炎](https://zh.wikipedia.org/wiki/病毒性肝炎 "wikilink")。它具有傳染性，可經由血液接觸或受汙染的血液感染。患者受感染後普遍沒有症狀表現，但會轉變成慢性[肝炎](https://zh.wikipedia.org/wiki/肝炎 "wikilink")，而引發[肝](https://zh.wikipedia.org/wiki/肝 "wikilink")[纖維化](https://zh.wikipedia.org/wiki/纖維化 "wikilink")，甚至[肝硬化](../Page/肝硬化.md "wikilink")；部分病情最終並演變為[肝衰竭](../Page/肝衰竭.md "wikilink")或[肝癌](../Page/肝癌.md "wikilink")。
+[Digestive_system_diagram_zh-hant.svg](https://zh.wikipedia.org/wiki/File:Digestive_system_diagram_zh-hant.svg "fig:Digestive_system_diagram_zh-hant.svg")是C型肝炎病毒的感染對象\]\] [C型肝炎是由](https://zh.wikipedia.org/wiki/C型肝炎 "wikilink")[C型肝炎病毒](https://zh.wikipedia.org/wiki/C型肝炎病毒 "wikilink")（HCV）所引起的[病毒性肝炎](https://zh.wikipedia.org/wiki/病毒性肝炎 "wikilink")。它具有傳染性，可經由血液接觸或受汙染的血液感染。患者受感染後普遍沒有症狀表現，但會轉變成慢性[肝炎](https://zh.wikipedia.org/wiki/肝炎 "wikilink")，而引發[肝](https://zh.wikipedia.org/wiki/肝 "wikilink")[纖維化](https://zh.wikipedia.org/wiki/纖維化 "wikilink")，甚至[肝硬化](../Page/肝硬化.md "wikilink")；部分病情最終並演變為[肝衰竭](../Page/肝衰竭.md "wikilink")或[肝癌](../Page/肝癌.md "wikilink")。
 
 C型肝炎病毒於1989年4月首度被證實存在，但迄今估計全球已有約1.7億人為C型肝炎帶原者。它是美國進行肝臟移植的首要病因；而在美國，每年有多達8千至1萬人死於C型肝炎。目前醫界尚未發展出C型肝炎病毒[疫苗](../Page/疫苗.md "wikilink")。C型肝炎由於感染早期症狀溫和，常受到患者忽略。然而，患者若在感染初期獲得診斷，便能透過醫療技術控制病情，部分患者並可在使用[干擾素等抗病毒藥物治療後獲得痊癒](https://zh.wikipedia.org/wiki/干擾素 "wikilink")。
 
@@ -7,10 +6,7 @@ C型肝炎病毒於1989年4月首度被證實存在，但迄今估計全球已�
 
 ## 演藝
 
-[Pam_Anderson_2009.jpg](https://zh.wikipedia.org/wiki/File:Pam_Anderson_2009.jpg "fig:Pam_Anderson_2009.jpg")\]\]
-[Christopherlawford.JPG](https://zh.wikipedia.org/wiki/File:Christopherlawford.JPG "fig:Christopherlawford.JPG")\]\]
-[Jim_Nabors.jpg](https://zh.wikipedia.org/wiki/File:Jim_Nabors.jpg "fig:Jim_Nabors.jpg")\]\]
-[Ken_Watanabe_01.jpg](https://zh.wikipedia.org/wiki/File:Ken_Watanabe_01.jpg "fig:Ken_Watanabe_01.jpg")\]\]
+[Pam_Anderson_2009.jpg](https://zh.wikipedia.org/wiki/File:Pam_Anderson_2009.jpg "fig:Pam_Anderson_2009.jpg")\]\] [Christopherlawford.JPG](https://zh.wikipedia.org/wiki/File:Christopherlawford.JPG "fig:Christopherlawford.JPG")\]\] [Jim_Nabors.jpg](https://zh.wikipedia.org/wiki/File:Jim_Nabors.jpg "fig:Jim_Nabors.jpg")\]\] [Ken_Watanabe_01.jpg](https://zh.wikipedia.org/wiki/File:Ken_Watanabe_01.jpg "fig:Ken_Watanabe_01.jpg")\]\]
 
 <table>
 <colgroup>
@@ -150,9 +146,7 @@ C型肝炎病毒於1989年4月首度被證實存在，但迄今估計全球已�
 
 ## 參考文獻
 
-[Category:各疾病人物列表](https://zh.wikipedia.org/wiki/Category:各疾病人物列表 "wikilink")
-[Category:C型肝炎](https://zh.wikipedia.org/wiki/Category:C型肝炎 "wikilink")
-[Category:肝炎](https://zh.wikipedia.org/wiki/Category:肝炎 "wikilink")
+[Category:各疾病人物列表](https://zh.wikipedia.org/wiki/Category:各疾病人物列表 "wikilink") [Category:C型肝炎](https://zh.wikipedia.org/wiki/Category:C型肝炎 "wikilink") [Category:肝炎](https://zh.wikipedia.org/wiki/Category:肝炎 "wikilink")
 
 1.
 2.

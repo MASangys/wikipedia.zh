@@ -4,8 +4,7 @@
 
 ## 劇情內容
 
-一日，一名眼部受傷的女人突然出現在[廉政公署總部](../Page/廉政公署_\(香港\).md "wikilink")，揚言要控告[商業罪案調查科](../Page/商業罪案調查科.md "wikilink")[警司](../Page/警司.md "wikilink")黃文彬（[林家棟](../Page/林家棟.md "wikilink")飾）貪污，廉政公署執行處首席調查主任陸志廉（[古天樂](../Page/古天樂.md "wikilink")飾）與隊員接手調查。在追查過程中，陸志廉發現事情並不簡單，因為身為警司的黃文彬在執行職務時，不單沒有阻止罪案發生，更利用職權參與犯罪。正當調查漸漸有頭緒時，重要証人一個一個被殺，包括會計師羅德永（[盧海鵬](../Page/盧海鵬.md "wikilink")飾），所有線索以及証據亦告失去，但有勇有謀的陸志廉並未放棄，隨著神秘少女Angel
-梁安瑩（[陳靜飾](https://zh.wikipedia.org/wiki/陳靜 "wikilink")）的出現，他發現律師胡志勇（[王敏德](../Page/王敏德.md "wikilink")飾）與「關懷基金主席」徐懷景（[駱應鈞](../Page/駱應鈞.md "wikilink")飾）有不可告人的秘密。陸志廉今次將要面對一個龐大的貪污集團：當中包括了退休高官、警隊高層、商界富豪、資深律師和會計師等，事件更牽涉到香港政府用作扶貧的150億港元[關懷基金](../Page/關愛基金.md "wikilink")。
+一日，一名眼部受傷的女人突然出現在[廉政公署總部](../Page/廉政公署_\(香港\).md "wikilink")，揚言要控告[商業罪案調查科](../Page/商業罪案調查科.md "wikilink")[警司](../Page/警司.md "wikilink")黃文彬（[林家棟](../Page/林家棟.md "wikilink")飾）貪污，廉政公署執行處首席調查主任陸志廉（[古天樂](../Page/古天樂.md "wikilink")飾）與隊員接手調查。在追查過程中，陸志廉發現事情並不簡單，因為身為警司的黃文彬在執行職務時，不單沒有阻止罪案發生，更利用職權參與犯罪。正當調查漸漸有頭緒時，重要証人一個一個被殺，包括會計師羅德永（[盧海鵬](../Page/盧海鵬.md "wikilink")飾），所有線索以及証據亦告失去，但有勇有謀的陸志廉並未放棄，隨著神秘少女Angel 梁安瑩（[陳靜飾](https://zh.wikipedia.org/wiki/陳靜 "wikilink")）的出現，他發現律師胡志勇（[王敏德](../Page/王敏德.md "wikilink")飾）與「關懷基金主席」徐懷景（[駱應鈞](../Page/駱應鈞.md "wikilink")飾）有不可告人的秘密。陸志廉今次將要面對一個龐大的貪污集團：當中包括了退休高官、警隊高層、商界富豪、資深律師和會計師等，事件更牽涉到香港政府用作扶貧的150億港元[關懷基金](../Page/關愛基金.md "wikilink")。
 
 ## 演員表
 
@@ -215,12 +214,4 @@
   -
   -
   -
-[Category:2014年电影](https://zh.wikipedia.org/wiki/Category:2014年电影 "wikilink")
-[Category:粵語電影](https://zh.wikipedia.org/wiki/Category:粵語電影 "wikilink")
-[Category:香港剧情片](https://zh.wikipedia.org/wiki/Category:香港剧情片 "wikilink")
-[Category:2010年代剧情片](https://zh.wikipedia.org/wiki/Category:2010年代剧情片 "wikilink")
-[Category:2010年代香港电影作品](https://zh.wikipedia.org/wiki/Category:2010年代香港电影作品 "wikilink")
-[Category:天馬電影](https://zh.wikipedia.org/wiki/Category:天馬電影 "wikilink")
-[Category:銀都機構電影](https://zh.wikipedia.org/wiki/Category:銀都機構電影 "wikilink")
-[Category:貪污相關電影](https://zh.wikipedia.org/wiki/Category:貪污相關電影 "wikilink")
-[Category:2014年香港電影](https://zh.wikipedia.org/wiki/Category:2014年香港電影 "wikilink")
+[Category:2014年电影](https://zh.wikipedia.org/wiki/Category:2014年电影 "wikilink") [Category:粵語電影](https://zh.wikipedia.org/wiki/Category:粵語電影 "wikilink") [Category:香港剧情片](https://zh.wikipedia.org/wiki/Category:香港剧情片 "wikilink") [Category:2010年代剧情片](https://zh.wikipedia.org/wiki/Category:2010年代剧情片 "wikilink") [Category:2010年代香港电影作品](https://zh.wikipedia.org/wiki/Category:2010年代香港电影作品 "wikilink") [Category:天馬電影](https://zh.wikipedia.org/wiki/Category:天馬電影 "wikilink") [Category:銀都機構電影](https://zh.wikipedia.org/wiki/Category:銀都機構電影 "wikilink") [Category:貪污相關電影](https://zh.wikipedia.org/wiki/Category:貪污相關電影 "wikilink") [Category:2014年香港電影](https://zh.wikipedia.org/wiki/Category:2014年香港電影 "wikilink")

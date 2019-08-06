@@ -1,8 +1,7 @@
 [解析HTML是一项自动化工作](https://zh.wikipedia.org/wiki/语法分析器 "wikilink")，由（所谓的）**HTML解析器**执行。它们有两个主要目的：
 
   - HTML遍历：为程序员提供一个接口，来轻松地访问和修改“HTML代码”。典型例子：[DOM解析器](https://zh.wikipedia.org/wiki/文档对象模型#库 "wikilink")。
-  - HTML清理：修正有语法错误的HTML，改善结果标记的布局和缩进样式。典型例子：[HTML
-    Tidy](https://zh.wikipedia.org/wiki/HTML_Tidy "wikilink")。
+  - HTML清理：修正有语法错误的HTML，改善结果标记的布局和缩进样式。典型例子：[HTML Tidy](https://zh.wikipedia.org/wiki/HTML_Tidy "wikilink")。
 
 <table>
 <thead>
@@ -194,28 +193,21 @@
   -
     \* （有重要更新的）最新版本日期。
     \*\* *规范*（生成标准兼容的网页，减少垃圾信息，等）和*清理*（剥离过剩的表达标签，移除XSS代码，等）HTML代码。
-    \*\*\*
-    将HTML4.X升级到XHTML或HTML5，将废弃的标签（如CENTER）转换为有效的标签（如带有`style="text-align:center;"`的DIV）。
+    \*\*\* 将HTML4.X升级到XHTML或HTML5，将废弃的标签（如CENTER）转换为有效的标签（如带有`style="text-align:center;"`的DIV）。
 
 ## 参考资料
 
-[Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink")
-[Category:比较学](https://zh.wikipedia.org/wiki/Category:比较学 "wikilink")
+[Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink") [Category:比较学](https://zh.wikipedia.org/wiki/Category:比较学 "wikilink")
 
-1.  [12.2
-    解析HTML文档——HTML标准](http://www.whatwg.org/specs/web-apps/current-work/multipage/parsing.html)
-
+1.  [12.2 解析HTML文档——HTML标准](http://www.whatwg.org/specs/web-apps/current-work/multipage/parsing.html)
 2.  基于lxml和html5lib，http://www.crummy.com/software/BeautifulSoup/
 3.  [版本·html5lib/html5lib-python](https://github.com/html5lib/html5lib-python/releases)
 4.  [HTML-Parser：HTML 5的缺陷\#53300](https://rt.cpan.org/Public/Bug/Display.html?id=53300)
-5.  [Windows的HTML
-    Tidy](http://www.paehl.com/open_source/?HTML_Tidy_for_Windows)
-6.  [Windows的HTML
-    Tidy](http://www.paehl.com/open_source/?HTML_Tidy_for_Windows)
+5.  [Windows的HTML Tidy](http://www.paehl.com/open_source/?HTML_Tidy_for_Windows)
+6.  [Windows的HTML Tidy](http://www.paehl.com/open_source/?HTML_Tidy_for_Windows)
 7.  Tidy解析器举例：[PHP的class.tidynode](http://www.php.net/manual/zh/class.tidynode.php)
 8.  [HtmlCleaner以BSD许可证分发](http://htmlcleaner.sourceforge.net/license.php)
-9.  [Jericho HTML
-    Parser——在SourceForge.net浏览/jericho-html/3.3](http://sourceforge.net/projects/jerichohtml/files/jericho-html/3.3/)
+9.  [Jericho HTML Parser——在SourceForge.net浏览/jericho-html/3.3](http://sourceforge.net/projects/jerichohtml/files/jericho-html/3.3/)
 10. [在master的jsoup/CHANGES·jhy/jsoup·GitHub](https://github.com/jhy/jsoup/blob/master/CHANGES)
 11. [JTidy—在SourceForge.net浏览/JTidy](http://sourceforge.net/projects/jtidy/files/JTidy/)
 12. [libxml2版本](http://xmlsoft.org/news.html)

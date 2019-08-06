@@ -14,18 +14,15 @@
 
   - 1929年（昭和4年）1月31日 - 大沼電鐵大沼至鹿部之間路線通車。此處的「鹿部」是指大沼電鐵所屬之鹿部車站。
   - 1945年（昭和20年）6月1日 - 日本國有鐵道砂原線通車，國有鐵道所屬的**鹿部車站**啟用。砂原線啟用同時，大沼電鐵全線廢線。
-  - 1948年（昭和23年）1月16日 -
-    大沼電鐵新銚子口至鹿部（大沼電鐵所屬）間的路段再次啟用。大沼電鐵所屬的鹿部車站改名為「鹿部溫泉」。
+  - 1948年（昭和23年）1月16日 - 大沼電鐵新銚子口至鹿部（大沼電鐵所屬）間的路段再次啟用。大沼電鐵所屬的鹿部車站改名為「鹿部溫泉」。
   - 1949年（昭和24年）2月20日 - 國鐵鹿部車站改名為**鷹待**，而在同時，大沼電鐵的鹿部溫泉車站改回原本的「鹿部」站名。
   - 1952年（昭和27年）12月25日 - 大沼電鐵再次全線廢線。
   - 1956年（昭和31年）12月20日 - 國鐵所屬的鷹待車站，站名改回**鹿部**。
   - 1980年（昭和55年）5月1日 - 停辦貨運服務。
   - 1984年（昭和59年）
       - 2月1日 - 停辦行李托運服務。
-      - 11月1日 -
-        廢除[直營車站業務](https://zh.wikipedia.org/wiki/直營車站 "wikilink")，車站經營改委託由鹿部町方面負責，成為[簡易委託車站](https://zh.wikipedia.org/wiki/簡易委託車站 "wikilink")。
-  - 1987年（昭和62年）4月1日 -
-    [日本國鐵分割民營化](https://zh.wikipedia.org/wiki/日本國鐵分割民營化 "wikilink")，車站的營運由JR北海道繼承。
+      - 11月1日 - 廢除[直營車站業務](https://zh.wikipedia.org/wiki/直營車站 "wikilink")，車站經營改委託由鹿部町方面負責，成為[簡易委託車站](https://zh.wikipedia.org/wiki/簡易委託車站 "wikilink")。
+  - 1987年（昭和62年）4月1日 - [日本國鐵分割民營化](https://zh.wikipedia.org/wiki/日本國鐵分割民營化 "wikilink")，車站的營運由JR北海道繼承。
   - 2005年（平成17年）4月1日 - 廢除簡易委託車站的編制，全面改為無人車站。
 
 ## 相鄰車站
@@ -52,10 +49,6 @@
 
   - [鹿部車站（）](http://www.its-mo.com/c/%E9%B9%BF%E9%83%A8/DIDX_EKI%2C213/)
 
-[Category:日本鐵路車站_Shi](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Shi "wikilink")
-[Category:砂原支線車站](https://zh.wikipedia.org/wiki/Category:砂原支線車站 "wikilink")
-[Category:渡島管內鐵路車站](https://zh.wikipedia.org/wiki/Category:渡島管內鐵路車站 "wikilink")
-[Category:鹿部町](https://zh.wikipedia.org/wiki/Category:鹿部町 "wikilink")
-[Category:1945年启用的铁路车站](https://zh.wikipedia.org/wiki/Category:1945年启用的铁路车站 "wikilink")
+[Category:日本鐵路車站_Shi](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Shi "wikilink") [Category:砂原支線車站](https://zh.wikipedia.org/wiki/Category:砂原支線車站 "wikilink") [Category:渡島管內鐵路車站](https://zh.wikipedia.org/wiki/Category:渡島管內鐵路車站 "wikilink") [Category:鹿部町](https://zh.wikipedia.org/wiki/Category:鹿部町 "wikilink") [Category:1945年启用的铁路车站](https://zh.wikipedia.org/wiki/Category:1945年启用的铁路车站 "wikilink")
 
 1.

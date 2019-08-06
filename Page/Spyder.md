@@ -11,15 +11,13 @@ Spyder还可以通过绑定[PyQt](../Page/PyQt.md "wikilink")或[PySide来使用
   - **文档浏览器**：在编辑器或端口中显示任意类或函数调用的文档。
   - **可变的浏览窗口**：在文件的执行过程中可以创建可变的浏览窗口。同时也可以对其进行编辑。
   - **在文件中查找**：支持正则表达式与Mercurial仓库
-  - **其他擴展使用**:
-    Spyder也可以作为PyQt4/PySide的扩展使用（spyderlib模块）。例如，Spyder当中使用的Python交互端也可以被你用在自己的PyQt4/PySide程序中。
+  - **其他擴展使用**: Spyder也可以作为PyQt4/PySide的扩展使用（spyderlib模块）。例如，Spyder当中使用的Python交互端也可以被你用在自己的PyQt4/PySide程序中。
   - **文件浏览器**
   - **历史记录**
 
 ## Light Mode
 
-Spyder也可以启动Light mode来运行一个轻量化的IDE。Light
-mode是一个非常简单轻巧的环境，仅包含了可变的浏览窗口和解释端口。
+Spyder也可以启动Light mode来运行一个轻量化的IDE。Light mode是一个非常简单轻巧的环境，仅包含了可变的浏览窗口和解释端口。
 
 Light mode已於Spyder 3.0.0版移除。\[4\]
 
@@ -49,8 +47,7 @@ Light mode已於Spyder 3.0.0版移除。\[4\]
   - Numpy（N维数组运算）
   - Scipy（信号与图像分析）
 
-需要注意的一点是，在Ubuntu中使用IPython需要安装ipython-qtconsole，而在Fedora中需要ipython-gui，在
-Gentoo中需要安装qt4 USE flag。
+需要注意的一点是，在Ubuntu中使用IPython需要安装ipython-qtconsole，而在Fedora中需要ipython-gui，在 Gentoo中需要安装qt4 USE flag。
 
 ### 可选的模块
 
@@ -69,9 +66,7 @@ Gentoo中需要安装qt4 USE flag。
 
   - [官方网站](https://github.com/spyder-ide/spyder)
 
-[Category:Python軟體](https://zh.wikipedia.org/wiki/Category:Python軟體 "wikilink")
-[Category:集成开发环境](https://zh.wikipedia.org/wiki/Category:集成开发环境 "wikilink")
-[Category:自由整合開發環境](https://zh.wikipedia.org/wiki/Category:自由整合開發環境 "wikilink")
+[Category:Python軟體](https://zh.wikipedia.org/wiki/Category:Python軟體 "wikilink") [Category:集成开发环境](https://zh.wikipedia.org/wiki/Category:集成开发环境 "wikilink") [Category:自由整合開發環境](https://zh.wikipedia.org/wiki/Category:自由整合開發環境 "wikilink")
 
 1.
 2.

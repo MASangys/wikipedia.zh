@@ -30,6 +30,4 @@ image:Sydney 2000 Olympic tennis.JPG|
 
   - [官方網站](http://www.tennis.com.au/soptennis/)
 
-[Category:澳洲網球場](https://zh.wikipedia.org/wiki/Category:澳洲網球場 "wikilink")
-[Category:2000年夏季奧林匹克運動會運動場](https://zh.wikipedia.org/wiki/Category:2000年夏季奧林匹克運動會運動場 "wikilink")
-[Category:奧運網球場地](https://zh.wikipedia.org/wiki/Category:奧運網球場地 "wikilink")
+[Category:澳洲網球場](https://zh.wikipedia.org/wiki/Category:澳洲網球場 "wikilink") [Category:2000年夏季奧林匹克運動會運動場](https://zh.wikipedia.org/wiki/Category:2000年夏季奧林匹克運動會運動場 "wikilink") [Category:奧運網球場地](https://zh.wikipedia.org/wiki/Category:奧運網球場地 "wikilink")

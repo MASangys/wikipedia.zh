@@ -22,8 +22,7 @@ ABC电视的历史可以追溯至公元1953年。当时澳大利亚联邦的电�
 
 ## 參考資料
 
-[Category:澳大利亚广播公司](https://zh.wikipedia.org/wiki/Category:澳大利亚广播公司 "wikilink")
-[Category:澳大利亚电视](https://zh.wikipedia.org/wiki/Category:澳大利亚电视 "wikilink")
+[Category:澳大利亚广播公司](https://zh.wikipedia.org/wiki/Category:澳大利亚广播公司 "wikilink") [Category:澳大利亚电视](https://zh.wikipedia.org/wiki/Category:澳大利亚电视 "wikilink")
 
 1.
 2.

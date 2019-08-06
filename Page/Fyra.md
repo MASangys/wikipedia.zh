@@ -6,8 +6,7 @@
 
 Fyra是一个[合成词](../Page/合成词.md "wikilink")，它与法国高速列车的名称Thalys一样由相同的命名机构进行设计\[1\]。选择该名称是因为它较短，并且在国际上易于发音\[2\]。它由“自豪”及“自信”的[荷兰语](https://zh.wikipedia.org/wiki/荷兰语 "wikilink")、[弗拉芒语](../Page/弗拉芒语.md "wikilink")和[法语](../Page/法语.md "wikilink")[单词衍生而来](https://zh.wikipedia.org/wiki/单词 "wikilink")（荷兰语：，自信；荷兰语及法语：，自豪）。此外，Fyra在[瑞典语中亦为](https://zh.wikipedia.org/wiki/瑞典语 "wikilink")“四”之意，这应当与列车途经的四座主要城市（[阿姆斯特丹](../Page/阿姆斯特丹.md "wikilink")、[鹿特丹](../Page/鹿特丹.md "wikilink")、[安特卫普](../Page/安特卫普.md "wikilink")及[布鲁塞尔](../Page/布鲁塞尔.md "wikilink")）相关联\[3\]。
 
-至2013年12月的运行图调整中，Fyra的名称由于当时的负面形象而被弃用，其本土服务则以Intercity
-Direct的名义在市场上销售\[4\] 。
+至2013年12月的运行图调整中，Fyra的名称由于当时的负面形象而被弃用，其本土服务则以Intercity Direct的名义在市场上销售\[4\] 。
 
 ## 网络
 
@@ -24,21 +23,10 @@ Fyra网络的核心是从[史基浦机场至安特卫普的](https://zh.wikipedi
 
 ## 注释
 
-[Category:荷蘭鐵路](https://zh.wikipedia.org/wiki/Category:荷蘭鐵路 "wikilink")
-[Category:比利時鐵路](https://zh.wikipedia.org/wiki/Category:比利時鐵路 "wikilink")
+[Category:荷蘭鐵路](https://zh.wikipedia.org/wiki/Category:荷蘭鐵路 "wikilink") [Category:比利時鐵路](https://zh.wikipedia.org/wiki/Category:比利時鐵路 "wikilink")
 
-1.  *[Fyra – het pittige zusje van de
-    Thalys](http://www.globrands.com/cases/fyra/).* (deutsch: „Fyra -
-    die flotte kleine Schwester des Thalys“), Agentur Globrands naming &
-    strategy, Amsterdam
-2.  *What′s in a name?*, [Time to
-    B](http://www.belgianrail.be/nl/corporate/publicaties/time-to-b/~/media/8D6CC4E3C93241EDB33265F20CB51451.pdf)
-    (PDF; 7,2 MB), Kundenmagazin der NBMS (flämisch), Ausgabe 17.
-    Dezember 2012, Seite 26
+1.  *[Fyra – het pittige zusje van de Thalys](http://www.globrands.com/cases/fyra/).* (deutsch: „Fyra - die flotte kleine Schwester des Thalys“), Agentur Globrands naming & strategy, Amsterdam
+2.  *What′s in a name?*, [Time to B](http://www.belgianrail.be/nl/corporate/publicaties/time-to-b/~/media/8D6CC4E3C93241EDB33265F20CB51451.pdf) (PDF; 7,2 MB), Kundenmagazin der NBMS (flämisch), Ausgabe 17. Dezember 2012, Seite 26
 3.
-4.  [eurailpress.de - Niederlande: Aus Fyra wird „Intercity
-    Direct“](http://www.eurailpress.de/news/wirtschaft-unternehmen/single-view/news/niederlande-aus-fyra-wird-intercity-direct.html)
-    15. November 2013
-5.  Peter Badcock: *Dutch wait for HSL South to bloom*. In:
-    International Railway Journal, 49. Jahrgang, Heft 2, Februar 2009, ,
-    S. 16–19.
+4.  [eurailpress.de - Niederlande: Aus Fyra wird „Intercity Direct“](http://www.eurailpress.de/news/wirtschaft-unternehmen/single-view/news/niederlande-aus-fyra-wird-intercity-direct.html) 15. November 2013
+5.  Peter Badcock: *Dutch wait for HSL South to bloom*. In: International Railway Journal, 49. Jahrgang, Heft 2, Februar 2009, , S. 16–19.

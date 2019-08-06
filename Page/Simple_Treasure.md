@@ -1,5 +1,4 @@
-『**Simple
-Treasure**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛](../Page/川嶋愛.md "wikilink")在2009年6月3日發售的首張第四張非迷你專輯\[1\]。
+『**Simple Treasure**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛](../Page/川嶋愛.md "wikilink")在2009年6月3日發售的首張第四張非迷你專輯\[1\]。
 
 ## 解説
 
@@ -15,8 +14,7 @@ Treasure**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創
 
 1.  **Again**
     編曲：宗本康兵
-2.  **[Door
-    Crawl](../Page/Door_Crawl.md "wikilink")**<small>（ドアクロール）</small>
+2.  **[Door Crawl](../Page/Door_Crawl.md "wikilink")**<small>（ドアクロール）</small>
     編曲：陶山隼
       -
         出自第15張單曲。
@@ -27,13 +25,11 @@ Treasure**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創
 4.  **lover**
     編曲：宗本康兵
       -
-        [日本電視台](../Page/日本電視台.md "wikilink")、[NTT
-        DOCOMO免費放送連續劇](../Page/NTT_DOCOMO.md "wikilink")『ダブル～この恋には裏がある～』主題曲。
+        [日本電視台](../Page/日本電視台.md "wikilink")、[NTT DOCOMO免費放送連續劇](../Page/NTT_DOCOMO.md "wikilink")『ダブル～この恋には裏がある～』主題曲。
 5.  **Revolution**
     編曲：CONEY'S JELLY
       -
-        [大阪Wao](https://zh.wikipedia.org/wiki/大阪 "wikilink")
-        Corporation「能開中心的夏期講習会」CM歌曲。
+        [大阪Wao](https://zh.wikipedia.org/wiki/大阪 "wikilink") Corporation「能開中心的夏期講習会」CM歌曲。
 6.  **青鳥**<small>（青い鳥）</small>
     編曲：宗本康兵
 7.  **[沒問題的唷](../Page/沒問題的唷.md "wikilink")**<small>（大丈夫だよ）</small>
@@ -71,11 +67,7 @@ Treasure**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創
 
 ## 參考資料
 
-[Category:川嶋愛音樂專輯](https://zh.wikipedia.org/wiki/Category:川嶋愛音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
+[Category:川嶋愛音樂專輯](https://zh.wikipedia.org/wiki/Category:川嶋愛音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
 
-1.  [川嶋あい My Room - DISCOGRAPHY -
-    ALBUM](http://www.kawashimaai.com/discography/album.php)  川嶋愛官方網站
-2.  [川嶋愛將「精神上聯繫著的愛」寫入的歌曲首次公開！
-    『寄子』首次上映](http://www.cinemacafe.net/news/cgi/report/2008/04/3768/)
-     cinemacafe.net
+1.  [川嶋あい My Room - DISCOGRAPHY - ALBUM](http://www.kawashimaai.com/discography/album.php)  川嶋愛官方網站
+2.  [川嶋愛將「精神上聯繫著的愛」寫入的歌曲首次公開！ 『寄子』首次上映](http://www.cinemacafe.net/news/cgi/report/2008/04/3768/)  cinemacafe.net

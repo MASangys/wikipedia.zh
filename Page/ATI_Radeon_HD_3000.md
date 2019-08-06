@@ -1,46 +1,16 @@
-**ATI Radeon HD 3000系列**，代號*Radeon
-R670*，是[ATi被](https://zh.wikipedia.org/wiki/ATi "wikilink")[AMD收購以後推出的第二個](https://zh.wikipedia.org/wiki/AMD "wikilink")[Radeon系列圖形處理器](https://zh.wikipedia.org/wiki/ATI_Radeon "wikilink")。Radeon
-HD 3000系列的架構和上一代[Radeon HD
-2000系列](../Page/ATI_Radeon_HD_2000.md "wikilink")（代號*[Radeon
-R600](https://zh.wikipedia.org/wiki/Radeon_R600 "wikilink")*）的基本一致。但不同的是，Radeon
-HD 3000系列採用55奈米製程，上代產品採用的是80奈米或65奈米製程。單晶片頂級產品Radeon HD
-3870相較於上代的旗艦型號Radeon HD 2900
-XT，降低了顯示記憶體位寬，核心時脈亦有所提升，性能亦有進步，但功耗則大幅降低。在Radeon
-HD 2000系列推出不到一年，2007年11月15日，AMD發佈基於RV670顯示核心的Radeon HD
-3800系列顯示卡，以55奈米製程製造，支援DirectX
-10.1，並首次於中高階和旗艦產品中加入UVD，提供硬體影像解碼。
+**ATI Radeon HD 3000系列**，代號*Radeon R670*，是[ATi被](https://zh.wikipedia.org/wiki/ATi "wikilink")[AMD收購以後推出的第二個](https://zh.wikipedia.org/wiki/AMD "wikilink")[Radeon系列圖形處理器](https://zh.wikipedia.org/wiki/ATI_Radeon "wikilink")。Radeon HD 3000系列的架構和上一代[Radeon HD 2000系列](../Page/ATI_Radeon_HD_2000.md "wikilink")（代號*[Radeon R600](https://zh.wikipedia.org/wiki/Radeon_R600 "wikilink")*）的基本一致。但不同的是，Radeon HD 3000系列採用55奈米製程，上代產品採用的是80奈米或65奈米製程。單晶片頂級產品Radeon HD 3870相較於上代的旗艦型號Radeon HD 2900 XT，降低了顯示記憶體位寬，核心時脈亦有所提升，性能亦有進步，但功耗則大幅降低。在Radeon HD 2000系列推出不到一年，2007年11月15日，AMD發佈基於RV670顯示核心的Radeon HD 3800系列顯示卡，以55奈米製程製造，支援DirectX 10.1，並首次於中高階和旗艦產品中加入UVD，提供硬體影像解碼。
 
 ## 產品
 
 ### Radeon HD 3800
 
-Radeon HD 3000 系列是以 RV670 核心為基礎，使用 55 nm 製程。Radeon HD 3000 系列支援
-[DirectX](../Page/DirectX.md "wikilink") 10.1 與 [Shader
-Model](https://zh.wikipedia.org/wiki/高階著色器語言 "wikilink") 4.1 \[1\]，而
-[UVD](../Page/UVD.md "wikilink") 也內建到核心內，提供完整的
-[VC-1](../Page/VC-1.md "wikilink") 與
-[H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink")
-的硬體解壓。核心製造工藝方面，全面採用55
-nm。與此同時，競爭對手NVIDIA的GeForce 8800 GT仍然採用65
-nm製程。顯示記憶體頻寬方面，HD 3870/3850只會採用256-bit，而不是舊有2900
-XT的512-bit。AMD表示，因為新顯示核心的顯示記憶體已作出改善，而採用256-bit記憶體亦可以降低成本，增強競爭力。顯示卡介面方面，HD
-3870/3850會採用較新的PCI-E
-2.0。CrossFire方面，最多可以支援四卡連接。為了降低電力消耗，AMD從流動平台引入了PowerPlay技術。在2D模式的時候，顯示核心頻率會降到300MHz。
+Radeon HD 3000 系列是以 RV670 核心為基礎，使用 55 nm 製程。Radeon HD 3000 系列支援 [DirectX](../Page/DirectX.md "wikilink") 10.1 與 [Shader Model](https://zh.wikipedia.org/wiki/高階著色器語言 "wikilink") 4.1 \[1\]，而 [UVD](../Page/UVD.md "wikilink") 也內建到核心內，提供完整的 [VC-1](../Page/VC-1.md "wikilink") 與 [H.264](https://zh.wikipedia.org/wiki/H.264 "wikilink") 的硬體解壓。核心製造工藝方面，全面採用55 nm。與此同時，競爭對手NVIDIA的GeForce 8800 GT仍然採用65 nm製程。顯示記憶體頻寬方面，HD 3870/3850只會採用256-bit，而不是舊有2900 XT的512-bit。AMD表示，因為新顯示核心的顯示記憶體已作出改善，而採用256-bit記憶體亦可以降低成本，增強競爭力。顯示卡介面方面，HD 3870/3850會採用較新的PCI-E 2.0。CrossFire方面，最多可以支援四卡連接。為了降低電力消耗，AMD從流動平台引入了PowerPlay技術。在2D模式的時候，顯示核心頻率會降到300MHz。
 
-目前大多數認為改變產品的品牌是因為不願意繼續以 HD 2000 系列來命名，因為HD
-2000將原先的推出時程表拖延而且沒有更明顯的對比效能\[2\]，而大多也認為由於製程更新而能夠內建更多的ROP，造成相同的裸晶大小能夠放入更多的電路。
+目前大多數認為改變產品的品牌是因為不願意繼續以 HD 2000 系列來命名，因為HD 2000將原先的推出時程表拖延而且沒有更明顯的對比效能\[2\]，而大多也認為由於製程更新而能夠內建更多的ROP，造成相同的裸晶大小能夠放入更多的電路。
 
-Radeon HD 3800 系列也有衍生產品，在2008年2月將會推出 Radeon HD 3870 X2，具備兩顆RV670核心與最高
-1024 MB GDDR3 或是 GDDR4 記憶體，該產品是針對效能狂熱級市場而推出的，預計將 Radeon HD 2900 XT
-取代，而這張顯示卡也具備 PowerPlay 技術以及數位式
-PWM，將能夠降低電源使用量與加強核心的穩定性。它的對手是[NVIDIA的GeForce](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")
-9800GX2，同樣是單卡雙芯的產品。利用CrossFire X技術，可以使用兩張3870 X2，達成四核心顯示加速。
+Radeon HD 3800 系列也有衍生產品，在2008年2月將會推出 Radeon HD 3870 X2，具備兩顆RV670核心與最高 1024 MB GDDR3 或是 GDDR4 記憶體，該產品是針對效能狂熱級市場而推出的，預計將 Radeon HD 2900 XT 取代，而這張顯示卡也具備 PowerPlay 技術以及數位式 PWM，將能夠降低電源使用量與加強核心的穩定性。它的對手是[NVIDIA的GeForce](https://zh.wikipedia.org/wiki/NVIDIA "wikilink") 9800GX2，同樣是單卡雙芯的產品。利用CrossFire X技術，可以使用兩張3870 X2，達成四核心顯示加速。
 
-而且值得注意的是 Radeon HD 3800 系列的命名法則將會改變。該系列改成以結尾兩位數字來取代之前的 PRO、XT、GT、XTX
-之類的命名（像是 HD 3850 與 HD 3870，表示著 3870 的效能比 3850 還要優秀）\[3\]。而在 IGP
-的命名也會改為這種命名法則，像是 [AMD 690系列的包含](../Page/AMD_690G晶片組.md "wikilink")
-side-port 記憶體的 M690T 的 IGP 就命名為 “Radeon X1270”，而 690G 的 IGP 命名為 “Radeon
-X1250”，而 690V IGP 的時脈較低而且功能較少則是命名為“Radeon X1200”，套用新命名法則的顯示卡就在之下列出：
+而且值得注意的是 Radeon HD 3800 系列的命名法則將會改變。該系列改成以結尾兩位數字來取代之前的 PRO、XT、GT、XTX 之類的命名（像是 HD 3850 與 HD 3870，表示著 3870 的效能比 3850 還要優秀）\[3\]。而在 IGP 的命名也會改為這種命名法則，像是 [AMD 690系列的包含](../Page/AMD_690G晶片組.md "wikilink") side-port 記憶體的 M690T 的 IGP 就命名為 “Radeon X1270”，而 690G 的 IGP 命名為 “Radeon X1250”，而 690V IGP 的時脈較低而且功能較少則是命名為“Radeon X1200”，套用新命名法則的顯示卡就在之下列出：
 
 <table>
 <thead>
@@ -106,28 +76,13 @@ X1250”，而 690V IGP 的時脈較低而且功能較少則是命名為“Radeo
 
 ### Radeon HD 3600
 
-Radeon HD 3600 系列採用 RV635 核心，而 RV635 是將原有的 RV630 使用55奈米製程縮小化，配備著 3.78
-億個電晶體與120個流處理器。Radeon HD 3600 將是第一款原生支援新型 DisplayPort 介面的
-GPU。DisplayPort 能夠只要一條螢幕連接線即可實現多螢幕操作，而 DisplayPort
-的纜線更能夠同時傳輸影像與8聲道24bit的音效。而
-[HDMI](../Page/HDMI.md "wikilink") 與
-[D-Sub](../Page/VGA端子.md "wikilink") 也能藉由轉接頭獲得支援\[4\]。其他功能包括支援
-DirectX 10.1，還有第二代 [UVD](../Page/UVD.md "wikilink") 的 AVIVO HD 。另一種衍生版本，
-Radeon HD 3650在2008年1月23日發表。而官方參考設計的背板就搭載兩個 DisplayPort 與一個
-[DVI](../Page/DVI.md "wikilink")-D\[5\]。
+Radeon HD 3600 系列採用 RV635 核心，而 RV635 是將原有的 RV630 使用55奈米製程縮小化，配備著 3.78 億個電晶體與120個流處理器。Radeon HD 3600 將是第一款原生支援新型 DisplayPort 介面的 GPU。DisplayPort 能夠只要一條螢幕連接線即可實現多螢幕操作，而 DisplayPort 的纜線更能夠同時傳輸影像與8聲道24bit的音效。而 [HDMI](../Page/HDMI.md "wikilink") 與 [D-Sub](../Page/VGA端子.md "wikilink") 也能藉由轉接頭獲得支援\[4\]。其他功能包括支援 DirectX 10.1，還有第二代 [UVD](../Page/UVD.md "wikilink") 的 AVIVO HD 。另一種衍生版本， Radeon HD 3650在2008年1月23日發表。而官方參考設計的背板就搭載兩個 DisplayPort 與一個 [DVI](../Page/DVI.md "wikilink")-D\[5\]。
 
-另外，中國地區有一種特別版本稱為 Radeon HD 3690，採用與 Radeon HD 3800 系列相同的 RV670
-核心，但顯示記憶體頻寬由256bit降至128bit，可減少記憶體成本。但其後為對抗nVidia
-GeForce 9500GT，正式編入 Radeon HD3850 系列，一般稱為 Radeon HD3850 128bit。
+另外，中國地區有一種特別版本稱為 Radeon HD 3690，採用與 Radeon HD 3800 系列相同的 RV670 核心，但顯示記憶體頻寬由256bit降至128bit，可減少記憶體成本。但其後為對抗nVidia GeForce 9500GT，正式編入 Radeon HD3850 系列，一般稱為 Radeon HD3850 128bit。
 
 ### Radeon HD 3400
 
-Radeon HD 3400 系列採用 RV620 核心，該核心是將 RV610
-核心利用55奈米製程縮小化，內含1.81亿個電晶體與40個流處理器。該產品也是原生支援
-[DisplayPort](../Page/DisplayPort.md "wikilink") \[6\]與DVI，也能夠透過轉接頭支援
-HDMI 與 D-Sub。其他功能包括支援 DirectX 10.1，第二代 UVD的 AVIVO
-HD。該產品的印刷電路板會提供完整寬度與半寬型出現。
-Radeon HD 3400 系列有兩種版本，Radeon HD 3450 與 Radeon HD 3470 已經發表於2008年1月23日。
+Radeon HD 3400 系列採用 RV620 核心，該核心是將 RV610 核心利用55奈米製程縮小化，內含1.81亿個電晶體與40個流處理器。該產品也是原生支援 [DisplayPort](../Page/DisplayPort.md "wikilink") \[6\]與DVI，也能夠透過轉接頭支援 HDMI 與 D-Sub。其他功能包括支援 DirectX 10.1，第二代 UVD的 AVIVO HD。該產品的印刷電路板會提供完整寬度與半寬型出現。 Radeon HD 3400 系列有兩種版本，Radeon HD 3450 與 Radeon HD 3470 已經發表於2008年1月23日。
 
 ## 規格表
 
@@ -476,16 +431,12 @@ GDDR4</p></td>
 </tbody>
 </table>
 
-<sup>1</sup> [統一渲染單元數量](https://zh.wikipedia.org/wiki/GPGPU "wikilink")
-: [紋理對映單元數量](https://zh.wikipedia.org/wiki/紋理對映單元 "wikilink") :
-[渲染輸出單元數量](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")
+<sup>1</sup> [統一渲染單元數量](https://zh.wikipedia.org/wiki/GPGPU "wikilink") : [紋理對映單元數量](https://zh.wikipedia.org/wiki/紋理對映單元 "wikilink") : [渲染輸出單元數量](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")
 <sup>2</sup>熱設計功耗（TDP）數值來源於超微官方資料。不同廠商的非公版顯示卡電路板設計會使得實際TDP數值和官方資料的有所不同。
 
 #### 整合式顯示核心
 
-超微推出的整合於晶片組內的Radeon HD 3000顯示核心，主要內建於[AMD
-700系列晶片組](https://zh.wikipedia.org/wiki/AMD_700晶片組系列 "wikilink")。均支援DirectX
-10.0和OpenGL 3.3。
+超微推出的整合於晶片組內的Radeon HD 3000顯示核心，主要內建於[AMD 700系列晶片組](https://zh.wikipedia.org/wiki/AMD_700晶片組系列 "wikilink")。均支援DirectX 10.0和OpenGL 3.3。
 
 <table>
 <thead>
@@ -616,11 +567,8 @@ GFLOPS</p></th>
 </tbody>
 </table>
 
-<sup>1</sup> [統一渲染單元數量](https://zh.wikipedia.org/wiki/GPGPU "wikilink")
-: [紋理對映單元數量](https://zh.wikipedia.org/wiki/紋理對映單元 "wikilink") :
-[渲染輸出單元數量](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")
-<sup>2</sup>在[ATI
-PowerPlay節電技術生效時](https://zh.wikipedia.org/wiki/ATI_PowerPlay "wikilink")，核心時脈在不同的使用場合時會有所不同。這個列表列出的時脈數值是官方宣稱的時脈值參數
+<sup>1</sup> [統一渲染單元數量](https://zh.wikipedia.org/wiki/GPGPU "wikilink") : [紋理對映單元數量](https://zh.wikipedia.org/wiki/紋理對映單元 "wikilink") : [渲染輸出單元數量](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")
+<sup>2</sup>在[ATI PowerPlay節電技術生效時](https://zh.wikipedia.org/wiki/ATI_PowerPlay "wikilink")，核心時脈在不同的使用場合時會有所不同。這個列表列出的時脈數值是官方宣稱的時脈值參數
 <sup>3</sup>整合顯示核心的專用記憶體採用特別的sideport匯流排，用作[顯示記憶體](https://zh.wikipedia.org/wiki/顯示記憶體 "wikilink")。內建顯示晶片為採用主記憶體的一部分（128M\~512M不等）作為顯示記憶體。
 
 ### 移動端圖形處理器
@@ -887,9 +835,7 @@ GFLOPs</p></th>
 </tbody>
 </table>
 
-<sup>1</sup> [統一渲染單元數量](https://zh.wikipedia.org/wiki/GPGPU "wikilink")
-: [紋理對映單元數量](https://zh.wikipedia.org/wiki/紋理對映單元 "wikilink") :
-[渲染輸出單元數量](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")
+<sup>1</sup> [統一渲染單元數量](https://zh.wikipedia.org/wiki/GPGPU "wikilink") : [紋理對映單元數量](https://zh.wikipedia.org/wiki/紋理對映單元 "wikilink") : [渲染輸出單元數量](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")
 
 ## 參見
 
@@ -897,23 +843,17 @@ GFLOPs</p></th>
   - [圖形處理器](../Page/圖形處理器.md "wikilink")
   - [ATI](https://zh.wikipedia.org/wiki/ATI "wikilink")
   - [ATI Radeon](https://zh.wikipedia.org/wiki/ATI_Radeon "wikilink")
-  - [FireStream
-    9170](https://zh.wikipedia.org/wiki/ATI_FireStream "wikilink")，Radeon
-    HD 3870用作GPGPU的版本。
-  - [Radeon HD
-    2000](https://zh.wikipedia.org/wiki/Radeon_HD_2000 "wikilink")
-  - [Radeon HD
-    4000](https://zh.wikipedia.org/wiki/Radeon_HD_4000 "wikilink")
+  - [FireStream 9170](https://zh.wikipedia.org/wiki/ATI_FireStream "wikilink")，Radeon HD 3870用作GPGPU的版本。
+  - [Radeon HD 2000](https://zh.wikipedia.org/wiki/Radeon_HD_2000 "wikilink")
+  - [Radeon HD 4000](https://zh.wikipedia.org/wiki/Radeon_HD_4000 "wikilink")
   - [NVIDIA GeForce 9](../Page/NVIDIA_GeForce_9.md "wikilink")
 
 ## 參考資料
 
 ## 外部連結
 
-  - [ATI Radeon HD 3000
-    Series](https://web.archive.org/web/20100212224119/http://ati.amd.com/products/hd3000series.html)
-  - [ATI Mobility Radeon HD 3000
-    Series](https://web.archive.org/web/20100409004908/http://ati.amd.com/products/hd3000seriesmob.html)
+  - [ATI Radeon HD 3000 Series](https://web.archive.org/web/20100212224119/http://ati.amd.com/products/hd3000series.html)
+  - [ATI Mobility Radeon HD 3000 Series](https://web.archive.org/web/20100409004908/http://ati.amd.com/products/hd3000seriesmob.html)
   - [techPowerUp\! GPU Database](http://www.techpowerup.com/gpudb)
 
 [Category:ATI顯示卡](https://zh.wikipedia.org/wiki/Category:ATI顯示卡 "wikilink")
@@ -924,18 +864,11 @@ GFLOPs</p></th>
 
 3.
 
-4.  [DailyTech
-    report](http://www.dailytech.com/AMD+RV635+with+DisplayPort+Unveiled/article9930.htm)
-    , retrieved December 7, 2007
+4.  [DailyTech report](http://www.dailytech.com/AMD+RV635+with+DisplayPort+Unveiled/article9930.htm) , retrieved December 7, 2007
 
 5.
-6.  [AMD official low-profile deisgn with
-    DisplayPort](http://www.amd.com/us-en/assets/content_type/Additional/44725A_ATrHD3450-dp_3-4_md_highRes.jpg)，retrieved
-    January 23, 2008
+6.  [AMD official low-profile deisgn with DisplayPort](http://www.amd.com/us-en/assets/content_type/Additional/44725A_ATrHD3450-dp_3-4_md_highRes.jpg)，retrieved January 23, 2008
 
-7.  [AMD Vendor ID
-    List](http://developer.amd.com/drivers/pc_vendor_id/Pages/default.aspx)
-    . Retrieved February 12, 2009.
+7.  [AMD Vendor ID List](http://developer.amd.com/drivers/pc_vendor_id/Pages/default.aspx) . Retrieved February 12, 2009.
 
-8.  [ATI Radeon Mobility Graphics
-    Cards](http://products.amd.com/en-us/MobilityGPUResult.aspx)
+8.  [ATI Radeon Mobility Graphics Cards](http://products.amd.com/en-us/MobilityGPUResult.aspx)

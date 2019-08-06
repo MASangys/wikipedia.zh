@@ -1,5 +1,4 @@
-《**Limit
-界限**》（），是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[末延景子](../Page/末延景子.md "wikilink")的一部[校園](https://zh.wikipedia.org/wiki/校園 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，2009年於11月號《[別冊FRIEND](../Page/別冊FRIEND.md "wikilink")》開始連載，台灣中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理，單行本全6卷。
+《**Limit 界限**》（），是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[末延景子](../Page/末延景子.md "wikilink")的一部[校園](https://zh.wikipedia.org/wiki/校園 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，2009年於11月號《[別冊FRIEND](../Page/別冊FRIEND.md "wikilink")》開始連載，台灣中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理，單行本全6卷。
 
 ## 故事概要
 
@@ -96,25 +95,17 @@
 
 #### 主要人物
 
-  - 今野水希 -
-    [櫻庭奈奈美](../Page/櫻庭奈奈美.md "wikilink")（童年：[宮永柚葵](https://zh.wikipedia.org/wiki/宮永柚葵 "wikilink")）（粵語配音：[黃昕瑜](../Page/黃昕瑜.md "wikilink")）
-  - 神矢知惠子 -
-    [土屋太鳳](../Page/土屋太鳳.md "wikilink")（粵語配音：[吳羨婷](../Page/吳羨婷.md "wikilink")）
-  - 日向晴明 -
-    [鈴木勝大](../Page/鈴木勝大.md "wikilink")（粵語配音：[鍾見麟](../Page/鍾見麟.md "wikilink")）
-  - 市之瀨春 -
-    [工藤綾乃](../Page/工藤綾乃.md "wikilink")（粵語配音：[何晶晶](../Page/何晶晶.md "wikilink")）
-  - 薄井千影 -
-    [增田有華](../Page/增田有華.md "wikilink")（粵語配音：[葉曉欣](../Page/葉曉欣.md "wikilink")）
-  - 盛重亞梨紗 -
-    [山下莉緒](../Page/山下莉緒.md "wikilink")（粵語配音：[黃淑芬](../Page/黃淑芬.md "wikilink")）
+  - 今野水希 - [櫻庭奈奈美](../Page/櫻庭奈奈美.md "wikilink")（童年：[宮永柚葵](https://zh.wikipedia.org/wiki/宮永柚葵 "wikilink")）（粵語配音：[黃昕瑜](../Page/黃昕瑜.md "wikilink")）
+  - 神矢知惠子 - [土屋太鳳](../Page/土屋太鳳.md "wikilink")（粵語配音：[吳羨婷](../Page/吳羨婷.md "wikilink")）
+  - 日向晴明 - [鈴木勝大](../Page/鈴木勝大.md "wikilink")（粵語配音：[鍾見麟](../Page/鍾見麟.md "wikilink")）
+  - 市之瀨春 - [工藤綾乃](../Page/工藤綾乃.md "wikilink")（粵語配音：[何晶晶](../Page/何晶晶.md "wikilink")）
+  - 薄井千影 - [增田有華](../Page/增田有華.md "wikilink")（粵語配音：[葉曉欣](../Page/葉曉欣.md "wikilink")）
+  - 盛重亞梨紗 - [山下莉緒](../Page/山下莉緒.md "wikilink")（粵語配音：[黃淑芬](../Page/黃淑芬.md "wikilink")）
 
 #### 神奈川縣立陽乃高中
 
-  - 五十嵐亘 -
-    [窪田正孝](https://zh.wikipedia.org/wiki/窪田正孝 "wikilink")（粵語配音：[李凱傑](../Page/李凱傑.md "wikilink")）
-  - 姬澤櫻 -
-    [高田-{里}-穗](../Page/高田里穗.md "wikilink")（粵語配音：[張頌欣](../Page/張頌欣.md "wikilink")）
+  - 五十嵐亘 - [窪田正孝](https://zh.wikipedia.org/wiki/窪田正孝 "wikilink")（粵語配音：[李凱傑](../Page/李凱傑.md "wikilink")）
+  - 姬澤櫻 - [高田-{里}-穗](../Page/高田里穗.md "wikilink")（粵語配音：[張頌欣](../Page/張頌欣.md "wikilink")）
   - 竹田繪里加 - （粵語配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
   - 光岡百合子 - （粵語配音：[伍秀霞](../Page/伍秀霞.md "wikilink")）
   - 馬淵校長 - （粵語配音：[馮志輝](../Page/馮志輝.md "wikilink")）
@@ -124,8 +115,7 @@
   - 今野博和 - （粵語配音：[張炳強](../Page/張炳強.md "wikilink")）
   - 今野寿美代 - （粵語配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")）
   - 今野遥 - （粵語配音：[詹健兒](../Page/詹健兒.md "wikilink")）
-  - 神矢理子 -
-    [古小路志音](https://zh.wikipedia.org/wiki/古小路志音 "wikilink")（粵語配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
+  - 神矢理子 - [古小路志音](https://zh.wikipedia.org/wiki/古小路志音 "wikilink")（粵語配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
   - 神矢優太郎 - （粵語配音：[張頌欣](../Page/張頌欣.md "wikilink")）
   - 神矢真實子 - （粵語配音：[羅孔柔](../Page/羅孔柔.md "wikilink")）
   - 盛重英次 - （粵語配音：[陳欣](../Page/陳欣_\(配音員\).md "wikilink")）
@@ -138,25 +128,19 @@
 #### 其他
 
   - 長崎明彦 - （粵語配音：[黃子敬](../Page/黃子敬.md "wikilink")）
-  - 韮沢祐二 -
-    [市橋正光](https://zh.wikipedia.org/wiki/市橋正光 "wikilink")（粵語配音：[朱子聰](../Page/朱子聰.md "wikilink")）
+  - 韮沢祐二 - [市橋正光](https://zh.wikipedia.org/wiki/市橋正光 "wikilink")（粵語配音：[朱子聰](../Page/朱子聰.md "wikilink")）
 
 ### 音樂
 
-  - 主題歌：[bump.y](https://zh.wikipedia.org/wiki/bump.y "wikilink")《SAVAGE
-    HEAVEN》（[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")）
+  - 主題歌：[bump.y](https://zh.wikipedia.org/wiki/bump.y "wikilink")《SAVAGE HEAVEN》（[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")）
 
 ### 製作人員
 
-  - 原作 -
-    [末延景子](../Page/末延景子.md "wikilink")「」（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）
-  - 編劇 -
-    [清水友佳子](https://zh.wikipedia.org/wiki/清水友佳子 "wikilink")、[山岡潤平](https://zh.wikipedia.org/wiki/山岡潤平 "wikilink")、[千壽實](https://zh.wikipedia.org/wiki/千壽實 "wikilink")、[谷岡由紀](https://zh.wikipedia.org/wiki/谷岡由紀 "wikilink")
+  - 原作 - [末延景子](../Page/末延景子.md "wikilink")「」（[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）
+  - 編劇 - [清水友佳子](https://zh.wikipedia.org/wiki/清水友佳子 "wikilink")、[山岡潤平](https://zh.wikipedia.org/wiki/山岡潤平 "wikilink")、[千壽實](https://zh.wikipedia.org/wiki/千壽實 "wikilink")、[谷岡由紀](https://zh.wikipedia.org/wiki/谷岡由紀 "wikilink")
   - 音樂 - [遠藤浩二](https://zh.wikipedia.org/wiki/遠藤浩二 "wikilink")
-  - 導演 -
-    [塚原亞由子](../Page/塚原亞由子.md "wikilink")、[高野英治](https://zh.wikipedia.org/wiki/高野英治 "wikilink")、[加藤尚樹](https://zh.wikipedia.org/wiki/加藤尚樹 "wikilink")
-  - 製作 -
-    [東京電視台](../Page/東京電視台.md "wikilink")、[ドリマックス](https://zh.wikipedia.org/wiki/ドリマックス・テレビジョン "wikilink")
+  - 導演 - [塚原亞由子](../Page/塚原亞由子.md "wikilink")、[高野英治](https://zh.wikipedia.org/wiki/高野英治 "wikilink")、[加藤尚樹](https://zh.wikipedia.org/wiki/加藤尚樹 "wikilink")
+  - 製作 - [東京電視台](../Page/東京電視台.md "wikilink")、[ドリマックス](https://zh.wikipedia.org/wiki/ドリマックス・テレビジョン "wikilink")
   - 製作公司 - 「リミット」製作委員會
 
 ### 集数
@@ -186,20 +170,7 @@
 
   - [香港無綫電視官方網站](http://programme.tvb.com/drama/limit)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
-[Category:驚悚漫畫](https://zh.wikipedia.org/wiki/Category:驚悚漫畫 "wikilink")
-[Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
-[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink")
-[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink")
-[Category:驚悚電視劇](https://zh.wikipedia.org/wiki/Category:驚悚電視劇 "wikilink")
-[Category:日本推理劇](https://zh.wikipedia.org/wiki/Category:日本推理劇 "wikilink")
-[Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink")
-[Category:遇難漂流題材漫畫](https://zh.wikipedia.org/wiki/Category:遇難漂流題材漫畫 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:相模原市背景作品](https://zh.wikipedia.org/wiki/Category:相模原市背景作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink") [Category:驚悚漫畫](https://zh.wikipedia.org/wiki/Category:驚悚漫畫 "wikilink") [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink") [Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:驚悚電視劇](https://zh.wikipedia.org/wiki/Category:驚悚電視劇 "wikilink") [Category:日本推理劇](https://zh.wikipedia.org/wiki/Category:日本推理劇 "wikilink") [Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink") [Category:遇難漂流題材漫畫](https://zh.wikipedia.org/wiki/Category:遇難漂流題材漫畫 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:相模原市背景作品](https://zh.wikipedia.org/wiki/Category:相模原市背景作品 "wikilink")
 
 1.  バスが静岡方面へ進行する交差点は[富士宮市](../Page/富士宮市.md "wikilink")の[猪の頭入口交差点](https://zh.wikipedia.org/wiki/国道139号 "wikilink")。
 2.

@@ -9,10 +9,8 @@
 ## 外部連結
 
   - [Schedules](https://web.archive.org/web/20080702112220/http://mtamaryland.com/services/lightrail/schedule/)
-  - [Station from Google Maps Street
-    View](http://maps.google.com/maps?hl=en&ie=UTF8&ll=39.191878,-76.674174&spn=0.003933,0.013701&z=17&layer=c&cbll=39.191892,-76.674016&panoid=t9PbvNByYt8wb-iiVSb_fw&cbp=12,134.96,,0,6.48)
+  - [Station from Google Maps Street View](http://maps.google.com/maps?hl=en&ie=UTF8&ll=39.191878,-76.674174&spn=0.003933,0.013701&z=17&layer=c&cbll=39.191892,-76.674016&panoid=t9PbvNByYt8wb-iiVSb_fw&cbp=12,134.96,,0,6.48)
 
-[Category:巴爾的摩輕軌車站](https://zh.wikipedia.org/wiki/Category:巴爾的摩輕軌車站 "wikilink")
-[Category:馬里蘭州鐵路車站](https://zh.wikipedia.org/wiki/Category:馬里蘭州鐵路車站 "wikilink")
+[Category:巴爾的摩輕軌車站](https://zh.wikipedia.org/wiki/Category:巴爾的摩輕軌車站 "wikilink") [Category:馬里蘭州鐵路車站](https://zh.wikipedia.org/wiki/Category:馬里蘭州鐵路車站 "wikilink")
 
 1.

@@ -19,8 +19,7 @@
 
 本作將戰略面的指令再細分，（如軍事的「[徵兵](https://zh.wikipedia.org/wiki/徵兵 "wikilink")」、「[募兵](https://zh.wikipedia.org/wiki/募兵 "wikilink")」、「[訓練](https://zh.wikipedia.org/wiki/訓練 "wikilink")」、「戰争準備」；[内政的](https://zh.wikipedia.org/wiki/内政 "wikilink")「[開發](https://zh.wikipedia.org/wiki/開發 "wikilink")」、「[耕作](../Page/耕作.md "wikilink")」、「[治水](https://zh.wikipedia.org/wiki/治水 "wikilink")」（包含[灌溉](../Page/灌溉.md "wikilink")）），並依照武將文武官的身分不同，對應執行不同種類的指令，並以報告書的形式顯示執行命令後的成果。
 
-而本作於戰術面擴大了戰場的範圍，除了都市的[城鎮戰](../Page/城鎮戰.md "wikilink")外，攻擊方與防禦方與[國境間可以選擇](https://zh.wikipedia.org/wiki/國境 "wikilink")[野戰](https://zh.wikipedia.org/wiki/野外戰 "wikilink")。另外，前作中僅限於開戰初期的單挑指令，本作中改為常設指令，且可選擇任意對手武將。計策指令新增了「[陷阱](https://zh.wikipedia.org/wiki/陷阱 "wikilink")」「假傳令」（偽伝）「Friendly
-fire」（同士討ち）\[2\]等。
+而本作於戰術面擴大了戰場的範圍，除了都市的[城鎮戰](../Page/城鎮戰.md "wikilink")外，攻擊方與防禦方與[國境間可以選擇](https://zh.wikipedia.org/wiki/國境 "wikilink")[野戰](https://zh.wikipedia.org/wiki/野外戰 "wikilink")。另外，前作中僅限於開戰初期的單挑指令，本作中改為常設指令，且可選擇任意對手武將。計策指令新增了「[陷阱](https://zh.wikipedia.org/wiki/陷阱 "wikilink")」「假傳令」（偽伝）「Friendly fire」（同士討ち）\[2\]等。
 
 ### 關於身分
 
@@ -45,22 +44,16 @@ fire」（同士討ち）\[2\]等。
 
 [括號内是](https://zh.wikipedia.org/wiki/括號 "wikilink")[SFC](https://zh.wikipedia.org/wiki/SFC "wikilink")、[MD](../Page/Mega_Drive.md "wikilink")、[MCD](https://zh.wikipedia.org/wiki/SEGACD "wikilink")、[PCE版的標題](https://zh.wikipedia.org/wiki/SUPER_CD-ROM² "wikilink")。
 
-1.  [靈帝没し](https://zh.wikipedia.org/wiki/靈帝 "wikilink")[董卓](../Page/董卓.md "wikilink")の暴政極まる（反董卓連合軍結成）
-    189年
+1.  [靈帝没し](https://zh.wikipedia.org/wiki/靈帝 "wikilink")[董卓](../Page/董卓.md "wikilink")の暴政極まる（反董卓連合軍結成） 189年
 2.  天下乱れ群雄全土に割拠す（群雄割據、乱世再起） 194年
-3.  [劉備雌伏し](https://zh.wikipedia.org/wiki/劉備 "wikilink")、[新野に借城す](https://zh.wikipedia.org/wiki/新野 "wikilink")（[曹孟徳步向](../Page/曹操.md "wikilink")[覇道](https://zh.wikipedia.org/wiki/覇道 "wikilink")）
-    201年
-4.  臥龍[中原](../Page/中原.md "wikilink")に舞い天下を望む（智謀之人[諸葛孔明](https://zh.wikipedia.org/wiki/諸葛亮 "wikilink")）
-    208年
-5.  [孫權独立し](https://zh.wikipedia.org/wiki/孫權 "wikilink")[三国](../Page/三国.md "wikilink")の鼎立成る（劉玄徳[蜀漢建國](https://zh.wikipedia.org/wiki/蜀漢 "wikilink")）
-    221年
-6.  [姜維](https://zh.wikipedia.org/wiki/姜維 "wikilink")、亡き孔明の志を継ぐ（三国鼎立崩壊的預兆）
-    235年
+3.  [劉備雌伏し](https://zh.wikipedia.org/wiki/劉備 "wikilink")、[新野に借城す](https://zh.wikipedia.org/wiki/新野 "wikilink")（[曹孟徳步向](../Page/曹操.md "wikilink")[覇道](https://zh.wikipedia.org/wiki/覇道 "wikilink")） 201年
+4.  臥龍[中原](../Page/中原.md "wikilink")に舞い天下を望む（智謀之人[諸葛孔明](https://zh.wikipedia.org/wiki/諸葛亮 "wikilink")） 208年
+5.  [孫權独立し](https://zh.wikipedia.org/wiki/孫權 "wikilink")[三国](../Page/三国.md "wikilink")の鼎立成る（劉玄徳[蜀漢建國](https://zh.wikipedia.org/wiki/蜀漢 "wikilink")） 221年
+6.  [姜維](https://zh.wikipedia.org/wiki/姜維 "wikilink")、亡き孔明の志を継ぐ（三国鼎立崩壊的預兆） 235年
 
 **僅存在於部分機種**
 
-0.  黄巾興りて英雄青雲を抱く（[黄巾之乱](https://zh.wikipedia.org/wiki/黄巾之乱 "wikilink")）
-    184年
+0.  黄巾興りて英雄青雲を抱く（[黄巾之乱](https://zh.wikipedia.org/wiki/黄巾之乱 "wikilink")） 184年
 
 <!-- end list -->
 
@@ -143,19 +136,8 @@ fire」（同士討ち）\[2\]等。
 
 ## 注釋與參考來源
 
-[Category:FM_Towns遊戲](https://zh.wikipedia.org/wiki/Category:FM_Towns遊戲 "wikilink")
-[Category:PC_Engine遊戲](https://zh.wikipedia.org/wiki/Category:PC_Engine遊戲 "wikilink")
-[Category:X68000遊戲](https://zh.wikipedia.org/wiki/Category:X68000遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink")
-[Category:超級任天堂遊戲](https://zh.wikipedia.org/wiki/Category:超級任天堂遊戲 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:Mega_Drive遊戲](https://zh.wikipedia.org/wiki/Category:Mega_Drive遊戲 "wikilink")
-[Category:1992年電子遊戲](https://zh.wikipedia.org/wiki/Category:1992年電子遊戲 "wikilink")
-[Category:光榮遊戲](https://zh.wikipedia.org/wiki/Category:光榮遊戲 "wikilink")
+[Category:FM_Towns遊戲](https://zh.wikipedia.org/wiki/Category:FM_Towns遊戲 "wikilink") [Category:PC_Engine遊戲](https://zh.wikipedia.org/wiki/Category:PC_Engine遊戲 "wikilink") [Category:X68000遊戲](https://zh.wikipedia.org/wiki/Category:X68000遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:超級任天堂遊戲](https://zh.wikipedia.org/wiki/Category:超級任天堂遊戲 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:Mega_Drive遊戲](https://zh.wikipedia.org/wiki/Category:Mega_Drive遊戲 "wikilink") [Category:1992年電子遊戲](https://zh.wikipedia.org/wiki/Category:1992年電子遊戲 "wikilink") [Category:光榮遊戲](https://zh.wikipedia.org/wiki/Category:光榮遊戲 "wikilink")
 
-1.  其他的作品有[三國志英傑傳](../Page/三國志英傑傳.md "wikilink")、[三國志孔明傳](https://zh.wikipedia.org/wiki/三國志孔明傳 "wikilink")、、[信長的野望：將星錄等諸多遊戲](https://zh.wikipedia.org/wiki/信長的野望：將星錄 "wikilink")，詳見：[正子公也とは
-    (マサゴキミヤとは) 単語記事 -
-    ニコニコ大百科](http://dic.nicovideo.jp/a/%E6%AD%A3%E5%AD%90%E5%85%AC%E4%B9%9F)，201-03-12查閱。
+1.  其他的作品有[三國志英傑傳](../Page/三國志英傑傳.md "wikilink")、[三國志孔明傳](https://zh.wikipedia.org/wiki/三國志孔明傳 "wikilink")、、[信長的野望：將星錄等諸多遊戲](https://zh.wikipedia.org/wiki/信長的野望：將星錄 "wikilink")，詳見：[正子公也とは (マサゴキミヤとは) 単語記事 - ニコニコ大百科](http://dic.nicovideo.jp/a/%E6%AD%A3%E5%AD%90%E5%85%AC%E4%B9%9F)，201-03-12查閱。
 2.  PC中文版翻譯為「同室倒戈」
 3.  [三國網站推薦與非三國資訊專區](http://www.gamebase.com.tw/forum/1037/archive/topic/573131)，[遊戲基地](../Page/遊戲基地.md "wikilink")，2014-03-12查閱。

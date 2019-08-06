@@ -1,5 +1,4 @@
-《**Leon
-Sound**》是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")的[音樂專輯](../Page/音樂專輯.md "wikilink")，於1997年12月推出，所有歌曲均由[雷頌德](../Page/雷頌德.md "wikilink")作曲、編曲及監製\[1\]\[2\]。這張專輯是黎明於[寶麗金](../Page/寶麗金.md "wikilink")的最後一隻粵語唱片，其後黎明轉投[新力唱片](https://zh.wikipedia.org/wiki/新力唱片 "wikilink")。
+《**Leon Sound**》是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明.md "wikilink")的[音樂專輯](../Page/音樂專輯.md "wikilink")，於1997年12月推出，所有歌曲均由[雷頌德](../Page/雷頌德.md "wikilink")作曲、編曲及監製\[1\]\[2\]。這張專輯是黎明於[寶麗金](../Page/寶麗金.md "wikilink")的最後一隻粵語唱片，其後黎明轉投[新力唱片](https://zh.wikipedia.org/wiki/新力唱片 "wikilink")。
 
 ## 曲目
 
@@ -24,9 +23,7 @@ Sound**》是[香港](../Page/香港.md "wikilink")歌手[黎明](../Page/黎明
 
 [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
-[Category:黎明音樂專輯](https://zh.wikipedia.org/wiki/Category:黎明音樂專輯 "wikilink")
-[Category:1997年音樂專輯](https://zh.wikipedia.org/wiki/Category:1997年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:黎明音樂專輯](https://zh.wikipedia.org/wiki/Category:黎明音樂專輯 "wikilink") [Category:1997年音樂專輯](https://zh.wikipedia.org/wiki/Category:1997年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.
 2.

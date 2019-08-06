@@ -1,41 +1,29 @@
-《**ayumi hamasaki COUNTDOWN LIVE 2012-2013 A ～WAKE UP～**》（濱崎步 2012-2013
-跨年演唱會A ～WAKE
-UP～）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2012年12月29日、30日和31日在[國立代代木競技場](../Page/國立代代木競技場.md "wikilink")第一體育館舉行的跨年演唱會，於2013年4月8日發行DVD及Blu-ray。
+《**ayumi hamasaki COUNTDOWN LIVE 2012-2013 A ～WAKE UP～**》（濱崎步 2012-2013 跨年演唱會A ～WAKE UP～）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2012年12月29日、30日和31日在[國立代代木競技場](../Page/國立代代木競技場.md "wikilink")第一體育館舉行的跨年演唱會，於2013年4月8日發行DVD及Blu-ray。
 
 ## 說明
 
 發行日當天4月8日即為濱崎步出道15周年的紀念日。
 
-本作有謝幕名曲「Who...」、「MY ALL」，和第14張原創專輯『[LOVE
-again](../Page/LOVE_again_\(濱崎步專輯\).md "wikilink")』中的人氣曲「[You &
-Me](../Page/A_SUMMER_BEST.md "wikilink")」、「[Song 4
-u](../Page/LOVE_\(濱崎步專輯\).md "wikilink")」、「[Missing](../Page/LOVE_\(濱崎步專輯\).md "wikilink")」，以及第一次在演唱會演唱的新曲「[Wake
-me
-up](https://zh.wikipedia.org/wiki/again_\(濱崎步專輯\) "wikilink")」、「[snowy
-kiss](https://zh.wikipedia.org/wiki/again_\(濱崎步專輯\) "wikilink")」等等。
+本作有謝幕名曲「Who...」、「MY ALL」，和第14張原創專輯『[LOVE again](../Page/LOVE_again_\(濱崎步專輯\).md "wikilink")』中的人氣曲「[You & Me](../Page/A_SUMMER_BEST.md "wikilink")」、「[Song 4 u](../Page/LOVE_\(濱崎步專輯\).md "wikilink")」、「[Missing](../Page/LOVE_\(濱崎步專輯\).md "wikilink")」，以及第一次在演唱會演唱的新曲「[Wake me up](https://zh.wikipedia.org/wiki/again_\(濱崎步專輯\) "wikilink")」、「[snowy kiss](https://zh.wikipedia.org/wiki/again_\(濱崎步專輯\) "wikilink")」等等。
 
 發行當日獲得[Oricon](../Page/Oricon.md "wikilink")日本公信榜DVD音樂、DVD綜合、藍光綜合三部門的冠軍寶座。
 
 ## 曲目
 
-1.  [Wake me
-    up](https://zh.wikipedia.org/wiki/again_\(濱崎步專輯\) "wikilink")
+1.  [Wake me up](https://zh.wikipedia.org/wiki/again_\(濱崎步專輯\) "wikilink")
 2.  [Rule](../Page/NEXT_LEVEL.md "wikilink")
 3.  [Disco-munication](../Page/NEXT_LEVEL.md "wikilink")
 4.  [Beautiful Fighters](../Page/Secret_\(濱崎步專輯\).md "wikilink")
 5.  [Fly high](../Page/Fly_high.md "wikilink")
-6.  [snowy
-    kiss](https://zh.wikipedia.org/wiki/again_\(濱崎步專輯\) "wikilink")
+6.  [snowy kiss](https://zh.wikipedia.org/wiki/again_\(濱崎步專輯\) "wikilink")
 7.  [Missing](../Page/LOVE_\(濱崎步專輯\).md "wikilink")
 8.  [Together When...](../Page/Together_When....md "wikilink")
-9.  [everywhere
-    nowhere](https://zh.wikipedia.org/wiki/RAINBOW "wikilink")
+9.  [everywhere nowhere](https://zh.wikipedia.org/wiki/RAINBOW "wikilink")
 10. [You & Me](../Page/A_SUMMER_BEST.md "wikilink")
 11. [Song 4 u](../Page/LOVE_\(濱崎步專輯\).md "wikilink")
 12. [Who...](../Page/LOVEppears.md "wikilink")
 13. [Humming 7/4](../Page/MY_STORY.md "wikilink")
-14. [evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")
-    ～ [SURREAL](../Page/SURREAL.md "wikilink")
+14. [evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink") ～ [SURREAL](../Page/SURREAL.md "wikilink")
 15. [until that Day...](../Page/Secret_\(濱崎步專輯\).md "wikilink")
 16. [Trauma](../Page/A_\(濱崎步單曲\).md "wikilink")
 17. [AUDIENCE](../Page/AUDIENCE.md "wikilink")
@@ -50,5 +38,4 @@ kiss](https://zh.wikipedia.org/wiki/again_\(濱崎步專輯\) "wikilink")」等�
 
 </small>
 
-[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink")
-[Category:2013年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2013年音樂相關影像作品 "wikilink")
+[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink") [Category:2013年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2013年音樂相關影像作品 "wikilink")

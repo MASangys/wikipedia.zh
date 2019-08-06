@@ -74,6 +74,4 @@ DKZ16型由[长春轨道客车和](https://zh.wikipedia.org/wiki/长春轨道客
 
 [车](https://zh.wikipedia.org/wiki/分类:北京地铁2号线 "wikilink")
 
-[Category:北京地铁DKZ系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DKZ系列电动车组 "wikilink")
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
-[Category:750伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:750伏直流電力動車組 "wikilink")
+[Category:北京地铁DKZ系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DKZ系列电动车组 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:750伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:750伏直流電力動車組 "wikilink")

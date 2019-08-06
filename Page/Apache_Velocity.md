@@ -1,5 +1,4 @@
-**Apache
-Velocity**是一个基于[Java](../Page/Java.md "wikilink")的[模板引擎](https://zh.wikipedia.org/wiki/模板引擎 "wikilink")，它提供了一个模板语言去引用由Java代码定义的[对象](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")。Velocity是[Apache基金会旗下的一个](https://zh.wikipedia.org/wiki/Apache基金会 "wikilink")[开源软件项目](https://zh.wikipedia.org/wiki/开源 "wikilink")，旨在确保[Web应用程序在表示层和业务逻辑层之间的隔离](https://zh.wikipedia.org/wiki/Web应用程序 "wikilink")（即[MVC](../Page/MVC.md "wikilink")设计模式）。
+**Apache Velocity**是一个基于[Java](../Page/Java.md "wikilink")的[模板引擎](https://zh.wikipedia.org/wiki/模板引擎 "wikilink")，它提供了一个模板语言去引用由Java代码定义的[对象](https://zh.wikipedia.org/wiki/对象_\(计算机科学\) "wikilink")。Velocity是[Apache基金会旗下的一个](https://zh.wikipedia.org/wiki/Apache基金会 "wikilink")[开源软件项目](https://zh.wikipedia.org/wiki/开源 "wikilink")，旨在确保[Web应用程序在表示层和业务逻辑层之间的隔离](https://zh.wikipedia.org/wiki/Web应用程序 "wikilink")（即[MVC](../Page/MVC.md "wikilink")设计模式）。
 
 ## 用途
 
@@ -40,8 +39,7 @@ Velocity**是一个基于[Java](../Page/Java.md "wikilink")的[模板引擎](htt
   -
   - [FreeMarker](../Page/FreeMarker.md "wikilink")
 
-  - [JavaServer
-    Pages](https://zh.wikipedia.org/wiki/JavaServer_Pages "wikilink")
+  - [JavaServer Pages](https://zh.wikipedia.org/wiki/JavaServer_Pages "wikilink")
 
   - [Thymeleaf](../Page/Thymeleaf.md "wikilink")
 
@@ -55,8 +53,6 @@ Velocity**是一个基于[Java](../Page/Java.md "wikilink")的[模板引擎](htt
   - [Velocity维基](http://wiki.apache.org/velocity/)
   - [基于Java的模板引擎比较](http://www.javaworld.com/javaworld/jw-11-2007/jw-11-java-template-engines.html)
 
-[Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink")
-[Category:網頁模板引擎](https://zh.wikipedia.org/wiki/Category:網頁模板引擎 "wikilink")
-[Category:Java函式庫](https://zh.wikipedia.org/wiki/Category:Java函式庫 "wikilink")
+[Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink") [Category:網頁模板引擎](https://zh.wikipedia.org/wiki/Category:網頁模板引擎 "wikilink") [Category:Java函式庫](https://zh.wikipedia.org/wiki/Category:Java函式庫 "wikilink")
 
 1.

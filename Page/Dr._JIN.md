@@ -1,14 +1,10 @@
-《**Dr.
-JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2012年5月26日起播出的[週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")。改編自日本漫畫家[村上紀香](../Page/村上紀香.md "wikilink")漫畫作品《[仁者俠醫](../Page/仁者俠醫.md "wikilink")》。講述2012年韓國最優秀的[外科醫生秦赫穿越時空回到](https://zh.wikipedia.org/wiki/外科醫生 "wikilink")1860年朝鮮時代艱苦行醫的故事。
+《**Dr. JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2012年5月26日起播出的[週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")。改編自日本漫畫家[村上紀香](../Page/村上紀香.md "wikilink")漫畫作品《[仁者俠醫](../Page/仁者俠醫.md "wikilink")》。講述2012年韓國最優秀的[外科醫生秦赫穿越時空回到](https://zh.wikipedia.org/wiki/外科醫生 "wikilink")1860年朝鮮時代艱苦行醫的故事。
 
 ## 劇情簡介
 
-陳赫（[宋承憲](../Page/宋承憲.md "wikilink")
-飾演）是一位非常優秀的神經外科專業醫生，與同是醫生的女友美娜（[朴敏英](https://zh.wikipedia.org/wiki/朴敏英 "wikilink")
-飾演）夢想著幸福的未來，有一天就倆人大吵一架後，美娜意外發生了嚴重車禍而昏迷不醒。陷入絕望的陳赫面前突然出現了一位神秘的患者，一邊走向頂樓一邊欲投身，陳赫為了攔阻他，自己卻不小心從頂樓摔下。
+陳赫（[宋承憲](../Page/宋承憲.md "wikilink") 飾演）是一位非常優秀的神經外科專業醫生，與同是醫生的女友美娜（[朴敏英](https://zh.wikipedia.org/wiki/朴敏英 "wikilink") 飾演）夢想著幸福的未來，有一天就倆人大吵一架後，美娜意外發生了嚴重車禍而昏迷不醒。陷入絕望的陳赫面前突然出現了一位神秘的患者，一邊走向頂樓一邊欲投身，陳赫為了攔阻他，自己卻不小心從頂樓摔下。
 
-醒來後卻發現自己身處在一個不知名的地方，而在這裡居然遇上了和美娜長得一模一樣的洪永來，還有著名歷史人物[興宣大院君](https://zh.wikipedia.org/wiki/興宣大院君 "wikilink")（[李凡秀](../Page/李凡秀.md "wikilink")
-飾演），令他驚訝不已。不知道為何會來到這裡，也不知道要如何回去原來的世界，面對重重危機的陳赫，在沒有最新的醫療設備及適當醫療用品的朝鮮時代，開始運用他所掌握最尖端醫學知識為飽受飢苦的平民百姓甚至是高高在上的王室人物進行治療。
+醒來後卻發現自己身處在一個不知名的地方，而在這裡居然遇上了和美娜長得一模一樣的洪永來，還有著名歷史人物[興宣大院君](https://zh.wikipedia.org/wiki/興宣大院君 "wikilink")（[李凡秀](../Page/李凡秀.md "wikilink") 飾演），令他驚訝不已。不知道為何會來到這裡，也不知道要如何回去原來的世界，面對重重危機的陳赫，在沒有最新的醫療設備及適當醫療用品的朝鮮時代，開始運用他所掌握最尖端醫學知識為飽受飢苦的平民百姓甚至是高高在上的王室人物進行治療。
 
 ## 歷史背景
 
@@ -512,9 +508,7 @@ JIN**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MB
 
   -
   -
-[Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink")
-[Category:朝鮮高宗時期背景電視劇](https://zh.wikipedia.org/wiki/Category:朝鮮高宗時期背景電視劇 "wikilink")
-[Category:時間旅行題材電視劇](https://zh.wikipedia.org/wiki/Category:時間旅行題材電視劇 "wikilink")
+[Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink") [Category:朝鮮高宗時期背景電視劇](https://zh.wikipedia.org/wiki/Category:朝鮮高宗時期背景電視劇 "wikilink") [Category:時間旅行題材電視劇](https://zh.wikipedia.org/wiki/Category:時間旅行題材電視劇 "wikilink")
 
 1.  第8集石頭上的刻字
 2.  [TNmS 멀티미디어 홈페이지](http://home.tnms.tv/rating/main.asp)

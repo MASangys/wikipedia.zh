@@ -1,7 +1,4 @@
-《**Journey
-Home**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")，於2012年11月1日由JK
-Entertainment製作、CJ E\&M所發行的第七張個人正規專輯，以《男人都這樣》（）為主打歌曲，並邀得前《[Running
-Man](../Page/Running_Man.md "wikilink")》拍檔[宋仲基](../Page/宋仲基.md "wikilink")拍攝[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")。
+《**Journey Home**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[金鐘國](https://zh.wikipedia.org/wiki/金鐘國 "wikilink")，於2012年11月1日由JK Entertainment製作、CJ E\&M所發行的第七張個人正規專輯，以《男人都這樣》（）為主打歌曲，並邀得前《[Running Man](../Page/Running_Man.md "wikilink")》拍檔[宋仲基](../Page/宋仲基.md "wikilink")拍攝[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")。
 
 ## 曲目
 
@@ -69,9 +66,7 @@ Man](../Page/Running_Man.md "wikilink")》拍檔[宋仲基](../Page/宋仲基.md
 
 </div>
 
-[Category:金鐘國音樂專輯](https://zh.wikipedia.org/wiki/Category:金鐘國音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:金鐘國音樂專輯](https://zh.wikipedia.org/wiki/Category:金鐘國音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

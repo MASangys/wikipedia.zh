@@ -16,8 +16,7 @@
 
 #### 發佈
 
-第二代本田Stream於2006年發佈，分別有1.8、1.8RSZ、1.8X、2.0、2.0RSZ、2.0G以及一個加入本田IHCC
-(Intelligent Highway Cruise Control)的車款。
+第二代本田Stream於2006年發佈，分別有1.8、1.8RSZ、1.8X、2.0、2.0RSZ、2.0G以及一個加入本田IHCC (Intelligent Highway Cruise Control)的車款。
 
 #### 規格
 
@@ -48,8 +47,7 @@ RSZ車型是以普通版的1.8與2.0的基礎上增加了一套RSZ包圍與17吋
 
 #### 停產
 
-Honda Stream已於2014年5月停產。繼承的車款是[Honda
-Jade](https://zh.wikipedia.org/wiki/Honda_Jade "wikilink")。
+Honda Stream已於2014年5月停產。繼承的車款是[Honda Jade](https://zh.wikipedia.org/wiki/Honda_Jade "wikilink")。
 
 <div style="clear: both">
 
@@ -60,9 +58,4 @@ Jade](https://zh.wikipedia.org/wiki/Honda_Jade "wikilink")。
   - [本田日本官方網站](http://www.honda.co.jp/STREAM/)
   - [本田香港官方網站](https://web.archive.org/web/20131214175749/http://www.honda.com.hk/index.php/tc/models/stream)
 
-[Category:2000年面世的汽車](https://zh.wikipedia.org/wiki/Category:2000年面世的汽車 "wikilink")
-[Category:本田車輛](https://zh.wikipedia.org/wiki/Category:本田車輛 "wikilink")
-[Category:緊湊型多功能休旅車](https://zh.wikipedia.org/wiki/Category:緊湊型多功能休旅車 "wikilink")
-[Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink")
-[Category:前輪驅動](https://zh.wikipedia.org/wiki/Category:前輪驅動 "wikilink")
-[Category:CVT變速系統車輛](https://zh.wikipedia.org/wiki/Category:CVT變速系統車輛 "wikilink")
+[Category:2000年面世的汽車](https://zh.wikipedia.org/wiki/Category:2000年面世的汽車 "wikilink") [Category:本田車輛](https://zh.wikipedia.org/wiki/Category:本田車輛 "wikilink") [Category:緊湊型多功能休旅車](https://zh.wikipedia.org/wiki/Category:緊湊型多功能休旅車 "wikilink") [Category:前置引擎](https://zh.wikipedia.org/wiki/Category:前置引擎 "wikilink") [Category:前輪驅動](https://zh.wikipedia.org/wiki/Category:前輪驅動 "wikilink") [Category:CVT變速系統車輛](https://zh.wikipedia.org/wiki/Category:CVT變速系統車輛 "wikilink")

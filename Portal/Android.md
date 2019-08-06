@@ -26,8 +26,7 @@ __NOTOC__
 
 </div>
 
-{{/box-header|AOSP|Portal:Android/Android Open Source Project|}}
-{{/box-footer|}}
+{{/box-header|AOSP|Portal:Android/Android Open Source Project|}}  {{/box-footer|}}
 
 <div style="float:right; width:100%">
 

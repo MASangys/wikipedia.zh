@@ -1,7 +1,6 @@
 **Bitbucket**是[Atlassian](../Page/Atlassian.md "wikilink")公司提供的一个基于web的[版本库](../Page/仓库_\(版本控制\).md "wikilink")，支持[Mercurial](../Page/Mercurial.md "wikilink")和[Git](../Page/Git.md "wikilink")[版本控制](../Page/版本控制.md "wikilink")系统。Bitbucket既提供免费帐号，也提供商业付费方案。免费帐号可使用的私有版本库不限数量，但最多可支持5名用户（）。Bitbucket能够与Atlassian的其他产品相整合，如[Jira](../Page/JIRA.md "wikilink")、、和。
 
-私有版本库不会在个人页面上展示；如果用户只拥有私有版本库，网站则会显示还没有创建任何版本库，直到这名用户创建了公开版本库为止。Bitbucket使用[Python](../Page/Python.md "wikilink")的[Django](../Page/Django.md "wikilink")
-[Web应用框架](../Page/Web应用框架.md "wikilink")编写。\[1\]
+私有版本库不会在个人页面上展示；如果用户只拥有私有版本库，网站则会显示还没有创建任何版本库，直到这名用户创建了公开版本库为止。Bitbucket使用[Python](../Page/Python.md "wikilink")的[Django](../Page/Django.md "wikilink") [Web应用框架](../Page/Web应用框架.md "wikilink")编写。\[1\]
 
 Bitbucket提供的服务类似于[GitHub](../Page/GitHub.md "wikilink")（仅支持[Git](../Page/Git.md "wikilink")）。BitBucket的目标用户是开发[专有软件](../Page/专有软件.md "wikilink")的专业开发者，在2010年它被Atlassian收购后此定位更加明确\[2\]。
 
@@ -30,9 +29,7 @@ Bitbucket标志的桶上，最初带有表示[水银或](https://zh.wikipedia.or
 
 {{-}}
 
-[Category:开源软件托管网站](https://zh.wikipedia.org/wiki/Category:开源软件托管网站 "wikilink")
-[Category:项目管理软件](https://zh.wikipedia.org/wiki/Category:项目管理软件 "wikilink")
-[Category:版本控制系统](https://zh.wikipedia.org/wiki/Category:版本控制系统 "wikilink")
+[Category:开源软件托管网站](https://zh.wikipedia.org/wiki/Category:开源软件托管网站 "wikilink") [Category:项目管理软件](https://zh.wikipedia.org/wiki/Category:项目管理软件 "wikilink") [Category:版本控制系统](https://zh.wikipedia.org/wiki/Category:版本控制系统 "wikilink")
 
 1.
 

@@ -1,7 +1,6 @@
 Re.2005射手座戰鬥機(意文:Sagittario)是雷賈那於[第二次世界大戰時為意大利研製的最後一種戰鬥機](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，和[MC.205和](../Page/MC.205戰鬥機.md "wikilink")[G.55一樣採用德國DB](https://zh.wikipedia.org/wiki/G.55戰鬥機 "wikilink")605水冷式發動機，由於大家名字都為5字尾，故又名5系列，當中Re.2005在1943年意大利向盟軍投降時祇生產了48架
 
-Re.2005採用近似橢圓形的機翼，內裡有總容量為525升的4個油箱和由三條翼樑組成一個T字結構，後段機身突然收窄，內裡有氧氣瓶和無線電機，機尾是沿用自[Re.2000戰鬥機](../Page/Re.2000戰鬥機.md "wikilink")的大面積尾翼，Re.2005的操制翼面為織物蒙皮而襟翼是全金屬製，主要武裝為3挺德製20毫米口徑[MG
-151機炮](https://zh.wikipedia.org/wiki/MG_151機炮 "wikilink")，兩挺在左右機翼內而有一挺在機頭螺旋槳罩內，總載彈量比G.55要少，Re.2005有裝甲座椅和防彈玻璃保護飛行員的安全
+Re.2005採用近似橢圓形的機翼，內裡有總容量為525升的4個油箱和由三條翼樑組成一個T字結構，後段機身突然收窄，內裡有氧氣瓶和無線電機，機尾是沿用自[Re.2000戰鬥機](../Page/Re.2000戰鬥機.md "wikilink")的大面積尾翼，Re.2005的操制翼面為織物蒙皮而襟翼是全金屬製，主要武裝為3挺德製20毫米口徑[MG 151機炮](https://zh.wikipedia.org/wiki/MG_151機炮 "wikilink")，兩挺在左右機翼內而有一挺在機頭螺旋槳罩內，總載彈量比G.55要少，Re.2005有裝甲座椅和防彈玻璃保護飛行員的安全
 
 ## 基本資料
 
@@ -16,9 +15,7 @@ Re.2005採用近似橢圓形的機翼，內裡有總容量為525升的4個油箱
   - 航程:980公里
   - 昇限:11,500米
   - 發動機:DB605水冷式發動機(1,475匹馬力)
-  - 武裝:機頭2挺12.7毫米口徑[SAFAT機槍](../Page/SAFAT機槍.md "wikilink")+螺旋槳罩1挺20毫米口徑[MG
-    151機炮](https://zh.wikipedia.org/wiki/MG_151機炮 "wikilink")+機翼2挺20毫米口徑MG
-    151機炮
+  - 武裝:機頭2挺12.7毫米口徑[SAFAT機槍](../Page/SAFAT機槍.md "wikilink")+螺旋槳罩1挺20毫米口徑[MG 151機炮](https://zh.wikipedia.org/wiki/MG_151機炮 "wikilink")+機翼2挺20毫米口徑MG 151機炮
 
 ## 實戰
 
@@ -48,8 +45,6 @@ Re.2005戰鬥機首先被用於拿波里防空戰，1943年4月2日擊落了1架
 ## 外部連結
 
   - [意大利Re.2005戰鬥機](http://www.afwing.com/intro/re2005/re2005-1.htm)
-  - [骁 腾 有 如
-    此--Re.2005“射手座”式战斗机系列](http://www.afwing.com/intro/re2500/1.htm)
+  - [骁 腾 有 如 此--Re.2005“射手座”式战斗机系列](http://www.afwing.com/intro/re2500/1.htm)
 
-[Category:意大利戰鬥機](https://zh.wikipedia.org/wiki/Category:意大利戰鬥機 "wikilink")
-[Category:意大利二戰武器](https://zh.wikipedia.org/wiki/Category:意大利二戰武器 "wikilink")
+[Category:意大利戰鬥機](https://zh.wikipedia.org/wiki/Category:意大利戰鬥機 "wikilink") [Category:意大利二戰武器](https://zh.wikipedia.org/wiki/Category:意大利二戰武器 "wikilink")

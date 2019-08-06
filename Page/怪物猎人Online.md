@@ -1,5 +1,4 @@
-是一款[多人線上](https://zh.wikipedia.org/wiki/大型多人線上遊戲 "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，由[怪物猎人系列开发商](https://zh.wikipedia.org/wiki/怪物猎人系列 "wikilink")[CAPCOM提供授权与技术支持](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")，[中国大陆](../Page/中国大陆.md "wikilink")的[腾讯游戏操刀制作](https://zh.wikipedia.org/wiki/腾讯游戏 "wikilink")，采用[CryENGINE
-3游戏引擎开发](../Page/CryENGINE_3.md "wikilink")\[1\]。
+是一款[多人線上](https://zh.wikipedia.org/wiki/大型多人線上遊戲 "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，由[怪物猎人系列开发商](https://zh.wikipedia.org/wiki/怪物猎人系列 "wikilink")[CAPCOM提供授权与技术支持](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")，[中国大陆](../Page/中国大陆.md "wikilink")的[腾讯游戏操刀制作](https://zh.wikipedia.org/wiki/腾讯游戏 "wikilink")，采用[CryENGINE 3游戏引擎开发](../Page/CryENGINE_3.md "wikilink")\[1\]。
 
 ## 运营
 
@@ -42,18 +41,7 @@
 ## 外部链接
 
   -
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:魔物猎人系列](https://zh.wikipedia.org/wiki/Category:魔物猎人系列 "wikilink")
-[Category:动作冒险游戏](https://zh.wikipedia.org/wiki/Category:动作冒险游戏 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink")
-[Category:卡普空游戏](https://zh.wikipedia.org/wiki/Category:卡普空游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:CryEngine游戏](https://zh.wikipedia.org/wiki/Category:CryEngine游戏 "wikilink")
-[Category:虚构生物题材作品](https://zh.wikipedia.org/wiki/Category:虚构生物题材作品 "wikilink")
-[Category:龙题材作品](https://zh.wikipedia.org/wiki/Category:龙题材作品 "wikilink")
-[Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink")
-[Category:原生中文游戏](https://zh.wikipedia.org/wiki/Category:原生中文游戏 "wikilink")
+[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:魔物猎人系列](https://zh.wikipedia.org/wiki/Category:魔物猎人系列 "wikilink") [Category:动作冒险游戏](https://zh.wikipedia.org/wiki/Category:动作冒险游戏 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink") [Category:卡普空游戏](https://zh.wikipedia.org/wiki/Category:卡普空游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:CryEngine游戏](https://zh.wikipedia.org/wiki/Category:CryEngine游戏 "wikilink") [Category:虚构生物题材作品](https://zh.wikipedia.org/wiki/Category:虚构生物题材作品 "wikilink") [Category:龙题材作品](https://zh.wikipedia.org/wiki/Category:龙题材作品 "wikilink") [Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink") [Category:原生中文游戏](https://zh.wikipedia.org/wiki/Category:原生中文游戏 "wikilink")
 
 1.
 2.

@@ -8,11 +8,9 @@ Immunet有兩種版本：
 
 1\. Immunet free（個人或商業免費使用）\[4\] 2. Immunet plus（商業使用，付費版）
 
-對於2014年3.0版，Immunet
-free提供基於雲端資料庫的防護，並提供開啟離線[ClamAV](../Page/ClamAV.md "wikilink")的選項以供使用者未連線到網際網路時使用。Immunet建議免費版應與其他防毒軟體合併使用，並列出了一些經Immunet測試與Immunet不會產生任何衝突以及過度資源消耗的其他防毒軟體清單。\[5\]
+對於2014年3.0版，Immunet free提供基於雲端資料庫的防護，並提供開啟離線[ClamAV](../Page/ClamAV.md "wikilink")的選項以供使用者未連線到網際網路時使用。Immunet建議免費版應與其他防毒軟體合併使用，並列出了一些經Immunet測試與Immunet不會產生任何衝突以及過度資源消耗的其他防毒軟體清單。\[5\]
 
-Immunet Plus提供了更進階的功能，例如：進階離線保護、進階偵測與移除、進階檔案管理保護、與郵件資料庫掃描。Immunet
-Plus本身防護完整，不需要與其他防毒軟體合併使用，因為它使用[BitDefender引擎提供傳統的防毒防護](https://zh.wikipedia.org/wiki/BitDefender "wikilink")。
+Immunet Plus提供了更進階的功能，例如：進階離線保護、進階偵測與移除、進階檔案管理保護、與郵件資料庫掃描。Immunet Plus本身防護完整，不需要與其他防毒軟體合併使用，因為它使用[BitDefender引擎提供傳統的防毒防護](https://zh.wikipedia.org/wiki/BitDefender "wikilink")。
 
 Immunet 6.X 已不支援windows XP。
 
@@ -29,17 +27,10 @@ PCMag\[6\]評此產品效果一般。Immunet的病毒資料庫儲存在網路上
 
 ## 參考資料
 
-  - [Download Immunet Protect Free on
-    ClamAV.net](http://arquivo.pt/wayback/20100529035503/http://www.clamav.net/lang/en/about/win32)
-  - [Download Immunet Protect Free on
-    CNet.com](http://download.cnet.com/Immunet-Protect/3000-2239_4-10965674.html)
-  - Rosenblatt, Seth. ["Cloud security upstart Immunet aims for
-    antiviruses"](http://download.cnet.com/8301-2007_4-20007995-12.html).
-    *cNET*. June 17, 2010. Retrieved July 1, 2010.
-  - Rubenking, Neil j. ["Immunet Protect
-    Free 2.0"](http://www.pcmag.com/article2/0,2817,2365103,00.asp).
-    *[PC Magazine](http://www.pcmag.com/)*. June 17, 2010. Retrieved
-    July 1, 2010.
+  - [Download Immunet Protect Free on ClamAV.net](http://arquivo.pt/wayback/20100529035503/http://www.clamav.net/lang/en/about/win32)
+  - [Download Immunet Protect Free on CNet.com](http://download.cnet.com/Immunet-Protect/3000-2239_4-10965674.html)
+  - Rosenblatt, Seth. ["Cloud security upstart Immunet aims for antiviruses"](http://download.cnet.com/8301-2007_4-20007995-12.html). *cNET*. June 17, 2010. Retrieved July 1, 2010.
+  - Rubenking, Neil j. ["Immunet Protect Free 2.0"](http://www.pcmag.com/article2/0,2817,2365103,00.asp). *[PC Magazine](http://www.pcmag.com/)*. June 17, 2010. Retrieved July 1, 2010.
 
 ## 外部連結
 

@@ -1,8 +1,6 @@
-**L.A.
-Boyz**（中文：**洛城三兄弟**），是[台灣一隊](https://zh.wikipedia.org/wiki/台灣 "wikilink")[Hip-hop演唱團體](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")，是台灣最早唱[華語](https://zh.wikipedia.org/wiki/華語 "wikilink")[R\&B和](https://zh.wikipedia.org/wiki/R&B "wikilink")[嘻哈](../Page/嘻哈.md "wikilink")（Hip-hop）的先驅。被台灣的製作人在[美國發掘](https://zh.wikipedia.org/wiki/美國 "wikilink")，參加[台視綜藝節目](https://zh.wikipedia.org/wiki/台視 "wikilink")《[五燈獎](../Page/五燈獎.md "wikilink")》的「流行熱舞比賽」，將美國的嘻哈舞蹈帶進台灣。
+**L.A. Boyz**（中文：**洛城三兄弟**），是[台灣一隊](https://zh.wikipedia.org/wiki/台灣 "wikilink")[Hip-hop演唱團體](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")，是台灣最早唱[華語](https://zh.wikipedia.org/wiki/華語 "wikilink")[R\&B和](https://zh.wikipedia.org/wiki/R&B "wikilink")[嘻哈](../Page/嘻哈.md "wikilink")（Hip-hop）的先驅。被台灣的製作人在[美國發掘](https://zh.wikipedia.org/wiki/美國 "wikilink")，參加[台視綜藝節目](https://zh.wikipedia.org/wiki/台視 "wikilink")《[五燈獎](../Page/五燈獎.md "wikilink")》的「流行熱舞比賽」，將美國的嘻哈舞蹈帶進台灣。
 
-L.A.
-Boyz為1990年代的[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，不但注入了新的音樂，還帶來美式的街頭熱舞和穿著。
+L.A. Boyz為1990年代的[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，不但注入了新的音樂，還帶來美式的街頭熱舞和穿著。
 
 ## 團體年表
 
@@ -16,8 +14,7 @@ Boyz為1990年代的[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，
 
 黃立成則於2003年成立“[Machi](https://zh.wikipedia.org/wiki/Machi "wikilink")”，現在的身份是Machi團長。
 
-林智文曾經參與Machi的建設，也曾在台灣做了一些表演、發行了一張EP，目前在美國加州Fortanasce-Purino Neurology
-Center擔任手部骨科醫生。
+林智文曾經參與Machi的建設，也曾在台灣做了一些表演、發行了一張EP，目前在美國加州Fortanasce-Purino Neurology Center擔任手部骨科醫生。
 
 ## 組合成員
 
@@ -85,6 +82,4 @@ Center擔任手部骨科醫生。
 
 ## 参考资料
 
-[Category:台灣嘻哈音樂團體](https://zh.wikipedia.org/wiki/Category:台灣嘻哈音樂團體 "wikilink")
-[Category:五燈獎](https://zh.wikipedia.org/wiki/Category:五燈獎 "wikilink")
-[Category:台灣流行音樂團體](https://zh.wikipedia.org/wiki/Category:台灣流行音樂團體 "wikilink")
+[Category:台灣嘻哈音樂團體](https://zh.wikipedia.org/wiki/Category:台灣嘻哈音樂團體 "wikilink") [Category:五燈獎](https://zh.wikipedia.org/wiki/Category:五燈獎 "wikilink") [Category:台灣流行音樂團體](https://zh.wikipedia.org/wiki/Category:台灣流行音樂團體 "wikilink")

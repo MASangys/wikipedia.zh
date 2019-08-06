@@ -33,8 +33,6 @@
 
 </div>
 
-[Category:林奕匡音樂專輯](https://zh.wikipedia.org/wiki/Category:林奕匡音樂專輯 "wikilink")
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:林奕匡音樂專輯](https://zh.wikipedia.org/wiki/Category:林奕匡音樂專輯 "wikilink") [Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.

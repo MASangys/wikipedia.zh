@@ -145,24 +145,16 @@
 
 ## 參考資料
 
-  - [《卡巴拉島Online》夢想新大陸 鑽地繽紛樂 --- PC
-    普](http://ent.appledaily.com.tw/animation/index/20111028/33772185/103)
-  - [卡巴拉島回來了！韓國原廠手遊新作《我想成為召喚師 for
-    Kakao》可愛上架！](http://myfun.gamedb.com.tw/News_Details.aspx?newsid=34063)
+  - [《卡巴拉島Online》夢想新大陸 鑽地繽紛樂 --- PC 普](http://ent.appledaily.com.tw/animation/index/20111028/33772185/103)
+  - [卡巴拉島回來了！韓國原廠手遊新作《我想成為召喚師 for Kakao》可愛上架！](http://myfun.gamedb.com.tw/News_Details.aspx?newsid=34063)
 
 ## 外部連結
 
-  - [KTO](https://web.archive.org/web/20080825061142/http://www.trickster.co.kr/)
-    - Korean Official Page.
+  - [KTO](https://web.archive.org/web/20080825061142/http://www.trickster.co.kr/) - Korean Official Page.
   - [JTO](http://www.trickster.jp/trickster/) - Japanese Official Page.
   - [TTO](http://www.trickster.in.th) - Thailand Official Page.
-  - [TWTO](https://web.archive.org/web/20130815083431/http://cabala.chinesegamer.net/)
-    - Taiwan Official Page.
+  - [TWTO](https://web.archive.org/web/20130815083431/http://cabala.chinesegamer.net/) - Taiwan Official Page.
 
-[Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink")
+[Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink")
 
 1.

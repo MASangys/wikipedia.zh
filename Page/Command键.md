@@ -1,5 +1,4 @@
-[Apple-modifklavoj.jpg](https://zh.wikipedia.org/wiki/File:Apple-modifklavoj.jpg "fig:Apple-modifklavoj.jpg")
-**Command键**又称**苹果键**（），是[苹果标准键盘中的按鍵](https://zh.wikipedia.org/wiki/苹果标准键盘 "wikilink")，其中一个位于[Option鍵与](https://zh.wikipedia.org/wiki/Option鍵 "wikilink")[空格键之间](https://zh.wikipedia.org/wiki/空格键 "wikilink")，其作用近似于[PC](../Page/PC.md "wikilink")键盘上的[Ctrl键](https://zh.wikipedia.org/wiki/Ctrl键 "wikilink")。而在运行Windows的Mac中，此键功能与[Windows键](../Page/Windows键.md "wikilink")完全相同。
+[Apple-modifklavoj.jpg](https://zh.wikipedia.org/wiki/File:Apple-modifklavoj.jpg "fig:Apple-modifklavoj.jpg") **Command键**又称**苹果键**（），是[苹果标准键盘中的按鍵](https://zh.wikipedia.org/wiki/苹果标准键盘 "wikilink")，其中一个位于[Option鍵与](https://zh.wikipedia.org/wiki/Option鍵 "wikilink")[空格键之间](https://zh.wikipedia.org/wiki/空格键 "wikilink")，其作用近似于[PC](../Page/PC.md "wikilink")键盘上的[Ctrl键](https://zh.wikipedia.org/wiki/Ctrl键 "wikilink")。而在运行Windows的Mac中，此键功能与[Windows键](../Page/Windows键.md "wikilink")完全相同。
 
 ## 功能
 
@@ -11,11 +10,7 @@
 
 ## 符号起源
 
-[thumb](https://zh.wikipedia.org/wiki/file:apple_key.jpg "wikilink")
-最初Macintosh开发团队设计**苹果键**标志时，曾提议在按键上贴上一个小小的苹果logo，但[乔布斯极度讨厌这种做法](https://zh.wikipedia.org/wiki/乔布斯 "wikilink")，他认为苹果logo在Mac
-OS界面中已经用得够多了，于是下令员工重新设计。员工们找来位图艺术家帮忙重新设计，她翻开一本《国际符号标志辞典》（International
-Symbol
-Dictionary），并最终选择了“⌘”花形符号。这个符号用在瑞典的野营地，提醒人们注意和关注，同时还具有无限循环、统一标准等含义。\[2\]
+[thumb](https://zh.wikipedia.org/wiki/file:apple_key.jpg "wikilink") 最初Macintosh开发团队设计**苹果键**标志时，曾提议在按键上贴上一个小小的苹果logo，但[乔布斯极度讨厌这种做法](https://zh.wikipedia.org/wiki/乔布斯 "wikilink")，他认为苹果logo在Mac OS界面中已经用得够多了，于是下令员工重新设计。员工们找来位图艺术家帮忙重新设计，她翻开一本《国际符号标志辞典》（International Symbol Dictionary），并最终选择了“⌘”花形符号。这个符号用在瑞典的野营地，提醒人们注意和关注，同时还具有无限循环、统一标准等含义。\[2\]
 
 ## 組合鍵
 

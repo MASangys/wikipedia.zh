@@ -6,29 +6,13 @@ ryo於2011年舉辦甄選會，為接下來的作品挑選客席主唱。報名�
 
 原為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[罪惡王冠](../Page/罪惡王冠.md "wikilink")》內的虛擬網路音樂團體，並負責同部電視動畫內的主題曲與插曲，由當時年僅17歲的chelly主唱。
 
-第1首片尾曲《Departures
-～送給你的情歌～》（）則是chelly的出道單曲，以組合「EGOIST」的名義於同年11月30日發行。\[2\]chelly（以及EGOIST）的第2張單曲《The
-Everlasting Guilty
-Crown》於2012年3月7日發行，為《罪惡王冠》的第2首片頭曲\[3\]。EGOIST的兩張單曲皆收錄音樂組合Boom
-Boom Satellites的混音版本。
+第1首片尾曲《Departures ～送給你的情歌～》（）則是chelly的出道單曲，以組合「EGOIST」的名義於同年11月30日發行。\[2\]chelly（以及EGOIST）的第2張單曲《The Everlasting Guilty Crown》於2012年3月7日發行，為《罪惡王冠》的第2首片頭曲\[3\]。EGOIST的兩張單曲皆收錄音樂組合Boom Boom Satellites的混音版本。
 
 但在電視動畫結束後仍繼續以團體名稱活躍，由[supercell擔當製作](../Page/Supercell_\(樂團\).md "wikilink")\[4\]\[5\]。
 
-在2013年，EGOIST在Anime Festival Asia 2013首次作現場演出，以不亮相的方式並配合「3.5D THE
-LIVE」的技術令虛擬模型和真人的動作實時同步來演出\[6\]。，在2014年「egoist live tour
-2014」開催決定，EGOIST將會在大阪、東京和名古屋三地舉行演唱會。同年EGOIST的FAN
-CLUB正式成立，名稱為「EGOISTix\*fam」。在2015年落實在香港舉行首次海外演唱會「EGOIST
-2015.04.30 IN HONG KONG」，舉行日期為4月30日。2016.3.26
-於台北台大綜合體育館擧辦2016年首場海外演唱會[EGOIST
-LIVE TOUR 2016 IN
-TAIWAN](http://myyoho.kktix.cc/events/egoist2016)\[7\]。2017.3.4「[EGOIST
-LIVE IN
-TAIPEI 2017](http://myyoho.kktix.cc/events/egoist2017-bb6db7)」再次於台北台大綜合體育館擧辦\[8\]，並與萬代南夢宮（BANDAI
-NAMCO）全新合作技術，讓2.5次元偶像女神「EGOIST」走出螢幕，立體擬真演出！
+在2013年，EGOIST在Anime Festival Asia 2013首次作現場演出，以不亮相的方式並配合「3.5D THE LIVE」的技術令虛擬模型和真人的動作實時同步來演出\[6\]。，在2014年「egoist live tour 2014」開催決定，EGOIST將會在大阪、東京和名古屋三地舉行演唱會。同年EGOIST的FAN CLUB正式成立，名稱為「EGOISTix\*fam」。在2015年落實在香港舉行首次海外演唱會「EGOIST 2015.04.30 IN HONG KONG」，舉行日期為4月30日。2016.3.26 於台北台大綜合體育館擧辦2016年首場海外演唱會[EGOIST LIVE TOUR 2016 IN TAIWAN](http://myyoho.kktix.cc/events/egoist2016)\[7\]。2017.3.4「[EGOIST LIVE IN TAIPEI 2017](http://myyoho.kktix.cc/events/egoist2017-bb6db7)」再次於台北台大綜合體育館擧辦\[8\]，並與萬代南夢宮（BANDAI NAMCO）全新合作技術，讓2.5次元偶像女神「EGOIST」走出螢幕，立體擬真演出！
 
-2017年4月，由原先[Sony Music
-Records移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/Sony_Music_Records.md "wikilink")[SACRA
-MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[9\]
+2017年4月，由原先[Sony Music Records移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/Sony_Music_Records.md "wikilink")[SACRA MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[9\]
 
 ## 虚拟形象
 
@@ -107,16 +91,11 @@ VVCL-1153/4（B）</p></td>
   - ryo(supercell) feat.chelly 「Great Distance」(2015年5月20日)
       - 「Great Distance」- 3DS遊戲《勇氣默示錄2：終結次元》的OP
       - 「Last Song」- 3DS遊戲《勇氣默示錄2：終結次元》的ED
-  - [Aimer](../Page/Aimer.md "wikilink")「[ninelie
-    EP](https://zh.wikipedia.org/wiki/ninelie_EP "wikilink")」（2016年5月11日）
-      - 「ninelie」（Aimer with chelly） -
-        電視動畫《[甲鐵城的卡巴內里](../Page/甲鐵城的卡巴內里.md "wikilink")》片尾曲
-  - [TRUSTRICK](https://zh.wikipedia.org/wiki/TRUSTRICK "wikilink")
-    「TRICK」 (2016年10月26日)
+  - [Aimer](../Page/Aimer.md "wikilink")「[ninelie EP](https://zh.wikipedia.org/wiki/ninelie_EP "wikilink")」（2016年5月11日）
+      - 「ninelie」（Aimer with chelly） - 電視動畫《[甲鐵城的卡巴內里](../Page/甲鐵城的卡巴內里.md "wikilink")》片尾曲
+  - [TRUSTRICK](https://zh.wikipedia.org/wiki/TRUSTRICK "wikilink") 「TRICK」 (2016年10月26日)
       - 「TRICK feat.chelly (EGOIST) 」
-  - [菅野洋子](../Page/菅野洋子.md "wikilink")
-    feat.chelly「[星と翼のパラドクス](https://zh.wikipedia.org/wiki/星と翼のパラドクス "wikilink")」
-    (2018年11月8日)
+  - [菅野洋子](../Page/菅野洋子.md "wikilink") feat.chelly「[星と翼のパラドクス](https://zh.wikipedia.org/wiki/星と翼のパラドクス "wikilink")」 (2018年11月8日)
 
 ### 商業搭配
 
@@ -200,21 +179,14 @@ VVCL-1153/4（B）</p></td>
 
   -
 
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
+[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
 
 1.
 2.
 3.
-4.  [supercell、新ボーカル決定　ノイタミナ新アニメテーマに (ｓｕｐｅｒｃｅｌｌ) ニュース-ORICON
-    STYLE-](http://www.oricon.co.jp/news/music/2001641/full)
-5.  [Supercell : supercell、新ゲスト・ヴォーカリスト＆新タイアップ決定 /
-    BARKSニュース](http://www.barks.jp/news/?id=1000073094)
-6.  [急遽決定！ EGOIST
-    激レアヴァーチャル・ネット・ライブをニコ生で！](http://www.egoist-inori.jp/news/archive/?447202)
+4.  [supercell、新ボーカル決定　ノイタミナ新アニメテーマに (ｓｕｐｅｒｃｅｌｌ) ニュース-ORICON STYLE-](http://www.oricon.co.jp/news/music/2001641/full)
+5.  [Supercell : supercell、新ゲスト・ヴォーカリスト＆新タイアップ決定 / BARKSニュース](http://www.barks.jp/news/?id=1000073094)
+6.  [急遽決定！ EGOIST 激レアヴァーチャル・ネット・ライブをニコ生で！](http://www.egoist-inori.jp/news/archive/?447202)
 7.
-8.  [EGOIST二度來台 最新技術首度使用
-    純淨完美歌聲感動人心](https://memeon-music.com/2017/03/16/egoist-livereport-2/)
-9.  [新レーベル『SACRA MUSIC』発足！ | プレスリリース | Sony Music Group Company
-    Site](https://www.sme.co.jp/s/SME/pressrelease/detail/NEWS00366?ima=1257)
+8.  [EGOIST二度來台 最新技術首度使用 純淨完美歌聲感動人心](https://memeon-music.com/2017/03/16/egoist-livereport-2/)
+9.  [新レーベル『SACRA MUSIC』発足！ | プレスリリース | Sony Music Group Company Site](https://www.sme.co.jp/s/SME/pressrelease/detail/NEWS00366?ima=1257)

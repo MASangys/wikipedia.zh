@@ -1,8 +1,6 @@
 **DS：Style**是一系列发行于[任天堂DS](../Page/任天堂DS.md "wikilink")平台的[教育软件](https://zh.wikipedia.org/wiki/教育软件 "wikilink")。系列由[日本](../Page/日本.md "wikilink")[电子游戏开发商与](https://zh.wikipedia.org/wiki/电子游戏开发商 "wikilink")[发行商](https://zh.wikipedia.org/wiki/电子游戏发行商 "wikilink")[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")创作，并日本在独占发行，系列由史克威尔和其它几间公司共同开发。其收录了不同国家或城市的参考指南和[旅游指南](https://zh.wikipedia.org/wiki/旅游指南 "wikilink")，以及日本职业执照的学习指南及[公务员测试](https://zh.wikipedia.org/wiki/公务员 "wikilink")。系列的格言是“游戏之趣，乐在学中”\[1\]。尽管游戏有此格言，并销售与游戏机平台，但产品事实上几乎没有游戏元素，代之的是参考指南和知识测验功能\[2\]。评论认为系列是史克威尔闯入“非传统玩家”新市场的一次尝试\[3\]。
 
-系列前九个产品于2007年4月4日公布，其中前五个发行于2007年7月5日；最后一部《走遍全球DS》发行于2011年2月3日\[4\]。一些产品命名于其它非软件产品之后，如旅游指南丛书[寂寞星球](https://zh.wikipedia.org/wiki/寂寞星球 "wikilink")，日本备考公司[Legal
-Mind](https://zh.wikipedia.org/wiki/Legal_Mind "wikilink")，以及日本瑜伽馆[Tipness](https://zh.wikipedia.org/wiki/Tipness "wikilink")\[5\]\[6\]\[7\]。簿记和房地产认证产品除了在任天堂DS平台发行外，还发行于[PlayStation
-Portable](../Page/PlayStation_Portable.md "wikilink")\[8\]\[9\]。
+系列前九个产品于2007年4月4日公布，其中前五个发行于2007年7月5日；最后一部《走遍全球DS》发行于2011年2月3日\[4\]。一些产品命名于其它非软件产品之后，如旅游指南丛书[寂寞星球](https://zh.wikipedia.org/wiki/寂寞星球 "wikilink")，日本备考公司[Legal Mind](https://zh.wikipedia.org/wiki/Legal_Mind "wikilink")，以及日本瑜伽馆[Tipness](https://zh.wikipedia.org/wiki/Tipness "wikilink")\[5\]\[6\]\[7\]。簿记和房地产认证产品除了在任天堂DS平台发行外，还发行于[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")\[8\]\[9\]。
 
 这些介于游戏和软件之间的产品多未获评论。在发行之前，最初的产品被认为是“潜在的”\[10\]。评论者对系列反应不大；鉴于发行商和主题，他们认为产品将畅销，但比较没有趣味。他们认为产品不值得为日本市场外本地化，因为之前此类产品的促销失败，若没有大量广告，任天堂DS的非游戏软件不会有太大市场\[11\]。
 
@@ -182,11 +180,7 @@ Portable](../Page/PlayStation_Portable.md "wikilink")\[8\]\[9\]。
 
   -
 
-[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:史克威爾艾尼克斯遊戲](https://zh.wikipedia.org/wiki/Category:史克威爾艾尼克斯遊戲 "wikilink")
-[Category:教育電子遊戲](https://zh.wikipedia.org/wiki/Category:教育電子遊戲 "wikilink")
-[Category:电子游戏系列列表](https://zh.wikipedia.org/wiki/Category:电子游戏系列列表 "wikilink")
+[Category:2007年电子游戏](https://zh.wikipedia.org/wiki/Category:2007年电子游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:史克威爾艾尼克斯遊戲](https://zh.wikipedia.org/wiki/Category:史克威爾艾尼克斯遊戲 "wikilink") [Category:教育電子遊戲](https://zh.wikipedia.org/wiki/Category:教育電子遊戲 "wikilink") [Category:电子游戏系列列表](https://zh.wikipedia.org/wiki/Category:电子游戏系列列表 "wikilink")
 
 1.
 2.

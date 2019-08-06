@@ -1,18 +1,12 @@
-**AP 计算机科学** (别称 AP编程, APCS, AP Java 或者是 CSAP)
-是由[美国大学理事会主持的课程和考试](../Page/美國大學理事會.md "wikilink")，以便提供给高中学生获得大学水平的计算机科学课程的大学学分。AP计算机科学A\[1\]
-相当与一个学期的大学计算机科学课程， 而AP计算机科学AB\[2\]
-相当于一学年的大学计算机科学课程。现在的AP考试考察的是学生对于Java的知识。AP计算机科学AB已经在2009年5月时停止了学生考试注册。\[3\]现在的AP计算机科学的主审查官是来自Xavier大学的
-Liz Johnson。\[4\]
+**AP 计算机科学** (别称 AP编程, APCS, AP Java 或者是 CSAP) 是由[美国大学理事会主持的课程和考试](../Page/美國大學理事會.md "wikilink")，以便提供给高中学生获得大学水平的计算机科学课程的大学学分。AP计算机科学A\[1\] 相当与一个学期的大学计算机科学课程， 而AP计算机科学AB\[2\] 相当于一学年的大学计算机科学课程。现在的AP考试考察的是学生对于Java的知识。AP计算机科学AB已经在2009年5月时停止了学生考试注册。\[3\]现在的AP计算机科学的主审查官是来自Xavier大学的 Liz Johnson。\[4\]
 
 ## AP计算机科学A
 
-**大学先修计算机科学A**
-考察学生的对于面向用户的程序编程的能力考察（主要是对于如何解决遇到的问题和算法的演绎）。并且包括对于数据结构的研究和抽象概念，但是这些主要包含在AP计算机科学AB，而不是AP计算机科学A。
+**大学先修计算机科学A** 考察学生的对于面向用户的程序编程的能力考察（主要是对于如何解决遇到的问题和算法的演绎）。并且包括对于数据结构的研究和抽象概念，但是这些主要包含在AP计算机科学AB，而不是AP计算机科学A。
 
 ## AP计算机科学AB（已经停止）
 
-**大学先修计算机科学AB**
-包含所有AP计算机科学A所涉及到得内容，并且包括了对于抽象概念，数据结构和数据抽象概念的深入研究。比如说，[二叉树](../Page/二叉树.md "wikilink")概念只在AP计算机科学AB有所涉及。并且[递归和](../Page/递归语言.md "wikilink")[记忆体概念是AP计算机科学AB的考察基础](https://zh.wikipedia.org/wiki/記憶體階層 "wikilink")。因为过少的报考率，AP计算机科学AB已经在2008-2009年中停止接受报考申请。\[5\]
+**大学先修计算机科学AB** 包含所有AP计算机科学A所涉及到得内容，并且包括了对于抽象概念，数据结构和数据抽象概念的深入研究。比如说，[二叉树](../Page/二叉树.md "wikilink")概念只在AP计算机科学AB有所涉及。并且[递归和](../Page/递归语言.md "wikilink")[记忆体概念是AP计算机科学AB的考察基础](https://zh.wikipedia.org/wiki/記憶體階層 "wikilink")。因为过少的报考率，AP计算机科学AB已经在2008-2009年中停止接受报考申请。\[5\]
 
 ## AP计算机科学考试
 
@@ -56,33 +50,22 @@ AP计算机科学测验包括两块：
 
 ## AP计算机科学：准则
 
-这是AP考试计算机方向一个新的考试，中文全称为AP计算机科学：准则，目前这门考试还在改进和发展中。可以确定的是，这个考试将不会代替AP计算机科学A，而将会作为AP计算机科学A的互补。其主要考察学生的编程语言的流畅性和创造性。这个考试是由来自[杜克大学](../Page/杜克大学.md "wikilink")计算机科学学院的Owen
-Astrachan负责，。\[10\]\[11\]考试提纲已经撰写，和教学提纲一起将在2010至2016年间试运行。\[12\]\[13\]\[14\]
+这是AP考试计算机方向一个新的考试，中文全称为AP计算机科学：准则，目前这门考试还在改进和发展中。可以确定的是，这个考试将不会代替AP计算机科学A，而将会作为AP计算机科学A的互补。其主要考察学生的编程语言的流畅性和创造性。这个考试是由来自[杜克大学](../Page/杜克大学.md "wikilink")计算机科学学院的Owen Astrachan负责，。\[10\]\[11\]考试提纲已经撰写，和教学提纲一起将在2010至2016年间试运行。\[12\]\[13\]\[14\]
 
 ## 参考
 
 ## 连接
 
-  - [College Board: AP Computer Science
-    A](http://www.collegeboard.com/student/testing/ap/sub_compscia.html?compscia)
-  - [College Board: GridWorld Case
-    Study](http://www.collegeboard.com/student/testing/ap/compsci_a/case.html?compscia)
+  - [College Board: AP Computer Science A](http://www.collegeboard.com/student/testing/ap/sub_compscia.html?compscia)
+  - [College Board: GridWorld Case Study](http://www.collegeboard.com/student/testing/ap/compsci_a/case.html?compscia)
 
 [Category:大學先修課程](https://zh.wikipedia.org/wiki/Category:大學先修課程 "wikilink")
 
-1.  [AP Computer Science A Home
-    Page](http://apcentral.collegeboard.com/apc/public/courses/teachers_corner/4483.html),
-    The College Board
-2.  [AP Computer Science AB Home
-    Page](http://apcentral.collegeboard.com/apc/public/courses/teachers_corner/8153.html),
-    The College Board
-3.  [AP Computer Science AB Home
-    Page](http://apcentral.collegeboard.com/apc/public/courses/teachers_corner/8153.html)
-4.  Johnson, Dr. Liz
-    [1](http://www.xavier.edu/campusuite/modules/faculty.cfm?faculty_id=1547&grp_id=2493)
-5.  Cech, Scott J., ["College Board Intends to Drop AP Programs in Four
-    Subjects"](http://www.edweek.org/ew/articles/2008/04/09/32ap.h27.html),
-    Education Week, 9 April 2008
+1.  [AP Computer Science A Home Page](http://apcentral.collegeboard.com/apc/public/courses/teachers_corner/4483.html), The College Board
+2.  [AP Computer Science AB Home Page](http://apcentral.collegeboard.com/apc/public/courses/teachers_corner/8153.html), The College Board
+3.  [AP Computer Science AB Home Page](http://apcentral.collegeboard.com/apc/public/courses/teachers_corner/8153.html)
+4.  Johnson, Dr. Liz [1](http://www.xavier.edu/campusuite/modules/faculty.cfm?faculty_id=1547&grp_id=2493)
+5.  Cech, Scott J., ["College Board Intends to Drop AP Programs in Four Subjects"](http://www.edweek.org/ew/articles/2008/04/09/32ap.h27.html), Education Week, 9 April 2008
 6.
 7.
 8.

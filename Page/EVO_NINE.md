@@ -1,5 +1,4 @@
-**Evo Nine**，為泰國的[Mono
-Music公司在](https://zh.wikipedia.org/wiki/Mono_Music "wikilink")2013年所推出的七人男子團體，現任成員包括Best、Wang、Nick、Gun、Feem、Rodtank、Andrew。
+**Evo Nine**，為泰國的[Mono Music公司在](https://zh.wikipedia.org/wiki/Mono_Music "wikilink")2013年所推出的七人男子團體，現任成員包括Best、Wang、Nick、Gun、Feem、Rodtank、Andrew。
 
 ## 成員資料
 
@@ -97,10 +96,4 @@ Music公司在](https://zh.wikipedia.org/wiki/Mono_Music "wikilink")2013年所�
   -
   -
   -
-[Category:泰國流行音樂團體](https://zh.wikipedia.org/wiki/Category:泰國流行音樂團體 "wikilink")
-[Category:泰語流行音樂團體](https://zh.wikipedia.org/wiki/Category:泰語流行音樂團體 "wikilink")
-[Category:泰國男子演唱團體](https://zh.wikipedia.org/wiki/Category:泰國男子演唱團體 "wikilink")
-[Category:泰國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:泰國流行音樂歌手 "wikilink")
-[Category:泰語歌手](https://zh.wikipedia.org/wiki/Category:泰語歌手 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:Mono音樂](https://zh.wikipedia.org/wiki/Category:Mono音樂 "wikilink")
+[Category:泰國流行音樂團體](https://zh.wikipedia.org/wiki/Category:泰國流行音樂團體 "wikilink") [Category:泰語流行音樂團體](https://zh.wikipedia.org/wiki/Category:泰語流行音樂團體 "wikilink") [Category:泰國男子演唱團體](https://zh.wikipedia.org/wiki/Category:泰國男子演唱團體 "wikilink") [Category:泰國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:泰國流行音樂歌手 "wikilink") [Category:泰語歌手](https://zh.wikipedia.org/wiki/Category:泰語歌手 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:Mono音樂](https://zh.wikipedia.org/wiki/Category:Mono音樂 "wikilink")

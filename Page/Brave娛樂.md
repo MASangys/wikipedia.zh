@@ -1,10 +1,6 @@
-**Brave娛樂**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：브레이브
-엔터테인먼트；英語：Brave
-Entertainment）是[韓國的藝人經紀及音樂製作公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")，於2008年由[姜東哲](https://zh.wikipedia.org/wiki/姜東哲 "wikilink")（藝名[勇敢兄弟](../Page/勇敢兄弟.md "wikilink")）所創立的。
+**Brave娛樂**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：브레이브 엔터테인먼트；英語：Brave Entertainment）是[韓國的藝人經紀及音樂製作公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")，於2008年由[姜東哲](https://zh.wikipedia.org/wiki/姜東哲 "wikilink")（藝名[勇敢兄弟](../Page/勇敢兄弟.md "wikilink")）所創立的。
 
-旗下藝人有[Electro
-Boyz](https://zh.wikipedia.org/wiki/Electro_Boyz "wikilink")、[Brave
-Girls](../Page/Brave_Girls.md "wikilink")、[朴秀珍等等](https://zh.wikipedia.org/wiki/朴秀珍\(歌手\) "wikilink")。
+旗下藝人有[Electro Boyz](https://zh.wikipedia.org/wiki/Electro_Boyz "wikilink")、[Brave Girls](../Page/Brave_Girls.md "wikilink")、[朴秀珍等等](https://zh.wikipedia.org/wiki/朴秀珍\(歌手\) "wikilink")。
 
 ## 旗下藝人
 
@@ -35,8 +31,7 @@ Girls](../Page/Brave_Girls.md "wikilink")、[朴秀珍等等](https://zh.wikiped
       - 蕙蘭（2011-2017）
   - 任夏英（[MIXNINE面試者](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")，[NATURE成員](https://zh.wikipedia.org/wiki/NATURE "wikilink")）
   - [金Samuel](https://zh.wikipedia.org/wiki/金Samuel "wikilink")（2017-2019）
-  - [Bigstar](https://zh.wikipedia.org/wiki/Bigstar "wikilink")
-    (2012-2019)
+  - [Bigstar](https://zh.wikipedia.org/wiki/Bigstar "wikilink") (2012-2019)
 
 ## 外部連結
 
@@ -58,5 +53,4 @@ Girls](../Page/Brave_Girls.md "wikilink")、[朴秀珍等等](https://zh.wikiped
 4.
 5.  [CoveredbyBrave](https://www.youtube.com/watch?v=z676qYFrdDo&list=PLfdzSll2FvhZ438WZcylYHti_ppRh9qmt)
 6.  [CH.BRAVE](https://www.youtube.com/watch?v=7miGquktH0g&list=PL08FC057EE644CAEA)
-7.  [BRAVE Artist Work (브레이브
-    작업실)](https://www.youtube.com/watch?v=-LDB9LQmi_A&list=PL3bP4K740LY68YUZumrkBYOW7KLgKhJMW)
+7.  [BRAVE Artist Work (브레이브 작업실)](https://www.youtube.com/watch?v=-LDB9LQmi_A&list=PL3bP4K740LY68YUZumrkBYOW7KLgKhJMW)

@@ -1,10 +1,6 @@
-**Kik
-Messenger**是一款可用于[智能手机](../Page/智能手机.md "wikilink")上的免费[即时通讯软件](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")。由[加拿大](../Page/加拿大.md "wikilink")公司Kik
-Interactive开发。
+**Kik Messenger**是一款可用于[智能手机](../Page/智能手机.md "wikilink")上的免费[即时通讯软件](https://zh.wikipedia.org/wiki/即时通讯 "wikilink")。由[加拿大](../Page/加拿大.md "wikilink")公司Kik Interactive开发。
 
-Kik
-Messenger是由[滑铁卢大学学生组成的Kik](https://zh.wikipedia.org/wiki/滑铁卢大学 "wikilink")
-Interactive所开发的早期软件\[1\]。2010年公开之后经由[Twitter](../Page/Twitter.md "wikilink")推出，仅15天就已有100万用户登录\[2\]\[3\]。
+Kik Messenger是由[滑铁卢大学学生组成的Kik](https://zh.wikipedia.org/wiki/滑铁卢大学 "wikilink") Interactive所开发的早期软件\[1\]。2010年公开之后经由[Twitter](../Page/Twitter.md "wikilink")推出，仅15天就已有100万用户登录\[2\]\[3\]。
 
 Kik Messenger 的基本功能有：
 

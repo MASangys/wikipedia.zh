@@ -1,5 +1,4 @@
-《**Beginners\!**》（）是2012年7月12日開始在[TBS](../Page/TBS電視台.md "wikilink")[系列的](https://zh.wikipedia.org/wiki/Japan_News_Network "wikilink")[週四劇場9時段播放的日本](https://zh.wikipedia.org/wiki/週四劇場9 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。首集在21:00
-- 22:06（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）延長12分鐘。
+《**Beginners\!**》（）是2012年7月12日開始在[TBS](../Page/TBS電視台.md "wikilink")[系列的](https://zh.wikipedia.org/wiki/Japan_News_Network "wikilink")[週四劇場9時段播放的日本](https://zh.wikipedia.org/wiki/週四劇場9 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。首集在21:00 - 22:06（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）延長12分鐘。
 
 ## 登場人物
 
@@ -9,42 +8,33 @@
 
 **S Class**和**桜庭教場**的通称。
 
-  - 志村 徹平 (18) -
-    [藤谷太輔](../Page/藤谷太輔.md "wikilink")（[Kis-My-Ft2](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")）
+  - 志村 徹平 (18) - [藤谷太輔](../Page/藤谷太輔.md "wikilink")（[Kis-My-Ft2](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")）
     立花 団司 (18) - [北山宏光](../Page/北山宏光.md "wikilink")（Kis-My-Ft2）
     桃江 比呂 (18) - [剛力彩芽](../Page/剛力彩芽.md "wikilink")
-    山根 省吾 (18) -
-    [柄本時生](../Page/柄本時生.md "wikilink")（幼少期：[土屋楓](https://zh.wikipedia.org/wiki/土屋楓 "wikilink")）
+    山根 省吾 (18) - [柄本時生](../Page/柄本時生.md "wikilink")（幼少期：[土屋楓](https://zh.wikipedia.org/wiki/土屋楓 "wikilink")）
     杉山 清貴 (25) - [小柳友](../Page/小柳友.md "wikilink")
     石岡 太一 (22) - [石井智也](https://zh.wikipedia.org/wiki/石井智也 "wikilink")
     恩田 雄一 (18) - [森廉](https://zh.wikipedia.org/wiki/森廉 "wikilink")
-    新島 千晶 (19) -
-    [岡本あずさ](https://zh.wikipedia.org/wiki/岡本あずさ "wikilink")
-    福原 陽子 (20) -
-    [水澤惠麗奈](../Page/水澤惠麗奈.md "wikilink")（幼少期：[小松﨑夕楠](https://zh.wikipedia.org/wiki/小松﨑夕楠 "wikilink")）
+    新島 千晶 (19) - [岡本あずさ](https://zh.wikipedia.org/wiki/岡本あずさ "wikilink")
+    福原 陽子 (20) - [水澤惠麗奈](../Page/水澤惠麗奈.md "wikilink")（幼少期：[小松﨑夕楠](https://zh.wikipedia.org/wiki/小松﨑夕楠 "wikilink")）
 
 #### 職員
 
-  - 竜崎 美咲 (35) -
-    [石田ひかり](https://zh.wikipedia.org/wiki/石田ひかり "wikilink")
+  - 竜崎 美咲 (35) - [石田ひかり](https://zh.wikipedia.org/wiki/石田ひかり "wikilink")
     桜庭 直樹 (43) - [杉本哲太](../Page/杉本哲太.md "wikilink")
     峰 百合（年齢不詳） - [青山倫子](https://zh.wikipedia.org/wiki/青山倫子 "wikilink")
     鬼塚 辰男 - [伊達暁](https://zh.wikipedia.org/wiki/伊達暁 "wikilink")
-    高村 光太郎 (55) -
-    [鹿賀丈史](https://zh.wikipedia.org/wiki/鹿賀丈史 "wikilink")（特別出演）
+    高村 光太郎 (55) - [鹿賀丈史](https://zh.wikipedia.org/wiki/鹿賀丈史 "wikilink")（特別出演）
 
 ### S Class關係者
 
   - 志村 真夏 (16) - [森高愛](../Page/森高愛.md "wikilink")
-    志村 恭一郎 (50) -
-    [国広富之](https://zh.wikipedia.org/wiki/国広富之 "wikilink")
+    志村 恭一郎 (50) - [国広富之](https://zh.wikipedia.org/wiki/国広富之 "wikilink")
     福田 清志 (40) - [柳沢慎吾](https://zh.wikipedia.org/wiki/柳沢慎吾 "wikilink")
     福田 顕子 - [松永玲子](https://zh.wikipedia.org/wiki/松永玲子 "wikilink")
     立花 理華子 - [堀内敬子](../Page/堀内敬子.md "wikilink")
-    桃江 好則 (40) -
-    [宮川一朗太](https://zh.wikipedia.org/wiki/宮川一朗太 "wikilink")
-    桃江 朋美 (40) -
-    [河合美智子](https://zh.wikipedia.org/wiki/河合美智子 "wikilink")
+    桃江 好則 (40) - [宮川一朗太](https://zh.wikipedia.org/wiki/宮川一朗太 "wikilink")
+    桃江 朋美 (40) - [河合美智子](https://zh.wikipedia.org/wiki/河合美智子 "wikilink")
     杉山 勝也 (59) - [五代高之](https://zh.wikipedia.org/wiki/五代高之 "wikilink")
     関根 志保 - [奥貫薫](https://zh.wikipedia.org/wiki/奥貫薫 "wikilink")
 
@@ -56,8 +46,7 @@
     竹林 典子 - [伊藤修子](https://zh.wikipedia.org/wiki/伊藤修子 "wikilink")
     向井 秀樹 - [佐野和真](../Page/佐野和真.md "wikilink")
     亀野 広太 - [山田健太](https://zh.wikipedia.org/wiki/山田健太 "wikilink")
-    先輩の警察官 -
-    [鈴木拓](https://zh.wikipedia.org/wiki/鈴木拓 "wikilink")（[ドランクドラゴン](https://zh.wikipedia.org/wiki/ドランクドラゴン "wikilink")）
+    先輩の警察官 - [鈴木拓](https://zh.wikipedia.org/wiki/鈴木拓 "wikilink")（[ドランクドラゴン](https://zh.wikipedia.org/wiki/ドランクドラゴン "wikilink")）
     ラーメン屋店員 - [山崎まさや](https://zh.wikipedia.org/wiki/山崎まさや "wikilink")
 
 #### 第5話
@@ -78,9 +67,7 @@
 
 ## 主題歌
 
-  - [Kis-My-Ft2](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")「[WANNA
-    BEEEE\!\!\!](https://zh.wikipedia.org/wiki/WANNA_BEEEE!!!/Shake_It_Up "wikilink")」（[avex
-    trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")）
+  - [Kis-My-Ft2](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")「[WANNA BEEEE\!\!\!](https://zh.wikipedia.org/wiki/WANNA_BEEEE!!!/Shake_It_Up "wikilink")」（[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")）
 
 ## 各集標題
 
@@ -108,13 +95,6 @@
 
   - \- Twitter官方網站
 
-[Category:2012年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年日本電視劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink")
-[Category:警察學校背景作品](https://zh.wikipedia.org/wiki/Category:警察學校背景作品 "wikilink")
-[Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink")
-[Category:神奈川縣背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣背景作品 "wikilink")
+[Category:2012年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年日本電視劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:警察學校背景作品](https://zh.wikipedia.org/wiki/Category:警察學校背景作品 "wikilink") [Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink") [Category:神奈川縣背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣背景作品 "wikilink")
 
-1.  [ビギナーズ！ - スポニチ Sponichi Annex
-    芸能](http://www.sponichi.co.jp/entertainment/yomimono/drama/2012/beginners/index.html)
-    、2012年8月17日参照。
+1.  [ビギナーズ！ - スポニチ Sponichi Annex 芸能](http://www.sponichi.co.jp/entertainment/yomimono/drama/2012/beginners/index.html) 、2012年8月17日参照。

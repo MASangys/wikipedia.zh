@@ -4,8 +4,4 @@
 
 [Category:苯丙胺类](https://zh.wikipedia.org/wiki/Category:苯丙胺类 "wikilink")
 
-1.  Clark CR, Deruiter J, Noggle FT. Analysis of
-    1-(3-methoxy-4,5-methylenedioxyphenyl)-2-propanamine (MMDA)
-    derivatives synthesized from nutmeg oil and
-    3-methoxy-4,5-methylenedioxybenzaldehyde. Journal of chromatographic
-    science. 1996. 34(1):34-42.
+1.  Clark CR, Deruiter J, Noggle FT. Analysis of 1-(3-methoxy-4,5-methylenedioxyphenyl)-2-propanamine (MMDA) derivatives synthesized from nutmeg oil and 3-methoxy-4,5-methylenedioxybenzaldehyde. Journal of chromatographic science. 1996. 34(1):34-42.

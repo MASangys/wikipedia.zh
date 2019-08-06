@@ -1,5 +1,4 @@
-《**追擊者 THE
-CHASER**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS自](https://zh.wikipedia.org/wiki/SBS_\(韩国\) "wikilink")2012年5月28日起播出的[月火迷你連續劇](../Page/SBS月火連續劇.md "wikilink")。由曾經執筆《[太王四神記](../Page/太王四神記.md "wikilink")》、《[KAIST](../Page/KAIST_\(電視劇\).md "wikilink")》的作家[朴慶秀](../Page/朴慶秀.md "wikilink")與執導《[鄰居冤家](../Page/鄰居冤家.md "wikilink")》、《[玻璃之城](../Page/菜鳥變鳳凰.md "wikilink")》的導演[趙南國](../Page/趙南國.md "wikilink")攜手打造。
+《**追擊者 THE CHASER**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS自](https://zh.wikipedia.org/wiki/SBS_\(韩国\) "wikilink")2012年5月28日起播出的[月火迷你連續劇](../Page/SBS月火連續劇.md "wikilink")。由曾經執筆《[太王四神記](../Page/太王四神記.md "wikilink")》、《[KAIST](../Page/KAIST_\(電視劇\).md "wikilink")》的作家[朴慶秀](../Page/朴慶秀.md "wikilink")與執導《[鄰居冤家](../Page/鄰居冤家.md "wikilink")》、《[玻璃之城](../Page/菜鳥變鳳凰.md "wikilink")》的導演[趙南國](../Page/趙南國.md "wikilink")攜手打造。
 
 ## 簡介
 
@@ -312,15 +311,13 @@ CHASER**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 
 <!-- end list -->
 
-  - 2012年[1st K-Drama Star
-    Awards](https://zh.wikipedia.org/wiki/大田電視劇節#第一屆 "wikilink")
+  - 2012年[1st K-Drama Star Awards](https://zh.wikipedia.org/wiki/大田電視劇節#第一屆 "wikilink")
       - 大賞：[孫賢周](../Page/孫賢周.md "wikilink")
 
 <!-- end list -->
 
   - 2012年第25屆Grime Awards
-      - 優秀攝影作品賞：[鄭奇賢](https://zh.wikipedia.org/wiki/鄭奇賢 "wikilink") &
-        [金大權](https://zh.wikipedia.org/wiki/金大權 "wikilink")
+      - 優秀攝影作品賞：[鄭奇賢](https://zh.wikipedia.org/wiki/鄭奇賢 "wikilink") & [金大權](https://zh.wikipedia.org/wiki/金大權 "wikilink")
 
 <!-- end list -->
 
@@ -329,11 +326,9 @@ CHASER**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
       - 無線三台放送PD奬：[朴根瀅](../Page/朴根瀅.md "wikilink")
       - 迷你系列劇部門 男子優秀演技獎：金相中
       - 迷你系列劇部門 女子優秀演技獎：[金成鈴](../Page/金成鈴.md "wikilink")
-      - 迷你系列劇部門
-        女子特別演技獎：[張新英](https://zh.wikipedia.org/wiki/張新英 "wikilink")
+      - 迷你系列劇部門 女子特別演技獎：[張新英](https://zh.wikipedia.org/wiki/張新英 "wikilink")
       - 10大明星奬：孫賢周
-      - New
-        Star奬：[朴孝珠](../Page/朴孝珠.md "wikilink")、[高濬熙](https://zh.wikipedia.org/wiki/高濬熙 "wikilink")
+      - New Star奬：[朴孝珠](../Page/朴孝珠.md "wikilink")、[高濬熙](https://zh.wikipedia.org/wiki/高濬熙 "wikilink")
 
 <!-- end list -->
 
@@ -397,13 +392,7 @@ CHASER**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
   - [韓國SBS](http://tv.sbs.co.kr/thechaser/)
   - [臺灣東森](http://blog.ebc.net.tw/apps/thechaser/)
 
-[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink")
-[Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink")
-[Category:程序型罪案調查劇](https://zh.wikipedia.org/wiki/Category:程序型罪案調查劇 "wikilink")
-[Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink")
-[Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink") [Category:韓國犯罪劇](https://zh.wikipedia.org/wiki/Category:韓國犯罪劇 "wikilink") [Category:程序型罪案調查劇](https://zh.wikipedia.org/wiki/Category:程序型罪案調查劇 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
 1.  [TNmS 멀티미디어 홈페이지](http://home.tnms.tv/rating/main.asp)
 2.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)

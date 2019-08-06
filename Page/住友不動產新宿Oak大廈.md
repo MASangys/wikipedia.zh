@@ -8,6 +8,4 @@ image:Shinjuku_oak_city_cropped.jpg|住友不動產新宿Oak大廈(右)
 
   - [官方網站](http://office.sumitomo-rd.co.jp/building/detail/shinjyuku/nishishinjuku6_pj)
 
-[Category:東京都摩天大樓](https://zh.wikipedia.org/wiki/Category:東京都摩天大樓 "wikilink")
-[Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink")
-[Category:新宿](https://zh.wikipedia.org/wiki/Category:新宿 "wikilink")
+[Category:東京都摩天大樓](https://zh.wikipedia.org/wiki/Category:東京都摩天大樓 "wikilink") [Category:150米至199米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大樓 "wikilink") [Category:新宿](https://zh.wikipedia.org/wiki/Category:新宿 "wikilink")

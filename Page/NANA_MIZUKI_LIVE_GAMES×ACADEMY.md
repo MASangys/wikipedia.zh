@@ -1,7 +1,4 @@
-『**NANA MIZUKI LIVE
-GAMES×ACADEMY**』是[水樹奈奈](../Page/水樹奈奈.md "wikilink")的第9作張Live影像作品（通算第14作張影像作品）。2010年12月22日由[King
-Records以](https://zh.wikipedia.org/wiki/King_Records "wikilink")[Blu-ray
-Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD發售](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+『**NANA MIZUKI LIVE GAMES×ACADEMY**』是[水樹奈奈](../Page/水樹奈奈.md "wikilink")的第9作張Live影像作品（通算第14作張影像作品）。2010年12月22日由[King Records以](https://zh.wikipedia.org/wiki/King_Records "wikilink")[Blu-ray Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD發售](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 收錄内容
 
@@ -147,9 +144,6 @@ Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD發售](https
 ## 外部連結
 
   - [水樹奈奈 官方網站 NANAPARTY](http://www.mizukinana.jp/index.html)
-  - [King Records
-    音樂家頁面](http://www.kingrecords.co.jp/mizukinana/index.html)
+  - [King Records 音樂家頁面](http://www.kingrecords.co.jp/mizukinana/index.html)
 
-[Category:2010年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2010年音樂相關影像作品 "wikilink")
-[Category:水樹奈奈影像作品](https://zh.wikipedia.org/wiki/Category:水樹奈奈影像作品 "wikilink")
-[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
+[Category:2010年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2010年音樂相關影像作品 "wikilink") [Category:水樹奈奈影像作品](https://zh.wikipedia.org/wiki/Category:水樹奈奈影像作品 "wikilink") [Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")

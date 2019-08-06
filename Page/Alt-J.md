@@ -1,7 +1,4 @@
-*'Alt-J
-**(又名**∆*')是一支于2007年成立于英国利兹的[独立摇滚](../Page/独立摇滚.md "wikilink")三人组合。他们的第一张专辑*[An
-Awesome
-Wave](https://zh.wikipedia.org/wiki/An_Awesome_Wave "wikilink")*与2013年5月在欧洲发布\[1\]，在2012年他们赢得了英国[水星音樂獎](../Page/水星音樂獎.md "wikilink")。
+*'Alt-J **(又名**∆*')是一支于2007年成立于英国利兹的[独立摇滚](../Page/独立摇滚.md "wikilink")三人组合。他们的第一张专辑*[An Awesome Wave](https://zh.wikipedia.org/wiki/An_Awesome_Wave "wikilink")*与2013年5月在欧洲发布\[1\]，在2012年他们赢得了英国[水星音樂獎](../Page/水星音樂獎.md "wikilink")。
 
 ## 作品
 
@@ -203,19 +200,9 @@ Wave](https://zh.wikipedia.org/wiki/An_Awesome_Wave "wikilink")*与2013年5月�
 ## 外部链接
 
   -
-[Category:独立摇滚乐团](https://zh.wikipedia.org/wiki/Category:独立摇滚乐团 "wikilink")
-[Category:另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:另类摇滚乐团 "wikilink")
-[Category:2008年成立的乐团](https://zh.wikipedia.org/wiki/Category:2008年成立的乐团 "wikilink")
-[Category:四人组合](https://zh.wikipedia.org/wiki/Category:四人组合 "wikilink")
-[Category:艺术摇滚乐团](https://zh.wikipedia.org/wiki/Category:艺术摇滚乐团 "wikilink")
-[Category:实验摇滚乐团](https://zh.wikipedia.org/wiki/Category:实验摇滚乐团 "wikilink")
-[Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")
-[Category:實驗音樂樂團](https://zh.wikipedia.org/wiki/Category:實驗音樂樂團 "wikilink")
+[Category:独立摇滚乐团](https://zh.wikipedia.org/wiki/Category:独立摇滚乐团 "wikilink") [Category:另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:另类摇滚乐团 "wikilink") [Category:2008年成立的乐团](https://zh.wikipedia.org/wiki/Category:2008年成立的乐团 "wikilink") [Category:四人组合](https://zh.wikipedia.org/wiki/Category:四人组合 "wikilink") [Category:艺术摇滚乐团](https://zh.wikipedia.org/wiki/Category:艺术摇滚乐团 "wikilink") [Category:实验摇滚乐团](https://zh.wikipedia.org/wiki/Category:实验摇滚乐团 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink") [Category:實驗音樂樂團](https://zh.wikipedia.org/wiki/Category:實驗音樂樂團 "wikilink")
 
-1.  [Alt-J: a cut above, *[The
-    Guardian](https://zh.wikipedia.org/wiki/The_Guardian "wikilink")*,
-    Sam Wolfson, 30 August
-    2012](http://www.guardian.co.uk/music/2012/aug/30/alt-j-a-cut-above)
+1.  [Alt-J: a cut above, *[The Guardian](https://zh.wikipedia.org/wiki/The_Guardian "wikilink")*, Sam Wolfson, 30 August 2012](http://www.guardian.co.uk/music/2012/aug/30/alt-j-a-cut-above)
 
 2.
 

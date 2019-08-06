@@ -12,9 +12,7 @@
 
 ## 拓展阅读
 
-  - Norma R. de Tacconi and Krishnan Rajeshwar. Metal Hexacyanoferrates:
-    Electrosynthesis, in Situ Characterization, and Applications. *Chem.
-    Mater.*, 2003, 15 (16), pp 3046–3062. DOI: 10.1021/cm0341540
+  - Norma R. de Tacconi and Krishnan Rajeshwar. Metal Hexacyanoferrates: Electrosynthesis, in Situ Characterization, and Applications. *Chem. Mater.*, 2003, 15 (16), pp 3046–3062. DOI: 10.1021/cm0341540
 
 [Category:铁氰酸盐](https://zh.wikipedia.org/wiki/Category:铁氰酸盐 "wikilink")
 

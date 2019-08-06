@@ -1,31 +1,18 @@
-**荷爾蒙（Hormones）**，全名為***Hormones: The
-Series***，是部[泰國青少年](https://zh.wikipedia.org/wiki/泰國 "wikilink")[電視劇系列](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[GTH出品](https://zh.wikipedia.org/wiki/GMM_Tai_Hub "wikilink")，於2013年首播第一季。
-劇情聚焦在高中生的生活與彼此的關係，包含校園及家庭生活，以及所面臨的各種議題。有別於以往泰國電視的模式是[泰式電視劇以及](https://zh.wikipedia.org/wiki/泰国电视剧 "wikilink")[情境喜劇](https://zh.wikipedia.org/wiki/情境喜劇 "wikilink")，荷爾蒙被認為較帶有西方風格以及電影製作的拍攝手法。
-其不同的特色包含以一些爭論性的議題為主題，例如青少年性愛及懷孕、[同性戀](../Page/同性戀.md "wikilink")、以及[校園暴力](https://zh.wikipedia.org/wiki/校園暴力 "wikilink")。
+**荷爾蒙（Hormones）**，全名為***Hormones: The Series***，是部[泰國青少年](https://zh.wikipedia.org/wiki/泰國 "wikilink")[電視劇系列](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[GTH出品](https://zh.wikipedia.org/wiki/GMM_Tai_Hub "wikilink")，於2013年首播第一季。 劇情聚焦在高中生的生活與彼此的關係，包含校園及家庭生活，以及所面臨的各種議題。有別於以往泰國電視的模式是[泰式電視劇以及](https://zh.wikipedia.org/wiki/泰国电视剧 "wikilink")[情境喜劇](https://zh.wikipedia.org/wiki/情境喜劇 "wikilink")，荷爾蒙被認為較帶有西方風格以及電影製作的拍攝手法。 其不同的特色包含以一些爭論性的議題為主題，例如青少年性愛及懷孕、[同性戀](../Page/同性戀.md "wikilink")、以及[校園暴力](https://zh.wikipedia.org/wiki/校園暴力 "wikilink")。
 
-第一季於2013年5月到8月在電視台GMM
-One以及線上播映。儘管沒有在免付費的無線電視臺放送，仍然獲得廣大迴響，也促成了第二季的產生。第二季於2014年7月開始播映
-。
+第一季於2013年5月到8月在電視台GMM One以及線上播映。儘管沒有在免付費的無線電視臺放送，仍然獲得廣大迴響，也促成了第二季的產生。第二季於2014年7月開始播映 。
 
 ## 製作
 
-*荷爾蒙*由泰國製片公司GMM Tai Hub(GTH)以及子公司Nadao
-Bangkok製作。根據導演[松耀司·舒克馬卡納尼表示](https://zh.wikipedia.org/wiki/松耀司·舒克馬卡納尼 "wikilink"),
-*荷爾蒙*原先一部分只是GTH創作來提供機會給其旗下青少年演員以及一部分帶有實驗性質地製作不同於以往泰國電視劇的模式。其概念有部分是源自於2008年的原文同名電影[愛我一下夏](../Page/愛我一下夏.md "wikilink")以及受到英國影集[皮囊](../Page/皮囊.md "wikilink")的啟發。
-*荷爾蒙*旨在探索及描述青少年生活的不同議題及面向，包含在泰國社會中公開討論被認為是禁忌的青少年性愛以及校園暴力。\[1\]\[2\]
+*荷爾蒙*由泰國製片公司GMM Tai Hub(GTH)以及子公司Nadao Bangkok製作。根據導演[松耀司·舒克馬卡納尼表示](https://zh.wikipedia.org/wiki/松耀司·舒克馬卡納尼 "wikilink"), *荷爾蒙*原先一部分只是GTH創作來提供機會給其旗下青少年演員以及一部分帶有實驗性質地製作不同於以往泰國電視劇的模式。其概念有部分是源自於2008年的原文同名電影[愛我一下夏](../Page/愛我一下夏.md "wikilink")以及受到英國影集[皮囊](../Page/皮囊.md "wikilink")的啟發。 *荷爾蒙*旨在探索及描述青少年生活的不同議題及面向，包含在泰國社會中公開討論被認為是禁忌的青少年性愛以及校園暴力。\[1\]\[2\]
 
-創作劇本時，導演及編劇團隊針對當代的青少年議題作了線上調查，也從參與演出的演員們身上了解。導演想避免用傳道的方式，而以青少年的角度傳達議題，並透過劇中角色的經歷表達某些行為的後果。
-\[3\]\[4\]
-導演選擇用他熟悉的拍攝電影的手法加以改變成適合電視劇的拍攝\[5\]，荷爾蒙第一季的拍攝時間從2012年12月至2013年的4月\[6\]
+創作劇本時，導演及編劇團隊針對當代的青少年議題作了線上調查，也從參與演出的演員們身上了解。導演想避免用傳道的方式，而以青少年的角度傳達議題，並透過劇中角色的經歷表達某些行為的後果。 \[3\]\[4\] 導演選擇用他熟悉的拍攝電影的手法加以改變成適合電視劇的拍攝\[5\]，荷爾蒙第一季的拍攝時間從2012年12月至2013年的4月\[6\]
 
-雖然原本僅計畫製作一季，但GTH在第一季尾聲時宣布要製作第二季，以回應此劇受歡迎的程度。原導演松耀司在第二季變成製作人，而由原本共同編寫劇本的Kriangkrai
-Vachiratamporn執導第二季。 GTH也同時宣布要製作一個實境節目 「Hormones: The Next
-Gen」，來挑選額外替補原先第一季角色的演員。\[7\]
+雖然原本僅計畫製作一季，但GTH在第一季尾聲時宣布要製作第二季，以回應此劇受歡迎的程度。原導演松耀司在第二季變成製作人，而由原本共同編寫劇本的Kriangkrai Vachiratamporn執導第二季。 GTH也同時宣布要製作一個實境節目 「Hormones: The Next Gen」，來挑選額外替補原先第一季角色的演員。\[7\]
 
 ## 故事線、角色
 
-*荷爾蒙*主要是[群戲](https://zh.wikipedia.org/wiki/群戲 "wikilink")，在第一季有9位主要演員，故事主要發生在虛構的學校Nadao
-Bangkok College，主角們是高中學生. 主要角色整季都有出現，但每一集會聚焦在某一位或某幾位身上以及他們經歷的議題。\[8\]
+*荷爾蒙*主要是[群戲](https://zh.wikipedia.org/wiki/群戲 "wikilink")，在第一季有9位主要演員，故事主要發生在虛構的學校Nadao Bangkok College，主角們是高中學生. 主要角色整季都有出現，但每一集會聚焦在某一位或某幾位身上以及他們經歷的議題。\[8\]
 
 ### 第一季角色
 
@@ -330,14 +317,9 @@ Phu的弟弟，第三季Robot的同桌。</p></td>
 </tbody>
 </table>
 
-Pachara, Ungsumalynn, Sutatta and Sirachuch
-在演出荷爾蒙之前已經主演過GTH的戲劇，而其他演員則是有配角的演出經驗。Sedthawut
-and Kemisara則是首度演出戲劇。\[9\] 五位來自實境節目*Hormones: The Next
-Gen*的演員在第二季也獻出螢幕處女秀。\[10\]
+Pachara, Ungsumalynn, Sutatta and Sirachuch 在演出荷爾蒙之前已經主演過GTH的戲劇，而其他演員則是有配角的演出經驗。Sedthawut and Kemisara則是首度演出戲劇。\[9\] 五位來自實境節目*Hormones: The Next Gen*的演員在第二季也獻出螢幕處女秀。\[10\]
 
-在第一季，主要角色(除了Dao跟Koi小了一屆)都是 *matthayom* 5 年級生
-(相當於高中二年級)，設定是2012學年。第二季則是設定在第一季的隔年。配角包含老師、家人、同學以及其他角色等。
-\[11\]\[12\]
+在第一季，主要角色(除了Dao跟Koi小了一屆)都是 *matthayom* 5 年級生 (相當於高中二年級)，設定是2012學年。第二季則是設定在第一季的隔年。配角包含老師、家人、同學以及其他角色等。 \[11\]\[12\]
 
 ## 集數
 
@@ -384,14 +366,11 @@ Gen*的演員在第二季也獻出螢幕處女秀。\[10\]
 ## 外部連結
 
   - [官方臉書頁面](https://www.facebook.com/HormonesTheSeries)
-  - [第一季頁面 on GTH
-    website](http://gth.co.th/films-and-series/hormones-%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B9%88%E0%B8%99/)
-  - [第二季頁面 on GTH
-    website](http://gth.co.th/films-and-series/hormones-%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B9%88%E0%B8%99-season-2/)
+  - [第一季頁面 on GTH website](http://gth.co.th/films-and-series/hormones-%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B9%88%E0%B8%99/)
+  - [第二季頁面 on GTH website](http://gth.co.th/films-and-series/hormones-%E0%B8%A7%E0%B8%B1%E0%B8%A2%E0%B8%A7%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%B8%E0%B9%88%E0%B8%99-season-2/)
   - [第一季全集，YouTube上可觀看](http://www.youtube.com/playlist?list=PLXopbKxiivxpa9jeekX0WCAPO7btNms8J)
 
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:泰国校园剧](https://zh.wikipedia.org/wiki/Category:泰国校园剧 "wikilink")
+[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:泰国校园剧](https://zh.wikipedia.org/wiki/Category:泰国校园剧 "wikilink")
 
 1.
 2.

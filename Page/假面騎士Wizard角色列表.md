@@ -2,8 +2,7 @@
 
 ## 魔法使
 
-**操真晴人（）**（[白石隼也](../Page/白石隼也.md "wikilink") /
-[中島凱斗](https://zh.wikipedia.org/wiki/:ja:中島凱斗 "wikilink")（童年期）飾／香港配音：[陈灏玮](https://zh.wikipedia.org/wiki/陈灏玮 "wikilink")（本篇、香港）、[何偉誠](../Page/何偉誠.md "wikilink")（電影版、香港）／台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")（電影版）
+**操真晴人（）**（[白石隼也](../Page/白石隼也.md "wikilink") / [中島凱斗](https://zh.wikipedia.org/wiki/:ja:中島凱斗 "wikilink")（童年期）飾／香港配音：[陈灏玮](https://zh.wikipedia.org/wiki/陈灏玮 "wikilink")（本篇、香港）、[何偉誠](../Page/何偉誠.md "wikilink")（電影版、香港）／台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")（電影版）
 
   -
     22歲。半年前被綁架，在儀式「魔宴」中被當作祭品而成為魅影Wizardragon的宿主，危急一刻因萌生出一絲希望才得以倖存。喜欢阿历。在心目中,阿历是最重要的存在。
@@ -17,26 +16,19 @@
   -
     在初次「魔宴」完結後，白色魔法使把Wizard Driver跟指環和魔寶石以及曆交託出來，並前往「面影堂」尋找輪島繁。
     第8話事件中所營救的「Gate」伊藤洋樹的母親伊藤美紀子是其舊相識。透露雙親在其童年時車禍中過世，以他們臨終前「你是我們最後的希望」這句話作為精神支柱。
-    第9話迎戰[菲尼克斯時敗陣](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")，利用新的魔寶石所製作的「Flame
-    Dragon」指環，首次得到進化之力從而成為另一形態模式**Flame Dragon**並將之撃敗。
-    第11話事件中拯救「Gate」片山直己後，木崎心表認同並奉送出得來的魔寶石；其後以此魔寶石製造的指環，在第12話進化成另一形態模式**Hurricane
-    Dragon**。
+    第9話迎戰[菲尼克斯時敗陣](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")，利用新的魔寶石所製作的「Flame Dragon」指環，首次得到進化之力從而成為另一形態模式**Flame Dragon**並將之撃敗。
+    第11話事件中拯救「Gate」片山直己後，木崎心表認同並奉送出得來的魔寶石；其後以此魔寶石製造的指環，在第12話進化成另一形態模式**Hurricane Dragon**。
     第15話利用曆從山洞尋得的魔寶石製造的指環，進化成另一形態模式**Water Dragon**。
     第17話被[蠍獅暗算而身中劇毒](https://zh.wikipedia.org/wiki/蠍獅 "wikilink")，其後無法變身之際仁藤攻介出現，並得知對方原來同樣也是魔法使，而且被其解下身上的劇毒。
-    第19話憑著[古利姆連交給曆的魔寶石製造的指環](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")，進化成另一形態模式**Land
-    Dragon**。
-    第20話與[巴力西卜](../Page/巴力西卜.md "wikilink")對戰卻反被打敗，失去意識倒下時被白色魔法使拯救；第21話與白色魔法使共同激發體內Wizardragon的力量至極限後精煉出魔法道具Drago
-    Timer。
-    第22話為救回被綁架的大門凛子而再次與[菲尼克斯對陣](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")，卻因為對方力量已進化得過於強大，雖成功營救凛子卻被迫敗退；第23話與[菲尼克斯作生死決戰](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")，利用Drago
-    Timer變身成另一形態**All Dragon**後把對方踢飛至太陽，讓他從中燃燒而不斷飽受死亡與重生的輪迴。
-    第30話與[雷吉翁對戰卻反遭到對方侵入自身的](https://zh.wikipedia.org/wiki/:ja:レギオン "wikilink")「Underworld」大肆破壞，即使Beast進入阻止並與Wizardragon合力對抗但仍然不敵，Wizardragon更因此被消滅而引致現實世界的晴人失去魔法使應有的魔力；第31話危機中卻因強大的信念，眼淚化成「Infinity」指環及本已被消滅的Wizardragon再次復活而得回魔力，利用指環進化至另一形態**Infinity
-    Style**並撃敗[雷吉翁](https://zh.wikipedia.org/wiki/:ja:レギオン "wikilink")。
+    第19話憑著[古利姆連交給曆的魔寶石製造的指環](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")，進化成另一形態模式**Land Dragon**。
+    第20話與[巴力西卜](../Page/巴力西卜.md "wikilink")對戰卻反被打敗，失去意識倒下時被白色魔法使拯救；第21話與白色魔法使共同激發體內Wizardragon的力量至極限後精煉出魔法道具Drago Timer。
+    第22話為救回被綁架的大門凛子而再次與[菲尼克斯對陣](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")，卻因為對方力量已進化得過於強大，雖成功營救凛子卻被迫敗退；第23話與[菲尼克斯作生死決戰](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")，利用Drago Timer變身成另一形態**All Dragon**後把對方踢飛至太陽，讓他從中燃燒而不斷飽受死亡與重生的輪迴。
+    第30話與[雷吉翁對戰卻反遭到對方侵入自身的](https://zh.wikipedia.org/wiki/:ja:レギオン "wikilink")「Underworld」大肆破壞，即使Beast進入阻止並與Wizardragon合力對抗但仍然不敵，Wizardragon更因此被消滅而引致現實世界的晴人失去魔法使應有的魔力；第31話危機中卻因強大的信念，眼淚化成「Infinity」指環及本已被消滅的Wizardragon再次復活而得回魔力，利用指環進化至另一形態**Infinity Style**並撃敗[雷吉翁](https://zh.wikipedia.org/wiki/:ja:レギオン "wikilink")。
     第34話與凛子調查有關[古利姆連宿主滝川空的事情中途反被找上會談](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")，聞聽對方表明自己仍保留人類的心智之事而心存疑惑，後來更去營救因保護「Gate」而墜落湖中的[古利姆連](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")。
     第35話從獲救的[古利姆連口中得知誕生魅影後宿主是無法保留著軀體](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")，因此對於曆的存在和有關的一切開始產生疑問。後來因查明[古利姆連不論在人類之時仰或成為魅影過後同樣草菅人命的真相而與之對戰](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")，言語間首次聽及「賢者之石」這詞彙。
     第36話仍然在意[古利姆連之前所道出的說話](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")，因此執意找上藏身山洞石窟中的賢者。向其提問有關的事情但不果，打算向對方動用武力卻反被吸走身上部份的魔力，直至與[勞姆對戰時魔力不足而虛脫倒下](https://zh.wikipedia.org/wiki/勞姆 "wikilink")。
     第38話事件中所營救的「Gate」篠崎和也是其舊相識，透露過去曾擔任職業足球隊的球員並以得到正選資格作為目標。卻在選拔賽中意外導致和也膝蓋受傷，影響對方日後的活動能力之事耿耿於懷而自行退陣球隊。
-    第39話從Violet
-    Golem手上得到不明的指環而與笛木遇上，得知對方另一身份正是造就自己踏上魔法使之路的白色魔法使，並向自己留下「為迎接即將到來的時刻，在你身上也是重要，你也是最後的希望。」此信息。
+    第39話從Violet Golem手上得到不明的指環而與笛木遇上，得知對方另一身份正是造就自己踏上魔法使之路的白色魔法使，並向自己留下「為迎接即將到來的時刻，在你身上也是重要，你也是最後的希望。」此信息。
     第43話進入西園寺雅文的「Underworld」並消滅魅影後準備離開之際，意外地發現曆的父親是笛木。
     第44話事件中所營救的「Gate」熊谷義和是其以前的小學班主任，從事件當中因曆的情況惡化，卻打算任由熊谷陷入絕望而引出笛木的出現。事件中最後卻明白有壓力就不要放在心裡，否則會令自己心裡認為最重要的東西慢慢腐蝕的道理。
     第47話稻森真由透露了白色魔法使提出若取得「Holy」指環，就必先需要偷取自己的「Infinity」指環作為交換的條件，其後卻爽快地交出指環給對方。
@@ -47,13 +39,10 @@
     第52話聽到了求救的聲音，來到了魔寶石世界。
     第53話的結尾將Infinity指環託付給了寶石世界的自己後，再度踏上了旅程。
 
-**仁藤攻介（）**（[永瀨匡](../Page/永瀨匡.md "wikilink") /
-若山耀人（童年期）飾／香港配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）
+**仁藤攻介（）**（[永瀨匡](../Page/永瀨匡.md "wikilink") / 若山耀人（童年期）飾／香港配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）
 
   -
-    23歲的[考古學系大學生](https://zh.wikipedia.org/wiki/考古學 "wikilink")。在某遺跡中偶然發現變身系統Beast
-    Driver而成為**假面騎士Beast**，因此亦與封印在腰帶內的魅影Beast
-    [Chimera合為一體](https://zh.wikipedia.org/wiki/奇美拉 "wikilink")，但代價為需要消滅魅影後吞食其魔力來延續生命。
+    23歲的[考古學系大學生](https://zh.wikipedia.org/wiki/考古學 "wikilink")。在某遺跡中偶然發現變身系統Beast Driver而成為**假面騎士Beast**，因此亦與封印在腰帶內的魅影Beast [Chimera合為一體](https://zh.wikipedia.org/wiki/奇美拉 "wikilink")，但代價為需要消滅魅影後吞食其魔力來延續生命。
     爲人非常自信，以「有危才有機！」（原文：）作為行事的座右銘。
     每次用膳必然喜歡在食物上添加[蛋黃醬](https://zh.wikipedia.org/wiki/蛋黃醬 "wikilink")。甚至經常不仔細聽別人講話，就在自說自話。
     變身後的台詞為「來、Lunchtime到了！」（原文：）\[1\]；了結敵人前台詞為「那麼、上主菜吧！」（原文：），並每次消滅完敵人之後並說「多謝款待！」（原文：）。
@@ -65,20 +54,17 @@
     最初認定為晴人同樣需要吸收魅影的魔力才能戰鬥，甚至不知道「Gate」為何物。第18話因誤信[美杜莎](../Page/美杜莎.md "wikilink")的饞言而出手攻擊晴人；第19話明白對方一切的用意及真相後改為協助消滅魅影，並開始視其為競爭對手。
     第24話事件中「Gate」正是其祖母仁藤敏江，透露從小已經愛惹麻煩。同時也透露仁藤的故鄉是在[福井](https://zh.wikipedia.org/wiki/福井 "wikilink")。
     第28話因偶然看見報紙一則有關考古學家中本治發現之古物的新聞，推定此物與Beast相關而親身拜候，二人在互利的情況下共同研究。翌日魅影出現時卻發覺腰帶及指環在自己睡著時被盜去。
-    第29話知道真正偷腰帶的人是中本治後非常憤怒，後來得知對方曾經有因被他人搶走功勞成果的過去，現今機會難求所以從而泛起私心，與自己當日在遺跡中發現腰帶而成為Beast，相反卻視為擁有相當難得的機會可以探求有關的一切的經歷而理解對方的心情。最後得到由為了贖罪的中山治奉送的Mirage
-    Magnum及「Hyper」指環，進化成為另一形態模式**Beast Hyper**。
+    第29話知道真正偷腰帶的人是中本治後非常憤怒，後來得知對方曾經有因被他人搶走功勞成果的過去，現今機會難求所以從而泛起私心，與自己當日在遺跡中發現腰帶而成為Beast，相反卻視為擁有相當難得的機會可以探求有關的一切的經歷而理解對方的心情。最後得到由為了贖罪的中山治奉送的Mirage Magnum及「Hyper」指環，進化成為另一形態模式**Beast Hyper**。
     第30話與[雷吉翁對戰卻反遭到對方侵入操真晴人的](https://zh.wikipedia.org/wiki/:ja:レギオン "wikilink")「Underworld」大肆破壞，即使其進入阻止並與Wizardragon合力對抗但仍然不敵，Wizardragon更因此被消滅而引致現實世界的晴人失去魔法使應有的魔力。
     第40話因飯島讓上前求教騎乘單車而以此作為起端，第41話在事件中讓因此得到成為魔法使的條件，但笛木現身想強行把他帶走因而出手阻止，結果不敵反被打傷。
     第42話盡力的到處尋找讓但始於無所適從，此時[古利姆連出現並透露白色魔法使藏身的地方](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")；第43話到達該地並質問白色魔法使，雙方繼而動武結果再次落敗於對方手上，最後稻森真由上前阻止平息事情，並於該地發現重傷昏迷的木崎。
     第48話與讓再次見面，但發現對方被洗腦及变身成Mage，後遭到其打傷並睜眼看著真由被強行帶走。
-    第49話前去阻止「魔宴」的進行但被笛木打至重傷。但其後親手破壞了驅動器並釋放了Beast
-    Chimera來阻止「魔宴」，雖然不再繼續受到束縛，但相對的也失去成為魔法使的資格。
+    第49話前去阻止「魔宴」的進行但被笛木打至重傷。但其後親手破壞了驅動器並釋放了Beast Chimera來阻止「魔宴」，雖然不再繼續受到束縛，但相對的也失去成為魔法使的資格。
     第51話事件過後決定上路探險尋找離開自身的Beast Chimera，而讓亦隨之同行。
 
 ## 協力者
 
-**曆美（）**（[奥仲麻琴](https://zh.wikipedia.org/wiki/奥仲麻琴 "wikilink") /
-[小林花音](https://zh.wikipedia.org/wiki/:ja:小林花音 "wikilink")（童年期）飾／香港配音：[羅孔柔](../Page/羅孔柔.md "wikilink")）
+**曆美（）**（[奥仲麻琴](https://zh.wikipedia.org/wiki/奥仲麻琴 "wikilink") / [小林花音](https://zh.wikipedia.org/wiki/:ja:小林花音 "wikilink")（童年期）飾／香港配音：[羅孔柔](../Page/羅孔柔.md "wikilink")）
 
   -
     支援操真晴人的少女，全名**-{笛木曆美}-（）**。
@@ -96,8 +82,7 @@
     第49話終于得知其父親是笛木奏及白色魔法使的身份。之後「魔宴」儀式進行期間完全失去意識。
     第50話甦醒並將「Infinity」指環交給晴人。但最後目睹其父被[古利姆連殺死](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")，之後自己也被搶走體内的「賢者之石」而消失於人世。
 
-**輪島繁（）**（[小倉久寬飾](https://zh.wikipedia.org/wiki/:ja:小倉久寛 "wikilink")
-／香港配音：[馮志輝](../Page/馮志輝.md "wikilink")）
+**輪島繁（）**（[小倉久寬飾](https://zh.wikipedia.org/wiki/:ja:小倉久寛 "wikilink") ／香港配音：[馮志輝](../Page/馮志輝.md "wikilink")）
 
   -
     骨董店「面影堂」的店主。
@@ -107,8 +92,7 @@
     第10話被木崎強行押走，要求其替木崎把從不明途徑得來的魔寶石\[3\]製作成指環。
     第38話被笛木要求把魔寶石製作成「Eclipse」指環。
 
-; **大門凛子（）**（[高山侑子](../Page/高山侑子.md "wikilink") / 末原一乃（童年期）飾 / 香港配音:
-[葉曉欣](../Page/葉曉欣.md "wikilink")）
+; **大門凛子（）**（[高山侑子](../Page/高山侑子.md "wikilink") / 末原一乃（童年期）飾 / 香港配音: [葉曉欣](../Page/葉曉欣.md "wikilink")）
 
   -
     鳥井坂警視廳的新人女警，在事件中被魅影襲擊時得到操真晴人所救。
@@ -132,8 +116,7 @@
 
 ## 魅影（Phantom）
 
-**賢者（）**（替身演出：[渡邊淳](https://zh.wikipedia.org/wiki/:ja:渡辺淳 "wikilink")、CV：[古川登志夫](../Page/古川登志夫.md "wikilink")
-／香港配音：[招世亮](../Page/招世亮.md "wikilink")）\[4\]
+**賢者（）**（替身演出：[渡邊淳](https://zh.wikipedia.org/wiki/:ja:渡辺淳 "wikilink")、CV：[古川登志夫](../Page/古川登志夫.md "wikilink") ／香港配音：[招世亮](../Page/招世亮.md "wikilink")）\[4\]
 
   -
     [卡巴克魯的宿主](https://zh.wikipedia.org/wiki/:ja:カーバンクル_\(伝説の生物\) "wikilink")。
@@ -145,8 +128,7 @@
     第47話揭露自己真實身份正是笛木奏（白色魔法使）。
     （有關笛木奏的詳情請見「[關係者](https://zh.wikipedia.org/wiki/假面騎士Wizard角色列表#關係者 "wikilink")」一欄）
 
-**美紗（）**（[中山繪梨奈飾](https://zh.wikipedia.org/wiki/:ja:中山絵梨奈 "wikilink")
-／香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
+**美紗（）**（[中山繪梨奈飾](https://zh.wikipedia.org/wiki/:ja:中山絵梨奈 "wikilink") ／香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
 
   -
     [美杜莎](../Page/美杜莎.md "wikilink")的宿主。
@@ -159,8 +141,7 @@
     第31話因不明的理由被[古利姆連取締自己的地位](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")，改為需協助其指示行動而大感愕然，至此開始有感受到屈辱而對之加深怨恨。
     第47話與Mage對戰而被對方撃敗至重傷，瀕死之際被賢者從背後用劍貫穿身體，並得知賢者另一身份正是白色魔法使而心感絕望後灰飛煙滅消失。
 
-**雄吾（）**（[篤海飾](https://zh.wikipedia.org/wiki/:ja:菅野篤海 "wikilink")
-／香港配音：[鍾見麟](../Page/鍾見麟.md "wikilink")）
+**雄吾（）**（[篤海飾](https://zh.wikipedia.org/wiki/:ja:菅野篤海 "wikilink") ／香港配音：[鍾見麟](../Page/鍾見麟.md "wikilink")）
 
   -
     [菲尼克斯的宿主](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")。
@@ -168,15 +149,12 @@
     協助[美杜莎](../Page/美杜莎.md "wikilink")的怪人幹部。愛以威壓的態度對待其下屬，但性格相合的則不在此限。
     宿主本身性格非常陽光善良，成爲魅影後性格非常粗野急躁。
     第8話向賢者請求親自上陣，並以壓倒性的力量打敗Wizard。
-    第9話卻被初次變身成Flame
-    Dragon的Wizard撃敗至灰飛煙滅，過後利用再生的能力復活，但因此魔力過度虛耗而需時休養；第16話被變身成Water
-    Dragon的Wizard再次撃敗。
+    第9話卻被初次變身成Flame Dragon的Wizard撃敗至灰飛煙滅，過後利用再生的能力復活，但因此魔力過度虛耗而需時休養；第16話被變身成Water Dragon的Wizard再次撃敗。
     第20話被賢者禁止行動而心生不忿，在街上遇上醉漢們的纏擾更怒不可遏去出手傷人，因此事件作為起端而與調查中的大門凜子相遇。因凜子嘗試的說服著卻反令受制於人之下的心病得到釋懷，不惜叛離賢者以自己的意志行動去打敗Wizard作為最終目標。
     第22話因擅自行動，與空合作綁架凜子作餌以引出晴人找上門，[美杜莎](../Page/美杜莎.md "wikilink")受賢者之命出現制止並在對戰中被石化。因力量的強大已今非昔比，可自行衝破封印並對[美杜莎](../Page/美杜莎.md "wikilink")給予警告。與Wizard對戰期間再次被撃敗，但當場即時復活後戰鬥力進一步增強。
     第23話再次對戰被變身成All Dragon的Wizard擊至太陽中燃燒，不斷重複飽受死亡與再生的輪迴之苦。
 
-**空（）**（[前山剛久](../Page/前山剛久.md "wikilink")飾
-／香港配音：[林筠翔](../Page/林筠翔.md "wikilink")）
+**空（）**（[前山剛久](../Page/前山剛久.md "wikilink")飾 ／香港配音：[林筠翔](../Page/林筠翔.md "wikilink")）
 
   -
     [古利姆連的宿主](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")。
@@ -206,17 +184,13 @@
   -
     **白色魔法使**和**賢者**的真正身份。原是一名物理學家。
     以贤者身份一方，為能夠再次召開「魔宴」而派遣[美杜莎](../Page/美杜莎.md "wikilink")著手誕生新的魅影。
-    另一方面以白色魔法使身份，把Wizard
-    Driver跟指環和魔寶石，交給從「魔宴」中生還的操真晴人並對其暗中支援，及著手培育新的魔法使。
+    另一方面以白色魔法使身份，把Wizard Driver跟指環和魔寶石，交給從「魔宴」中生還的操真晴人並對其暗中支援，及著手培育新的魔法使。
     其真正目的为利用魔法使再次召開「魔宴」，通过儀式把已逝去的女儿复活。
     在女兒曆病逝後替其植入「賢者之石」，首次召開「魔宴」的目的是透過「Gate」產生出的魔力及利用日蝕的力量集束起來後注入「賢者之石」之中。另外意外地發現出能夠成為魔法使的操真晴人。
     一方面以賢者身份派遣魅影們，尋找「Gate」令其絕望並從中發掘集合有機會成為魔法使的人。
     另一方面以白色魔法使身份，把Wizard Driver跟指環和魔寶石以及曆交託給晴人，並告訴其前往「面影堂」。
-    經常暗中支援晴人，第8話召喚出使魔White Garuda來遞送新的魔寶石；第9話晴人變身成為Flame
-    Dragon時則是在一旁出現觀戰；第14話利用使魔Black
-    Cerberus引領曆到達賢者的藏身之地得到另一顆魔寶石。
-    第21話現身營救被[巴力西卜](../Page/巴力西卜.md "wikilink")打敗的晴人，並共同製作新魔法道具Drago
-    Timer，同時稱初次會面的Beast為「魔法使的原始型」，並對其自身的風險給予警告。
+    經常暗中支援晴人，第8話召喚出使魔White Garuda來遞送新的魔寶石；第9話晴人變身成為Flame Dragon時則是在一旁出現觀戰；第14話利用使魔Black Cerberus引領曆到達賢者的藏身之地得到另一顆魔寶石。
+    第21話現身營救被[巴力西卜](../Page/巴力西卜.md "wikilink")打敗的晴人，並共同製作新魔法道具Drago Timer，同時稱初次會面的Beast為「魔法使的原始型」，並對其自身的風險給予警告。
     第27話因為稻森真由絕望後自身用意志壓制魅影於體內而現身，對方抉擇要成為魔法使後將其帶走。
     第31話出現觀戰時對晴人變身成為Infinity Style的狀況感到超出自己的預料，覺得此力量的轉變會對自己日後會有所威脅。
     第38話以真面目正式親臨「面影堂」，遞送新的魔寶石給輪島繁製作指環。
@@ -282,21 +256,17 @@
     第50話恢復原狀並向衆人透露放棄魔法使身份。
     第51話有見[古利姆連不斷到處發動襲擊後](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")，為及自己的妻子而不能對事情妄之不顧，與真由及飯島讓合力應付但仍然不敵對方。
     同話事件過後與妻子和剛出生的孩子過著美滿的生活。
-    [川口真五曾經在前作](https://zh.wikipedia.org/wiki/:ja:川口真五 "wikilink")《[假面騎士響鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")》中飾演**轟鬼（戶田山
-    登巳藏）**。
+    [川口真五曾經在前作](https://zh.wikipedia.org/wiki/:ja:川口真五 "wikilink")《[假面騎士響鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")》中飾演**轟鬼（戶田山 登巳藏）**。
 
 ## 相關角色
 
-**甜甜圈店店長**（[KABA.ちゃん飾](https://zh.wikipedia.org/wiki/:ja:KABA.ちゃん "wikilink")
-／香港配音：[張錦江](../Page/張錦江.md "wikilink")）
+**甜甜圈店店長**（[KABA.ちゃん飾](https://zh.wikipedia.org/wiki/:ja:KABA.ちゃん "wikilink") ／香港配音：[張錦江](../Page/張錦江.md "wikilink")）
 
   -
     流動車[甜甜圈](../Page/甜甜圈.md "wikilink")店舖「Hungry～」（原文：）店長。
     自稱年輕的時候也經常被當做女孩子。
     不斷向只愛糖粉[甜甜圈](../Page/甜甜圈.md "wikilink")的操真晴人推介另外款式但不果。
-    於劇場版《[假面騎士×假面騎士 Wizard & Fourze
-    MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》，在「Underworld」中以上村優
-    / 美少女假面Poitrine身份出現。
+    於劇場版《[假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》，在「Underworld」中以上村優 / 美少女假面Poitrine身份出現。
     第18話起初仁藤攻介甜甜圈加上蛋黃醬而覺得反感，後來卻創造新款式的蛋黃醬甜甜圈。
     第51話店舖流動車被取得「賢者之石」的[古利姆連破壞](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")。
 
@@ -306,9 +276,7 @@
     「Hungry～」店員。
     第6話奈良瞬平透露其名字为龙。
 
-**木崎
-政範（）**\[5\]（[川野直輝飾](https://zh.wikipedia.org/wiki/:ja:川野直輝 "wikilink")
-／香港配音：[李凱傑](../Page/李凱傑.md "wikilink")）
+**木崎 政範（）**\[5\]（[川野直輝飾](https://zh.wikipedia.org/wiki/:ja:川野直輝 "wikilink") ／香港配音：[李凱傑](../Page/李凱傑.md "wikilink")）
 
   -
     所屬國家安全局零課，階級為[警視](../Page/警視.md "wikilink")。
@@ -324,20 +292,15 @@
 
 ## 劇場版登場人物
 
-**上村優 /
-美少女假面Poitrine（/）**（[入來茉-{里}-飾](https://zh.wikipedia.org/wiki/:ja:入来茉里 "wikilink")）
+**上村優 / 美少女假面Poitrine（/）**（[入來茉-{里}-飾](https://zh.wikipedia.org/wiki/:ja:入来茉里 "wikilink")）
 
-**風田三郎（）**（[須賀健太](../Page/須賀健太.md "wikilink") /
-[涉谷樹生](https://zh.wikipedia.org/wiki/:ja:渋谷樹生 "wikilink")（童年期）飾）
+**風田三郎（）**（[須賀健太](../Page/須賀健太.md "wikilink") / [涉谷樹生](https://zh.wikipedia.org/wiki/:ja:渋谷樹生 "wikilink")（童年期）飾）
 
-**小牧瑠美（）**（[山谷花純](https://zh.wikipedia.org/wiki/:ja:山谷花純 "wikilink") /
-芳賀栞（童年期）飾）
+**小牧瑠美（）**（[山谷花純](https://zh.wikipedia.org/wiki/:ja:山谷花純 "wikilink") / 芳賀栞（童年期）飾）
 
-**近藤大太（）**（[中澤兼利](https://zh.wikipedia.org/wiki/:ja:中澤兼利 "wikilink") /
-坂本大河（童年期）飾）
+**近藤大太（）**（[中澤兼利](https://zh.wikipedia.org/wiki/:ja:中澤兼利 "wikilink") / 坂本大河（童年期）飾）
 
-**根津誓夫（）**（[原勇彌](https://zh.wikipedia.org/wiki/:ja:原勇弥 "wikilink") /
-阿久津秀壽（童年期）飾）
+**根津誓夫（）**（[原勇彌](https://zh.wikipedia.org/wiki/:ja:原勇弥 "wikilink") / 阿久津秀壽（童年期）飾）
 
 **瑪雅大王（）**（[忍成修吾](../Page/忍成修吾.md "wikilink")飾）
 
@@ -353,16 +316,13 @@
 
 **葛葉紘汰（）**（[佐野岳](../Page/佐野岳.md "wikilink")飾／香港配音：[周倚天](../Page/周倚天.md "wikilink")）
 
-
 **門矢士（）**（[井上正大](../Page/井上正大.md "wikilink")飾／香港配音：[關令翹](../Page/關令翹.md "wikilink")）
-
 
 **[大須賀](../Page/大須賀康高.md "wikilink")（）**（飾）
 
 ## 其他人物
 
-**警察署長**（[小宮孝泰飾](https://zh.wikipedia.org/wiki/:ja:小宮孝泰 "wikilink")
-／香港配音：[林國雄](../Page/林國雄.md "wikilink")）
+**警察署長**（[小宮孝泰飾](https://zh.wikipedia.org/wiki/:ja:小宮孝泰 "wikilink") ／香港配音：[林國雄](../Page/林國雄.md "wikilink")）
 
   -
     鳥井坂警察署署長。
@@ -472,8 +432,7 @@
     詳見「[魔法使](https://zh.wikipedia.org/wiki/假面騎士Wizard角色列表#魔法使 "wikilink")」及「[《假面騎士Wizard》登場人物](https://zh.wikipedia.org/wiki/假面騎士Wizard#主要登場人物 "wikilink")」。
     於「魔宴」中成為Wizardragon的宿主。
 
-**網野（）**（[RIKIYA飾](https://zh.wikipedia.org/wiki/:ja:RIKIYA "wikilink")
-／香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")）
+**網野（）**（[RIKIYA飾](https://zh.wikipedia.org/wiki/:ja:RIKIYA "wikilink") ／香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")）
 
   -
     [彌諾陶洛斯的宿主](https://zh.wikipedia.org/wiki/彌諾陶洛斯 "wikilink")。
@@ -500,8 +459,7 @@
     詳見「[協力者](https://zh.wikipedia.org/wiki/假面騎士Wizard角色列表#協力者 "wikilink")」及「[《假面騎士Wizard》登場人物](https://zh.wikipedia.org/wiki/假面騎士Wizard#主要登場人物 "wikilink")」。
     第3話成為[獨眼巨人的宿主](https://zh.wikipedia.org/wiki/獨眼巨人 "wikilink")。
 
-**謎之外國人**（[Bernard
-Ackah飾](https://zh.wikipedia.org/wiki/:ja:ベルナール・アッカ "wikilink")／香港配音：[劉昭文](../Page/劉昭文.md "wikilink")）
+**謎之外國人**（[Bernard Ackah飾](https://zh.wikipedia.org/wiki/:ja:ベルナール・アッカ "wikilink")／香港配音：[劉昭文](../Page/劉昭文.md "wikilink")）
 
   -
     [貓妖精](../Page/貓妖精.md "wikilink")的宿主。
@@ -561,8 +519,7 @@ Ackah飾](https://zh.wikipedia.org/wiki/:ja:ベルナール・アッカ "wikilin
     經營和菓子屋「松木庵」的老師父。
     因經營出現困難而面臨結業的危機。
 
-**石井悟史（）**（[植田圭輔飾](https://zh.wikipedia.org/wiki/:ja:植田圭輔 "wikilink")
-／香港配音：[周倚天](../Page/周倚天.md "wikilink")）
+**石井悟史（）**（[植田圭輔飾](https://zh.wikipedia.org/wiki/:ja:植田圭輔 "wikilink") ／香港配音：[周倚天](../Page/周倚天.md "wikilink")）
 
   -
     [蜥蜴人的宿主](../Page/爬蟲人.md "wikilink")。
@@ -571,8 +528,7 @@ Ackah飾](https://zh.wikipedia.org/wiki/:ja:ベルナール・アッカ "wikilin
     第12話回憶中在「魔宴」結束後襲擊操真晴人，卻被白色魔法使利用魔法陣擊退。
     受命以真中千鶴為目標。
 
-**真中千鶴（）**（[鉢嶺杏奈飾](https://zh.wikipedia.org/wiki/:ja:鉢嶺杏奈 "wikilink")
-／香港配音：[何寶珊](../Page/何寶珊.md "wikilink")）
+**真中千鶴（）**（[鉢嶺杏奈飾](https://zh.wikipedia.org/wiki/:ja:鉢嶺杏奈 "wikilink") ／香港配音：[何寶珊](../Page/何寶珊.md "wikilink")）
 
   -
     大學時期被石井悟史拉攏參與拍攝自資電影「Le rêve route」。
@@ -770,32 +726,27 @@ Ackah飾](https://zh.wikipedia.org/wiki/:ja:ベルナール・アッカ "wikilin
   -
     詳見「[關係者](https://zh.wikipedia.org/wiki/假面騎士Wizard角色列表#關係者 "wikilink")」及「[《假面騎士Wizard》登場人物](https://zh.wikipedia.org/wiki/假面騎士Wizard#主要登場人物 "wikilink")」。
 
-**上村優 /
-美少女假面Poitrine（/）**（[入來茉-{里}-飾](https://zh.wikipedia.org/wiki/:ja:入来茉里 "wikilink")）
+**上村優 / 美少女假面Poitrine（/）**（[入來茉-{里}-飾](https://zh.wikipedia.org/wiki/:ja:入来茉里 "wikilink")）
 
   -
     詳見「[相關角色](https://zh.wikipedia.org/wiki/假面騎士Wizard角色列表#相關角色 "wikilink")」
 
-**風田三郎（）**（[須賀健太](../Page/須賀健太.md "wikilink") /
-[涉谷樹生](https://zh.wikipedia.org/wiki/:ja:渋谷樹生 "wikilink")（童年期）飾）
+**風田三郎（）**（[須賀健太](../Page/須賀健太.md "wikilink") / [涉谷樹生](https://zh.wikipedia.org/wiki/:ja:渋谷樹生 "wikilink")（童年期）飾）
 
   -
     詳見「[相關角色](https://zh.wikipedia.org/wiki/假面騎士Wizard角色列表#相關角色 "wikilink")」
 
-**小牧瑠美（）**（[山谷花純](https://zh.wikipedia.org/wiki/:ja:山谷花純 "wikilink") /
-芳賀栞（童年期）飾）
+**小牧瑠美（）**（[山谷花純](https://zh.wikipedia.org/wiki/:ja:山谷花純 "wikilink") / 芳賀栞（童年期）飾）
 
   -
     詳見「[相關角色](https://zh.wikipedia.org/wiki/假面騎士Wizard角色列表#相關角色 "wikilink")」
 
-**近藤大太（）**（[中澤兼利](https://zh.wikipedia.org/wiki/:ja:中澤兼利 "wikilink") /
-坂本大河（童年期）飾）
+**近藤大太（）**（[中澤兼利](https://zh.wikipedia.org/wiki/:ja:中澤兼利 "wikilink") / 坂本大河（童年期）飾）
 
   -
     詳見「[相關角色](https://zh.wikipedia.org/wiki/假面騎士Wizard角色列表#相關角色 "wikilink")」
 
-**根津誓夫（）**（[原勇彌](https://zh.wikipedia.org/wiki/:ja:原勇弥 "wikilink") /
-阿久津秀壽（童年期）飾）
+**根津誓夫（）**（[原勇彌](https://zh.wikipedia.org/wiki/:ja:原勇弥 "wikilink") / 阿久津秀壽（童年期）飾）
 
   -
     詳見「[相關角色](https://zh.wikipedia.org/wiki/假面騎士Wizard角色列表#相關角色 "wikilink")」
@@ -828,7 +779,6 @@ Ackah飾](https://zh.wikipedia.org/wiki/:ja:ベルナール・アッカ "wikilin
 3.  第34話木崎查探出不明來歷的魔寶石是從古利姆連手上取得。
 4.  [古川登志夫的twitter](https://twitter.com/TOSHIO_FURUKAWA/status/257372935352905729)
 5.  劇中從警察証上標誌全名為木崎政範（），全劇只稱呼其為木崎
-6.  第2話Cast未表記。
-    [金剛地武志的twitter](https://twitter.com/kongochi/status/243670695928815616)
+6.  第2話Cast未表記。 [金剛地武志的twitter](https://twitter.com/kongochi/status/243670695928815616)
 7.  有關寄宿體內的魅影及有關事件往後並沒有交代
 8.  第36話未登場。

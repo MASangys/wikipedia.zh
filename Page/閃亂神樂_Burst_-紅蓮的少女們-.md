@@ -1,7 +1,4 @@
-《**閃亂神樂 Burst -紅蓮的少女們-**》（）是[Marvelous
-AQL於](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink")2012年8月30日發售，與前作《[閃亂神樂
--少女們的真影-](../Page/閃亂神樂_-少女們的真影-.md "wikilink")》（下稱「真影」）同樣是[任天堂3DS](../Page/任天堂3DS.md "wikilink")遊戲，同由高木謙一郎企劃、北島行德負責劇本以及八重樫南負責插畫，而現時本作實體版的銷量已經超越10萬\[1\]。本作發售的同年宣佈「真影」動畫化企劃進行中，並於翌年1月6日開始播放。而續作《》（下稱「SV」）亦於2013年2月28日發售。
-另外，官方於2014年1月8日公布本作與「真影」的正式續集——《閃亂神樂2 -真紅-》（）將於同年8月7日發售，平台同為任天堂3DS。
+《**閃亂神樂 Burst -紅蓮的少女們-**》（）是[Marvelous AQL於](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink")2012年8月30日發售，與前作《[閃亂神樂 -少女們的真影-](../Page/閃亂神樂_-少女們的真影-.md "wikilink")》（下稱「真影」）同樣是[任天堂3DS](../Page/任天堂3DS.md "wikilink")遊戲，同由高木謙一郎企劃、北島行德負責劇本以及八重樫南負責插畫，而現時本作實體版的銷量已經超越10萬\[1\]。本作發售的同年宣佈「真影」動畫化企劃進行中，並於翌年1月6日開始播放。而續作《》（下稱「SV」）亦於2013年2月28日發售。 另外，官方於2014年1月8日公布本作與「真影」的正式續集——《閃亂神樂2 -真紅-》（）將於同年8月7日發售，平台同為任天堂3DS。
 
 ## 遊戲概要
 
@@ -150,14 +147,12 @@ AQL於](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink")2012年8月30日�
 <!-- end list -->
 
   - 片尾曲「」
-    作詞・作曲 - 濱田智之 / 編曲 - 悠木真一 / 歌 - ARTERY
-    VEIN（[今井麻美](../Page/今井麻美.md "wikilink")、喜多村英梨）
+    作詞・作曲 - 濱田智之 / 編曲 - 悠木真一 / 歌 - ARTERY VEIN（[今井麻美](../Page/今井麻美.md "wikilink")、喜多村英梨）
 
 ### 半藏篇
 
   - 片頭曲「」
-    作詞 - 葉月みこ / 作曲・編曲 - 林達志 / 歌 -
-    飛鳥（[原田瞳](../Page/原田瞳.md "wikilink")）、斑鳩（今井麻美）、葛城（[小林優](../Page/小林優.md "wikilink")）、柳生（[水橋香織](../Page/水橋香織.md "wikilink")）、雲雀（[井口裕香](../Page/井口裕香.md "wikilink")）
+    作詞 - 葉月みこ / 作曲・編曲 - 林達志 / 歌 - 飛鳥（[原田瞳](../Page/原田瞳.md "wikilink")）、斑鳩（今井麻美）、葛城（[小林優](../Page/小林優.md "wikilink")）、柳生（[水橋香織](../Page/水橋香織.md "wikilink")）、雲雀（[井口裕香](../Page/井口裕香.md "wikilink")）
 
 <!-- end list -->
 
@@ -172,8 +167,7 @@ AQL於](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink")2012年8月30日�
 <!-- end list -->
 
   -
-    屬於[Magi-Cu](../Page/Magi-Cu.md "wikilink")
-    Comic叢書系列的[四格漫畫](../Page/四格漫畫.md "wikilink")。日本現已發行三卷。
+    屬於[Magi-Cu](../Page/Magi-Cu.md "wikilink") Comic叢書系列的[四格漫畫](../Page/四格漫畫.md "wikilink")。日本現已發行三卷。
     是一部[惡搞本作橋段的漫畫](https://zh.wikipedia.org/wiki/哏#梗 "wikilink")。
 
 <!-- end list -->
@@ -201,8 +195,7 @@ AQL於](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink")2012年8月30日�
 
 ## 系列相關作品
 
-  - [閃亂神樂
-    -少女們的真影-](../Page/閃亂神樂_-少女們的真影-.md "wikilink")（）：2011年9月22日發售的系列首作。
+  - [閃亂神樂 -少女們的真影-](../Page/閃亂神樂_-少女們的真影-.md "wikilink")（）：2011年9月22日發售的系列首作。
 
 <!-- end list -->
 
@@ -210,14 +203,11 @@ AQL於](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink")2012年8月30日�
 
 <!-- end list -->
 
-  - （）：2013年2月28日發售[PlayStation
-    Vita新作](../Page/PlayStation_Vita.md "wikilink")，是本作和「真影」的外傳。
+  - （）：2013年2月28日發售[PlayStation Vita新作](../Page/PlayStation_Vita.md "wikilink")，是本作和「真影」的外傳。
 
 <!-- end list -->
 
-  - （）：2014年3月20日由[PlayStation
-    Store發售的](../Page/PlayStation_Store.md "wikilink")[PlayStation
-    Vita作品](../Page/PlayStation_Vita.md "wikilink")，而該作品會分為兩部分發售，同時為系列首作音樂節拍遊戲和中文化作品。
+  - （）：2014年3月20日由[PlayStation Store發售的](../Page/PlayStation_Store.md "wikilink")[PlayStation Vita作品](../Page/PlayStation_Vita.md "wikilink")，而該作品會分為兩部分發售，同時為系列首作音樂節拍遊戲和中文化作品。
 
 <!-- end list -->
 
@@ -225,14 +215,11 @@ AQL於](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink")2012年8月30日�
 
 <!-- end list -->
 
-  - （）：「SV」的續集，預定2015年3月26日於[PlayStation
-    Vita與](../Page/PlayStation_Vita.md "wikilink")[PlayStation
-    4雙平台發售的作品](../Page/PlayStation_4.md "wikilink")。
+  - （）：「SV」的續集，預定2015年3月26日於[PlayStation Vita與](../Page/PlayStation_Vita.md "wikilink")[PlayStation 4雙平台發售的作品](../Page/PlayStation_4.md "wikilink")。
 
 ## 其他
 
-於[超次元戰記 戰機少女系列中登場角色](../Page/超次元戰記_戰機少女.md "wikilink")[Marvelous
-AQL是同名公司與本系列作品的擬人化角色](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink"),而該角色的配音員與飛鳥一樣皆為[原田瞳](../Page/原田瞳.md "wikilink")。
+於[超次元戰記 戰機少女系列中登場角色](../Page/超次元戰記_戰機少女.md "wikilink")[Marvelous AQL是同名公司與本系列作品的擬人化角色](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink"),而該角色的配音員與飛鳥一樣皆為[原田瞳](../Page/原田瞳.md "wikilink")。
 
 ## 外部連結
 
@@ -242,12 +229,6 @@ AQL是同名公司與本系列作品的擬人化角色](https://zh.wikipedia.org
 
   - [遊戲系列官方部落格](http://www.maql.co.jp/message/kagura.php)
 
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:闪乱神乐系列](https://zh.wikipedia.org/wiki/Category:闪乱神乐系列 "wikilink")
-[Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink")
-[Category:Marvelous_AQL游戏](https://zh.wikipedia.org/wiki/Category:Marvelous_AQL游戏 "wikilink")
-[Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink")
-[Category:任天堂3DS_eShop游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS_eShop游戏 "wikilink")
+[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:闪乱神乐系列](https://zh.wikipedia.org/wiki/Category:闪乱神乐系列 "wikilink") [Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink") [Category:Marvelous_AQL游戏](https://zh.wikipedia.org/wiki/Category:Marvelous_AQL游戏 "wikilink") [Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink") [Category:任天堂3DS_eShop游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS_eShop游戏 "wikilink")
 
-1.  [3DS『閃乱カグラ Burst -紅蓮の少女達-』実売で10万本突破 ―
-    高木プロデューサーが報告](http://www.inside-games.jp/article/2013/05/31/66994.html)
+1.  [3DS『閃乱カグラ Burst -紅蓮の少女達-』実売で10万本突破 ― 高木プロデューサーが報告](http://www.inside-games.jp/article/2013/05/31/66994.html)

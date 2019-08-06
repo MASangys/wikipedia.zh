@@ -1,5 +1,4 @@
-《**HKT48的御出掛！**》（；「」（）是日文中「外出」之意）是[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")在2013年1月25日（1月26日凌晨）至2017年6月29日（6月30日凌晨）期間所播出的深夜[綜藝節目](../Page/綜藝節目.md "wikilink")，為以[福岡為主要活動中心的女子](../Page/福岡市.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[HKT48](../Page/HKT48.md "wikilink")的全國播放冠名節目之一，於每星期三25時25分（也就是星期四上午1時25分；[JST](../Page/日本標準時間.md "wikilink")）播出\[1\]
-。由HKT48中的資深成員[指原莉乃](../Page/指原莉乃.md "wikilink")擔任主持人，並由[搞笑二人組](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")「[足球時間](../Page/足球時間.md "wikilink")」的成員[後藤輝基](../Page/後藤輝基.md "wikilink")擔任見證人（講評）。
+《**HKT48的御出掛！**》（；「」（）是日文中「外出」之意）是[日本](../Page/日本.md "wikilink")[TBS電視台](../Page/TBS電視台.md "wikilink")在2013年1月25日（1月26日凌晨）至2017年6月29日（6月30日凌晨）期間所播出的深夜[綜藝節目](../Page/綜藝節目.md "wikilink")，為以[福岡為主要活動中心的女子](../Page/福岡市.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[HKT48](../Page/HKT48.md "wikilink")的全國播放冠名節目之一，於每星期三25時25分（也就是星期四上午1時25分；[JST](../Page/日本標準時間.md "wikilink")）播出\[1\] 。由HKT48中的資深成員[指原莉乃](../Page/指原莉乃.md "wikilink")擔任主持人，並由[搞笑二人組](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")「[足球時間](../Page/足球時間.md "wikilink")」的成員[後藤輝基](../Page/後藤輝基.md "wikilink")擔任見證人（講評）。
 
 ## 簡介
 
@@ -511,9 +510,7 @@
 
   - [TBS《HKT48的御出掛！》官方網站](http://www.tbs.co.jp/hkt-odekake/)
 
-[Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
-[Category:TBS電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:TBS電視台綜藝節目 "wikilink")
-[Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink")
+[Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink") [Category:TBS電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:TBS電視台綜藝節目 "wikilink") [Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink")
 
 1.  2013年6月28日前為星期六上午1時25分，2013年7月3日起改為目前時段。
 

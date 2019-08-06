@@ -1,7 +1,6 @@
 \-- This module implements .
 
-local mFileLink = require('Module:File link') local mTableTools =
-require('Module:TableTools') local mSideBox = require('Module:Side box')
+local mFileLink = require('Module:File link') local mTableTools = require('Module:TableTools') local mSideBox = require('Module:Side box')
 
 local p = {} local hasMidi -- Tracker for the tracking category
 
@@ -136,8 +135,7 @@ function p._main(args)
 
 <hr/>
 
-<span class=\"selfreference\">播放%s-{zh-hant: 檔案; zh-hans:
-文件}-有问题？请参见[媒體幫助](https://zh.wikipedia.org/wiki/Wikipedia:媒體幫助 "wikilink")。</span>",
+<span class=\"selfreference\">播放%s-{zh-hant: 檔案; zh-hans: 文件}-有问题？请参见[媒體幫助](https://zh.wikipedia.org/wiki/Wikipedia:媒體幫助 "wikilink")。</span>",
 
 `           #numArgs == 1 and '此' or '这些'`
 `       )`
@@ -239,12 +237,7 @@ function p.renderMidi(filename)
 
 `   return mw.getCurrentFrame():extensionTag(`
 `       'score',`
-`       `[`\version``   ``"2.18"``   ``\new``   ``Staff``   ``\with``
- ``{``   ``\remove``   ``"Staff_symbol_engraver"``   ``\omit``
- ``"Staff.Clef"``   ``\omit``   ``"Staff.TimeSignature"``   ``}``
- ``%``   ``Comment``   ``to``   ``re-generate``   ``(and``   ``use``
- ``fluidsynth)``   ``\relative``   ``{s1^\markup{"``   ``"}``
- ``}`](https://zh.wikipedia.org/wiki/\\version_"2.18"_\\new_Staff_\\with_{_\\remove_"Staff_symbol_engraver"_\\omit_"Staff.Clef"_\\omit_"Staff.TimeSignature"_}_%_Comment_to_re-generate_\(and_use_fluidsynth\)_\\relative_{s1^\\markup{"_"}_} "wikilink")`,`
+`       `[`\version``   ``"2.18"``   ``\new``   ``Staff``   ``\with``   ``{``   ``\remove``   ``"Staff_symbol_engraver"``   ``\omit``   ``"Staff.Clef"``   ``\omit``   ``"Staff.TimeSignature"``   ``}``   ``%``   ``Comment``   ``to``   ``re-generate``   ``(and``   ``use``   ``fluidsynth)``   ``\relative``   ``{s1^\markup{"``   ``"}``   ``}`](https://zh.wikipedia.org/wiki/\\version_"2.18"_\\new_Staff_\\with_{_\\remove_"Staff_symbol_engraver"_\\omit_"Staff.Clef"_\\omit_"Staff.TimeSignature"_}_%_Comment_to_re-generate_\(and_use_fluidsynth\)_\\relative_{s1^\\markup{"_"}_} "wikilink")`,`
 `       { vorbis = '1', override_midi = filename }`
 `   )`
 

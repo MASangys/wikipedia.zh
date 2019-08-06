@@ -2,10 +2,7 @@
 
 ## 概要
 
-成員主要由Afilia
-Group連鎖女僕咖啡廳集團各店選出的人員所組成，由[志倉千代丸](../Page/志倉千代丸.md "wikilink")和[桃井晴子](../Page/桃井晴子.md "wikilink")擔任製作人。2008年11月以「Afilia
-Saga East」出道\[1\]，2013年2月17日改名為Afilia
-Saga\[2\]，2017年6月7日正式改名為純情的Afilia\[3\]。目前成員已加入第二期新生，共計成員14名\[4\]。
+成員主要由Afilia Group連鎖女僕咖啡廳集團各店選出的人員所組成，由[志倉千代丸](../Page/志倉千代丸.md "wikilink")和[桃井晴子](../Page/桃井晴子.md "wikilink")擔任製作人。2008年11月以「Afilia Saga East」出道\[1\]，2013年2月17日改名為Afilia Saga\[2\]，2017年6月7日正式改名為純情的Afilia\[3\]。目前成員已加入第二期新生，共計成員14名\[4\]。
 
 ## 店舖
 
@@ -910,55 +907,32 @@ YZPB-8009（DVD）</p></td>
 
 ### 電視劇組
 
-  - アフィリア・サーガ・虎の穴（[キッズステーション](https://zh.wikipedia.org/wiki/キッズステーション "wikilink")『[アニメ天国](https://zh.wikipedia.org/wiki/アニメ天国 "wikilink")』内
-    2008年11月28日 - 2010年3月31日）
-  - アフィリアサーガクエスト（[アイドル専門チャンネルPigoo](https://zh.wikipedia.org/wiki/アイドル専門チャンネルPigoo "wikilink")
-    2010年9月2日 - 2012年12月16日）
+  - アフィリア・サーガ・虎の穴（[キッズステーション](https://zh.wikipedia.org/wiki/キッズステーション "wikilink")『[アニメ天国](https://zh.wikipedia.org/wiki/アニメ天国 "wikilink")』内 2008年11月28日 - 2010年3月31日）
+  - アフィリアサーガクエスト（[アイドル専門チャンネルPigoo](https://zh.wikipedia.org/wiki/アイドル専門チャンネルPigoo "wikilink") 2010年9月2日 - 2012年12月16日）
   - 秋葉系アイドルチャンネル （[BS11](../Page/日本BS放送.md "wikilink") 2011年9月23日）
-  - [相談バカ一代](https://zh.wikipedia.org/wiki/相談バカ一代 "wikilink")（[テレビ東京](https://zh.wikipedia.org/wiki/テレビ東京 "wikilink")
-    2012年1月3日 出演：ミク・アリア・カレン・ユカフィン）
-  - [ストライクTVスペシャル](https://zh.wikipedia.org/wiki/ストライクTV "wikilink")（[テレビ朝日](https://zh.wikipedia.org/wiki/テレビ朝日 "wikilink")
-    2012年1月9日）
-  - ウタ娘（[テレ玉](https://zh.wikipedia.org/wiki/テレビ埼玉 "wikilink")
-    2013年6月13日・2014年1月24日・2014年2月14日・2014年11月8日・2014年11月8日・2014年11月24日他）
-  - [ミュージックドラゴン](https://zh.wikipedia.org/wiki/ミュージックドラゴン "wikilink")（[日本テレビ](https://zh.wikipedia.org/wiki/日本テレビ放送網 "wikilink")
-    2013年8月23日 歌唱曲:ネプテューヌ☆サガして）
-  - [アニメソング史上最大の祭典～アニメロサマーライブ2013～](https://zh.wikipedia.org/wiki/アニメソング史上最大の祭典〜アニメロサマーライブ〜 "wikilink")
-    第2夜([NHK
-    BSプレミアム](https://zh.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")
-    2013年11月24日 歌唱曲:ネプテューヌ☆サガして)
-  - [なかのひと。](https://zh.wikipedia.org/wiki/なかのひと。 "wikilink")（[北海道放送](../Page/北海道放送.md "wikilink")・[MUSIC
-    ON\! TV](https://zh.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink")
-    2013年11月26日・12月3日）
-  - [ラッキー・トリッパー Idol
-    オン・ザ・ラン](https://zh.wikipedia.org/wiki/ラッキー・トリッパー_Idol_オン・ザ・ラン "wikilink")（[関西テレビ](https://zh.wikipedia.org/wiki/関西テレビ放送 "wikilink")
-    2014年1月28日）
-  - [パ・リーグ応援宣言\!俺がやる。ホークス中継2014](https://zh.wikipedia.org/wiki/STRONG!ホークス野球中継 "wikilink")
-    タカガールデーSP（[TOKYO
-    MX](https://zh.wikipedia.org/wiki/東京メトロポリタンテレビジョン "wikilink")
-    2014年5月11日 出演：ユカフィン）
-  - アニメソング史上最大の祭典～アニメロサマーライブ2014～ 第5夜(NHK BSプレミアム 2013年12月14日
-    歌唱曲:マジカル☆エクスプレス☆ジャーニー)
-  - [ランク王国](https://zh.wikipedia.org/wiki/ランク王国 "wikilink")（[TBSテレビ](https://zh.wikipedia.org/wiki/TBSテレビ "wikilink")
-    2014年12月27日 出演：アヤミ・ミク）
+  - [相談バカ一代](https://zh.wikipedia.org/wiki/相談バカ一代 "wikilink")（[テレビ東京](https://zh.wikipedia.org/wiki/テレビ東京 "wikilink") 2012年1月3日 出演：ミク・アリア・カレン・ユカフィン）
+  - [ストライクTVスペシャル](https://zh.wikipedia.org/wiki/ストライクTV "wikilink")（[テレビ朝日](https://zh.wikipedia.org/wiki/テレビ朝日 "wikilink") 2012年1月9日）
+  - ウタ娘（[テレ玉](https://zh.wikipedia.org/wiki/テレビ埼玉 "wikilink") 2013年6月13日・2014年1月24日・2014年2月14日・2014年11月8日・2014年11月8日・2014年11月24日他）
+  - [ミュージックドラゴン](https://zh.wikipedia.org/wiki/ミュージックドラゴン "wikilink")（[日本テレビ](https://zh.wikipedia.org/wiki/日本テレビ放送網 "wikilink") 2013年8月23日 歌唱曲:ネプテューヌ☆サガして）
+  - [アニメソング史上最大の祭典～アニメロサマーライブ2013～](https://zh.wikipedia.org/wiki/アニメソング史上最大の祭典〜アニメロサマーライブ〜 "wikilink") 第2夜([NHK BSプレミアム](https://zh.wikipedia.org/wiki/NHK_BSプレミアム "wikilink") 2013年11月24日 歌唱曲:ネプテューヌ☆サガして)
+  - [なかのひと。](https://zh.wikipedia.org/wiki/なかのひと。 "wikilink")（[北海道放送](../Page/北海道放送.md "wikilink")・[MUSIC ON\! TV](https://zh.wikipedia.org/wiki/MUSIC_ON!_TV "wikilink") 2013年11月26日・12月3日）
+  - [ラッキー・トリッパー Idol オン・ザ・ラン](https://zh.wikipedia.org/wiki/ラッキー・トリッパー_Idol_オン・ザ・ラン "wikilink")（[関西テレビ](https://zh.wikipedia.org/wiki/関西テレビ放送 "wikilink") 2014年1月28日）
+  - [パ・リーグ応援宣言\!俺がやる。ホークス中継2014](https://zh.wikipedia.org/wiki/STRONG!ホークス野球中継 "wikilink") タカガールデーSP（[TOKYO MX](https://zh.wikipedia.org/wiki/東京メトロポリタンテレビジョン "wikilink") 2014年5月11日 出演：ユカフィン）
+  - アニメソング史上最大の祭典～アニメロサマーライブ2014～ 第5夜(NHK BSプレミアム 2013年12月14日 歌唱曲:マジカル☆エクスプレス☆ジャーニー)
+  - [ランク王国](https://zh.wikipedia.org/wiki/ランク王国 "wikilink")（[TBSテレビ](https://zh.wikipedia.org/wiki/TBSテレビ "wikilink") 2014年12月27日 出演：アヤミ・ミク）
 
 ### 單獨公演
 
-  - 1stワンマンライブ『whitism』（[渋谷DUO MUSIC
-    EXCHANGE](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")
-    2011年6月26日）
-  - 聖ナル2ndワンマンライブ2011（[Zepp
-    Tokyo](https://zh.wikipedia.org/wiki/Zepp "wikilink") 2011年12月23日）
+  - 1stワンマンライブ『whitism』（[渋谷DUO MUSIC EXCHANGE](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink") 2011年6月26日）
+  - 聖ナル2ndワンマンライブ2011（[Zepp Tokyo](https://zh.wikipedia.org/wiki/Zepp "wikilink") 2011年12月23日）
   - ロゼ・ミィナ卒業公演（新宿BLAZE 2012年3月2日）
-  - 3rdワンマンライブ『ト☆キ☆メ☆キ☆魔法』（[五反田ゆうぽうと](https://zh.wikipedia.org/wiki/五反田ゆうぽうと "wikilink")
-    2012年6月9日）
+  - 3rdワンマンライブ『ト☆キ☆メ☆キ☆魔法』（[五反田ゆうぽうと](https://zh.wikipedia.org/wiki/五反田ゆうぽうと "wikilink") 2012年6月9日）
   - 4thワンマンライブ
 
 <!-- end list -->
 
   -
-    『キ☆ラ☆リ☆ン☆魔法』（[品川ステラボール](https://zh.wikipedia.org/wiki/品川ステラボール "wikilink")
-    2012年12月15日）
+    『キ☆ラ☆リ☆ン☆魔法』（[品川ステラボール](https://zh.wikipedia.org/wiki/品川ステラボール "wikilink") 2012年12月15日）
     『キ☆ラ☆リ☆ン☆大阪実習』（umeda AKASO 2012年12月24日）
 
 <!-- end list -->
@@ -970,9 +944,7 @@ YZPB-8009（DVD）</p></td>
   -
     東京公演（[日本青年館 大ホール](../Page/日本青年館.md "wikilink") 2013年5月6日）
     名古屋公演（CLUB OZON 2013年5月12日）
-    大阪公演（[梅田CLUB
-    QUATTRO](https://zh.wikipedia.org/wiki/CLUB_QUATTRO "wikilink")
-    2013年5月19日）
+    大阪公演（[梅田CLUB QUATTRO](https://zh.wikipedia.org/wiki/CLUB_QUATTRO "wikilink") 2013年5月19日）
 
 <!-- end list -->
 
@@ -983,35 +955,23 @@ YZPB-8009（DVD）</p></td>
 
   -
     台湾公演（台北THE WALL 2014年3月22日）
-    名古屋公演（[DIAMOND
-    HALL](https://zh.wikipedia.org/wiki/DIAMOND_HALL "wikilink")
-    2014年4月12日）
-    北九州公演（[あるあるYY劇場](https://zh.wikipedia.org/wiki/あるあるCity "wikilink")
-    2014年4月19日）
-    広島公演（[広島CLUB
-    QUATTRO](https://zh.wikipedia.org/wiki/CLUB_QUATTRO "wikilink")
-    2014年4月20日）
+    名古屋公演（[DIAMOND HALL](https://zh.wikipedia.org/wiki/DIAMOND_HALL "wikilink") 2014年4月12日）
+    北九州公演（[あるあるYY劇場](https://zh.wikipedia.org/wiki/あるあるCity "wikilink") 2014年4月19日）
+    広島公演（[広島CLUB QUATTRO](https://zh.wikipedia.org/wiki/CLUB_QUATTRO "wikilink") 2014年4月20日）
     大阪公演（梅田CLUB QUATTRO 2014年4月26日）
     京都公演（京都FANJ 2014年4月27日）
-    東京公演（[TOKYO DOME CITY
-    HALL](https://zh.wikipedia.org/wiki/ミーツポート#TOKYO_DOME_CITY_HALL "wikilink")
-    2014年5月17日）
+    東京公演（[TOKYO DOME CITY HALL](https://zh.wikipedia.org/wiki/ミーツポート#TOKYO_DOME_CITY_HALL "wikilink") 2014年5月17日）
 
 <!-- end list -->
 
-  - プレミアムワンマンワイブ『TSUTAYA on IDOL presents
-    12thシングルプレミアムライブ！「マジカル☆エクスプレス☆ジャーニー」』（渋谷CLUB
-    QUATTRO 2014年9月7日）
+  - プレミアムワンマンワイブ『TSUTAYA on IDOL presents 12thシングルプレミアムライブ！「マジカル☆エクスプレス☆ジャーニー」』（渋谷CLUB QUATTRO 2014年9月7日）
   - ワンマンライブ『Forest of Brillia』
 
 <!-- end list -->
 
   -
-    クリスマスワンマンライブ『Forest of Brillia 2014 ChristmasLive in Maihama
-    Amphitheater』（[舞浜アンフィシアター](https://zh.wikipedia.org/wiki/舞浜アンフィシアター "wikilink")
-    2014年12月20日）
-    香港ワンマンライブ『animate Presents Afilia Saga One Man Live Forest of
-    Brillia in Hong Kong』（Music Zone@E-Max 2015年2月28日）
+    クリスマスワンマンライブ『Forest of Brillia 2014 ChristmasLive in Maihama Amphitheater』（[舞浜アンフィシアター](https://zh.wikipedia.org/wiki/舞浜アンフィシアター "wikilink") 2014年12月20日）
+    香港ワンマンライブ『animate Presents Afilia Saga One Man Live Forest of Brillia in Hong Kong』（Music Zone@E-Max 2015年2月28日）
 
 ### 主催直播
 
@@ -1028,22 +988,14 @@ YZPB-8009（DVD）</p></td>
 ### 直播出演
 
   - Live 5pb.（2008年～）
-  - [TOKYO IDOL
-    FESTIVAL](https://zh.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL "wikilink")（2010年～）
-  - [Animelo Summer
-    Live](../Page/Animelo_Summer_Live.md "wikilink")（2012年～
-    さいたまスーパーアリーナ）
+  - [TOKYO IDOL FESTIVAL](https://zh.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL "wikilink")（2010年～）
+  - [Animelo Summer Live](../Page/Animelo_Summer_Live.md "wikilink")（2012年～ さいたまスーパーアリーナ）
   - nonstop アニソントレイン 祭 2012 in 大阪（[大阪城](../Page/大阪城.md "wikilink")西の丸庭園）
-  - Bayside Explosion
-    vol.05（[フェスティバルウォーク蘇我](https://zh.wikipedia.org/wiki/フェスティバルウォーク蘇我 "wikilink")）
-  - ウルトラパンチLIVE\!\!
-    vol.1（[梅田芸術劇場シアタードラマシティ](https://zh.wikipedia.org/wiki/梅田芸術劇場 "wikilink")）
-  - FES IWAO 2012 SUMMER supported by
-    TOHOgakuen（[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")2012年8月31日）
+  - Bayside Explosion vol.05（[フェスティバルウォーク蘇我](https://zh.wikipedia.org/wiki/フェスティバルウォーク蘇我 "wikilink")）
+  - ウルトラパンチLIVE\!\! vol.1（[梅田芸術劇場シアタードラマシティ](https://zh.wikipedia.org/wiki/梅田芸術劇場 "wikilink")）
+  - FES IWAO 2012 SUMMER supported by TOHOgakuen（[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")2012年8月31日）
   - Sapporo-Girls Link Special（2013年～ 札幌芸術の森野外ステージ）
-  - Happy Jam in Osaka（2013年12月31日・2015年2月1日
-    [関西テレビ放送](https://zh.wikipedia.org/wiki/関西テレビ放送 "wikilink")
-    なんでもアリーナスタジオ）
+  - Happy Jam in Osaka（2013年12月31日・2015年2月1日 [関西テレビ放送](https://zh.wikipedia.org/wiki/関西テレビ放送 "wikilink") なんでもアリーナスタジオ）
 
 ほか
 
@@ -1053,10 +1005,8 @@ YZPB-8009（DVD）</p></td>
 
   - [OToGi8に御用心](https://zh.wikipedia.org/wiki/OToGi8に御用心 "wikilink")（出演：ミク、ルイズ、ユカフィン）
   - [超\!A\&G+スペシャル](https://zh.wikipedia.org/wiki/超!A&G+スペシャル "wikilink")
-      - ようこそ\! 先輩\! まるごとアフィリア・サーガ・イースト・スペシャル（2010年7月30日 -
-        9月17日、出演：ミク、ルイズ、ユカフィン）
-      - ようこそ先輩\! まるごとアフィリア・サーガ・イースト・スペシャル 2（2011年1月14日 -
-        2月4日、出演：ミク、ルイズ、ユカフィン、クルミ、コヒメ）
+      - ようこそ\! 先輩\! まるごとアフィリア・サーガ・イースト・スペシャル（2010年7月30日 - 9月17日、出演：ミク、ルイズ、ユカフィン）
+      - ようこそ先輩\! まるごとアフィリア・サーガ・イースト・スペシャル 2（2011年1月14日 - 2月4日、出演：ミク、ルイズ、ユカフィン、クルミ、コヒメ）
   - アフィリア・サーガの魔法学院放送部（2011年4月10日 - ）
       - 隔週日曜日19：30-20：00（翌週日曜日と土曜日09：30-10：00は再放送）
 
@@ -1066,8 +1016,7 @@ YZPB-8009（DVD）</p></td>
       - 毎週土曜日24：30-25：00
       - 翌週の火曜日夕方に[アニたまどっとコムインターネットラジオにて配信](https://zh.wikipedia.org/wiki/アニたまどっとコム "wikilink")
 
-**[HiBiKi Radio
-Station](https://zh.wikipedia.org/wiki/HiBiKi_Radio_Station "wikilink")**
+**[HiBiKi Radio Station](https://zh.wikipedia.org/wiki/HiBiKi_Radio_Station "wikilink")**
 
   - アミュレートラジオ（2013年7月30日 - ）\[14\]
       - [アミュレート](https://zh.wikipedia.org/wiki/アミュレート "wikilink")・アーティストルームに所属するタレントが週替わりでパーソナリティを担当
@@ -1082,8 +1031,7 @@ Station](https://zh.wikipedia.org/wiki/HiBiKi_Radio_Station "wikilink")**
 
   - アニメぴあちゃんねる（2013年7月3日 - 出演：コヒメ）
   - アフィリア・サーガのアフィリリル〜ム☆（2014年6月9日 - ）
-  - Stand-Up\! アイドル(2014年7月16日 - 9月24日 [TOKYO
-    MXでも再構成版を放送](https://zh.wikipedia.org/wiki/東京メトロポリタンテレビジョン "wikilink"))
+  - Stand-Up\! アイドル(2014年7月16日 - 9月24日 [TOKYO MXでも再構成版を放送](https://zh.wikipedia.org/wiki/東京メトロポリタンテレビジョン "wikilink"))
 
 ## 註解
 
@@ -1114,12 +1062,7 @@ Station](https://zh.wikipedia.org/wiki/HiBiKi_Radio_Station "wikilink")**
       -
       -
       -
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:電子遊戲音樂家](https://zh.wikipedia.org/wiki/Category:電子遊戲音樂家 "wikilink")
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:2008年日本建立](https://zh.wikipedia.org/wiki/Category:2008年日本建立 "wikilink")
-[Category:amuleto](https://zh.wikipedia.org/wiki/Category:amuleto "wikilink")
+[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:電子遊戲音樂家](https://zh.wikipedia.org/wiki/Category:電子遊戲音樂家 "wikilink") [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:2008年日本建立](https://zh.wikipedia.org/wiki/Category:2008年日本建立 "wikilink") [Category:amuleto](https://zh.wikipedia.org/wiki/Category:amuleto "wikilink")
 
 1.
 

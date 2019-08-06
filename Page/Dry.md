@@ -1,6 +1,4 @@
-**Dry**
-是由[雷頌德](../Page/雷頌德.md "wikilink")和[馮德倫](../Page/馮德倫.md "wikilink")於1996年組成的樂隊。於第三張唱片《Dry
-Free》推出後解散。
+**Dry** 是由[雷頌德](../Page/雷頌德.md "wikilink")和[馮德倫](../Page/馮德倫.md "wikilink")於1996年組成的樂隊。於第三張唱片《Dry Free》推出後解散。
 
 ## 唱片
 
@@ -175,9 +173,6 @@ Free》推出後解散。
 
 </div>
 
-[Category:香港創作歌手](https://zh.wikipedia.org/wiki/Category:香港創作歌手 "wikilink")
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:1999年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1999年解散的音樂團體 "wikilink")
+[Category:香港創作歌手](https://zh.wikipedia.org/wiki/Category:香港創作歌手 "wikilink") [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:1999年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:1999年解散的音樂團體 "wikilink")
 
 1.

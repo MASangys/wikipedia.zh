@@ -6,7 +6,4 @@
 
 ## 参考文献
 
-[Category:2006年建立的网站](https://zh.wikipedia.org/wiki/Category:2006年建立的网站 "wikilink")
-[Category:情色与色情网站](https://zh.wikipedia.org/wiki/Category:情色与色情网站 "wikilink")
-[Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
-[Category:隨選視訊服務](https://zh.wikipedia.org/wiki/Category:隨選視訊服務 "wikilink")
+[Category:2006年建立的网站](https://zh.wikipedia.org/wiki/Category:2006年建立的网站 "wikilink") [Category:情色与色情网站](https://zh.wikipedia.org/wiki/Category:情色与色情网站 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink") [Category:隨選視訊服務](https://zh.wikipedia.org/wiki/Category:隨選視訊服務 "wikilink")

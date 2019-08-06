@@ -1,7 +1,6 @@
 **DHL最快圈速獎**（）授予在[一級方程式賽車單一賽季中](https://zh.wikipedia.org/wiki/一級方程式賽車 "wikilink")，寫下最多次[最快圈速](../Page/最快圈速.md "wikilink")的車手。此項獎項以頒發獎盃的方式，表揚擁有最多次最快單圈的車手。\[1\]據[伯尼·埃克萊斯頓表示](https://zh.wikipedia.org/wiki/伯尼·埃克萊斯頓 "wikilink")，這項獎項「表彰了一級方程式相當重要的事：速度及組織。」\[2\]
 
-這項獎由[DHL](../Page/DHL.md "wikilink")贊助，並做為他們在這項運動擔任物流合作商的一部份。\[3\]DHL的[-{zh-hans:首席执行官;zh-hant:執行長;zh-cn:首席执行官;zh-hk:行政總裁;zh-tw:執行長;zh-mo:行政總裁;}-肯](https://zh.wikipedia.org/wiki/執行長 "wikilink")·艾倫（Ken
-Allen）解釋為何DHL要贊助該獎項，「最快圈速在一場比賽中始終是一項挑戰。這是綜合了速度、精確性和團隊合作才有的結果。贏得了DHL最快圈速獎更能為這幾點增加連續性與可靠性。而這些也都能在DHL的快遞業務中找尋到。」\[4\]
+這項獎由[DHL](../Page/DHL.md "wikilink")贊助，並做為他們在這項運動擔任物流合作商的一部份。\[3\]DHL的[-{zh-hans:首席执行官;zh-hant:執行長;zh-cn:首席执行官;zh-hk:行政總裁;zh-tw:執行長;zh-mo:行政總裁;}-肯](https://zh.wikipedia.org/wiki/執行長 "wikilink")·艾倫（Ken Allen）解釋為何DHL要贊助該獎項，「最快圈速在一場比賽中始終是一項挑戰。這是綜合了速度、精確性和團隊合作才有的結果。贏得了DHL最快圈速獎更能為這幾點增加連續性與可靠性。而這些也都能在DHL的快遞業務中找尋到。」\[4\]
 
 ## 決勝局
 
@@ -129,9 +128,7 @@ Allen）解釋為何DHL要贊助該獎項，「最快圈速在一場比賽中始
 
 ## 參考資料
 
-[Category:一級方程式賽車](https://zh.wikipedia.org/wiki/Category:一級方程式賽車 "wikilink")
-[Category:賽車獎項](https://zh.wikipedia.org/wiki/Category:賽車獎項 "wikilink")
-[Category:DHL](https://zh.wikipedia.org/wiki/Category:DHL "wikilink")
+[Category:一級方程式賽車](https://zh.wikipedia.org/wiki/Category:一級方程式賽車 "wikilink") [Category:賽車獎項](https://zh.wikipedia.org/wiki/Category:賽車獎項 "wikilink") [Category:DHL](https://zh.wikipedia.org/wiki/Category:DHL "wikilink")
 
 1.
 

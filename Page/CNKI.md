@@ -1,10 +1,6 @@
-**中国国家知识基础设施**（National Knowledge
-Infrastructure，**CNKI**、其主要访问平台是**中国知网**）是在[教育部](../Page/中华人民共和国教育部.md "wikilink")、[中共中央宣传部](../Page/中共中央宣传部.md "wikilink")、[科技部](https://zh.wikipedia.org/wiki/中华人民共和国科技部 "wikilink")、[国家新闻出版广电总局](https://zh.wikipedia.org/wiki/国家新闻出版广电总局 "wikilink")、[国家计委的大力支持下](../Page/中华人民共和国国家计划委员会.md "wikilink")，由[清华大学直接领导的一项知识工程](https://zh.wikipedia.org/wiki/清华大学 "wikilink")。该工程由清华大学和[清华同方](../Page/清华同方.md "wikilink")发起，于1995年正式立项，最初仅仅是发行《中国学术期刊（光盘版）》，并迅速占领中国图书情报市场，尤其是高校图书馆市场。1999年，CNKI实现网络化，中国期刊网开通，该项目由清华大学光盘国家工程研究中心、[清华同方光盘股份有限公司与中国学术期刊](https://zh.wikipedia.org/wiki/同方公司 "wikilink")（光盘版）电子杂志社联合立项。在这之后，CNKI工程不断拓展服务，建立了包括期刊、博硕士论文、会议论文、年鉴、统计数据、图书、标准、专利等资源在内的**中国知识资源总库**（**China
-Integrated Knowledge Resources
-Database**）。目前，中国知网在北京、北美、日本、韩国、台湾、香港等地设立了10个网络服务中心，用户覆盖各国重要高校、研究机构、政府智库、企业、医院、公共图书馆等。
+**中国国家知识基础设施**（National Knowledge Infrastructure，**CNKI**、其主要访问平台是**中国知网**）是在[教育部](../Page/中华人民共和国教育部.md "wikilink")、[中共中央宣传部](../Page/中共中央宣传部.md "wikilink")、[科技部](https://zh.wikipedia.org/wiki/中华人民共和国科技部 "wikilink")、[国家新闻出版广电总局](https://zh.wikipedia.org/wiki/国家新闻出版广电总局 "wikilink")、[国家计委的大力支持下](../Page/中华人民共和国国家计划委员会.md "wikilink")，由[清华大学直接领导的一项知识工程](https://zh.wikipedia.org/wiki/清华大学 "wikilink")。该工程由清华大学和[清华同方](../Page/清华同方.md "wikilink")发起，于1995年正式立项，最初仅仅是发行《中国学术期刊（光盘版）》，并迅速占领中国图书情报市场，尤其是高校图书馆市场。1999年，CNKI实现网络化，中国期刊网开通，该项目由清华大学光盘国家工程研究中心、[清华同方光盘股份有限公司与中国学术期刊](https://zh.wikipedia.org/wiki/同方公司 "wikilink")（光盘版）电子杂志社联合立项。在这之后，CNKI工程不断拓展服务，建立了包括期刊、博硕士论文、会议论文、年鉴、统计数据、图书、标准、专利等资源在内的**中国知识资源总库**（**China Integrated Knowledge Resources Database**）。目前，中国知网在北京、北美、日本、韩国、台湾、香港等地设立了10个网络服务中心，用户覆盖各国重要高校、研究机构、政府智库、企业、医院、公共图书馆等。
 
-CNKI依托其主导产品《中国学术期刊全文数据库》，不断集成、整合新的资源，并在主导产品的基础上开发新产品，新产品开发主要是在**数字化全文学术资料**和**数字化软件平台**两方面，形成了中国最大的具有垄断地位的集各种全文学术信息于一体的网站——**中国知网**
-。\[1\]\[2\]
+CNKI依托其主导产品《中国学术期刊全文数据库》，不断集成、整合新的资源，并在主导产品的基础上开发新产品，新产品开发主要是在**数字化全文学术资料**和**数字化软件平台**两方面，形成了中国最大的具有垄断地位的集各种全文学术信息于一体的网站——**中国知网** 。\[1\]\[2\]
 
 CNKI于2013年1月被国际[DOI](../Page/DOI.md "wikilink")基金会（IDF）指定为中国大陆地区第二家DOI代理机构，第一家为[中国科技信息研究所](https://zh.wikipedia.org/wiki/中国科技信息研究所 "wikilink")\[3\]。
 
@@ -40,8 +36,7 @@ CNKI于2013年1月被国际[DOI](../Page/DOI.md "wikilink")基金会（IDF）指
   - [中医药系列知识服务平台](https://zh.wikipedia.org/wiki/中医药系列知识服务平台 "wikilink")
   - [国际关系研究知识服务平台](https://zh.wikipedia.org/wiki/国际关系研究知识服务平台 "wikilink")
   - [中国经济知识情报库](https://zh.wikipedia.org/wiki/中国经济知识情报库 "wikilink")
-  - [E-read
-    China平台](https://zh.wikipedia.org/wiki/E-read_China平台 "wikilink")
+  - [E-read China平台](https://zh.wikipedia.org/wiki/E-read_China平台 "wikilink")
 
 ## 软件产品
 
@@ -60,10 +55,7 @@ CNKI于2013年1月被国际[DOI](../Page/DOI.md "wikilink")基金会（IDF）指
   - [CNKI海外网址](http://oversea.cnki.net/kns55/default.aspx)
   - [双语期刊翻译工程](http://jtp.cnki.net/bilingual/)
 
-[Category:清华大学](https://zh.wikipedia.org/wiki/Category:清华大学 "wikilink")
-[Category:線上資料庫](https://zh.wikipedia.org/wiki/Category:線上資料庫 "wikilink")
-[Category:学术出版公司](https://zh.wikipedia.org/wiki/Category:学术出版公司 "wikilink")
-[Category:1996年建立](https://zh.wikipedia.org/wiki/Category:1996年建立 "wikilink")
+[Category:清华大学](https://zh.wikipedia.org/wiki/Category:清华大学 "wikilink") [Category:線上資料庫](https://zh.wikipedia.org/wiki/Category:線上資料庫 "wikilink") [Category:学术出版公司](https://zh.wikipedia.org/wiki/Category:学术出版公司 "wikilink") [Category:1996年建立](https://zh.wikipedia.org/wiki/Category:1996年建立 "wikilink")
 
 1.
 2.

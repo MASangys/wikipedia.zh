@@ -6,22 +6,17 @@
 
 ## 历史
 
-1979年，[洛斯阿拉莫斯国家实验室](../Page/洛斯阿拉莫斯国家实验室.md "wikilink")（LANL）[理论生物学和生物物理学小组](http://www.t10.lanl.gov/)的等人建立了洛斯阿拉莫斯序列数据库，最终成为了公共的
-GenBank数据库的前身\[4\]。1982年，由[美国国立卫生研究院](https://zh.wikipedia.org/wiki/国立卫生研究院_\(美国\) "wikilink")、美国国家科学基金会、美国能源部和国防部共同出资，LANL与[BBN科技](../Page/BBN科技.md "wikilink")公司合作，成立了GenBank。到1983年底，已有超过2,000个序列被存储在GenBank。
+1979年，[洛斯阿拉莫斯国家实验室](../Page/洛斯阿拉莫斯国家实验室.md "wikilink")（LANL）[理论生物学和生物物理学小组](http://www.t10.lanl.gov/)的等人建立了洛斯阿拉莫斯序列数据库，最终成为了公共的 GenBank数据库的前身\[4\]。1982年，由[美国国立卫生研究院](https://zh.wikipedia.org/wiki/国立卫生研究院_\(美国\) "wikilink")、美国国家科学基金会、美国能源部和国防部共同出资，LANL与[BBN科技](../Page/BBN科技.md "wikilink")公司合作，成立了GenBank。到1983年底，已有超过2,000个序列被存储在GenBank。
 
-在20世纪80年代中期，[斯坦福大学的Intelligenetics](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink")
-bioinformatics公司与LANL合作经营着GenBank项目\[5\]。作为最早的互联网[生物信息学](../Page/生物信息学.md "wikilink")社区项目，GenBank计划为生物学家打造一个[开放获取](../Page/开放获取.md "wikilink")的/Bionet消息社群。1989到1992年，GenBank被转移到新成立的[美国国家生物技术信息中心](../Page/美国国家生物技术信息中心.md "wikilink")\[6\]。
+在20世纪80年代中期，[斯坦福大学的Intelligenetics](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink") bioinformatics公司与LANL合作经营着GenBank项目\[5\]。作为最早的互联网[生物信息学](../Page/生物信息学.md "wikilink")社区项目，GenBank计划为生物学家打造一个[开放获取](../Page/开放获取.md "wikilink")的/Bionet消息社群。1989到1992年，GenBank被转移到新成立的[美国国家生物技术信息中心](../Page/美国国家生物技术信息中心.md "wikilink")\[6\]。
 
-[NucleotideSequences_86_87.jpeg](https://zh.wikipedia.org/wiki/File:NucleotideSequences_86_87.jpeg "fig:NucleotideSequences_86_87.jpeg")
-[Genbank100CD.jpg](https://zh.wikipedia.org/wiki/File:Genbank100CD.jpg "fig:Genbank100CD.jpg")
+[NucleotideSequences_86_87.jpeg](https://zh.wikipedia.org/wiki/File:NucleotideSequences_86_87.jpeg "fig:NucleotideSequences_86_87.jpeg") [Genbank100CD.jpg](https://zh.wikipedia.org/wiki/File:Genbank100CD.jpg "fig:Genbank100CD.jpg")
 
 ## 发展
 
 在GenBank的版本162.0（2007年8月）的[发行说明中道出](https://zh.wikipedia.org/wiki/发行说明 "wikilink")：“从1982年到现在，GenBank中的碱基数每隔18个月翻一番。”\[7\]
 
-，GenBank的版本196.0已有165,740,164个[基因座](../Page/基因座.md "wikilink")，152,599,230,112个碱基，165,740,164个报导序列\[8\]。
-GenBank数据库还包括一些额外的数据集，不包括在这个统计内。
-[Growth_of_Genbank.svg](https://zh.wikipedia.org/wiki/File:Growth_of_Genbank.svg "fig:Growth_of_Genbank.svg")
+，GenBank的版本196.0已有165,740,164个[基因座](../Page/基因座.md "wikilink")，152,599,230,112个碱基，165,740,164个报导序列\[8\]。 GenBank数据库还包括一些额外的数据集，不包括在这个统计内。 [Growth_of_Genbank.svg](https://zh.wikipedia.org/wiki/File:Growth_of_Genbank.svg "fig:Growth_of_Genbank.svg")
 
 <table>
 <caption>GenBank中碱基数前二十的物种（版本 191）[9]</caption>
@@ -118,17 +113,13 @@ GenBank数据库还包括一些额外的数据集，不包括在这个统计内�
 ## 另见
 
   - [Ensembl](../Page/Ensembl.md "wikilink")
-  - [Human Protein Reference
-    Database](https://zh.wikipedia.org/wiki/Human_Protein_Reference_Database "wikilink")
-    (HPRD)
+  - [Human Protein Reference Database](https://zh.wikipedia.org/wiki/Human_Protein_Reference_Database "wikilink") (HPRD)
   - [序列分析](https://zh.wikipedia.org/wiki/序列分析 "wikilink")
   - [UniProt](../Page/UniProt.md "wikilink")
   - [已测序真核生物基因组列表](../Page/已测序真核生物基因组列表.md "wikilink")
   - [已测序古菌基因组列表](../Page/已测序古菌基因组列表.md "wikilink")
-  - [RefSeq](https://zh.wikipedia.org/wiki/RefSeq "wikilink") — the
-    Reference Sequence Database
-  - [Geneious](../Page/Geneious.md "wikilink") — includes a GenBank
-    Submission Tool
+  - [RefSeq](https://zh.wikipedia.org/wiki/RefSeq "wikilink") — the Reference Sequence Database
+  - [Geneious](../Page/Geneious.md "wikilink") — includes a GenBank Submission Tool
 
 ## 参考文献
 
@@ -136,21 +127,14 @@ GenBank数据库还包括一些额外的数据集，不包括在这个统计内�
 ## 外部链接
 
   - [GenBank](http://www.ncbi.nlm.nih.gov/sites/entrez?db=nucleotide)
-  - [Example sequence record, for hemoglobin
-    beta](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=nucleotide&val=28302128)
+  - [Example sequence record, for hemoglobin beta](http://www.ncbi.nlm.nih.gov/entrez/viewer.fcgi?db=nucleotide&val=28302128)
   - [BankIt](http://www.ncbi.nlm.nih.gov/BankIt/)
-  - [Sequin](http://www.ncbi.nlm.nih.gov/Sequin/index.html) — a
-    stand-alone software tool developed by the NCBI for submitting and
-    updating entries to the GenBank sequence database.
-  - [EMBOSS](http://emboss.sourceforge.net) — free, open source software
-    for molecular biology
-  - [GenBank, RefSeq, TPA and UniProt: What's in a
-    Name?](http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=handbook.section.GenBank_ASM)
-  - [GenBank File-Format
-    Converter](http://www.bioinformaticsbox.com/tools/sequence_format_converter.php)
+  - [Sequin](http://www.ncbi.nlm.nih.gov/Sequin/index.html) — a stand-alone software tool developed by the NCBI for submitting and updating entries to the GenBank sequence database.
+  - [EMBOSS](http://emboss.sourceforge.net) — free, open source software for molecular biology
+  - [GenBank, RefSeq, TPA and UniProt: What's in a Name?](http://www.ncbi.nlm.nih.gov/books/bv.fcgi?rid=handbook.section.GenBank_ASM)
+  - [GenBank File-Format Converter](http://www.bioinformaticsbox.com/tools/sequence_format_converter.php)
 
-[Category:国立卫生研究院](https://zh.wikipedia.org/wiki/Category:国立卫生研究院 "wikilink")
-[Category:生物资讯数据库](https://zh.wikipedia.org/wiki/Category:生物资讯数据库 "wikilink")
+[Category:国立卫生研究院](https://zh.wikipedia.org/wiki/Category:国立卫生研究院 "wikilink") [Category:生物资讯数据库](https://zh.wikipedia.org/wiki/Category:生物资讯数据库 "wikilink")
 
 1.
 
@@ -160,8 +144,7 @@ GenBank数据库还包括一些额外的数据集，不包括在这个统计内�
 
 4.
 
-5.  [LANL GenBank
-    History](http://www.bio.net/bionet/mm/bionews/1994-January/000877.html)
+5.  [LANL GenBank History](http://www.bio.net/bionet/mm/bionews/1994-January/000877.html)
 
 6.
 

@@ -1,11 +1,8 @@
-**SUPERNOVA**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CJ
-E\&M在](../Page/CJ_E&M.md "wikilink")2007年推出的六人[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，原團名為**超新星**（）。由允鶴、成帝、光秀、晟慔、智赫、健一所組成，於2007年9月31日在[音樂銀行出道](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")。經紀公司花費三年時間訓練歌唱及舞蹈，2007年9月於韓國出道，擁有模特兒身材的超新星，團員平均身高180公分以上，2009年加入日本環球音樂，九月正式於日本出道。
+**SUPERNOVA**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CJ E\&M在](../Page/CJ_E&M.md "wikilink")2007年推出的六人[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，原團名為**超新星**（）。由允鶴、成帝、光秀、晟慔、智赫、健一所組成，於2007年9月31日在[音樂銀行出道](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")。經紀公司花費三年時間訓練歌唱及舞蹈，2007年9月於韓國出道，擁有模特兒身材的超新星，團員平均身高180公分以上，2009年加入日本環球音樂，九月正式於日本出道。
 
-2018年6月6日，日本官方TWITTER帳號突然宣佈日本會員將暫停營運以及入會，隔兩天日本媒體批露允鶴、成帝、光秀、智赫、健一合約到期，未與Maroo娛樂續約，只剩成員晟慔的合約尚未結束留在Maroo；其中五人於2018年7月13日公布成立經紀公司SV
-Entertainment。也傳出Maroo娛樂提出註冊超新星這個名字。
+2018年6月6日，日本官方TWITTER帳號突然宣佈日本會員將暫停營運以及入會，隔兩天日本媒體批露允鶴、成帝、光秀、智赫、健一合約到期，未與Maroo娛樂續約，只剩成員晟慔的合約尚未結束留在Maroo；其中五人於2018年7月13日公布成立經紀公司SV Entertainment。也傳出Maroo娛樂提出註冊超新星這個名字。
 
-五人在2018年8月18日的日本FANMEETING 2018
-～HOME～Y+SJ+K+JH+G…上，宣布組合將以全新的名字「**SUPERNOVA**」展開活動，Fans名稱也更改為「**Milky**」。因為晟慔還留在之前的經紀公司、所以現在是五人體制。關於6人的活動、所屬唱片公司說「尚未確定晟慔的合約到期時間。」\[1\]
+五人在2018年8月18日的日本FANMEETING 2018 ～HOME～Y+SJ+K+JH+G…上，宣布組合將以全新的名字「**SUPERNOVA**」展開活動，Fans名稱也更改為「**Milky**」。因為晟慔還留在之前的經紀公司、所以現在是五人體制。關於6人的活動、所屬唱片公司說「尚未確定晟慔的合約到期時間。」\[1\]
 
 2019年1月23日，晟慔宣布退出組合\[2\]。
 
@@ -984,10 +981,7 @@ Rapper</p></td>
   -
 
   -
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2007年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2007年成立的音樂團體 "wikilink")
 
 1.  [超新星がSUPERNOVAに改名、新事務所も設立し新たなスタート](https://natalie.mu/music/news/296018)
 2.  [SUPERNOVA、ソンモのグループ合流かなわず…今後の活動を公式発表「6人では難しい」](http://news.kstyle.com/article.ksn?articleNo=2109784)

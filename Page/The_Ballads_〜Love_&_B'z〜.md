@@ -1,12 +1,10 @@
-《**The Ballads 〜Love &
-B'z〜**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z](../Page/B'z.md "wikilink")在2002年所發行的抒情精選輯。
+《**The Ballads 〜Love & B'z〜**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z](../Page/B'z.md "wikilink")在2002年所發行的抒情精選輯。
 
 ## 簡介
 
   - 通稱為Ballads BEST(バラベス)，白盤。
   - 收錄歌曲主要是以專輯裡的歌及發行過的單曲為主。
-  - 在2000年B'z發行第3張精選輯[B'z The
-    "Mixture"時](../Page/B'z_The_"Mixture".md "wikilink")，就有想要發行抒情精選輯的想法，原本預定為2001年冬天發行，但最後延至2002年冬天才發行。
+  - 在2000年B'z發行第3張精選輯[B'z The "Mixture"時](../Page/B'z_The_"Mixture".md "wikilink")，就有想要發行抒情精選輯的想法，原本預定為2001年冬天發行，但最後延至2002年冬天才發行。
   - 專輯構造為外型以紙製成的專輯盒，裡面放了一本童話書，CD就夾在書的最後一頁，以B'z歷年來的作品來看，此張精選輯的包裝相當特別。
   - 最終銷量約171.3萬張，為日本最暢銷專輯第107名。
 
@@ -60,9 +58,4 @@ B'z〜**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikip
 
   - [B'z官網](http://bz-vermillion.com/index2.html)
 
-[Category:B'z精選輯](https://zh.wikipedia.org/wiki/Category:B'z精選輯 "wikilink")
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
-[Category:2002年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2002年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink")
-[Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")
+[Category:B'z精選輯](https://zh.wikipedia.org/wiki/Category:B'z精選輯 "wikilink") [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:2002年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2002年Oricon專輯週榜冠軍作品 "wikilink") [Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")

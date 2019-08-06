@@ -1,17 +1,12 @@
-**Happiness**是[日本](../Page/日本.md "wikilink")的女子歌唱團體。[LDH所屬](https://zh.wikipedia.org/wiki/LDH_\(藝能公司\) "wikilink")。唱片公司是[rhythm
-zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
+**Happiness**是[日本](../Page/日本.md "wikilink")的女子歌唱團體。[LDH所屬](https://zh.wikipedia.org/wiki/LDH_\(藝能公司\) "wikilink")。唱片公司是[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 略歴
 
-2008年10月，藝能事務所LDH經營的舞蹈學校[EXPG](../Page/EXPG.md "wikilink")開始，由東京校出身的[KAEDEとMIYUU](https://zh.wikipedia.org/wiki/KAEDE "wikilink")、大阪校出身的MIMU和[KAREN](../Page/藤井夏恋.md "wikilink")、宮崎校出身的SAYAKA的5人組結成。在[EXILE的巡迴演唱會中作為伴舞成員開始活動](https://zh.wikipedia.org/wiki/EXILE "wikilink")。2009年7月中宮崎校出身的YURINO加入，10月中DVD單曲「Happy
-Talk」獨立製作發表。12月中STEPOUT DANCE STUDIO出身的MAYU加入。
+2008年10月，藝能事務所LDH經營的舞蹈學校[EXPG](../Page/EXPG.md "wikilink")開始，由東京校出身的[KAEDEとMIYUU](https://zh.wikipedia.org/wiki/KAEDE "wikilink")、大阪校出身的MIMU和[KAREN](../Page/藤井夏恋.md "wikilink")、宮崎校出身的SAYAKA的5人組結成。在[EXILE的巡迴演唱會中作為伴舞成員開始活動](https://zh.wikipedia.org/wiki/EXILE "wikilink")。2009年7月中宮崎校出身的YURINO加入，10月中DVD單曲「Happy Talk」獨立製作發表。12月中STEPOUT DANCE STUDIO出身的MAYU加入。
 
-2011年2月9日、單曲「[Kiss
-Me](../Page/Kiss_Me_\(Happiness單曲\).md "wikilink")」作主流單曲出道。4月29日在[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")舉行首個單獨演唱會，9月25日中在中国的[北京国家体育場舉行](https://zh.wikipedia.org/wiki/北京国家体育場 "wikilink")「三国演義－中日韓風雲音楽祭」中出演，初次在海外舉行演唱會。
+2011年2月9日、單曲「[Kiss Me](../Page/Kiss_Me_\(Happiness單曲\).md "wikilink")」作主流單曲出道。4月29日在[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")舉行首個單獨演唱會，9月25日中在中国的[北京国家体育場舉行](https://zh.wikipedia.org/wiki/北京国家体育場 "wikilink")「三国演義－中日韓風雲音楽祭」中出演，初次在海外舉行演唱會。
 
-2012年1月27日，MIMU發表以學業優先為理由而休止活動，預定8月12日開始的單獨演唱會「Happiness LIVE TOUR 2012
-"Happy
-Time"」、主音MAYU因為感染「傳染性單核球症」而延期。後來MAYU自身缺席演唱會。10月25日、MIMU正式從Happiness中脫退。
+2012年1月27日，MIMU發表以學業優先為理由而休止活動，預定8月12日開始的單獨演唱會「Happiness LIVE TOUR 2012 "Happy Time"」、主音MAYU因為感染「傳染性單核球症」而延期。後來MAYU自身缺席演唱會。10月25日、MIMU正式從Happiness中脫退。
 
 2013年5月27日，E-girls成員川本璃及須田アンナ加入Happiness，新生Happiness活動開始。
 
@@ -170,36 +165,27 @@ Time"」、主音MAYU因為感染「傳染性單核球症」而延期。後來MA
 
 ### 電視
 
-  - [週刊EXILE](../Page/週刊EXILE.md "wikilink")（[TBS](../Page/TBS電視台.md "wikilink")、2011年1月
-    - ）
+  - [週刊EXILE](../Page/週刊EXILE.md "wikilink")（[TBS](../Page/TBS電視台.md "wikilink")、2011年1月 - ）
   - E-Girlsが！モンクの叫び（TBS、2011年10月 - ）
 
 ### 广告
 
-  - [美仕唐納滋](https://zh.wikipedia.org/wiki/美仕唐納滋 "wikilink")
-    「ショコラフレンチ」·「フロッキーシュー」（2009年）
-  - [adidas
-    Originals](../Page/愛迪達.md "wikilink")「DANCEシリーズ」·「CUTEシリーズ」（2011年）
+  - [美仕唐納滋](https://zh.wikipedia.org/wiki/美仕唐納滋 "wikilink") 「ショコラフレンチ」·「フロッキーシュー」（2009年）
+  - [adidas Originals](../Page/愛迪達.md "wikilink")「DANCEシリーズ」·「CUTEシリーズ」（2011年）
 
 ### 音乐影像
 
   - [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")「[Someday](https://zh.wikipedia.org/wiki/給珍愛的未來#DISC2/DVD "wikilink")」（2009年）
-  - EXILE「[24karats STAY GOLD（KIDS & GIRLS
-    Version）](https://zh.wikipedia.org/wiki/祈願之塔#DVD/DISC-2 "wikilink")」（2011年）
-  - EXILE「[Rising
-    Sun](https://zh.wikipedia.org/wiki/Rising_Sun/總有一天… "wikilink")」（2011年）
+  - EXILE「[24karats STAY GOLD（KIDS & GIRLS Version）](https://zh.wikipedia.org/wiki/祈願之塔#DVD/DISC-2 "wikilink")」（2011年）
+  - EXILE「[Rising Sun](https://zh.wikipedia.org/wiki/Rising_Sun/總有一天… "wikilink")」（2011年）
 
 ### 雜誌
 
-  - [Myojo](https://zh.wikipedia.org/wiki/Myojo "wikilink")（2011年5月号 -
-    2012年6月号、[集英社](../Page/集英社.md "wikilink")）
+  - [Myojo](https://zh.wikipedia.org/wiki/Myojo "wikilink")（2011年5月号 - 2012年6月号、[集英社](../Page/集英社.md "wikilink")）
 
 ### 廣播
 
-  - [GIRLS♥GIRLS♥GIRLS](https://zh.wikipedia.org/wiki/GIRLS・GIRLS・GIRLS "wikilink")
-    =FULL BOOST=「Happy
-    Talk」（[FM-FUJI](https://zh.wikipedia.org/wiki/FM富士 "wikilink")、2011年10月
-    - ）
+  - [GIRLS♥GIRLS♥GIRLS](https://zh.wikipedia.org/wiki/GIRLS・GIRLS・GIRLS "wikilink") =FULL BOOST=「Happy Talk」（[FM-FUJI](https://zh.wikipedia.org/wiki/FM富士 "wikilink")、2011年10月 - ）
 
 ## 備註
 
@@ -207,13 +193,9 @@ Time"」、主音MAYU因為感染「傳染性單核球症」而延期。後來MA
 
   - [所屬經紀公司LDH中文官方網站](http://www.ldh.co.jp/chh/artist/musician/happiness/)
   - [Happiness official site](http://www.happiness-ldh.jp/)
-  - [Happiness - UNIVERSAL MUSIC
-    JAPAN](http://beta.universal-music.co.jp/happiness)
-  - [Happiness官方部落格 Powered by
-    Ameba](http://ameblo.jp/happiness-official/)
+  - [Happiness - UNIVERSAL MUSIC JAPAN](http://beta.universal-music.co.jp/happiness)
+  - [Happiness官方部落格 Powered by Ameba](http://ameblo.jp/happiness-official/)
   - [Happiness Happiness 官方部落格 - GREE](http://gree.jp/happiness_g)
-  - [Happiness Ch](https://www.youtube.com/user/HappinessCh) -
-    [YouTube](../Page/YouTube.md "wikilink")
+  - [Happiness Ch](https://www.youtube.com/user/HappinessCh) - [YouTube](../Page/YouTube.md "wikilink")
 
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
+[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")

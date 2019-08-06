@@ -1,6 +1,4 @@
-《**A
-Class**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[miss
-A首張正規專輯](https://zh.wikipedia.org/wiki/miss_A "wikilink")。[AQ娛樂、JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，2011年7月18日由[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")。
+《**A Class**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[miss A首張正規專輯](https://zh.wikipedia.org/wiki/miss_A "wikilink")。[AQ娛樂、JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，2011年7月18日由[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")。
 
 ## 曲目
 
@@ -128,14 +126,10 @@ A首張正規專輯](https://zh.wikipedia.org/wiki/miss_A "wikilink")。[AQ娛�
 
 ## 參考資料
 
-  - [미쓰에이, '아이스쇼' 대기실 직찍
-    공개..'화사해'](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=109&aid=0002207612)
-  - [JYP gives surprise
-    preview](https://web.archive.org/web/20131004230506/http://www.koreaboo.com/index.html/_/music/jyp-gives-surprise-preview-of-miss-as-new-r5923)
+  - [미쓰에이, '아이스쇼' 대기실 직찍 공개..'화사해'](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=106&oid=109&aid=0002207612)
+  - [JYP gives surprise preview](https://web.archive.org/web/20131004230506/http://www.koreaboo.com/index.html/_/music/jyp-gives-surprise-preview-of-miss-as-new-r5923)
 
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:miss_A音樂專輯](https://zh.wikipedia.org/wiki/Category:miss_A音樂專輯 "wikilink")
-[Category:2011年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon數位下載週榜冠軍作品 "wikilink")
+[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:miss_A音樂專輯](https://zh.wikipedia.org/wiki/Category:miss_A音樂專輯 "wikilink") [Category:2011年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Gaon數位下載週榜冠軍作品 "wikilink")
 
 1.
 

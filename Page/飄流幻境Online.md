@@ -1,5 +1,4 @@
-《**飄流幻境Online**》（）是由[中華網龍](../Page/中華網龍.md "wikilink")研發並營運的一款[2D](../Page/二维计算机图形.md "wikilink")
-[Q版](https://zh.wikipedia.org/wiki/Q版 "wikilink")[大型多人在線角色扮演遊戲](https://zh.wikipedia.org/wiki/MMORPG "wikilink")，于2005年12月14日在台湾公测\[1\]。游戏在大陆\[2\]、美国、港澳\[3\]都有运营。
+《**飄流幻境Online**》（）是由[中華網龍](../Page/中華網龍.md "wikilink")研發並營運的一款[2D](../Page/二维计算机图形.md "wikilink") [Q版](https://zh.wikipedia.org/wiki/Q版 "wikilink")[大型多人在線角色扮演遊戲](https://zh.wikipedia.org/wiki/MMORPG "wikilink")，于2005年12月14日在台湾公测\[1\]。游戏在大陆\[2\]、美国、港澳\[3\]都有运营。
 
 游戏以荒岛求生为主题，玩家需要通过收集素材来探索世界。遊戲以古文明的幻想为题材\[4\]，游戏包含了神秘的[馬雅文化](https://zh.wikipedia.org/wiki/馬雅文化 "wikilink")、[復活島上的巨石雕像以及各種謎樣事件](https://zh.wikipedia.org/wiki/復活島 "wikilink")\[5\]。而游戏画面也以日式风格著称\[6\]。
 
@@ -526,14 +525,7 @@
 
   - 港服 [新飄流幻境Online官方粉絲團](http://www.facebook.com/nwlonline)
 
-[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink")
-[Category:中華網龍遊戲](https://zh.wikipedia.org/wiki/Category:中華網龍遊戲 "wikilink")
-[Category:奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:奇幻电子游戏 "wikilink")
-[Category:遇難漂流題材作品](https://zh.wikipedia.org/wiki/Category:遇難漂流題材作品 "wikilink")
-[Category:無人島背景作品](https://zh.wikipedia.org/wiki/Category:無人島背景作品 "wikilink")
+[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink") [Category:中華網龍遊戲](https://zh.wikipedia.org/wiki/Category:中華網龍遊戲 "wikilink") [Category:奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:奇幻电子游戏 "wikilink") [Category:遇難漂流題材作品](https://zh.wikipedia.org/wiki/Category:遇難漂流題材作品 "wikilink") [Category:無人島背景作品](https://zh.wikipedia.org/wiki/Category:無人島背景作品 "wikilink")
 
 1.
 2.

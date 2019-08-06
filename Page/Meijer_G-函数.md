@@ -1,6 +1,4 @@
-**Meijer
-G-函数**是荷兰数学家[梅耶尔引入的一种](../Page/科内利斯·西蒙·梅耶尔.md "wikilink")[特殊函数](https://zh.wikipedia.org/wiki/特殊函数 "wikilink")。它是[广义超几何函数](../Page/广义超几何函数.md "wikilink")的推广，绝大多数的特殊函数都可以用
-Meijer -函数表示出来。
+**Meijer G-函数**是荷兰数学家[梅耶尔引入的一种](../Page/科内利斯·西蒙·梅耶尔.md "wikilink")[特殊函数](https://zh.wikipedia.org/wiki/特殊函数 "wikilink")。它是[广义超几何函数](../Page/广义超几何函数.md "wikilink")的推广，绝大多数的特殊函数都可以用 Meijer -函数表示出来。
 
 ## 定义
 
@@ -10,8 +8,7 @@ Meijer -函数表示出来。
 \begin{matrix}a_1&a_2&\ldots&a_p\\b_1&b_2&\ldots&b_q\end{matrix};z\right]=\frac 1{2\pi i}\int_C
 \left(\prod_{k=1}^p\Gamma(a_k+s)\right/\left.\prod_{k=1}^q\Gamma(b_k+s)\right)\Gamma(-s)(-z)^s\mathrm ds\]
 
-其中积分路径  视参数 ,  的相对大小而定。上面的积分表达式具有 [Mellin
-逆变换的形式](https://zh.wikipedia.org/wiki/Mellin_变换 "wikilink")。
+其中积分路径  视参数 ,  的相对大小而定。上面的积分表达式具有 [Mellin 逆变换的形式](https://zh.wikipedia.org/wiki/Mellin_变换 "wikilink")。
 
 Meijer- 函数是上面积分表达式的一个推广，它的定义为：
 
@@ -24,9 +21,7 @@ z^s\left.\left(\prod_{k=1}^n\Gamma(1-a_k+s)\right/\left.\prod_{k=m+1}^q\Gamma(1-
 
 \[a_k-b_l\notin \mathbb Z^+,\quad \forall k=1,2,\dots, n; l=1,2,\dots, m\]
 
-在书写 Meijer- 函数时要注意，上标中的第一个参数和下标中的第二个参数对应的是
-<sub></sub>，而上标中的第二个参数和下标中的第一个参数对应的是
-<sub></sub>。
+在书写 Meijer- 函数时要注意，上标中的第一个参数和下标中的第二个参数对应的是 <sub></sub>，而上标中的第二个参数和下标中的第一个参数对应的是 <sub></sub>。
 
 对比上述两式可以得到广义超几何函数和 Meijer- 函数的关系：
 
@@ -69,8 +64,7 @@ G_{p,q}^{\,m,n} \!\left( \left. \begin{matrix} a_1 , a_2, \dots, a_p-1 \\ \mathb
 G_{p,q}^{\,m,n} \!\left( \left. \begin{matrix} \mathbf{a_p} \\ b_1, b_2, \dots, b_q+1 \end{matrix} \; \right| \, z \right)\quad m \leq q-1.\]
 
 \[\left(b_1-z \frac{\mathrm d}{\mathrm dz}\right) \; G_{p,q}^{\,m,n} \!\left( \left. \begin{matrix} \mathbf{a_p} \\ \mathbf{b_q} \end{matrix} \; \right| \, z \right) =
-G_{p,q}^{\,m,n} \!\left( \left. \begin{matrix} \mathbf{a_p} \\ b_1+1, b_2, \dots, b_q \end{matrix} \; \right| \, z \right)\quad m\geq 1.\]
-上面的式子都可以直接由定义得到。
+G_{p,q}^{\,m,n} \!\left( \left. \begin{matrix} \mathbf{a_p} \\ b_1+1, b_2, \dots, b_q \end{matrix} \; \right| \, z \right)\quad m\geq 1.\] 上面的式子都可以直接由定义得到。
 
 ### 向量组中两个元素相差整数时的关系式
 
@@ -91,8 +85,7 @@ G_{p,q}^{\,m,n} \!\left( \left. \begin{matrix} \mathbf{a_p} \\ b_1+1, b_2, \dots
 
 ## 微分方程
 
-由上面[一般关系式一节的讨论知](https://zh.wikipedia.org/wiki/#一般关系式 "wikilink")
-Meijer- 函数满足下列微分方程，它与广义超几何函数满足的微分方程形式上很类似。
+由上面[一般关系式一节的讨论知](https://zh.wikipedia.org/wiki/#一般关系式 "wikilink") Meijer- 函数满足下列微分方程，它与广义超几何函数满足的微分方程形式上很类似。
 
 \[\left[(-1)^{p-m-n}z\prod_{k=1}^{p}\left(z\frac{{\rm{d}}}{{\rm{d}}z} - a_k+1\right)
 - \prod_{k=1}^{q}\left(z\frac{{\rm{d}}}{{\rm{d}}z} - b_k\right)\right]w=0,
@@ -114,10 +107,7 @@ G_{p,q}^{\,q,1} \!\left( \left. \begin{matrix} a_h, a_1, \dots, a_{h-1}, a_{h+1}
 
 ## 特殊情形
 
-因为广义超几何函数是 Meijer- 函数的特殊情形，故所有可以用广义超几何函数表示的特殊函数都可以用 Meijer-
-函数表示，但是，在个别情况下，用 Meijer-
-函数有更简单的表示式，例子如[诺依曼函数](https://zh.wikipedia.org/wiki/诺依曼函数 "wikilink")，它可以用超几何函数<sub>0</sub>F<sub>1</sub>表示，但表示式仅仅是将（第一类）贝塞尔函数的超几何函数表示式代入其定义式中，因此含有两个超几何函数。而用
-Meijer- 函数就可以直接表示为：
+因为广义超几何函数是 Meijer- 函数的特殊情形，故所有可以用广义超几何函数表示的特殊函数都可以用 Meijer- 函数表示，但是，在个别情况下，用 Meijer- 函数有更简单的表示式，例子如[诺依曼函数](https://zh.wikipedia.org/wiki/诺依曼函数 "wikilink")，它可以用超几何函数<sub>0</sub>F<sub>1</sub>表示，但表示式仅仅是将（第一类）贝塞尔函数的超几何函数表示式代入其定义式中，因此含有两个超几何函数。而用 Meijer- 函数就可以直接表示为：
 
 \[Y_\nu (z) = G_{1,3}^{\,2,0} \!\left( \left. \begin{matrix} \frac{- \nu - 1}{2} \\ \frac{\nu}{2}, \frac{-\nu}{2}, \frac{- \nu - 1}{2} \end{matrix} \; \right| \, \frac{z^2}{4} \right), \qquad \frac{-\pi}{2} < \arg z \leq \frac{\pi}{2}\]
 
@@ -125,8 +115,7 @@ Meijer- 函数就可以直接表示为：
 
 \[\frac{\partial \Gamma (a,z) }{\partial a} = \Gamma (a,z)\ln z + \,G_{2,\,3}^{\,3,\,0} \!\left( \left. \begin{matrix} 1, 1 \\ a, 0, 0 \end{matrix} \; \right| \, z \right)\]
 
-事实上，不完全伽玛函数对参变量的高阶偏导数也可以用 Meijer-
-函数表出，详见[不完全Γ函数一文](https://zh.wikipedia.org/wiki/不完全Γ函数 "wikilink")。
+事实上，不完全伽玛函数对参变量的高阶偏导数也可以用 Meijer- 函数表出，详见[不完全Γ函数一文](https://zh.wikipedia.org/wiki/不完全Γ函数 "wikilink")。
 
 ## 注
 
@@ -136,8 +125,7 @@ Meijer- 函数就可以直接表示为：
 
   -
   -
-  - (see Chapter V, "The Generalized Hypergeometric Function and the
-    G-Function", p. 136)
+  - (see Chapter V, "The Generalized Hypergeometric Function and the G-Function", p. 136)
 
   -
 ## 外部链接

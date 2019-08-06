@@ -1,5 +1,4 @@
-《Drama
-Festival》（）為[MBC製作之獨幕劇](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")。第一季自2013年10月2日播至2013年12月12日，第二季預計於2014年9月4日起播映。
+《Drama Festival》（）為[MBC製作之獨幕劇](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")。第一季自2013年10月2日播至2013年12月12日，第二季預計於2014年9月4日起播映。
 
 ## 第一季
 
@@ -636,14 +635,12 @@ Festival》（）為[MBC製作之獨幕劇](https://zh.wikipedia.org/wiki/文化
       - [《4teen》官方網站](http://www.imbc.com/broad/tv/drama/festival2014/concept/index.html?param=3)－
       - [《馨榮堂日記》官方網站](http://www.imbc.com/broad/tv/drama/festival2014/concept/index.html?param=4)－
       - [《久違的再見》官方網站](http://www.imbc.com/broad/tv/drama/festival2014/concept/index.html?param=5)－
-      - [《House,
-        Mate》官方網站](http://www.imbc.com/broad/tv/drama/festival2014/concept/index.html?param=6)－
+      - [《House, Mate》官方網站](http://www.imbc.com/broad/tv/drama/festival2014/concept/index.html?param=6)－
       - [《吉他與熱褲》官方網站](http://www.imbc.com/broad/tv/drama/festival2014/concept/index.html?param=7)－
       - [《怨女日記》官方網站](http://www.imbc.com/broad/tv/drama/festival2014/concept/index.html?param=8)－
       - [《加蓬》官方網站](http://www.imbc.com/broad/tv/drama/festival2014/concept/index.html?param=9)－
 
-[Category:MBC電視劇](https://zh.wikipedia.org/wiki/Category:MBC電視劇 "wikilink")
-[Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")
+[Category:MBC電視劇](https://zh.wikipedia.org/wiki/Category:MBC電視劇 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")
 
 1.  改編自[石田衣良](../Page/石田衣良.md "wikilink")著作之[同名短篇小說集](../Page/4TEEN十四歲.md "wikilink")。
 

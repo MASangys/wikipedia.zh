@@ -1,6 +1,4 @@
-《**紙箱戰機W**》為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[紙箱戰機](../Page/紙箱戰機.md "wikilink")》的第二季，於2012年1月18日至2013年3月20日，逢[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")19:27
--
-19:55於[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")播出，全58話。香港於2013年8月22日開始播放。
+《**紙箱戰機W**》為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[紙箱戰機](../Page/紙箱戰機.md "wikilink")》的第二季，於2012年1月18日至2013年3月20日，逢[星期三](https://zh.wikipedia.org/wiki/星期三 "wikilink")19:27 - 19:55於[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")播出，全58話。香港於2013年8月22日開始播放。
 
 ## 故事概要
 
@@ -965,13 +963,6 @@
 
   - [劇場版『閃電十一人GO VS 紙箱戰機W』劇場版官網](http://www.inazuma-movie.jp/)
 
-[Category:2050年代背景作品](https://zh.wikipedia.org/wiki/Category:2050年代背景作品 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink")
-[Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink")
-[Category:恐怖活動題材作品](https://zh.wikipedia.org/wiki/Category:恐怖活動題材作品 "wikilink")
-[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
+[Category:2050年代背景作品](https://zh.wikipedia.org/wiki/Category:2050年代背景作品 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink") [Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:中視外購動畫](https://zh.wikipedia.org/wiki/Category:中視外購動畫 "wikilink") [Category:恐怖活動題材作品](https://zh.wikipedia.org/wiki/Category:恐怖活動題材作品 "wikilink") [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
 
 1.  標題以播放時所顯示的字幕為準。

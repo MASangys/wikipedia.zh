@@ -16,8 +16,7 @@
 
 1859年，肯塔基州[巴兹敦的地方民主党会议推举布朗作为代表该选区的联邦众议员候选人](../Page/巴兹敦_\(肯塔基州\).md "wikilink")，争夺约书亚·朱厄特的席位\[14\]。对此布朗表示抗议，因为[美利坚合众国宪法第一条中规定众议员的年龄下限为](https://zh.wikipedia.org/wiki/美利坚合众国宪法第一条 "wikilink")25岁，而他这时还没满24岁。结果，肯塔基州第五国会选区的选民还是选择了布朗作为他们在[联邦众议院的新代表](https://zh.wikipedia.org/wiki/联邦众议院 "wikilink")，他比朱厄特多了约2000票\[15\]。不过由于年龄上的问题，他并未马上就职，而是在达到法定年龄的第二年国会期间才开始上任\[16\]。1860年，布朗成为[道格拉斯全国委员会成员](../Page/史蒂芬·A·道格拉斯.md "wikilink")，并且和支持[约翰·C·布雷肯里奇](../Page/约翰·C·布雷肯里奇.md "wikilink")竞选总统的人士进行了一系列辩论，其中还包括布雷肯里奇的表弟[威廉·坎贝尔·普雷斯顿·布雷肯里奇](https://zh.wikipedia.org/wiki/威廉·坎贝尔·普雷斯顿·布雷肯里奇 "wikilink")（）\[17\]。
 
-[Bfbutler.jpg](https://zh.wikipedia.org/wiki/File:Bfbutler.jpg "fig:Bfbutler.jpg")
-布朗搬迁至亨德森的确切时间尚不明了。根据[南方邦联军官](https://zh.wikipedia.org/wiki/美利坚联盟国 "wikilink")[史托夫派普·约翰逊](https://zh.wikipedia.org/wiki/史托夫派普·约翰逊 "wikilink")（）的回忆，该市的领导官员曾在1862年初欢迎布朗的到来，但其他来源中又指出他是在[南北战争](../Page/南北战争.md "wikilink")结束后才定居亨德森\[18\]\[19\]。他在战争期间对南方邦联抱有同情\[20\]，全美州长协会的网站上声称布朗曾在战争期间担任骑兵上校，但没有提供任何阐述\[21\]，其他无论是与布朗同时代人士或之后的[历史学家都没有提及他有这一经历](https://zh.wikipedia.org/wiki/历史学家 "wikilink")。
+[Bfbutler.jpg](https://zh.wikipedia.org/wiki/File:Bfbutler.jpg "fig:Bfbutler.jpg") 布朗搬迁至亨德森的确切时间尚不明了。根据[南方邦联军官](https://zh.wikipedia.org/wiki/美利坚联盟国 "wikilink")[史托夫派普·约翰逊](https://zh.wikipedia.org/wiki/史托夫派普·约翰逊 "wikilink")（）的回忆，该市的领导官员曾在1862年初欢迎布朗的到来，但其他来源中又指出他是在[南北战争](../Page/南北战争.md "wikilink")结束后才定居亨德森\[18\]\[19\]。他在战争期间对南方邦联抱有同情\[20\]，全美州长协会的网站上声称布朗曾在战争期间担任骑兵上校，但没有提供任何阐述\[21\]，其他无论是与布朗同时代人士或之后的[历史学家都没有提及他有这一经历](https://zh.wikipedia.org/wiki/历史学家 "wikilink")。
 
 1866年，布朗再度当选联邦众议员\[22\]，然而国会以他在战争期间没有忠于联邦为由剥夺了他的席位，宣布处于空缺状态\[23\]。他选区的选民对此拒绝选出新的代表填补空缺，州长[约翰·W·史蒂文森](https://zh.wikipedia.org/wiki/约翰·W·史蒂文森 "wikilink")（）对众议院的做法提交了正式抗议，结果这一议席在第40届联邦国会期间一直处于空缺状态\[24\]\[25\]。
 
@@ -27,8 +26,7 @@
 
 ## 1891年州长选举
 
-[Cassius-M-Clay-Jr.jpg](https://zh.wikipedia.org/wiki/File:Cassius-M-Clay-Jr.jpg "fig:Cassius-M-Clay-Jr.jpg")
-离开众议院后，布朗在[路易斯维尔再度开始从事法律工作](https://zh.wikipedia.org/wiki/路易斯维尔_\(肯塔基州\) "wikilink")\[35\]。1891年，他成为民主党州长候选人提名的其中一位争夺者\[36\]。其他的候选人包括小卡修斯··克莱，他是前联邦众议员[布鲁特斯·J·克莱](https://zh.wikipedia.org/wiki/布鲁特斯·J·克莱 "wikilink")（）的儿子，也是[废奴主义者](https://zh.wikipedia.org/wiki/废奴主义者 "wikilink")[卡修斯·马塞勒斯·克莱](https://zh.wikipedia.org/wiki/卡修斯·马塞勒斯·克莱 "wikilink")（）的侄子，另外两位分别是之后将当选联邦众议员的[约翰·丹尼尔·克拉迪博士](https://zh.wikipedia.org/wiki/约翰·丹尼尔·克拉迪 "wikilink")（）和肯塔基州司法部长[帕克·沃特金斯·哈丁](https://zh.wikipedia.org/wiki/帕克·沃特金斯·哈丁 "wikilink")（）\[37\]。党派也分裂成了支持[路易斯维尔和纳什维尔铁路公司这类企业的一派和支持农业利益的一派](https://zh.wikipedia.org/wiki/路易斯维尔和纳什维尔铁路公司 "wikilink")\[38\]。同时，民主党还分裂成了支持维持[金本位](../Page/金本位.md "wikilink")的[保守派波旁民主党人和支持自由铸造银币的](../Page/保守主义.md "wikilink")[进步派民主党人](https://zh.wikipedia.org/wiki/进步主义 "wikilink")\[39\]。支持农业利益的选民大致由克莱和克拉迪各得一半，而支持自由铸造银币的民主党人中支持哈丁和克拉迪的也平分秋色\[40\]。布朗一生中大部分时间都住在肯塔基州以农业为主的西部，他与[农民联盟之间的关系从未疏远过](https://zh.wikipedia.org/wiki/美国农民联盟 "wikilink")，路易斯维尔和纳什维尔铁路公司觉得他在企业调控的问题上应该属于温和派\[41\]，波旁民主党人也对他在[货币问题上的稳健立场感到满意](https://zh.wikipedia.org/wiki/货币 "wikilink")\[42\]。
+[Cassius-M-Clay-Jr.jpg](https://zh.wikipedia.org/wiki/File:Cassius-M-Clay-Jr.jpg "fig:Cassius-M-Clay-Jr.jpg") 离开众议院后，布朗在[路易斯维尔再度开始从事法律工作](https://zh.wikipedia.org/wiki/路易斯维尔_\(肯塔基州\) "wikilink")\[35\]。1891年，他成为民主党州长候选人提名的其中一位争夺者\[36\]。其他的候选人包括小卡修斯··克莱，他是前联邦众议员[布鲁特斯·J·克莱](https://zh.wikipedia.org/wiki/布鲁特斯·J·克莱 "wikilink")（）的儿子，也是[废奴主义者](https://zh.wikipedia.org/wiki/废奴主义者 "wikilink")[卡修斯·马塞勒斯·克莱](https://zh.wikipedia.org/wiki/卡修斯·马塞勒斯·克莱 "wikilink")（）的侄子，另外两位分别是之后将当选联邦众议员的[约翰·丹尼尔·克拉迪博士](https://zh.wikipedia.org/wiki/约翰·丹尼尔·克拉迪 "wikilink")（）和肯塔基州司法部长[帕克·沃特金斯·哈丁](https://zh.wikipedia.org/wiki/帕克·沃特金斯·哈丁 "wikilink")（）\[37\]。党派也分裂成了支持[路易斯维尔和纳什维尔铁路公司这类企业的一派和支持农业利益的一派](https://zh.wikipedia.org/wiki/路易斯维尔和纳什维尔铁路公司 "wikilink")\[38\]。同时，民主党还分裂成了支持维持[金本位](../Page/金本位.md "wikilink")的[保守派波旁民主党人和支持自由铸造银币的](../Page/保守主义.md "wikilink")[进步派民主党人](https://zh.wikipedia.org/wiki/进步主义 "wikilink")\[39\]。支持农业利益的选民大致由克莱和克拉迪各得一半，而支持自由铸造银币的民主党人中支持哈丁和克拉迪的也平分秋色\[40\]。布朗一生中大部分时间都住在肯塔基州以农业为主的西部，他与[农民联盟之间的关系从未疏远过](https://zh.wikipedia.org/wiki/美国农民联盟 "wikilink")，路易斯维尔和纳什维尔铁路公司觉得他在企业调控的问题上应该属于温和派\[41\]，波旁民主党人也对他在[货币问题上的稳健立场感到满意](https://zh.wikipedia.org/wiki/货币 "wikilink")\[42\]。
 
 布朗进入民主党提名大会后表现不俗，第一轮投票时他获得了275票，克莱获得了264票，克拉迪190票，哈丁186票，之后的九轮投票结果也大同小异。于是大会主席宣布，从下一轮投票开始，得票最少的候选人出局，结果克拉迪第一个遭淘汰，不过他的支持者对剩下三位候选人的支持率也基本相同，结果哈丁第二个出局，最终布朗在第13轮投票中胜过克莱赢得提名。\[43\]
 
@@ -54,8 +52,7 @@
 
 1896年州长任期结束后，布朗对当选联邦参议员的渴望一度众所周知\[72\]。最有望继任州长职位的民主党候选人是他昔日的对手小卡修斯··克莱和帕克·沃特金斯·哈丁，布朗觉得自己要想当选参议员，很可能会需要新州长的支持。然而，自己家中的不幸很快让他对政治失去了兴趣。1894年10月30日，布朗还只有十几岁的女儿因[肺结核去世](https://zh.wikipedia.org/wiki/结核 "wikilink")\[73\]。几个月后，他的儿子阿奇博尔德·狄克逊·布朗（）与夫人[离婚](https://zh.wikipedia.org/wiki/离婚 "wikilink")，之后发现他原来一直都有[外遇](../Page/外遇.md "wikilink")\[74\]。阿奇博尔德情人的[丈夫](../Page/丈夫.md "wikilink")根据匿名举报在路易斯维尔的一所[妓院](../Page/妓院.md "wikilink")里找到两人，然后掏出[手枪](../Page/手枪.md "wikilink")枪杀了自己的妻子和阿奇博尔德·布朗\[75\]。面对这一系列的家庭不幸，还在州长位置上的布朗写信给克莱：“我不想竞选参议员了。我的孩子们最近遭遇的灾难已经让我完全不适合再来参加这场竞选。我是如此地悲伤，这悲伤就像夜晚的[吸血鬼](../Page/吸血鬼.md "wikilink")一样吸干了我雄心中所有的[动脉](../Page/动脉.md "wikilink")和[静脉](../Page/静脉.md "wikilink")。”\[76\]克莱最终在提名的争夺中不敌哈丁\[77\]，而布朗又拒绝对哈丁表示支持，于是四分五裂的民主党只能看着共和党人[威廉·O·布拉德利当选](../Page/威廉·奥康奈尔·布拉德利.md "wikilink")，后者也成为肯塔基州历史上首位共和党州长\[78\]。尽管布朗已经宣布无意竞选，但他在动荡的1896年联邦参议员选举中还是得到了一票由他取代在任参议员·布莱克本（）的支持\[79\]。
 
-[William_Goebel.jpg](https://zh.wikipedia.org/wiki/File:William_Goebel.jpg "fig:William_Goebel.jpg")获州长候选人提名，布朗也随之进入了[1899年州长选举](../Page/1899年肯塔基州州长选举.md "wikilink")。\]\]
-州长任期结束后，布朗再度返回路易斯维尔从事法律工作\[80\]。他曾于1896年再度竞选联邦众议员，但不敌共和党人[沃尔特·埃文斯](https://zh.wikipedia.org/wiki/沃尔特·埃文斯 "wikilink")（）\[81\]\[82\]。之后他声称自己参选只是为了提高民主党人的投票率，为[威廉·詹宁斯·布莱恩](../Page/威廉·詹宁斯·布莱恩.md "wikilink")的[1896年总统大选打下基础](https://zh.wikipedia.org/wiki/1896年美国总统选举 "wikilink")\[83\]。1899年民主党提名大会前，布朗曾有望得到州长候选人提名，但他谢绝了这次机会\[84\]。大会召开时他还有望成为会议主席，但他也拒绝了这一职务\[85\]。
+[William_Goebel.jpg](https://zh.wikipedia.org/wiki/File:William_Goebel.jpg "fig:William_Goebel.jpg")获州长候选人提名，布朗也随之进入了[1899年州长选举](../Page/1899年肯塔基州州长选举.md "wikilink")。\]\] 州长任期结束后，布朗再度返回路易斯维尔从事法律工作\[80\]。他曾于1896年再度竞选联邦众议员，但不敌共和党人[沃尔特·埃文斯](https://zh.wikipedia.org/wiki/沃尔特·埃文斯 "wikilink")（）\[81\]\[82\]。之后他声称自己参选只是为了提高民主党人的投票率，为[威廉·詹宁斯·布莱恩](../Page/威廉·詹宁斯·布莱恩.md "wikilink")的[1896年总统大选打下基础](https://zh.wikipedia.org/wiki/1896年美国总统选举 "wikilink")\[83\]。1899年民主党提名大会前，布朗曾有望得到州长候选人提名，但他谢绝了这次机会\[84\]。大会召开时他还有望成为会议主席，但他也拒绝了这一职务\[85\]。
 
 虽然无意竞选州长，但布朗还是与帕克·沃特金斯·哈丁、前联邦众议员威廉··斯通（）以及州参议院临时议长威廉·格贝尔一起成为首轮投票的候选人。斯通和格贝尔之间达成了一个众所周知的协定，旨在令哈丁出局，但这个计划没有成功，大会也随之陷入混乱。之后的四天时间（[星期日](../Page/星期日.md "wikilink")除外）里，大会举行了数轮投票，但没有任何一位候选人赢得超半数选票，而布朗则在每一轮投票中都获得了少数支持。最终大会代表决定在之后的每轮投票淘汰得票最少的候选人，直到有候选人得到超半数支持为止，经过几轮投票，格贝尔最终获得了提名。\[86\]
 
@@ -82,11 +79,7 @@
   - [政治墓地网站上对约翰·Y·布朗的简介](http://politicalgraveyard.com/bio/brown5.html)
   - [州长史蒂文森对国会阻止布朗上任之举提出的正式抗议文本（第2162至2171页](http://www.msa.md.gov/megafile/msa/speccol/sc2900/sc2908/000001/000142/html/am142--2167.html)
 
-[Category:肯塔基州州长](https://zh.wikipedia.org/wiki/Category:肯塔基州州长 "wikilink")
-[Category:美國長老宗教徒](https://zh.wikipedia.org/wiki/Category:美國長老宗教徒 "wikilink")
-[Category:美国民主党州长](https://zh.wikipedia.org/wiki/Category:美国民主党州长 "wikilink")
-[Category:肯塔基州律师](https://zh.wikipedia.org/wiki/Category:肯塔基州律师 "wikilink")
-[Category:肯塔基州民主党人](https://zh.wikipedia.org/wiki/Category:肯塔基州民主党人 "wikilink")
+[Category:肯塔基州州长](https://zh.wikipedia.org/wiki/Category:肯塔基州州长 "wikilink") [Category:美國長老宗教徒](https://zh.wikipedia.org/wiki/Category:美國長老宗教徒 "wikilink") [Category:美国民主党州长](https://zh.wikipedia.org/wiki/Category:美国民主党州长 "wikilink") [Category:肯塔基州律师](https://zh.wikipedia.org/wiki/Category:肯塔基州律师 "wikilink") [Category:肯塔基州民主党人](https://zh.wikipedia.org/wiki/Category:肯塔基州民主党人 "wikilink")
 
 1.
 

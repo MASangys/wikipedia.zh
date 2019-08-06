@@ -1,6 +1,4 @@
-[Th14_screen_capture.jpg](https://zh.wikipedia.org/wiki/File:Th14_screen_capture.jpg "fig:Th14_screen_capture.jpg")
-是由同人组织[上海爱莉丝幻乐团发布的](https://zh.wikipedia.org/wiki/上海爱莉丝幻乐团 "wikilink")[弹幕射击游戏](https://zh.wikipedia.org/wiki/弹幕射击游戏 "wikilink")，为[东方Project的第](https://zh.wikipedia.org/wiki/东方Project "wikilink")14作。\[1\]本作的體驗版於2013年5月26日的第10次博麗神社例大祭上發佈，正式版於2013年8月12日（[Comic
-Market](../Page/Comic_Market.md "wikilink") 84）正式發佈銷售。\[2\]。
+[Th14_screen_capture.jpg](https://zh.wikipedia.org/wiki/File:Th14_screen_capture.jpg "fig:Th14_screen_capture.jpg") 是由同人组织[上海爱莉丝幻乐团发布的](https://zh.wikipedia.org/wiki/上海爱莉丝幻乐团 "wikilink")[弹幕射击游戏](https://zh.wikipedia.org/wiki/弹幕射击游戏 "wikilink")，为[东方Project的第](https://zh.wikipedia.org/wiki/东方Project "wikilink")14作。\[1\]本作的體驗版於2013年5月26日的第10次博麗神社例大祭上發佈，正式版於2013年8月12日（[Comic Market](../Page/Comic_Market.md "wikilink") 84）正式發佈銷售。\[2\]。
 
 在東方輝針城之前，[東方系列遊戲只通過](https://zh.wikipedia.org/wiki/東方Project "wikilink")[CD](../Page/CD.md "wikilink")光碟銷售。東方輝針城是第一部通過數字渠道進行銷售的東方系列遊戲\[3\]。2015年4月7日，遊戲通過[Playism](../Page/Playism.md "wikilink")進行銷售，使得東方輝針城又成為第一部直接銷往日本之外國家的東方作品\[4\]。
 
@@ -20,8 +18,7 @@ Extra關發生在少名針妙丸被打敗之後。天空再次出現了詭異的
 
 ## 遊戲系統
 
-[Th14_gameplay.png](https://zh.wikipedia.org/wiki/File:Th14_gameplay.png "fig:Th14_gameplay.png")
-本作的自機炸彈承繼前兩作，採用[符卡](../Page/符卡.md "wikilink")。
+[Th14_gameplay.png](https://zh.wikipedia.org/wiki/File:Th14_gameplay.png "fig:Th14_gameplay.png") 本作的自機炸彈承繼前兩作，採用[符卡](../Page/符卡.md "wikilink")。
 
 ### 蒐集道具
 
@@ -292,24 +289,15 @@ Extra關發生在少名針妙丸被打敗之後。天空再次出現了詭異的
 ## 外部链接
 
   - [Official Announcement](http://kourindou.exblog.jp/20469044/)
-  - [steam上的《東方輝針城 〜 Double Dealing
-    Character.》](https://store.steampowered.com/app/1043240)
+  - [steam上的《東方輝針城 〜 Double Dealing Character.》](https://store.steampowered.com/app/1043240)
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:變大縮小題材作品](https://zh.wikipedia.org/wiki/Category:變大縮小題材作品 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
-[Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:變大縮小題材作品](https://zh.wikipedia.org/wiki/Category:變大縮小題材作品 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
 
 1.
 
 2.
 
-3.  2014-08-13, [Touhou Kishinjou \~ Double Dealing Character Available
-    Via Playism In
-    Japan](http://www.siliconera.com/2014/08/13/touhou-kishinjou-double-dealing-character-available-via-playism-japan/),
-    Siliconera
+3.  2014-08-13, [Touhou Kishinjou \~ Double Dealing Character Available Via Playism In Japan](http://www.siliconera.com/2014/08/13/touhou-kishinjou-double-dealing-character-available-via-playism-japan/), Siliconera
 
 4.
 

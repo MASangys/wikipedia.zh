@@ -1,10 +1,8 @@
-**BREATHE**是日本二人的歌唱組合。所屬事務所[LDH公司](../Page/LDH_\(藝能事務所\).md "wikilink")。所屬唱片公司為[艾迴唱片旗下廠牌](https://zh.wikipedia.org/wiki/艾迴 "wikilink")[rhythm
-zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
+**BREATHE**是日本二人的歌唱組合。所屬事務所[LDH公司](../Page/LDH_\(藝能事務所\).md "wikilink")。所屬唱片公司為[艾迴唱片旗下廠牌](https://zh.wikipedia.org/wiki/艾迴 "wikilink")[rhythm zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 簡歷
 
-兩人都是「」的參加者，順利進入三次審查，但最終落選。不過在決賽當日的表現不比優勝者遜色，所以LDH的社長HIRO決定為他們成立一個二人組合。BREATHE的名字是由日本著名作詞家所命名，松尾潔亦是BREATHE製作人。2011年12月21日出道，並發行首張單曲『合鍵/White
-Lies』。
+兩人都是「」的參加者，順利進入三次審查，但最終落選。不過在決賽當日的表現不比優勝者遜色，所以LDH的社長HIRO決定為他們成立一個二人組合。BREATHE的名字是由日本著名作詞家所命名，松尾潔亦是BREATHE製作人。2011年12月21日出道，並發行首張單曲『合鍵/White Lies』。
 
 2016年4月29日、發表解散\[1\]。宮田以個人歌手身份繼續活動、而多田就退出樂壇\[2\]\[3\]。
 
@@ -298,15 +296,13 @@ CD+DVD（RZCD-59287/B）</p></td>
 
 ### 綜藝節目
 
-  - [週刊EXILE](../Page/週刊EXILE.md "wikilink")（[TBS電視台](../Page/TBS電視台.md "wikilink")、2010年2月
-    - 2015年）
+  - [週刊EXILE](../Page/週刊EXILE.md "wikilink")（[TBS電視台](../Page/TBS電視台.md "wikilink")、2010年2月 - 2015年）
 
   - FUTURE TRACKS→R（[朝日電視台](../Page/朝日電視台.md "wikilink")、2011年9月 - 12月）
 
   - （朝日電視台、2012年1月 - 2015年）
 
-  - （[每日放送](../Page/每日放送.md "wikilink")
-    ・[TBS電視台](../Page/TBS電視台.md "wikilink")、2012年4月 - 6月）
+  - （[每日放送](../Page/每日放送.md "wikilink") ・[TBS電視台](../Page/TBS電視台.md "wikilink")、2012年4月 - 6月）
 
   - つながるGO\!GO\!（J:COM、2012年5月 - 2013年）
 
@@ -316,8 +312,7 @@ CD+DVD（RZCD-59287/B）</p></td>
 
 ### 音樂録影帶
 
-  - EXILE
-    「[Bloom](https://zh.wikipedia.org/wiki/EXILE_BEST_HITS_-LOVE_SIDE_/_SOUL_SIDE- "wikilink")」（2012年）
+  - EXILE 「[Bloom](https://zh.wikipedia.org/wiki/EXILE_BEST_HITS_-LOVE_SIDE_/_SOUL_SIDE- "wikilink")」（2012年）
 
 ### 網上節目
 
@@ -338,8 +333,7 @@ VBA LIVE TOUR 2012 VOCAL BATTLE STAGE
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2012.02.29　大阪・[Zepp
-    Osaka](https://zh.wikipedia.org/wiki/Zepp_Osaka "wikilink")
+  - 2012.02.29　大阪・[Zepp Osaka](https://zh.wikipedia.org/wiki/Zepp_Osaka "wikilink")
   - 2012.03.01　大阪・Zepp Osaka
   - 2012.03.06　東京・[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")
   - 2012.03.07　東京・SHIBUYA-AX
@@ -542,14 +536,10 @@ BREATHE OFFICIAL FAN CLUB LIVE TOUR 2015 “LOVE”\[14\]\[15\]
   -
 ## 註解
 
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:Rhythm_zone](https://zh.wikipedia.org/wiki/Category:Rhythm_zone "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
-[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
+[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:Rhythm_zone](https://zh.wikipedia.org/wiki/Category:Rhythm_zone "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
-2.  [松尾潔](https://twitter.com/kiyoshimatsuo/status/725934684660584448?lang=ja)
-    Twitter. 2016年4月30日閲覧。
+2.  [松尾潔](https://twitter.com/kiyoshimatsuo/status/725934684660584448?lang=ja) Twitter. 2016年4月30日閲覧。
 3.
 4.
 5.

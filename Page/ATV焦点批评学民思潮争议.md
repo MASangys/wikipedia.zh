@@ -54,10 +54,7 @@
 
 ## 注釋
 
-[Category:香港傳媒爭議](https://zh.wikipedia.org/wiki/Category:香港傳媒爭議 "wikilink")
-[Category:德育及國民教育科](https://zh.wikipedia.org/wiki/Category:德育及國民教育科 "wikilink")
-[Category:2012年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2012年亞洲電視節目 "wikilink")
-[Category:2012年香港](https://zh.wikipedia.org/wiki/Category:2012年香港 "wikilink")
+[Category:香港傳媒爭議](https://zh.wikipedia.org/wiki/Category:香港傳媒爭議 "wikilink") [Category:德育及國民教育科](https://zh.wikipedia.org/wiki/Category:德育及國民教育科 "wikilink") [Category:2012年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2012年亞洲電視節目 "wikilink") [Category:2012年香港](https://zh.wikipedia.org/wiki/Category:2012年香港 "wikilink")
 
 1.
 
@@ -93,7 +90,6 @@
 
 24. [通訊局去年收逾4萬宗涉「ATV焦點」投訴](http://www.rthk.hk/rthk/news/expressnews/20130411/news_20130411_55_914532.htm)
 
-
 25.
 26.
 27.
@@ -114,11 +110,9 @@
 
 38.
 
-39. [亞視說出了事實,難怪學民咁大反應 - 時政文化討論 -
-    香港討論區](http://news.discuss.com.hk/viewthread.php?tid=20754939)
+39. [亞視說出了事實,難怪學民咁大反應 - 時政文化討論 - 香港討論區](http://news.discuss.com.hk/viewthread.php?tid=20754939)
 
 40.
-41. [亞視說出了事實,難怪學民咁大反應 - 時政文化討論 -
-    香港討論區](http://news.discuss.com.hk/viewthread.php?tid=20754939)
+41. [亞視說出了事實,難怪學民咁大反應 - 時政文化討論 - 香港討論區](http://news.discuss.com.hk/viewthread.php?tid=20754939)
 
 42.

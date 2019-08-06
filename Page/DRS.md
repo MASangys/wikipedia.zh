@@ -1,8 +1,6 @@
 [RB7_adjustable_rear_wing.jpg](https://zh.wikipedia.org/wiki/File:RB7_adjustable_rear_wing.jpg "fig:RB7_adjustable_rear_wing.jpg")
 
-**DRS**（[英文全称](https://zh.wikipedia.org/wiki/英文 "wikilink")：**D**rag
-**R**eduction
-**S**ystem）译为**减少空气阻力系统**或者**可变尾翼**，是[2011年世界一级方程式锦标赛](../Page/2011年世界一级方程式锦标赛.md "wikilink")引入的一项技术。该技术旨在通过调节[尾翼](../Page/尾翼.md "wikilink")的角度以减少[空气阻力](https://zh.wikipedia.org/wiki/空气阻力 "wikilink")，从而使赛车获得更快的速度，以达到超车的目的，亦使比赛的观赏性大大增强。\[1\]
+**DRS**（[英文全称](https://zh.wikipedia.org/wiki/英文 "wikilink")：**D**rag **R**eduction **S**ystem）译为**减少空气阻力系统**或者**可变尾翼**，是[2011年世界一级方程式锦标赛](../Page/2011年世界一级方程式锦标赛.md "wikilink")引入的一项技术。该技术旨在通过调节[尾翼](../Page/尾翼.md "wikilink")的角度以减少[空气阻力](https://zh.wikipedia.org/wiki/空气阻力 "wikilink")，从而使赛车获得更快的速度，以达到超车的目的，亦使比赛的观赏性大大增强。\[1\]
 
 ## 原理
 
@@ -42,14 +40,9 @@ DRS在以下情况下可以使用：
 
 [Category:一級方程式賽車](https://zh.wikipedia.org/wiki/Category:一級方程式賽車 "wikilink")
 
-1.  ["2011 F1 Technical Regulations,
-    Section 3.18"](http://argent.fia.com/web/fia-public.nsf/055CFD424959A061C1257870003A02F0/$FILE/1-2011%20TECHNICAL%20REGULATIONS%2008-03-2011.pdf)
-2.  [The F1 movable rear wing 'Drag Reduction System'
-    explained](http://www.ozracingwrap.com/news/formula-1/2537-the-f1-movable-rear-wing-drag-reduction-system-explained.html)
-
+1.  ["2011 F1 Technical Regulations, Section 3.18"](http://argent.fia.com/web/fia-public.nsf/055CFD424959A061C1257870003A02F0/$FILE/1-2011%20TECHNICAL%20REGULATIONS%2008-03-2011.pdf)
+2.  [The F1 movable rear wing 'Drag Reduction System' explained](http://www.ozracingwrap.com/news/formula-1/2537-the-f1-movable-rear-wing-drag-reduction-system-explained.html)
 3.
 4.
-5.  ["Is DRS Making overtaking too easy? - Martin
-    Brundle"](http://news.bbc.co.uk/sport1/hi/formula_one/13328467.stm)
-6.  ["F1 2011 Sporting
-    Regulations"](http://argent.fia.com/web/fia-public.nsf/2E91C936598568EEC1257870003A2BAC/$FILE/1-2011%20SPORTING%20REGULATIONS%2008-03-2011.pdf)
+5.  ["Is DRS Making overtaking too easy? - Martin Brundle"](http://news.bbc.co.uk/sport1/hi/formula_one/13328467.stm)
+6.  ["F1 2011 Sporting Regulations"](http://argent.fia.com/web/fia-public.nsf/2E91C936598568EEC1257870003A2BAC/$FILE/1-2011%20SPORTING%20REGULATIONS%2008-03-2011.pdf)

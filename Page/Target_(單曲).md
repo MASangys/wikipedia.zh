@@ -37,9 +37,6 @@
 
 ## 參考資料
 
-[Category:T-ara歌曲](https://zh.wikipedia.org/wiki/Category:T-ara歌曲 "wikilink")
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:2013年歌曲](https://zh.wikipedia.org/wiki/Category:2013年歌曲 "wikilink")
-[Category:日語歌曲](https://zh.wikipedia.org/wiki/Category:日語歌曲 "wikilink")
+[Category:T-ara歌曲](https://zh.wikipedia.org/wiki/Category:T-ara歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:2013年歌曲](https://zh.wikipedia.org/wiki/Category:2013年歌曲 "wikilink") [Category:日語歌曲](https://zh.wikipedia.org/wiki/Category:日語歌曲 "wikilink")
 
 1.

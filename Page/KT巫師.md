@@ -20,5 +20,4 @@
 
 [Category:韓國職棒球隊](https://zh.wikipedia.org/wiki/Category:韓國職棒球隊 "wikilink")
 
-[Category:紀錄模板](https://zh.wikipedia.org/wiki/Category:紀錄模板 "wikilink")
-[Category:韓國職棒](https://zh.wikipedia.org/wiki/Category:韓國職棒 "wikilink")
+[Category:紀錄模板](https://zh.wikipedia.org/wiki/Category:紀錄模板 "wikilink") [Category:韓國職棒](https://zh.wikipedia.org/wiki/Category:韓國職棒 "wikilink")

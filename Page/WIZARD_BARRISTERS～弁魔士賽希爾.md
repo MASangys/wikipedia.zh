@@ -2,17 +2,11 @@
 
 ## 概要
 
-在2013年播放籌備多年的原創動畫作品《[伽利略少女](../Page/伽利略少女.md "wikilink")》的監督梅津泰臣，於2013年8月10日起舉辦為期三天的活動「COMIC
-MARKET 84」上宣佈要在2014年推出新作動畫《ウィザード・バリスターズ～弁魔士セシル（WIZARD
-BARRISTERS～弁魔士セシル）》，相關的動畫網站與宣傳影像也隨之公開。
+在2013年播放籌備多年的原創動畫作品《[伽利略少女](../Page/伽利略少女.md "wikilink")》的監督梅津泰臣，於2013年8月10日起舉辦為期三天的活動「COMIC MARKET 84」上宣佈要在2014年推出新作動畫《ウィザード・バリスターズ～弁魔士セシル（WIZARD BARRISTERS～弁魔士セシル）》，相關的動畫網站與宣傳影像也隨之公開。
 
-動畫《伽利略少女》的監督 梅津泰臣 於2013年年中的「[COMIC
-MARKET](https://zh.wikipedia.org/wiki/COMIC_MARKET "wikilink")
-84」上宣佈將推出全新作的原創動畫作品《WIZARD
-BARRISTERS～弁魔士賽希爾》，其相關的動畫網站近期公開了PV第三彈宣傳影像。
+動畫《伽利略少女》的監督 梅津泰臣 於2013年年中的「[COMIC MARKET](https://zh.wikipedia.org/wiki/COMIC_MARKET "wikilink") 84」上宣佈將推出全新作的原創動畫作品《WIZARD BARRISTERS～弁魔士賽希爾》，其相關的動畫網站近期公開了PV第三彈宣傳影像。
 
-動畫《WIZARD BARRISTERS～弁魔士賽希爾》確定2014年1月12日起於日本地區「TOKYO
-MX」等各電視台開始播出。相關的主題曲分別由Lia與為劇中角色配音的聲優田邊留依主唱。
+動畫《WIZARD BARRISTERS～弁魔士賽希爾》確定2014年1月12日起於日本地區「TOKYO MX」等各電視台開始播出。相關的主題曲分別由Lia與為劇中角色配音的聲優田邊留依主唱。
 
 ## 故事簡介
 
@@ -566,13 +560,7 @@ Chang Bum Chul、Lee Ju Hak</p></td>
   - [《-{辯魔師}-》TVB官方網站](http://programme.tvb.com/animation/wizardbarristers)
 
   -
-[Category:Arms](https://zh.wikipedia.org/wiki/Category:Arms "wikilink")
-[Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink")
-[Category:法律題材作品](https://zh.wikipedia.org/wiki/Category:法律題材作品 "wikilink")
-[Category:魔法題材動畫](https://zh.wikipedia.org/wiki/Category:魔法題材動畫 "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[Category:Arms](https://zh.wikipedia.org/wiki/Category:Arms "wikilink") [Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink") [Category:法律題材作品](https://zh.wikipedia.org/wiki/Category:法律題材作品 "wikilink") [Category:魔法題材動畫](https://zh.wikipedia.org/wiki/Category:魔法題材動畫 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
 
 1.  標題以播放時所顯示的字幕為準。
 2.  [台灣Animax臉書](https://www.facebook.com/AnimaxTW/photos/a.267985482120.147173.267961307120/10152605106352121/?type=3&theater)，2016/12/27閱覽。

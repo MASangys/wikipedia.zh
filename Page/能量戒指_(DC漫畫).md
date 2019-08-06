@@ -24,8 +24,7 @@
 
 這能力可以用作於攻擊、防禦或者攫取物體等，如果有必要戒指也會自動產生，並遠端操控來因應緊急情況。
 
-  -   - 力場建構（Force field
-        generation），是一種防護罩，其強度取決於使用者的意志力，用來將穿戴者與像外太空這樣的嚴苛環境隔離開來，提供一個能讓使用者呼吸無虞的環境。
+  -   - 力場建構（Force field generation），是一種防護罩，其強度取決於使用者的意志力，用來將穿戴者與像外太空這樣的嚴苛環境隔離開來，提供一個能讓使用者呼吸無虞的環境。
 
 跟以前的版本不同，綠光戒指現在不自動保護穿戴者免於傷害，而是要有意識地執行才可以，依照以前的設定，當穿戴者失去意識時會自動產生力場保護。
 
@@ -176,8 +175,7 @@ Green Lantern's light\!
 
 <!-- end list -->
 
-  - \-{zh-hans:白晝朗朗;
-    zh-hant:白晝朗朗}-，黑夜茫茫，魑魅魍魎，無所遁藏。邪徒奸黨，懼吾神光，綠燈長明，萬世光芒！——《[蝙蝠侠：英勇无畏](https://zh.wikipedia.org/wiki/蝙蝠侠：英勇无畏 "wikilink")》第十集
+  - \-{zh-hans:白晝朗朗; zh-hant:白晝朗朗}-，黑夜茫茫，魑魅魍魎，無所遁藏。邪徒奸黨，懼吾神光，綠燈長明，萬世光芒！——《[蝙蝠侠：英勇无畏](https://zh.wikipedia.org/wiki/蝙蝠侠：英勇无畏 "wikilink")》第十集
 
 ## 其他色光軍團
 
@@ -261,8 +259,7 @@ Not yours\!
 
 後來更和哈爾展開決戰而敗，之後戒指便被基格沃格破壞，而聖納托也被囚禁起來。
 
-在[蓋伊·加德納被](https://zh.wikipedia.org/wiki/蓋伊·加德納 "wikilink")[百烈煞](../Page/百烈煞.md "wikilink")擊倒後，聖納托穿著新的黃光戰衣，並撤退到反物質宇宙，之後歷經一年的時間打造了他的聖納托軍團\[5\]
-。
+在[蓋伊·加德納被](https://zh.wikipedia.org/wiki/蓋伊·加德納 "wikilink")[百烈煞](../Page/百烈煞.md "wikilink")擊倒後，聖納托穿著新的黃光戰衣，並撤退到反物質宇宙，之後歷經一年的時間打造了他的聖納托軍團\[5\] 。
 
 [聖納托軍團首領為](https://zh.wikipedia.org/wiki/聖納托軍團 "wikilink")[聖納托](https://zh.wikipedia.org/wiki/聖納托 "wikilink")
 
@@ -482,10 +479,7 @@ A new dawn comes——LET THERE BE LIGHT\!
 
   - [Power ring](http://dc.wikia.com/wiki/Power_Ring)
 
-[Category:DC漫画物品](https://zh.wikipedia.org/wiki/Category:DC漫画物品 "wikilink")
-[Category:虛構兵器](https://zh.wikipedia.org/wiki/Category:虛構兵器 "wikilink")
-[Category:綠燈俠](https://zh.wikipedia.org/wiki/Category:綠燈俠 "wikilink")
-[Category:戒指](https://zh.wikipedia.org/wiki/Category:戒指 "wikilink")
+[Category:DC漫画物品](https://zh.wikipedia.org/wiki/Category:DC漫画物品 "wikilink") [Category:虛構兵器](https://zh.wikipedia.org/wiki/Category:虛構兵器 "wikilink") [Category:綠燈俠](https://zh.wikipedia.org/wiki/Category:綠燈俠 "wikilink") [Category:戒指](https://zh.wikipedia.org/wiki/Category:戒指 "wikilink")
 
 1.
 2.  *Green Lantern* (vol. 4) \#12 (July 2006)
@@ -495,13 +489,7 @@ A new dawn comes——LET THERE BE LIGHT\!
 6.  *Green Lantern* (vol. 4) \#18 (May 2007)
 7.  *Green Lantern* (vol. 4) \#20 (June 2007)
 8.  *Green Lantern* (vol. 4) \#36 (January 2009)
-9.  [The Eve of Blackest Night: Geoff Johns
-    on...Everything](http://www.newsarama.com/comics/070903-Geoff-BN.html),
-    [Newsarama](https://zh.wikipedia.org/wiki/Newsarama "wikilink"),
-    July 3, 2009
-10. [Ethan Van Sciver - Behind the Lanterns'
-    Looks](http://newsarama.com/comics/040925-EVS-BlackestNight2.html),
-    [Newsarama](https://zh.wikipedia.org/wiki/Newsarama "wikilink"),
-    April 25, 2009
+9.  [The Eve of Blackest Night: Geoff Johns on...Everything](http://www.newsarama.com/comics/070903-Geoff-BN.html), [Newsarama](https://zh.wikipedia.org/wiki/Newsarama "wikilink"), July 3, 2009
+10. [Ethan Van Sciver - Behind the Lanterns' Looks](http://newsarama.com/comics/040925-EVS-BlackestNight2.html), [Newsarama](https://zh.wikipedia.org/wiki/Newsarama "wikilink"), April 25, 2009
 11. *Green Lantern* (vol. 4) \#46 (September 2009)
 12. *Green Lantern* (vol. 4) \#19 (June 2007)

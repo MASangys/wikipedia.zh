@@ -8,10 +8,7 @@
 
   - **註：以下時間皆為日本時間（[JST](https://zh.wikipedia.org/wiki/JST "wikilink")）**
 
-2009年10月9日，[日本放送](../Page/日本放送.md "wikilink")在每週星期五24:20至24:30的10分鐘節目開始。2010年4月9日（第27集）開始，延長為24:20至24:40的20分鐘節目。2011年10月7日，因應《[土田晃之](../Page/土田晃之.md "wikilink")的FOOTBALLER'S
-HIGH》結束，此節目移動到每週星期五24:40至25:00播出。2014年1月5日，與《[剛力彩芽](../Page/剛力彩芽.md "wikilink")
-スマイル S2
-スマイル》節目交換時段，移至每週六凌晨00:00至0:20\[2\]，並於同年的4月6日起，移至每週日的晚間22:30，亦擴大為30分鐘\[3\]。
+2009年10月9日，[日本放送](../Page/日本放送.md "wikilink")在每週星期五24:20至24:30的10分鐘節目開始。2010年4月9日（第27集）開始，延長為24:20至24:40的20分鐘節目。2011年10月7日，因應《[土田晃之](../Page/土田晃之.md "wikilink")的FOOTBALLER'S HIGH》結束，此節目移動到每週星期五24:40至25:00播出。2014年1月5日，與《[剛力彩芽](../Page/剛力彩芽.md "wikilink") スマイル S2 スマイル》節目交換時段，移至每週六凌晨00:00至0:20\[2\]，並於同年的4月6日起，移至每週日的晚間22:30，亦擴大為30分鐘\[3\]。
 
 2016年5月15日，[no3b三人在節目中表示節目全部改版](https://zh.wikipedia.org/wiki/no3b "wikilink")，並於5月22日起播出新單元\[4\]。
 
@@ -43,8 +40,7 @@ HIGH》結束，此節目移動到每週星期五24:40至25:00播出。2014年1�
 ## 節目音樂
 
   - 開場曲：no3b《[種子](../Page/種子_\(no3b單曲\).md "wikilink")》
-  - 結尾曲：[艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink")《[Keep Holding
-    On](https://zh.wikipedia.org/wiki/美麗壞東西 "wikilink")》
+  - 結尾曲：[艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink")《[Keep Holding On](https://zh.wikipedia.org/wiki/美麗壞東西 "wikilink")》
 
 （以上在2016年5月22日已廢止）
 
@@ -63,11 +59,9 @@ HIGH》結束，此節目移動到每週星期五24:40至25:00播出。2014年1�
   - [ノースリーブスの「週刊ノースリー部」](http://www.allnightnippon.com/program/no3b/)（日本放送）
   - [ノースリーブス公式サイト](http://www.no3b.net/)（Epic Records Japan）
 
-[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:日本放送的广播节目](https://zh.wikipedia.org/wiki/Category:日本放送的广播节目 "wikilink")
+[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:日本放送的广播节目](https://zh.wikipedia.org/wiki/Category:日本放送的广播节目 "wikilink")
 
 1.  [公式サイト](http://www.allnightnippon.com/program/no3b/)
 2.  [2014 新春特別プログラムのご案内](http://www.1242.com/2013_2014/?03)
 3.  放送時間が20分から30分に拡大！！！[1](http://www.allnightnippon.com/program/no3b/2014/04/22709.html)
-4.  [2016年5月22日](http://www.allnightnippon.com/program/no3b/2016/05/46546.html)
-    番組公式サイト
+4.  [2016年5月22日](http://www.allnightnippon.com/program/no3b/2016/05/46546.html) 番組公式サイト

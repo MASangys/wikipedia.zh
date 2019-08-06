@@ -1,5 +1,4 @@
-《**BUDDY
-COMPLEX**》（），是[日本](../Page/日本.md "wikilink")的[日昇動畫](../Page/日昇動畫.md "wikilink")於2014年製作的原創機械人動畫。
+《**BUDDY COMPLEX**》（），是[日本](../Page/日本.md "wikilink")的[日昇動畫](../Page/日昇動畫.md "wikilink")於2014年製作的原創機械人動畫。
 
 《**BUDDY COMPLEX 完結篇 ―回到那片天空的未來―**》（）將分為前後兩篇，並於同年9月末順序播放。
 
@@ -33,8 +32,7 @@ COMPLEX**》（），是[日本](../Page/日本.md "wikilink")的[日昇動畫](
         青葉的同學，4月轉學進誠應高中的歸國子女，鮮少與人交談，周遭的人都有發現她在關注青葉。
         其真實身份是來自2088年的Valiancer駕駛者，因從2088年的青葉口中得知他將於2014年遭暗殺，而駕駛其機體來到此時空秘密保護青葉。打敗襲擊青葉的Valiancer後因該駕駛強制纏住並準備自爆，迫不得已連帶青葉穿越特異點回到2088年，但於轉移過程中消失不知去向。於第十三話判明弓原雛與雛·里亞贊為同一人。在穿越特異點並將青葉送至2088年後，自己卻返回至比2088年較前的時間點。因特異點的影響，身型變成幼兒且所有失去記憶，並出現在東歐克羅地亞首都[薩格勒布戰場的廢墟](https://zh.wikipedia.org/wiki/薩格勒布 "wikilink")，其後被比克多魯·里亞贊收養。
         實際上是最初在大學時與青葉相遇，並成為戀人。其後在最初的聯結實驗後穿越至70年後的未來，而過著本編的青葉幾乎過著同樣的人生。其後在阿拉斯加基地攻防戰中回到過去，並守護青葉以免遭到野牛的襲擊，由此時開始不斷轮回。
-        第十三話被野牛強制聯結與青葉等人發生戰鬥，其後在戰鬥的尾聲解除洗腦狀態並與青葉進行聯結。聯結後成功扺擋Gala
-        Gushka的第二次發射，同時亦因爆炸的能量而打開了特異點，在野牛的機體被吸入特異點的同時，自己亦想起了在荒島所聽到的青葉的說話，深信自己需要保護過去的青葉免受野牛襲擊，於是進入特異點。可是，知道她的命運的青葉與迪奧卻幫助其脫離特異點的引力，並於特異點消失、佐基利亞軍退走後把其帶回至Cygnus。
+        第十三話被野牛強制聯結與青葉等人發生戰鬥，其後在戰鬥的尾聲解除洗腦狀態並與青葉進行聯結。聯結後成功扺擋Gala Gushka的第二次發射，同時亦因爆炸的能量而打開了特異點，在野牛的機體被吸入特異點的同時，自己亦想起了在荒島所聽到的青葉的說話，深信自己需要保護過去的青葉免受野牛襲擊，於是進入特異點。可是，知道她的命運的青葉與迪奧卻幫助其脫離特異點的引力，並於特異點消失、佐基利亞軍退走後把其帶回至Cygnus。
         在被青叶和隼鷹解除无限時空循环后，跟随青叶乘坐Cygnus参与最后太空战。在與野牛決戰後，與青葉一同進入特異點回到原本的時代(雏回到实验室看到伏在床边的青叶嫣然一笑，结束了时空穿越)。
 
 :;
@@ -513,8 +511,7 @@ COMPLEX**》（），是[日本](../Page/日本.md "wikilink")的[日昇動畫](
   -
 
       -
-        作詞：[唐澤美帆](../Page/唐澤美帆.md "wikilink")，作曲：fandelmale（Arte
-        Refact），編曲：酒井拓也（Arte Refact），主唱：TRUE
+        作詞：[唐澤美帆](../Page/唐澤美帆.md "wikilink")，作曲：fandelmale（Arte Refact），編曲：酒井拓也（Arte Refact），主唱：TRUE
         第4、13話並沒有使用OP。
 
 <!-- end list -->
@@ -526,8 +523,7 @@ COMPLEX**》（），是[日本](../Page/日本.md "wikilink")的[日昇動畫](
   -
 
       -
-        作詞：，作曲、編曲：（Arte
-        Refact），主唱：[ChouCho](../Page/ChouCho.md "wikilink")
+        作詞：，作曲、編曲：（Arte Refact），主唱：[ChouCho](../Page/ChouCho.md "wikilink")
 
 <!-- end list -->
 
@@ -983,15 +979,7 @@ LACM-14272（通常版）</p></td>
 
   - [爱奇艺中文播放专区](http://www.iqiyi.com/a_19rrgje7o1.html)
 
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
-[Category:Animeism](https://zh.wikipedia.org/wiki/Category:Animeism "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:時間旅行題材作品](https://zh.wikipedia.org/wiki/Category:時間旅行題材作品 "wikilink")
-[Category:電擊魔王](https://zh.wikipedia.org/wiki/Category:電擊魔王 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:Animeism](https://zh.wikipedia.org/wiki/Category:Animeism "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:時間旅行題材作品](https://zh.wikipedia.org/wiki/Category:時間旅行題材作品 "wikilink") [Category:電擊魔王](https://zh.wikipedia.org/wiki/Category:電擊魔王 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 2.  動畫第十一話

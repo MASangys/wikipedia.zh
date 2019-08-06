@@ -21,10 +21,6 @@ TGM3型柴油机车的整备重量为68吨。机车轮周牵引功率为500马�
 
 ## 外部链接
 
-  - [1520mm.ru: Тепловоз
-    ТГМ3](http://www.1520mm.ru/locomotives/diesel/shunting/tgm3.phtml)
+  - [1520mm.ru: Тепловоз ТГМ3](http://www.1520mm.ru/locomotives/diesel/shunting/tgm3.phtml)
 
-[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink")
-[Category:B-B軸式機車](https://zh.wikipedia.org/wiki/Category:B-B軸式機車 "wikilink")
-[Category:柳季诺沃制铁路机车](https://zh.wikipedia.org/wiki/Category:柳季诺沃制铁路机车 "wikilink")
-[Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")
+[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:B-B軸式機車](https://zh.wikipedia.org/wiki/Category:B-B軸式機車 "wikilink") [Category:柳季诺沃制铁路机车](https://zh.wikipedia.org/wiki/Category:柳季诺沃制铁路机车 "wikilink") [Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")

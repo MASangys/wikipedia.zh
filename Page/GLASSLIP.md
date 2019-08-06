@@ -1,12 +1,10 @@
-，是由[P.A.
-Works製作的日本電視動畫](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，2014年7月開始播出\[1\]\[2\]。
+，是由[P.A. Works製作的日本電視動畫](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，2014年7月開始播出\[1\]\[2\]。
 
 2014年3月20日公開主視覺圖和宣傳影片\[3\]，4月3日公布配音陣容\[4\]。
 
 ## 概要
 
-作品是由[P.A.
-Works製作的原創電視動畫](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")。以[福井縣](../Page/福井縣.md "wikilink")[坂井市](../Page/坂井市.md "wikilink")周邊區域為範本設計出的都市「日乃出濱」為舞台，描寫6名高中生的青春故事\[5\]。
+作品是由[P.A. Works製作的原創電視動畫](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")。以[福井縣](../Page/福井縣.md "wikilink")[坂井市](../Page/坂井市.md "wikilink")周邊區域為範本設計出的都市「日乃出濱」為舞台，描寫6名高中生的青春故事\[5\]。
 
 ## 登場角色
 
@@ -111,8 +109,7 @@ Works製作的原創電視動畫](https://zh.wikipedia.org/wiki/P.A._Works "wiki
   - 執行製作人：福場一義、[齋藤滋](../Page/齋藤滋.md "wikilink")、難波秀行、臼井久人、松永芳幸
   - 製片人：大島靖、岡村武真、和田洋介、吉江輝成、山崎史紀、[堀川憲司](../Page/堀川憲司.md "wikilink")
   - 企劃製作：永谷敬之
-  - 動畫製作：[P.A.
-    Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")
+  - 動畫製作：[P.A. Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")
   - 製作：glasslip project
 
 ## 主題曲
@@ -385,10 +382,7 @@ Works製作的原創電視動畫](https://zh.wikipedia.org/wiki/P.A._Works "wiki
   - [GLASSLIP官網](http://glasslip.jp/)
 
   -
-[Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
-[Category:福井縣背景作品](https://zh.wikipedia.org/wiki/Category:福井縣背景作品 "wikilink")
+[Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:福井縣背景作品](https://zh.wikipedia.org/wiki/Category:福井縣背景作品 "wikilink")
 
 1.
 2.

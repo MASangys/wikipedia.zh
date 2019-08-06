@@ -22,14 +22,11 @@ XVideos是一个色情视频分享网站，它是一个类似于[YouTube](../Pag
 
 ### 韩国
 
-2019 年 2 月 11
-日起，韩国政府以“打击非法色情，保护青少年健康成长”等理由，XVideos等色情网站在韩国被封锁，采用了SNI阻断技术。目前网站仍未解封。
+2019 年 2 月 11 日起，韩国政府以“打击非法色情，保护青少年健康成长”等理由，XVideos等色情网站在韩国被封锁，采用了SNI阻断技术。目前网站仍未解封。
 
 ### 菲律賓
 
-2017 年 1 月 14 日起，由於 9775
-號法案的生效（亦稱作「反兒童色情法」），總統[羅德里戈·杜特蒂下令封鎖了](../Page/罗德里戈·杜特尔特.md "wikilink")
-XVideos。
+2017 年 1 月 14 日起，由於 9775 號法案的生效（亦稱作「反兒童色情法」），總統[羅德里戈·杜特蒂下令封鎖了](../Page/罗德里戈·杜特尔特.md "wikilink") XVideos。
 
 ### 委內瑞拉
 
@@ -41,9 +38,6 @@ XVideos。
 
   - [RedTube](../Page/RedTube.md "wikilink")
 
-[Category:1997年建立的网站](https://zh.wikipedia.org/wiki/Category:1997年建立的网站 "wikilink")
-[Category:美國色情](https://zh.wikipedia.org/wiki/Category:美國色情 "wikilink")
-[Category:情色與色情網站](https://zh.wikipedia.org/wiki/Category:情色與色情網站 "wikilink")
-[Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink")
+[Category:1997年建立的网站](https://zh.wikipedia.org/wiki/Category:1997年建立的网站 "wikilink") [Category:美國色情](https://zh.wikipedia.org/wiki/Category:美國色情 "wikilink") [Category:情色與色情網站](https://zh.wikipedia.org/wiki/Category:情色與色情網站 "wikilink") [Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink")
 
 1.

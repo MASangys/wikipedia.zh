@@ -1,8 +1,6 @@
-**OPPO Find
-7**是一款由[OPPO](../Page/OPPO.md "wikilink")公司研製的[Android](../Page/Android.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，為第一支採用了2K解析度螢幕的智慧型手機。
+**OPPO Find 7**是一款由[OPPO](../Page/OPPO.md "wikilink")公司研製的[Android](../Page/Android.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，為第一支採用了2K解析度螢幕的智慧型手機。
 
-在中國，共有標準版(內部代號為**X9077**)、輕裝版(內部代號為**X9007**)。在海外，共有兩種版本，分別是 OPPO Find
-7(內部代號為**X9076**、OPPO Find 7a(內部代號為**X9006**)。
+在中國，共有標準版(內部代號為**X9077**)、輕裝版(內部代號為**X9007**)。在海外，共有兩種版本，分別是 OPPO Find 7(內部代號為**X9076**、OPPO Find 7a(內部代號為**X9006**)。
 
 ## 規格
 
@@ -39,15 +37,11 @@ OPPO Find 7 共計有兩種版本，分別為標準版(Find 7)、輕裝版(Find 
 
 ## 参考文献
 
-[OPPO Find 7
-標準版](https://web.archive.org/web/20170616143825/http://www.opposhop.cn/products/106#tab-params)
-[OPPO Find 7
-輕裝版](https://web.archive.org/web/20170101200914/http://www.opposhop.cn/products/104.html)
+[OPPO Find 7 標準版](https://web.archive.org/web/20170616143825/http://www.opposhop.cn/products/106#tab-params)
+[OPPO Find 7 輕裝版](https://web.archive.org/web/20170101200914/http://www.opposhop.cn/products/104.html)
 
 ## 参见
 
   - [Android](../Page/Android.md "wikilink")
 
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:OPPO](https://zh.wikipedia.org/wiki/Category:OPPO "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
+[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:OPPO](https://zh.wikipedia.org/wiki/Category:OPPO "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")

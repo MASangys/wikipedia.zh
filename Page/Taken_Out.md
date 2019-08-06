@@ -1,6 +1,4 @@
-《**Taken
-Out**》是一档[澳大利亚](../Page/澳大利亚.md "wikilink")婚恋交友[真人秀节目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")，于2008年9月1日到2009年2月26日在[Network
-Ten播出](https://zh.wikipedia.org/wiki/Network_Ten "wikilink")，该节目模式由开发，由詹姆斯·克利主持。
+《**Taken Out**》是一档[澳大利亚](../Page/澳大利亚.md "wikilink")婚恋交友[真人秀节目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")，于2008年9月1日到2009年2月26日在[Network Ten播出](https://zh.wikipedia.org/wiki/Network_Ten "wikilink")，该节目模式由开发，由詹姆斯·克利主持。
 
 ## 简介
 
@@ -204,7 +202,5 @@ Ten播出](https://zh.wikipedia.org/wiki/Network_Ten "wikilink")，该节目模�
   -
 [Category:澳洲电视节目](https://zh.wikipedia.org/wiki/Category:澳洲电视节目 "wikilink")
 
-1.  [Fox orders Take Me Out | News |
-    Broadcast](http://www.broadcastnow.co.uk/news/fox-orders-take-me-qout/5040149.article?blocktitle=LATEST-NEWS&contentID=870)
-2.  [BBC - Newsbeat - Dating show Take Me Out to get US version on Fox
-    network](http://www.bbc.co.uk/newsbeat/17597827)
+1.  [Fox orders Take Me Out | News | Broadcast](http://www.broadcastnow.co.uk/news/fox-orders-take-me-qout/5040149.article?blocktitle=LATEST-NEWS&contentID=870)
+2.  [BBC - Newsbeat - Dating show Take Me Out to get US version on Fox network](http://www.bbc.co.uk/newsbeat/17597827)

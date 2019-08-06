@@ -1,9 +1,4 @@
-，為日本[TBS電視台](../Page/TBS電視台.md "wikilink")自2014年3月22日起至3月23日播出的特別連續劇。由[佐藤浩市](../Page/佐藤浩市.md "wikilink")領銜主演。全劇共2集，播出時間為21:00
--
-23:23。台灣[緯來日本台](../Page/緯來日本台.md "wikilink")將本劇分為5集，2014年9月1日至5日止，每晚11點30分播出，因有[丰田汽车](../Page/丰田汽车.md "wikilink")冠名贊助，故劇名為《TOYOTA劇場
-領導者們》。香港[無綫網絡電視播出時間為](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")2014年9月7日至14日，同樣受到[丰田汽车](../Page/丰田汽车.md "wikilink")的冠名贊助。2017年3月20日播出的為前作之4小時剪輯版。
-特別篇續作2017年3月26日播出\[1\]。台灣[緯來日本台](../Page/緯來日本台.md "wikilink")將本劇分為2集，2017年4月7日至8日晚間9點播出，本劇與前作一樣由[豐田汽車冠名贊助](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")，劇名為《TOYOTA劇場
-領導者們II》。
+，為日本[TBS電視台](../Page/TBS電視台.md "wikilink")自2014年3月22日起至3月23日播出的特別連續劇。由[佐藤浩市](../Page/佐藤浩市.md "wikilink")領銜主演。全劇共2集，播出時間為21:00 - 23:23。台灣[緯來日本台](../Page/緯來日本台.md "wikilink")將本劇分為5集，2014年9月1日至5日止，每晚11點30分播出，因有[丰田汽车](../Page/丰田汽车.md "wikilink")冠名贊助，故劇名為《TOYOTA劇場 領導者們》。香港[無綫網絡電視播出時間為](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")2014年9月7日至14日，同樣受到[丰田汽车](../Page/丰田汽车.md "wikilink")的冠名贊助。2017年3月20日播出的為前作之4小時剪輯版。 特別篇續作2017年3月26日播出\[1\]。台灣[緯來日本台](../Page/緯來日本台.md "wikilink")將本劇分為2集，2017年4月7日至8日晚間9點播出，本劇與前作一樣由[豐田汽車冠名贊助](https://zh.wikipedia.org/wiki/豐田汽車 "wikilink")，劇名為《TOYOTA劇場 領導者們II》。
 
 ## 劇情概要
 
@@ -73,8 +68,7 @@
 
 <!-- end list -->
 
-  - 菊間武二郎【菊池武三郎】（第二部）：
-    [大泉洋](../Page/大泉洋.md "wikilink")（特別演出）（香港配音：[陳欣](../Page/陳欣_\(配音員\).md "wikilink")）
+  - 菊間武二郎【菊池武三郎】（第二部）： [大泉洋](../Page/大泉洋.md "wikilink")（特別演出）（香港配音：[陳欣](../Page/陳欣_\(配音員\).md "wikilink")）
 
 <!-- end list -->
 
@@ -377,8 +371,7 @@
 
 ## 取景地
 
-  - 尤尼吉可（Unitika
-    Limited，總部位於兵庫縣尼崎市的綜合企業公司）豐橋事業所<ref name="chuunichi 20140322">
+  - 尤尼吉可（Unitika Limited，總部位於兵庫縣尼崎市的綜合企業公司）豐橋事業所<ref name="chuunichi 20140322">
 
 </ref>
 
@@ -397,31 +390,18 @@
 
   - [LEADERS－TBS官方網站](http://www.tbs.co.jp/LEADERS2014/)
   - [LEADERS II－TBS官方網站](http://www.tbs.co.jp/LEADERS2017/)
-  - [TOYOTA劇場
-    領導者們－緯來日本台官方網站](http://japan.videoland.com.tw/channel/20140801/default.htm)
-  - [TOYOTA劇場
-    領導者們II－緯來日本台官方網站](http://japan.videoland.com.tw/channel/LEADERS2017/)
+  - [TOYOTA劇場 領導者們－緯來日本台官方網站](http://japan.videoland.com.tw/channel/20140801/default.htm)
+  - [TOYOTA劇場 領導者們II－緯來日本台官方網站](http://japan.videoland.com.tw/channel/LEADERS2017/)
 
 ## 節目的變遷
 
-[Category:TBS特別劇集](https://zh.wikipedia.org/wiki/Category:TBS特別劇集 "wikilink")
-[Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:書籍改編電視節目](https://zh.wikipedia.org/wiki/Category:書籍改編電視節目 "wikilink")
-[Category:豐田汽車](https://zh.wikipedia.org/wiki/Category:豐田汽車 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:愛知縣背景作品](https://zh.wikipedia.org/wiki/Category:愛知縣背景作品 "wikilink")
-[Category:昭和時代背景作品](https://zh.wikipedia.org/wiki/Category:昭和時代背景作品 "wikilink")
-[Category:汽车电视节目](https://zh.wikipedia.org/wiki/Category:汽车电视节目 "wikilink")
-[Category:2017年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年日本電視劇集 "wikilink")
+[Category:TBS特別劇集](https://zh.wikipedia.org/wiki/Category:TBS特別劇集 "wikilink") [Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:書籍改編電視節目](https://zh.wikipedia.org/wiki/Category:書籍改編電視節目 "wikilink") [Category:豐田汽車](https://zh.wikipedia.org/wiki/Category:豐田汽車 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:愛知縣背景作品](https://zh.wikipedia.org/wiki/Category:愛知縣背景作品 "wikilink") [Category:昭和時代背景作品](https://zh.wikipedia.org/wiki/Category:昭和時代背景作品 "wikilink") [Category:汽车电视节目](https://zh.wikipedia.org/wiki/Category:汽车电视节目 "wikilink") [Category:2017年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2017年日本電視劇集 "wikilink")
 
 1.
 
 2.  「[TVステーション](https://zh.wikipedia.org/wiki/TVステーション "wikilink")」2014年7号（[ダイヤモンド社](https://zh.wikipedia.org/wiki/ダイヤモンド社 "wikilink")）34頁
 
-3.  [緯來日本台－TOYOTA劇場
-    領導者們](http://japan.videoland.com.tw/channel/20140801/introduction.asp)
+3.  [緯來日本台－TOYOTA劇場 領導者們](http://japan.videoland.com.tw/channel/20140801/introduction.asp)
 
 4.
 

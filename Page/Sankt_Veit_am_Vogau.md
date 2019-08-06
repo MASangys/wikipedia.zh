@@ -1,5 +1,4 @@
-**Sankt Veit am
-Vogau**（德语：）是[奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[施蒂利亚州](https://zh.wikipedia.org/wiki/施蒂利亚州 "wikilink")[莱布尼茨县的一个](https://zh.wikipedia.org/wiki/莱布尼茨县 "wikilink")[市镇](../Page/市镇_\(奥地利\).md "wikilink")。总面积25.9平方公里，总人口1844人，人口密度71.2人/平方公里（2005年）。
+**Sankt Veit am Vogau**（德语：）是[奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[施蒂利亚州](https://zh.wikipedia.org/wiki/施蒂利亚州 "wikilink")[莱布尼茨县的一个](https://zh.wikipedia.org/wiki/莱布尼茨县 "wikilink")[市镇](../Page/市镇_\(奥地利\).md "wikilink")。总面积25.9平方公里，总人口1844人，人口密度71.2人/平方公里（2005年）。
 
 ## 参见
 

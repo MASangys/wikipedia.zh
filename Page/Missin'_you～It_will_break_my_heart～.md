@@ -1,5 +1,4 @@
-《**Missin' you～It will break my
-heart～**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第14張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2002年1月30日發行。
+《**Missin' you～It will break my heart～**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第14張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2002年1月30日發行。
 
 ## 概述
 
@@ -24,6 +23,4 @@ heart～**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Pa
   - [Sony Music的作品介紹](../Page/索尼音樂娛樂.md "wikilink")
       - [通常盤](http://www.sonymusic.co.jp/artist/KenHirai/discography/DFCL-1057)
 
-[Category:2002年單曲](https://zh.wikipedia.org/wiki/Category:2002年單曲 "wikilink")
-[Category:平井堅歌曲](https://zh.wikipedia.org/wiki/Category:平井堅歌曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
+[Category:2002年單曲](https://zh.wikipedia.org/wiki/Category:2002年單曲 "wikilink") [Category:平井堅歌曲](https://zh.wikipedia.org/wiki/Category:平井堅歌曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")

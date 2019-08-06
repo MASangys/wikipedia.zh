@@ -1,19 +1,12 @@
-《**SHOW
-TIME**》是[日本](../Page/日本.md "wikilink")[音乐团体](https://zh.wikipedia.org/wiki/音乐团体 "wikilink")[AAA的第](https://zh.wikipedia.org/wiki/AAA_\(团体\) "wikilink")40张[单曲](../Page/单曲.md "wikilink")，於2014年3月26日由[avex
-trax发售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
+《**SHOW TIME**》是[日本](../Page/日本.md "wikilink")[音乐团体](https://zh.wikipedia.org/wiki/音乐团体 "wikilink")[AAA的第](https://zh.wikipedia.org/wiki/AAA_\(团体\) "wikilink")40张[单曲](../Page/单曲.md "wikilink")，於2014年3月26日由[avex trax发售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
   - 《SHOW TIME》以全新的邂逅、情緣、起點為主題，要傳達給所有即將踏上新生活的人們，是眾所期待已久的舞曲。
   - 有別於以往的單曲，此單曲是〈AAA Party〉限量盤，只發行於AAA的歌迷，並不作公開發行。
-  - 此單曲有2個版本，分別有「CD+DVD+BOOK（Jacket A）」和「CD ONLY（Jacket
-    B）」。「CD+DVD（Jacket A）」收錄了《SHOW TIME》的PV和Making，以及活動《AAA
-    NEW YEAR PARTY 2014》的Making。
-  - 「CD+DVD+BOOK（Jacket A）」附有一本36頁的相集《AAA Party會報誌 特別篇》，除了收錄《SHOW
-    TIME》的Making照片外，此相集更收錄了上年年末《[第55屆日本唱片大獎](../Page/日本唱片大獎.md "wikilink")》和《[第64回NHK紅白歌合戰](../Page/第64回NHK紅白歌合戰.md "wikilink")》的照片。
-  - B面曲《CIRCLE》收錄在AAA於10月1日發行的原創專輯《[GOLD
-    SYMPHONY](../Page/GOLD_SYMPHONY.md "wikilink")》，而A面曲《SHOW
-    TIME》並沒有收錄於該原創專輯
+  - 此單曲有2個版本，分別有「CD+DVD+BOOK（Jacket A）」和「CD ONLY（Jacket B）」。「CD+DVD（Jacket A）」收錄了《SHOW TIME》的PV和Making，以及活動《AAA NEW YEAR PARTY 2014》的Making。
+  - 「CD+DVD+BOOK（Jacket A）」附有一本36頁的相集《AAA Party會報誌 特別篇》，除了收錄《SHOW TIME》的Making照片外，此相集更收錄了上年年末《[第55屆日本唱片大獎](../Page/日本唱片大獎.md "wikilink")》和《[第64回NHK紅白歌合戰](../Page/第64回NHK紅白歌合戰.md "wikilink")》的照片。
+  - B面曲《CIRCLE》收錄在AAA於10月1日發行的原創專輯《[GOLD SYMPHONY](../Page/GOLD_SYMPHONY.md "wikilink")》，而A面曲《SHOW TIME》並沒有收錄於該原創專輯
 
 ## 收錄内容
 
@@ -57,5 +50,4 @@ trax发售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 </noinclude>
 
-[Category:AAA歌曲](https://zh.wikipedia.org/wiki/Category:AAA歌曲 "wikilink")
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
+[Category:AAA歌曲](https://zh.wikipedia.org/wiki/Category:AAA歌曲 "wikilink") [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")

@@ -1,5 +1,10 @@
-《**Just Love
-It！公益演唱會**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")所舉辦的公益演唱會，首次於2012年3月3日於[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[國立台灣體育運動大學台中校址田徑場舉行](https://zh.wikipedia.org/wiki/國立台灣體育運動大學 "wikilink")。
+《**Just Love It！公益演唱會**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")所舉辦的公益演唱會，首次於2012年3月3日於[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[國立台灣體育運動大學台中校址田徑場舉行](https://zh.wikipedia.org/wiki/國立台灣體育運動大學 "wikilink")。
+
+## 背景
+
+2012年3月3日，五月天應[財團法人台灣兒童暨家庭扶助基金會](http://www.ccf.org.tw/)之邀，在[國立台灣體育運動大學台中校址田徑場舉辦](https://zh.wikipedia.org/wiki/國立台灣體育運動大學 "wikilink")「Just Love It！我不願讓你一個人」慈善售票演唱會。
+
+2014年7月27日，「Just Love It！『擁抱』公益演唱會」首場於[高雄巨蛋開唱](https://zh.wikipedia.org/wiki/高雄巨蛋 "wikilink")。該主題演唱會自2012至2014年已連續舉辦三年，2014年的捐贈金額也突破往年紀錄，捐出新台幣5694萬元及500多萬元的周邊商品所得，加上往年捐出總額逾1億1千萬元 \[1\]\[2\]\[3\]。而2014年8月8日於中興文創園區舉行的宜蘭場演唱會，主唱阿信鼓譟鼓手冠佑把捐款數字湊為整數5700萬元，隔天冠佑立即允諾並拍下捐款收據之照片作為證明 \[4\]。此外還有8月3日的北京場及8月5日的深圳場，也捐出兩場所得人民幣799萬（約新台幣3879萬）作為善款。
 
 ## 場次
 
@@ -99,7 +104,7 @@ It！公益演唱會**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikil
 <td><p><a href="../Page/臺北市.md" title="wikilink">臺北市</a></p></td>
 <td><p>台北市圓山廣場</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/宇宙人_(樂團)" title="wikilink">宇宙人</a><br />
-<a href="https://zh.wikipedia.org/wiki/家家" title="wikilink">家家</a> [1]</p></td>
+<a href="https://zh.wikipedia.org/wiki/家家" title="wikilink">家家</a> [5]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -194,7 +199,7 @@ Just Love It 從2012年舉辦至今，號召樂迷共同關注在各地需要生
 <td><ul>
 <li>台灣兒童暨家庭扶助基金會</li>
 </ul></td>
-<td><p>[2]</p></td>
+<td><p>[6]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -208,7 +213,7 @@ Just Love It 從2012年舉辦至今，號召樂迷共同關注在各地需要生
 <li><a href="../Page/宜蘭縣政府.md" title="wikilink">宜蘭縣政府</a>（救助金專戶）</li>
 <li>高雄市政府社會局社會救助金專戶</li>
 </ul></td>
-<td><p>[3]</p></td>
+<td><p>[7]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京場</a><br />
@@ -217,7 +222,7 @@ Just Love It 從2012年舉辦至今，號召樂迷共同關注在各地需要生
 <td><ul>
 <li>浙江省新華愛心教育基金會（撿回珍珠計畫）</li>
 </ul></td>
-<td><p>[4]</p></td>
+<td><p>[8]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -234,12 +239,13 @@ Just Love It 從2012年舉辦至今，號召樂迷共同關注在各地需要生
 
 [分類:五月天](https://zh.wikipedia.org/wiki/分類:五月天 "wikilink")
 
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
-[Category:五月天巡迴演唱會](https://zh.wikipedia.org/wiki/Category:五月天巡迴演唱會 "wikilink")
-[Category:公益演唱會](https://zh.wikipedia.org/wiki/Category:公益演唱會 "wikilink")
+[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink") [Category:五月天巡迴演唱會](https://zh.wikipedia.org/wiki/Category:五月天巡迴演唱會 "wikilink") [Category:公益演唱會](https://zh.wikipedia.org/wiki/Category:公益演唱會 "wikilink")
 
-1.  [五月天 「Just Love It」演唱會
-    新竹＆台北場相關訊息](http://bin-music.com.tw/tw/news701.html)
-2.
-3.
-4.
+1.  [五月天開唱聰明省 樂捐5694萬](http://www.chinatimes.com/newspapers/20140728000524-260112)
+2.  [瑪莎曬太黑　店員誤認是「泰勞」：買電話卡嗎？](http://www.ettoday.net/news/20140729/383353.htm)
+3.  [高雄氣爆！五月天捐1500萬救災：是所有粉絲的愛心](http://www.ettoday.net/news/20140801/385109.htm)
+4.  [五月天宜蘭慈善發聲應援金衝到5700萬](http://www.appledaily.com.tw/realtimenews/article/entertainment/20140809/448963)
+5.  [五月天 「Just Love It」演唱會 新竹＆台北場相關訊息](http://bin-music.com.tw/tw/news701.html)
+6.
+7.
+8.

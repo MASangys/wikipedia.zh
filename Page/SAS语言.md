@@ -13,14 +13,10 @@
   -
 ## 外部連結
 
-  - [The SAS-L
-    archives](http://www.listserv.uga.edu/archives/sas-l.html)
-  - [comp.soft-sys.sas](http://groups.google.com/group/comp.soft-sys.sas)
-    at [Google](../Page/Google.md "wikilink") Groups.
-  - [UK High Court Judgement on SAS
-    Language](http://www.bailii.org/ew/cases/EWHC/Ch/2010/1829.html#para35)
-  - [Sasopedia / SAS Language
-    elements](http://www.sascommunity.org/wiki/Sasopedia/Language_elements)
+  - [The SAS-L archives](http://www.listserv.uga.edu/archives/sas-l.html)
+  - [comp.soft-sys.sas](http://groups.google.com/group/comp.soft-sys.sas) at [Google](../Page/Google.md "wikilink") Groups.
+  - [UK High Court Judgement on SAS Language](http://www.bailii.org/ew/cases/EWHC/Ch/2010/1829.html#para35)
+  - [Sasopedia / SAS Language elements](http://www.sascommunity.org/wiki/Sasopedia/Language_elements)
 
 <!-- end list -->
 

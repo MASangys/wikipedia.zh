@@ -1,5 +1,4 @@
-**美国医学院入学考试**(The Medical College Admission Test,
-MCAT)是机考标准考试，针对申请美国和加拿大医学院的学生制作。考试考察解题、批判性思维、分析性写作、科学知识等。在2006年8月19日前，考试为笔试；在2007年1月27日后，所有考试改为机考。
+**美国医学院入学考试**(The Medical College Admission Test, MCAT)是机考标准考试，针对申请美国和加拿大医学院的学生制作。考试考察解题、批判性思维、分析性写作、科学知识等。在2006年8月19日前，考试为笔试；在2007年1月27日后，所有考试改为机考。
 
 ## 现今
 
@@ -14,9 +13,7 @@ MCAT)是机考标准考试，针对申请美国和加拿大医学院的学生制
 
 词汇推理、自然科学、生物科学部分都是选择题。考题和答案都已经提前准备完毕，因此不会像[GRE那样因答题正误而改变难度](https://zh.wikipedia.org/wiki/GRE_\(考试\) "wikilink")。
 
-物理科学部分考查基础化学和物理的解题能力，生物科学考查[生物](../Page/生物.md "wikilink")和[有机化学](../Page/有机化学.md "wikilink")方面的知识。词汇推理部分考查理解力、评论、在散文形式中分析信息、论题。生物科学部分最直接地与[USMLE中的Step](../Page/美國醫師執照考試.md "wikilink")
-1 考试关联，对自然科学的相关系数为.553 对 .491，对词汇推理为.397。\[2\] 由此可知，MCAT考试合成分数与USMLE
-Step 1 紧密相关。\[3\]
+物理科学部分考查基础化学和物理的解题能力，生物科学考查[生物](../Page/生物.md "wikilink")和[有机化学](../Page/有机化学.md "wikilink")方面的知识。词汇推理部分考查理解力、评论、在散文形式中分析信息、论题。生物科学部分最直接地与[USMLE中的Step](../Page/美國醫師執照考試.md "wikilink") 1 考试关联，对自然科学的相关系数为.553 对 .491，对词汇推理为.397。\[2\] 由此可知，MCAT考试合成分数与USMLE Step 1 紧密相关。\[3\]
 
 ### 考试
 
@@ -38,8 +35,7 @@ Step 1 紧密相关。\[3\]
 
 ### 成绩
 
-三部分选择题分值为1-15。每部分的选择题成绩累加成为综合分数。综合分数的满分为45。根据AAMC报道，美国医学院申请人2008年MCAT的平均成绩为28.1P
-，被录取人的平均成绩为30.9P。\[5\]考试中答错题不倒扣分。因此，猜题比交白卷强。考生在备考中常被推荐如此的次分数比：科学、词汇、生物：12、13、11；这似乎比14、13、9要强，虽然两者会累积出同样的总成绩。
+三部分选择题分值为1-15。每部分的选择题成绩累加成为综合分数。综合分数的满分为45。根据AAMC报道，美国医学院申请人2008年MCAT的平均成绩为28.1P ，被录取人的平均成绩为30.9P。\[5\]考试中答错题不倒扣分。因此，猜题比交白卷强。考生在备考中常被推荐如此的次分数比：科学、词汇、生物：12、13、11；这似乎比14、13、9要强，虽然两者会累积出同样的总成绩。
 
 [标准差因年份的不同在](https://zh.wikipedia.org/wiki/标准差 "wikilink")2.0-3之间浮动。\[6\]
 
@@ -69,19 +65,13 @@ Step 1 紧密相关。\[3\]
 
 ### 莫斯考试: 1928–46
 
-二十世纪20年代，美国医学院退学率飙升到5%-50%，导致入学考试被设计制定。医生莫斯(F.A.
-Moss)和他的同事们设计了“医学院学术能力测试”("Scholastic
-Aptitude Test for Medical
-Students")，涵盖了是非题、选择题，分6-8个考目。考试的考察范围包括图形记忆、内容记忆、科学词汇、科学定义、印刷资料理解、医学知识、逻辑推理。分值因考试的不同而不同。虽然考试在起初被批评为死记硬背，因此只适合医学院的前两年知识，但学者们日后对此表示否认。除了更加严格的入学考试流程和更高的标准外，全美医学院新生退学率从1925-1930年的20%降到了1946年的7%。
+二十世纪20年代，美国医学院退学率飙升到5%-50%，导致入学考试被设计制定。医生莫斯(F.A. Moss)和他的同事们设计了“医学院学术能力测试”("Scholastic Aptitude Test for Medical Students")，涵盖了是非题、选择题，分6-8个考目。考试的考察范围包括图形记忆、内容记忆、科学词汇、科学定义、印刷资料理解、医学知识、逻辑推理。分值因考试的不同而不同。虽然考试在起初被批评为死记硬背，因此只适合医学院的前两年知识，但学者们日后对此表示否认。除了更加严格的入学考试流程和更高的标准外，全美医学院新生退学率从1925-1930年的20%降到了1946年的7%。
 
 ### 简化版: 1946–62
 
 在这一期间内，考试技术得到了提升，包括机械积分器的应用，对考试态度的改变，以及医学院备考质量的提升等，都反应了这是时段的考试革新。对此，考试进行了三项重大修订。考目减成了4项，包括词汇能力、计量能力、科学知识、对现代社会的理解。考试的所有题目都是选择题。考试的每个章节都有独立的分数，总分则是由各个章节分数相加而成。总分分值范围是200-800分。各章节的单独分数有助于医学院招生部门从申请人中选拔合适的对象。然而，考试委员会并不认为“对现代社会的理解”有什么重要价值，虽然后者考察范围广泛，如历史知识、政府、经济、社会等。委员会将分数的重头放在科学知识部分，因为它对预测医学院学习成绩更加有效。
 
-从1946到1948年，考试被叫做“专业院校能力测试”("Professional School Aptitude
-Test")，后在考试设计者“研究生入学办公室”(the Graduate Record
-Office)被[ETS兼并后](https://zh.wikipedia.org/wiki/ETS "wikilink")，考试更名为“医学院入学考试”。1960年,AAMC将合约转交给The
-Psychological Corporation，由后者负责后续考试的制作。
+从1946到1948年，考试被叫做“专业院校能力测试”("Professional School Aptitude Test")，后在考试设计者“研究生入学办公室”(the Graduate Record Office)被[ETS兼并后](https://zh.wikipedia.org/wiki/ETS "wikilink")，考试更名为“医学院入学考试”。1960年,AAMC将合约转交给The Psychological Corporation，由后者负责后续考试的制作。
 
 ### 维持现状: 1962–77
 
@@ -99,9 +89,7 @@ Psychological Corporation，由后者负责后续考试的制作。
 
 ### MR5及2015计划
 
-MR5顾问委员会在2008年秋季被AAMC任命。\[10\]MR5主要做的是考察本科院校教什么，医学院看重的是什么。2011年末，MR5的推荐被公式化，并将于2015年付诸实施。\[11\]MR5推荐于2012年被AAMC制定。最大的变化在于改革生物化学、多文化/行为概念、人文的批判性分析/推理等。由于2012年秋季入学的大学新生要参加新版MCAT考试，本科医学预科顾问正研究MR5文件及核心内涵，以便为预科做修订和准备。MR5版MCAT修正案可能会可导致数学、物理学、心理学、社会学、综合教育、生物、生物化学等课程的修改。其中一个负责对比新版MCAT与本科课程的科学协会是美国生化与分子生物科学会(American
-Society for Biochemistry and Molecular Biology,
-ASBMB)。虽然ASBMB注意到预科课程中的数学、物理学、社会科学、人文科目可能会改变，便将其推荐课程局限于生物、化学、和生物化学。\[12\]
+MR5顾问委员会在2008年秋季被AAMC任命。\[10\]MR5主要做的是考察本科院校教什么，医学院看重的是什么。2011年末，MR5的推荐被公式化，并将于2015年付诸实施。\[11\]MR5推荐于2012年被AAMC制定。最大的变化在于改革生物化学、多文化/行为概念、人文的批判性分析/推理等。由于2012年秋季入学的大学新生要参加新版MCAT考试，本科医学预科顾问正研究MR5文件及核心内涵，以便为预科做修订和准备。MR5版MCAT修正案可能会可导致数学、物理学、心理学、社会学、综合教育、生物、生物化学等课程的修改。其中一个负责对比新版MCAT与本科课程的科学协会是美国生化与分子生物科学会(American Society for Biochemistry and Molecular Biology, ASBMB)。虽然ASBMB注意到预科课程中的数学、物理学、社会科学、人文科目可能会改变，便将其推荐课程局限于生物、化学、和生物化学。\[12\]
 
 ## 政策
 
@@ -111,14 +99,11 @@ AAMC在考试时禁止使用计算器、计时器、或是其它电子设备\[13
 
 作为改革，考生不需向AAMC递交申请，便可在一年内参加三次考试。机考MCAT一年至多三次，没有年岁限制。考生一次只能在一个考场报名，必须在考试结束后两天进行下一场的报名。
 
-MCAT考试成绩在考试结束后的三十天左右公布，考生可以通过AAMC网站[MCAT Testing History
-(THx)](https://services.aamc.org/mcatthx/)查询。考试成绩不再使用邮件递送、也不再公布考试的原始分值。MCAT
-THx 被用于向医学院发送成绩、帮助申请以及提供其它服务。
+MCAT考试成绩在考试结束后的三十天左右公布，考生可以通过AAMC网站[MCAT Testing History (THx)](https://services.aamc.org/mcatthx/)查询。考试成绩不再使用邮件递送、也不再公布考试的原始分值。MCAT THx 被用于向医学院发送成绩、帮助申请以及提供其它服务。
 
 ## 备考
 
-和众多标准化考试一样，考试提供众多备考资料和相关课程。AAMC自己也在官方网站上提供一些考试样题。
-一些学生参加MCAT培训班进行备考。另一些学生则通过大学教材、MCAT备考资料、样题、以及免费的网络资源来进行备考。
+和众多标准化考试一样，考试提供众多备考资料和相关课程。AAMC自己也在官方网站上提供一些考试样题。 一些学生参加MCAT培训班进行备考。另一些学生则通过大学教材、MCAT备考资料、样题、以及免费的网络资源来进行备考。
 
 ## 脚注
 
@@ -129,10 +114,8 @@ THx 被用于向医学院发送成绩、帮助申请以及提供其它服务。
 ## 外部链接
 
   - [Association of American Medical Colleges](http://www.aamc.org/)
-  - [AAMC: Medical College Admission Test (MCAT) Web
-    Site](http://www.aamc.org/students/mcat/start.htm)
-  - [AAMC: MCAT Student
-    Manual](http://www.aamc.org/students/mcat/about/start.htm)
+  - [AAMC: Medical College Admission Test (MCAT) Web Site](http://www.aamc.org/students/mcat/start.htm)
+  - [AAMC: MCAT Student Manual](http://www.aamc.org/students/mcat/about/start.htm)
 
 [分类:美国教育](https://zh.wikipedia.org/wiki/分类:美国教育 "wikilink")
 
@@ -143,15 +126,10 @@ THx 被用于向医学院发送成绩、帮助申请以及提供其它服务。
 5.
 6.
 7.
-8.  [Medical College Admission Test Will Convert to Computer-Based
-    Format](http://www.aamc.org/newsroom/pressrel/2005/050718.htm)
-9.  [What is changing on the
-    MCAT?](http://www.kaptest.com/oneoff/mcat-test-change/computer-based-mcat-information.jhtml)
-
+8.  [Medical College Admission Test Will Convert to Computer-Based Format](http://www.aamc.org/newsroom/pressrel/2005/050718.htm)
+9.  [What is changing on the MCAT?](http://www.kaptest.com/oneoff/mcat-test-change/computer-based-mcat-information.jhtml)
 10. [AAMC MCAT MR Initiative](https://www.aamc.org/initiatives/mr5/)
-11. [2015 MCAT
-    Preview](https://www.aamc.org/students/download/266006/data/2015previewguide.pdf)
-12. [Response to the new MCAT: ASBMB premedical curriculum
-    recommendations](http://www.asbmb.org/asbmbtoday/asbmbtoday_article_print.aspx?id=16052)
+11. [2015 MCAT Preview](https://www.aamc.org/students/download/266006/data/2015previewguide.pdf)
+12. [Response to the new MCAT: ASBMB premedical curriculum recommendations](http://www.asbmb.org/asbmbtoday/asbmbtoday_article_print.aspx?id=16052)
 13.
 14.

@@ -1,26 +1,8 @@
 [周定緯](../Page/周定緯.md "wikilink"){{、w}}[張兆志](../Page/張兆志.md "wikilink"){{、w}}
 [陳艾熙](https://zh.wikipedia.org/wiki/陳艾熙 "wikilink"){{、w}}[謝依霖](https://zh.wikipedia.org/wiki/謝依霖 "wikilink"){{、w}}[大飛](https://zh.wikipedia.org/wiki/吳志慶 "wikilink"){{、w}}
 [張景嵐](../Page/張景嵐.md "wikilink"){{、w}}[方-{志}-友](../Page/方志友.md "wikilink"){{、w}}[夏語心](../Page/夏語心.md "wikilink"){{、w}}
-[陳艾琳](../Page/陳艾琳.md "wikilink") | judges = | voices = | narrated = |
-theme_music_composer = | opentheme = | endtheme = | composer = |
-country =  | language =
-[國語](https://zh.wikipedia.org/wiki/國語 "wikilink") | num_seasons
-= | num_episodes = 20集（中天版）
-40集（樂視版） | list_episodes = | slogan = | executive_producer = |
-supervising_producer = | producer = | editor = | location =  |
-cinematography = | camera = | runtime =
-分鐘（含[廣告](../Page/廣告.md "wikilink")） | company =
-[野火娛樂](https://zh.wikipedia.org/wiki/野火娛樂 "wikilink") |
-distributor = | channel = [中天綜合台](../Page/中天綜合台.md "wikilink") |
-picture_format = | audio_format = | first_run =  | first_aired =  |
-last_aired =  | channel_1 =
-[樂視網](https://zh.wikipedia.org/wiki/樂視網 "wikilink") |
-picture_format_1 = | audio_format_1 = | first_run_1 = |
-first_aired_1 =  | last_aired_1 =  | preceded_by =
-[PM10-AM03](../Page/PM10-AM03.md "wikilink") | followed_by =
-[PMAM之美好偵探社](../Page/PMAM之美好偵探社.md "wikilink") | related = |
-website = | production_website = }}
-《**PMAM**》，2013年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")、[中天綜合台](../Page/中天綜合台.md "wikilink")迷你[偶像劇](../Page/偶像劇.md "wikilink")。本劇為[PM10-AM03](../Page/PM10-AM03.md "wikilink")第二季。[野火娛樂製作](https://zh.wikipedia.org/wiki/野火娛樂 "wikilink")。故事主要描述現代年輕人愛跑[夜店](https://zh.wikipedia.org/wiki/夜店 "wikilink")，崇尚[拜金](https://zh.wikipedia.org/wiki/拜金 "wikilink")、[夜生活](../Page/夜生活.md "wikilink")的故事。由[修杰楷](../Page/修杰楷.md "wikilink")、[周定緯](../Page/周定緯.md "wikilink")、[張兆志](../Page/張兆志.md "wikilink")、[陳艾熙](https://zh.wikipedia.org/wiki/陳艾熙 "wikilink")、[大飛](https://zh.wikipedia.org/wiki/吳志慶 "wikilink")、[張景嵐](../Page/張景嵐.md "wikilink")、[方-{志}-友](../Page/方志友.md "wikilink")、[夏語心](../Page/夏語心.md "wikilink")等主演。2013年3月25日開鏡\[1\]，2014年10月20日在[中天綜合台](../Page/中天綜合台.md "wikilink")播出。
+[陳艾琳](../Page/陳艾琳.md "wikilink") | judges = | voices = | narrated = | theme_music_composer = | opentheme = | endtheme = | composer = | country =  | language = [國語](https://zh.wikipedia.org/wiki/國語 "wikilink") | num_seasons = | num_episodes = 20集（中天版）
+40集（樂視版） | list_episodes = | slogan = | executive_producer = | supervising_producer = | producer = | editor = | location =  | cinematography = | camera = | runtime = 分鐘（含[廣告](../Page/廣告.md "wikilink")） | company = [野火娛樂](https://zh.wikipedia.org/wiki/野火娛樂 "wikilink") | distributor = | channel = [中天綜合台](../Page/中天綜合台.md "wikilink") | picture_format = | audio_format = | first_run =  | first_aired =  | last_aired =  | channel_1 = [樂視網](https://zh.wikipedia.org/wiki/樂視網 "wikilink") | picture_format_1 = | audio_format_1 = | first_run_1 = | first_aired_1 =  | last_aired_1 =  | preceded_by = [PM10-AM03](../Page/PM10-AM03.md "wikilink") | followed_by = [PMAM之美好偵探社](../Page/PMAM之美好偵探社.md "wikilink") | related = | website = | production_website = }} 《**PMAM**》，2013年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")、[中天綜合台](../Page/中天綜合台.md "wikilink")迷你[偶像劇](../Page/偶像劇.md "wikilink")。本劇為[PM10-AM03](../Page/PM10-AM03.md "wikilink")第二季。[野火娛樂製作](https://zh.wikipedia.org/wiki/野火娛樂 "wikilink")。故事主要描述現代年輕人愛跑[夜店](https://zh.wikipedia.org/wiki/夜店 "wikilink")，崇尚[拜金](https://zh.wikipedia.org/wiki/拜金 "wikilink")、[夜生活](../Page/夜生活.md "wikilink")的故事。由[修杰楷](../Page/修杰楷.md "wikilink")、[周定緯](../Page/周定緯.md "wikilink")、[張兆志](../Page/張兆志.md "wikilink")、[陳艾熙](https://zh.wikipedia.org/wiki/陳艾熙 "wikilink")、[大飛](https://zh.wikipedia.org/wiki/吳志慶 "wikilink")、[張景嵐](../Page/張景嵐.md "wikilink")、[方-{志}-友](../Page/方志友.md "wikilink")、[夏語心](../Page/夏語心.md "wikilink")等主演。2013年3月25日開鏡\[1\]，2014年10月20日在[中天綜合台](../Page/中天綜合台.md "wikilink")播出。
 
 ## 播出時間
 
@@ -779,7 +761,7 @@ website = | production_website = }}
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/陳信維" title="wikilink">陳信維</a></p></td>
+<p><a href="../Page/陳信維.md" title="wikilink">陳信維</a></p></td>
 <td><center>
 <p>路人</p></td>
 <td><p>一個路人。</p></td>
@@ -797,7 +779,7 @@ website = | production_website = }}
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/陳信維" title="wikilink">陳信維</a></p></td>
+<p><a href="../Page/陳信維.md" title="wikilink">陳信維</a></p></td>
 <td><center>
 <p>路人</p></td>
 <td><p>一個路人。</p></td>
@@ -872,9 +854,6 @@ website = | production_website = }}
   - [中天《PMAM》官方網站](http://blog.ctitv.com.tw/pmam/)
   - [《PMAM》官方Facebook](https://www.facebook.com/pages/PMAM/150183491841676)
 
-[Category:2013年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2013年台灣電視劇集 "wikilink")
-[Category:中天電視劇](https://zh.wikipedia.org/wiki/Category:中天電視劇 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:PMAM系列](https://zh.wikipedia.org/wiki/Category:PMAM系列 "wikilink")
+[Category:2013年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2013年台灣電視劇集 "wikilink") [Category:中天電視劇](https://zh.wikipedia.org/wiki/Category:中天電視劇 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:PMAM系列](https://zh.wikipedia.org/wiki/Category:PMAM系列 "wikilink")
 
 1.

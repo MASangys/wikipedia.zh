@@ -1,5 +1,4 @@
-[Th135.png](https://zh.wikipedia.org/wiki/File:Th135.png "fig:Th135.png")
-是由[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")與[黃昏邊境](../Page/黃昏邊境.md "wikilink")共同製作的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")13.5作。\[1\]\[2\]
+[Th135.png](https://zh.wikipedia.org/wiki/File:Th135.png "fig:Th135.png") 是由[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")與[黃昏邊境](../Page/黃昏邊境.md "wikilink")共同製作的[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")，是[東方Project的](https://zh.wikipedia.org/wiki/東方Project "wikilink")13.5作。\[1\]\[2\]
 
 ## 概要
 
@@ -19,8 +18,7 @@
 
 ### 人氣值
 
-本作引入「人氣值」計算系統。故事模式的人氣值不會影響結局，且達到100％時能夠使出 Lastword
-Spellcard。每局的K.O.會計算「損血」和「時間」，並計算應得的人氣值。
+本作引入「人氣值」計算系統。故事模式的人氣值不會影響結局，且達到100％時能夠使出 Lastword Spellcard。每局的K.O.會計算「損血」和「時間」，並計算應得的人氣值。
 
 街機模式的人氣值成為勝負的主要關鍵，時間結束若一方都無人K.O.，便由人氣值高的一方獲勝，而非血量高者。街機模式先拿下兩局勝利者為優勝。
 
@@ -190,16 +188,10 @@ Spellcard。每局的K.O.會計算「損血」和「時間」，並計算應得�
   - [東方心綺楼 官方網站](http://www.tasofro.net/touhou135/)
   - [](http://www.youtube.com/watch?v=JbFyYb6y9PU)
 
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink")
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
+[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink") [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
 
 1.  [東方心綺楼　～ Hopeless Masquerade.](http://www.tasofro.net/touhou135/),
 
-2.  2012-10-05, [“Touhou” Announces More Moe
-    Fighting](http://seventhstyle.com/2012/10/05/touhou-announces-more-moe-fighting/),
-    SeventhStyle
+2.  2012-10-05, [“Touhou” Announces More Moe Fighting](http://seventhstyle.com/2012/10/05/touhou-announces-more-moe-fighting/), SeventhStyle
 
 3.

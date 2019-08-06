@@ -24,11 +24,7 @@ PAPAGO\!為[研勤科技](../Page/研勤科技.md "wikilink")所開發的一套[
 
 ## 參考文獻
 
-[Category:电子地图](https://zh.wikipedia.org/wiki/Category:电子地图 "wikilink")
-[Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:Windows軟體](https://zh.wikipedia.org/wiki/Category:Windows軟體 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
+[Category:电子地图](https://zh.wikipedia.org/wiki/Category:电子地图 "wikilink") [Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Windows軟體](https://zh.wikipedia.org/wiki/Category:Windows軟體 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
 
 1.
 2.

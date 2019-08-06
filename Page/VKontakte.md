@@ -2,15 +2,13 @@
 
 與[Facebook](../Page/Facebook.md "wikilink")較為相似，VKontakte允許用戶公開或私下留言、創建社團、公共頁面和活動，也可以分享和標記[图像](https://zh.wikipedia.org/wiki/图像 "wikilink")、[音乐](../Page/音乐.md "wikilink")和[影片](https://zh.wikipedia.org/wiki/影片 "wikilink")、基於[瀏覽器的](../Page/网页浏览器.md "wikilink")[遊戲等功能](../Page/电子游戏.md "wikilink")。\[1\]
 
-2014年1月統計VKontakte註冊使用者至少有2.39億\[2\]。VKontakte在[Alexa全球](https://zh.wikipedia.org/wiki/Alexa "wikilink")500強網站中排名第17名（2018年5月31日），為[俄罗斯](../Page/俄罗斯.md "wikilink")第二大網站\[3\]。根據[eBizMBA排名](https://zh.wikipedia.org/wiki/eBizMBA "wikilink")，為世界第八大受歡迎的[社交網站](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")\[4\]
-。2014年1月，VKontakte平均約有6000萬人次之用戶\[5\]。
+2014年1月統計VKontakte註冊使用者至少有2.39億\[2\]。VKontakte在[Alexa全球](https://zh.wikipedia.org/wiki/Alexa "wikilink")500強網站中排名第17名（2018年5月31日），為[俄罗斯](../Page/俄罗斯.md "wikilink")第二大網站\[3\]。根據[eBizMBA排名](https://zh.wikipedia.org/wiki/eBizMBA "wikilink")，為世界第八大受歡迎的[社交網站](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")\[4\] 。2014年1月，VKontakte平均約有6000萬人次之用戶\[5\]。
 
 ## 名稱
 
 ### 名稱由來
 
-[Pavel_Durov_26years.jpg](https://zh.wikipedia.org/wiki/File:Pavel_Durov_26years.jpg "fig:Pavel_Durov_26years.jpg")\]\]
-選擇「VKontakte」之名稱由來是受兩個因素下所產生\[6\]\[7\]：
+[Pavel_Durov_26years.jpg](https://zh.wikipedia.org/wiki/File:Pavel_Durov_26years.jpg "fig:Pavel_Durov_26years.jpg")\]\] 選擇「VKontakte」之名稱由來是受兩個因素下所產生\[6\]\[7\]：
 
 1.  其創始人[保羅·杜洛夫](../Page/保羅·杜洛夫.md "wikilink")重新詮釋短語:“”，翻譯就是“完整的接觸訊息”，取自於順口溜電台的“[莫斯科迴聲](../Page/莫斯科迴聲.md "wikilink")”。
 2.  利用名稱來搜索那些不論何人、社團以及階層相關聯的改變性網站；最理想的方式，就是簡單的“接觸”。
@@ -35,15 +33,13 @@ VKontakte尚未有正式的中文譯名，正式名稱大多以原文簡稱為**
 
 ## 公司
 
-VKontakte是一所成立於2007年1月19日、位於[俄罗斯](../Page/俄罗斯.md "wikilink")的[有限責任公司](https://zh.wikipedia.org/wiki/有限責任公司 "wikilink")。創辦人兼執行長[保羅·杜洛夫](../Page/保羅·杜洛夫.md "wikilink")擁有20％的股份，同時維亞切斯拉夫、米哈伊爾和列弗里維夫三位[俄罗斯](../Page/俄罗斯.md "wikilink")投資者\[10\]分別持有60％、10％和10％的股份\[11\]。目前該公司完全由境外公司Doraview
-Limited所擁有，總部設在[英屬維爾京群島](../Page/英屬維爾京群島.md "wikilink")。該整體運用的所有權不屬於公共性領域，雖然Mail.ru集團（原：[数码天空科技](../Page/数码天空科技.md "wikilink")）曾公開承認39.99％的股份\[12\]\[13\]。隨後發表整體所有權之安排\[14\]。
+VKontakte是一所成立於2007年1月19日、位於[俄罗斯](../Page/俄罗斯.md "wikilink")的[有限責任公司](https://zh.wikipedia.org/wiki/有限責任公司 "wikilink")。創辦人兼執行長[保羅·杜洛夫](../Page/保羅·杜洛夫.md "wikilink")擁有20％的股份，同時維亞切斯拉夫、米哈伊爾和列弗里維夫三位[俄罗斯](../Page/俄罗斯.md "wikilink")投資者\[10\]分別持有60％、10％和10％的股份\[11\]。目前該公司完全由境外公司Doraview Limited所擁有，總部設在[英屬維爾京群島](../Page/英屬維爾京群島.md "wikilink")。該整體運用的所有權不屬於公共性領域，雖然Mail.ru集團（原：[数码天空科技](../Page/数码天空科技.md "wikilink")）曾公開承認39.99％的股份\[12\]\[13\]。隨後發表整體所有權之安排\[14\]。
 
 該公司由[保羅·杜洛夫](../Page/保羅·杜洛夫.md "wikilink")、VKontakte的創辦人兼執行長管理。2012年5月29日Mail.ru集團宣布，決定向他提供其股份的投票權，這使他擁有52％的投票權\[15\]\[16\]。
 
 VKontakte取消了[IPO的計劃](https://zh.wikipedia.org/wiki/首次公开募股 "wikilink")，理由是為了避免類似網站[Facebook](../Page/Facebook.md "wikilink")之後[IPO犯的錯誤](https://zh.wikipedia.org/wiki/首次公开募股 "wikilink")\[17\]\[18\]。
 
-截止2011年，VKontakte創始人[保羅·杜洛夫](../Page/保羅·杜洛夫.md "wikilink")擁有12％的股份，他的夥伴列弗里維夫擁有8％，維亞切斯拉夫和他的幕僚成員擁有40%。
-Mail.ru集團在擁有VKontakte39.99％股份的同時，[保羅·杜洛夫](../Page/保羅·杜洛夫.md "wikilink")及其他[股东也在上月以](https://zh.wikipedia.org/wiki/股东 "wikilink")1.117億[美元](../Page/美元.md "wikilink")收購了其7.44％的股份\[19\]。
+截止2011年，VKontakte創始人[保羅·杜洛夫](../Page/保羅·杜洛夫.md "wikilink")擁有12％的股份，他的夥伴列弗里維夫擁有8％，維亞切斯拉夫和他的幕僚成員擁有40%。 Mail.ru集團在擁有VKontakte39.99％股份的同時，[保羅·杜洛夫](../Page/保羅·杜洛夫.md "wikilink")及其他[股东也在上月以](https://zh.wikipedia.org/wiki/股东 "wikilink")1.117億[美元](../Page/美元.md "wikilink")收購了其7.44％的股份\[19\]。
 
 ## 網站
 
@@ -51,8 +47,7 @@ Mail.ru集團在擁有VKontakte39.99％股份的同時，[保羅·杜洛夫](../
 
 ### 主要功能
 
-與大多數的[社交網絡相同](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")，該網站的核心功能是基於個人訊息和共享照片，狀態更新以及與朋友的聯繫。
-VKontakte也有用於管理網路社團和名人的網頁工具。該網站允許其用戶上傳、搜索與新聞媒體內容，例如[影片和](https://zh.wikipedia.org/wiki/影片 "wikilink")[音乐](../Page/音乐.md "wikilink")。VKontakte具有先進的搜索引擎，能有效搜尋到較為複雜且深遠的好友，以及即時性新聞搜尋等\[20\]。
+與大多數的[社交網絡相同](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")，該網站的核心功能是基於個人訊息和共享照片，狀態更新以及與朋友的聯繫。 VKontakte也有用於管理網路社團和名人的網頁工具。該網站允許其用戶上傳、搜索與新聞媒體內容，例如[影片和](https://zh.wikipedia.org/wiki/影片 "wikilink")[音乐](../Page/音乐.md "wikilink")。VKontakte具有先進的搜索引擎，能有效搜尋到較為複雜且深遠的好友，以及即時性新聞搜尋等\[20\]。
 
   - 公告板：與[Facebook](../Page/Facebook.md "wikilink")塗鴉牆相似，就是用戶檔案頁上的[留言板](../Page/BBS.md "wikilink")，與[留言板不同的是](../Page/BBS.md "wikilink")，公告板的內容會被同步到各個朋友的首頁，因此可以在自己的塗鴉牆上發表一些最新狀態，也可以設定為不同步給所有好友。很多用戶可以在公告板上留簡訊息。
   - 我的訊息：可以在2至30人的團體之間進行，並透過私密訊息發送給目標用戶的訊息匣，猶如[电子邮件](../Page/电子邮件.md "wikilink")，只有收信人和發信人可以看到。每條消息最多可包含有照片、影片、音樂、文件、地圖和資料等10種附件。
@@ -72,8 +67,7 @@ VKontakte也有用於管理網路社團和名人的網頁工具。該網站允�
 
 VKontakte有提供行動版，該網址為**m.vk.com**。另外提供部分[俄罗斯](../Page/俄罗斯.md "wikilink")電信商可用之“免費”（免付流量）行動電信版本，網址為**0.vk.com**\[21\]\[22\]。
 
-也有應用在VKontakte於不同的[移动设备](../Page/移动设备.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")的平台（[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")\[23\]、[Android](../Page/Android.md "wikilink")\[24\]與[Windows
-Phone](../Page/Windows_Phone.md "wikilink")\[25\]）。
+也有應用在VKontakte於不同的[移动设备](../Page/移动设备.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")的平台（[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")\[23\]、[Android](../Page/Android.md "wikilink")\[24\]與[Windows Phone](../Page/Windows_Phone.md "wikilink")\[25\]）。
 
 ## 普及性
 
@@ -125,8 +119,7 @@ Phone](../Page/Windows_Phone.md "wikilink")\[25\]）。
 
 ####
 
-VKontakte有提供[繁體中文](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")，
-與[Facebook](../Page/Facebook.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")及[Google+](../Page/Google+.md "wikilink")之[社交網站相較之下](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")，[臺灣](../Page/臺灣.md "wikilink")使用於VKontakte族群人數雖然並不算龐大，但也有一批[東歐及](https://zh.wikipedia.org/wiki/東歐 "wikilink")[臺灣](../Page/臺灣.md "wikilink")留學生使用該[社交網站](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")，並做宣傳[臺灣](../Page/臺灣.md "wikilink")[文化](../Page/文化.md "wikilink")及[地理相關用途](https://zh.wikipedia.org/wiki/地理 "wikilink")。
+VKontakte有提供[繁體中文](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")， 與[Facebook](../Page/Facebook.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")及[Google+](../Page/Google+.md "wikilink")之[社交網站相較之下](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")，[臺灣](../Page/臺灣.md "wikilink")使用於VKontakte族群人數雖然並不算龐大，但也有一批[東歐及](https://zh.wikipedia.org/wiki/東歐 "wikilink")[臺灣](../Page/臺灣.md "wikilink")留學生使用該[社交網站](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")，並做宣傳[臺灣](../Page/臺灣.md "wikilink")[文化](../Page/文化.md "wikilink")及[地理相關用途](https://zh.wikipedia.org/wiki/地理 "wikilink")。
 
 ####
 
@@ -138,20 +131,13 @@ VKontakte是不被[中华人民共和国政府封鎖的境外網站](https://zh.
 
 ####
 
-阿德里安·陳（Adrien
-Chen），撰寫一篇關於VKontakte為[美国](../Page/美国.md "wikilink")男性最受歡迎[社交網站之文章](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")，其最大的原因是為了試圖與[俄罗斯](../Page/俄罗斯.md "wikilink")女性交友\[31\]。
+阿德里安·陳（Adrien Chen），撰寫一篇關於VKontakte為[美国](../Page/美国.md "wikilink")男性最受歡迎[社交網站之文章](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")，其最大的原因是為了試圖與[俄罗斯](../Page/俄罗斯.md "wikilink")女性交友\[31\]。
 
 ### 知名人物
 
   - 樂團和音樂人士
 
-通常使用VKontakte作推廣之[樂團及](https://zh.wikipedia.org/wiki/樂團 "wikilink")[音乐](../Page/音乐.md "wikilink")人士，經常會將自己上傳頻道於他們VKontakte官方頁面上。著名的例子包括[俄罗斯](../Page/俄罗斯.md "wikilink")[RAP歌手](https://zh.wikipedia.org/wiki/RAP "wikilink")[MC
-NOIZE](https://zh.wikipedia.org/wiki/MC_NOIZE "wikilink")\[32\]
-，以及國際最知名的[Tiësto](https://zh.wikipedia.org/wiki/Tiësto "wikilink")\[33\]、[Shakira](https://zh.wikipedia.org/wiki/Shakira "wikilink")\[34\]、[Paul
-Van Dyk](https://zh.wikipedia.org/wiki/Paul_Van_Dyk "wikilink")\[35\]
-、[The
-Prodigy](https://zh.wikipedia.org/wiki/The_Prodigy "wikilink")\[36\]以及[Dan
-Balan](https://zh.wikipedia.org/wiki/Dan_Balan "wikilink")\[37\]等音樂人士\[38\]。
+通常使用VKontakte作推廣之[樂團及](https://zh.wikipedia.org/wiki/樂團 "wikilink")[音乐](../Page/音乐.md "wikilink")人士，經常會將自己上傳頻道於他們VKontakte官方頁面上。著名的例子包括[俄罗斯](../Page/俄罗斯.md "wikilink")[RAP歌手](https://zh.wikipedia.org/wiki/RAP "wikilink")[MC NOIZE](https://zh.wikipedia.org/wiki/MC_NOIZE "wikilink")\[32\] ，以及國際最知名的[Tiësto](https://zh.wikipedia.org/wiki/Tiësto "wikilink")\[33\]、[Shakira](https://zh.wikipedia.org/wiki/Shakira "wikilink")\[34\]、[Paul Van Dyk](https://zh.wikipedia.org/wiki/Paul_Van_Dyk "wikilink")\[35\] 、[The Prodigy](https://zh.wikipedia.org/wiki/The_Prodigy "wikilink")\[36\]以及[Dan Balan](https://zh.wikipedia.org/wiki/Dan_Balan "wikilink")\[37\]等音樂人士\[38\]。
 
 ## 知名事件
 
@@ -161,10 +147,7 @@ Balan](https://zh.wikipedia.org/wiki/Dan_Balan "wikilink")\[37\]等音樂人士\
 
 ### 侵犯版權
 
-第13大商業上訴法院肯定了[圣彼得堡商業法院對](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")[俄罗斯](../Page/俄罗斯.md "wikilink")主要[P2P案件的裁決](https://zh.wikipedia.org/wiki/P2P "wikilink")，就是VKontakte必須對[版權](https://zh.wikipedia.org/wiki/版權 "wikilink")[侵權負責](https://zh.wikipedia.org/wiki/侵權 "wikilink")。法院判以210,000[盧布](https://zh.wikipedia.org/wiki/盧布 "wikilink")（約6,700[美元](../Page/美元.md "wikilink")）賠償。[俄罗斯](../Page/俄罗斯.md "wikilink")著名的[Gala
-Records唱片分公司對VKontakte](https://zh.wikipedia.org/wiki/Gala_Records "wikilink")[嵌入式](https://zh.wikipedia.org/wiki/嵌入式 "wikilink")[應用程式實施未經允許傳播歌曲提起訴訟](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。
-然而，VKontakte的辯護理由是用戶責任、未曾獲利以及採取保護措施並反對版權作品未經授權之使用；但法院表示這些理由不足以免除網絡服務提供商之責任。
-[俄罗斯](../Page/俄罗斯.md "wikilink")政府也希望通過修訂版的《民事法案》，該法案的一大新穎性就是包含了旨在規範網絡作品使用的條款\[41\]。[俄罗斯](../Page/俄罗斯.md "wikilink")[圣彼得堡和](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")[列宁格勒州](../Page/列宁格勒州.md "wikilink")之最高仲裁法庭宣布了一項針對VKontakte侵權責任。投訴指稱VKontakte於應用程式允許用戶上傳[音樂和](https://zh.wikipedia.org/wiki/音樂 "wikilink")[影片檔案](https://zh.wikipedia.org/wiki/影片 "wikilink")，並未經[俄罗斯](../Page/俄罗斯.md "wikilink")歌手[MakSim授權下](https://zh.wikipedia.org/wiki/MakSim "wikilink")，侵犯了11首歌曲。最後法院下令罰款金額為550,000[盧布](https://zh.wikipedia.org/wiki/盧布 "wikilink")（約17,800[美元](../Page/美元.md "wikilink")）\[42\]。
+第13大商業上訴法院肯定了[圣彼得堡商業法院對](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")[俄罗斯](../Page/俄罗斯.md "wikilink")主要[P2P案件的裁決](https://zh.wikipedia.org/wiki/P2P "wikilink")，就是VKontakte必須對[版權](https://zh.wikipedia.org/wiki/版權 "wikilink")[侵權負責](https://zh.wikipedia.org/wiki/侵權 "wikilink")。法院判以210,000[盧布](https://zh.wikipedia.org/wiki/盧布 "wikilink")（約6,700[美元](../Page/美元.md "wikilink")）賠償。[俄罗斯](../Page/俄罗斯.md "wikilink")著名的[Gala Records唱片分公司對VKontakte](https://zh.wikipedia.org/wiki/Gala_Records "wikilink")[嵌入式](https://zh.wikipedia.org/wiki/嵌入式 "wikilink")[應用程式實施未經允許傳播歌曲提起訴訟](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。 然而，VKontakte的辯護理由是用戶責任、未曾獲利以及採取保護措施並反對版權作品未經授權之使用；但法院表示這些理由不足以免除網絡服務提供商之責任。 [俄罗斯](../Page/俄罗斯.md "wikilink")政府也希望通過修訂版的《民事法案》，該法案的一大新穎性就是包含了旨在規範網絡作品使用的條款\[41\]。[俄罗斯](../Page/俄罗斯.md "wikilink")[圣彼得堡和](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")[列宁格勒州](../Page/列宁格勒州.md "wikilink")之最高仲裁法庭宣布了一項針對VKontakte侵權責任。投訴指稱VKontakte於應用程式允許用戶上傳[音樂和](https://zh.wikipedia.org/wiki/音樂 "wikilink")[影片檔案](https://zh.wikipedia.org/wiki/影片 "wikilink")，並未經[俄罗斯](../Page/俄罗斯.md "wikilink")歌手[MakSim授權下](https://zh.wikipedia.org/wiki/MakSim "wikilink")，侵犯了11首歌曲。最後法院下令罰款金額為550,000[盧布](https://zh.wikipedia.org/wiki/盧布 "wikilink")（約17,800[美元](../Page/美元.md "wikilink")）\[42\]。
 
 ### 列入黑名單
 
@@ -178,8 +161,7 @@ Records唱片分公司對VKontakte](https://zh.wikipedia.org/wiki/Gala_Records "
 
 ### 蓝鲸死亡游戏
 
-蓝鲸游戏最早于2013年在俄罗斯开始逐渐流行起来，并通过名为VKontakte社交网络上的“F57”小组进行传播。游戏通过洗脑方式，鼓励参与者在50天内完成各种自残任务，并在第50天要求参与者自杀，引起多方警惕。\[45\]菲利普·布德金（Philip
-Budeikin）被控在2013年至2016年期间组织了8个“蓝鲸”社交网络群组，诱导至少16名青少年自杀。虽然始作俑者已经被捕，但这一“死亡游戏”却没有因此而终止。因其通过网络传播的特性，这个“游戏”已从俄罗斯扩散到了其他国家，并出现了相关的自杀案例。\[46\]。多个国家发布了相关警告，并封杀这类涉嫌教唆自杀的群组。\[47\]
+蓝鲸游戏最早于2013年在俄罗斯开始逐渐流行起来，并通过名为VKontakte社交网络上的“F57”小组进行传播。游戏通过洗脑方式，鼓励参与者在50天内完成各种自残任务，并在第50天要求参与者自杀，引起多方警惕。\[45\]菲利普·布德金（Philip Budeikin）被控在2013年至2016年期间组织了8个“蓝鲸”社交网络群组，诱导至少16名青少年自杀。虽然始作俑者已经被捕，但这一“死亡游戏”却没有因此而终止。因其通过网络传播的特性，这个“游戏”已从俄罗斯扩散到了其他国家，并出现了相关的自杀案例。\[46\]。多个国家发布了相关警告，并封杀这类涉嫌教唆自杀的群组。\[47\]
 
 ## 相關條目
 
@@ -215,20 +197,9 @@ Budeikin）被控在2013年至2016年期间组织了8个“蓝鲸”社交网络
   - \[//vk.com/ Vk.com\]（按瀏覽器語言顯示）
   - \[//VKontakte.ru/ VKontakte.ru\]（舊版網址）
 
-[Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink")
-[Category:2006年建立的网站](https://zh.wikipedia.org/wiki/Category:2006年建立的网站 "wikilink")
-[Category:互联网公司](https://zh.wikipedia.org/wiki/Category:互联网公司 "wikilink")
-[Category:社会信息处理](https://zh.wikipedia.org/wiki/Category:社会信息处理 "wikilink")
-[Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")
-[Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink")
-[Category:微博客](https://zh.wikipedia.org/wiki/Category:微博客 "wikilink")
-[Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink")
-[Category:俄羅斯網站](https://zh.wikipedia.org/wiki/Category:俄羅斯網站 "wikilink")
-[Category:2006年俄羅斯建立](https://zh.wikipedia.org/wiki/Category:2006年俄羅斯建立 "wikilink")
+[Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink") [Category:2006年建立的网站](https://zh.wikipedia.org/wiki/Category:2006年建立的网站 "wikilink") [Category:互联网公司](https://zh.wikipedia.org/wiki/Category:互联网公司 "wikilink") [Category:社会信息处理](https://zh.wikipedia.org/wiki/Category:社会信息处理 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:虛擬社群](https://zh.wikipedia.org/wiki/Category:虛擬社群 "wikilink") [Category:微博客](https://zh.wikipedia.org/wiki/Category:微博客 "wikilink") [Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink") [Category:俄羅斯網站](https://zh.wikipedia.org/wiki/Category:俄羅斯網站 "wikilink") [Category:2006年俄羅斯建立](https://zh.wikipedia.org/wiki/Category:2006年俄羅斯建立 "wikilink")
 
-1.  [Social Gaming Revenue in Russia: Statistics and
-    Forecast](http://www.statista.com/statistics/205549/social-gaming-revenue-forecast-in-russia/),
-    SuperData, 2011.
+1.  [Social Gaming Revenue in Russia: Statistics and Forecast](http://www.statista.com/statistics/205549/social-gaming-revenue-forecast-in-russia/), SuperData, 2011.
 
 2.
 
@@ -244,8 +215,7 @@ Budeikin）被控在2013年至2016年期间组织了8个“蓝鲸”社交网络
 
 8.
 
-9.  [VK's new update](https://vk.com/blog/vks-new-update?from_notify=1)
-    vk.com
+9.  [VK's new update](https://vk.com/blog/vks-new-update?from_notify=1) vk.com
 
 10.
 
@@ -302,13 +272,9 @@ Budeikin）被控在2013年至2016年期间组织了8个“蓝鲸”社交网络
 
 38.
 
-39. [史諾登暫自由
-    俄版臉書願雇用](http://news.rti.org.tw/index_newsContent.aspx?nid=440533)
-     中央社 2013/8/2
+39. [史諾登暫自由 俄版臉書願雇用](http://news.rti.org.tw/index_newsContent.aspx?nid=440533)  中央社 2013/8/2
 
-40. [紐時頭條／史諾登前往
-    「俄國祖克伯」的社群網站上班](http://www.ettoday.net/news/20131101/289885.htm)
-    國際中心／綜合報導 ETtoday新聞雲 2013年11月1日
+40. [紐時頭條／史諾登前往 「俄國祖克伯」的社群網站上班](http://www.ettoday.net/news/20131101/289885.htm) 國際中心／綜合報導 ETtoday新聞雲 2013年11月1日
 
 41.
 
@@ -318,8 +284,7 @@ Budeikin）被控在2013年至2016年期间组织了8个“蓝鲸”社交网络
 
 44.
 
-45. [Администратор «групп смерти». Чистосердечное признание
-    (АУДИОЗАПИСЬ)](https://saint-petersburg.ru/m/society/grachev/353694/)
+45. [Администратор «групп смерти». Чистосердечное признание (АУДИОЗАПИСЬ)](https://saint-petersburg.ru/m/society/grachev/353694/)
 
 46.
 

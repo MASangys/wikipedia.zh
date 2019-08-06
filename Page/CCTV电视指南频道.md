@@ -30,6 +30,5 @@
 
 [Category:中国中央电视台数字频道](https://zh.wikipedia.org/wiki/Category:中国中央电视台数字频道 "wikilink")
 
-1.  [11月1日CCTV《电视指南》面向全国全新开播](http://yule.sohu.com/20041101/n222781516.shtml)
-    搜狐娱乐,2004-11-01
+1.  [11月1日CCTV《电视指南》面向全国全新开播](http://yule.sohu.com/20041101/n222781516.shtml) 搜狐娱乐,2004-11-01
 2.

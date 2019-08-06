@@ -70,11 +70,9 @@ SFM05型电动车组有[再生制动](https://zh.wikipedia.org/wiki/再生制动
 
 ## 参考资料
 
-[车](https://zh.wikipedia.org/wiki/分类:北京地铁4号线 "wikilink")
-[车](https://zh.wikipedia.org/wiki/分类:北京地铁大兴线 "wikilink")
+[车](https://zh.wikipedia.org/wiki/分类:北京地铁4号线 "wikilink") [车](https://zh.wikipedia.org/wiki/分类:北京地铁大兴线 "wikilink")
 
-[Category:北京地铁SFM系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁SFM系列电动车组 "wikilink")
-[Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink")
+[Category:北京地铁SFM系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁SFM系列电动车组 "wikilink") [Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink")
 
 1.
 2.  [网易新闻：北京地铁4号线因列车制动故障延迟15分钟](http://news.163.com/10/0324/14/62I151RH000146BD.html)

@@ -10,8 +10,7 @@
 
 ### 勒奇山隧道
 
-[Lötschberg_Südportal.JPG](https://zh.wikipedia.org/wiki/File:Lötschberg_Südportal.JPG "fig:Lötschberg_Südportal.JPG")
-由于法国援建了由弗鲁蒂根-[布里格的](https://zh.wikipedia.org/wiki/布里格 "wikilink")58公里长的“山区通道”，全长为13.7公里的[勒奇山隧道](../Page/勒奇山隧道.md "wikilink")路段的主要[土木工程](../Page/土木工程.md "wikilink")也被分配至一家法国建筑财团负责。项目于1906年10月15日动工，但不到三个月后，瑞士联邦当局就下令BLS将隧道扩建为[复线](https://zh.wikipedia.org/wiki/复线铁路 "wikilink")，并建造与之相适应的接入坡道。然而由于资金不足以满足全线双轨，只有勒奇山隧道本身采用了这种方式建造。在1908年7月24日，隧道坑道发生了[泥石流](../Page/泥石流.md "wikilink")事故，共造成25名[意大利](../Page/意大利.md "wikilink")[矿工死亡](https://zh.wikipedia.org/wiki/矿工 "wikilink")，施工就此停滞长达半年，当局甚至计划将坑道绕过这一地点。新计划是在山内构建3条曲线，并将隧道的总长度延伸至14.612公里。1911年3月31日，勒奇山隧道最终在[坎德斯泰格及](https://zh.wikipedia.org/wiki/坎德斯泰格 "wikilink")之间贯通。随着接入坡道的完工，以及包含33条隧道、3条雪崩防护堤和22座[桥梁的其他土木工程相继上线](https://zh.wikipedia.org/wiki/桥梁 "wikilink")，它们连同供电电压为15千伏[交流电的桅杆](https://zh.wikipedia.org/wiki/交流电 "wikilink")、[发电站](https://zh.wikipedia.org/wiki/电站 "wikilink")、发电分站等设施在1913年6月15日投入服务。新的勒奇山轴线就此成为了从事国际运输的重要铁路通道，尤其是连接[阿尔萨斯至意大利](https://zh.wikipedia.org/wiki/阿尔萨斯 "wikilink")（[多莫多索拉](../Page/多莫多索拉.md "wikilink")）\[3\]。
+[Lötschberg_Südportal.JPG](https://zh.wikipedia.org/wiki/File:Lötschberg_Südportal.JPG "fig:Lötschberg_Südportal.JPG") 由于法国援建了由弗鲁蒂根-[布里格的](https://zh.wikipedia.org/wiki/布里格 "wikilink")58公里长的“山区通道”，全长为13.7公里的[勒奇山隧道](../Page/勒奇山隧道.md "wikilink")路段的主要[土木工程](../Page/土木工程.md "wikilink")也被分配至一家法国建筑财团负责。项目于1906年10月15日动工，但不到三个月后，瑞士联邦当局就下令BLS将隧道扩建为[复线](https://zh.wikipedia.org/wiki/复线铁路 "wikilink")，并建造与之相适应的接入坡道。然而由于资金不足以满足全线双轨，只有勒奇山隧道本身采用了这种方式建造。在1908年7月24日，隧道坑道发生了[泥石流](../Page/泥石流.md "wikilink")事故，共造成25名[意大利](../Page/意大利.md "wikilink")[矿工死亡](https://zh.wikipedia.org/wiki/矿工 "wikilink")，施工就此停滞长达半年，当局甚至计划将坑道绕过这一地点。新计划是在山内构建3条曲线，并将隧道的总长度延伸至14.612公里。1911年3月31日，勒奇山隧道最终在[坎德斯泰格及](https://zh.wikipedia.org/wiki/坎德斯泰格 "wikilink")之间贯通。随着接入坡道的完工，以及包含33条隧道、3条雪崩防护堤和22座[桥梁的其他土木工程相继上线](https://zh.wikipedia.org/wiki/桥梁 "wikilink")，它们连同供电电压为15千伏[交流电的桅杆](https://zh.wikipedia.org/wiki/交流电 "wikilink")、[发电站](https://zh.wikipedia.org/wiki/电站 "wikilink")、发电分站等设施在1913年6月15日投入服务。新的勒奇山轴线就此成为了从事国际运输的重要铁路通道，尤其是连接[阿尔萨斯至意大利](https://zh.wikipedia.org/wiki/阿尔萨斯 "wikilink")（[多莫多索拉](../Page/多莫多索拉.md "wikilink")）\[3\]。
 
 作为电气化测试线路的先行者，施皮茨-弗鲁蒂根铁路在1910年11月通电时的频率为15赫兹。当[普鲁士](https://zh.wikipedia.org/wiki/普鲁士 "wikilink")、[巴伐利亚和](../Page/巴伐利亞王國.md "wikilink")[巴登当局将铁路频率确定为](../Page/巴登大公國.md "wikilink")16⅔赫兹后，BLS也于1913年初跟随将全线调整为16⅔赫兹。这项调整可以在不对线路结构进行重大改变下实施，唯[机车](https://zh.wikipedia.org/wiki/铁路机车 "wikilink")[电动机](../Page/电动机.md "wikilink")的转速控制器需要进行调整。
 
@@ -33,8 +32,7 @@ BLS还与以下铁路公司从一开始便签订了经营协议：
 
 ### 复线及背驮式运输
 
-[RoLa_Loetschberg.jpg](https://zh.wikipedia.org/wiki/File:RoLa_Loetschberg.jpg "fig:RoLa_Loetschberg.jpg")
-自[20世纪50年代以来](https://zh.wikipedia.org/wiki/20世纪50年代 "wikilink")，BLS开办了一项穿越勒奇山隧道的[汽车装运列车](https://zh.wikipedia.org/wiki/汽车装运列车 "wikilink")（不同于[人车同行](https://zh.wikipedia.org/wiki/人车同行 "wikilink")）服务。因此，自驾车经过[日内瓦湖地区得以避免大量的盘山](https://zh.wikipedia.org/wiki/日内瓦湖 "wikilink")[公路](../Page/公路.md "wikilink")。而[单线铁路的运作自](https://zh.wikipedia.org/wiki/单线铁路 "wikilink")[20世纪60年代起已经不胜负荷](https://zh.wikipedia.org/wiki/20世纪60年代 "wikilink")，但直到1976年，[联邦议会才批准借贷](https://zh.wikipedia.org/wiki/瑞士联邦议会 "wikilink")6.2亿瑞士法郎的资金以用作升级复线，该工作自次年起分为几个阶段进行。至1992年起，勒奇山铁路全线实现复线\[7\]。
+[RoLa_Loetschberg.jpg](https://zh.wikipedia.org/wiki/File:RoLa_Loetschberg.jpg "fig:RoLa_Loetschberg.jpg") 自[20世纪50年代以来](https://zh.wikipedia.org/wiki/20世纪50年代 "wikilink")，BLS开办了一项穿越勒奇山隧道的[汽车装运列车](https://zh.wikipedia.org/wiki/汽车装运列车 "wikilink")（不同于[人车同行](https://zh.wikipedia.org/wiki/人车同行 "wikilink")）服务。因此，自驾车经过[日内瓦湖地区得以避免大量的盘山](https://zh.wikipedia.org/wiki/日内瓦湖 "wikilink")[公路](../Page/公路.md "wikilink")。而[单线铁路的运作自](https://zh.wikipedia.org/wiki/单线铁路 "wikilink")[20世纪60年代起已经不胜负荷](https://zh.wikipedia.org/wiki/20世纪60年代 "wikilink")，但直到1976年，[联邦议会才批准借贷](https://zh.wikipedia.org/wiki/瑞士联邦议会 "wikilink")6.2亿瑞士法郎的资金以用作升级复线，该工作自次年起分为几个阶段进行。至1992年起，勒奇山铁路全线实现复线\[7\]。
 
 1993年底，瑞士联邦委托BLS提供一条的[载货汽车](../Page/载货汽车.md "wikilink")转运线路，要求的为2.5米宽及4米高。线路的改造工作始于1994年1月，但由于南侧的地质问题，它直到2011年6月11日才竣工。自开办以来，这条“”可以将来往于德国和意大利的卡车通过铁路在勒奇山转运，为从公路转移至铁路的过境运输作出了相当大的贡献\[8\]。
 
@@ -46,8 +44,7 @@ BLS还与以下铁路公司从一开始便签订了经营协议：
 
 2001年5月15日，为确保它们的未来，[瑞士联邦铁路](https://zh.wikipedia.org/wiki/瑞士联邦铁路 "wikilink")（）及BLS勒奇山铁路达成了一项新的任务分配协议。它明确定义了除其它事项外，原SBB经营的和[伯尔尼](../Page/伯尔尼.md "wikilink")-[卢塞恩](../Page/卢塞恩.md "wikilink")的[区域快车业务将由BLS接管](https://zh.wikipedia.org/wiki/区域快车 "wikilink")；作为回报，SBB则可在BLS的网络中经营。同时，SBB的货运部门还将对瑞士境内满负荷运输的业务进行全面控制。过境运输和固定班列运输则在协议签署后参与竞争。这项协议自2004年12月12日开始生效\[10\]。
 
-[Alptransit_LBT_Raron_Rhonebridge.jpg](https://zh.wikipedia.org/wiki/File:Alptransit_LBT_Raron_Rhonebridge.jpg "fig:Alptransit_LBT_Raron_Rhonebridge.jpg")
-1992年9月27日，瑞士进行[全民公投](https://zh.wikipedia.org/wiki/全民公投 "wikilink")，并以压倒性优势通过了NEAT项目（，即新阿尔卑斯横贯线），也被称为“阿尔卑斯转运线”。经过投票批准，瑞士将兴建两条穿越[阿尔卑斯山](../Page/阿尔卑斯山.md "wikilink")的横向线路，其中一个在[哥达](https://zh.wikipedia.org/wiki/圣哥达山口 "wikilink")，另一个在勒奇山。最初阿尔卑斯转运线的勒奇山项目是在弗鲁蒂根和[罗纳河谷间提供两条单孔隧道](https://zh.wikipedia.org/wiki/罗纳河 "wikilink")，全长41公里。但出于财政原因，隧道长度被缩短至34.6公里，同时其中一条孔洞大部分采用壳式结构。新的基线于2007年6月15日落成，并于同年12月9日全面通车。至此[列车能够以](https://zh.wikipedia.org/wiki/列车 "wikilink")160-200公里/小时的速度通过[勒奇山基底隧道](https://zh.wikipedia.org/wiki/勒奇山基底隧道 "wikilink")\[11\]。
+[Alptransit_LBT_Raron_Rhonebridge.jpg](https://zh.wikipedia.org/wiki/File:Alptransit_LBT_Raron_Rhonebridge.jpg "fig:Alptransit_LBT_Raron_Rhonebridge.jpg") 1992年9月27日，瑞士进行[全民公投](https://zh.wikipedia.org/wiki/全民公投 "wikilink")，并以压倒性优势通过了NEAT项目（，即新阿尔卑斯横贯线），也被称为“阿尔卑斯转运线”。经过投票批准，瑞士将兴建两条穿越[阿尔卑斯山](../Page/阿尔卑斯山.md "wikilink")的横向线路，其中一个在[哥达](https://zh.wikipedia.org/wiki/圣哥达山口 "wikilink")，另一个在勒奇山。最初阿尔卑斯转运线的勒奇山项目是在弗鲁蒂根和[罗纳河谷间提供两条单孔隧道](https://zh.wikipedia.org/wiki/罗纳河 "wikilink")，全长41公里。但出于财政原因，隧道长度被缩短至34.6公里，同时其中一条孔洞大部分采用壳式结构。新的基线于2007年6月15日落成，并于同年12月9日全面通车。至此[列车能够以](https://zh.wikipedia.org/wiki/列车 "wikilink")160-200公里/小时的速度通过[勒奇山基底隧道](https://zh.wikipedia.org/wiki/勒奇山基底隧道 "wikilink")\[11\]。
 
 ### BLS股份公司
 
@@ -57,8 +54,7 @@ BLS还与以下铁路公司从一开始便签订了经营协议：
 
 ## 经营
 
-[Kandersteg02.jpg](https://zh.wikipedia.org/wiki/File:Kandersteg02.jpg "fig:Kandersteg02.jpg")
-BLS主要从事以下业务\[15\]：
+[Kandersteg02.jpg](https://zh.wikipedia.org/wiki/File:Kandersteg02.jpg "fig:Kandersteg02.jpg") BLS主要从事以下业务\[15\]：
 
   - BLS基础设施的维护及使用（由子公司负责）
   - 铁路客运
@@ -70,8 +66,7 @@ BLS主要从事以下业务\[15\]：
 
 ## 线路
 
-[Re44_180.jpg](https://zh.wikipedia.org/wiki/File:Re44_180.jpg "fig:Re44_180.jpg")
-BLS直接拥有伯尔尼-勒奇山-辛普朗的铁路干线，它从与瑞士联邦铁路网络相连的伯尔尼开始，经施皮茨和勒奇山隧道至布里格，并在那里与瑞士联邦铁路持有的[辛普朗隧道相连](https://zh.wikipedia.org/wiki/辛普朗隧道 "wikilink")，可直接通往意大利。其中[图恩](../Page/图恩.md "wikilink")至施皮茨之间的线路形成了图恩湖铁路，并在因特拉肯设有终端站，而从施皮茨至布里格的路段则被作为勒奇山铁路的一部分\[16\]。
+[Re44_180.jpg](https://zh.wikipedia.org/wiki/File:Re44_180.jpg "fig:Re44_180.jpg") BLS直接拥有伯尔尼-勒奇山-辛普朗的铁路干线，它从与瑞士联邦铁路网络相连的伯尔尼开始，经施皮茨和勒奇山隧道至布里格，并在那里与瑞士联邦铁路持有的[辛普朗隧道相连](https://zh.wikipedia.org/wiki/辛普朗隧道 "wikilink")，可直接通往意大利。其中[图恩](../Page/图恩.md "wikilink")至施皮茨之间的线路形成了图恩湖铁路，并在因特拉肯设有终端站，而从施皮茨至布里格的路段则被作为勒奇山铁路的一部分\[16\]。
 
 传统的干线组成了一条较长的线路，它从法国及德国边境通过辛普朗隧道一直延伸至意大利[米兰](https://zh.wikipedia.org/wiki/米兰 "wikilink")。作为这条线路的一个变体，BLS也建造和拥有[穆捷至](https://zh.wikipedia.org/wiki/穆捷 "wikilink")[朗瑙之间的](https://zh.wikipedia.org/wiki/朗瑙 "wikilink")[格伦森贝格铁路](https://zh.wikipedia.org/wiki/格伦森贝格铁路 "wikilink")（现为的一部分），其中包括8.5公里长的，它能有效缩短法国边境[德尔至伯尔尼之间的距离](https://zh.wikipedia.org/wiki/德尔_\(贝尔福地区\) "wikilink")。然而，大多数这种较长的线路总是由其它铁路公司经营\[17\]。
 
@@ -95,11 +90,7 @@ BLS直接拥有伯尔尼-勒奇山-辛普朗的铁路干线，它从与瑞士联
 
   - [BLS图片](http://www.bahngalerie.de/bahn/bls/)
 
-[Category:客運公司](https://zh.wikipedia.org/wiki/Category:客運公司 "wikilink")
-[Category:航運公司](https://zh.wikipedia.org/wiki/Category:航運公司 "wikilink")
-[Category:瑞士铁路公司](https://zh.wikipedia.org/wiki/Category:瑞士铁路公司 "wikilink")
-[Category:1906年成立的公司](https://zh.wikipedia.org/wiki/Category:1906年成立的公司 "wikilink")
-[Category:2006年結業公司](https://zh.wikipedia.org/wiki/Category:2006年結業公司 "wikilink")
+[Category:客運公司](https://zh.wikipedia.org/wiki/Category:客運公司 "wikilink") [Category:航運公司](https://zh.wikipedia.org/wiki/Category:航運公司 "wikilink") [Category:瑞士铁路公司](https://zh.wikipedia.org/wiki/Category:瑞士铁路公司 "wikilink") [Category:1906年成立的公司](https://zh.wikipedia.org/wiki/Category:1906年成立的公司 "wikilink") [Category:2006年結業公司](https://zh.wikipedia.org/wiki/Category:2006年結業公司 "wikilink")
 
 1.
 

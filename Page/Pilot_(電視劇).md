@@ -24,8 +24,7 @@
 
   - [朴貞洙](../Page/朴貞洙.md "wikilink") 飾 尹美子
 
-  - [田　雲](https://zh.wikipedia.org/wiki/田雲 "wikilink") 飾
-    [大韓航空](../Page/大韓航空.md "wikilink")代表理事
+  - [田　雲](https://zh.wikipedia.org/wiki/田雲 "wikilink") 飾 [大韓航空](../Page/大韓航空.md "wikilink")代表理事
 
   - [李永厚](https://zh.wikipedia.org/wiki/李永厚 "wikilink") 飾 高英煥
 
@@ -37,8 +36,7 @@
 
 ### 特別出演
 
-  - [車仁杓](../Page/車仁杓.md "wikilink") 飾
-    [大韓航空](../Page/大韓航空.md "wikilink")飛行機械員
+  - [車仁杓](../Page/車仁杓.md "wikilink") 飾 [大韓航空](../Page/大韓航空.md "wikilink")飛行機械員
 
 ## 同類型電視劇
 
@@ -49,14 +47,7 @@
 ## 外部連結
 
   - [《Pilot》韓國MBC官方網站](http://cue.imbc.com/totalSearch.aspx?nethruCD=AG10018&nethruNm=%uC5ED%uC804%uC758&query=%uD30C%uC77C%uB7FF)
-  - [Youtube
-    -《Pilot》開場片段](http://www.youtube.com/watch?v=5rEJZ_mTmcM&feature=youtu.be)
+  - [Youtube -《Pilot》開場片段](http://www.youtube.com/watch?v=5rEJZ_mTmcM&feature=youtu.be)
   - [Youtube -《Pilot》完場片段](http://www.youtube.com/watch?v=ycVgVt3cSLk)
 
-[Category:1993年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:1993年韓國電視劇集 "wikilink")
-[Category:1993年電視劇集](https://zh.wikipedia.org/wiki/Category:1993年電視劇集 "wikilink")
-[Category:MBC月火連續劇](https://zh.wikipedia.org/wiki/Category:MBC月火連續劇 "wikilink")
-[Category:機場背景作品](https://zh.wikipedia.org/wiki/Category:機場背景作品 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:航空题材电视剧](https://zh.wikipedia.org/wiki/Category:航空题材电视剧 "wikilink")
-[Category:空中服務員題材作品](https://zh.wikipedia.org/wiki/Category:空中服務員題材作品 "wikilink")
+[Category:1993年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:1993年韓國電視劇集 "wikilink") [Category:1993年電視劇集](https://zh.wikipedia.org/wiki/Category:1993年電視劇集 "wikilink") [Category:MBC月火連續劇](https://zh.wikipedia.org/wiki/Category:MBC月火連續劇 "wikilink") [Category:機場背景作品](https://zh.wikipedia.org/wiki/Category:機場背景作品 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:航空题材电视剧](https://zh.wikipedia.org/wiki/Category:航空题材电视剧 "wikilink") [Category:空中服務員題材作品](https://zh.wikipedia.org/wiki/Category:空中服務員題材作品 "wikilink")

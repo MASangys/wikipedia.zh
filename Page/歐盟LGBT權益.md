@@ -10,8 +10,7 @@
 
 ## 立法保護
 
-[LGBT_rights_in_the_EU_(2013-07)_zh-hant.svg](https://zh.wikipedia.org/wiki/File:LGBT_rights_in_the_EU_\(2013-07\)_zh-hant.svg "fig:LGBT_rights_in_the_EU_(2013-07)_zh-hant.svg")
-根據上述的《阿姆斯特丹條約》的條款，《建立一個廣泛平等僱傭和就業框架的指引》在2000年生效。這個框架指引強制所有歐盟國家三年內在就業方面通過反歧視立法。而該立法必須包括保護公民免於受到基於性傾向歧視的條款。\[7\]
+[LGBT_rights_in_the_EU_(2013-07)_zh-hant.svg](https://zh.wikipedia.org/wiki/File:LGBT_rights_in_the_EU_\(2013-07\)_zh-hant.svg "fig:LGBT_rights_in_the_EU_(2013-07)_zh-hant.svg") 根據上述的《阿姆斯特丹條約》的條款，《建立一個廣泛平等僱傭和就業框架的指引》在2000年生效。這個框架指引強制所有歐盟國家三年內在就業方面通過反歧視立法。而該立法必須包括保護公民免於受到基於性傾向歧視的條款。\[7\]
 
 在實際中，這保護了歐盟成員國公民免於因為其性傾向而被拒絕工作、被免職的情況。也保護了他們因為性傾向受到其同儕騷擾的發生。但是這不包括因為性傾向而被拒絕醫療服務或治療、拒絕在酒店被給予雙人房、在學校遭受欺凌或拒絕社會福利計劃（比如將生者的補貼和財政補助給予照料者）的權利，雖然這些權利的保障被包括在基於種族或性別的歧視當中。\[8\]
 
@@ -19,14 +18,11 @@
 
 ### 提議的指引
 
-擬議中的歐洲反歧視法將禁止在社會保障，社會優勢，教育和獲得商品供應等方面的歧視。這將包括基於宗教或信仰，殘疾，年齡和性取向為理由的歧視。\[10\]
-但是，這個指引停滯在[歐洲議會](https://zh.wikipedia.org/wiki/歐洲議會 "wikilink")，雖然歐洲議會強烈支持該指引。\[11\]
+擬議中的歐洲反歧視法將禁止在社會保障，社會優勢，教育和獲得商品供應等方面的歧視。這將包括基於宗教或信仰，殘疾，年齡和性取向為理由的歧視。\[10\] 但是，這個指引停滯在[歐洲議會](https://zh.wikipedia.org/wiki/歐洲議會 "wikilink")，雖然歐洲議會強烈支持該指引。\[11\]
 
 ### 變性者權利
 
-對[變性者的保護不包括在歐盟的法律當中](https://zh.wikipedia.org/wiki/變性者 "wikilink")。雖然[歐洲議會早在](https://zh.wikipedia.org/wiki/歐洲議會 "wikilink")1989年就採取了一個關於變性者權利的決議，但是變性者的身份並沒有納入到任何歐盟的資助計劃中，也沒有如同性取向一樣在建立「歐洲性別平等機構」（European
-Institute for Gender
-Equality，EIGE）中被提及。然而，歐洲法院的一些判決先例通過將「性別」的解釋包括到「[性別重構](https://zh.wikipedia.org/wiki/性別重構 "wikilink")」的人士的方式來解釋歧視的做法，為變性人提供了一定程度的保護。因此，所有歐盟關於性別歧視的法律都適用於變性者族群。\[12\]2002年，《1976年平等對待指引》被修改，並將歧視擴展至包括對性別身份認同的歧視。\[13\]
+對[變性者的保護不包括在歐盟的法律當中](https://zh.wikipedia.org/wiki/變性者 "wikilink")。雖然[歐洲議會早在](https://zh.wikipedia.org/wiki/歐洲議會 "wikilink")1989年就採取了一個關於變性者權利的決議，但是變性者的身份並沒有納入到任何歐盟的資助計劃中，也沒有如同性取向一樣在建立「歐洲性別平等機構」（European Institute for Gender Equality，EIGE）中被提及。然而，歐洲法院的一些判決先例通過將「性別」的解釋包括到「[性別重構](https://zh.wikipedia.org/wiki/性別重構 "wikilink")」的人士的方式來解釋歧視的做法，為變性人提供了一定程度的保護。因此，所有歐盟關於性別歧視的法律都適用於變性者族群。\[12\]2002年，《1976年平等對待指引》被修改，並將歧視擴展至包括對性別身份認同的歧視。\[13\]
 
 ## 其他行動
 
@@ -359,49 +355,29 @@ Equality，EIGE）中被提及。然而，歐洲法院的一些判決先例通�
 ## 外部連結
 
   - [歐洲議會關於LGBT權利機構間小組](http://www.lgbt-ep.eu/)
-  - [LGBT](http://fra.europa.eu/en/theme/lgbt),
-    [歐盟基本權利機構](https://zh.wikipedia.org/wiki/歐盟基本權利機構 "wikilink")
-  - [European Union and LGBT
-    rights](https://web.archive.org/web/20130914033751/http://www.ilga-europe.org/home/guide_europe/eu/lgbt_rights),
-    [ILGA-歐洲](https://zh.wikipedia.org/wiki/ILGA-歐洲 "wikilink")
+  - [LGBT](http://fra.europa.eu/en/theme/lgbt), [歐盟基本權利機構](https://zh.wikipedia.org/wiki/歐盟基本權利機構 "wikilink")
+  - [European Union and LGBT rights](https://web.archive.org/web/20130914033751/http://www.ilga-europe.org/home/guide_europe/eu/lgbt_rights), [ILGA-歐洲](https://zh.wikipedia.org/wiki/ILGA-歐洲 "wikilink")
 
-[Category:歐洲LGBT權益](https://zh.wikipedia.org/wiki/Category:歐洲LGBT權益 "wikilink")
-[Category:歐盟法律](https://zh.wikipedia.org/wiki/Category:歐盟法律 "wikilink")
+[Category:歐洲LGBT權益](https://zh.wikipedia.org/wiki/Category:歐洲LGBT權益 "wikilink") [Category:歐盟法律](https://zh.wikipedia.org/wiki/Category:歐盟法律 "wikilink")
 
 1.
 
-2.  [Consolidated versions of the Treaty on European Union and the
-    Treaty on the Functioning of the European
-    Union](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2008:115:0001:01:EN:HTML),
-    European Union 2009
+2.  [Consolidated versions of the Treaty on European Union and the Treaty on the Functioning of the European Union](http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:C:2008:115:0001:01:EN:HTML), European Union 2009
 
-3.  [Perspective: what has the EU done for LGBT
-    rights?](http://www.cafebabel.co.uk/article/33659/day-homophobia-lithuania-european-union-summary.html)
-    , Café Babel 17/05/10
+3.  [Perspective: what has the EU done for LGBT rights?](http://www.cafebabel.co.uk/article/33659/day-homophobia-lithuania-european-union-summary.html) , Café Babel 17/05/10
 
 4.
 5.
-6.  [CHARTER OF FUNDAMENTAL RIGHTS OF THE EUROPEAN
-    UNION](http://www.europarl.europa.eu/charter/pdf/text_en.pdf),
-    European Union 2000
+6.  [CHARTER OF FUNDAMENTAL RIGHTS OF THE EUROPEAN UNION](http://www.europarl.europa.eu/charter/pdf/text_en.pdf), European Union 2000
 
 7.
-8.  [What is the current legal situation in the
-    EU?](http://www.ilga-europe.org/home/how_we_work/european_institutions/anti_discrimination_law/current_legal_situation)
-    , ILGA Europe
+8.  [What is the current legal situation in the EU?](http://www.ilga-europe.org/home/how_we_work/european_institutions/anti_discrimination_law/current_legal_situation) , ILGA Europe
 
-9.  [European Union and LGBT
-    rights](http://www.ilga-europe.org/home/guide/eu/lgbt_rights) , ILGA
-    Europe
+9.  [European Union and LGBT rights](http://www.ilga-europe.org/home/guide/eu/lgbt_rights) , ILGA Europe
 
-10. [Why ILGA-Europe supports the proposed Anti-Discrimination
-    Directive](http://www.ilga-europe.org/home/how_we_work/european_institutions/anti_discrimination_law/why_ilga_europe_support)
-    , ILGA Europe
+10. [Why ILGA-Europe supports the proposed Anti-Discrimination Directive](http://www.ilga-europe.org/home/how_we_work/european_institutions/anti_discrimination_law/why_ilga_europe_support) , ILGA Europe
 
-11. [European Parliament renews call for anti-discrimination laws for
-    LGBT
-    people](http://www.lgbtqnation.com/2011/10/european-parliament-renews-call-for-anti-discrimination-laws-for-lgbt-people/),
-    LGBTQ Nation
+11. [European Parliament renews call for anti-discrimination laws for LGBT people](http://www.lgbtqnation.com/2011/10/european-parliament-renews-call-for-anti-discrimination-laws-for-lgbt-people/), LGBTQ Nation
 
 12.
 13.
@@ -419,27 +395,16 @@ Equality，EIGE）中被提及。然而，歐洲法院的一些判決先例通�
 
 21.
 
-22. [Report on civil law, commercial law, family law and private
-    international law aspects of the Action Plan Implementing the
-    Stockholm
-    Programme](http://www.europarl.europa.eu/sides/getDoc.do?type=REPORT&reference=A7-2010-0252&language=EN),
-    European Parliament
+22. [Report on civil law, commercial law, family law and private international law aspects of the Action Plan Implementing the Stockholm Programme](http://www.europarl.europa.eu/sides/getDoc.do?type=REPORT&reference=A7-2010-0252&language=EN), European Parliament
 
-23. [EU-Wide Recognition of Member States’ Gay Marriage, Civil
-    Partnership a Step
-    Closer](http://wglb-tv.blogspot.com/2010/11/eu-wide-recognition-of-member-states.html),
-    WGLB
+23. [EU-Wide Recognition of Member States’ Gay Marriage, Civil Partnership a Step Closer](http://wglb-tv.blogspot.com/2010/11/eu-wide-recognition-of-member-states.html), WGLB
 
-24. [Green Party calls for EU-wide gay
-    marriage](http://www.pinknews.co.uk/news/articles/2005-12572.html/),
-    Pink News
+24. [Green Party calls for EU-wide gay marriage](http://www.pinknews.co.uk/news/articles/2005-12572.html/), Pink News
 
 25.
 26. 違反歐盟法，但鮮被執行
 
-27. [Rainbow Europe Country
-    Index](http://ilga-europe.org/content/download/17140/110295/version/1/file/map-B_side.pdf)
-
+27. [Rainbow Europe Country Index](http://ilga-europe.org/content/download/17140/110295/version/1/file/map-B_side.pdf)
 
 28.
 
@@ -451,8 +416,7 @@ Equality，EIGE）中被提及。然而，歐洲法院的一些判決先例通�
 
 34.
 
-35. [Sexual orientation and military
-    service\#Greece](https://zh.wikipedia.org/wiki/Sexual_orientation_and_military_service#Greece "wikilink")
+35. [Sexual orientation and military service\#Greece](https://zh.wikipedia.org/wiki/Sexual_orientation_and_military_service#Greece "wikilink")
 
 36.
 37.
@@ -462,5 +426,4 @@ Equality，EIGE）中被提及。然而，歐洲法院的一些判決先例通�
 41.
 42.
 43.
-44. [Criminal Justice and Immigration Act 2008
-    (c. 4)](http://www.opsi.gov.uk/acts/acts2008/ukpga_20080004_en_9#pt5-pb3-l1g74)
+44. [Criminal Justice and Immigration Act 2008 (c. 4)](http://www.opsi.gov.uk/acts/acts2008/ukpga_20080004_en_9#pt5-pb3-l1g74)

@@ -1,13 +1,10 @@
-My Place，是日本的音樂組合[(二代目)J Soul
-Brothers的第](../Page/J_Soul_Brothers.md "wikilink")4張單曲。於2009年1月7日起於EXILE
-mobile限量銷售。
+My Place，是日本的音樂組合[(二代目)J Soul Brothers的第](../Page/J_Soul_Brothers.md "wikilink")4張單曲。於2009年1月7日起於EXILE mobile限量銷售。
 
 ## 解說
 
   - (二代目) J Soul Brothers 的第4張單曲。
   - 只在EXILE mobile中銷售，沒有在一般的CD店舖銷售。
-  - 「My Place」被使用作為[東京電視台](../Page/東京電視台.md "wikilink")「嘉納杯
-    柔道ワールドグランプリ」主題歌。
+  - 「My Place」被使用作為[東京電視台](../Page/東京電視台.md "wikilink")「嘉納杯 柔道ワールドグランプリ」主題歌。
   - 「My Place」是[NESMITH](../Page/NESMITH.md "wikilink")初次作詞的歌曲。
 
 ## 曲目
@@ -18,8 +15,7 @@ mobile限量銷售。
     （作詞：[NESMITH](../Page/NESMITH.md "wikilink") / 作曲：Hitoshi Harukawa）
       -
         [東京電視台](../Page/東京電視台.md "wikilink")「嘉納杯 柔道World Grand Prix」主題歌。
-        收錄於專輯「[J Soul
-        Brothers](https://zh.wikipedia.org/wiki/J_Soul_Brothers_\(專輯\) "wikilink")」第7首歌曲。
+        收錄於專輯「[J Soul Brothers](https://zh.wikipedia.org/wiki/J_Soul_Brothers_\(專輯\) "wikilink")」第7首歌曲。
 2.  Make It Real
     （作詞・作曲：[nao'ymt](https://zh.wikipedia.org/wiki/nao'ymt "wikilink")）
       -
@@ -33,9 +29,6 @@ mobile限量銷售。
 
 ## 收錄專輯
 
-  - [J Soul
-    Brothers](../Page/J_Soul_Brothers_\(J_Soul_Brothers專輯\).md "wikilink")（M-1、2）
+  - [J Soul Brothers](../Page/J_Soul_Brothers_\(J_Soul_Brothers專輯\).md "wikilink")（M-1、2）
 
-[Category:J_Soul_Brothers歌曲](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers歌曲 "wikilink")
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:東京電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台節目主題曲 "wikilink")
+[Category:J_Soul_Brothers歌曲](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers歌曲 "wikilink") [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:東京電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台節目主題曲 "wikilink")

@@ -1,30 +1,14 @@
-**对象管理**是[Windows
-Executive的一个子系统实现](https://zh.wikipedia.org/wiki/Windows_Executive "wikilink")，用于管理Windows资源。
-资源包括物理设备、文件、文件目录、[注册表条目](https://zh.wikipedia.org/wiki/Windows_Registry "wikilink")、正在运行的进程等等。所有子系统访问资源都必须通过对象管理子系统。
+**对象管理**是[Windows Executive的一个子系统实现](https://zh.wikipedia.org/wiki/Windows_Executive "wikilink")，用于管理Windows资源。 资源包括物理设备、文件、文件目录、[注册表条目](https://zh.wikipedia.org/wiki/Windows_Registry "wikilink")、正在运行的进程等等。所有子系统访问资源都必须通过对象管理子系统。
 
 ## 体系结构
 
-[Windows
-NT操作系统体系结构中](../Page/Windows_NT.md "wikilink")，对象管理子系统管理所有的资源。资源被表示为对象。对象管理子系统保持着对每个对象的[引用计数](../Page/引用计数.md "wikilink")。任何访问对象的系统调用都必须通过对象管理子系统。Windows对象可分为内核对象、用户对象、GDI对象：
+[Windows NT操作系统体系结构中](../Page/Windows_NT.md "wikilink")，对象管理子系统管理所有的资源。资源被表示为对象。对象管理子系统保持着对每个对象的[引用计数](../Page/引用计数.md "wikilink")。任何访问对象的系统调用都必须通过对象管理子系统。Windows对象可分为内核对象、用户对象、GDI对象：
 
-  - 用户对象（User interface
-    object）：支持窗口管理。每个对象仅有一个句柄，句柄不能复制或继承，不能引用其他用户会话中的进程的用户句柄。任何进程只要有对某个用户句柄的安全访问权限，即可以访问该用户对象，即用户对象在当前会话下是全局的。一个进程最多有
-    65536 个用户对象句柄。用户对象包括：快捷键表HACCEL、插入点HCaret、鼠标指针HCURSOR、DDE
-    会话、窗口钩子HOOK、图标 HICON、菜单 HMENU、窗口 HWND、窗口位置Window
-    position。\[1\]
-  - GDI 对象：支持图形。每个对象仅有一个句柄，句柄为进程私有。一个进程最多有 65536 个 GDI 对象句柄。GDI 对象包括：位图
-    HBITMAP、画刷
-    HBRUSH、设备环境HDC、[增强型图元文件（EMF）](https://zh.wikipedia.org/wiki/EMF "wikilink")、EMF
-    设备环境、字体 HFONT、内存 DC、图元文件Metafile、图元文件 DC、调色板 HPALETTE、画笔
-    HPEN、区域（Region）HRGN。\[2\]
-  - 内核对象：支持内存管理、进程执行、[进程间通信](https://zh.wikipedia.org/wiki/进程间通信 "wikilink")。内核对象句柄是进程私有的，必须创建或者打开内核对象以获取其句柄。当进程创建或打开内核对象时，进程的句柄表中增加一个条目指向内核对象实例。进程的句柄表的索引称为**[句柄](../Page/句柄.md "wikilink")**（handle）\[3\]。对象管理子系统使用句柄与命名两种方式管理对象实例。句柄在一个进程内部是线程共享的，但在进程之间不是直接可复用，需要特别方式在进程间传递对象句柄。一个进程任何时刻最多拥有
-    2<sup>24</sup>，即大约 16,000,000
-    个句柄。句柄按照对象的分类可分为文件句柄、事件句柄、进程句柄等。一个进程对一个对象可以有多个句柄，以便按照不同权限来访问对象。
+  - 用户对象（User interface object）：支持窗口管理。每个对象仅有一个句柄，句柄不能复制或继承，不能引用其他用户会话中的进程的用户句柄。任何进程只要有对某个用户句柄的安全访问权限，即可以访问该用户对象，即用户对象在当前会话下是全局的。一个进程最多有 65536 个用户对象句柄。用户对象包括：快捷键表HACCEL、插入点HCaret、鼠标指针HCURSOR、DDE 会话、窗口钩子HOOK、图标 HICON、菜单 HMENU、窗口 HWND、窗口位置Window position。\[1\]
+  - GDI 对象：支持图形。每个对象仅有一个句柄，句柄为进程私有。一个进程最多有 65536 个 GDI 对象句柄。GDI 对象包括：位图 HBITMAP、画刷 HBRUSH、设备环境HDC、[增强型图元文件（EMF）](https://zh.wikipedia.org/wiki/EMF "wikilink")、EMF 设备环境、字体 HFONT、内存 DC、图元文件Metafile、图元文件 DC、调色板 HPALETTE、画笔 HPEN、区域（Region）HRGN。\[2\]
+  - 内核对象：支持内存管理、进程执行、[进程间通信](https://zh.wikipedia.org/wiki/进程间通信 "wikilink")。内核对象句柄是进程私有的，必须创建或者打开内核对象以获取其句柄。当进程创建或打开内核对象时，进程的句柄表中增加一个条目指向内核对象实例。进程的句柄表的索引称为**[句柄](../Page/句柄.md "wikilink")**（handle）\[3\]。对象管理子系统使用句柄与命名两种方式管理对象实例。句柄在一个进程内部是线程共享的，但在进程之间不是直接可复用，需要特别方式在进程间传递对象句柄。一个进程任何时刻最多拥有 2<sup>24</sup>，即大约 16,000,000 个句柄。句柄按照对象的分类可分为文件句柄、事件句柄、进程句柄等。一个进程对一个对象可以有多个句柄，以便按照不同权限来访问对象。
 
-对象可分为**内核对象**（Kernel objects）与**执行对象**（Executive
-objects）。内核对象表示一些基本资源，如物理设备、同步服务等等。用户态的程序不能访问内核对象。\[4\]用户态的系统服务与应用程序使用执行对象，这是[Windows
-Executive对外暴露的对象](../Page/Windows_NT体系结构.md "wikilink")，用来封装一个或多个内核对象。执行对象还用于实现
-NT 子系统或 POSIX 子系统的一些功能。
+对象可分为**内核对象**（Kernel objects）与**执行对象**（Executive objects）。内核对象表示一些基本资源，如物理设备、同步服务等等。用户态的程序不能访问内核对象。\[4\]用户态的系统服务与应用程序使用执行对象，这是[Windows Executive对外暴露的对象](../Page/Windows_NT体系结构.md "wikilink")，用来封装一个或多个内核对象。执行对象还用于实现 NT 子系统或 POSIX 子系统的一些功能。
 
 Windows NT 暴露的执行对象包括:
 
@@ -383,8 +367,7 @@ WSAAccept</p></td>
 
   - `Object Name`，用来标识对象
   - `Object Directory`，对象所属类别
-  - [`Security``
-     ``Descriptors`](https://zh.wikipedia.org/wiki/Security_Descriptor "wikilink")，对象的访问权限，一般在创建对象时传入，大多数时候传入值为NULL，表示采用默认安全属性。
+  - [`Security``   ``Descriptors`](https://zh.wikipedia.org/wiki/Security_Descriptor "wikilink")，对象的访问权限，一般在创建对象时传入，大多数时候传入值为NULL，表示采用默认安全属性。
   - `Quota Charges`，对象的资源使用信息
   - `Open handle count`，打开的句柄计数
   - `Open handle list`，活动引用的进程列表
@@ -400,12 +383,9 @@ WSAAccept</p></td>
   - `Set security`，改变对象的安全访问信息
   - `Wait`，同步一个或多个对象，通过特定事件。
 
-同一类型的对象具有一些相同的属性，如类型名、是否分配在非分页内存、访问权限、同步信息等。这些由一个类型对象（type
-object）来表示。所有同一类型的对象实例共享这唯一的类型对象。
-可以创建新的对象类型，这通过把一个对象的属性作为对外暴露的状态，把其方法作为对外暴露的服务来实现。
+同一类型的对象具有一些相同的属性，如类型名、是否分配在非分页内存、访问权限、同步信息等。这些由一个类型对象（type object）来表示。所有同一类型的对象实例共享这唯一的类型对象。 可以创建新的对象类型，这通过把一个对象的属性作为对外暴露的状态，把其方法作为对外暴露的服务来实现。
 
-对象名（`Object
-name`）是一个对象的描述性标识。对象管理子系统保持一个已经用于表示对象的名字列表，映射每个名字到对象实例。实际上大多数访问对象的行为是通过句柄；通过对象名来查找对象实例仅发生在创建对象时、跨进程共享一个对象时。
+对象名（`Object name`）是一个对象的描述性标识。对象管理子系统保持一个已经用于表示对象的名字列表，映射每个名字到对象实例。实际上大多数访问对象的行为是通过句柄；通过对象名来查找对象实例仅发生在创建对象时、跨进程共享一个对象时。
 
 `Object directories`用于按照类型来分类对象。预定义的`Object directories`包括：
 
@@ -418,18 +398,15 @@ name`）是一个对象的描述性标识。对象管理子系统保持一个已
   - `\KnownDlls`
   - `\Nls` (language tables)
   - `\ObjectTypes` （对象类型对象）
-  - `\RPC Controls`
-    （[RPC端口](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")）
+  - `\RPC Controls` （[RPC端口](https://zh.wikipedia.org/wiki/远程过程调用 "wikilink")）
   - `\Security` （安全子系统对象）
   - `\Windows` （窗口子系统对象）
 
-对象属于命名空间（*Namespace*）. 每个用户会话（user
-session）是一个名字空间。这使得多个客户同时运行一个应用程序而不会发生干扰。在所有名字空间共享的对象属于*GLOBAL*命名空间。例如，在Global命名空间中创建一个事件，名字叫CSAPP：
+对象属于命名空间（*Namespace*）. 每个用户会话（user session）是一个名字空间。这使得多个客户同时运行一个应用程序而不会发生干扰。在所有名字空间共享的对象属于*GLOBAL*命名空间。例如，在Global命名空间中创建一个事件，名字叫CSAPP：
 
 `CreateEvent( NULL, FALSE, FALSE, "Global\\CSAPP" );`
 
-全局命名空间使得多个客户会话间的进程可以通信。例如，一个客户/服务器使用互斥锁来同步，服务器模块在全局命名空间创建一个互斥锁对象，然后客户进程使用"Global\\"前缀来打开这个互斥锁对象。
-客户进程可以明示使用 "Local\\"前缀来在客户会话命名空间中创建对象。\[5\]
+全局命名空间使得多个客户会话间的进程可以通信。例如，一个客户/服务器使用互斥锁来同步，服务器模块在全局命名空间创建一个互斥锁对象，然后客户进程使用"Global\\"前缀来打开这个互斥锁对象。 客户进程可以明示使用 "Local\\"前缀来在客户会话命名空间中创建对象。\[5\]
 
 OBJECT_ATTRIBUTES 结构:
 
@@ -466,22 +443,13 @@ Attributes 成员域可以是 0，或下述标志的组合：
 
 ## 外部链接
 
-  - \[<http://msdn.microsoft.com/en-us/library/windows/hardware/ff557759(v=vs.85>).aspx
-    Object Manager Routines (Windows Drivers)\]
-  - [Channel9
-    Interview](http://channel9.msdn.com/ShowPost.aspx?PostID=73995)
+  - \[<http://msdn.microsoft.com/en-us/library/windows/hardware/ff557759(v=vs.85>).aspx Object Manager Routines (Windows Drivers)\]
+  - [Channel9 Interview](http://channel9.msdn.com/ShowPost.aspx?PostID=73995)
 
-[Category:微软API](https://zh.wikipedia.org/wiki/Category:微软API "wikilink")
-[Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
-[Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink")
-[Category:Windows_NT](https://zh.wikipedia.org/wiki/Category:Windows_NT "wikilink")
+[Category:微软API](https://zh.wikipedia.org/wiki/Category:微软API "wikilink") [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink") [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink") [Category:Windows_NT](https://zh.wikipedia.org/wiki/Category:Windows_NT "wikilink")
 
-1.  [User
-    Objects](http://msdn.microsoft.com/en-us/library/windows/desktop/ms725486%28v=vs.85%29.aspx)
-2.  [GDI
-    Objects](http://msdn.microsoft.com/en-us/library/windows/desktop/ms724291%28v=vs.85%29.aspx)
+1.  [User Objects](http://msdn.microsoft.com/en-us/library/windows/desktop/ms725486%28v=vs.85%29.aspx)
+2.  [GDI Objects](http://msdn.microsoft.com/en-us/library/windows/desktop/ms724291%28v=vs.85%29.aspx)
 3.  每个进程中都存在一个句柄表，列出了所有本进程内可以使用的句柄。句柄表实际上是一个数组，每个数组元素为一个结构，包含一个指向内核对象的指针、访问掩码、继承标识等。句柄实际上是进程句柄表数组的索引。因此句柄是进程私有的。进程的句柄表的表头数据结构为HANDLE_TABLE。所有进程的句柄表表头形成一个List。句柄表的表项的数据结构为HANDLE_TABLE_ENTRY，长度为8字节，其中前四个数据为内核对象地址，后四个字节为访问掩码或在当前表项为空闲时存储下一空闲表项的索引值。
-4.  [Kernel
-    objects](http://msdn.microsoft.com/en-us/library/windows/desktop/ms724485%28v=vs.13%29.aspx)
-5.  [Kernel object
-    namespaces](http://msdn.microsoft.com/en-us/library/aa382954%28v=vs.13%29.aspx)
+4.  [Kernel objects](http://msdn.microsoft.com/en-us/library/windows/desktop/ms724485%28v=vs.13%29.aspx)
+5.  [Kernel object namespaces](http://msdn.microsoft.com/en-us/library/aa382954%28v=vs.13%29.aspx)

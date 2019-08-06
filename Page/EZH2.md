@@ -12,8 +12,7 @@
 
 ## 相互作用
 
-EZH2与下列蛋白质有着[蛋白質交互作用](../Page/蛋白質交互作用.md "wikilink")：[ATRX](https://zh.wikipedia.org/wiki/ATRX "wikilink")\[10\]、[EED](https://zh.wikipedia.org/wiki/EED "wikilink")\[11\]\[12\]、[HDAC1](https://zh.wikipedia.org/wiki/HDAC1 "wikilink")\[13\]、[HDAC2](https://zh.wikipedia.org/wiki/HDAC2 "wikilink")\[14\]和[VAV1](https://zh.wikipedia.org/wiki/VAV1 "wikilink")\[15\]。
-{{-}}
+EZH2与下列蛋白质有着[蛋白質交互作用](../Page/蛋白質交互作用.md "wikilink")：[ATRX](https://zh.wikipedia.org/wiki/ATRX "wikilink")\[10\]、[EED](https://zh.wikipedia.org/wiki/EED "wikilink")\[11\]\[12\]、[HDAC1](https://zh.wikipedia.org/wiki/HDAC1 "wikilink")\[13\]、[HDAC2](https://zh.wikipedia.org/wiki/HDAC2 "wikilink")\[14\]和[VAV1](https://zh.wikipedia.org/wiki/VAV1 "wikilink")\[15\]。 {{-}}
 
 ## 参考文献
 

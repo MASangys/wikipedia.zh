@@ -1,5 +1,4 @@
-《**OCEAN**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起](../Page/東方神起.md "wikilink")在日本发行的第37张[单曲](../Page/单曲.md "wikilink")。于2013年6月12日由[avex
-trax公司发行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
+《**OCEAN**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起](../Page/東方神起.md "wikilink")在日本发行的第37张[单曲](../Page/单曲.md "wikilink")。于2013年6月12日由[avex trax公司发行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -23,8 +22,7 @@ trax公司发行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
         日本电视台《》6月片头曲
         日本电视台《》（）6月片尾曲
 2.  《Wedding Dress》
-      - 作詞：H.U.B.・SHIROSE from WHITE JAM、作曲・編曲：SHIROSE from WHITE JAM・DJ
-        first / SHIMADA from WHITE JAM BEATZ
+      - 作詞：H.U.B.・SHIROSE from WHITE JAM、作曲・編曲：SHIROSE from WHITE JAM・DJ first / SHIMADA from WHITE JAM BEATZ
     <!-- end list -->
       -
 
@@ -52,9 +50,7 @@ trax公司发行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 ### Bigeast盤
 
   - CD与\[CD+DVD\]版同内容。
-  - \[CD-EXTRA\]收录有《TIME》Off Shot
-    Movie-《[TIME](../Page/TIME_\(东方神起专辑\).md "wikilink")》发行纪念
-    购买者限定活动Ver.-
+  - \[CD-EXTRA\]收录有《TIME》Off Shot Movie-《[TIME](../Page/TIME_\(东方神起专辑\).md "wikilink")》发行纪念 购买者限定活动Ver.-
 
 ## 注释
 
@@ -64,7 +60,4 @@ trax公司发行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 外部链接
 
-[Category:東方神起歌曲](https://zh.wikipedia.org/wiki/Category:東方神起歌曲 "wikilink")
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
-[Category:海題材歌曲](https://zh.wikipedia.org/wiki/Category:海題材歌曲 "wikilink")
+[Category:東方神起歌曲](https://zh.wikipedia.org/wiki/Category:東方神起歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:海題材歌曲](https://zh.wikipedia.org/wiki/Category:海題材歌曲 "wikilink")

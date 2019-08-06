@@ -30,10 +30,7 @@ D19E型柴油机车装用一台美国卡特彼勒公司的3512B型柴油机，�
 
   - [南车资阳机车有限公司：SDD3型内燃机车](https://web.archive.org/web/20140907192234/http://www.csrgc.com.cn/g1926/s4536/t105238.aspx)
 
-[Category:越南柴油机车](https://zh.wikipedia.org/wiki/Category:越南柴油机车 "wikilink")
-[Category:中车资阳制铁路机车](https://zh.wikipedia.org/wiki/Category:中车资阳制铁路机车 "wikilink")
-[Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")
-[Category:中国出口柴油机车](https://zh.wikipedia.org/wiki/Category:中国出口柴油机车 "wikilink")
+[Category:越南柴油机车](https://zh.wikipedia.org/wiki/Category:越南柴油机车 "wikilink") [Category:中车资阳制铁路机车](https://zh.wikipedia.org/wiki/Category:中车资阳制铁路机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink") [Category:中国出口柴油机车](https://zh.wikipedia.org/wiki/Category:中国出口柴油机车 "wikilink")
 
 1.
 

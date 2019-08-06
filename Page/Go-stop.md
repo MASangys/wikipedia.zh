@@ -1,5 +1,4 @@
-[Hwatu.jpg](https://zh.wikipedia.org/wiki/File:Hwatu.jpg "fig:Hwatu.jpg")的花札（花鬥）\]\]
-**Go-stop**（）或稱**五鳥**（）\[1\]是一種兩人或三人玩的[花札](../Page/花札.md "wikilink")遊戲，其規則與[來來](../Page/來來_\(花札\).md "wikilink")（Koi-koi）較為相似但更為複雜。與Koi-koi相比，其點數通常更高，得分點也更多，更易激起玩家的賭意。該遊戲在[韓國頗為流行](https://zh.wikipedia.org/wiki/韓國 "wikilink")，其中兩人玩的Go-stop特稱為**Matgo**（）。
+[Hwatu.jpg](https://zh.wikipedia.org/wiki/File:Hwatu.jpg "fig:Hwatu.jpg")的花札（花鬥）\]\] **Go-stop**（）或稱**五鳥**（）\[1\]是一種兩人或三人玩的[花札](../Page/花札.md "wikilink")遊戲，其規則與[來來](../Page/來來_\(花札\).md "wikilink")（Koi-koi）較為相似但更為複雜。與Koi-koi相比，其點數通常更高，得分點也更多，更易激起玩家的賭意。該遊戲在[韓國頗為流行](https://zh.wikipedia.org/wiki/韓國 "wikilink")，其中兩人玩的Go-stop特稱為**Matgo**（）。
 
 與“Koi-koi”一樣，這個遊戲的目的是將牌配對為一些特別組合，以獲得點數。獲得點數的方式有兩種：將手上的牌與檯面上的牌配對，以及抽牌來配對。在Go-stop中，如果獲得3點或3點以上（兩人玩時需7點或7點以上），可以喊出Stop結束這一局來獲得點數，或者是喊出Go以期繼續獲得更多點數。卡片所代表的點數不會影響到成績，只需要計算配對出來的組合的點數。理論上，Go-stop的最高點數為133120點（對方玩家各只得到一枚1點牌的情況下）。
 
@@ -21,8 +20,7 @@
 
 玩家在喊Stop結束比賽時，之前喊出的Go的次數對最終得分有影響：只喊出一次Go時，玩家最終得分加1；喊出兩次Go時，玩家最終得分加2；喊出三次Go時（Three-go，），玩家的最終得分翻倍（部分規則中加3後翻倍）；喊出四次Go時，玩家的最終得分乘以4（部分規則中加4後乘以4）；喊出五次Go的話，玩家的最終得分乘以8（部分規則中加5後乘以8）；依此類推。但如果該玩家喊出Go以後沒有喊Stop，並且沒有其他玩家喊Stop的話，則此局不算分，下一局點數翻倍\[7\]\[8\]。
 
-如果某玩家喊了Go以後，另一名玩家喊了Stop的話，則喊過Go的人必須扣除雙倍的點數給喊Stop的人，稱為“Go倍”（，“고
-바가지”的省略）。而此時沒有喊過Go的人則不用扣點數。
+如果某玩家喊了Go以後，另一名玩家喊了Stop的話，則喊過Go的人必須扣除雙倍的點數給喊Stop的人，稱為“Go倍”（，“고 바가지”的省略）。而此時沒有喊過Go的人則不用扣點數。
 
 在每一局結束時，原則上獲得最多點數的玩家就成為新莊家，並開始新的一局。如果三人均用完牌，也沒有人喊Stop的話，這一局不算分，而下一局得分翻倍。另外，與Koi-koi不同，在Go-stop中點數有時候會減少（見“特殊規則”一條），因此玩家在某回合的得分等於或者小於上次喊Go的回合時，無法再次喊Go或Stop。
 
@@ -96,8 +94,7 @@
 
 ## 鏈接
 
-  - [Matgo的Flash
-    game](http://www.fupa.com/play/BoardGame-free-games/gostop.html)
+  - [Matgo的Flash game](http://www.fupa.com/play/BoardGame-free-games/gostop.html)
 
 [Category:花札](https://zh.wikipedia.org/wiki/Category:花札 "wikilink")
 
@@ -107,8 +104,7 @@
 
 3.
 4.
-5.  [Rules of Card Games: Go
-    Stop](http://www.pagat.com/fishing/gostop.html)
+5.  [Rules of Card Games: Go Stop](http://www.pagat.com/fishing/gostop.html)
 
 6.  此處與Koi-koi完全一致。
 

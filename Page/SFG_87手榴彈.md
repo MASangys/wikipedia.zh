@@ -1,5 +1,4 @@
-**SFG
-87手榴彈**是一種爆破式[手榴彈](https://zh.wikipedia.org/wiki/手榴彈 "wikilink")，由[新加坡](../Page/新加坡.md "wikilink")特許工業公司（CIS，現在重組為新加坡科技動力）來生產。
+**SFG 87手榴彈**是一種爆破式[手榴彈](https://zh.wikipedia.org/wiki/手榴彈 "wikilink")，由[新加坡](../Page/新加坡.md "wikilink")特許工業公司（CIS，現在重組為新加坡科技動力）來生產。
 
 ## 設計
 
@@ -14,8 +13,7 @@ SFG 87裝有4到5秒的延遲信管，可以輕易的投擲到20米以外，最�
 
 ## 採用
 
-SFG
-87現為[新加坡武裝部隊](../Page/新加坡武裝部隊.md "wikilink")制式手榴彈，並已經分發部隊作新兵的訓練之用；一個標準的裝甲步兵班中每個成員會攜帶兩個手榴彈以用作[塹壕戰和在建築物戰鬥之中](https://zh.wikipedia.org/wiki/塹壕戰 "wikilink")。
+SFG 87現為[新加坡武裝部隊](../Page/新加坡武裝部隊.md "wikilink")制式手榴彈，並已經分發部隊作新兵的訓練之用；一個標準的裝甲步兵班中每個成員會攜帶兩個手榴彈以用作[塹壕戰和在建築物戰鬥之中](https://zh.wikipedia.org/wiki/塹壕戰 "wikilink")。
 
 ## 使用國
 

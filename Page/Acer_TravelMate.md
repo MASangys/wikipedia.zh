@@ -1,5 +1,4 @@
-**TravelMate**，是一個[筆記本電腦品牌](https://zh.wikipedia.org/wiki/筆記本電腦 "wikilink")，由[德州儀器于](https://zh.wikipedia.org/wiki/德州儀器 "wikilink")1988年創立，1997年為[宏碁電腦收購](https://zh.wikipedia.org/wiki/宏碁電腦 "wikilink")，併入Acer品牌。TravelMate在创立之初即推出了TravelMate
-1200，其可以通过[手机联网进行通信](https://zh.wikipedia.org/wiki/手机 "wikilink")；紧接着，在1993年发布了搭載486处理器的筆記本電腦产品。
+**TravelMate**，是一個[筆記本電腦品牌](https://zh.wikipedia.org/wiki/筆記本電腦 "wikilink")，由[德州儀器于](https://zh.wikipedia.org/wiki/德州儀器 "wikilink")1988年創立，1997年為[宏碁電腦收購](https://zh.wikipedia.org/wiki/宏碁電腦 "wikilink")，併入Acer品牌。TravelMate在创立之初即推出了TravelMate 1200，其可以通过[手机联网进行通信](https://zh.wikipedia.org/wiki/手机 "wikilink")；紧接着，在1993年发布了搭載486处理器的筆記本電腦产品。
 
 2002年，TravelMate就推出了全球第一款双用[平板电脑C](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")100；在2003年推出了全球最轻薄的15英寸[迅驰笔记本以及第一台旋转屏的迅驰笔记本C](https://zh.wikipedia.org/wiki/迅驰 "wikilink")110；在2005年则推出了第一台滑盖屏幕笔记本C200；而在2006年推出的全球首款[双核碳纤材质商用笔记本则获得了iF设计大奖](https://zh.wikipedia.org/wiki/双核 "wikilink")。
 
@@ -12,8 +11,7 @@
 
 ### Acer TravelMate 系列
 
-[Acer_TravelMate_8481TG.jpg](https://zh.wikipedia.org/wiki/File:Acer_TravelMate_8481TG.jpg "fig:Acer_TravelMate_8481TG.jpg")
-[Acer_TravelMate_8481TG_side_look.jpg](https://zh.wikipedia.org/wiki/File:Acer_TravelMate_8481TG_side_look.jpg "fig:Acer_TravelMate_8481TG_side_look.jpg")
+[Acer_TravelMate_8481TG.jpg](https://zh.wikipedia.org/wiki/File:Acer_TravelMate_8481TG.jpg "fig:Acer_TravelMate_8481TG.jpg") [Acer_TravelMate_8481TG_side_look.jpg](https://zh.wikipedia.org/wiki/File:Acer_TravelMate_8481TG_side_look.jpg "fig:Acer_TravelMate_8481TG_side_look.jpg")
 
   - Acer TravelMate 2300 Series
   - Acer TravelMate 2350 Series
@@ -84,12 +82,9 @@
 
 ## 外部連結
 
-  - [Official
-    Site](http://us.acer.com/ac/en/US/content/professional-series/travelmatep6)
-  - [ThinkPad前辈
-    宏碁TravelMate全系解读](http://nb.zol.com.cn/359/3593546_all.html)
+  - [Official Site](http://us.acer.com/ac/en/US/content/professional-series/travelmatep6)
+  - [ThinkPad前辈 宏碁TravelMate全系解读](http://nb.zol.com.cn/359/3593546_all.html)
   - [宏碁TravelMate商务笔记本避险之道纵横谈](http://nb.zol.com.cn/393/3938785.html)
-  - [稳健性能 商务黑马
-    宏碁TravelMate全系列详细解析--中关村在线](http://nb.zol.com.cn/topic/3590782.html)
+  - [稳健性能 商务黑马 宏碁TravelMate全系列详细解析--中关村在线](http://nb.zol.com.cn/topic/3590782.html)
 
 [Category:宏碁](https://zh.wikipedia.org/wiki/Category:宏碁 "wikilink")

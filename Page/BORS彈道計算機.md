@@ -1,5 +1,4 @@
-**BORS彈道計算機**（**BORS**全寫：*' Barrett Optical Ranging
-System*'，意為：巴雷特光學測距系統）是一個由[巴雷特槍械公司](../Page/巴雷特槍械公司.md "wikilink")生產的集成式[彈道](../Page/弹道学.md "wikilink")[计算机](../Page/電子計算機.md "wikilink")，以協助[狙擊手](../Page/狙擊手.md "wikilink")和遠距離射手採取精確而且準確的射擊。該系統可以直接安裝到具有俯仰角調整手輪的步槍瞄準鏡。有了BORS的協助，射手可以快速地得知影響彈道的[氣溫](../Page/温度.md "wikilink")、[氣壓](../Page/气压.md "wikilink")、槍支傾斜度，以及需要上調或下調的瞄準角度。\[1\]
+**BORS彈道計算機**（**BORS**全寫：*' Barrett Optical Ranging System*'，意為：巴雷特光學測距系統）是一個由[巴雷特槍械公司](../Page/巴雷特槍械公司.md "wikilink")生產的集成式[彈道](../Page/弹道学.md "wikilink")[计算机](../Page/電子計算機.md "wikilink")，以協助[狙擊手](../Page/狙擊手.md "wikilink")和遠距離射手採取精確而且準確的射擊。該系統可以直接安裝到具有俯仰角調整手輪的步槍瞄準鏡。有了BORS的協助，射手可以快速地得知影響彈道的[氣溫](../Page/温度.md "wikilink")、[氣壓](../Page/气压.md "wikilink")、槍支傾斜度，以及需要上調或下調的瞄準角度。\[1\]
 
 ## 設計及特色
 
@@ -25,21 +24,16 @@ System*'，意為：巴雷特光學測距系統）是一個由[巴雷特槍械�
 
 ## 外部連結
 
-  - —[Gunblast.com－Making Long Shots Easy: The Barrett Optical Ranging
-    System](http://www.gunblast.com/Barrett-BORS.htm)
+  - —[Gunblast.com－Making Long Shots Easy: The Barrett Optical Ranging System](http://www.gunblast.com/Barrett-BORS.htm)
 
-  - —[Official
-    Website](https://web.archive.org/web/20130110073701/http://www.barrett.net/optics/bors)
+  - —[Official Website](https://web.archive.org/web/20130110073701/http://www.barrett.net/optics/bors)
 
-  - —[BORS User
-    Manual](https://web.archive.org/web/20130402210024/http://www.barrett.net/pdfs/Manual-BORS.pdf)
+  - —[BORS User Manual](https://web.archive.org/web/20130402210024/http://www.barrett.net/pdfs/Manual-BORS.pdf)
 
   - —Tactical-Life.com—
 
-      - [FIRST-SHOT TACTICAL
-        OPTICS](http://www.tactical-life.com/exclusives/first-shot-tactical-optics/)
-      - [Trajectory & Long Range
-        Shooting](http://www.tactical-life.com/exclusives/trajectory-long-range-shooting/)
+      - [FIRST-SHOT TACTICAL OPTICS](http://www.tactical-life.com/exclusives/first-shot-tactical-optics/)
+      - [Trajectory & Long Range Shooting](http://www.tactical-life.com/exclusives/trajectory-long-range-shooting/)
 
   - —
 
@@ -49,8 +43,7 @@ System*'，意為：巴雷特光學測距系統）是一個由[巴雷特槍械�
 
 1.
 2.
-3.  原文：instantly takes care of the data work so the shooter can focus on
-    the task of putting lead on target.
+3.  原文：instantly takes care of the data work so the shooter can focus on the task of putting lead on target.
 
 4.
 5.

@@ -11,20 +11,15 @@
 
 ## 衍生型號
 
-[以色列国防军开发了一种能在地上发射的版本](https://zh.wikipedia.org/wiki/以色列国防军 "wikilink")，可装在從[雪曼坦克改造的自行火炮](https://zh.wikipedia.org/wiki/雪曼坦克 "wikilink")“Kilshon”（希伯莱语的[三叉戟](https://zh.wikipedia.org/wiki/三叉戟 "wikilink")
-）上。\[2\]\[3\]
+[以色列国防军开发了一种能在地上发射的版本](https://zh.wikipedia.org/wiki/以色列国防军 "wikilink")，可装在從[雪曼坦克改造的自行火炮](https://zh.wikipedia.org/wiki/雪曼坦克 "wikilink")“Kilshon”（希伯莱语的[三叉戟](https://zh.wikipedia.org/wiki/三叉戟 "wikilink") ）上。\[2\]\[3\]
 
 ## 参考资料
 
 ## 外部链接
 
-  - [The AGM-45 Shrike at Designation
-    Systems.net](http://www.designation-systems.net/dusrm/m-45.html)
+  - [The AGM-45 Shrike at Designation Systems.net](http://www.designation-systems.net/dusrm/m-45.html)
 
-[Category:空对地导弹](https://zh.wikipedia.org/wiki/Category:空对地导弹 "wikilink")
-[Category:面对面导弹](https://zh.wikipedia.org/wiki/Category:面对面导弹 "wikilink")
-[Category:反辐射导弹](https://zh.wikipedia.org/wiki/Category:反辐射导弹 "wikilink")
-[Category:美国导弹](https://zh.wikipedia.org/wiki/Category:美国导弹 "wikilink")
+[Category:空对地导弹](https://zh.wikipedia.org/wiki/Category:空对地导弹 "wikilink") [Category:面对面导弹](https://zh.wikipedia.org/wiki/Category:面对面导弹 "wikilink") [Category:反辐射导弹](https://zh.wikipedia.org/wiki/Category:反辐射导弹 "wikilink") [Category:美国导弹](https://zh.wikipedia.org/wiki/Category:美国导弹 "wikilink")
 
 1.
 2.

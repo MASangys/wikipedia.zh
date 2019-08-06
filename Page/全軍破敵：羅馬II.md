@@ -1,10 +1,8 @@
-是一款由[Creative
-Assembly開發](../Page/Creative_Assembly.md "wikilink")，並由[世嘉](../Page/世嘉.md "wikilink")發行的戰略遊戲。遊戲在2013年9月3日在[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]平台上發布。這是[全面戰爭系列的第](https://zh.wikipedia.org/wiki/全面戰爭系列 "wikilink")8代獨立遊戲，也是第3代作品《[羅馬：全面戰爭](https://zh.wikipedia.org/wiki/羅馬：全面戰爭 "wikilink")》的續作。這遊戲是一個商業上的成功，它在銷售量和發布當天的線上玩家人數都超越[全軍破敵系列的其他遊戲](https://zh.wikipedia.org/wiki/全軍破敵 "wikilink")\[2\]\[3\]\[4\]。
+是一款由[Creative Assembly開發](../Page/Creative_Assembly.md "wikilink")，並由[世嘉](../Page/世嘉.md "wikilink")發行的戰略遊戲。遊戲在2013年9月3日在[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]平台上發布。這是[全面戰爭系列的第](https://zh.wikipedia.org/wiki/全面戰爭系列 "wikilink")8代獨立遊戲，也是第3代作品《[羅馬：全面戰爭](https://zh.wikipedia.org/wiki/羅馬：全面戰爭 "wikilink")》的續作。這遊戲是一個商業上的成功，它在銷售量和發布當天的線上玩家人數都超越[全軍破敵系列的其他遊戲](https://zh.wikipedia.org/wiki/全軍破敵 "wikilink")\[2\]\[3\]\[4\]。
 
 遊戲的背景設定在[古典時代的歐洲](https://zh.wikipedia.org/wiki/古典時代 "wikilink")，相對於《羅馬：全軍破敵》的遊戲背景幾乎完全集中在[羅馬共和國和它的政治不同](https://zh.wikipedia.org/wiki/羅馬共和國 "wikilink")，羅馬II盡可能準確和深入地刻畫出在那時代的每一個文明。玩家在遊戲中扮演其中一個可玩派系，而玩家想取得勝利便要比敵人更快建立一個帝國。單人遊戲模式開始於公元前272年，並持續300多年。然而，玩家可以繼續進行遊戲，因為在羅馬II中沒有時間勝利條件。
 
-[Linux](../Page/Linux.md "wikilink")
-([SteamOS](../Page/SteamOS.md "wikilink"))版本的遊戲正在開發中\[5\]。
+[Linux](../Page/Linux.md "wikilink") ([SteamOS](../Page/SteamOS.md "wikilink"))版本的遊戲正在開發中\[5\]。
 
 ## 遊戲特色
 
@@ -160,13 +158,9 @@ Assembly開發](../Page/Creative_Assembly.md "wikilink")，並由[世嘉](../Pag
 
 ## 評價
 
-《羅馬II：全軍破敵》在各大電子媒體上均獲得良好口碑，遊戲在[GameRankings](https://zh.wikipedia.org/wiki/GameRankings "wikilink")\[22\]和[Metacritic](../Page/Metacritic.md "wikilink")\[23\]分別得到76.67分和76分，後者在網站上評級這遊戲是「總體良好」\[24\]。[PC
-Gamer給這遊戲](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")85分，這網站稱讚羅馬II的戰鬥像電影一般壯觀和對細節的重視，他們稱這遊戲為「令人驚嘆」。但在同一個評論中也有人批評遊戲的最初版本有毛病\[25\]。[Edge也同樣稱讚遊戲的和戰鬥視覺效果但同時也有指出遊戲初期的問題](https://zh.wikipedia.org/wiki/Edge "wikilink")\[26\]。[GameSpot](../Page/GameSpot.md "wikilink")在評論中稱讚羅馬II有眾多單位可以給玩家選擇的特點和優越的音效與視覺效果，但同時有批評遊戲的單位攝像機有問題\[27\]。[The
-Escapist也稱讚羅馬II優越的視覺效果](../Page/The_Escapist.md "wikilink")，並特別指出遊戲的單位多元化令遊戲中所有派系都可以特出自己的文化特點\[28\]。
+《羅馬II：全軍破敵》在各大電子媒體上均獲得良好口碑，遊戲在[GameRankings](https://zh.wikipedia.org/wiki/GameRankings "wikilink")\[22\]和[Metacritic](../Page/Metacritic.md "wikilink")\[23\]分別得到76.67分和76分，後者在網站上評級這遊戲是「總體良好」\[24\]。[PC Gamer給這遊戲](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")85分，這網站稱讚羅馬II的戰鬥像電影一般壯觀和對細節的重視，他們稱這遊戲為「令人驚嘆」。但在同一個評論中也有人批評遊戲的最初版本有毛病\[25\]。[Edge也同樣稱讚遊戲的和戰鬥視覺效果但同時也有指出遊戲初期的問題](https://zh.wikipedia.org/wiki/Edge "wikilink")\[26\]。[GameSpot](../Page/GameSpot.md "wikilink")在評論中稱讚羅馬II有眾多單位可以給玩家選擇的特點和優越的音效與視覺效果，但同時有批評遊戲的單位攝像機有問題\[27\]。[The Escapist也稱讚羅馬II優越的視覺效果](../Page/The_Escapist.md "wikilink")，並特別指出遊戲的單位多元化令遊戲中所有派系都可以特出自己的文化特點\[28\]。
 
-除了戰鬥之外，[Game
-Revolution給這遊戲的戰役地圖十分高的評價](https://zh.wikipedia.org/wiki/Game_Revolution "wikilink")，也讚揚遊戲新的功能，但同時也有批評等待人工智能的回合時間太長\[29\]。[IGN](../Page/IGN.md "wikilink")也批評回合時間太長，即使它們評價羅馬II是一個值得回味的遊戲，但遊戲也有地方要玩家受一些不必要的麻煩\[30\]。[Game
-Informer認為羅馬II比](../Page/Game_Informer.md "wikilink")《全軍破敵：幕府將軍2》退步，因為在羅馬II中國家的實力會影響戰爭的規模，而在幕府將軍2一個小國也可以發動一場規模龐大的戰爭\[31\]。但是[GamesRadar反而稱讚羅馬II是一個優秀的續集](https://zh.wikipedia.org/wiki/GamesRadar "wikilink")\[32\]。
+除了戰鬥之外，[Game Revolution給這遊戲的戰役地圖十分高的評價](https://zh.wikipedia.org/wiki/Game_Revolution "wikilink")，也讚揚遊戲新的功能，但同時也有批評等待人工智能的回合時間太長\[29\]。[IGN](../Page/IGN.md "wikilink")也批評回合時間太長，即使它們評價羅馬II是一個值得回味的遊戲，但遊戲也有地方要玩家受一些不必要的麻煩\[30\]。[Game Informer認為羅馬II比](../Page/Game_Informer.md "wikilink")《全軍破敵：幕府將軍2》退步，因為在羅馬II中國家的實力會影響戰爭的規模，而在幕府將軍2一個小國也可以發動一場規模龐大的戰爭\[31\]。但是[GamesRadar反而稱讚羅馬II是一個優秀的續集](https://zh.wikipedia.org/wiki/GamesRadar "wikilink")\[32\]。
 
 ### 銷售
 
@@ -174,65 +168,39 @@ Informer認為羅馬II比](../Page/Game_Informer.md "wikilink")《全軍破敵�
 
 ## 衍生作品
 
-《羅馬II：全軍破敵》口碑之享譽，甚至令出版商垂青，令美國出版商泛麥米蘭公司及湯瑪士．鄧恩公司向Creative
-Assembly購得版權之後，再委託著名考古學家大衛．吉賓斯以遊戲背景寫作歷史小說《毀滅迦太基》。小說已於2013年10月面世出版。
+《羅馬II：全軍破敵》口碑之享譽，甚至令出版商垂青，令美國出版商泛麥米蘭公司及湯瑪士．鄧恩公司向Creative Assembly購得版權之後，再委託著名考古學家大衛．吉賓斯以遊戲背景寫作歷史小說《毀滅迦太基》。小說已於2013年10月面世出版。
 
 ## 参考文献
 
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:世嘉游戏](https://zh.wikipedia.org/wiki/Category:世嘉游戏 "wikilink")
-[Category:英國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:英國開發電子遊戲 "wikilink")
-[Category:即时战术游戏](https://zh.wikipedia.org/wiki/Category:即时战术游戏 "wikilink")
-[Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink")
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:全面战争系列](https://zh.wikipedia.org/wiki/Category:全面战争系列 "wikilink")
-[Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
+[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:世嘉游戏](https://zh.wikipedia.org/wiki/Category:世嘉游戏 "wikilink") [Category:英國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:英國開發電子遊戲 "wikilink") [Category:即时战术游戏](https://zh.wikipedia.org/wiki/Category:即时战术游戏 "wikilink") [Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink") [Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:全面战争系列](https://zh.wikipedia.org/wiki/Category:全面战争系列 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
 
-1.  <http://www.joystiq.com/2012/07/02/total-war->
-    rome-2-marches-to-pc-in-2013/
+1.  <http://www.joystiq.com/2012/07/02/total-war-> rome-2-marches-to-pc-in-2013/
 
-2.  <http:/>
-    /www.vg247.com/2013/09/03/total-war-rome-2-concurrent-players-peak-at-three-times-that-of-shogun-2/
+2.  <http:/> /www.vg247.com/2013/09/03/total-war-rome-2-concurrent-players-peak-at-three-times-that-of-shogun-2/
 
 3.  <http://www.steamcharts.com/app/214950#7d>
 
-4.  <http://www.pcgamesn.com/>
-    totalwar/total-war-rome-ii-trumps-shogun-ii-s-peak-number-players-three-times-over
+4.  <http://www.pcgamesn.com/> totalwar/total-war-rome-ii-trumps-shogun-ii-s-peak-number-players-three-times-over
 
 5.
-6.  [Total War: Rome II Fact
-    Sheet](http://www.blogcdn.com/www.joystiq.com/media/2012/07/totalwartome2factsheet.jpg)
-    BlogCDN-Joystiq. Retrieved 26 August 2012.
+6.  [Total War: Rome II Fact Sheet](http://www.blogcdn.com/www.joystiq.com/media/2012/07/totalwartome2factsheet.jpg) BlogCDN-Joystiq. Retrieved 26 August 2012.
 
-7.  [Total War: Rome 2 will find homes for 117 factions, and might just
-    run on your
-    laptop](http://www.pcgamesn.com/totalwar/total-war-rome-2-will-find-homes-117-factions-and-might-just-run-your-laptop)PCGamesN.
-    Retrieved 15 April 2013.
+7.  [Total War: Rome 2 will find homes for 117 factions, and might just run on your laptop](http://www.pcgamesn.com/totalwar/total-war-rome-2-will-find-homes-117-factions-and-might-just-run-your-laptop)PCGamesN. Retrieved 15 April 2013.
 
-8.   Thursten, Chris (2 July 2012). [Total War Rome 2 preview: every
-    detail about the new engine, naval combat, multiplayer and
-    mods](http://www.pcgamer.com/previews/total-war-rome-2-preview-every-detail-about-the-new-engine-naval-combat-multiplayer-and-mods/)Retrieved
-    7 July 2012.
+8.   Thursten, Chris (2 July 2012). [Total War Rome 2 preview: every detail about the new engine, naval combat, multiplayer and mods](http://www.pcgamer.com/previews/total-war-rome-2-preview-every-detail-about-the-new-engine-naval-combat-multiplayer-and-mods/)Retrieved 7 July 2012.
 
 9.
 10.
-11. Onyett, Charles (12 July 2012).[Making a Bigger War in
-    Rome 2](http://www.ign.com/articles/2012/07/13/making-a-bigger-war-in-rome-2)Retrieved
-    26 August 2012.
+11. Onyett, Charles (12 July 2012).[Making a Bigger War in Rome 2](http://www.ign.com/articles/2012/07/13/making-a-bigger-war-in-rome-2)Retrieved 26 August 2012.
 
 12.
 13.
-14. Robinson, Joe (6 June 2013).[Total War Rome 2
-    Preview](http://www.strategyinformer.com/pc/totalwarromeii/1044/preview.html)
-    [Strategy Game
-    Informer](https://zh.wikipedia.org/wiki/Strategy_Game_Informer "wikilink").
-    Retrieved 7 June 2013.
+14. Robinson, Joe (6 June 2013).[Total War Rome 2 Preview](http://www.strategyinformer.com/pc/totalwarromeii/1044/preview.html) [Strategy Game Informer](https://zh.wikipedia.org/wiki/Strategy_Game_Informer "wikilink"). Retrieved 7 June 2013.
 
 15.
 16.
 17.
-18. ["Jack Answers \[Updated with
-    part 3\!\]".](http://forums.totalwar.com/showthread.php/72354-Jack-Answers)
+18. ["Jack Answers \[Updated with part 3\!\]".](http://forums.totalwar.com/showthread.php/72354-Jack-Answers)
 
 19.
 20.
@@ -243,18 +211,11 @@ Assembly購得版權之後，再委託著名考古學家大衛．吉賓斯以遊
 25.
 26.
 27.
-28. Clouse, Justin (5 September 2013).[Total War: Rome II Review - Si
-    Vis Pacem, Para
-    Bellum](http://www.escapistmagazine.com/articles/view/editorials/reviews/10575-Total-War-Rome-II-Review-Si-Vis-Pacem-Para-Bellum).
-    The Escapist magazine. Retrieved 7 September 2013.
+28. Clouse, Justin (5 September 2013).[Total War: Rome II Review - Si Vis Pacem, Para Bellum](http://www.escapistmagazine.com/articles/view/editorials/reviews/10575-Total-War-Rome-II-Review-Si-Vis-Pacem-Para-Bellum). The Escapist magazine. Retrieved 7 September 2013.
 
-29. Gil Almogi (2 September 2013). [Total War: Rome II Game Revolution
-    review](http://www.gamerevolution.com/review/total-war-rome-ii).
-    Retrieved 4 September 2013.
+29. Gil Almogi (2 September 2013). [Total War: Rome II Game Revolution review](http://www.gamerevolution.com/review/total-war-rome-ii). Retrieved 4 September 2013.
 
 30.
 31.
 32.
-33. [Total War: Rome 2 pre-sales more than six times higher than
-    Shogun 2](http://games.on.net/2013/08/total-war-rome-2-pre-sales-more-than-six-times-higher-than-shogun-2/).
-    games.on.net. Retrieved 23 August 2013.
+33. [Total War: Rome 2 pre-sales more than six times higher than Shogun 2](http://games.on.net/2013/08/total-war-rome-2-pre-sales-more-than-six-times-higher-than-shogun-2/). games.on.net. Retrieved 23 August 2013.

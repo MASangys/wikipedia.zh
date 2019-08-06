@@ -1,5 +1,4 @@
-《**Butterfly
-Kisses**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[梁詠琪的第](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink")31張音樂專輯、第13張國語專輯，於2012年7月20日推出。
+《**Butterfly Kisses**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[梁詠琪的第](https://zh.wikipedia.org/wiki/梁詠琪 "wikilink")31張音樂專輯、第13張國語專輯，於2012年7月20日推出。
 
 ## 曲目
 
@@ -46,8 +45,4 @@ Kisses**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "
 
   - [《Butterfly Kisses》音乐录影带](http://www.yinyuetai.com/video/462146)
 
-[Category:梁詠琪音樂專輯](https://zh.wikipedia.org/wiki/Category:梁詠琪音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:親吻題材歌曲](https://zh.wikipedia.org/wiki/Category:親吻題材歌曲 "wikilink")
+[Category:梁詠琪音樂專輯](https://zh.wikipedia.org/wiki/Category:梁詠琪音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:親吻題材歌曲](https://zh.wikipedia.org/wiki/Category:親吻題材歌曲 "wikilink")

@@ -1,6 +1,4 @@
-《**山系女行Yama
-Girl**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的旅遊節目第一輯由[李佳芯](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")、[蔡思貝](https://zh.wikipedia.org/wiki/蔡思貝 "wikilink")、[陳嘉寶](https://zh.wikipedia.org/wiki/陳嘉寶 "wikilink")、[王敏奕](../Page/王敏奕.md "wikilink")、[曹思詩](../Page/曹思詩.md "wikilink")、[葉麗嘉](../Page/葉麗嘉.md "wikilink")、[方珈悠](../Page/方珈悠.md "wikilink")擔任主持，第二輯則由[蔣家旻](../Page/蔣家旻.md "wikilink")、[歐陽巧瑩](../Page/歐陽巧瑩.md "wikilink")、[陳婉衡](../Page/陳婉衡.md "wikilink")、[張秀文](../Page/張秀文.md "wikilink")、[陳偉琪](../Page/陳偉琪.md "wikilink")擔任主持。本節目於[J2](../Page/J2.md "wikilink")首播，第一輯於2014年6月6日至9月12日，[香港時間](../Page/香港時間.md "wikilink")逢星期五21:00-21:30在[J2](../Page/J2.md "wikilink")播出，及於[myTV提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")（集數上傳後一個月後會刪除），第二輯於2014年11月28日至2015年1月2日，[香港時間](../Page/香港時間.md "wikilink")逢星期五21:00-21:30在J2播出。本節目是《[Go\!
-Yama Girl](../Page/Go!_Yama_Girl.md "wikilink")》的半小時全紀錄版本。\[1\]\[2\]
+《**山系女行Yama Girl**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")的旅遊節目第一輯由[李佳芯](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")、[蔡思貝](https://zh.wikipedia.org/wiki/蔡思貝 "wikilink")、[陳嘉寶](https://zh.wikipedia.org/wiki/陳嘉寶 "wikilink")、[王敏奕](../Page/王敏奕.md "wikilink")、[曹思詩](../Page/曹思詩.md "wikilink")、[葉麗嘉](../Page/葉麗嘉.md "wikilink")、[方珈悠](../Page/方珈悠.md "wikilink")擔任主持，第二輯則由[蔣家旻](../Page/蔣家旻.md "wikilink")、[歐陽巧瑩](../Page/歐陽巧瑩.md "wikilink")、[陳婉衡](../Page/陳婉衡.md "wikilink")、[張秀文](../Page/張秀文.md "wikilink")、[陳偉琪](../Page/陳偉琪.md "wikilink")擔任主持。本節目於[J2](../Page/J2.md "wikilink")首播，第一輯於2014年6月6日至9月12日，[香港時間](../Page/香港時間.md "wikilink")逢星期五21:00-21:30在[J2](../Page/J2.md "wikilink")播出，及於[myTV提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")（集數上傳後一個月後會刪除），第二輯於2014年11月28日至2015年1月2日，[香港時間](../Page/香港時間.md "wikilink")逢星期五21:00-21:30在J2播出。本節目是《[Go\! Yama Girl](../Page/Go!_Yama_Girl.md "wikilink")》的半小時全紀錄版本。\[1\]\[2\]
 
 ## 每集內容
 
@@ -37,26 +35,18 @@ Yama Girl](../Page/Go!_Yama_Girl.md "wikilink")》的半小時全紀錄版本。
 
 ## 記事
 
-  - 2014年7月18日：由於直播《[FINA跳水世界盃2014](https://zh.wikipedia.org/wiki/2014年跳水世界盃 "wikilink")》
-    ，本節目順延至21:55-22:25播出。
-  - 2014年8月1日：由於播映特備節目《[J2動漫·熱：幻想救未來](../Page/J2動漫熱.md "wikilink")》
-    ，本節目暫停播映一次。
-  - 2014年8月8日：由於直播《[FIVB世界女排大獎賽 -
-    香港2014](https://zh.wikipedia.org/wiki/2014年世界女排大獎賽 "wikilink")》，本節目暫停播映一次。
+  - 2014年7月18日：由於直播《[FINA跳水世界盃2014](https://zh.wikipedia.org/wiki/2014年跳水世界盃 "wikilink")》 ，本節目順延至21:55-22:25播出。
+  - 2014年8月1日：由於播映特備節目《[J2動漫·熱：幻想救未來](../Page/J2動漫熱.md "wikilink")》 ，本節目暫停播映一次。
+  - 2014年8月8日：由於直播《[FIVB世界女排大獎賽 - 香港2014](https://zh.wikipedia.org/wiki/2014年世界女排大獎賽 "wikilink")》，本節目暫停播映一次。
 
 ## 參考
 
 ## 外部連結
 
-  - [無綫電視節目網頁 - 山系女行Yama Girl
-    （第一輯）](http://programme.tvb.com/lifestyle/girlsgohiking)
-  - [無綫電視節目網頁 - 山系女行Yama
-    Girl（第二輯）](http://programme.tvb.com/lifestyle/girlsgohiking2)
+  - [無綫電視節目網頁 - 山系女行Yama Girl （第一輯）](http://programme.tvb.com/lifestyle/girlsgohiking)
+  - [無綫電視節目網頁 - 山系女行Yama Girl（第二輯）](http://programme.tvb.com/lifestyle/girlsgohiking2)
 
-[Category:2014年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2014年無綫電視節目 "wikilink")
-[Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink")
-[Category:J2節目](https://zh.wikipedia.org/wiki/Category:J2節目 "wikilink")
-[Category:無綫電視旅遊節目](https://zh.wikipedia.org/wiki/Category:無綫電視旅遊節目 "wikilink")
+[Category:2014年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2014年無綫電視節目 "wikilink") [Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink") [Category:J2節目](https://zh.wikipedia.org/wiki/Category:J2節目 "wikilink") [Category:無綫電視旅遊節目](https://zh.wikipedia.org/wiki/Category:無綫電視旅遊節目 "wikilink")
 
 1.  [陳嘉寶認拍拖最愛黐男友](http://news.singtao.ca/toronto/2014-06-04/entertainment1401859003d5082363.html)
 2.  [蔡思貝音樂解憂](http://the-sun.on.cc/cnt/lifestyle/20140702/00484_001.html)

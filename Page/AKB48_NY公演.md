@@ -1,16 +1,10 @@
-**AKB48
-NY公演**是[日本](../Page/日本.md "wikilink")女子偶像組合[AKB48](../Page/AKB48.md "wikilink")在2009年9月27日在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約的](https://zh.wikipedia.org/wiki/紐約 "wikilink")舉行的演唱會，亦是AKB48第一個海外演唱會\[1\]\[2\]\[3\]。
+**AKB48 NY公演**是[日本](../Page/日本.md "wikilink")女子偶像組合[AKB48](../Page/AKB48.md "wikilink")在2009年9月27日在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約的](https://zh.wikipedia.org/wiki/紐約 "wikilink")舉行的演唱會，亦是AKB48第一個海外演唱會\[1\]\[2\]\[3\]。
 
 ## 概要
 
-  - 在[「神公演予定」演唱會中披露將會在](../Page/「神公演予定」～因諸多因素、也有可能無法成為神公演、望體諒.md "wikilink")7月及10月在[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")舉行的「[日本博覽會](../Page/日本博覽會.md "wikilink")
-    2009」（Japan Expo
-    2009）及[康城舉行的](https://zh.wikipedia.org/wiki/康城 "wikilink")「
-    2009」演出。\[4\]\[5\]\[6\]\[7\]。
-  - 而其後亦披露將會以特別嘉賓在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約舉行的](https://zh.wikipedia.org/wiki/紐約 "wikilink")「
-    2009」演出，而同時亦會在當地的Webster Hall舉行初次海外演唱會\[8\]。
-  - 而演唱會的內容亦會在2009年10月9日的[AKB48神TV](../Page/AKB48神TV.md "wikilink")第3季\[9\]及2009年11月15日於[Sky
-    PerfecTV\!播出](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")\[10\]。
+  - 在[「神公演予定」演唱會中披露將會在](../Page/「神公演予定」～因諸多因素、也有可能無法成為神公演、望體諒.md "wikilink")7月及10月在[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")舉行的「[日本博覽會](../Page/日本博覽會.md "wikilink") 2009」（Japan Expo 2009）及[康城舉行的](https://zh.wikipedia.org/wiki/康城 "wikilink")「 2009」演出。\[4\]\[5\]\[6\]\[7\]。
+  - 而其後亦披露將會以特別嘉賓在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約舉行的](https://zh.wikipedia.org/wiki/紐約 "wikilink")「 2009」演出，而同時亦會在當地的Webster Hall舉行初次海外演唱會\[8\]。
+  - 而演唱會的內容亦會在2009年10月9日的[AKB48神TV](../Page/AKB48神TV.md "wikilink")第3季\[9\]及2009年11月15日於[Sky PerfecTV\!播出](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")\[10\]。
 
 ## 參加成員
 
@@ -37,8 +31,7 @@ NY公演**是[日本](../Page/日本.md "wikilink")女子偶像組合[AKB48](../
 3.  **[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")**
 4.  **[驚喜之淚！](https://zh.wikipedia.org/wiki/驚喜之淚！ "wikilink")**（）
 5.  **[沙灘的櫻桃](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想見你」 "wikilink")**（）
-6.  **[Bye Bye
-    Bye](https://zh.wikipedia.org/wiki/向日葵組_2nd_Stage「不要讓夢想死去」 "wikilink")**
+6.  **[Bye Bye Bye](https://zh.wikipedia.org/wiki/向日葵組_2nd_Stage「不要讓夢想死去」 "wikilink")**
 7.  **[雨中動物園](../Page/Team_K_2nd_Stage「青春女孩」.md "wikilink")**（）
 8.  **[嘆息的人偶](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想見你」 "wikilink")**（）
 9.  **[Blue rose](../Page/Team_K_2nd_Stage「青春女孩」.md "wikilink")**
@@ -60,8 +53,7 @@ NY公演**是[日本](../Page/日本.md "wikilink")女子偶像組合[AKB48](../
 
 ## DVD
 
-演唱會的[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS](../Page/AKS.md "wikilink")以DVD
-MAGAZINE的形式於2010年1月20日發售，內容包括AKB48在2009年9月27日在美國紐約的演唱會、觀光內容及特典。此外，亦收錄了AKB48在2009年10月5日至6日在法國康城的演出、觀光內容及幕後花絮\[18\]\[19\]\[20\]。
+演唱會的[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS](../Page/AKS.md "wikilink")以DVD MAGAZINE的形式於2010年1月20日發售，內容包括AKB48在2009年9月27日在美國紐約的演唱會、觀光內容及特典。此外，亦收錄了AKB48在2009年10月5日至6日在法國康城的演出、觀光內容及幕後花絮\[18\]\[19\]\[20\]。
 
 ## 参考資料
 

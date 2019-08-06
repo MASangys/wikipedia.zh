@@ -79,8 +79,7 @@ b棋子用法：当其他队伍听完题目要回答时，可使用b棋子，首
 ## 参考资料
 
   - [游戏官网](http://www.bezzerwizzer.com/)
-  - [褐色旧笔记
-    德国人饭后玩的桌游「知多少」Bezzerwizzer](http://offdare.blogspot.de/2012/07/bezzerwizzer.html)
+  - [褐色旧笔记 德国人饭后玩的桌游「知多少」Bezzerwizzer](http://offdare.blogspot.de/2012/07/bezzerwizzer.html)
   - [1](http://corporate.bezzerwizzer.dk/no/home)
   - [](http://www.brettspillguiden.no/kritikker/?gid=667)
 

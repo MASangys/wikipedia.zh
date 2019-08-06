@@ -1,11 +1,8 @@
-《**TARI
-TARI**》\[1\]是以[神奈川縣](../Page/神奈川縣.md "wikilink")的[江之島](../Page/江之島.md "wikilink")為舞臺的原創動畫，由[P.A.
-Works製作](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[2\]，2012年7月1日至9月23日首播，全13話。該片是P.A.Works繼「[真實之淚](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")」、「[花開物語](../Page/花開物語.md "wikilink")」之後第三部青春群像劇\[3\]。
+《**TARI TARI**》\[1\]是以[神奈川縣](../Page/神奈川縣.md "wikilink")的[江之島](../Page/江之島.md "wikilink")為舞臺的原創動畫，由[P.A. Works製作](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[2\]，2012年7月1日至9月23日首播，全13話。該片是P.A.Works繼「[真實之淚](../Page/真實之淚_true_tears_\(動畫\).md "wikilink")」、「[花開物語](../Page/花開物語.md "wikilink")」之後第三部青春群像劇\[3\]。
 
 ## 故事簡介
 
-故事开展于去年的音乐发表会上，来夏因为过于紧张导致整场演唱会的失败，随后被降为翻谱的职位。经过多次请求，却屡屡受挫。心怀不服的她，决定离开聲樂部，创立属于自己的新社团“合唱部”。另一方面，因种种原因令曾经热爱音乐的和奏从音乐科转到了普通科。某一天，受到了来夏的邀请，一直到高三仍尚未摆脱以前的阴霾的和奏，断然拒绝了入部请求，在好友纱羽的帮助下才肯挂名“合唱部”。围绕着各种缘由的部员聚在了一起。他们在高中的最后一个夏天，一起寻找着对音乐的追求。
-[Enoshima_Main_Street.JPG](https://zh.wikipedia.org/wiki/File:Enoshima_Main_Street.JPG "fig:Enoshima_Main_Street.JPG")上，坂井和奏上学途經的道路。\]\]
+故事开展于去年的音乐发表会上，来夏因为过于紧张导致整场演唱会的失败，随后被降为翻谱的职位。经过多次请求，却屡屡受挫。心怀不服的她，决定离开聲樂部，创立属于自己的新社团“合唱部”。另一方面，因种种原因令曾经热爱音乐的和奏从音乐科转到了普通科。某一天，受到了来夏的邀请，一直到高三仍尚未摆脱以前的阴霾的和奏，断然拒绝了入部请求，在好友纱羽的帮助下才肯挂名“合唱部”。围绕着各种缘由的部员聚在了一起。他们在高中的最后一个夏天，一起寻找着对音乐的追求。 [Enoshima_Main_Street.JPG](https://zh.wikipedia.org/wiki/File:Enoshima_Main_Street.JPG "fig:Enoshima_Main_Street.JPG")上，坂井和奏上学途經的道路。\]\]
 
 ## 登場角色
 
@@ -119,12 +116,7 @@ Works製作](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[2\]，2012年
 
 故事创作舞台位于[神奈川縣](../Page/神奈川縣.md "wikilink")南部的[藤澤市](../Page/藤澤市.md "wikilink")，大致在[相模灣和](https://zh.wikipedia.org/wiki/相模灣 "wikilink")[镰仓市](../Page/镰仓市.md "wikilink")的東北。制作方多次运用从《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》中流行开来的動漫迷「[圣地](https://zh.wikipedia.org/wiki/圣地 "wikilink")」[朝聖](../Page/朝聖.md "wikilink")文化，下述之图是与藤澤市相近的[江之島](../Page/江之島.md "wikilink")（日本的熱門旅遊景點之一）、主要道路、鐵路火車站。动画中常常可以看到与此相关的场景\[7\]。
 
-<File:Kamakura> Station.JPG|[鎌倉車站](../Page/鎌倉車站.md "wikilink")
-<File:Enoshima> from Honshu.JPG|從市中心看[江之島](../Page/江之島.md "wikilink")
-<File:Mosaic> at the Bridge to
-Enoshima.JPG|江之島上的橋樑鑲嵌的細節，位于日本县道305（江之島大桥）附近的辯天橋。
-[File:Poster_of_Tari_Tari.JPG|江之島上《Tari](File:Poster_of_Tari_Tari.JPG%7C江之島上《Tari)
-Tari》的資訊信息
+<File:Kamakura> Station.JPG|[鎌倉車站](../Page/鎌倉車站.md "wikilink") <File:Enoshima> from Honshu.JPG|從市中心看[江之島](../Page/江之島.md "wikilink") <File:Mosaic> at the Bridge to Enoshima.JPG|江之島上的橋樑鑲嵌的細節，位于日本县道305（江之島大桥）附近的辯天橋。 [File:Poster_of_Tari_Tari.JPG|江之島上《Tari](File:Poster_of_Tari_Tari.JPG%7C江之島上《Tari) Tari》的資訊信息
 
 ## 製作人員
 
@@ -145,8 +137,7 @@ Tari》的資訊信息
   - 企劃製作：[永谷敬之](../Page/永谷敬之.md "wikilink")
   - 線上製作人：辻充仁
   - 動畫製作︰[P.A.WORKS](https://zh.wikipedia.org/wiki/P.A.WORKS "wikilink")
-  - 製作︰[tari tari
-    project](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
+  - 製作︰[tari tari project](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
 
 ## 主題曲
 
@@ -173,13 +164,10 @@ Tari》的資訊信息
 
   -
     （第1話、第3～5話、第7～12話）：作詞：micco，作曲：[杉森舞](https://zh.wikipedia.org/wiki/杉森舞 "wikilink")，編曲：[渡邊和紀](https://zh.wikipedia.org/wiki/渡邊和紀 "wikilink")
-    （第13話（\#13 ED
-    ver.））：作詞：micco，作曲、編曲：[濱口史郎](https://zh.wikipedia.org/wiki/濱口史郎 "wikilink")
+    （第13話（\#13 ED ver.））：作詞：micco，作曲、編曲：[濱口史郎](https://zh.wikipedia.org/wiki/濱口史郎 "wikilink")
     歌（第1話）：白浜坂高校合唱部（宮本來夏（[瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")）&沖田紗羽（[早見沙織](../Page/早見沙織.md "wikilink")））
     歌（第3～5話）：白浜坂高校合唱部（宮本來夏（[瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")）&沖田紗羽（[早見沙織](../Page/早見沙織.md "wikilink")）&田中大智（[島崎信長](../Page/島崎信長.md "wikilink")）&維也納（[花江夏樹](../Page/花江夏樹.md "wikilink")））
-    歌（第7～12話）：白浜坂高校合唱部〈坂井和奏（[高垣彩陽](../Page/高垣彩陽.md "wikilink")）&宮本来夏
-    （[瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")）&沖田紗羽
-    （[早見沙織](../Page/早見沙織.md "wikilink")）&田中大智（[島崎信長](../Page/島崎信長.md "wikilink")）&維也納（[花江夏樹](../Page/花江夏樹.md "wikilink")）〉
+    歌（第7～12話）：白浜坂高校合唱部〈坂井和奏（[高垣彩陽](../Page/高垣彩陽.md "wikilink")）&宮本来夏 （[瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")）&沖田紗羽 （[早見沙織](../Page/早見沙織.md "wikilink")）&田中大智（[島崎信長](../Page/島崎信長.md "wikilink")）&維也納（[花江夏樹](../Page/花江夏樹.md "wikilink")）〉
     歌（第13話（\#13 ED ver.））：白浜坂高校合唱部
 
 <!-- end list -->
@@ -270,8 +258,7 @@ Tari》的資訊信息
 <!-- end list -->
 
   -
-    作詞：橋本昌和，作曲、編曲：[濱口史郎](https://zh.wikipedia.org/wiki/濱口史郎 "wikilink")，歌
-    - 宮本來夏（瀨戶麻沙美）&沖田紗羽（早見沙織）&田中大智（島崎信長）
+    作詞：橋本昌和，作曲、編曲：[濱口史郎](https://zh.wikipedia.org/wiki/濱口史郎 "wikilink")，歌 - 宮本來夏（瀨戶麻沙美）&沖田紗羽（早見沙織）&田中大智（島崎信長）
 
 <!-- end list -->
 
@@ -475,8 +462,7 @@ Tari》的資訊信息
 
 ## 漫畫
 
-『[月刊GANGAN
-JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")』（[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）2012年6月號開始連載。構成[尚村透](../Page/尚村透.md "wikilink")、作畫由[鍵空富燒](../Page/鍵空富燒.md "wikilink")擔當。兩本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2012年7月21日至12月22日發售\[11\]\[12\]。
+『[月刊GANGAN JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")』（[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）2012年6月號開始連載。構成[尚村透](../Page/尚村透.md "wikilink")、作畫由[鍵空富燒](../Page/鍵空富燒.md "wikilink")擔當。兩本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2012年7月21日至12月22日發售\[11\]\[12\]。
 
 ## 歌曲
 
@@ -844,24 +830,15 @@ JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")』（[史克威尔艾尼克斯]
 
   - [TOKYO MX \* 「TARI TARI」](http://www.mxtv.co.jp/taritari/)
 
-  - [TARI TARI - 連載作品 - ガンガンJOKER -SQUARE
-    ENIX-](http://www.square-enix.com/jp/magazine/joker/series/taritari/index.html)
+  - [TARI TARI - 連載作品 - ガンガンJOKER -SQUARE ENIX-](http://www.square-enix.com/jp/magazine/joker/series/taritari/index.html)
 
   - [網路電台〈音泉〉](http://onsen.ag/?title=taritari)
 
-  - [響 - HiBiKi Radio Station -「TARITARI
-    ラジオ」番組詳細](http://hibiki-radio.jp/description/taritari)
+  - [響 - HiBiKi Radio Station -「TARITARI ラジオ」番組詳細](http://hibiki-radio.jp/description/taritari)
 
   -
 
-[Category:2012年UHF動畫](https://zh.wikipedia.org/wiki/Category:2012年UHF動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:音樂動畫](https://zh.wikipedia.org/wiki/Category:音樂動畫 "wikilink")
-[Category:神奈川縣湘南背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣湘南背景作品 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊GANGAN_JOKER](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_JOKER "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
-[Category:合唱題材作品](https://zh.wikipedia.org/wiki/Category:合唱題材作品 "wikilink")
+[Category:2012年UHF動畫](https://zh.wikipedia.org/wiki/Category:2012年UHF動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:音樂動畫](https://zh.wikipedia.org/wiki/Category:音樂動畫 "wikilink") [Category:神奈川縣湘南背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣湘南背景作品 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊GANGAN_JOKER](https://zh.wikipedia.org/wiki/Category:月刊GANGAN_JOKER "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:合唱題材作品](https://zh.wikipedia.org/wiki/Category:合唱題材作品 "wikilink")
 
 1.  取日文「たり…たり」句型作为标题，意义是列举具有代表的事情，译为既……又……、时而……时而、或……或……。寓意他们在高中生活的成长歷程。
 2.

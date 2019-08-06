@@ -1,7 +1,4 @@
-《**高山診療所**》（），為[TBS](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[系列自](https://zh.wikipedia.org/wiki/日本新聞網 "wikilink")2012年7月8日起至同年9月23日，於每週[星期日](../Page/星期日.md "wikilink")21:00
--
-21:54（[JST](../Page/日本標準時間.md "wikilink")）播出的[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")。由[向井理](../Page/向井理.md "wikilink")主演，初回與第5話延長15分（21:00
-- 22:09）。
+《**高山診療所**》（），為[TBS](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[系列自](https://zh.wikipedia.org/wiki/日本新聞網 "wikilink")2012年7月8日起至同年9月23日，於每週[星期日](../Page/星期日.md "wikilink")21:00 - 21:54（[JST](../Page/日本標準時間.md "wikilink")）播出的[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")。由[向井理](../Page/向井理.md "wikilink")主演，初回與第5話延長15分（21:00 - 22:09）。
 
 ## 概要
 
@@ -13,8 +10,7 @@
 
 ### 主要人物
 
-  - 速水圭吾／[向井理](../Page/向井理.md "wikilink")
-    ／[周良鴻](../Page/周良鴻.md "wikilink")
+  - 速水圭吾／[向井理](../Page/向井理.md "wikilink") ／[周良鴻](../Page/周良鴻.md "wikilink")
 
 <!-- end list -->
 
@@ -23,8 +19,7 @@
 
 <!-- end list -->
 
-  - 小山遥／[尾野真千子](../Page/尾野真千子.md "wikilink")
-    ／[張頌欣](../Page/張頌欣.md "wikilink")
+  - 小山遥／[尾野真千子](../Page/尾野真千子.md "wikilink") ／[張頌欣](../Page/張頌欣.md "wikilink")
 
 <!-- end list -->
 
@@ -60,8 +55,7 @@
 
 <!-- end list -->
 
-  - 木野憲太／[菅田將暉](../Page/菅田將暉.md "wikilink")
-    ／[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")
+  - 木野憲太／[菅田將暉](../Page/菅田將暉.md "wikilink") ／[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")
 
 <!-- end list -->
 
@@ -106,13 +100,11 @@
 
 <!-- end list -->
 
-  - 井上幸治／[山崎樹範](https://zh.wikipedia.org/wiki/山崎樹範 "wikilink")
-    ／[葉振聲](../Page/葉振聲.md "wikilink")
+  - 井上幸治／[山崎樹範](https://zh.wikipedia.org/wiki/山崎樹範 "wikilink") ／[葉振聲](../Page/葉振聲.md "wikilink")
 
 <!-- end list -->
 
-  - 田中謙介／[前田公輝](../Page/前田公輝.md "wikilink")
-    ／[鄧港文](../Page/鄧港文.md "wikilink")
+  - 田中謙介／[前田公輝](../Page/前田公輝.md "wikilink") ／[鄧港文](../Page/鄧港文.md "wikilink")
 
 <!-- end list -->
 
@@ -121,8 +113,7 @@
 
 <!-- end list -->
 
-  - 宮下愛美莉／[折山美優](https://zh.wikipedia.org/wiki/折山美優 "wikilink")
-    ／[凌晞](../Page/凌晞.md "wikilink")
+  - 宮下愛美莉／[折山美優](https://zh.wikipedia.org/wiki/折山美優 "wikilink") ／[凌晞](../Page/凌晞.md "wikilink")
 
 <!-- end list -->
 
@@ -140,8 +131,7 @@
 
 ### 其他角色
 
-  - 澤口光香／[市川由衣](../Page/市川由衣.md "wikilink")
-    ／[黃昕瑜](../Page/黃昕瑜.md "wikilink")
+  - 澤口光香／[市川由衣](../Page/市川由衣.md "wikilink") ／[黃昕瑜](../Page/黃昕瑜.md "wikilink")
 
 <!-- end list -->
 
@@ -150,8 +140,7 @@
 
 <!-- end list -->
 
-  - 速水悦子／[中田喜子](https://zh.wikipedia.org/wiki/中田喜子 "wikilink")
-    ／[雷碧娜](../Page/雷碧娜.md "wikilink")
+  - 速水悦子／[中田喜子](https://zh.wikipedia.org/wiki/中田喜子 "wikilink") ／[雷碧娜](../Page/雷碧娜.md "wikilink")
 
 <!-- end list -->
 
@@ -269,10 +258,4 @@
 
 ## 作品的變遷
 
-[Category:2012年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年日本電視劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:日本醫學劇](https://zh.wikipedia.org/wiki/Category:日本醫學劇 "wikilink")
-[Category:長野縣背景作品](https://zh.wikipedia.org/wiki/Category:長野縣背景作品 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:The_icon電視劇](https://zh.wikipedia.org/wiki/Category:The_icon電視劇 "wikilink")
+[Category:2012年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年日本電視劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:日本醫學劇](https://zh.wikipedia.org/wiki/Category:日本醫學劇 "wikilink") [Category:長野縣背景作品](https://zh.wikipedia.org/wiki/Category:長野縣背景作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:The_icon電視劇](https://zh.wikipedia.org/wiki/Category:The_icon電視劇 "wikilink")

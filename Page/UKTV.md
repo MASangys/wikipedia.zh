@@ -1,5 +1,4 @@
-**UKTV**成立于1992年，是一家数字有线和卫星电视网络，由[英国广播公司商业分支](https://zh.wikipedia.org/wiki/英国广播公司商业分支 "wikilink")（BBC
-Worldwide）和维珍传媒（Virgin Media）合资成立。UKTV目前拥有超过十个子频道，是英国最大的电视公司之一。
+**UKTV**成立于1992年，是一家数字有线和卫星电视网络，由[英国广播公司商业分支](https://zh.wikipedia.org/wiki/英国广播公司商业分支 "wikilink")（BBC Worldwide）和维珍传媒（Virgin Media）合资成立。UKTV目前拥有超过十个子频道，是英国最大的电视公司之一。
 
 ## 電視頻道一覽
 
@@ -112,6 +111,4 @@ Worldwide）和维珍传媒（Virgin Media）合资成立。UKTV目前拥有超�
 ## 外部連結
 
   -
-[Category:英国广播公司电视](https://zh.wikipedia.org/wiki/Category:英国广播公司电视 "wikilink")
-[Category:1992年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1992年成立的电视台或电视频道 "wikilink")
-[Category:英國電視台](https://zh.wikipedia.org/wiki/Category:英國電視台 "wikilink")
+[Category:英国广播公司电视](https://zh.wikipedia.org/wiki/Category:英国广播公司电视 "wikilink") [Category:1992年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1992年成立的电视台或电视频道 "wikilink") [Category:英國電視台](https://zh.wikipedia.org/wiki/Category:英國電視台 "wikilink")

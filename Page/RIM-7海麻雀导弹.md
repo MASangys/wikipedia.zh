@@ -85,7 +85,4 @@
   - [舰载垂直发射系统](../Page/舰载垂直发射系统.md "wikilink")
   - [半主動雷達導引](https://zh.wikipedia.org/wiki/半主動雷達導引 "wikilink")
 
-[Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink")
-[Category:舰载防空导弹](https://zh.wikipedia.org/wiki/Category:舰载防空导弹 "wikilink")
-[Category:飛彈防禦](https://zh.wikipedia.org/wiki/Category:飛彈防禦 "wikilink")
-[Category:點防禦防空飛彈](https://zh.wikipedia.org/wiki/Category:點防禦防空飛彈 "wikilink")
+[Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink") [Category:舰载防空导弹](https://zh.wikipedia.org/wiki/Category:舰载防空导弹 "wikilink") [Category:飛彈防禦](https://zh.wikipedia.org/wiki/Category:飛彈防禦 "wikilink") [Category:點防禦防空飛彈](https://zh.wikipedia.org/wiki/Category:點防禦防空飛彈 "wikilink")

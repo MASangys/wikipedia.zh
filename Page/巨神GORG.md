@@ -38,8 +38,4 @@ FUTANARI
   - [SUNRISE](https://web.archive.org/web/20090221110441/http://www.sunrise-anime.jp/sunrise-inc/works/detail.php?cid=65)
   - [巨神ゴーグWeb](http://www.giant-gorg.net/)
 
-[Category:1984年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1984年日本電視動畫 "wikilink")
-[Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
-[Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[Category:1984年日本電視動畫](https://zh.wikipedia.org/wiki/Category:1984年日本電視動畫 "wikilink") [Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink") [Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")

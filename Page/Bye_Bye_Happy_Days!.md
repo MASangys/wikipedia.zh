@@ -1,6 +1,4 @@
-「**Bye Bye Happy
-Days\!**」（）是[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")8張日文[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年3月27日由[UNIVERSAL
-SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")。
+「**Bye Bye Happy Days\!**」（）是[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")8張日文[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年3月27日由[UNIVERSAL SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")。
 
 ## 版本
 
@@ -15,13 +13,10 @@ SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")�
 
 1.  バイバイ ハッピーデイズ\! (Bye Bye Happy Days\!) \[4:36\]
       -
-        作词：[Simon
-        Isogai](https://zh.wikipedia.org/wiki/JP:磯貝サイモン "wikilink")、作曲：Simon
-        Isogai、編曲：ArmySlick
+        作词：[Simon Isogai](https://zh.wikipedia.org/wiki/JP:磯貝サイモン "wikilink")、作曲：Simon Isogai、編曲：ArmySlick
 2.  マイボーイ (My Boy) \[3:24\]
       -
-        作詞：Play Kid (Kim Won Hyun) 、作曲：Play Kid (Kim Won Hyun) 、編曲：Play
-        Kid (Kim Won Hyun) 、日本語詞：森若香織
+        作詞：Play Kid (Kim Won Hyun) 、作曲：Play Kid (Kim Won Hyun) 、編曲：Play Kid (Kim Won Hyun) 、日本語詞：森若香織
     <!-- end list -->
       - “DATE”日文版
 3.  バイバイ ハッピーデイズ\! (Instrumental)
@@ -50,5 +45,4 @@ SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")�
 2.  オリオン (Close-up Ver.)
 3.  オリオン (Music Video Clipオフショット)
 
-[Category:KARA歌曲](https://zh.wikipedia.org/wiki/Category:KARA歌曲 "wikilink")
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
+[Category:KARA歌曲](https://zh.wikipedia.org/wiki/Category:KARA歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")

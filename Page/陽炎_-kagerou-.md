@@ -21,8 +21,6 @@
 
 ## 外部链接
 
-  - [天下取り隊 -
-    戦国乙女～桃色パラドックス](http://sengokuotome.com/special/special01.html)
+  - [天下取り隊 - 戦国乙女～桃色パラドックス](http://sengokuotome.com/special/special01.html)
 
-[Category:PONY_CANYON歌曲](https://zh.wikipedia.org/wiki/Category:PONY_CANYON歌曲 "wikilink")
-[Category:動畫主題曲](https://zh.wikipedia.org/wiki/Category:動畫主題曲 "wikilink")
+[Category:PONY_CANYON歌曲](https://zh.wikipedia.org/wiki/Category:PONY_CANYON歌曲 "wikilink") [Category:動畫主題曲](https://zh.wikipedia.org/wiki/Category:動畫主題曲 "wikilink")

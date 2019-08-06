@@ -9,8 +9,6 @@ TE4型柴油机车于1952年试制成功，出厂后在位于乌克兰的南方�
 
 ## 外部链接
 
-  - [1520mm.ru: Тепловоз
-    ТЭ4](https://web.archive.org/web/20091106175513/http://www.1520mm.ru/locomotives/diesel/te4.phtml)
+  - [1520mm.ru: Тепловоз ТЭ4](https://web.archive.org/web/20091106175513/http://www.1520mm.ru/locomotives/diesel/te4.phtml)
 
-[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink")
-[Category:哈尔科夫制铁路机车](https://zh.wikipedia.org/wiki/Category:哈尔科夫制铁路机车 "wikilink")
+[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:哈尔科夫制铁路机车](https://zh.wikipedia.org/wiki/Category:哈尔科夫制铁路机车 "wikilink")

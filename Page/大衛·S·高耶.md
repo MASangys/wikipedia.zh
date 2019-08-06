@@ -48,15 +48,9 @@
 
   - 《[夢遊者](https://zh.wikipedia.org/wiki/夢遊者 "wikilink")》試播集（1997-1998）
   - 《Freakylinks》單集：「Subject: Fearsum」（2000）
-  - 《[致命臨界點](https://zh.wikipedia.org/wiki/致命臨界點 "wikilink")》單集：「Trees
-    Made of Glass: Part 2」（2005）
-  - 《[刀鋒戰士](https://zh.wikipedia.org/wiki/刀鋒戰士_\(電視劇\) "wikilink")》試播集和單集：「Death
-    Goes On」、「Descent」、「Bloodlines」、「The Evil
-    Within」、「Delivery」、「Sacrifice」、「Turn of the
-    Screw」、「Angels & Demons」、「Hunters」、「Monsters」、「Conclave」（2006）
-  - 《[超時空感應](https://zh.wikipedia.org/wiki/超時空感應 "wikilink")》單集：「No More
-    Good Days」、「White To Play」、「137 Sekunden」、「A561984」、「The Garden of
-    Forking Paths」（2009-2010）
+  - 《[致命臨界點](https://zh.wikipedia.org/wiki/致命臨界點 "wikilink")》單集：「Trees Made of Glass: Part 2」（2005）
+  - 《[刀鋒戰士](https://zh.wikipedia.org/wiki/刀鋒戰士_\(電視劇\) "wikilink")》試播集和單集：「Death Goes On」、「Descent」、「Bloodlines」、「The Evil Within」、「Delivery」、「Sacrifice」、「Turn of the Screw」、「Angels & Demons」、「Hunters」、「Monsters」、「Conclave」（2006）
+  - 《[超時空感應](https://zh.wikipedia.org/wiki/超時空感應 "wikilink")》單集：「No More Good Days」、「White To Play」、「137 Sekunden」、「A561984」、「The Garden of Forking Paths」（2009-2010）
   - 《[達文西惡魔](https://zh.wikipedia.org/wiki/達文西惡魔 "wikilink")》（2013）
   - 《[康斯坦汀：驅魔神探](../Page/康斯坦汀：驅魔神探_\(電視劇\).md "wikilink")》聯合編劇；試播集和第3集（2014-2015）\[8\]
   - 《[超人前傳](../Page/氪星_\(电视剧\).md "wikilink")》（2018）
@@ -79,8 +73,7 @@
   - 《》單集：「Trees Made of Glass: Part 1」（2005）
   - 《》（2007）
   - 《》（2009）
-  - 《[超時空感應](https://zh.wikipedia.org/wiki/超時空感應 "wikilink")》試播「No More
-    Good Days」和單集：「White To Black」（2009）
+  - 《[超時空感應](https://zh.wikipedia.org/wiki/超時空感應 "wikilink")》試播「No More Good Days」和單集：「White To Black」（2009）
 
 ### 監製
 
@@ -104,33 +97,19 @@
 ## 外部連結
 
   -
-  - [David Goyer Interview @ PopImage,
-    Oct.01](https://web.archive.org/web/20060317122932/http://www.popimage.com/industrial/101001dgoyer2001.html)
+  - [David Goyer Interview @ PopImage, Oct.01](https://web.archive.org/web/20060317122932/http://www.popimage.com/industrial/101001dgoyer2001.html)
 
-  - [David Goyer Interview @ PopImage,
-    Feb 2000](https://web.archive.org/web/20060317123314/http://www.popimage.com/feb00/interviews/goyer.html)
+  - [David Goyer Interview @ PopImage, Feb 2000](https://web.archive.org/web/20060317123314/http://www.popimage.com/feb00/interviews/goyer.html)
 
   - [對談：與編劇大衛·高耶的訪談](https://web.archive.org/web/20090704114552/http://thedialogueseries.com/writer_davidgoyer.php)
 
-[Category:1965年出生](https://zh.wikipedia.org/wiki/Category:1965年出生 "wikilink")
-[Category:美國漫畫作家](https://zh.wikipedia.org/wiki/Category:美國漫畫作家 "wikilink")
-[Category:美國電影導演](https://zh.wikipedia.org/wiki/Category:美國電影導演 "wikilink")
-[Category:猶太裔美國作家](https://zh.wikipedia.org/wiki/Category:猶太裔美國作家 "wikilink")
-[Category:美國電影監製](https://zh.wikipedia.org/wiki/Category:美國電影監製 "wikilink")
-[Category:美國電視監製](https://zh.wikipedia.org/wiki/Category:美國電視監製 "wikilink")
-[Category:美國猶太人](https://zh.wikipedia.org/wiki/Category:美國猶太人 "wikilink")
-[Category:美国男性编剧](https://zh.wikipedia.org/wiki/Category:美国男性编剧 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:南加州大學校友](https://zh.wikipedia.org/wiki/Category:南加州大學校友 "wikilink")
-[Category:密西根州人](https://zh.wikipedia.org/wiki/Category:密西根州人 "wikilink")
+[Category:1965年出生](https://zh.wikipedia.org/wiki/Category:1965年出生 "wikilink") [Category:美國漫畫作家](https://zh.wikipedia.org/wiki/Category:美國漫畫作家 "wikilink") [Category:美國電影導演](https://zh.wikipedia.org/wiki/Category:美國電影導演 "wikilink") [Category:猶太裔美國作家](https://zh.wikipedia.org/wiki/Category:猶太裔美國作家 "wikilink") [Category:美國電影監製](https://zh.wikipedia.org/wiki/Category:美國電影監製 "wikilink") [Category:美國電視監製](https://zh.wikipedia.org/wiki/Category:美國電視監製 "wikilink") [Category:美國猶太人](https://zh.wikipedia.org/wiki/Category:美國猶太人 "wikilink") [Category:美国男性编剧](https://zh.wikipedia.org/wiki/Category:美国男性编剧 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:南加州大學校友](https://zh.wikipedia.org/wiki/Category:南加州大學校友 "wikilink") [Category:密西根州人](https://zh.wikipedia.org/wiki/Category:密西根州人 "wikilink")
 
 1.
 2.
 3.
-4.  [Notable Alumni, USC School of Cinematic
-    Arts](http://cinema.usc.edu/alumni/notable.cfm).
+4.  [Notable Alumni, USC School of Cinematic Arts](http://cinema.usc.edu/alumni/notable.cfm).
 5.
-6.  \[<http://www.deadline.com/2013/06/man-of-steel-sequel-underway-with-zack-snyder-and-david-s-goyer/> ‘Man
-    Of Steel’ Sequel Underway With Zack Snyder And David S. Goyer\]
+6.  \[<http://www.deadline.com/2013/06/man-of-steel-sequel-underway-with-zack-snyder-and-david-s-goyer/> ‘Man Of Steel’ Sequel Underway With Zack Snyder And David S. Goyer\]
 7.
 8.  <http://www.deadline.com/2013/09/dc-comics-constantine-daniel-cerone-david-goyer-nbc-warner-bros-tv/>

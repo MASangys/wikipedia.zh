@@ -7,5 +7,4 @@ afreecaTV提供玩家下載自行開發的AfreecaTV影音錄製軟體，玩家�
 ## 外部連結
 
   -
-[Category:網路電視頻道](https://zh.wikipedia.org/wiki/Category:網路電視頻道 "wikilink")
-[Category:韓國網站](https://zh.wikipedia.org/wiki/Category:韓國網站 "wikilink")
+[Category:網路電視頻道](https://zh.wikipedia.org/wiki/Category:網路電視頻道 "wikilink") [Category:韓國網站](https://zh.wikipedia.org/wiki/Category:韓國網站 "wikilink")

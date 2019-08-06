@@ -4,10 +4,6 @@
 
 ## 外部連結
 
-  - [RF-8-GAZ-98
-    Snowmobile](https://archive.is/20130416144708/http://english.battlefield.ru/soviet-combat-snowmobiles/page-2.html)
-    at the Russian Battlefield
+  - [RF-8-GAZ-98 Snowmobile](https://archive.is/20130416144708/http://english.battlefield.ru/soviet-combat-snowmobiles/page-2.html) at the Russian Battlefield
 
-[Category:有舵雪橇](https://zh.wikipedia.org/wiki/Category:有舵雪橇 "wikilink")
-[Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")
-[Category:各國二戰武器](https://zh.wikipedia.org/wiki/Category:各國二戰武器 "wikilink")
+[Category:有舵雪橇](https://zh.wikipedia.org/wiki/Category:有舵雪橇 "wikilink") [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink") [Category:各國二戰武器](https://zh.wikipedia.org/wiki/Category:各國二戰武器 "wikilink")

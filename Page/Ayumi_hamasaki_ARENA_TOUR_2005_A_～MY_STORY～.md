@@ -1,5 +1,4 @@
-《*' ayumi hamasaki ARENA TOUR 2005 A ～MY STORY～*'》（濱崎步 2005 巡迴演唱會 A
-～私物語～）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2005年間舉行的巡迴演唱會，同年8月24日發行[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+《*' ayumi hamasaki ARENA TOUR 2005 A ～MY STORY～*'》（濱崎步 2005 巡迴演唱會 A ～私物語～）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2005年間舉行的巡迴演唱會，同年8月24日發行[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 說明
 
@@ -38,8 +37,7 @@
 
 <!-- end list -->
 
-1.  [STEP
-    you](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")
+1.  [STEP you](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")
 2.  \-MC-
 3.  [Humming 7/4](../Page/MY_STORY.md "wikilink")
 4.  [flower garden](../Page/I_am....md "wikilink")
@@ -62,5 +60,4 @@
 
 </small>
 
-[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink")
-[Category:2005年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2005年音樂相關影像作品 "wikilink")
+[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink") [Category:2005年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2005年音樂相關影像作品 "wikilink")

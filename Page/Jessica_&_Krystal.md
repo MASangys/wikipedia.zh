@@ -1,19 +1,12 @@
-《**Jessica &
-Krystal**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[On
-Style有線電視台的實境節目](https://zh.wikipedia.org/wiki/On_Style "wikilink")。節目主角為韓國人氣親姐妹[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")（播出时）和[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")[Krystal](../Page/鄭秀晶.md "wikilink")，姐妹被安排到屬於兩人的住所（下稱JK
-House）居住，透過節目向觀眾展現日常生活中的真實面貌，讓公眾重新認識她們，於2014年6月3日正式首播，於8月5日播出最後一集。\[1\]
+《**Jessica & Krystal**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[On Style有線電視台的實境節目](https://zh.wikipedia.org/wiki/On_Style "wikilink")。節目主角為韓國人氣親姐妹[少女時代成員](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")（播出时）和[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")[Krystal](../Page/鄭秀晶.md "wikilink")，姐妹被安排到屬於兩人的住所（下稱JK House）居住，透過節目向觀眾展現日常生活中的真實面貌，讓公眾重新認識她們，於2014年6月3日正式首播，於8月5日播出最後一集。\[1\]
 
 ## 背景
 
-  - 於2014年4月，網絡上有消息傳出[Jessica和](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")[Krystal將會出演一個名為](../Page/鄭秀晶.md "wikilink")《Cover
-    Girl》的實境節目\[2\]。
-  - OnStyle相關人員表示將製作新實境節目《Jessica & Krystal》，貼身捕捉 Jessica 與 Krystal
-    的日常生活畫面。
+  - 於2014年4月，網絡上有消息傳出[Jessica和](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")[Krystal將會出演一個名為](../Page/鄭秀晶.md "wikilink")《Cover Girl》的實境節目\[2\]。
+  - OnStyle相關人員表示將製作新實境節目《Jessica & Krystal》，貼身捕捉 Jessica 與 Krystal 的日常生活畫面。
   - 受到[世越號沉沒事故影響](https://zh.wikipedia.org/wiki/世越號沉沒事故 "wikilink")，首播由原定5月6日推遲至6月3日。
   - 2014年6月3日正式首播，[首爾](../Page/首爾.md "wikilink")時間每週二播放一集，於8月5號播出最後一集\[3\]\[4\]。
-  - 《Jessica &
-    Krystal》結束後，[少女時代分隊](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[TaeTiSeo將於](../Page/少女時代-太蒂徐.md "wikilink")8月25日接捧成為OnStyle
-    "Real Stars"系列的下一個明星[真人實境秀](../Page/真人實境秀.md "wikilink")\[5\]\[6\]。
+  - 《Jessica & Krystal》結束後，[少女時代分隊](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[TaeTiSeo將於](../Page/少女時代-太蒂徐.md "wikilink")8月25日接捧成為OnStyle "Real Stars"系列的下一個明星[真人實境秀](../Page/真人實境秀.md "wikilink")\[5\]\[6\]。
 
 ## 節目成員
 
@@ -231,42 +224,14 @@ House）居住，透過節目向觀眾展現日常生活中的真實面貌，讓
 
 ## 官方視頻
 
-以下視頻來自此節目官方[YouTube](https://www.youtube.com/playlist?list=PLT0y9TfKIdaf12cwGFzjTHYG4HagJyTDd)
-& [Facebook](https://www.facebook.com/onstyletv)頻道。
+以下視頻來自此節目官方[YouTube](https://www.youtube.com/playlist?list=PLT0y9TfKIdaf12cwGFzjTHYG4HagJyTDd) & [Facebook](https://www.facebook.com/onstyletv)頻道。
 
   -
 
       -
         {| class="wikitable"
 
-|- \! 名稱 \! 長度 \! 官方網址 \! 備註 |- | Jessica & Krystal Teaser | 00:20 | [by
-On Style](https://www.youtube.com/watch?v=qFjry9VMjjI) -
-[YouTube](../Page/YouTube.md "wikilink") | |- | Teaser 2 | 00:32 | [by
-On Style](https://www.youtube.com/watch?v=WoGf9NZyDq0) - YouTube | Learn
-Jung Sisters' Body Language |- | Teaser 3 | 00:16 | [by On
-Style](https://www.facebook.com/photo.php?v=710308335674796) -
-[Facebook](../Page/Facebook.md "wikilink") | Day 10 - Countdown of the
-Premier |- | Teaser 4 | 00:18 | [by On
-Style](https://www.facebook.com/photo.php?v=710765565629073) - Facebook
-| Day 9 - Countdown of the Premier |- | Teaser 5 | 00:22 | [by On
-Style](https://www.facebook.com/photo.php?v=711222442250052) - Facebook
-| Day 8 - Countdown of the premier |- | Teaser 6 | 00:13 | [by On
-Style](https://www.youtube.com/watch?v=6DZyyUXpZ3k) -
-[YouTube](../Page/YouTube.md "wikilink") | Day 7 - Countdown of the
-premier |- | Teaser 7 | 00:19 | [by On
-Style](https://www.youtube.com/watch?v=XC9HD7dwcA4) - YouTube | Day 6 -
-Countdown of the premier |- | Teaser 8 | 00:22 | [by On
-Style](https://www.youtube.com/watch?v=T8CvR-qh7r0) - YouTube | Day 5 -
-Countdown of the premier |- | Teaser 9 | 00:17 | [by On
-Style](https://www.youtube.com/watch?v=O76A6VK4UEk) - YouTube | Day 4 -
-Countdown of the premier |- | Teaser 10 | 00:17 | [by On
-Style](https://www.youtube.com/watch?v=BF2EfORs-eo) - YouTube | Day 3 -
-Countdown of the premier |- | Teaser 11 | 00:28 | [by On
-Style](https://www.youtube.com/watch?v=R548d948lYs) - YouTube | Day 2 -
-Countdown of the premier |- | Teaser 12 | 00:18 | [by On
-Style](https://www.youtube.com/watch?v=R548d948lYs) - YouTube | Day 1 -
-Countdown of the premier |- | Episode 1 Preview | 00:43 | [by On
-Style](https://www.youtube.com/watch?v=soMxgsZh-zQ) - YouTube | |- |}
+|- \! 名稱 \! 長度 \! 官方網址 \! 備註 |- | Jessica & Krystal Teaser | 00:20 | [by On Style](https://www.youtube.com/watch?v=qFjry9VMjjI) - [YouTube](../Page/YouTube.md "wikilink") | |- | Teaser 2 | 00:32 | [by On Style](https://www.youtube.com/watch?v=WoGf9NZyDq0) - YouTube | Learn Jung Sisters' Body Language |- | Teaser 3 | 00:16 | [by On Style](https://www.facebook.com/photo.php?v=710308335674796) - [Facebook](../Page/Facebook.md "wikilink") | Day 10 - Countdown of the Premier |- | Teaser 4 | 00:18 | [by On Style](https://www.facebook.com/photo.php?v=710765565629073) - Facebook | Day 9 - Countdown of the Premier |- | Teaser 5 | 00:22 | [by On Style](https://www.facebook.com/photo.php?v=711222442250052) - Facebook | Day 8 - Countdown of the premier |- | Teaser 6 | 00:13 | [by On Style](https://www.youtube.com/watch?v=6DZyyUXpZ3k) - [YouTube](../Page/YouTube.md "wikilink") | Day 7 - Countdown of the premier |- | Teaser 7 | 00:19 | [by On Style](https://www.youtube.com/watch?v=XC9HD7dwcA4) - YouTube | Day 6 - Countdown of the premier |- | Teaser 8 | 00:22 | [by On Style](https://www.youtube.com/watch?v=T8CvR-qh7r0) - YouTube | Day 5 - Countdown of the premier |- | Teaser 9 | 00:17 | [by On Style](https://www.youtube.com/watch?v=O76A6VK4UEk) - YouTube | Day 4 - Countdown of the premier |- | Teaser 10 | 00:17 | [by On Style](https://www.youtube.com/watch?v=BF2EfORs-eo) - YouTube | Day 3 - Countdown of the premier |- | Teaser 11 | 00:28 | [by On Style](https://www.youtube.com/watch?v=R548d948lYs) - YouTube | Day 2 - Countdown of the premier |- | Teaser 12 | 00:18 | [by On Style](https://www.youtube.com/watch?v=R548d948lYs) - YouTube | Day 1 - Countdown of the premier |- | Episode 1 Preview | 00:43 | [by On Style](https://www.youtube.com/watch?v=soMxgsZh-zQ) - YouTube | |- |}
 
 ## 其他
 
@@ -286,27 +251,19 @@ Style](https://www.youtube.com/watch?v=soMxgsZh-zQ) - YouTube | |- |}
 
   - [搜狐视频综艺：Jessica\&Krystal](http://tv.sohu.com/s2014/covergirls/)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:OnStyle](https://zh.wikipedia.org/wiki/Category:OnStyle "wikilink")
-[Category:F(x)](https://zh.wikipedia.org/wiki/Category:F\(x\) "wikilink")
-[Category:少女时代](https://zh.wikipedia.org/wiki/Category:少女时代 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:OnStyle](https://zh.wikipedia.org/wiki/Category:OnStyle "wikilink") [Category:F(x)](https://zh.wikipedia.org/wiki/Category:F\(x\) "wikilink") [Category:少女时代](https://zh.wikipedia.org/wiki/Category:少女时代 "wikilink")
 
-1.  [Jessica and f(x)’s Krystal to Star in New Program, ‘Cover
-    Girl’](http://www.soshified.com/2014/04/jessica-and-fxs-krystal-to-star-in-new-program-cover-girl)
+1.  [Jessica and f(x)’s Krystal to Star in New Program, ‘Cover Girl’](http://www.soshified.com/2014/04/jessica-and-fxs-krystal-to-star-in-new-program-cover-girl)
 
 2.  [少女時代Jessica攜妹妹Krystal上真人秀](http://www.koreastardaily.com/tc/news/40881)
 
-3.  [Jessica和Krystal真人秀《Jessica &
-    Krystal》今晚播最終篇章](http://www.koreastardaily.com/tc/photo/45619)
+3.  [Jessica和Krystal真人秀《Jessica & Krystal》今晚播最終篇章](http://www.koreastardaily.com/tc/photo/45619)
 
-4.  [《Jessica & Krystal》将完结
-    姐妹感谢支持表达不舍](http://www.vdfly.com/tv/20140805/31134.html)
+4.  [《Jessica & Krystal》将完结 姐妹感谢支持表达不舍](http://www.vdfly.com/tv/20140805/31134.html)
 
-5.  [《泰蒂徐》8月25日与观众见面
-    公开少时真实生活](http://news.yule.com.cn/html/201408/174845.html)
+5.  [《泰蒂徐》8月25日与观众见面 公开少时真实生活](http://news.yule.com.cn/html/201408/174845.html)
 
-6.  [TaeTiSeo to Begin Own Variety Program ‘The TaeTiSeo’
-    on 8/25](https://ph.celebrity.yahoo.com/news/taetiseo-to-begin-own-variety-program-the-taetiseo-074600253.html)
+6.  [TaeTiSeo to Begin Own Variety Program ‘The TaeTiSeo’ on 8/25](https://ph.celebrity.yahoo.com/news/taetiseo-to-begin-own-variety-program-the-taetiseo-074600253.html)
 
 7.  此處標題為On Style的分集標題。
 
@@ -322,12 +279,9 @@ Style](https://www.youtube.com/watch?v=soMxgsZh-zQ) - YouTube | |- |}
 
 13. Leo特別喜歡摸Jessica牛仔褲露出的的膝蓋。
 
-14. [Jessica & Krystal Invite Their Fans to ′JeK
-    House′](https://sg.entertainment.yahoo.com/news/video-jessica-krystal-invite-their-fans-to-jek-083507330.html)
+14. [Jessica & Krystal Invite Their Fans to ′JeK House′](https://sg.entertainment.yahoo.com/news/video-jessica-krystal-invite-their-fans-to-jek-083507330.html)
 
-
-15. [粉丝报名人数达3000
-    Jessica彰显女主人架势](http://news.yule.com.cn/html/201407/172331.html)
+15. [粉丝报名人数达3000 Jessica彰显女主人架势](http://news.yule.com.cn/html/201407/172331.html)
 
 16.
 17. [「ジェシカ＆クリスタル」放送終了・・・「もっと多くのことをやってみたかった」](http://japanese.kpopstarz.com/articles/17011/20140808/snsd-jessica-f-x-krystal.htm)

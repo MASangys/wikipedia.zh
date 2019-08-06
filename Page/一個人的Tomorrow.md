@@ -6,21 +6,10 @@
 
 <div class="references-small">
 
-  - {{ cite web | title =
-    [專輯明細《一個人的Tomorrow》](http://pmdb.org.tw/search_album.jsp?oid=1190)
-    | work = [台灣流行音樂數位資料庫](http://pmdb.org.tw/) |publisher = 台北市政府 |
-    accessdate = 2012-10-19 | language = zh-tw }}
-  - {{ cite web | title =
-    [《一個人的Tomorrow》專輯資料](http://isrc.ncl.edu.tw/music_view.aspx?item=1190)
-    | work = [ISRC-國際標準錄音錄影資料代碼查詢系統](http://isrc.ncl.edu.tw/) |publisher
-    = 國家圖書館 | accessdate = 2012-09-23 | language = zh-tw }}
-  - {{ cite web | title =
-    [吳克羣：追求夢想，絕對沒有退路](http://udn.com/NEWS/ENTERTAINMENT/ENT2/7372515.shtml)
-    | work = [追星網](http://stars.udn.com/) |publisher = 聯合新聞網 |
-    accessdate = 2012-10-19 | language = zh-tw | date = 2012-09-19}}
+  - {{ cite web | title = [專輯明細《一個人的Tomorrow》](http://pmdb.org.tw/search_album.jsp?oid=1190) | work = [台灣流行音樂數位資料庫](http://pmdb.org.tw/) |publisher = 台北市政府 | accessdate = 2012-10-19 | language = zh-tw }}
+  - {{ cite web | title = [《一個人的Tomorrow》專輯資料](http://isrc.ncl.edu.tw/music_view.aspx?item=1190) | work = [ISRC-國際標準錄音錄影資料代碼查詢系統](http://isrc.ncl.edu.tw/) |publisher = 國家圖書館 | accessdate = 2012-09-23 | language = zh-tw }}
+  - {{ cite web | title = [吳克羣：追求夢想，絕對沒有退路](http://udn.com/NEWS/ENTERTAINMENT/ENT2/7372515.shtml) | work = [追星網](http://stars.udn.com/) |publisher = 聯合新聞網 | accessdate = 2012-10-19 | language = zh-tw | date = 2012-09-19}}
 
 </div>
 
-[Category:吳克羣音樂專輯](https://zh.wikipedia.org/wiki/Category:吳克羣音樂專輯 "wikilink")
-[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
+[Category:吳克羣音樂專輯](https://zh.wikipedia.org/wiki/Category:吳克羣音樂專輯 "wikilink") [Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")

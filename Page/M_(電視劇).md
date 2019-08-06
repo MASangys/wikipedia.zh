@@ -39,8 +39,7 @@
 
   - [傳說的故鄉](../Page/傳說的故鄉.md "wikilink")（KBS）
   - [蜘蛛](https://zh.wikipedia.org/wiki/蜘蛛_\(電視劇\) "wikilink")（MBC）- 1995
-  - [RNA](https://zh.wikipedia.org/wiki/RNA_\(電視劇\) "wikilink")（KBS）-
-    2000
+  - [RNA](https://zh.wikipedia.org/wiki/RNA_\(電視劇\) "wikilink")（KBS）- 2000
   - [魂](../Page/魂_\(電視劇\).md "wikilink")（MBC）- 2009
 
 ## 外部連結
@@ -48,11 +47,6 @@
   - [《M》韓國MBC官方網站](http://www.imbc.com/broad/tv/drama/M/)
   - [Youtube -《M》開場片段](https://www.youtube.com/watch?v=A-bhqSfB88E)
 
-[Category:1994年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:1994年韓國電視劇集 "wikilink")
-[Category:1994年電視劇集](https://zh.wikipedia.org/wiki/Category:1994年電視劇集 "wikilink")
-[Category:MBC月火連續劇](https://zh.wikipedia.org/wiki/Category:MBC月火連續劇 "wikilink")
-[Category:恐怖電視劇](https://zh.wikipedia.org/wiki/Category:恐怖電視劇 "wikilink")
-[Category:多重人格題材電視劇](https://zh.wikipedia.org/wiki/Category:多重人格題材電視劇 "wikilink")
+[Category:1994年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:1994年韓國電視劇集 "wikilink") [Category:1994年電視劇集](https://zh.wikipedia.org/wiki/Category:1994年電視劇集 "wikilink") [Category:MBC月火連續劇](https://zh.wikipedia.org/wiki/Category:MBC月火連續劇 "wikilink") [Category:恐怖電視劇](https://zh.wikipedia.org/wiki/Category:恐怖電視劇 "wikilink") [Category:多重人格題材電視劇](https://zh.wikipedia.org/wiki/Category:多重人格題材電視劇 "wikilink")
 
-1.  [《大長今》登最高收視十大 俊哥《初戀》韓劇最強 [蘋果日報](../Page/蘋果日報_\(香港\).md "wikilink") -
-    2011年6月18日](http://hk.apple.nextmedia.com/open/article/462/20110618/15351962)
+1.  [《大長今》登最高收視十大 俊哥《初戀》韓劇最強 [蘋果日報](../Page/蘋果日報_\(香港\).md "wikilink") - 2011年6月18日](http://hk.apple.nextmedia.com/open/article/462/20110618/15351962)

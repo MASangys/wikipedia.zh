@@ -1,14 +1,8 @@
-**Tcllib** 是一系列用于 [Tcl](../Page/Tcl.md "wikilink") 编程语言的包的集合，以
-[源代码](../Page/源代码.md "wikilink") 和
-[预编译的二进制文件](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")
-两种形式分发，支持许多常见操作系统：[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")
-和 [Linux](../Page/Linux.md "wikilink")。
+**Tcllib** 是一系列用于 [Tcl](../Page/Tcl.md "wikilink") 编程语言的包的集合，以 [源代码](../Page/源代码.md "wikilink") 和 [预编译的二进制文件](https://zh.wikipedia.org/wiki/可执行文件 "wikilink") 两种形式分发，支持许多常见操作系统：[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink") 和 [Linux](../Page/Linux.md "wikilink")。
 
 ## 数据结构
 
-Tcllib 实现了诸多常见的数据结构算法，如
-[链表](../Page/链表.md "wikilink")、[散列表](https://zh.wikipedia.org/wiki/散列表 "wikilink")、[树](../Page/树_\(数据结构\).md "wikilink")、[图](https://zh.wikipedia.org/wiki/图_\(数据结构\) "wikilink")
-等。
+Tcllib 实现了诸多常见的数据结构算法，如 [链表](../Page/链表.md "wikilink")、[散列表](https://zh.wikipedia.org/wiki/散列表 "wikilink")、[树](../Page/树_\(数据结构\).md "wikilink")、[图](https://zh.wikipedia.org/wiki/图_\(数据结构\) "wikilink") 等。
 
 ## 包分类
 
@@ -39,5 +33,4 @@ Tcllib 实现了诸多常见的数据结构算法，如
   - [Tcllib 官方文档和 API 参考](http://tcllib.sourceforge.net/doc/)
   - [Tcllib 下载页面](http://sourceforge.net/projects/tcllib/)
 
-[Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink")
-[Category:Tcl编程语言家族](https://zh.wikipedia.org/wiki/Category:Tcl编程语言家族 "wikilink")
+[Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink") [Category:Tcl编程语言家族](https://zh.wikipedia.org/wiki/Category:Tcl编程语言家族 "wikilink")

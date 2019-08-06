@@ -28,15 +28,10 @@ M-84AS mbt 2.JPG|後部 M-84AB1 3.jpg|機槍塔 M-84AB1 TOMS.jpg|車長觀瞄器
 
 ## 參考
 
-  - [Article on the M84-AB1, published in
-    "Odbrana"](https://web.archive.org/web/20090326135834/http://www.odbrana.mod.gov.rs/odbrana001/64-65.pdf)
-    (.pdf, in Serbian)
-  - [Article on M-84 published by UK parliament
-    commons](https://web.archive.org/web/20061121011349/http://www.parliament.uk/commons/lib/research/rp99/rp99-034.pdf)
-  - [Forecast international on tank
-    engine](http://www.forecastinternational.com/samples/650_2005.pdf)
+  - [Article on the M84-AB1, published in "Odbrana"](https://web.archive.org/web/20090326135834/http://www.odbrana.mod.gov.rs/odbrana001/64-65.pdf) (.pdf, in Serbian)
+  - [Article on M-84 published by UK parliament commons](https://web.archive.org/web/20061121011349/http://www.parliament.uk/commons/lib/research/rp99/rp99-034.pdf)
+  - [Forecast international on tank engine](http://www.forecastinternational.com/samples/650_2005.pdf)
 
 [分類:塞爾維亞軍事](https://zh.wikipedia.org/wiki/分類:塞爾維亞軍事 "wikilink")
 
-[Category:主战坦克](https://zh.wikipedia.org/wiki/Category:主战坦克 "wikilink")
-[Category:現代坦克](https://zh.wikipedia.org/wiki/Category:現代坦克 "wikilink")
+[Category:主战坦克](https://zh.wikipedia.org/wiki/Category:主战坦克 "wikilink") [Category:現代坦克](https://zh.wikipedia.org/wiki/Category:現代坦克 "wikilink")

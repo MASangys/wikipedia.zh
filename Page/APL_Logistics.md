@@ -2,13 +2,11 @@
 
 ## 历史
 
-美集物流的前身美國集運服務（American Consolidation
-Services，縮寫ACS）起始于1980年，曾隶属于[美国总统轮船公司](https://zh.wikipedia.org/wiki/美国总统轮船公司 "wikilink")（APL）旗下的集拼业务板块，直至2001年美集物流成立。目前美集物流的营运网络遍布全球60多个国家的110多个地点，管理着200多处物流仓储设施，总面积超过2,000万平方英尺\[2\]。
+美集物流的前身美國集運服務（American Consolidation Services，縮寫ACS）起始于1980年，曾隶属于[美国总统轮船公司](https://zh.wikipedia.org/wiki/美国总统轮船公司 "wikilink")（APL）旗下的集拼业务板块，直至2001年美集物流成立。目前美集物流的营运网络遍布全球60多个国家的110多个地点，管理着200多处物流仓储设施，总面积超过2,000万平方英尺\[2\]。
 
 2001年，美集物流收购了当时美国的第二大合约物流公司GATX物流\[3\]。这一收购确立了美集物流在合约物流领域主要服务提供商的地位。
 
-2014年3月1日，Beat Simon替代Jim
-McAdam正式出任美集物流总裁一职。他拥有超过三十年的行业相关经验。在此之前，他在综合物流服务提供商Agility担任首席执行官\[4\]。
+2014年3月1日，Beat Simon替代Jim McAdam正式出任美集物流总裁一职。他拥有超过三十年的行业相关经验。在此之前，他在综合物流服务提供商Agility担任首席执行官\[4\]。
 
 ## 业务范围
 
@@ -24,10 +22,7 @@ McAdam正式出任美集物流总裁一职。他拥有超过三十年的行业�
 
 ## 参考文獻
 
-[Category:新加坡公司](https://zh.wikipedia.org/wiki/Category:新加坡公司 "wikilink")
-[Category:物流公司](https://zh.wikipedia.org/wiki/Category:物流公司 "wikilink")
-[Category:近鐵集團](https://zh.wikipedia.org/wiki/Category:近鐵集團 "wikilink")
-[Category:1980年成立的公司](https://zh.wikipedia.org/wiki/Category:1980年成立的公司 "wikilink")
+[Category:新加坡公司](https://zh.wikipedia.org/wiki/Category:新加坡公司 "wikilink") [Category:物流公司](https://zh.wikipedia.org/wiki/Category:物流公司 "wikilink") [Category:近鐵集團](https://zh.wikipedia.org/wiki/Category:近鐵集團 "wikilink") [Category:1980年成立的公司](https://zh.wikipedia.org/wiki/Category:1980年成立的公司 "wikilink")
 
 1.
 2.

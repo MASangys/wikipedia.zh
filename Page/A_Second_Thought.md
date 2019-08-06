@@ -1,5 +1,4 @@
-《**A Second
-Thought**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[孫耀威](../Page/孫耀威.md "wikilink")的第二十一張大碟，第八張粵語專輯，在2012年10月7日預購\[1\]，並於10月19日推出，是其第七張粵語專輯，第一主打歌是他作曲填詞的《從此我的世界多了一秒》，而第二主打歌為為香港人帶來正能量的《療Dry》。
+《**A Second Thought**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[孫耀威](../Page/孫耀威.md "wikilink")的第二十一張大碟，第八張粵語專輯，在2012年10月7日預購\[1\]，並於10月19日推出，是其第七張粵語專輯，第一主打歌是他作曲填詞的《從此我的世界多了一秒》，而第二主打歌為為香港人帶來正能量的《療Dry》。
 
 ## 曲目
 
@@ -44,15 +43,9 @@ Thought**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md 
 
 </div>
 
-[Category:孫耀威音樂專輯](https://zh.wikipedia.org/wiki/Category:孫耀威音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:孫耀威音樂專輯](https://zh.wikipedia.org/wiki/Category:孫耀威音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
-1.  [孫耀威“A Second
-    Thought”CD+DVD](http://skymusic.com.hk/?p=33808)，2012年10月21日
-    (日) 13:10 (UTC+8)查閱
+1.  [孫耀威“A Second Thought”CD+DVD](http://skymusic.com.hk/?p=33808)，2012年10月21日 (日) 13:10 (UTC+8)查閱
 
 2.
-3.  [iTunes - Music - A Second Thought by Eric
-    Suen](http://itunes.apple.com/hk/album/a-second-thought/id565943370)，2012年10月8日
-    (一) 20:55 (UTC+8)查閱
+3.  [iTunes - Music - A Second Thought by Eric Suen](http://itunes.apple.com/hk/album/a-second-thought/id565943370)，2012年10月8日 (一) 20:55 (UTC+8)查閱

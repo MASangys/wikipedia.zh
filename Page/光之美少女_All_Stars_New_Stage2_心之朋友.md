@@ -1,5 +1,4 @@
-《**電影 光之美少女 All Stars New Stage2
-心之朋友**》於2013年3月16日在[日本](../Page/日本.md "wikilink")上映。此作品是第五次結集[光之美少女系列](../Page/光之美少女系列.md "wikilink")的結合作品。
+《**電影 光之美少女 All Stars New Stage2 心之朋友**》於2013年3月16日在[日本](../Page/日本.md "wikilink")上映。此作品是第五次結集[光之美少女系列](../Page/光之美少女系列.md "wikilink")的結合作品。
 
 ## 故事簡介
 
@@ -103,8 +102,7 @@
 ## 支援歌
 
   - 「」
-    作詞、作曲 ：[淳君](../Page/淳君.md "wikilink")，編曲：平田祥一郎，主唱：
-    [Berryz工房](../Page/Berryz工房.md "wikilink")
+    作詞、作曲 ：[淳君](../Page/淳君.md "wikilink")，編曲：平田祥一郎，主唱： [Berryz工房](../Page/Berryz工房.md "wikilink")
 
 ## 製作人員
 
@@ -118,9 +116,7 @@
   - 製作擔當：大町義則
   - [音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")：[高梨康治](../Page/高梨康治.md "wikilink")
   - 動畫製作：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")
-  - 製作：電影光之美少女All Stars
-    NS2製作委員會（東映動畫、東映、[Bandai](https://zh.wikipedia.org/wiki/Bandai "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[Marvelous
-    AQL](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink")、木下工務店）
+  - 製作：電影光之美少女All Stars NS2製作委員會（東映動畫、東映、[Bandai](https://zh.wikipedia.org/wiki/Bandai "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[Marvelous AQL](https://zh.wikipedia.org/wiki/Marvelous_AQL "wikilink")、木下工務店）
   - 發行：[東映](../Page/東映.md "wikilink")
 
 ## 參考資料
@@ -129,10 +125,6 @@
 
 ## 外部連結
 
-  - [光之美少女 All Stars New Stage 2 心之朋友
-    官方網站](http://www.toei-anim.co.jp/movie/2013_precure_allstars/)
+  - [光之美少女 All Stars New Stage 2 心之朋友 官方網站](http://www.toei-anim.co.jp/movie/2013_precure_allstars/)
 
-[Category:2013年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2013年日本劇場動畫 "wikilink")
-[Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink")
-[Category:動畫跨界作品](https://zh.wikipedia.org/wiki/Category:動畫跨界作品 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
+[Category:2013年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2013年日本劇場動畫 "wikilink") [Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink") [Category:動畫跨界作品](https://zh.wikipedia.org/wiki/Category:動畫跨界作品 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")

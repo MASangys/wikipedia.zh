@@ -1,5 +1,4 @@
-**《We Are The
-One》**是[張繼聰](../Page/張繼聰.md "wikilink")的第九張[音樂專輯](../Page/音樂專輯.md "wikilink")，於2012年10月18日推出。這張唱片亦有收錄上隻EP《[5+](../Page/5+.md "wikilink")》的歌曲。
+**《We Are The One》**是[張繼聰](../Page/張繼聰.md "wikilink")的第九張[音樂專輯](../Page/音樂專輯.md "wikilink")，於2012年10月18日推出。這張唱片亦有收錄上隻EP《[5+](../Page/5+.md "wikilink")》的歌曲。
 
 ## 曲目
 
@@ -13,6 +12,4 @@ One》**是[張繼聰](../Page/張繼聰.md "wikilink")的第九張[音樂專輯
 | <small>生命之花</small> |               6               |          6          |
 | <small>2013</small> |      <small>雙彩虹</small>       |         20          |
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:張繼聰音樂專輯](https://zh.wikipedia.org/wiki/Category:張繼聰音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:張繼聰音樂專輯](https://zh.wikipedia.org/wiki/Category:張繼聰音樂專輯 "wikilink")

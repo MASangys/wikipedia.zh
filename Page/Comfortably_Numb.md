@@ -27,15 +27,12 @@
 
 ## 参考书目
 
-  - Fitch, Vernon. The Pink Floyd Encyclopedia (3rd edition), 2005. ISBN
-    1-894959-24-8
+  - Fitch, Vernon. The Pink Floyd Encyclopedia (3rd edition), 2005. ISBN 1-894959-24-8
 
 ## 外部链接
 
   -
-[Category:平克·弗洛伊德歌曲](https://zh.wikipedia.org/wiki/Category:平克·弗洛伊德歌曲 "wikilink")
-[Category:1979年单曲](https://zh.wikipedia.org/wiki/Category:1979年单曲 "wikilink")
-[Category:毒品題材歌曲](https://zh.wikipedia.org/wiki/Category:毒品題材歌曲 "wikilink")
+[Category:平克·弗洛伊德歌曲](https://zh.wikipedia.org/wiki/Category:平克·弗洛伊德歌曲 "wikilink") [Category:1979年单曲](https://zh.wikipedia.org/wiki/Category:1979年单曲 "wikilink") [Category:毒品題材歌曲](https://zh.wikipedia.org/wiki/Category:毒品題材歌曲 "wikilink")
 
 1.
 
@@ -45,8 +42,7 @@
 
 4.
 
-5.  \[<http://www.telegraph.co.uk/culture/music/3654941/Everyone-wants-to-be-an-axeman>....html
-    Everyone wants to be an axeman\]. The Telegraph.
+5.  \[<http://www.telegraph.co.uk/culture/music/3654941/Everyone-wants-to-be-an-axeman>....html Everyone wants to be an axeman\]. The Telegraph.
 
 6.  [Top 10 Guita Solos](https://www.youtube.com/watch?v=f4NOJ42-BKM)
 

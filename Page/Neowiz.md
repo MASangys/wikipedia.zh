@@ -2,8 +2,6 @@
 
 ## 参见
 
-  - [Neowiz
-    Internet](https://zh.wikipedia.org/wiki/Neowiz_Internet "wikilink")
+  - [Neowiz Internet](https://zh.wikipedia.org/wiki/Neowiz_Internet "wikilink")
 
-[Category:1997年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1997年開業電子遊戲公司 "wikilink")
-[Category:韓國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:韓國電子遊戲公司 "wikilink")
+[Category:1997年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1997年開業電子遊戲公司 "wikilink") [Category:韓國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:韓國電子遊戲公司 "wikilink")

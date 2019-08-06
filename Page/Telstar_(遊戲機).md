@@ -161,9 +161,6 @@
 
 ## 参考文献
 
-[Category:Coleco遊戲機](https://zh.wikipedia.org/wiki/Category:Coleco遊戲機 "wikilink")
-[Category:第一世代遊戲機](https://zh.wikipedia.org/wiki/Category:第一世代遊戲機 "wikilink")
-[Category:专用游戏机](https://zh.wikipedia.org/wiki/Category:专用游戏机 "wikilink")
-[Category:1976年面世的產品](https://zh.wikipedia.org/wiki/Category:1976年面世的產品 "wikilink")
+[Category:Coleco遊戲機](https://zh.wikipedia.org/wiki/Category:Coleco遊戲機 "wikilink") [Category:第一世代遊戲機](https://zh.wikipedia.org/wiki/Category:第一世代遊戲機 "wikilink") [Category:专用游戏机](https://zh.wikipedia.org/wiki/Category:专用游戏机 "wikilink") [Category:1976年面世的產品](https://zh.wikipedia.org/wiki/Category:1976年面世的產品 "wikilink")
 
 1.

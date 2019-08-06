@@ -14,13 +14,7 @@ TFTPD常作为服务器维护软件的一部分，用来引导[无盘工作站](
 
   - [Tftpd32官方网站](http://tftpd32.jounin.net/)
 
-[Category:FTP服务器](https://zh.wikipedia.org/wiki/Category:FTP服务器 "wikilink")
-[Category:自由FTP客户端](https://zh.wikipedia.org/wiki/Category:自由FTP客户端 "wikilink")
-[Category:自由服务器软件](https://zh.wikipedia.org/wiki/Category:自由服务器软件 "wikilink")
-[Category:使用Artistic许可证的自由软件](https://zh.wikipedia.org/wiki/Category:使用Artistic许可证的自由软件 "wikilink")
-[Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink")
+[Category:FTP服务器](https://zh.wikipedia.org/wiki/Category:FTP服务器 "wikilink") [Category:自由FTP客户端](https://zh.wikipedia.org/wiki/Category:自由FTP客户端 "wikilink") [Category:自由服务器软件](https://zh.wikipedia.org/wiki/Category:自由服务器软件 "wikilink") [Category:使用Artistic许可证的自由软件](https://zh.wikipedia.org/wiki/Category:使用Artistic许可证的自由软件 "wikilink") [Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink")
 
-1.  [Использование бездисковых Linux-станций с загрузкой по
-    сети](http://samag.ru/archive/article/362), Андрей Маркелов,
-    журнал «Системный администратор», 2004, Выпуск № 11 (24)
+1.  [Использование бездисковых Linux-станций с загрузкой по сети](http://samag.ru/archive/article/362), Андрей Маркелов, журнал «Системный администратор», 2004, Выпуск № 11 (24)
 2.

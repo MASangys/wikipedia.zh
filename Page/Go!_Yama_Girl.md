@@ -93,27 +93,17 @@
 
 ## 記事
 
-  - 2014年7月16日：由於直播《[FINA跳水世界盃2014](https://zh.wikipedia.org/wiki/2014年跳水世界盃 "wikilink")》
-    ，本節目順延至22:05-22:10播出。
-  - 2014年7月17日：由於直播《[FINA跳水世界盃2014](https://zh.wikipedia.org/wiki/2014年跳水世界盃 "wikilink")》
-    ，本節目順延至22:00-22:05播出。
-  - 2014年12月3日：由於直播《[2014 Mnet Asian Music
-    Awards](https://zh.wikipedia.org/wiki/Mnet_Asian_Music_Awards "wikilink")》
-    ，本節目順延至23:35-23:40播出。
+  - 2014年7月16日：由於直播《[FINA跳水世界盃2014](https://zh.wikipedia.org/wiki/2014年跳水世界盃 "wikilink")》 ，本節目順延至22:05-22:10播出。
+  - 2014年7月17日：由於直播《[FINA跳水世界盃2014](https://zh.wikipedia.org/wiki/2014年跳水世界盃 "wikilink")》 ，本節目順延至22:00-22:05播出。
+  - 2014年12月3日：由於直播《[2014 Mnet Asian Music Awards](https://zh.wikipedia.org/wiki/Mnet_Asian_Music_Awards "wikilink")》 ，本節目順延至23:35-23:40播出。
 
 ## 參考
 
 ## 外部連結
 
-  - [無綫電視節目網頁 - Go\! Yama
-    Girl（第一輯）](http://programme.tvb.com/lifestyle/goyamagirl)
-  - [無綫電視節目網頁 - Go\! Yama
-    Girl（第二輯）](http://programme.tvb.com/lifestyle/goyamagirl2)
+  - [無綫電視節目網頁 - Go\! Yama Girl（第一輯）](http://programme.tvb.com/lifestyle/goyamagirl)
+  - [無綫電視節目網頁 - Go\! Yama Girl（第二輯）](http://programme.tvb.com/lifestyle/goyamagirl2)
 
-[Category:2014年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2014年無綫電視節目 "wikilink")
-[Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink")
-[Category:J2節目](https://zh.wikipedia.org/wiki/Category:J2節目 "wikilink")
-[Category:無綫電視旅遊節目](https://zh.wikipedia.org/wiki/Category:無綫電視旅遊節目 "wikilink")
+[Category:2014年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2014年無綫電視節目 "wikilink") [Category:2015年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2015年無綫電視節目 "wikilink") [Category:J2節目](https://zh.wikipedia.org/wiki/Category:J2節目 "wikilink") [Category:無綫電視旅遊節目](https://zh.wikipedia.org/wiki/Category:無綫電視旅遊節目 "wikilink")
 
-1.  [光之日本語- 香港日文全接觸: GO\! Yama
-    Girl](http://hikaru-no-nihongo.blogspot.com/2014/05/go-yama-girl.html)
+1.  [光之日本語- 香港日文全接觸: GO\! Yama Girl](http://hikaru-no-nihongo.blogspot.com/2014/05/go-yama-girl.html)

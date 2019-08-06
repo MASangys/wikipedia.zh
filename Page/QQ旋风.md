@@ -4,19 +4,13 @@
 
 ## 系统要求
 
-支持Microsoft [Windows 2000](../Page/Windows_2000.md "wikilink")、[Windows
-XP](../Page/Windows_XP.md "wikilink")、[Windows
-Vista](../Page/Windows_Vista.md "wikilink")、[Windows
-7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows
-8操作系统](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")。
+支持Microsoft [Windows 2000](../Page/Windows_2000.md "wikilink")、[Windows XP](../Page/Windows_XP.md "wikilink")、[Windows Vista](../Page/Windows_Vista.md "wikilink")、[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows 8操作系统](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")。
 
 ## 参考资料
 
-[分类:Windows软件](https://zh.wikipedia.org/wiki/分类:Windows软件 "wikilink")
-[分类:已停止開發的軟體](https://zh.wikipedia.org/wiki/分类:已停止開發的軟體 "wikilink")
+[分类:Windows软件](https://zh.wikipedia.org/wiki/分类:Windows软件 "wikilink") [分类:已停止開發的軟體](https://zh.wikipedia.org/wiki/分类:已停止開發的軟體 "wikilink")
 
-[Category:下載工具](https://zh.wikipedia.org/wiki/Category:下載工具 "wikilink")
-[Category:腾讯软件](https://zh.wikipedia.org/wiki/Category:腾讯软件 "wikilink")
+[Category:下載工具](https://zh.wikipedia.org/wiki/Category:下載工具 "wikilink") [Category:腾讯软件](https://zh.wikipedia.org/wiki/Category:腾讯软件 "wikilink")
 
 1.  [QQ旋风下线公告](https://kf.qq.com/faq/170803FzAnIn170803Ynqe6J.html).腾讯客服.
 2.

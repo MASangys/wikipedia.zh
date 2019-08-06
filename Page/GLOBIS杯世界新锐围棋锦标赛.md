@@ -1381,29 +1381,18 @@
 
 1.  [日本将主办全新围棋世界大赛 20岁以下年轻棋手参赛](http://sports.sina.com.cn/go/2013-11-08/18226874924.shtml)
 2.  [崔精申真谞罗玄出战首届GLOBIS杯世界围棋U-20锦标赛](http://weiqi.tom.com/2014-03-12/0030/05667909.html)
-3.  [世界u20赛中国三将首战告捷
-    次轮全面中韩对抗](http://sports.sina.com.cn/go/2015-05-08/10447600731.shtml)
-4.  [世界u20赛杨鼎新不敌李东勳
-    李钦诚黄云嵩率先晋级](http://sports.sina.com.cn/go/2015-05-08/15317601021.shtml)
-5.  [世界u20赛杨鼎新轻取日新锐
-    八强中3韩3日2](http://sports.sina.com.cn/go/2015-05-09/11577601646.shtml)
-6.  [U20新锐赛杨鼎新不敌罗玄
-    黄云嵩李钦诚杀入四强](http://sports.sina.com.cn/go/2015-05-09/15197601794.shtml)
-7.  [U20新锐赛黄云嵩屠李东勳惊天大龙
-    将与罗玄争冠](http://sports.sina.com.cn/go/2015-05-10/11437602802.shtml)
-8.  [世界U20新锐赛黄云嵩斩韩将夺冠
-    揽300万日元](http://sports.sina.com.cn/go/2015-05-10/14107602962.shtml)
-9.  [世界U20新锐战李钦诚夺冠
-    揽300万日元奖金](http://sports.sina.com.cn/go/2016-04-26/doc-ifxrpvcy4502339.shtml)
+3.  [世界u20赛中国三将首战告捷 次轮全面中韩对抗](http://sports.sina.com.cn/go/2015-05-08/10447600731.shtml)
+4.  [世界u20赛杨鼎新不敌李东勳 李钦诚黄云嵩率先晋级](http://sports.sina.com.cn/go/2015-05-08/15317601021.shtml)
+5.  [世界u20赛杨鼎新轻取日新锐 八强中3韩3日2](http://sports.sina.com.cn/go/2015-05-09/11577601646.shtml)
+6.  [U20新锐赛杨鼎新不敌罗玄 黄云嵩李钦诚杀入四强](http://sports.sina.com.cn/go/2015-05-09/15197601794.shtml)
+7.  [U20新锐赛黄云嵩屠李东勳惊天大龙 将与罗玄争冠](http://sports.sina.com.cn/go/2015-05-10/11437602802.shtml)
+8.  [世界U20新锐赛黄云嵩斩韩将夺冠 揽300万日元](http://sports.sina.com.cn/go/2015-05-10/14107602962.shtml)
+9.  [世界U20新锐战李钦诚夺冠 揽300万日元奖金](http://sports.sina.com.cn/go/2016-04-26/doc-ifxrpvcy4502339.shtml)
 10. [第4回　グロービス杯世界囲碁U-20](http://www.nihonkiin.or.jp/match/globis/004.html)
 11. [“GLOBIS杯”新锐战中国棋手3战全胜提前进入8强](http://sports.sina.com.cn/go/2017-04-21/doc-ifyepsec0068757.shtml)
-12. [“GLOBIS杯”辜梓豪小负日新锐
-    中国棋手无缘4强](http://sports.sina.com.cn/go/2017-04-22/doc-ifyepsec0292442.shtml)
+12. [“GLOBIS杯”辜梓豪小负日新锐 中国棋手无缘4强](http://sports.sina.com.cn/go/2017-04-22/doc-ifyepsec0292442.shtml)
 13. [Globis杯谢科负里菜小姐姐 8强赛赵晨宇-李东勋](http://sports.sina.com.cn/go/2018-04-21/doc-ifznefkh1167929.shtml)
-14. [Globis杯赵晨宇不敌李东勋
-    许嘉阳孤身闯4强](http://sports.sina.com.cn/go/2018-04-21/doc-ifznefkh3172145.shtml)
-15. [世界U20新锐赛小组赛战罢两轮
-    韩国三将全胜出线](http://sports.sina.com.cn/go/2019-04-19/doc-ihvhiewr7104593.shtml)
-16. [世界U20新锐战中韩瓜分四强
-    丁浩王泽锦将战二申](http://sports.sina.com.cn/go/2019-04-20/doc-ihvhiqax4078355.shtml)
+14. [Globis杯赵晨宇不敌李东勋 许嘉阳孤身闯4强](http://sports.sina.com.cn/go/2018-04-21/doc-ifznefkh3172145.shtml)
+15. [世界U20新锐赛小组赛战罢两轮 韩国三将全胜出线](http://sports.sina.com.cn/go/2019-04-19/doc-ihvhiewr7104593.shtml)
+16. [世界U20新锐战中韩瓜分四强 丁浩王泽锦将战二申](http://sports.sina.com.cn/go/2019-04-20/doc-ihvhiqax4078355.shtml)
 17. [去年饮恨，今年夺冠，申旻埈圆梦GLOBIS杯](http://www.sohu.com/a/309476147_100133346?sec=wd)

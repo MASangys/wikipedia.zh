@@ -76,14 +76,11 @@ YouBike微笑單車在2016年8月30日執行中彰地區系統更新工作時，
   - [YouBike 微笑單車](https://www.youbike.com.tw/)（臺灣）
   - [YouBike 微笑單車](https://www.youbike.me/)（中國大陸）
 
-[Category:臺灣公共自行車](https://zh.wikipedia.org/wiki/Category:臺灣公共自行車 "wikilink")
-[Category:公共自行車](https://zh.wikipedia.org/wiki/Category:公共自行車 "wikilink")
-[Category:巨大集團](https://zh.wikipedia.org/wiki/Category:巨大集團 "wikilink")
+[Category:臺灣公共自行車](https://zh.wikipedia.org/wiki/Category:臺灣公共自行車 "wikilink") [Category:公共自行車](https://zh.wikipedia.org/wiki/Category:公共自行車 "wikilink") [Category:巨大集團](https://zh.wikipedia.org/wiki/Category:巨大集團 "wikilink")
 
 1.
 2.  [莆田市园林管理局莆田市公共自行车PPP项目竞争性磋商成交公告](http://www.ccgp.gov.cn/cggg/dfgg/cjgg/201802/t20180226_9609708.htm)
-3.  [YouBike當機 微笑單車
-    新系統軟體毀損](http://www.cna.com.tw/news/firstnews/201608315004-1.aspx/)
+3.  [YouBike當機 微笑單車 新系統軟體毀損](http://www.cna.com.tw/news/firstnews/201608315004-1.aspx/)
 4.  <https://udn.com/news/story/2/2143381>
 5.  [臺北市YouBike公共自行車費率說明](https://taipei.youbike.com.tw/use/rates)
 6.  [新北市YouBike公共自行車費率說明](https://ntpc.youbike.com.tw/use/rates)
@@ -96,6 +93,5 @@ YouBike微笑單車在2016年8月30日執行中彰地區系統更新工作時，
 13.
 14. 泉港區、台商投資區、泉州開發區、洛江區、江南新區與安溪縣皆與泉州市採同樣收費標準
 15. [莆田YouBike微笑自行車收費標準](https://putian.youbike.me/cn/use_rates.php)
-16. [YouBike也有身分證！跨區租借
-    收調度費600起跳](https://www.youtube.com/watch?v=EIpfRHT_UK4)
+16. [YouBike也有身分證！跨區租借 收調度費600起跳](https://www.youtube.com/watch?v=EIpfRHT_UK4)
 17. [臺中市iBike公共自行車費率說明](https://i.youbike.com.tw/use/rates)

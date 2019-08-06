@@ -70,8 +70,7 @@ VS系列</p></td>
 ### 戰隊關係者
 
   -
-    **倉鼠館長<small>｜**[西田健](https://zh.wikipedia.org/wiki/西田健 "wikilink")
-    聲</small>
+    **倉鼠館長<small>｜**[西田健](https://zh.wikipedia.org/wiki/西田健 "wikilink") 聲</small>
     **日向朧**<small>**｜**[高田聖子](https://zh.wikipedia.org/wiki/高田聖子 "wikilink")</small>
     **鐵特姆<small>｜**[岳美](https://zh.wikipedia.org/wiki/岳美 "wikilink")</small>
 
@@ -82,15 +81,13 @@ VS系列</p></td>
     **一之槍·芙拉碧裘<small>｜**[山本梓](../Page/山本梓.md "wikilink")</small>
     **三之槍·曼馬魯巴<small>｜**[今村卓博](../Page/今村卓博.md "wikilink") 聲</small>
     **四之槍·溫蒂努<small>｜**[福澄美緒](https://zh.wikipedia.org/wiki/福澄美緒 "wikilink")</small>
-    **五之槍·薩卡胤<small>｜**[岡本美登](https://zh.wikipedia.org/wiki/岡本美登 "wikilink")
-    聲</small>
+    **五之槍·薩卡胤<small>｜**[岡本美登](https://zh.wikipedia.org/wiki/岡本美登 "wikilink") 聲</small>
     **六之槍·撒塔拉庫拉<small>｜**[島田敏](../Page/島田敏.md "wikilink") 聲</small>
 
 ### 本作原創角色
 
   -
-    **丘坊主<small>｜**[岸祐二](https://zh.wikipedia.org/wiki/岸祐二 "wikilink")
-    聲</small>
+    **丘坊主<small>｜**[岸祐二](https://zh.wikipedia.org/wiki/岸祐二 "wikilink") 聲</small>
       -
         丘諸卜的弟弟。承襲哥哥的遺志與破裏劍者戰鬥，並要求塔臧特能讓他遞補二之槍的空缺。從亞敗柏和角角那打聽到了有關牙吠連者的消息，並誘拐了除了大神以外的牙吠連者和鐵特姆，奪去了G-Phone，一切都是丘坊主為了能加入暗黑七本槍的陰謀。擁有哥哥丘諸卜的全套宇宙忍法，以及與丘諸卜一樣的槍型武器。半吊子性格，被撒塔拉庫拉稱為「丘和尚」。
         擔任配音的[岸祐二曾演出過](https://zh.wikipedia.org/wiki/岸祐二 "wikilink")『[激走戰隊車連者](../Page/激走戰隊車連者.md "wikilink")』中的**紅車手·陣內恭介**，他也曾在忍風戰隊電視版中出演由手裏劍者變裝後的一人。
@@ -115,8 +112,7 @@ VS系列</p></td>
     **旋風神**
     **轟雷神**
     **天空神**
-    **風雷丸<small>｜**[宮田浩德](https://zh.wikipedia.org/wiki/宮田浩德 "wikilink")
-    聲</small>
+    **風雷丸<small>｜**[宮田浩德](https://zh.wikipedia.org/wiki/宮田浩德 "wikilink") 聲</small>
     **轟雷旋風神**
       -
         在轟雷旋風神等機器人遭到丘坊主的極限能量攻擊後，紛紛解除合體，此時轟雷旋風神的手臂被打斷了，鷹介也因此受傷，此時獅子提議使用威力獸的力量，由牙吠鯊魚和牙吠虎合體為轟雷旋風神的雙手，加上牙吠大象的援助，本作原創的機器人「**轟雷旋風神·劍盾**」因此應運而生。使出「**必殺奧義·風雷百獸斬**」輕鬆擊敗再生巨大化中忍。
@@ -130,6 +126,4 @@ VS系列</p></td>
 
 ## 外部連結
 
-[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink")
-[Category:忍者題材作品](https://zh.wikipedia.org/wiki/Category:忍者題材作品 "wikilink")
-[Category:外星生命題材作品](https://zh.wikipedia.org/wiki/Category:外星生命題材作品 "wikilink")
+[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink") [Category:忍者題材作品](https://zh.wikipedia.org/wiki/Category:忍者題材作品 "wikilink") [Category:外星生命題材作品](https://zh.wikipedia.org/wiki/Category:外星生命題材作品 "wikilink")

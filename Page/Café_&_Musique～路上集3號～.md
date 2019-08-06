@@ -1,5 +1,4 @@
-『**Café &
-Musique〜路上集3號〜**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛](../Page/川嶋愛.md "wikilink")在2008年4月23日發售的第三張[重製](../Page/重製.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")\[1\]。
+『**Café & Musique〜路上集3號〜**』是[日本](../Page/日本.md "wikilink")[創作歌手](../Page/創作歌手.md "wikilink")・[川嶋愛](../Page/川嶋愛.md "wikilink")在2008年4月23日發售的第三張[重製](../Page/重製.md "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")\[1\]。
 
 ## 解説
 
@@ -60,13 +59,10 @@ Musique〜路上集3號〜**』是[日本](../Page/日本.md "wikilink")[創作�
 12. **Grace**
     編曲・鋼琴：倉本裕基
       -
-        額外音軌。美容院Grace 30th Anniversary
-        [商業搭配](../Page/商業搭配.md "wikilink")歌曲
+        額外音軌。美容院Grace 30th Anniversary [商業搭配](../Page/商業搭配.md "wikilink")歌曲
 
 ## 參考資料
 
-[Category:川嶋愛音樂專輯](https://zh.wikipedia.org/wiki/Category:川嶋愛音樂專輯 "wikilink")
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
+[Category:川嶋愛音樂專輯](https://zh.wikipedia.org/wiki/Category:川嶋愛音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
 
-1.  [川嶋あい My Room - DISCOGRAPHY -
-    ALBUM](http://www.kawashimaai.com/discography/album.php)  川嶋愛官方網站
+1.  [川嶋あい My Room - DISCOGRAPHY - ALBUM](http://www.kawashimaai.com/discography/album.php)  川嶋愛官方網站

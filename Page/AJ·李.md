@@ -6,26 +6,15 @@
 
 最喜愛的顏色:綠色
 
-最喜愛的電影:500 Days of Summer,[The Dark
-Knight](https://zh.wikipedia.org/wiki/The_Dark_Knight "wikilink"),[The
-Matrix](https://zh.wikipedia.org/wiki/The_Matrix "wikilink")
+最喜愛的電影:500 Days of Summer,[The Dark Knight](https://zh.wikipedia.org/wiki/The_Dark_Knight "wikilink"),[The Matrix](https://zh.wikipedia.org/wiki/The_Matrix "wikilink")
 
-最喜愛的電視節目:[Buffy the Vampire
-Slayer](https://zh.wikipedia.org/wiki/Buffy_the_Vampire_Slayer "wikilink"),[Parks
-and Rec](https://zh.wikipedia.org/wiki/Parks_and_Rec "wikilink"),[30
-Rock](https://zh.wikipedia.org/wiki/30_Rock "wikilink"),[X檔案](https://zh.wikipedia.org/wiki/X檔案 "wikilink")
+最喜愛的電視節目:[Buffy the Vampire Slayer](https://zh.wikipedia.org/wiki/Buffy_the_Vampire_Slayer "wikilink"),[Parks and Rec](https://zh.wikipedia.org/wiki/Parks_and_Rec "wikilink"),[30 Rock](https://zh.wikipedia.org/wiki/30_Rock "wikilink"),[X檔案](https://zh.wikipedia.org/wiki/X檔案 "wikilink")
 
 最喜愛的書籍:[真理之劍](../Page/真理之劍.md "wikilink")
 
-最喜愛的電動玩具:[潛龍諜影系列](../Page/潛龍諜影系列.md "wikilink"),[Final Fantasy
-X](https://zh.wikipedia.org/wiki/Final_Fantasy_X "wikilink"),[Resident
-Evil](https://zh.wikipedia.org/wiki/Resident_Evil "wikilink"),[Mortal
-Kombat](https://zh.wikipedia.org/wiki/Mortal_Kombat "wikilink"),[蝙蝠俠：阿卡漢城市](https://zh.wikipedia.org/wiki/蝙蝠俠：阿卡漢城市 "wikilink")
+最喜愛的電動玩具:[潛龍諜影系列](../Page/潛龍諜影系列.md "wikilink"),[Final Fantasy X](https://zh.wikipedia.org/wiki/Final_Fantasy_X "wikilink"),[Resident Evil](https://zh.wikipedia.org/wiki/Resident_Evil "wikilink"),[Mortal Kombat](https://zh.wikipedia.org/wiki/Mortal_Kombat "wikilink"),[蝙蝠俠：阿卡漢城市](https://zh.wikipedia.org/wiki/蝙蝠俠：阿卡漢城市 "wikilink")
 
-最喜愛的漫畫:[薩迦
-(文學)](https://zh.wikipedia.org/wiki/薩迦_\(文學\) "wikilink"),Matt
-Fraction’s Hawkeye,Karl Kesel & Terry Dodson’s Harley Quinn,Rachel
-Rising
+最喜愛的漫畫:[薩迦 (文學)](https://zh.wikipedia.org/wiki/薩迦_\(文學\) "wikilink"),Matt Fraction’s Hawkeye,Karl Kesel & Terry Dodson’s Harley Quinn,Rachel Rising
 
 最喜愛的動漫:[星際牛仔](../Page/星際牛仔.md "wikilink"),[犬夜叉](https://zh.wikipedia.org/wiki/犬夜叉 "wikilink")
 
@@ -37,41 +26,19 @@ Kari Kimmel - Let's Light It Up (2012-2015)
 
 ### WWE 誹聞男友
 
-AJ Lee在[Raw一開始的設定是](https://zh.wikipedia.org/wiki/Raw "wikilink")[Daniel
-Bryan的女友](https://zh.wikipedia.org/wiki/Daniel_Bryan "wikilink")，但因在[摔角狂熱](../Page/摔角狂熱.md "wikilink")上因為和Aj親親之後，[Daniel
-Bryan轉身立刻被對手](https://zh.wikipedia.org/wiki/Daniel_Bryan "wikilink")[Sheamus一技大腳](https://zh.wikipedia.org/wiki/Sheamus "wikilink")，
-18秒終結比賽，失去了冠軍頭銜，2人感情因此產生縫隙，也註定了之後同時擁有多位男朋友的命運。
+AJ Lee在[Raw一開始的設定是](https://zh.wikipedia.org/wiki/Raw "wikilink")[Daniel Bryan的女友](https://zh.wikipedia.org/wiki/Daniel_Bryan "wikilink")，但因在[摔角狂熱](../Page/摔角狂熱.md "wikilink")上因為和Aj親親之後，[Daniel Bryan轉身立刻被對手](https://zh.wikipedia.org/wiki/Daniel_Bryan "wikilink")[Sheamus一技大腳](https://zh.wikipedia.org/wiki/Sheamus "wikilink")， 18秒終結比賽，失去了冠軍頭銜，2人感情因此產生縫隙，也註定了之後同時擁有多位男朋友的命運。
 
-而第2位誹聞男友為[CM Punk](../Page/CM_Punk.md "wikilink")，也就是Aj現在的老公，當Aj
-Lee認為感情穩定時，決定向[CM
-Punk求婚](../Page/CM_Punk.md "wikilink")，沒想到被拒絕，這時[Daniel
-Bryan以為自己有機會](https://zh.wikipedia.org/wiki/Daniel_Bryan "wikilink")，
-沒想到反被Aj Lee打了一個耳光，Aj Lee感情更進入了超不穩定狀態。
+而第2位誹聞男友為[CM Punk](../Page/CM_Punk.md "wikilink")，也就是Aj現在的老公，當Aj Lee認為感情穩定時，決定向[CM Punk求婚](../Page/CM_Punk.md "wikilink")，沒想到被拒絕，這時[Daniel Bryan以為自己有機會](https://zh.wikipedia.org/wiki/Daniel_Bryan "wikilink")， 沒想到反被Aj Lee打了一個耳光，Aj Lee感情更進入了超不穩定狀態。
 
-第3位誹聞男友[Kane是因為當時](https://zh.wikipedia.org/wiki/Kane "wikilink")[CM
-Punk和Aj](../Page/CM_Punk.md "wikilink") Lee以雙打狀態打比賽，而[Daniel
-Bryan和](https://zh.wikipedia.org/wiki/Daniel_Bryan "wikilink")[Kane組成的](https://zh.wikipedia.org/wiki/Kane "wikilink")[Team
-Hell No打比賽](https://zh.wikipedia.org/wiki/Team_Hell_No "wikilink")， 而[CM
-Punk的無意換手](../Page/CM_Punk.md "wikilink")，促成[Kane和Aj](https://zh.wikipedia.org/wiki/Kane "wikilink")
-Lee喇舌，因此產生第3位誹聞男友。
+第3位誹聞男友[Kane是因為當時](https://zh.wikipedia.org/wiki/Kane "wikilink")[CM Punk和Aj](../Page/CM_Punk.md "wikilink") Lee以雙打狀態打比賽，而[Daniel Bryan和](https://zh.wikipedia.org/wiki/Daniel_Bryan "wikilink")[Kane組成的](https://zh.wikipedia.org/wiki/Kane "wikilink")[Team Hell No打比賽](https://zh.wikipedia.org/wiki/Team_Hell_No "wikilink")， 而[CM Punk的無意換手](../Page/CM_Punk.md "wikilink")，促成[Kane和Aj](https://zh.wikipedia.org/wiki/Kane "wikilink") Lee喇舌，因此產生第3位誹聞男友。
 
-第4位誹聞男友[John
-Cena是因為Aj](https://zh.wikipedia.org/wiki/John_Cena "wikilink")
-Lee當上總經理，被死對頭[Vickie
-Guerrero指控](https://zh.wikipedia.org/wiki/Vickie_Guerrero "wikilink")2人在談戀愛，因此[John
-Cena成為第](https://zh.wikipedia.org/wiki/John_Cena "wikilink")4位誹聞男友。
+第4位誹聞男友[John Cena是因為Aj](https://zh.wikipedia.org/wiki/John_Cena "wikilink") Lee當上總經理，被死對頭[Vickie Guerrero指控](https://zh.wikipedia.org/wiki/Vickie_Guerrero "wikilink")2人在談戀愛，因此[John Cena成為第](https://zh.wikipedia.org/wiki/John_Cena "wikilink")4位誹聞男友。
 
-第5位誹聞男友[Dolph
-Ziggler因為Aj](https://zh.wikipedia.org/wiki/Dolph_Ziggler "wikilink")
-Lee和[John
-Cena變得十分不愉快](https://zh.wikipedia.org/wiki/John_Cena "wikilink")，因此幫了[Dolph
-Ziggler](https://zh.wikipedia.org/wiki/Dolph_Ziggler "wikilink")， 害[John
-Cena輸掉比賽](https://zh.wikipedia.org/wiki/John_Cena "wikilink")，2人陰錯陽差成為wwe當時的惡棍情侶。
+第5位誹聞男友[Dolph Ziggler因為Aj](https://zh.wikipedia.org/wiki/Dolph_Ziggler "wikilink") Lee和[John Cena變得十分不愉快](https://zh.wikipedia.org/wiki/John_Cena "wikilink")，因此幫了[Dolph Ziggler](https://zh.wikipedia.org/wiki/Dolph_Ziggler "wikilink")， 害[John Cena輸掉比賽](https://zh.wikipedia.org/wiki/John_Cena "wikilink")，2人陰錯陽差成為wwe當時的惡棍情侶。
 
 ### 衛冕紀錄
 
-AJ
-Lee在2013年6月16日由世界摔角娛樂所舉辦的[絕命復仇](../Page/WWE_Payback.md "wikilink")，從[Kaitlyn的手上贏得WWE麗人冠軍](https://zh.wikipedia.org/wiki/Kaitlyn "wikilink")。
+AJ Lee在2013年6月16日由世界摔角娛樂所舉辦的[絕命復仇](../Page/WWE_Payback.md "wikilink")，從[Kaitlyn的手上贏得WWE麗人冠軍](https://zh.wikipedia.org/wiki/Kaitlyn "wikilink")。
 
 於2014年4月7日在raw被新進的diva[Paige奪走WWE麗人冠軍](https://zh.wikipedia.org/wiki/Paige "wikilink")，最終創下295天的衛冕紀錄，且成為WWE麗人冠軍最長連任時間保持人。
 
@@ -79,15 +46,11 @@ Lee在2013年6月16日由世界摔角娛樂所舉辦的[絕命復仇](../Page/WW
 
 於2014年8月17日在[夏日衝擊被](https://zh.wikipedia.org/wiki/夏日衝擊 "wikilink")[Paige奪走WWE麗人冠軍](https://zh.wikipedia.org/wiki/Paige "wikilink")。
 
-於2014年9月21日在[冠軍之夜](../Page/冠軍之夜.md "wikilink")
-從[Paige手上奪回冠軍腰帶](https://zh.wikipedia.org/wiki/Paige "wikilink")。
+於2014年9月21日在[冠軍之夜](../Page/冠軍之夜.md "wikilink") 從[Paige手上奪回冠軍腰帶](https://zh.wikipedia.org/wiki/Paige "wikilink")。
 
-於2014年11月23日在[強者生存被](https://zh.wikipedia.org/wiki/強者生存 "wikilink")[Nikki
-Bella奪走冠軍腰帶](https://zh.wikipedia.org/wiki/Nikki_Bella "wikilink")。
+於2014年11月23日在[強者生存被](https://zh.wikipedia.org/wiki/強者生存 "wikilink")[Nikki Bella奪走冠軍腰帶](https://zh.wikipedia.org/wiki/Nikki_Bella "wikilink")。
 
-於2015年9月14日被[Nikki
-Bella打破紀錄](https://zh.wikipedia.org/wiki/Nikki_Bella "wikilink")，[Nikki
-Bella成為WWE麗人冠軍最長連任時間保持人](https://zh.wikipedia.org/wiki/Nikki_Bella "wikilink")，共301天。
+於2015年9月14日被[Nikki Bella打破紀錄](https://zh.wikipedia.org/wiki/Nikki_Bella "wikilink")，[Nikki Bella成為WWE麗人冠軍最長連任時間保持人](https://zh.wikipedia.org/wiki/Nikki_Bella "wikilink")，共301天。
 
 在AJ Lee的摔角事業中，AJ曾是三次的[WWE麗人冠軍](../Page/WWE麗人冠軍.md "wikilink")。
 
@@ -109,8 +72,7 @@ Bella成為WWE麗人冠軍最長連任時間保持人](https://zh.wikipedia.org/
 
   - WWE Divas 冠軍 (3次)
   - WWE Divas of year (2次)
-  - [WWE
-    Raw](../Page/WWE_Raw.md "wikilink")[總經理](https://zh.wikipedia.org/wiki/總經理 "wikilink")(1次)
+  - [WWE Raw](../Page/WWE_Raw.md "wikilink")[總經理](https://zh.wikipedia.org/wiki/總經理 "wikilink")(1次)
 
 <!-- end list -->
 
@@ -155,5 +117,4 @@ Bella成為WWE麗人冠軍最長連任時間保持人](https://zh.wikipedia.org/
 
 4.AJ LEE-WWE官網:<http://www.wwe.com/superstars/divas/aj>
 
-[Category:世界摔角娛樂](https://zh.wikipedia.org/wiki/Category:世界摔角娛樂 "wikilink")
-[Category:美國職業摔角手](https://zh.wikipedia.org/wiki/Category:美國職業摔角手 "wikilink")
+[Category:世界摔角娛樂](https://zh.wikipedia.org/wiki/Category:世界摔角娛樂 "wikilink") [Category:美國職業摔角手](https://zh.wikipedia.org/wiki/Category:美國職業摔角手 "wikilink")

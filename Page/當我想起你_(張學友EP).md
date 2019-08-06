@@ -18,6 +18,4 @@
   - 第七屆[全球華語音樂榜中榜](https://zh.wikipedia.org/wiki/全球華語音樂榜中榜 "wikilink")
       - 中文TOP20金曲──當我想起你
 
-[Category:張學友音樂專輯](https://zh.wikipedia.org/wiki/Category:張學友音樂專輯 "wikilink")
-[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:張學友音樂專輯](https://zh.wikipedia.org/wiki/Category:張學友音樂專輯 "wikilink") [Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

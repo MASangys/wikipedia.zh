@@ -152,12 +152,9 @@
 
 ## 参见
 
-  - [Internet
-    Protocol](https://zh.wikipedia.org/wiki/Internet_Protocol "wikilink")
-      - [IPv4](../Page/IPv4.md "wikilink") (including [packet
-        structure](https://zh.wikipedia.org/wiki/IPv4#Packet_structure "wikilink"))
-      - [IPv6](../Page/IPv6.md "wikilink") (and [packet
-        structure](https://zh.wikipedia.org/wiki/IPv6_packet "wikilink"))
+  - [Internet Protocol](https://zh.wikipedia.org/wiki/Internet_Protocol "wikilink")
+      - [IPv4](../Page/IPv4.md "wikilink") (including [packet structure](https://zh.wikipedia.org/wiki/IPv4#Packet_structure "wikilink"))
+      - [IPv6](../Page/IPv6.md "wikilink") (and [packet structure](https://zh.wikipedia.org/wiki/IPv6_packet "wikilink"))
   - [以太类型](../Page/以太类型.md "wikilink")
 
 ## 参考资料
@@ -166,10 +163,8 @@
 
 ## 外部链接
 
-  - [Official list of protocol
-    numbers](http://www.iana.org/assignments/protocol-numbers)
+  - [Official list of protocol numbers](http://www.iana.org/assignments/protocol-numbers)
 
-[Category:Internet_Protocol](https://zh.wikipedia.org/wiki/Category:Internet_Protocol "wikilink")
-[Category:Internet-related_lists](https://zh.wikipedia.org/wiki/Category:Internet-related_lists "wikilink")
+[Category:Internet_Protocol](https://zh.wikipedia.org/wiki/Category:Internet_Protocol "wikilink") [Category:Internet-related_lists](https://zh.wikipedia.org/wiki/Category:Internet-related_lists "wikilink")
 
 1.

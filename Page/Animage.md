@@ -170,8 +170,7 @@
 
 ## 參考資料
 
-[Category:Animage](https://zh.wikipedia.org/wiki/Category:Animage "wikilink")
-[Category:動畫雜誌](https://zh.wikipedia.org/wiki/Category:動畫雜誌 "wikilink")
+[Category:Animage](https://zh.wikipedia.org/wiki/Category:Animage "wikilink") [Category:動畫雜誌](https://zh.wikipedia.org/wiki/Category:動畫雜誌 "wikilink")
 
 1.
 2.

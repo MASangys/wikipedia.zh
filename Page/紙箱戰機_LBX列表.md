@@ -1,13 +1,11 @@
-**紙箱戰機
-LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱戰機.md "wikilink")》、《[紙箱戰機W](../Page/紙箱戰機W.md "wikilink")》及《[紙箱戰機WARS](../Page/紙箱戰機WARS.md "wikilink")》）中出現的LBX。
+**紙箱戰機 LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱戰機.md "wikilink")》、《[紙箱戰機W](../Page/紙箱戰機W.md "wikilink")》及《[紙箱戰機WARS](../Page/紙箱戰機WARS.md "wikilink")》）中出現的LBX。
 
 ## 概要
 
 \*;
 
   -
-    LBX全名為Little Battler eXperience，意思是「小小戰士的體驗」，是由Tiny
-    Orbit公司所開發的小型戰鬥機器人。
+    LBX全名為Little Battler eXperience，意思是「小小戰士的體驗」，是由Tiny Orbit公司所開發的小型戰鬥機器人。
     在過去，由於擁有太過強力的性能，被視為危險的玩具而被迫停止販售。
     後來因強化紙箱的面世，LBX才可得以販售，令LBX在小孩子之間形成了一股熱潮。
     LBX主要由核心骨架﹑分裝裝甲及武器所構成。
@@ -29,9 +27,7 @@ LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱�
 
       -
         分裝裝甲為LBX的外部裝甲，主要是用作保護LBX的核心骨架，分裝裝甲大致分為頭部﹑胸部﹑左手﹑右手及腳部五種裝甲。
-        而分裝裝甲亦有不同的種類，如重視能力平衡的**騎士型**（Knight Frame）﹑重量級的**搏擊型**（Brawler
-        Frame）﹑輕量級的**強襲型**（Strider Frame）﹑腳部改良過的**戰車型**（Panzer
-        Frame）及獸人般的**猛獸型**（Wild Frame）。
+        而分裝裝甲亦有不同的種類，如重視能力平衡的**騎士型**（Knight Frame）﹑重量級的**搏擊型**（Brawler Frame）﹑輕量級的**強襲型**（Strider Frame）﹑腳部改良過的**戰車型**（Panzer Frame）及獸人般的**猛獸型**（Wild Frame）。
         LBX可自由安裝不同的裝甲創造出獨一無二的LBX。
 
 :\*;
@@ -53,10 +49,7 @@ LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱�
   -
     為山野阪專用的騎士型LBX，由LBX核心骨架「AX-00」配備「[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")」裝甲而成的LBX。
     LBX「[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")」裝甲是由「J」（山野淳一郎）所設計，有最新式的瞄準回路及解決了裝甲部分過熱問題的絕妙電路，稱得上超越科技的LBX設計。
-    能發動「V模式（V Mode）」，全身會變身金黃色，力量及速度都會被提升至超越對手的水平，但起初在發動「V模式（V
-    Mode）」時，由於「V模式（V
-    Mode）」的發動程序，是自主行動型LBX「[精靈](../Page/精靈.md "wikilink")」的試驗程序，因此會失去控制的胡亂攻擊，但後來在比斯達斯地下賽中對戰仙道時，宇崎悠介將「V模式（V
-    Mode）」的控制程序輸進了LBX「[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")」的CPU中才得以操控。後來在阿提密斯決賽時被帝王的自爆所破壞。
+    能發動「V模式（V Mode）」，全身會變身金黃色，力量及速度都會被提升至超越對手的水平，但起初在發動「V模式（V Mode）」時，由於「V模式（V Mode）」的發動程序，是自主行動型LBX「[精靈](../Page/精靈.md "wikilink")」的試驗程序，因此會失去控制的胡亂攻擊，但後來在比斯達斯地下賽中對戰仙道時，宇崎悠介將「V模式（V Mode）」的控制程序輸進了LBX「[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")」的CPU中才得以操控。後來在阿提密斯決賽時被帝王的自爆所破壞。
     武器：槍「****」
     　　　盾「****」
     　　　劍「****」（比斯達斯地下賽中對戰使用一次）
@@ -70,8 +63,7 @@ LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱�
   -
     為山野阪專用的可變騎士型LBX，由LBX核心骨架「VX-13」配備「[奧丁](https://zh.wikipedia.org/wiki/奧丁 "wikilink")」裝甲而成的LBX，LBX「[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")」的繼任機。
     由山野淳一郎設計，擁有變形為飛行模式的機能，其飛行速度更是高達音速，腹部有個空間可以放置白金膠囊，在設計的理念上跟LBX「[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")」一樣。
-    能發動比LBX「[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")」的「V模式（V
-    Mode）」更強的「終極模式（Extreme Mode）」，全身會變身金黃色，力量及速度都會被提升至超越對手的水平。
+    能發動比LBX「[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")」的「V模式（V Mode）」更強的「終極模式（Extreme Mode）」，全身會變身金黃色，力量及速度都會被提升至超越對手的水平。
     其設計圖是在阿爾特美斯大賽決賽中，被山野淳一郎輸進LBX「[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")」體內的白金膠囊里面，然後在解讀白金膠囊時被發現。
     武器：雙頭槍「****」
     　　　雷射盾「****」（後期添加裝備）
@@ -92,8 +84,7 @@ LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱�
 
   -
     為青島和也專用的狙擊狼型LBX，LBX「[獵人](https://zh.wikipedia.org/wiki/獵人 "wikilink")」的繼任機。
-    原本是山野淳一郎為了保護美塔納斯GX內的白金膠囊解讀密碼而設計出來的虛擬LBX，同時也是以作為LBX「[獵人](https://zh.wikipedia.org/wiki/獵人 "wikilink")」的後繼機體為基礎設計出來的虛擬LBX，後來在山野阪和青島和也讓LBX「[奧丁](https://zh.wikipedia.org/wiki/奧丁 "wikilink")」和LBX「[獵人](https://zh.wikipedia.org/wiki/獵人 "wikilink")」數據化成虛擬LBX，並透過無限網路入侵美塔納斯GX時，其數據被奧特克羅斯儲存，並傳送給宇崎悠介，之後再讓宇崎悠介以TINY
-    ORBIT的技術藉由奧特克羅斯傳送的數據製作出來的，它的性能在各方面均優勝於LBX「[獵人](https://zh.wikipedia.org/wiki/獵人 "wikilink")」。
+    原本是山野淳一郎為了保護美塔納斯GX內的白金膠囊解讀密碼而設計出來的虛擬LBX，同時也是以作為LBX「[獵人](https://zh.wikipedia.org/wiki/獵人 "wikilink")」的後繼機體為基礎設計出來的虛擬LBX，後來在山野阪和青島和也讓LBX「[奧丁](https://zh.wikipedia.org/wiki/奧丁 "wikilink")」和LBX「[獵人](https://zh.wikipedia.org/wiki/獵人 "wikilink")」數據化成虛擬LBX，並透過無限網路入侵美塔納斯GX時，其數據被奧特克羅斯儲存，並傳送給宇崎悠介，之後再讓宇崎悠介以TINY ORBIT的技術藉由奧特克羅斯傳送的數據製作出來的，它的性能在各方面均優勝於LBX「[獵人](https://zh.wikipedia.org/wiki/獵人 "wikilink")」。
     武器：狙擊槍「****」
     　　　匕首「****」（中期添加裝備）
     攻擊技：「****」
@@ -359,12 +350,9 @@ LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱�
 
   -
     為海道金專用的騎士型LBX，是由CYBER LANCE開發的最新型LBX，號稱是超越當時所有LBX的「次世代LBX」。
-    起初海道金所持有的是測試用的原型機，於動畫第37話才使用完全版的正式機體，指令處理速度是一般LBX的七倍，是沒辦法用一般的CCM遙控器來操控的，必須使用CYBER
-    LANCE所開發的高性能CCM遙控器才能操控。
+    起初海道金所持有的是測試用的原型機，於動畫第37話才使用完全版的正式機體，指令處理速度是一般LBX的七倍，是沒辦法用一般的CCM遙控器來操控的，必須使用CYBER LANCE所開發的高性能CCM遙控器才能操控。
     能發動「變異模式（Alternative Mode）」，力量及速度都會被提升至超越對手的水平。
-    與LBX「[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")」的「V模式（V
-    Mode）」和LBX「[奧丁](https://zh.wikipedia.org/wiki/奧丁 "wikilink")」的「終極模式（Extreme
-    Mode）」不同的是，前兩者發動時機體會變成金黃色，而LBX「芝諾」的「變異模式（Alternative Mode）」則是變成藍色。
+    與LBX「[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")」的「V模式（V Mode）」和LBX「[奧丁](https://zh.wikipedia.org/wiki/奧丁 "wikilink")」的「終極模式（Extreme Mode）」不同的是，前兩者發動時機體會變成金黃色，而LBX「芝諾」的「變異模式（Alternative Mode）」則是變成藍色。
     武器：大斧槍「****」（芝諾使用）
     　　　大斧槍「****」（原型芝諾使用）
     攻擊技：「****」
@@ -500,8 +488,7 @@ LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱�
 \*;
 
   -
-    王者大師（Master
-    King）專用的黃金戰士型LBX，又稱「[太陽神](https://zh.wikipedia.org/wiki/太陽神 "wikilink")」。
+    王者大師（Master King）專用的黃金戰士型LBX，又稱「[太陽神](https://zh.wikipedia.org/wiki/太陽神 "wikilink")」。
     速度極高，極不容易被擊中，同時攻擊技「神速劍」威力極高，但使用攻擊技後一定時間內進入硬直狀態。
     武器：劍「****」
     攻擊技：「****」
@@ -523,8 +510,7 @@ LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱�
 
   -
     為大空弘專用的騎士型LBX，能與艾利西昂、密涅瓦合體成「[Σ](https://zh.wikipedia.org/wiki/Σ "wikilink")[奧比斯](../Page/奧比斯.md "wikilink")」。
-    能發動「強襲模式（Strike
-    Mode）」，全身會變身藍色，其模式會加強LBX「[柏修斯](https://zh.wikipedia.org/wiki/柏修斯 "wikilink")」的行動速度。
+    能發動「強襲模式（Strike Mode）」，全身會變身藍色，其模式會加強LBX「[柏修斯](https://zh.wikipedia.org/wiki/柏修斯 "wikilink")」的行動速度。
     武器：劍「****」
     攻擊技：「****」
     　　　　「****」（單劍時使用）
@@ -534,8 +520,7 @@ LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱�
 
   -
     為山野阪專用的騎士型LBX，能與柏修斯、密涅瓦合體成「[Σ](https://zh.wikipedia.org/wiki/Σ "wikilink")[奧比斯](../Page/奧比斯.md "wikilink")」。
-    能發動「騎士模式（Knight
-    Mode）」，全身會變身金黃色，其模式會加強LBX「艾利西昂」的防禦力，並在使用盾進行檔格時會產生防護罩。
+    能發動「騎士模式（Knight Mode）」，全身會變身金黃色，其模式會加強LBX「艾利西昂」的防禦力，並在使用盾進行檔格時會產生防護罩。
     武器：斧槍「****」
     　　　盾　「****」
     攻擊技：「****」
@@ -546,8 +531,7 @@ LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱�
 
   -
     為花咲蘭專用的強襲型LBX，能與柏修斯、艾利西昂合體成「[Σ](https://zh.wikipedia.org/wiki/Σ "wikilink")[奧比斯](../Page/奧比斯.md "wikilink")」。
-    能發動「烈焰模式（Burning
-    Mode）」，全身會變身火紅色，其模式會加強LBX「[密涅瓦](https://zh.wikipedia.org/wiki/密涅瓦 "wikilink")」的攻擊力。
+    能發動「烈焰模式（Burning Mode）」，全身會變身火紅色，其模式會加強LBX「[密涅瓦](https://zh.wikipedia.org/wiki/密涅瓦 "wikilink")」的攻擊力。
     武器：爪「****」
     攻擊技：「****」
     　　　　「****」
@@ -724,8 +708,7 @@ LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱�
 
   -
     為米澤爾專用的駭客型LBX，擁有在觸摸LBX後搶奪LBX控制權「**幽靈劫持**」的能力。
-    可以同時封鎖LBX「[伊卡洛斯](../Page/伊卡洛斯.md "wikilink")．零式」和LBX「火焰[芬里爾](https://zh.wikipedia.org/wiki/芬里爾 "wikilink")」的攻擊，LBX「[伊卡洛斯](../Page/伊卡洛斯.md "wikilink")．零式」的攻擊技「**隕石破裂斬**（メテオブレイカー，Meteor
-    Breaker）」的直撃也沒有明顯的損傷。
+    可以同時封鎖LBX「[伊卡洛斯](../Page/伊卡洛斯.md "wikilink")．零式」和LBX「火焰[芬里爾](https://zh.wikipedia.org/wiki/芬里爾 "wikilink")」的攻擊，LBX「[伊卡洛斯](../Page/伊卡洛斯.md "wikilink")．零式」的攻擊技「**隕石破裂斬**（メテオブレイカー，Meteor Breaker）」的直撃也沒有明顯的損傷。
     令人驚異的是，核心骨架框架內部沒有配備馬達﹑電池及CPU等主要零件。
     武器：劍「****」
     　　　斧「****」
@@ -736,8 +719,7 @@ LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱�
   -
     為米澤爾專用的騎士型LBX，為了對抗LBX「[阿基里斯D](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")9」和LBX「[奧丁MK](https://zh.wikipedia.org/wiki/奧丁 "wikilink")-2」而由米澤爾自行改造的LBX。
     機身各部位全結晶化，能量場覆蓋著全身，在頭部增加了遮陽板。
-    能同時、永久發動「強襲模式（Strike Mode）」、「騎士模式（Knight Mode）」和「烈焰模式（Burning
-    Mode）」。
+    能同時、永久發動「強襲模式（Strike Mode）」、「騎士模式（Knight Mode）」和「烈焰模式（Burning Mode）」。
     武器：刀「****」
     　　　盾「****」
     攻擊技：「****」（飛行模式時使用）
@@ -751,8 +733,7 @@ LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱�
 
   -
     為騎士型LBX，以LBX「[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")」為基礙開發的強化版。
-    原本是2051年中TINY
-    ORBIT公司的主要銷售產品，後來由於被「探測者」發動LBX暴走事件而奪走，成為「探測者」首領（山野淳一郎）專用的LBX，之後成為青島和也專用的LBX。
+    原本是2051年中TINY ORBIT公司的主要銷售產品，後來由於被「探測者」發動LBX暴走事件而奪走，成為「探測者」首領（山野淳一郎）專用的LBX，之後成為青島和也專用的LBX。
     配備小型飛行背包，可以在空中和宇宙單體飛行。
     能發動「惡魔模式（Demonic Mode）」，全身會變身深紅色，力量及速度都會被提升至超越對手的水平。
     武器：雷射槍「****」
@@ -766,8 +747,7 @@ LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱�
     為山野阪專用的可變騎士型LBX，由LBX核心骨架「VX-13」配備「[奧丁](https://zh.wikipedia.org/wiki/奧丁 "wikilink")」裝甲而成的LBX，LBX「[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")」的繼任機。
     LBX叛亂時被LBX「[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")．契約者」重創。
     （PSP/PSV遊戲中被宇崎拓也回收，並改造成LBX「[奧丁MK](https://zh.wikipedia.org/wiki/奧丁 "wikilink")-2」。）
-    當TINY
-    ORBIT公司被LBX「維克塔」佔領時，正在維修的LBX「[奧丁](https://zh.wikipedia.org/wiki/奧丁 "wikilink")」被LBX「維克塔」使用「**幽靈劫持**」奪走，結果在沒辦法的情況下，再被LBX「[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")．契約者」擊毀。
+    當TINY ORBIT公司被LBX「維克塔」佔領時，正在維修的LBX「[奧丁](https://zh.wikipedia.org/wiki/奧丁 "wikilink")」被LBX「維克塔」使用「**幽靈劫持**」奪走，結果在沒辦法的情況下，再被LBX「[阿基里斯](https://zh.wikipedia.org/wiki/阿基里斯 "wikilink")．契約者」擊毀。
     武器：雙頭槍「****」
     　　　雷射盾「****」（後期添加裝備）
     攻擊技：「****」
@@ -838,8 +818,7 @@ LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱�
     為灰原裕也使用中國督軍型的LBX，深受愛好歷史的女玩家歡迎。
     特點是在頭部和尾部的火焰裝飾。
     市面上的LBX「[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")」一般為藍白色，而灰原裕也的LBX「[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")」為金綠色。
-    LBX Cosplay大賽（BC
-    EXTRA'S）中，裕也更穿上LBX「[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")」的Cosplay服參賽，最終以壓倒性的攻勢大勝大空弘，奪得冠軍。
+    LBX Cosplay大賽（BC EXTRA'S）中，裕也更穿上LBX「[劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")」的Cosplay服參賽，最終以壓倒性的攻勢大勝大空弘，奪得冠軍。
     （這是由於灰原裕也的聲優為[梶裕貴](../Page/梶裕貴.md "wikilink")，曾在[SD鋼彈三國傳BraveBattleWarriors中聲演](https://zh.wikipedia.org/wiki/SD鋼彈三國傳BraveBattleWarriors "wikilink")「劉備鋼彈」，因而成為惡搞橋段。）
     武器：劍「****」
     　　　盾「****」
@@ -898,9 +877,7 @@ LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱�
 \*;
 
   -
-    原本是山野淳一郎在TINY
-    ORBIT公司工作時設計的試作型LBX，但由於當時找不到能和LBX「I．原型機」搭配的CPU，因此中止了LBX「I．原型機」的開發，最終由OMEGA
-    DAIN公司完成其開發。
+    原本是山野淳一郎在TINY ORBIT公司工作時設計的試作型LBX，但由於當時找不到能和LBX「I．原型機」搭配的CPU，因此中止了LBX「I．原型機」的開發，最終由OMEGA DAIN公司完成其開發。
     最大優點是擁有**高次元多關節結構**，可做出不同類型的複雜動作；但同時最大缺點是不斷做出複雜動作令數據處理量過高，因此CPU容易過熱而當機。
     後來山野淳一郎博士以LBX「I．原型機」為基礎，開發出了LBX「[伊卡洛斯](../Page/伊卡洛斯.md "wikilink")．強襲型」和LBX「[伊卡洛斯](../Page/伊卡洛斯.md "wikilink")．零式」。
     順帶一提，I．原型機的I應該是[伊卡洛斯](../Page/伊卡洛斯.md "wikilink")（Ikaros）的縮寫。
@@ -1012,8 +989,7 @@ LBX列表**是介紹「紙箱戰機」系列（《[紙箱戰機](../Page/紙箱�
 \*;
 
   -
-    瀨名新、遊戲版玩家專用的LBX，LBX「多特菲薩」的強化型，由海道金將機體部分系統資料交給川朔夜和古城武，然後由川朔夜與古城武根據資料畫出設計圖並完成，是OVER
-    LOAD專用LBX。
+    瀨名新、遊戲版玩家專用的LBX，LBX「多特菲薩」的強化型，由海道金將機體部分系統資料交給川朔夜和古城武，然後由川朔夜與古城武根據資料畫出設計圖並完成，是OVER LOAD專用LBX。
     可以藉由「多功能武裝背包」將武器變形成雙刃劍、雙劍及雙手槍。
     能發動強化形態「拉格納洛克型態（Ragnarok Phase）」，速度及機動性都會提升至超越對手的水平。
     背包內武器：雙刃劍「****」

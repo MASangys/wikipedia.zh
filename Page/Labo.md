@@ -29,10 +29,7 @@
 ## 相關項目
 
   - [2008年音樂](https://zh.wikipedia.org/wiki/2008年音樂 "wikilink")
-  - [TOWER
-    RECORDS](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")
-  - [Culture Convenience
-    Club](../Page/Culture_Convenience_Club.md "wikilink")
+  - [TOWER RECORDS](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")
+  - [Culture Convenience Club](../Page/Culture_Convenience_Club.md "wikilink")
 
-[Category:flumpool歌曲](https://zh.wikipedia.org/wiki/Category:flumpool歌曲 "wikilink")
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
+[Category:flumpool歌曲](https://zh.wikipedia.org/wiki/Category:flumpool歌曲 "wikilink") [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")

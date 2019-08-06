@@ -1,7 +1,4 @@
-《**海賊戰隊豪快者 The Movie 飛天幽靈船**》（日文：海賊戦隊ゴーカイジャー THE MOVIE
-ソラトブ幽霊船），是東映於日本時間2011年8月6日上映，並同時推出2D及3D版本的電影作品。為「[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")」「[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")」的電影版。和《[劇場版
-假面騎士OOO WONDERFUL
-將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")》同時上映。
+《**海賊戰隊豪快者 The Movie 飛天幽靈船**》（日文：海賊戦隊ゴーカイジャー THE MOVIE ソラトブ幽霊船），是東映於日本時間2011年8月6日上映，並同時推出2D及3D版本的電影作品。為「[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")」「[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")」的電影版。和《[劇場版 假面騎士OOO WONDERFUL 將軍與21枚核心硬幣](../Page/假面騎士OOO_WONDERFUL_將軍與21枚核心硬幣.md "wikilink")》同時上映。
 
 ## 概要
 
@@ -9,8 +6,7 @@
 
 某日，地球的天空上出現了一艘神秘的巨大幽靈船，據說船內藏了一項稀世祕寶「**神之眼**」。
 
-瑪貝拉斯和豪快者成員們為了奪得「神之眼」而冒險地闖入幽靈船內，然而，這一切卻是以奪取生物能源為目的的幽靈船長「**Lose
-Dark**」所設下的圈套。
+瑪貝拉斯和豪快者成員們為了奪得「神之眼」而冒險地闖入幽靈船內，然而，這一切卻是以奪取生物能源為目的的幽靈船長「**Lose Dark**」所設下的圈套。
 
 掉入幽靈船內不思議空間的豪快者們，卻遭到歷代戰隊系列怪人及戰鬥員的亡魂襲擊。
 
@@ -90,8 +86,7 @@ Dark**」所設下的圈套。
   -
     曾為隸屬於黑十字軍的假面怪人。言行滑稽，但講求公正的戰鬥。在豪快者變身為五連者後，感動地哭了。
 
-**[G3
-Princess](../Page/炎神戰隊轟音者.md "wikilink")**<small>（G3プリンセス，[逢澤莉娜](../Page/逢澤莉娜.md "wikilink")、[杉本有美](../Page/杉本有美.md "wikilink")、[及川奈央](../Page/及川奈央.md "wikilink")）</small>
+**[G3 Princess](../Page/炎神戰隊轟音者.md "wikilink")**<small>（G3プリンセス，[逢澤莉娜](../Page/逢澤莉娜.md "wikilink")、[杉本有美](../Page/杉本有美.md "wikilink")、[及川奈央](../Page/及川奈央.md "wikilink")）</small>
 
   -
     和棒球假面進行投打對決時，變化為赤連者的瑪貝拉斯所投出的球中冒出的三位啦啦隊女孩。成功戲弄了棒球假面。
@@ -143,48 +138,28 @@ Princess](../Page/炎神戰隊轟音者.md "wikilink")**<small>（G3プリンセ
 
 ## 製作團隊
 
-  - 原作 -
-    <small>[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")、[石之森章太郎](../Page/石之森章太郎.md "wikilink")</small>
-  - 製作 -
-    <small>[鈴木武幸](https://zh.wikipedia.org/wiki/鈴木武幸 "wikilink")、[平城隆司](https://zh.wikipedia.org/wiki/平城隆司 "wikilink")、[高橋浩](https://zh.wikipedia.org/wiki/高橋浩 "wikilink")</small>
-  - 企劃 -
-    <small>[遠藤茂行](https://zh.wikipedia.org/wiki/遠藤茂行 "wikilink")、[桑田潔](https://zh.wikipedia.org/wiki/桑田潔 "wikilink")、[日達長夫](https://zh.wikipedia.org/wiki/日達長夫 "wikilink")、[篠田芳彦](https://zh.wikipedia.org/wiki/篠田芳彦 "wikilink")、[松田英史](https://zh.wikipedia.org/wiki/松田英史 "wikilink")、[垰義孝](https://zh.wikipedia.org/wiki/垰義孝 "wikilink")</small>
-  - 製片人 -
-    <small>[宇都宮孝明](https://zh.wikipedia.org/wiki/宇都宮孝明 "wikilink")・[大森敬仁](https://zh.wikipedia.org/wiki/大森敬仁 "wikilink")（東映）、[佐佐木基](https://zh.wikipedia.org/wiki/佐佐木基 "wikilink")（朝日）、[矢田晃一](https://zh.wikipedia.org/wiki/矢田晃一 "wikilink")・[深田明宏](https://zh.wikipedia.org/wiki/深田明宏 "wikilink")（東映Agency）</small>
-  - 執行製片 -
-    <small>[杉山登](https://zh.wikipedia.org/wiki/杉山登 "wikilink")（朝日電視）、[加藤和夫](https://zh.wikipedia.org/wiki/加藤和夫 "wikilink")（東映）</small>
-  - 導演 -
-    <small>[渡邊勝也](https://zh.wikipedia.org/wiki/渡邊勝也 "wikilink")</small>
+  - 原作 - <small>[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")、[石之森章太郎](../Page/石之森章太郎.md "wikilink")</small>
+  - 製作 - <small>[鈴木武幸](https://zh.wikipedia.org/wiki/鈴木武幸 "wikilink")、[平城隆司](https://zh.wikipedia.org/wiki/平城隆司 "wikilink")、[高橋浩](https://zh.wikipedia.org/wiki/高橋浩 "wikilink")</small>
+  - 企劃 - <small>[遠藤茂行](https://zh.wikipedia.org/wiki/遠藤茂行 "wikilink")、[桑田潔](https://zh.wikipedia.org/wiki/桑田潔 "wikilink")、[日達長夫](https://zh.wikipedia.org/wiki/日達長夫 "wikilink")、[篠田芳彦](https://zh.wikipedia.org/wiki/篠田芳彦 "wikilink")、[松田英史](https://zh.wikipedia.org/wiki/松田英史 "wikilink")、[垰義孝](https://zh.wikipedia.org/wiki/垰義孝 "wikilink")</small>
+  - 製片人 - <small>[宇都宮孝明](https://zh.wikipedia.org/wiki/宇都宮孝明 "wikilink")・[大森敬仁](https://zh.wikipedia.org/wiki/大森敬仁 "wikilink")（東映）、[佐佐木基](https://zh.wikipedia.org/wiki/佐佐木基 "wikilink")（朝日）、[矢田晃一](https://zh.wikipedia.org/wiki/矢田晃一 "wikilink")・[深田明宏](https://zh.wikipedia.org/wiki/深田明宏 "wikilink")（東映Agency）</small>
+  - 執行製片 - <small>[杉山登](https://zh.wikipedia.org/wiki/杉山登 "wikilink")（朝日電視）、[加藤和夫](https://zh.wikipedia.org/wiki/加藤和夫 "wikilink")（東映）</small>
+  - 導演 - <small>[渡邊勝也](https://zh.wikipedia.org/wiki/渡邊勝也 "wikilink")</small>
   - 腳本 - <small>[荒川稔久](../Page/荒川稔久.md "wikilink")</small>
   - 音樂 - <small>[山下康介](../Page/山下康介.md "wikilink")</small>
-  - 動作導演 -
-    <small>[竹田道弘](https://zh.wikipedia.org/wiki/竹田道弘 "wikilink")</small>
-  - 特攝導演 -
-    <small>[佛田洋](https://zh.wikipedia.org/wiki/佛田洋 "wikilink")</small>
-  - 攝影 -
-    <small>[大澤信吾](https://zh.wikipedia.org/wiki/大澤信吾 "wikilink")</small>
-  - 燈光 -
-    <small>[柴田守](https://zh.wikipedia.org/wiki/柴田守 "wikilink")</small>
-  - 美術 -
-    <small>[大谷和正](https://zh.wikipedia.org/wiki/大谷和正 "wikilink")</small>
-  - 錄音 -
-    <small>[傳田直樹](https://zh.wikipedia.org/wiki/傳田直樹 "wikilink")</small>
-  - 剪接 -
-    <small>[佐藤連](https://zh.wikipedia.org/wiki/佐藤連 "wikilink")</small>
-  - 編劇 -
-    <small>[涉谷康子](https://zh.wikipedia.org/wiki/涉谷康子 "wikilink")</small>
-  - 混音 -
-    <small>[小林喬](https://zh.wikipedia.org/wiki/小林喬 "wikilink")</small>
-  - 助理導演 -
-    <small>[荒川史繪](https://zh.wikipedia.org/wiki/荒川史繪 "wikilink")</small>
-  - 製作擔當 -
-    <small>[小林智裕](https://zh.wikipedia.org/wiki/小林智裕 "wikilink")</small>
-  - 視覺效果 -
-    <small>[沖滿](https://zh.wikipedia.org/wiki/沖滿 "wikilink")</small>
-  - 角色設計 -
-    <small>[韮澤靖](../Page/韮澤靖.md "wikilink")、[篠原保](https://zh.wikipedia.org/wiki/篠原保 "wikilink")、K-SuKe</small>
-  - 代製片 -
-    <small>[望月卓](https://zh.wikipedia.org/wiki/望月卓 "wikilink")</small>
+  - 動作導演 - <small>[竹田道弘](https://zh.wikipedia.org/wiki/竹田道弘 "wikilink")</small>
+  - 特攝導演 - <small>[佛田洋](https://zh.wikipedia.org/wiki/佛田洋 "wikilink")</small>
+  - 攝影 - <small>[大澤信吾](https://zh.wikipedia.org/wiki/大澤信吾 "wikilink")</small>
+  - 燈光 - <small>[柴田守](https://zh.wikipedia.org/wiki/柴田守 "wikilink")</small>
+  - 美術 - <small>[大谷和正](https://zh.wikipedia.org/wiki/大谷和正 "wikilink")</small>
+  - 錄音 - <small>[傳田直樹](https://zh.wikipedia.org/wiki/傳田直樹 "wikilink")</small>
+  - 剪接 - <small>[佐藤連](https://zh.wikipedia.org/wiki/佐藤連 "wikilink")</small>
+  - 編劇 - <small>[涉谷康子](https://zh.wikipedia.org/wiki/涉谷康子 "wikilink")</small>
+  - 混音 - <small>[小林喬](https://zh.wikipedia.org/wiki/小林喬 "wikilink")</small>
+  - 助理導演 - <small>[荒川史繪](https://zh.wikipedia.org/wiki/荒川史繪 "wikilink")</small>
+  - 製作擔當 - <small>[小林智裕](https://zh.wikipedia.org/wiki/小林智裕 "wikilink")</small>
+  - 視覺效果 - <small>[沖滿](https://zh.wikipedia.org/wiki/沖滿 "wikilink")</small>
+  - 角色設計 - <small>[韮澤靖](../Page/韮澤靖.md "wikilink")、[篠原保](https://zh.wikipedia.org/wiki/篠原保 "wikilink")、K-SuKe</small>
+  - 代製片 - <small>[望月卓](https://zh.wikipedia.org/wiki/望月卓 "wikilink")</small>
   - 製作商 - <small>東映電視</small>
   - 製作 - <small>劇場版「OOO・豪快者」製作委員會</small>
   - 朝日電視・東映・東映VIDEO・東映動畫・ADK・東映Agency・[萬代](../Page/萬代.md "wikilink")
@@ -199,10 +174,7 @@ Princess](../Page/炎神戰隊轟音者.md "wikilink")**<small>（G3プリンセ
 <!-- end list -->
 
   -
-    <small>作詞：[岩里祐穗](https://zh.wikipedia.org/wiki/岩里祐穗 "wikilink") /
-    作曲：[持田裕輔](https://zh.wikipedia.org/wiki/持田裕輔 "wikilink") / 編曲：
-    Project.R （[籠島裕昌](https://zh.wikipedia.org/wiki/籠島裕昌 "wikilink")） /
-    歌：松原剛志（Project.R） / コーラス：ヤング・フレッシュ、Project.R</small>
+    <small>作詞：[岩里祐穗](https://zh.wikipedia.org/wiki/岩里祐穗 "wikilink") / 作曲：[持田裕輔](https://zh.wikipedia.org/wiki/持田裕輔 "wikilink") / 編曲： Project.R （[籠島裕昌](https://zh.wikipedia.org/wiki/籠島裕昌 "wikilink")） / 歌：松原剛志（Project.R） / コーラス：ヤング・フレッシュ、Project.R</small>
 
 <!-- end list -->
 
@@ -218,5 +190,4 @@ Princess](../Page/炎神戰隊轟音者.md "wikilink")**<small>（G3プリンセ
 
   - [東映劇場版製作委員會](https://web.archive.org/web/20110713121351/http://www.ooo-gokai.jp/)
 
-[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
-[Category:2011年電影](https://zh.wikipedia.org/wiki/Category:2011年電影 "wikilink")
+[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink") [Category:2011年電影](https://zh.wikipedia.org/wiki/Category:2011年電影 "wikilink")

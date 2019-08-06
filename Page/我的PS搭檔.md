@@ -6,10 +6,8 @@
 
 ## 演員陣容
 
-  - [池晟](../Page/池晟.md "wikilink") 飾
-    賢勝（臺灣配音：[于正昌](../Page/于正昌.md "wikilink")）
-  - [金亞中](../Page/金亞中.md "wikilink") 飾
-    允貞（臺灣配音：[馬君珮](../Page/馬君珮.md "wikilink")）
+  - [池晟](../Page/池晟.md "wikilink") 飾 賢勝（臺灣配音：[于正昌](../Page/于正昌.md "wikilink")）
+  - [金亞中](../Page/金亞中.md "wikilink") 飾 允貞（臺灣配音：[馬君珮](../Page/馬君珮.md "wikilink")）
   - [申素律](../Page/申素律.md "wikilink") 飾 昭妍
 
 <!-- end list -->
@@ -19,8 +17,7 @@
 
 <!-- end list -->
 
-  - [姜慶俊](https://zh.wikipedia.org/wiki/姜慶俊 "wikilink") 飾
-    勝俊（臺灣配音：[黃天佑](../Page/黃天佑.md "wikilink")）
+  - [姜慶俊](https://zh.wikipedia.org/wiki/姜慶俊 "wikilink") 飾 勝俊（臺灣配音：[黃天佑](../Page/黃天佑.md "wikilink")）
 
 <!-- end list -->
 
@@ -95,12 +92,7 @@
   - [NAVER電影](http://movie.naver.com/movie/bi/mi/basic.nhn?code=90885)
 
   -
-[Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink")
-[Category:韩国浪漫喜剧片](https://zh.wikipedia.org/wiki/Category:韩国浪漫喜剧片 "wikilink")
-[Category:2010年代浪漫喜剧片](https://zh.wikipedia.org/wiki/Category:2010年代浪漫喜剧片 "wikilink")
-[Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
-[Category:情色電影](https://zh.wikipedia.org/wiki/Category:情色電影 "wikilink")
-[Category:電話題材作品](https://zh.wikipedia.org/wiki/Category:電話題材作品 "wikilink")
+[Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink") [Category:韩国浪漫喜剧片](https://zh.wikipedia.org/wiki/Category:韩国浪漫喜剧片 "wikilink") [Category:2010年代浪漫喜剧片](https://zh.wikipedia.org/wiki/Category:2010年代浪漫喜剧片 "wikilink") [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink") [Category:韩国情色片](https://zh.wikipedia.org/wiki/Category:韩国情色片 "wikilink") [Category:電話題材作品](https://zh.wikipedia.org/wiki/Category:電話題材作品 "wikilink")
 
 1.
 2.

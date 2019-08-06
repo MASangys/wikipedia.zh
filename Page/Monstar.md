@@ -317,18 +317,9 @@ Color Bar一開始為她嘲笑雪燦一行人像是調色盤一樣五顏六色�
 
   - [韓國Mnet官方網站](http://monstar.interest.me/)
 
-[Category:2013年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2013年韓國電視劇集 "wikilink")
-[Category:音樂電視劇](https://zh.wikipedia.org/wiki/Category:音樂電視劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink")
-[Category:Mnet電視劇](https://zh.wikipedia.org/wiki/Category:Mnet電視劇 "wikilink")
+[Category:2013年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2013年韓國電視劇集 "wikilink") [Category:音樂電視劇](https://zh.wikipedia.org/wiki/Category:音樂電視劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:香港電視娛樂外購劇集](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購劇集 "wikilink") [Category:Mnet電視劇](https://zh.wikipedia.org/wiki/Category:Mnet電視劇 "wikilink")
 
-1.  [BEAST龍俊亨將出演《Monster》
-    因與劇中人物形象相似](http://www.koreastardaily.com/tc/news/25585)
-    韓星網
-2.  [龍俊亨誇《Monstar》好看
-    導演闡明與《夢想起飛》的區別](http://tw.enewsworld.interest.me/enews/contents.asp?idx=36113&idxType=News&trendKeyword=)
-    enewsWorld
-3.  [AGB 닐슨 미디어리서치 케이블
-    시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
+1.  [BEAST龍俊亨將出演《Monster》 因與劇中人物形象相似](http://www.koreastardaily.com/tc/news/25585) 韓星網
+2.  [龍俊亨誇《Monstar》好看 導演闡明與《夢想起飛》的區別](http://tw.enewsworld.interest.me/enews/contents.asp?idx=36113&idxType=News&trendKeyword=) enewsWorld
+3.  [AGB 닐슨 미디어리서치 케이블 시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%9D%BC%EC%9D%BC%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
 4.  總收視為[tvN](../Page/TVN.md "wikilink")、KM、OnStyle、[Mnet四台有線電視播出本劇的收視加總](https://zh.wikipedia.org/wiki/Mnet "wikilink")。

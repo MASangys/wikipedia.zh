@@ -1,39 +1,24 @@
-《**Once**》是[芬兰](../Page/芬兰.md "wikilink")[力量金属](../Page/力量金属.md "wikilink")乐队[夜愿](../Page/夜愿.md "wikilink")的第五章录音室专辑，其由[Nuclear
-Blast发行于](https://zh.wikipedia.org/wiki/Nuclear_Blast "wikilink")2004年6月7日、[Spinefarm发行于](https://zh.wikipedia.org/wiki/Spinefarm "wikilink")11月24日，而在美国则由[Roadrunner
-Records发行于](https://zh.wikipedia.org/wiki/Roadrunner_Records "wikilink")10月5日。在一次采访中，乐队主要歌词作者[托马斯·霍洛帕尼表示](https://zh.wikipedia.org/wiki/托马斯·霍洛帕尼 "wikilink")，标题Once的含义该由听着发现。每个名字自由其意——不过，他感到这言对于该专辑并不受用\[1\]。这是最后一张由[塔雅·图伦尼](../Page/塔雅·图伦尼.md "wikilink")主唱的夜愿录音室专辑\[2\]。
+《**Once**》是[芬兰](../Page/芬兰.md "wikilink")[力量金属](../Page/力量金属.md "wikilink")乐队[夜愿](../Page/夜愿.md "wikilink")的第五章录音室专辑，其由[Nuclear Blast发行于](https://zh.wikipedia.org/wiki/Nuclear_Blast "wikilink")2004年6月7日、[Spinefarm发行于](https://zh.wikipedia.org/wiki/Spinefarm "wikilink")11月24日，而在美国则由[Roadrunner Records发行于](https://zh.wikipedia.org/wiki/Roadrunner_Records "wikilink")10月5日。在一次采访中，乐队主要歌词作者[托马斯·霍洛帕尼表示](https://zh.wikipedia.org/wiki/托马斯·霍洛帕尼 "wikilink")，标题Once的含义该由听着发现。每个名字自由其意——不过，他感到这言对于该专辑并不受用\[1\]。这是最后一张由[塔雅·图伦尼](../Page/塔雅·图伦尼.md "wikilink")主唱的夜愿录音室专辑\[2\]。
 
 ## 背景
 
-在2008年Kerrang\!的采访中，托马斯·霍洛帕尼回忆道：“为四张专辑做这种真正的管弦乐和交响乐，你就必须为接下来行动采取准备，而且要准备10步开外，我们就是这样告别伦敦交响乐团的。在当时，我们的确有财力这么做。这就像我们的第二次突破性进展；[Oceanborn](../Page/Oceanborn.md "wikilink")（1998年）让我们走红，并把我们带入了一流的阵营。在我们看来，音乐方面可说是相当悠闲，因为乐队的每个人都真正了解自己的风格。所以我们基本上花了两天时间，躺在沙发上，享受这些人演奏我们的歌，享受每一刻。这是我生命中最奇妙的经历之一。他们演奏最早演奏的歌曲是《Ghost
-Love Score》，我们不知道这会发生什么，但我只是想：这不可能发生！”\[3\]
+在2008年Kerrang\!的采访中，托马斯·霍洛帕尼回忆道：“为四张专辑做这种真正的管弦乐和交响乐，你就必须为接下来行动采取准备，而且要准备10步开外，我们就是这样告别伦敦交响乐团的。在当时，我们的确有财力这么做。这就像我们的第二次突破性进展；[Oceanborn](../Page/Oceanborn.md "wikilink")（1998年）让我们走红，并把我们带入了一流的阵营。在我们看来，音乐方面可说是相当悠闲，因为乐队的每个人都真正了解自己的风格。所以我们基本上花了两天时间，躺在沙发上，享受这些人演奏我们的歌，享受每一刻。这是我生命中最奇妙的经历之一。他们演奏最早演奏的歌曲是《Ghost Love Score》，我们不知道这会发生什么，但我只是想：这不可能发生！”\[3\]
 
 ## 概述
 
-专辑延续了上张专辑《[Century
-Child](../Page/Century_Child.md "wikilink")》中更简化的音乐方法，并更加淡化了早期专辑中以力量金属为主风格的影响，专辑显得更平易近人。和上张专辑《Century
-Child》中11首歌有9首采用了全管弦乐不同，在本张专辑中管弦乐由非芬兰的伦敦爱乐乐团负责。而在夜愿的第六章专辑《Dark Passion
-Play》中，亦采用了这种方法\[4\] 。
+专辑延续了上张专辑《[Century Child](../Page/Century_Child.md "wikilink")》中更简化的音乐方法，并更加淡化了早期专辑中以力量金属为主风格的影响，专辑显得更平易近人。和上张专辑《Century Child》中11首歌有9首采用了全管弦乐不同，在本张专辑中管弦乐由非芬兰的伦敦爱乐乐团负责。而在夜愿的第六章专辑《Dark Passion Play》中，亦采用了这种方法\[4\] 。
 
-《Once》收录了一首芬兰语《Kuolema Tekee
-Taiteilijan》，这是他们第二张收录长度完整芬兰语歌曲的专辑\[5\]。乐队还为这首专辑增添了新的元素，如加入即兴合唱和鼓点合成的《Wish
-I Had an Angel》，以及融入美洲土著气道吟咏的《Creek Mary's Blood》\[6\]。歌曲《Ghost Love
-Score》正如其名所暗示的，充分显示了管弦乐队和夜愿的合作\[7\]。
+《Once》收录了一首芬兰语《Kuolema Tekee Taiteilijan》，这是他们第二张收录长度完整芬兰语歌曲的专辑\[5\]。乐队还为这首专辑增添了新的元素，如加入即兴合唱和鼓点合成的《Wish I Had an Angel》，以及融入美洲土著气道吟咏的《Creek Mary's Blood》\[6\]。歌曲《Ghost Love Score》正如其名所暗示的，充分显示了管弦乐队和夜愿的合作\[7\]。
 
-专辑封面画的是[William Wetmore
-Story的雕塑作品](https://zh.wikipedia.org/wiki/William_Wetmore_Story "wikilink")[悲伤的天使](https://zh.wikipedia.org/wiki/悲伤的天使 "wikilink")。雕像原件在意大利罗马的基督教坟场上，雕像是一个在Story妻子坟墓上哭泣的天使。在Story去世后，他被埋葬在靠近妻子的相同雕像中\[8\]
-。专辑的制作成本约为25万欧元\[9\]，创下了当时芬兰专辑成本最高的记录，但这后来被夜愿专辑《Dark Passion
-Play》的50万欧元的打破\[10\]。
+专辑封面画的是[William Wetmore Story的雕塑作品](https://zh.wikipedia.org/wiki/William_Wetmore_Story "wikilink")[悲伤的天使](https://zh.wikipedia.org/wiki/悲伤的天使 "wikilink")。雕像原件在意大利罗马的基督教坟场上，雕像是一个在Story妻子坟墓上哭泣的天使。在Story去世后，他被埋葬在靠近妻子的相同雕像中\[8\] 。专辑的制作成本约为25万欧元\[9\]，创下了当时芬兰专辑成本最高的记录，但这后来被夜愿专辑《Dark Passion Play》的50万欧元的打破\[10\]。
 
 ## 评价
 
-《Once》发售的首周就排到了德国\[11\]、芬兰\[12\]、挪威\[13\]和希腊排行榜的首位\[14\]，其在德国就售出了80,000份\[15\]。这是夜愿专辑第一次登上美国榜单，其在[Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink")
-[Top
-Heatseekers排行榜上排到了第](https://zh.wikipedia.org/wiki/Top_Heatseekers "wikilink")42位\[16\]。这也是乐队第一张排上英国榜单的专辑，其排到了英国摇滚榜的第8位\[17\]。
+《Once》发售的首周就排到了德国\[11\]、芬兰\[12\]、挪威\[13\]和希腊排行榜的首位\[14\]，其在德国就售出了80,000份\[15\]。这是夜愿专辑第一次登上美国榜单，其在[Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink") [Top Heatseekers排行榜上排到了第](https://zh.wikipedia.org/wiki/Top_Heatseekers "wikilink")42位\[16\]。这也是乐队第一张排上英国榜单的专辑，其排到了英国摇滚榜的第8位\[17\]。
 
 在销量上，《Once》获得了芬兰的三白金唱片认证，德国的白金唱片认证\[18\]及瑞典的金唱片认证，随后专辑排到了匈牙利\[19\]及欧洲专辑榜的第一位\[20\]。单曲《Nemo》排在了芬兰\[21\]和匈牙利\[22\]的榜单的首位，并排进了三个国家榜单的前十位\[23\]\[24\]\[25\]。《Nemo》成为了夜愿史上最成功的单曲，而《Once》也在全部芬兰专辑中排第47名\[26\]。专辑的总销量超过100万份\[27\]。
 
-专辑的成功使乐队得以举办巡演Once Upon a
-Tour，并使他们在许多从没去过的国家演出。同时夜愿在2005年[赫尔辛基](../Page/赫尔辛基.md "wikilink")举办的世界锦标赛开幕式上进行了演出\[28\]。
+专辑的成功使乐队得以举办巡演Once Upon a Tour，并使他们在许多从没去过的国家演出。同时夜愿在2005年[赫尔辛基](../Page/赫尔辛基.md "wikilink")举办的世界锦标赛开幕式上进行了演出\[28\]。
 
 ## 曲目列表
 
@@ -131,17 +116,13 @@ Tour，并使他们在许多从没去过的国家演出。同时夜愿在2005年
 ## 外部链接
 
   -
-[Category:夜愿音乐专辑](https://zh.wikipedia.org/wiki/Category:夜愿音乐专辑 "wikilink")
-[Category:2004年专辑](https://zh.wikipedia.org/wiki/Category:2004年专辑 "wikilink")
+[Category:夜愿音乐专辑](https://zh.wikipedia.org/wiki/Category:夜愿音乐专辑 "wikilink") [Category:2004年专辑](https://zh.wikipedia.org/wiki/Category:2004年专辑 "wikilink")
 
 1.
 
 2.
 
-3.  Ruskell, Nick.
-    *[Kerrang\!](https://zh.wikipedia.org/wiki/Kerrang! "wikilink")*
-    August 16, 2008, \#1223. Treausre Chest. An Ultimate Portrait of a
-    Life in Rock. Tuomas Holopainen. p 54
+3.  Ruskell, Nick. *[Kerrang\!](https://zh.wikipedia.org/wiki/Kerrang! "wikilink")* August 16, 2008, \#1223. Treausre Chest. An Ultimate Portrait of a Life in Rock. Tuomas Holopainen. p 54
 
 4.
 
@@ -179,8 +160,7 @@ Tour，并使他们在许多从没去过的国家演出。同时夜愿在2005年
 24.
 
 25.
-26. [Statistics by IFPI](http://www.ifpi.fi/tilastot/myydyimmat/kaikki)
-    Retrieved on 2009-03-17
+26. [Statistics by IFPI](http://www.ifpi.fi/tilastot/myydyimmat/kaikki) Retrieved on 2009-03-17
 
 27.
 28.

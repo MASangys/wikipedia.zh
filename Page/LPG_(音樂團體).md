@@ -1,5 +1,4 @@
-**LPG**（，全寫初時為**Long Pretty Girl**，後改為**Lovely Pretty
-Girl**）為Aquagro娛樂打造的女子團體。第一期在2005年出道時為4人團體，第二期改為6人女子團體，第三期變成9人女子團體，第四期改為4人女子團體。
+**LPG**（，全寫初時為**Long Pretty Girl**，後改為**Lovely Pretty Girl**）為Aquagro娛樂打造的女子團體。第一期在2005年出道時為4人團體，第二期改為6人女子團體，第三期變成9人女子團體，第四期改為4人女子團體。
 
 ## 成員資料
 
@@ -321,20 +320,14 @@ Girl**）為Aquagro娛樂打造的女子團體。第一期在2005年出道時為
 
 <references/>
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink")
-[Category:2005年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2005年成立的音樂團體 "wikilink")
-[Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink") [Category:2005年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2005年成立的音樂團體 "wikilink") [Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
 
 1.  第1代解散後，以**이오타**之名作Solo歌手活動
 2.  加入第2代前，曾以**本名**作F.O.X、S成員活動，亦曾以藝名**輝潾**作Maronie Girls成員活動
 3.  第2代出道前，曾為**GirlFrnd**成員
 4.  現為[Red Sun成員](https://zh.wikipedia.org/wiki/Red_Sun "wikilink")
 5.  第2代出道前，曾以**루시**之名作Solo歌手活動
-6.  第3代出道前，曾以**시호**之名作為[April
-    Kiss成員活動](https://zh.wikipedia.org/wiki/April_Kiss "wikilink")，現以**리제**、**사리사**活動中
+6.  第3代出道前，曾以**시호**之名作為[April Kiss成員活動](https://zh.wikipedia.org/wiki/April_Kiss "wikilink")，現以**리제**、**사리사**活動中
 7.  加入第2代前，曾為A-Force成員
 8.  現以**비비**之名作為模特兒活動中
 9.  現以**달보드레**之名活動中

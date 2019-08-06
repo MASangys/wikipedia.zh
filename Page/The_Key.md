@@ -1,25 +1,16 @@
-《**The
-Key**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")的[粵語音樂迷你專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於2013年7月22日發行。
+《**The Key**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")的[粵語音樂迷你專輯](https://zh.wikipedia.org/wiki/粵語 "wikilink")，於2013年7月22日發行。
 
 ## 專輯簡介
 
 ### 製作概念
 
-由於陳奕迅忙於籌備《Eason's LIFE》香港紅館演唱會，是次專輯起用了梁榮駿([Alvin
-Leong](https://zh.wikipedia.org/wiki/Alvin_Leong "wikilink"))、[C.Y.
-Kong](https://zh.wikipedia.org/wiki/C.Y._Kong "wikilink")、[Eric
-Kwok](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")、填詞人[林夕](../Page/林夕.md "wikilink")、[小克](https://zh.wikipedia.org/wiki/小克 "wikilink")、[林若寧](../Page/林若寧.md "wikilink")等合作無間的主要製作班底，陳奕迅與以往積極參與幕後製作的情況相反，只負責主唱部份。
+由於陳奕迅忙於籌備《Eason's LIFE》香港紅館演唱會，是次專輯起用了梁榮駿([Alvin Leong](https://zh.wikipedia.org/wiki/Alvin_Leong "wikilink"))、[C.Y. Kong](https://zh.wikipedia.org/wiki/C.Y._Kong "wikilink")、[Eric Kwok](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")、填詞人[林夕](../Page/林夕.md "wikilink")、[小克](https://zh.wikipedia.org/wiki/小克 "wikilink")、[林若寧](../Page/林若寧.md "wikilink")等合作無間的主要製作班底，陳奕迅與以往積極參與幕後製作的情況相反，只負責主唱部份。
 
-專輯名稱《The Key》原自陳奕迅看過香港本地藝術家Prodip Leung的一幅畫像，當時畫像還未加上在唱片封面上看到的星星圖案"The
-Key"。當陳奕迅了解此畫的"Main Theme (主旨)"
-後，覺得與這張專輯内自己想表達的意思一致，因為每一首歌曲也是如生命的鑰匙，所以用上了《The
-Key》作為此專輯的名稱，及以此畫作為專輯封面。[1](http://www.kkbox.com/hk/tc/album/2fjo-OvQuAS53o0F5qbW0091-index.html#album-description)
+專輯名稱《The Key》原自陳奕迅看過香港本地藝術家Prodip Leung的一幅畫像，當時畫像還未加上在唱片封面上看到的星星圖案"The Key"。當陳奕迅了解此畫的"Main Theme (主旨)" 後，覺得與這張專輯内自己想表達的意思一致，因為每一首歌曲也是如生命的鑰匙，所以用上了《The Key》作為此專輯的名稱，及以此畫作為專輯封面。[1](http://www.kkbox.com/hk/tc/album/2fjo-OvQuAS53o0F5qbW0091-index.html#album-description)
 
 ### 美術設計
 
-專輯由封面到內頁均由香港本地藝術家Prodip Leung 包辦設計。繼2007年《[Listen to Eason
-Chan](https://zh.wikipedia.org/wiki/Listen_to_Eason_Chan "wikilink")》2008年《[不想放手](../Page/不想放手.md "wikilink")》專輯後，《The
-Key》專輯再次沒有收錄個人照片。
+專輯由封面到內頁均由香港本地藝術家Prodip Leung 包辦設計。繼2007年《[Listen to Eason Chan](https://zh.wikipedia.org/wiki/Listen_to_Eason_Chan "wikilink")》2008年《[不想放手](../Page/不想放手.md "wikilink")》專輯後，《The Key》專輯再次沒有收錄個人照片。
 
 ### 主要製作班底
 
@@ -68,14 +59,11 @@ Key》專輯再次沒有收錄個人照片。
 
 ### 台灣銷售情況
 
-由於《The Key》為粵語音樂專輯，再加上舉行《Eason's
-LIFE》演唱會，專輯推出時陳奕迅並沒有在台灣作任何宣傳活動。陳奕迅在2014年7月接受DJ馬世芳電台節目《音樂五四三》訪問，透露曾查閱過2013年半年間（7月到12月）的專輯銷售數字，《The
-Key》的實體專輯在台灣只賣出了九百多張\[2\]\[3\]\[4\]，與他預期的兩三千張有一段距離，但他表示在台灣音樂下載的數字比實體專輯銷售得更多。
+由於《The Key》為粵語音樂專輯，再加上舉行《Eason's LIFE》演唱會，專輯推出時陳奕迅並沒有在台灣作任何宣傳活動。陳奕迅在2014年7月接受DJ馬世芳電台節目《音樂五四三》訪問，透露曾查閱過2013年半年間（7月到12月）的專輯銷售數字，《The Key》的實體專輯在台灣只賣出了九百多張\[2\]\[3\]\[4\]，與他預期的兩三千張有一段距離，但他表示在台灣音樂下載的數字比實體專輯銷售得更多。
 
 ### 中國大陸銷售情況
 
-陳奕迅在DJ馬世芳電台節目《音樂五四三》節目中，承認《The
-Key》未能在中國大陸發行，他表示專輯八首歌曲有其中六首未能通過中國大陸的審批\[5\]。
+陳奕迅在DJ馬世芳電台節目《音樂五四三》節目中，承認《The Key》未能在中國大陸發行，他表示專輯八首歌曲有其中六首未能通過中國大陸的審批\[5\]。
 
 ## 派台歌曲成績
 
@@ -156,8 +144,7 @@ Key》未能在中國大陸發行，他表示專輯八首歌曲有其中六首�
 
 ### 歌曲《主旋律》
 
-  - 香港：[2013
-    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2013_CASH金帆音樂獎 "wikilink")－最佳編曲（提名）\[22\]
+  - 香港：[2013 CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2013_CASH金帆音樂獎 "wikilink")－最佳編曲（提名）\[22\]
   - 香港：2013 CASH金帆音樂獎－最佳男歌手演繹（提名）
   - 香港：香港樂評選’2013－年度旋律（C. Y. Kong、Lesley 姜麗文）\[23\]
   - 香港：香港樂評選’2013－年度編曲（C. Y. Kong）（入圍五強）
@@ -193,8 +180,7 @@ Key》未能在中國大陸發行，他表示專輯八首歌曲有其中六首�
 
 ### 歌曲《同舟之情》
 
-  - 香港：[2013
-    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2013_CASH金帆音樂獎 "wikilink")－CASH最佳歌曲大獎（提名）
+  - 香港：[2013 CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2013_CASH金帆音樂獎 "wikilink")－CASH最佳歌曲大獎（提名）
   - 香港：第一屆粵語歌曲排行榜頒獎禮 - 最佳公益歌曲\[29\]
   - 中國：華語金曲獎2014－年度最佳粵語歌曲（入圍五強）
   - 中國：華語金曲獎2014－年度最佳作詞人（陳詠謙／黃霑）（入圍五強）
@@ -205,61 +191,36 @@ Key》未能在中國大陸發行，他表示專輯八首歌曲有其中六首�
 ## 外部連結
 
   - [環球唱片：陳奕迅《The Key》官方大碟資料](http://www.umg.com.hk/album/2502/detail)
-  - [Facebook：EASON CHAN -THE KEY
-    官方專頁](https://www.facebook.com/easonchanthekey)
+  - [Facebook：EASON CHAN -THE KEY 官方專頁](https://www.facebook.com/easonchanthekey)
 
-[Category:陳奕迅音樂專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅音樂專輯 "wikilink")
-[Category:陳奕迅粵語專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅粵語專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
+[Category:陳奕迅音樂專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅音樂專輯 "wikilink") [Category:陳奕迅粵語專輯](https://zh.wikipedia.org/wiki/Category:陳奕迅粵語專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
 
 1.  [環球唱片：陳奕迅《主旋律》MV 花絮](http://www.umg.com.hk/news/2498/detail)
 2.  [馬世芳《音樂五四三》電台訪問錄音](http://www.youtube.com/watch?v=aCs58h-mHvw)
-3.  [主場新聞：陳奕迅2016約滿環球 望休息最少半年
-    「出去闖闖」](http://thehousenews.com/personal/%E9%99%B3%E5%A5%95%E8%BF%852016%E7%B4%84%E6%BB%BF%E7%92%B0%E7%90%83-%E6%9C%9B%E4%BC%91%E6%81%AF%E6%9C%80%E5%B0%91%E5%8D%8A%E5%B9%B4-%E5%87%BA%E5%8E%BB%E9%97%96%E9%97%96)
-
-4.  [蘋果日報：陳奕迅電台專訪重回現場
-    退出歌壇全是誤傳](http://www.nextmag.com.tw/breaking-news/entertainment/20140725/5836780)
-5.  [蘋果日報：陳奕迅電台專訪重回現場
-    退出歌壇全是誤傳](http://www.nextmag.com.tw/breaking-news/entertainment/20140725/5836780)
-6.  [音樂排行榜：全球華語歌曲排行榜 2013年
-    第23週（2013-6-10）](http://www.inkui.com/a5/10/2013/23.html)
-7.  [音樂排行榜：全球華語歌曲排行榜 2013年
-    第32週（2013-8-12）](http://www.inkui.com/a5/10/2013/32.html)
-8.  [音樂排行榜：全球華語歌曲排行榜 2013年
-    第39週（2013-9-30）](http://www.inkui.com/a5/10/2013/39.html)
-9.  [音樂排行榜：澳門電台華語歌曲排行榜 2013年
-    第23週（2013-6-7）](http://www.inkui.com/a5/14/2013/23.html)
-10. [音樂排行榜：澳門電台華語歌曲排行榜 2013年
-    第30週（2013-7-26）](http://www.inkui.com/a5/14/2013/30.html)
-11. [音樂排行榜：澳門電台華語歌曲排行榜 2013年
-    第37週（2013-9-13）](http://www.inkui.com/a5/14/2013/37.html)
-12. [音樂排行榜：澳門電台華語歌曲排行榜 2013年
-    第48週（2013-11-29）](http://www.inkui.com/a5/14/2013/48.html)
-13. [音樂排行榜：馬來西亞988最好聽音樂榜 2013年
-    第22週（2013-6-1）](http://www.inkui.com/a5/15/2013/22.html)
-14. [音樂排行榜：馬來西亞988最好聽音樂榜 2013年
-    第33週（2013-8-17）](http://www.inkui.com/a5/15/2013/30.html)
-15. [音樂排行榜：馬來西亞988最好聽音樂榜 2013年
-    第42週（2013-10-19）](http://www.inkui.com/a5/15/2013/42.html)
-16. [音樂排行榜：馬來西亞988最好聽音樂榜 2014年
-    第1週（2014-1-4）](http://www.inkui.com/a5/15/2014/1.html)
+3.  [主場新聞：陳奕迅2016約滿環球 望休息最少半年 「出去闖闖」](http://thehousenews.com/personal/%E9%99%B3%E5%A5%95%E8%BF%852016%E7%B4%84%E6%BB%BF%E7%92%B0%E7%90%83-%E6%9C%9B%E4%BC%91%E6%81%AF%E6%9C%80%E5%B0%91%E5%8D%8A%E5%B9%B4-%E5%87%BA%E5%8E%BB%E9%97%96%E9%97%96)
+4.  [蘋果日報：陳奕迅電台專訪重回現場 退出歌壇全是誤傳](http://www.nextmag.com.tw/breaking-news/entertainment/20140725/5836780)
+5.  [蘋果日報：陳奕迅電台專訪重回現場 退出歌壇全是誤傳](http://www.nextmag.com.tw/breaking-news/entertainment/20140725/5836780)
+6.  [音樂排行榜：全球華語歌曲排行榜 2013年 第23週（2013-6-10）](http://www.inkui.com/a5/10/2013/23.html)
+7.  [音樂排行榜：全球華語歌曲排行榜 2013年 第32週（2013-8-12）](http://www.inkui.com/a5/10/2013/32.html)
+8.  [音樂排行榜：全球華語歌曲排行榜 2013年 第39週（2013-9-30）](http://www.inkui.com/a5/10/2013/39.html)
+9.  [音樂排行榜：澳門電台華語歌曲排行榜 2013年 第23週（2013-6-7）](http://www.inkui.com/a5/14/2013/23.html)
+10. [音樂排行榜：澳門電台華語歌曲排行榜 2013年 第30週（2013-7-26）](http://www.inkui.com/a5/14/2013/30.html)
+11. [音樂排行榜：澳門電台華語歌曲排行榜 2013年 第37週（2013-9-13）](http://www.inkui.com/a5/14/2013/37.html)
+12. [音樂排行榜：澳門電台華語歌曲排行榜 2013年 第48週（2013-11-29）](http://www.inkui.com/a5/14/2013/48.html)
+13. [音樂排行榜：馬來西亞988最好聽音樂榜 2013年 第22週（2013-6-1）](http://www.inkui.com/a5/15/2013/22.html)
+14. [音樂排行榜：馬來西亞988最好聽音樂榜 2013年 第33週（2013-8-17）](http://www.inkui.com/a5/15/2013/30.html)
+15. [音樂排行榜：馬來西亞988最好聽音樂榜 2013年 第42週（2013-10-19）](http://www.inkui.com/a5/15/2013/42.html)
+16. [音樂排行榜：馬來西亞988最好聽音樂榜 2014年 第1週（2014-1-4）](http://www.inkui.com/a5/15/2014/1.html)
 17. [香港樂評選’2013 入圍名單](http://www.hkmc2.com/hkmc3-2013nom)
 18.
-19. [KKbox 2013年度回顧 -
-    十大專輯](http://www.kkbox.com/hk/kma/2013/favorite.php?type=album)
+19. [KKbox 2013年度回顧 - 十大專輯](http://www.kkbox.com/hk/kma/2013/favorite.php?type=album)
 20. [2](http://www.kkbox.com/hk/kdma/2013/rank.php?channel=cantonese)
 21. [華語金曲獎 2013年7月十佳專輯](http://www.chinesemusicawards.org/Album/10top/2013/0821/398.html)
-22. [2013 CASH金帆音樂獎
-    入圍名單](http://www.cash.org.hk/files/pdf/cash_news/2013/Finalists%202013.pdf)
-
+22. [2013 CASH金帆音樂獎 入圍名單](http://www.cash.org.hk/files/pdf/cash_news/2013/Finalists%202013.pdf)
 23. [香港樂評選’2013 得獎名單](http://www.hkmc2.com/hkmc3_2013)
-24. [第九屆 KKBOX 風雲榜
-    年度榜單](http://www.kkbox.com/tw/kdma/2013/winner.php?article_id=194)
+24. [第九屆 KKBOX 風雲榜 年度榜單](http://www.kkbox.com/tw/kdma/2013/winner.php?article_id=194)
 25. [環球唱片 - 粵語歌曲排行榜頒獎禮](http://www.umg.com.hk/news/3302/detail)
 26. [香港網絡大典：全港民意流行音樂選舉](http://evchk.wikia.com/wiki/%E5%85%A8%E6%B8%AF%E6%B0%91%E6%84%8F%E6%B5%81%E8%A1%8C%E9%9F%B3%E6%A8%82%E9%81%B8%E8%88%89)
-27. [KKbox 2013年度回顧
-    - 2013本地十大單曲](http://www.kkbox.com/hk/kma/2013/favorite.php?type=song)
-28. [加拿大中文電台 Music Award 加拿大至 HIT
-    中文歌曲排行榜年度總選結果](http://www.am1470.com/hot_topics_detail.php?i=1699)
+27. [KKbox 2013年度回顧 - 2013本地十大單曲](http://www.kkbox.com/hk/kma/2013/favorite.php?type=song)
+28. [加拿大中文電台 Music Award 加拿大至 HIT 中文歌曲排行榜年度總選結果](http://www.am1470.com/hot_topics_detail.php?i=1699)
 29. [環球唱片 - 粵語歌曲排行榜頒獎禮](http://www.umg.com.hk/news/3302/detail)

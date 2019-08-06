@@ -1,5 +1,4 @@
-**埃爾文·布魯克斯·懷特**（Elwyn Brooks "E. B." White）（1899年7月11日- 1985年10月1日）\[1\]
-是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[作家和一个世界联邦主义者](https://zh.wikipedia.org/wiki/作家 "wikilink")。他在五十多年的时间里担任着《[紐約客](../Page/紐約客.md "wikilink")》雜誌的撰稿人。他同样还是英語語言指南《[英文寫作指南](https://zh.wikipedia.org/wiki/英文寫作指南 "wikilink")》——同时也被称为“斯特伦克&怀特”的合著者（与小威廉·斯特伦克）。他還寫兒童文學，其中包括《》（1945年），《[夏洛特的网](../Page/夏洛特的网.md "wikilink")》（1952年）和《》（1970年）。
+**埃爾文·布魯克斯·懷特**（Elwyn Brooks "E. B." White）（1899年7月11日- 1985年10月1日）\[1\] 是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[作家和一个世界联邦主义者](https://zh.wikipedia.org/wiki/作家 "wikilink")。他在五十多年的时间里担任着《[紐約客](../Page/紐約客.md "wikilink")》雜誌的撰稿人。他同样还是英語語言指南《[英文寫作指南](https://zh.wikipedia.org/wiki/英文寫作指南 "wikilink")》——同时也被称为“斯特伦克&怀特”的合著者（与小威廉·斯特伦克）。他還寫兒童文學，其中包括《》（1945年），《[夏洛特的网](../Page/夏洛特的网.md "wikilink")》（1952年）和《》（1970年）。
 
 《夏洛特的網》在2012年被評為頂級兒童小說。
 
@@ -11,7 +10,6 @@
 
 {{-}}
 
-[Category:美國作家](https://zh.wikipedia.org/wiki/Category:美國作家 "wikilink")
-[Category:康乃爾大學校友](https://zh.wikipedia.org/wiki/Category:康乃爾大學校友 "wikilink")
+[Category:美國作家](https://zh.wikipedia.org/wiki/Category:美國作家 "wikilink") [Category:康乃爾大學校友](https://zh.wikipedia.org/wiki/Category:康乃爾大學校友 "wikilink")
 
 1.

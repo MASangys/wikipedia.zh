@@ -1,7 +1,4 @@
-《**放學後TEA TIME in
-MOVIE**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是「放學後TEA
-TIME」和「DEATH
-DEVIL」所收錄的[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。於2012年1月18日由[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+《**放學後TEA TIME in MOVIE**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），是「放學後TEA TIME」和「DEATH DEVIL」所收錄的[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。於2012年1月18日由[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要
 
@@ -9,11 +6,9 @@ DEVIL」所收錄的[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wiki
 
 這張專輯將「放學後TEA TIME」及「DEATH DEVIL」的歌曲分成2張[CD](../Page/CD.md "wikilink")。
 
-Disc-1 為「放學後TEA TIME」的樂曲，收錄了電影中出現的歌曲的「電影『K-ON\!』Mix」版本。「放學後TEA
-TIME」是同作登場的平澤唯、秋山澪、田井中律、琴吹紬和中野梓的樂隊，實際上即是五人的[聲優](../Page/聲優.md "wikilink")——[豐崎愛生](../Page/豐崎愛生.md "wikilink")、[日笠陽子](../Page/日笠陽子.md "wikilink")、[佐藤聰美](../Page/佐藤聰美.md "wikilink")、[壽美菜子](../Page/壽美菜子.md "wikilink")和[竹達彩奈](../Page/竹達彩奈.md "wikilink")。
+Disc-1 為「放學後TEA TIME」的樂曲，收錄了電影中出現的歌曲的「電影『K-ON\!』Mix」版本。「放學後TEA TIME」是同作登場的平澤唯、秋山澪、田井中律、琴吹紬和中野梓的樂隊，實際上即是五人的[聲優](../Page/聲優.md "wikilink")——[豐崎愛生](../Page/豐崎愛生.md "wikilink")、[日笠陽子](../Page/日笠陽子.md "wikilink")、[佐藤聰美](../Page/佐藤聰美.md "wikilink")、[壽美菜子](../Page/壽美菜子.md "wikilink")和[竹達彩奈](../Page/竹達彩奈.md "wikilink")。
 
-Disc-2 為「DEATH DEVIL」的樂曲，收錄了電影中出現的歌曲「光」的Instrumental版本，以及「光」的演唱版本。「DEATH
-DEVIL」是同作登場的山中佐和子和河口紀美的樂隊\[1\]，實際上即是二人的聲優——[真田麻美](../Page/真田麻美.md "wikilink")和[淺川悠](../Page/淺川悠.md "wikilink")。
+Disc-2 為「DEATH DEVIL」的樂曲，收錄了電影中出現的歌曲「光」的Instrumental版本，以及「光」的演唱版本。「DEATH DEVIL」是同作登場的山中佐和子和河口紀美的樂隊\[1\]，實際上即是二人的聲優——[真田麻美](../Page/真田麻美.md "wikilink")和[淺川悠](../Page/淺川悠.md "wikilink")。
 
 2013年3月20日發行的『』的Disc-2中，收錄了本專輯的Disc-1所有歌曲於曲目5-10，以及Disc-2的「光」於曲目15，而「光」的Instrumental版本未有收錄。
 
@@ -64,11 +59,7 @@ DEVIL」是同作登場的山中佐和子和河口紀美的樂隊\[1\]，實際�
 
   - [波麗佳音的介紹頁](https://web.archive.org/web/20130812155845/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100002044&DSP_SKHKETSEQ=001)
 
-
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink")
-[Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink")
-[Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink")
+[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink") [Category:動畫角色歌曲](https://zh.wikipedia.org/wiki/Category:動畫角色歌曲 "wikilink") [Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink")
 
 1.  樂隊實際上共有四人，但是只有二人演唱
 

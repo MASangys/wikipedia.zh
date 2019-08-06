@@ -1,7 +1,6 @@
 **最終幻想VII系列角色列表**列出了[史克威爾](../Page/史克威爾.md "wikilink")（現[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）出品[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")《[最終幻想VII](https://zh.wikipedia.org/wiki/最終幻想VII "wikilink")》中登場的角色，最初發布於1997年。遊戲跟隨著主角[克勞德加入生態恐怖組織與大型企業神羅對壘](../Page/克勞德·史特萊夫.md "wikilink")，企圖阻止神羅繼續抽取星球生命作為能源。隨著劇情推進更是衝突加劇，世界的安全成為他們關注的核心，因為新的勢力出現帶來更大的威脅。克勞德和他的團隊終將面對世上知名的英雄——[賽菲羅斯](../Page/賽菲羅斯.md "wikilink")。
 
-他們人物所居住的世界（在《最終幻想VII》中簡稱為「星球」，但追溯來名稱應為「Gaia」\[1\]）與故事在多種媒體上有了延續，後續發表的電影和[前傳](../Page/核心危機_-最終幻想VII-.md "wikilink")、[後傳遊戲都屬於稱為](https://zh.wikipedia.org/wiki/地獄犬的輓歌_-Final_Fantasy_VII- "wikilink")「[Final
-Fantasy VII補完計劃](../Page/最终幻想VII补完计划.md "wikilink")」中的項目。
+他們人物所居住的世界（在《最終幻想VII》中簡稱為「星球」，但追溯來名稱應為「Gaia」\[1\]）與故事在多種媒體上有了延續，後續發表的電影和[前傳](../Page/核心危機_-最終幻想VII-.md "wikilink")、[後傳遊戲都屬於稱為](https://zh.wikipedia.org/wiki/地獄犬的輓歌_-Final_Fantasy_VII- "wikilink")「[Final Fantasy VII補完計劃](../Page/最终幻想VII补完计划.md "wikilink")」中的項目。
 
 ## 遊戲主角
 
@@ -13,8 +12,7 @@ Fantasy VII補完計劃](../Page/最终幻想VII补完计划.md "wikilink")」�
 
 ### 文森特·瓦倫汀
 
-，遊戲《[地獄犬的輓歌
--最終幻想VII-](../Page/地獄犬的輓歌_-最終幻想VII-.md "wikilink")》和《地獄犬的輓歌失落的插曲-最終幻想VII》的主角。數十年前為神羅塔克斯的特務，愛戀著同屬神羅的科學家露克蕾西亞（賽菲羅斯生母），後被瘋狂科學家寶條殺傷，瀕死時作為實驗體被改造肉體，擁有可化身為不老不死魔物的能力，背負著非人的肉體繼續生存。但改造實驗完成後文森特自責無法阻止露克蕾西亞被寶條當作傑諾瓦細胞的實驗體，而將自己封閉於神羅公館的地下棺材中作為「贖罪」。多年後被克勞德一夥喚醒，為了尋找寶條而入隊。旅程中在瀑布洞窟見到了露克蕾西亞，進而得知更多的事實。本傳的大戰後三年來獨自調查著戰後的世界，多少知道同伴所面臨的各種問題。
+，遊戲《[地獄犬的輓歌 -最終幻想VII-](../Page/地獄犬的輓歌_-最終幻想VII-.md "wikilink")》和《地獄犬的輓歌失落的插曲-最終幻想VII》的主角。數十年前為神羅塔克斯的特務，愛戀著同屬神羅的科學家露克蕾西亞（賽菲羅斯生母），後被瘋狂科學家寶條殺傷，瀕死時作為實驗體被改造肉體，擁有可化身為不老不死魔物的能力，背負著非人的肉體繼續生存。但改造實驗完成後文森特自責無法阻止露克蕾西亞被寶條當作傑諾瓦細胞的實驗體，而將自己封閉於神羅公館的地下棺材中作為「贖罪」。多年後被克勞德一夥喚醒，為了尋找寶條而入隊。旅程中在瀑布洞窟見到了露克蕾西亞，進而得知更多的事實。本傳的大戰後三年來獨自調查著戰後的世界，多少知道同伴所面臨的各種問題。
 
 年齡：外表27歲（實際50多歲）、身高：184cm、生日：10月13日、血型：A型、出生地：不明
 
@@ -24,8 +22,7 @@ Fantasy VII補完計劃](../Page/最终幻想VII补完计划.md "wikilink")」�
 
 ### 扎克斯·菲爾
 
-扎克斯·菲爾（ザックス・フェア，Zack Fair），《[核心危機
--最終幻想VII-](../Page/核心危機_-最終幻想VII-.md "wikilink")》的主角。神羅的菁英特種兵，「虛假」克勞德的原型，同時也是克勞德的好友，亦與賽菲羅斯、安吉爾（扎克斯的導師）有所關連。性格開朗，樂於助人，包括敵對的傑尼西斯等人也曾受其幫助。人生終點為保護克勞德而被神羅士兵殺死，臨終把「破壞劍」交給克勞德，說克勞德是他活著的証明。艾莉絲的初戀情人，兩人的意識仍存在生命之泉中。
+扎克斯·菲爾（ザックス・フェア，Zack Fair），《[核心危機 -最終幻想VII-](../Page/核心危機_-最終幻想VII-.md "wikilink")》的主角。神羅的菁英特種兵，「虛假」克勞德的原型，同時也是克勞德的好友，亦與賽菲羅斯、安吉爾（扎克斯的導師）有所關連。性格開朗，樂於助人，包括敵對的傑尼西斯等人也曾受其幫助。人生終點為保護克勞德而被神羅士兵殺死，臨終把「破壞劍」交給克勞德，說克勞德是他活著的証明。艾莉絲的初戀情人，兩人的意識仍存在生命之泉中。
 
 年齡：23歲（死亡年齡）、身高：185cm、生日：不明、血型：O型、出生地：貢加加
 
@@ -51,8 +48,7 @@ Fantasy VII補完計劃](../Page/最终幻想VII补完计划.md "wikilink")」�
 
 ### 凱特·西
 
-，一個友善的貓型機器人，自稱很會算命，但往往不怎麼可靠\[5\]。武器是擴音器。在最終幻想VII，他騎在一個胖[莫古利機器人上](https://zh.wikipedia.org/wiki/莫古利 "wikilink")，在續作改獨自步行或騎在赤紅XIII上。實際上是由利夫操控用來監視克勞德等人的工具，但在旅行中漸漸瞭解事態之後，成為克勞德的伙伴與對神羅的反間諜，並全力協助過克勞德一行人。名字發音為「Kett
-Shee」。
+，一個友善的貓型機器人，自稱很會算命，但往往不怎麼可靠\[5\]。武器是擴音器。在最終幻想VII，他騎在一個胖[莫古利機器人上](https://zh.wikipedia.org/wiki/莫古利 "wikilink")，在續作改獨自步行或騎在赤紅XIII上。實際上是由利夫操控用來監視克勞德等人的工具，但在旅行中漸漸瞭解事態之後，成為克勞德的伙伴與對神羅的反間諜，並全力協助過克勞德一行人。名字發音為「Kett Shee」。
 
 年齡：不明、身高：100cm、生日：不明、血型：不明、出生地：不明
 
@@ -96,8 +92,7 @@ Shee」。
 
 ### 利夫
 
-，前神羅公司的都市開發部門的部長，對前社長的蠻橫作風感到擔憂。神羅各部會首要幹部中唯一以居民為重的人，多次徒勞無功地反對公司犧牲人民的策略，並曾藉著凱特·西（Cait
-Sith）之口嚴詞譴責巴雷特只顧到自己的想法而炸毀壹號魔晃爐，造成大量居民死傷。以神羅間諜的身份，操縱遙控機械凱特·西混進克勞德一行，但在旅行中漸漸瞭解事態，後成為克勞德的伙伴與對神羅的反間諜，並大力協助克勞德一行人。
+，前神羅公司的都市開發部門的部長，對前社長的蠻橫作風感到擔憂。神羅各部會首要幹部中唯一以居民為重的人，多次徒勞無功地反對公司犧牲人民的策略，並曾藉著凱特·西（Cait Sith）之口嚴詞譴責巴雷特只顧到自己的想法而炸毀壹號魔晃爐，造成大量居民死傷。以神羅間諜的身份，操縱遙控機械凱特·西混進克勞德一行，但在旅行中漸漸瞭解事態，後成為克勞德的伙伴與對神羅的反間諜，並大力協助克勞德一行人。
 
 ### 寶條博士
 
@@ -135,8 +130,7 @@ Sith）之口嚴詞譴責巴雷特只顧到自己的想法而炸毀壹號魔晃�
 
 ### 強尼
 
-，從七號街出發闖蕩世界的年輕人，喜歡蒂法。二年前最後出現與陽光沙灘，並且有一女朋友，蒂法在此也與強尼聊的忘我。大戰之後，在ACC
-OVA中魔晃都市邊緣所出現的小酒吧的主人似乎就是他。
+，從七號街出發闖蕩世界的年輕人，喜歡蒂法。二年前最後出現與陽光沙灘，並且有一女朋友，蒂法在此也與強尼聊的忘我。大戰之後，在ACC OVA中魔晃都市邊緣所出現的小酒吧的主人似乎就是他。
 
 ## 危機之前
 
@@ -174,7 +168,7 @@ OVA中魔晃都市邊緣所出現的小酒吧的主人似乎就是他。
 
 配音：乃村建次
 
-，賽菲羅斯思念體的一員，短髮，表徵賽菲羅斯對母親的失落感，一提到母親就勾動哭泣神經與悲傷，擅長用手部的電擊武器、移動速度快。口頭禪是「來玩吧」。
+，賽菲羅斯思念體的一員，短髮，表徵賽菲羅斯對母親的失落感，一提到母親就勾動哭泣神經與悲傷，擅長用手部的電擊護手爪、移動速度快。口頭禪是「來玩吧」。
 
 ## 地獄犬的輓歌人物
 
@@ -184,21 +178,11 @@ OVA中魔晃都市邊緣所出現的小酒吧的主人似乎就是他。
 
 ### 威斯
 
-，Tsviet（Deepground裡最強的幾位戰士, 有傑尼西斯的細胞）裡最強的戰士, 稱號「純白的帝王威斯（Weiss the
-Immaculate）」, 除了出任務和訓練的時候,
-被長期用帶電的鎖鏈鎖在座位上。Restrictors（Deepground的領導）還把晶片植入他體內,
-如果他們死了, 就會在威斯的體內放出病毒, 使他在三天死去。被寶條奪取了身體, 後來被弟弟尼洛用黑暗使寶條的控制減弱, 當弟弟求威斯和他一起,
-不要再分開的時候, 滿足了他的願望。速度非常快,
-武器是兩把稱為「天」和「地」的[槍刃](https://zh.wikipedia.org/wiki/槍刃 "wikilink")。也是奧米加的宿主。「Weiss」在德文裡是白色之意。
+，Tsviet（Deepground裡最強的幾位戰士, 有傑尼西斯的細胞）裡最強的戰士, 稱號「純白的帝王威斯（Weiss the Immaculate）」, 除了出任務和訓練的時候, 被長期用帶電的鎖鏈鎖在座位上。Restrictors（Deepground的領導）還把晶片植入他體內, 如果他們死了, 就會在威斯的體內放出病毒, 使他在三天死去。被寶條奪取了身體, 後來被弟弟尼洛用黑暗使寶條的控制減弱, 當弟弟求威斯和他一起, 不要再分開的時候, 滿足了他的願望。速度非常快, 武器是兩把稱為「天」和「地」的[槍刃](https://zh.wikipedia.org/wiki/槍刃 "wikilink")。也是奧米加的宿主。「Weiss」在德文裡是白色之意。
 
 ### 尼洛
 
-，Tsviet（Deepground裡最強的幾位戰士, 有傑尼西斯的細胞）成員之一。稱號「漆黑的闇尼洛（Nero the
-Sable）」。根據只在日本發行的《地獄犬輓歌》網上遊戲, 和哥哥威斯般,
-被Restrictors長期用帶電的鎖鏈鎖在柱上,
-玩家能看到他痛苦中叫了聲哥哥。是在Deepground裡進行的G計劃的實驗品（因此有傑尼西斯的細胞）,
-但哥哥的實驗是用純粹的魔晄（為了使他能成為奧米加的容器）, 尼洛則是用停滯的Lifestream（負能量）,因此尼洛成了黑暗的容器,
-一出生時他的黑暗就把他的母親吞噬掉。
+，Tsviet（Deepground裡最強的幾位戰士, 有傑尼西斯的細胞）成員之一。稱號「漆黑的闇尼洛（Nero the Sable）」。根據只在日本發行的《地獄犬輓歌》網上遊戲, 和哥哥威斯般, 被Restrictors長期用帶電的鎖鏈鎖在柱上, 玩家能看到他痛苦中叫了聲哥哥。是在Deepground裡進行的G計劃的實驗品（因此有傑尼西斯的細胞）, 但哥哥的實驗是用純粹的魔晄（為了使他能成為奧米加的容器）, 尼洛則是用停滯的Lifestream（負能量）,因此尼洛成了黑暗的容器, 一出生時他的黑暗就把他的母親吞噬掉。
 
 ### 阿祖爾
 
@@ -212,23 +196,19 @@ Sable）」。根據只在日本發行的《地獄犬輓歌》網上遊戲, 和�
 
 ### 安吉爾·休雷
 
-「神羅集團」的戰士（soldier），級別為1st。特徵是向後梳的黑髮，下巴蓄著鬍鬚，強壯。與傑尼西斯是童年的好友。個性勤勉踏實，關心他人如同扎克斯的兄長。「戰士應該要抱持著夢想（夢を持て）」的信念就是由他傳授給扎克斯的。此外還偷偷給扎克斯取了「小狗」綽號。由於賽菲羅斯的高高在上和傑尼西斯的孤僻，安吉爾事實上成為戰士的精神領袖。其實力近於前兩人，曾以一己之力抵擋兩人的攻擊。武器是「破壞劍（Buster
-Sword）」，但是很少看到他使用，在一開始烏泰戰鬥中據他自己所說，劍用了就會弄髒磨損，因此盡量避免使用，戰鬥前會先提劍祈禱，但曾一次為了救扎克斯而使用並表示比起自己的劍還是扎克斯較重要。此外安吉爾在民間還有粉絲俱樂部「榮譽守護者」，曾傳遞給玩家一些安吉爾的私人信息，如他喜歡大自然和烹飪，安吉爾死後決定解散，但會員仍會持續發送信息。
+「神羅集團」的戰士（soldier），級別為1st。特徵是向後梳的黑髮，下巴蓄著鬍鬚，強壯。與傑尼西斯是童年的好友。個性勤勉踏實，關心他人如同扎克斯的兄長。「戰士應該要抱持著夢想（夢を持て）」的信念就是由他傳授給扎克斯的。此外還偷偷給扎克斯取了「小狗」綽號。由於賽菲羅斯的高高在上和傑尼西斯的孤僻，安吉爾事實上成為戰士的精神領袖。其實力近於前兩人，曾以一己之力抵擋兩人的攻擊。武器是「破壞劍（Buster Sword）」，但是很少看到他使用，在一開始烏泰戰鬥中據他自己所說，劍用了就會弄髒磨損，因此盡量避免使用，戰鬥前會先提劍祈禱，但曾一次為了救扎克斯而使用並表示比起自己的劍還是扎克斯較重要。此外安吉爾在民間還有粉絲俱樂部「榮譽守護者」，曾傳遞給玩家一些安吉爾的私人信息，如他喜歡大自然和烹飪，安吉爾死後決定解散，但會員仍會持續發送信息。
 
 故事一開始安吉爾讓扎克斯進行神羅的模擬訓練，並在執行前提醒他要穩住，當扎克斯成功使模擬訓練中的一輛被偽裝神羅士兵的烏泰兵佔據的列車引導至魔晃爐第一站。但扎克斯卻被突然出現於身後的賽菲羅斯（虛構）以武力壓制，在安吉爾即時趕到後才化解了危機，後對扎克斯說一句「戰士應該要抱持著夢想」後離去。
 
 在參與烏泰戰鬥前先向扎克斯介紹了自己的故鄉巴諾拉村，後同意讓他率先進城。在聯絡扎克斯告知五分鐘後將發生爆炸要前者盡速離開，但因扎克斯大意而受敵人攻擊，安吉爾便迅速地使用「破壞劍」將敵人殺死並扶了扎克斯一把，使兩人友誼更佳堅定。在以一己之力對付烏泰兵時叫扎克斯先行離開，但安吉爾在擊敗完對手後就此失蹤，使隨後趕到的扎克斯和賽菲羅斯難以置信，安吉爾就此疑似有叛變嫌疑而被神羅發出追殺令。
 
-故事中表明安吉爾其實是「G計劃」完美的產物，父親霍蘭達，母親吉里安都是神羅的研究員。右後背長有兩片白色的翅膀。最後安吉爾將複製的怪物們聚集到了身邊並和自己結合，變成「Angeal
-Penance」和扎克斯展開對決，死前把「破壞劍」交給扎克斯，便安祥地闔上雙眼。在扎克斯被寶條帶走後，原本死去的安吉爾突然出現在扎克斯面前，離開後才使囚禁扎克斯的玻璃管破裂。
+故事中表明安吉爾其實是「G計劃」完美的產物，父親霍蘭達，母親吉里安都是神羅的研究員。右後背長有兩片白色的翅膀。最後安吉爾將複製的怪物們聚集到了身邊並和自己結合，變成「Angeal Penance」和扎克斯展開對決，死前把「破壞劍」交給扎克斯，便安祥地闔上雙眼。在扎克斯被寶條帶走後，原本死去的安吉爾突然出現在扎克斯面前，離開後才使囚禁扎克斯的玻璃管破裂。
 
 其複製體還曾在扎克斯和傑尼西斯對戰時出面保護昏迷的克勞德，和追來的神羅兵戰鬥完後便死亡。且最後在扎克斯戰死時安吉爾拉了他一把一起回到了星球中。
 
 在和傑尼西斯與賽菲羅斯的回憶中曾使用神羅的士兵劍戰鬥，「破壞劍」則是揹於身後，但因不想讓劍磨損而不常使用。外型呈斬首大刀，刀身有兩個中空的洞，沒有護手。死前託付給扎克斯傳承其意志。
 
-「Angeal
-Penance」是安吉爾將自己的複製體和自身融合的異樣姿態，特徵是長髮，雙眼緊閉，單翼，三條尾巴和四足模樣，腹部還有一張大口，武器是三叉戟和盾。攻擊技能多樣，幾乎每一部位都能發動技能，擁有相當強勁的實力。名字「Penance」有懺悔之意。Angeal
-Penance型態施展的技能命名取自為[七宗罪](https://zh.wikipedia.org/wiki/七宗罪 "wikilink")。
+「Angeal Penance」是安吉爾將自己的複製體和自身融合的異樣姿態，特徵是長髮，雙眼緊閉，單翼，三條尾巴和四足模樣，腹部還有一張大口，武器是三叉戟和盾。攻擊技能多樣，幾乎每一部位都能發動技能，擁有相當強勁的實力。名字「Penance」有懺悔之意。Angeal Penance型態施展的技能命名取自為[七宗罪](https://zh.wikipedia.org/wiki/七宗罪 "wikilink")。
 
 ### 傑尼西斯·拉普索道斯
 
@@ -236,17 +216,13 @@ Penance型態施展的技能命名取自為[七宗罪](https://zh.wikipedia.org/
 
 傑尼西斯也是「G計劃」的產物（失敗品），左後背長有一支黑色的翅膀，同安吉爾一樣有飛翔、複製的能力。為了阻止自身的「劣化」，根據「敘事詩《LOVELESS》」的記載尋找「女神的贈禮」，同扎克斯等人發生衝突。在扎克斯等人攻克烏泰的戰役中帶著大批神羅士兵失蹤，回到自己的出生地巴諾拉村屠殺村民和自己的父母，遭到神羅公司的追捕，此為本作的發端，之後其各式各樣的複製體接二連三出現入侵神羅。此外因自身劣化關係使他的頭髮隨著劇情越來越翻白。在雪原村附近的魔晃發掘基地中，因傑尼西斯（劣化開始的單翼狀態）不悅和自己合作的霍蘭達（ホランダー）無法治癒自己而用劍對其逼問，在正要殺死他時被突然出現的扎克斯阻止，並和後者展開對決，敗北後自行掉落至後方的深淵消失，但沒死。
 
-最後在訣別之扉中以突變的「Genesis
-Avatar」姿態被扎克斯打敗時還一度想再戰，但實際上是想說離劣化而故意放水（髮色變回原色），後見到了真正的女神，且星球的女神（Minerva）還治癒了他的劣化。扎克斯離開後,
-昏迷中的傑尼西斯被Deepground戰士威斯和尼洛抱走，為《地獄犬的輓歌》埋下伏筆。傑尼西斯和Deepground裡最強的戰士「純白的帝王」威斯（Weiss）有著某種「兄弟」的關係（因為威斯和其他精英成員都是地底下的G計劃的實驗產物,
-他們都有傑尼西斯的細胞）\[12\]。
+最後在訣別之扉中以突變的「Genesis Avatar」姿態被扎克斯打敗時還一度想再戰，但實際上是想說離劣化而故意放水（髮色變回原色），後見到了真正的女神，且星球的女神（Minerva）還治癒了他的劣化。扎克斯離開後, 昏迷中的傑尼西斯被Deepground戰士威斯和尼洛抱走，為《地獄犬的輓歌》埋下伏筆。傑尼西斯和Deepground裡最強的戰士「純白的帝王」威斯（Weiss）有著某種「兄弟」的關係（因為威斯和其他精英成員都是地底下的G計劃的實驗產物, 他們都有傑尼西斯的細胞）\[12\]。
 
 他被帶走後一張紙片從天而降，「即使在沒有約定的明天，也一定會降臨到你所在的地方。星星的希望化作細雨，在大地的邊界，天空的彼岸，遙遠的水面」，還在結尾處留下了「LOVELESS」字樣\[13\]。
 
 武器赤劍為一把護手呈單羽翼造型的赤色身寶劍，可藉由詠唱咒文來使劍泛出紅光，增強破壞力，傑尼西斯甚至還曾以劍身抵擋賽菲羅斯的「居合斬」。
 
-「Genesis
-Avatar型態」為傑尼西斯吸收女神果實後的異樣型態，特徵是全身有赤色裝甲，身型巨大，下半身固定於地下，右背後為似光輪造型，左背後為赤翼，持有巨劍。魔法風格多樣，有召喚士兵的能力。解除型態後傑尼西斯的劣化得以復原。
+「Genesis Avatar型態」為傑尼西斯吸收女神果實後的異樣型態，特徵是全身有赤色裝甲，身型巨大，下半身固定於地下，右背後為似光輪造型，左背後為赤翼，持有巨劍。魔法風格多樣，有召喚士兵的能力。解除型態後傑尼西斯的劣化得以復原。
 
 ### 拉扎德
 
@@ -280,41 +256,17 @@ CCFFVII時代的戰士的最高負責人。想為被神羅拋棄的母親而復�
 
 ## 參考資料
 
-[Category:最終幻想VII](https://zh.wikipedia.org/wiki/Category:最終幻想VII "wikilink")
-[Category:电子游戏角色列表](https://zh.wikipedia.org/wiki/Category:电子游戏角色列表 "wikilink")
-[Category:最終幻想系列角色](https://zh.wikipedia.org/wiki/Category:最終幻想系列角色 "wikilink")
+[Category:最終幻想VII](https://zh.wikipedia.org/wiki/Category:最終幻想VII "wikilink") [Category:电子游戏角色列表](https://zh.wikipedia.org/wiki/Category:电子游戏角色列表 "wikilink") [Category:最終幻想系列角色](https://zh.wikipedia.org/wiki/Category:最終幻想系列角色 "wikilink")
 
 1.
-2.  **Barret:** Little by little the reactors'll drain out all the life.
-    And that'll be that. / **Cloud:** It's not my problem. / **Barret:**
-    The planet's dyin', Cloud\! / **Cloud:** The only thing I care about
-    is finishin' this job before security and the Roboguards come.
-    (*Final Fantasy VII*)
-3.  **Bugenhagen:** "Seto continued to fight the Gi tribe here. ...To
-    protect this Canyon. Even after the Gi's poisonous arrows turned his
-    body to stone......Even after they all ran away...Seto, continued to
-    protect us. And he continues to protect us, even
-    now."<span style="font-size: 90%;">(*Final Fantasy VII*)</span>
-4.  **Red XIII:** "I am Nanaki of Cosmo Canyon\! The son of the warrior,
-    Seto\! I'll come back a warrior true to that noble
-    name\!"<span style="font-size: 90%;">(*Final Fantasy VII*)</span>
-5.  *Final Fantasy VII Game Manual* Character Description page (PAL
-    version) Page 6
-6.  **Cid:** "Shut up\! Sit your ass down in that chair and drink you
-    goddamn TEA\! Arggggggh\! DAMN, I'm pissed\! Shera\! I'll be in the
-    backyard tunin' up Tiny Bronco\! AN' make sure to serve them some
-    tea\! All right\!?"<span style="font-size: 90%;">(*Final Fantasy
-    VII*)</span>
-7.  **Barret:** Execution\!? What're ya gonna get by executin' us? /
-    **Rufus:** You are to be executed for causing this situation. People
-    are ignorant. They'll feel better as long as someone is punished. /
-    **Barret:** I take back what little praise I had for this damn
-    jackass\! / **Rufus:** Well, enjoy your last moments together.
-    *(Final Fantasy VII)*
+2.  **Barret:** Little by little the reactors'll drain out all the life. And that'll be that. / **Cloud:** It's not my problem. / **Barret:** The planet's dyin', Cloud\! / **Cloud:** The only thing I care about is finishin' this job before security and the Roboguards come. (*Final Fantasy VII*)
+3.  **Bugenhagen:** "Seto continued to fight the Gi tribe here. ...To protect this Canyon. Even after the Gi's poisonous arrows turned his body to stone......Even after they all ran away...Seto, continued to protect us. And he continues to protect us, even now."<span style="font-size: 90%;">(*Final Fantasy VII*)</span>
+4.  **Red XIII:** "I am Nanaki of Cosmo Canyon\! The son of the warrior, Seto\! I'll come back a warrior true to that noble name\!"<span style="font-size: 90%;">(*Final Fantasy VII*)</span>
+5.  *Final Fantasy VII Game Manual* Character Description page (PAL version) Page 6
+6.  **Cid:** "Shut up\! Sit your ass down in that chair and drink you  goddamn TEA\! Arggggggh\! DAMN, I'm pissed\! Shera\! I'll be in the backyard tunin' up Tiny Bronco\! AN' make sure to serve them some tea\! All right\!?"<span style="font-size: 90%;">(*Final Fantasy VII*)</span>
+7.  **Barret:** Execution\!? What're ya gonna get by executin' us? / **Rufus:** You are to be executed for causing this situation. People are ignorant. They'll feel better as long as someone is punished. / **Barret:** I take back what little praise I had for this damn jackass\! / **Rufus:** Well, enjoy your last moments together. *(Final Fantasy VII)*
 8.
-9.  **Jessie:** "I like this kinda stuff. Bombs and monitors... you
-    know, flashy stuff."<span style="font-size: 90%;">(*Final Fantasy
-    VII*)</span>
+9.  **Jessie:** "I like this kinda stuff. Bombs and monitors... you know, flashy stuff."<span style="font-size: 90%;">(*Final Fantasy VII*)</span>
 10.
 11.
 12. 《地獄犬的輓歌 -最終幻想VII-》

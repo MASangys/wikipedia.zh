@@ -34,8 +34,4 @@
 
   -
 
-[Category:近畿地方的電視台](https://zh.wikipedia.org/wiki/Category:近畿地方的電視台 "wikilink")
-[Category:每日放送](https://zh.wikipedia.org/wiki/Category:每日放送 "wikilink")
-[Category:日本新聞網_(TBS)](https://zh.wikipedia.org/wiki/Category:日本新聞網_\(TBS\) "wikilink")
-[Category:大阪市北區建築物](https://zh.wikipedia.org/wiki/Category:大阪市北區建築物 "wikilink")
-[Category:1959年日本建立](https://zh.wikipedia.org/wiki/Category:1959年日本建立 "wikilink")
+[Category:近畿地方的電視台](https://zh.wikipedia.org/wiki/Category:近畿地方的電視台 "wikilink") [Category:每日放送](https://zh.wikipedia.org/wiki/Category:每日放送 "wikilink") [Category:日本新聞網_(TBS)](https://zh.wikipedia.org/wiki/Category:日本新聞網_\(TBS\) "wikilink") [Category:大阪市北區建築物](https://zh.wikipedia.org/wiki/Category:大阪市北區建築物 "wikilink") [Category:1959年日本建立](https://zh.wikipedia.org/wiki/Category:1959年日本建立 "wikilink")

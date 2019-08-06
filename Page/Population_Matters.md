@@ -1,24 +1,16 @@
-****（[双关语](https://zh.wikipedia.org/wiki/双关语 "wikilink")，可理解为**人口事情**\[1\]或**人口至关重要**\[2\]或**人口控制运动**\[3\]）是一个注册於[英国的](https://zh.wikipedia.org/wiki/英国 "wikilink")[慈善组织](../Page/慈善组织.md "wikilink")、[智庫](../Page/智庫.md "wikilink")及[倡导团体](https://zh.wikipedia.org/wiki/倡导团体 "wikilink")，前身为“理想人口信托”（"Optimum
-Population
-Trust"）\[4\]。该组织致力于呼吁大众关注[人口增長對於永續性](https://zh.wikipedia.org/wiki/人口过多 "wikilink")、[生活品質和](https://zh.wikipedia.org/wiki/生活品質 "wikilink")[自然環境](https://zh.wikipedia.org/wiki/自然環境 "wikilink")（尤其是[自然資源](https://zh.wikipedia.org/wiki/自然資源 "wikilink")、[氣候變遷](../Page/氣候變遷.md "wikilink")和[生物多樣性](../Page/生物多樣性.md "wikilink")）的影響。
+****（[双关语](https://zh.wikipedia.org/wiki/双关语 "wikilink")，可理解为**人口事情**\[1\]或**人口至关重要**\[2\]或**人口控制运动**\[3\]）是一个注册於[英国的](https://zh.wikipedia.org/wiki/英国 "wikilink")[慈善组织](../Page/慈善组织.md "wikilink")、[智庫](../Page/智庫.md "wikilink")及[倡导团体](https://zh.wikipedia.org/wiki/倡导团体 "wikilink")，前身为“理想人口信托”（"Optimum Population Trust"）\[4\]。该组织致力于呼吁大众关注[人口增長對於永續性](https://zh.wikipedia.org/wiki/人口过多 "wikilink")、[生活品質和](https://zh.wikipedia.org/wiki/生活品質 "wikilink")[自然環境](https://zh.wikipedia.org/wiki/自然環境 "wikilink")（尤其是[自然資源](https://zh.wikipedia.org/wiki/自然資源 "wikilink")、[氣候變遷](../Page/氣候變遷.md "wikilink")和[生物多樣性](../Page/生物多樣性.md "wikilink")）的影響。
 
 ## 背景
 
-该组织的前身「理想人口信托」（"Optimum Population Trust"）成立於1991年，2001年起採用「Population
-Matters」為倡議活動的名稱。該機構主要研究人口數量與其它各種問題的相關性，如[气候变化](https://zh.wikipedia.org/wiki/气候变化 "wikilink")、[能源需求以及](https://zh.wikipedia.org/wiki/能源危机 "wikilink")[生物多样性等等](https://zh.wikipedia.org/wiki/生物多样性 "wikilink")。它致力於推動英国及世界，传播減少人口数量至永續水平的觀念。2009年，该组织公布的一项研究称[避孕是解決气候变化最廉价的方式](https://zh.wikipedia.org/wiki/避孕 "wikilink")。\[5\]
+该组织的前身「理想人口信托」（"Optimum Population Trust"）成立於1991年，2001年起採用「Population Matters」為倡議活動的名稱。該機構主要研究人口數量與其它各種問題的相關性，如[气候变化](https://zh.wikipedia.org/wiki/气候变化 "wikilink")、[能源需求以及](https://zh.wikipedia.org/wiki/能源危机 "wikilink")[生物多样性等等](https://zh.wikipedia.org/wiki/生物多样性 "wikilink")。它致力於推動英国及世界，传播減少人口数量至永續水平的觀念。2009年，该组织公布的一项研究称[避孕是解決气候变化最廉价的方式](https://zh.wikipedia.org/wiki/避孕 "wikilink")。\[5\]
 
 该组织声称其协调目标是：改进提供[计划生育](../Page/计划生育.md "wikilink")和[性教育](../Page/性教育.md "wikilink")，更好的教育以及妇女权利，而且夫妻自愿「有两个或更少」。在英国国内，它主张“以更大努力减少少女怀孕和意外怀孕的比率”和“移民带入平衡移民”。
 
 ### 关注人口
 
-「人口关注」的概念是：「对人类需求和可用资源之间的平衡性协调的一种基础性的关注，兼顾考虑现在和可预见的未来。」("fundamentally a
-concern about the balance between human needs and the resources
-available to meet those needs, now, and for the foreseeable
-future.")\[6\]
+「人口关注」的概念是：「对人类需求和可用资源之间的平衡性协调的一种基础性的关注，兼顾考虑现在和可预见的未来。」("fundamentally a concern about the balance between human needs and the resources available to meet those needs, now, and for the foreseeable future.")\[6\]
 
-> 「如果世界上的人口继续以目前的速度增加，很快就会有没有空间，无论是野生动物或[野生环境](../Page/原野.md "wikilink")……
-> 但是，我相信人们迟早会学着开始限制过剩的人口。然后，他将更加关注(资源利用的)最适性而不是最大性，质量而不是数量，并会恢复自己对于接触荒野和野生大自然的需要。」——
-> - 世界自然基金会创始人 - 1909年-1989年</small>\[7\]
+> 「如果世界上的人口继续以目前的速度增加，很快就会有没有空间，无论是野生动物或[野生环境](../Page/原野.md "wikilink")…… 但是，我相信人们迟早会学着开始限制过剩的人口。然后，他将更加关注(资源利用的)最适性而不是最大性，质量而不是数量，并会恢复自己对于接触荒野和野生大自然的需要。」—— - 世界自然基金会创始人 - 1909年-1989年</small>\[7\]
 
 ## 倡議
 
@@ -54,8 +46,7 @@ future.")\[6\]
 
 **新闻文章**
 
-  - [大卫威利
-    致新科学家（认购只）](http://www.newscientist.com/article/mg14319445.400-letter-optimum-population.html)
+  - [大卫威利 致新科学家（认购只）](http://www.newscientist.com/article/mg14319445.400-letter-optimum-population.html)
   - [卫报的文章：公民逮捕](http://www.guardian.co.uk/society/2007/jul/11/comment.climatechange)
   - [独立的文章：人口过剩是主要威胁的星球](http://www.independent.co.uk/environment/overpopulation-is-main-threat-to-planet-521925.html)
   - [电讯报文章：英国无法承受的人口，说研究](http://www.telegraph.co.uk/news/uknews/1579033/UK-unable-to-sustain-population-says-study.html)
@@ -71,25 +62,17 @@ future.")\[6\]
 
 {{-}}
 
-[Category:非政府组织](https://zh.wikipedia.org/wiki/Category:非政府组织 "wikilink")
-[Category:英国慈善团体](https://zh.wikipedia.org/wiki/Category:英国慈善团体 "wikilink")
-[Category:总部在英国的国际组织](https://zh.wikipedia.org/wiki/Category:总部在英国的国际组织 "wikilink")
-[Category:1991年建立的組織](https://zh.wikipedia.org/wiki/Category:1991年建立的組織 "wikilink")
+[Category:非政府组织](https://zh.wikipedia.org/wiki/Category:非政府组织 "wikilink") [Category:英国慈善团体](https://zh.wikipedia.org/wiki/Category:英国慈善团体 "wikilink") [Category:总部在英国的国际组织](https://zh.wikipedia.org/wiki/Category:总部在英国的国际组织 "wikilink") [Category:1991年建立的組織](https://zh.wikipedia.org/wiki/Category:1991年建立的組織 "wikilink")
 
-1.  [官网中文版](http://www.populationmatters.org/chinese/)  -
-    populationmatters.org
+1.  [官网中文版](http://www.populationmatters.org/chinese/)  - populationmatters.org
 
-2.  [全球糧食 一半浪費掉](http://www.ciic.org.tw/cht/news_detail.php?serial=127/)
-    - 嘉義產業創新研發中心. \[2011-10-31聯合報\]
+2.  [全球糧食 一半浪費掉](http://www.ciic.org.tw/cht/news_detail.php?serial=127/) - 嘉義產業創新研發中心. \[2011-10-31聯合報\]
 
-3.  [世紀末全球人口150億
-    人類瀕滅亡](http://paper.wenweipo.com/2011/10/24/GJ1110240016.htm)
-    - 香港文匯報. \[2011-10-24\]
+3.  [世紀末全球人口150億 人類瀕滅亡](http://paper.wenweipo.com/2011/10/24/GJ1110240016.htm) - 香港文匯報. \[2011-10-24\]
 
 4.
 
-5.  [Contraception cheapest way to combat climate
-    change](http://www.telegraph.co.uk/earth/environment/climatechange/6161742/Contraception-cheapest-way-to-combat-climate-change.html)
+5.  [Contraception cheapest way to combat climate change](http://www.telegraph.co.uk/earth/environment/climatechange/6161742/Contraception-cheapest-way-to-combat-climate-change.html)
 
 6.
 
@@ -97,9 +80,7 @@ future.")\[6\]
 
 8.
 
-9.  [Pledge two or
-    fewer](http://populationmatters.org/what-you-can-do/small-family/pledge/)
-    （请勿随意点击，此页面疑似在记录点击，算作“投票”支持）
+9.  [Pledge two or fewer](http://populationmatters.org/what-you-can-do/small-family/pledge/) （请勿随意点击，此页面疑似在记录点击，算作“投票”支持）
 
 10.
 

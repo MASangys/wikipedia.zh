@@ -8,11 +8,9 @@ Linux官方核心文件中提到的oops訊息被放在核心原始碼Documentati
 
 若系統遇到了oops，一些內部資源可能不再可用。即使系統看起來運作正常，非預期的副作用可能導致活動行程被終止。若系統試圖使用無法使用的資源，核心oops常常導致核心錯誤。
 
-Kernelloops提到了一種用於收集和提交oops到 <http://www.kerneloops.org/>
-的軟體\[2\]。Kerneloops.org同時也提供了oops的統計資訊。
+Kernelloops提到了一種用於收集和提交oops到 <http://www.kerneloops.org/> 的軟體\[2\]。Kerneloops.org同時也提供了oops的統計資訊。
 
-對於不熟悉電腦及作業系統的人來說，「oops訊息」可能會難以理解。不像[Windows或](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[OS
-X等作業系統](https://zh.wikipedia.org/wiki/OS_X "wikilink")，Linux尚未具備顯示一個簡單且易懂的訊息來代表核心的當機。
+對於不熟悉電腦及作業系統的人來說，「oops訊息」可能會難以理解。不像[Windows或](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[OS X等作業系統](https://zh.wikipedia.org/wiki/OS_X "wikilink")，Linux尚未具備顯示一個簡單且易懂的訊息來代表核心的當機。
 
 ## 參見
 
@@ -22,8 +20,7 @@ X等作業系統](https://zh.wikipedia.org/wiki/OS_X "wikilink")，Linux尚未�
 
 ## 延伸閱讀
 
-  - [*Linux Device
-    Drivers*，第三版，第四章](http://lwn.net/images/pdf/LDD3/ch04.pdf)
+  - [*Linux Device Drivers*，第三版，第四章](http://lwn.net/images/pdf/LDD3/ch04.pdf)
 
   -
   -

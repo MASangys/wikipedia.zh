@@ -1,6 +1,4 @@
-**《Mr.Mr.》**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[少女時代的第四張迷你专辑](https://zh.wikipedia.org/wiki/少女時代 "wikilink")，內有六首歌曲，而專輯中《Mr.Mr.》被時代雜誌
-(TIME) 2014年上半年 TOP25 歌曲之一，由唱片公司[SM
-Entertainment发行](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink"),MV已於2/28發布。
+**《Mr.Mr.》**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[少女時代的第四張迷你专辑](https://zh.wikipedia.org/wiki/少女時代 "wikilink")，內有六首歌曲，而專輯中《Mr.Mr.》被時代雜誌 (TIME) 2014年上半年 TOP25 歌曲之一，由唱片公司[SM Entertainment发行](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink"),MV已於2/28發布。
 
 ## 曲目
 
@@ -35,10 +33,4 @@ Entertainment发行](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink"),
 
 ## 參考文獻
 
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:少女時代音樂專輯](https://zh.wikipedia.org/wiki/Category:少女時代音樂專輯 "wikilink")
-[Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2014年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯月榜冠軍作品 "wikilink")
-[Category:2014年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon單曲週榜冠軍作品 "wikilink")
-[Category:2014年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon數位下載週榜冠軍作品 "wikilink")
+[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:少女時代音樂專輯](https://zh.wikipedia.org/wiki/Category:少女時代音樂專輯 "wikilink") [Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2014年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯月榜冠軍作品 "wikilink") [Category:2014年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon單曲週榜冠軍作品 "wikilink") [Category:2014年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon數位下載週榜冠軍作品 "wikilink")

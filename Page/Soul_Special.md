@@ -1,15 +1,4 @@
-[愛情](../Page/愛情.md "wikilink") | camera = | picture_format = | runtime
-= | creator = | director = | writer = | developer = |
-executive_producer = | starring =
-[韓孝周](../Page/韓孝周.md "wikilink"){{、w}}[金東昱](https://zh.wikipedia.org/wiki/金東昱 "wikilink"){{、w}}[李彩英](https://zh.wikipedia.org/wiki/李彩英 "wikilink"){{、w}}[K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")
-| narrated = | language =
-[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | country =  |
-network = [KBS N](https://zh.wikipedia.org/wiki/KBS_N "wikilink") |
-first_run =  | first_aired = | last_aired = | num_episodes = 12 |
-website = | preceded_by = | followed_by = | imdb_id = | tv_com_id =
-}} 《**Soul
-Special**》（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2009年9月28日起在[KBS
-N頻道以及網路平台](https://zh.wikipedia.org/wiki/KBS_N "wikilink")[Cyworld播出的電視](https://zh.wikipedia.org/wiki/Cyworld "wikilink")[音樂劇](../Page/音樂劇.md "wikilink")，每集約五分鐘共12集，另在10月30日時播出重新剪集的60分鐘完整版。
+[愛情](../Page/愛情.md "wikilink") | camera = | picture_format = | runtime = | creator = | director = | writer = | developer = | executive_producer = | starring = [韓孝周](../Page/韓孝周.md "wikilink"){{、w}}[金東昱](https://zh.wikipedia.org/wiki/金東昱 "wikilink"){{、w}}[李彩英](https://zh.wikipedia.org/wiki/李彩英 "wikilink"){{、w}}[K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink") | narrated = | language = [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | country =  | network = [KBS N](https://zh.wikipedia.org/wiki/KBS_N "wikilink") | first_run =  | first_aired = | last_aired = | num_episodes = 12 | website = | preceded_by = | followed_by = | imdb_id = | tv_com_id = }} 《**Soul Special**》（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2009年9月28日起在[KBS N頻道以及網路平台](https://zh.wikipedia.org/wiki/KBS_N "wikilink")[Cyworld播出的電視](https://zh.wikipedia.org/wiki/Cyworld "wikilink")[音樂劇](../Page/音樂劇.md "wikilink")，每集約五分鐘共12集，另在10月30日時播出重新剪集的60分鐘完整版。
 
 ## 劇情簡介
 
@@ -39,15 +28,11 @@ N頻道以及網路平台](https://zh.wikipedia.org/wiki/KBS_N "wikilink")[Cywor
 
 <!-- end list -->
 
-1.  사랑한단 말을 못해서--케이윌(K.Will) /
-    不能說愛你--[K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")
+1.  사랑한단 말을 못해서--케이윌(K.Will) / 不能說愛你--[K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")
 2.  Soul Special--유나영 / Soul Special--劉娜英
 3.  햇살이 밝아서--서연정 / 陽光明媚--徐延正
 4.  Style (feat. 허인창)--전소연 / Style (feat.許仁昌)--全秀妍
-5.  사랑한단 말을
-    못해서(inst.)--케이윌([K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink"))
-    /
-    不能說愛你(inst.)--[K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")
+5.  사랑한단 말을 못해서(inst.)--케이윌([K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")) / 不能說愛你(inst.)--[K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")
 6.  햇살이 밝아서(inst.)--서연정(inst.) / 陽光明媚--徐延正
 
 ### 《part.2》
@@ -56,18 +41,12 @@ N頻道以及網路平台](https://zh.wikipedia.org/wiki/KBS_N "wikilink")[Cywor
 
 <!-- end list -->
 
-1.  왈칵 눈물이(feat.유연 Of 러블리)--한효주 /
-    突然的眼淚--[韓孝周](../Page/韓孝周.md "wikilink")(Feat.柳妍of
-    Lovely)
-2.  나에게 그대는--김동욱 /
-    走向我的你--[金東昱](https://zh.wikipedia.org/wiki/金東昱 "wikilink")
-3.  왈칵 눈물이(feat.간디 Of 부가킹즈)--한효주 /
-    突然的眼淚--[韓孝周](../Page/韓孝周.md "wikilink")(Feat.Gan-D
-    of Buga Kingz)
+1.  왈칵 눈물이(feat.유연 Of 러블리)--한효주 / 突然的眼淚--[韓孝周](../Page/韓孝周.md "wikilink")(Feat.柳妍of Lovely)
+2.  나에게 그대는--김동욱 / 走向我的你--[金東昱](https://zh.wikipedia.org/wiki/金東昱 "wikilink")
+3.  왈칵 눈물이(feat.간디 Of 부가킹즈)--한효주 / 突然的眼淚--[韓孝周](../Page/韓孝周.md "wikilink")(Feat.Gan-D of Buga Kingz)
 4.  나에게 그대는--구자창(Dr.9) / 走向我的你--Dr.9
 5.  왈칵 눈물이(inst.)--한효주 / 突然的眼淚(inst.)--[韓孝周](../Page/韓孝周.md "wikilink")
-6.  나에게 그대는(inst.)--김동욱 /
-    走向我的你(inst.)--[金東昱](https://zh.wikipedia.org/wiki/金東昱 "wikilink")
+6.  나에게 그대는(inst.)--김동욱 / 走向我的你(inst.)--[金東昱](https://zh.wikipedia.org/wiki/金東昱 "wikilink")
 7.  너 정말이니--럼블 피쉬（Rumble Fish ） / 真的不是你--Rumble Fish
 
 ### 《part.3》
@@ -77,14 +56,10 @@ N頻道以及網路平台](https://zh.wikipedia.org/wiki/KBS_N "wikilink")[Cywor
 <!-- end list -->
 
 1.  My Girl--바비킴 / My Girl--Bobby Kim
-2.  사랑한단 말을 못해서 / 케이윌(K.Will) /
-    不能說愛你--[K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")
+2.  사랑한단 말을 못해서 / 케이윌(K.Will) / 不能說愛你--[K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")
 3.  둘이 더 좋아--럼블 피쉬(Rumble Fish) / 兩個人更好--Rumble Fish
-4.  왈칵 눈물이(feat. 간디 Of 부가킹즈)--한효주 /
-    突然的眼淚--[韓孝周](../Page/韓孝周.md "wikilink")(Feat.柳妍of
-    Buga Kingz)
-5.  나에게 그대는--김동욱 \[배우\] /
-    走向我的你--[金東昱](https://zh.wikipedia.org/wiki/金東昱 "wikilink")
+4.  왈칵 눈물이(feat. 간디 Of 부가킹즈)--한효주 / 突然的眼淚--[韓孝周](../Page/韓孝周.md "wikilink")(Feat.柳妍of Buga Kingz)
+5.  나에게 그대는--김동욱 \[배우\] / 走向我的你--[金東昱](https://zh.wikipedia.org/wiki/金東昱 "wikilink")
 6.  Soul Special--유나영 / Soul Special--劉娜英
 7.  햇살이 밝아서--서연정 / 陽光明媚--徐延正
 8.  Style(feat. 허인창)--전소연 / Style (feat.許仁昌)--全秀妍
@@ -97,6 +72,4 @@ N頻道以及網路平台](https://zh.wikipedia.org/wiki/KBS_N "wikilink")[Cywor
 
   - [Daum電影](https://web.archive.org/web/20140429130802/http://movie.daum.net/tv/detail/main.do?tvProgramId=55338)
 
-[Category:KBS電視劇](https://zh.wikipedia.org/wiki/Category:KBS電視劇 "wikilink")
-[Category:歌舞電視劇](https://zh.wikipedia.org/wiki/Category:歌舞電視劇 "wikilink")
-[Category:2009年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2009年韓國電視劇集 "wikilink")
+[Category:KBS電視劇](https://zh.wikipedia.org/wiki/Category:KBS電視劇 "wikilink") [Category:歌舞電視劇](https://zh.wikipedia.org/wiki/Category:歌舞電視劇 "wikilink") [Category:2009年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2009年韓國電視劇集 "wikilink")

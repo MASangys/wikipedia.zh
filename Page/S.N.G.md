@@ -1,7 +1,6 @@
 《**S.N.G**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[周湯豪](../Page/周湯豪.md "wikilink")的第二張大碟，也是他由[華納唱片轉投](https://zh.wikipedia.org/wiki/華納唱片_\(台灣\) "wikilink")[金牌大風後睽違兩年推出的首張專輯](../Page/金牌大風_\(台灣\).md "wikilink")。專輯於2012年5月15日開始預購，5月30日發行\[1\]。
 
-專輯第一主打歌《S.N.G》是台灣[偶像劇](../Page/偶像劇.md "wikilink")《[粉愛粉愛你](../Page/粉愛粉愛你.md "wikilink")》的插曲《Super
-Nice Girl》之R\&B抒情版本，在5月10日首播\[2\]。
+專輯第一主打歌《S.N.G》是台灣[偶像劇](../Page/偶像劇.md "wikilink")《[粉愛粉愛你](../Page/粉愛粉愛你.md "wikilink")》的插曲《Super Nice Girl》之R\&B抒情版本，在5月10日首播\[2\]。
 
 ## 曲目
 
@@ -194,21 +193,13 @@ Nice Girl》之R\&B抒情版本，在5月10日首播\[2\]。
 
 </div>
 
-[Category:周湯豪音樂專輯](https://zh.wikipedia.org/wiki/Category:周湯豪音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
+[Category:周湯豪音樂專輯](https://zh.wikipedia.org/wiki/Category:周湯豪音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
 
 1.
-2.  [Hitoradio‧Hit FM
-    --華人音樂入口指標](http://www.hitoradio.com/newweb/videomusic2.php)，2012年5月15日
-    (二) 17:55 (UTC+8)查閱
+2.  [Hitoradio‧Hit FM --華人音樂入口指標](http://www.hitoradio.com/newweb/videomusic2.php)，2012年5月15日 (二) 17:55 (UTC+8)查閱
 
-3.  [玫瑰大眾購物網 -
-    S.N.G專輯預購版](http://shopping.g-music.com.tw/ECProduct.aspx?ProductID=4714127665740)
-    ，2012年5月15日 (二) 18:05 (UTC+8)查閱
+3.  [玫瑰大眾購物網 - S.N.G專輯預購版](http://shopping.g-music.com.tw/ECProduct.aspx?ProductID=4714127665740) ，2012年5月15日 (二) 18:05 (UTC+8)查閱
 
-4.  [YESASIA : S.N.G (正式版) 鐳射唱片 - 周 湯豪, 金牌大風音樂文化股份有限公司
-    (TW)](http://www.yesasia.com/global/s-n-g-%E6%AD%A3%E5%BC%8F%E7%89%88/1030961688-0-0-0-zh_TW/info.html)，2012年5月29日
-    (二) 00:45 (UTC+8)查閱
+4.  [YESASIA : S.N.G (正式版) 鐳射唱片 - 周 湯豪, 金牌大風音樂文化股份有限公司 (TW)](http://www.yesasia.com/global/s-n-g-%E6%AD%A3%E5%BC%8F%E7%89%88/1030961688-0-0-0-zh_TW/info.html)，2012年5月29日 (二) 00:45 (UTC+8)查閱
 
 5.

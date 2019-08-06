@@ -1,15 +1,8 @@
-**《伊克西翁传说
-DT》**（，）是基于日本游戏公司[卡普空开发的多人互动](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")**《伊克西翁传说》**（，）所改编的电视动画。于2012年10月7日至2013年3月31日播映，全25集。同时亦有改编漫画**《伊克西翁传说
-ED》**（）。
+**《伊克西翁传说 DT》**（，）是基于日本游戏公司[卡普空开发的多人互动](https://zh.wikipedia.org/wiki/CAPCOM "wikilink")[网络游戏](../Page/网络游戏.md "wikilink")**《伊克西翁传说》**（，）所改编的电视动画。于2012年10月7日至2013年3月31日播映，全25集。同时亦有改编漫画**《伊克西翁传说 ED》**（）。
 
 ## 故事簡介
 
-這是一個被稱為「米拉」，一個萬物都蘊含著一種名為**「」**的神秘力量的異世界。
-時間正值大陸被分裂為迦古拉伯克聯邦和拉咖魯特皇國之前，森特皮利亞帝國獨占著「阿爾瑪」力量，圍繞著「阿爾瑪」而展開的戰爭之影正悄然降臨的時代。
-為了迴避森特皮利亞帝國和與之對立的反體制派的衝突，森特皮利亞帝國皇帝決定與在反體制派中被稱為急先鋒的迦古拉伯克卿政治聯姻，讓自己的女兒——第36皇女**愛卡爾拉特公主**與迦古拉伯克卿結婚。
-為了出嫁而踏上了極秘旅程的愛卡爾拉特公主，受到不明人物的襲擊，而其隨從幾乎全軍覆沒，剩下來的只有充當護衛的騎士和女僕而已。陷入絕境的公主一行人，被因為某種特殊原因而突然從天而降的主人公**火風紺**所救了。
-在這之後，紺為了找到回到原來世界的方法，便與公主一行人一起踏上了前往都城的旅途。可是反對這場政治聯姻的敵對勢力，為了阻撓這場婚禮而盯上了公主一行人的性命。
-為了能讓公主平安出嫁，他們必須不斷突破敵人的阻礙，向都城前進。 \[1\]
+這是一個被稱為「米拉」，一個萬物都蘊含著一種名為**「」**的神秘力量的異世界。 時間正值大陸被分裂為迦古拉伯克聯邦和拉咖魯特皇國之前，森特皮利亞帝國獨占著「阿爾瑪」力量，圍繞著「阿爾瑪」而展開的戰爭之影正悄然降臨的時代。 為了迴避森特皮利亞帝國和與之對立的反體制派的衝突，森特皮利亞帝國皇帝決定與在反體制派中被稱為急先鋒的迦古拉伯克卿政治聯姻，讓自己的女兒——第36皇女**愛卡爾拉特公主**與迦古拉伯克卿結婚。 為了出嫁而踏上了極秘旅程的愛卡爾拉特公主，受到不明人物的襲擊，而其隨從幾乎全軍覆沒，剩下來的只有充當護衛的騎士和女僕而已。陷入絕境的公主一行人，被因為某種特殊原因而突然從天而降的主人公**火風紺**所救了。 在這之後，紺為了找到回到原來世界的方法，便與公主一行人一起踏上了前往都城的旅途。可是反對這場政治聯姻的敵對勢力，為了阻撓這場婚禮而盯上了公主一行人的性命。 為了能讓公主平安出嫁，他們必須不斷突破敵人的阻礙，向都城前進。 \[1\]
 
 ## 登場人物
 
@@ -219,8 +212,7 @@ ED》**（）。
   - 美術設定：青木薫
   - 攝影監督：大熊義明
   - 編輯：瀬山武司
-  - 音樂：[Elements
-    Garden](../Page/Elements_Garden.md "wikilink")（[藤田淳平](../Page/藤田淳平.md "wikilink")、[藤間仁](../Page/藤間仁.md "wikilink")）
+  - 音樂：[Elements Garden](../Page/Elements_Garden.md "wikilink")（[藤田淳平](../Page/藤田淳平.md "wikilink")、[藤間仁](../Page/藤間仁.md "wikilink")）
   - 執行製作人：磯山敦、杉浦一徳、八田紳作、難波秀行、永瀬智人、津田好久
   - 企劃：古川陽子、小野義徳、山田昇、真木太郎
   - 製作人：川原陽子、早川泰彦、清水美佳、大野亮介、森尻和明
@@ -239,8 +231,7 @@ ED》**（）。
 <!-- end list -->
 
   -
-    作詞：[鬼龍院翔](../Page/Golden_Bomber.md "wikilink")、やしきん、山田くも，作曲：鬼龍院翔，編曲：鬼龍院翔、tatsuo，歌詞標記：高松信司，歌：ゴールデン・イクシオン・ボンバー
-    DT
+    作詞：[鬼龍院翔](../Page/Golden_Bomber.md "wikilink")、やしきん、山田くも，作曲：鬼龍院翔，編曲：鬼龍院翔、tatsuo，歌詞標記：高松信司，歌：ゴールデン・イクシオン・ボンバー DT
     參與角色：火風紺（[江口拓也](../Page/江口拓也.md "wikilink")）、森格倫（[中井和哉](../Page/中井和哉.md "wikilink")）、瑪麗安（[福山潤](../Page/福山潤.md "wikilink")）、愛卡爾拉特公主（[三上枝織](../Page/三上枝織.md "wikilink")）、佩特（[細谷佳正](../Page/細谷佳正.md "wikilink")）
 
 <!-- end list -->
@@ -250,8 +241,7 @@ ED》**（）。
 <!-- end list -->
 
   -
-    作詞：鬼龍院翔、やしきん、山田くも，作曲：鬼龍院翔，編曲：鬼龍院翔、tatsuo，歌詞標記：高松信司，歌：ゴールデン・イクシオン・ボンバー
-    DT
+    作詞：鬼龍院翔、やしきん、山田くも，作曲：鬼龍院翔，編曲：鬼龍院翔、tatsuo，歌詞標記：高松信司，歌：ゴールデン・イクシオン・ボンバー DT
 
   - 片尾曲
 
@@ -633,8 +623,7 @@ ED》**（）。
 ## 漫畫
 
   - 伊克西翁傳說 ED
-    『[Comic
-    ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")』（[一迅社](../Page/一迅社.md "wikilink")）從2012年11月號連載至2014年2月號。作畫為。
+    『[Comic ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")』（[一迅社](../Page/一迅社.md "wikilink")）從2012年11月號連載至2014年2月號。作畫為。
     講述由艾樂庫為主軸的故事。
 
 ## 參考資料
@@ -649,12 +638,6 @@ ED》**（）。
   - [『伊克西翁傳說』 遊戲官方網站](http://cog.ixion-saga.jp/)
 
   -
-[Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:卡普空動畫作品](https://zh.wikipedia.org/wiki/Category:卡普空動畫作品 "wikilink")
-[Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
+[Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:卡普空動畫作品](https://zh.wikipedia.org/wiki/Category:卡普空動畫作品 "wikilink") [Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
 
 1.  [作品概要－官網](http://ixion-saga-anime.jp/introduction.html)

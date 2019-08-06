@@ -1,5 +1,4 @@
-Web Services 可以将应用程序转换为网络应用程序，以便于您的应用程序可以向全世界发布信息，或提供某项功能 基本的 Web
-Services 平台是 XML+HTTP。
+Web Services 可以将应用程序转换为网络应用程序，以便于您的应用程序可以向全世界发布信息，或提供某项功能 基本的 Web Services 平台是 XML+HTTP。
 
 ## Web Services 简介
 
@@ -25,8 +24,7 @@ Web Services 通过 Web 进行发布、查找和使用。
 
 ### 它如何工作
 
-基础的 Web Services 平台是 XML + HTTP。XML 提供了一种可用于不同的平台和编程语言之间的语言。HTTP
-协议是最常用的因特网协议。Web services 平台的元素：
+基础的 Web Services 平台是 XML + HTTP。XML 提供了一种可用于不同的平台和编程语言之间的语言。HTTP 协议是最常用的因特网协议。Web services 平台的元素：
 
   - SOAP (简易对象访问协议)
   - UDDI (通用描述、发现及整合)
@@ -40,8 +38,7 @@ Web Services 通过 Web 进行发布、查找和使用。
 
 由于所有主要的平台均可通过 Web 浏览器来访问 Web，不同的平台可以借此进行交互。为了让这些平台协同工作，Web 应用程序被开发了出来。
 Web 应用程序是运行在 Web 上的简易应用程序。它们围绕 Web 浏览器标准被进行构建，几乎可被任何平台之上的任何浏览器来使用。
-\=== Web services 把 Web 应用程序提升到了另外一个层面 === 通过使用 Web
-services，您的应用程序可向全世界发布功能或消息。
+\=== Web services 把 Web 应用程序提升到了另外一个层面 === 通过使用 Web services，您的应用程序可向全世界发布功能或消息。
 Web services 使用 XML 来编解码数据，并使用 SOAP 借由开放的协议来传输数据。
 通过 Web services，您的会计部门的 Win 2k 服务器可与 IT 供应商的 UNIX 服务器进行连接。
 \=== Web services 有两种类型的应用 === **重复使用的应用程序组件**
@@ -129,8 +126,7 @@ end class
 
 ### ASP.NET 的自动化处理
 
-通过 ASP.NET，你不必亲自编写 WSDL 和 SOAP 文档。 如果您仔细研究我们的这个例子，您会发现 ASP.NET 会自动创建
-WSDL 和 SOAP 请求。
+通过 ASP.NET，你不必亲自编写 WSDL 和 SOAP 文档。 如果您仔细研究我们的这个例子，您会发现 ASP.NET 会自动创建 WSDL 和 SOAP 请求。
 
 ## 参考资料
 

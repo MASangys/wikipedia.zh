@@ -13,21 +13,11 @@ IP核分为软核、硬核和固核。软核通常是与工艺无关、具有[�
   -
 ## 外部链接
 
-  - [Open cores](http://www.opencores.org) "design and publish core"
-    (under LGPL Licence)
-  - [Altera
-    cores](https://web.archive.org/web/20120828201040/http://www.altera.com/products/ip/ref-index.jsp)
-    Free reference IP cores for FPGAs
-  - [Open Source Semiconductor Core Licensing, 25 Harvard Journal of Law
-    & Technology 131
-    (2011)](http://jolt.law.harvard.edu/articles/pdf/v25/25HarvJLTech131.pdf)
-    Article analyzing the law, technology and business of open source
-    semiconductor cores
+  - [Open cores](http://www.opencores.org) "design and publish core" (under LGPL Licence)
+  - [Altera cores](https://web.archive.org/web/20120828201040/http://www.altera.com/products/ip/ref-index.jsp) Free reference IP cores for FPGAs
+  - [Open Source Semiconductor Core Licensing, 25 Harvard Journal of Law & Technology 131 (2011)](http://jolt.law.harvard.edu/articles/pdf/v25/25HarvJLTech131.pdf) Article analyzing the law, technology and business of open source semiconductor cores
 
-[Category:电子设计自动化](https://zh.wikipedia.org/wiki/Category:电子设计自动化 "wikilink")
-[Category:半导体IP核](https://zh.wikipedia.org/wiki/Category:半导体IP核 "wikilink")
-[Category:逻辑设计](https://zh.wikipedia.org/wiki/Category:逻辑设计 "wikilink")
-[Category:半导体元件制程](https://zh.wikipedia.org/wiki/Category:半导体元件制程 "wikilink")
+[Category:电子设计自动化](https://zh.wikipedia.org/wiki/Category:电子设计自动化 "wikilink") [Category:半导体IP核](https://zh.wikipedia.org/wiki/Category:半导体IP核 "wikilink") [Category:逻辑设计](https://zh.wikipedia.org/wiki/Category:逻辑设计 "wikilink") [Category:半导体元件制程](https://zh.wikipedia.org/wiki/Category:半导体元件制程 "wikilink")
 
 1.
 2.

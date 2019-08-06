@@ -165,9 +165,7 @@
   - 編劇：[岡田惠和](../Page/岡田惠和.md "wikilink")
   - 音樂：\[2\]\[3\]
   - 導演：[堤幸彦](../Page/堤幸彦.md "wikilink")
-  - 主題歌：[YUKI](../Page/YUKI_\(歌手\).md "wikilink")《[STARMANN](../Page/STARMANN.md "wikilink")》（[Epic
-    Records
-    Japan](https://zh.wikipedia.org/wiki/Epic_Records_Japan "wikilink")）\[4\]
+  - 主題歌：[YUKI](../Page/YUKI_\(歌手\).md "wikilink")《[STARMANN](../Page/STARMANN.md "wikilink")》（[Epic Records Japan](https://zh.wikipedia.org/wiki/Epic_Records_Japan "wikilink")）\[4\]
   - 編劇STAFF：中村千明
   - 助導：日高貴士、稲留武
   - 標題：熊本直樹、木村康次郎
@@ -306,18 +304,7 @@
   - [富士電視台官方網站](http://www.fujitv.co.jp/tc/d_13_16.html)
   - [緯來日本台官方網站](http://japan.vl.com.tw/channel/StarMan/)
 
-[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink")
-[Category:日本家庭劇](https://zh.wikipedia.org/wiki/Category:日本家庭劇 "wikilink")
-[Category:育兒題材作品](https://zh.wikipedia.org/wiki/Category:育兒題材作品 "wikilink")
-[Category:山梨縣背景作品](https://zh.wikipedia.org/wiki/Category:山梨縣背景作品 "wikilink")
-[Category:人與外星生物接觸題材電視劇](https://zh.wikipedia.org/wiki/Category:人與外星生物接觸題材電視劇 "wikilink")
-[Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink")
-[Category:Horipro電視劇](https://zh.wikipedia.org/wiki/Category:Horipro電視劇 "wikilink")
-[Category:岡田惠和劇本作品](https://zh.wikipedia.org/wiki/Category:岡田惠和劇本作品 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:廣末涼子](https://zh.wikipedia.org/wiki/Category:廣末涼子 "wikilink")
-[Category:姊弟戀題材電視劇](https://zh.wikipedia.org/wiki/Category:姊弟戀題材電視劇 "wikilink")
+[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink") [Category:日本家庭劇](https://zh.wikipedia.org/wiki/Category:日本家庭劇 "wikilink") [Category:育兒題材作品](https://zh.wikipedia.org/wiki/Category:育兒題材作品 "wikilink") [Category:山梨縣背景作品](https://zh.wikipedia.org/wiki/Category:山梨縣背景作品 "wikilink") [Category:人與外星生物接觸題材電視劇](https://zh.wikipedia.org/wiki/Category:人與外星生物接觸題材電視劇 "wikilink") [Category:日本愛情劇](https://zh.wikipedia.org/wiki/Category:日本愛情劇 "wikilink") [Category:Horipro電視劇](https://zh.wikipedia.org/wiki/Category:Horipro電視劇 "wikilink") [Category:岡田惠和劇本作品](https://zh.wikipedia.org/wiki/Category:岡田惠和劇本作品 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:廣末涼子](https://zh.wikipedia.org/wiki/Category:廣末涼子 "wikilink") [Category:姊弟戀題材電視劇](https://zh.wikipedia.org/wiki/Category:姊弟戀題材電視劇 "wikilink")
 
 1.
 

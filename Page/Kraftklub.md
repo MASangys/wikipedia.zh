@@ -1,12 +1,8 @@
-**Kraftklub**
-是一支来自[德国](../Page/德国.md "wikilink")开姆尼茨的五人乐队，他们的音乐结合了[独立摇滚](../Page/独立摇滚.md "wikilink")与德语[诵唱](https://zh.wikipedia.org/wiki/Sprechgesang "wikilink")，普遍被认为是[独立音乐与](../Page/獨立音樂.md "wikilink")
-[Rap](../Page/饒舌.md "wikilink") 的混合\[1\]。
+**Kraftklub** 是一支来自[德国](../Page/德国.md "wikilink")开姆尼茨的五人乐队，他们的音乐结合了[独立摇滚](../Page/独立摇滚.md "wikilink")与德语[诵唱](https://zh.wikipedia.org/wiki/Sprechgesang "wikilink")，普遍被认为是[独立音乐与](../Page/獨立音樂.md "wikilink") [Rap](../Page/饒舌.md "wikilink") 的混合\[1\]。
 
 ## 作品目录
 
-[Kraftklub-2.jpg](https://zh.wikipedia.org/wiki/File:Kraftklub-2.jpg "fig:Kraftklub-2.jpg")
-[Kraftklub_(172).JPG](https://zh.wikipedia.org/wiki/File:Kraftklub_\(172\).JPG "fig:Kraftklub_(172).JPG")
-[Kraftklub,_Kosmonaut_Festival.jpg](https://zh.wikipedia.org/wiki/File:Kraftklub,_Kosmonaut_Festival.jpg "fig:Kraftklub,_Kosmonaut_Festival.jpg")
+[Kraftklub-2.jpg](https://zh.wikipedia.org/wiki/File:Kraftklub-2.jpg "fig:Kraftklub-2.jpg") [Kraftklub_(172).JPG](https://zh.wikipedia.org/wiki/File:Kraftklub_\(172\).JPG "fig:Kraftklub_(172).JPG") [Kraftklub,_Kosmonaut_Festival.jpg](https://zh.wikipedia.org/wiki/File:Kraftklub,_Kosmonaut_Festival.jpg "fig:Kraftklub,_Kosmonaut_Festival.jpg")
 
 ### 录音室专辑
 
@@ -42,7 +38,6 @@
   - 2017: "Am Ende"
   - 2018: "Liebe zu Dritt"
 
-[Category:德国摇滚乐团](https://zh.wikipedia.org/wiki/Category:德国摇滚乐团 "wikilink")
-[Category:萨克森州](https://zh.wikipedia.org/wiki/Category:萨克森州 "wikilink")
+[Category:德国摇滚乐团](https://zh.wikipedia.org/wiki/Category:德国摇滚乐团 "wikilink") [Category:萨克森州](https://zh.wikipedia.org/wiki/Category:萨克森州 "wikilink")
 
 1.

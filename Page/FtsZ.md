@@ -1,8 +1,6 @@
 [PDB_1fsz_EBI.jpg](https://zh.wikipedia.org/wiki/File:PDB_1fsz_EBI.jpg "fig:PDB_1fsz_EBI.jpg")
 
-**FtsZ**是一种由[细菌](../Page/细菌.md "wikilink")*ftsZ*[基因](../Page/基因.md "wikilink")编码的[蛋白质](../Page/蛋白质.md "wikilink")，组装在接下来会发生[细胞分裂](../Page/细胞分裂.md "wikilink")，形成隔板的Z-环上，同时该蛋白也是[真核生物](../Page/真核生物.md "wikilink")[微管蛋白](../Page/微管蛋白.md "wikilink")在[原核生物](../Page/原核生物.md "wikilink")中的[同源](../Page/同源.md "wikilink")物。FtsZ以“长丝的温度敏感突变体Z”（"**F**ilamenting
-**t**emperature-**s**ensitive mutant
-**Z**"）命名。这个名字是基于*[大肠杆菌](https://zh.wikipedia.org/wiki/大肠杆菌 "wikilink")*的细胞分裂突变体会因为两个子细胞无法分离而变成长丝状的假设。
+**FtsZ**是一种由[细菌](../Page/细菌.md "wikilink")*ftsZ*[基因](../Page/基因.md "wikilink")编码的[蛋白质](../Page/蛋白质.md "wikilink")，组装在接下来会发生[细胞分裂](../Page/细胞分裂.md "wikilink")，形成隔板的Z-环上，同时该蛋白也是[真核生物](../Page/真核生物.md "wikilink")[微管蛋白](../Page/微管蛋白.md "wikilink")在[原核生物](../Page/原核生物.md "wikilink")中的[同源](../Page/同源.md "wikilink")物。FtsZ以“长丝的温度敏感突变体Z”（"**F**ilamenting **t**emperature-**s**ensitive mutant **Z**"）命名。这个名字是基于*[大肠杆菌](https://zh.wikipedia.org/wiki/大肠杆菌 "wikilink")*的细胞分裂突变体会因为两个子细胞无法分离而变成长丝状的假设。
 
 ## 历史
 
@@ -24,10 +22,5 @@
 [Category:细胞骨架](https://zh.wikipedia.org/wiki/Category:细胞骨架 "wikilink")
 
 1.
-2.  R. Strepp, S. Scholz, S. Kruse, V. Speth, [R.
-    Reski](https://zh.wikipedia.org/wiki/Ralf_Reski "wikilink") (1998):
-    Plant nuclear gene knockout reveals a role in plastid division for
-    the homolog of the bacterial cell division protein FtsZ, an
-    ancestral tubulin. Proceedings of the National Academy of Science
-    USA 95: 4368–4373.
+2.  R. Strepp, S. Scholz, S. Kruse, V. Speth, [R. Reski](https://zh.wikipedia.org/wiki/Ralf_Reski "wikilink") (1998): Plant nuclear gene knockout reveals a role in plastid division for the homolog of the bacterial cell division protein FtsZ, an ancestral tubulin. Proceedings of the National Academy of Science USA 95: 4368–4373.
 3.

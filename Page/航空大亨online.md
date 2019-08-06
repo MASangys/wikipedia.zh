@@ -36,6 +36,4 @@
 18. 新增飛機"喜好度"功能
 19. 新增機場(如:[北韓](https://zh.wikipedia.org/wiki/北韓 "wikilink")[平壤](../Page/平壤.md "wikilink")、[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[襄陽](../Page/襄陽郡_\(韓國\).md "wikilink")、[木浦](https://zh.wikipedia.org/wiki/木浦 "wikilink")、[大邱](https://zh.wikipedia.org/wiki/大邱 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[凱恩斯](../Page/凱恩斯_\(昆士蘭州\).md "wikilink")......)
 
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:经营模拟游戏](https://zh.wikipedia.org/wiki/Category:经营模拟游戏 "wikilink")
+[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:经营模拟游戏](https://zh.wikipedia.org/wiki/Category:经营模拟游戏 "wikilink")

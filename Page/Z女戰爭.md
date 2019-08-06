@@ -35,8 +35,7 @@
 3.  **みてみて☆こっちっち** \[3:52\]
       -
         作詞：、作曲・編曲：[田中宏和](../Page/田中宏和.md "wikilink")
-        [東京電視台](../Page/東京電視台.md "wikilink")系動畫『[神奇寶貝超級願望](../Page/神奇寶貝超級願望.md "wikilink")』・『[神奇寶貝BestWishes
-        Season2](../Page/神奇寶貝超級願望.md "wikilink")』片尾曲、神奇寶貝短編電影『[メロエッタのキラキラリサイタル](https://zh.wikipedia.org/wiki/メロエッタのキラキラリサイタル "wikilink")』片尾曲
+        [東京電視台](../Page/東京電視台.md "wikilink")系動畫『[神奇寶貝超級願望](../Page/神奇寶貝超級願望.md "wikilink")』・『[神奇寶貝BestWishes Season2](../Page/神奇寶貝超級願望.md "wikilink")』片尾曲、神奇寶貝短編電影『[メロエッタのキラキラリサイタル](https://zh.wikipedia.org/wiki/メロエッタのキラキラリサイタル "wikilink")』片尾曲
 4.  Z女戦争（off vocal ver.）
 5.  PUSH（off vocal ver.）
 6.  みてみて☆こっちっち（off vocal ver.）
@@ -47,14 +46,9 @@
 
   -
   -
-  - [2012年6月27日　8th單曲『Ｚ女戰爭』發售詳細決定\!](https://web.archive.org/web/20120701094031/http://www.momoclo.net/discography/discography.html#single0627)
-    - 桃色幸運草Z官方網站 - 唱片
+  - [2012年6月27日　8th單曲『Ｚ女戰爭』發售詳細決定\!](https://web.archive.org/web/20120701094031/http://www.momoclo.net/discography/discography.html#single0627) - 桃色幸運草Z官方網站 - 唱片
 
-[Category:桃色幸運草Z歌曲](https://zh.wikipedia.org/wiki/Category:桃色幸運草Z歌曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
-[Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
-[Category:精靈寶可夢歌曲](https://zh.wikipedia.org/wiki/Category:精靈寶可夢歌曲 "wikilink")
+[Category:桃色幸運草Z歌曲](https://zh.wikipedia.org/wiki/Category:桃色幸運草Z歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:精靈寶可夢歌曲](https://zh.wikipedia.org/wiki/Category:精靈寶可夢歌曲 "wikilink")
 
 1.
 

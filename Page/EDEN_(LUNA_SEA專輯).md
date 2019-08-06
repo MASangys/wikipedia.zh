@@ -40,10 +40,8 @@
 
 ## 參考資料
 
-  - BAND SCORE LUNA SEA / EDEN（DOREMI樂譜出版社，1995年3月30日出版，日文）ISBN
-    4-8108-3897-8
+  - BAND SCORE LUNA SEA / EDEN（DOREMI樂譜出版社，1995年3月30日出版，日文）ISBN 4-8108-3897-8
 
 <references/>
 
-[Category:1993年音樂專輯](https://zh.wikipedia.org/wiki/Category:1993年音樂專輯 "wikilink")
-[Category:月之海專輯](https://zh.wikipedia.org/wiki/Category:月之海專輯 "wikilink")
+[Category:1993年音樂專輯](https://zh.wikipedia.org/wiki/Category:1993年音樂專輯 "wikilink") [Category:月之海專輯](https://zh.wikipedia.org/wiki/Category:月之海專輯 "wikilink")

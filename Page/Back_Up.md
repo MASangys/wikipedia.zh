@@ -1,5 +1,4 @@
-《**Back
-Up**》是[許志安](../Page/許志安.md "wikilink")的個人音樂專輯，於2004年10月29日推出。此專輯的包裝為立體封面，同步還發行了[SACD](https://zh.wikipedia.org/wiki/SACD "wikilink")。
+《**Back Up**》是[許志安](../Page/許志安.md "wikilink")的個人音樂專輯，於2004年10月29日推出。此專輯的包裝為立體封面，同步還發行了[SACD](https://zh.wikipedia.org/wiki/SACD "wikilink")。
 
 ## 曲目
 
@@ -56,6 +55,4 @@ Up**》是[許志安](../Page/許志安.md "wikilink")的個人音樂專輯，�
   - 2004年度十大勁歌金曲頒獎典禮 - 十大勁歌金曲《美中不足》
   - 第二十七屆十大中文金曲頒獎音樂會 - 十大中文金曲《美中不足》
 
-[Category:許志安音樂專輯](https://zh.wikipedia.org/wiki/Category:許志安音樂專輯 "wikilink")
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:許志安音樂專輯](https://zh.wikipedia.org/wiki/Category:許志安音樂專輯 "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

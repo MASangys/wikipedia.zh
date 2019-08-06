@@ -4,8 +4,7 @@
 
 《迷惘》班底
 
-  - 作曲：[Chris
-    Spheeris](https://zh.wikipedia.org/wiki/Chris_Spheeris "wikilink")
+  - 作曲：[Chris Spheeris](https://zh.wikipedia.org/wiki/Chris_Spheeris "wikilink")
   - 填詞：[鄭國江](../Page/鄭國江.md "wikilink")
   - 編曲：[溫應鴻](../Page/溫應鴻.md "wikilink")
   - 監製：[陳永明](https://zh.wikipedia.org/wiki/陳永明_\(音樂人\) "wikilink")
@@ -56,7 +55,4 @@
 
 ## 獎項
 
-[Category:王秀琳音樂專輯](https://zh.wikipedia.org/wiki/Category:王秀琳音樂專輯 "wikilink")
-[Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:王秀琳音樂專輯](https://zh.wikipedia.org/wiki/Category:王秀琳音樂專輯 "wikilink") [Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

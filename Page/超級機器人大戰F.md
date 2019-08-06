@@ -12,23 +12,13 @@
 
 ### PlayStation版
 
-[Super_Robot_Wars_F_(PS).jpg](https://zh.wikipedia.org/wiki/File:Super_Robot_Wars_F_\(PS\).jpg "fig:Super_Robot_Wars_F_(PS).jpg")
-[Super_Robot_Wars_F_Final_(PS).jpg](https://zh.wikipedia.org/wiki/File:Super_Robot_Wars_F_Final_\(PS\).jpg "fig:Super_Robot_Wars_F_Final_(PS).jpg")
-[世嘉土星](../Page/世嘉土星.md "wikilink")版（下稱SS版）發售大約1年後便移植到[PlayStation](../Page/PlayStation.md "wikilink")。SS
-版的“F”到“F完结篇”的变更统一为“F完结篇”的版本式样。
+[Super_Robot_Wars_F_(PS).jpg](https://zh.wikipedia.org/wiki/File:Super_Robot_Wars_F_\(PS\).jpg "fig:Super_Robot_Wars_F_(PS).jpg") [Super_Robot_Wars_F_Final_(PS).jpg](https://zh.wikipedia.org/wiki/File:Super_Robot_Wars_F_Final_\(PS\).jpg "fig:Super_Robot_Wars_F_Final_(PS).jpg") [世嘉土星](../Page/世嘉土星.md "wikilink")版（下稱SS版）發售大約1年後便移植到[PlayStation](../Page/PlayStation.md "wikilink")。SS 版的“F”到“F完结篇”的变更统一为“F完结篇”的版本式样。
 
-2011年11月9日開始在PS Store 的「PS one 经典游戏」上提供《F》・《F完結篇》的付費下載。在21世纪的当下，如果要准备 SS
-版的游戏环境是有一定难度的，如果希望轻松游玩本作的话，下载经典游戏版本便可以在[PlayStation
-3和](../Page/PlayStation_3.md "wikilink")[PlayStation
-Vita上轻松游戏](../Page/PlayStation_Vita.md "wikilink")。
+2011年11月9日開始在PS Store 的「PS one 经典游戏」上提供《F》・《F完結篇》的付費下載。在21世纪的当下，如果要准备 SS 版的游戏环境是有一定难度的，如果希望轻松游玩本作的话，下载经典游戏版本便可以在[PlayStation 3和](../Page/PlayStation_3.md "wikilink")[PlayStation Vita上轻松游戏](../Page/PlayStation_Vita.md "wikilink")。
 
-对于PS1实机游戏的情况下，因為PS讀取CD-ROM的速度比SS慢，所以讀碟時間也變長，BGM的內藏音源較低劣而與SS版在編曲上有所不同（后述）。另外PS1没有内置时钟功能，因此取消了来自“[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")”的登场角色的生日祝福的事件（PS
-one 经典游戏版同样）。另外，改变了被全灭的式样，可以从地图上保存的进度状态的时候直接开始游戏。
+对于PS1实机游戏的情况下，因為PS讀取CD-ROM的速度比SS慢，所以讀碟時間也變長，BGM的內藏音源較低劣而與SS版在編曲上有所不同（后述）。另外PS1没有内置时钟功能，因此取消了来自“[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")”的登场角色的生日祝福的事件（PS one 经典游戏版同样）。另外，改变了被全灭的式样，可以从地图上保存的进度状态的时候直接开始游戏。
 
-PS版的BGM由于内置音源的关系，与SS的编曲上有所不同以外，《[機動戰士GUNDAM
-逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")》的登场角色的主题曲以及GUEST军的BOSS角色的主题曲《VIOLENT
-BATTLE》曲子本身被替换成了其他内容。另外，賽巴斯塔的主题曲《》在SS版中是基于《[超級機器人大戰外傳
-魔裝機神](../Page/超級機器人大戰外傳_魔裝機神.md "wikilink")》编曲的，PS版则是基于“[第4次超級機器人大戰](../Page/第4次超級機器人大戰.md "wikilink")”编曲。
+PS版的BGM由于内置音源的关系，与SS的编曲上有所不同以外，《[機動戰士GUNDAM 逆襲的夏亞](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")》的登场角色的主题曲以及GUEST军的BOSS角色的主题曲《VIOLENT BATTLE》曲子本身被替换成了其他内容。另外，賽巴斯塔的主题曲《》在SS版中是基于《[超級機器人大戰外傳 魔裝機神](../Page/超級機器人大戰外傳_魔裝機神.md "wikilink")》编曲的，PS版则是基于“[第4次超級機器人大戰](../Page/第4次超級機器人大戰.md "wikilink")”编曲。
 
 ## 參戰作品
 
@@ -43,11 +33,9 @@ BATTLE》曲子本身被替换成了其他内容。另外，賽巴斯塔的主�
   - [機動戰士高達](https://zh.wikipedia.org/wiki/機動戰士高達 "wikilink")（）
   - V[機動戰士高達0080：口袋中的戰爭](https://zh.wikipedia.org/wiki/機動戰士高達0080：口袋中的戰爭 "wikilink")（）
   - [機動戰士高達0083：星塵的回憶](https://zh.wikipedia.org/wiki/機動戰士高達0083：星塵的回憶 "wikilink")（）
-  - [機動戰士Ζ
-    GUNDAM](https://zh.wikipedia.org/wiki/機動戰士Ζ_GUNDAM "wikilink")（）
+  - [機動戰士Ζ GUNDAM](https://zh.wikipedia.org/wiki/機動戰士Ζ_GUNDAM "wikilink")（）
   - [機動戰士高達ZZ](https://zh.wikipedia.org/wiki/機動戰士高達ZZ "wikilink")（）
-  - [機動戰士高達
-    馬沙之反擊](https://zh.wikipedia.org/wiki/機動戰士高達_馬沙之反擊 "wikilink")（）
+  - [機動戰士高達 馬沙之反擊](https://zh.wikipedia.org/wiki/機動戰士高達_馬沙之反擊 "wikilink")（）
   - [機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")（）
   - [機動武鬥傳G 高達](https://zh.wikipedia.org/wiki/機動武鬥傳G_高達 "wikilink")（）
   - ☆[新機動戰記高達W](https://zh.wikipedia.org/wiki/新機動戰記高達W "wikilink")（）
@@ -59,20 +47,16 @@ BATTLE》曲子本身被替换成了其他内容。另外，賽巴斯塔的主�
   - [三一萬能俠](https://zh.wikipedia.org/wiki/三一萬能俠 "wikilink")（）
   - [三一萬能俠G](https://zh.wikipedia.org/wiki/三一萬能俠G "wikilink")（）
   - [真三一萬能俠（原作漫畫版）](https://zh.wikipedia.org/wiki/真三一萬能俠 "wikilink")（）
-  - [超電磁機器人
-    孔巴德拉V](https://zh.wikipedia.org/wiki/超電磁機器人_孔巴德拉V "wikilink")（）
+  - [超電磁機器人 孔巴德拉V](https://zh.wikipedia.org/wiki/超電磁機器人_孔巴德拉V "wikilink")（）
   - ★[飛越巔峰](../Page/飛越巔峰.md "wikilink")（）
 
 ### 解說
 
-《**新世紀福音戰士**》、《**傳說巨神伊迪安**》、《**飛越巔峰**》3部作品為初參戰。為了配合故事規模較大的《新世紀福音戰士》，因此採用了同樣故事規模較大的《傳說巨神伊迪安》\[4\]。另外，跟《新世紀福音戰士》同樣為[GAINAX](../Page/GAINAX.md "wikilink")製作的《飛越巔峰》則因版權因素而被採用\[5\]。雖然沒有作出官方公布，但《[新機動戰記GUNDAM
-W
-無盡的華爾茲](../Page/新機動戰記GUNDAM_W_無盡的華爾茲.md "wikilink")》的飛翼高達零式和-{zh-hans:托尔吉斯;zh-hk:多魯基斯;zh-tw:托爾吉斯;}-III亦有登場。本作也是[魔神皇帝](../Page/魔神皇帝.md "wikilink")的初登場作品。
+《**新世紀福音戰士**》、《**傳說巨神伊迪安**》、《**飛越巔峰**》3部作品為初參戰。為了配合故事規模較大的《新世紀福音戰士》，因此採用了同樣故事規模較大的《傳說巨神伊迪安》\[4\]。另外，跟《新世紀福音戰士》同樣為[GAINAX](../Page/GAINAX.md "wikilink")製作的《飛越巔峰》則因版權因素而被採用\[5\]。雖然沒有作出官方公布，但《[新機動戰記GUNDAM W 無盡的華爾茲](../Page/新機動戰記GUNDAM_W_無盡的華爾茲.md "wikilink")》的飛翼高達零式和-{zh-hans:托尔吉斯;zh-hk:多魯基斯;zh-tw:托爾吉斯;}-III亦有登場。本作也是[魔神皇帝](../Page/魔神皇帝.md "wikilink")的初登場作品。
 
 相反，《第4次》有參戰的《[金剛戰神](../Page/金剛戰神.md "wikilink")》、《[勇者萊汀](https://zh.wikipedia.org/wiki/勇者萊汀 "wikilink")》、《[鬥將戴摩斯](https://zh.wikipedia.org/wiki/鬥將戴摩斯 "wikilink")》、《[無敵超人珍寶3](https://zh.wikipedia.org/wiki/無敵超人珍寶3 "wikilink")》等4部作品則沒有登場。特別是《巨靈神》、《勇者雷登》在《第3次》和《EX》也有登場，但在本作卻完全沒有被提及\[6\]。
 
-由於結局在《F完結篇》才交代，影響到《傳說巨神伊迪安》、《飛越巔峰》要在《F完結篇》才正式登場。另外《鐵甲萬能俠2號》、《機動戰士高達ZZ》、《機動戰士GUNDAM
-F91》、《機動戰士高達 馬沙之反擊》、《無敵鋼人泰坦3》等作品的主角級機體也是在《F完結篇》才登場。
+由於結局在《F完結篇》才交代，影響到《傳說巨神伊迪安》、《飛越巔峰》要在《F完結篇》才正式登場。另外《鐵甲萬能俠2號》、《機動戰士高達ZZ》、《機動戰士GUNDAM F91》、《機動戰士高達 馬沙之反擊》、《無敵鋼人泰坦3》等作品的主角級機體也是在《F完結篇》才登場。
 
 《新世紀福音戰士》、《傳說巨神伊迪安》的悲慘結局在本作沒有被正式採用。但是根據路線分歧及達成特定條件，便可以觀看為《新世紀福音戰士》設定的結局。《傳說巨神伊迪安》方面，若使伊甸（）暴走再將伊迪安擊破的話，會出現跟原作一樣宇宙萬物被伊甸吹飛至「」的結局。另外，SS版中若在玩家生日起動遊戲，《新世紀福音戰士》的主角會出現，像電視版最終回般各玩家作出祝福。
 
@@ -208,8 +192,7 @@ F91》、《機動戰士高達 馬沙之反擊》、《無敵鋼人泰坦3》等
 ## 主題歌
 
   - 印象曲「」
-    作詞：[渡邊宙明](https://zh.wikipedia.org/wiki/渡邊宙明 "wikilink") &
-    ROBONATION青年團
+    作詞：[渡邊宙明](https://zh.wikipedia.org/wiki/渡邊宙明 "wikilink") & ROBONATION青年團
     作曲：渡邊宙明
     編曲：渡邊宙明、坂本洋
     歌：[水木一郎](../Page/水木一郎.md "wikilink")
@@ -237,8 +220,7 @@ F91》、《機動戰士高達 馬沙之反擊》、《無敵鋼人泰坦3》等
 
 :; 神谷教官版本
 
-::神谷明擔任穿著軍服教官指導擔任機器人大戰新人[千葉れみ](https://zh.wikipedia.org/wiki/千葉れみ "wikilink")。由於神谷明在過去聲演了眾多機器人動畫的主人公，因此被設定為機器人大戰的教官。這段CM是由《全超級機器人大戰
-電視大百科》、PS版《超級機器人大戰F》、PS版《超級機器人大戰F完結篇》共3部構成的。另外PS版《F》的廣告中製作人寺田貴信飾演整備士。
+::神谷明擔任穿著軍服教官指導擔任機器人大戰新人[千葉れみ](https://zh.wikipedia.org/wiki/千葉れみ "wikilink")。由於神谷明在過去聲演了眾多機器人動畫的主人公，因此被設定為機器人大戰的教官。這段CM是由《全超級機器人大戰 電視大百科》、PS版《超級機器人大戰F》、PS版《超級機器人大戰F完結篇》共3部構成的。另外PS版《F》的廣告中製作人寺田貴信飾演整備士。
 
 :; 遊戲映像版本
 
@@ -256,8 +238,7 @@ F91》、《機動戰士高達 馬沙之反擊》、《無敵鋼人泰坦3》等
 ### 漫畫
 
   - スーパーロボット大戦F 4コマギャグバトル
-    1998年1月1日初版、[光文社](https://zh.wikipedia.org/wiki/光文社 "wikilink")、火の玉ゲームコミックシリーズ。ISBN
-    9784334804084
+    1998年1月1日初版、[光文社](https://zh.wikipedia.org/wiki/光文社 "wikilink")、火の玉ゲームコミックシリーズ。ISBN 9784334804084
     數名作家的《超級機器人大戰F》二次創作4格漫畫。
   - スーパーロボット大戦F完結編 4コマギャグバトル
     1998年8月10日初版、光文社、火の玉ゲームコミックシリーズ。ISBN 9784334804275
@@ -269,8 +250,7 @@ F91》、《機動戰士高達 馬沙之反擊》、《無敵鋼人泰坦3》等
     1998年9月10日初版、光文社、火の玉ゲームコミックシリーズ。ISBN 9784334804312
     數名作家的《超級機器人大戰F完結編》二次創作短篇漫畫。
   - スーパーロボット大戦Fコミック
-    1998年1月15日初版、[双葉社](https://zh.wikipedia.org/wiki/双葉社 "wikilink")、アクションコミックス。ISBN
-    9784575935448
+    1998年1月15日初版、[双葉社](https://zh.wikipedia.org/wiki/双葉社 "wikilink")、アクションコミックス。ISBN 9784575935448
     超級機器人大戰漫畫系列的第3卷。收錄了數名漫畫家創作的，有關本作的4格漫畫和短編漫畫，以及[石川賢](../Page/石川賢.md "wikilink")的《真三一萬能俠》。
   - スーパーロボット大戦F完結編コミック
     1998年9月18日初版、双葉社、アクションコミックス。ISBN 9784575935783
@@ -282,8 +262,7 @@ F91》、《機動戰士高達 馬沙之反擊》、《無敵鋼人泰坦3》等
     1999年8月28日初版、双葉社、アクションコミックス。ISBN 9784575936360
     超級機器人大戰漫畫系列的第6卷。收錄了數名漫畫家創作的，有關本作的4格漫畫和短編漫畫，以及石川賢的《真三一萬能俠》。
   - スーパーロボット大戦F ギャグウェポン
-    1998年2月16日初版、[学習研究社](https://zh.wikipedia.org/wiki/学習研究社 "wikilink")、ノーラコミックスデラックス。ISBN
-    9784056018264
+    1998年2月16日初版、[学習研究社](https://zh.wikipedia.org/wiki/学習研究社 "wikilink")、ノーラコミックスデラックス。ISBN 9784056018264
     收錄了數名漫畫家創作的，有關本作的4格漫畫和短編漫畫，以及[津島直人](../Page/津島直人.md "wikilink")於「月刊コミックNORA」中連載二次創作短編漫畫。
   - スーパーロボット大戦F ハイパーギャグウェポン
     1998年1月17日初版、学習研究社、ノーラコミックスデラックス。ISBN 9784056020427
@@ -301,8 +280,7 @@ F91》、《機動戰士高達 馬沙之反擊》、《無敵鋼人泰坦3》等
     1999年5月21日初版、学習研究社、ノーラコミックスデラックス。ISBN 9784056020748
     收錄了數名漫畫家創作的，有關本作的4格漫畫和短編漫畫，以及津島直人於「月刊コミックNORA」中連載二次創作短編漫畫。。
   - スパロボコミックゼット
-    [ムービック](https://zh.wikipedia.org/wiki/ムービック "wikilink")。ISBN
-    9784896013665
+    [ムービック](https://zh.wikipedia.org/wiki/ムービック "wikilink")。ISBN 9784896013665
     收錄了數名漫畫家創作的，有關本作的4格漫畫和短編漫畫，但內容與遊戲本篇沒有甚麼關連。
 
 ### 攻略本
@@ -370,31 +348,20 @@ F91》、《機動戰士高達 馬沙之反擊》、《無敵鋼人泰坦3》等
 
 ## 外部連結
 
-  - [PS版超級機器人大戰F
-    介紹網頁](https://web.archive.org/web/20101026091059/http://www.banpresto.co.jp/japan/house/softb/s39/s39.htm)
-  - [PS官方網頁
-    超級機器人大戰F（通常版）介紹網頁](http://www.jp.playstation.com/software/title/slps01727.html)
-  - [PS官方網頁 超級機器人大戰F（PlayStation the
-    Best版）介紹網頁](http://www.jp.playstation.com/software/title/slps91216.html)
-  - [PS官方網頁 超級機器人大戰F（Game
-    Archives版）介紹網頁](http://www.jp.playstation.com/software/title/jp0700npjj00611_000000000000000001.html)
+  - [PS版超級機器人大戰F 介紹網頁](https://web.archive.org/web/20101026091059/http://www.banpresto.co.jp/japan/house/softb/s39/s39.htm)
+  - [PS官方網頁 超級機器人大戰F（通常版）介紹網頁](http://www.jp.playstation.com/software/title/slps01727.html)
+  - [PS官方網頁 超級機器人大戰F（PlayStation the Best版）介紹網頁](http://www.jp.playstation.com/software/title/slps91216.html)
+  - [PS官方網頁 超級機器人大戰F（Game Archives版）介紹網頁](http://www.jp.playstation.com/software/title/jp0700npjj00611_000000000000000001.html)
   - [PS版超級機器人大戰F完結篇介紹網頁](https://web.archive.org/web/20110823094228/http://www.banpresto.co.jp/japan/house/softb/s43/s43.htm)
   - [PS版超級機器人大戰F完結篇（通常版）介紹網頁](http://www.jp.playstation.com/software/title/slps01924.html)
-  - [PS版超級機器人大戰F完結篇（PlayStation the
-    Best版）介紹網頁](http://www.jp.playstation.com/software/title/slps91217.html)
-  - [PS版超級機器人大戰F完結篇（Game
-    Archives版）介紹網頁](http://www.jp.playstation.com/software/title/jp0700npjj00612_000000000000000001.html)
+  - [PS版超級機器人大戰F完結篇（PlayStation the Best版）介紹網頁](http://www.jp.playstation.com/software/title/slps91217.html)
+  - [PS版超級機器人大戰F完結篇（Game Archives版）介紹網頁](http://www.jp.playstation.com/software/title/jp0700npjj00612_000000000000000001.html)
 
-[Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink")
-[Category:世嘉土星游戏](https://zh.wikipedia.org/wiki/Category:世嘉土星游戏 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:復刻遊戲](https://zh.wikipedia.org/wiki/Category:復刻遊戲 "wikilink")
-[Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink")
+[Category:超级机器人大战系列](https://zh.wikipedia.org/wiki/Category:超级机器人大战系列 "wikilink") [Category:世嘉土星游戏](https://zh.wikipedia.org/wiki/Category:世嘉土星游戏 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:復刻遊戲](https://zh.wikipedia.org/wiki/Category:復刻遊戲 "wikilink") [Category:Comic_BomBom](https://zh.wikipedia.org/wiki/Category:Comic_BomBom "wikilink")
 
 1.  只有《機動戰士高達》的マッシュ和《聖戰士登霸》的ダー起用了代替聲優。
 2.
-3.  但是隱藏結局包括了[THE END OF
-    EVANGELION的內容](https://zh.wikipedia.org/wiki/新世紀福音戰士劇場版：THE_END_OF_EVANGELION "wikilink")。
+3.  但是隱藏結局包括了[THE END OF EVANGELION的內容](https://zh.wikipedia.org/wiki/新世紀福音戰士劇場版：THE_END_OF_EVANGELION "wikilink")。
 4.
 5.
 6.  《EX》和之後的α・Z系列中也有出現類似的情況，但後者有附上「（因為在）其他地方戰鬥著」「現在正和平地生活」等解釋。

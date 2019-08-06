@@ -1,5 +1,4 @@
-《**B'z LIVE-GYM Pleasure 2013 ENDLESS SUMMER -XXV
-BEST-**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第19張LIVE作品映像化(第17張DVD)。
+《**B'z LIVE-GYM Pleasure 2013 ENDLESS SUMMER -XXV BEST-**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第19張LIVE作品映像化(第17張DVD)。
 
 ## 簡介
 
@@ -28,8 +27,7 @@ BEST-**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第19張LIVE作�
 
   - ：[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")
 
-  - [大賀好修](../Page/大賀好修.md "wikilink")
-    ：合聲＆[吉他](../Page/吉他.md "wikilink")
+  - [大賀好修](../Page/大賀好修.md "wikilink") ：合聲＆[吉他](../Page/吉他.md "wikilink")
 
 ## 收錄內容
 
@@ -49,8 +47,7 @@ BEST-**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第19張LIVE作�
 
 1.  **[Endless Summer](../Page/有頂天.md "wikilink")**
       -
-        雖為巡迴演唱會的標題曲，但（在當時）卻是未發表的新曲。B'z王道的[硬式搖滾](../Page/硬式搖滾.md "wikilink")風格。後收錄在2015年1月發售的第51張單曲《[有頂天](../Page/有頂天.md "wikilink")》的2nd
-        beat。
+        雖為巡迴演唱會的標題曲，但（在當時）卻是未發表的新曲。B'z王道的[硬式搖滾](../Page/硬式搖滾.md "wikilink")風格。後收錄在2015年1月發售的第51張單曲《[有頂天](../Page/有頂天.md "wikilink")》的2nd beat。
 2.  **[ZERO](https://zh.wikipedia.org/wiki/ZERO "wikilink")**
       -
         在另一場的第二首演唱的是「[BLOWIN'](../Page/BLOWIN'.md "wikilink")」。
@@ -60,14 +57,11 @@ BEST-**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第19張LIVE作�
         和以往的《Pleasure 〜人生的快樂〜》同樣，第二部分的歌詞有變更。至今未發行唱片。
 4.  **[LADY NAVIGATION](../Page/LADY_NAVIGATION.md "wikilink")**
       -
-        2003年[渚園公演後](../Page/Typhoon_No.15_～B'z_LIVE-GYM_The_Final_Pleasure_"IT'S_SHOWTIME!!"_in_渚園～.md "wikilink")，10年來第一次演唱。LIVE映像首次收錄本作的FULL
-        VERSION。
+        2003年[渚園公演後](../Page/Typhoon_No.15_～B'z_LIVE-GYM_The_Final_Pleasure_"IT'S_SHOWTIME!!"_in_渚園～.md "wikilink")，10年來第一次演唱。LIVE映像首次收錄本作的FULL VERSION。
 5.  **[太陽的Komachi Angel](../Page/太陽的Komachi_Angel.md "wikilink")**（）
       -
-        「B'z SHOWCASE 2007 -B'z In Your
-        Town-」以來首次演唱。稻葉的拍手練習後緊跟着引曲。中間追加了貝斯獨奏。
-        和「[戀心
-        (KOI-GOKORO)](https://zh.wikipedia.org/wiki/ZERO "wikilink")」在不同場次交替演唱。
+        「B'z SHOWCASE 2007 -B'z In Your Town-」以來首次演唱。稻葉的拍手練習後緊跟着引曲。中間追加了貝斯獨奏。
+        和「[戀心 (KOI-GOKORO)](https://zh.wikipedia.org/wiki/ZERO "wikilink")」在不同場次交替演唱。
 6.  **[心願](../Page/心願_\(B'z單曲\).md "wikilink")**（）
       -
         開頭以增田的鍵盤獨奏開始。此版本為單曲版和專輯版混合演奏的版本。間奏的松本的結他獨奏變長了。
@@ -101,8 +95,7 @@ BEST-**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第19張LIVE作�
       -
 21. **[juice](https://zh.wikipedia.org/wiki/juice "wikilink")**
       -
-22. **[ultra
-    soul](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")**
+22. **[ultra soul](https://zh.wikipedia.org/wiki/ultra_soul "wikilink")**
       -
 
 ### Hall Tour Final公演 & Tour Documentary
@@ -121,8 +114,7 @@ BEST-**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第19張LIVE作�
       -
 6.  **[Utopia](../Page/B'z_The_Best_XXV_1999-2012.md "wikilink")**（）
       -
-7.  **[戀心
-    (KOI-GOKORO)](https://zh.wikipedia.org/wiki/ZERO "wikilink")**（）
+7.  **[戀心 (KOI-GOKORO)](https://zh.wikipedia.org/wiki/ZERO "wikilink")**（）
       -
 8.  **[HAPPINESS](../Page/SURVIVE.md "wikilink")**（）
       -
@@ -156,7 +148,4 @@ BEST-**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第19張LIVE作�
   - [B'z Official Web Site](http://bz-vermillion.com/)
   - [B'z LIVE-GYM.COM](http://www.bz-livegym.com/)
 
-[Category:B'z影像作品](https://zh.wikipedia.org/wiki/Category:B'z影像作品 "wikilink")
-[Category:在日產體育場舉行的演唱會](https://zh.wikipedia.org/wiki/Category:在日產體育場舉行的演唱會 "wikilink")
-[Category:2008年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2008年巡迴演唱會 "wikilink")
-[Category:2009年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2009年音樂相關影像作品 "wikilink")
+[Category:B'z影像作品](https://zh.wikipedia.org/wiki/Category:B'z影像作品 "wikilink") [Category:在日產體育場舉行的演唱會](https://zh.wikipedia.org/wiki/Category:在日產體育場舉行的演唱會 "wikilink") [Category:2008年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2008年巡迴演唱會 "wikilink") [Category:2009年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2009年音樂相關影像作品 "wikilink")

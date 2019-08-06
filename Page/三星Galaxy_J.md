@@ -1,6 +1,4 @@
-**三星Galaxy J**
-一款由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子](../Page/三星電子.md "wikilink")所生產的一款建構於[安卓平台的高階](https://zh.wikipedia.org/wiki/安卓 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，J代表日系的意思，分別在[日本](../Page/日本.md "wikilink")和[台灣推出](https://zh.wikipedia.org/wiki/台灣 "wikilink")。\[1\]俗稱為日版三星Galaxy
-S4。\[2\]
+**三星Galaxy J** 一款由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子](../Page/三星電子.md "wikilink")所生產的一款建構於[安卓平台的高階](https://zh.wikipedia.org/wiki/安卓 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，J代表日系的意思，分別在[日本](../Page/日本.md "wikilink")和[台灣推出](https://zh.wikipedia.org/wiki/台灣 "wikilink")。\[1\]俗稱為日版三星Galaxy S4。\[2\]
 
 日本版型號：SC-02F，台灣型號：SGH-N075T
 
@@ -24,8 +22,7 @@ S4。\[2\]
 
   - 2015年9月21日官方在J的版面貼出Lollipop使用手冊 (計畫在21日前開始)
   - 2015年10月底台灣官方回應"Galaxy J(型號:SGH-N075t)升級Android L 的更新。
-  - 2015年12月23日Galaxy J(SGH-N075t)可在kies3或smart switch更新至5.0
-    (2016年1月9日推送OTA)
+  - 2015年12月23日Galaxy J(SGH-N075t)可在kies3或smart switch更新至5.0 (2016年1月9日推送OTA)
 
 <!-- end list -->
 
@@ -65,8 +62,7 @@ S4。\[2\]
 
 [三星Galaxy J3 Pro](../Page/三星Galaxy_J3_Pro.md "wikilink")\[11\]
 
-[三星Galaxy J5
-Pro](https://zh.wikipedia.org/wiki/三星Galaxy_J5_Pro "wikilink")
+[三星Galaxy J5 Pro](https://zh.wikipedia.org/wiki/三星Galaxy_J5_Pro "wikilink")
 
 [三星Galaxy J7 Pro](../Page/三星Galaxy_J7_Pro.md "wikilink")\[12\]
 
@@ -74,14 +70,11 @@ Pro](https://zh.wikipedia.org/wiki/三星Galaxy_J5_Pro "wikilink")
 
 ### 2018年
 
-[三星Galaxy J2 Pro
-(2018)](../Page/三星Galaxy_J2_Pro_\(2018\).md "wikilink")\[14\]\[15\]
+[三星Galaxy J2 Pro (2018)](../Page/三星Galaxy_J2_Pro_\(2018\).md "wikilink")\[14\]\[15\]
 
-[三星Galaxy J4
-(2018)](../Page/三星Galaxy_J4_\(2018\).md "wikilink")\[16\]\[17\]\[18\]\[19\]
+[三星Galaxy J4 (2018)](../Page/三星Galaxy_J4_\(2018\).md "wikilink")\[16\]\[17\]\[18\]\[19\]
 
-[三星Galaxy J6
-(2018)](../Page/三星Galaxy_J6_\(2018\).md "wikilink")\[20\]\[21\]\[22\]\[23\]\[24\]
+[三星Galaxy J6 (2018)](../Page/三星Galaxy_J6_\(2018\).md "wikilink")\[20\]\[21\]\[22\]\[23\]\[24\]
 
 [三星Galaxy J8](../Page/三星Galaxy_J8.md "wikilink")\[25\]
 
@@ -91,14 +84,11 @@ Pro](https://zh.wikipedia.org/wiki/三星Galaxy_J5_Pro "wikilink")
 
 ## 參考文獻
 
-[Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink")
-[Category:平板手机](https://zh.wikipedia.org/wiki/Category:平板手机 "wikilink")
-[Category:2013年面世的手機](https://zh.wikipedia.org/wiki/Category:2013年面世的手機 "wikilink")
+[Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink") [Category:平板手机](https://zh.wikipedia.org/wiki/Category:平板手机 "wikilink") [Category:2013年面世的手機](https://zh.wikipedia.org/wiki/Category:2013年面世的手機 "wikilink")
 
 1.
 
-2.   ePrice 比價王|accessdate=2017-12-23|last=比價王|first=ePrice|work=ePrice
-    比價王|language=zh-TW}}
+2.   ePrice 比價王|accessdate=2017-12-23|last=比價王|first=ePrice|work=ePrice 比價王|language=zh-TW}}
 
 3.
 
@@ -124,23 +114,19 @@ Pro](https://zh.wikipedia.org/wiki/三星Galaxy_J5_Pro "wikilink")
 
 14.
 
-15.  ePrice 比價王|accessdate=2018-05-22|last=比價王|first=ePrice|work=ePrice
-    比價王|language=zh-TW}}
+15.  ePrice 比價王|accessdate=2018-05-22|last=比價王|first=ePrice|work=ePrice 比價王|language=zh-TW}}
 
 16.
 
-17.  ePrice 比價王|accessdate=2018-05-22|last=比價王|first=ePrice|work=ePrice
-    比價王|language=zh-TW}}
+17.  ePrice 比價王|accessdate=2018-05-22|last=比價王|first=ePrice|work=ePrice 比價王|language=zh-TW}}
 
 18.
 
-19.  ePrice 比價王|accessdate=2018-05-22|last=比價王|first=ePrice|work=ePrice
-    比價王|language=zh-TW}}
+19.  ePrice 比價王|accessdate=2018-05-22|last=比價王|first=ePrice|work=ePrice 比價王|language=zh-TW}}
 
 20.
 
-21.  ePrice 比價王|accessdate=2018-05-22|last=比價王|first=ePrice|work=ePrice
-    比價王|language=zh-TW}}
+21.  ePrice 比價王|accessdate=2018-05-22|last=比價王|first=ePrice|work=ePrice 比價王|language=zh-TW}}
 
 22.
 

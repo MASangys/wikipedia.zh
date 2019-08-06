@@ -1,5 +1,4 @@
-**BL**是[和製英語](../Page/和製英語.md "wikilink")**B**oy’s
-**L**ove的縮寫，用以代指描写[男性](../Page/男性.md "wikilink")間的[戀愛的創作類型](https://zh.wikipedia.org/wiki/戀愛 "wikilink")。
+**BL**是[和製英語](../Page/和製英語.md "wikilink")**B**oy’s **L**ove的縮寫，用以代指描写[男性](../Page/男性.md "wikilink")間的[戀愛的創作類型](https://zh.wikipedia.org/wiki/戀愛 "wikilink")。
 
 ## 范围
 
@@ -17,14 +16,11 @@ BL在日本之起源可溯及1970年代中期投入漫畫界之「24年組」。
 
 #### 1970年代末之JUNE
 
-《JUNE》是從1978年創刊的《JUN雜誌》而來，第三號後改名為《JUNE》，創刊時以[竹宮惠子](../Page/竹宮惠子.md "wikilink")的漫畫與[栗本薰](../Page/栗本薰.md "wikilink")（中島梓）的小說為主打，其他作者群尚有與[青池保子](../Page/青池保子.md "wikilink")。雜誌重點主題在於美少年，當然少不了美少年間的愛情描寫。內容圍繞著耽美氣息（在此耽美單純代表唯美）。《JUNE》曾在1979年休刊，1981年時復刊。1981年後陸續在此雜誌出現的還有[吉田秋生](../Page/吉田秋生.md "wikilink")、[波津彬子](../Page/波津彬子.md "wikilink")、等。至2004年二月號總共發行153號的《小說JUNE》休刊，改出季刊《小說JUNE
-DX》（與之前發行過的同名別冊不同），但不久後改為不定期發行。
+《JUNE》是從1978年創刊的《JUN雜誌》而來，第三號後改名為《JUNE》，創刊時以[竹宮惠子](../Page/竹宮惠子.md "wikilink")的漫畫與[栗本薰](../Page/栗本薰.md "wikilink")（中島梓）的小說為主打，其他作者群尚有與[青池保子](../Page/青池保子.md "wikilink")。雜誌重點主題在於美少年，當然少不了美少年間的愛情描寫。內容圍繞著耽美氣息（在此耽美單純代表唯美）。《JUNE》曾在1979年休刊，1981年時復刊。1981年後陸續在此雜誌出現的還有[吉田秋生](../Page/吉田秋生.md "wikilink")、[波津彬子](../Page/波津彬子.md "wikilink")、等。至2004年二月號總共發行153號的《小說JUNE》休刊，改出季刊《小說JUNE DX》（與之前發行過的同名別冊不同），但不久後改為不定期發行。
 
 #### 1980年代之Yaoi
 
-[Lesson_1_Private_Tutor.jpg](https://zh.wikipedia.org/wiki/File:Lesson_1_Private_Tutor.jpg "fig:Lesson_1_Private_Tutor.jpg")
-
-由於1970年代，承24年組發展下的少年愛敘事體系，已廣為女性讀者接納甚至使用。加上前述以女性想像中的男性間愛情，所謂「女性向男同性戀」小說為底的JUNE雜誌出版。同時原本在小群體間自費影印流通的同人誌，也開始大量印刷與流通。此時之同人誌，多半以動漫、連續劇之主角為主題，由讀者進行主觀再詮釋後，特別以男性間的感情關係為主幹創造出同人作品。此等「二次創作」之取材，常來自文本之一幕或僅是一句對話，而燃起讀者之想像繼而創作。因只有同樣閱讀過原文本之讀者，才能理解其內涵，故同人之作者即自嘲地戲稱自己的作品「沒有高潮、沒有結局、沒有意義」(ヤマなし、オチなし、イミなし)，也就是男性間情愛關係(YAOI)文化的開端\[3\]。在1979年由[波津彬子](../Page/波津彬子.md "wikilink")擔當責任編輯的「らっぽり同人誌」中最初出現「YAOI」一詞\[4\]。
+[Lesson_1_Private_Tutor.jpg](https://zh.wikipedia.org/wiki/File:Lesson_1_Private_Tutor.jpg "fig:Lesson_1_Private_Tutor.jpg")  由於1970年代，承24年組發展下的少年愛敘事體系，已廣為女性讀者接納甚至使用。加上前述以女性想像中的男性間愛情，所謂「女性向男同性戀」小說為底的JUNE雜誌出版。同時原本在小群體間自費影印流通的同人誌，也開始大量印刷與流通。此時之同人誌，多半以動漫、連續劇之主角為主題，由讀者進行主觀再詮釋後，特別以男性間的感情關係為主幹創造出同人作品。此等「二次創作」之取材，常來自文本之一幕或僅是一句對話，而燃起讀者之想像繼而創作。因只有同樣閱讀過原文本之讀者，才能理解其內涵，故同人之作者即自嘲地戲稱自己的作品「沒有高潮、沒有結局、沒有意義」(ヤマなし、オチなし、イミなし)，也就是男性間情愛關係(YAOI)文化的開端\[3\]。在1979年由[波津彬子](../Page/波津彬子.md "wikilink")擔當責任編輯的「らっぽり同人誌」中最初出現「YAOI」一詞\[4\]。
 
 而在80年代中期陸續出現以《[足球小將](../Page/足球小將.md "wikilink")》為題材創作男性同性愛的同人作品，例如[尾崎南](../Page/尾崎南.md "wikilink")等作家。因多數作品夾帶著性場面，此時YAOI一詞也漸成為男性間戀愛漫畫小說代表詞。
 
@@ -32,9 +28,7 @@ DX》（與之前發行過的同名別冊不同），但不久後改為不定期
 
 #### 1990年代之Boy’s Love
 
-進入90年代，BL最初出現在BIBLOS\[5\]出版的b-Boy雜誌，因為強調喜劇結局，b-Boy雜誌表示他們刊載的風格比較起JUNE式的話，應該說為Boys'
-Love式。所以Boys' Love便跟明亮輕快的喜劇聯結起來。不過如果不是特別要求定義的話，現在Boys'
-Love此詞幾乎可以代表整個女性向男性同性愛創作，不分動漫畫、遊戲、小說、原著衍生、原創、商業與同人誌。
+進入90年代，BL最初出現在BIBLOS\[5\]出版的b-Boy雜誌，因為強調喜劇結局，b-Boy雜誌表示他們刊載的風格比較起JUNE式的話，應該說為Boys' Love式。所以Boys' Love便跟明亮輕快的喜劇聯結起來。不過如果不是特別要求定義的話，現在Boys' Love此詞幾乎可以代表整個女性向男性同性愛創作，不分動漫畫、遊戲、小說、原著衍生、原創、商業與同人誌。
 
 ## 参见
 
@@ -46,17 +40,10 @@ Love此詞幾乎可以代表整個女性向男性同性愛創作，不分動漫�
 
 ## 參考文獻
 
-[Category:BL](https://zh.wikipedia.org/wiki/Category:BL "wikilink")
-[Category:和製英語](https://zh.wikipedia.org/wiki/Category:和製英語 "wikilink")
+[Category:BL](https://zh.wikipedia.org/wiki/Category:BL "wikilink") [Category:和製英語](https://zh.wikipedia.org/wiki/Category:和製英語 "wikilink")
 
 1.
 2.
 3.
-4.  Kotani Mari, foreword to Saitō Tamaki (2007) "Otaku Sexuality" in
-    Christopher Bolton, Istvan Csicsery-Ronay Jr., and Takayuki Tatsumi
-    eds., p. 223 *[Robot Ghosts and Wired
-    Dreams](https://web.archive.org/web/20110605115230/http://www.upress.umn.edu/Books/B/bolton_robot.html)*
-    [University of
-    Minnesota](https://zh.wikipedia.org/wiki/University_of_Minnesota "wikilink")
-    Press ISBN 978-0-8166-4974-7
+4.  Kotani Mari, foreword to Saitō Tamaki (2007) "Otaku Sexuality" in Christopher Bolton, Istvan Csicsery-Ronay Jr., and Takayuki Tatsumi eds., p. 223 *[Robot Ghosts and Wired Dreams](https://web.archive.org/web/20110605115230/http://www.upress.umn.edu/Books/B/bolton_robot.html)* [University of Minnesota](https://zh.wikipedia.org/wiki/University_of_Minnesota "wikilink") Press ISBN 978-0-8166-4974-7
 5.  BIBLOS出版社於2006年3月31日因社長投資IT業界失敗宣告破產，之後由[安利美特](../Page/安利美特.md "wikilink")買下BIBLOS編輯部，成立新出版社。

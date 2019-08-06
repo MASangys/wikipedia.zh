@@ -1,5 +1,4 @@
-**AKB滿載～SUMMER TOUR
-2011～**（）是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")於2011年8月1日至8月31日在[日本](../Page/日本.md "wikilink")13個地區舉行的全國巡迴演唱會，亦是首次籠括日本所有地域（除本身根據地關東地區外）的全國巡迴演唱會\[1\]\[2\]\[3\]。
+**AKB滿載～SUMMER TOUR 2011～**（）是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")於2011年8月1日至8月31日在[日本](../Page/日本.md "wikilink")13個地區舉行的全國巡迴演唱會，亦是首次籠括日本所有地域（除本身根據地關東地區外）的全國巡迴演唱會\[1\]\[2\]\[3\]。
 
 ## 概要
 
@@ -42,21 +41,14 @@
 
 1.  **overture**
 2.  **[AKB參上\!](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」 "wikilink")**（）
-3.  **[Only
-    today](https://zh.wikipedia.org/wiki/Team_A_4th_Stage「正在戀愛中」 "wikilink")**
-4.  **[Dear my
-    teacher](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」 "wikilink")**
+3.  **[Only today](https://zh.wikipedia.org/wiki/Team_A_4th_Stage「正在戀愛中」 "wikilink")**
+4.  **[Dear my teacher](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」 "wikilink")**
 5.  **[馬尾與髮圈](../Page/馬尾與髮圈.md "wikilink")**（）
-6.  **[黑色天使](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」 "wikilink")**（）
-    - 中田、前田敦、仲川
-7.  **[心型病毒](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」 "wikilink")**（）
-    - 高城、小嶋、多田
-8.  **[Bird](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「為了誰」 "wikilink")**
-    - 仲谷、高橋、松原
-9.  **[心愛的娜塔莎](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")**（） -
-    片山、指原、大家
-10. **[向日葵](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」 "wikilink")**
-    - 前田亞、篠田、岩佐、倉持
+6.  **[黑色天使](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」 "wikilink")**（） - 中田、前田敦、仲川
+7.  **[心型病毒](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」 "wikilink")**（） - 高城、小嶋、多田
+8.  **[Bird](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「為了誰」 "wikilink")** - 仲谷、高橋、松原
+9.  **[心愛的娜塔莎](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")**（） - 片山、指原、大家
+10. **[向日葵](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」 "wikilink")** - 前田亞、篠田、岩佐、倉持
 11. **[與核桃對話](../Page/機會的順序.md "wikilink")**（）
 12. **[一直 一直](../Page/Team_A_6th_Stage「目擊者」.md "wikilink")**（）
 13. **[Pioneer](../Page/Team_A_6th_Stage「目擊者」.md "wikilink")**
@@ -66,8 +58,7 @@
 17. **[大聲鑽石](https://zh.wikipedia.org/wiki/大聲鑽石 "wikilink")**（）
 18. **[Maybe是藉口](../Page/Maybe是藉口.md "wikilink")**（）
 19. **[Everyday、髮箍](../Page/Everyday、髮箍.md "wikilink")**（）
-20. **[為了誰 -What can I do for
-    someone?-](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「為了誰」 "wikilink")**（）
+20. **[為了誰 -What can I do for someone?-](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「為了誰」 "wikilink")**（）
 21. **[櫻花的花瓣們](https://zh.wikipedia.org/wiki/櫻花的花瓣們 "wikilink")**（）
 
 **安可曲**
@@ -97,16 +88,11 @@
 3.  **想見你**
 4.  **[RESET](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**
 5.  **[唔吼大遊行](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（）
-6.  **[制服的抵抗](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） -
-    仁藤、板野、橫山
-7.  **[奇跡也趕不及合格](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） -
-    野中、宮澤、米澤
-8.  **[逆轉的王子殿下](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） -
-    內田、峯岸、中塚
-9.  **[為了明天而接吻](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） -
-    田名部、秋元、菊地、松井
-10. **[心端的沙](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） -
-    藤江、大島、梅田
+6.  **[制服的抵抗](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - 仁藤、板野、橫山
+7.  **[奇跡也趕不及合格](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - 野中、宮澤、米澤
+8.  **[逆轉的王子殿下](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - 內田、峯岸、中塚
+9.  **[為了明天而接吻](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - 田名部、秋元、菊地、松井
+10. **[心端的沙](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - 藤江、大島、梅田
 11. **[可以做你的女友嗎?](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（）
 12. **[星空的錯誤](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（）
 13. **[夢之鐘](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（）
@@ -145,14 +131,10 @@
 3.  **[劇場的女神](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（）
 4.  **[愛的跳躍](../Page/機會的順序.md "wikilink")**（）
 5.  **[大家一起來](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")**（）
-6.  **[你好 我的初戀](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） -
-    佐藤堇、渡邊、鈴木紫
-7.  **[暴風雨之夜](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） -
-    鈴木瑪、小森、宮崎、佐藤夏
-8.  **[來一塊糖果](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） -
-    增田、河西、佐藤亞
-9.  **[男更衣室](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） -
-    小林、石田、北原、近野、平嶋
+6.  **[你好 我的初戀](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 佐藤堇、渡邊、鈴木紫
+7.  **[暴風雨之夜](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 鈴木瑪、小森、宮崎、佐藤夏
+8.  **[來一塊糖果](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 增田、河西、佐藤亞
+9.  **[男更衣室](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 小林、石田、北原、近野、平嶋
 10. **[夜風的惡作劇](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 柏木
 11. **[100公尺便利商店](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（）
 12. **[愛的脫衣舞者](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（）
@@ -189,21 +171,14 @@
 3.  **[Anti](../Page/Everyday、髮箍.md "wikilink")**（）
 4.  **[水果．雪](../Page/機會的順序.md "wikilink")**（）
 5.  **馬尾與髮圈**
-6.  **[沙灘的櫻桃](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想見你」 "wikilink")**（）
-    - 市川、加藤、伊豆田、小林茉
-7.  **[如能被你緊擁](https://zh.wikipedia.org/wiki/Team_K_5th_Stage「引體後翻」 "wikilink")**（）
-    - 竹內、仲俁、山內
-8.  **[我
-    朱麗葉與雲霄飛車](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」 "wikilink")**（）
-    - 島田、藤田、阿部
-9.  **[無望之淚](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（）
-    - 島崎、大場
-10. **[☆之彼方](../Page/Team_A_6th_Stage「目擊者」.md "wikilink")**（） -
-    永尾、入山、中村、森
+6.  **[沙灘的櫻桃](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想見你」 "wikilink")**（） - 市川、加藤、伊豆田、小林茉
+7.  **[如能被你緊擁](https://zh.wikipedia.org/wiki/Team_K_5th_Stage「引體後翻」 "wikilink")**（） - 竹內、仲俁、山內
+8.  **[我 朱麗葉與雲霄飛車](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」 "wikilink")**（） - 島田、藤田、阿部
+9.  **[無望之淚](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（） - 島崎、大場
+10. **[☆之彼方](../Page/Team_A_6th_Stage「目擊者」.md "wikilink")**（） - 永尾、入山、中村、森
 11. **夜風的惡作劇** - 柏木（只限鹿兒島公演）
 12. **[妳正在看着夕陽嗎？](https://zh.wikipedia.org/wiki/妳正在看着夕陽嗎？ "wikilink")**（）
-13. **[RUN RUN
-    RUN](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」 "wikilink")**
+13. **[RUN RUN RUN](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」 "wikilink")**
 14. **Beginner**
 15. **無限重播**
 16. **想見你**
@@ -223,17 +198,11 @@
 
 ## 公佈
 
-  - 在8月31日最後1場公演中宣佈，將會分別在2012年1月19日至22日於[TOKYO DOME CITY
-    HALL舉行](../Page/MEETS_PORT.md "wikilink")「[AKB48 重溫時間 最佳曲目100
-    2012](../Page/AKB48_重溫時間_最佳曲目100_2012.md "wikilink")」\[109\]\[110\]及於2012年1月23日舉行「[AKB48
-    衍生組合祭](../Page/AKB48_重溫時間_最佳曲目100_2012.md "wikilink")」\[111\]\[112\]。
+  - 在8月31日最後1場公演中宣佈，將會分別在2012年1月19日至22日於[TOKYO DOME CITY HALL舉行](../Page/MEETS_PORT.md "wikilink")「[AKB48 重溫時間 最佳曲目100 2012](../Page/AKB48_重溫時間_最佳曲目100_2012.md "wikilink")」\[109\]\[110\]及於2012年1月23日舉行「[AKB48 衍生組合祭](../Page/AKB48_重溫時間_最佳曲目100_2012.md "wikilink")」\[111\]\[112\]。
 
 ## DVD
 
-巡迴演唱會的[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS](../Page/AKS.md "wikilink")於2012年2月7日發售，分為Premium
-Box版本及通常DVD版本。通常DVD版本共有4款，分別收錄Team
-A、K、B及4在兵庫、滋賀、兵庫及鳥取的公演內容，並附送1張生寫真。而Premium
-Box版本則有16枚DVD，收錄全部15場公演及特典映像，並附送補捉各成員的映像、128頁相片集及5張生寫真\[113\]\[114\]。
+巡迴演唱會的[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS](../Page/AKS.md "wikilink")於2012年2月7日發售，分為Premium Box版本及通常DVD版本。通常DVD版本共有4款，分別收錄Team A、K、B及4在兵庫、滋賀、兵庫及鳥取的公演內容，並附送1張生寫真。而Premium Box版本則有16枚DVD，收錄全部15場公演及特典映像，並附送補捉各成員的映像、128頁相片集及5張生寫真\[113\]\[114\]。
 
 根據[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")的統計，DVD的最高排名為146名\[115\]。
 

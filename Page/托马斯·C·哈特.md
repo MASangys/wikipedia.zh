@@ -1,5 +1,4 @@
-**托马斯·查尔斯·哈特**（**Thomas Charles
-Hart**，），[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[上将](https://zh.wikipedia.org/wiki/海军上将 "wikilink")、[参议院议员](../Page/美国参议院.md "wikilink")。
+**托马斯·查尔斯·哈特**（**Thomas Charles Hart**，），[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[上将](https://zh.wikipedia.org/wiki/海军上将 "wikilink")、[参议院议员](../Page/美国参议院.md "wikilink")。
 
 ## 生平
 
@@ -42,18 +41,10 @@ Hart**，），[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikili
 [Category:美西战争美国军事人物](https://zh.wikipedia.org/wiki/Category:美西战争美国军事人物 "wikilink")
 
 1.
-2.  Julia Wells. [Born in the White House, Pastor to All, Very Rev.
-    Francis B. Sayre Jr. Dies
-    at 93](http://www.mvgazette.com/article.php?18785)
+2.  Julia Wells. [Born in the White House, Pastor to All, Very Rev. Francis B. Sayre Jr. Dies at 93](http://www.mvgazette.com/article.php?18785)
 
 3.
-4.  Gary E. Weir [Silent Defense One Hundred Years of the American
-    Submarine
-    Force](http://www.navy.mil/navydata/cno/n87/history/fullhist.html) ,
-    U.S. Naval Historical Center, Section "Shaping an Identity".
-    Accessed 25 April 2008. "Thus, when Admiral Thomas Hart proclaimed
-    unrestricted submarine warfare against Japan on, it came as no
-    surprise"
+4.  Gary E. Weir [Silent Defense One Hundred Years of the American Submarine Force](http://www.navy.mil/navydata/cno/n87/history/fullhist.html) , U.S. Naval Historical Center, Section "Shaping an Identity". Accessed 25 April 2008. "Thus, when Admiral Thomas Hart proclaimed unrestricted submarine warfare against Japan on, it came as no surprise"
 
 5.
 6.

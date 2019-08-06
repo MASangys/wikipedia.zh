@@ -1,13 +1,10 @@
-《**奔馳吧！Bicycle**》（）是日本女子組合[乃木坂46的第](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年8月22日由[Sony
-Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
+《**奔馳吧！Bicycle**》（）是日本女子組合[乃木坂46的第](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2012年8月22日由[Sony Music Records發行](../Page/Sony_Music_Records.md "wikilink")。
 
 ## 發行及宣傳
 
 《奔馳吧！Bicycle》與上一張單曲《[來吧香波](https://zh.wikipedia.org/wiki/來吧香波 "wikilink")》相隔約三個月發售，是乃木坂46於2012年發行的第三張單曲。單曲分為附上DVD的「Type-A」、「Type-B」和「Type-C」，以及只有CD的「通常盤」，共四種形式發行。Type-A、Type-B和Type-C在首批發行期間均附送全國[握手會](../Page/握手會.md "wikilink")應徵券兼特別禮物應徵券（）以及生寫真一張。\[1\]發行日期的前一天——8月21日是乃木坂46成立一週年。\[2\]
 
-2012年7月7日，乃木坂46於[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉辦的握手活動中，於約8000名歌迷前首次演唱《奔馳吧！Bicycle》。\[3\]由於其首張單曲《[窗簾圍繞](../Page/窗簾圍繞.md "wikilink")》和第2張單曲《來吧香波》分別於[AKB48](../Page/AKB48.md "wikilink")的「[AKB48
-重溫時間 最佳曲目100
-2012](../Page/AKB48_重溫時間_最佳曲目100_2012.md "wikilink")」演唱會和電視上（《[乃木坂在哪裡？](../Page/乃木坂在哪裡？.md "wikilink")》）首次公開，故這首歌曲是她們第一次能夠在自己的活動上披露歌曲。\[4\]
+2012年7月7日，乃木坂46於[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉辦的握手活動中，於約8000名歌迷前首次演唱《奔馳吧！Bicycle》。\[3\]由於其首張單曲《[窗簾圍繞](../Page/窗簾圍繞.md "wikilink")》和第2張單曲《來吧香波》分別於[AKB48](../Page/AKB48.md "wikilink")的「[AKB48 重溫時間 最佳曲目100 2012](../Page/AKB48_重溫時間_最佳曲目100_2012.md "wikilink")」演唱會和電視上（《[乃木坂在哪裡？](../Page/乃木坂在哪裡？.md "wikilink")》）首次公開，故這首歌曲是她們第一次能夠在自己的活動上披露歌曲。\[4\]
 
 ## 歌曲
 
@@ -103,8 +100,7 @@ A面曲《奔馳吧！Bicycle》（）共有四名作曲者，分別是Shusui、
 ## 外部連結
 
   - [乃木坂46官方網站](http://www.nogizaka46.com/discography/?d=SRCL-8058)
-  - \[<https://play.google.com/store/apps/details?id=jp.co.sonymusic.other.nogizaka46.arapp&feature=search_result#?t=W251bGwsMSwxLDEsImpwLmNvLnNvbnltdXNpYy5vdGhlci5ub2dpemFrYTQ2LmFyYXBwIl0>.
-    乃木坂46 AR - Google Play\]
+  - \[<https://play.google.com/store/apps/details?id=jp.co.sonymusic.other.nogizaka46.arapp&feature=search_result#?t=W251bGwsMSwxLDEsImpwLmNvLnNvbnltdXNpYy5vdGhlci5ub2dpemFrYTQ2LmFyYXBwIl0>. 乃木坂46 AR - Google Play\]
   - [YouTube](../Page/YouTube.md "wikilink") PV <small>（限日本地區觀看）</small>
       -
       -
@@ -112,12 +108,7 @@ A面曲《奔馳吧！Bicycle》（）共有四名作曲者，分別是Shusui、
       -
   - [原文歌詞](http://www.uta-net.com/song/133356/)
 
-[Category:乃木坂46歌曲](https://zh.wikipedia.org/wiki/Category:乃木坂46歌曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
-[Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink")
+[Category:乃木坂46歌曲](https://zh.wikipedia.org/wiki/Category:乃木坂46歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink") [Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink")
 
 1.
 

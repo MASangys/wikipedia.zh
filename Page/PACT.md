@@ -1,5 +1,4 @@
-《**PACT**》（）是[久慈進之介的](https://zh.wikipedia.org/wiki/久慈進之介 "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，第一部在2014年2月10日至2015年3月12日於[講談社的](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊Young
-Magazine](../Page/週刊Young_Magazine.md "wikilink")》中連載；中文版由[玉皇朝](../Page/玉皇朝.md "wikilink")發行。
+《**PACT**》（）是[久慈進之介的](https://zh.wikipedia.org/wiki/久慈進之介 "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，第一部在2014年2月10日至2015年3月12日於[講談社的](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊Young Magazine](../Page/週刊Young_Magazine.md "wikilink")》中連載；中文版由[玉皇朝](../Page/玉皇朝.md "wikilink")發行。
 
 ## 概要
 
@@ -138,9 +137,6 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")》中連載；中文版由
 
   - [週刊Young Magazine的介紹網站](http://yanmaga.jp/contents/pact/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:週刊Young_Magazine](https://zh.wikipedia.org/wiki/Category:週刊Young_Magazine "wikilink")
-[Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink")
-[Category:反烏托邦題材漫畫](https://zh.wikipedia.org/wiki/Category:反烏托邦題材漫畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:週刊Young_Magazine](https://zh.wikipedia.org/wiki/Category:週刊Young_Magazine "wikilink") [Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink") [Category:反烏托邦題材漫畫](https://zh.wikipedia.org/wiki/Category:反烏托邦題材漫畫 "wikilink")
 
 1.

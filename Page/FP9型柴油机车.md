@@ -21,10 +21,4 @@ FP9型柴油机车与[FP7型柴油机车](../Page/FP7型柴油机车.md "wikilin
   -
   -
   -
-[Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink")
-[Category:加拿大柴油機車](https://zh.wikipedia.org/wiki/Category:加拿大柴油機車 "wikilink")
-[Category:墨西哥柴油機車](https://zh.wikipedia.org/wiki/Category:墨西哥柴油機車 "wikilink")
-[Category:沙特阿拉伯柴油机车](https://zh.wikipedia.org/wiki/Category:沙特阿拉伯柴油机车 "wikilink")
-[Category:EMD制铁路机车](https://zh.wikipedia.org/wiki/Category:EMD制铁路机车 "wikilink")
-[Category:GMD制铁路机车](https://zh.wikipedia.org/wiki/Category:GMD制铁路机车 "wikilink")
-[Category:Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo軸式機車 "wikilink")
+[Category:美國柴油機車](https://zh.wikipedia.org/wiki/Category:美國柴油機車 "wikilink") [Category:加拿大柴油機車](https://zh.wikipedia.org/wiki/Category:加拿大柴油機車 "wikilink") [Category:墨西哥柴油機車](https://zh.wikipedia.org/wiki/Category:墨西哥柴油機車 "wikilink") [Category:沙特阿拉伯柴油机车](https://zh.wikipedia.org/wiki/Category:沙特阿拉伯柴油机车 "wikilink") [Category:EMD制铁路机车](https://zh.wikipedia.org/wiki/Category:EMD制铁路机车 "wikilink") [Category:GMD制铁路机车](https://zh.wikipedia.org/wiki/Category:GMD制铁路机车 "wikilink") [Category:Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo軸式機車 "wikilink")

@@ -1,17 +1,12 @@
-**SSBT OD05 OMNIBUS ACCOUNT - TREATY CLIENTS**（前稱：**SSBT OD05 OMNIBUS
-CHINA TREATY
-808150**）是一個神秘的\[1\]投資基金，其持有超過170間大型[日本](../Page/日本.md "wikilink")上市公司的股票\[2\]，並列名於這些公司的有價證券報告書中\[3\]。
+**SSBT OD05 OMNIBUS ACCOUNT - TREATY CLIENTS**（前稱：**SSBT OD05 OMNIBUS CHINA TREATY 808150**）是一個神秘的\[1\]投資基金，其持有超過170間大型[日本](../Page/日本.md "wikilink")上市公司的股票\[2\]，並列名於這些公司的有價證券報告書中\[3\]。
 
 據媒體報導其幕後營運者為中國政府的[中國投資和](../Page/中国投资有限责任公司.md "wikilink")[国家外汇管理局](../Page/国家外汇管理局.md "wikilink")\[4\]\[5\]。該基金在每間公司的持股皆低於5%\[6\]，截至2012年，其在日本的總持股金額已經超過3兆5000億[日圓](../Page/日圓.md "wikilink")\[7\]。
 
 ## 概要
 
-该基金在日本的常任代理人最初為[三井住友銀行](../Page/三井住友銀行.md "wikilink")，2009年9月開始轉移至[香港上海滙豐銀行](../Page/香港上海滙豐銀行.md "wikilink")東京分行\[8\]其登記地址為[美國道富銀行](https://zh.wikipedia.org/wiki/美國道富銀行 "wikilink")（State
-Street Bank and Trus）澳洲分行管理部門所在的舊道富中心大樓（State Street
-Centre）\[9\]。而道富銀行的英文縮寫「SSBT」與基金名稱開頭的第一組字母相同。
+该基金在日本的常任代理人最初為[三井住友銀行](../Page/三井住友銀行.md "wikilink")，2009年9月開始轉移至[香港上海滙豐銀行](../Page/香港上海滙豐銀行.md "wikilink")東京分行\[8\]其登記地址為[美國道富銀行](https://zh.wikipedia.org/wiki/美國道富銀行 "wikilink")（State Street Bank and Trus）澳洲分行管理部門所在的舊道富中心大樓（State Street Centre）\[9\]。而道富銀行的英文縮寫「SSBT」與基金名稱開頭的第一組字母相同。
 
-此外，[索尼](../Page/索尼.md "wikilink")在2011年的有價證券報告書中將SSBT OD05 OMNIBUS
-ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所持的股票，為該機構的股票名義持有人」\[10\]。
+此外，[索尼](../Page/索尼.md "wikilink")在2011年的有價證券報告書中將SSBT OD05 OMNIBUS ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所持的股票，為該機構的股票名義持有人」\[10\]。
 
 ## 持有股票
 
@@ -1450,11 +1445,7 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 
 ## 参考文献
 
-[Category:主权财富基金](https://zh.wikipedia.org/wiki/Category:主权财富基金 "wikilink")
-[Category:對沖基金](https://zh.wikipedia.org/wiki/Category:對沖基金 "wikilink")
-[Category:悉尼公司](https://zh.wikipedia.org/wiki/Category:悉尼公司 "wikilink")
-[Category:国家外汇管理局](https://zh.wikipedia.org/wiki/Category:国家外汇管理局 "wikilink")
-[Category:中国投资有限责任公司](https://zh.wikipedia.org/wiki/Category:中国投资有限责任公司 "wikilink")
+[Category:主权财富基金](https://zh.wikipedia.org/wiki/Category:主权财富基金 "wikilink") [Category:對沖基金](https://zh.wikipedia.org/wiki/Category:對沖基金 "wikilink") [Category:悉尼公司](https://zh.wikipedia.org/wiki/Category:悉尼公司 "wikilink") [Category:国家外汇管理局](https://zh.wikipedia.org/wiki/Category:国家外汇管理局 "wikilink") [Category:中国投资有限责任公司](https://zh.wikipedia.org/wiki/Category:中国投资有限责任公司 "wikilink")
 
 1.
 
@@ -1487,16 +1478,13 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 
 16. [日揮有価証券報告書](http://www.jgc.co.jp/jp/06ir/pdf/yukashoken/116_2011/116_h230401_h240331.pdf)
 
-
 17. [双日有価証券報告書](http://www.sojitz.com/jp/ir/reports/vsecurity/pdf/120705.pdf)
-
 
 18. [味之素有価証券報告書](http://www.ajinomoto.co.jp/ir/pdf/134th-yuho.pdf)
 
 19. [富士紡ホールディングス有価証券報告書](http://www.fujibo.co.jp/ir/stock.html)
 
 20. [野村不動產ホールディングス有価証券報告書](http://www.nomura-re-hd.co.jp/news/pdf/20120629-2.pdf)
-
 
 21. [帝人有価証券報告書](http://www.teijin.co.jp/ir/doc/yuukasyouken/info120331_146.pdf)
 
@@ -1506,12 +1494,9 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 
 24. [旭化成有価証券報告書](http://www.asahi-kasei.com/asahi/jp/ir/presentation/pdf/121j_0629.pdf)
 
-
 25. [SUMCO有価証券報告書](http://www.sumcosi.com/ir/library/secreports/pdf/20120426_227.pdf)
 
-
 26. [ITホールディングス有価証券報告書](http://www.itholdings.co.jp/investors/securities_report/pdf/report_2403_4.pdf)
-
 
 27. [王子ホールディングス有価証券報告書](http://www.ojiholdings.co.jp/content/files/investor/library/securities/88th_yuka.pdf)
 
@@ -1539,7 +1524,6 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 
 39. [塩野義製薬有価証券報告書](http://www.shionogi.co.jp/ir/stock/12_06/y147_all.pdf)
 
-
 40. [エーザイ有価証券報告書](http://www.eisai.co.jp/pdf/ir/sec/pdf31fr.pdf)
 
 41. [小野薬品工業有価証券報告書](http://www.ono.co.jp/jpnw/ir/pdf/y_houkoku/ns_ver4_120629.pdf)
@@ -1555,7 +1539,6 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 46. [伊藤忠テクノソリューションズ有価証券報告書](http://ctcir.ctc-g.co.jp/rose/library/pdf/1203_yuho.pdf)
 
 47. [富士フイルムホールディングス有価証券報告書](http://www.fujifilmholdings.com/ja/investors/pdf/securitiesreports/ff_sr_2011q4_allj.pdf)
-
 
 48. [コニカミノルタホールディングス有価証券報告書](http://www.konicaminolta.jp/about/investors/pdf/ms/108ms/108ms_all.pdf)
 
@@ -1574,7 +1557,6 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 55. [住友金属工業有価証券報告書](http://www.nssmc.com/ir/pdf/sm_jp_sr_2011_all.pdf)
 
 56. [神戸製鋼所有価証券報告書](http://www.kobelco.co.jp/ir/library/vlbl_security/2011/__icsFiles/afieldfile/2012/06/26/11_1.pdf)
-
 
 57. [JFEホールディングス有価証券報告書](http://www.jfe-holdings.co.jp/investor/zaimu/g-data/jfe/24/jfe_yuho24.pdf)
 
@@ -1602,7 +1584,6 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 
 69. [有価証券報告書](http://www.hitachi-kenki.co.jp/pdf/ir/library/factbook/factbook2012_all.pdf)
 
-
 70. [久保田有価証券報告書](http://www.kubota.co.jp/ir/financial/yufo_pdf/122.pdf)
 
 71. [大金工業有価証券報告書](http://www.daikin.co.jp/data/investor/yuuka/109_4.pdf)
@@ -1615,7 +1596,6 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 
 75. [東芝有価証券報告書](http://www.toshiba.co.jp/about/ir/jp/library/sr/sr2011/tsr2011.pdf)
 
-
 76. [三菱電機有価証券報告書](http://www.mitsubishielectric.co.jp/ir/data/negotiable_securities/pdf/141.pdf)
 
 77. [日本電気有価証券報告書](http://www.nec.co.jp/ir/ja/pdf/securities/2011/2011174_04.pdf)
@@ -1623,7 +1603,6 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 78. [富士通有価証券報告書](http://pr.fujitsu.com/jp/ir/secreports/2012/pdf/112.pdf)
 
 79. [松下電器有価証券報告書](http://panasonic.co.jp/ir/reference/edinet/pdf/Report2011.pdf)
-
 
 80. [夏普有価証券報告書](http://www.sharp.co.jp/corporate/ir/library/securities/pdf/118_4q.pdf)
 
@@ -1637,7 +1616,6 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 
 85. [エスペック有価証券報告書](http://www.espec.co.jp/corporate/ir/pdf/20120627_yuuka.pdf)
 
-
 86. [キーエンス有価証券報告書](http://www.ullet.com/edinet/S000B0YE.pdf)
 
 87. [有価証券報告書](http://www.denso.co.jp/ja/investors/library/securities/files/89_securities_report.pdf)
@@ -1649,7 +1627,6 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 90. [京瓷有価証券報告書](http://www.kyocera.co.jp/ir/pdf/yuho12.pdf)
 
 91. [村田製作所有価証券報告書](http://www.murata.co.jp/ir/library/financial_report/pdf/murata76gorep.pdf)
-
 
 92. [日東電工有価証券報告書](http://v3.eir-parts.net/EIR/View.aspx?cat=yuho_pdf&sid=1740977)
 
@@ -1663,7 +1640,6 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 
 97. [豐田自動車有価証券報告書](http://www.toyota.co.jp/jpn/investors/library/negotiable/2012_3/all.pdf)
 
-
 98. [三菱自動車工業有価証券報告書](http://www.mitsubishi-motors.com/content/dam/com/ir_jp/pdf/yuka/2012/yuka20120626.pdf)
 
 99. [タチエス有価証券報告書](http://www.tachi-s.co.jp/uploads/pdfs/ir_1/12yuho.pdf)
@@ -1675,7 +1651,6 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 102. [大發工業有価証券報告書](http://www.daihatsu.co.jp/ir/library/pdf/syoken/yuka171/yuka171.pdf)
 
 103. [本田技研工業有価証券報告書](http://www.honda.co.jp/investors/library/report/2011/2011-yuho-88.pdf)
-
 
 104. [鈴木有価証券報告書](http://www.suzuki.co.jp/ir/library/valuablesecurities/pdf/h24_3.pdf)
 
@@ -1701,7 +1676,6 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 
 115. [东京电子有価証券報告書](http://www.tel.co.jp/ir/library/fs/document/yuho49.pdf)
 
-
 116. [住友商事有価証券報告書](http://www.sumitomocorp.co.jp/ir/doc/2011f/yuho144.pdf)
 
 117. [三菱商事有価証券報告書](http://www.mitsubishicorp.com/jp/ja/ir/library/fstatement/pdf/2011_04/y2011_04.pdf)
@@ -1713,7 +1687,6 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 120. [新生銀行有価証券報告書](http://www.shinseibank.com/investors/ir/financial_info/yuho_2011/pdf/yuho1203.pdf)
 
 121. [三菱日聯金融集團有価証券報告書](http://www.mufg.jp/ir/securityreport/backnumber/2012mufg-mar/pdffile/yu_mufg12.pdf)
-
 
 122. [里索那控股有価証券報告書](http://www.resona-gr.co.jp/holdings/investors/ir/yuuka/hd/pdf/12/201203_hd_all.pdf)
 
@@ -1737,14 +1710,11 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 
 132. [MS\&ADインシュアランスグループホールディングス有価証券報告書](http://www.ms-ad-hd.com/ir/library/securities/msad/pdf/4th_all.pdf)
 
-
 133. [第一生命保險有価証券報告書](http://www.dai-ichi-life.co.jp/investor/ir/financial/report/pdf/2011.pdf)
-
 
 134. [東京海上ホールディングス有価証券報告書](http://v3.eir-parts.net/EIR/View.aspx?cat=yuho_pdf&sid=1741368)
 
 135. [T\&Dホールディングス有価証券報告書](http://www.td-holdings.co.jp/ir/library/security/pdf/h_2012/h_report2012.pdf)
-
 
 136. [三井不動産有価証券報告書](http://www.mitsuifudosan.co.jp/corporate/ir/library/fs/pdf/YUHO_1203.pdf)
 
@@ -1753,7 +1723,6 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 138. [サンケイビル有価証券報告書](http://www.sankeibldg.co.jp/files/report/20120629%20yuhou.pdf)
 
 139. [東急不動産有価証券報告書](http://www.tokyu-land.co.jp/ir/library/pdf/securities_h24.pdf)
-
 
 140. [住友不動産有価証券報告書](http://www.sumitomo-rd.co.jp/ir/settlement/files/1207_0001/8830_FY2012_report.pdf)
 
@@ -1767,13 +1736,11 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 
 145. [西日本旅客鉄道有価証券報告書](http://www.westjr.co.jp/company/ir/library/report/report25_04.pdf)
 
-
 146. [東海旅客鉄道有価証券報告書](http://company.jr-central.co.jp/ir/financial-statements/detail/_pdf/000015274.pdf)
 
 147. [近畿日本鉄道有価証券報告書](http://www.kintetsu.jp/kouhou/pdf/syouken/101kiyukashoken.pdf)
 
 148. [日本通運有価証券報告書](http://www.nittsu.co.jp/about/pdf/yuukashoken-2011.pdf)
-
 
 149. [ヤマトホールディングス有価証券報告書](http://www.yamato-hd.co.jp/investors/library/securities/pdf/y147_04.pdf)
 
@@ -1781,11 +1748,9 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 
 151. [商船三井有価証券報告書](http://www.mol.co.jp/ir-j/data_j/pdf/form/yuho23.pdf)
 
-
 152. [全日本空輸有価証券報告書](https://www.ana.co.jp/ir/kessan_info/yuka/pdf/yuho62.pdf)
 
 153. [日本電信電話有価証券報告書](http://www.ntt.co.jp/ir/library/yuho/pdf/27yuho.pdf)
-
 
 154. [エヌ・ティ・ティ・ドコモ有価証券報告書](http://www.nttdocomo.co.jp/corporate/ir/binary/pdf/library/report/fy2011/yuho_fy2011.pdf)
 
@@ -1794,7 +1759,6 @@ ACCOUNT - TREATY CLIENTS描述為「主要負責保管歐美機構投資者所�
 156. [中部電力有価証券報告書](http://www.chuden.co.jp/corporate/ir/ir_siryo/yukashoken/__icsFiles/afieldfile/2012/06/28/088yuuka.pdf)
 
 157. [關西電力有価証券報告書](http://www1.kepco.co.jp/ir/securities/88/index_img/all.pdf)
-
 
 158. [東北電力有価証券報告書](http://www.tohoku-epco.co.jp/ir/report/security/pdf/h23_ho.pdf)
 

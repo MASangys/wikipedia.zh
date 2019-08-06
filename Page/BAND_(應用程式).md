@@ -6,18 +6,6 @@
 
   - [官方網站 : BAND](http://band.us)
 
-[Category:2012年软件](https://zh.wikipedia.org/wiki/Category:2012年软件 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:Photo_sharing](https://zh.wikipedia.org/wiki/Category:Photo_sharing "wikilink")
-[Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")
-[Category:Student_culture](https://zh.wikipedia.org/wiki/Category:Student_culture "wikilink")
-[Category:Internet_properties_established_in_2013](https://zh.wikipedia.org/wiki/Category:Internet_properties_established_in_2013 "wikilink")
-[Category:2013_introductions](https://zh.wikipedia.org/wiki/Category:2013_introductions "wikilink")
-[Category:社會信息處理](https://zh.wikipedia.org/wiki/Category:社會信息處理 "wikilink")
-[Category:即時通訊](https://zh.wikipedia.org/wiki/Category:即時通訊 "wikilink")
-[Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink")
-[Category:線上遊戲服務](https://zh.wikipedia.org/wiki/Category:線上遊戲服務 "wikilink")
-[Category:学生文化](https://zh.wikipedia.org/wiki/Category:学生文化 "wikilink")
+[Category:2012年软件](https://zh.wikipedia.org/wiki/Category:2012年软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Photo_sharing](https://zh.wikipedia.org/wiki/Category:Photo_sharing "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:Student_culture](https://zh.wikipedia.org/wiki/Category:Student_culture "wikilink") [Category:Internet_properties_established_in_2013](https://zh.wikipedia.org/wiki/Category:Internet_properties_established_in_2013 "wikilink") [Category:2013_introductions](https://zh.wikipedia.org/wiki/Category:2013_introductions "wikilink") [Category:社會信息處理](https://zh.wikipedia.org/wiki/Category:社會信息處理 "wikilink") [Category:即時通訊](https://zh.wikipedia.org/wiki/Category:即時通訊 "wikilink") [Category:多語言網站](https://zh.wikipedia.org/wiki/Category:多語言網站 "wikilink") [Category:線上遊戲服務](https://zh.wikipedia.org/wiki/Category:線上遊戲服務 "wikilink") [Category:学生文化](https://zh.wikipedia.org/wiki/Category:学生文化 "wikilink")
 
 1.

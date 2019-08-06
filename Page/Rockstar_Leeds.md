@@ -1,24 +1,12 @@
-（前身為**Mobius
-Entertainment**）是一間英國[電子遊戲開發商](https://zh.wikipedia.org/wiki/電子遊戲開發商 "wikilink")，公司總部位於[利兹](../Page/利兹.md "wikilink")城西辦公區\[1\]。他是[Rockstar
-Games的子公司](../Page/Rockstar_Games.md "wikilink")，曾開發《[馬克思·佩恩](https://zh.wikipedia.org/wiki/馬克思·佩恩 "wikilink")》（GBA版）、《[俠盜獵車手：自由城故事](https://zh.wikipedia.org/wiki/俠盜獵車手：自由城故事 "wikilink")》和《[俠盜獵車手：罪惡城故事](https://zh.wikipedia.org/wiki/俠盜獵車手：罪惡城故事 "wikilink")》等遊戲。
+（前身為**Mobius Entertainment**）是一間英國[電子遊戲開發商](https://zh.wikipedia.org/wiki/電子遊戲開發商 "wikilink")，公司總部位於[利兹](../Page/利兹.md "wikilink")城西辦公區\[1\]。他是[Rockstar Games的子公司](../Page/Rockstar_Games.md "wikilink")，曾開發《[馬克思·佩恩](https://zh.wikipedia.org/wiki/馬克思·佩恩 "wikilink")》（GBA版）、《[俠盜獵車手：自由城故事](https://zh.wikipedia.org/wiki/俠盜獵車手：自由城故事 "wikilink")》和《[俠盜獵車手：罪惡城故事](https://zh.wikipedia.org/wiki/俠盜獵車手：罪惡城故事 "wikilink")》等遊戲。
 
 ## 歷史
 
-1997年12月，Gordon Hall、Jason McGann、 Dave Box和Ian Bowden四人在英格蘭利茲建立了Mobius
-Entertainment。\[2\]公司由兩部分組成，其中Mobius Entertainment負責遊戲開發，而Mobius Light
-Entertainment則負責[全动态影像和](https://zh.wikipedia.org/wiki/全动态影像 "wikilink")[電腦成像](../Page/電腦成像.md "wikilink")。\[3\]公司約有30人，他們專注於開發如[Game
-Boy Advance](../Page/Game_Boy_Advance.md "wikilink")、[PlayStation
-Portable等](../Page/PlayStation_Portable.md "wikilink")[掌上遊戲平台的遊戲](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")\[4\]，同時也開發如[Playstation
-2等](https://zh.wikipedia.org/wiki/Playstation_2 "wikilink")[電子遊戲機](../Page/電子遊戲機.md "wikilink")平台的遊戲。公司總部位於利茲Pudsey。\[5\]除了開發自家遊戲，他們還為其他廠商開發遊戲。例如在2003年，他們開發了GBA版本的馬克思·佩恩。\[6\]
+1997年12月，Gordon Hall、Jason McGann、 Dave Box和Ian Bowden四人在英格蘭利茲建立了Mobius Entertainment。\[2\]公司由兩部分組成，其中Mobius Entertainment負責遊戲開發，而Mobius Light Entertainment則負責[全动态影像和](https://zh.wikipedia.org/wiki/全动态影像 "wikilink")[電腦成像](../Page/電腦成像.md "wikilink")。\[3\]公司約有30人，他們專注於開發如[Game Boy Advance](../Page/Game_Boy_Advance.md "wikilink")、[PlayStation Portable等](../Page/PlayStation_Portable.md "wikilink")[掌上遊戲平台的遊戲](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")\[4\]，同時也開發如[Playstation 2等](https://zh.wikipedia.org/wiki/Playstation_2 "wikilink")[電子遊戲機](../Page/電子遊戲機.md "wikilink")平台的遊戲。公司總部位於利茲Pudsey。\[5\]除了開發自家遊戲，他們還為其他廠商開發遊戲。例如在2003年，他們開發了GBA版本的馬克思·佩恩。\[6\]
 
-2004年4月8日，Rockstar Games宣布收購了Mobius Entertainment，收購後的公司更名為Rockstar
-Leeds。\[7\]在成為Rockstar Games的一員後，Rockstar Leeds在[Rockstar
-North指導下](../Page/Rockstar_North.md "wikilink")，負責將[俠盜獵車手系列](../Page/俠盜獵車手系列.md "wikilink")搬到PSP上。他們決定開發一款以[自由城為舞台的遊戲](https://zh.wikipedia.org/wiki/自由城 "wikilink")，並且放棄之前在《[俠盜獵車手III](../Page/俠盜獵車手III.md "wikilink")》使用的[RenderWare引擎](../Page/RenderWare引擎.md "wikilink")。於是，Rockstar
-Leeds自行開發了一款新遊戲引擎，並從零開始構建自由城，以圖將《俠盜獵車手III》的所有元素移植到掌上遊戲機平台上。除此之外，他們還為遊戲加入[多人遊戲模式](https://zh.wikipedia.org/wiki/多人電子遊戲 "wikilink")。最終，《俠盜獵車手：自由城故事》在2005年10月面市，講述《俠盜獵車手III》之前幾年的故事。作品推出後大獲成功，於是在2006年，Rockstar
-Leeds又將[罪惡城搬上了PSP平台](https://zh.wikipedia.org/wiki/罪惡城 "wikilink")，推出《俠盜獵車手：罪惡城故事》。\[8\]2009年，他們又開發了《[俠盜獵車手：血戰唐人街](../Page/俠盜獵車手：血戰唐人街.md "wikilink")》。
+2004年4月8日，Rockstar Games宣布收購了Mobius Entertainment，收購後的公司更名為Rockstar Leeds。\[7\]在成為Rockstar Games的一員後，Rockstar Leeds在[Rockstar North指導下](../Page/Rockstar_North.md "wikilink")，負責將[俠盜獵車手系列](../Page/俠盜獵車手系列.md "wikilink")搬到PSP上。他們決定開發一款以[自由城為舞台的遊戲](https://zh.wikipedia.org/wiki/自由城 "wikilink")，並且放棄之前在《[俠盜獵車手III](../Page/俠盜獵車手III.md "wikilink")》使用的[RenderWare引擎](../Page/RenderWare引擎.md "wikilink")。於是，Rockstar Leeds自行開發了一款新遊戲引擎，並從零開始構建自由城，以圖將《俠盜獵車手III》的所有元素移植到掌上遊戲機平台上。除此之外，他們還為遊戲加入[多人遊戲模式](https://zh.wikipedia.org/wiki/多人電子遊戲 "wikilink")。最終，《俠盜獵車手：自由城故事》在2005年10月面市，講述《俠盜獵車手III》之前幾年的故事。作品推出後大獲成功，於是在2006年，Rockstar Leeds又將[罪惡城搬上了PSP平台](https://zh.wikipedia.org/wiki/罪惡城 "wikilink")，推出《俠盜獵車手：罪惡城故事》。\[8\]2009年，他們又開發了《[俠盜獵車手：血戰唐人街](../Page/俠盜獵車手：血戰唐人街.md "wikilink")》。
 
-2013年，Rockstar
-Leeds曾刊登招聘廣告聘請程序員，目的是幫助其他工作室的開發人員將公司的最新遊戲移植到PC平台上。雖然後來他們自行將廣告撤下，但有電子遊戲網站已經將信息截圖。由於當時《[俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")》正在開發中，而其PC版本又沒有得到確認，故此媒體猜測這是為《俠盜獵車手V》的PC版本作準備。\[9\]\[10\]
+2013年，Rockstar Leeds曾刊登招聘廣告聘請程序員，目的是幫助其他工作室的開發人員將公司的最新遊戲移植到PC平台上。雖然後來他們自行將廣告撤下，但有電子遊戲網站已經將信息截圖。由於當時《[俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")》正在開發中，而其PC版本又沒有得到確認，故此媒體猜測這是為《俠盜獵車手V》的PC版本作準備。\[9\]\[10\]
 
 ## 遊戲列表
 
@@ -55,16 +43,10 @@ Leeds曾刊登招聘廣告聘請程序員，目的是幫助其他工作室的開
 ## 外部連結
 
   - Rockstar Leeds
-  - [Careers at Rockstar
-    Leeds](http://www.rockstargames.com/jobs/openings/rockstar-leeds)，Rockstar
-    Games
-  - [Rockstar
-    Leeds](http://www.ign.com/companies/rockstar-leeds)，[IGN](../Page/IGN.md "wikilink")
+  - [Careers at Rockstar Leeds](http://www.rockstargames.com/jobs/openings/rockstar-leeds)，Rockstar Games
+  - [Rockstar Leeds](http://www.ign.com/companies/rockstar-leeds)，[IGN](../Page/IGN.md "wikilink")
 
-[Category:1997年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1997年開業電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:英國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:英國電子遊戲公司 "wikilink")
-[Category:Rockstar_Games](https://zh.wikipedia.org/wiki/Category:Rockstar_Games "wikilink")
+[Category:1997年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1997年開業電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:英國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:英國電子遊戲公司 "wikilink") [Category:Rockstar_Games](https://zh.wikipedia.org/wiki/Category:Rockstar_Games "wikilink")
 
 1.
 

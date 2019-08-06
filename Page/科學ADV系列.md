@@ -77,7 +77,4 @@ PS Vita</p></td>
   - [Nitro+官方網站](http://www.nitroplus.co.jp/)
   - [MAGES.官方網站](https://web.archive.org/web/20140607002809/http://mages.co.jp/index.html)
 
-
-[Category:科學ADV系列](https://zh.wikipedia.org/wiki/Category:科學ADV系列 "wikilink")
-[Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink")
-[Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink")
+[Category:科學ADV系列](https://zh.wikipedia.org/wiki/Category:科學ADV系列 "wikilink") [Category:Nitro+](https://zh.wikipedia.org/wiki/Category:Nitro+ "wikilink") [Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink")

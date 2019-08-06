@@ -23,12 +23,10 @@
 7.  prayer
       -
         MIYU主唱單曲。
-8.  [白花](https://zh.wikipedia.org/wiki/白花_\(ZONE\) "wikilink")　\<acoustic
-    ver.\>
+8.  [白花](https://zh.wikipedia.org/wiki/白花_\(ZONE\) "wikilink")　\<acoustic ver.\>
       -
         第8枚單曲。主唱為MIYU與MIZUHO\[1\]。
-9.  [true
-    blue](https://zh.wikipedia.org/wiki/true_blue/恋々・・・ "wikilink")
+9.  [true blue](https://zh.wikipedia.org/wiki/true_blue/恋々・・・ "wikilink")
       -
         第9枚單曲，雙A面1曲目。
 10. 僕の手紙
@@ -40,9 +38,7 @@
 12. H・A・N・A・B・I 〜君がいた夏〜
       -
         第10枚單曲。
-13. [secret base
-    ～你給我的東西～](https://zh.wikipedia.org/wiki/secret_base_～你給我的東西～ "wikilink")
-    \<LIVE ver.\>
+13. [secret base ～你給我的東西～](https://zh.wikipedia.org/wiki/secret_base_～你給我的東西～ "wikilink") \<LIVE ver.\>
 
 ### 参加成員
 
@@ -58,10 +54,8 @@
 
 ## 外部連結
 
-  - [Sony Music官方網站 believe in
-    ZONE](http://www.sonymusic.co.jp/Music/Info/ZONE/)
+  - [Sony Music官方網站 believe in ZONE](http://www.sonymusic.co.jp/Music/Info/ZONE/)
 
-[Category:ZONE](https://zh.wikipedia.org/wiki/Category:ZONE "wikilink")
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
+[Category:ZONE](https://zh.wikipedia.org/wiki/Category:ZONE "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
 
 1.  オリジナルバージョンのメインボーカルはMIYUとTAKAYOである。

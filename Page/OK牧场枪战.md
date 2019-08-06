@@ -22,7 +22,4 @@
 
 著名的作品包括怀亚特·厄普的个人传记：《》（斯图尔特·莱克著）。书中怀亚特被描述成为一个传奇英雄。1957年，该枪战被拍成电影《[OK镇大决斗](https://zh.wikipedia.org/wiki/OK镇大决斗 "wikilink")》，令这次枪战变得更加著名。近些年，发现频道的悬疑历史事件栏目又再次提及这次枪战。然而最有趣的是，1998年[大卫·威廉姆斯向公众发表他为这次枪战所建的](https://zh.wikipedia.org/wiki/大卫·威廉姆斯 "wikilink")[数学模型](../Page/数学模型.md "wikilink")。
 
-[Category:美國舊西部槍戰](https://zh.wikipedia.org/wiki/Category:美國舊西部槍戰 "wikilink")
-[Category:1881年亞利桑那領地](https://zh.wikipedia.org/wiki/Category:1881年亞利桑那領地 "wikilink")
-[Category:1881年衝突](https://zh.wikipedia.org/wiki/Category:1881年衝突 "wikilink")
-[Category:1881年10月](https://zh.wikipedia.org/wiki/Category:1881年10月 "wikilink")
+[Category:美國舊西部槍戰](https://zh.wikipedia.org/wiki/Category:美國舊西部槍戰 "wikilink") [Category:1881年亞利桑那領地](https://zh.wikipedia.org/wiki/Category:1881年亞利桑那領地 "wikilink") [Category:1881年衝突](https://zh.wikipedia.org/wiki/Category:1881年衝突 "wikilink") [Category:1881年10月](https://zh.wikipedia.org/wiki/Category:1881年10月 "wikilink")

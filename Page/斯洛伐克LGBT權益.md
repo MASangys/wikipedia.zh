@@ -29,8 +29,7 @@
 
 ## 參考文獻
 
-[Category:欧洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:欧洲各国LGBT权益 "wikilink")
-[Category:斯洛伐克LGBT權益](https://zh.wikipedia.org/wiki/Category:斯洛伐克LGBT權益 "wikilink")
+[Category:欧洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:欧洲各国LGBT权益 "wikilink") [Category:斯洛伐克LGBT權益](https://zh.wikipedia.org/wiki/Category:斯洛伐克LGBT權益 "wikilink")
 
 1.
 2.

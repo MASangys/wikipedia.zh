@@ -77,12 +77,10 @@
 
 ### 第一輯
 
-  - 2011年10月12日：下午13:00在[跑馬地](../Page/跑馬地.md "wikilink")[藍塘道](../Page/藍塘道.md "wikilink")69號地下
-    Valcucine舉行《May姐有請》外景拍攝探班\[2\]。
+  - 2011年10月12日：下午13:00在[跑馬地](../Page/跑馬地.md "wikilink")[藍塘道](../Page/藍塘道.md "wikilink")69號地下 Valcucine舉行《May姐有請》外景拍攝探班\[2\]。
   - 2011年10月21日：下午13:00在[沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[麗豪酒店](../Page/麗豪酒店.md "wikilink")舉行《May姐有請》外景探班\[3\]。
   - 2011年11月3日：下午13:30在桃花源([上環](../Page/上環.md "wikilink")[文咸東街](https://zh.wikipedia.org/wiki/文咸東街 "wikilink")84-90號地下A舖)舉行《May姐有請》外景拍攝探班\[4\]。
-  - 2011年11月8日：下午13:30在[尖沙咀](../Page/尖沙咀.md "wikilink")[彌敦道](../Page/彌敦道.md "wikilink")63號iSQUARE
-    31樓國福樓舉行《May姐有請》外景拍攝探班\[5\]。
+  - 2011年11月8日：下午13:30在[尖沙咀](../Page/尖沙咀.md "wikilink")[彌敦道](../Page/彌敦道.md "wikilink")63號iSQUARE 31樓國福樓舉行《May姐有請》外景拍攝探班\[5\]。
   - 2011年12月7日：上午11:00在[灣仔](../Page/灣仔.md "wikilink")[莊士敦道](../Page/莊士敦道.md "wikilink")34－45號福臨門舉行《May姐有請》外景拍攝探班\[6\]。
   - 2011年12月28日：下午13:00在[尖沙咀](../Page/尖沙咀.md "wikilink")[金巴利道](../Page/金巴利道.md "wikilink")九龍福臨門魚翅海鮮酒家舉行《May姐有請》外景探班\[7\]。
   - 2011年12月31日：下午14:30在[尖沙咀](../Page/尖沙咀.md "wikilink")[彌敦道](../Page/彌敦道.md "wikilink")頂好海鮮酒家舉行《May姐有請》外景探班\[8\]。
@@ -91,53 +89,32 @@
 
 ### 第二輯
 
-  - 2013年2月25日：下午14:30在[銅鑼灣](../Page/銅鑼灣.md "wikilink")[希慎道Gaggenau](https://zh.wikipedia.org/wiki/希慎道 "wikilink")
-    Kitchen Infinity Corp. Limited舉行《May姐有請》外景探班\[10\]。
-  - 2013年3月27日：下午12:00在[黃竹坑](../Page/黃竹坑.md "wikilink")香葉道2號 Kitchen
-    Infinity舉行《May姐有請》外景探班\[11\]。
-  - 2013年4月8日：下午12:00在[黃竹坑](../Page/黃竹坑.md "wikilink")香葉道2號 Kitchen
-    Infinity One Island South 19 樓 Kitchen Infinity舉行《May姐有請》外景探班\[12\]。
+  - 2013年2月25日：下午14:30在[銅鑼灣](../Page/銅鑼灣.md "wikilink")[希慎道Gaggenau](https://zh.wikipedia.org/wiki/希慎道 "wikilink") Kitchen Infinity Corp. Limited舉行《May姐有請》外景探班\[10\]。
+  - 2013年3月27日：下午12:00在[黃竹坑](../Page/黃竹坑.md "wikilink")香葉道2號 Kitchen Infinity舉行《May姐有請》外景探班\[11\]。
+  - 2013年4月8日：下午12:00在[黃竹坑](../Page/黃竹坑.md "wikilink")香葉道2號 Kitchen Infinity One Island South 19 樓 Kitchen Infinity舉行《May姐有請》外景探班\[12\]。
   - 2013年4月20日：下午15:30在[尖沙咀](../Page/尖沙咀.md "wikilink")[國際廣場](../Page/國際廣場.md "wikilink")文鼎壹號舉行《May姐有請》記者招待會\[13\]。
-  - 2013年9月1日：由於直播《[2013香港小姐競選決賽](../Page/2013年度香港小姐競選.md "wikilink")》導致《[超級無敵獎門人
-    終極篇](../Page/超級無敵獎門人_終極篇.md "wikilink")》提早至本節目時段播映，本節目暫停播映一次。
+  - 2013年9月1日：由於直播《[2013香港小姐競選決賽](../Page/2013年度香港小姐競選.md "wikilink")》導致《[超級無敵獎門人 終極篇](../Page/超級無敵獎門人_終極篇.md "wikilink")》提早至本節目時段播映，本節目暫停播映一次。
   - 2013年9月22日：本節目提早至19:00-20:00播映。
 
 ## 參考資料
 
 ## 外部連結
 
-  - [無綫電視節目網頁 -
-    May姐有請（第一輯）](http://programme.tvb.com/foodandtravel/cookawayladymay)
-  - [無綫電視節目網頁 -
-    May姐有請（第二輯）](http://programme.tvb.com/foodandtravel/cookawayladymay2)
+  - [無綫電視節目網頁 - May姐有請（第一輯）](http://programme.tvb.com/foodandtravel/cookawayladymay)
+  - [無綫電視節目網頁 - May姐有請（第二輯）](http://programme.tvb.com/foodandtravel/cookawayladymay2)
 
-[Category:2011年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2011年無綫電視節目 "wikilink")
-[Category:2012年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2012年無綫電視節目 "wikilink")
-[Category:2013年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2013年無綫電視節目 "wikilink")
-[Category:無綫電視飲食節目](https://zh.wikipedia.org/wiki/Category:無綫電視飲食節目 "wikilink")
+[Category:2011年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2011年無綫電視節目 "wikilink") [Category:2012年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2012年無綫電視節目 "wikilink") [Category:2013年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2013年無綫電視節目 "wikilink") [Category:無綫電視飲食節目](https://zh.wikipedia.org/wiki/Category:無綫電視飲食節目 "wikilink")
 
 1.
-2.  [藝人月曆 - 2011年10月12日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-3.  [藝人月曆 - 2011年10月21日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-4.  [藝人月曆 - 2011年11月3日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-5.  [藝人月曆 - 2011年11月8日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-6.  [藝人月曆 - 2011年12月7日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-7.  [藝人月曆 - 2011年12月28日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-8.  [藝人月曆 - 2011年12月31日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-9.  [藝人月曆 - 2012年3月26日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-10. [藝人月曆 - 2013年2月25日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-11. [藝人月曆 - 2013年3月27日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-12. [藝人月曆 - 2013年4月8日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-13. [藝人月曆 - 2013年4月20日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+2.  [藝人月曆 - 2011年10月12日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+3.  [藝人月曆 - 2011年10月21日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+4.  [藝人月曆 - 2011年11月3日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+5.  [藝人月曆 - 2011年11月8日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+6.  [藝人月曆 - 2011年12月7日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+7.  [藝人月曆 - 2011年12月28日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+8.  [藝人月曆 - 2011年12月31日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+9.  [藝人月曆 - 2012年3月26日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+10. [藝人月曆 - 2013年2月25日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+11. [藝人月曆 - 2013年3月27日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+12. [藝人月曆 - 2013年4月8日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+13. [藝人月曆 - 2013年4月20日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)

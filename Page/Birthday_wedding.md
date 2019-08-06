@@ -1,5 +1,4 @@
-《**Birthday
-wedding**》是[日本](../Page/日本.md "wikilink")[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")[柏木由紀](../Page/柏木由紀.md "wikilink")的第二张[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年10月16日由[YukiRing](../Page/YukiRing.md "wikilink")發售\[1\]。
+《**Birthday wedding**》是[日本](../Page/日本.md "wikilink")[偶像](https://zh.wikipedia.org/wiki/偶像 "wikilink")[柏木由紀](../Page/柏木由紀.md "wikilink")的第二张[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年10月16日由[YukiRing](../Page/YukiRing.md "wikilink")發售\[1\]。
 
 ## 概要
 
@@ -7,13 +6,11 @@ wedding**》是[日本](../Page/日本.md "wikilink")[偶像](https://zh.wikiped
 
 本單曲以初回盤A、B、C、通常盤A、B、C的6種形式發售。
 
-2013年9月27日播放的《[Music
-Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")3小时特别节目》（[朝日電視台](../Page/朝日電視台.md "wikilink")）中初次在電視台披露\[2\]。
+2013年9月27日播放的《[Music Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")3小时特别节目》（[朝日電視台](../Page/朝日電視台.md "wikilink")）中初次在電視台披露\[2\]。
 
 ## 活動
 
-本作的Type-A/B/C的初回盤購買者可得到封入的應募卡，可参加2013年11月7日在[橫濱體育館](../Page/橫濱體育館.md "wikilink")中舉行的「柏木由紀
-3rd獨唱Live 睡著或醒著都是YUKIRIN世界 〜會讓你更沈迷喔〜 」（）的2000张门票的抽選\[3\]。
+本作的Type-A/B/C的初回盤購買者可得到封入的應募卡，可参加2013年11月7日在[橫濱體育館](../Page/橫濱體育館.md "wikilink")中舉行的「柏木由紀 3rd獨唱Live 睡著或醒著都是YUKIRIN世界 〜會讓你更沈迷喔〜 」（）的2000张门票的抽選\[3\]。
 
 ## 收錄曲目
 
@@ -66,10 +63,7 @@ Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")3小时特别节
       -
         （作詞：秋元康、作曲、編曲：）
     <!-- end list -->
-      - 是继所属小分队[French
-        Kiss的](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")《[If](../Page/If_\(French_Kiss單曲\).md "wikilink")》之后第二次收录这首歌的翻唱版本，原本此曲是“[Team
-        B 4th
-        Stage“偶像的黎明”](https://zh.wikipedia.org/wiki/Team_B_4th_Stage“偶像的黎明” "wikilink")”的公演曲。
+      - 是继所属小分队[French Kiss的](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")《[If](../Page/If_\(French_Kiss單曲\).md "wikilink")》之后第二次收录这首歌的翻唱版本，原本此曲是“[Team B 4th Stage“偶像的黎明”](https://zh.wikipedia.org/wiki/Team_B_4th_Stage“偶像的黎明” "wikilink")”的公演曲。
 4.  Birthday wedding（Instrumental）
 5.  但是一直（Instrumental）
 6.  口对口的巧克力（Instrumental）
@@ -125,10 +119,7 @@ Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")3小时特别节
   - [YukiRing官方網站](http://yukiring.jp/index.php)
 
   -
-[Category:AKB48家族關連歌曲](https://zh.wikipedia.org/wiki/Category:AKB48家族關連歌曲 "wikilink")
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
+[Category:AKB48家族關連歌曲](https://zh.wikipedia.org/wiki/Category:AKB48家族關連歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
 
 1.
 2.

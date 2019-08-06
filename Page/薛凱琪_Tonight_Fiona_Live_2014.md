@@ -1,10 +1,8 @@
-《**薛凱琪 Tonight Fiona Live
-2014**》是香港女歌手[薛凱琪出道以來的第二個於](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")[紅磡香港體育館舉行的個人演唱會](https://zh.wikipedia.org/wiki/紅磡香港體育館 "wikilink")\[1\]\[2\]。
+《**薛凱琪 Tonight Fiona Live 2014**》是香港女歌手[薛凱琪出道以來的第二個於](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")[紅磡香港體育館舉行的個人演唱會](https://zh.wikipedia.org/wiki/紅磡香港體育館 "wikilink")\[1\]\[2\]。
 
 ## 簡介
 
-由2004年正式出道算起，2014年是其第十年，因此以「十週年紀念演唱會」為宣傳。演唱會同時慶祝Fiona入行十周年，今次個唱設計成四面台，可以有更多座位滿足歌迷。門票於6月12日開始優先預訂，6月20日起於城市電腦售票網公開發售。兩場演唱會反應熱烈，全場爆滿，吸引接近二萬四千人到場觀看\[3\]。由於歌曲版權涉及舊公司[華納唱片](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")，演唱會不會推出任何影音產品，包括Live
-CD，Live DVD及BLU-RAY。
+由2004年正式出道算起，2014年是其第十年，因此以「十週年紀念演唱會」為宣傳。演唱會同時慶祝Fiona入行十周年，今次個唱設計成四面台，可以有更多座位滿足歌迷。門票於6月12日開始優先預訂，6月20日起於城市電腦售票網公開發售。兩場演唱會反應熱烈，全場爆滿，吸引接近二萬四千人到場觀看\[3\]。由於歌曲版權涉及舊公司[華納唱片](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")，演唱會不會推出任何影音產品，包括Live CD，Live DVD及BLU-RAY。
 
 ## 演唱會曲目
 

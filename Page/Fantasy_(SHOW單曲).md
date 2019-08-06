@@ -3,16 +3,14 @@
 ## 曲目
 
 1.  Fantasy
-      - 作曲：、、、[Johan
-        Alkenäs](https://zh.wikipedia.org/wiki/Johan_Alkenäs "wikilink")，作詞：[河合代介](https://zh.wikipedia.org/wiki/河合代介 "wikilink")，編曲：[陳信安](../Page/小安.md "wikilink")，監製：[鎌田匡人](https://zh.wikipedia.org/wiki/鎌田匡人 "wikilink")
+      - 作曲：、、、[Johan Alkenäs](https://zh.wikipedia.org/wiki/Johan_Alkenäs "wikilink")，作詞：[河合代介](https://zh.wikipedia.org/wiki/河合代介 "wikilink")，編曲：[陳信安](../Page/小安.md "wikilink")，監製：[鎌田匡人](https://zh.wikipedia.org/wiki/鎌田匡人 "wikilink")
       - 《[獅子吼](../Page/獅子吼.md "wikilink")》專輯主打歌《愛投羅網》的日語版本。
 2.  Beautiful Girl
       - 作曲：[都智文](https://zh.wikipedia.org/wiki/都智文 "wikilink")，作詞：，編曲：[梁思樺](https://zh.wikipedia.org/wiki/梁思樺 "wikilink")，監製：鎌田匡人
       - 《[獅子吼](../Page/獅子吼.md "wikilink")》專輯主打歌《我的皇后》的日語版本。
 3.  Fantasy（Instrumental）
       - 只收錄在通常盤。
-      - 作曲：Drew Ryan Scott、Joacim Persson、Niclas Molinder、Johan
-        Alkenäs，編曲：[陳信安](../Page/小安.md "wikilink")，監製：鎌田匡人
+      - 作曲：Drew Ryan Scott、Joacim Persson、Niclas Molinder、Johan Alkenäs，編曲：[陳信安](../Page/小安.md "wikilink")，監製：鎌田匡人
       - 《Fantasy》的純音樂版本。
 4.  Beautiful Girl（Instrumental）
       - 只收錄在通常盤。
@@ -116,22 +114,14 @@
 
   - [羅志祥於日本唱片公司波麗佳音的官方網站](http://show.ponycanyon.co.jp/)
 
-[Category:羅志祥音樂專輯](https://zh.wikipedia.org/wiki/Category:羅志祥音樂專輯 "wikilink")
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
+[Category:羅志祥音樂專輯](https://zh.wikipedia.org/wiki/Category:羅志祥音樂專輯 "wikilink") [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
 
 1.
-2.  [Fantasy
-    (普通版)(日本版)](http://www.yesasia.com/global/fantasy-%E6%99%AE%E9%80%9A%E7%89%88-%E6%97%A5%E6%9C%AC%E7%89%88/1034722198-0-0-0-zh_TW/info.html)YesAsia.com
-3.  [Fantasy ［Type A］(SINGLE+DVD)
-    (初回限定版)(日本版)](http://www.yesasia.com/global/fantasy-type-a-single-dvd-%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E7%89%88-%E6%97%A5%E6%9C%AC%E7%89%88/1034722196-0-0-0-zh_TW/info.html)YesAsia.com
-4.  [Fantasy ［Type B］(SINGLE+DVD)
-    (初回限定版)(日本版)](http://www.yesasia.com/global/fantasy-type-b-single-dvd-%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E7%89%88-%E6%97%A5%E6%9C%AC%E7%89%88/1034722197-0-0-0-zh_TW/info.html)YesAsia.com
-5.  [羅志祥日文、搞笑卸心防 成功獵豔孫佳人Gain - wow
-    news](http://www.wownews.tw/article.php?sn=9831)，2013年10月24日 (四)
-    08:57 (UTC+8)查閱
+2.  [Fantasy (普通版)(日本版)](http://www.yesasia.com/global/fantasy-%E6%99%AE%E9%80%9A%E7%89%88-%E6%97%A5%E6%9C%AC%E7%89%88/1034722198-0-0-0-zh_TW/info.html)YesAsia.com
+3.  [Fantasy ［Type A］(SINGLE+DVD) (初回限定版)(日本版)](http://www.yesasia.com/global/fantasy-type-a-single-dvd-%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E7%89%88-%E6%97%A5%E6%9C%AC%E7%89%88/1034722196-0-0-0-zh_TW/info.html)YesAsia.com
+4.  [Fantasy ［Type B］(SINGLE+DVD) (初回限定版)(日本版)](http://www.yesasia.com/global/fantasy-type-b-single-dvd-%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E7%89%88-%E6%97%A5%E6%9C%AC%E7%89%88/1034722197-0-0-0-zh_TW/info.html)YesAsia.com
+5.  [羅志祥日文、搞笑卸心防 成功獵豔孫佳人Gain - wow news](http://www.wownews.tw/article.php?sn=9831)，2013年10月24日 (四) 08:57 (UTC+8)查閱
 6.
-7.  [小豬《Fantasy》渡日 攻進公信榜第3名 -
-    台灣蘋果日報](http://ent.appledaily.com.tw/enews/article/entertainment/20140218/35647064/%E5%B0%8F%E8%B1%AC%E3%80%8AFantasy%E3%80%8B%E6%B8%A1%E6%97%A5%E6%94%BB%E9%80%B2%E5%85%AC%E4%BF%A1%E6%A6%9C%E7%AC%AC3%E5%90%8D)，2014年02月18日
-    (二) 09:50 (UTC+8)查閱
+7.  [小豬《Fantasy》渡日 攻進公信榜第3名 - 台灣蘋果日報](http://ent.appledaily.com.tw/enews/article/entertainment/20140218/35647064/%E5%B0%8F%E8%B1%AC%E3%80%8AFantasy%E3%80%8B%E6%B8%A1%E6%97%A5%E6%94%BB%E9%80%B2%E5%85%AC%E4%BF%A1%E6%A6%9C%E7%AC%AC3%E5%90%8D)，2014年02月18日 (二) 09:50 (UTC+8)查閱
 8.
 9.

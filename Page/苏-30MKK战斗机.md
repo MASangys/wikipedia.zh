@@ -1,8 +1,6 @@
-**Su-30MKK戰鬥機**（蘇愷-30MKK戰鬥機，[北約命名稱為側衛G](https://zh.wikipedia.org/wiki/北約命名 "wikilink")，Flanker
-G），是[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[蘇霍伊航空公司設計的](https://zh.wikipedia.org/wiki/蘇霍伊 "wikilink")[第四代雙座](https://zh.wikipedia.org/wiki/第四代战机 "wikilink")[多用途戰機](../Page/多用途戰機.md "wikilink")。在俄罗斯远东的阿穆尔共青城航空联合制造企业生产，1999年首飛成功。
+**Su-30MKK戰鬥機**（蘇愷-30MKK戰鬥機，[北約命名稱為側衛G](https://zh.wikipedia.org/wiki/北約命名 "wikilink")，Flanker G），是[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[蘇霍伊航空公司設計的](https://zh.wikipedia.org/wiki/蘇霍伊 "wikilink")[第四代雙座](https://zh.wikipedia.org/wiki/第四代战机 "wikilink")[多用途戰機](../Page/多用途戰機.md "wikilink")。在俄罗斯远东的阿穆尔共青城航空联合制造企业生产，1999年首飛成功。
 
-Su-30MKK是俄語Су-30МКК的拉丁轉寫。МКК是модернизированный, коммерческий,
-китайский的縮寫，意思是[中國](../Page/中國.md "wikilink")的現代化商業版。解放軍用它來替代老化的[殲轟-7](../Page/殲轟-7.md "wikilink")，成為新主力。
+Su-30MKK是俄語Су-30МКК的拉丁轉寫。МКК是модернизированный, коммерческий, китайский的縮寫，意思是[中國](../Page/中國.md "wikilink")的現代化商業版。解放軍用它來替代老化的[殲轟-7](../Page/殲轟-7.md "wikilink")，成為新主力。
 
 ## 概觀
 
@@ -16,10 +14,7 @@ Su-30MK2是MKK型的電子加強版有C4ISTAR能力，可以擔任小型[空中�
 
 ## 使用國
 
-[PLAAF_Sukhoi_Su-30MKK_at_Lipetsk-2.jpg](https://zh.wikipedia.org/wiki/File:PLAAF_Sukhoi_Su-30MKK_at_Lipetsk-2.jpg "fig:PLAAF_Sukhoi_Su-30MKK_at_Lipetsk-2.jpg")的Su-30MKK\]\]
-[Uganda_People's_Defence_Force_Air_Wing_Sukhoi_Su-30MK2_MTI-2.jpg](https://zh.wikipedia.org/wiki/File:Uganda_People's_Defence_Force_Air_Wing_Sukhoi_Su-30MK2_MTI-2.jpg "fig:Uganda_People's_Defence_Force_Air_Wing_Sukhoi_Su-30MK2_MTI-2.jpg")
-[Tni-au_su-30_1.jpg](https://zh.wikipedia.org/wiki/File:Tni-au_su-30_1.jpg "fig:Tni-au_su-30_1.jpg")的Su-30MK2\]\]
-[Venezuela_Air_Force_Sukhoi_Su-30MK2_AADPR-2.jpg](https://zh.wikipedia.org/wiki/File:Venezuela_Air_Force_Sukhoi_Su-30MK2_AADPR-2.jpg "fig:Venezuela_Air_Force_Sukhoi_Su-30MK2_AADPR-2.jpg")
+[PLAAF_Sukhoi_Su-30MKK_at_Lipetsk-2.jpg](https://zh.wikipedia.org/wiki/File:PLAAF_Sukhoi_Su-30MKK_at_Lipetsk-2.jpg "fig:PLAAF_Sukhoi_Su-30MKK_at_Lipetsk-2.jpg")的Su-30MKK\]\] [Uganda_People's_Defence_Force_Air_Wing_Sukhoi_Su-30MK2_MTI-2.jpg](https://zh.wikipedia.org/wiki/File:Uganda_People's_Defence_Force_Air_Wing_Sukhoi_Su-30MK2_MTI-2.jpg "fig:Uganda_People's_Defence_Force_Air_Wing_Sukhoi_Su-30MK2_MTI-2.jpg") [Tni-au_su-30_1.jpg](https://zh.wikipedia.org/wiki/File:Tni-au_su-30_1.jpg "fig:Tni-au_su-30_1.jpg")的Su-30MK2\]\] [Venezuela_Air_Force_Sukhoi_Su-30MK2_AADPR-2.jpg](https://zh.wikipedia.org/wiki/File:Venezuela_Air_Force_Sukhoi_Su-30MK2_AADPR-2.jpg "fig:Venezuela_Air_Force_Sukhoi_Su-30MK2_AADPR-2.jpg")
 
   -
 
@@ -67,10 +62,7 @@ Su-30MK2是MKK型的電子加強版有C4ISTAR能力，可以擔任小型[空中�
 
 ## 參考文獻
 
-[Category:苏霍伊飞机](https://zh.wikipedia.org/wiki/Category:苏霍伊飞机 "wikilink")
-[Category:蘇聯戰鬥機](https://zh.wikipedia.org/wiki/Category:蘇聯戰鬥機 "wikilink")
-[Category:俄羅斯戰鬥機](https://zh.wikipedia.org/wiki/Category:俄羅斯戰鬥機 "wikilink")
-[Category:雙發噴射機](https://zh.wikipedia.org/wiki/Category:雙發噴射機 "wikilink")
+[Category:苏霍伊飞机](https://zh.wikipedia.org/wiki/Category:苏霍伊飞机 "wikilink") [Category:蘇聯戰鬥機](https://zh.wikipedia.org/wiki/Category:蘇聯戰鬥機 "wikilink") [Category:俄羅斯戰鬥機](https://zh.wikipedia.org/wiki/Category:俄羅斯戰鬥機 "wikilink") [Category:雙發噴射機](https://zh.wikipedia.org/wiki/Category:雙發噴射機 "wikilink")
 
 1.  [Su-30MKK全歷史](http://www.mdc.idv.tw/mdc/air/su30.htm)
 

@@ -1,5 +1,4 @@
-**大学先修课程微积分** (又称**AP微积分**, **AP Calc AB / AP Calc BC**, 或 **AP
-Calc**)是[美国大学理事会提供的两门](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")[大学先修课程中的](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")[微积分科目](https://zh.wikipedia.org/wiki/微积分 "wikilink")：AP微积分AB和AP微积分BC。
+**大学先修课程微积分** (又称**AP微积分**, **AP Calc AB / AP Calc BC**, 或 **AP Calc**)是[美国大学理事会提供的两门](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")[大学先修课程中的](https://zh.wikipedia.org/wiki/大学先修课程 "wikilink")[微积分科目](https://zh.wikipedia.org/wiki/微积分 "wikilink")：AP微积分AB和AP微积分BC。
 
 ## AP微积分AB
 
@@ -11,8 +10,7 @@ AP微积分AB是为高中生准备的[大学先修课程中](https://zh.wikipedi
 
 ### 考试内容
 
-考试内容包括[微分](../Page/微分.md "wikilink")和[积分](../Page/积分.md "wikilink")的理论与应用，图像分析包括[極限](https://zh.wikipedia.org/wiki/極限_\(數學\) "wikilink")，[渐近线](../Page/渐近线.md "wikilink")，和[连续](https://zh.wikipedia.org/wiki/连续 "wikilink")。\[1\]AP微积分AB课程通常等同于大学第一学期的高数课程。
-进一步来说，课程内容包括\[2\]
+考试内容包括[微分](../Page/微分.md "wikilink")和[积分](../Page/积分.md "wikilink")的理论与应用，图像分析包括[極限](https://zh.wikipedia.org/wiki/極限_\(數學\) "wikilink")，[渐近线](../Page/渐近线.md "wikilink")，和[连续](https://zh.wikipedia.org/wiki/连续 "wikilink")。\[1\]AP微积分AB课程通常等同于大学第一学期的高数课程。 进一步来说，课程内容包括\[2\]
 
   - 图像分析 (并对现象进行预测、解释)
   - 方程[极限](https://zh.wikipedia.org/wiki/极限 "wikilink") (单双两向)
@@ -59,19 +57,13 @@ AB与BC考试的结构是一样的。两个考试时长都是3小时15分钟，�
 | 时长   | 60 分鐘                                                            | 45 分鐘                                                            | 30 分钟                                                            | 60 分钟                                                            |
 | 计算器  | 否                                                                | 是                                                                | 是                                                                | 否                                                                |
 
-[选择题分为独立的两部分](https://zh.wikipedia.org/wiki/选择题 "wikilink")，并对其进行记时。学生可以在做第二部分
-Part B 时返回去做 Part A
-的考题，但是不许使用计算器。[申論題考试时长为一个半小时](https://zh.wikipedia.org/wiki/申論題 "wikilink")。在2011年新版考试中，有两道[申論題需要使用计算器](https://zh.wikipedia.org/wiki/申論題 "wikilink")，另外四道题目则不许使用计算器。考生在[申論題开考](https://zh.wikipedia.org/wiki/申論題 "wikilink")30分钟后被要求收起计算器，进行下面的第二部分
-Part B
-考试。学生可以在[申論題考试中继续做第二部分](https://zh.wikipedia.org/wiki/申論題 "wikilink")
-Part A 的考题，只是在后半部分不许使用计算器。
+[选择题分为独立的两部分](https://zh.wikipedia.org/wiki/选择题 "wikilink")，并对其进行记时。学生可以在做第二部分 Part B 时返回去做 Part A 的考题，但是不许使用计算器。[申論題考试时长为一个半小时](https://zh.wikipedia.org/wiki/申論題 "wikilink")。在2011年新版考试中，有两道[申論題需要使用计算器](https://zh.wikipedia.org/wiki/申論題 "wikilink")，另外四道题目则不许使用计算器。考生在[申論題开考](https://zh.wikipedia.org/wiki/申論題 "wikilink")30分钟后被要求收起计算器，进行下面的第二部分 Part B 考试。学生可以在[申論題考试中继续做第二部分](https://zh.wikipedia.org/wiki/申論題 "wikilink") Part A 的考题，只是在后半部分不许使用计算器。
 
 ### 计分
 
 [选择题部分为计算机计分](https://zh.wikipedia.org/wiki/选择题 "wikilink")，答对一题得1分，无答案得0分，根据AP中心新的改版，答错不倒扣分。总分将被乘以1.2作为选择题的加权分值。\[7\]
 
-在每年六月份，成百上千的教育人士对[申论题进行批阅](https://zh.wikipedia.org/wiki/申论题 "wikilink")。\[8\]
-原始分数与选择题加权分值相加，得到合成分数。总分与当年考试的合成分数对比，转化为AP 评分 1 - 5。
+在每年六月份，成百上千的教育人士对[申论题进行批阅](https://zh.wikipedia.org/wiki/申论题 "wikilink")。\[8\] 原始分数与选择题加权分值相加，得到合成分数。总分与当年考试的合成分数对比，转化为AP 评分 1 - 5。
 
 2013年之前，学生基本上在7月份中旬通过信件收到成绩单。\[9\]2013年，[美国大学理事会不再寄信](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")，而是要求考生创建用户名和密码，输入他们的AP代号和学生ID来查询成绩。成绩将在7月份左右公布。\[10\]另外，考生也可以在6月27日电话咨询成绩，费用是$8(虽然[美国大学理事会官方只承认](https://zh.wikipedia.org/wiki/美国大学理事会 "wikilink")7月1日为致电咨询的第一天\[11\]).
 
@@ -121,19 +113,13 @@ Part A 的考题，只是在后半部分不许使用计算器。
 ## 外部链接
 
   - AP 微积分 AB
-      - [College Board description of the AP Calculus AB course
-        content](https://web.archive.org/web/20081219070626/http://www.collegeboard.com/student/testing/ap/calculus_ab/topic.html?calcab)
-      - [College Board description of the AP Calculus AB
-        examination](https://web.archive.org/web/20081219070621/http://www.collegeboard.com/student/testing/ap/calculus_ab/exam.html?calcab)
+      - [College Board description of the AP Calculus AB course content](https://web.archive.org/web/20081219070626/http://www.collegeboard.com/student/testing/ap/calculus_ab/topic.html?calcab)
+      - [College Board description of the AP Calculus AB examination](https://web.archive.org/web/20081219070621/http://www.collegeboard.com/student/testing/ap/calculus_ab/exam.html?calcab)
   - AP 微积分 BC
-      - [College Board description of the AP Calculus BC course
-        content](https://web.archive.org/web/20081219081215/http://www.collegeboard.com/student/testing/ap/calculus_bc/topic.html?calcbc)
-      - [College Board description of the AP Calculus BC
-        examination](https://web.archive.org/web/20130401114413/http://www.collegeboard.com/student/testing/ap/calculus_bc/exam.html?calcbc)
+      - [College Board description of the AP Calculus BC course content](https://web.archive.org/web/20081219081215/http://www.collegeboard.com/student/testing/ap/calculus_bc/topic.html?calcbc)
+      - [College Board description of the AP Calculus BC examination](https://web.archive.org/web/20130401114413/http://www.collegeboard.com/student/testing/ap/calculus_bc/exam.html?calcbc)
 
-[Category:大學先修課程](https://zh.wikipedia.org/wiki/Category:大學先修課程 "wikilink")
-[Category:美國教育](https://zh.wikipedia.org/wiki/Category:美國教育 "wikilink")
-[Category:微积分](https://zh.wikipedia.org/wiki/Category:微积分 "wikilink")
+[Category:大學先修課程](https://zh.wikipedia.org/wiki/Category:大學先修課程 "wikilink") [Category:美國教育](https://zh.wikipedia.org/wiki/Category:美國教育 "wikilink") [Category:微积分](https://zh.wikipedia.org/wiki/Category:微积分 "wikilink")
 
 1.
 2.
@@ -146,15 +132,9 @@ Part A 的考题，只是在后半部分不许使用计算器。
 9.
 10.
 11.
-12. [2010 Calculus AB score
-    distribution](http://apcentral.collegeboard.com/apc/public/repository/2010_CalculusAB_Score_Dist.pdf)
-13. [2011 Calculus AB score
-    distribution](http://apcentral.collegeboard.com/apc/public/repository/2011_Calculus_AB_Score_Dist.pdf)
-14. [2012 Calculus AB score
-    distribution](http://apcentral.collegeboard.com/apc/public/repository/ap12_calculus_AB_ScoringDist.pdf)
-15. [2010 Calculus BC score
-    distribution](http://apcentral.collegeboard.com/apc/public/repository/2010_CalculusBC_Score_Dist.pdf)
-16. [2011 Calculus BC score
-    distribution](http://apcentral.collegeboard.com/apc/public/repository/2011_Calculus_BC_Score_Dist.pdf)
-17. [2012 Calculus BC score
-    distribution](http://apcentral.collegeboard.com/apc/public/repository/2010_CalculusBC_Score_Dist.pdf)
+12. [2010 Calculus AB score distribution](http://apcentral.collegeboard.com/apc/public/repository/2010_CalculusAB_Score_Dist.pdf)
+13. [2011 Calculus AB score distribution](http://apcentral.collegeboard.com/apc/public/repository/2011_Calculus_AB_Score_Dist.pdf)
+14. [2012 Calculus AB score distribution](http://apcentral.collegeboard.com/apc/public/repository/ap12_calculus_AB_ScoringDist.pdf)
+15. [2010 Calculus BC score distribution](http://apcentral.collegeboard.com/apc/public/repository/2010_CalculusBC_Score_Dist.pdf)
+16. [2011 Calculus BC score distribution](http://apcentral.collegeboard.com/apc/public/repository/2011_Calculus_BC_Score_Dist.pdf)
+17. [2012 Calculus BC score distribution](http://apcentral.collegeboard.com/apc/public/repository/2010_CalculusBC_Score_Dist.pdf)

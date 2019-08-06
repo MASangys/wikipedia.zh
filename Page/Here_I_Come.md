@@ -1,6 +1,4 @@
-**《Here I Come》**是[Gin
-Lee於香港發行的第一張專輯](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink")，於2011年10月27日推出，反應理想，其後於12月16日推出Special
-Edition，加收兩首翻唱的英文歌曲。
+**《Here I Come》**是[李幸倪](../Page/李幸倪.md "wikilink")於香港發行的第一張專輯，於2011年10月27日推出，反應理想，其後於12月16日推出Special Edition，加收兩首翻唱的英文歌曲。
 
 ## 曲目資料
 
@@ -39,6 +37,4 @@ Edition，加收兩首翻唱的英文歌曲。
   - \* 代表上榜中
   - （^）代表由於TVB與包括其所屬博美娛樂的五大唱片公司的版稅紛爭而並無派上TVB
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:李幸倪音樂專輯](https://zh.wikipedia.org/wiki/Category:李幸倪音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:李幸倪音樂專輯](https://zh.wikipedia.org/wiki/Category:李幸倪音樂專輯 "wikilink")

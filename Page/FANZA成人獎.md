@@ -8,11 +8,9 @@
 
 成立之初时活动名称为DMMアダルトアワード（英: DMM ADULT AWARD）。
 
-2015年度，活動名稱改為DMM.R18アダルトアワード（英: DMM.R18 ADULT
-AWARD），場地由[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")改為[豊洲PIT](https://zh.wikipedia.org/wiki/豊洲PIT "wikilink")。此外，媒體獎設立之後，會場投票與現場直播也開始實施。
+2015年度，活動名稱改為DMM.R18アダルトアワード（英: DMM.R18 ADULT AWARD），場地由[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")改為[豊洲PIT](https://zh.wikipedia.org/wiki/豊洲PIT "wikilink")。此外，媒體獎設立之後，會場投票與現場直播也開始實施。
 
-2019年开始活动名称更改为「**FANZAアダルトアワード**」（英: FANZA ADULT AWARD），场地变更为STUDIO
-COAST。
+2019年开始活动名称更改为「**FANZAアダルトアワード**」（英: FANZA ADULT AWARD），场地变更为STUDIO COAST。
 
 ## 獎項
 
@@ -23,8 +21,7 @@ COAST。
 <!-- end list -->
 
   - 最優秀・優秀女優獎（英: BEST ACTRESS PRIZE）\[3\]：單體作品1部以上、總計發行6部以上單體作品
-  - 最優秀新人獎（英: BEST NEWCOMER ACTRESS
-    PRIZE）：在舉辦年的前一年初登場\[4\]、單體作品1部以上、總計發行3部以上單體作品
+  - 最優秀新人獎（英: BEST NEWCOMER ACTRESS PRIZE）：在舉辦年的前一年初登場\[4\]、單體作品1部以上、總計發行3部以上單體作品
   - 特別獎：特別活躍
   - 話題獎：製造話題
   - 特別主持人獎：由主持人自行決定
@@ -36,8 +33,7 @@ COAST。
 
 <!-- end list -->
 
-  - 最優秀獎（英: BEST
-    WORKS）：[郵購](https://zh.wikipedia.org/wiki/郵購 "wikilink")、[配送](../Page/隨選視訊.md "wikilink")、[租賃的各部門最優秀作品](https://zh.wikipedia.org/wiki/影碟出租店 "wikilink")
+  - 最優秀獎（英: BEST WORKS）：[郵購](https://zh.wikipedia.org/wiki/郵購 "wikilink")、[配送](../Page/隨選視訊.md "wikilink")、[租賃的各部門最優秀作品](https://zh.wikipedia.org/wiki/影碟出租店 "wikilink")
 
 ## 歷年得獎者
 
@@ -53,11 +49,9 @@ COAST。
       - **[明日花キララ](../Page/明日花綺羅.md "wikilink")**（擔任過兩家片商的專屬女優）
   - 特別主持人獎：[吉川あいみ](../Page/吉川愛美.md "wikilink")
   - 最優秀作品獎
-      - 郵購：《**AV debut**》 -
-        [橘梨紗](https://zh.wikipedia.org/wiki/橘梨紗 "wikilink")
+      - 郵購：《**AV debut**》 - [橘梨紗](https://zh.wikipedia.org/wiki/橘梨紗 "wikilink")
       - 配送：《**絶対的美少女、お貸しします**》 - [鈴村あいり](../Page/鈴村愛里.md "wikilink")
-      - 租賃：《**新人NO.1 STYLE スター候補生**》 -
-        [緒川りお](../Page/緒川里緒.md "wikilink")
+      - 租賃：《**新人NO.1 STYLE スター候補生**》 - [緒川りお](../Page/緒川里緒.md "wikilink")
 
 ### 2015年
 
@@ -70,17 +64,11 @@ COAST。
   - 媒體獎：**[小島みなみ](https://zh.wikipedia.org/wiki/小島南 "wikilink")**
   - 最優秀作品獎
 
-:\* 郵購：《**R18
-ガチ5本番\!**》（2014年12月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）-
-[城田理加](https://zh.wikipedia.org/wiki/城田理加 "wikilink")
+:\* 郵購：《**R18 ガチ5本番\!**》（2014年12月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）- [城田理加](https://zh.wikipedia.org/wiki/城田理加 "wikilink")
 
-:\* 配送《**がご奉仕しちゃう
-超最新やみつきエステ**》（2014年5月1日、[PRESTIGE](https://zh.wikipedia.org/wiki/Prestige "wikilink")）-
-[桃谷エリカ](https://zh.wikipedia.org/wiki/桃谷繪里香 "wikilink")
+:\* 配送《**がご奉仕しちゃう 超最新やみつきエステ**》（2014年5月1日、[PRESTIGE](https://zh.wikipedia.org/wiki/Prestige "wikilink")）- [桃谷エリカ](https://zh.wikipedia.org/wiki/桃谷繪里香 "wikilink")
 
-:\* 租賃：《'''現役女子大生\!\! 照れカワ、ふんわり18歳 AVデビュー\!\!
-'''》（2014年3月1日、[MOODYZ](../Page/MOODYZ.md "wikilink")）-
-[初川みなみ](../Page/初川南.md "wikilink")
+:\* 租賃：《'''現役女子大生\!\! 照れカワ、ふんわり18歳 AVデビュー\!\! '''》（2014年3月1日、[MOODYZ](../Page/MOODYZ.md "wikilink")）- [初川みなみ](../Page/初川南.md "wikilink")
 
 ### 2016年
 
@@ -93,17 +81,11 @@ COAST。
   - 媒體獎：**[紗倉まな](../Page/紗倉真菜.md "wikilink")**
   - 最優秀作品獎
 
-:\* 郵購：《**Princess
-Peach**》（2015年6月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）-
-**[三上悠亜](https://zh.wikipedia.org/wiki/三上悠亜 "wikilink")**
+:\* 郵購：《**Princess Peach**》（2015年6月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）- **[三上悠亜](https://zh.wikipedia.org/wiki/三上悠亜 "wikilink")**
 
-:\* 配送：《**Princess
-Peach**》（2015年6月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）-
-**[三上悠亜](https://zh.wikipedia.org/wiki/三上悠亜 "wikilink")**
+:\* 配送：《**Princess Peach**》（2015年6月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）- **[三上悠亜](https://zh.wikipedia.org/wiki/三上悠亜 "wikilink")**
 
-:\* 租賃：《**Princess
-Peach**》（2015年6月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）-
-**[三上悠亜](https://zh.wikipedia.org/wiki/三上悠亜 "wikilink")**
+:\* 租賃：《**Princess Peach**》（2015年6月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）- **[三上悠亜](https://zh.wikipedia.org/wiki/三上悠亜 "wikilink")**
 
 ### 2017年
 
@@ -117,17 +99,11 @@ Peach**》（2015年6月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wi
   - 媒體獎：**[桃乃木かな](../Page/桃乃木香奈.md "wikilink")**
   - 最優秀作品獎
 
-:\* 郵購：《**グラビア四天王たかしょーMUTEKI
-Debut**》（2016年5月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）-
-**[高橋しょう子](../Page/高橋聖子.md "wikilink")**
+:\* 郵購：《**グラビア四天王たかしょーMUTEKI Debut**》（2016年5月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）- **[高橋しょう子](../Page/高橋聖子.md "wikilink")**
 
-:\* 配送：《**グラビア四天王たかしょーMUTEKI
-Debut**》（2016年5月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）-
-**[高橋しょう子](../Page/高橋聖子.md "wikilink")**
+:\* 配送：《**グラビア四天王たかしょーMUTEKI Debut**》（2016年5月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）- **[高橋しょう子](../Page/高橋聖子.md "wikilink")**
 
-:\* 租賃：《**グラビア四天王たかしょーMUTEKI
-Debut**》（2016年5月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）-
-**[高橋しょう子](../Page/高橋聖子.md "wikilink")**
+:\* 租賃：《**グラビア四天王たかしょーMUTEKI Debut**》（2016年5月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）- **[高橋しょう子](../Page/高橋聖子.md "wikilink")**
 
 ### 2018年
 
@@ -141,17 +117,11 @@ Debut**》（2016年5月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wi
   - 週刊プレイボーイ獎：**[橋本ありな](../Page/橋本有菜.md "wikilink")**
   - 最優秀作品獎
 
-:\* 郵購：《**Fade
-In**》（2017年6月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）-
-**[仲村みう](https://zh.wikipedia.org/wiki/仲村みう "wikilink")**
+:\* 郵購：《**Fade In**》（2017年6月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）- **[仲村みう](https://zh.wikipedia.org/wiki/仲村みう "wikilink")**
 
-:\* 配送：《**Fade
-In**》（2017年6月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）-
-**[仲村みう](https://zh.wikipedia.org/wiki/仲村みう "wikilink")**
+:\* 配送：《**Fade In**》（2017年6月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikilink")）- **[仲村みう](https://zh.wikipedia.org/wiki/仲村みう "wikilink")**
 
-:\* 租賃：《**E-BODYが1年がかりでAV出演を口説いた超有名歓楽街すすきのNo.1美乳ソープ嬢
-専属デビュー**》（2017年1月15日、[E-BODY](https://zh.wikipedia.org/wiki/E-BODY "wikilink")）-
-**[堺希美](https://zh.wikipedia.org/wiki/堺希美 "wikilink")**
+:\* 租賃：《**E-BODYが1年がかりでAV出演を口説いた超有名歓楽街すすきのNo.1美乳ソープ嬢 専属デビュー**》（2017年1月15日、[E-BODY](https://zh.wikipedia.org/wiki/E-BODY "wikilink")）- **[堺希美](https://zh.wikipedia.org/wiki/堺希美 "wikilink")**
 
 ### 2019年
 
@@ -165,17 +135,11 @@ In**》（2017年6月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikil
   - 週刊プレイボーイ獎：**[吉高寧々](https://zh.wikipedia.org/wiki/吉高寧寧 "wikilink")**
   - 最優秀作品獎
 
-:\* 動画部門：《**本庄鈴 みなさまのおかげです。AV
-DEBUT**》（2018年5月24日、[SOD](https://zh.wikipedia.org/wiki/SOD "wikilink")）-
-**[本庄鈴](../Page/本庄鈴.md "wikilink")**
+:\* 動画部門：《**本庄鈴 みなさまのおかげです。AV DEBUT**》（2018年5月24日、[SOD](https://zh.wikipedia.org/wiki/SOD "wikilink")）- **[本庄鈴](../Page/本庄鈴.md "wikilink")**
 
-:\* 販売部門：《**新人NO.1STYLE
-河北彩花AVデビュー**》（2018年4月19日、[S1](https://zh.wikipedia.org/wiki/S1 "wikilink")）-
-**[河北彩花](../Page/河北彩花.md "wikilink")**
+:\* 販売部門：《**新人NO.1STYLE 河北彩花AVデビュー**》（2018年4月19日、[S1](https://zh.wikipedia.org/wiki/S1 "wikilink")）- **[河北彩花](../Page/河北彩花.md "wikilink")**
 
-:\* レンタル部門：《**新人NO.1STYLE
-河北彩花AVデビュー**》（2018年4月19日、[S1](https://zh.wikipedia.org/wiki/S1 "wikilink")）-
-**[河北彩花](../Page/河北彩花.md "wikilink")**
+:\* レンタル部門：《**新人NO.1STYLE 河北彩花AVデビュー**》（2018年4月19日、[S1](https://zh.wikipedia.org/wiki/S1 "wikilink")）- **[河北彩花](../Page/河北彩花.md "wikilink")**
 
 ## 记录
 
@@ -216,8 +180,7 @@ DEBUT**》（2018年5月24日、[SOD](https://zh.wikipedia.org/wiki/SOD "wikilin
   - [成人廣播獎](../Page/成人廣播獎.md "wikilink")
   - [ピンク大賞](https://zh.wikipedia.org/wiki/ピンク大賞 "wikilink")
   - [スカパー\!アダルト放送大賞](https://zh.wikipedia.org/wiki/スカパー!アダルト放送大賞 "wikilink")
-  - [AV
-    OPEN](https://zh.wikipedia.org/wiki/AV_OPEN〜あなたが決める!セルアダルトビデオ日本一決定戦〜 "wikilink")
+  - [AV OPEN](https://zh.wikipedia.org/wiki/AV_OPEN〜あなたが決める!セルアダルトビデオ日本一決定戦〜 "wikilink")
   - [AV30](https://zh.wikipedia.org/wiki/AV30 "wikilink")
   - [AVNアワード](https://zh.wikipedia.org/wiki/AVNアワード "wikilink")
 
@@ -229,24 +192,15 @@ DEBUT**》（2018年5月24日、[SOD](https://zh.wikipedia.org/wiki/SOD "wikilin
 
   - （2014年2月5日 - ）
 
-[Category:日本獎勵](https://zh.wikipedia.org/wiki/Category:日本獎勵 "wikilink")
-[Category:成人電影](https://zh.wikipedia.org/wiki/Category:成人電影 "wikilink")
-[Category:日本性产业](https://zh.wikipedia.org/wiki/Category:日本性产业 "wikilink")
+[Category:日本獎勵](https://zh.wikipedia.org/wiki/Category:日本獎勵 "wikilink") [Category:成人電影](https://zh.wikipedia.org/wiki/Category:成人電影 "wikilink") [Category:日本性产业](https://zh.wikipedia.org/wiki/Category:日本性产业 "wikilink")
 
-1.  [麻美ゆま
-    大久保佳代子からのサプライズに涙「DMMアダルトアワード2014」](http://npn.co.jp/article/detail/56389612/)，[reallivenews](https://zh.wikipedia.org/wiki/reallivenews "wikilink")，2014年4月25日
-
-2.  [大病から復帰の麻美ゆま、涙の受賞「ＤＭＭアダルトアワード」で特別賞](http://headlines.yahoo.co.jp/hl?a=20140424-00000555-sanspo-ent)
-    ，[奇摩新聞](https://zh.wikipedia.org/wiki/奇摩新聞 "wikilink")，2014年4月24日
+1.  [麻美ゆま 大久保佳代子からのサプライズに涙「DMMアダルトアワード2014」](http://npn.co.jp/article/detail/56389612/)，[reallivenews](https://zh.wikipedia.org/wiki/reallivenews "wikilink")，2014年4月25日
+2.  [大病から復帰の麻美ゆま、涙の受賞「ＤＭＭアダルトアワード」で特別賞](http://headlines.yahoo.co.jp/hl?a=20140424-00000555-sanspo-ent) ，[奇摩新聞](https://zh.wikipedia.org/wiki/奇摩新聞 "wikilink")，2014年4月24日
 3.  2014年度は結果が僅差のため2名（プラチナ・ゴールド）選出された。
 4.  11・12月デビュー者は翌年の対象となっている。
 5.  [【ＤＭＭアダルトアワード】最優秀女優賞に上原亜衣](http://www.tokyo-sports.co.jp/entame/entertainment/259898/)，[東京體育](../Page/東京體育.md "wikilink")日報，2014年04月24日
 6.  [【ＤＭＭアダルトアワード】最優秀新人賞の白石茉莉奈が涙](http://www.tokyo-sports.co.jp/entame/entertainment/259909/)，2014年04月24日
 7.  [【DMMアダルトアワード】麻美ゆま　特別賞で感激　プレゼンターは大久保佳代子](http://www.tokyo-sports.co.jp/entame/entertainment/259915/)，[東京體育](../Page/東京體育.md "wikilink")日報，2014年04月24日
-8.  [最優秀女優賞は湊莉久
-    涙流しファンに感謝](http://www.tokyo-sports.co.jp/entame/entertainment/396672/)
-    - 東スポweb 2015年5月4日
-9.  [天使もえが最優秀新人賞](http://www.tokyo-sports.co.jp/entame/entertainment/396663/)
-    - 東スポweb 2015年5月4日
-10. [麻美ゆまが元気にMC/希志あいの「引退」発表](http://www.tokyo-sports.co.jp/entame/entertainment/396691/)
-    - 東スポweb 2015年5月4日
+8.  [最優秀女優賞は湊莉久 涙流しファンに感謝](http://www.tokyo-sports.co.jp/entame/entertainment/396672/) - 東スポweb 2015年5月4日
+9.  [天使もえが最優秀新人賞](http://www.tokyo-sports.co.jp/entame/entertainment/396663/) - 東スポweb 2015年5月4日
+10. [麻美ゆまが元気にMC/希志あいの「引退」発表](http://www.tokyo-sports.co.jp/entame/entertainment/396691/) - 東スポweb 2015年5月4日

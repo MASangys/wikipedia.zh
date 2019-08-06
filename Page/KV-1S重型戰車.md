@@ -6,8 +6,7 @@
 
 ## 衍生型
 
-  - [KV-85](../Page/KV-85坦克.md "wikilink"):
-    安装了85mm火炮和[IS-1的炮塔的新型号](https://zh.wikipedia.org/wiki/IS-1 "wikilink")（嚴格來說是過渡型號）。
+  - [KV-85](../Page/KV-85坦克.md "wikilink"): 安装了85mm火炮和[IS-1的炮塔的新型号](https://zh.wikipedia.org/wiki/IS-1 "wikilink")（嚴格來說是過渡型號）。
   - S-51：在KV-1S的车身上安装203mm榴弹炮的自行火炮。
   - [SU-152](../Page/SU-152.md "wikilink")：在KV-1S的底盤上安裝152mm榴彈砲的[突擊砲](../Page/突擊砲.md "wikilink")。
 
@@ -221,8 +220,6 @@ V-2-IS</p></td>
   - [Militaryfactory](http://www.militaryfactory.com/armor/detail.asp?armor_id=313)
   - [空中网](http://wot.kongzhong.com/news/news_54351214.html)
 
-[Category:蘇聯二戰坦克](https://zh.wikipedia.org/wiki/Category:蘇聯二戰坦克 "wikilink")
-[Category:重型坦克](https://zh.wikipedia.org/wiki/Category:重型坦克 "wikilink")
+[Category:蘇聯二戰坦克](https://zh.wikipedia.org/wiki/Category:蘇聯二戰坦克 "wikilink") [Category:重型坦克](https://zh.wikipedia.org/wiki/Category:重型坦克 "wikilink")
 
-1.  [IS-3 Model 1945](http://www.onwar.com/tanks/ussr/data/is3.htm)
-    onwar.com
+1.  [IS-3 Model 1945](http://www.onwar.com/tanks/ussr/data/is3.htm) onwar.com

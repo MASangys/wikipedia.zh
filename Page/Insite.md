@@ -10,10 +10,7 @@
 
 ## 參考文獻
 
-[Category:2003年建立](https://zh.wikipedia.org/wiki/Category:2003年建立 "wikilink")
-[Category:非營利組織](https://zh.wikipedia.org/wiki/Category:非營利組織 "wikilink")
-[Category:加拿大健康](https://zh.wikipedia.org/wiki/Category:加拿大健康 "wikilink")
-[Category:加拿大慈善機構](https://zh.wikipedia.org/wiki/Category:加拿大慈善機構 "wikilink")
+[Category:2003年建立](https://zh.wikipedia.org/wiki/Category:2003年建立 "wikilink") [Category:非營利組織](https://zh.wikipedia.org/wiki/Category:非營利組織 "wikilink") [Category:加拿大健康](https://zh.wikipedia.org/wiki/Category:加拿大健康 "wikilink") [Category:加拿大慈善機構](https://zh.wikipedia.org/wiki/Category:加拿大慈善機構 "wikilink")
 
 1.
 

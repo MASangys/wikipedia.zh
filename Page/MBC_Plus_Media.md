@@ -1,10 +1,8 @@
-**MBC Plus
-Media**是韓國[文化放送](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")（MBC）的[子公司](../Page/子公司.md "wikilink")，在2001年2月21日成立，其業務為經營[付費電視](https://zh.wikipedia.org/wiki/付費電視 "wikilink")，目前有7條頻道。
+**MBC Plus Media**是韓國[文化放送](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")（MBC）的[子公司](../Page/子公司.md "wikilink")，在2001年2月21日成立，其業務為經營[付費電視](https://zh.wikipedia.org/wiki/付費電視 "wikilink")，目前有7條頻道。
 
 ## 現有频道
 
-  - [MBC
-    Drama](https://zh.wikipedia.org/wiki/MBC_Drama "wikilink")：電視劇及綜藝節目頻道。
+  - [MBC Drama](https://zh.wikipedia.org/wiki/MBC_Drama "wikilink")：電視劇及綜藝節目頻道。
 
   - ：娛樂頻道。
 
@@ -55,6 +53,4 @@ MBC Queen的前身，
 
   - [MBC 플러스 미디어(MBC Plus Media)](http://www.mbcplus.com)
 
-[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
-[Category:2001年成立的公司](https://zh.wikipedia.org/wiki/Category:2001年成立的公司 "wikilink")
-[Category:韓國電視台](https://zh.wikipedia.org/wiki/Category:韓國電視台 "wikilink")
+[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink") [Category:2001年成立的公司](https://zh.wikipedia.org/wiki/Category:2001年成立的公司 "wikilink") [Category:韓國電視台](https://zh.wikipedia.org/wiki/Category:韓國電視台 "wikilink")

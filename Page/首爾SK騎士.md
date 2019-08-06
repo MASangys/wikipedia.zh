@@ -38,5 +38,4 @@
   - [首爾SK騎士官方網站](http://www.sksports.net/Knights)
   - [韓國籃球聯賽官方網站](http://kbl.or.kr)
 
-[Category:韓國籃球聯賽](https://zh.wikipedia.org/wiki/Category:韓國籃球聯賽 "wikilink")
-[Category:SK集團](https://zh.wikipedia.org/wiki/Category:SK集團 "wikilink")
+[Category:韓國籃球聯賽](https://zh.wikipedia.org/wiki/Category:韓國籃球聯賽 "wikilink") [Category:SK集團](https://zh.wikipedia.org/wiki/Category:SK集團 "wikilink")

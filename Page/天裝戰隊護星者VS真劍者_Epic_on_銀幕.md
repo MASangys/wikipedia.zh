@@ -1,6 +1,4 @@
-『**天裝戰隊護星者VS真劍者 Epic on
-銀幕**』在2011年1月22日於日本上映，是『[天裝戰隊護星者](https://zh.wikipedia.org/wiki/天裝戰隊護星者 "wikilink")』第二部劇場版作品。這是繼『**[侍戰隊真劍者VS轟音者
-銀幕BANG\!\!](../Page/侍戰隊真劍者VS轟音者_銀幕BANG!!.md "wikilink")**』之後，超級戰隊VS系列的續作劇場版作品。
+『**天裝戰隊護星者VS真劍者 Epic on 銀幕**』在2011年1月22日於日本上映，是『[天裝戰隊護星者](https://zh.wikipedia.org/wiki/天裝戰隊護星者 "wikilink")』第二部劇場版作品。這是繼『**[侍戰隊真劍者VS轟音者 銀幕BANG\!\!](../Page/侍戰隊真劍者VS轟音者_銀幕BANG!!.md "wikilink")**』之後，超級戰隊VS系列的續作劇場版作品。
 
 ## 故事概要
 
@@ -62,8 +60,7 @@
 
 ::後來遭血祭之布雷多蘭活擒並變成暗黑真劍紅攻擊真劍者及護星者，後由阿拉塔使用注入志葉薰之文字力的卡片而恢復正常。
 
-:;**池波流之介 / 真劍藍** ([相葉弘樹](https://zh.wikipedia.org/wiki/相葉弘樹 "wikilink")
-飾)
+:;**池波流之介 / 真劍藍** ([相葉弘樹](https://zh.wikipedia.org/wiki/相葉弘樹 "wikilink") 飾)
 
 ::侍戰隊成員。並是所有隊員中態度最忠於主公丈瑠的侍衛，因此成為副領袖人物。表面上裝出很堅強的樣子，其實情緒非常容易波動，所有喜怒哀樂都寫在臉上，其個性過於認真，但有時像個小孩子一樣。使用水之文字力。
 
@@ -95,8 +92,7 @@
 
 ::後來跟使用土屬性天裝術的阿古力(護星黑)合作以混合土之文字力的天裝術成功壓制マダコダマ。
 
-:;**梅盛源太 / 真劍金** ([相馬圭祐](https://zh.wikipedia.org/wiki/相馬圭祐 "wikilink")
-飾)
+:;**梅盛源太 / 真劍金** ([相馬圭祐](https://zh.wikipedia.org/wiki/相馬圭祐 "wikilink") 飾)
 
 ::侍戰隊成員。所有隊員中非家傳武士。丈瑠小時候的朋友，同時亦是壽司攤師傅。於本篇中以自己的電子文字力為真劍者多次獻寶，其中海老折神、印籠丸及大御用俱出自他手。
 
@@ -184,16 +180,11 @@
 
 ## 参考文献
 
-  - [アラタと丈瑠がガチバトル！？映画「天装戦隊ゴセイジャーVSシンケンジャー
-    エピックON銀幕」のピンナップ付き公式ガイドブックが登場！（角川書店）](http://www.news2u.net/releases/81276)
-  - [いよいよ公開！映画『天装戦隊ゴセイジャーVSシンケンジャー
-    エピックON銀幕』を100倍楽しむ](http://news.livedoor.com/article/detail/5288237/)
+  - [アラタと丈瑠がガチバトル！？映画「天装戦隊ゴセイジャーVSシンケンジャー エピックON銀幕」のピンナップ付き公式ガイドブックが登場！（角川書店）](http://www.news2u.net/releases/81276)
+  - [いよいよ公開！映画『天装戦隊ゴセイジャーVSシンケンジャー エピックON銀幕』を100倍楽しむ](http://news.livedoor.com/article/detail/5288237/)
   - [“ジイ”伊吹吾郎、戦隊シリーズに挑戦で「若いパワーには負けない」](http://eiga.com/news/20110122/5/)
   - [ゴセイジャーがナゾかけに挑戦、うさぎとかけて…](http://eiga.com/news/20110112/16/)
 
-[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
-[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink")
-[Category:2011年电影](https://zh.wikipedia.org/wiki/Category:2011年电影 "wikilink")
-[Category:2011年代特撮作品](https://zh.wikipedia.org/wiki/Category:2011年代特撮作品 "wikilink")
+[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink") [Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink") [Category:2011年电影](https://zh.wikipedia.org/wiki/Category:2011年电影 "wikilink") [Category:2011年代特撮作品](https://zh.wikipedia.org/wiki/Category:2011年代特撮作品 "wikilink")
 
 1.  於[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")第40集中再次重演骨之死太利被打敗的戲份

@@ -1,16 +1,12 @@
-是[ピロ式執筆](https://zh.wikipedia.org/wiki/ピロ式 "wikilink")，[蛍たかな作畫的](https://zh.wikipedia.org/wiki/蛍たかな "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於2009年4月27日發售的[月刊Comic
-Alive](../Page/月刊Comic_Alive.md "wikilink")2009年6月號雜誌開始連載\[1\]，由[Media
-Factory出版發行](../Page/Media_Factory.md "wikilink")。中文版則由[尖端出版](../Page/尖端出版.md "wikilink")代理發行。
+是[ピロ式執筆](https://zh.wikipedia.org/wiki/ピロ式 "wikilink")，[蛍たかな作畫的](https://zh.wikipedia.org/wiki/蛍たかな "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，於2009年4月27日發售的[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")2009年6月號雜誌開始連載\[1\]，由[Media Factory出版發行](../Page/Media_Factory.md "wikilink")。中文版則由[尖端出版](../Page/尖端出版.md "wikilink")代理發行。
 
-第5卷漫畫與廣播劇CD同時發售。\[2\] 由於作者身體不適，本作品於2012年11月16日聲明休載\[3\]。
-將近一年後，因作者身體狀況好轉，在2013年9月27日聲明將從10月26日發售的12月號開始恢復連載\[4\]。
+第5卷漫畫與廣播劇CD同時發售。\[2\] 由於作者身體不適，本作品於2012年11月16日聲明休載\[3\]。 將近一年後，因作者身體狀況好轉，在2013年9月27日聲明將從10月26日發售的12月號開始恢復連載\[4\]。
 
 ## 作品簡介
 
 這個世界，每位少年少女的眼睛內理所當然地都具有「**瞳（Iris）**」的能力。
 
-因為是個沒有瞳能力的「非持有者（Iris
-Zero）」，從小就被欺負到大的**水島透**，為了不樹立敵人，秉持著「低視聽率」的座右銘，保持低調的生活。但是卻在某天突然接到校園美少女**佐佐森小雪**的請託。
+因為是個沒有瞳能力的「非持有者（Iris Zero）」，從小就被欺負到大的**水島透**，為了不樹立敵人，秉持著「低視聽率」的座右銘，保持低調的生活。但是卻在某天突然接到校園美少女**佐佐森小雪**的請託。
 
 忽然受到大家矚目的透，生活逐漸發生了變化。
 
@@ -156,11 +152,7 @@ Zero）」，從小就被欺負到大的**水島透**，為了不樹立敵人，
   - [ピロ式&蛍たかな的部落格](http://usachu.seesaa.net/)
   - [作品官網](http://www.mediafactory.co.jp/comic-alive/iris/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
-[Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
 
 1.
 2.

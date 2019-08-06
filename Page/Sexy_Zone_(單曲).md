@@ -1,10 +1,8 @@
-《**Sexy Zone**》是[Sexy
-Zone的出道](../Page/Sexy_Zone.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年11月16日由[波麗佳音發售](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+《**Sexy Zone**》是[Sexy Zone的出道](../Page/Sexy_Zone.md "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2011年11月16日由[波麗佳音發售](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要
 
-標題曲《Sexy
-Zone》是『[世界盃女子排球賽2011](../Page/2011年世界盃女子排球賽.md "wikilink")』的富士電視台系節目印象歌曲\[1\]\[2\]\[3\]\[4\]\[5\]。以初回限定盤A・B・C・D和通常盤的5種形式發售\[6\]。
+標題曲《Sexy Zone》是『[世界盃女子排球賽2011](../Page/2011年世界盃女子排球賽.md "wikilink")』的富士電視台系節目印象歌曲\[1\]\[2\]\[3\]\[4\]\[5\]。以初回限定盤A・B・C・D和通常盤的5種形式發售\[6\]。
 
 ## 收錄曲目
 
@@ -22,9 +20,7 @@ Zone》是『[世界盃女子排球賽2011](../Page/2011年世界盃女子排球
       - 『[第64回春之高校排球](https://zh.wikipedia.org/wiki/第64回全日本排球高等学校選手権大会 "wikilink")』印象歌曲
 3.  **I see the light〜僕たちのステージ〜** \[4:19\]
       -
-        作詞：Makoto ATOZI・[JOEY
-        CARBONE](https://zh.wikipedia.org/wiki/JOEY_CARBONE "wikilink")、作曲：JOEY
-        CARBONE、編曲：[船山基紀](https://zh.wikipedia.org/wiki/船山基紀 "wikilink")
+        作詞：Makoto ATOZI・[JOEY CARBONE](https://zh.wikipedia.org/wiki/JOEY_CARBONE "wikilink")、作曲：JOEY CARBONE、編曲：[船山基紀](https://zh.wikipedia.org/wiki/船山基紀 "wikilink")
 4.  Sexy Zone -Inst.-
 5.  With you -Inst.-
 6.  I see the light〜僕たちのステージ〜 -Inst.-
@@ -45,8 +41,7 @@ Zone》是『[世界盃女子排球賽2011](../Page/2011年世界盃女子排球
     ; 初回盤A
 
       -
-        Sexy Zone（[Music
-        Clip](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")）
+        Sexy Zone（[Music Clip](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")）
 
   - ; 初回盤B
 
@@ -69,13 +64,7 @@ Zone》是『[世界盃女子排球賽2011](../Page/2011年世界盃女子排球
       - [初回限定盤D](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100002075&DSP_SKHKETSEQ=004)
       - [通常盤](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100002075&DSP_SKHKETSEQ=005)
 
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:Sexy_Zone歌曲](https://zh.wikipedia.org/wiki/Category:Sexy_Zone歌曲 "wikilink")
-[Category:富士電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台節目主題曲 "wikilink")
-[Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink")
-[Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2011年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年Japan_Hot_100冠軍歌曲 "wikilink")
-[Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:Sexy_Zone歌曲](https://zh.wikipedia.org/wiki/Category:Sexy_Zone歌曲 "wikilink") [Category:富士電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台節目主題曲 "wikilink") [Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink") [Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink") [Category:2011年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年Japan_Hot_100冠軍歌曲 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
 
 1.
 2.

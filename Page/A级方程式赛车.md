@@ -16,10 +16,6 @@
 
   - － 南梦宫1996年发行。和前作相比赛道和车辆更多，使用现代未来设定。
 
-  - －
-    南梦宫2008年发行，前两部游戏的正式续作。游戏使用了模仿《[山脊赛车7](https://zh.wikipedia.org/wiki/山脊赛车7 "wikilink")》的机制，车辆可以以非常高速[漂移](../Page/漂移.md "wikilink")。游戏有大量参照南梦宫之前游戏（如《[太鼓达人](https://zh.wikipedia.org/wiki/太鼓达人 "wikilink")》、《[铁拳6](../Page/铁拳6.md "wikilink")》、《山脊赛车7》）的内容。
+  - － 南梦宫2008年发行，前两部游戏的正式续作。游戏使用了模仿《[山脊赛车7](https://zh.wikipedia.org/wiki/山脊赛车7 "wikilink")》的机制，车辆可以以非常高速[漂移](../Page/漂移.md "wikilink")。游戏有大量参照南梦宫之前游戏（如《[太鼓达人](https://zh.wikipedia.org/wiki/太鼓达人 "wikilink")》、《[铁拳6](../Page/铁拳6.md "wikilink")》、《山脊赛车7》）的内容。
 
-[Category:1994年电子游戏](https://zh.wikipedia.org/wiki/Category:1994年电子游戏 "wikilink")
-[Category:南梦宫游戏](https://zh.wikipedia.org/wiki/Category:南梦宫游戏 "wikilink")
-[Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink")
-[Category:競速遊戲](https://zh.wikipedia.org/wiki/Category:競速遊戲 "wikilink")
+[Category:1994年电子游戏](https://zh.wikipedia.org/wiki/Category:1994年电子游戏 "wikilink") [Category:南梦宫游戏](https://zh.wikipedia.org/wiki/Category:南梦宫游戏 "wikilink") [Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink") [Category:競速遊戲](https://zh.wikipedia.org/wiki/Category:競速遊戲 "wikilink")

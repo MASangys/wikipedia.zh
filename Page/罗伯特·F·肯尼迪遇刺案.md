@@ -8,8 +8,7 @@
 
 ## 背景
 
-[Rkennedy01.jpg](https://zh.wikipedia.org/wiki/File:Rkennedy01.jpg "fig:Rkennedy01.jpg")
-1948年，身为《》记者的罗伯特·F·肯尼迪在[以色列宣布独立](../Page/以色列独立宣言.md "wikilink")1个月前到达当时[英国托管的巴勒斯坦地区采访](https://zh.wikipedia.org/wiki/巴勒斯坦托管地 "wikilink")，当时他年仅22岁\[3\]。在这一过程中，他开始对当地的犹太人居民产生敬佩之情。当选参议员后，他也成为以色列坚定的支持者和拥护者\[4\]。
+[Rkennedy01.jpg](https://zh.wikipedia.org/wiki/File:Rkennedy01.jpg "fig:Rkennedy01.jpg") 1948年，身为《》记者的罗伯特·F·肯尼迪在[以色列宣布独立](../Page/以色列独立宣言.md "wikilink")1个月前到达当时[英国托管的巴勒斯坦地区采访](https://zh.wikipedia.org/wiki/巴勒斯坦托管地 "wikilink")，当时他年仅22岁\[3\]。在这一过程中，他开始对当地的犹太人居民产生敬佩之情。当选参议员后，他也成为以色列坚定的支持者和拥护者\[4\]。
 
 1961年1月至1964年9月3日，罗伯特担任联邦司法部长，之后他辞去公职开始竞选联邦参议员，并于1965年1月3日成功当选[纽约州](../Page/纽约州.md "wikilink")参议员\[5\]。
 
@@ -23,8 +22,7 @@
 
 罗伯特原计划在演讲结束后离开舞厅，前去酒店内另一个支持者聚集的地点\[14\]。但是现场的记者们要求召开一场新闻发布会，竞选助理决定让罗伯特先不要去第二个聚会地点，而是穿过舞厅后的厨房和储藏室前去媒体等待的区域。在罗伯特演说完毕并准备离开时，威廉·巴瑞（）拦住他说：“不不，计划有变，我们走这边\[15\]。”达顿和巴瑞在前方为其开路，但罗伯特被包围在人群中，于是开始跟随酒店餐厅领班从后门退出\[16\]。
 
-领班带领罗伯特穿过厨房，这一期间参议员仍然在与遇到的其他人握手\[17\]。两人经过一台靠在右边墙上的制冰机和左边墙上的蒸汽表时，\[18\]罗伯特向左转身与餐厅杂工胡安·罗米罗（）握手，就在这时，索罕·索罕走上前来，冲过餐厅领班身边，使用手中的[.22
-LR](../Page/.22_LR.md "wikilink")[左轮手枪](../Page/左轮手枪.md "wikilink")朝罗伯特连续开枪射击\[19\]。
+领班带领罗伯特穿过厨房，这一期间参议员仍然在与遇到的其他人握手\[17\]。两人经过一台靠在右边墙上的制冰机和左边墙上的蒸汽表时，\[18\]罗伯特向左转身与餐厅杂工胡安·罗米罗（）握手，就在这时，索罕·索罕走上前来，冲过餐厅领班身边，使用手中的[.22 LR](../Page/.22_LR.md "wikilink")[左轮手枪](../Page/左轮手枪.md "wikilink")朝罗伯特连续开枪射击\[19\]。
 
 罗伯特倒在了地上，随之赶到的巴瑞看到索罕手中的枪后朝他面部猛击两拳，包括两名酒店雇员、作家、[奥运会田径](https://zh.wikipedia.org/wiki/1960年夏季奥林匹克运动会 "wikilink")[十项全能金牌得主](https://zh.wikipedia.org/wiki/十项全能 "wikilink")[拉弗·约翰逊和](https://zh.wikipedia.org/wiki/拉弗·约翰逊 "wikilink")[橄榄球运动员](https://zh.wikipedia.org/wiki/美式橄榄球 "wikilink")在内的众人冲上前来制服还在拼命朝各个方向扣动扳机的索罕，将其抵在蒸汽表盘上缴下了枪\[20\]。另外还有5人在这一过程中受伤：[美国广播公司](../Page/美国广播公司.md "wikilink")新闻台的威廉·威赛尔（），的保罗·沙拉德（），民主党活动家伊丽莎白·艾凡斯（），大陆新闻服务社的艾拉·哥尔德斯坦（）以及肯尼迪竞选活动的志愿者厄尔温·斯托尔（）\[21\]。
 
@@ -94,8 +92,7 @@ LR](../Page/.22_LR.md "wikilink")[左轮手枪](../Page/左轮手枪.md "wikilin
 
 ### 纪念
 
-[Robert_F._Kennedy_grave_in_Arlington_National_Cemetery.jpg](https://zh.wikipedia.org/wiki/File:Robert_F._Kennedy_grave_in_Arlington_National_Cemetery.jpg "fig:Robert_F._Kennedy_grave_in_Arlington_National_Cemetery.jpg")的墓碑\]\]
-6月6日进行[验尸后](https://zh.wikipedia.org/wiki/验尸 "wikilink")，罗伯特的尸体被送回纽约，并暂时停放在圣巴特里爵主教座堂，数千人陆续前来对之进行了瞻仰直至6月8日清晨举行的悼念仪式\[85\]，罗伯特的弟弟[泰德·肯尼迪](../Page/泰德·肯尼迪.md "wikilink")在仪式上做了如下致词\[86\]：
+[Robert_F._Kennedy_grave_in_Arlington_National_Cemetery.jpg](https://zh.wikipedia.org/wiki/File:Robert_F._Kennedy_grave_in_Arlington_National_Cemetery.jpg "fig:Robert_F._Kennedy_grave_in_Arlington_National_Cemetery.jpg")的墓碑\]\] 6月6日进行[验尸后](https://zh.wikipedia.org/wiki/验尸 "wikilink")，罗伯特的尸体被送回纽约，并暂时停放在圣巴特里爵主教座堂，数千人陆续前来对之进行了瞻仰直至6月8日清晨举行的悼念仪式\[85\]，罗伯特的弟弟[泰德·肯尼迪](../Page/泰德·肯尼迪.md "wikilink")在仪式上做了如下致词\[86\]：
 
 悼念仪式后，罗伯特的遗体被送上了前往哥伦比亚特区的一辆慢速火车，成千上万的人们走到车站和铁轨两旁，在列车经过时表示敬意\[87\]。
 
@@ -127,21 +124,11 @@ LR](../Page/.22_LR.md "wikilink")[左轮手枪](../Page/左轮手枪.md "wikilin
   -
 ## 外部链接
 
-  - [Mary Ferrell Foundation - RFK Assassination
-    Documents](http://www.maryferrell.org/wiki/index.php/RFK_Assassination_Documents) –
-    洛杉矶市警察局与联邦调查局的案件和庭审纪录
+  - [Mary Ferrell Foundation - RFK Assassination Documents](http://www.maryferrell.org/wiki/index.php/RFK_Assassination_Documents) – 洛杉矶市警察局与联邦调查局的案件和庭审纪录
   - [罗伯特·F·肯尼迪遇刺案的联邦调查局文件](http://vault.fbi.gov/Robert%20F%20Kennedy%20%28Assassination%29)
-  - ["Two Minutes to Midnight: The Very Last
-    Hurrah"](https://web.archive.org/web/20130217193514/http://blogs.villagevoice.com/runninscared/2010/05/pete_hamills_ey.php),
-    当时一位目击证人者的表述，Pete Hamill, *The Village Voice*, 1968-6-13
+  - ["Two Minutes to Midnight: The Very Last Hurrah"](https://web.archive.org/web/20130217193514/http://blogs.villagevoice.com/runninscared/2010/05/pete_hamills_ey.php), 当时一位目击证人者的表述，Pete Hamill, *The Village Voice*, 1968-6-13
 
-[Category:美国刺杀案](https://zh.wikipedia.org/wiki/Category:美国刺杀案 "wikilink")
-[Category:1968年美國總統選舉](https://zh.wikipedia.org/wiki/Category:1968年美國總統選舉 "wikilink")
-[Category:1968年美國政治事件](https://zh.wikipedia.org/wiki/Category:1968年美國政治事件 "wikilink")
-[Category:美国恐怖活动](https://zh.wikipedia.org/wiki/Category:美国恐怖活动 "wikilink")
-[Category:暗殺](https://zh.wikipedia.org/wiki/Category:暗殺 "wikilink")
-[Category:1968年美国谋杀案](https://zh.wikipedia.org/wiki/Category:1968年美国谋杀案 "wikilink")
-[Category:死亡阴谋论](https://zh.wikipedia.org/wiki/Category:死亡阴谋论 "wikilink")
+[Category:美国刺杀案](https://zh.wikipedia.org/wiki/Category:美国刺杀案 "wikilink") [Category:1968年美國總統選舉](https://zh.wikipedia.org/wiki/Category:1968年美國總統選舉 "wikilink") [Category:1968年美國政治事件](https://zh.wikipedia.org/wiki/Category:1968年美國政治事件 "wikilink") [Category:美国恐怖活动](https://zh.wikipedia.org/wiki/Category:美国恐怖活动 "wikilink") [Category:暗殺](https://zh.wikipedia.org/wiki/Category:暗殺 "wikilink") [Category:1968年美国谋杀案](https://zh.wikipedia.org/wiki/Category:1968年美国谋杀案 "wikilink") [Category:死亡阴谋论](https://zh.wikipedia.org/wiki/Category:死亡阴谋论 "wikilink")
 
 1.
 
@@ -237,26 +224,15 @@ LR](../Page/.22_LR.md "wikilink")[左轮手枪](../Page/左轮手枪.md "wikilin
 57.
 
 58.
-59. 原文是：Andrew West: "Senator, how are you going to counter Mr. Humphrey
-    and his backgrounding you as far as the delegate votes go?"
+59. 原文是：Andrew West: "Senator, how are you going to counter Mr. Humphrey and his backgrounding you as far as the delegate votes go?"
 
 60. 原文是：Senator Kennedy: "It just goes back to the struggle for it."
 
-61. 原文是：Andrew West: "Senator Kennedy has been shot\! Senator Kennedy
-    has been shot; is that possible? Is that possible? It's...is it
-    possible, ladies and gentlemen? It is possible, he has...not only
-    Senator Kennedy, oh my God. Senator Kennedy has been shot, and
-    another man, a Kennedy campaign manager, and possibly shot in the
-    head."
+61. 原文是：Andrew West: "Senator Kennedy has been shot\! Senator Kennedy has been shot; is that possible? Is that possible? It's...is it possible, ladies and gentlemen? It is possible, he has...not only Senator Kennedy, oh my God. Senator Kennedy has been shot, and another man, a Kennedy campaign manager, and possibly shot in the head."
 
 62.
 
-63. Other stations also provided coverage. In 2008, on the 40th
-    anniversary of the assassination, local CBS radio affiliate KNX (AM)
-    made available for streaming and download a 45-minute unedited
-    [aircheck of its live coverage](http://www.knx1070.com/RFK/2313745)
-     of the assassination, including audio from its sister station
-    KNXT-TV (now KCBS-TV).
+63. Other stations also provided coverage. In 2008, on the 40th anniversary of the assassination, local CBS radio affiliate KNX (AM) made available for streaming and download a 45-minute unedited [aircheck of its live coverage](http://www.knx1070.com/RFK/2313745)   of the assassination, including audio from its sister station KNXT-TV (now KCBS-TV).
 
 64.
 65.
@@ -266,8 +242,7 @@ LR](../Page/.22_LR.md "wikilink")[左轮手枪](../Page/左轮手枪.md "wikilin
 67.
 68.
 
-69. 原文是：I was in Dallas when we got the son of a bitch and I was in Los
-    Angeles when we got the little bastard.
+69. 原文是：I was in Dallas when we got the son of a bitch and I was in Los Angeles when we got the little bastard.
 
 70.
 71.
@@ -292,10 +267,7 @@ LR](../Page/.22_LR.md "wikilink")[左轮手枪](../Page/左轮手枪.md "wikilin
 
 82.
 
-83. Harrison, P. (2007) 'Analysis of "The Pruszynski Tape"' (report on
-    recording of gunshots). In Ayton, M., *The Forgotten Terrorist:
-    Sirhan Sirhan and the Assassination of Robert F. Kennedy.*
-    Washington: Potomac Books.
+83. Harrison, P. (2007) 'Analysis of "The Pruszynski Tape"' (report on recording of gunshots). In Ayton, M., *The Forgotten Terrorist: Sirhan Sirhan and the Assassination of Robert F. Kennedy.* Washington: Potomac Books.
 
 84.
 

@@ -34,8 +34,6 @@
 
 </div>
 
-[Category:曹震豪音樂專輯](https://zh.wikipedia.org/wiki/Category:曹震豪音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:曹震豪音樂專輯](https://zh.wikipedia.org/wiki/Category:曹震豪音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.

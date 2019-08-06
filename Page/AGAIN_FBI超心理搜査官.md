@@ -1,6 +1,4 @@
-，是一個由[Cing](../Page/Cing.md "wikilink")負責開發工程，[Tecmo負責發佈的](https://zh.wikipedia.org/wiki/Tecmo "wikilink")[文字冒險](https://zh.wikipedia.org/wiki/文字冒險遊戲 "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")。此遊戲的平台為[任天堂DS](../Page/任天堂DS.md "wikilink")。此遊戲於2009年12月10日在日本發佈\[1\]，並於2010年4月2日在北美發佈。起初，此遊戲的北美版本名為「Again：普羅維登斯之眼」（Again:
-Eye of
-Providence）。\[2\]\[3\]此遊戲是[Cing](../Page/Cing.md "wikilink")破產前最後一次和[TECMO合製的遊戲](https://zh.wikipedia.org/wiki/TECMO "wikilink")。\[4\]
+，是一個由[Cing](../Page/Cing.md "wikilink")負責開發工程，[Tecmo負責發佈的](https://zh.wikipedia.org/wiki/Tecmo "wikilink")[文字冒險](https://zh.wikipedia.org/wiki/文字冒險遊戲 "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")。此遊戲的平台為[任天堂DS](../Page/任天堂DS.md "wikilink")。此遊戲於2009年12月10日在日本發佈\[1\]，並於2010年4月2日在北美發佈。起初，此遊戲的北美版本名為「Again：普羅維登斯之眼」（Again: Eye of Providence）。\[2\]\[3\]此遊戲是[Cing](../Page/Cing.md "wikilink")破產前最後一次和[TECMO合製的遊戲](https://zh.wikipedia.org/wiki/TECMO "wikilink")。\[4\]
 
 ## 劇情
 
@@ -8,8 +6,7 @@ Providence）。\[2\]\[3\]此遊戲是[Cing](../Page/Cing.md "wikilink")破產�
 
 ## 系統
 
-[thumb](https://zh.wikipedia.org/wiki/檔案:Again_gameplay.png "wikilink")
-在遊玩時，玩家需要把機身旋轉90度才能遊玩。此遊戲主要分為兩部份：調查與非調查。在調查部份中，玩家需要透過按鈕和觸摸屏控制主角喬納森·韋弗在一個3D環境中四處探索。當玩家發現一些可疑的地方時，玩家就能利用「觀察過去」的能力觀察現在與過去的分別，以找出隱藏的事物。若玩家錯誤地觀察現在與過去的分別時，玩家的「生命值」就會扣減。當生命值扣減至零時，遊戲就會結束。
+[thumb](https://zh.wikipedia.org/wiki/檔案:Again_gameplay.png "wikilink") 在遊玩時，玩家需要把機身旋轉90度才能遊玩。此遊戲主要分為兩部份：調查與非調查。在調查部份中，玩家需要透過按鈕和觸摸屏控制主角喬納森·韋弗在一個3D環境中四處探索。當玩家發現一些可疑的地方時，玩家就能利用「觀察過去」的能力觀察現在與過去的分別，以找出隱藏的事物。若玩家錯誤地觀察現在與過去的分別時，玩家的「生命值」就會扣減。當生命值扣減至零時，遊戲就會結束。
 
 在非調查部份中，玩家有七種指令。該七種指令分別是——對話：可以讓玩家與在場的人物交談；致電，可以讓玩家致電予不在場的人；物品，可以讓玩家出示、使用或檢查持有的物品；歷史，可以讓玩家查閱主角與其他角色的對話紀錄；移動，可以讓玩家移動至另一個地區；視覺；可以讓玩家利用「觀察過去」的能力；以及存檔，可以讓玩家儲存遊戲進度。\[6\]
 
@@ -50,15 +47,7 @@ Providence）。\[2\]\[3\]此遊戲是[Cing](../Page/Cing.md "wikilink")破產�
 
   -
 
-[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:推理遊戲](https://zh.wikipedia.org/wiki/Category:推理遊戲 "wikilink")
-[Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink")
-[Category:Cing遊戲](https://zh.wikipedia.org/wiki/Category:Cing遊戲 "wikilink")
-[Category:特库摩游戏](https://zh.wikipedia.org/wiki/Category:特库摩游戏 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink")
-[Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink")
+[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:推理遊戲](https://zh.wikipedia.org/wiki/Category:推理遊戲 "wikilink") [Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink") [Category:Cing遊戲](https://zh.wikipedia.org/wiki/Category:Cing遊戲 "wikilink") [Category:特库摩游戏](https://zh.wikipedia.org/wiki/Category:特库摩游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink") [Category:僅有單人模式的電子遊戲](https://zh.wikipedia.org/wiki/Category:僅有單人模式的電子遊戲 "wikilink")
 
 1.
 2.

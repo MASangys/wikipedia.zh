@@ -1,5 +1,4 @@
-《**Filicious Fiona in Concert
-2012**》是香港女歌手[薛凱琪出道九年以來的第一個於](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")[紅磡香港體育館舉行的個人演唱會](https://zh.wikipedia.org/wiki/紅磡香港體育館 "wikilink")。因當時演唱會期間為[薛凱琪商議續約時期](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")，當時母公司[華納唱片沒有設置攝像設施](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")，故只推出CD錄音唱片。
+《**Filicious Fiona in Concert 2012**》是香港女歌手[薛凱琪出道九年以來的第一個於](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")[紅磡香港體育館舉行的個人演唱會](https://zh.wikipedia.org/wiki/紅磡香港體育館 "wikilink")。因當時演唱會期間為[薛凱琪商議續約時期](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")，當時母公司[華納唱片沒有設置攝像設施](https://zh.wikipedia.org/wiki/華納唱片 "wikilink")，故只推出CD錄音唱片。
 
 ## 簡介
 
@@ -10,8 +9,7 @@
 1.  Medley:
     1.  微笑殺人事件
     2.  小峽谷之1234
-    3.  All You Need Is Me （feat.
-        [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")）
+    3.  All You Need Is Me （feat. [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")）
     4.  維多利亞女皇的非常秘密任務
 2.  煞科 （with [鄭秀文](../Page/鄭秀文.md "wikilink"))
 3.  (Break)
@@ -51,8 +49,7 @@
 1.  Medley:
     1.  微笑殺人事件
     2.  小峽谷之1234
-    3.  All You Need Is Me (feat.
-        [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink"))
+    3.  All You Need Is Me (feat. [方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink"))
     4.  維多利亞女皇的非常秘密任務
 2.  (Break)
 3.  8月號

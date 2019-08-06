@@ -1,26 +1,8 @@
 [安奭奐](../Page/安奭奐.md "wikilink"){{、w}}[朴志胤](../Page/朴志胤.md "wikilink")
 [朴喜本](../Page/朴喜本.md "wikilink"){{、w}}[沈志浩](../Page/沈志浩.md "wikilink"){{、w}}[多　絮](https://zh.wikipedia.org/wiki/金多絮 "wikilink")
-[崔宇植](../Page/崔宇植.md "wikilink"){{、w}}[朴叙俊](https://zh.wikipedia.org/wiki/朴叙俊 "wikilink"){{、w}}[鮮-{于}-龍女](../Page/鮮于龍女.md "wikilink")
-| judges = | voices = | narrated = | theme_music_composer = |
-opentheme = | endtheme = | composer = | country =  | language =
-[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = |
-num_episodes = 120 | list_episodes = | executive_producer = |
-producer = | supervising_producer = | editor = | location = |
-cinematography = | camera = | runtime = | company = Kairos Enterprise |
-distributor = | channel =
-[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") 2TV | audio_format
-= [立體聲](../Page/立體聲.md "wikilink")（[類比電視](../Page/類比電視.md "wikilink")）
-[杜比數位](https://zh.wikipedia.org/wiki/杜比數位 "wikilink")（[數位電視](https://zh.wikipedia.org/wiki/數位電視 "wikilink")）
-| picture_format =
-[480i](https://zh.wikipedia.org/wiki/480i "wikilink")
-([SDTV](https://zh.wikipedia.org/wiki/SDTV "wikilink"))
-[720p](../Page/720p.md "wikilink")
-([HDTV](https://zh.wikipedia.org/wiki/HDTV "wikilink")) | slogan = |
-first_run =  | first_aired = 2012年8月13日 | last_aired = 2013年2月6日 |
-status = | preceded_by = | followed_by = | related = | website =
-<http://www.kbs.co.kr/end_program/drama/family2013/> |
-production_website = | 台灣名稱 = 歡樂一家親 }}
-《**Family**》（）是韓國[KBS頻道](https://zh.wikipedia.org/wiki/KBS "wikilink")2012年的日日連續劇，該劇從2012年8月13日起每周一至周五晚間7點45分－8點15分播出。
+[崔宇植](../Page/崔宇植.md "wikilink"){{、w}}[朴叙俊](https://zh.wikipedia.org/wiki/朴叙俊 "wikilink"){{、w}}[鮮-{于}-龍女](../Page/鮮于龍女.md "wikilink") | judges = | voices = | narrated = | theme_music_composer = | opentheme = | endtheme = | composer = | country =  | language = [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = | num_episodes = 120 | list_episodes = | executive_producer = | producer = | supervising_producer = | editor = | location = | cinematography = | camera = | runtime = | company = Kairos Enterprise | distributor = | channel = [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") 2TV | audio_format = [立體聲](../Page/立體聲.md "wikilink")（[類比電視](../Page/類比電視.md "wikilink")）
+[杜比數位](https://zh.wikipedia.org/wiki/杜比數位 "wikilink")（[數位電視](https://zh.wikipedia.org/wiki/數位電視 "wikilink")） | picture_format = [480i](https://zh.wikipedia.org/wiki/480i "wikilink") ([SDTV](https://zh.wikipedia.org/wiki/SDTV "wikilink"))
+[720p](../Page/720p.md "wikilink") ([HDTV](https://zh.wikipedia.org/wiki/HDTV "wikilink")) | slogan = | first_run =  | first_aired = 2012年8月13日 | last_aired = 2013年2月6日 | status = | preceded_by = | followed_by = | related = | website = <http://www.kbs.co.kr/end_program/drama/family2013/> | production_website = | 台灣名稱 = 歡樂一家親 }} 《**Family**》（）是韓國[KBS頻道](https://zh.wikipedia.org/wiki/KBS "wikilink")2012年的日日連續劇，該劇從2012年8月13日起每周一至周五晚間7點45分－8點15分播出。
 
 ## 劇名爭議及更改
 
@@ -87,7 +69,4 @@ production_website = | 台灣名稱 = 歡樂一家親 }}
 
 ## 節目的變遷
 
-[Category:KBS日日情景喜劇](https://zh.wikipedia.org/wiki/Category:KBS日日情景喜劇 "wikilink")
-[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink")
-[Category:韓國家庭情景喜劇](https://zh.wikipedia.org/wiki/Category:韓國家庭情景喜劇 "wikilink")
-[Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")
+[Category:KBS日日情景喜劇](https://zh.wikipedia.org/wiki/Category:KBS日日情景喜劇 "wikilink") [Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink") [Category:韓國家庭情景喜劇](https://zh.wikipedia.org/wiki/Category:韓國家庭情景喜劇 "wikilink") [Category:八大電視外購韓劇](https://zh.wikipedia.org/wiki/Category:八大電視外購韓劇 "wikilink")

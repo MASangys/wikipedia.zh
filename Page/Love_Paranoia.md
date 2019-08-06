@@ -1,5 +1,4 @@
-《**Love
-Paranoia**》（愛情妄想）為[日本](../Page/日本.md "wikilink")歌手[柴崎幸於](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")2009年11月18日發行之4th[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
+《**Love Paranoia**》（愛情妄想）為[日本](../Page/日本.md "wikilink")歌手[柴崎幸於](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")2009年11月18日發行之4th[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
 
 ## 解說
 
@@ -49,6 +48,4 @@ Paranoia**》（愛情妄想）為[日本](../Page/日本.md "wikilink")歌手[�
 6.  Making
 7.  「[粉紅系男孩](../Page/粉紅系男孩.md "wikilink")」標題合作版Edition
 
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:柴咲幸音樂專輯](https://zh.wikipedia.org/wiki/Category:柴咲幸音樂專輯 "wikilink")
-[Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")
+[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:柴咲幸音樂專輯](https://zh.wikipedia.org/wiki/Category:柴咲幸音樂專輯 "wikilink") [Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")

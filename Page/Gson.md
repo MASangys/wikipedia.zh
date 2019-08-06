@@ -1,5 +1,4 @@
-**Gson**（又称[Google](../Page/Google.md "wikilink")
-Gson）是[Google](../Page/Google.md "wikilink")公司發布的一个開放原始碼的[Java](../Page/Java.md "wikilink")库，主要用途為[序列化](../Page/序列化.md "wikilink")[Java](../Page/Java.md "wikilink")物件為[JSON](../Page/JSON.md "wikilink")字串，或反[序列化](../Page/序列化.md "wikilink")[JSON](../Page/JSON.md "wikilink")字串成[Java](../Page/Java.md "wikilink")物件。
+**Gson**（又称[Google](../Page/Google.md "wikilink") Gson）是[Google](../Page/Google.md "wikilink")公司發布的一个開放原始碼的[Java](../Page/Java.md "wikilink")库，主要用途為[序列化](../Page/序列化.md "wikilink")[Java](../Page/Java.md "wikilink")物件為[JSON](../Page/JSON.md "wikilink")字串，或反[序列化](../Page/序列化.md "wikilink")[JSON](../Page/JSON.md "wikilink")字串成[Java](../Page/Java.md "wikilink")物件。
 
 ## 歷史
 
@@ -112,19 +111,12 @@ Examples example2= gson.fromJson(json,Examples.class);
 
 ## 參考文獻
 
-  - [Gson User
-    Guide](https://sites.google.com/site/gson/gson-user-guide)
-    這是Gson使用者導覽的協作平台，裡面有更多使用範例與技術細節可供參考
+  - [Gson User Guide](https://sites.google.com/site/gson/gson-user-guide) 這是Gson使用者導覽的協作平台，裡面有更多使用範例與技術細節可供參考
 
 ## 外部連結
 
   - [Google-Gson官方網站](http://code.google.com/p/google-gson/)
-  - [Gson User
-    Guide](https://sites.google.com/site/gson/gson-user-guide)
-  - [Gson
-    API](https://web.archive.org/web/20120613225611/http://google-gson.googlecode.com/svn/trunk/gson/docs/javadocs/index.html)
+  - [Gson User Guide](https://sites.google.com/site/gson/gson-user-guide)
+  - [Gson API](https://web.archive.org/web/20120613225611/http://google-gson.googlecode.com/svn/trunk/gson/docs/javadocs/index.html)
 
-[Category:Java函式庫](https://zh.wikipedia.org/wiki/Category:Java函式庫 "wikilink")
-[Category:JSON](https://zh.wikipedia.org/wiki/Category:JSON "wikilink")
-[Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink")
-[Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")
+[Category:Java函式庫](https://zh.wikipedia.org/wiki/Category:Java函式庫 "wikilink") [Category:JSON](https://zh.wikipedia.org/wiki/Category:JSON "wikilink") [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink") [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")

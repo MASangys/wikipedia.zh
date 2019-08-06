@@ -1,6 +1,4 @@
-[140705_김해_워터파크_미니콘서트_(Yura).jpg](https://zh.wikipedia.org/wiki/File:140705_김해_워터파크_미니콘서트_\(Yura\).jpg "fig:140705_김해_워터파크_미니콘서트_(Yura).jpg")舉行的迷你演唱會\]\]
-**金亞瑩**（，；），藝名**Yura**（），[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Girl's
-Day的成員之一](../Page/Girl's_Day.md "wikilink")，隊內擔任領舞、主rapper、副唱、門面。
+[140705_김해_워터파크_미니콘서트_(Yura).jpg](https://zh.wikipedia.org/wiki/File:140705_김해_워터파크_미니콘서트_\(Yura\).jpg "fig:140705_김해_워터파크_미니콘서트_(Yura).jpg")舉行的迷你演唱會\]\] **金亞瑩**（，；），藝名**Yura**（），[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Girl's Day的成員之一](../Page/Girl's_Day.md "wikilink")，隊內擔任領舞、主rapper、副唱、門面。
 
 ## 簡介
 
@@ -336,16 +334,7 @@ Day的成員之一](../Page/Girl's_Day.md "wikilink")，隊內擔任領舞、主
   -
   -
   -
-[Category:Girl's_Day](https://zh.wikipedia.org/wiki/Category:Girl's_Day "wikilink")
-[Category:1992年出生](https://zh.wikipedia.org/wiki/Category:1992年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink")
-[Category:同德女子大學校友](https://zh.wikipedia.org/wiki/Category:同德女子大學校友 "wikilink")
-[Category:蔚山廣域市出身人物](https://zh.wikipedia.org/wiki/Category:蔚山廣域市出身人物 "wikilink")
-[Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
+[Category:Girl's_Day](https://zh.wikipedia.org/wiki/Category:Girl's_Day "wikilink") [Category:1992年出生](https://zh.wikipedia.org/wiki/Category:1992年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink") [Category:同德女子大學校友](https://zh.wikipedia.org/wiki/Category:同德女子大學校友 "wikilink") [Category:蔚山廣域市出身人物](https://zh.wikipedia.org/wiki/Category:蔚山廣域市出身人物 "wikilink") [Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
 
 1.
 2.

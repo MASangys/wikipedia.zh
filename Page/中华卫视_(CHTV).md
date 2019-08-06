@@ -30,8 +30,7 @@
 
 ### “中华卫视”不合法
 
-[Zhonghuaws_cstv_2013.jpeg](https://zh.wikipedia.org/wiki/File:Zhonghuaws_cstv_2013.jpeg "fig:Zhonghuaws_cstv_2013.jpeg")
-有网友在[百度百科](../Page/百度百科.md "wikilink")描述，“2005年10月，黄益腾旗下的‘阿原传媒’成功收购了澳门中华卫星电视的55%股份，这为他带来了6个卫星牌照，拥有全球播放权。”中华卫视“新闻中心”主任于先生称，黄益腾是2007年才开始筹办中华卫视的。2009年12月19日，通州八里桥的中华通信研究发展中心（澳门中华卫视的母单位）表示，黄益腾确实和该公司谈过合作之事，由于接洽期间黄益腾随波逐流大肆宣扬，导致洽谈中止。而2008年3月，黄益腾仍然要高调在北京召开“中华卫视健康综合台上星开播”的新闻发布会。
+[Zhonghuaws_cstv_2013.jpeg](https://zh.wikipedia.org/wiki/File:Zhonghuaws_cstv_2013.jpeg "fig:Zhonghuaws_cstv_2013.jpeg") 有网友在[百度百科](../Page/百度百科.md "wikilink")描述，“2005年10月，黄益腾旗下的‘阿原传媒’成功收购了澳门中华卫星电视的55%股份，这为他带来了6个卫星牌照，拥有全球播放权。”中华卫视“新闻中心”主任于先生称，黄益腾是2007年才开始筹办中华卫视的。2009年12月19日，通州八里桥的中华通信研究发展中心（澳门中华卫视的母单位）表示，黄益腾确实和该公司谈过合作之事，由于接洽期间黄益腾随波逐流大肆宣扬，导致洽谈中止。而2008年3月，黄益腾仍然要高调在北京召开“中华卫视健康综合台上星开播”的新闻发布会。
 
 **据介绍，真正的[澳门中华卫视已在澳门将黄益腾起诉](https://zh.wikipedia.org/wiki/澳门中华卫视 "wikilink")。**\[3\]随后，[国家新闻出版广播电影电视总局国际合作司港澳台处的相关工作人员在接受媒体采访时称](https://zh.wikipedia.org/wiki/国家新闻出版广播电影电视总局 "wikilink")，廣電总局并没有批准过“中华卫视”电视台，故该频道不合法\[4\]。即使其是[香港特区政府颁发的](https://zh.wikipedia.org/wiki/香港特区政府 "wikilink")“合法”上星牌照\[5\]，其在北京市的总部办公住宅并没有任何经营许可证，亦没有广电总局的落地权。同样，该台无采访权、无记者，节目资源纯粹靠“剽窃品”。**实际上，该频道2009年开播初期，并未获得上星牌照，只是租用其他机构的牌照运营**，而黄益腾的“中华卫视集团（香港）有限公司”标志并非在香港注册，而是在[英属维尔京群岛申请的](https://zh.wikipedia.org/wiki/英属维尔京群岛 "wikilink")，因其有“避税天堂”之称，“只要给钱，就能买到牌照。”
 
@@ -65,11 +64,9 @@
 
 1.
 2.
-3.  真正的澳门中华卫视于2008年3月28日开播，持有[澳门特区政府批准的合法卫星頻道牌照](https://zh.wikipedia.org/wiki/澳门特区政府 "wikilink")（同樣持有此牌照的还有[澳门莲花卫视](https://zh.wikipedia.org/wiki/澳门莲花卫视 "wikilink")、[澳亚卫视](../Page/澳亚卫视.md "wikilink")），2013年因黄阿原诈骗事件和版权遭盗等因素换了台标，随后因资金断链和商标遭侵权等原因于2014年停播，與黄阿原的“中华卫视
-    (CHTV)”并不相干。
+3.  真正的澳门中华卫视于2008年3月28日开播，持有[澳门特区政府批准的合法卫星頻道牌照](https://zh.wikipedia.org/wiki/澳门特区政府 "wikilink")（同樣持有此牌照的还有[澳门莲花卫视](https://zh.wikipedia.org/wiki/澳门莲花卫视 "wikilink")、[澳亚卫视](../Page/澳亚卫视.md "wikilink")），2013年因黄阿原诈骗事件和版权遭盗等因素换了台标，随后因资金断链和商标遭侵权等原因于2014年停播，與黄阿原的“中华卫视 (CHTV)”并不相干。
 4.
-5.  [通讯事务管理局 -
-    非本地电视节目服务列表](http://www.coms-auth.hk/sc/licensing/broadcasting/tv_programme/non_domestic_television_programme_service/index.html)
+5.  [通讯事务管理局 - 非本地电视节目服务列表](http://www.coms-auth.hk/sc/licensing/broadcasting/tv_programme/non_domestic_television_programme_service/index.html)
 6.
 7.  [总部前台：“黄老板出国了”](http://m.bj.bendibao.com/news/59576_2.html)
 8.

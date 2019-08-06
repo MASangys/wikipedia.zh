@@ -45,6 +45,4 @@
 3.  親不孝ベイベー（オリジナルカラオケ）
 4.  タクシー音頭（オリジナルカラオケ）
 
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink")
-[Category:惠比壽麝香葡萄](https://zh.wikipedia.org/wiki/Category:惠比壽麝香葡萄 "wikilink")
+[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:波麗佳音歌曲](https://zh.wikipedia.org/wiki/Category:波麗佳音歌曲 "wikilink") [Category:惠比壽麝香葡萄](https://zh.wikipedia.org/wiki/Category:惠比壽麝香葡萄 "wikilink")

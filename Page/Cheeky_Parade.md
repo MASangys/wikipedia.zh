@@ -1,15 +1,8 @@
-**Cheeky Parade** 是2012年組成的七人日本女子偶像團體、歌舞團體。所屬經紀公司為[avex
-management](https://zh.wikipedia.org/wiki/avex_management "wikilink")，所屬唱片公司為[iDOL
-Street](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")。
+**Cheeky Parade** 是2012年組成的七人日本女子偶像團體、歌舞團體。所屬經紀公司為[avex management](https://zh.wikipedia.org/wiki/avex_management "wikilink")，所屬唱片公司為[iDOL Street](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")。
 
 ## 概要
 
-Cheeky
-Parade是從[愛貝克思集團在](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")2010年創立的偶像專屬品牌[iDOL
-Street之中](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")，選出9位出道候補成員（又稱「Street生」）所組成的團體。在2012年2月9日於
-[Shibuya
-O-EAST](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")
-舉辦的「」演唱會中宣布正式成立。\[1\]\[2\]\[3\]。以華麗大膽的舞蹈表演與服裝為團體的基本概念。與日本[澀谷](../Page/澀谷.md "wikilink")[109百貨](../Page/109百貨.md "wikilink")裡的品牌「JSG」合作的打歌服是特色之一。
+Cheeky Parade是從[愛貝克思集團在](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")2010年創立的偶像專屬品牌[iDOL Street之中](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")，選出9位出道候補成員（又稱「Street生」）所組成的團體。在2012年2月9日於 [Shibuya O-EAST](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink") 舉辦的「」演唱會中宣布正式成立。\[1\]\[2\]\[3\]。以華麗大膽的舞蹈表演與服裝為團體的基本概念。與日本[澀谷](../Page/澀谷.md "wikilink")[109百貨](../Page/109百貨.md "wikilink")裡的品牌「JSG」合作的打歌服是特色之一。
 
 在2012年9月22日的「」上宣布將在2013年1月正式出道\[4\]，是繼同公司的[SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")第二個正式出道的團體。
 
@@ -480,11 +473,9 @@ Love &amp; Peace Forever</p></td>
 ### 數位下載歌曲
 
   - **Cheeky dreamer**
-      - 2012年6月13日起在手機鈴聲網站 [RecoChoku](../Page/RecoChoku.md "wikilink")
-        開放下載\[6\]。
+      - 2012年6月13日起在手機鈴聲網站 [RecoChoku](../Page/RecoChoku.md "wikilink") 開放下載\[6\]。
   - ****
-      - 2012年6月13日起在手機鈴聲網站 [RecoChoku](../Page/RecoChoku.md "wikilink")
-        開放下載。
+      - 2012年6月13日起在手機鈴聲網站 [RecoChoku](../Page/RecoChoku.md "wikilink") 開放下載。
 
 ### 尚未發行歌曲
 
@@ -554,16 +545,13 @@ AVBD-39083</p></td>
 
 ### 廣播節目
 
-  - （2012年4月5日 - 6月7日，每周四，下北FM・[niconico
-    生放送](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")・[Ustream](https://zh.wikipedia.org/wiki/Ustream "wikilink")）
-    - 固定班底（每次一位成員）
+  - （2012年4月5日 - 6月7日，每周四，下北FM・[niconico 生放送](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")・[Ustream](https://zh.wikipedia.org/wiki/Ustream "wikilink")） - 固定班底（每次一位成員）
 
 ### 網路
 
   - （2012年5月14日 - 29日，）
 
-  - （2012年6月28日，[AmebaStudio](https://zh.wikipedia.org/wiki/AmebaStudio "wikilink")）
-    - \[11\]\[12\]。
+  - （2012年6月28日，[AmebaStudio](https://zh.wikipedia.org/wiki/AmebaStudio "wikilink")） - \[11\]\[12\]。
 
 ### 社群遊戲
 
@@ -580,8 +568,7 @@ AVBD-39083</p></td>
 ### 雜誌連載
 
   - B.L.T.「」（2012年5月号 - ，[東京新聞通信社](../Page/東京新聞通信社.md "wikilink")）
-  - B.L.T.『iDOL Street版「SIZZLE STREET」（Cheeky Parade ver.）』（2012年7月 -
-    ，東京新聞通信社）
+  - B.L.T.『iDOL Street版「SIZZLE STREET」（Cheeky Parade ver.）』（2012年7月 - ，東京新聞通信社）
 
 ### 報紙專欄
 
@@ -593,15 +580,11 @@ AVBD-39083</p></td>
 
 ## 參考資料
 
-  - iDOL Street OFFICIAL BOOK Vol.1（2011年12月22日，ソニー・マガジンズ）ISBN
-    978-4-7897-7156-6
+  - iDOL Street OFFICIAL BOOK Vol.1（2011年12月22日，ソニー・マガジンズ）ISBN 978-4-7897-7156-6
   - Cool-up Idol 2012年5月号（2012年3月27日，音楽専科社）
-  - [BEAUTIFUL Lady &
-    TELEVISION](https://zh.wikipedia.org/wiki/BEAUTIFUL_Lady_&_TELEVISION "wikilink")
-    2012年6月号（2012年4月24日，[東京新聞通信社](../Page/東京新聞通信社.md "wikilink")）
+  - [BEAUTIFUL Lady & TELEVISION](https://zh.wikipedia.org/wiki/BEAUTIFUL_Lady_&_TELEVISION "wikilink") 2012年6月号（2012年4月24日，[東京新聞通信社](../Page/東京新聞通信社.md "wikilink")）
   - Top Yell 2012年6月号（2012年5月7日，竹書房）
-  - iDOL Street OFFICIAL BOOK Vol.2（2012年6月13日，エムオン・エンタテインメント）ISBN
-    978-4-7897-7171-9
+  - iDOL Street OFFICIAL BOOK Vol.2（2012年6月13日，エムオン・エンタテインメント）ISBN 978-4-7897-7171-9
 
 ## 相關條目
 
@@ -612,15 +595,10 @@ AVBD-39083</p></td>
 
   - [Cheeky Parade Official Blog](http://ameblo.jp/cheekyparade/)
   - [iDOL Street](http://idolstreet.jp/index.html)
-  - [iDOLStreetProject公式チャンネル](http://www.youtube.com/user/iDOLStreetProject)
-    - [YouTube](../Page/YouTube.md "wikilink")。
-  - [JSG
-    ジェイエスジー公式サイト](https://web.archive.org/web/20120908034607/http://jsg.bz/index2.html)
-    - 與 Cheeky Parade 合作的服飾品牌
+  - [iDOLStreetProject公式チャンネル](http://www.youtube.com/user/iDOLStreetProject) - [YouTube](../Page/YouTube.md "wikilink")。
+  - [JSG ジェイエスジー公式サイト](https://web.archive.org/web/20120908034607/http://jsg.bz/index2.html) - 與 Cheeky Parade 合作的服飾品牌
 
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
+[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
 
 1.
 

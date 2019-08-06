@@ -1,5 +1,4 @@
-**CSI效应**（）也称**CSI症候群**（）\[1\]或**CSI感染**（）\[2\]，是指因《[犯罪现场调查](https://zh.wikipedia.org/wiki/犯罪现场调查 "wikilink")》之类犯罪题材电视节目中有关[司法科学](../Page/司法科学.md "wikilink")的多种过分夸大描绘而对公众认知产生的影响。这个词語多指一种相信[陪审团会在](https://zh.wikipedia.org/wiki/陪审团 "wikilink")[刑事案审讯过程中要求更多法医证据](https://zh.wikipedia.org/wiki/刑事诉讼法 "wikilink")，从而提高[检察官有效](https://zh.wikipedia.org/wiki/检察官 "wikilink")[举证标准的看法](../Page/舉證責任_\(法律\).md "wikilink")。虽然美国法律界专业人士普遍有这样的看法，但一些研究表明单凭犯罪题材的节目并不大可能造成这样的效果，经常观看《犯罪现场调查》的观众也不会过于看重[间接证据](https://zh.wikipedia.org/wiki/间接证据 "wikilink")（circumstantial
-evidence）\[3\]。不過随着技术进步，而且科技在整个社会中变得越来越普遍，人们也可能会对法医取证技术有更高的期望\[4\]。
+**CSI效应**（）也称**CSI症候群**（）\[1\]或**CSI感染**（）\[2\]，是指因《[犯罪现场调查](https://zh.wikipedia.org/wiki/犯罪现场调查 "wikilink")》之类犯罪题材电视节目中有关[司法科学](../Page/司法科学.md "wikilink")的多种过分夸大描绘而对公众认知产生的影响。这个词語多指一种相信[陪审团会在](https://zh.wikipedia.org/wiki/陪审团 "wikilink")[刑事案审讯过程中要求更多法医证据](https://zh.wikipedia.org/wiki/刑事诉讼法 "wikilink")，从而提高[检察官有效](https://zh.wikipedia.org/wiki/检察官 "wikilink")[举证标准的看法](../Page/舉證責任_\(法律\).md "wikilink")。虽然美国法律界专业人士普遍有这样的看法，但一些研究表明单凭犯罪题材的节目并不大可能造成这样的效果，经常观看《犯罪现场调查》的观众也不会过于看重[间接证据](https://zh.wikipedia.org/wiki/间接证据 "wikilink")（circumstantial evidence）\[3\]。不過随着技术进步，而且科技在整个社会中变得越来越普遍，人们也可能会对法医取证技术有更高的期望\[4\]。
 
 CSI效应还有其他一些表现形式。例如公众法医学意识增强，便会要求警方在调查过程中取得更多的法医证据，导致犯罪实验室的工作量也相应膨胀。全世界范围内大学阶段法医学课程的数量和受欢迎程度都大幅增加；不过一些新的课程已经受到批评，被指其学生在面对现实法医工作时准备不足。此外，这些涉及法医科学的电视节目还有可能会让现实中的罪犯学会如何掩盖证据，因此令调查人员的破案工作变得更加困难。
 
@@ -9,13 +8,9 @@ CSI效应一词源于2000年开始播出的一部电视剧集《犯罪现场调�
 
 多部很受欢迎的犯罪题材电视剧都被批评為不切实际。例如，剧中角色不仅调查（处理）犯罪现场，他们还个个都是文武全才，突击搜查、追踪拘捕、审讯破案样样都能做得有板有眼。但这些实际上都是警官及探长的职责，与犯罪现场调-{}-查员无关。此外，处理犯罪现场的调查员不应该再经手检验任何从现场收集到的证据，因为这样将会危害到科学证据的公正性。在真实的调查过程中，现场一般很难收集到[DNA证据和](https://zh.wikipedia.org/wiki/遗传指纹分析 "wikilink")[指纹证据](https://zh.wikipedia.org/wiki/指纹 "wikilink")，并且即使获得了这类证据，也需要经过数周甚至数月的时间才能够得到结果，但电视中的犯罪实验室显然设施极其先进，只需要几个小时就能完成检验\[11\]。在第一季《犯罪现场调查》中，技术人员制作了一个伤口的石膏模型，并用其来确定造成这一伤口的刀具类型，然而在现实生活中，目前的技术手段还无法做到这一点\[12\]。电视剧中的角色还经常使用“吻合”（match）一词来形容两件证据之间的关连，但是真实的法医技术人员往往会使用更保守的，并不那么肯定的字眼来表述，因为这种绝对可以肯定的情况一般都是不大可能会出现的\[13\]。
 
-《犯罪现场调查》系列剧集的创建人安东尼··祖克尔（）声称，剧中“所有科学内容都是准确的”\[14\]。但是研究人员则形容这些剧集将法医科学都描绘成“高科技魔术”\[15\]，法医学家托马斯·马瑞罗（Thomas
-Mauriello）也估计《犯罪现场调查》中有约40%的科学技术并不存在\[16\]。除了使用不切实际的技术外，《犯罪现场调查》完全忽视了在实际调查过程中存在的不确定性元素，将实验性结果描述为绝对真实可靠的\[17\]。这些欠准确的描绘可能会改变公众对法医证据的看法，这种改变被称之为“CSI效应”。早在2004年，主流媒体上就开始出现“效应”的说法\[18\]，到2009年，各种报刊杂志上已经出现超过250个有关CSI效应的故事\[19\]，这其中还包括发表在《[国家地理](../Page/国家地理_\(杂志\).md "wikilink")》\[20\]、《[科学美国人](../Page/科学美国人.md "wikilink")》\[21\]\[22\]和《[美国新闻和世界报道](https://zh.wikipedia.org/wiki/美国新闻和世界报道 "wikilink")》\[23\]上的文章。
+《犯罪现场调查》系列剧集的创建人安东尼··祖克尔（）声称，剧中“所有科学内容都是准确的”\[14\]。但是研究人员则形容这些剧集将法医科学都描绘成“高科技魔术”\[15\]，法医学家托马斯·马瑞罗（Thomas Mauriello）也估计《犯罪现场调查》中有约40%的科学技术并不存在\[16\]。除了使用不切实际的技术外，《犯罪现场调查》完全忽视了在实际调查过程中存在的不确定性元素，将实验性结果描述为绝对真实可靠的\[17\]。这些欠准确的描绘可能会改变公众对法医证据的看法，这种改变被称之为“CSI效应”。早在2004年，主流媒体上就开始出现“效应”的说法\[18\]，到2009年，各种报刊杂志上已经出现超过250个有关CSI效应的故事\[19\]，这其中还包括发表在《[国家地理](../Page/国家地理_\(杂志\).md "wikilink")》\[20\]、《[科学美国人](../Page/科学美国人.md "wikilink")》\[21\]\[22\]和《[美国新闻和世界报道](https://zh.wikipedia.org/wiki/美国新闻和世界报道 "wikilink")》\[23\]上的文章。
 
-虽然CSI效应到近期才出现，但人们早已发现媒体对美国法律系统的描绘能够显著改变公众对其认知和看法\[24\]。2002年的一项陪审员调查表明，一档很受欢迎的法庭剧《[法官朱迪](https://zh.wikipedia.org/wiki/法官朱迪 "wikilink")》（*Judge
-Judy*）对观众有关[法官](../Page/法官.md "wikilink")在[法庭](../Page/法庭.md "wikilink")审判中所扮演角色的认知存在着极大的误导\[25\]。更早的一些可能对公众有关“法律或调查系统”认知产生影响的电视节目包括1957至1966年的《[梅森探案集](https://zh.wikipedia.org/wiki/梅森探案集 "wikilink")》（*Perry
-Mason*），1976至1983年的《[法医昆西](https://zh.wikipedia.org/wiki/法医昆西 "wikilink")》（*Quincy,
-M.E.*）以及1990年至今的《[法律与秩序](https://zh.wikipedia.org/wiki/法律与秩序 "wikilink")》系列剧集\[26\]。[新闻媒体对刑事案件的追踪报道](https://zh.wikipedia.org/wiki/新闻媒体 "wikilink")，互联网上大量[博客的描写以及](https://zh.wikipedia.org/wiki/博客 "wikilink")[清白专案组织的成功努力](https://zh.wikipedia.org/wiki/清白专案 "wikilink")，都增强了公众的法医学意识\[27\]。祖克尔表示，“在我看来，‘效应’是这一系列剧集最大的一个惊喜”\[28\]。
+虽然CSI效应到近期才出现，但人们早已发现媒体对美国法律系统的描绘能够显著改变公众对其认知和看法\[24\]。2002年的一项陪审员调查表明，一档很受欢迎的法庭剧《[法官朱迪](https://zh.wikipedia.org/wiki/法官朱迪 "wikilink")》（*Judge Judy*）对观众有关[法官](../Page/法官.md "wikilink")在[法庭](../Page/法庭.md "wikilink")审判中所扮演角色的认知存在着极大的误导\[25\]。更早的一些可能对公众有关“法律或调查系统”认知产生影响的电视节目包括1957至1966年的《[梅森探案集](https://zh.wikipedia.org/wiki/梅森探案集 "wikilink")》（*Perry Mason*），1976至1983年的《[法医昆西](https://zh.wikipedia.org/wiki/法医昆西 "wikilink")》（*Quincy, M.E.*）以及1990年至今的《[法律与秩序](https://zh.wikipedia.org/wiki/法律与秩序 "wikilink")》系列剧集\[26\]。[新闻媒体对刑事案件的追踪报道](https://zh.wikipedia.org/wiki/新闻媒体 "wikilink")，互联网上大量[博客的描写以及](https://zh.wikipedia.org/wiki/博客 "wikilink")[清白专案组织的成功努力](https://zh.wikipedia.org/wiki/清白专案 "wikilink")，都增强了公众的法医学意识\[27\]。祖克尔表示，“在我看来，‘效应’是这一系列剧集最大的一个惊喜”\[28\]。
 
 ## 表现形式
 
@@ -53,10 +48,7 @@ CSI效应也影响了法医学的教育和训练方式。过去，进入这一�
 
 ## 参考资料
 
-[Category:法医现象](https://zh.wikipedia.org/wiki/Category:法医现象 "wikilink")
-[Category:CSI犯罪現場](https://zh.wikipedia.org/wiki/Category:CSI犯罪現場 "wikilink")
-[Category:犯罪侦查学](https://zh.wikipedia.org/wiki/Category:犯罪侦查学 "wikilink")
-[Category:犯罪题材作品](https://zh.wikipedia.org/wiki/Category:犯罪题材作品 "wikilink")
+[Category:法医现象](https://zh.wikipedia.org/wiki/Category:法医现象 "wikilink") [Category:CSI犯罪現場](https://zh.wikipedia.org/wiki/Category:CSI犯罪現場 "wikilink") [Category:犯罪侦查学](https://zh.wikipedia.org/wiki/Category:犯罪侦查学 "wikilink") [Category:犯罪题材作品](https://zh.wikipedia.org/wiki/Category:犯罪题材作品 "wikilink")
 
 1.
 

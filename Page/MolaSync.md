@@ -23,14 +23,9 @@ Molasync支持手写笔记，绘图，文本编辑，文字处理，协同编辑
 
 [Category:行動軟體](https://zh.wikipedia.org/wiki/Category:行動軟體 "wikilink")
 
-1.  [i-疯佬](http://i-phoneman.blogspot.com/2013/08/molasync.html)
-    iOS平台应用生活网志 2013年8月14日
+1.  [i-疯佬](http://i-phoneman.blogspot.com/2013/08/molasync.html) iOS平台应用生活网志 2013年8月14日
 2.  [关于我们](http://www.molasync.com/zhs/about.html) Molasync官网 2013年6月24日
-3.  [Best Free Apps of the
-    Day](http://appsaga.com/best-free-apps-of-the-day-on-92-molasync-notes-push-launcher-star-wars-pinball-more/)
-    AppSaga 2013年9月2日
-4.  [苹果商店](https://itunes.apple.com/cn/app/molasync-collaborative-cloud/id660018160?ls=1&mt=8)
-    2013年8月6日
-5.  [虎嗅网](http://www.huxiu.com/article/24680/1.html?f=wangzhan)
-    2013年12月8日
+3.  [Best Free Apps of the Day](http://appsaga.com/best-free-apps-of-the-day-on-92-molasync-notes-push-launcher-star-wars-pinball-more/) AppSaga 2013年9月2日
+4.  [苹果商店](https://itunes.apple.com/cn/app/molasync-collaborative-cloud/id660018160?ls=1&mt=8) 2013年8月6日
+5.  [虎嗅网](http://www.huxiu.com/article/24680/1.html?f=wangzhan) 2013年12月8日
 6.  [快鲤鱼](http://www.kuailiyu.com/article/6653.html)  2013年12月16日

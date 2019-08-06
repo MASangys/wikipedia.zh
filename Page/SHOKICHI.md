@@ -1,6 +1,4 @@
-**SHOKICHI**（），[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[EXILE
-THE SECOND的主唱兼表演者](../Page/EXILE_THE_SECOND.md "wikilink")，原[J Soul
-Brothers成員](../Page/J_Soul_Brothers.md "wikilink")。
+**SHOKICHI**（），[日本](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[EXILE THE SECOND的主唱兼表演者](../Page/EXILE_THE_SECOND.md "wikilink")，原[J Soul Brothers成員](../Page/J_Soul_Brothers.md "wikilink")。
 
 [北海道](../Page/北海道.md "wikilink")[苫小牧市](../Page/苫小牧市.md "wikilink")出身。身高183cm\[1\]。
 
@@ -10,33 +8,21 @@ Brothers成員](../Page/J_Soul_Brothers.md "wikilink")。
 
 中一的時候由於受朋友的影響，開始樂隊活動，擔任主唱\[2\]\[3\]。曾是棒球少年，通過棒球推薦進入高中\[4\]，高中時屬於棒球部,不過1年後便退出了，此後便埋頭樂隊活動和去卡拉OK練習\[5\]。
 
-大學時代與朋友[佐藤廣大](https://zh.wikipedia.org/wiki/佐藤廣大 "wikilink")\[6\]\[7\]組成音樂團體｢Jack
-Pot｣。期後組成的R\&B團體｢symphony｣，於札幌活動。經紀所屬在｢WILD
-STYLE｣\[8\]，當時和[野替愁平SWAY等人一起活動](https://zh.wikipedia.org/wiki/野替愁平SWAY "wikilink")\[9\]。
+大學時代與朋友[佐藤廣大](https://zh.wikipedia.org/wiki/佐藤廣大 "wikilink")\[6\]\[7\]組成音樂團體｢Jack Pot｣。期後組成的R\&B團體｢symphony｣，於札幌活動。經紀所屬在｢WILD STYLE｣\[8\]，當時和[野替愁平SWAY等人一起活動](https://zh.wikipedia.org/wiki/野替愁平SWAY "wikilink")\[9\]。
 
-2006年參加了｢EXILE VOCAL BATTLE AUDITION～ASIAN
-DREAM～｣，在選秀裏SHOKICHI在1次審查時唱了[久保田利伸](../Page/久保田利伸.md "wikilink")的『Cymbals』，3次審查唱了[米倉利紀的](https://zh.wikipedia.org/wiki/米倉利紀 "wikilink")『ANNIVERSARY』。但很可惜在第3次審查中落選。
+2006年參加了｢EXILE VOCAL BATTLE AUDITION～ASIAN DREAM～｣，在選秀裏SHOKICHI在1次審查時唱了[久保田利伸](../Page/久保田利伸.md "wikilink")的『Cymbals』，3次審查唱了[米倉利紀的](https://zh.wikipedia.org/wiki/米倉利紀 "wikilink")『ANNIVERSARY』。但很可惜在第3次審查中落選。
 
-由於無法捨棄做職業歌手這個夢想，於是決定參加新生COLOR的團員選秀但可惜同樣再次落選。但是SHOKICHI不死心，之後到EXPG札幌校上課，學習舞蹈和唱歌。同年12月，從到EXPG札幌校作為教練而訪問的TETSUYA相識，之後得到了新生(二代目)J
-Soul Brothers主唱選秀的情報。
+由於無法捨棄做職業歌手這個夢想，於是決定參加新生COLOR的團員選秀但可惜同樣再次落選。但是SHOKICHI不死心，之後到EXPG札幌校上課，學習舞蹈和唱歌。同年12月，從到EXPG札幌校作為教練而訪問的TETSUYA相識，之後得到了新生(二代目)J Soul Brothers主唱選秀的情報。
 
-2007年1月25日，成為新生(二代目)「J Soul Brothers」的主唱並開始活動。8月4日，於東京BIG
-SIGHT舉行的放浪兄弟巡迴演唱會「EXILE LIVE TOUR 2007 EXILE
-EVOLUTION 〜SUMMER TIME LOVE〜」中首次公開表演。
+2007年1月25日，成為新生(二代目)「J Soul Brothers」的主唱並開始活動。8月4日，於東京BIG SIGHT舉行的放浪兄弟巡迴演唱會「EXILE LIVE TOUR 2007 EXILE EVOLUTION 〜SUMMER TIME LOVE〜」中首次公開表演。
 
 2009年3月1日加入放浪兄弟。
 
-2012年1月1日發售的EXILE的專輯『[EXILE
-JAPAN/Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")』所收錄的歌曲「Everlasting
-Song」為他首次擔任作詞作曲。還有「Beautiful
-Life」是與[ATSUSHI](../Page/ATSUSHI.md "wikilink")共同合作作詞。7月1日開始成為「THE
-SECOND from EXILE(現名為[EXILE THE
-SECOND](../Page/EXILE_THE_SECOND.md "wikilink"))」的成員並與EXILE成員身份並行活動。10月，日本電視台系電視劇『[シュガーレス](https://zh.wikipedia.org/wiki/:ja:シュガーレス_\(漫画\)#テレビドラマ "wikilink")』初次當演員。
+2012年1月1日發售的EXILE的專輯『[EXILE JAPAN/Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo "wikilink")』所收錄的歌曲「Everlasting Song」為他首次擔任作詞作曲。還有「Beautiful Life」是與[ATSUSHI](../Page/ATSUSHI.md "wikilink")共同合作作詞。7月1日開始成為「THE SECOND from EXILE(現名為[EXILE THE SECOND](../Page/EXILE_THE_SECOND.md "wikilink"))」的成員並與EXILE成員身份並行活動。10月，日本電視台系電視劇『[シュガーレス](https://zh.wikipedia.org/wiki/:ja:シュガーレス_\(漫画\)#テレビドラマ "wikilink")』初次當演員。
 
 2013年7月、日本電視台系電視劇『』首次擔任主角。
 
-2014年6月4日以EXILE SHOKICHI名義發售個人出道單曲「[BACK TO THE
-FUTURE](../Page/BACK_TO_THE_FUTURE_\(EXILE_SHOKICHI單曲\).md "wikilink")」\[10\]。
+2014年6月4日以EXILE SHOKICHI名義發售個人出道單曲「[BACK TO THE FUTURE](../Page/BACK_TO_THE_FUTURE_\(EXILE_SHOKICHI單曲\).md "wikilink")」\[10\]。
 
 2017年，就任為LDH music\&publishing的董事\[11\]。
 
@@ -45,49 +31,35 @@ FUTURE](../Page/BACK_TO_THE_FUTURE_\(EXILE_SHOKICHI單曲\).md "wikilink")」\[1
 ## 人物
 
   - 3人兄弟的長子，親弟弟是[劇團EXILE](../Page/劇團EXILE.md "wikilink")的八木将康\[14\]。
-  - 「EXILE VOCAL BATTLE AUDITION 2006 〜ASIAN
-    DREAM〜」1次審查唱了當時他卡拉OK得意本領的[久保田利伸](../Page/久保田利伸.md "wikilink")的『Cymbals』、3次審查時唱了[米倉利紀的](https://zh.wikipedia.org/wiki/米倉利紀 "wikilink")『ANNIVERSARY』。\[15\]。
+  - 「EXILE VOCAL BATTLE AUDITION 2006 〜ASIAN DREAM〜」1次審查唱了當時他卡拉OK得意本領的[久保田利伸](../Page/久保田利伸.md "wikilink")的『Cymbals』、3次審查時唱了[米倉利紀的](https://zh.wikipedia.org/wiki/米倉利紀 "wikilink")『ANNIVERSARY』。\[15\]。
   - EXILE第一大食，據說從前一頓飯吃3合飯(約6杯)\[16\]。
   - 保護在路上徘徊的癡呆症的男性，乘出租車送到家\[17\]。
-  - 與[DOBERMAN
-    INFINITY的](https://zh.wikipedia.org/wiki/DOBERMAN_INFINITY "wikilink")[SWAY(
-    野替愁平)是十多歳時起已是朋友](../Page/野替愁平.md "wikilink")。
+  - 與[DOBERMAN INFINITY的](https://zh.wikipedia.org/wiki/DOBERMAN_INFINITY "wikilink")[SWAY( 野替愁平)是十多歳時起已是朋友](../Page/野替愁平.md "wikilink")。
 
 ## 参加團體
 
   - Jack Pot（2004年 - 2005年）
   - symphony（2005年 - 不明）
-  - [J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")（2007年1月25日
-    - 2009年3月1日）
-  - [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（2009年3月1日 -
-    ）
-  - [EXILE THE SECOND](../Page/EXILE_THE_SECOND.md "wikilink")（2012年7月1日
-    - ）
+  - [J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")（2007年1月25日 - 2009年3月1日）
+  - [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（2009年3月1日 - ）
+  - [EXILE THE SECOND](../Page/EXILE_THE_SECOND.md "wikilink")（2012年7月1日 - ）
 
 ## 作品
 
 關於EXILE的作品,請參考[EXILE\#作品](https://zh.wikipedia.org/wiki/EXILE#作品 "wikilink")
 
-關於二代目J Soul Brothers的作品請參考[J Soul
-Brothers\#作品](https://zh.wikipedia.org/wiki/J_Soul_Brothers#作品 "wikilink")
+關於二代目J Soul Brothers的作品請參考[J Soul Brothers\#作品](https://zh.wikipedia.org/wiki/J_Soul_Brothers#作品 "wikilink")
 
-關於EXILE THE SECOND的作品,請參考[EXILE THE
-SECOND\#音樂作品](https://zh.wikipedia.org/wiki/EXILE_THE_SECOND#音樂作品 "wikilink")
+關於EXILE THE SECOND的作品,請參考[EXILE THE SECOND\#音樂作品](https://zh.wikipedia.org/wiki/EXILE_THE_SECOND#音樂作品 "wikilink")
 
 ### 單曲
 
-1.  [BACK TO THE
-    FUTURE](../Page/BACK_TO_THE_FUTURE_\(EXILE_SHOKICHI單曲\).md "wikilink")（2014年6月4日）
-    - 2位
-2.  [The
-    One](../Page/The_One_\(EXILE_SHOKICHI單曲\).md "wikilink")（2014年10月22日）-
-    5位
-3.  [Don't Stop the
-    Music](../Page/Don't_Stop_the_Music.md "wikilink")（2015年7月22日）- 4位
+1.  [BACK TO THE FUTURE](../Page/BACK_TO_THE_FUTURE_\(EXILE_SHOKICHI單曲\).md "wikilink")（2014年6月4日） - 2位
+2.  [The One](../Page/The_One_\(EXILE_SHOKICHI單曲\).md "wikilink")（2014年10月22日）- 5位
+3.  [Don't Stop the Music](../Page/Don't_Stop_the_Music.md "wikilink")（2015年7月22日）- 4位
 4.  [IGNITION](../Page/IGNITION.md "wikilink")（2015年10月28日）- 6位
 5.  Underdog- （2018年5月23日）7位
-6.  [Futen
-    Boyz](https://zh.wikipedia.org/wiki/Futen_Boyz "wikilink")（2018年10月3日）
+6.  [Futen Boyz](https://zh.wikipedia.org/wiki/Futen_Boyz "wikilink")（2018年10月3日）
 
 ### 數位單曲
 
@@ -175,20 +147,14 @@ SECOND\#音樂作品](https://zh.wikipedia.org/wiki/EXILE_THE_SECOND#音樂作�
 
 ### 音樂合作
 
-  - BACK TO THE FUTURE -
-    [朝日電視台](../Page/朝日電視台.md "wikilink")『[お願い\!ランキング](https://zh.wikipedia.org/wiki/お願い!ランキング "wikilink")』2014年5月份結尾曲\[20\]
+  - BACK TO THE FUTURE - [朝日電視台](../Page/朝日電視台.md "wikilink")『[お願い\!ランキング](https://zh.wikipedia.org/wiki/お願い!ランキング "wikilink")』2014年5月份結尾曲\[20\]
   - The One - リクルート「本月的ゼクシィ」廣告歌、朝日電視台系『お願い\!ランキング』2014年10月份結尾曲
   - Loveholic - ANGFA「Scalp-D」廣告歌
-  - Don't Stop the Music -
-    [日本電視台](../Page/日本電視台.md "wikilink")\]『[スッキリ\!\!](https://zh.wikipedia.org/wiki/スッキリ!! "wikilink")』2015年7月份結尾曲
-  - IGNITION -
-    電影『[玩命快遞：肆意橫行](../Page/玩命快遞：肆意橫行.md "wikilink")』日本版主題歌\[21\]
+  - Don't Stop the Music - [日本電視台](../Page/日本電視台.md "wikilink")\]『[スッキリ\!\!](https://zh.wikipedia.org/wiki/スッキリ!! "wikilink")』2015年7月份結尾曲
+  - IGNITION - 電影『[玩命快遞：肆意橫行](../Page/玩命快遞：肆意橫行.md "wikilink")』日本版主題歌\[21\]
   - Freaky Cheeky - 北海道文化放送『EXILE TRIBE男旅 SEASON III』開場曲\[22\]
-  - Rock City feat. SWAY & Crystal Kay -
-    [洋服の青山](https://zh.wikipedia.org/wiki/洋服の青山 "wikilink")
-    「夏スーツ」篇 廣告歌 \[23\]
-  - WHITEOUT -
-    日本電視台『[熱血街區](https://zh.wikipedia.org/wiki/熱血街區 "wikilink")』插曲
+  - Rock City feat. SWAY & Crystal Kay - [洋服の青山](https://zh.wikipedia.org/wiki/洋服の青山 "wikilink") 「夏スーツ」篇 廣告歌 \[23\]
+  - WHITEOUT - 日本電視台『[熱血街區](https://zh.wikipedia.org/wiki/熱血街區 "wikilink")』插曲
 
 ## 音樂錄影帶
 
@@ -207,13 +173,10 @@ SECOND\#音樂作品](https://zh.wikipedia.org/wiki/EXILE_THE_SECOND#音樂作�
 
 ### 電視節目
 
-  - [EX-LOUNGE](https://zh.wikipedia.org/wiki/:ja:EX-LOUNGE "wikilink")（[TBS電視](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")、2012年11月
-    - 2013年3月）
+  - [EX-LOUNGE](https://zh.wikipedia.org/wiki/:ja:EX-LOUNGE "wikilink")（[TBS電視](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")、2012年11月 - 2013年3月）
   - まっすぐに智華子、夢へ（2013年4月27日、[STV](https://zh.wikipedia.org/wiki/札幌テレビ放送 "wikilink")）ナビゲーター
-  - [どさんこワイド179](https://zh.wikipedia.org/wiki/:ja:どさんこワイド "wikilink")（2014年4月
-    - 、STV）みらい応援キャスター（『EXILE SHOKICHI みらいの空』不定期參與演出）\[29\]。
-  - EXILE TRIBE男旅
-    （[UHB](https://zh.wikipedia.org/wiki/北海道文化放送 "wikilink")）
+  - [どさんこワイド179](https://zh.wikipedia.org/wiki/:ja:どさんこワイド "wikilink")（2014年4月 - 、STV）みらい応援キャスター（『EXILE SHOKICHI みらいの空』不定期參與演出）\[29\]。
+  - EXILE TRIBE男旅 （[UHB](https://zh.wikipedia.org/wiki/北海道文化放送 "wikilink")）
       - SEASON I（2014年5月17日- 12月27日）\[30\]
       - SEASON Ⅱ（2015年4月4日 - 2016年3月19日）\[31\]
       - SEASON III（2016年4月2日 - 2017年3月18日）
@@ -222,10 +185,8 @@ SECOND\#音樂作品](https://zh.wikipedia.org/wiki/EXILE_THE_SECOND#音樂作�
 
 ### 戲劇
 
-  - [シュガーレス](https://zh.wikipedia.org/wiki/:ja:シュガーレス_\(漫画\)#テレビドラマ "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、2012年10月
-    - 12月） 飾演 荒巻至 / シャケ
-  - [Frenemy街頭正義](https://zh.wikipedia.org/wiki/:ja:フレネミー_-どぶねずみの街- "wikilink")（日本電視台、2013年7月
-    - ）飾演 森下夏生
+  - [シュガーレス](https://zh.wikipedia.org/wiki/:ja:シュガーレス_\(漫画\)#テレビドラマ "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、2012年10月 - 12月） 飾演 荒巻至 / シャケ
+  - [Frenemy街頭正義](https://zh.wikipedia.org/wiki/:ja:フレネミー_-どぶねずみの街- "wikilink")（日本電視台、2013年7月 - ）飾演 森下夏生
 
 ### 電影
 
@@ -239,32 +200,23 @@ SECOND\#音樂作品](https://zh.wikipedia.org/wiki/EXILE_THE_SECOND#音樂作�
       - 「パーツストレッチ『Soul Man』篇 （2014年）
       - 「夏スーツ」篇 （2016年）\[33\]
   - [ANGFA](https://zh.wikipedia.org/wiki/ANGFA "wikilink")「SCALP-D」（2014年）
-  - [Beats by Dr.
-    Dre](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")（2014年）
-  - [三得利](../Page/三得利.md "wikilink")『[ザ・モルツ](https://zh.wikipedia.org/wiki/モルツ "wikilink")』（2015年9月
-    - ）\[34\]。
+  - [Beats by Dr. Dre](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")（2014年）
+  - [三得利](../Page/三得利.md "wikilink")『[ザ・モルツ](https://zh.wikipedia.org/wiki/モルツ "wikilink")』（2015年9月 - ）\[34\]。
 
 ### 音樂錄影帶　
 
-  - [BIGZAM](https://zh.wikipedia.org/wiki/BIGZAM "wikilink")「I Got a
-    Dream」（2017年）\[35\]
+  - [BIGZAM](https://zh.wikipedia.org/wiki/BIGZAM "wikilink")「I Got a Dream」（2017年）\[35\]
   - [查莉·XCX](../Page/查莉·XCX.md "wikilink") 「BOYS」（2017年）\[36\]
-  - [CRAZYBOY](https://zh.wikipedia.org/wiki/ELLY "wikilink")「PRIVATE
-    PARTY」（2018年）\[37\]
-  - [RED DIAMOND
-    DOGS](https://zh.wikipedia.org/wiki/RED_DIAMOND_DOGS "wikilink")
-    「RED SOUL BLUE DRAGON」（2018年）\[38\]
+  - [CRAZYBOY](https://zh.wikipedia.org/wiki/ELLY "wikilink")「PRIVATE PARTY」（2018年）\[37\]
+  - [RED DIAMOND DOGS](https://zh.wikipedia.org/wiki/RED_DIAMOND_DOGS "wikilink") 「RED SOUL BLUE DRAGON」（2018年）\[38\]
 
 ### 廣播
 
-  - LDH kitchen THE TOKYO HANEDA RADIO powered by dヒッツ（2019年 - ）- 主持
-    \[39\]
+  - LDH kitchen THE TOKYO HANEDA RADIO powered by dヒッツ（2019年 - ）- 主持 \[39\]
 
 ### 網上播映節目
 
-  - EXILE SHOKICHI ファースト・ソロ・シングル『BACK TO THE FUTURE』リリース特番
-    (2014年6月7日、[ニコニコ生放送](https://zh.wikipedia.org/wiki/ニコニコ生放送 "wikilink"))
-    \[40\]
+  - EXILE SHOKICHI ファースト・ソロ・シングル『BACK TO THE FUTURE』リリース特番 (2014年6月7日、[ニコニコ生放送](https://zh.wikipedia.org/wiki/ニコニコ生放送 "wikilink")) \[40\]
 
 ### 演唱會、活動
 
@@ -278,8 +230,7 @@ VBA LIVE TOUR 2012 VOCAL BATTLE STAGE
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2012年2月29日・3月1日 大阪・[Zepp
-    Osaka](https://zh.wikipedia.org/wiki/Zepp_Osaka "wikilink")
+  - 2012年2月29日・3月1日 大阪・[Zepp Osaka](https://zh.wikipedia.org/wiki/Zepp_Osaka "wikilink")
   - 2012年3月6日・7日 東京・[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")
 
 </div>
@@ -336,8 +287,7 @@ VOCAL BATTLE STAGE 2014\[42\]
 
 <div class="NavHead" style="text-align: left;">
 
-EXILE SHOKICHI presents THE SHOW TIME Vol.1 ～IGNITION Release
-Party～\[44\]
+EXILE SHOKICHI presents THE SHOW TIME Vol.1 ～IGNITION Release Party～\[44\]
 
 </div>
 
@@ -385,22 +335,11 @@ EXILE SHOKICHI LIVE TOUR 2019 "UNDERDOGG"\[45\]
 
   - [EXILE SHOKICHI OFFICIAL WEBSITE](http://exile-shokichi.jp)
 
-  - [SHOKICHI |
-    PROFILE](http://exile.jp/profile/profile_member.php?id=1000245) -
-    EXILE官方簡介
+  - [SHOKICHI | PROFILE](http://exile.jp/profile/profile_member.php?id=1000245) - EXILE官方簡介
 
   -
   -
-[Category:放浪兄弟](https://zh.wikipedia.org/wiki/Category:放浪兄弟 "wikilink")
-[Category:J_Soul_Brothers](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers "wikilink")
-[Category:EXILE_THE_SECOND](https://zh.wikipedia.org/wiki/Category:EXILE_THE_SECOND "wikilink")
-[Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink")
-[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink")
-[Category:日本男舞者](https://zh.wikipedia.org/wiki/Category:日本男舞者 "wikilink")
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:日本作詞家](https://zh.wikipedia.org/wiki/Category:日本作詞家 "wikilink")
-[Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink")
-[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
+[Category:放浪兄弟](https://zh.wikipedia.org/wiki/Category:放浪兄弟 "wikilink") [Category:J_Soul_Brothers](https://zh.wikipedia.org/wiki/Category:J_Soul_Brothers "wikilink") [Category:EXILE_THE_SECOND](https://zh.wikipedia.org/wiki/Category:EXILE_THE_SECOND "wikilink") [Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink") [Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:日本男舞者](https://zh.wikipedia.org/wiki/Category:日本男舞者 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本作詞家](https://zh.wikipedia.org/wiki/Category:日本作詞家 "wikilink") [Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.
 
@@ -483,8 +422,6 @@ EXILE SHOKICHI LIVE TOUR 2019 "UNDERDOGG"\[45\]
 
 43.
 
-44. [EXILE SHOKICHI presents THE SHOW TIME Vol.1 ～IGNITION Release
-    Party～
-    続報！ 2015年10月16日閲覧](http://exile-shokichi.jp/news/detail.php?id=1027724)
+44. [EXILE SHOKICHI presents THE SHOW TIME Vol.1 ～IGNITION Release Party～ 続報！ 2015年10月16日閲覧](http://exile-shokichi.jp/news/detail.php?id=1027724)
 
 45.

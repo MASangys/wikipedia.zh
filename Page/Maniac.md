@@ -32,5 +32,4 @@ DISC TWO
 9.  海との友情
 10. be true
 
-[Category:Globe音樂專輯](https://zh.wikipedia.org/wiki/Category:Globe音樂專輯 "wikilink")
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
+[Category:Globe音樂專輯](https://zh.wikipedia.org/wiki/Category:Globe音樂專輯 "wikilink") [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")

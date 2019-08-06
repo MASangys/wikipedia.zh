@@ -1,5 +1,4 @@
-**Astro大馬控股有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro
-Malaysia Holdings Bhd，）為馬來西亞最大綜合傳媒娛樂公司。
+**Astro大馬控股有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro Malaysia Holdings Bhd，）為馬來西亞最大綜合傳媒娛樂公司。
 
 ## 公司簡介
 
@@ -9,27 +8,19 @@ Astro大馬控股有限公司在收費電視廣播服務方面為3.1萬馬來西
 
 ## 衛星電視廣播服務、電視頻道營運管理
 
-**Astro電視網絡系統私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro
-Television Network System Sdn
-Bhd，簡稱**Astro电视**）是Astro大馬控股有限公司旗下衛星電視廣播服務及電視頻道營運管理公司，也是馬來西亞最大衛星電視頻道供應者。Astro电视負責經營擁有超過40條的Astro自家電視頻道，為大眾提供非一般的有線衛星電視服務，也為大眾帶來不同新聞資訊及綜藝娛樂。
+**Astro電視網絡系統私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro Television Network System Sdn Bhd，簡稱**Astro电视**）是Astro大馬控股有限公司旗下衛星電視廣播服務及電視頻道營運管理公司，也是馬來西亞最大衛星電視頻道供應者。Astro电视負責經營擁有超過40條的Astro自家電視頻道，為大眾提供非一般的有線衛星電視服務，也為大眾帶來不同新聞資訊及綜藝娛樂。
 
 ## 電台廣播服務
 
-**Astro電台私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro
-Radio Sdn Bhd，簡稱**Astro
-Radio**）是Astro大馬控股有限公司旗下電台廣播服務公司，也是馬來西亞最大電台集团，為聽眾帶來各式各樣的聲音。
+**Astro電台私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro Radio Sdn Bhd，簡稱**Astro Radio**）是Astro大馬控股有限公司旗下電台廣播服務公司，也是馬來西亞最大電台集团，為聽眾帶來各式各樣的聲音。
 
 ## 市場發展、海外節目代理發行管理
 
-**Astro娛樂私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro
-Entertainment Sdn
-Bhd，簡稱**Astro娱乐**）是Astro大馬控股有限公司旗下市場發展及海外節目代理發行管理公司，也是馬來西亞最大海外節目供應者。Astro娱乐負責經營海外節目代理發行權及提供海外節目于Astro自家電視頻道及其他本地電視台，也負責經營市場發展業務。
+**Astro娛樂私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro Entertainment Sdn Bhd，簡稱**Astro娱乐**）是Astro大馬控股有限公司旗下市場發展及海外節目代理發行管理公司，也是馬來西亞最大海外節目供應者。Astro娱乐負責經營海外節目代理發行權及提供海外節目于Astro自家電視頻道及其他本地電視台，也負責經營市場發展業務。
 
 ## 電視內容創作、藝人管理
 
-**Astro製作私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro
-Productions Sdn
-Bhd，簡稱**Astro制作**）是Astro大馬控股有限公司旗下電視內容創作公司，也是馬來西亞最大電視節目供應商和馬來西亞最大藝人經紀公司。Astro制作每年製作多部馬來語、英語、華語及多種印度語的電視節目供給Astro自家電視頻道及其他本地和外國電視台，也負責經營電視節目發行及銷售業務。Astro制作同時經營藝人管理業務，管理的旗下合約藝人共有超過100位。
+**Astro製作私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro Productions Sdn Bhd，簡稱**Astro制作**）是Astro大馬控股有限公司旗下電視內容創作公司，也是馬來西亞最大電視節目供應商和馬來西亞最大藝人經紀公司。Astro制作每年製作多部馬來語、英語、華語及多種印度語的電視節目供給Astro自家電視頻道及其他本地和外國電視台，也負責經營電視節目發行及銷售業務。Astro制作同時經營藝人管理業務，管理的旗下合約藝人共有超過100位。
 
 ### 中文電視劇作品
 
@@ -99,19 +90,13 @@ Astro制作和其他影視製作公司達成中文電視劇製作之合作協議
 
 ## 電影
 
-**Tayangan Unggul Sdn
-Bhd**（[马来文](https://zh.wikipedia.org/wiki/马来文 "wikilink")：Tayangan
-Unggul Sdn Bhd，簡稱**Tayangan
-Unggul**）是馬來西亞數一數二的馬來語電影製作公司，由Astro大馬控股有限公司及著名馬來語電影製作人合資開設。
+**Tayangan Unggul Sdn Bhd**（[马来文](https://zh.wikipedia.org/wiki/马来文 "wikilink")：Tayangan Unggul Sdn Bhd，簡稱**Tayangan Unggul**）是馬來西亞數一數二的馬來語電影製作公司，由Astro大馬控股有限公司及著名馬來語電影製作人合資開設。
 
 ### 電影作品
 
 [功夫之王](../Page/功夫之王.md "wikilink")
 
-**Astro
-Shaw私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro
-Shaw Sdn Bhd，簡稱**Astro
-Shaw**）是Astro大馬控股有限公司旗下電影公司，每年製作及發行超過六部電影，旗下電影作品都擁有高票房及多個電影獎項的記錄。
+**Astro Shaw私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro Shaw Sdn Bhd，簡稱**Astro Shaw**）是Astro大馬控股有限公司旗下電影公司，每年製作及發行超過六部電影，旗下電影作品都擁有高票房及多個電影獎項的記錄。
 
 ### 中文電影作品
 
@@ -131,9 +116,7 @@ Shaw**）是Astro大馬控股有限公司旗下電影公司，每年製作及發
 
 ## 雜誌出版
 
-**Astro出版私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro
-Publications Sdn
-Bhd，簡稱**Astro出版**）是Astro大馬控股有限公司旗下雜誌出版公司，也是馬來西亞最大出版商，各式各樣及不同類型的雜誌讓其擁有超高的促銷標準。
+**Astro出版私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro Publications Sdn Bhd，簡稱**Astro出版**）是Astro大馬控股有限公司旗下雜誌出版公司，也是馬來西亞最大出版商，各式各樣及不同類型的雜誌讓其擁有超高的促銷標準。
 
 | 杂志名称     | 描述   |
 | -------- | ---- |
@@ -143,26 +126,16 @@ Bhd，簡稱**Astro出版**）是Astro大馬控股有限公司旗下雜誌出版
 
 ## 數碼多媒體服務
 
-**Astro數碼私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro
-Digital Sdn
-Bhd，簡稱**Astro数码**）是Astro大馬控股有限公司旗下數碼多媒體服務公司，擁有全馬最高科技功能，為客戶提供網絡創建及智能手機設置服務。
+**Astro數碼私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Astro Digital Sdn Bhd，簡稱**Astro数码**）是Astro大馬控股有限公司旗下數碼多媒體服務公司，擁有全馬最高科技功能，為客戶提供網絡創建及智能手機設置服務。
 
 ## 其他非Astro業務
 
-**Nusantara Karya
-Seni私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Nusantara
-Karya Seni Sdn Bhd，簡稱**Nusantara Karya
-Seni**）是馬來西亞數一數二的馬來語電視劇集製作發行公司，由Astro大馬控股有限公司及著名馬來語電視劇集製作人合資開設,提供高素質的馬來電視劇集給予Astro自家電視頻道及其他本地和海外電視台。
+**Nusantara Karya Seni私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Nusantara Karya Seni Sdn Bhd，簡稱**Nusantara Karya Seni**）是馬來西亞數一數二的馬來語電視劇集製作發行公司，由Astro大馬控股有限公司及著名馬來語電視劇集製作人合資開設,提供高素質的馬來電視劇集給予Astro自家電視頻道及其他本地和海外電視台。
 
-**Endemol（馬來西亞）娛樂集團私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Endemol
-Malaysia Entertainment Group Sdn
-Bhd，簡稱**Endemol娛樂集團**）是馬來西亞最大影視娛樂發行及廣告分銷公司，Astro大馬控股有限公司擁有馬來西亞代理經營權，提供高素質的本地及海外電視節目和廣告分銷給與其他電視台。
+**Endemol（馬來西亞）娛樂集團私人有限公司**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Endemol Malaysia Entertainment Group Sdn Bhd，簡稱**Endemol娛樂集團**）是馬來西亞最大影視娛樂發行及廣告分銷公司，Astro大馬控股有限公司擁有馬來西亞代理經營權，提供高素質的本地及海外電視節目和廣告分銷給與其他電視台。
 
 ## 外部連結
 
   - [Astro電視服務官方網站](http://www.astro.com.my)
 
-[Category:馬來西亞電視台](https://zh.wikipedia.org/wiki/Category:馬來西亞電視台 "wikilink")
-[Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink")
-[Category:马来西亚公司](https://zh.wikipedia.org/wiki/Category:马来西亚公司 "wikilink")
-[Category:多媒体超级走廊](https://zh.wikipedia.org/wiki/Category:多媒体超级走廊 "wikilink")
+[Category:馬來西亞電視台](https://zh.wikipedia.org/wiki/Category:馬來西亞電視台 "wikilink") [Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink") [Category:马来西亚公司](https://zh.wikipedia.org/wiki/Category:马来西亚公司 "wikilink") [Category:多媒体超级走廊](https://zh.wikipedia.org/wiki/Category:多媒体超级走廊 "wikilink")

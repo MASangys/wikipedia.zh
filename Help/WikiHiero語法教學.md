@@ -8,12 +8,7 @@
 
     <div>
 
-    ''[Aleph](../Page/Aleph.md "wikilink") is thought to be derived from
-    the West Semitic word for
-    "[ox](https://zh.wikipedia.org/wiki/ox "wikilink")", and its shape
-    is ultimately based on a
-    [hieroglyph](https://zh.wikipedia.org/wiki/Egyptian_hieroglyphs "wikilink")
-    depicting an ox's head,
+    ''[Aleph](../Page/Aleph.md "wikilink") is thought to be derived from the West Semitic word for "[ox](https://zh.wikipedia.org/wiki/ox "wikilink")", and its shape is ultimately based on a [hieroglyph](https://zh.wikipedia.org/wiki/Egyptian_hieroglyphs "wikilink") depicting an ox's head,
 
     <div style="display:inline;">
 
@@ -21,21 +16,13 @@
 
     </div>
 
-    , in Egyptian reading a [biliteral
-    sign](https://zh.wikipedia.org/wiki/Egyptian_biliteral_signs "wikilink")
-    with the phonetic value **.''
+    , in Egyptian reading a [biliteral sign](https://zh.wikipedia.org/wiki/Egyptian_biliteral_signs "wikilink") with the phonetic value **.''
 
     </div>
 
     （原始編碼）：
 
-    \<div\>''\[\[Aleph|Aleph\]\] is thought to be derived from the West
-    Semitic word for "\[\[ox|ox\]\]", and its shape is ultimately based
-    on a \[\[Egyptian_hieroglyphs|hieroglyph\]\] depicting an ox's
-    head, \<div style="display:inline;"\> \<hiero\> F1 \</hiero\>
-    \</div\>, in Egyptian reading a
-    \[\[Egyptian_biliteral_signs|biliteral sign\]\] with the phonetic
-    value ''{{lang|egy-Latn|ı͗ḥ}}''.''\</div\>
+    \<div\>''\[\[Aleph|Aleph\]\] is thought to be derived from the West Semitic word for "\[\[ox|ox\]\]", and its shape is ultimately based on a \[\[Egyptian_hieroglyphs|hieroglyph\]\] depicting an ox's head, \<div style="display:inline;"\> \<hiero\> F1 \</hiero\> \</div\>, in Egyptian reading a \[\[Egyptian_biliteral_signs|biliteral sign\]\] with the phonetic value ''{{lang|egy-Latn|ı͗ḥ}}''.''\</div\>
 
 模板可用來呈現聖書體。另外可參見[元維基上的](https://zh.wikipedia.org/wiki/:mw: "wikilink")[:mw:Extension:WikiHiero專頁](https://zh.wikipedia.org/wiki/:mw:Extension:WikiHiero "wikilink")。
 

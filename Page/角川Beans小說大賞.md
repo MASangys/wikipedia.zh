@@ -1,5 +1,4 @@
-**角川Beans小說大賞**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）是由[角川書店](../Page/角川書店.md "wikilink")主辦，以未公開娛樂性質較強的[奇幻類小說為徵求對象的](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[輕小說](../Page/輕小說.md "wikilink")[文學獎](../Page/文學獎.md "wikilink")，對年齡及是否職業作者不設限制。該獎每年發表一次，是以委員以合議的方式決定。於2002年成立，獲獎作由[Beans文庫發行](https://zh.wikipedia.org/wiki/Beans文庫 "wikilink")。
-大賞獲獎者除獎盃之外，另有副賞300萬日元獎金，及出版時版稅\[1\]。
+**角川Beans小說大賞**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：****）是由[角川書店](../Page/角川書店.md "wikilink")主辦，以未公開娛樂性質較強的[奇幻類小說為徵求對象的](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[輕小說](../Page/輕小說.md "wikilink")[文學獎](../Page/文學獎.md "wikilink")，對年齡及是否職業作者不設限制。該獎每年發表一次，是以委員以合議的方式決定。於2002年成立，獲獎作由[Beans文庫發行](https://zh.wikipedia.org/wiki/Beans文庫 "wikilink")。 大賞獲獎者除獎盃之外，另有副賞300萬日元獎金，及出版時版稅\[1\]。
 
 ## 評審委員
 
@@ -452,9 +451,7 @@
 
   - [Fresh Beans Festa 2012](http://www.kadokawa.co.jp/beans/freshb/)
 
-[Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink")
-[Category:角川集團主辦的獎項](https://zh.wikipedia.org/wiki/Category:角川集團主辦的獎項 "wikilink")
-[Category:角川Beans文庫](https://zh.wikipedia.org/wiki/Category:角川Beans文庫 "wikilink")
+[Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink") [Category:角川集團主辦的獎項](https://zh.wikipedia.org/wiki/Category:角川集團主辦的獎項 "wikilink") [Category:角川Beans文庫](https://zh.wikipedia.org/wiki/Category:角川Beans文庫 "wikilink")
 
 1.   角川Beans小說大賞情報頁面
 2.  獲獎作未出版，作者後憑小說《天空の剣》出道。

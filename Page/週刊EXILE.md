@@ -1,39 +1,29 @@
-『**週刊EXILE**』在2010年1月18日開始在[TBS系列每週星期一](../Page/TBS電視台.md "wikilink")24:59
-- 25:29（星期二0:59 -
-1:29、[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播放的[真人實境節目](../Page/真人實境秀.md "wikilink")。
+『**週刊EXILE**』在2010年1月18日開始在[TBS系列每週星期一](../Page/TBS電視台.md "wikilink")24:59 - 25:29（星期二0:59 - 1:29、[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播放的[真人實境節目](../Page/真人實境秀.md "wikilink")。
 
 ## 出演
 
 ### MC
 
   - [MATSU](../Page/松本利夫.md "wikilink")（EXILE、2010年1月 - ）
-  - [MAKIDAI](https://zh.wikipedia.org/wiki/真木大輔 "wikilink")（EXILE、2010年1月
-    - ）
-  - [YOU](https://zh.wikipedia.org/wiki/YOU_\(藝人\) "wikilink")（スペシャルサポーター、2010年1月
-    - ）
+  - [MAKIDAI](https://zh.wikipedia.org/wiki/真木大輔 "wikilink")（EXILE、2010年1月 - ）
+  - [YOU](https://zh.wikipedia.org/wiki/YOU_\(藝人\) "wikilink")（スペシャルサポーター、2010年1月 - ）
   - [KENCHI](../Page/KENCHI.md "wikilink")（EXILE、2011年1月 - ）
 
 ### 現在的主持
 
-  - [三代目J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")（2012年1月
-    - ）
+  - [三代目J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")（2012年1月 - ）
   - [BREATHE](../Page/BREATHE.md "wikilink")（2012年1月 - ）
   - 劇団EXILE（2012年1月 - ）
-  - [GENERATIONS](https://zh.wikipedia.org/wiki/GENERATIONS "wikilink")（2012年4月
-    - ）
+  - [GENERATIONS](https://zh.wikipedia.org/wiki/GENERATIONS "wikilink")（2012年4月 - ）
 
 ### 過去的主持
 
-  - [USA](https://zh.wikipedia.org/wiki/宇佐美吉啓 "wikilink")（EXILE・MC、2010年1月
-    - 12月）
-  - [ia](https://zh.wikipedia.org/wiki/ia "wikilink")（リポーター、2010年3月 -
-    5月）
+  - [USA](https://zh.wikipedia.org/wiki/宇佐美吉啓 "wikilink")（EXILE・MC、2010年1月 - 12月）
+  - [ia](https://zh.wikipedia.org/wiki/ia "wikilink")（リポーター、2010年3月 - 5月）
   - [Love](https://zh.wikipedia.org/wiki/Love_\(音樂組合\) "wikilink")（2011年1月）
   - [Kana](https://zh.wikipedia.org/wiki/橘佳奈 "wikilink")（2011年1月 - 8月）
-  - [E-Girls](https://zh.wikipedia.org/wiki/E-Girls "wikilink")（2011年1月
-    - 12月）
-  - [吉田セイラ](https://zh.wikipedia.org/wiki/吉田セイラ "wikilink")（リポーター、2011年2月
-    - 3月）
+  - [E-Girls](https://zh.wikipedia.org/wiki/E-Girls "wikilink")（2011年1月 - 12月）
+  - [吉田セイラ](https://zh.wikipedia.org/wiki/吉田セイラ "wikilink")（リポーター、2011年2月 - 3月）
   - [KEIJI](../Page/KEIJI.md "wikilink")（EXILE・リポーター、2011年2月 - 2012年3月）
 
 ## 播放電視台
@@ -66,15 +56,12 @@
 
   - [官方網站](http://www.tbs.co.jp/program/weekly_exile.html)
 
-[Category:TBS電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:TBS電視台綜藝節目 "wikilink")
-[Category:2010年日本電視節目](https://zh.wikipedia.org/wiki/Category:2010年日本電視節目 "wikilink")
-[Category:EXILE](https://zh.wikipedia.org/wiki/Category:EXILE "wikilink")
+[Category:TBS電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:TBS電視台綜藝節目 "wikilink") [Category:2010年日本電視節目](https://zh.wikipedia.org/wiki/Category:2010年日本電視節目 "wikilink") [Category:EXILE](https://zh.wikipedia.org/wiki/Category:EXILE "wikilink")
 
 1.  2012年3月在24時55分 - 25時25分鐘播放。
 2.  2011年8月8日在25時20分 - 25時50分同日遅25分鐘播放。
 3.  2010年4月至8月在星期一 25時45分 - 26時15分同日遅50分鐘播放。
-4.  2010年2月開始播放。2月在星期一 25:54 - 26:24，3月在星期二 25:59 - 26:29、2010年4月至9月在星期四
-    25時20分 - 25時50分播放。
+4.  2010年2月開始播放。2月在星期一 25:54 - 26:24，3月在星期二 25:59 - 26:29、2010年4月至9月在星期四 25時20分 - 25時50分播放。
 5.  播放日時會変更。
 6.  2011年9月同時播放，同年10月7日至21日在星期五 26時30分 - 27時00分播放。10月28日至現在的播放日時。
 7.  2012年4月2日開始播放。同年7月2日在24時20分 - 24時50分播放。

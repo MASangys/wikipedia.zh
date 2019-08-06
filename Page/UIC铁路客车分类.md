@@ -229,8 +229,7 @@ UIC铁路客车分类的规范用法通常是标注在每节车辆的侧面或�
 
 ## UIC客车编号
 
-[DoSto.JPG](https://zh.wikipedia.org/wiki/File:DoSto.JPG "fig:DoSto.JPG")
-完整的UIC车厢编号由12个数字组成，在此情况下，车厢编号的的个别数字通常具有以下含义：
+[DoSto.JPG](https://zh.wikipedia.org/wiki/File:DoSto.JPG "fig:DoSto.JPG") 完整的UIC车厢编号由12个数字组成，在此情况下，车厢编号的的个别数字通常具有以下含义：
 
   - 第一及第二位数字：（牵引车辆显示）
   - 第三及第四位数字：（自2007年起为）
@@ -314,8 +313,7 @@ UIC铁路客车分类的规范用法通常是标注在每节车辆的侧面或�
 
 ## 示例
 
-以下是以编号**D - DB 50 80 36 - 81 040 - 8
-DABpza<sup>785.3</sup>**为例，对一个完整的铁路客车标识（包括国家代码、持有人、UIC车厢编号、类别标识及样式编号）进行拆解：
+以下是以编号**D - DB 50 80 36 - 81 040 - 8 DABpza<sup>785.3</sup>**为例，对一个完整的铁路客车标识（包括国家代码、持有人、UIC车厢编号、类别标识及样式编号）进行拆解：
 
 `    D = 德国`
 `   DB = 德国铁路股份公司`
@@ -348,11 +346,8 @@ DABpza<sup>785.3</sup>**为例，对一个完整的铁路客车标识（包括�
 
   - [Reisezugwagen-Gattungszeichen](https://web.archive.org/web/20081228112927/http://www.leo.org/information/freizeit/bahn/gattungszeichen.html)
 
-  - [UIC-Fahrzeugnummer, Erklärung der 12-stellige UIC-Nummer eines
-    DB-Reisezugwagen](http://www.hobby-modelleisenbahn.de/)
+  - [UIC-Fahrzeugnummer, Erklärung der 12-stellige UIC-Nummer eines DB-Reisezugwagen](http://www.hobby-modelleisenbahn.de/)
 
-  - [Anschriften an
-    Reisezugwagen](http://eisenbahntom.de/Wissenswertes.html)
+  - [Anschriften an Reisezugwagen](http://eisenbahntom.de/Wissenswertes.html)
 
-[Category:铁路车辆分类系统](https://zh.wikipedia.org/wiki/Category:铁路车辆分类系统 "wikilink")
-[Category:国际铁路运输](https://zh.wikipedia.org/wiki/Category:国际铁路运输 "wikilink")
+[Category:铁路车辆分类系统](https://zh.wikipedia.org/wiki/Category:铁路车辆分类系统 "wikilink") [Category:国际铁路运输](https://zh.wikipedia.org/wiki/Category:国际铁路运输 "wikilink")

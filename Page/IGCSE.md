@@ -1,6 +1,4 @@
-[IGCSE.svg](https://zh.wikipedia.org/wiki/File:IGCSE.svg "fig:IGCSE.svg")
-**IGCSE**（全称：International General Certificate of Secondary
-Education）又名“国际中学教育普通证书”，由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[劍橋大學創立](https://zh.wikipedia.org/wiki/劍橋大學 "wikilink")，是针对14岁至16岁学生的國際普通[中學教育认证](https://zh.wikipedia.org/wiki/中學 "wikilink")，被全世界多数[大学及雇主所承认](https://zh.wikipedia.org/wiki/大学 "wikilink")。
+[IGCSE.svg](https://zh.wikipedia.org/wiki/File:IGCSE.svg "fig:IGCSE.svg") **IGCSE**（全称：International General Certificate of Secondary Education）又名“国际中学教育普通证书”，由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[劍橋大學創立](https://zh.wikipedia.org/wiki/劍橋大學 "wikilink")，是针对14岁至16岁学生的國際普通[中學教育认证](https://zh.wikipedia.org/wiki/中學 "wikilink")，被全世界多数[大学及雇主所承认](https://zh.wikipedia.org/wiki/大学 "wikilink")。
 
 作为升读[A-Level国际预科课程之前的基础课程](https://zh.wikipedia.org/wiki/A-Level "wikilink")，IGCSE国际高中课程在学制上大体相当于[中国的高一](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")、高二年级课程。
 

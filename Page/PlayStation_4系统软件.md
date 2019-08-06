@@ -1,31 +1,18 @@
-**PlayStation 4系统软件**是[PlayStation
-4的可更新官方](../Page/PlayStation_4.md "wikilink")[固件及](../Page/韌體.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。
+**PlayStation 4系统软件**是[PlayStation 4的可更新官方](../Page/PlayStation_4.md "wikilink")[固件及](../Page/韌體.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。
 
-PlayStation 4主機运行“Orbis
-OS”，该系统是基于[FreeBSD](../Page/FreeBSD.md "wikilink")的一个分支\[1\]\[2\]。PlayStation
-4系统软件以“PlayStation动态菜单”（PlayStation Dynamic
-Menu）取代[前代的](../Page/PlayStation_3.md "wikilink")“[交叉媒体廊](https://zh.wikipedia.org/wiki/交叉媒体廊 "wikilink")”（XMB,
-Xross Media Bar）\[3\]\[4\]\[5\]。系统软件于2013年11月13日随PlayStation
-4一同上市，[首版系统软件不支持](https://zh.wikipedia.org/wiki/#1.00 "wikilink")[MP3](../Page/MP3.md "wikilink")、音乐[CD](../Page/CD.md "wikilink")的播放以及[DLNA功能](https://zh.wikipedia.org/wiki/DLNA "wikilink")\[6\]。
+PlayStation 4主機运行“Orbis OS”，该系统是基于[FreeBSD](../Page/FreeBSD.md "wikilink")的一个分支\[1\]\[2\]。PlayStation 4系统软件以“PlayStation动态菜单”（PlayStation Dynamic Menu）取代[前代的](../Page/PlayStation_3.md "wikilink")“[交叉媒体廊](https://zh.wikipedia.org/wiki/交叉媒体廊 "wikilink")”（XMB, Xross Media Bar）\[3\]\[4\]\[5\]。系统软件于2013年11月13日随PlayStation 4一同上市，[首版系统软件不支持](https://zh.wikipedia.org/wiki/#1.00 "wikilink")[MP3](../Page/MP3.md "wikilink")、音乐[CD](../Page/CD.md "wikilink")的播放以及[DLNA功能](https://zh.wikipedia.org/wiki/DLNA "wikilink")\[6\]。
 
 ## 概述
 
-PlayStation 4运行一个基于FreeBSD分支开发的名为“Orbis OS”的操作系统\[7\]。
-最终定型版本在FreeBSD内核上运行\[8\]。虽然主机没有需要强制连接互联网的功能，但当它连接到互联网时，将能提供“更丰富”的功能\[9\]。[PlayStation网络](../Page/PlayStation_Network.md "wikilink")（PSN）允许用户访问各种在线服务，包括[PlayStation商店](../Page/PlayStation_Store.md "wikilink")，以及[音乐无限和](https://zh.wikipedia.org/wiki/Music_Unlimited "wikilink")[视频无限的订阅服务](https://zh.wikipedia.org/wiki/Video_Unlimited "wikilink")\[10\]。客户可以通过在几乎瞬间进行作品的浏览以及通过串流进行[游戏试玩](https://zh.wikipedia.org/wiki/游戏演示 "wikilink")\[11\]\[12\]。进入游戏的[多人联机模式通常需要订阅](https://zh.wikipedia.org/wiki/多人电子游戏 "wikilink")[PlayStation
-Plus](https://zh.wikipedia.org/wiki/PlayStation_Plus "wikilink")\[13\]，这是PlayStation
-4引入的一个新策略，但该功能依然依赖于游戏发行商的支持\[14\]。[免费任玩的游戏](../Page/网络游戏免费模式.md "wikilink")，如《》、《[DC
-超級英雄
-Online](../Page/DC_超級英雄_Online.md "wikilink")》、《[行星边际2](../Page/行星边际2.md "wikilink")》、《[战甲神兵](https://zh.wikipedia.org/wiki/Warframe "wikilink")》等无需订阅即可游玩。非同步传输功能如在线排行榜仍然可以访问\[15\]。此外，由于多人在线游玩功能需要认购，索尼不会允许任何发布商可以使用该系统的\[16\]。索尼有意扩大和发展系统相关服务以提供主机更多的商品寿命\[17\]。
+PlayStation 4运行一个基于FreeBSD分支开发的名为“Orbis OS”的操作系统\[7\]。 最终定型版本在FreeBSD内核上运行\[8\]。虽然主机没有需要强制连接互联网的功能，但当它连接到互联网时，将能提供“更丰富”的功能\[9\]。[PlayStation网络](../Page/PlayStation_Network.md "wikilink")（PSN）允许用户访问各种在线服务，包括[PlayStation商店](../Page/PlayStation_Store.md "wikilink")，以及[音乐无限和](https://zh.wikipedia.org/wiki/Music_Unlimited "wikilink")[视频无限的订阅服务](https://zh.wikipedia.org/wiki/Video_Unlimited "wikilink")\[10\]。客户可以通过在几乎瞬间进行作品的浏览以及通过串流进行[游戏试玩](https://zh.wikipedia.org/wiki/游戏演示 "wikilink")\[11\]\[12\]。进入游戏的[多人联机模式通常需要订阅](https://zh.wikipedia.org/wiki/多人电子游戏 "wikilink")[PlayStation Plus](https://zh.wikipedia.org/wiki/PlayStation_Plus "wikilink")\[13\]，这是PlayStation 4引入的一个新策略，但该功能依然依赖于游戏发行商的支持\[14\]。[免费任玩的游戏](../Page/网络游戏免费模式.md "wikilink")，如《》、《[DC 超級英雄 Online](../Page/DC_超級英雄_Online.md "wikilink")》、《[行星边际2](../Page/行星边际2.md "wikilink")》、《[战甲神兵](https://zh.wikipedia.org/wiki/Warframe "wikilink")》等无需订阅即可游玩。非同步传输功能如在线排行榜仍然可以访问\[15\]。此外，由于多人在线游玩功能需要认购，索尼不会允许任何发布商可以使用该系统的\[16\]。索尼有意扩大和发展系统相关服务以提供主机更多的商品寿命\[17\]。
 
-[SCE表示PlayStation](https://zh.wikipedia.org/wiki/SCE "wikilink")
-4将在发售之后的软件更新中提供支持播放[音乐CD](../Page/CDDA.md "wikilink")、[MP3](../Page/MP3.md "wikilink")文件以及支持[DLNA服务等功能](https://zh.wikipedia.org/wiki/DLNA "wikilink")。\[18\]
+[SCE表示PlayStation](https://zh.wikipedia.org/wiki/SCE "wikilink") 4将在发售之后的软件更新中提供支持播放[音乐CD](../Page/CDDA.md "wikilink")、[MP3](../Page/MP3.md "wikilink")文件以及支持[DLNA服务等功能](https://zh.wikipedia.org/wiki/DLNA "wikilink")。\[18\]
 
 更新2.00系统后已支持播放音乐文件。
 
 ### 用户界面
 
-PlayStation
-4将原先PlayStation3上的[交叉媒体廊](https://zh.wikipedia.org/wiki/交叉媒体廊 "wikilink")（XMB）的功能替换为新的名叫“PlayStation动态菜单”的可自定义界面\[19\]\[20\]\[21\]。玩家用户配置中会显示其最近的活动，他们的全名，和除了已解锁[奖杯之外的其他细节](https://zh.wikipedia.org/wiki/PlayStation_Trophies "wikilink")\[22\]。PS4的主屏幕上可以展现来自朋友的个性化内容\[23\]。使用新界面，可以访问第三方供应商提供的服务，如[Netflix](../Page/Netflix.md "wikilink")和[亚马逊即时视频](https://zh.wikipedia.org/wiki/亚马逊即时视频 "wikilink")\[24\]。系统支持使得用户可以在游戏中更加得心应手，例如在玩游戏的同时打开网页浏览器\[25\]。
+PlayStation 4将原先PlayStation3上的[交叉媒体廊](https://zh.wikipedia.org/wiki/交叉媒体廊 "wikilink")（XMB）的功能替换为新的名叫“PlayStation动态菜单”的可自定义界面\[19\]\[20\]\[21\]。玩家用户配置中会显示其最近的活动，他们的全名，和除了已解锁[奖杯之外的其他细节](https://zh.wikipedia.org/wiki/PlayStation_Trophies "wikilink")\[22\]。PS4的主屏幕上可以展现来自朋友的个性化内容\[23\]。使用新界面，可以访问第三方供应商提供的服务，如[Netflix](../Page/Netflix.md "wikilink")和[亚马逊即时视频](https://zh.wikipedia.org/wiki/亚马逊即时视频 "wikilink")\[24\]。系统支持使得用户可以在游戏中更加得心应手，例如在玩游戏的同时打开网页浏览器\[25\]。
 
 ### 语音控制
 
@@ -111,6 +98,39 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 <li>此系統軟件更新將提升系統性能。</li>
 </ul></td>
 </tr>
+<tr class="even">
+<td><p><strong>6.70</strong><br />
+2019年5月30日[33]</p></td>
+<td><dl>
+<dt>系统</dt>
+
+</dl>
+<ul>
+<li>此系統軟件更新將提升系統性能。</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong>6.71</strong><br />
+2019年6月4日[34]</p></td>
+<td><dl>
+<dt>系统</dt>
+
+</dl>
+<ul>
+<li>此系統軟件更新將提升系統性能。</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong>6.72</strong><br />
+2019年7月16日[35]</p></td>
+<td><dl>
+<dt>系统</dt>
+
+</dl>
+<ul>
+<li>此系統軟件更新將提升系統性能。</li>
+</ul></td>
+</tr>
 </tbody>
 </table>
 
@@ -128,7 +148,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 <tbody>
 <tr class="odd">
 <td><p><strong>5.56</strong><br />
-2018年8月31日[33]</p></td>
+2018年8月31日[36]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -139,7 +159,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="even">
 <td><p><strong>5.55</strong><br />
-2018年5月17日[34]</p></td>
+2018年5月17日[37]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -150,7 +170,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="odd">
 <td><p><strong>5.53</strong><br />
-2018年4月12日[35]</p></td>
+2018年4月12日[38]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -161,7 +181,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="even">
 <td><p><strong>5.50</strong><br />
-2018年3月8日[36]</p></td>
+2018年3月8日[39]</p></td>
 <td><p>開發代號：Keiji（慶次）</p>
 <ul>
 <li>家庭管理員：家長或監護人可確認及管理小孩的遊玩時間</li>
@@ -170,7 +190,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="odd">
 <td><p><strong>5.05</strong><br />
-2018年1月18日[37]</p></td>
+2018年1月18日[40]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -181,7 +201,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="even">
 <td><p><strong>5.03</strong><br />
-2017年12月14日[38]</p></td>
+2017年12月14日[41]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -192,7 +212,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="odd">
 <td><p><strong>5.01</strong><br />
-2017年10月24日[39]</p></td>
+2017年10月24日[42]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -203,7 +223,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="even">
 <td><p><strong>5.00</strong><br />
-2017年10月3日[40]</p></td>
+2017年10月3日[43]</p></td>
 <td><p>開發代號：Nobunaga（信長）</p>
 <p>系統：</p>
 <ul>
@@ -229,7 +249,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 <tbody>
 <tr class="odd">
 <td><p><strong>4.74</strong><br />
-2017年9月14日[41]</p></td>
+2017年9月14日[44]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -240,7 +260,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="even">
 <td><p><strong>4.73</strong><br />
-2017年8月2日[42]</p></td>
+2017年8月2日[45]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -251,7 +271,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="odd">
 <td><p><strong>4.72</strong><br />
-2017年7月11日[43]</p></td>
+2017年7月11日[46]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -262,7 +282,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="even">
 <td><p><strong>4.71</strong><br />
-2017年6月22日[44]</p></td>
+2017年6月22日[47]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -273,7 +293,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="odd">
 <td><p><strong>4.70</strong><br />
-2017年5月30日[45]</p></td>
+2017年5月30日[48]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -440,7 +460,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="even">
 <td><p><strong>3.00</strong><br />
-2015年9月30日[46]</p></td>
+2015年9月30日[49]</p></td>
 <td><p>開發代號：Kenshin（劍心）</p>
 <dl>
 <dt>主要機能</dt>
@@ -536,7 +556,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="odd">
 <td><p><strong>2.51</strong><br />
-2015年4月16日[47]</p></td>
+2015年4月16日[50]</p></td>
 <td><dl>
 <dt>系统</dt>
 
@@ -547,7 +567,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="even">
 <td><p><strong>2.50</strong><br />
-2015年3月26日[48]</p></td>
+2015年3月26日[51]</p></td>
 <td><p>開發代號：Yukimura（幸村）</p>
 <dl>
 <dt>系统</dt>
@@ -651,7 +671,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="odd">
 <td><p><strong>2.00</strong><br />
-2014年10月28日[49]</p></td>
+2014年10月28日[52]</p></td>
 <td><p>開發代號：Masamune（正宗）</p>
 <dl>
 <dt>系统</dt>
@@ -786,7 +806,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="even">
 <td><p><strong>1.70</strong><br />
-2014年4月30日[50][51][52]</p></td>
+2014年4月30日[53][54][55]</p></td>
 <td><dl>
 <dt>分享</dt>
 
@@ -805,7 +825,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 <ul>
 <li>新增更多功能的影片編輯器，可編輯並個人化影片</li>
 <li>可將透過SHARE錄製的影片和截圖儲存至USB裝置中</li>
-<li>DualShock 4的光條亮度可調暗[53]</li>
+<li>DualShock 4的光條亮度可調暗[56]</li>
 </ul>
 <dl>
 <dt>系統</dt>
@@ -814,7 +834,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 <ul>
 <li>可關閉<a href="../Page/HDCP.md" title="wikilink">HDCP</a>功能，並透過HDMI截取畫面</li>
 <li>DualShock 4的光條亮度可調暗，共分「明亮」、「中等」和「微暗」三階段</li>
-<li><a href="../Page/PlayStation_Vita_TV.md" title="wikilink">PlayStation Vita TV遙控遊玩功能</a>[54][55]</li>
+<li><a href="../Page/PlayStation_Vita_TV.md" title="wikilink">PlayStation Vita TV遙控遊玩功能</a>[57][58]</li>
 <li>會員頭像新增顯示PlayStation Plus圖示</li>
 <li>可將獎盃依稀有度排序</li>
 <li>更多的語音控制指令</li>
@@ -844,7 +864,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="odd">
 <td><p><strong>1.62</strong><br />
-2014年3月18日[56]</p></td>
+2014年3月18日[59]</p></td>
 <td><p><span id="2014"></span></p>
 <dl>
 <dt>系統</dt>
@@ -856,7 +876,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="even">
 <td><p><strong>1.61</strong><br />
-2014年2月18日[57]</p></td>
+2014年2月18日[60]</p></td>
 <td><p><span id="2014"></span></p>
 <dl>
 <dt>系統</dt>
@@ -868,7 +888,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="odd">
 <td><p><strong>1.60</strong><br />
-2014年2月4日[58]</p></td>
+2014年2月4日[61]</p></td>
 <td><p><span id="2014"></span></p>
 <dl>
 <dt>系统</dt>
@@ -884,45 +904,45 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 </tr>
 <tr class="even">
 <td><p><strong>1.52</strong><br />
-2013年12月11日[59]</p></td>
+2013年12月11日[62]</p></td>
 <td><p><span id="2013"></span></p>
 <dl>
 <dt>系统</dt>
 
 </dl>
 <ul>
-<li>提升系統穩定性[60]</li>
+<li>提升系統穩定性[63]</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong>1.51</strong><br />
-2013年11月19日[61]</p></td>
+2013年11月19日[64]</p></td>
 <td><p><span id="2013"></span></p>
 <dl>
 <dt>系统</dt>
 
 </dl>
 <ul>
-<li>提升系統穩定性[62]</li>
-<li>改善用户界面细节。[63]</li>
-<li>自动下载游戏补丁[64]</li>
+<li>提升系統穩定性[65]</li>
+<li>改善用户界面细节。[66]</li>
+<li>自动下载游戏补丁[67]</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p><strong>1.50</strong><br />
-2013年11月13日[65]</p></td>
+2013年11月13日[68]</p></td>
 <td><p><span id="2013"></span></p>
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/Remote_Play" title="wikilink">Remote Play</a>[66]</li>
-<li><a href="https://zh.wikipedia.org/wiki/第二屏幕" title="wikilink">第二屏幕</a>（Second Screen）[67]</li>
+<li><a href="https://zh.wikipedia.org/wiki/Remote_Play" title="wikilink">Remote Play</a>[69]</li>
+<li><a href="https://zh.wikipedia.org/wiki/第二屏幕" title="wikilink">第二屏幕</a>（Second Screen）[70]</li>
 <li>游戏录制功能</li>
 <li>游戏视频直播</li>
 <li>游戏中后台下载</li>
 <li>多用户登录</li>
-<li>Party（群语音聊天）[68]</li>
-<li>支持利用<a href="https://zh.wikipedia.org/wiki/PlayStation_Camera" title="wikilink">PlayStation Camera进行面部识别和语音命令</a>[69]</li>
-<li>利用「音乐无限」（Music Unlimited）进行背景音乐播放[70]</li>
-<li>通过<a href="https://zh.wikipedia.org/wiki/PlayStation_Plus" title="wikilink">PlayStation Plus进行线上多人游戏</a>[71]</li>
+<li>Party（群语音聊天）[71]</li>
+<li>支持利用<a href="https://zh.wikipedia.org/wiki/PlayStation_Camera" title="wikilink">PlayStation Camera进行面部识别和语音命令</a>[72]</li>
+<li>利用「音乐无限」（Music Unlimited）进行背景音乐播放[73]</li>
+<li>通过<a href="https://zh.wikipedia.org/wiki/PlayStation_Plus" title="wikilink">PlayStation Plus进行线上多人游戏</a>[74]</li>
 <li>支持<a href="https://zh.wikipedia.org/wiki/蓝光" title="wikilink">蓝光光盘和</a><a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD的播放</a></li>
 </ul></td>
 </tr>
@@ -952,8 +972,7 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 
   - [PlayStation 3系统软件](../Page/PlayStation_3系统软件.md "wikilink")
   - [PlayStation Vita系统软件](../Page/PlayStation_Vita系统软件.md "wikilink")
-  - [PlayStation
-    Portable系统软件](https://zh.wikipedia.org/wiki/PlayStation_Portable系统软件 "wikilink")
+  - [PlayStation Portable系统软件](https://zh.wikipedia.org/wiki/PlayStation_Portable系统软件 "wikilink")
 
 <!-- end list -->
 
@@ -962,10 +981,8 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 <!-- end list -->
 
   - [Wii U系统软件](https://zh.wikipedia.org/wiki/Wii_U系统软件 "wikilink")
-  - [Xbox
-    One系统软件](https://zh.wikipedia.org/wiki/Xbox_One系统软件 "wikilink")
-  - [Nintendo
-    3DS系统软件](https://zh.wikipedia.org/wiki/Nintendo_3DS系统软件 "wikilink")
+  - [Xbox One系统软件](https://zh.wikipedia.org/wiki/Xbox_One系统软件 "wikilink")
+  - [Nintendo 3DS系统软件](https://zh.wikipedia.org/wiki/Nintendo_3DS系统软件 "wikilink")
 
 <!-- end list -->
 
@@ -975,14 +992,11 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 
   - [Wii系统软件](https://zh.wikipedia.org/wiki/Wii系统软件 "wikilink")
   - [Xbox 360系统软件](../Page/Xbox_360系统软件.md "wikilink")
-  - [Nintendo
-    DSi系统软件](https://zh.wikipedia.org/wiki/Nintendo_DSi系统软件 "wikilink")
+  - [Nintendo DSi系统软件](https://zh.wikipedia.org/wiki/Nintendo_DSi系统软件 "wikilink")
 
 {{-}}
 
-[Category:2013年软件](https://zh.wikipedia.org/wiki/Category:2013年软件 "wikilink")
-[Category:PlayStation_4](https://zh.wikipedia.org/wiki/Category:PlayStation_4 "wikilink")
-[Category:電子遊戲機的操作系統](https://zh.wikipedia.org/wiki/Category:電子遊戲機的操作系統 "wikilink")
+[Category:2013年软件](https://zh.wikipedia.org/wiki/Category:2013年软件 "wikilink") [Category:PlayStation_4](https://zh.wikipedia.org/wiki/Category:PlayStation_4 "wikilink") [Category:電子遊戲機的操作系統](https://zh.wikipedia.org/wiki/Category:電子遊戲機的操作系統 "wikilink")
 
 1.
 
@@ -1083,13 +1097,13 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 
 52.
 
-53. <http://www.engadget.com/2014/03/20/future-dualshock-4-update-light-bar/>
+53.
 
 54.
 
 55.
 
-56.
+56. <http://www.engadget.com/2014/03/20/future-dualshock-4-update-light-bar/>
 
 57.
 
@@ -1120,3 +1134,9 @@ PS4的系統軟體更新可透過下列方式進行\[27\]：
 70.
 
 71.
+
+72.
+
+73.
+
+74.

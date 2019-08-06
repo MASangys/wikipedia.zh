@@ -1,6 +1,4 @@
-《**LOOSE**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的第八张录音室专辑。1995年11月22日由[Rooms
-RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]，「B+U+M」解散後，B'z回歸的第一張專輯，從此張專輯開始，稻葉開始參與編曲，也是B'z出道至今最高銷量的錄音室專輯。
-最終銷量約300萬張，為日本最暢銷專輯第21名。
+《**LOOSE**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的第八张录音室专辑。1995年11月22日由[Rooms RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]，「B+U+M」解散後，B'z回歸的第一張專輯，從此張專輯開始，稻葉開始參與編曲，也是B'z出道至今最高銷量的錄音室專輯。 最終銷量約300萬張，為日本最暢銷專輯第21名。
 
 ## 曲目
 
@@ -25,8 +23,7 @@ RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]，「B
   - 平原智：[萨克斯管](https://zh.wikipedia.org/wiki/萨克斯管 "wikilink")（\#9）
   - 勝田かず樹：萨克斯管（\#2.3.7）
   - 妹尾隆一郎：[口琴](../Page/口琴.md "wikilink")（\#5）
-  - HIIRO
-    STRINGS（日色弦乐团）：[弦乐](https://zh.wikipedia.org/wiki/弦乐器 "wikilink")（\#4.6.7.11）
+  - HIIRO STRINGS（日色弦乐团）：[弦乐](https://zh.wikipedia.org/wiki/弦乐器 "wikilink")（\#4.6.7.11）
   - SHINOZAKI STRINGS（篠崎弦乐团）：弦乐（\#8）
   - 生沢佑一：和声（\#3）
   - 千葉彩由実：和声（\#3）
@@ -37,12 +34,6 @@ RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]，「B
 
 ## 参考文献
 
-[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink")
-[Category:1995年音乐专辑](https://zh.wikipedia.org/wiki/Category:1995年音乐专辑 "wikilink")
-[Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
-[Category:1995年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1995年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:1995年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1995年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:Rooms_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:Rooms_RECORDS音乐专辑 "wikilink")
+[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink") [Category:1995年音乐专辑](https://zh.wikipedia.org/wiki/Category:1995年音乐专辑 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:1995年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1995年Oricon專輯月榜冠軍作品 "wikilink") [Category:1995年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1995年Oricon專輯週榜冠軍作品 "wikilink") [Category:Rooms_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:Rooms_RECORDS音乐专辑 "wikilink")
 
 1.

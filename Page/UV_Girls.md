@@ -1,5 +1,4 @@
-**UV
-Girls**，是北京坤红传媒于2014年5月推出的一支以HIP-HOP曲风为主的[中国大陆偶像女子音乐团体](https://zh.wikipedia.org/wiki/中国 "wikilink")\[1\]。
+**UV Girls**，是北京坤红传媒于2014年5月推出的一支以HIP-HOP曲风为主的[中国大陆偶像女子音乐团体](https://zh.wikipedia.org/wiki/中国 "wikilink")\[1\]。
 
 ## 主要经历
 
@@ -53,16 +52,9 @@ Girls**，是北京坤红传媒于2014年5月推出的一支以HIP-HOP曲风为�
   - [UV Girls 官方音乐](http://music.baidu.com/album/120137422)
   - [UV Girls 官方MV](http://www.yinyuetai.com/fanclub/34394)
 
-[Category:中国女子演唱團體](https://zh.wikipedia.org/wiki/Category:中国女子演唱團體 "wikilink")
-[Category:2014年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2014年成立的音乐团体 "wikilink")
-[Category:华语流行音乐团体](https://zh.wikipedia.org/wiki/Category:华语流行音乐团体 "wikilink")
+[Category:中国女子演唱團體](https://zh.wikipedia.org/wiki/Category:中国女子演唱團體 "wikilink") [Category:2014年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2014年成立的音乐团体 "wikilink") [Category:华语流行音乐团体](https://zh.wikipedia.org/wiki/Category:华语流行音乐团体 "wikilink")
 
-1.  [国内首支女子Hiphop组合UV
-    GIRLS曝出道预告片](http://ent.163.com/14/0523/08/9STSKNNU00031H0O.html)
-2.  [中国星力量 练习生UVGIRLS
-    靓丽身影夺人眼球](http://ent.kankanews.com/news/2013-07-04/2038135.shtml)
-
-3.  [UV
-    GIRLS首波主打《紫外线》连跳24小时挑战极限](http://news.xinhuanet.com/ent/2014-06/04/c_126578467.htm)
-4.  [《奇舞飞扬》韩流来袭 UV
-    Girls内地荧屏首秀](http://www.hunantv.com/c/20140128/1748149894.html)
+1.  [国内首支女子Hiphop组合UV GIRLS曝出道预告片](http://ent.163.com/14/0523/08/9STSKNNU00031H0O.html)
+2.  [中国星力量 练习生UVGIRLS 靓丽身影夺人眼球](http://ent.kankanews.com/news/2013-07-04/2038135.shtml)
+3.  [UV GIRLS首波主打《紫外线》连跳24小时挑战极限](http://news.xinhuanet.com/ent/2014-06/04/c_126578467.htm)
+4.  [《奇舞飞扬》韩流来袭 UV Girls内地荧屏首秀](http://www.hunantv.com/c/20140128/1748149894.html)

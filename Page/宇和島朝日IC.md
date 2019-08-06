@@ -14,10 +14,8 @@
 
 ## 歷史
 
-  - 1993年3月26日 -
-    [宇和島道路](https://zh.wikipedia.org/wiki/宇和島道路 "wikilink")[宇和島北IC至宇和島朝日IC之間開通](https://zh.wikipedia.org/wiki/宇和島北IC "wikilink")，此交流道也同時啟用。
-  - 2001年3月 -
-    宇和島道路（地面路段）宇和島朝日IC至[宇和島坂下津IC](../Page/宇和島坂下津IC.md "wikilink")之間開通。
+  - 1993年3月26日 - [宇和島道路](https://zh.wikipedia.org/wiki/宇和島道路 "wikilink")[宇和島北IC至宇和島朝日IC之間開通](https://zh.wikipedia.org/wiki/宇和島北IC "wikilink")，此交流道也同時啟用。
+  - 2001年3月 - 宇和島道路（地面路段）宇和島朝日IC至[宇和島坂下津IC](../Page/宇和島坂下津IC.md "wikilink")之間開通。
   - 2005年7月9日 - 宇和島道路（高架路段）宇和島朝日IC至宇和島坂下津IC之間開通。
 
 ## 交流道周邊
@@ -28,8 +26,7 @@
 ## 鄰近設施
 
   - [宇和島道路](https://zh.wikipedia.org/wiki/宇和島道路 "wikilink")
-    (24)[宇和島北IC](https://zh.wikipedia.org/wiki/宇和島北IC "wikilink") -
-    (25)**宇和島朝日IC** - (26)[宇和島坂下津IC](../Page/宇和島坂下津IC.md "wikilink")
+    (24)[宇和島北IC](https://zh.wikipedia.org/wiki/宇和島北IC "wikilink") - (25)**宇和島朝日IC** - (26)[宇和島坂下津IC](../Page/宇和島坂下津IC.md "wikilink")
 
 ## 相關項目
 
@@ -39,5 +36,4 @@
 
   - [西日本高速道路](http://www.w-nexco.co.jp/)
 
-[Category:日本交流道_U](https://zh.wikipedia.org/wiki/Category:日本交流道_U "wikilink")
-[Category:愛媛縣交流道](https://zh.wikipedia.org/wiki/Category:愛媛縣交流道 "wikilink")
+[Category:日本交流道_U](https://zh.wikipedia.org/wiki/Category:日本交流道_U "wikilink") [Category:愛媛縣交流道](https://zh.wikipedia.org/wiki/Category:愛媛縣交流道 "wikilink")

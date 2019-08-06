@@ -2,9 +2,7 @@
 
 ## 故事概要
 
-於公元2000年，由於網路科技的日新月異，人類已經進入了一個全新的時代（網路時代）。
-每一個人皆會隨身攜帶PET，PET類似小型的個人電腦，其中安裝有稱之為「網路領航員」的人工智慧電腦。PET及網路領航員的發明為人類的生活帶來許多好處，但是網路駭客、病毒的傳播及高科技的犯罪也成為日益嚴重的問題。
-光熱斗是個國小5年級的學生，在他升上5年級的時候，父親為他設計了一個個人的網路領航員（洛克人）作為禮物，於是他與學校的好朋友們組成了一個網路領航員的團隊，他們解決了在網路上所發生的問題，結果他們發現，這些神秘的犯罪行為就是邪惡組織WWW一手所推行的。為了阻止WWW組織的網路領航員進行的計畫及散播病毒的行動，熱斗和洛克人不斷地與他們戰鬥。於網路警察與伊集院炎山的幫助下，光熱斗與洛克人勇敢地打擊犯罪，並且逐漸發掘出WWW組織的真正目的。
+於公元2000年，由於網路科技的日新月異，人類已經進入了一個全新的時代（網路時代）。 每一個人皆會隨身攜帶PET，PET類似小型的個人電腦，其中安裝有稱之為「網路領航員」的人工智慧電腦。PET及網路領航員的發明為人類的生活帶來許多好處，但是網路駭客、病毒的傳播及高科技的犯罪也成為日益嚴重的問題。 光熱斗是個國小5年級的學生，在他升上5年級的時候，父親為他設計了一個個人的網路領航員（洛克人）作為禮物，於是他與學校的好朋友們組成了一個網路領航員的團隊，他們解決了在網路上所發生的問題，結果他們發現，這些神秘的犯罪行為就是邪惡組織WWW一手所推行的。為了阻止WWW組織的網路領航員進行的計畫及散播病毒的行動，熱斗和洛克人不斷地與他們戰鬥。於網路警察與伊集院炎山的幫助下，光熱斗與洛克人勇敢地打擊犯罪，並且逐漸發掘出WWW組織的真正目的。
 
 ## 登場人物
 
@@ -29,8 +27,7 @@
   - 動畫製作人- 山本俊一、丸川直子
   - 製作人 - 小林教子（東京電視台）、中澤利洋
   - 動畫製作 - [XEBEC](../Page/XEBEC.md "wikilink")
-  - 製作 -
-    [東京電視台](../Page/東京電視台.md "wikilink")、[NAS](https://zh.wikipedia.org/wiki/NAS "wikilink")、[小學館製作](../Page/小學館集英社製作.md "wikilink")
+  - 製作 - [東京電視台](../Page/東京電視台.md "wikilink")、[NAS](https://zh.wikipedia.org/wiki/NAS "wikilink")、[小學館製作](../Page/小學館集英社製作.md "wikilink")
 
 ## 主題歌
 
@@ -713,9 +710,6 @@
   - [洛克人EXE官方網站](http://www.tv-tokyo.co.jp/anime/rockmanexe/)
   - [洛克人EXE中文官方網站](http://www.e-muse.com.tw/property/rockman/introduction/2004/index.html)
 
-[Category:洛克人EXE系列](https://zh.wikipedia.org/wiki/Category:洛克人EXE系列 "wikilink")
-[Category:2002年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2002年日本電視動畫 "wikilink")
-[Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink")
-[Category:小學背景動畫](https://zh.wikipedia.org/wiki/Category:小學背景動畫 "wikilink")
+[Category:洛克人EXE系列](https://zh.wikipedia.org/wiki/Category:洛克人EXE系列 "wikilink") [Category:2002年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2002年日本電視動畫 "wikilink") [Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink") [Category:小學背景動畫](https://zh.wikipedia.org/wiki/Category:小學背景動畫 "wikilink")
 
 1.  [木棉花國際](../Page/木棉花國際.md "wikilink")代理的中文譯名。

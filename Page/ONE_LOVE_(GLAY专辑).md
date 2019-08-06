@@ -3,8 +3,7 @@
 ## 簡介
 
   - 當初原本計畫以雙CD形式發行。台灣有發行台壓版。
-  - 專輯名稱『ONE
-    LOVE』的由來，是受到2001年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[911事件的影響而命名的](https://zh.wikipedia.org/wiki/911事件 "wikilink")。
+  - 專輯名稱『ONE LOVE』的由來，是受到2001年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[911事件的影響而命名的](https://zh.wikipedia.org/wiki/911事件 "wikilink")。
 
 ## 收錄曲目
 
@@ -28,12 +27,7 @@
 14. **你凝視著的海**
 15. **夢遊症**
 16. **Christmas Ring**
-17. **[GLOBAL
-    COMMUNICATION](../Page/GLOBAL_COMMUNICATION.md "wikilink")**
+17. **[GLOBAL COMMUNICATION](../Page/GLOBAL_COMMUNICATION.md "wikilink")**
 18. **ONE LOVE 〜ALL STANDARD IS YOU reprise〜**
 
-[Category:GLAY音樂專輯](https://zh.wikipedia.org/wiki/Category:GLAY音樂專輯 "wikilink")
-[Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink")
-[Category:2001年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:2001年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink")
+[Category:GLAY音樂專輯](https://zh.wikipedia.org/wiki/Category:GLAY音樂專輯 "wikilink") [Category:2001年音樂專輯](https://zh.wikipedia.org/wiki/Category:2001年音樂專輯 "wikilink") [Category:2001年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon專輯月榜冠軍作品 "wikilink") [Category:2001年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon專輯週榜冠軍作品 "wikilink") [Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink")

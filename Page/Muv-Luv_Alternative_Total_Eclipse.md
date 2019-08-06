@@ -1,8 +1,4 @@
-**Muv-Luv Alternative Total
-Eclipse**（）是[日本](../Page/日本.md "wikilink")遊戲公司[âge的電玩作品](https://zh.wikipedia.org/wiki/âge "wikilink")[Muv-Luv
-Alternative的](../Page/Muv-Luv_Alternative.md "wikilink")[衍生作品](../Page/衍生作品.md "wikilink")（外传），原作為揭載於[Enterbrain](../Page/Enterbrain.md "wikilink")社《[TECH
-GIAN](../Page/TECH_GIAN.md "wikilink")》上的小說，作者為[吉宗鋼紀](https://zh.wikipedia.org/wiki/吉宗鋼紀 "wikilink")，自2007年12月25日起開始連載，之後小說內容被改編成漫畫、動畫、PS3遊戲、Xbox
-360遊戲、PC遊戲。動畫版自2012年7月1日起開播。
+**Muv-Luv Alternative Total Eclipse**（）是[日本](../Page/日本.md "wikilink")遊戲公司[âge的電玩作品](https://zh.wikipedia.org/wiki/âge "wikilink")[Muv-Luv Alternative的](../Page/Muv-Luv_Alternative.md "wikilink")[衍生作品](../Page/衍生作品.md "wikilink")（外传），原作為揭載於[Enterbrain](../Page/Enterbrain.md "wikilink")社《[TECH GIAN](../Page/TECH_GIAN.md "wikilink")》上的小說，作者為[吉宗鋼紀](https://zh.wikipedia.org/wiki/吉宗鋼紀 "wikilink")，自2007年12月25日起開始連載，之後小說內容被改編成漫畫、動畫、PS3遊戲、Xbox 360遊戲、PC遊戲。動畫版自2012年7月1日起開播。
 
 ## 劇情
 
@@ -16,8 +12,7 @@ GIAN](../Page/TECH_GIAN.md "wikilink")》上的小說，作者為[吉宗鋼紀](
     [美利堅合眾國陸軍少尉](https://zh.wikipedia.org/wiki/美利堅合眾國 "wikilink")、衛士。平日具有社交性但私底下也有陰暗的一面。美日混血的他對日本持有反感。受命參加聯合國在阿拉斯加進行的先進戰術機技術開發計畫（日珥計畫），而成為執行該計畫的阿爾哥斯小隊的一員。代號阿爾哥斯1。
     据PS3移植版后续剧情所述，实为篁唯依同父异母之兄，篁家的当家。
   -
-    [日本](../Page/日本.md "wikilink")帝國斯衛軍中尉、衛士。是位凜冽而有氣質的黑髮美少女，有著待人嚴待己更嚴的努力家性格。以日方技術主任身分參加日珥計畫，也是勇哉的上司。受自身立場的限制常常壓抑私情，因而不擅長控制戀愛的情感。過去在日本帝國斯衛軍擔任白之牙（White
-    Fang）中隊之中隊長，代號White Fang 1。
+    [日本](../Page/日本.md "wikilink")帝國斯衛軍中尉、衛士。是位凜冽而有氣質的黑髮美少女，有著待人嚴待己更嚴的努力家性格。以日方技術主任身分參加日珥計畫，也是勇哉的上司。受自身立場的限制常常壓抑私情，因而不擅長控制戀愛的情感。過去在日本帝國斯衛軍擔任白之牙（White Fang）中隊之中隊長，代號White Fang 1。
     据PS3移植版后续剧情所述，实为勇哉·布里吉斯同父异母之妹。
   -
     [蘇維埃聯邦軍少尉](https://zh.wikipedia.org/wiki/蘇維埃聯邦 "wikilink")、衛士。和勇哉同樣是參與開發計畫的多國部隊成員。對週遭常展現具攻擊性的一面，只在面對伊妮亞時展現溫柔的態度。屬於伊達爾小隊，代號伊達爾1。
@@ -41,8 +36,7 @@ GIAN](../Page/TECH_GIAN.md "wikilink")》上的小說，作者為[吉宗鋼紀](
     統一中華戰線軍中尉、衛士。暴風（バオフェン）小隊指揮官。留著雙馬尾的美少女，所屬國籍[中華民國](../Page/中華民國.md "wikilink")。對遠征俄羅斯並留下驚人戰績的阿爾哥斯和伊達爾兩小隊的成員有著強烈的競爭意識。接近戰的實力一流，搭乘殲擊10型的接近戰強化實驗機，戰鬥中揮刀的姿態在勇哉眼中就如同唯依的武御雷般耀眼。對勇哉有好感，本人曾和混血的勇哉提及「我也是有兩個祖國的人呢」。代號暴風（バオフェン）1。
   -
     為參加[藍旗演習而被派遣到阿拉斯加的美國陸軍第](https://zh.wikipedia.org/wiki/红旗演习 "wikilink")65戰鬥教導團「無限」部隊的衛士，軍階少尉。曾和勇哉為同僚，兩人之間決定性的不同是里昂持有「身為日本人的自豪」，因而雙方時有摩擦。
-    同僚時期里昂在分數上不如勇哉，但考慮團隊合作等綜合評價則是里昂為優。搭乘接近黑色的深藍色反雷達塗料之F-22A先行量産型 (EMD
-    Phase2)。
+    同僚時期里昂在分數上不如勇哉，但考慮團隊合作等綜合評價則是里昂為優。搭乘接近黑色的深藍色反雷達塗料之F-22A先行量産型 (EMD Phase2)。
   -
     美國陸軍少尉。和里昂一樣為勇哉的前同僚，本來和勇哉是男女朋友，目前則和里昂交往。
     為人開朗好相處並有強大洞察力，也有固執的一面。作為「無限」部隊的一員而有「山猫」之綽號的優秀衛士。
@@ -75,13 +69,11 @@ GIAN](../Page/TECH_GIAN.md "wikilink")》上的小說，作者為[吉宗鋼紀](
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
   - 音樂：[長岡成貢](https://zh.wikipedia.org/wiki/長岡成貢 "wikilink")
   - 音樂制作人：池畑伸人
-  - 音樂制作：[avex
-    entertainment](https://zh.wikipedia.org/wiki/avex_entertainment "wikilink")
+  - 音樂制作：[avex entertainment](https://zh.wikipedia.org/wiki/avex_entertainment "wikilink")
   - 制片人：田中宏幸、川田雅裕、土方真、大城博章、井手響太
   - 动画制片人：山本俊一
   - 动画制作：ixtl×[SATELIGHT](../Page/SATELIGHT.md "wikilink")
-  - 製作：オルタネイティヴ第一計画（avex
-    entertainment、ixtl、[東京電視台](../Page/東京電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、[株式會社文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")）
+  - 製作：オルタネイティヴ第一計画（avex entertainment、ixtl、[東京電視台](../Page/東京電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、[株式會社文化放送](https://zh.wikipedia.org/wiki/文化放送 "wikilink")）
 
 ### 主題歌
 
@@ -89,8 +81,7 @@ GIAN](../Page/TECH_GIAN.md "wikilink")》上的小說，作者為[吉宗鋼紀](
 
 :; 「Go to the top」（第2話 - 第19話）
 
-:: 作詞・歌 - [倖田來未](../Page/倖田來未.md "wikilink") / 作曲・編曲 -
-[CLARABELL](https://zh.wikipedia.org/wiki/CLARABELL "wikilink")
+:: 作詞・歌 - [倖田來未](../Page/倖田來未.md "wikilink") / 作曲・編曲 - [CLARABELL](https://zh.wikipedia.org/wiki/CLARABELL "wikilink")
 
 :: 第1話被用做片尾曲。
 
@@ -99,8 +90,7 @@ GIAN](../Page/TECH_GIAN.md "wikilink")》上的小說，作者為[吉宗鋼紀](
   -
 
       -
-        作詞 - [畑亞貴](../Page/畑亞貴.md "wikilink") / 作曲・編曲 - 山下洋介 / 歌 -
-        [栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
+        作詞 - [畑亞貴](../Page/畑亞貴.md "wikilink") / 作曲・編曲 - 山下洋介 / 歌 - [栗林美奈實](https://zh.wikipedia.org/wiki/栗林美奈實 "wikilink")
 
 <!-- end list -->
 
@@ -119,25 +109,19 @@ GIAN](../Page/TECH_GIAN.md "wikilink")》上的小說，作者為[吉宗鋼紀](
   -
 
       -
-        作詞 - 畑亞貴 / 作曲 - 加藤祐介 / 編曲 - 長岡成貢 / 歌 -
-        [ayami](https://zh.wikipedia.org/wiki/ayami "wikilink")
+        作詞 - 畑亞貴 / 作曲 - 加藤祐介 / 編曲 - 長岡成貢 / 歌 - [ayami](https://zh.wikipedia.org/wiki/ayami "wikilink")
 
 <!-- end list -->
 
   - 插入歌
 
-:; 「[NO PLACE LIKE A
-STAGE](https://zh.wikipedia.org/wiki/CRACK_STAR_FLASH "wikilink")」（第3話
-第16話）
+:; 「[NO PLACE LIKE A STAGE](https://zh.wikipedia.org/wiki/CRACK_STAR_FLASH "wikilink")」（第3話 第16話）
 
-:: 作詞 - [谷山紀章](../Page/谷山紀章.md "wikilink") / 作曲・編曲 -
-[飯塚昌明](../Page/飯塚昌明.md "wikilink") / 歌 -
-[GRANRODEO](../Page/GRANRODEO.md "wikilink")
+:: 作詞 - [谷山紀章](../Page/谷山紀章.md "wikilink") / 作曲・編曲 - [飯塚昌明](../Page/飯塚昌明.md "wikilink") / 歌 - [GRANRODEO](../Page/GRANRODEO.md "wikilink")
 
 :; 「True 4 Eyes」（第4話）
 
-:: 作詞・歌 - 栗林美奈實 / 作曲 - アンプロヴィデンス計画 / 編曲 -
-[大谷靖夫](https://zh.wikipedia.org/wiki/大谷靖夫 "wikilink")
+:: 作詞・歌 - 栗林美奈實 / 作曲 - アンプロヴィデンス計画 / 編曲 - [大谷靖夫](https://zh.wikipedia.org/wiki/大谷靖夫 "wikilink")
 
 :; 「Apocalypse of Destiny」（第5、23話）
 
@@ -594,7 +578,4 @@ HEO GIDONG</p></td>
   -
   - [電視動畫官方網站](http://www.tv-tokyo.co.jp/anime/te/)テレビ東京
 
-[Category:2007年小說](https://zh.wikipedia.org/wiki/Category:2007年小說 "wikilink")
-[Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink")
-[Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink")
-[Category:發生或曾經發生第三次世界大戰作品](https://zh.wikipedia.org/wiki/Category:發生或曾經發生第三次世界大戰作品 "wikilink")
+[Category:2007年小說](https://zh.wikipedia.org/wiki/Category:2007年小說 "wikilink") [Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink") [Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink") [Category:發生或曾經發生第三次世界大戰作品](https://zh.wikipedia.org/wiki/Category:發生或曾經發生第三次世界大戰作品 "wikilink")

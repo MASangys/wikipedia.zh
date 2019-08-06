@@ -2,9 +2,7 @@
 
 ## 環面
 
-[TorusSystoleLoop.png](https://zh.wikipedia.org/wiki/File:TorusSystoleLoop.png "fig:TorusSystoleLoop.png")
-1949年婁威納證明了[環面T](https://zh.wikipedia.org/wiki/環面 "wikilink")<sup>2</sup>上的度量的[不等式](https://zh.wikipedia.org/wiki/婁威納環面不等式 "wikilink")，即是其systolic比SR(T<sup>2</sup>)
-有上界\(2/\sqrt{3}\)，於環面為平坦（常曲率）的等邊環面時等號成立。
+[TorusSystoleLoop.png](https://zh.wikipedia.org/wiki/File:TorusSystoleLoop.png "fig:TorusSystoleLoop.png") 1949年婁威納證明了[環面T](https://zh.wikipedia.org/wiki/環面 "wikilink")<sup>2</sup>上的度量的[不等式](https://zh.wikipedia.org/wiki/婁威納環面不等式 "wikilink")，即是其systolic比SR(T<sup>2</sup>) 有上界\(2/\sqrt{3}\)，於環面為平坦（常曲率）的等邊環面時等號成立。
 
 ## 實射影平面
 
@@ -12,8 +10,7 @@
 
 ## 克萊因瓶
 
-[Acme_klein_bottle.jpg](https://zh.wikipedia.org/wiki/File:Acme_klein_bottle.jpg "fig:Acme_klein_bottle.jpg")
-對於[克萊因瓶](https://zh.wikipedia.org/wiki/克萊因瓶 "wikilink")*K*，Bavard(1986)獲得了systolic比的最佳上界\(\pi/\sqrt{8}\)：
+[Acme_klein_bottle.jpg](https://zh.wikipedia.org/wiki/File:Acme_klein_bottle.jpg "fig:Acme_klein_bottle.jpg") 對於[克萊因瓶](https://zh.wikipedia.org/wiki/克萊因瓶 "wikilink")*K*，Bavard(1986)獲得了systolic比的最佳上界\(\pi/\sqrt{8}\)：
 
 \[\mathrm{SR}(K) \leq  \frac{\pi}{\sqrt{8}},\]
 
@@ -21,13 +18,11 @@
 
 ## 虧格2
 
-虧格2的[可定向曲面適合婁威納的上界](https://zh.wikipedia.org/wiki/可定向 "wikilink")\(\mathrm{SR}(2)\leq \tfrac{2}{\sqrt{3}}\)(Katz-Sabourau
-'06)。現在尚未知道正虧格的曲面是否都適合此上界，有猜想指這些曲面都適合。在虧格不小於20時已得到證明(Katz-Sabourau '05)。
+虧格2的[可定向曲面適合婁威納的上界](https://zh.wikipedia.org/wiki/可定向 "wikilink")\(\mathrm{SR}(2)\leq \tfrac{2}{\sqrt{3}}\)(Katz-Sabourau '06)。現在尚未知道正虧格的曲面是否都適合此上界，有猜想指這些曲面都適合。在虧格不小於20時已得到證明(Katz-Sabourau '05)。
 
 ## 任意虧格
 
-對虧格*g*的閉曲面，Hebda和Burago(1980)證明了systolic比SR(*g*)有上界2。三年後[米哈伊爾·格羅莫夫找到SR](https://zh.wikipedia.org/wiki/米哈伊爾·格羅莫夫 "wikilink")(*g*)的一個上界，
-是一個常數乘以
+對虧格*g*的閉曲面，Hebda和Burago(1980)證明了systolic比SR(*g*)有上界2。三年後[米哈伊爾·格羅莫夫找到SR](https://zh.wikipedia.org/wiki/米哈伊爾·格羅莫夫 "wikilink")(*g*)的一個上界， 是一個常數乘以
 
 \[\frac{(\log g)^2}{g}.\]
 

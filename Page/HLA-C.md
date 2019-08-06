@@ -6,7 +6,5 @@
 
 ## 外部链接
 
-  - [Molecular Anthropology Yahoo
-    Group](http://tech.groups.yahoo.com/group/DNAanthro/)
-  - [HLA Allele and Haplotype Frequency
-    Database](http://www.allelefrequencies.net)
+  - [Molecular Anthropology Yahoo Group](http://tech.groups.yahoo.com/group/DNAanthro/)
+  - [HLA Allele and Haplotype Frequency Database](http://www.allelefrequencies.net)

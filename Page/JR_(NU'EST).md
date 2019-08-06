@@ -1,61 +1,41 @@
-**金鍾炫**\[1\]（，），藝名**JR**（）。為[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")旗下首個男子團體[NU'EST](../Page/NU'EST.md "wikilink")隊長，擔任主Rapper和領舞\[2\]。2017年以本名參加《[PRODUCE
-101
-(第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》\[3\]，展示出非凡的領導力，被譽為「國民隊長」，温柔穩重的表現與不凡實力獲得大眾目光\[4\]，雖然最後未能入選[Wanna
-One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")\[5\]，卻仍贏得極高人氣。
+**金鍾炫**\[1\]（，），藝名**JR**（）。為[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")旗下首個男子團體[NU'EST](../Page/NU'EST.md "wikilink")隊長，擔任主Rapper和領舞\[2\]。2017年以本名參加《[PRODUCE 101 (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》\[3\]，展示出非凡的領導力，被譽為「國民隊長」，温柔穩重的表現與不凡實力獲得大眾目光\[4\]，雖然最後未能入選[Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")\[5\]，卻仍贏得極高人氣。
 
 ## 經歷
 
 ### 出道前
 
-金鍾炫是Pledis娛樂的首位男性練習生。在2009年與[After
-School的](../Page/After_School.md "wikilink")[Raina](../Page/Raina.md "wikilink")和[Lizzy同期進公司](../Page/Lizzy_\(韓國歌手\).md "wikilink")，自14歲就成為練習生\[6\]。單獨一人練習的時間長達一年，實力超群的他更擔任公司內其他練習生的舞蹈老師和饒舌老師。\[7\]
+金鍾炫是Pledis娛樂的首位男性練習生。在2009年與[After School的](../Page/After_School.md "wikilink")[Raina](../Page/Raina.md "wikilink")和[Lizzy同期進公司](../Page/Lizzy_\(韓國歌手\).md "wikilink")，自14歲就成為練習生\[6\]。單獨一人練習的時間長達一年，實力超群的他更擔任公司內其他練習生的舞蹈老師和饒舌老師。\[7\]
 
-鍾炫是第一個公開的男性練習生，在Pledis在2011年3月公開徵選After School
-Boys的宣傳海報及影片首次亮相。\[8\]\[9\]
-6月，鍾炫和[姜東昊](../Page/姜東昊.md "wikilink")在節目《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》中亮相3秒，就接連3日佔據娛樂新聞主版面，引起大眾的關心。\[10\]2012年2月，鍾炫在弘大被舞蹈導師邀請上台作出即興B-BOY表演，精采的表現引起觀眾的關注。\[11\]
+鍾炫是第一個公開的男性練習生，在Pledis在2011年3月公開徵選After School Boys的宣傳海報及影片首次亮相。\[8\]\[9\] 6月，鍾炫和[姜東昊](../Page/姜東昊.md "wikilink")在節目《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》中亮相3秒，就接連3日佔據娛樂新聞主版面，引起大眾的關心。\[10\]2012年2月，鍾炫在弘大被舞蹈導師邀請上台作出即興B-BOY表演，精采的表現引起觀眾的關注。\[11\]
 
-鍾炫也參與師姐們多個的音樂作品，他擔任After School〈Someone Is
-You〉的男合音之一，更負責[Uie](../Page/Uie.md "wikilink")〈쏙쏙쏙
-(SokSokSok)〉饒舌部分。\[12\]此外，鍾炫作為PLEDIS BOYS成員出道前多次出現在大眾的面前\[13\]，曾和 After
-School 一起登上 Ceci 雜誌和在2011年末特別節目《SBS 歌謠大戰》上演出。\[14\]\[15\]
+鍾炫也參與師姐們多個的音樂作品，他擔任After School〈Someone Is You〉的男合音之一，更負責[Uie](../Page/Uie.md "wikilink")〈쏙쏙쏙 (SokSokSok)〉饒舌部分。\[12\]此外，鍾炫作為PLEDIS BOYS成員出道前多次出現在大眾的面前\[13\]，曾和 After School 一起登上 Ceci 雜誌和在2011年末特別節目《SBS 歌謠大戰》上演出。\[14\]\[15\]
 
 ### NU'EST
 
-2012年3月15日以JR（Junior Royal
-縮寫）為藝名，成為男子團體NU'EST的隊長出道，擔任主Rapper和領舞。出道曲〈FACE〉將視線集中在學校暴力和孤立等社會問題上，令他們成為青少年代言人。\[16\]〈[FACE](../Page/FACE_\(NU'EST單曲\).md "wikilink")〉更曾是男子團體出道曲於YouTube頻道最高觀看次數記錄保持者，觀看次數高達一億。
+2012年3月15日以JR（Junior Royal 縮寫）為藝名，成為男子團體NU'EST的隊長出道，擔任主Rapper和領舞。出道曲〈FACE〉將視線集中在學校暴力和孤立等社會問題上，令他們成為青少年代言人。\[16\]〈[FACE](../Page/FACE_\(NU'EST單曲\).md "wikilink")〉更曾是男子團體出道曲於YouTube頻道最高觀看次數記錄保持者，觀看次數高達一億。
 
-2013年，以二張迷你專輯《[Hello](https://zh.wikipedia.org/wiki/Hello_\(NU'EST迷你專輯\) "wikilink")》和《[Sleep
-Talking](../Page/Sleep_Talking.md "wikilink")》回歸，主打曲均講述愛情。\[17\]\[18\]急速轉變的風格和長時間在海外發展，時隔1年多才在韓國正式回歸\[19\]，長期忽略韓國市場，導致粉絲流失，專輯銷售持續下降。然而，JR多次表達自己未能帶領NU'EST
-走向成功之路，把不成功的原因歸咎於自己身上。
+2013年，以二張迷你專輯《[Hello](https://zh.wikipedia.org/wiki/Hello_\(NU'EST迷你專輯\) "wikilink")》和《[Sleep Talking](../Page/Sleep_Talking.md "wikilink")》回歸，主打曲均講述愛情。\[17\]\[18\]急速轉變的風格和長時間在海外發展，時隔1年多才在韓國正式回歸\[19\]，長期忽略韓國市場，導致粉絲流失，專輯銷售持續下降。然而，JR多次表達自己未能帶領NU'EST 走向成功之路，把不成功的原因歸咎於自己身上。
 
 同時，JR在個人方面也展開多元化的活動。在音樂方面，根據韓國音樂著作權協會，截至2016年12月他參與16首歌曲的作詞。\[20\]2016年，Pledis娛樂公開收錄於第五張迷你專輯《[CANVAS](https://zh.wikipedia.org/wiki/CANVAS "wikilink")》中JR與[旼炫的合作曲](https://zh.wikipedia.org/wiki/旼炫 "wikilink")〈Daybreak〉音樂錄影帶。二人均參與作詞，歌詞描述對喜歡的人的思念。\[21\]演戲方面，他曾在中國網路劇《[孤獨的美食家](https://zh.wikipedia.org/wiki/孤獨的美食家_\(中國電視劇\) "wikilink")》中客串，更是日本電影《》的主演之一。\[22\]
 
 ### PRODUCE 101 第二季
 
-團體發展不上不下的[NU'EST](../Page/NU'EST.md "wikilink")在2017年2月宣布暫停團體活動，JR以本名金鍾炫與姜東昊、黃旼炫、[崔珉起](../Page/崔珉起.md "wikilink")以Pledis練習生的身份參加[Mnet選秀節目](../Page/Mnet媒體.md "wikilink")《[PRODUCE
-101
-第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》。\[23\]在第四集的分組對抗比賽中，金鐘炫充滿耐性地教導實力不足的組員，帶領全組努力前進。當導師責問態度散漫的組員為何跟不上進度，金鍾炫歸咎於自己身上，溫柔堅定的相信著隊友，被網民封為「國民隊長」、「聖光」和「佛光」。\[24\]
+團體發展不上不下的[NU'EST](../Page/NU'EST.md "wikilink")在2017年2月宣布暫停團體活動，JR以本名金鍾炫與姜東昊、黃旼炫、[崔珉起](../Page/崔珉起.md "wikilink")以Pledis練習生的身份參加[Mnet選秀節目](../Page/Mnet媒體.md "wikilink")《[PRODUCE 101 第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》。\[23\]在第四集的分組對抗比賽中，金鐘炫充滿耐性地教導實力不足的組員，帶領全組努力前進。當導師責問態度散漫的組員為何跟不上進度，金鍾炫歸咎於自己身上，溫柔堅定的相信著隊友，被網民封為「國民隊長」、「聖光」和「佛光」。\[24\]
 
 善良和富責任感的行為使他的排名不斷上升，在第六集的觀眾投票中更拿下第一名。\[25\]此外，在第七集的定位評價中，金鍾炫以親自創作的真摰歌詞得到rap定位中的第一位，獲得十一萬票獎勵，實力得到了認可。\[26\]在第八集的第二輪順位發表中，金鍾炫獲得二百七十多萬票，再次成為第一名，並領先了第二名約六十萬票。\[27\]
 
-第三輪順位發表時仍於上位圈第七名，並且深受所有練習生與導師相信他應該就是未來的出道團體隊長，包含各家媒體都看好他進入最終11人，卻於節目終演排名僅獲得第十四名，無法成為Wanna
-One限定團體成員。在各方眾人跌破眼鏡的同時，NU'EST與金鍾炫成為熱搜關鍵字，引起大篇幅討論，同時數首舊歌開始逆襲各大音源排行榜，尤其是〈Hello〉最高更攻佔第1名的寶座\[28\]。節目結束個人Instagram粉絲數量暴增約30萬人，JR的第一篇感謝粉絲發文於兩日內湧入25萬讚數與近7萬則留言\[29\]。
+第三輪順位發表時仍於上位圈第七名，並且深受所有練習生與導師相信他應該就是未來的出道團體隊長，包含各家媒體都看好他進入最終11人，卻於節目終演排名僅獲得第十四名，無法成為Wanna One限定團體成員。在各方眾人跌破眼鏡的同時，NU'EST與金鍾炫成為熱搜關鍵字，引起大篇幅討論，同時數首舊歌開始逆襲各大音源排行榜，尤其是〈Hello〉最高更攻佔第1名的寶座\[28\]。節目結束個人Instagram粉絲數量暴增約30萬人，JR的第一篇感謝粉絲發文於兩日內湧入25萬讚數與近7萬則留言\[29\]。
 
 ### PRODUCE 101 (第二季)結束後續
 
-Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼炫\[30\]，其餘四名成員（JR、白虎、Aron、Ren）以分隊
-[NU'EST W](https://zh.wikipedia.org/wiki/NU'EST_W "wikilink")
-的形式於下半年開始回歸\[31\]。
+Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼炫\[30\]，其餘四名成員（JR、白虎、Aron、Ren）以分隊 [NU'EST W](https://zh.wikipedia.org/wiki/NU'EST_W "wikilink") 的形式於下半年開始回歸\[31\]。
 
-即使沒有入選Wanna One，JR仍保持著極高的人氣。節目後續被選為未來最期待的PRODUCE 101
-(第二季)參加者\[32\]，PRODUCE 101
-(第二季)終演演唱會後突然開始的Vlive直播也獲得熱烈的反應，不足一個小時就吸引22萬人次觀看，愛心數更達到近1400萬\[33\]。同時，JR收到各方的邀約，成為[JTBC](../Page/JTBC.md "wikilink")綜藝節目《[夜行鬼怪](../Page/夜行鬼怪.md "wikilink")》的固定成員\[34\]。JR與REN共同成為化妝品品牌《LABIOTTE》代言人\[35\]，促銷販售第一日即造成排隊搶購風潮，並使得該品牌官方網站銷售存貨售罄\[36\]。且受邀擔任[韓國職棒聯賽](../Page/韓國職棒聯賽.md "wikilink")[LG雙子](../Page/LG雙子.md "wikilink")對[斗山熊三連戰第三場的開球嘉賓](https://zh.wikipedia.org/wiki/斗山熊 "wikilink")。\[37\]
+即使沒有入選Wanna One，JR仍保持著極高的人氣。節目後續被選為未來最期待的PRODUCE 101 (第二季)參加者\[32\]，PRODUCE 101 (第二季)終演演唱會後突然開始的Vlive直播也獲得熱烈的反應，不足一個小時就吸引22萬人次觀看，愛心數更達到近1400萬\[33\]。同時，JR收到各方的邀約，成為[JTBC](../Page/JTBC.md "wikilink")綜藝節目《[夜行鬼怪](../Page/夜行鬼怪.md "wikilink")》的固定成員\[34\]。JR與REN共同成為化妝品品牌《LABIOTTE》代言人\[35\]，促銷販售第一日即造成排隊搶購風潮，並使得該品牌官方網站銷售存貨售罄\[36\]。且受邀擔任[韓國職棒聯賽](../Page/韓國職棒聯賽.md "wikilink")[LG雙子](../Page/LG雙子.md "wikilink")對[斗山熊三連戰第三場的開球嘉賓](https://zh.wikipedia.org/wiki/斗山熊 "wikilink")。\[37\]
 
 ## 音樂作品
 
   -
-    <small>所屬團體之共同作品，請參閱
-    [NU'EST音樂作品列表](../Page/NU'EST音樂作品列表.md "wikilink")</small>
+    <small>所屬團體之共同作品，請參閱 [NU'EST音樂作品列表](../Page/NU'EST音樂作品列表.md "wikilink")</small>
 
 ### 參與歌曲
 
@@ -135,8 +115,7 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 
 ### 綜藝節目
 
-所屬團體之共同作品，請參閱
-[NU'EST影視作品列表\#綜藝節目](https://zh.wikipedia.org/wiki/NU'EST影視作品列表#綜藝節目 "wikilink")
+所屬團體之共同作品，請參閱 [NU'EST影視作品列表\#綜藝節目](https://zh.wikipedia.org/wiki/NU'EST影視作品列表#綜藝節目 "wikilink")
 
 <table>
 <tbody>
@@ -474,12 +453,7 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 ## 外部連結
 
   -
-[Category:NU'EST](https://zh.wikipedia.org/wiki/Category:NU'EST "wikilink")
-[Category:Pledis娛樂](https://zh.wikipedia.org/wiki/Category:Pledis娛樂 "wikilink")
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:江原道出身人物](https://zh.wikipedia.org/wiki/Category:江原道出身人物 "wikilink")
-[Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
+[Category:NU'EST](https://zh.wikipedia.org/wiki/Category:NU'EST "wikilink") [Category:Pledis娛樂](https://zh.wikipedia.org/wiki/Category:Pledis娛樂 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:江原道出身人物](https://zh.wikipedia.org/wiki/Category:江原道出身人物 "wikilink") [Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
 
 1.
 
@@ -487,11 +461,9 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 
 3.  [NU'EST 將暫停活動，參加《101》第二季](http://kpopn.niusnews.com/=K2ey6sy1) kpopn
 
-4.  [韩综Produce101男版第二次排名
-    金鐘炫第一賴冠霖第二](http://www.ishowx.com/zongyixinwen/83037.html)
+4.  [韩综Produce101男版第二次排名 金鐘炫第一賴冠霖第二](http://www.ishowx.com/zongyixinwen/83037.html)
 
-5.  [今夏最遺憾！「國民隊長」金鍾炫未能入選Wanna One
-    被拆散的NU'EST能否開始走花路呢？](http://www.koreastardaily.com/tc/news/95573)韓星網
+5.  [今夏最遺憾！「國民隊長」金鍾炫未能入選Wanna One 被拆散的NU'EST能否開始走花路呢？](http://www.koreastardaily.com/tc/news/95573)韓星網
 
 6.
 
@@ -505,8 +477,7 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 
 11.
 
-12. [AS Boys Collaborated already with
-    AS](http://www.dkpopnews.net/2011/10/newsas-boys-collaborated-already-with.html)
+12. [AS Boys Collaborated already with AS](http://www.dkpopnews.net/2011/10/newsas-boys-collaborated-already-with.html)
 
 13. [Pledis Boys 成員公開](http://kpopn.niusnews.com/=K08ktg11)kpopn
 
@@ -524,14 +495,11 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 
 20.
 
-21. [JR、MinHyun《Daybreak》MV 公開](http://kpopn.niusnews.com/=K1or4b40)
-    kpopn
+21. [JR、MinHyun《Daybreak》MV 公開](http://kpopn.niusnews.com/=K1or4b40) kpopn
 
-22. [「素昧平生的兩人」9月韓國上映
-    NU'EST全員出演](http://times.hinet.net/news/20271226)HiNet新聞
+22. [「素昧平生的兩人」9月韓國上映 NU'EST全員出演](http://times.hinet.net/news/20271226)HiNet新聞
 
-23. [NU'EST成軍5年後
-    將加入選秀節目重拚出道](http://ent.ltn.com.tw/news/breakingnews/1986010)自由時報
+23. [NU'EST成軍5年後 將加入選秀節目重拚出道](http://ent.ltn.com.tw/news/breakingnews/1986010)自由時報
 
 24. [《101》練習生讓NU'EST隊長說重話態度惹議IG照全刪](http://star.ettoday.net/news/914913)ETNEWS
 
@@ -543,23 +511,19 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 
 28. [大家都為他落淚！男團隊長《101》再出發失利卻創奇蹟](http://www.appledaily.com.tw/realtimenews/article/entertainment/20170617/1142294/)蘋果日報
 
-29. [「國民隊長」金鐘炫慘遭《101》淘汰
-    暖心發文安慰粉絲](http://ent.ltn.com.tw/news/breakingnews/2103125)自由時報
+29. [「國民隊長」金鐘炫慘遭《101》淘汰 暖心發文安慰粉絲](http://ent.ltn.com.tw/news/breakingnews/2103125)自由時報
 
 30. [趁熱追擊！舊歌逆襲排行榜　NU'EST預計下半年回歸](http://www.setn.com/News.aspx?NewsID=263989)三立新聞
 
-31. [NU'EST宣佈本次回歸是小分隊！ 維持四人直到黃旼炫歸來，NU’EST
-    W的含義令人感動！](https://www.koreastardaily.com/tc/news/96468)韓星網
+31. [NU'EST宣佈本次回歸是小分隊！ 維持四人直到黃旼炫歸來，NU’EST W的含義令人感動！](https://www.koreastardaily.com/tc/news/96468)韓星網
 
-32. [미래가 기대되는 ‘프듀2’ 멤버 1위 김종현, 워너원은
-    아니지만](http://www.newsen.com/news_view.php?uid=201706221104194110)newsen
+32. [미래가 기대되는 ‘프듀2’ 멤버 1위 김종현, 워너원은 아니지만](http://www.newsen.com/news_view.php?uid=201706221104194110)newsen
 
 33. [直播22萬人次搶看　「NU'EST」再現逆行奇蹟](http://www.appledaily.com.tw/realtimenews/article/new/20170703/1152891/)蘋果日報
 
 34. [「偶像教父」鄭亨敦攜手FTIsland李弘基&「國民隊長」金鐘炫開啟JTBC【徹夜不歸新綜藝】！？](https://www.koreastardaily.com/tc/news/96465)韓星網
 
-35. [金钟炫崔珉起最新画报公开
-    纯净美男帅气迷人](http://www.bntnews.cn/app/news.php?nid=47247)bntnews
+35. [金钟炫崔珉起最新画报公开 纯净美男帅气迷人](http://www.bntnews.cn/app/news.php?nid=47247)bntnews
 
 36.
 
@@ -572,9 +536,7 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 40. [Always](https://www.youtube.com/watch?v=0AwBokwCGuY)
 
 41.
-42. [NU'EST JR，冉冉升起的新星「鐘炫」
-    「視線集中」](https://www.yahoo.com/news/nuest-jr-%E5%86%89%E5%86%89%E5%8D%87%E8%B5%B7%E7%9A%84%E6%96%B0%E6%98%9F-%E9%90%98%E7%82%AB-%E8%A6%96%E7%B7%9A%E9%9B%86%E4%B8%AD-054650878.html)yahoo
-    news
+42. [NU'EST JR，冉冉升起的新星「鐘炫」 「視線集中」](https://www.yahoo.com/news/nuest-jr-%E5%86%89%E5%86%89%E5%8D%87%E8%B5%B7%E7%9A%84%E6%96%B0%E6%98%9F-%E9%90%98%E7%82%AB-%E8%A6%96%E7%B7%9A%E9%9B%86%E4%B8%AD-054650878.html)yahoo news
 
 43.
 
@@ -591,8 +553,7 @@ Pledis娛樂表示除了因成為Wanna One成員而受到合約限制的黃旼�
 
 50. [Pledis 家族專輯曲目公開](http://kpopn.niusnews.com/=K0fw2w00) kpopn
 
-51. [《孤獨的美食家》曝全明星版海報
-    修傑楷陳建州出演](http://fj.people.com.cn/n/2015/0521/c234651-24947496.html)
+51. [《孤獨的美食家》曝全明星版海報 修傑楷陳建州出演](http://fj.people.com.cn/n/2015/0521/c234651-24947496.html)
 
 52. [李智勳、JR 的床上畫報](http://kpopn.niusnews.com/=K2qsqqs7)kpopn
 

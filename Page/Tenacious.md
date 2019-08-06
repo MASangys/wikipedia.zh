@@ -52,9 +52,6 @@
 
 ## 參考資料
 
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:薛凱琪音樂專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:薛凱琪音樂專輯](https://zh.wikipedia.org/wiki/Category:薛凱琪音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
-1.  [加拿大中文電台 Music Award 加拿大至 HIT
-    中文歌曲排行榜年度總選結果](http://www.am1470.com/hot_topics_detail.php?i=1699)
+1.  [加拿大中文電台 Music Award 加拿大至 HIT 中文歌曲排行榜年度總選結果](http://www.am1470.com/hot_topics_detail.php?i=1699)

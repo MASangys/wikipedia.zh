@@ -1,6 +1,4 @@
-**Karatsuba算法**是一种快速[相乘算法](https://zh.wikipedia.org/wiki/相乘算法 "wikilink")，它由[Anatolii
-Alexeevitch
-Karatsuba于](https://zh.wikipedia.org/wiki/Anatolii_Alexeevitch_Karatsuba "wikilink")1960年提出并于1962年发表。<ref name="kara1962">
+**Karatsuba算法**是一种快速[相乘算法](https://zh.wikipedia.org/wiki/相乘算法 "wikilink")，它由[Anatolii Alexeevitch Karatsuba于](https://zh.wikipedia.org/wiki/Anatolii_Alexeevitch_Karatsuba "wikilink")1960年提出并于1962年发表。<ref name="kara1962">
 
 ` `
 
@@ -62,17 +60,11 @@ def karatsuba(num1, num2):
 
 ## 参考文献
 
-  - [Karatsuba's Algorithm for Polynomial
-    Multiplication](http://www.cs.pitt.edu/~kirk/cs1501/animations/Karatsuba.html)
+  - [Karatsuba's Algorithm for Polynomial Multiplication](http://www.cs.pitt.edu/~kirk/cs1501/animations/Karatsuba.html)
 
   -
-  - Bernstein, D. J., "[Multidigit multiplication for
-    mathematicians](http://cr.yp.to/papers/m3.pdf)". Covers Karatsuba
-    and many other multiplication algorithms.
+  - Bernstein, D. J., "[Multidigit multiplication for mathematicians](http://cr.yp.to/papers/m3.pdf)". Covers Karatsuba and many other multiplication algorithms.
 
-[Category:计算机算术算法](https://zh.wikipedia.org/wiki/Category:计算机算术算法 "wikilink")
-[Category:乘法](https://zh.wikipedia.org/wiki/Category:乘法 "wikilink")
-[Category:带有伪代码示例的条目](https://zh.wikipedia.org/wiki/Category:带有伪代码示例的条目 "wikilink")
+[Category:计算机算术算法](https://zh.wikipedia.org/wiki/Category:计算机算术算法 "wikilink") [Category:乘法](https://zh.wikipedia.org/wiki/Category:乘法 "wikilink") [Category:带有伪代码示例的条目](https://zh.wikipedia.org/wiki/Category:带有伪代码示例的条目 "wikilink")
 
-1.  Knuth D.E.（1969）*The art of computer programming. v.2.*
-    Addison-Wesley Publ.Co., 724 pp.
+1.  Knuth D.E.（1969）*The art of computer programming. v.2.* Addison-Wesley Publ.Co., 724 pp.

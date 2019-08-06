@@ -1,14 +1,10 @@
-**Gogo**为商用和商务航机提供机上宽带因特网服务、流媒体视频及其他连接服务。2011年6月，作为重塑品牌的一部分，公司正式由更名为Gogo。在更名前，Gogo的商用航空服务称为“Gogo
-Inflight Internet”。 Aircell仍是该公司商务航空业务部门的名字。
+**Gogo**为商用和商务航机提供机上宽带因特网服务、流媒体视频及其他连接服务。2011年6月，作为重塑品牌的一部分，公司正式由更名为Gogo。在更名前，Gogo的商用航空服务称为“Gogo Inflight Internet”。 Aircell仍是该公司商务航空业务部门的名字。
 
-Gogo让乘客能够通过地面上的基站连接到因特网。他们的Air to Ground（ATG）系统采用[EV-DO Rev.
-A](https://zh.wikipedia.org/wiki/EV-DO "wikilink") 3G无线技术。
+Gogo让乘客能够通过地面上的基站连接到因特网。他们的Air to Ground（ATG）系统采用[EV-DO Rev. A](https://zh.wikipedia.org/wiki/EV-DO "wikilink") 3G无线技术。
 
 Gogo拥有超过100个基站，组成了覆盖美国本土及阿拉斯加部分地区的网络。这些基站是经调整的普通手机信号塔，将其信号从沿着地面改为指向天空。航机通过安装在机腹的接收器接受信号。数据信号到达航机后在机舱内通过[Wi-Fi](../Page/Wi-Fi.md "wikilink")系统传播。顾客在使用服务前需要输入电子邮件地址和[验证码](../Page/验证码.md "wikilink")。
 
-该公司在2012年宣布其将会启用下一代Air to
-Ground服务ATG-4。Gogo声称其ATG-4服务会显著增强现有ATG网络并通过增加定向天线、双频调制解调器和EV-DO
-Rev.B技术将每飞机容量提高到现有的四倍。
+该公司在2012年宣布其将会启用下一代Air to Ground服务ATG-4。Gogo声称其ATG-4服务会显著增强现有ATG网络并通过增加定向天线、双频调制解调器和EV-DO Rev.B技术将每飞机容量提高到现有的四倍。
 
 2012年5月18日，Gogo宣布其将在年末提供[K<sub>u</sub>波段卫星技术作为支持跨洋航班的过渡举措](../Page/Ku波段.md "wikilink")。\[1\]
 
@@ -18,8 +14,7 @@ Gogo还称其将会利用卫星技术辅助ATG、ATG-4以提供额外容量。�
 
 一名记者于2008年进行了测试，测试显示：网络覆盖很连续，在从一个基站切换至下一基站时仅有很小的速度的延迟。在测试中，连接速度可与手机在地面的上网速度或家用[DSL速度相比](https://zh.wikipedia.org/wiki/DSL "wikilink")：下行速度约500–600Kibit/s，上行速度300Kibit/s。\[2\]航班总带宽约3兆比特/秒。
 
-Gogo服务与[Macintosh及运行](https://zh.wikipedia.org/wiki/Macintosh "wikilink")[Linux](../Page/Linux.md "wikilink")和[Windows的电脑兼容](https://zh.wikipedia.org/wiki/Windows "wikilink")，同时可用于其他带有Wi-Fi功能的设备，包括[BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")、[Windows
-Mobile](../Page/Windows_Mobile.md "wikilink")、[Android](../Page/Android.md "wikilink")设备和[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")。
+Gogo服务与[Macintosh及运行](https://zh.wikipedia.org/wiki/Macintosh "wikilink")[Linux](../Page/Linux.md "wikilink")和[Windows的电脑兼容](https://zh.wikipedia.org/wiki/Windows "wikilink")，同时可用于其他带有Wi-Fi功能的设备，包括[BlackBerry](https://zh.wikipedia.org/wiki/BlackBerry "wikilink")、[Windows Mobile](../Page/Windows_Mobile.md "wikilink")、[Android](../Page/Android.md "wikilink")设备和[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")。
 
 [Gogo_Inflight_Internet_-_External_Aircraft_Antenna.JPG](https://zh.wikipedia.org/wiki/File:Gogo_Inflight_Internet_-_External_Aircraft_Antenna.JPG "fig:Gogo_Inflight_Internet_-_External_Aircraft_Antenna.JPG")
 
@@ -37,8 +32,7 @@ Mobile](../Page/Windows_Mobile.md "wikilink")、[Android](../Page/Android.md "wi
 
 2009年7月14日，[穿越航空](../Page/穿越航空.md "wikilink")在其136架航机上安装了Gogo。\[8\]
 
-2009年10月2日，
-[美国联合航空在从纽约肯尼迪至洛杉矶的](https://zh.wikipedia.org/wiki/美国联合航空 "wikilink")23次航班上首次启动了Gogo服务。
+2009年10月2日， [美国联合航空在从纽约肯尼迪至洛杉矶的](https://zh.wikipedia.org/wiki/美国联合航空 "wikilink")23次航班上首次启动了Gogo服务。
 
 2009年11月20日，Gogo宣布[加拿大航空](../Page/加拿大航空.md "wikilink")开始在部分[多伦多和](https://zh.wikipedia.org/wiki/多伦多国际机场 "wikilink")[蒙特利尔至洛杉矶航班上试运行Gogo](https://zh.wikipedia.org/wiki/蒙特利尔国际机场 "wikilink")，这些航班大部分航程在美国國內。\[9\]
 
@@ -46,8 +40,7 @@ Mobile](../Page/Windows_Mobile.md "wikilink")、[Android](../Page/Android.md "wi
 
 2010年3月29日，[全美航空宣布其](https://zh.wikipedia.org/wiki/全美航空 "wikilink")[空中客车A321机队将在](https://zh.wikipedia.org/wiki/空中客车A321 "wikilink")2011年6月1日前全部提供Gogo服务。安装工作在2011年秋季全部完成。\[11\]
 
-2012年2月5日，[边疆航空宣布旗下所有](https://zh.wikipedia.org/wiki/边疆航空 "wikilink")[Embraer
-190航机均已配备Gogo并于次日开始提供服务](https://zh.wikipedia.org/wiki/Embraer-170系列 "wikilink")。\[12\]
+2012年2月5日，[边疆航空宣布旗下所有](https://zh.wikipedia.org/wiki/边疆航空 "wikilink")[Embraer 190航机均已配备Gogo并于次日开始提供服务](https://zh.wikipedia.org/wiki/Embraer-170系列 "wikilink")。\[12\]
 
 ## 市场前景
 
@@ -66,31 +59,24 @@ Mobile](../Page/Windows_Mobile.md "wikilink")、[Android](../Page/Android.md "wi
   -
   - [Aircell](http://www.aircell.com/)
 
-[Category:美国公司](https://zh.wikipedia.org/wiki/Category:美国公司 "wikilink")
-[Category:ISP](https://zh.wikipedia.org/wiki/Category:ISP "wikilink")
+[Category:美国公司](https://zh.wikipedia.org/wiki/Category:美国公司 "wikilink") [Category:ISP](https://zh.wikipedia.org/wiki/Category:ISP "wikilink")
 
 1.
 
-2.  [Internet-a-Gogo: Airlines to Offer In-Flight
-    Access](http://ptech.allthingsd.com/20080619/internet-a-gogo-airlines-to-offer-in-flight-access/)
-    The Wall Street Journal
+2.  [Internet-a-Gogo: Airlines to Offer In-Flight Access](http://ptech.allthingsd.com/20080619/internet-a-gogo-airlines-to-offer-in-flight-access/) The Wall Street Journal
 
 3.
 4.
 
 5.
 
-6.  [Delta Air Lines To Offer In-Flight Wi-Fi On All Domestic
-    Flights](http://news.delta.com/article_display.cfm?article_id=11127)
-     (Official Press Release: August 5, 2008)
+6.  [Delta Air Lines To Offer In-Flight Wi-Fi On All Domestic Flights](http://news.delta.com/article_display.cfm?article_id=11127)  (Official Press Release: August 5, 2008)
 
 7.
 
-8.  PROMISE DELIVERED: Airtran Completes Installation of Wi-Fi On All
-    Aircraft
+8.  PROMISE DELIVERED: Airtran Completes Installation of Wi-Fi On All Aircraft
 
-9.  [Four pieces of great inflight WiFi news from
-    Gogo](http://www.gadling.com/2009/11/20/four-pieces-of-great-inflight-wifi-news-from-gogo/)
+9.  [Four pieces of great inflight WiFi news from Gogo](http://www.gadling.com/2009/11/20/four-pieces-of-great-inflight-wifi-news-from-gogo/)
 
 10.
 
@@ -98,8 +84,4 @@ Mobile](../Page/Windows_Mobile.md "wikilink")、[Android](../Page/Android.md "wi
 
 12.
 
-13. [Terdiman,
-    Daniel](https://zh.wikipedia.org/wiki/Daniel_Terdiman "wikilink").
-    January 25, 2008. [*In-flight Internet: Grounded for
-    life?*](http://news.cnet.com/In-flight-Internet-Grounded-for-life---page-2/2100-7351_3-6227736-2.html)
-    CNET
+13. [Terdiman, Daniel](https://zh.wikipedia.org/wiki/Daniel_Terdiman "wikilink"). January 25, 2008. [*In-flight Internet: Grounded for life?*](http://news.cnet.com/In-flight-Internet-Grounded-for-life---page-2/2100-7351_3-6227736-2.html) CNET

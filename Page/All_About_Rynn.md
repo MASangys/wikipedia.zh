@@ -1,5 +1,4 @@
-《**All About Rynn**》
-是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[歌手](../Page/歌手.md "wikilink")[林宇中](../Page/林宇中.md "wikilink")的新歌加[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，2009年11月7日於[馬來西亞正式發行](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")\[1\]。一共收錄5首全新創作歌曲、9首自選歌曲。\[2\]
+《**All About Rynn**》 是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[歌手](../Page/歌手.md "wikilink")[林宇中](../Page/林宇中.md "wikilink")的新歌加[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，2009年11月7日於[馬來西亞正式發行](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")\[1\]。一共收錄5首全新創作歌曲、9首自選歌曲。\[2\]
 
 因當時中台港的海蝶地區因不願意幫[林宇中](../Page/林宇中.md "wikilink")發專輯，所以這張專輯僅限新馬地區發行。
 
@@ -23,13 +22,9 @@
 
 <references/>
 
-[Category:林宇中音樂專輯](https://zh.wikipedia.org/wiki/Category:林宇中音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:馬來西亞音樂專輯](https://zh.wikipedia.org/wiki/Category:馬來西亞音樂專輯 "wikilink")
+[Category:林宇中音樂專輯](https://zh.wikipedia.org/wiki/Category:林宇中音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:馬來西亞音樂專輯](https://zh.wikipedia.org/wiki/Category:馬來西亞音樂專輯 "wikilink")
 
 1.
-2.  [林宇中《All About Rynn新歌+自選集》 | 星洲網 -
-    新聞搜尋](http://search.sinchew.com.my/node/435139?k=%E6%9E%97%E5%AE%87%E4%B8%AD)
-     星洲網.
+2.  [林宇中《All About Rynn新歌+自選集》 | 星洲網 - 新聞搜尋](http://search.sinchew.com.my/node/435139?k=%E6%9E%97%E5%AE%87%E4%B8%AD)  星洲網.
 
 3.

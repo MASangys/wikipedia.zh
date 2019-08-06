@@ -1,11 +1,4 @@
-**GAMESS (美国版)**
-是一个常用的[计算化学](../Page/计算化学.md "wikilink")[软件](../Page/软件.md "wikilink")，其全名为**通用原子分子电子结构系统**（**General
-Atomic and Molecular Electronic Structure
-System**）。\[1\]\[2\]\[3\]\[4\]<ref>2010年3月GAMESS列出的贡献成员包括: Michael
-Schmidt, Kimberly Baldridge, Jerry Boatz, Stephen Elbert, Mark Gordon,
-Jan Jensen, Shiro Koseki, Nikita Matsunaga, Kiet Nguyen, Shujun Su,
-Theresa Windus, Michel Dupuis, John Montgomery, Ivana Adamovic,
-Christine Aikens, Yuri Alexeev, Pooja Arora,
+**GAMESS (美国版)** 是一个常用的[计算化学](../Page/计算化学.md "wikilink")[软件](../Page/软件.md "wikilink")，其全名为**通用原子分子电子结构系统**（**General Atomic and Molecular Electronic Structure System**）。\[1\]\[2\]\[3\]\[4\]<ref>2010年3月GAMESS列出的贡献成员包括: Michael Schmidt, Kimberly Baldridge, Jerry Boatz, Stephen Elbert, Mark Gordon, Jan Jensen, Shiro Koseki, Nikita Matsunaga, Kiet Nguyen, Shujun Su, Theresa Windus, Michel Dupuis, John Montgomery, Ivana Adamovic, Christine Aikens, Yuri Alexeev, Pooja Arora,
 
 `Andrey Asadchev, Rob Bell, Pradipta Bandyopadhyay, Jonathan Bentz,`
 `Brett Bode, Galina Chaban, Wei Chen, Cheol Ho Choi, Paul Day, Tim Dudley,`
@@ -39,11 +32,7 @@ Frank Jensen, Visvaldas Kairys, Hui Li, Walt Stevens, David Garmer,
 `Masato Kobayashi, Tomoko Akama, Hiromi Nakai,`
 `Peifeng Su, Dejun Si, Yali Wang, Hui Li`
 
-</ref>作为美国国家化学计算资源（NRCC，National Resources for Computations in
-Chemistry）项目的一部分，GAMESS的代码于1977年10月1日开始编写。\[5\]1981年，源码分裂为两个分支，即美国版与英国版。时至今日，两个版本之间已经有很大差异。
-其中美国版的源代码由美国爱荷华大学的[Gordon研究组](http://www.msg.chem.iastate.edu)维护。
-GAMESS美国版的源码是免费的，但由于[软件许可证](../Page/软件许可证.md "wikilink")方面的限制，GAMESS
-并非[开源软件](../Page/开源软件.md "wikilink")。
+</ref>作为美国国家化学计算资源（NRCC，National Resources for Computations in Chemistry）项目的一部分，GAMESS的代码于1977年10月1日开始编写。\[5\]1981年，源码分裂为两个分支，即美国版与英国版。时至今日，两个版本之间已经有很大差异。 其中美国版的源代码由美国爱荷华大学的[Gordon研究组](http://www.msg.chem.iastate.edu)维护。 GAMESS美国版的源码是免费的，但由于[软件许可证](../Page/软件许可证.md "wikilink")方面的限制，GAMESS 并非[开源软件](../Page/开源软件.md "wikilink")。
 
 ## 计算能力
 
@@ -195,8 +184,7 @@ GAMESS美国版的源码是免费的，但由于[软件许可证](../Page/软件
 [Category:化学软件](https://zh.wikipedia.org/wiki/Category:化学软件 "wikilink")
 
 1.
-2.   [This is one of the most cited chemistry
-    articles](http://www.cas.org/spotlight/bchem05/bchem05.html)
+2.   [This is one of the most cited chemistry articles](http://www.cas.org/spotlight/bchem05/bchem05.html)
 3.
 4.
 5.

@@ -56,6 +56,4 @@
 </tbody>
 </table>
 
-[Category:梁詠琪音樂專輯](https://zh.wikipedia.org/wiki/Category:梁詠琪音樂專輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:梁詠琪音樂專輯](https://zh.wikipedia.org/wiki/Category:梁詠琪音樂專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

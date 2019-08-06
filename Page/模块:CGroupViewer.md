@@ -57,9 +57,7 @@ function z.dialog( frame )
 
 <div class="mw-collapsible mw-collapsed">
 
-<span class="plainlinks" style="float: right;">[', tostring(
-mw.uri.fullUrl( 'Module:CGroup/' .. name, { action = 'edit' } ) ), '
-编辑](https://zh.wikipedia.org/wiki/',_tostring\(_mw.uri.fullUrl\(_'Module:CGroup/'_.._name,_{_action_=_'edit'_}_\)_\),_'_编辑 "wikilink")</span>\\n',
+<span class="plainlinks" style="float: right;">[', tostring( mw.uri.fullUrl( 'Module:CGroup/' .. name, { action = 'edit' } ) ), ' 编辑](https://zh.wikipedia.org/wiki/',_tostring\(_mw.uri.fullUrl\(_'Module:CGroup/'_.._name,_{_action_=_'edit'_}_\)_\),_'_编辑 "wikilink")</span>\\n',
 
 `       '; 本文使用`[`公共转换组`](https://zh.wikipedia.org/wiki/Wikipedia:字詞轉換處理/公共轉換組 "wikilink")`“' .. data.description .. '”。\n',`
 `       '`

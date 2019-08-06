@@ -95,9 +95,7 @@ VS系列</p></td>
     **金吉布星人·卡札克<small>｜**[大友龍三郎](../Page/大友龍三郎.md "wikilink") 聲</small>
       -
         廣域宇宙暴力集團「皮諾農家族」的幹部。操著一口[廣島口音](https://zh.wikipedia.org/wiki/廣島 "wikilink")。具有擬態能力，能偽裝成各種物品，連地毯或塌塌米都可以，還能變成人形。曾利用這能力變成烏鴉混淆視聽，在戰鬥中甚至偽裝成奴馬歐長官和破裏劍紅、伺機攻擊兩大戰隊。以短劍為武器，擁有一架全身搭載火砲的怪重機。
-    **「三合使徒」第0號
-    蒸氣銀杏鰻<small>｜**[篠田薰](https://zh.wikipedia.org/wiki/篠田薰 "wikilink")
-    聲</small>
+    **「三合使徒」第0號 蒸氣銀杏鰻<small>｜**[篠田薰](https://zh.wikipedia.org/wiki/篠田薰 "wikilink") 聲</small>
       -
         由[桑拿](../Page/桑拿.md "wikilink")、[銀杏](https://zh.wikipedia.org/wiki/銀杏 "wikilink")、[鰻魚三元素合成](https://zh.wikipedia.org/wiki/鰻魚 "wikilink")，但由於力量過於強大而被米開朗封印。個性輕浮，說話帶有[名古屋腔](https://zh.wikipedia.org/wiki/名古屋 "wikilink")。有將死者復活的特殊能力。原本打算將德志魔宙斯復活，卻意外地讓仲代壬琴和杜畢翼龍再度復活。
     **再生宇宙犯罪者軍團**
@@ -120,20 +118,15 @@ VS系列</p></td>
 
   -
     **『Midnight 特搜戰隊刑事連者』**
-      - <small>作詞：藤林聖子 / 作曲：高取ヒデアキ / 編曲：亀山耕一郎 /
-        歌：ささきいさお、森の木児童合唱団</small>
+      - <small>作詞：藤林聖子 / 作曲：高取ヒデアキ / 編曲：亀山耕一郎 / 歌：ささきいさお、森の木児童合唱団</small>
 
 **插入曲**
 
   -
     **『特搜戰隊刑事連者』**
-      - <small>作詞：[吉元由美](https://zh.wikipedia.org/wiki/吉元由美 "wikilink")
-        / 作曲：[宮崎步](https://zh.wikipedia.org/wiki/宮崎步 "wikilink") /
-        編曲：[京田誠一](../Page/京田誠一.md "wikilink") /
-        歌：サイキックラバー</small>
+      - <small>作詞：[吉元由美](https://zh.wikipedia.org/wiki/吉元由美 "wikilink") / 作曲：[宮崎步](https://zh.wikipedia.org/wiki/宮崎步 "wikilink") / 編曲：[京田誠一](../Page/京田誠一.md "wikilink") / 歌：サイキックラバー</small>
     **『爆龍戰隊暴連者』**
-      - <small>作詞：吉元由美 / 作曲：[岩崎貴文](../Page/岩崎貴文.md "wikilink") / 編曲：京田誠一
-        / 歌：[遠藤正明](../Page/遠藤正明.md "wikilink")</small>
+      - <small>作詞：吉元由美 / 作曲：[岩崎貴文](../Page/岩崎貴文.md "wikilink") / 編曲：京田誠一 / 歌：[遠藤正明](../Page/遠藤正明.md "wikilink")</small>
 
 ## 幕後
 
@@ -147,11 +140,6 @@ VS系列</p></td>
 ## 外部連結
 
   - [特搜戰隊DekaRanger(超級戰隊網)）](http://www.super-sentai.net/dekaren/index.html)
-  - [DVD
-    特搜戰隊DekaRanger特集](https://web.archive.org/web/20060716104427/http://www.toei-video.co.jp/DVD/sp21/dekaren.html)（東映Video）
+  - [DVD 特搜戰隊DekaRanger特集](https://web.archive.org/web/20060716104427/http://www.toei-video.co.jp/DVD/sp21/dekaren.html)（東映Video）
 
-[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink")
-[Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink")
-[Category:外星生命題材作品](https://zh.wikipedia.org/wiki/Category:外星生命題材作品 "wikilink")
-[Category:2004年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2004年日本電視劇集 "wikilink")
-[Category:恐龍題材作品](https://zh.wikipedia.org/wiki/Category:恐龍題材作品 "wikilink")
+[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink") [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink") [Category:外星生命題材作品](https://zh.wikipedia.org/wiki/Category:外星生命題材作品 "wikilink") [Category:2004年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2004年日本電視劇集 "wikilink") [Category:恐龍題材作品](https://zh.wikipedia.org/wiki/Category:恐龍題材作品 "wikilink")

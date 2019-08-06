@@ -11,6 +11,4 @@
   - 〈棒打老虎雞吃蟲〉
     外景猜拳單元。
 
-[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink")
-[Category:華視電視節目](https://zh.wikipedia.org/wiki/Category:華視電視節目 "wikilink")
-[Category:遊戲節目](https://zh.wikipedia.org/wiki/Category:遊戲節目 "wikilink")
+[Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink") [Category:華視電視節目](https://zh.wikipedia.org/wiki/Category:華視電視節目 "wikilink") [Category:遊戲節目](https://zh.wikipedia.org/wiki/Category:遊戲節目 "wikilink")

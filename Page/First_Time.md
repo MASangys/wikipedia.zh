@@ -1,18 +1,15 @@
-《**First
-Time**》（）是[日本](../Page/日本.md "wikilink")女子偶像組合[早安少女組。](../Page/早安少女組。.md "wikilink")的第1張原創專輯。於1998年7月8日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+《**First Time**》（）是[日本](../Page/日本.md "wikilink")女子偶像組合[早安少女組。](../Page/早安少女組。.md "wikilink")的第1張原創專輯。於1998年7月8日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
-  - 收錄第1張單曲《[早安咖啡](../Page/早安咖啡.md "wikilink")》和第2張單曲《[Summer Night
-    Town](../Page/Summer_Night_Town.md "wikilink")》，以及獨立製作單曲《[愛之種](../Page/愛之種.md "wikilink")》，共3首曲目。
+  - 收錄第1張單曲《[早安咖啡](../Page/早安咖啡.md "wikilink")》和第2張單曲《[Summer Night Town](../Page/Summer_Night_Town.md "wikilink")》，以及獨立製作單曲《[愛之種](../Page/愛之種.md "wikilink")》，共3首曲目。
   - 本作分「CD盤」和「MD盤」2種版本
   - 在7月20日於公信榜專輯每週排行榜取得第4位。
 
 ## 收錄內容
 
 1.  **Good Morning**
-    （作詞、作曲：[淳君](../Page/淳君.md "wikilink")
-    編曲：[前嶋康明](https://zh.wikipedia.org/wiki/前嶋康明 "wikilink")）
+    （作詞、作曲：[淳君](../Page/淳君.md "wikilink") 編曲：[前嶋康明](https://zh.wikipedia.org/wiki/前嶋康明 "wikilink")）
 2.  **[Summer Night Town](../Page/Summer_Night_Town.md "wikilink")**（）
     （作詞・作曲：淳君 編曲：前嶋康明）
       -
@@ -38,5 +35,4 @@ Time**》（）是[日本](../Page/日本.md "wikilink")女子偶像組合[早�
 10. **難過的一天**（）
     （作詞、作曲：淳君 編曲：前嶋康明）
 
-[Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink")
-[Category:早安少女組。音樂專輯](https://zh.wikipedia.org/wiki/Category:早安少女組。音樂專輯 "wikilink")
+[Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink") [Category:早安少女組。音樂專輯](https://zh.wikipedia.org/wiki/Category:早安少女組。音樂專輯 "wikilink")

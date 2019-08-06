@@ -10,23 +10,13 @@ Saiga步槍原先是在1970年代設計，當時最初的步槍發射口徑子�
 
 Saiga步槍目前在[伊熱夫斯克市的伊熱瑪茨工廠](https://zh.wikipedia.org/wiki/伊熱夫斯克 "wikilink")（現稱“卡拉什尼科夫集團”）進行生產，該廠也是多種軍用AK步槍的生產地，並是卡拉什尼科夫本人多年來工作的地方。
 
-該系列步槍最初是由俄美軍工廠（Russian American Armory）
-和RWC進口到[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。另外一些步槍則是由FIME集團進口，並稍作更改以“Arsenal
-SGL”的名義出售。然而在[2014年俄羅斯吞併克里米亞後美國政府針對俄羅斯實施的制裁禁止了卡拉什尼科夫集團的產品出口到美國](../Page/2014年克里米亞危機.md "wikilink")。RWC隨即改名為「Kalashnikov
-USA」並在[佛羅里達州開始生產他們的AK樣式步槍](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")。而後來時任[美國總統](https://zh.wikipedia.org/wiki/美國總統 "wikilink")[巴拉克·奧巴馬針對俄羅斯對烏克蘭東部的武裝干預所簽定的行政命令已全面禁止俄羅斯軍火的進口](https://zh.wikipedia.org/wiki/巴拉克·奧巴馬 "wikilink")。\[5\]\[6\]
+該系列步槍最初是由俄美軍工廠（Russian American Armory） 和RWC進口到[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。另外一些步槍則是由FIME集團進口，並稍作更改以“Arsenal SGL”的名義出售。然而在[2014年俄羅斯吞併克里米亞後美國政府針對俄羅斯實施的制裁禁止了卡拉什尼科夫集團的產品出口到美國](../Page/2014年克里米亞危機.md "wikilink")。RWC隨即改名為「Kalashnikov USA」並在[佛羅里達州開始生產他們的AK樣式步槍](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")。而後來時任[美國總統](https://zh.wikipedia.org/wiki/美國總統 "wikilink")[巴拉克·奧巴馬針對俄羅斯對烏克蘭東部的武裝干預所簽定的行政命令已全面禁止俄羅斯軍火的進口](https://zh.wikipedia.org/wiki/巴拉克·奧巴馬 "wikilink")。\[5\]\[6\]
 
 ## 登場作品
 
 ### [電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")
 
-  - 2015年—《[-{zh-hans:战地：硬仗;
-    zh-hant:戰地風雲：強硬路線;}-](../Page/战地：硬仗.md "wikilink")》（Battlefield
-    Hardline）：命名為「Saiga .308」，歸類為半自動狙擊步槍，發射7.62x51mm
-    NATO子彈，20+1發彈匣，武器商店中價格為$22,800，預設裝上PSO-1光學瞄準鏡，被匪方專業人士（Professional）所使用（警察解鎖條件為：以任何陣營進行遊戲使用該槍擊殺1250名敵人後購買武器執照）。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro
-    T1、SRS 02、[Comp
-    M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍）
-    、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍）、TA
-    648（放大6倍）、PKS-07（放大7倍）、步槍瞄準鏡（放大8倍）、獵人（放大14倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、延長彈匣（增至25+1發）、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、[穿甲](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")[曳光彈](../Page/曳光彈.md "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
+  - 2015年—《[-{zh-hans:战地：硬仗; zh-hant:戰地風雲：強硬路線;}-](../Page/战地：硬仗.md "wikilink")》（Battlefield Hardline）：命名為「Saiga .308」，歸類為半自動狙擊步槍，發射7.62x51mm NATO子彈，20+1發彈匣，武器商店中價格為$22,800，預設裝上PSO-1光學瞄準鏡，被匪方專業人士（Professional）所使用（警察解鎖條件為：以任何陣營進行遊戲使用該槍擊殺1250名敵人後購買武器執照）。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro T1、SRS 02、[Comp M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍） 、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍）、TA 648（放大6倍）、PKS-07（放大7倍）、步槍瞄準鏡（放大8倍）、獵人（放大14倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、延長彈匣（增至25+1發）、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、[穿甲](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")[曳光彈](../Page/曳光彈.md "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
 
 ## 相關條目
 
@@ -40,13 +30,7 @@ USA」並在[佛羅里達州開始生產他們的AK樣式步槍](https://zh.wiki
 
 <references/>
 
-[Category:半自動步槍](https://zh.wikipedia.org/wiki/Category:半自動步槍 "wikilink")
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:5.45×39毫米槍械](https://zh.wikipedia.org/wiki/Category:5.45×39毫米槍械 "wikilink")
-[Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink")
-[Category:7.62×39毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×39毫米槍械 "wikilink")
-[Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink")
-[Category:.30-06口徑槍械](https://zh.wikipedia.org/wiki/Category:.30-06口徑槍械 "wikilink")
+[Category:半自動步槍](https://zh.wikipedia.org/wiki/Category:半自動步槍 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:5.45×39毫米槍械](https://zh.wikipedia.org/wiki/Category:5.45×39毫米槍械 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:7.62×39毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×39毫米槍械 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:.30-06口徑槍械](https://zh.wikipedia.org/wiki/Category:.30-06口徑槍械 "wikilink")
 
 1.
 
@@ -57,6 +41,4 @@ USA」並在[佛羅里達州開始生產他們的AK樣式步槍](https://zh.wiki
 4.
 5.
 
-6.  [Breaking: Izhmash & Kalashnikov Concern Now Sanctioned by US
-    Government](http://www.thefirearmblog.com/blog/2014/07/16/official-izmash-kalashnikov-concern-weapons-banned-importation-usa/)
-    - Thefirearmblog.com, 16 July 2014
+6.  [Breaking: Izhmash & Kalashnikov Concern Now Sanctioned by US Government](http://www.thefirearmblog.com/blog/2014/07/16/official-izmash-kalashnikov-concern-weapons-banned-importation-usa/) - Thefirearmblog.com, 16 July 2014

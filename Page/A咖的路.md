@@ -1004,18 +1004,8 @@
   - －華視
 
   -
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:2014年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2014年台灣電視劇集 "wikilink")
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
-[Category:華視電視劇](https://zh.wikipedia.org/wiki/Category:華視電視劇 "wikilink")
-[Category:TVBS電視劇](https://zh.wikipedia.org/wiki/Category:TVBS電視劇 "wikilink")
-[Category:聯利媒體製作電視節目](https://zh.wikipedia.org/wiki/Category:聯利媒體製作電視節目 "wikilink")
-[Category:演藝界題材電視劇](https://zh.wikipedia.org/wiki/Category:演藝界題材電視劇 "wikilink")
-[Category:搖滾樂題材電視劇](https://zh.wikipedia.org/wiki/Category:搖滾樂題材電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:2014年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2014年台灣電視劇集 "wikilink") [Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:華視電視劇](https://zh.wikipedia.org/wiki/Category:華視電視劇 "wikilink") [Category:TVBS電視劇](https://zh.wikipedia.org/wiki/Category:TVBS電視劇 "wikilink") [Category:聯利媒體製作電視節目](https://zh.wikipedia.org/wiki/Category:聯利媒體製作電視節目 "wikilink") [Category:演藝界題材電視劇](https://zh.wikipedia.org/wiki/Category:演藝界題材電視劇 "wikilink") [Category:搖滾樂題材電視劇](https://zh.wikipedia.org/wiki/Category:搖滾樂題材電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.
-2.  [夏于喬臉書:
-    四個月的「A咖的路」今天殺青了...](https://www.facebook.com/photo.php?fbid=629714133790497&set=np.210536585.619327796&type=1&ref=notif&notif_t=notify_me)
-3.  [《A咖》邁向日本之路
-    夏于喬肖想見木村](http://www.chinatimes.com/newspapers/20140522000690-260112?from=fb_share_mobile)
+2.  [夏于喬臉書: 四個月的「A咖的路」今天殺青了...](https://www.facebook.com/photo.php?fbid=629714133790497&set=np.210536585.619327796&type=1&ref=notif&notif_t=notify_me)
+3.  [《A咖》邁向日本之路 夏于喬肖想見木村](http://www.chinatimes.com/newspapers/20140522000690-260112?from=fb_share_mobile)

@@ -62,14 +62,7 @@
   -
   -
 
-[Category:肯塔基州州长](https://zh.wikipedia.org/wiki/Category:肯塔基州州长 "wikilink")
-[Category:肯塔基州共和党人](https://zh.wikipedia.org/wiki/Category:肯塔基州共和党人 "wikilink")
-[Category:肯塔基州律师](https://zh.wikipedia.org/wiki/Category:肯塔基州律师 "wikilink")
-[Category:美国陆军士兵](https://zh.wikipedia.org/wiki/Category:美国陆军士兵 "wikilink")
-[Category:美國第二次世界大戰軍事人物](https://zh.wikipedia.org/wiki/Category:美國第二次世界大戰軍事人物 "wikilink")
-[Category:美國循道宗教徒](https://zh.wikipedia.org/wiki/Category:美國循道宗教徒 "wikilink")
-[Category:肯塔基州人](https://zh.wikipedia.org/wiki/Category:肯塔基州人 "wikilink")
-[Category:死於心肌梗死的人](https://zh.wikipedia.org/wiki/Category:死於心肌梗死的人 "wikilink")
+[Category:肯塔基州州长](https://zh.wikipedia.org/wiki/Category:肯塔基州州长 "wikilink") [Category:肯塔基州共和党人](https://zh.wikipedia.org/wiki/Category:肯塔基州共和党人 "wikilink") [Category:肯塔基州律师](https://zh.wikipedia.org/wiki/Category:肯塔基州律师 "wikilink") [Category:美国陆军士兵](https://zh.wikipedia.org/wiki/Category:美国陆军士兵 "wikilink") [Category:美國第二次世界大戰軍事人物](https://zh.wikipedia.org/wiki/Category:美國第二次世界大戰軍事人物 "wikilink") [Category:美國循道宗教徒](https://zh.wikipedia.org/wiki/Category:美國循道宗教徒 "wikilink") [Category:肯塔基州人](https://zh.wikipedia.org/wiki/Category:肯塔基州人 "wikilink") [Category:死於心肌梗死的人](https://zh.wikipedia.org/wiki/Category:死於心肌梗死的人 "wikilink")
 
 1.
 

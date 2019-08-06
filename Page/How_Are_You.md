@@ -1,5 +1,4 @@
-《How Are You》（CD +
-DVD）是香港歌手[葉宇澄](../Page/葉宇澄.md "wikilink")第二張個人專輯，第一張個人大碟，於2006年6月30日推出。全碟共收錄十二首作品，當中六首曾收錄於第一張個人專輯內，其餘六首為新歌。
+《How Are You》（CD + DVD）是香港歌手[葉宇澄](../Page/葉宇澄.md "wikilink")第二張個人專輯，第一張個人大碟，於2006年6月30日推出。全碟共收錄十二首作品，當中六首曾收錄於第一張個人專輯內，其餘六首為新歌。
 
 ## 曲目
 
@@ -46,9 +45,7 @@ DVD）是香港歌手[葉宇澄](../Page/葉宇澄.md "wikilink")第二張個人
 
 \---
 
-  - [Boxing Promotions
-    Ltd.](https://zh.wikipedia.org/wiki/Boxing_Promotions_Ltd. "wikilink")
-  - Distributed by [Warner Music Hong Kong
-    Ltd.](https://zh.wikipedia.org/wiki/Warner_Music_Hong_Kong_Ltd. "wikilink")
+  - [Boxing Promotions Ltd.](https://zh.wikipedia.org/wiki/Boxing_Promotions_Ltd. "wikilink")
+  - Distributed by [Warner Music Hong Kong Ltd.](https://zh.wikipedia.org/wiki/Warner_Music_Hong_Kong_Ltd. "wikilink")
 
 [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

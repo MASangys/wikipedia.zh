@@ -11,30 +11,23 @@
   - 黑暗奥特曼（Ultraman Dark）
     在4万年前初次光临地球，因为“次元的坟墓”事件成为了奥特曼，曾被千禧奥特曼击败，后复活。
     拥有善良的本性，被神秘生物ELBO操控，不辨善恶。
-  - 精锐奥特曼（Ultraman
-    Elite）（由[郑伊健扮演](https://zh.wikipedia.org/wiki/郑伊健 "wikilink")）
+  - 精锐奥特曼（Ultraman Elite）（由[郑伊健扮演](https://zh.wikipedia.org/wiki/郑伊健 "wikilink")）
     附身于某一名BASE小队成员，协助BASE小队对抗支配人类文明的神秘组织S。
     精锐奥特曼有两倍于普通奥特曼的力量与速度，拥有“红族”血统，但比起其他奥特曼还稍显年轻，战斗经验较少。\[1\]
 
 ## 制作
 
-2005年5月24日，泰国采耀公司首席执行官Perasit
-Saengduenchai在新闻发布会上宣布，泰国采耀公司将于深圳玩具厂商先端玩具、广州锐视文化製作将联合制作52集电视剧《Project
-Ultraman》。这部奥特曼剧集由香港和泰国演员出演，且香港明星郑伊健将会作为主演饰演精锐奥特曼的人间体。并邀请好莱坞技术团队参与特效制作。\[2\]
+2005年5月24日，泰国采耀公司首席执行官Perasit Saengduenchai在新闻发布会上宣布，泰国采耀公司将于深圳玩具厂商先端玩具、广州锐视文化製作将联合制作52集电视剧《Project Ultraman》。这部奥特曼剧集由香港和泰国演员出演，且香港明星郑伊健将会作为主演饰演精锐奥特曼的人间体。并邀请好莱坞技术团队参与特效制作。\[2\]
 
-2006年初，《Project
-Ultraman》进入实拍阶段，采耀公司开始积极联系中国中央电视台和泰国、台湾、韩国、香港等地以及欧美地区的电视台商谈引进事宜，原定将于2007年暑季开播。\[3\]
+2006年初，《Project Ultraman》进入实拍阶段，采耀公司开始积极联系中国中央电视台和泰国、台湾、韩国、香港等地以及欧美地区的电视台商谈引进事宜，原定将于2007年暑季开播。\[3\]
 
-2006年11月，泰国一间戏院举行《Project Ultraman》记者会，郑伊健和Ray Mcdonald、Matthew
-DEean及女主角Paula Taylor出席记者会。\[4\]
+2006年11月，泰国一间戏院举行《Project Ultraman》记者会，郑伊健和Ray Mcdonald、Matthew DEean及女主角Paula Taylor出席记者会。\[4\]
 
-2008年，泰国法院宣布，圆谷的转让合同《1976年合同》有伪造嫌疑。法院责令采耀公司立即将《Project
-Ultraman》的相关资源连同三位采耀系原创奥特曼的文化衍生产物尽数销毁。\[5\]
+2008年，泰国法院宣布，圆谷的转让合同《1976年合同》有伪造嫌疑。法院责令采耀公司立即将《Project Ultraman》的相关资源连同三位采耀系原创奥特曼的文化衍生产物尽数销毁。\[5\]
 
 ## 参考
 
-[Category:靈長目電影](https://zh.wikipedia.org/wiki/Category:靈長目電影 "wikilink")
-[Category:科幻片](https://zh.wikipedia.org/wiki/Category:科幻片 "wikilink")
+[Category:靈長目電影](https://zh.wikipedia.org/wiki/Category:靈長目電影 "wikilink") [Category:科幻片](https://zh.wikipedia.org/wiki/Category:科幻片 "wikilink")
 
 1.
 

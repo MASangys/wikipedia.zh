@@ -84,8 +84,6 @@
 
 ## 參考文獻
 
-[Category:陳奕迅演唱會](https://zh.wikipedia.org/wiki/Category:陳奕迅演唱會 "wikilink")
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
+[Category:陳奕迅演唱會](https://zh.wikipedia.org/wiki/Category:陳奕迅演唱會 "wikilink") [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
 
-1.  [環球唱片 - Eason's Moving On
-    Stage 1](http://www.umg.com.hk/album/223/detail)
+1.  [環球唱片 - Eason's Moving On Stage 1](http://www.umg.com.hk/album/223/detail)

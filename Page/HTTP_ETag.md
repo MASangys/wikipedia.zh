@@ -21,8 +21,7 @@ ETag机制同时支持强校验和弱校验。它们通过ETag标识符的开头
 `"123456789"   -- 一个强ETag验证符`
 `W/"123456789"  -- 一个弱ETag验证符`
 
-强校验的ETag匹配要求两个资源内容的每个字节需完全相同，包括所有其他实体字段（如`Content-Language`）不发生变化。强ETag允许重新装配和缓存部分响应，以及[字节范围请求](https://zh.wikipedia.org/wiki/字节服务 "wikilink")。
-弱校验的ETag匹配要求两个资源在[语义上相等](https://zh.wikipedia.org/wiki/语义相等 "wikilink")，这意味着在实际情况下它们可以互换，而且缓存副本也可以使用。不过这些资源不需要每个字节相同，因此弱ETag不适合字节范围请求。当Web服务器无法生成强ETag的时候，比如[动态生成的内容](https://zh.wikipedia.org/wiki/动态网页 "wikilink")，弱ETag就可能发挥作用了。
+强校验的ETag匹配要求两个资源内容的每个字节需完全相同，包括所有其他实体字段（如`Content-Language`）不发生变化。强ETag允许重新装配和缓存部分响应，以及[字节范围请求](https://zh.wikipedia.org/wiki/字节服务 "wikilink")。 弱校验的ETag匹配要求两个资源在[语义上相等](https://zh.wikipedia.org/wiki/语义相等 "wikilink")，这意味着在实际情况下它们可以互换，而且缓存副本也可以使用。不过这些资源不需要每个字节相同，因此弱ETag不适合字节范围请求。当Web服务器无法生成强ETag的时候，比如[动态生成的内容](https://zh.wikipedia.org/wiki/动态网页 "wikilink")，弱ETag就可能发挥作用了。
 
 ## 典型用法
 
@@ -34,8 +33,7 @@ ETag机制同时支持强校验和弱校验。它们通过ETag标识符的开头
 
 `If-None-Match: "686897696a7c876b7e"`
 
-客户端请求之后，服务器可能会比较客户端的ETag和当前版本资源的ETag。如果ETag值匹配，这就意味着资源没有改变，服务器便会发送回一个极短的响应，包含HTTP
-“304 未修改”的状态。304状态告诉客户端，它的缓存版本是最新的，并应该使用它。
+客户端请求之后，服务器可能会比较客户端的ETag和当前版本资源的ETag。如果ETag值匹配，这就意味着资源没有改变，服务器便会发送回一个极短的响应，包含HTTP “304 未修改”的状态。304状态告诉客户端，它的缓存版本是最新的，并应该使用它。
 
 然而，如果ETag的值不匹配，这就意味着资源很可能发生了变化，那么，一个完整的响应就会被返回，包括资源的内容，就好像ETag没有被使用。这种情况下，客户端可以用新返回的资源和新的ETag替代先前的缓存版本。
 
@@ -43,9 +41,7 @@ ETag值可用于[网页监视系统](https://zh.wikipedia.org/wiki/变化监测�
 
 ## 用ETag来跟踪用户
 
-由于[HTTP
-cookie被越来越多的注重隐私保护的用户删除](https://zh.wikipedia.org/wiki/HTTP_cookie "wikilink")，可以将ETag用来追踪唯一用户\[2\]。2011年7月，[Ashkan
-Soltani和](https://zh.wikipedia.org/wiki/Ashkan_Soltani "wikilink")[加州大学伯克利分校的一组研究者](https://zh.wikipedia.org/wiki/加州大学伯克利分校 "wikilink")，包括[Hulu.com将ETag用于追踪用途](https://zh.wikipedia.org/wiki/Hulu.com "wikilink")。\[3\]Hulu和KISSmetrics在2011年7月29日停止了这样的追踪，\[4\]而KISSmetrics和超过20位其用户面临关于“无法删除”的cookie的集体诉讼，其中包括了ETag的使用。\[5\]
+由于[HTTP cookie被越来越多的注重隐私保护的用户删除](https://zh.wikipedia.org/wiki/HTTP_cookie "wikilink")，可以将ETag用来追踪唯一用户\[2\]。2011年7月，[Ashkan Soltani和](https://zh.wikipedia.org/wiki/Ashkan_Soltani "wikilink")[加州大学伯克利分校的一组研究者](https://zh.wikipedia.org/wiki/加州大学伯克利分校 "wikilink")，包括[Hulu.com将ETag用于追踪用途](https://zh.wikipedia.org/wiki/Hulu.com "wikilink")。\[3\]Hulu和KISSmetrics在2011年7月29日停止了这样的追踪，\[4\]而KISSmetrics和超过20位其用户面临关于“无法删除”的cookie的集体诉讼，其中包括了ETag的使用。\[5\]
 
 因为ETag由浏览器保存，并且在访问统一资源时随之后请求返回，一个追踪服务器可以轻松地重复设定任何从浏览器收到的ETag，以保持ETag不变，类似于持久cookie。额外的缓存头部也能增强ETag的持久性。\[6\]
 
@@ -57,35 +53,19 @@ Soltani和](https://zh.wikipedia.org/wiki/Ashkan_Soltani "wikilink")[加州大�
 
 ## 外部链接
 
-  - [Apache HTTP Server Documentation - FileETag
-    Directive](http://httpd.apache.org/docs/2.2/mod/core.html#fileETag)
-  - *[Editing the Web: Detecting the Lost Update Problem Using
-    Unreserved Checkout](http://www.w3.org/1999/04/Editing/),* W3C Note,
-    10 May 1999.
-  - [Old SQUID Development projects - ETag
-    support](http://devel.squid-cache.org/old_projects.html#ETag)
-    (completed in 2001)
-  - [Using ETags to Reduce Bandwidth & Workload with Spring &
-    Hibernate](http://www.infoq.com/articles/ETags)
-  - [Live demo of zombie cookie using
-    ETags](https://web.archive.org/web/20130811125909/http://noc.to/)
-  - [ETag in HTTP/1.1
-    specification](http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.19)
-  - [Concerning ETags and
-    Datestamps](https://web.archive.org/web/20110722001110/http://iwaw.europarchive.org/04/Clausen.pdf)
-    by Lars R. Clausen (2004)
+  - [Apache HTTP Server Documentation - FileETag Directive](http://httpd.apache.org/docs/2.2/mod/core.html#fileETag)
+  - *[Editing the Web: Detecting the Lost Update Problem Using Unreserved Checkout](http://www.w3.org/1999/04/Editing/),* W3C Note, 10 May 1999.
+  - [Old SQUID Development projects - ETag support](http://devel.squid-cache.org/old_projects.html#ETag) (completed in 2001)
+  - [Using ETags to Reduce Bandwidth & Workload with Spring & Hibernate](http://www.infoq.com/articles/ETags)
+  - [Live demo of zombie cookie using ETags](https://web.archive.org/web/20130811125909/http://noc.to/)
+  - [ETag in HTTP/1.1 specification](http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.19)
+  - [Concerning ETags and Datestamps](https://web.archive.org/web/20110722001110/http://iwaw.europarchive.org/04/Clausen.pdf) by Lars R. Clausen (2004)
 
-[Category:超文本传输协议头部](https://zh.wikipedia.org/wiki/Category:超文本传输协议头部 "wikilink")
-[Category:互联网隐私](https://zh.wikipedia.org/wiki/Category:互联网隐私 "wikilink")
-[Category:缓存_(计算机)](https://zh.wikipedia.org/wiki/Category:缓存_\(计算机\) "wikilink")
-[Category:代理服务器](https://zh.wikipedia.org/wiki/Category:代理服务器 "wikilink")
+[Category:超文本传输协议头部](https://zh.wikipedia.org/wiki/Category:超文本传输协议头部 "wikilink") [Category:互联网隐私](https://zh.wikipedia.org/wiki/Category:互联网隐私 "wikilink") [Category:缓存_(计算机)](https://zh.wikipedia.org/wiki/Category:缓存_\(计算机\) "wikilink") [Category:代理服务器](https://zh.wikipedia.org/wiki/Category:代理服务器 "wikilink")
 
 1.
 2.
 3.
 4.
-5.  [AOL, Spotify, GigaOm, Etsy, KISSmetrics sued over undeletable
-    tracking
-    cookies](http://www.extremetech.com/internet/91966-aol-spotify-gigaom-etsy-kissmetrics-sued-over-undeletable-tracking-cookies)
-6.  [Cookieless cookies (using ETags as
-    cookies)](https://github.com/lucb1e/cookielesscookies)
+5.  [AOL, Spotify, GigaOm, Etsy, KISSmetrics sued over undeletable tracking cookies](http://www.extremetech.com/internet/91966-aol-spotify-gigaom-etsy-kissmetrics-sued-over-undeletable-tracking-cookies)
+6.  [Cookieless cookies (using ETags as cookies)](https://github.com/lucb1e/cookielesscookies)

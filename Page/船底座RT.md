@@ -2,10 +2,7 @@
 
 ## 恆星狀況
 
-船底座RT是一顆紅[超巨星](../Page/超巨星.md "wikilink")，其[恆星光譜分類為M](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")2I，在[赫羅圖](../Page/赫羅圖.md "wikilink")中的位置為右上方。\[2\]所有紅超巨星均位於赫羅圖的右上方，它們的亮度均非常高，但有效溫度卻相對[主序星](../Page/主序星.md "wikilink")低。天文學家們測量出這顆恆星的半徑為[太陽半徑的](https://zh.wikipedia.org/wiki/太陽半徑 "wikilink")1,090倍，因此成為人類已知體積最大的恆星之一\[3\]。（人類已知體積最大的恆星為[盾牌座UY](../Page/盾牌座UY.md "wikilink")，其半徑為太陽半徑的1,708倍。\[4\]）作為一顆紅超巨星，船底座RT的亮度也非常高，為太陽亮度的180,000至220,000倍，且很可能是200,000倍。但是，其[有效溫度](../Page/有效溫度.md "wikilink")非常低，僅為3625
-[K](https://zh.wikipedia.org/wiki/開氏溫標 "wikilink")，比太陽的有效溫度（5778
-K\[5\]）低逾2000
-K。雖然其有效溫度較低，從而減低亮度，但因為其表面面積極大，所以大幅增加了其亮度。因此，船底座RT比太陽還要明亮20萬倍。儘管其亮度是如此之高，但因為與地球距離極遠，所以[視星等僅為](https://zh.wikipedia.org/wiki/視星等 "wikilink")8.55等。\[6\]\[7\]這代表船底座RT在夜空中是不可被肉眼所看見的，需要透過望遠鏡才能觀看。另外，包圍船底座RT的塵埃雲亦減低了其亮度。\[8\]
+船底座RT是一顆紅[超巨星](../Page/超巨星.md "wikilink")，其[恆星光譜分類為M](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")2I，在[赫羅圖](../Page/赫羅圖.md "wikilink")中的位置為右上方。\[2\]所有紅超巨星均位於赫羅圖的右上方，它們的亮度均非常高，但有效溫度卻相對[主序星](../Page/主序星.md "wikilink")低。天文學家們測量出這顆恆星的半徑為[太陽半徑的](https://zh.wikipedia.org/wiki/太陽半徑 "wikilink")1,090倍，因此成為人類已知體積最大的恆星之一\[3\]。（人類已知體積最大的恆星為[盾牌座UY](../Page/盾牌座UY.md "wikilink")，其半徑為太陽半徑的1,708倍。\[4\]）作為一顆紅超巨星，船底座RT的亮度也非常高，為太陽亮度的180,000至220,000倍，且很可能是200,000倍。但是，其[有效溫度](../Page/有效溫度.md "wikilink")非常低，僅為3625 [K](https://zh.wikipedia.org/wiki/開氏溫標 "wikilink")，比太陽的有效溫度（5778 K\[5\]）低逾2000 K。雖然其有效溫度較低，從而減低亮度，但因為其表面面積極大，所以大幅增加了其亮度。因此，船底座RT比太陽還要明亮20萬倍。儘管其亮度是如此之高，但因為與地球距離極遠，所以[視星等僅為](https://zh.wikipedia.org/wiki/視星等 "wikilink")8.55等。\[6\]\[7\]這代表船底座RT在夜空中是不可被肉眼所看見的，需要透過望遠鏡才能觀看。另外，包圍船底座RT的塵埃雲亦減低了其亮度。\[8\]
 
 ## 變星
 
@@ -24,16 +21,11 @@ K。雖然其有效溫度較低，從而減低亮度，但因為其表面面積�
 
 ## 參考文獻
 
-[Category:船底座](https://zh.wikipedia.org/wiki/Category:船底座 "wikilink")
-[Category:变星](https://zh.wikipedia.org/wiki/Category:变星 "wikilink")
-[Category:紅超巨星](https://zh.wikipedia.org/wiki/Category:紅超巨星 "wikilink")
-[Category:以变星命名法命名的天体](https://zh.wikipedia.org/wiki/Category:以变星命名法命名的天体 "wikilink")
-[Category:HD和HDE天體](https://zh.wikipedia.org/wiki/Category:HD和HDE天體 "wikilink")
+[Category:船底座](https://zh.wikipedia.org/wiki/Category:船底座 "wikilink") [Category:变星](https://zh.wikipedia.org/wiki/Category:变星 "wikilink") [Category:紅超巨星](https://zh.wikipedia.org/wiki/Category:紅超巨星 "wikilink") [Category:以变星命名法命名的天体](https://zh.wikipedia.org/wiki/Category:以变星命名法命名的天体 "wikilink") [Category:HD和HDE天體](https://zh.wikipedia.org/wiki/Category:HD和HDE天體 "wikilink")
 
 1.  Table 4 in
 
-2.  [RT Car (RT
-    Carinae)](http://www.kusastro.kyoto-u.ac.jp/vsnet/gcvs2/CARRT.html)
+2.  [RT Car (RT Carinae)](http://www.kusastro.kyoto-u.ac.jp/vsnet/gcvs2/CARRT.html)
 
 3.
 4.
@@ -41,28 +33,18 @@ K。雖然其有效溫度較低，從而減低亮度，但因為其表面面積�
 5.
 
 6.
-7.  [Constellation of Carina | Shoalhaven
-    Astronomers](http://www.shoalhavenastronomers.asn.au/constellations/carina/)
+7.  [Constellation of Carina | Shoalhaven Astronomers](http://www.shoalhavenastronomers.asn.au/constellations/carina/)
 
-8.  \[<http://adsabs.harvard.edu/abs/1986ApL>....25...39F RT Carinae; a
-    late type supergiant within an elongated dusty nebula\]
+8.  \[<http://adsabs.harvard.edu/abs/1986ApL>....25...39F RT Carinae; a late type supergiant within an elongated dusty nebula\]
 
 9.
 
-10. \[<http://adsabs.harvard.edu/full/1906HarCi.122>....1L Thirty-Six
-    New Variable Stars. - SAO/NASA Astrophysics Data System (ADS)\]
+10. \[<http://adsabs.harvard.edu/full/1906HarCi.122>....1L Thirty-Six New Variable Stars. - SAO/NASA Astrophysics Data System (ADS)\]
 
 11.
 
-12. —Select "Ephemeris Type: Orbital Elements", "Time Span: 2000-01-01
-    12:00 to 2000-01-02". ("Target Body: Mars" and "Center: Sun" should
-    be defaulted to.) Results are instantaneous
-    [osculating](https://zh.wikipedia.org/wiki/osculating_orbit "wikilink")
-    values at the precise
-    [J2000](https://zh.wikipedia.org/wiki/J2000 "wikilink") epoch.
+12. —Select "Ephemeris Type: Orbital Elements", "Time Span: 2000-01-01 12:00 to 2000-01-02". ("Target Body: Mars" and "Center: Sun" should be defaulted to.) Results are instantaneous [osculating](https://zh.wikipedia.org/wiki/osculating_orbit "wikilink") values at the precise [J2000](https://zh.wikipedia.org/wiki/J2000 "wikilink") epoch.
 
-13.  – Select "Ephemeris Type: Orbital Elements", "Time Span: 2000-01-01
-    12:00 to 2000-01-02". ("Target Body: Jupiter Barycenter" and
-    "Center: Sun" should be defaulted to.)
+13.  – Select "Ephemeris Type: Orbital Elements", "Time Span: 2000-01-01 12:00 to 2000-01-02". ("Target Body: Jupiter Barycenter" and "Center: Sun" should be defaulted to.)
 
 14.

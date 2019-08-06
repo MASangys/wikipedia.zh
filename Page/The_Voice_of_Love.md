@@ -1,5 +1,4 @@
-《**The Voice Of
-Love**》是[香港](../Page/香港.md "wikilink")歌手[鄭欣宜](../Page/鄭欣宜.md "wikilink")的第三張個人唱片，於2013年12月13日推出。
+《**The Voice Of Love**》是[香港](../Page/香港.md "wikilink")歌手[鄭欣宜](../Page/鄭欣宜.md "wikilink")的第三張個人唱片，於2013年12月13日推出。
 
 ## 曲目資料
 
@@ -53,7 +52,4 @@ Love**》是[香港](../Page/香港.md "wikilink")歌手[鄭欣宜](../Page/鄭�
 
 ## 參考資料
 
-[Category:愛·回家](https://zh.wikipedia.org/wiki/Category:愛·回家 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:鄭欣宜音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭欣宜音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:愛·回家](https://zh.wikipedia.org/wiki/Category:愛·回家 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:鄭欣宜音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭欣宜音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

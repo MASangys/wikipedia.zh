@@ -1,12 +1,8 @@
-《**浪漫滿屋 TAKE
-2**》（，）是一部中韓日三國聯合製作的[韓國電視劇](../Page/韓國電視劇.md "wikilink")。與2004年[宋慧喬](../Page/宋慧喬.md "wikilink")和[Rain](../Page/Rain.md "wikilink")主演的《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》一樣是以契約婚姻為主軸，所製作的第二版電視劇，由日本[TBS](../Page/TBS.md "wikilink")在2012年10月5日率先播出，其後自2012年10月22日起週一至週四中午12:30於韓國有線台SBS
-Plus播出。
+《**浪漫滿屋 TAKE 2**》（，）是一部中韓日三國聯合製作的[韓國電視劇](../Page/韓國電視劇.md "wikilink")。與2004年[宋慧喬](../Page/宋慧喬.md "wikilink")和[Rain](../Page/Rain.md "wikilink")主演的《[浪漫滿屋](https://zh.wikipedia.org/wiki/浪漫滿屋 "wikilink")》一樣是以契約婚姻為主軸，所製作的第二版電視劇，由日本[TBS](../Page/TBS.md "wikilink")在2012年10月5日率先播出，其後自2012年10月22日起週一至週四中午12:30於韓國有線台SBS Plus播出。
 
 ## 劇情
 
-講述夢想成為設計師的張滿屋（[黃正音](https://zh.wikipedia.org/wiki/黃正音 "wikilink")
-飾）偽裝成偶像明星李泰益（[魯敏宇](https://zh.wikipedia.org/wiki/魯敏宇 "wikilink")
-飾）的造型師後所發生的一系列故事。\[1\]
+講述夢想成為設計師的張滿屋（[黃正音](https://zh.wikipedia.org/wiki/黃正音 "wikilink") 飾）偽裝成偶像明星李泰益（[魯敏宇](https://zh.wikipedia.org/wiki/魯敏宇 "wikilink") 飾）的造型師後所發生的一系列故事。\[1\]
 
 ## 演員陣容
 
@@ -82,12 +78,6 @@ Plus播出。
 
   -
   -
-[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink")
-[Category:SBS電視劇](https://zh.wikipedia.org/wiki/Category:SBS電視劇 "wikilink")
-[Category:韓國漫畫改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國漫畫改編韓國電視劇 "wikilink")
-[Category:亞洲合拍劇](https://zh.wikipedia.org/wiki/Category:亞洲合拍劇 "wikilink")
-[Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink") [Category:SBS電視劇](https://zh.wikipedia.org/wiki/Category:SBS電視劇 "wikilink") [Category:韓國漫畫改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國漫畫改編韓國電視劇 "wikilink") [Category:亞洲合拍劇](https://zh.wikipedia.org/wiki/Category:亞洲合拍劇 "wikilink") [Category:緯來電視外購韓劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購韓劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
-1.  [黃靜茵、魯敏宇主演《浪漫滿屋Take 2》舉行製作發佈會](http://www.koreastardaily.com/tc/photo/21727)
-    韓星網
+1.  [黃靜茵、魯敏宇主演《浪漫滿屋Take 2》舉行製作發佈會](http://www.koreastardaily.com/tc/photo/21727) 韓星網

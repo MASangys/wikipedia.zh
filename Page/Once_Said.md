@@ -1,5 +1,4 @@
-《**Once
-Said**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[連詩雅的第三張音樂專輯](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")、第二張全主打EP，於2014年7月31日推出。全碟共有五首歌曲。
+《**Once Said**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[連詩雅的第三張音樂專輯](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")、第二張全主打EP，於2014年7月31日推出。全碟共有五首歌曲。
 
 ## 曲目
 
@@ -65,9 +64,4 @@ Said**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikiped
   - 第三十七屆十大中文金曲頒獎音樂會 - 十大中文金曲 - 《只要和你在一起》
   - IFPI香港唱片銷量大獎頒獎禮2014 - 十大數碼暢銷歌曲 - 《只要和你在一起》
 
-[Category:連詩雅音樂專輯](https://zh.wikipedia.org/wiki/Category:連詩雅音樂專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:香港華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:香港華納唱片音樂專輯 "wikilink")
+[Category:連詩雅音樂專輯](https://zh.wikipedia.org/wiki/Category:連詩雅音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:香港華納唱片音樂專輯 "wikilink")

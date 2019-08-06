@@ -17,5 +17,4 @@
 
 [Category:日本女子足球俱樂部](https://zh.wikipedia.org/wiki/Category:日本女子足球俱樂部 "wikilink")
 
-1.  [Profile](http://www.nadeshikoleague.jp/team/i-kobe.html)  in the L.
-    League's official website
+1.  [Profile](http://www.nadeshikoleague.jp/team/i-kobe.html)  in the L. League's official website

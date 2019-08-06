@@ -28,8 +28,6 @@
 
   - [歌曲列表](http://www.kuwo.cn/album/533/)
 
-[Category:1995年音樂專輯](https://zh.wikipedia.org/wiki/Category:1995年音樂專輯 "wikilink")
-[Category:劉德華音樂專輯](https://zh.wikipedia.org/wiki/Category:劉德華音樂專輯 "wikilink")
-[Category:1995年4月](https://zh.wikipedia.org/wiki/Category:1995年4月 "wikilink")
+[Category:1995年音樂專輯](https://zh.wikipedia.org/wiki/Category:1995年音樂專輯 "wikilink") [Category:劉德華音樂專輯](https://zh.wikipedia.org/wiki/Category:劉德華音樂專輯 "wikilink") [Category:1995年4月](https://zh.wikipedia.org/wiki/Category:1995年4月 "wikilink")
 
 1.  [Memories](http://www.kuwo.cn/album/533/)

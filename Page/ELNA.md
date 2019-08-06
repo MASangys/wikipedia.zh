@@ -16,6 +16,4 @@
 
   - [エルナー株式会社](http://www.elna.co.jp/)
 
-[Category:神奈川縣公司](https://zh.wikipedia.org/wiki/Category:神奈川縣公司 "wikilink")
-[Category:日本電子公司](https://zh.wikipedia.org/wiki/Category:日本電子公司 "wikilink")
-[Category:港北區_(日本)](https://zh.wikipedia.org/wiki/Category:港北區_\(日本\) "wikilink")
+[Category:神奈川縣公司](https://zh.wikipedia.org/wiki/Category:神奈川縣公司 "wikilink") [Category:日本電子公司](https://zh.wikipedia.org/wiki/Category:日本電子公司 "wikilink") [Category:港北區_(日本)](https://zh.wikipedia.org/wiki/Category:港北區_\(日本\) "wikilink")

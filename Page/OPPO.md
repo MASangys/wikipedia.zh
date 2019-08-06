@@ -1,6 +1,4 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:Oppo_R7_Plus_smartphone_\(26420357270\).jpg "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:OPPO_N1_\(15059746038\).jpg "fig:缩略图")
-**廣東歐珀移動通信有限公司**，品牌名称**OPPO**，是[中國大陸电子设备及智能终端制造公司](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，总部位于广东省东莞市，成立初期以生产MP3、MP4、DVD等影音播放设备为主，后进军手机市场，推出以快速充电及影像处理为主要卖点的拍照智能手机。\[1\]
+[缩略图](https://zh.wikipedia.org/wiki/File:Oppo_R7_Plus_smartphone_\(26420357270\).jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:OPPO_N1_\(15059746038\).jpg "fig:缩略图") **廣東歐珀移動通信有限公司**，品牌名称**OPPO**，是[中國大陸电子设备及智能终端制造公司](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，总部位于广东省东莞市，成立初期以生产MP3、MP4、DVD等影音播放设备为主，后进军手机市场，推出以快速充电及影像处理为主要卖点的拍照智能手机。\[1\]
 
 ## 发展历程
 
@@ -14,8 +12,7 @@
 
 2006年，OPPO推出首款[MP4播放器](../Page/MP4播放器.md "wikilink")。
 
-2018年，OPPO宣佈將會停止開發新的影碟機產品，現存的兩個型號4K
-UHD藍光影碟，將會是最後的藍光碟機，現有型號仍會銷售及提供一切的售後服務。。
+2018年，OPPO宣佈將會停止開發新的影碟機產品，現存的兩個型號4K UHD藍光影碟，將會是最後的藍光碟機，現有型號仍會銷售及提供一切的售後服務。。
 
 ### 手机产品时期
 
@@ -23,99 +20,65 @@ UHD藍光影碟，將會是最後的藍光碟機，現有型號仍會銷售及�
 
 2011年，OPPO推出X903手机，進軍智能手機領域。
 
-2012年6月，OPPO發布智能手機[OPPO
-Finder](https://zh.wikipedia.org/wiki/OPPO_Finder "wikilink")。
+2012年6月，OPPO發布智能手機[OPPO Finder](https://zh.wikipedia.org/wiki/OPPO_Finder "wikilink")。
 
-2012年12月，OPPO發布智能手機[OPPO Find
-5](https://zh.wikipedia.org/wiki/OPPO_Find_5 "wikilink")。
+2012年12月，OPPO發布智能手機[OPPO Find 5](https://zh.wikipedia.org/wiki/OPPO_Find_5 "wikilink")。
 
 2013年4月，OPPO推出基於[Android](../Page/Android.md "wikilink")的定制系統[ColorOS](../Page/ColorOS.md "wikilink")。
 
 2013年9月，OPPO發布智能手機[OPPO N1](../Page/OPPO_N1.md "wikilink")。\[2\]\[3\]
 
-2013年12月，OPPO發布智能手機 [OPPO
-R1](https://zh.wikipedia.org/wiki/OPPO_R1 "wikilink")
+2013年12月，OPPO發布智能手機 [OPPO R1](https://zh.wikipedia.org/wiki/OPPO_R1 "wikilink")
 
 2014年3月，OPPO發布智能手機[OPPO Find 7](../Page/OPPO_Find_7.md "wikilink")。
 
-2014年6月，OPPO發布智能手機[OPPO N1
-Mini和](https://zh.wikipedia.org/wiki/OPPO_N1_Mini "wikilink")[OPPO
-R1L](https://zh.wikipedia.org/wiki/OPPO_R1L "wikilink")。
+2014年6月，OPPO發布智能手機[OPPO N1 Mini和](https://zh.wikipedia.org/wiki/OPPO_N1_Mini "wikilink")[OPPO R1L](https://zh.wikipedia.org/wiki/OPPO_R1L "wikilink")。
 
-2014年9月，OPPO發布智能手機 [OPPO
-R3](https://zh.wikipedia.org/wiki/OPPO_R3 "wikilink")
+2014年9月，OPPO發布智能手機 [OPPO R3](https://zh.wikipedia.org/wiki/OPPO_R3 "wikilink")
 
-2014年10月，OPPO發布智能手機[OPPO
-N3和](https://zh.wikipedia.org/wiki/OPPO_N3 "wikilink")[OPPO
-R5](https://zh.wikipedia.org/wiki/OPPO_R5 "wikilink")。
+2014年10月，OPPO發布智能手機[OPPO N3和](https://zh.wikipedia.org/wiki/OPPO_N3 "wikilink")[OPPO R5](https://zh.wikipedia.org/wiki/OPPO_R5 "wikilink")。
 
-2015年5月，OPPO發布智能手機[OPPO
-R7和](https://zh.wikipedia.org/wiki/OPPO_R7_/_R7_Plus "wikilink")[OPPO
-R7 Plus](https://zh.wikipedia.org/wiki/OPPO_R7_/_R7_Plus "wikilink")。
+2015年5月，OPPO發布智能手機[OPPO R7和](https://zh.wikipedia.org/wiki/OPPO_R7_/_R7_Plus "wikilink")[OPPO R7 Plus](https://zh.wikipedia.org/wiki/OPPO_R7_/_R7_Plus "wikilink")。
 
-2015年10月，OPPO發布智能手機[OPPO
-R7s](https://zh.wikipedia.org/wiki/OPPO_R7s "wikilink")。
+2015年10月，OPPO發布智能手機[OPPO R7s](https://zh.wikipedia.org/wiki/OPPO_R7s "wikilink")。
 
 2016年2月，OPPO於[MWC中发布所谓的](https://zh.wikipedia.org/wiki/MWC "wikilink")[SuperVOOC超級閃充](https://zh.wikipedia.org/wiki/SuperVOOC超級閃充 "wikilink")。
 
-2016年3月，OPPO舉行春季新品發布會，發布智慧型手機[OPPO
-R9和](https://zh.wikipedia.org/wiki/OPPO_R9_/_R9_Plus "wikilink")[OPPO
-R9 Plus](https://zh.wikipedia.org/wiki/OPPO_R9_/_R9_Plus "wikilink")。
+2016年3月，OPPO舉行春季新品發布會，發布智慧型手機[OPPO R9和](https://zh.wikipedia.org/wiki/OPPO_R9_/_R9_Plus "wikilink")[OPPO R9 Plus](https://zh.wikipedia.org/wiki/OPPO_R9_/_R9_Plus "wikilink")。
 
-2016年10月19日，於上海正式發表發布智慧型手機[OPPO
-R9s和](https://zh.wikipedia.org/wiki/OPPO_R9s_/_R9s_Plus "wikilink")[OPPO
-R9s Plus](https://zh.wikipedia.org/wiki/OPPO_R9s_/_R9s_Plus "wikilink")。
+2016年10月19日，於上海正式發表發布智慧型手機[OPPO R9s和](https://zh.wikipedia.org/wiki/OPPO_R9s_/_R9s_Plus "wikilink")[OPPO R9s Plus](https://zh.wikipedia.org/wiki/OPPO_R9s_/_R9s_Plus "wikilink")。
 
 2017年2月，OPPO於MWC中發表[5X相機技術](https://zh.wikipedia.org/wiki/5X相機技術 "wikilink")。
 
-2017年3月，OPPO於[印度](../Page/印度.md "wikilink")等海外市場發布[OPPO
-F3](https://zh.wikipedia.org/wiki/OPPO_F3 "wikilink")、[OPPO F3
-Plus](https://zh.wikipedia.org/wiki/OPPO_F3_Plus "wikilink")。
+2017年3月，OPPO於[印度](../Page/印度.md "wikilink")等海外市場發布[OPPO F3](https://zh.wikipedia.org/wiki/OPPO_F3 "wikilink")、[OPPO F3 Plus](https://zh.wikipedia.org/wiki/OPPO_F3_Plus "wikilink")。
 
-2017年6月，OPPO發布智慧型手機[OPPO
-R11](https://zh.wikipedia.org/wiki/OPPO_R11_/_R11_Plus "wikilink")、[OPPO
-R11 Plus](https://zh.wikipedia.org/wiki/OPPO_R11_/_R11_Plus "wikilink")。
+2017年6月，OPPO發布智慧型手機[OPPO R11](https://zh.wikipedia.org/wiki/OPPO_R11_/_R11_Plus "wikilink")、[OPPO R11 Plus](https://zh.wikipedia.org/wiki/OPPO_R11_/_R11_Plus "wikilink")。
 
-2017年10月，OPPO發布智慧型手機[OPPO
-F5](https://zh.wikipedia.org/wiki/OPPO_A75 "wikilink")、[OPPO F5
-Youth](../Page/OPPO_A73.md "wikilink")。
+2017年10月，OPPO發布智慧型手機[OPPO F5](https://zh.wikipedia.org/wiki/OPPO_A75 "wikilink")、[OPPO F5 Youth](../Page/OPPO_A73.md "wikilink")。
 
-2017年11月2日，[OPPO
-R11s及](https://zh.wikipedia.org/wiki/OPPO_R11s_/_R11s_Plus "wikilink")[OPPO
-R11s
-Plus發布](https://zh.wikipedia.org/wiki/OPPO_R11s_/_R11s_Plus "wikilink")，在12月上市
+2017年11月2日，[OPPO R11s及](https://zh.wikipedia.org/wiki/OPPO_R11s_/_R11s_Plus "wikilink")[OPPO R11s Plus發布](https://zh.wikipedia.org/wiki/OPPO_R11s_/_R11s_Plus "wikilink")，在12月上市
 
-2018年3月，OPPO發布智慧型手機[OPPO
-R15](https://zh.wikipedia.org/wiki/OPPO_R15_/_R15_Pro "wikilink")、[OPPO
-R15 Pro](https://zh.wikipedia.org/wiki/OPPO_R15_/_R15_Pro "wikilink")。
+2018年3月，OPPO發布智慧型手機[OPPO R15](https://zh.wikipedia.org/wiki/OPPO_R15_/_R15_Pro "wikilink")、[OPPO R15 Pro](https://zh.wikipedia.org/wiki/OPPO_R15_/_R15_Pro "wikilink")。
 
-2018年6月，OPPO宣布Find系列回歸，推出Find系列新機[OPPO Find
-X](../Page/OPPO_Find_X.md "wikilink")，稱為「未來旗艦」。
+2018年6月，OPPO宣布Find系列回歸，推出Find系列新機[OPPO Find X](../Page/OPPO_Find_X.md "wikilink")，稱為「未來旗艦」。
 
-2018年8月，OPPO發布智慧型手機[OPPO
-R17](https://zh.wikipedia.org/wiki/OPPO_R17_/_R17_Pro "wikilink")、[OPPO
-R17 Pro](https://zh.wikipedia.org/wiki/OPPO_R17_/_R17_Pro "wikilink")。
+2018年8月，OPPO發布智慧型手機[OPPO R17](https://zh.wikipedia.org/wiki/OPPO_R17_/_R17_Pro "wikilink")、[OPPO R17 Pro](https://zh.wikipedia.org/wiki/OPPO_R17_/_R17_Pro "wikilink")。
 
-2019年4月，OPPO發布智慧型手機[OPPO Reno](../Page/OPPO_Reno.md "wikilink")、[OPPO
-Reno 10倍變焦版](../Page/OPPO_Reno.md "wikilink")
+2019年4月，OPPO發布智慧型手機[OPPO Reno](../Page/OPPO_Reno.md "wikilink")、[OPPO Reno 10倍變焦版](../Page/OPPO_Reno.md "wikilink")
 
 ## 產品列表
 
 ### Find系列
 
-Find系列為OPPO的雙旗艦系列之一，“旗艦級”的規格著稱。從2011年发布的首支手機Find me開始，共出了Find
-me、Finder、Find 5、Find 7五款手機。OPPO在2018年6月1日宣佈Find系列新機[Find
-X](../Page/OPPO_Find_X.md "wikilink")，稱為“未來旗艦”。
+Find系列為OPPO的雙旗艦系列之一，“旗艦級”的規格著稱。從2011年发布的首支手機Find me開始，共出了Find me、Finder、Find 5、Find 7五款手機。OPPO在2018年6月1日宣佈Find系列新機[Find X](../Page/OPPO_Find_X.md "wikilink")，稱為“未來旗艦”。
 
 ### N系列
 
-N系列為OPPO的雙旗艦系列之一，以相機由可旋轉200度以上的旋轉鏡頭著称，從2013年发布的首支手機[N1開始](../Page/OPPO_N1.md "wikilink")，共出了[N1](../Page/OPPO_N1.md "wikilink")、N1
-mini、N3三款手機。N3之後均暫無再推出續作。
+N系列為OPPO的雙旗艦系列之一，以相機由可旋轉200度以上的旋轉鏡頭著称，從2013年发布的首支手機[N1開始](../Page/OPPO_N1.md "wikilink")，共出了[N1](../Page/OPPO_N1.md "wikilink")、N1 mini、N3三款手機。N3之後均暫無再推出續作。
 
 ### R系列
 
-R系列為OPPO的中高端手機系列，採用金屬機身設計，也是OPPO到目前為止的主力系列。R系列搭配了中端處理器，并于OPPO
-R5之後搭配VOOC閃充技術。
+R系列為OPPO的中高端手機系列，採用金屬機身設計，也是OPPO到目前為止的主力系列。R系列搭配了中端處理器，并于OPPO R5之後搭配VOOC閃充技術。
 
 R系列的銷售量自R9開始增長。\[4\]，成長幅度與2015年相比達109%。
 
@@ -129,9 +92,7 @@ R9s於2016年10月19日在上海发布。\[5\]，更在機種銷售排行榜上�
 
 2018年3月19日，OPPO发布R15系列手机，外观跟随苹果手机的“-{zh-hans:刘海;zh-hant:瀏海}-”风格。
 
-2018年8月23日，OPPO正式发布R17系列手机，采用全新“水滴屏”屏幕设计。R17
-Pro更是采用了后置三摄像头，其中一枚摄像头搭载[TOF](https://en.wikipedia.org/wiki/Time_of_flight)3D立体摄像头，主摄像头则采用可变动光圈，用于提升夜间拍摄。R17
-Pro也配备了SuperVOOC超级闪充，10分钟可充至40%。
+2018年8月23日，OPPO正式发布R17系列手机，采用全新“水滴屏”屏幕设计。R17 Pro更是采用了后置三摄像头，其中一枚摄像头搭载[TOF](https://en.wikipedia.org/wiki/Time_of_flight)3D立体摄像头，主摄像头则采用可变动光圈，用于提升夜间拍摄。R17 Pro也配备了SuperVOOC超级闪充，10分钟可充至40%。
 
 | 型号                                                                           | 发布时间     | 首发最低售价（人民币）                                            | [系统芯片](../Page/系统芯片.md "wikilink")型号                                                                                              |
 | ---------------------------------------------------------------------------- | -------- | ------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -153,13 +114,9 @@ OPPO R系列
 
 ### F系列
 
-F系列為OPPO的中端手機系列，宣傳以前置相機自拍美顏為主要特色。從2015年發表的首支手機開始，共有F1、F1s、F1 Plus、F3、F3
-Plus、[F5](https://zh.wikipedia.org/wiki/OPPO_A75 "wikilink")、[F5
-Youth](../Page/OPPO_A73.md "wikilink")、F7 、[F7
-Youth](../Page/OPPO_A73s.md "wikilink") 、 F9（F9 Pro）和 F11 Pro。
+F系列為OPPO的中端手機系列，宣傳以前置相機自拍美顏為主要特色。從2015年發表的首支手機開始，共有F1、F1s、F1 Plus、F3、F3 Plus、[F5](https://zh.wikipedia.org/wiki/OPPO_A75 "wikilink")、[F5 Youth](../Page/OPPO_A73.md "wikilink")、F7 、[F7 Youth](../Page/OPPO_A73s.md "wikilink") 、 F9（F9 Pro）和 F11 Pro。
 
-值得注意的是，R9與F1
-Plus為同款手機，僅因區分各國市場而在不同國家而有不同稱呼。為了全球命名統一化及市場區隔，F系列自F3開始，均只有在[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[菲律賓等國家販售](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")。未來在[中國大陸](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[澳洲和](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[紐西蘭市場都不會有F系列之手機](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")，取而代之的是A系列。
+值得注意的是，R9與F1 Plus為同款手機，僅因區分各國市場而在不同國家而有不同稱呼。為了全球命名統一化及市場區隔，F系列自F3開始，均只有在[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[菲律賓等國家販售](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")。未來在[中國大陸](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[澳洲和](https://zh.wikipedia.org/wiki/澳洲 "wikilink")[紐西蘭市場都不會有F系列之手機](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")，取而代之的是A系列。
 
 ### A系列
 
@@ -298,6 +255,8 @@ A系列為OPPO的中低端手機系列，以前置相機自拍美顏及獨立三
 
 2018年10月10日，於中國正式發表全新螢幕指紋手機 OPPO K1(海外市場命名為OPPO AX7 pro) 。
 
+2019年，於中囯正式發表K系列機種 OPPO K3。
+
 ### Reno系列
 
 ## 代言人
@@ -365,24 +324,11 @@ OPPO在特定市場為其手機邀請明星代言人，擴大產品與品牌知�
 ## 外部連結
 
   -
-[Category:OPPO](https://zh.wikipedia.org/wiki/Category:OPPO "wikilink")
-[Category:東莞公司](https://zh.wikipedia.org/wiki/Category:東莞公司 "wikilink")
-[Category:中國電子公司](https://zh.wikipedia.org/wiki/Category:中國電子公司 "wikilink")
-[Category:中國民營企業](https://zh.wikipedia.org/wiki/Category:中國民營企業 "wikilink")
-[Category:中國品牌](https://zh.wikipedia.org/wiki/Category:中國品牌 "wikilink")
-[Category:總部在中國的跨國公司](https://zh.wikipedia.org/wiki/Category:總部在中國的跨國公司 "wikilink")
-[Category:總部在廣東的跨國公司](https://zh.wikipedia.org/wiki/Category:總部在廣東的跨國公司 "wikilink")
-[Category:行動電話製造商](https://zh.wikipedia.org/wiki/Category:行動電話製造商 "wikilink")
-[Category:2004年成立的公司](https://zh.wikipedia.org/wiki/Category:2004年成立的公司 "wikilink")
-[Category:2004年中國建立](https://zh.wikipedia.org/wiki/Category:2004年中國建立 "wikilink")
-[Category:總部位於臺北市內湖區的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於臺北市內湖區的工商業機構 "wikilink")
+[Category:OPPO](https://zh.wikipedia.org/wiki/Category:OPPO "wikilink") [Category:東莞公司](https://zh.wikipedia.org/wiki/Category:東莞公司 "wikilink") [Category:中國電子公司](https://zh.wikipedia.org/wiki/Category:中國電子公司 "wikilink") [Category:中國民營企業](https://zh.wikipedia.org/wiki/Category:中國民營企業 "wikilink") [Category:中國品牌](https://zh.wikipedia.org/wiki/Category:中國品牌 "wikilink") [Category:總部在中國的跨國公司](https://zh.wikipedia.org/wiki/Category:總部在中國的跨國公司 "wikilink") [Category:總部在廣東的跨國公司](https://zh.wikipedia.org/wiki/Category:總部在廣東的跨國公司 "wikilink") [Category:行動電話製造商](https://zh.wikipedia.org/wiki/Category:行動電話製造商 "wikilink") [Category:2004年成立的公司](https://zh.wikipedia.org/wiki/Category:2004年成立的公司 "wikilink") [Category:2004年中國建立](https://zh.wikipedia.org/wiki/Category:2004年中國建立 "wikilink") [Category:總部位於臺北市內湖區的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於臺北市內湖區的工商業機構 "wikilink")
 
 1.
-2.  [Is OnePlus a wholly owned subsidiary of Oppo? Chinese document
-    suggests that the answer is
-    yes](https://www.phonearena.com/news/Is-OnePlus-a-wholly-owned-subsidiary-of-Oppo-Chinese-document-suggests-that-the-answer-is-yes_id55560).Phonearena.2014-04-26.\[2018-01-13\].
-3.  [The OnePlus 5T will probably look like the Oppo
-    R11S](https://www.theverge.com/circuitbreaker/2017/11/4/16602718/oneplus-5t-probably-look-like-the-oppo-r11s).TheVerge.2017-11-04.\[2018-01-13\].
+2.  [Is OnePlus a wholly owned subsidiary of Oppo? Chinese document suggests that the answer is yes](https://www.phonearena.com/news/Is-OnePlus-a-wholly-owned-subsidiary-of-Oppo-Chinese-document-suggests-that-the-answer-is-yes_id55560).Phonearena.2014-04-26.\[2018-01-13\].
+3.  [The OnePlus 5T will probably look like the Oppo R11S](https://www.theverge.com/circuitbreaker/2017/11/4/16602718/oneplus-5t-probably-look-like-the-oppo-r11s).TheVerge.2017-11-04.\[2018-01-13\].
 4.
 5.
 6.

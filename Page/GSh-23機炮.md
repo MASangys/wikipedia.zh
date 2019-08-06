@@ -17,8 +17,7 @@
 
 ### 固定機炮
 
-  - [米格-21](https://zh.wikipedia.org/wiki/米格-21 "wikilink")（M, SM, MF,
-    SMT, bis）
+  - [米格-21](https://zh.wikipedia.org/wiki/米格-21 "wikilink")（M, SM, MF, SMT, bis）
   - [米格-23](https://zh.wikipedia.org/wiki/米格-23 "wikilink")
   - [Mi-24PV武裝直昇機](../Page/Mi-24雌鹿直升機.md "wikilink")
   - JF17[梟龍戰鬥機](https://zh.wikipedia.org/wiki/梟龍戰鬥機 "wikilink")
@@ -57,8 +56,4 @@
   - [GSh-6-23加特林机炮](../Page/GSh-6-23加特林机炮.md "wikilink")
   - [GSh-6-30加特林机炮](../Page/GSh-6-30加特林机炮.md "wikilink")
 
-[Category:23毫米口径武器](https://zh.wikipedia.org/wiki/Category:23毫米口径武器 "wikilink")
-[Category:多管機槍及機砲](https://zh.wikipedia.org/wiki/Category:多管機槍及機砲 "wikilink")
-[Category:空用機槍及機炮](https://zh.wikipedia.org/wiki/Category:空用機槍及機炮 "wikilink")
-[Category:蘇聯空用機槍及機炮](https://zh.wikipedia.org/wiki/Category:蘇聯空用機槍及機炮 "wikilink")
-[Category:俄聯邦儀器設計局](https://zh.wikipedia.org/wiki/Category:俄聯邦儀器設計局 "wikilink")
+[Category:23毫米口径武器](https://zh.wikipedia.org/wiki/Category:23毫米口径武器 "wikilink") [Category:多管機槍及機砲](https://zh.wikipedia.org/wiki/Category:多管機槍及機砲 "wikilink") [Category:空用機槍及機炮](https://zh.wikipedia.org/wiki/Category:空用機槍及機炮 "wikilink") [Category:蘇聯空用機槍及機炮](https://zh.wikipedia.org/wiki/Category:蘇聯空用機槍及機炮 "wikilink") [Category:俄聯邦儀器設計局](https://zh.wikipedia.org/wiki/Category:俄聯邦儀器設計局 "wikilink")

@@ -1,10 +1,6 @@
 [Seeker_Kh-35E_maks2005.jpg](https://zh.wikipedia.org/wiki/File:Seeker_Kh-35E_maks2005.jpg "fig:Seeker_Kh-35E_maks2005.jpg")[Kh-35E_maq_maks2009.jpg](https://zh.wikipedia.org/wiki/File:Kh-35E_maq_maks2009.jpg "fig:Kh-35E_maq_maks2009.jpg")
 
-Zvezda的**Kh-35U** (, 北约称空射版为**AS-20
-KAYAK（皮划艇）**)是蘇聯開發的一款[亚音速](https://zh.wikipedia.org/wiki/亚音速 "wikilink")[反舰导弹](https://zh.wikipedia.org/wiki/反舰导弹 "wikilink")。它可以在直升机，飞机，水面舰上发射，也加装助推器后在岸上发射。岸上版称为***Uran**''
-(意为乌拉诺斯,北约称为**SS-N-25
-'Switchblade**'弹簧刀，[GRAU编号为](https://zh.wikipedia.org/wiki/GRAU "wikilink")3M24)或***Bal**''
-(意为[巴力](../Page/巴力.md "wikilink"), **SSC-6 'Sennight**', GRAU编号3K60)。
+Zvezda的**Kh-35U** (, 北约称空射版为**AS-20 KAYAK（皮划艇）**)是蘇聯開發的一款[亚音速](https://zh.wikipedia.org/wiki/亚音速 "wikilink")[反舰导弹](https://zh.wikipedia.org/wiki/反舰导弹 "wikilink")。它可以在直升机，飞机，水面舰上发射，也加装助推器后在岸上发射。岸上版称为***Uran**'' (意为乌拉诺斯,北约称为**SS-N-25 'Switchblade**'弹簧刀，[GRAU编号为](https://zh.wikipedia.org/wiki/GRAU "wikilink")3M24)或***Bal**'' (意为[巴力](../Page/巴力.md "wikilink"), **SSC-6 'Sennight**', GRAU编号3K60)。
 
 因外觀與性能和美国[魚叉飛彈近似](../Page/AGM-84魚叉反艦飛彈.md "wikilink")，也被称为“鱼叉斯基”（Harpoonski），它被设计用于攻击五千吨以下的舰只。\[1\]
 
@@ -22,8 +18,6 @@ Kh-35在1977年由星辰設計局提出技術概要大綱，蘇聯的反艦飛�
 
 <references/>
 
-[Category:反艦飛彈](https://zh.wikipedia.org/wiki/Category:反艦飛彈 "wikilink")
-[Category:苏联飞弹](https://zh.wikipedia.org/wiki/Category:苏联飞弹 "wikilink")
-[Category:俄罗斯导弹](https://zh.wikipedia.org/wiki/Category:俄罗斯导弹 "wikilink")
+[Category:反艦飛彈](https://zh.wikipedia.org/wiki/Category:反艦飛彈 "wikilink") [Category:苏联飞弹](https://zh.wikipedia.org/wiki/Category:苏联飞弹 "wikilink") [Category:俄罗斯导弹](https://zh.wikipedia.org/wiki/Category:俄罗斯导弹 "wikilink")
 
 1.

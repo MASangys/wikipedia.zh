@@ -1,5 +1,4 @@
-**AKB48
-難道說，這場演唱會的音源不會流出嗎？**（）是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")在2008年11月23日在[NHK會館舉辦的](https://zh.wikipedia.org/wiki/NHK會館 "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")\[1\]\[2\]。
+**AKB48 難道說，這場演唱會的音源不會流出嗎？**（）是日本女子偶像組合[AKB48](../Page/AKB48.md "wikilink")在2008年11月23日在[NHK會館舉辦的](https://zh.wikipedia.org/wiki/NHK會館 "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")\[1\]\[2\]。
 
 ## 概要
 
@@ -33,86 +32,53 @@
 <!-- end list -->
 
 1.  **overtune**
-2.  **[Dreamin'
-    girls](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」 "wikilink")**
-    - Team A、K、B\[16\]
-3.  **[Viva\!
-    Hurricane](https://zh.wikipedia.org/wiki/妳正在看着夕陽嗎？ "wikilink")**（）
-    - Team A、K、B
-4.  **[不要讓夢想死去](https://zh.wikipedia.org/wiki/向日葵組_2nd_Stage「不要讓夢想死去」 "wikilink")**（）
-    - Team A、K、B、研究生
+2.  **[Dreamin' girls](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」 "wikilink")** - Team A、K、B\[16\]
+3.  **[Viva\! Hurricane](https://zh.wikipedia.org/wiki/妳正在看着夕陽嗎？ "wikilink")**（） - Team A、K、B
+4.  **[不要讓夢想死去](https://zh.wikipedia.org/wiki/向日葵組_2nd_Stage「不要讓夢想死去」 "wikilink")**（） - Team A、K、B、研究生
 5.  **MC1** - 全員（大江、駒谷、戶島、中西里、成田除外）
-6.  **[同班同學](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」 "wikilink")**（）
-    - 大江、駒谷、戶島、中西里、成田
+6.  **[同班同學](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」 "wikilink")**（） - 大江、駒谷、戶島、中西里、成田
 7.  **MC2** - 大江、駒谷、戶島、中西里、成田
-8.  **[Bye Bye
-    Bye](https://zh.wikipedia.org/wiki/向日葵組_2nd_Stage「不要讓夢想死去」 "wikilink")**
-    - 峯岸、小嶋、高橋
-9.  **[Bird](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「為了誰」 "wikilink")**
-    - 指原、板野、北原
-10. **[我
-    朱麗葉與雲霄飛車](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」 "wikilink")**（）
-    - 早野、小野、藤江（伴舞：中塚、小原、野中、石田、高城、近野）
-11. **[睡衣兜風](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（）
-    - 梅田、前田、小林
-12. **[嘆息的人偶](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想見你」 "wikilink")**（）
-    - 宮崎、仁藤、中田、奧
-13. **[你是天馬](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（）
-    - 高城、增田、浦野、佐藤亞
-14. **[無望之淚](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（）
-    - 大島麻、篠田
-15. **[玻璃般的我愛你](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想見你」 "wikilink")**（）
-    - 宮澤、倉持、大島優、川崎
-16. **[隔壁的香蕉](https://zh.wikipedia.org/wiki/向日葵組_2nd_Stage「不要讓夢想死去」 "wikilink")**（）
-    - 多田、渡邊
-17. **[對不起
-    我的寶石](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最終鐘聲鳴響」 "wikilink")**（）
-    - 仲谷、柏木、平嶋、仲川（伴舞：米澤、松岡、早乙女、片山、野口、田名部）
-18. **[鏡中的聖女貞德](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（）
-    - 成瀨、松原、秋元、野呂、佐藤夏
-19. **[雄蕊雌蕊夜之蝶](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最終鐘聲鳴響」 "wikilink")**（）
-    - 大堀、河西
+8.  **[Bye Bye Bye](https://zh.wikipedia.org/wiki/向日葵組_2nd_Stage「不要讓夢想死去」 "wikilink")** - 峯岸、小嶋、高橋
+9.  **[Bird](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「為了誰」 "wikilink")** - 指原、板野、北原
+10. **[我 朱麗葉與雲霄飛車](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」 "wikilink")**（） - 早野、小野、藤江（伴舞：中塚、小原、野中、石田、高城、近野）
+11. **[睡衣兜風](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（） - 梅田、前田、小林
+12. **[嘆息的人偶](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想見你」 "wikilink")**（） - 宮崎、仁藤、中田、奧
+13. **[你是天馬](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（） - 高城、增田、浦野、佐藤亞
+14. **[無望之淚](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（） - 大島麻、篠田
+15. **[玻璃般的我愛你](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想見你」 "wikilink")**（） - 宮澤、倉持、大島優、川崎
+16. **[隔壁的香蕉](https://zh.wikipedia.org/wiki/向日葵組_2nd_Stage「不要讓夢想死去」 "wikilink")**（） - 多田、渡邊
+17. **[對不起 我的寶石](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最終鐘聲鳴響」 "wikilink")**（） - 仲谷、柏木、平嶋、仲川（伴舞：米澤、松岡、早乙女、片山、野口、田名部）
+18. **[鏡中的聖女貞德](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（） - 成瀨、松原、秋元、野呂、佐藤夏
+19. **[雄蕊雌蕊夜之蝶](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最終鐘聲鳴響」 "wikilink")**（） - 大堀、河西
 20. **[甜蜜股關節](../Page/甜蜜股關節.md "wikilink")**（） - 大堀
 21. **MC3** - Team B（松岡除外）
-22. **[初日](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**
-    - Team B
-23. **[水手夢見了風暴](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（）
-    - Team B
-24. **[梅樂斯之路](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最終鐘聲鳴響」 "wikilink")**（）
-    - Team K
+22. **[初日](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")** - Team B
+23. **[水手夢見了風暴](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（） - Team B
+24. **[梅樂斯之路](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最終鐘聲鳴響」 "wikilink")**（） - Team K
 25. **[化作滾石吧](../Page/Team_K_2nd_Stage「青春女孩」.md "wikilink")**（） - Team K
-26. '''[Dear my
-    teacher](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」 "wikilink")
-    - Team A
+26. '''[Dear my teacher](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」 "wikilink") - Team A
 27. **[我的太陽](../Page/我的太陽_\(AKB48單曲\).md "wikilink")**（） - Team A
 28. **MC4** - 秋元、河西、小野、大島優、渡邊、柏木、浦野
 29. **overtune (SKE48 ver.)**
 30. **[裙襬飄飄](../Page/裙襬飄飄.md "wikilink")**（） - SKE48
 31. **MC5** - SKE48
-32. '''[SKE48](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」 "wikilink")
-    - SKE48
+32. '''[SKE48](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」 "wikilink") - SKE48
 33. **[浪漫、不需要](../Page/浪漫、不需要.md "wikilink")**（） - Team A、K、B
-34. **[機尾雲](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」 "wikilink")**（）
-    - Team A、K、B、研究生
+34. **[機尾雲](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」 "wikilink")**（） - Team A、K、B、研究生
 35. **[BINGO\!](../Page/BINGO!.md "wikilink")** - Team A、K、B、研究生
 
 **安可曲**
 
-1.  **[想見你](https://zh.wikipedia.org/wiki/想見你_\(AKB48單曲\) "wikilink")**（）
-    - Team A、K、B
-2.  **[AKB參上\!](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」 "wikilink")**
-    - Team A、K、B
+1.  **[想見你](https://zh.wikipedia.org/wiki/想見你_\(AKB48單曲\) "wikilink")**（） - Team A、K、B
+2.  **[AKB參上\!](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」 "wikilink")** - Team A、K、B
 3.  **MC6** - 全員
-4.  **[櫻花的花瓣們](https://zh.wikipedia.org/wiki/櫻花的花瓣們 "wikilink")**（） -
-    Team A、K、B、研究生
+4.  **[櫻花的花瓣們](https://zh.wikipedia.org/wiki/櫻花的花瓣們 "wikilink")**（） - Team A、K、B、研究生
 
 **二次安可曲**
 
-1.  **[在藍天旁](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」 "wikilink")**（）
-    - Team A、K、B
+1.  **[在藍天旁](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」 "wikilink")**（） - Team A、K、B
 2.  **MC7** - 畢業成員：大江、駒谷、戶島、中西里、成田
-3.  **[大聲鑽石](https://zh.wikipedia.org/wiki/大聲鑽石 "wikilink")**（） - Team
-    A、K、B、研究生、SKE48
+3.  **[大聲鑽石](https://zh.wikipedia.org/wiki/大聲鑽石 "wikilink")**（） - Team A、K、B、研究生、SKE48
 
 <!-- end list -->
 

@@ -1,8 +1,6 @@
 [Class_Zero.jpg](https://zh.wikipedia.org/wiki/File:Class_Zero.jpg "fig:Class_Zero.jpg")
 
-**最終幻想
-零式與Agito角色列表**是列出[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")《[最終幻想
-零式](../Page/最終幻想_零式.md "wikilink")》和衍生作品《[最終幻想Agito](../Page/最終幻想Agito.md "wikilink")》中的登場角色。
+**最終幻想 零式與Agito角色列表**是列出[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")《[最終幻想 零式](../Page/最終幻想_零式.md "wikilink")》和衍生作品《[最終幻想Agito](../Page/最終幻想Agito.md "wikilink")》中的登場角色。
 
 主人公有12人（無特別單指一人）\[1\]。0班12人再加上馬奇納與蕾姆，合計14人。馬奇納與蕾姆在故事的另一方面也可作為主人公\[2\]，但本作主人公主要以0班為主。登場人物共有30至40人左右\[3\]。此外，還多採用過去最終幻想系列遊戲較有經驗的聲優。
 
@@ -125,8 +123,7 @@
     被捨棄一座的「恐懼之座」。特徵是蓄著黑色短髮，綠色雙眼，披風為高領斗篷式的男性，以一人稱「オレ」稱呼自己，伊薩納弟弟，是位優等生。對自己嚴格，看起來不好親近，只要說句話就知道對人很好。和蕾姆曾被一名米利提斯皇國軍幫助逃走已毀滅的村子。原為2班候補生，後來加入0班。在軍令部長口中得知哥哥的犧牲是因為0班和阿蕾西婭的緣故，所以開始幫軍令部長和各局長們監視他們，還曾和0班發生衝突。後意外地繼承了昆米力量而成為白虎路希。根據小說內容，當離開0班後和蕾姆一樣想要復興朱雀。
     武器為雙螺紋劍，擅長連續打擊。三位一體攻擊為「音速蓄力」。
     特典「如果.....」中，和艾斯特別要好，當前者讀書到一半時就拉著他去玩耍。
-    名字「Machina」代表[拉丁語中的](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")「[天外救星](../Page/天外救星.md "wikilink")」（Deus
-    ex machina），這個表達方式通常用來指突然和令人驚訝的形勢轉折事件。
+    名字「Machina」代表[拉丁語中的](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")「[天外救星](../Page/天外救星.md "wikilink")」（Deus ex machina），這個表達方式通常用來指突然和令人驚訝的形勢轉折事件。
 
 <!-- end list -->
 
@@ -165,8 +162,7 @@
   -
     生日：不明
     年齡：不明、身高：165cm
-    八席議會的一員，魔導院的魔法局局長。
-    0班成員稱之為「母親(マザー)」，經常持著一支長煙斗的成熟女性。在魔法改良和開發方面是個天才，但行為舉止異於他人，沒人清楚她是什麼時候出現在朱雀的。她的真實身份似乎是執掌奧利恩斯千年輪迴的神之一，且還能將0班的成員不斷地復活。
+    八席議會的一員，魔導院的魔法局局長。 0班成員稱之為「母親(マザー)」，經常持著一支長煙斗的成熟女性。在魔法改良和開發方面是個天才，但行為舉止異於他人，沒人清楚她是什麼時候出現在朱雀的。她的真實身份似乎是執掌奧利恩斯千年輪迴的神之一，且還能將0班的成員不斷地復活。
 
 <!-- end list -->
 
@@ -197,8 +193,7 @@
   -
     生日：不明
     年齡：不明、身高：65cm
-    MOOGLE為「Military Operation Organization Guidance／Logistics
-    Expert」（軍事行動組織指導／後勤專家）的略稱，又稱「哈茲密加密內·洛特尤斯納·艾里普魯吉」。推測是召喚獸的一種，似乎很久以前就已存在。
+    MOOGLE為「Military Operation Organization Guidance／Logistics Expert」（軍事行動組織指導／後勤專家）的略稱，又稱「哈茲密加密內·洛特尤斯納·艾里普魯吉」。推測是召喚獸的一種，似乎很久以前就已存在。
       -
         負責向0班傳達任務訊息，態度親切、認真，原本無所屬，在0班加入朱雀時被提拔成為0班的莫古利。會辛柯稱作「莫古林」。在自由時間時能給玩家上課。
       -
@@ -495,14 +490,11 @@
 
 ## 外部連結
 
-  - [Fabula Nova
-    Crystallis　日文官網](http://www.square-enix.co.jp/e306/titles/fabula/)
-  - [Fabula Nova
-    Crystallis　英文官網](https://web.archive.org/web/20090303130036/http://na.square-enix.com/e306/titles/fabula/)
+  - [Fabula Nova Crystallis　日文官網](http://www.square-enix.co.jp/e306/titles/fabula/)
+  - [Fabula Nova Crystallis　英文官網](https://web.archive.org/web/20090303130036/http://na.square-enix.com/e306/titles/fabula/)
   - [天幻網零式專題](http://type-0.ffsky.cn/)
 
-[Category:電子遊戲角色列表](https://zh.wikipedia.org/wiki/Category:電子遊戲角色列表 "wikilink")
-[Category:最終幻想系列角色](https://zh.wikipedia.org/wiki/Category:最終幻想系列角色 "wikilink")
+[Category:電子遊戲角色列表](https://zh.wikipedia.org/wiki/Category:電子遊戲角色列表 "wikilink") [Category:最終幻想系列角色](https://zh.wikipedia.org/wiki/Category:最終幻想系列角色 "wikilink")
 
 1.  |deadlinkdate=2013-01-17
 

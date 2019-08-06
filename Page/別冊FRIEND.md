@@ -140,10 +140,7 @@
 
 <http://tw.seemh.com/s/%E7%B6%AD%E4%BB%96%E5%91%BD.html>
 
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:講談社的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:講談社的漫畫雜誌 "wikilink")
+[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:講談社的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:講談社的漫畫雜誌 "wikilink")
 
 1.  『雑誌新聞総かたろぐ　1979年版』
 

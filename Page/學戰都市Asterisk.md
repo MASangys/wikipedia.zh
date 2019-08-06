@@ -1,5 +1,4 @@
-是[三屋咲悠](../Page/三屋咲悠.md "wikilink")撰寫，[okiura繪製插畫的](https://zh.wikipedia.org/wiki/okiura "wikilink")[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")\[1\]\[2\]，[MF文庫J](../Page/MF文庫J.md "wikilink")（[Media
-Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由[尖端出版](../Page/尖端出版.md "wikilink")代理，譯者陳冠安；简体中文版预定由[天闻角川](../Page/天闻角川.md "wikilink")代理发行，[湖南美术出版社](../Page/湖南美术出版社.md "wikilink")出版。2015年10月至12月首播[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
+是[三屋咲悠](../Page/三屋咲悠.md "wikilink")撰寫，[okiura繪製插畫的](https://zh.wikipedia.org/wiki/okiura "wikilink")[日本](../Page/日本.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")\[1\]\[2\]，[MF文庫J](../Page/MF文庫J.md "wikilink")（[Media Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由[尖端出版](../Page/尖端出版.md "wikilink")代理，譯者陳冠安；简体中文版预定由[天闻角川](../Page/天闻角川.md "wikilink")代理发行，[湖南美术出版社](../Page/湖南美术出版社.md "wikilink")出版。2015年10月至12月首播[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
 ## 故事簡介
 
@@ -877,8 +876,7 @@ Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由
 『**學戰都市Asterisk 外傳**』
 
   -
-    原作：[三屋咲悠](../Page/三屋咲悠.md "wikilink")／角色原案：okiura
-    ，由[MF文庫出版](https://zh.wikipedia.org/wiki/MF文庫 "wikilink")。台灣由[尖端出版](../Page/尖端出版.md "wikilink")代理出版。
+    原作：[三屋咲悠](../Page/三屋咲悠.md "wikilink")／角色原案：okiura ，由[MF文庫出版](https://zh.wikipedia.org/wiki/MF文庫 "wikilink")。台灣由[尖端出版](../Page/尖端出版.md "wikilink")代理出版。
 
 <table>
 <thead>
@@ -926,8 +924,7 @@ Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由
 『**學戰都市Asterisk 外傳**』
 
   -
-    原作：[三屋咲悠](../Page/三屋咲悠.md "wikilink")／作畫：茜錆／角色原案：okiura
-    ，由[講談社代理出版](https://zh.wikipedia.org/wiki/講談社 "wikilink")。已完結。
+    原作：[三屋咲悠](../Page/三屋咲悠.md "wikilink")／作畫：茜錆／角色原案：okiura ，由[講談社代理出版](https://zh.wikipedia.org/wiki/講談社 "wikilink")。已完結。
 
 | 書名(日)                                                   | <small>發售日期</small> | [ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") |
 | ------------------------------------------------------- | ------------------- | ----------------------------------------------------- |
@@ -977,8 +974,7 @@ Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由
   -
 
       -
-        作詞、作曲、編曲：Rasmus
-        Faber，主唱：奧菲莉亞·蘭朵露芬（[坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")）
+        作詞、作曲、編曲：Rasmus Faber，主唱：奧菲莉亞·蘭朵露芬（[坂本真綾](https://zh.wikipedia.org/wiki/坂本真綾 "wikilink")）
 
 :; 插入曲
 
@@ -987,8 +983,7 @@ Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由
   -
 
       -
-        作詞：[岩里祐穗](https://zh.wikipedia.org/wiki/岩里祐穗 "wikilink")，作曲、編曲：Rasmus
-        Faber，主唱：席爾薇雅·琉奈海姆（[千菅春香](../Page/千菅春香.md "wikilink")）
+        作詞：[岩里祐穗](https://zh.wikipedia.org/wiki/岩里祐穗 "wikilink")，作曲、編曲：Rasmus Faber，主唱：席爾薇雅·琉奈海姆（[千菅春香](../Page/千菅春香.md "wikilink")）
 
 ::;「Hold you in the wind」（第12話）
 
@@ -1013,8 +1008,7 @@ Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由
   -
 
       -
-        作詞：山田稔明，作曲、編曲：Rasmus
-        Faber，主唱：席爾薇雅·琉奈海姆（[千菅春香](../Page/千菅春香.md "wikilink")）
+        作詞：山田稔明，作曲、編曲：Rasmus Faber，主唱：席爾薇雅·琉奈海姆（[千菅春香](../Page/千菅春香.md "wikilink")）
 
 :;插入曲「Lonely feather」（第19話）
 
@@ -1519,8 +1513,7 @@ Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由
 <!-- end list -->
 
   - 使用平台：[PlayStation Vita](../Page/PlayStation_Vita.md "wikilink")
-  - 製作公司：[BANDAI NAMCO
-    Games](https://zh.wikipedia.org/wiki/BANDAI_NAMCO_Games "wikilink")
+  - 製作公司：[BANDAI NAMCO Games](https://zh.wikipedia.org/wiki/BANDAI_NAMCO_Games "wikilink")
   - 發售日期：2016年1月28日
   - 官方網址：\[7\]
 
@@ -1533,17 +1526,9 @@ Factory](../Page/Media_Factory.md "wikilink")）出版。\[3\]繁體中文版由
 ## 外部連結
 
   - [MF文庫J『學戰都市Asterisk』官網](http://www.mediafactory.co.jp/bunkoj/asterisk/)
-
   - [電視動畫『學戰都市Asterisk』官網](http://asterisk-war.com/)
 
-[Category:MF文庫J](https://zh.wikipedia.org/wiki/Category:MF文庫J "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:2012年小說](https://zh.wikipedia.org/wiki/Category:2012年小說 "wikilink")
-[Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
-[Category:別冊少年Magazine](https://zh.wikipedia.org/wiki/Category:別冊少年Magazine "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:MF文庫J](https://zh.wikipedia.org/wiki/Category:MF文庫J "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:2012年小說](https://zh.wikipedia.org/wiki/Category:2012年小說 "wikilink") [Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink") [Category:別冊少年Magazine](https://zh.wikipedia.org/wiki/Category:別冊少年Magazine "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 2.

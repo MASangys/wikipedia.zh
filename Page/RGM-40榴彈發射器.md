@@ -12,9 +12,7 @@ RGM-40是以[GP-30為藍本](../Page/GP-25附加型榴彈發射器.md "wikilink"
 
 ### [电子游戏](../Page/电子游戏.md "wikilink")
 
-  - 2013年—《[-{zh-hans:使命召唤：幽灵; zh-hant:決勝時刻：魅影; zh-cn:使命召唤：幽灵;
-    zh-tw:決勝時刻：魅影; zh-hk:決勝時刻：魅影;
-    zh-mo:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》：命名為「Kastet」，初始攜彈量為1發（聯機模式）和11發（滅絕模式），最高攜彈量為1發（聯機模式）和12發（滅絕模式）。聯機模式時沒有任何可以使用的改裝；滅絕模式時價格為$1,500（「黃昏」）和$2,000（「聯絡點」和「求救」）。
+  - 2013年—《[-{zh-hans:使命召唤：幽灵; zh-hant:決勝時刻：魅影; zh-cn:使命召唤：幽灵; zh-tw:決勝時刻：魅影; zh-hk:決勝時刻：魅影; zh-mo:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》：命名為「Kastet」，初始攜彈量為1發（聯機模式）和11發（滅絕模式），最高攜彈量為1發（聯機模式）和12發（滅絕模式）。聯機模式時沒有任何可以使用的改裝；滅絕模式時價格為$1,500（「黃昏」）和$2,000（「聯絡點」和「求救」）。
 
 ## 參見
 
@@ -47,13 +45,9 @@ RGM-40是以[GP-30為藍本](../Page/GP-25附加型榴彈發射器.md "wikilink"
 
   - —[Гранатомет РГМ-40 Кастет](http://russianguns.ru/?cat=79)
 
-  - —[РГМ-40
-    «Кастет»](https://web.archive.org/web/20120418131722/http://diversant.h1.ru/guns/granatomet/rgm40.html)
+  - —[РГМ-40 «Кастет»](https://web.archive.org/web/20120418131722/http://diversant.h1.ru/guns/granatomet/rgm40.html)
 
-[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink")
-[Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink")
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
+[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
 
 1.
 2.

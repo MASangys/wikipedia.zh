@@ -1,22 +1,17 @@
-《**3rd -LOVE
-Paradise-**》（）是[日本](../Page/日本.md "wikilink")女子偶像組合[早安少女組。](../Page/早安少女組。.md "wikilink")的第3張原創專輯。於2000年3月29日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+《**3rd -LOVE Paradise-**》（）是[日本](../Page/日本.md "wikilink")女子偶像組合[早安少女組。](../Page/早安少女組。.md "wikilink")的第3張原創專輯。於2000年3月29日發行。唱片公司為[zetima](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
-  - 與上一張原創專輯《[Second
-    Morning](../Page/Second_Morning.md "wikilink")》相距約8個月。
-  - 收錄第7張單曲《[LOVE
-    MACHINE](../Page/LOVE_MACHINE.md "wikilink")》和第8張單曲《[戀愛熱舞站](../Page/戀愛熱舞站.md "wikilink")》共2首A面曲。
-  - 三期成員[後藤真希](../Page/後藤真希.md "wikilink")加入後第一張原創專輯。此專輯是[早安少女组。以七人形式演唱的](https://zh.wikipedia.org/wiki/早安少女组。 "wikilink")，一期成员[石黑彩](../Page/石黑彩.md "wikilink")只参与一張單曲（[LOVE
-    MACHINE](../Page/LOVE_MACHINE.md "wikilink")）。
+  - 與上一張原創專輯《[Second Morning](../Page/Second_Morning.md "wikilink")》相距約8個月。
+  - 收錄第7張單曲《[LOVE MACHINE](../Page/LOVE_MACHINE.md "wikilink")》和第8張單曲《[戀愛熱舞站](../Page/戀愛熱舞站.md "wikilink")》共2首A面曲。
+  - 三期成員[後藤真希](../Page/後藤真希.md "wikilink")加入後第一張原創專輯。此專輯是[早安少女组。以七人形式演唱的](https://zh.wikipedia.org/wiki/早安少女组。 "wikilink")，一期成员[石黑彩](../Page/石黑彩.md "wikilink")只参与一張單曲（[LOVE MACHINE](../Page/LOVE_MACHINE.md "wikilink")）。
   - 本作分「CD盤」1種版本
   - 在4月10日於公信榜專輯每週排行榜取得第2位。
 
 ## 收錄內容
 
 1.  **～早安～**（～おはよう～）
-    （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
-    編曲：[前嶋康明](https://zh.wikipedia.org/wiki/前嶋康明 "wikilink")）
+    （作詞・作曲：[淳君](../Page/淳君.md "wikilink") 編曲：[前嶋康明](https://zh.wikipedia.org/wiki/前嶋康明 "wikilink")）
 2.  **[LOVE MACHINE](../Page/LOVE_MACHINE.md "wikilink")**（LOVEマシーン）
     （作詞・作曲：淳君 編曲：ダンス☆マン）
       -
@@ -38,14 +33,10 @@ Paradise-**》（）是[日本](../Page/日本.md "wikilink")女子偶像組合[
 9.  **原宿6:00集合**
     （作詞・作曲：淳君 編曲：[山内薫](https://zh.wikipedia.org/wiki/山内薫 "wikilink")）
 10. **WHY**
-    （作詞・作曲：淳君
-    編曲：鈴木俊介、[U.M.E.D.Y.](https://zh.wikipedia.org/wiki/U.M.E.D.Y. "wikilink")）
+    （作詞・作曲：淳君 編曲：鈴木俊介、[U.M.E.D.Y.](https://zh.wikipedia.org/wiki/U.M.E.D.Y. "wikilink")）
 11. **「、、、喜歡你喔」**（「、、、好きだよ」）
-    （作詞・作曲：淳君
-    編曲：ダンス☆マン、[川松久芳](https://zh.wikipedia.org/wiki/川松久芳 "wikilink")）
+    （作詞・作曲：淳君 編曲：ダンス☆マン、[川松久芳](https://zh.wikipedia.org/wiki/川松久芳 "wikilink")）
 12. **～晚安～**（～おやすみ～）
     （作詞・作曲：淳君 編曲：前嶋康明）
 
-[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
-[Category:早安少女組。音樂專輯](https://zh.wikipedia.org/wiki/Category:早安少女組。音樂專輯 "wikilink")
-[Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")
+[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink") [Category:早安少女組。音樂專輯](https://zh.wikipedia.org/wiki/Category:早安少女組。音樂專輯 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")

@@ -1,10 +1,8 @@
-《**Harvest
-Moon**》是5人[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[4minute](../Page/4minute.md "wikilink")子團[2Yoon](../Page/2Yoon.md "wikilink")的首張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2013年1月17日公開發售，是次主打為《**24/7**》。
+《**Harvest Moon**》是5人[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[4minute](../Page/4minute.md "wikilink")子團[2Yoon](../Page/2Yoon.md "wikilink")的首張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，於2013年1月17日公開發售，是次主打為《**24/7**》。
 
 ## 發行過程
 
-2012年12月25日，[Cube
-Entertainment社長在他的個人](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[Twitter](../Page/Twitter.md "wikilink")上向公眾透露\[1\]，由成員[4minute](../Page/4minute.md "wikilink")成員[嘉允和](../Page/許嘉允.md "wikilink")[祉潤組成的限定組合](../Page/田祉潤.md "wikilink")2YOON將於一月出道。而專輯已進入後期製作階段，相信專輯不久就會面世。
+2012年12月25日，[Cube Entertainment社長在他的個人](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[Twitter](../Page/Twitter.md "wikilink")上向公眾透露\[1\]，由成員[4minute](../Page/4minute.md "wikilink")成員[嘉允和](../Page/許嘉允.md "wikilink")[祉潤組成的限定組合](../Page/田祉潤.md "wikilink")2YOON將於一月出道。而專輯已進入後期製作階段，相信專輯不久就會面世。
 
 2013年1月7日，官方發佈消息指2YOON將會於1月17日在網上發佈專輯，並進行宣傳活動和作出道舞台。主打曲〈24/7〉由新沙洞老虎、金度勋和李尚浩聯手創作，以[鄉村流行作為音樂類型](https://zh.wikipedia.org/wiki/鄉村流行 "wikilink")。在其後數日發佈概念照和發佈MV。
 
@@ -132,12 +130,9 @@ Entertainment社長在他的個人](https://zh.wikipedia.org/wiki/Cube_Entertain
 
 ## 外部連結
 
-[Category:4minute_EP](https://zh.wikipedia.org/wiki/Category:4minute_EP "wikilink")
-[Category:2012年_EP](https://zh.wikipedia.org/wiki/Category:2012年_EP "wikilink")
-[Category:Korean-language_EPs](https://zh.wikipedia.org/wiki/Category:Korean-language_EPs "wikilink")
+[Category:4minute_EP](https://zh.wikipedia.org/wiki/Category:4minute_EP "wikilink") [Category:2012年_EP](https://zh.wikipedia.org/wiki/Category:2012年_EP "wikilink") [Category:Korean-language_EPs](https://zh.wikipedia.org/wiki/Category:Korean-language_EPs "wikilink")
 
-1.  [Cube Entertainment
-    Twitter](http://i.discuss.com.hk/d/attachments/day_121226/20121226_59347344f2fdf206405ekAgPGGmGo4ct.jpg)
+1.  [Cube Entertainment Twitter](http://i.discuss.com.hk/d/attachments/day_121226/20121226_59347344f2fdf206405ekAgPGGmGo4ct.jpg)
 
 2.
 

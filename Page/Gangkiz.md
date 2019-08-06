@@ -1,24 +1,14 @@
-**Gangkiz**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GM
-Contents
-Media公司](https://zh.wikipedia.org/wiki/GM_Contents_Media "wikilink")2012推出的七人女子組合，於2012年5月18日出道，成員由智賢、秀恩、海寅、素敏、恩星、Esther、惠智七人組成。出道專輯為《We
-Became Gang》，其主打歌為《HONEY HONEY》。組合已宣告解散。
+**Gangkiz**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[GM Contents Media公司](https://zh.wikipedia.org/wiki/GM_Contents_Media "wikilink")2012推出的七人女子組合，於2012年5月18日出道，成員由智賢、秀恩、海寅、素敏、恩星、Esther、惠智七人組成。出道專輯為《We Became Gang》，其主打歌為《HONEY HONEY》。組合已宣告解散。
 
 ## 經歷
 
 ### 2012年：出道、《We Became Gang》、《MAMA》
 
-在2012年5月15日，Gangkiz正式出道，以《We Became
-Gang》來作為出道專輯。\[1\]她們在5月18日在[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")
-**Music Bank**音樂節目中表演了出道的舞台。Gangkiz亦公布了《HONEY
-HONEY》七小部份的音樂錄影帶，並被喻成前輩[T-ara的Roly](https://zh.wikipedia.org/wiki/T-ara "wikilink")-Poly及Lovey-Dovey的升級及更成熟的版本。
-Gangkiz在6月26日公開了首張Repackaged迷你專輯《MAMA》。同名主打歌《MAMA》的音樂錄影帶在6月22日公開了。\[2\]
+在2012年5月15日，Gangkiz正式出道，以《We Became Gang》來作為出道專輯。\[1\]她們在5月18日在[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") **Music Bank**音樂節目中表演了出道的舞台。Gangkiz亦公布了《HONEY HONEY》七小部份的音樂錄影帶，並被喻成前輩[T-ara的Roly](https://zh.wikipedia.org/wiki/T-ara "wikilink")-Poly及Lovey-Dovey的升級及更成熟的版本。 Gangkiz在6月26日公開了首張Repackaged迷你專輯《MAMA》。同名主打歌《MAMA》的音樂錄影帶在6月22日公開了。\[2\]
 
 ### 2013年至2014年：成員變遷及組合解散
 
-2013年3月，海寅退團，改以公司旗下演員身分活動，11月智賢退團並離開公司，加入新公司Polaris
-Entertainment，其他組合成員Esther、惠智、秀恩以演員身分活動。 2014年10月，Core
-Contents
-Media被MBK娛樂收購，MBK官網藝人名單中僅存有李海寅、全載賢\[3\]（Esther）、[金佳花](https://zh.wikipedia.org/wiki/金佳花 "wikilink")\[4\]（惠智）、崔秀恩個人頁面，沒有Gangkiz組合頁面，故推斷Gangkiz已解散。
+2013年3月，海寅退團，改以公司旗下演員身分活動，11月智賢退團並離開公司，加入新公司Polaris Entertainment，其他組合成員Esther、惠智、秀恩以演員身分活動。 2014年10月，Core Contents Media被MBK娛樂收購，MBK官網藝人名單中僅存有李海寅、全載賢\[3\]（Esther）、[金佳花](https://zh.wikipedia.org/wiki/金佳花 "wikilink")\[4\]（惠智）、崔秀恩個人頁面，沒有Gangkiz組合頁面，故推斷Gangkiz已解散。
 
 ## 成員資料
 
@@ -146,15 +136,7 @@ Media被MBK娛樂收購，MBK官網藝人名單中僅存有李海寅、全載賢
   - [Gangkiz 首波預告公開](http://kpopn.com/2012/05/08/121796/)
   - [Gangkiz 第二波預告公開](http://kpopn.com/2012/05/09/121848/)
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
-[Category:2012年韓國建立](https://zh.wikipedia.org/wiki/Category:2012年韓國建立 "wikilink")
-[Category:2014年韓國廢除](https://zh.wikipedia.org/wiki/Category:2014年韓國廢除 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink") [Category:2012年韓國建立](https://zh.wikipedia.org/wiki/Category:2012年韓國建立 "wikilink") [Category:2014年韓國廢除](https://zh.wikipedia.org/wiki/Category:2014年韓國廢除 "wikilink")
 
 1.
 2.

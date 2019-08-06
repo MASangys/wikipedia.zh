@@ -1,7 +1,4 @@
-《**4MINUTE
-WORLD**》是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[4MINUTE的第五張迷你專輯](../Page/4minute.md "wikilink")。主打歌**『오늘
-뭐해 (Whatcha Doin' Today)』** ，於2014年3月17日發行。唱片公司為[Cube
-Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")。
+《**4MINUTE WORLD**》是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[4MINUTE的第五張迷你專輯](../Page/4minute.md "wikilink")。主打歌**『오늘 뭐해 (Whatcha Doin' Today)』** ，於2014年3月17日發行。唱片公司為[Cube Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")。
 
 ## 曲目名單
 
@@ -64,9 +61,6 @@ Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")。
 
 ## 參考資料
 
-[Category:4minute_EP](https://zh.wikipedia.org/wiki/Category:4minute_EP "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:2014年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon單曲週榜冠軍作品 "wikilink")
+[Category:4minute_EP](https://zh.wikipedia.org/wiki/Category:4minute_EP "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:2014年Gaon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon單曲週榜冠軍作品 "wikilink")
 
 1.

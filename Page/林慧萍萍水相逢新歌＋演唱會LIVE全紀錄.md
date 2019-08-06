@@ -1,6 +1,5 @@
 【**林慧萍萍水相逢新歌＋演唱會LIVE全紀錄**】是歌手[林慧萍](../Page/林慧萍.md "wikilink")的個人二十六張專輯；[科藝百代](https://zh.wikipedia.org/wiki/科藝百代 "wikilink")2003年8月3日發行。
-這張專輯是林慧萍於[台北國際會議中心](../Page/台北國際會議中心.md "wikilink")舉行入行20年售票演唱會『萍水相逢』的
-LIVE專輯 \[1\] \[2\]。
+這張專輯是林慧萍於[台北國際會議中心](../Page/台北國際會議中心.md "wikilink")舉行入行20年售票演唱會『萍水相逢』的 LIVE專輯 \[1\] \[2\]。
 
 ## 專輯簡介
 
@@ -297,12 +296,7 @@ LIVE專輯 \[1\] \[2\]。
 
 ## 參考文獻
 
-[Category:林慧萍音樂專輯](https://zh.wikipedia.org/wiki/Category:林慧萍音樂專輯 "wikilink")
-[Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
+[Category:林慧萍音樂專輯](https://zh.wikipedia.org/wiki/Category:林慧萍音樂專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
 
-1.  [自由時報-苦等20年
-    林慧萍「倩影」再現](http://www.libertytimes.com.tw/2003/new/jul/5/today-show3.htm)
-2.  \[<http://www.books.com.tw/exep/cdfile.php?item=0020090740>　林慧萍/萍水相逢新歌+演唱會
-    LIVE全紀錄\]
+1.  [自由時報-苦等20年 林慧萍「倩影」再現](http://www.libertytimes.com.tw/2003/new/jul/5/today-show3.htm)
+2.  \[<http://www.books.com.tw/exep/cdfile.php?item=0020090740>　林慧萍/萍水相逢新歌+演唱會 LIVE全紀錄\]

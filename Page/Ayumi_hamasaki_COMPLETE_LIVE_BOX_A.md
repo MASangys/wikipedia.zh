@@ -1,24 +1,14 @@
-『**ayumi hamasaki COMPLETE LIVE BOX A**』（巡迴演唱會DVD盒裝完全版
-A）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2003年1月29日發行2002年間LIVE演唱會收錄[DVD中](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+『**ayumi hamasaki COMPLETE LIVE BOX A**』（巡迴演唱會DVD盒裝完全版 A）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2003年1月29日發行2002年間LIVE演唱會收錄[DVD中](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 概要
 
-在2003年1月29日發行的「**ayumi hamasaki COMPLETE LIVE BOX A**」，「[ayumi hamasaki
-COUNTDOWN LIVE 2001-2002
-A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2001-2002_A "wikilink")」、「[ayumi
-hamasaki ARENA TOUR 2002
-A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_ARENA_TOUR_2002_A "wikilink")」、「[ayumi
-hamasaki STADIUM TOUR 2002
-A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_STADIUM_TOUR_2002_A "wikilink")」3種演唱會，其中收錄特典「[ayumi
-hamasaki COUNTDOWN LIVE 2002-2003
-A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2002-2003_A "wikilink")」的[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+在2003年1月29日發行的「**ayumi hamasaki COMPLETE LIVE BOX A**」，「[ayumi hamasaki COUNTDOWN LIVE 2001-2002 A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2001-2002_A "wikilink")」、「[ayumi hamasaki ARENA TOUR 2002 A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_ARENA_TOUR_2002_A "wikilink")」、「[ayumi hamasaki STADIUM TOUR 2002 A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_STADIUM_TOUR_2002_A "wikilink")」3種演唱會，其中收錄特典「[ayumi hamasaki COUNTDOWN LIVE 2002-2003 A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2002-2003_A "wikilink")」的[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 曲目
 
 ### DISC 01
 
-  - 「**[ayumi hamasaki COUNTDOWN LIVE 2001-2002
-    A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2001-2002_A "wikilink")**」。
+  - 「**[ayumi hamasaki COUNTDOWN LIVE 2001-2002 A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2001-2002_A "wikilink")**」。
 
 <!-- end list -->
 
@@ -33,13 +23,11 @@ A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2002-2003_A "wiki
 9.  [A Song is born](../Page/I_am....md "wikilink")
 10. [AUDIENCE](../Page/AUDIENCE.md "wikilink")
 11. [Dearest](../Page/Dearest_\(濱崎步單曲\).md "wikilink")
-12. [Endless sorrow 〜gone with the wind
-    ver.〜](../Page/I_am....md "wikilink")
+12. [Endless sorrow 〜gone with the wind ver.〜](../Page/I_am....md "wikilink")
 
 ### DISC 02
 
-  - 「**[ayumi hamasaki ARENA TOUR 2002
-    A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_ARENA_TOUR_2002_A "wikilink")**」。
+  - 「**[ayumi hamasaki ARENA TOUR 2002 A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_ARENA_TOUR_2002_A "wikilink")**」。
 
 <!-- end list -->
 
@@ -62,18 +50,14 @@ A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2002-2003_A "wiki
 
 ### DISC 03
 
-  - 「**[ayumi hamasaki STADIUM TOUR 2002
-    A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_STADIUM_TOUR_2002_A "wikilink")**」。
+  - 「**[ayumi hamasaki STADIUM TOUR 2002 A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_STADIUM_TOUR_2002_A "wikilink")**」。
 
 <!-- end list -->
 
 1.  [UNITE\!](../Page/UNITE!.md "wikilink")
 2.  [Fly high](../Page/Fly_high.md "wikilink")
 3.  [evolution](../Page/Evolution_\(濱崎步單曲\).md "wikilink")
-4.  medley（[WHATEVER](../Page/WHATEVER.md "wikilink")・[too
-    late](../Page/A_\(濱崎步單曲\).md "wikilink")・[monochrome](../Page/A_\(濱崎步單曲\).md "wikilink")・[End
-    roll](../Page/A_\(濱崎步單曲\).md "wikilink")・[Depend on
-    you](../Page/Depend_on_you.md "wikilink")・[Trauma](../Page/A_\(濱崎步單曲\).md "wikilink")・[vogue](https://zh.wikipedia.org/wiki/vogue_\(濱崎步單曲\) "wikilink")）
+4.  medley（[WHATEVER](../Page/WHATEVER.md "wikilink")・[too late](../Page/A_\(濱崎步單曲\).md "wikilink")・[monochrome](../Page/A_\(濱崎步單曲\).md "wikilink")・[End roll](../Page/A_\(濱崎步單曲\).md "wikilink")・[Depend on you](../Page/Depend_on_you.md "wikilink")・[Trauma](../Page/A_\(濱崎步單曲\).md "wikilink")・[vogue](https://zh.wikipedia.org/wiki/vogue_\(濱崎步單曲\) "wikilink")）
 5.  [July 1st](../Page/H_\(濱崎步單曲\).md "wikilink")
 6.  [independent](../Page/H_\(濱崎步單曲\).md "wikilink")
 7.  [Free & Easy](../Page/Free_&_Easy.md "wikilink")
@@ -90,8 +74,7 @@ A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2002-2003_A "wiki
 
 ## 特典
 
-  - 「**[ayumi hamasaki COUNTDOWN LIVE 2002-2003
-    A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2002-2003_A "wikilink")**」。
+  - 「**[ayumi hamasaki COUNTDOWN LIVE 2002-2003 A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2002-2003_A "wikilink")**」。
 
 <!-- end list -->
 
@@ -106,8 +89,7 @@ A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2002-2003_A "wiki
 9.  [TRF](../Page/TRF.md "wikilink") medley
 10. [AUDIENCE](../Page/AUDIENCE.md "wikilink")
 11. [WE WISH](https://zh.wikipedia.org/wiki/RAINBOW "wikilink")
-12. [everywhere
-    nowhere](https://zh.wikipedia.org/wiki/RAINBOW "wikilink")
+12. [everywhere nowhere](https://zh.wikipedia.org/wiki/RAINBOW "wikilink")
 13. [Trauma](../Page/A_\(濱崎步單曲\).md "wikilink")
 14. [Voyage](../Page/Voyage.md "wikilink")
 15. [independent](../Page/H_\(濱崎步單曲\).md "wikilink")
@@ -122,5 +104,4 @@ A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2002-2003_A "wiki
 
 </small>
 
-[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink")
-[Category:2003年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2003年音樂相關影像作品 "wikilink")
+[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink") [Category:2003年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2003年音樂相關影像作品 "wikilink")

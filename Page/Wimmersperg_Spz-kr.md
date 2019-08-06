@@ -1,5 +1,4 @@
-**Spz-kr**是一種由[納粹德國](../Page/納粹德國.md "wikilink")於1945年二戰末期製造的[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，此槍與[VG1-5](https://zh.wikipedia.org/wiki/VG1-5 "wikilink")，[STG45（M）和](../Page/StG45突擊步槍.md "wikilink")[MP
-3008一樣皆是屬於](https://zh.wikipedia.org/wiki/MP_3008 "wikilink")“最後一搏”系列的武器。
+**Spz-kr**是一種由[納粹德國](../Page/納粹德國.md "wikilink")於1945年二戰末期製造的[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，此槍與[VG1-5](https://zh.wikipedia.org/wiki/VG1-5 "wikilink")，[STG45（M）和](../Page/StG45突擊步槍.md "wikilink")[MP 3008一樣皆是屬於](https://zh.wikipedia.org/wiki/MP_3008 "wikilink")“最後一搏”系列的武器。
 
 ## 概述
 
@@ -18,8 +17,7 @@ Spz-kr全槍主要以[斯登衝鋒槍](../Page/斯登衝鋒槍.md "wikilink")的
 
 ## 參考文獻
 
-  - *Sturmgewehr\! From Firepower to Striking Power*, Hans-Dieter
-    Handrich, ISBN 0-88935-356-5
+  - *Sturmgewehr\! From Firepower to Striking Power*, Hans-Dieter Handrich, ISBN 0-88935-356-5
 
 ## 外部連結
 
@@ -27,8 +25,4 @@ Spz-kr全槍主要以[斯登衝鋒槍](../Page/斯登衝鋒槍.md "wikilink")的
 
   -
   -
-[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink")
-[Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink")
-[Category:7.92×33毫米槍械](https://zh.wikipedia.org/wiki/Category:7.92×33毫米槍械 "wikilink")
-[Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink")
-[Category:德國二戰武器](https://zh.wikipedia.org/wiki/Category:德國二戰武器 "wikilink")
+[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:7.92×33毫米槍械](https://zh.wikipedia.org/wiki/Category:7.92×33毫米槍械 "wikilink") [Category:德國槍械](https://zh.wikipedia.org/wiki/Category:德國槍械 "wikilink") [Category:德國二戰武器](https://zh.wikipedia.org/wiki/Category:德國二戰武器 "wikilink")

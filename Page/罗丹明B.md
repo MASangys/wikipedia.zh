@@ -1,10 +1,8 @@
-**罗丹明B**
-，又称**玫瑰红B**或**玫瑰精B**、**鹽基性桃紅精**(紅花米)\[1\]\[2\]，是一种合成化学物和一种[染料](../Page/染料.md "wikilink")。它常溶解在水中，作为[示踪染料来确定水流动的速率和方向](https://zh.wikipedia.org/wiki/示踪染料 "wikilink")。罗丹明染料能发出[荧光](../Page/荧光.md "wikilink")，因此可以被[荧光计轻易且便宜地侦测到](https://zh.wikipedia.org/wiki/荧光计 "wikilink")。罗丹明染料也被广泛用于[荧光显微镜](https://zh.wikipedia.org/wiki/荧光显微镜 "wikilink")，[流式细胞仪](https://zh.wikipedia.org/wiki/流式细胞术 "wikilink")，[荧光相关光谱学及](https://zh.wikipedia.org/wiki/荧光相关光谱学 "wikilink")[酶联免疫吸附试验](../Page/酶联免疫吸附试验.md "wikilink")等生物技术中。
+**罗丹明B** ，又称**玫瑰红B**或**玫瑰精B**、**鹽基性桃紅精**(紅花米)\[1\]\[2\]，是一种合成化学物和一种[染料](../Page/染料.md "wikilink")。它常溶解在水中，作为[示踪染料来确定水流动的速率和方向](https://zh.wikipedia.org/wiki/示踪染料 "wikilink")。罗丹明染料能发出[荧光](../Page/荧光.md "wikilink")，因此可以被[荧光计轻易且便宜地侦测到](https://zh.wikipedia.org/wiki/荧光计 "wikilink")。罗丹明染料也被广泛用于[荧光显微镜](https://zh.wikipedia.org/wiki/荧光显微镜 "wikilink")，[流式细胞仪](https://zh.wikipedia.org/wiki/流式细胞术 "wikilink")，[荧光相关光谱学及](https://zh.wikipedia.org/wiki/荧光相关光谱学 "wikilink")[酶联免疫吸附试验](../Page/酶联免疫吸附试验.md "wikilink")等生物技术中。
 
 在生物学中，罗丹明B被用作[染色用荧光染料](https://zh.wikipedia.org/wiki/染色_\(生物学\) "wikilink")，有时还会与[金胺O](../Page/金胺O.md "wikilink")一起使用，即金胺-罗丹明染色，来显示抗酸性生物，尤其是[结核杆菌](../Page/分枝杆菌属.md "wikilink")。
 
-当被作为[激光器染料时](../Page/染料激光器.md "wikilink")，罗丹明B在大约610 nm处是可调的。\[3\]它发出的荧光的量子产额在碱性[乙醇](../Page/乙醇.md "wikilink")中为0.65，\[4\]在[乙醇](../Page/乙醇.md "wikilink")中为0.49，\[5\]
-1.0,\[6\]而在94%乙醇中为0.68。\[7\]荧光产额是被温度所决定的。\[8\]
+当被作为[激光器染料时](../Page/染料激光器.md "wikilink")，罗丹明B在大约610 nm处是可调的。\[3\]它发出的荧光的量子产额在碱性[乙醇](../Page/乙醇.md "wikilink")中为0.65，\[4\]在[乙醇](../Page/乙醇.md "wikilink")中为0.49，\[5\] 1.0,\[6\]而在94%乙醇中为0.68。\[7\]荧光产额是被温度所决定的。\[8\]
 
 ## 溶解度
 
@@ -43,17 +41,13 @@
   - [罗丹明](https://zh.wikipedia.org/wiki/罗丹明 "wikilink")
   - [罗丹明6G](https://zh.wikipedia.org/wiki/罗丹明6G "wikilink")
 
-[Category:染色着色剂](https://zh.wikipedia.org/wiki/Category:染色着色剂 "wikilink")
-[Category:苯甲酸衍生物](https://zh.wikipedia.org/wiki/Category:苯甲酸衍生物 "wikilink")
-[Category:季铵盐](https://zh.wikipedia.org/wiki/Category:季铵盐 "wikilink")
-[Category:氯化物](https://zh.wikipedia.org/wiki/Category:氯化物 "wikilink")
+[Category:染色着色剂](https://zh.wikipedia.org/wiki/Category:染色着色剂 "wikilink") [Category:苯甲酸衍生物](https://zh.wikipedia.org/wiki/Category:苯甲酸衍生物 "wikilink") [Category:季铵盐](https://zh.wikipedia.org/wiki/Category:季铵盐 "wikilink") [Category:氯化物](https://zh.wikipedia.org/wiki/Category:氯化物 "wikilink")
 
 1.
 
 2.
 
-3.  [Rhodamine
-    B](http://omlc.ogi.edu/spectra/PhotochemCAD/html/rhodamineB.html)
+3.  [Rhodamine B](http://omlc.ogi.edu/spectra/PhotochemCAD/html/rhodamineB.html)
 
 4.
 
@@ -70,9 +64,7 @@
 10.
 
 11.
-12. *Detection and prevention of leaks from dams* By Antonio Plata
-    Bedmar and Luís Araguás Araguás, Taylor & Francis, 2002, ISBN
-    90-5809-355-7
+12. *Detection and prevention of leaks from dams* By Antonio Plata Bedmar and Luís Araguás Araguás, Taylor & Francis, 2002, ISBN 90-5809-355-7
 
 13.
 
@@ -80,8 +72,6 @@
 
 15.
 
-16. [Naval Jelly msds with Rhodamine
-    B](http://www.brown.edu/Departments/Visual_Art/documents/NavalJelly.pdf)
+16. [Naval Jelly msds with Rhodamine B](http://www.brown.edu/Departments/Visual_Art/documents/NavalJelly.pdf)
 
-17. [J. T. Baker Rhodamine B
-    MSDS](http://hazard.com/msds/mf/baker/baker/files/r5400.htm)
+17. [J. T. Baker Rhodamine B MSDS](http://hazard.com/msds/mf/baker/baker/files/r5400.htm)

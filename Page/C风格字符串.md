@@ -1,6 +1,4 @@
-**C风格字符串**特指在[C语言中](https://zh.wikipedia.org/wiki/C语言 "wikilink")[字符串](../Page/字符串.md "wikilink")的存储方式。
-在编程语言中，常常需要表示一段字符，如“今天你吃了么”，“how are
-you?”,“afjsa234234（\*&（\*（”等等。同一种字符串的写法在不同的[编程语言](../Page/编程语言.md "wikilink")中表示的字面值都是一样的，即引号中间的内容，但是在存储的处理上往往不一样。
+**C风格字符串**特指在[C语言中](https://zh.wikipedia.org/wiki/C语言 "wikilink")[字符串](../Page/字符串.md "wikilink")的存储方式。 在编程语言中，常常需要表示一段字符，如“今天你吃了么”，“how are you?”,“afjsa234234（\*&（\*（”等等。同一种字符串的写法在不同的[编程语言](../Page/编程语言.md "wikilink")中表示的字面值都是一样的，即引号中间的内容，但是在存储的处理上往往不一样。
 
 ## C语言中字符串的处理
 
@@ -18,5 +16,4 @@ ASCII编码及其扩充规范中，每个字符长度都不超过1[Byte](https:/
 
 [UTF8是一种很好的解决方案](https://zh.wikipedia.org/wiki/UTF8 "wikilink")，UTF8中字符的编码非定长，可能是1Byte或者是2Byte，但是这种编码方案中用每个字符的前缀来表示当前字符的长度，因此既有足够的空间来存储较多的字符，又不会出现0x00导致字符串在被以C风格字符串处理时异常结束。
 
-[Category:C語言](https://zh.wikipedia.org/wiki/Category:C語言 "wikilink")
-[Category:字符串](https://zh.wikipedia.org/wiki/Category:字符串 "wikilink")
+[Category:C語言](https://zh.wikipedia.org/wiki/Category:C語言 "wikilink") [Category:字符串](https://zh.wikipedia.org/wiki/Category:字符串 "wikilink")

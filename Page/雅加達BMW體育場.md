@@ -2,9 +2,6 @@
 
 ## 參考資料
 
-[Category:印尼體育場地](https://zh.wikipedia.org/wiki/Category:印尼體育場地 "wikilink")
-[Category:亞洲運動會體育場](https://zh.wikipedia.org/wiki/Category:亞洲運動會體育場 "wikilink")
-[Category:印尼足球場](https://zh.wikipedia.org/wiki/Category:印尼足球場 "wikilink")
-[Category:印尼橄欖球場](https://zh.wikipedia.org/wiki/Category:印尼橄欖球場 "wikilink")
+[Category:印尼體育場地](https://zh.wikipedia.org/wiki/Category:印尼體育場地 "wikilink") [Category:亞洲運動會體育場](https://zh.wikipedia.org/wiki/Category:亞洲運動會體育場 "wikilink") [Category:印尼足球場](https://zh.wikipedia.org/wiki/Category:印尼足球場 "wikilink") [Category:印尼橄欖球場](https://zh.wikipedia.org/wiki/Category:印尼橄欖球場 "wikilink")
 
 1.  <http://www.thejakartapost.com/news/2010/07/09/bmw-park-project-hits-snag.html>

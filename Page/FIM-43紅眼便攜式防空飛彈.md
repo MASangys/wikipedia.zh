@@ -41,5 +41,4 @@
 
   - 最先端武器8:步兵兵團，牛頓出版社
 
-[Category:便攜式防空飛彈](https://zh.wikipedia.org/wiki/Category:便攜式防空飛彈 "wikilink")
-[Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink")
+[Category:便攜式防空飛彈](https://zh.wikipedia.org/wiki/Category:便攜式防空飛彈 "wikilink") [Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink")

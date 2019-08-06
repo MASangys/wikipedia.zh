@@ -14,7 +14,4 @@
   - 緣份
   - 愛的魔法
 
-[Category:楊采妮音樂專輯](https://zh.wikipedia.org/wiki/Category:楊采妮音樂專輯 "wikilink")
-[Category:1993年音樂專輯](https://zh.wikipedia.org/wiki/Category:1993年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:愛情題材歌曲](https://zh.wikipedia.org/wiki/Category:愛情題材歌曲 "wikilink")
+[Category:楊采妮音樂專輯](https://zh.wikipedia.org/wiki/Category:楊采妮音樂專輯 "wikilink") [Category:1993年音樂專輯](https://zh.wikipedia.org/wiki/Category:1993年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:愛情題材歌曲](https://zh.wikipedia.org/wiki/Category:愛情題材歌曲 "wikilink")

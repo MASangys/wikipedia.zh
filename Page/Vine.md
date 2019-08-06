@@ -2,8 +2,7 @@
 
 ## 历史
 
-Vine在2012年6月由唐姆·霍夫曼和罗斯·优素普夫创立。2012年10月被[Twitter](../Page/Twitter.md "wikilink")收购\[5\]。2013年1月24日，Vine登陸\[iOS\]\]平台，适用于[iPhone和](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iTouch](https://zh.wikipedia.org/wiki/iTouch "wikilink")\[6\]。几个月后，Vine成为市场上最受欢迎的视频分享应用\[7\]。2013年4月9日，Vine在[App
-Store成为当日下载次数最多的免费软件](../Page/App_Store_\(iOS\).md "wikilink")\[8\]。2013年6月3日，Vine登陸Android平台。
+Vine在2012年6月由唐姆·霍夫曼和罗斯·优素普夫创立。2012年10月被[Twitter](../Page/Twitter.md "wikilink")收购\[5\]。2013年1月24日，Vine登陸\[iOS\]\]平台，适用于[iPhone和](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iTouch](https://zh.wikipedia.org/wiki/iTouch "wikilink")\[6\]。几个月后，Vine成为市场上最受欢迎的视频分享应用\[7\]。2013年4月9日，Vine在[App Store成为当日下载次数最多的免费软件](../Page/App_Store_\(iOS\).md "wikilink")\[8\]。2013年6月3日，Vine登陸Android平台。
 
 Twitter在2016年10月27日宣布将会关闭Vine作为公司重组计划的一部分，不过已经上传的视频并不会被删除。\[9\]
 
@@ -24,13 +23,9 @@ Vine也被[哥伦比亚唱片用来推广](https://zh.wikipedia.org/wiki/哥伦�
   - [官方网站](http://vine.co/)
   - [官方博客](http://vine.co/blog)
   - [Vine | iOS](https://itunes.apple.com/us/app/vine/id592447445)
-  - [Vine |
-    Android](http://play.google.com/store/apps/details?id=co.vine.android)
+  - [Vine | Android](http://play.google.com/store/apps/details?id=co.vine.android)
 
-[Category:Twitter](https://zh.wikipedia.org/wiki/Category:Twitter "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
-[Category:2013年軟體](https://zh.wikipedia.org/wiki/Category:2013年軟體 "wikilink")
+[Category:Twitter](https://zh.wikipedia.org/wiki/Category:Twitter "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:2013年軟體](https://zh.wikipedia.org/wiki/Category:2013年軟體 "wikilink")
 
 1.
 
@@ -47,8 +42,7 @@ Vine也被[哥伦比亚唱片用来推广](https://zh.wikipedia.org/wiki/哥伦�
 
 8.
 
-9.  \[<http://www.bbc.com/news/technology-37788052>? Twitter axes Vine
-    video service\].BBC.2016-10-27.\[2016-10-28\].
+9.  \[<http://www.bbc.com/news/technology-37788052>? Twitter axes Vine video service\].BBC.2016-10-27.\[2016-10-28\].
 
 10.
 

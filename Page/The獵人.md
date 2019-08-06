@@ -1,5 +1,4 @@
-《**The獵人**》（）是[讀賣電視台](../Page/讀賣電視台.md "wikilink")每週五26:35 -
-27:05（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播放的綜藝節目。2011年4月29日開始。
+《**The獵人**》（）是[讀賣電視台](../Page/讀賣電視台.md "wikilink")每週五26:35 - 27:05（[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播放的綜藝節目。2011年4月29日開始。
 
 ## 出演者
 
@@ -26,8 +25,7 @@
 
 :\* [パピコ](https://zh.wikipedia.org/wiki/パピコ "wikilink") - 椿鬼奴
 
-:\* [ピノ](https://zh.wikipedia.org/wiki/pino_\(アイスクリーム\) "wikilink") -
-竹若元博
+:\* [ピノ](https://zh.wikipedia.org/wiki/pino_\(アイスクリーム\) "wikilink") - 竹若元博
 
 :\* [ピッカラ](https://zh.wikipedia.org/wiki/ブルボン "wikilink") - 木村明浩
 
@@ -36,27 +34,15 @@
 ## 播放電視台
 
   - 讀賣電視台（制作局）：每週五 26:35 - 27:05\[1\]
-  - [日本電視台](../Page/日本電視台.md "wikilink")：每週四 26:08 -
-    26:38\[2\]（制作局在1日先行播放）
+  - [日本電視台](../Page/日本電視台.md "wikilink")：每週四 26:08 - 26:38\[2\]（制作局在1日先行播放）
 
 ## 備註
 
 ## 外部連結
 
-  - [ザ・狩人（ザ・ハンター）](https://web.archive.org/web/20130502002947/http://www.ytv.co.jp/hunter/)
-    - 官方網站
+  - [ザ・狩人（ザ・ハンター）](https://web.archive.org/web/20130502002947/http://www.ytv.co.jp/hunter/) - 官方網站
 
-[Category:讀賣電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:讀賣電視台綜藝節目 "wikilink")
-[Category:讀賣電視台深夜節目](https://zh.wikipedia.org/wiki/Category:讀賣電視台深夜節目 "wikilink")
-[Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink")
-[Category:日本電視台深夜節目](https://zh.wikipedia.org/wiki/Category:日本電視台深夜節目 "wikilink")
-[Category:日本電視台音樂節目](https://zh.wikipedia.org/wiki/Category:日本電視台音樂節目 "wikilink")
-[Category:吉本興業節目](https://zh.wikipedia.org/wiki/Category:吉本興業節目 "wikilink")
-[Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink")
-[Category:藤井隆](https://zh.wikipedia.org/wiki/Category:藤井隆 "wikilink")
+[Category:讀賣電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:讀賣電視台綜藝節目 "wikilink") [Category:讀賣電視台深夜節目](https://zh.wikipedia.org/wiki/Category:讀賣電視台深夜節目 "wikilink") [Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink") [Category:日本電視台深夜節目](https://zh.wikipedia.org/wiki/Category:日本電視台深夜節目 "wikilink") [Category:日本電視台音樂節目](https://zh.wikipedia.org/wiki/Category:日本電視台音樂節目 "wikilink") [Category:吉本興業節目](https://zh.wikipedia.org/wiki/Category:吉本興業節目 "wikilink") [Category:2011年日本電視節目](https://zh.wikipedia.org/wiki/Category:2011年日本電視節目 "wikilink") [Category:藤井隆](https://zh.wikipedia.org/wiki/Category:藤井隆 "wikilink")
 
-1.  2013年3月在『[キン★ドン](https://zh.wikipedia.org/wiki/キン★ドン "wikilink")』内播放。2011年4月29日
-    - 2011年9月在25:28 - 25:58播放。
-2.  2011年4月28日 - 2011年5月19日在25:38 - 26:08，同年5月26日 - 9月29日在26:08 -
-    26:38，同年10月6日在25:58 - 26:28播放。2012年4月5日開始在26:08 -
-    26:38播放。2013年4月4日開始在26:13 - 26:43播放。
+1.  2013年3月在『[キン★ドン](https://zh.wikipedia.org/wiki/キン★ドン "wikilink")』内播放。2011年4月29日 - 2011年9月在25:28 - 25:58播放。
+2.  2011年4月28日 - 2011年5月19日在25:38 - 26:08，同年5月26日 - 9月29日在26:08 - 26:38，同年10月6日在25:58 - 26:28播放。2012年4月5日開始在26:08 - 26:38播放。2013年4月4日開始在26:13 - 26:43播放。

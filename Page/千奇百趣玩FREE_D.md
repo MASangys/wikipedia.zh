@@ -1,5 +1,4 @@
-《**千奇百趣玩FREE
-D**》（），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")向日本[朝日電視台](../Page/朝日電視台.md "wikilink")購買版權而製作的[資訊](https://zh.wikipedia.org/wiki/資訊 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，以[高清技術拍攝](https://zh.wikipedia.org/wiki/高清 "wikilink")。節目主持為[森美和](https://zh.wikipedia.org/wiki/森美 "wikilink")[阮小儀](../Page/阮小儀.md "wikilink")，旁白為[林保全](../Page/林保全.md "wikilink")和[雷碧娜](../Page/雷碧娜.md "wikilink")。\[1\]\[2\]
+《**千奇百趣玩FREE D**》（），是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")向日本[朝日電視台](../Page/朝日電視台.md "wikilink")購買版權而製作的[資訊](https://zh.wikipedia.org/wiki/資訊 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，以[高清技術拍攝](https://zh.wikipedia.org/wiki/高清 "wikilink")。節目主持為[森美和](https://zh.wikipedia.org/wiki/森美 "wikilink")[阮小儀](../Page/阮小儀.md "wikilink")，旁白為[林保全](../Page/林保全.md "wikilink")和[雷碧娜](../Page/雷碧娜.md "wikilink")。\[1\]\[2\]
 
 本節目是該台早前播出之《[千奇百趣](../Page/千奇百趣.md "wikilink")》系列的第八輯，以競技場為主題，奇趣內容關於[日本](../Page/日本.md "wikilink")及香港的奇景。節目於2013年7月15日至8月16日，逢星期一至星期五[香港時間](../Page/香港時間.md "wikilink")22:30-23:00於[翡翠台](../Page/翡翠台.md "wikilink")和[高清翡翠台](../Page/高清翡翠台.md "wikilink")播放。
 
@@ -150,9 +149,7 @@ D**》（），是[香港](../Page/香港.md "wikilink")[電視廣播有限公�
   - [節目網站](http://programme.tvb.com/variety/neighborhoodtreasures5)
   - [myTV](http://mytv.tvb.com/variety/neighborhoodtreasures5)
 
-[Category:千奇百趣系列](https://zh.wikipedia.org/wiki/Category:千奇百趣系列 "wikilink")
-[Category:2013年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2013年無綫電視節目 "wikilink")
-[Category:無綫電視遊戲節目](https://zh.wikipedia.org/wiki/Category:無綫電視遊戲節目 "wikilink")
+[Category:千奇百趣系列](https://zh.wikipedia.org/wiki/Category:千奇百趣系列 "wikilink") [Category:2013年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2013年無綫電視節目 "wikilink") [Category:無綫電視遊戲節目](https://zh.wikipedia.org/wiki/Category:無綫電視遊戲節目 "wikilink")
 
 1.  [徐淑敏保鏢護航拒探志偉班](https://hk.news.yahoo.com/%E5%BE%90%E6%B7%91%E6%95%8F%E4%BF%9D%E9%8F%A2%E8%AD%B7%E8%88%AA%E6%8B%92%E6%8E%A2%E5%BF%97%E5%81%89%E7%8F%AD-223000268.html)
 2.  [高海寧低胸連身褲撼徐淑敏](http://paper.wenweipo.com/2013/07/26/EN1307260011.htm)

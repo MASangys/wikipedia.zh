@@ -1,18 +1,12 @@
-**Funtoo Linux**是一个基于[Gentoo
-Linux的](../Page/Gentoo_Linux.md "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")，在2008年由Gentoo
-Linux项目的前任领导者[Daniel
-Robbins启动](https://zh.wikipedia.org/wiki/Daniel_Robbins "wikilink")。\[1\]\[2\]
+**Funtoo Linux**是一个基于[Gentoo Linux的](../Page/Gentoo_Linux.md "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")，在2008年由Gentoo Linux项目的前任领导者[Daniel Robbins启动](https://zh.wikipedia.org/wiki/Daniel_Robbins "wikilink")。\[1\]\[2\]
 
 ## 历史
 
-在2008年的早些时候，Gentoo的创建者[Daniel
-Robbins提议解决](https://zh.wikipedia.org/wiki/Daniel_Robbins "wikilink")\[3\]Gentoo基金会的问题\[4\]。但是他已经在2004年离开了这个项目，他的提议被拒绝了。\[5\]
-为了实现他的愿望，旨在分享创新的Funtoo项目就诞生了。
+在2008年的早些时候，Gentoo的创建者[Daniel Robbins提议解决](https://zh.wikipedia.org/wiki/Daniel_Robbins "wikilink")\[3\]Gentoo基金会的问题\[4\]。但是他已经在2004年离开了这个项目，他的提议被拒绝了。\[5\] 为了实现他的愿望，旨在分享创新的Funtoo项目就诞生了。
 
 ## 特点
 
-Funtoo是一个基于[源代码](../Page/源代码.md "wikilink")的[Linux](../Page/Linux.md "wikilink")[发行版](../Page/Linux发行版.md "wikilink")。它的开发是在[IRC](../Page/IRC.md "wikilink")和一个[邮件列表上讨论进行的](https://zh.wikipedia.org/wiki/邮件列表 "wikilink")。\[6\]
-所做的更改有时会通过一个[Atom源提前发布](../Page/Atom_\(標準\).md "wikilink")。
+Funtoo是一个基于[源代码](../Page/源代码.md "wikilink")的[Linux](../Page/Linux.md "wikilink")[发行版](../Page/Linux发行版.md "wikilink")。它的开发是在[IRC](../Page/IRC.md "wikilink")和一个[邮件列表上讨论进行的](https://zh.wikipedia.org/wiki/邮件列表 "wikilink")。\[6\] 所做的更改有时会通过一个[Atom源提前发布](../Page/Atom_\(標準\).md "wikilink")。
 
 ### 核心技术
 
@@ -28,8 +22,7 @@ Metro\[7\]是一个在安装Funtoo时用于组建stage的自动化软件。
 
 #### boot-update
 
-boot-update\[8\]为设置[GNU GRUB](../Page/GNU_GRUB.md "wikilink")2和GRUB
-Legacy[引导程序提供了统一的机制](../Page/啟動程式.md "wikilink")。
+boot-update\[8\]为设置[GNU GRUB](../Page/GNU_GRUB.md "wikilink")2和GRUB Legacy[引导程序提供了统一的机制](../Page/啟動程式.md "wikilink")。
 
 #### 核心网络
 
@@ -47,10 +40,7 @@ Funtoo拥有自己的核心网络解决方案，让用户基于预先创建的�
 
   - [官方网站](http://www.funtoo.org/)
 
-[Category:Gentoo_Linux_derivatives](https://zh.wikipedia.org/wiki/Category:Gentoo_Linux_derivatives "wikilink")
-[Category:2008_software](https://zh.wikipedia.org/wiki/Category:2008_software "wikilink")
-[Category:Source-based_Linux_distributions](https://zh.wikipedia.org/wiki/Category:Source-based_Linux_distributions "wikilink")
-[Category:X86-64_Linux_distributions](https://zh.wikipedia.org/wiki/Category:X86-64_Linux_distributions "wikilink")
+[Category:Gentoo_Linux_derivatives](https://zh.wikipedia.org/wiki/Category:Gentoo_Linux_derivatives "wikilink") [Category:2008_software](https://zh.wikipedia.org/wiki/Category:2008_software "wikilink") [Category:Source-based_Linux_distributions](https://zh.wikipedia.org/wiki/Category:Source-based_Linux_distributions "wikilink") [Category:X86-64_Linux_distributions](https://zh.wikipedia.org/wiki/Category:X86-64_Linux_distributions "wikilink")
 
 1.
 2.
@@ -58,9 +48,7 @@ Funtoo拥有自己的核心网络解决方案，让用户基于预先创建的�
 4.
 5.
 6.  [funtoo-dev mailing list](http://groups.google.com/group/funtoo-dev)
-7.  [Metro Quick Start Tutorial - Funtoo
-    Linux](http://www.funtoo.org/wiki/Metro_Quick_Start_Tutorial)
+7.  [Metro Quick Start Tutorial - Funtoo Linux](http://www.funtoo.org/wiki/Metro_Quick_Start_Tutorial)
 8.  [Boot-Update - Funtoo Linux](http://www.funtoo.org/wiki/Boot-Update)
 9.  <http://funtoo.org/en/funtoo/core/networking/>
-10. [Funtoo Linux Kernels - Funtoo
-    Linux](http://www.funtoo.org/wiki/Funtoo_Linux_Kernels)
+10. [Funtoo Linux Kernels - Funtoo Linux](http://www.funtoo.org/wiki/Funtoo_Linux_Kernels)

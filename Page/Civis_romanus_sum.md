@@ -1,5 +1,4 @@
-拉丁文短语（，，意为**我是罗马公民**）是[西塞罗](../Page/西塞罗.md "wikilink")《反对维勒斯的演讲》（In
-Verrem）中用来为[罗马公民法律权利抗辩的短语](https://zh.wikipedia.org/wiki/罗马公民 "wikilink")。\[1\]
+拉丁文短语（，，意为**我是罗马公民**）是[西塞罗](../Page/西塞罗.md "wikilink")《反对维勒斯的演讲》（In Verrem）中用来为[罗马公民法律权利抗辩的短语](https://zh.wikipedia.org/wiki/罗马公民 "wikilink")。\[1\]
 
 在[新約聖經](../Page/新約聖經.md "wikilink")中，[圣保禄被囚禁和审判的时候在](https://zh.wikipedia.org/wiki/圣保禄 "wikilink")[凯撒面前宣示他作为罗马公民的权利](../Page/凯撒_\(头衔\).md "wikilink")，并且司法程序不得不暂停，直到他被带到罗马。\[2\]\[3\]
 
@@ -7,15 +6,11 @@ Verrem）中用来为[罗马公民法律权利抗辩的短语](https://zh.wikipe
 
 </blockquote>
 
-美国总统[约翰·肯尼迪](../Page/约翰·肯尼迪.md "wikilink")在1963年使用了这一短语：“两千年前，最自豪的是‘civis
-romanus sum’。今天，在自由世界，最自豪的是‘[Ich bin ein
-Berliner](https://zh.wikipedia.org/wiki/Ich_bin_ein_Berliner "wikilink")’。”\[6\]
+美国总统[约翰·肯尼迪](../Page/约翰·肯尼迪.md "wikilink")在1963年使用了这一短语：“两千年前，最自豪的是‘civis romanus sum’。今天，在自由世界，最自豪的是‘[Ich bin ein Berliner](https://zh.wikipedia.org/wiki/Ich_bin_ein_Berliner "wikilink")’。”\[6\]
 
 ## 参考资料
 
-[Category:古罗马](https://zh.wikipedia.org/wiki/Category:古罗马 "wikilink")
-[Category:拉丁文單字及片語](https://zh.wikipedia.org/wiki/Category:拉丁文單字及片語 "wikilink")
-[Category:罗马公民](https://zh.wikipedia.org/wiki/Category:罗马公民 "wikilink")
+[Category:古罗马](https://zh.wikipedia.org/wiki/Category:古罗马 "wikilink") [Category:拉丁文單字及片語](https://zh.wikipedia.org/wiki/Category:拉丁文單字及片語 "wikilink") [Category:罗马公民](https://zh.wikipedia.org/wiki/Category:罗马公民 "wikilink")
 
 1.
 2.  [Acts 22](http://www.biblegateway.com/passage/?search=Acts%2022)

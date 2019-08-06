@@ -1,5 +1,4 @@
-**HTC
-Desire系列**是[宏達電旗下的產品系列](https://zh.wikipedia.org/wiki/宏達電 "wikilink")。
+**HTC Desire系列**是[宏達電旗下的產品系列](https://zh.wikipedia.org/wiki/宏達電 "wikilink")。
 
 ## 旗下產品
 
@@ -18,86 +17,49 @@ Desire系列**是[宏達電旗下的產品系列](https://zh.wikipedia.org/wiki/
   - [Desire Q](https://zh.wikipedia.org/wiki/HTC_Desire_Q "wikilink")
   - [Desire P](../Page/HTC_Desire_P.md "wikilink")
   - [Desire U](https://zh.wikipedia.org/wiki/HTC_Desire_U "wikilink")
-  - [Desire
-    200](https://zh.wikipedia.org/wiki/HTC_Desire_200 "wikilink")
-  - [Desire
-    300](https://zh.wikipedia.org/wiki/HTC_Desire_300 "wikilink")
-  - [Desire
-    400](https://zh.wikipedia.org/wiki/HTC_Desire_400 "wikilink")
-  - [Desire
-    500](https://zh.wikipedia.org/wiki/HTC_Desire_500 "wikilink")
-  - [Desire
-    501（Desire·E1）](https://zh.wikipedia.org/wiki/HTC_Desire_501 "wikilink")
-  - [Desire 600（Desire 600C·Desire
-    608T）](../Page/HTC_Desire_600.md "wikilink")
-  - [Desire
-    601](https://zh.wikipedia.org/wiki/HTC_Desire_601 "wikilink")
-  - [Desire
-    210](https://zh.wikipedia.org/wiki/HTC_Desire_210 "wikilink")
-  - [Desire
-    310](https://zh.wikipedia.org/wiki/HTC_Desire_310 "wikilink")
-  - [Desire
-    320](https://zh.wikipedia.org/wiki/HTC_Desire_320 "wikilink")
+  - [Desire 200](https://zh.wikipedia.org/wiki/HTC_Desire_200 "wikilink")
+  - [Desire 300](https://zh.wikipedia.org/wiki/HTC_Desire_300 "wikilink")
+  - [Desire 400](https://zh.wikipedia.org/wiki/HTC_Desire_400 "wikilink")
+  - [Desire 500](https://zh.wikipedia.org/wiki/HTC_Desire_500 "wikilink")
+  - [Desire 501（Desire·E1）](https://zh.wikipedia.org/wiki/HTC_Desire_501 "wikilink")
+  - [Desire 600（Desire 600C·Desire 608T）](../Page/HTC_Desire_600.md "wikilink")
+  - [Desire 601](https://zh.wikipedia.org/wiki/HTC_Desire_601 "wikilink")
+  - [Desire 210](https://zh.wikipedia.org/wiki/HTC_Desire_210 "wikilink")
+  - [Desire 310](https://zh.wikipedia.org/wiki/HTC_Desire_310 "wikilink")
+  - [Desire 320](https://zh.wikipedia.org/wiki/HTC_Desire_320 "wikilink")
   - [Desire 510](../Page/HTC_Desire_510.md "wikilink")
-  - [Desire
-    512](https://zh.wikipedia.org/wiki/HTC_Desire_512 "wikilink")
-  - [Desire 516（Desire 516C·Desire 516G·Desire
-    316）](https://zh.wikipedia.org/wiki/HTC_Desire_516 "wikilink")
+  - [Desire 512](https://zh.wikipedia.org/wiki/HTC_Desire_512 "wikilink")
+  - [Desire 516（Desire 516C·Desire 516G·Desire 316）](https://zh.wikipedia.org/wiki/HTC_Desire_516 "wikilink")
   - [Desire 610](../Page/HTC_Desire_610.md "wikilink")
-  - [Desire
-    612](https://zh.wikipedia.org/wiki/HTC_Desire_612 "wikilink")
-  - [Desire
-    616](https://zh.wikipedia.org/wiki/HTC_Desire_616 "wikilink")
-  - [Desire 620（Desire 620G·Desire 820
-    Mini）](https://zh.wikipedia.org/wiki/HTC_Desire_620 "wikilink")
-  - [Desire 816（Desire 816 Wefly光速版·Desire
-    816G）](../Page/HTC_Desire_816.md "wikilink")
-  - [Desire 820（Desire 820G+·Desire 820Q·Desire 820S·Desire
-    820S全民飛揚版）](../Page/HTC_Desire_820.md "wikilink")
+  - [Desire 612](https://zh.wikipedia.org/wiki/HTC_Desire_612 "wikilink")
+  - [Desire 616](https://zh.wikipedia.org/wiki/HTC_Desire_616 "wikilink")
+  - [Desire 620（Desire 620G·Desire 820 Mini）](https://zh.wikipedia.org/wiki/HTC_Desire_620 "wikilink")
+  - [Desire 816（Desire 816 Wefly光速版·Desire 816G）](../Page/HTC_Desire_816.md "wikilink")
+  - [Desire 820（Desire 820G+·Desire 820Q·Desire 820S·Desire 820S全民飛揚版）](../Page/HTC_Desire_820.md "wikilink")
   - [Desire Eye](../Page/HTC_Desire_Eye.md "wikilink")
-  - [Desire
-    326G](https://zh.wikipedia.org/wiki/HTC_Desire_326G "wikilink")
-  - [Desire
-    520](https://zh.wikipedia.org/wiki/HTC_Desire_520 "wikilink")
-  - [Desire 526（Desire 526G·Desire
-    526G+）](https://zh.wikipedia.org/wiki/HTC_Desire_526 "wikilink")
-  - [Desire
-    530](https://zh.wikipedia.org/wiki/HTC_Desire_530 "wikilink")
-  - [Desire
-    550](https://zh.wikipedia.org/wiki/HTC_Desire_550 "wikilink")
-  - [Desire 626（Desire 626G·Desire 626G+·Desire
-    626S）](https://zh.wikipedia.org/wiki/HTC_Desire_626 "wikilink")
-  - [Desire 700（Desire 709D·Desire 7060·Desire
-    7088）](https://zh.wikipedia.org/wiki/HTC_Desire_700 "wikilink")
-  - [Desire 728（Desire
-    728G）](https://zh.wikipedia.org/wiki/HTC_Desire_728 "wikilink")
+  - [Desire 326G](https://zh.wikipedia.org/wiki/HTC_Desire_326G "wikilink")
+  - [Desire 520](https://zh.wikipedia.org/wiki/HTC_Desire_520 "wikilink")
+  - [Desire 526（Desire 526G·Desire 526G+）](https://zh.wikipedia.org/wiki/HTC_Desire_526 "wikilink")
+  - [Desire 530](https://zh.wikipedia.org/wiki/HTC_Desire_530 "wikilink")
+  - [Desire 550](https://zh.wikipedia.org/wiki/HTC_Desire_550 "wikilink")
+  - [Desire 626（Desire 626G·Desire 626G+·Desire 626S）](https://zh.wikipedia.org/wiki/HTC_Desire_626 "wikilink")
+  - [Desire 700（Desire 709D·Desire 7060·Desire 7088）](https://zh.wikipedia.org/wiki/HTC_Desire_700 "wikilink")
+  - [Desire 728（Desire 728G）](https://zh.wikipedia.org/wiki/HTC_Desire_728 "wikilink")
   - [Desire 826](../Page/HTC_Desire_826.md "wikilink")
-  - [Desire
-    828](https://zh.wikipedia.org/wiki/HTC_Desire_828 "wikilink")
-  - [Desire
-    530](https://zh.wikipedia.org/wiki/HTC_Desire_530 "wikilink")
-  - [Desire
-    628](https://zh.wikipedia.org/wiki/HTC_Desire_628 "wikilink")
-  - [Desire
-    630](https://zh.wikipedia.org/wiki/HTC_Desire_630 "wikilink")
-  - [Desire
-    650](https://zh.wikipedia.org/wiki/HTC_Desire_6350 "wikilink")
-  - [Desire
-    825](https://zh.wikipedia.org/wiki/HTC_Desire_825 "wikilink")
-  - [Desire
-    828](https://zh.wikipedia.org/wiki/HTC_Desire_828 "wikilink")
-  - [Desire
-    830](https://zh.wikipedia.org/wiki/HTC_Desire_830 "wikilink")
+  - [Desire 828](https://zh.wikipedia.org/wiki/HTC_Desire_828 "wikilink")
+  - [Desire 530](https://zh.wikipedia.org/wiki/HTC_Desire_530 "wikilink")
+  - [Desire 628](https://zh.wikipedia.org/wiki/HTC_Desire_628 "wikilink")
+  - [Desire 630](https://zh.wikipedia.org/wiki/HTC_Desire_630 "wikilink")
+  - [Desire 650](https://zh.wikipedia.org/wiki/HTC_Desire_6350 "wikilink")
+  - [Desire 825](https://zh.wikipedia.org/wiki/HTC_Desire_825 "wikilink")
+  - [Desire 828](https://zh.wikipedia.org/wiki/HTC_Desire_828 "wikilink")
+  - [Desire 830](https://zh.wikipedia.org/wiki/HTC_Desire_830 "wikilink")
   - [Desire 10 pro](../Page/HTC_Desire_10_pro.md "wikilink")
   - [Desire 10 lifestyle](../Page/HTC_Desire_10_lifestyle.md "wikilink")
-  - [HTC Desire
-    12](https://zh.wikipedia.org/wiki/HTC_Desire_12 "wikilink")
-  - [HTC Desire
-    12+](https://zh.wikipedia.org/wiki/HTC_Desire_12+ "wikilink")
-  - [HTC Desire
-    12s](https://zh.wikipedia.org/wiki/HTC_Desire_12s "wikilink")
-  - [HTC Desire
-    19+](https://zh.wikipedia.org/wiki/HTC_Desire_19+ "wikilink")
+  - [HTC Desire 12](https://zh.wikipedia.org/wiki/HTC_Desire_12 "wikilink")
+  - [HTC Desire 12+](https://zh.wikipedia.org/wiki/HTC_Desire_12+ "wikilink")
+  - [HTC Desire 12s](https://zh.wikipedia.org/wiki/HTC_Desire_12s "wikilink")
+  - [HTC Desire 19+](https://zh.wikipedia.org/wiki/HTC_Desire_19+ "wikilink")
 
 <table>
 <thead>
@@ -488,5 +450,4 @@ WVGA video recording<br />
 
 ## 參考資料
 
-[Category:HTC](https://zh.wikipedia.org/wiki/Category:HTC "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
+[Category:HTC](https://zh.wikipedia.org/wiki/Category:HTC "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")

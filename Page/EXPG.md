@@ -1,5 +1,4 @@
-**EXPG**（**EX**ILE **P**ROFESSIONAL
-**G**YM）是藝人經紀公司[LDH所營運的專業表演者培訓學校](https://zh.wikipedia.org/wiki/LDH_\(藝人經紀公司\) "wikilink")。於2003年由[五十嵐廣行](../Page/五十嵐廣行.md "wikilink")所創辦。
+**EXPG**（**EX**ILE **P**ROFESSIONAL **G**YM）是藝人經紀公司[LDH所營運的專業表演者培訓學校](https://zh.wikipedia.org/wiki/LDH_\(藝人經紀公司\) "wikilink")。於2003年由[五十嵐廣行](../Page/五十嵐廣行.md "wikilink")所創辦。
 
 ## 沿革
 
@@ -15,31 +14,24 @@
   - 2012年9月1日-名古屋校於[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[東區開校](https://zh.wikipedia.org/wiki/東區_\(名古屋市\) "wikilink")。
   - 2013年7月25日-沖繩校遷移至沖繩縣那霸市旭町。
   - 2013年9月17日-橫濱校於[神奈川縣](../Page/神奈川縣.md "wikilink")[橫濱市](https://zh.wikipedia.org/wiki/橫濱市 "wikilink")[神奈川區](../Page/神奈川區.md "wikilink")開校。
-  - 2014年9月1日
-    -紐約校於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")開校。\[1\]\[2\]。
-  - 2015年7月13日 -
-    大宫校於[埼玉縣](../Page/埼玉縣.md "wikilink")[埼玉市](../Page/埼玉市.md "wikilink")的[大宫區開校](https://zh.wikipedia.org/wiki/大宫區 "wikilink")。
-  - 2016年10月3日 -
-    京都校於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")[中京區](../Page/中京區.md "wikilink")開校。
-  - 2017年3月 -
-    仙台校於[宮城縣](../Page/宮城縣.md "wikilink")[仙台市](../Page/仙台市.md "wikilink")[青葉區預定開校](../Page/青葉區_\(仙台市\).md "wikilink")。
+  - 2014年9月1日 -紐約校於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")開校。\[1\]\[2\]。
+  - 2015年7月13日 - 大宫校於[埼玉縣](../Page/埼玉縣.md "wikilink")[埼玉市](../Page/埼玉市.md "wikilink")的[大宫區開校](https://zh.wikipedia.org/wiki/大宫區 "wikilink")。
+  - 2016年10月3日 - 京都校於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[京都市](../Page/京都市.md "wikilink")[中京區](../Page/中京區.md "wikilink")開校。
+  - 2017年3月 - 仙台校於[宮城縣](../Page/宮城縣.md "wikilink")[仙台市](../Page/仙台市.md "wikilink")[青葉區預定開校](../Page/青葉區_\(仙台市\).md "wikilink")。
 
 ## 關聯人物
 
 ### 東京校
 
-  - [AKIRA](../Page/AKIRA.md "wikilink")（[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")）
-    - 有在校內擔任過教練。
+  - [AKIRA](../Page/AKIRA.md "wikilink")（[EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")） - 有在校內擔任過教練。
   - [KENCHI](../Page/KENCHI.md "wikilink")（EXILE） - 有在校內擔任過教練。
   - [TETSUYA](../Page/TETSUYA_\(舞者\).md "wikilink")（EXILE） - 有在校內擔任過教練。
   - [KEIJI](../Page/KEIJI.md "wikilink")（EXILE） - 有在校內擔任過教練。
-  - [NAOKI](https://zh.wikipedia.org/wiki/NAOKI "wikilink")（EXILE、[第三代J
-    Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")）
+  - [NAOKI](https://zh.wikipedia.org/wiki/NAOKI "wikilink")（EXILE、[第三代J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")）
   - [楓](https://zh.wikipedia.org/wiki/楓_\(舞者\) "wikilink")（[Happiness](../Page/Happiness_\(組合\).md "wikilink")、[E-Girls](https://zh.wikipedia.org/wiki/E-girls "wikilink")）
   - MIYUU（Happiness、E-girls）
   - [春川恭亮](../Page/春川恭亮.md "wikilink")（[劇團EXILE](../Page/劇團EXILE.md "wikilink")）
-  - 野畑慎（[The
-    ROOTLESS](https://zh.wikipedia.org/wiki/The_ROOTLESS "wikilink")）
+  - 野畑慎（[The ROOTLESS](https://zh.wikipedia.org/wiki/The_ROOTLESS "wikilink")）
   - [有安杏果](../Page/有安杏果.md "wikilink")（原[桃色幸運草Z](../Page/桃色幸運草Z.md "wikilink")）
   - [水野繪梨奈](../Page/水野繪梨奈.md "wikilink")（原[Flower](https://zh.wikipedia.org/wiki/Flower_\(組合\) "wikilink")、E-girls）
   - 武藤千春（原Flower、原E-girls）
@@ -63,13 +55,10 @@
   - [chay](https://zh.wikipedia.org/wiki/chay "wikilink")
   - Meik（[J☆Dee'Z](https://zh.wikipedia.org/wiki/J☆Dee'Z "wikilink")）
   - 渡邉真梨奈（原EGD、原E-girls）
-  - [世界](https://zh.wikipedia.org/wiki/世界_\(パフォーマー\) "wikilink")（EXILE）
-    - 有在校內擔任過教練。
+  - [世界](https://zh.wikipedia.org/wiki/世界_\(パフォーマー\) "wikilink")（EXILE） - 有在校內擔任過教練。
   - [佐藤大樹](https://zh.wikipedia.org/wiki/佐藤大樹_\(ダンサー\) "wikilink")（EXILE）
-  - KAZUKI（[DOBERMAN
-    INFINITY](https://zh.wikipedia.org/wiki/DOBERMAN_INFINITY "wikilink")）
-  - RIKU（[THE
-    RAMPAGE](../Page/THE_RAMPAGE_from_EXILE_TRIBE.md "wikilink")）
+  - KAZUKI（[DOBERMAN INFINITY](https://zh.wikipedia.org/wiki/DOBERMAN_INFINITY "wikilink")）
+  - RIKU（[THE RAMPAGE](../Page/THE_RAMPAGE_from_EXILE_TRIBE.md "wikilink")）
   - 龍（THE RAMPAGE）
   - 鈴木昂秀（THE RAMPAGE）
   - 長谷川慎（THE RAMPAGE）
@@ -95,8 +84,7 @@
 
   - [藤井夏戀](https://zh.wikipedia.org/wiki/藤井夏戀 "wikilink")（Happiness、E-girls）
   - MIMU（元Happiness、元E-girls）
-  - [山下健二郎](https://zh.wikipedia.org/wiki/山下健二郎 "wikilink")（三代目J Soul
-    Brothers） - 也有在校內擔任過教練。
+  - [山下健二郎](https://zh.wikipedia.org/wiki/山下健二郎 "wikilink")（三代目J Soul Brothers） - 也有在校內擔任過教練。
   - [藤井萩花](https://zh.wikipedia.org/wiki/藤井萩花 "wikilink")（Flower、E-girls）
   - 中島美央（Flower、E-girls）
   - [小西彩乃](https://zh.wikipedia.org/wiki/小西彩乃 "wikilink")（[東京女子流](../Page/東京女子流.md "wikilink")）
@@ -120,8 +108,7 @@
 ### 松山校
 
   - [白濱亞嵐](../Page/白濱亞嵐.md "wikilink")（GENERATIONS）
-  - 長谷部萌香
-    （元[ひめキュンフルーツ缶](https://zh.wikipedia.org/wiki/ひめキュンフルーツ缶 "wikilink")）
+  - 長谷部萌香 （元[ひめキュンフルーツ缶](https://zh.wikipedia.org/wiki/ひめキュンフルーツ缶 "wikilink")）
 
 ### 福岡校
 
@@ -155,8 +142,7 @@
 
   -
   -
-[Category:LDH](https://zh.wikipedia.org/wiki/Category:LDH "wikilink")
-[Category:2003年創建的教育機構](https://zh.wikipedia.org/wiki/Category:2003年創建的教育機構 "wikilink")
+[Category:LDH](https://zh.wikipedia.org/wiki/Category:LDH "wikilink") [Category:2003年創建的教育機構](https://zh.wikipedia.org/wiki/Category:2003年創建的教育機構 "wikilink")
 
 1.
 2.

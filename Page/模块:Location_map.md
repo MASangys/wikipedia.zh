@@ -80,8 +80,7 @@ local hemisphereMultipliers = {
 
 }
 
-local function decdeg(degrees, minutes, seconds, hemisphere, decimal,
-direction)
+local function decdeg(degrees, minutes, seconds, hemisphere, decimal, direction)
 
 `   if decimal then`
 `       if degrees then`
@@ -128,8 +127,7 @@ direction)
 
 end
 
-\-- Finds a parameter in a transclusion of . local function
-coord2text(para,coord)
+\-- Finds a parameter in a transclusion of . local function coord2text(para,coord)
 
 `   local result = mw.text.split(mw.ustring.match(coord,'%d+%.?%d*°[NS] %d+%.?%d*°[EW]') or '', '[ °]')`
 `   if para == 'longitude' then result = {result[3], result[4]} end`
@@ -138,10 +136,7 @@ coord2text(para,coord)
 
 end
 
-\-- effectively make removeBlanks false for caption and maplink, and
-true for everything else -- if useWikidata is present but blank, convert
-it to false instead of nil -- p.top, p.bottom, and their callers need to
-use this function p.valueFunc(key, value)
+\-- effectively make removeBlanks false for caption and maplink, and true for everything else -- if useWikidata is present but blank, convert it to false instead of nil -- p.top, p.bottom, and their callers need to use this function p.valueFunc(key, value)
 
 `   if value then`
 `       value = mw.text.trim(value)`
@@ -245,8 +240,7 @@ function p.top(frame, args, map)
 
 <div style="position:absolute;top:0;left:0">
 
-[' .. width ..
-'px](https://zh.wikipedia.org/wiki/File:'_.._args.overlay_image_.._' "fig:' .. width .. 'px")
+[' .. width .. 'px](https://zh.wikipedia.org/wiki/File:'_.._args.overlay_image_.._' "fig:' .. width .. 'px")
 
 </div>
 
@@ -388,8 +382,7 @@ local function markImageDiv(mark, marksize, label, link, alt, title)
 
 end
 
-local function markLabelDiv(label, label_size, label_width, position,
-background, x, marksize)
+local function markLabelDiv(label, label_size, label_width, position, background, x, marksize)
 
 `   if tonumber(label_size) == 0 then`
 `       return mw.html.create('div'):cssText('font-size:0%;position:absolute'):wikitext(label)`
@@ -456,9 +449,7 @@ function p.mark(frame, args, map)
 
 \-- Temporarily removed to facilitate infobox conversion.
 
-\-- if longitude or latitude then -- error('Coordinates from
-[Module:Coordinates](https://zh.wikipedia.org/wiki/Module:Coordinates "wikilink")
-and individual coordinates cannot both be provided') -- end
+\-- if longitude or latitude then -- error('Coordinates from [Module:Coordinates](https://zh.wikipedia.org/wiki/Module:Coordinates "wikilink") and individual coordinates cannot both be provided') -- end
 
 `       longitude = coord2text('longitude', args.coordinates)`
 `       latitude = coord2text('latitude', args.coordinates)`
@@ -594,13 +585,4 @@ end
 
 return p
 
-[Category:可能存在错误的位置图](https://zh.wikipedia.org/wiki/Category:可能存在错误的位置图 "wikilink")
-[Category:可能存在错误的位置图](https://zh.wikipedia.org/wiki/Category:可能存在错误的位置图 "wikilink")
-[Category:可能存在错误的位置图](https://zh.wikipedia.org/wiki/Category:可能存在错误的位置图 "wikilink")
-[Category:位置图的经度与纬度精度不同](https://zh.wikipedia.org/wiki/Category:位置图的经度与纬度精度不同 "wikilink")
-[Category:位置图的经度与纬度精度不同](https://zh.wikipedia.org/wiki/Category:位置图的经度与纬度精度不同 "wikilink")
-[Category:位置图的经度与纬度精度不同](https://zh.wikipedia.org/wiki/Category:位置图的经度与纬度精度不同 "wikilink")
-[Category:位置图的经度与纬度精度不同](https://zh.wikipedia.org/wiki/Category:位置图的经度与纬度精度不同 "wikilink")
-[Category:位置图的经度与纬度精度不同](https://zh.wikipedia.org/wiki/Category:位置图的经度与纬度精度不同 "wikilink")
-[Category:可能存在错误的位置图](https://zh.wikipedia.org/wiki/Category:可能存在错误的位置图 "wikilink")
-[Category:可能存在错误的位置图](https://zh.wikipedia.org/wiki/Category:可能存在错误的位置图 "wikilink")
+[Category:可能存在错误的位置图](https://zh.wikipedia.org/wiki/Category:可能存在错误的位置图 "wikilink") [Category:可能存在错误的位置图](https://zh.wikipedia.org/wiki/Category:可能存在错误的位置图 "wikilink") [Category:可能存在错误的位置图](https://zh.wikipedia.org/wiki/Category:可能存在错误的位置图 "wikilink") [Category:位置图的经度与纬度精度不同](https://zh.wikipedia.org/wiki/Category:位置图的经度与纬度精度不同 "wikilink") [Category:位置图的经度与纬度精度不同](https://zh.wikipedia.org/wiki/Category:位置图的经度与纬度精度不同 "wikilink") [Category:位置图的经度与纬度精度不同](https://zh.wikipedia.org/wiki/Category:位置图的经度与纬度精度不同 "wikilink") [Category:位置图的经度与纬度精度不同](https://zh.wikipedia.org/wiki/Category:位置图的经度与纬度精度不同 "wikilink") [Category:位置图的经度与纬度精度不同](https://zh.wikipedia.org/wiki/Category:位置图的经度与纬度精度不同 "wikilink") [Category:可能存在错误的位置图](https://zh.wikipedia.org/wiki/Category:可能存在错误的位置图 "wikilink") [Category:可能存在错误的位置图](https://zh.wikipedia.org/wiki/Category:可能存在错误的位置图 "wikilink")

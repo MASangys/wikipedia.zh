@@ -1,5 +1,4 @@
-**RION**（前藝名：**宇都宮紫苑**，英文：**Shion Utsunomiya**
-，），出生於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")，前[日本](../Page/日本.md "wikilink")[AV女優](../Page/AV女優.md "wikilink")。為[S1旗下女優](../Page/S1_\(AV片商\).md "wikilink")，所屬於[T-POWERS](../Page/T-POWERS.md "wikilink")事務所。
+**RION**（前藝名：**宇都宮紫苑**，英文：**Shion Utsunomiya** ，），出生於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")，前[日本](../Page/日本.md "wikilink")[AV女優](../Page/AV女優.md "wikilink")。為[S1旗下女優](../Page/S1_\(AV片商\).md "wikilink")，所屬於[T-POWERS](../Page/T-POWERS.md "wikilink")事務所。
 
 ## 簡歷
 
@@ -7,8 +6,7 @@
 
 2014年4月，以「**安齋拉拉**」名義在日本《[週刊Playboy](../Page/週刊Playboy.md "wikilink")》上連載全裸寫真\[3\]。同年9月，暫別[AV界](https://zh.wikipedia.org/wiki/日本成人影片 "wikilink")。
 
-2015年9月，在S1以「**RION**」身份回歸AV演出，並拿下《DMM》所列出的2015下半年AV女優排行冠軍\[4\]。所屬事務所從[8
-Man移籍到T](https://zh.wikipedia.org/wiki/EIGHTMAN "wikilink")-POWERS。
+2015年9月，在S1以「**RION**」身份回歸AV演出，並拿下《DMM》所列出的2015下半年AV女優排行冠軍\[4\]。所屬事務所從[8 Man移籍到T](https://zh.wikipedia.org/wiki/EIGHTMAN "wikilink")-POWERS。
 
 ## 軼聞
 
@@ -389,25 +387,21 @@ Man移籍到T](https://zh.wikipedia.org/wiki/EIGHTMAN "wikilink")-POWERS。
 
 ※以「**安齋らら**」名義
 
-  - [週刊Playboy](../Page/週刊Playboy.md "wikilink") 2014年6月30日號封面 &
-    內頁模特兒（2014年6月16日、[集英社](../Page/集英社.md "wikilink")）
+  - [週刊Playboy](../Page/週刊Playboy.md "wikilink") 2014年6月30日號封面 & 內頁模特兒（2014年6月16日、[集英社](../Page/集英社.md "wikilink")）
 
 ※以「**RION**」名義
 
-  - [FLASH](https://zh.wikipedia.org/wiki/FLASH_\(雜誌\) "wikilink")
-    2015年12月22日號封面模特兒（2015年12月8日、[光文社](https://zh.wikipedia.org/wiki/光文社 "wikilink")）
+  - [FLASH](https://zh.wikipedia.org/wiki/FLASH_\(雜誌\) "wikilink") 2015年12月22日號封面模特兒（2015年12月8日、[光文社](https://zh.wikipedia.org/wiki/光文社 "wikilink")）
 
 ### 寫真集
 
 ※以「**安齋らら**」名義
 
-  - Hello,Goodbye（2014年6月16日、[集英社](../Page/集英社.md "wikilink")、撮影：ND
-    CHOW） ISBN 9784087807240
+  - Hello,Goodbye（2014年6月16日、[集英社](../Page/集英社.md "wikilink")、撮影：ND CHOW） ISBN 9784087807240
 
 ※以「**RION**」名義
 
-  - RION ファースト写真集『my home』（2015年12月19日、ジーオーティー、撮影：上野勇） ISBN
-    978-4860849924
+  - RION ファースト写真集『my home』（2015年12月19日、ジーオーティー、撮影：上野勇） ISBN 978-4860849924
 
 ### WEB配信寫真
 
@@ -418,8 +412,7 @@ Man移籍到T](https://zh.wikipedia.org/wiki/EIGHTMAN "wikilink")-POWERS。
 <!-- end list -->
 
   - Graphis Gals No.395 rion RION - Harmonious charm（11月24日、）
-  - FRIDAYデジタル写真集　RION「奇跡のJカップ, J Cup of Miracle」 出版年月：2017年3月
-    ISBN：9784064285276
+  - FRIDAYデジタル写真集　RION「奇跡のJカップ, J Cup of Miracle」 出版年月：2017年3月 ISBN：9784064285276
 
 ### 月曆
 
@@ -433,17 +426,11 @@ Man移籍到T](https://zh.wikipedia.org/wiki/EIGHTMAN "wikilink")-POWERS。
 
   -
   -
-  - [RION官方档案](https://web.archive.org/web/20161013224022/http://www.t-powers.co.jp/official/talent/rion/)
-    - T-POWERS
+  - [RION官方档案](https://web.archive.org/web/20161013224022/http://www.t-powers.co.jp/official/talent/rion/) - T-POWERS
 
-  - [RION官方网站](http://www.s1s1s1.com/actress/-/detail/=/id=1031775/) -
-    S1
+  - [RION官方网站](http://www.s1s1s1.com/actress/-/detail/=/id=1031775/) - S1
 
-[Category:1994年出生](https://zh.wikipedia.org/wiki/Category:1994年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:京都府出身人物](https://zh.wikipedia.org/wiki/Category:京都府出身人物 "wikilink")
-[Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink")
-[Category:S1女優](https://zh.wikipedia.org/wiki/Category:S1女優 "wikilink")
+[Category:1994年出生](https://zh.wikipedia.org/wiki/Category:1994年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:京都府出身人物](https://zh.wikipedia.org/wiki/Category:京都府出身人物 "wikilink") [Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink") [Category:S1女優](https://zh.wikipedia.org/wiki/Category:S1女優 "wikilink")
 
 1.
 2.

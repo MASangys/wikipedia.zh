@@ -1,6 +1,4 @@
-「**Answer is
-near**」（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本](../Page/日本.md "wikilink")[樂隊ONE](https://zh.wikipedia.org/wiki/樂隊 "wikilink")
-OK ROCK的第5張單曲，於2011年2月16日發行。
+「**Answer is near**」（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[日本](../Page/日本.md "wikilink")[樂隊ONE](https://zh.wikipedia.org/wiki/樂隊 "wikilink") OK ROCK的第5張單曲，於2011年2月16日發行。
 
 ## 簡介
 
@@ -29,7 +27,6 @@ OK ROCK的第5張單曲，於2011年2月16日發行。
 
 ## 外部連結
 
-[Category:ONE_OK_ROCK歌曲](https://zh.wikipedia.org/wiki/Category:ONE_OK_ROCK歌曲 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
+[Category:ONE_OK_ROCK歌曲](https://zh.wikipedia.org/wiki/Category:ONE_OK_ROCK歌曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
 
 1.  [レコチョク年間ランキング２０１１発表](http://japan.cnet.com/release/30011899/)

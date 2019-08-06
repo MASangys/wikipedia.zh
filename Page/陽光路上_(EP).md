@@ -1,7 +1,4 @@
-《**陽光路上**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[黎瑞恩](../Page/黎瑞恩.md "wikilink")的第二張Remix
-Single
-[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在1994年6月推出。專輯收錄Remix新歌《陽光路上<small>（Sunshine
-Remix）</small>》以及三首精選歌曲。
+《**陽光路上**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[黎瑞恩](../Page/黎瑞恩.md "wikilink")的第二張Remix Single [EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在1994年6月推出。專輯收錄Remix新歌《陽光路上<small>（Sunshine Remix）</small>》以及三首精選歌曲。
 
 ## 曲目
 
@@ -55,6 +52,4 @@ Remix）</small>》以及三首精選歌曲。
 
   - CD版
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:黎瑞恩音樂專輯](https://zh.wikipedia.org/wiki/Category:黎瑞恩音樂專輯 "wikilink")
-[Category:1994年迷你專輯](https://zh.wikipedia.org/wiki/Category:1994年迷你專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:黎瑞恩音樂專輯](https://zh.wikipedia.org/wiki/Category:黎瑞恩音樂專輯 "wikilink") [Category:1994年迷你專輯](https://zh.wikipedia.org/wiki/Category:1994年迷你專輯 "wikilink")

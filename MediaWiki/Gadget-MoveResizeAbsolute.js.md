@@ -79,8 +79,7 @@ function MoveResizeAbsolute_GetScreenHeight(){
 
 ### FONCTION : MOVE
 
-Transforme un élément en ancre pour bouger un autre élément (en position
-fixed)
+Transforme un élément en ancre pour bouger un autre élément (en position fixed)
 
   - elementArea = élément ancre (obligatoire)
   - elementsToMove = éléments à bouger (obligatoire)
@@ -173,12 +172,10 @@ function MoveResizeAbsolute_AddMoveArea(elementArea, elementsToMove, LeftLimit, 
 
 ### FONCTION : RESIZE
 
-Transforme un élément en ancre pour redimensionner un autre élément (en
-position fixed)
+Transforme un élément en ancre pour redimensionner un autre élément (en position fixed)
 
   - elementArea = élément ancre (obligatoire)
-  - elementsToResize = éléments à redimensionner (obligatoire, dans une
-    Array)
+  - elementsToResize = éléments à redimensionner (obligatoire, dans une Array)
   - MinWidth = largeur minimum, en pixel (facultatif)
   - MinHeight = hauteur minimum, en pixel (facultatif)
 
@@ -264,11 +261,4 @@ function MoveResizeAbsolute_AddResizeArea(elementArea, elementsToResize, MinWidt
 
 </div>
 
-window.MoveResizeAbsolute_GetScreenWidth =
-MoveResizeAbsolute_GetScreenWidth;
-window.MoveResizeAbsolute_GetScreenHeight =
-MoveResizeAbsolute_GetScreenHeight;
-window.MoveResizeAbsolute_AddMoveArea =
-MoveResizeAbsolute_AddMoveArea;
-window.MoveResizeAbsolute_AddResizeArea =
-MoveResizeAbsolute_AddResizeArea;
+window.MoveResizeAbsolute_GetScreenWidth = MoveResizeAbsolute_GetScreenWidth; window.MoveResizeAbsolute_GetScreenHeight = MoveResizeAbsolute_GetScreenHeight; window.MoveResizeAbsolute_AddMoveArea = MoveResizeAbsolute_AddMoveArea; window.MoveResizeAbsolute_AddResizeArea = MoveResizeAbsolute_AddResizeArea;

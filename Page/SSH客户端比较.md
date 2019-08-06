@@ -1,5 +1,4 @@
-**SSH客户端**是一种使用[Secure
-Shell](../Page/Secure_Shell.md "wikilink")（SSH）协议连接到[远程计算机的软件程序](../Page/服务器.md "wikilink")。本文将比较较著名的SSH客户端。
+**SSH客户端**是一种使用[Secure Shell](../Page/Secure_Shell.md "wikilink")（SSH）协议连接到[远程计算机的软件程序](../Page/服务器.md "wikilink")。本文将比较较著名的SSH客户端。
 
 ## 概览
 
@@ -1494,9 +1493,6 @@ SSH客户端所设计运行的[操作系统](../Page/操作系统.md "wikilink")
 
   - [自由终端模拟器，可以让您从一个易于使用的控制台同时进行多个Telnet和SSH连接。](http://www.dameware.com/free-ssh-client-for-windows.aspx)
 
-[Category:软件比较](https://zh.wikipedia.org/wiki/Category:软件比较 "wikilink")
-[Category:加密软件](https://zh.wikipedia.org/wiki/Category:加密软件 "wikilink")
-[Category:网络软件](https://zh.wikipedia.org/wiki/Category:网络软件 "wikilink")
-[Category:Secure_Shell](https://zh.wikipedia.org/wiki/Category:Secure_Shell "wikilink")
+[Category:软件比较](https://zh.wikipedia.org/wiki/Category:软件比较 "wikilink") [Category:加密软件](https://zh.wikipedia.org/wiki/Category:加密软件 "wikilink") [Category:网络软件](https://zh.wikipedia.org/wiki/Category:网络软件 "wikilink") [Category:Secure_Shell](https://zh.wikipedia.org/wiki/Category:Secure_Shell "wikilink")
 
 1.  <http://www.bitvise.com/ssh-client-version-history>

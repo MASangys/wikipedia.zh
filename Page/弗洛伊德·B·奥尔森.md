@@ -1,7 +1,4 @@
-**弗洛伊德·比约恩斯彻纳·奥尔森** (英语：Floyd Bjørnstjerne Olson，1891年11月13日
-–1936年8月22日)，美国政治家，1931年1月6日至1936年8月22日期间担任第22任美国明尼苏达州州长。任期期间死于[胃癌](../Page/胃癌.md "wikilink")。
-奥尔森是的一员,
-也是该党第一个竞选州长成功的成员。他被一贯认为是[明尼苏达州历史上最伟大的州长之一](https://zh.wikipedia.org/wiki/明尼苏达州 "wikilink")，也是当时最有影响力的美国政治家之一。
+**弗洛伊德·比约恩斯彻纳·奥尔森** (英语：Floyd Bjørnstjerne Olson，1891年11月13日 –1936年8月22日)，美国政治家，1931年1月6日至1936年8月22日期间担任第22任美国明尼苏达州州长。任期期间死于[胃癌](../Page/胃癌.md "wikilink")。 奥尔森是的一员, 也是该党第一个竞选州长成功的成员。他被一贯认为是[明尼苏达州历史上最伟大的州长之一](https://zh.wikipedia.org/wiki/明尼苏达州 "wikilink")，也是当时最有影响力的美国政治家之一。
 
 ## 早年生涯
 
@@ -11,9 +8,7 @@
 
 向西出发，他在[华盛顿的](https://zh.wikipedia.org/wiki/华盛顿 "wikilink")[西雅图短暂定居下来之前](https://zh.wikipedia.org/wiki/西雅图 "wikilink")，在[加拿大](../Page/加拿大.md "wikilink")和[阿拉斯加打了一系列的零工](https://zh.wikipedia.org/wiki/阿拉斯加 "wikilink")。他在[西雅图当了一名码头装卸工](https://zh.wikipedia.org/wiki/西雅图 "wikilink")，并在此期间加入了[世界产业工人联盟](https://zh.wikipedia.org/wiki/世界产业工人联盟 "wikilink")。奥尔森开始涉览群书，并且渐渐成为一个平民主义者。他的余生都将半社会主义哲学铭记在心。
 
-1913年，他回到[明尼苏达州](https://zh.wikipedia.org/wiki/明尼苏达州 "wikilink")，就读于，即当时的美国西北法律大学（Northwestern
-College of Law）。1915年拿到该校学位。同年，他与艾达·克瑞伊奇(Ada
-Krejci)在[明尼苏达州的](https://zh.wikipedia.org/wiki/明尼苏达州 "wikilink")相遇并结婚，成为了一名[执业律师](https://zh.wikipedia.org/wiki/执业律师 "wikilink")。\[1\]\[2\]
+1913年，他回到[明尼苏达州](https://zh.wikipedia.org/wiki/明尼苏达州 "wikilink")，就读于，即当时的美国西北法律大学（Northwestern College of Law）。1915年拿到该校学位。同年，他与艾达·克瑞伊奇(Ada Krejci)在[明尼苏达州的](https://zh.wikipedia.org/wiki/明尼苏达州 "wikilink")相遇并结婚，成为了一名[执业律师](https://zh.wikipedia.org/wiki/执业律师 "wikilink")。\[1\]\[2\]
 
 ## 亨内平县检察官
 
@@ -25,9 +20,7 @@ Krejci)在[明尼苏达州的](https://zh.wikipedia.org/wiki/明尼苏达州 "wi
 
 ## 州长候选人
 
-1923年，奥尔森对[明尼苏达公民联盟](https://zh.wikipedia.org/wiki/明尼苏达公民联盟 "wikilink")(Minnesota
-Citizens
-Alliance)的领导人提起诉讼，控告其雇佣职业杀手，将一名工会领袖的家炸毁。明尼苏达公民联盟是一个保守的商业组织，其致力于保护的推行。奥尔森对公民联盟的穷追不舍，使他成为了当地劳工运动中的一名英雄。这促使他参加了的州长提名竞选。
+1923年，奥尔森对[明尼苏达公民联盟](https://zh.wikipedia.org/wiki/明尼苏达公民联盟 "wikilink")(Minnesota Citizens Alliance)的领导人提起诉讼，控告其雇佣职业杀手，将一名工会领袖的家炸毁。明尼苏达公民联盟是一个保守的商业组织，其致力于保护的推行。奥尔森对公民联盟的穷追不舍，使他成为了当地劳工运动中的一名英雄。这促使他参加了的州长提名竞选。
 
 由于已经争取到了亨内平县农工党中央委员会的支持，在一番残酷激烈的角逐后，奥尔森勉强赢得了提名竞选。在拉福莱特竞选总统的影响下（拉福莱特与奥尔森互相支持鼓励），他获得了43%的选票，落后于共和党候选人48%的选票。得票率第三的民主党候选人仅获得了6%的选票，被远远地落在后面。
 
@@ -47,23 +40,9 @@ Alliance)的领导人提起诉讼，控告其雇佣职业杀手，将一名工�
 
 ## 拓展阅读
 
-  - 《弗洛伊德·B·奥尔森的政治生涯》（*The Political Career of Floyd B.
-    Olson*）,明尼苏达大学出版社1951年出版，乔治·H·梅尔（George H.
-    Mayer）著。
+  - 《弗洛伊德·B·奥尔森的政治生涯》（*The Political Career of Floyd B. Olson*）,明尼苏达大学出版社1951年出版，乔治·H·梅尔（George H. Mayer）著。
 
 [Category:明尼蘇達州州長](https://zh.wikipedia.org/wiki/Category:明尼蘇達州州長 "wikilink")
 
-1.  [Keillor, Steven
-    James](https://zh.wikipedia.org/wiki/Steven_Keillor "wikilink").
-    [*Hjalmar Petersen of Minnesota: The Politics of Provincial
-    Independence*](http://books.google.com/books?id=eMXAqjIVeqcC&pg=PA156&lpg=PA156&dq=%22Floyd+B.+Olson%22+yiddish),
-    p. 156. [Minnesota Historical Society
-    Press](https://zh.wikipedia.org/wiki/Minnesota_Historical_Society_Press "wikilink"),
-    1987. ISBN 0-87351-211-1. Accessed January 22, 2012.
-2.  [Gurock, Jeffrey
-    S.](https://zh.wikipedia.org/wiki/Jeffrey_S._Gurock "wikilink")
-    [*American Jewish History: an eight-volume
-    series*](http://books.google.com/books?id=5Ao_Pk5htcIC&pg=PA481&lpg=PA481&dq=%20Floyd+B.+Olson%20+yiddish),
-    p. 249. [Taylor &
-    Francis](https://zh.wikipedia.org/wiki/Taylor_&_Francis "wikilink"),
-    1998. ISBN 0-415-91929-0. Accessed January 22, 2012.
+1.  [Keillor, Steven James](https://zh.wikipedia.org/wiki/Steven_Keillor "wikilink"). [*Hjalmar Petersen of Minnesota: The Politics of Provincial Independence*](http://books.google.com/books?id=eMXAqjIVeqcC&pg=PA156&lpg=PA156&dq=%22Floyd+B.+Olson%22+yiddish), p. 156. [Minnesota Historical Society Press](https://zh.wikipedia.org/wiki/Minnesota_Historical_Society_Press "wikilink"), 1987. ISBN 0-87351-211-1. Accessed January 22, 2012.
+2.  [Gurock, Jeffrey S.](https://zh.wikipedia.org/wiki/Jeffrey_S._Gurock "wikilink") [*American Jewish History: an eight-volume series*](http://books.google.com/books?id=5Ao_Pk5htcIC&pg=PA481&lpg=PA481&dq=%20Floyd+B.+Olson%20+yiddish), p. 249. [Taylor & Francis](https://zh.wikipedia.org/wiki/Taylor_&_Francis "wikilink"), 1998. ISBN 0-415-91929-0. Accessed January 22, 2012.

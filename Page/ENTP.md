@@ -1,12 +1,6 @@
-本文基於[邁爾斯-布里格斯性格分類法](../Page/邁爾斯-布里格斯性格分類法.md "wikilink")。有關社會人格學的**ENTP**,
-請查看 [Logical
-Extrovert](http://en.wikipedia.org/wiki/Intuitive_Logical_Extrovert#The_16_types%7CIntuitive).
-**ENTP(外向／直覺／思考／理解)** 是一種基於分析心理學所發展出來的MBTI的十六種人格型態之一。MBTI
-評估標準發展自分析心理學家[卡爾.G.榮格的著作心理類型](https://zh.wikipedia.org/wiki/荣格 "wikilink")。[榮格基於他從臨床觀察得出的認知功能理論假設了一個心理類型學說](https://zh.wikipedia.org/wiki/榮格 "wikilink")。
-在榮格的基礎上, 別人發展了他的理論。榮格性格測評被包含在了由 Isabel Briggs Myers 和 Katharine Cook
-Briggs 發展來的測評。 在 David Keirsey 的 [Keirsey Temperament
-Sorter](http://en.wikipedia.org/wiki/Keirsey_Temperament_Sorter) 理論中,
-Keirsey 稱 ENTP 為發明家, 為四種理性者性格中的一種。 ENTP 約占人群的 2–5%.
+本文基於[邁爾斯-布里格斯性格分類法](../Page/邁爾斯-布里格斯性格分類法.md "wikilink")。有關社會人格學的**ENTP**, 請查看 [Logical Extrovert](http://en.wikipedia.org/wiki/Intuitive_Logical_Extrovert#The_16_types%7CIntuitive).
+**ENTP(外向／直覺／思考／理解)** 是一種基於分析心理學所發展出來的MBTI的十六種人格型態之一。MBTI 評估標準發展自分析心理學家[卡爾.G.榮格的著作心理類型](https://zh.wikipedia.org/wiki/荣格 "wikilink")。[榮格基於他從臨床觀察得出的認知功能理論假設了一個心理類型學說](https://zh.wikipedia.org/wiki/榮格 "wikilink")。
+在榮格的基礎上, 別人發展了他的理論。榮格性格測評被包含在了由 Isabel Briggs Myers 和 Katharine Cook Briggs 發展來的測評。 在 David Keirsey 的 [Keirsey Temperament Sorter](http://en.wikipedia.org/wiki/Keirsey_Temperament_Sorter) 理論中, Keirsey 稱 ENTP 為發明家, 為四種理性者性格中的一種。 ENTP 約占人群的 2–5%.
 
 ## MBTI偏好
 
@@ -52,9 +46,7 @@ Si收集關於當下的數據，然後把它們和過去的經驗比較，這過
 
 <noinclude>  </noinclude>
 
-[Category:性格分類](https://zh.wikipedia.org/wiki/Category:性格分類 "wikilink")
-[Category:分析心理学](https://zh.wikipedia.org/wiki/Category:分析心理学 "wikilink")
-[Category:邁爾斯-布里格斯性格分類法](https://zh.wikipedia.org/wiki/Category:邁爾斯-布里格斯性格分類法 "wikilink")
+[Category:性格分類](https://zh.wikipedia.org/wiki/Category:性格分類 "wikilink") [Category:分析心理学](https://zh.wikipedia.org/wiki/Category:分析心理学 "wikilink") [Category:邁爾斯-布里格斯性格分類法](https://zh.wikipedia.org/wiki/Category:邁爾斯-布里格斯性格分類法 "wikilink")
 
 1.
 2.

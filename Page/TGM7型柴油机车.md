@@ -9,8 +9,4 @@ TGM7型柴油机车（俄语：ТГМ7）是[苏联](../Page/苏联.md "wikilink
 
 <references />
 
-[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink")
-[Category:俄罗斯柴油机车](https://zh.wikipedia.org/wiki/Category:俄罗斯柴油机车 "wikilink")
-[Category:柳季诺沃制铁路机车](https://zh.wikipedia.org/wiki/Category:柳季诺沃制铁路机车 "wikilink")
-[Category:B-B轴式机车](https://zh.wikipedia.org/wiki/Category:B-B轴式机车 "wikilink")
-[Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")
+[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:俄罗斯柴油机车](https://zh.wikipedia.org/wiki/Category:俄罗斯柴油机车 "wikilink") [Category:柳季诺沃制铁路机车](https://zh.wikipedia.org/wiki/Category:柳季诺沃制铁路机车 "wikilink") [Category:B-B轴式机车](https://zh.wikipedia.org/wiki/Category:B-B轴式机车 "wikilink") [Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")

@@ -2,8 +2,7 @@
 
 ## 用法
 
-命令通常在[shell脚本中的](https://zh.wikipedia.org/wiki/shell脚本 "wikilink")[条件语句和](https://zh.wikipedia.org/wiki/条件语句 "wikilink")[循环语句使用](https://zh.wikipedia.org/wiki/程序循环 "wikilink")。例如，下面的shell脚本重复*echo
-hello*循环，直至被中断：
+命令通常在[shell脚本中的](https://zh.wikipedia.org/wiki/shell脚本 "wikilink")[条件语句和](https://zh.wikipedia.org/wiki/条件语句 "wikilink")[循环语句使用](https://zh.wikipedia.org/wiki/程序循环 "wikilink")。例如，下面的shell脚本重复*echo hello*循环，直至被中断：
 
 ``` bash
 while true
@@ -33,8 +32,7 @@ do
 done
 ```
 
-空命令可以有参数，但会被忽略。也可以用它作一个[无操作的伪命令](../Page/NOP.md "wikilink")，一种参数的扩展形式`${parameter:=word}`使用了它的副作用，来为参数分配默认值。\[2\]如一个来自*bashbug*，[Bash](../Page/Bash.md "wikilink")
-bug报告脚本的例子：
+空命令可以有参数，但会被忽略。也可以用它作一个[无操作的伪命令](../Page/NOP.md "wikilink")，一种参数的扩展形式`${parameter:=word}`使用了它的副作用，来为参数分配默认值。\[2\]如一个来自*bashbug*，[Bash](../Page/Bash.md "wikilink") bug报告脚本的例子：
 
 ``` bash
  : ${TMPDIR:=/tmp}
@@ -56,19 +54,12 @@ bug报告脚本的例子：
   -
 ### 手册页
 
-  - [true(1)](http://www.gnu.org/software/coreutils/manual/html_node/true-invocation.html):
-    Do nothing, successfully – [GNU](../Page/GNU.md "wikilink")
-    [Coreutils参考](../Page/GNU核心工具组.md "wikilink")
-  - [false(1)](http://www.gnu.org/software/coreutils/manual/html_node/false-invocation.html):
-    Do nothing, unsuccessfully – [GNU](../Page/GNU.md "wikilink")
-    [Coreutils参考](../Page/GNU核心工具组.md "wikilink")
-  - [true(1)](http://man.freebsd.org/true): Return true value –
-    [FreeBSD](../Page/FreeBSD.md "wikilink")手册页
-  - [false(1)](http://man.freebsd.org/false): Return false value –
-    [FreeBSD](../Page/FreeBSD.md "wikilink")手册页
+  - [true(1)](http://www.gnu.org/software/coreutils/manual/html_node/true-invocation.html): Do nothing, successfully – [GNU](../Page/GNU.md "wikilink") [Coreutils参考](../Page/GNU核心工具组.md "wikilink")
+  - [false(1)](http://www.gnu.org/software/coreutils/manual/html_node/false-invocation.html): Do nothing, unsuccessfully – [GNU](../Page/GNU.md "wikilink") [Coreutils参考](../Page/GNU核心工具组.md "wikilink")
+  - [true(1)](http://man.freebsd.org/true): Return true value – [FreeBSD](../Page/FreeBSD.md "wikilink")手册页
+  - [false(1)](http://man.freebsd.org/false): Return false value – [FreeBSD](../Page/FreeBSD.md "wikilink")手册页
 
-[Category:标准Unix程序](https://zh.wikipedia.org/wiki/Category:标准Unix程序 "wikilink")
-[Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
+[Category:标准Unix程序](https://zh.wikipedia.org/wiki/Category:标准Unix程序 "wikilink") [Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
 
 1.
 2.

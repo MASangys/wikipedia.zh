@@ -24,10 +24,4 @@
 
 <http://www.tongli.com.tw/>
 
-[Category:韓國作家](https://zh.wikipedia.org/wiki/Category:韓國作家 "wikilink")
-[Category:林達永](https://zh.wikipedia.org/wiki/Category:林達永 "wikilink")
-[Category:少年漫画](https://zh.wikipedia.org/wiki/Category:少年漫画 "wikilink")
-[Category:校園漫画](https://zh.wikipedia.org/wiki/Category:校園漫画 "wikilink")
-[Category:奇幻漫画](https://zh.wikipedia.org/wiki/Category:奇幻漫画 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
+[Category:韓國作家](https://zh.wikipedia.org/wiki/Category:韓國作家 "wikilink") [Category:林達永](https://zh.wikipedia.org/wiki/Category:林達永 "wikilink") [Category:少年漫画](https://zh.wikipedia.org/wiki/Category:少年漫画 "wikilink") [Category:校園漫画](https://zh.wikipedia.org/wiki/Category:校園漫画 "wikilink") [Category:奇幻漫画](https://zh.wikipedia.org/wiki/Category:奇幻漫画 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")

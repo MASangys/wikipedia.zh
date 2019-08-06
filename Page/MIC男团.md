@@ -3,8 +3,7 @@
 ## 主要经历
 
   - 2006年，北京太合麦田唱片公司面向全国招募练习生，经过层层选拔，王浩(團長)、赵泳鑫(副團長)、檀健次、池约翰和肖顺尧脱颖而出正式加入公司成为练习生；
-  - 2010年，历练4年组成的**MIC男团**参加东方卫视《[咪咕明星学院](https://zh.wikipedia.org/wiki/咪咕明星学院 "wikilink")》并获得全国总冠军\[1\]，同年10月发行首张专辑《Rock
-    Star》\[2\]；
+  - 2010年，历练4年组成的**MIC男团**参加东方卫视《[咪咕明星学院](https://zh.wikipedia.org/wiki/咪咕明星学院 "wikilink")》并获得全国总冠军\[1\]，同年10月发行首张专辑《Rock Star》\[2\]；
   - 2011年，发行第二张专辑《v》\[3\]，同年底参加湖南、安徽、山东、深圳、东方5家卫视的跨年演唱会
   - 2012年，发行同名漫画书籍《M.I.C男团》\[4\]，当年参加央视《元宵晚会》\[5\]
   - 2013年，发行第三张专辑《色·COLOR》\[6\]，同年获得第三届香港[亚洲流行音乐节并获得](https://zh.wikipedia.org/wiki/亚洲流行音乐节 "wikilink")“亚洲超级新星大奖”\[7\]，并举办三周年歌迷感恩表彰大会\[8\]；
@@ -262,24 +261,15 @@
   - [MIC男团 官方音乐](http://music.baidu.com/artist/1607)
   - [MIC男团 官方MV](http://www.yinyuetai.com/fanclub/7833)
 
-[Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink")
-[Category:华语流行音乐团体](https://zh.wikipedia.org/wiki/Category:华语流行音乐团体 "wikilink")
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
+[Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink") [Category:华语流行音乐团体](https://zh.wikipedia.org/wiki/Category:华语流行音乐团体 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
 
-1.  [韩庚周杰伦两天王助阵
-    MIC男团赢咪咕学院巨奖](http://ent.163.com/10/0327/13/62PKB3N100031H0O.html)
-2.  [MIC男团发行首张专辑
-    高调宣布进军华语乐坛](http://ent.163.com/10/1021/07/6JGKGGQA00031H0O.html)
+1.  [韩庚周杰伦两天王助阵 MIC男团赢咪咕学院巨奖](http://ent.163.com/10/0327/13/62PKB3N100031H0O.html)
+2.  [MIC男团发行首张专辑 高调宣布进军华语乐坛](http://ent.163.com/10/1021/07/6JGKGGQA00031H0O.html)
 3.  [MIC男团推出首张专辑《V》](http://finance.qq.com/a/20111119/000427.htm)
-4.  [MIC男团漫画单行本发行
-    元旦跨年签售会启动](http://news.xinhuanet.com/ent/2011-12/28/c_122497732.htm)
+4.  [MIC男团漫画单行本发行 元旦跨年签售会启动](http://news.xinhuanet.com/ent/2011-12/28/c_122497732.htm)
 5.  [MIC男团亮相央视元宵晚会 改编元宵《漫游记》](http://ent.qq.com/a/20120206/000283.htm)
 6.  [MIC男团全新创作专辑《色.COLOR》首发](http://ent.163.com/12/0808/16/88DAU4EN00031H0O.html)
-7.  [MIC男团力挫日韩歌手
-    亚洲音乐节独领三项大奖](http://news.xinhuanet.com/ent/2013-03/26/c_124504144.htm)
+7.  [MIC男团力挫日韩歌手 亚洲音乐节独领三项大奖](http://news.xinhuanet.com/ent/2013-03/26/c_124504144.htm)
 8.  [偶像天团MIC男团成立3周年 开表彰大会感恩歌迷](http://ent.qq.com/a/20131030/012796.htm)
-9.  [MIC男团《音超》首唱原创
-    高分晋级总决赛](http://www.yangtse.com/system/2014/02/17/020276556.shtml)
-
-10. [MIC男团亮相中韩歌会 被赞中国版BIG
-    BANG](http://www.022net.com/2013/11-27/486376373282302.html)
+9.  [MIC男团《音超》首唱原创 高分晋级总决赛](http://www.yangtse.com/system/2014/02/17/020276556.shtml)
+10. [MIC男团亮相中韩歌会 被赞中国版BIG BANG](http://www.022net.com/2013/11-27/486376373282302.html)

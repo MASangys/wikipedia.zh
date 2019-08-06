@@ -1,7 +1,4 @@
-《**Another Code：R
-記憶之門**》（，）是一個[Wii](../Page/Wii.md "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[冒险游戏](../Page/冒险游戏.md "wikilink")。此遊戲由[Cing](../Page/Cing.md "wikilink")開發，[任天堂](../Page/任天堂.md "wikilink")發佈，是《[Another
-Code
-兩段記憶](../Page/Another_Code_兩段記憶.md "wikilink")》的續作。此遊戲也是Cing首個開發的Wii遊戲。\[1\]
+《**Another Code：R 記憶之門**》（，）是一個[Wii](../Page/Wii.md "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")[冒险游戏](../Page/冒险游戏.md "wikilink")。此遊戲由[Cing](../Page/Cing.md "wikilink")開發，[任天堂](../Page/任天堂.md "wikilink")發佈，是《[Another Code 兩段記憶](../Page/Another_Code_兩段記憶.md "wikilink")》的續作。此遊戲也是Cing首個開發的Wii遊戲。\[1\]
 
 ## 劇情
 
@@ -64,9 +61,7 @@ Code
 
 ## 評價
 
-此遊戲獲得的評價不錯。[GameRankings得出此遊戲的分數為](https://zh.wikipedia.org/wiki/GameRankings "wikilink")69.21%。\[8\]
-日本遊戲雜誌《[Fami通](../Page/Fami通.md "wikilink")》給予此遊戲28/40分。\[9\]而《[任天堂官方雜誌](https://zh.wikipedia.org/wiki/任天堂官方雜誌 "wikilink")》
-則給予此遊戲84%的得分。[IGN](../Page/IGN.md "wikilink")給予此遊戲8/10分，並稱讚其畫質、音樂和遊戲系統。\[10\]而[Eurogamer](../Page/Eurogamer.md "wikilink")則給予此遊戲6/10分，稱讚其畫質，但就批評其遊戲費時。\[11\]
+此遊戲獲得的評價不錯。[GameRankings得出此遊戲的分數為](https://zh.wikipedia.org/wiki/GameRankings "wikilink")69.21%。\[8\] 日本遊戲雜誌《[Fami通](../Page/Fami通.md "wikilink")》給予此遊戲28/40分。\[9\]而《[任天堂官方雜誌](https://zh.wikipedia.org/wiki/任天堂官方雜誌 "wikilink")》 則給予此遊戲84%的得分。[IGN](../Page/IGN.md "wikilink")給予此遊戲8/10分，並稱讚其畫質、音樂和遊戲系統。\[10\]而[Eurogamer](../Page/Eurogamer.md "wikilink")則給予此遊戲6/10分，稱讚其畫質，但就批評其遊戲費時。\[11\]
 
 ## 銷售
 
@@ -79,27 +74,16 @@ Code
   - [日本官方網站](http://www.nintendo.co.jp/wii/rnoj/index.html)
   - [歐洲官方網站](http://www.nintendo.co.uk/NOE/en_GB/games/wii/another_code_r_-_a_journey_into_lost_memories_12456.html?cID=244&lID=lostMem&loc=enGB)
 
-[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink")
-[Category:任天堂游戏](https://zh.wikipedia.org/wiki/Category:任天堂游戏 "wikilink")
-[Category:Touch\!_Generations](https://zh.wikipedia.org/wiki/Category:Touch!_Generations "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink")
-[Category:Wii独占游戏](https://zh.wikipedia.org/wiki/Category:Wii独占游戏 "wikilink")
-[Category:Cing遊戲](https://zh.wikipedia.org/wiki/Category:Cing遊戲 "wikilink")
-[Category:指向與點擊式冒險遊戲](https://zh.wikipedia.org/wiki/Category:指向與點擊式冒險遊戲 "wikilink")
+[Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:任天堂游戏](https://zh.wikipedia.org/wiki/Category:任天堂游戏 "wikilink") [Category:Touch\!_Generations](https://zh.wikipedia.org/wiki/Category:Touch!_Generations "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink") [Category:Wii独占游戏](https://zh.wikipedia.org/wiki/Category:Wii独占游戏 "wikilink") [Category:Cing遊戲](https://zh.wikipedia.org/wiki/Category:Cing遊戲 "wikilink") [Category:指向與點擊式冒險遊戲](https://zh.wikipedia.org/wiki/Category:指向與點擊式冒險遊戲 "wikilink")
 
 1.
-2.  [アナザーコード：R 記憶の扉 -
-    劇情](http://www.nintendo.co.jp/wii/rnoj/prologue/index.html)
+2.  [アナザーコード：R 記憶の扉 - 劇情](http://www.nintendo.co.jp/wii/rnoj/prologue/index.html)
 
-3.  [アナザーコード：R 記憶の扉 -
-    遊戲系統](http://www.nintendo.co.jp/wii/rnoj/system/index.html)
+3.  [アナザーコード：R 記憶の扉 - 遊戲系統](http://www.nintendo.co.jp/wii/rnoj/system/index.html)
 
-4.  [アナザーコード：R 記憶の扉 -
-    登場人物紹介](http://www.nintendo.co.jp/wii/rnoj/character/index.html)
+4.  [アナザーコード：R 記憶の扉 - 登場人物紹介](http://www.nintendo.co.jp/wii/rnoj/character/index.html)
 
-5.  [Nintendo Reveals Punch-Out\!\! Wii, Sin and Punishment 2, And
-    More](http://www.1up.com/do/newsStory?cId=3170306)
+5.  [Nintendo Reveals Punch-Out\!\! Wii, Sin and Punishment 2, And More](http://www.1up.com/do/newsStory?cId=3170306)
 
 6.
 7.

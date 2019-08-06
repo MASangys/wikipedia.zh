@@ -15,45 +15,30 @@
 
 **A1**平台车型（括号里为车型代号）
 
-  - [大众高尔夫（第一代）](https://zh.wikipedia.org/wiki/大众高尔夫#Golf_Mk1/Rabbit_\(A1/Typ_17,_1974-1984\) "wikilink")
-    (17)
-  - [Cabriolet](https://zh.wikipedia.org/wiki/大众高尔夫#Golf_Mk1_Cabriolet_\(1979−1993\) "wikilink")
-    (17)
-  - [大众捷达（第一代）](https://zh.wikipedia.org/wiki/大众捷达#第一代（1979） "wikilink")
-    (17)
-  - [Volkswagen
-    Caddy](https://zh.wikipedia.org/wiki/Volkswagen_Caddy "wikilink")
-    ([皮卡](../Page/皮卡.md "wikilink")) (14)
-  - [大众尚酷（第一代）](https://zh.wikipedia.org/wiki/大众尚酷#第一代（1974–1982） "wikilink")
-    (53)
-  - [大众尚酷（第二代）](https://zh.wikipedia.org/wiki/大众尚酷#第二代（1982–1992） "wikilink")
-    (53B)
+  - [大众高尔夫（第一代）](https://zh.wikipedia.org/wiki/大众高尔夫#Golf_Mk1/Rabbit_\(A1/Typ_17,_1974-1984\) "wikilink") (17)
+  - [Cabriolet](https://zh.wikipedia.org/wiki/大众高尔夫#Golf_Mk1_Cabriolet_\(1979−1993\) "wikilink") (17)
+  - [大众捷达（第一代）](https://zh.wikipedia.org/wiki/大众捷达#第一代（1979） "wikilink") (17)
+  - [Volkswagen Caddy](https://zh.wikipedia.org/wiki/Volkswagen_Caddy "wikilink") ([皮卡](../Page/皮卡.md "wikilink")) (14)
+  - [大众尚酷（第一代）](https://zh.wikipedia.org/wiki/大众尚酷#第一代（1974–1982） "wikilink") (53)
+  - [大众尚酷（第二代）](https://zh.wikipedia.org/wiki/大众尚酷#第二代（1982–1992） "wikilink") (53B)
 
 ## A2
 
 **A2**平台车型（括号里为车型代号）:
 
-  - [Volkswagen
-    Corrado](https://zh.wikipedia.org/wiki/Volkswagen_Corrado "wikilink")
-    (53I)
-  - [大众高尔夫（第二代）](https://zh.wikipedia.org/wiki/大众高尔夫#Golf_Mk2_\(A2/Typ_19E,_1985-1992\) "wikilink")
-    (19E)
-  - [大众捷达（第二代）](https://zh.wikipedia.org/wiki/大众捷达#第二代（1984） "wikilink")
-    (19E)
-  - [SEAT Toledo
-    Mk1](https://zh.wikipedia.org/wiki/SEAT_Toledo#1L "wikilink") (1L)
-  - [Chery A11](https://zh.wikipedia.org/wiki/Chery_A11 "wikilink") 与
-    [A15](https://zh.wikipedia.org/wiki/Chery_A15 "wikilink")
+  - [Volkswagen Corrado](https://zh.wikipedia.org/wiki/Volkswagen_Corrado "wikilink") (53I)
+  - [大众高尔夫（第二代）](https://zh.wikipedia.org/wiki/大众高尔夫#Golf_Mk2_\(A2/Typ_19E,_1985-1992\) "wikilink") (19E)
+  - [大众捷达（第二代）](https://zh.wikipedia.org/wiki/大众捷达#第二代（1984） "wikilink") (19E)
+  - [SEAT Toledo Mk1](https://zh.wikipedia.org/wiki/SEAT_Toledo#1L "wikilink") (1L)
+  - [Chery A11](https://zh.wikipedia.org/wiki/Chery_A11 "wikilink") 与 [A15](https://zh.wikipedia.org/wiki/Chery_A15 "wikilink")
   - [Vortex Corda](https://zh.wikipedia.org/wiki/TagAZ "wikilink")
 
 ## A3
 
 **A3**平台车型（括号里为车型代号）
 
-  - [大众高尔夫（第三代）/Cabrio](https://zh.wikipedia.org/wiki/大众高尔夫#Golf_Mk3_\(A3/Typ_1H,_1992-1999\) "wikilink")
-    (1H/1E)
-  - [大众捷达（第三代）](https://zh.wikipedia.org/wiki/大众捷达#第三代（1992） "wikilink")
-    (1H)
+  - [大众高尔夫（第三代）/Cabrio](https://zh.wikipedia.org/wiki/大众高尔夫#Golf_Mk3_\(A3/Typ_1H,_1992-1999\) "wikilink") (1H/1E)
+  - [大众捷达（第三代）](https://zh.wikipedia.org/wiki/大众捷达#第三代（1992） "wikilink") (1H)
 
 用于[大众Polo](../Page/大众波罗.md "wikilink")（6N）及[西亚特Ibiza](https://zh.wikipedia.org/wiki/西亚特Ibiza "wikilink")（6K）的[A03平台也是基于A](https://zh.wikipedia.org/wiki/大众集团A0平台#A03 "wikilink")3平台的。
 
@@ -63,18 +48,13 @@
 
   - [奥迪A3（第一代）](https://zh.wikipedia.org/wiki/奥迪A3#8L "wikilink") (8L)
   - [奥迪TT（第一代）](https://zh.wikipedia.org/wiki/奥迪TT#8N "wikilink") (8N)
-  - [大众高尔夫（第四代）](https://zh.wikipedia.org/wiki/大众高尔夫#Golf_Mk4_\(A4/Typ_1J,_1999.5-2006\) "wikilink")
-    (1J)
-  - [大众捷达（第四代，宝来，Bora）](https://zh.wikipedia.org/wiki/大众捷达#第四代（1998） "wikilink")
-    (1J)
+  - [大众高尔夫（第四代）](https://zh.wikipedia.org/wiki/大众高尔夫#Golf_Mk4_\(A4/Typ_1J,_1999.5-2006\) "wikilink") (1J)
+  - [大众捷达（第四代，宝来，Bora）](https://zh.wikipedia.org/wiki/大众捷达#第四代（1998） "wikilink") (1J)
   - [大众朗逸](../Page/大众朗逸.md "wikilink")（第一代）
   - [大众新甲壳虫](../Page/大众新甲壳虫.md "wikilink") (1C/1Y/9C)
-  - [SEAT León
-    Mk1](https://zh.wikipedia.org/wiki/SEAT_León#1M "wikilink") (1M)
-  - [SEAT Toledo
-    Mk2](https://zh.wikipedia.org/wiki/SEAT_Toledo#1M "wikilink") (1M)
-  - [斯柯达明锐（第一代）](https://zh.wikipedia.org/wiki/斯柯达明锐#第一代斯柯达明锐（1996年－2004年） "wikilink")
-    (1U)
+  - [SEAT León Mk1](https://zh.wikipedia.org/wiki/SEAT_León#1M "wikilink") (1M)
+  - [SEAT Toledo Mk2](https://zh.wikipedia.org/wiki/SEAT_Toledo#1M "wikilink") (1M)
+  - [斯柯达明锐（第一代）](https://zh.wikipedia.org/wiki/斯柯达明锐#第一代斯柯达明锐（1996年－2004年） "wikilink") (1U)
 
 ## A5 (PQ35)
 
@@ -85,47 +65,28 @@ PQ35用于紧凑尺寸的车辆，并衍生出一个放大版本的中型车辆�
 当前和预计使用PQ35平台的车型（括号里为车型代号）:
 
   - [奥迪A3（第二代）](https://zh.wikipedia.org/wiki/奥迪A3#8P "wikilink") (8P)
-  - [奥迪TT（第二代）](https://zh.wikipedia.org/wiki/奥迪TT#8J "wikilink")
-    (8J)\[2\]
+  - [奥迪TT（第二代）](https://zh.wikipedia.org/wiki/奥迪TT#8J "wikilink") (8J)\[2\]
   - [大众途安](../Page/大众途安.md "wikilink") (1T)
-  - [Volkswagen
-    Caddy](https://zh.wikipedia.org/wiki/Volkswagen_Caddy "wikilink")
-    (2K)
-  - [SEAT Altea](https://zh.wikipedia.org/wiki/SEAT_Altea "wikilink")
-    (5P)
-  - [大众高尔夫（第五代） / GTI / R32 / Rabbit
-    Mk5](https://zh.wikipedia.org/wiki/大众高尔夫#Golf_Mk5_\(A5/Typ_1K,_2003-2009\) "wikilink")
-    (1K)
-  - [斯柯达明锐（第二代）](https://zh.wikipedia.org/wiki/斯柯达明锐#第二代斯柯达明锐（2004年－2013年） "wikilink")
-    (1Z)
-  - [Volkswagen Golf
-    Plus](https://zh.wikipedia.org/wiki/Volkswagen_Golf_Plus "wikilink")
-    (5M)
-  - [SEAT Toledo
-    Mk3](https://zh.wikipedia.org/wiki/SEAT_Toledo#5P "wikilink") (5P)
-  - [大众捷达（第五代，速腾）](https://zh.wikipedia.org/wiki/大众捷达#第五代（2005） "wikilink")
-    (1K)
-  - [SEAT León
-    Mk2](https://zh.wikipedia.org/wiki/SEAT_León#1P "wikilink") (1P)
-  - [Volkswagen
-    Eos](https://zh.wikipedia.org/wiki/Volkswagen_Eos "wikilink") (1F)
+  - [Volkswagen Caddy](https://zh.wikipedia.org/wiki/Volkswagen_Caddy "wikilink") (2K)
+  - [SEAT Altea](https://zh.wikipedia.org/wiki/SEAT_Altea "wikilink") (5P)
+  - [大众高尔夫（第五代） / GTI / R32 / Rabbit Mk5](https://zh.wikipedia.org/wiki/大众高尔夫#Golf_Mk5_\(A5/Typ_1K,_2003-2009\) "wikilink") (1K)
+  - [斯柯达明锐（第二代）](https://zh.wikipedia.org/wiki/斯柯达明锐#第二代斯柯达明锐（2004年－2013年） "wikilink") (1Z)
+  - [Volkswagen Golf Plus](https://zh.wikipedia.org/wiki/Volkswagen_Golf_Plus "wikilink") (5M)
+  - [SEAT Toledo Mk3](https://zh.wikipedia.org/wiki/SEAT_Toledo#5P "wikilink") (5P)
+  - [大众捷达（第五代，速腾）](https://zh.wikipedia.org/wiki/大众捷达#第五代（2005） "wikilink") (1K)
+  - [SEAT León Mk2](https://zh.wikipedia.org/wiki/SEAT_León#1P "wikilink") (1P)
+  - [Volkswagen Eos](https://zh.wikipedia.org/wiki/Volkswagen_Eos "wikilink") (1F)
   - [大众途观](../Page/大众途观.md "wikilink") (5N)
-  - [大众尚酷（第三代）](https://zh.wikipedia.org/wiki/大众尚酷#第三代（2008–） "wikilink")
-    (13)
-  - [大众高尔夫（第六代）](https://zh.wikipedia.org/wiki/大众高尔夫#Golf_Mk6_\(A6/Typ_5K,_2009-2012\) "wikilink")
-    (5K)
+  - [大众尚酷（第三代）](https://zh.wikipedia.org/wiki/大众尚酷#第三代（2008–） "wikilink") (13)
+  - [大众高尔夫（第六代）](https://zh.wikipedia.org/wiki/大众高尔夫#Golf_Mk6_\(A6/Typ_5K,_2009-2012\) "wikilink") (5K)
   - [斯柯达野帝](../Page/斯柯达野帝.md "wikilink") (5L)
   - [奥迪Q3](../Page/奥迪Q3.md "wikilink") (8U)
-  - [大众捷达（第六代，新速腾）](https://zh.wikipedia.org/wiki/大众捷达#第六代（2011） "wikilink")
-    (1K), (16)
-  - [Volkswagen
-    Beetle](https://zh.wikipedia.org/wiki/Volkswagen_Beetle_\(A5\) "wikilink")
-    (16)
+  - [大众捷达（第六代，新速腾）](https://zh.wikipedia.org/wiki/大众捷达#第六代（2011） "wikilink") (1K), (16)
+  - [Volkswagen Beetle](https://zh.wikipedia.org/wiki/Volkswagen_Beetle_\(A5\) "wikilink") (16)
 
 ### 参见
 
-  - [Driver Steering
-    Recommendation](https://zh.wikipedia.org/wiki/Driver_Steering_Recommendation "wikilink")
+  - [Driver Steering Recommendation](https://zh.wikipedia.org/wiki/Driver_Steering_Recommendation "wikilink")
 
 ## 参考资料
 

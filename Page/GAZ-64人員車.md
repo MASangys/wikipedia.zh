@@ -1,6 +1,4 @@
-**GAZ-64人員車**在1941年推出，其源頭可追溯至1931年和1932年間，[蘇聯在美國](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[福特汽車廠的技術合作之下成立高爾基汽車廠](https://zh.wikipedia.org/wiki/福特汽車 "wikilink")（Gorkouski
-Avtmobilny
-Zavod，簡稱:GAZ），1938年該車廠推出GAZ-61，1941年又推出GAZ-64，其設計已受到美國[吉普車的影響](https://zh.wikipedia.org/wiki/吉普車 "wikilink")，包括也是[開篷車設計和](https://zh.wikipedia.org/wiki/開篷車 "wikilink")[四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")，但GAZ-64由於寬度不夠（1.23米）而經常發生翻車事故，所以，GAZ-64的產量不多，在1941年至1942年間祇有684輛出廠，之後隨著1943年推出GAZ-67，GAZ-64漸被其取代。
+**GAZ-64人員車**在1941年推出，其源頭可追溯至1931年和1932年間，[蘇聯在美國](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[福特汽車廠的技術合作之下成立高爾基汽車廠](https://zh.wikipedia.org/wiki/福特汽車 "wikilink")（Gorkouski Avtmobilny Zavod，簡稱:GAZ），1938年該車廠推出GAZ-61，1941年又推出GAZ-64，其設計已受到美國[吉普車的影響](https://zh.wikipedia.org/wiki/吉普車 "wikilink")，包括也是[開篷車設計和](https://zh.wikipedia.org/wiki/開篷車 "wikilink")[四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")，但GAZ-64由於寬度不夠（1.23米）而經常發生翻車事故，所以，GAZ-64的產量不多，在1941年至1942年間祇有684輛出廠，之後隨著1943年推出GAZ-67，GAZ-64漸被其取代。
 
 除了GAZ-67之外，GAZ-64也發展出[BA-64裝甲車](https://zh.wikipedia.org/wiki/BA-64裝甲車 "wikilink")。
 
@@ -33,6 +31,4 @@ Zavod，簡稱:GAZ），1938年該車廠推出GAZ-61，1941年又推出GAZ-64，
   - [甲蟲車](../Page/大众甲壳虫.md "wikilink")
   - [九五式小型乘用車](https://zh.wikipedia.org/wiki/九五式小型乘用車 "wikilink")
 
-[Category:二戰軍用車輛](https://zh.wikipedia.org/wiki/Category:二戰軍用車輛 "wikilink")
-[Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")
-[Category:四輪驅動車輛](https://zh.wikipedia.org/wiki/Category:四輪驅動車輛 "wikilink")
+[Category:二戰軍用車輛](https://zh.wikipedia.org/wiki/Category:二戰軍用車輛 "wikilink") [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink") [Category:四輪驅動車輛](https://zh.wikipedia.org/wiki/Category:四輪驅動車輛 "wikilink")

@@ -1,11 +1,8 @@
-『**Berryz工房Single V Clips
-⑤**』（）是[Berryz工房](../Page/Berryz工房.md "wikilink")的第5張PV集。2011年8月17日發售。唱片公司是[PICCOLO
-TOWN](https://zh.wikipedia.org/wiki/UP-FRONT_WORKS "wikilink")。
+『**Berryz工房Single V Clips ⑤**』（）是[Berryz工房](../Page/Berryz工房.md "wikilink")的第5張PV集。2011年8月17日發售。唱片公司是[PICCOLO TOWN](https://zh.wikipedia.org/wiki/UP-FRONT_WORKS "wikilink")。
 
 ## 收錄内容
 
-1.  [吶喊男孩
-    WAO\!](https://zh.wikipedia.org/wiki/吶喊男孩_WAO!_/_朋友就是朋友! "wikilink")
+1.  [吶喊男孩 WAO\!](https://zh.wikipedia.org/wiki/吶喊男孩_WAO!_/_朋友就是朋友! "wikilink")
 2.  [朋友就是朋友\!](https://zh.wikipedia.org/wiki/吶喊男孩_WAO!_/_朋友就是朋友! "wikilink")
 3.  [認真Bomber\!\!](../Page/認真Bomber!!.md "wikilink")
 4.  [Shining Power](../Page/Shining_Power.md "wikilink")
@@ -51,11 +48,7 @@ TOWN](https://zh.wikipedia.org/wiki/UP-FRONT_WORKS "wikilink")。
 
 ## 外部連結
 
-  - [UP-FRONT
-    WORKSディスコグラフィ](https://archive.is/20130501181500/http://www.up-front-works.jp/discography/piccolotown/05/v_63/index.html)
-  - [ハロー\!プロジェクト オフィシャルサイト
-    ディスコグラフィ](https://web.archive.org/web/20120521132455/http://www.helloproject.com/discography/berryz/v_049.html)
+  - [UP-FRONT WORKSディスコグラフィ](https://archive.is/20130501181500/http://www.up-front-works.jp/discography/piccolotown/05/v_63/index.html)
+  - [ハロー\!プロジェクト オフィシャルサイト ディスコグラフィ](https://web.archive.org/web/20120521132455/http://www.helloproject.com/discography/berryz/v_049.html)
 
-[Category:Berryz工房影像作品](https://zh.wikipedia.org/wiki/Category:Berryz工房影像作品 "wikilink")
-[Category:2011年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2011年音樂相關影像作品 "wikilink")
-[Category:音樂影片集](https://zh.wikipedia.org/wiki/Category:音樂影片集 "wikilink")
+[Category:Berryz工房影像作品](https://zh.wikipedia.org/wiki/Category:Berryz工房影像作品 "wikilink") [Category:2011年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2011年音樂相關影像作品 "wikilink") [Category:音樂影片集](https://zh.wikipedia.org/wiki/Category:音樂影片集 "wikilink")

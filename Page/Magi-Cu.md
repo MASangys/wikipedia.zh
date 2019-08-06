@@ -1,5 +1,4 @@
-《**Magi-Cu**》（）是[日本](../Page/日本.md "wikilink")[enterbrain公司所發行的](https://zh.wikipedia.org/wiki/enterbrain "wikilink")[雜誌書](https://zh.wikipedia.org/wiki/雜誌書 "wikilink")，2001年創刊，2007年6月25日發行第40期後休刊，刊名是「Magical
-Cute」的[首字母縮略字](../Page/首字母縮略字.md "wikilink")。官方[看板娘是](https://zh.wikipedia.org/wiki/看板娘 "wikilink")[篤見唯子](../Page/篤見唯子.md "wikilink")畫的「小玉」（）與「Maji」（）\[1\]，小玉專屬[畫集](https://zh.wikipedia.org/wiki/畫集 "wikilink")《小玉寫真集》（）收錄於《瓶詰妖精funbook：篤見唯子畫集》內。
+《**Magi-Cu**》（）是[日本](../Page/日本.md "wikilink")[enterbrain公司所發行的](https://zh.wikipedia.org/wiki/enterbrain "wikilink")[雜誌書](https://zh.wikipedia.org/wiki/雜誌書 "wikilink")，2001年創刊，2007年6月25日發行第40期後休刊，刊名是「Magical Cute」的[首字母縮略字](../Page/首字母縮略字.md "wikilink")。官方[看板娘是](https://zh.wikipedia.org/wiki/看板娘 "wikilink")[篤見唯子](../Page/篤見唯子.md "wikilink")畫的「小玉」（）與「Maji」（）\[1\]，小玉專屬[畫集](https://zh.wikipedia.org/wiki/畫集 "wikilink")《小玉寫真集》（）收錄於《瓶詰妖精funbook：篤見唯子畫集》內。
 
 ## 主要刊載作品
 
@@ -7,8 +6,7 @@ Cute」的[首字母縮略字](../Page/首字母縮略字.md "wikilink")。官�
 
 <!-- end list -->
 
-  - [World's
-    end](https://zh.wikipedia.org/wiki/World's_end "wikilink")（原作・文：[玉井☆豪](https://zh.wikipedia.org/wiki/玉井☆豪 "wikilink")、文：長居知佳、画：[天廣直人](https://zh.wikipedia.org/wiki/天廣直人 "wikilink")）
+  - [World's end](https://zh.wikipedia.org/wiki/World's_end "wikilink")（原作・文：[玉井☆豪](https://zh.wikipedia.org/wiki/玉井☆豪 "wikilink")、文：長居知佳、画：[天廣直人](https://zh.wikipedia.org/wiki/天廣直人 "wikilink")）
 
 <!-- end list -->
 
@@ -31,10 +29,8 @@ Cute」的[首字母縮略字](../Page/首字母縮略字.md "wikilink")。官�
 <!-- end list -->
 
   -
-    マジキュー・プレミアムSPRING 2001 - マジキューVol.13、Vol.26 - Vol.37 /
-    ネットラジオ・ドラマCD・ゲーム・アニメ・ノベル
-    第2部は『甜蜜偶像 -New
-    Lyrics-』。第2部以降は[Navel](../Page/Navel.md "wikilink")との合同企画となった。
+    マジキュー・プレミアムSPRING 2001 - マジキューVol.13、Vol.26 - Vol.37 / ネットラジオ・ドラマCD・ゲーム・アニメ・ノベル
+    第2部は『甜蜜偶像 -New Lyrics-』。第2部以降は[Navel](../Page/Navel.md "wikilink")との合同企画となった。
 
 <!-- end list -->
 
@@ -56,8 +52,7 @@ Cute」的[首字母縮略字](../Page/首字母縮略字.md "wikilink")。官�
 
 <!-- end list -->
 
-  - [Duel Dolls
-    〜白銀色の指輪と撫子色の乙女達〜](https://zh.wikipedia.org/wiki/Duel_Dolls_〜白銀色の指輪と撫子色の乙女達〜 "wikilink")（画：[てぃんくる](https://zh.wikipedia.org/wiki/てぃんくる_\(漫画家\) "wikilink")、文：[博惠夏樹](https://zh.wikipedia.org/wiki/博惠夏樹 "wikilink")）
+  - [Duel Dolls 〜白銀色の指輪と撫子色の乙女達〜](https://zh.wikipedia.org/wiki/Duel_Dolls_〜白銀色の指輪と撫子色の乙女達〜 "wikilink")（画：[てぃんくる](https://zh.wikipedia.org/wiki/てぃんくる_\(漫画家\) "wikilink")、文：[博惠夏樹](https://zh.wikipedia.org/wiki/博惠夏樹 "wikilink")）
 
 <!-- end list -->
 
@@ -71,13 +66,11 @@ Cute」的[首字母縮略字](../Page/首字母縮略字.md "wikilink")。官�
 <!-- end list -->
 
   -
-    Vol.24 - Vol.36
-    単行本は2008年に[フレックスコミックスより刊行](https://zh.wikipedia.org/wiki/フレックスコミックス "wikilink")
+    Vol.24 - Vol.36 単行本は2008年に[フレックスコミックスより刊行](https://zh.wikipedia.org/wiki/フレックスコミックス "wikilink")
 
 <!-- end list -->
 
-  - [Heart
-    Mark\!](https://zh.wikipedia.org/wiki/Heart_Mark! "wikilink")（画：篤見唯子、文：[白根秀樹](../Page/白根秀樹.md "wikilink")）
+  - [Heart Mark\!](https://zh.wikipedia.org/wiki/Heart_Mark! "wikilink")（画：篤見唯子、文：[白根秀樹](../Page/白根秀樹.md "wikilink")）
 
 <!-- end list -->
 
@@ -86,8 +79,7 @@ Cute」的[首字母縮略字](../Page/首字母縮略字.md "wikilink")。官�
 
 <!-- end list -->
 
-  - [フルはれ\!
-    〜星にねがいを〜](https://zh.wikipedia.org/wiki/フルはれ!_〜星にねがいを〜 "wikilink")（画：[連](https://zh.wikipedia.org/wiki/連_\(イラストレーター\) "wikilink")・[倉藤倖](https://zh.wikipedia.org/wiki/倉藤倖 "wikilink")、文：[長船玄武](https://zh.wikipedia.org/wiki/長船玄武 "wikilink")）
+  - [フルはれ\! 〜星にねがいを〜](https://zh.wikipedia.org/wiki/フルはれ!_〜星にねがいを〜 "wikilink")（画：[連](https://zh.wikipedia.org/wiki/連_\(イラストレーター\) "wikilink")・[倉藤倖](https://zh.wikipedia.org/wiki/倉藤倖 "wikilink")、文：[長船玄武](https://zh.wikipedia.org/wiki/長船玄武 "wikilink")）
 
 <!-- end list -->
 
@@ -96,8 +88,7 @@ Cute」的[首字母縮略字](../Page/首字母縮略字.md "wikilink")。官�
 
 <!-- end list -->
 
-  - [おつかいブレイド
-    黒騎士物語](https://zh.wikipedia.org/wiki/おつかいブレイド_黒騎士物語 "wikilink")（画：[みけおう](https://zh.wikipedia.org/wiki/みけおう "wikilink")、文：小池倫太郎）
+  - [おつかいブレイド 黒騎士物語](https://zh.wikipedia.org/wiki/おつかいブレイド_黒騎士物語 "wikilink")（画：[みけおう](https://zh.wikipedia.org/wiki/みけおう "wikilink")、文：小池倫太郎）
 
 <!-- end list -->
 
@@ -106,8 +97,7 @@ Cute」的[首字母縮略字](../Page/首字母縮略字.md "wikilink")。官�
 
 <!-- end list -->
 
-  - [ツングリ\!
-    -本当はツンデレなグリム童話-](https://zh.wikipedia.org/wiki/ツングリ!_-本当はツンデレなグリム童話- "wikilink")（画：[柏餅よもぎ](https://zh.wikipedia.org/wiki/柏餅よもぎ "wikilink")、文：[出海まこと](https://zh.wikipedia.org/wiki/出海まこと "wikilink")）
+  - [ツングリ\! -本当はツンデレなグリム童話-](https://zh.wikipedia.org/wiki/ツングリ!_-本当はツンデレなグリム童話- "wikilink")（画：[柏餅よもぎ](https://zh.wikipedia.org/wiki/柏餅よもぎ "wikilink")、文：[出海まこと](https://zh.wikipedia.org/wiki/出海まこと "wikilink")）
 
 <!-- end list -->
 
@@ -116,9 +106,7 @@ Cute」的[首字母縮略字](../Page/首字母縮略字.md "wikilink")。官�
 
 <!-- end list -->
 
-  - [ころもゆうぎ](https://zh.wikipedia.org/wiki/ころもゆうぎ "wikilink")（画：[MALINO](https://zh.wikipedia.org/wiki/MALINO "wikilink")、構成：[DEJA
-    VU
-    ARTWORKS](https://zh.wikipedia.org/wiki/DEJA_VU_ARTWORKS "wikilink")）
+  - [ころもゆうぎ](https://zh.wikipedia.org/wiki/ころもゆうぎ "wikilink")（画：[MALINO](https://zh.wikipedia.org/wiki/MALINO "wikilink")、構成：[DEJA VU ARTWORKS](https://zh.wikipedia.org/wiki/DEJA_VU_ARTWORKS "wikilink")）
 
 <!-- end list -->
 
@@ -129,13 +117,11 @@ Cute」的[首字母縮略字](../Page/首字母縮略字.md "wikilink")。官�
 
 <!-- end list -->
 
-  - Food
-    Girls（[OKAMA](https://zh.wikipedia.org/wiki/OKAMA "wikilink")）単巻、マジキュー・プレミアム連載。
+  - Food Girls（[OKAMA](https://zh.wikipedia.org/wiki/OKAMA "wikilink")）単巻、マジキュー・プレミアム連載。
   - 本氣求道（篤見唯子）
   - [5階美少女家電売り場でございます](https://zh.wikipedia.org/wiki/5階美少女家電売り場でございます "wikilink")（[風上旬](https://zh.wikipedia.org/wiki/風上旬 "wikilink")）
   - うれっこどうぶつ（濱元隆輔）単巻。
-  - Bad\!
-    Daddy親親壞老爹（原作：[野村美月](../Page/野村美月.md "wikilink")・画：[貴島煉瓦](https://zh.wikipedia.org/wiki/貴島煉瓦 "wikilink")）単巻。
+  - Bad\! Daddy親親壞老爹（原作：[野村美月](../Page/野村美月.md "wikilink")・画：[貴島煉瓦](https://zh.wikipedia.org/wiki/貴島煉瓦 "wikilink")）単巻。
   - すくすくすいすい（[saxyun](https://zh.wikipedia.org/wiki/saxyun "wikilink")）単行本未発売。休刊後『[まんがライフMOMO](https://zh.wikipedia.org/wiki/まんがライフMOMO "wikilink")』2006年10月号に読み切りで掲載されたがその後のアナウンスはなく動向は不明。
   - [黏黏妖美少女](../Page/黏黏妖美少女.md "wikilink")（原作：[木村航](../Page/木村航.md "wikilink")・画：[YUG](https://zh.wikipedia.org/wiki/YUG "wikilink")）
   - [麒麟町ぼうえいぐみ](https://zh.wikipedia.org/wiki/麒麟町ぼうえいぐみ "wikilink")（ゆうの）上下巻。
@@ -156,11 +142,9 @@ Cute」的[首字母縮略字](../Page/首字母縮略字.md "wikilink")。官�
 
 <!-- end list -->
 
-  - [ナイトウィザード](https://zh.wikipedia.org/wiki/ナイトウィザード "wikilink")
-    白き陽の御子（[菊池たけし](https://zh.wikipedia.org/wiki/菊池たけし "wikilink")/[F.E.A.R.](https://zh.wikipedia.org/wiki/F.E.A.R. "wikilink")）
+  - [ナイトウィザード](https://zh.wikipedia.org/wiki/ナイトウィザード "wikilink") 白き陽の御子（[菊池たけし](https://zh.wikipedia.org/wiki/菊池たけし "wikilink")/[F.E.A.R.](https://zh.wikipedia.org/wiki/F.E.A.R. "wikilink")）
       - ナイトウィザード 合わせ鏡の神子（菊池たけし/F.E.A.R.）　
-  - [アルシャードガイア](https://zh.wikipedia.org/wiki/アルシャード "wikilink")
-    [神薙ぐ御剣](https://zh.wikipedia.org/wiki/神薙ぐ御剣 "wikilink")（菊池たけし/[井上純弌](https://zh.wikipedia.org/wiki/井上純弌 "wikilink")/F.E.A.R.）
+  - [アルシャードガイア](https://zh.wikipedia.org/wiki/アルシャード "wikilink") [神薙ぐ御剣](https://zh.wikipedia.org/wiki/神薙ぐ御剣 "wikilink")（菊池たけし/[井上純弌](https://zh.wikipedia.org/wiki/井上純弌 "wikilink")/F.E.A.R.）
   - [アクエリアンエイジ](https://zh.wikipedia.org/wiki/アクエリアンエイジ "wikilink")・ストーリーズ（[Broccoli](../Page/Broccoli.md "wikilink")）
 
 ## 注釋
@@ -169,14 +153,6 @@ Cute」的[首字母縮略字](../Page/首字母縮略字.md "wikilink")。官�
 
   - [Magi-Cu](https://web.archive.org/web/20080120004914/http://www.enterbrain.co.jp/magical-cute/)
 
-[Category:ENTERBRAIN](https://zh.wikipedia.org/wiki/Category:ENTERBRAIN "wikilink")
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:2001年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:2001年創辦的雜誌 "wikilink")
-[Category:2007年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2007年停刊的雜誌 "wikilink")
-[Category:2001年日本建立](https://zh.wikipedia.org/wiki/Category:2001年日本建立 "wikilink")
-[Category:2007年日本廢除](https://zh.wikipedia.org/wiki/Category:2007年日本廢除 "wikilink")
+[Category:ENTERBRAIN](https://zh.wikipedia.org/wiki/Category:ENTERBRAIN "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:2001年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:2001年創辦的雜誌 "wikilink") [Category:2007年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2007年停刊的雜誌 "wikilink") [Category:2001年日本建立](https://zh.wikipedia.org/wiki/Category:2001年日本建立 "wikilink") [Category:2007年日本廢除](https://zh.wikipedia.org/wiki/Category:2007年日本廢除 "wikilink")
 
-1.  《瓶詰妖精funbook：篤見唯子畫集》（[台灣角川](../Page/台灣角川.md "wikilink")2007年11月10日初版第1刷，北極熊譯，ISBN
-    978-986-174-510-7）附錄《小玉寫真集》第11頁。
+1.  《瓶詰妖精funbook：篤見唯子畫集》（[台灣角川](../Page/台灣角川.md "wikilink")2007年11月10日初版第1刷，北極熊譯，ISBN 978-986-174-510-7）附錄《小玉寫真集》第11頁。

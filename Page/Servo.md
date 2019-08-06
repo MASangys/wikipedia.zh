@@ -1,6 +1,4 @@
-{{ otheruses | subject=一种浏览器排版引擎 |
-other=使用[伺服机构的马达](https://zh.wikipedia.org/wiki/伺服机构 "wikilink")
-| 伺服马达 }}
+{{ otheruses | subject=一种浏览器排版引擎 | other=使用[伺服机构的马达](https://zh.wikipedia.org/wiki/伺服机构 "wikilink") | 伺服马达 }}
 
 **Servo**是一個由[Mozilla開發的實驗性](../Page/Mozilla基金會.md "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")，[三星集團移植到](https://zh.wikipedia.org/wiki/三星集團 "wikilink")[Android](../Page/Android.md "wikilink")系统和[ARM处理器](https://zh.wikipedia.org/wiki/ARM "wikilink")\[1\]。該项目旨在创造一个大規模[平行計算的环境](https://zh.wikipedia.org/wiki/平行計算 "wikilink")，其中的许多组件（如[算繪](../Page/渲染.md "wikilink")、布局、HTML解析、图像[解码等](https://zh.wikipedia.org/wiki/解码 "wikilink")）都是[並行的](https://zh.wikipedia.org/wiki/任務並行 "wikilink")。此项目与[Rust](../Page/Rust.md "wikilink")编程语言有共生的关系，并同样正在开发中。
 
@@ -39,8 +37,7 @@ Servo的開發始於2013年。2012年2月8日第一次提交沒有包含任何[�
   - [Gecko](../Page/Gecko.md "wikilink")
   - [Rust](../Page/Rust.md "wikilink")
 
-[Category:排版引擎](https://zh.wikipedia.org/wiki/Category:排版引擎 "wikilink")
-[Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink")
+[Category:排版引擎](https://zh.wikipedia.org/wiki/Category:排版引擎 "wikilink") [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink")
 
 1.
 2.

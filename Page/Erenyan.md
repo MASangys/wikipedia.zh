@@ -23,8 +23,7 @@
       - 作詞・作曲・編曲：Nem
 3.  **[千本桜](https://zh.wikipedia.org/wiki/千本桜 "wikilink")** \[4:01\]
       - 作詞・作曲・編曲：黒うさ
-4.  Erenyan （[off vocal
-    ver.](https://zh.wikipedia.org/wiki/オフヴォーカル "wikilink")）
+4.  Erenyan （[off vocal ver.](https://zh.wikipedia.org/wiki/オフヴォーカル "wikilink")）
 
 ### 初回限定盤A
 
@@ -85,14 +84,10 @@
 
 ## 外部連結
 
-  - [小野恵令奈「えれにゃん」発売記念イベントに海外から猫ひろしが登場
-    Musicman-NET](http://www.musicman-net.com/artist/20596.html)
-  - [小野恵令奈、待望の2ndシングルは「えれにゃん」！
-    CDジャーナル](http://www.cdjournal.com/main/news/ono-erena/46508)
-  - [小野恵令奈 - 「えれにゃん」　2012年10月3日発売\! （SPOT） -
-    YouTube](http://www.youtube.com/watch?v=OSFOUrw5v0I)
+  - [小野恵令奈「えれにゃん」発売記念イベントに海外から猫ひろしが登場 Musicman-NET](http://www.musicman-net.com/artist/20596.html)
+  - [小野恵令奈、待望の2ndシングルは「えれにゃん」！ CDジャーナル](http://www.cdjournal.com/main/news/ono-erena/46508)
+  - [小野恵令奈 - 「えれにゃん」　2012年10月3日発売\! （SPOT） - YouTube](http://www.youtube.com/watch?v=OSFOUrw5v0I)
 
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink")
+[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink")
 
 1.  [小野恵令奈のシングル売り上げランキング](http://www.oricon.co.jp/prof/artist/416561/ranking/cd_single/)

@@ -2,15 +2,13 @@
 
 **彩虹旗**（），也被稱作**LGBT驕傲旗**和**同志驕傲旗**，是一面象徵性別少數群體（[LGBT](../Page/LGBT.md "wikilink")）的旗幟。現今最通用的彩虹旗為1979年的六條版本，故也作「**六色彩虹旗**」。常見於各種LGBT之消費場所（包括但不僅限於酒吧、餐廳、商店）以表示該商戶對性別少數群體之友好；同時也會在各地同志驕傲大遊行中頻頻出現。
 
-此旗最早是由[舊金山藝術家](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[吉爾伯特·貝克於](https://zh.wikipedia.org/wiki/吉爾伯特·貝克 "wikilink")1978年設計。由於廣泛提供的織物，旗幟進行了幾次修改，刪除了部份顏色，然後重新添加了一些顏色。
-\[1\]\[2\]截至2008年，最通用的彩虹旗為包含紅、橙、黃、綠、藍和紫羅蘭色，並且通常是水平懸起的。最通常是紅色在最上面，與自然界的彩虹顏色相同。
+此旗最早是由[舊金山藝術家](https://zh.wikipedia.org/wiki/舊金山 "wikilink")[吉爾伯特·貝克於](https://zh.wikipedia.org/wiki/吉爾伯特·貝克 "wikilink")1978年設計。由於廣泛提供的織物，旗幟進行了幾次修改，刪除了部份顏色，然後重新添加了一些顏色。 \[1\]\[2\]截至2008年，最通用的彩虹旗為包含紅、橙、黃、綠、藍和紫羅蘭色，並且通常是水平懸起的。最通常是紅色在最上面，與自然界的彩虹顏色相同。
 
 ## 歷史
 
 彩虹旗於1978年6月25日首次在[舊金山同志驕傲大遊行](../Page/舊金山同志驕傲大遊行.md "wikilink")上飛揚。
 
-貝克創作此旗的靈感很可能源自[朱迪·加兰](../Page/朱迪·加兰.md "wikilink")所唱的《[Over the
-Rainbow](https://zh.wikipedia.org/wiki/Over_the_Rainbow "wikilink")》，以及死後數天所發生的[石牆暴動](../Page/石牆暴動.md "wikilink")。\[3\]\[4\]此旗亦與的緞帶顏色相同，但現已證實兩者並無關係。另一個說法則指出，此旗的靈感源自1960年代盛行於校園中高呼[世界和平](../Page/世界和平.md "wikilink")的人手持的「種族旗幟」（亦稱「人類旗幟」）。該旗是以五個平行的間條組成（由上至下分別是紅、黑、棕、黃和白）。此說法認為貝克是取材自此旗\[5\]，並且是在被美國詩人[艾伦·金斯堡](../Page/艾伦·金斯堡.md "wikilink")所影響的[嬉皮運動中借得此旗](https://zh.wikipedia.org/wiki/嬉皮運動 "wikilink")。\[6\]
+貝克創作此旗的靈感很可能源自[朱迪·加兰](../Page/朱迪·加兰.md "wikilink")所唱的《[Over the Rainbow](https://zh.wikipedia.org/wiki/Over_the_Rainbow "wikilink")》，以及死後數天所發生的[石牆暴動](../Page/石牆暴動.md "wikilink")。\[3\]\[4\]此旗亦與的緞帶顏色相同，但現已證實兩者並無關係。另一個說法則指出，此旗的靈感源自1960年代盛行於校園中高呼[世界和平](../Page/世界和平.md "wikilink")的人手持的「種族旗幟」（亦稱「人類旗幟」）。該旗是以五個平行的間條組成（由上至下分別是紅、黑、棕、黃和白）。此說法認為貝克是取材自此旗\[5\]，並且是在被美國詩人[艾伦·金斯堡](../Page/艾伦·金斯堡.md "wikilink")所影響的[嬉皮運動中借得此旗](https://zh.wikipedia.org/wiki/嬉皮運動 "wikilink")。\[6\]
 
 第一代的同性戀族群旗幟也是由貝克手工染色做成的，並且有八種顏色的條紋組成：亮粉紅、紅、橙、黃、綠、青綠、靛青和紫羅蘭。貝克把這些顏色的意義表示如下：\[7\]
 
@@ -35,8 +33,7 @@ Rainbow](https://zh.wikipedia.org/wiki/Over_the_Rainbow "wikilink")》，以及�
 
 2000年，[夏威夷大學將其運動隊的名稱](https://zh.wikipedia.org/wiki/夏威夷大學 "wikilink")「彩虹鬥士」改為「鬥士」，並在其標誌上除去了彩虹部份。起初，運動主任休·吉田指出此改動是為了區別運動隊和同性戀。但是，當此做法招來批評時，吉田卻指出此改動是為了避免與其他品牌混淆。之後，學校允許其運動隊選擇自己的隊名，導致多種名稱迭起，其中包括「彩虹鬥士」、「鬥士」、「彩虹」和「彩虹沃希恩」。此決定於2013年5月被更改，運動隊被迫除去「彩虹」兩字。\[12\]
 
-2017年3月30日，以設計同志彩虹旗聞名的美國舊金山藝術家貝克（Gilbert
-Baker），於當地時間3月30日（北京時間3月31日）逝世，享壽65歲。\[13\]
+2017年3月30日，以設計同志彩虹旗聞名的美國舊金山藝術家貝克（Gilbert Baker），於當地時間3月30日（北京時間3月31日）逝世，享壽65歲。\[13\]
 
 <table>
 <colgroup>
@@ -79,9 +76,7 @@ Baker），於當地時間3月30日（北京時間3月31日）逝世，享壽65�
 
 ## 衍生產品
 
-[The_Rainbow_Flag,_GLBT_Pride.jpg](https://zh.wikipedia.org/wiki/File:The_Rainbow_Flag,_GLBT_Pride.jpg "fig:The_Rainbow_Flag,_GLBT_Pride.jpg")與彩虹旗的合體版\]\]
-[White_House_goes_rainbow_for_the_pass_of_same-sex_marriage.jpg](https://zh.wikipedia.org/wiki/File:White_House_goes_rainbow_for_the_pass_of_same-sex_marriage.jpg "fig:White_House_goes_rainbow_for_the_pass_of_same-sex_marriage.jpg")以六色彩虹旗打亮\]\]
-彩虹旗在現代已廣泛地應用在各種產品中，其中包括珠寶、服裝和其他個人物品。彩虹旗的顏色亦成為一個展示LGBT身份或團結的象徵。彩虹旗的知名度是如此之高，使得彩虹旗基本上已經完全取代其他同性戀象徵物，如[Λ和](https://zh.wikipedia.org/wiki/Λ "wikilink")[粉红三角形](../Page/粉红三角形.md "wikilink")。基本的彩虹旗已經產生出無數的變化。最經常的珠寶類是驕傲項鍊（）和自由戒指（），分別由六個戒指組成，每個戒指一種顏色，組成一個鏈。\[18\]\[19\]其它的產品從鑰匙鏈到蠟燭。一些國旗被改變以包含彩虹旗，而這些其中的旗幟被做成從倒三角到笑臉的形狀。\[20\]
+[The_Rainbow_Flag,_GLBT_Pride.jpg](https://zh.wikipedia.org/wiki/File:The_Rainbow_Flag,_GLBT_Pride.jpg "fig:The_Rainbow_Flag,_GLBT_Pride.jpg")與彩虹旗的合體版\]\] [White_House_goes_rainbow_for_the_pass_of_same-sex_marriage.jpg](https://zh.wikipedia.org/wiki/File:White_House_goes_rainbow_for_the_pass_of_same-sex_marriage.jpg "fig:White_House_goes_rainbow_for_the_pass_of_same-sex_marriage.jpg")以六色彩虹旗打亮\]\] 彩虹旗在現代已廣泛地應用在各種產品中，其中包括珠寶、服裝和其他個人物品。彩虹旗的顏色亦成為一個展示LGBT身份或團結的象徵。彩虹旗的知名度是如此之高，使得彩虹旗基本上已經完全取代其他同性戀象徵物，如[Λ和](https://zh.wikipedia.org/wiki/Λ "wikilink")[粉红三角形](../Page/粉红三角形.md "wikilink")。基本的彩虹旗已經產生出無數的變化。最經常的珠寶類是驕傲項鍊（）和自由戒指（），分別由六個戒指組成，每個戒指一種顏色，組成一個鏈。\[18\]\[19\]其它的產品從鑰匙鏈到蠟燭。一些國旗被改變以包含彩虹旗，而這些其中的旗幟被做成從倒三角到笑臉的形狀。\[20\]
 
 加拿大[蒙特利爾的](https://zh.wikipedia.org/wiki/蒙特利爾 "wikilink")[波特站](../Page/波特站.md "wikilink")，是一個[同性戀鎮地鐵車站](https://zh.wikipedia.org/wiki/同性戀鎮 "wikilink")。該車站最近重建成一個帶有彩虹旗元素的地鐵車站。\[21\]\[22\]
 
@@ -113,10 +108,7 @@ Baker），於當地時間3月30日（北京時間3月31日）逝世，享壽65�
 
   -
   -
-[Category:LGBT文化](https://zh.wikipedia.org/wiki/Category:LGBT文化 "wikilink")
-[Category:LGBT歷史](https://zh.wikipedia.org/wiki/Category:LGBT歷史 "wikilink")
-[Category:旗幟](https://zh.wikipedia.org/wiki/Category:旗幟 "wikilink")
-[Category:1978年面世的旗幟](https://zh.wikipedia.org/wiki/Category:1978年面世的旗幟 "wikilink")
+[Category:LGBT文化](https://zh.wikipedia.org/wiki/Category:LGBT文化 "wikilink") [Category:LGBT歷史](https://zh.wikipedia.org/wiki/Category:LGBT歷史 "wikilink") [Category:旗幟](https://zh.wikipedia.org/wiki/Category:旗幟 "wikilink") [Category:1978年面世的旗幟](https://zh.wikipedia.org/wiki/Category:1978年面世的旗幟 "wikilink")
 
 1.
 
@@ -126,31 +118,18 @@ Baker），於當地時間3月30日（北京時間3月31日）逝世，享壽65�
 
 4.
 
-5.  [Carleton College—“Symbols of Pride of the LGBTQ
-    community”:](http://apps.carleton.edu/campus/gsc/ally/lgbtsymbols/)
-     Noted as sourced to *The Alyson Almanac* from the college's
-    library.
+5.  [Carleton College—“Symbols of Pride of the LGBTQ community”:](http://apps.carleton.edu/campus/gsc/ally/lgbtsymbols/)  Noted as sourced to *The Alyson Almanac* from the college's library.
 
-6.  ["San Francisco: The Unknown
-    City"](http://books.google.com/books?id=pXAsU1sQG1AC), Helene
-    Goupil, Josh Krist. Arsenal Pulp Press/Josh Krist, 2005. ISBN
-    1-55152-188-1, ISBN 978-1-55152-188-6. p. 33
+6.  ["San Francisco: The Unknown City"](http://books.google.com/books?id=pXAsU1sQG1AC), Helene Goupil, Josh Krist. Arsenal Pulp Press/Josh Krist, 2005. ISBN 1-55152-188-1, ISBN 978-1-55152-188-6. p. 33
 
-7.  [THE GAY PRIDE FLAG - REAL
-    ESTATE](http://www.fireislandpines.com/common/11003/images/dk_newsletter_12-6.pdf)
-
+7.  [THE GAY PRIDE FLAG - REAL ESTATE](http://www.fireislandpines.com/common/11003/images/dk_newsletter_12-6.pdf)
 
 8.  Witt, et al., p. 435
 
-9.  [Unsung Heroes of the Gay World: Vexillographer Gilbert Baker: The
-    Gay Betsy Ross](http://www.ukgaynews.org.uk/Archive/08/Apr/1801.htm)
-     UK Gay News, 17 April 2008. Accessed 23 September 2009.
+9.  [Unsung Heroes of the Gay World: Vexillographer Gilbert Baker: The Gay Betsy Ross](http://www.ukgaynews.org.uk/Archive/08/Apr/1801.htm)  UK Gay News, 17 April 2008. Accessed 23 September 2009.
 
 10.
-11. Russell, Ron. "[Removal of 'Gay Pride' Flag Ordered: Tenant Suit
-    Accuses Apartment Owner of
-    Bias](http://articles.latimes.com/1988-12-08/news/we-1471_1_gay-pride)."
-    Los Angeles Times (December 8, 1988): Part 9, 6.
+11. Russell, Ron. "[Removal of 'Gay Pride' Flag Ordered: Tenant Suit Accuses Apartment Owner of Bias](http://articles.latimes.com/1988-12-08/news/we-1471_1_gay-pride)." Los Angeles Times (December 8, 1988): Part 9, 6.
 
 12.
 
@@ -161,8 +140,7 @@ Baker），於當地時間3月30日（北京時間3月31日）逝世，享壽65�
 
 16.
 
-17. {{cite
-    web|title=台灣同志遊行的主張與訴求-【六色彩虹宣言】|url=<https://www.upmedia.mg/news_info.php?SerialNo=6545//>
+17. {{cite web|title=台灣同志遊行的主張與訴求-【六色彩虹宣言】|url=<https://www.upmedia.mg/news_info.php?SerialNo=6545//>
 
 18.
 

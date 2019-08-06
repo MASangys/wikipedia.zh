@@ -8,22 +8,17 @@
 
 #### 銀魂'
 
-1.  桃源郷エイリアン （[serial TV
-    drama](https://zh.wikipedia.org/wiki/serial_TV_drama "wikilink")）
-2.  サムライハート（Some Like It
-    Hot\!\!）（[SPYAIR](../Page/SPYAIR.md "wikilink")）
+1.  桃源郷エイリアン （[serial TV drama](https://zh.wikipedia.org/wiki/serial_TV_drama "wikilink")）
+2.  サムライハート（Some Like It Hot\!\!）（[SPYAIR](../Page/SPYAIR.md "wikilink")）
 3.  バランスドール （[Prague](https://zh.wikipedia.org/wiki/Prague "wikilink")）
-4.  ジレンマ
-    （[ecosystem](https://zh.wikipedia.org/wiki/ecosystem "wikilink")）
+4.  ジレンマ （[ecosystem](https://zh.wikipedia.org/wiki/ecosystem "wikilink")）
 5.  アナグラ （[黒猫チェルシー](https://zh.wikipedia.org/wiki/黒猫チェルシー "wikilink")）
 6.  ワンダーランド （[FLiP](https://zh.wikipedia.org/wiki/FLiP "wikilink")）
-7.  仲間 （[Good
-    Coming](https://zh.wikipedia.org/wiki/Good_Coming "wikilink")）
+7.  仲間 （[Good Coming](https://zh.wikipedia.org/wiki/Good_Coming "wikilink")）
 
 #### 銀魂'延長戦
 
-1.  LET'S GO OUT
-    （[AMOYAMO](https://zh.wikipedia.org/wiki/AMOYAMO "wikilink")）
+1.  LET'S GO OUT （[AMOYAMO](https://zh.wikipedia.org/wiki/AMOYAMO "wikilink")）
 2.  ムーンウォーク（[MONOBRIGHT](https://zh.wikipedia.org/wiki/MONOBRIGHT "wikilink")）
 3.  サクラミツツキ（[SPYAIR](../Page/SPYAIR.md "wikilink")）
 4.  エクスペクト（[PAGE](https://zh.wikipedia.org/wiki/PAGE "wikilink")）
@@ -57,11 +52,8 @@
 
 ## 外部連結
 
-  - [銀魂BEST3
-    官方網站](https://web.archive.org/web/20130911080451/http://www.aniplex.co.jp/gintama/cd/cd02.html#best03)
+  - [銀魂BEST3 官方網站](https://web.archive.org/web/20130911080451/http://www.aniplex.co.jp/gintama/cd/cd02.html#best03)
 
 [ja:銀魂BEST3](https://zh.wikipedia.org/wiki/ja:銀魂BEST3 "wikilink")
 
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:銀魂](https://zh.wikipedia.org/wiki/Category:銀魂 "wikilink")
-[Category:動畫歌曲](https://zh.wikipedia.org/wiki/Category:動畫歌曲 "wikilink")
+[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:銀魂](https://zh.wikipedia.org/wiki/Category:銀魂 "wikilink") [Category:動畫歌曲](https://zh.wikipedia.org/wiki/Category:動畫歌曲 "wikilink")

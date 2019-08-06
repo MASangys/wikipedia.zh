@@ -1,5 +1,4 @@
-**BMP-1步兵戰車**是[蘇聯第一種](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[步兵戰鬥車](https://zh.wikipedia.org/wiki/步兵戰鬥車 "wikilink")，其設計是[輕型坦克和](https://zh.wikipedia.org/wiki/輕型坦克 "wikilink")[裝甲運兵車的結合](https://zh.wikipedia.org/wiki/裝甲運兵車 "wikilink")，繼承了前西德Schützenpanzer
-Lang HS.30步兵戰車的設計風格。
+**BMP-1步兵戰車**是[蘇聯第一種](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[步兵戰鬥車](https://zh.wikipedia.org/wiki/步兵戰鬥車 "wikilink")，其設計是[輕型坦克和](https://zh.wikipedia.org/wiki/輕型坦克 "wikilink")[裝甲運兵車的結合](https://zh.wikipedia.org/wiki/裝甲運兵車 "wikilink")，繼承了前西德Schützenpanzer Lang HS.30步兵戰車的設計風格。
 
 [蘇聯陸軍](../Page/蘇聯陸軍.md "wikilink")自[第二次世界大戰開始即奉行大裝甲戰爭](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，以坦克組成裝甲師對敵國進行衝鋒的大縱深作戰，故此要求步兵要跟隨坦克一起行動，這也是裝甲運兵車出現的原因，尤其是冷戰期間蘇軍預計會和西方發生核子戰爭，故要求裝甲車輛可以運送士兵穿過核污染地帶直攻西歐，故在1966年蘇聯進一步推出BMP-1步兵戰鬥車。
 
@@ -22,9 +21,7 @@ Lang HS.30步兵戰車的設計風格。
 
 ### 車身
 
-[BMP-1-batey-haosef-1.jpg](https://zh.wikipedia.org/wiki/File:BMP-1-batey-haosef-1.jpg "fig:BMP-1-batey-haosef-1.jpg")
-[Ćwiczenia_7BOW_(10).jpg](https://zh.wikipedia.org/wiki/File:Ćwiczenia_7BOW_\(10\).jpg "fig:Ćwiczenia_7BOW_(10).jpg")
-BMP-1步兵戰車的車身為鋼鐵結構，車身以傾斜裝甲組成外殼尤其是車首裝甲大幅傾斜80度，令它雖厚7毫米但卻等同37毫米厚的防護力，車身正面是一大塊有5條加強橫樑的裝甲板，打開此裝甲板會見到其動力系統，車身前方右側是動力艙，發動機和齒輪箱都被放在此，車前左側是駕駛和其身後的車長，車後是運兵艙可載8名士兵，兩排士兵是背對背坐，在兩排座椅之間是燃油箱，運兵艙兩側有槍孔可以讓士兵在車內向車外射擊手上的槍械（車前是[PK通用機槍](../Page/PK通用機槍.md "wikilink")用槍孔，其餘是[AK突擊步槍用槍孔](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")），槍孔可以把槍械鎖緊以防當車輛行駛時因震動而滑入車內造成誤傷乘員，運兵艙上方還有四個可向上打開的艙蓋，車尾是兩道由人力向外打開的門，兩道門同時也是燃油箱而且在左側的那道門上也有槍孔。
+[BMP-1-batey-haosef-1.jpg](https://zh.wikipedia.org/wiki/File:BMP-1-batey-haosef-1.jpg "fig:BMP-1-batey-haosef-1.jpg") [Ćwiczenia_7BOW_(10).jpg](https://zh.wikipedia.org/wiki/File:Ćwiczenia_7BOW_\(10\).jpg "fig:Ćwiczenia_7BOW_(10).jpg") BMP-1步兵戰車的車身為鋼鐵結構，車身以傾斜裝甲組成外殼尤其是車首裝甲大幅傾斜80度，令它雖厚7毫米但卻等同37毫米厚的防護力，車身正面是一大塊有5條加強橫樑的裝甲板，打開此裝甲板會見到其動力系統，車身前方右側是動力艙，發動機和齒輪箱都被放在此，車前左側是駕駛和其身後的車長，車後是運兵艙可載8名士兵，兩排士兵是背對背坐，在兩排座椅之間是燃油箱，運兵艙兩側有槍孔可以讓士兵在車內向車外射擊手上的槍械（車前是[PK通用機槍](../Page/PK通用機槍.md "wikilink")用槍孔，其餘是[AK突擊步槍用槍孔](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")），槍孔可以把槍械鎖緊以防當車輛行駛時因震動而滑入車內造成誤傷乘員，運兵艙上方還有四個可向上打開的艙蓋，車尾是兩道由人力向外打開的門，兩道門同時也是燃油箱而且在左側的那道門上也有槍孔。
 
 BMP-1有兩側各有6個車輪，而由於其車重較輕故其履帶較窄（闊度為300毫米）而且有兩排履帶齒把車輪夾在中間，在履帶上方的車身上有鋁合金製的小型側裙，作用除了保護履帶上方也可以在水上行駛時產生流體動力隧道以便水上推進，BMP-1可以7至8公里/小時的速度在水上行駛（用履帶伐水推進），這是為了要渡過江河，因為其預計的西歐戰場河流眾多，而當在水上行駛時駕駛員要舉起車前的防浪板，而駕駛員中間的潛望鏡也要舉高以看到前方，其車尾的進氣管也要昇高，但由於BMP-1的車身前方有沉重的動力室和裝甲，以至其車身重心靠前，若在水上行駛而車尾的運兵艙是空的話，它會傾向前方（車頭向下而車尾向上）而非水平，蘇聯人為此曾嘗試在車尾加上沙包以平衡，後來從1972年開始生產的BMP-1把車身加長250毫米，車身上甲板加高43毫米和車身側下裝甲由15度加至22度，這樣去增加車身前方的水上浮力。
 
@@ -32,15 +29,13 @@ BMP-1有兩側各有6個車輪，而由於其車重較輕故其履帶較窄（�
 
 ### 炮塔
 
-[BMP-1_AP_2.jpg](https://zh.wikipedia.org/wiki/File:BMP-1_AP_2.jpg "fig:BMP-1_AP_2.jpg")
-BMP-1的車身中央是炮塔，炮塔有炮手操作一挺73毫米口徑2A28[滑膛炮和其上的AT](https://zh.wikipedia.org/wiki/滑膛炮 "wikilink")-3反坦克飛彈以及一挺[PKT同軸機槍](../Page/PK通用機槍.md "wikilink")，2A28滑膛炮是由[SPG-9無後座力炮](../Page/SPG-9無後座力炮.md "wikilink")發展出來的，主要發射[高爆反坦克彈](../Page/高爆反坦克彈.md "wikilink")去攻擊敵方主戰坦克，蘇聯人宣稱其威力可炸穿西方坦克（例如[豹1型坦克](../Page/豹1型坦克.md "wikilink")）的正面裝甲，其40發炮彈被放置在一個半自動上彈機之內，2A28也可以發射榴彈去攻擊敵方步兵但要拆除半自動上彈機。
+[BMP-1_AP_2.jpg](https://zh.wikipedia.org/wiki/File:BMP-1_AP_2.jpg "fig:BMP-1_AP_2.jpg") BMP-1的車身中央是炮塔，炮塔有炮手操作一挺73毫米口徑2A28[滑膛炮和其上的AT](https://zh.wikipedia.org/wiki/滑膛炮 "wikilink")-3反坦克飛彈以及一挺[PKT同軸機槍](../Page/PK通用機槍.md "wikilink")，2A28滑膛炮是由[SPG-9無後座力炮](../Page/SPG-9無後座力炮.md "wikilink")發展出來的，主要發射[高爆反坦克彈](../Page/高爆反坦克彈.md "wikilink")去攻擊敵方主戰坦克，蘇聯人宣稱其威力可炸穿西方坦克（例如[豹1型坦克](../Page/豹1型坦克.md "wikilink")）的正面裝甲，其40發炮彈被放置在一個半自動上彈機之內，2A28也可以發射榴彈去攻擊敵方步兵但要拆除半自動上彈機。
 
 BMP-1並無射控電腦和激光測距儀等設備，主炮也無水平和垂直穩定器，主炮的瞄準仍要用表尺等簡單的光學設備，故在開火時仍以傳統的停車開火為主。
 
 BMP-1還有AT-3反坦克飛彈，每輛BMP-1配備有4發，使用時由炮手通過炮塔前的小艙門把飛彈推入發射軌，AT-3的控制桿在炮手座位下方，不用時可以取下放到座位之下。
 
-[MSPO2004_PICT0103_BWP1_RCWS30.JPG](https://zh.wikipedia.org/wiki/File:MSPO2004_PICT0103_BWP1_RCWS30.JPG "fig:MSPO2004_PICT0103_BWP1_RCWS30.JPG")
-[Battalion_Vostok_1.jpg](https://zh.wikipedia.org/wiki/File:Battalion_Vostok_1.jpg "fig:Battalion_Vostok_1.jpg")
+[MSPO2004_PICT0103_BWP1_RCWS30.JPG](https://zh.wikipedia.org/wiki/File:MSPO2004_PICT0103_BWP1_RCWS30.JPG "fig:MSPO2004_PICT0103_BWP1_RCWS30.JPG") [Battalion_Vostok_1.jpg](https://zh.wikipedia.org/wiki/File:Battalion_Vostok_1.jpg "fig:Battalion_Vostok_1.jpg")
 
 BMP-1的主要缺點是主要火力的2A28滑膛炮所發射的炮彈初速低以致射程短，而且由於瞄準設備簡單故命中率大約祇有三成（對1000公尺以外的目標），當為AT-3上彈時，炮手不能發射其他武器也不能對外觀察，而當上完彈後又要冒著戰場上的子彈把手伸出來為飛彈打開彈翼。BMP-1的防護力還未夠好，在實戰中甚至發現用12.7毫米口徑的重機槍子彈即可打穿其側面裝甲，BMP-1內部也無採用隔艙化設計，一旦中彈的話車內的炮彈容易被引爆而增加傷亡，這可說是蘇聯裝甲車輛的通病，而其運兵艙也太狹窄和乘坐不舒適而且無空調，不過對此蘇聯設計師認為BMP-1只是把步兵送上戰場，士兵之後要下車戰鬥，然後BMP-1會當作輕型坦克為步兵開路和作火力支援炮台，故步兵乘坐的時間不會太長，無需要寬敞舒適的運兵艙；但在前線的士兵很多寧願坐在車頂而不願坐在車內。
 
@@ -48,8 +43,7 @@ BMP-1的主要缺點是主要火力的2A28滑膛炮所發射的炮彈初速低�
 
 ### 贖罪日戰爭
 
-[BMP1_Training_Turret_Parola_2.jpg](https://zh.wikipedia.org/wiki/File:BMP1_Training_Turret_Parola_2.jpg "fig:BMP1_Training_Turret_Parola_2.jpg")
-1973年[贖罪日戰爭](../Page/贖罪日戰爭.md "wikilink")（又名「第四次中東戰爭」），埃及軍和敘利亞軍總共有230輛BMP-1向以色列發動進攻。戰鬥一開打，埃及軍的BMP-1就載著士兵渡過[蘇伊士運河進攻在](https://zh.wikipedia.org/wiki/蘇伊士運河 "wikilink")[西奈半島](../Page/西奈半島.md "wikilink")的以軍。以軍的美製[M60主戰坦克和埃軍的BMP](https://zh.wikipedia.org/wiki/M60巴頓 "wikilink")-1發生激戰，埃軍的BMP-1用AT-3反坦克飛彈擊毀多輛以軍M60；但以軍也用美製[M2重機槍打穿BMP](../Page/白朗寧M2重機槍.md "wikilink")-1的側面裝甲。戰鬥中由於BMP-1車內無空調，埃軍感到炎熱而把運兵艙的車頂艙蓋打開，結果造成有些BMP-1被由從打開的車頂艙蓋投進來的以軍手榴彈炸毀。
+[BMP1_Training_Turret_Parola_2.jpg](https://zh.wikipedia.org/wiki/File:BMP1_Training_Turret_Parola_2.jpg "fig:BMP1_Training_Turret_Parola_2.jpg") 1973年[贖罪日戰爭](../Page/贖罪日戰爭.md "wikilink")（又名「第四次中東戰爭」），埃及軍和敘利亞軍總共有230輛BMP-1向以色列發動進攻。戰鬥一開打，埃及軍的BMP-1就載著士兵渡過[蘇伊士運河進攻在](https://zh.wikipedia.org/wiki/蘇伊士運河 "wikilink")[西奈半島](../Page/西奈半島.md "wikilink")的以軍。以軍的美製[M60主戰坦克和埃軍的BMP](https://zh.wikipedia.org/wiki/M60巴頓 "wikilink")-1發生激戰，埃軍的BMP-1用AT-3反坦克飛彈擊毀多輛以軍M60；但以軍也用美製[M2重機槍打穿BMP](../Page/白朗寧M2重機槍.md "wikilink")-1的側面裝甲。戰鬥中由於BMP-1車內無空調，埃軍感到炎熱而把運兵艙的車頂艙蓋打開，結果造成有些BMP-1被由從打開的車頂艙蓋投進來的以軍手榴彈炸毀。
 
 另一方面，敘利亞軍的BMP-1在[戈蘭高地](../Page/戈蘭高地.md "wikilink")進攻在防禦工事的以軍，此戰以軍用反坦克武器擊毀和擄獲50多輛敘軍的BMP-1；擄獲的BMP-1佔一半是由於機械故障後被敘軍放棄，敘軍稱呼BMP-1為「昂貴的運動跑車」，認為BMP-1機械故障多而且乘坐不舒適。但在1982年的[黎巴嫩戰爭當中](https://zh.wikipedia.org/wiki/黎巴嫩戰爭 "wikilink")，敘軍的BMP-1乘員宣稱用2A28滑膛炮擊毀以軍的M60坦克和用AT-3反坦克飛彈擊毀以軍的[梅卡瓦主战坦克](../Page/梅卡瓦主战坦克.md "wikilink")。
 
@@ -89,22 +83,17 @@ BMP-1的主要缺點是主要火力的2A28滑膛炮所發射的炮彈初速低�
 
 **BMP-1K** -指揮車版本，裝備R-111無線電和導航設備，1973年開始服役。
 
-**BMP-1D**
--開發於1982年專門在阿富汗作戰，主要區別是：車身上安裝強化裝甲，由於重量增加，失去了渡河功能，最大涉水深度1.2公尺，同時拆除了反戰車飛彈。
+**BMP-1D** -開發於1982年專門在阿富汗作戰，主要區別是：車身上安裝強化裝甲，由於重量增加，失去了渡河功能，最大涉水深度1.2公尺，同時拆除了反戰車飛彈。
 
 **BMP-1P** -改良版本，裝備了更強大的 9K111反坦克導彈，和六組的902V煙霧發射器。
 
 **BMP-1PK** -指揮車型改良版。
 
-**BMP-1PG**
--BMP-1P的改良型，另外配備了[AGS-17榴彈發射器](https://zh.wikipedia.org/wiki/AGS-17 "wikilink")。
+**BMP-1PG** -BMP-1P的改良型，另外配備了[AGS-17榴彈發射器](https://zh.wikipedia.org/wiki/AGS-17 "wikilink")。
 
-**BMP-1-30**
--安裝了[BMD-2的炮塔](https://zh.wikipedia.org/wiki/BMD-2 "wikilink")
+**BMP-1-30** -安裝了[BMD-2的炮塔](https://zh.wikipedia.org/wiki/BMD-2 "wikilink")
 
-**BMP-1M** -現代化版本，安裝了TKB-799
-Kliver炮塔（30mm[希普諾夫2A72機炮](../Page/希普諾夫2A72機炮.md "wikilink")，[9M133短號反坦克飛彈](../Page/9M133短號反坦克导弹.md "wikilink")
-，[熱成像儀](../Page/热成像仪.md "wikilink")，1K13-2雷射測距裝置）
+**BMP-1M** -現代化版本，安裝了TKB-799 Kliver炮塔（30mm[希普諾夫2A72機炮](../Page/希普諾夫2A72機炮.md "wikilink")，[9M133短號反坦克飛彈](../Page/9M133短號反坦克导弹.md "wikilink") ，[熱成像儀](../Page/热成像仪.md "wikilink")，1K13-2雷射測距裝置）
 
 **BMP-1U** -烏克蘭改良版本。
 
@@ -118,18 +107,11 @@ Kliver炮塔（30mm[希普諾夫2A72機炮](../Page/希普諾夫2A72機炮.md "w
 
 **MLI-84** - 羅馬尼亞的BMP-1改良型，安裝了12.7毫米DShKM重機槍，並裝備更大功率的發動機，總重量16.6噸。
 
-**MLI-84M**
--羅馬尼亞的MLI-84現代化版本，安裝了[以色列](../Page/以色列.md "wikilink")的[OWS-25R炮塔](../Page/拉斐爾車頂武器站.md "wikilink")（25mm
-KBA-B07AA 機炮，7.62mm
-PKT機槍，兩枚反坦克飛彈）新型的400匹柴油發動機、兩側安裝了81mm煙霧發射器、拆除了DShKM重機槍，以及原本的[9K11嬰兒反坦克飛彈](https://zh.wikipedia.org/wiki/9K11嬰兒反坦克飛彈 "wikilink")。
+**MLI-84M** -羅馬尼亞的MLI-84現代化版本，安裝了[以色列](../Page/以色列.md "wikilink")的[OWS-25R炮塔](../Page/拉斐爾車頂武器站.md "wikilink")（25mm KBA-B07AA 機炮，7.62mm PKT機槍，兩枚反坦克飛彈）新型的400匹柴油發動機、兩側安裝了81mm煙霧發射器、拆除了DShKM重機槍，以及原本的[9K11嬰兒反坦克飛彈](https://zh.wikipedia.org/wiki/9K11嬰兒反坦克飛彈 "wikilink")。
 
 ## 使用國家
 
-[BMP-1_IFV_in_Russian_service.jpg](https://zh.wikipedia.org/wiki/File:BMP-1_IFV_in_Russian_service.jpg "fig:BMP-1_IFV_in_Russian_service.jpg")
-[Finnish_BMP1_Parola_2.jpg](https://zh.wikipedia.org/wiki/File:Finnish_BMP1_Parola_2.jpg "fig:Finnish_BMP1_Parola_2.jpg")
-[Bundesarchiv_Bild_183-1988-1007-009,_Berlin,_39._Jahrestag_DDR-Gründung,_Parade_crop.jpg](https://zh.wikipedia.org/wiki/File:Bundesarchiv_Bild_183-1988-1007-009,_Berlin,_39._Jahrestag_DDR-Gründung,_Parade_crop.jpg "fig:Bundesarchiv_Bild_183-1988-1007-009,_Berlin,_39._Jahrestag_DDR-Gründung,_Parade_crop.jpg")
-[Chinese_Type86.jpg](https://zh.wikipedia.org/wiki/File:Chinese_Type86.jpg "fig:Chinese_Type86.jpg")
-[Bmp-1-DMSC9112086_JPG.jpg](https://zh.wikipedia.org/wiki/File:Bmp-1-DMSC9112086_JPG.jpg "fig:Bmp-1-DMSC9112086_JPG.jpg")
+[BMP-1_IFV_in_Russian_service.jpg](https://zh.wikipedia.org/wiki/File:BMP-1_IFV_in_Russian_service.jpg "fig:BMP-1_IFV_in_Russian_service.jpg") [Finnish_BMP1_Parola_2.jpg](https://zh.wikipedia.org/wiki/File:Finnish_BMP1_Parola_2.jpg "fig:Finnish_BMP1_Parola_2.jpg") [Bundesarchiv_Bild_183-1988-1007-009,_Berlin,_39._Jahrestag_DDR-Gründung,_Parade_crop.jpg](https://zh.wikipedia.org/wiki/File:Bundesarchiv_Bild_183-1988-1007-009,_Berlin,_39._Jahrestag_DDR-Gründung,_Parade_crop.jpg "fig:Bundesarchiv_Bild_183-1988-1007-009,_Berlin,_39._Jahrestag_DDR-Gründung,_Parade_crop.jpg") [Chinese_Type86.jpg](https://zh.wikipedia.org/wiki/File:Chinese_Type86.jpg "fig:Chinese_Type86.jpg") [Bmp-1-DMSC9112086_JPG.jpg](https://zh.wikipedia.org/wiki/File:Bmp-1-DMSC9112086_JPG.jpg "fig:Bmp-1-DMSC9112086_JPG.jpg")
 
   -
   -
@@ -192,37 +174,25 @@ PKT機槍，兩枚反坦克飛彈）新型的400匹柴油發動機、兩側安�
 
   - [蘇聯BMP-1步兵戰車](http://www.airforceworld.com/tank/bbzc/bbzc099.htm)
 
-  - [RUSSIAN BMP-1 Mechanised Infantry Combat Vehicle – Walk around
-    photos](http://www.thetankmaster.com/ENGLISH/AFV/bmp-1_01.asp)
+  - [RUSSIAN BMP-1 Mechanised Infantry Combat Vehicle – Walk around photos](http://www.thetankmaster.com/ENGLISH/AFV/bmp-1_01.asp)
 
-  - [Warsaw Pact OOB as of
-    June 1989](https://web.archive.org/web/20160303230623/http://www.orbat.com/site/history/historical/nato/warsawpact.html)
+  - [Warsaw Pact OOB as of June 1989](https://web.archive.org/web/20160303230623/http://www.orbat.com/site/history/historical/nato/warsawpact.html)
 
-  - [Information in French, a lot of photos including the BMP-1 in
-    Soviet Army
-    service](http://www.armyrecognition.com/Russe/vehicles_legers/BMP_1/BMP_1_description.htm)
+  - [Information in French, a lot of photos including the BMP-1 in Soviet Army service](http://www.armyrecognition.com/Russe/vehicles_legers/BMP_1/BMP_1_description.htm)
 
   -
-  - [in Russian, general
-    information](https://web.archive.org/web/20110210225617/http://www.arms-expo.ru/site.xp/054056055124054051054.html)
+  - [in Russian, general information](https://web.archive.org/web/20110210225617/http://www.arms-expo.ru/site.xp/054056055124054051054.html)
 
-  - [in Russian, photos (including BMP-1 on water) and
-    specifications](http://www.rusarmy.ru/unit.php?id=17)
+  - [in Russian, photos (including BMP-1 on water) and specifications](http://www.rusarmy.ru/unit.php?id=17)
 
-  - [in Russian, information about
-    development](https://web.archive.org/web/20080528140306/http://www.mod.mil.by/armia/pdf/2006n1/15.pdf)
+  - [in Russian, information about development](https://web.archive.org/web/20080528140306/http://www.mod.mil.by/armia/pdf/2006n1/15.pdf)
 
   -
-  - [in Russian, list of BMP variants with short information about
-    them](http://www.militaryparitet.com/nomen/russia/bron/bbm/data/ic_nomenrussiabronbbm/10)
+  - [in Russian, list of BMP variants with short information about them](http://www.militaryparitet.com/nomen/russia/bron/bbm/data/ic_nomenrussiabronbbm/10)
 
   -
-  - \[<https://web.archive.org/web/20150322081603/http://bmp-info.ru/>**BMP-1
-    information**\]
+  - \[<https://web.archive.org/web/20150322081603/http://bmp-info.ru/>**BMP-1 information**\]
 
-  - [BMP in a firefighting mission of DHZ POLE,
-    Slovakia](https://web.archive.org/web/20121203222742/http://www.dhztt.sk/en/Missions.html)
+  - [BMP in a firefighting mission of DHZ POLE, Slovakia](https://web.archive.org/web/20121203222742/http://www.dhztt.sk/en/Missions.html)
 
-[Category:步兵战车](https://zh.wikipedia.org/wiki/Category:步兵战车 "wikilink")
-[Category:兩棲車輛](https://zh.wikipedia.org/wiki/Category:兩棲車輛 "wikilink")
-[Category:俄聯邦儀器設計局](https://zh.wikipedia.org/wiki/Category:俄聯邦儀器設計局 "wikilink")
+[Category:步兵战车](https://zh.wikipedia.org/wiki/Category:步兵战车 "wikilink") [Category:兩棲車輛](https://zh.wikipedia.org/wiki/Category:兩棲車輛 "wikilink") [Category:俄聯邦儀器設計局](https://zh.wikipedia.org/wiki/Category:俄聯邦儀器設計局 "wikilink")

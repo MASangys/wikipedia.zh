@@ -1,10 +1,8 @@
-《**妹妹公主 Re Pure**》（，Sister Princess Re
-Pure）是於2002年10月2日至12月25日在[東京電視網](../Page/東京電視網.md "wikilink")播映的[日本電視動畫](../Page/日本電視動畫.md "wikilink")。
+《**妹妹公主 Re Pure**》（，Sister Princess Re Pure）是於2002年10月2日至12月25日在[東京電視網](../Page/東京電視網.md "wikilink")播映的[日本電視動畫](../Page/日本電視動畫.md "wikilink")。
 
 ## 概要
 
-由於前作《[妹妹公主](../Page/妹妹公主.md "wikilink")》受到相當熱烈反響\[1\]，所以決定將妹妹公主第二次動畫化\[2\]，並在2002年十月至十二月期間於[東京電視台](../Page/東京電視台.md "wikilink")播映。取名「妹妹公主
-RePure」（）。全13話。\[3\]\[4\]本作的影像畫面尺寸不是上一輯的4:3，而是採用長寬比16：9的影像畫面。
+由於前作《[妹妹公主](../Page/妹妹公主.md "wikilink")》受到相當熱烈反響\[1\]，所以決定將妹妹公主第二次動畫化\[2\]，並在2002年十月至十二月期間於[東京電視台](../Page/東京電視台.md "wikilink")播映。取名「妹妹公主 RePure」（）。全13話。\[3\]\[4\]本作的影像畫面尺寸不是上一輯的4:3，而是採用長寬比16：9的影像畫面。
 
 本次製作更使用兩個截然不同的製作小組，起先15分鐘（故事篇）的製作班和前作是相同的，至於後半10分鐘（角色篇）則是請來《[水果籃子](https://zh.wikipedia.org/wiki/水果籃子 "wikilink")》的相同製作班底。
 
@@ -41,16 +39,13 @@ RePure」（）。全13話。\[3\]\[4\]本作的影像畫面尺寸不是上一�
 
 :\* 錄音工作室：OP安魂曲工作室（OPレクイエムスタジオ）
 
-:\* 音響製作：[OMNIBUS
-PROMOTION](https://zh.wikipedia.org/wiki/OMNIBUS_PROMOTION "wikilink")
+:\* 音響製作：[OMNIBUS PROMOTION](https://zh.wikipedia.org/wiki/OMNIBUS_PROMOTION "wikilink")
 
 :\* 動畫製作：[ZEXCS](../Page/ZEXCS.md "wikilink")
 
 :\* 製作協助：[GANSIS](https://zh.wikipedia.org/wiki/GANSIS "wikilink")
 
-:\* 製作：妹妹公主
-RePure[製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")、[MediaWorks](../Page/MediaWorks.md "wikilink")、[King
-Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[讀賣廣告社](../Page/讀賣廣告社.md "wikilink")
+:\* 製作：妹妹公主 RePure[製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")、[MediaWorks](../Page/MediaWorks.md "wikilink")、[King Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[讀賣廣告社](../Page/讀賣廣告社.md "wikilink")
 
   - 「故事篇」製作人員
 
@@ -88,8 +83,7 @@ Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[讀賣廣告�
 
 :: 作曲：[POM](https://zh.wikipedia.org/wiki/POM "wikilink")
 
-::
-編曲：[can/goo](https://zh.wikipedia.org/wiki/can/goo "wikilink")、[時乘浩一郎](https://zh.wikipedia.org/wiki/時乘浩一郎 "wikilink")
+:: 編曲：[can/goo](https://zh.wikipedia.org/wiki/can/goo "wikilink")、[時乘浩一郎](https://zh.wikipedia.org/wiki/時乘浩一郎 "wikilink")
 
 :: 歌：[can/goo](https://zh.wikipedia.org/wiki/can/goo "wikilink")
 
@@ -373,18 +367,9 @@ Records](https://zh.wikipedia.org/wiki/King_Records "wikilink")、[讀賣廣告�
 
   - [RePure公式網站（スターチャイルド）](http://www.starchild.co.jp/special/repure/index.html)
 
-[分類:東京電視網動畫](https://zh.wikipedia.org/wiki/分類:東京電視網動畫 "wikilink")
-[分類:2002年日本電視動畫](https://zh.wikipedia.org/wiki/分類:2002年日本電視動畫 "wikilink")
-[分類:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/分類:戀愛冒險遊戲 "wikilink") [分類:Game
-Boy
-Advance遊戲](https://zh.wikipedia.org/wiki/分類:Game_Boy_Advance遊戲 "wikilink")
-[分類:2003年電子遊戲](https://zh.wikipedia.org/wiki/分類:2003年電子遊戲 "wikilink")
-[分類:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/分類:月刊Comic電擊大王連載作品 "wikilink")
-[分類:電擊文庫](https://zh.wikipedia.org/wiki/分類:電擊文庫 "wikilink")
-[分類:漫畫改編動畫](https://zh.wikipedia.org/wiki/分類:漫畫改編動畫 "wikilink")
+[分類:東京電視網動畫](https://zh.wikipedia.org/wiki/分類:東京電視網動畫 "wikilink") [分類:2002年日本電視動畫](https://zh.wikipedia.org/wiki/分類:2002年日本電視動畫 "wikilink") [分類:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/分類:戀愛冒險遊戲 "wikilink") [分類:Game Boy Advance遊戲](https://zh.wikipedia.org/wiki/分類:Game_Boy_Advance遊戲 "wikilink") [分類:2003年電子遊戲](https://zh.wikipedia.org/wiki/分類:2003年電子遊戲 "wikilink") [分類:月刊Comic電擊大王連載作品](https://zh.wikipedia.org/wiki/分類:月刊Comic電擊大王連載作品 "wikilink") [分類:電擊文庫](https://zh.wikipedia.org/wiki/分類:電擊文庫 "wikilink") [分類:漫畫改編動畫](https://zh.wikipedia.org/wiki/分類:漫畫改編動畫 "wikilink")
 
 1.  [妹妹公主：RePure](http://acg.gamer.com.tw/acgDetail.php?s=5477)
-2.  [アニメ『シスター・プリンセス　Re
-    Pure』考察１](http://www.puni.net/~anyo/etc/repure1.html)
+2.  [アニメ『シスター・プリンセス　Re Pure』考察１](http://www.puni.net/~anyo/etc/repure1.html)
 3.
 4.  [シスタープリンセス ～リ ピュア～　キャラクターズ](http://www.age.ne.jp/x/kazuo/repure.htm)

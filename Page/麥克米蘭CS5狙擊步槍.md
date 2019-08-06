@@ -1,6 +1,4 @@
-**麥克米蘭CS5**（；CS5，全寫：Concealable Subsonic/Supersonic Suppressed Sniper
-System，意為：隱蔽性亞音速或超音速[消聲](../Page/抑制器.md "wikilink")[狙擊手](../Page/狙擊手.md "wikilink")系統）是一款由[美国](../Page/美国.md "wikilink")槍械製造商所研製並於2012年推出的緊湊型[可分解式戰術](https://zh.wikipedia.org/wiki/可分解式槍械 "wikilink")[手動槍機](../Page/手動槍機.md "wikilink")操作式[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，發射[.308
-Winchester](../Page/.308_Winchester.md "wikilink")（[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")）[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**麥克米蘭CS5**（；CS5，全寫：Concealable Subsonic/Supersonic Suppressed Sniper System，意為：隱蔽性亞音速或超音速[消聲](../Page/抑制器.md "wikilink")[狙擊手](../Page/狙擊手.md "wikilink")系統）是一款由[美国](../Page/美国.md "wikilink")槍械製造商所研製並於2012年推出的緊湊型[可分解式戰術](https://zh.wikipedia.org/wiki/可分解式槍械 "wikilink")[手動槍機](../Page/手動槍機.md "wikilink")操作式[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，發射[.308 Winchester](../Page/.308_Winchester.md "wikilink")（[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")）[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 該槍具有粗壯型和標準型兩種配置可供選擇。無論是亞音速或超音速彈藥，這兩個版本在選擇適當的[彈藥時都具有次](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[角分的](https://zh.wikipedia.org/wiki/角分 "wikilink")[精度](../Page/準確與精密.md "wikilink")。
 
@@ -10,9 +8,7 @@ Winchester](../Page/.308_Winchester.md "wikilink")（[7.62×51毫米](../Page/7.
 
 而CS5標準型狙擊步槍的槍管長為469.9毫米（18.5英吋），全槍長也相應地加長到977.9毫米（38.5英吋），加裝消聲器後全長為1,016毫米（40英吋），而且全槍質量也增大到5.26公斤（11.6磅）。雖然武器變大、變長和變重，但射程相應地進一步增大。
 
-麥克米蘭CS5發射[.308
-Winchester或其軍用型](../Page/.308_Winchester.md "wikilink")[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，彈匣容彈量可在10
-發與20 發之間選擇。
+麥克米蘭CS5發射[.308 Winchester或其軍用型](../Page/.308_Winchester.md "wikilink")[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，彈匣容彈量可在10 發與20 發之間選擇。
 
 麥克米蘭CS5粗壯型狙擊步槍可滿足特警或反恐狙擊手近距離作戰使用，而CS5標準型狙擊步槍則適用於狙擊距離一般在500公尺的特種部隊和軍事承包商等特殊用戶。
 
@@ -28,8 +24,7 @@ Winchester或其軍用型](../Page/.308_Winchester.md "wikilink")[7.62×51毫米
 
 精密製造的[自由浮動式](../Page/自由浮動式槍管.md "wikilink")[槍管](../Page/槍管.md "wikilink")是由[不鏽鋼](../Page/不鏽鋼.md "wikilink")製造而成。
 
-槍口帶有的[螺紋](../Page/螺紋.md "wikilink")一般裝有兩室式[槍口制退器](../Page/砲口制動器.md "wikilink")，需要時還可以安裝精鐵公司（Elite
-Iron）專門為CS5狙擊步槍而設計的精鐵B型可拆卸式[消聲器](../Page/抑制器.md "wikilink")。
+槍口帶有的[螺紋](../Page/螺紋.md "wikilink")一般裝有兩室式[槍口制退器](../Page/砲口制動器.md "wikilink")，需要時還可以安裝精鐵公司（Elite Iron）專門為CS5狙擊步槍而設計的精鐵B型可拆卸式[消聲器](../Page/抑制器.md "wikilink")。
 
 麥克米蘭CS5粗壯型之所以那麼短，是因為槍管縮短至只有318毫米，膛線導程為1：8。
 
@@ -63,18 +58,9 @@ Iron）專門為CS5狙擊步槍而設計的精鐵B型可拆卸式[消聲器](../
 
 ### [电脑游戏](../Page/电脑游戏.md "wikilink")
 
-  - 2012年—《[-{zh-cn:荣誉勋章：战士; zh-tw:榮譽勳章：鐵血悍將;
-    zh-hk:榮譽勳章：鐵血悍將;}-](https://zh.wikipedia.org/wiki/榮譽勳章：鐵血悍將 "wikilink")》（Medal
-    of Honor：Warfighter）：型號為CS5粗壯型，命名為「麥克米蘭CS5」，10+1
-    發[彈匣](../Page/彈匣.md "wikilink")。故事模式時被馬科特遣隊所屬的[美國海軍](../Page/美國海軍.md "wikilink")[特種作戰研究大隊偵查兵及主要操控的主角](https://zh.wikipedia.org/wiki/美國海軍特種作戰研究大隊 "wikilink")“樹樁”（Stump）所使用；聯機模式時為FSK、[SAS和](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")[OGA的解鎖武器](../Page/中央情報局特別行動科.md "wikilink")。
-  - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：型號為CS5粗壯型，命名為「麥克米蘭CS5」，10
-    發[彈匣](../Page/彈匣.md "wikilink")，为狙击手专用武器，只能通过抽奖获得，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、狙击枪消音器、CS5专用消音器、[狙击枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")）、战术导轨配件（[狙击枪双脚架](https://zh.wikipedia.org/wiki/两脚架 "wikilink")、特殊狙击枪双脚架）以及瞄准镜（[狙击枪5.5x瞄准镜](../Page/瞄准镜.md "wikilink")、狙击枪4.5x中程瞄准镜、[狙击枪4x短程瞄准镜](https://zh.wikipedia.org/wiki/Trijicon_TR20瞄准镜 "wikilink")、狙击槍5x快速瞄准镜），默认安装专用消音器。目前只有俄罗斯服务器与欧美服务器可以使用，中国大陆服务器尚未实装但已有成就。
-  - 2013年—《[-{zh-hans:战地4;
-    zh-hant:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
-    4）：[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")「龍之獠牙」（Dragon's
-    Teeth）武器之一。只在聯機模式中登場。命名為「CS5」，發射[7.62×51毫米子彈](../Page/7.62×51mm_NATO.md "wikilink")，10+1
-    發[彈匣](../Page/彈匣.md "wikilink")。多人聯機模式時為「偵察兵」（Recon）的解鎖武器包武器之一，於完成小任務「大我中的小我」（獲得狙擊步槍勳帶2次、從無線電信標重生10次和協助找出位置20次）時解鎖，被歸類為[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")，預設使用[步槍瞄具](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")（放大8倍）和CS5[消音器](../Page/抑制器.md "wikilink")（精鐵公司B型消聲器）技能，並可以使用變焦視鏡（放大14倍）、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[直拉式槍機](../Page/手動槍機.md "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、、[彈道](../Page/弹道学.md "wikilink")（放大40倍）、[测距仪以及七件戰鬥包附件](https://zh.wikipedia.org/wiki/测距仪 "wikilink")（FLIR（紅外線放大2倍）、CL6X（放大6
-    倍）、JGM-4（放大4倍）、土狼、稜鏡（放大3.4倍）、、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[LS06消音器](../Page/長風衝鋒槍.md "wikilink")、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PKS-07](https://zh.wikipedia.org/wiki/PKS-07光學狙擊鏡 "wikilink")（放大7倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射、HD-33、獵人（放大20倍）當中之七）技能。
+  - 2012年—《[-{zh-cn:荣誉勋章：战士; zh-tw:榮譽勳章：鐵血悍將; zh-hk:榮譽勳章：鐵血悍將;}-](https://zh.wikipedia.org/wiki/榮譽勳章：鐵血悍將 "wikilink")》（Medal of Honor：Warfighter）：型號為CS5粗壯型，命名為「麥克米蘭CS5」，10+1 發[彈匣](../Page/彈匣.md "wikilink")。故事模式時被馬科特遣隊所屬的[美國海軍](../Page/美國海軍.md "wikilink")[特種作戰研究大隊偵查兵及主要操控的主角](https://zh.wikipedia.org/wiki/美國海軍特種作戰研究大隊 "wikilink")“樹樁”（Stump）所使用；聯機模式時為FSK、[SAS和](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")[OGA的解鎖武器](../Page/中央情報局特別行動科.md "wikilink")。
+  - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：型號為CS5粗壯型，命名為「麥克米蘭CS5」，10 發[彈匣](../Page/彈匣.md "wikilink")，为狙击手专用武器，只能通过抽奖获得，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、狙击枪消音器、CS5专用消音器、[狙击枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")）、战术导轨配件（[狙击枪双脚架](https://zh.wikipedia.org/wiki/两脚架 "wikilink")、特殊狙击枪双脚架）以及瞄准镜（[狙击枪5.5x瞄准镜](../Page/瞄准镜.md "wikilink")、狙击枪4.5x中程瞄准镜、[狙击枪4x短程瞄准镜](https://zh.wikipedia.org/wiki/Trijicon_TR20瞄准镜 "wikilink")、狙击槍5x快速瞄准镜），默认安装专用消音器。目前只有俄罗斯服务器与欧美服务器可以使用，中国大陆服务器尚未实装但已有成就。
+  - 2013年—《[-{zh-hans:战地4; zh-hant:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield 4）：[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")「龍之獠牙」（Dragon's Teeth）武器之一。只在聯機模式中登場。命名為「CS5」，發射[7.62×51毫米子彈](../Page/7.62×51mm_NATO.md "wikilink")，10+1 發[彈匣](../Page/彈匣.md "wikilink")。多人聯機模式時為「偵察兵」（Recon）的解鎖武器包武器之一，於完成小任務「大我中的小我」（獲得狙擊步槍勳帶2次、從無線電信標重生10次和協助找出位置20次）時解鎖，被歸類為[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")，預設使用[步槍瞄具](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")（放大8倍）和CS5[消音器](../Page/抑制器.md "wikilink")（精鐵公司B型消聲器）技能，並可以使用變焦視鏡（放大14倍）、[腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[直拉式槍機](../Page/手動槍機.md "wikilink")、[反射式](../Page/紅點鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、、[彈道](../Page/弹道学.md "wikilink")（放大40倍）、[测距仪以及七件戰鬥包附件](https://zh.wikipedia.org/wiki/测距仪 "wikilink")（FLIR（紅外線放大2倍）、CL6X（放大6 倍）、JGM-4（放大4倍）、土狼、稜鏡（放大3.4倍）、、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[LS06消音器](../Page/長風衝鋒槍.md "wikilink")、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PKS-07](https://zh.wikipedia.org/wiki/PKS-07光學狙擊鏡 "wikilink")（放大7倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射、HD-33、獵人（放大20倍）當中之七）技能。
 
 ## 參見
 
@@ -92,8 +78,7 @@ Iron）專門為CS5狙擊步槍而設計的精鐵B型可拆卸式[消聲器](../
   - [布拉塞爾R93](../Page/布拉塞爾R93戰術型狙擊步槍.md "wikilink")
   - [C14](../Page/C14大灰狼狙擊步槍.md "wikilink")
   - [CZ 700](https://zh.wikipedia.org/wiki/CZ_700狙擊步槍 "wikilink")
-  - [CheyTac M200
-    Intervention](../Page/CheyTac_M200干預型狙擊步槍.md "wikilink")
+  - [CheyTac M200 Intervention](../Page/CheyTac_M200干預型狙擊步槍.md "wikilink")
   - [DSR-1](../Page/DSR-1狙擊步槍.md "wikilink")
   - [DT SRS](../Page/沙漠科技隱形偵察兵狙擊步槍.md "wikilink")
   - [埃爾瑪SR-100](https://zh.wikipedia.org/wiki/埃爾瑪SR-100狙擊步槍 "wikilink")
@@ -118,7 +103,7 @@ Iron）專門為CS5狙擊步槍而設計的精鐵B型可拆卸式[消聲器](../
   - [雷明登M2010](../Page/M2010增強型狙擊步槍.md "wikilink")
   - [儒格M77](../Page/儒格M77步槍.md "wikilink")
   - [薩科蒂卡T3](../Page/薩科蒂卡T3步槍.md "wikilink")
-  - [薩科TRG-21／22／41／42](https://zh.wikipedia.org/wiki/薩科TRG狙擊步槍 "wikilink")
+  - [薩科TRG-21／22／41／42](../Page/薩科TRG狙擊步槍.md "wikilink")
   - [薩維奇10FP](https://zh.wikipedia.org/wiki/薩維奇10FP狙擊步槍 "wikilink")
   - [SIG SSG 2000](../Page/SIG_SSG_2000狙擊步槍.md "wikilink")
   - [SIG SSG 3000](../Page/SIG_SSG_3000狙擊步槍.md "wikilink")
@@ -138,8 +123,7 @@ Iron）專門為CS5狙擊步槍而設計的精鐵B型可拆卸式[消聲器](../
 
 <references />
 
-  - —[Modern Firearms—McMillan CS5 sniper
-    rifle](http://world.guns.ru/sniper/sniper-rifles/usa/mcmillan_cs5-e.html)
+  - —[Modern Firearms—McMillan CS5 sniper rifle](http://world.guns.ru/sniper/sniper-rifles/usa/mcmillan_cs5-e.html)
 
 </div>
 
@@ -153,38 +137,23 @@ Iron）專門為CS5狙擊步槍而設計的精鐵B型可拆卸式[消聲器](../
 
 ## 外部連結
 
-  - —[The Firearm Blog.com—McMillan ALIAS Modular Bolt
-    Action](http://www.thefirearmblog.com/blog/2013/01/16/mcmillan-alias-modular-bolt-action/)
+  - —[The Firearm Blog.com—McMillan ALIAS Modular Bolt Action](http://www.thefirearmblog.com/blog/2013/01/16/mcmillan-alias-modular-bolt-action/)
 
   - —The Truth About Guns.com—
 
-      - [New from McMillan: CS5 – Concealable Subsonic / Supersonic
-        Suppressed Sniper
-        System](http://www.thetruthaboutguns.com/2012/01/foghorn/new-from-mcmillan-cs5-concealable-subsonic-supersonic-suppressed-sniper-system/)
-      - [New from McMillan: CS5 Concealable Subsonic/Suppressed Sniper
-        System](http://www.thetruthaboutguns.com/2012/02/robert-farago/new-mcmillan-cs5-concealable-subsonicsuppressed-sniper-system/)
-      - [Just In from the FFL: McMillan CS5
-        Rifle](http://www.thetruthaboutguns.com/2012/09/foghorn/just-in-from-the-ffl-mcmillan-cs5-rifle/)
-      - [Gun Review: McMillan
-        CS5](http://www.thetruthaboutguns.com/2012/10/foghorn/gun-review-mcmillan-cs5-non-nfa-version/)
+      - [New from McMillan: CS5 – Concealable Subsonic / Supersonic Suppressed Sniper System](http://www.thetruthaboutguns.com/2012/01/foghorn/new-from-mcmillan-cs5-concealable-subsonic-supersonic-suppressed-sniper-system/)
+      - [New from McMillan: CS5 Concealable Subsonic/Suppressed Sniper System](http://www.thetruthaboutguns.com/2012/02/robert-farago/new-mcmillan-cs5-concealable-subsonicsuppressed-sniper-system/)
+      - [Just In from the FFL: McMillan CS5 Rifle](http://www.thetruthaboutguns.com/2012/09/foghorn/just-in-from-the-ffl-mcmillan-cs5-rifle/)
+      - [Gun Review: McMillan CS5](http://www.thetruthaboutguns.com/2012/10/foghorn/gun-review-mcmillan-cs5-non-nfa-version/)
 
   - —Tactical-Life.com—
 
-      - [McMILLAN CS5
-        STUBBY 7.62mm](http://www.tactical-life.com/magazines/special-weapons/mcmillan-cs5-stubby-762mm/)
-      - [MCMILLAN CS5 SUITCASE
-        SNIPER](http://www.tactical-life.com/magazines/tactical-weapons/mcmillan-cs5-suitcase-sniper/)
-      - [16 Specialty Bug-Out Rifles Built For
-        Stow-and-Go](http://www.tactical-life.com/firearms/16-specialty-bug-out-rifles/#twfm16-bugout-mcmillan)
+      - [McMILLAN CS5 STUBBY 7.62mm](http://www.tactical-life.com/magazines/special-weapons/mcmillan-cs5-stubby-762mm/)
+      - [MCMILLAN CS5 SUITCASE SNIPER](http://www.tactical-life.com/magazines/tactical-weapons/mcmillan-cs5-suitcase-sniper/)
+      - [16 Specialty Bug-Out Rifles Built For Stow-and-Go](http://www.tactical-life.com/firearms/16-specialty-bug-out-rifles/#twfm16-bugout-mcmillan)
 
-  - —[Bearing Arms－McMillan CS5 .308 Suppressed Sniper
-    System](http://bearingarms.com/mcmillan-cs5-308-suppressed-sniper-system/)
+  - —[Bearing Arms－McMillan CS5 .308 Suppressed Sniper System](http://bearingarms.com/mcmillan-cs5-308-suppressed-sniper-system/)
 
-  - —[The New McMillan CS5 Concealable Sniper Rifle
-    System](http://www.guns.com/2012/07/03/mcmillan-cs5-concealable-subsonic-supersonic-suppressed-sniper-system/)
+  - —[The New McMillan CS5 Concealable Sniper Rifle System](http://www.guns.com/2012/07/03/mcmillan-cs5-concealable-subsonic-supersonic-suppressed-sniper-system/)
 
-[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink")
-[Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink")
-[Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink")
-[Category:美國狙擊步槍](https://zh.wikipedia.org/wiki/Category:美國狙擊步槍 "wikilink")
-[Category:需要圖片的槍械條目](https://zh.wikipedia.org/wiki/Category:需要圖片的槍械條目 "wikilink")
+[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:美國狙擊步槍](https://zh.wikipedia.org/wiki/Category:美國狙擊步槍 "wikilink") [Category:需要圖片的槍械條目](https://zh.wikipedia.org/wiki/Category:需要圖片的槍械條目 "wikilink")

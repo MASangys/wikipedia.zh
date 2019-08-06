@@ -71,15 +71,8 @@
 
   - [北京地铁车辆装备有限公司](https://web.archive.org/web/20130116163659/http://www.bsrse.com/)
 
-[Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink")
-[Category:北京地铁SFM系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁SFM系列电动车组 "wikilink")
-[Category:北京地铁1号线](https://zh.wikipedia.org/wiki/Category:北京地铁1号线 "wikilink")
-[Category:750伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:750伏直流電力動車組 "wikilink")
+[Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink") [Category:北京地铁SFM系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁SFM系列电动车组 "wikilink") [Category:北京地铁1号线](https://zh.wikipedia.org/wiki/Category:北京地铁1号线 "wikilink") [Category:750伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:750伏直流電力動車組 "wikilink")
 
 1.  [北京地铁1号线运能现状及提高措施](http://www.cqvip.com/qk/91024x/201202/41018647.html)
-2.  [中国建筑装饰网:北京地铁1号线G432空调列车
-    首用LED照明](http://news.ccd.com.cn/Htmls/2010/11/9/20101191405799615-1.html)
-    2010年11月9日查看
-3.  [北京地铁1号线十一前迎新车
-    闷罐车全部退役](http://finance.ifeng.com/roll/20110925/4674089.shtml)
-    凤凰网 2011年09月25日
+2.  [中国建筑装饰网:北京地铁1号线G432空调列车 首用LED照明](http://news.ccd.com.cn/Htmls/2010/11/9/20101191405799615-1.html) 2010年11月9日查看
+3.  [北京地铁1号线十一前迎新车 闷罐车全部退役](http://finance.ifeng.com/roll/20110925/4674089.shtml) 凤凰网 2011年09月25日

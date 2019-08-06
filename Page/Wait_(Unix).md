@@ -2,9 +2,7 @@
 
 ## 功能
 
-多进程系统内的[进程](https://zh.wikipedia.org/wiki/进程 "wikilink")（或[任务](../Page/作業_\(電腦\).md "wikilink")）有时需要等待其他进程以完成自己的执行过程，而在包含父-子进程机制的类UNIX系统中，[父进程](../Page/父进程.md "wikilink")能创建可独立运行的[子进程](../Page/子进程.md "wikilink")，并在需要时调用**`wait`**（函数声明为`pid_t
-wait(int
-*stat_loc)`）以使自己在子进程执行过程中保持休眠状态。当任一子进程结束后，该子进程会向操作系统返回一个[退出状态](https://zh.wikipedia.org/wiki/退出状态 "wikilink")，而后系统即向休眠中的父进程发送一个[SIGCHLD](https://zh.wikipedia.org/wiki/SIGCHLD "wikilink")[信号以提醒之](https://zh.wikipedia.org/wiki/信号_\(计算机科学\) "wikilink")，至此父进程“复苏”并从内核获取子进程的退出状态，而后内核释放原有子进程所占用的资源，父进程也继续执行。
+多进程系统内的[进程](https://zh.wikipedia.org/wiki/进程 "wikilink")（或[任务](../Page/作業_\(電腦\).md "wikilink")）有时需要等待其他进程以完成自己的执行过程，而在包含父-子进程机制的类UNIX系统中，[父进程](../Page/父进程.md "wikilink")能创建可独立运行的[子进程](../Page/子进程.md "wikilink")，并在需要时调用**`wait`**（函数声明为`pid_t wait(int *stat_loc)`）以使自己在子进程执行过程中保持休眠状态。当任一子进程结束后，该子进程会向操作系统返回一个[退出状态](https://zh.wikipedia.org/wiki/退出状态 "wikilink")，而后系统即向休眠中的父进程发送一个[SIGCHLD](https://zh.wikipedia.org/wiki/SIGCHLD "wikilink")[信号以提醒之](https://zh.wikipedia.org/wiki/信号_\(计算机科学\) "wikilink")，至此父进程“复苏”并从内核获取子进程的退出状态，而后内核释放原有子进程所占用的资源，父进程也继续执行。
 
 ## 衍生
 
@@ -19,13 +17,11 @@ wait(int
 ## 参见
 
   -
-  - [fork
-    (操作系统)](https://zh.wikipedia.org/wiki/fork_\(操作系统\) "wikilink")
+  - [fork (操作系统)](https://zh.wikipedia.org/wiki/fork_\(操作系统\) "wikilink")
 
   -
   -
-  - [wait
-    (Shell)](https://zh.wikipedia.org/wiki/wait_\(Shell\) "wikilink")
+  - [wait (Shell)](https://zh.wikipedia.org/wiki/wait_\(Shell\) "wikilink")
 
   -
 ## 参考来源
@@ -34,8 +30,7 @@ wait(int
   -
   -
   -
-[Category:进程](https://zh.wikipedia.org/wiki/Category:进程 "wikilink")
-[Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink")
+[Category:进程](https://zh.wikipedia.org/wiki/Category:进程 "wikilink") [Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink")
 
 1.
 2.

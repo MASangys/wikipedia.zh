@@ -1,5 +1,4 @@
-**尼康Df**（**Nikon
-Df**）是[日本](../Page/日本.md "wikilink")[相機製造廠](https://zh.wikipedia.org/wiki/相機 "wikilink")[尼康](../Page/尼康.md "wikilink")於2013年发布的[数码单反相机](https://zh.wikipedia.org/wiki/数码单反相机 "wikilink")。其外觀走傳統風，操作轉盤仿機械式相機，並附有古典風格機身皮套。「Df」的D代表Digital，f代表fusion，意思為數位與傳統的融合。此機為全片幅相機，但不支援錄影功能。
+**尼康Df**（**Nikon Df**）是[日本](../Page/日本.md "wikilink")[相機製造廠](https://zh.wikipedia.org/wiki/相機 "wikilink")[尼康](../Page/尼康.md "wikilink")於2013年发布的[数码单反相机](https://zh.wikipedia.org/wiki/数码单反相机 "wikilink")。其外觀走傳統風，操作轉盤仿機械式相機，並附有古典風格機身皮套。「Df」的D代表Digital，f代表fusion，意思為數位與傳統的融合。此機為全片幅相機，但不支援錄影功能。
 
 ## 概述
 
@@ -27,18 +26,10 @@ DF是一台尼康产品序列之外的机型，与传统的单位数字及三位
 
 ## 外部链接
 
-  - [Nikon Df Review](https://www.dpreview.com/reviews/nikon-df) - DP
-    Review ,by Richard Butler, Barney Britton
-  - [ニコンDf
-    関連記事リンク集](http://dc.watch.impress.co.jp/backno/dslr/3448.html)
-    - DC Watch Impress
+  - [Nikon Df Review](https://www.dpreview.com/reviews/nikon-df) - DP Review ,by Richard Butler, Barney Britton
+  - [ニコンDf 関連記事リンク集](http://dc.watch.impress.co.jp/backno/dslr/3448.html) - DC Watch Impress
 
-[Category:数码单反相机](https://zh.wikipedia.org/wiki/Category:数码单反相机 "wikilink")
-[Category:尼康相機](https://zh.wikipedia.org/wiki/Category:尼康相機 "wikilink")
-[Category:2013年面世的相機](https://zh.wikipedia.org/wiki/Category:2013年面世的相機 "wikilink")
+[Category:数码单反相机](https://zh.wikipedia.org/wiki/Category:数码单反相机 "wikilink") [Category:尼康相機](https://zh.wikipedia.org/wiki/Category:尼康相機 "wikilink") [Category:2013年面世的相機](https://zh.wikipedia.org/wiki/Category:2013年面世的相機 "wikilink")
 
-1.  [ニコンDfブラックGold
-    Edition](http://dc.watch.impress.co.jp/docs/review/pview/676652.html)
-    - DC Watch Impress
-2.  [Nikon Df Review](https://www.dpreview.com/reviews/nikon-df) - DP
-    Review ,by Richard Butler, Barney Britton
+1.  [ニコンDfブラックGold Edition](http://dc.watch.impress.co.jp/docs/review/pview/676652.html) - DC Watch Impress
+2.  [Nikon Df Review](https://www.dpreview.com/reviews/nikon-df) - DP Review ,by Richard Butler, Barney Britton

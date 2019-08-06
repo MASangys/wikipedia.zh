@@ -24,8 +24,7 @@
 
 </div>
 
-[Category:莫文蔚音樂專輯](https://zh.wikipedia.org/wiki/Category:莫文蔚音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:莫文蔚音樂專輯](https://zh.wikipedia.org/wiki/Category:莫文蔚音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 [Category:1993年音樂專輯](https://zh.wikipedia.org/wiki/Category:1993年音樂專輯 "wikilink")
 

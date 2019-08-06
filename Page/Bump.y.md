@@ -1,6 +1,4 @@
-**bump.y**是在2009年所組成的女子五人[團體](https://zh.wikipedia.org/wiki/女子偶像組合 "wikilink")。所屬事務所為[Sweet
-Power](../Page/Sweet_Power.md "wikilink")，唱片公司則是[PONY
-CANYON](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
+**bump.y**是在2009年所組成的女子五人[團體](https://zh.wikipedia.org/wiki/女子偶像組合 "wikilink")。所屬事務所為[Sweet Power](../Page/Sweet_Power.md "wikilink")，唱片公司則是[PONY CANYON](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
 
 ## 概要
 
@@ -119,51 +117,35 @@ CANYON](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
 
 ### 音樂節目
 
-  - [The Music
-    Hour](https://zh.wikipedia.org/wiki/The_Music_Hour "wikilink")（2010年8月24日、[TBS](../Page/TBS電視台.md "wikilink")）
-  - [Happy
-    Music](https://zh.wikipedia.org/wiki/Happy_Music "wikilink")（2010年8月27日、11月26日、2011年3月25日、8月5日、[日本電視台](../Page/日本電視台.md "wikilink")）
-  - [MUSIC
-    JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2010年8月29日、2011年3月27日、8月21日、2012年6月17日、[NHK](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")）
-  - [MUSIC
-    FAIR](https://zh.wikipedia.org/wiki/MUSIC_FAIR "wikilink")（2010年12月11日、18日、[富士電視台](../Page/富士電視台.md "wikilink")）
+  - [The Music Hour](https://zh.wikipedia.org/wiki/The_Music_Hour "wikilink")（2010年8月24日、[TBS](../Page/TBS電視台.md "wikilink")）
+  - [Happy Music](https://zh.wikipedia.org/wiki/Happy_Music "wikilink")（2010年8月27日、11月26日、2011年3月25日、8月5日、[日本電視台](../Page/日本電視台.md "wikilink")）
+  - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2010年8月29日、2011年3月27日、8月21日、2012年6月17日、[NHK](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")）
+  - [MUSIC FAIR](https://zh.wikipedia.org/wiki/MUSIC_FAIR "wikilink")（2010年12月11日、18日、[富士電視台](../Page/富士電視台.md "wikilink")）
   - [月刊MelodiX\!](https://zh.wikipedia.org/wiki/月刊MelodiX! "wikilink")（2010年12月25日、[東京電視台](../Page/東京電視台.md "wikilink")）
   - [開運音樂堂](https://zh.wikipedia.org/wiki/開運音樂堂 "wikilink")（2010年11月11日、2011年3月5日、TBS）
-  - [音龍門](https://zh.wikipedia.org/wiki/音龍門 "wikilink")（2010年11月30日、2011年8月16日
-    ※VTR介紹、日本電視台）
+  - [音龍門](https://zh.wikipedia.org/wiki/音龍門 "wikilink")（2010年11月30日、2011年8月16日 ※VTR介紹、日本電視台）
   - [魁！音樂排行榜](../Page/魁！音樂排行榜.md "wikilink")（2011年8月4日、富士電視台）
-  - [HEY\!HEY\!HEY\!MUSIC
-    CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")（2011年8月8日、9月26日、富士電視台）
+  - [HEY\!HEY\!HEY\!MUSIC CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")（2011年8月8日、9月26日、富士電視台）
   - [Musat](https://zh.wikipedia.org/wiki/Musat "wikilink")（2011年9月24日、富士電視台）
-  - [Music
-    Lovers](https://zh.wikipedia.org/wiki/Music_Lovers "wikilink")（2012年2月26日
-    ※VTR介紹、富士電視台）
+  - [Music Lovers](https://zh.wikipedia.org/wiki/Music_Lovers "wikilink")（2012年2月26日 ※VTR介紹、富士電視台）
 
 ### 電視劇
 
-  - [怪談新耳袋](https://zh.wikipedia.org/wiki/怪談新耳袋 "wikilink")
-    百物語（2010年5月2日、[BS-TBS](../Page/BS-TBS.md "wikilink")）
+  - [怪談新耳袋](https://zh.wikipedia.org/wiki/怪談新耳袋 "wikilink") 百物語（2010年5月2日、[BS-TBS](../Page/BS-TBS.md "wikilink")）
 
 ### 綜藝節目
 
-  - [bump.y
-    JUMP\!\!\!\!\!](https://zh.wikipedia.org/wiki/bump.y_JUMP!!!!! "wikilink")（2011年4月4日
-    - 12月8日、朝日電視台Channel）
+  - [bump.y JUMP\!\!\!\!\!](https://zh.wikipedia.org/wiki/bump.y_JUMP!!!!! "wikilink")（2011年4月4日 - 12月8日、朝日電視台Channel）
   - [閒聊007](../Page/閒聊007.md "wikilink")（2011年3月7日、日本電視台）
-  - [DOWN TOWN
-    DX](https://zh.wikipedia.org/wiki/DOWN_TOWN_DX "wikilink")（2011年4月28日、8月25日、日本電視台）
-  - [SHIBUYA DEEP
-    A](https://zh.wikipedia.org/wiki/SHIBUYA_DEEP_A "wikilink")（2011年6月11日、NHK）
+  - [DOWN TOWN DX](https://zh.wikipedia.org/wiki/DOWN_TOWN_DX "wikilink")（2011年4月28日、8月25日、日本電視台）
+  - [SHIBUYA DEEP A](https://zh.wikipedia.org/wiki/SHIBUYA_DEEP_A "wikilink")（2011年6月11日、NHK）
   - メレンゲの気持ち（2011年8月6日、日本電視台）
   - 世界一受けたい授業（2011年8月6日、日本電視台）
   - シルシルミシルさんデー（2011年8月7日、朝日電視台）
   - ヒルナンデス\!（2011年8月10日、2012年4月30日、日本電視台）
   - [全力坂](https://zh.wikipedia.org/wiki/全力坂 "wikilink")（2011年9月19日、20日、22日、朝日電視台）
-  - [見逃しチャンネル](https://zh.wikipedia.org/wiki/見逃しチャンネル "wikilink")（2011年12月10日
-    ※VTR介紹、朝日電視台）
-  - [HAPPY
-    bump.y\!\!\!\!\!](https://zh.wikipedia.org/wiki/HAPPY_bump.y!!!!! "wikilink")（2012年4月12日
-    - 9月13日 (第1季)、朝日電視台Channel）
+  - [見逃しチャンネル](https://zh.wikipedia.org/wiki/見逃しチャンネル "wikilink")（2011年12月10日 ※VTR介紹、朝日電視台）
+  - [HAPPY bump.y\!\!\!\!\!](https://zh.wikipedia.org/wiki/HAPPY_bump.y!!!!! "wikilink")（2012年4月12日 - 9月13日 (第1季)、朝日電視台Channel）
   - [矛盾大對決](../Page/矛盾大對決.md "wikilink")（2012年5月20日、富士電視台）
 
 ### 情報番組
@@ -182,13 +164,10 @@ CANYON](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
 
 ### 廣播
 
-  - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")（[TOKYO
-    FM](https://zh.wikipedia.org/wiki/TOKYO_FM "wikilink")）
-  - ANN R
-    アイドルユニットサマーフェスティバルSP（2010年9月3日、[日本放送](../Page/日本放送.md "wikilink")）
+  - [SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")（[TOKYO FM](https://zh.wikipedia.org/wiki/TOKYO_FM "wikilink")）
+  - ANN R アイドルユニットサマーフェスティバルSP（2010年9月3日、[日本放送](../Page/日本放送.md "wikilink")）
   - bump.yの教えて\!獣医さん（2010年10月11日、日本放送）
-  - ホップ\! ステップ\! bump.y（2010年10月4日 -
-    2011年10月2日　從開播到2011年3月播出時間為星期一至星期四20時50分-20時57分，從5月之後到結束播出時間為星期日25時30分-26時00分、日本放送）
+  - ホップ\! ステップ\! bump.y（2010年10月4日 - 2011年10月2日　從開播到2011年3月播出時間為星期一至星期四20時50分-20時57分，從5月之後到結束播出時間為星期日25時30分-26時00分、日本放送）
   - bump.y radio（2010年10月27日 - 2011年12月21日、WEB廣播）
   - [FUTURESCAPE](https://zh.wikipedia.org/wiki/FUTURESCAPE "wikilink")（2010年11月27日、FM橫濱）
   - 渋マガZ（2012年3月18日、25日、[NHK廣播第1頻率](../Page/NHK廣播第1頻率.md "wikilink")）
@@ -199,8 +178,7 @@ CANYON](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
   - ブレイクスルーJAPAN2010 「バンバンbump.y ゴーストフレンズ〜友霊」（2010年8月25日、SPACE107）
   - 「卒業までに・・・」発売プレミアムイベント（2011年3月2日、澀谷 duo music exchange）
       - bump.yだからこそできるパフォーマンス、生舞台＋生LIVE
-  - 「Kiss\!」発売プレミアムイベント（2011年8月14日、渋谷 Mt.RAINIER HALL SHIBUYA PLEASURE
-    PLEASURE）
+  - 「Kiss\!」発売プレミアムイベント（2011年8月14日、渋谷 Mt.RAINIER HALL SHIBUYA PLEASURE PLEASURE）
       - 舞台:「恋したい夏～Kiss\!まで全然届かないっ！！～」＋生LIVE
 
 ### CM
@@ -209,48 +187,35 @@ CANYON](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
 
 ### 演唱會
 
-  - 「bump.y jumpy Live 〜スーパーユニット関西初上陸\!〜
-    」（2010年8月1日、[關西電視台](../Page/關西電視台.md "wikilink")、なんでもArena）
-  - 「アイドルユニットサマーフェスティバル2010」（2010年8月30日 - 31日、[澀谷C.C.Lemon
-    Hall](../Page/澀谷公會堂.md "wikilink")）
+  - 「bump.y jumpy Live 〜スーパーユニット関西初上陸\!〜 」（2010年8月1日、[關西電視台](../Page/關西電視台.md "wikilink")、なんでもArena）
+  - 「アイドルユニットサマーフェスティバル2010」（2010年8月30日 - 31日、[澀谷C.C.Lemon Hall](../Page/澀谷公會堂.md "wikilink")）
   - 「ガールズフェスティバル2011」（2011年2月27日、澀谷C.C.Lemon Hall）
 
 ### 活動
 
   - Talk Live「Beautiful Lady Live」（2010年4月24日、下北Town Hall）
-  - SCHOOL OF LOCK\!の夏夜祭チャクラナイトVol1「bump.yのでこぼこ夏の補習授業」（2010年8月14日、KDDI
-    Designing Studio）
-  - 2010動物感謝デー in
-    JAPAN（2010年10月2日、[駒澤奧林匹克公園](../Page/駒澤奧林匹克公園.md "wikilink")）
-  - Tokyo Tower Birthday &
-    X'masLive（2010年12月23日、[東京鐵塔正面入口特設舞台](https://zh.wikipedia.org/wiki/東京鐵塔 "wikilink")）
+  - SCHOOL OF LOCK\!の夏夜祭チャクラナイトVol1「bump.yのでこぼこ夏の補習授業」（2010年8月14日、KDDI Designing Studio）
+  - 2010動物感謝デー in JAPAN（2010年10月2日、[駒澤奧林匹克公園](../Page/駒澤奧林匹克公園.md "wikilink")）
+  - Tokyo Tower Birthday & X'masLive（2010年12月23日、[東京鐵塔正面入口特設舞台](https://zh.wikipedia.org/wiki/東京鐵塔 "wikilink")）
   - 汐博2011 IN SHIODOME-AX bump.yデビュー1周年記念イベント - Kiss\!まであっ～という間ですっ\!\! -
-  - GirlsAward 2011
-    Autumn/Winter（2011年11月12日、[國立代代木競技場](../Page/國立代代木競技場.md "wikilink")第一體育館）
-  - [TOKYO IDOL
-    FESTIVAL](https://zh.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL "wikilink")
-    2012（2012年8月5日、お台場、青海特設會場）
+  - GirlsAward 2011 Autumn/Winter（2011年11月12日、[國立代代木競技場](../Page/國立代代木競技場.md "wikilink")第一體育館）
+  - [TOKYO IDOL FESTIVAL](https://zh.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL "wikilink") 2012（2012年8月5日、お台場、青海特設會場）
   - JAPAN FOOD FESTA 2012（2012年11月3日、有楽町イトシア前特設舞台）
 
 ### 書籍
 
   - [東京中日體育創刊](https://zh.wikipedia.org/wiki/東京中日體育 "wikilink")55周年紀念（2010年10月29日櫻庭、11月5日松山、12日祭、19日美櫻、26日高月、[中日新聞社東京本社](https://zh.wikipedia.org/wiki/中日新聞社 "wikilink")）
-  - [De☆View](https://zh.wikipedia.org/wiki/De☆View "wikilink")「bump.yのGIRLS
-    power.UP宣言“女子力磨いて理想の女性に\!”」（2010年11月1日 - 、[Oricon
-    Entertainment](https://zh.wikipedia.org/wiki/Oricon_Entertainment "wikilink")）
+  - [De☆View](https://zh.wikipedia.org/wiki/De☆View "wikilink")「bump.yのGIRLS power.UP宣言“女子力磨いて理想の女性に\!”」（2010年11月1日 - 、[Oricon Entertainment](https://zh.wikipedia.org/wiki/Oricon_Entertainment "wikilink")）
 
 ### 其他
 
-  - [24小時電視 「愛心救地球」](../Page/24小時電視_「愛心救地球」.md "wikilink")（2011年8月20日 -
-    21日、日本電視台）
+  - [24小時電視 「愛心救地球」](../Page/24小時電視_「愛心救地球」.md "wikilink")（2011年8月20日 - 21日、日本電視台）
 
 ## 作品
 
 ### 單曲
 
-<font size="5" color="#78D2FF">■</font> … 10位以内
-<font size="5" color="#FF94D2">■</font> … 20位以内
-<font size="5" color="#A4FF3C">■</font> … 30位以内
+<font size="5" color="#78D2FF">■</font> … 10位以内 <font size="5" color="#FF94D2">■</font> … 20位以内 <font size="5" color="#A4FF3C">■</font> … 30位以内
 
 <table>
 <tbody>
@@ -399,8 +364,7 @@ Vol.3與Vol.4以及第二張專輯Happy\! Lucky\! bump.y\!同時發售。
 
 ### 參加作品
 
-  - ZONEトリビュート〜君がくれたもの〜（2011年8月25日発売、SONY RECORDS）
-    ※歌唱[ZONE](../Page/ZONE.md "wikilink")的歌曲「卒業」。
+  - ZONEトリビュート〜君がくれたもの〜（2011年8月25日発売、SONY RECORDS） ※歌唱[ZONE](../Page/ZONE.md "wikilink")的歌曲「卒業」。
 
 ### 寫真集
 
@@ -410,9 +374,7 @@ Vol.3與Vol.4以及第二張專輯Happy\! Lucky\! bump.y\!同時發售。
 
   - bump.y 2011年 日曆（2010年10月20日、トライエックス）
   - bump.y 2012年 日曆（2011年10月19日、トライエックス）
-  - bump.y 學校行事曆
-    2012（2012年3月10日、[東京新聞通信社](../Page/東京新聞通信社.md "wikilink")）ISBN
-    978-4-8633-6219-2
+  - bump.y 學校行事曆 2012（2012年3月10日、[東京新聞通信社](../Page/東京新聞通信社.md "wikilink")）ISBN 978-4-8633-6219-2
 
 ### WEB
 
@@ -423,13 +385,9 @@ Vol.3與Vol.4以及第二張專輯Happy\! Lucky\! bump.y\!同時發售。
 
 ## 外部連結
 
-  - [bump.y
-    オフィシャルウェブサイト](https://web.archive.org/web/20121021024119/http://www.bump-y.com/)
+  - [bump.y オフィシャルウェブサイト](https://web.archive.org/web/20121021024119/http://www.bump-y.com/)
   - [bump.y - Sweet Power](http://sweetpower.jp/)
-  - [bump.y オフィシャルウェブサイト(Sony Music
-    Records時代)](https://web.archive.org/web/20100119065922/http://www.bump-y.jp/)
-  - [bump.y - Sony
-    Music](http://www.sonymusic.co.jp/Music/Arch/SR/bumpy/)
+  - [bump.y オフィシャルウェブサイト(Sony Music Records時代)](https://web.archive.org/web/20100119065922/http://www.bump-y.jp/)
+  - [bump.y - Sony Music](http://www.sonymusic.co.jp/Music/Arch/SR/bumpy/)
 
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
+[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")

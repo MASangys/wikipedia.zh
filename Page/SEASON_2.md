@@ -1,6 +1,4 @@
-《**SEASON
-2**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")第2枚正規韓語專輯，於2014年5月21日發行，主打歌曲為《Last
-Romeo》。並在同年7月22日推出重新包裝版專輯《BE BACK》\[1\]，主打歌則為《Back》。
+《**SEASON 2**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")第2枚正規韓語專輯，於2014年5月21日發行，主打歌曲為《Last Romeo》。並在同年7月22日推出重新包裝版專輯《BE BACK》\[1\]，主打歌則為《Back》。
 
 ## 曲目
 
@@ -230,10 +228,7 @@ Romeo》。並在同年7月22日推出重新包裝版專輯《BE BACK》\[1\]，
 
 ## 参考文献
 
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

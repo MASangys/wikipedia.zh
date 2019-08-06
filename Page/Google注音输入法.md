@@ -1,6 +1,4 @@
-**Google注音输入法**是由[Google](../Page/Google.md "wikilink")开发的[注音](https://zh.wikipedia.org/wiki/注音 "wikilink")[输入法](../Page/输入法.md "wikilink")。
-Google注音输入法可运行于[Android
-2.3.3及以上版本的Android系统中](https://zh.wikipedia.org/wiki/Android历史版本 "wikilink")。
+**Google注音输入法**是由[Google](../Page/Google.md "wikilink")开发的[注音](https://zh.wikipedia.org/wiki/注音 "wikilink")[输入法](../Page/输入法.md "wikilink")。 Google注音输入法可运行于[Android 2.3.3及以上版本的Android系统中](https://zh.wikipedia.org/wiki/Android历史版本 "wikilink")。
 
 ## 功能
 
@@ -17,6 +15,4 @@ Google注音输入法可运行于[Android
   - [谷歌粤语输入法](https://zh.wikipedia.org/wiki/谷歌粤语输入法 "wikilink")
   - [Gboard](../Page/Gboard.md "wikilink")
 
-[Category:输入法](https://zh.wikipedia.org/wiki/Category:输入法 "wikilink")
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
-[Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink")
+[Category:输入法](https://zh.wikipedia.org/wiki/Category:输入法 "wikilink") [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink")

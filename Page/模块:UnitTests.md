@@ -1,13 +1,6 @@
-\--
-[en:Module:UnitTests](https://zh.wikipedia.org/wiki/en:Module:UnitTests "wikilink")
--- UnitTester provides unit testing for other Lua scripts. For details
-see
-[:en:Wikipedia:Lua\#Unit_testing](https://zh.wikipedia.org/wiki/:en:Wikipedia:Lua#Unit_testing "wikilink").
--- For user documentation see talk page. local UnitTester = {}
+\-- [en:Module:UnitTests](https://zh.wikipedia.org/wiki/en:Module:UnitTests "wikilink") -- UnitTester provides unit testing for other Lua scripts. For details see [:en:Wikipedia:Lua\#Unit_testing](https://zh.wikipedia.org/wiki/:en:Wikipedia:Lua#Unit_testing "wikilink"). -- For user documentation see talk page. local UnitTester = {}
 
-local frame, tick, cross local result_table_header =
-"{|class=\\"wikitable\\"\\n\! \!\! Text \!\! Expected \!\! Actual" local
-result_table = '' local num_failures = 0
+local frame, tick, cross local result_table_header = "{|class=\\"wikitable\\"\\n\! \!\! Text \!\! Expected \!\! Actual" local result_table = '' local num_failures = 0
 
 function first_difference(s1, s2)
 
@@ -36,8 +29,7 @@ function UnitTester:preprocess_equals(text, expected, options)
 
 end
 
-function UnitTester:preprocess_equals_many(prefix, suffix, cases,
-options)
+function UnitTester:preprocess_equals_many(prefix, suffix, cases, options)
 
 `   for _, case in ipairs(cases) do`
 `       self:preprocess_equals(prefix .. case[1] .. suffix, case[2], options)`
@@ -45,8 +37,7 @@ options)
 
 end
 
-function UnitTester:preprocess_equals_preprocess(text1, text2,
-options)
+function UnitTester:preprocess_equals_preprocess(text1, text2, options)
 
 `   local actual = frame:preprocess(text1)`
 `   local expected = frame:preprocess(text2)`
@@ -63,8 +54,7 @@ options)
 
 end
 
-function UnitTester:preprocess_equals_preprocess_many(prefix1,
-suffix1, prefix2, suffix2, cases, options)
+function UnitTester:preprocess_equals_preprocess_many(prefix1, suffix1, prefix2, suffix2, cases, options)
 
 `   for _, case in ipairs(cases) do`
 `       self:preprocess_equals_preprocess(prefix1 .. case[1] .. suffix1, prefix2 .. (case[2] and case[2] or case[1]) .. suffix2, options)`
@@ -102,17 +92,13 @@ function UnitTester:run(frame_arg)
 
 `   for key,value in pairs(self) do`
 `       if key:find('^test') then`
-`           result_table = result_table .. "`**`"``   ``..``   ``key``
- ``..``   ``"`**`:\n" .. table_header .. "\n|-\n"`
+`           result_table = result_table .. "`**`"``   ``..``   ``key``   ``..``   ``"`**`:\n" .. table_header .. "\n|-\n"`
 `           value(self)`
 `           result_table = result_table .. "|}\n\n"`
 `       end`
 `   end`
 
-`   return (num_failures == 0 and "`<font color=\"#008000\">**`All``
- ``tests``   ``passed.`**</font>`" or "`<font color=\"#800000\">**`"``
- ``..``   ``num_failures``   ``..``   ``"``   ``tests``
- ``failed.`**</font>`") .. "\n\n" .. frame:preprocess(result_table)`
+`   return (num_failures == 0 and "`<font color=\"#008000\">**`All``   ``tests``   ``passed.`**</font>`" or "`<font color=\"#800000\">**`"``   ``..``   ``num_failures``   ``..``   ``"``   ``tests``   ``failed.`**</font>`") .. "\n\n" .. frame:preprocess(result_table)`
 
 end
 
@@ -125,5 +111,4 @@ function UnitTester:new()
 
 end
 
-local p = UnitTester:new() function p.run_tests(frame) return
-p:run(frame) end return p
+local p = UnitTester:new() function p.run_tests(frame) return p:run(frame) end return p

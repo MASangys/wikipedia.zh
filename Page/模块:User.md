@@ -1,13 +1,6 @@
-\--\[=\[ -- This module implements .  is a high-use template, sometimes
--- with thousands of transclusions on a page. This module optimises the
--- template's performance by reducing the number of parameters called
-from -- wikitext, while still allowing all the features provided by --
-[Module:UserLinks](https://zh.wikipedia.org/wiki/Module:UserLinks "wikilink").
-It is about twice as fast as the version of  -- that called the
-template from wikitext. --\]=\]
+\--\[=\[ -- This module implements .  is a high-use template, sometimes -- with thousands of transclusions on a page. This module optimises the -- template's performance by reducing the number of parameters called from -- wikitext, while still allowing all the features provided by -- [Module:UserLinks](https://zh.wikipedia.org/wiki/Module:UserLinks "wikilink"). It is about twice as fast as the version of  -- that called the  template from wikitext. --\]=\]
 
-local mUserLinks = require('Module:UserLinks') local mShared =
-require('Module:UserLinks/shared') local yesno = require('Module:Yesno')
+local mUserLinks = require('Module:UserLinks') local mShared = require('Module:UserLinks/shared') local yesno = require('Module:Yesno')
 
 local p = {}
 

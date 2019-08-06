@@ -8,10 +8,7 @@
 
   - [主页](http://jacm.acm.org/)
 
-[Category:計算機協會學術期刊](https://zh.wikipedia.org/wiki/Category:計算機協會學術期刊 "wikilink")
-[Category:计算机科学期刊](https://zh.wikipedia.org/wiki/Category:计算机科学期刊 "wikilink")
-[Category:1954年建立的出版物](https://zh.wikipedia.org/wiki/Category:1954年建立的出版物 "wikilink")
-[Category:雙月期刊](https://zh.wikipedia.org/wiki/Category:雙月期刊 "wikilink")
+[Category:計算機協會學術期刊](https://zh.wikipedia.org/wiki/Category:計算機協會學術期刊 "wikilink") [Category:计算机科学期刊](https://zh.wikipedia.org/wiki/Category:计算机科学期刊 "wikilink") [Category:1954年建立的出版物](https://zh.wikipedia.org/wiki/Category:1954年建立的出版物 "wikilink") [Category:雙月期刊](https://zh.wikipedia.org/wiki/Category:雙月期刊 "wikilink")
 
 1.
 2.

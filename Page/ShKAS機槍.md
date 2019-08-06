@@ -42,11 +42,4 @@
 
   - [7.62毫米施卡斯航空机关枪](http://www.afwing.com/intro/ShKAS/ShKAS-1.htm)
 
-[Category:中型機槍](https://zh.wikipedia.org/wiki/Category:中型機槍 "wikilink")
-[Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:7.62×54毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×54毫米槍械 "wikilink")
-[Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")
-[Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink")
-[Category:空用機槍及機炮](https://zh.wikipedia.org/wiki/Category:空用機槍及機炮 "wikilink")
-[Category:蘇聯空用機槍及機炮](https://zh.wikipedia.org/wiki/Category:蘇聯空用機槍及機炮 "wikilink")
+[Category:中型機槍](https://zh.wikipedia.org/wiki/Category:中型機槍 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:7.62×54毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×54毫米槍械 "wikilink") [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink") [Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink") [Category:空用機槍及機炮](https://zh.wikipedia.org/wiki/Category:空用機槍及機炮 "wikilink") [Category:蘇聯空用機槍及機炮](https://zh.wikipedia.org/wiki/Category:蘇聯空用機槍及機炮 "wikilink")

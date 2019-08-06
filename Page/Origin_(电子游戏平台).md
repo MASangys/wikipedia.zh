@@ -4,8 +4,7 @@
 
 ### Origin商店
 
-Origin允许用户在Origin商店购买Origin发行的游戏或扩展包。主要售卖PC游戏序列号，但也售卖PC，PS3和XBox的盒装游戏。\[1\]
-Origin保证用户购买后可以无限时间的玩此游戏，无限次数的下载此游戏。
+Origin允许用户在Origin商店购买Origin发行的游戏或扩展包。主要售卖PC游戏序列号，但也售卖PC，PS3和XBox的盒装游戏。\[1\] Origin保证用户购买后可以无限时间的玩此游戏，无限次数的下载此游戏。
 
 #### 改版
 
@@ -21,28 +20,19 @@ EA还准备推出搭载在移动设备上的Origin并可同步其它两个平台
 
 ### Origin Access
 
-EA于2016年发布了一项面向PC平台的订阅服务，用户可以选择每月或每年支付订阅费用以游玩大量的EA游戏（被称为“The
-Vault”）。与此同时，Origin
-Access的订阅用户在Origin商店中的所有购买均可享受10%的折扣\[2\]。从2018年三月开始，Origin
-Access开始提供[华纳兄弟互动娱乐提供的游戏](https://zh.wikipedia.org/wiki/华纳兄弟互动娱乐 "wikilink")，并将其他发行商的游戏加入到Origin
-Access中，目前也有许多独立或第三方游戏加入了Origin Access中。\[3\]
+EA于2016年发布了一项面向PC平台的订阅服务，用户可以选择每月或每年支付订阅费用以游玩大量的EA游戏（被称为“The Vault”）。与此同时，Origin Access的订阅用户在Origin商店中的所有购买均可享受10%的折扣\[2\]。从2018年三月开始，Origin Access开始提供[华纳兄弟互动娱乐提供的游戏](https://zh.wikipedia.org/wiki/华纳兄弟互动娱乐 "wikilink")，并将其他发行商的游戏加入到Origin Access中，目前也有许多独立或第三方游戏加入了Origin Access中。\[3\]
 
 ## 历史
 
-2005年下半年“EA Downloader”（类似于现在的Origin Store）开始投入使用。\[4\]在2006年11月又更名为“EA
-link”，当时《[战地2142](https://zh.wikipedia.org/wiki/战地2142 "wikilink")》在中国大陆发行却没有《极地风暴》资料片，EA
-Link给需要此资料片的人造了福。2007年9月，又一次分割并改名为“EA Store”和“EA Download
-Manager”\[5\]。经过一番变革，2011年7月3日Origin从这两个平台中诞生了。
+2005年下半年“EA Downloader”（类似于现在的Origin Store）开始投入使用。\[4\]在2006年11月又更名为“EA link”，当时《[战地2142](https://zh.wikipedia.org/wiki/战地2142 "wikilink")》在中国大陆发行却没有《极地风暴》资料片，EA Link给需要此资料片的人造了福。2007年9月，又一次分割并改名为“EA Store”和“EA Download Manager”\[5\]。经过一番变革，2011年7月3日Origin从这两个平台中诞生了。
 
 2016年，Origin取消简体中文支持，原因未知。
 
-2018年10月，Origin开始支持[支付宝](../Page/支付宝.md "wikilink")付款结算，不过只有在用中国大陆和香港的IP地址访问时才能使用支付宝进行付款,\[6\]并且只有在购买游戏时才能使用支付宝进行支付，订阅Origin
-Access与购买[Apex英雄](../Page/Apex英雄.md "wikilink")新手包和创始人包目前尚不可用。
+2018年10月，Origin开始支持[支付宝](../Page/支付宝.md "wikilink")付款结算，不过只有在用中国大陆和香港的IP地址访问时才能使用支付宝进行付款,\[6\]并且只有在购买游戏时才能使用支付宝进行支付，订阅Origin Access与购买[Apex英雄](../Page/Apex英雄.md "wikilink")新手包和创始人包目前尚不可用。
 
 2019年1月底，中国大陆IP地址登陆Origin由默认[欧元](../Page/欧元.md "wikilink")结算改为[港元](../Page/港元.md "wikilink")结算，\[7\]实际价格比之前欧元结算有所下降。
 
-2019年6月初，Origin增加了对[银联的支持](https://zh.wikipedia.org/wiki/银联 "wikilink")，目前只有在购买游戏时才能使用银联进行支付，订阅Origin
-Access目前仍不可用。
+2019年6月初，Origin增加了对[银联的支持](https://zh.wikipedia.org/wiki/银联 "wikilink")，目前只有在购买游戏时才能使用银联进行支付，订阅Origin Access目前仍不可用。
 
 ## 不足
 
@@ -52,8 +42,7 @@ Access目前仍不可用。
 
 ### 客户端无法记住用户名
 
-很多用户更新到较新版本后纷纷反应勾选记住我后账号和密码依然无法被记住，并纷纷调侃Origin“健忘”。
-**在一次Origin更新后，这个问题已被解决。**
+很多用户更新到较新版本后纷纷反应勾选记住我后账号和密码依然无法被记住，并纷纷调侃Origin“健忘”。 **在一次Origin更新后，这个问题已被解决。**
 
 ### 经常出Bug
 
@@ -74,14 +63,7 @@ EA在2018年7月27日的更新中移除了此功能，\[8\]并于次日确认了
 ## 外部链接
 
   -
-[Category:2011年软件](https://zh.wikipedia.org/wiki/Category:2011年软件 "wikilink")
-[Category:數位版權管理](https://zh.wikipedia.org/wiki/Category:數位版權管理 "wikilink")
-[Category:電子遊戲線上零售商](https://zh.wikipedia.org/wiki/Category:電子遊戲線上零售商 "wikilink")
-[Category:美商藝電](https://zh.wikipedia.org/wiki/Category:美商藝電 "wikilink")
-[Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink")
-[Category:使用Qt的软件](https://zh.wikipedia.org/wiki/Category:使用Qt的软件 "wikilink")
+[Category:2011年软件](https://zh.wikipedia.org/wiki/Category:2011年软件 "wikilink") [Category:數位版權管理](https://zh.wikipedia.org/wiki/Category:數位版權管理 "wikilink") [Category:電子遊戲線上零售商](https://zh.wikipedia.org/wiki/Category:電子遊戲線上零售商 "wikilink") [Category:美商藝電](https://zh.wikipedia.org/wiki/Category:美商藝電 "wikilink") [Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink") [Category:使用Qt的软件](https://zh.wikipedia.org/wiki/Category:使用Qt的软件 "wikilink")
 
 1.
 2.

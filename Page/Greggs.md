@@ -4,8 +4,6 @@
 
 [Category:英國食品公司](https://zh.wikipedia.org/wiki/Category:英國食品公司 "wikilink")
 
-[Category:1939年成立的公司](https://zh.wikipedia.org/wiki/Category:1939年成立的公司 "wikilink")
-[Category:英國零售商](https://zh.wikipedia.org/wiki/Category:英國零售商 "wikilink")
-[Category:總部位於泰恩河畔紐卡斯爾的公司](https://zh.wikipedia.org/wiki/Category:總部位於泰恩河畔紐卡斯爾的公司 "wikilink")
+[Category:1939年成立的公司](https://zh.wikipedia.org/wiki/Category:1939年成立的公司 "wikilink") [Category:英國零售商](https://zh.wikipedia.org/wiki/Category:英國零售商 "wikilink") [Category:總部位於泰恩河畔紐卡斯爾的公司](https://zh.wikipedia.org/wiki/Category:總部位於泰恩河畔紐卡斯爾的公司 "wikilink")
 
 1.

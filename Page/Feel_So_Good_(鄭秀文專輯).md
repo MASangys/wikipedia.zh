@@ -1,6 +1,4 @@
-《**Feel So
-Good**》（意思：感覺很好）是[鄭秀文](../Page/鄭秀文.md "wikilink")的第十五張個人專輯和第十三張粵語專輯\[1\]，於1998年7月同時在[香港](../Page/香港.md "wikilink")、[臺灣](../Page/臺灣.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")及[馬來西亞發行](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")\[2\]，其後於1998年8月1日推出韓國版。第一主打《理想對象》，第二主打《哭泣遊戲》，第三主打《祝大家好過》，另外收錄與當年美國頂級組合All-4One合唱英文歌曲《I
-Cross My Heart》。
+《**Feel So Good**》（意思：感覺很好）是[鄭秀文](../Page/鄭秀文.md "wikilink")的第十五張個人專輯和第十三張粵語專輯\[1\]，於1998年7月同時在[香港](../Page/香港.md "wikilink")、[臺灣](../Page/臺灣.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")及[馬來西亞發行](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")\[2\]，其後於1998年8月1日推出韓國版。第一主打《理想對象》，第二主打《哭泣遊戲》，第三主打《祝大家好過》，另外收錄與當年美國頂級組合All-4One合唱英文歌曲《I Cross My Heart》。
 
 ## 專輯介紹
 
@@ -41,10 +39,7 @@ Cross My Heart》。
 
 ## 參考資料
 
-[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink")
-[Category:香港華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:香港華納唱片音樂專輯 "wikilink")
+[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink") [Category:香港華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:香港華納唱片音樂專輯 "wikilink")
 
 1.
 2.

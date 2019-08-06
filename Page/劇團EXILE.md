@@ -40,10 +40,8 @@
   - 藤間翔
   - 藤間司
   - [JONTE](https://zh.wikipedia.org/wiki/JONTE "wikilink")
-  - [ELLY](https://zh.wikipedia.org/wiki/ELLY "wikilink")（[三代目J Soul
-    Brothers](../Page/J_Soul_Brothers.md "wikilink")）
-  - [山下健二郎](https://zh.wikipedia.org/wiki/山下健二郎 "wikilink")（三代目 Soul
-    Brothers）
+  - [ELLY](https://zh.wikipedia.org/wiki/ELLY "wikilink")（[三代目J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")）
+  - [山下健二郎](https://zh.wikipedia.org/wiki/山下健二郎 "wikilink")（三代目 Soul Brothers）
   - [白濱亞嵐](../Page/白濱亞嵐.md "wikilink")（[GENERATIONS](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")）
   - [磯村洋祐](https://zh.wikipedia.org/wiki/磯村洋祐 "wikilink")
   - [春川恭亮](../Page/春川恭亮.md "wikilink")
@@ -79,8 +77,7 @@
 
 ### 電視戲劇
 
-  - [鐵拳對鋼拳](../Page/鐵拳對鋼拳.md "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、2011年7月
-    - 9月）\[22\]
+  - [鐵拳對鋼拳](../Page/鐵拳對鋼拳.md "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、2011年7月 - 9月）\[22\]
 
 ### 電視節目
 
@@ -88,15 +85,11 @@
 
 ### 演唱會
 
-  - [EXILE LIVE TOUR 2010
-    FANTASY](https://zh.wikipedia.org/wiki/EXILE_LIVE_TOUR_2010_FANTASY "wikilink")（2010年7月
-    - 9月）
+  - [EXILE LIVE TOUR 2010 FANTASY](https://zh.wikipedia.org/wiki/EXILE_LIVE_TOUR_2010_FANTASY "wikilink")（2010年7月 - 9月）
 
 ### PV
 
-  - [第三代J Soul
-    Brothers](../Page/J_Soul_Brothers.md "wikilink")「[FIGHTERS -ROUND
-    1-](../Page/FIGHTERS.md "wikilink")」（2011年）
+  - [第三代J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")「[FIGHTERS -ROUND 1-](../Page/FIGHTERS.md "wikilink")」（2011年）
 
 ## 備註
 
@@ -105,9 +98,7 @@
   - [劇團EXILE](http://www.gekidan-exile.com)
   - [劇團EXILE所屬公司LDH中文官方網站](http://www.ldh.co.jp/chh/talent/gekidan/)
 
-[Category:日本戲劇](https://zh.wikipedia.org/wiki/Category:日本戲劇 "wikilink")
-[Category:劇團](https://zh.wikipedia.org/wiki/Category:劇團 "wikilink")
-[Category:EXILE_TRIBE](https://zh.wikipedia.org/wiki/Category:EXILE_TRIBE "wikilink")
+[Category:日本戲劇](https://zh.wikipedia.org/wiki/Category:日本戲劇 "wikilink") [Category:劇團](https://zh.wikipedia.org/wiki/Category:劇團 "wikilink") [Category:EXILE_TRIBE](https://zh.wikipedia.org/wiki/Category:EXILE_TRIBE "wikilink")
 
 1.
 2.

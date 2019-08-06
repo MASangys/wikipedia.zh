@@ -32,11 +32,9 @@ JAK-STAT途径是进化保守的，从黏菌和蠕虫到哺乳动物（但真菌
   -
 ## 外部链接
 
-  - [JAK-STAT, peer-reviewed journal published by Landes
-    Bioscience](http://www.landesbioscience.com/journals/jak-stat/)
+  - [JAK-STAT, peer-reviewed journal published by Landes Bioscience](http://www.landesbioscience.com/journals/jak-stat/)
 
-[Category:信号转导](https://zh.wikipedia.org/wiki/Category:信号转导 "wikilink")
-[Category:基因表現](https://zh.wikipedia.org/wiki/Category:基因表現 "wikilink")
+[Category:信号转导](https://zh.wikipedia.org/wiki/Category:信号转导 "wikilink") [Category:基因表現](https://zh.wikipedia.org/wiki/Category:基因表現 "wikilink")
 
 1.
 

@@ -2,8 +2,7 @@
 
 ## 設計特點
 
-[Aircraft_engine_Shvetsov_ASh-82T.JPG](https://zh.wikipedia.org/wiki/File:Aircraft_engine_Shvetsov_ASh-82T.JPG "fig:Aircraft_engine_Shvetsov_ASh-82T.JPG")
-Mi-4為尾螺旋槳式直昇機，由於推出年代尚早故仍使用二戰時期的ASh-82風冷式發動機，此種風冷发动機廣泛用於二戰時的蘇聯軍用機（例如[La-7戰鬥機](../Page/La-7戰鬥機.md "wikilink")），此發動機安裝在機頭，通過傳動軸帶動一個四桨葉的螺旋槳和一個三桨葉的尾螺旋槳，螺旋槳最初是木製，後來改為金屬製，駕駛艙在發動機上方，機舱能乘坐16名全副武裝的士兵或1,600公斤貨物。機尾門為蚌殼式設計，此設計後來也成為蘇聯運輸直昇機的特色。起落架為固定式前4點設計，軍用武裝型的Mi-4還在機頭加上一挺機槍，在機身兩側各有2個火箭彈發射器。
+[Aircraft_engine_Shvetsov_ASh-82T.JPG](https://zh.wikipedia.org/wiki/File:Aircraft_engine_Shvetsov_ASh-82T.JPG "fig:Aircraft_engine_Shvetsov_ASh-82T.JPG") Mi-4為尾螺旋槳式直昇機，由於推出年代尚早故仍使用二戰時期的ASh-82風冷式發動機，此種風冷发动機廣泛用於二戰時的蘇聯軍用機（例如[La-7戰鬥機](../Page/La-7戰鬥機.md "wikilink")），此發動機安裝在機頭，通過傳動軸帶動一個四桨葉的螺旋槳和一個三桨葉的尾螺旋槳，螺旋槳最初是木製，後來改為金屬製，駕駛艙在發動機上方，機舱能乘坐16名全副武裝的士兵或1,600公斤貨物。機尾門為蚌殼式設計，此設計後來也成為蘇聯運輸直昇機的特色。起落架為固定式前4點設計，軍用武裝型的Mi-4還在機頭加上一挺機槍，在機身兩側各有2個火箭彈發射器。
 
 Mi-4及其仿製型[直-5](../Page/直-5.md "wikilink")大量用於軍用及民用航空，當中直-5於1976年的[唐山大地震](../Page/唐山大地震.md "wikilink")當中曾参与運送救援物資到唐山災區。
 
@@ -24,9 +23,7 @@ Mi-4及其仿製型[直-5](../Page/直-5.md "wikilink")大量用於軍用及民�
 
 ## 使用國家
 
-[Mi-4-JH01.jpg](https://zh.wikipedia.org/wiki/File:Mi-4-JH01.jpg "fig:Mi-4-JH01.jpg")
-[Harbin_Z-5_at_the_China_Aviation_Museum,Xiaotangshanzen,Datang_Shan_(7529148358).jpg](https://zh.wikipedia.org/wiki/File:Harbin_Z-5_at_the_China_Aviation_Museum,Xiaotangshanzen,Datang_Shan_\(7529148358\).jpg "fig:Harbin_Z-5_at_the_China_Aviation_Museum,Xiaotangshanzen,Datang_Shan_(7529148358).jpg")為Mi-4的仿製型號\]\]
-[Mil_Mi-4_785.JPG](https://zh.wikipedia.org/wiki/File:Mil_Mi-4_785.JPG "fig:Mil_Mi-4_785.JPG")
+[Mi-4-JH01.jpg](https://zh.wikipedia.org/wiki/File:Mi-4-JH01.jpg "fig:Mi-4-JH01.jpg") [Harbin_Z-5_at_the_China_Aviation_Museum,Xiaotangshanzen,Datang_Shan_(7529148358).jpg](https://zh.wikipedia.org/wiki/File:Harbin_Z-5_at_the_China_Aviation_Museum,Xiaotangshanzen,Datang_Shan_\(7529148358\).jpg "fig:Harbin_Z-5_at_the_China_Aviation_Museum,Xiaotangshanzen,Datang_Shan_(7529148358).jpg")為Mi-4的仿製型號\]\] [Mil_Mi-4_785.JPG](https://zh.wikipedia.org/wiki/File:Mil_Mi-4_785.JPG "fig:Mil_Mi-4_785.JPG")
 
   -
   - \[1\]
@@ -74,12 +71,8 @@ Mi-4及其仿製型[直-5](../Page/直-5.md "wikilink")大量用於軍用及民�
 
 ## 外部連結
 
-  - [直-5
-    我国制造的第一种多用途直升机](http://www.airforceworld.com/pla/z5-helicopter-china.htm)
+  - [直-5 我国制造的第一种多用途直升机](http://www.airforceworld.com/pla/z5-helicopter-china.htm)
 
-[Category:軍用直升機](https://zh.wikipedia.org/wiki/Category:軍用直升機 "wikilink")
-[Category:蘇聯航空器](https://zh.wikipedia.org/wiki/Category:蘇聯航空器 "wikilink")
-[Category:米爾設計局](https://zh.wikipedia.org/wiki/Category:米爾設計局 "wikilink")
-[Category:中國解放軍直昇機](https://zh.wikipedia.org/wiki/Category:中國解放軍直昇機 "wikilink")
+[Category:軍用直升機](https://zh.wikipedia.org/wiki/Category:軍用直升機 "wikilink") [Category:蘇聯航空器](https://zh.wikipedia.org/wiki/Category:蘇聯航空器 "wikilink") [Category:米爾設計局](https://zh.wikipedia.org/wiki/Category:米爾設計局 "wikilink") [Category:中國解放軍直昇機](https://zh.wikipedia.org/wiki/Category:中國解放軍直昇機 "wikilink")
 
 1.  [图文：中国装备的苏制米-4直升机](http://mil.news.sina.com.cn/p/2006-03-06/0727355187.html)

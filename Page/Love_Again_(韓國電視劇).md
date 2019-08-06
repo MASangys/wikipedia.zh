@@ -1,6 +1,4 @@
-《**Love
-Again**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")自2012年4月25日起播出的[水木迷你連續劇](../Page/JTBC水木迷你連續劇.md "wikilink")，翻拍自2010年[日劇](https://zh.wikipedia.org/wiki/日劇 "wikilink")《[同窗會～Love
-Again症候群](../Page/同窗會～Love_Again症候群.md "wikilink")》，同樣以曾為同學的男女主角們於30年後的同學會再次相遇引發的戀愛故事，但劇情上稍有不同。
+《**Love Again**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC](../Page/JTBC.md "wikilink")自2012年4月25日起播出的[水木迷你連續劇](../Page/JTBC水木迷你連續劇.md "wikilink")，翻拍自2010年[日劇](https://zh.wikipedia.org/wiki/日劇 "wikilink")《[同窗會～Love Again症候群](../Page/同窗會～Love_Again症候群.md "wikilink")》，同樣以曾為同學的男女主角們於30年後的同學會再次相遇引發的戀愛故事，但劇情上稍有不同。
 
 ## 演員陣容
 
@@ -8,36 +6,23 @@ Again症候群](../Page/同窗會～Love_Again症候群.md "wikilink")》，同�
 
 ### 主要人物
 
-  - [金志秀](../Page/金志秀.md "wikilink") 飾演
-    林智賢（宮澤朋美；[黑木瞳](../Page/黑木瞳.md "wikilink")飾）
-  - [柳正韓](https://zh.wikipedia.org/wiki/柳正韓 "wikilink") 飾演
-    徐英旭（杉山浩介；[高橋克典飾](https://zh.wikipedia.org/wiki/高橋克典 "wikilink")）
-  - [崔哲浩](../Page/崔哲浩.md "wikilink") 飾演
-    李泰振（大久保真一；[三上博史](../Page/三上博史.md "wikilink")飾）
-  - [李雅賢](../Page/李雅賢.md "wikilink") 飾演
-    金美熙（西川陽子；[齊藤由貴](../Page/齊藤由貴.md "wikilink")飾）
+  - [金志秀](../Page/金志秀.md "wikilink") 飾演 林智賢（宮澤朋美；[黑木瞳](../Page/黑木瞳.md "wikilink")飾）
+  - [柳正韓](https://zh.wikipedia.org/wiki/柳正韓 "wikilink") 飾演 徐英旭（杉山浩介；[高橋克典飾](https://zh.wikipedia.org/wiki/高橋克典 "wikilink")）
+  - [崔哲浩](../Page/崔哲浩.md "wikilink") 飾演 李泰振（大久保真一；[三上博史](../Page/三上博史.md "wikilink")飾）
+  - [李雅賢](../Page/李雅賢.md "wikilink") 飾演 金美熙（西川陽子；[齊藤由貴](../Page/齊藤由貴.md "wikilink")飾）
 
 ### 其他人物
 
-  - [金鎭勤](https://zh.wikipedia.org/wiki/金鎭勤 "wikilink") 飾演
-    金宇哲（福島和彥；[尾美利徳飾](https://zh.wikipedia.org/wiki/尾美利徳 "wikilink")）
-  - [尹豫熙](https://zh.wikipedia.org/wiki/尹豫熙 "wikilink") 飾演
-    朴善珠（板倉真理子；[宮地雅子飾](https://zh.wikipedia.org/wiki/宮地雅子 "wikilink")）
-  - [吳宰益](https://zh.wikipedia.org/wiki/吳宰益 "wikilink") 飾演
-    楊鐘化（龜村太一；[六角精兒飾](https://zh.wikipedia.org/wiki/六角精兒 "wikilink")）
-  - [全盧民](../Page/全盧民.md "wikilink") 飾演
-    鄭善圭（宮澤誠一郎；[吹越滿](../Page/吹越滿.md "wikilink")飾）
+  - [金鎭勤](https://zh.wikipedia.org/wiki/金鎭勤 "wikilink") 飾演 金宇哲（福島和彥；[尾美利徳飾](https://zh.wikipedia.org/wiki/尾美利徳 "wikilink")）
+  - [尹豫熙](https://zh.wikipedia.org/wiki/尹豫熙 "wikilink") 飾演 朴善珠（板倉真理子；[宮地雅子飾](https://zh.wikipedia.org/wiki/宮地雅子 "wikilink")）
+  - [吳宰益](https://zh.wikipedia.org/wiki/吳宰益 "wikilink") 飾演 楊鐘化（龜村太一；[六角精兒飾](https://zh.wikipedia.org/wiki/六角精兒 "wikilink")）
+  - [全盧民](../Page/全盧民.md "wikilink") 飾演 鄭善圭（宮澤誠一郎；[吹越滿](../Page/吹越滿.md "wikilink")飾）
   - [俞泰雄](../Page/俞泰雄.md "wikilink") 飾演 鄭宰圭
-  - [金所泫](../Page/金所泫.md "wikilink") 飾演
-    鄭柳里（宮澤彩；[大平宇美飾](https://zh.wikipedia.org/wiki/大平宇美 "wikilink")）
-  - [姜利碩](https://zh.wikipedia.org/wiki/姜利碩 "wikilink") 飾演
-    鄭維俊（宮澤達也；[嘉數一星飾](https://zh.wikipedia.org/wiki/嘉數一星 "wikilink")）
-  - [全惠秀](https://zh.wikipedia.org/wiki/全惠秀 "wikilink") 飾演
-    吳洙珍（杉山佳奈子；[須藤理彩飾](https://zh.wikipedia.org/wiki/須藤理彩 "wikilink")）
-  - [李仁成](https://zh.wikipedia.org/wiki/李仁成 "wikilink") 飾演
-    徐民才（杉山大地；[竹內壽飾](https://zh.wikipedia.org/wiki/竹內壽 "wikilink")）
-  - [尹多京](https://zh.wikipedia.org/wiki/尹多京 "wikilink") 飾演
-    南時英（江川麻美；[芳本美代子飾](https://zh.wikipedia.org/wiki/芳本美代子 "wikilink")）
+  - [金所泫](../Page/金所泫.md "wikilink") 飾演 鄭柳里（宮澤彩；[大平宇美飾](https://zh.wikipedia.org/wiki/大平宇美 "wikilink")）
+  - [姜利碩](https://zh.wikipedia.org/wiki/姜利碩 "wikilink") 飾演 鄭維俊（宮澤達也；[嘉數一星飾](https://zh.wikipedia.org/wiki/嘉數一星 "wikilink")）
+  - [全惠秀](https://zh.wikipedia.org/wiki/全惠秀 "wikilink") 飾演 吳洙珍（杉山佳奈子；[須藤理彩飾](https://zh.wikipedia.org/wiki/須藤理彩 "wikilink")）
+  - [李仁成](https://zh.wikipedia.org/wiki/李仁成 "wikilink") 飾演 徐民才（杉山大地；[竹內壽飾](https://zh.wikipedia.org/wiki/竹內壽 "wikilink")）
+  - [尹多京](https://zh.wikipedia.org/wiki/尹多京 "wikilink") 飾演 南時英（江川麻美；[芳本美代子飾](https://zh.wikipedia.org/wiki/芳本美代子 "wikilink")）
   - ？飾演 宋仁洙（西川正隆；[神保悟志飾](https://zh.wikipedia.org/wiki/神保悟志 "wikilink")）
 
 ## 收視率
@@ -148,7 +133,4 @@ Again症候群](../Page/同窗會～Love_Again症候群.md "wikilink")》，同�
 
   - [韓國JTBC](http://drama.jtbc.co.kr/loveagain/)
 
-[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink")
-[Category:日本電視劇改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:日本電視劇改編韓國電視劇 "wikilink")
-[Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink")
-[Category:外遇題材電視劇](https://zh.wikipedia.org/wiki/Category:外遇題材電視劇 "wikilink")
+[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink") [Category:日本電視劇改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:日本電視劇改編韓國電視劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:外遇題材電視劇](https://zh.wikipedia.org/wiki/Category:外遇題材電視劇 "wikilink")

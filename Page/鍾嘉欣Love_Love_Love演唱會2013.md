@@ -1,15 +1,8 @@
-《**鍾嘉欣 Love Love Love 演唱會
-2013**》是香港女歌手[鍾嘉欣加入樂壇五年以來的第一個舉行的個人演唱會](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，於2013年8月22日至8月23日假九龍灣國際展貿中心舉行，名字全寫為「星煥國際呈獻﹕詩琳鍾嘉欣LOVELOVELOVE演唱會」。
+《**鍾嘉欣 Love Love Love 演唱會 2013**》是香港女歌手[鍾嘉欣加入樂壇五年以來的第一個舉行的個人演唱會](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")，於2013年8月22日至8月23日假九龍灣國際展貿中心舉行，名字全寫為「星煥國際呈獻﹕詩琳鍾嘉欣LOVELOVELOVE演唱會」。
 
 ## 簡介
 
-鍾嘉欣從[無綫電視當家花旦到加入樂壇五年](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")，曾推出四張專輯，包括《[一人晚餐，二人世界](../Page/一人晚餐，二人世界.md "wikilink")》、《[My
-Love Story](../Page/My_Love_Story.md "wikilink")》、《[My Private
-Selection](../Page/My_Private_Selection.md "wikilink")》及本演唱會同名專輯《[Love
-Love
-Love](https://zh.wikipedia.org/wiki/Love_Love_Love "wikilink")》，終有機會開首次個人迷你演唱會，她宣布將於8月22日及23日，假九展舉行兩場名為《鍾嘉欣Love
-Love
-Love演唱會》。這次除了以「愛」為主題外，貫徹從主唱的主題歌《護花危情|最幸福的事》及《幸福歌》，到主演的小品電視劇《[幸福摩天輪](../Page/幸福摩天輪.md "wikilink")》，到7月22日[香港書展](../Page/香港書展.md "wikilink")期間推出的慈善寫真集《幸．福》一樣，以「幸福」為演唱會主題，帶給觀眾正面和幸福的訊息。當日兩場演唱會均全場爆滿，反應理想。
+鍾嘉欣從[無綫電視當家花旦到加入樂壇五年](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")，曾推出四張專輯，包括《[一人晚餐，二人世界](../Page/一人晚餐，二人世界.md "wikilink")》、《[My Love Story](../Page/My_Love_Story.md "wikilink")》、《[My Private Selection](../Page/My_Private_Selection.md "wikilink")》及本演唱會同名專輯《[Love Love Love](https://zh.wikipedia.org/wiki/Love_Love_Love "wikilink")》，終有機會開首次個人迷你演唱會，她宣布將於8月22日及23日，假九展舉行兩場名為《鍾嘉欣Love Love Love演唱會》。這次除了以「愛」為主題外，貫徹從主唱的主題歌《護花危情|最幸福的事》及《幸福歌》，到主演的小品電視劇《[幸福摩天輪](../Page/幸福摩天輪.md "wikilink")》，到7月22日[香港書展](../Page/香港書展.md "wikilink")期間推出的慈善寫真集《幸．福》一樣，以「幸福」為演唱會主題，帶給觀眾正面和幸福的訊息。當日兩場演唱會均全場爆滿，反應理想。
 
 ## 演唱會曲目
 
@@ -116,13 +109,10 @@ Love演唱會》。這次除了以「愛」為主題外，貫徹從主唱的主�
   - [蘋果日報﹕鍾嘉欣憑歌表嫁意](http://hk.apple.nextmedia.com/entertainment/art/20130825/18393319)
   - [東方日報﹕鍾嘉欣明冧伍允龍高唱嫁給你](http://orientaldaily.on.cc/cnt/entertainment/20130825/00282_007.html)
   - [太陽報﹕伍允龍撐場送心畀嘉欣](http://the-sun.on.cc/cnt/entertainment/20130825/00470_027.html)
-  - [星島日報﹕見偶像Kelly
-    失控變喊包嘉欣隔空示愛「要嫁」伍允龍](https://web.archive.org/web/20160305072434/http://ent.sina.com.hk/news/-2-1014204/1.html)
+  - [星島日報﹕見偶像Kelly 失控變喊包嘉欣隔空示愛「要嫁」伍允龍](https://web.archive.org/web/20160305072434/http://ent.sina.com.hk/news/-2-1014204/1.html)
   - [明報﹕鍾嘉欣疑藉歌示愛](https://web.archive.org/web/20160305072347/http://ent.sina.com.hk/news/-2-1014198/1.html)
-  - [成報﹕男友伍允龍風騷撐場
-    鍾嘉欣獲陳慧琳擁抱呵護](http://www.singpao.com/yl/mx/201308/t20130825_455066.html)
-  - [蘋果日報即時新聞﹕伍允龍現身嘉欣BB個唱:you were
-    perfect\!﹕](http://hk.apple.nextmedia.com/enews/realtime/20130824/51669928)
+  - [成報﹕男友伍允龍風騷撐場 鍾嘉欣獲陳慧琳擁抱呵護](http://www.singpao.com/yl/mx/201308/t20130825_455066.html)
+  - [蘋果日報即時新聞﹕伍允龍現身嘉欣BB個唱:you were perfect\!﹕](http://hk.apple.nextmedia.com/enews/realtime/20130824/51669928)
 
 </div>
 
@@ -130,9 +120,7 @@ Love演唱會》。這次除了以「愛」為主題外，貫徹從主唱的主�
 
   - [星煥國際旗下歌手﹕鍾嘉欣](https://web.archive.org/web/20140113093029/http://www.starsshine.com.hk/hkmtype_idolstar/linda/)
   - [詩琳美容代言人﹕鍾嘉欣](https://web.archive.org/web/20131209060341/http://slimbeauty.hk/spokesperson/)
-  - [香港演藝門票指南﹕ 鍾嘉欣Love Love
-    Love演唱會](http://tixmart.org/searchshow_ch.php?eid=1345)
-  - [香港音樂網﹕演唱會資訊 - 鍾嘉欣Love Love
-    Love演唱會](http://lyric.musichk.org/concert/201345.htm)
+  - [香港演藝門票指南﹕ 鍾嘉欣Love Love Love演唱會](http://tixmart.org/searchshow_ch.php?eid=1345)
+  - [香港音樂網﹕演唱會資訊 - 鍾嘉欣Love Love Love演唱會](http://lyric.musichk.org/concert/201345.htm)
 
 [Category:香港演唱會](https://zh.wikipedia.org/wiki/Category:香港演唱會 "wikilink")

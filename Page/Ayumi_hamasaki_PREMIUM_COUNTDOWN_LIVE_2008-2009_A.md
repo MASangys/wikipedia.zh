@@ -1,5 +1,4 @@
-《**ayumi hamasaki PREMIUM COUNTDOWN LIVE 2008-2009 A**》（濱崎步 2008-2009
-特別跨年演唱會A）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2009年12月30日、31日在國立代代木競技場第一體育館舉行巡迴演唱會，2009年5月13日發行DVD。台湾地区于5月22日发行DVD和4VCD双版本
+《**ayumi hamasaki PREMIUM COUNTDOWN LIVE 2008-2009 A**》（濱崎步 2008-2009 特別跨年演唱會A）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2009年12月30日、31日在國立代代木競技場第一體育館舉行巡迴演唱會，2009年5月13日發行DVD。台湾地区于5月22日发行DVD和4VCD双版本
 
 ## 說明
 
@@ -43,8 +42,7 @@ DVD特典影像收錄幕後花絮。
 6.  [Who...](../Page/LOVEppears.md "wikilink")
 7.  [Trauma](../Page/A_\(濱崎步單曲\).md "wikilink")
 8.  [independent](../Page/H_\(濱崎步單曲\).md "wikilink")
-9.  [enerywhere
-    nowhere](https://zh.wikipedia.org/wiki/RAINBOW "wikilink")
+9.  [enerywhere nowhere](https://zh.wikipedia.org/wiki/RAINBOW "wikilink")
 10. [Mirrorcle World](../Page/Mirrorcle_World.md "wikilink")
 11. [Days](https://zh.wikipedia.org/wiki/Days/GREEN "wikilink")
 12. [For My Dear...](../Page/For_My_Dear....md "wikilink")
@@ -63,5 +61,4 @@ DVD特典影像收錄幕後花絮。
 
 </small>
 
-[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink")
-[Category:2009年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2009年音樂相關影像作品 "wikilink")
+[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink") [Category:2009年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2009年音樂相關影像作品 "wikilink")

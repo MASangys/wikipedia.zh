@@ -1,5 +1,4 @@
-《**Beat
-Beat**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭融](../Page/鄭融.md "wikilink")的第三張音樂專輯，於2005年10月18日推出。
+《**Beat Beat**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[鄭融](../Page/鄭融.md "wikilink")的第三張音樂專輯，於2005年10月18日推出。
 
 ## 曲目列表
 
@@ -7,7 +6,4 @@ Beat**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wi
 
 ## 獎項
 
-[Category:鄭融音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭融音樂專輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:鄭融音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭融音樂專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

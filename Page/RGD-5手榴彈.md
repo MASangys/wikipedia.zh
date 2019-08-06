@@ -1,9 +1,6 @@
-[Grenade_RGD-5_Navy.jpg](https://zh.wikipedia.org/wiki/File:Grenade_RGD-5_Navy.jpg "fig:Grenade_RGD-5_Navy.jpg")
-[RGD5_b.jpg](https://zh.wikipedia.org/wiki/File:RGD5_b.jpg "fig:RGD5_b.jpg")未引爆的RGD-5手榴彈\]\]
+[Grenade_RGD-5_Navy.jpg](https://zh.wikipedia.org/wiki/File:Grenade_RGD-5_Navy.jpg "fig:Grenade_RGD-5_Navy.jpg") [RGD5_b.jpg](https://zh.wikipedia.org/wiki/File:RGD5_b.jpg "fig:RGD5_b.jpg")未引爆的RGD-5手榴彈\]\]
 
-**RGD-5**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：Ручная
-Граната,
-Дистанционная，[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")：遠程手榴彈）是[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[二戰後研製的一種](https://zh.wikipedia.org/wiki/二戰 "wikilink")[手榴彈](https://zh.wikipedia.org/wiki/手榴彈 "wikilink")，並在1954年起列裝[蘇聯軍隊](https://zh.wikipedia.org/wiki/蘇聯軍事 "wikilink")。至今，RGD-5仍然在許多前蘇聯繼承國和[阿拉伯國家中服役](https://zh.wikipedia.org/wiki/阿拉伯 "wikilink")。
+**RGD-5**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：Ручная Граната, Дистанционная，[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")：遠程手榴彈）是[蘇聯在](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[二戰後研製的一種](https://zh.wikipedia.org/wiki/二戰 "wikilink")[手榴彈](https://zh.wikipedia.org/wiki/手榴彈 "wikilink")，並在1954年起列裝[蘇聯軍隊](https://zh.wikipedia.org/wiki/蘇聯軍事 "wikilink")。至今，RGD-5仍然在許多前蘇聯繼承國和[阿拉伯國家中服役](https://zh.wikipedia.org/wiki/阿拉伯 "wikilink")。
 
 ## 設計
 
@@ -57,21 +54,14 @@ RGD-5內裝110克[三硝基甲苯](../Page/三硝基甲苯.md "wikilink")（TNT�
 
 ### [電影](https://zh.wikipedia.org/wiki/電影 "wikilink")
 
-  - 2005年—《[軍火之王](../Page/軍火之王.md "wikilink")》（Lord of
-    War）：為尤里·奧洛夫所銷售的軍火之一，其中一枚被其弟弟維塔利·奧洛夫用以炸毁售予非洲軍閥的一半軍火。
-  - 2005年—《[第九突擊隊](https://zh.wikipedia.org/wiki/第九突擊隊 "wikilink")》（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：9
-    РОТА；[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：9th
-    Company）：被[蘇軍士兵所使用](https://zh.wikipedia.org/wiki/蘇軍 "wikilink")。
-  - 2016年—《[-{zh-hans:硬核大战; zh-hk:爆機特攻;
-    zh-tw:超狂亨利;}-](https://zh.wikipedia.org/wiki/硬核大戰 "wikilink")》（Hardcore
-    Henry）：至少一枚被亨利所使用（其餘為[F-1手榴彈](https://zh.wikipedia.org/wiki/蘇聯F-1手榴彈 "wikilink")）。
+  - 2005年—《[軍火之王](../Page/軍火之王.md "wikilink")》（Lord of War）：為尤里·奧洛夫所銷售的軍火之一，其中一枚被其弟弟維塔利·奧洛夫用以炸毁售予非洲軍閥的一半軍火。
+  - 2005年—《[第九突擊隊](https://zh.wikipedia.org/wiki/第九突擊隊 "wikilink")》（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：9 РОТА；[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：9th Company）：被[蘇軍士兵所使用](https://zh.wikipedia.org/wiki/蘇軍 "wikilink")。
+  - 2016年—《[-{zh-hans:硬核大战; zh-hk:爆機特攻; zh-tw:超狂亨利;}-](https://zh.wikipedia.org/wiki/硬核大戰 "wikilink")》（Hardcore Henry）：至少一枚被亨利所使用（其餘為[F-1手榴彈](https://zh.wikipedia.org/wiki/蘇聯F-1手榴彈 "wikilink")）。
 
 ### 電子遊戲
 
-  - 2004年—《[特種部隊Online](../Page/特種部隊Online.md "wikilink")》（Special Force
-    Online）：金幣手榴彈，又稱為"速爆"，奇怪的爆炸速度較快。
-  - 2007年—《[浩劫殺陣：車諾比之影](../Page/浩劫殺陣：車諾比之影.md "wikilink")》（S.T.A.L.K.E.R.
-    : Shadow of Chernobyl）
+  - 2004年—《[特種部隊Online](../Page/特種部隊Online.md "wikilink")》（Special Force Online）：金幣手榴彈，又稱為"速爆"，奇怪的爆炸速度較快。
+  - 2007年—《[浩劫殺陣：車諾比之影](../Page/浩劫殺陣：車諾比之影.md "wikilink")》（S.T.A.L.K.E.R. : Shadow of Chernobyl）
   - 2016年—《》（Escape From Tarkov）
 
 ## 參看
@@ -83,5 +73,4 @@ RGD-5內裝110克[三硝基甲苯](../Page/三硝基甲苯.md "wikilink")（TNT�
 ## 參考資料
 
   -
-[Category:手榴彈](https://zh.wikipedia.org/wiki/Category:手榴彈 "wikilink")
-[Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
+[Category:手榴彈](https://zh.wikipedia.org/wiki/Category:手榴彈 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")

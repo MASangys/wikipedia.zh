@@ -1,5 +1,4 @@
-《**BLOODY
-CROSS～血色十字架～**》（，血之十字架），是[米山シヲ的日本漫畫作品](https://zh.wikipedia.org/wiki/米山シヲ "wikilink")。於《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》2009年3月號開始連載。
+《**BLOODY CROSS～血色十字架～**》（，血之十字架），是[米山シヲ的日本漫畫作品](https://zh.wikipedia.org/wiki/米山シヲ "wikilink")。於《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》2009年3月號開始連載。
 
 ## 大綱
 
@@ -88,5 +87,4 @@ CROSS～血色十字架～**》（，血之十字架），是[米山シヲ的日
 
   - [ブラッディ・クロス（月刊少年GANGAN）](http://gangan.square-enix.co.jp/introduction/bloody-cross/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊少年GANGAN連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年GANGAN連載作品 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊少年GANGAN連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年GANGAN連載作品 "wikilink")

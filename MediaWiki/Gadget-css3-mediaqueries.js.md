@@ -2,9 +2,7 @@
 
 css3-mediaqueries.js - CSS Helper and CSS3 Media Queries Enabler
 
-author: Wouter van der Graaf <woutervandergraaf at gmail com> version:
-0.9 (20091001) license: MIT website:
-<http://woutervandergraaf.nl/css3-mediaqueries-js/>
+author: Wouter van der Graaf <woutervandergraaf at gmail com> version: 0.9 (20091001) license: MIT website: <http://woutervandergraaf.nl/css3-mediaqueries-js/>
 
 W3C spec: <http://www.w3.org/TR/css3-mediaqueries/>
 
@@ -12,8 +10,7 @@ Note: use of embedded
 
 <style>
 
-is not recommended when using media queries, because IE has no way of
-returning the raw literal css text from a
+is not recommended when using media queries, because IE has no way of returning the raw literal css text from a
 
 <style>
 
@@ -21,9 +18,7 @@ element.
 
   - /
 
-// true prototypal inheritance
-(http://javascript.crockford.com/prototypal.html) if (typeof
-Object.create \!== 'function') {
+// true prototypal inheritance (http://javascript.crockford.com/prototypal.html) if (typeof Object.create \!== 'function') {
 
 `   Object.create = function (o) {`
 `       function F() {}`
@@ -42,16 +37,7 @@ Object.create \!== 'function') {
 `       return this.toString().toLowerCase().indexOf(s.toLowerCase()) > -1;`
 `   }`
 
-}; ua.version =
-(ua.toString().toLowerCase().match(/\[\\s\\S\]+(?:rv|it|ra|ie)\[\\/:
-\](\[\\d.\]+)/) || \[\])\[1\]; ua.webkit = ua.test('webkit'); ua.gecko =
-ua.test('gecko') && \!ua.webkit; ua.opera = ua.test('opera'); ua.ie =
-ua.test('msie') && \!ua.opera; ua.ie6 = ua.ie && document.compatMode &&
-typeof document.documentElement.style.maxHeight === 'undefined'; ua.ie7
-= ua.ie && document.documentElement && typeof
-document.documentElement.style.maxHeight \!== 'undefined' && typeof
-XDomainRequest === 'undefined'; ua.ie8 = ua.ie && typeof XDomainRequest
-\!== 'undefined';
+}; ua.version = (ua.toString().toLowerCase().match(/\[\\s\\S\]+(?:rv|it|ra|ie)\[\\/: \](\[\\d.\]+)/) || \[\])\[1\]; ua.webkit = ua.test('webkit'); ua.gecko = ua.test('gecko') && \!ua.webkit; ua.opera = ua.test('opera'); ua.ie = ua.test('msie') && \!ua.opera; ua.ie6 = ua.ie && document.compatMode && typeof document.documentElement.style.maxHeight === 'undefined'; ua.ie7 = ua.ie && document.documentElement && typeof document.documentElement.style.maxHeight \!== 'undefined' && typeof XDomainRequest === 'undefined'; ua.ie8 = ua.ie && typeof XDomainRequest \!== 'undefined';
 
 // initialize when DOM content is loaded var domReady = function (fn) {
 
@@ -62,8 +48,7 @@ XDomainRequest === 'undefined'; ua.ie8 = ua.ie && typeof XDomainRequest
 
 };
 
-// helper library for parsing css to objects var cssHelper = function ()
-{
+// helper library for parsing css to objects var cssHelper = function () {
 
 `   var regExp = {`
 `       BLOCKS: /[^\s{][^{]*\{(?:[^{}]*\{[^{}]*\}[^{}]*|[^{}]*)*\}/g,`
@@ -609,8 +594,7 @@ XDomainRequest === 'undefined'; ua.ie8 = ua.ie && typeof XDomainRequest
 
 }();
 
-// function to test and apply parsed media queries against browser
-capabilities domReady(function enableCssMediaQueries() {
+// function to test and apply parsed media queries against browser capabilities domReady(function enableCssMediaQueries() {
 
 `   var meter;`
 `   `

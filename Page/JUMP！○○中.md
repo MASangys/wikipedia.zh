@@ -5,9 +5,7 @@
 
 遊戲、講座等、標題都以「○○中」（什麼什麼中）來展開各種節目企劃。
 
-放送回によって主軸となる制作スタッフも変えており、前番組『**[水10\!](https://zh.wikipedia.org/wiki/水10! "wikilink")**』から引き続き担当する班（以降、旧『水10\!』班と記述）と、2004年6月から放送されている『**[run
-for money
-逃走中](https://zh.wikipedia.org/wiki/run_for_money_逃走中 "wikilink")**』をはじめとする『**[クロノス](https://zh.wikipedia.org/wiki/クロノス_\(テレビ番組\) "wikilink")**』のゲーム企画を制作する班（以降、『クロノス』班と記述）が、ほぼ隔週ペースで担当していた。特番の場合は基本的に、前半が「逃走中」（『クロノス』班担当）、後半が旧『水10\!』班担当の企画と分かれていた（例外あり）。共通のオープニング映像や番組フォーマットは、旧『水10\!』班が制作。2つの班での共同企画などは一度もなかった。
+放送回によって主軸となる制作スタッフも変えており、前番組『**[水10\!](https://zh.wikipedia.org/wiki/水10! "wikilink")**』から引き続き担当する班（以降、旧『水10\!』班と記述）と、2004年6月から放送されている『**[run for money 逃走中](https://zh.wikipedia.org/wiki/run_for_money_逃走中 "wikilink")**』をはじめとする『**[クロノス](https://zh.wikipedia.org/wiki/クロノス_\(テレビ番組\) "wikilink")**』のゲーム企画を制作する班（以降、『クロノス』班と記述）が、ほぼ隔週ペースで担当していた。特番の場合は基本的に、前半が「逃走中」（『クロノス』班担当）、後半が旧『水10\!』班担当の企画と分かれていた（例外あり）。共通のオープニング映像や番組フォーマットは、旧『水10\!』班が制作。2つの班での共同企画などは一度もなかった。
 
 同年4月より『[爆笑レッドカーペット](https://zh.wikipedia.org/wiki/爆笑レッドカーペット "wikilink")』のレギュラー化が決定し、終了となった。最終回は放送時間が15分拡大とともに『生態調査中』の企画が行われ、レギュラーメンバー5人を対象に生態調査を行った。
 
@@ -49,10 +47,8 @@ for money
 オープニング映像など、番組内での衣装は基本的に全員がスーツ。『クロノス』班の企画ではゲームの性質上、別衣装となる。
 
   - [Tutorial](../Page/Tutorial.md "wikilink")（[徳井義実](../Page/德井義實.md "wikilink")、[福田充徳](../Page/福田充德.md "wikilink")）
-  - [東方收音機](../Page/東方收音機.md "wikilink")（[中田敦彦](https://zh.wikipedia.org/wiki/中田敦彦 "wikilink")、[藤森慎吾](../Page/藤森慎吾.md "wikilink")）
-    - 『水10\!』の「オリキュン」から引き続き、同時間枠の番組を担当。
-  - [山本裕典](../Page/山本裕典.md "wikilink") -
-    「挑戦中」のみ、レギュラーメンバーではなく1回目はプレイヤー、2回目は不参加。
+  - [東方收音機](../Page/東方收音機.md "wikilink")（[中田敦彦](https://zh.wikipedia.org/wiki/中田敦彦 "wikilink")、[藤森慎吾](../Page/藤森慎吾.md "wikilink")） - 『水10\!』の「オリキュン」から引き続き、同時間枠の番組を担当。
+  - [山本裕典](../Page/山本裕典.md "wikilink") - 「挑戦中」のみ、レギュラーメンバーではなく1回目はプレイヤー、2回目は不参加。
 
 ### 旁白
 
@@ -62,8 +58,7 @@ for money
 
 ### 解說員
 
-  - [渡辺和洋](https://zh.wikipedia.org/wiki/渡辺和洋 "wikilink") -
-    「生態調査中」と「執筆中」を主に仕切る。
+  - [渡辺和洋](https://zh.wikipedia.org/wiki/渡辺和洋 "wikilink") - 「生態調査中」と「執筆中」を主に仕切る。
 
 ## 企劃一覧
 
@@ -87,16 +82,11 @@ for money
 
 回数は企画内容ごとのカウントとする。
 
-  - 第1回 2007年10月17日
-    東京・[お台場](https://zh.wikipedia.org/wiki/お台場 "wikilink")
-  - 第2回 2007年10月31日
-    大阪・[ユニバーサルスタジオジャパン](https://zh.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")
-  - 第3回 2007年12月19日
-    山梨・[富士急ハイランド](https://zh.wikipedia.org/wiki/富士急ハイランド "wikilink")
-  - 第4回 2008年2月13日
-    長崎・[ハウステンボス](https://zh.wikipedia.org/wiki/ハウステンボス "wikilink")
-  - 第5回 2008年3月5日
-    東京・[府中の森公園](https://zh.wikipedia.org/wiki/府中の森公園 "wikilink")
+  - 第1回 2007年10月17日 東京・[お台場](https://zh.wikipedia.org/wiki/お台場 "wikilink")
+  - 第2回 2007年10月31日 大阪・[ユニバーサルスタジオジャパン](https://zh.wikipedia.org/wiki/ユニバーサル・スタジオ・ジャパン "wikilink")
+  - 第3回 2007年12月19日 山梨・[富士急ハイランド](https://zh.wikipedia.org/wiki/富士急ハイランド "wikilink")
+  - 第4回 2008年2月13日 長崎・[ハウステンボス](https://zh.wikipedia.org/wiki/ハウステンボス "wikilink")
+  - 第5回 2008年3月5日 東京・[府中の森公園](https://zh.wikipedia.org/wiki/府中の森公園 "wikilink")
 
 #### 告密中
 
@@ -121,10 +111,8 @@ for money
 
 回数は企画内容ごとのカウントとする。
 
-  - 第1回 2007年11月21日
-    群馬・[大理石村ロックハート城](https://zh.wikipedia.org/wiki/大理石村ロックハート城 "wikilink")
-  - 第2回 2008年1月16日
-    東京・[東京ドームシティ](https://zh.wikipedia.org/wiki/東京ドームシティ "wikilink")
+  - 第1回 2007年11月21日 群馬・[大理石村ロックハート城](https://zh.wikipedia.org/wiki/大理石村ロックハート城 "wikilink")
+  - 第2回 2008年1月16日 東京・[東京ドームシティ](https://zh.wikipedia.org/wiki/東京ドームシティ "wikilink")
 
 #### 護衛中
 
@@ -140,8 +128,7 @@ for money
 
 回数は企画内容ごとのカウントとする。
 
-  - 第1回 2008年1月30日
-    茨城・[ワープステーション江戸](https://zh.wikipedia.org/wiki/ワープステーション江戸 "wikilink")
+  - 第1回 2008年1月30日 茨城・[ワープステーション江戸](https://zh.wikipedia.org/wiki/ワープステーション江戸 "wikilink")
 
 公式サイトではこのコーナーのみ紹介がなかった。
 
@@ -151,8 +138,7 @@ for money
 
 毎回1つのテーマに沿った50人（女芸人・ニューハーフなど）をスタジオに集めて、視聴者の疑問からトークを広げていく。スタジオの上では渡辺アナ以外に来賓として3組のゲストが座り、トークを見守ったり茶々を入れたりする。
 
-50人の席にはそれぞれ、クイズ番組で使われるようなライトペンでパネルに書く形式の装置が設置されており、質問にはそのパネルに筆答形式で回答をしてもらう（YES/NOで答える問題ではスタッフが専用の表示に変換しており「ジャンプ\!
-システム」と称している）。また、50人の回答形式をランキング形式で並べる質問の場合、塔の形をした縦にモニター5個が積み上げられたセットで、ベスト5が表示されていく。
+50人の席にはそれぞれ、クイズ番組で使われるようなライトペンでパネルに書く形式の装置が設置されており、質問にはそのパネルに筆答形式で回答をしてもらう（YES/NOで答える問題ではスタッフが専用の表示に変換しており「ジャンプ\! システム」と称している）。また、50人の回答形式をランキング形式で並べる質問の場合、塔の形をした縦にモニター5個が積み上げられたセットで、ベスト5が表示されていく。
 
 一通りまとまったら、結果（その人の発言内容や円グラフなど）が掲示される。
 
@@ -176,8 +162,7 @@ for money
 
 挑むのは2人。各挑戦者には、スーツ姿のレポーター（白いスーツのチュートリアルと、黒いスーツのオリエンタルラジオ）が帯同する。レポーターは挑戦者を見守りながら、茶々を入れたりして現場を盛り上げる。
 
-テレビドラマ「[24 -TWENTY
-FOUR-](https://zh.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")」を意識した演出が多く、この企画のナレーターも、同ドラマで[ジャック・バウアーの吹き替えの小山力也である](https://zh.wikipedia.org/wiki/ジャック・バウアー "wikilink")。
+テレビドラマ「[24 -TWENTY FOUR-](https://zh.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")」を意識した演出が多く、この企画のナレーターも、同ドラマで[ジャック・バウアーの吹き替えの小山力也である](https://zh.wikipedia.org/wiki/ジャック・バウアー "wikilink")。
 
 当初は様々な課題が予定されていて、たとえば『24分間でどれだけ現金を用意できるか\!?』などがあったが、放送されたのは『24分間で2kg太れるか\!?』のみ。そのゲームのルールは以下の通り。
 
@@ -193,10 +178,8 @@ FOUR-](https://zh.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")」を意識し
 
 回数は企画内容ごとのカウントとする。
 
-  - 第1回 放送日2007年11月7日
-    東京・[下北沢](https://zh.wikipedia.org/wiki/下北沢 "wikilink")
-  - 第2回 放送日2008年2月6日
-    東京・[吉祥寺](https://zh.wikipedia.org/wiki/吉祥寺 "wikilink")
+  - 第1回 放送日2007年11月7日 東京・[下北沢](https://zh.wikipedia.org/wiki/下北沢 "wikilink")
+  - 第2回 放送日2008年2月6日 東京・[吉祥寺](https://zh.wikipedia.org/wiki/吉祥寺 "wikilink")
 
 #### 執筆中
 
@@ -212,12 +195,9 @@ FOUR-](https://zh.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")」を意識し
 
 回数は企画内容ごとのカウントとする。
 
-  - 第1回 2007年12月19日
-    [辺見えみり](https://zh.wikipedia.org/wiki/辺見えみり "wikilink")、[矢沢心](https://zh.wikipedia.org/wiki/矢沢心 "wikilink")、[眞鍋かをり](https://zh.wikipedia.org/wiki/眞鍋かをり "wikilink")、[若槻千夏](../Page/若槻千夏.md "wikilink")の女性芸能人ブロガー4人。ドラマゲストは[京野ことみ](https://zh.wikipedia.org/wiki/京野ことみ "wikilink")。
-  - 第2回 2008年1月9日
-    [田村裕](https://zh.wikipedia.org/wiki/田村裕 "wikilink")（[麒麟](https://zh.wikipedia.org/wiki/麒麟_\(お笑いコンビ\) "wikilink")）、[関暁夫](https://zh.wikipedia.org/wiki/関暁夫 "wikilink")（[ハローバイバイ](https://zh.wikipedia.org/wiki/ハローバイバイ "wikilink")）、[カンニング竹山](../Page/竹山隆範.md "wikilink")、[品川祐](https://zh.wikipedia.org/wiki/品川祐 "wikilink")（[品川庄司](https://zh.wikipedia.org/wiki/品川庄司 "wikilink")）のベストセラー芸人4人。ドラマゲストは[藤井美菜](../Page/藤井美菜.md "wikilink")。
-  - 第3回 2008年2月20日
-    [千原ジュニア](https://zh.wikipedia.org/wiki/千原ジュニア "wikilink")、[河本準一](https://zh.wikipedia.org/wiki/河本準一 "wikilink")（[次長課長](https://zh.wikipedia.org/wiki/次長課長 "wikilink")）、[ほっしゃん。](https://zh.wikipedia.org/wiki/ほっしゃん。 "wikilink")、田村裕（麒麟）のベストセラー芸人4人。ドラマゲストは[さくら](https://zh.wikipedia.org/wiki/さくら_\(タレント\) "wikilink")、[溝端淳平](../Page/溝端淳平.md "wikilink")、[夏川純](../Page/夏川純.md "wikilink")、[山本梓](../Page/山本梓.md "wikilink")、[奈美悦子](https://zh.wikipedia.org/wiki/奈美悦子 "wikilink")、[小倉一郎](https://zh.wikipedia.org/wiki/小倉一郎 "wikilink")、[中野英雄](https://zh.wikipedia.org/wiki/中野英雄 "wikilink")。
+  - 第1回 2007年12月19日 [辺見えみり](https://zh.wikipedia.org/wiki/辺見えみり "wikilink")、[矢沢心](https://zh.wikipedia.org/wiki/矢沢心 "wikilink")、[眞鍋かをり](https://zh.wikipedia.org/wiki/眞鍋かをり "wikilink")、[若槻千夏](../Page/若槻千夏.md "wikilink")の女性芸能人ブロガー4人。ドラマゲストは[京野ことみ](https://zh.wikipedia.org/wiki/京野ことみ "wikilink")。
+  - 第2回 2008年1月9日 [田村裕](https://zh.wikipedia.org/wiki/田村裕 "wikilink")（[麒麟](https://zh.wikipedia.org/wiki/麒麟_\(お笑いコンビ\) "wikilink")）、[関暁夫](https://zh.wikipedia.org/wiki/関暁夫 "wikilink")（[ハローバイバイ](https://zh.wikipedia.org/wiki/ハローバイバイ "wikilink")）、[カンニング竹山](../Page/竹山隆範.md "wikilink")、[品川祐](https://zh.wikipedia.org/wiki/品川祐 "wikilink")（[品川庄司](https://zh.wikipedia.org/wiki/品川庄司 "wikilink")）のベストセラー芸人4人。ドラマゲストは[藤井美菜](../Page/藤井美菜.md "wikilink")。
+  - 第3回 2008年2月20日 [千原ジュニア](https://zh.wikipedia.org/wiki/千原ジュニア "wikilink")、[河本準一](https://zh.wikipedia.org/wiki/河本準一 "wikilink")（[次長課長](https://zh.wikipedia.org/wiki/次長課長 "wikilink")）、[ほっしゃん。](https://zh.wikipedia.org/wiki/ほっしゃん。 "wikilink")、田村裕（麒麟）のベストセラー芸人4人。ドラマゲストは[さくら](https://zh.wikipedia.org/wiki/さくら_\(タレント\) "wikilink")、[溝端淳平](../Page/溝端淳平.md "wikilink")、[夏川純](../Page/夏川純.md "wikilink")、[山本梓](../Page/山本梓.md "wikilink")、[奈美悦子](https://zh.wikipedia.org/wiki/奈美悦子 "wikilink")、[小倉一郎](https://zh.wikipedia.org/wiki/小倉一郎 "wikilink")、[中野英雄](https://zh.wikipedia.org/wiki/中野英雄 "wikilink")。
 
 ### 其他
 
@@ -240,8 +220,7 @@ FOUR-](https://zh.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")」を意識し
 
       -
 
-        （[森三中](https://zh.wikipedia.org/wiki/森三中 "wikilink")）、東方電台
-        オリエンタルラジオ（[中田敦彦](https://zh.wikipedia.org/wiki/中田敦彦 "wikilink")/[藤森慎吾](../Page/藤森慎吾.md "wikilink")）、、、（）、チュートリアル（徳井義実/福田充徳）、[真鍋香織](https://zh.wikipedia.org/wiki/真鍋香織 "wikilink")、[山本裕典](../Page/山本裕典.md "wikilink")、[山崎邦正](../Page/月亭方正.md "wikilink")、[若槻千夏](../Page/若槻千夏.md "wikilink")
+        （[森三中](https://zh.wikipedia.org/wiki/森三中 "wikilink")）、東方電台 オリエンタルラジオ（[中田敦彦](https://zh.wikipedia.org/wiki/中田敦彦 "wikilink")/[藤森慎吾](../Page/藤森慎吾.md "wikilink")）、、、（）、チュートリアル（徳井義実/福田充徳）、[真鍋香織](https://zh.wikipedia.org/wiki/真鍋香織 "wikilink")、[山本裕典](../Page/山本裕典.md "wikilink")、[山崎邦正](../Page/月亭方正.md "wikilink")、[若槻千夏](../Page/若槻千夏.md "wikilink")
 
     獵人:4具
 
@@ -253,8 +232,7 @@ FOUR-](https://zh.wikipedia.org/wiki/24_-TWENTY_FOUR- "wikilink")」を意識し
 
   - 現場規則
 
-區域有、北邊的[御台場海濱公園](../Page/御台場海濱公園.md "wikilink")・東邊的・西邊的和・南邊的富士電視台環繞下，富士電視台外部分和[AQUA
-CiTY御台場的店舗以外全區域](../Page/AQUA_CiTY台場.md "wikilink")。電梯和停止中的手扶梯都可以使用。牢籠是設置在[行人平台上](https://zh.wikipedia.org/wiki/行人平台 "wikilink")。
+區域有、北邊的[御台場海濱公園](../Page/御台場海濱公園.md "wikilink")・東邊的・西邊的和・南邊的富士電視台環繞下，富士電視台外部分和[AQUA CiTY御台場的店舗以外全區域](../Page/AQUA_CiTY台場.md "wikilink")。電梯和停止中的手扶梯都可以使用。牢籠是設置在[行人平台上](https://zh.wikipedia.org/wiki/行人平台 "wikilink")。
 
   - **指令1**…解除限時裝置
 
@@ -263,10 +241,7 @@ CiTY御台場的店舗以外全區域](../Page/AQUA_CiTY台場.md "wikilink")。
   -
     剩餘**48分15秒**時發出指令→剩餘**35分**時裝置啟動
       -
-        繫在手腕上的限時裝置啟動時未解除的話強制喪失資格。解除方法是使用位於AQUA
-        CiTY內的寶箱所放置的5枚卡片鑰匙。卡片鑰匙位置放於5樓-7樓之間的5個寶箱內（一箱一枚、一枚只能使用一回）。在AQUA
-        CiTY內的[Mediage](https://zh.wikipedia.org/wiki/Mediage "wikilink")
-        1樓電影館的13廳中的其中7廳會上映寶箱的位置情報。
+        繫在手腕上的限時裝置啟動時未解除的話強制喪失資格。解除方法是使用位於AQUA CiTY內的寶箱所放置的5枚卡片鑰匙。卡片鑰匙位置放於5樓-7樓之間的5個寶箱內（一箱一枚、一枚只能使用一回）。在AQUA CiTY內的[Mediage](https://zh.wikipedia.org/wiki/Mediage "wikilink") 1樓電影館的13廳中的其中7廳會上映寶箱的位置情報。
 
 <!-- end list -->
 
@@ -277,8 +252,7 @@ CiTY御台場的店舗以外全區域](../Page/AQUA_CiTY台場.md "wikilink")。
   -
     剩餘**34分**時發出指令→剩餘**30分**時完全封鎖・獵人放出
       -
-        發出指令後、AQUA CiTY的26處出入口會陸續封鎖起來。在完全封鎖和1F附有計時器牢籠裡的100具獵人放出來前，必須從
-        AQUA CiTY 逃脫才行。
+        發出指令後、AQUA CiTY的26處出入口會陸續封鎖起來。在完全封鎖和1F附有計時器牢籠裡的100具獵人放出來前，必須從 AQUA CiTY 逃脫才行。
         籠內有100具獵人，[計時器安裝在籠外](https://zh.wikipedia.org/wiki/計時器 "wikilink")，時間是從“5:00”(也就是剩35分時)開始倒計時。
 
 <!-- end list -->
@@ -401,16 +375,14 @@ CiTY御台場的店舗以外全區域](../Page/AQUA_CiTY台場.md "wikilink")。
 
 今回一開始時獵人的投入位置每一具都各不相同。可移動區域為現場内全區域、各種娛樂設施内是禁止進入。牢籠是設置於旋轉木馬前。
 
-日本節目「JUMP！○○中」至此以後將節目中獵人的數量單位日文原文「体」改為「人」的敘述\[5\]，但是這回還是統一以「体」敘述（[全員逃走中各話列表
-第7回之後也延續跟著修改](https://zh.wikipedia.org/wiki/全員逃走中各話列表#第七回_台場篇II "wikilink")）。
+日本節目「JUMP！○○中」至此以後將節目中獵人的數量單位日文原文「体」改為「人」的敘述\[5\]，但是這回還是統一以「体」敘述（[全員逃走中各話列表 第7回之後也延續跟著修改](https://zh.wikipedia.org/wiki/全員逃走中各話列表#第七回_台場篇II "wikilink")）。
 
   - **指令1**…停止身上發光背心發光\!
 
 <!-- end list -->
 
   -
-    剩餘**53分20秒**時身上發光背心開始發光到剩餘**35分**→剩餘**52分20秒**時發號指令→剩餘**40分**時
-    「全區域燈光熄滅」→ 剩餘**35分**時「全區域燈光恢復・發光背心自然熄滅」
+    剩餘**53分20秒**時身上發光背心開始發光到剩餘**35分**→剩餘**52分20秒**時發號指令→剩餘**40分**時 「全區域燈光熄滅」→ 剩餘**35分**時「全區域燈光恢復・發光背心自然熄滅」
       -
         指令中說明要解除必須使用自己以外其他人持有的鑰匙卡（卡片只能使用一回）刷過手臂上的裝置解除，立刻就能使**發光停止**（自己以外的人沒了有效的卡片就只能等待自然熄滅了）。
 
@@ -453,8 +425,7 @@ CiTY御台場的店舗以外全區域](../Page/AQUA_CiTY台場.md "wikilink")。
 
       -
 
-        、オリエンタルラジオ（中田敦彦/藤森慎吾）、麒麟（[川島明](https://zh.wikipedia.org/wiki/川島明 "wikilink")/田村裕）、[くわばたりえ](https://zh.wikipedia.org/wiki/くわばたりえ "wikilink")（）、[Golgo松本](https://zh.wikipedia.org/wiki/Golgo松本 "wikilink")
-        ([TIM](https://zh.wikipedia.org/wiki/TIM_\(日本搞笑搭档\) "wikilink"))、[桜庭和志](https://zh.wikipedia.org/wiki/桜庭和志 "wikilink")、[佐佐木主浩](../Page/佐佐木主浩.md "wikilink")、チュートリアル（徳井義実/福田充徳）、[鶴野剛士](https://zh.wikipedia.org/wiki/鶴野剛士 "wikilink")、[西村知美](https://zh.wikipedia.org/wiki/西村知美 "wikilink")、、山本裕典
+        、オリエンタルラジオ（中田敦彦/藤森慎吾）、麒麟（[川島明](https://zh.wikipedia.org/wiki/川島明 "wikilink")/田村裕）、[くわばたりえ](https://zh.wikipedia.org/wiki/くわばたりえ "wikilink")（）、[Golgo松本](https://zh.wikipedia.org/wiki/Golgo松本 "wikilink") ([TIM](https://zh.wikipedia.org/wiki/TIM_\(日本搞笑搭档\) "wikilink"))、[桜庭和志](https://zh.wikipedia.org/wiki/桜庭和志 "wikilink")、[佐佐木主浩](../Page/佐佐木主浩.md "wikilink")、チュートリアル（徳井義実/福田充徳）、[鶴野剛士](https://zh.wikipedia.org/wiki/鶴野剛士 "wikilink")、[西村知美](https://zh.wikipedia.org/wiki/西村知美 "wikilink")、、山本裕典
 
     獎金單價:100圓/秒
 
@@ -499,8 +470,7 @@ CiTY御台場的店舗以外全區域](../Page/AQUA_CiTY台場.md "wikilink")。
   -
     残り**11分28秒**発令
       -
-        封鎖された全エリアを開放するが、ニュースタッドとキンデルダイクの風車5基全てにて、近くのレバー2つを2人で動かして起動しないと、ゲーム終了時に**自首者を含め全員が獎金半額**になる（逃走成功=指令1により21万円
-        - 61万5000円）。終了後の結果通知もある。
+        封鎖された全エリアを開放するが、ニュースタッドとキンデルダイクの風車5基全てにて、近くのレバー2つを2人で動かして起動しないと、ゲーム終了時に**自首者を含め全員が獎金半額**になる（逃走成功=指令1により21万円 - 61万5000円）。終了後の結果通知もある。
 
 <!-- end list -->
 
@@ -694,14 +664,7 @@ CiTY御台場的店舗以外全區域](../Page/AQUA_CiTY台場.md "wikilink")。
     チーム数:1チーム2名、合計6チーム
 
       -
-        青 [千秋](https://zh.wikipedia.org/wiki/千秋_\(タレント\) "wikilink") /
-        [ルー大柴](https://zh.wikipedia.org/wiki/ルー大柴 "wikilink")、緑
-        オリエンタルラジオ（中田敦彦/藤森慎吾）、白 チュートリアル（徳井義実/福田充徳）、黒 佐々木健介
-        / [北斗晶](https://zh.wikipedia.org/wiki/北斗晶 "wikilink")、赤
-        [藤本敏史](https://zh.wikipedia.org/wiki/藤本敏史 "wikilink")
-        ([FUJIWARA](https://zh.wikipedia.org/wiki/FUJIWARA "wikilink"))
-        / [里田まい](https://zh.wikipedia.org/wiki/里田まい "wikilink")、黄
-        [岩佐真悠子](../Page/岩佐真悠子.md "wikilink") / 山本裕典
+        青 [千秋](https://zh.wikipedia.org/wiki/千秋_\(タレント\) "wikilink") / [ルー大柴](https://zh.wikipedia.org/wiki/ルー大柴 "wikilink")、緑 オリエンタルラジオ（中田敦彦/藤森慎吾）、白 チュートリアル（徳井義実/福田充徳）、黒 佐々木健介 / [北斗晶](https://zh.wikipedia.org/wiki/北斗晶 "wikilink")、赤 [藤本敏史](https://zh.wikipedia.org/wiki/藤本敏史 "wikilink") ([FUJIWARA](https://zh.wikipedia.org/wiki/FUJIWARA "wikilink")) / [里田まい](https://zh.wikipedia.org/wiki/里田まい "wikilink")、黄 [岩佐真悠子](../Page/岩佐真悠子.md "wikilink") / 山本裕典
 
     番号:3桁
 
@@ -779,18 +742,9 @@ CiTY御台場的店舗以外全區域](../Page/AQUA_CiTY台場.md "wikilink")。
     チーム構成:護衛4名（全員男性）、姫1名
 
       -
-        〈〉姫:小倉優子、護衛:チュートリアル（徳井義実/福田充徳）/
-        [クロちゃん](https://zh.wikipedia.org/wiki/クロちゃん_\(お笑い芸人\) "wikilink")（[安田大サーカス](https://zh.wikipedia.org/wiki/安田大サーカス "wikilink")）/
-        [竹原慎二](https://zh.wikipedia.org/wiki/竹原慎二 "wikilink")
-        〈〉-
-        100万円、姫:[鈴木紗理奈](https://zh.wikipedia.org/wiki/鈴木紗理奈 "wikilink")、護衛:オリエンタルラジオ（中田敦彦/藤森慎吾）/
-        [金村義明](https://zh.wikipedia.org/wiki/金村義明 "wikilink") /
-        [ほんこん](https://zh.wikipedia.org/wiki/ほんこん "wikilink")
-        ([130R](https://zh.wikipedia.org/wiki/130R "wikilink"))
-        〈〉姫:[しずちゃん](https://zh.wikipedia.org/wiki/山崎静代 "wikilink")（[南海キャンディーズ](https://zh.wikipedia.org/wiki/南海キャンディーズ "wikilink")）、護衛:山本裕典
-        /
-        アンガールズ（田中卓志/[山根良顕](https://zh.wikipedia.org/wiki/山根良顕 "wikilink")）/
-        [山ちゃん](../Page/山里亮太.md "wikilink")（南海キャンディーズ）
+        〈〉姫:小倉優子、護衛:チュートリアル（徳井義実/福田充徳）/ [クロちゃん](https://zh.wikipedia.org/wiki/クロちゃん_\(お笑い芸人\) "wikilink")（[安田大サーカス](https://zh.wikipedia.org/wiki/安田大サーカス "wikilink")）/ [竹原慎二](https://zh.wikipedia.org/wiki/竹原慎二 "wikilink")
+        〈〉- 100万円、姫:[鈴木紗理奈](https://zh.wikipedia.org/wiki/鈴木紗理奈 "wikilink")、護衛:オリエンタルラジオ（中田敦彦/藤森慎吾）/ [金村義明](https://zh.wikipedia.org/wiki/金村義明 "wikilink") / [ほんこん](https://zh.wikipedia.org/wiki/ほんこん "wikilink") ([130R](https://zh.wikipedia.org/wiki/130R "wikilink"))
+        〈〉姫:[しずちゃん](https://zh.wikipedia.org/wiki/山崎静代 "wikilink")（[南海キャンディーズ](https://zh.wikipedia.org/wiki/南海キャンディーズ "wikilink")）、護衛:山本裕典 / アンガールズ（田中卓志/[山根良顕](https://zh.wikipedia.org/wiki/山根良顕 "wikilink")）/ [山ちゃん](../Page/山里亮太.md "wikilink")（南海キャンディーズ）
 
     賞金:100万円
 
@@ -825,8 +779,7 @@ CiTY御台場的店舗以外全區域](../Page/AQUA_CiTY台場.md "wikilink")。
 <!-- end list -->
 
   -
-    残り**37分33秒**[ほら貝が鳴る](https://zh.wikipedia.org/wiki/ホラガイ "wikilink")
-    - 残り**37分14秒**通知
+    残り**37分33秒**[ほら貝が鳴る](https://zh.wikipedia.org/wiki/ホラガイ "wikilink") - 残り**37分14秒**通知
       -
         白ボール使用禁止。これより使える金ボールが騎馬天狗2体から合計6球投入され（テロップは「**気まぐれ天狗**」）、さらに新たな宝箱3か所にも設置される。
 
@@ -967,8 +920,7 @@ CiTY御台場的店舗以外全區域](../Page/AQUA_CiTY台場.md "wikilink")。
 ### 『克洛諾斯』班
 
   - スタッフ協力：[トップシーン](https://zh.wikipedia.org/wiki/トップシーン "wikilink")・[R-1](https://zh.wikipedia.org/wiki/ロール・ワン "wikilink")
-  - プロデューサー：[鈴木正人](https://zh.wikipedia.org/wiki/鈴木正人_\(プロデューサー\) "wikilink")
-    (FCC)・[笹谷隆司](https://zh.wikipedia.org/wiki/笹谷隆司 "wikilink") (FCC)
+  - プロデューサー：[鈴木正人](https://zh.wikipedia.org/wiki/鈴木正人_\(プロデューサー\) "wikilink") (FCC)・[笹谷隆司](https://zh.wikipedia.org/wiki/笹谷隆司 "wikilink") (FCC)
   - 演出：[秋永真吾](https://zh.wikipedia.org/wiki/秋永真吾 "wikilink")（トップシーン）
   - ディレクター：[横森敦](https://zh.wikipedia.org/wiki/横森敦 "wikilink")・[中村秀和](https://zh.wikipedia.org/wiki/中村秀和 "wikilink")・[山川泰一](https://zh.wikipedia.org/wiki/山川泰一 "wikilink")
   - AP（アシスタントプロデューサー）：[渡辺未生](https://zh.wikipedia.org/wiki/渡辺未生 "wikilink")
@@ -1010,8 +962,7 @@ CiTY御台場的店舗以外全區域](../Page/AQUA_CiTY台場.md "wikilink")。
   - 照明：佐藤博樹
   - 編集：一ノ瀬勝（笑カンパニー）
   - MA：中村和弘（笑カンパニー）
-  - 音響効果：[松長芳樹](https://zh.wikipedia.org/wiki/松長芳樹 "wikilink")
-    ([Digitalcircus](https://zh.wikipedia.org/wiki/デジタルサーカス "wikilink"))
+  - 音響効果：[松長芳樹](https://zh.wikipedia.org/wiki/松長芳樹 "wikilink") ([Digitalcircus](https://zh.wikipedia.org/wiki/デジタルサーカス "wikilink"))
   - 美術制作：[井上幸夫](https://zh.wikipedia.org/wiki/井上幸夫 "wikilink")
   - デザイン：[棈木陽次](https://zh.wikipedia.org/wiki/棈木陽次 "wikilink")
   - 美術進行：西村貴則
@@ -1031,8 +982,7 @@ CiTY御台場的店舗以外全區域](../Page/AQUA_CiTY台場.md "wikilink")。
 
 ## 備註
 
-  - この枠からCM枠が5分30秒に縮小した（2010年9月の『[爆笑レッドシアター](https://zh.wikipedia.org/wiki/爆笑レッドシアター "wikilink")』終了
-    - 2011年10月にて5分に縮小していた期間を除き、現在まで継続）。
+  - この枠からCM枠が5分30秒に縮小した（2010年9月の『[爆笑レッドシアター](https://zh.wikipedia.org/wiki/爆笑レッドシアター "wikilink")』終了 - 2011年10月にて5分に縮小していた期間を除き、現在まで継続）。
   - 提供クレジットは水10\!時代は16秒に対し、この枠からは15秒で表示される。
   - 番組の冒頭に全スポンサー[クレジットが表示される](https://zh.wikipedia.org/wiki/クレジット "wikilink")。この手法は「クロノス」及び「逃走中（単発番組）」と同様。但し旧「水10」班制作回では例外もあった。
   - 筆頭スポンサーの[花王](../Page/花王.md "wikilink")は水10\!のワンナイ過度期からオリキュン時代までは提供クレジットを控えており、この番組にてスポンサー復帰したが、挑戦中「24分間で2kg太れるか?」放送回のみ提供クレジットを控えた。
@@ -1042,12 +992,9 @@ CiTY御台場的店舗以外全區域](../Page/AQUA_CiTY台場.md "wikilink")。
 
 ## 外部連結
 
-  - －[ジャンプ\!○○中](https://web.archive.org/web/20100929235846/http://wwwz.fujitv.co.jp/JUMP/)（富士電視台）-
-    網路節目存檔、2010年9月29日版、2012年11月12日閲覧
+  - －[ジャンプ\!○○中](https://web.archive.org/web/20100929235846/http://wwwz.fujitv.co.jp/JUMP/)（富士電視台）- 網路節目存檔、2010年9月29日版、2012年11月12日閲覧
 
-[Category:富士電視台的綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台的綜藝節目 "wikilink")
-[Category:吉本興業的節目](https://zh.wikipedia.org/wiki/Category:吉本興業的節目 "wikilink")
-[Category:2007年的日本電視節目](https://zh.wikipedia.org/wiki/Category:2007年的日本電視節目 "wikilink")
+[Category:富士電視台的綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台的綜藝節目 "wikilink") [Category:吉本興業的節目](https://zh.wikipedia.org/wiki/Category:吉本興業的節目 "wikilink") [Category:2007年的日本電視節目](https://zh.wikipedia.org/wiki/Category:2007年的日本電視節目 "wikilink")
 
 1.  放送予告では従来通りの変動型と紹介されていた。
 2.  退出遊戲得方式，能得到至自首為止的獎金。

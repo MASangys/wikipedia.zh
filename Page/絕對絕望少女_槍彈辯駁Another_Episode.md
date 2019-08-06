@@ -1,6 +1,4 @@
-是於[PlayStation
-Vita上的](../Page/PlayStation_Vita.md "wikilink")[第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/第三人稱射擊遊戲 "wikilink")，最初於2014年9月在日本发售\[1\]。由[Spike
-Chunsoft](../Page/Spike_Chunsoft.md "wikilink")（）公司所開發。本作是槍彈辯駁系列第一款動作冒險遊戲，主題關鍵字為「迷幻流行驚悚」。
+是於[PlayStation Vita上的](../Page/PlayStation_Vita.md "wikilink")[第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/第三人稱射擊遊戲 "wikilink")，最初於2014年9月在日本发售\[1\]。由[Spike Chunsoft](../Page/Spike_Chunsoft.md "wikilink")（）公司所開發。本作是槍彈辯駁系列第一款動作冒險遊戲，主題關鍵字為「迷幻流行驚悚」。
 
 ## 劇情
 
@@ -43,8 +41,7 @@ Chunsoft](../Page/Spike_Chunsoft.md "wikilink")（）公司所開發。本作是
 
 ### 希望戰士
 
-五名自稱希望戰士的小學生，帶領著頭戴黑白熊頭罩的小孩與大量的機械黑白熊，在塔和市內四處殺害大人，期望創造沒有大人的小孩的樂園。五人各自分別擔當勇者、戰士、僧侶、賢者、法師五名角色，並擁有專屬的機器人
-\[3\]。五人原先為希望峰學園附屬小學的同班同學，各自都有嚴重的家庭問題，某天相約一起準備[集體自殺](../Page/集體自殺.md "wikilink")時被正好來到塔和市的江之島盾子發現並被收留。江之島盾子教導五人要視大人為「魔物」，要殺害大人，建立專屬於小孩的「樂園」，五人也都將盾子視為神明一般非常崇拜她。盾子在[前作落敗並死亡後](../Page/槍彈辯駁_希望學園與絕望高中生.md "wikilink")，五人頓失依靠，後來決定改以最中為首領，並且帶領黑白熊小孩與機械黑白熊突然展開大規模叛亂，令塔和市在短時間內就迅速陷入混亂。認為苗木困和腐川冬子是「快要成為魔物但還不是魔物」的狀態。
+五名自稱希望戰士的小學生，帶領著頭戴黑白熊頭罩的小孩與大量的機械黑白熊，在塔和市內四處殺害大人，期望創造沒有大人的小孩的樂園。五人各自分別擔當勇者、戰士、僧侶、賢者、法師五名角色，並擁有專屬的機器人 \[3\]。五人原先為希望峰學園附屬小學的同班同學，各自都有嚴重的家庭問題，某天相約一起準備[集體自殺](../Page/集體自殺.md "wikilink")時被正好來到塔和市的江之島盾子發現並被收留。江之島盾子教導五人要視大人為「魔物」，要殺害大人，建立專屬於小孩的「樂園」，五人也都將盾子視為神明一般非常崇拜她。盾子在[前作落敗並死亡後](../Page/槍彈辯駁_希望學園與絕望高中生.md "wikilink")，五人頓失依靠，後來決定改以最中為首領，並且帶領黑白熊小孩與機械黑白熊突然展開大規模叛亂，令塔和市在短時間內就迅速陷入混亂。認為苗木困和腐川冬子是「快要成為魔物但還不是魔物」的狀態。
 
   -
     配音員：[潘惠美](../Page/潘惠美.md "wikilink")
@@ -131,16 +128,14 @@ Chunsoft](../Page/Spike_Chunsoft.md "wikilink")（）公司所開發。本作是
 
   -
     配音員：豐口惠
-    在反抗秘密基地駐守的「全身塗白的黑白熊」，左眼包著繃帶，身長100
-    cm。和一般黑白熊不同，擁有獨立AI，不會攻擊人類，性格溫和，並不希望大人和小孩互相衝突，帶領塔和市內倖存的大人來到一個小孩們找不到的地點，後來就成為反抗軍的秘密基地。平時會進行守備、搬運物資、尋找倖存者等等工作，和苗木困等人相遇並引薦她們進入秘密基地。後來為了阻止黑白熊入侵秘密基地，要求苗木困對自己開槍，引爆自己體內的炸彈將入口堵死。雖然身體毀壞但腦部AI仍可持續運作，指示苗木困應在災害擴大前盡速前往塔和大廈阻止主謀者。
+    在反抗秘密基地駐守的「全身塗白的黑白熊」，左眼包著繃帶，身長100 cm。和一般黑白熊不同，擁有獨立AI，不會攻擊人類，性格溫和，並不希望大人和小孩互相衝突，帶領塔和市內倖存的大人來到一個小孩們找不到的地點，後來就成為反抗軍的秘密基地。平時會進行守備、搬運物資、尋找倖存者等等工作，和苗木困等人相遇並引薦她們進入秘密基地。後來為了阻止黑白熊入侵秘密基地，要求苗木困對自己開槍，引爆自己體內的炸彈將入口堵死。雖然身體毀壞但腦部AI仍可持續運作，指示苗木困應在災害擴大前盡速前往塔和大廈阻止主謀者。
     暗中背地裡也在進行煽動引發人們不安的動作，其一切行為的背後其實都是由某人的意志所主導著。
 
 <!-- end list -->
 
   -
     配音員：豐口惠
-    擔任希望戰士的顧問的「全身塗黑的黑白熊」，右眼帶著眼罩，身長100
-    cm，穿著打扮特別時尚。和一般黑白熊不同，擁有獨立AI，平時異常聒噪，說話有如機關槍般毫不間斷，有時連自己人都受不了。雖然一直身為希望戰士的顧問而在輔助「樂園計畫」，但背地裡卻又另外向最中提出「第二代江之島盾子」計畫。
+    擔任希望戰士的顧問的「全身塗黑的黑白熊」，右眼帶著眼罩，身長100 cm，穿著打扮特別時尚。和一般黑白熊不同，擁有獨立AI，平時異常聒噪，說話有如機關槍般毫不間斷，有時連自己人都受不了。雖然一直身為希望戰士的顧問而在輔助「樂園計畫」，但背地裡卻又另外向最中提出「第二代江之島盾子」計畫。
     暗中背地裡也在進行煽動引發人們不安的動作，其一切行為的背後其實都是由某人的意志所主導著。
 
 <!-- end list -->
@@ -206,8 +201,7 @@ Chunsoft](../Page/Spike_Chunsoft.md "wikilink")（）公司所開發。本作是
   -
     配音員：無
     [續作角色](../Page/超級槍彈辯駁2_再會了絕望學園.md "wikilink")，過去被稱為「超高中級的**希望**」。
-    在最末尾出現，一人單槍匹馬暗中闖入塔和市只為了奪取某樣東西用來實行某個計畫，其計畫的內容和後續劇情《[超級槍彈辯駁2
-    再會了絕望學園](../Page/超級槍彈辯駁2_再會了絕望學園.md "wikilink")》有很大的關係。
+    在最末尾出現，一人單槍匹馬暗中闖入塔和市只為了奪取某樣東西用來實行某個計畫，其計畫的內容和後續劇情《[超級槍彈辯駁2 再會了絕望學園](../Page/超級槍彈辯駁2_再會了絕望學園.md "wikilink")》有很大的關係。
 
 <!-- end list -->
 
@@ -243,20 +237,11 @@ Chunsoft](../Page/Spike_Chunsoft.md "wikilink")（）公司所開發。本作是
 
       - [絕對絕望少女官網](http://www.danganronpa.com/zetsubou/)
 
-  - [《槍彈辯駁》外傳第三人稱射擊遊戲《絕對絕望少女
-    AnotherEpisode》巴哈姆特](http://gnn.gamer.com.tw/8/85508.html)
+  - [《槍彈辯駁》外傳第三人稱射擊遊戲《絕對絕望少女 AnotherEpisode》巴哈姆特](http://gnn.gamer.com.tw/8/85508.html)
 
-  - [Steam 平台 《絕對絕望少女 槍彈辯駁 AnotherEpisode》
-    官方介紹](https://store.steampowered.com/app/555950/Danganronpa_Another_Episode_Ultra_Despair_Girls/?snr=1_4_4__128)
+  - [Steam 平台 《絕對絕望少女 槍彈辯駁 AnotherEpisode》 官方介紹](https://store.steampowered.com/app/555950/Danganronpa_Another_Episode_Ultra_Despair_Girls/?snr=1_4_4__128)
 
-[Category:2014年電子遊戲](https://zh.wikipedia.org/wiki/Category:2014年電子遊戲 "wikilink")
-[Category:動作冒險遊戲](https://zh.wikipedia.org/wiki/Category:動作冒險遊戲 "wikilink")
-[Category:第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:第三人稱射擊遊戲 "wikilink")
-[Category:Spike_Chunsoft游戏](https://zh.wikipedia.org/wiki/Category:Spike_Chunsoft游戏 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:反烏托邦遊戲](https://zh.wikipedia.org/wiki/Category:反烏托邦遊戲 "wikilink")
-[Category:槍彈辯駁系列電子遊戲](https://zh.wikipedia.org/wiki/Category:槍彈辯駁系列電子遊戲 "wikilink")
-[Category:死亡遊戲題材作品](https://zh.wikipedia.org/wiki/Category:死亡遊戲題材作品 "wikilink")
+[Category:2014年電子遊戲](https://zh.wikipedia.org/wiki/Category:2014年電子遊戲 "wikilink") [Category:動作冒險遊戲](https://zh.wikipedia.org/wiki/Category:動作冒險遊戲 "wikilink") [Category:第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:第三人稱射擊遊戲 "wikilink") [Category:Spike_Chunsoft游戏](https://zh.wikipedia.org/wiki/Category:Spike_Chunsoft游戏 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:反烏托邦遊戲](https://zh.wikipedia.org/wiki/Category:反烏托邦遊戲 "wikilink") [Category:槍彈辯駁系列電子遊戲](https://zh.wikipedia.org/wiki/Category:槍彈辯駁系列電子遊戲 "wikilink") [Category:死亡遊戲題材作品](https://zh.wikipedia.org/wiki/Category:死亡遊戲題材作品 "wikilink")
 
 1.
 2.

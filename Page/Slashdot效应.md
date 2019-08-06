@@ -1,30 +1,18 @@
-**Slashdot效应**（Slashdot
-effect）也称作**slashdotting**，指的是当一个受众广泛的[网站介绍了另一个小众的网站后](https://zh.wikipedia.org/wiki/网站 "wikilink")，小众网站流量激增的现象。小网站流量的激增使得它的访问速度变慢或者一时间完全不能访问。这个效应的名字来源于科技新闻网站*[Slashdot](../Page/Slashdot.md "wikilink")*，因为每当Slashdot链接到其他的网站时就会给其他网站带来很多流量。这个效应也能应用到其他的网站和元博客（metablog），例如[Fark](https://zh.wikipedia.org/wiki/Fark "wikilink")、*[Drudge
-Report](https://zh.wikipedia.org/wiki/Drudge_Report "wikilink")*、[Reddit](../Page/Reddit.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")和[Digg](../Page/Digg.md "wikilink")，衍生了一批词汇例如**Farked**、**Drudged**、以及受到“**Reddit效应**的影响”。[Google
-doodle由于会将人引导至和Doodle相关的搜索结果](https://zh.wikipedia.org/wiki/Google_doodle "wikilink")，也会导致相关搜索结果页面的流量激增\[1\]。通常，不那么[鲁棒的网站因无法处理如此巨大的流量而导致网站无法访问](https://zh.wikipedia.org/wiki/鲁棒性_\(计算机科学\) "wikilink")——常见原因有缺乏足够[带宽](../Page/带宽.md "wikilink")、[服务器](../Page/服务器.md "wikilink")无法处理这么多并发请求、配额（quota）已满等。建在[虚拟主机](../Page/虚拟主机.md "wikilink")上的网站遇到Slashdot效应时往往会变得无法访问。
+**Slashdot效应**（Slashdot effect）也称作**slashdotting**，指的是当一个受众广泛的[网站介绍了另一个小众的网站后](https://zh.wikipedia.org/wiki/网站 "wikilink")，小众网站流量激增的现象。小网站流量的激增使得它的访问速度变慢或者一时间完全不能访问。这个效应的名字来源于科技新闻网站*[Slashdot](../Page/Slashdot.md "wikilink")*，因为每当Slashdot链接到其他的网站时就会给其他网站带来很多流量。这个效应也能应用到其他的网站和元博客（metablog），例如[Fark](https://zh.wikipedia.org/wiki/Fark "wikilink")、*[Drudge Report](https://zh.wikipedia.org/wiki/Drudge_Report "wikilink")*、[Reddit](../Page/Reddit.md "wikilink")、[Twitter](../Page/Twitter.md "wikilink")和[Digg](../Page/Digg.md "wikilink")，衍生了一批词汇例如**Farked**、**Drudged**、以及受到“**Reddit效应**的影响”。[Google doodle由于会将人引导至和Doodle相关的搜索结果](https://zh.wikipedia.org/wiki/Google_doodle "wikilink")，也会导致相关搜索结果页面的流量激增\[1\]。通常，不那么[鲁棒的网站因无法处理如此巨大的流量而导致网站无法访问](https://zh.wikipedia.org/wiki/鲁棒性_\(计算机科学\) "wikilink")——常见原因有缺乏足够[带宽](../Page/带宽.md "wikilink")、[服务器](../Page/服务器.md "wikilink")无法处理这么多并发请求、配额（quota）已满等。建在[虚拟主机](../Page/虚拟主机.md "wikilink")上的网站遇到Slashdot效应时往往会变得无法访问。
 
-**flash
-crowd**这个词汇更一般地描述了网络或者主机遇到大量流量的现象。这有些时候是因为博客和新闻栏上出现了一个网站\[2\]\[3\]\[4\]。
+**flash crowd**这个词汇更一般地描述了网络或者主机遇到大量流量的现象。这有些时候是因为博客和新闻栏上出现了一个网站\[2\]\[3\]\[4\]。
 
 当社区网站因为Slashdot效应流量迅速增长後，社区可能会面临[小白增多的困扰](https://zh.wikipedia.org/wiki/白目 "wikilink")。
 
 ## 命名
 
-根据[Jargon
-File](https://zh.wikipedia.org/wiki/Jargon_File "wikilink")，“Slashdot效应”这个词指的是当著名新闻网站Slashdot在一篇有趣的文章里报道了一个网站後许多人纷至沓来把它几乎挤爆的现象。后来被列入其他著名网站後所发生的类似现象也用这个词来称呼了。这个词和flash
-crowd这个更一般性、更合适的词对应\[5\] 。
+根据[Jargon File](https://zh.wikipedia.org/wiki/Jargon_File "wikilink")，“Slashdot效应”这个词指的是当著名新闻网站Slashdot在一篇有趣的文章里报道了一个网站後许多人纷至沓来把它几乎挤爆的现象。后来被列入其他著名网站後所发生的类似现象也用这个词来称呼了。这个词和flash crowd这个更一般性、更合适的词对应\[5\] 。
 
-“flash crowd”这个词是1973年[Larry
-Niven在他的短篇科幻小说](https://zh.wikipedia.org/wiki/Larry_Niven "wikilink")*[Flash
-Crowd](https://zh.wikipedia.org/wiki/Flash_Crowd "wikilink")*中生造出来的。小说预言了廉价的[瞬移技术会使得一大群人都会传送到有趣的新闻故事发生的地方从而导致拥堵](../Page/瞬間移動.md "wikilink")。20年後，这个词在互联网上被广泛用于指当网站有了能吸引许多人的东西之後其服务器系统资源使用量成指数增长。在此之前，[Alfred
-Bester在他的小说](https://zh.wikipedia.org/wiki/Alfred_Bester "wikilink")[The
-Stars My
-Destination中也预计到了这种效应](https://zh.wikipedia.org/wiki/The_Stars_My_Destination "wikilink")\[6\]。
+“flash crowd”这个词是1973年[Larry Niven在他的短篇科幻小说](https://zh.wikipedia.org/wiki/Larry_Niven "wikilink")*[Flash Crowd](https://zh.wikipedia.org/wiki/Flash_Crowd "wikilink")*中生造出来的。小说预言了廉价的[瞬移技术会使得一大群人都会传送到有趣的新闻故事发生的地方从而导致拥堵](../Page/瞬間移動.md "wikilink")。20年後，这个词在互联网上被广泛用于指当网站有了能吸引许多人的东西之後其服务器系统资源使用量成指数增长。在此之前，[Alfred Bester在他的小说](https://zh.wikipedia.org/wiki/Alfred_Bester "wikilink")[The Stars My Destination中也预计到了这种效应](https://zh.wikipedia.org/wiki/The_Stars_My_Destination "wikilink")\[6\]。
 
 ## 来历
 
-诸如*Slashdot*、Digg,
-Reddit、StumbleUpon和Fark这样的站点是由许多“用户提交的*帖子*”和帖子下面用户讨论组成的。系统通过用户评分制度隐藏不合适的回帖。最典型的帖子介绍了一个有趣的新物品或新网站，然后贴一个到源地址的[外部链接](https://zh.wikipedia.org/wiki/超链接 "wikilink")。结果，绝大多数读者都会自然而然地跑去看那个外部链接。来自读者的、随之涌来的洪水般的页面请求可能会超过网站的可用带宽或者其服务器的回复请求的处理能力，使得网站暂时无法访问。
+诸如*Slashdot*、Digg, Reddit、StumbleUpon和Fark这样的站点是由许多“用户提交的*帖子*”和帖子下面用户讨论组成的。系统通过用户评分制度隐藏不合适的回帖。最典型的帖子介绍了一个有趣的新物品或新网站，然后贴一个到源地址的[外部链接](https://zh.wikipedia.org/wiki/超链接 "wikilink")。结果，绝大多数读者都会自然而然地跑去看那个外部链接。来自读者的、随之涌来的洪水般的页面请求可能会超过网站的可用带宽或者其服务器的回复请求的处理能力，使得网站暂时无法访问。
 
 ## 程度
 
@@ -58,15 +46,9 @@ Reddit、StumbleUpon和Fark这样的站点是由许多“用户提交的*帖子*
   - [Slashdot](http://slashdot.org/)
   - [「スラッシュドット効果」って何ですか？](http://slashdot.jp/faq/slashmeta#sm600)
 
-[Category:網路術語](https://zh.wikipedia.org/wiki/Category:網路術語 "wikilink")
-[Category:阻斷服務攻擊](https://zh.wikipedia.org/wiki/Category:阻斷服務攻擊 "wikilink")
-[Category:Slashdot](https://zh.wikipedia.org/wiki/Category:Slashdot "wikilink")
-[Category:電腦網路](https://zh.wikipedia.org/wiki/Category:電腦網路 "wikilink")
+[Category:網路術語](https://zh.wikipedia.org/wiki/Category:網路術語 "wikilink") [Category:阻斷服務攻擊](https://zh.wikipedia.org/wiki/Category:阻斷服務攻擊 "wikilink") [Category:Slashdot](https://zh.wikipedia.org/wiki/Category:Slashdot "wikilink") [Category:電腦網路](https://zh.wikipedia.org/wiki/Category:電腦網路 "wikilink")
 
-1.  Williams, David E. "[Google's unknown artist has huge
-    following](http://www.cnn.com/2006/TECH/internet/07/19/google.logo/index.html)."
-    *[CNN](https://zh.wikipedia.org/wiki/CNN "wikilink").* July 19,
-    2006. Retrieved on July 19, 2006.
+1.  Williams, David E. "[Google's unknown artist has huge following](http://www.cnn.com/2006/TECH/internet/07/19/google.logo/index.html)." *[CNN](https://zh.wikipedia.org/wiki/CNN "wikilink").* July 19, 2006. Retrieved on July 19, 2006.
 2.
 3.
 4.
@@ -75,13 +57,7 @@ Reddit、StumbleUpon和Fark这样的站点是由许多“用户提交的*帖子*
 7.  [(mirror)](http://hup.hu/old/stuff/slashdotted/SlashDotEffect.html)
 8.
 9.
-10. Olga Kharif , [Less Impact from the "Slashdot
-    Effect"](http://www.businessweek.com/technology/content/mar2005/tc2005032_0932_tc119.htm),
-    Bloomberg Business Week, March 2, 2005
-11. Paul Douglas, [How Stephen Fry takes down entire websites with a
-    single
-    tweet](http://www.techradar.com/news/internet/how-stephen-fry-takes-down-entire-websites-with-a-single-tweet-674170),
-    Tech Radar, March 3, 2010
-12.  – A research paper describing strategies for handling the Slashdot
-    Effect
+10. Olga Kharif , [Less Impact from the "Slashdot Effect"](http://www.businessweek.com/technology/content/mar2005/tc2005032_0932_tc119.htm), Bloomberg Business Week, March 2, 2005
+11. Paul Douglas, [How Stephen Fry takes down entire websites with a single tweet](http://www.techradar.com/news/internet/how-stephen-fry-takes-down-entire-websites-with-a-single-tweet-674170), Tech Radar, March 3, 2010
+12.  – A research paper describing strategies for handling the Slashdot Effect
 13.

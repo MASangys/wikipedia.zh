@@ -6,8 +6,7 @@
 
 ### 西班牙
 
-  - [巴倫西亞自治區](../Page/巴倫西亞自治區.md "wikilink")（，也作Valencian
-    Country），西班牙的一个自治区。
+  - [巴倫西亞自治區](../Page/巴倫西亞自治區.md "wikilink")（，也作Valencian Country），西班牙的一个自治区。
 
       - （），来自巴伦西亚自治区的民族。
 
@@ -38,8 +37,7 @@
 ### 菲律宾
 
   - [巴伦西亚城](https://zh.wikipedia.org/wiki/巴伦西亚城 "wikilink")（），[菲律宾](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")[棉兰老岛](../Page/棉兰老岛.md "wikilink")[布基农省](../Page/布基农省.md "wikilink")的一座城市。
-  - [巴伦西亚
-    (东内格罗省)](../Page/巴伦西亚_\(东内格罗省\).md "wikilink")（），[东内格罗省的一座城市](https://zh.wikipedia.org/wiki/东内格罗省 "wikilink")。
+  - [巴伦西亚 (东内格罗省)](../Page/巴伦西亚_\(东内格罗省\).md "wikilink")（），[东内格罗省的一座城市](https://zh.wikipedia.org/wiki/东内格罗省 "wikilink")。
 
 ### 美国
 
@@ -61,8 +59,7 @@
 
 ### 其他
 
-  - [巴倫西亞
-    (科爾多瓦省)](https://zh.wikipedia.org/wiki/巴倫西亞_\(科爾多瓦省\) "wikilink")（），哥伦比亚。
+  - [巴倫西亞 (科爾多瓦省)](https://zh.wikipedia.org/wiki/巴倫西亞_\(科爾多瓦省\) "wikilink")（），哥伦比亚。
 
   - （）
 

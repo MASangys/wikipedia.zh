@@ -16,16 +16,14 @@
 ## 翻唱．演奏者
 
   - [比吉斯](../Page/比吉斯.md "wikilink")與[艾利斯古柏樂團](https://zh.wikipedia.org/wiki/艾利斯古柏樂團 "wikilink")：收錄於1978年的《[比伯軍曹寂寞芳心俱樂部](../Page/比伯軍曹寂寞芳心俱樂部.md "wikilink")》的同名電影原聲帶
-  - [陳美](https://zh.wikipedia.org/wiki/陳美 "wikilink")：以小提琴獨奏、收錄於喬治·馬丁的1998年專輯《In
-    My Life》中的第五首
+  - [陳美](https://zh.wikipedia.org/wiki/陳美 "wikilink")：以小提琴獨奏、收錄於喬治·馬丁的1998年專輯《In My Life》中的第五首
   - [艾略特·史密斯](../Page/艾略特·史密斯.md "wikilink")：收錄於1999年的《[美國心玫瑰情](../Page/美國心玫瑰情.md "wikilink")》電影原聲帶
 
 ## 參考資料
 
 {{《Abbey_Road》}}
 
-[Category:披頭四歌曲](https://zh.wikipedia.org/wiki/Category:披頭四歌曲 "wikilink")
-[Category:1969年歌曲](https://zh.wikipedia.org/wiki/Category:1969年歌曲 "wikilink")
+[Category:披頭四歌曲](https://zh.wikipedia.org/wiki/Category:披頭四歌曲 "wikilink") [Category:1969年歌曲](https://zh.wikipedia.org/wiki/Category:1969年歌曲 "wikilink")
 
 1.
 2.

@@ -30,7 +30,4 @@
 </tbody>
 </table>
 
-[Category:韓国音樂專輯](https://zh.wikipedia.org/wiki/Category:韓国音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:2010年迷你專輯](https://zh.wikipedia.org/wiki/Category:2010年迷你專輯 "wikilink")
-[Category:KARA專輯](https://zh.wikipedia.org/wiki/Category:KARA專輯 "wikilink")
+[Category:韓国音樂專輯](https://zh.wikipedia.org/wiki/Category:韓国音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:2010年迷你專輯](https://zh.wikipedia.org/wiki/Category:2010年迷你專輯 "wikilink") [Category:KARA專輯](https://zh.wikipedia.org/wiki/Category:KARA專輯 "wikilink")

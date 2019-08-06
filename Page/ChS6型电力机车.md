@@ -9,11 +9,6 @@
 
 ## 外部链接
 
-  - [1520mm.ru: Электровоз
-    ЧС6](http://www.1520mm.ru/locomotives/electric/cs6.phtml)
+  - [1520mm.ru: Электровоз ЧС6](http://www.1520mm.ru/locomotives/electric/cs6.phtml)
 
-[Category:苏联电力机车](https://zh.wikipedia.org/wiki/Category:苏联电力机车 "wikilink")
-[Category:斯柯达制铁路机车](https://zh.wikipedia.org/wiki/Category:斯柯达制铁路机车 "wikilink")
-[Category:俄罗斯电力机车](https://zh.wikipedia.org/wiki/Category:俄罗斯电力机车 "wikilink")
-[Category:Bo-Bo+Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo+Bo-Bo軸式機車 "wikilink")
-[Category:3000伏直流电力机车](https://zh.wikipedia.org/wiki/Category:3000伏直流电力机车 "wikilink")
+[Category:苏联电力机车](https://zh.wikipedia.org/wiki/Category:苏联电力机车 "wikilink") [Category:斯柯达制铁路机车](https://zh.wikipedia.org/wiki/Category:斯柯达制铁路机车 "wikilink") [Category:俄罗斯电力机车](https://zh.wikipedia.org/wiki/Category:俄罗斯电力机车 "wikilink") [Category:Bo-Bo+Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo+Bo-Bo軸式機車 "wikilink") [Category:3000伏直流电力机车](https://zh.wikipedia.org/wiki/Category:3000伏直流电力机车 "wikilink")

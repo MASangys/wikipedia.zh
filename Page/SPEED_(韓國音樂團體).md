@@ -10,36 +10,23 @@
 
 ### 2012年 男女共學子團身份出道
 
-2012年2月8日，[Core Contents
-Media在Star](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")
-News上宣布男子團的名稱決定為SPEED（스피드）。
+2012年2月8日，[Core Contents Media在Star](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink") News上宣布男子團的名稱決定為SPEED（스피드）。
 
-SPEED推出首張單曲〈Lovey Dovey
-Plus〉，改編自[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")〈Lovey
-Dovey〉，MV請來[柳和榮](../Page/柳和榮.md "wikilink")和[柳孝榮](../Page/柳孝榮.md "wikilink")參與演出。
+SPEED推出首張單曲〈Lovey Dovey Plus〉，改編自[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")〈Lovey Dovey〉，MV請來[柳和榮](../Page/柳和榮.md "wikilink")和[柳孝榮](../Page/柳孝榮.md "wikilink")參與演出。
 
 2012年2月13日，公開單曲〈Lovey Dovey Plus〉MV。
 
 光行、任伍退出，世濬、裕桓及泰河加入。
 
-經紀公司由[Core Contents
-Media轉往](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")[GM
-Contents
-Media](https://zh.wikipedia.org/wiki/GM_Contents_Media "wikilink")。
+經紀公司由[Core Contents Media轉往](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")[GM Contents Media](https://zh.wikipedia.org/wiki/GM_Contents_Media "wikilink")。
 
-及後，SPEED所有隊員往日本進行七個月的[King
-Tut特訓](https://zh.wikipedia.org/wiki/King_Tut "wikilink")，為重組後的出道曲〈It's
-Over〉作準備。
+及後，SPEED所有隊員往日本進行七個月的[King Tut特訓](https://zh.wikipedia.org/wiki/King_Tut "wikilink")，為重組後的出道曲〈It's Over〉作準備。
 
-經紀公司由[GM Contents
-Media轉回](https://zh.wikipedia.org/wiki/GM_Contents_Media "wikilink")[Core
-Contents
-Media](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")。
+經紀公司由[GM Contents Media轉回](https://zh.wikipedia.org/wiki/GM_Contents_Media "wikilink")[Core Contents Media](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")。
 
 2012年4月22日，鍾國在Yangpa最新公開的歌曲 〈Parting Is All The Same〉中參與合唱。
 
-2012年11月8日，在[The SeeYa出道歌](../Page/The_SeeYa.md "wikilink")〈Be With
-You〉中，隊長泰雲參與Rap部份和Dance Ver. MV。
+2012年11月8日，在[The SeeYa出道歌](../Page/The_SeeYa.md "wikilink")〈Be With You〉中，隊長泰雲參與Rap部份和Dance Ver. MV。
 
 ### 2013年　重組後再次出道
 
@@ -47,35 +34,25 @@ You〉中，隊長泰雲參與Rap部份和Dance Ver. MV。
 
 2013年1月14日，公開〈It's over〉MV。
 
-〈That's my fault〉和〈It's
-over〉的MV故事設定在1980年5月18日的[光州事件](https://zh.wikipedia.org/wiki/光州事件 "wikilink")（光州民主化運動）為背景，講述市民自發要求民主運動的內容，由[車恩澤導演執導](https://zh.wikipedia.org/wiki/車恩澤 "wikilink")，各別作為劇情版（上／下集）及舞蹈版，並邀請[A
-Pink的](https://zh.wikipedia.org/wiki/A_Pink "wikilink")[孫娜恩](../Page/孫娜恩.md "wikilink")、[朴寶英](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")、[池昌旭](../Page/池昌旭.md "wikilink")、[河錫辰](../Page/河錫辰.md "wikilink")等人擔綱演出。
+〈That's my fault〉和〈It's over〉的MV故事設定在1980年5月18日的[光州事件](https://zh.wikipedia.org/wiki/光州事件 "wikilink")（光州民主化運動）為背景，講述市民自發要求民主運動的內容，由[車恩澤導演執導](https://zh.wikipedia.org/wiki/車恩澤 "wikilink")，各別作為劇情版（上／下集）及舞蹈版，並邀請[A Pink的](https://zh.wikipedia.org/wiki/A_Pink "wikilink")[孫娜恩](../Page/孫娜恩.md "wikilink")、[朴寶英](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")、[池昌旭](../Page/池昌旭.md "wikilink")、[河錫辰](../Page/河錫辰.md "wikilink")等人擔綱演出。
 
-2013年1月16日，[Core Contents
-Media表示SPEED](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")2013全新專輯《Superior
-SPEED》收入將全數捐出。
+2013年1月16日，[Core Contents Media表示SPEED](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")2013全新專輯《Superior SPEED》收入將全數捐出。
 
-2013年1月17日，於[M\!
-Countdown正式出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")，出道舞台嘉賓是[Davichi](../Page/Davichi.md "wikilink")的[姜珉耿](https://zh.wikipedia.org/wiki/姜珉耿 "wikilink")。
+2013年1月17日，於[M\! Countdown正式出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")，出道舞台嘉賓是[Davichi](../Page/Davichi.md "wikilink")的[姜珉耿](https://zh.wikipedia.org/wiki/姜珉耿 "wikilink")。
 
 2013年2月18日，推出改版專輯。
 
-2013年4月28日，[T-ara子團](https://zh.wikipedia.org/wiki/T-ara "wikilink")[T-ara
-N4出道歌田園日記中](../Page/T-ara_N4.md "wikilink")，SPEED成員參與Drama Ver.及Dance
-Ver.的配角及伴舞，其中隊長泰雲更參與Rap部份。
+2013年4月28日，[T-ara子團](https://zh.wikipedia.org/wiki/T-ara "wikilink")[T-ara N4出道歌田園日記中](../Page/T-ara_N4.md "wikilink")，SPEED成員參與Drama Ver.及Dance Ver.的配角及伴舞，其中隊長泰雲更參與Rap部份。
 
-2013年6月10日，泰雲、成旻與[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")[昭妍](../Page/朴昭妍.md "wikilink")、[The
-SeeYa幼真](../Page/The_SeeYa.md "wikilink")、[5dolls](https://zh.wikipedia.org/wiki/5dolls "wikilink")合作演唱抒情曲"Painkiller"(止痛藥)。
+2013年6月10日，泰雲、成旻與[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")[昭妍](../Page/朴昭妍.md "wikilink")、[The SeeYa幼真](../Page/The_SeeYa.md "wikilink")、[5dolls](https://zh.wikipedia.org/wiki/5dolls "wikilink")合作演唱抒情曲"Painkiller"(止痛藥)。
 
-2013年9月21日，在[蒙古烏蘭巴托體育場和](https://zh.wikipedia.org/wiki/蒙古 "wikilink")[Davichi](../Page/Davichi.md "wikilink")、[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")
-、[The SeeYa舉辦CCM家族演唱會](../Page/The_SeeYa.md "wikilink") 。
+2013年9月21日，在[蒙古烏蘭巴托體育場和](https://zh.wikipedia.org/wiki/蒙古 "wikilink")[Davichi](../Page/Davichi.md "wikilink")、[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink") 、[The SeeYa舉辦CCM家族演唱會](../Page/The_SeeYa.md "wikilink") 。
 
 2013年12月18日，在[柬埔寨](../Page/柬埔寨.md "wikilink")和[T-ara舉辦演唱會](https://zh.wikipedia.org/wiki/T-ara "wikilink")。
 
 ### 2014年 發行迷你專輯《Speed Circus》
 
-2014年1月29日，鍾國和[Shannon共同發表數碼單曲](../Page/Shannon_\(韓國歌手\).md "wikilink")「REMEMBER
-YOU」。
+2014年1月29日，鍾國和[Shannon共同發表數碼單曲](../Page/Shannon_\(韓國歌手\).md "wikilink")「REMEMBER YOU」。
 
 2014年2月12日，舉行新迷你專輯《Speed Circus》發行紀念Showcase,主打曲為馬戲團概念的《Don't Tease Me》。
 
@@ -89,21 +66,15 @@ YOU」。
 
 ### 2015年 泰雲退出，加入新成員Ki-o，日本公演，解散
 
-2015年1月30日，所屬經紀公司MBK
-Entertainment透露SPEED已於26日前往美國洛杉磯準備回歸專輯，同時也在取景拍攝MV。相關人員表示SPEED以春天回歸為目標努力準備中，而這次回歸還會加入兩名新成員。
+2015年1月30日，所屬經紀公司MBK Entertainment透露SPEED已於26日前往美國洛杉磯準備回歸專輯，同時也在取景拍攝MV。相關人員表示SPEED以春天回歸為目標努力準備中，而這次回歸還會加入兩名新成員。
 
-2015年2月10日，世俊、鍾國和當時以公開練習生參與的KI-O和[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")[昭妍](../Page/朴昭妍.md "wikilink")、[𤨒晶](../Page/咸𤨒晶.md "wikilink")、[The
-SeeYa玟京](../Page/The_SeeYa.md "wikilink")、[承希合作演唱抒情曲](../Page/曺承希.md "wikilink")"不要忘記我"。
+2015年2月10日，世俊、鍾國和當時以公開練習生參與的KI-O和[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")[昭妍](../Page/朴昭妍.md "wikilink")、[𤨒晶](../Page/咸𤨒晶.md "wikilink")、[The SeeYa玟京](../Page/The_SeeYa.md "wikilink")、[承希合作演唱抒情曲](../Page/曺承希.md "wikilink")"不要忘記我"。
 
-2015年3月25日，所屬社[MBK
-Entertainment表示](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")，泰雲之前向所屬社表達想退出SPEED，轉為solo嘻哈歌手的想法，經過考慮後，所屬社決定讓泰雲退出轉向solo，並參加Mnet《Show
-Me The Money》第四季。
+2015年3月25日，所屬社[MBK Entertainment表示](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")，泰雲之前向所屬社表達想退出SPEED，轉為solo嘻哈歌手的想法，經過考慮後，所屬社決定讓泰雲退出轉向solo，並參加Mnet《Show Me The Money》第四季。
 
 泰雲轉向solo後，SPEED也會加入新成員準備回歸活動，並改由裕桓擔任新一任的隊長。
 
-2015年5月23日，SPEED加入新成員KI-O，在夢想演唱會上以新歌〈What
-U〉回歸。KI-O(勝利)正式出道前曾參與TS<不要忘記我>、[𤨒晶](https://zh.wikipedia.org/wiki/𤨒晶 "wikilink")《I'm
-Good》MV和打歌活動。
+2015年5月23日，SPEED加入新成員KI-O，在夢想演唱會上以新歌〈What U〉回歸。KI-O(勝利)正式出道前曾參與TS<不要忘記我>、[𤨒晶](https://zh.wikipedia.org/wiki/𤨒晶 "wikilink")《I'm Good》MV和打歌活動。
 
 2015年5月27日，所屬社公開新歌〈What U〉的預告。
 
@@ -111,8 +82,7 @@ Good》MV和打歌活動。
 
 2015年6月1日，發行第2張迷你專輯《SPEED ON》，公開主打曲〈What U〉MV。
 
-2015年9月，SPEED在日本showbox舉行長期公演活動，但成員中的KI-O、成旻、世濬缺席公演，其中KI-O因準備[MBK
-Entertainment新樂團活動](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")、成旻因之前練習受傷仍在持續治療中、世俊因健康因素須接受治療，不適合長期在日本活動。
+2015年9月，SPEED在日本showbox舉行長期公演活動，但成員中的KI-O、成旻、世濬缺席公演，其中KI-O因準備[MBK Entertainment新樂團活動](https://zh.wikipedia.org/wiki/MBK_Entertainment "wikilink")、成旻因之前練習受傷仍在持續治療中、世俊因健康因素須接受治療，不適合長期在日本活動。
 
 2015年末，所屬經紀公司MBK Entertainment官網已移除SPEED的頁面，官網演員名單只有裕桓和世濬。
 
@@ -120,8 +90,7 @@ Entertainment新樂團活動](https://zh.wikipedia.org/wiki/MBK_Entertainment "w
 
 2016年1月27日，成員正優表示與所屬社[MBK娛樂](../Page/MBK娛樂.md "wikilink")合約已到期。
 
-2016年1月28日，成員世濬表示在[MBK娛樂](../Page/MBK娛樂.md "wikilink")轉為演員身分進行活動。同年，世濬以「KIDZ」身份作為饒舌歌手在自己創立的公司[AMD娛樂發表](https://zh.wikipedia.org/wiki/AMD娛樂 "wikilink")《BETRAY
-(Feat. $ody)》出道。
+2016年1月28日，成員世濬表示在[MBK娛樂](../Page/MBK娛樂.md "wikilink")轉為演員身分進行活動。同年，世濬以「KIDZ」身份作為饒舌歌手在自己創立的公司[AMD娛樂發表](https://zh.wikipedia.org/wiki/AMD娛樂 "wikilink")《BETRAY (Feat. $ody)》出道。
 
 2016年6月1日，成員IONE(泰河)日本官方推特表示，正在準備SOLO活動。\[1\]
 
@@ -722,18 +691,8 @@ Entertainment新樂團活動](https://zh.wikipedia.org/wiki/MBK_Entertainment "w
 
   - [裕桓推特](https://twitter.com/SUPREME_0729)
 
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink")
-[Category:已解散的韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國男子演唱團體 "wikilink")
-[Category:2013年韓國建立](https://zh.wikipedia.org/wiki/Category:2013年韓國建立 "wikilink")
-[Category:2015年韓國廢除](https://zh.wikipedia.org/wiki/Category:2015年韓國廢除 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink") [Category:已解散的韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國男子演唱團體 "wikilink") [Category:2013年韓國建立](https://zh.wikipedia.org/wiki/Category:2013年韓國建立 "wikilink") [Category:2015年韓國廢除](https://zh.wikipedia.org/wiki/Category:2015年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
-1.  [前SPEED成員
-    IONE(泰河)的官方日本帳號](https://twitter.com/IONE_JP/status/737936987185778689)
+1.  [前SPEED成員 IONE(泰河)的官方日本帳號](https://twitter.com/IONE_JP/status/737936987185778689)
 2.  [成旻新所屬社starcamp202官方instagram](https://www.instagram.com/p/BHHO9CQBK3E/?taken-by=starcamp202)
 3.  [前SPEED成員 成旻的instagram帳號](https://www.instagram.com/from_mean/)

@@ -14,15 +14,11 @@ ENCODE分三个阶段实施：试验阶段，技术发展阶段，和生产阶�
 
 ### ENCODE二期项目：生产阶段项目
 
-[EncodeSample.png](https://zh.wikipedia.org/wiki/File:EncodeSample.png "fig:EncodeSample.png").
-The gene on the left (ATP2B4) is transcribed in a wide variety of cells.
-The gene on the right is only transcribed in a few types of cells,
-including embryonic stem cells.\]\]
+[EncodeSample.png](https://zh.wikipedia.org/wiki/File:EncodeSample.png "fig:EncodeSample.png"). The gene on the left (ATP2B4) is transcribed in a wide variety of cells. The gene on the right is only transcribed in a few types of cells, including embryonic stem cells.\]\]
 
 2007年9月，国家人类基因组研究所（NHGRI）开始了ENCODE项目生产阶段的拨款。在这个阶段，目标是分析整个基因组，并进行“额外中试规模研究”\[6\]。
 
-作为试点项目，生产工作被组织作为一个开放的联盟。
-2007年10月，国家人类基因组研究所（NHGRI）在四年期间获拨款总额超过$8000万美元\[7\]。生产阶段还包括一个数据协调中心，数据分析中心，和技术开发工作\[8\]。当时该项目发展成为一个真正的全球性企业，涉及来自世界各地的32个实验室的440名科学家。
+作为试点项目，生产工作被组织作为一个开放的联盟。 2007年10月，国家人类基因组研究所（NHGRI）在四年期间获拨款总额超过$8000万美元\[7\]。生产阶段还包括一个数据协调中心，数据分析中心，和技术开发工作\[8\]。当时该项目发展成为一个真正的全球性企业，涉及来自世界各地的32个实验室的440名科学家。
 
 #### 生产阶段结果
 
@@ -43,26 +39,17 @@ including embryonic stem cells.\]\]
 
   - \- ENCODE Project at UCSC
 
-  - [ENCODE project](http://www.genome.gov/10005107) at the [National
-    Human Genome Research
-    Institute](https://zh.wikipedia.org/wiki/National_Human_Genome_Research_Institute "wikilink")
+  - [ENCODE project](http://www.genome.gov/10005107) at the [National Human Genome Research Institute](https://zh.wikipedia.org/wiki/National_Human_Genome_Research_Institute "wikilink")
 
-  - [ENCODE/GENCODE
-    project](http://www.sanger.ac.uk/PostGenomics/encode/) at the
-    [Wellcome Trust Sanger
-    Institute](https://zh.wikipedia.org/wiki/Wellcome_Trust_Sanger_Institute "wikilink")
+  - [ENCODE/GENCODE project](http://www.sanger.ac.uk/PostGenomics/encode/) at the [Wellcome Trust Sanger Institute](https://zh.wikipedia.org/wiki/Wellcome_Trust_Sanger_Institute "wikilink")
 
-  - [ENCODE-sponsored introductory
-    tutorial](https://web.archive.org/web/20130527033558/http://www.openhelix.com/ENCODE/)
+  - [ENCODE-sponsored introductory tutorial](https://web.archive.org/web/20130527033558/http://www.openhelix.com/ENCODE/)
 
   - [FactorBook](http://www.factorbook.org/)
 
-  - [ENCODE threads Explorer](http://www.nature.com/encode/#/threads) at
-    the [Nature
-    (journal)](https://zh.wikipedia.org/wiki/Nature_\(journal\) "wikilink")
+  - [ENCODE threads Explorer](http://www.nature.com/encode/#/threads) at the [Nature (journal)](https://zh.wikipedia.org/wiki/Nature_\(journal\) "wikilink")
 
-[Category:生物資訊資料庫](https://zh.wikipedia.org/wiki/Category:生物資訊資料庫 "wikilink")
-[Category:遗传学或基因组学研究机构](https://zh.wikipedia.org/wiki/Category:遗传学或基因组学研究机构 "wikilink")
+[Category:生物資訊資料庫](https://zh.wikipedia.org/wiki/Category:生物資訊資料庫 "wikilink") [Category:遗传学或基因组学研究机构](https://zh.wikipedia.org/wiki/Category:遗传学或基因组学研究机构 "wikilink")
 
 1.
 2.

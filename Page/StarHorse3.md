@@ -1,6 +1,4 @@
-《**STARHORSE3**》是[世嘉](../Page/世嘉.md "wikilink")開發的[賽馬](../Page/賽馬.md "wikilink")育成街機遊戲，2011年11月22日開始推出市面，是[STARHORSE第八代](https://zh.wikipedia.org/wiki/STARHORSE "wikilink")。
-由於[世嘉](../Page/世嘉.md "wikilink")將於2019年開發全新的[賽馬](../Page/賽馬.md "wikilink")育成街機遊戲《**STARHORSE4**》[1](https://www.youtube.com/watch?v=ZR3umlSi_Bk)，《StarHorse3
-SeasonVII Great Jockey》是STARHORSE系列第14套(亦是StarHorse3最後一套系列)作品。
+《**STARHORSE3**》是[世嘉](../Page/世嘉.md "wikilink")開發的[賽馬](../Page/賽馬.md "wikilink")育成街機遊戲，2011年11月22日開始推出市面，是[STARHORSE第八代](https://zh.wikipedia.org/wiki/STARHORSE "wikilink")。 由於[世嘉](../Page/世嘉.md "wikilink")將於2019年開發全新的[賽馬](../Page/賽馬.md "wikilink")育成街機遊戲《**STARHORSE4**》[1](https://www.youtube.com/watch?v=ZR3umlSi_Bk)，《StarHorse3 SeasonVII Great Jockey》是STARHORSE系列第14套(亦是StarHorse3最後一套系列)作品。
 
 ## 玩法
 
@@ -22,8 +20,7 @@ STARHORSE3設有十項投注項目，其中七項與日本中央競馬會投注�
 
 ### 馬匹育成
 
-馬匹可以由牧場中配種，並提供多匹配種馬選擇。在生產新的馬匹後，可以決定馬匹為3歲馬還是古馬（等同現實4歲或以上馬匹），不過在[京都新聞盃及St](https://zh.wikipedia.org/wiki/京都新聞盃 "wikilink").
-Lite紀念賽賽事及以後，玩家只能生產古馬。
+馬匹可以由牧場中配種，並提供多匹配種馬選擇。在生產新的馬匹後，可以決定馬匹為3歲馬還是古馬（等同現實4歲或以上馬匹），不過在[京都新聞盃及St](https://zh.wikipedia.org/wiki/京都新聞盃 "wikilink"). Lite紀念賽賽事及以後，玩家只能生產古馬。
 
 生產馬匹後，馬匹將會出戰條件賽，在條件賽勝出3-4場賽事後，玩家就可以真正育成自己的馬匹，玩家可根據每次出賽條件賽的意見，確定馬匹的能力。玩家每次對馬匹可以一次訓練及給予一次飼料。此外，在出賽前，玩家可以為馬匹追加一次訓練，以提升比賽狀態。在投注勝出後滿足某個條件後，可進行極秘訓練，可改變馬匹的腳法。
 
@@ -56,8 +53,7 @@ Lite紀念賽賽事及以後，玩家只能生產古馬。
 <!-- end list -->
 
   - 四場WBC的賽事有改變:
-      - WBC
-        SPRINT在[拉斯維加斯](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")
+      - WBC SPRINT在[拉斯維加斯](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")
       - WBC CLASSIC在[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")
       - WBC MILE在[開羅](https://zh.wikipedia.org/wiki/開羅 "wikilink")
 
@@ -86,12 +82,10 @@ Lite紀念賽賽事及以後，玩家只能生產古馬。
 
   -   - 新增賓果遊戲
       - 新增[香港一哩錦標](https://zh.wikipedia.org/wiki/香港一哩錦標 "wikilink"),[杜拜司馬錦標](https://zh.wikipedia.org/wiki/杜拜司馬錦標 "wikilink"),[新航國際盃等賽事](https://zh.wikipedia.org/wiki/新航國際盃 "wikilink")
-      - 今次要Master Cup賽事進行，每匹馬只需要一張Master
-        Ticket就可以參加。與以往殿堂馬賽事相同，贏出可獲大量SH。賽事過後會出現棋盤，先過終點可以獲得大量獎勵，其他玩家亦可獲得相應獎勵。假如贏出的話，下一次賽事將會自動出賽，最多可連續出賽五次。
+      - 今次要Master Cup賽事進行，每匹馬只需要一張Master Ticket就可以參加。與以往殿堂馬賽事相同，贏出可獲大量SH。賽事過後會出現棋盤，先過終點可以獲得大量獎勵，其他玩家亦可獲得相應獎勵。假如贏出的話，下一次賽事將會自動出賽，最多可連續出賽五次。
       - 在開賽前下方會多了兩項東西，分別是寶箱以及解鎖的投注組合。有兩個投注組合，但其中一個要在截止後才公佈，當玩家開始投注任何彩池，下方的顏色棒開始亮著。當投注相應彩池時寶箱就會出現。價值越高，越難出現，但報酬越好。即使開箱的賽事未能命中，仍可以帶到下一場，只要條件達成一樣沒有問題。
       - 新賽事：川崎紀念賽及新加坡國際盃登場，川崎紀念賽登場將意味著泥地馬在短時間內面對四場一級賽（不計杜拜世界盃及WBCM），即冠軍盃（舊日本盃泥地大賽）、東京大賞典、川崎紀念賽、二月錦標四場賽事。川崎紀念賽不是不難，可能夾在第三至第四熱門之間。新加坡國際盃因授權開題，不能使用原稱呼。雖然日本在五月為一級賽連鬥期，但是也能抽出海外賽事，獎金達1000枚。
-      - 副賽事也有G1：多玩家的時候不怕被狙擊。杜拜司馬經典賽以及香港一哩錦標在杜拜世界盃及香港盃同場舉行。另外Memorial
-        Race在年末舉行。而香港盃也獲得重新授權，以全新面貌登場。
+      - 副賽事也有G1：多玩家的時候不怕被狙擊。杜拜司馬經典賽以及香港一哩錦標在杜拜世界盃及香港盃同場舉行。另外Memorial Race在年末舉行。而香港盃也獲得重新授權，以全新面貌登場。
       - 合成種馬券：如果有多達一個種馬券的話怎麼辦？你可以合成，只要你有足夠數目可以合成下去，並提高等級，增加價值（潛在能力），不過最多可以儲存四個組合，直到玩家在配種時選擇它們。才能決定下一個組合。另外也會出現Rare種馬券，在稀有的情況下合成現出現情況，在不消耗任何代替下，仍可以交配下一代。
 
 第三版已於2014年7月23日於日本全面更新,香港已於2014年7月31日全面更新
@@ -109,8 +103,7 @@ Lite紀念賽賽事及以後，玩家只能生產古馬。
 
 ### 第五版:EXCEED THE LIMIT
 
-  - 賽事方面:更換當中6個比賽,新增
-    SWBW/WBCD/新潟記念/カペラS/大ハンC/アイルT/SWBS/WBCL/WBCM/東京盃/ユニコS/レパード/京成AH/ラピスS/アハルS/ファイS等賽事.
+  - 賽事方面:更換當中6個比賽,新增 SWBW/WBCD/新潟記念/カペラS/大ハンC/アイルT/SWBS/WBCL/WBCM/東京盃/ユニコS/レパード/京成AH/ラピスS/アハルS/ファイS等賽事.
       - 增加殿堂馬玩法
 
 第五版已於2016年7月27日於日本全面更新,香港未有更新日期
@@ -155,16 +148,11 @@ Lite紀念賽賽事及以後，玩家只能生產古馬。
   - [STARHORSE](http://www.segastarhorse.com/)官方網站
   - [STARHORSE.NET for PC](https://pc.segastarhorse.net/)
   - [新的傳說誕生，StarHorse3](http://flameracing.wordpress.com/2012/02/29/starhorse3-a-new-legend-begins/)
-  - [新的傳說誕生，StarHorse3
-    Part 2](http://flameracing.wordpress.com/2012/03/07/starhorse3-a-new-legend-begins-2/)
+  - [新的傳說誕生，StarHorse3 Part 2](http://flameracing.wordpress.com/2012/03/07/starhorse3-a-new-legend-begins-2/)
 
-[Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink")
-[Category:世嘉游戏](https://zh.wikipedia.org/wiki/Category:世嘉游戏 "wikilink")
-[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
+[Category:街機遊戲](https://zh.wikipedia.org/wiki/Category:街機遊戲 "wikilink") [Category:世嘉游戏](https://zh.wikipedia.org/wiki/Category:世嘉游戏 "wikilink") [Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
 
-1.  [StarHorse2 GUIDE　(小技)
-    また、](http://gackn7b.web.fc2.com/starhorse/07contents-kowaza.html)
+1.  [StarHorse2 GUIDE　(小技) また、](http://gackn7b.web.fc2.com/starhorse/07contents-kowaza.html)
 2.  [](http://starhorse.sega.jp/sh3/jnk/index.html)
-3.  <http://flameracing.wordpress.com/2012/02/29/starhorse3-a-new-legend-begins/>
-    新的傳說誕生
+3.  <http://flameracing.wordpress.com/2012/02/29/starhorse3-a-new-legend-begins/> 新的傳說誕生
 4.  <http://starhorse.sega.jp/sh3/> 新要素紹介

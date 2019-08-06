@@ -1,5 +1,4 @@
-**株式会社PHP研究所**是[日本](../Page/日本.md "wikilink")的一個民間[智庫](../Page/智庫.md "wikilink")暨[出版社](../Page/出版社.md "wikilink")，由[松下電器](../Page/松下電器.md "wikilink")（Panasonic）的創辦人[松下幸之助](../Page/松下幸之助.md "wikilink")於1946年所創立。[東京总部位于](../Page/東京都.md "wikilink")[江東区](https://zh.wikipedia.org/wiki/江東区 "wikilink")[丰洲](https://zh.wikipedia.org/wiki/丰洲 "wikilink")5丁目6番地52号（），京都总部位于[京都市](../Page/京都市.md "wikilink")[南区西九条北之内町](https://zh.wikipedia.org/wiki/南区_\(京都市\) "wikilink")11号（）。
-[PHP-bldg-kyoto-01.jpg](https://zh.wikipedia.org/wiki/File:PHP-bldg-kyoto-01.jpg "fig:PHP-bldg-kyoto-01.jpg")
+**株式会社PHP研究所**是[日本](../Page/日本.md "wikilink")的一個民間[智庫](../Page/智庫.md "wikilink")暨[出版社](../Page/出版社.md "wikilink")，由[松下電器](../Page/松下電器.md "wikilink")（Panasonic）的創辦人[松下幸之助](../Page/松下幸之助.md "wikilink")於1946年所創立。[東京总部位于](../Page/東京都.md "wikilink")[江東区](https://zh.wikipedia.org/wiki/江東区 "wikilink")[丰洲](https://zh.wikipedia.org/wiki/丰洲 "wikilink")5丁目6番地52号（），京都总部位于[京都市](../Page/京都市.md "wikilink")[南区西九条北之内町](https://zh.wikipedia.org/wiki/南区_\(京都市\) "wikilink")11号（）。 [PHP-bldg-kyoto-01.jpg](https://zh.wikipedia.org/wiki/File:PHP-bldg-kyoto-01.jpg "fig:PHP-bldg-kyoto-01.jpg")
 
 ## 社名
 
@@ -14,11 +13,8 @@
 ## 外部連結
 
   -
-[Category:日本出版社](https://zh.wikipedia.org/wiki/Category:日本出版社 "wikilink")
-[Category:日本智库](https://zh.wikipedia.org/wiki/Category:日本智库 "wikilink")
-[Category:1946年建立的组织](https://zh.wikipedia.org/wiki/Category:1946年建立的组织 "wikilink")
+[Category:日本出版社](https://zh.wikipedia.org/wiki/Category:日本出版社 "wikilink") [Category:日本智库](https://zh.wikipedia.org/wiki/Category:日本智库 "wikilink") [Category:1946年建立的组织](https://zh.wikipedia.org/wiki/Category:1946年建立的组织 "wikilink")
 
 [Category:京都市公司](https://zh.wikipedia.org/wiki/Category:京都市公司 "wikilink")
 
-1.  「[エレメントガールズ：元素が美少女キャラの“参考書”に　「萌えて覚える化学の基本」](http://mainichi.jp/enta/mantan/news/20081108mog00m200019000c.html)
-    」　まんたんウェブ、2008年11月8日。
+1.  「[エレメントガールズ：元素が美少女キャラの“参考書”に　「萌えて覚える化学の基本」](http://mainichi.jp/enta/mantan/news/20081108mog00m200019000c.html) 」　まんたんウェブ、2008年11月8日。

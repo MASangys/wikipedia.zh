@@ -1,17 +1,11 @@
-《**infinite synthesis
-2**》是[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")（第二期）的第三張專輯。於2014年9月10日由[日本NBC
-Entertainment發售](https://zh.wikipedia.org/wiki/Geneon_Entertainment "wikilink")。
+《**infinite synthesis 2**》是[fripSide](https://zh.wikipedia.org/wiki/fripSide "wikilink")（第二期）的第三張專輯。於2014年9月10日由[日本NBC Entertainment發售](https://zh.wikipedia.org/wiki/Geneon_Entertainment "wikilink")。
 
 ## 概要
 
-  - 這次專輯收錄了TV動畫《[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")S》兩首片頭曲「sister's
-    noise」、「eternal
-    reality」，以及TV動畫《[黑色子彈](../Page/黑色子彈.md "wikilink")》片頭曲「black
-    bullet」等共十三首歌曲。\[1\]
+  - 這次專輯收錄了TV動畫《[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")S》兩首片頭曲「sister's noise」、「eternal reality」，以及TV動畫《[黑色子彈](../Page/黑色子彈.md "wikilink")》片頭曲「black bullet」等共十三首歌曲。\[1\]
   - 專輯分為Blu-ray初回限定盤（GNCA-1415）、DVD初回限定盤（GNCA-1416）及通常盤（GNCA-1417）3種版本。
   - Blu-ray及DVD初回限定盤附收錄有《infinite synthesis》PV的DVD。
-  - 於9月16日[Oricon](../Page/Oricon.md "wikilink")週間排名取得第三名佳績，比第一張專輯《[infinite
-    synthesis](https://zh.wikipedia.org/wiki/infinite_synthesis "wikilink")》的排名第八名提高了不少。
+  - 於9月16日[Oricon](../Page/Oricon.md "wikilink")週間排名取得第三名佳績，比第一張專輯《[infinite synthesis](https://zh.wikipedia.org/wiki/infinite_synthesis "wikilink")》的排名第八名提高了不少。
 
 ## 收錄歌曲
 

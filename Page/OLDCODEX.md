@@ -1,25 +1,21 @@
-**OLDCODEX**（）是由歌手[Ta_2與畫家YORKE](../Page/鈴木達央.md "wikilink").所組成的[日本](../Page/日本.md "wikilink")樂團，簡稱「OCD」。所屬唱片公司為
-**[Lantis](../Page/Lantis.md "wikilink")** 。
+**OLDCODEX**（）是由歌手[Ta_2與畫家YORKE](../Page/鈴木達央.md "wikilink").所組成的[日本](../Page/日本.md "wikilink")樂團，簡稱「OCD」。所屬唱片公司為 **[Lantis](../Page/Lantis.md "wikilink")** 。
 
 ## 概要
 
   - 組成的契機為[聲優](../Page/聲優.md "wikilink")[鈴木達央](../Page/鈴木達央.md "wikilink")以歌手而非聲優名義進行演唱活動的樂團計畫。
-  - 初期成員為[Ta_2（鈴木達央](../Page/鈴木達央.md "wikilink")），以及之前就曾替Ta_2撰寫過大量詞曲的、和
-    sae（三枝和人），共四人。
+  - 初期成員為[Ta_2（鈴木達央](../Page/鈴木達央.md "wikilink")），以及之前就曾替Ta_2撰寫過大量詞曲的、和 sae（三枝和人），共四人。
   - 團名是由「OLD」與「CODEX」兩個單字所組成，意思分別是「古老的」和「聖經的手抄本」。
   - 一直以來，OCD都在強勢地貫徹自己的主張：「我們不是偶像團體，我們是Band！」
 
 ### 經歷
 
-  - **2009年**組成。同年8月成立 OLDCODEX
-    的[官方myspace](https://myspace.com/oldcodex)。
+  - **2009年**組成。同年8月成立 OLDCODEX 的[官方myspace](https://myspace.com/oldcodex)。
 
 <!-- end list -->
 
   -
     **10月21日**，發行同名迷你專輯正式出道，唱片公司為 GloryHeaven（Lantis子公司）。
-    專輯封面由當時還未加入的 YORKE. 擔任設計，也參與專輯收錄的曲目『**mono
-    frontier**』[MV的演出](../Page/音樂錄影帶.md "wikilink")。
+    專輯封面由當時還未加入的 YORKE. 擔任設計，也參與專輯收錄的曲目『**mono frontier**』[MV的演出](../Page/音樂錄影帶.md "wikilink")。
 
 <!-- end list -->
 
@@ -32,8 +28,7 @@
 
 <!-- end list -->
 
-  - 2010年2月15日，在[官方myspace](https://myspace.com/oldcodex)上宣布 YoHsKE 和
-    sae 退團，從此由 Ta_2 與 R・O・N 兩人繼續活動。
+  - 2010年2月15日，在[官方myspace](https://myspace.com/oldcodex)上宣布 YoHsKE 和 sae 退團，從此由 Ta_2 與 R・O・N 兩人繼續活動。
 
 <!-- end list -->
 
@@ -45,9 +40,7 @@
 
 <!-- end list -->
 
-  - **2012年3月7日**，發行第四支單曲「Cold Hands」之後，原屬 GloryHeaven 的 OLDCODEX
-    [移籍至母公司](https://zh.wikipedia.org/wiki/移籍 "wikilink")
-    Lantis 至今。
+  - **2012年3月7日**，發行第四支單曲「Cold Hands」之後，原屬 GloryHeaven 的 OLDCODEX [移籍至母公司](https://zh.wikipedia.org/wiki/移籍 "wikilink") Lantis 至今。
 
 <!-- end list -->
 
@@ -57,8 +50,7 @@
 
   -
     這首歌由YORKE.首次擔任作詞，也是OLDCODEX第一支被使用於整季動畫的歌曲。
-    藉由這首歌，打開了本團的知名度，在[ORICON
-    公信榜首次](https://zh.wikipedia.org/wiki/公信榜 "wikilink")[登上前20名](http://www.oricon.co.jp/rank/js/w/2012-08-20/p/2/)。
+    藉由這首歌，打開了本團的知名度，在[ORICON 公信榜首次](https://zh.wikipedia.org/wiki/公信榜 "wikilink")[登上前20名](http://www.oricon.co.jp/rank/js/w/2012-08-20/p/2/)。
 
 <!-- end list -->
 
@@ -66,14 +58,11 @@
 
 <!-- end list -->
 
-  - **2012年10月15日**，於官網宣布初期成員 R・O・N 退團\[2\]\[3\]\[4\]。從此以後，由 Ta_2 和
-    YORKE. 雙人組合至今。
+  - **2012年10月15日**，於官網宣布初期成員 R・O・N 退團\[2\]\[3\]\[4\]。從此以後，由 Ta_2 和 YORKE. 雙人組合至今。
 
 <!-- end list -->
 
-  - 2012年12月26日，第二張專輯「CONTRAST SILVER」中所收錄的曲目『**HEAVEN**』由[LUNA
-    SEA的吉他手](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")
-    [INORAN](../Page/INORAN.md "wikilink") 製作。INORAN 亦出現在該曲的MV中。
+  - 2012年12月26日，第二張專輯「CONTRAST SILVER」中所收錄的曲目『**HEAVEN**』由[LUNA SEA的吉他手](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink") [INORAN](../Page/INORAN.md "wikilink") 製作。INORAN 亦出現在該曲的MV中。
 
 <!-- end list -->
 
@@ -86,11 +75,7 @@
 
 <!-- end list -->
 
-  - 2013年7月，第七支單曲『**[Rage
-    on](../Page/Rage_on.md "wikilink")**』成為[京都動畫](../Page/京都動畫.md "wikilink")所製作的動畫『[Free\!](../Page/Free!.md "wikilink")』之片頭曲。這是OLDCODEX首支被作為動畫片頭曲，也是首次登上
-    ORICON
-    公信榜[前十名](http://www.oricon.co.jp/rank/js/w/2013-07-29/)的歌曲。作曲由
-    Ta_2 擔任。
+  - 2013年7月，第七支單曲『**[Rage on](../Page/Rage_on.md "wikilink")**』成為[京都動畫](../Page/京都動畫.md "wikilink")所製作的動畫『[Free\!](../Page/Free!.md "wikilink")』之片頭曲。這是OLDCODEX首支被作為動畫片頭曲，也是首次登上 ORICON 公信榜[前十名](http://www.oricon.co.jp/rank/js/w/2013-07-29/)的歌曲。作曲由 Ta_2 擔任。
 
 <!-- end list -->
 
@@ -98,8 +83,7 @@
 
 <!-- end list -->
 
-  - 2014年2月～3月，首次舉行全國的巡迴演唱會「OLDCODEX Zepp Tour 2014 -Attract the
-    Attack-」，分別於[東京](../Page/東京都.md "wikilink")、[福岡](../Page/福岡市.md "wikilink")、[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、[難波](../Page/難波.md "wikilink")四個地區舉行。
+  - 2014年2月～3月，首次舉行全國的巡迴演唱會「OLDCODEX Zepp Tour 2014 -Attract the Attack-」，分別於[東京](../Page/東京都.md "wikilink")、[福岡](../Page/福岡市.md "wikilink")、[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、[難波](../Page/難波.md "wikilink")四個地區舉行。
 
 <!-- end list -->
 
@@ -108,8 +92,7 @@
 <!-- end list -->
 
   -
-    在 ORICON
-    公信榜上首次獲得了[周排行的第五名](http://www.oricon.co.jp/rank/ja/w/2014-04-14/)，大大的更新了本團目前的紀錄。
+    在 ORICON 公信榜上首次獲得了[周排行的第五名](http://www.oricon.co.jp/rank/ja/w/2014-04-14/)，大大的更新了本團目前的紀錄。
 
 <!-- end list -->
 
@@ -117,8 +100,7 @@
 
 <!-- end list -->
 
-  - 2015年2月11日，首次登上[日本武道館](../Page/日本武道館.md "wikilink")舉行演唱會「OLDCODEX
-    "Capture" 2015 in BUDOKAN」。
+  - 2015年2月11日，首次登上[日本武道館](../Page/日本武道館.md "wikilink")舉行演唱會「OLDCODEX "Capture" 2015 in BUDOKAN」。
 
 <!-- end list -->
 
@@ -136,70 +118,46 @@
 
 <!-- end list -->
 
-  - 2016年2月10、11日，再次登上日本武道館舉行演唱會「**OLDCODEX "Veni Vidi" in Budokan
-    2016**」。
+  - 2016年2月10、11日，再次登上日本武道館舉行演唱會「**OLDCODEX "Veni Vidi" in Budokan 2016**」。
 
 <!-- end list -->
 
   -
-    其名源自於[拉丁文](https://zh.wikipedia.org/wiki/拉丁文 "wikilink")「[Veni Vidi
-    Vici（我來，我見，我征服）](../Page/我來，我見，我征服.md "wikilink")」，去掉後面的 Vici
-    ，象徵著為了超越上次武道館演出的決心。
+    其名源自於[拉丁文](https://zh.wikipedia.org/wiki/拉丁文 "wikilink")「[Veni Vidi Vici（我來，我見，我征服）](../Page/我來，我見，我征服.md "wikilink")」，去掉後面的 Vici ，象徵著為了超越上次武道館演出的決心。
     於武道館連唱兩晚，促使本團於全國的知名度快速增長。
 
 <!-- end list -->
 
-  - 2016年2月20日、21日，首度在台灣[Legacy
-    Taipei舉行單獨演唱會](../Page/華山1914文化創意產業園區.md "wikilink")「**[OLDCODEX
-    "Veni Vidi" in
-    Taipei 2016](http://memeon-music.com/2016/02/23/oldcodex-livereport/)**」，兌現了去年在Lantis
-    Festival in Taipei對台灣粉絲的承諾。
+  - 2016年2月20日、21日，首度在台灣[Legacy Taipei舉行單獨演唱會](../Page/華山1914文化創意產業園區.md "wikilink")「**[OLDCODEX "Veni Vidi" in Taipei 2016](http://memeon-music.com/2016/02/23/oldcodex-livereport/)**」，兌現了去年在Lantis Festival in Taipei對台灣粉絲的承諾。
 
 <!-- end list -->
 
-  - 2016年4月9日，特別節目「OLDCODEX Veni
-    Vidi」於[BS富士](../Page/BS富士.md "wikilink")全國播映\[5\]，該節目紀錄了本團的經歷及日本武道館和
-    Legacy Taipei 兩場演唱會的片段及彩排過程。全長90分鐘（含廣告）。
+  - 2016年4月9日，特別節目「OLDCODEX Veni Vidi」於[BS富士](../Page/BS富士.md "wikilink")全國播映\[5\]，該節目紀錄了本團的經歷及日本武道館和 Legacy Taipei 兩場演唱會的片段及彩排過程。全長90分鐘（含廣告）。
 
 <!-- end list -->
 
-  - 2016年6月8日，發行首張單曲新歌+精選集「Fixed Engine」，在 ORICON
-    公信榜上獲得[周排行第三名](http://www.oricon.co.jp/rank/ja/w/2016-06-20/)。首次登上前三名，再次刷新了本團的紀錄。
+  - 2016年6月8日，發行首張單曲新歌+精選集「Fixed Engine」，在 ORICON 公信榜上獲得[周排行第三名](http://www.oricon.co.jp/rank/ja/w/2016-06-20/)。首次登上前三名，再次刷新了本團的紀錄。
 
 <!-- end list -->
 
-  - 2016年7月3日，出演由 [Anime Consortium
-    Japan](../Page/DAISUKI.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[索尼音樂](https://zh.wikipedia.org/wiki/索尼音樂 "wikilink")、[雅慕斯](../Page/Amuse.md "wikilink")、[萬代影視](../Page/萬代影視.md "wikilink")與[萬代南夢宮Live
-    Creative聯合舉辦的](../Page/萬代影視.md "wikilink")「Anisong World Matsuri "祭"
-    \~Japan Band Battle\~」。
+  - 2016年7月3日，出演由 [Anime Consortium Japan](../Page/DAISUKI.md "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[索尼音樂](https://zh.wikipedia.org/wiki/索尼音樂 "wikilink")、[雅慕斯](../Page/Amuse.md "wikilink")、[萬代影視](../Page/萬代影視.md "wikilink")與[萬代南夢宮Live Creative聯合舉辦的](../Page/萬代影視.md "wikilink")「Anisong World Matsuri "祭" \~Japan Band Battle\~」。
 
 <!-- end list -->
 
   -
-    場地位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")
-     ，是本團首次在北美獻唱，並與 [FLOW](../Page/FLOW_\(樂團\).md "wikilink") 對盤演出。
+    場地位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")  ，是本團首次在北美獻唱，並與 [FLOW](../Page/FLOW_\(樂團\).md "wikilink") 對盤演出。
 
 <!-- end list -->
 
-  - 2016年9月～：第六次巡演「**OLDCODEX Tour 2016-2017 "FIXED ENGINE"**」於9月24日在
-    Zepp DiverCity
-    揭開序幕，是本團首次單獨世界巡迴（[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[首爾](../Page/首爾.md "wikilink")），預定明年1月14日，將三度登上日本武道館。
+  - 2016年9月～：第六次巡演「**OLDCODEX Tour 2016-2017 "FIXED ENGINE"**」於9月24日在 Zepp DiverCity 揭開序幕，是本團首次單獨世界巡迴（[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[首爾](../Page/首爾.md "wikilink")），預定明年1月14日，將三度登上日本武道館。
 
 <!-- end list -->
 
   -
-    10月10日，於山口巡演的[安可](../Page/安可.md "wikilink")時段表演『Kick out』時， YORKE.
-    不慎摔落舞台導致挫傷昏迷\[6\]，巡演以不完美的形式收場。到院急救後已恢復意識，但經全面診查後，查出 YORKE.
-    有[腦震盪](../Page/腦震盪.md "wikilink")、[肋骨](../Page/肋骨.md "wikilink")[骨折](../Page/骨折.md "wikilink")、左[三角纖維軟骨及左](https://zh.wikipedia.org/wiki/軟骨 "wikilink")[大腿筋骨損傷](https://zh.wikipedia.org/wiki/大腿 "wikilink")\[7\]，需住院觀察，官方於12日宣布原15日舉行的福岡巡演延期，日期再議。
-    10月14日，在 YORKE. 受傷靜養和為了宣傳上海巡演的情況下， Ta_2 一個人前往
-    [Bilibili](../Page/Bilibili.md "wikilink")
-    日本分部\[8\]參與[生放送](https://zh.wikipedia.org/wiki/直播 "wikilink")，並在途中詳細說明了
-    YORKE. 的傷況\[9\]；而 YORKE. 方面，在與醫師相談後，決定在裝上骨折固定器及避免劇烈運動下復歸\[10\]。
-    10月22、23日，OCD
-    首次於[中國上海舉行巡迴演唱會](https://zh.wikipedia.org/wiki/上海 "wikilink")\[11\]，這也是本團首次登上[中國大陸的舞台](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")，屆逢出道滿7周年\[12\]，在當地帶來了極大的轟動及祝福。
-    YORKE. 因為受傷而無法做大範圍的肢體活動，在繪畫上也帶來不便，即使如此，仍然如期的完成二天的演出，且完美落幕。\[13\]
-    11月9日，因 YORKE.
-    受傷而延期的福岡巡演，確定延期至隔年3月31日\[14\]；演出中斷的山口巡演也於22日宣布加場於隔年的3月30日\[15\]。
+    10月10日，於山口巡演的[安可](../Page/安可.md "wikilink")時段表演『Kick out』時， YORKE. 不慎摔落舞台導致挫傷昏迷\[6\]，巡演以不完美的形式收場。到院急救後已恢復意識，但經全面診查後，查出 YORKE. 有[腦震盪](../Page/腦震盪.md "wikilink")、[肋骨](../Page/肋骨.md "wikilink")[骨折](../Page/骨折.md "wikilink")、左[三角纖維軟骨及左](https://zh.wikipedia.org/wiki/軟骨 "wikilink")[大腿筋骨損傷](https://zh.wikipedia.org/wiki/大腿 "wikilink")\[7\]，需住院觀察，官方於12日宣布原15日舉行的福岡巡演延期，日期再議。
+    10月14日，在 YORKE. 受傷靜養和為了宣傳上海巡演的情況下， Ta_2 一個人前往 [Bilibili](../Page/Bilibili.md "wikilink") 日本分部\[8\]參與[生放送](https://zh.wikipedia.org/wiki/直播 "wikilink")，並在途中詳細說明了 YORKE. 的傷況\[9\]；而 YORKE. 方面，在與醫師相談後，決定在裝上骨折固定器及避免劇烈運動下復歸\[10\]。
+    10月22、23日，OCD 首次於[中國上海舉行巡迴演唱會](https://zh.wikipedia.org/wiki/上海 "wikilink")\[11\]，這也是本團首次登上[中國大陸的舞台](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")，屆逢出道滿7周年\[12\]，在當地帶來了極大的轟動及祝福。 YORKE. 因為受傷而無法做大範圍的肢體活動，在繪畫上也帶來不便，即使如此，仍然如期的完成二天的演出，且完美落幕。\[13\]
+    11月9日，因 YORKE. 受傷而延期的福岡巡演，確定延期至隔年3月31日\[14\]；演出中斷的山口巡演也於22日宣布加場於隔年的3月30日\[15\]。
 
 ## 成員
 
@@ -974,13 +932,11 @@ LACA-35561<br />
 
   - (2011年7月30日)
 
-  - おれパラ2011 Lantis Presents Original Entertainment Paradise 2011
-    (2011年12月24日)
+  - おれパラ2011 Lantis Presents Original Entertainment Paradise 2011 (2011年12月24日)
 
   - A FES 2012 (2012年3月24日)
 
-  - 「[未来日記](https://zh.wikipedia.org/wiki/未来日記 "wikilink")」The Live
-    World (2012年7月29日)
+  - 「[未来日記](https://zh.wikipedia.org/wiki/未来日記 "wikilink")」The Live World (2012年7月29日)
 
   - (2012年8月31日)
 
@@ -988,13 +944,11 @@ LACA-35561<br />
 
   - KUROBAS CUP 2013 (2013年7月7日)
 
-  - [GRANRODEO](../Page/GRANRODEO.md "wikilink") FES 2013 ROUND GR
-    (2013年7月21日)
+  - [GRANRODEO](../Page/GRANRODEO.md "wikilink") FES 2013 ROUND GR (2013年7月21日)
 
   - (2013年7月27日)
 
-  - [Animelo Summer Live](../Page/Animelo_Summer_Live.md "wikilink")
-    2013 -FLAG NINE- (2013年8月24日)
+  - [Animelo Summer Live](../Page/Animelo_Summer_Live.md "wikilink") 2013 -FLAG NINE- (2013年8月24日)
 
   - BREAK OUT祭 2013 (2013年11月2日)
 
@@ -1009,8 +963,7 @@ LACA-35561<br />
       - 東京 (2014年9月14日)
       - 宮城 (2014年11月15日)
 
-  - [Animelo Summer Live](../Page/Animelo_Summer_Live.md "wikilink")
-    2014 -ONENESS- (2014年8月31日)
+  - [Animelo Summer Live](../Page/Animelo_Summer_Live.md "wikilink") 2014 -ONENESS- (2014年8月31日)
 
   - (2014年12月28日)
 
@@ -1032,9 +985,7 @@ LACA-35561<br />
 
   - Anisong World Matsuri \~Japan Band Battle\~(2016年7月3日)
 
-  - [ROCK IN JAPAN FESTIVAL
-    2016](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink")
-    (2016年8月6日)
+  - [ROCK IN JAPAN FESTIVAL 2016](https://zh.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") (2016年8月6日)
 
   - TREASURE05X 2016 -miracle waves- (2016年9月4日)
 
@@ -1044,15 +995,13 @@ LACA-35561<br />
 
   - COUNTDOWN JAPAN 16/17 (2016年12月29日)
 
-  - [BILIBILI](https://zh.wikipedia.org/wiki/BiliBili "wikilink") MACRO
-    LINK STAR PHASE x ANISONG WORLD MATSURI 2017 (2017年7月22日)
+  - [BILIBILI](https://zh.wikipedia.org/wiki/BiliBili "wikilink") MACRO LINK STAR PHASE x ANISONG WORLD MATSURI 2017 (2017年7月22日)
 
   - ROCK IN JAPAN FESTIVAL 2017 (2017年8月6日)
 
   - (2017年8月12日)
 
-  - [SUMMER SONIC TOKYO 2017](../Page/SUMMER_SONIC.md "wikilink")
-    (2017年8月20日)
+  - [SUMMER SONIC TOKYO 2017](../Page/SUMMER_SONIC.md "wikilink") (2017年8月20日)
 
   - COUNTDOWN JAPAN 17/18 (2017年12月30日)
 
@@ -1080,36 +1029,21 @@ LACA-35561<br />
 
   -
   -
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
+[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
 
-1.  [『OLDCODEX』 09版與10版](http://blog.163.com/aroma_maniac/blog/static/2049221302012817111423720)
-    ．2012年8月27日
+1.  [『OLDCODEX』 09版與10版](http://blog.163.com/aroma_maniac/blog/static/2049221302012817111423720) ．2012年8月27日
 2.  [OLDCODEXから大切なお知らせ](https://www.oldcodex.com/news_all/other/121015.html)・2012年10月15日
 3.  [Ta_2からみなさまへ](https://www.oldcodex.com/news_all/other/121015-3.html)・2012年10月15日
 4.  [YORKE.からみなさまへ](https://www.oldcodex.com/news_all/other/121015-2.html)・2012年10月15日
 5.  [BSフジにてOLDCODEX特別番組放送決定！](https://twitter.com/OLDCODEX_NEWS/status/716888789696688128)・2016年4月4日
-6.  [OLDCODEX Tour 2016 ”FIXED ENGINE”
-    山口公演に関して](https://www.oldcodex.com/news_all/live-event/161010.html)・2016年10月10日
-7.  [OLDCODEX Tour 2016-2017 "FIXED
-    ENGINE"山口公演および福岡公演に関してのお知らせ](https://www.oldcodex.com/news_all/live-event/161012-1.html)・2016年10月12日
-8.  位於[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")外神田1-15-16，[秋葉原
-    Radio 會館](../Page/秋葉原無線電會館.md "wikilink")9樓
-9.  [Live on the bilibili made Ta_2, Yorke sent a message to
-    everyone.](https://www.facebook.com/PainterYORKE/posts/1114937335260714)・2016年10月17日
-10. [本日は「HALLOWEEN PARTY2016」、「KNOTFEST
-    JAPAN 2016」のリハーサルでした。リハーサル後の2人。今週末はFIXED
-    ENGINE上海公演です。](https://twitter.com/OLDCODEX_NEWS/status/788357070256910336)・2016年10月18日
+6.  [OLDCODEX Tour 2016 ”FIXED ENGINE” 山口公演に関して](https://www.oldcodex.com/news_all/live-event/161010.html)・2016年10月10日
+7.  [OLDCODEX Tour 2016-2017 "FIXED ENGINE"山口公演および福岡公演に関してのお知らせ](https://www.oldcodex.com/news_all/live-event/161012-1.html)・2016年10月12日
+8.  位於[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")外神田1-15-16，[秋葉原 Radio 會館](../Page/秋葉原無線電會館.md "wikilink")9樓
+9.  [Live on the bilibili made Ta_2, Yorke sent a message to everyone.](https://www.facebook.com/PainterYORKE/posts/1114937335260714)・2016年10月17日
+10. [本日は「HALLOWEEN PARTY2016」、「KNOTFEST JAPAN 2016」のリハーサルでした。リハーサル後の2人。今週末はFIXED ENGINE上海公演です。](https://twitter.com/OLDCODEX_NEWS/status/788357070256910336)・2016年10月18日
 11. [OLDCODEX、ツアー上海公演でYORKE.が負傷から復帰](https://www.barks.jp/news/?id=1000133823)・2016年10月24日
 12. [OLDCODEX、復活の上海ライブ大盛況。ファンも7周年をサプライズで祝福](http://www.m-on-music.jp/0000165318/)・2016年10月24日
-13. [OLDCODEX Tour 2016-2017 "FIXED ENGINE"
-    上海公演2days、無事終了](https://www.facebook.com/PainterYORKE/photos/a.556391254448661.1073741829.556264234461363/1121803287907452/?type=3&theater)・2016年10月25日
-14. [OLDCODEX Tour 2016-2017 "FIXED ENGINE"
-    福岡公演の振替日程・払戻に関するお知らせ](https://www.oldcodex.com/news_161109.php)
-    ・2016年11月09日
-15. [OLDCODEX Tour 2016-2017 "FIXED ENGINE"
-    追加公演決定\!\!](https://www.oldcodex.com/news_all/live-event/post-1327.html)・2016年11月09日
-16. [OLDCODEX 初のデジタルシングル「One
-    Side」購入者特典決定！](https://www.oldcodex.com/news_all/release/post-1997.html)・2018年3月16日
+13. [OLDCODEX Tour 2016-2017 "FIXED ENGINE" 上海公演2days、無事終了](https://www.facebook.com/PainterYORKE/photos/a.556391254448661.1073741829.556264234461363/1121803287907452/?type=3&theater)・2016年10月25日
+14. [OLDCODEX Tour 2016-2017 "FIXED ENGINE" 福岡公演の振替日程・払戻に関するお知らせ](https://www.oldcodex.com/news_161109.php) ・2016年11月09日
+15. [OLDCODEX Tour 2016-2017 "FIXED ENGINE" 追加公演決定\!\!](https://www.oldcodex.com/news_all/live-event/post-1327.html)・2016年11月09日
+16. [OLDCODEX 初のデジタルシングル「One Side」購入者特典決定！](https://www.oldcodex.com/news_all/release/post-1997.html)・2018年3月16日

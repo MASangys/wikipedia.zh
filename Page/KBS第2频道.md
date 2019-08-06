@@ -1,6 +1,4 @@
-[KBS_2_logo.svg](https://zh.wikipedia.org/wiki/File:KBS_2_logo.svg "fig:KBS_2_logo.svg")
-**KBS第2频道**（）又称**KBS
-2TV**，是[韩国放送公社](https://zh.wikipedia.org/wiki/韩国放送公社 "wikilink")（KBS）对韩国国内的一个电视频道，主要播送戏剧、娱乐、體育和儿童类节目，其前身是[東洋廣播公司](../Page/東洋廣播公司.md "wikilink")的電視頻道。
+[KBS_2_logo.svg](https://zh.wikipedia.org/wiki/File:KBS_2_logo.svg "fig:KBS_2_logo.svg") **KBS第2频道**（）又称**KBS 2TV**，是[韩国放送公社](https://zh.wikipedia.org/wiki/韩国放送公社 "wikilink")（KBS）对韩国国内的一个电视频道，主要播送戏剧、娱乐、體育和儿童类节目，其前身是[東洋廣播公司](../Page/東洋廣播公司.md "wikilink")的電視頻道。
 
 每天播出19小時(5:55-次日凌晨1:05)，是KBS唯一一个播出广告的电视频道。
 
@@ -9,8 +7,7 @@
   - 1980年12月1日：开始在[KBS旗下播放](https://zh.wikipedia.org/wiki/KBS "wikilink")，同时取消广告播出。
   - 1980年12月3日：第二次播出的结束时间延长至00:00。
   - 1980年12月22日：开始播放彩色节目。
-  - 1981年2月2日：[KBS第3频道](https://zh.wikipedia.org/wiki/KBS第3频道 "wikilink")（KBS
-    3TV）開播，教育節目移到KBS第3頻道播出（KBS第3頻道已併入[韓國教育放送公社](https://zh.wikipedia.org/wiki/韓國教育放送公社 "wikilink")）。
+  - 1981年2月2日：[KBS第3频道](https://zh.wikipedia.org/wiki/KBS第3频道 "wikilink")（KBS 3TV）開播，教育節目移到KBS第3頻道播出（KBS第3頻道已併入[韓國教育放送公社](https://zh.wikipedia.org/wiki/韓國教育放送公社 "wikilink")）。
   - 1981年3月7日：恢复播出广告。\[1\]
   - 1982年1月25日：广告播出形式发生变化。\[2\]
   - 1986年1月1日：开始立体声播放。
@@ -27,14 +24,12 @@
   - 1999年1月4日：第二次播出开始时间提前至16:00。
   - 2000年5月1日：開始播出。
   - 2001年12月31日：开始提供数字电视。\[4\]
-  - 2005年12月1日：开通[DMB](../Page/DMB.md "wikilink")，以**U-KBS
-    HEART**的形式播出。周一至周五每天播放19.5小时，周末播放20-21小时。
+  - 2005年12月1日：开通[DMB](../Page/DMB.md "wikilink")，以**U-KBS HEART**的形式播出。周一至周五每天播放19.5小时，周末播放20-21小时。
   - 2012年12月31日：除对朝鲜宣传的发射站外，模拟电视停播。
 
 ## DMB
 
-自2005年12月1日起，KBS第2频道开始在[U-KBS之下以](https://zh.wikipedia.org/wiki/U-KBS "wikilink")**U-KBS
-HEART**的名义通过[DMB](../Page/DMB.md "wikilink")的方式播出。
+自2005年12月1日起，KBS第2频道开始在[U-KBS之下以](https://zh.wikipedia.org/wiki/U-KBS "wikilink")**U-KBS HEART**的名义通过[DMB](../Page/DMB.md "wikilink")的方式播出。
 
 ## 收看频段
 
@@ -129,23 +124,12 @@ HEART**的名义通过[DMB](../Page/DMB.md "wikilink")的方式播出。
 ## 外部链接
 
   - [KBS 편성표](http://schedule.kbs.co.kr/)－KBS 節目表
-  - [U-KBS HEART
-    편성표](https://web.archive.org/web/20101104045839/http://www.kbs.co.kr/dmb/channel/heart.html)
+  - [U-KBS HEART 편성표](https://web.archive.org/web/20101104045839/http://www.kbs.co.kr/dmb/channel/heart.html)
   - [KBS 제2TV 라이브](http://kbs2live.web.fc2.com/kbs2.html)－流媒体现场直播
 
 [分类:韩国放送公社电视频道](https://zh.wikipedia.org/wiki/分类:韩国放送公社电视频道 "wikilink")
 
-1.  [KBS 7일부터
-    광고방송](http://dna.naver.com/viewer/index.nhn?articleId=1981030600099211014&editNo=1&printCount=1&publishDate=1981-03-06&officeId=00009&pageNo=11&printNo=4615&publishType=00020)
-    《[每日经济新闻](https://zh.wikipedia.org/wiki/每日经济新闻 "wikilink")》，1981年3月6日，p.
-    11
-2.  [KBS业务重组](http://dna.naver.com/viewer/index.nhn?articleId=1982011900099209001&editNo=2&printCount=1&publishDate=1982-01-19&officeId=00009&pageNo=9&printNo=4884&publishType=00020)
-    《[每日经济新闻](https://zh.wikipedia.org/wiki/每日经济新闻 "wikilink")》，1981年1月19日，p.
-    9
-3.  [첫사랑 마지막회 65.8% 최고
-    신기록](http://newslibrary.naver.com/viewer/index.nhn?articleId=1997042200209126005&editNo=45&printCount=1&publishDate=1997-04-22&officeId=00020&pageNo=26&printNo=23515&publishType=00010)
-    《[东亚日报](https://zh.wikipedia.org/wiki/东亚日报 "wikilink")》，1997年4月22日，p.
-    26
-4.  [디지털TV 방송시대 본격
-    개막](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=001&aid=0000107925)
-    《[韩国联合通讯社](https://zh.wikipedia.org/wiki/韩国联合通讯社 "wikilink")》，2001年10月25日
+1.  [KBS 7일부터 광고방송](http://dna.naver.com/viewer/index.nhn?articleId=1981030600099211014&editNo=1&printCount=1&publishDate=1981-03-06&officeId=00009&pageNo=11&printNo=4615&publishType=00020) 《[每日经济新闻](https://zh.wikipedia.org/wiki/每日经济新闻 "wikilink")》，1981年3月6日，p. 11
+2.  [KBS业务重组](http://dna.naver.com/viewer/index.nhn?articleId=1982011900099209001&editNo=2&printCount=1&publishDate=1982-01-19&officeId=00009&pageNo=9&printNo=4884&publishType=00020) 《[每日经济新闻](https://zh.wikipedia.org/wiki/每日经济新闻 "wikilink")》，1981年1月19日，p. 9
+3.  [첫사랑 마지막회 65.8% 최고 신기록](http://newslibrary.naver.com/viewer/index.nhn?articleId=1997042200209126005&editNo=45&printCount=1&publishDate=1997-04-22&officeId=00020&pageNo=26&printNo=23515&publishType=00010) 《[东亚日报](https://zh.wikipedia.org/wiki/东亚日报 "wikilink")》，1997年4月22日，p. 26
+4.  [디지털TV 방송시대 본격 개막](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=101&oid=001&aid=0000107925) 《[韩国联合通讯社](https://zh.wikipedia.org/wiki/韩国联合通讯社 "wikilink")》，2001年10月25日

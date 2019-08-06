@@ -1,11 +1,9 @@
-**sweet
-ARMS**（）是由[野水伊織](../Page/野水伊織.md "wikilink")、[富樫美鈴](../Page/富樫美鈴.md "wikilink")、[佐土原香織](../Page/佐土原香織.md "wikilink")及[味里](../Page/味里.md "wikilink")组成的[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[声优组合](https://zh.wikipedia.org/wiki/声优组合 "wikilink")。所属[唱片公司](../Page/唱片公司.md "wikilink")为[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")。
+**sweet ARMS**（）是由[野水伊織](../Page/野水伊織.md "wikilink")、[富樫美鈴](../Page/富樫美鈴.md "wikilink")、[佐土原香織](../Page/佐土原香織.md "wikilink")及[味里](../Page/味里.md "wikilink")组成的[日本](../Page/日本.md "wikilink")[女性](../Page/女性.md "wikilink")[声优组合](https://zh.wikipedia.org/wiki/声优组合 "wikilink")。所属[唱片公司](../Page/唱片公司.md "wikilink")为[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")。
 
 ## 主要成员
 
   -
-    10月18日出生。[北海道](../Page/北海道.md "wikilink")出身。[Production
-    Ace所屬](../Page/Production_Ace.md "wikilink")。
+    10月18日出生。[北海道](../Page/北海道.md "wikilink")出身。[Production Ace所屬](../Page/Production_Ace.md "wikilink")。
 
 <!-- end list -->
 
@@ -67,10 +65,7 @@ ARMS**（）是由[野水伊織](../Page/野水伊織.md "wikilink")、[富樫�
 
   - [sweet ARMS官方网站](http://columbia.jp/artist-info/sweetarms/)
 
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink")
+[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:日本古倫美亞旗下藝人](https://zh.wikipedia.org/wiki/Category:日本古倫美亞旗下藝人 "wikilink")
 
 1.
 2.

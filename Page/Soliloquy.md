@@ -1,5 +1,4 @@
-《**Soliloquy**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[雷琛瑜的首張個人EP](https://zh.wikipedia.org/wiki/雷琛瑜 "wikilink")，於2013年9月6日推出\[1\]。專輯的第二版亦於2013年11月14日推出\[2\]，收錄另外兩首歌曲——《我就是主角》國語版《反派主角》及電影《[第一次不是你](../Page/第一次不是你.md "wikilink")》主題曲《每一次都是你》，並附送其首個個人《LIVE
-at First Sight》音樂會DVD。
+《**Soliloquy**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[雷琛瑜的首張個人EP](https://zh.wikipedia.org/wiki/雷琛瑜 "wikilink")，於2013年9月6日推出\[1\]。專輯的第二版亦於2013年11月14日推出\[2\]，收錄另外兩首歌曲——《我就是主角》國語版《反派主角》及電影《[第一次不是你](../Page/第一次不是你.md "wikilink")》主題曲《每一次都是你》，並附送其首個個人《LIVE at First Sight》音樂會DVD。
 
 ## 曲目
 
@@ -63,10 +62,7 @@ at First Sight》音樂會DVD。
 
 ## 參考文獻
 
-[Category:雷琛瑜音樂專輯](https://zh.wikipedia.org/wiki/Category:雷琛瑜音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:雷琛瑜音樂專輯](https://zh.wikipedia.org/wiki/Category:雷琛瑜音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
 1.
 

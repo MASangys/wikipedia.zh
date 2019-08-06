@@ -1,6 +1,4 @@
-《**EXIT TUNES PRESENTS Megurhythm
-feat.巡音流歌**》是2012年7月18日發表的歌聲合成軟體[VOCALOID](../Page/VOCALOID.md "wikilink")歌曲[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")。發售元為[EXIT
-TUNES](../Page/EXIT_TUNES.md "wikilink")，販售元為[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+《**EXIT TUNES PRESENTS Megurhythm feat.巡音流歌**》是2012年7月18日發表的歌聲合成軟體[VOCALOID](../Page/VOCALOID.md "wikilink")歌曲[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")。發售元為[EXIT TUNES](../Page/EXIT_TUNES.md "wikilink")，販售元為[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要
 
@@ -12,9 +10,6 @@ TUNES](../Page/EXIT_TUNES.md "wikilink")，販售元為[波麗佳音](https://zh
 
 ## 外部連結
 
-  - [EXIT TUNES PRESENTS Megurhythm feat. 巡音ルカ OFFICIAL
-    SITE](http://megurhythm.com/)
+  - [EXIT TUNES PRESENTS Megurhythm feat. 巡音ルカ OFFICIAL SITE](http://megurhythm.com/)
 
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:使用Vocaloid的歌曲](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的歌曲 "wikilink")
-[Category:合輯](https://zh.wikipedia.org/wiki/Category:合輯 "wikilink")
+[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:使用Vocaloid的歌曲](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的歌曲 "wikilink") [Category:合輯](https://zh.wikipedia.org/wiki/Category:合輯 "wikilink")

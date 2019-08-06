@@ -1,5 +1,4 @@
-[Zolpidem_structure.svg](https://zh.wikipedia.org/wiki/File:Zolpidem_structure.svg "fig:Zolpidem_structure.svg")的結構\]\]
-**Z-drugs**是一类药理作用与苯二氮類藥物类似的药物，\[1\]主要用於治療失眠，效果和苯二氮類藥物相當接近。Z-drugs由三種z開頭的物質組成：[佐匹克隆](../Page/佐匹克隆.md "wikilink")（zopiclone）、[唑吡坦](../Page/唑吡坦.md "wikilink")（zolpidem）和[扎來普隆](https://zh.wikipedia.org/wiki/扎來普隆 "wikilink")（zaleplon）。這三種物質通常透過調控BZD的次結合位（GABA-A為接受者）作用。\[2\]
+[Zolpidem_structure.svg](https://zh.wikipedia.org/wiki/File:Zolpidem_structure.svg "fig:Zolpidem_structure.svg")的結構\]\] **Z-drugs**是一类药理作用与苯二氮類藥物类似的药物，\[1\]主要用於治療失眠，效果和苯二氮類藥物相當接近。Z-drugs由三種z開頭的物質組成：[佐匹克隆](../Page/佐匹克隆.md "wikilink")（zopiclone）、[唑吡坦](../Page/唑吡坦.md "wikilink")（zolpidem）和[扎來普隆](https://zh.wikipedia.org/wiki/扎來普隆 "wikilink")（zaleplon）。這三種物質通常透過調控BZD的次結合位（GABA-A為接受者）作用。\[2\]
 
 ## 歷史
 
@@ -9,8 +8,7 @@ Z-drugs最早出現於1980和1990年間。1989年，[佐匹克隆](../Page/佐�
 
 ## 參考文獻
 
-[Category:非苯二氮䓬类](https://zh.wikipedia.org/wiki/Category:非苯二氮䓬类 "wikilink")
-[Category:催眠藥](https://zh.wikipedia.org/wiki/Category:催眠藥 "wikilink")
+[Category:非苯二氮䓬类](https://zh.wikipedia.org/wiki/Category:非苯二氮䓬类 "wikilink") [Category:催眠藥](https://zh.wikipedia.org/wiki/Category:催眠藥 "wikilink")
 
 1.
 2.

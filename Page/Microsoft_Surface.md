@@ -1,106 +1,64 @@
-****
-是由微軟設計與製造的[个人计算设备系列](https://zh.wikipedia.org/wiki/个人计算机 "wikilink")，包括[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")、[笔记本电脑和](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")[一体机](https://zh.wikipedia.org/wiki/一体机 "wikilink")。
-Surface 首次发布时有兩個版本，分別為 Surface RT 系列與 Surface Pro 系列，前者搭载 Windows RT
-系统，使用 [Nvidia](https://zh.wikipedia.org/wiki/Nvidia "wikilink")
-[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")，而後者搭载完整的 Windows 8
-系统，使用 [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
-[處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")；兩個版本皆能自
-[Windows Store](https://zh.wikipedia.org/wiki/Windows_Store "wikilink")
-安裝應用程式，但僅有 Pro 型 Surface 能夠執行 PC 版 Windows 上的軟體。\[1\]
+**** 是由微軟設計與製造的[个人计算设备系列](https://zh.wikipedia.org/wiki/个人计算机 "wikilink")，包括[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")、[笔记本电脑和](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")[一体机](https://zh.wikipedia.org/wiki/一体机 "wikilink")。 Surface 首次发布时有兩個版本，分別為 Surface RT 系列與 Surface Pro 系列，前者搭载 Windows RT 系统，使用 [Nvidia](https://zh.wikipedia.org/wiki/Nvidia "wikilink") [處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")，而後者搭载完整的 Windows 8 系统，使用 [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [處理器](https://zh.wikipedia.org/wiki/處理器 "wikilink")；兩個版本皆能自 [Windows Store](https://zh.wikipedia.org/wiki/Windows_Store "wikilink") 安裝應用程式，但僅有 Pro 型 Surface 能夠執行 PC 版 Windows 上的軟體。\[1\]
 
-這系列的產品由[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[執行長](https://zh.wikipedia.org/wiki/執行長 "wikilink")[史蒂夫·巴爾默](../Page/史蒂夫·巴爾默.md "wikilink")在2012年6月18日於[洛杉磯舉行的記者會上公開](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。同年2012年10月26日推出。\[2\]
-接下來，[微軟於](https://zh.wikipedia.org/wiki/微軟 "wikilink")2013年9月23日發表
-Surface Pro 2 及 Surface 2 ，同年10月22日上市。但在2014年6月10日發表會上卻只有公佈 [Surface Pro
-3](https://zh.wikipedia.org/wiki/Surface_Pro_3 "wikilink") ，同年8月28日上市。
+這系列的產品由[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[執行長](https://zh.wikipedia.org/wiki/執行長 "wikilink")[史蒂夫·巴爾默](../Page/史蒂夫·巴爾默.md "wikilink")在2012年6月18日於[洛杉磯舉行的記者會上公開](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")。同年2012年10月26日推出。\[2\] 接下來，[微軟於](https://zh.wikipedia.org/wiki/微軟 "wikilink")2013年9月23日發表 Surface Pro 2 及 Surface 2 ，同年10月22日上市。但在2014年6月10日發表會上卻只有公佈 [Surface Pro 3](https://zh.wikipedia.org/wiki/Surface_Pro_3 "wikilink") ，同年8月28日上市。
 
-在2015年3月31日微軟發表了 Surface 2 後繼機 [Surface
-3](../Page/Surface_3.md "wikilink") ，並搭載
-[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") 的
-[Atom](https://zh.wikipedia.org/wiki/Atom "wikilink")
-[處理器及安裝使用](https://zh.wikipedia.org/wiki/處理器 "wikilink")
-PC 版 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
-，於同年5月5日上市。象徵搭載 [Windows
-RT](../Page/Windows_RT.md "wikilink") 系統的 Surface 止於 Surface 2。
+在2015年3月31日微軟發表了 Surface 2 後繼機 [Surface 3](../Page/Surface_3.md "wikilink") ，並搭載 [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") 的 [Atom](https://zh.wikipedia.org/wiki/Atom "wikilink") [處理器及安裝使用](https://zh.wikipedia.org/wiki/處理器 "wikilink") PC 版 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") ，於同年5月5日上市。象徵搭載 [Windows RT](../Page/Windows_RT.md "wikilink") 系統的 Surface 止於 Surface 2。
 
-目前（西元2015年6月之後） Surface 及 Surface Pro 系列均安裝 PC 版 Windows（8.1或10）
-家用或專業版，走向入門及進階版。
+目前（西元2015年6月之後） Surface 及 Surface Pro 系列均安裝 PC 版 Windows（8.1或10） 家用或專業版，走向入門及進階版。
 
 ## Surface系列
 
-**Surface RT**
-2012年6月，[微軟推出了執行](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows
-8 RT的Surface](https://zh.wikipedia.org/wiki/Windows_8_RT "wikilink") RT。
+**Surface RT**  2012年6月，[微軟推出了執行](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows 8 RT的Surface](https://zh.wikipedia.org/wiki/Windows_8_RT "wikilink") RT。
 
 **Surface 2**
 
-2013年9月，微軟推出了Surface 2，執行Windows RT 8.1。照理该产品應命名为Surface RT
-2，但微软为了摆脱第一代Surface RT的不良口碑，将其命名为Surface 2。
+2013年9月，微軟推出了Surface 2，執行Windows RT 8.1。照理该产品應命名为Surface RT 2，但微软为了摆脱第一代Surface RT的不良口碑，将其命名为Surface 2。
 
-**Surface 3**  2015年3月31日，微軟發表第三代的Surface，放棄了原先的Windows RT
-8.1，改為採用與PC平台相同的Windows 8.1和Windows 10。
+**Surface 3**  2015年3月31日，微軟發表第三代的Surface，放棄了原先的Windows RT 8.1，改為採用與PC平台相同的Windows 8.1和Windows 10。
 
 ## Surface Pro系列
 
 **Surface Pro**
 
-2013年2月，[微軟推出了運行](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows 8
-Pro的Surface](https://zh.wikipedia.org/wiki/Windows_8_Pro "wikilink")
-Pro。
+2013年2月，[微軟推出了運行](https://zh.wikipedia.org/wiki/微軟 "wikilink")[Windows 8 Pro的Surface](https://zh.wikipedia.org/wiki/Windows_8_Pro "wikilink") Pro。
 
-第一代Surface Pro配備了10.6" ClearType全高清螢幕，4GB記憶體，64GB或128GB固態硬盤。比起[Surface
-第一代](https://zh.wikipedia.org/wiki/Microsoft_Surface_\(第一代\) "wikilink")，USB接口由2.0升級到3.0。
+第一代Surface Pro配備了10.6" ClearType全高清螢幕，4GB記憶體，64GB或128GB固態硬盤。比起[Surface 第一代](https://zh.wikipedia.org/wiki/Microsoft_Surface_\(第一代\) "wikilink")，USB接口由2.0升級到3.0。
 
 **Surface Pro 2**
 
-2013年10月，微軟推出了Surface Pro 2，運行Windows 8.1 Pro，處理器升級到Intel第四代Core
-i5，4GB或8GB記憶體，提供64/128/256/512GB固態硬盤選擇。
+2013年10月，微軟推出了Surface Pro 2，運行Windows 8.1 Pro，處理器升級到Intel第四代Core i5，4GB或8GB記憶體，提供64/128/256/512GB固態硬盤選擇。
 
-**Surface Pro 3**  2014年5月，微軟推出了Surface Pro
-3，配備12吋2160x1440螢幕，處理器提採用Intel Core
-i3/i5/i7。Surface Pro 3採用新的電源介面。
+**Surface Pro 3**  2014年5月，微軟推出了Surface Pro 3，配備12吋2160x1440螢幕，處理器提採用Intel Core i3/i5/i7。Surface Pro 3採用新的電源介面。
 
 Surface Pro在中國大陆另有兩個版本，Surface專業版和Surface中文版，區别在於預载的Windows和Office版本。
 
 Surface專業版預装Windows 8專業版及Office 365家庭高级版一個月試用。
 
-Surface中國版預装Windows 8简体中文版，無法更改為其他語言，及Office
-2013家庭和學生版。\[3\]但是由於中國政策的限制，中國版Surface無法通過[TPM使用](../Page/可信平台模块.md "wikilink")[BitLocker](../Page/BitLocker.md "wikilink")加密數據。\[4\]
+Surface中國版預装Windows 8简体中文版，無法更改為其他語言，及Office 2013家庭和學生版。\[3\]但是由於中國政策的限制，中國版Surface無法通過[TPM使用](../Page/可信平台模块.md "wikilink")[BitLocker](../Page/BitLocker.md "wikilink")加密數據。\[4\]
 
-**Surface Pro 4**  2015年10月，微软推出了Surface Pro 4，配备12.3吋2736 x
-1824螢幕，處理器提採用第6代Intel Core M3/i5/i7。同时推出了新的Surface
-Pen及重新设计的配备指纹识别模块的Type cover。
+**Surface Pro 4**  2015年10月，微软推出了Surface Pro 4，配备12.3吋2736 x 1824螢幕，處理器提採用第6代Intel Core M3/i5/i7。同时推出了新的Surface Pen及重新设计的配备指纹识别模块的Type cover。
 
-**Surface Pro (第五代)**  2017年5月，微软推出了新一代的Surface Pro，处理器升级到第7代Intel酷睿Kaby
-Lake架构M3/i5/i7处理器，电池容量增加，配套的触控笔Surface Pen升级到4096级压感。
+**Surface Pro (第五代)**  2017年5月，微软推出了新一代的Surface Pro，处理器升级到第7代Intel酷睿Kaby Lake架构M3/i5/i7处理器，电池容量增加，配套的触控笔Surface Pen升级到4096级压感。
 
 ## Surface Book系列
 
-**Surface Book** 2015年10月，在发布Surface Pro 4的同时，微软推出了Surface系列新产品线Surface
-Book。
+**Surface Book** 2015年10月，在发布Surface Pro 4的同时，微软推出了Surface系列新产品线Surface Book。
 
-Surface Book
-是一款可变形的[笔记本电脑](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")，最大的亮点在于其屏幕部分可配合Surface
-Pen作为独立的平板电脑与机身分离，亦可反向插拔；同时，键盘底座中可以选配独立[显卡](https://zh.wikipedia.org/wiki/显卡 "wikilink")，支持与电脑主体的热插拔。
+Surface Book 是一款可变形的[笔记本电脑](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")，最大的亮点在于其屏幕部分可配合Surface Pen作为独立的平板电脑与机身分离，亦可反向插拔；同时，键盘底座中可以选配独立[显卡](https://zh.wikipedia.org/wiki/显卡 "wikilink")，支持与电脑主体的热插拔。
 
 [Surface Book 2于](../Page/Surface_Book_2.md "wikilink")2017年10月17日发布。
 
 ## Surface Studio系列
 
-**Surface Studio** 2016年10月26日，在Surface新品发布会上公布了Surface系列新成员Surface
-Studio。
+**Surface Studio** 2016年10月26日，在Surface新品发布会上公布了Surface系列新成员Surface Studio。
 
-Surface Studio是一款一体式电脑，采用了28寸可触摸式显示屏，其分辨率超过4K。支持Surface
-Pen以及触控旋钮附件[Surface
-Dial](https://zh.wikipedia.org/wiki/Surface_Dial "wikilink")。\[5\]
+Surface Studio是一款一体式电脑，采用了28寸可触摸式显示屏，其分辨率超过4K。支持Surface Pen以及触控旋钮附件[Surface Dial](https://zh.wikipedia.org/wiki/Surface_Dial "wikilink")。\[5\]
 
 ## Surface Go系列
 
 **Surface Go** 2018年7月10日，微软公布了Surface系列新成员Surface GO。主打中低端市场。
 
-Surface Go采用10英寸屏幕，保持3:2的显示比例。相应的Type cover也变小。处理器使用的是英特尔 Pentium Gold
-4415Y
-双核处理器，可以选用4或8GB的内存，而存储容量也有从64G到256G等多种选项，唯注意64G版本使用的是[eMMC闪存而非其他容量版本所使用的](https://zh.wikipedia.org/wiki/eMMC "wikilink")[NVMe固态硬盘](../Page/NVM_Express.md "wikilink")。新增USB
-Type-C接口，支持Surface Pen等系列配件。\[6\]
+Surface Go采用10英寸屏幕，保持3:2的显示比例。相应的Type cover也变小。处理器使用的是英特尔 Pentium Gold 4415Y 双核处理器，可以选用4或8GB的内存，而存储容量也有从64G到256G等多种选项，唯注意64G版本使用的是[eMMC闪存而非其他容量版本所使用的](https://zh.wikipedia.org/wiki/eMMC "wikilink")[NVMe固态硬盘](../Page/NVM_Express.md "wikilink")。新增USB Type-C接口，支持Surface Pen等系列配件。\[6\]
 
 ## 上市日期
 
@@ -474,17 +432,13 @@ Mini DisplayPort<br />
 
 ## Surface 附件
 
-除了 Surface 主机以外，微软亦提供了一系列附件，以充分发挥 Surface 的功能。需要注意的是，下列 Surface
-配件除了笔以外均为单独销售，并非 Surface 随机附赠的产品。
+除了 Surface 主机以外，微软亦提供了一系列附件，以充分发挥 Surface 的功能。需要注意的是，下列 Surface 配件除了笔以外均为单独销售，并非 Surface 随机附赠的产品。
 
 ### 键盘保护盖
 
-微軟在 Surface 发布伊始，便提供了觸控鍵盤和實體鍵盤两种保護蓋；二者均通过磁力吸附连接到 Surface
-底部键盘接口，并可以折叠；而在打開時，保護蓋可以作为键盘使用。觸控鍵盤保護蓋較薄，支持手勢操作，厚度為3毫米，並有五種顏色。實體鍵盤保護蓋較厚，能夠提供普通機械式鍵盤的操作體驗，厚度為5毫米。其内部配有陀螺儀和加速度計傳感器，以偵察使用者使用情況，避免翻到背後时誤觸鍵盤。\[10\]
+微軟在 Surface 发布伊始，便提供了觸控鍵盤和實體鍵盤两种保護蓋；二者均通过磁力吸附连接到 Surface 底部键盘接口，并可以折叠；而在打開時，保護蓋可以作为键盘使用。觸控鍵盤保護蓋較薄，支持手勢操作，厚度為3毫米，並有五種顏色。實體鍵盤保護蓋較厚，能夠提供普通機械式鍵盤的操作體驗，厚度為5毫米。其内部配有陀螺儀和加速度計傳感器，以偵察使用者使用情況，避免翻到背後时誤觸鍵盤。\[10\]
 
-随着 Surface 系列的发展，键盘盖也适应 Surface 主机屏幕大小的变化而推出了多种新版本，并增加了新的 Alcantara
-材质（银灰色版）。
-[缩略图](https://zh.wikipedia.org/wiki/File:Surface_键盘盖（银灰色版）.jpg "fig:缩略图")
+随着 Surface 系列的发展，键盘盖也适应 Surface 主机屏幕大小的变化而推出了多种新版本，并增加了新的 Alcantara 材质（银灰色版）。 [缩略图](https://zh.wikipedia.org/wiki/File:Surface_键盘盖（银灰色版）.jpg "fig:缩略图")
 
 ### 鼠标
 
@@ -492,8 +446,7 @@ Mini DisplayPort<br />
 
 ### Surface 擴充基座、轉接器與電源
 
-微软推出了数种适应不同型号 Surface 的外接扩展坞，以解决 Surface 自身有线网络接口缺失的问题，并且可以进一步扩增其 USB
-接口。
+微软推出了数种适应不同型号 Surface 的外接扩展坞，以解决 Surface 自身有线网络接口缺失的问题，并且可以进一步扩增其 USB 接口。
 
 ### Surface 手寫筆
 
@@ -507,14 +460,11 @@ Mini DisplayPort<br />
 
 </dl>
 
-每一代 Surface 均配备了专门的笔配件，它也是唯一的随机附赠的 Surface 附件（ 2017 年发布的 Surface Book 2
-和 Surface Laptop 不附赠笔）。笔使用一节 AAAA 电池（6號）和一颗微型电子驱动，依靠蓝牙连接到 Surface
-。其笔尖可以作为触控设备、墨迹设备等使用，笔侧端和尾端各有一个按键，侧端按键可以作为鼠标右键使用，尾端按键可以自定义单击、双击及三击的响应操作。此外，在墨迹书写时亦可以倒转笔，将尾端作为橡皮擦使用。
+每一代 Surface 均配备了专门的笔配件，它也是唯一的随机附赠的 Surface 附件（ 2017 年发布的 Surface Book 2 和 Surface Laptop 不附赠笔）。笔使用一节 AAAA 电池（6號）和一颗微型电子驱动，依靠蓝牙连接到 Surface 。其笔尖可以作为触控设备、墨迹设备等使用，笔侧端和尾端各有一个按键，侧端按键可以作为鼠标右键使用，尾端按键可以自定义单击、双击及三击的响应操作。此外，在墨迹书写时亦可以倒转笔，将尾端作为橡皮擦使用。
 
 ### Surface Dial
 
-微软在发布 Surface Studio 时一同推出了 Surface Dial
-附件，它是一个小型圆柱状的新硬件，具有触摸响应功能，可以吸附在屏幕上进行操作。
+微软在发布 Surface Studio 时一同推出了 Surface Dial 附件，它是一个小型圆柱状的新硬件，具有触摸响应功能，可以吸附在屏幕上进行操作。
 
 ### 其他
 
@@ -522,18 +472,9 @@ Surface Studio 作为该系列顶级的一体机设备，随机附赠了单独�
 
 ## 相关
 
-由於 [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink") 和
-[Android](../Page/Android.md "wikilink")
-等平板電腦的崛起及競爭，微軟打破了其37年不生產全套電腦硬體、依靠電腦廠商製造硬體並配套安裝“Windows”作業系統的歷史，推出Surface平板電腦。微軟的官方回應是“就如20多年前推出微軟滑鼠一樣，在市場最需要微軟產品的時侯，推出自有品牌。”但這意味著微軟與[惠普](../Page/惠普.md "wikilink")等公司可能由原本親密的硬體夥伴變成競爭對手。
+由於 [iPad](https://zh.wikipedia.org/wiki/iPad "wikilink") 和 [Android](../Page/Android.md "wikilink") 等平板電腦的崛起及競爭，微軟打破了其37年不生產全套電腦硬體、依靠電腦廠商製造硬體並配套安裝“Windows”作業系統的歷史，推出Surface平板電腦。微軟的官方回應是“就如20多年前推出微軟滑鼠一樣，在市場最需要微軟產品的時侯，推出自有品牌。”但這意味著微軟與[惠普](../Page/惠普.md "wikilink")等公司可能由原本親密的硬體夥伴變成競爭對手。
 
-微軟同時也開發 [Windows
-Store](https://zh.wikipedia.org/wiki/Windows_Store "wikilink")。Windows
-RT 使用者只能透過 Windows Store
-安裝付費或免費軟體，有助打造軟體生態圈，使之成為微軟另一項收入來源。\[11\]当前，Windows
-RT 系列已经终结，而微软亦尝试将 Windows Store 打造成包含传统 Win32 应用的分发平台，而不仅仅是 XAP 或 UWP
-应用。例如，新发布的 Surface Laptop 搭载 Windows 10 S 系统，便只能够安装应用商店应用，但与初代 RT
-系列 Surface 不同的是， Win32 应用亦可以安装在 Windows 10 S 上，只要该应用在 Windows Store
-上架。
+微軟同時也開發 [Windows Store](https://zh.wikipedia.org/wiki/Windows_Store "wikilink")。Windows RT 使用者只能透過 Windows Store 安裝付費或免費軟體，有助打造軟體生態圈，使之成為微軟另一項收入來源。\[11\]当前，Windows RT 系列已经终结，而微软亦尝试将 Windows Store 打造成包含传统 Win32 应用的分发平台，而不仅仅是 XAP 或 UWP 应用。例如，新发布的 Surface Laptop 搭载 Windows 10 S 系统，便只能够安装应用商店应用，但与初代 RT 系列 Surface 不同的是， Win32 应用亦可以安装在 Windows 10 S 上，只要该应用在 Windows Store 上架。
 
 ## 時間線
 
@@ -541,31 +482,21 @@ RT 系列已经终结，而微软亦尝试将 Windows Store 打造成包含传�
 
 ## 外部連結
 
-  - [Microsoft
-    Surface](http://www.microsoft.com/surface/en/us/default.aspx)（官方網站）
+  - [Microsoft Surface](http://www.microsoft.com/surface/en/us/default.aspx)（官方網站）
 
-  - [Microsoft
-    Surface平板電腦](http://www.microsoft.com/surface/zh-tw)（官方網站）
+  - [Microsoft Surface平板電腦](http://www.microsoft.com/surface/zh-tw)（官方網站）
 
   -
-[Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink")
-[Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink")
-[Category:Microsoft_Surface](https://zh.wikipedia.org/wiki/Category:Microsoft_Surface "wikilink")
-[Category:2012年面世的產品](https://zh.wikipedia.org/wiki/Category:2012年面世的產品 "wikilink")
+[Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink") [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink") [Category:Microsoft_Surface](https://zh.wikipedia.org/wiki/Category:Microsoft_Surface "wikilink") [Category:2012年面世的產品](https://zh.wikipedia.org/wiki/Category:2012年面世的產品 "wikilink")
 
 1.  <http://www.makeuseof.com/tag/difference-windows-8-windows-rt/>
 2.  <http://www.pcworld.com/article/257840/microsoft_announces_new_surface_tablet_pc.html>
 3.  <http://www.microsoft.com/Surface/zh-CN/which-surface-is-right-for-you>
 4.
 5.
-6.  [Microsoft’s Surface Go tablet has a 10-inch screen and starts at
-    $399](https://www.theverge.com/circuitbreaker/2018/7/9/17550252/microsofts-surface-go-tablet-10-inch-screen-399).TheVerge.2018-07-09.\[2018-07-15\].
-7.  [Microsoft's Surface Pro 3 is designed to destroy the
-    laptop](http://www.theverge.com/2014/5/20/5734102/surface-pro-3-features-pricing-announcement)
-8.  [12 吋的 Surface Pro 3 正式發表：Microsoft
-    史上最大的平板](http://chinese.engadget.com/2014/05/20/microsoft-surface-pro-3/)
-9.   Connections &
-    expansions|accessdate=2018-06-11|work=www.microsoft.com|language=en-us}}
-10. <http://www.usatoday.com/tech/news/story/2012-06-18/microsoft-surface-tablet/55676790/1>
-    Usatoday.com. November 28, 2011. Retrieved June 19, 2012.
+6.  [Microsoft’s Surface Go tablet has a 10-inch screen and starts at $399](https://www.theverge.com/circuitbreaker/2018/7/9/17550252/microsofts-surface-go-tablet-10-inch-screen-399).TheVerge.2018-07-09.\[2018-07-15\].
+7.  [Microsoft's Surface Pro 3 is designed to destroy the laptop](http://www.theverge.com/2014/5/20/5734102/surface-pro-3-features-pricing-announcement)
+8.  [12 吋的 Surface Pro 3 正式發表：Microsoft 史上最大的平板](http://chinese.engadget.com/2014/05/20/microsoft-surface-pro-3/)
+9.   Connections & expansions|accessdate=2018-06-11|work=www.microsoft.com|language=en-us}}
+10. <http://www.usatoday.com/tech/news/story/2012-06-18/microsoft-surface-tablet/55676790/1> Usatoday.com. November 28, 2011. Retrieved June 19, 2012.
 11. <http://news.xinhuanet.com/world/2012-06/20/c_123307880.htm>

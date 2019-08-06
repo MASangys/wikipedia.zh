@@ -1,12 +1,4 @@
-**HTC Desire
-610**是[宏達電於](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2014年MWC中發表預載了[Android](../Page/Android.md "wikilink")
-4.4.2及[HTC Sense](../Page/HTC_Sense.md "wikilink")
-6的[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。使用了高通四核心Snapdragon
-400處理器、4.7吋960x540 Super LCD2螢幕、F/2.4的800萬畫素相機、130萬畫素前置相機、HTC BoomSound™
-立體聲音響，內建8GB [ROM](../Page/唯讀記憶體.md "wikilink")、1GB
-[RAM](https://zh.wikipedia.org/wiki/隨機存取存儲器 "wikilink")，支援[microSD最高可以擴充到](https://zh.wikipedia.org/wiki/microSD "wikilink")128GB。除擁有HTC
-BlinkFeed™ 首頁外，更提供Video
-Highlights生活微電影能將拍攝的照片與影片自動轉輯為精華影片，內建多種主題特效與配樂及多種相片編輯功能，慢動作影片還可任意選擇片段，加以慢速播放。\[1\]
+**HTC Desire 610**是[宏達電於](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2014年MWC中發表預載了[Android](../Page/Android.md "wikilink") 4.4.2及[HTC Sense](../Page/HTC_Sense.md "wikilink") 6的[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。使用了高通四核心Snapdragon 400處理器、4.7吋960x540 Super LCD2螢幕、F/2.4的800萬畫素相機、130萬畫素前置相機、HTC BoomSound™ 立體聲音響，內建8GB [ROM](../Page/唯讀記憶體.md "wikilink")、1GB [RAM](https://zh.wikipedia.org/wiki/隨機存取存儲器 "wikilink")，支援[microSD最高可以擴充到](https://zh.wikipedia.org/wiki/microSD "wikilink")128GB。除擁有HTC BlinkFeed™ 首頁外，更提供Video Highlights生活微電影能將拍攝的照片與影片自動轉輯為精華影片，內建多種主題特效與配樂及多種相片編輯功能，慢動作影片還可任意選擇片段，加以慢速播放。\[1\]
 
 ## 詳細規格
 
@@ -119,13 +111,9 @@ F2.4 光圈<br />
 
 ## 外部連結
 
-  - [HTC Desire 610
-    HTC台灣官網](http://www.htc.com/tw/smartphones/htc-desire-610/)
+  - [HTC Desire 610 HTC台灣官網](http://www.htc.com/tw/smartphones/htc-desire-610/)
 
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
+[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
 
 1.
 2.  [HTC Desire 610](http://www.htc.com/tw/smartphones/htc-desire-610/)

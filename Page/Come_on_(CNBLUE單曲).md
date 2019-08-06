@@ -1,23 +1,14 @@
-《**Come
-on**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第六張單曲，由[李宗泫](../Page/李宗泫.md "wikilink")作曲、[鄭容和](../Page/鄭容和.md "wikilink")填詞、[玉井健二日語翻譯](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")。這單曲在2012年8月1日以3個不同版本：CD+DVD初回限定盤\[1\]、通常盤\[2\]\[3\]及Lawson限定盤\[4\]發行。這也是他們第三張由[華納唱片
-(日本)發行的單曲](../Page/華納音樂集團.md "wikilink")。
+《**Come on**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第六張單曲，由[李宗泫](../Page/李宗泫.md "wikilink")作曲、[鄭容和](../Page/鄭容和.md "wikilink")填詞、[玉井健二日語翻譯](https://zh.wikipedia.org/wiki/玉井健二 "wikilink")。這單曲在2012年8月1日以3個不同版本：CD+DVD初回限定盤\[1\]、通常盤\[2\]\[3\]及Lawson限定盤\[4\]發行。這也是他們第三張由[華納唱片 (日本)發行的單曲](../Page/華納音樂集團.md "wikilink")。
 
 ## 背景
 
-此單曲由CNBLUE韓國公司FNC媒體方面在2012年6月12日公布發行消息\[5\]。同月25日，[朝日電視台](../Page/朝日電視台.md "wikilink")宣布7月起將採用《Come
-on》為其節目《music ru TV》的主題曲\[6\]。到7月2日，單曲曲目、版本及封面的資料與《Come
-on》的音樂錄影帶預覽同時公開\[7\]。同日公司方面也公布了CNBLUE首張日文正規專輯將在8月29日發行\[8\]\[9\]，該專輯將包含這單曲的歌曲以及2張單曲《[Where
-you are](../Page/Where_you_are_\(CNBLUE單曲\).md "wikilink")》和《[In My
-Head](../Page/In_My_Head_\(CNBLUE單曲\).md "wikilink")》的歌曲。
+此單曲由CNBLUE韓國公司FNC媒體方面在2012年6月12日公布發行消息\[5\]。同月25日，[朝日電視台](../Page/朝日電視台.md "wikilink")宣布7月起將採用《Come on》為其節目《music ru TV》的主題曲\[6\]。到7月2日，單曲曲目、版本及封面的資料與《Come on》的音樂錄影帶預覽同時公開\[7\]。同日公司方面也公布了CNBLUE首張日文正規專輯將在8月29日發行\[8\]\[9\]，該專輯將包含這單曲的歌曲以及2張單曲《[Where you are](../Page/Where_you_are_\(CNBLUE單曲\).md "wikilink")》和《[In My Head](../Page/In_My_Head_\(CNBLUE單曲\).md "wikilink")》的歌曲。
 
-不同版本的《Come on》單曲都使用了不同的封面以及含有不同的內容：初回限定盤包括單曲CD及收錄《Come
-on》音樂錄影帶與製作花絮的一片DVD，另附贈一本44頁的相冊、4折疊迷你海報、一張贈送特別贈品的卡序列碼並以布袋包裝；通常盤則包括單曲CD與卡序列碼；而Lawson限定盤則包括單曲CD與5枚明信片，只在[羅森便利店銷售](../Page/羅森_\(便利店\).md "wikilink")。
+不同版本的《Come on》單曲都使用了不同的封面以及含有不同的內容：初回限定盤包括單曲CD及收錄《Come on》音樂錄影帶與製作花絮的一片DVD，另附贈一本44頁的相冊、4折疊迷你海報、一張贈送特別贈品的卡序列碼並以布袋包裝；通常盤則包括單曲CD與卡序列碼；而Lawson限定盤則包括單曲CD與5枚明信片，只在[羅森便利店銷售](../Page/羅森_\(便利店\).md "wikilink")。
 
 ## 單曲內容
 
-單曲所有歌曲由成員[鄭容和](../Page/鄭容和.md "wikilink")作詞，《Come
-on》一曲由玉井健二翻譯為日語歌詞，成員[李宗泫](../Page/李宗泫.md "wikilink")負責作曲。《Wake
-Up》由Ryo及容和作曲；而《My Miracle》就由Ryo及宗泫作曲。
+單曲所有歌曲由成員[鄭容和](../Page/鄭容和.md "wikilink")作詞，《Come on》一曲由玉井健二翻譯為日語歌詞，成員[李宗泫](../Page/李宗泫.md "wikilink")負責作曲。《Wake Up》由Ryo及容和作曲；而《My Miracle》就由Ryo及宗泫作曲。
 
 ## 音樂錄影帶
 
@@ -27,8 +18,7 @@ Up》由Ryo及容和作曲；而《My Miracle》就由Ryo及宗泫作曲。
 
 ## 銷售榜單成績
 
-單曲推出首日單曲以賣出16,532張登上了Oricon單曲日榜第4名，同時《Come
-on》也以一週銷售33,911張登上了Oricon單曲週榜第5名。
+單曲推出首日單曲以賣出16,532張登上了Oricon單曲日榜第4名，同時《Come on》也以一週銷售33,911張登上了Oricon單曲週榜第5名。
 
 ### Oricon公信榜
 
@@ -53,8 +43,7 @@ on》也以一週銷售33,911張登上了Oricon單曲週榜第5名。
 
 ## 參考資料
 
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:CNBLUE歌曲](https://zh.wikipedia.org/wiki/Category:CNBLUE歌曲 "wikilink")
+[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:CNBLUE歌曲](https://zh.wikipedia.org/wiki/Category:CNBLUE歌曲 "wikilink")
 
 1.
 

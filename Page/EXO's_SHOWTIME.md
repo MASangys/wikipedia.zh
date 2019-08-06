@@ -1,6 +1,4 @@
-《**EXO's SHOWTIME**》（）是韓國[SM
-Entertainment旗下組合](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")[EXO](../Page/EXO.md "wikilink")的首個綜藝節目，在節目中有著許多關於[EXO](../Page/EXO.md "wikilink")日常生活的小趣事。節目於2013年11月28日至2014年2月13日，逢星期四在[MBC
-every1頻道播出](../Page/MBC_Plus_Media.md "wikilink")。
+《**EXO's SHOWTIME**》（）是韓國[SM Entertainment旗下組合](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")[EXO](../Page/EXO.md "wikilink")的首個綜藝節目，在節目中有著許多關於[EXO](../Page/EXO.md "wikilink")日常生活的小趣事。節目於2013年11月28日至2014年2月13日，逢星期四在[MBC every1頻道播出](../Page/MBC_Plus_Media.md "wikilink")。
 
 ## 播放清單
 
@@ -108,7 +106,4 @@ every1頻道播出](../Page/MBC_Plus_Media.md "wikilink")。
 </tbody>
 </table>
 
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink")
-[Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")
-[Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink") [Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink") [Category:偶像節目](https://zh.wikipedia.org/wiki/Category:偶像節目 "wikilink")

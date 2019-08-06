@@ -1,39 +1,31 @@
-**karory**（12月8日 -
-）是日本的女性[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")，游戏[原画家](https://zh.wikipedia.org/wiki/原画家 "wikilink")，[插画家](https://zh.wikipedia.org/wiki/插画家 "wikilink")。[三重县](../Page/三重县.md "wikilink")出身，2008年以自由画师身份出道。karory运营着名为“KAROMIX”的[同人社团](https://zh.wikipedia.org/wiki/同人社团 "wikilink")。
+**karory**（12月8日 - ）是日本的女性[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")，游戏[原画家](https://zh.wikipedia.org/wiki/原画家 "wikilink")，[插画家](https://zh.wikipedia.org/wiki/插画家 "wikilink")。[三重县](../Page/三重县.md "wikilink")出身，2008年以自由画师身份出道。karory运营着名为“KAROMIX”的[同人社团](https://zh.wikipedia.org/wiki/同人社团 "wikilink")。
 
 ## 主要作品
 
 ### 游戏
 
-  - [Supreme
-    Candy](../Page/Supreme_Candy.md "wikilink")（[枕](https://zh.wikipedia.org/wiki/枕_\(游戏品牌\) "wikilink")，原画）
-  - [美好的日子
-    ～不连续存在～](https://zh.wikipedia.org/wiki/美好的日子_～不连续存在～ "wikilink")（[KeroQ](../Page/KeroQ.md "wikilink")，原画）
+  - [Supreme Candy](../Page/Supreme_Candy.md "wikilink")（[枕](https://zh.wikipedia.org/wiki/枕_\(游戏品牌\) "wikilink")，原画）
+  - [美好的日子 ～不连续存在～](https://zh.wikipedia.org/wiki/美好的日子_～不连续存在～ "wikilink")（[KeroQ](../Page/KeroQ.md "wikilink")，原画）
   - [倏然之间恋上你](https://zh.wikipedia.org/wiki/倏然之间恋上你 "wikilink")（[枕](https://zh.wikipedia.org/wiki/枕_\(游戏品牌\) "wikilink")，原画）
   - [由夢想與色彩組成的](../Page/由夢想與色彩組成的.md "wikilink")（[feng](https://zh.wikipedia.org/wiki/feng "wikilink")、原画）
 
 ### 小说插画
 
-  - [女裝皇家教師](https://zh.wikipedia.org/wiki/女裝皇家教師 "wikilink")（著：[野村美月](../Page/野村美月.md "wikilink")，[Fami通文庫](../Page/Fami通文庫.md "wikilink")、FB
-    Online連載中）
+  - [女裝皇家教師](https://zh.wikipedia.org/wiki/女裝皇家教師 "wikilink")（著：[野村美月](../Page/野村美月.md "wikilink")，[Fami通文庫](../Page/Fami通文庫.md "wikilink")、FB Online連載中）
 
   - （著：琴平稜，[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")）
 
 ### 插绘
 
-  - （[ASCII Media
-    Works](../Page/ASCII_Media_Works.md "wikilink")《[電撃萌王](https://zh.wikipedia.org/wiki/電撃萌王 "wikilink")》连载，读者参与计划）
+  - （[ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")《[電撃萌王](https://zh.wikipedia.org/wiki/電撃萌王 "wikilink")》连载，读者参与计划）
 
-  - [旋风管家\!\!Trading Card
-    Game](https://zh.wikipedia.org/wiki/旋风管家 "wikilink")（[科乐美数位娱乐](https://zh.wikipedia.org/wiki/科乐美数位娱乐 "wikilink")）
+  - [旋风管家\!\!Trading Card Game](https://zh.wikipedia.org/wiki/旋风管家 "wikilink")（[科乐美数位娱乐](https://zh.wikipedia.org/wiki/科乐美数位娱乐 "wikilink")）
 
   - [電擊萌王](../Page/電擊萌王.md "wikilink")卷首插绘（2011年6月 -）
 
-  - karory的表情（脸）（《[E☆2](https://zh.wikipedia.org/wiki/E☆2 "wikilink")》Vol.26
-    - Vol.29）
+  - karory的表情（脸）（《[E☆2](https://zh.wikipedia.org/wiki/E☆2 "wikilink")》Vol.26 - Vol.29）
 
-  - karory的素颜（karory）（《[E☆2](https://zh.wikipedia.org/wiki/E☆2 "wikilink")》Vol.34
-    -）
+  - karory的素颜（karory）（《[E☆2](https://zh.wikipedia.org/wiki/E☆2 "wikilink")》Vol.34 -）
 
   - 村西美雪 （）
 
@@ -63,10 +55,6 @@
   - [同人社团“KAROMIX”相关信息](https://web.archive.org/web/20121021030519/http://c10010493.circle.ms/oc/CircleProfile.aspx)
 
   -
-[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
-[Category:电子游戏绘图及原画家](https://zh.wikipedia.org/wiki/Category:电子游戏绘图及原画家 "wikilink")
-[Category:日本漫画家](https://zh.wikipedia.org/wiki/Category:日本漫画家 "wikilink")
-[Category:三重县出身人物](https://zh.wikipedia.org/wiki/Category:三重县出身人物 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink") [Category:电子游戏绘图及原画家](https://zh.wikipedia.org/wiki/Category:电子游戏绘图及原画家 "wikilink") [Category:日本漫画家](https://zh.wikipedia.org/wiki/Category:日本漫画家 "wikilink") [Category:三重县出身人物](https://zh.wikipedia.org/wiki/Category:三重县出身人物 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.

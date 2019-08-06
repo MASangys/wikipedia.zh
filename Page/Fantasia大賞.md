@@ -1,5 +1,4 @@
-{{ Copyedit translation }} }} **Fantasia大賞**（****）是由富士見書房於舉辦的文學獎。
-於第19回改名為。
+{{ Copyedit translation }} }} **Fantasia大賞**（****）是由富士見書房於舉辦的文學獎。 於第19回改名為。
 
 ## 入賞作品一覧
 
@@ -1415,10 +1414,7 @@
   - [富士見書房](https://web.archive.org/web/20080327012059/http://www.fujimishobo.co.jp/index.html)
   - [富士見書房Fantasia大賞](http://www.fantasiataisho.com/)
 
-[Category:富士見書房](https://zh.wikipedia.org/wiki/Category:富士見書房 "wikilink")
-[Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink")
-[Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink")
-[Category:角川集團主辦的獎項](https://zh.wikipedia.org/wiki/Category:角川集團主辦的獎項 "wikilink")
+[Category:富士見書房](https://zh.wikipedia.org/wiki/Category:富士見書房 "wikilink") [Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink") [Category:日本輕小說文學獎](https://zh.wikipedia.org/wiki/Category:日本輕小說文學獎 "wikilink") [Category:角川集團主辦的獎項](https://zh.wikipedia.org/wiki/Category:角川集團主辦的獎項 "wikilink")
 
 1.  第4回の最終選考でも「トリシアの不思議な病院」が残っていた。
 

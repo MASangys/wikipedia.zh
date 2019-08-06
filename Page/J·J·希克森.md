@@ -2,8 +2,7 @@
 
 ## 高中生涯
 
-希克森高中時就讀於。2006年他帶領校隊闖進高中男子籃球5A級四強。2007年
-他被Rivals.com評為全部球員中第10名，全大前鋒中第2名。而Scout.com則評斷他為全部球員中第13名及全大前鋒中第3名。同年被獲邀參加[麥當勞高中全明星賽](../Page/麥當勞高中全明星賽.md "wikilink")。高四那年他平均每場25.9分13.8個籃板及3.0個阻攻。
+希克森高中時就讀於。2006年他帶領校隊闖進高中男子籃球5A級四強。2007年 他被Rivals.com評為全部球員中第10名，全大前鋒中第2名。而Scout.com則評斷他為全部球員中第13名及全大前鋒中第3名。同年被獲邀參加[麥當勞高中全明星賽](../Page/麥當勞高中全明星賽.md "wikilink")。高四那年他平均每場25.9分13.8個籃板及3.0個阻攻。
 
 ## 大學生涯
 
@@ -59,53 +58,19 @@
 
 ### 例行賽
 
-|- | style="text-align:left;"|  | style="text-align:left;"|
-[克里夫蘭騎士](https://zh.wikipedia.org/wiki/克里夫蘭騎士 "wikilink") |
-62 || 0 || 11.4 || .515 || .000 || .672 || 2.7 || .1 || .2 || .5 || 4.0
-|- | style="text-align:left;"|  | style="text-align:left;"| 克里夫蘭騎士 |
-**81** || 73 || 20.9 || .554 || .000 || **.681** || 4.9 || .5 || .4 ||
-.5 || 8.5 |- | style="text-align:left;"|  | style="text-align:left;"|
-克里夫蘭騎士 | 80 || 66 || 28.2 || .458 || .000 || .673 || 8.7 || 1.1 ||
-**.6** || .7 || 13.8 |- | style="text-align:left;"|  |
-style="text-align:left;"| [沙加緬度國王](../Page/沙加緬度國王.md "wikilink") | 35 ||
-9 || 18.4 || .370 || .000 || .638 || 5.1 || .6 || .5 || .5 || 4.7 |- |
-style="text-align:left;"|  | style="text-align:left;"|
-[波特蘭拓荒者](https://zh.wikipedia.org/wiki/波特蘭拓荒者 "wikilink") |
-19 || 10 || **31.6** || .543 || .000 || .645 || 8.3 || **1.2** || **.6**
-|| **.9** || **15.1** |- | style="text-align:left;"|  |
-style="text-align:left;"| 波特蘭拓荒者 | 80 || **80** || 29.0 || **.562** ||
-.000 || .679 || **10.4** || 1.1 || **.6** || .6 || 12.7 |- |
-style="text-align:left;"|  | style="text-align:left;"|
-[丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink") | 69 || 52
-|| 26.9 || .508 || .000 || .517 || 9.2 || **1.4** || **.7** || .7 ||
-11.8 |- | style="text-align:left;"|  | style="text-align:left;"| 丹佛金塊 |
-73 || 8 || 19.3 || .475 || .000 || .577 || 6.2 || .8 || .5 || .5 || 7.6
-|- | style="text-align:left;"|  | style="text-align:left;"| 丹佛金塊 | 20 ||
-9 || 15.3 || .505 || .000 || .458 || 4.4 || .8 || .5 || .6 || 6.9 |- |
-style="text-align:left;"| 職業生涯 | style="text-align:left;"| | 519 || 307
-|| 22.7 || .505 || .000 || .622 || 6.9 || .9 || .5 || .6 || 9.7
+|- | style="text-align:left;"|  | style="text-align:left;"| [克里夫蘭騎士](https://zh.wikipedia.org/wiki/克里夫蘭騎士 "wikilink") | 62 || 0 || 11.4 || .515 || .000 || .672 || 2.7 || .1 || .2 || .5 || 4.0 |- | style="text-align:left;"|  | style="text-align:left;"| 克里夫蘭騎士 | **81** || 73 || 20.9 || .554 || .000 || **.681** || 4.9 || .5 || .4 || .5 || 8.5 |- | style="text-align:left;"|  | style="text-align:left;"| 克里夫蘭騎士 | 80 || 66 || 28.2 || .458 || .000 || .673 || 8.7 || 1.1 || **.6** || .7 || 13.8 |- | style="text-align:left;"|  | style="text-align:left;"| [沙加緬度國王](../Page/沙加緬度國王.md "wikilink") | 35 || 9 || 18.4 || .370 || .000 || .638 || 5.1 || .6 || .5 || .5 || 4.7 |- | style="text-align:left;"|  | style="text-align:left;"| [波特蘭拓荒者](https://zh.wikipedia.org/wiki/波特蘭拓荒者 "wikilink") | 19 || 10 || **31.6** || .543 || .000 || .645 || 8.3 || **1.2** || **.6** || **.9** || **15.1** |- | style="text-align:left;"|  | style="text-align:left;"| 波特蘭拓荒者 | 80 || **80** || 29.0 || **.562** || .000 || .679 || **10.4** || 1.1 || **.6** || .6 || 12.7 |- | style="text-align:left;"|  | style="text-align:left;"| [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink") | 69 || 52 || 26.9 || .508 || .000 || .517 || 9.2 || **1.4** || **.7** || .7 || 11.8 |- | style="text-align:left;"|  | style="text-align:left;"| 丹佛金塊 | 73 || 8 || 19.3 || .475 || .000 || .577 || 6.2 || .8 || .5 || .5 || 7.6 |- | style="text-align:left;"|  | style="text-align:left;"| 丹佛金塊 | 20 || 9 || 15.3 || .505 || .000 || .458 || 4.4 || .8 || .5 || .6 || 6.9 |- | style="text-align:left;"| 職業生涯 | style="text-align:left;"| | 519 || 307 || 22.7 || .505 || .000 || .622 || 6.9 || .9 || .5 || .6 || 9.7
 
 ### 季後賽
 
-|- | style="text-align:left;"| [2010](../Page/2010年NBA季後賽.md "wikilink")
-| style="text-align:left;"|
-[克里夫蘭騎士](https://zh.wikipedia.org/wiki/克里夫蘭騎士 "wikilink")
-| **11** || **0** || **7.2** || **.626** || **.000** || **.688** ||
-**.8** || **.1** || **.0** || **.0** || **3.5** |- |
-style="text-align:left;"| 生涯 | style="text-align:left;"| | 11 || 0 ||
-7.2 || .626 || .000 || .688 || .8 || .1 || .0 || .0 || 3.5
+|- | style="text-align:left;"| [2010](../Page/2010年NBA季後賽.md "wikilink") | style="text-align:left;"| [克里夫蘭騎士](https://zh.wikipedia.org/wiki/克里夫蘭騎士 "wikilink") | **11** || **0** || **7.2** || **.626** || **.000** || **.688** || **.8** || **.1** || **.0** || **.0** || **3.5** |- | style="text-align:left;"| 生涯 | style="text-align:left;"| | 11 || 0 || 7.2 || .626 || .000 || .688 || .8 || .1 || .0 || .0 || 3.5
 
 ### 生涯最佳紀錄
 
   - 得分: **31** 有2次
-  - 籃板: **25** vs.
-    [波特蘭拓荒者](https://zh.wikipedia.org/wiki/波特蘭拓荒者 "wikilink")
-    2014/02/26
-  - 助攻: **6** vs. [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")
-    2013/04/14
+  - 籃板: **25** vs. [波特蘭拓荒者](https://zh.wikipedia.org/wiki/波特蘭拓荒者 "wikilink") 2014/02/26
+  - 助攻: **6** vs. [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink") 2013/04/14
   - 抄截: **3** 有5次
-  - 阻攻: **5** vs. [紐約尼克](https://zh.wikipedia.org/wiki/紐約尼克 "wikilink")
-    2011/02/25
+  - 阻攻: **5** vs. [紐約尼克](https://zh.wikipedia.org/wiki/紐約尼克 "wikilink") 2011/02/25
 
 ## 球員特色
 
@@ -113,30 +78,18 @@ style="text-align:left;"| 生涯 | style="text-align:left;"| | 11 || 0 ||
 
 ## 参考资料
 
-[Category:美国男子篮球运动员](https://zh.wikipedia.org/wiki/Category:美国男子篮球运动员 "wikilink")
-[Category:克里夫蘭騎士隊球員](https://zh.wikipedia.org/wiki/Category:克里夫蘭騎士隊球員 "wikilink")
-[Category:波特蘭開拓者隊球員](https://zh.wikipedia.org/wiki/Category:波特蘭開拓者隊球員 "wikilink")
-[Category:萨克拉门托国王队球員](https://zh.wikipedia.org/wiki/Category:萨克拉门托国王队球員 "wikilink")
-[Category:丹佛掘金隊球員](https://zh.wikipedia.org/wiki/Category:丹佛掘金隊球員 "wikilink")
-[Category:華盛頓奇才隊球員](https://zh.wikipedia.org/wiki/Category:華盛頓奇才隊球員 "wikilink")
-[Category:中国篮球联赛外援](https://zh.wikipedia.org/wiki/Category:中国篮球联赛外援 "wikilink")
+[Category:美国男子篮球运动员](https://zh.wikipedia.org/wiki/Category:美国男子篮球运动员 "wikilink") [Category:克里夫蘭騎士隊球員](https://zh.wikipedia.org/wiki/Category:克里夫蘭騎士隊球員 "wikilink") [Category:波特蘭開拓者隊球員](https://zh.wikipedia.org/wiki/Category:波特蘭開拓者隊球員 "wikilink") [Category:萨克拉门托国王队球員](https://zh.wikipedia.org/wiki/Category:萨克拉门托国王队球員 "wikilink") [Category:丹佛掘金隊球員](https://zh.wikipedia.org/wiki/Category:丹佛掘金隊球員 "wikilink") [Category:華盛頓奇才隊球員](https://zh.wikipedia.org/wiki/Category:華盛頓奇才隊球員 "wikilink") [Category:中国篮球联赛外援](https://zh.wikipedia.org/wiki/Category:中国篮球联赛外援 "wikilink")
 
-1.  [2011-12 NCAA Men's Basketball Records - Division I, p.2 –
-    Individual
-    Records](http://fs.ncaa.org/Docs/stats/m_basketball_RB/2012/DI.pdf)
+1.  [2011-12 NCAA Men's Basketball Records - Division I, p.2 – Individual Records](http://fs.ncaa.org/Docs/stats/m_basketball_RB/2012/DI.pdf)
 2.
 3.
 4.
 5.
 6.
 7.
-8.  [Hasharon's Hickson packs his bags; Mac TA visits
-    Ashdod](http://www.jpost.com/Sports/Article.aspx?id=244481)
+8.  [Hasharon's Hickson packs his bags; Mac TA visits Ashdod](http://www.jpost.com/Sports/Article.aspx?id=244481)
 9.
-10. [J.J. Hickson waived by Sacramento Kings -
-    ESPN](http://espn.go.com/nba/story/_/id/7711101/jj-hickson-waived-sacramento-kings)
-11. [Portland Trail Blazers claim J.J. Hickson off waivers from
-    Sacramento Kings - ESPN](http://espn.go.com/nba/story/_/id/7719952/)
-12. [Denver Nuggets Sign Free-Agent Forward J.J.
-    Hickson](http://www.nba.com/nuggets/news/denver-nuggets-sign-free-agent-forward-jj-hickson)
+10. [J.J. Hickson waived by Sacramento Kings - ESPN](http://espn.go.com/nba/story/_/id/7711101/jj-hickson-waived-sacramento-kings)
+11. [Portland Trail Blazers claim J.J. Hickson off waivers from Sacramento Kings - ESPN](http://espn.go.com/nba/story/_/id/7719952/)
+12. [Denver Nuggets Sign Free-Agent Forward J.J. Hickson](http://www.nba.com/nuggets/news/denver-nuggets-sign-free-agent-forward-jj-hickson)
 13. [掘金主帥談希克森表現：他活力四射](http://we.sportscn.com/viewnews-1451058.html)

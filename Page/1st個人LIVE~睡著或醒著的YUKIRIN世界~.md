@@ -1,5 +1,4 @@
-**1st個人LIVE\~睡著或醒著的YUKIRIN世界\~**（），是[AKB48](../Page/AKB48.md "wikilink")成員[柏木由紀](../Page/柏木由紀.md "wikilink")以DVD及BD形式發行的影像作品，2013年1月2日由Avex
-Marketing發行。
+**1st個人LIVE\~睡著或醒著的YUKIRIN世界\~**（），是[AKB48](../Page/AKB48.md "wikilink")成員[柏木由紀](../Page/柏木由紀.md "wikilink")以DVD及BD形式發行的影像作品，2013年1月2日由Avex Marketing發行。
 
 ## 內容
 
@@ -9,8 +8,7 @@ Marketing發行。
 
 1.  《[太遜了I love you\!](../Page/太遜了I_love_you!.md "wikilink")》
       -
-        [French
-        Kiss的歌曲獨唱](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")。
+        [French Kiss的歌曲獨唱](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")。
 2.  《[一個秋天的一天](../Page/很早以前.md "wikilink")》
       -
         French Kiss的歌曲獨唱。
@@ -56,8 +54,7 @@ Marketing發行。
   - 安可曲
     ENC-1 《[吃火龍果的時刻](../Page/最初的Mail.md "wikilink")》
       -
-        French
-        Kiss的歌曲。神秘嘉賓[高城亞樹](../Page/高城亞樹.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")登場。
+        French Kiss的歌曲。神秘嘉賓[高城亞樹](../Page/高城亞樹.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")登場。
     ENC-2 《[最初的Mail](../Page/最初的Mail.md "wikilink")》
       -
         French Kiss的歌曲。
@@ -72,8 +69,6 @@ Marketing發行。
 
 ## 外部連結
 
-  - [WE\!マイページ:
-    柏木由紀](http://www.watanabepro.co.jp/mypage/artist/kashiwagiyuki.html)
+  - [WE\!マイページ: 柏木由紀](http://www.watanabepro.co.jp/mypage/artist/kashiwagiyuki.html)
 
-[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:2013年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2013年音樂相關影像作品 "wikilink")
+[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:2013年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2013年音樂相關影像作品 "wikilink")

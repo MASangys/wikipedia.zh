@@ -1,5 +1,4 @@
-****生日為，是一名於[Niconico動畫](../Page/Niconico動畫.md "wikilink")及[YouTube](../Page/YouTube.md "wikilink")上公開發表樂曲的[VOCALOID](../Page/VOCALOID.md "wikilink")歌曲創作者。\[1\]
-\[2\]
+****生日為，是一名於[Niconico動畫](../Page/Niconico動畫.md "wikilink")及[YouTube](../Page/YouTube.md "wikilink")上公開發表樂曲的[VOCALOID](../Page/VOCALOID.md "wikilink")歌曲創作者。\[1\] \[2\]
 
 ## 簡介
 
@@ -169,8 +168,7 @@ Neru家（Neruけ）泛指出現於Neru作品裡的原創人物。Neru的作品P
 
 ## 參考資料
 
-[Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.  \[<http://www.nicovideo.jp/mylist/15619229>\]
 2.  \[<https://www.youtube.com/channel/UClxXuM2m0rIL9VCA1ds9HqA>\]

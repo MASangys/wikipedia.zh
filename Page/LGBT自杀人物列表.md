@@ -315,10 +315,7 @@
 
 {{-}}
 
-[Category:自杀身亡者列表](https://zh.wikipedia.org/wiki/Category:自杀身亡者列表 "wikilink")
-[Category:LGBT人物](https://zh.wikipedia.org/wiki/Category:LGBT人物 "wikilink")
-[Category:LGBT相關列表](https://zh.wikipedia.org/wiki/Category:LGBT相關列表 "wikilink")
-[Category:針對LGBT人士的歧視](https://zh.wikipedia.org/wiki/Category:針對LGBT人士的歧視 "wikilink")
+[Category:自杀身亡者列表](https://zh.wikipedia.org/wiki/Category:自杀身亡者列表 "wikilink") [Category:LGBT人物](https://zh.wikipedia.org/wiki/Category:LGBT人物 "wikilink") [Category:LGBT相關列表](https://zh.wikipedia.org/wiki/Category:LGBT相關列表 "wikilink") [Category:針對LGBT人士的歧視](https://zh.wikipedia.org/wiki/Category:針對LGBT人士的歧視 "wikilink")
 
 1.
 2.
@@ -337,8 +334,7 @@
 15.
 16.
 17.
-18. Laurence Senelick, "The changing room: sex, drag and theatre",
-    *Gender in performance*, Routledge, 2000, ISBN 0-415-15986-5, p.303
+18. Laurence Senelick, "The changing room: sex, drag and theatre", *Gender in performance*, Routledge, 2000, ISBN 0-415-15986-5, p.303
 19.
 20.
 21.

@@ -1,22 +1,10 @@
-**2HRs**
-是[臺灣](../Page/臺灣.md "wikilink")的[後搖滾](../Page/後搖滾.md "wikilink")以及
-[新器樂搖滾](https://zh.wikipedia.org/wiki/新器樂搖滾 "wikilink")( )
-樂團。由提琴手以及BASS手在高中時期因聚會表演而創團，最初期的2HRs是為了[雄中謝師宴臨時排練兩小時所組成的樂團](https://zh.wikipedia.org/wiki/雄中 "wikilink")(因此取名2HRs)，大學時期團員離開高雄後提琴手必須從中壢坐兩小時的客運到台中與BASS手練團，團名又有了意義上的改變。\[1\]
+**2HRs** 是[臺灣](../Page/臺灣.md "wikilink")的[後搖滾](../Page/後搖滾.md "wikilink")以及 [新器樂搖滾](https://zh.wikipedia.org/wiki/新器樂搖滾 "wikilink")( ) 樂團。由提琴手以及BASS手在高中時期因聚會表演而創團，最初期的2HRs是為了[雄中謝師宴臨時排練兩小時所組成的樂團](https://zh.wikipedia.org/wiki/雄中 "wikilink")(因此取名2HRs)，大學時期團員離開高雄後提琴手必須從中壢坐兩小時的客運到台中與BASS手練團，團名又有了意義上的改變。\[1\]
 
-經過了幾次的團員更迭而有了目前的四人完整編制，2012年八月錄製了2HRs
-Demo，在表演時以免費方式發送，同年年末加入鍵盤手嗯哼作為小提琴以外的另一樣旋律樂器，在demo發行之後開始於台灣各地
-[Live House](https://zh.wikipedia.org/wiki/Live_House "wikilink")
-演出，也受獨立音樂策展活動
-[PutsSound](https://zh.wikipedia.org/wiki/PutsSound "wikilink")
-邀請擔任瑞典後搖滾團體[Immanu
-El台灣演出之開場樂團](https://zh.wikipedia.org/wiki/Immanu_El "wikilink")，2013年初發行了第一張EP
-[Visionless](https://zh.wikipedia.org/wiki/Visionless "wikilink")。\[2\]
+經過了幾次的團員更迭而有了目前的四人完整編制，2012年八月錄製了2HRs Demo，在表演時以免費方式發送，同年年末加入鍵盤手嗯哼作為小提琴以外的另一樣旋律樂器，在demo發行之後開始於台灣各地 [Live House](https://zh.wikipedia.org/wiki/Live_House "wikilink") 演出，也受獨立音樂策展活動 [PutsSound](https://zh.wikipedia.org/wiki/PutsSound "wikilink") 邀請擔任瑞典後搖滾團體[Immanu El台灣演出之開場樂團](https://zh.wikipedia.org/wiki/Immanu_El "wikilink")，2013年初發行了第一張EP [Visionless](https://zh.wikipedia.org/wiki/Visionless "wikilink")。\[2\]
 
 2HRs最大特色在於沒有吉他的後搖滾編制，主奏樂器改由串接[效果器](../Page/效果器.md "wikilink")的小提琴加上[合成器](../Page/合成器.md "wikilink")以及鋼琴來擔任，而且在許多曲子裡也會藉由BASS以及鼓手來引導旋律流動，在聲響以及架構上有獨特之處。
 
-2013年中，鼓手許大加入團隊，2HRs在編制趨於完整後開始在[臺灣](../Page/臺灣.md "wikilink")Live
-House場地演出，包括[The
-Wall](../Page/這牆音樂藝文展演空間.md "wikilink")、[河岸留言](https://zh.wikipedia.org/wiki/河岸留言 "wikilink")、[地下社會](../Page/地下社會.md "wikilink")等等場地以及各地音樂季，並且再度受PutsSound邀約擔任[EF台灣場開場樂團](https://zh.wikipedia.org/wiki/EF "wikilink")。
+2013年中，鼓手許大加入團隊，2HRs在編制趨於完整後開始在[臺灣](../Page/臺灣.md "wikilink")Live House場地演出，包括[The Wall](../Page/這牆音樂藝文展演空間.md "wikilink")、[河岸留言](https://zh.wikipedia.org/wiki/河岸留言 "wikilink")、[地下社會](../Page/地下社會.md "wikilink")等等場地以及各地音樂季，並且再度受PutsSound邀約擔任[EF台灣場開場樂團](https://zh.wikipedia.org/wiki/EF "wikilink")。
 
 2HRs預計在2014年中發行首張專輯[QUASAR](https://zh.wikipedia.org/wiki/QUASAR "wikilink")，有關於太空主題的[新器樂搖滾導向專輯](https://zh.wikipedia.org/wiki/新器樂搖滾 "wikilink")。
 

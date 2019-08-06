@@ -13,6 +13,4 @@ PCB分板方式主要有六種：
 
 虽然激光分板机的分板速度及质量上都有优点，能满足客户交期及品质的要求，但目前激光分板机价格比较昂贵，一般大多厂家是选用冲床分板机或铣刀式分板机来代替。
 
-[Category:电子工程](https://zh.wikipedia.org/wiki/Category:电子工程 "wikilink")
-[Category:製造](https://zh.wikipedia.org/wiki/Category:製造 "wikilink")
-[Category:電子元件](https://zh.wikipedia.org/wiki/Category:電子元件 "wikilink")
+[Category:电子工程](https://zh.wikipedia.org/wiki/Category:电子工程 "wikilink") [Category:製造](https://zh.wikipedia.org/wiki/Category:製造 "wikilink") [Category:電子元件](https://zh.wikipedia.org/wiki/Category:電子元件 "wikilink")

@@ -61,12 +61,4 @@ PPS-43的中國仿製型
 
 ## 外部連結
 
-[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink")
-[Category:二戰衝鋒槍](https://zh.wikipedia.org/wiki/Category:二戰衝鋒槍 "wikilink")
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
-[Category:7.62×25毫米托卡列夫手槍彈槍械](https://zh.wikipedia.org/wiki/Category:7.62×25毫米托卡列夫手槍彈槍械 "wikilink")
-[Category:反衝式槍械](https://zh.wikipedia.org/wiki/Category:反衝式槍械 "wikilink")
-[Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")
-[Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink")
-[Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
+[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:二戰衝鋒槍](https://zh.wikipedia.org/wiki/Category:二戰衝鋒槍 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:7.62×25毫米托卡列夫手槍彈槍械](https://zh.wikipedia.org/wiki/Category:7.62×25毫米托卡列夫手槍彈槍械 "wikilink") [Category:反衝式槍械](https://zh.wikipedia.org/wiki/Category:反衝式槍械 "wikilink") [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink") [Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")

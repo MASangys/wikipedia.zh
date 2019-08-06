@@ -1,10 +1,8 @@
-《**Baby Steps
-\~網球優等生\~**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[勝木光](../Page/勝木光.md "wikilink")的少年向運動漫畫作品，於週刊少年Magazine的2007年46號上開始連載。原作於2014年被改編為電視動畫。
+《**Baby Steps \~網球優等生\~**》（）是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[勝木光](../Page/勝木光.md "wikilink")的少年向運動漫畫作品，於週刊少年Magazine的2007年46號上開始連載。原作於2014年被改編為電視動畫。
 
 ## 作品概要
 
-這是關於一個男子高中生・丸尾榮一郎在察覺到網球的魅力後，揮灑青春的成長故事。
-作者勝木光擁有實際的打網球經驗，針對作品內容也相當仔細的取材，並參考現實的技術與戰術、關於訓練的理論也有相當的描述。
+這是關於一個男子高中生・丸尾榮一郎在察覺到網球的魅力後，揮灑青春的成長故事。 作者勝木光擁有實際的打網球經驗，針對作品內容也相當仔細的取材，並參考現實的技術與戰術、關於訓練的理論也有相當的描述。
 
 ## 故事簡介
 
@@ -69,8 +67,7 @@
   -
     宮川T.A.所屬的男子選手，是湘南工業學院的高中生，比榮一郎小一屆，身高有178公分高。能藉由身高優勢來做出正、反拍打法的擊球。在比賽時有著藉由喝昆布茶和吃梅干，來讓自己恢復精神和體力的方法。
   -
-    FARSIDE
-    TA所屬的男子選手，聖蹊高中的學生，大榮一郎一屆。任何擊球方式都擅長的全方位型選手。雙親都是[藝術家](https://zh.wikipedia.org/wiki/藝術家 "wikilink")，自己藉由在比賽過程中擊球的軌道來「繪畫」，「畫作」完成時就不再出手去更動作品。與榮一郎比完一場比賽後，查覺到自己還是喜歡畫畫，決定朝藝術方面的目標努力，減少打網球的時間。
+    FARSIDE TA所屬的男子選手，聖蹊高中的學生，大榮一郎一屆。任何擊球方式都擅長的全方位型選手。雙親都是[藝術家](https://zh.wikipedia.org/wiki/藝術家 "wikilink")，自己藉由在比賽過程中擊球的軌道來「繪畫」，「畫作」完成時就不再出手去更動作品。與榮一郎比完一場比賽後，查覺到自己還是喜歡畫畫，決定朝藝術方面的目標努力，減少打網球的時間。
   -
     湘南工業學院的高中生、比榮一郎小一屆的男子選手。
 
@@ -1045,8 +1042,7 @@
 
 ## 網路電視劇
 
-2016年7月22日起於[AmazonPrime](../Page/亚马逊日本.md "wikilink")
-Video上傳。[岩田和行監督](https://zh.wikipedia.org/wiki/岩田和行 "wikilink")，[小林雄次劇本](https://zh.wikipedia.org/wiki/小林雄次 "wikilink")\[2\]。
+2016年7月22日起於[AmazonPrime](../Page/亚马逊日本.md "wikilink") Video上傳。[岩田和行監督](https://zh.wikipedia.org/wiki/岩田和行 "wikilink")，[小林雄次劇本](https://zh.wikipedia.org/wiki/小林雄次 "wikilink")\[2\]。
 
 ### 演員陣容
 
@@ -1077,24 +1073,7 @@ Video上傳。[岩田和行監督](https://zh.wikipedia.org/wiki/岩田和行 "w
   - [NHK動畫世界 Baby Steps](http://www9.nhk.or.jp/anime/babysteps/)
 
   -
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink")
-[Category:網球漫畫](https://zh.wikipedia.org/wiki/Category:網球漫畫 "wikilink")
-[Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink")
-[Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink")
-[Category:NHK動畫](https://zh.wikipedia.org/wiki/Category:NHK動畫 "wikilink")
-[Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
-[Category:網球動畫](https://zh.wikipedia.org/wiki/Category:網球動畫 "wikilink")
-[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink")
-[Category:2016年亮相的日本網絡劇](https://zh.wikipedia.org/wiki/Category:2016年亮相的日本網絡劇 "wikilink")
-[Category:與運動有關的電視劇](https://zh.wikipedia.org/wiki/Category:與運動有關的電視劇 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink")
-[Category:球類運動動畫](https://zh.wikipedia.org/wiki/Category:球類運動動畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:週刊少年Magazine連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Magazine連載作品 "wikilink") [Category:網球漫畫](https://zh.wikipedia.org/wiki/Category:網球漫畫 "wikilink") [Category:高中背景漫畫](https://zh.wikipedia.org/wiki/Category:高中背景漫畫 "wikilink") [Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink") [Category:NHK動畫](https://zh.wikipedia.org/wiki/Category:NHK動畫 "wikilink") [Category:高中背景動畫](https://zh.wikipedia.org/wiki/Category:高中背景動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:網球動畫](https://zh.wikipedia.org/wiki/Category:網球動畫 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:2016年亮相的日本網絡劇](https://zh.wikipedia.org/wiki/Category:2016年亮相的日本網絡劇 "wikilink") [Category:與運動有關的電視劇](https://zh.wikipedia.org/wiki/Category:與運動有關的電視劇 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink") [Category:球類運動動畫](https://zh.wikipedia.org/wiki/Category:球類運動動畫 "wikilink")
 
 1.  香港翡翠台標題，以播放時所顯示的字幕為準。
 2.

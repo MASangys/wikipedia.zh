@@ -1,20 +1,14 @@
-是一部电子游戏合辑，其收录了强化移植的[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》、《[最终幻想IV
-The After -月之归还-](../Page/最终幻想IV_The_After_-月之归还-.md "wikilink")》，
-以及设定于两部游戏之间的新剧本《最终幻想IV
-间奏》。合辑由[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")于2011年3月24日日在日本发行\[1\]，2011年4月19日在北美发行\[2\]，2011年4月21日在欧洲发行，2011年4月28日在澳大利亚发行。其还以[下载形式发行](https://zh.wikipedia.org/wiki/電子軟體分發 "wikilink")\[3\]。
+是一部电子游戏合辑，其收录了强化移植的[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》、《[最终幻想IV The After -月之归还-](../Page/最终幻想IV_The_After_-月之归还-.md "wikilink")》， 以及设定于两部游戏之间的新剧本《最终幻想IV 间奏》。合辑由[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")于2011年3月24日日在日本发行\[1\]，2011年4月19日在北美发行\[2\]，2011年4月21日在欧洲发行，2011年4月28日在澳大利亚发行。其还以[下载形式发行](https://zh.wikipedia.org/wiki/電子軟體分發 "wikilink")\[3\]。
 
 ## 游戏玩法
 
 合辑由[时田贵司](../Page/时田贵司.md "wikilink")监督\[4\]。其使用了[16:9的](https://zh.wikipedia.org/wiki/16:9 "wikilink")[高分辨率画面](https://zh.wikipedia.org/wiki/解像度 "wikilink")，和[任天堂DS](../Page/任天堂DS.md "wikilink")重制版《最终幻想IV》相同的[CG开场动画](https://zh.wikipedia.org/wiki/计算机图像生成技术 "wikilink")\[5\]，《月之归还》的新CG开场\[6\]，新编曲的原声\[7\]，以及可查看CG动画和[天野喜孝](../Page/天野喜孝.md "wikilink")原画的画廊模式\[8\]。
 
-遊戲在日本還發行了名為“超級包”的[收藏包](https://zh.wikipedia.org/wiki/特別版 "wikilink")，其中收錄遊戲指南，名為《最終幻想IV
-Complete Arts》的插畫書，以及收錄17首曲目的CD《最終幻想IV The After -月之歸還-
-附加音頻》，其中最後五首曲目是由日本史克威爾艾尼克斯社區網站會員票選的\[9\]\[10\]。
+遊戲在日本還發行了名為“超級包”的[收藏包](https://zh.wikipedia.org/wiki/特別版 "wikilink")，其中收錄遊戲指南，名為《最終幻想IV Complete Arts》的插畫書，以及收錄17首曲目的CD《最終幻想IV The After -月之歸還- 附加音頻》，其中最後五首曲目是由日本史克威爾艾尼克斯社區網站會員票選的\[9\]\[10\]。
 
 ## 情节
 
-合輯完整收錄了《最終幻想IV》和《最終幻想IV The After -月之歸還-》，此外還收錄了設定於原作約一年後的新遊戲《最終幻想IV
-間奏》\[11\]。
+合輯完整收錄了《最終幻想IV》和《最終幻想IV The After -月之歸還-》，此外還收錄了設定於原作約一年後的新遊戲《最終幻想IV 間奏》\[11\]。
 
 在《間奏》中，玩家控制[塞西尔](https://zh.wikipedia.org/wiki/最終幻想IV系列角色列表#賽希爾·哈威 "wikilink")。在故事的开始，塞西尔梦到水晶之间，他看见[莉迪亚并听到](https://zh.wikipedia.org/wiki/最終幻想IV系列角色列表#莉迪亞 "wikilink")“终于，我有了新样子”的声音。正在那个声音说道他的名字时，罗莎将他叫醒了。塞西尔和罗莎动身乘坐一艘红翼飞船前去达姆西安。而与此同时，离开幻兽洞窟的莉迪亚正在和幻兽王后阿修罗对话，幻兽女王再问她要去哪，莉迪亚回答他要去庆祝达姆西安的重建，阿修罗让她离开了。
 
@@ -40,11 +34,7 @@ Complete Arts》的插畫書，以及收錄17首曲目的CD《最終幻想IV The
 
   -
 
-[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:PlayStation_Portable独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable独占游戏 "wikilink")
-[Category:電子遊戲合輯](https://zh.wikipedia.org/wiki/Category:電子遊戲合輯 "wikilink")
-[Category:最終幻想IV](https://zh.wikipedia.org/wiki/Category:最終幻想IV "wikilink")
+[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:PlayStation_Portable独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable独占游戏 "wikilink") [Category:電子遊戲合輯](https://zh.wikipedia.org/wiki/Category:電子遊戲合輯 "wikilink") [Category:最終幻想IV](https://zh.wikipedia.org/wiki/Category:最終幻想IV "wikilink")
 
 1.
 2.

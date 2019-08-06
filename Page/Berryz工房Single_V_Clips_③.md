@@ -1,5 +1,4 @@
-『**Berryz工房Single V Clips
-③**』（）是[Berryz工房](../Page/Berryz工房.md "wikilink")的第3張PV集。
+『**Berryz工房Single V Clips ③**』（）是[Berryz工房](../Page/Berryz工房.md "wikilink")的第3張PV集。
 
 ## 收錄内容
 
@@ -43,9 +42,6 @@
 
 ## 外部連結
 
-  - [UP-FRONT
-    WORKSディスコグラフィ](https://web.archive.org/web/20080226080300/http://www.up-front-works.jp/discography/piccolotown/05/v_23/)
+  - [UP-FRONT WORKSディスコグラフィ](https://web.archive.org/web/20080226080300/http://www.up-front-works.jp/discography/piccolotown/05/v_23/)
 
-[Category:Berryz工房影像作品](https://zh.wikipedia.org/wiki/Category:Berryz工房影像作品 "wikilink")
-[Category:2007年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2007年音樂相關影像作品 "wikilink")
-[Category:音樂影片集](https://zh.wikipedia.org/wiki/Category:音樂影片集 "wikilink")
+[Category:Berryz工房影像作品](https://zh.wikipedia.org/wiki/Category:Berryz工房影像作品 "wikilink") [Category:2007年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2007年音樂相關影像作品 "wikilink") [Category:音樂影片集](https://zh.wikipedia.org/wiki/Category:音樂影片集 "wikilink")

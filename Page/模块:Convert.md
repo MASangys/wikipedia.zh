@@ -1,40 +1,12 @@
-\-- Convert a value from one unit of measurement to another. -- Example:
- --\> 123 pounds (56 kg) -- See [:en:Template:Convert/Transwiki
-guide](https://zh.wikipedia.org/wiki/:en:Template:Convert/Transwiki_guide "wikilink")
-if copying to another wiki.
+\-- Convert a value from one unit of measurement to another. -- Example:  --\> 123 pounds (56 kg) -- See [:en:Template:Convert/Transwiki guide](https://zh.wikipedia.org/wiki/:en:Template:Convert/Transwiki_guide "wikilink") if copying to another wiki.
 
-local MINUS = '−' -- Unicode U+2212 MINUS SIGN (UTF-8: e2 88 92) local
-abs = math.abs local floor = math.floor local format = string.format
-local log10 = math.log10 local ustring = mw.ustring local ulen =
-ustring.len local usub = ustring.sub
+local MINUS = '−' -- Unicode U+2212 MINUS SIGN (UTF-8: e2 88 92) local abs = math.abs local floor = math.floor local format = string.format local log10 = math.log10 local ustring = mw.ustring local ulen = ustring.len local usub = ustring.sub
 
-\-- Configuration options to keep magic values in one location. --
-Conversion data and message text are defined in separate modules. local
-config, maxsigfig local numdot -- must be '.' or ',' or a character
-which works in a regex local numsep, numsep_remove, numsep_remove2
-local data_code, all_units local text_code local varname -- can be a
-code to use variable names that depend on value local from_en_table --
-to translate an output string of en digits to local language local
-to_en_table -- to translate an input string of digits in local
-language to en -- Use translation_table in convert/text to change the
-following. local en_default -- true uses lang=en unless convert has
-lang=local or local digits local group_method = 3 -- code for how many
-digits are in a group local per_word = 'per' -- for units like "liters
-per kilometer" local plural_suffix = 's' -- only other useful value is
-probably '' to disable plural unit names local omitsep -- true to omit
-separator before local symbol/name
+\-- Configuration options to keep magic values in one location. -- Conversion data and message text are defined in separate modules. local config, maxsigfig local numdot -- must be '.' or ',' or a character which works in a regex local numsep, numsep_remove, numsep_remove2 local data_code, all_units local text_code local varname -- can be a code to use variable names that depend on value local from_en_table -- to translate an output string of en digits to local language local to_en_table -- to translate an input string of digits in local language to en -- Use translation_table in convert/text to change the following. local en_default -- true uses lang=en unless convert has lang=local or local digits local group_method = 3 -- code for how many digits are in a group local per_word = 'per' -- for units like "liters per kilometer" local plural_suffix = 's' -- only other useful value is probably '' to disable plural unit names local omitsep -- true to omit separator before local symbol/name
 
-\-- All units should be defined in the data module. However, to cater
-for quick changes -- and experiments, any unknown unit is looked up in
-an extra data module, if it exists. -- That module would be transcluded
-in only a small number of pages, so there should be -- little server
-overhead from making changes, and changes should propagate quickly.
-local extra_module -- name of module with extra units local
-extra_units -- nil or table of extra units from extra_module
+\-- All units should be defined in the data module. However, to cater for quick changes -- and experiments, any unknown unit is looked up in an extra data module, if it exists. -- That module would be transcluded in only a small number of pages, so there should be -- little server overhead from making changes, and changes should propagate quickly. local extra_module -- name of module with extra units local extra_units -- nil or table of extra units from extra_module
 
-\-- Some options in the invoking template can set variables used later
-in the module. local currency_text -- for a user-defined currency
-symbol:  (euro replaces dollar)
+\-- Some options in the invoking template can set variables used later in the module. local currency_text -- for a user-defined currency symbol:  (euro replaces dollar)
 
 local function from_en(text)
 
@@ -91,8 +63,7 @@ local function decimal_mark(text)
 
 end
 
-local add_warning, with_separator -- forward declarations local
-function to_en_with_check(text, parms)
+local add_warning, with_separator -- forward declarations local function to_en_with_check(text, parms)
 
 `   -- Version of to_en() for a wiki using numdot = ',' and numsep = '.' to check`
 `   -- text (an input number as a string) which might have been copied from enwiki.`
@@ -142,11 +113,7 @@ local function omit_separator(id)
 
 end
 
-local spell_module -- name of module that can spell numbers local
-speller -- function from that module to handle spelling (set if needed)
-local wikidata_module, wikidata_data_module -- names of Wikidata
-modules local wikidata_code, wikidata_data -- exported tables from
-those modules (set if needed)
+local spell_module -- name of module that can spell numbers local speller -- function from that module to handle spelling (set if needed) local wikidata_module, wikidata_data_module -- names of Wikidata modules local wikidata_code, wikidata_data -- exported tables from those modules (set if needed)
 
 local function set_config(args)
 
@@ -376,8 +343,7 @@ local function message(parms, mcode)
 
 end
 
-function add_warning(parms, level, key, text1, text2) -- for forward
-declaration above
+function add_warning(parms, level, key, text1, text2) -- for forward declaration above
 
 `   -- If enabled, add a warning that will be displayed after the convert result.`
 `   -- To reduce output noise, only the first warning is displayed.`
@@ -391,8 +357,7 @@ declaration above
 
 end
 
-local function spell_number(parms, inout, number, numerator,
-denominator)
+local function spell_number(parms, inout, number, numerator, denominator)
 
 `   -- Return result of spelling (number, numerator, denominator), or`
 `   -- return nil if spelling is not available or not supported for given text.`
@@ -426,9 +391,7 @@ end
 
 -----
 
-\-- BEGIN: Code required only for built-in units. -- LATER: If need much
-more code, move to another module to simplify this module. local
-function speed_of_sound(altitude)
+\-- BEGIN: Code required only for built-in units. -- LATER: If need much more code, move to another module to simplify this module. local function speed_of_sound(altitude)
 
 `   -- This is for the Mach built-in unit of speed.`
 `   -- Return speed of sound in metres per second at given altitude in feet.`
@@ -935,18 +898,13 @@ local function hyphenated(name, parts)
 `   -- The name may be linked and the target of the link must not be changed.`
 `   -- Hypothetical examples:`
 `   --   `[`ton`](https://zh.wikipedia.org/wiki/long_ton "wikilink")`         →  `[`ton`](https://zh.wikipedia.org/wiki/long_ton "wikilink")`          (no change)`
-`   --   `[`long``
- ``ton`](https://zh.wikipedia.org/wiki/tonne "wikilink")`       →  `[`long-ton`](https://zh.wikipedia.org/wiki/tonne "wikilink")
-`   --   `[`long``
- ``ton`](https://zh.wikipedia.org/wiki/metric_ton "wikilink")`  →  `[`long-ton`](https://zh.wikipedia.org/wiki/metric_ton "wikilink")
-`   --   `[`long``
- ``ton`](https://zh.wikipedia.org/wiki/long_ton "wikilink")`             →  `[`long-ton`](https://zh.wikipedia.org/wiki/long_ton "wikilink")
+`   --   `[`long``   ``ton`](https://zh.wikipedia.org/wiki/tonne "wikilink")`       →  `[`long-ton`](https://zh.wikipedia.org/wiki/tonne "wikilink")
+`   --   `[`long``   ``ton`](https://zh.wikipedia.org/wiki/metric_ton "wikilink")`  →  `[`long-ton`](https://zh.wikipedia.org/wiki/metric_ton "wikilink")
+`   --   `[`long``   ``ton`](https://zh.wikipedia.org/wiki/long_ton "wikilink")`             →  `[`long-ton`](https://zh.wikipedia.org/wiki/long_ton "wikilink")
 `   -- Input can also have multiple links in a single name like:`
 `   --   `[`U.S.`](https://zh.wikipedia.org/wiki/United_States_customary_units "wikilink")` `[`gallon`](https://zh.wikipedia.org/wiki/US_gallon "wikilink")
 `   --   `[`miles`](https://zh.wikipedia.org/wiki/mile "wikilink")` per `[`U.S.`](https://zh.wikipedia.org/wiki/United_States_customary_units "wikilink")` `[`quart`](https://zh.wikipedia.org/wiki/quart "wikilink")
-`   --   `[`long``
- ``tons`](https://zh.wikipedia.org/wiki/long_ton "wikilink")` per `[`short``
- ``ton`](https://zh.wikipedia.org/wiki/short_ton "wikilink")
+`   --   `[`long``   ``tons`](https://zh.wikipedia.org/wiki/long_ton "wikilink")` per `[`short``   ``ton`](https://zh.wikipedia.org/wiki/short_ton "wikilink")
 `   -- Assume that links cannot be nested (never like "`[`abc`[`defghi`](https://zh.wikipedia.org/wiki/def "wikilink")](https://zh.wikipedia.org/wiki/abc[[def "wikilink")`").`
 `   -- This uses a simple and efficient procedure that works for most cases.`
 `   -- Some units (if used) would require more, and can later think about`
@@ -1129,12 +1087,7 @@ function with_separator(parms, text) -- for forward declaration above
 
 end
 
-\-- An input value like 1.23e12 is displayed using scientific notation
-(1.23×10¹²). -- That also makes the output use scientific notation,
-except for small values. -- In addition, very small or very large output
-values use scientific notation. -- Use format(fmtpower, significand,
-'10', exponent) where each argument is a string. local fmtpower =
-'%s<span style="margin:0 .15em 0 .25em">×</span>%s<sup>%s</sup>'
+\-- An input value like 1.23e12 is displayed using scientific notation (1.23×10¹²). -- That also makes the output use scientific notation, except for small values. -- In addition, very small or very large output values use scientific notation. -- Use format(fmtpower, significand, '10', exponent) where each argument is a string. local fmtpower = '%s<span style="margin:0 .15em 0 .25em">×</span>%s<sup>%s</sup>'
 
 local function with_exponent(parms, show, exponent)
 
@@ -1199,8 +1152,7 @@ end
 
 }
 
-local function format_fraction(parms, inout, negative, wholestr,
-numstr, denstr, do_spell, style)
+local function format_fraction(parms, inout, negative, wholestr, numstr, denstr, do_spell, style)
 
 `   -- Return wikitext for a fraction, possibly spelled.`
 `   -- Inputs use en digits and have no sign; output uses digits in local language.`
@@ -1744,8 +1696,7 @@ local function preunits(count, preunit1, preunit2)
 
 end
 
-local function range_text(range, want_name, parms, before, after,
-inout)
+local function range_text(range, want_name, parms, before, after, inout)
 
 `   -- Return before .. rtext .. after`
 `   -- where rtext is the text that separates two values in a range.`
@@ -2331,8 +2282,7 @@ local function get_parms(parms, args)
 
 end
 
-local function record_default_precision(parms, out_current,
-precision)
+local function record_default_precision(parms, out_current, precision)
 
 `   -- If necessary, adjust parameters and return a possibly adjusted precision.`
 `   -- When converting a range of values where a default precision is required,`
@@ -2361,8 +2311,7 @@ precision)
 
 end
 
-local function default_precision(parms, invalue, inclean, denominator,
-outvalue, in_current, out_current, extra)
+local function default_precision(parms, invalue, inclean, denominator, outvalue, in_current, out_current, extra)
 
 `   -- Return a default value for precision (an integer like 2, 0, -2).`
 `   -- If denominator is not nil, it is the value of the denominator in inclean.`
@@ -2557,8 +2506,7 @@ local function user_style(parms, i)
 
 end
 
-local function make_table_or_sort(parms, invalue, info, in_current,
-scaled_top)
+local function make_table_or_sort(parms, invalue, info, in_current, scaled_top)
 
 `   -- Set options to handle output for a table or a sort key, or both.`
 `   -- The text sort key is based on the value resulting from converting`
@@ -2924,8 +2872,7 @@ local function get_default(value, unit_table)
 
 end
 
-local linked_pages -- to record linked pages so will not link to the
-same page more than once
+local linked_pages -- to record linked pages so will not link to the same page more than once
 
 local function unlink(unit_table)
 
@@ -2959,14 +2906,11 @@ local function make_link(link, id, unit_table)
 `   -- and overhead of doing it generally does not seem worthwhile.`
 `   local l = link:sub(1, 1):lower() .. link:sub(2)`
 `   if link == id or l == id then`
-`       return '`[`'``   ``..``   ``id``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._id_.._' "wikilink")`'`
+`       return '`[`'``   ``..``   ``id``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._id_.._' "wikilink")`'`
 `   elseif link .. 's' == id or l .. 's' == id then`
-`       return '`[`'``   ``..``   ``id:sub(1,``   ``-2)``   ``..``
- ``'s`](https://zh.wikipedia.org/wiki/'_.._id:sub\(1,_-2\)_.._' "wikilink")`'`
+`       return '`[`'``   ``..``   ``id:sub(1,``   ``-2)``   ``..``   ``'s`](https://zh.wikipedia.org/wiki/'_.._id:sub\(1,_-2\)_.._' "wikilink")`'`
 `   else`
-`       return '`[`'``   ``..``   ``id``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._link_.._' "wikilink")`'`
+`       return '`[`'``   ``..``   ``id``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._link_.._' "wikilink")`'`
 `   end`
 
 end
@@ -3016,8 +2960,7 @@ local function variable_name(clean, unit_table)
 
 end
 
-local function linked_id(parms, unit_table, key_id, want_link,
-clean)
+local function linked_id(parms, unit_table, key_id, want_link, clean)
 
 `   -- Return final unit id (symbol or name), optionally with a wikilink,`
 `   -- and update unit_table.sep if required.`
@@ -3468,8 +3411,7 @@ local function process_one_output(parms, out_current)
 
 end
 
-local function make_output_single(parms, in_unit_table,
-out_unit_table)
+local function make_output_single(parms, in_unit_table, out_unit_table)
 
 `   -- Return true, item where item = wikitext of the conversion result`
 `   -- for a single output (which is not a combination or a multiple);`
@@ -3488,8 +3430,7 @@ out_unit_table)
 
 end
 
-local function make_output_multiple(parms, in_unit_table,
-out_unit_table)
+local function make_output_multiple(parms, in_unit_table, out_unit_table)
 
 `   -- Return true, item where item = wikitext of the conversion result`
 `   -- for an output which is a multiple (like 'ftin');`

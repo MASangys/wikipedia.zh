@@ -47,8 +47,7 @@
 
   - Īsā，[爾撒](../Page/爾撒.md "wikilink")的名称
   - [以賽亞書](../Page/以賽亞書.md "wikilink")，圣经书的缩写
-  - 意识形态国家机器（Ideological State
-    Apparatus），[路易·皮埃尔·阿尔都塞](../Page/路易·皮埃尔·阿尔都塞.md "wikilink")使用的一个术语
+  - 意识形态国家机器（Ideological State Apparatus），[路易·皮埃尔·阿尔都塞](../Page/路易·皮埃尔·阿尔都塞.md "wikilink")使用的一个术语
   - [國際社會學協會](../Page/國際社會學協會.md "wikilink")
 
 ## 科学与自然
@@ -86,5 +85,4 @@
 
   - ，或称Microsoft Forefront威胁管理网关
 
-  - [國際標準化組織](../Page/國際標準化組織.md "wikilink")（ISO）的前身，国际标准化协会国际联合会（International
-    Federation of the National Standardizing Associations）
+  - [國際標準化組織](../Page/國際標準化組織.md "wikilink")（ISO）的前身，国际标准化协会国际联合会（International Federation of the National Standardizing Associations）

@@ -76,25 +76,17 @@
 
 ## 《Gold Rush》
 
-2014年11月16日，ZUN在数码游戏博览会2014上公開了《彈幕天邪鬼 ～ Gold
-Rush》（）。製作遊戲僅僅花了兩天時間，其中只有一關，而且最後只用在了現場展示，沒有單獨發行。\[3\]\[4\]
+2014年11月16日，ZUN在数码游戏博览会2014上公開了《彈幕天邪鬼 ～ Gold Rush》（）。製作遊戲僅僅花了兩天時間，其中只有一關，而且最後只用在了現場展示，沒有單獨發行。\[3\]\[4\]
 
 ## 參考文獻
 
 ## 外部連結
 
-  - [steam上的《弾幕アマノジャク 〜 Impossible Spell
-    Card.》](https://store.steampowered.com/app/937570)
+  - [steam上的《弾幕アマノジャク 〜 Impossible Spell Card.》](https://store.steampowered.com/app/937570)
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink")
-[Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
-[Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink") [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink") [Category:女主人公電子遊戲](https://zh.wikipedia.org/wiki/Category:女主人公電子遊戲 "wikilink")
 
 1.
 2.
-3.  [もっともホットな同人＆インディーゲームがアキバに集結！“デジゲー博 2014”注目ゲームチョイス（2D編）【デジゲー博 2014】](http://www.famitsu.com/news/201411/18065947.html).
-    [Famitsu](https://zh.wikipedia.org/wiki/Famitsu "wikilink").com
-4.  [体験型展示と参加型企画で盛り上がった“デジゲー博2014”会場レポート](http://www.forest.impress.co.jp/docs/special/20141117_676428.html).
-    Windows Forest (Impress).
+3.  [もっともホットな同人＆インディーゲームがアキバに集結！“デジゲー博 2014”注目ゲームチョイス（2D編）【デジゲー博 2014】](http://www.famitsu.com/news/201411/18065947.html). [Famitsu](https://zh.wikipedia.org/wiki/Famitsu "wikilink").com
+4.  [体験型展示と参加型企画で盛り上がった“デジゲー博2014”会場レポート](http://www.forest.impress.co.jp/docs/special/20141117_676428.html). Windows Forest (Impress).

@@ -4,8 +4,7 @@
 
 ## 历史
 
-Alembic最早主要由Sony Pictures
-Imageworks和[卢卡斯影业](../Page/卢卡斯影业.md "wikilink")以开源程序库的方式开发，依赖于[HDF](../Page/HDF.md "wikilink")格式存储数据。从2013年SIGGRAPH大会发布的1.5.0版开始，Alembic改为使用Ogawa作为数据存储的后端，极大的提高了读写性能，并保持了向下兼容。
+Alembic最早主要由Sony Pictures Imageworks和[卢卡斯影业](../Page/卢卡斯影业.md "wikilink")以开源程序库的方式开发，依赖于[HDF](../Page/HDF.md "wikilink")格式存储数据。从2013年SIGGRAPH大会发布的1.5.0版开始，Alembic改为使用Ogawa作为数据存储的后端，极大的提高了读写性能，并保持了向下兼容。
 
 ## 支持Alembic的软件
 

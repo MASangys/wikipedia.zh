@@ -5,7 +5,6 @@
 ## 外部連結
 
   -
-[Category:软件包管理系统](https://zh.wikipedia.org/wiki/Category:软件包管理系统 "wikilink")
-[Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink")
+[Category:软件包管理系统](https://zh.wikipedia.org/wiki/Category:软件包管理系统 "wikilink") [Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink")
 
 1.  [1.0.0-alpha1/CHANGELOG.md](https://raw.githubusercontent.com/composer/composer/1.0.0-alpha1/CHANGELOG.md)

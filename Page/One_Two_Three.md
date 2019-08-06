@@ -1,16 +1,12 @@
-《**One Two
-Three**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")2张[单曲](../Page/单曲.md "wikilink")，於2012年4月18日由[rhythm
-zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
+《**One Two Three**》是[日本](../Page/日本.md "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[E-girls的第](https://zh.wikipedia.org/wiki/E-girls "wikilink")2张[单曲](../Page/单曲.md "wikilink")，於2012年4月18日由[rhythm zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
   - 與前作相同，E-girls全員均有選拔並參與。
   - EGD的[木津玲奈和](https://zh.wikipedia.org/wiki/木津玲奈 "wikilink")[須田安娜首次選拔並參與的單曲](https://zh.wikipedia.org/wiki/須田安娜 "wikilink")
-  - A面曲 《One Two Three》是Samantha Thavasa《Samantha Thavasa Resort Golf &
-    Travel》電視廣告歌曲、朝日電視台「musicる TV」2012年4月份片尾曲和OPA「Oh\! Bargain」電視廣告歌曲。
+  - A面曲 《One Two Three》是Samantha Thavasa《Samantha Thavasa Resort Golf & Travel》電視廣告歌曲、朝日電視台「musicる TV」2012年4月份片尾曲和OPA「Oh\! Bargain」電視廣告歌曲。
   - B面曲《我回來了\!》是[富士電視台](../Page/富士電視台.md "wikilink")「ウチくる\!?」2012年4月份片尾曲
-  - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《One Two Three》的Music
-    Video和《E-Girls Anthem》的片段。
+  - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《One Two Three》的Music Video和《E-Girls Anthem》的片段。
   - 在4月30日於公信榜单曲週排行榜取得第12位。
 
 ## 選拔成員
@@ -62,5 +58,4 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 4.  One Two Three (Instrumental)
 5.  我回來了\! (Instrumental)
 
-[Category:E-girls歌曲](https://zh.wikipedia.org/wiki/Category:E-girls歌曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
+[Category:E-girls歌曲](https://zh.wikipedia.org/wiki/Category:E-girls歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")

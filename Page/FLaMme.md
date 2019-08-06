@@ -30,19 +30,11 @@
 
 ## 前所屬藝人
 
-  - [後藤理沙](../Page/後藤理沙.md "wikilink") →
-    [JMO](../Page/JMO.md "wikilink")
-  - [西村理沙](https://zh.wikipedia.org/wiki/西村理沙 "wikilink") → RIP → [Flip
-    Up](https://zh.wikipedia.org/wiki/Flip_Up "wikilink")
-  - [岡田めぐみ](https://zh.wikipedia.org/wiki/岡田めぐみ_\(女優\) "wikilink")→
-    為專注學業而引退
-  - [大櫛エリカ](https://zh.wikipedia.org/wiki/大櫛エリカ "wikilink") （前[Say a
-    Little
-    Prayer](https://zh.wikipedia.org/wiki/Say_a_Little_Prayer "wikilink")）
-    → [Japan Music
-    Entarteiment](https://zh.wikipedia.org/wiki/Japan_Music_Entarteiment "wikilink")
-  - [榎本亞弥子](https://zh.wikipedia.org/wiki/榎本亞弥子 "wikilink")　→[flos
-    two](https://zh.wikipedia.org/wiki/flos_two "wikilink")
+  - [後藤理沙](../Page/後藤理沙.md "wikilink") → [JMO](../Page/JMO.md "wikilink")
+  - [西村理沙](https://zh.wikipedia.org/wiki/西村理沙 "wikilink") → RIP → [Flip Up](https://zh.wikipedia.org/wiki/Flip_Up "wikilink")
+  - [岡田めぐみ](https://zh.wikipedia.org/wiki/岡田めぐみ_\(女優\) "wikilink")→ 為專注學業而引退
+  - [大櫛エリカ](https://zh.wikipedia.org/wiki/大櫛エリカ "wikilink") （前[Say a Little Prayer](https://zh.wikipedia.org/wiki/Say_a_Little_Prayer "wikilink")） → [Japan Music Entarteiment](https://zh.wikipedia.org/wiki/Japan_Music_Entarteiment "wikilink")
+  - [榎本亞弥子](https://zh.wikipedia.org/wiki/榎本亞弥子 "wikilink")　→[flos two](https://zh.wikipedia.org/wiki/flos_two "wikilink")
   - [今井陽子](https://zh.wikipedia.org/wiki/今井陽子 "wikilink")
   - [浅香友紀](https://zh.wikipedia.org/wiki/浅香友紀 "wikilink")
   - [有村実樹](https://zh.wikipedia.org/wiki/有村実樹 "wikilink")（業務提携）
@@ -50,6 +42,4 @@
   - [田中あさみ](https://zh.wikipedia.org/wiki/田中あさみ "wikilink")
   - [池田愛](https://zh.wikipedia.org/wiki/池田愛 "wikilink")
 
-[Category:FLaMme](https://zh.wikipedia.org/wiki/Category:FLaMme "wikilink")
-[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
+[Category:FLaMme](https://zh.wikipedia.org/wiki/Category:FLaMme "wikilink") [Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")

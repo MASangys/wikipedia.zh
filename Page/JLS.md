@@ -1,5 +1,4 @@
-**JLS**是英国的一支男子乐队，他们已经在全球售出超过300万份专辑。在2008年英国电视节目[X音素中获得了第二名的成绩](https://zh.wikipedia.org/wiki/英国版X音素 "wikilink")。在2009年，JLS和[Epic
-records正式签约](https://zh.wikipedia.org/wiki/Epic_records "wikilink")。他们的首张专辑在[英国单曲榜上拿到了冠军并卖出了超过](https://zh.wikipedia.org/wiki/英国单曲榜 "wikilink")100万份。\[1\]
+**JLS**是英国的一支男子乐队，他们已经在全球售出超过300万份专辑。在2008年英国电视节目[X音素中获得了第二名的成绩](https://zh.wikipedia.org/wiki/英国版X音素 "wikilink")。在2009年，JLS和[Epic records正式签约](https://zh.wikipedia.org/wiki/Epic_records "wikilink")。他们的首张专辑在[英国单曲榜上拿到了冠军并卖出了超过](https://zh.wikipedia.org/wiki/英国单曲榜 "wikilink")100万份。\[1\]
 
 ## 獲獎及提名
 
@@ -213,15 +212,10 @@ records正式签约](https://zh.wikipedia.org/wiki/Epic_records "wikilink")。�
 ## 唱片
 
   - *[JLS](https://zh.wikipedia.org/wiki/JLS_\(专辑\) "wikilink")* (2009年)
-  - *[Outta This
-    World](https://zh.wikipedia.org/wiki/Outta_This_World "wikilink")*
-    (2010年)
-  - *[Jukebox](https://zh.wikipedia.org/wiki/Jukebox "wikilink")*
-    (2011年)
+  - *[Outta This World](https://zh.wikipedia.org/wiki/Outta_This_World "wikilink")* (2010年)
+  - *[Jukebox](https://zh.wikipedia.org/wiki/Jukebox "wikilink")* (2011年)
   - ** (2012年)
-  - *[Goodbye – The Greatest
-    Hits](https://zh.wikipedia.org/wiki/Goodbye_–_The_Greatest_Hits "wikilink")*
-    (2013年)
+  - *[Goodbye – The Greatest Hits](https://zh.wikipedia.org/wiki/Goodbye_–_The_Greatest_Hits "wikilink")* (2013年)
 
 ## 参考资料
 
@@ -229,10 +223,7 @@ records正式签约](https://zh.wikipedia.org/wiki/Epic_records "wikilink")。�
 
   -
   -
-[Category:英国男子组合](https://zh.wikipedia.org/wiki/Category:英国男子组合 "wikilink")
-[Category:英国R\&B乐队](https://zh.wikipedia.org/wiki/Category:英国R&B乐队 "wikilink")
-[Category:英国流行歌曲乐队](https://zh.wikipedia.org/wiki/Category:英国流行歌曲乐队 "wikilink")
-[Category:X音素参赛者](https://zh.wikipedia.org/wiki/Category:X音素参赛者 "wikilink")
+[Category:英国男子组合](https://zh.wikipedia.org/wiki/Category:英国男子组合 "wikilink") [Category:英国R\&B乐队](https://zh.wikipedia.org/wiki/Category:英国R&B乐队 "wikilink") [Category:英国流行歌曲乐队](https://zh.wikipedia.org/wiki/Category:英国流行歌曲乐队 "wikilink") [Category:X音素参赛者](https://zh.wikipedia.org/wiki/Category:X音素参赛者 "wikilink")
 
 1.
 
@@ -251,25 +242,18 @@ records正式签约](https://zh.wikipedia.org/wiki/Epic_records "wikilink")。�
 
 9.
 
-10. [Lady Gaga, jay-Z, Lily Allen Win 2010 Brit Pop Music
-    Awards](http://www.bloomberg.com/apps/news?pid=20601088&sid=aHFIwO_b8Dko)
-     Bloomberg.com
+10. [Lady Gaga, jay-Z, Lily Allen Win 2010 Brit Pop Music Awards](http://www.bloomberg.com/apps/news?pid=20601088&sid=aHFIwO_b8Dko)  Bloomberg.com
 
 11.
 
-12. [2 DMA Awards\! | News|JLS (United
-    Kingdom)](http://www.jlsofficial.com/gb/newsdiary/post/2-dma-awards/)
-
+12. [2 DMA Awards\! | News|JLS (United Kingdom)](http://www.jlsofficial.com/gb/newsdiary/post/2-dma-awards/)
 
 13.
 14.
 
-15. [BEST ALBUM | MODO
-    Awards](http://www.mobo.com/voting/2010/best-album-0)
+15. [BEST ALBUM | MODO Awards](http://www.mobo.com/voting/2010/best-album-0)
 
-16. [Urban Music
-    Awards](http://www.urbanmusicawards.net//uk_news.php?id=136&start=0&limit=10)
-    2006
+16. [Urban Music Awards](http://www.urbanmusicawards.net//uk_news.php?id=136&start=0&limit=10) 2006
 
 17.
 18. [1](http://www.btdma.com/#)

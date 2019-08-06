@@ -1,13 +1,10 @@
-《**B'z The Best XXV
-1988-1998**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z](../Page/B'z.md "wikilink")在2013年為紀念出道25週年所發行的精選輯，共收錄28首歌曲。
+《**B'z The Best XXV 1988-1998**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z](../Page/B'z.md "wikilink")在2013年為紀念出道25週年所發行的精選輯，共收錄28首歌曲。
 
 ## 簡介
 
   - 為紀念出道25周年所發行的精選輯。
-  - 與另一張精選輯『[B'z The Best XXV
-    1999-2012](../Page/B'z_The_Best_XXV_1999-2012.md "wikilink")』在2013年6月12日同步發售，此張精選輯收錄自第1張單曲〈[所以請放開那隻手](../Page/所以請放開那隻手.md "wikilink")〉到第25張單曲〈[HOME](../Page/HOME_\(B'z單曲\).md "wikilink")〉，加上兩首新歌〈HEAT〉、〈核心〉共計28首歌曲。
-  - 本精選輯和『B'z The Best XXV
-    1999-2012』首次連續兩週獲得ORICON專輯週榜排行第1、2名\[1\]，亦是繼單曲[GOLD相隔](../Page/GOLD_\(B'z單曲\).md "wikilink")11年10個月後，再次連續兩週獲得ORICON週榜排行第1。
+  - 與另一張精選輯『[B'z The Best XXV 1999-2012](../Page/B'z_The_Best_XXV_1999-2012.md "wikilink")』在2013年6月12日同步發售，此張精選輯收錄自第1張單曲〈[所以請放開那隻手](../Page/所以請放開那隻手.md "wikilink")〉到第25張單曲〈[HOME](../Page/HOME_\(B'z單曲\).md "wikilink")〉，加上兩首新歌〈HEAT〉、〈核心〉共計28首歌曲。
+  - 本精選輯和『B'z The Best XXV 1999-2012』首次連續兩週獲得ORICON專輯週榜排行第1、2名\[1\]，亦是繼單曲[GOLD相隔](../Page/GOLD_\(B'z單曲\).md "wikilink")11年10個月後，再次連續兩週獲得ORICON週榜排行第1。
   - 初回版收錄11月於東京六本木舉行的「B'z Special Live」募集劵。
   - 最終銷量約58.3萬張。
 
@@ -26,8 +23,7 @@ DISC 1
 9.  [ALONE](../Page/ALONE_\(B'z單曲\).md "wikilink")　
 10. [BLOWIN'](../Page/BLOWIN'.md "wikilink")　
 11. [ZERO](../Page/ZERO_\(B'z單曲\).md "wikilink")　
-12. [愛是放縱任性的
-    我惟獨不願讓你受傷](https://zh.wikipedia.org/wiki/愛是放縱任性的_我惟獨不願讓你受傷 "wikilink")
+12. [愛是放縱任性的 我惟獨不願讓你受傷](https://zh.wikipedia.org/wiki/愛是放縱任性的_我惟獨不願讓你受傷 "wikilink")
 13. [裸足的女神](../Page/裸足的女神.md "wikilink")　
 14. [Don't Leave Me](../Page/Don't_Leave_Me.md "wikilink")　
 
@@ -35,11 +31,9 @@ DISC 2
 
 1.  [MOTEL](../Page/MOTEL.md "wikilink")　
 2.  [心願](../Page/心願_\(B'z單曲\).md "wikilink")　
-3.  [love me, I love
-    you](https://zh.wikipedia.org/wiki/love_me,_I_love_you "wikilink")　
+3.  [love me, I love you](https://zh.wikipedia.org/wiki/love_me,_I_love_you "wikilink")　
 4.  [LOVE PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")　
-5.  [看不見的力量 ～INVISIBLE
-    ONE～](https://zh.wikipedia.org/wiki/看不見的力量_～INVISIBLE_ONE～/MOVE "wikilink")　
+5.  [看不見的力量 ～INVISIBLE ONE～](https://zh.wikipedia.org/wiki/看不見的力量_～INVISIBLE_ONE～/MOVE "wikilink")　
 6.  [MOVE](https://zh.wikipedia.org/wiki/看不見的力量_～INVISIBLE_ONE～/MOVE "wikilink")　
 7.  [Real Thing Shakes](../Page/Real_Thing_Shakes.md "wikilink")　
 8.  [FIREBALL](../Page/FIREBALL.md "wikilink")　
@@ -89,8 +83,7 @@ DISC 2
   - [明石昌夫](../Page/明石昌夫.md "wikilink")：編曲・貝斯・[マニピュレーター](https://zh.wikipedia.org/wiki/マニピュレーター "wikilink")
   - [池田大介](https://zh.wikipedia.org/wiki/池田大介 "wikilink")：編曲・マニピュレーター
   - [徳永暁人](https://zh.wikipedia.org/wiki/徳永暁人 "wikilink")（[doa](https://zh.wikipedia.org/wiki/doa_\(ミュージシャン\) "wikilink")）：編曲・貝斯
-  - [Tony
-    Franklin](https://zh.wikipedia.org/wiki/Tony_Franklin "wikilink")：貝斯
+  - [Tony Franklin](https://zh.wikipedia.org/wiki/Tony_Franklin "wikilink")：貝斯
   - 中村“キタロー”幸司：貝斯
   - [青山純](https://zh.wikipedia.org/wiki/青山純 "wikilink")：鼓
   - [田中一光](https://zh.wikipedia.org/wiki/田中一光_\(ドラマー\) "wikilink")：鼓
@@ -124,10 +117,6 @@ DISC 2
 
     <references/>
 
-[Category:B'z精選輯](https://zh.wikipedia.org/wiki/Category:B'z精選輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:VERMILLION_RECORDS音樂專輯](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音樂專輯 "wikilink")
-[Category:2013年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:2013年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:B'z精選輯](https://zh.wikipedia.org/wiki/Category:B'z精選輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:VERMILLION_RECORDS音樂專輯](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音樂專輯 "wikilink") [Category:2013年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯月榜冠軍作品 "wikilink") [Category:2013年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.

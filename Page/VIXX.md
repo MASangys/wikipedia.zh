@@ -1,12 +1,8 @@
 **VIXX**（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")於2012年所推出的六人男子團體，由[N](https://zh.wikipedia.org/wiki/N_\(韓國歌手\) "wikilink")、[LEO](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")、[KEN](../Page/李宰焕.md "wikilink")、[RAVI](../Page/金元植.md "wikilink")、[HONGBIN](../Page/李弘彬.md "wikilink")、[HYUK六名成員組成](https://zh.wikipedia.org/wiki/韓相爀 "wikilink")。
 
-團名寓意「Voice, Visual, Value In
-Excelsis」，代表最佳的聲音，視覺和價值，寓意要成為歌壇的最佳。出道前粉絲就已破千人，有「霸道之聲」的美譽。出道前透過[Mnet實境節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《Mydol》紀錄練習生生活，並於2012年5月24日在《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》節目中出道。
+團名寓意「Voice, Visual, Value In Excelsis」，代表最佳的聲音，視覺和價值，寓意要成為歌壇的最佳。出道前粉絲就已破千人，有「霸道之聲」的美譽。出道前透過[Mnet實境節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《Mydol》紀錄練習生生活，並於2012年5月24日在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》節目中出道。
 
-VIXX的官方粉絲名稱為「ST★RLIGHT」（；），意味著VIXX的粉絲在VIXX眼中像星光一樣存在著，成為其動力並引領他們前進。應援口號為「Real
-V\! V.I.X.X
-VIXX\!」；應援物為官方毛巾及手燈，官方應援色是海軍藍+金色。（出道初期曾用angel天使做為粉絲名稱，此為出道節目《MyDol》節目所稱。）
+VIXX的官方粉絲名稱為「ST★RLIGHT」（；），意味著VIXX的粉絲在VIXX眼中像星光一樣存在著，成為其動力並引領他們前進。應援口號為「Real V\! V.I.X.X VIXX\!」；應援物為官方毛巾及手燈，官方應援色是海軍藍+金色。（出道初期曾用angel天使做為粉絲名稱，此為出道節目《MyDol》節目所稱。）
 
 頭像為一隻機器人，名字叫做ROVIX（；），生日6月20日，經常以第一人稱在推特上發表官方消息，被暱稱為VIXX隱藏版第七名成員。
 
@@ -14,20 +10,16 @@ VIXX\!」；應援物為官方毛巾及手燈，官方應援色是海軍藍+金�
 
 ### 出道前
 
-VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出。出道前，VIXX成員曾出演Jellyfish娛樂旗下歌手的MV：N、Leo、Hongbin、Ravi出演Brian
-Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hongbin出演徐仁國的Tease Me。
+VIXX的6名成員由Mnet生存選秀節目MyDOL中10位參賽者中脫穎而出。出道前，VIXX成員曾出演Jellyfish娛樂旗下歌手的MV：N、Leo、Hongbin、Ravi出演Brian Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hongbin出演徐仁國的Tease Me。
 
 ### 2012年：出道、首張單曲《SUPER HERO》、第二張單曲《Rock Ur Body》
 
-  - 5月24日以《Super Hero》在[M\!
-    Countdown出道](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")。
+  - 5月24日以《Super Hero》在[M\! Countdown出道](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")。
   - 6月20日專屬節目*VIXX TV*於官方Youtube頻道首播。
   - 7月27日在美國馬里蘭州巴爾的摩舉行的奧泰康動漫節舉辦第一場海外演出。
-  - 8月24日發行第二張單曲Rock Ur
-    Body，MV由[SISTAR](../Page/SISTAR.md "wikilink")的[多順](../Page/多順.md "wikilink")出演。
+  - 8月24日發行第二張單曲Rock Ur Body，MV由[SISTAR](../Page/SISTAR.md "wikilink")的[多順](../Page/多順.md "wikilink")出演。
   - 10月12日首次參與在美國洛杉磯舉行的 *KCON2012*。
-  - 12月5日參與公司Jellyfish娛樂的冬日計劃*Jelly Christmas 2012 heart
-    project*,發佈與同公司藝人[朴孝信](../Page/朴孝信.md "wikilink")、[成詩京](https://zh.wikipedia.org/wiki/成詩京 "wikilink")、[李錫勳](https://zh.wikipedia.org/wiki/李錫勳 "wikilink")、[徐仁國](../Page/徐仁國.md "wikilink")合作的聖誕單曲《因為是聖誕》。
+  - 12月5日參與公司Jellyfish娛樂的冬日計劃*Jelly Christmas 2012 heart project*,發佈與同公司藝人[朴孝信](../Page/朴孝信.md "wikilink")、[成詩京](https://zh.wikipedia.org/wiki/成詩京 "wikilink")、[李錫勳](https://zh.wikipedia.org/wiki/李錫勳 "wikilink")、[徐仁國](../Page/徐仁國.md "wikilink")合作的聖誕單曲《因為是聖誕》。
 
 ### 2013年：轉型、概念偶像的誕生、第三張單曲《On and On》、首張迷你專輯《Hyde》、首張正規專輯《Voodoo》、首次全球巡迴Showcase、首個一位
 
@@ -37,8 +29,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
   - 7月31日，發行改版專輯《Jekyll》,主打曲《了.不.起.的.妳》。
   - 10月至11月，分別在美國、意大利、瑞典、馬來西亞、日本和終點站南韓舉行了首個全球巡迴showcase*The Milkey Way*。
   - 11月8日，發表了收錄在首張正規專輯《VOODOO》的先行曲《答案就是你》。
-  - 11月20日，
-    發表了主打歌《巫毒娃娃》的MV和音源，由於MV內含有大量暴力和血腥畫面比列為19禁，舞蹈中有模擬刺心臟的動作引起爭議，被KBS、SBS和MBC禁止演出，後來修改了該部分舞蹈動作才得以進行打歌活動。
+  - 11月20日， 發表了主打歌《巫毒娃娃》的MV和音源，由於MV內含有大量暴力和血腥畫面比列為19禁，舞蹈中有模擬刺心臟的動作引起爭議，被KBS、SBS和MBC禁止演出，後來修改了該部分舞蹈動作才得以進行打歌活動。
   - 11月25日正式推出首張正規專輯《VOODOO》。
   - 12月6日在音樂銀行拿下出道以來首個一位，並在14日履行了「一位公約」,在江南的一間炸雞店與300名粉絲一起舉行炸雞派對。
   - 12月10日發布了與同公司Jellyfish娛樂的藝人合作的聖誕歌曲《冬日告白》。
@@ -47,75 +38,54 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 
   - 5月27日，發行第四張單曲《ETERNITY》，同名主打歌《ETERNITY》。
   - 7月2日，發行日本精選輯《DARKEST ANGELS》。
-  - 7月18日到20日，為期三天於韓國舉行*VIXX LIVE FANTASIA \[HEX
-    SIGN\]《VIXX世界巡迴演唱會》*，並依序至日本、匈牙利以及波蘭。
+  - 7月18日到20日，為期三天於韓國舉行*VIXX LIVE FANTASIA \[HEX SIGN\]《VIXX世界巡迴演唱會》*，並依序至日本、匈牙利以及波蘭。
   - 10月14日，發行第二張迷你韓語專輯《Error》，同名主打歌《Error》。
   - 12月10日，發行首張日本單曲《Error》，並於日本開始發售紀念活動。
 
 ### 2015年：首次all kill、子團體LR、第二張日文單曲《Can't say》、第二張正規專輯《Chained up》
 
   - 2月8日，獲台灣KKBOX音樂風雲榜頒獎典禮邀請擔任表演嘉賓，也是首隊韓國藝人被邀請出席該頒獎典禮。
-  - 2月12日，官方社交網站公開特別單曲專輯《[Boys'
-    Record](../Page/Boys'_Record.md "wikilink")》和主打歌MV的發佈日期，並在官方Youtube頻道發佈先行預告，宣布回歸消息和即將舉行的第二次單獨演唱會的日期。
-  - 2月24日正式推出《Boy's
-    Record》，主打歌翻唱前輩Re.f的《離別公式》，專輯也收錄了Leo和Ravi在第一次單獨演唱會公開的自創曲《寒冷的夜晚》和《Memory》。VIXX更憑著主打歌《離別公式》獲得8個音樂節目的一位，達成出道以来的首次all
-    kill。
-  - 3月18日，為紀念正式打入華語市場，特別推出翻唱自台灣歌手庾澄慶的經典作品《命中注定》，並收錄在《Boy's
-    Record》台壓版專輯內，MV也在台灣第一次粉絲見面會《VIXX星光之夜台北見面會》中取景。
-  - 3月-5月，舉行第二次單獨演唱會*VIXX LIVE FANTASIA
-    \[UTOPIA\]*並且在南韓、日本、菲律濱、新加坡等地進行巡迴演出。
+  - 2月12日，官方社交網站公開特別單曲專輯《[Boys' Record](../Page/Boys'_Record.md "wikilink")》和主打歌MV的發佈日期，並在官方Youtube頻道發佈先行預告，宣布回歸消息和即將舉行的第二次單獨演唱會的日期。
+  - 2月24日正式推出《Boy's Record》，主打歌翻唱前輩Re.f的《離別公式》，專輯也收錄了Leo和Ravi在第一次單獨演唱會公開的自創曲《寒冷的夜晚》和《Memory》。VIXX更憑著主打歌《離別公式》獲得8個音樂節目的一位，達成出道以来的首次all kill。
+  - 3月18日，為紀念正式打入華語市場，特別推出翻唱自台灣歌手庾澄慶的經典作品《命中注定》，並收錄在《Boy's Record》台壓版專輯內，MV也在台灣第一次粉絲見面會《VIXX星光之夜台北見面會》中取景。
+  - 3月-5月，舉行第二次單獨演唱會*VIXX LIVE FANTASIA \[UTOPIA\]*並且在南韓、日本、菲律濱、新加坡等地進行巡迴演出。
   - 7月7日在中國大陸的音樂平台QQ與台灣KKBOX上發佈了《ERROR》的中文版單曲。
-  - 8月7日，在官方Youtube頻道發布預告，片段中播放成員Leo和Ravi在演唱會的片段，最後二人名字的首字母融為一體，正式宣布團體出道以來首個子團誕生，子團成員為[Leo及](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")[Ravi](../Page/金元植.md "wikilink")，名為*[VIXX
-    LR](../Page/VIXX_LR.md "wikilink")*。
-  - 8月17日，正式發佈[VIXX LR首張迷你專輯](../Page/VIXX_LR.md "wikilink")《[Beautiful
-    Liar](../Page/Beautiful_Liar_\(迷你專輯\).md "wikilink")》，同名主打歌《Beautiful
-    Liar》。
-  - 9月9日，發行第二張日文單曲《[Can't
-    say](../Page/Can't_say.md "wikilink")》，並於日本開始發售紀念活動。
-  - 11月1日，分別在官方社交媒體和官方網站發布全新專輯預告照和名稱《[Chained
-    Up](../Page/Chained_Up.md "wikilink")》，宣佈正式回歸。
+  - 8月7日，在官方Youtube頻道發布預告，片段中播放成員Leo和Ravi在演唱會的片段，最後二人名字的首字母融為一體，正式宣布團體出道以來首個子團誕生，子團成員為[Leo及](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")[Ravi](../Page/金元植.md "wikilink")，名為*[VIXX LR](../Page/VIXX_LR.md "wikilink")*。
+  - 8月17日，正式發佈[VIXX LR首張迷你專輯](../Page/VIXX_LR.md "wikilink")《[Beautiful Liar](../Page/Beautiful_Liar_\(迷你專輯\).md "wikilink")》，同名主打歌《Beautiful Liar》。
+  - 9月9日，發行第二張日文單曲《[Can't say](../Page/Can't_say.md "wikilink")》，並於日本開始發售紀念活動。
+  - 11月1日，分別在官方社交媒體和官方網站發布全新專輯預告照和名稱《[Chained Up](../Page/Chained_Up.md "wikilink")》，宣佈正式回歸。
   - 11月10日，正式推出第2張正規專輯《Chained up》同名主打歌《Chained up (사슬)》.
-  - 12月15日，發佈了與同公司Jellyfish娛樂的藝人合作的聖誕歌曲：Jelly Christmas 2015-《Love in
-    the air》.
+  - 12月15日，發佈了與同公司Jellyfish娛樂的藝人合作的聖誕歌曲：Jelly Christmas 2015-《Love in the air》.
 
 ### 2016年：《VIXX 2016 CONCEPTION ( 第六張韓語單曲《Zelos》、第七張韓語單曲《Hades》、第三張迷你專輯《Kratos》)》、日本首張專輯《Depend on me》、第三張日本單曲《花風》
 
   - 1月7日，HYUK通過電影《抓住才能活》在大銀幕出道。\[1\]
   - 1月27日，發行日本首張專輯《Depend on me》，並於日本開始發售紀念活動。
-  - 4月19日，發行第六張韓語單曲《Zelos》，主打歌為《炸藥(Dynamite)》，於同日公開音樂錄影帶，正式為《VIXX 2016
-    CONCEPTION》揭開序幕。
+  - 4月19日，發行第六張韓語單曲《Zelos》，主打歌為《炸藥(Dynamite)》，於同日公開音樂錄影帶，正式為《VIXX 2016 CONCEPTION》揭開序幕。
   - 6月19日，VIXX將在首爾奧林匹克體操競技場內舉行官方粉絲俱樂部「ST★RLIGHT」3期活動「VIXXCHOOL」。\[2\]
   - 6月19日，HYUK憑藉電影《抓住才能活》榮獲第19屆上海國際電影節 鋼鐵人獎-最佳動作新人獎(第2屆成龍動作電影周)。
   - 6月29日，發行第三張日本單曲《花風》，並於日本開始發售紀念活動。
   - 8月12日，發行第七張韓語單曲《Hades》，主打歌為《Fantasy》，並於15日公開音樂錄影帶。
   - 8月13日和14日，兩天於韓國舉行*VIXX LIVE FANTASIA \[ELYSIUM\]* 演唱會。
-  - 10月31日，發行第三張迷你韓語專輯《Kratos》，主打歌曲為《The Closer》，於同日公開音樂錄影帶，為《VIXX 2016
-    CONCEPTION》最終章。
-  - 11月21日，發行特別專輯《VIXX 2016 CONCEPTION KER Special Package》，收錄新曲《Milky
-    Way》，邀請粉絲們一起加入 MV 拍攝。
+  - 10月31日，發行第三張迷你韓語專輯《Kratos》，主打歌曲為《The Closer》，於同日公開音樂錄影帶，為《VIXX 2016 CONCEPTION》最終章。
+  - 11月21日，發行特別專輯《VIXX 2016 CONCEPTION KER Special Package》，收錄新曲《Milky Way》，邀請粉絲們一起加入 MV 拍攝。
 
 ### 2017年：RAVI Solo、第四張迷你專輯《桃源境 (도원경) (Shangri-La)》、LR第二張迷你專輯《Whisper》、第二張日本專輯《ラララ ～愛をありがとう～》
 
-  - 1月6日至8日，Ravi 舉行個人Live演唱會「RAVI 1st REAL-LIVE
-    \[R.EAL1ZE\]」，並於1月9日做為團內首位solo出道。\[3\]
+  - 1月6日至8日，Ravi 舉行個人Live演唱會「RAVI 1st REAL-LIVE \[R.EAL1ZE\]」，並於1月9日做為團內首位solo出道。\[3\]
   - 5月12到14日，為期三天於韓國舉行*VIXX LIVE FANTASIA \[DAYDREAM\]* 演唱會。
-  - 5月17日，發行第四張迷你韓語專輯《桃源境 (도원경) (Shangri-La)》同名主打歌《桃源境 (도원경)
-    (Shangri-La)》。
-  - 8月28日，發佈[VIXX
-    LR第二張迷你專輯](../Page/VIXX_LR.md "wikilink")《[Whisper](https://zh.wikipedia.org/wiki/Whisper_\(迷你專輯\) "wikilink")》，同名主打歌《Whisper》。
+  - 5月17日，發行第四張迷你韓語專輯《桃源境 (도원경) (Shangri-La)》同名主打歌《桃源境 (도원경) (Shangri-La)》。
+  - 8月28日，發佈[VIXX LR第二張迷你專輯](../Page/VIXX_LR.md "wikilink")《[Whisper](https://zh.wikipedia.org/wiki/Whisper_\(迷你專輯\) "wikilink")》，同名主打歌《Whisper》。
   - 9月27日，發行第二張日本專輯《ラララ ～愛をありがとう～》，並於日本開始發售紀念活動。
-  - 12月31日，2017 MBC 歌謠大祭典中帶來歌曲《The Wind of Starlight》與《桃源境
-    Remix》舞台，獲得廣大迴響，截至2018年1月4日為止，NAVER網站影片點擊量已超過百萬。
+  - 12月31日，2017 MBC 歌謠大祭典中帶來歌曲《The Wind of Starlight》與《桃源境 Remix》舞台，獲得廣大迴響，截至2018年1月4日為止，NAVER網站影片點擊量已超過百萬。
 
 ### 2018年：LR首張日文專輯《Complete LR》、第三張正規專輯《EAU DE VIXX》、LEO SOLO、第三張日本專輯《Reincarnation》
 
-  - 1月6日，MBC<音樂中心>強制召回VIXX以完整體再次帶來2017年末歌謠大祭典《The Wind of
-    Starlight》與《桃源境 Remix》舞台。
+  - 1月6日，MBC<音樂中心>強制召回VIXX以完整體再次帶來2017年末歌謠大祭典《The Wind of Starlight》與《桃源境 Remix》舞台。
   - 1月24日，VIXX LR 發行日本首張專輯《Complete LR》。
   - 2月5日，於IOC(國際奧委會)大會開幕式帶來《The Wind of Starlight》與《桃源境 Remix》舞台。
   - 5月26日和27日，兩天於韓國舉行*VIXX LIVE LOST FANTASIA* 演唱會。
-  - 4月17日，發行第三張韓語正規專輯《EAU DE VIXX》，主打歌《香 (향) (Scentist)》，並於同日舉辦《EAU DE
-    VIXX》回歸Showcase。
+  - 4月17日，發行第三張韓語正規專輯《EAU DE VIXX》，主打歌《香 (향) (Scentist)》，並於同日舉辦《EAU DE VIXX》回歸Showcase。
   - 7月18日，KEN憑藉音樂劇《哈姆雷特》榮獲第12屆大邱國際音樂劇節(DIMF)─新人獎。
   - 7月31日，LEO發行第1張迷你韓語專輯《CANVAS》，作為團內第二位solo出道。
   - 9月26日，發行第三張日本專輯《Reincarnation》，並於日本開始發售紀念活動。
@@ -124,10 +94,8 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 
   - 1月12日，HYUK發行第1首數位單曲《Boy with a Star》，作為團內第三位SOLO出道。
   - 3月4日，N軍樂隊入伍，分發到的軍樂隊為陸軍士官學校，預計於2020年10月7號退伍。
-  - 3月5日，[RAVI發行第二張迷你專輯](https://zh.wikipedia.org/wiki/RAVI "wikilink")《R.OOK
-    BOOK》，主打歌《TUXEDO》，並於3月22、23、24日舉辦RAVI 3rd REAL-LIVE \[R.OOK BOOK\]。
-  - 5月24日，Jellyfish Entertainment 宣布 VIXX 成員 Leo、Ken、弘彬與 Hyuk
-    續簽合約，而RAVI決定離開公司並建立自己的工作室；但將繼續參與VIXX的團體活動。而隊長N將等退伍後再討論續約的問題。
+  - 3月5日，[RAVI發行第二張迷你專輯](https://zh.wikipedia.org/wiki/RAVI "wikilink")《R.OOK BOOK》，主打歌《TUXEDO》，並於3月22、23、24日舉辦RAVI 3rd REAL-LIVE \[R.OOK BOOK\]。
+  - 5月24日，Jellyfish Entertainment 宣布 VIXX 成員 Leo、Ken、弘彬與 Hyuk 續簽合約，而RAVI決定離開公司並建立自己的工作室；但將繼續參與VIXX的團體活動。而隊長N將等退伍後再討論續約的問題。
 
 ## 成員列表
 
@@ -160,9 +128,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 
   - 2013年：[hyde](https://zh.wikipedia.org/wiki/hyde_\(EP\) "wikilink")/[Jekyll](https://zh.wikipedia.org/wiki/hyde_\(EP\) "wikilink")
   - 2014年：[Error](../Page/Error_\(VIXX韓語專輯\).md "wikilink")
-  - 2015年：[Beautiful
-    Liar](../Page/Beautiful_Liar_\(迷你專輯\).md "wikilink")（[VIXX
-    LR](../Page/VIXX_LR.md "wikilink")）
+  - 2015年：[Beautiful Liar](../Page/Beautiful_Liar_\(迷你專輯\).md "wikilink")（[VIXX LR](../Page/VIXX_LR.md "wikilink")）
   - 2016年：[Kratos](../Page/Kratos_\(VIXX迷你專輯\).md "wikilink")
   - 2017年：R.EAL1ZE（[RAVI](../Page/金元植.md "wikilink")）
   - 2017年：[桃源境](../Page/桃源境.md "wikilink")
@@ -188,8 +154,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 
 #### 數位單曲
 
-  - 2019年：Boy with a
-    Star（[HYUK](https://zh.wikipedia.org/wiki/韓相爀 "wikilink")）
+  - 2019年：Boy with a Star（[HYUK](https://zh.wikipedia.org/wiki/韓相爀 "wikilink")）
   - 2019年：live (Feat.청하)（[RAVI](../Page/金元植.md "wikilink")）
 
 ### 日語作品
@@ -197,8 +162,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 #### 正規專輯
 
   - 2016年：[Depend on me](../Page/Depend_on_me_\(VIXX專輯\).md "wikilink")
-  - 2017年：[ラララ
-    ～愛をありがとう～](https://zh.wikipedia.org/wiki/La_La_La_～感謝愛～ "wikilink")
+  - 2017年：[ラララ ～愛をありがとう～](https://zh.wikipedia.org/wiki/La_La_La_～感謝愛～ "wikilink")
   - 2018年：[Reincarnation](https://zh.wikipedia.org/wiki/Reincarnation_\(VIXX專輯\) "wikilink")
 
 #### 精選輯
@@ -978,18 +942,15 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
   - 2013年：Jowissa 瑞士腕錶代言
   - 2014年：STAFF Korea 服飾品牌代言
   - 2014年：TIO Iced Tea 水果茶飲料代言
-  - 2014年：Korea Brand & Entertainment Expo 2014 品牌暨韓流商品博覽會
-    宣傳大使（與[徐仁國](../Page/徐仁國.md "wikilink")）
-  - 2015年-2018年：釜山樂天酒店
-    形象代言人（與[防彈少年團](../Page/防彈少年團.md "wikilink")、[Rain](../Page/Rain.md "wikilink")、[BTOB](../Page/BTOB.md "wikilink")、[Boyfriend](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")）
+  - 2014年：Korea Brand & Entertainment Expo 2014 品牌暨韓流商品博覽會 宣傳大使（與[徐仁國](../Page/徐仁國.md "wikilink")）
+  - 2015年-2018年：釜山樂天酒店 形象代言人（與[防彈少年團](../Page/防彈少年團.md "wikilink")、[Rain](../Page/Rain.md "wikilink")、[BTOB](../Page/BTOB.md "wikilink")、[Boyfriend](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")）
   - 2015年：Feltics 服飾品牌代言
   - 2016年：SK PLANET 11號街(韓國綜合網上商城)Plus篇 廣告
   - 2016年-2017年：JAMBANGEE 服飾品牌代言
   - 2016年-2017年：Pony 運動用品品牌代言
   - 2017年-2018年：IVYclub 制服代言
   - 2017年：慶州世界California Beach
-  - 2017年：Korea Brand & Entertainment EXPO TAIPEI 2017台北韓流商品博覽會
-    宣傳大使（與[韓彩英](../Page/韓彩英.md "wikilink")）
+  - 2017年：Korea Brand & Entertainment EXPO TAIPEI 2017台北韓流商品博覽會 宣傳大使（與[韓彩英](../Page/韓彩英.md "wikilink")）
   - 2019年：FILA 服飾品牌代言
 
 ### 雜誌
@@ -1949,20 +1910,11 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
   -
   -
   -
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
 
-1.  [進軍電影界！VIXX
-    HYUK憑《抓住才能活》獲新人獎！](http://www.vlovekpop.com/20160621-hyuk/)
-    vlovekpop
-2.  [再創票房神話！VIXX 粉絲見面會門票全部售罄！](http://www.vlovekpop.com/20160523-vixx/)
-    vlovekpop
-3.  [VIXX Ravi 個人演唱會
-    開展了SOLO企劃！](http://www.vlovekpop.com/20161210-vixx/)
-    vlovekpop
+1.  [進軍電影界！VIXX HYUK憑《抓住才能活》獲新人獎！](http://www.vlovekpop.com/20160621-hyuk/) vlovekpop
+2.  [再創票房神話！VIXX 粉絲見面會門票全部售罄！](http://www.vlovekpop.com/20160523-vixx/) vlovekpop
+3.  [VIXX Ravi 個人演唱會 開展了SOLO企劃！](http://www.vlovekpop.com/20161210-vixx/) vlovekpop
 4.
 5.
 6.

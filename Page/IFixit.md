@@ -1,8 +1,4 @@
-**iFixit**是一家設於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[聖路易斯-奧比斯保](../Page/聖路易斯-奧比斯保.md "wikilink")（San
-Luis
-Obispo）的公司，創立於2003年。該公司設立的同名網站以類似[wiki網站的方式刊登電子產品等的](https://zh.wikipedia.org/wiki/wiki "wikilink")[DIY](../Page/DIY.md "wikilink")維修、拆解指南，並接受讀者投稿
-\[1\]
-。拆解指南會根據拆解難易度以分數評定（滿分10分為最容易拆解）。近年來該公司以在第一時間取得[蘋果公司新發售的產品進行拆解](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，拆解後報告刊登於網站上而聞名\[2\]。該公司亦販售DIY工具及零件。
+**iFixit**是一家設於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[聖路易斯-奧比斯保](../Page/聖路易斯-奧比斯保.md "wikilink")（San Luis Obispo）的公司，創立於2003年。該公司設立的同名網站以類似[wiki網站的方式刊登電子產品等的](https://zh.wikipedia.org/wiki/wiki "wikilink")[DIY](../Page/DIY.md "wikilink")維修、拆解指南，並接受讀者投稿 \[1\] 。拆解指南會根據拆解難易度以分數評定（滿分10分為最容易拆解）。近年來該公司以在第一時間取得[蘋果公司新發售的產品進行拆解](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，拆解後報告刊登於網站上而聞名\[2\]。該公司亦販售DIY工具及零件。
 
 ## 商业模式
 
@@ -16,11 +12,7 @@ iFixit的联合创始人Kyle Wiens曾说他的目标是通过提供工具以及�
 
   - [iFixit: The Free Repair Manual](https://www.ifixit.com) 官方網站
 
-[Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink")
-[Category:美國公司](https://zh.wikipedia.org/wiki/Category:美國公司 "wikilink")
-[Category:美國網站](https://zh.wikipedia.org/wiki/Category:美國網站 "wikilink")
+[Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink") [Category:美國公司](https://zh.wikipedia.org/wiki/Category:美國公司 "wikilink") [Category:美國網站](https://zh.wikipedia.org/wiki/Category:美國網站 "wikilink")
 
 1.
-2.  [*How iFixit Uses Teardowns As Marketing 3.0*, by Leander Kahney,
-    Cult of Mac Sep. 18, 2009, retrieved July 2,
-    2010](http://www.cultofmac.com/how-ifixit-uses-teardowns-as-marketing-3-0/16731)
+2.  [*How iFixit Uses Teardowns As Marketing 3.0*, by Leander Kahney, Cult of Mac Sep. 18, 2009, retrieved July 2, 2010](http://www.cultofmac.com/how-ifixit-uses-teardowns-as-marketing-3-0/16731)

@@ -20,27 +20,12 @@
 
 ## 外部链接
 
-  - [Guide to the E.L. Doctorow
-    Papers](https://web.archive.org/web/20091120050044/http://dlib.nyu.edu/findingaids/html/fales/doctorow_restricted.html)
+  - [Guide to the E.L. Doctorow Papers](https://web.archive.org/web/20091120050044/http://dlib.nyu.edu/findingaids/html/fales/doctorow_restricted.html)
 
   -
-  - ["Billy Bathgate Discussion With EL
-    Doctorow"](https://web.archive.org/web/20051216173723/http://www.gothamgazette.com/books/Doctorowtranscript.php)
-    (November 30, 2004)
+  - ["Billy Bathgate Discussion With EL Doctorow"](https://web.archive.org/web/20051216173723/http://www.gothamgazette.com/books/Doctorowtranscript.php) (November 30, 2004)
 
-[Category:纽约市人](https://zh.wikipedia.org/wiki/Category:纽约市人 "wikilink")
-[Category:美国小说家](https://zh.wikipedia.org/wiki/Category:美国小说家 "wikilink")
-[Category:美国编剧](https://zh.wikipedia.org/wiki/Category:美国编剧 "wikilink")
-[Category:20世纪作家](https://zh.wikipedia.org/wiki/Category:20世纪作家 "wikilink")
-[Category:美国犹太人](https://zh.wikipedia.org/wiki/Category:美国犹太人 "wikilink")
-[Category:俄羅斯裔美國人](https://zh.wikipedia.org/wiki/Category:俄羅斯裔美國人 "wikilink")
-[Category:哥伦比亚大学校友](https://zh.wikipedia.org/wiki/Category:哥伦比亚大学校友 "wikilink")
-[Category:纽约大学教师](https://zh.wikipedia.org/wiki/Category:纽约大学教师 "wikilink")
-[Category:罹患肺癌逝世者](https://zh.wikipedia.org/wiki/Category:罹患肺癌逝世者 "wikilink")
-[Category:国家图书奖得主](https://zh.wikipedia.org/wiki/Category:国家图书奖得主 "wikilink")
-[Category:美國國家人文獎章獲得者](https://zh.wikipedia.org/wiki/Category:美國國家人文獎章獲得者 "wikilink")
-[Category:美国陆军士兵](https://zh.wikipedia.org/wiki/Category:美国陆军士兵 "wikilink")
-[Category:古根海姆学者](https://zh.wikipedia.org/wiki/Category:古根海姆学者 "wikilink")
+[Category:纽约市人](https://zh.wikipedia.org/wiki/Category:纽约市人 "wikilink") [Category:美国小说家](https://zh.wikipedia.org/wiki/Category:美国小说家 "wikilink") [Category:美国编剧](https://zh.wikipedia.org/wiki/Category:美国编剧 "wikilink") [Category:20世纪作家](https://zh.wikipedia.org/wiki/Category:20世纪作家 "wikilink") [Category:美国犹太人](https://zh.wikipedia.org/wiki/Category:美国犹太人 "wikilink") [Category:俄羅斯裔美國人](https://zh.wikipedia.org/wiki/Category:俄羅斯裔美國人 "wikilink") [Category:哥伦比亚大学校友](https://zh.wikipedia.org/wiki/Category:哥伦比亚大学校友 "wikilink") [Category:纽约大学教师](https://zh.wikipedia.org/wiki/Category:纽约大学教师 "wikilink") [Category:罹患肺癌逝世者](https://zh.wikipedia.org/wiki/Category:罹患肺癌逝世者 "wikilink") [Category:国家图书奖得主](https://zh.wikipedia.org/wiki/Category:国家图书奖得主 "wikilink") [Category:美國國家人文獎章獲得者](https://zh.wikipedia.org/wiki/Category:美國國家人文獎章獲得者 "wikilink") [Category:美国陆军士兵](https://zh.wikipedia.org/wiki/Category:美国陆军士兵 "wikilink") [Category:古根海姆学者](https://zh.wikipedia.org/wiki/Category:古根海姆学者 "wikilink")
 
 1.  虞建华主编. 美国文学辞典·作家与作品. 上海市：复旦大学出版社, 2005.07. 页106
 2.  杨任敬. 20世纪美国文学史. 青岛市：青岛出版社, 1999. 页722-723

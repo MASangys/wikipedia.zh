@@ -1,7 +1,4 @@
-[Voseo-extension-real.PNG](https://zh.wikipedia.org/wiki/File:Voseo-extension-real.PNG "fig:Voseo-extension-real.PNG")和[書面語中均使用voseo](https://zh.wikipedia.org/wiki/書面語 "wikilink")}}
-  \]\]
-**Voseo**（）指的是在[拉丁美洲](../Page/拉丁美洲.md "wikilink")的某些[西班牙語](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")[方言](../Page/方言.md "wikilink")中，[第二人稱](https://zh.wikipedia.org/wiki/第二人稱 "wikilink")[單數](https://zh.wikipedia.org/wiki/單數 "wikilink")[代詞](../Page/代詞.md "wikilink")使用“vos”以及相應的[動詞](https://zh.wikipedia.org/wiki/西班牙語動詞 "wikilink")[變位形式的現象](https://zh.wikipedia.org/wiki/西班牙語動詞變位 "wikilink")\[1\]。在某些方言中，vos完全代替了[TV
-區分中的另一方tú](https://zh.wikipedia.org/wiki/TV_區分 "wikilink")；而在其他一些方言中，vos則可與tú並列使用。相對於voseo，第二人稱單數代詞使用“tú”的現象成為tuteo。
+[Voseo-extension-real.PNG](https://zh.wikipedia.org/wiki/File:Voseo-extension-real.PNG "fig:Voseo-extension-real.PNG")和[書面語中均使用voseo](https://zh.wikipedia.org/wiki/書面語 "wikilink")}}   \]\] **Voseo**（）指的是在[拉丁美洲](../Page/拉丁美洲.md "wikilink")的某些[西班牙語](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")[方言](../Page/方言.md "wikilink")中，[第二人稱](https://zh.wikipedia.org/wiki/第二人稱 "wikilink")[單數](https://zh.wikipedia.org/wiki/單數 "wikilink")[代詞](../Page/代詞.md "wikilink")使用“vos”以及相應的[動詞](https://zh.wikipedia.org/wiki/西班牙語動詞 "wikilink")[變位形式的現象](https://zh.wikipedia.org/wiki/西班牙語動詞變位 "wikilink")\[1\]。在某些方言中，vos完全代替了[TV 區分中的另一方tú](https://zh.wikipedia.org/wiki/TV_區分 "wikilink")；而在其他一些方言中，vos則可與tú並列使用。相對於voseo，第二人稱單數代詞使用“tú”的現象成為tuteo。
 
 [口語方面](https://zh.wikipedia.org/wiki/口語 "wikilink")，[拉布拉他河方言](https://zh.wikipedia.org/wiki/拉布拉他河 "wikilink")（分佈於[阿根廷](../Page/阿根廷.md "wikilink")、[烏拉圭與](https://zh.wikipedia.org/wiki/烏拉圭 "wikilink")[玻利維亞](../Page/玻利維亞.md "wikilink")東部）和[巴拉圭](../Page/巴拉圭.md "wikilink")方言中，voseo都是當地的標準口語。在中美洲方言（分佈於[薩爾瓦多](https://zh.wikipedia.org/wiki/薩爾瓦多 "wikilink")、[瓜地馬拉](https://zh.wikipedia.org/wiki/瓜地馬拉 "wikilink")、[宏都拉斯](https://zh.wikipedia.org/wiki/宏都拉斯 "wikilink")、[尼加拉瓜](../Page/尼加拉瓜.md "wikilink")、[哥斯大黎加以及](https://zh.wikipedia.org/wiki/哥斯大黎加 "wikilink")[墨西哥](../Page/墨西哥.md "wikilink")[恰帕斯州](../Page/恰帕斯州.md "wikilink")南部）中，vos也被廣泛使用\[2\]。但在除尼加拉瓜和哥斯大黎加兩國以外的國家，[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[廣播等](https://zh.wikipedia.org/wiki/廣播 "wikilink")[媒體中還是更常用tú](https://zh.wikipedia.org/wiki/媒體 "wikilink")。而在尼加拉瓜與哥斯大黎加，人們幾乎從不使用tú。
 
@@ -17,14 +14,7 @@
 
 Vos本來是第二人稱複數代詞，但在日常使用中逐漸產生了單數用法，主要用於熟人之間較為禮貌地稱呼對方。在一本18世紀後期的[教科書](../Page/教科書.md "wikilink")中就曾經描述了其用法：
 
-在當時，當與一個不熟悉的人對話時，標準的稱呼對方的方式並不是vos，而是“vuestra
-merced”（可縮寫為“v.m.”），其對應的複數形式是“vuestra
-mercedes”；而在其後所接的動詞則採用第三人稱的變位形式（由merced／mercedes決定）。其他的一些類似說法有“vuestra
-excelencia”（可縮寫為“ussencia”）以及“vuestra
-señoria”（可縮寫為“ussia”）。而vos與tú都不是第二人稱單數代詞的尊敬形式。在大部份兩者都存在的地區，vos被認為是tú的同義詞，因此在拉布拉他河地區（[布宜諾斯艾利斯](../Page/布宜諾斯艾利斯.md "wikilink")與[蒙特維多附近](https://zh.wikipedia.org/wiki/蒙特維多 "wikilink")）和[智利](../Page/智利.md "wikilink")的voseo才得以發展。隨著時間的推移，vos在西班牙漸漸失傳，但在拉丁美洲的許多地區則得以保留；而vuestra
-merced則演變成了現在的“usted”（vuestra merced -\> usarced -\>
-usted）。要注意的是，現在的“vosotros”是“vos
-otros”的連寫形式，它後接的動詞採用vos的變位形式。
+在當時，當與一個不熟悉的人對話時，標準的稱呼對方的方式並不是vos，而是“vuestra merced”（可縮寫為“v.m.”），其對應的複數形式是“vuestra mercedes”；而在其後所接的動詞則採用第三人稱的變位形式（由merced／mercedes決定）。其他的一些類似說法有“vuestra excelencia”（可縮寫為“ussencia”）以及“vuestra señoria”（可縮寫為“ussia”）。而vos與tú都不是第二人稱單數代詞的尊敬形式。在大部份兩者都存在的地區，vos被認為是tú的同義詞，因此在拉布拉他河地區（[布宜諾斯艾利斯](../Page/布宜諾斯艾利斯.md "wikilink")與[蒙特維多附近](https://zh.wikipedia.org/wiki/蒙特維多 "wikilink")）和[智利](../Page/智利.md "wikilink")的voseo才得以發展。隨著時間的推移，vos在西班牙漸漸失傳，但在拉丁美洲的許多地區則得以保留；而vuestra merced則演變成了現在的“usted”（vuestra merced -\> usarced -\> usted）。要注意的是，現在的“vosotros”是“vos otros”的連寫形式，它後接的動詞採用vos的變位形式。
 
 直到19世紀前期，voseo在智利的使用都與在阿根廷一樣頻繁\[6\]，但現在voseo的使用卻受到了極大的限制。這是因為在智利的[教育](../Page/教育.md "wikilink")系統中，曾經發起過一場剷除voseo的運動\[7\]，他認為使用vos是教育水平低下的表現\[8\]。
 
@@ -32,9 +22,7 @@ otros”的連寫形式，它後接的動詞採用vos的變位形式。
 
 ### Voseo中的人稱代詞
 
-由於vos的[主格](../Page/主格.md "wikilink")與作[介詞](../Page/介詞.md "wikilink")[賓語時形態相同](https://zh.wikipedia.org/wiki/賓語 "wikilink")，因此tuteo中的“ti”在voseo中對應的形式也是“vos”。例如tuteo中的“para
-ti”（為了你）在voseo中說成“para vos”；tuteo中的介賓複合體“contigo”（與你）在voseo中說成“con
-vos”。但作直接[賓語和間接賓語時](https://zh.wikipedia.org/wiki/賓語 "wikilink")，voseo中採用與tuteo一樣的“te”形式，而不採用與vosotros對應的“os”形式。
+由於vos的[主格](../Page/主格.md "wikilink")與作[介詞](../Page/介詞.md "wikilink")[賓語時形態相同](https://zh.wikipedia.org/wiki/賓語 "wikilink")，因此tuteo中的“ti”在voseo中對應的形式也是“vos”。例如tuteo中的“para ti”（為了你）在voseo中說成“para vos”；tuteo中的介賓複合體“contigo”（與你）在voseo中說成“con vos”。但作直接[賓語和間接賓語時](https://zh.wikipedia.org/wiki/賓語 "wikilink")，voseo中採用與tuteo一樣的“te”形式，而不採用與vosotros對應的“os”形式。
 
 |                                               |                                                                    |                     |
 | --------------------------------------------- | ------------------------------------------------------------------ | ------------------- |
@@ -49,8 +37,7 @@ Vos的[屬格形式亦與tú相同](https://zh.wikipedia.org/wiki/屬格 "wikili
 
 ### Voseo中的動詞變位法
 
-現代voseo中的所有動詞變位形式均派生於中古西班牙語中的第二人稱複數動詞變位形式“-ades”、“-edes”、“-ides”和“-odes”（例如“sodes”，你是）\[9\]。這種變化發生於14至15世紀：
-“-ades”變為“-áis”，“-edes”變為“-és”或“-ís”\[10\]\[11\]，“-ides”變為“-ís”\[12\]，“-odes”變為“-óis”\[13\]。之後又出現了類似的“-ás”和“-éis”形式\[14\]。由於各地所採用的派生形式不甚相同，因此在現在的拉丁美洲，不同國家的voseo中動詞變位形式的後綴多種多樣：大多數國家採用單[元音](../Page/元音.md "wikilink")[後綴](../Page/後綴.md "wikilink")，而在委內瑞拉的一些地區則多用[雙元音後綴](https://zh.wikipedia.org/wiki/雙元音 "wikilink")，在智利則使用一種單元音和雙元音俱有的形式。一般說來，voseo中與tuteo中的同一個動詞在現在直陳式、[祈使語氣](../Page/祈使語氣.md "wikilink")和現在虛擬式中的形式以及大部份[過去式形式都有顯著差異](https://zh.wikipedia.org/wiki/過去式 "wikilink")\[15\]。下表列出了幾個動詞作為tú、vos以及vostoros（僅在西班牙使用）的[謂語](../Page/謂語.md "wikilink")時的變位形式。要注意的是，這些動詞的[不定式以及vos型和vosotros型變位形式的](https://zh.wikipedia.org/wiki/不定式 "wikilink")[重音都落在最後一個](https://zh.wikipedia.org/wiki/重音 "wikilink")[音節](https://zh.wikipedia.org/wiki/音節 "wikilink")，而tú型變位形式的重音則落在倒數第二個音節。並且在vos型變位中，“recordar”、“poder”與“venir”的[詞根裡不出現雙元音](https://zh.wikipedia.org/wiki/詞根 "wikilink")。
+現代voseo中的所有動詞變位形式均派生於中古西班牙語中的第二人稱複數動詞變位形式“-ades”、“-edes”、“-ides”和“-odes”（例如“sodes”，你是）\[9\]。這種變化發生於14至15世紀： “-ades”變為“-áis”，“-edes”變為“-és”或“-ís”\[10\]\[11\]，“-ides”變為“-ís”\[12\]，“-odes”變為“-óis”\[13\]。之後又出現了類似的“-ás”和“-éis”形式\[14\]。由於各地所採用的派生形式不甚相同，因此在現在的拉丁美洲，不同國家的voseo中動詞變位形式的後綴多種多樣：大多數國家採用單[元音](../Page/元音.md "wikilink")[後綴](../Page/後綴.md "wikilink")，而在委內瑞拉的一些地區則多用[雙元音後綴](https://zh.wikipedia.org/wiki/雙元音 "wikilink")，在智利則使用一種單元音和雙元音俱有的形式。一般說來，voseo中與tuteo中的同一個動詞在現在直陳式、[祈使語氣](../Page/祈使語氣.md "wikilink")和現在虛擬式中的形式以及大部份[過去式形式都有顯著差異](https://zh.wikipedia.org/wiki/過去式 "wikilink")\[15\]。下表列出了幾個動詞作為tú、vos以及vostoros（僅在西班牙使用）的[謂語](../Page/謂語.md "wikilink")時的變位形式。要注意的是，這些動詞的[不定式以及vos型和vosotros型變位形式的](https://zh.wikipedia.org/wiki/不定式 "wikilink")[重音都落在最後一個](https://zh.wikipedia.org/wiki/重音 "wikilink")[音節](https://zh.wikipedia.org/wiki/音節 "wikilink")，而tú型變位形式的重音則落在倒數第二個音節。並且在vos型變位中，“recordar”、“poder”與“venir”的[詞根裡不出現雙元音](https://zh.wikipedia.org/wiki/詞根 "wikilink")。
 
 <table>
 <thead>
@@ -184,8 +171,7 @@ Vos的[屬格形式亦與tú相同](https://zh.wikipedia.org/wiki/屬格 "wikili
 
 此處的“通用”變位形式指的是在阿根廷、烏拉圭、巴拉圭、玻利維亞東部、厄瓜多爾、哥倫比亞部分地區以及中美洲國家所使用的變位形式。
 
-在智利方言中，動詞的vos型變位形式較為特殊：在後綴為“-áis”與“-ois”時，最後的“s”常常不發音，例如“vos/tú
-soi/erís”；“vos/tú estái”等
+在智利方言中，動詞的vos型變位形式較為特殊：在後綴為“-áis”與“-ois”時，最後的“s”常常不發音，例如“vos/tú soi/erís”；“vos/tú estái”等
 ；而在後綴為“-ís”時（例如comís、podís、vivís、erís、venís）時，最後的“s”都會發音，但這個音聽上去如同英語的“h”，在輔音字母之前的時候尤為明顯。此外，智利、委內瑞拉蘇利亞州和巴拿馬阿蘇埃羅半島的方言中的雙元音後綴用法與西班牙的vosotros型變位形式一致。
 
 在拉迪諾語中，後綴“-áis”、“-éis”、“-ís”以及“-ois”的發音分別為、、和。
@@ -259,10 +245,7 @@ VOSEO
 
 #### 虛擬式
 
-在voseo中，動詞的虛擬式也有自己獨特的變位方法。但在voseo被規定為標準文法的拉布拉他河方言中，虛擬式卻更多地使用地tú型變位形式。例如在中美洲會說“no
-mintás”（別騙我），在智利會說“no
-mintái”；在拉布拉他河地區，一般的用法卻是跟西班牙和[墨西哥](../Page/墨西哥.md "wikilink")一樣的“no
-mientas”。但在這一地區，vos型變位形式並未完全消失，而是會在某些[修辭手法](https://zh.wikipedia.org/wiki/修辭手法 "wikilink")（例如強調或抒情時）中使用。
+在voseo中，動詞的虛擬式也有自己獨特的變位方法。但在voseo被規定為標準文法的拉布拉他河方言中，虛擬式卻更多地使用地tú型變位形式。例如在中美洲會說“no mintás”（別騙我），在智利會說“no mintái”；在拉布拉他河地區，一般的用法卻是跟西班牙和[墨西哥](../Page/墨西哥.md "wikilink")一樣的“no mientas”。但在這一地區，vos型變位形式並未完全消失，而是會在某些[修辭手法](https://zh.wikipedia.org/wiki/修辭手法 "wikilink")（例如強調或抒情時）中使用。
 
 <table>
 <thead>
@@ -320,23 +303,19 @@ mientas”。但在這一地區，vos型變位形式並未完全消失，而是�
 ### 動詞voseo與代詞voseo
 
   - “動詞voseo”指的是無論使用哪種第二人稱單數代詞，其後所接的動詞都使用vos型變位形式。
-      - 在智利，tú之後接上動詞的vos型變位形式的說法最為常用，例如“tú venís”、“tú escribís”、“tú
-        podís”、“tú sabís”、“tú vai”、“tú
-        estái”等，而只有在關係非常親密的人之間才會直接使用代詞vos。有些情況下，直接使用vos甚至會被當成對對方的[侮辱](https://zh.wikipedia.org/wiki/蔑稱 "wikilink")。
+      - 在智利，tú之後接上動詞的vos型變位形式的說法最為常用，例如“tú venís”、“tú escribís”、“tú podís”、“tú sabís”、“tú vai”、“tú estái”等，而只有在關係非常親密的人之間才會直接使用代詞vos。有些情況下，直接使用vos甚至會被當成對對方的[侮辱](https://zh.wikipedia.org/wiki/蔑稱 "wikilink")。
       - 有些烏拉圭人也會在tú之後接上動詞的vos型變位形式，例如“tú podés”、“tú sabés”、“tú hablás”等。
 
 <!-- end list -->
 
   - “代詞voseo”指的是第二人稱單數代詞使用vos，但其後接的動詞卻是tú或其他代詞所對應的變位形式。
-      - 在阿根廷的[聖地亞哥-德爾埃斯特羅省等地](https://zh.wikipedia.org/wiki/聖地亞哥-德爾埃斯特羅省 "wikilink")，人們一般會在vos之後接上動詞的tú型變位形式，例如“vos
-        sabes”。
+      - 在阿根廷的[聖地亞哥-德爾埃斯特羅省等地](https://zh.wikipedia.org/wiki/聖地亞哥-德爾埃斯特羅省 "wikilink")，人們一般會在vos之後接上動詞的tú型變位形式，例如“vos sabes”。
 
 ## 地理分佈
 
 ### Voseo是主流用法的國家
 
-[Voseo_Buenos_Aires.jpg](https://zh.wikipedia.org/wiki/File:Voseo_Buenos_Aires.jpg "fig:Voseo_Buenos_Aires.jpg")
-[Pedi_Voseo_El_Salvador.jpg](https://zh.wikipedia.org/wiki/File:Pedi_Voseo_El_Salvador.jpg "fig:Pedi_Voseo_El_Salvador.jpg")
+[Voseo_Buenos_Aires.jpg](https://zh.wikipedia.org/wiki/File:Voseo_Buenos_Aires.jpg "fig:Voseo_Buenos_Aires.jpg") [Pedi_Voseo_El_Salvador.jpg](https://zh.wikipedia.org/wiki/File:Pedi_Voseo_El_Salvador.jpg "fig:Pedi_Voseo_El_Salvador.jpg")
 
 [南美洲](../Page/南美洲.md "wikilink")\[17\]：
 
@@ -419,104 +398,50 @@ Voseo用法曾經在很長時期以內倍受語言學家的責難，因為他們
 
   - [西班牙皇家學院](https://zh.wikipedia.org/wiki/西班牙皇家學院 "wikilink")（）(2005)所編纂《泛西釋疑辭典》（）中的“voseo”項目：[Voseo](https://web.archive.org/web/20121025052840/http://www.rae.es/dpd/?key=voseo).
 
-  - 西班牙語[Wikibooks中的](https://zh.wikipedia.org/wiki/Wikibooks "wikilink")“voseo”條目：[El
-    voseo](https://zh.wikipedia.org/wiki/:wikibooks:es:Español/La_conjugación/El_voseo "wikilink").
+  - 西班牙語[Wikibooks中的](https://zh.wikipedia.org/wiki/Wikibooks "wikilink")“voseo”條目：[El voseo](https://zh.wikipedia.org/wiki/:wikibooks:es:Español/La_conjugación/El_voseo "wikilink").
 
-  - Norma Beatriz Carricaburo (2003). [*El voseo en la historia y en la
-    lengua de hoy - Las fórmulas de tratamiento en el español
-    actual*](https://web.archive.org/web/20140714195452/http://www.elcastellano.org/ns/edicion/2004/julio/voseo.html).
+  - Norma Beatriz Carricaburo (2003). [*El voseo en la historia y en la lengua de hoy - Las fórmulas de tratamiento en el español actual*](https://web.archive.org/web/20140714195452/http://www.elcastellano.org/ns/edicion/2004/julio/voseo.html).
 
-  - Hotta Hideo (2000). [*La estandarización y el regionalismo en el
-    voseo del español
-    argentino*](https://web.archive.org/web/20061216061101/http://www.aichi-pu.ac.jp/for/~hotta-hi/hh1997b.htm).
+  - Hotta Hideo (2000). [*La estandarización y el regionalismo en el voseo del español argentino*](https://web.archive.org/web/20061216061101/http://www.aichi-pu.ac.jp/for/~hotta-hi/hh1997b.htm).
 
-  - Ángel Rosenblat (2000). [*El castellano en
-    Venezuela*](https://web.archive.org/web/20070110205527/http://www.analitica.com/bitblioteca/rosenblat/castellano.asp).
+  - Ángel Rosenblat (2000). [*El castellano en Venezuela*](https://web.archive.org/web/20070110205527/http://www.analitica.com/bitblioteca/rosenblat/castellano.asp).
 
-  - Luis Alberto Roca (2007). *Breve historia del habla cruceña y su
-    mestizaje*.
+  - Luis Alberto Roca (2007). *Breve historia del habla cruceña y su mestizaje*.
 
-  - Antón Toursinov (2005). [*Formas pronominales de tratamiento en el
-    español actual de
-    Guatemala*](https://archive.is/20120711215004/http://beepdf.com/doc/236367/fpt_guatemala.html).
+  - Antón Toursinov (2005). [*Formas pronominales de tratamiento en el español actual de Guatemala*](https://archive.is/20120711215004/http://beepdf.com/doc/236367/fpt_guatemala.html).
 
   - [Le Voseo](http://www.elconjugador.com/frvoseo.php)
 
 ## 延伸閱讀
 
-  - Acevedo-Halvick, Ana. "Cortesía verbal (introducción)" *Voces* 1
-    (2006): 21–72.
-  - Almasov, Alexey. "'Vos' and 'Vosotros' as Formal Address in Modern
-    Spanish." *Hispania: A Journal Devoted to the Teaching of Spanish
-    and Portuguese* 57.2 (1974): 304–310.
-  - Alvar, Manuel. *Manual de Dialectologia Hispanica: El Español de
-    America*. Barcelona : Editorial Ariel, 1996.
-  - Arrizabalaga, Carlos. "Noticias de la desaparicion del voseo en la
-    costa norte del Peru." *Linguistica Española Actual* 23.2 (2001):
-    257–274.
-  - Baumel-Schreffler, Sandra. "The Voseo: Second Person Singular
-    Pronouns in Guatemalan Speech." *The Language Quarterly* 33.1–2
-    (1995): 33–44.
-  - Benavides, Carlos. "La distribucion del voseo en Hispanoamerica."
-    *Hispania: A Journal Devoted to the Teaching of Spanish and
-    Portuguese* 86.3 (2003): 612–623.
-  - Blanco Botta, Ivonne. "El voseo en Cuba: Estudio sociolinguistico de
-    una zona de la isla." *Beitrage zur Romanischen Philologie* 21.2
-    (1982): 291–304.
-  - Chart, Ira E. "The voseo and tuteo in America." *Modern Language
-    Forum* 28.(1944): 17–24.
-  - Fontanella de Weinberg, Maria Beatriz. "La constitucion del
-    paradigma pronominal de voseo." *Thesaurus: Boletin del Instituto
-    Caro y Cuervo* 32.(1977): 227–241.
-  - King, Jeremy. "Societal Change and Language History in Cervantes'
-    Entremeses: The Status of the Golden Age Vos." *Cervantes: Bulletin
-    of the Cervantes Society of America* 29.1 (2009): 167–195.
-  - Lapesa, Rafael. "Las formas verbales de segunda persona y los
-    origenes del 'voseo'." A*ctas del Tercer Congreso Internacional de
-    Hispanistas*. 519–531. Mexico: El Colegio de Mexico por la
-    Asociacion Internacional de Hispanistas, 1970.
-  - Lapesa, Rafael. *Historia de la lengua española*. Madrid : Gredos,
-    1981.
-  - Leon-Luporsi, Ana Emilia. *Dinamica sociolinguistica e historica de
-    'vos' en el español peninsular*. Diss. The University of Texas at
-    Austin, 1994.
+  - Acevedo-Halvick, Ana. "Cortesía verbal (introducción)" *Voces* 1 (2006): 21–72.
+  - Almasov, Alexey. "'Vos' and 'Vosotros' as Formal Address in Modern Spanish." *Hispania: A Journal Devoted to the Teaching of Spanish and Portuguese* 57.2 (1974): 304–310.
+  - Alvar, Manuel. *Manual de Dialectologia Hispanica: El Español de America*. Barcelona : Editorial Ariel, 1996.
+  - Arrizabalaga, Carlos. "Noticias de la desaparicion del voseo en la costa norte del Peru." *Linguistica Española Actual* 23.2 (2001): 257–274.
+  - Baumel-Schreffler, Sandra. "The Voseo: Second Person Singular Pronouns in Guatemalan Speech." *The Language Quarterly* 33.1–2 (1995): 33–44.
+  - Benavides, Carlos. "La distribucion del voseo en Hispanoamerica." *Hispania: A Journal Devoted to the Teaching of Spanish and Portuguese* 86.3 (2003): 612–623.
+  - Blanco Botta, Ivonne. "El voseo en Cuba: Estudio sociolinguistico de una zona de la isla." *Beitrage zur Romanischen Philologie* 21.2 (1982): 291–304.
+  - Chart, Ira E. "The voseo and tuteo in America." *Modern Language Forum* 28.(1944): 17–24.
+  - Fontanella de Weinberg, Maria Beatriz. "La constitucion del paradigma pronominal de voseo." *Thesaurus: Boletin del Instituto Caro y Cuervo* 32.(1977): 227–241.
+  - King, Jeremy. "Societal Change and Language History in Cervantes' Entremeses: The Status of the Golden Age Vos." *Cervantes: Bulletin of the Cervantes Society of America* 29.1 (2009): 167–195.
+  - Lapesa, Rafael. "Las formas verbales de segunda persona y los origenes del 'voseo'." A*ctas del Tercer Congreso Internacional de Hispanistas*. 519–531. Mexico: El Colegio de Mexico por la Asociacion Internacional de Hispanistas, 1970.
+  - Lapesa, Rafael. *Historia de la lengua española*. Madrid : Gredos, 1981.
+  - Leon-Luporsi, Ana Emilia. *Dinamica sociolinguistica e historica de 'vos' en el español peninsular*. Diss. The University of Texas at Austin, 1994.
   - Lipski, John. *Latin American Spanish*. New York : Longman, 1994.
-  - Ortiz, Martha D. *"Voseo" in El Salvador*. Diss. San Jose State
-    University, 2000
-  - Pierris, Marta de. "El preludio del voseo en el español medieval."
-    *Romance Philology* 31.(1977): 235–243.
-  - Pinkerton, Anne. "Observations on the Tú/Vos Option in Guatemalan
-    Ladino Spanish." *Hispania: A Journal Devoted to the Teaching of
-    Spanish and Portuguese* 69.3 (1986): 690–698.
-  - Primorac, Karen Johnson. "Tu, vos, and vuestra merced: Social and
-    Stylistic Variation in Medieval Spanish." *Dissertation Abstracts
-    International*, Section A: The Humanities and Social Sciences 57.11
-    (1997): 4720–4721.
-  - Quilis, Antonio, and Matilde Graell Stanziola. "El voseo en Panama."
-    *Revista de Filologia Española* 69.1–2 (1989): 173–178.
-  - Rey, Alberto. "Social Correlates of the Voseo of Managua, Nicaragua:
-    Workplace, Street, and Party Domains." *Hispanic Journal* 18.1
-    (1997): 109–126.
-  - Rey, Alberto. "Social Correlates of the Voseo of Managua, Nicaragua:
-    Workplace, Street, and Party Domains." *Hispanic Journal* 17.1
-    (1996): 113–127.
-  - Rey, Alberto. "Social Correlates of the Voseo of Managua: Family and
-    Neighborhood Domains." *Hispanic Journal* 16.1 (1995): 39–53.
-  - Stevenson, Jeffrey Lee. "The Sociolinguistic Variables of Chilean
-    Voseo." *Dissertation Abstracts International*, Section A: The
-    Humanities and Social Sciences 68.5 (2007): 1914–1915.
-  - Toursinov, Antón. "Stylistic variability of pronoun addresses in
-    modern Spanish of Guatemala." *Language and Literature* 17(3).
-    Tyumen State University (2002): 68–78
-  - Villegas, Francisco. "The Voseo in Costa Rican Spanish." *Hispania:
-    A Journal Devoted to the Teaching of Spanish and Portuguese* 46.3
-    (1963): 612–615.
-  - Weeks, Patricia C.. *El voseo en Chile: Factores
-    historico-morfologicos que explican su aparicion y mantenimiento*.
-    Diss. State University of New York at Albany, 2005.
+  - Ortiz, Martha D. *"Voseo" in El Salvador*. Diss. San Jose State University, 2000
+  - Pierris, Marta de. "El preludio del voseo en el español medieval." *Romance Philology* 31.(1977): 235–243.
+  - Pinkerton, Anne. "Observations on the Tú/Vos Option in Guatemalan Ladino Spanish." *Hispania: A Journal Devoted to the Teaching of Spanish and Portuguese* 69.3 (1986): 690–698.
+  - Primorac, Karen Johnson. "Tu, vos, and vuestra merced: Social and Stylistic Variation in Medieval Spanish." *Dissertation Abstracts International*, Section A: The Humanities and Social Sciences 57.11 (1997): 4720–4721.
+  - Quilis, Antonio, and Matilde Graell Stanziola. "El voseo en Panama." *Revista de Filologia Española* 69.1–2 (1989): 173–178.
+  - Rey, Alberto. "Social Correlates of the Voseo of Managua, Nicaragua: Workplace, Street, and Party Domains." *Hispanic Journal* 18.1 (1997): 109–126.
+  - Rey, Alberto. "Social Correlates of the Voseo of Managua, Nicaragua: Workplace, Street, and Party Domains." *Hispanic Journal* 17.1 (1996): 113–127.
+  - Rey, Alberto. "Social Correlates of the Voseo of Managua: Family and Neighborhood Domains." *Hispanic Journal* 16.1 (1995): 39–53.
+  - Stevenson, Jeffrey Lee. "The Sociolinguistic Variables of Chilean Voseo." *Dissertation Abstracts International*, Section A: The Humanities and Social Sciences 68.5 (2007): 1914–1915.
+  - Toursinov, Antón. "Stylistic variability of pronoun addresses in modern Spanish of Guatemala." *Language and Literature* 17(3). Tyumen State University (2002): 68–78
+  - Villegas, Francisco. "The Voseo in Costa Rican Spanish." *Hispania: A Journal Devoted to the Teaching of Spanish and Portuguese* 46.3 (1963): 612–615.
+  - Weeks, Patricia C.. *El voseo en Chile: Factores historico-morfologicos que explican su aparicion y mantenimiento*. Diss. State University of New York at Albany, 2005.
 
-[Category:西班牙語](https://zh.wikipedia.org/wiki/Category:西班牙語 "wikilink")
-[Category:人稱代詞](https://zh.wikipedia.org/wiki/Category:人稱代詞 "wikilink")
+[Category:西班牙語](https://zh.wikipedia.org/wiki/Category:西班牙語 "wikilink") [Category:人稱代詞](https://zh.wikipedia.org/wiki/Category:人稱代詞 "wikilink")
 
 1.
 2.
@@ -525,26 +450,16 @@ Voseo用法曾經在很長時期以內倍受語言學家的責難，因為他們
 4.
 
 5.
-6.  Luizete Guimarães Barros. 1990. [Lengua y nación en la Gramática de
-    Bello](http://www.mec.es/sgci/br/es/publicaciones/anuario/abeh2000.pdf#page=47).
-    *Anuario brasileño de estudios hispánicos*.
+6.  Luizete Guimarães Barros. 1990. [Lengua y nación en la Gramática de Bello](http://www.mec.es/sgci/br/es/publicaciones/anuario/abeh2000.pdf#page=47). *Anuario brasileño de estudios hispánicos*.
 
 7.
 8.
-9.   Lapesa Melgar, Rafael. 1970. "[Las formas verbales de segunda
-    persona y los orígenes del
-    voseo](http://www.cvc.cervantes.es/obref/aih/pdf/03/aih_03_1_060.pdf)",
-    in: Carlos H. Magis (ed.), *Actas del III Congreso de la Asociación
-    Internacional de Hispanistas* (México, D.F., 26-31 Aug 1968).
-    México: Colegio de México, 519-531.
+9.   Lapesa Melgar, Rafael. 1970. "[Las formas verbales de segunda persona y los orígenes del voseo](http://www.cvc.cervantes.es/obref/aih/pdf/03/aih_03_1_060.pdf)", in: Carlos H. Magis (ed.), *Actas del III Congreso de la Asociación Internacional de Hispanistas* (México, D.F., 26-31 Aug 1968). México: Colegio de México, 519-531.
 
 10.
-11.  García de Diego, Vicente. \[1951\] 1981. *Gramática histórica
-    española*. (3rd edition; 1st edition 1951, 2nd edition 1961, 3rd
-    edition 1970, 1st reprint 1981.) Madrid: Gredos, 227-229.
+11.  García de Diego, Vicente. \[1951\] 1981. *Gramática histórica española*. (3rd edition; 1st edition 1951, 2nd edition 1961, 3rd edition 1970, 1st reprint 1981.) Madrid: Gredos, 227-229.
 
-12. “-ides”沒有變為“-íes”是因為“-iés”以及“-íes”已用於表示[未完成式](https://zh.wikipedia.org/wiki/未完成式 "wikilink")。cf.
-    García de Diego (\[1951\] 1981: 228) and Lapesa (1970: 526).
+12. “-ides”沒有變為“-íes”是因為“-iés”以及“-íes”已用於表示[未完成式](https://zh.wikipedia.org/wiki/未完成式 "wikilink")。cf. García de Diego (\[1951\] 1981: 228) and Lapesa (1970: 526).
 
 13.
 14.
@@ -554,10 +469,7 @@ Voseo用法曾經在很長時期以內倍受語言學家的責難，因為他們
 18.
 19.
 20.
-21. Ortiz, Martha D., [El voseo en El
-    Salvador](http://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=3056&context=etd_theses)
-    (2000). Master's Theses. Paper 2060. Consultado el 10 de julio de
-    2014.
+21. Ortiz, Martha D., [El voseo en El Salvador](http://scholarworks.sjsu.edu/cgi/viewcontent.cgi?article=3056&context=etd_theses) (2000). Master's Theses. Paper 2060. Consultado el 10 de julio de 2014.
 
 22.
 

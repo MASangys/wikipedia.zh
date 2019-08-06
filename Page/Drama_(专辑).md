@@ -101,6 +101,4 @@ Unstoppable Sun</p></td>
 | 擋不住的太陽 Unstoppable Sun | [傅天余](../Page/傅天余.md "wikilink")                    | 2014年11月26日 | [郭雪芙](../Page/郭雪芙.md "wikilink")演出           |
 |                        |                                                     |             |                                              |
 
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:炎亞綸音樂專輯](https://zh.wikipedia.org/wiki/Category:炎亞綸音樂專輯 "wikilink")
+[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:炎亞綸音樂專輯](https://zh.wikipedia.org/wiki/Category:炎亞綸音樂專輯 "wikilink")

@@ -6,13 +6,11 @@
 
 在各PID中，较为特别的是0号PID和1号PID。PID为0者为交换进程（），属于内核进程，负责[分页任务](https://zh.wikipedia.org/wiki/分页 "wikilink")；PID为1者则常为[init进程](https://zh.wikipedia.org/wiki/init "wikilink")，主要负责启动与关闭系统。值得一提的是，1号PID本来并非是特意为init进程预留的，而init进程之所以拥有这一PID，则是因为init即是内核创建的第一个进程。不过，现今的许多UNIX/类UNIX系统内核也有以进程形式存在的其他组成部分，而在这种情况下，1号PID则仍为init进程保有，以与之前系统保持一致\[1\]。
 
-PID的分配机制则因系统而异，一般从0开始，然后顺序分配，直到达到一个最大值（亦因系统而异），而后又从300开始重新分配；在[Mac OS
-X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[HP-UX](../Page/HP-UX.md "wikilink")下，则是由100开始重分配。在分配PID时，若遇到已分配的PID，则直接跳过，继续递增查找下一个可分配PID。
+PID的分配机制则因系统而异，一般从0开始，然后顺序分配，直到达到一个最大值（亦因系统而异），而后又从300开始重新分配；在[Mac OS X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[HP-UX](../Page/HP-UX.md "wikilink")下，则是由100开始重分配。在分配PID时，若遇到已分配的PID，则直接跳过，继续递增查找下一个可分配PID。
 
 ## Microsoft Windows
 
-[Microsoft
-Windows系列操作系统提供了一系列API](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，以使开发者可以获取相关PID，如用于获取当前进程PID`GetCurrentProcessId()`\[2\]、返回其他进程PID的`GetProcessId()`\[3\]。在操作系统内部，进程ID与线程ID在同一个命名空间中，因此二者不会重合。
+[Microsoft Windows系列操作系统提供了一系列API](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，以使开发者可以获取相关PID，如用于获取当前进程PID`GetCurrentProcessId()`\[2\]、返回其他进程PID的`GetProcessId()`\[3\]。在操作系统内部，进程ID与线程ID在同一个命名空间中，因此二者不会重合。
 
 ## PID文件
 

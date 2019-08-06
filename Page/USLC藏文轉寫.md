@@ -1,10 +1,4 @@
-USLC轉寫是美國國會圖書館（United States Library of
-Congress)所推出的一種轉寫方式，涵蓋藏文和梵文。這種轉寫比流行的[威利轉寫更能準確對應藏文](https://zh.wikipedia.org/wiki/威利轉寫 "wikilink")，比如
-[威利轉寫爲thon](https://zh.wikipedia.org/wiki/威利轉寫 "wikilink")-mi
-sam-bho-ta，是梵文词语，
-如果沒有藏文，僅從[威利轉寫](https://zh.wikipedia.org/wiki/威利轉寫 "wikilink")，只能判斷ta是，無法得知是。而USLC轉寫，是thon-mi
-sam-bho-ṭa，可以和藏文准确对应。USLC又称ALA-LC American Library Association - Library
-of Congress.
+USLC轉寫是美國國會圖書館（United States Library of Congress)所推出的一種轉寫方式，涵蓋藏文和梵文。這種轉寫比流行的[威利轉寫更能準確對應藏文](https://zh.wikipedia.org/wiki/威利轉寫 "wikilink")，比如 [威利轉寫爲thon](https://zh.wikipedia.org/wiki/威利轉寫 "wikilink")-mi sam-bho-ta，是梵文词语， 如果沒有藏文，僅從[威利轉寫](https://zh.wikipedia.org/wiki/威利轉寫 "wikilink")，只能判斷ta是，無法得知是。而USLC轉寫，是thon-mi sam-bho-ṭa，可以和藏文准确对应。USLC又称ALA-LC American Library Association - Library of Congress.
 
 ## 轉寫藏文
 
@@ -563,8 +557,7 @@ of Congress.
 
 除了開篇所述，USLC對,有不同的轉寫字母。
 
-如果一篇文章同時有藏文和梵文，如果藏文轉寫使用威利，梵文則使用流行的IAST/USLC方案，則一個藏文字母就會兩種轉寫。如 威利 nga
-,USLC ṅa。除此之外還有， nya ña，， sha，śa。如果使用USLC則沒有這個問題。
+如果一篇文章同時有藏文和梵文，如果藏文轉寫使用威利，梵文則使用流行的IAST/USLC方案，則一個藏文字母就會兩種轉寫。如 威利 nga ,USLC ṅa。除此之外還有， nya ña，， sha，śa。如果使用USLC則沒有這個問題。
 
 ## 参见
 
@@ -575,7 +568,6 @@ of Congress.
 
 ## 外部链接
 
-[ALA-LC罗马化是美国国会图书馆和美国图书馆协会的转写标准，广泛的用于北美图书馆。转写表基于各种语言](http://www.loc.gov/catdir/cpso/roman.html)
-[其它藏文拉丁文转写方案](https://web.archive.org/web/20120724213350/http://home.educities.edu.tw/emaho/ema_tibetan002.html)
+[ALA-LC罗马化是美国国会图书馆和美国图书馆协会的转写标准，广泛的用于北美图书馆。转写表基于各种语言](http://www.loc.gov/catdir/cpso/roman.html) [其它藏文拉丁文转写方案](https://web.archive.org/web/20120724213350/http://home.educities.edu.tw/emaho/ema_tibetan002.html)
 
 [Category:藏文拉丁化](https://zh.wikipedia.org/wiki/Category:藏文拉丁化 "wikilink")

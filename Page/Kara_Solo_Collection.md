@@ -1,5 +1,4 @@
-《**Kara Solo Collection**》是韩国女子音乐组合Kara的首张韩文特别专辑，2012年12月4日由DSP
-Media发行；日本输入盘于2013年9月25日由UNIVERSAL SIGMA代理发行。
+《**Kara Solo Collection**》是韩国女子音乐组合Kara的首张韩文特别专辑，2012年12月4日由DSP Media发行；日本输入盘于2013年9月25日由UNIVERSAL SIGMA代理发行。
 
 ## 收录曲目
 
@@ -37,13 +36,10 @@ Media发行；日本输入盘于2013年9月25日由UNIVERSAL SIGMA代理发行�
 ## 外部連結
 
   - [Kara韓國官方網站](https://web.archive.org/web/20110710172218/http://kara.dspmedia.co.kr/)
-
   - [Kara日本官方網站](http://www.karaweb.jp/)
   - [Kara facebook](http://www.facebook.com/karakpop)
   - [Kara官方facebook](https://www.facebook.com/dspofficialkara)
   - [華納唱片-Kara團體介紹](https://web.archive.org/web/20120901091616/http://www.warnermusic.com.tw/artist/149)
   - [Kara官方頻道](http://www.youtube.com/DSPKara)（[YouTube](../Page/YouTube.md "wikilink")）
 
-[Category:Kara](https://zh.wikipedia.org/wiki/Category:Kara "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:Kara](https://zh.wikipedia.org/wiki/Category:Kara "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

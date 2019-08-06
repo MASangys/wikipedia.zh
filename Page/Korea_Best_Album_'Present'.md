@@ -1,5 +1,4 @@
-《**Japan Best Album
-'Present**'》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")首張[韓語精選輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，在2014年2月5日發行，大碟輯錄了20首他們在韓國發行的歌曲\[1\]。
+《**Japan Best Album 'Present**'》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")首張[韓語精選輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，在2014年2月5日發行，大碟輯錄了20首他們在韓國發行的歌曲\[1\]。
 
 ## 背景
 
@@ -9,8 +8,7 @@
 
 此專輯共分為2個發行版本：
 
-  - 初回限定盤（編號：WPZL-30815/7）：此版本包括兩片CD及一片收錄《Love》、《直感》及《LOVE
-    GIRL》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")DVD，另外附贈2014年1月至6月的半年曆\[5\]。
+  - 初回限定盤（編號：WPZL-30815/7）：此版本包括兩片CD及一片收錄《Love》、《直感》及《LOVE GIRL》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")DVD，另外附贈2014年1月至6月的半年曆\[5\]。
 
 <!-- end list -->
 
@@ -36,8 +34,7 @@
 
 ## 參考資料
 
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:CNBLUE音樂專輯](https://zh.wikipedia.org/wiki/Category:CNBLUE音樂專輯 "wikilink")
+[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:CNBLUE音樂專輯](https://zh.wikipedia.org/wiki/Category:CNBLUE音樂專輯 "wikilink")
 
 1.
 

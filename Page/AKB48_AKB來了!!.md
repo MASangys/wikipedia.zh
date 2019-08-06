@@ -1,12 +1,9 @@
-**AKB48
-AKB來了\!\!**（）是日本偶像組合[AKB48](../Page/AKB48.md "wikilink")於2010年8月17日至31日於[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")、[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")、[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")、[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")6個地方舉行的全國巡迴演唱會\[1\]。
+**AKB48 AKB來了\!\!**（）是日本偶像組合[AKB48](../Page/AKB48.md "wikilink")於2010年8月17日至31日於[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")、[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")、[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")、[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")、[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")、[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")6個地方舉行的全國巡迴演唱會\[1\]。
 
 ## 概要
 
-  - 在演唱會「希望滿席祭
-    贊否兩論」第1天的公演完結時，公佈將會於8月舉行全國巡迴演唱會，包括廣島、大阪、福岡、仙台、札幌及名古屋\[2\]\[3\]\[4\]。
-  - 官方網站於2010年4月24日公佈全國巡迴演唱會的名稱為「AKB48 AKB來了\!\!
-    」及各地的表演隊伍、時間及地點等\[5\]\[6\]。
+  - 在演唱會「希望滿席祭 贊否兩論」第1天的公演完結時，公佈將會於8月舉行全國巡迴演唱會，包括廣島、大阪、福岡、仙台、札幌及名古屋\[2\]\[3\]\[4\]。
+  - 官方網站於2010年4月24日公佈全國巡迴演唱會的名稱為「AKB48 AKB來了\!\! 」及各地的表演隊伍、時間及地點等\[5\]\[6\]。
   - 而其中3場公演亦會於2010年10月在播放\[7\]\[8\]\[9\]。
 
 ## 參加成員
@@ -45,10 +42,8 @@ AKB來了\!\!**（）是日本偶像組合[AKB48](../Page/AKB48.md "wikilink")�
 7.  **[手牽手](../Page/Team_A_6th_Stage「目擊者」.md "wikilink")**（） - 仲谷、前田敦、倉持
 8.  **[燃燒路線](../Page/Team_A_6th_Stage「目擊者」.md "wikilink")**（） - 高城、指原
 9.  **[愛的加速器](../Page/Team_A_6th_Stage「目擊者」.md "wikilink")**（） - 高橋
-10. **[☆之彼方](../Page/Team_A_6th_Stage「目擊者」.md "wikilink")**（） -
-    中田、小嶋、多田、岩佐
-11. **[仙人掌與淘金熱](../Page/Team_A_6th_Stage「目擊者」.md "wikilink")**（） -
-    大家、片山、前田亞、篠田、松原、仲川
+10. **[☆之彼方](../Page/Team_A_6th_Stage「目擊者」.md "wikilink")**（） - 中田、小嶋、多田、岩佐
+11. **[仙人掌與淘金熱](../Page/Team_A_6th_Stage「目擊者」.md "wikilink")**（） - 大家、片山、前田亞、篠田、松原、仲川
 12. **MC2** - 大家、片山、前田亞、篠田、松原、仲川
 13. **[美人](../Page/Team_A_6th_Stage「目擊者」.md "wikilink")**（） - 全員
 14. **[給我愛](../Page/Team_A_6th_Stage「目擊者」.md "wikilink")**（） - 全員
@@ -96,8 +91,7 @@ AKB來了\!\!**（）是日本偶像組合[AKB48](../Page/AKB48.md "wikilink")�
 13. **美人** - 全員
 14. **給我愛** - 全員
 15. **摩天樓的距離** - 全員
-16. **MC3** -
-    （前半）仲谷、倉持、高橋、多田、高城、中田、片山、大家；（後半）松原、小嶋、岩佐、前田敦、前田亞、指原、仲川、篠田（橫山）
+16. **MC3** - （前半）仲谷、倉持、高橋、多田、高城、中田、片山、大家；（後半）松原、小嶋、岩佐、前田敦、前田亞、指原、仲川、篠田（橫山）
 17. **生命的意義** - 全員
 
 **安可曲**
@@ -133,22 +127,16 @@ AKB來了\!\!**（）是日本偶像組合[AKB48](../Page/AKB48.md "wikilink")�
 4.  **[愛的脫衣舞者](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 全員
 5.  **[劇場的女神](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 全員
 6.  **MC1** - 自我介紹
-7.  **[你好 我的初戀](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） -
-    佐藤堇、渡邊、奧
-8.  **[暴風雨之夜](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） -
-    鈴木、小森、宮崎、佐藤夏
-9.  **[來一塊糖果](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） -
-    增田、河西、佐藤亞
-10. **[男更衣室](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） -
-    小林、石田、北原、近野、平嶋
+7.  **[你好 我的初戀](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 佐藤堇、渡邊、奧
+8.  **[暴風雨之夜](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 鈴木、小森、宮崎、佐藤夏
+9.  **[來一塊糖果](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 增田、河西、佐藤亞
+10. **[男更衣室](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 小林、石田、北原、近野、平嶋
 11. **[夜風的惡作劇](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 柏木
 12. **MC2** - 佐藤夏、奧、渡邊、宮崎、佐藤堇、鈴木、小森
-13. **[100公尺便利商店](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） -
-    全員
+13. **[100公尺便利商店](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 全員
 14. **[喜歡 喜歡 喜歡](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 全員
 15. **[再見緊緊的捆綁](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 全員
-16. **MC3** -
-    （前半）：石田、小森、佐藤亞、柏木、鈴木、增田、宮崎、小林；（後半）：奧、近野、佐藤夏、北原、渡邊、河西、佐藤堇、平嶋
+16. **MC3** - （前半）：石田、小森、佐藤亞、柏木、鈴木、增田、宮崎、小林；（後半）：奧、近野、佐藤夏、北原、渡邊、河西、佐藤堇、平嶋
 17. **[海風的請帖](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 全員
 
 **安可曲**
@@ -177,23 +165,16 @@ AKB來了\!\!**（）是日本偶像組合[AKB48](../Page/AKB48.md "wikilink")�
 <!-- end list -->
 
 1.  **overture**
-2.  **[RESET](../Page/Team_K_6th_Stage「RESET」.md "wikilink")** -
-    全員（早場開頭：田名部、內田、小野、板野；夜場開頭：藤江、宮澤、米澤、中塚）
+2.  **[RESET](../Page/Team_K_6th_Stage「RESET」.md "wikilink")** - 全員（早場開頭：田名部、內田、小野、板野；夜場開頭：藤江、宮澤、米澤、中塚）
 3.  **[要洗的衣服們](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - 全員
-4.  **[可以做你的女友嗎？](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） -
-    全員
+4.  **[可以做你的女友嗎？](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - 全員
 5.  **[唔吼大遊行](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - 全員
 6.  **MC1** - 自我介紹
-7.  **[制服的抵抗](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） -
-    仁藤、板野、小野
-8.  **[奇跡也趕不及合格](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） -
-    野中、宮澤、米澤
-9.  **[逆轉的王子殿下](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） -
-    內田、峯岸、中塚
-10. **[為了明天而接吻](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） -
-    田名部、秋元、菊地、松井
-11. **[心端的沙發](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） -
-    藤江、梅田、大島
+7.  **[制服的抵抗](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - 仁藤、板野、小野
+8.  **[奇跡也趕不及合格](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - 野中、宮澤、米澤
+9.  **[逆轉的王子殿下](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - 內田、峯岸、中塚
+10. **[為了明天而接吻](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - 田名部、秋元、菊地、松井
+11. **[心端的沙發](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - 藤江、梅田、大島
 12. **MC2** - 藤江、梅田、大島
 13. **[毒蜘蛛](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - 全員
 14. **[輸光愛情](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - 全員
@@ -241,8 +222,7 @@ AKB來了\!\!**（）是日本偶像組合[AKB48](../Page/AKB48.md "wikilink")�
 13. **美人** - 全員
 14. **給我愛** - 全員
 15. **摩天樓的距離** - 全員
-16. **MC3** -
-    （前半）仲谷、倉持、高橋、多田、高城、中田、片山、大家；（後半）松原、小嶋、岩佐、前田敦、前田亞、指原、仲川、篠田（橫山）
+16. **MC3** - （前半）仲谷、倉持、高橋、多田、高城、中田、片山、大家；（後半）松原、小嶋、岩佐、前田敦、前田亞、指原、仲川、篠田（橫山）
 17. **生命的意義** - 全員
 
 **安可曲**
@@ -330,8 +310,7 @@ AKB來了\!\!**（）是日本偶像組合[AKB48](../Page/AKB48.md "wikilink")�
 13. **100公尺便利商店** - 全員
 14. **喜歡 喜歡 喜歡** - 全員
 15. **再見緊緊的捆綁** - 全員
-16. **MC3** -
-    （前半）：石田、小森、佐藤亞、柏木、鈴木、增田、宮崎、小林；（後半）：奧、近野、佐藤夏、北原、渡邊、河西、佐藤堇、平嶋
+16. **MC3** - （前半）：石田、小森、佐藤亞、柏木、鈴木、增田、宮崎、小林；（後半）：奧、近野、佐藤夏、北原、渡邊、河西、佐藤堇、平嶋
 17. **海風的請帖** - 全員
 
 **安可曲**
@@ -344,8 +323,7 @@ AKB來了\!\!**（）是日本偶像組合[AKB48](../Page/AKB48.md "wikilink")�
 **2次安可曲**
 
 1.  **無限重播** - 全員
-2.  **[很早以前](../Page/很早以前.md "wikilink")**（） - [French
-    Kiss](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")（倉持、柏木、高城）
+2.  **[很早以前](../Page/很早以前.md "wikilink")**（） - [French Kiss](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")（倉持、柏木、高城）
 
 **3次安可曲**
 
@@ -402,10 +380,7 @@ AKB來了\!\!**（）是日本偶像組合[AKB48](../Page/AKB48.md "wikilink")�
 
 ## DVD
 
-演唱會的[DVD同樣由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS](../Page/AKS.md "wikilink")於2010年11月28日發行。共分為普通DVD版本、DVD及[microSD版本及Premium](https://zh.wikipedia.org/wiki/microSD "wikilink")
-Box版本。普通DVD版本與DVD及[microSD版本分為Team](https://zh.wikipedia.org/wiki/microSD "wikilink")
-A、Team K及Team B三款，各附有1枚DVD、1張生寫真及1張收集卡，而microSD亦收錄演唱會內容供手機觀賞。而Premium
-Box則有9枚DVD，分別收錄8場公演及特典映像。此外亦附送5張生寫真、1張收集卡及128頁的演唱會寫真集\[47\]\[48\]。
+演唱會的[DVD同樣由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS](../Page/AKS.md "wikilink")於2010年11月28日發行。共分為普通DVD版本、DVD及[microSD版本及Premium](https://zh.wikipedia.org/wiki/microSD "wikilink") Box版本。普通DVD版本與DVD及[microSD版本分為Team](https://zh.wikipedia.org/wiki/microSD "wikilink") A、Team K及Team B三款，各附有1枚DVD、1張生寫真及1張收集卡，而microSD亦收錄演唱會內容供手機觀賞。而Premium Box則有9枚DVD，分別收錄8場公演及特典映像。此外亦附送5張生寫真、1張收集卡及128頁的演唱會寫真集\[47\]\[48\]。
 
 ## 参考資料
 

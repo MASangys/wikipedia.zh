@@ -13,6 +13,4 @@
 
   - 1997年無線電視勁歌金曲第一季季選－得獎歌曲《談情說愛》
 
-[Category:葉蒨文音樂專輯](https://zh.wikipedia.org/wiki/Category:葉蒨文音樂專輯 "wikilink")
-[Category:1996年音樂專輯](https://zh.wikipedia.org/wiki/Category:1996年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:葉蒨文音樂專輯](https://zh.wikipedia.org/wiki/Category:葉蒨文音樂專輯 "wikilink") [Category:1996年音樂專輯](https://zh.wikipedia.org/wiki/Category:1996年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

@@ -57,25 +57,16 @@ RGS-50是一枝[滑膛單發](../Page/滑膛槍炮.md "wikilink")式[肩射型�
 
   - —[V.A.Degtyarev Plant](http://zid.ru/eng/products/47/detail/236)
 
-  - —[Modern Firearms—RGS-50M grenade
-    launcher](http://world.guns.ru/grenade/rus/rgs-50m-e.html)
+  - —[Modern Firearms—RGS-50M grenade launcher](http://world.guns.ru/grenade/rus/rgs-50m-e.html)
 
   - —[Weapon.ge—RGS-50M](http://georgians.weapon.ge/index.php?sel=1&id=334&man=&coun=24&cat=12&l=en)
 
-  - —[Zonawar.ru—RGS-50M modernized special grenade
-    launcher](https://web.archive.org/web/20141231234652/http://gunsru.ru/rg_granatomet_rgm50m_eng.html)
+  - —[Zonawar.ru—RGS-50M modernized special grenade launcher](https://web.archive.org/web/20141231234652/http://gunsru.ru/rg_granatomet_rgm50m_eng.html)
 
-  - —[The Firearm Blog.com—Kalashnikov Concern, Tula, TsNIITochMash at
-    IDEX](http://www.thefirearmblog.com/blog/2015/03/03/kalashnikov-concern-tula-tsniitochmash-at-idex/)
+  - —[The Firearm Blog.com—Kalashnikov Concern, Tula, TsNIITochMash at IDEX](http://www.thefirearmblog.com/blog/2015/03/03/kalashnikov-concern-tula-tsniitochmash-at-idex/)
 
-  - —[Специальный гранатометный комплекс
-    «РГС-50М»](http://www.zid.ru/products/defence/44/detail/185) /
-    официальный сайт производителя (завод им. В.А. Дегтярёва)
+  - —[Специальный гранатометный комплекс «РГС-50М»](http://www.zid.ru/products/defence/44/detail/185) / официальный сайт производителя (завод им. В.А. Дегтярёва)
 
   - —[Гранатомет РГС-50](http://russianguns.ru/?p=741)
 
-[Category:50毫米口径武器](https://zh.wikipedia.org/wiki/Category:50毫米口径武器 "wikilink")
-[Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink")
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
-[Category:捷格加廖夫工廠](https://zh.wikipedia.org/wiki/Category:捷格加廖夫工廠 "wikilink")
+[Category:50毫米口径武器](https://zh.wikipedia.org/wiki/Category:50毫米口径武器 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:捷格加廖夫工廠](https://zh.wikipedia.org/wiki/Category:捷格加廖夫工廠 "wikilink")

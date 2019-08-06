@@ -1,11 +1,9 @@
-《**We Don't
-Stop**》為[日本](../Page/日本.md "wikilink")歌手[西野加奈於](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")2014年5月21日發行的第23張單曲。
+《**We Don't Stop**》為[日本](../Page/日本.md "wikilink")歌手[西野加奈於](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")2014年5月21日發行的第23張單曲。
 
 ## 簡介
 
   - 本作與前作單曲《[再見](../Page/再見_\(西野加奈單曲\).md "wikilink")》發行相隔約7個月，為2014年第一彈單曲。
-  - 標題曲〈We Don't
-    Stop〉為[日本電視台](../Page/日本電視台.md "wikilink")連續劇《[花咲舞無法沉默](../Page/花咲舞無法沉默.md "wikilink")》的主題曲，歌曲傳達給人們讓他們能有勇氣踏出新的一步\[1\]。
+  - 標題曲〈We Don't Stop〉為[日本電視台](../Page/日本電視台.md "wikilink")連續劇《[花咲舞無法沉默](../Page/花咲舞無法沉默.md "wikilink")》的主題曲，歌曲傳達給人們讓他們能有勇氣踏出新的一步\[1\]。
   - CD+DVD的初回限定版收錄原創替換封面，DVD特別收錄「The Nishino Family Party 2013」的剪輯影像。
 
 ## 發行版本
@@ -43,10 +41,8 @@ Stop**》為[日本](../Page/日本.md "wikilink")歌手[西野加奈於](https:
 
   - [西野加奈官方網站](http://www.nishinokana.com/)
 
-[分類:2014年單曲](https://zh.wikipedia.org/wiki/分類:2014年單曲 "wikilink")
-[分類:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/分類:日本索尼音樂娛樂歌曲 "wikilink")
+[分類:2014年單曲](https://zh.wikipedia.org/wiki/分類:2014年單曲 "wikilink") [分類:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/分類:日本索尼音樂娛樂歌曲 "wikilink")
 
-[Category:西野加奈歌曲](https://zh.wikipedia.org/wiki/Category:西野加奈歌曲 "wikilink")
-[Category:日本電視台週三連續劇主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台週三連續劇主題曲 "wikilink")
+[Category:西野加奈歌曲](https://zh.wikipedia.org/wiki/Category:西野加奈歌曲 "wikilink") [Category:日本電視台週三連續劇主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台週三連續劇主題曲 "wikilink")
 
 1.

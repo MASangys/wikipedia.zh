@@ -1,13 +1,10 @@
-是一種由[微軟開發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[自由和](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[開源的編程语言](https://zh.wikipedia.org/wiki/開源 "wikilink")。它是[JavaScript](../Page/JavaScript.md "wikilink")的一個严格超集，並添加了可選的靜態型別和使用看起來像類別基礎的[物件導向編程語法操作](https://zh.wikipedia.org/wiki/物件導向編程 "wikilink")
-Prototype。[C\#的首席架构师以及](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")[Delphi](../Page/Delphi.md "wikilink")和[Turbo
-Pascal的创始人](../Page/Turbo_Pascal.md "wikilink")[安德斯·海尔斯伯格](../Page/安德斯·海尔斯伯格.md "wikilink")参与了TypeScript的开发。\[1\]\[2\]\[3\]\[4\]
+是一種由[微軟開發的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[自由和](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[開源的編程语言](https://zh.wikipedia.org/wiki/開源 "wikilink")。它是[JavaScript](../Page/JavaScript.md "wikilink")的一個严格超集，並添加了可選的靜態型別和使用看起來像類別基礎的[物件導向編程語法操作](https://zh.wikipedia.org/wiki/物件導向編程 "wikilink") Prototype。[C\#的首席架构师以及](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")[Delphi](../Page/Delphi.md "wikilink")和[Turbo Pascal的创始人](../Page/Turbo_Pascal.md "wikilink")[安德斯·海尔斯伯格](../Page/安德斯·海尔斯伯格.md "wikilink")参与了TypeScript的开发。\[1\]\[2\]\[3\]\[4\]
 
 TypeScript设计目标是开发大型應用，然后转译成JavaScript。\[5\]由于TypeScript是JavaScript的严格超集，任何現有的JavaScript程式都是合法的TypeScript程序。
 
 TypeScript支援為現存JavaScript函式庫添加類型資訊的定义文件，方便其他程序像使用静态类型的值一样使用现有库中的值。目前有第三方提供常用函式庫如[jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink")、[MongoDB](../Page/MongoDB.md "wikilink")、[Node.js](../Page/Node.js.md "wikilink")和[D3.js](../Page/D3.js.md "wikilink")的定义文件。
 
-TypeScript编译器本身也是用TypeScript编写，并被[转译为JavaScript](../Page/源到源编译器.md "wikilink")，以[Apache
-License 2发布](https://zh.wikipedia.org/wiki/Apache_License "wikilink")。
+TypeScript编译器本身也是用TypeScript编写，并被[转译为JavaScript](../Page/源到源编译器.md "wikilink")，以[Apache License 2发布](https://zh.wikipedia.org/wiki/Apache_License "wikilink")。
 
 ## 背景
 
@@ -37,8 +34,7 @@ TypeScript是一种给JavaScript添加特性的语言扩展。增加的功能包
   - [lambda函数的箭头语法](../Page/匿名函数.md "wikilink")
   - 可选参数以及默认参数
 
-在语法上，TypeScript很类似[JScript
-.NET](../Page/JScript_.NET.md "wikilink")，它是另外一个微软对ECMA-262语言标准的实现，添加了对静态类型、经典的面向对象语言特性（如类、继承、接口和命名空间等）的支持。
+在语法上，TypeScript很类似[JScript .NET](../Page/JScript_.NET.md "wikilink")，它是另外一个微软对ECMA-262语言标准的实现，添加了对静态类型、经典的面向对象语言特性（如类、继承、接口和命名空间等）的支持。
 
 ### 类型批注
 
@@ -112,8 +108,7 @@ class Person {
 
 ## 与JavaScript的兼容性
 
-TypeScript是JavaScript的一个超集。默认情况下编译器以ECMAScript
-3（ES3）为目标但ES5也是受支持的一个选项。一个TypeScript应用可以利用已存在的JavaScript脚本。编译后的TypeScript脚本也可以在JavaScript中使用。
+TypeScript是JavaScript的一个超集。默认情况下编译器以ECMAScript 3（ES3）为目标但ES5也是受支持的一个选项。一个TypeScript应用可以利用已存在的JavaScript脚本。编译后的TypeScript脚本也可以在JavaScript中使用。
 
 现有框架如jQuery和Node.js等受到完全支持。这些库的类型声明在源代码中提供。
 
@@ -125,83 +120,36 @@ TypeScript是JavaScript的一个超集。默认情况下编译器以ECMAScript
 
 ### 编译器
 
-TypeScript 编译器，叫做`tsc`，本身也是用 TypeScript 写成的。可以将 TypeScript 编译为可以在任何
-JavaScript 引擎（如浏览器）中执行的标准 JavaScript。编译器包也包含了脚本解释器，用来执行编译器。同时也有个
-[Node.js](../Page/Node.js.md "wikilink") 包，在 Node.js 平台执行。
+TypeScript 编译器，叫做`tsc`，本身也是用 TypeScript 写成的。可以将 TypeScript 编译为可以在任何 JavaScript 引擎（如浏览器）中执行的标准 JavaScript。编译器包也包含了脚本解释器，用来执行编译器。同时也有个 [Node.js](../Page/Node.js.md "wikilink") 包，在 Node.js 平台执行。
 
-另外还有一个用JavaScript写的[alpha版本的客户端编译器](https://zh.wikipedia.org/wiki/软件版本周期#alpha "wikilink")，它在页面载入时，实时执行
-TypeScript 代码。\[9\]
+另外还有一个用JavaScript写的[alpha版本的客户端编译器](https://zh.wikipedia.org/wiki/软件版本周期#alpha "wikilink")，它在页面载入时，实时执行 TypeScript 代码。\[9\]
 
-这种编译器的当前版本默认支持 ECMAScript 5。一个选项是允许以 ECMAScript 2015
-为目标，以利用该版本独有的语言特性（比如生成器）。类尽管是
-ECMAScript 2015 标准的一部分，在这两个模式下都可以使用。
+这种编译器的当前版本默认支持 ECMAScript 5。一个选项是允许以 ECMAScript 2015 为目标，以利用该版本独有的语言特性（比如生成器）。类尽管是 ECMAScript 2015 标准的一部分，在这两个模式下都可以使用。
 
 ### IDE和编辑器支持
 
-  - 微软为[Visual Studio
-    2012和](../Page/Microsoft_Visual_Studio.md "wikilink")[WebMatrix提供了一个](../Page/Microsoft_WebMatrix.md "wikilink")[插件](../Page/插件.md "wikilink")，在[Visual
-    Studio 2013](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")
-    和 [Visual Studio
-    2015](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink")
-    中内嵌了支持，也为[Sublime
-    Text](../Page/Sublime_Text.md "wikilink")、[Emacs](../Page/Emacs.md "wikilink")和[Vim](../Page/Vim.md "wikilink")提供了基本的文本编辑器支持。\[10\]
+  - 微软为[Visual Studio 2012和](../Page/Microsoft_Visual_Studio.md "wikilink")[WebMatrix提供了一个](../Page/Microsoft_WebMatrix.md "wikilink")[插件](../Page/插件.md "wikilink")，在[Visual Studio 2013](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink") 和 [Visual Studio 2015](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink") 中内嵌了支持，也为[Sublime Text](../Page/Sublime_Text.md "wikilink")、[Emacs](../Page/Emacs.md "wikilink")和[Vim](../Page/Vim.md "wikilink")提供了基本的文本编辑器支持。\[10\]
 
 <!-- end list -->
 
-  - [Visual Studio Code](../Page/Visual_Studio_Code.md "wikilink")
-    是一个开源的、跨平台的代码编辑器，是微软在[Electron](../Page/Electron.md "wikilink")
-    的基础上开发的。它支持 TypeScript，同时也支持其他几个语言，同时提供了调试和自动代码补全的功能。
-  - [JetBrains](https://zh.wikipedia.org/wiki/JetBrains公司 "wikilink")
-    在他们的IDE系列中支持
-    TypeScript，而且已经发行了具有部分支持的[PhpStorm](https://zh.wikipedia.org/wiki/PhpStorm "wikilink")
-    6和[WebStorm](https://zh.wikipedia.org/wiki/WebStorm "wikilink") 6 以及
-    [IntelliJ IDEA](../Page/IntelliJ_IDEA.md "wikilink")。\[11\]同时他们的
-    Visual Studio 扩展 [ReSharper](https://www.jetbrains.com/resharper)
-    8.1 也支持。\[12\]
-  - [Atom](https://zh.wikipedia.org/wiki/Atom_\(文字编辑器\) "wikilink") 也有一个
-    [TypeScript 插件](https://atom.io/packages/atom-typescript)， 由
-    [Basarat](https://zh.wikipedia.org/wiki/Basarat_Ali_Syed "wikilink")
-    开发，支持代码补全、跳转、格式化和快速完成。
-  - 在线的[Cloud9 IDE](../Page/Cloud9_IDE.md "wikilink") 和
-    [Codenvy](https://zh.wikipedia.org/wiki/Codenvy "wikilink")
-    也支持TypeScript。
-  - [NetBeans](../Page/NetBeans.md "wikilink") 也有一个
-    [插件](https://github.com/Everlaw/nbts).
-  - [Eclipse IDE](../Page/Eclipse.md "wikilink") (Kepler) 也有一个
-    [插件](https://github.com/palantir/eclipse-typescript)
-  - [TypEcs](https://web.archive.org/web/20140720235749/http://www.typecsdev.com/)也是一个[Eclipse
-    IDE插件](../Page/Eclipse.md "wikilink")
-  - [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") 为
-    [Sublime Text](../Page/Sublime_Text.md "wikilink") 提供了 [TypeScript
-    插件](https://github.com/Microsoft/TypeScript-Sublime-Plugin)
-  - 跨平台云 IDE
-    [Codeanywhere](https://zh.wikipedia.org/wiki/Codeanywhere "wikilink")
-    支持 TypeScript
-  - [Webclipse](https://www.genuitec.com/products/webclipse/) 是一个
-    Eclipse 插件，用于开发
-    [TypeScript](https://www.genuitec.com/tech/jsjet-javascript-in-eclipse/using-typescript/)
-    和 Angular 2.
-  - [Angular IDE](https://www.genuitec.com/products/angular-ide/) 是一个可以从
-    npm 安装的IDE，可以开发
-    [TypeScript](https://www.genuitec.com/tech/jsjet-javascript-in-eclipse/using-typescript/)
-    和 Angular 2 应用，集成终端支持
-  - [Tide](https://github.com/ananthakumaran/tide) —
-    [Emacs](../Page/Emacs.md "wikilink") 的 TypeScript 交互开发环境
+  - [Visual Studio Code](../Page/Visual_Studio_Code.md "wikilink") 是一个开源的、跨平台的代码编辑器，是微软在[Electron](../Page/Electron.md "wikilink") 的基础上开发的。它支持 TypeScript，同时也支持其他几个语言，同时提供了调试和自动代码补全的功能。
+  - [JetBrains](https://zh.wikipedia.org/wiki/JetBrains公司 "wikilink") 在他们的IDE系列中支持 TypeScript，而且已经发行了具有部分支持的[PhpStorm](https://zh.wikipedia.org/wiki/PhpStorm "wikilink") 6和[WebStorm](https://zh.wikipedia.org/wiki/WebStorm "wikilink") 6 以及 [IntelliJ IDEA](../Page/IntelliJ_IDEA.md "wikilink")。\[11\]同时他们的 Visual Studio 扩展 [ReSharper](https://www.jetbrains.com/resharper) 8.1 也支持。\[12\]
+  - [Atom](https://zh.wikipedia.org/wiki/Atom_\(文字编辑器\) "wikilink") 也有一个 [TypeScript 插件](https://atom.io/packages/atom-typescript)， 由 [Basarat](https://zh.wikipedia.org/wiki/Basarat_Ali_Syed "wikilink") 开发，支持代码补全、跳转、格式化和快速完成。
+  - 在线的[Cloud9 IDE](../Page/Cloud9_IDE.md "wikilink") 和 [Codenvy](https://zh.wikipedia.org/wiki/Codenvy "wikilink") 也支持TypeScript。
+  - [NetBeans](../Page/NetBeans.md "wikilink") 也有一个 [插件](https://github.com/Everlaw/nbts).
+  - [Eclipse IDE](../Page/Eclipse.md "wikilink") (Kepler) 也有一个 [插件](https://github.com/palantir/eclipse-typescript)
+  - [TypEcs](https://web.archive.org/web/20140720235749/http://www.typecsdev.com/)也是一个[Eclipse IDE插件](../Page/Eclipse.md "wikilink")
+  - [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink") 为 [Sublime Text](../Page/Sublime_Text.md "wikilink") 提供了 [TypeScript 插件](https://github.com/Microsoft/TypeScript-Sublime-Plugin)
+  - 跨平台云 IDE [Codeanywhere](https://zh.wikipedia.org/wiki/Codeanywhere "wikilink") 支持 TypeScript
+  - [Webclipse](https://www.genuitec.com/products/webclipse/) 是一个 Eclipse 插件，用于开发 [TypeScript](https://www.genuitec.com/tech/jsjet-javascript-in-eclipse/using-typescript/) 和 Angular 2.
+  - [Angular IDE](https://www.genuitec.com/products/angular-ide/) 是一个可以从 npm 安装的IDE，可以开发 [TypeScript](https://www.genuitec.com/tech/jsjet-javascript-in-eclipse/using-typescript/) 和 Angular 2 应用，集成终端支持
+  - [Tide](https://github.com/ananthakumaran/tide) — [Emacs](../Page/Emacs.md "wikilink") 的 TypeScript 交互开发环境
 
 ## 开源
 
-TypeScript是[开源的](../Page/开放源代码.md "wikilink")，其[源代码](../Page/源代码.md "wikilink")可以在[Apache
-2
-License下从](../Page/Apache许可证.md "wikilink")[Github获得](https://zh.wikipedia.org/wiki/Github "wikilink")。这个项目由[Microsoft维护](https://zh.wikipedia.org/wiki/Microsoft "wikilink")，但是任何人可以通过在Github项目页发送反馈、提出建议和提交bugfixes而做出贡献。\[13\]
+TypeScript是[开源的](../Page/开放源代码.md "wikilink")，其[源代码](../Page/源代码.md "wikilink")可以在[Apache 2 License下从](../Page/Apache许可证.md "wikilink")[Github获得](https://zh.wikipedia.org/wiki/Github "wikilink")。这个项目由[Microsoft维护](https://zh.wikipedia.org/wiki/Microsoft "wikilink")，但是任何人可以通过在Github项目页发送反馈、提出建议和提交bugfixes而做出贡献。\[13\]
 
-已有一些批评提到，TypeScript鼓励[强类型](https://zh.wikipedia.org/wiki/强类型 "wikilink")，当前只有[Microsoft
-Visual
-Studio支持在该语言上方便开发](../Page/Microsoft_Visual_Studio.md "wikilink")。最初的方案是在其它的编辑器上带来强类型，,
-[代码完成和](../Page/自动完成.md "wikilink")[代码重构](../Page/代码重构.md "wikilink")的功能，但这可能不是一个简单的任务。\[14\]此外，支持TypeScript开发的Visual
-Studio扩展不是开源的。最好的TypeScript开发体验是在[Microsoft
-Windows上](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，\[15\]然而随着时间的流逝以及这种语言的开放性，加之编译器自我托管，而且用TypeScript自身写的，这很有可能会改变。通过编译器的源代码访问到AST（抽象句法树）以及详细的语言规范文档，社群已开始构建一个跨平台的编辑器，\[16\]\[17\]利用和Visual
-Studio所用到的相同的语言服务以提供一个增强的编辑体验。编辑器仍然在概念检验的阶段，但已经运行于Linux,
-OSX和Windows，提供功能强度相同的IntelliSense,代码完成和句法高亮方法。
+已有一些批评提到，TypeScript鼓励[强类型](https://zh.wikipedia.org/wiki/强类型 "wikilink")，当前只有[Microsoft Visual Studio支持在该语言上方便开发](../Page/Microsoft_Visual_Studio.md "wikilink")。最初的方案是在其它的编辑器上带来强类型，, [代码完成和](../Page/自动完成.md "wikilink")[代码重构](../Page/代码重构.md "wikilink")的功能，但这可能不是一个简单的任务。\[14\]此外，支持TypeScript开发的Visual Studio扩展不是开源的。最好的TypeScript开发体验是在[Microsoft Windows上](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，\[15\]然而随着时间的流逝以及这种语言的开放性，加之编译器自我托管，而且用TypeScript自身写的，这很有可能会改变。通过编译器的源代码访问到AST（抽象句法树）以及详细的语言规范文档，社群已开始构建一个跨平台的编辑器，\[16\]\[17\]利用和Visual Studio所用到的相同的语言服务以提供一个增强的编辑体验。编辑器仍然在概念检验的阶段，但已经运行于Linux, OSX和Windows，提供功能强度相同的IntelliSense,代码完成和句法高亮方法。
 
 ## 参见
 
@@ -220,21 +168,15 @@ OSX和Windows，提供功能强度相同的IntelliSense,代码完成和句法高
 
   - [TypeScript官方网站](http://www.typescriptlang.org/)
   - [TypeScript示例](http://www.typescriptlang.org/Samples/)
-  - [list of languages that compile to
-    JS](https://github.com/jashkenas/coffee-script/wiki/List-of-languages-that-compile-to-JS)
+  - [list of languages that compile to JS](https://github.com/jashkenas/coffee-script/wiki/List-of-languages-that-compile-to-JS)
 
-[Category:微软软件](https://zh.wikipedia.org/wiki/Category:微软软件 "wikilink")
-[Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink")
-[Category:基于对象的编程语言](https://zh.wikipedia.org/wiki/Category:基于对象的编程语言 "wikilink")
-[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
+[Category:微软软件](https://zh.wikipedia.org/wiki/Category:微软软件 "wikilink") [Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink") [Category:基于对象的编程语言](https://zh.wikipedia.org/wiki/Category:基于对象的编程语言 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
 
 1.
 2.
 3.
 4.
-5.  [Microsoft TypeScript: the JavaScript we need, or a solution looking
-    for a problem? | Ars
-    Technica](http://arstechnica.com/information-technology/2012/10/microsoft-typescript-the-javascript-we-need-or-a-solution-looking-for-a-problem/)
+5.  [Microsoft TypeScript: the JavaScript we need, or a solution looking for a problem? | Ars Technica](http://arstechnica.com/information-technology/2012/10/microsoft-typescript-the-javascript-we-need-or-a-solution-looking-for-a-problem/)
 6.
 7.
 8.  <http://techcrunch.com/2012/10/01/microsoft-previews-new-javascript-like-programming-language-typescript/>

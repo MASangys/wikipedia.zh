@@ -1,5 +1,4 @@
-**RPG-26**（；\[1\]\[2\]Аглень；[英文](../Page/英语.md "wikilink")：**Aglen**，意為：阿格倫；[俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：／）是一款由[前苏联](../Page/苏联.md "wikilink")（現在是[俄罗斯](../Page/俄罗斯.md "wikilink")）所研製及生產的72.5毫米一次射擊型[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，是[RPG-22](../Page/RPG-22.md "wikilink")的改進型。同樣地，主要在短距離[反坦克戰](../Page/反坦克戰.md "wikilink")時使用，發射[PG-26](https://zh.wikipedia.org/wiki/PG-26 "wikilink")
-[HEAT火箭彈](../Page/高爆反坦克彈.md "wikilink")。
+**RPG-26**（；\[1\]\[2\]Аглень；[英文](../Page/英语.md "wikilink")：**Aglen**，意為：阿格倫；[俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：／）是一款由[前苏联](../Page/苏联.md "wikilink")（現在是[俄罗斯](../Page/俄罗斯.md "wikilink")）所研製及生產的72.5毫米一次射擊型[火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")[發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，是[RPG-22](../Page/RPG-22.md "wikilink")的改進型。同樣地，主要在短距離[反坦克戰](../Page/反坦克戰.md "wikilink")時使用，發射[PG-26](https://zh.wikipedia.org/wiki/PG-26 "wikilink") [HEAT火箭彈](../Page/高爆反坦克彈.md "wikilink")。
 
 ## 歷史
 
@@ -45,24 +44,15 @@ RPG-26還有一種衍生型名為RShG-2，改用[燃料空氣炸彈](../Page/燃
   -
 ## 圖集
 
-<File:2011>. День защиты детей в Донецке
-046.jpg|[RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")、[RPG-22](../Page/RPG-22.md "wikilink")、RPG-26和[RPG-18](../Page/RPG-18.md "wikilink")
-<File:2011>. День защиты детей в Донецке 047.jpg| <File:Tula> State
-Museum of Weapons
-(79-58).jpg|在圖拉國家武器博物館上展出的[RPG-18](../Page/RPG-18.md "wikilink")、RPG-26、[RPG-27](../Page/RPG-27.md "wikilink")、[RPG-29](../Page/RPG-29.md "wikilink")和[RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")
-<File:Tula> State Museum of Weapons
-(79-59).jpg|在圖拉國家武器博物館上展出的[RPG-18](../Page/RPG-18.md "wikilink")和RPG-26
+<File:2011>. День защиты детей в Донецке 046.jpg|[RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")、[RPG-22](../Page/RPG-22.md "wikilink")、RPG-26和[RPG-18](../Page/RPG-18.md "wikilink") <File:2011>. День защиты детей в Донецке 047.jpg| <File:Tula> State Museum of Weapons (79-58).jpg|在圖拉國家武器博物館上展出的[RPG-18](../Page/RPG-18.md "wikilink")、RPG-26、[RPG-27](../Page/RPG-27.md "wikilink")、[RPG-29](../Page/RPG-29.md "wikilink")和[RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink") <File:Tula> State Museum of Weapons (79-59).jpg|在圖拉國家武器博物館上展出的[RPG-18](../Page/RPG-18.md "wikilink")和RPG-26
 
 ## 流行文化
 
 ### [電影](https://zh.wikipedia.org/wiki/電影 "wikilink")
 
   - 2002年—《》（Война）：被主角伊凡·葉爾馬科夫（Ivan Yermakov，阿列克謝·恰多夫飾演）所使用。
-  - 2012年—《》（Август.
-    Восьмого）：被[俄軍士兵和](https://zh.wikipedia.org/wiki/俄軍 "wikilink")[格魯吉亞軍士兵所使用](https://zh.wikipedia.org/wiki/格魯吉亞軍 "wikilink")。
-  - 2016年—《[-{zh-hans:硬核大战; zh-hk:爆機特攻;
-    zh-tw:超狂亨利;}-](https://zh.wikipedia.org/wiki/硬核大戰 "wikilink")》（Hardcore
-    Henry）：出現在武器庫當中，後來被吉米（Jimmy，[沙托·科普利](../Page/沙托·科普利.md "wikilink")飾演）摧毀敵方客貨車時所使用。
+  - 2012年—《》（Август. Восьмого）：被[俄軍士兵和](https://zh.wikipedia.org/wiki/俄軍 "wikilink")[格魯吉亞軍士兵所使用](https://zh.wikipedia.org/wiki/格魯吉亞軍 "wikilink")。
+  - 2016年—《[-{zh-hans:硬核大战; zh-hk:爆機特攻; zh-tw:超狂亨利;}-](https://zh.wikipedia.org/wiki/硬核大戰 "wikilink")》（Hardcore Henry）：出現在武器庫當中，後來被吉米（Jimmy，[沙托·科普利](../Page/沙托·科普利.md "wikilink")飾演）摧毀敵方客貨車時所使用。
 
 ## 參見
 
@@ -90,35 +80,25 @@ Museum of Weapons
 
 <references />
 
-  - Jones, Richard. *Jane's Infantry Weapons 2005–06*. Coulsdon: Jane's,
-    2005. ISBN 0-7106-2694-0.
+  - Jones, Richard. *Jane's Infantry Weapons 2005–06*. Coulsdon: Jane's, 2005. ISBN 0-7106-2694-0.
 
 </div>
 
 ## 外部連結
 
-  - —[Modern Firearms—RPG-26 antitank disposable grenade launcher /
-    rocket-propelled
-    grenade](http://world.guns.ru/grenade/rus/rpg-26-e.html)
+  - —[Modern Firearms—RPG-26 antitank disposable grenade launcher / rocket-propelled grenade](http://world.guns.ru/grenade/rus/rpg-26-e.html)
 
-      - [RShG-2 assault disposable grenade launcher /
-        rocket-propelledgrenade](http://world.guns.ru/grenade/rus/rshg-2-e.html)
+      - [RShG-2 assault disposable grenade launcher / rocket-propelledgrenade](http://world.guns.ru/grenade/rus/rshg-2-e.html)
 
-  - —[MegaSword—Ручной противотанковый гранатомет РПГ-26
-    «Аглень»](http://www.megasword.ru/index.php?pg=617)
+  - —[MegaSword—Ручной противотанковый гранатомет РПГ-26 «Аглень»](http://www.megasword.ru/index.php?pg=617)
 
-  - —[**RPG-26
-    "Aglen"**](http://jollyroger666.narod.ru/granatomet/rpg26_Aglen.html)
+  - —[**RPG-26 "Aglen"**](http://jollyroger666.narod.ru/granatomet/rpg26_Aglen.html)
 
   - —[defenseonline.com.cn—前苏联RPG-26式72.5ｍｍ火箭筒](https://web.archive.org/web/20160304063750/http://www.defenseonline.com.cn/weapon/qwq/hjt/hjt00042.htm)
 
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
-[Category:反坦克火箭筒](https://zh.wikipedia.org/wiki/Category:反坦克火箭筒 "wikilink")
-[Category:反坦克榴彈](https://zh.wikipedia.org/wiki/Category:反坦克榴彈 "wikilink")
+[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:反坦克火箭筒](https://zh.wikipedia.org/wiki/Category:反坦克火箭筒 "wikilink") [Category:反坦克榴彈](https://zh.wikipedia.org/wiki/Category:反坦克榴彈 "wikilink")
 
 1.  РПГ，全寫：**Р**учной **п**ротивотанковый **г**ранатомёт，意為：反坦克榴彈發射器
 2.  <http://www.arms.ru/Guns/grenade/rpg2201.htm>
 3.  The Military Balance 2004—2005.p.128
-4.  [RPG-26 used by Syrian
-    rebels](http://www.youtube.com/watch?v=C-1eDdrxUF8&list=PLPC0Udeof3T6chInu9xcs4gjclSfgTQh_&index=1)
+4.  [RPG-26 used by Syrian rebels](http://www.youtube.com/watch?v=C-1eDdrxUF8&list=PLPC0Udeof3T6chInu9xcs4gjclSfgTQh_&index=1)

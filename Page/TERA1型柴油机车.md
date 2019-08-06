@@ -20,11 +20,8 @@ TERA1型机车的主传动系统主要由[主发电机](../Page/发电机.md "wi
 
 ## 外部链接
 
-  - [Группа Синара: Людиновский тепловозостроительный
-    завод](https://web.archive.org/web/20120517013354/http://www.sinara-group.com/about/structure/STM/LTZ/)
+  - [Группа Синара: Людиновский тепловозостроительный завод](https://web.archive.org/web/20120517013354/http://www.sinara-group.com/about/structure/STM/LTZ/)
 
-  - [Знакомьтесь: тепловоз
-    ТЭРА1](http://scbist.com/zhurnal-lokomotiv/9653-znakomtes-teplovoz-tera1.html)
+  - [Знакомьтесь: тепловоз ТЭРА1](http://scbist.com/zhurnal-lokomotiv/9653-znakomtes-teplovoz-tera1.html)
 
-[Category:俄罗斯柴油机车](https://zh.wikipedia.org/wiki/Category:俄罗斯柴油机车 "wikilink")
-[Category:柳季诺沃制铁路机车](https://zh.wikipedia.org/wiki/Category:柳季诺沃制铁路机车 "wikilink")
+[Category:俄罗斯柴油机车](https://zh.wikipedia.org/wiki/Category:俄罗斯柴油机车 "wikilink") [Category:柳季诺沃制铁路机车](https://zh.wikipedia.org/wiki/Category:柳季诺沃制铁路机车 "wikilink")

@@ -32,19 +32,10 @@ x  + 2⋅x + ╲╱ x + log(x) ⋅(3⋅x + 1) + 1
 ## 外部链接
 
   - [SymPy Live](http://live.sympy.org/), 可以在这里在线使用SymPy
-  - [SymPy Gamma](http://www.sympygamma.com), SymPy版的[Wolfram
-    Alpha](../Page/Wolfram_Alpha.md "wikilink")
-  - [SymPy on GitHub](https://github.com/sympy/sympy/),
-    SymPy的[GitHub](../Page/GitHub.md "wikilink")页面
+  - [SymPy Gamma](http://www.sympygamma.com), SymPy版的[Wolfram Alpha](../Page/Wolfram_Alpha.md "wikilink")
+  - [SymPy on GitHub](https://github.com/sympy/sympy/), SymPy的[GitHub](../Page/GitHub.md "wikilink")页面
 
-[Category:带有Python代码示例的条目](https://zh.wikipedia.org/wiki/Category:带有Python代码示例的条目 "wikilink")
-[Category:Linux计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:Linux计算机代数系统软件 "wikilink")
-[Category:MacOS计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:MacOS计算机代数系统软件 "wikilink")
-[Category:Windows计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:Windows计算机代数系统软件 "wikilink")
-[Category:自由计算机代数系统](https://zh.wikipedia.org/wiki/Category:自由计算机代数系统 "wikilink")
-[Category:自由數學軟件](https://zh.wikipedia.org/wiki/Category:自由數學軟件 "wikilink")
-[Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink")
-[Category:Python科学库](https://zh.wikipedia.org/wiki/Category:Python科学库 "wikilink")
+[Category:带有Python代码示例的条目](https://zh.wikipedia.org/wiki/Category:带有Python代码示例的条目 "wikilink") [Category:Linux计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:Linux计算机代数系统软件 "wikilink") [Category:MacOS计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:MacOS计算机代数系统软件 "wikilink") [Category:Windows计算机代数系统软件](https://zh.wikipedia.org/wiki/Category:Windows计算机代数系统软件 "wikilink") [Category:自由计算机代数系统](https://zh.wikipedia.org/wiki/Category:自由计算机代数系统 "wikilink") [Category:自由數學軟件](https://zh.wikipedia.org/wiki/Category:自由數學軟件 "wikilink") [Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink") [Category:Python科学库](https://zh.wikipedia.org/wiki/Category:Python科学库 "wikilink")
 
 1.  [SymPy官方网站](http://sympy.org/)
 

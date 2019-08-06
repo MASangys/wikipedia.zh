@@ -1,6 +1,4 @@
-《**forget-me-not
-～勿忘我～**》（）是日本女子組合[FLOWER的第](https://zh.wikipedia.org/wiki/FLOWER_\(組合\) "wikilink")3張單曲，於2012年8月22日由[Sony
-Music Associated Records發行](../Page/日本索尼音樂娛樂.md "wikilink")。
+《**forget-me-not ～勿忘我～**》（）是日本女子組合[FLOWER的第](https://zh.wikipedia.org/wiki/FLOWER_\(組合\) "wikilink")3張單曲，於2012年8月22日由[Sony Music Associated Records發行](../Page/日本索尼音樂娛樂.md "wikilink")。
 
 ## 概要
 
@@ -23,8 +21,7 @@ Music Associated Records發行](../Page/日本索尼音樂娛樂.md "wikilink")�
         [MBS](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")・[TBS](../Page/TBS電視台.md "wikilink")[系](https://zh.wikipedia.org/wiki/Japan_News_Network "wikilink")『[機動戰士鋼彈AGE](https://zh.wikipedia.org/wiki/機動戰士鋼彈AGE "wikilink")』[第四部・三世代編（第40話-第49話(最終話)）片尾曲](https://zh.wikipedia.org/wiki/機動戰士鋼彈AGE#第4部・三世代編_（第40話_-_第49話） "wikilink")
 2.  Your Gravity　\[3:00\]
       -
-        [日本電視台](../Page/日本電視台.md "wikilink")[系](https://zh.wikipedia.org/wiki/Nippon_News_Network "wikilink")『[GURU
-        GURU 99](../Page/GURU_GURU_99.md "wikilink")』片尾曲
+        [日本電視台](../Page/日本電視台.md "wikilink")[系](https://zh.wikipedia.org/wiki/Nippon_News_Network "wikilink")『[GURU GURU 99](../Page/GURU_GURU_99.md "wikilink")』片尾曲
 3.  CALL　\[5:34\]
 4.  forget-me-not 〜勿忘我〜(instrumental)　\[4:51\]
 
@@ -64,18 +61,8 @@ Music Associated Records發行](../Page/日本索尼音樂娛樂.md "wikilink")�
 
   - 官網唱片介紹
 
-      - [《forget-me-not
-        〜勿忘我〜》【初回生產限定盤】](http://www.flower-ldh.jp/disco/detail.html?id=AICL-2415)
+      - [《forget-me-not 〜勿忘我〜》【初回生產限定盤】](http://www.flower-ldh.jp/disco/detail.html?id=AICL-2415)
+      - [《forget-me-not 〜勿忘我〜》【通常盤】](http://www.flower-ldh.jp/disco/detail.html?id=AICL-2417)
+      - [《forget-me-not 〜勿忘我〜》【機動戰士鋼彈AGE盤】](http://www.flower-ldh.jp/disco/detail.html?id=AICL-2418)
 
-      - [《forget-me-not
-        〜勿忘我〜》【通常盤】](http://www.flower-ldh.jp/disco/detail.html?id=AICL-2417)
-
-      - [《forget-me-not
-        〜勿忘我〜》【機動戰士鋼彈AGE盤】](http://www.flower-ldh.jp/disco/detail.html?id=AICL-2418)
-
-
-[Category:FLOWER歌曲](https://zh.wikipedia.org/wiki/Category:FLOWER歌曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
-[Category:GUNDAM歌曲](https://zh.wikipedia.org/wiki/Category:GUNDAM歌曲 "wikilink")
-[Category:TBS動畫主題曲](https://zh.wikipedia.org/wiki/Category:TBS動畫主題曲 "wikilink")
+[Category:FLOWER歌曲](https://zh.wikipedia.org/wiki/Category:FLOWER歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:GUNDAM歌曲](https://zh.wikipedia.org/wiki/Category:GUNDAM歌曲 "wikilink") [Category:TBS動畫主題曲](https://zh.wikipedia.org/wiki/Category:TBS動畫主題曲 "wikilink")

@@ -11,8 +11,7 @@
 1.  '''Bravo☆Bravo '''
     （作詞：[三浦徳子](https://zh.wikipedia.org/wiki/三浦徳子 "wikilink")、作曲：[つんく](https://zh.wikipedia.org/wiki/つんく "wikilink")、編曲：[西川進](https://zh.wikipedia.org/wiki/西川進 "wikilink")）
       -
-        『[守護甜心\!派對\!](https://zh.wikipedia.org/wiki/守護甜心! "wikilink")』片尾曲（2009年10月
-        - 12月）
+        『[守護甜心\!派對\!](https://zh.wikipedia.org/wiki/守護甜心! "wikilink")』片尾曲（2009年10月 - 12月）
 2.  **-Winter Story-**
     （作詞：川上夏季、作曲：AKIRASTAR、編曲：AKIRASTAR・井上慎二郎）
 3.  Bravo☆Bravo（Instrumental）
@@ -23,15 +22,10 @@
 ## 外部連結
 
   -
-  - [Review: Bravo☆Bravo /
-    Buono\!](https://web.archive.org/web/20160305013109/http://www.hotexpress.co.jp/review/2444/)
-    - hotexpress
+  - [Review: Bravo☆Bravo / Buono\!](https://web.archive.org/web/20160305013109/http://www.hotexpress.co.jp/review/2444/) - hotexpress
 
   - [Buono\!官方唱片](http://buono-net.com/discography.html)
 
-[Category:Buono\!歌曲](https://zh.wikipedia.org/wiki/Category:Buono!歌曲 "wikilink")
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:守護甜心！](https://zh.wikipedia.org/wiki/Category:守護甜心！ "wikilink")
-[Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
+[Category:Buono\!歌曲](https://zh.wikipedia.org/wiki/Category:Buono!歌曲 "wikilink") [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:守護甜心！](https://zh.wikipedia.org/wiki/Category:守護甜心！ "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
 
 1.

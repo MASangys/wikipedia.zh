@@ -19,8 +19,7 @@
       - 《[東方儚月抄](../Page/東方儚月抄.md "wikilink")》（四格漫畫）-鈴仙與帝前往香霖堂採購材料，後來在香霖堂避雨。
       - 《[東方三月精](../Page/東方三月精.md "wikilink")》
       - 《東方儚月抄》（連載漫畫）-第三話 咲夜到香霖堂尋找火箭發射的相關資料。
-      - 《[東方星蓮船](../Page/東方星蓮船_～_Undefined_Fantastic_Object..md "wikilink")》-官方設定
-        娜芝琳所尋找的寶物就在香霖堂之中
+      - 《[東方星蓮船](../Page/東方星蓮船_～_Undefined_Fantastic_Object..md "wikilink")》-官方設定 娜芝琳所尋找的寶物就在香霖堂之中
       - 《東方心綺樓》觀眾
       - 《東方鈴奈庵》（連載漫畫）-第26話
       - 《東方茨歌仙》（連載漫畫）-第34話
@@ -370,13 +369,9 @@
 
   - [](http://www16.big.or.jp/~zun/)
 
-  - ルナビ 雑誌連載分の『東方香霖堂』1話から15話までのダイジェスト}} |access-date=2012-11-18
-    |archive-url=<https://web.archive.org/web/20060228002602/http://elnavi.jp/contents/archive/toho_top/bn/toho_bm01_15.php>
-    |archive-date=2006-02-28 |dead-url=yes }}
+  - ルナビ 雑誌連載分の『東方香霖堂』1話から15話までのダイジェスト}} |access-date=2012-11-18 |archive-url=<https://web.archive.org/web/20060228002602/http://elnavi.jp/contents/archive/toho_top/bn/toho_bm01_15.php> |archive-date=2006-02-28 |dead-url=yes }}
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:電擊萌王](https://zh.wikipedia.org/wiki/Category:電擊萌王 "wikilink")
-[Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:電擊萌王](https://zh.wikipedia.org/wiki/Category:電擊萌王 "wikilink") [Category:日本小說](https://zh.wikipedia.org/wiki/Category:日本小說 "wikilink")
 
 1.
 2.

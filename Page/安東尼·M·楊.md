@@ -3,8 +3,7 @@
 ## 物种描述
 
   - [黃柄蠟傘](../Page/黃柄蠟傘.md "wikilink")
-  - *[Hygrocybe
-    lanecovensis](https://zh.wikipedia.org/wiki/Hygrocybe_lanecovensis "wikilink")*
+  - *[Hygrocybe lanecovensis](https://zh.wikipedia.org/wiki/Hygrocybe_lanecovensis "wikilink")*
 
 ## 出版书籍
 

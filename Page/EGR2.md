@@ -8,11 +8,9 @@ EGR2是一个转录因子，包含三个串联的Cys2His2型锌指结构，该�
 
 ## 外部链接
 
-  - [GeneReviews/NCBI/NIH/UW entry on Charcot-Marie-Tooth Neuropathy
-    Type 1](http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=cmt1)
+  - [GeneReviews/NCBI/NIH/UW entry on Charcot-Marie-Tooth Neuropathy Type 1](http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=cmt1)
 
-  - [GeneReviews/NCBI/NIH/UW entry on Charcot-Marie-Tooth Neuropathy
-    Type 4](http://www.ncbi.nlm.nih.gov/books/NBK1468/)
+  - [GeneReviews/NCBI/NIH/UW entry on Charcot-Marie-Tooth Neuropathy Type 4](http://www.ncbi.nlm.nih.gov/books/NBK1468/)
 
   -
 [Category:转录因子](https://zh.wikipedia.org/wiki/Category:转录因子 "wikilink")

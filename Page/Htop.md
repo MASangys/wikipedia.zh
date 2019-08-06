@@ -12,8 +12,7 @@ FreeBSD可以运行htop\[2\]。
 
   - [Htop](http://htop.sourceforge.net/)
 
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:系统管理](https://zh.wikipedia.org/wiki/Category:系统管理 "wikilink")
+[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:系统管理](https://zh.wikipedia.org/wiki/Category:系统管理 "wikilink")
 
 1.
 2.

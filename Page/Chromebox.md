@@ -1,5 +1,4 @@
-[Samsung_Chromebox.JPG](https://zh.wikipedia.org/wiki/File:Samsung_Chromebox.JPG "fig:Samsung_Chromebox.JPG")
-**Chromebox**是[谷歌公司推出的一款](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[迷你](../Page/迷你.md "wikilink")[個人電腦產品](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，產品支持[互聯網連接以及](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[藍牙](../Page/藍牙.md "wikilink")技術。\[1\]\[2\]
+[Samsung_Chromebox.JPG](https://zh.wikipedia.org/wiki/File:Samsung_Chromebox.JPG "fig:Samsung_Chromebox.JPG") **Chromebox**是[谷歌公司推出的一款](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[迷你](../Page/迷你.md "wikilink")[個人電腦產品](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")，產品支持[互聯網連接以及](https://zh.wikipedia.org/wiki/互聯網 "wikilink")[藍牙](../Page/藍牙.md "wikilink")技術。\[1\]\[2\]
 
 ## 型號
 
@@ -80,8 +79,7 @@ XE300M22-B01US</p></td>
 
   - [Chromebox官方網站](https://www.google.com/intl/en/chrome/devices/chromebox.html)
 
-[分類:Google](https://zh.wikipedia.org/wiki/分類:Google "wikilink")
-[分類:个人电脑](https://zh.wikipedia.org/wiki/分類:个人电脑 "wikilink")
+[分類:Google](https://zh.wikipedia.org/wiki/分類:Google "wikilink") [分類:个人电脑](https://zh.wikipedia.org/wiki/分類:个人电脑 "wikilink")
 
 [Category:2012年面世的產品](https://zh.wikipedia.org/wiki/Category:2012年面世的產品 "wikilink")
 
@@ -92,9 +90,7 @@ XE300M22-B01US</p></td>
 3.
 4.
 
-5.  [Chrome Story: There Are Two Chromeboxes – Here is the Second –
-    $499.99 With Intel Core
-    i5](http://www.chromestory.com/2012/05/two-chromeboxes-second-49999-intel-core-i5/)
+5.  [Chrome Story: There Are Two Chromeboxes – Here is the Second – $499.99 With Intel Core i5](http://www.chromestory.com/2012/05/two-chromeboxes-second-49999-intel-core-i5/)
 
 6.  [amazon](http://www.amazon.com/Samsung-XE300M22-B01US-Chromebox/dp/B00B3R4W62/ref=pd_rhf_ee_s_ts_3_BAZX#productDetails)
 

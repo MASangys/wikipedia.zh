@@ -1,7 +1,4 @@
-[Zouk_(club),_Kuala_Lumpur.jpg](https://zh.wikipedia.org/wiki/File:Zouk_\(club\),_Kuala_Lumpur.jpg "fig:Zouk_(club),_Kuala_Lumpur.jpg")
-**Zouk**是[新加坡](../Page/新加坡.md "wikilink")及[馬來西亞極具名氣的](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[的士高](https://zh.wikipedia.org/wiki/的士高 "wikilink")[夜總會](../Page/夜總會.md "wikilink")\[1\]，字面解釋為「派對」，是。總店於1991年在新加坡開業，1996至2007年間屢獲[新加坡旅遊局](../Page/新加坡旅遊局.md "wikilink")頒發「最佳夜店體驗」（Best
-Nightspot
-Experience）獎狀，亦於2006、2007及2010年被[DJ雜誌](../Page/DJ雜誌.md "wikilink")評為全球夜店100強的頭10名。馬來西亞分店於2004年在[吉隆坡](../Page/吉隆坡.md "wikilink")開業。
+[Zouk_(club),_Kuala_Lumpur.jpg](https://zh.wikipedia.org/wiki/File:Zouk_\(club\),_Kuala_Lumpur.jpg "fig:Zouk_(club),_Kuala_Lumpur.jpg") **Zouk**是[新加坡](../Page/新加坡.md "wikilink")及[馬來西亞極具名氣的](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[的士高](https://zh.wikipedia.org/wiki/的士高 "wikilink")[夜總會](../Page/夜總會.md "wikilink")\[1\]，字面解釋為「派對」，是。總店於1991年在新加坡開業，1996至2007年間屢獲[新加坡旅遊局](../Page/新加坡旅遊局.md "wikilink")頒發「最佳夜店體驗」（Best Nightspot Experience）獎狀，亦於2006、2007及2010年被[DJ雜誌](../Page/DJ雜誌.md "wikilink")評為全球夜店100強的頭10名。馬來西亞分店於2004年在[吉隆坡](../Page/吉隆坡.md "wikilink")開業。
 
 ## ZoukOut
 
@@ -13,20 +10,12 @@ Experience）獎狀，亦於2006、2007及2010年被[DJ雜誌](../Page/DJ雜誌.
 
   - [Zouk (Singapore)](http://www.zoukclub.com.sg/)
   - [Zouk (Kuala Lumpur)](http://www.zoukclub.com.my/)
-  - [WhosGoing: Singapore Clubs +
-    Bars](https://web.archive.org/web/20100727113014/http://www.whosgoing.sg/clubs_and_bars/zouk/)
-  - [YourSingapore -
-    ZoukOut](https://web.archive.org/web/20140321114540/http://www.yoursingapore.com/content/traveller/en/browse/whats-on/festivals-and-events/zoukout.html/)
-  - [Past events at Zouk -
-    Eventfinda](http://www.eventfinda.sg/venue/zouk-singapore)
+  - [WhosGoing: Singapore Clubs + Bars](https://web.archive.org/web/20100727113014/http://www.whosgoing.sg/clubs_and_bars/zouk/)
+  - [YourSingapore - ZoukOut](https://web.archive.org/web/20140321114540/http://www.yoursingapore.com/content/traveller/en/browse/whats-on/festivals-and-events/zoukout.html/)
+  - [Past events at Zouk - Eventfinda](http://www.eventfinda.sg/venue/zouk-singapore)
 
-[Category:夜總會](https://zh.wikipedia.org/wiki/Category:夜總會 "wikilink")
-[Category:新加坡旅遊景點](https://zh.wikipedia.org/wiki/Category:新加坡旅遊景點 "wikilink")
-[Category:1991年建立](https://zh.wikipedia.org/wiki/Category:1991年建立 "wikilink")
+[Category:夜總會](https://zh.wikipedia.org/wiki/Category:夜總會 "wikilink") [Category:新加坡旅遊景點](https://zh.wikipedia.org/wiki/Category:新加坡旅遊景點 "wikilink") [Category:1991年建立](https://zh.wikipedia.org/wiki/Category:1991年建立 "wikilink")
 
-1.  [YourSingapore.com -
-    Zouk](http://www.yoursingapore.com/content/traveller/en/browse/see-and-do/nightlife/dance-clubs/zouk.html)
-2.  [YourSingapore.com -
-    ZoukOut](http://www.yoursingapore.com/content/traveller/en/browse/whats-on/festivals-and-events/zoukout.html)
-3.  [ZoukOut -
-    About](http://www.zoukout.com/aboutcurrentZO.php?current=1)
+1.  [YourSingapore.com - Zouk](http://www.yoursingapore.com/content/traveller/en/browse/see-and-do/nightlife/dance-clubs/zouk.html)
+2.  [YourSingapore.com - ZoukOut](http://www.yoursingapore.com/content/traveller/en/browse/whats-on/festivals-and-events/zoukout.html)
+3.  [ZoukOut - About](http://www.zoukout.com/aboutcurrentZO.php?current=1)

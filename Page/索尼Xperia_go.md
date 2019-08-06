@@ -1,5 +1,4 @@
-**Sony Xperia
-go**是[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")。其於2012年5月發表，\[1\]\[2\]為入門機種。
+**Sony Xperia go**是[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")。其於2012年5月發表，\[1\]\[2\]為入門機種。
 
 ## 顏色
 
@@ -13,9 +12,7 @@ go**是[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的[
 
 ## 外部連結
 
-  - [Xperia™ go -
-    索尼官方網站](http://www.sonymobile.com/global-zh/products/phones/xperia-go)
-    中文
+  - [Xperia™ go - 索尼官方網站](http://www.sonymobile.com/global-zh/products/phones/xperia-go) 中文
 
 ## 參考資料
 
@@ -25,13 +22,9 @@ go**是[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的[
 
   - [索尼移動](https://zh.wikipedia.org/wiki/索尼移動 "wikilink")
   - [Xperia](../Page/Xperia.md "wikilink")
-  - [Sony Xperia acro
-    S](https://zh.wikipedia.org/wiki/Sony_Xperia_acro_S "wikilink")
+  - [Sony Xperia acro S](https://zh.wikipedia.org/wiki/Sony_Xperia_acro_S "wikilink")
 
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
+[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
 
 1.  <http://www.ringhk.com/index_phone_spec.php?id=2127>
 2.  <http://www.sonymobile.com/global-zh/products/phones/xperia-go/>

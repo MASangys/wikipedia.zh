@@ -13,8 +13,7 @@
 
 ## 歷史
 
-  - 2001年3月29日 -
-    [高松自動車道](../Page/高松自動車道.md "wikilink")[津田東IC至](https://zh.wikipedia.org/wiki/津田東IC "wikilink")[板野IC](../Page/板野IC.md "wikilink")之間開通，此交流道也同時啟用。
+  - 2001年3月29日 - [高松自動車道](../Page/高松自動車道.md "wikilink")[津田東IC至](https://zh.wikipedia.org/wiki/津田東IC "wikilink")[板野IC](../Page/板野IC.md "wikilink")之間開通，此交流道也同時啟用。
 
 ## 收費站設施
 
@@ -35,9 +34,7 @@
 ## 鄰近設施
 
   - [高松自動車道](../Page/高松自動車道.md "wikilink")
-    (9)[引田IC](https://zh.wikipedia.org/wiki/引田IC "wikilink") -
-    (10)**白鳥大內IC** -
-    (11)[津田東IC](https://zh.wikipedia.org/wiki/津田東IC "wikilink")
+    (9)[引田IC](https://zh.wikipedia.org/wiki/引田IC "wikilink") - (10)**白鳥大內IC** - (11)[津田東IC](https://zh.wikipedia.org/wiki/津田東IC "wikilink")
 
 ## 相關項目
 
@@ -47,5 +44,4 @@
 
   - [西日本高速道路](http://www.w-nexco.co.jp/)
 
-[Category:日本交流道_Shi](https://zh.wikipedia.org/wiki/Category:日本交流道_Shi "wikilink")
-[Category:香川縣交流道](https://zh.wikipedia.org/wiki/Category:香川縣交流道 "wikilink")
+[Category:日本交流道_Shi](https://zh.wikipedia.org/wiki/Category:日本交流道_Shi "wikilink") [Category:香川縣交流道](https://zh.wikipedia.org/wiki/Category:香川縣交流道 "wikilink")

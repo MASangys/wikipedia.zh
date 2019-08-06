@@ -11,8 +11,6 @@
 
 ## 參考資料
 
-[Category:周慧敏音樂專輯](https://zh.wikipedia.org/wiki/Category:周慧敏音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:周慧敏音樂專輯](https://zh.wikipedia.org/wiki/Category:周慧敏音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.

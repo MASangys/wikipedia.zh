@@ -106,8 +106,7 @@
   - 原作：[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")
   - 劇本：[山崎貴](../Page/山崎貴.md "wikilink")
   - 導演：八木龍一、山崎貴
-  - 製作：2014-{zh-hant:「;zh-hans:《}-STAND BY ME
-    哆啦A夢-{zh-hant:」;zh-hans:》}-製作委員會（[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")、[藤子·F·不二雄製作公司](../Page/藤子·F·不二雄製作公司.md "wikilink")、[小學館](../Page/小學館.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")、[小學館集英社製作](../Page/小學館集英社製作.md "wikilink")、[東寶](../Page/東寶.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[白組](../Page/白組.md "wikilink")、[ROBOT](https://zh.wikipedia.org/wiki/ROBOT "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[名～電](../Page/名古屋電視台.md "wikilink")、阿部秀司事務所、[北海道電視台](../Page/北海道電視台.md "wikilink")、[九州朝日放送](https://zh.wikipedia.org/wiki/九州朝日放送 "wikilink")、[廣島HOME電視台](https://zh.wikipedia.org/wiki/廣島HOME電視台 "wikilink")）
+  - 製作：2014-{zh-hant:「;zh-hans:《}-STAND BY ME 哆啦A夢-{zh-hant:」;zh-hans:》}-製作委員會（[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")、[藤子·F·不二雄製作公司](../Page/藤子·F·不二雄製作公司.md "wikilink")、[小學館](../Page/小學館.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")、[小學館集英社製作](../Page/小學館集英社製作.md "wikilink")、[東寶](../Page/東寶.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[白組](../Page/白組.md "wikilink")、[ROBOT](https://zh.wikipedia.org/wiki/ROBOT "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[名～電](../Page/名古屋電視台.md "wikilink")、阿部秀司事務所、[北海道電視台](../Page/北海道電視台.md "wikilink")、[九州朝日放送](https://zh.wikipedia.org/wiki/九州朝日放送 "wikilink")、[廣島HOME電視台](https://zh.wikipedia.org/wiki/廣島HOME電視台 "wikilink")）
   - 製作：SHIN-EI動畫、白組、ROBOT
   - 製作協力：藤子·F·不二雄製作公司、阿部秀司事務所
   - 發行：東寶
@@ -175,12 +174,9 @@
 
 影片于2014年12月19日在臺灣上映，臺北上映首天票房達33萬新台幣，而首週即達218萬，全臺則達到854萬票房，成績較以往亮眼。而在上映多週後，臺北票房最終累計1143萬，全台突破2600萬。是次電影亦成為哆啦A夢系列電影在臺灣的最高票房記錄\[11\]。
 
-影片于2015年2月5日在香港上映，兩個多月最終票房累計4689萬港元，先後創下多項票房記錄，包括：哆啦A夢系列電影在港最高票房紀錄\[12\]、首部在港票房突破一千萬的多啦A夢系列電影\[13\]、香港最高開畫票房日本片、日本電影在港最高票房紀錄\[14\]
-、2015年賀歲電影票房冠軍（也是首部賀歲檔票房冠軍動畫\[15\]\[16\]）和香港上映的動畫電影歷來票房紀錄第三位。
+影片于2015年2月5日在香港上映，兩個多月最終票房累計4689萬港元，先後創下多項票房記錄，包括：哆啦A夢系列電影在港最高票房紀錄\[12\]、首部在港票房突破一千萬的多啦A夢系列電影\[13\]、香港最高開畫票房日本片、日本電影在港最高票房紀錄\[14\] 、2015年賀歲電影票房冠軍（也是首部賀歲檔票房冠軍動畫\[15\]\[16\]）和香港上映的動畫電影歷來票房紀錄第三位。
 
-影片于2015年5月28日在中国大陆上映，上映3日内票房突破1.45亿人民币，打破中国大陆上映的动画电影最高单日票房记录\[17\]。这也是自2012年6月《[赛罗·奥特曼
-THE MOVIE
-超决战！贝利亚银河帝国](../Page/赛罗·奥特曼_THE_MOVIE_超决战！贝利亚银河帝国.md "wikilink")》在大陆上映以来，首部在大陆上映的日本电影作品\[18\]。首周四日2.4亿居冠\[19\]。至6月26日結束放映時累計票房達5.3億人民幣（約106億日圓），較日本國內票房更高\[20\]。
+影片于2015年5月28日在中国大陆上映，上映3日内票房突破1.45亿人民币，打破中国大陆上映的动画电影最高单日票房记录\[17\]。这也是自2012年6月《[赛罗·奥特曼 THE MOVIE 超决战！贝利亚银河帝国](../Page/赛罗·奥特曼_THE_MOVIE_超决战！贝利亚银河帝国.md "wikilink")》在大陆上映以来，首部在大陆上映的日本电影作品\[18\]。首周四日2.4亿居冠\[19\]。至6月26日結束放映時累計票房達5.3億人民幣（約106億日圓），較日本國內票房更高\[20\]。
 
 另外，电影的[蓝光分普通版和豪华版](https://zh.wikipedia.org/wiki/蓝光 "wikilink")，连同[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[波丽佳音发行](https://zh.wikipedia.org/wiki/波丽佳音 "wikilink")\[21\]\[22\]\[23\]。
 
@@ -403,17 +399,9 @@ THE MOVIE
   -
   -
 
-[Category:哆啦A夢電影作品](https://zh.wikipedia.org/wiki/Category:哆啦A夢電影作品 "wikilink")
-[Category:2014年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2014年日本劇場動畫 "wikilink")
-[Category:日本3D電影](https://zh.wikipedia.org/wiki/Category:日本3D電影 "wikilink")
-[Category:山崎貴電影](https://zh.wikipedia.org/wiki/Category:山崎貴電影 "wikilink")
-[Category:2014年3D電影](https://zh.wikipedia.org/wiki/Category:2014年3D電影 "wikilink")
-[Category:東京背景動畫電影](https://zh.wikipedia.org/wiki/Category:東京背景動畫電影 "wikilink")
-[Category:日本電影學院獎最佳動畫片](https://zh.wikipedia.org/wiki/Category:日本電影學院獎最佳動畫片 "wikilink")
-[Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink")
+[Category:哆啦A夢電影作品](https://zh.wikipedia.org/wiki/Category:哆啦A夢電影作品 "wikilink") [Category:2014年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2014年日本劇場動畫 "wikilink") [Category:日本3D電影](https://zh.wikipedia.org/wiki/Category:日本3D電影 "wikilink") [Category:山崎貴電影](https://zh.wikipedia.org/wiki/Category:山崎貴電影 "wikilink") [Category:2014年3D電影](https://zh.wikipedia.org/wiki/Category:2014年3D電影 "wikilink") [Category:東京背景動畫電影](https://zh.wikipedia.org/wiki/Category:東京背景動畫電影 "wikilink") [Category:日本電影學院獎最佳動畫片](https://zh.wikipedia.org/wiki/Category:日本電影學院獎最佳動畫片 "wikilink") [Category:小學館集英社製作動畫作品](https://zh.wikipedia.org/wiki/Category:小學館集英社製作動畫作品 "wikilink")
 
-1.  [Film Review: ‘Stand by Me
-    Doraemon’](http://variety.com/2014/film/festivals/film-review-stand-by-me-doraemon-1201352301/)
+1.  [Film Review: ‘Stand by Me Doraemon’](http://variety.com/2014/film/festivals/film-review-stand-by-me-doraemon-1201352301/)
 
 2.
 
@@ -464,18 +452,15 @@ THE MOVIE
 
 26.
 
-27. [《電影哆啦A夢：大雄的金銀島》:繼《STAND BY ME 哆啦A夢》睽違 4
-    年再度獲得「黃金收入獎」的殊榮](https://chinesedora.com/news/8292.htm)
+27. [《電影哆啦A夢：大雄的金銀島》:繼《STAND BY ME 哆啦A夢》睽違 4 年再度獲得「黃金收入獎」的殊榮](https://chinesedora.com/news/8292.htm)
 
 28.
 
-29. [第1届豆瓣电影年度榜单 The 1st Douban Film Annual Awards
-    (2014)](https://movie.douban.com/awards/doubanfilm_annual/1/)
+29. [第1届豆瓣电影年度榜单 The 1st Douban Film Annual Awards (2014)](https://movie.douban.com/awards/doubanfilm_annual/1/)
 
 30. [第19回(2014年)日本インターネット映画大賞結果](http://www.movieawards.jp/00300a2014.html)
 
-31. [「STAND BY ME
-    ドラえもん」などVFX－JAPANアワード2015最優秀賞決定](http://s.animeanime.jp/article/2015/02/23/22094.html)
+31. [「STAND BY ME ドラえもん」などVFX－JAPANアワード2015最優秀賞決定](http://s.animeanime.jp/article/2015/02/23/22094.html)
 
 32.
 
@@ -487,12 +472,10 @@ THE MOVIE
 
 36.
 
-37. [ISUMブライダルミュージックアワード2015開催 ～「ひまわりの約束」秦基博さん と「永遠」BENIさん
-    が受賞](https://prtimes.jp/main/html/rd/p/000000010.000009021.html)
+37. [ISUMブライダルミュージックアワード2015開催 ～「ひまわりの約束」秦基博さん と「永遠」BENIさん が受賞](https://prtimes.jp/main/html/rd/p/000000010.000009021.html)
 
 38. [2015年JOYSOUNDカラオケ年間ランキング｜JOYSOUND.com](https://www.joysound.com/web/s/karaoke/contents/annual_ranking/2015)
 
-39. [\[影評](http://chinesedora.com/news/4561.htm) 《STAND BY ME
-    哆啦A夢》：大作後的劇情爭議\]
+39. [\[影評](http://chinesedora.com/news/4561.htm) 《STAND BY ME 哆啦A夢》：大作後的劇情爭議\]
 
 40.

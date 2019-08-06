@@ -1,14 +1,8 @@
-**Ye型蒸汽机车**（）是[苏联铁路使用的一款干线货运](https://zh.wikipedia.org/wiki/苏联铁路 "wikilink")[蒸汽机车](https://zh.wikipedia.org/wiki/蒸汽机车 "wikilink")。该车又分为Yea,
-Yek, Yel, Yef, Yem, Yemv and Yes等分支 ()，因此被人称之为“俄罗斯德加宝”（Russian
-Decapods）。
-机车由[ALCO和](../Page/美国机车公司.md "wikilink")[Baldwin于一战期间和二战期间先后为](../Page/鲍尔温机车厂.md "wikilink")[俄罗斯帝国](../Page/俄罗斯帝国.md "wikilink")铁路和苏联铁路制造。除此之外，[中国铁路和](https://zh.wikipedia.org/wiki/中国铁路 "wikilink")[芬兰铁路](https://zh.wikipedia.org/wiki/芬兰铁路 "wikilink")、朝鲜铁路也使用该款机车。
+**Ye型蒸汽机车**（）是[苏联铁路使用的一款干线货运](https://zh.wikipedia.org/wiki/苏联铁路 "wikilink")[蒸汽机车](https://zh.wikipedia.org/wiki/蒸汽机车 "wikilink")。该车又分为Yea, Yek, Yel, Yef, Yem, Yemv and Yes等分支 ()，因此被人称之为“俄罗斯德加宝”（Russian Decapods）。 机车由[ALCO和](../Page/美国机车公司.md "wikilink")[Baldwin于一战期间和二战期间先后为](../Page/鲍尔温机车厂.md "wikilink")[俄罗斯帝国](../Page/俄罗斯帝国.md "wikilink")铁路和苏联铁路制造。除此之外，[中国铁路和](https://zh.wikipedia.org/wiki/中国铁路 "wikilink")[芬兰铁路](https://zh.wikipedia.org/wiki/芬兰铁路 "wikilink")、朝鲜铁路也使用该款机车。
 
 ## 历史
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Паровоз_Ел-534_\(5\).jpg "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:Seaboard_544.jpg "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:Frisco_1630.JPG "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:Ea_2450_\(USRA_Russian_Decapod\)_steam_locomotive_\(5046471965\).jpg "fig:缩略图")
+[缩略图](https://zh.wikipedia.org/wiki/File:Паровоз_Ел-534_\(5\).jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:Seaboard_544.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:Frisco_1630.JPG "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:Ea_2450_\(USRA_Russian_Decapod\)_steam_locomotive_\(5046471965\).jpg "fig:缩略图")
 
 ### 俄罗斯帝国铁路Ye型
 
@@ -26,8 +20,7 @@ Decapods）。
 
 [芬兰铁路在](../Page/芬蘭鐵路.md "wikilink")[第二次世界大战](../Page/第二次世界大战.md "wikilink")结束后从美国获得20台原计划运往苏联而未交付之的Е型蒸汽机车。这20台机车中有10台由鲍尔温机车厂生产，10台由美国机车公司生产。虽然芬兰铁路轨距与苏联铁路轨距相差4毫米，但20台Е型蒸汽机车同样也需要变动轨距。
 
-20台Е型蒸汽机车被芬兰铁路命名为**Tr2**（*Tavarajuna,
-Raskas*，“重载货运列车”之意），而Tr2这一机车代号也被昵称为*Truman*（第33任[美国总统](../Page/美国总统.md "wikilink")[哈里·S·杜鲁门](../Page/哈里·S·杜鲁门.md "wikilink")）。这些机车于1968年退役。
+20台Е型蒸汽机车被芬兰铁路命名为**Tr2**（*Tavarajuna, Raskas*，“重载货运列车”之意），而Tr2这一机车代号也被昵称为*Truman*（第33任[美国总统](../Page/美国总统.md "wikilink")[哈里·S·杜鲁门](../Page/哈里·S·杜鲁门.md "wikilink")）。这些机车于1968年退役。
 
 1319号（1947年美国机车公司生产，出厂编号75214号）机车保存在[許溫凱](../Page/許溫凱.md "wikilink")。\[1\]。
 
@@ -39,9 +32,7 @@ Raskas*，“重载货运列车”之意），而Tr2这一机车代号也被昵�
 
 ### 朝鲜铁道省데가하型/8100系列
 
-第二次世界大战结束后，[苏联](../Page/苏联.md "wikilink")向[朝鲜民主主义人民共和国](../Page/朝鲜民主主义人民共和国.md "wikilink")提供一批数量不明的Е型蒸汽机车，大部分是Еа型。\[4\]
-[朝鲜铁道省最初给此型机车命名为](../Page/朝鲜民主主义人民共和国铁道省.md "wikilink")“**데가하**”（*Degaha*）
-，但后来改称8100系列蒸汽机车。其中一台编号为8143的蒸汽机车于1993年在中国[图们有目击记录](https://zh.wikipedia.org/wiki/图们 "wikilink")；而另一台编号为8112号的蒸汽机车至少运用到2007年。\[5\]
+第二次世界大战结束后，[苏联](../Page/苏联.md "wikilink")向[朝鲜民主主义人民共和国](../Page/朝鲜民主主义人民共和国.md "wikilink")提供一批数量不明的Е型蒸汽机车，大部分是Еа型。\[4\] [朝鲜铁道省最初给此型机车命名为](../Page/朝鲜民主主义人民共和国铁道省.md "wikilink")“**데가하**”（*Degaha*） ，但后来改称8100系列蒸汽机车。其中一台编号为8143的蒸汽机车于1993年在中国[图们有目击记录](https://zh.wikipedia.org/wiki/图们 "wikilink")；而另一台编号为8112号的蒸汽机车至少运用到2007年。\[5\]
 
 ## 参见
 
@@ -56,19 +47,10 @@ Raskas*，“重载货运列车”之意），而Tr2这一机车代号也被昵�
 
 {{-}}
 
-[Category:2-10-0輪式機車](https://zh.wikipedia.org/wiki/Category:2-10-0輪式機車 "wikilink")
-[Category:ALCO制铁路机车](https://zh.wikipedia.org/wiki/Category:ALCO制铁路机车 "wikilink")
-[Category:鲍尔温制铁路机车](https://zh.wikipedia.org/wiki/Category:鲍尔温制铁路机车 "wikilink")
-[Category:苏联蒸汽机车](https://zh.wikipedia.org/wiki/Category:苏联蒸汽机车 "wikilink")
-[Category:芬兰蒸汽机车](https://zh.wikipedia.org/wiki/Category:芬兰蒸汽机车 "wikilink")
-[Category:美国蒸汽机车](https://zh.wikipedia.org/wiki/Category:美国蒸汽机车 "wikilink")
-[Category:中国蒸汽机车](https://zh.wikipedia.org/wiki/Category:中国蒸汽机车 "wikilink")
+[Category:2-10-0輪式機車](https://zh.wikipedia.org/wiki/Category:2-10-0輪式機車 "wikilink") [Category:ALCO制铁路机车](https://zh.wikipedia.org/wiki/Category:ALCO制铁路机车 "wikilink") [Category:鲍尔温制铁路机车](https://zh.wikipedia.org/wiki/Category:鲍尔温制铁路机车 "wikilink") [Category:苏联蒸汽机车](https://zh.wikipedia.org/wiki/Category:苏联蒸汽机车 "wikilink") [Category:芬兰蒸汽机车](https://zh.wikipedia.org/wiki/Category:芬兰蒸汽机车 "wikilink") [Category:美国蒸汽机车](https://zh.wikipedia.org/wiki/Category:美国蒸汽机车 "wikilink") [Category:中国蒸汽机车](https://zh.wikipedia.org/wiki/Category:中国蒸汽机车 "wikilink")
 
-1.  [Tr2](http://koti.mbnet.fi/kasii/hoyryveturit/tr2t.htm)，
-    koti.mbnet.fi
-2.  [Chinese Eastern Railway,
-    China](https://www.britannica.com/topic/Chinese-Eastern-Railway)*[大英百科全书](../Page/大英百科全书.md "wikilink")*
+1.  [Tr2](http://koti.mbnet.fi/kasii/hoyryveturit/tr2t.htm)， koti.mbnet.fi
+2.  [Chinese Eastern Railway, China](https://www.britannica.com/topic/Chinese-Eastern-Railway)*[大英百科全书](../Page/大英百科全书.md "wikilink")*
 3.  [DK2](http://weibo.com/5658521154/Fydx3rLEv), 碧色22C, 新浪微博
 4.
-5.  [Nordkorea - "Amidampf und
-    Russendiesel"](http://www.farrail.net/seiten/tour-report/nordkorea-dampf+m62-2007-04.html)_FarRail
+5.  [Nordkorea - "Amidampf und Russendiesel"](http://www.farrail.net/seiten/tour-report/nordkorea-dampf+m62-2007-04.html)_FarRail

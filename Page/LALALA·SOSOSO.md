@@ -14,5 +14,4 @@
     （作詞：[三浦徳子](https://zh.wikipedia.org/wiki/三浦徳子 "wikilink")　作曲：[KAN](https://zh.wikipedia.org/wiki/KAN "wikilink")　編曲：[たいせい](https://zh.wikipedia.org/wiki/たいせい "wikilink")）
 2.  LALALA·SOSOSO(Instrumental)
 
-[Category:真野惠里菜的單曲](https://zh.wikipedia.org/wiki/Category:真野惠里菜的單曲 "wikilink")
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
+[Category:真野惠里菜的單曲](https://zh.wikipedia.org/wiki/Category:真野惠里菜的單曲 "wikilink") [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")

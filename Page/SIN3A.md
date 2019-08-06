@@ -2,8 +2,7 @@
 
 ## 功能
 
-SIN3A是一种[转录](../Page/转录.md "wikilink")调控蛋白，包含有成对[两亲性螺旋结构域](../Page/两亲分子.md "wikilink")（paired
-amphipathic helix，PAH），对蛋白质互作非常重要\[3\]。
+SIN3A是一种[转录](../Page/转录.md "wikilink")调控蛋白，包含有成对[两亲性螺旋结构域](../Page/两亲分子.md "wikilink")（paired amphipathic helix，PAH），对蛋白质互作非常重要\[3\]。
 
 ## 互作
 
@@ -13,19 +12,15 @@ SIN3A与下列蛋白有[相互作用](../Page/蛋白質交互作用.md "wikilink
   - [HBP1](../Page/HBP1.md "wikilink"),\[5\]
   - [HDAC1](https://zh.wikipedia.org/wiki/HDAC1 "wikilink"),\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]\[18\]\[19\]
   - [HDAC9](https://zh.wikipedia.org/wiki/HDAC9 "wikilink"),\[20\]\[21\]
-  - [Histone deacetylase
-    2](https://zh.wikipedia.org/wiki/Histone_deacetylase_2 "wikilink"),\[22\]\[23\]\[24\]\[25\]\[26\]\[27\]\[28\]
-  - [Host cell factor
-    C1](https://zh.wikipedia.org/wiki/Host_cell_factor_C1 "wikilink"),\[29\]\[30\]
+  - [Histone deacetylase 2](https://zh.wikipedia.org/wiki/Histone_deacetylase_2 "wikilink"),\[22\]\[23\]\[24\]\[25\]\[26\]\[27\]\[28\]
+  - [Host cell factor C1](https://zh.wikipedia.org/wiki/Host_cell_factor_C1 "wikilink"),\[29\]\[30\]
   - [IKZF1](https://zh.wikipedia.org/wiki/IKZF1 "wikilink"),\[31\]\[32\]\[33\]
   - [ING1](https://zh.wikipedia.org/wiki/ING1 "wikilink"),\[34\]
   - [KLF11](https://zh.wikipedia.org/wiki/KLF11 "wikilink"),\[35\]\[36\]
   - [MNT](https://zh.wikipedia.org/wiki/MNT_\(gene\) "wikilink"),\[37\]
   - [MXD1](https://zh.wikipedia.org/wiki/MXD1 "wikilink"),\[38\]\[39\]\[40\]
-  - [Methyl-CpG-binding domain protein
-    2](https://zh.wikipedia.org/wiki/Methyl-CpG-binding_domain_protein_2 "wikilink"),\[41\]
-  - [Nuclear receptor co-repressor
-    2](https://zh.wikipedia.org/wiki/Nuclear_receptor_co-repressor_2 "wikilink"),\[42\]\[43\]
+  - [Methyl-CpG-binding domain protein 2](https://zh.wikipedia.org/wiki/Methyl-CpG-binding_domain_protein_2 "wikilink"),\[41\]
+  - [Nuclear receptor co-repressor 2](https://zh.wikipedia.org/wiki/Nuclear_receptor_co-repressor_2 "wikilink"),\[42\]\[43\]
   - [OGT](https://zh.wikipedia.org/wiki/OGT_\(gene\) "wikilink")\[44\]
   - [PHF12](https://zh.wikipedia.org/wiki/PHF12 "wikilink"),\[45\]
   - [早幼粒细胞白血病蛋白](../Page/早幼粒细胞白血病蛋白.md "wikilink")\[46\]
@@ -38,13 +33,11 @@ SIN3A与下列蛋白有[相互作用](../Page/蛋白質交互作用.md "wikilink
   - [SMARCC1](https://zh.wikipedia.org/wiki/SMARCC1 "wikilink"),\[61\]\[62\]
   - [SUDS3](https://zh.wikipedia.org/wiki/SUDS3 "wikilink"),\[63\]\[64\]
   - [TAL1](https://zh.wikipedia.org/wiki/TAL1 "wikilink"),\[65\] and
-  - [Zinc finger and BTB domain-containing protein
-    16](https://zh.wikipedia.org/wiki/Zinc_finger_and_BTB_domain-containing_protein_16 "wikilink").\[66\]\[67\]\[68\]
+  - [Zinc finger and BTB domain-containing protein 16](https://zh.wikipedia.org/wiki/Zinc_finger_and_BTB_domain-containing_protein_16 "wikilink").\[66\]\[67\]\[68\]
 
 ## 另见
 
-  - [Transcription
-    coregulator](https://zh.wikipedia.org/wiki/Transcription_coregulator "wikilink")
+  - [Transcription coregulator](https://zh.wikipedia.org/wiki/Transcription_coregulator "wikilink")
 
 ## 参考文献
 

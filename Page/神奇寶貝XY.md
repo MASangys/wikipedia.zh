@@ -1,9 +1,6 @@
-，是日本[東京電視系於](https://zh.wikipedia.org/wiki/東京電視系 "wikilink")2013年10月17日製播，以[神奇宝贝系列的](https://zh.wikipedia.org/wiki/神奇宝贝系列 "wikilink")《[神奇宝贝
-X·Y](https://zh.wikipedia.org/wiki/神奇宝贝_X·Y "wikilink")》为蓝本的原作[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。接檔《[神奇寶貝超級願望](../Page/神奇寶貝超級願望.md "wikilink")》。本作的主题是「美丽」、「-{zh-hans:牽;
-zh-hk:牽; zh-tw:羈}-絆」、「超進化」等，观众可以在这部新作中感受到明显的画质提升、着重针对人物心理的描写和全新的剧情设定。
+，是日本[東京電視系於](https://zh.wikipedia.org/wiki/東京電視系 "wikilink")2013年10月17日製播，以[神奇宝贝系列的](https://zh.wikipedia.org/wiki/神奇宝贝系列 "wikilink")《[神奇宝贝 X·Y](https://zh.wikipedia.org/wiki/神奇宝贝_X·Y "wikilink")》为蓝本的原作[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。接檔《[神奇寶貝超級願望](../Page/神奇寶貝超級願望.md "wikilink")》。本作的主题是「美丽」、「-{zh-hans:牽; zh-hk:牽; zh-tw:羈}-絆」、「超進化」等，观众可以在这部新作中感受到明显的画质提升、着重针对人物心理的描写和全新的剧情设定。
 
-由本作起的神奇宝贝系列台灣及香港代理商改為[曼迪傳播](../Page/曼迪傳播.md "wikilink")\[1\]。香港於2014年7月13日起在[翡翠台](../Page/翡翠台.md "wikilink")播映，並即日在[myTV](https://zh.wikipedia.org/wiki/myTV "wikilink")（改為[myTV
-SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")）上載粵語配音版本供香港觀眾於14天內重溫；同時翡翠台亦會以[高清](https://zh.wikipedia.org/wiki/高清 "wikilink")（[數碼訊號](../Page/香港數碼地面電視廣播.md "wikilink")）和[4:3](https://zh.wikipedia.org/wiki/4:3 "wikilink")[標清](https://zh.wikipedia.org/wiki/標清 "wikilink")（[模擬訊號](https://zh.wikipedia.org/wiki/模擬訊號 "wikilink")）同步播放。台灣則於2014年8月3日到2015年7月19日於[東森幼幼台](../Page/東森幼幼台.md "wikilink")播映，而[華視於](https://zh.wikipedia.org/wiki/華視 "wikilink")2015年9月11日起播映，[MOMO親子台](../Page/MOMO親子台.md "wikilink")則於2016年起播映。
+由本作起的神奇宝贝系列台灣及香港代理商改為[曼迪傳播](../Page/曼迪傳播.md "wikilink")\[1\]。香港於2014年7月13日起在[翡翠台](../Page/翡翠台.md "wikilink")播映，並即日在[myTV](https://zh.wikipedia.org/wiki/myTV "wikilink")（改為[myTV SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")）上載粵語配音版本供香港觀眾於14天內重溫；同時翡翠台亦會以[高清](https://zh.wikipedia.org/wiki/高清 "wikilink")（[數碼訊號](../Page/香港數碼地面電視廣播.md "wikilink")）和[4:3](https://zh.wikipedia.org/wiki/4:3 "wikilink")[標清](https://zh.wikipedia.org/wiki/標清 "wikilink")（[模擬訊號](https://zh.wikipedia.org/wiki/模擬訊號 "wikilink")）同步播放。台灣則於2014年8月3日到2015年7月19日於[東森幼幼台](../Page/東森幼幼台.md "wikilink")播映，而[華視於](https://zh.wikipedia.org/wiki/華視 "wikilink")2015年9月11日起播映，[MOMO親子台](../Page/MOMO親子台.md "wikilink")則於2016年起播映。
 
 ## 故事概要
 
@@ -13,8 +10,7 @@ SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")）上載粵語配音
 
 ## 工作人員
 
-  - 原案 -
-    [田尻智](../Page/田尻智.md "wikilink")、[增田順一](../Page/增田順一.md "wikilink")、[杉森建](../Page/杉森建.md "wikilink")
+  - 原案 - [田尻智](../Page/田尻智.md "wikilink")、[增田順一](../Page/增田順一.md "wikilink")、[杉森建](../Page/杉森建.md "wikilink")
   - 總監督 - [湯山邦彥](https://zh.wikipedia.org/wiki/湯山邦彥 "wikilink")
   - 系列構成 - [富岡淳廣](https://zh.wikipedia.org/wiki/富岡淳廣 "wikilink")
   - 角色設計、總作畫監督 - [廣岡歲仁](https://zh.wikipedia.org/wiki/廣岡歲仁 "wikilink")
@@ -47,8 +43,7 @@ SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")）上載粵語配音
         歌－J☆Dee'Z／作詞－戸田昭吾／作曲・編曲－[田中宏和](../Page/田中宏和.md "wikilink")
 2.  〈〉〈綻放微笑！〉（第29集－第45集）
       -
-        歌－J☆Dee'Z、比卡超（[Sony Music
-        Records](../Page/Sony_Music_Records.md "wikilink")）／作詞－PA．NON／作曲・編曲－田中宏和
+        歌－J☆Dee'Z、比卡超（[Sony Music Records](../Page/Sony_Music_Records.md "wikilink")）／作詞－PA．NON／作曲・編曲－田中宏和
 3.  〈〉〈夢-{}-夢〉（第46集－第67集）
       -
         歌－[中川翔子](../Page/中川翔子.md "wikilink")／作詞－中川翔子、[岩里祐穗](https://zh.wikipedia.org/wiki/岩里祐穗 "wikilink")／作曲－鈴木健太朗／編曲－黑須克彥
@@ -87,8 +82,7 @@ SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")）上載粵語配音
         歌・作詞－[遊助](https://zh.wikipedia.org/wiki/遊助 "wikilink")／作曲－[田中宏和](../Page/田中宏和.md "wikilink")／編曲－CHOKKAKU
 2.  〈〉〈夢-{}-夢〉（第64、80、90－91、101、105、109、113、137集）
       -
-        歌－[中川翔子](../Page/中川翔子.md "wikilink")／作詞－中川翔子、[岩里祐穗](https://zh.wikipedia.org/wiki/岩里祐穗 "wikilink")／作曲
-        - 鈴木健太朗／編曲 - 黑須克彥
+        歌－[中川翔子](../Page/中川翔子.md "wikilink")／作詞－中川翔子、[岩里祐穗](https://zh.wikipedia.org/wiki/岩里祐穗 "wikilink")／作曲 - 鈴木健太朗／編曲 - 黑須克彥
         歌－賽莉娜（[牧口真幸](../Page/牧口真幸.md "wikilink")）／作詞－中川翔子、[岩里祐穗](https://zh.wikipedia.org/wiki/岩里祐穗 "wikilink")／作曲－鈴木健太朗／編曲－Saku（112、137集版本）
 3.  〈）<インストゥルメンタルver>〉〈超級V（超級伏特）〉（第65、93集）\[14\]
       -
@@ -1666,18 +1660,11 @@ VS超級沙奈朵</p></td>
 
   - [《寵物-{小}-精靈XY》TVB官方網站](http://programme.tvb.com/animation/pokemonxy/)
 
-  - [《寵物-{小}-精靈XY
-    (II)》TVB官方網站](http://programme.tvb.com/animation/pokemonxy2/)
+  - [《寵物-{小}-精靈XY (II)》TVB官方網站](http://programme.tvb.com/animation/pokemonxy2/)
 
   -
   -
-[Category:精靈寶可夢系列_(動畫)](https://zh.wikipedia.org/wiki/Category:精靈寶可夢系列_\(動畫\) "wikilink")
-[Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink")
-[Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink")
-[Category:華視外購動畫](https://zh.wikipedia.org/wiki/Category:華視外購動畫 "wikilink")
-[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
+[Category:精靈寶可夢系列_(動畫)](https://zh.wikipedia.org/wiki/Category:精靈寶可夢系列_\(動畫\) "wikilink") [Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink") [Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink") [Category:華視外購動畫](https://zh.wikipedia.org/wiki/Category:華視外購動畫 "wikilink") [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
 
 1.  有傳[無綫電視是在](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2013年11月就購買本作第一季，而當時[群英社](../Page/群英社.md "wikilink")已經不是代理，所以本作當時是向日本購買的；亦因為這樣，所以香港首季的代理應該不是曼迪傳播。
 
@@ -1689,8 +1676,7 @@ VS超級沙奈朵</p></td>
 
 5.  第71集－第80集播放第3段動畫。
 
-6.  第81－84集的主題曲畫面為劇場版《[光輪的超魔神
-    胡帕](https://zh.wikipedia.org/wiki/Pokemon_the_movie_XY_光輪的超魔神_胡帕 "wikilink")》之劇情內容。
+6.  第81－84集的主題曲畫面為劇場版《[光輪的超魔神 胡帕](https://zh.wikipedia.org/wiki/Pokemon_the_movie_XY_光輪的超魔神_胡帕 "wikilink")》之劇情內容。
 
 7.  第126－130集的主題曲畫面為劇場版《[波爾凱尼恩與機關人偶瑪機雅娜](https://zh.wikipedia.org/wiki/波爾凱尼恩與機關人偶瑪機雅娜 "wikilink")》之劇情內容。
 
@@ -1712,8 +1698,7 @@ VS超級沙奈朵</p></td>
 
 16. 東森幼幼台於第4集播完當週的凌晨檔將第6集－第10集提前播放（週日仍維持正常播出）。
 
-17. [寵物小精靈XY - 每集內容 - 第11集 - 哈力馬龍 Vs
-    超級喵喵怪！！](http://programme.tvb.com/animation/pokemonxy/episode/11/)
+17. [寵物小精靈XY - 每集內容 - 第11集 - 哈力馬龍 Vs 超級喵喵怪！！](http://programme.tvb.com/animation/pokemonxy/episode/11/)
 
 18. 香港一直以來採用「伊-{}-貝」為香港譯名，唯是次使用台譯「[精靈](https://zh.wikipedia.org/wiki/仙子精靈 "wikilink")」，電視台於回覆觀眾電郵解釋指譯名是由片商提供。
 
@@ -1725,8 +1710,7 @@ VS超級沙奈朵</p></td>
 23. 原定24集，受南韓沉船事故影響，在日本、美國及台灣均押後播放（香港及南韓則不受影響）。
 
 24.
-25. 此集數安排於第24集及第26集之間播放。請參考以下連結:[寵物小精靈XY - 每集內容 - 第25集 -
-    海底城！垃垃藻與毒拉蜜妮！](http://programme.tvb.com/animation/pokemonxy/episode/25/)
+25. 此集數安排於第24集及第26集之間播放。請參考以下連結:[寵物小精靈XY - 每集內容 - 第25集 - 海底城！垃垃藻與毒拉蜜妮！](http://programme.tvb.com/animation/pokemonxy/episode/25/)
 
 26.
 27.
@@ -1734,7 +1718,6 @@ VS超級沙奈朵</p></td>
 
 29. 以電視台官方網頁為準。
 
-30. [寵物小精靈XY - 每集內容 - 第10集 -
-    特別篇　最強超強化～序幕～](http://programme.tvb.com/animation/pokemonxy/episode/10/)
+30. [寵物小精靈XY - 每集內容 - 第10集 - 特別篇　最強超強化～序幕～](http://programme.tvb.com/animation/pokemonxy/episode/10/)
 
 31.

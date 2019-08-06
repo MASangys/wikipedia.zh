@@ -12,5 +12,4 @@
 
   - [NBA最前线 主题曲——为了梦想 即刻出发](http://sports.cntv.cn/20130221/106632.shtml)
 
-[Category:中国中央电视台体育节目](https://zh.wikipedia.org/wiki/Category:中国中央电视台体育节目 "wikilink")
-[Category:篮球节目](https://zh.wikipedia.org/wiki/Category:篮球节目 "wikilink")
+[Category:中国中央电视台体育节目](https://zh.wikipedia.org/wiki/Category:中国中央电视台体育节目 "wikilink") [Category:篮球节目](https://zh.wikipedia.org/wiki/Category:篮球节目 "wikilink")

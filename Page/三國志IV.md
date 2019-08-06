@@ -1,9 +1,6 @@
 是[光榮](https://zh.wikipedia.org/wiki/光榮 "wikilink")（现为[光榮特庫摩](https://zh.wikipedia.org/wiki/光榮特庫摩 "wikilink")）所發售的，屬於[三國志系列](../Page/三國志系列.md "wikilink")遊戲中的第四作。在[家用遊戲主機版發售後](../Page/電子遊戲機.md "wikilink")，同樣被移植到[Windows版](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。
 
-本作的[背景音樂改由](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")作曲，[Windows版支援於](https://zh.wikipedia.org/wiki/Windows "wikilink")9X的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，如[95](https://zh.wikipedia.org/wiki/Windows95 "wikilink")、[98](https://zh.wikipedia.org/wiki/Windows98 "wikilink")、[ME](https://zh.wikipedia.org/wiki/Windows_ME "wikilink")，不支援[NT核心的作業系統](../Page/Windows_NT.md "wikilink")，如[NT](../Page/Windows_NT.md "wikilink")、[2000](https://zh.wikipedia.org/wiki/Windows2000 "wikilink")、[XP](https://zh.wikipedia.org/wiki/WindowsXP "wikilink")、[Vista](../Page/Windows_Vista.md "wikilink")。[超任版於](../Page/超級任天堂.md "wikilink")2007年2月被移植到[Wii](../Page/Wii.md "wikilink")的[Virtual
-Console](../Page/Virtual_Console.md "wikilink")，2013年7月起，可使用[Wii
-U購買下載遊戲](../Page/Wii_U.md "wikilink")。本作於[Game Boy
-Advance版稱為](../Page/Game_Boy_Advance.md "wikilink")「三國志」，於[任天堂DS](../Page/任天堂DS.md "wikilink")版稱為，雖然遊戲名不同，但均以本作為基礎設計的。
+本作的[背景音樂改由](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")作曲，[Windows版支援於](https://zh.wikipedia.org/wiki/Windows "wikilink")9X的[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，如[95](https://zh.wikipedia.org/wiki/Windows95 "wikilink")、[98](https://zh.wikipedia.org/wiki/Windows98 "wikilink")、[ME](https://zh.wikipedia.org/wiki/Windows_ME "wikilink")，不支援[NT核心的作業系統](../Page/Windows_NT.md "wikilink")，如[NT](../Page/Windows_NT.md "wikilink")、[2000](https://zh.wikipedia.org/wiki/Windows2000 "wikilink")、[XP](https://zh.wikipedia.org/wiki/WindowsXP "wikilink")、[Vista](../Page/Windows_Vista.md "wikilink")。[超任版於](../Page/超級任天堂.md "wikilink")2007年2月被移植到[Wii](../Page/Wii.md "wikilink")的[Virtual Console](../Page/Virtual_Console.md "wikilink")，2013年7月起，可使用[Wii U購買下載遊戲](../Page/Wii_U.md "wikilink")。本作於[Game Boy Advance版稱為](../Page/Game_Boy_Advance.md "wikilink")「三國志」，於[任天堂DS](../Page/任天堂DS.md "wikilink")版稱為，雖然遊戲名不同，但均以本作為基礎設計的。
 
 ## 簡介
 
@@ -18,8 +15,7 @@ Advance版稱為](../Page/Game_Boy_Advance.md "wikilink")「三國志」，於[�
 5.  [戰鬥面的](https://zh.wikipedia.org/wiki/戰鬥 "wikilink")[野戰與](https://zh.wikipedia.org/wiki/野戰 "wikilink")[攻城戰與前作不同](https://zh.wikipedia.org/wiki/攻城戰 "wikilink")。
 6.  前作中[指揮官的能力值](https://zh.wikipedia.org/wiki/指揮官 "wikilink")、部隊的[訓練度](https://zh.wikipedia.org/wiki/訓練 "wikilink")、[士氣](../Page/士氣.md "wikilink")等為決定勝負的重要因素；而本作改為指揮官有無特殊擅長的[兵科](https://zh.wikipedia.org/wiki/兵科 "wikilink")，與有無[副將參與戰鬥來影響勝負](https://zh.wikipedia.org/wiki/副將 "wikilink")。
 7.  武將[單挑的頻率提高了](https://zh.wikipedia.org/wiki/單挑 "wikilink")，攻城武器[投石車在本作登場](https://zh.wikipedia.org/wiki/投石車 "wikilink")。
-8.  雖然總登場武將數較前作減少，但三國鼎立時代後期登場的武將增加了，解決了前作在後期劇本，玩家面臨屬下武將不夠擔任[太守](https://zh.wikipedia.org/wiki/太守 "wikilink")，導致最終[Game
-    Over的問題](https://zh.wikipedia.org/wiki/Game_Over "wikilink")。
+8.  雖然總登場武將數較前作減少，但三國鼎立時代後期登場的武將增加了，解決了前作在後期劇本，玩家面臨屬下武將不夠擔任[太守](https://zh.wikipedia.org/wiki/太守 "wikilink")，導致最終[Game Over的問題](https://zh.wikipedia.org/wiki/Game_Over "wikilink")。
 9.  追加了新歷史事件。
 10. 自本作起，光榮開始發售\[1\]，簡稱「PK版」，相當於其他遊戲的[資料片](https://zh.wikipedia.org/wiki/資料片 "wikilink")，但通常是追加事件或劇本。
 
@@ -138,8 +134,7 @@ Advance版稱為](../Page/Game_Boy_Advance.md "wikilink")「三國志」，於[�
 ### CD
 
   - 三國志IV KECH-1057
-  - 光栄オリジナルBGM集Vol.12
-    三國志IV/[提督之決斷II](../Page/提督之決斷II.md "wikilink")KECH-1079（※採用了超級任天堂版的音源）
+  - 光栄オリジナルBGM集Vol.12 三國志IV/[提督之決斷II](../Page/提督之決斷II.md "wikilink")KECH-1079（※採用了超級任天堂版的音源）
 
 ## 外部連結
 
@@ -147,29 +142,15 @@ Advance版稱為](../Page/Game_Boy_Advance.md "wikilink")「三國志」，於[�
 
   - [VC 三國志IV](http://www.nintendo.co.jp/wii/vc/vc_sg4/)
 
-  - [Wii
-    U｜三國志IV｜Nintendo](http://www.nintendo.co.jp/wiiu/software/vc/jbcj/)
+  - [Wii U｜三國志IV｜Nintendo](http://www.nintendo.co.jp/wiiu/software/vc/jbcj/)
 
-  - [ゲームボーイアドバンス用
-    製品案内](http://www.gamecity.ne.jp/products/products/ee/Rlsan_gba.htm)
+  - [ゲームボーイアドバンス用 製品案内](http://www.gamecity.ne.jp/products/products/ee/Rlsan_gba.htm)
 
-  - [PlayStation.com(Japan)｜ソフトウェアカタログ｜三國志IV with
-    パワーアップキット](http://www.jp.playstation.com/software/title/slps00979.html)
+  - [PlayStation.com(Japan)｜ソフトウェアカタログ｜三國志IV with パワーアップキット](http://www.jp.playstation.com/software/title/slps00979.html)
 
 ## 注釋與參考來源
 
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink")
-[Category:超級任天堂遊戲](https://zh.wikipedia.org/wiki/Category:超級任天堂遊戲 "wikilink")
-[Category:Mega_Drive遊戲](https://zh.wikipedia.org/wiki/Category:Mega_Drive遊戲 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:1994年電子遊戲](https://zh.wikipedia.org/wiki/Category:1994年電子遊戲 "wikilink")
-[Category:DOS遊戲](https://zh.wikipedia.org/wiki/Category:DOS遊戲 "wikilink")
-[Category:光榮遊戲](https://zh.wikipedia.org/wiki/Category:光榮遊戲 "wikilink")
-[Category:世嘉土星游戏](https://zh.wikipedia.org/wiki/Category:世嘉土星游戏 "wikilink")
-[Category:PlayStation_Network游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Network游戏 "wikilink")
-[Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink")
-[Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink")
+[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Mac_OS遊戲](https://zh.wikipedia.org/wiki/Category:Mac_OS遊戲 "wikilink") [Category:超級任天堂遊戲](https://zh.wikipedia.org/wiki/Category:超級任天堂遊戲 "wikilink") [Category:Mega_Drive遊戲](https://zh.wikipedia.org/wiki/Category:Mega_Drive遊戲 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:1994年電子遊戲](https://zh.wikipedia.org/wiki/Category:1994年電子遊戲 "wikilink") [Category:DOS遊戲](https://zh.wikipedia.org/wiki/Category:DOS遊戲 "wikilink") [Category:光榮遊戲](https://zh.wikipedia.org/wiki/Category:光榮遊戲 "wikilink") [Category:世嘉土星游戏](https://zh.wikipedia.org/wiki/Category:世嘉土星游戏 "wikilink") [Category:PlayStation_Network游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Network游戏 "wikilink") [Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink") [Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink")
 
 1.  第三波於代理發行時譯為「威力加強版」，並被沿用至今。
 2.  官方中文版翻譯為[埋伏](../Page/埋伏.md "wikilink")

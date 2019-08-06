@@ -2,16 +2,14 @@
 
 ## 沿革
 
-  - 1996年5月8日 - **Inti
-    Creates有限公司（）**在千叶县[船桥市北习志野成立](https://zh.wikipedia.org/wiki/船桥市 "wikilink")。当时的资本金为300万日元。
+  - 1996年5月8日 - **Inti Creates有限公司（）**在千叶县[船桥市北习志野成立](https://zh.wikipedia.org/wiki/船桥市 "wikilink")。当时的资本金为300万日元。
   - 2000年2月21日 - 公司所在地迁移至千叶县市川市平田。
   - 2001年3月28日 - 资本金增资至1,500万日元。
   - 2003年11月27日 - 更名为**Inti Creates股份有限公司（）**。
   - 2004年10月25日 - 资本金增资至3,000万日元。
   - 2005年4月8日 - 公司所在地迁移至千叶县市川市南八幡。
   - 2005年10月31日 - 资本金增资至3,250万日元。
-  - 2008年1月 -
-    在[爱知县](https://zh.wikipedia.org/wiki/爱知县 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中村区](../Page/中村区.md "wikilink")设立**名古屋开发部**（名古屋营业所）。
+  - 2008年1月 - 在[爱知县](https://zh.wikipedia.org/wiki/爱知县 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中村区](../Page/中村区.md "wikilink")设立**名古屋开发部**（名古屋营业所）。
 
 ## 開發遊戲列表
 
@@ -443,9 +441,6 @@
 
   - [Inti Creates官方网站](http://www.inti.co.jp/)
 
-[Category:1996年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1996年開業電子遊戲公司 "wikilink")
-[Category:电子游戏开发公司](https://zh.wikipedia.org/wiki/Category:电子游戏开发公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:千葉縣公司](https://zh.wikipedia.org/wiki/Category:千葉縣公司 "wikilink")
+[Category:1996年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1996年開業電子遊戲公司 "wikilink") [Category:电子游戏开发公司](https://zh.wikipedia.org/wiki/Category:电子游戏开发公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:千葉縣公司](https://zh.wikipedia.org/wiki/Category:千葉縣公司 "wikilink")
 
 1.

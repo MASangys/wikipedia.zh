@@ -1,5 +1,4 @@
-《**Heads or
-Tails**》是[陳偉霆](../Page/陳偉霆.md "wikilink")於2010年12月6日推出之第四張個人專輯，第一主打歌為設計意識大膽的《尾巴》。
+《**Heads or Tails**》是[陳偉霆](../Page/陳偉霆.md "wikilink")於2010年12月6日推出之第四張個人專輯，第一主打歌為設計意識大膽的《尾巴》。
 
 另外專輯附有一片DVD，收錄2首歌曲的音樂錄影帶：《尾巴》與《Together》。
 
@@ -26,7 +25,4 @@ Tails**》是[陳偉霆](../Page/陳偉霆.md "wikilink")於2010年12月6日推�
 
 </div>
 
-[Category:陳偉霆](https://zh.wikipedia.org/wiki/Category:陳偉霆 "wikilink")
-[Category:陳偉霆音樂專輯](https://zh.wikipedia.org/wiki/Category:陳偉霆音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
+[Category:陳偉霆](https://zh.wikipedia.org/wiki/Category:陳偉霆 "wikilink") [Category:陳偉霆音樂專輯](https://zh.wikipedia.org/wiki/Category:陳偉霆音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")

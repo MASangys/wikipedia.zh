@@ -1,6 +1,4 @@
-《**Wu
-Ha**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[潘瑋柏的第三張國語專輯](https://zh.wikipedia.org/wiki/潘瑋柏 "wikilink")。這大碟在2004年9月6日推出，第一主打為專輯同名歌曲《Wu
-Ha》，第二主打則為與[張韶涵](../Page/張韶涵.md "wikilink")合作的《快樂崇拜》。
+《**Wu Ha**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[潘瑋柏的第三張國語專輯](https://zh.wikipedia.org/wiki/潘瑋柏 "wikilink")。這大碟在2004年9月6日推出，第一主打為專輯同名歌曲《Wu Ha》，第二主打則為與[張韶涵](../Page/張韶涵.md "wikilink")合作的《快樂崇拜》。
 
 ## 唱片版本
 
@@ -140,6 +138,4 @@ Ha》，第二主打則為與[張韶涵](../Page/張韶涵.md "wikilink")合作�
 
 </div>
 
-[Category:潘瑋柏音樂專輯](https://zh.wikipedia.org/wiki/Category:潘瑋柏音樂專輯 "wikilink")
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
+[Category:潘瑋柏音樂專輯](https://zh.wikipedia.org/wiki/Category:潘瑋柏音樂專輯 "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")

@@ -10,6 +10,4 @@
   - 復刻CD版
   - SACD
 
-[Category:陳慧嫻音樂專輯](https://zh.wikipedia.org/wiki/Category:陳慧嫻音樂專輯 "wikilink")
-[Category:1987年音樂專輯](https://zh.wikipedia.org/wiki/Category:1987年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:陳慧嫻音樂專輯](https://zh.wikipedia.org/wiki/Category:陳慧嫻音樂專輯 "wikilink") [Category:1987年音樂專輯](https://zh.wikipedia.org/wiki/Category:1987年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

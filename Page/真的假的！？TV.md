@@ -58,8 +58,4 @@
 
 ## 節目的變遷
 
-[Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink")
-[Category:清談節目](https://zh.wikipedia.org/wiki/Category:清談節目 "wikilink")
-[Category:明石家秋刀魚](https://zh.wikipedia.org/wiki/Category:明石家秋刀魚 "wikilink")
-[Category:2009年日本電視節目](https://zh.wikipedia.org/wiki/Category:2009年日本電視節目 "wikilink")
-[Category:國興衛視電視節目](https://zh.wikipedia.org/wiki/Category:國興衛視電視節目 "wikilink")
+[Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink") [Category:清談節目](https://zh.wikipedia.org/wiki/Category:清談節目 "wikilink") [Category:明石家秋刀魚](https://zh.wikipedia.org/wiki/Category:明石家秋刀魚 "wikilink") [Category:2009年日本電視節目](https://zh.wikipedia.org/wiki/Category:2009年日本電視節目 "wikilink") [Category:國興衛視電視節目](https://zh.wikipedia.org/wiki/Category:國興衛視電視節目 "wikilink")

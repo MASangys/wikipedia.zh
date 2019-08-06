@@ -1,25 +1,13 @@
-**M+M之巡迴演唱會**（英语：*The M+M's
-Tour*），是美国女歌手[布兰妮·斯皮尔斯的第](https://zh.wikipedia.org/wiki/布兰妮·斯皮尔斯 "wikilink")6个巡回演唱会，所有场次均在美国进行，每个场次都包括的6个简单的表演。2006年2月，布兰妮曾表示自己想要再次巡演。她开始秘密地在*[House
-of Blues](https://zh.wikipedia.org/wiki/House_of_Blues "wikilink")*进行排练，
-并于2007年4月25日的[洛杉矶](../Page/洛杉矶.md "wikilink") Forty
-Deuce夜总会进行了一场秘密演出。在2007年4月末，“The
-M+M's”的标语出现在了*House of
-Blues*上，媒体认出了此为布兰妮的表演，而表演的门票亦很快售罄。这次巡演是布兰妮自2004年6月以来的首次现场演出。
+**M+M之巡迴演唱會**（英语：*The M+M's Tour*），是美国女歌手[布兰妮·斯皮尔斯的第](https://zh.wikipedia.org/wiki/布兰妮·斯皮尔斯 "wikilink")6个巡回演唱会，所有场次均在美国进行，每个场次都包括的6个简单的表演。2006年2月，布兰妮曾表示自己想要再次巡演。她开始秘密地在*[House of Blues](https://zh.wikipedia.org/wiki/House_of_Blues "wikilink")*进行排练， 并于2007年4月25日的[洛杉矶](../Page/洛杉矶.md "wikilink") Forty Deuce夜总会进行了一场秘密演出。在2007年4月末，“The M+M's”的标语出现在了*House of Blues*上，媒体认出了此为布兰妮的表演，而表演的门票亦很快售罄。这次巡演是布兰妮自2004年6月以来的首次现场演出。
 
-每场演出大约时长12–16分钟，在每场表演中布兰妮和舞者都会表演5首歌曲的缩短版，其中包括热门歌曲《[爱的初告白](https://zh.wikipedia.org/wiki/爱的初告白_\(歌曲\) "wikilink")》（*...Baby
-One More
-Time*）与《[中你的毒](../Page/中你的毒.md "wikilink")》（*Toxic*）。每场表演会有一名男性观众获得上台的机会。布兰妮在每场演出中都为[假唱](../Page/假唱.md "wikilink")。演出获得了评论的不同评价，有些评论认为布兰妮看起来很快乐，身材很好。而另一些则认为表演欠佳。有[黄牛党将原本](https://zh.wikipedia.org/wiki/黄牛党 "wikilink")35美元的门票非法提价至200至500美元。
+每场演出大约时长12–16分钟，在每场表演中布兰妮和舞者都会表演5首歌曲的缩短版，其中包括热门歌曲《[爱的初告白](https://zh.wikipedia.org/wiki/爱的初告白_\(歌曲\) "wikilink")》（*...Baby One More Time*）与《[中你的毒](../Page/中你的毒.md "wikilink")》（*Toxic*）。每场表演会有一名男性观众获得上台的机会。布兰妮在每场演出中都为[假唱](../Page/假唱.md "wikilink")。演出获得了评论的不同评价，有些评论认为布兰妮看起来很快乐，身材很好。而另一些则认为表演欠佳。有[黄牛党将原本](https://zh.wikipedia.org/wiki/黄牛党 "wikilink")35美元的门票非法提价至200至500美元。
 
 ## 曲目列表
 
-1.  《[爱的初告白](https://zh.wikipedia.org/wiki/爱的初告白_\(歌曲\) "wikilink")》（*...Baby
-    One More Time*）
-2.  《[爱情奴隶](https://zh.wikipedia.org/wiki/爱情奴隶 "wikilink")》（*I'm a Slave
-    4 U*）
-3.  《[呼吸](https://zh.wikipedia.org/wiki/呼吸_\(歌曲\) "wikilink")》（*Breathe
-    on Me*）
-4.  《[做 就对了](https://zh.wikipedia.org/wiki/做_就对了 "wikilink")》（*Do
-    Somethin*'）
+1.  《[爱的初告白](https://zh.wikipedia.org/wiki/爱的初告白_\(歌曲\) "wikilink")》（*...Baby One More Time*）
+2.  《[爱情奴隶](https://zh.wikipedia.org/wiki/爱情奴隶 "wikilink")》（*I'm a Slave 4 U*）
+3.  《[呼吸](https://zh.wikipedia.org/wiki/呼吸_\(歌曲\) "wikilink")》（*Breathe on Me*）
+4.  《[做 就对了](https://zh.wikipedia.org/wiki/做_就对了 "wikilink")》（*Do Somethin*'）
 5.  《[中你的毒](../Page/中你的毒.md "wikilink")》（*Toxic*）
 
 来源:\[1\]

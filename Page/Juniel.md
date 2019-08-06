@@ -1,14 +1,10 @@
 **Juniel**（；；），原名為**崔準希**\[1\]（；；），轉投[C9娛樂後](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")，並將本名改為**崔瑞峨**\[2\]（，），[韓國創作女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")。原在[FNC娛樂](../Page/FNC娛樂.md "wikilink")出道，2016年1月底完約，其後轉投C9娛樂。
 
-在韓國出道前她已於日本發展演藝事業，初出道時藝名為「Junie」，其后改為現名，由英文名字與字母「L」的組合而成，當中字母「L」代表「Love」（愛）\[3\]。
-粉絲的官方名稱為「Banila」，意為白色甜蜜的[Vanilla](https://zh.wikipedia.org/wiki/雲呢拿 "wikilink")，也是Juniel最珍貴的第一支吉他「Bbanini」和象徵初戀的「Illa
-Illa」合成的名字，有「如Juniel的初戀一般隨時隨地相伴在一起的珍貴的存在」的含義，偶像為[少女時代隊長](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍](../Page/太妍.md "wikilink")和[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\) "wikilink")[鄭秀晶](../Page/鄭秀晶.md "wikilink")
+在韓國出道前她已於日本發展演藝事業，初出道時藝名為「Junie」，其后改為現名，由英文名字與字母「L」的組合而成，當中字母「L」代表「Love」（愛）\[3\]。 粉絲的官方名稱為「Banila」，意為白色甜蜜的[Vanilla](https://zh.wikipedia.org/wiki/雲呢拿 "wikilink")，也是Juniel最珍貴的第一支吉他「Bbanini」和象徵初戀的「Illa Illa」合成的名字，有「如Juniel的初戀一般隨時隨地相伴在一起的珍貴的存在」的含義，偶像為[少女時代隊長](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[太妍](../Page/太妍.md "wikilink")和[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\) "wikilink")[鄭秀晶](../Page/鄭秀晶.md "wikilink")
 
 ## 生平
 
-Juniel在韓國出生，家有父母及一個弟弟。從兒時開始學習跳舞和唱歌，視[BoA為夢想和目標](https://zh.wikipedia.org/wiki/BoA "wikilink")。在初中三年级學會彈奏吉他。一年後，她寫了她的第一首歌《Boy》。當時她欣賞[椎名林檎](../Page/椎名林檎.md "wikilink")、[艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink")等等的創作型歌手，還研究了他們的作曲技巧，但是當時[韓國盛行](https://zh.wikipedia.org/wiki/韓國 "wikilink")[舞曲](../Page/舞曲.md "wikilink")，自彈自唱的創作歌手非常罕見。另一方面，[日本](../Page/日本.md "wikilink")擁有多種類型的音樂，[獨立音樂](../Page/獨立音樂.md "wikilink")也相當活躍。後來通過經紀公司面試後，被邀請到日本當練習生。她覺得自己一個人練習也有極限，想去離韓國距離較近的日本，學習多元的音樂風格與創作\[4\]。赴日進修期間，參加「」選秀比賽並勝出\[5\]。曾在Good
-Entertainment當練習生，其後經[AI
-Entertainment的試音式和](https://zh.wikipedia.org/wiki/AI_Entertainment "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")成員[鄭容和](../Page/鄭容和.md "wikilink")一同成為練習生\[6\]。
+Juniel在韓國出生，家有父母及一個弟弟。從兒時開始學習跳舞和唱歌，視[BoA為夢想和目標](https://zh.wikipedia.org/wiki/BoA "wikilink")。在初中三年级學會彈奏吉他。一年後，她寫了她的第一首歌《Boy》。當時她欣賞[椎名林檎](../Page/椎名林檎.md "wikilink")、[艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink")等等的創作型歌手，還研究了他們的作曲技巧，但是當時[韓國盛行](https://zh.wikipedia.org/wiki/韓國 "wikilink")[舞曲](../Page/舞曲.md "wikilink")，自彈自唱的創作歌手非常罕見。另一方面，[日本](../Page/日本.md "wikilink")擁有多種類型的音樂，[獨立音樂](../Page/獨立音樂.md "wikilink")也相當活躍。後來通過經紀公司面試後，被邀請到日本當練習生。她覺得自己一個人練習也有極限，想去離韓國距離較近的日本，學習多元的音樂風格與創作\[4\]。赴日進修期間，參加「」選秀比賽並勝出\[5\]。曾在Good Entertainment當練習生，其後經[AI Entertainment的試音式和](https://zh.wikipedia.org/wiki/AI_Entertainment "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")成員[鄭容和](../Page/鄭容和.md "wikilink")一同成為練習生\[6\]。
 
 ## 音樂作品
 
@@ -258,13 +254,10 @@ Entertainment的試音式和](https://zh.wikipedia.org/wiki/AI_Entertainment "wi
 
 ### 原聲帶
 
-  - 2013年：《[SBS 赤腳的朋友們 My story My
-    song](https://zh.wikipedia.org/wiki/赤腳的朋友們#音樂原聲帶 "wikilink")》OST〈爺爺的自行車〉（與[尹施允](../Page/尹施允.md "wikilink")、）
-  - 2016年：《[SBS 美女孔心](../Page/美女孔心.md "wikilink")》OST Part.6〈예뻐보여You
-    Look Pretty (feat.)〉
+  - 2013年：《[SBS 赤腳的朋友們 My story My song](https://zh.wikipedia.org/wiki/赤腳的朋友們#音樂原聲帶 "wikilink")》OST〈爺爺的自行車〉（與[尹施允](../Page/尹施允.md "wikilink")、）
+  - 2016年：《[SBS 美女孔心](../Page/美女孔心.md "wikilink")》OST Part.6〈예뻐보여You Look Pretty (feat.)〉
   - 2016年：《[MBC 購物王路易](../Page/購物王路易.md "wikilink")》OST Part.3〈The Time〉
-  - 2018年：《[不是機器人啊](../Page/不是機器人啊.md "wikilink")》OST Part.5〈站在這裡（여기 서
-    있어）〉
+  - 2018年：《[不是機器人啊](../Page/不是機器人啊.md "wikilink")》OST Part.5〈站在這裡（여기 서 있어）〉
   - 2018年：《[你的管家](../Page/你的管家.md "wikilink")》OST Part.5〈Smile Again〉
 
 ## 影視作品
@@ -453,19 +446,15 @@ Entertainment的試音式和](https://zh.wikipedia.org/wiki/AI_Entertainment "wi
       - <small>（2011年3月5日－2012年6月5日）</small>
 
   -
-  - [Juniel](http://cafe.daum.net/JUNIEL)在[Daum](https://zh.wikipedia.org/wiki/Daum "wikilink")
-    cafe的頁面
+  - [Juniel](http://cafe.daum.net/JUNIEL)在[Daum](https://zh.wikipedia.org/wiki/Daum "wikilink") cafe的頁面
 
   - [Juniel](http://ameblo.jp/juniel)在[Ameba](../Page/Ameba.md "wikilink")的網誌
 
   -
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
+[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
 
 1.  [Juniel認證的本名](http://m.tiebaimg.com/timg?wapp&quality=100&size=b1080_2000&cut_x=0&cut_w=0&cut_y=0&cut_h=0&sec=1369815402&di=220cd09118907f4a0b2ebba9977fe1f5&wh_rate=null&src=http%3A%2F%2Fimgsrc.baidu.com%2Fforum%2Fpic%2Fitem%2Fd9448e5494eef01fd653149be2fe9925bd317d70.jpg)
-2.  [‘최준희→최서아’…가수 주니엘, 개명 후
-    컴백](http://www.tvreport.co.kr/?c=news&m=newsview&idx=908485)
+2.  [‘최준희→최서아’…가수 주니엘, 개명 후 컴백](http://www.tvreport.co.kr/?c=news&m=newsview&idx=908485)
 3.
 4.
 5.

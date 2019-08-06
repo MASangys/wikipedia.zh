@@ -1,5 +1,4 @@
-**China
-Queen**，是[中国北京崇尚传媒于](https://zh.wikipedia.org/wiki/中国 "wikilink")2013年7月推出的一支15人女子偶像音乐团体\[1\]。
+**China Queen**，是[中国北京崇尚传媒于](https://zh.wikipedia.org/wiki/中国 "wikilink")2013年7月推出的一支15人女子偶像音乐团体\[1\]。
 
 ## 主要经历
 
@@ -41,16 +40,11 @@ Queen**，是[中国北京崇尚传媒于](https://zh.wikipedia.org/wiki/中国 
 ## 外部链接
 
   - [China Queen 官方微博](http://weibo.com/u/3107601891)
-  - [China Queen
-    官方音乐](https://archive.is/20140607063317/http://music.baidu.com/album/87782285)
+  - [China Queen 官方音乐](https://archive.is/20140607063317/http://music.baidu.com/album/87782285)
   - [China Queen 官方MV](http://v.yinyuetai.com/video/801766)
 
-[Category:中国女子演唱團體](https://zh.wikipedia.org/wiki/Category:中国女子演唱團體 "wikilink")
-[Category:2013年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2013年成立的音乐团体 "wikilink")
-[Category:华语流行音乐团体](https://zh.wikipedia.org/wiki/Category:华语流行音乐团体 "wikilink")
+[Category:中国女子演唱團體](https://zh.wikipedia.org/wiki/Category:中国女子演唱團體 "wikilink") [Category:2013年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2013年成立的音乐团体 "wikilink") [Category:华语流行音乐团体](https://zh.wikipedia.org/wiki/Category:华语流行音乐团体 "wikilink")
 
-1.  [女子组合ChinaQueen出道
-    推出首张EP](http://ent.sina.com.cn/y/2013-07-30/19383976192.shtml)
-2.  [ChinaQueen女子天团惊艳首秀
-    誓破韩流引领女团风潮](http://ent.ifeng.com/zz/detail_2013_07/29/28030270_0.shtml)
+1.  [女子组合ChinaQueen出道 推出首张EP](http://ent.sina.com.cn/y/2013-07-30/19383976192.shtml)
+2.  [ChinaQueen女子天团惊艳首秀 誓破韩流引领女团风潮](http://ent.ifeng.com/zz/detail_2013_07/29/28030270_0.shtml)
 3.  [ChinaQueen发首张EP《潇洒大小姐》](http://ent.sina.com.cn/y/2013-08-07/18273982586.shtml)

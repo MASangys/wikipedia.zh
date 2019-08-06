@@ -10,21 +10,13 @@
 
 2011年，鈴木贏得了第五屆全日本動漫歌曲大獎賽的冠軍，從此受注目。2012年4月25日，她以電視動畫[黃昏乙女×失憶幽靈](../Page/黃昏乙女×失憶幽靈.md "wikilink")的主題曲「」正式出道\[3\]。
 
-2014年7月13日，至[上海擔任第十屆中國國際動漫遊戲博覽會嘉賓](https://zh.wikipedia.org/wiki/上海 "wikilink")，並舉行兩場演唱簽名會。2015年5月17日，在[香港](../Page/香港.md "wikilink")與[新田惠海](../Page/新田惠海.md "wikilink")、[橋本美雪](../Page/橋本美雪.md "wikilink")共同舉行「KiraKira
-Anisong
-Night」演唱會；同年7月18日，於[Niconico動畫](../Page/Niconico動畫.md "wikilink")的節目頻道，成立官方粉絲俱樂部節目「」\[4\]；同年11月15日，在[臺北市](../Page/臺北市.md "wikilink")花漾Hana展演空間舉行個人演唱會，這是鈴木第一次的海外個人演唱會。
+2014年7月13日，至[上海擔任第十屆中國國際動漫遊戲博覽會嘉賓](https://zh.wikipedia.org/wiki/上海 "wikilink")，並舉行兩場演唱簽名會。2015年5月17日，在[香港](../Page/香港.md "wikilink")與[新田惠海](../Page/新田惠海.md "wikilink")、[橋本美雪](../Page/橋本美雪.md "wikilink")共同舉行「KiraKira Anisong Night」演唱會；同年7月18日，於[Niconico動畫](../Page/Niconico動畫.md "wikilink")的節目頻道，成立官方粉絲俱樂部節目「」\[4\]；同年11月15日，在[臺北市](../Page/臺北市.md "wikilink")花漾Hana展演空間舉行個人演唱會，這是鈴木第一次的海外個人演唱會。
 
-2016年1月11日，鈴木表示為了專注歌手活動，決定大學休學並上京，同時發表了移籍到（[Amuleto](../Page/Amuleto.md "wikilink")）事務所。2016年11月5日，鈴木20歲生日在[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉行2016年第二十場演唱會「鈴木このみ
-Birthday Live 2016 ～Cheers\!\!\!」，同時Staff公佈鈴木飾演「[LOST
-SONG](../Page/LOST_SONG.md "wikilink")」的女主角，所飾演的角色為「鈴」，作為鈴木的驚喜禮物。2016年12月31日在「鈴木このみ
-COUNTDOWN LIVE 2016～2017」獻唱首次參與作曲的「Moment」，並訂下「作詞作曲」為2017年的目標。
+2016年1月11日，鈴木表示為了專注歌手活動，決定大學休學並上京，同時發表了移籍到（[Amuleto](../Page/Amuleto.md "wikilink")）事務所。2016年11月5日，鈴木20歲生日在[幕張展覽館](../Page/幕張展覽館.md "wikilink")舉行2016年第二十場演唱會「鈴木このみ Birthday Live 2016 ～Cheers\!\!\!」，同時Staff公佈鈴木飾演「[LOST SONG](../Page/LOST_SONG.md "wikilink")」的女主角，所飾演的角色為「鈴」，作為鈴木的驚喜禮物。2016年12月31日在「鈴木このみ COUNTDOWN LIVE 2016～2017」獻唱首次參與作曲的「Moment」，並訂下「作詞作曲」為2017年的目標。
 
-2017年6月3日，在「鈴木このみ 3rd Live Tour 2017
-～lead～」東京公演獻唱自己作詞作曲的歌曲「夢へ繋ぐ今」。2017年8月31日，開設官方粉絲專頁「このみExplorer」。
+2017年6月3日，在「鈴木このみ 3rd Live Tour 2017 ～lead～」東京公演獻唱自己作詞作曲的歌曲「夢へ繋ぐ今」。2017年8月31日，開設官方粉絲專頁「このみExplorer」。
 
-2018年4月，鈴木以「[LOST
-SONG](../Page/LOST_SONG.md "wikilink")」飾演女主角「鈴」的角色，聲優的身份出道，同時和[畑亜貴一起為](https://zh.wikipedia.org/wiki/畑亜貴 "wikilink")「[LOST
-SONG](../Page/LOST_SONG.md "wikilink")」主題曲「」作詞。2018年5月19日，在[日比谷公園野外大音樂堂舉行第一次室外演唱會](../Page/日比谷野外音乐堂.md "wikilink")。
+2018年4月，鈴木以「[LOST SONG](../Page/LOST_SONG.md "wikilink")」飾演女主角「鈴」的角色，聲優的身份出道，同時和[畑亜貴一起為](https://zh.wikipedia.org/wiki/畑亜貴 "wikilink")「[LOST SONG](../Page/LOST_SONG.md "wikilink")」主題曲「」作詞。2018年5月19日，在[日比谷公園野外大音樂堂舉行第一次室外演唱會](../Page/日比谷野外音乐堂.md "wikilink")。
 
 ## 音樂作品
 
@@ -60,6 +52,8 @@ SONG](../Page/LOST_SONG.md "wikilink")」主題曲「」作詞。2018年5月19�
 | 迷你    | 2015年10月16日 | ****             |            | ZMCZ-10273 |
 | 3rd   | 2017年3月8日   | ****             | ZMCZ-10978 | ZMCZ-10979 |
 | 精選    | 2017年12月20日 | **LIFE of DASH** |            | ZMCZ-11835 |
+| 4th   | 2019年11月6日  | ****             | USSW-0207  | USSW-0208  |
+|       |             |                  |            |            |
 
 ### 參與作詞作曲作品
 
@@ -267,6 +261,11 @@ SONG](../Page/LOST_SONG.md "wikilink")」主題曲「」作詞。2018年5月19�
 <td><p>手機遊戲『』主題曲</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>MOTHER</p></td>
+<td><p>電視動畫『<a href="../Page/YU-NO_在這世界盡頭詠唱愛的少女.md" title="wikilink">YU-NO在這世界盡頭詠唱愛的少女 異世界編</a>』主題曲</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -280,21 +279,18 @@ SONG](../Page/LOST_SONG.md "wikilink")」主題曲「」作詞。2018年5月19�
 
   - （2013年5月16日）
 
-      - 「」- 『[Animelo Summer Live 2013 -FLAG
-        NINE-](https://zh.wikipedia.org/wiki/Animelo_Summer_Live_2013_-FLAG_NINE- "wikilink")』主題曲
+      - 「」- 『[Animelo Summer Live 2013 -FLAG NINE-](https://zh.wikipedia.org/wiki/Animelo_Summer_Live_2013_-FLAG_NINE- "wikilink")』主題曲
 
 <!-- end list -->
 
   - （2014年7月13日）
 
-      - 「」- 『[Animelo Summer Live 2014
-        -ONENESS-](https://zh.wikipedia.org/wiki/Animelo_Summer_Live_2014_-ONENESS- "wikilink")』主題曲
+      - 「」- 『[Animelo Summer Live 2014 -ONENESS-](https://zh.wikipedia.org/wiki/Animelo_Summer_Live_2014_-ONENESS- "wikilink")』主題曲
 
 <!-- end list -->
 
   - 「」（2014年7月23日）
-      - 「」- 『[最強銀河 究極ZERO Battle
-        Spirits](https://zh.wikipedia.org/wiki/最強銀河_究極ZERO_Battle_Spirits "wikilink")』片尾曲
+      - 「」- 『[最強銀河 究極ZERO Battle Spirits](https://zh.wikipedia.org/wiki/最強銀河_究極ZERO_Battle_Spirits "wikilink")』片尾曲
 
 <!-- end list -->
 
@@ -305,14 +301,12 @@ SONG](../Page/LOST_SONG.md "wikilink")」主題曲「」作詞。2018年5月19�
 <!-- end list -->
 
   - 「」（2015年5月13日）
-      - 「」- 『[Animelo Summer Live 2015 -THE
-        GATE-](https://zh.wikipedia.org/wiki/Animelo_Summer_Live_2015_-THE_GATE- "wikilink")』主題曲
+      - 「」- 『[Animelo Summer Live 2015 -THE GATE-](https://zh.wikipedia.org/wiki/Animelo_Summer_Live_2015_-THE_GATE- "wikilink")』主題曲
 
 <!-- end list -->
 
   - 「」（2015年8月19日）
-      - 「」 -
-        『[魔導少年](https://zh.wikipedia.org/wiki/魔導少年 "wikilink")』第二期主題曲
+      - 「」 - 『[魔導少年](https://zh.wikipedia.org/wiki/魔導少年 "wikilink")』第二期主題曲
 
 <!-- end list -->
 
@@ -328,8 +322,7 @@ SONG](../Page/LOST_SONG.md "wikilink")」主題曲「」作詞。2018年5月19�
 <!-- end list -->
 
   - 「」（2016年4月26日）
-      - 「」 - 『[Animelo Summer Live 2016
-        刻-TOKI-](https://zh.wikipedia.org/wiki/Animelo_Summer_Live_2016_刻-TOKI- "wikilink")』主題曲
+      - 「」 - 『[Animelo Summer Live 2016 刻-TOKI-](https://zh.wikipedia.org/wiki/Animelo_Summer_Live_2016_刻-TOKI- "wikilink")』主題曲
 
 <!-- end list -->
 
@@ -341,8 +334,7 @@ SONG](../Page/LOST_SONG.md "wikilink")」主題曲「」作詞。2018年5月19�
 <!-- end list -->
 
   - 「」（2017年5月17日）
-      - 「」 - 『[Animelo Summer Live 2017 -THE
-        CARD-](https://zh.wikipedia.org/wiki/Animelo_Summer_Live_2017_-THE_CARD- "wikilink")』主題曲
+      - 「」 - 『[Animelo Summer Live 2017 -THE CARD-](https://zh.wikipedia.org/wiki/Animelo_Summer_Live_2017_-THE_CARD- "wikilink")』主題曲
 
 <!-- end list -->
 
@@ -352,8 +344,7 @@ SONG](../Page/LOST_SONG.md "wikilink")」主題曲「」作詞。2018年5月19�
 <!-- end list -->
 
   - 「」（2018年5月16日）
-      - 「」 - 『[Animelo Summer Live 2018
-        OK\!](../Page/Animelo_Summer_Live.md "wikilink")』主題曲
+      - 「」 - 『[Animelo Summer Live 2018 OK\!](../Page/Animelo_Summer_Live.md "wikilink")』主題曲
 
 <!-- end list -->
 
@@ -785,6 +776,12 @@ SONG](../Page/LOST_SONG.md "wikilink")」主題曲「」作詞。2018年5月19�
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年12月31日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -815,8 +812,7 @@ SONG](../Page/LOST_SONG.md "wikilink")」主題曲「」作詞。2018年5月19�
 ### 廣播
 
   - 「」（[YouTube](../Page/YouTube.md "wikilink")、2013年2月26日 - 7月4日）
-  - 「」（[Niconico動畫](../Page/Niconico動畫.md "wikilink")、2015年8月8日 -
-    2016年3月17日）
+  - 「」（[Niconico動畫](../Page/Niconico動畫.md "wikilink")、2015年8月8日 - 2016年3月17日）
   - 「」（超\!A\&G+、2016年4月8日 - 2017年3月31日）
   - 「」（超\!A\&G+、2017年7月9日 - 2019年3月31日 ）
   - 「」（HiBiKi Radio Station、2017年12月25日 (第1回) - 2018年7月1日 (第28回)）
@@ -837,29 +833,19 @@ SONG](../Page/LOST_SONG.md "wikilink")」主題曲「」作詞。2018年5月19�
 
   - [官方Fan Club『このみ Explorer』](http://konomiex.com/) (2017/7/18 - )
 
-  - [官方Fan
-    Club「このまにあ\!\!\!」](https://web.archive.org/web/20170328062115/http://ch.nicovideo.jp/konomania)
-    (2015/7/18 - 2017/7/31)
+  - [官方Fan Club「このまにあ\!\!\!」](https://web.archive.org/web/20170328062115/http://ch.nicovideo.jp/konomania) (2015/7/18 - 2017/7/31)
 
-  - [官方網誌 - Powered by LINE](http://lineblog.me/suzukikonomi/)
-    (2015/12/10 - )
+  - [官方網誌 - Powered by LINE](http://lineblog.me/suzukikonomi/) (2015/12/10 - )
 
   - [官方網誌](http://ameblo.jp/konomi-suzuki/)（2012/5/22 - 2015/12/10）
 
-  - [鈴木このみ - Instagram](https://www.instagram.com/konomin_official)
-    (2018/5/19 - )
+  - [鈴木このみ - Instagram](https://www.instagram.com/konomin_official) (2018/5/19 - )
 
   -
   -
-  - [官方微博](https://www.weibo.com/suzukikonomi?is_hot=1#_loginLayer_1548178533174)（2019/1/8
-    - ）
+  - [官方微博](https://www.weibo.com/suzukikonomi?is_hot=1#_loginLayer_1548178533174)（2019/1/8 - ）
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink")
-[Category:amuleto](https://zh.wikipedia.org/wiki/Category:amuleto "wikilink")
-[Category:Media_Factory旗下藝人](https://zh.wikipedia.org/wiki/Category:Media_Factory旗下藝人 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本流行音樂歌手](https://zh.wikipedia.org/wiki/Category:日本流行音樂歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:大阪府出身人物](https://zh.wikipedia.org/wiki/Category:大阪府出身人物 "wikilink") [Category:amuleto](https://zh.wikipedia.org/wiki/Category:amuleto "wikilink") [Category:Media_Factory旗下藝人](https://zh.wikipedia.org/wiki/Category:Media_Factory旗下藝人 "wikilink")
 
 1.
 2.

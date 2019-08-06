@@ -22,8 +22,7 @@ T酒店附設酒廊及兩間訓練餐廳，由TDS餐飲學會營運，供應早�
 
 ## 評價及獎項
 
-T酒店在全球最大旅遊網站Trip
-Advisor的香港酒店整體排名長期保持在前10名，並自2012年起連續多年獲頒「卓越獎」及「旅行者之選」獎項；於2013至2017年，更名列該網站的多個排行榜上，包括「中國25間最佳酒店」\[1\]及「中國10間最浪漫酒店」\[2\]等。
+T酒店在全球最大旅遊網站Trip Advisor的香港酒店整體排名長期保持在前10名，並自2012年起連續多年獲頒「卓越獎」及「旅行者之選」獎項；於2013至2017年，更名列該網站的多個排行榜上，包括「中國25間最佳酒店」\[1\]及「中國10間最浪漫酒店」\[2\]等。
 
 ## 參考資料
 
@@ -34,9 +33,7 @@ Advisor的香港酒店整體排名長期保持在前10名，並自2012年起連�
   - [中華廚藝學院](http://www.cci.edu.hk/cci/html/tc/)
   - [國際廚藝學院](http://www.ici.edu.hk/html/en/)
 
-[Category:香港教學酒店](https://zh.wikipedia.org/wiki/Category:香港教學酒店 "wikilink")
-[Category:薄扶林酒店](https://zh.wikipedia.org/wiki/Category:薄扶林酒店 "wikilink")
-[Category:職業訓練局_(香港)](https://zh.wikipedia.org/wiki/Category:職業訓練局_\(香港\) "wikilink")
+[Category:香港教學酒店](https://zh.wikipedia.org/wiki/Category:香港教學酒店 "wikilink") [Category:薄扶林酒店](https://zh.wikipedia.org/wiki/Category:薄扶林酒店 "wikilink") [Category:職業訓練局_(香港)](https://zh.wikipedia.org/wiki/Category:職業訓練局_\(香港\) "wikilink")
 
 1.
 2.

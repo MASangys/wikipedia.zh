@@ -10,8 +10,7 @@ STA是[神经科学](../Page/神经科学.md "wikilink")研究，尤其是[视�
 
 ## 应用
 
-STA方法被用来描绘[视网膜](../Page/视网膜.md "wikilink")[神经节细胞](https://zh.wikipedia.org/wiki/神经节细胞 "wikilink")\[8\]\[9\]、[LGN（外侧膝状体）和](https://zh.wikipedia.org/wiki/外侧膝状体 "wikilink")[纹状皮层](https://zh.wikipedia.org/wiki/纹状皮层 "wikilink")[简单细胞](https://zh.wikipedia.org/wiki/简单细胞 "wikilink")\[10\]\[11\]的感受野。还被用来估计[线性-非线性泊松梯级模型的线性阶段](https://zh.wikipedia.org/wiki/线性-非线性泊松梯级模型 "wikilink")\[12\]
-。
+STA方法被用来描绘[视网膜](../Page/视网膜.md "wikilink")[神经节细胞](https://zh.wikipedia.org/wiki/神经节细胞 "wikilink")\[8\]\[9\]、[LGN（外侧膝状体）和](https://zh.wikipedia.org/wiki/外侧膝状体 "wikilink")[纹状皮层](https://zh.wikipedia.org/wiki/纹状皮层 "wikilink")[简单细胞](https://zh.wikipedia.org/wiki/简单细胞 "wikilink")\[10\]\[11\]的感受野。还被用来估计[线性-非线性泊松梯级模型的线性阶段](https://zh.wikipedia.org/wiki/线性-非线性泊松梯级模型 "wikilink")\[12\] 。
 
 STA方法也经常被称为*反相关分析*或者*白噪声分析*。STA方法最早出现在[伏尔特拉内核和](https://zh.wikipedia.org/wiki/伏尔特拉级数 "wikilink")[维纳内核的级数膨胀中](https://zh.wikipedia.org/wiki/维纳级数 "wikilink")\[13\]，与[线性回归有密切的关系](https://zh.wikipedia.org/wiki/线性回归 "wikilink")。
 
@@ -29,9 +28,7 @@ STA方法也经常被称为*反相关分析*或者*白噪声分析*。STA方法�
 
 ### 白化STA
 
-如果不是[白噪声](https://zh.wikipedia.org/wiki/白噪声 "wikilink")，而是在时空上具有非零相关性的视觉刺激，那么使用标准STA就会产生对线性感受野的一个[有偏估计](https://zh.wikipedia.org/wiki/有偏估计 "wikilink")\[14\]。
-因此可以通过将视觉刺激的[协方差矩阵](../Page/协方差矩阵.md "wikilink")反转的方式将STA进行白化处理。
-这样得到的最后结果就是白化STA，公式如下：
+如果不是[白噪声](https://zh.wikipedia.org/wiki/白噪声 "wikilink")，而是在时空上具有非零相关性的视觉刺激，那么使用标准STA就会产生对线性感受野的一个[有偏估计](https://zh.wikipedia.org/wiki/有偏估计 "wikilink")\[14\]。 因此可以通过将视觉刺激的[协方差矩阵](../Page/协方差矩阵.md "wikilink")反转的方式将STA进行白化处理。 这样得到的最后结果就是白化STA，公式如下：
 
 \(\mathrm{STA}_w = \left(\tfrac{1}{T}\sum_{i=1}^T\mathbf{x_i}\mathbf{x_i}^T\right)^{-1} \left(\tfrac{1}{n_{sp}} \sum_{i=1}^T y_i \mathbf{x_i}\right),\)
 
@@ -49,8 +46,7 @@ STA方法也经常被称为*反相关分析*或者*白噪声分析*。STA方法�
 
 \(\mathrm{STA}_{ridge} = \tfrac{T}{n_{sp}} \left(X^TX + \lambda I\right)^{-1}X^T \mathbf{y},\)
 
-式中\(I\)代表[单位矩阵](https://zh.wikipedia.org/wiki/单位矩阵 "wikilink")，
-\(\lambda\)是控制正则化量的[岭参数](https://zh.wikipedia.org/wiki/岭参数 "wikilink")。这种处理方法有一个简单的[贝叶斯解释](../Page/贝叶斯定理.md "wikilink")：[岭回归相当于将平均值为零的高斯置于STA的元素前](https://zh.wikipedia.org/wiki/岭回归 "wikilink")。岭参数设定了这种处理之前的逆差别。
+式中\(I\)代表[单位矩阵](https://zh.wikipedia.org/wiki/单位矩阵 "wikilink")， \(\lambda\)是控制正则化量的[岭参数](https://zh.wikipedia.org/wiki/岭参数 "wikilink")。这种处理方法有一个简单的[贝叶斯解释](../Page/贝叶斯定理.md "wikilink")：[岭回归相当于将平均值为零的高斯置于STA的元素前](https://zh.wikipedia.org/wiki/岭回归 "wikilink")。岭参数设定了这种处理之前的逆差别。
 
 ## 统计特性
 
@@ -60,9 +56,7 @@ STA方法也经常被称为*反相关分析*或者*白噪声分析*。STA方法�
 
 白化STA是一种[一致性估计](https://zh.wikipedia.org/wiki/一致性估计 "wikilink")，比如，这种估计在下列两个条件下会汇聚到真实的线性亚空间：
 
-1.  视觉刺激的分布
-    是[椭圆对称的](https://zh.wikipedia.org/wiki/椭圆分布 "wikilink")，比如[高斯](https://zh.wikipedia.org/wiki/高斯分布 "wikilink")（[Bussgang
-    定理](https://zh.wikipedia.org/wiki/Bussgang_定理 "wikilink")）。
+1.  视觉刺激的分布 是[椭圆对称的](https://zh.wikipedia.org/wiki/椭圆分布 "wikilink")，比如[高斯](https://zh.wikipedia.org/wiki/高斯分布 "wikilink")（[Bussgang 定理](https://zh.wikipedia.org/wiki/Bussgang_定理 "wikilink")）。
 2.  期望的STA是非零的。比如非线性引起的神经发放触发的视觉刺激的位移。\[16\]
 
 ### 最优性
@@ -86,40 +80,22 @@ STA方法也经常被称为*反相关分析*或者*白噪声分析*。STA方法�
 
   - [用于计算STA的MATLAB代码](https://web.archive.org/web/20100614031003/http://pillowlab.cps.utexas.edu/code_STC.html)
 
-[Category:神经科学](https://zh.wikipedia.org/wiki/Category:神经科学 "wikilink")
-[Category:神经生理学](https://zh.wikipedia.org/wiki/Category:神经生理学 "wikilink")
-[Category:电生理学](https://zh.wikipedia.org/wiki/Category:电生理学 "wikilink")
-[Category:计算神经科学](https://zh.wikipedia.org/wiki/Category:计算神经科学 "wikilink")
+[Category:神经科学](https://zh.wikipedia.org/wiki/Category:神经科学 "wikilink") [Category:神经生理学](https://zh.wikipedia.org/wiki/Category:神经生理学 "wikilink") [Category:电生理学](https://zh.wikipedia.org/wiki/Category:电生理学 "wikilink") [Category:计算神经科学](https://zh.wikipedia.org/wiki/Category:计算神经科学 "wikilink")
 
-1.  de Boer and Kuyper (1968) Triggered Correlation. *IEEE Transact.
-    Biomed. Eng.*, 15:169-179
+1.  de Boer and Kuyper (1968) Triggered Correlation. *IEEE Transact. Biomed. Eng.*, 15:169-179
 
-2.  Marmarelis, P. Z. and Naka, K. (1972). White-noise analysis of a
-    neuron chain: an application of the Wiener theory. *Science*,
-    175:1276-1278
+2.  Marmarelis, P. Z. and Naka, K. (1972). White-noise analysis of a neuron chain: an application of the Wiener theory. *Science*, 175:1276-1278
 
-3.  Chichilnisky, E. J. (2001). A simple white noise analysis of
-    neuronal light responses. *Network: Computation in Neural Systems*,
-    12:199-213
+3.  Chichilnisky, E. J. (2001). A simple white noise analysis of neuronal light responses. *Network: Computation in Neural Systems*, 12:199-213
 
-4.  Simoncelli, E. P., Paninski, L., Pillow, J. & Swartz, O. (2004).
-    ["Characterization of neural responses with stochastic
-    stimuli"](http://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Simoncelli03c).
-    In M. Gazzaniga (Ed.) *The Cognitive Neurosciences, III* (pp.
-    327-338). MIT press.
+4.  Simoncelli, E. P., Paninski, L., Pillow, J. & Swartz, O. (2004). ["Characterization of neural responses with stochastic stimuli"](http://www.cns.nyu.edu/~lcv/pubs/makeAbs.php?loc=Simoncelli03c). In M. Gazzaniga (Ed.) *The Cognitive Neurosciences, III* (pp. 327-338). MIT press.
 
 5.
-6.  Paninski, L. (2003). Convergence properties of some spike-triggered
-    analysis techniques. *Network: Computation in Neural Systems*
-    14:437-464
+6.  Paninski, L. (2003). Convergence properties of some spike-triggered analysis techniques. *Network: Computation in Neural Systems* 14:437-464
 
-7.  Sharpee, T.O., Rust, N.C., & Bialek, W. (2004). Analyzing neural
-    responses to natural signals: Maximally informative dimensions.
-    *Neural Computation* 16:223-250
+7.  Sharpee, T.O., Rust, N.C., & Bialek, W. (2004). Analyzing neural responses to natural signals: Maximally informative dimensions. *Neural Computation* 16:223-250
 
-8.  Sakai, H.M. and Naka, K., (1987). Signal transmission in the catfish
-    retina. V. Sensitivity and circuit. *Journal of neurophysiology*,
-    58:1329--1350
+8.  Sakai, H.M. and Naka, K., (1987). Signal transmission in the catfish retina. V. Sensitivity and circuit. *Journal of neurophysiology*, 58:1329--1350
 
 9.  Meister, Pine, and Baylor (1994).
 
@@ -128,9 +104,7 @@ STA方法也经常被称为*反相关分析*或者*白噪声分析*。STA方法�
 11. McLean and Palmer (1989).
 
 12.
-13. Lee and Schetzen (1965). Measurement of the Wiener kernels of a non-
-    linear system by cross-correlation. *International Journal of
-    Control, First Series*, 2:237-254
+13. Lee and Schetzen (1965). Measurement of the Wiener kernels of a non- linear system by cross-correlation. *International Journal of Control, First Series*, 2:237-254
 
 14.
 15.
@@ -138,6 +112,4 @@ STA方法也经常被称为*反相关分析*或者*白噪声分析*。STA方法�
 17.
 18.
 19.
-20. Kouh M. & Sharpee, T.O. (2009). Estimating linear-nonlinear models
-    using Renyi divergences, *Network: Computation in Neural Systems*
-    20(2): 49–68
+20. Kouh M. & Sharpee, T.O. (2009). Estimating linear-nonlinear models using Renyi divergences, *Network: Computation in Neural Systems* 20(2): 49–68

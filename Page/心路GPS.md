@@ -692,22 +692,13 @@
 
 ## 外部連結
 
-  - [《心路GPS》 GOTV
-    第1集重溫](https://web.archive.org/web/20140222154923/http://gotv.tvb.com/programme/102228/146314/)
+  - [《心路GPS》 GOTV 第1集重溫](https://web.archive.org/web/20140222154923/http://gotv.tvb.com/programme/102228/146314/)
 
 ## 電視節目的變遷
 
-[Category:2013年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2013年無綫電視劇集 "wikilink")
-[Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink")
-[Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink")
-[Category:電視題材電視劇](https://zh.wikipedia.org/wiki/Category:電視題材電視劇 "wikilink")
-[Category:勵志題材電視劇](https://zh.wikipedia.org/wiki/Category:勵志題材電視劇 "wikilink")
+[Category:2013年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2013年無綫電視劇集 "wikilink") [Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink") [Category:電視台背景作品](https://zh.wikipedia.org/wiki/Category:電視台背景作品 "wikilink") [Category:電視題材電視劇](https://zh.wikipedia.org/wiki/Category:電視題材電視劇 "wikilink") [Category:勵志題材電視劇](https://zh.wikipedia.org/wiki/Category:勵志題材電視劇 "wikilink")
 
-1.  [藝人月曆 - 7月16日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-2.  [藝人月曆 - 8月24日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-3.  [藝人月曆 - 2月17日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-4.  [藝人月曆 - 3月1日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+1.  [藝人月曆 - 7月16日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+2.  [藝人月曆 - 8月24日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+3.  [藝人月曆 - 2月17日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+4.  [藝人月曆 - 3月1日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)

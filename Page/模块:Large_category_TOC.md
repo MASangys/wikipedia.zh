@@ -1,7 +1,6 @@
 local p = {}
 
-local azupper = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' local azlower =
-'abcdefghijklmnopqrstuvwxyz' local aejot = 'aejot'
+local azupper = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ' local azlower = 'abcdefghijklmnopqrstuvwxyz' local aejot = 'aejot'
 
 function p.scrollable(frame)
 

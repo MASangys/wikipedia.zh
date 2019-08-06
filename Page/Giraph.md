@@ -1,10 +1,8 @@
 **Giraph** 是一个[迭代](../Page/迭代.md "wikilink")的系统。
 
-Apache Giraph
-是一个[Apache项目](https://zh.wikipedia.org/wiki/Apache "wikilink")，用于对[大数据执行图形处理](https://zh.wikipedia.org/wiki/大数据 "wikilink")。
+Apache Giraph 是一个[Apache项目](https://zh.wikipedia.org/wiki/Apache "wikilink")，用于对[大数据执行图形处理](https://zh.wikipedia.org/wiki/大数据 "wikilink")。
 
-Giraph
-计算的输入是由点和两点之间直连的边所组成的图，例如，点可以表示人，边可以表示朋友请求。每个顶点保存一个值，每个边也保存一个值。输入不仅取决于图的[拓扑逻辑](https://zh.wikipedia.org/wiki/拓扑 "wikilink")，也取决于定点和边的初始值。
+Giraph 计算的输入是由点和两点之间直连的边所组成的图，例如，点可以表示人，边可以表示朋友请求。每个顶点保存一个值，每个边也保存一个值。输入不仅取决于图的[拓扑逻辑](https://zh.wikipedia.org/wiki/拓扑 "wikilink")，也取决于定点和边的初始值。
 
 举一个例子，假设有这样一个计算，需要查找某个预先设置的初始人物到社交图谱中任何一个人的距离。在这个计算中，边的值是一个[浮点数](../Page/浮点数.md "wikilink")，表示相邻的人之间的距离，顶点V也是一个浮点数，表示从预设的顶点s到v的最短距离的上限值。预设的源顶点的初始值是0，其它顶点的初始值是[无穷大](https://zh.wikipedia.org/wiki/无穷大 "wikilink")。
 
@@ -43,18 +41,14 @@ Giraph
 
 ## 基础原理
 
-Giraph基于[Hadoop而建](https://zh.wikipedia.org/wiki/Hadoop "wikilink")，将[MapReduce](../Page/MapReduce.md "wikilink")中Mapper进行封装，未使用reducer。在Mapper中进行多次迭代，每次迭代等价于BSP模型中的SuperStep。一个Hadoop
-Job等价于一次BSP作业。\[1\]
+Giraph基于[Hadoop而建](https://zh.wikipedia.org/wiki/Hadoop "wikilink")，将[MapReduce](../Page/MapReduce.md "wikilink")中Mapper进行封装，未使用reducer。在Mapper中进行多次迭代，每次迭代等价于BSP模型中的SuperStep。一个Hadoop Job等价于一次BSP作业。\[1\]
 
 ## 參考資料
 
 ## 外部链接
 
-[Graph基础介绍 - Hama White
-的博客](http://blog.csdn.net/xin_jmail/article/details/22194057)
+[Graph基础介绍 - Hama White 的博客](http://blog.csdn.net/xin_jmail/article/details/22194057)
 
-[Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink")
-[Category:Hadoop](https://zh.wikipedia.org/wiki/Category:Hadoop "wikilink")
-[Category:数据挖掘和机器学习软件](https://zh.wikipedia.org/wiki/Category:数据挖掘和机器学习软件 "wikilink")
+[Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink") [Category:Hadoop](https://zh.wikipedia.org/wiki/Category:Hadoop "wikilink") [Category:数据挖掘和机器学习软件](https://zh.wikipedia.org/wiki/Category:数据挖掘和机器学习软件 "wikilink")
 
 1.

@@ -1,19 +1,10 @@
-**AMD Radeon HD
-8000**系列[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，[研發代號](https://zh.wikipedia.org/wiki/代號 "wikilink")*Sea
-Islands*（海島，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[佐治亞州中南部和](https://zh.wikipedia.org/wiki/佐治亞州 "wikilink")[佛羅里達州北部海面上的一群](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")[島嶼](../Page/島嶼.md "wikilink")\[1\]），是[超微半導體推出的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[圖形處理器](../Page/圖形處理器.md "wikilink")，於2013年推出，桌上型版本主要供应OEM市場。Radeon
-HD 8000系列中的桌上型型號基本上是上一代[Radeon HD
-7000系列顯示核心](../Page/AMD_Radeon_HD_7000.md "wikilink")（代號：Southern
-Islands）之更名版本，仍然使用[台積電的](https://zh.wikipedia.org/wiki/台積電 "wikilink")28[納米製程](https://zh.wikipedia.org/wiki/納米 "wikilink")，支援[DirectX](../Page/DirectX.md "wikilink")
-12、OpenCL 2.0以及OpenGL 4.4，部分型号还使用40奈米制程的舊顯示晶片。而行動版本的Radeon HD
-8000M則是全面採用新的基於GCN架構的顯示核心，其開發代號是『Solar System』。
+**AMD Radeon HD 8000**系列[顯示核心](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，[研發代號](https://zh.wikipedia.org/wiki/代號 "wikilink")*Sea Islands*（海島，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[佐治亞州中南部和](https://zh.wikipedia.org/wiki/佐治亞州 "wikilink")[佛羅里達州北部海面上的一群](https://zh.wikipedia.org/wiki/佛羅里達州 "wikilink")[島嶼](../Page/島嶼.md "wikilink")\[1\]），是[超微半導體推出的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[圖形處理器](../Page/圖形處理器.md "wikilink")，於2013年推出，桌上型版本主要供应OEM市場。Radeon HD 8000系列中的桌上型型號基本上是上一代[Radeon HD 7000系列顯示核心](../Page/AMD_Radeon_HD_7000.md "wikilink")（代號：Southern Islands）之更名版本，仍然使用[台積電的](https://zh.wikipedia.org/wiki/台積電 "wikilink")28[納米製程](https://zh.wikipedia.org/wiki/納米 "wikilink")，支援[DirectX](../Page/DirectX.md "wikilink") 12、OpenCL 2.0以及OpenGL 4.4，部分型号还使用40奈米制程的舊顯示晶片。而行動版本的Radeon HD 8000M則是全面採用新的基於GCN架構的顯示核心，其開發代號是『Solar System』。
 
 ## 桌上型平台
 
 2013年第一季度發布的Radeon HD 8000桌面型號僅供OEM使用，而且基本上均為Radeon HD 7000系列的更名版。\[2\]
 
-目前AMD Radeon HD 8000系列的高端型号有Radeon HD 8970和8950；中端型号Radeon
-HD8870、8760、8670以及Radeon HD 8570；入门型号Radeon HD
-8400系列和8350。其中低端入门型号全部使用40纳米制程的旧型号显示芯片，其余的全部使用GCN架构的显示芯片。\[3\]
+目前AMD Radeon HD 8000系列的高端型号有Radeon HD 8970和8950；中端型号Radeon HD8870、8760、8670以及Radeon HD 8570；入门型号Radeon HD 8400系列和8350。其中低端入门型号全部使用40纳米制程的旧型号显示芯片，其余的全部使用GCN架构的显示芯片。\[3\]
 
 ### 獨立顯示核心
 
@@ -348,18 +339,13 @@ GDDR5</p></td>
 </tbody>
 </table>
 
-<sup>1</sup> [統一渲染器數量](https://zh.wikipedia.org/wiki/統一渲染器 "wikilink") :
-[紋理對映單元數量](https://zh.wikipedia.org/wiki/紋理對映單元 "wikilink") :
-[渲染輸出單元數量](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")
+<sup>1</sup> [統一渲染器數量](https://zh.wikipedia.org/wiki/統一渲染器 "wikilink") : [紋理對映單元數量](https://zh.wikipedia.org/wiki/紋理對映單元 "wikilink") : [渲染輸出單元數量](https://zh.wikipedia.org/wiki/渲染輸出單元 "wikilink")
 <sup>2</sup>[GDDR5](../Page/GDDR5.md "wikilink")的資料傳送速率是記憶體時脈速度的四倍，而不是其它DDR記憶體的兩倍
-<sup>3</sup>[熱設計功耗](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")（TDP）是超微官方基於其公版顯示卡的數值，實際上由於不同廠商製造的非公版顯示卡的TDP數值會和公版顯示卡的有所差異
-。
+<sup>3</sup>[熱設計功耗](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")（TDP）是超微官方基於其公版顯示卡的數值，實際上由於不同廠商製造的非公版顯示卡的TDP數值會和公版顯示卡的有所差異 。
 
 ### 整合式顯示核心
 
-以下顯示核心是內建於核心代號為『Richland』的第三代[AMD加速處理器上](https://zh.wikipedia.org/wiki/AMD加速處理器 "wikilink")，都是基於VLIW4架構。（和[Radeon
-HD
-6900系列的類似](https://zh.wikipedia.org/wiki/AMD_Radeon_HD_6000 "wikilink")）
+以下顯示核心是內建於核心代號為『Richland』的第三代[AMD加速處理器上](https://zh.wikipedia.org/wiki/AMD加速處理器 "wikilink")，都是基於VLIW4架構。（和[Radeon HD 6900系列的類似](https://zh.wikipedia.org/wiki/AMD_Radeon_HD_6000 "wikilink")）
 
 <table>
 <thead>
@@ -467,15 +453,11 @@ HD
 
 ## 行動平台
 
-行動平台的Radeon HD 8000M系列核心代號「[Solar
-System](https://zh.wikipedia.org/wiki/太陽系 "wikilink")」，全線產品均為[GCN架構或GCN](https://zh.wikipedia.org/wiki/GCN架構 "wikilink")
-2.0架構。\[7\]有代號為「Mars」、「Sun」、「Neptune」、「Venus」以及「Saturn」五大核心系列。\[8\]
+行動平台的Radeon HD 8000M系列核心代號「[Solar System](https://zh.wikipedia.org/wiki/太陽系 "wikilink")」，全線產品均為[GCN架構或GCN](https://zh.wikipedia.org/wiki/GCN架構 "wikilink") 2.0架構。\[7\]有代號為「Mars」、「Sun」、「Neptune」、「Venus」以及「Saturn」五大核心系列。\[8\]
 
 ### 獨立顯示核心
 
-  - HD 8700～8900系列支援[DirectX](../Page/DirectX.md "wikilink")
-    11.1，[OpenGL](../Page/OpenGL.md "wikilink")
-    4.2以及[OpenCL](../Page/OpenCL.md "wikilink") 1.2
+  - HD 8700～8900系列支援[DirectX](../Page/DirectX.md "wikilink") 11.1，[OpenGL](../Page/OpenGL.md "wikilink") 4.2以及[OpenCL](../Page/OpenCL.md "wikilink") 1.2
   - 全部型號支援256kB或512kB的可存取二級快取\[9\]
 
 <table>
@@ -1114,20 +1096,13 @@ Boost: 720</p></td>
 
 ## 外部連結
 
-[Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink")
-[Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
+[Category:AMD圖形處理器](https://zh.wikipedia.org/wiki/Category:AMD圖形處理器 "wikilink") [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
 
-1.  [代号Sea Islands AMD
-    下一代GPU曝光](http://www.beareyes.com.cn/2/lib/201112/31/20111231291.htm)
-    - 小熊線上
+1.  [代号Sea Islands AMD 下一代GPU曝光](http://www.beareyes.com.cn/2/lib/201112/31/20111231291.htm) - 小熊線上
 
-2.  [Radeon HD 8000/8000M正式发布
-    桌面全是马甲](http://news.mydrivers.com/1/251/251716_all.htm)
-    - mydrivers.com
+2.  [Radeon HD 8000/8000M正式发布 桌面全是马甲](http://news.mydrivers.com/1/251/251716_all.htm) - mydrivers.com
 
-3.  [AMD Radeon™ HD 8000 Series Graphics
-    (OEM)](http://www.amd.com/us/products/desktop/graphics/8000/pages/8000-series.aspx#2)
-    - amd.com
+3.  [AMD Radeon™ HD 8000 Series Graphics (OEM)](http://www.amd.com/us/products/desktop/graphics/8000/pages/8000-series.aspx#2) - amd.com
 
 4.  <http://www.amd.com/US/PRODUCTS/DESKTOP/GRAPHICS/8000/Pages/8670.aspx#2>
 

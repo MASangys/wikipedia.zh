@@ -1,11 +1,8 @@
-《**Road No.
-1**》（）是[韓国](https://zh.wikipedia.org/wiki/韓国 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2010年6月23日起播出的[水木劇](../Page/MBC水木迷你連續劇.md "wikilink")，亦是紀念[韓戰爆發](https://zh.wikipedia.org/wiki/朝鮮戰爭 "wikilink")60週年的電視劇。由[蘇志燮](../Page/蘇志燮.md "wikilink")、[金荷娜](../Page/金荷娜.md "wikilink")、[尹啟相](../Page/尹啟相.md "wikilink")、[崔民秀](../Page/崔民秀.md "wikilink")、[孫暢敏](../Page/孫暢敏.md "wikilink")主演。故事講述在[韓戰中](https://zh.wikipedia.org/wiki/朝鮮戰爭 "wikilink")，莊雨、秀妍、泰昊三人圍繞着戰爭的三角愛情故事。
+《**Road No. 1**》（）是[韓国](https://zh.wikipedia.org/wiki/韓国 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2010年6月23日起播出的[水木劇](../Page/MBC水木迷你連續劇.md "wikilink")，亦是紀念[韓戰爆發](https://zh.wikipedia.org/wiki/朝鮮戰爭 "wikilink")60週年的電視劇。由[蘇志燮](../Page/蘇志燮.md "wikilink")、[金荷娜](../Page/金荷娜.md "wikilink")、[尹啟相](../Page/尹啟相.md "wikilink")、[崔民秀](../Page/崔民秀.md "wikilink")、[孫暢敏](../Page/孫暢敏.md "wikilink")主演。故事講述在[韓戰中](https://zh.wikipedia.org/wiki/朝鮮戰爭 "wikilink")，莊雨、秀妍、泰昊三人圍繞着戰爭的三角愛情故事。
 
 ## 劇情
 
-韓國戰爭60週年之際攝製而成的戰爭電視劇大片。 《Road No.
-1》耗資巨大，攝製出如電影般恢宏的電視劇，蘇志燮等豪華陣容引人矚目。莊雨和秀妍雖是戀人，但因為事與願
-違地捲入戰爭之中而分道揚鑣… 而命運可悲的申泰昊中尉一直在他們身邊徘徊。以這三個人物的愛情與友情為基礎展開饒有趣味的故事。\[1\]
+韓國戰爭60週年之際攝製而成的戰爭電視劇大片。 《Road No. 1》耗資巨大，攝製出如電影般恢宏的電視劇，蘇志燮等豪華陣容引人矚目。莊雨和秀妍雖是戀人，但因為事與願 違地捲入戰爭之中而分道揚鑣… 而命運可悲的申泰昊中尉一直在他們身邊徘徊。以這三個人物的愛情與友情為基礎展開饒有趣味的故事。\[1\]
 
 ## 出演陣容
 
@@ -21,8 +18,7 @@
 
 <!-- end list -->
 
-  - [金荷娜](../Page/金荷娜.md "wikilink") 飾
-    **金秀妍**（粤语配音：[錢惠玲](../Page/錢惠玲.md "wikilink")）
+  - [金荷娜](../Page/金荷娜.md "wikilink") 飾 **金秀妍**（粤语配音：[錢惠玲](../Page/錢惠玲.md "wikilink")）
 
 <!-- end list -->
 
@@ -45,8 +41,7 @@
   - [崔民秀](../Page/崔民秀.md "wikilink") 飾 **尹三秀**
   - [孫暢敏](../Page/孫暢敏.md "wikilink") 飾 **吳鍾基**
   - [李振成](https://zh.wikipedia.org/wiki/李振成 "wikilink") 飾 **曹仁濟**
-  - [金正雲](https://zh.wikipedia.org/wiki/金正雲_\(韓國演員\) "wikilink") 飾
-    **金秉九**
+  - [金正雲](https://zh.wikipedia.org/wiki/金正雲_\(韓國演員\) "wikilink") 飾 **金秉九**
   - [陳善奎](https://zh.wikipedia.org/wiki/陳善奎 "wikilink") 飾 **高萬勇**
   - [杜始康](https://zh.wikipedia.org/wiki/杜始康 "wikilink") 飾 **權真哲**
   - [金東坤](https://zh.wikipedia.org/wiki/金東坤 "wikilink") 飾 **金德實**
@@ -60,8 +55,7 @@
   - [金秀煥](https://zh.wikipedia.org/wiki/金秀煥 "wikilink") 飾 **于範真**
   - [趙完基](https://zh.wikipedia.org/wiki/趙完基 "wikilink") 飾 **朴洪基**
   - [文福基](https://zh.wikipedia.org/wiki/文福基 "wikilink") 飾 **朴達文**
-  - [金東賢](https://zh.wikipedia.org/wiki/金東賢_\(1974年\) "wikilink") 飾
-    **張斗植**
+  - [金東賢](https://zh.wikipedia.org/wiki/金東賢_\(1974年\) "wikilink") 飾 **張斗植**
 
 ### 特別演出
 
@@ -93,8 +87,7 @@
   - [洛東江戰役](https://zh.wikipedia.org/wiki/洛東江戰役 "wikilink")
   - [平壤-元山戰役](../Page/平壤-元山戰役.md "wikilink")
   - [平壤戰役 (1950年)](../Page/平壤戰役_\(1950年\).md "wikilink")
-  - [第一次戰役
-    (抗美援朝)](https://zh.wikipedia.org/wiki/第一次戰役_\(抗美援朝\) "wikilink")
+  - [第一次戰役 (抗美援朝)](https://zh.wikipedia.org/wiki/第一次戰役_\(抗美援朝\) "wikilink")
   - [第四次漢城戰役](https://zh.wikipedia.org/wiki/第四次漢城戰役 "wikilink")
 
 ## 同類型競爭
@@ -106,12 +99,8 @@
 ## 外部連結
 
   - [MBC Road No.1官網](http://www.imbc.com/broad/tv/drama/roadno1/)
-  - [Road No.1 Facebook
-    官方專頁](https://www.facebook.com/pages/%EB%A1%9C%EB%93%9C-%EB%84%98%EB%B2%84%EC%9B%90-Road-No-1-2010/149850638377313)
+  - [Road No.1 Facebook 官方專頁](https://www.facebook.com/pages/%EB%A1%9C%EB%93%9C-%EB%84%98%EB%B2%84%EC%9B%90-Road-No-1-2010/149850638377313)
 
-[Category:2010年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2010年韓國電視劇集 "wikilink")
-[Category:MBC水木迷你連續劇](https://zh.wikipedia.org/wiki/Category:MBC水木迷你連續劇 "wikilink")
-[Category:韓戰題材電視劇](https://zh.wikipedia.org/wiki/Category:韓戰題材電視劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:2010年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2010年韓國電視劇集 "wikilink") [Category:MBC水木迷你連續劇](https://zh.wikipedia.org/wiki/Category:MBC水木迷你連續劇 "wikilink") [Category:韓戰題材電視劇](https://zh.wikipedia.org/wiki/Category:韓戰題材電視劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
 1.  [MBC官方中文宣傳冊](http://content.mbc.co.kr/program/drama/__icsFiles/afieldfile/2015/05/18/2010RoadNo.1.pdf)

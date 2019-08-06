@@ -1,5 +1,4 @@
-（），日本[㚻片公司](https://zh.wikipedia.org/wiki/㚻片公司 "wikilink")，成立于1993年，總部位於[東京都](../Page/東京都.md "wikilink")[世田谷區](../Page/世田谷區.md "wikilink")北泽3丁目23番地14号
-COAT FIRST STAGE。[代表董事](../Page/代表董事.md "wikilink")江岛隼人（一说江岛速人）。
+（），日本[㚻片公司](https://zh.wikipedia.org/wiki/㚻片公司 "wikilink")，成立于1993年，總部位於[東京都](../Page/東京都.md "wikilink")[世田谷區](../Page/世田谷區.md "wikilink")北泽3丁目23番地14号 COAT FIRST STAGE。[代表董事](../Page/代表董事.md "wikilink")江岛隼人（一说江岛速人）。
 
 ## 公司簡介
 
@@ -10,8 +9,7 @@ COAT FIRST STAGE。[代表董事](../Page/代表董事.md "wikilink")江岛隼�
   -
   - （男女色情片系列）
 
-  - （劇情系列，包括著名的Babylon Stage 34
-    [真夏夜的淫梦](https://zh.wikipedia.org/wiki/真夏夜的淫梦 "wikilink")）
+  - （劇情系列，包括著名的Babylon Stage 34 [真夏夜的淫梦](https://zh.wikipedia.org/wiki/真夏夜的淫梦 "wikilink")）
 
   -
   - （運動員題材）
@@ -102,5 +100,4 @@ COAT FIRST STAGE。[代表董事](../Page/代表董事.md "wikilink")江岛隼�
 
   - [公司官方網站](http://www.coat.co.jp/)
 
-[Category:日本男同性戀色情片公司](https://zh.wikipedia.org/wiki/Category:日本男同性戀色情片公司 "wikilink")
-[Category:世田谷區公司](https://zh.wikipedia.org/wiki/Category:世田谷區公司 "wikilink")
+[Category:日本男同性戀色情片公司](https://zh.wikipedia.org/wiki/Category:日本男同性戀色情片公司 "wikilink") [Category:世田谷區公司](https://zh.wikipedia.org/wiki/Category:世田谷區公司 "wikilink")

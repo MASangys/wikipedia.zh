@@ -2,11 +2,9 @@
 
 ## 評價
 
-由於其獨特的形式和報導風格，《Vice》同時獲得了正面的負面的評價，有人將此節目與[荒誕新聞學](https://zh.wikipedia.org/wiki/荒誕新聞學 "wikilink")（gonzo
-journalism）做出比較。\[3\]\[4\]
+由於其獨特的形式和報導風格，《Vice》同時獲得了正面的負面的評價，有人將此節目與[荒誕新聞學](https://zh.wikipedia.org/wiki/荒誕新聞學 "wikilink")（gonzo journalism）做出比較。\[3\]\[4\]
 
-《[哈芬登郵報](https://zh.wikipedia.org/wiki/哈芬登郵報 "wikilink")》上刊載了一篇由莫芮·萊恩（Maureen
-Ryan）撰寫的負面節目評論，主要針對《Vice》的表現手法提出批評。\[5\]《[滾石雜誌](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")》則評論：「就像是你在酒吧認識的朋友剛好帶了一群攝影團隊跑到阿富汗西邊閑晃。」\[6\]\[7\]
+《[哈芬登郵報](https://zh.wikipedia.org/wiki/哈芬登郵報 "wikilink")》上刊載了一篇由莫芮·萊恩（Maureen Ryan）撰寫的負面節目評論，主要針對《Vice》的表現手法提出批評。\[5\]《[滾石雜誌](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")》則評論：「就像是你在酒吧認識的朋友剛好帶了一群攝影團隊跑到阿富汗西邊閑晃。」\[6\]\[7\]
 
 ## 每集內容列表
 
@@ -72,16 +70,12 @@ Ryan）撰寫的負面節目評論，主要針對《Vice》的表現手法提出
 ## 外部連結
 
   -
-[Category:2013年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2013年開播的美國電視影集 "wikilink")
-[Category:HBO電視節目](https://zh.wikipedia.org/wiki/Category:HBO電視節目 "wikilink")
-[Category:美國電視新聞節目](https://zh.wikipedia.org/wiki/Category:美國電視新聞節目 "wikilink")
-[Category:Vice媒体](https://zh.wikipedia.org/wiki/Category:Vice媒体 "wikilink")
+[Category:2013年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:2013年開播的美國電視影集 "wikilink") [Category:HBO電視節目](https://zh.wikipedia.org/wiki/Category:HBO電視節目 "wikilink") [Category:美國電視新聞節目](https://zh.wikipedia.org/wiki/Category:美國電視新聞節目 "wikilink") [Category:Vice媒体](https://zh.wikipedia.org/wiki/Category:Vice媒体 "wikilink")
 
 1.
 2.
 3.
 4.
 5.
-6.  "It feels a little like your buddy from the bar just happened to be
-    wandering through eastern Afghanistan with a camera crew."
+6.  "It feels a little like your buddy from the bar just happened to be wandering through eastern Afghanistan with a camera crew."
 7.

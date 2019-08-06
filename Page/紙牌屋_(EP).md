@@ -31,13 +31,11 @@
 
 ## 所獲獎項
 
-  - [2014年CASH金帆音樂獎](../Page/2014年CASH金帆音樂獎.md "wikilink") ── **2013
-    CASH最廣泛演出金帆獎(粵語流行作品)《紙牌屋》**
+  - [2014年CASH金帆音樂獎](../Page/2014年CASH金帆音樂獎.md "wikilink") ── **2013 CASH最廣泛演出金帆獎(粵語流行作品)《紙牌屋》**
   - 新城勁爆頒獎禮2013 ── 新城勁爆作曲大獎《紙牌屋》(Eric Kwok)
   - 新城勁爆頒獎禮2013 ── **全球勁爆歌曲 《紙牌屋》**
   - 新城勁爆頒獎禮2013 ── **新城勁爆播放指數大獎 歌曲 《紙牌屋》**
-  - [2013年度叱咤樂壇流行榜](../Page/2013年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") ──
-    專業推介、叱咤十大 第六位《紙牌屋》
+  - [2013年度叱咤樂壇流行榜](../Page/2013年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") ── 專業推介、叱咤十大 第六位《紙牌屋》
   - 第三十六屆十大中文金曲頒獎音樂會 ── 金曲獎 《紙牌屋》
 
 ## 外部連結
@@ -45,6 +43,4 @@
   - [李克勤官方網頁](https://web.archive.org/web/20050317051540/http://www.hackenleenet.com/)
   - [紙牌屋 環球唱片 - 正東唱片](http://www.umg.com.hk/album/2631/detail)
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:李克勤音樂專輯](https://zh.wikipedia.org/wiki/Category:李克勤音樂專輯 "wikilink")
-[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:李克勤音樂專輯](https://zh.wikipedia.org/wiki/Category:李克勤音樂專輯 "wikilink") [Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink")

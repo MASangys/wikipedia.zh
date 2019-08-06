@@ -1,9 +1,4 @@
-《**My
-Avatar**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BOYFRIEND的第五張日語單曲](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")，由[Erik
-Wigelius](https://zh.wikipedia.org/wiki/Erik_Wigelius "wikilink")、[Anders
-Wigelius](https://zh.wikipedia.org/wiki/Anders_Wigelius "wikilink")、[J
-Gicho作曲](https://zh.wikipedia.org/wiki/J_Gicho "wikilink")、[La
-Teere作詞](https://zh.wikipedia.org/wiki/La_Teere "wikilink")，並在2014年3月26日以四個不同版本推出\[1\]。
+《**My Avatar**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BOYFRIEND的第五張日語單曲](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")，由[Erik Wigelius](https://zh.wikipedia.org/wiki/Erik_Wigelius "wikilink")、[Anders Wigelius](https://zh.wikipedia.org/wiki/Anders_Wigelius "wikilink")、[J Gicho作曲](https://zh.wikipedia.org/wiki/J_Gicho "wikilink")、[La Teere作詞](https://zh.wikipedia.org/wiki/La_Teere "wikilink")，並在2014年3月26日以四個不同版本推出\[1\]。
 
 ## 背景
 
@@ -13,8 +8,7 @@ Teere作詞](https://zh.wikipedia.org/wiki/La_Teere "wikilink")，並在2014年3
 
 此單曲共分為4個發行版本，包括三個限量版本及一個通常版本。
 
-  - 初回限定盤A（編號：JBCB-6016）：這版本包括了一片CD和一片收錄《My
-    Avatar》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")、舞蹈版音樂錄影帶及其製作花絮的DVD\[5\]。
+  - 初回限定盤A（編號：JBCB-6016）：這版本包括了一片CD和一片收錄《My Avatar》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")、舞蹈版音樂錄影帶及其製作花絮的DVD\[5\]。
 
 <!-- end list -->
 
@@ -53,8 +47,7 @@ Teere作詞](https://zh.wikipedia.org/wiki/La_Teere "wikilink")，並在2014年3
 
   -
 
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:Boyfriend音樂專輯](https://zh.wikipedia.org/wiki/Category:Boyfriend音樂專輯 "wikilink")
+[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:Boyfriend音樂專輯](https://zh.wikipedia.org/wiki/Category:Boyfriend音樂專輯 "wikilink")
 
 1.
 

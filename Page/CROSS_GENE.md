@@ -1,7 +1,4 @@
-**CROSS GENE**（），組合名稱CROSS
-GENE的意思是各國優秀基因​​（GENE）的結合（CROSS）。由3名韓國成員、2名中國成員和1名日本成員組成的團體CROSS
-GENE於2012年6月7日舉辦了正式Show case出道發布會，
-並於6月11日出道。隊長Shin出道後加入《[Big](../Page/Big.md "wikilink")》劇組，曾經因出演《出發夢之隊》而得到熱議的模特兼演員Takuya也是該組合成員，其他成員也是在多樣領域活動著的實力派。
+**CROSS GENE**（），組合名稱CROSS GENE的意思是各國優秀基因​​（GENE）的結合（CROSS）。由3名韓國成員、2名中國成員和1名日本成員組成的團體CROSS GENE於2012年6月7日舉辦了正式Show case出道發布會， 並於6月11日出道。隊長Shin出道後加入《[Big](../Page/Big.md "wikilink")》劇組，曾經因出演《出發夢之隊》而得到熱議的模特兼演員Takuya也是該組合成員，其他成員也是在多樣領域活動著的實力派。
 
 2013月1月，官方宣布中國籍成員J.G離隊，加入韓國藉新成員Seyoung。
 
@@ -430,8 +427,7 @@ GENE於2012年6月7日舉辦了正式Show case出道發布會，
   -
   -
   -
-  - [CROSS
-    GENE](https://www.instagram.com/cross_gene_official/)的官方Instagram帳戶
+  - [CROSS GENE](https://www.instagram.com/cross_gene_official/)的官方Instagram帳戶
 
   - [YONGSEOK](https://www.instagram.com/cg_yongseok/)的Instagram帳戶
 
@@ -441,17 +437,8 @@ GENE於2012年6月7日舉辦了正式Show case出道發布會，
 
   - [SHIN](https://www.instagram.com/cg__shinwonho/)的Instagram帳戶
 
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
-1.  [Casper leaves Cross Gene before upcoming
-    comeback](https://www.allkpop.com/article/2017/09/casper-leaves-cross-gene-before-upcoming-comeback)
-2.  [Takuya announces his departure from Cross Gene + remaining members
-    dedicate a letter to
-    fans](https://www.allkpop.com/article/2018/12/takuya-announces-his-departure-from-cross-gene-remaining-members-dedicate-a-letter-to-fans)
-3.  [不惜男扮女裝落力演出！Cross
-    Gene為亞巡粉絲見面會畫上最美句號！](http://www.vlovekpop.com/20160803-crossgene/)
-    vlovekpop
+1.  [Casper leaves Cross Gene before upcoming comeback](https://www.allkpop.com/article/2017/09/casper-leaves-cross-gene-before-upcoming-comeback)
+2.  [Takuya announces his departure from Cross Gene + remaining members dedicate a letter to fans](https://www.allkpop.com/article/2018/12/takuya-announces-his-departure-from-cross-gene-remaining-members-dedicate-a-letter-to-fans)
+3.  [不惜男扮女裝落力演出！Cross Gene為亞巡粉絲見面會畫上最美句號！](http://www.vlovekpop.com/20160803-crossgene/) vlovekpop

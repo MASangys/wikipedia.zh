@@ -1,6 +1,4 @@
-《**Canvas／你・好・棒♥**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：／[羅馬拼音](https://zh.wikipedia.org/wiki/羅馬拼音 "wikilink")：／[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Canvas／You
-Are
-Beau・ti・ful♥），[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第28張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2008年2月20日發行。
+《**Canvas／你・好・棒♥**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：／[羅馬拼音](https://zh.wikipedia.org/wiki/羅馬拼音 "wikilink")：／[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Canvas／You Are Beau・ti・ful♥），[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第28張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2008年2月20日發行。
 
 ## 概述
 
@@ -31,7 +29,4 @@ Beau・ti・ful♥），[日本](../Page/日本.md "wikilink")男歌手[平井�
 
   - [通常盤](http://www.sonymusic.co.jp/Music/Arch/DF/KenHirai/DFCL-1400/index.html)
 
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
-[Category:平井堅歌曲](https://zh.wikipedia.org/wiki/Category:平井堅歌曲 "wikilink")
-[Category:富士火九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士火九劇主題曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
+[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:平井堅歌曲](https://zh.wikipedia.org/wiki/Category:平井堅歌曲 "wikilink") [Category:富士火九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士火九劇主題曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")

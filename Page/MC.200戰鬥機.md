@@ -19,8 +19,7 @@ MC.200戰鬥機是意大利其中一種初期研發的單翼戰鬥機，出自[�
 
 ## 實戰
 
-[Macchi200_m2.jpg](https://zh.wikipedia.org/wiki/File:Macchi200_m2.jpg "fig:Macchi200_m2.jpg")
-首批共144架MC.200戰鬥機於1940年投入[地中海](../Page/地中海.md "wikilink")戰區，為要飛經過[馬爾他島的運輸機護航](https://zh.wikipedia.org/wiki/馬爾他島 "wikilink")，同年11月在西西里島外海擊落1架英國飛艇，而且多次和英軍的[颶風式戰鬥機交戰](../Page/颶風戰鬥機.md "wikilink")，在馬爾他島空戰當中，MC.200也為偵察和轟炸該島的軸心國飛機護航，之後MC.200轉戰北非，巴爾幹半島和蘇聯，在蘇聯前線曾創下以損失15架擊落88架蘇軍戰機的戰果，1943年在意大利本土，MC.200也奉命阻止盟軍在南部登陸，直至同年9月8日，意大利向盟軍投降為止，MC.200剩下不足100架
+[Macchi200_m2.jpg](https://zh.wikipedia.org/wiki/File:Macchi200_m2.jpg "fig:Macchi200_m2.jpg") 首批共144架MC.200戰鬥機於1940年投入[地中海](../Page/地中海.md "wikilink")戰區，為要飛經過[馬爾他島的運輸機護航](https://zh.wikipedia.org/wiki/馬爾他島 "wikilink")，同年11月在西西里島外海擊落1架英國飛艇，而且多次和英軍的[颶風式戰鬥機交戰](../Page/颶風戰鬥機.md "wikilink")，在馬爾他島空戰當中，MC.200也為偵察和轟炸該島的軸心國飛機護航，之後MC.200轉戰北非，巴爾幹半島和蘇聯，在蘇聯前線曾創下以損失15架擊落88架蘇軍戰機的戰果，1943年在意大利本土，MC.200也奉命阻止盟軍在南部登陸，直至同年9月8日，意大利向盟軍投降為止，MC.200剩下不足100架
 
 ## 使用國家
 
@@ -40,5 +39,4 @@ MC.200戰鬥機是意大利其中一種初期研發的單翼戰鬥機，出自[�
 
   - [意大利“马基”MC.200/202/205战斗机](http://www.afwing.com/intro/mc200.htm)
 
-[Category:意大利戰鬥機](https://zh.wikipedia.org/wiki/Category:意大利戰鬥機 "wikilink")
-[Category:意大利二戰武器](https://zh.wikipedia.org/wiki/Category:意大利二戰武器 "wikilink")
+[Category:意大利戰鬥機](https://zh.wikipedia.org/wiki/Category:意大利戰鬥機 "wikilink") [Category:意大利二戰武器](https://zh.wikipedia.org/wiki/Category:意大利二戰武器 "wikilink")

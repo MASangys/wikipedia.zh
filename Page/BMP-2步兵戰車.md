@@ -42,8 +42,7 @@
 
 **國外改裝**
 
-[BVP-2](https://cs.wikipedia.org/wiki/BVP-2) -
-[捷克斯洛伐克的](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")[BMP-2版本](https://zh.wikipedia.org/wiki/BMP-2 "wikilink")
+[BVP-2](https://cs.wikipedia.org/wiki/BVP-2) - [捷克斯洛伐克的](https://zh.wikipedia.org/wiki/捷克斯洛伐克 "wikilink")[BMP-2版本](https://zh.wikipedia.org/wiki/BMP-2 "wikilink")
 
 ## 實戰
 
@@ -60,20 +59,15 @@
 
 ## 使用國家
 
-[BMP-2_operators.PNG](https://zh.wikipedia.org/wiki/File:BMP-2_operators.PNG "fig:BMP-2_operators.PNG")
-[Indian_Army_BMP-2.jpg](https://zh.wikipedia.org/wiki/File:Indian_Army_BMP-2.jpg "fig:Indian_Army_BMP-2.jpg")
-[BVP-2_military_parade_Prague.jpg](https://zh.wikipedia.org/wiki/File:BVP-2_military_parade_Prague.jpg "fig:BVP-2_military_parade_Prague.jpg")
+[BMP-2_operators.PNG](https://zh.wikipedia.org/wiki/File:BMP-2_operators.PNG "fig:BMP-2_operators.PNG") [Indian_Army_BMP-2.jpg](https://zh.wikipedia.org/wiki/File:Indian_Army_BMP-2.jpg "fig:Indian_Army_BMP-2.jpg") [BVP-2_military_parade_Prague.jpg](https://zh.wikipedia.org/wiki/File:BVP-2_military_parade_Prague.jpg "fig:BVP-2_military_parade_Prague.jpg")
 
 [Two_Fninish_BMP-2s.JPG](https://zh.wikipedia.org/wiki/File:Two_Fninish_BMP-2s.JPG "fig:Two_Fninish_BMP-2s.JPG")
 
   - ：
 
-      - [俄羅斯陸軍](https://zh.wikipedia.org/wiki/俄羅斯陸軍 "wikilink") -
-        5000輛正在服役
-      - [俄羅斯海軍步兵](https://zh.wikipedia.org/wiki/俄羅斯海軍步兵 "wikilink") -
-        約有150輛正在服役
-      - [俄羅斯內衛部隊](https://zh.wikipedia.org/wiki/俄羅斯內衛部隊 "wikilink") -
-        有1650輛BMP-1、BMP-2、BTR-80在服役
+      - [俄羅斯陸軍](https://zh.wikipedia.org/wiki/俄羅斯陸軍 "wikilink") - 5000輛正在服役
+      - [俄羅斯海軍步兵](https://zh.wikipedia.org/wiki/俄羅斯海軍步兵 "wikilink") - 約有150輛正在服役
+      - [俄羅斯內衛部隊](https://zh.wikipedia.org/wiki/俄羅斯內衛部隊 "wikilink") - 有1650輛BMP-1、BMP-2、BTR-80在服役
 
   -
   -
@@ -114,10 +108,8 @@
   -
   - :
 
-      - [烏克蘭陸軍](https://zh.wikipedia.org/wiki/烏克蘭陸軍 "wikilink") -
-        約1400輛正在服役
-      - [烏克蘭海軍陸戰隊](https://zh.wikipedia.org/wiki/烏克蘭海軍陸戰隊 "wikilink") -
-        約75輛正在服役
+      - [烏克蘭陸軍](https://zh.wikipedia.org/wiki/烏克蘭陸軍 "wikilink") - 約1400輛正在服役
+      - [烏克蘭海軍陸戰隊](https://zh.wikipedia.org/wiki/烏克蘭海軍陸戰隊 "wikilink") - 約75輛正在服役
 
   -
   -
@@ -151,7 +143,6 @@
 
   - [蘇聯BMP-2步兵戰車](http://www.airforceworld.com/tank/bbzc/bbzc100.htm)
 
-[Category:步兵战车](https://zh.wikipedia.org/wiki/Category:步兵战车 "wikilink")
-[Category:兩棲車輛](https://zh.wikipedia.org/wiki/Category:兩棲車輛 "wikilink")
+[Category:步兵战车](https://zh.wikipedia.org/wiki/Category:步兵战车 "wikilink") [Category:兩棲車輛](https://zh.wikipedia.org/wiki/Category:兩棲車輛 "wikilink")
 
 1.  <http://otvaga.narod.ru/Otvaga/armour-rus-bmp2/a_bmp2.htm>

@@ -1,13 +1,10 @@
-「**READY STEADY
-GO**」是[L'Arc〜en〜Ciel的第](https://zh.wikipedia.org/wiki/L'Arc〜en〜Ciel "wikilink")22張單曲。2004年2月4日發行。
+「**READY STEADY GO**」是[L'Arc〜en〜Ciel的第](https://zh.wikipedia.org/wiki/L'Arc〜en〜Ciel "wikilink")22張單曲。2004年2月4日發行。
 
 ## 簡介
 
-距離上1張單曲《[Spirit dreams inside -another
-dream-](../Page/Spirit_dreams_inside_-another_dream-.md "wikilink")》相隔2年5個月，長期活動休止後的首發單曲。
+距離上1張單曲《[Spirit dreams inside -another dream-](../Page/Spirit_dreams_inside_-another_dream-.md "wikilink")》相隔2年5個月，長期活動休止後的首發單曲。
 
-B面曲收錄「READY STEADY
-GO」抽取4位團員各自負責的部分的版本，意味著：『缺少任何一個部分都不是L'Arc〜en〜Ciel的音樂』。
+B面曲收錄「READY STEADY GO」抽取4位團員各自負責的部分的版本，意味著：『缺少任何一個部分都不是L'Arc〜en〜Ciel的音樂』。
 
 ## 收錄曲
 
@@ -26,8 +23,7 @@ GO」抽取4位團員各自負責的部分的版本，意味著：『缺少任�
 
 <!-- end list -->
 
-  - 《[SMILE](https://zh.wikipedia.org/wiki/SMILE_\(原創專輯\) "wikilink")》
-    (專輯版本)
+  - 《[SMILE](https://zh.wikipedia.org/wiki/SMILE_\(原創專輯\) "wikilink")》 (專輯版本)
 
 <!-- end list -->
 
@@ -35,14 +31,9 @@ GO」抽取4位團員各自負責的部分的版本，意味著：『缺少任�
 
 <!-- end list -->
 
-  - 《[QUADRINITY 〜MEMBER'S BEST
-    SELECTIONS〜](https://zh.wikipedia.org/wiki/QUADRINITY_〜MEMBER'S_BEST_SELECTIONS〜 "wikilink")》
-    (專輯版本)
-  - 《[TWENITY
-    2000-2010](https://zh.wikipedia.org/wiki/TWENITY "wikilink")》 (專輯版本)
-  - 《[WORLD'S BEST
-    SELECTION](https://zh.wikipedia.org/wiki/WORLD'S_BEST_SELECTION "wikilink")》
-    (專輯版本)
+  - 《[QUADRINITY 〜MEMBER'S BEST SELECTIONS〜](https://zh.wikipedia.org/wiki/QUADRINITY_〜MEMBER'S_BEST_SELECTIONS〜 "wikilink")》 (專輯版本)
+  - 《[TWENITY 2000-2010](https://zh.wikipedia.org/wiki/TWENITY "wikilink")》 (專輯版本)
+  - 《[WORLD'S BEST SELECTION](https://zh.wikipedia.org/wiki/WORLD'S_BEST_SELECTION "wikilink")》 (專輯版本)
 
 <!-- end list -->
 
@@ -50,12 +41,7 @@ GO」抽取4位團員各自負責的部分的版本，意味著：『缺少任�
 
 <!-- end list -->
 
-  - 《[鋼之鍊金術師COMPLETE
-    BEST](https://zh.wikipedia.org/wiki/鋼之鍊金術師COMPLETE_BEST "wikilink")》
+  - 《[鋼之鍊金術師COMPLETE BEST](https://zh.wikipedia.org/wiki/鋼之鍊金術師COMPLETE_BEST "wikilink")》
   - 《鋼之鍊金術師THE BEST》
 
-[Category:L'Arc\~en\~Ciel歌曲](https://zh.wikipedia.org/wiki/Category:L'Arc~en~Ciel歌曲 "wikilink")
-[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
-[Category:Oricon動畫單曲年榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍歌曲 "wikilink")
-[Category:2004年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:鋼之鍊金術師歌曲](https://zh.wikipedia.org/wiki/Category:鋼之鍊金術師歌曲 "wikilink")
+[Category:L'Arc\~en\~Ciel歌曲](https://zh.wikipedia.org/wiki/Category:L'Arc~en~Ciel歌曲 "wikilink") [Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink") [Category:Oricon動畫單曲年榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍歌曲 "wikilink") [Category:2004年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon單曲週榜冠軍作品 "wikilink") [Category:鋼之鍊金術師歌曲](https://zh.wikipedia.org/wiki/Category:鋼之鍊金術師歌曲 "wikilink")

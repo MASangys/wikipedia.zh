@@ -1,9 +1,4 @@
-《**B'z The Best "ULTRA
-Pleasure"**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")为纪念出道20年发行的精選輯，2008年6月18日由[VERMILLION
-RECORDS于日本发行](https://zh.wikipedia.org/wiki/Being_\(公司\)#VERMILLION_RECORDS "wikilink")。\[1\]
-专辑共收录30首歌曲，特典DVD收录10首未公开的巡迴演唱會LIVE影像。\[2\]
-该专辑在第23回[日本金唱片大奖被评选为](https://zh.wikipedia.org/wiki/日本金唱片大奖 "wikilink")“年度十佳精選輯”\[3\]
-，并被[日本唱片业协会认证为](https://zh.wikipedia.org/wiki/日本唱片业协会 "wikilink")“百萬認證專輯”。\[4\]
+《**B'z The Best "ULTRA Pleasure"**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")为纪念出道20年发行的精選輯，2008年6月18日由[VERMILLION RECORDS于日本发行](https://zh.wikipedia.org/wiki/Being_\(公司\)#VERMILLION_RECORDS "wikilink")。\[1\] 专辑共收录30首歌曲，特典DVD收录10首未公开的巡迴演唱會LIVE影像。\[2\] 该专辑在第23回[日本金唱片大奖被评选为](https://zh.wikipedia.org/wiki/日本金唱片大奖 "wikilink")“年度十佳精選輯”\[3\] ，并被[日本唱片业协会认证为](https://zh.wikipedia.org/wiki/日本唱片业协会 "wikilink")“百萬認證專輯”。\[4\]
 
 最終銷量約98萬張。
 
@@ -32,12 +27,7 @@ RECORDS于日本发行](https://zh.wikipedia.org/wiki/Being_\(公司\)#VERMILLIO
 
 ## 参考文献
 
-[Category:B'z精選輯](https://zh.wikipedia.org/wiki/Category:B'z精選輯 "wikilink")
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
-[Category:2008年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:2008年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink")
-[Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")
+[Category:B'z精選輯](https://zh.wikipedia.org/wiki/Category:B'z精選輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:2008年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon專輯週榜冠軍作品 "wikilink") [Category:2008年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon專輯月榜冠軍作品 "wikilink") [Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")
 
 1.
 

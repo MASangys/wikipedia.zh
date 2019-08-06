@@ -1,15 +1,8 @@
-**GIRLS' GENERATION Tour -Girls &
-Peace-**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[少女時代第三次巡迴演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。之前舉辦的日本第二次巡迴演唱會[GIRLS'
-GENERATION \~Girls\&Peace\~ Japan 2nd
-Tour是這次演唱會的一部分](../Page/GIRLS'_GENERATION_~Girls&Peace~_Japan_2nd_Tour.md "wikilink")。
+**GIRLS' GENERATION Tour -Girls & Peace-**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[少女時代第三次巡迴演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。之前舉辦的日本第二次巡迴演唱會[GIRLS' GENERATION \~Girls\&Peace\~ Japan 2nd Tour是這次演唱會的一部分](../Page/GIRLS'_GENERATION_~Girls&Peace~_Japan_2nd_Tour.md "wikilink")。
 
 ## 概要
 
-6月8、9日這兩天，在首爾開始首次巡迴演唱會。之前舉辦的日本第二次巡迴演唱會[GIRLS' GENERATION
-\~Girls\&Peace\~ Japan 2nd
-Tour是這次演唱會的一部分](../Page/GIRLS'_GENERATION_~Girls&Peace~_Japan_2nd_Tour.md "wikilink")。特別是，[SM娛樂](../Page/SM娛樂.md "wikilink")子公司[SM
-C\&C合併了](../Page/SM娛樂.md "wikilink")[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")，並創立獨立品牌經紀公司[Woollim
-Label](https://zh.wikipedia.org/wiki/Woollim_Label "wikilink")，而旗下男子組合[TASTY](../Page/TASTY.md "wikilink")作為香港站及澳門站的開場嘉賓。
+6月8、9日這兩天，在首爾開始首次巡迴演唱會。之前舉辦的日本第二次巡迴演唱會[GIRLS' GENERATION \~Girls\&Peace\~ Japan 2nd Tour是這次演唱會的一部分](../Page/GIRLS'_GENERATION_~Girls&Peace~_Japan_2nd_Tour.md "wikilink")。特別是，[SM娛樂](../Page/SM娛樂.md "wikilink")子公司[SM C\&C合併了](../Page/SM娛樂.md "wikilink")[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")，並創立獨立品牌經紀公司[Woollim Label](https://zh.wikipedia.org/wiki/Woollim_Label "wikilink")，而旗下男子組合[TASTY](../Page/TASTY.md "wikilink")作為香港站及澳門站的開場嘉賓。
 
 ## GIRLS' GENERATION \~Girls\&Peace\~ Japan 2nd Tour
 
@@ -133,8 +126,7 @@ Label](https://zh.wikipedia.org/wiki/Woollim_Label "wikilink")，而旗下男子
 
 <!-- end list -->
 
-  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")
-    （[太妍](../Page/太妍.md "wikilink")、[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
+  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink") （[太妍](../Page/太妍.md "wikilink")、[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
 
 <!-- end list -->
 
@@ -142,9 +134,7 @@ Label](https://zh.wikipedia.org/wiki/Woollim_Label "wikilink")，而旗下男子
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream
-    Maker Entertainment
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream Maker Entertainment
 
 <!-- end list -->
 
@@ -180,6 +170,4 @@ Label](https://zh.wikipedia.org/wiki/Woollim_Label "wikilink")，而旗下男子
   -
   -
 
-[Category:2013年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2013年巡迴演唱會 "wikilink")
-[Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink")
-[Category:少女時代巡迴演唱會](https://zh.wikipedia.org/wiki/Category:少女時代巡迴演唱會 "wikilink")
+[Category:2013年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2013年巡迴演唱會 "wikilink") [Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink") [Category:少女時代巡迴演唱會](https://zh.wikipedia.org/wiki/Category:少女時代巡迴演唱會 "wikilink")

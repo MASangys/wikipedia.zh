@@ -4,8 +4,7 @@
 
 BB航空經營兩條由[特里布萬國際機場到](https://zh.wikipedia.org/wiki/特里布萬國際機場 "wikilink")[亞洲的航點](https://zh.wikipedia.org/wiki/亞洲 "wikilink")\[2\]：
 
-  - [加德滿都](../Page/加德滿都.md "wikilink")[特里布萬國際機場](https://zh.wikipedia.org/wiki/特里布萬國際機場 "wikilink")
-    *樞紐機場*
+  - [加德滿都](../Page/加德滿都.md "wikilink")[特里布萬國際機場](https://zh.wikipedia.org/wiki/特里布萬國際機場 "wikilink") *樞紐機場*
 
   - [吉隆坡國際機場](https://zh.wikipedia.org/wiki/吉隆坡國際機場 "wikilink")
 
@@ -30,8 +29,7 @@ BB航空擁有下列的飛機（至2013年1月）\[3\]：
 
 ## 外部連結
 
-[Category:2012年成立的航空公司](https://zh.wikipedia.org/wiki/Category:2012年成立的航空公司 "wikilink")
-[Category:尼泊爾航空公司](https://zh.wikipedia.org/wiki/Category:尼泊爾航空公司 "wikilink")
+[Category:2012年成立的航空公司](https://zh.wikipedia.org/wiki/Category:2012年成立的航空公司 "wikilink") [Category:尼泊爾航空公司](https://zh.wikipedia.org/wiki/Category:尼泊爾航空公司 "wikilink")
 
 1.
 2.

@@ -2,9 +2,7 @@
 
 ## 概要
 
-[JTB_Logo_Chinese_Tagline.svg](https://zh.wikipedia.org/wiki/File:JTB_Logo_Chinese_Tagline.svg "fig:JTB_Logo_Chinese_Tagline.svg")
-JTB的前身是1912年成立的，為一[財團法人機構](https://zh.wikipedia.org/wiki/財團法人 "wikilink")。1963年，日本交通公社將涉及商業營利的部門分割民營化，成立「株式會社日本交通公社」。1988年導入企業識別系統，並開始使用「JTB」做為通稱，此名是「Japan
-Travel Bureau」的縮寫，同時也是日本交通公社的英文譯稱。2001年1月1日，改以「JTB」為公司正式名稱。
+[JTB_Logo_Chinese_Tagline.svg](https://zh.wikipedia.org/wiki/File:JTB_Logo_Chinese_Tagline.svg "fig:JTB_Logo_Chinese_Tagline.svg") JTB的前身是1912年成立的，為一[財團法人機構](https://zh.wikipedia.org/wiki/財團法人 "wikilink")。1963年，日本交通公社將涉及商業營利的部門分割民營化，成立「株式會社日本交通公社」。1988年導入企業識別系統，並開始使用「JTB」做為通稱，此名是「Japan Travel Bureau」的縮寫，同時也是日本交通公社的英文譯稱。2001年1月1日，改以「JTB」為公司正式名稱。
 
 ## 股東
 
@@ -58,11 +56,7 @@ Travel Bureau」的縮寫，同時也是日本交通公社的英文譯稱。2001
   - [JTB中國網站](http://www.jtb.com.cn/)
   - [e路東瀛 / JAPANiCAN](http://www.japanican.com/) - JTB旗下訂房網站
 
-[Category:日本旅行社](https://zh.wikipedia.org/wiki/Category:日本旅行社 "wikilink")
-[Category:品川區公司](https://zh.wikipedia.org/wiki/Category:品川區公司 "wikilink")
-[Category:總部在日本的跨國公司](https://zh.wikipedia.org/wiki/Category:總部在日本的跨國公司 "wikilink")
-[Category:1963年成立的公司](https://zh.wikipedia.org/wiki/Category:1963年成立的公司 "wikilink")
+[Category:日本旅行社](https://zh.wikipedia.org/wiki/Category:日本旅行社 "wikilink") [Category:品川區公司](https://zh.wikipedia.org/wiki/Category:品川區公司 "wikilink") [Category:總部在日本的跨國公司](https://zh.wikipedia.org/wiki/Category:總部在日本的跨國公司 "wikilink") [Category:1963年成立的公司](https://zh.wikipedia.org/wiki/Category:1963年成立的公司 "wikilink")
 
-1.  [](https://www.tourism.jp/tourism-database/figures/2014/07/ota/) -
-    2014.07.10
+1.  [](https://www.tourism.jp/tourism-database/figures/2014/07/ota/) -  2014.07.10
 2.  [日本交通公社 2015年度事業報告](https://www.jtb.or.jp/wp-content/uploads/2007/08/15enterprise.pdf)

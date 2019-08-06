@@ -1,5 +1,4 @@
-《**Kimberley**》
-是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[陳芳語首張個人](https://zh.wikipedia.org/wiki/陳芳語 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2012年4月27日正式發行，一共收錄十一首歌曲。\[1\]
+《**Kimberley**》 是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[陳芳語首張個人](https://zh.wikipedia.org/wiki/陳芳語 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2012年4月27日正式發行，一共收錄十一首歌曲。\[1\]
 
 ## 曲目
 
@@ -21,8 +20,6 @@
 
 <references/>
 
-[Category:陳芳語音樂專輯](https://zh.wikipedia.org/wiki/Category:陳芳語音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
+[Category:陳芳語音樂專輯](https://zh.wikipedia.org/wiki/Category:陳芳語音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
 
 1.

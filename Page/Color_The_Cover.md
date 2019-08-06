@@ -1,10 +1,8 @@
-《**Color The
-Cover**》（百色倖感翻唱選輯）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2013年2月27日發行的第二張[翻唱專輯](https://zh.wikipedia.org/wiki/翻唱 "wikilink")。
+《**Color The Cover**》（百色倖感翻唱選輯）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2013年2月27日發行的第二張[翻唱專輯](https://zh.wikipedia.org/wiki/翻唱 "wikilink")。
 
 ## 簡介
 
-  - 睽違兩年兩個月的翻唱專輯，特別請來當紅攝影師「[蜷川實花](../Page/蜷川實花.md "wikilink")」來拍攝封面以及以〈ピンク
-    スパイダー〉為主題曲的網路微電影《ピンク スパイダー inspired by バッファロー5人娘》\[1\]。
+  - 睽違兩年兩個月的翻唱專輯，特別請來當紅攝影師「[蜷川實花](../Page/蜷川實花.md "wikilink")」來拍攝封面以及以〈ピンク スパイダー〉為主題曲的網路微電影《ピンク スパイダー inspired by バッファロー5人娘》\[1\]。
 
 ## 發行版本
 
@@ -41,8 +39,7 @@ Cover**》（百色倖感翻唱選輯）為[日本](../Page/日本.md "wikilink"
 
 <!-- end list -->
 
-1.  （）【[hide with Spread
-    Beaver](https://zh.wikipedia.org/wiki/hide "wikilink")／1998年】
+1.  （）【[hide with Spread Beaver](https://zh.wikipedia.org/wiki/hide "wikilink")／1998年】
 
       -
         作詞: hide　作曲: hide　編曲：Eric Nano
@@ -66,8 +63,7 @@ Cover**》（百色倖感翻唱選輯）為[日本](../Page/日本.md "wikilink"
       -
         作詞：UA　作曲：朝本浩文　編曲: 伊澤一葉
 
-5.  [One more time, One more
-    chance](../Page/One_more_time,_One_more_chance.md "wikilink")【[山崎將義](https://zh.wikipedia.org/wiki/山崎將義 "wikilink")／1997年】
+5.  [One more time, One more chance](../Page/One_more_time,_One_more_chance.md "wikilink")【[山崎將義](https://zh.wikipedia.org/wiki/山崎將義 "wikilink")／1997年】
 
       -
         作詞：山崎將義　作曲：山崎將義　編曲: Curly Giraffe
@@ -92,8 +88,7 @@ Cover**》（百色倖感翻唱選輯）為[日本](../Page/日本.md "wikilink"
       -
         作詞：阿久悠　作曲：都倉俊一　編曲: h-wonder
 
-10. （）【[ELEPHANT
-    KASHIMASHI](../Page/ELEPHANT_KASHIMASHI.md "wikilink")／1997年】
+10. （）【[ELEPHANT KASHIMASHI](../Page/ELEPHANT_KASHIMASHI.md "wikilink")／1997年】
 
       -
         作詞：宮本浩次　作曲：宮本浩次　編曲: 渡辺善太郎
@@ -123,8 +118,7 @@ Cover**》（百色倖感翻唱選輯）為[日本](../Page/日本.md "wikilink"
 
 ### 簡介
 
-於日本連鎖店[羅森發行的](https://zh.wikipedia.org/wiki/羅森 "wikilink")「MUSIC
-CARD」，卡片上附的密碼可於[個人電腦及](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[手機上下載領取](https://zh.wikipedia.org/wiki/手機 "wikilink")。
+於日本連鎖店[羅森發行的](https://zh.wikipedia.org/wiki/羅森 "wikilink")「MUSIC CARD」，卡片上附的密碼可於[個人電腦及](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[手機上下載領取](https://zh.wikipedia.org/wiki/手機 "wikilink")。
 
 ### 發行版本與曲目
 
@@ -152,9 +146,7 @@ CARD」，卡片上附的密碼可於[個人電腦及](https://zh.wikipedia.org/
 
 [翻唱專輯官方網站](http://www.rhythmzone.net/koda/cover/)
 
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/Category:倖田來未音樂專輯 "wikilink")
-[Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")
+[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:倖田來未音樂專輯](https://zh.wikipedia.org/wiki/Category:倖田來未音樂專輯 "wikilink") [Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")
 
 1.
 2.

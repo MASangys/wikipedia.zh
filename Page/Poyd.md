@@ -2,14 +2,11 @@
 
 ## 簡介
 
-[土生華人](../Page/峇峇娘惹.md "wikilink")，17歲變性成為女人，19歲參加[選美比賽便得到皇后的殊榮](https://zh.wikipedia.org/wiki/選美比賽 "wikilink")。而[泰國電視台在她獲得](../Page/泰國電視台列表.md "wikilink")2004
-Miss
-Tiffany的頭銜後，便對其進行了一次專訪，寶兒也講述了在做[變性手術前後的心路歷程](https://zh.wikipedia.org/wiki/變性手術 "wikilink")。\[2\]
+[土生華人](../Page/峇峇娘惹.md "wikilink")，17歲變性成為女人，19歲參加[選美比賽便得到皇后的殊榮](https://zh.wikipedia.org/wiki/選美比賽 "wikilink")。而[泰國電視台在她獲得](../Page/泰國電視台列表.md "wikilink")2004 Miss Tiffany的頭銜後，便對其進行了一次專訪，寶兒也講述了在做[變性手術前後的心路歷程](https://zh.wikipedia.org/wiki/變性手術 "wikilink")。\[2\]
 
 2008年开始和男友谈恋爱，不时在网上秀恩爱，现已分手。\[3\]
 
-2013年，因演出香港電影《[掃毒](../Page/掃毒.md "wikilink")》，其演出劇照的驚豔曝光，而受到網友廣泛的討論。\[4\]
-而該片的導演[陳木勝](../Page/陳木勝.md "wikilink")也說：當初選了很多演員來試鏡Mina這個角色，Poyd是最漂亮的一個，她演起戲來也很放鬆、很大膽。\[5\]
+2013年，因演出香港電影《[掃毒](../Page/掃毒.md "wikilink")》，其演出劇照的驚豔曝光，而受到網友廣泛的討論。\[4\] 而該片的導演[陳木勝](../Page/陳木勝.md "wikilink")也說：當初選了很多演員來試鏡Mina這個角色，Poyd是最漂亮的一個，她演起戲來也很放鬆、很大膽。\[5\]
 
 因在《[掃毒](../Page/掃毒.md "wikilink")》中的演出使得在中國的知名度大增，因此被[寰宇藝人管理有限公司垂青](https://zh.wikipedia.org/wiki/寰宇國際金融#寰宇艺人管理有限公司 "wikilink")，于2014年正式簽約成為旗下藝人。\[6\]
 
@@ -61,23 +58,13 @@ Tiffany的頭銜後，便對其進行了一次專訪，寶兒也講述了在做[
   -
   -
   -
-[Category:泰國女歌手](https://zh.wikipedia.org/wiki/Category:泰國女歌手 "wikilink")
-[Category:泰國女性模特兒](https://zh.wikipedia.org/wiki/Category:泰國女性模特兒 "wikilink")
-[Category:泰國女演員](https://zh.wikipedia.org/wiki/Category:泰國女演員 "wikilink")
-[Category:泰國變性人](https://zh.wikipedia.org/wiki/Category:泰國變性人 "wikilink")
-[Category:跨性別演員](https://zh.wikipedia.org/wiki/Category:跨性別演員 "wikilink")
-[Category:跨性別模特兒](https://zh.wikipedia.org/wiki/Category:跨性別模特兒 "wikilink")
+[Category:泰國女歌手](https://zh.wikipedia.org/wiki/Category:泰國女歌手 "wikilink") [Category:泰國女性模特兒](https://zh.wikipedia.org/wiki/Category:泰國女性模特兒 "wikilink") [Category:泰國女演員](https://zh.wikipedia.org/wiki/Category:泰國女演員 "wikilink") [Category:泰國變性人](https://zh.wikipedia.org/wiki/Category:泰國變性人 "wikilink") [Category:跨性別演員](https://zh.wikipedia.org/wiki/Category:跨性別演員 "wikilink") [Category:跨性別模特兒](https://zh.wikipedia.org/wiki/Category:跨性別模特兒 "wikilink")
 
 1.
 2.
 3.
-4.  [泰国最美变性人Poy秒杀范冰冰林志玲
-    男儿身照片曝光](http://cq.people.com.cn/m/pad/news.cqr300?Num=7408426)，[前瞻网](https://zh.wikipedia.org/wiki/前瞻网 "wikilink")，2013年11月11日
-5.  [张家辉《扫毒》痴缠最美变性人
-    获封重口味情圣](http://xian.qq.com/a/20131108/007206.htm#p=1)，[騰訊](https://zh.wikipedia.org/wiki/騰訊 "wikilink")，2013年11月14日
-6.  [泰国变性人Poy7位数酬劳签约寰宇
-    改名宝儿进军内地](http://fun.youth.cn/stzx/201405/t20140509_5167514.htm)
-    ，[中國青年網](https://zh.wikipedia.org/wiki/中國青年網 "wikilink")，2014年5月9日
+4.  [泰国最美变性人Poy秒杀范冰冰林志玲 男儿身照片曝光](http://cq.people.com.cn/m/pad/news.cqr300?Num=7408426)，[前瞻网](https://zh.wikipedia.org/wiki/前瞻网 "wikilink")，2013年11月11日
+5.  [张家辉《扫毒》痴缠最美变性人 获封重口味情圣](http://xian.qq.com/a/20131108/007206.htm#p=1)，[騰訊](https://zh.wikipedia.org/wiki/騰訊 "wikilink")，2013年11月14日
+6.  [泰国变性人Poy7位数酬劳签约寰宇 改名宝儿进军内地](http://fun.youth.cn/stzx/201405/t20140509_5167514.htm) ，[中國青年網](https://zh.wikipedia.org/wiki/中國青年網 "wikilink")，2014年5月9日
 7.
-8.  [張家輝：比真女人更美](http://www.macaodaily.com/html/2013-11/09/content_852191.htm)
-    《澳門日報》2013 年11月9日
+8.  [張家輝：比真女人更美](http://www.macaodaily.com/html/2013-11/09/content_852191.htm) 《澳門日報》2013 年11月9日

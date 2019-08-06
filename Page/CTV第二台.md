@@ -26,8 +26,7 @@ CTV接管後，外界開始猜測會否易名\[9\]。CTV於2007年-08年就此�
 
 與此同時，CTV亦將旗下在[大西洋省份播放的收費電視頻道大西洋衛星網絡](../Page/加拿大大西洋省份.md "wikilink")（）改為「」的大西洋分台。CTV旗下在[亞伯達省播放的教育電視頻道](https://zh.wikipedia.org/wiki/亞伯達省 "wikilink")「」亦於同日啓用與「」類似的台徽，並於[黃金時段播放部分](https://zh.wikipedia.org/wiki/黃金時段 "wikilink")「」節目\[11\]。
 
-面對[金融海嘯衝擊廣告收入](https://zh.wikipedia.org/wiki/2007年－2008年環球金融危機 "wikilink")，加上加拿大無線電視業者所面臨的結構性問題影響下，CTV於2009年2月宣佈CHWI和CKNX（以及位於[曼尼托巴省](https://zh.wikipedia.org/wiki/曼尼托巴省 "wikilink")[布蘭登](https://zh.wikipedia.org/wiki/布蘭登 "wikilink")，原屬克雷格傳媒的CBC聯播分台CKX-TV）的牌照在同年8月底屆滿後不會為其申請續牌\[12\]\[13\]。CTV亦於同年3月宣佈裁減餘下「」分台的新聞部員工，合共遣散118人\[14\]。CKVR、CFPL和CIVI得以保留晚間新聞時段，但各自製作的晨間節目《》於同月4日停播；CKVR和CFPL改為重播之前一晚的晚間新聞，而CIVI則改與同系CFAX
-AM1070電台在早上同步聯播。CHRO的情況則相反：其晚間新聞時段被取消，但其晨間節目則從每早播放三小時增至四小時，並於周六早上加播兩小時，以滿足其牌照的本地製作條款。（這也配合-{同系}-CTV渥太華分台CJOH的節目編排：該台的晚間新聞時段收視為渥太華之冠，但並未製作晨間節目。）「」大西洋分台本身沒有獨立於CTV大西洋分台的員工，因此未受裁員行動影響。
+面對[金融海嘯衝擊廣告收入](https://zh.wikipedia.org/wiki/2007年－2008年環球金融危機 "wikilink")，加上加拿大無線電視業者所面臨的結構性問題影響下，CTV於2009年2月宣佈CHWI和CKNX（以及位於[曼尼托巴省](https://zh.wikipedia.org/wiki/曼尼托巴省 "wikilink")[布蘭登](https://zh.wikipedia.org/wiki/布蘭登 "wikilink")，原屬克雷格傳媒的CBC聯播分台CKX-TV）的牌照在同年8月底屆滿後不會為其申請續牌\[12\]\[13\]。CTV亦於同年3月宣佈裁減餘下「」分台的新聞部員工，合共遣散118人\[14\]。CKVR、CFPL和CIVI得以保留晚間新聞時段，但各自製作的晨間節目《》於同月4日停播；CKVR和CFPL改為重播之前一晚的晚間新聞，而CIVI則改與同系CFAX AM1070電台在早上同步聯播。CHRO的情況則相反：其晚間新聞時段被取消，但其晨間節目則從每早播放三小時增至四小時，並於周六早上加播兩小時，以滿足其牌照的本地製作條款。（這也配合-{同系}-CTV渥太華分台CJOH的節目編排：該台的晚間新聞時段收視為渥太華之冠，但並未製作晨間節目。）「」大西洋分台本身沒有獨立於CTV大西洋分台的員工，因此未受裁員行動影響。
 
 2009年4月30日，[蕭氏通訊](../Page/蕭氏通訊.md "wikilink")宣佈有意以每間電視台1加元的作價購入CHWI、CKNX和CKX\[15\]，但這宗交易卻於同年6月底告吹，令該三台的前途成疑\[16\]。在[溫莎市議會及代表當地的](https://zh.wikipedia.org/wiki/溫莎_\(安大略省\) "wikilink")[安大略省議會和](https://zh.wikipedia.org/wiki/安大略省議會 "wikilink")[加拿大國會下議院議員游説下](https://zh.wikipedia.org/wiki/加拿大國會下議院 "wikilink")，加上CRTC推出有利小型城市地區電視台的撥款方案，CTV於同年7月8日宣佈為CHWI續牌\[17\]，又同時宣佈會向CRTC申請將CKNX改為CFPL的轉播站。（布蘭登的CKX最終於同年10月停止廣播\[18\]。）
 
@@ -157,8 +156,7 @@ AM1070電台在早上同步聯播。CHRO的情況則相反：其晚間新聞時�
 
   - [官方網站](http://www.ctv.ca)
 
-[Category:加拿大電視台](https://zh.wikipedia.org/wiki/Category:加拿大電視台 "wikilink")
-[Category:貝爾傳媒](https://zh.wikipedia.org/wiki/Category:貝爾傳媒 "wikilink")
+[Category:加拿大電視台](https://zh.wikipedia.org/wiki/Category:加拿大電視台 "wikilink") [Category:貝爾傳媒](https://zh.wikipedia.org/wiki/Category:貝爾傳媒 "wikilink")
 
 1.
 2.
@@ -169,43 +167,19 @@ AM1070電台在早上同步聯播。CHRO的情況則相反：其晚間新聞時�
 7.
 8.
 9.
-10. [A-Channel
-    Survey](https://survey2.securestudies.com/wix/p17142820.aspx)
-11. ["A New Beginning: Fresh New Look for A Unveiled
-    Today"](http://www.ctvmedia.ca/achannel/releases/release.asp?id=10564&yyyy=2008)
-    , CTVglobemedia press release, August 11, 2008.
-12. ['A' Television Stations in Wingham and Windsor to be Shut
-    Down](http://www.newswire.ca/en/releases/archive/February2009/25/c3691.html)
-    , CTVglobemedia press release via Canada NewsWire, February 25, 2009
-13. [CTV Inc. places CKX-TV Brandon Up for
-    Sale](http://www.newswire.ca/en/releases/archive/February2009/19/c2188.html)
-    , CTVglobemedia press release via Canada NewsWire, February 19, 2009
-14. [CTV press
-    release](http://www.newswire.ca/en/releases/archive/March2009/03/c5505.html)
-    , March 3, 2009
-15. [CTV accepts Shaw's offer to buy local
-    stations](http://www.tradingmarkets.com/.site/news/Stock%20News/2301992/),
-    April 30, 2009
-16. Grant Robertson, ["Shaw cancels deal for 3 CTV
-    stations"](http://www.theglobeandmail.com/globe-investor/shaw-cancels-deal-for-3-ctv-stations/article1202528/).
-    *[The Globe and
-    Mail](https://zh.wikipedia.org/wiki/The_Globe_and_Mail "wikilink")*,
-    June 30, 2009.
-17. [/A\\ Windsor Station to Remain
-    Open](http://www.newswire.ca/en/releases/archive/July2009/08/c4869.html)
-    , CTVglobemedia press release, July 8, 2009
-18. [BREAKING NEWS - Bluepoint walks away from CKX-TV - Brandon
-    Sun](http://www.brandonsun.com/story.php?story_id=161531)
+10. [A-Channel Survey](https://survey2.securestudies.com/wix/p17142820.aspx)
+11. ["A New Beginning: Fresh New Look for A Unveiled Today"](http://www.ctvmedia.ca/achannel/releases/release.asp?id=10564&yyyy=2008) , CTVglobemedia press release, August 11, 2008.
+12. ['A' Television Stations in Wingham and Windsor to be Shut Down](http://www.newswire.ca/en/releases/archive/February2009/25/c3691.html) , CTVglobemedia press release via Canada NewsWire, February 25, 2009
+13. [CTV Inc. places CKX-TV Brandon Up for Sale](http://www.newswire.ca/en/releases/archive/February2009/19/c2188.html) , CTVglobemedia press release via Canada NewsWire, February 19, 2009
+14. [CTV press release](http://www.newswire.ca/en/releases/archive/March2009/03/c5505.html) , March 3, 2009
+15. [CTV accepts Shaw's offer to buy local stations](http://www.tradingmarkets.com/.site/news/Stock%20News/2301992/), April 30, 2009
+16. Grant Robertson, ["Shaw cancels deal for 3 CTV stations"](http://www.theglobeandmail.com/globe-investor/shaw-cancels-deal-for-3-ctv-stations/article1202528/). *[The Globe and Mail](https://zh.wikipedia.org/wiki/The_Globe_and_Mail "wikilink")*, June 30, 2009.
+17. [/A\\ Windsor Station to Remain Open](http://www.newswire.ca/en/releases/archive/July2009/08/c4869.html) , CTVglobemedia press release, July 8, 2009
+18. [BREAKING NEWS - Bluepoint walks away from CKX-TV - Brandon Sun](http://www.brandonsun.com/story.php?story_id=161531)
 19.
 20.
-21. [Bell Media Press Release: "Bell Media's /A\\ Network to Become “CTV
-    Two” This Fall",
-    May 30, 2011.](http://ctvmedia.ca/ctv/releases/release.asp?id=13828&yyyy=2011)
-
-22. [The Hollywood Reporter: "Bell Media Unveils CTV Two For Fall TV
-    Season",
-    May 30, 2011.](http://www.hollywoodreporter.com/news/bell-media-unveils-ctv-two-193065)
-23. [CTV Two Launches
-    August 29](http://www.bellmediapr.ca/ctv/releases/release.asp?id=14080&yyyy=2011)
+21. [Bell Media Press Release: "Bell Media's /A\\ Network to Become “CTV Two” This Fall", May 30, 2011.](http://ctvmedia.ca/ctv/releases/release.asp?id=13828&yyyy=2011)
+22. [The Hollywood Reporter: "Bell Media Unveils CTV Two For Fall TV Season", May 30, 2011.](http://www.hollywoodreporter.com/news/bell-media-unveils-ctv-two-193065)
+23. [CTV Two Launches August 29](http://www.bellmediapr.ca/ctv/releases/release.asp?id=14080&yyyy=2011)
 24.
 25.

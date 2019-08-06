@@ -1,16 +1,8 @@
-《**Love Love
-Love**》是[香港女歌手](https://zh.wikipedia.org/wiki/香港女歌手 "wikilink")[鍾嘉欣的第](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")4張個人專輯，第3張大碟，亦是在[星煥國際有限公司推出的首張專輯](https://zh.wikipedia.org/wiki/星煥國際有限公司 "wikilink")，與對上一張大碟《[My
-Love Story](../Page/My_Love_Story.md "wikilink")》相距兩年。收錄預防針的專輯《[Love
-Love
-Love](../Page/Love_Love_Love_\(鍾嘉欣專輯\).md "wikilink")》早於2011年籌備而推出日期一拖再拖，由2012年9月押後至11月28日，惟新碟進度理想，故把專輯推出日期提前至2012年11月13日。\[1\]由[Johnny
-Yim編曲和監製的](https://zh.wikipedia.org/wiki/Johnny_Yim "wikilink")「預防針」和「[你是我的一半](https://zh.wikipedia.org/wiki/你是我的一半 "wikilink")」是Linda擅長的中版情歌曲式。
-於2012年11月13日推出。新專輯有11首歌。第一版銷量沖破白金唱片銷量的關口，數度斷市，因此第二版“**最幸福特別版**”於12月27日推出，特別收錄TVB熱播新劇《[幸福摩天輪](../Page/幸福摩天輪.md "wikilink")》主題曲《幸福歌》，及《最幸福的事》（黃宗澤V.O.劇場版），並隨碟附送幸福咭。本專輯一度登上香港唱片商會銷量榜連續五星期，其中兩星期為第二位，為該年推出純廣東唱片的女歌手中成績最好。其後因推出“最幸福特別版”，令專輯再次登上香港唱片商會銷量榜，銷量極好。此張專輯亦於2012年度IFPI香港唱片銷量大獎獲得十大銷量廣東唱片。
+《**Love Love Love**》是[香港女歌手](https://zh.wikipedia.org/wiki/香港女歌手 "wikilink")[鍾嘉欣的第](https://zh.wikipedia.org/wiki/鍾嘉欣 "wikilink")4張個人專輯，第3張大碟，亦是在[星煥國際有限公司推出的首張專輯](https://zh.wikipedia.org/wiki/星煥國際有限公司 "wikilink")，與對上一張大碟《[My Love Story](../Page/My_Love_Story.md "wikilink")》相距兩年。收錄預防針的專輯《[Love Love Love](../Page/Love_Love_Love_\(鍾嘉欣專輯\).md "wikilink")》早於2011年籌備而推出日期一拖再拖，由2012年9月押後至11月28日，惟新碟進度理想，故把專輯推出日期提前至2012年11月13日。\[1\]由[Johnny Yim編曲和監製的](https://zh.wikipedia.org/wiki/Johnny_Yim "wikilink")「預防針」和「[你是我的一半](https://zh.wikipedia.org/wiki/你是我的一半 "wikilink")」是Linda擅長的中版情歌曲式。 於2012年11月13日推出。新專輯有11首歌。第一版銷量沖破白金唱片銷量的關口，數度斷市，因此第二版“**最幸福特別版**”於12月27日推出，特別收錄TVB熱播新劇《[幸福摩天輪](../Page/幸福摩天輪.md "wikilink")》主題曲《幸福歌》，及《最幸福的事》（黃宗澤V.O.劇場版），並隨碟附送幸福咭。本專輯一度登上香港唱片商會銷量榜連續五星期，其中兩星期為第二位，為該年推出純廣東唱片的女歌手中成績最好。其後因推出“最幸福特別版”，令專輯再次登上香港唱片商會銷量榜，銷量極好。此張專輯亦於2012年度IFPI香港唱片銷量大獎獲得十大銷量廣東唱片。
 
 ## 專輯介紹
 
-《Love Love Love》是鍾嘉欣改投新東家後首張大碟，與對上一張大碟《[My Private
-Selection](../Page/My_Private_Selection.md "wikilink")》相距一年。由Johnny
-Yim編曲和監製的《預防針》和《你是我的一半》是Linda擅長的中版情歌曲式。碟內還收錄Linda主演電視劇《[護花危情](../Page/護花危情.md "wikilink")》主題曲《最幸福的事》，以及翻唱[草蜢](../Page/草蜢.md "wikilink")和[鄧麗君](../Page/鄧麗君.md "wikilink")歌曲《原諒我是我》和《月亮代表我的心》。首支派台歌《預防針》登上TVB勁歌金榜冠軍位置，而第二主打《你是我的一半》亦於12月15日起進佔香港電台中文歌曲龍虎榜、新城勁爆龍虎榜和勁歌金榜的榜首。此亦是鍾嘉欣首次於中文歌曲龍虎榜及新城勁爆龍虎榜獲冠軍歌曲。本專輯的兩首主打派台歌獲得四冠一亞的佳績，亦是近年首位無綫藝員出身而獲得多支冠軍的歌手。
+《Love Love Love》是鍾嘉欣改投新東家後首張大碟，與對上一張大碟《[My Private Selection](../Page/My_Private_Selection.md "wikilink")》相距一年。由Johnny Yim編曲和監製的《預防針》和《你是我的一半》是Linda擅長的中版情歌曲式。碟內還收錄Linda主演電視劇《[護花危情](../Page/護花危情.md "wikilink")》主題曲《最幸福的事》，以及翻唱[草蜢](../Page/草蜢.md "wikilink")和[鄧麗君](../Page/鄧麗君.md "wikilink")歌曲《原諒我是我》和《月亮代表我的心》。首支派台歌《預防針》登上TVB勁歌金榜冠軍位置，而第二主打《你是我的一半》亦於12月15日起進佔香港電台中文歌曲龍虎榜、新城勁爆龍虎榜和勁歌金榜的榜首。此亦是鍾嘉欣首次於中文歌曲龍虎榜及新城勁爆龍虎榜獲冠軍歌曲。本專輯的兩首主打派台歌獲得四冠一亞的佳績，亦是近年首位無綫藝員出身而獲得多支冠軍的歌手。
 
 ## 曲目列表
 
@@ -125,7 +117,7 @@ Yim編曲和監製的《預防針》和《你是我的一半》是Linda擅長的
 <td><p>9.</p></td>
 <td><p>月亮代表我的心</p></td>
 <td><p><a href="../Page/翁清溪.md" title="wikilink">翁清溪</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/孫儀" title="wikilink">孫儀</a></p></td>
+<td><p><a href="../Page/孫儀.md" title="wikilink">孫儀</a></p></td>
 <td><p>韋景雲</p></td>
 <td><p>韋景雲</p></td>
 <td></td>
@@ -419,19 +411,16 @@ Yim編曲和監製的《預防針》和《你是我的一半》是Linda擅長的
 
   - [勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")2012 - 第三回得獎歌曲（《預防針》）
   - [勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")2013 - 第一回得獎歌曲（《你是我的一半》）
-  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")2012
-    - 十大勁歌金曲獎（《預防針》）
+  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")2012 - 十大勁歌金曲獎（《預防針》）
   - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")2012 - 新城勁爆女歌手
   - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")2012 - 新城勁爆新媒體歌曲（《預防針》）
   - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")2013 - 新城勁爆女歌手
   - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")2014 - 新城勁爆女歌手
-  - [IFPI香港唱片銷量大獎](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎 "wikilink")2012
-    - 十大暢銷本地唱片（《Love Love Love》）
+  - [IFPI香港唱片銷量大獎](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎 "wikilink")2012 - 十大暢銷本地唱片（《Love Love Love》）
 
 ## 相關條目
 
-  - 《[鍾嘉欣Love Love
-    Love演唱會2013](../Page/鍾嘉欣Love_Love_Love演唱會2013.md "wikilink")》
+  - 《[鍾嘉欣Love Love Love演唱會2013](../Page/鍾嘉欣Love_Love_Love演唱會2013.md "wikilink")》
 
 ## 註釋
 
@@ -441,28 +430,21 @@ Yim編曲和監製的《預防針》和《你是我的一半》是Linda擅長的
 
 **專輯簡介**
 
-  - [星煥國際﹕Love Love
-    Love唱片](https://web.archive.org/web/20140113093029/http://www.starsshine.com.hk/hkmtype_idolstar/linda/#disc)
-  - [Itunes﹕Love Love
-    Love](https://itunes.apple.com/fr/album/lovelovelove/id640712959)
-  - \[<http://www.kkbox.com/hk/tc/album/.1ID7e4cVdOrPD0F1>..N0091-index.html
-    KKBox﹕Love Love Love\]
+  - [星煥國際﹕Love Love Love唱片](https://web.archive.org/web/20140113093029/http://www.starsshine.com.hk/hkmtype_idolstar/linda/#disc)
+  - [Itunes﹕Love Love Love](https://itunes.apple.com/fr/album/lovelovelove/id640712959)
+  - \[<http://www.kkbox.com/hk/tc/album/.1ID7e4cVdOrPD0F1>..N0091-index.html KKBox﹕Love Love Love\]
   - [新浪網﹕鍾嘉欣《LOVELOVELOVE》新碟專訪](https://web.archive.org/web/20160304185434/http://hk.weibo.com/daily/news/20130122/%E9%8D%BE%E5%98%89%E6%AC%A3%E3%80%8ALOVELOVELOVE%E3%80%8B%E6%96%B0%E7%A2%9F%E5%B0%88%E8%A8%AA-1-1882/1.html)
 
 **唱片評論**
 
   - [佳佳唱片﹕LOVE LOVE LOVE ( CD+DVD )](http://www.ccr.com.tw/goods/246760)
-  - [Yesasia﹕《Love Love Love (CD + DVD)
-    》的產品評論](http://www.yesasia.com/global/love-love-love-cd-dvd/1031958099-0-0-0-zh_TW/info.html)
-  - [新浪網﹕钟嘉欣巩固歌手地位
-    发行最新粤语专辑](http://dailynews.sina.com/gb/ent/music/sinacn/20121113/00263954574.html)
+  - [Yesasia﹕《Love Love Love (CD + DVD) 》的產品評論](http://www.yesasia.com/global/love-love-love-cd-dvd/1031958099-0-0-0-zh_TW/info.html)
+  - [新浪網﹕钟嘉欣巩固歌手地位 发行最新粤语专辑](http://dailynews.sina.com/gb/ent/music/sinacn/20121113/00263954574.html)
 
 **銷量報道**
 
   - [東方日報﹕鍾嘉欣獲贈期票眼濕濕](http://orientaldaily.on.cc/cnt/entertainment/20130127/00282_055.html)
 
-[Category:香港音乐专辑](https://zh.wikipedia.org/wiki/Category:香港音乐专辑 "wikilink")
-[Category:2012年音乐专辑](https://zh.wikipedia.org/wiki/Category:2012年音乐专辑 "wikilink")
-[Category:鍾嘉欣音樂專輯](https://zh.wikipedia.org/wiki/Category:鍾嘉欣音樂專輯 "wikilink")
+[Category:香港音乐专辑](https://zh.wikipedia.org/wiki/Category:香港音乐专辑 "wikilink") [Category:2012年音乐专辑](https://zh.wikipedia.org/wiki/Category:2012年音乐专辑 "wikilink") [Category:鍾嘉欣音樂專輯](https://zh.wikipedia.org/wiki/Category:鍾嘉欣音樂專輯 "wikilink")
 
 1.

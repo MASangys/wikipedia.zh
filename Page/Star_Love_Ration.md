@@ -1,5 +1,4 @@
-《**スターラブレイション**》（Star Love
-Ration\[1\]）為[日本](../Page/日本.md "wikilink")搖滾樂團[ケラケラ於](https://zh.wikipedia.org/wiki/ケラケラ "wikilink")2013年5月15日發行的第二張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+《**スターラブレイション**》（Star Love Ration\[1\]）為[日本](../Page/日本.md "wikilink")搖滾樂團[ケラケラ於](https://zh.wikipedia.org/wiki/ケラケラ "wikilink")2013年5月15日發行的第二張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解說
 
@@ -35,9 +34,7 @@ Ration\[1\]）為[日本](../Page/日本.md "wikilink")搖滾樂團[ケラケラ
 
 ## 外部連結
 
-[ケラケラ官方網站 - 作品列表](http://www.kera2.com/works/)
-[分類:2013年單曲](https://zh.wikipedia.org/wiki/分類:2013年單曲 "wikilink")
-[分類:富士週四劇場主題曲](https://zh.wikipedia.org/wiki/分類:富士週四劇場主題曲 "wikilink")
+[ケラケラ官方網站 - 作品列表](http://www.kera2.com/works/)  [分類:2013年單曲](https://zh.wikipedia.org/wiki/分類:2013年單曲 "wikilink") [分類:富士週四劇場主題曲](https://zh.wikipedia.org/wiki/分類:富士週四劇場主題曲 "wikilink")
 
 1.
 2.

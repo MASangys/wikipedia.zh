@@ -1,5 +1,4 @@
-**Golden
-Bomber**（）是[日本](../Page/日本.md "wikilink")的[視覺系](../Page/視覺系.md "wikilink")[空氣](https://zh.wikipedia.org/wiki/空氣吉他 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")\[1\]。媒體略称是「金爆（きんばく）」\[2\]。
+**Golden Bomber**（）是[日本](../Page/日本.md "wikilink")的[視覺系](../Page/視覺系.md "wikilink")[空氣](https://zh.wikipedia.org/wiki/空氣吉他 "wikilink")[樂隊](https://zh.wikipedia.org/wiki/樂隊 "wikilink")\[1\]。媒體略称是「金爆（きんばく）」\[2\]。
 
 ## 概要
 
@@ -9,15 +8,13 @@ Bomber**（）是[日本](../Page/日本.md "wikilink")的[視覺系](../Page/�
 
 2010年在Live追加公演宣布的重大發表中，公開表示拒絕了七間主流經紀公司的出道邀請\[4\]。
 
-2012年1月14日、15日及21日舉行的Live「一生バカ」，首次登上[日本武道館](../Page/日本武道館.md "wikilink")與大阪城Hall。同年6月17、18日「Oh\!
-金爆ピック～愛の聖火リレー～」全國巡迴Live最終場也首次登上橫濱Arena的舞台。
+2012年1月14日、15日及21日舉行的Live「一生バカ」，首次登上[日本武道館](../Page/日本武道館.md "wikilink")與大阪城Hall。同年6月17、18日「Oh\! 金爆ピック～愛の聖火リレー～」全國巡迴Live最終場也首次登上橫濱Arena的舞台。
 
 2012年11月30日，發表鬼龍院的喉嚨因為需要治療，在2013年1月至4月的活動中止\[5\]，實際是鬼龍院的歌唱活動要控制的意思，否定要中止活動\[6\]。
 
 2012年12月31日於[第63回NHK紅白歌合戰](../Page/第63回NHK紅白歌合戰.md "wikilink")中演唱「女々しくて」，這也是首次有空氣樂團於紅白歌合戰出場。在吉他獨奏時，全場的審查員與觀眾皆一同戴上了鼓手樽美酒研二的塗白妝面具\[7\]，會場2600人也成為演出的一部份。
 
-2013年1月1日發行的新單曲《Dance My
-Generation》，於公信榜1月14日的週排行榜中首次獲得第1名。以地下樂團的身份獲得第1名，是繼[MONGOL800](../Page/MONGOL800.md "wikilink")之後的第2組；但於發行首週即取得第1名的成績，為公信榜的首例。另外，在此排行榜中，也寫下了地下樂團史上最多，同時有11個作品進入前百名的記錄。\[8\]
+2013年1月1日發行的新單曲《Dance My Generation》，於公信榜1月14日的週排行榜中首次獲得第1名。以地下樂團的身份獲得第1名，是繼[MONGOL800](../Page/MONGOL800.md "wikilink")之後的第2組；但於發行首週即取得第1名的成績，為公信榜的首例。另外，在此排行榜中，也寫下了地下樂團史上最多，同時有11個作品進入前百名的記錄。\[8\]
 
 ## 成員
 
@@ -29,20 +26,12 @@ Generation》，於公信榜1月14日的週排行榜中首次獲得第1名。以
 
 畢業於[東京都立向丘高等學校](https://zh.wikipedia.org/wiki/東京都立向丘高等學校 "wikilink")，高中時曾與歌手[木村KAELA](../Page/木村KAELA.md "wikilink")同班，參加的社團為輕音部。與吉他手喜矢武豊在高中時即透過共同好友認識，但兩人高中並不同校。在樂團內曾經扮演過的角色有「鉄腕アトヌ」「夜魔堕さん」「Gockt」「ヤワラちゃん」「翔也」等等。是樂團中唯一一個把自己負責的部分好好完成的人。興趣是作曲，樂團內所有歌曲的作曲、作詞及編曲皆由他完成。另外除了能演奏[吉他](../Page/吉他.md "wikilink")、[貝斯](../Page/電貝斯.md "wikilink")、[爵士鼓](../Page/爵士鼓.md "wikilink")等樂器之外，也會拉[小提琴](../Page/小提琴.md "wikilink")。\[9\]負責構思LIVE中的演出及短劇劇本。
 
-2011年1月5日開始主持個人廣播節目「Golden Bomber鬼龍院翔的All Night
-Nippon」\[10\]。2012年6月20日發行第一本自傳《ゴールデンボンバーのボーカルだけどなんか質問ある？》。同年10月24日發售個人名義單曲「Life
-is SHOW
-TIME」，為[假面騎士Wizard的主題曲](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")。
+2011年1月5日開始主持個人廣播節目「Golden Bomber鬼龍院翔的All Night Nippon」\[10\]。2012年6月20日發行第一本自傳《ゴールデンボンバーのボーカルだけどなんか質問ある？》。同年10月24日發售個人名義單曲「Life is SHOW TIME」，為[假面騎士Wizard的主題曲](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")。
 
-愛用物品為[TAMIYA的T](https://zh.wikipedia.org/wiki/田宮公司 "wikilink")-shirt(タミヤのTシャツ)。由於他經常於[部落格中發表穿著TAMIYA](https://zh.wikipedia.org/wiki/部落格 "wikilink")
-T-shirt的照片而使銷量大增，[田宮公司因此特別寫了感謝信](https://zh.wikipedia.org/wiki/田宮公司 "wikilink")，並致贈鬼龍院翔想要的[爆走兄弟Let's
-&
-Go\!\!限定版](../Page/爆走兄弟Let's_&_Go!!.md "wikilink")[迷你四驅車作為謝禮](https://zh.wikipedia.org/wiki/迷你四驅車 "wikilink")\[11\]。
+愛用物品為[TAMIYA的T](https://zh.wikipedia.org/wiki/田宮公司 "wikilink")-shirt(タミヤのTシャツ)。由於他經常於[部落格中發表穿著TAMIYA](https://zh.wikipedia.org/wiki/部落格 "wikilink") T-shirt的照片而使銷量大增，[田宮公司因此特別寫了感謝信](https://zh.wikipedia.org/wiki/田宮公司 "wikilink")，並致贈鬼龍院翔想要的[爆走兄弟Let's & Go\!\!限定版](../Page/爆走兄弟Let's_&_Go!!.md "wikilink")[迷你四驅車作為謝禮](https://zh.wikipedia.org/wiki/迷你四驅車 "wikilink")\[11\]。
 
-國中時期開始便是[MALICE
-MIZER的](../Page/MALICE_MIZER.md "wikilink")[歌迷](https://zh.wikipedia.org/wiki/歌迷 "wikilink")，相當崇拜[GACKT](../Page/GACKT.md "wikilink")。
-同時也是[B'z](../Page/B'z.md "wikilink")的熱衷歌迷，曾在[Rolling
-Stone日本版雜誌及節目中經常提及](https://zh.wikipedia.org/wiki/Rolling_Stone "wikilink")。
+國中時期開始便是[MALICE MIZER的](../Page/MALICE_MIZER.md "wikilink")[歌迷](https://zh.wikipedia.org/wiki/歌迷 "wikilink")，相當崇拜[GACKT](../Page/GACKT.md "wikilink")。
+同時也是[B'z](../Page/B'z.md "wikilink")的熱衷歌迷，曾在[Rolling Stone日本版雜誌及節目中經常提及](https://zh.wikipedia.org/wiki/Rolling_Stone "wikilink")。
 在專輯『イミテイション・ゴールド〜金爆の名曲二番搾り〜』中展現了對著名歌手的模仿功力，從曲風到唱腔都能夠模仿。
 
 高中畢業後進入[吉本綜合藝能學院](https://zh.wikipedia.org/wiki/吉本綜合藝能學院 "wikilink")，為東京NSC第9期學生。在學期間曾與[搞笑藝人組合](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[しずる的池田一真搭檔](https://zh.wikipedia.org/wiki/しずる "wikilink")，組合名是「チョコサラミ」。解散後又與他人組成「やっと笑えたね」活動。NSC畢業後，認為自己不適合在[搞笑藝人界發展](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")，於是放棄了藝人的道路而開始樂團活動。
@@ -167,8 +156,7 @@ Stone日本版雜誌及節目中經常提及](https://zh.wikipedia.org/wiki/Roll
 
 ### 喜矢武豊
 
-喜矢武 豊（キャン
-ユタカ）。[Guitar](../Page/吉他.md "wikilink")。1985年3月15日出生，B型，身高166cm，東京都出身。愛称是「キャン様」等。
+喜矢武 豊（キャン ユタカ）。[Guitar](../Page/吉他.md "wikilink")。1985年3月15日出生，B型，身高166cm，東京都出身。愛称是「キャン様」等。
 
 在Live與電視上演出時，會做著被稱為「吉他Solo」的特色表演。拼命的過激演出相當多，曾為了吉他Solo的表演特地去考取[焊接](../Page/焊接.md "wikilink")證照、將自己的頭浸在墨汁裡當做毛筆寫書法、在舞台上洗頭及泡澡、快速吃西瓜等等。但其實在Live中，偶爾也會進行真的吉他獨奏，不過由於是空氣樂團，於公開場合總是說自己不會彈吉他，成員也說喜矢武的吉他只是「高中生程度」而已。
 
@@ -180,44 +168,33 @@ Stone日本版雜誌及節目中經常提及](https://zh.wikipedia.org/wiki/Roll
 
 是樂團中唯一吸菸的人。
 
-相當喜歡[GLAY](../Page/GLAY.md "wikilink")和[B'z](../Page/B'z.md "wikilink")，憧憬的樂手是[X
-JAPAN的吉他手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[hide](https://zh.wikipedia.org/wiki/hide "wikilink")。
+相當喜歡[GLAY](../Page/GLAY.md "wikilink")和[B'z](../Page/B'z.md "wikilink")，憧憬的樂手是[X JAPAN的吉他手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[hide](https://zh.wikipedia.org/wiki/hide "wikilink")。
 
-於2012年8月上映的電影『[死ガ二人ヲワカツマデ…](https://zh.wikipedia.org/wiki/死ガ二人ヲワカツマデ… "wikilink")─第1章「色ノナイ青」』中首次以[演員](../Page/演員.md "wikilink")身份演出，並且也是首次擔任主演。2013年3月於日劇[古書堂事件手帖](../Page/古書堂事件手帖.md "wikilink")第9集客串演出\[12\]。
-2013年10月於日本電視台深夜日劇「49」常規演出。劇中飾演一名男公關。
+於2012年8月上映的電影『[死ガ二人ヲワカツマデ…](https://zh.wikipedia.org/wiki/死ガ二人ヲワカツマデ… "wikilink")─第1章「色ノナイ青」』中首次以[演員](../Page/演員.md "wikilink")身份演出，並且也是首次擔任主演。2013年3月於日劇[古書堂事件手帖](../Page/古書堂事件手帖.md "wikilink")第9集客串演出\[12\]。 2013年10月於日本電視台深夜日劇「49」常規演出。劇中飾演一名男公關。
 
 **舞台出演**
 
-2015年　舞台[『ふしぎ遊戯』](http://stage-fushigiyugi.jp/)　2015.03.19\~29
-(共18場)－主演　**鬼宿** （原作：渡瀨悠宇）
+2015年　舞台[『ふしぎ遊戯』](http://stage-fushigiyugi.jp/)　2015.03.19\~29 (共18場)－主演　**鬼宿** （原作：渡瀨悠宇）
 
-2016年　舞台[「GOKÛ」](https://web.archive.org/web/20170422050451/http://stage-goku.jp/)　2016.02.16\~28
-(共19場)－主演　**悟空** （原作：手塚治虫）
+2016年　舞台[「GOKÛ」](https://web.archive.org/web/20170422050451/http://stage-goku.jp/)　2016.02.16\~28 (共19場)－主演　**悟空** （原作：手塚治虫）
 
-2017年　舞台[「犬夜叉」](http://stage-inuyasha.jp/)　2017.04.06\~15
-(共14場)－主演　**犬夜叉**（原作：高橋留美子）
+2017年　舞台[「犬夜叉」](http://stage-inuyasha.jp/)　2017.04.06\~15 (共14場)－主演　**犬夜叉**（原作：高橋留美子）
 
 ### 歌広場淳
 
-歌広場 淳（ウタヒロバ
-ジュン）。[Bass](../Page/電貝斯.md "wikilink")。1985年8月30日出生，O型，身高174cm，[熊本縣](../Page/熊本縣.md "wikilink")出生，[千葉縣](../Page/千葉縣.md "wikilink")長大。2007年4月22日加入。愛称是「うぱ」「じゅんじゅん」「うたひろ」等。本名為高山
-淳（タカヤマ
-ジュン）\[13\]。[日本大学](../Page/日本大学.md "wikilink")[藝術学部文藝学科畢業](https://zh.wikipedia.org/wiki/藝術学部 "wikilink")。2016年6月和同齡的一般女性[結婚](http://ameblo.jp/sexy-m0xi/entry-12183064272.html)。
+歌広場 淳（ウタヒロバ ジュン）。[Bass](../Page/電貝斯.md "wikilink")。1985年8月30日出生，O型，身高174cm，[熊本縣](../Page/熊本縣.md "wikilink")出生，[千葉縣](../Page/千葉縣.md "wikilink")長大。2007年4月22日加入。愛称是「うぱ」「じゅんじゅん」「うたひろ」等。本名為高山 淳（タカヤマ ジュン）\[13\]。[日本大学](../Page/日本大学.md "wikilink")[藝術学部文藝学科畢業](https://zh.wikipedia.org/wiki/藝術学部 "wikilink")。2016年6月和同齡的一般女性[結婚](http://ameblo.jp/sexy-m0xi/entry-12183064272.html)。
 
 由於是空氣樂團，Live中使用的[貝斯和一般常見的四弦不同](../Page/電貝斯.md "wikilink")，僅有三根或二根弦而已，甚至也將弦以線替換。負責樂曲的編舞，以及帶動演唱會中的現場氣氛。
 
 曾說過自己是「樂團中最不起眼的人」。年紀為成員中最小的，卻是四人中負責總結發言的人。不過也有天然呆、粗神經的一面，自稱為「壓倒性的」(壓倒性人類性能低下)。也是樂團內髮色變換最頻繁的人，曾染過的髮色有半黑半金、橘色、銀色、綠色等等，現在的髮色是黑白半染。
 
-加入樂團的契機是大學時期偶然看見了Golden
-Bomber的Live，被樂團的表演吸引。當時正好在招募貝斯手，於是寄出希望能夠加入的郵件。是樂團中唯一透露本名的人，就讀大學時為了宣傳樂團，使得本名也被寫在學校網頁上。之後在[NICONICO動畫的生放送節目](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")「ゴールデンボンバーのニコラジ」中，自己也不小心將本名說出來。
+加入樂團的契機是大學時期偶然看見了Golden Bomber的Live，被樂團的表演吸引。當時正好在招募貝斯手，於是寄出希望能夠加入的郵件。是樂團中唯一透露本名的人，就讀大學時為了宣傳樂團，使得本名也被寫在學校網頁上。之後在[NICONICO動畫的生放送節目](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")「ゴールデンボンバーのニコラジ」中，自己也不小心將本名說出來。
 
-對[視覺系](../Page/視覺系.md "wikilink")樂團相當熟悉，常稱自己是「バンギャ男」。就讀大學時也經常前往Live
-House觀看演出，從那時開始就已經是[メガマソ的吉他手](https://zh.wikipedia.org/wiki/メガマソ "wikilink")[涼平的粉絲](https://zh.wikipedia.org/wiki/涼平 "wikilink")，大學的畢業論文的題目也和涼平有關\[14\]。曾因為太常做出激烈的甩頭（ヘドバン）動作而被醫生要求停止。在樂團中的代表角色為「淳子@[れいたの嫁](https://zh.wikipedia.org/wiki/the_GazettE "wikilink")」。
+對[視覺系](../Page/視覺系.md "wikilink")樂團相當熟悉，常稱自己是「バンギャ男」。就讀大學時也經常前往Live House觀看演出，從那時開始就已經是[メガマソ的吉他手](https://zh.wikipedia.org/wiki/メガマソ "wikilink")[涼平的粉絲](https://zh.wikipedia.org/wiki/涼平 "wikilink")，大學的畢業論文的題目也和涼平有關\[14\]。曾因為太常做出激烈的甩頭（ヘドバン）動作而被醫生要求停止。在樂團中的代表角色為「淳子@[れいたの嫁](https://zh.wikipedia.org/wiki/the_GazettE "wikilink")」。
 
 大學專攻文藝學科，對文學有相當程度的了解，喜歡的作家是[島田雅彥](https://zh.wikipedia.org/wiki/島田雅彥 "wikilink")。另外對音樂劇的造詣也很深，從小時候開始就相當喜歡[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")，直到現在也會去觀賞演出。
 
-目前在雜誌[月刊TVnavi中撰寫個人連載專欄](https://zh.wikipedia.org/wiki/月刊TVnavi "wikilink")「イケメンがなきゃ生きていけない！」，同時也是品牌服飾「MINTNeKO」的代言模特兒。曾在動畫[伊克西翁傳說
-DT第](https://zh.wikipedia.org/wiki/伊克西翁傳說_DT "wikilink")5集中作為[聲優](../Page/聲優.md "wikilink")首度嘗試動畫配音，角色是輕浮男A（チャラ男A）。
+目前在雜誌[月刊TVnavi中撰寫個人連載專欄](https://zh.wikipedia.org/wiki/月刊TVnavi "wikilink")「イケメンがなきゃ生きていけない！」，同時也是品牌服飾「MINTNeKO」的代言模特兒。曾在動畫[伊克西翁傳說 DT第](https://zh.wikipedia.org/wiki/伊克西翁傳說_DT "wikilink")5集中作為[聲優](../Page/聲優.md "wikilink")首度嘗試動畫配音，角色是輕浮男A（チャラ男A）。
 
 2013年3月14日、由歌広場淳企劃的型男水果咖啡廳「オータムリーフ」於[秋葉原](../Page/秋葉原.md "wikilink")開張\[15\]。而在2016年3月30日結束營業。
 
@@ -225,8 +202,7 @@ DT第](https://zh.wikipedia.org/wiki/伊克西翁傳說_DT "wikilink")5集中作
 
 ### 樽美酒研二
 
-樽美酒 研二（ダルビッシュ
-ケンジ）。擔任樂團中爵士鼓手。1980年11月28日出生，A型，身高181cm，[福岡縣出身](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")。2009年4月10日加入。愛称是「ケンジ」「けんじっち」等。
+樽美酒 研二（ダルビッシュ ケンジ）。擔任樂團中爵士鼓手。1980年11月28日出生，A型，身高181cm，[福岡縣出身](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")。2009年4月10日加入。愛称是「ケンジ」「けんじっち」等。
 
 特徵是臉經常畫上纇似[歌舞伎](../Page/歌舞伎.md "wikilink")一般的塗白妝容。臉上塗白的理由是因為「前代鼓手天空城団吉也是塗白妝的緣故」、「會害羞」等等。素顏被說是成員中最好看的，在[部落格及](https://zh.wikipedia.org/wiki/部落格 "wikilink")[雜誌中都曾公開過素顏](https://zh.wikipedia.org/wiki/雜誌 "wikilink")。
 
@@ -234,12 +210,9 @@ DT第](https://zh.wikipedia.org/wiki/伊克西翁傳說_DT "wikilink")5集中作
 
 雖然現在已經作為正式的成員進行樂團活動，可是官方表記中的「暫定」兩字並沒有消除，原因僅是「錯失了更正的時機」。演唱會中是不打鼓的「空氣鼓手」，總是在鼓架後面跳舞，為此甚至將[爵士鼓](../Page/爵士鼓.md "wikilink")中重要的[小鼓](../Page/小鼓.md "wikilink")從鼓架中移除。另外鼓棒是以圓柱狀泡棉製成。
 
-小時候以成為[職業棒球選手為目標](https://zh.wikipedia.org/wiki/職業棒球 "wikilink")，一直專心於棒球的練習（位置是6號[游擊手](https://zh.wikipedia.org/wiki/游擊手 "wikilink")）。進入高中後開始了樂團活動，擔任主唱與吉他手。據說吉他彈得比吉他手喜矢武豊還要好，也能夠演奏貝斯。原本自己的樂團是「青春[龐克系](https://zh.wikipedia.org/wiki/龐克搖滾 "wikilink")」，在加入Golden
-Bomber前完全沒有接觸過[視覺系](../Page/視覺系.md "wikilink")的音樂。加入的契機是透過Golden
-Bomber的錄音師tatsuo推薦而加入。
+小時候以成為[職業棒球選手為目標](https://zh.wikipedia.org/wiki/職業棒球 "wikilink")，一直專心於棒球的練習（位置是6號[游擊手](https://zh.wikipedia.org/wiki/游擊手 "wikilink")）。進入高中後開始了樂團活動，擔任主唱與吉他手。據說吉他彈得比吉他手喜矢武豊還要好，也能夠演奏貝斯。原本自己的樂團是「青春[龐克系](https://zh.wikipedia.org/wiki/龐克搖滾 "wikilink")」，在加入Golden Bomber前完全沒有接觸過[視覺系](../Page/視覺系.md "wikilink")的音樂。加入的契機是透過Golden Bomber的錄音師tatsuo推薦而加入。
 
-相當頻繁的在更新[部落格](https://zh.wikipedia.org/wiki/部落格 "wikilink")，瀏覽人數相當多。曾在2012年生日時收到超過五萬筆的祝賀留言，隔日首次獲得[Ameba部落格綜合排行榜第一名](https://zh.wikipedia.org/wiki/Ameba部落格 "wikilink")，2013年1至3月連續獲得月綜合排行榜第一名。由於常在部落格中發表裸身的照片，發生過數次被管理員刪除照片的事件。於2012年2月2日發行第一本部落格書《ベスト
-オブ オバマブログ》，2013年4月13日發行部落格書第二集。
+相當頻繁的在更新[部落格](https://zh.wikipedia.org/wiki/部落格 "wikilink")，瀏覽人數相當多。曾在2012年生日時收到超過五萬筆的祝賀留言，隔日首次獲得[Ameba部落格綜合排行榜第一名](https://zh.wikipedia.org/wiki/Ameba部落格 "wikilink")，2013年1至3月連續獲得月綜合排行榜第一名。由於常在部落格中發表裸身的照片，發生過數次被管理員刪除照片的事件。於2012年2月2日發行第一本部落格書《ベスト オブ オバマブログ》，2013年4月13日發行部落格書第二集。
 
 曾兩度被邀請為棒球比賽的開球嘉賓。第一次是2012年7月11日於[明治神宮棒球場](../Page/明治神宮棒球場.md "wikilink")舉行的[東京養樂多燕子](../Page/東京養樂多燕子.md "wikilink")與[橫濱DeNA海灣之星](../Page/橫濱DeNA海灣之星.md "wikilink")的比賽。第二次是2013年3月29日，於家鄉的[福岡巨蛋](../Page/福岡巨蛋.md "wikilink")舉行的[福岡軟體銀行鷹與](https://zh.wikipedia.org/wiki/福岡軟體銀行鷹 "wikilink")[東北樂天金鷹的開幕賽](https://zh.wikipedia.org/wiki/東北樂天金鷹 "wikilink")。
 
@@ -263,8 +236,7 @@ Bomber的錄音師tatsuo推薦而加入。
 
   - **天空城 団吉**（テンクウジョウ ダンキチ） 爵士鼓手。1984年8月13日出生。
 
-2007年3月後半作為支援而加入。2007年8月30日離開，2007年11月後半再次加入。2009年4月5日高田馬場CLUB
-PHASE第一次Live退團。愛稱是「天さん」、「天さま」、「団吉くん」、「団吉」等。
+2007年3月後半作為支援而加入。2007年8月30日離開，2007年11月後半再次加入。2009年4月5日高田馬場CLUB PHASE第一次Live退團。愛稱是「天さん」、「天さま」、「団吉くん」、「団吉」等。
 
   - **鶏和酢 里紅**（トリアエズ リク） 鼓手兼工作人員。
 
@@ -2076,16 +2048,11 @@ Oricon週間排名初登場1位</p></td>
 
   - [血祭鉄兵部落格](http://youngjapan.blog67.fc2.com/)
 
-[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink")
-[Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink")
-[Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink")
-[Category:日本唱片大獎作曲獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎作曲獎獲獎者 "wikilink")
-[Category:Oricon卡拉OK年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon卡拉OK年榜冠軍獲得者 "wikilink")
+[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:視覺系](https://zh.wikipedia.org/wiki/Category:視覺系 "wikilink") [Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink") [Category:日本唱片大獎作曲獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎作曲獎獲獎者 "wikilink") [Category:Oricon卡拉OK年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon卡拉OK年榜冠軍獲得者 "wikilink")
 
 1.  [ゴールデンボンバー"ヴィジュアル系エアーバンド" dwango.jp](http://pc.dwango.jp/sp/g_b/)
 2.  [金爆一家 フジテレビ](http://www.fujitv.co.jp/kinbakuikka/)
-3.  [ゴールデンボンバーofficial site
-    まじめなせつめい](http://jp.sound.jp/g_b/setsumei_majime.html)
+3.  [ゴールデンボンバーofficial site まじめなせつめい](http://jp.sound.jp/g_b/setsumei_majime.html)
 4.  [ゴールデンボンバー鬼龍院翔オフィシャルブログ 2010年12月27日](http://ameblo.jp/kiryu-in/entry-10749943727.html)
 5.
 6.  [ゴールデンボンバー鬼龍院翔オフィシャルブログ 2012年11月22日](http://ameblo.jp/kiryu-in/entry-11410129689.html)
@@ -2095,7 +2062,6 @@ Oricon週間排名初登場1位</p></td>
 10. [ゴールデンボンバー鬼龍院翔のオールナイトニッポン](http://www.allnightnippon.com/program/gb/)
 11. [ゴールデンボンバー鬼龍院翔オフィシャルブログ 2010年8月24日](http://ameblo.jp/kiryu-in/entry-10628439184.html)
 12. [ゴールデンボンバーの喜矢武豊が、ドラマ初出演！初出演にして、いきなりの「月9」デビューに注目！『ビブリア古書堂の事件手帖』](http://www.fujitv.co.jp/fujitv/news/pub_2013/i/130307-i032.html)
-
 13. [ゴールデンボンバー歌広場淳オフィシャルブログ 2012年3月3日](http://ameblo.jp/sexy-m0xi/entry-11182251824.html)
 14. [ゴールデンボンバー歌広場淳旧オフィシャルブログ 2007年12月14日](http://blog.livedoor.jp/goldenbomber2/archives/50465546.html)
 15. <http://autumn-leaf.jp/>

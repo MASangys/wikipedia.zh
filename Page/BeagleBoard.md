@@ -1,19 +1,10 @@
-[BeagleBone.jpg](https://zh.wikipedia.org/wiki/File:BeagleBone.jpg "fig:BeagleBone.jpg")
-[Beaglebone_Black.jpg](https://zh.wikipedia.org/wiki/File:Beaglebone_Black.jpg "fig:Beaglebone_Black.jpg")
-**Beagleboard**是一款由[德州仪器](../Page/德州仪器.md "wikilink")与 Digi-Key 和 Newark
-element14
-合作生产的低能耗[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[单板机](../Page/单板机.md "wikilink")。它也是为运行[开源软件](../Page/开源软件.md "wikilink")而构建的一个系统，以及为展示德州仪器的[OMAP](../Page/OMAP.md "wikilink")3530芯片。这个主板由一个小组开发并以对高校展示开源硬件/软件能力为导向而设计。\[1\]\[2\]\[3\]
+[BeagleBone.jpg](https://zh.wikipedia.org/wiki/File:BeagleBone.jpg "fig:BeagleBone.jpg") [Beaglebone_Black.jpg](https://zh.wikipedia.org/wiki/File:Beaglebone_Black.jpg "fig:Beaglebone_Black.jpg") **Beagleboard**是一款由[德州仪器](../Page/德州仪器.md "wikilink")与 Digi-Key 和 Newark element14 合作生产的低能耗[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[单板机](../Page/单板机.md "wikilink")。它也是为运行[开源软件](../Page/开源软件.md "wikilink")而构建的一个系统，以及为展示德州仪器的[OMAP](../Page/OMAP.md "wikilink")3530芯片。这个主板由一个小组开发并以对高校展示开源硬件/软件能力为导向而设计。\[1\]\[2\]\[3\]
 
 ## BeagleBone
 
-BeagleBone 是一款于 2011 年 10 月发布的使用频率为 720 MHz 的 Sitara ARM Cortex-A8
-处理器，带有 256 MB RAM
-的[开发板](https://zh.wikipedia.org/wiki/开发板 "wikilink")，初始定价为
-89 美元。\[4\]
+BeagleBone 是一款于 2011 年 10 月发布的使用频率为 720 MHz 的 Sitara ARM Cortex-A8 处理器，带有 256 MB RAM 的[开发板](https://zh.wikipedia.org/wiki/开发板 "wikilink")，初始定价为 89 美元。\[4\]
 
-近期发布了一些 BeagleBone 的 "Cape"
-([扩展功能板](https://zh.wikipedia.org/wiki/扩展功能板 "wikilink"))。这些
-Capes 可以被堆积装入 BeagleBone (同时可安装 4 块）。这些 Capes 包括但不限于：
+近期发布了一些 BeagleBone 的 "Cape" ([扩展功能板](https://zh.wikipedia.org/wiki/扩展功能板 "wikilink"))。这些 Capes 可以被堆积装入 BeagleBone (同时可安装 4 块）。这些 Capes 包括但不限于：
 
   - LCD 触摸屏板 (7 英寸和 3.5 英寸)
   - [DVI](../Page/DVI.md "wikilink")-D 板
@@ -25,9 +16,7 @@ Capes 可以被堆积装入 BeagleBone (同时可安装 4 块）。这些 Capes 
 
 ## BeagleBone Black
 
-于 2013 年 4 月 23 日发布，售价 45 美元。 它的 RAM 增加到 512 MB，处理器频率达到 1 GHz，增加了
-[HDMI](../Page/HDMI.md "wikilink") 接口和 2 GB 的
-[eMMC](https://zh.wikipedia.org/wiki/嵌入式多媒体卡 "wikilink") 闪存。
+于 2013 年 4 月 23 日发布，售价 45 美元。 它的 RAM 增加到 512 MB，处理器频率达到 1 GHz，增加了 [HDMI](../Page/HDMI.md "wikilink") 接口和 2 GB 的 [eMMC](https://zh.wikipedia.org/wiki/嵌入式多媒体卡 "wikilink") 闪存。
 
 ## 规格
 
@@ -143,19 +132,7 @@ Dedicated single mini-USB client port (no additional 2-port hub)</p></td>
 </tbody>
 </table>
 
-[Fedora](../Page/Fedora.md "wikilink"),
-[Android](../Page/Android.md "wikilink"),
-[Ubuntu](../Page/Ubuntu.md "wikilink"),
-[openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink") 和
-[Ångström](https://zh.wikipedia.org/wiki/埃格斯特朗套件 "wikilink") 已支持
-BeagleBoard 的硬件。BeagleBoard 也支持
-[FreeBSD](../Page/FreeBSD.md "wikilink"),
-[NetBSD](../Page/NetBSD.md "wikilink"),
-[OpenBSD](../Page/OpenBSD.md "wikilink"),
-[QNX](../Page/QNX.md "wikilink"), [MINIX
-3](https://zh.wikipedia.org/wiki/MINIX_3 "wikilink"), [RISC
-OS](../Page/RISC_OS.md "wikilink") 和 [Windows
-Embedded](https://zh.wikipedia.org/wiki/Windows_Embedded "wikilink")。
+[Fedora](../Page/Fedora.md "wikilink"), [Android](../Page/Android.md "wikilink"), [Ubuntu](../Page/Ubuntu.md "wikilink"), [openSUSE](https://zh.wikipedia.org/wiki/openSUSE "wikilink") 和 [Ångström](https://zh.wikipedia.org/wiki/埃格斯特朗套件 "wikilink") 已支持 BeagleBoard 的硬件。BeagleBoard 也支持 [FreeBSD](../Page/FreeBSD.md "wikilink"), [NetBSD](../Page/NetBSD.md "wikilink"), [OpenBSD](../Page/OpenBSD.md "wikilink"), [QNX](../Page/QNX.md "wikilink"), [MINIX 3](https://zh.wikipedia.org/wiki/MINIX_3 "wikilink"), [RISC OS](../Page/RISC_OS.md "wikilink") 和 [Windows Embedded](https://zh.wikipedia.org/wiki/Windows_Embedded "wikilink")。
 
 ## 参考
 
@@ -166,8 +143,7 @@ Embedded](https://zh.wikipedia.org/wiki/Windows_Embedded "wikilink")。
 1.
 2.
 3.
-4.  <https://archive.is/20120911084033/http://www.linuxfordevices.com/c/a/News/BeagleBoardorg-BeagleBone/>
-    $89 dev board includes Cortex-A8 CPU, Ethernet, JTAG
+4.  <https://archive.is/20120911084033/http://www.linuxfordevices.com/c/a/News/BeagleBoardorg-BeagleBone/> $89 dev board includes Cortex-A8 CPU, Ethernet, JTAG
 5.
 6.  <http://www.ti.com/product/am3359>
 7.  <http://www.ti.com/product/am3358>

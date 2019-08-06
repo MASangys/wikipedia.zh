@@ -3,63 +3,39 @@
 ### C07AA 非选择性[β受体阻滞药](https://zh.wikipedia.org/wiki/β受体阻滞药 "wikilink")（Beta blocking agents, non-selective）
 
   -
-    C07AA01
-    [阿普洛尔](https://zh.wikipedia.org/wiki/阿普洛尔 "wikilink")（Alprenolol）
-    C07AA02
-    [氧烯洛尔](https://zh.wikipedia.org/wiki/氧烯洛尔 "wikilink")（Oxprenolol）
-    C07AA03
-    [吲哚洛尔](https://zh.wikipedia.org/wiki/吲哚洛尔 "wikilink")（Pindolol）
+    C07AA01 [阿普洛尔](https://zh.wikipedia.org/wiki/阿普洛尔 "wikilink")（Alprenolol）
+    C07AA02 [氧烯洛尔](https://zh.wikipedia.org/wiki/氧烯洛尔 "wikilink")（Oxprenolol）
+    C07AA03 [吲哚洛尔](https://zh.wikipedia.org/wiki/吲哚洛尔 "wikilink")（Pindolol）
     C07AA05 [普萘洛尔](../Page/普萘洛尔.md "wikilink")（Propranolol）
-    C07AA06
-    [噻吗洛尔](https://zh.wikipedia.org/wiki/噻吗洛尔 "wikilink")（Timolol）
-    C07AA07
-    [索他洛尔](https://zh.wikipedia.org/wiki/索他洛尔 "wikilink")（Sotalol）
-    C07AA12
-    [纳多洛尔](https://zh.wikipedia.org/wiki/纳多洛尔 "wikilink")（Nadolol）
-    C07AA14
-    [甲吲洛尔](https://zh.wikipedia.org/wiki/甲吲洛尔 "wikilink")（Mepindolol）
-    C07AA15
-    [卡替洛尔](https://zh.wikipedia.org/wiki/卡替洛尔 "wikilink")（Carteolol）
-    C07AA16
-    [特他洛尔](https://zh.wikipedia.org/wiki/特他洛尔 "wikilink")（Tertatolol）
+    C07AA06 [噻吗洛尔](https://zh.wikipedia.org/wiki/噻吗洛尔 "wikilink")（Timolol）
+    C07AA07 [索他洛尔](https://zh.wikipedia.org/wiki/索他洛尔 "wikilink")（Sotalol）
+    C07AA12 [纳多洛尔](https://zh.wikipedia.org/wiki/纳多洛尔 "wikilink")（Nadolol）
+    C07AA14 [甲吲洛尔](https://zh.wikipedia.org/wiki/甲吲洛尔 "wikilink")（Mepindolol）
+    C07AA15 [卡替洛尔](https://zh.wikipedia.org/wiki/卡替洛尔 "wikilink")（Carteolol）
+    C07AA16 [特他洛尔](https://zh.wikipedia.org/wiki/特他洛尔 "wikilink")（Tertatolol）
     C07AA17 [波吲洛尔](../Page/波吲洛尔.md "wikilink")（Bopindolol）
-    C07AA19
-    [布拉洛尔](https://zh.wikipedia.org/wiki/布拉洛尔 "wikilink")（Bupranolol）
-    C07AA23
-    [喷布洛尔](https://zh.wikipedia.org/wiki/喷布洛尔 "wikilink")（Penbutolol）
-    C07AA27
-    [氯拉洛尔](https://zh.wikipedia.org/wiki/氯拉洛尔 "wikilink")（Cloranolol）
+    C07AA19 [布拉洛尔](https://zh.wikipedia.org/wiki/布拉洛尔 "wikilink")（Bupranolol）
+    C07AA23 [喷布洛尔](https://zh.wikipedia.org/wiki/喷布洛尔 "wikilink")（Penbutolol）
+    C07AA27 [氯拉洛尔](https://zh.wikipedia.org/wiki/氯拉洛尔 "wikilink")（Cloranolol）
     C07AA57 索他洛尔复方（Sotalol, combinations）
-    QC07AA90
-    [卡拉洛尔](https://zh.wikipedia.org/wiki/卡拉洛尔 "wikilink")（Carazolol）
+    QC07AA90 [卡拉洛尔](https://zh.wikipedia.org/wiki/卡拉洛尔 "wikilink")（Carazolol）
 
 ### C07AB 选择性β受体阻断药（Beta blocking agents, selective）
 
   -
-    C07AB01
-    [普拉洛尔](https://zh.wikipedia.org/wiki/普拉洛尔 "wikilink")（Practolol）
+    C07AB01 [普拉洛尔](https://zh.wikipedia.org/wiki/普拉洛尔 "wikilink")（Practolol）
     C07AB02 [美托洛尔](../Page/美托洛尔.md "wikilink")（Metoprolol）
     C07AB03 [阿替洛尔](../Page/阿替洛尔.md "wikilink")（Atenolol）
-    C07AB04
-    [醋丁洛尔](https://zh.wikipedia.org/wiki/醋丁洛尔 "wikilink")（Acebutolol）
-    C07AB05
-    [倍他洛尔](https://zh.wikipedia.org/wiki/倍他洛尔 "wikilink")（Betaxolol）
-    C07AB06
-    [贝凡洛尔](https://zh.wikipedia.org/wiki/贝凡洛尔 "wikilink")（Bevantolol）
-    C07AB07
-    [比索洛尔](https://zh.wikipedia.org/wiki/比索洛尔 "wikilink")（Bisoprolol）
-    C07AB08
-    [塞利洛尔](https://zh.wikipedia.org/wiki/塞利洛尔 "wikilink")（Celiprolol）
-    C07AB09
-    [艾司洛尔](https://zh.wikipedia.org/wiki/艾司洛尔 "wikilink")（Esmolol）
-    C07AB10
-    [依泮洛尔](https://zh.wikipedia.org/wiki/依泮洛尔 "wikilink")（Epanolol）
-    C07AB11
-    [S-阿替洛尔](https://zh.wikipedia.org/wiki/S-阿替洛尔 "wikilink")（S-atenolol）
-    C07AB12
-    [奈必洛尔](https://zh.wikipedia.org/wiki/奈必洛尔 "wikilink")（Nebivolol）
-    C07AB13
-    [他林洛尔](https://zh.wikipedia.org/wiki/他林洛尔 "wikilink")（Talinolol）
+    C07AB04 [醋丁洛尔](https://zh.wikipedia.org/wiki/醋丁洛尔 "wikilink")（Acebutolol）
+    C07AB05 [倍他洛尔](https://zh.wikipedia.org/wiki/倍他洛尔 "wikilink")（Betaxolol）
+    C07AB06 [贝凡洛尔](https://zh.wikipedia.org/wiki/贝凡洛尔 "wikilink")（Bevantolol）
+    C07AB07 [比索洛尔](https://zh.wikipedia.org/wiki/比索洛尔 "wikilink")（Bisoprolol）
+    C07AB08 [塞利洛尔](https://zh.wikipedia.org/wiki/塞利洛尔 "wikilink")（Celiprolol）
+    C07AB09 [艾司洛尔](https://zh.wikipedia.org/wiki/艾司洛尔 "wikilink")（Esmolol）
+    C07AB10 [依泮洛尔](https://zh.wikipedia.org/wiki/依泮洛尔 "wikilink")（Epanolol）
+    C07AB11 [S-阿替洛尔](https://zh.wikipedia.org/wiki/S-阿替洛尔 "wikilink")（S-atenolol）
+    C07AB12 [奈必洛尔](https://zh.wikipedia.org/wiki/奈必洛尔 "wikilink")（Nebivolol）
+    C07AB13 [他林洛尔](https://zh.wikipedia.org/wiki/他林洛尔 "wikilink")（Talinolol）
     C07AB52 美托洛尔复方（Metoprolol, combinations）
     C07AB57 比索洛尔，复方（Bisoprolol, combinations）
 
@@ -67,8 +43,7 @@
 
   -
     C07AG01 [拉贝洛尔](../Page/拉贝洛尔.md "wikilink")（Labetalol）
-    C07AG02
-    [卡维地洛](https://zh.wikipedia.org/wiki/卡维地洛 "wikilink")（Carvedilol）
+    C07AG02 [卡维地洛](https://zh.wikipedia.org/wiki/卡维地洛 "wikilink")（Carvedilol）
 
 ## C07B β受体阻断药和噻嗪类利尿药的复方（Beta blocking agents and thiazides）
 
@@ -130,8 +105,7 @@
 ### C07DB 选择性β受体阻断药、噻嗪类利尿药和其它利尿药的复方（Beta blocking agents, selective, thiazides and other diuretics）
 
   -
-    C07DB01 阿替洛尔、噻嗪类利尿药和其它利尿药的复方（Atenolol, thiazides and other
-    diuretics）
+    C07DB01 阿替洛尔、噻嗪类利尿药和其它利尿药的复方（Atenolol, thiazides and other diuretics）
 
 ## C07E β受体阻断药和血管舒张药（Beta blocking agents and vasodilators）
 
@@ -155,5 +129,4 @@
 
 ## 参考文献
 
-[Category:药物](https://zh.wikipedia.org/wiki/Category:药物 "wikilink")
-[Category:ATC代码](https://zh.wikipedia.org/wiki/Category:ATC代码 "wikilink")
+[Category:药物](https://zh.wikipedia.org/wiki/Category:药物 "wikilink") [Category:ATC代码](https://zh.wikipedia.org/wiki/Category:ATC代码 "wikilink")

@@ -1,12 +1,8 @@
-Apache **Log4j**是一个基于[Java](../Page/Java.md "wikilink")的日志记录工具。它是由Ceki
-Gülcü首创的，现在则是[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")的一个项目。
-log4j是几种之一。
+Apache **Log4j**是一个基于[Java](../Page/Java.md "wikilink")的日志记录工具。它是由Ceki Gülcü首创的，现在则是[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")的一个项目。 log4j是几种之一。
 
 Gülcü此后开创了[SLF4J](../Page/SLF4J.md "wikilink")和[Logback](http://logback.qos.ch/)项目，意图成为log4j的继任者。
 
-log4j团队创建了log4j的继任者，版本号为[2.0](http://logging.apache.org/log4j/2.x/)的新版本。log4j
-2.0着重于log4j 1.2、1.3、java.util.logging和logback中的问题，并解决这些框架中的架构问题。此外，log4j
-2.0提供了一个插件架构，这使得其更可扩展。log4j 2.0不是与1.x向后兼容的版本\[1\]，虽然有一个“适配器”可用。
+log4j团队创建了log4j的继任者，版本号为[2.0](http://logging.apache.org/log4j/2.x/)的新版本。log4j 2.0着重于log4j 1.2、1.3、java.util.logging和logback中的问题，并解决这些框架中的架构问题。此外，log4j 2.0提供了一个插件架构，这使得其更可扩展。log4j 2.0不是与1.x向后兼容的版本\[1\]，虽然有一个“适配器”可用。
 
 ## log4j 1的日志等级
 
@@ -32,8 +28,7 @@ log4j团队创建了log4j的继任者，版本号为[2.0](http://logging.apache.
 
 Appender使用**Layout**（布局）格式化日志条目。常用的格式化为“一次一行”式日志文件的布局是PatternLayout，其使用一个模式字符串，就像[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")/[C++](../Page/C++.md "wikilink")函数[printf那样](https://zh.wikipedia.org/wiki/printf "wikilink")。此外还有HTMLLayout和XMLLayout，使用[HTML](../Page/HTML.md "wikilink")或XML格式的时候会更方便。
 
-要调试一个表现异常的配置文件，使用[Java
-VM参数](https://zh.wikipedia.org/wiki/Java_VM "wikilink")`-Dlog4j.debug`通过[标准输出输出Log](../Page/標準串流.md "wikilink")4j自身的信息。要获知log4j.propeties的路径，检查`getClass().getResource("/log4j.properties")`或`getClass().getResource("/log4j.xml")`。
+要调试一个表现异常的配置文件，使用[Java VM参数](https://zh.wikipedia.org/wiki/Java_VM "wikilink")`-Dlog4j.debug`通过[标准输出输出Log](../Page/標準串流.md "wikilink")4j自身的信息。要获知log4j.propeties的路径，检查`getClass().getResource("/log4j.properties")`或`getClass().getResource("/log4j.xml")`。
 
 log4j还有一个隐含的“未配置”配置，即一个缺乏log4j的配置但使用了log4j的Java应用程序。这将把一个警告（该程序未配置log4j）打印到标准输出，并提供log4j网站的[URL](https://zh.wikipedia.org/wiki/URL "wikilink")，在那里可以找到警告和配置的详细信息。除了打印此警告，未配置的log4j的应用程序不会打印INFO、DEBUG或TRACE级别的消息，而且还可能不输出更高级别的消息。
 
@@ -89,8 +84,7 @@ log4j还有一个隐含的“未配置”配置，即一个缺乏log4j的配置�
 
 ## TTCC
 
-TTCC是log4j使用的消息格式。TTCC是*Time Thread Category
-Component*（时间、线程、类别、组件）的缩写。例如，采用以下模式（pattern）：
+TTCC是log4j使用的消息格式。TTCC是*Time Thread Category Component*（时间、线程、类别、组件）的缩写。例如，采用以下模式（pattern）：
 
 ` %r [%t] %-5p %c %x - %m%n`
 
@@ -116,19 +110,15 @@ Component*（时间、线程、类别、组件）的缩写。例如，采用以�
   - *log4js*——一个[JavaScript](../Page/JavaScript.md "wikilink")下的移植。最新的版本为2008年发布的1.1版。\[5\]
   - [log4javascript](http://log4javascript.org/)——JavaScript下的另一个移植。最新的版本为2014年5月发布的1.4.6版。\[6\]
   - [JSNLog](http://jsnlog.com/)——JavaScript下的另一移植。在2014年7月，最新的版本为2.7.1，并且定期更新。\[7\]
-  - [Apache Log4net](http://logging.apache.org/log4net/)——微软[.NET
-    Framework下的移植](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")。最新的版本为2013年发布的1.2.13。\[8\]
+  - [Apache Log4net](http://logging.apache.org/log4net/)——微软[.NET Framework下的移植](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")。最新的版本为2013年发布的1.2.13。\[8\]
   - [log4perl](http://mschilli.github.com/log4perl)——log4j日志软件包在一个[Perl](../Page/Perl.md "wikilink")下的移植。最新的版本为2014年5月发布的1.44。\[9\]
   - [log4r](https://archive.is/20121225133348/http://log4r.rubyforge.org/)——一个[Ruby](../Page/Ruby.md "wikilink")下的“移植”。\[10\]
   - [PL-SQL-Logging-Utility](https://github.com/tmuth/Logger---A-PL-SQL-Logging-Utility)——log4j在[PL/SQL下的一种实现](https://zh.wikipedia.org/wiki/PL/SQL "wikilink")。
-  - [Log4db2](http://angoca.github.io/log4db2/)——一个为使用SQL命令和SQL PL代码的DB2
-    LUW的日志记录工具
+  - [Log4db2](http://angoca.github.io/log4db2/)——一个为使用SQL命令和SQL PL代码的DB2 LUW的日志记录工具
 
 ## Apache Log4j 2
 
-Apache Log4j 2是Log4j
-1的继任者，2014年7月其GA版本（正式发布版）发布。该框架被从头重写，并从现有的日志解决方案中获得灵感（包括Log4j
-1和JUL）。该版本与Log4j 1的主要差异是：\[11\]
+Apache Log4j 2是Log4j 1的继任者，2014年7月其GA版本（正式发布版）发布。该框架被从头重写，并从现有的日志解决方案中获得灵感（包括Log4j 1和JUL）。该版本与Log4j 1的主要差异是：\[11\]
 
   - 改进的配置语法
   - 支持XML和JSON配置
@@ -140,9 +130,7 @@ Apache Log4j 2是Log4j
   - 提高了可靠性
   - 配置自动重装
 
-Log4j 2的最被认可的特点之一是“异步记录器”的性能。Log4j 2利用了[LMAX
-Disruptor](http://lmax-exchange.github.io/disruptor/)。例如，在相同的环境下，Log4j
-2可以写每秒超过18,000,000条信息，而其他框架（像Logback和Log4j 1）每秒只能写\< 2,000,000条消息。
+Log4j 2的最被认可的特点之一是“异步记录器”的性能。Log4j 2利用了[LMAX Disruptor](http://lmax-exchange.github.io/disruptor/)。例如，在相同的环境下，Log4j 2可以写每秒超过18,000,000条信息，而其他框架（像Logback和Log4j 1）每秒只能写\< 2,000,000条消息。
 
 Log4j 2提供对SLF4J、Commons Logging、Apache Flume和Log4j 1的支持。
 
@@ -159,9 +147,7 @@ Log4j 2提供对SLF4J、Commons Logging、Apache Flume和Log4j 1的支持。
 
   - [log4j官方主页](http://logging.apache.org/log4j/)
 
-[Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink")
-[Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink")
-[Category:日志文件格式](https://zh.wikipedia.org/wiki/Category:日志文件格式 "wikilink")
+[Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink") [Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink") [Category:日志文件格式](https://zh.wikipedia.org/wiki/Category:日志文件格式 "wikilink")
 
 1.
 2.

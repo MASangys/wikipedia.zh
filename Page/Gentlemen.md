@@ -95,15 +95,13 @@
 
 ## 獎項
 
-  - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆新登場組合（銀獎）
+  - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆新登場組合（銀獎）
 
 ## 参考文献
 
 ## 外部連結
 
   -
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
+[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
 
 1.  [瑚說百道：Gentlemen](http://orientaldaily.on.cc/cnt/lifestyle/20140424/00378_001.html)

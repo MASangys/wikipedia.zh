@@ -2,9 +2,7 @@
 
 ## 概要
 
-「博多傳奇」是 [HKT48](../Page/HKT48.md "wikilink") Team H
-的第2台公演（但官方网站上未写明），但並不是自身的專屬公演或48系的劇場公演，而是類似[AKB48](../Page/AKB48.md "wikilink")（2012新組閣）於2012年11月1日實施的「Waiting」公演，由成員自行設計曲目，而本公演的曲目內容則包括AKB48的單曲、劇場公演以及HKT48自身的第一張單曲《[喜歡！喜歡！小跳步！](../Page/喜歡！喜歡！小跳步！.md "wikilink")》（）的主打曲及其c/w曲。
-
+「博多傳奇」是 [HKT48](../Page/HKT48.md "wikilink") Team H 的第2台公演（但官方网站上未写明），但並不是自身的專屬公演或48系的劇場公演，而是類似[AKB48](../Page/AKB48.md "wikilink")（2012新組閣）於2012年11月1日實施的「Waiting」公演，由成員自行設計曲目，而本公演的曲目內容則包括AKB48的單曲、劇場公演以及HKT48自身的第一張單曲《[喜歡！喜歡！小跳步！](../Page/喜歡！喜歡！小跳步！.md "wikilink")》（）的主打曲及其c/w曲。
 本公演於2013年2月17日的“[手牽手](https://zh.wikipedia.org/wiki/TeamS_2nd_Stage「手牽手」#HKT48_teamH_1st_Stage「手牽手」公演 "wikilink")”公演的千秋樂中發表。
 
 ## 公演内容
@@ -17,8 +15,7 @@
         全HKT48公演通用。
 1.  《HKT48》
     （作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲：、編曲：[高梨康治](../Page/高梨康治.md "wikilink")）
-2.  《[因為喜歡你（「因為喜歡你」博多方言 ver.）](../Page/RIVER_\(AKB48單曲\).md "wikilink")》
-    （）
+2.  《[因為喜歡你（「因為喜歡你」博多方言 ver.）](../Page/RIVER_\(AKB48單曲\).md "wikilink")》 （）
     （作詞：秋元康、作曲：[織田哲郎](../Page/織田哲郎.md "wikilink")、編曲：（））
 3.  《[男友制作法](../Page/Team_K_4th_Stage“最终钟声鸣响”.md "wikilink")》 （）
     （作詞：秋元康、作曲：、編曲：百石元）
@@ -57,8 +54,7 @@
     （作詞：秋元康、作曲：小川耕太、編曲：生田真心）
 3.  《[喜歡！喜歡！小跳步！](../Page/喜歡！喜歡！小跳步！.md "wikilink")》（）
     （作詞：秋元康、作曲：、編曲：武藤星児）
-4.  《[白襯衫](https://zh.wikipedia.org/wiki/TeamB_3rd_Stage“睡衣兜风” "wikilink")》
-    （）
+4.  《[白襯衫](https://zh.wikipedia.org/wiki/TeamB_3rd_Stage“睡衣兜风” "wikilink")》 （）
     （作詞：秋元康、作編曲：上田晃司）
 
 
@@ -73,28 +69,16 @@
 ### 公演概要
 
   - 公演期間：2013年3月1日 - 2014年4月17日\[1\]　共110场
-      - 2013年4月5日於[AKB48劇場](../Page/AKB48劇場.md "wikilink")進行出張公演
-        （支援成員為[山田麻莉奈](https://zh.wikipedia.org/wiki/山田麻莉奈 "wikilink")）
-
-      - 2013年5月11日於[TOKYO DOME CITY
-        HALL進行公演](https://zh.wikipedia.org/wiki/MEETS_PORT#TOKYO_DOME_CITY_HALL "wikilink")
-        （支援成員為[朝長美櫻](../Page/朝長美櫻.md "wikilink")）
+      - 2013年4月5日於[AKB48劇場](../Page/AKB48劇場.md "wikilink")進行出張公演 （支援成員為[山田麻莉奈](https://zh.wikipedia.org/wiki/山田麻莉奈 "wikilink")）
+      - 2013年5月11日於[TOKYO DOME CITY HALL進行公演](https://zh.wikipedia.org/wiki/MEETS_PORT#TOKYO_DOME_CITY_HALL "wikilink") （支援成員為[朝長美櫻](../Page/朝長美櫻.md "wikilink")）
 
 <!-- end list -->
 
   - 出演成員
       - [穴井千尋](../Page/穴井千尋.md "wikilink")、[植木南央](../Page/植木南央.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")、[熊澤世莉奈](https://zh.wikipedia.org/wiki/熊澤世莉奈 "wikilink")、[兒玉遙](../Page/兒玉遙.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[下野由貴](../Page/下野由貴.md "wikilink")、[田中菜津美](../Page/田中菜津美.md "wikilink")、[中西智代梨](../Page/中西智代梨.md "wikilink")、[松岡菜摘](../Page/松岡菜摘.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[村重杏奈](../Page/村重杏奈.md "wikilink")、[本村碧唯](../Page/本村碧唯.md "wikilink")、[森保圓](../Page/森保圓.md "wikilink")（）、[若田部遙](https://zh.wikipedia.org/wiki/若田部遙 "wikilink")、支援成员（研究生）
       - 上述成員缺席時，會由研究生代演
-      - 由於Team
-        H只有15名成員，所以每場公演都會與一名支援成員一同演出，其位置由[山田麻莉奈](https://zh.wikipedia.org/wiki/山田麻莉奈 "wikilink")\[2\]
-        、[谷真理佳](../Page/谷真理佳.md "wikilink")\[3\]
-        、[今田美奈](https://zh.wikipedia.org/wiki/今田美奈 "wikilink")\[4\]
-        、[朝長美櫻](../Page/朝長美櫻.md "wikilink")\[5\]
-        、[岡田栞奈](https://zh.wikipedia.org/wiki/岡田栞奈 "wikilink")\[6\]
-        和 [後藤泉](https://zh.wikipedia.org/wiki/後藤泉 "wikilink")\[7\]
-        等人輪流交替
-          - 在2013年6月21日，[AKB48](../Page/AKB48.md "wikilink")的[單曲選拔組到了](https://zh.wikipedia.org/wiki/AKB48第32張單曲選拔總選舉 "wikilink")[福岡進行](https://zh.wikipedia.org/wiki/福岡 "wikilink")[PV拍攝工作](https://zh.wikipedia.org/wiki/戀愛幸運餅 "wikilink")。因此[AKB48](../Page/AKB48.md "wikilink")的[渡邊麻友](../Page/渡邊麻友.md "wikilink")作特別嘉賓出演當天公演的前座Girl\[8\]
-            ，與[熊澤世莉奈](https://zh.wikipedia.org/wiki/熊澤世莉奈 "wikilink")、[田中菜津美](../Page/田中菜津美.md "wikilink")披露了[遺憾少女](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")（）、而[SKE48](../Page/SKE48.md "wikilink")的[須田亞香里](../Page/須田亞香里.md "wikilink")則於公演上發動[安可](../Page/安可.md "wikilink")。除了渡邊、須田外，同場觀賞公演的還有[SKE48](../Page/SKE48.md "wikilink")的[松井玲奈](../Page/松井玲奈.md "wikilink")和[NMB48](../Page/NMB48.md "wikilink")的[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")。
+      - 由於Team H只有15名成員，所以每場公演都會與一名支援成員一同演出，其位置由[山田麻莉奈](https://zh.wikipedia.org/wiki/山田麻莉奈 "wikilink")\[2\] 、[谷真理佳](../Page/谷真理佳.md "wikilink")\[3\] 、[今田美奈](https://zh.wikipedia.org/wiki/今田美奈 "wikilink")\[4\] 、[朝長美櫻](../Page/朝長美櫻.md "wikilink")\[5\] 、[岡田栞奈](https://zh.wikipedia.org/wiki/岡田栞奈 "wikilink")\[6\] 和 [後藤泉](https://zh.wikipedia.org/wiki/後藤泉 "wikilink")\[7\] 等人輪流交替
+          - 在2013年6月21日，[AKB48](../Page/AKB48.md "wikilink")的[單曲選拔組到了](https://zh.wikipedia.org/wiki/AKB48第32張單曲選拔總選舉 "wikilink")[福岡進行](https://zh.wikipedia.org/wiki/福岡 "wikilink")[PV拍攝工作](https://zh.wikipedia.org/wiki/戀愛幸運餅 "wikilink")。因此[AKB48](../Page/AKB48.md "wikilink")的[渡邊麻友](../Page/渡邊麻友.md "wikilink")作特別嘉賓出演當天公演的前座Girl\[8\] ，與[熊澤世莉奈](https://zh.wikipedia.org/wiki/熊澤世莉奈 "wikilink")、[田中菜津美](../Page/田中菜津美.md "wikilink")披露了[遺憾少女](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")（）、而[SKE48](../Page/SKE48.md "wikilink")的[須田亞香里](../Page/須田亞香里.md "wikilink")則於公演上發動[安可](../Page/安可.md "wikilink")。除了渡邊、須田外，同場觀賞公演的還有[SKE48](../Page/SKE48.md "wikilink")的[松井玲奈](../Page/松井玲奈.md "wikilink")和[NMB48](../Page/NMB48.md "wikilink")的[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")。
 
 <!-- end list -->
 
@@ -149,8 +133,7 @@
 
 ## 外部連結
 
-[Category:HKT48](https://zh.wikipedia.org/wiki/Category:HKT48 "wikilink")
-[Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink")
+[Category:HKT48](https://zh.wikipedia.org/wiki/Category:HKT48 "wikilink") [Category:AKB48集團公演](https://zh.wikipedia.org/wiki/Category:AKB48集團公演 "wikilink")
 
 1.
 2.  山田麻莉奈的初日公演為2013年3月1日。

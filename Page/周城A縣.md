@@ -19,5 +19,4 @@
 
 以农业为主。
 
-[Category:越南县份](https://zh.wikipedia.org/wiki/Category:越南县份 "wikilink")
-[Category:后江省](https://zh.wikipedia.org/wiki/Category:后江省 "wikilink")
+[Category:越南县份](https://zh.wikipedia.org/wiki/Category:越南县份 "wikilink") [Category:后江省](https://zh.wikipedia.org/wiki/Category:后江省 "wikilink")

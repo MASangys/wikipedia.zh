@@ -54,9 +54,6 @@
 
 ## 参考文献
 
-[Category:1959年建立的獎項](https://zh.wikipedia.org/wiki/Category:1959年建立的獎項 "wikilink")
-[Category:英国文学奖](https://zh.wikipedia.org/wiki/Category:英国文学奖 "wikilink")
-[Category:以人名命名的奖项](https://zh.wikipedia.org/wiki/Category:以人名命名的奖项 "wikilink")
+[Category:1959年建立的獎項](https://zh.wikipedia.org/wiki/Category:1959年建立的獎項 "wikilink") [Category:英国文学奖](https://zh.wikipedia.org/wiki/Category:英国文学奖 "wikilink") [Category:以人名命名的奖项](https://zh.wikipedia.org/wiki/Category:以人名命名的奖项 "wikilink")
 
-1.  [WH Smith Literary Award at
-    LibraryThing](http://www.librarything.com/bookaward/WH%20Smith%20Literary%20Award)
+1.  [WH Smith Literary Award at LibraryThing](http://www.librarything.com/bookaward/WH%20Smith%20Literary%20Award)

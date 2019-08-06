@@ -19,8 +19,4 @@
   - [酸碱指示剂](../Page/酸碱指示剂.md "wikilink")
   - [电泳](../Page/电泳.md "wikilink")
 
-[Category:偶氮染料](https://zh.wikipedia.org/wiki/Category:偶氮染料 "wikilink")
-[Category:染色着色剂](https://zh.wikipedia.org/wiki/Category:染色着色剂 "wikilink")
-[Category:2-萘酚](https://zh.wikipedia.org/wiki/Category:2-萘酚 "wikilink")
-[Category:萘磺酸盐](https://zh.wikipedia.org/wiki/Category:萘磺酸盐 "wikilink")
-[Category:缺少物质图片的化学品条目](https://zh.wikipedia.org/wiki/Category:缺少物质图片的化学品条目 "wikilink")
+[Category:偶氮染料](https://zh.wikipedia.org/wiki/Category:偶氮染料 "wikilink") [Category:染色着色剂](https://zh.wikipedia.org/wiki/Category:染色着色剂 "wikilink") [Category:2-萘酚](https://zh.wikipedia.org/wiki/Category:2-萘酚 "wikilink") [Category:萘磺酸盐](https://zh.wikipedia.org/wiki/Category:萘磺酸盐 "wikilink") [Category:缺少物质图片的化学品条目](https://zh.wikipedia.org/wiki/Category:缺少物质图片的化学品条目 "wikilink")

@@ -2,7 +2,6 @@
 
 ## 脚注
 
-[Category:1965年电影](https://zh.wikipedia.org/wiki/Category:1965年电影 "wikilink")
-[Category:英國電影作品](https://zh.wikipedia.org/wiki/Category:英國電影作品 "wikilink")
+[Category:1965年电影](https://zh.wikipedia.org/wiki/Category:1965年电影 "wikilink") [Category:英國電影作品](https://zh.wikipedia.org/wiki/Category:英國電影作品 "wikilink")
 
 1.

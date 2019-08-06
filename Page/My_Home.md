@@ -1,12 +1,8 @@
-《**My
-Home**》（）是[日本](../Page/日本.md "wikilink")男子組合[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第17張單曲，於2011年5月11日由[Imperial
-Records發行](https://zh.wikipedia.org/wiki/Imperial_Records "wikilink")。
+《**My Home**》（）是[日本](../Page/日本.md "wikilink")男子組合[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第17張單曲，於2011年5月11日由[Imperial Records發行](https://zh.wikipedia.org/wiki/Imperial_Records "wikilink")。
 
 ## 概要
 
-是2011第2張單曲。 主題曲「マイホーム(My
-Home)」是[錦戶亮主演](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")『養狗這回事』的主題歌。連ドラの主題歌を務めるのは、『GM〜踊れドクター』以来約9か月ぶり、2回目。
-通常盤收錄大倉和丸山的『二人の花』、横山和村上的『はにかみオブリガード』。
+是2011第2張單曲。 主題曲「マイホーム(My Home)」是[錦戶亮主演](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")『養狗這回事』的主題歌。連ドラの主題歌を務めるのは、『GM〜踊れドクター』以来約9か月ぶり、2回目。 通常盤收錄大倉和丸山的『二人の花』、横山和村上的『はにかみオブリガード』。
 
 ## 收錄曲
 
@@ -38,8 +34,4 @@ Home)」是[錦戶亮主演](https://zh.wikipedia.org/wiki/錦戶亮 "wikilink")
 
 ## 參考資料
 
-[Category:關西傑尼斯8歌曲](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8歌曲 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2011年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年Japan_Hot_100冠軍歌曲 "wikilink")
-[Category:朝日電視台週五晚間連續劇主題曲](https://zh.wikipedia.org/wiki/Category:朝日電視台週五晚間連續劇主題曲 "wikilink")
+[Category:關西傑尼斯8歌曲](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8歌曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink") [Category:2011年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年Japan_Hot_100冠軍歌曲 "wikilink") [Category:朝日電視台週五晚間連續劇主題曲](https://zh.wikipedia.org/wiki/Category:朝日電視台週五晚間連續劇主題曲 "wikilink")

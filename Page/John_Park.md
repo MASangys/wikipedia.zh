@@ -1,6 +1,4 @@
-**John Park**（，），全名**John Andrew
-Park**，本名**朴成奎**（），是一位美籍[韓裔](https://zh.wikipedia.org/wiki/韓裔 "wikilink")[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")。他在2010年參加《[美國偶像](../Page/美國偶像.md "wikilink")》[第9季入選準決賽](https://zh.wikipedia.org/wiki/美國偶像_\(第九季\) "wikilink")，排名第二十；也在[Mnet媒體](../Page/Mnet媒體.md "wikilink")的音樂選秀節目《[Superstar
-K](https://zh.wikipedia.org/wiki/Superstar_K "wikilink")》第二季中獲得亞軍，並簽約為旗下歌手\[1\]。
+**John Park**（，），全名**John Andrew Park**，本名**朴成奎**（），是一位美籍[韓裔](https://zh.wikipedia.org/wiki/韓裔 "wikilink")[男歌手](https://zh.wikipedia.org/wiki/男歌手 "wikilink")。他在2010年參加《[美國偶像](../Page/美國偶像.md "wikilink")》[第9季入選準決賽](https://zh.wikipedia.org/wiki/美國偶像_\(第九季\) "wikilink")，排名第二十；也在[Mnet媒體](../Page/Mnet媒體.md "wikilink")的音樂選秀節目《[Superstar K](https://zh.wikipedia.org/wiki/Superstar_K "wikilink")》第二季中獲得亞軍，並簽約為旗下歌手\[1\]。
 
 ## 音樂作品
 
@@ -162,25 +160,19 @@ K](https://zh.wikipedia.org/wiki/Superstar_K "wikilink")》第二季中獲得亞
 
 ## 綜藝節目
 
-  - 2013年：[KBS
-    2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《逃離危機NO
-    1》整形的危險性
+  - 2013年：[KBS 2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《逃離危機NO 1》整形的危險性
   - 2013-2014年：[KBS](../Page/韓國放送公社.md "wikilink")《[我們小區藝體能](../Page/我們小區藝體能.md "wikilink")》14－24集（羽毛球特輯）
   - 2013-2014年：KBS《我們小區藝體能》28－38、41－43集（籃球特輯）
   - 2013年：[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[無限挑戰](../Page/無限挑戰.md "wikilink")》341－342集（综艺夏令营）
   - 2013年：KBS2《[Happy Together](../Page/歡樂在一起.md "wikilink")》316集
-  - 2013年：[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[Running
-    Man](../Page/Running_Man.md "wikilink")》159集
-  - 2013年：MBC《[黃金漁場 Radio
-    Star](https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star "wikilink")》
-    349集
+  - 2013年：[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[Running Man](../Page/Running_Man.md "wikilink")》159集
+  - 2013年：MBC《[黃金漁場 Radio Star](https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star "wikilink")》 349集
   - 2014年：SBS《Running Man》179－180集
   - 2014年：KBS《我們小區藝體能》39－40集（羽毛球新年特輯）
   - 2014年：KBS《我們小區藝體能》44－45集（冬奥会特辑）
   - 2014年：KBS《我們小區藝體能》46－50、52集（跆拳道特輯）
   - 2014年：SBS《[都市的法則](../Page/都市的法則.md "wikilink")》第3集旁白、第6集後正式加入（紐約篇）
-  - 2015年：[JTBC](../Page/JTBC.md "wikilink")《[TwoYoo Project-Sugar
-    Man](https://zh.wikipedia.org/wiki/TwoYoo_Project-Sugar_Man "wikilink")》1－2集（試播集）
+  - 2015年：[JTBC](../Page/JTBC.md "wikilink")《[TwoYoo Project-Sugar Man](https://zh.wikipedia.org/wiki/TwoYoo_Project-Sugar_Man "wikilink")》1－2集（試播集）
   - 2015年：SBS《Running Man》265集
   - 2015年：KBS《[兩天一夜](../Page/兩天一夜.md "wikilink")》
   - 2015年：MBC《無限挑戰》453－454集
@@ -193,10 +185,8 @@ K](https://zh.wikipedia.org/wiki/Superstar_K "wikilink")》第二季中獲得亞
   - 2017年：MBC《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》115－116集
   - 2017年：JTBC《[認識的哥哥](../Page/認識的哥哥.md "wikilink")》80集
   - 2017年：O'live 和 tvN《[岛剑客](../Page/岛剑客.md "wikilink")》13-17集
-  - 2018年：[Netflix](../Page/Netflix.md "wikilink") 《Busted\!
-    [明星來解謎](../Page/明星來解謎.md "wikilink") 》EP6 飾演 天才偵探團的偵探
-  - 2019: tvN 《[在當地吃得開嗎 (第三季)](../Page/在當地吃得開嗎_\(第三季\).md "wikilink")
-    美國篇》全集
+  - 2018年：[Netflix](../Page/Netflix.md "wikilink") 《Busted\! [明星來解謎](../Page/明星來解謎.md "wikilink") 》EP6 飾演 天才偵探團的偵探
+  - 2019: tvN 《[在當地吃得開嗎 (第三季)](../Page/在當地吃得開嗎_\(第三季\).md "wikilink") 美國篇》全集
 
 ## 獎項
 
@@ -301,10 +291,6 @@ K](https://zh.wikipedia.org/wiki/Superstar_K "wikilink")》第二季中獲得亞
   -
   -
   -
-[Category:美國偶像參與者](https://zh.wikipedia.org/wiki/Category:美國偶像參與者 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:美國西北大學校友](https://zh.wikipedia.org/wiki/Category:美國西北大學校友 "wikilink")
-[Category:韓國創作歌手](https://zh.wikipedia.org/wiki/Category:韓國創作歌手 "wikilink")
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
+[Category:美國偶像參與者](https://zh.wikipedia.org/wiki/Category:美國偶像參與者 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:美國西北大學校友](https://zh.wikipedia.org/wiki/Category:美國西北大學校友 "wikilink") [Category:韓國創作歌手](https://zh.wikipedia.org/wiki/Category:韓國創作歌手 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
 
 1.

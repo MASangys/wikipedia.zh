@@ -1,13 +1,8 @@
-《**S×W×A×G**》是[板野友美](../Page/板野友美.md "wikilink")的第1张[原创专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")。由[King
-Records于](https://zh.wikipedia.org/wiki/King_Records "wikilink")2014年7月2日发行\[1\]。
+《**S×W×A×G**》是[板野友美](../Page/板野友美.md "wikilink")的第1张[原创专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")。由[King Records于](https://zh.wikipedia.org/wiki/King_Records "wikilink")2014年7月2日发行\[1\]。
 
 ## 简介
 
-专辑分为附有DVD的初回限定盘、只含有CD的通常盘及与合作的Samantha
-Vega盘共3版本发行\[2\]，初回版与通常版的CD收录曲目相同。专辑中收录了自第一张单曲《[Dear
-J](../Page/Dear_J.md "wikilink")》至第五张单曲《[little](https://zh.wikipedia.org/wiki/little "wikilink")》内的所有单曲以及《[Wanna
-be
-now](../Page/Wanna_be_now.md "wikilink")》与《[爱的耳环](https://zh.wikipedia.org/wiki/爱的耳环 "wikilink")》（）两首下载限定的歌曲，并收录另外四曲新曲，共15首歌曲\[3\]。
+专辑分为附有DVD的初回限定盘、只含有CD的通常盘及与合作的Samantha Vega盘共3版本发行\[2\]，初回版与通常版的CD收录曲目相同。专辑中收录了自第一张单曲《[Dear J](../Page/Dear_J.md "wikilink")》至第五张单曲《[little](https://zh.wikipedia.org/wiki/little "wikilink")》内的所有单曲以及《[Wanna be now](../Page/Wanna_be_now.md "wikilink")》与《[爱的耳环](https://zh.wikipedia.org/wiki/爱的耳环 "wikilink")》（）两首下载限定的歌曲，并收录另外四曲新曲，共15首歌曲\[3\]。
 
 ## 活动
 
@@ -30,9 +25,7 @@ now](../Page/Wanna_be_now.md "wikilink")》与《[爱的耳环](https://zh.wikip
       - [通常盤](http://www.kingrecords.co.jp/cs/g/gKICS-3075/)
       - [初回限定盤](http://www.kingrecords.co.jp/cs/g/gKICS-93075/)
 
-[Category:2014年音乐专辑](https://zh.wikipedia.org/wiki/Category:2014年音乐专辑 "wikilink")
-[Category:板野友美歌曲](https://zh.wikipedia.org/wiki/Category:板野友美歌曲 "wikilink")
-[Category:King_Records音樂專輯](https://zh.wikipedia.org/wiki/Category:King_Records音樂專輯 "wikilink")
+[Category:2014年音乐专辑](https://zh.wikipedia.org/wiki/Category:2014年音乐专辑 "wikilink") [Category:板野友美歌曲](https://zh.wikipedia.org/wiki/Category:板野友美歌曲 "wikilink") [Category:King_Records音樂專輯](https://zh.wikipedia.org/wiki/Category:King_Records音樂專輯 "wikilink")
 
 1.
 2.

@@ -123,18 +123,6 @@ Tabitha Taylor</p></td>
 
   -
   -
-[Category:2012年美国电影](https://zh.wikipedia.org/wiki/Category:2012年美国电影 "wikilink")
-[Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink")
-[Category:2010年代喜剧片](https://zh.wikipedia.org/wiki/Category:2010年代喜剧片 "wikilink")
-[Category:2012年恐怖片](https://zh.wikipedia.org/wiki/Category:2012年恐怖片 "wikilink")
-[Category:2012年3D电影](https://zh.wikipedia.org/wiki/Category:2012年3D电影 "wikilink")
-[Category:美国喜劇恐怖片](https://zh.wikipedia.org/wiki/Category:美国喜劇恐怖片 "wikilink")
-[Category:美国3D电影](https://zh.wikipedia.org/wiki/Category:美国3D电影 "wikilink")
-[Category:情色電影](https://zh.wikipedia.org/wiki/Category:情色電影 "wikilink")
-[Category:北卡羅來納州取景電影](https://zh.wikipedia.org/wiki/Category:北卡羅來納州取景電影 "wikilink")
-[Category:续集电影](https://zh.wikipedia.org/wiki/Category:续集电影 "wikilink")
-[Category:溫斯坦影業電影](https://zh.wikipedia.org/wiki/Category:溫斯坦影業電影 "wikilink")
-[Category:魚電影](https://zh.wikipedia.org/wiki/Category:魚電影 "wikilink")
-[Category:2010年代喜劇恐怖片](https://zh.wikipedia.org/wiki/Category:2010年代喜劇恐怖片 "wikilink")
+[Category:2012年美国电影](https://zh.wikipedia.org/wiki/Category:2012年美国电影 "wikilink") [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:2010年代喜剧片](https://zh.wikipedia.org/wiki/Category:2010年代喜剧片 "wikilink") [Category:2012年恐怖片](https://zh.wikipedia.org/wiki/Category:2012年恐怖片 "wikilink") [Category:2012年3D电影](https://zh.wikipedia.org/wiki/Category:2012年3D电影 "wikilink") [Category:美国喜劇恐怖片](https://zh.wikipedia.org/wiki/Category:美国喜劇恐怖片 "wikilink") [Category:美国3D电影](https://zh.wikipedia.org/wiki/Category:美国3D电影 "wikilink") [Category:美国情色片](https://zh.wikipedia.org/wiki/Category:美国情色片 "wikilink") [Category:北卡羅來納州取景電影](https://zh.wikipedia.org/wiki/Category:北卡羅來納州取景電影 "wikilink") [Category:续集电影](https://zh.wikipedia.org/wiki/Category:续集电影 "wikilink") [Category:溫斯坦影業電影](https://zh.wikipedia.org/wiki/Category:溫斯坦影業電影 "wikilink") [Category:魚電影](https://zh.wikipedia.org/wiki/Category:魚電影 "wikilink") [Category:2010年代喜劇恐怖片](https://zh.wikipedia.org/wiki/Category:2010年代喜劇恐怖片 "wikilink")
 
 1.

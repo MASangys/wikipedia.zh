@@ -1,16 +1,14 @@
-**TFBOYS**（全名**The Fighting
-Boys**，又稱**加油男孩**\[1\]），2013年[中國大陸推出的男子團體](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")\[2\]，成員有[王俊凱](https://zh.wikipedia.org/wiki/王俊凱 "wikilink")、[王源和](../Page/王源_\(艺人\).md "wikilink")[易烊千璽](https://zh.wikipedia.org/wiki/易烊千璽 "wikilink")。以網絡傳播的方式竄紅\[3\]。
+**TFBOYS**（全名**The Fighting Boys**，又稱**加油男孩**\[1\]），2013年[中國大陸推出的男子團體](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")\[2\]，成員有[王俊凱](https://zh.wikipedia.org/wiki/王俊凱 "wikilink")、[王源和](../Page/王源_\(艺人\).md "wikilink")[易烊千璽](https://zh.wikipedia.org/wiki/易烊千璽 "wikilink")。以網絡傳播的方式竄紅\[3\]。
 
 ## 簡介
 
 出道前，成員王俊凱與王源為[重慶市](https://zh.wikipedia.org/wiki/重慶市 "wikilink")[时代峰峻練習生](https://zh.wikipedia.org/wiki/北京时代峰峻文化艺术发展有限公司 "wikilink")，以免費的方式提供培訓。
 
-2013年7月28日，TF家族的練習生[王俊凱](https://zh.wikipedia.org/wiki/王俊凱 "wikilink")、[王源與](../Page/王源_\(艺人\).md "wikilink")[易烊千璽組成男子偶像組合](https://zh.wikipedia.org/wiki/易烊千璽 "wikilink")「TFBOYS」。同年8月6日發布組合形象片《十年》正式出道。10月18日，首張EP《Heart
-夢·出發》正式發行。
+2013年7月28日，TF家族的練習生[王俊凱](https://zh.wikipedia.org/wiki/王俊凱 "wikilink")、[王源與](../Page/王源_\(艺人\).md "wikilink")[易烊千璽組成男子偶像組合](https://zh.wikipedia.org/wiki/易烊千璽 "wikilink")「TFBOYS」。同年8月6日發布組合形象片《十年》正式出道。10月18日，首張EP《Heart 夢·出發》正式發行。
 
 2016年2月初次登上[中央電視台](https://zh.wikipedia.org/wiki/中央電視台 "wikilink")[春節聯歡晚會表演](https://zh.wikipedia.org/wiki/春節聯歡晚會 "wikilink")。
 
-2017年9月，三名成員分別成立個人工作室，並開通個人工作室官方微博。時代峰峻公司表示，此次調整的目的是在優先保證組合活動的前提下，追求個人更大的發展空間，組合不會因此解散，也不是真正的單飛\[4\]。
+2017年9月，三名成員分別成立個人工作室，並開通個人工作室官方微博。時代峰峻公司表示，此次調整的目的是在優先保證組合活動的前提下，追求個人更大的發展空間\[4\]。
 
 ## 成員列表
 
@@ -164,7 +162,7 @@ Boys**，又稱**加油男孩**\[1\]），2013年[中國大陸推出的男子團
 
 ## 影视作品
 
-## 官方Fanmeeting
+## 演唱會
 
 <table>
 <thead>
@@ -179,7 +177,7 @@ Boys**，又稱**加油男孩**\[1\]），2013年[中國大陸推出的男子團
 <tbody>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p>《TFBoys Fan’s Time》</p></td>
+<td><p>《TFBOYS Fan’s Time》</p></td>
 <td><p>2015年8月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京萬事達中心</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/愛奇藝" title="wikilink">愛奇藝</a></p></td>
@@ -231,26 +229,19 @@ Boys**，又稱**加油男孩**\[1\]），2013年[中國大陸推出的男子團
 
 ## 公益活動
 
-2014年6月，TFBOYS组合联合中国人口福利基金会及新浪微公益，在微博发起了＃TFBOYS益起来＃让唇腭裂儿童绽放笑容公益活动。8月3日，TFBOYS组合在北京出席幸福微笑公益活动暨出道一周年粉丝答谢会\[6\]，中国福利基金会在现场授予他们幸福微笑－救助唇腭裂儿童公益项目爱心大使的称号\[7\]。8月15日，向[天津市](../Page/天津市.md "wikilink")[塘沽爆炸事件中的遇难同胞捐款三十万元](../Page/2015年天津港危化品倉庫爆炸事故.md "wikilink")，并将出道两周年见面会的部分门票收入捐给了抗战老兵公益项目\[8\]。
-8月20日，接受由[章子怡](../Page/章子怡.md "wikilink")传递的“[冰桶挑戰](../Page/冰桶挑戰.md "wikilink")”公益接力。10月17日，受芒果V基金邀请担任圆梦计划的圆梦大使\[9\]。11月26日，参加[中央电视台公益节目](../Page/中国中央电视台.md "wikilink")《梦想星搭档》第二季，成为该季第二位公益加油大使\[10\]。
+2014年6月，TFBOYS组合联合中国人口福利基金会及新浪微公益，在微博发起了＃TFBOYS益起来＃让唇腭裂儿童绽放笑容公益活动。8月3日，TFBOYS组合在北京出席幸福微笑公益活动暨出道一周年粉丝答谢会\[6\]，中国福利基金会在现场授予他们幸福微笑－救助唇腭裂儿童公益项目爱心大使的称号\[7\]。8月15日，向[天津市](../Page/天津市.md "wikilink")[塘沽爆炸事件中的遇难同胞捐款三十万元](../Page/2015年天津港危化品倉庫爆炸事故.md "wikilink")，并将出道两周年见面会的部分门票收入捐给了抗战老兵公益项目\[8\]。 8月20日，接受由[章子怡](../Page/章子怡.md "wikilink")传递的“[冰桶挑戰](../Page/冰桶挑戰.md "wikilink")”公益接力。10月17日，受芒果V基金邀请担任圆梦计划的圆梦大使\[9\]。11月26日，参加[中央电视台公益节目](../Page/中国中央电视台.md "wikilink")《梦想星搭档》第二季，成为该季第二位公益加油大使\[10\]。
 
-2015年1月14日，TFBOYS出席“2014微博之夜”盛典，获得“2014微博之夜”年度公益贡献奖\[11\]。8月14日，以形象大使身份出席[共青团中央发起的](../Page/中国共产主义青年团.md "wikilink")“阳光跟帖”活动启动仪式并宣读阳光宣言\[12\]。8月21日，参加中央电视台纪念[中国人民抗日战争暨世界反法西斯战争胜利七十周年的大型公益节目](https://zh.wikipedia.org/wiki/纪念中国人民抗日战争暨世界反法西斯战争胜利70周年大会 "wikilink")《开学第一课》，
-领诵宣言致敬英雄\[13\]。9月16日，献唱“MusicRadio我要上学”公益项目的主题曲《Love With
-You》\[14\]。9月23日，参加2015
-Bazzar明星慈善夜，帮助“为爱加速”思源·芭莎贫困县（乡）救护车公益项目募款417万元。11月3日，成为[重庆市](../Page/重庆市.md "wikilink")[公安消防部队](../Page/公安消防部队.md "wikilink")公益代言人\[15\]。11月30日，TFBOYS出席了由腾讯QQ、QQ空间、中国扶贫基金和腾讯公益联合发起的“QQ红围巾计划”公益发布会，为偏远、贫困地区青少年定制冬日暖衣。
+2015年1月14日，TFBOYS出席“2014微博之夜”盛典，获得“2014微博之夜”年度公益贡献奖\[11\]。8月14日，以形象大使身份出席[共青团中央发起的](../Page/中国共产主义青年团.md "wikilink")“阳光跟帖”活动启动仪式并宣读阳光宣言\[12\]。8月21日，参加中央电视台纪念[中国人民抗日战争暨世界反法西斯战争胜利七十周年的大型公益节目](https://zh.wikipedia.org/wiki/纪念中国人民抗日战争暨世界反法西斯战争胜利70周年大会 "wikilink")《开学第一课》， 领诵宣言致敬英雄\[13\]。9月16日，献唱“MusicRadio我要上学”公益项目的主题曲《Love With You》\[14\]。9月23日，参加2015 Bazzar明星慈善夜，帮助“为爱加速”思源·芭莎贫困县（乡）救护车公益项目募款417万元。11月3日，成为[重庆市](../Page/重庆市.md "wikilink")[公安消防部队](../Page/公安消防部队.md "wikilink")公益代言人\[15\]。11月30日，TFBOYS出席了由腾讯QQ、QQ空间、中国扶贫基金和腾讯公益联合发起的“QQ红围巾计划”公益发布会，为偏远、贫困地区青少年定制冬日暖衣。
 
 ## 爭議事件
 
   - **单曲《信仰之名》疑似抄襲**
 
-2014年10月17日其发表新单曲《信仰之名》之后，有人指出其歌曲曲风与日本动漫《[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")》的主题曲「[Only
-my
-railgun](../Page/Only_my_railgun.md "wikilink")」过于相似，并指出有抄袭嫌疑。\[16\]随后，網上並有人製作兩個影片的對照版本\[17\]此事件随后传到日本。对此，《科学超电磁炮》的主题曲作曲者[八木沼悟志](../Page/八木沼悟志.md "wikilink")回应说：“确实很像，不过我觉得是有原创性的、很好的作品。如果我的作品能影响到海外的话也是很开心的事。”\[18\]
+2014年10月17日其发表新单曲《信仰之名》之后，有人指出其歌曲曲风与日本动漫《[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")》的主题曲「[Only my railgun](../Page/Only_my_railgun.md "wikilink")」过于相似，并指出有抄袭嫌疑。\[16\]随后，網上並有人製作兩個影片的對照版本\[17\]此事件随后传到日本。对此，《科学超电磁炮》的主题曲作曲者[八木沼悟志](../Page/八木沼悟志.md "wikilink")回应说：“确实很像，不过我觉得是有原创性的、很好的作品。如果我的作品能影响到海外的话也是很开心的事。”\[18\]
 
   - **單曲《樣》MV疑似抄襲EXO MV事件**
 
-2015年4月24日，單曲《young》MV發佈。幾日後，微博上的「营销号」發佈了幾張情境相似的相片，指控TFBOYS的MV屬於抄襲。\[19\]
-此後，網上[EXO](../Page/EXO.md "wikilink")的粉絲與TFBOYS的粉絲在網上引發激烈的討論。事後，導演及各傳媒也有為此事件澄清，EXO和TFBOYS的MV只是下雪及彈鋼琴的情節相同，這些情節在很多MV也經常出現。\[20\]
+2015年4月24日，單曲《young》MV發佈。幾日後，微博上的「营销号」發佈了幾張情境相似的相片，指控TFBOYS的MV屬於抄襲。\[19\] 此後，網上[EXO](../Page/EXO.md "wikilink")的粉絲與TFBOYS的粉絲在網上引發激烈的討論。事後，導演及各傳媒也有為此事件澄清，EXO和TFBOYS的MV只是下雪及彈鋼琴的情節相同，這些情節在很多MV也經常出現。\[20\]
 
   - **《秀才来了》恶讽TFBOYS「掏糞男孩」事件**
 
@@ -258,15 +249,11 @@ railgun](../Page/Only_my_railgun.md "wikilink")」过于相似，并指出有抄
 
   - **范湉湉当众嘲讽TFBOYS事件**
 
-2015年9月26日，TFBOYS參於[湖南卫视](../Page/湖南卫视.md "wikilink")新綜藝節目《[全員加速中](https://zh.wikipedia.org/wiki/全員加速中 "wikilink")》期間，主持人范湉湉向TFBOYS在拍攝現場等候的粉絲大聲地說:「在等掏粪男孩嗎？」，而當時TFBOYS緊隨范湉湉進入拍攝場地。
-事件發生後TFBOYS三人從面帶笑容立刻變得神色凝重，匆匆低頭走進拍攝場地\[22\]。其後，事件經過[視頻](../Page/视频.md "wikilink")\[23\]被TFBOYS的粉絲上載至互聯網上，[新浪](../Page/新浪.md "wikilink")娱乐等傳媒隨即報導，事件引發TFBOYS的粉絲以及一眾網友批評其素质。范湉湉於當天下午三時在個人[微博](../Page/微博.md "wikilink")聲稱當時已向現場粉絲道歉，並表示與三人在拍攝其間相處良好。同日晚上十時半，范湉湉在個人[微博](../Page/微博.md "wikilink")上發表道歉聲明。
+2015年9月26日，TFBOYS參於[湖南卫视](../Page/湖南卫视.md "wikilink")新綜藝節目《[全員加速中](https://zh.wikipedia.org/wiki/全員加速中 "wikilink")》期間，主持人范湉湉向TFBOYS在拍攝現場等候的粉絲大聲地說:「在等掏粪男孩嗎？」，而當時TFBOYS緊隨范湉湉進入拍攝場地。 事件發生後TFBOYS三人從面帶笑容立刻變得神色凝重，匆匆低頭走進拍攝場地\[22\]。其後，事件經過[視頻](../Page/视频.md "wikilink")\[23\]被TFBOYS的粉絲上載至互聯網上，[新浪](../Page/新浪.md "wikilink")娱乐等傳媒隨即報導，事件引發TFBOYS的粉絲以及一眾網友批評其素质。范湉湉於當天下午三時在個人[微博](../Page/微博.md "wikilink")聲稱當時已向現場粉絲道歉，並表示與三人在拍攝其間相處良好。同日晚上十時半，范湉湉在個人[微博](../Page/微博.md "wikilink")上發表道歉聲明。
 
   - **单曲《未來的進擊》疑似抄襲**
 
-2017年中旬，作為網路連續劇[超少年密碼的主題曲而發布的](https://zh.wikipedia.org/wiki/超少年密碼 "wikilink")《未來的進擊》被指出疑似抄襲日本動畫[LoveLive\!的BD特典曲](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")《Storm
-in lover》\[24\]
-\[25\]，當年8月17日，《未來的進擊》的作曲者胡臻在微博上宣稱其作品在2014年4月便已完成，且先寄給了日本AKB48的公司，否認其抄襲嫌疑。\[26\]可是日本AKB48的唱片公司（[KING
-RECORDS](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")）與μ's的唱片公司（[Lantis](../Page/Lantis.md "wikilink")）完全不同，更何況這CD是在2014年4月前已經完成製作，胡臻的辩解被指是在推卸责任。
+2017年中旬，作為網路連續劇[超少年密碼的主題曲而發布的](https://zh.wikipedia.org/wiki/超少年密碼 "wikilink")《未來的進擊》被指出疑似抄襲日本動畫[LoveLive\!的BD特典曲](https://zh.wikipedia.org/wiki/LoveLive! "wikilink")《Storm in lover》\[24\] \[25\]，當年8月17日，《未來的進擊》的作曲者胡臻在微博上宣稱其作品在2014年4月便已完成，且先寄給了日本AKB48的公司，否認其抄襲嫌疑。\[26\]可是日本AKB48的唱片公司（[KING RECORDS](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")）與μ's的唱片公司（[Lantis](../Page/Lantis.md "wikilink")）完全不同，更何況這CD是在2014年4月前已經完成製作，胡臻的辩解被指是在推卸责任。
 
 ## 得獎獎項
 
@@ -688,11 +675,7 @@ RECORDS](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")）與μ's的唱�
 
   -
   -
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:中國男子演唱團體](https://zh.wikipedia.org/wiki/Category:中國男子演唱團體 "wikilink")
-[Category:單飛不解散團體](https://zh.wikipedia.org/wiki/Category:單飛不解散團體 "wikilink")
-[Category:TFBOYS](https://zh.wikipedia.org/wiki/Category:TFBOYS "wikilink")
+[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:中國男子演唱團體](https://zh.wikipedia.org/wiki/Category:中國男子演唱團體 "wikilink") [Category:單飛不解散團體](https://zh.wikipedia.org/wiki/Category:單飛不解散團體 "wikilink") [Category:TFBOYS](https://zh.wikipedia.org/wiki/Category:TFBOYS "wikilink")
 
 1.
 

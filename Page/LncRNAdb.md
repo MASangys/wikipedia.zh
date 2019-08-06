@@ -10,11 +10,9 @@
 
 ## 外部链接
 
-  - [lncRNA
-    Database](http://arquivo.pt/wayback/20160516021755/http://www.lncrnadb.org/)
+  - [lncRNA Database](http://arquivo.pt/wayback/20160516021755/http://www.lncrnadb.org/)
 
-[Category:RNA](https://zh.wikipedia.org/wiki/Category:RNA "wikilink")
-[Category:非編碼RNA](https://zh.wikipedia.org/wiki/Category:非編碼RNA "wikilink")
+[Category:RNA](https://zh.wikipedia.org/wiki/Category:RNA "wikilink") [Category:非編碼RNA](https://zh.wikipedia.org/wiki/Category:非編碼RNA "wikilink")
 
 1.
 

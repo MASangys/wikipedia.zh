@@ -1,62 +1,56 @@
-《**NO GAME NO LIFE 遊戲人生**》（，NO GAME NO
-LIFE）是由[榎宫祐創作的日本](https://zh.wikipedia.org/wiki/榎宫祐 "wikilink")[輕小說](../Page/輕小說.md "wikilink")。此系列於[Media
-Factory的](../Page/Media_Factory.md "wikilink")[MF文庫J](../Page/MF文庫J.md "wikilink")出版，繁體中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理發售，譯者為林憲權。
+《**NO GAME NO LIFE 遊戲人生**》（，NO GAME NO LIFE）是由[榎宫祐創作的日本](https://zh.wikipedia.org/wiki/榎宫祐 "wikilink")[輕小說](../Page/輕小說.md "wikilink")。此系列於[Media Factory的](../Page/Media_Factory.md "wikilink")[MF文庫J](../Page/MF文庫J.md "wikilink")出版，繁體中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理發售，譯者為林憲權。
 
-此作自2013年1月27日起[漫畫化並於](https://zh.wikipedia.org/wiki/漫畫化 "wikilink")[青年](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")《[月刊Comic
-Alive](../Page/月刊Comic_Alive.md "wikilink")》開始連載，由榎宫祐和共同創作。其中為2013年7月28日MF文库於其宣传活动「夏之学园祭2013」上宣佈動畫化企劃的五部MF文庫J輕小說之一\[1\]\[2\]。這個作品在「[這本輕小說真厲害！](../Page/這本輕小說真厲害！.md "wikilink")」2013年度的作品綜合排行中獲得第16名\[3\]、2014年獲得第10名、2015年獲得第3名，並在新作部門獲得第2名，亦曾經獲得第二屆「[店員最愛輕小說大賞](../Page/店員最愛輕小說大賞.md "wikilink")」第2名\[4\]。在[讀賣新聞](../Page/讀賣新聞.md "wikilink")社主辦的SUGOI
-JAPAN Award 2015「最想向海外介紹的日本流行文化」評選中獲得輕小說部門第4名。\[5\]\[6\]
-小說總銷量已突破250萬冊。\[7\]
+此作自2013年1月27日起[漫畫化並於](https://zh.wikipedia.org/wiki/漫畫化 "wikilink")[青年](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")《[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")》開始連載，由榎宫祐和共同創作。其中為2013年7月28日[MF文库於其宣传活动](https://zh.wikipedia.org/wiki/MF文库 "wikilink")「夏之学园祭2013」上宣佈[動畫化企劃的五部MF文庫J](https://zh.wikipedia.org/wiki/動畫 "wikilink")[輕小說](../Page/輕小說.md "wikilink")之一\[1\]\[2\]。這個作品在「[這本輕小說真厲害！](../Page/這本輕小說真厲害！.md "wikilink")」2013年度的作品綜合排行中獲得第16名\[3\]、2014年獲得第10名、2015年獲得第3名，並在新作部門獲得第2名，亦曾經獲得第二屆「[店員最愛輕小說大賞](../Page/店員最愛輕小說大賞.md "wikilink")」第2名\[4\]。在[讀賣新聞](../Page/讀賣新聞.md "wikilink")社主辦的SUGOI JAPAN Award 2015「最想向海外介紹的日本流行文化」評選中獲得輕小說部門第4名。\[5\]\[6\] 小說總銷量已突破250萬冊。\[7\]
 
-動畫於2014年4月9日至6月26日在[AT-X](../Page/AT-X.md "wikilink")電視台日本全國播放。2014年9月中國配音版在網站PPTV上進行播放。\[8\]在「2016年MF文庫J夏季學園祭」宣布製作劇場版\[9\]。
+動畫於2014年4月9日至6月26日在[AT-X](../Page/AT-X.md "wikilink")[電視台](https://zh.wikipedia.org/wiki/電視台 "wikilink")[日本](../Page/日本.md "wikilink")全國播放。2014年9月[中國](../Page/中國.md "wikilink")[配音](../Page/配音.md "wikilink")版在網站[PPTV上進行播放](https://zh.wikipedia.org/wiki/PPTV "wikilink")。\[8\]在「2016年MF文庫J夏季學園祭」宣布製作[劇場版](https://zh.wikipedia.org/wiki/劇場版 "wikilink")\[9\]。
 
 ## 故事簡介
 
-空與白既是[尼特族](../Page/尼特族.md "wikilink")又是家裡蹲，但是在網路上卻是被奉為都市傳說的天才遊戲玩家兄妹。
+空與白既是[尼特族](../Page/尼特族.md "wikilink")又是[家裡蹲](https://zh.wikipedia.org/wiki/家裡蹲 "wikilink")，但是在[網路上卻是被奉為](https://zh.wikipedia.org/wiki/網路 "wikilink")[都市傳說](../Page/都市傳說.md "wikilink")的天才遊戲玩家兄妹。
 
-稱呼現實世界為「垃圾遊戲」的兩人，某一天被自稱是「神」的少年——特圖召喚至棋盤上的世界「迪司博德」，那是個戰爭為神所禁止，「遊戲決定一切」的世界，甚至連國界也一樣。
+稱呼現實世界為「[垃圾](../Page/垃圾.md "wikilink")遊戲」的兩人，某一天被自稱是「神」的少年——特圖召喚至棋盤上的世界「迪司博德」，那是個戰爭為神所禁止，「遊戲決定一切」的世界，甚至連國界也一樣。
 
-被其他種族逼至絕境，只剩下最後都市——「艾爾奇亞」的「人類種」，空與白利用自己的才智以及策略，在通過遊戲取得艾爾奇亞王的地位后，僅用短短幾個月就成功將艾爾奇亞從生死邊緣反轉為世界第二大國。空與白的目標是通過和平手段
-與其他十五個種族達成聯盟關係，最後取得向唯一神「特圖」挑戰的權利。
+被其他種族逼至絕境，只剩下最後都市——「艾爾奇亞」的「人類種」，空與白利用自己的才智以及策略，在通過遊戲取得艾爾奇亞王的地位后，僅用短短幾個月就成功將艾爾奇亞從生死[邊緣反轉為世界第二大國](https://zh.wikipedia.org/wiki/邊緣 "wikilink")。空與白的目標是通過和平手段 與其他十五個種族達成聯盟關係，最後取得向唯一神「特圖」挑戰的權利。
 
 ## 登場角色
 
   -
-    是出現在網路上的遊戲帳號，在超過二百八十種網路遊戲締造了無法打破的記錄，因實力太強而被當成[都市傳說](../Page/都市傳說.md "wikilink")。實際上是由空和白二人共用的帳號，只有二人合作時才是真正的「空白」。至今唯有「**現實**人生遊戲」及「**現實**戀愛遊戲」為空白尚未破關，甚至連規則都無法知曉的遊戲。
+    是出現在網路上的[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[帳號](https://zh.wikipedia.org/wiki/帳號 "wikilink")，在超過二百八十種網路遊戲締造了無法打破的記錄，因實力太強而被當成[都市傳說](../Page/都市傳說.md "wikilink")。實際上是由空和白二人共用的帳號，只有二人合作時才是真正的「空白」。至今唯有「**現實**人生遊戲」及「**現實**[戀愛遊戲](../Page/戀愛遊戲.md "wikilink")」為空白尚未破關，甚至連規則都無法知曉的遊戲。
 
 <!-- end list -->
 
   -
-    十八歲，生日為8月13日，身高183cm。白的哥哥。
-    處男、沒有工作、有對人恐懼症。自小因成績不佳被老師、父母和同學討厭；自覺愚笨而刻意奉迎別人，卻因為能洞察他人內心而更受排擠。
+    十八歲，生日為8月13日，身高183cm。白的[哥哥](https://zh.wikipedia.org/wiki/哥哥 "wikilink")。
+    處男、沒有工作、有對人[恐懼症](../Page/恐懼症.md "wikilink")。自小因成績不佳被老師、父母和同學討厭；自覺愚笨而刻意奉迎別人，卻因為能洞察他人內心而更受排擠。
     十歲時初見三歲的白，被指出沒有自我而對她另眼相看，並以遊戲加深彼此的認識和信賴。認為所有人類包括自己皆屬無能，但因為白而相信人類的「可能性」。
-    因玩遊戲而懂得六國語言。擅長談判、閱讀表情和動搖對方等「不確定因素」，以及高明的作弊手段，故擅於預測遊戲走向並看破他人作弊，在「　」中負責策劃。
+    因玩遊戲而懂得六國[語言](../Page/語言.md "wikilink")。擅長談判、閱讀表情和動搖對方等「不確定因素」，以及高明的作弊手段，故擅於預測遊戲走向並看破他人[作弊](../Page/作弊.md "wikilink")，在「　」中負責策劃。
 
 <!-- end list -->
 
   -
-    十一歲，生日為2月16日，身高差不多135cm。空的妹妹，特徵是雪白的頭髮和紅色的眼睛。
-    拒絕上學、沒有朋友、有溝通障礙。是記憶、語言及數理能力超乎常人的天才少女，不被常人理解而受孤立。懂得十八國的古文，三歲時便能運用多種語言。能在短時間內學會一種語言。
-    在遊戲方面擅長以數學為主的計算類遊戲，達到預知遊戲結果的程度，在純粹計算而不受自由意志影響的遊戲方面無出其右。同時擅長西洋棋等及[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")，曾對戰能大勝世界西洋棋大師的程式，並在先後手交替下取得二十連勝。在「　」中負責實行。
+    十一歲，生日為2月16日，身高差不多135cm。空的[妹妹](https://zh.wikipedia.org/wiki/妹妹 "wikilink")，特徵是雪白的[頭髮](../Page/頭髮.md "wikilink")和紅色的[眼睛](https://zh.wikipedia.org/wiki/眼睛 "wikilink")。
+    拒絕上學、沒有朋友、有溝通障礙。是[記憶](../Page/記憶.md "wikilink")、語言及數理能力超乎常人的[天才](../Page/天才.md "wikilink")少女，不被常人理解而受孤立。懂得十八國的[古文](https://zh.wikipedia.org/wiki/古文 "wikilink")，三歲時便能運用多種語言。能在短時間內學會一種語言。
+    在遊戲方面擅長以數學為主的[計算類遊戲](https://zh.wikipedia.org/wiki/計算 "wikilink")，達到預知遊戲結果的程度，在純粹計算而不受自由意志影響的遊戲方面無出其右。同時擅長[西洋棋等](https://zh.wikipedia.org/wiki/西洋棋 "wikilink")及[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")，曾對戰能大勝世界西洋棋大師的程式，並在先後手交替下取得二十連勝。在「　」中負責實行。
 
 ## 用語
 
 ###
 
   -
-    為「Disboard」的音譯，意指「」，是特圖召喚空和白前去的異世界。整個星球正是以棋盤構成，於世界盡頭的地平線矗立著數個巨型黑色西洋棋子。神靈大戰後由特圖訂下的十條盟約決定著世界的走向，唯有集齊十六顆棋子的人才足以挑戰特圖。
+    為「Disboard」的[音譯](https://zh.wikipedia.org/wiki/音譯 "wikilink")，意指「」，是特圖召喚空和白前去的異世界。整個[星球正是以棋盤構成](https://zh.wikipedia.org/wiki/星球 "wikilink")，於世界盡頭的地平線矗立著數個巨型黑色西洋棋子。神靈大戰後由特圖訂下的十條盟約決定著世界的走向，唯有集齊十六顆棋子的人才足以挑戰特圖。
 
 ### 十條盟約
 
   -
-    特圖誕生成為唯一神後，在異世界所作出的绝对法則。
+    特圖誕生成為唯一[神](../Page/神.md "wikilink")後，在異世界所作出的绝对法則。
     以下為十條盟約的內容：
-    1.  這個世界禁止一切殺傷、戰爭與掠奪。
+    1.  這個世界禁止一切殺傷、[戰爭與](https://zh.wikipedia.org/wiki/戰爭 "wikilink")[掠奪](https://zh.wikipedia.org/wiki/掠奪 "wikilink")。
     2.  所有的糾紛一律以遊戲勝負解決。
     3.  遊戲需賭上雙方判斷對等的賭注。
     4.  在不違反 3. 的情況下，遊戲內容、賭注皆不限制。
     5.  受挑戰方有權決定遊戲的內容。
     6.  舉凡〈向盟約宣誓〉（Acciente）的打賭絕對要遵守。
-    7.  集團間的糾紛應指定全權代理人。
+    7.  集團間的糾紛應指定全權[代理人](https://zh.wikipedia.org/wiki/代理人 "wikilink")。
     8.  遊戲中若有不正當行為，一旦敗露即視同敗北。
     9.  以神之名宣佈，以上各條皆為絕對不變的規則。
     10. 大家一起和平地玩遊戲吧！！
@@ -65,10 +59,10 @@ JAPAN Award 2015「最想向海外介紹的日本流行文化」評選中獲得�
 ### 十六種族
 
   -
-    別稱為「」，即英文「Exceed」的音譯。異世界「迪司博德」中具知性（能夠玩遊戲）的物種。種族對「精靈迴廊」魔法的適性值愈高，排序愈高。
-    第一至六位稱為「**生命**」\[10\]，又叫「**上位種族**」，拥有意志的能量或概念，本身的「灵魂」与「容器」（肉體）沒有明确界限；而第七位以下的「**下位種族**」是「**生物**」，拥有物理的肉体，以通常手段繁殖。兩者之間的靈魂濃度相差甚遠，也因此被稱為「生命」的種族自視為比「生物」種族更高級。
-    除最高位列的神靈種和最低位列的人類種外，其他種族，包括由「魔王」所創的妖魔種皆源於神靈種。直至現在，仍然沒有跨種族的混血種族出現。
-    若「種族棋子」成為遊戲賭注並被其他種族贏走，該族將被剝奪身為十六種族的權利，亦即失去「十條盟約」的保護。失去種族棋子的下位種族就可被其他種族攻擊，實際上等同於滅族。但空认为特图是为了让十六种族集结，各自手持「种族棋子」和他进行游戏，所以种族棋子是不可以被夺走的。
+    別稱為「」，即[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")「Exceed」的音譯。異世界「迪司博德」中具知性（能夠玩遊戲）的物種。種族對「[精靈](../Page/精靈.md "wikilink")[迴廊](https://zh.wikipedia.org/wiki/迴廊 "wikilink")」[魔法](../Page/魔法.md "wikilink")的適性值愈高，排序愈高。
+    第一至六位稱為「**生命**」\[10\]，又叫「**上位種族**」，拥有意志的能量或概念，本身的「[灵魂](../Page/灵魂.md "wikilink")」与「[容器](../Page/容器.md "wikilink")」（[肉體](https://zh.wikipedia.org/wiki/肉體 "wikilink")）沒有明确界限；而第七位以下的「**下位種族**」是「**生物**」，拥有物理的肉体，以通常手段[繁殖](../Page/繁殖.md "wikilink")。兩者之間的靈魂[濃度相差甚遠](https://zh.wikipedia.org/wiki/濃度 "wikilink")，也因此被稱為「[生命](../Page/生命.md "wikilink")」的種族自視為比「[生物](../Page/生物.md "wikilink")」種族更高級。
+    除最高位列的神靈種和最低位列的人類種外，其他種族，包括由「[魔王](../Page/魔王.md "wikilink")」所創的妖魔種皆源於神靈種。直至現在，仍然沒有跨種族的[混血種族出現](https://zh.wikipedia.org/wiki/混血 "wikilink")。
+    若「種族棋子」成為遊戲賭注並被其他種族贏走，該族將被剝奪身為十六種族的權利，亦即失去「十條盟約」的保護。失去種族棋子的下位種族就可被其他種族[攻擊](../Page/攻擊.md "wikilink")，實際上等同於滅族。但空认为特图是为了让十六种族集结，各自手持「[种族棋子](https://zh.wikipedia.org/wiki/种族 "wikilink")」和他进行游戏，所以种族棋子是不可以被夺走的。
 
 <center>
 
@@ -83,7 +77,7 @@ JAPAN Award 2015「最想向海外介紹的日本流行文化」評選中獲得�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>漢字名稱</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/漢字" title="wikilink">漢字</a><a href="https://zh.wikipedia.org/wiki/名稱" title="wikilink">名稱</a></p></td>
 <td><p>別稱</p></td>
 <td></td>
 <td></td>
@@ -207,28 +201,28 @@ JAPAN Award 2015「最想向海外介紹的日本流行文化」評選中獲得�
 
   -
     十六種族中位階序列第三位。
-    其根據地位於比艾爾奇亞最東端還要往東的溼地高原——精靈之森，通稱為「不可侵犯領地」或「聖域」的地方，實際上已成為精靈種的領土。
+    其根據地位於比艾爾奇亞最東端還要往東的[溼地](https://zh.wikipedia.org/wiki/溼地 "wikilink")[高原](https://zh.wikipedia.org/wiki/高原 "wikilink")——精靈之森，通稱為「不可侵犯[領地](../Page/領地.md "wikilink")」或「[聖域](https://zh.wikipedia.org/wiki/聖域 "wikilink")」的地方，實際上已成為精靈種的[領土](https://zh.wikipedia.org/wiki/領土 "wikilink")。
 
 #### 龍精種（）
 
   -
-    十六種族中位階序列第四位。其中王者之龙诞生自神的遗骸，是龙精种最古老的个体。
-    龙精语是开天辟地力量残余、行星最原始的语言，有著「万能语言」、「创造语言」等无数别称，是大戰時期能命令世間萬物无条件屈服（例如自毀）的王权之语。
-    有著横跨複數時間的能力(因此出現在作者其他創作中)。能通过排斥时空來移动，周围的空间通常都存在着时空扭曲的现象，因此敵人用空间转移亦無法追上。而且能以现在为中心，横跨过去未来進行修正，以進行瞬间复原；或者把眾多時間點上的力量反射並集中在现时点，達到无限增幅以获得无限力量。因此能拥有永恒的生命，足以匹敌神灵。
+    十六種族中位階序列第四位。其中王者之龙诞生自神的[遗骸](https://zh.wikipedia.org/wiki/遗骸 "wikilink")，是[龙](../Page/龙.md "wikilink")精种最古老的个体。
+    龙精语是开天辟地力量残余、行星最原始的语言，有著「万能语言」、「[创造](https://zh.wikipedia.org/wiki/创造 "wikilink")[语言](https://zh.wikipedia.org/wiki/语言 "wikilink")」等无数别称，是大戰時期能命令世間萬物无条件屈服（例如自毀）的王权之语。
+    有著横跨複數時間的能力(因此出現在作者其他創作中)。能通过排斥时空來[移动](https://zh.wikipedia.org/wiki/移动 "wikilink")，周围的空间通常都存在着时空扭曲的现象，因此敵人用空间转移亦無法追上。而且能以现在为中心，横跨过去未来進行修正，以進行瞬间复原；或者把眾多時間點上的力量反射並集中在现时点，達到无限增幅以获得[无限力量](https://zh.wikipedia.org/wiki/无限 "wikilink")。因此能拥有永恒的生命，足以匹敌神灵。
     能藉著犧牲自己的生命放出具強大破壞力的絕招「龍嘯」。
     在大戰時期為「殺神兵器」天翼種討伐的主要對象之一。
 
 #### 巨人種（）
 
   -
-    十六種族中位階序列第五位。在大戰時期為天翼種（殺神兵器）討伐的主要對象之一。
+    十六種族中位階序列第五位。在大戰時期為天翼種（殺神[兵器](https://zh.wikipedia.org/wiki/兵器 "wikilink")）討伐的主要對象之一。
 
 #### 天翼種（）
 
   -
     十六種族中位階序列第六位。其國家建立於一隻名為「阿邦特·赫伊姆」的幻想種背上。種的棋子是最強，但是不會成長的皇后。
-    是大戰時由「戰神」阿爾特休所創造（戰神十八羽翼的斷片）的「殺神兵器」，戰鬥能力近乎無限。訂下「十條盟約」後戰鬥能力被封印，擁有等同永恆的生命和高度的魔法適性。種族沒有「全權代理」，由「第一号个体」阿茲莉爾作為「全翼代理」領導「十八翼議會」決定全族大小事務。
-    「十條盟約」生效前狩獵的是「首級」（頭顱）。大戰結束後「十條盟約」訂立，出於阿兹莉尔禁止天翼種自殺的命令，從失去生存意義轉為竭力尋找阿爾特休落敗原因，六千多年來以各種手段從全世界各種族收集知識（即書本）。數千年後因書籍佔據了都市的大量位置，當時的十八翼議會提出了一個「消除書本重複」為名目的法案「書籍共有法」，議會表決結果是四比四，最後擁有最終決定權的「全翼代理」宣布法案通過。
+    是大戰時由「戰神」阿爾特休所創造（戰神十八[羽翼的斷片](https://zh.wikipedia.org/wiki/羽翼 "wikilink")）的「殺神兵器」，戰鬥能力近乎無限。訂下「十條盟約」後戰鬥能力被[封印](https://zh.wikipedia.org/wiki/封印 "wikilink")，擁有等同永恆的生命和高度的魔法適性。種族沒有「全權代理」，由「第一号个体」阿茲莉爾作為「全翼代理」領導「十八翼議會」決定全族大小事務。
+    「十條盟約」生效前狩獵的是「首級」（[頭顱](https://zh.wikipedia.org/wiki/頭顱 "wikilink")）。大戰結束後「十條盟約」訂立，出於阿兹莉尔禁止天翼種自殺的命令，從失去生存意義轉為竭力尋找阿爾特休落敗原因，六千多年來以各種手段從全世界各種族收集知識（即[書本](https://zh.wikipedia.org/wiki/書本 "wikilink")）。數千年後因書籍佔據了都市的大量位置，當時的十八翼議會提出了一個「消除書本重複」為名目的法案「書籍共有法」，議會表決結果是四比四，最後擁有最終決定權的「全翼代理」宣布[法案通過](https://zh.wikipedia.org/wiki/法案 "wikilink")。
     不擅長亦沒有興趣進行普通遊戲。若天翼種之間發生糾紛，便會以實體化文字接龍來分勝負。雙方交互說出句首能接上前一句尾的詞語，一旦「說出已用過的詞語」、「三十秒內答不出來」或「無法繼續」（包括說出世界上沒有的事物）就當作「輸」；透過天翼種設置的「核心」能使文字內容的事物（包括異世界事物）實體化——遊戲現場存在的事物會消失，而不在的則會出現。
 
 #### 森精種（）
@@ -563,14 +557,11 @@ JAPAN Award 2015「最想向海外介紹的日本流行文化」評選中獲得�
 
 ## 電視動畫
 
-2014年4月9日至6月25日由[AT-X](../Page/AT-X.md "wikilink")電視台首播\[11\]，以及其他[TOKYO
-MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[KBS京都](https://zh.wikipedia.org/wiki/KBS京都 "wikilink")、[BS11等日本電視台開始放送](https://zh.wikipedia.org/wiki/BS11 "wikilink")。
+2014年4月9日至6月25日由[AT-X](../Page/AT-X.md "wikilink")電視台首播\[11\]，以及其他[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[KBS京都](https://zh.wikipedia.org/wiki/KBS京都 "wikilink")、[BS11等日本電視台開始放送](https://zh.wikipedia.org/wiki/BS11 "wikilink")。
 
 ### 製作人員
 
-  - 原作、角色原案：[榎宮祐](../Page/榎宮祐.md "wikilink")（[MF文庫J](../Page/MF文庫J.md "wikilink")『NO
-    GAME NO LIFE』／[KADOKAWA](../Page/角川書店.md "wikilink") [Media
-    Factory刊](../Page/Media_Factory.md "wikilink")）
+  - 原作、角色原案：[榎宮祐](../Page/榎宮祐.md "wikilink")（[MF文庫J](../Page/MF文庫J.md "wikilink")『NO GAME NO LIFE』／[KADOKAWA](../Page/角川書店.md "wikilink") [Media Factory刊](../Page/Media_Factory.md "wikilink")）
   - 監督：[石塚敦子](../Page/石塚敦子.md "wikilink")
   - 系列構成：[花田十輝](https://zh.wikipedia.org/wiki/花田十輝 "wikilink")
   - 角色設計、總作畫監督：大館康二
@@ -581,10 +572,8 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[KBS京都](https://zh.
   - 3D監督：籔田修平
   - 編輯：木村佳史子
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
-  - 音樂：SUPER
-    SWEEP（[細江慎治](https://zh.wikipedia.org/wiki/細江慎治 "wikilink")、[佐宗綾子](https://zh.wikipedia.org/wiki/佐宗綾子 "wikilink")、江口孝宏、田中文久）
-  - 音樂製作：[KADOKAWA](../Page/KADOKAWA.md "wikilink")（[Media
-    Factory](../Page/Media_Factory.md "wikilink")）
+  - 音樂：SUPER SWEEP（[細江慎治](https://zh.wikipedia.org/wiki/細江慎治 "wikilink")、[佐宗綾子](https://zh.wikipedia.org/wiki/佐宗綾子 "wikilink")、江口孝宏、田中文久）
+  - 音樂製作：[KADOKAWA](../Page/KADOKAWA.md "wikilink")（[Media Factory](../Page/Media_Factory.md "wikilink")）
   - 音樂製作人：篠原一雄
   - 製片人：田中翔、清水朝子、深尾聰志、清水美佳、林洋平
   - 動畫製作人：中本健二
@@ -772,8 +761,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[KBS京都](https://zh.
 
 ### 映像特典
 
-[BD](../Page/藍光光碟.md "wikilink") /
-[DVD各卷收錄的原作](https://zh.wikipedia.org/wiki/DVD "wikilink")，由榎宮祐原創的特典文庫，原作迷你[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")。
+[BD](../Page/藍光光碟.md "wikilink") / [DVD各卷收錄的原作](https://zh.wikipedia.org/wiki/DVD "wikilink")，由榎宮祐原創的特典文庫，原作迷你[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")。
 
 <table>
 <thead>
@@ -907,13 +895,11 @@ ZMCZ-9307（通常盤）</p></td>
 
 ## 劇場版
 
-電影劇場版《NO GAME NO LIFE ZERO》依據小說第6卷內容製作，2017年7月15日起在日本全國首映。\[14\]\[15\]
-馬來西亞在2017年9月16日上映。汶萊則是在2017年10月19日上映。印尼於2017年10月25日上映。香港於2017年10月26日上映。新加坡於2017年11月2日上映，台灣於2017年12月8日～12月13日限期上映4DX版，並從12月13日起開始上映數位版。BD/DVD於2018年2月23日發售。\[16\]中国大陆将于2019年7月19日上映\[17\]
+電影劇場版《NO GAME NO LIFE ZERO》依據小說第6卷內容製作，2017年7月15日起在日本全國首映。\[14\]\[15\] 馬來西亞在2017年9月16日上映。汶萊則是在2017年10月19日上映。印尼於2017年10月25日上映。香港於2017年10月26日上映。新加坡於2017年11月2日上映，台灣於2017年12月8日～12月13日限期上映4DX版，並從12月13日起開始上映數位版。BD/DVD於2018年2月23日發售。\[16\]中国大陆将于2019年7月19日上映\[17\]
 
 ### 製作人員 \[18\]
 
-  - 原作、角色原案：[榎宮祐](../Page/榎宮祐.md "wikilink")（[MF文庫J](../Page/MF文庫J.md "wikilink")『NO
-    GAME NO LIFE』／[KADOKAWA刊](../Page/角川書店.md "wikilink")）
+  - 原作、角色原案：[榎宮祐](../Page/榎宮祐.md "wikilink")（[MF文庫J](../Page/MF文庫J.md "wikilink")『NO GAME NO LIFE』／[KADOKAWA刊](../Page/角川書店.md "wikilink")）
   - 監督：[石塚敦子](../Page/石塚敦子.md "wikilink")
   - 劇本：[花田十輝](https://zh.wikipedia.org/wiki/花田十輝 "wikilink")
   - 角色設計、總作畫監督：田崎聰
@@ -935,28 +921,20 @@ ZMCZ-9307（通常盤）</p></td>
 
 ### 主題曲
 
-  - 「[THERE IS A
-    REASON](https://zh.wikipedia.org/wiki/THERE_IS_A_REASON "wikilink")」
-    作詞：岩里祐穗，作曲：High
-    Driver，編曲：宮崎誠，主唱：[鈴木木乃美](https://zh.wikipedia.org/wiki/鈴木木乃美 "wikilink")
+  - 「[THERE IS A REASON](https://zh.wikipedia.org/wiki/THERE_IS_A_REASON "wikilink")」
+    作詞：岩里祐穗，作曲：High Driver，編曲：宮崎誠，主唱：[鈴木木乃美](https://zh.wikipedia.org/wiki/鈴木木乃美 "wikilink")
 
 ### 动画Neta
 
-  - 第2话12:42处空说出“异世界的秘密道具”时neta了《[哆啦A梦](https://zh.wikipedia.org/wiki/哆啦A梦 "wikilink")》。13:33处史蒂芙发出了《[JOJO的奇妙冒险](https://zh.wikipedia.org/wiki/JOJO的奇妙冒险 "wikilink")》中的[DIO的叫声](https://zh.wikipedia.org/wiki/DIO "wikilink")。预告部分neta了2010年6月E3游戏大展中，《全能之神
-    梅塔特隆的升天》的PV中主人公的一句经典死亡FLAG“这样的装备没问题吗”。
+  - 第2话12:42处空说出“异世界的秘密道具”时neta了《[哆啦A梦](https://zh.wikipedia.org/wiki/哆啦A梦 "wikilink")》。13:33处史蒂芙发出了《[JOJO的奇妙冒险](https://zh.wikipedia.org/wiki/JOJO的奇妙冒险 "wikilink")》中的[DIO的叫声](https://zh.wikipedia.org/wiki/DIO "wikilink")。预告部分neta了2010年6月E3游戏大展中，《全能之神 梅塔特隆的升天》的PV中主人公的一句经典死亡FLAG“这样的装备没问题吗”。
   - 第3话中裁判长neta《[逆转裁判](https://zh.wikipedia.org/wiki/逆转裁判 "wikilink")》，2:11处空喊出了《[逆转裁判](https://zh.wikipedia.org/wiki/逆转裁判 "wikilink")》系列名台词“異議あり”（我反对），同时响起的BGM为系列追求曲的变调。8:16处空说出了《[JOJO的奇妙冒险](https://zh.wikipedia.org/wiki/JOJO的奇妙冒险 "wikilink")》第四部角色[岸边露伴的名台词](https://zh.wikipedia.org/wiki/岸边露伴 "wikilink")“”（但是我拒绝），并且画风也变成JOJO画风。
   - 第3话的预告部分neta了FC上的游戏《[北野武的挑战书](https://zh.wikipedia.org/wiki/北野武的挑战书 "wikilink")》。
   - 第4话12:57处空的台词中明确提到了游戏《文明》。
   - 第5话20:09-20:25处再现了小说中对《[天空之城](../Page/天空之城.md "wikilink")》的neta。
   - 第6话的预告部分neta了《[上古卷轴5](https://zh.wikipedia.org/wiki/上古卷轴5 "wikilink")》中的“膝盖中了一箭”。
   - 第7话中分别出现neta《[绝望先生](https://zh.wikipedia.org/wiki/绝望先生 "wikilink")》中[糸色望](https://zh.wikipedia.org/wiki/糸色望 "wikilink")(10:29，空)、《哆啦A梦》中[哆啦美](../Page/哆啦美.md "wikilink")(2:57，史蒂芙；同时附有变调BGM)和《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》中碇源堂(4:57，空)经典姿势的场景。吉普莉尔neta了《[未来日记](https://zh.wikipedia.org/wiki/未来日记 "wikilink")》[我妻由乃的经典病娇姿势](https://zh.wikipedia.org/wiki/我妻由乃 "wikilink")，巨人種neta了《[風之谷](https://zh.wikipedia.org/wiki/風之谷 "wikilink")》的巨神兵。预告部分neta自《文明4》中的宣战台词。
-  - 第8话5:27处吉普莉尔neta了《[冰菓](https://zh.wikipedia.org/wiki/冰菓 "wikilink")》[千反田爱瑠的](https://zh.wikipedia.org/wiki/千反田爱瑠 "wikilink")“[我很好奇](https://zh.wikipedia.org/wiki/我很好奇 "wikilink")”。12:31处白neta了《[名侦探柯南](https://zh.wikipedia.org/wiki/名侦探柯南 "wikilink")》最后的「Next
-    Conan's
-    Hint」及[柯南的经典台词](https://zh.wikipedia.org/wiki/柯南 "wikilink")「啊咧咧，好奇怪哦」，随后空neta了动画版第205至230集的OP《恋はスリル、ショック、サスペンス》中柯南跳的Para
-    Para，再接下来一段中出现了neta《[游戏王](https://zh.wikipedia.org/wiki/游戏王 "wikilink")》决斗时的场景。5:55处neta了《JOJO的奇妙冒险》第五部角色[迪亚波罗的替身](https://zh.wikipedia.org/wiki/迪亚波罗\(JOJO的奇妙冒险\) "wikilink")“King
-    Crimson”（绯红之王）。随后的片段则neta了同为第五部角色的[乔可拉特的很好很好连发](https://zh.wikipedia.org/wiki/乔可拉特 "wikilink")。预告部分neta了游戏《[古堡迷踪](https://zh.wikipedia.org/wiki/古堡迷踪 "wikilink")》的台词。
-  - 第11话前几秒的背景图案风格与《女神异闻录4
-    黄金版》相像。3:11处台词中出现了《[女神异闻录](https://zh.wikipedia.org/wiki/女神异闻录4 "wikilink")》、《[命运石之门](https://zh.wikipedia.org/wiki/命运石之门 "wikilink")》、《[秋叶原之旅](https://zh.wikipedia.org/wiki/秋叶原之旅2 "wikilink")》三款游戏。同时画面相继出现眼部涂码的里中千枝、[牧濑红莉栖及卡蒂](https://zh.wikipedia.org/wiki/牧濑红莉栖 "wikilink")·莱科宁。
+  - 第8话5:27处吉普莉尔neta了《[冰菓](https://zh.wikipedia.org/wiki/冰菓 "wikilink")》[千反田爱瑠的](https://zh.wikipedia.org/wiki/千反田爱瑠 "wikilink")“[我很好奇](https://zh.wikipedia.org/wiki/我很好奇 "wikilink")”。12:31处白neta了《[名侦探柯南](https://zh.wikipedia.org/wiki/名侦探柯南 "wikilink")》最后的「Next Conan's Hint」及[柯南的经典台词](https://zh.wikipedia.org/wiki/柯南 "wikilink")「啊咧咧，好奇怪哦」，随后空neta了动画版第205至230集的OP《恋はスリル、ショック、サスペンス》中柯南跳的Para Para，再接下来一段中出现了neta《[游戏王](https://zh.wikipedia.org/wiki/游戏王 "wikilink")》决斗时的场景。5:55处neta了《JOJO的奇妙冒险》第五部角色[迪亚波罗的替身](https://zh.wikipedia.org/wiki/迪亚波罗\(JOJO的奇妙冒险\) "wikilink")“King Crimson”（绯红之王）。随后的片段则neta了同为第五部角色的[乔可拉特的很好很好连发](https://zh.wikipedia.org/wiki/乔可拉特 "wikilink")。预告部分neta了游戏《[古堡迷踪](https://zh.wikipedia.org/wiki/古堡迷踪 "wikilink")》的台词。
+  - 第11话前几秒的背景图案风格与《女神异闻录4 黄金版》相像。3:11处台词中出现了《[女神异闻录](https://zh.wikipedia.org/wiki/女神异闻录4 "wikilink")》、《[命运石之门](https://zh.wikipedia.org/wiki/命运石之门 "wikilink")》、《[秋叶原之旅](https://zh.wikipedia.org/wiki/秋叶原之旅2 "wikilink")》三款游戏。同时画面相继出现眼部涂码的里中千枝、[牧濑红莉栖及卡蒂](https://zh.wikipedia.org/wiki/牧濑红莉栖 "wikilink")·莱科宁。
 
 ## 爭議
 
@@ -973,20 +951,15 @@ ZMCZ-9307（通常盤）</p></td>
 
 <!-- end list -->
 
-  - [『NO GAME NO
-    LIFE』MF文庫J介紹頁](http://www.mediafactory.co.jp/bunkoj/book_detail/848)
+  - [『NO GAME NO LIFE』MF文庫J介紹頁](http://www.mediafactory.co.jp/bunkoj/book_detail/848)
 
-  - [『NO GAME NO LIFE』月刊Comic
-    Alive介紹頁](http://www.mediafactory.co.jp/comic-alive/comics.php?MENU=detail&id=32859)
+  - [『NO GAME NO LIFE』月刊Comic Alive介紹頁](http://www.mediafactory.co.jp/comic-alive/comics.php?MENU=detail&id=32859)
 
   -
 
-  - [【PV】NO GAME NO LIFE 遊戲人生
-    動畫化決定宣佈映像](http://www.youtube.com/watch?v=5B7lyVAJNQo)
-    - [YouTube](../Page/YouTube.md "wikilink")
+  - [【PV】NO GAME NO LIFE 遊戲人生 動畫化決定宣佈映像](http://www.youtube.com/watch?v=5B7lyVAJNQo) - [YouTube](../Page/YouTube.md "wikilink")
 
-  - [小说第七卷为MF文库的预定售卖书籍
-    MF文库](http://www.mediafactory.co.jp/bunkoj/library/index?keyword=%E6%A6%8E%E5%AE%AE%E3%80%80%E7%A5%90&mode=1)
+  - [小说第七卷为MF文库的预定售卖书籍 MF文库](http://www.mediafactory.co.jp/bunkoj/library/index?keyword=%E6%A6%8E%E5%AE%AE%E3%80%80%E7%A5%90&mode=1)
 
 <!-- end list -->
 
@@ -997,17 +970,7 @@ ZMCZ-9307（通常盤）</p></td>
   - [『NO GAME NO LIFE』電視動畫官網](http://ngnl.jp/tv/)
   - [『NO GAME NO LIFE』劇場版官網](http://ngnl.jp/)
 
-[Category:MF文庫J](https://zh.wikipedia.org/wiki/Category:MF文庫J "wikilink")
-[Category:2012年小說](https://zh.wikipedia.org/wiki/Category:2012年小說 "wikilink")
-[Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink")
-[Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink")
-[Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink")
-[Category:游戏题材作品](https://zh.wikipedia.org/wiki/Category:游戏题材作品 "wikilink")
-[Category:日本奇幻小說](https://zh.wikipedia.org/wiki/Category:日本奇幻小說 "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
+[Category:MF文庫J](https://zh.wikipedia.org/wiki/Category:MF文庫J "wikilink") [Category:2012年小說](https://zh.wikipedia.org/wiki/Category:2012年小說 "wikilink") [Category:月刊Comic_Alive](https://zh.wikipedia.org/wiki/Category:月刊Comic_Alive "wikilink") [Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink") [Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink") [Category:游戏题材作品](https://zh.wikipedia.org/wiki/Category:游戏题材作品 "wikilink") [Category:日本奇幻小說](https://zh.wikipedia.org/wiki/Category:日本奇幻小說 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
 
 1.
 2.

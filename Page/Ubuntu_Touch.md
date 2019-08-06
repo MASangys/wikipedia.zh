@@ -1,10 +1,8 @@
-（又稱**Ubuntu
-Phone**）是[Canonical公司與Ubuntu社群所開發的行動裝置作業系統](https://zh.wikipedia.org/wiki/Canonical公司 "wikilink")\[1\]，專為[觸控螢幕行動設備所設計](https://zh.wikipedia.org/wiki/觸控螢幕 "wikilink")，例如：[智慧型手機和](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")。
+（又稱**Ubuntu Phone**）是[Canonical公司與Ubuntu社群所開發的行動裝置作業系統](https://zh.wikipedia.org/wiki/Canonical公司 "wikilink")\[1\]，專為[觸控螢幕行動設備所設計](https://zh.wikipedia.org/wiki/觸控螢幕 "wikilink")，例如：[智慧型手機和](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")。
 
 ## 歷史
 
-2011年10月31日，[馬克·沙特爾沃思宣布推出Ubuntu](https://zh.wikipedia.org/wiki/馬克·沙特爾沃思 "wikilink")
-14.04時，將支援智慧型手機、平板電腦、[智慧電視](https://zh.wikipedia.org/wiki/智慧電視 "wikilink")。\[2\]
+2011年10月31日，[馬克·沙特爾沃思宣布推出Ubuntu](https://zh.wikipedia.org/wiki/馬克·沙特爾沃思 "wikilink") 14.04時，將支援智慧型手機、平板電腦、[智慧電視](https://zh.wikipedia.org/wiki/智慧電視 "wikilink")。\[2\]
 
 2013年1月2日，Ubuntu平台手機亮相。\[3\]\[4\]
 
@@ -16,9 +14,7 @@ Phone**）是[Canonical公司與Ubuntu社群所開發的行動裝置作業系統
 
 ### 開發者預覽版
 
-開發者預覽版支援的機種包括[三星的Galaxy](../Page/三星電子.md "wikilink")
-Nexus以及[Google](../Page/Google.md "wikilink")的Nexus 4。而Ubuntu
-13.10在10月發佈時，基於Qt/QML環境開發的App預計能夠正常在PC、電視、平板或智慧型手機上執行。
+開發者預覽版支援的機種包括[三星的Galaxy](../Page/三星電子.md "wikilink") Nexus以及[Google](../Page/Google.md "wikilink")的Nexus 4。而Ubuntu 13.10在10月發佈時，基於Qt/QML環境開發的App預計能夠正常在PC、電視、平板或智慧型手機上執行。
 
 ## 硬體需求
 
@@ -82,24 +78,13 @@ Ubuntu平板系統需求\[8\]
 ## 外部連結
 
   -
-[Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink")
-[Category:嵌入式Linux發行版](https://zh.wikipedia.org/wiki/Category:嵌入式Linux發行版 "wikilink")
-[Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
-[Category:Mobile_Linux](https://zh.wikipedia.org/wiki/Category:Mobile_Linux "wikilink")
-[Category:行動作業系統](https://zh.wikipedia.org/wiki/Category:行動作業系統 "wikilink")
-[Category:智慧型手機](https://zh.wikipedia.org/wiki/Category:智慧型手機 "wikilink")
-[Category:2013年面世的產品](https://zh.wikipedia.org/wiki/Category:2013年面世的產品 "wikilink")
+[Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink") [Category:嵌入式Linux發行版](https://zh.wikipedia.org/wiki/Category:嵌入式Linux發行版 "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink") [Category:Mobile_Linux](https://zh.wikipedia.org/wiki/Category:Mobile_Linux "wikilink") [Category:行動作業系統](https://zh.wikipedia.org/wiki/Category:行動作業系統 "wikilink") [Category:智慧型手機](https://zh.wikipedia.org/wiki/Category:智慧型手機 "wikilink") [Category:2013年面世的產品](https://zh.wikipedia.org/wiki/Category:2013年面世的產品 "wikilink")
 
-1.  [Backed by Canonical {{\!}}
-    Ubuntu](http://www.ubuntu.com/devices/backed-by-canonical)
+1.  [Backed by Canonical {{\!}} Ubuntu](http://www.ubuntu.com/devices/backed-by-canonical)
 2.
 3.
 4.
 5.
 6.
-7.   Ubuntu for phones {{\!}}
-    Ubuntu'|url=[http://www.ubuntu.com/devices/phone/operators-and-oems|publisher=Canonical](http://www.ubuntu.com/devices/phone/operators-and-oems%7Cpublisher=Canonical)
-    Ltd|accessdate=2013-04-03|deadurl=yes|archiveurl=[https://web.archive.org/web/20130326085927/http://www.ubuntu.com/devices/phone/operators-and-oems|archivedate=2013-03-26](https://web.archive.org/web/20130326085927/http://www.ubuntu.com/devices/phone/operators-and-oems%7Carchivedate=2013-03-26)}}
-8.   Ubuntu on tablets {{\!}}
-    Ubuntu'|url=[http://www.ubuntu.com/devices/tablet/partner|publisher=Canonical](http://www.ubuntu.com/devices/tablet/partner%7Cpublisher=Canonical)
-    Ltd|accessdate=2013-04-03|deadurl=yes|archiveurl=[https://web.archive.org/web/20130327140750/http://www.ubuntu.com/devices/tablet/partner|archivedate=2013-03-27](https://web.archive.org/web/20130327140750/http://www.ubuntu.com/devices/tablet/partner%7Carchivedate=2013-03-27)}}
+7.   Ubuntu for phones {{\!}} Ubuntu'|url=[http://www.ubuntu.com/devices/phone/operators-and-oems|publisher=Canonical](http://www.ubuntu.com/devices/phone/operators-and-oems%7Cpublisher=Canonical) Ltd|accessdate=2013-04-03|deadurl=yes|archiveurl=[https://web.archive.org/web/20130326085927/http://www.ubuntu.com/devices/phone/operators-and-oems|archivedate=2013-03-26](https://web.archive.org/web/20130326085927/http://www.ubuntu.com/devices/phone/operators-and-oems%7Carchivedate=2013-03-26)}}
+8.   Ubuntu on tablets {{\!}} Ubuntu'|url=[http://www.ubuntu.com/devices/tablet/partner|publisher=Canonical](http://www.ubuntu.com/devices/tablet/partner%7Cpublisher=Canonical) Ltd|accessdate=2013-04-03|deadurl=yes|archiveurl=[https://web.archive.org/web/20130327140750/http://www.ubuntu.com/devices/tablet/partner|archivedate=2013-03-27](https://web.archive.org/web/20130327140750/http://www.ubuntu.com/devices/tablet/partner%7Carchivedate=2013-03-27)}}

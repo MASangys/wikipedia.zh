@@ -1,10 +1,8 @@
-**Java
-字节码**（）是[Java虚拟机](../Page/Java虚拟机.md "wikilink")执行的一种指令格式。大多数操作码都是一个[字节](../Page/字节.md "wikilink")长，而有些操作需要参数，导致了有一些多字节的操作码。而且并不是所有可能的256个操作码都被使用；其中有51个操作码被保留做将来使用。除此之外，原始[Java平台开发商](https://zh.wikipedia.org/wiki/Java平台 "wikilink")，[昇陽微系统](https://zh.wikipedia.org/wiki/昇陽微系统 "wikilink")，额外保留了3个代码永久不使用。
+**Java 字节码**（）是[Java虚拟机](../Page/Java虚拟机.md "wikilink")执行的一种指令格式。大多数操作码都是一个[字节](../Page/字节.md "wikilink")长，而有些操作需要参数，导致了有一些多字节的操作码。而且并不是所有可能的256个操作码都被使用；其中有51个操作码被保留做将来使用。除此之外，原始[Java平台开发商](https://zh.wikipedia.org/wiki/Java平台 "wikilink")，[昇陽微系统](https://zh.wikipedia.org/wiki/昇陽微系统 "wikilink")，额外保留了3个代码永久不使用。
 
 ## 与Java的关系
 
-一个[Java](../Page/Java.md "wikilink")程序员并不需要理解所有的Java字节码。但是，就像[IBM](../Page/IBM.md "wikilink")
-developerWorks周刊建议的那样：“理解字节码以及理解Java编译器如何生成Java字节码与学习[汇编知识对于](https://zh.wikipedia.org/wiki/汇编 "wikilink")[C](../Page/C.md "wikilink")/[C++](../Page/C++.md "wikilink")程序员有一样的意义。”\[1\]
+一个[Java](../Page/Java.md "wikilink")程序员并不需要理解所有的Java字节码。但是，就像[IBM](../Page/IBM.md "wikilink") developerWorks周刊建议的那样：“理解字节码以及理解Java编译器如何生成Java字节码与学习[汇编知识对于](https://zh.wikipedia.org/wiki/汇编 "wikilink")[C](../Page/C.md "wikilink")/[C++](../Page/C++.md "wikilink")程序员有一样的意义。”\[1\]
 
 ## 指令
 
@@ -36,12 +34,7 @@ developerWorks周刊建议的那样：“理解字节码以及理解Java编译�
 | `z`  | [布尔值](https://zh.wikipedia.org/wiki/布尔值 "wikilink") |
 | `a`  | 引用                                                  |
 
-例如，"iadd"指令将两个整数相加；而"dadd"指令将两个double浮点数相加。 此外，"const"、 "load"、
-"store"等命令还会使用"_n"后缀，其中
-"load"和"store"命令中的*n*可以为0到3之间的整数；而"const"命令中的n由类型指定。
-"const"指令把一个指定类型的值放入堆栈。例如"iconst_5"指令将一个整数5放入堆栈；而"dconst_1"将一个双精度浮点数1放入堆栈。
-此外还有"aconst_null"指令，放入一个null进堆栈。而对于"load"
-"store"指令中的n，指定了变量表中的存储位置。"aload_0"指令把在变量0中的对象（通常是"this"对象）放入堆栈，"istore_1"指令把栈顶的一个整数放入变量1.对于更高的变量，后缀将被去除，而这条指令将需要操作数。
+例如，"iadd"指令将两个整数相加；而"dadd"指令将两个double浮点数相加。 此外，"const"、 "load"、 "store"等命令还会使用"_n"后缀，其中 "load"和"store"命令中的*n*可以为0到3之间的整数；而"const"命令中的n由类型指定。 "const"指令把一个指定类型的值放入堆栈。例如"iconst_5"指令将一个整数5放入堆栈；而"dconst_1"将一个双精度浮点数1放入堆栈。 此外还有"aconst_null"指令，放入一个null进堆栈。而对于"load" "store"指令中的n，指定了变量表中的存储位置。"aload_0"指令把在变量0中的对象（通常是"this"对象）放入堆栈，"istore_1"指令把栈顶的一个整数放入变量1.对于更高的变量，后缀将被去除，而这条指令将需要操作数。
 
 ## 计算模型
 
@@ -125,59 +118,41 @@ mov ecx, eax
 
   - [Jikes](https://zh.wikipedia.org/wiki/Jikes "wikilink")，编译Java源代码到Java字节码（由IBM开发，用C++实现）
   - Espresso，编译Java源代码到Java字节码（仅支持Java 1.0）
-  - [GCJ](../Page/GCJ.md "wikilink")，[GNU Compiler for
-    Java](../Page/GCJ.md "wikilink")，编译Java代码到Java字节码；亦可以编译到机器代码。作为[GNU
-    Compiler Collection (GCC)的一部分提供](../Page/GCC.md "wikilink")。
+  - [GCJ](../Page/GCJ.md "wikilink")，[GNU Compiler for Java](../Page/GCJ.md "wikilink")，编译Java代码到Java字节码；亦可以编译到机器代码。作为[GNU Compiler Collection (GCC)的一部分提供](../Page/GCC.md "wikilink")。
 
 有一些项目提供Java汇编器以便于直接用Java字节码进行开发。主要的Java汇编器如下：
 
-  - [Jasmin](../Page/Jasmin.md "wikilink")，读取Java类的文字描述；用一种简单的使用Java虚拟机指令的类汇编语法，输出Java类文件
-    \[3\]
-  - [Jamaica](https://zh.wikipedia.org/wiki/Jamaica "wikilink")，
-    一种为Java虚拟机编写的宏汇编语言。其中，类与接口由Java语法定义，而其中的方法却由Java字节码定义。\[4\]
+  - [Jasmin](../Page/Jasmin.md "wikilink")，读取Java类的文字描述；用一种简单的使用Java虚拟机指令的类汇编语法，输出Java类文件 \[3\]
+  - [Jamaica](https://zh.wikipedia.org/wiki/Jamaica "wikilink")， 一种为Java虚拟机编写的宏汇编语言。其中，类与接口由Java语法定义，而其中的方法却由Java字节码定义。\[4\]
 
 还有其他的一些编译器，对于其他语言生成Java字节码，使其可以运行在Java虚拟机之上。
 
   - [ColdFusion](https://zh.wikipedia.org/wiki/ColdFusion "wikilink")
-  - [JRuby](../Page/JRuby.md "wikilink")和[Jython](../Page/Jython.md "wikilink")，
-    两种基于[Ruby](../Page/Ruby.md "wikilink")和[Python](../Page/Python.md "wikilink")的[脚本语言](../Page/脚本语言.md "wikilink")
+  - [JRuby](../Page/JRuby.md "wikilink")和[Jython](../Page/Jython.md "wikilink")， 两种基于[Ruby](../Page/Ruby.md "wikilink")和[Python](../Page/Python.md "wikilink")的[脚本语言](../Page/脚本语言.md "wikilink")
   - [Groovy](../Page/Groovy.md "wikilink"), 一种基于Java的脚本语言
   - [Scala](../Page/Scala.md "wikilink"),一种类型安全的通用编程语言，支持[面向对象编程和](https://zh.wikipedia.org/wiki/面向对象编程 "wikilink")[函数式编程](../Page/函数式编程.md "wikilink")
   - [JGNAT和](https://zh.wikipedia.org/wiki/JGNAT "wikilink")[AppleMagic](https://zh.wikipedia.org/wiki/AppleMagic "wikilink"),编译[Ada](../Page/Ada.md "wikilink")语言到Java字节码
-  - [Clojure](../Page/Clojure.md "wikilink"),
-    一种函数式的通用编程语言，提供优秀的并发性。是一种LISP方言
+  - [Clojure](../Page/Clojure.md "wikilink"), 一种函数式的通用编程语言，提供优秀的并发性。是一种LISP方言
   - [MIDletPascal](https://zh.wikipedia.org/wiki/MIDletPascal "wikilink")
-  - [JavaFX
-    Script](https://zh.wikipedia.org/wiki/JavaFX_Script "wikilink")
-    由昇陽微系统公司开发的一种脚本语言，运行于Java虚拟机之上
+  - [JavaFX Script](https://zh.wikipedia.org/wiki/JavaFX_Script "wikilink") 由昇陽微系统公司开发的一种脚本语言，运行于Java虚拟机之上
 
 ## 运行
 
-当前已经有很多种Java虚拟机产品，包括了自由软件和商业软件。
-如果在Java虚拟机之中执行Java字节码并不理想，则可以使用一些工具例如[GNU
-Compiler for
-Java将Java代码或Java字节码编译成机器码并由硬件直接运行](../Page/GCJ.md "wikilink")。
-而有一些处理器可以直接运行Java字节码，这种处理器名为Java处理器。
+当前已经有很多种Java虚拟机产品，包括了自由软件和商业软件。 如果在Java虚拟机之中执行Java字节码并不理想，则可以使用一些工具例如[GNU Compiler for Java将Java代码或Java字节码编译成机器码并由硬件直接运行](../Page/GCJ.md "wikilink")。 而有一些处理器可以直接运行Java字节码，这种处理器名为Java处理器。
 
 ## 对动态语言的支持
 
 Java虚拟机对动态类型语言提供了一定的支持。但绝大多数的Java虚拟机指令集是基于静态类型语言的。在静态类型机制下，方法调用中的类型分析都是在编译时执行的，而且缺乏一种机制在运行时确定一个类型已经确定相应的方法。
 
-[JSR](https://zh.wikipedia.org/wiki/JCP#JSR列表 "wikilink")292\[5\]中，在Java虚拟机层次增加了一种支持动态类型的指令`invokedynamic`，以支持在动态类型检测中的方法调用。
-[Da Vinci
-Machine](https://zh.wikipedia.org/wiki/Da_Vinci_Machine "wikilink")
-则是一种支持这种动态类型调用的虚拟机。 而所有支持JSE 7的Java虚拟机都应支持invokedynamic操作码。
+[JSR](https://zh.wikipedia.org/wiki/JCP#JSR列表 "wikilink")292\[5\]中，在Java虚拟机层次增加了一种支持动态类型的指令`invokedynamic`，以支持在动态类型检测中的方法调用。 [Da Vinci Machine](https://zh.wikipedia.org/wiki/Da_Vinci_Machine "wikilink") 则是一种支持这种动态类型调用的虚拟机。 而所有支持JSE 7的Java虚拟机都应支持invokedynamic操作码。
 
 ## 参考文献
 
 {{-}}
 
-[Category:Java平台](https://zh.wikipedia.org/wiki/Category:Java平台 "wikilink")
-[Category:汇编语言](https://zh.wikipedia.org/wiki/Category:汇编语言 "wikilink")
-[Category:位元組碼](https://zh.wikipedia.org/wiki/Category:位元組碼 "wikilink")
+[Category:Java平台](https://zh.wikipedia.org/wiki/Category:Java平台 "wikilink") [Category:汇编语言](https://zh.wikipedia.org/wiki/Category:汇编语言 "wikilink") [Category:位元組碼](https://zh.wikipedia.org/wiki/Category:位元組碼 "wikilink")
 
-1.  [Understanding bytecode makes you a better
-    programmer](http://www-128.ibm.com/developerworks/ibm/library/it-haggar_bytecode/)
+1.  [Understanding bytecode makes you a better programmer](http://www-128.ibm.com/developerworks/ibm/library/it-haggar_bytecode/)
 2.  <http://docs.oracle.com/javase/specs/jvms/se7/html/jvms-6.html#jvms-6.2>
 3.  [Jasmin Home Page](http://jasmin.sourceforge.net)
 4.

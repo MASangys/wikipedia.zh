@@ -1389,25 +1389,14 @@ Mable之男友（第14集）</p></td>
 
 ## 外部連結
 
-  - [《仁心解碼II》 GOTV
-    第1集重溫](https://web.archive.org/web/20160304075712/http://gotv.tvb.com/programme/103605/161280/)
+  - [《仁心解碼II》 GOTV 第1集重溫](https://web.archive.org/web/20160304075712/http://gotv.tvb.com/programme/103605/161280/)
 
 ## 電視節目的變遷
 
-[Category:2013年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2013年無綫電視劇集 "wikilink")
-[Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink")
-[Category:無綫電視犯罪劇集](https://zh.wikipedia.org/wiki/Category:無綫電視犯罪劇集 "wikilink")
-[Category:無綫電視醫學劇集](https://zh.wikipedia.org/wiki/Category:無綫電視醫學劇集 "wikilink")
-[Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink")
-[Category:精神病題材電視劇](https://zh.wikipedia.org/wiki/Category:精神病題材電視劇 "wikilink")
+[Category:2013年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2013年無綫電視劇集 "wikilink") [Category:無綫電視2010年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2010年代背景劇集 "wikilink") [Category:無綫電視犯罪劇集](https://zh.wikipedia.org/wiki/Category:無綫電視犯罪劇集 "wikilink") [Category:無綫電視醫學劇集](https://zh.wikipedia.org/wiki/Category:無綫電視醫學劇集 "wikilink") [Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:精神病題材電視劇](https://zh.wikipedia.org/wiki/Category:精神病題材電視劇 "wikilink")
 
-1.  [藝人月曆 - 7月26日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-2.  [藝人月曆 - 8月14日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-3.  [藝人月曆 - 3月14日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-4.  [藝人月曆 - 3月24日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
-5.  [藝人月曆 - 4月16日 -
-    tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+1.  [藝人月曆 - 7月26日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+2.  [藝人月曆 - 8月14日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+3.  [藝人月曆 - 3月14日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+4.  [藝人月曆 - 3月24日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)
+5.  [藝人月曆 - 4月16日 - tvb.com](http://artiste.tvb.com/index.php?m=artistecalendar)

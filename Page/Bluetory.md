@@ -1,23 +1,16 @@
-《**Bluetory**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")首張[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在2010年1月14日由[FNC娛樂](../Page/FNC娛樂.md "wikilink")製作，[Mnet
-Media發行](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")。EP包括了5首歌，並以《孤獨的人》（）作主打曲\[1\]。這專輯另外於2010年8月10日由[華納唱片
-(台灣)在台灣以兩個版本發行](https://zh.wikipedia.org/wiki/華納唱片_\(台灣\) "wikilink")，其中一個版本附贈一片DVD。
+《**Bluetory**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")首張[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在2010年1月14日由[FNC娛樂](../Page/FNC娛樂.md "wikilink")製作，[Mnet Media發行](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")。EP包括了5首歌，並以《孤獨的人》（）作主打曲\[1\]。這專輯另外於2010年8月10日由[華納唱片 (台灣)在台灣以兩個版本發行](https://zh.wikipedia.org/wiki/華納唱片_\(台灣\) "wikilink")，其中一個版本附贈一片DVD。
 
 ## 宣傳及反響
 
 2010年1月7日，成員[李宗泫](../Page/李宗泫.md "wikilink")宣傳EP的預告片連同《孤獨的人》單曲一同出爐，次日[姜敏赫](../Page/姜敏赫.md "wikilink")的預告片亦公開。[李正信](../Page/李正信.md "wikilink")的預告片則到1月11日公開；而隊長、主音[鄭容和](../Page/鄭容和.md "wikilink")的預告片要到EP推出前一日才公開。
 
-2010年1月15日，CNBLUE於[KBS的](../Page/韓國放送公社.md "wikilink")《[KBS音樂銀行](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》首次亮相，並在1月29日取得冠軍。同時，《孤獨的人》在1月31日於[SBS的](../Page/SBS_\(韓國\).md "wikilink")《[SBS人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》為他們奪得了首個「Mutizen
-Song」\[2\]。
+2010年1月15日，CNBLUE於[KBS的](../Page/韓國放送公社.md "wikilink")《[KBS音樂銀行](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》首次亮相，並在1月29日取得冠軍。同時，《孤獨的人》在1月31日於[SBS的](../Page/SBS_\(韓國\).md "wikilink")《[SBS人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》為他們奪得了首個「Mutizen Song」\[2\]。
 
-EP一推出迅即進佔Mnet排行榜的第1名及Hanteo排行榜的第2名，同時只用兩週時間登上韓國官方唱片排行榜[Gaon
-Chart的首名位置](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")。主打歌《孤獨的人》
-最高曾獲得的一週單曲榜冠軍（1月18日至24日）\[3\]及[KBS的](../Page/韓國放送公社.md "wikilink")《[KBS音樂銀行](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》2010年末k-榜第7名。
+EP一推出迅即進佔Mnet排行榜的第1名及Hanteo排行榜的第2名，同時只用兩週時間登上韓國官方唱片排行榜[Gaon Chart的首名位置](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")。主打歌《孤獨的人》 最高曾獲得的一週單曲榜冠軍（1月18日至24日）\[3\]及[KBS的](../Page/韓國放送公社.md "wikilink")《[KBS音樂銀行](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》2010年末k-榜第7名。
 
 ## 爭議
 
-2010年3月，地下樂團Ynot?對《孤獨的人》的詞曲作者（）及[李相浩](https://zh.wikipedia.org/wiki/李相浩 "wikilink")（）提出民事訴訟，控訴他們剽竊Ynot?2008年EP《GreenApple》的歌曲《Bluebird》。據報導，他們要求索取五千萬韓圜賠償金。金道勛與李相浩否認指控，並指出只有「only
-one bar ...」一句旋律相似，其他部分並不相同；前奏部分也不是完全相似，副歌部分「Alone,
-alone」更完全不同\[4\]。2011年4月法院做出有利於金道勛與李相浩的判決，並駁回抄襲的指控\[5\]。
+2010年3月，地下樂團Ynot?對《孤獨的人》的詞曲作者（）及[李相浩](https://zh.wikipedia.org/wiki/李相浩 "wikilink")（）提出民事訴訟，控訴他們剽竊Ynot?2008年EP《GreenApple》的歌曲《Bluebird》。據報導，他們要求索取五千萬韓圜賠償金。金道勛與李相浩否認指控，並指出只有「only one bar ...」一句旋律相似，其他部分並不相同；前奏部分也不是完全相似，副歌部分「Alone, alone」更完全不同\[4\]。2011年4月法院做出有利於金道勛與李相浩的判決，並駁回抄襲的指控\[5\]。
 
 ## 曲目
 
@@ -209,14 +202,9 @@ alone」更完全不同\[4\]。2011年4月法院做出有利於金道勛與李�
 ## 外部連結
 
   -
-[Category:2010年迷你專輯](https://zh.wikipedia.org/wiki/Category:2010年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:CNBLUE音樂專輯](https://zh.wikipedia.org/wiki/Category:CNBLUE音樂專輯 "wikilink")
+[Category:2010年迷你專輯](https://zh.wikipedia.org/wiki/Category:2010年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:CNBLUE音樂專輯](https://zh.wikipedia.org/wiki/Category:CNBLUE音樂專輯 "wikilink")
 
-1.  ["*Bluetory* album
-    info"](http://cnblue.co.kr/cnblue/kor/contents/album.html?code=album&idx=132)
-     *CNBLUE discography* (cnblue.co.kr) January 14, 2010. Retrieved
-    2010-05-22
+1.  ["*Bluetory* album info"](http://cnblue.co.kr/cnblue/kor/contents/album.html?code=album&idx=132)  *CNBLUE discography* (cnblue.co.kr) January 14, 2010. Retrieved 2010-05-22
 
 2.
 
@@ -235,18 +223,10 @@ alone」更完全不同\[4\]。2011年4月法院做出有利於金道勛與李�
 10.
 
 11.
-12. ["This links to the current week - search for year/week at the
-    bottom of page"](http://www.g-music.com.tw/GMusicBillboard3.aspx)
-    *J-Pop/K-Pop Chart* (G-Music). Retrieved 2011-11-16
+12. ["This links to the current week - search for year/week at the bottom of page"](http://www.g-music.com.tw/GMusicBillboard3.aspx)  *J-Pop/K-Pop Chart* (G-Music). Retrieved 2011-11-16
 
-13. ["J-Pop/K-Pop Chart Week 32 (
-    August 6-12, 2010)"](http://www.5music.com.tw/CDTop.asp?top=2&pWeek=201032&sclass=)
-    *Five Music Chart*. Retrieved 2012-05-22
+13. ["J-Pop/K-Pop Chart Week 32 ( August 6-12, 2010)"](http://www.5music.com.tw/CDTop.asp?top=2&pWeek=201032&sclass=) *Five Music Chart*. Retrieved 2012-05-22
 
-14. ["*Bluetory* Version A (CD+DVD) album
-    info"](http://www.warnermusic.com.tw/store/product/5052498238729)
-    *Warner Music Taiwan*. August 10, 2010. Retrieved 2012-05-22
+14. ["*Bluetory* Version A (CD+DVD) album info"](http://www.warnermusic.com.tw/store/product/5052498238729)  *Warner Music Taiwan*. August 10, 2010. Retrieved 2012-05-22
 
-15. ["*Bluetory* Version B (CD) album
-    info"](http://www.warnermusic.com.tw/store/product/5052498238828)
-    *Warner Music Taiwan*. August 10, 2010. Retrieved 2012-05-22
+15. ["*Bluetory* Version B (CD) album info"](http://www.warnermusic.com.tw/store/product/5052498238828)  *Warner Music Taiwan*. August 10, 2010. Retrieved 2012-05-22

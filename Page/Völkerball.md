@@ -1,8 +1,6 @@
 **Völkerball**（德译：[躲避球](../Page/躲避球.md "wikilink")）是德国[NDH](../Page/NDH.md "wikilink")乐队[Rammstein的](https://zh.wikipedia.org/wiki/Rammstein "wikilink")[现场专辑](https://zh.wikipedia.org/wiki/现场专辑 "wikilink")。
 
-标准版含有1张[CD](../Page/CD.md "wikilink")和1张[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，特别版含有两张DVD和一张CD，额外的DVD带有纪录片“Anakonda
-Im Netz”和“[Reise,
-Reise专辑制作过程](../Page/Reise,_Reise.md "wikilink")”。限量版有有两张DVD，两张CD和写真集。封面的标志来自[1980年莫斯科奥运会](https://zh.wikipedia.org/wiki/1980年夏季奥林匹克运动会 "wikilink")。
+标准版含有1张[CD](../Page/CD.md "wikilink")和1张[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，特别版含有两张DVD和一张CD，额外的DVD带有纪录片“Anakonda Im Netz”和“[Reise, Reise专辑制作过程](../Page/Reise,_Reise.md "wikilink")”。限量版有有两张DVD，两张CD和写真集。封面的标志来自[1980年莫斯科奥运会](https://zh.wikipedia.org/wiki/1980年夏季奥林匹克运动会 "wikilink")。
 
 ## 字义
 
@@ -27,8 +25,7 @@ Völkerball在德语中的意思为[躲避球](../Page/躲避球.md "wikilink")�
   - 1DVD，140分钟演唱会片段：[尼姆](../Page/尼姆.md "wikilink")、[东京](../Page/东京.md "wikilink")、[伦敦](../Page/伦敦.md "wikilink")、[莫斯科](../Page/莫斯科.md "wikilink")。
   - 2CD，尼姆现场的音频完整版。
   - 1DVD，90分钟的纪录片：Anakonda Im Netz和Reise, Reise专辑制作过程
-  - 190页的巡回[写真集](https://zh.wikipedia.org/wiki/写真集 "wikilink")(27 cm x
-    31 cm)。
+  - 190页的巡回[写真集](https://zh.wikipedia.org/wiki/写真集 "wikilink")(27 cm x 31 cm)。
   - 只有40000份，有唯一的编号。
 
 ## 专辑目录
@@ -120,5 +117,4 @@ Völkerball在德语中的意思为[躲避球](../Page/躲避球.md "wikilink")�
 </tbody>
 </table>
 
-[Category:2006年音乐相关影像作品](https://zh.wikipedia.org/wiki/Category:2006年音乐相关影像作品 "wikilink")
-[Category:现场影像](https://zh.wikipedia.org/wiki/Category:现场影像 "wikilink")
+[Category:2006年音乐相关影像作品](https://zh.wikipedia.org/wiki/Category:2006年音乐相关影像作品 "wikilink") [Category:现场影像](https://zh.wikipedia.org/wiki/Category:现场影像 "wikilink")

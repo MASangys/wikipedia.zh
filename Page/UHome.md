@@ -1,13 +1,10 @@
 **UHome**是[香港](../Page/香港.md "wikilink")一間已經結業的[網頁寄存公司](https://zh.wikipedia.org/wiki/網頁寄存 "wikilink")，它於1999年8月1日創立，曾經是香港最著名的免費[網頁寄存公司之一](https://zh.wikipedia.org/wiki/網頁寄存 "wikilink")，它的免費會員人數曾多達七萬，部份會員網站直至2003年都是一直在香港十大流量網站之內，uhome於2006年結業。
 
-Uhome在2001年建立的進階會員及星級會員制度曾經吸引不少網站加盟，UGameAsia和[AK
-Zone等均曾經是它旗下的網站](https://zh.wikipedia.org/wiki/AK_Zone "wikilink")。之後推出的「smart
-UHOME」收費[網存服務也吸引了無數的顧客](https://zh.wikipedia.org/wiki/網存 "wikilink")。
+Uhome在2001年建立的進階會員及星級會員制度曾經吸引不少網站加盟，UGameAsia和[AK Zone等均曾經是它旗下的網站](https://zh.wikipedia.org/wiki/AK_Zone "wikilink")。之後推出的「smart UHOME」收費[網存服務也吸引了無數的顧客](https://zh.wikipedia.org/wiki/網存 "wikilink")。
 
 ## 網存服務
 
-UHome採取一人一戶口政策以防止網頁寄存服務被濫用，每位會員最多只可以擁有一個網站，而它自行開發的戶口管理程式命名為
-「UACCT」（萬用戶口控制中心）。
+UHome採取一人一戶口政策以防止網頁寄存服務被濫用，每位會員最多只可以擁有一個網站，而它自行開發的戶口管理程式命名為 「UACCT」（萬用戶口控制中心）。
 
 ### 免費會員
 
@@ -56,8 +53,6 @@ UHome曾經有一班長期忠實的熱心會員，他們的工作一般是幫助
 
 ## 外部連結
 
-[Category:香港網站](https://zh.wikipedia.org/wiki/Category:香港網站 "wikilink")
-[Category:香港已結業公司](https://zh.wikipedia.org/wiki/Category:香港已結業公司 "wikilink")
-[Category:香港電腦公司](https://zh.wikipedia.org/wiki/Category:香港電腦公司 "wikilink")
+[Category:香港網站](https://zh.wikipedia.org/wiki/Category:香港網站 "wikilink") [Category:香港已結業公司](https://zh.wikipedia.org/wiki/Category:香港已結業公司 "wikilink") [Category:香港電腦公司](https://zh.wikipedia.org/wiki/Category:香港電腦公司 "wikilink")
 
 1.

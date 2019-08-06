@@ -1,6 +1,4 @@
-《**Everlasting**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[徐仁國](../Page/徐仁國.md "wikilink")的首張[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2014年1月15日以兩個版本：Type-A及Type-B推出。兩張單曲：《》及《[We
-Can Dance
-Tonight](../Page/We_Can_Dance_Tonight.md "wikilink")》在專輯推出前預先發行。
+《**Everlasting**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[徐仁國](../Page/徐仁國.md "wikilink")的首張[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2014年1月15日以兩個版本：Type-A及Type-B推出。兩張單曲：《》及《[We Can Dance Tonight](../Page/We_Can_Dance_Tonight.md "wikilink")》在專輯推出前預先發行。
 
 ## 背景
 
@@ -10,8 +8,7 @@ Tonight](../Page/We_Can_Dance_Tonight.md "wikilink")》在專輯推出前預先�
 
 此專輯共分為2個發行版本：
 
-  - Type-A（編號：CRCP-40355）：這版本包括了一片CD及《Everlasting
-    Love》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作特輯的DVD\[3\]。
+  - Type-A（編號：CRCP-40355）：這版本包括了一片CD及《Everlasting Love》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作特輯的DVD\[3\]。
 
 <!-- end list -->
 
@@ -21,12 +18,9 @@ Tonight](../Page/We_Can_Dance_Tonight.md "wikilink")》在專輯推出前預先�
 
 2首歌曲曾以單曲形式發行：
 
-首張單曲《》在2013年4月24日發行。這歌曲由[m4c作曲](https://zh.wikipedia.org/wiki/m4c "wikilink")，並交由[大館敬填詞](https://zh.wikipedia.org/wiki/大館敬 "wikilink")，進入了[Oricon](../Page/Oricon.md "wikilink")單曲榜第三十二名，首週銷售2,968張及在榜停留1星期\[5\]。B面歌曲《Deep
-Inside My Heart》也出現在《Everlasting》的第8首位置。
+首張單曲《》在2013年4月24日發行。這歌曲由[m4c作曲](https://zh.wikipedia.org/wiki/m4c "wikilink")，並交由[大館敬填詞](https://zh.wikipedia.org/wiki/大館敬 "wikilink")，進入了[Oricon](../Page/Oricon.md "wikilink")單曲榜第三十二名，首週銷售2,968張及在榜停留1星期\[5\]。B面歌曲《Deep Inside My Heart》也出現在《Everlasting》的第8首位置。
 
-第二張單曲及最後一張單曲《[We Can Dance
-Tonight](../Page/We_Can_Dance_Tonight.md "wikilink")》在2013年10月16日發行。這歌曲由[INP作曲填詞](https://zh.wikipedia.org/wiki/INP "wikilink")，[Justin](../Page/Justin.md "wikilink")協作作曲，進入了[Oricon](../Page/Oricon.md "wikilink")單曲榜第二十一名，首週銷售3,796張及在榜停留2星期\[6\]。B面歌曲《My
-Voice》也出現在《Everlasting》的第3首位置。
+第二張單曲及最後一張單曲《[We Can Dance Tonight](../Page/We_Can_Dance_Tonight.md "wikilink")》在2013年10月16日發行。這歌曲由[INP作曲填詞](https://zh.wikipedia.org/wiki/INP "wikilink")，[Justin](../Page/Justin.md "wikilink")協作作曲，進入了[Oricon](../Page/Oricon.md "wikilink")單曲榜第二十一名，首週銷售3,796張及在榜停留2星期\[6\]。B面歌曲《My Voice》也出現在《Everlasting》的第3首位置。
 
 ## 曲目
 
@@ -66,9 +60,7 @@ Voice》也出現在《Everlasting》的第3首位置。
 
   -
 
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:徐仁國音樂專輯](https://zh.wikipedia.org/wiki/Category:徐仁國音樂專輯 "wikilink")
+[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:徐仁國音樂專輯](https://zh.wikipedia.org/wiki/Category:徐仁國音樂專輯 "wikilink")
 
 1.
 

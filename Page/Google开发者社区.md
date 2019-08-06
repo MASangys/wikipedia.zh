@@ -1,6 +1,4 @@
-**谷歌开发者社区**（Google Developer
-Groups\[1\]）是[谷歌开发者部门发起的全球项目](https://zh.wikipedia.org/wiki/谷歌 "wikilink")，是面向对Google和开源、开放技术感兴趣的开发者社区，内容涵盖Web、Android和其它Google
-API等。目前在全球已有500多个GDG社区。中国已成立了20多个GDG社区。
+**谷歌开发者社区**（Google Developer Groups\[1\]）是[谷歌开发者部门发起的全球项目](https://zh.wikipedia.org/wiki/谷歌 "wikilink")，是面向对Google和开源、开放技术感兴趣的开发者社区，内容涵盖Web、Android和其它Google API等。目前在全球已有500多个GDG社区。中国已成立了20多个GDG社区。
 
 ## 发展历史
 
@@ -29,9 +27,6 @@ API等。目前在全球已有500多个GDG社区。中国已成立了20多个GDG
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
 
 1.  [Google Developer Groups](https://developers.google.com/groups/)
-2.  [谷歌对 DevFest
-    活动的报道](http://blog.sina.com.cn/s/blog_9c079b040102weq4.html)
-
+2.  [谷歌对 DevFest 活动的报道](http://blog.sina.com.cn/s/blog_9c079b040102weq4.html)
 3.  [Google I/O Offsite](https://events.google.com/io2015/offsite)
-4.  [谷歌对 Women Techmarkers
-    的活动报道](http://blog.sina.com.cn/s/blog_9c079b040102vmbn.html)
+4.  [谷歌对 Women Techmarkers 的活动报道](http://blog.sina.com.cn/s/blog_9c079b040102vmbn.html)

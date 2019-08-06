@@ -20,9 +20,7 @@
 
 ## 节目
 
-  - 《[新闻联播](../Page/新闻联播.md "wikilink")》、
-    《[联播天气预报](https://zh.wikipedia.org/wiki/联播天气预报 "wikilink")》、
-    《[焦点访谈](../Page/焦点访谈.md "wikilink")》（[综合频道和](../Page/中国中央电视台综合频道.md "wikilink")[新闻频道的节目](../Page/中国中央电视台新闻频道.md "wikilink")，日本时间20:00播出，与两频道并机；次日6:45-7:35重播《新闻联播》和《焦点访谈》；若当天安排转播央视重大节日晚会节目，当天《焦点访谈》暂停转播，改提前播出《日本新闻》）
+  - 《[新闻联播](../Page/新闻联播.md "wikilink")》、 《[联播天气预报](https://zh.wikipedia.org/wiki/联播天气预报 "wikilink")》、 《[焦点访谈](../Page/焦点访谈.md "wikilink")》（[综合频道和](../Page/中国中央电视台综合频道.md "wikilink")[新闻频道的节目](../Page/中国中央电视台新闻频道.md "wikilink")，日本时间20:00播出，与两频道并机；次日6:45-7:35重播《新闻联播》和《焦点访谈》；若当天安排转播央视重大节日晚会节目，当天《焦点访谈》暂停转播，改提前播出《日本新闻》）
   - 《日本新闻》（大富公司自制，日本时间21:48播出，次日0:55重播；若当天安排转播央视重大节日晚会节目，当天19:35左右提前播出《日本新闻》，不转播《焦点访谈》）
   - 《[经济信息联播](../Page/经济信息联播.md "wikilink")》（[财经频道节目](../Page/中国中央电视台财经频道.md "wikilink")，日本时间16:00播出，重播前一天节目）
   - 《[经济半小时](https://zh.wikipedia.org/wiki/经济半小时 "wikilink")》（财经频道节目，日本时间每周六和周日10:00播出）
@@ -37,24 +35,16 @@
 
 ## 频道标志
 
-<File:Cctv> daifu logo (1998-2012).jpg|1998-2011
-[File:CCTV_daifu_logo.png|2011-](File:CCTV_daifu_logo.png%7C2011-)
+<File:Cctv> daifu logo (1998-2012).jpg|1998-2011 [File:CCTV_daifu_logo.png|2011-](File:CCTV_daifu_logo.png%7C2011-)
 
 ## 参考资料
 
-  - [驻日本大使程永华为CCTV大富电视-{台}-开始日语化播出题写贺词](http://www.china-embassy.or.jp/chn/gdxw/t890018.htm)
-    2011年12月23日，中国驻日本大使馆
-  - [CCTV大富频道开始日语化播出
-    可在日本落地](http://news.xinhuanet.com/newmedia/2011-12/24/c_122477114.htm)
-    2011年12月24日，新华网
-  - [旅日华侨赞央视在日落地频道推出中日双语播出](http://www.chinanews.com/hr/2012/01-18/3612757.shtml)
-    2012年1月18日，中新网
-  - ["CCTV大富"电视-{台}-将在日本使用日语播出央视节目](http://japan.xinhuanet.com/2012-01/21/c_131372194.htm)
-    2012年1月21日，新华网日本频道
-  - ["CCTV大富"电视-{台}-将在日本播出央视节目](http://media.sohu.com/20120129/n333080134.shtml)
-    2012年1月29日，搜狐传媒
-  - [日本：株式会社大富](http://news.cntv.cn/special/hymtxzh/20121101/106845.shtml)
-    中国网络电视台
+  - [驻日本大使程永华为CCTV大富电视-{台}-开始日语化播出题写贺词](http://www.china-embassy.or.jp/chn/gdxw/t890018.htm) 2011年12月23日，中国驻日本大使馆
+  - [CCTV大富频道开始日语化播出 可在日本落地](http://news.xinhuanet.com/newmedia/2011-12/24/c_122477114.htm) 2011年12月24日，新华网
+  - [旅日华侨赞央视在日落地频道推出中日双语播出](http://www.chinanews.com/hr/2012/01-18/3612757.shtml) 2012年1月18日，中新网
+  - ["CCTV大富"电视-{台}-将在日本使用日语播出央视节目](http://japan.xinhuanet.com/2012-01/21/c_131372194.htm) 2012年1月21日，新华网日本频道
+  - ["CCTV大富"电视-{台}-将在日本播出央视节目](http://media.sohu.com/20120129/n333080134.shtml) 2012年1月29日，搜狐传媒
+  - [日本：株式会社大富](http://news.cntv.cn/special/hymtxzh/20121101/106845.shtml) 中国网络电视台
 
 ## 外部链接
 
@@ -63,5 +53,4 @@
 
 {{-}}
 
-[Category:中国中央电视台海外频道](https://zh.wikipedia.org/wiki/Category:中国中央电视台海外频道 "wikilink")
-[Category:日本卫星电视频道](https://zh.wikipedia.org/wiki/Category:日本卫星电视频道 "wikilink")
+[Category:中国中央电视台海外频道](https://zh.wikipedia.org/wiki/Category:中国中央电视台海外频道 "wikilink") [Category:日本卫星电视频道](https://zh.wikipedia.org/wiki/Category:日本卫星电视频道 "wikilink")

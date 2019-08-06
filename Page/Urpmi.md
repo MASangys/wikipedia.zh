@@ -1,25 +1,12 @@
-**urpmi**是[Mageia](../Page/Mageia.md "wikilink")/[Mandriva
-Linux及其衍生發行版的](../Page/Mandriva_Linux.md "wikilink")[軟體包管理系統](https://zh.wikipedia.org/wiki/軟體包管理系統 "wikilink")，用於安裝、移除、升級和查詢本機或遠端（即提供軟體包的伺服器）的軟體包。它解決了[RPM套件管理員](../Page/RPM套件管理員.md "wikilink")容易讓用戶經常遇到[相依性地獄的問題](https://zh.wikipedia.org/wiki/相依性地獄 "wikilink")。它可以從官方或非官方的來源獲得軟體包（非官方來源如）。它有一個圖形前端：[Rpmdrake](https://zh.wikipedia.org/wiki/Rpmdrake "wikilink")。
+**urpmi**是[Mageia](../Page/Mageia.md "wikilink")/[Mandriva Linux及其衍生發行版的](../Page/Mandriva_Linux.md "wikilink")[軟體包管理系統](https://zh.wikipedia.org/wiki/軟體包管理系統 "wikilink")，用於安裝、移除、升級和查詢本機或遠端（即提供軟體包的伺服器）的軟體包。它解決了[RPM套件管理員](../Page/RPM套件管理員.md "wikilink")容易讓用戶經常遇到[相依性地獄的問題](https://zh.wikipedia.org/wiki/相依性地獄 "wikilink")。它可以從官方或非官方的來源獲得軟體包（非官方來源如）。它有一個圖形前端：[Rpmdrake](https://zh.wikipedia.org/wiki/Rpmdrake "wikilink")。
 
-除了被[Mandriva
-Linux所使用外](../Page/Mandriva_Linux.md "wikilink")，它也被用在[Mageia
-Linux](../Page/Mageia.md "wikilink")（一個基於Mandriva
-Linux的[衍生版本](https://zh.wikipedia.org/wiki/復刻_\(軟體工程\) "wikilink")），以及ROSA
-Linux（同樣是基於Mandriva Linux的分支）。
+除了被[Mandriva Linux所使用外](../Page/Mandriva_Linux.md "wikilink")，它也被用在[Mageia Linux](../Page/Mageia.md "wikilink")（一個基於Mandriva Linux的[衍生版本](https://zh.wikipedia.org/wiki/復刻_\(軟體工程\) "wikilink")），以及ROSA Linux（同樣是基於Mandriva Linux的分支）。
 
 ## 歷史
 
-**urpmi**原先是作為一個解決[RPM套件管理員](../Page/RPM套件管理員.md "wikilink")安裝侷限的實驗而由Pascal
-Rigaux所開發，爾後被[Mandriva
-Linux所採用](../Page/Mandriva_Linux.md "wikilink")，故由François
-Pons及其他[Mandriva](../Page/Mandriva.md "wikilink")公司的雇員所維護。目前（2010年至2013年）由同時也是rpmdrake的維護者的Thierry
-Vignaud所維護（見\[<https://web.archive.org/web/20150523165549/http://svn.mandriva.com/viewvc/soft/rpmdrake/trunk/NEWS?revision=273200&view=markup%5D%EF%BC%89>。
+**urpmi**原先是作為一個解決[RPM套件管理員](../Page/RPM套件管理員.md "wikilink")安裝侷限的實驗而由Pascal Rigaux所開發，爾後被[Mandriva Linux所採用](../Page/Mandriva_Linux.md "wikilink")，故由François Pons及其他[Mandriva](../Page/Mandriva.md "wikilink")公司的雇員所維護。目前（2010年至2013年）由同時也是rpmdrake的維護者的Thierry Vignaud所維護（見\[<https://web.archive.org/web/20150523165549/http://svn.mandriva.com/viewvc/soft/rpmdrake/trunk/NEWS?revision=273200&view=markup%5D%EF%BC%89>。
 
-Per Øyvind Karlsen目前（截至2013年止）維護著Rosa Linux的一個urpmi的分支，同時也由Thierry
-Vignaud進行修復程式錯誤及改進效能的工作（如：
-[1](http://svnweb.mageia.org/soft?view=revision&revision=7297) -\>
-[2](https://abf.rosalinux.ru/proyvind/urpmi/commit/11e4718ce2a1bf814bcb1a68d2490e2ff3a8ca34.patch)），但這並不是Mandriva
-Business Server所使用的版本。
+Per Øyvind Karlsen目前（截至2013年止）維護著Rosa Linux的一個urpmi的分支，同時也由Thierry Vignaud進行修復程式錯誤及改進效能的工作（如： [1](http://svnweb.mageia.org/soft?view=revision&revision=7297) -\> [2](https://abf.rosalinux.ru/proyvind/urpmi/commit/11e4718ce2a1bf814bcb1a68d2490e2ff3a8ca34.patch)），但這並不是Mandriva Business Server所使用的版本。
 
 ## 指令
 
@@ -46,7 +33,6 @@ Business Server所使用的版本。
 ## 外部連結
 
   -
-  - [鏡像選擇（easy
-    urpmi）](https://web.archive.org/web/20130425023021/http://easyurpmi.zarb.org/)
+  - [鏡像選擇（easy urpmi）](https://web.archive.org/web/20130425023021/http://easyurpmi.zarb.org/)
 
   - [URPMI與RPM教學](https://web.archive.org/web/20100204094643/http://www.cs.utexas.edu/users/walter/geek/rpm-howto.html)

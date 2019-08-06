@@ -14,8 +14,6 @@ HCESAR鍵盤是[公共行政和大多數](https://zh.wikipedia.org/wiki/公共�
 
 [Category:鍵盤配置](https://zh.wikipedia.org/wiki/Category:鍵盤配置 "wikilink")
 
-1.  Regulamento da Organização da Mocidade Portuguesa, Diário do Governo
-    nº 284, I série de 4 de Dezembro de 1936 e os Decretos nº 27882 e nº
-    27868 de 21 de Julho de 1937.
+1.  Regulamento da Organização da Mocidade Portuguesa, Diário do Governo nº 284, I série de 4 de Dezembro de 1936 e os Decretos nº 27882 e nº 27868 de 21 de Julho de 1937.
 2.  .
 3.  .

@@ -1,5 +1,4 @@
-『**Kis-My-Ft2 Kis-My-MiNT Tour at 東京巨蛋
-2012.4.8**』（）是[Kis-My-Ft2的第](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")3張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+『**Kis-My-Ft2 Kis-My-MiNT Tour at 東京巨蛋 2012.4.8**』（）是[Kis-My-Ft2的第](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")3張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 收錄内容
 
@@ -25,8 +24,7 @@
 18. [若者たち](../Page/Everybody_Go.md "wikilink")
 19. [Tell me why](../Page/Kis-My-1st.md "wikilink")
 20. [We never give up\!](../Page/We_never_give_up!.md "wikilink")
-21. [Shake It
-    Up](https://zh.wikipedia.org/wiki/WANNA_BEEEE!!!/Shake_It_Up "wikilink")
+21. [Shake It Up](https://zh.wikipedia.org/wiki/WANNA_BEEEE!!!/Shake_It_Up "wikilink")
 22. [Love is you](../Page/We_never_give_up!.md "wikilink")
 23. [Catch & Go\!\!](../Page/Kis-My-1st.md "wikilink") - 横尾・宮田・二階堂・千賀
 24. [Love meee](../Page/Kis-My-1st.md "wikilink") - 藤谷獨唱
@@ -60,5 +58,4 @@ Encore
 
 ## 備註
 
-[Category:2012年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2012年音樂相關影像作品 "wikilink")
-[Category:Kis-My-Ft2](https://zh.wikipedia.org/wiki/Category:Kis-My-Ft2 "wikilink")
+[Category:2012年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2012年音樂相關影像作品 "wikilink") [Category:Kis-My-Ft2](https://zh.wikipedia.org/wiki/Category:Kis-My-Ft2 "wikilink")

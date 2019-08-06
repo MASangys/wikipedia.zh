@@ -16,8 +16,7 @@
 
 2012年12月受邀至台北市政府跨年晚會《[臺北最HIGH新年城](https://zh.wikipedia.org/wiki/臺北最HIGH新年城 "wikilink")》演出，成為台北跨年演唱會歷史最年輕的受邀搖滾樂團。
 
-2013年，發行首張全創作專輯《[Exit
-出口](https://zh.wikipedia.org/wiki/Exit_出口 "wikilink")》。
+2013年，發行首張全創作專輯《[Exit 出口](https://zh.wikipedia.org/wiki/Exit_出口 "wikilink")》。
 
 ## 成員資料
 
@@ -34,13 +33,11 @@
 
   - 2009年3月：《[白色幸福](https://zh.wikipedia.org/wiki/白色幸福 "wikilink")》（EP）
   - 2009年5月：《[愛的鼓勵](https://zh.wikipedia.org/wiki/愛的鼓勵_\(Fun4EP\) "wikilink")》（EP）
-  - 2013年4月：《[Exit
-    出口](https://zh.wikipedia.org/wiki/Exit_出口 "wikilink")》
+  - 2013年4月：《[Exit 出口](https://zh.wikipedia.org/wiki/Exit_出口 "wikilink")》
 
 ### 音樂合輯
 
-  - 2010年《[PLAYBOYZ
-    滾動合輯](https://zh.wikipedia.org/wiki/PLAYBOYZ_滾動合輯 "wikilink")》
+  - 2010年《[PLAYBOYZ 滾動合輯](https://zh.wikipedia.org/wiki/PLAYBOYZ_滾動合輯 "wikilink")》
 
 ## 獎項
 
@@ -53,5 +50,4 @@
   -
   - \[<https://web.archive.org/web/20131029195306/http://tw.weibo.com/forfun4>　FUN4樂團微博\]
 
-[Category:台灣搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣搖滾樂團 "wikilink")
-[Category:台灣音樂製作人](https://zh.wikipedia.org/wiki/Category:台灣音樂製作人 "wikilink")
+[Category:台灣搖滾樂團](https://zh.wikipedia.org/wiki/Category:台灣搖滾樂團 "wikilink") [Category:台灣音樂製作人](https://zh.wikipedia.org/wiki/Category:台灣音樂製作人 "wikilink")

@@ -1,6 +1,4 @@
-**NC恐龍** ()
-是一支[韓國棒球委員會](../Page/韓國棒球委員會.md "wikilink")的球隊，成立於2011年。主場為[昌原市](../Page/昌原市.md "wikilink")的[馬山綜合運動場棒球場](https://zh.wikipedia.org/wiki/馬山綜合運動場棒球場 "wikilink")。2012年開始參加韓國職棒二軍聯盟的賽事。2013年賽季加入[韓國職棒](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")，成為該聯盟第9支球隊。
-[NC_Dinos_Dandi_and_Sseri.JPG](https://zh.wikipedia.org/wiki/File:NC_Dinos_Dandi_and_Sseri.JPG "fig:NC_Dinos_Dandi_and_Sseri.JPG")
+**NC恐龍** () 是一支[韓國棒球委員會](../Page/韓國棒球委員會.md "wikilink")的球隊，成立於2011年。主場為[昌原市](../Page/昌原市.md "wikilink")的[馬山綜合運動場棒球場](https://zh.wikipedia.org/wiki/馬山綜合運動場棒球場 "wikilink")。2012年開始參加韓國職棒二軍聯盟的賽事。2013年賽季加入[韓國職棒](https://zh.wikipedia.org/wiki/韓國職棒 "wikilink")，成為該聯盟第9支球隊。 [NC_Dinos_Dandi_and_Sseri.JPG](https://zh.wikipedia.org/wiki/File:NC_Dinos_Dandi_and_Sseri.JPG "fig:NC_Dinos_Dandi_and_Sseri.JPG")
 
 ## 球隊歷史
 
@@ -133,6 +131,4 @@
 
 [Category:韓國職棒球隊](https://zh.wikipedia.org/wiki/Category:韓國職棒球隊 "wikilink")
 
-[Category:紀錄模板](https://zh.wikipedia.org/wiki/Category:紀錄模板 "wikilink")
-[Category:韓國職棒](https://zh.wikipedia.org/wiki/Category:韓國職棒 "wikilink")
-[Category:NCsoft](https://zh.wikipedia.org/wiki/Category:NCsoft "wikilink")
+[Category:紀錄模板](https://zh.wikipedia.org/wiki/Category:紀錄模板 "wikilink") [Category:韓國職棒](https://zh.wikipedia.org/wiki/Category:韓國職棒 "wikilink") [Category:NCsoft](https://zh.wikipedia.org/wiki/Category:NCsoft "wikilink")

@@ -6,8 +6,7 @@
 
 ## 语言
 
-  - 西方社会对中国[官话](../Page/官话.md "wikilink")、[现代标准汉语](https://zh.wikipedia.org/wiki/现代标准汉语 "wikilink")（普通话、国语、华语）的称呼，即“Mandarin
-    Chinese”。
+  - 西方社会对中国[官话](../Page/官话.md "wikilink")、[现代标准汉语](https://zh.wikipedia.org/wiki/现代标准汉语 "wikilink")（普通话、国语、华语）的称呼，即“Mandarin Chinese”。
 
 ## 服装
 
@@ -28,7 +27,6 @@
 
 ## 其他
 
-  - [满大人
-    (动漫)](https://zh.wikipedia.org/wiki/满大人_\(动漫\) "wikilink")，一位在[漫威漫画世界中的虚构漫画超级反派](https://zh.wikipedia.org/wiki/漫威漫画 "wikilink")。
+  - [满大人 (动漫)](https://zh.wikipedia.org/wiki/满大人_\(动漫\) "wikilink")，一位在[漫威漫画世界中的虚构漫画超级反派](https://zh.wikipedia.org/wiki/漫威漫画 "wikilink")。
 
 __DISAMBIG__

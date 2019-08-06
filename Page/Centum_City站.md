@@ -1,5 +1,4 @@
-**Centum
-City站**（，亦翻為**賽騰城站**）是一個位於[釜山廣域市](../Page/釜山廣域市.md "wikilink")[海雲臺區](../Page/海雲臺區.md "wikilink")佑洞，屬於[釜山都市鐵道2號線的](https://zh.wikipedia.org/wiki/釜山都市鐵道2號線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")。此站與[民樂站之間下穿](../Page/民樂站_\(釜山\).md "wikilink")隧道。
+**Centum City站**（，亦翻為**賽騰城站**）是一個位於[釜山廣域市](../Page/釜山廣域市.md "wikilink")[海雲臺區](../Page/海雲臺區.md "wikilink")佑洞，屬於[釜山都市鐵道2號線的](https://zh.wikipedia.org/wiki/釜山都市鐵道2號線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")。此站與[民樂站之間下穿](../Page/民樂站_\(釜山\).md "wikilink")隧道。
 
 ## 車站結構
 
@@ -51,9 +50,6 @@ City站**（，亦翻為**賽騰城站**）是一個位於[釜山廣域市](../P
   - 釜山交通公社
 
       -
-        [BEXCO](../Page/BEXCO站.md "wikilink")（）－**Centum
-        City（）**－[民樂](../Page/民樂站_\(釜山\).md "wikilink")（）
+        [BEXCO](../Page/BEXCO站.md "wikilink")（）－**Centum City（）**－[民樂](../Page/民樂站_\(釜山\).md "wikilink")（）
 
-[Category:海雲臺區鐵路車站](https://zh.wikipedia.org/wiki/Category:海雲臺區鐵路車站 "wikilink")
-[Category:釜山地鐵2號線車站](https://zh.wikipedia.org/wiki/Category:釜山地鐵2號線車站 "wikilink")
-[Category:2002年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2002年啟用的鐵路車站 "wikilink")
+[Category:海雲臺區鐵路車站](https://zh.wikipedia.org/wiki/Category:海雲臺區鐵路車站 "wikilink") [Category:釜山地鐵2號線車站](https://zh.wikipedia.org/wiki/Category:釜山地鐵2號線車站 "wikilink") [Category:2002年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2002年啟用的鐵路車站 "wikilink")

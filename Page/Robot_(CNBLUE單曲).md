@@ -1,20 +1,14 @@
-《**Robot**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第七張單曲，由[鄭容和](../Page/鄭容和.md "wikilink")和Kosuke
-Oba編寫歌曲及製作，並在2012年12月19日以三個不同版本推出。這也是他們第四張由[華納唱片
-(日本)發行的單曲](../Page/華納音樂集團.md "wikilink")\[1\]。
+《**Robot**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第七張單曲，由[鄭容和](../Page/鄭容和.md "wikilink")和Kosuke Oba編寫歌曲及製作，並在2012年12月19日以三個不同版本推出。這也是他們第四張由[華納唱片 (日本)發行的單曲](../Page/華納音樂集團.md "wikilink")\[1\]。
 
 ## 背景
 
-此單曲由CNBLUE韓國公司FNC媒體方面在11月14日公布發行消息與曲目及版本的資料\[2\]。
-同月22日，在他們日本的官方網頁上傳了一張照片，公開了專輯的封面\[3\]、製作人、價格與每個版本附贈的內容\[4\]\[5\]。日本[日本電視台](../Page/日本電視台.md "wikilink")的節目《》自12月亦選用了《Robot》作為其開場歌曲\[6\]。
+此單曲由CNBLUE韓國公司FNC媒體方面在11月14日公布發行消息與曲目及版本的資料\[2\]。 同月22日，在他們日本的官方網頁上傳了一張照片，公開了專輯的封面\[3\]、製作人、價格與每個版本附贈的內容\[4\]\[5\]。日本[日本電視台](../Page/日本電視台.md "wikilink")的節目《》自12月亦選用了《Robot》作為其開場歌曲\[6\]。
 
 ### 發行版本
 
 此單曲共分為3個發行版本，包括兩個限量版本及一個通常版本：
 
-  - 初回限定盤：包括了單曲CD以及一片收錄《Robot》音樂錄影帶與製作花絮及在2012年9月9日舉行的《[CODE NAME
-    BLUE](../Page/CODE_NAME_BLUE.md "wikilink") release live at
-    [Pacifico
-    Yokohama](https://zh.wikipedia.org/wiki/横濱國際平和會議場 "wikilink")》演出片段的一片DVD\[7\]。
+  - 初回限定盤：包括了單曲CD以及一片收錄《Robot》音樂錄影帶與製作花絮及在2012年9月9日舉行的《[CODE NAME BLUE](../Page/CODE_NAME_BLUE.md "wikilink") release live at [Pacifico Yokohama](https://zh.wikipedia.org/wiki/横濱國際平和會議場 "wikilink")》演出片段的一片DVD\[7\]。
 
 <!-- end list -->
 
@@ -22,15 +16,11 @@ Oba編寫歌曲及製作，並在2012年12月19日以三個不同版本推出。
 
 <!-- end list -->
 
-  - Warner Music Direct
-    Store限定盤：單曲CD以包裝，封面與初回限定盤及通常盤不同，同時包含了5張[聖誕卡](../Page/聖誕卡.md "wikilink")及1個的[鈴](https://zh.wikipedia.org/wiki/鈴 "wikilink")。此版本只在華納唱片
-    (日本)的數碼商店——「Warner Music Direct」出售\[9\]。
+  - Warner Music Direct Store限定盤：單曲CD以包裝，封面與初回限定盤及通常盤不同，同時包含了5張[聖誕卡](../Page/聖誕卡.md "wikilink")及1個的[鈴](https://zh.wikipedia.org/wiki/鈴 "wikilink")。此版本只在華納唱片 (日本)的數碼商店——「Warner Music Direct」出售\[9\]。
 
 ## 單曲內容
 
-《Robot》由CNBLUE成員[鄭容和](../Page/鄭容和.md "wikilink")和Kosuke Oba創作，Kosuke
-Oba同時負責日語翻譯，容和同時創作了B面第一首歌《Ring》。另一位成員[李宗泫](../Page/李宗泫.md "wikilink")則創作了B面第二首歌《Starlit
-Night》。
+《Robot》由CNBLUE成員[鄭容和](../Page/鄭容和.md "wikilink")和Kosuke Oba創作，Kosuke Oba同時負責日語翻譯，容和同時創作了B面第一首歌《Ring》。另一位成員[李宗泫](../Page/李宗泫.md "wikilink")則創作了B面第二首歌《Starlit Night》。
 
 ## 音樂錄影帶
 
@@ -58,8 +48,7 @@ Night》。
 
 ## 參考資料
 
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:CNBLUE歌曲](https://zh.wikipedia.org/wiki/Category:CNBLUE歌曲 "wikilink")
+[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:CNBLUE歌曲](https://zh.wikipedia.org/wiki/Category:CNBLUE歌曲 "wikilink")
 
 1.
 

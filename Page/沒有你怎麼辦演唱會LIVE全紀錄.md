@@ -30,13 +30,8 @@
 
 </div>
 
-[Category:嚴爵音樂專輯](https://zh.wikipedia.org/wiki/Category:嚴爵音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:台灣現場影像](https://zh.wikipedia.org/wiki/Category:台灣現場影像 "wikilink")
+[Category:嚴爵音樂專輯](https://zh.wikipedia.org/wiki/Category:嚴爵音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:台灣現場影像](https://zh.wikipedia.org/wiki/Category:台灣現場影像 "wikilink")
 
-1.  [嚴爵 \~沒有你怎麼辦演唱會LIVE 全紀錄 1CD+1DVD - Sky
-    Music](http://skymusic.com.hk/?p=29801)，2013年9月7日 (六) 19:30
-    (UTC+8)查閱
+1.  [嚴爵 \~沒有你怎麼辦演唱會LIVE 全紀錄 1CD+1DVD - Sky Music](http://skymusic.com.hk/?p=29801)，2013年9月7日 (六) 19:30 (UTC+8)查閱
 
 2.

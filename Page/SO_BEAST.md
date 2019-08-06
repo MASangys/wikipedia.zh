@@ -1,17 +1,14 @@
-《**SO
-BEAST**》[南韓男子偶像團體](https://zh.wikipedia.org/wiki/南韓 "wikilink")[BEAST的第一張](https://zh.wikipedia.org/wiki/BEAST "wikilink")[日文專輯](https://zh.wikipedia.org/wiki/日文 "wikilink")，2011年8月10日在[日本](../Page/日本.md "wikilink")發行，共收錄12首歌曲，專輯發行三種版本，分別為初回盤A、初回盤B、通常盤。初回盤A內容物為CD、60分鐘長的DVD、72頁的寫真冊、22頁的歌詞本。初回盤B內容物為CD、45分鐘長的DVD、32業的寫真冊、歌詞本。通常盤則包含CD及歌詞本。發行首周在[Oricon](../Page/Oricon.md "wikilink")專輯周榜取得第三名的成績。\[1\]
+《**SO BEAST**》[南韓男子偶像團體](https://zh.wikipedia.org/wiki/南韓 "wikilink")[BEAST的第一張](https://zh.wikipedia.org/wiki/BEAST "wikilink")[日文專輯](https://zh.wikipedia.org/wiki/日文 "wikilink")，2011年8月10日在[日本](../Page/日本.md "wikilink")發行，共收錄12首歌曲，專輯發行三種版本，分別為初回盤A、初回盤B、通常盤。初回盤A內容物為CD、60分鐘長的DVD、72頁的寫真冊、22頁的歌詞本。初回盤B內容物為CD、45分鐘長的DVD、32業的寫真冊、歌詞本。通常盤則包含CD及歌詞本。發行首周在[Oricon](../Page/Oricon.md "wikilink")專輯周榜取得第三名的成績。\[1\]
 
 ## 歌曲內容
 
-專輯收錄了以前韓版歌曲的日文版，著名歌曲包括在先前在韓國推出的正規一輯中的「Fiction」以及「Fiction(弦樂版)」，還有「Mystery」，以前先前發行的日文版單曲
-「Shock」跟「Bad Girl」。專輯中也收錄了幾首韓版歌曲。
+專輯收錄了以前韓版歌曲的日文版，著名歌曲包括在先前在韓國推出的正規一輯中的「Fiction」以及「Fiction(弦樂版)」，還有「Mystery」，以前先前發行的日文版單曲 「Shock」跟「Bad Girl」。專輯中也收錄了幾首韓版歌曲。
 
 ## 單曲
 
 第一首發行的日文單曲「Shock(日文版)」於2011年3月16日發行，在[Oricon](../Page/Oricon.md "wikilink")周榜取得第二名，銷量超過56,000張。
 
-BEAST在韓國的出道曲日文版則是第二首發行的日文單曲「Bad
-Girl(日文版)」，6月15日發行，在[Oricon](../Page/Oricon.md "wikilink")周榜取得第三名，銷量超過50,000張。
+BEAST在韓國的出道曲日文版則是第二首發行的日文單曲「Bad Girl(日文版)」，6月15日發行，在[Oricon](../Page/Oricon.md "wikilink")周榜取得第三名，銷量超過50,000張。
 
 ## 曲目
 
@@ -94,15 +91,10 @@ Girl(日文版)」，6月15日發行，在[Oricon](../Page/Oricon.md "wikilink")
 
 ## 外部連結
 
-  - [「Shock」音樂錄影帶](http://www.youtube.com/watch?v=iDKjdBus4xs) on
-    [YouTube](../Page/YouTube.md "wikilink")
-  - [「Bad Girl」音樂錄影帶](http://www.youtube.com/watch?v=5xe0JqSFF-o) on
-    [YouTube](../Page/YouTube.md "wikilink")
+  - [「Shock」音樂錄影帶](http://www.youtube.com/watch?v=iDKjdBus4xs) on [YouTube](../Page/YouTube.md "wikilink")
+  - [「Bad Girl」音樂錄影帶](http://www.youtube.com/watch?v=5xe0JqSFF-o) on [YouTube](../Page/YouTube.md "wikilink")
 
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink")
-[Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")
+[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink") [Category:日本環球唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本環球唱片音樂專輯 "wikilink")
 
 1.  [BEAST日版正規收錄曲介紹](http://kpopn.com/2011/07/11/73257/)Kpopn 2011-07-11
 

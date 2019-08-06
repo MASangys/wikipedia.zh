@@ -15,9 +15,7 @@ div.Boxmerge, div.NavFrame {
 
 `   text-align: left;`
 
-} div.Boxmerge div.NavFrame, div.NavFrame + div.NavFrame, div.NavFrame +
-table.collapsible, table.collapsible + div.NavFrame, table.collapsible +
-table.collapsible {
+} div.Boxmerge div.NavFrame, div.NavFrame + div.NavFrame, div.NavFrame + table.collapsible, table.collapsible + div.NavFrame, table.collapsible + table.collapsible {
 
 `   border-top-style: none;`
 `   border-top-style: hidden;`
@@ -38,8 +36,7 @@ table.collapsible {
 `   position: relative;`
 `   cursor: pointer;`
 
-} div.NavFrame p, div.NavFrame div.NavContent, div.NavFrame
-div.NavContent p {
+} div.NavFrame p, div.NavFrame div.NavContent, div.NavFrame div.NavContent p {
 
 `   font-size: 100%;`
 

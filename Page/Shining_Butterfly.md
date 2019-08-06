@@ -1,5 +1,4 @@
-「**Shining
-Butterfly**」（'''）是[夢幻早安少女組。](../Page/夢幻早安少女組。.md "wikilink")的第1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2012年2月15日由[zetima發售](https://zh.wikipedia.org/wiki/UP-FRONT_WORKS "wikilink")\[1\]。
+「**Shining Butterfly**」（'''）是[夢幻早安少女組。](../Page/夢幻早安少女組。.md "wikilink")的第1張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2012年2月15日由[zetima發售](https://zh.wikipedia.org/wiki/UP-FRONT_WORKS "wikilink")\[1\]。
 
 ## 概要
 
@@ -35,21 +34,15 @@ Butterfly**」（'''）是[夢幻早安少女組。](../Page/夢幻早安少女�
   -
   - [つんく♂コメント](http://ameblo.jp/tsunku-blog/entry-11158166858.html)
 
-  - [CDシングル、UP-FRONT
-    WORKSディスコグラフィ](https://web.archive.org/web/20120213205724/http://www.up-front-works.jp/discography/zetima/130/s_01/index.html)
+  - [CDシングル、UP-FRONT WORKSディスコグラフィ](https://web.archive.org/web/20120213205724/http://www.up-front-works.jp/discography/zetima/130/s_01/index.html)
 
-  - [ドリーム モーニング娘。ディスコグラフィ、ドリーム
-    モーニング娘。のオフィシャル・ディスコグラフィ](https://web.archive.org/web/20111103110402/http://www.dream-morningmusume.com/release/)
+  - [ドリーム モーニング娘。ディスコグラフィ、ドリーム モーニング娘。のオフィシャル・ディスコグラフィ](https://web.archive.org/web/20111103110402/http://www.dream-morningmusume.com/release/)
 
-  - [シャイニング　バタフライ
-    ドリーム　モーニング娘。のプロフィールならオリコン](http://www.oricon.co.jp/prof/artist/534755/products/music/948050/1/)
+  - [シャイニング　バタフライ ドリーム　モーニング娘。のプロフィールならオリコン](http://www.oricon.co.jp/prof/artist/534755/products/music/948050/1/)
 
-  - [シャイニング　バタフライ（初回生産限定盤）
-    ドリーム　モーニング娘。のプロフィールならオリコン](http://www.oricon.co.jp/prof/artist/534755/products/music/948049/1/)
+  - [シャイニング　バタフライ（初回生産限定盤） ドリーム　モーニング娘。のプロフィールならオリコン](http://www.oricon.co.jp/prof/artist/534755/products/music/948049/1/)
 
-[Category:早安少女組。歌曲](https://zh.wikipedia.org/wiki/Category:早安少女組。歌曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
+[Category:早安少女組。歌曲](https://zh.wikipedia.org/wiki/Category:早安少女組。歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
 
 1.
 

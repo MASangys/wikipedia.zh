@@ -2,17 +2,13 @@
 
 ## 歷史
 
-它分支自[Rietveld](https://zh.wikipedia.org/wiki/Rietveld "wikilink")，作者為[Google](../Page/Google.md "wikilink")公司的Shawn
-Pearce，原先是為了管理[Android](../Page/Android.md "wikilink")計畫而產生。\[2\]這個軟體的名稱，來自於荷蘭設計師[赫里特·里特费尔德](../Page/赫里特·里特费尔德.md "wikilink")（Gerrit
-Rietveld）。
+它分支自[Rietveld](https://zh.wikipedia.org/wiki/Rietveld "wikilink")，作者為[Google](../Page/Google.md "wikilink")公司的Shawn Pearce，原先是為了管理[Android](../Page/Android.md "wikilink")計畫而產生。\[2\]這個軟體的名稱，來自於荷蘭設計師[赫里特·里特费尔德](../Page/赫里特·里特费尔德.md "wikilink")（Gerrit Rietveld）。
 
 因為對[访问控制表](https://zh.wikipedia.org/wiki/访问控制表 "wikilink")（ACL）相關的修正，沒有被整合進[Rietveld](https://zh.wikipedia.org/wiki/Rietveld "wikilink")，之後Gerrit就由[Rietveld分支出來](https://zh.wikipedia.org/wiki/Rietveld "wikilink")，形成獨立軟體專案。\[3\]
 
 ## 技術
 
-最早它是由[Python](../Page/Python.md "wikilink")寫成，在第二版後，改成用[Java](../Page/Java.md "wikilink")與[SQL](../Page/SQL.md "wikilink")。使用[Google
-Web
-Toolkit來產生前端的](https://zh.wikipedia.org/wiki/Google_Web_Toolkit "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")。
+最早它是由[Python](../Page/Python.md "wikilink")寫成，在第二版後，改成用[Java](../Page/Java.md "wikilink")與[SQL](../Page/SQL.md "wikilink")。使用[Google Web Toolkit來產生前端的](https://zh.wikipedia.org/wiki/Google_Web_Toolkit "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")。
 
 ## 著名用户
 
@@ -63,26 +59,16 @@ Toolkit來產生前端的](https://zh.wikipedia.org/wiki/Google_Web_Toolkit "wik
   -
   - [Gerrit的视频演示](http://alblue.bandlem.com/2011/02/gerrit-git-review-with-jenkins-ci.html)
 
-  - [用Eclipse
-    Mylyn、Git、Gerrit和Hudson有效的开发](http://www.slideshare.net/caniszczyk/effective-development-with-eclipse-mylyn-git-gerrit-and-hudson)
+  - [用Eclipse Mylyn、Git、Gerrit和Hudson有效的开发](http://www.slideshare.net/caniszczyk/effective-development-with-eclipse-mylyn-git-gerrit-and-hudson)
 
-[Category:计算机编程](https://zh.wikipedia.org/wiki/Category:计算机编程 "wikilink")
-[Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink")
-[Category:軟體審查](https://zh.wikipedia.org/wiki/Category:軟體審查 "wikilink")
+[Category:计算机编程](https://zh.wikipedia.org/wiki/Category:计算机编程 "wikilink") [Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink") [Category:軟體審查](https://zh.wikipedia.org/wiki/Category:軟體審查 "wikilink")
 
-1.  {{ cite web|title=An Open Source App: Rietveld Code Review Tool
-    |url=<https://developers.google.com/appengine/articles/rietveld>
-    |accessdate=2012-08-24 |date=May 2008 |author=Guido van Rossum
-    |deadurl=yes
-    |archiveurl=<https://web.archive.org/web/20151017112923/https://cloud.google.com/appengine/articles/rietveld>
-    |archivedate=2015-10-17 }}
+1.  {{ cite web|title=An Open Source App: Rietveld Code Review Tool |url=<https://developers.google.com/appengine/articles/rietveld> |accessdate=2012-08-24 |date=May 2008 |author=Guido van Rossum |deadurl=yes |archiveurl=<https://web.archive.org/web/20151017112923/https://cloud.google.com/appengine/articles/rietveld> |archivedate=2015-10-17 }}
 2.
 3.
 4.
 5.
-6.  CyanogenMod |deadurl=yes
-    |archiveurl=<https://web.archive.org/web/20140421234730/http://www.cyanogenmod.org/community>
-    |archivedate=2014-04-21 }}
+6.  CyanogenMod |deadurl=yes |archiveurl=<https://web.archive.org/web/20140421234730/http://www.cyanogenmod.org/community> |archivedate=2014-04-21 }}
 7.
 8.
 9.

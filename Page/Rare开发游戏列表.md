@@ -1000,8 +1000,7 @@
 ## 外部链接
 
   -
-[Category:各公司电子游戏列表](https://zh.wikipedia.org/wiki/Category:各公司电子游戏列表 "wikilink")
-[Category:Rareware游戏](https://zh.wikipedia.org/wiki/Category:Rareware游戏 "wikilink")
+[Category:各公司电子游戏列表](https://zh.wikipedia.org/wiki/Category:各公司电子游戏列表 "wikilink") [Category:Rareware游戏](https://zh.wikipedia.org/wiki/Category:Rareware游戏 "wikilink")
 
 1.
 2.

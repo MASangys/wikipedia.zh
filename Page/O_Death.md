@@ -1,9 +1,4 @@
-**O Death**，也被稱作**oh
-death**或**與死神低語**，是一種傳統哀樂。他的原作者不詳。最早的錄音版本是出現在美國國會圖書館的文件中，此歌亦出現於許多[美國黑人](https://zh.wikipedia.org/wiki/美國黑人 "wikilink")[靈歌中](https://zh.wikipedia.org/wiki/靈歌 "wikilink")。此歌被許多歌手改編演唱，包括[拉夫‧史丹利的](https://zh.wikipedia.org/wiki/拉夫‧史丹利 "wikilink")[霹靂高手](https://zh.wikipedia.org/wiki/霹靂高手 "wikilink")\[1\]和[珍‧提圖斯在](https://zh.wikipedia.org/wiki/珍‧提圖斯 "wikilink")[超自然檔案](https://zh.wikipedia.org/wiki/超自然檔案 "wikilink")"[Two
-Minutes to
-Midnight](https://zh.wikipedia.org/wiki/邪恶力量_\(第五季\)#ep103 "wikilink")"中演唱。此外，樂隊[Camper
-Van
-Beethoven翻唱了這首歌](https://zh.wikipedia.org/wiki/Camper_Van_Beethoven "wikilink")，雖然改變了大多數的歌詞和旋律，但保留原版本不祥的氣氛。它也被演唱於[芭芭拉‧科普的紀錄片哈倫縣](https://zh.wikipedia.org/wiki/芭芭拉‧科普 "wikilink")，美國（1976年）。[荒野雙蛟龍：槍神主角賽勒斯葛瑞夫哼唱過](https://zh.wikipedia.org/wiki/荒野雙蛟龍：槍神 "wikilink")。
+**O Death**，也被稱作**oh death**或**與死神低語**，是一種傳統哀樂。他的原作者不詳。最早的錄音版本是出現在美國國會圖書館的文件中，此歌亦出現於許多[美國黑人](https://zh.wikipedia.org/wiki/美國黑人 "wikilink")[靈歌中](https://zh.wikipedia.org/wiki/靈歌 "wikilink")。此歌被許多歌手改編演唱，包括[拉夫‧史丹利的](https://zh.wikipedia.org/wiki/拉夫‧史丹利 "wikilink")[霹靂高手](https://zh.wikipedia.org/wiki/霹靂高手 "wikilink")\[1\]和[珍‧提圖斯在](https://zh.wikipedia.org/wiki/珍‧提圖斯 "wikilink")[超自然檔案](https://zh.wikipedia.org/wiki/超自然檔案 "wikilink")"[Two Minutes to Midnight](https://zh.wikipedia.org/wiki/邪恶力量_\(第五季\)#ep103 "wikilink")"中演唱。此外，樂隊[Camper Van Beethoven翻唱了這首歌](https://zh.wikipedia.org/wiki/Camper_Van_Beethoven "wikilink")，雖然改變了大多數的歌詞和旋律，但保留原版本不祥的氣氛。它也被演唱於[芭芭拉‧科普的紀錄片哈倫縣](https://zh.wikipedia.org/wiki/芭芭拉‧科普 "wikilink")，美國（1976年）。[荒野雙蛟龍：槍神主角賽勒斯葛瑞夫哼唱過](https://zh.wikipedia.org/wiki/荒野雙蛟龍：槍神 "wikilink")。
 
 ## 歌詞
 
@@ -51,8 +46,6 @@ Won't you spare me over 'til another year?
 
 ## 參考資料
 
-[Category:死亡题材歌曲](https://zh.wikipedia.org/wiki/Category:死亡题材歌曲 "wikilink")
-[Category:美國民俗音樂](https://zh.wikipedia.org/wiki/Category:美國民俗音樂 "wikilink")
-[Category:美國民謠](https://zh.wikipedia.org/wiki/Category:美國民謠 "wikilink")
+[Category:死亡题材歌曲](https://zh.wikipedia.org/wiki/Category:死亡题材歌曲 "wikilink") [Category:美國民俗音樂](https://zh.wikipedia.org/wiki/Category:美國民俗音樂 "wikilink") [Category:美國民謠](https://zh.wikipedia.org/wiki/Category:美國民謠 "wikilink")
 
 1.  <http://www.kansas.com/2004/08/21/19245/song-oh-death-dates-back-to-the.html>

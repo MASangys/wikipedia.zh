@@ -1,6 +1,4 @@
-「**Kiss
-Me**」是[Happiness的出道](../Page/Happiness_\(組合\).md "wikilink")・單曲。2011年2月9日由[Universal
-Music發售](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
+「**Kiss Me**」是[Happiness的出道](../Page/Happiness_\(組合\).md "wikilink")・單曲。2011年2月9日由[Universal Music發售](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
 
 ## 概要
 
@@ -14,8 +12,7 @@ Music發售](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
 
 1.  **Kiss Me**
       -
-        作詞・作曲：[松尾潔](https://zh.wikipedia.org/wiki/松尾潔 "wikilink") /
-        編曲：[MAESTRO-T](https://zh.wikipedia.org/wiki/豊島吉宏 "wikilink")
+        作詞・作曲：[松尾潔](https://zh.wikipedia.org/wiki/松尾潔 "wikilink") / 編曲：[MAESTRO-T](https://zh.wikipedia.org/wiki/豊島吉宏 "wikilink")
 2.  **Happy Talk**
       -
         作詞：矢嶋香織 / 作曲：板垣祐介 / 編曲：近藤隆史
@@ -29,7 +26,4 @@ Music發售](https://zh.wikipedia.org/wiki/Universal_Music "wikilink")。
 
 1.  **Kiss Me**（MUSIC VIDEO）
 
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
-[Category:親吻題材歌曲](https://zh.wikipedia.org/wiki/Category:親吻題材歌曲 "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:親吻題材歌曲](https://zh.wikipedia.org/wiki/Category:親吻題材歌曲 "wikilink")

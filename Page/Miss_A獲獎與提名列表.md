@@ -100,12 +100,7 @@
 </tbody>
 </table>
 
-**miss A獲獎與提名**列舉[miss
-A](https://zh.wikipedia.org/wiki/miss_A "wikilink")（）出道以來在[韓國的頒獎典禮和音樂節目上獲得的獎項](https://zh.wikipedia.org/wiki/韓國 "wikilink")，包含提名項目。[Miss
-A](../Page/Miss_A.md "wikilink")2010年7月1日推出首張單曲《[Bad But
-Good](../Page/Bad_But_Good_\(miss_A單曲\).md "wikilink")》，同日於[Mnet的音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中正式出道。
-至2013年為止，在韓國主要頒獎典禮共獲得15個獎項；在音樂節目共拿到15次一位。
+**miss A獲獎與提名**列舉[miss A](https://zh.wikipedia.org/wiki/miss_A "wikilink")（）出道以來在[韓國的頒獎典禮和音樂節目上獲得的獎項](https://zh.wikipedia.org/wiki/韓國 "wikilink")，包含提名項目。[Miss A](../Page/Miss_A.md "wikilink")2010年7月1日推出首張單曲《[Bad But Good](../Page/Bad_But_Good_\(miss_A單曲\).md "wikilink")》，同日於[Mnet的音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中正式出道。 至2013年為止，在韓國主要頒獎典禮共獲得15個獎項；在音樂節目共拿到15次一位。
 
 ## 韓國
 
@@ -213,8 +208,7 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中正式出
 
 ### 首爾音樂獎
 
-[首爾音樂獎是從](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")1990年起由首爾體育舉辦、High1
-Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒獎典禮。
+[首爾音樂獎是從](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")1990年起由首爾體育舉辦、High1 Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒獎典禮。
 
 <table>
 <thead>
@@ -630,8 +624,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 
 ### Gaon Chart K-POP大獎
 
-[Gaon Chart K-POP大獎是依據Gaon](../Page/Gaon_Chart_K-POP大獎.md "wikilink")
-Chart統計數據授獎的年度大型頒獎禮，自2012年開始於每年二月頒發前一年的獎項。由韓國音樂內容產業協會管理，韓國文化體育觀光部贊助，於2012年正式開始，主要頒發給過去一年裡在韓國音樂界有優秀成就的藝人。
+[Gaon Chart K-POP大獎是依據Gaon](../Page/Gaon_Chart_K-POP大獎.md "wikilink") Chart統計數據授獎的年度大型頒獎禮，自2012年開始於每年二月頒發前一年的獎項。由韓國音樂內容產業協會管理，韓國文化體育觀光部贊助，於2012年正式開始，主要頒發給過去一年裡在韓國音樂界有優秀成就的藝人。
 
 <table>
 <thead>
@@ -663,14 +656,7 @@ Chart統計數據授獎的年度大型頒獎禮，自2012年開始於每年二�
 
 ## 音樂節目
 
-以下為[miss
-A在](https://zh.wikipedia.org/wiki/miss_A "wikilink")[韓國音樂節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music
-Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》、[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\!
-音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》、
-[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》、MBC
-Music《[Show Champion](../Page/Show_Champion.md "wikilink")》及JTBC《Music
-On Top》中獲得1位的記錄。
+以下為[miss A在](https://zh.wikipedia.org/wiki/miss_A "wikilink")[韓國音樂節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》、[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》、[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》、 [SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》、MBC Music《[Show Champion](../Page/Show_Champion.md "wikilink")》及JTBC《Music On Top》中獲得1位的記錄。
 
 ### M\! Countdown
 
@@ -724,8 +710,7 @@ On Top》中獲得1位的記錄。
 
 ## 參考資料
 
-[Category:miss_A](https://zh.wikipedia.org/wiki/Category:miss_A "wikilink")
-[Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
+[Category:miss_A](https://zh.wikipedia.org/wiki/Category:miss_A "wikilink") [Category:韓語流行音樂家獲獎列表](https://zh.wikipedia.org/wiki/Category:韓語流行音樂家獲獎列表 "wikilink")
 
 1.
 

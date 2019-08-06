@@ -35,8 +35,7 @@
 
 ### 概况
 
-DK2型于1915\~1918年间由美国[鲍尔温和ALCO两厂制造](../Page/鲍尔温机车厂.md "wikilink")，和俄罗斯帝国Ye型为同时代的机车，最早在[中东铁路使用](https://zh.wikipedia.org/wiki/中东铁路 "wikilink")，后配属满铁，称为デカニ型。
-[缩略图](https://zh.wikipedia.org/wiki/File:China_Railways_DK2_114.jpg "fig:缩略图")
+DK2型于1915\~1918年间由美国[鲍尔温和ALCO两厂制造](../Page/鲍尔温机车厂.md "wikilink")，和俄罗斯帝国Ye型为同时代的机车，最早在[中东铁路使用](https://zh.wikipedia.org/wiki/中东铁路 "wikilink")，后配属满铁，称为デカニ型。 [缩略图](https://zh.wikipedia.org/wiki/File:China_Railways_DK2_114.jpg "fig:缩略图")
 
 ### 性能诸元
 
@@ -50,9 +49,7 @@ DK2型于1915\~1918年间由美国[鲍尔温和ALCO两厂制造](../Page/鲍尔�
 
 ### 战后接收与运用
 
-在二战期间以及战后美国向苏联和芬兰分别提供了Ye型和Tr2型，中华人民共和国成立后，苏联向中国提供了一部分Ye型，这些Ye型机车与デカニ型在1951年合称为ㄉㄎ2型。
-[缩略图](https://zh.wikipedia.org/wiki/File:Грузовой_паровоз_ЕА_2201_\(3\).jpg "fig:缩略图")
-關於苏联铁路Ye型蒸汽機車： 關於芬兰铁路Tr2型蒸汽機車：
+在二战期间以及战后美国向苏联和芬兰分别提供了Ye型和Tr2型，中华人民共和国成立后，苏联向中国提供了一部分Ye型，这些Ye型机车与デカニ型在1951年合称为ㄉㄎ2型。 [缩略图](https://zh.wikipedia.org/wiki/File:Грузовой_паровоз_ЕА_2201_\(3\).jpg "fig:缩略图") 關於苏联铁路Ye型蒸汽機車： 關於芬兰铁路Tr2型蒸汽機車：
 
 ### 机车保存
 
@@ -72,5 +69,4 @@ DK5-250，保存于[沈阳铁路陈列馆](../Page/沈阳铁路陈列馆.md "wik
 
 <references />
 
-[Category:中国蒸汽机车](https://zh.wikipedia.org/wiki/Category:中国蒸汽机车 "wikilink")
-[Category:2-10-0輪式機車](https://zh.wikipedia.org/wiki/Category:2-10-0輪式機車 "wikilink")
+[Category:中国蒸汽机车](https://zh.wikipedia.org/wiki/Category:中国蒸汽机车 "wikilink") [Category:2-10-0輪式機車](https://zh.wikipedia.org/wiki/Category:2-10-0輪式機車 "wikilink")

@@ -1,14 +1,10 @@
-**Fabel**（前名**[ISoFeel](../Page/ISoFeel.md "wikilink")**）是[香港](../Page/香港.md "wikilink")樂壇的二人[組合](../Page/組合.md "wikilink")，由主音[盧祝君](../Page/盧祝君.md "wikilink")（LoLo）與[Jimmy
-Fung組成](../Page/馮慶聰.md "wikilink")。
+**Fabel**（前名**[ISoFeel](../Page/ISoFeel.md "wikilink")**）是[香港](../Page/香港.md "wikilink")樂壇的二人[組合](../Page/組合.md "wikilink")，由主音[盧祝君](../Page/盧祝君.md "wikilink")（LoLo）與[Jimmy Fung組成](../Page/馮慶聰.md "wikilink")。
 
 ## 簡介
 
-Fabel的成員Lolo與Jimmy，在[香港專業教育學院](../Page/香港專業教育學院.md "wikilink")相識，Jimmy因在歌唱比賽中察覺到Lolo的才能，便邀請她為自己的畢業作品演唱。\[1\]2012年因受音樂監製[梁榮駿](../Page/梁榮駿.md "wikilink")賞識而在2013年正式出道\[2\]。二人在2008年開始音樂製作，並活躍於不同場地的音樂表演。2011年，二人分別於英國及愛爾蘭升學及工作假期，並相約於都柏林街頭表演。2007年因一次校內歌唱比賽相識，當時Jimmy想找一位主音歌手加入他當時的樂隊，在一次對話之後發現大家的風格和理念都很相似，隨即開始二人共同的理想音樂工作。及後，開始製作和錄製一系列的demo
-。
-初時，二人不斷在嘗試不同類型的音樂風格，經過一段時間的合作，二人開始接觸電子音樂，亦朝著電子搖滾音樂路線方向創作我們所想的，唱出他們所感受的。
+Fabel的成員Lolo與Jimmy，在[香港專業教育學院](../Page/香港專業教育學院.md "wikilink")相識，Jimmy因在歌唱比賽中察覺到Lolo的才能，便邀請她為自己的畢業作品演唱。\[1\]2012年因受音樂監製[梁榮駿](../Page/梁榮駿.md "wikilink")賞識而在2013年正式出道\[2\]。二人在2008年開始音樂製作，並活躍於不同場地的音樂表演。2011年，二人分別於英國及愛爾蘭升學及工作假期，並相約於都柏林街頭表演。2007年因一次校內歌唱比賽相識，當時Jimmy想找一位主音歌手加入他當時的樂隊，在一次對話之後發現大家的風格和理念都很相似，隨即開始二人共同的理想音樂工作。及後，開始製作和錄製一系列的demo 。 初時，二人不斷在嘗試不同類型的音樂風格，經過一段時間的合作，二人開始接觸電子音樂，亦朝著電子搖滾音樂路線方向創作我們所想的，唱出他們所感受的。
 
-Fabel首支派台歌為《鹽花》，在坊間反映不俗\[3\]，同年12月推出其首張作品《[We Are
-One](https://zh.wikipedia.org/wiki/We_Are_One "wikilink")》，也獲得了[2013年度TVB8金曲榜頒獎典禮的TVB](../Page/2013年度TVB8金曲榜頒獎典禮得獎名單.md "wikilink")8金曲榜最佳新人獎銅獎\[4\]。
+Fabel首支派台歌為《鹽花》，在坊間反映不俗\[3\]，同年12月推出其首張作品《[We Are One](https://zh.wikipedia.org/wiki/We_Are_One "wikilink")》，也獲得了[2013年度TVB8金曲榜頒獎典禮的TVB](../Page/2013年度TVB8金曲榜頒獎典禮得獎名單.md "wikilink")8金曲榜最佳新人獎銅獎\[4\]。
 
 在過往不同的訪問之中，Lolo和Jimmy均表示除了投入Fabel工作之外，Lolo因為生活壓力而需要兼職，Jimmy則多次表示自己懂得占卜，日後可能成為一份職業\[5\]\[6\]。
 
@@ -106,8 +102,7 @@ One](https://zh.wikipedia.org/wiki/We_Are_One "wikilink")》，也獲得了[2013
 
 ### 2018年
 
-  - 微電影[《錯誤落體》](https://www.youtube.com/watch?v=4b3wwj0W3QM) ||
-    \*第五屆【微電影「創+作」支援計劃（音樂篇）】
+  - 微電影[《錯誤落體》](https://www.youtube.com/watch?v=4b3wwj0W3QM) || \*第五屆【微電影「創+作」支援計劃（音樂篇）】
 
 ## 曾獲獎項
 
@@ -151,9 +146,7 @@ One](https://zh.wikipedia.org/wiki/We_Are_One "wikilink")》，也獲得了[2013
 
   -
   -
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:香港演唱團體](https://zh.wikipedia.org/wiki/Category:香港演唱團體 "wikilink")
-[Category:電子音樂團體](https://zh.wikipedia.org/wiki/Category:電子音樂團體 "wikilink")
+[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:香港演唱團體](https://zh.wikipedia.org/wiki/Category:香港演唱團體 "wikilink") [Category:電子音樂團體](https://zh.wikipedia.org/wiki/Category:電子音樂團體 "wikilink")
 
 1.
 

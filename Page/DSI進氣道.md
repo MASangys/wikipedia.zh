@@ -4,8 +4,7 @@
 
 ## 研發歷史
 
-[洛克希德·马丁公司於](https://zh.wikipedia.org/wiki/洛克希德·马丁公司 "wikilink")1990年代開始從事DSI進氣道相關方面的研究工作。1996年12月11日，首架裝有DSI進氣道用於試飛的[F-16戰隼戰鬥機](../Page/F-16戰隼戰鬥機.md "wikilink")首飛成功。這架F-16戰鬥機實現了2.0
-[馬赫的飛行速度](https://zh.wikipedia.org/wiki/馬赫 "wikilink")，且操控性能與原版的F-16戰鬥機相當。甚至在[亞音速下的一些性能也得到了提高](https://zh.wikipedia.org/wiki/亞音速 "wikilink")。後來，這種進氣道被用於洛克希德·马丁公司生產的[F-35戰鬥機中](../Page/F-35閃電II戰鬥機.md "wikilink")。\[2\]
+[洛克希德·马丁公司於](https://zh.wikipedia.org/wiki/洛克希德·马丁公司 "wikilink")1990年代開始從事DSI進氣道相關方面的研究工作。1996年12月11日，首架裝有DSI進氣道用於試飛的[F-16戰隼戰鬥機](../Page/F-16戰隼戰鬥機.md "wikilink")首飛成功。這架F-16戰鬥機實現了2.0 [馬赫的飛行速度](https://zh.wikipedia.org/wiki/馬赫 "wikilink")，且操控性能與原版的F-16戰鬥機相當。甚至在[亞音速下的一些性能也得到了提高](https://zh.wikipedia.org/wiki/亞音速 "wikilink")。後來，這種進氣道被用於洛克希德·马丁公司生產的[F-35戰鬥機中](../Page/F-35閃電II戰鬥機.md "wikilink")。\[2\]
 
 由[中國](../Page/中國.md "wikilink")[成都飛機公司與](https://zh.wikipedia.org/wiki/成都飛機公司 "wikilink")（）開發的[梟龍戰機](../Page/梟龍戰機.md "wikilink")是第一種投入服役的使用DSI進氣道的戰鬥機。另外中國已经服役的[殲-20和正在研发的](https://zh.wikipedia.org/wiki/歼-20战斗机 "wikilink")[FC-31兩款](../Page/FC-31鹘鹰战斗机.md "wikilink")[隱形戰鬥機也使用了DSI進氣道](https://zh.wikipedia.org/wiki/隱形戰鬥機 "wikilink")。而美國第一種採用DSI進氣道的[F-35戰鬥機於](../Page/F-35閃電II戰鬥機.md "wikilink")2015服役\[3\]。
 
@@ -24,17 +23,14 @@
 
 ## 外部連結
 
-  - ["JSF Diverterless Supersonic Inlet" - Code One magazine, Lockheed
-    Martin](http://www.codeonemagazine.com/article.html?item_id=58)
+  - ["JSF Diverterless Supersonic Inlet" - Code One magazine, Lockheed Martin](http://www.codeonemagazine.com/article.html?item_id=58)
 
 [Category:飞机部件](https://zh.wikipedia.org/wiki/Category:飞机部件 "wikilink")
 
 1.
 
 2.
-3.  ["Pentagon: First F-35s Operational
-    in 2015."](http://www.defensenews.com/article/20130531/DEFREG02/305310021)
-     Defense News
+3.  ["Pentagon: First F-35s Operational in 2015."](http://www.defensenews.com/article/20130531/DEFREG02/305310021)  Defense News
 
 4.
 

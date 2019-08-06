@@ -16,10 +16,7 @@
 
 ## 參考文獻
 
-[Category:仙后座](https://zh.wikipedia.org/wiki/Category:仙后座 "wikilink")
-[Category:超巨星](https://zh.wikipedia.org/wiki/Category:超巨星 "wikilink")
-[Category:以變星命名法命名的天體](https://zh.wikipedia.org/wiki/Category:以變星命名法命名的天體 "wikilink")
-[Category:半規則變星](https://zh.wikipedia.org/wiki/Category:半規則變星 "wikilink")
+[Category:仙后座](https://zh.wikipedia.org/wiki/Category:仙后座 "wikilink") [Category:超巨星](https://zh.wikipedia.org/wiki/Category:超巨星 "wikilink") [Category:以變星命名法命名的天體](https://zh.wikipedia.org/wiki/Category:以變星命名法命名的天體 "wikilink") [Category:半規則變星](https://zh.wikipedia.org/wiki/Category:半規則變星 "wikilink")
 
 1.  Table 4 in
 
@@ -28,25 +25,15 @@
 4.
 5.
 
-6.  [Variable star PZ CASSIOPEIAE (PZ-CAS) -
-    corlan.net](http://www.kusastro.kyoto-u.ac.jp/vsnet/gcvs2/CASPZ.html)
+6.  [Variable star PZ CASSIOPEIAE (PZ-CAS) - corlan.net](http://www.kusastro.kyoto-u.ac.jp/vsnet/gcvs2/CASPZ.html)
 
-7.  [Distance and Proper Motion Measurement of the Red Supergiant, PZ
-    Cas, in Very Long Baseline Interferometry H2O Maser Astrometry -
-    Cornell University
-    Library](https://zh.wikipedia.org/wiki/:arxiv:1308.3580 "wikilink")
+7.  [Distance and Proper Motion Measurement of the Red Supergiant, PZ Cas, in Very Long Baseline Interferometry H2O Maser Astrometry - Cornell University Library](https://zh.wikipedia.org/wiki/:arxiv:1308.3580 "wikilink")
 
 8.
-9.   – Select "Ephemeris Type: Orbital Elements", "Time Span: 2000-01-01
-    12:00 to 2000-01-02". ("Target Body: Jupiter Barycenter" and
-    "Center: Sun" should be defaulted to.)
+9.   – Select "Ephemeris Type: Orbital Elements", "Time Span: 2000-01-01 12:00 to 2000-01-02". ("Target Body: Jupiter Barycenter" and "Center: Sun" should be defaulted to.)
 
-10.  – Select "Ephemeris Type: Orbital Elements", "Time Span: 2000-01-01
-    12:00 to 2000-01-02". ("Target Body: Saturn Barycenter" and "Center:
-    Sun" should be defaulted to.)
+10.  – Select "Ephemeris Type: Orbital Elements", "Time Span: 2000-01-01 12:00 to 2000-01-02". ("Target Body: Saturn Barycenter" and "Center: Sun" should be defaulted to.)
 
 11.
 
-12. [DISTANCE AND PROPER MOTION MEASUREMENT OF THE RED SUPERGIANT, PZ
-    CAS - The Astrophysical
-    Journal](http://iopscience.iop.org/0004-637X/774/2/107)
+12. [DISTANCE AND PROPER MOTION MEASUREMENT OF THE RED SUPERGIANT, PZ CAS - The Astrophysical Journal](http://iopscience.iop.org/0004-637X/774/2/107)

@@ -1,10 +1,8 @@
-**約瑟夫·斯大林2型重型坦克
-(IS-2)**，**又稱JS-2重型坦克**，是蘇聯的一款[二戰](https://zh.wikipedia.org/wiki/二戰 "wikilink")[重型坦克](https://zh.wikipedia.org/wiki/重型坦克 "wikilink")。IS-2是以[約瑟夫·斯大林的名字命名的](https://zh.wikipedia.org/wiki/約瑟夫·斯大林 "wikilink")。\[1\]它的出現主要是因為原本的KV重坦系列已經嚴重過時，完全無法擊穿德軍新式重型戰車裝甲，而後繼的IS-1（主炮口徑僅85mm）又無法解決問題而導致。IS-2坦克是蘇聯二戰中使用過的最重的坦克（[系列中的IS](../Page/IS系列坦克.md "wikilink")-3實際上并未參與二戰）。\[2\]在二戰後，蘇聯曾將IS-2出口到幾個[共產主義陣營國家](https://zh.wikipedia.org/wiki/共產主義陣營 "wikilink")。
+**約瑟夫·斯大林2型重型坦克 (IS-2)**，**又稱JS-2重型坦克**，是蘇聯的一款[二戰](https://zh.wikipedia.org/wiki/二戰 "wikilink")[重型坦克](https://zh.wikipedia.org/wiki/重型坦克 "wikilink")。IS-2是以[約瑟夫·斯大林的名字命名的](https://zh.wikipedia.org/wiki/約瑟夫·斯大林 "wikilink")。\[1\]它的出現主要是因為原本的KV重坦系列已經嚴重過時，完全無法擊穿德軍新式重型戰車裝甲，而後繼的IS-1（主炮口徑僅85mm）又無法解決問題而導致。IS-2坦克是蘇聯二戰中使用過的最重的坦克（[系列中的IS](../Page/IS系列坦克.md "wikilink")-3實際上并未參與二戰）。\[2\]在二戰後，蘇聯曾將IS-2出口到幾個[共產主義陣營國家](https://zh.wikipedia.org/wiki/共產主義陣營 "wikilink")。
 
 ## 歷史
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Belarus-Minsk-Museum_of_GPW_Exhibition-5.jpg "fig:缩略图")
-雖然IS-1可以承受虎式坦克的攻擊，但是在實戰中，其火力不足的問題逐漸暴露出來。\[3\]因此，蘇聯的工程師們就意識到[IS-1需要換裝更加強力的火炮](https://zh.wikipedia.org/wiki/IS-1 "wikilink")。因此，一方面，限制裝備85mm火炮的IS-1的生產，另一方面，準備為IS-1換裝[100mmBS-3或](https://zh.wikipedia.org/wiki/100mmBS-3 "wikilink")[122mmA-19火炮](https://zh.wikipedia.org/wiki/122mmA-19 "wikilink")。儘管測試結果表明100mmBS-3穿透力較122mmA-19為強（不過122mmA-19的穿透能力也并不差，在測試中摧毀了[豹式坦克的前裝甲](https://zh.wikipedia.org/wiki/豹式坦克 "wikilink")），但最終，考慮到100mm火炮數量不足，蘇軍最終選定了生產資源和彈藥較為充裕的122mm火炮。122mm火炮最初安裝單膛炮口制退器，但因為其在測試中發生爆炸，故改為了雙炮膛制退器。\[4\]
+[缩略图](https://zh.wikipedia.org/wiki/File:Belarus-Minsk-Museum_of_GPW_Exhibition-5.jpg "fig:缩略图") 雖然IS-1可以承受虎式坦克的攻擊，但是在實戰中，其火力不足的問題逐漸暴露出來。\[3\]因此，蘇聯的工程師們就意識到[IS-1需要換裝更加強力的火炮](https://zh.wikipedia.org/wiki/IS-1 "wikilink")。因此，一方面，限制裝備85mm火炮的IS-1的生產，另一方面，準備為IS-1換裝[100mmBS-3或](https://zh.wikipedia.org/wiki/100mmBS-3 "wikilink")[122mmA-19火炮](https://zh.wikipedia.org/wiki/122mmA-19 "wikilink")。儘管測試結果表明100mmBS-3穿透力較122mmA-19為強（不過122mmA-19的穿透能力也并不差，在測試中摧毀了[豹式坦克的前裝甲](https://zh.wikipedia.org/wiki/豹式坦克 "wikilink")），但最終，考慮到100mm火炮數量不足，蘇軍最終選定了生產資源和彈藥較為充裕的122mm火炮。122mm火炮最初安裝單膛炮口制退器，但因為其在測試中發生爆炸，故改為了雙炮膛制退器。\[4\]
 
 但是當時的設計師科京并不滿足於僅僅對IS-1進行武器升級，他設計出了比起IS-1機動和防護都較好的IS-2坦克。IS-1的臺階式傾斜裝甲換成了低平式的，從而使得在裝甲厚度不變的情況下防護能力提高。\[5\]為了防止坦克失衡，蘇軍放棄了增強IS-2炮塔防御的計劃。因為時間和經費不足，也沒有重新設計新炮塔，而是沿用了IS-1的炮塔設計。\[6\]
 
@@ -22,8 +20,7 @@ IS-2采用低平式傾斜裝甲。\[12\]炮管比較長，前方裝有炮口制�
 
 ## 性能
 
-IS-2的傳動和懸掛裝置比起[KV系列都要好](https://zh.wikipedia.org/wiki/KV-1 "wikilink")。\[15\]速度比起KV系列有了提高，重量也比KV系列要輕\[16\]。同時，炮塔和底盤都是重新設計。\[17\]它可以在1000m的距離外防御[8.8cm火炮的攻擊](https://zh.wikipedia.org/wiki/8.8cm火炮 "wikilink")。其裝備的122mm火炮能在1000m外擊穿160mm裝甲\[18\]，而且對於工事的破壞力也強于虎式坦克的8.8cm
-L/56。\[19\]但因為主炮口徑較大，不得不采用分裝裝填。\[20\]
+IS-2的傳動和懸掛裝置比起[KV系列都要好](https://zh.wikipedia.org/wiki/KV-1 "wikilink")。\[15\]速度比起KV系列有了提高，重量也比KV系列要輕\[16\]。同時，炮塔和底盤都是重新設計。\[17\]它可以在1000m的距離外防御[8.8cm火炮的攻擊](https://zh.wikipedia.org/wiki/8.8cm火炮 "wikilink")。其裝備的122mm火炮能在1000m外擊穿160mm裝甲\[18\]，而且對於工事的破壞力也強于虎式坦克的8.8cm L/56。\[19\]但因為主炮口徑較大，不得不采用分裝裝填。\[20\]
 
 IS-2M的續航能力達到了240km，超越了[虎式坦克的](https://zh.wikipedia.org/wiki/虎式坦克 "wikilink")140km和[虎王坦克的](https://zh.wikipedia.org/wiki/虎王坦克 "wikilink")110km。\[21\]
 
@@ -39,8 +36,7 @@ IS-2的射速較低（僅2-3發/分），主炮備彈量不足。（僅有28發\
 
 IS-2從1944年開始分配給蘇軍使用，主要是分配給近衛重裝甲團使用。\[26\]\[27\]1944年4月第11近卫重坦克团在塔诺波尔与第503重戰車營的[虎I坦克战斗是它第一次出战](../Page/虎I戰車.md "wikilink")，这次战斗中一辆IS-2损失，战果不明。\[28\]
 
-在烏克蘭南部的一次作戰中，蘇軍宣稱以8輛IS-2的代價，摧毀了德軍的41輛[虎式坦克和](https://zh.wikipedia.org/wiki/虎式坦克 "wikilink")[象式驅逐戰車](https://zh.wikipedia.org/wiki/象式驅逐戰車 "wikilink")。這次作戰中，證明了IS-2可以在1500-2000m外經受[KwK43
-88毫米戰車炮的攻擊](../Page/KwK43_88毫米戰車炮.md "wikilink")。\[29\]1944年7月[奥托·卡利乌斯](../Page/奥托·卡利乌斯.md "wikilink")在他的成名之战---马利诺沃之战中用虎I坦克击毁了大量包括IS-2在内的苏联坦克。\[30\]
+在烏克蘭南部的一次作戰中，蘇軍宣稱以8輛IS-2的代價，摧毀了德軍的41輛[虎式坦克和](https://zh.wikipedia.org/wiki/虎式坦克 "wikilink")[象式驅逐戰車](https://zh.wikipedia.org/wiki/象式驅逐戰車 "wikilink")。這次作戰中，證明了IS-2可以在1500-2000m外經受[KwK43 88毫米戰車炮的攻擊](../Page/KwK43_88毫米戰車炮.md "wikilink")。\[29\]1944年7月[奥托·卡利乌斯](../Page/奥托·卡利乌斯.md "wikilink")在他的成名之战---马利诺沃之战中用虎I坦克击毁了大量包括IS-2在内的苏联坦克。\[30\]
 
 在1944年8月在桑多梅日鎮附近的一次戰鬥中，蘇軍以3輛IS-2被毀，7輛IS-2受傷的代價，摧毀了4輛[虎王坦克](https://zh.wikipedia.org/wiki/虎王坦克 "wikilink")，擊傷了7輛[虎王坦克](https://zh.wikipedia.org/wiki/虎王坦克 "wikilink")。\[31\]
 
@@ -62,8 +58,7 @@ IS-2從1944年開始分配給蘇軍使用，主要是分配給近衛重裝甲團
 
 [缩略图](https://zh.wikipedia.org/wiki/File:Музей_военной_техники_Оружие_Победы,_Краснодар_\(68\).jpg "fig:缩略图")
 
-  - IS-2 Mod. 1944：改為採用全傾斜裝甲設計，以及換裝具有更好的火控系控與雙重炮口制退器以及裝填更快的122mm D25-T
-    主炮的IS-2。儘管被部分西方學者稱為IS-2M，但實際上IS-2M在蘇方紀錄中是指1950年代改良後的車型。
+  - IS-2 Mod. 1944：改為採用全傾斜裝甲設計，以及換裝具有更好的火控系控與雙重炮口制退器以及裝填更快的122mm D25-T 主炮的IS-2。儘管被部分西方學者稱為IS-2M，但實際上IS-2M在蘇方紀錄中是指1950年代改良後的車型。
   - IS-2M：在1950年代中期，為提升IS-2的作戰表現，對其採取了包括在車體兩側加設外掛油箱及儲物箱，以及在履帶頂沿加裝護裙的改進，在蘇方記錄中稱其為IS-2M。
   - [ISU-152](https://zh.wikipedia.org/wiki/ISU-152 "wikilink")：使用IS-2底盤制造的突擊炮。
 
@@ -276,12 +271,7 @@ V-2-IS</p></td>
 
 ## 外部連結
 
-[Category:蘇聯坦克](https://zh.wikipedia.org/wiki/Category:蘇聯坦克 "wikilink")
-[Category:中國坦克](https://zh.wikipedia.org/wiki/Category:中國坦克 "wikilink")
-[Category:重型坦克](https://zh.wikipedia.org/wiki/Category:重型坦克 "wikilink")
-[Category:二戰坦克](https://zh.wikipedia.org/wiki/Category:二戰坦克 "wikilink")
-[Category:韓戰坦克](https://zh.wikipedia.org/wiki/Category:韓戰坦克 "wikilink")
-[Category:蘇聯二戰坦克](https://zh.wikipedia.org/wiki/Category:蘇聯二戰坦克 "wikilink")
+[Category:蘇聯坦克](https://zh.wikipedia.org/wiki/Category:蘇聯坦克 "wikilink") [Category:中國坦克](https://zh.wikipedia.org/wiki/Category:中國坦克 "wikilink") [Category:重型坦克](https://zh.wikipedia.org/wiki/Category:重型坦克 "wikilink") [Category:二戰坦克](https://zh.wikipedia.org/wiki/Category:二戰坦克 "wikilink") [Category:韓戰坦克](https://zh.wikipedia.org/wiki/Category:韓戰坦克 "wikilink") [Category:蘇聯二戰坦克](https://zh.wikipedia.org/wiki/Category:蘇聯二戰坦克 "wikilink")
 
 1.
 2.
@@ -291,8 +281,7 @@ V-2-IS</p></td>
 5.
 6.
 7.
-8.  [Тяжёлая самоходная установка
-    СУ-152](http://bronetehnika.narod.ru/su152/su152.html)
+8.  [Тяжёлая самоходная установка СУ-152](http://bronetehnika.narod.ru/su152/su152.html)
 
 9.  [ISU-152](http://www.aviarmor.net/TWW2/tanks/ussr/isu-152.htmИСУ-152)
 
@@ -322,8 +311,7 @@ V-2-IS</p></td>
 
 29. 《鐵甲雄師 二戰蘇軍戰車》 p.180
 
-30. Tigers in the Mud: The Combat Career of German Panzer Commander Otto
-    Carius P300
+30. Tigers in the Mud: The Combat Career of German Panzer Commander Otto Carius P300
 
 31.
 32.
@@ -334,5 +322,4 @@ V-2-IS</p></td>
 35.
 36.
 
-37. [IS-3 Model 1945](http://www.onwar.com/tanks/ussr/data/is3.htm)
-    onwar.com
+37. [IS-3 Model 1945](http://www.onwar.com/tanks/ussr/data/is3.htm) onwar.com

@@ -10,8 +10,7 @@
 #### 第1部開始
 
   -
-    配音員：日：[諸星堇](../Page/諸星堇.md "wikilink")（聲）、霧島若歌（歌）／港：[凌晞](../Page/凌晞.md "wikilink")／台：[傅其慧](../Page/傅其慧.md "wikilink")（遊戲版和動畫版第1、2部）、[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起、劇場版）、[劉如蘋](../Page/劉如蘋.md "wikilink")
-    （STARS第70集）
+    配音員：日：[諸星堇](../Page/諸星堇.md "wikilink")（聲）、霧島若歌（歌）／港：[凌晞](../Page/凌晞.md "wikilink")／台：[傅其慧](../Page/傅其慧.md "wikilink")（遊戲版和動畫版第1、2部）、[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起、劇場版）、[劉如蘋](../Page/劉如蘋.md "wikilink") （STARS第70集）
     3月15日出生，[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。
     街機第1彈開始即登場，動畫故事第1、2部的主角。
     常用品牌：**Angely Sugar**
@@ -28,8 +27,7 @@
     1月31日出生，[水瓶座](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。
     街機第1彈開始即登場。
     常用品牌：**FUTURING GIRL**
-    藍色頭髮，紮著側馬尾，有教養的酷炫追星族女孩，被稱為「偶像博士」。與小莓是青梅竹馬。口頭禪是「-{zh-hans:一点也不平静;
-    zh-hant:一點也不平靜;zh-hk:一點都唔簡單}-」。
+    藍色頭髮，紮著側馬尾，有教養的酷炫追星族女孩，被稱為「偶像博士」。與小莓是青梅竹馬。口頭禪是「-{zh-hans:一点也不平静; zh-hant:一點也不平靜;zh-hk:一點都唔簡單}-」。
     動畫第37集與小莓和小蘭組成新偶像團體「Soleil」。表面上看不出來，其實可以吃很多(第71話)
     很喜歡拍偶像的照片和收集偶像海報及雜誌。
 
@@ -53,8 +51,7 @@
     街機第2彈開始登場，於動畫第10集登場。
     常用品牌：**Happy Rainbow**
     橘黃色長髮，紮成兩個髮髻，口頭禪是「LOVE YOU！」。性格超級天然單純，容易受事物感動，喜歡吃甜點。
-    受到新偶像團體「Soleil」的影響，於第38集與小櫻和詩音組成新偶像團體「 Powa Powa
-    Puririn」。第1部結束後，升上三年級後成為星光女王（美月已畢業、小莓去美國）。
+    受到新偶像團體「Soleil」的影響，於第38集與小櫻和詩音組成新偶像團體「 Powa Powa Puririn」。第1部結束後，升上三年級後成為星光女王（美月已畢業、小莓去美國）。
 
 <!-- end list -->
 
@@ -114,8 +111,7 @@
 
   -
     配音員：日：[下地紫野](../Page/下地紫野.md "wikilink")（聲）、[遠藤瑠香](https://zh.wikipedia.org/wiki/遠藤瑠香 "wikilink")（歌）／港：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")（本篇動畫版與劇場版）、[石-{采}-薇](../Page/石采薇.md "wikilink")（STARS第69-70集）
-    4月1日出生，[白羊座](../Page/白羊座.md "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")
-    。
+    4月1日出生，[白羊座](../Page/白羊座.md "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink") 。
     於街機2014系列「Fresh Cup」登場、2015年系列開始為常任可用角色。動畫故事裡第76話登場、第3部起擔任故事主角。
     常用品牌：**Dreamy Crown**,經常為瀨名翼帶來靈感。
     對小莓有著瘋狂的憧憬的女孩，為了追逐她而不斷參與星光學園的入學試鏡，但由於欠缺偶像方面的能力所以總是失敗。最終於第76集入學就讀中學一年級。
@@ -141,10 +137,8 @@
 #### 第3部開始
 
   -
-    配音員：日：[和久井優](../Page/和久井優.md "wikilink")
-    （聲）、巴山萌菜（歌）／港：[何晶晶](../Page/何晶晶.md "wikilink")／台：[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")（本篇與劇場版）、[劉如蘋](../Page/劉如蘋.md "wikilink")（STARS第69-70集）
-    10月20日出生，[天秤座](../Page/天秤座.md "wikilink")，血型[AB型](https://zh.wikipedia.org/wiki/AB型 "wikilink")
-    。
+    配音員：日：[和久井優](../Page/和久井優.md "wikilink") （聲）、巴山萌菜（歌）／港：[何晶晶](../Page/何晶晶.md "wikilink")／台：[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")（本篇與劇場版）、[劉如蘋](../Page/劉如蘋.md "wikilink")（STARS第69-70集）
+    10月20日出生，[天秤座](../Page/天秤座.md "wikilink")，血型[AB型](https://zh.wikipedia.org/wiki/AB型 "wikilink") 。
     街機2015年第1彈與動畫102話登場。
     常用品牌：**Loli Gothic**
     紫色長直髮少女。與明里同屆，是明里於一年級第二學期的新室友。起初因自己長期都沒有室友，加上自己一個人集中精神而幾乎一次都未搭上話，而非常的孤單，直到遇到與因為漏雨的關係而搬到自己室房的明里後，開始逐漸敞開心房。
@@ -157,10 +151,8 @@
 <!-- end list -->
 
   -
-    配音員：日：[石川由依](../Page/石川由依.md "wikilink")
-    （聲）、未來光希（歌）／港：[曾秀清](../Page/曾秀清.md "wikilink")／台：[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")(本篇動畫版、劇場版和STARS第69-70集)
-    6月11日出生，[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")，血型[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")
-    。
+    配音員：日：[石川由依](../Page/石川由依.md "wikilink") （聲）、未來光希（歌）／港：[曾秀清](../Page/曾秀清.md "wikilink")／台：[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")(本篇動畫版、劇場版和STARS第69-70集)
+    6月11日出生，[雙子座](https://zh.wikipedia.org/wiki/雙子座 "wikilink")，血型[B型](https://zh.wikipedia.org/wiki/B型 "wikilink") 。
     街機2015年第1彈與動畫104話登場。
     常用品牌：**Vivid Kiss**
     黃色短髮，瀏海綁著辮子。與明里同屆。以童星出身，已有13年偶像的資力。有時會幫忙明里和澄玲解說如何當偶像，此時會拿湯匙當麥克風。
@@ -174,8 +166,7 @@
 
   -
     配音員：日：[齋藤綾](../Page/齋藤綾.md "wikilink")（聲）、天音美穗（歌）／港：[吳羨婷](../Page/吳羨婷.md "wikilink")／台：[李昀晴](../Page/李昀晴.md "wikilink")
-    7月31日出生，[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")
-    。
+    7月31日出生，[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink") 。
     街機2015年第2彈與動畫109話登場。
     常用品牌：**Sangria Rosa**
     紅色捲髮，綁著斜馬尾。與明里同屆，雛希的兒時好友。為西班牙和日本的混血兒，所以說話老帶著西班牙腔調。
@@ -238,8 +229,7 @@
 
   -
     配音員：日：[石原夏織](../Page/石原夏織.md "wikilink")（聲）、上花楓裏（歌）／港：[何璐怡](../Page/何璐怡.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")（動畫版第2部）→[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")（動畫版第3部）→[張乃文](../Page/張乃文_\(配音員\).md "wikilink")（動畫版第4部、劇場版）
-    11月11日出生，[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。街機2014年第1彈與動畫第51集登場。夢幻學院的插班新人，與小莓同屆。喜歡的品牌是「**Swing
-    ROCK**」。
+    11月11日出生，[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。街機2014年第1彈與動畫第51集登場。夢幻學院的插班新人，與小莓同屆。喜歡的品牌是「**Swing ROCK**」。
     入學前和朋友經營樂團，是持有絕對音感的音樂少女。家中經營咖啡廳，非常喜歡貓。被說可愛時會害羞。於第94集與小莓組成二人組合「**2wings**」。
     口頭禪是「啦啦啦～的感覺」「如果你是"Do"我就是"Re"；如果你是"Re"我就是"Mi"，我永遠都不會輸」。
 
@@ -247,20 +237,16 @@
 
   -
     配音員：日：（聲）、市倉有菜（歌）／港：[葉曉欣](../Page/葉曉欣.md "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")（動畫版第2部）→[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起、劇場版）
-    12月3日出生，[射手座](https://zh.wikipedia.org/wiki/射手座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。街機2014年第1彈與動畫第51集登場。夢想學院學生、與小莓同屆。喜歡的品牌是「**MAGICAL
-    TOY**」。
-    在學校內選擇製作人課程，並擔任星羅的專屬製作人。日夜都為星羅的製作操心，但對自己的事非常不在行。常喝「腦力閃電 (Brain
-    Thunder)」補充體力。
-    原本沒有躋身偶像行列的打算，但意外獲選廣告代言人後決定也兼任自己的製作人成為偶像。對於重點非常注意，所以說話時會重複三次。興奮時，說話節奏會變快，口頭禪是「OK
-    OK OK\~」。
+    12月3日出生，[射手座](https://zh.wikipedia.org/wiki/射手座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。街機2014年第1彈與動畫第51集登場。夢想學院學生、與小莓同屆。喜歡的品牌是「**MAGICAL TOY**」。
+    在學校內選擇製作人課程，並擔任星羅的專屬製作人。日夜都為星羅的製作操心，但對自己的事非常不在行。常喝「腦力閃電 (Brain Thunder)」補充體力。
+    原本沒有躋身偶像行列的打算，但意外獲選廣告代言人後決定也兼任自己的製作人成為偶像。對於重點非常注意，所以說話時會重複三次。興奮時，說話節奏會變快，口頭禪是「OK OK OK\~」。
     小時候非常老實，所以在同學間沒互動，也是她的大煩惱，可是在媽媽幫忙改造型象後便變得非常活潑。
 
 <!-- end list -->
 
   -
     配音員：日：[高橋未奈美](../Page/高橋未奈美.md "wikilink")（聲）、吉河順央（歌、動畫前期）、愛野繪理（歌、動畫後期）／港：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")（動畫版、劇場版）、[劉如蘋](../Page/劉如蘋.md "wikilink")（遊戲版）
-    10月2日出生，
-    [天秤座](../Page/天秤座.md "wikilink")，血型[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")。街機2014年第2彈與動畫第61集登場。人氣偶像，在夢想學院內選擇設計師課程，願望是成為正式設計師創立品牌。
+    10月2日出生， [天秤座](../Page/天秤座.md "wikilink")，血型[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")。街機2014年第2彈與動畫第61集登場。人氣偶像，在夢想學院內選擇設計師課程，願望是成為正式設計師創立品牌。
     兒時在摩洛哥度過，因遇上波希米亞人咪咪姐而想成為設計師，喜歡動物、崇尚自然與民族風情，偶爾也有天然呆的一面。在宿舍飼養名爲“巴姆”的鸚鵡。為非洲及日本的混血兒。有時設計時會念著咪咪姐的口頭襌，原文是波希米亞語。
     第61集實現創立品牌「**Bohemian Sky**」的夢想，並身穿自己的設計進行表演。
 
@@ -268,16 +254,14 @@
 
   -
     配音員：日：[富岡美沙子](../Page/富岡美沙子.md "wikilink")（聲）、愛野繪理（歌）／港：[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")→[廖杏茵](../Page/廖杏茵.md "wikilink")（第139集起）／台：[傅其慧](../Page/傅其慧.md "wikilink")（動畫版第2部）、[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")（動畫版第3部起）、[張乃文](../Page/張乃文_\(配音員\).md "wikilink")（劇場版）
-    4月18日出生，[白羊座](../Page/白羊座.md "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。街機2014年第3彈與動畫第68集登場。與小莓同屆。喜歡的品牌是「**Aurora
-    Fantasy**」。
+    4月18日出生，[白羊座](../Page/白羊座.md "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。街機2014年第3彈與動畫第68集登場。與小莓同屆。喜歡的品牌是「**Aurora Fantasy**」。
     人氣偶像，擅長美妝造型。家境相當富裕，買下大片山地經營牧場，在那裡遇見院長，被說服加入夢幻學院。
 
 ### 其他
 
   -
     配音員：日：[壽美菜子](../Page/壽美菜子.md "wikilink")（聲）、笹鎌里須子（歌）／港：[詹健兒](../Page/詹健兒.md "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")（動畫版第1、2部）→[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")（動畫版第3部起、劇場版）→[石-{采}-薇](../Page/石采薇.md "wikilink")（STARS第70集）
-    9月18日出生，[處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")
-    身高165cm。
+    9月18日出生，[處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink") 身高165cm。
     街機2013年開始以NPC身分登場，第六彈及2014年第四彈開始可以玩家身分出場。
     在第一部故事中就讀於星光學園的學生，比小莓大一屆的學姊。是學園中人氣和實力排名第一的當紅偶像，也是小莓所憧憬的目標。
     有著小學以來的豐富經歷作為其他學生的榜樣，表面上天生麗質但私下是個努力家。時常展露不滅的優雅笑容，是一個親切的偶像。相當看好小莓。曾與小櫻的祖父學習日本舞。
@@ -289,8 +273,7 @@
 
   -
     配音員：日：[洲崎绫](https://zh.wikipedia.org/wiki/洲崎绫 "wikilink")（聲）、巴山萌菜（歌）／港：[張頌欣](../Page/張頌欣.md "wikilink")／台：[傅其慧](../Page/傅其慧.md "wikilink")（動畫版第1、2部）→[龍顯蕙](../Page/龍顯蕙.md "wikilink")（動畫版第3部）→[張乃文](../Page/張乃文_\(配音員\).md "wikilink")（動畫版第4部、劇場版）
-    7月7日出生，[巨蟹座](../Page/巨蟹座.md "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")
-    身高163cm。街機2014年第4彈與動畫第78集正式登場。喜歡的品牌是「**ViVid Kiss**」。
+    7月7日出生，[巨蟹座](../Page/巨蟹座.md "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink") 身高163cm。街機2014年第4彈與動畫第78集正式登場。喜歡的品牌是「**ViVid Kiss**」。
     突然與美月一起以雙人組合「**WM**」名義進入演藝圈的神秘新人。在花店工作，對花語以及服裝品味都很在行。
     第83話提及美月早於在星光學園時就見過送花來學校的-{未來}-，因此萌生與她一起行動的念頭。第99集表明因希望參加園藝師世界盃而暫時解散「**WM**」，後來得了冠軍。
     喜歡的食物是雪糕與汽水，有飼養寵物雪貂「菲烈太（フェレッ太）」。
@@ -321,8 +304,7 @@
   -
     配音員：日：[矢野亞沙美](https://zh.wikipedia.org/wiki/矢野亞沙美 "wikilink")（聲）、星咲花那（歌）／台：[李昀晴](../Page/李昀晴.md "wikilink")
     2月7日出生，[水瓶座](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")，血型[AB型](https://zh.wikipedia.org/wiki/AB型 "wikilink")。
-    街機2016年第2彈暨動畫第161話登場。喜歡的品牌是「**Mecha
-    PaniQ**」。就讀大阪難波天下一學園的搞笑偶像，曾打算入讀星光學園，但因喜歡搞笑而來到大阪。
+    街機2016年第2彈暨動畫第161話登場。喜歡的品牌是「**Mecha PaniQ**」。就讀大阪難波天下一學園的搞笑偶像，曾打算入讀星光學園，但因喜歡搞笑而來到大阪。
 
 ## 星光學園
 
@@ -338,17 +320,14 @@
 
   -
     配音員：日：[保村真](../Page/保村真.md "wikilink")／港：[麥皓豐](../Page/麥皓豐.md "wikilink")／台：[丘台名](../Page/丘台名.md "wikilink")（第1、2部）→[李勇](https://zh.wikipedia.org/wiki/李勇 "wikilink")（第3部起與劇場版）
-    DJ體育服的長髮熱血男老師，分別在莓與明里的中學時期擔任班導師。經常以「Honey」稱呼學生，並給予奇怪的英文綽號（如稱呼莓為「STAR宮莓」、美月為「Beautiful
-    Moon」以及涼川為「Cool川」）。口頭禪是'Honey'和'Show
-    time'。前身是熱門舞者團體「Sunny\&Johnny」的成員，曾經當過「假面舞會」的動作指導，會採用「先讚後批」的方式給予意見。雖然專業，但性格也脫線，經常被學園長吐槽。
+    DJ體育服的長髮熱血男老師，分別在莓與明里的中學時期擔任班導師。經常以「Honey」稱呼學生，並給予奇怪的英文綽號（如稱呼莓為「STAR宮莓」、美月為「Beautiful Moon」以及涼川為「Cool川」）。口頭禪是'Honey'和'Show time'。前身是熱門舞者團體「Sunny\&Johnny」的成員，曾經當過「假面舞會」的動作指導，會採用「先讚後批」的方式給予意見。雖然專業，但性格也脫線，經常被學園長吐槽。
     名字與[強尼·戴普](../Page/強尼·戴普.md "wikilink")諧音。
 
 <!-- end list -->
 
   -
     配音員：日：[豐永利行](../Page/豐永利行.md "wikilink")／港：[陳灝瑋](../Page/陳灝瑋.md "wikilink")／台：[丘台名](../Page/丘台名.md "wikilink")（第1、2部）→[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")（第3部起與劇場版）
-    學園的雜務役，是堤亞拉學園長的弟弟，負責打理學園女王的專屬宿舍，年紀僅比學生們大些的青年，經常給予莓等人一些建議。在外與朋友組成地下樂團「More
-    Than True」，在樂團中單任主唱，藝名簡稱「直」。127話被任用為教師，擔任凜與圓的班導師，但偶爾還是會拿起掃把掃地來當靜心運動。
+    學園的雜務役，是堤亞拉學園長的弟弟，負責打理學園女王的專屬宿舍，年紀僅比學生們大些的青年，經常給予莓等人一些建議。在外與朋友組成地下樂團「More Than True」，在樂團中單任主唱，藝名簡稱「直」。127話被任用為教師，擔任凜與圓的班導師，但偶爾還是會拿起掃把掃地來當靜心運動。
 
 ### 學校學生
 
@@ -798,8 +777,7 @@
 
   -
     配音員：日：[井上喜久子](../Page/井上喜久子.md "wikilink")／港：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")（第1、2部）→[李昀晴](../Page/李昀晴.md "wikilink")（第3部起與劇場版）
-    第9話登場。「**Angely
-    Sugar**」的總設計師，與光石和林檎是熟人，同時是天羽圓的祖母，是位和藹的老婦。因為看到莓的努力而授予非常稀有的特別卡片。在林檎打算改行時，曾告訴林檎自己的幸福要由自己決定。
+    第9話登場。「**Angely Sugar**」的總設計師，與光石和林檎是熟人，同時是天羽圓的祖母，是位和藹的老婦。因為看到莓的努力而授予非常稀有的特別卡片。在林檎打算改行時，曾告訴林檎自己的幸福要由自己決定。
 
 <!-- end list -->
 
@@ -818,51 +796,43 @@
 
   -
     配音員：日：[澤海陽子](../Page/澤海陽子.md "wikilink")／港：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")
-    「**SPICY
-    AGEHA**」的總設計師，同樣是光石的熟人。第23話登場，是蘭積極努力要追逐的對象，即使她現在任用蘭同校的學姊繪麻為代言人。主攻時尚潮流，本身也曾是一線的模特兒。
+    「**SPICY AGEHA**」的總設計師，同樣是光石的熟人。第23話登場，是蘭積極努力要追逐的對象，即使她現在任用蘭同校的學姊繪麻為代言人。主攻時尚潮流，本身也曾是一線的模特兒。
 
 <!-- end list -->
 
   -
     配音員：日：[三木真一郎](../Page/三木真一郎.md "wikilink")／港：[鄧港文](../Page/鄧港文.md "wikilink")／台：[丘台名](../Page/丘台名.md "wikilink")
-    第15話登場。「**HAPPY
-    RAINBOW**」的總設計師，整有一個[力怎頭](../Page/力怎頭.md "wikilink")的嚴肅潮流青年，討厭失約不守時的人。與Green．Glass認識。最終因乙女手上有父親送給愛人的戒指而把高級服裝卡交給乙女。
+    第15話登場。「**HAPPY RAINBOW**」的總設計師，整有一個[力怎頭](../Page/力怎頭.md "wikilink")的嚴肅潮流青年，討厭失約不守時的人。與Green．Glass認識。最終因乙女手上有父親送給愛人的戒指而把高級服裝卡交給乙女。
 
 <!-- end list -->
 
   -
     配音員：日：[大川透](../Page/大川透.md "wikilink")／港：[梁偉德](../Page/梁偉德.md "wikilink")／台：[丘台名](../Page/丘台名.md "wikilink")（第1、2部）→[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")（第3部起）
-    第20話登場。「**LoLi
-    GoThiC**」的總設計師，住在陰森的豪宅，令不少想拿高級服裝卡的偶像覺得可怕，將自己設定為活了三百年的吸血鬼，雇用的員工都會裝成妖魔鬼怪來招待訪客，因百合香擁有堅強的心而把高級卡交給百合香。
+    第20話登場。「**LoLi GoThiC**」的總設計師，住在陰森的豪宅，令不少想拿高級服裝卡的偶像覺得可怕，將自己設定為活了三百年的吸血鬼，雇用的員工都會裝成妖魔鬼怪來招待訪客，因百合香擁有堅強的心而把高級卡交給百合香。
 
 <!-- end list -->
 
   -
     配音員：日：[恆松步](https://zh.wikipedia.org/wiki/恆松步 "wikilink")（柊理莎）、[中司優花](https://zh.wikipedia.org/wiki/中司優花 "wikilink")（柊艾雷娜）／港：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")、[沈小蘭](../Page/沈小蘭.md "wikilink")／台：[林沛苓](https://zh.wikipedia.org/wiki/林沛苓 "wikilink")、[傅其慧](../Page/傅其慧.md "wikilink")
-    第30話登場。「**Aurora Fantasy**」的總設計師兼繪本作家，深居在隱密的森林中。與「HAPPY
-    RAINBOW」的總設計師虹原真認識。
+    第30話登場。「**Aurora Fantasy**」的總設計師兼繪本作家，深居在隱密的森林中。與「HAPPY RAINBOW」的總設計師虹原真認識。
     由於匿名因此鮮少人知道該設計師為雙子團體，不太善於寫信，不過有想過去拜訪櫻把高級服裝卡交給小櫻，而格理莎是姐姐，格艾利娜是妹妹，但沒人知誰是誰，因為二人太像了。
 
 <!-- end list -->
 
   - \[4\]
-    「**MAGICAL
-    TOY**」的總設計師，一位男性，第34話在楓的回想中登場，在第66話出現在日本，在紀伊她們努力追尋後終於追上了他所在的車子，因為被紀伊和朋友的行動感動，所以給了紀伊卡片。
+    「**MAGICAL TOY**」的總設計師，一位男性，第34話在楓的回想中登場，在第66話出現在日本，在紀伊她們努力追尋後終於追上了他所在的車子，因為被紀伊和朋友的行動感動，所以給了紀伊卡片。
     平日兼職街頭小丑來獲得靈感的設計師，原因是想每人都覺得快樂，而他教了楓魔術。
 
 <!-- end list -->
 
   - 風澤空
-    「**Bohemian
-    Sky**」的總設計師，詳見[\#夢想學園](https://zh.wikipedia.org/wiki/#夢想學園 "wikilink")。
+    「**Bohemian Sky**」的總設計師，詳見[\#夢想學園](https://zh.wikipedia.org/wiki/#夢想學園 "wikilink")。
 
 <!-- end list -->
 
   -
-    配音員：日：[渡邊明乃](../Page/渡邊明乃.md "wikilink") /
-    港：[吳羨婷](../Page/吳羨婷.md "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")（第2部）→[李昀晴](../Page/李昀晴.md "wikilink")（第3部起）
-    第84話登場。「**ViVid
-    Kiss**」的總設計師，出生於洛杉磯。應美月要求希望能給予未來個人演唱會的稀有舞台服裝。口頭禪是「真糟糕（ちょーヤバい）！」
+    配音員：日：[渡邊明乃](../Page/渡邊明乃.md "wikilink") / 港：[吳羨婷](../Page/吳羨婷.md "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")（第2部）→[李昀晴](../Page/李昀晴.md "wikilink")（第3部起）
+    第84話登場。「**ViVid Kiss**」的總設計師，出生於洛杉磯。應美月要求希望能給予未來個人演唱會的稀有舞台服裝。口頭禪是「真糟糕（ちょーヤバい）！」
 
 <!-- end list -->
 
@@ -874,8 +844,7 @@
 
   -
     配音員：日：[田丸篤志](../Page/田丸篤志.md "wikilink")／港：[鍾見麟](../Page/鍾見麟.md "wikilink")／台：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")
-    「**Dreamy Crown**」的總設計師。第106話登場。天羽明日香的徒弟，剛出道於服裝界，在山郊"Dreamy
-    Lake"湖邊建立自己的個人工作室。基本上在明里有個人表演時都會看到翼，每天早上準時收看「大空天氣」。
+    「**Dreamy Crown**」的總設計師。第106話登場。天羽明日香的徒弟，剛出道於服裝界，在山郊"Dreamy Lake"湖邊建立自己的個人工作室。基本上在明里有個人表演時都會看到翼，每天早上準時收看「大空天氣」。
     第160話曾被椿說過：「有大空明里的地方，必有瀬名翼。」
 
 <!-- end list -->
@@ -888,15 +857,13 @@
 
   -
     配音員：日：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")／港：[梁偉德](../Page/梁偉德.md "wikilink")／台：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")
-    「**Dance Fusion**」的總設計師。第128話登場。曾經是強尼別府的搭檔，共同組成「Sunny &
-    Johnny」，一起被稱為「舞蹈界的王者」。
+    「**Dance Fusion**」的總設計師。第128話登場。曾經是強尼別府的搭檔，共同組成「Sunny & Johnny」，一起被稱為「舞蹈界的王者」。
 
 <!-- end list -->
 
   -
     配音員：日：[白石涼子](../Page/白石涼子.md "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")
-    「**Dolly
-    devil**」的總設計師。第157話登場。經常化裝到街上尋找靈感。在街上偶然與乃乃和莉紗相遇，在與她們交談後，找到了新的靈感，表示樂意為她們設計表演服。
+    「**Dolly devil**」的總設計師。第157話登場。經常化裝到街上尋找靈感。在街上偶然與乃乃和莉紗相遇，在與她們交談後，找到了新的靈感，表示樂意為她們設計表演服。
 
 ## 家人
 
@@ -1024,8 +991,7 @@
 
   -
     配音員：日：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")／港：[陳成港](../Page/陳成港.md "wikilink")／台：[丘台名](../Page/丘台名.md "wikilink")
-    娛樂雜誌記者.
-    專門揭發夢想學園成功的秘密，63話時美月轉入夢想學園時，因隨身碟內的紀錄涉及妨害美月名譽的資料而被西島佐舞子當場拔除而撤退。
+    娛樂雜誌記者. 專門揭發夢想學園成功的秘密，63話時美月轉入夢想學園時，因隨身碟內的紀錄涉及妨害美月名譽的資料而被西島佐舞子當場拔除而撤退。
 
 <!-- end list -->
 
@@ -1110,9 +1076,7 @@
   - [電視動畫《Aikatsu！偶像活動！》官網人物介紹](http://www.aikatsu.net/03/character/index.html)
   - [電視動畫《Aikatsu！偶像活動！》東京電視台官網人物介紹](https://www.tv-tokyo.co.jp/anime/aikatsu/chara/)
 
-[Category:Aikatsu！偶像活動！](https://zh.wikipedia.org/wiki/Category:Aikatsu！偶像活動！ "wikilink")
-[Category:電子遊戲角色列表](https://zh.wikipedia.org/wiki/Category:電子遊戲角色列表 "wikilink")
-[Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
+[Category:Aikatsu！偶像活動！](https://zh.wikipedia.org/wiki/Category:Aikatsu！偶像活動！ "wikilink") [Category:電子遊戲角色列表](https://zh.wikipedia.org/wiki/Category:電子遊戲角色列表 "wikilink") [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
 
 1.  ハラペーニョ（Jalapeño）為西班牙語墨西哥辣椒之意。
 

@@ -1,7 +1,4 @@
-《**Happy
-Birthday**》是日本歌手[杏子的第](../Page/杏子_\(歌手\).md "wikilink")9張單曲。本作的A面歌《Happy
-Birthday》作為動畫《[名偵探柯南](../Page/名偵探柯南.md "wikilink")》的電影《[名偵探柯南
-引爆摩天樓](https://zh.wikipedia.org/wiki/名偵探柯南_引爆摩天樓 "wikilink")》的主題曲。
+《**Happy Birthday**》是日本歌手[杏子的第](../Page/杏子_\(歌手\).md "wikilink")9張單曲。本作的A面歌《Happy Birthday》作為動畫《[名偵探柯南](../Page/名偵探柯南.md "wikilink")》的電影《[名偵探柯南 引爆摩天樓](https://zh.wikipedia.org/wiki/名偵探柯南_引爆摩天樓 "wikilink")》的主題曲。
 
 ## 收錄曲
 
@@ -17,8 +14,7 @@ Birthday》作為動畫《[名偵探柯南](../Page/名偵探柯南.md "wikilink
 
 ## 相關項目
 
-  - [THE BEST OF DETECTIVE CONAN ～The Movie Themes
-    Collection～](../Page/THE_BEST_OF_DETECTIVE_CONAN_～The_Movie_Themes_Collection～.md "wikilink")
+  - [THE BEST OF DETECTIVE CONAN ～The Movie Themes Collection～](../Page/THE_BEST_OF_DETECTIVE_CONAN_～The_Movie_Themes_Collection～.md "wikilink")
 
 <table>
 <tbody>
@@ -34,7 +30,4 @@ Birthday》作為動畫《[名偵探柯南](../Page/名偵探柯南.md "wikilink
 </tbody>
 </table>
 
-[Category:杏子歌曲](https://zh.wikipedia.org/wiki/Category:杏子歌曲 "wikilink")
-[Category:1997年單曲](https://zh.wikipedia.org/wiki/Category:1997年單曲 "wikilink")
-[Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink")
-[Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")
+[Category:杏子歌曲](https://zh.wikipedia.org/wiki/Category:杏子歌曲 "wikilink") [Category:1997年單曲](https://zh.wikipedia.org/wiki/Category:1997年單曲 "wikilink") [Category:名侦探柯南歌曲](https://zh.wikipedia.org/wiki/Category:名侦探柯南歌曲 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")

@@ -6,8 +6,7 @@
 
 ## 名稱
 
-「IT行者」中，「IT」指英語「information
-technology」，即[資訊科技](https://zh.wikipedia.org/wiki/資訊科技 "wikilink")，「行者」乃[佛教術語](https://zh.wikipedia.org/wiki/佛教術語 "wikilink")，即修行者之意。
+「IT行者」中，「IT」指英語「information technology」，即[資訊科技](https://zh.wikipedia.org/wiki/資訊科技 "wikilink")，「行者」乃[佛教術語](https://zh.wikipedia.org/wiki/佛教術語 "wikilink")，即修行者之意。
 
 ## 每集主題
 
@@ -24,21 +23,16 @@ technology」，即[資訊科技](https://zh.wikipedia.org/wiki/資訊科技 "wi
 
 ## 外部連結
 
-  - [香港電台特備網站 -
-    IT行者](https://web.archive.org/web/20140209213745/http://it.etvonline.tv/)
-  - [香港電台節目網站 -
-    IT行者](http://programme.rthk.hk/rthk/tv/programme.php?name=tv/itchampions)
-  - [香港電台Podcasts網站 -
-    IT行者](http://podcast.rthk.hk/podcast/item_all.php?pid=561)
+  - [香港電台特備網站 - IT行者](https://web.archive.org/web/20140209213745/http://it.etvonline.tv/)
+  - [香港電台節目網站 - IT行者](http://programme.rthk.hk/rthk/tv/programme.php?name=tv/itchampions)
+  - [香港電台Podcasts網站 - IT行者](http://podcast.rthk.hk/podcast/item_all.php?pid=561)
   - [IT行者Facebook官方網站](https://www.facebook.com/itchampions.rthk)
 
 ## 參考來源
 
 ## 電視節目的變遷
 
-[Category:香港電台電視劇集](https://zh.wikipedia.org/wiki/Category:香港電台電視劇集 "wikilink")
-[Category:電腦工作題材電視節目](https://zh.wikipedia.org/wiki/Category:電腦工作題材電視節目 "wikilink")
-[Category:2014年香港電視劇集](https://zh.wikipedia.org/wiki/Category:2014年香港電視劇集 "wikilink")
+[Category:香港電台電視劇集](https://zh.wikipedia.org/wiki/Category:香港電台電視劇集 "wikilink") [Category:電腦工作題材電視節目](https://zh.wikipedia.org/wiki/Category:電腦工作題材電視節目 "wikilink") [Category:2014年香港電視劇集](https://zh.wikipedia.org/wiki/Category:2014年香港電視劇集 "wikilink")
 
 1.
 2.

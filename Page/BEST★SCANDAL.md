@@ -16,15 +16,13 @@
 4.  **[恋模様](https://zh.wikipedia.org/wiki/戀模樣_\(單曲\) "wikilink")**
       -
         作詞：HARUNA　作曲・編曲：MASTERWORKS
-5.  **[夢想的翅膀](../Page/夢想的翅膀.md "wikilink")**（原曲：[Hillbilly
-    Bops](https://zh.wikipedia.org/wiki/ヒルビリー・バップス "wikilink")《夢見る頃を過ぎても》）
+5.  **[夢想的翅膀](../Page/夢想的翅膀.md "wikilink")**（原曲：[Hillbilly Bops](https://zh.wikipedia.org/wiki/ヒルビリー・バップス "wikilink")《夢見る頃を過ぎても》）
       -
         作詞：SCANDAL、[葉山愛次](https://zh.wikipedia.org/wiki/葉山愛次 "wikilink")、久保田さちお　作曲：久保田さちお　編曲：[星勝](https://zh.wikipedia.org/wiki/星勝 "wikilink")
 6.  **アナタガマワル**
       -
         作詞：TOMOMI、一色徳保　作曲：一色徳保　編曲：A×S×E
-7.  **[Space
-    Ranger](https://zh.wikipedia.org/wiki/Space_Ranger_\(SCANDAL單曲\) "wikilink")**
+7.  **[Space Ranger](https://zh.wikipedia.org/wiki/Space_Ranger_\(SCANDAL單曲\) "wikilink")**
       -
         作詞：TOMOMI・HARUNA　作曲：[下畑良介](https://zh.wikipedia.org/wiki/下畑良介 "wikilink")　編曲：下畑良介、MASTERWORKS
 8.  **Ring\!Ring\!Ring\!**
@@ -42,11 +40,9 @@
 12. **[SAKURA再見](../Page/SAKURA再見.md "wikilink")**
       -
         作詞：TOMOMI、MASTERWORKS　作曲：MASTERWORKS　編曲：[久保田光太郎](https://zh.wikipedia.org/wiki/久保田光太郎 "wikilink")
-13. **[蜉蝣](https://zh.wikipedia.org/wiki/蜉蝣_\(SCANDAL單曲\) "wikilink")**
-    (album mix)
+13. **[蜉蝣](https://zh.wikipedia.org/wiki/蜉蝣_\(SCANDAL單曲\) "wikilink")** (album mix)
       -
-        作詞：TOMOMI、MASTERWORKS　作曲・編曲：[Jin
-        Nakamura](https://zh.wikipedia.org/wiki/Jin_Nakamura "wikilink")
+        作詞：TOMOMI、MASTERWORKS　作曲・編曲：[Jin Nakamura](https://zh.wikipedia.org/wiki/Jin_Nakamura "wikilink")
 
 ### DVD
 
@@ -80,6 +76,4 @@
 10. 少女S (making)
 11. 夢見るつばさ (making)
 
-[Category:SCANDAL音樂專輯](https://zh.wikipedia.org/wiki/Category:SCANDAL音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
+[Category:SCANDAL音樂專輯](https://zh.wikipedia.org/wiki/Category:SCANDAL音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")

@@ -21,8 +21,7 @@ __NOTOC__
 
 <div style="float:right; width:39%">
 
-{{/box-header| 軟件簡介 | Portal:Google/軟件簡介 }}  {{/box-footer|}}
-{{/box-header|產品|Portal:Google/產品|}}  {{/box-footer|}}
+{{/box-header| 軟件簡介 | Portal:Google/軟件簡介 }}  {{/box-footer|}} {{/box-header|產品|Portal:Google/產品|}}  {{/box-footer|}}
 
 {{/box-header|特色语录|Portal:Google/特色语录|}}  {{/box-footer|}}
 
@@ -34,10 +33,6 @@ __NOTOC__
 
 <div style="float:right; width:100%">
 
-{{/box-header|维基主题|template:portals|}}   {{/box-footer|}}
-{{/box-header|相關主題|Portal:Google/相關主題|}}  {{/box-footer|}}
-{{/box-header|维基媒体计划|Portal:Google/维基媒体计划|}}  {{/box-footer|}}
+{{/box-header|维基主题|template:portals|}}   {{/box-footer|}} {{/box-header|相關主題|Portal:Google/相關主題|}}  {{/box-footer|}} {{/box-header|维基媒体计划|Portal:Google/维基媒体计划|}}  {{/box-footer|}}
 
-[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink")
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
-[Category:Google_使用者](https://zh.wikipedia.org/wiki/Category:Google_使用者 "wikilink")
+[Category:主题首页](https://zh.wikipedia.org/wiki/Category:主题首页 "wikilink") [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:Google_使用者](https://zh.wikipedia.org/wiki/Category:Google_使用者 "wikilink")

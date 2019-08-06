@@ -4,12 +4,9 @@
 
 1987年[國鐵分割民營化](../Page/國鐵分割民營化.md "wikilink")後，[日本國有鐵道](../Page/日本國有鐵道.md "wikilink")的货运业务由日本貨物鐵道（JR貨物）继承，负责经营全国性的铁路货物运输业务。由于JR货物考虑进一步提高[集装箱](../Page/集装箱.md "wikilink")列车的最大牵引重量，因而开展了新一代大功率电力机车的开发计划。1990年，JR货物同时开发研制了两款6000千瓦大功率交流传动电力机车，其牵引功率是[EF66型电力机车的](../Page/日本國鐵EF66型電力機車.md "wikilink")1.5倍。其中，[EF200型电力机车适用于](../Page/JR貨物EF200型電力機車.md "wikilink")1500伏特直流电气化铁路，计划投入[东京](../Page/东京.md "wikilink")至[大阪间使用](https://zh.wikipedia.org/wiki/大阪 "wikilink")；而[EF500型电力机车适用于](../Page/JR貨物EF500型電力機車.md "wikilink")1500伏特直流电气化铁路和20千伏交流电气化铁路，计划投入东京至[北海道](../Page/北海道.md "wikilink")间使用。
 
-由于[日本海縱貫線](../Page/日本海縱貫線.md "wikilink")的货物运输量增长小于预期，使用EF500型电力机车则显得不甚经济。为了扩大交流传动电力机车的使用范围，因此日立制作所提出开发4000千瓦交流传动电力机车，来替代双机重联运用的[ED75型电力机车](../Page/日本國鐵ED75型電力機車.md "wikilink")，即交直流两用的ED500型电力机车。这款机车结合了EF200、EF500型电力机车的特点，主要部件可以与EF200型电力机车通用。牵引系统采用[晶闸管](https://zh.wikipedia.org/wiki/晶闸管 "wikilink")[整流器](../Page/整流器.md "wikilink")、[GTO](https://zh.wikipedia.org/wiki/可關斷晶閘管 "wikilink")[牵引逆变器](https://zh.wikipedia.org/wiki/逆变器 "wikilink")、[三相异步](../Page/异步电动机.md "wikilink")[牵引电动机和](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")[16位](https://zh.wikipedia.org/wiki/16位元 "wikilink")[微机控制系统](../Page/微型计算机.md "wikilink")。牵引电动机采用了单轴控制，各自对应独立的牵引逆变器，
-提高了电力机车的粘着性能和冗余度\[1\]。
+由于[日本海縱貫線](../Page/日本海縱貫線.md "wikilink")的货物运输量增长小于预期，使用EF500型电力机车则显得不甚经济。为了扩大交流传动电力机车的使用范围，因此日立制作所提出开发4000千瓦交流传动电力机车，来替代双机重联运用的[ED75型电力机车](../Page/日本國鐵ED75型電力機車.md "wikilink")，即交直流两用的ED500型电力机车。这款机车结合了EF200、EF500型电力机车的特点，主要部件可以与EF200型电力机车通用。牵引系统采用[晶闸管](https://zh.wikipedia.org/wiki/晶闸管 "wikilink")[整流器](../Page/整流器.md "wikilink")、[GTO](https://zh.wikipedia.org/wiki/可關斷晶閘管 "wikilink")[牵引逆变器](https://zh.wikipedia.org/wiki/逆变器 "wikilink")、[三相异步](../Page/异步电动机.md "wikilink")[牵引电动机和](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")[16位](https://zh.wikipedia.org/wiki/16位元 "wikilink")[微机控制系统](../Page/微型计算机.md "wikilink")。牵引电动机采用了单轴控制，各自对应独立的牵引逆变器， 提高了电力机车的粘着性能和冗余度\[1\]。
 
-1992年8月，ED500
-901号原型车在日立制作所水户工厂落成，并于同年11月开始进行正线试运行和综合性能试验。由于这台机车并非由JR货物出资购置的车辆，因此其所有权始终属于日立制作所，以租借形式提供给JR货物进行试验。至1994年底，ED500
-901号机车完成各项试验后，从JR货物除籍并返回日立制作所水户工厂保存，JR货物也没有采购该型机车的打算。车上部分设备已经被拆除，所以机车已无法自力运行。
+1992年8月，ED500 901号原型车在日立制作所水户工厂落成，并于同年11月开始进行正线试运行和综合性能试验。由于这台机车并非由JR货物出资购置的车辆，因此其所有权始终属于日立制作所，以租借形式提供给JR货物进行试验。至1994年底，ED500 901号机车完成各项试验后，从JR货物除籍并返回日立制作所水户工厂保存，JR货物也没有采购该型机车的打算。车上部分设备已经被拆除，所以机车已无法自力运行。
 
 ## 技术特点
 
@@ -51,12 +48,7 @@ ED500型电力机车并采用了[电控空气制动](https://zh.wikipedia.org/wi
   -
 ## 参考文献
 
-[Category:日本貨物鐵道電力機車](https://zh.wikipedia.org/wiki/Category:日本貨物鐵道電力機車 "wikilink")
-[Category:1500伏直流电力机车](https://zh.wikipedia.org/wiki/Category:1500伏直流电力机车 "wikilink")
-[Category:20千伏50赫茲交流電力機車](https://zh.wikipedia.org/wiki/Category:20千伏50赫茲交流電力機車 "wikilink")
-[Category:20千伏60赫茲交流電力機車](https://zh.wikipedia.org/wiki/Category:20千伏60赫茲交流電力機車 "wikilink")
-[Category:Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo軸式機車 "wikilink")
-[Category:日立制铁路机车](https://zh.wikipedia.org/wiki/Category:日立制铁路机车 "wikilink")
+[Category:日本貨物鐵道電力機車](https://zh.wikipedia.org/wiki/Category:日本貨物鐵道電力機車 "wikilink") [Category:1500伏直流电力机车](https://zh.wikipedia.org/wiki/Category:1500伏直流电力机车 "wikilink") [Category:20千伏50赫茲交流電力機車](https://zh.wikipedia.org/wiki/Category:20千伏50赫茲交流電力機車 "wikilink") [Category:20千伏60赫茲交流電力機車](https://zh.wikipedia.org/wiki/Category:20千伏60赫茲交流電力機車 "wikilink") [Category:Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo軸式機車 "wikilink") [Category:日立制铁路机车](https://zh.wikipedia.org/wiki/Category:日立制铁路机车 "wikilink")
 
 1.
 

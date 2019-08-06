@@ -1,5 +1,4 @@
-《**Last Romeo ～只要你～**》
-（）是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")的第四張日語單曲，由（）、[金勝洙](https://zh.wikipedia.org/wiki/金勝洙 "wikilink")（）作曲、[文理奈](https://zh.wikipedia.org/wiki/文理奈 "wikilink")（）作詞，並在2014年7月2日以三個不同版本推出\[1\]。這也是他們自加盟[日本環球音樂屬下](../Page/環球音樂_\(日本\).md "wikilink")[維京唱片](../Page/維京唱片.md "wikilink")之品牌後首張作品。
+《**Last Romeo ～只要你～**》 （）是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")的第四張日語單曲，由（）、[金勝洙](https://zh.wikipedia.org/wiki/金勝洙 "wikilink")（）作曲、[文理奈](https://zh.wikipedia.org/wiki/文理奈 "wikilink")（）作詞，並在2014年7月2日以三個不同版本推出\[1\]。這也是他們自加盟[日本環球音樂屬下](../Page/環球音樂_\(日本\).md "wikilink")[維京唱片](../Page/維京唱片.md "wikilink")之品牌後首張作品。
 
 ## 背景
 
@@ -9,8 +8,7 @@
 
 此單曲共分為3個發行版本，包括兩個限量版本及一個通常版本。
 
-  - 初回限定盤A：這版本包括了一片CD、一片收錄《Last Romeo
-    ～只要你～》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD及16頁小冊子\[5\]。
+  - 初回限定盤A：這版本包括了一片CD、一片收錄《Last Romeo ～只要你～》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD及16頁小冊子\[5\]。
 
 <!-- end list -->
 
@@ -44,8 +42,7 @@
 
   -
 
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink")
+[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink")
 
 1.
 

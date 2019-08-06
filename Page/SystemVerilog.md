@@ -1,8 +1,6 @@
 在现代的[集成电路](../Page/集成电路.md "wikilink")（尤其是[超大规模集成电路](../Page/超大规模集成电路.md "wikilink")）的[设计和验证流程中](../Page/集成电路设计.md "wikilink")，**SystemVerilog**是一种由[Verilog](../Page/Verilog.md "wikilink")发展而来的[硬件描述](../Page/硬件描述语言.md "wikilink")、[硬件验证统一语言](https://zh.wikipedia.org/wiki/硬件验证语言 "wikilink")，前一部分基本上是2005年版[Verilog](../Page/Verilog.md "wikilink")的扩展，而后一部分[功能验证](../Page/功能验证.md "wikilink")特性则是一门[面向对象程序设计](../Page/面向对象程序设计.md "wikilink")语言。面向对象特性很好地弥补了传统Verilog在芯片验证领域的缺陷，改善了代码可重用性，同时可以让验证工程师在比[寄存器传输级](../Page/寄存器传输级.md "wikilink")更高的抽象级别，以[事务而非单个信号作为监测对象](../Page/事务级建模方法.md "wikilink")，这些都大大提高了验证平台搭建的效率。
 
-SystemVerilog已经被采纳为[电气电子工程师学会](../Page/电气电子工程师学会.md "wikilink")1800-2009标准，并获得了主流[电子设计自动化工具供应商的支持](https://zh.wikipedia.org/wiki/电子设计自动化 "wikilink")。虽然没有哪一个仿真系统能够声称自己完全支持SystemVerilog语言参考手册（Language
-Reference Manual,
-LRM）里介绍的所有语言结构，要改善测试平台的互操作性相当困难，但是推进跨平台兼容性的研究开发工作已经在进行。若干种验证方法学相继出现，以预定义类的形式对测试平台模块进行标准化，如今最新的基于SystemVerilog的验证方法学为[通用验证方法学](../Page/通用验证方法学.md "wikilink")。这一方法学主要包括[开放源代码](../Page/开放源代码.md "wikilink")的[类库以及支持](https://zh.wikipedia.org/wiki/类库 "wikilink")[可重用测试平台](https://zh.wikipedia.org/wiki/集成电路设计#可重用设计方法学 "wikilink")、开发验证[IP核的预置格式](https://zh.wikipedia.org/wiki/IP核 "wikilink")。许多第三方提供商则开始推出基于SystemVerilog的验证[IP核](https://zh.wikipedia.org/wiki/IP核 "wikilink")。
+SystemVerilog已经被采纳为[电气电子工程师学会](../Page/电气电子工程师学会.md "wikilink")1800-2009标准，并获得了主流[电子设计自动化工具供应商的支持](https://zh.wikipedia.org/wiki/电子设计自动化 "wikilink")。虽然没有哪一个仿真系统能够声称自己完全支持SystemVerilog语言参考手册（Language Reference Manual, LRM）里介绍的所有语言结构，要改善测试平台的互操作性相当困难，但是推进跨平台兼容性的研究开发工作已经在进行。若干种验证方法学相继出现，以预定义类的形式对测试平台模块进行标准化，如今最新的基于SystemVerilog的验证方法学为[通用验证方法学](../Page/通用验证方法学.md "wikilink")。这一方法学主要包括[开放源代码](../Page/开放源代码.md "wikilink")的[类库以及支持](https://zh.wikipedia.org/wiki/类库 "wikilink")[可重用测试平台](https://zh.wikipedia.org/wiki/集成电路设计#可重用设计方法学 "wikilink")、开发验证[IP核的预置格式](https://zh.wikipedia.org/wiki/IP核 "wikilink")。许多第三方提供商则开始推出基于SystemVerilog的验证[IP核](https://zh.wikipedia.org/wiki/IP核 "wikilink")。
 
 ## 发展历史
 
@@ -30,16 +28,13 @@ SystemVerilog增强了寄存器型变量的功能，它可以像Verilog中线网
 
 这种结构将Verilog中与寄存器、存储器相关的概念进行了合并和扩展。
 
-在Verilog中，变量名称左边的索引被用来表示二进制变量的位宽，Verilog规定它只能是一维的。而这个数组名称右边的索引用来表示以这种位宽变量组成数组的元素个数，因为数组可以是一维数组、二维数组或者多维数组，因此这个索引可以是任意整数。在SystemVerilog中，如果在变量名称左边指定了由高至低的位宽（如8位信号由`[7:0`表示），则称之为“压缩数组”（packed
-array，有时也被译为“合并数组”）。压缩数组本身可以是多维的，即变量名称左边可以具有多维索引。如果在变量名称右边指定了数组尺寸，则称之为“非压缩数组”。下面用示例代码表示了一个由二维压缩数组构成的一维非压缩数组：
+在Verilog中，变量名称左边的索引被用来表示二进制变量的位宽，Verilog规定它只能是一维的。而这个数组名称右边的索引用来表示以这种位宽变量组成数组的元素个数，因为数组可以是一维数组、二维数组或者多维数组，因此这个索引可以是任意整数。在SystemVerilog中，如果在变量名称左边指定了由高至低的位宽（如8位信号由`[7:0`表示），则称之为“压缩数组”（packed array，有时也被译为“合并数组”）。压缩数组本身可以是多维的，即变量名称左边可以具有多维索引。如果在变量名称右边指定了数组尺寸，则称之为“非压缩数组”。下面用示例代码表示了一个由二维压缩数组构成的一维非压缩数组：
 
 ``` verilog
 logic [1:0][2:0] my_pack[32];
 ```
 
-在上面的例子里，非压缩数组数组`my_pack`具有32个元素（这里用到了类似C语言的数组元素个数表示方法，这里也可以写成Verilog中常见的`[31:0]`形式）。这个非压缩数组每一个元素本身又是压缩数组，即2个位宽为3的逻辑型变量，因此非压缩数组的每一个元素包含六位二进制数的信息。A
-variable of packed array type maps 1:1 onto an integer arithmetic
-quantity.
+在上面的例子里，非压缩数组数组`my_pack`具有32个元素（这里用到了类似C语言的数组元素个数表示方法，这里也可以写成Verilog中常见的`[31:0]`形式）。这个非压缩数组每一个元素本身又是压缩数组，即2个位宽为3的逻辑型变量，因此非压缩数组的每一个元素包含六位二进制数的信息。A variable of packed array type maps 1:1 onto an integer arithmetic quantity.
 
 #### 枚举
 
@@ -54,9 +49,7 @@ color_t   my_color = GREEN;
 initial $display("The color is %s", my_color.name());
 ```
 
-上面的例子使用了[typedef来创建了一个新的数据类型名称](https://zh.wikipedia.org/wiki/typedef "wikilink")，从而可以用它来创建一系列枚举数据。枚举类型的数据类型，为位宽为3的逻辑型变量。3位二进制数能够逐一指代六种颜色。使用代码`color_t
-my_color =
-GREEN;`创建了一个新的`color_t`型变量，其值初始化为六种颜色中的绿色。系统函数`$display`的作用与Verilog相同，其参数是`my_color`所属函数`name()`的返回值，即当前枚举值的ASCII值。
+上面的例子使用了[typedef来创建了一个新的数据类型名称](https://zh.wikipedia.org/wiki/typedef "wikilink")，从而可以用它来创建一系列枚举数据。枚举类型的数据类型，为位宽为3的逻辑型变量。3位二进制数能够逐一指代六种颜色。使用代码`color_t my_color = GREEN;`创建了一个新的`color_t`型变量，其值初始化为六种颜色中的绿色。系统函数`$display`的作用与Verilog相同，其参数是`my_color`所属函数`name()`的返回值，即当前枚举值的ASCII值。
 
 #### 其他新增的数据类型
 
@@ -64,8 +57,7 @@ GREEN;`创建了一个新的`color_t`型变量，其值初始化为六种颜色�
 
 #### 结构体和联合体
 
-这两种数据类型和[C语言中的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[结构体和](../Page/结构体_\(C语言\).md "wikilink")[联合体类似](https://zh.wikipedia.org/wiki/联合体 "wikilink")。在SystemVerilog中，与这两种数据类型相关的增强特性为压缩属性（`packed`）和标签属性（`tagged`）。压缩属性使得mapped
-1:1 onto a packed array of bits，而标签属性允许跟踪当前联合体中实际被使用的成员。这些结构占据了连续的存储空间。
+这两种数据类型和[C语言中的](https://zh.wikipedia.org/wiki/C语言 "wikilink")[结构体和](../Page/结构体_\(C语言\).md "wikilink")[联合体类似](https://zh.wikipedia.org/wiki/联合体 "wikilink")。在SystemVerilog中，与这两种数据类型相关的增强特性为压缩属性（`packed`）和标签属性（`tagged`）。压缩属性使得mapped 1:1 onto a packed array of bits，而标签属性允许跟踪当前联合体中实际被使用的成员。这些结构占据了连续的存储空间。
 
 ``` verilog
 typedef struct packed {
@@ -81,9 +73,7 @@ FP     zero = 64'b0;
 
 当条件、选择语句的路径分支较为复杂时，设计人员稍不留意就可能造成代码所描述的行为违背设计人员预计的优先级别，或者被判断的表达式同时满足多个分支条件，从而在仿真过程中产生无规律结果。
 
-为此，SystemVerilog增强了条件、选择语句的功能，允许设计人员为这分支流程的执行设置特别的约束。在多级条件、选择语句中使用关键字`unique`，可以限定有且只有一个分支可能被执行到，否则将产生一个警告。而关键字`priority`则指出某些分支路径具有更高的优先级。过去，在传统的Verilog中，要实现类似的功能，设计人员需要在可综合代码中附带一些特殊的注释（例如：
-`// synopsys full_case
-parallel_case`）来通知[逻辑综合](../Page/逻辑综合.md "wikilink")工具产生正确的分支逻辑电路。不过，注释并非SystemVerilog代码的正式组成部分，它们只是在逻辑综合过程被特定的工具读取，而不严谨的注释很可能造成综合后电路与综合前仿真结果不同的情况。
+为此，SystemVerilog增强了条件、选择语句的功能，允许设计人员为这分支流程的执行设置特别的约束。在多级条件、选择语句中使用关键字`unique`，可以限定有且只有一个分支可能被执行到，否则将产生一个警告。而关键字`priority`则指出某些分支路径具有更高的优先级。过去，在传统的Verilog中，要实现类似的功能，设计人员需要在可综合代码中附带一些特殊的注释（例如： `// synopsys full_case parallel_case`）来通知[逻辑综合](../Page/逻辑综合.md "wikilink")工具产生正确的分支逻辑电路。不过，注释并非SystemVerilog代码的正式组成部分，它们只是在逻辑综合过程被特定的工具读取，而不严谨的注释很可能造成综合后电路与综合前仿真结果不同的情况。
 
 ### 过程代码
 
@@ -180,8 +170,7 @@ end
 
 SystemVerilog为验证代码的编写提供了[面向对象程序设计](../Page/面向对象程序设计.md "wikilink")的模型。
 
-SystemVerilog支持类的单一继承，即不允许一个类继承多个基本类。需要注意的是,
-虽然SystemVerilog里提供了与[Java](../Page/Java.md "wikilink")中名称相同的“接口”概念，但是二者的实际含义际ha却大有不同，后者的接口能够提供类似多继承的功能。SystemVerilog的类可以自带配置参数，这种类被称为参数化的类，其功能与C++的模板类似，不过SystemVerilog不支持模板特化和函数模板。SystemVerilog的[多态性和C](https://zh.wikipedia.org/wiki/多态性 "wikilink")++类似，在子类中被覆盖的同名方法在基本类中必须使用关键字`virtual`予以标识。SystemVerilog里也有诸如`local`、`protected`等关键字来管理数据、方法成员的可见性。默认情况下，所有方法、数据都是对外公有的。类的示例由构造函数`new`来创建，而析构函数则无需验证人员手动创建。如果某个对象没有被任何句柄指向，系统会自动销毁它。SystemVerilog的类是构建诸如[通用验证方法学](../Page/通用验证方法学.md "wikilink")[类库结构的基础](https://zh.wikipedia.org/wiki/类库 "wikilink")。
+SystemVerilog支持类的单一继承，即不允许一个类继承多个基本类。需要注意的是, 虽然SystemVerilog里提供了与[Java](../Page/Java.md "wikilink")中名称相同的“接口”概念，但是二者的实际含义际ha却大有不同，后者的接口能够提供类似多继承的功能。SystemVerilog的类可以自带配置参数，这种类被称为参数化的类，其功能与C++的模板类似，不过SystemVerilog不支持模板特化和函数模板。SystemVerilog的[多态性和C](https://zh.wikipedia.org/wiki/多态性 "wikilink")++类似，在子类中被覆盖的同名方法在基本类中必须使用关键字`virtual`予以标识。SystemVerilog里也有诸如`local`、`protected`等关键字来管理数据、方法成员的可见性。默认情况下，所有方法、数据都是对外公有的。类的示例由构造函数`new`来创建，而析构函数则无需验证人员手动创建。如果某个对象没有被任何句柄指向，系统会自动销毁它。SystemVerilog的类是构建诸如[通用验证方法学](../Page/通用验证方法学.md "wikilink")[类库结构的基础](https://zh.wikipedia.org/wiki/类库 "wikilink")。
 
 ``` systemverilog
 virtual class Memory;
@@ -233,8 +222,7 @@ endclass
 
 #### 控制约束条件
 
-此外，SystemVerilog还提供了`constraint_mode()`和`random_mode()`这两个方法来在过程代码中控制随机化，前者用于临时开启或关闭一个约束，而后者则用于临时开启或关闭某个变量的随机化。此外还有`randomize
-() with {constraint}`方法可以在该方法被调用时将花括号内的约束附加到原有的约束条件之上。
+此外，SystemVerilog还提供了`constraint_mode()`和`random_mode()`这两个方法来在过程代码中控制随机化，前者用于临时开启或关闭一个约束，而后者则用于临时开启或关闭某个变量的随机化。此外还有`randomize () with {constraint}`方法可以在该方法被调用时将花括号内的约束附加到原有的约束条件之上。
 
 ``` systemverilog
 class eth_frame;
@@ -290,8 +278,7 @@ assert_req_gnt: assert property (req_gnt) else $error("req not followed by gnt."
 
 在硬件验证中，功能覆盖是指验证过程中对人工定义信号事件的数据采样和收集过程。功能覆盖率在某种程度上反映了被测设计在所给输入激励下，其内部功能正确与否被检测到的百分比。功能覆盖率越高，一般代表测试越完备。注意功能覆盖率和[代码覆盖率不同](https://zh.wikipedia.org/wiki/代码覆盖率 "wikilink")，后者只是测量被测设计的所有代码有多少在仿真过程中被执行过。功能覆盖的目的是确保设计中的所有边界情况都能够被经历。
 
-SystemVerilog覆盖组（coverage
-group）内可以定义若干个仓（bins）来储存相关变量取值在其范围内的次数。交叉覆盖（Cross-coverage）则可以进一步获取多个变量分别在某一范围内统计数据。通过使用覆盖组的`sample`方法，可以启动该覆盖率的统计。
+SystemVerilog覆盖组（coverage group）内可以定义若干个仓（bins）来储存相关变量取值在其范围内的次数。交叉覆盖（Cross-coverage）则可以进一步获取多个变量分别在某一范围内统计数据。通过使用覆盖组的`sample`方法，可以启动该覆盖率的统计。
 
 For example:
 
@@ -338,8 +325,7 @@ endclass
   - 任务的端口能够被声明为引用类型（`ref`），这使得任务能够直接获取任务参数自身（引用传递），而不是一个临时复制的数值（值传递）。因此，对输入方向的形式参数的操作会直接改变对应的实际参数。
   - 函数能够被声明为空类型`void`，即不返回任何数值
   - 参数（`parameters`）可以被声明为任何类型，包括用户使用`typedef`定义的新类型
-  - 提供[SystemVerilog
-    DPI](https://zh.wikipedia.org/wiki/SystemVerilog_DPI "wikilink")（即SystemVerilog直接编程接口）来连接以C语言、C++编写的模块
+  - 提供[SystemVerilog DPI](https://zh.wikipedia.org/wiki/SystemVerilog_DPI "wikilink")（即SystemVerilog直接编程接口）来连接以C语言、C++编写的模块
 
 ## 注释
 
@@ -355,8 +341,7 @@ endclass
   -
   -
   -
-  - SystemVerilog Assertions Handbook, 2nd Edition -
-    <http://SystemVerilog.us>
+  - SystemVerilog Assertions Handbook, 2nd Edition - <http://SystemVerilog.us>
 
   - A Pragmatic Approach to VMM Adoption - <http://SystemVerilog.us>
 
@@ -364,31 +349,23 @@ endclass
 
 ### IEEE 标准文献
 
-  - [1800-2009 IEEE Standard for System Verilog-Unified Hardware Design,
-    Specification, and Verification
-    Language](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5354441)
-  - [SystemVerilog 3.1a Language Reference
-    Manual](http://www.vhdl.org/sv/SystemVerilog_3.1a.pdf) - 2004 draft
-    version, which is before IEEE 1800-2005 standard.
+  - [1800-2009 IEEE Standard for System Verilog-Unified Hardware Design, Specification, and Verification Language](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5354441)
+  - [SystemVerilog 3.1a Language Reference Manual](http://www.vhdl.org/sv/SystemVerilog_3.1a.pdf) - 2004 draft version, which is before IEEE 1800-2005 standard.
 
 ### 教程
 
-  - [SystemVerilog
-    Tutorial](http://www.asic-world.com/systemverilog/tutorial.html)
+  - [SystemVerilog Tutorial](http://www.asic-world.com/systemverilog/tutorial.html)
 
 ### 标准开发
 
-  - [IEEE P1800](http://www.eda.org/sv-ieee1800/) – Working group for
-    SystemVerilog
+  - [IEEE P1800](http://www.eda.org/sv-ieee1800/) – Working group for SystemVerilog
   - Sites used before IEEE 1800-2005
       - [SystemVerilog official website](http://www.systemverilog.org/)
       - [SystemVerilog Technical Committees](http://www.vhdl.org/sv/)
 
 ### 语言延伸
 
-  - [Verilog AUTOs](http://www.veripool.org/verilog-mode) - An
-    open-source meta-comment system to simplify maintaining Verilog
-    code.
+  - [Verilog AUTOs](http://www.veripool.org/verilog-mode) - An open-source meta-comment system to simplify maintaining Verilog code.
 
 ## 参见
 
@@ -401,7 +378,5 @@ endclass
 
 1.
 2.
-3.  \[<http://standards.ieee.org/findstds/standard/1800-2012.html>,
-    1800-2012 - IEEE Standard for SystemVerilog--Unified Hardware
-    Design, Specification, and Verification Language\]
+3.  \[<http://standards.ieee.org/findstds/standard/1800-2012.html>, 1800-2012 - IEEE Standard for SystemVerilog--Unified Hardware Design, Specification, and Verification Language\]
 4.

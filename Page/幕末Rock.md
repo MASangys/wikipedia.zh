@@ -1,16 +1,10 @@
-《**幕末Rock**》（）是由[Marvelous
-AQL從](https://zh.wikipedia.org/wiki/:ja:Marvelous_AQL "wikilink")2014年2月27日開始發售用在[PlayStation
-Portable中的](../Page/PlayStation_Portable.md "wikilink")[遊戲軟件](https://zh.wikipedia.org/wiki/遊戲軟件 "wikilink")\[1\]。『幕末Rock』於2014年7月2日[動畫化](https://zh.wikipedia.org/wiki/動畫 "wikilink")。它的其第2作品《**幕末Rock
-超魂**》（ばくまつロック ウルトラソウル）的[PlayStation
-Portable](../Page/PlayStation_Portable.md "wikilink")・[PlayStation
-Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預定發售。
+《**幕末Rock**》（）是由[Marvelous AQL從](https://zh.wikipedia.org/wiki/:ja:Marvelous_AQL "wikilink")2014年2月27日開始發售用在[PlayStation Portable中的](../Page/PlayStation_Portable.md "wikilink")[遊戲軟件](https://zh.wikipedia.org/wiki/遊戲軟件 "wikilink")\[1\]。『幕末Rock』於2014年7月2日[動畫化](https://zh.wikipedia.org/wiki/動畫 "wikilink")。它的其第2作品《**幕末Rock 超魂**》（ばくまつロック ウルトラソウル）的[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")・[PlayStation Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預定發售。
 
 ## 概要
 
 這是結合了電腦遊戲，節奏遊戲和冒險遊戲的軟件。在冒險遊戲的對話部分是由漫畫的氣泡框代表，讓玩家有如閱讀漫畫的同等感覺。在節奏遊戲的部分，遊戲捐作為畫面出現音符的滑動，當音符移至指定位置時按下按鈕。當觀眾的張力上升的時候，節奏會變得好起來、畫面上的鎖鏈碎裂。當然，節奏遊戲中的歌曲是由聲優本人所唱的。
 
-目前本作確定將TV動畫化，並於2014年7月開播。動畫將由「[吸血鬼騎士](../Page/吸血鬼騎士.md "wikilink")」、「[世界第一初戀](https://zh.wikipedia.org/wiki/世界第一初戀 "wikilink")」的製作公司STUDIODEEN擔當。
-本作的監督川崎逸朗等執導「[要聽爸爸的話](https://zh.wikipedia.org/wiki/要聽爸爸的話 "wikilink")」、「[傳說中勇者的傳說](https://zh.wikipedia.org/wiki/傳說中勇者的傳說 "wikilink")」，系列構成則是「新網球王子」的廣田光毅，動畫人設同樣也是參與「新網球王子」的石井明治。
+目前本作確定將TV動畫化，並於2014年7月開播。動畫將由「[吸血鬼騎士](../Page/吸血鬼騎士.md "wikilink")」、「[世界第一初戀](https://zh.wikipedia.org/wiki/世界第一初戀 "wikilink")」的製作公司STUDIODEEN擔當。 本作的監督川崎逸朗等執導「[要聽爸爸的話](https://zh.wikipedia.org/wiki/要聽爸爸的話 "wikilink")」、「[傳說中勇者的傳說](https://zh.wikipedia.org/wiki/傳說中勇者的傳說 "wikilink")」，系列構成則是「新網球王子」的廣田光毅，動畫人設同樣也是參與「新網球王子」的石井明治。
 
 ## 故事大綱
 
@@ -39,8 +33,7 @@ Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預�
   -
     配音員 - [鈴木達央](../Page/鈴木達央.md "wikilink")
     生日／8月20日　星座／獅子座　身高／178cm　體重／60kg　血型／B型　
-    興趣／槍械Collection　特技／料理　喜歡食物／紅[辣椒](../Page/辣椒.md "wikilink")
-    討厭食物／[豆腐](../Page/豆腐.md "wikilink")
+    興趣／槍械Collection　特技／料理　喜歡食物／紅[辣椒](../Page/辣椒.md "wikilink") 討厭食物／[豆腐](../Page/豆腐.md "wikilink")
     出生地是長州（山口）。倒幕運動中的。別名：辛迪（シンディ）\[2\]。使用樂器是**貝司**。
     搖滾之師吉田松陰的正式門下生，推廣由松陰老師所教的搖滾，致力於推倒幕府的活動。
     當搖滾變得狂熱時，身體自然傾斜起來。如果別人不忽視他，他也不忽視人。
@@ -64,8 +57,7 @@ Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預�
   -
     配音員 - [小野賢章](../Page/小野賢章.md "wikilink")
     生日／7月7日　星座／巨蟹座　身高／175cm　體重／58kg　血型／AB型　
-    興趣／洗澡　特技／放生電　喜歡食物／[豆腐](../Page/豆腐.md "wikilink")
-    討厭食物／大[蒜](../Page/蒜.md "wikilink")
+    興趣／洗澡　特技／放生電　喜歡食物／[豆腐](../Page/豆腐.md "wikilink") 討厭食物／大[蒜](../Page/蒜.md "wikilink")
     出生地不明。在「新選組」首位的實力者，人氣甚高。使用樂器是**電子琴**。
     幕府的所選拔出來，「新選組」第1期生的**Center Top**。
     與土方一樣，被稱為新選組的。
@@ -95,8 +87,7 @@ Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預�
   -
     配音員 - [諏訪部順一](../Page/諏訪部順一.md "wikilink")
     生日／8月10日　星座／獅子座　身高／189cm　體重／77kg　血型／不明　
-    興趣／拍攝紀念寫真　特技／十項全能　喜歡食物／[酒](../Page/酒.md "wikilink")
-    討厭食物／[梅乾](../Page/梅乾.md "wikilink")
+    興趣／拍攝紀念寫真　特技／十項全能　喜歡食物／[酒](../Page/酒.md "wikilink") 討厭食物／[梅乾](../Page/梅乾.md "wikilink")
     世界最高峰的搖滾手，自稱「神」。
     對他來說什麼都能做到完美無瑕，大多數的事都「大致OKAY」。
     [美國的目的](https://zh.wikipedia.org/wiki/美國 "wikilink")，是以「一切都要革命！」的號令之始，實行。
@@ -108,8 +99,7 @@ Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預�
 <!-- end list -->
 
   -
-    配音員 -
-    [Yuh（vistlip）](https://zh.wikipedia.org/wiki/vistlip "wikilink")
+    配音員 - [Yuh（vistlip）](https://zh.wikipedia.org/wiki/vistlip "wikilink")
     生日／不明　星座／不明　身高／175cm　體重／59kg　血型／不明
     興趣／愛撫動物等事　特技／情報活動　喜歡食物／甜食　討厭食物／白酒
     持有非凡技術的「超絕吉他手」。
@@ -125,8 +115,7 @@ Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預�
   -
     配音員 - [齋賀光希](../Page/齋賀光希.md "wikilink")
     生日／9月29日　星座／天秤座　身高／165cm　體重／50kg　血型／A型　
-    興趣／[茶道](https://zh.wikipedia.org/wiki/茶道 "wikilink")、[將棋](https://zh.wikipedia.org/wiki/將棋 "wikilink")
-    特技／　喜歡食物／[和菓子](../Page/和菓子.md "wikilink")　討厭食物／[草莓](../Page/草莓.md "wikilink")
+    興趣／[茶道](https://zh.wikipedia.org/wiki/茶道 "wikilink")、[將棋](https://zh.wikipedia.org/wiki/將棋 "wikilink") 特技／　喜歡食物／[和菓子](../Page/和菓子.md "wikilink")　討厭食物／[草莓](../Page/草莓.md "wikilink")
     出身地是江戶（東京）。動畫初次登場以謎之美少年姿態出現。
     祈求天下泰平的世界，德川幕府的15代目當主。
     當初将軍職務就任的承繼順位較低，因此跟繼位相爭無緣，由於天生就有天歌的才能，而成為將軍的傀儡。
@@ -403,8 +392,7 @@ Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預�
 
   - 製片人 - 石田健博
   - 角色設計 - 藤坂公彦
-  - 插圖製作 - [Studio
-    DEEN](https://zh.wikipedia.org/wiki/Studio_DEEN "wikilink")
+  - 插圖製作 - [Studio DEEN](https://zh.wikipedia.org/wiki/Studio_DEEN "wikilink")
   - 劇本 - StoryWorks
   - 映像監督 - Alice From Japan 松正人
   - 樂曲製作 - 朝日電視台MUSIC
@@ -421,8 +409,7 @@ Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預�
 <!-- end list -->
 
   - 「Period」
-    作詞 - 智（vistlip）／作曲 - Tohya（vistlip）／編曲・歌 -
-    [vistlip](https://zh.wikipedia.org/wiki/vistlip "wikilink")
+    作詞 - 智（vistlip）／作曲 - Tohya（vistlip）／編曲・歌 - [vistlip](https://zh.wikipedia.org/wiki/vistlip "wikilink")
 
 ## 關連商品
 
@@ -490,8 +477,7 @@ Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預�
   -
 
       -
-        坂本龍馬（CV:谷山紀章）、高杉晉作（CV:鈴木達央）、桂小五郎（CV:森久保祥太郎）、
-        土方歲三（CV:森川智之）、沖田總司（CV:小野賢章）
+        坂本龍馬（CV:谷山紀章）、高杉晉作（CV:鈴木達央）、桂小五郎（CV:森久保祥太郎）、 土方歲三（CV:森川智之）、沖田總司（CV:小野賢章）
 
 <!-- end list -->
 
@@ -544,8 +530,7 @@ Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預�
 ### 漫畫
 
   - 幕末Rock-howling soul-
-    『[Comic
-    ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")』（[一迅社](../Page/一迅社.md "wikilink")）於2014年5月號開始連載中。由[上田信舟作畫](https://zh.wikipedia.org/wiki/上田信舟 "wikilink")。
+    『[Comic ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")』（[一迅社](../Page/一迅社.md "wikilink")）於2014年5月號開始連載中。由[上田信舟作畫](https://zh.wikipedia.org/wiki/上田信舟 "wikilink")。
 
 <!-- end list -->
 
@@ -573,11 +558,9 @@ Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預�
   - 監製 - 中山晴喜、許田周一
   - 製片人 - 丸山創、青木美菜子、服部健太郎、高橋知子、野口智
   - 動畫生產 - 和田薫
-  - 動畫製作 - [Studio
-    DEEN](https://zh.wikipedia.org/wiki/Studio_DEEN "wikilink")
+  - 動畫製作 - [Studio DEEN](https://zh.wikipedia.org/wiki/Studio_DEEN "wikilink")
   - 生產 - [NAS](https://zh.wikipedia.org/wiki/日本Ad_Systems "wikilink")
-  - 製作 - 幕末Rock製作委員会（Marvelous、NBC Universal・Entertainment
-    Japan、NAS、朝日電視台 Music）
+  - 製作 - 幕末Rock製作委員会（Marvelous、NBC Universal・Entertainment Japan、NAS、朝日電視台 Music）
 
 ### 主題曲（動畫）
 
@@ -950,9 +933,7 @@ Vita使用版本於](../Page/PlayStation_Vita.md "wikilink")2014年9月25日預�
 
 ## 網絡廣播
 
-『**「幕末Rock」網絡電視 Rock or Heaven?**』於2014年6月9日開始在[Animate
-TV中所播放的網絡廣播節目](https://zh.wikipedia.org/wiki/:ja:Animate_TV "wikilink")（每月2次更新）。主持是安元洋貴（飾演
-井伊直弼）、齋賀光希（飾演 徳川慶喜）。
+『**「幕末Rock」網絡電視 Rock or Heaven?**』於2014年6月9日開始在[Animate TV中所播放的網絡廣播節目](https://zh.wikipedia.org/wiki/:ja:Animate_TV "wikilink")（每月2次更新）。主持是安元洋貴（飾演 井伊直弼）、齋賀光希（飾演 徳川慶喜）。
 
   - Corner
 
@@ -986,8 +967,7 @@ TV中所播放的網絡廣播節目](https://zh.wikipedia.org/wiki/:ja:Animate_T
 
   - [『幕末Rock』 官方網站](http://bakumatsu.marv.jp/game/)
 
-  - [『幕末Rock』網絡廣播 Rock or
-    Heaven?](https://web.archive.org/web/20140512214826/http://www.animate.tv/radio/rock)
+  - [『幕末Rock』網絡廣播 Rock or Heaven?](https://web.archive.org/web/20140512214826/http://www.animate.tv/radio/rock)
 
   -
   - [TV動畫『幕末Rock』官方HP](http://bakumatsu.marv.jp/anime/)
@@ -996,16 +976,7 @@ TV中所播放的網絡廣播節目](https://zh.wikipedia.org/wiki/:ja:Animate_T
 
   - [PPTV聚力播放專區](http://v.pptv.com/show/bibicJR68VhcMmpAw.html)
 
-[Category:2014年電子遊戲](https://zh.wikipedia.org/wiki/Category:2014年電子遊戲 "wikilink")
-[Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")
-[Category:Marvelous_AQL游戏](https://zh.wikipedia.org/wiki/Category:Marvelous_AQL游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:PlayStation_Portable独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable独占游戏 "wikilink")
-[Category:幕末背景作品](https://zh.wikipedia.org/wiki/Category:幕末背景作品 "wikilink")
-[Category:電子遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:電子遊戲改編動畫 "wikilink")
-[Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink")
-[Category:音樂動畫](https://zh.wikipedia.org/wiki/Category:音樂動畫 "wikilink")
-[Category:電子遊戲改編舞台劇](https://zh.wikipedia.org/wiki/Category:電子遊戲改編舞台劇 "wikilink")
+[Category:2014年電子遊戲](https://zh.wikipedia.org/wiki/Category:2014年電子遊戲 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:Marvelous_AQL游戏](https://zh.wikipedia.org/wiki/Category:Marvelous_AQL游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:PlayStation_Portable独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable独占游戏 "wikilink") [Category:幕末背景作品](https://zh.wikipedia.org/wiki/Category:幕末背景作品 "wikilink") [Category:電子遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:電子遊戲改編動畫 "wikilink") [Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink") [Category:音樂動畫](https://zh.wikipedia.org/wiki/Category:音樂動畫 "wikilink") [Category:電子遊戲改編舞台劇](https://zh.wikipedia.org/wiki/Category:電子遊戲改編舞台劇 "wikilink")
 
 1.
 

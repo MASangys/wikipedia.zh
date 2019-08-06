@@ -1,10 +1,4 @@
-（第二代）株式會社[體育日本新聞社](https://zh.wikipedia.org/wiki/體育日本 "wikilink") |
-editor = （第一代）株式會社日刊體育新聞社{{→}}（第二代）株式會社KimiBoku | chiefeditor = |
-assoceditor = | staff = | foundation = 2011年12月16日 | ceased publication
-= | political = | language =
-[日語](https://zh.wikipedia.org/wiki/日語 "wikilink") | price =
-[日幣](../Page/日圓.md "wikilink")300圓（郵購為日幣450圓）{{→}}日幣350圓 |
-headquarters = | circulation = | ISSN = | website = }}
+（第二代）株式會社[體育日本新聞社](https://zh.wikipedia.org/wiki/體育日本 "wikilink") | editor = （第一代）株式會社日刊體育新聞社{{→}}（第二代）株式會社KimiBoku | chiefeditor = | assoceditor = | staff = | foundation = 2011年12月16日 | ceased publication = | political = | language = [日語](https://zh.wikipedia.org/wiki/日語 "wikilink") | price = [日幣](../Page/日圓.md "wikilink")300圓（郵購為日幣450圓）{{→}}日幣350圓 | headquarters = | circulation = | ISSN = | website = }}
 
 **月刊AKB48團體新聞**（）是以報導日本女子偶像團體[AKB48](../Page/AKB48.md "wikilink")及其姊妹團體（[AKB48集團](../Page/AKB48集團.md "wikilink")）為主題的[月刊型](https://zh.wikipedia.org/wiki/月刊 "wikilink")[報紙](../Page/報紙.md "wikilink")\[1\]，2011年12月16日創刊，最初由[日刊體育](../Page/日刊體育.md "wikilink")發行，2019年1月起改由株式會社KimiBoku編製、[體育日本發行](https://zh.wikipedia.org/wiki/體育日本 "wikilink")。
 
@@ -12,8 +6,7 @@ headquarters = | circulation = | ISSN = | website = }}
 
 ### 第一代
 
-該報紙為[AKB48集團](../Page/AKB48集團.md "wikilink")、以及與前者有著「官方對手」關係的[坂道系列](../Page/坂道系列.md "wikilink")之專屬報紙，以刊載這兩大偶像系列旗下各團體的[凹版寫真](https://zh.wikipedia.org/wiki/凹版雜誌 "wikilink")、成員訪談、以及公演實況報導為主，版面基本上沒有任何[廣告](../Page/廣告.md "wikilink")。尺寸為[小報](https://zh.wikipedia.org/wiki/小報 "wikilink")、頁數固定為32、全彩色印刷。由[日刊體育](../Page/日刊體育.md "wikilink")編輯及發行，發行日為每月第3個[星期五](https://zh.wikipedia.org/wiki/星期五 "wikilink")。創刊號的封面人物是[篠田麻里子](../Page/篠田麻里子.md "wikilink")\[2\]\[3\]、發行數則達35萬份\[4\]。日本各地的ASA（朝日新聞販售店）、車站[士多](../Page/士多.md "wikilink")、[便利商店](../Page/便利商店.md "wikilink")、、AKB48
-CAFE\&SHOP都有販售。
+該報紙為[AKB48集團](../Page/AKB48集團.md "wikilink")、以及與前者有著「官方對手」關係的[坂道系列](../Page/坂道系列.md "wikilink")之專屬報紙，以刊載這兩大偶像系列旗下各團體的[凹版寫真](https://zh.wikipedia.org/wiki/凹版雜誌 "wikilink")、成員訪談、以及公演實況報導為主，版面基本上沒有任何[廣告](../Page/廣告.md "wikilink")。尺寸為[小報](https://zh.wikipedia.org/wiki/小報 "wikilink")、頁數固定為32、全彩色印刷。由[日刊體育](../Page/日刊體育.md "wikilink")編輯及發行，發行日為每月第3個[星期五](https://zh.wikipedia.org/wiki/星期五 "wikilink")。創刊號的封面人物是[篠田麻里子](../Page/篠田麻里子.md "wikilink")\[2\]\[3\]、發行數則達35萬份\[4\]。日本各地的ASA（朝日新聞販售店）、車站[士多](../Page/士多.md "wikilink")、[便利商店](../Page/便利商店.md "wikilink")、、AKB48 CAFE\&SHOP都有販售。
 
 該報紙實際使用的題字是「月刊AKB48Group新聞」。如有AKB48以外團體的報導版面，該版面會加註針對報導對象的題字，例如「[SKE48](../Page/SKE48.md "wikilink")新聞」、「[乃木坂46新聞](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")」等。
 
@@ -52,18 +45,14 @@ CAFE\&SHOP都有販售。
   -
   -
   -
-[Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink")
-[Category:坂道系列](https://zh.wikipedia.org/wiki/Category:坂道系列 "wikilink")
-[Category:日本報紙](https://zh.wikipedia.org/wiki/Category:日本報紙 "wikilink")
-[Category:2011年建立的出版物](https://zh.wikipedia.org/wiki/Category:2011年建立的出版物 "wikilink")
+[Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink") [Category:坂道系列](https://zh.wikipedia.org/wiki/Category:坂道系列 "wikilink") [Category:日本報紙](https://zh.wikipedia.org/wiki/Category:日本報紙 "wikilink") [Category:2011年建立的出版物](https://zh.wikipedia.org/wiki/Category:2011年建立的出版物 "wikilink")
 
 1.  [](http://www.nikkansports.com/entertainment/news/p-et-tp0-20111216-874946.html)
 
 2.
 3.  [「月刊AKB48グループ新聞」創刊　巻頭は篠田麻里子](http://www.j-cast.com/2011/12/19116861.html)
 
-4.  [AKB48：今度は月刊新聞に 全国で35万部発行
-    創刊号表紙は篠田麻里子](https://archive.is/20130501214533/mantan-web.jp/2011/12/12/20111212dog00m200032000c.html)
+4.  [AKB48：今度は月刊新聞に 全国で35万部発行 創刊号表紙は篠田麻里子](https://archive.is/20130501214533/mantan-web.jp/2011/12/12/20111212dog00m200032000c.html)
 
 5.
 

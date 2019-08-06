@@ -4,22 +4,16 @@
 
 2002年時，以椎原旬為主的原[Leaf](../Page/Leaf.md "wikilink")社成員於東京開發室所成立的品牌，過去的作品由椎原旬以及藤原々々兩人交互發表，現今兩人皆已離開公司。
 
-2012年8月10日成立姐妹品牌「PULLTOP
-LATTE」（プルトップ・ラテ），隨後此品牌處女作「」發布製作消息\[1\]，於同年12月14日發售。\[2\]
+2012年8月10日成立姐妹品牌「PULLTOP LATTE」（プルトップ・ラテ），隨後此品牌處女作「」發布製作消息\[1\]，於同年12月14日發售。\[2\]
 
 ## 沿革
 
   - 2002年6月28日PULLTOP社推出處女作「とらかぷっ！」。\[3\]
-  - 2006年4月28日推出第5作「PRINCESS
-    WALTZ」\[4\]，並獲得「美少女遊戲賞2006」的媒體支持賞\[5\]，同年11月24日推出第6作「遥かに仰ぎ、麗しの」\[6\]，並獲得「美少女遊戲賞2007」的總大賞、背景音樂賞、純愛系作品賞、劇本賞、玩家支持賞，共5個獎項。\[7\]
+  - 2006年4月28日推出第5作「PRINCESS WALTZ」\[4\]，並獲得「美少女遊戲賞2006」的媒體支持賞\[5\]，同年11月24日推出第6作「遥かに仰ぎ、麗しの」\[6\]，並獲得「美少女遊戲賞2007」的總大賞、背景音樂賞、純愛系作品賞、劇本賞、玩家支持賞，共5個獎項。\[7\]
   - 2008年8月29日推出第7作「てとてトライオン\!」\[8\]，並獲得「美少女遊戲賞2008」劇本賞的優秀賞。\[9\]
   - 2012年5月25日推出第11作「この大空に、翼をひろげて」\[10\]，並獲得「2012年萌系遊戲大賞」的玩家支持銀獎、劇本獎、BGM獎、角色設計獎共三項金獎，最終獲得年度金獎。\[11\]
-  - 2013年1月25日推出第11作[Fan
-    disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")「この大空に、翼をひろげて
-    FLIGHT DIARY」\[12\]，並獲得「2013年萌系遊戲大賞」Fan disc金獎。\[13\]
-  - 2014年7月25日推出第11作的mini[Fan
-    disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")「この大空に、翼をひろげて
-    snow presents」\[14\]，並獲得「2014年萌系遊戲大賞」3D賞的金獎。\[15\]
+  - 2013年1月25日推出第11作[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")「この大空に、翼をひろげて FLIGHT DIARY」\[12\]，並獲得「2013年萌系遊戲大賞」Fan disc金獎。\[13\]
+  - 2014年7月25日推出第11作的mini[Fan disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")「この大空に、翼をひろげて snow presents」\[14\]，並獲得「2014年萌系遊戲大賞」3D賞的金獎。\[15\]
   - 2015年12月18日推出第13作「見上げてごらん、夜空の星を」\[16\]，並獲得「2015年萌系遊戲大賞」的準大賞。\[17\]
 
 ## 作品一覽
@@ -273,16 +267,11 @@ LATTE」（プルトップ・ラテ），隨後此品牌處女作「」發布製
 
 ### 遊戲機移植版
 
-  - 2003年7月17日 -
-    とらかぷっ\!だーっしゅ\!\!（發行單位：、機種：[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")）
-  - 2004年7月29日 - 夏少女 -Promised
-    Summer-（發行單位：[Success](../Page/Success.md "wikilink")、機種：PS2）
-  - 2012年3月27日 - てとてトライオン\!
-    TROPICAL（發行單位：、機種：[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")）
+  - 2003年7月17日 - とらかぷっ\!だーっしゅ\!\!（發行單位：、機種：[PS2](https://zh.wikipedia.org/wiki/PS2 "wikilink")）
+  - 2004年7月29日 - 夏少女 -Promised Summer-（發行單位：[Success](../Page/Success.md "wikilink")、機種：PS2）
+  - 2012年3月27日 - てとてトライオン\! TROPICAL（發行單位：、機種：[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")）
   - 2012年7月26日 - しろくまベルスターズ♪ハッピーホリデーズ！（發行單位：BOOST ON、機種：PSP）
-  - 2016年3月31日 - [この大空に、翼をひろげて -CRUISE
-    SIGN-](https://zh.wikipedia.org/wiki/この大空に、翼をひろげて "wikilink")（發行單位：[5pb.](../Page/5pb..md "wikilink")、機種：[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")/[PS
-    Vita](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")）
+  - 2016年3月31日 - [この大空に、翼をひろげて -CRUISE SIGN-](https://zh.wikipedia.org/wiki/この大空に、翼をひろげて "wikilink")（發行單位：[5pb.](../Page/5pb..md "wikilink")、機種：[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")/[PS Vita](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")）
 
 ## 主要成員
 
@@ -324,12 +313,10 @@ LATTE」（プルトップ・ラテ），隨後此品牌處女作「」發布製
 
   - [PULLTOP Official Website](http://www.pulltop.com/)(未滿十八歲禁止進入)
   - [PULLTOP Twitter](http://twitter.com/pulltop_staff/)
-  - [PULLTOP LATTE Official
-    Website|](http://pulltop-latte.jp/)(未滿十八歲禁止進入)
+  - [PULLTOP LATTE Official Website|](http://pulltop-latte.jp/)(未滿十八歲禁止進入)
   - [PULLTOP_LATTE Twitter](https://twitter.com/PULLTOP_LATTE/)
 
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:WillPlus](https://zh.wikipedia.org/wiki/Category:WillPlus "wikilink")
+[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:WillPlus](https://zh.wikipedia.org/wiki/Category:WillPlus "wikilink")
 
 1.
 2.
@@ -354,5 +341,4 @@ LATTE」（プルトップ・ラテ），隨後此品牌處女作「」發布製
 21.
 22.
 23.
-24. [Adventure of a Lifetime
-    将会提供中文简体字幕](https://steamcommunity.com/games/820730/announcements/detail/1696051418514079797)
+24. [Adventure of a Lifetime 将会提供中文简体字幕](https://steamcommunity.com/games/820730/announcements/detail/1696051418514079797)

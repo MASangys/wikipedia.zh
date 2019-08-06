@@ -1,12 +1,8 @@
-是[Compile
-Heart旗下](../Page/Compile_Heart.md "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")品牌「Galapagos」的第一款作品，最初於2013年發售。邪神設計由[天野喜孝](../Page/天野喜孝.md "wikilink")負責，女神設計由[平野克幸負責](https://zh.wikipedia.org/wiki/平野克幸 "wikilink")，[角色設計由](https://zh.wikipedia.org/wiki/角色設計 "wikilink")[つなこ負責](https://zh.wikipedia.org/wiki/つなこ "wikilink")。
+是[Compile Heart旗下](../Page/Compile_Heart.md "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")品牌「Galapagos」的第一款作品，最初於2013年發售。邪神設計由[天野喜孝](../Page/天野喜孝.md "wikilink")負責，女神設計由[平野克幸負責](https://zh.wikipedia.org/wiki/平野克幸 "wikilink")，[角色設計由](https://zh.wikipedia.org/wiki/角色設計 "wikilink")[つなこ負責](https://zh.wikipedia.org/wiki/つなこ "wikilink")。
 
 ## 故事簡介\[1\]
 
-很久以前，邪神與女神之間曾發生一場戰爭。 這兩個力量勢均力敵，使用充滿力量的特殊武器將彼此封印到另一個世界。 然後，時間過去了。
-封印女神和邪神的武器被稱為“妖聖武器”，那些使用它們的人被叫做“劍士”。
-有傳言說妖聖武器可給予收集的人任何願望，且因為這些傳言，劍士間互相爭鬥收集這些妖聖武器。
-偶然地，一個叫梵格的年輕人救了一個名叫緹亞拉的女孩，他是個劍士。 從那天開始，梵格發現自己是邪神和女神間戰鬥的重要一部分。
+很久以前，邪神與女神之間曾發生一場戰爭。 這兩個力量勢均力敵，使用充滿力量的特殊武器將彼此封印到另一個世界。 然後，時間過去了。 封印女神和邪神的武器被稱為“妖聖武器”，那些使用它們的人被叫做“劍士”。 有傳言說妖聖武器可給予收集的人任何願望，且因為這些傳言，劍士間互相爭鬥收集這些妖聖武器。 偶然地，一個叫梵格的年輕人救了一個名叫緹亞拉的女孩，他是個劍士。 從那天開始，梵格發現自己是邪神和女神間戰鬥的重要一部分。
 
 ## 登場角色\[2\]
 
@@ -193,14 +189,7 @@ Heart旗下](../Page/Compile_Heart.md "wikilink")[電子角色扮演遊戲](../P
 
 ## 參考資料
 
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:奇幻电子游戏 "wikilink")
-[Category:Idea_Factory游戏](https://zh.wikipedia.org/wiki/Category:Idea_Factory游戏 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
-[Category:官方中文化游戏](https://zh.wikipedia.org/wiki/Category:官方中文化游戏 "wikilink")
+[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:奇幻电子游戏 "wikilink") [Category:Idea_Factory游戏](https://zh.wikipedia.org/wiki/Category:Idea_Factory游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:官方中文化游戏](https://zh.wikipedia.org/wiki/Category:官方中文化游戏 "wikilink")
 
 1.
 2.

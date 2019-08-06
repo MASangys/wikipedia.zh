@@ -1,5 +1,4 @@
-**Sony Xperia
-SX**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")，即只在[日本](../Page/日本.md "wikilink")發售的[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")。\[1\]
+**Sony Xperia SX**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wikipedia.org/wiki/Sony "wikilink")2012年發佈的[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")，即只在[日本](../Page/日本.md "wikilink")發售的[手機](https://zh.wikipedia.org/wiki/手機 "wikilink")。\[1\]
 
 ## 顏色
 
@@ -14,9 +13,7 @@ SX**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wi
 
 ## 外部連結
 
-  - [Xperia™ SX -
-    索尼官方網站](http://www.sonymobile.co.jp/product/docomo/so-05d/index.html)
-    日文
+  - [Xperia™ SX - 索尼官方網站](http://www.sonymobile.co.jp/product/docomo/so-05d/index.html) 日文
 
 ## 參考資料
 
@@ -26,12 +23,8 @@ SX**是[日本](../Page/日本.md "wikilink")電子公司[Sony於](https://zh.wi
 
   - [索尼移動](https://zh.wikipedia.org/wiki/索尼移動 "wikilink")
   - [Xperia](../Page/Xperia.md "wikilink")
-  - [Sony Xperia
-    GX](https://zh.wikipedia.org/wiki/Sony_Xperia_GX "wikilink")
+  - [Sony Xperia GX](https://zh.wikipedia.org/wiki/Sony_Xperia_GX "wikilink")
 
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
+[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
 
 1.  <http://www.ringhk.com/index_phone_spec.php?id=2121>

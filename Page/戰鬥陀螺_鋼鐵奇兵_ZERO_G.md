@@ -1,16 +1,10 @@
-《**戰鬥陀螺 鋼鐵奇兵 ZERO
-G**》（）是一套由2012年4月至2012年12月間，於[日本](../Page/日本.md "wikilink")小學館發行雜誌所刊登的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。2012年4月間改編動畫，日本TV版全38話（一話約15分鐘），尚有7話未放送話數收錄在DVD第六卷及第七卷。（DVD將兩話15分鐘合併為一話）<ref name="multiple1">DVD版將TV版每兩話合成一話，TV版全38話合成19話。每一話約一般番組24分鐘左右，並且從兩話選一話當作標題（可參考ZEROG
-DVDs
-List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV當時未放送話數。只有在日本需要購買DVD才看得到。關於DVD未放送話數的資訊來源可參考以下連結，經過作者及工作人員證實。
+《**戰鬥陀螺 鋼鐵奇兵 ZERO G**》（）是一套由2012年4月至2012年12月間，於[日本](../Page/日本.md "wikilink")小學館發行雜誌所刊登的[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。2012年4月間改編動畫，日本TV版全38話（一話約15分鐘），尚有7話未放送話數收錄在DVD第六卷及第七卷。（DVD將兩話15分鐘合併為一話）<ref name="multiple1">DVD版將TV版每兩話合成一話，TV版全38話合成19話。每一話約一般番組24分鐘左右，並且從兩話選一話當作標題（可參考ZEROG DVDs List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV當時未放送話數。只有在日本需要購買DVD才看得到。關於DVD未放送話數的資訊來源可參考以下連結，經過作者及工作人員證實。
 
   -
-    DVD 卷數列表：[List of Metal Fight Beyblade Zero-G
-    DVDs](http://beyblade.wikia.com/wiki/List_of_Metal_Fight_Beyblade_Zero-G_DVDs)，可參考
-    DVD 圖片。
+    DVD 卷數列表：[List of Metal Fight Beyblade Zero-G DVDs](http://beyblade.wikia.com/wiki/List_of_Metal_Fight_Beyblade_Zero-G_DVDs)，可參考 DVD 圖片。
     作者足立たかふみ老師：[続きはWEBで…はなくレンタルで！](http://hottate2.exblog.jp/19347552/#19347552_1)
     人物設定師長森佳容Twitter：[ゼロジーは6巻から未放映分スタートか。](https://twitter.com/y_nagamori/status/360793836647219201)，2013年7月27日發表
-    人物設定師長森佳容Twitter
-    2：[来てたよ。やっぱり19話迄だったね。未放映分は6、7巻でまとめるんだろうね。](https://twitter.com/y_nagamori/status/362514410868199424)，2013年7月31日發表。</ref>
+    人物設定師長森佳容Twitter 2：[来てたよ。やっぱり19話迄だったね。未放映分は6、7巻でまとめるんだろうね。](https://twitter.com/y_nagamori/status/362514410868199424)，2013年7月31日發表。</ref>
 
 ## 故事概要
 
@@ -20,18 +14,13 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
 
 ## 登場人物
 
-戰鬥陀螺 鋼鐵奇兵整個系列除了湯宮健太外，並無真正設定角色年紀和生日。<ref>作者足立充史和動畫人物設定師長森佳容曾在 Twitter
-聲明，除湯宮健太漫畫原作自我介紹是小學五年級外，其他角色並無詳細設定年齡。
+戰鬥陀螺 鋼鐵奇兵整個系列除了湯宮健太外，並無真正設定角色年紀和生日。<ref>作者足立充史和動畫人物設定師長森佳容曾在 Twitter 聲明，除湯宮健太漫畫原作自我介紹是小學五年級外，其他角色並無詳細設定年齡。
 
   -
     以下簡略翻譯：足立老師是寫鋼銀河大湯宮健太一點。長森寫動畫版年齡都是模糊的。
-    1\. 足立充史
-    Twitter：[原作の場合、元々ケンタ小５、銀河がそれよりちょい上、だったんですが、連載開始後にベイ大会のレギュレーションとかが見えてきて、小学生が対象なことを考慮して明言しないようになった感じです。](https://twitter.com/takafumi_adachi/status/154463615464902656)，2012年1月4日發表
-    2\. 長森佳容
-    Twitter：[アニメのメタベイの年齢は皆ぼかしてある。原作で唯一ケンタが小５と出てきているが、アニメは銀河との対比も考えて小学校低学年設定にされてスタートしたのだ。(裏設定)](https://twitter.com/y_nagamori/status/154456247205232640)，2012年1月4日發表
-    3\. 足立充史 Twitter 2：[I do not announce, birthday information of the
-    MetalFightBeyblade characters on the net is all
-    wrong.](https://twitter.com/takafumi_adachi/status/355648856861581312)，2013年7月12日發表</ref>
+    1\. 足立充史 Twitter：[原作の場合、元々ケンタ小５、銀河がそれよりちょい上、だったんですが、連載開始後にベイ大会のレギュレーションとかが見えてきて、小学生が対象なことを考慮して明言しないようになった感じです。](https://twitter.com/takafumi_adachi/status/154463615464902656)，2012年1月4日發表
+    2\. 長森佳容 Twitter：[アニメのメタベイの年齢は皆ぼかしてある。原作で唯一ケンタが小５と出てきているが、アニメは銀河との対比も考えて小学校低学年設定にされてスタートしたのだ。(裏設定)](https://twitter.com/y_nagamori/status/154456247205232640)，2012年1月4日發表
+    3\. 足立充史 Twitter 2：[I do not announce, birthday information of the MetalFightBeyblade characters on the net is all wrong.](https://twitter.com/takafumi_adachi/status/355648856861581312)，2013年7月12日發表</ref>
 
 ※斜線左邊為香港翻譯，右邊為台灣翻譯。
 
@@ -49,9 +38,7 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
 絕招：流星擊之撞擊、烈炎轟天擊、烈炎龍捲轟擊、超級烈炎轟天擊
 
   -
-    **持有戰鬥陀螺：**武士火焰魔神
-    W145CF（[魔人](https://zh.wikipedia.org/wiki/:ja:イフリート "wikilink")）\[1\]、烈火蠑螈火焰魔神
-    W145CF\[2\]
+    **持有戰鬥陀螺：**武士火焰魔神 W145CF（[魔人](https://zh.wikipedia.org/wiki/:ja:イフリート "wikilink")）\[1\]、烈火蠑螈火焰魔神 W145CF\[2\]
 
 <!-- end list -->
 
@@ -67,8 +54,7 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
 絕招：無幻火流擊、灼熱轟輪擊
 
   -
-    **持有戰鬥陀螺：**忍者烈火蠑螈
-    SW145SD（[蠑螈](https://zh.wikipedia.org/wiki/蠑螈 "wikilink")）
+    **持有戰鬥陀螺：**忍者烈火蠑螈 SW145SD（[蠑螈](https://zh.wikipedia.org/wiki/蠑螈 "wikilink")）
 
 <!-- end list -->
 
@@ -80,9 +66,7 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
     本作品男主角之一。
     個子冷酷，是海原八的哥哥，但內裏幽默和膽小。專長研究戰鬥陀螺持有者特色，非常相信所得數據能應用於實務之中，曾經因為數據與實際狀況不同而不願意-{面}-對現實。喜歡嘗鮮美食。
     **配音：**[寺島拓篤](../Page/寺島拓篤.md "wikilink")（日本）、[黃天佑](../Page/黃天佑.md "wikilink")（臺灣）、[鄧港文](../Page/鄧港文.md "wikilink")（香港）
-    **持有戰鬥陀螺：**守護者怒濤海獸
-    160SB（[利維坦](https://zh.wikipedia.org/wiki/利維坦 "wikilink")）、八岐大蛇怒濤海獸
-    160SB\[3\]
+    **持有戰鬥陀螺：**守護者怒濤海獸 160SB（[利維坦](https://zh.wikipedia.org/wiki/利維坦 "wikilink")）、八岐大蛇怒濤海獸 160SB\[3\]
 
 <!-- end list -->
 
@@ -105,8 +89,7 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
   -
     一名突如其來的少女，從各方面看，她可説是女性的黑銀零，她是不會有害怕，甚至是退縮的事。
     **配音：**[沖佳苗](../Page/沖佳苗.md "wikilink")（日本）、[郭馨雅](../Page/郭馨雅.md "wikilink")（臺灣）、[陳皓宜](../Page/陳皓宜.md "wikilink")（香港）
-    **持有戰鬥陀螺：**強盜幻變不死鳥
-    E230GCF（[不死鳥](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")）
+    **持有戰鬥陀螺：**強盜幻變不死鳥 E230GCF（[不死鳥](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")）
 
 <!-- end list -->
 
@@ -157,8 +140,7 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
   -
     因仰慕暗閣左京而跟隨他。
     **配音：**[潘惠美](../Page/潘惠美.md "wikilink")（日本）、[吳貴竹](https://zh.wikipedia.org/wiki/吳貴竹 "wikilink")（臺灣）、[陸惠玲](../Page/陸惠玲.md "wikilink")（香港）
-    **持有戰鬥陀螺：**弓箭手獅鷲霸王
-    C145S（[獅鷲](https://zh.wikipedia.org/wiki/獅鷲 "wikilink")）
+    **持有戰鬥陀螺：**弓箭手獅鷲霸王 C145S（[獅鷲](https://zh.wikipedia.org/wiki/獅鷲 "wikilink")）
 
 <!-- end list -->
 
@@ -184,9 +166,7 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
   -
     擊敗紅蓮、獅獅谷鷹之助、火龍院忍及黑銀零，被認為是繼承龍牙意志的人。其陀螺暗黑騎士狂龍 LW160BSF是由龍牙所給予的。
     **配音：**[山本匠馬](https://zh.wikipedia.org/wiki/山本匠馬 "wikilink")（日本）、[黃天佑](../Page/黃天佑.md "wikilink")（臺灣）、[李鎮然](../Page/李鎮然.md "wikilink")（香港）
-    **持有戰鬥陀螺：**暗黑騎士狂龍
-    LW160BSF（[龍騎兵](../Page/龍騎兵.md "wikilink")）、獅鷲霸王騎士狂龍
-    LW160BSF\[5\]
+    **持有戰鬥陀螺：**暗黑騎士狂龍 LW160BSF（[龍騎兵](../Page/龍騎兵.md "wikilink")）、獅鷲霸王騎士狂龍 LW160BSF\[5\]
 
 <!-- end list -->
 
@@ -196,8 +176,7 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
 
   -
     **配音：**[神奈延年](../Page/神奈延年.md "wikilink")（日本）、[陳彥鈞](../Page/陳彥鈞.md "wikilink")（臺灣）、[黃積權](../Page/黃積權.md "wikilink")（香港）
-    **持有戰鬥陀螺：**弓箭手石像惡魔
-    SA165WSF（[石像鬼](https://zh.wikipedia.org/wiki/石像鬼 "wikilink")）
+    **持有戰鬥陀螺：**弓箭手石像惡魔 SA165WSF（[石像鬼](https://zh.wikipedia.org/wiki/石像鬼 "wikilink")）
 
 ### DNA
 
@@ -213,13 +192,8 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
 絕招：鋼之意志、轟地鐵鎚、超強轟地鐵鎚、劍斗士滅絕
 
   -
-    **持有戰鬥陀螺：**狂戰士動地巨獸
-    SR200BWD（[貝西摩斯](../Page/貝西摩斯.md "wikilink")）→劍鬥士滅絕邪神
-    SP230GF（[巴哈姆特](https://zh.wikipedia.org/wiki/巴哈姆特 "wikilink")）、頑石魔像動地巨獸
-    SR200BWD\[6\]、天馬滅絕邪神 SP230R²F<ref name="multiple3">與鋼銀河的武士翔空天馬
-    W105R²F 同步。
-    臺灣麗嬰正式譯名來源：[戰鬥陀螺 零式 ZERO
-    G【最新廣告：最終神屬性降臨！】](https://www.facebook.com/photo.php?v=10200533987983520)</ref>
+    **持有戰鬥陀螺：**狂戰士動地巨獸 SR200BWD（[貝西摩斯](../Page/貝西摩斯.md "wikilink")）→劍鬥士滅絕邪神 SP230GF（[巴哈姆特](https://zh.wikipedia.org/wiki/巴哈姆特 "wikilink")）、頑石魔像動地巨獸 SR200BWD\[6\]、天馬滅絕邪神 SP230R²F<ref name="multiple3">與鋼銀河的武士翔空天馬 W105R²F 同步。
+    臺灣麗嬰正式譯名來源：[戰鬥陀螺 零式 ZERO G【最新廣告：最終神屬性降臨！】](https://www.facebook.com/photo.php?v=10200533987983520)</ref>
 
 <!-- end list -->
 
@@ -229,8 +203,7 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
 
   -
     **配音：**[大畑伸太郎](https://zh.wikipedia.org/wiki/大畑伸太郎 "wikilink")（日本）、[賀宇傑](../Page/賀宇傑.md "wikilink")（臺灣）、[關令翹](../Page/關令翹.md "wikilink")（香港）
-    **持有戰鬥陀螺：**山賊頑石魔像 DF145BS（[魔像](../Page/魔像.md "wikilink")）、動地巨獸頑石魔像
-    DF145BS\[7\]
+    **持有戰鬥陀螺：**山賊頑石魔像 DF145BS（[魔像](../Page/魔像.md "wikilink")）、動地巨獸頑石魔像 DF145BS\[7\]
 
 <!-- end list -->
 
@@ -261,8 +234,7 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
   -
     **配音：**[成瀨誠](../Page/成瀨誠.md "wikilink")（日本）、[陳彥鈞](../Page/陳彥鈞.md "wikilink")（臺灣）、[胡家豪](../Page/胡家豪.md "wikilink")（香港）
 
-絕招：鋭箭龍捲 **持有戰鬥陀螺：**弓箭手旋風飛龍
-145WB（[飛龍](https://zh.wikipedia.org/wiki/飛龍 "wikilink")）
+絕招：鋭箭龍捲 **持有戰鬥陀螺：**弓箭手旋風飛龍 145WB（[飛龍](https://zh.wikipedia.org/wiki/飛龍 "wikilink")）
 
   - **蕭白虎**（）
 
@@ -280,8 +252,7 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
 
   -
     **配音：**[近藤隆](../Page/近藤隆.md "wikilink")（日本）、[賀宇傑](../Page/賀宇傑.md "wikilink")（臺灣）、[關令翹](../Page/關令翹.md "wikilink")（香港）
-    **持有戰鬥陀螺：**守護者神鳥迦樓羅 SD145PF
-    （[迦樓羅](https://zh.wikipedia.org/wiki/迦樓羅 "wikilink")）
+    **持有戰鬥陀螺：**守護者神鳥迦樓羅 SD145PF （[迦樓羅](https://zh.wikipedia.org/wiki/迦樓羅 "wikilink")）
 
 #### 核心團隊
 
@@ -327,8 +298,7 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
 
   -
     **配音：**[子安武人](../Page/子安武人.md "wikilink")（日本）、[陳彥鈞](../Page/陳彥鈞.md "wikilink")（臺灣）、[張錦江](../Page/張錦江.md "wikilink")（香港）
-    **持有戰鬥陀螺：**戰狼改（漫畫版）（[豺狼座](../Page/豺狼座.md "wikilink")）、驚惶者再生魔神
-    T125JB（動畫版）（[芬里爾](../Page/芬里厄.md "wikilink")）
+    **持有戰鬥陀螺：**戰狼改（漫畫版）（[豺狼座](../Page/豺狼座.md "wikilink")）、驚惶者再生魔神 T125JB（動畫版）（[芬里爾](../Page/芬里厄.md "wikilink")）
 
 <!-- end list -->
 
@@ -348,8 +318,7 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
 
   -
     **配音：**[金田晶](../Page/金田晶.md "wikilink")（日本）、[郭馨雅](../Page/郭馨雅.md "wikilink")（台灣）、[曹啟謙](../Page/曹啟謙.md "wikilink")（香港）
-    **持有戰鬥陀螺：**武士天馬
-    W105R²F（[飛馬](https://zh.wikipedia.org/wiki/飛馬 "wikilink")）
+    **持有戰鬥陀螺：**武士天馬 W105R²F（[飛馬](https://zh.wikipedia.org/wiki/飛馬 "wikilink")）
 
 <!-- end list -->
 
@@ -358,8 +327,7 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
 <!-- end list -->
 
   -
-    **持有戰鬥陀螺：**毀滅天龍
-    F:S（[天龍座](https://zh.wikipedia.org/wiki/天龍座 "wikilink")）
+    **持有戰鬥陀螺：**毀滅天龍 F:S（[天龍座](https://zh.wikipedia.org/wiki/天龍座 "wikilink")）
 
 <!-- end list -->
 
@@ -395,8 +363,7 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
 <!-- end list -->
 
   -
-    **持有戰鬥陀螺：**激閃射手
-    230WD（[射手座](https://zh.wikipedia.org/wiki/射手座 "wikilink")）
+    **持有戰鬥陀螺：**激閃射手 230WD（[射手座](https://zh.wikipedia.org/wiki/射手座 "wikilink")）
 
 <!-- end list -->
 
@@ -459,8 +426,7 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
 <!-- end list -->
 
   -
-    作詞、作曲：YU+KI　編曲：tatsuya
-    matsunaga　歌：[YU+KI](https://zh.wikipedia.org/wiki/YU+KI "wikilink")
+    作詞、作曲：YU+KI　編曲：tatsuya matsunaga　歌：[YU+KI](https://zh.wikipedia.org/wiki/YU+KI "wikilink")
 
 <!-- end list -->
 
@@ -469,8 +435,7 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
 <!-- end list -->
 
   -
-    作詞、作曲：YU+KI　編曲：tatsuya
-    matsunaga　歌：[YCHRO](https://zh.wikipedia.org/wiki/YCHRO "wikilink")
+    作詞、作曲：YU+KI　編曲：tatsuya matsunaga　歌：[YCHRO](https://zh.wikipedia.org/wiki/YCHRO "wikilink")
 
 ## 各話列表
 
@@ -1211,9 +1176,7 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
   - [アニメ公式サイト](http://www.tv-tokyo.co.jp/anime/mf-beyblade-zero/)
   - [WBBA開発日記](https://web.archive.org/web/20150523191453/https://my.takaratomy-business-service.co.jp/community/beyblade/)
 
-[Category:戰鬥陀螺](https://zh.wikipedia.org/wiki/Category:戰鬥陀螺 "wikilink")
-[Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink")
-[Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink")
+[Category:戰鬥陀螺](https://zh.wikipedia.org/wiki/Category:戰鬥陀螺 "wikilink") [Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink") [Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink")
 
 1.  日文寫的幻獸是「[イフリート](https://zh.wikipedia.org/wiki/:ja:イフリート "wikilink")」，是原文阿拉伯文「惡魔」的意思。日本WIKI提到「炎屬性魔人」、「炎屬性惡魔」、「炎屬性精靈」，這部作品中幻獸的形象應該與「魔人」較符合。
 2.  與火龍院忍的忍者烈火蠑螈 SW145SD 同步
@@ -1221,9 +1184,7 @@ List中DVD封面、封底圖的各話標題）。第20話到第26話是日本TV�
 4.  木糠日文「キクラゲ」，和木倉ゲン唸法相近
 5.  與獅獅谷鷹之助的獅鷲射手 C145S 同步，翻譯待補充。
 6.  與岩山美男的石像土匪同步，翻譯待補充。與動地巨獸頑石魔像 DF145BS還是不一樣，底盤和軸心是用狂戰士動地巨獸的 SR200BWD。
-7.  與破山基拉的狂戰士動地巨獸 SR200BWD 同步。與頑石魔像動地巨獸 SR200BWD還是不一樣，底盤和軸心是用山賊頑石魔像的
-    DF145BS。
-8.  「チーフライター」（主筆）同等於「[シリーズ構成](https://zh.wikipedia.org/wiki/:ja:シリーズ構成 "wikilink")」（系列構成）。推測杉島因同時擔任監督和系列構成（OP
-    工作人員名單寫在一起），歷代系列構成的長谷川才用「主筆」標示。
+7.  與破山基拉的狂戰士動地巨獸 SR200BWD 同步。與頑石魔像動地巨獸 SR200BWD還是不一樣，底盤和軸心是用山賊頑石魔像的 DF145BS。
+8.  「チーフライター」（主筆）同等於「[シリーズ構成](https://zh.wikipedia.org/wiki/:ja:シリーズ構成 "wikilink")」（系列構成）。推測杉島因同時擔任監督和系列構成（OP 工作人員名單寫在一起），歷代系列構成的長谷川才用「主筆」標示。
 9.  標題以播放時所顯示的字幕為準
 10. 標題以播放時所顯示的字幕為準

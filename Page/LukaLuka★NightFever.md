@@ -6,23 +6,19 @@
 
 ## 商業化
 
-  - EXIT TUNES PRESENTS STARDOM 2（[EXIT
-    TUNES](../Page/EXIT_TUNES.md "wikilink")、2009年8月19日）
+  - EXIT TUNES PRESENTS STARDOM 2（[EXIT TUNES](../Page/EXIT_TUNES.md "wikilink")、2009年8月19日）
 
       - 網路人氣歌曲的[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")。本曲作為第十二曲收錄其中。
 
-  - （[Sony Music
-    Direct](../Page/Sony_Music_Direct.md "wikilink")、2011年6月22日）
+  - （[Sony Music Direct](../Page/Sony_Music_Direct.md "wikilink")、2011年6月22日）
 
       - 嚴選VOCALOID人氣曲的商業合輯。本曲作為第二曲收錄其中。
 
-  - [初音ミク -Project
-    DIVA-](https://zh.wikipedia.org/wiki/初音ミク_-Project_DIVA- "wikilink")（[SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink")）
+  - [初音ミク -Project DIVA-](https://zh.wikipedia.org/wiki/初音ミク_-Project_DIVA- "wikilink")（[SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink")）
 
       - （2010年7月1日）
 
-          - [PlayStation
-            Portable的節奏動作遊戲追加的下載目錄曲之一](../Page/PlayStation_Portable.md "wikilink")。
+          - [PlayStation Portable的節奏動作遊戲追加的下載目錄曲之一](../Page/PlayStation_Portable.md "wikilink")。
 
       - （2011年11月10日）
 
@@ -52,17 +48,13 @@
 
 :\*\*本單曲音源為再收錄。
 
-:\*\*採用於[科樂美](../Page/科樂美.md "wikilink")的《[Dance Evolution
-ARCADE](https://zh.wikipedia.org/wiki/DANCE_EVOLUTION "wikilink")》與《[REFLEC
-BEAT](https://zh.wikipedia.org/wiki/彈指火球 "wikilink")》。
+:\*\*採用於[科樂美](../Page/科樂美.md "wikilink")的《[Dance Evolution ARCADE](https://zh.wikipedia.org/wiki/DANCE_EVOLUTION "wikilink")》與《[REFLEC BEAT](https://zh.wikipedia.org/wiki/彈指火球 "wikilink")》。
 
   - [桃井晴子](../Page/桃井晴子.md "wikilink")
 
 :\*《》（[Comic虎之穴](../Page/Comic虎之穴.md "wikilink")、2009年11月6日）
 
-:\*\*
-Comic虎之穴的[コラボレーションCD專輯](https://zh.wikipedia.org/wiki/コラボレーション "wikilink")。本曲作為DISC
-1的第六曲收錄。
+:\*\* Comic虎之穴的[コラボレーションCD專輯](https://zh.wikipedia.org/wiki/コラボレーション "wikilink")。本曲作為DISC 1的第六曲收錄。
 
   -
 
@@ -91,19 +83,12 @@ Comic虎之穴的[コラボレーションCD專輯](https://zh.wikipedia.org/wik
 ## 外部連結
 
   - [Nation One official web](http://nationone.jp/) - samfree的公式網站
-  - [巡音ルカ「ルカルカ★ナイトフィーバー」【オリジナル曲】 -
-    ニコニコ動画](http://www.nicovideo.jp/watch/sm6119955) （原曲）
+  - [巡音ルカ「ルカルカ★ナイトフィーバー」【オリジナル曲】 - ニコニコ動画](http://www.nicovideo.jp/watch/sm6119955) （原曲）
   - [実谷ななのぷんこちんぶろぐ](http://ameblo.jp/mitaninana-puncotin/) - 實谷奈奈的翻唱
 
-[Category:使用Vocaloid的歌曲](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的歌曲 "wikilink")
-[Category:2009年歌曲](https://zh.wikipedia.org/wiki/Category:2009年歌曲 "wikilink")
-[Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
-[Category:Vocaloid傳說曲](https://zh.wikipedia.org/wiki/Category:Vocaloid傳說曲 "wikilink")
+[Category:使用Vocaloid的歌曲](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的歌曲 "wikilink") [Category:2009年歌曲](https://zh.wikipedia.org/wiki/Category:2009年歌曲 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink") [Category:Vocaloid傳說曲](https://zh.wikipedia.org/wiki/Category:Vocaloid傳說曲 "wikilink")
 
 1.
-2.  [愛川こずえ「ルカルカナイトフィーバー！！」がニコ動で200万再生超え](http://listen.jp/store/musicnews_31386_all.htm)
-     - リッスンジャパン 2010年11月23日
-3.  [愛川こずえ、「ルカルカナイトフィーバー！！」の映像が、驚異の200万再生！](http://mrocks9.com/news/detail/1011240155.htm)
-    - MROCKS9 2010年11月24日
-4.  [ルカルカ★ナイトフィーバー、「実谷なな」バージョン＋愛川こずえDVD！](http://mrocks9.com/news/detail/1010132246.htm)
-    - MROCKS9 2010年10月13日
+2.  [愛川こずえ「ルカルカナイトフィーバー！！」がニコ動で200万再生超え](http://listen.jp/store/musicnews_31386_all.htm)  - リッスンジャパン 2010年11月23日
+3.  [愛川こずえ、「ルカルカナイトフィーバー！！」の映像が、驚異の200万再生！](http://mrocks9.com/news/detail/1011240155.htm) - MROCKS9 2010年11月24日
+4.  [ルカルカ★ナイトフィーバー、「実谷なな」バージョン＋愛川こずえDVD！](http://mrocks9.com/news/detail/1010132246.htm) - MROCKS9 2010年10月13日

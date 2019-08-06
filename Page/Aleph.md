@@ -1,7 +1,6 @@
 ****是[原始迦南字母](../Page/原始迦南字母.md "wikilink")表的第一个字母，后来演变为各种[闪米特字母](https://zh.wikipedia.org/wiki/闪米特 "wikilink")，包括[腓尼基字母](../Page/腓尼基字母.md "wikilink")[phoenician_aleph.svg](https://zh.wikipedia.org/wiki/File:phoenician_aleph.svg "fig:phoenician_aleph.svg")（）、[叙利亚字母](https://zh.wikipedia.org/wiki/叙利亚字母 "wikilink")****（）、[希伯来字母](../Page/希伯来字母.md "wikilink")****（Aleph）以及[阿拉伯字母](../Page/阿拉伯字母.md "wikilink")****（）。
 
-Aleph在闪米特语言中表示“牛”，最初是源于[埃及圣书体中牛头的象形字](https://zh.wikipedia.org/wiki/埃及圣书体 "wikilink")<hiero>
-F1 </hiero>
+Aleph在闪米特语言中表示“牛”，最初是源于[埃及圣书体中牛头的象形字](https://zh.wikipedia.org/wiki/埃及圣书体 "wikilink")<hiero> F1 </hiero>
 
 | [埃及聖書體](https://zh.wikipedia.org/wiki/埃及聖書體 "wikilink") | [青銅中期文化時期字母](../Page/青銅中期文化時期字母.md "wikilink")                                      | [腓尼基字母](../Page/腓尼基字母.md "wikilink")                                                                        | [古希伯來字母](../Page/古希伯來字母.md "wikilink")                                                                                                                      |
 | ------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -17,8 +16,6 @@ F1 </hiero>
 
 ## 参考文献
 
-[Category:腓尼基字母系統](https://zh.wikipedia.org/wiki/Category:腓尼基字母系統 "wikilink")
-[Category:阿拉伯字母](https://zh.wikipedia.org/wiki/Category:阿拉伯字母 "wikilink")
-[Category:希伯来字母](https://zh.wikipedia.org/wiki/Category:希伯来字母 "wikilink")
+[Category:腓尼基字母系統](https://zh.wikipedia.org/wiki/Category:腓尼基字母系統 "wikilink") [Category:阿拉伯字母](https://zh.wikipedia.org/wiki/Category:阿拉伯字母 "wikilink") [Category:希伯来字母](https://zh.wikipedia.org/wiki/Category:希伯来字母 "wikilink")
 
 1.

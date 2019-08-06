@@ -1373,22 +1373,15 @@
 
   - [f(x)官方youtube網址](https://www.youtube.com/user/fxsmtown)
 
-[Category:F(x)](https://zh.wikipedia.org/wiki/Category:F\(x\) "wikilink")
-[Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
+[Category:F(x)](https://zh.wikipedia.org/wiki/Category:F\(x\) "wikilink") [Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
 
 1.  [2011 Bugs Music Awards官方網站](http://award.bugs.co.kr/)
-2.  [第19屆演藝藝術賞得獎者](http://kpopn.com/2012/11/29/154667/)kpopn –
-    2012/11/29
+2.  [第19屆演藝藝術賞得獎者](http://kpopn.com/2012/11/29/154667/)kpopn – 2012/11/29
 3.
-4.  [FUSE
-    TV官方網站](http://www.fuse.tv/2013/12/fuse-staff-picks-best-of-2013-albums#22?redirectToExternal=true)
-5.  [THE 2013 EATYOURKIMCHI
-    AWARDS\!](http://www.eatyourkimchi.com/eat-your-kimchi-awards-winners-2013/)
-6.  [The 2013 Eatyourkimchi Awards - Part 2
-    (start 6:20)](http://www.youtube.com/watch?annotation_id=annotation_2784882739&feature=iv&list=PLWQq9lbJ29_3i2AYNUjrB3D-GBz2yDXVi&src_vid=37v0eBBbru4&v=b3pLtIuMVWA)
-7.  [20 Best K-Pop Songs of 2013: K-Town
-    Picks](http://www.billboard.com/articles/list/5840365/20-best-k-pop-songs-of-2013-k-town-picks?list_page=1)
-8.  [20 Most Viewed 2013 K-Pop Videos on YouTube in America:
-    Exclusive](http://www.billboard.com/articles/columns/k-town/5847807/20-most-viewed-2013-k-pop-videos-on-youtube-in-america-exclusive)
+4.  [FUSE TV官方網站](http://www.fuse.tv/2013/12/fuse-staff-picks-best-of-2013-albums#22?redirectToExternal=true)
+5.  [THE 2013 EATYOURKIMCHI AWARDS\!](http://www.eatyourkimchi.com/eat-your-kimchi-awards-winners-2013/)
+6.  [The 2013 Eatyourkimchi Awards - Part 2 (start 6:20)](http://www.youtube.com/watch?annotation_id=annotation_2784882739&feature=iv&list=PLWQq9lbJ29_3i2AYNUjrB3D-GBz2yDXVi&src_vid=37v0eBBbru4&v=b3pLtIuMVWA)
+7.  [20 Best K-Pop Songs of 2013: K-Town Picks](http://www.billboard.com/articles/list/5840365/20-best-k-pop-songs-of-2013-k-town-picks?list_page=1)
+8.  [20 Most Viewed 2013 K-Pop Videos on YouTube in America: Exclusive](http://www.billboard.com/articles/columns/k-town/5847807/20-most-viewed-2013-k-pop-videos-on-youtube-in-america-exclusive)
 9.
 10.

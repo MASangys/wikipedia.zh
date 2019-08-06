@@ -4,8 +4,7 @@
 
 以「女仆擦弹射击（）」为主题，主人公为女仆机器人，本游戏十分看重擦弹操作来进行对敌攻击。
 
-西方Project是原东京电机大学内的非公式工作室「AmusementMakers」以1998年入学成员为中心制作、发售的作品。2002年，开发成员大学卒业的同时让後辈继承工作室，新的开发人员建立了新的同人社团「被瞬杀之道?」。之后的2003年12月的[Comic
-Market](../Page/Comic_Market.md "wikilink")（以下C）65时在AmusementMakers的空间颁布，主要开发成员于2004年3月从东京电机大学大学院卒业，2004年8月的C66开始改为在「被瞬杀之道?」的空间颁布。
+西方Project是原东京电机大学内的非公式工作室「AmusementMakers」以1998年入学成员为中心制作、发售的作品。2002年，开发成员大学卒业的同时让後辈继承工作室，新的开发人员建立了新的同人社团「被瞬杀之道?」。之后的2003年12月的[Comic Market](../Page/Comic_Market.md "wikilink")（以下C）65时在AmusementMakers的空间颁布，主要开发成员于2004年3月从东京电机大学大学院卒业，2004年8月的C66开始改为在「被瞬杀之道?」的空间颁布。
 
 2011年，现在『秋霜玉』和『稀翁玉』已经不再发售，基本上只通过大会贩卖，目前『秋霜玉』没有WAV版的下载。
 
@@ -28,9 +27,7 @@ Market](../Page/Comic_Market.md "wikilink")（以下C）65时在AmusementMakers�
     2001年12月的C61发布完成版（Ver.1.003），
     2002年8月的C62发布升级补丁。
     和[东方花映冢相仿的对战纵版弹幕射击游戏](https://zh.wikipedia.org/wiki/东方花映冢 "wikilink")，主要靠擦弹而不是击破敌机来向对面输送火力，敌机击破后没有连爆，每击破一个敌机都会出现一串自狙弹用于擦弹，敌人输送过来的攻击也可用于擦弹。
-    胜败判定：画面左上的%表示的生命槽在中弹后会减少，0%时会发生\[Guard
-    Break\]现象，之后在防御恢复之前被弾的话出现负判定。有平局（同时挂掉）判定。生命槽会慢慢回复，\[Guard
-    Break\]之後5秒左右会开始恢复，此时再中弹不会出现负判定而是再次\[Guard Break\]。
+    胜败判定：画面左上的%表示的生命槽在中弹后会减少，0%时会发生\[Guard Break\]现象，之后在防御恢复之前被弾的话出现负判定。有平局（同时挂掉）判定。生命槽会慢慢回复，\[Guard Break\]之後5秒左右会开始恢复，此时再中弹不会出现负判定而是再次\[Guard Break\]。
 
 <!-- end list -->
 
@@ -227,17 +224,10 @@ Market](../Page/Comic_Market.md "wikilink")（以下C）65时在AmusementMakers�
 
 ## 和Project Blank 的关系
 
-在「AmusementMakers」的后辈的STG开发成员「Project
-Blank」（之后成立了同人社「RebRank」）的处女作『五月雨（PNB
-SMD）』中，西方project的主程的ぽんち（pbg）作为「程序支持」参与。另外应「Project
-Blank」的开发成员Yoko（blankvision）的要求，『秋霜玉』中的角色VIVIT及盖茨在五月雨的
-Extra Stage 中作为 BOSS 客串登场。还有，从『五月雨』Extra Stage 中 VIVIT
-的台词等来推测，五月雨Ex的时间线在『秋霜玉』Extra Stage
-刚刚结束时。Yoko在『稀翁玉』作为手册作成的制作人员在制作人员列表中登场。
+在「AmusementMakers」的后辈的STG开发成员「Project Blank」（之后成立了同人社「RebRank」）的处女作『五月雨（PNB SMD）』中，西方project的主程的ぽんち（pbg）作为「程序支持」参与。另外应「Project Blank」的开发成员Yoko（blankvision）的要求，『秋霜玉』中的角色VIVIT及盖茨在五月雨的 Extra Stage 中作为 BOSS 客串登场。还有，从『五月雨』Extra Stage 中 VIVIT 的台词等来推测，五月雨Ex的时间线在『秋霜玉』Extra Stage 刚刚结束时。Yoko在『稀翁玉』作为手册作成的制作人员在制作人员列表中登场。
 
 ## 外部链接
 
   - [瞬殺サレ道?](http://ss-do.sakura.ne.jp/)
 
-[Category:同人遊戲](https://zh.wikipedia.org/wiki/Category:同人遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
+[Category:同人遊戲](https://zh.wikipedia.org/wiki/Category:同人遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")

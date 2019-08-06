@@ -1,16 +1,8 @@
-是一款由[Smilebit開發](https://zh.wikipedia.org/wiki/SEGA_Sports_R&D "wikilink")、[SEGA發行的](https://zh.wikipedia.org/wiki/SEGA "wikilink")[Dreamcast](../Page/Dreamcast.md "wikilink")主機[電玩遊戲](https://zh.wikipedia.org/wiki/電玩遊戲 "wikilink")。該遊戲在2000年6月9日於日本推出，同年10月30日在北美上市，接著於11月24日在歐洲發售。之後，[Vicarious
-Visions製作的](../Page/Vicarious_Visions.md "wikilink")[Game Boy
-Advance移植版本由](../Page/Game_Boy_Advance.md "wikilink")[THQ在](https://zh.wikipedia.org/wiki/THQ "wikilink")2004年6月26日於北美、2004年2月20日於歐洲推出。2012年9月，Blit
-Software制作的高畫質（HD）版本在[Xbox Live
-Arcade](https://zh.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")、[PlayStation
-Network和](../Page/PlayStation_Network.md "wikilink")[Windows上發售](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]。在SEGA轉型為軟體公司後，其續作《[Jet
-Set Radio
-Future](https://zh.wikipedia.org/wiki/Jet_Set_Radio_Future "wikilink")》於2002年在[Xbox](../Page/Xbox.md "wikilink")上推出。本作品以[卡通渲染](../Page/卡通渲染.md "wikilink")的視覺風格在遊戲界中成為知名作品。
+是一款由[Smilebit開發](https://zh.wikipedia.org/wiki/SEGA_Sports_R&D "wikilink")、[SEGA發行的](https://zh.wikipedia.org/wiki/SEGA "wikilink")[Dreamcast](../Page/Dreamcast.md "wikilink")主機[電玩遊戲](https://zh.wikipedia.org/wiki/電玩遊戲 "wikilink")。該遊戲在2000年6月9日於日本推出，同年10月30日在北美上市，接著於11月24日在歐洲發售。之後，[Vicarious Visions製作的](../Page/Vicarious_Visions.md "wikilink")[Game Boy Advance移植版本由](../Page/Game_Boy_Advance.md "wikilink")[THQ在](https://zh.wikipedia.org/wiki/THQ "wikilink")2004年6月26日於北美、2004年2月20日於歐洲推出。2012年9月，Blit Software制作的高畫質（HD）版本在[Xbox Live Arcade](https://zh.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")、[PlayStation Network和](../Page/PlayStation_Network.md "wikilink")[Windows上發售](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[1\]。在SEGA轉型為軟體公司後，其續作《[Jet Set Radio Future](https://zh.wikipedia.org/wiki/Jet_Set_Radio_Future "wikilink")》於2002年在[Xbox](../Page/Xbox.md "wikilink")上推出。本作品以[卡通渲染](../Page/卡通渲染.md "wikilink")的視覺風格在遊戲界中成為知名作品。
 
 ## 遊戲內容
 
-玩家在《Jet Set Radio》中扮演非法幫派「The
-GGs」的的成員，目標是掌控虛構城市「Tokyo-to」，並對付其他敵對幫派和警察。玩家的角色穿著直排輪溜冰鞋，並能使出跳躍、在軌桿上滑行和拖住汽車滑行（skitching）等技巧。角色也可使用衝刺來提升速度，衝刺所需的能量則由施展特技和連續招式獲得。遊戲中最常見的目標是以自己的塗鴉覆蓋助對手幫派的塗鴉，塗鴉前須在舞台場景中收集足夠的噴漆罐。按下塗鴉鈕直接噴出小型的塗鴉，較大範圍的塗鴉則需依照畫面指示操作類比方向鍵來繪製。玩者的角色將會因為受到子彈或武器攻擊、從高處摔落或撞擊車輛而受傷，收集健康噴漆罐後可逐漸恢復生命值。
+玩家在《Jet Set Radio》中扮演非法幫派「The GGs」的的成員，目標是掌控虛構城市「Tokyo-to」，並對付其他敵對幫派和警察。玩家的角色穿著直排輪溜冰鞋，並能使出跳躍、在軌桿上滑行和拖住汽車滑行（skitching）等技巧。角色也可使用衝刺來提升速度，衝刺所需的能量則由施展特技和連續招式獲得。遊戲中最常見的目標是以自己的塗鴉覆蓋助對手幫派的塗鴉，塗鴉前須在舞台場景中收集足夠的噴漆罐。按下塗鴉鈕直接噴出小型的塗鴉，較大範圍的塗鴉則需依照畫面指示操作類比方向鍵來繪製。玩者的角色將會因為受到子彈或武器攻擊、從高處摔落或撞擊車輛而受傷，收集健康噴漆罐後可逐漸恢復生命值。
 
 ## 主要角色
 
@@ -178,25 +170,9 @@ GGs」的的成員，目標是掌控虛構城市「Tokyo-to」，並對付其他
 
 ## 外部連結
 
-  - [《Jet Set
-    Radio》](https://web.archive.org/web/20140524063339/http://www.sega.co.uk/Jet_Set_Radio.aspx?r=true)在
-    世嘉英国 的页面
-  - [《Jet Grind
-    Radio》](http://www.gamespot.com/dreamcast/action/jetgrindradio/index.html?q=jet%20grind%20radio)在
-    GameSpot.com 的页面
+  - [《Jet Set Radio》](https://web.archive.org/web/20140524063339/http://www.sega.co.uk/Jet_Set_Radio.aspx?r=true)在 世嘉英国 的页面
+  - [《Jet Grind Radio》](http://www.gamespot.com/dreamcast/action/jetgrindradio/index.html?q=jet%20grind%20radio)在 GameSpot.com 的页面
 
-[Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink")
-[Category:立体平台游戏](https://zh.wikipedia.org/wiki/Category:立体平台游戏 "wikilink")
-[Category:世嘉游戏](https://zh.wikipedia.org/wiki/Category:世嘉游戏 "wikilink")
-[Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink")
-[Category:Game_Boy_Advance遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance遊戲 "wikilink")
-[Category:PlayStation_3遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_3遊戲 "wikilink")
-[Category:PlayStation_Network遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Network遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Xbox_360_Live_Arcade遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360_Live_Arcade遊戲 "wikilink")
-[Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink")
-[Category:日本开发电子游戏](https://zh.wikipedia.org/wiki/Category:日本开发电子游戏 "wikilink")
-[Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink")
+[Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink") [Category:立体平台游戏](https://zh.wikipedia.org/wiki/Category:立体平台游戏 "wikilink") [Category:世嘉游戏](https://zh.wikipedia.org/wiki/Category:世嘉游戏 "wikilink") [Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink") [Category:Game_Boy_Advance遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance遊戲 "wikilink") [Category:PlayStation_3遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_3遊戲 "wikilink") [Category:PlayStation_Network遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Network遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Xbox_360_Live_Arcade遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360_Live_Arcade遊戲 "wikilink") [Category:卡通渲染风格电子游戏](https://zh.wikipedia.org/wiki/Category:卡通渲染风格电子游戏 "wikilink") [Category:日本开发电子游戏](https://zh.wikipedia.org/wiki/Category:日本开发电子游戏 "wikilink") [Category:美國開發電子遊戲](https://zh.wikipedia.org/wiki/Category:美國開發電子遊戲 "wikilink")
 
 1.  <http://www.sega.com/games/jet-set-radio/>

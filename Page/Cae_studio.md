@@ -1,37 +1,19 @@
-**CAE
-Studio**是一款矿业三维数字化解决方案软件，1981年由[英国矿业计算有限公司](https://zh.wikipedia.org/wiki/英国 "wikilink")（Mineral
-Industries Computing Limited
-“MICL”）开发推广(最初名为Datamine)。其主要功能包括勘探数据分析、地质模型分析、岩石力学分析、开采方案设计、[矿山生产及复垦规划等在随后的](https://zh.wikipedia.org/wiki/矿山 "wikilink")15年中，该软件得到世界各国矿产开发组织的广泛使用。
-CAE Studio在1997年由中国有色工程设计研究总院引进中国市场并在设计项目中得到应用，2001年CAE
-Studio软件中储量计算功能通过了中国国土资源部储量评审中心认证，该软件被中国其它相关设计研究单位、生产企业和高等院校接受并使用。
+**CAE Studio**是一款矿业三维数字化解决方案软件，1981年由[英国矿业计算有限公司](https://zh.wikipedia.org/wiki/英国 "wikilink")（Mineral Industries Computing Limited “MICL”）开发推广(最初名为Datamine)。其主要功能包括勘探数据分析、地质模型分析、岩石力学分析、开采方案设计、[矿山生产及复垦规划等在随后的](https://zh.wikipedia.org/wiki/矿山 "wikilink")15年中，该软件得到世界各国矿产开发组织的广泛使用。 CAE Studio在1997年由中国有色工程设计研究总院引进中国市场并在设计项目中得到应用，2001年CAE Studio软件中储量计算功能通过了中国国土资源部储量评审中心认证，该软件被中国其它相关设计研究单位、生产企业和高等院校接受并使用。
 2010年，加拿大CAE公司收购英国MICL旗下Datamine相关业务\[1\]，Datamine更名为CAE Studio。
 \== 开发使用环境 == CAE Studio软件可以在主流的Windows系统下操作运行，包括Win8、Win7、Winxp等。
-CAE
-Studio软件采用组件开发模式，系统内核和用户界面使用MFC语言开发，应用算法使用FORTRAN语言开发。3.0版本后，引入BCG界面风格和微软的.net框架。CAE
-Studio对外开放命令接口和用户界面对象，用户可以使用包括VBSCRIPT、JSSCRIPT、VB、VC和JAVA等编程语言，定制自己所需要的特定功能。
-CAE Studio软件数据源不仅可以由软件自带的Table
-Edit编辑生成，还可通过多种第三方软件直接导入，例如Vulcan、Gemcom、Surpac、Medsystem、Micromine、AutoCAD、Amine、Microstation、Promine、Cadsminer等。CAE
-Studio软件的分析模拟结果可以通过多种第三方软件输出记录，例如Microstation、AutoCAD、Autodesk
-Design、Adobe PDF、Excel等。
+CAE Studio软件采用组件开发模式，系统内核和用户界面使用MFC语言开发，应用算法使用FORTRAN语言开发。3.0版本后，引入BCG界面风格和微软的.net框架。CAE Studio对外开放命令接口和用户界面对象，用户可以使用包括VBSCRIPT、JSSCRIPT、VB、VC和JAVA等编程语言，定制自己所需要的特定功能。
+CAE Studio软件数据源不仅可以由软件自带的Table Edit编辑生成，还可通过多种第三方软件直接导入，例如Vulcan、Gemcom、Surpac、Medsystem、Micromine、AutoCAD、Amine、Microstation、Promine、Cadsminer等。CAE Studio软件的分析模拟结果可以通过多种第三方软件输出记录，例如Microstation、AutoCAD、Autodesk Design、Adobe PDF、Excel等。
 \== 功能简介 ==
 
 ### 功能模块
 
 CAE Studio软件主要包含以下10个功能模块：
-{| class="wikitable" |- | 序号 || 模块名称 || 代码 || 英文模块名称 |- | 1 || 核心模块 ||
-CORE || Core |- | 2 || 地质统计 || EGS || Enhanced Geostatistics |- | 3 ||
-数据输入/输出 || DSDIE || Import/Export |- | 4 || 可采资源优化 || MRO ||
-Mineable Reserves Optimiser |- | 5 || 露天采矿设计 || OPM || Open Pit Mine
-Design |- | 6 || 块体模型 || MOD || Orebdoy Block Modelling |- | 7 || 矿体空间演变
-|| UNF || Orebody Unfolding |- | 8 || 地下采矿设计 || UGM || Underground Mine
-Design |- | 9 || 三维浏览器 || GVP || Visualiser |- | 10 || 线框模型 || WFM ||
-Wireframe Modelling |}
+{| class="wikitable" |- | 序号 || 模块名称 || 代码 || 英文模块名称 |- | 1 || 核心模块 || CORE || Core |- | 2 || 地质统计 || EGS || Enhanced Geostatistics |- | 3 || 数据输入/输出 || DSDIE || Import/Export |- | 4 || 可采资源优化 || MRO || Mineable Reserves Optimiser |- | 5 || 露天采矿设计 || OPM || Open Pit Mine Design |- | 6 || 块体模型 || MOD || Orebdoy Block Modelling |- | 7 || 矿体空间演变 || UNF || Orebody Unfolding |- | 8 || 地下采矿设计 || UGM || Underground Mine Design |- | 9 || 三维浏览器 || GVP || Visualiser |- | 10 || 线框模型 || WFM || Wireframe Modelling |}
 
 ### 工作流程
 
 CAE Studio的工作流程可由下图所示:
-[CAE
-Studio工作流程图改色版](https://zh.wikipedia.org/wiki/File:CAE_Studio工作流程图改色版.jpg "fig:CAE Studio工作流程图改色版")
+[CAE Studio工作流程图改色版](https://zh.wikipedia.org/wiki/File:CAE_Studio工作流程图改色版.jpg "fig:CAE Studio工作流程图改色版")
 
 ### 应用范围
 
@@ -83,8 +65,7 @@ Studio工作流程图改色版](https://zh.wikipedia.org/wiki/File:CAE_Studio工
 
 ## 参考文献
 
-[Category:電腦輔助工程軟體](https://zh.wikipedia.org/wiki/Category:電腦輔助工程軟體 "wikilink")
-[Category:礦業](https://zh.wikipedia.org/wiki/Category:礦業 "wikilink")
+[Category:電腦輔助工程軟體](https://zh.wikipedia.org/wiki/Category:電腦輔助工程軟體 "wikilink") [Category:礦業](https://zh.wikipedia.org/wiki/Category:礦業 "wikilink")
 
 1.  [CAE收购Datamine](http://www.im-mining.com/2010/04/20/datamine-acquired-by-cae-a-world-leader-in-modelling-simulation-and-training-solutions/)，国际矿业网．2010-04-20
 2.  [凤凰山铜矿地质数据库建库技术](http://www.cnki.com.cn/Article/CJFDTOTAL-JSKS201104024.htm)，中国知网．2011

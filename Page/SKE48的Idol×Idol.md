@@ -131,7 +131,4 @@
 
   - [SKE48のアイドル×アイドル：中京テレビ](https://web.archive.org/web/20110126155914/http://www.ctv.co.jp/ske48s_idol_idol/)
 
-[Category:日本電視音樂節目](https://zh.wikipedia.org/wiki/Category:日本電視音樂節目 "wikilink")
-[Category:2010年日本電視節目](https://zh.wikipedia.org/wiki/Category:2010年日本電視節目 "wikilink")
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
-[Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
+[Category:日本電視音樂節目](https://zh.wikipedia.org/wiki/Category:日本電視音樂節目 "wikilink") [Category:2010年日本電視節目](https://zh.wikipedia.org/wiki/Category:2010年日本電視節目 "wikilink") [Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")

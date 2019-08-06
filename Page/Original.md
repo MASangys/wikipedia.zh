@@ -12,6 +12,4 @@
 |  <small>地平線</small>   |        **1**        |          7          |
 | <small>Let Go</small> |         20          |          1          |
 
-[Category:官恩娜音樂專輯](https://zh.wikipedia.org/wiki/Category:官恩娜音樂專輯 "wikilink")
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:官恩娜音樂專輯](https://zh.wikipedia.org/wiki/Category:官恩娜音樂專輯 "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

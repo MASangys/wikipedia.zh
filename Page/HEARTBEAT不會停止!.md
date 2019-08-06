@@ -1,5 +1,4 @@
-「**HEARTBEAT不會停止\!**」（HEARTBEATが止まらないっ\!）是[唯夏織](../Page/唯夏織.md "wikilink")的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。由[King
-Records於](https://zh.wikipedia.org/wiki/King_Records "wikilink")2010年11月17日發售。
+「**HEARTBEAT不會停止\!**」（HEARTBEATが止まらないっ\!）是[唯夏織](../Page/唯夏織.md "wikilink")的第3張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。由[King Records於](https://zh.wikipedia.org/wiki/King_Records "wikilink")2010年11月17日發售。
 
 ## 概要
 
@@ -25,8 +24,7 @@ Records於](https://zh.wikipedia.org/wiki/King_Records "wikilink")2010年11月17
 
 <!-- end list -->
 
-1.  HEARTBEATが止まらないっ\!（[MUSIC
-    CLIP](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")）
+1.  HEARTBEATが止まらないっ\!（[MUSIC CLIP](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")）
 
 ## 收錄專輯
 
@@ -38,8 +36,6 @@ Records於](https://zh.wikipedia.org/wiki/King_Records "wikilink")2010年11月17
 
 ## 外部連結
 
-  - [ゆいかおり
-    RELEASE](https://web.archive.org/web/20121116074657/http://www.kingrecords.co.jp/yuikaori/release/index.html)
+  - [ゆいかおり RELEASE](https://web.archive.org/web/20121116074657/http://www.kingrecords.co.jp/yuikaori/release/index.html)
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")

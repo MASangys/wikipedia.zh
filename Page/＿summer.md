@@ -1,11 +1,8 @@
-是[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")[HOOK](https://zh.wikipedia.org/wiki/HOOK "wikilink")（現[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")）於2005年7月15日推出的第四款[美少女遊戲](../Page/美少女遊戲.md "wikilink")。本作最初是發行在[Windows平台上](https://zh.wikipedia.org/wiki/Windows "wikilink")，後來[移植到](https://zh.wikipedia.org/wiki/遊戲移植 "wikilink")[PlayStation
-2](../Page/PlayStation_2.md "wikilink")（簡稱PS2）上。並曾改編成[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")、[廣播劇](../Page/廣播劇.md "wikilink")\[1\]等版本。
+是[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")[HOOK](https://zh.wikipedia.org/wiki/HOOK "wikilink")（現[HOOKSOFT](../Page/HOOKSOFT.md "wikilink")）於2005年7月15日推出的第四款[美少女遊戲](../Page/美少女遊戲.md "wikilink")。本作最初是發行在[Windows平台上](https://zh.wikipedia.org/wiki/Windows "wikilink")，後來[移植到](https://zh.wikipedia.org/wiki/遊戲移植 "wikilink")[PlayStation 2](../Page/PlayStation_2.md "wikilink")（簡稱PS2）上。並曾改編成[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")、[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")、[廣播劇](../Page/廣播劇.md "wikilink")\[1\]等版本。
 
 ## 遊戲
 
-此作最初的版本是在2005年7月15日發售的18禁PC版。之後在2006年8月24日移植到Playstation
-2主機上，更名為《_summer♯♯》，為17禁版本，去除了PC版的情色劇情，並修改部分作畫。亦增加了許多PC版沒有的过场动画及劇情。\[2\]2007年12月21日時發行了《_summer新装版》，為2005年的PC版之重製版本。\[3\]\[4\]
-於2007年12月21日發行2005年PC版的重製版本《_summer新装版》，新版将过场动画更細緻化、并重製片頭曲及遊戲介面，而劇情方面和2005年之版本一樣，仍為18禁的PC版本。\[5\]
+此作最初的版本是在2005年7月15日發售的18禁PC版。之後在2006年8月24日移植到Playstation 2主機上，更名為《_summer♯♯》，為17禁版本，去除了PC版的情色劇情，並修改部分作畫。亦增加了許多PC版沒有的过场动画及劇情。\[2\]2007年12月21日時發行了《_summer新装版》，為2005年的PC版之重製版本。\[3\]\[4\] 於2007年12月21日發行2005年PC版的重製版本《_summer新装版》，新版将过场动画更細緻化、并重製片頭曲及遊戲介面，而劇情方面和2005年之版本一樣，仍為18禁的PC版本。\[5\]
 
 關於各版本的名稱由來，川波無人表示「_」是公司習慣在工作檔案名的開頭加上的符號，「_summer」指的是「接近夏天、夏天之前」。「[\#\#](../Page/井號.md "wikilink")」則是音樂的[升音符](https://zh.wikipedia.org/wiki/升音符 "wikilink")，「_summer\#\#」即是在舊作的基礎中更進一步。\[6\]
 
@@ -21,8 +18,7 @@
 
 ## 劇情簡介
 
-游戏故事发生于名叫成西的虛構的日本海邊小鎮。就讀成西學園2年級的主角海津匠，在暑期修學旅行的晚上，因朋友的一句問話：「你有喜歡的人嗎？」而困惑不已。匠從沒體會過「戀愛」這份感情，於是對週遭女性的意識漸漸強烈，並開始了一段夏日的校園戀愛劇。\[18\]\[19\]
-劇情的時間點是在匠高中二年級的夏天，6月到7月的時段，為一般日本高中校園的戀愛故事，沒有任何特殊的世界觀。\[20\]\[21\]
+游戏故事发生于名叫成西的虛構的日本海邊小鎮。就讀成西學園2年級的主角海津匠，在暑期修學旅行的晚上，因朋友的一句問話：「你有喜歡的人嗎？」而困惑不已。匠從沒體會過「戀愛」這份感情，於是對週遭女性的意識漸漸強烈，並開始了一段夏日的校園戀愛劇。\[18\]\[19\] 劇情的時間點是在匠高中二年級的夏天，6月到7月的時段，為一般日本高中校園的戀愛故事，沒有任何特殊的世界觀。\[20\]\[21\]
 
 ## 人物介绍
 
@@ -35,23 +31,18 @@
 
 <!-- end list -->
 
-  - 生日：4月21日 星座：[金牛座](../Page/金牛座.md "wikilink")
-    血型：[A型身高](https://zh.wikipedia.org/wiki/A型 "wikilink")：158cm
-    三圍：84/58/86
+  - 生日：4月21日 星座：[金牛座](../Page/金牛座.md "wikilink") 血型：[A型身高](https://zh.wikipedia.org/wiki/A型 "wikilink")：158cm 三圍：84/58/86
 
 <!-- end list -->
 
   -
-    本作女主角，是匠的鄰居。由於海津家平時沒有大人在，每天都幫忙處理海津家的伙食\[22\]以及打掃、洗衣等[家務](../Page/家務.md "wikilink")。父親在小時候去世，母親因工作時常不在家，和匠恰好成對比。個性溫柔、喜歡照顧人。成績優秀，但不擅長體育。喜歡天空、海洋以及[海鷗](https://zh.wikipedia.org/wiki/海鷗 "wikilink")，平常都帶著海鷗形狀的髮飾。害怕幽靈及黑暗，小時候由於匠的惡作劇，非常害怕[章魚](https://zh.wikipedia.org/wiki/章魚 "wikilink")。屬於學校的料理部，因其烹飪技術高超而深受信賴，由於和匠相當親密也常被部員戲稱兩人是夫妻。有記日記的習慣，玩家若達成一定條件，可閱讀她的日記、並了解劇情中她的心路歷程。\[23\]在《_summer
-    Life》中與匠是夫妻，並冠上夫姓。\[24\]\[25\]
+    本作女主角，是匠的鄰居。由於海津家平時沒有大人在，每天都幫忙處理海津家的伙食\[22\]以及打掃、洗衣等[家務](../Page/家務.md "wikilink")。父親在小時候去世，母親因工作時常不在家，和匠恰好成對比。個性溫柔、喜歡照顧人。成績優秀，但不擅長體育。喜歡天空、海洋以及[海鷗](https://zh.wikipedia.org/wiki/海鷗 "wikilink")，平常都帶著海鷗形狀的髮飾。害怕幽靈及黑暗，小時候由於匠的惡作劇，非常害怕[章魚](https://zh.wikipedia.org/wiki/章魚 "wikilink")。屬於學校的料理部，因其烹飪技術高超而深受信賴，由於和匠相當親密也常被部員戲稱兩人是夫妻。有記日記的習慣，玩家若達成一定條件，可閱讀她的日記、並了解劇情中她的心路歷程。\[23\]在《_summer Life》中與匠是夫妻，並冠上夫姓。\[24\]\[25\]
 
   -
 
 <!-- end list -->
 
-  - 生日：3月28日 星座：[牡羊座](https://zh.wikipedia.org/wiki/牡羊座 "wikilink")
-    血型：[B型](https://zh.wikipedia.org/wiki/B型 "wikilink") 身高：162cm
-    三圍：80/56/82
+  - 生日：3月28日 星座：[牡羊座](https://zh.wikipedia.org/wiki/牡羊座 "wikilink") 血型：[B型](https://zh.wikipedia.org/wiki/B型 "wikilink") 身高：162cm 三圍：80/56/82
 
 <!-- end list -->
 
@@ -62,24 +53,18 @@
 
 <!-- end list -->
 
-  - 生日：8月31日 星座：[處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")
-    血型：[O型身高](https://zh.wikipedia.org/wiki/O型 "wikilink")：148cm
-    三圍：76/52/80
+  - 生日：8月31日 星座：[處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink") 血型：[O型身高](https://zh.wikipedia.org/wiki/O型 "wikilink")：148cm 三圍：76/52/80
 
 <!-- end list -->
 
   -
-    匠的[義妹](../Page/準正.md "wikilink")，
-    母親與匠的父親再婚，並在沙奈幼時去世。是成西高中1年級生，個性較為天真活潑，和匠、小奈美和千輪的關係相當好。有早上賴床的壞習慣，每天都需要匠或
-    小奈美叫醒才不會遲到。不擅長運動和家務，作家事的時候讓平底鍋著火，洗衣機的泡沫滿出來是家常便飯。有時會拜託小奈美教她如何作料理。喜歡吃甜點\[27\]。
+    匠的[義妹](../Page/準正.md "wikilink")， 母親與匠的父親再婚，並在沙奈幼時去世。是成西高中1年級生，個性較為天真活潑，和匠、小奈美和千輪的關係相當好。有早上賴床的壞習慣，每天都需要匠或 小奈美叫醒才不會遲到。不擅長運動和家務，作家事的時候讓平底鍋著火，洗衣機的泡沫滿出來是家常便飯。有時會拜託小奈美教她如何作料理。喜歡吃甜點\[27\]。
 
   -
 
 <!-- end list -->
 
-  - 生日：10月25日 星座：[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")
-    血型：[AB型身高](https://zh.wikipedia.org/wiki/AB型 "wikilink")：150cm
-    三圍：78/55/80
+  - 生日：10月25日 星座：[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink") 血型：[AB型身高](https://zh.wikipedia.org/wiki/AB型 "wikilink")：150cm 三圍：78/55/80
 
 <!-- end list -->
 
@@ -90,9 +75,7 @@
 
 <!-- end list -->
 
-  - 生日：1月12日 星座:[山羊座](https://zh.wikipedia.org/wiki/山羊座 "wikilink")
-    血型：[A型](https://zh.wikipedia.org/wiki/A型 "wikilink") 身高：165cm
-    三圍：82/59/84
+  - 生日：1月12日 星座:[山羊座](https://zh.wikipedia.org/wiki/山羊座 "wikilink") 血型：[A型](https://zh.wikipedia.org/wiki/A型 "wikilink") 身高：165cm 三圍：82/59/84
 
 <!-- end list -->
 
@@ -103,17 +86,14 @@
 
 <!-- end list -->
 
-  - 生日：3月3日 星座：[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")
-    血型：[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")
-    身高：162cm 三圍：90/58/86
+  - 生日：3月3日 星座：[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink") 血型：[O型](https://zh.wikipedia.org/wiki/O型 "wikilink") 身高：162cm 三圍：90/58/86
 
 <!-- end list -->
 
   -
     匠等人的班導師兼世界史老師，個性有些迷糊，但在學生間相當有人氣。嗜好是郵購物品，常將薪水花在購買[鍊金術的材料等奇怪的東西上](https://zh.wikipedia.org/wiki/鍊金術 "wikilink")。導致平時生活拮据。\[29\]有時還會因沒錢吃飯而餓昏在教室內，並被覺得她很可憐的學生們分享便當。
   -
-    成西高中的3年級生，在學校放送部擔任廣播，主持的「Radio
-    Romanesque」節目頗受好評。其身影在遊戲中不曾出現，在一定條件下是可攻略對像。
+    成西高中的3年級生，在學校放送部擔任廣播，主持的「Radio Romanesque」節目頗受好評。其身影在遊戲中不曾出現，在一定條件下是可攻略對像。
 
 ### 其他角色
 
@@ -121,8 +101,7 @@
 
 <!-- end list -->
 
-  - 生日：12月1日 星座：[射手座](https://zh.wikipedia.org/wiki/射手座 "wikilink")
-    血型：[O型](https://zh.wikipedia.org/wiki/O型 "wikilink") 身高:172cm
+  - 生日：12月1日 星座：[射手座](https://zh.wikipedia.org/wiki/射手座 "wikilink") 血型：[O型](https://zh.wikipedia.org/wiki/O型 "wikilink") 身高:172cm
 
 <!-- end list -->
 
@@ -133,9 +112,7 @@
 
 <!-- end list -->
 
-  - 生日：2月1日 星座：[水瓶座](https://zh.wikipedia.org/wiki/水瓶座 "wikilink")
-    血型：[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")
-    身高：152cm 三圍：79/55/79
+  - 生日：2月1日 星座：[水瓶座](https://zh.wikipedia.org/wiki/水瓶座 "wikilink") 血型：[B型](https://zh.wikipedia.org/wiki/B型 "wikilink") 身高：152cm 三圍：79/55/79
 
 <!-- end list -->
 
@@ -146,9 +123,7 @@
 
 <!-- end list -->
 
-  - 生日：8月20日 星座：[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")
-    血型：[A型](https://zh.wikipedia.org/wiki/A型 "wikilink") 身高：164cm
-    三圍:88/56/90
+  - 生日：8月20日 星座：[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink") 血型：[A型](https://zh.wikipedia.org/wiki/A型 "wikilink") 身高：164cm 三圍:88/56/90
 
 <!-- end list -->
 
@@ -168,8 +143,7 @@
   -
     成西鎮商店街唯一的[洋食店](https://zh.wikipedia.org/wiki/洋食 "wikilink")「[落武者](https://zh.wikipedia.org/wiki/落武者 "wikilink")」之老闆，本名不詳。從小看著匠等人長大，有時會給予他們長輩的經驗談。年輕時似乎曾暗戀過樂子。
   -
-    小奈美的媽媽，在PC版儘被提及，於PS2版才有登場。\[30\]
-    在丈夫過世後一手將小奈美拉拔長大。外表相當年輕，和小奈美站在一起像姊妹一般。和小奈美相比個性較為豪爽、不拘小節。平時因為工作不在家。由於性格因素，被匠認為與小奈美母女立場顛倒。
+    小奈美的媽媽，在PC版儘被提及，於PS2版才有登場。\[30\] 在丈夫過世後一手將小奈美拉拔長大。外表相當年輕，和小奈美站在一起像姊妹一般。和小奈美相比個性較為豪爽、不拘小節。平時因為工作不在家。由於性格因素，被匠認為與小奈美母女立場顛倒。
   -
     商店街「川波商店」的店主，從小看著匠等人長大，是一個溫柔的老婆婆。
   - \[31\]
@@ -189,21 +163,13 @@
 
 ### Fandisc
 
-2005年12月16日，HOOK發行名為《_summer
-Life》的[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")，在該作中《_summer》以及HOOK的前作《Like
-Life》的部分人物皆有登場。劇情敘述在這兩款遊戲的數年後、兩作主角家庭——海津家及高坂家的短篇故事。\[41\]\[42\]\[43\]
-2015年3月16日HOOKSOFT為了紀念成立15周年，在限制期間4月13日前公開免費下載《_summerLife》。\[44\]
+2005年12月16日，HOOK發行名為《_summer Life》的[Fandisc](https://zh.wikipedia.org/wiki/Fandisc "wikilink")，在該作中《_summer》以及HOOK的前作《Like Life》的部分人物皆有登場。劇情敘述在這兩款遊戲的數年後、兩作主角家庭——海津家及高坂家的短篇故事。\[41\]\[42\]\[43\] 2015年3月16日HOOKSOFT為了紀念成立15周年，在限制期間4月13日前公開免費下載《_summerLife》。\[44\]
 
-2014 年、HOOKSOFT為了紀念旗下畫師らっこ引退，於該年1月27日發售名為《HOOKSOFT RAKKO The Premium BOX
-Plus
-α》的作品集（DL版為2013年12月20日發行），內容為該名畫師過去於HOOKSOFT參與製作的所有作品，《_summer新装版》亦是其中之
-一。\[45\]
+2014 年、HOOKSOFT為了紀念旗下畫師らっこ引退，於該年1月27日發售名為《HOOKSOFT RAKKO The Premium BOX Plus α》的作品集（DL版為2013年12月20日發行），內容為該名畫師過去於HOOKSOFT參與製作的所有作品，《_summer新装版》亦是其中之 一。\[45\]
 
 ### OVA
 
-日本於2006年10月27日發售名為《_summer
-season》的[OVA動畫第](https://zh.wikipedia.org/wiki/OVA "wikilink")1集
-、於2007年1月26日發售第2集。\[46\]\[47\]\[48\]\[49\]\[50\]劇情是PC版遊戲改編的短篇故事，由Softgarage發售，片頭曲《ソーダ水とひこうき雲》和片尾曲《_summer》都由きむしん作詞和編曲、福笑太郎作曲、小坂優舞演唱。
+日本於2006年10月27日發售名為《_summer season》的[OVA動畫第](https://zh.wikipedia.org/wiki/OVA "wikilink")1集 、於2007年1月26日發售第2集。\[46\]\[47\]\[48\]\[49\]\[50\]劇情是PC版遊戲改編的短篇故事，由Softgarage發售，片頭曲《ソーダ水とひこうき雲》和片尾曲《_summer》都由きむしん作詞和編曲、福笑太郎作曲、小坂優舞演唱。
 
 ### 音樂CD
 
@@ -211,20 +177,11 @@ season》的[OVA動畫第](https://zh.wikipedia.org/wiki/OVA "wikilink")1集
 
 ### 廣播劇CD
 
-本作的[廣播劇CD](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")，有 公司（Musik
-Produktion Schwarzwald，簡稱MPS）發售的《廣播劇CDsummer〜everblue〜 days:01》、《廣播劇CD
-summer〜everblue〜 days:02》、《廣播劇CD summer〜everblue〜
-days:03》等三部，是根據PC版改編的[廣播劇](../Page/廣播劇.md "wikilink")。
-以及Softgarage公司於2006年9月29日發售的《_summerドラマCD プロローグ編》，是OVA故事的改編廣播劇。
+本作的[廣播劇CD](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")，有 公司（Musik Produktion Schwarzwald，簡稱MPS）發售的《廣播劇CDsummer〜everblue〜 days:01》、《廣播劇CD summer〜everblue〜 days:02》、《廣播劇CD summer〜everblue〜 days:03》等三部，是根據PC版改編的[廣播劇](../Page/廣播劇.md "wikilink")。 以及Softgarage公司於2006年9月29日發售的《_summerドラマCD プロローグ編》，是OVA故事的改編廣播劇。
 
 ### 書籍
 
-本作的相關設定書，有HOOK官方出版的《_summer ビジュアルファンブック》，是PC版的設定集，還有名為《_summer\#\#
-公式パーフェクトビジュアルブック》 的PS2版設定集。
-小說方面有官方出版的4本[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")，分別是《_summer〈1〉小奈美編》、《_summer〈2〉千輪&沙奈編》、《_summer〈3〉若菜&由乃編》、
-《_summer〈4〉オムニバス》
-。劇情由PC版改編，每一本都是不相關的短篇故事，女主角從書名即可得知。雖然書名沒有註明，但第三本有包括日向子和信乃為女主角的故事\[51\]。第四本是所有主要女角皆有登場的短篇小說集\[52\]。內容皆為十八禁，作者皆為
-。
+本作的相關設定書，有HOOK官方出版的《_summer ビジュアルファンブック》，是PC版的設定集，還有名為《_summer\#\# 公式パーフェクトビジュアルブック》 的PS2版設定集。 小說方面有官方出版的4本[小說](https://zh.wikipedia.org/wiki/小說 "wikilink")，分別是《_summer〈1〉小奈美編》、《_summer〈2〉千輪&沙奈編》、《_summer〈3〉若菜&由乃編》、 《_summer〈4〉オムニバス》 。劇情由PC版改編，每一本都是不相關的短篇故事，女主角從書名即可得知。雖然書名沒有註明，但第三本有包括日向子和信乃為女主角的故事\[51\]。第四本是所有主要女角皆有登場的短篇小說集\[52\]。內容皆為十八禁，作者皆為 。
 
 ## 評價
 
@@ -251,23 +208,10 @@ days:03》等三部，是根據PC版改編的[廣播劇](../Page/廣播劇.md "w
 ## 外部連結
 
   - [_summer官方網站 (18禁)](http://www.hook-net.jp/_summer/)
-  - [_summer\#\#官方網站 (Wayback
-    Machine)](https://web.archive.org/web/20120111142231/http://www.goodnavigate.com/GN/products/_summer/)
+  - [_summer\#\#官方網站 (Wayback Machine)](https://web.archive.org/web/20120111142231/http://www.goodnavigate.com/GN/products/_summer/)
+  - [_summer season官方網站 (Wayback Machine)](https://web.archive.org/web/20160913105533/http://anime.softgarage.com/_summer/)
 
-  - [_summer season官方網站 (Wayback
-    Machine)](https://web.archive.org/web/20160913105533/http://anime.softgarage.com/_summer/)
-
-
-[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink")
-[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:2006年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2006年日本OVA動畫 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
-[Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
+[Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink") [Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:2006年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2006年日本OVA動畫 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:後宮型作品](https://zh.wikipedia.org/wiki/Category:後宮型作品 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")
 
 1.
 2.

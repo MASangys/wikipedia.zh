@@ -1,6 +1,4 @@
-《**魔界王子 devils and
-realist**》是由[高殿圓原作](https://zh.wikipedia.org/wiki/高殿圓 "wikilink")、[雪廣歌子作畫的](https://zh.wikipedia.org/wiki/雪廣歌子 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於《[Comic
-ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》（[一迅社](../Page/一迅社.md "wikilink")）連載中。2012年12月發表該作品決定動畫化的消息\[1\]，並在2013年7月至9月播放。
+《**魔界王子 devils and realist**》是由[高殿圓原作](https://zh.wikipedia.org/wiki/高殿圓 "wikilink")、[雪廣歌子作畫的](https://zh.wikipedia.org/wiki/雪廣歌子 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於《[Comic ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》（[一迅社](../Page/一迅社.md "wikilink")）連載中。2012年12月發表該作品決定動畫化的消息\[1\]，並在2013年7月至9月播放。
 
 ## 登場人物
 
@@ -39,8 +37,7 @@ ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》（[一迅社](../Page/一迅�
 
   -
     懷特寧家管家，從小照顧威廉，賽西爾家代代都是特懷寧家族的管家。在威廉父母雙亡時陪在威廉身邊，即使威廉破產後也一直待在威廉身邊，沒有像其他傭人一樣離去，喜好賭博，代替克洛斯比牧師成為了暫時代理牧師，現為神職人員。
-    實為太陽的統治者、光之審判者、司掌北方·天體運行、身為地界守護者和神的御前天使、為米迦勒用一根羽毛所救的單翼熾天使，天界名為烏利艾爾（=[烏列爾](../Page/烏列爾.md "wikilink")，Uriel）。曾為四大天使之一的「懺悔的天使」，遵循天界的法規向人界的罪人施予神罰。
-    曾多次以殘酷的手段迫使所羅門接受神諭的淨化，但最後仍未能成功。曾想點化威廉，卻因威廉在年幼時與父母前往雅士谷馬場觀看賽馬時，馬車於路途中出了事故，與父母三人當中，只剩威廉一人毫髮無傷的活了下來，似乎因這一心結而開始打從心底的排斥神的存在，導致無法被點化。於漫畫第46話被識破其並非真正的凱文·賽西爾。實為烏利艾爾由威廉雙親的葬禮開始為監視他而以凱文的身份留在他身邊。但慢慢對威廉產生出感情，開始重視他甚至為無法對威廉施以神諭的淨化而鬆一口氣。在第43話中從開膛手傑克手中救了威廉，最後被其所原諒並把其放在第一位。後來在威廉等人面前暴露出抖S屬性。本人認為比起米迦勒的憤怒，威廉的安危更重要。於漫畫第59話中為救威廉而進入魔界，即使會被墮天亦不在乎。
+    實為太陽的統治者、光之審判者、司掌北方·天體運行、身為地界守護者和神的御前天使、為米迦勒用一根羽毛所救的單翼熾天使，天界名為烏利艾爾（=[烏列爾](../Page/烏列爾.md "wikilink")，Uriel）。曾為四大天使之一的「懺悔的天使」，遵循天界的法規向人界的罪人施予神罰。 曾多次以殘酷的手段迫使所羅門接受神諭的淨化，但最後仍未能成功。曾想點化威廉，卻因威廉在年幼時與父母前往雅士谷馬場觀看賽馬時，馬車於路途中出了事故，與父母三人當中，只剩威廉一人毫髮無傷的活了下來，似乎因這一心結而開始打從心底的排斥神的存在，導致無法被點化。於漫畫第46話被識破其並非真正的凱文·賽西爾。實為烏利艾爾由威廉雙親的葬禮開始為監視他而以凱文的身份留在他身邊。但慢慢對威廉產生出感情，開始重視他甚至為無法對威廉施以神諭的淨化而鬆一口氣。在第43話中從開膛手傑克手中救了威廉，最後被其所原諒並把其放在第一位。後來在威廉等人面前暴露出抖S屬性。本人認為比起米迦勒的憤怒，威廉的安危更重要。於漫畫第59話中為救威廉而進入魔界，即使會被墮天亦不在乎。
 
 <!-- end list -->
 
@@ -371,12 +368,9 @@ ISBN 978-4-7580-3372-5<small>（限定版）</small></p></td>
 
 皆由一迅社出版。
 
-  - アニメ「魔界王子 devils and realist」イントロダクションガイド：2013年7月6日發售、ISBN
-    978-4-7580-1332-1
-  - 雪広うたこアートワークス 魔界王子 devils and realist イラスト集：2013年9月25日發售、ISBN
-    978-4-7580-5850-6
-  - 魔界王子 devils and realist 公式ファンブック 王子たちとのお茶会：2013年9月25日發售、ISBN
-    978-4-7580-5855-1
+  - アニメ「魔界王子 devils and realist」イントロダクションガイド：2013年7月6日發售、ISBN 978-4-7580-1332-1
+  - 雪広うたこアートワークス 魔界王子 devils and realist イラスト集：2013年9月25日發售、ISBN 978-4-7580-5850-6
+  - 魔界王子 devils and realist 公式ファンブック 王子たちとのお茶会：2013年9月25日發售、ISBN 978-4-7580-5855-1
 
 ## 電視動畫
 
@@ -402,15 +396,13 @@ ISBN 978-4-7580-3372-5<small>（限定版）</small></p></td>
 
   - 片頭曲「Believe My Dice」
     作詞 - hotaru，作曲、編曲 - eba
-    歌 -
-    威廉（[江口拓也](../Page/江口拓也.md "wikilink")）、但他林（[寺島拓篤](../Page/寺島拓篤.md "wikilink")）、西迪（[松岡禎丞](../Page/松岡禎丞.md "wikilink")）、卡米奧（[柿原徹也](../Page/柿原徹也.md "wikilink")）
+    歌 - 威廉（[江口拓也](../Page/江口拓也.md "wikilink")）、但他林（[寺島拓篤](../Page/寺島拓篤.md "wikilink")）、西迪（[松岡禎丞](../Page/松岡禎丞.md "wikilink")）、卡米奧（[柿原徹也](../Page/柿原徹也.md "wikilink")）
 
 <!-- end list -->
 
   - 片尾曲「A Shadow's Love Song」
     作詞 - hotaru，作曲、編曲 - eba
-    歌 -
-    威廉（[江口拓也](../Page/江口拓也.md "wikilink")）、但他林（[寺島拓篤](../Page/寺島拓篤.md "wikilink")）、西迪（[松岡禎丞](../Page/松岡禎丞.md "wikilink")）、卡米奧（[柿原徹也](../Page/柿原徹也.md "wikilink")）
+    歌 - 威廉（[江口拓也](../Page/江口拓也.md "wikilink")）、但他林（[寺島拓篤](../Page/寺島拓篤.md "wikilink")）、西迪（[松岡禎丞](../Page/松岡禎丞.md "wikilink")）、卡米奧（[柿原徹也](../Page/柿原徹也.md "wikilink")）
 
 ### 各集標題
 
@@ -603,22 +595,15 @@ ISBN 978-4-7580-3372-5<small>（限定版）</small></p></td>
 
 ## 外部連結
 
-  - [一迅社WEB | 「魔界王子 devils and
-    realist」特設網站](http://www.ichijinsha.co.jp/special/zerosum/makaiouji/)
+  - [一迅社WEB | 「魔界王子 devils and realist」特設網站](http://www.ichijinsha.co.jp/special/zerosum/makaiouji/)
 
   - [TV動畫『魔界王子』特別網站](http://makai-ouji.com/index.html)
 
-  - [東京電視台《魔界王子 devils and
-    realist》](http://www.tv-tokyo.co.jp/anime/makai-ouji/)
+  - [東京電視台《魔界王子 devils and realist》](http://www.tv-tokyo.co.jp/anime/makai-ouji/)
 
   - [魔界王子 devils and realist 代理王の秘宝](http://makaiouji.channel.or.jp/)
 
   -
-[Category:Comic_ZERO-SUM](https://zh.wikipedia.org/wiki/Category:Comic_ZERO-SUM "wikilink")
-[Category:惡魔題材漫畫](https://zh.wikipedia.org/wiki/Category:惡魔題材漫畫 "wikilink")
-[Category:英國背景作品](https://zh.wikipedia.org/wiki/Category:英國背景作品 "wikilink")
-[Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink")
-[Category:惡魔題材動畫](https://zh.wikipedia.org/wiki/Category:惡魔題材動畫 "wikilink")
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
+[Category:Comic_ZERO-SUM](https://zh.wikipedia.org/wiki/Category:Comic_ZERO-SUM "wikilink") [Category:惡魔題材漫畫](https://zh.wikipedia.org/wiki/Category:惡魔題材漫畫 "wikilink") [Category:英國背景作品](https://zh.wikipedia.org/wiki/Category:英國背景作品 "wikilink") [Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink") [Category:惡魔題材動畫](https://zh.wikipedia.org/wiki/Category:惡魔題材動畫 "wikilink") [Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
 
 1.

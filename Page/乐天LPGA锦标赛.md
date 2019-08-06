@@ -70,7 +70,6 @@
 
   - [寇欧琳纳度假村](http://www.koolina.com/)
 
-[Category:LPGA巡回赛赛事](https://zh.wikipedia.org/wiki/Category:LPGA巡回赛赛事 "wikilink")
-[Category:夏威夷州高尔夫](https://zh.wikipedia.org/wiki/Category:夏威夷州高尔夫 "wikilink")
+[Category:LPGA巡回赛赛事](https://zh.wikipedia.org/wiki/Category:LPGA巡回赛赛事 "wikilink") [Category:夏威夷州高尔夫](https://zh.wikipedia.org/wiki/Category:夏威夷州高尔夫 "wikilink")
 
 1.

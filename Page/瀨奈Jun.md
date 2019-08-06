@@ -1,6 +1,4 @@
-**瀬奈じゅん**（せな じゅん、SENA JUN
-，），日本女演員，生於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")，血型AB型，身高168公分，前[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[月組首席TOP](https://zh.wikipedia.org/wiki/月組 "wikilink")
-STAR（主演男役）。擁有清爽的樣貌與精湛的舞蹈技巧，是舞者型的演員，出道早期就因高超的舞技受到矚目，至今仍擁有極高評價，是具有明星氣質及娛樂細胞的藝人。目前活躍於舞台劇、戲劇，隸屬[東宝芸能](https://zh.wikipedia.org/wiki/東宝芸能 "wikilink")。
+**瀬奈じゅん**（せな じゅん、SENA JUN ，），日本女演員，生於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[杉並區](../Page/杉並區.md "wikilink")，血型AB型，身高168公分，前[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")[月組首席TOP](https://zh.wikipedia.org/wiki/月組 "wikilink") STAR（主演男役）。擁有清爽的樣貌與精湛的舞蹈技巧，是舞者型的演員，出道早期就因高超的舞技受到矚目，至今仍擁有極高評價，是具有明星氣質及娛樂細胞的藝人。目前活躍於舞台劇、戲劇，隸屬[東宝芸能](https://zh.wikipedia.org/wiki/東宝芸能 "wikilink")。
 
 ## 經歷
 
@@ -15,14 +13,11 @@ STAR（主演男役）。擁有清爽的樣貌與精湛的舞蹈技巧，是舞�
 2004年，在東京、大阪、名古屋三個城市與月組的生徒一起舉辦了個人首個演唱會《Sena\!》。
 2004年，12月16日內定為月組次期主演男役，12月17日組替到月組。
 2005年，在彩輝直的退團公演《Elisabeth》中擔綱女主角伊麗莎白，再次出演女役。
-2005年，彩輝退團後，就任月組主演男役。在披露目之前，7月在梅田藝術劇場演出了《Ernest In
-Love》，10月在寶塚大劇場以《Jazzyな妖精たち》披露。
+2005年，彩輝退團後，就任月組主演男役。在披露目之前，7月在梅田藝術劇場演出了《Ernest In Love》，10月在寶塚大劇場以《Jazzyな妖精たち》披露。
 
 2006年，去雪組特別出演了《凡爾賽玫瑰》中的安德烈一角。
-2007年，寫真集《Viento Espanol》發售。4月，舉辦了與寫真集同樣以西班牙作為主題的Dinner Show《El
-Viento》。
-2008年，出演《Me and my
-Girl》中Bill一角，之前在寶塚Graph雜誌的企劃中曾經出過此劇的扮裝寫真並獲得好評。相手彩乃以此劇退團。
+2007年，寫真集《Viento Espanol》發售。4月，舉辦了與寫真集同樣以西班牙作為主題的Dinner Show《El Viento》。
+2008年，出演《Me and my Girl》中Bill一角，之前在寶塚Graph雜誌的企劃中曾經出過此劇的扮裝寫真並獲得好評。相手彩乃以此劇退團。
 2009年，月組再次公演伊麗莎白。瀨奈第三次出演此劇，出演死神。
 2009年，7月6日退團發佈。以《Last play/Heat on Beat\!》作為退團公演，12月27日東寶千秋正式畢業。
 2010年，寶塚退團後，初次舞台劇作品為再度演出《Elisabeth》中Elisabeth一角，此為他第四次演出《Elisabeth》。
@@ -40,8 +35,7 @@ Girl》中Bill一角，之前在寶塚Graph雜誌的企劃中曾經出過此劇�
   - 1993年『ベイ・シティ・ブルース』／『イッツ・ア・ラブ・ストーリー』（宝塚大劇場、東京宝塚劇場）
   - 1993年『[アップル・ツリー](https://zh.wikipedia.org/wiki/アップル・ツリー "wikilink")』（[宝塚バウホール](https://zh.wikipedia.org/wiki/宝塚バウホール "wikilink")、[日本青年館](../Page/日本青年館.md "wikilink")、[愛知厚生年金会館](https://zh.wikipedia.org/wiki/愛知厚生年金会館 "wikilink")）
   - 1994年『サラン・愛』（宝塚バウホール）
-  - 1994年『[ブラック・ジャック
-    危険な賭け](https://zh.wikipedia.org/wiki/ブラック・ジャック_危険な賭け "wikilink")』／『火の鳥』（宝塚大劇場、東京宝塚劇場）
+  - 1994年『[ブラック・ジャック 危険な賭け](https://zh.wikipedia.org/wiki/ブラック・ジャック_危険な賭け "wikilink")』／『火の鳥』（宝塚大劇場、東京宝塚劇場）
   - 1994年『アロー・アロー・キャメロット?』（宝塚バウホール）
   - 1994年『冬の嵐、ペテルブルグに死す』新人公演：ポルフィリー／『ハイパー・ステージ\!』（宝塚大劇場）
   - 1995年『哀しみのコルドバ」新人公演：マリオ／『メガ・ヴィジョン』（宝塚大劇場、劇場飛天、東京宝塚劇場）
@@ -86,19 +80,15 @@ Girl》中Bill一角，之前在寶塚Graph雜誌的企劃中曾經出過此劇�
   - 2003年『[二都物語](https://zh.wikipedia.org/wiki/二都物語 "wikilink")』シドニー・カートン（宝塚バウホール、日本青年館）
   - 2004年『天使の季節』アッサーラ王子／『アプローズ・タカラヅカ\!』KILLER-K（宝塚大劇場、東京宝塚劇場）
   - 2004年『[飛鳥夕映え](https://zh.wikipedia.org/wiki/飛鳥夕映え "wikilink")』[中臣鎌足](https://zh.wikipedia.org/wiki/中臣鎌足 "wikilink")・[軽皇子](https://zh.wikipedia.org/wiki/軽皇子 "wikilink")（役替わり）／『[タカラヅカ絢爛II](https://zh.wikipedia.org/wiki/タカラヅカ絢爛II "wikilink")』ラサロ（月組特別出演）（宝塚大劇場、東京宝塚劇場）
-  - 2004年
-    コンサート「SENA\!」（日本青年館、愛知厚生年金会館、[大阪NHKホール](https://zh.wikipedia.org/wiki/大阪NHKホール "wikilink")）
+  - 2004年 コンサート「SENA\!」（日本青年館、愛知厚生年金会館、[大阪NHKホール](https://zh.wikipedia.org/wiki/大阪NHKホール "wikilink")）
 
 ### 月組‧月組TOP STAR時代
 
   - 2005年『[エリザベート](https://zh.wikipedia.org/wiki/エリザベート_\(宝塚歌劇\) "wikilink")』[エリザベート](https://zh.wikipedia.org/wiki/エリーザベト_\(オーストリア皇后\) "wikilink")（宝塚大劇場、東京宝塚劇場）
   - 2005年　[羽山紀代美振付家](https://zh.wikipedia.org/wiki/羽山紀代美 "wikilink")30周年記念ダンシング・リサイタル『ゴールデン・ステップス-1975～2005-』(宝塚大劇場)
   - 2005年7月『Ernest in Love』アーネスト(ジャック)（梅田芸術劇場）＊トップお披露目公演
-  - 2005年9月～12月『[JAZZYな妖精たち](https://zh.wikipedia.org/wiki/JAZZYな妖精たち "wikilink")』パトリック・ゲール／REVUE
-    OF DREAMS』（宝塚大劇場・東京宝塚劇場）＊宝塚・東京お披露目公演
-  - 2006年1月～2月
-    『[あかねさす紫の花](https://zh.wikipedia.org/wiki/あかねさす紫の花 "wikilink")』[大海人皇子](../Page/天武天皇.md "wikilink")／『REVUE
-    OF DREAMS』（中日劇場）
+  - 2005年9月～12月『[JAZZYな妖精たち](https://zh.wikipedia.org/wiki/JAZZYな妖精たち "wikilink")』パトリック・ゲール／REVUE OF DREAMS』（宝塚大劇場・東京宝塚劇場）＊宝塚・東京お披露目公演
+  - 2006年1月～2月 『[あかねさす紫の花](https://zh.wikipedia.org/wiki/あかねさす紫の花 "wikilink")』[大海人皇子](../Page/天武天皇.md "wikilink")／『REVUE OF DREAMS』（中日劇場）
   - 2006年3月『ベルサイユのばら－オスカル編－』アンドレ（雪組特別出演）（宝塚大劇場）
   - 2006年5月～8月『暁のローマ』[ブルータス](https://zh.wikipedia.org/wiki/マルクス・ユニウス・ブルートゥス "wikilink")／『レ・ビジュー・ブリアン』（宝塚大劇場・東京宝塚劇場）
   - 2006年10月『あかねさす紫の花』大海人皇子／『レ・ビジュー・ブリアン』（全国ツアー）
@@ -106,9 +96,7 @@ Girl》中Bill一角，之前在寶塚Graph雜誌的企劃中曾經出過此劇�
   - 2007年5月～6月『[ダル・レークの恋](https://zh.wikipedia.org/wiki/ダル・レークの恋 "wikilink")』ラッチマン（全国ツアー）
   - 2007年8月～11月『MAHOROBA』[ヤマトタケル](https://zh.wikipedia.org/wiki/ヤマトタケル "wikilink")／『マジシャンの憂鬱』オウス/シャンドール（宝塚大劇場・東京宝塚劇場）
   - 2007年12月～2008年1月『A"R"ex』アレック（シアタードラマシティ・日本青年館）
-  - 2008年3月～7月『[ME AND MY
-    GIRL](https://zh.wikipedia.org/wiki/ミー・アンド・マイガール "wikilink")』
-    ウィリアム・スナイブスン(ビル)（宝塚大劇場・東京宝塚劇場）
+  - 2008年3月～7月『[ME AND MY GIRL](https://zh.wikipedia.org/wiki/ミー・アンド・マイガール "wikilink")』 ウィリアム・スナイブスン(ビル)（宝塚大劇場・東京宝塚劇場）
   - 2008年9月『[グレート・ギャツビー](https://zh.wikipedia.org/wiki/グレート・ギャツビー "wikilink")』ジェイ・ギャツビー（日生劇場）
   - 2008年11月～2009年2月『夢の浮橋』[匂宮](https://zh.wikipedia.org/wiki/匂宮 "wikilink")／『Apasionado\!\!』（宝塚大劇場・東京宝塚劇場）
   - 2009年3月『SAUDADE』J（ジョッタ）（シアタードラマシティ・[昭和女子大学人見記念講堂](https://zh.wikipedia.org/wiki/昭和女子大学 "wikilink")）
@@ -119,36 +107,22 @@ Girl》中Bill一角，之前在寶塚Graph雜誌的企劃中曾經出過此劇�
 
 ### 舞台劇
 
-  - 『[エリザベート](https://zh.wikipedia.org/wiki/エリザベート_\(ミュージカル\) "wikilink")』
-    [エリザベート](https://zh.wikipedia.org/wiki/エリーザベト_\(オーストリア皇后\) "wikilink")（2010年8～10月[帝国劇場](https://zh.wikipedia.org/wiki/帝国劇場 "wikilink")）　＊[朝海ひかるとWキャスト](https://zh.wikipedia.org/wiki/朝海ひかる "wikilink")
-  - 『[アンナ・カレーニナ](https://zh.wikipedia.org/wiki/アンナ・カレーニナ "wikilink")』
-    アンナ・カレーニナ　（2010年12月～2011年2月[シアター・クリエ](https://zh.wikipedia.org/wiki/シアター・クリエ "wikilink")）
-    ＊[一路真輝とWキャスト](https://zh.wikipedia.org/wiki/一路真輝 "wikilink")
-  - 『[三銃士](https://zh.wikipedia.org/wiki/三銃士 "wikilink")』
-    ミレディ　（2011年7月17日～8月26日帝国劇場、9月3日～9月28日博多座）
-  - 『[ニューヨークに行きたい\!\!](https://zh.wikipedia.org/wiki/ニューヨークに行きたい!! "wikilink")』
-    リサ （2011年10月29日～11月20日帝国劇場、11月25〜29日梅田芸術劇場）　
-  - 『ビューティフル・サンデイ』三枝ちひろ（2012年2月23日\~3月4日[ル テアトル銀座 by
-    PARCO](https://zh.wikipedia.org/wiki/ル_テアトル銀座_by_PARCO "wikilink")(東京公演)、3月10日\~3月11日[シアターBRAVA\!](https://zh.wikipedia.org/wiki/シアターBRAVA! "wikilink")(大阪公演)、3月14日[青少年文化センターアートピアホール](https://zh.wikipedia.org/wiki/青少年文化センターアートピアホール "wikilink")(名古屋公演)、3月16日\~3月18日[兵庫県立芸術文化センター阪急中ホール](https://zh.wikipedia.org/wiki/兵庫県立芸術文化センター "wikilink")(兵庫公演)）
-  - 『エリザベート』
-    エリザベート（2012年5月9日\~6月27日[帝国劇場](https://zh.wikipedia.org/wiki/帝国劇場 "wikilink")、7月5日\~26日[博多座](https://zh.wikipedia.org/wiki/博多座 "wikilink")、8月3日\~26日[中日劇場](https://zh.wikipedia.org/wiki/中日劇場 "wikilink")、9月1日\~28日[梅田芸術劇場](https://zh.wikipedia.org/wiki/梅田芸術劇場 "wikilink")）　＊[春野寿美礼](../Page/春野寿美礼.md "wikilink")とWキャスト　
-  - 『ラストダンス〜the　musical　越路吹雪〜』　2012/11/16 東京　かめありリリオホール※プレビュー公演・11/20
-    長野　ホクト文化ホール　中ホール　・11/23 山梨　東京エレクトロン韮崎文化ホールBREEZE・11/27
-    金沢　北國新聞赤羽ホール・12/4〜12/19　東京シアタークリエ・12/29〜12/30
-    大阪　梅田芸術劇場　シアタードラマシティ
+  - 『[エリザベート](https://zh.wikipedia.org/wiki/エリザベート_\(ミュージカル\) "wikilink")』 [エリザベート](https://zh.wikipedia.org/wiki/エリーザベト_\(オーストリア皇后\) "wikilink")（2010年8～10月[帝国劇場](https://zh.wikipedia.org/wiki/帝国劇場 "wikilink")）　＊[朝海ひかるとWキャスト](https://zh.wikipedia.org/wiki/朝海ひかる "wikilink")
+  - 『[アンナ・カレーニナ](https://zh.wikipedia.org/wiki/アンナ・カレーニナ "wikilink")』 アンナ・カレーニナ　（2010年12月～2011年2月[シアター・クリエ](https://zh.wikipedia.org/wiki/シアター・クリエ "wikilink")） ＊[一路真輝とWキャスト](https://zh.wikipedia.org/wiki/一路真輝 "wikilink")
+  - 『[三銃士](https://zh.wikipedia.org/wiki/三銃士 "wikilink")』 ミレディ　（2011年7月17日～8月26日帝国劇場、9月3日～9月28日博多座）
+  - 『[ニューヨークに行きたい\!\!](https://zh.wikipedia.org/wiki/ニューヨークに行きたい!! "wikilink")』 リサ （2011年10月29日～11月20日帝国劇場、11月25〜29日梅田芸術劇場）　
+  - 『ビューティフル・サンデイ』三枝ちひろ（2012年2月23日\~3月4日[ル テアトル銀座 by PARCO](https://zh.wikipedia.org/wiki/ル_テアトル銀座_by_PARCO "wikilink")(東京公演)、3月10日\~3月11日[シアターBRAVA\!](https://zh.wikipedia.org/wiki/シアターBRAVA! "wikilink")(大阪公演)、3月14日[青少年文化センターアートピアホール](https://zh.wikipedia.org/wiki/青少年文化センターアートピアホール "wikilink")(名古屋公演)、3月16日\~3月18日[兵庫県立芸術文化センター阪急中ホール](https://zh.wikipedia.org/wiki/兵庫県立芸術文化センター "wikilink")(兵庫公演)）
+  - 『エリザベート』 エリザベート（2012年5月9日\~6月27日[帝国劇場](https://zh.wikipedia.org/wiki/帝国劇場 "wikilink")、7月5日\~26日[博多座](https://zh.wikipedia.org/wiki/博多座 "wikilink")、8月3日\~26日[中日劇場](https://zh.wikipedia.org/wiki/中日劇場 "wikilink")、9月1日\~28日[梅田芸術劇場](https://zh.wikipedia.org/wiki/梅田芸術劇場 "wikilink")）　＊[春野寿美礼](../Page/春野寿美礼.md "wikilink")とWキャスト　
+  - 『ラストダンス〜the　musical　越路吹雪〜』　2012/11/16 東京　かめありリリオホール※プレビュー公演・11/20 長野　ホクト文化ホール　中ホール　・11/23 山梨　東京エレクトロン韮崎文化ホールBREEZE・11/27 金沢　北國新聞赤羽ホール・12/4〜12/19　東京シアタークリエ・12/29〜12/30 大阪　梅田芸術劇場　シアタードラマシティ
   - 音楽朗読劇「イキヌクキセキ〜十年目の願い〜」（2013年4月10日 - 13日、東京グローブ座）
   - 『エニシング・ゴーズ』2013年10月7日～10月28日 東京帝国劇場 リノ役（出演予定）
 
 ### 演場會
 
-  - 瀬奈じゅんコンサート『A
-    Live』（2010年5月[赤坂ACTシアター](https://zh.wikipedia.org/wiki/赤坂ACTシアター "wikilink")・[NHK大阪ホール](https://zh.wikipedia.org/wiki/NHK大阪ホール "wikilink")）
-  - 瀬奈じゅん Concert　 『ＡLiveⅡ～Handsome Woman～』
-    (2011年4月1\~5日[赤坂ACTシアター](https://zh.wikipedia.org/wiki/赤坂ACTシアター "wikilink")、2011年4月9～10日[NHK大阪ホール](https://zh.wikipedia.org/wiki/NHK大阪ホール "wikilink")）
-  - スペシャルゲスト「M.クンツェ＆S.リーヴァイの世界～2nd Season～」Special Version
-    （2012年3月25日[東京国際フォーラムホールC](https://zh.wikipedia.org/wiki/東京国際フォーラムホールC "wikilink")）
-  - 瀬奈じゅんコンサート 『ALive Final～Handsome
-    Woman～』(2013年8月2\~4日[東京国際フォーラムCホール](https://zh.wikipedia.org/wiki/東京国際フォーラムCホール "wikilink")、2013年8月10\~11日大阪[サンケイホールブリーゼ](https://zh.wikipedia.org/wiki/サンケイホールブリーゼ "wikilink")）
+  - 瀬奈じゅんコンサート『A Live』（2010年5月[赤坂ACTシアター](https://zh.wikipedia.org/wiki/赤坂ACTシアター "wikilink")・[NHK大阪ホール](https://zh.wikipedia.org/wiki/NHK大阪ホール "wikilink")）
+  - 瀬奈じゅん Concert　 『ＡLiveⅡ～Handsome Woman～』 (2011年4月1\~5日[赤坂ACTシアター](https://zh.wikipedia.org/wiki/赤坂ACTシアター "wikilink")、2011年4月9～10日[NHK大阪ホール](https://zh.wikipedia.org/wiki/NHK大阪ホール "wikilink")）
+  - スペシャルゲスト「M.クンツェ＆S.リーヴァイの世界～2nd Season～」Special Version （2012年3月25日[東京国際フォーラムホールC](https://zh.wikipedia.org/wiki/東京国際フォーラムホールC "wikilink")）
+  - 瀬奈じゅんコンサート 『ALive Final～Handsome Woman～』(2013年8月2\~4日[東京国際フォーラムCホール](https://zh.wikipedia.org/wiki/東京国際フォーラムCホール "wikilink")、2013年8月10\~11日大阪[サンケイホールブリーゼ](https://zh.wikipedia.org/wiki/サンケイホールブリーゼ "wikilink")）
 
 ### 配音
 
@@ -158,6 +132,4 @@ Girl》中Bill一角，之前在寶塚Graph雜誌的企劃中曾經出過此劇�
 
   - 『女優 麗子〜炎のように』（2013年3月6日、テレビ東京） - 浅丘ルリ子 役
 
-[Category:寶塚歌劇團](https://zh.wikipedia.org/wiki/Category:寶塚歌劇團 "wikilink")
-[Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink")
-[Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
+[Category:寶塚歌劇團](https://zh.wikipedia.org/wiki/Category:寶塚歌劇團 "wikilink") [Category:日本女演員](https://zh.wikipedia.org/wiki/Category:日本女演員 "wikilink") [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")

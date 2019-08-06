@@ -1,5 +1,4 @@
-**安东尼·雷克斯·亨特**（，），英裔美国生物学家，索尔克生物研究所和美国加州大学圣地亚哥分校生物学教授。
-他於2018年榮獲[唐獎](../Page/唐獎.md "wikilink")生技醫藥獎。
+**安东尼·雷克斯·亨特**（，），英裔美国生物学家，索尔克生物研究所和美国加州大学圣地亚哥分校生物学教授。 他於2018年榮獲[唐獎](../Page/唐獎.md "wikilink")生技醫藥獎。
 
 ## 生平
 
@@ -9,14 +8,7 @@
 
 ## 参考资料
 
-[Category:沃爾夫醫學獎得主](https://zh.wikipedia.org/wiki/Category:沃爾夫醫學獎得主 "wikilink")
-[Category:霍维茨奖获得者](https://zh.wikipedia.org/wiki/Category:霍维茨奖获得者 "wikilink")
-[Category:劍橋大學基督學院校友](https://zh.wikipedia.org/wiki/Category:劍橋大學基督學院校友 "wikilink")
-[Category:盖尔德纳国际奖获得者](https://zh.wikipedia.org/wiki/Category:盖尔德纳国际奖获得者 "wikilink")
-[Category:皇家奖章获得者](https://zh.wikipedia.org/wiki/Category:皇家奖章获得者 "wikilink")
-[Category:唐獎得主](https://zh.wikipedia.org/wiki/Category:唐獎得主 "wikilink")
-[Category:庆应医学奖获得者](https://zh.wikipedia.org/wiki/Category:庆应医学奖获得者 "wikilink")
-[Category:阿斯图里亚斯亲王奖获得者](https://zh.wikipedia.org/wiki/Category:阿斯图里亚斯亲王奖获得者 "wikilink")
+[Category:沃爾夫醫學獎得主](https://zh.wikipedia.org/wiki/Category:沃爾夫醫學獎得主 "wikilink") [Category:霍维茨奖获得者](https://zh.wikipedia.org/wiki/Category:霍维茨奖获得者 "wikilink") [Category:劍橋大學基督學院校友](https://zh.wikipedia.org/wiki/Category:劍橋大學基督學院校友 "wikilink") [Category:盖尔德纳国际奖获得者](https://zh.wikipedia.org/wiki/Category:盖尔德纳国际奖获得者 "wikilink") [Category:皇家奖章获得者](https://zh.wikipedia.org/wiki/Category:皇家奖章获得者 "wikilink") [Category:唐獎得主](https://zh.wikipedia.org/wiki/Category:唐獎得主 "wikilink") [Category:庆应医学奖获得者](https://zh.wikipedia.org/wiki/Category:庆应医学奖获得者 "wikilink") [Category:阿斯图里亚斯亲王奖获得者](https://zh.wikipedia.org/wiki/Category:阿斯图里亚斯亲王奖获得者 "wikilink")
 
 1.
 2.

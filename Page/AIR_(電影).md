@@ -16,10 +16,7 @@
 
 《AIR》電影版在製作時，作為原作者的Key便允許劇本編寫者與導演[出崎統](../Page/出崎統.md "wikilink")參考原本遊戲「Summer篇」和「Air篇」的劇情，另外創作劇本而編寫出「另一個AIR」的故事劇情。但儘管如此中村誠仍然對於90分鐘內播放所有《AIR》的故事感到憂心，這也讓他在編寫故事草稿時總共寫了10幾本不同內容的劇本以作參考，而為了能夠確定製作內容也多次與麻枝准會面並交流意見\[24\]。而在DVD「典藏版」所附的介紹手冊中，中村誠表示劇情花了整整一年的時間才提出，其中製作想法以及意見便幾乎等同3本大學生的厚重筆記。
 
-最後受到時間的限制使得電影版僅以女主角[神尾觀鈴作為主要角色重新詮釋而成](https://zh.wikipedia.org/wiki/AIR角色列表#神尾觀鈴 "wikilink")，在內容上也與注重親情的遊戲版本相比更加重視[國崎往人與觀鈴之間的愛情關係](https://zh.wikipedia.org/wiki/AIR角色列表#國崎往人 "wikilink")，而其他遊戲中的登場角色則多是以配角登場\[25\]\[26\]。整個電影配樂除了以重新改編了《[鳥之詩](../Page/鳥之詩.md "wikilink")》、《青空》和《Farewell
-song》等遊戲作品的歌曲加以應用外，不過也有將數首新創作的歌曲添加到電影之中。其中[Linda
-Hennrick作詞](https://zh.wikipedia.org/wiki/Linda_Hennrick "wikilink")、作曲、[岡崎雄二郎編曲以及](https://zh.wikipedia.org/wiki/岡崎雄二郎 "wikilink")[河井英里](../Page/河井英里.md "wikilink")演唱的新歌曲《IF
-DREAMS CAME TRUE》\[27\]，便是作為《AIR》電影版本的片尾主題曲使用\[28\]\[29\]\[30\]\[31\]。
+最後受到時間的限制使得電影版僅以女主角[神尾觀鈴作為主要角色重新詮釋而成](https://zh.wikipedia.org/wiki/AIR角色列表#神尾觀鈴 "wikilink")，在內容上也與注重親情的遊戲版本相比更加重視[國崎往人與觀鈴之間的愛情關係](https://zh.wikipedia.org/wiki/AIR角色列表#國崎往人 "wikilink")，而其他遊戲中的登場角色則多是以配角登場\[25\]\[26\]。整個電影配樂除了以重新改編了《[鳥之詩](../Page/鳥之詩.md "wikilink")》、《青空》和《Farewell song》等遊戲作品的歌曲加以應用外，不過也有將數首新創作的歌曲添加到電影之中。其中[Linda Hennrick作詞](https://zh.wikipedia.org/wiki/Linda_Hennrick "wikilink")、作曲、[岡崎雄二郎編曲以及](https://zh.wikipedia.org/wiki/岡崎雄二郎 "wikilink")[河井英里](../Page/河井英里.md "wikilink")演唱的新歌曲《IF DREAMS CAME TRUE》\[27\]，便是作為《AIR》電影版本的片尾主題曲使用\[28\]\[29\]\[30\]\[31\]。
 
 ### 動畫差異
 
@@ -43,33 +40,17 @@ DREAMS CAME TRUE》\[27\]，便是作為《AIR》電影版本的片尾主題曲�
 
 在2005年6月2日至6月16日期間，[安利美特](../Page/安利美特.md "wikilink")在[DVD光碟發售之前在網際網路上推出了](https://zh.wikipedia.org/wiki/數位多功能影音光碟 "wikilink")30分鐘長度的電影短片\[32\]。到了2005年8月5日時則一次推出3種DVD光碟版本進行銷售\[33\]，分別是動畫電影的「典藏版」、「特別版」以及「普通版」光碟，三者無論是在套殼包裝或者是電影DVD光碟封面上都有不同的設計\[34\]。其中在「典藏版」之中附加了402頁包含詳細故事介紹與場景草稿的電影介紹手冊與另外一片儲存有4支宣傳影片和電影廣告影片的DVD光碟\[35\]，在「特別版」之中則是包含有[廣播劇與](https://zh.wikipedia.org/wiki/日本廣播劇 "wikilink")12首歌曲的62分鐘長度CD光碟、以及收錄總長共40分鐘、4首管弦樂團演奏之電影配樂版本的CD光碟《[神話的邀請](https://zh.wikipedia.org/wiki/AIR音樂作品列表#神話的邀請 "wikilink")》\[36\]，兩者在價錢上都是定在9,500[日圓](../Page/日圓.md "wikilink")\[37\]\[38\]\[39\]。但是在「普通版」之中便只單純販售動畫電影的DVD光碟\[40\]，其販售價格上也另外定在6,800日圓\[41\]\[42\]\[43\]。
 
-北美地區部分，[ADV
-Films以](https://zh.wikipedia.org/wiki/A.D._Vision#ADV_Films "wikilink")20,000美元的價格獲得《AIR》電影英語版本的代理權\[44\]\[45\]，並且在2007年12月11日於北美地區正式發售\[46\]\[47\]。ADV
-Films在2008年7月陸續將其轄下的動畫授權轉交給[Funimation
-Entertainment後](https://zh.wikipedia.org/wiki/Funimation_Entertainment "wikilink")，便改由Funimation
-Entertainment負責在北美地區銷售動畫電影\[48\]\[49\]\[50\]\[51\]。2009年4月21日，Funimation
-Entertainment另外推出自己包裝版本的《AIR》動畫電影販售\[52\]\[53\]。另外在《[CLANNAD](https://zh.wikipedia.org/wiki/CLANNAD_\(電影\) "wikilink")》劇場版推出之後，安利美特則在自家網站上分三段重新上映《AIR》電影版本的內容來作為紀念權\[54\]。
+北美地區部分，[ADV Films以](https://zh.wikipedia.org/wiki/A.D._Vision#ADV_Films "wikilink")20,000美元的價格獲得《AIR》電影英語版本的代理權\[44\]\[45\]，並且在2007年12月11日於北美地區正式發售\[46\]\[47\]。ADV Films在2008年7月陸續將其轄下的動畫授權轉交給[Funimation Entertainment後](https://zh.wikipedia.org/wiki/Funimation_Entertainment "wikilink")，便改由Funimation Entertainment負責在北美地區銷售動畫電影\[48\]\[49\]\[50\]\[51\]。2009年4月21日，Funimation Entertainment另外推出自己包裝版本的《AIR》動畫電影販售\[52\]\[53\]。另外在《[CLANNAD](https://zh.wikipedia.org/wiki/CLANNAD_\(電影\) "wikilink")》劇場版推出之後，安利美特則在自家網站上分三段重新上映《AIR》電影版本的內容來作為紀念權\[54\]。
 
 ### 原聲音樂
 
-除了在2005年8月5日銷售的《AIR》電影特別版DVD光碟中，附贈了以[交響曲](../Page/交響曲.md "wikilink")演奏為主的《神話的邀請》CD光碟\[55\]。在更早之前，《AIR》電影版便與[Frontier
-Works合作於](../Page/Frontier_Works.md "wikilink")2005年3月25日推出電影原聲帶《[AIR
-Movie
-Soundtrack](https://zh.wikipedia.org/wiki/AIR音樂作品列表#AIR_Movie_Soundtrack "wikilink")》\[56\]\[57\]。其中在《AIR
-Movie
-Soundtrack》一共收錄了由[日本](../Page/日本.md "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")所編寫創作的23首電影原聲音樂，其中有20首歌曲是被用來作為電影的背景配樂\[58\]\[59\]\[60\]。而原聲帶所收錄的最後一首歌曲、同時也被拿來作為電影主體曲的《IF
-DREAMS CAME
-TRUE》，則是周防義和參考了[視覺小說遊戲原聲專輯](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")《AIR
-Original
-SoundTrack》裡的《兩個人》（）所另外改編而成的歌曲，並且交由創作歌手[河井英里](../Page/河井英里.md "wikilink")進行演唱\[61\]\[62\]。
+除了在2005年8月5日銷售的《AIR》電影特別版DVD光碟中，附贈了以[交響曲](../Page/交響曲.md "wikilink")演奏為主的《神話的邀請》CD光碟\[55\]。在更早之前，《AIR》電影版便與[Frontier Works合作於](../Page/Frontier_Works.md "wikilink")2005年3月25日推出電影原聲帶《[AIR Movie Soundtrack](https://zh.wikipedia.org/wiki/AIR音樂作品列表#AIR_Movie_Soundtrack "wikilink")》\[56\]\[57\]。其中在《AIR Movie Soundtrack》一共收錄了由[日本](../Page/日本.md "wikilink")[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")所編寫創作的23首電影原聲音樂，其中有20首歌曲是被用來作為電影的背景配樂\[58\]\[59\]\[60\]。而原聲帶所收錄的最後一首歌曲、同時也被拿來作為電影主體曲的《IF DREAMS CAME TRUE》，則是周防義和參考了[視覺小說遊戲原聲專輯](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")《AIR Original SoundTrack》裡的《兩個人》（）所另外改編而成的歌曲，並且交由創作歌手[河井英里](../Page/河井英里.md "wikilink")進行演唱\[61\]\[62\]。
 
 ## 評價
 
 電影版本方面，則由於故事大幅改編而未跟循遊戲發展\[63\]，使得部分《AIR》原作的愛好者對出崎統和中村誠有所爭議，甚至出崎統的官方網站還多次遭到惡意留言破壞，而許多[網路論壇和](https://zh.wikipedia.org/wiki/網路論壇 "wikilink")[BBS](../Page/BBS.md "wikilink")上也出現了對於作品表示不滿的聲音\[64\]。不過儘管在票房收入上並沒有如預期的吸引大量愛好者觀賞，整體而言《AIR》電影版仍然在日本各地的小型劇院中獲得一定收益，一部分劇院甚至在首映過後2天中午前便將電影票售完\[65\]。而在《[CLANNAD](https://zh.wikipedia.org/wiki/CLANNAD_\(電影\) "wikilink")》電影版本推出時，再度擔任監督的出崎統則曾經表示「想要以此作為報復」，並且同樣在DVD光碟販售時安排有兩種特殊版本。
 
-而在日本以外地區則常常將《AIR》電影版與《[Kanon](../Page/Kanon.md "wikilink")》動畫相比，認為[東映動畫的製作能力仍然較](../Page/东映动画.md "wikilink")[京都動畫](../Page/京都動畫.md "wikilink")遜色\[66\]，其中作為評論家之一的[克里斯·貝弗里奇](https://zh.wikipedia.org/wiki/克里斯·貝弗里奇 "wikilink")（Chris
-Beveridge）便提到：「關於這部動畫電影，最讓我感到著迷的是它仍擁有著一般水準的作畫質量。在許多精細的配色和細節部分讓視覺效果表現不錯，但是整體佈局這一部分就與電視系列動畫的安排還要薄弱了許多。京都動畫過去的確推出了許多讓我拍案叫絕的作品，但另一方面東映動畫似乎始終無法與之相匹敵\[67\]。」不過貝弗里奇之後也在網站「Mania.com」提到：「如果你對於電視系列動畫不感興趣的話，電影已經將絕大部分相同內容以緊湊的方式呈現，且沒有失去真實的情感。\[68\]」[動畫新聞網](../Page/動畫新聞網.md "wikilink")評論家[塞隆·馬丁](https://zh.wikipedia.org/wiki/塞隆·馬丁 "wikilink")（Theron
-Martin）則在看完電影後表示原本電視動畫中所呈現的是家庭之間情感的[萌](../Page/萌.md "wikilink")屬性，但是在電影之中則聚焦成為更加狹隘的愛情故事\[69\]。
+而在日本以外地區則常常將《AIR》電影版與《[Kanon](../Page/Kanon.md "wikilink")》動畫相比，認為[東映動畫的製作能力仍然較](../Page/东映动画.md "wikilink")[京都動畫](../Page/京都動畫.md "wikilink")遜色\[66\]，其中作為評論家之一的[克里斯·貝弗里奇](https://zh.wikipedia.org/wiki/克里斯·貝弗里奇 "wikilink")（Chris Beveridge）便提到：「關於這部動畫電影，最讓我感到著迷的是它仍擁有著一般水準的作畫質量。在許多精細的配色和細節部分讓視覺效果表現不錯，但是整體佈局這一部分就與電視系列動畫的安排還要薄弱了許多。京都動畫過去的確推出了許多讓我拍案叫絕的作品，但另一方面東映動畫似乎始終無法與之相匹敵\[67\]。」不過貝弗里奇之後也在網站「Mania.com」提到：「如果你對於電視系列動畫不感興趣的話，電影已經將絕大部分相同內容以緊湊的方式呈現，且沒有失去真實的情感。\[68\]」[動畫新聞網](../Page/動畫新聞網.md "wikilink")評論家[塞隆·馬丁](https://zh.wikipedia.org/wiki/塞隆·馬丁 "wikilink")（Theron Martin）則在看完電影後表示原本電視動畫中所呈現的是家庭之間情感的[萌](../Page/萌.md "wikilink")屬性，但是在電影之中則聚焦成為更加狹隘的愛情故事\[69\]。
 
 ## 參考資料
 
@@ -81,19 +62,9 @@ Martin）則在看完電影後表示原本電視動畫中所呈現的是家庭�
 
   - [Air (2005)](http://www.imdb.com/title/tt0807703/)
 
-  - [Air
-    (movie)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4093)
+  - [Air (movie)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=4093)
 
-[Category:2000年代劇情片](https://zh.wikipedia.org/wiki/Category:2000年代劇情片 "wikilink")
-[Category:2005年电影](https://zh.wikipedia.org/wiki/Category:2005年电影 "wikilink")
-[Category:2005年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2005年日本劇場動畫 "wikilink")
-[Category:电子游戏改编动画电影](https://zh.wikipedia.org/wiki/Category:电子游戏改编动画电影 "wikilink")
-[Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
-[Category:奇幻電影](https://zh.wikipedia.org/wiki/Category:奇幻電影 "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:奇幻愛情片](https://zh.wikipedia.org/wiki/Category:奇幻愛情片 "wikilink")
-[Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink")
-[Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink")
+[Category:2000年代劇情片](https://zh.wikipedia.org/wiki/Category:2000年代劇情片 "wikilink") [Category:2005年电影](https://zh.wikipedia.org/wiki/Category:2005年电影 "wikilink") [Category:2005年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2005年日本劇場動畫 "wikilink") [Category:电子游戏改编动画电影](https://zh.wikipedia.org/wiki/Category:电子游戏改编动画电影 "wikilink") [Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink") [Category:奇幻電影](https://zh.wikipedia.org/wiki/Category:奇幻電影 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:奇幻愛情片](https://zh.wikipedia.org/wiki/Category:奇幻愛情片 "wikilink") [Category:日本電影作品](https://zh.wikipedia.org/wiki/Category:日本電影作品 "wikilink") [Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink")
 
 1.
 

@@ -1,5 +1,4 @@
-**Gearman** \[1\]
-是一套用來把程式需求委派給機器，提供通用的程序框架來將任務分發在機器運算。它同時具備並行工作的能力、負載均衡處理的能力，以及在不同程序語言之間溝通的能力。
+**Gearman** \[1\] 是一套用來把程式需求委派給機器，提供通用的程序框架來將任務分發在機器運算。它同時具備並行工作的能力、負載均衡處理的能力，以及在不同程序語言之間溝通的能力。
 
 ## Gearman 特點
 
@@ -18,8 +17,7 @@ Gearman 主要分成三個部份，需求的處理過程涉及三個角色：Cli
 
 ### Client
 
-  - Client: 負責建立一個工作，發送需求 (application) 給 Job Server，而 Job Server 會去找適合的
-    Worker 去轉發工作。
+  - Client: 負責建立一個工作，發送需求 (application) 給 Job Server，而 Job Server 會去找適合的 Worker 去轉發工作。
 
 ### Job Server
 
@@ -31,11 +29,9 @@ Gearman 主要分成三個部份，需求的處理過程涉及三個角色：Cli
 
 ### Message Queue
 
-  - 執行 Message Queue \[2\]服務的 Job Server 可以是多台伺服器組成，也就是分散式架構，在 Job
-    Server 上執行 Worker 程式。
+  - 執行 Message Queue \[2\]服務的 Job Server 可以是多台伺服器組成，也就是分散式架構，在 Job Server 上執行 Worker 程式。
   - 這些 Worker 程式會一直循環地等候，直到 Job Server 呼叫它執行工作。
-  - Client 端發送出需求之後，會將需要的資料及動作記錄在 Job Server 上，這時 Job Server
-    會查看是否有空閒並符合需求的 Worker。
+  - Client 端發送出需求之後，會將需要的資料及動作記錄在 Job Server 上，這時 Job Server 會查看是否有空閒並符合需求的 Worker。
   - 在 Worker 結束工作後，會發送通知給 Job Server ，這時 Job Server 就會視狀況把結果回傳給 Client。
   - Client 端不需等候需求的執行結果，可以直接繼續執行其他動作。
 
@@ -59,13 +55,9 @@ Gearman 主要分成三個部份，需求的處理過程涉及三個角色：Cli
 
 ## 参考资料
 
-  - [Instant Parallel Processing with
-    Gearman](http://books.google.com.tw/books?id=f3LE1eq48-MC&pg=PT14&dq=Gearman&hl=zh-TW&sa=X&ei=A5oEU_CHArCwiQe-j4CQCw&ved=0CC4Q6AEwAA#v=onepage&q=Gearman&f=false)
+  - [Instant Parallel Processing with Gearman](http://books.google.com.tw/books?id=f3LE1eq48-MC&pg=PT14&dq=Gearman&hl=zh-TW&sa=X&ei=A5oEU_CHArCwiQe-j4CQCw&ved=0CC4Q6AEwAA#v=onepage&q=Gearman&f=false)
 
-[Category:伺服器](https://zh.wikipedia.org/wiki/Category:伺服器 "wikilink")
-[Category:網路管理](https://zh.wikipedia.org/wiki/Category:網路管理 "wikilink")
-[Category:系統軟體](https://zh.wikipedia.org/wiki/Category:系統軟體 "wikilink")
-[Category:網路軟體](https://zh.wikipedia.org/wiki/Category:網路軟體 "wikilink")
+[Category:伺服器](https://zh.wikipedia.org/wiki/Category:伺服器 "wikilink") [Category:網路管理](https://zh.wikipedia.org/wiki/Category:網路管理 "wikilink") [Category:系統軟體](https://zh.wikipedia.org/wiki/Category:系統軟體 "wikilink") [Category:網路軟體](https://zh.wikipedia.org/wiki/Category:網路軟體 "wikilink")
 
 1.  [What is Gearman](http://gearman.org/)
 2.  [Message Queue](http://www.jaceju.net/blog/archives/1211/)

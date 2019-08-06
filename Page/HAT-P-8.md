@@ -13,12 +13,9 @@
 
 ## 參見
 
-  - <http://exoplanet.eu> [Star :
-    HAT-P-8b](http://exoplanet.eu/star.php?st=HAT-P-8)
+  - <http://exoplanet.eu> [Star : HAT-P-8b](http://exoplanet.eu/star.php?st=HAT-P-8)
 
-[Category:飛馬座](https://zh.wikipedia.org/wiki/Category:飛馬座 "wikilink")
-[Category:行星凌變星](https://zh.wikipedia.org/wiki/Category:行星凌變星 "wikilink")
-[Category:行星系](https://zh.wikipedia.org/wiki/Category:行星系 "wikilink")
+[Category:飛馬座](https://zh.wikipedia.org/wiki/Category:飛馬座 "wikilink") [Category:行星凌變星](https://zh.wikipedia.org/wiki/Category:行星凌變星 "wikilink") [Category:行星系](https://zh.wikipedia.org/wiki/Category:行星系 "wikilink")
 
 1.
 2.

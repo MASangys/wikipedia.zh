@@ -10,11 +10,7 @@
 
 ## 系統性質
 
-[2006_cyclone_off_Midway_Atoll_2006-11-07_0000Z.jpg](https://zh.wikipedia.org/wiki/File:2006_cyclone_off_Midway_Atoll_2006-11-07_0000Z.jpg "fig:2006_cyclone_off_Midway_Atoll_2006-11-07_0000Z.jpg")
-不同機構與專家各自認為該系統是個[溫帶氣旋](../Page/溫帶氣旋.md "wikilink")、[副熱帶氣旋](https://zh.wikipedia.org/wiki/副熱帶氣旋 "wikilink")，或是[熱帶氣旋](../Page/熱帶氣旋.md "wikilink")。負責營運RSMC
-Tokyo的[日本氣象廳認為這是個溫帶氣旋](../Page/氣象廳_\(日本\).md "wikilink")，然而在[賽爾奇-蓬多瓦茲大學任教的地理學家Karl](https://zh.wikipedia.org/wiki/w:Cergy-Pontoise_University "wikilink")
-Hoarau認為這是從[囚錮氣旋發展而來的副熱帶氣旋](https://zh.wikipedia.org/wiki/鋒_\(氣象\)#囚錮鋒 "wikilink")。美國[天氣預報中心的David](https://zh.wikipedia.org/wiki/w:Weather_Prediction_Center "wikilink")
-Roth註明該氣旋於11月7日在23到24ºC的[海面發展](https://zh.wikipedia.org/wiki/海面溫度 "wikilink")，中心北側雷暴顯著爆發，對流深度也比一般囚錮氣旋來得大。\[9\]\[10\]
+[2006_cyclone_off_Midway_Atoll_2006-11-07_0000Z.jpg](https://zh.wikipedia.org/wiki/File:2006_cyclone_off_Midway_Atoll_2006-11-07_0000Z.jpg "fig:2006_cyclone_off_Midway_Atoll_2006-11-07_0000Z.jpg") 不同機構與專家各自認為該系統是個[溫帶氣旋](../Page/溫帶氣旋.md "wikilink")、[副熱帶氣旋](https://zh.wikipedia.org/wiki/副熱帶氣旋 "wikilink")，或是[熱帶氣旋](../Page/熱帶氣旋.md "wikilink")。負責營運RSMC Tokyo的[日本氣象廳認為這是個溫帶氣旋](../Page/氣象廳_\(日本\).md "wikilink")，然而在[賽爾奇-蓬多瓦茲大學任教的地理學家Karl](https://zh.wikipedia.org/wiki/w:Cergy-Pontoise_University "wikilink") Hoarau認為這是從[囚錮氣旋發展而來的副熱帶氣旋](https://zh.wikipedia.org/wiki/鋒_\(氣象\)#囚錮鋒 "wikilink")。美國[天氣預報中心的David](https://zh.wikipedia.org/wiki/w:Weather_Prediction_Center "wikilink") Roth註明該氣旋於11月7日在23到24ºC的[海面發展](https://zh.wikipedia.org/wiki/海面溫度 "wikilink")，中心北側雷暴顯著爆發，對流深度也比一般囚錮氣旋來得大。\[9\]\[10\]
 
 [美國國家海洋暨大氣總署衛星服務部門](https://zh.wikipedia.org/wiki/美國國家海洋暨大氣總署 "wikilink")（SSD）認為它一開始是副熱帶氣旋，後來發展為熱帶氣旋，如11月7日的公報表示：
 
@@ -24,21 +20,17 @@ Roth註明該氣旋於11月7日在23到24ºC的[海面發展](https://zh.wikiped
 
   - [熱帶風暴海燕 (2007年)](../Page/熱帶風暴海燕_\(2007年\).md "wikilink")
   - [熱帶風暴奧梅卡](https://zh.wikipedia.org/wiki/熱帶風暴奧梅卡 "wikilink")
-  - [熱帶風暴玉兔
-    (2013年)](https://zh.wikipedia.org/wiki/熱帶風暴玉兔_\(2013年\) "wikilink")
+  - [熱帶風暴玉兔 (2013年)](https://zh.wikipedia.org/wiki/熱帶風暴玉兔_\(2013年\) "wikilink")
 
 ## 參考資料
 
 ## 外部連結
 
   - [-{“Invest”}- 60W](http://www.nrlmry.navy.mil/tcdat/tc06/WPAC/60W.INVEST/)來自美國海軍研究實驗室
-  - [可能的副熱帶氣旋概述](http://www.australiasevereweather.com/cyclones/2007/summ0611.htm)由Gary
-    Padgett編寫
+  - [可能的副熱帶氣旋概述](http://www.australiasevereweather.com/cyclones/2007/summ0611.htm)由Gary Padgett編寫
   - [-{“60W”}-衛星雲圖動畫](https://www.youtube.com/watch?v=Qm5j6fXaYo8)在YouTube
 
-[Category:溫帶氣旋](https://zh.wikipedia.org/wiki/Category:溫帶氣旋 "wikilink")
-[Category:2006年氣象](https://zh.wikipedia.org/wiki/Category:2006年氣象 "wikilink")
-[Category:大洋洲天气事件](https://zh.wikipedia.org/wiki/Category:大洋洲天气事件 "wikilink")
+[Category:溫帶氣旋](https://zh.wikipedia.org/wiki/Category:溫帶氣旋 "wikilink") [Category:2006年氣象](https://zh.wikipedia.org/wiki/Category:2006年氣象 "wikilink") [Category:大洋洲天气事件](https://zh.wikipedia.org/wiki/Category:大洋洲天气事件 "wikilink")
 
 1.
 

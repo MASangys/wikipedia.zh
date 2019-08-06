@@ -1,10 +1,8 @@
 [Jack_Schmitt_and_Henry_Holt.png](https://zh.wikipedia.org/wiki/File:Jack_Schmitt_and_Henry_Holt.png "fig:Jack_Schmitt_and_Henry_Holt.png")。\]\]
 
-**亨利·E·霍爾特**（**Henry E.
-Holt**，）\[1\]，[美國天文學家](https://zh.wikipedia.org/wiki/美國 "wikilink")。
+**亨利·E·霍爾特**（**Henry E. Holt**，）\[1\]，[美國天文學家](https://zh.wikipedia.org/wiki/美國 "wikilink")。
 
-霍爾特發現了許多小行星。並且他是週期[彗星](https://zh.wikipedia.org/wiki/彗星 "wikilink")[121P/Shoemaker-Holt](https://zh.wikipedia.org/wiki/121P/Shoemaker-Holt "wikilink")、127P/Holt-Olmstead
-和[128P/Shoemaker-Holt的共同發現者](https://zh.wikipedia.org/wiki/128P/Shoemaker-Holt "wikilink")。
+霍爾特發現了許多小行星。並且他是週期[彗星](https://zh.wikipedia.org/wiki/彗星 "wikilink")[121P/Shoemaker-Holt](https://zh.wikipedia.org/wiki/121P/Shoemaker-Holt "wikilink")、127P/Holt-Olmstead 和[128P/Shoemaker-Holt的共同發現者](https://zh.wikipedia.org/wiki/128P/Shoemaker-Holt "wikilink")。
 
 霍爾特曾經是[美國地質調查局](../Page/美國地質調查局.md "wikilink")的[行星地質學](../Page/行星地質學.md "wikilink")家，並曾任教於[北亞利桑那大學](../Page/北亞利桑那大學.md "wikilink")。1960年代他曾經研究[月球](../Page/月球.md "wikilink")表面的測光，而這些是[測量員計畫](../Page/測量員計畫.md "wikilink")和[阿波羅計畫的一部分](https://zh.wikipedia.org/wiki/阿波羅計畫 "wikilink")\[2\]。
 
@@ -2102,26 +2100,13 @@ Holt**，）\[1\]，[美國天文學家](https://zh.wikipedia.org/wiki/美國 "w
 
 ## 外部連結
 
-  - [Archive of Astronomy Questions and
-    Answers](http://www.astronomycafe.net/qadir/q2879.html)
+  - [Archive of Astronomy Questions and Answers](http://www.astronomycafe.net/qadir/q2879.html)
   - [cometography.com](http://cometography.com/pcomets/127p.html)
 
-[Category:20世紀天文學家](https://zh.wikipedia.org/wiki/Category:20世紀天文學家 "wikilink")
-[Category:美國天文學家](https://zh.wikipedia.org/wiki/Category:美國天文學家 "wikilink")
-[Category:小行星發現者](https://zh.wikipedia.org/wiki/Category:小行星發現者 "wikilink")
-[Category:彗星發現者](https://zh.wikipedia.org/wiki/Category:彗星發現者 "wikilink")
-[Category:美國地質學家](https://zh.wikipedia.org/wiki/Category:美國地質學家 "wikilink")
-[Category:行星科學家](https://zh.wikipedia.org/wiki/Category:行星科學家 "wikilink")
-[Category:北亞利桑那大學教師](https://zh.wikipedia.org/wiki/Category:北亞利桑那大學教師 "wikilink")
-[Category:美国地质调查局工作人员](https://zh.wikipedia.org/wiki/Category:美国地质调查局工作人员 "wikilink")
+[Category:20世紀天文學家](https://zh.wikipedia.org/wiki/Category:20世紀天文學家 "wikilink") [Category:美國天文學家](https://zh.wikipedia.org/wiki/Category:美國天文學家 "wikilink") [Category:小行星發現者](https://zh.wikipedia.org/wiki/Category:小行星發現者 "wikilink") [Category:彗星發現者](https://zh.wikipedia.org/wiki/Category:彗星發現者 "wikilink") [Category:美國地質學家](https://zh.wikipedia.org/wiki/Category:美國地質學家 "wikilink") [Category:行星科學家](https://zh.wikipedia.org/wiki/Category:行星科學家 "wikilink") [Category:北亞利桑那大學教師](https://zh.wikipedia.org/wiki/Category:北亞利桑那大學教師 "wikilink") [Category:美国地质调查局工作人员](https://zh.wikipedia.org/wiki/Category:美国地质调查局工作人员 "wikilink")
 
-1.  Darling, David. ["Asclepius (minor
-    planet 4581)"](http://www.daviddarling.info/encyclopedia/A/Asclepius.html).
-    *The Internet Encyclopedia of Science*. Retrieved 2011-05-24.
+1.  Darling, David. ["Asclepius (minor planet 4581)"](http://www.daviddarling.info/encyclopedia/A/Asclepius.html). *The Internet Encyclopedia of Science*. Retrieved 2011-05-24.
 
-2.  Schmadel, Lutz D. (2003). "(4435) Holt". *Dictionary of Minor Planet
-    Names, Volume 1*. (5th ed.) Springer:
-    [p. 381.](http://books.google.com/books?id=KWrB1jPCa8AC&pg=PA381&lpg=PA381#v=onepage&q&f=false)
-    ISBN 978-3-540-00238-3.
+2.  Schmadel, Lutz D. (2003). "(4435) Holt". *Dictionary of Minor Planet Names, Volume 1*. (5th ed.) Springer: [p. 381.](http://books.google.com/books?id=KWrB1jPCa8AC&pg=PA381&lpg=PA381#v=onepage&q&f=false) ISBN 978-3-540-00238-3.
 
 3.

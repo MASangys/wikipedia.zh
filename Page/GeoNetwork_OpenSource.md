@@ -1,5 +1,4 @@
-**GeoNetwork
-opensource**，即測繪成果分發服務項目，是一個[自由和開放源碼的資源編目應用程式](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，用作位置信息目錄。
+**GeoNetwork opensource**，即測繪成果分發服務項目，是一個[自由和開放源碼的資源編目應用程式](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，用作位置信息目錄。
 
 ## 簡介
 
@@ -9,8 +8,7 @@ opensource**，即測繪成果分發服務項目，是一個[自由和開放源�
 
 ## 應用
 
-該軟件已被部署到各種組織，較早使用的有FAO GeoNetwork、WFP
-VAM-SIE-GeoNetwork，其總部設在意大利羅馬。此外，[世界衛生組織](https://zh.wikipedia.org/wiki/世界衛生組織 "wikilink")，[CGIAR](https://zh.wikipedia.org/wiki/CGIAR "wikilink")、[BRGM](https://zh.wikipedia.org/wiki/BRGM "wikilink")、[歐空局](https://zh.wikipedia.org/wiki/歐空局 "wikilink")、[FGDC和中國全球變化信息研究中心](https://zh.wikipedia.org/wiki/FGDC "wikilink")（GCIRC）正在對使用測繪成果分發服務作準備。
+該軟件已被部署到各種組織，較早使用的有FAO GeoNetwork、WFP VAM-SIE-GeoNetwork，其總部設在意大利羅馬。此外，[世界衛生組織](https://zh.wikipedia.org/wiki/世界衛生組織 "wikilink")，[CGIAR](https://zh.wikipedia.org/wiki/CGIAR "wikilink")、[BRGM](https://zh.wikipedia.org/wiki/BRGM "wikilink")、[歐空局](https://zh.wikipedia.org/wiki/歐空局 "wikilink")、[FGDC和中國全球變化信息研究中心](https://zh.wikipedia.org/wiki/FGDC "wikilink")（GCIRC）正在對使用測繪成果分發服務作準備。
 
 ## 參閱
 
@@ -26,8 +24,6 @@ VAM-SIE-GeoNetwork，其總部設在意大利羅馬。此外，[世界衛生組�
   -
   - [Sourceforge project](http://sourceforge.net/projects/geonetwork)
 
-[Category:自由GIS軟體](https://zh.wikipedia.org/wiki/Category:自由GIS軟體 "wikilink")
-[Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink")
-[Category:網路應用程序](https://zh.wikipedia.org/wiki/Category:網路應用程序 "wikilink")
+[Category:自由GIS軟體](https://zh.wikipedia.org/wiki/Category:自由GIS軟體 "wikilink") [Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink") [Category:網路應用程序](https://zh.wikipedia.org/wiki/Category:網路應用程序 "wikilink")
 
 1.

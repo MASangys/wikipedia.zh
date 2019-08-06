@@ -2,8 +2,7 @@
 
 ## 历史
 
-[TGV-ICE_ParisEst.jpg](https://zh.wikipedia.org/wiki/File:TGV-ICE_ParisEst.jpg "fig:TGV-ICE_ParisEst.jpg")的[ICE](https://zh.wikipedia.org/wiki/ICE列车 "wikilink")（右）及[TGV](https://zh.wikipedia.org/wiki/TGV "wikilink")（左）\]\]
-2005年5月23日，[德国铁路](../Page/德国铁路.md "wikilink")及[法国国家铁路](../Page/法国国家铁路.md "wikilink")的原[总裁](../Page/总裁.md "wikilink")及签署了一项谅解备忘录，计划自2007年起在[德国](../Page/德国.md "wikilink")南部至[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎](../Page/巴黎.md "wikilink")之间共同提供[高速列车服务](https://zh.wikipedia.org/wiki/高速列车 "wikilink")\[1\]。
+[TGV-ICE_ParisEst.jpg](https://zh.wikipedia.org/wiki/File:TGV-ICE_ParisEst.jpg "fig:TGV-ICE_ParisEst.jpg")的[ICE](https://zh.wikipedia.org/wiki/ICE列车 "wikilink")（右）及[TGV](https://zh.wikipedia.org/wiki/TGV "wikilink")（左）\]\] 2005年5月23日，[德国铁路](../Page/德国铁路.md "wikilink")及[法国国家铁路](../Page/法国国家铁路.md "wikilink")的原[总裁](../Page/总裁.md "wikilink")及签署了一项谅解备忘录，计划自2007年起在[德国](../Page/德国.md "wikilink")南部至[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎](../Page/巴黎.md "wikilink")之间共同提供[高速列车服务](https://zh.wikipedia.org/wiki/高速列车 "wikilink")\[1\]。
 
 成立[合资公司Alleo的协议则由梅多恩及后任法国国家铁路总裁](https://zh.wikipedia.org/wiki/合资公司 "wikilink")于2007年5月25日在巴黎签署，并接管了原项目公司的工作。新公司的[总部设于德国](https://zh.wikipedia.org/wiki/总部 "wikilink")[萨尔布吕肯](../Page/萨尔布吕肯.md "wikilink")，总共仅设7名雇员。合资公司的协议保障直至2012年\[2\]。与类似的业务模式相比，例如法国国家铁路与[瑞士联邦铁路合资的](https://zh.wikipedia.org/wiki/瑞士联邦铁路 "wikilink")[Lyria](../Page/Lyria.md "wikilink")，Alleo并不对外交流，也没有设立面向乘客的[品牌](../Page/品牌.md "wikilink")。
 
@@ -19,8 +18,7 @@
 
 ## 线路
 
-[TGV_2N2_4722_Karlsruhe.JPG](https://zh.wikipedia.org/wiki/File:TGV_2N2_4722_Karlsruhe.JPG "fig:TGV_2N2_4722_Karlsruhe.JPG")\]\]
-截自2014年的运行图，Alleo主要提供以下线路的服务\[11\]：
+[TGV_2N2_4722_Karlsruhe.JPG](https://zh.wikipedia.org/wiki/File:TGV_2N2_4722_Karlsruhe.JPG "fig:TGV_2N2_4722_Karlsruhe.JPG")\]\] 截自2014年的运行图，Alleo主要提供以下线路的服务\[11\]：
 
   - 法兰克福－萨尔布吕肯－巴黎（每日五班，全程约4小时）
   - 慕尼黑－斯图加特－巴黎（每日五班，其中一班由斯图加特始发，全程约6小时09分）
@@ -28,9 +26,7 @@
 
 ## 车辆
 
-在巴黎－斯图加特－慕尼黑的线路上最初使用[TGV
-POS列车](https://zh.wikipedia.org/wiki/TGV_POS "wikilink")\[12\]，在这些列车被调拨至Lyria后，该线路则使用替代\[13\]。巴黎－法兰克福线路主要使用[ICE-3MF列车](../Page/德国铁路406型电力动车组.md "wikilink")，仅有1对车次使用TGV
-2N2列车\[14\]。而新开行的法兰克福－马赛线路则也使用TGV 2N2列车。
+在巴黎－斯图加特－慕尼黑的线路上最初使用[TGV POS列车](https://zh.wikipedia.org/wiki/TGV_POS "wikilink")\[12\]，在这些列车被调拨至Lyria后，该线路则使用替代\[13\]。巴黎－法兰克福线路主要使用[ICE-3MF列车](../Page/德国铁路406型电力动车组.md "wikilink")，仅有1对车次使用TGV 2N2列车\[14\]。而新开行的法兰克福－马赛线路则也使用TGV 2N2列车。
 
 ## 参见
 
@@ -39,44 +35,29 @@ POS列车](https://zh.wikipedia.org/wiki/TGV_POS "wikilink")\[12\]，在这些�
 
 ## 参考书目
 
-  - W.M. Ried: *Schneller nach Paris mit ICE und TGV in
-    deutsch-französischer Kooperation*, Eisenbahntechnische Rundschau,
-    6/2007 S. 339 ff.
+  - W.M. Ried: *Schneller nach Paris mit ICE und TGV in deutsch-französischer Kooperation*, Eisenbahntechnische Rundschau, 6/2007 S. 339 ff.
 
 ## 注释
 
 [Category:德国铁路公司](https://zh.wikipedia.org/wiki/Category:德国铁路公司 "wikilink")
 
-1.  *DB und SNCF gründen gemeinsame Betriebsgesellschatft für die
-    POS-Strecke*. In: Eisenbahn-Revue International, Heft 7/2005, ,
-    S. 317.
+1.  *DB und SNCF gründen gemeinsame Betriebsgesellschatft für die POS-Strecke*. In: Eisenbahn-Revue International, Heft 7/2005, , S. 317.
 
-2.  Invest-in-france.org: [Frank
-    Hoffmann](http://www.invest-in-france.org/corporate/de/Corporate-testimonial-detail/74-Frank-Hoffmann-Geschftsfhrer-Alleo.html)
+2.  Invest-in-france.org: [Frank Hoffmann](http://www.invest-in-france.org/corporate/de/Corporate-testimonial-detail/74-Frank-Hoffmann-Geschftsfhrer-Alleo.html)
 
-3.  Deutsche Bahn AG: [*DB und SNCF ziehen erfolgreiche Bilanz aus zwei
-    Jahren deutsch-französischem
-    Hochgeschwindigkeitsverkehr*](http://www.deutschebahn.com/site/bahn/de/unternehmen/presse/presseinformationen/bw/bw20090610a.html).
-    Presseinformation vom 10. Juni 2009
+3.  Deutsche Bahn AG: [*DB und SNCF ziehen erfolgreiche Bilanz aus zwei Jahren deutsch-französischem Hochgeschwindigkeitsverkehr*](http://www.deutschebahn.com/site/bahn/de/unternehmen/presse/presseinformationen/bw/bw20090610a.html). Presseinformation vom 10. Juni 2009
 
-4.  [*Bahn will häufiger nach
-    Paris*](http://www.saarbruecker-zeitung.de/nachrichten/titelseite/lokalnews/Bahn-ICE-Paris-Saarbruecken-Saarland-Bahn-Strecke-TGV-2010-Doppel-ICE;art27857,2835721).
-    In: Saarbrücker Zeitung, 18. März 2009
+4.  [*Bahn will häufiger nach Paris*](http://www.saarbruecker-zeitung.de/nachrichten/titelseite/lokalnews/Bahn-ICE-Paris-Saarbruecken-Saarland-Bahn-Strecke-TGV-2010-Doppel-ICE;art27857,2835721). In: Saarbrücker Zeitung, 18. März 2009
 
 5.  Financial Times Deutschland: , 22. Januar 2010
 
 6.  *ICE Frankfurt-Paris wenig konkurrenzfähig*, ERI 6/2008 S. 308 ff.
 
-7.  Spiegel Online: [Neue Zugverbindung: Mit Hochgeschwindigkeit von
-    Frankfurt nach
-    Marseille](http://www.spiegel.de/reise/aktuell/bahn-eroeffnet-hochgeschwindigkeitsstrecke-von-frankfurt-nach-marseille-a-822954.html)
+7.  Spiegel Online: [Neue Zugverbindung: Mit Hochgeschwindigkeit von Frankfurt nach Marseille](http://www.spiegel.de/reise/aktuell/bahn-eroeffnet-hochgeschwindigkeitsstrecke-von-frankfurt-nach-marseille-a-822954.html)
 
-8.  *Alleo, Alleo, Alleo...*. In: Today's railways Europe. August 2007,
-    Ausgabe 140, , S. 7.
+8.  *Alleo, Alleo, Alleo...*. In: Today's railways Europe. August 2007, Ausgabe 140, , S. 7.
 
-9.  Deutschlandfunk: [*Schnelle Schiene zwischen Paris und Stuttgart –
-    TGV und ICE auf neuen
-    Hochgeschwindigkeitsstrecken*](http://www.dradio.de/dlf/sendungen/hiwi/633681/)
+9.  Deutschlandfunk: [*Schnelle Schiene zwischen Paris und Stuttgart – TGV und ICE auf neuen Hochgeschwindigkeitsstrecken*](http://www.dradio.de/dlf/sendungen/hiwi/633681/)
 
 10.
 11.

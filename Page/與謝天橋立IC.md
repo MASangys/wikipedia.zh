@@ -12,12 +12,9 @@
 
 ## 歷史
 
-  - 2001年1月 -
-    [鳥取豐岡宮津自動車道](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[宮津天橋立IC](../Page/宮津天橋立IC.md "wikilink")至與謝天橋立IC之間開始動工。
-  - 2011年3月12日 -
-    [鳥取豐岡宮津自動車道](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[宮津天橋立IC](../Page/宮津天橋立IC.md "wikilink")至與謝天橋立IC之間開通，此交流道也同時啟用。
-  - 2016年（預計） -
-    [鳥取豐岡宮津自動車道與謝天橋立IC至](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[大宮森本IC之間開通](https://zh.wikipedia.org/wiki/大宮森本IC "wikilink")。
+  - 2001年1月 - [鳥取豐岡宮津自動車道](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[宮津天橋立IC](../Page/宮津天橋立IC.md "wikilink")至與謝天橋立IC之間開始動工。
+  - 2011年3月12日 - [鳥取豐岡宮津自動車道](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[宮津天橋立IC](../Page/宮津天橋立IC.md "wikilink")至與謝天橋立IC之間開通，此交流道也同時啟用。
+  - 2016年（預計） - [鳥取豐岡宮津自動車道與謝天橋立IC至](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")[大宮森本IC之間開通](https://zh.wikipedia.org/wiki/大宮森本IC "wikilink")。
 
 ## 交流道周邊
 
@@ -28,8 +25,7 @@
 ## 鄰近設施
 
   - [鳥取豐岡宮津自動車道](https://zh.wikipedia.org/wiki/鳥取豐岡宮津自動車道 "wikilink")
-    *[大宮森本IC](https://zh.wikipedia.org/wiki/大宮森本IC "wikilink")*（建設中） -
-    **與謝天橋立IC** - [宮津天橋立IC](../Page/宮津天橋立IC.md "wikilink")
+    *[大宮森本IC](https://zh.wikipedia.org/wiki/大宮森本IC "wikilink")*（建設中） - **與謝天橋立IC** - [宮津天橋立IC](../Page/宮津天橋立IC.md "wikilink")
 
 ## 相關項目
 
@@ -40,5 +36,4 @@
   - [京都府道路公社](http://www.kyo-miti.jp/)
   - [宮津市](http://www.city.miyazu.kyoto.jp/)
 
-[Category:日本交流道_Yo](https://zh.wikipedia.org/wiki/Category:日本交流道_Yo "wikilink")
-[Category:京都府交流道](https://zh.wikipedia.org/wiki/Category:京都府交流道 "wikilink")
+[Category:日本交流道_Yo](https://zh.wikipedia.org/wiki/Category:日本交流道_Yo "wikilink") [Category:京都府交流道](https://zh.wikipedia.org/wiki/Category:京都府交流道 "wikilink")

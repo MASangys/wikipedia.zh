@@ -32,11 +32,9 @@
 
 ## 歷史
 
-  - 2011年3月11日 -
-    因發生[東日本大震災](../Page/東日本大震災.md "wikilink")，[東名高速道路](https://zh.wikipedia.org/wiki/東名高速道路 "wikilink")[富士IC至](https://zh.wikipedia.org/wiki/富士IC "wikilink")[靜岡IC之間不能通行](https://zh.wikipedia.org/wiki/靜岡IC "wikilink")，新富士IC至[藤枝岡部IC之間臨時開放供緊急車輛使用](https://zh.wikipedia.org/wiki/藤枝岡部IC "wikilink")，開放時間由當日20:30至翌日17:45。
+  - 2011年3月11日 - 因發生[東日本大震災](../Page/東日本大震災.md "wikilink")，[東名高速道路](https://zh.wikipedia.org/wiki/東名高速道路 "wikilink")[富士IC至](https://zh.wikipedia.org/wiki/富士IC "wikilink")[靜岡IC之間不能通行](https://zh.wikipedia.org/wiki/靜岡IC "wikilink")，新富士IC至[藤枝岡部IC之間臨時開放供緊急車輛使用](https://zh.wikipedia.org/wiki/藤枝岡部IC "wikilink")，開放時間由當日20:30至翌日17:45。
   - 2011年8月26日 - 此交流道正式命名為**新富士IC**（擬定名稱：富士IC）。
-  - 2012年4月14日 -
-    [新東名高速道路](https://zh.wikipedia.org/wiki/新東名高速道路 "wikilink")[濱松引佐JCT至](https://zh.wikipedia.org/wiki/濱松引佐JCT "wikilink")[御殿場JCT開通](https://zh.wikipedia.org/wiki/御殿場JCT "wikilink")，此交流道也同時啟用。
+  - 2012年4月14日 - [新東名高速道路](https://zh.wikipedia.org/wiki/新東名高速道路 "wikilink")[濱松引佐JCT至](https://zh.wikipedia.org/wiki/濱松引佐JCT "wikilink")[御殿場JCT開通](https://zh.wikipedia.org/wiki/御殿場JCT "wikilink")，此交流道也同時啟用。
 
 ## 收費站設施
 
@@ -66,12 +64,9 @@
 ## 鄰近設施
 
   - [新東名高速道路](https://zh.wikipedia.org/wiki/新東名高速道路 "wikilink")
-    (6)[長泉沼津IC](https://zh.wikipedia.org/wiki/長泉沼津IC "wikilink") -
-    [駿河灣沼津SA](https://zh.wikipedia.org/wiki/駿河灣沼津SA "wikilink")
-    - (7)**新富士IC** - (8)[新清水IC](../Page/新清水IC.md "wikilink")
+    (6)[長泉沼津IC](https://zh.wikipedia.org/wiki/長泉沼津IC "wikilink") - [駿河灣沼津SA](https://zh.wikipedia.org/wiki/駿河灣沼津SA "wikilink") - (7)**新富士IC** - (8)[新清水IC](../Page/新清水IC.md "wikilink")
   - [西富士道路](https://zh.wikipedia.org/wiki/西富士道路 "wikilink")
-    [廣見IC](https://zh.wikipedia.org/wiki/廣見IC "wikilink") - **新富士IC** -
-    [小泉IC](https://zh.wikipedia.org/wiki/小泉IC "wikilink")
+    [廣見IC](https://zh.wikipedia.org/wiki/廣見IC "wikilink") - **新富士IC** - [小泉IC](https://zh.wikipedia.org/wiki/小泉IC "wikilink")
 
 ## 相關項目
 
@@ -81,5 +76,4 @@
 
   - [中日本高速道路(新東名高速)](http://www.c-nexco.co.jp/)
 
-[Category:日本交流道_Shi](https://zh.wikipedia.org/wiki/Category:日本交流道_Shi "wikilink")
-[Category:靜岡縣交流道](https://zh.wikipedia.org/wiki/Category:靜岡縣交流道 "wikilink")
+[Category:日本交流道_Shi](https://zh.wikipedia.org/wiki/Category:日本交流道_Shi "wikilink") [Category:靜岡縣交流道](https://zh.wikipedia.org/wiki/Category:靜岡縣交流道 "wikilink")

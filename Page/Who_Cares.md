@@ -12,10 +12,8 @@
 
 ## 資料來源
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:RedNoon音樂專輯](https://zh.wikipedia.org/wiki/Category:RedNoon音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:RedNoon音樂專輯](https://zh.wikipedia.org/wiki/Category:RedNoon音樂專輯 "wikilink")
 
 [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
 
-1.  [WHOCARES - RedNoon | Sony Music Entertainment
-    Ltd.](https://www.sonymusic.com.hk/main/album/whocares-rednoon)
+1.  [WHOCARES - RedNoon | Sony Music Entertainment Ltd.](https://www.sonymusic.com.hk/main/album/whocares-rednoon)

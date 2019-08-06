@@ -59,6 +59,4 @@
 
 ## 獎項
 
-[Category:鄭嘉嘉音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭嘉嘉音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:鄭嘉嘉音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭嘉嘉音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

@@ -1,6 +1,4 @@
-**Golly**是由Andrew Trevorrow和Tom
-Rokicki开发的跨平台[开源软件](https://zh.wikipedia.org/wiki/开源 "wikilink")，可用于模拟[康威生命游戏](../Page/康威生命游戏.md "wikilink")或其他类型的[元胞自动机](https://zh.wikipedia.org/wiki/元胞自动机 "wikilink")。Golly包含大量预先设定的元胞模式和生长规则，可模拟大尺度、长时间的元胞行为；采用[wxWidgets编写](https://zh.wikipedia.org/wiki/wxWidgets "wikilink")[图形用户界面](../Page/图形用户界面.md "wikilink")，并支持[Python](../Page/Python.md "wikilink")和[Lua](../Page/Lua.md "wikilink")（v3.0之前的版本是[Perl](../Page/Perl.md "wikilink")）[脚本语言](../Page/脚本语言.md "wikilink")\[1\]。Golly采用[GNU
-GPL第](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")2版协议发布，属于[自由软件](../Page/自由软件.md "wikilink")\[2\]。
+**Golly**是由Andrew Trevorrow和Tom Rokicki开发的跨平台[开源软件](https://zh.wikipedia.org/wiki/开源 "wikilink")，可用于模拟[康威生命游戏](../Page/康威生命游戏.md "wikilink")或其他类型的[元胞自动机](https://zh.wikipedia.org/wiki/元胞自动机 "wikilink")。Golly包含大量预先设定的元胞模式和生长规则，可模拟大尺度、长时间的元胞行为；采用[wxWidgets编写](https://zh.wikipedia.org/wiki/wxWidgets "wikilink")[图形用户界面](../Page/图形用户界面.md "wikilink")，并支持[Python](../Page/Python.md "wikilink")和[Lua](../Page/Lua.md "wikilink")（v3.0之前的版本是[Perl](../Page/Perl.md "wikilink")）[脚本语言](../Page/脚本语言.md "wikilink")\[1\]。Golly采用[GNU GPL第](https://zh.wikipedia.org/wiki/GNU_GPL "wikilink")2版协议发布，属于[自由软件](../Page/自由软件.md "wikilink")\[2\]。
 
 ## 算法与规则
 
@@ -44,14 +42,11 @@ Golly支持以下快捷操作和快捷键\[5\]\[6\]：
 
   - ：由Mirek Wójtowicz编写的模拟软件。项目主页：
 
-  - [Xlife](https://zh.wikipedia.org/wiki/Xlife "wikilink")：由Jon
-    Bennett编写的模拟软件。项目主页：
+  - [Xlife](https://zh.wikipedia.org/wiki/Xlife "wikilink")：由Jon Bennett编写的模拟软件。项目主页：
 
-  - [Life32](https://zh.wikipedia.org/wiki/Life32 "wikilink")：由Johan
-    Bontes编写的模拟软件。项目主页：
+  - [Life32](https://zh.wikipedia.org/wiki/Life32 "wikilink")：由Johan Bontes编写的模拟软件。项目主页：
 
-  - [LifeLab](https://zh.wikipedia.org/wiki/LifeLab "wikilink")：由Andrew
-    Trevorrow编写的模拟软件。项目主页：
+  - [LifeLab](https://zh.wikipedia.org/wiki/LifeLab "wikilink")：由Andrew Trevorrow编写的模拟软件。项目主页：
 
 ## 参考资料
 
@@ -59,9 +54,7 @@ Golly支持以下快捷操作和快捷键\[5\]\[6\]：
 
   - [Golly项目主页](http://golly.sourceforge.net/)
 
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink")
-[Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
+[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:开放源代码](https://zh.wikipedia.org/wiki/Category:开放源代码 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
 
 1.
 2.

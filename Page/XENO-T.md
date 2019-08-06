@@ -1,6 +1,4 @@
-**XENO-T**（），原為韓國[HUNUS娛樂原](https://zh.wikipedia.org/wiki/Hunus_Entertainment "wikilink")13人男子組合「**ToppDogg**」，於2013年10月24日以迷你一輯《Dogg's
-out》主打曲《說出來吧》（）出道\[1\]。2018年2月21日，宣布團名將改為「**XENO-T**」，現任5位成員為Hojoon、Sangdo、B-Joo、Xero、Sangwon。官方粉絲名稱為「**Topp
-Klass**」。
+**XENO-T**（），原為韓國[HUNUS娛樂原](https://zh.wikipedia.org/wiki/Hunus_Entertainment "wikilink")13人男子組合「**ToppDogg**」，於2013年10月24日以迷你一輯《Dogg's out》主打曲《說出來吧》（）出道\[1\]。2018年2月21日，宣布團名將改為「**XENO-T**」，現任5位成員為Hojoon、Sangdo、B-Joo、Xero、Sangwon。官方粉絲名稱為「**Topp Klass**」。
 
 ## 團體發展
 
@@ -18,10 +16,7 @@ Klass**」。
 
 ### 2017年：成员陆续退出、全团员参加选秀节目《The Unit》
 
-2月，[A-Tom確定退出](../Page/金相均.md "wikilink")，並決定參加[PRODUCE 101
-(第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")\[3\]\[4\]。[PRODUCE
-101
-(第二季)結束後](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")﹑[A-Tom投入](../Page/金相均.md "wikilink")[JBJ](../Page/JBJ.md "wikilink")\[5\]、[JBJ95](https://zh.wikipedia.org/wiki/JBJ95 "wikilink")\[6\]活動。
+2月，[A-Tom確定退出](../Page/金相均.md "wikilink")，並決定參加[PRODUCE 101 (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")\[3\]\[4\]。[PRODUCE 101 (第二季)結束後](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")﹑[A-Tom投入](../Page/金相均.md "wikilink")[JBJ](../Page/JBJ.md "wikilink")\[5\]、[JBJ95](https://zh.wikipedia.org/wiki/JBJ95 "wikilink")\[6\]活動。
 
 9月29日，经纪公司[HUNUS娱乐宣布](../Page/HUNUS娛樂.md "wikilink")：
 
@@ -320,13 +315,11 @@ Hansol<br />
 ### OST
 
   - 《[回來吧大叔](../Page/回來吧大叔.md "wikilink")》—— FEEL ALIVE
-  - 《[看見味道的少女](../Page/看見味道的少女.md "wikilink")》——《再五分鐘》（Just 5 More
-    Minutes）：NC.A、Topp Dogg（Yano、Sangdo）
+  - 《[看見味道的少女](../Page/看見味道的少女.md "wikilink")》——《再五分鐘》（Just 5 More Minutes）：NC.A、Topp Dogg（Yano、Sangdo）
 
 ### 合作單曲
 
-  - 《幼稚也 (유치해도)》（Prod. [李旼赫](../Page/李旼赫.md "wikilink")
-    ([BTOB](../Page/BTOB.md "wikilink"))）：[金昭喜](https://zh.wikipedia.org/wiki/金昭喜_\(1999年\) "wikilink")（[ELRIS](https://zh.wikipedia.org/wiki/ELRIS "wikilink")）、金相均（A-Tom）
+  - 《幼稚也 (유치해도)》（Prod. [李旼赫](../Page/李旼赫.md "wikilink") ([BTOB](../Page/BTOB.md "wikilink"))）：[金昭喜](https://zh.wikipedia.org/wiki/金昭喜_\(1999年\) "wikilink")（[ELRIS](https://zh.wikipedia.org/wiki/ELRIS "wikilink")）、金相均（A-Tom）
 
 ## 獎項
 
@@ -427,11 +420,7 @@ Hansol<br />
   -
   -
   -
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
 1.
 2.
@@ -440,6 +429,5 @@ Hansol<br />
 5.
 6.
 7.
-8.  [Topp Dogg 將改為五人體制，並以新團名 XENO-T
-    展開活動](https://www.kpopn.com/2018/02/22/topp-dogg-將改為五人體制，並以新團名-xeno-t-展開活動/)
+8.  [Topp Dogg 將改為五人體制，並以新團名 XENO-T 展開活動](https://www.kpopn.com/2018/02/22/topp-dogg-將改為五人體制，並以新團名-xeno-t-展開活動/)
 9.  韓文藝名由**비주**改為**비쥬**，但英文藝名**B-Joo**維持，請參考[B-Joo的Instagram簡介](https://www.instagram.com/bbangjooo/)

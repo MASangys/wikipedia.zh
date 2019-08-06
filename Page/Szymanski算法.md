@@ -1,11 +1,8 @@
-**Szymanski算法**是解决多个[线程](../Page/线程.md "wikilink")[并发访问一个共享资源的](https://zh.wikipedia.org/wiki/并发程序设计 "wikilink")[互斥问题的一个算法](../Page/互斥锁.md "wikilink")。由Boleslaw
-Szymanski于1988年提出。\[1\]\[2\]\[3\]该算法具有很多优良性能，如线性等待，解决了由Leslie
-Lamport提出的[开问题](https://zh.wikipedia.org/wiki/开问题 "wikilink")。\[4\]
+**Szymanski算法**是解决多个[线程](../Page/线程.md "wikilink")[并发访问一个共享资源的](https://zh.wikipedia.org/wiki/并发程序设计 "wikilink")[互斥问题的一个算法](../Page/互斥锁.md "wikilink")。由Boleslaw Szymanski于1988年提出。\[1\]\[2\]\[3\]该算法具有很多优良性能，如线性等待，解决了由Leslie Lamport提出的[开问题](https://zh.wikipedia.org/wiki/开问题 "wikilink")。\[4\]
 
 ## 算法的类比解释
 
-该算法可以用等候室(waiting
-room)做一个直观地类比。等候室有一个入口门与一个出口门。起初，入口门是打开的。所有想要进入[临界区的线程在差不多同一时间由入口进入等候室](https://zh.wikipedia.org/wiki/临界区 "wikilink")。最后一个进入的线程负责关闭进口门。然后在等候室的线程根据优先级高低依次进入临界区。最后退出临界区的线程负责打开入口门。
+该算法可以用等候室(waiting room)做一个直观地类比。等候室有一个入口门与一个出口门。起初，入口门是打开的。所有想要进入[临界区的线程在差不多同一时间由入口进入等候室](https://zh.wikipedia.org/wiki/临界区 "wikilink")。最后一个进入的线程负责关闭进口门。然后在等候室的线程根据优先级高低依次进入临界区。最后退出临界区的线程负责打开入口门。
 
 ## 算法的实现
 

@@ -1,10 +1,6 @@
-**back
-number**（バックナンバー，簡稱「バクナン」、「bn」、「bknb」等）是一個[日本](../Page/日本.md "wikilink")三人摇滚乐组合，属[环球音乐唱片公司旗下](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")，官方粉絲團名為「one
-room」。
+**back number**（バックナンバー，簡稱「バクナン」、「bn」、「bknb」等）是一個[日本](../Page/日本.md "wikilink")三人摇滚乐组合，属[环球音乐唱片公司旗下](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")，官方粉絲團名為「one room」。
 
-樂隊名稱「back number」在日本可以解作「雜誌的舊刊」，例如9月期的雜誌到了10月份就成為了「back
-number」；而清水取這名字是因為自己和樂隊成員被女生甩掉後，就會成為她們的「back
-number」，變成沒用的東西。\[1\]
+樂隊名稱「back number」在日本可以解作「雜誌的舊刊」，例如9月期的雜誌到了10月份就成為了「back number」；而清水取這名字是因為自己和樂隊成員被女生甩掉後，就會成為她們的「back number」，變成沒用的東西。\[1\]
 
 ## 历史
 
@@ -18,13 +14,11 @@ number」，變成沒用的東西。\[1\]
 
 ## 成员
 
-  - 清水依与吏（しみず いより） -
-    [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[吉他](../Page/吉他.md "wikilink")
+  - 清水依与吏（しみず いより） - [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[吉他](../Page/吉他.md "wikilink")
 
 1984年7月9日 -、群馬縣太田市出身
 
-  - 小島和也（こじま かずや） -
-    [貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")、[和聲](https://zh.wikipedia.org/wiki/和聲 "wikilink")
+  - 小島和也（こじま かずや） - [貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")、[和聲](https://zh.wikipedia.org/wiki/和聲 "wikilink")
 
 1984年5月16日 -、群馬縣伊勢崎市出身
 
@@ -415,13 +409,9 @@ number」，變成沒用的東西。\[1\]
 
   - [back number官方网站](http://backnumber.info)
 
-  - [back number - UNIVERSAL MUSIC
-    JAPAN](http://www.universal-music.co.jp/backnumber/)
+  - [back number - UNIVERSAL MUSIC JAPAN](http://www.universal-music.co.jp/backnumber/)
 
   -
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink")
-[Category:環球唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:環球唱片旗下藝人 "wikilink")
+[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:2004年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年成立的音樂團體 "wikilink") [Category:環球唱片旗下藝人](https://zh.wikipedia.org/wiki/Category:環球唱片旗下藝人 "wikilink")
 
-1.  [《朝5晚9》主題曲 back
-    number「聖誕歌」中文歌詞及字幕PV](http://kenshin.hk/2015/11/01/%E3%80%8A%E6%9C%9D5%E6%99%9A9%E3%80%8B%E4%B8%BB%E9%A1%8C%E6%9B%B2-back-number%E3%80%8C%E8%81%96%E8%AA%95%E6%AD%8C%E3%80%8D%E4%B8%AD%E6%96%87%E6%AD%8C%E8%A9%9E%E5%8F%8A%E5%AD%97%E5%B9%95pv/)，劍心回憶
+1.  [《朝5晚9》主題曲 back number「聖誕歌」中文歌詞及字幕PV](http://kenshin.hk/2015/11/01/%E3%80%8A%E6%9C%9D5%E6%99%9A9%E3%80%8B%E4%B8%BB%E9%A1%8C%E6%9B%B2-back-number%E3%80%8C%E8%81%96%E8%AA%95%E6%AD%8C%E3%80%8D%E4%B8%AD%E6%96%87%E6%AD%8C%E8%A9%9E%E5%8F%8A%E5%AD%97%E5%B9%95pv/)，劍心回憶

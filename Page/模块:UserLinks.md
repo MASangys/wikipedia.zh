@@ -1,34 +1,14 @@
 -----
 
-\-- UserLinks -- -- This module creates a list of links about a given
-user. It can be used on -- -- its own or from a template. See the /doc
-page for more documentation. --
+\-- UserLinks -- -- This module creates a list of links about a given user. It can be used on -- -- its own or from a template. See the /doc page for more documentation. --
 
 -----
 
 \-- Require necessary modules local yesno = require('Module:Yesno')
 
-\-- Lazily initialise modules that we might or might not need local
-mExtra --
-[Module:UserLinks/extra](https://zh.wikipedia.org/wiki/Module:UserLinks/extra "wikilink")
-local mArguments --
-[Module:Arguments](https://zh.wikipedia.org/wiki/Module:Arguments "wikilink")
-local mToolbar --
-[Module:Toolbar](https://zh.wikipedia.org/wiki/Module:Toolbar "wikilink")
-local mCategoryHandler -- [Module:Category
-handler](https://zh.wikipedia.org/wiki/Module:Category_handler "wikilink")
-local mTableTools --
-[Module:TableTools](https://zh.wikipedia.org/wiki/Module:TableTools "wikilink")
-local interwikiTable --
-[Module:InterwikiTable](https://zh.wikipedia.org/wiki/Module:InterwikiTable "wikilink"),
-loaded with mw.loadData
+\-- Lazily initialise modules that we might or might not need local mExtra -- [Module:UserLinks/extra](https://zh.wikipedia.org/wiki/Module:UserLinks/extra "wikilink") local mArguments -- [Module:Arguments](https://zh.wikipedia.org/wiki/Module:Arguments "wikilink") local mToolbar -- [Module:Toolbar](https://zh.wikipedia.org/wiki/Module:Toolbar "wikilink") local mCategoryHandler -- [Module:Category handler](https://zh.wikipedia.org/wiki/Module:Category_handler "wikilink") local mTableTools -- [Module:TableTools](https://zh.wikipedia.org/wiki/Module:TableTools "wikilink") local interwikiTable -- [Module:InterwikiTable](https://zh.wikipedia.org/wiki/Module:InterwikiTable "wikilink"), loaded with mw.loadData
 
-\-- Load shared helper functions local mShared =
-require('Module:UserLinks/shared') local raiseError = mShared.raiseError
-local maybeLoadModule = mShared.maybeLoadModule local makeWikitextError
-= mShared.makeWikitextError local makeWikilink = mShared.makeWikilink
-local makeUrlLink = mShared.makeUrlLink local makeFullUrlLink =
-mShared.makeFullUrlLink local message = mShared.message
+\-- Load shared helper functions local mShared = require('Module:UserLinks/shared') local raiseError = mShared.raiseError local maybeLoadModule = mShared.maybeLoadModule local makeWikitextError = mShared.makeWikitextError local makeWikilink = mShared.makeWikilink local makeUrlLink = mShared.makeUrlLink local makeFullUrlLink = mShared.makeFullUrlLink local message = mShared.message
 
 local p = {}
 
@@ -468,8 +448,7 @@ function p.getSnippets(args)
 `   -- automatically converted into the blank string by the metatable.`
 `   --`
 `   -- If you add a new snippet, please document it at`
-`   -- `[`Module:UserLinks#Adding``   ``new``
- ``links`](https://zh.wikipedia.org/wiki/Module:UserLinks#Adding_new_links "wikilink")`.`
+`   -- `[`Module:UserLinks#Adding``   ``new``   ``links`](https://zh.wikipedia.org/wiki/Module:UserLinks#Adding_new_links "wikilink")`.`
 `   --]=]`
 `   local snippets, snippetFunctions = {}, {}`
 `   setmetatable(snippets, {`
@@ -635,8 +614,7 @@ function p.getSnippets(args)
 `   end`
 
 `   -- End snippet functions. If you add a new snippet function, please`
-`   -- document it at `[`Module:UserLinks#Adding``   ``new``
- ``links`](https://zh.wikipedia.org/wiki/Module:UserLinks#Adding_new_links "wikilink")`.`
+`   -- document it at `[`Module:UserLinks#Adding``   ``new``   ``links`](https://zh.wikipedia.org/wiki/Module:UserLinks#Adding_new_links "wikilink")`.`
 
 `   return snippets`
 
@@ -757,8 +735,7 @@ function p.export(codes, links, options)
 
 `   -- Apply the sup option.`
 `   if options.sup then`
-`       toolbar = '`<sup>`'``   ``..``   ``toolbar``   ``..``
- ``'`</sup>`'`
+`       toolbar = '`<sup>`'``   ``..``   ``toolbar``   ``..``   ``'`</sup>`'`
 `   end`
 `   `
 `   -- If we are transcluding, add a non-breaking space, but if we are substing`
@@ -857,8 +834,7 @@ function p.linktable()
 `       local code = t[1]`
 `       local link = t[2]`
 `       ret[#ret + 1] = '|-'`
-`       ret[#ret + 1] = "| `**`"``   ``..``   ``code``   ``..``
- ``"`**`" `
+`       ret[#ret + 1] = "| `**`"``   ``..``   ``code``   ``..``   ``"`**`" `
 `       ret[#ret + 1] = '| ' .. link`
 `   end`
 `   ret[#ret + 1] = '|}'`

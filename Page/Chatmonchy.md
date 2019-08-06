@@ -29,8 +29,7 @@
 
 <!-- end list -->
 
-  - **[高橋 久美子](https://zh.wikipedia.org/wiki/高橋_久美子 "wikilink")**（たかはし
-    くみこ）
+  - **[高橋 久美子](https://zh.wikipedia.org/wiki/高橋_久美子 "wikilink")**（たかはし くみこ）
       - 1982年4月10日出生，[愛媛縣](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")[四国中央市出身](https://zh.wikipedia.org/wiki/四国中央市 "wikilink")，血型O型。
       - [愛媛縣立川之江高等学校](https://zh.wikipedia.org/wiki/愛媛縣立川之江高等学校 "wikilink")、[鳴門教育大学畢業](https://zh.wikipedia.org/wiki/鳴門教育大学 "wikilink")。
       - 擔任[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")、[和聲](../Page/和聲歌手.md "wikilink")、作詞。
@@ -396,9 +395,7 @@ KSCL-1937（通常盤）</p></td>
   -
   -
   -
-[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink")
-[Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink")
-[Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")
+[Category:日本搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本搖滾樂團 "wikilink") [Category:日本富士搖滾音樂祭參加歌手](https://zh.wikipedia.org/wiki/Category:日本富士搖滾音樂祭參加歌手 "wikilink") [Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")
 
 1.
 2.  [chatmonchy·高橋久美子退出　9月故鄉·德島最後的演出](http://www.oricon.co.jp/news/music/2000319/)

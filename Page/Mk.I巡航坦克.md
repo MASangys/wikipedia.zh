@@ -12,8 +12,7 @@
 
 儘管在某些方面有缺陷，但A9E1與其他幾款設計比較後，在1937年它還是被作為在擁有[克利斯蒂懸掛的巡洋坦克交付之前使用的過渡坦克](https://zh.wikipedia.org/wiki/克利斯蒂懸掛 "wikilink")。并被訂購了125輛。[哈蘭德與沃爾夫公司生產了](https://zh.wikipedia.org/wiki/哈蘭德與沃爾夫 "wikilink")75輛，另外50輛由維克斯公司生產。最開始它使用[勞斯萊斯的汽車發動機](https://zh.wikipedia.org/wiki/勞斯萊斯 "wikilink")，但是因為動力不足，後來被更換為[AEC的巴士發動機](https://zh.wikipedia.org/wiki/AEC "wikilink")。
 
-之後的[瓦倫丁步兵坦克實際上和A](../Page/瓦倫丁戰車.md "wikilink")9E1採用了同樣的底盤和懸掛，只不過裝甲來得厚實罷了。
-Mk.I巡洋坦克重量為12頓。長達5.8米，寬達2.5米，高達2.65米，在公路上速度能達到，越野時則為.最大行程為150英里。2磅炮載彈量為100發，維克斯機槍載彈量一共3000發。
+之後的[瓦倫丁步兵坦克實際上和A](../Page/瓦倫丁戰車.md "wikilink")9E1採用了同樣的底盤和懸掛，只不過裝甲來得厚實罷了。 Mk.I巡洋坦克重量為12頓。長達5.8米，寬達2.5米，高達2.65米，在公路上速度能達到，越野時則為.最大行程為150英里。2磅炮載彈量為100發，維克斯機槍載彈量一共3000發。
 
 ## 服役
 
@@ -53,8 +52,7 @@ Mk.I巡洋坦克從1939年1月開始交付使用。
   -
 <!-- end list -->
 
-  - [WWIIvehicles.com, accessed 23
-    October 2007](http://www.wwiivehicles.com/unitedkingdom/cruiser/mk-i-a9.asp)
+  - [WWIIvehicles.com, accessed 23 October 2007](http://www.wwiivehicles.com/unitedkingdom/cruiser/mk-i-a9.asp)
 
 <!-- end list -->
 
@@ -63,8 +61,6 @@ Mk.I巡洋坦克從1939年1月開始交付使用。
 
   - [在OnWar.com上的A9坦克資料](http://www.onwar.com/tanks/uk/data/ctmki.htm)
 
-[Category:英國坦克](https://zh.wikipedia.org/wiki/Category:英國坦克 "wikilink")
-[Category:輕型坦克](https://zh.wikipedia.org/wiki/Category:輕型坦克 "wikilink")
-[Category:二戰坦克](https://zh.wikipedia.org/wiki/Category:二戰坦克 "wikilink")
+[Category:英國坦克](https://zh.wikipedia.org/wiki/Category:英國坦克 "wikilink") [Category:輕型坦克](https://zh.wikipedia.org/wiki/Category:輕型坦克 "wikilink") [Category:二戰坦克](https://zh.wikipedia.org/wiki/Category:二戰坦克 "wikilink")
 
 1.

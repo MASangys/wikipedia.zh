@@ -1,18 +1,6 @@
-{{ 電視節目信息框 | 名稱 = MIX & MATCH | 圖片 =
-[MIX_&_MATCH_Logo.jpg](https://zh.wikipedia.org/wiki/File:MIX_&_MATCH_Logo.jpg "fig:MIX_&_MATCH_Logo.jpg")
-| 圖說 = | 類型 =
-[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、[出道實錄](https://zh.wikipedia.org/wiki/出道實錄 "wikilink")、[生存節目](https://zh.wikipedia.org/wiki/生存節目 "wikilink")
-| 導演 = | 演出 = 見[\#成員資料](https://zh.wikipedia.org/wiki/#成員資料 "wikilink")
-| 播出時間 = 每週四韓國時間23:00 | 電視台 =
-[Mnet](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink") | 主題曲 =
-《SHOW TIME》 | 片頭曲 = | 片尾曲 = 《Wait For Me》 | 作曲 = | 國家 =  | 語言 =
-[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | 集數 = 9 | 執行製片 =
-| 製片人 = | 每集長 = 約50分鐘 | 開始 = 2014年9月11日 | 結束 = 2014年11月6日 | 官方網站 = }}
+{{ 電視節目信息框 | 名稱 = MIX & MATCH | 圖片 = [MIX_&_MATCH_Logo.jpg](https://zh.wikipedia.org/wiki/File:MIX_&_MATCH_Logo.jpg "fig:MIX_&_MATCH_Logo.jpg") | 圖說 = | 類型 = [音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、[出道實錄](https://zh.wikipedia.org/wiki/出道實錄 "wikilink")、[生存節目](https://zh.wikipedia.org/wiki/生存節目 "wikilink") | 導演 = | 演出 = 見[\#成員資料](https://zh.wikipedia.org/wiki/#成員資料 "wikilink") | 播出時間 = 每週四韓國時間23:00 | 電視台 = [Mnet](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink") | 主題曲 = 《SHOW TIME》 | 片頭曲 = | 片尾曲 = 《Wait For Me》 | 作曲 = | 國家 =  | 語言 = [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | 集數 = 9 | 執行製片 = | 製片人 = | 每集長 = 約50分鐘 | 開始 = 2014年9月11日 | 結束 = 2014年11月6日 | 官方網站 = }}
 
-《MIX & MATCH》（韓語：믹스앤매치）是[YG
-Entertainment繼](../Page/YG娛樂.md "wikilink")2013年的《[WIN](../Page/WIN.md "wikilink")》出的生存節目，於2014年9月2日舉行了記者會公布有關此節目的內容及成員。開播日期為2014年9月11日，逢星期四韓國時間晚上11點在[Mnet播放](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")，同時也在[Naver網上直播](https://zh.wikipedia.org/wiki/Naver "wikilink")。參與這節目的成員包括在《[WIN](../Page/WIN.md "wikilink")》輸了的Team
-B成員—[B.I](../Page/B.I.md "wikilink")、[Bobby](../Page/金知元_\(饒舌者\).md "wikilink")、[金振煥](../Page/金振煥.md "wikilink")、[宋允亨](../Page/宋允亨.md "wikilink")、[金東赫](../Page/金東赫.md "wikilink")、[具俊會](../Page/具俊會.md "wikilink")
-六人，以及另外三名練習生—[鄭粲右](../Page/鄭粲右.md "wikilink")、[鄭鎮馨](https://zh.wikipedia.org/wiki/鄭鎮馨 "wikilink")、[梁洪碩](https://zh.wikipedia.org/wiki/梁洪碩 "wikilink")，當中[B.I](../Page/B.I.md "wikilink")、[Bobby](../Page/金知元_\(饒舌者\).md "wikilink")、[金振煥](../Page/金振煥.md "wikilink")已不必再選拔並會出道，另外六人則會再選四人出來進行出道。以70%的觀眾投票和30%的評審分數為選拔機制，最後選出來的七人將以團名「[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")」出道\[1\]。
+《MIX & MATCH》（韓語：믹스앤매치）是[YG Entertainment繼](../Page/YG娛樂.md "wikilink")2013年的《[WIN](../Page/WIN.md "wikilink")》出的生存節目，於2014年9月2日舉行了記者會公布有關此節目的內容及成員。開播日期為2014年9月11日，逢星期四韓國時間晚上11點在[Mnet播放](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")，同時也在[Naver網上直播](https://zh.wikipedia.org/wiki/Naver "wikilink")。參與這節目的成員包括在《[WIN](../Page/WIN.md "wikilink")》輸了的Team B成員—[B.I](../Page/B.I.md "wikilink")、[Bobby](../Page/金知元_\(饒舌者\).md "wikilink")、[金振煥](../Page/金振煥.md "wikilink")、[宋允亨](../Page/宋允亨.md "wikilink")、[金東赫](../Page/金東赫.md "wikilink")、[具俊會](../Page/具俊會.md "wikilink") 六人，以及另外三名練習生—[鄭粲右](../Page/鄭粲右.md "wikilink")、[鄭鎮馨](https://zh.wikipedia.org/wiki/鄭鎮馨 "wikilink")、[梁洪碩](https://zh.wikipedia.org/wiki/梁洪碩 "wikilink")，當中[B.I](../Page/B.I.md "wikilink")、[Bobby](../Page/金知元_\(饒舌者\).md "wikilink")、[金振煥](../Page/金振煥.md "wikilink")已不必再選拔並會出道，另外六人則會再選四人出來進行出道。以70%的觀眾投票和30%的評審分數為選拔機制，最後選出來的七人將以團名「[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")」出道\[1\]。
 
 ## 成員資料
 
@@ -36,10 +24,7 @@ B成員—[B.I](../Page/B.I.md "wikilink")、[Bobby](../Page/金知元_\(饒舌�
 
 ### 第一集
 
-2014年5月7日[YG娛樂](../Page/YG娛樂.md "wikilink")楊賢碩社長向TEAM
-B成員宣佈開始錄製節目。宣佈加入二名新成員[鄭粲右](../Page/鄭粲右.md "wikilink")和[鄭鎮馨](https://zh.wikipedia.org/wiki/鄭鎮馨 "wikilink")，跟不上成長的將會被淘汰。
-公開新曲《[Wait For
-Me](https://www.youtube.com/watch?v=sEJi_Bltlq0&index=24&list=PLjUVzlcpeN4S5hKdKdeAY6HuWE7eH7z3q/)》
+2014年5月7日[YG娛樂](../Page/YG娛樂.md "wikilink")楊賢碩社長向TEAM B成員宣佈開始錄製節目。宣佈加入二名新成員[鄭粲右](../Page/鄭粲右.md "wikilink")和[鄭鎮馨](https://zh.wikipedia.org/wiki/鄭鎮馨 "wikilink")，跟不上成長的將會被淘汰。 公開新曲《[Wait For Me](https://www.youtube.com/watch?v=sEJi_Bltlq0&index=24&list=PLjUVzlcpeN4S5hKdKdeAY6HuWE7eH7z3q/)》
 
 ### 第二集
 
@@ -55,9 +40,7 @@ Me](https://www.youtube.com/watch?v=sEJi_Bltlq0&index=24&list=PLjUVzlcpeN4S5hKdK
 
 ### 第三集
 
-宣佈新加入成員[梁洪碩](https://zh.wikipedia.org/wiki/梁洪碩 "wikilink")。進行模擬賽，分成三組舞台對決。
-《[Show Me The Money
-3](../Page/Show_Me_The_Money_3.md "wikilink")》第六輪團體舞台對決後台拍攝+金韓彬脫逃事件
+宣佈新加入成員[梁洪碩](https://zh.wikipedia.org/wiki/梁洪碩 "wikilink")。進行模擬賽，分成三組舞台對決。 《[Show Me The Money 3](../Page/Show_Me_The_Money_3.md "wikilink")》第六輪團體舞台對決後台拍攝+金韓彬脫逃事件
 
 | 分組名單                                       |
 | ------------------------------------------ |
@@ -68,9 +51,7 @@ Me](https://www.youtube.com/watch?v=sEJi_Bltlq0&index=24&list=PLjUVzlcpeN4S5hKdK
 
 ### 第四集
 
-模擬賽：演唱比賽中第一名隊伍全員合格，淘汱候補4名中的2名在舞蹈比賽中追加合格，最終2名淘汰。
-延續第三集，公開[B.I](../Page/B.I.md "wikilink")隊曲目 和
-[金振煥](../Page/金振煥.md "wikilink")隊曲目
+模擬賽：演唱比賽中第一名隊伍全員合格，淘汱候補4名中的2名在舞蹈比賽中追加合格，最終2名淘汰。 延續第三集，公開[B.I](../Page/B.I.md "wikilink")隊曲目 和 [金振煥](../Page/金振煥.md "wikilink")隊曲目
 
 | 分組名單                                       |
 | ------------------------------------------ |
@@ -101,9 +82,7 @@ Final舞台前最後一次模擬賽：歌唱和舞蹈比重是8:2；第一名全
 | [金振煥](../Page/金振煥.md "wikilink")           |
 | [B.I](../Page/B.I.md "wikilink")           |
 
-成員搬新家、逛超市、拜訪新鄰居[姜惠貞](../Page/姜惠貞.md "wikilink")和李Haru
-([Tablo的家](https://zh.wikipedia.org/wiki/Tablo "wikilink")。)。
-[BOBBY送感冒過勞的](../Page/金知元_\(饒舌者\).md "wikilink")[鄭粲右](../Page/鄭粲右.md "wikilink")去醫院。
+成員搬新家、逛超市、拜訪新鄰居[姜惠貞](../Page/姜惠貞.md "wikilink")和李Haru ([Tablo的家](https://zh.wikipedia.org/wiki/Tablo "wikilink")。)。 [BOBBY送感冒過勞的](../Page/金知元_\(饒舌者\).md "wikilink")[鄭粲右](../Page/鄭粲右.md "wikilink")去醫院。
 
 ### 第六集
 
@@ -118,9 +97,7 @@ Final舞台前最後一次模擬賽：歌唱和舞蹈比重是8:2；第一名全
 
 ### 第七集
 
-2014年9月11日，[BOBBY以Show](../Page/金知元_\(饒舌者\).md "wikilink") Me The Money
-S3 冠軍身份受邀參加 YG FAMILY PARTY進行公演。
-2014年10月4日，抵達日本大阪關西機場，準備iKON韓中日投票-粉絲見面會，利用空檔時間分組出去玩。
+2014年9月11日，[BOBBY以Show](../Page/金知元_\(饒舌者\).md "wikilink") Me The Money S3 冠軍身份受邀參加 YG FAMILY PARTY進行公演。 2014年10月4日，抵達日本大阪關西機場，準備iKON韓中日投票-粉絲見面會，利用空檔時間分組出去玩。
 
 | 分組名單                                                                                                                                                                                                                                                  | 目標       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- |
@@ -147,9 +124,7 @@ S3 冠軍身份受邀參加 YG FAMILY PARTY進行公演。
 
 ### 第八集
 
-**Final
-Match**舞台：特別MC：[劉仁娜](https://zh.wikipedia.org/wiki/劉仁娜 "wikilink")、[大聲](https://zh.wikipedia.org/wiki/大聲 "wikilink")；評審團投票30%，觀眾投票70%投票結算後選定。70%的觀眾投票裡包括中韓日全球投票，決賽現場投票、10月30日第八集播出時開始進行的短信投票和《MIX
-& MATCH》官方Facebook和LINE的網上投票。
+**Final Match**舞台：特別MC：[劉仁娜](https://zh.wikipedia.org/wiki/劉仁娜 "wikilink")、[大聲](https://zh.wikipedia.org/wiki/大聲 "wikilink")；評審團投票30%，觀眾投票70%投票結算後選定。70%的觀眾投票裡包括中韓日全球投票，決賽現場投票、10月30日第八集播出時開始進行的短信投票和《MIX & MATCH》官方Facebook和LINE的網上投票。
 
 | 第一輪                                                                                                                                                 | 第二輪 自作曲                                    |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ |
@@ -185,9 +160,7 @@ Final Match 表演舞台
 
   -
 
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")
 
 1.  [YG 新男團定名為 iKON](https://apps.facebook.com/ygmixandmatch/)
-2.  [MIX & MATCH Official Facebook
-    page](https://apps.facebook.com/ygmixandmatch/)
+2.  [MIX & MATCH Official Facebook page](https://apps.facebook.com/ygmixandmatch/)

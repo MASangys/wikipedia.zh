@@ -2,9 +2,7 @@
 
 ## 历史
 
-阿斯洛克发展于1950年初的火箭助飞鱼雷（RAT）计划，该计划是在中国湖的[海军军械试验站为水面舰艇研制针对战后出现的新型潜艇的](https://zh.wikipedia.org/wiki/海军军械试验站 "wikilink")[反潜武器](https://zh.wikipedia.org/wiki/反潜作战 "wikilink")，这些潜艇更加安静，航速更高，并装备有射程更远的高速自导鱼雷。除了装备探测范围更广的现代声纳之外，另外配备一種搭载空降鱼雷的航空载具，以提高对于敌对潜艇的打击突然性。RAT计划包括三个阶段。\[2\]
-RAT-A，RAT-B和RAT-C。RAT-A和RAT-B是开发一个紧凑和经济的区域反潜兵器，但被认为不可靠或范围太近。RAT-C是一个装备核深水炸弹的反潜武器。这可以有效打击至少8000码范围内的敌方潜艇。与原来的RAT火箭不同，RAT-C是具备相当大的扩展空间并需要安装在较大的军舰上。RAT-C项目不仅可以安装一个独立的核弹头用于反潜，并重新设计一个自动寻的反潜鱼雷。为了获得所需的精度，RAT-C火箭必须重新设计一种较大的侧鳍。该设计最后兼具可靠性和准确性，以及必要的打击范围。然而，RAT-C在1960年达到初始作战状态并登上美国海军（USS
-Norfolk DL-1）时，它的名字被更改为现在的ASROC。\[3\]\[4\]
+阿斯洛克发展于1950年初的火箭助飞鱼雷（RAT）计划，该计划是在中国湖的[海军军械试验站为水面舰艇研制针对战后出现的新型潜艇的](https://zh.wikipedia.org/wiki/海军军械试验站 "wikilink")[反潜武器](https://zh.wikipedia.org/wiki/反潜作战 "wikilink")，这些潜艇更加安静，航速更高，并装备有射程更远的高速自导鱼雷。除了装备探测范围更广的现代声纳之外，另外配备一種搭载空降鱼雷的航空载具，以提高对于敌对潜艇的打击突然性。RAT计划包括三个阶段。\[2\] RAT-A，RAT-B和RAT-C。RAT-A和RAT-B是开发一个紧凑和经济的区域反潜兵器，但被认为不可靠或范围太近。RAT-C是一个装备核深水炸弹的反潜武器。这可以有效打击至少8000码范围内的敌方潜艇。与原来的RAT火箭不同，RAT-C是具备相当大的扩展空间并需要安装在较大的军舰上。RAT-C项目不仅可以安装一个独立的核弹头用于反潜，并重新设计一个自动寻的反潜鱼雷。为了获得所需的精度，RAT-C火箭必须重新设计一种较大的侧鳍。该设计最后兼具可靠性和准确性，以及必要的打击范围。然而，RAT-C在1960年达到初始作战状态并登上美国海军（USS Norfolk DL-1）时，它的名字被更改为现在的ASROC。\[3\]\[4\]
 
 ## 使用國
 
@@ -38,17 +36,11 @@ Norfolk DL-1）时，它的名字被更改为现在的ASROC。\[3\]\[4\]
   - <http://www.gyrodynehelicopters.com/asroc.htm>
   - <http://designation-systems.net/dusrm/r-5.html>
 
-{{-}}
-[Category:反潜火箭](https://zh.wikipedia.org/wiki/Category:反潜火箭 "wikilink")
+{{-}}     [Category:反潜火箭](https://zh.wikipedia.org/wiki/Category:反潜火箭 "wikilink")
 
-[Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink")
-[Category:魚雷](https://zh.wikipedia.org/wiki/Category:魚雷 "wikilink")
+[Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink") [Category:魚雷](https://zh.wikipedia.org/wiki/Category:魚雷 "wikilink")
 
 1.
-2.  ["Navy Homing Torpedoes Fights
-    Subs."](http://books.google.com/books?id=5d0DAAAAMBAJ&pg=PA108&lpg=PA108&dq=rocket+assisted+torpedo&source=bl&ots=IxAcbiK5G9&sig=sVL0o_Sv_k-WB8CalZCpLuBvv78&hl=en&sa=X&ei=R-TqTrbYDtK-gAf8o82YCQ&sqi=2&ved=0CEEQ6AEwAw#v=onepage&q=rocket%20assisted%20torpedo&f=true)
-    *Popular Mechanics*, April 1958, p. 108.
-3.  Bill Gunston *Rocket & Missiles*, Salamander Books Ltd 1979, ISSB
-    0-517-26870-1
-4.  Norman Friedman *U.S. Destroyers* Naval Institute Press (April
-    1982), ISBN 08702-1733X, p. 280
+2.  ["Navy Homing Torpedoes Fights Subs."](http://books.google.com/books?id=5d0DAAAAMBAJ&pg=PA108&lpg=PA108&dq=rocket+assisted+torpedo&source=bl&ots=IxAcbiK5G9&sig=sVL0o_Sv_k-WB8CalZCpLuBvv78&hl=en&sa=X&ei=R-TqTrbYDtK-gAf8o82YCQ&sqi=2&ved=0CEEQ6AEwAw#v=onepage&q=rocket%20assisted%20torpedo&f=true) *Popular Mechanics*, April 1958, p. 108.
+3.  Bill Gunston *Rocket & Missiles*, Salamander Books Ltd 1979, ISSB 0-517-26870-1
+4.  Norman Friedman *U.S. Destroyers* Naval Institute Press (April 1982), ISBN 08702-1733X, p. 280

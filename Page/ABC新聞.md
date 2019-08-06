@@ -24,13 +24,9 @@ ABC新闻电台是ABC新闻旗下的电台服务，隶属于[ABC电视网](../Pa
 
 ### ABC新闻网站
 
-ABC新闻网站（）于1997年5月15日上线，当时由ABC新闻互联网风险投资公司（）负责运营，这是一家由星波公司（）和[美国广播公司](../Page/美国广播公司.md "wikilink")在1997年4月成立的合资公司。\[1\]\[2\]
-自1995年以来，星波公司还从美国广播公司的姊妹公司ESPN公司那获得了ESPN的品牌使用权和视频剪辑权，并以此成立了网站“ESPN网络体育地带”（后更名为“”）。迪士尼公司对其网络资产控制得越来越严格，这也意味着ABC新闻作为ABC新闻网站的合资方而拥有网站的编辑控制权。\[3\]
-在ABC新闻网站成立之前，迪士尼公司就购买了少量星波公司的股票，后来更是直接收购了该公司。\[4\]
+ABC新闻网站（）于1997年5月15日上线，当时由ABC新闻互联网风险投资公司（）负责运营，这是一家由星波公司（）和[美国广播公司](../Page/美国广播公司.md "wikilink")在1997年4月成立的合资公司。\[1\]\[2\] 自1995年以来，星波公司还从美国广播公司的姊妹公司ESPN公司那获得了ESPN的品牌使用权和视频剪辑权，并以此成立了网站“ESPN网络体育地带”（后更名为“”）。迪士尼公司对其网络资产控制得越来越严格，这也意味着ABC新闻作为ABC新闻网站的合资方而拥有网站的编辑控制权。\[3\] 在ABC新闻网站成立之前，迪士尼公司就购买了少量星波公司的股票，后来更是直接收购了该公司。\[4\]
 
-ABC新闻网站目前拥有30名全职工作人员。\[5\]
-由于采用[RealAudio和](https://zh.wikipedia.org/wiki/RealAudio "wikilink")[RealVideo](../Page/RealVideo.md "wikilink")技术，ABC新闻网站从一开始就在文章之外还提供视频和音频剪辑内容。\[6\]
-ABC新闻网站的部分内容也可以在[美国在线](../Page/美国在线.md "wikilink")上浏览。
+ABC新闻网站目前拥有30名全职工作人员。\[5\] 由于采用[RealAudio和](https://zh.wikipedia.org/wiki/RealAudio "wikilink")[RealVideo](../Page/RealVideo.md "wikilink")技术，ABC新闻网站从一开始就在文章之外还提供视频和音频剪辑内容。\[6\] ABC新闻网站的部分内容也可以在[美国在线](../Page/美国在线.md "wikilink")上浏览。
 
 ### 已停止的服务
 
@@ -44,9 +40,7 @@ ABC新闻网站的部分内容也可以在[美国在线](../Page/美国在线.md
 
 #### 聚变频道
 
-是美国一个基于[有线电视](../Page/有线电视.md "wikilink")和[卫星电视](../Page/卫星电视.md "wikilink")传播的[数字频道](../Page/数字电视.md "wikilink")，由ABC新闻和合资在2012年5月2日组建的聚变传媒网络有限责任公司（）负责掌控与运营。聚变频道于2013年10月28日开播，除了播出传统新闻频道的常规新闻和调查新闻节目之外，聚变频道还针对居住在美国并说[英语](../Page/英语.md "wikilink")的[西班牙裔或](../Page/西班牙裔美国人.md "wikilink")[拉丁裔](../Page/拉丁裔美国人.md "wikilink")18岁至34岁之间的年轻人推出专门的讽刺性报道内容。\[8\]\[9\]
-聚变频道是ABC新闻继1982年的卫星新闻频道和2004年的ABC实时新闻频道之后第三次涉足全天候有线新闻频道市场。2015年12月，有报道称迪士尼公司正打算向联视谈判出售聚变频道的股份。\[10\]
-最终分拆在2016年4月21日完成。\[11\]
+是美国一个基于[有线电视](../Page/有线电视.md "wikilink")和[卫星电视](../Page/卫星电视.md "wikilink")传播的[数字频道](../Page/数字电视.md "wikilink")，由ABC新闻和合资在2012年5月2日组建的聚变传媒网络有限责任公司（）负责掌控与运营。聚变频道于2013年10月28日开播，除了播出传统新闻频道的常规新闻和调查新闻节目之外，聚变频道还针对居住在美国并说[英语](../Page/英语.md "wikilink")的[西班牙裔或](../Page/西班牙裔美国人.md "wikilink")[拉丁裔](../Page/拉丁裔美国人.md "wikilink")18岁至34岁之间的年轻人推出专门的讽刺性报道内容。\[8\]\[9\] 聚变频道是ABC新闻继1982年的卫星新闻频道和2004年的ABC实时新闻频道之后第三次涉足全天候有线新闻频道市场。2015年12月，有报道称迪士尼公司正打算向联视谈判出售聚变频道的股份。\[10\] 最终分拆在2016年4月21日完成。\[11\]
 
 ## 合作机构
 
@@ -62,30 +56,14 @@ ABC新闻网站的部分内容也可以在[美国在线](../Page/美国在线.md
   -
   -
   -
-[Category:ABC新闻](https://zh.wikipedia.org/wiki/Category:ABC新闻 "wikilink")
-[Category:美國廣播公司](https://zh.wikipedia.org/wiki/Category:美國廣播公司 "wikilink")
-[Category:美國電視新聞](https://zh.wikipedia.org/wiki/Category:美國電視新聞 "wikilink")
-[Category:1945年建立的組織](https://zh.wikipedia.org/wiki/Category:1945年建立的組織 "wikilink")
+[Category:ABC新闻](https://zh.wikipedia.org/wiki/Category:ABC新闻 "wikilink") [Category:美國廣播公司](https://zh.wikipedia.org/wiki/Category:美國廣播公司 "wikilink") [Category:美國電視新聞](https://zh.wikipedia.org/wiki/Category:美國電視新聞 "wikilink") [Category:1945年建立的組織](https://zh.wikipedia.org/wiki/Category:1945年建立的組織 "wikilink")
 
-1.  [ABC News takes on the
-    Net](https://www.cnet.com/news/abc-news-takes-on-the-net/), Cnet,
-    1997-05-15
-2.  [ABC News – Bugs and All – Arrives on the
-    Web](https://www.wired.com/1997/05/abc-news-bugs-and-all-arrives-on-the-web/),
-    Wired, 1997-05-15
-3.  [A Barometer for New Media: ABC News Begins Online
-    Service](https://partners.nytimes.com/library/cyber/week/051297abcnews.html),
-    The New York Times Cybertimes, 1997-05-12
-4.  [IQ News: That’s A Wrap: Disney Completes Starwave
-    Purchase](http://www.adweek.com/brand-marketing/iq-news-thats-wrap-disney-completes-starwave-purchase-35419/),
-    Ad Week, 1998-05-04
-5.  [ABC News Digital Turns 18: What Happened When We Started a
-    Website](http://abcnews.go.com/Technology/abc-news-digital-turns-18-happened-started-website/story?id=31069909),
-    ABCNews.com, 2015-05-15
-6.  [ABC News Internet Ventures, Starwave, and Progressive Networks Team
-    Up to Deliver RealAudio and RealVideo Content for
-    ABCNEWS.com](http://www.prnewswire.com/news-releases/abc-news-internet-ventures-starwave-and-progressive-networks-team-up-to-deliver-realaudio-and-realvideo-content-for-abcnewscom-75596567.html),
-    1997-05-15, Progressive Networks
+1.  [ABC News takes on the Net](https://www.cnet.com/news/abc-news-takes-on-the-net/), Cnet, 1997-05-15
+2.  [ABC News – Bugs and All – Arrives on the Web](https://www.wired.com/1997/05/abc-news-bugs-and-all-arrives-on-the-web/), Wired, 1997-05-15
+3.  [A Barometer for New Media: ABC News Begins Online Service](https://partners.nytimes.com/library/cyber/week/051297abcnews.html), The New York Times Cybertimes, 1997-05-12
+4.  [IQ News: That’s A Wrap: Disney Completes Starwave Purchase](http://www.adweek.com/brand-marketing/iq-news-thats-wrap-disney-completes-starwave-purchase-35419/), Ad Week, 1998-05-04
+5.  [ABC News Digital Turns 18: What Happened When We Started a Website](http://abcnews.go.com/Technology/abc-news-digital-turns-18-happened-started-website/story?id=31069909), ABCNews.com, 2015-05-15
+6.  [ABC News Internet Ventures, Starwave, and Progressive Networks Team Up to Deliver RealAudio and RealVideo Content for ABCNEWS.com](http://www.prnewswire.com/news-releases/abc-news-internet-ventures-starwave-and-progressive-networks-team-up-to-deliver-realaudio-and-realvideo-content-for-abcnewscom-75596567.html), 1997-05-15, Progressive Networks
 7.
 8.
 9.

@@ -16,8 +16,7 @@ VS系列</p></td>
 </tbody>
 </table>
 
-《**未來戰隊時間連者 VS
-GOGOV**》（原文：未来戦隊タイムレンジャーVSゴーゴーファイブ）。係於2001年3月9日在日發售的戰隊系列V-cimema。
+《**未來戰隊時間連者 VS GOGOV**》（原文：未来戦隊タイムレンジャーVSゴーゴーファイブ）。係於2001年3月9日在日發售的戰隊系列V-cimema。
 
 ## 概要
 
@@ -66,48 +65,39 @@ GOGOV**》（原文：未来戦隊タイムレンジャーVSゴーゴーファ�
 ### 戰隊關係者
 
   -
-    **塔克<small>｜**[沼田祐介](../Page/沼田祐介.md "wikilink")／台配：[李景唐](../Page/李景唐.md "wikilink")
-    聲</small>
+    **塔克<small>｜**[沼田祐介](../Page/沼田祐介.md "wikilink")／台配：[李景唐](../Page/李景唐.md "wikilink") 聲</small>
     **巽世界<small>｜**[マイク眞木](https://zh.wikipedia.org/wiki/マイク眞木 "wikilink")／台配：[符爽](../Page/符爽.md "wikilink")</small>
 
 ### 洗錢幫
 
   -
-    **唐·多尼洛<small>｜**[大友龍三郎](../Page/大友龍三郎.md "wikilink")／台配：[符爽](../Page/符爽.md "wikilink")
-    聲</small>
-    **基恩<small>｜**[戶部公爾](https://zh.wikipedia.org/wiki/戶部公爾 "wikilink")
-    聲</small>
+    **唐·多尼洛<small>｜**[大友龍三郎](../Page/大友龍三郎.md "wikilink")／台配：[符爽](../Page/符爽.md "wikilink") 聲</small>
+    **基恩<small>｜**[戶部公爾](https://zh.wikipedia.org/wiki/戶部公爾 "wikilink") 聲</small>
     **莉拉<small>｜**[久瑠あさ美](https://zh.wikipedia.org/wiki/久瑠あさ美 "wikilink")／台配：[汪世瑋](../Page/汪世瑋.md "wikilink")</small>
 
 ### 本作原創角色
 
   -
-    **殺人拳擊手·波利巴爾<small>｜**[矢尾一樹](../Page/矢尾一樹.md "wikilink")／台配：[曹冀魯](../Page/曹冀魯.md "wikilink")
-    聲</small>
+    **殺人拳擊手·波利巴爾<small>｜**[矢尾一樹](../Page/矢尾一樹.md "wikilink")／台配：[曹冀魯](../Page/曹冀魯.md "wikilink") 聲</small>
       -
         在未來世界犯下多起殺人致死罪的兇惡級罪犯，自稱宇宙最強的拳擊手。對於自己的拳擊實力相當具有信心。在城市裡到處引起火災、進行破壞都是為了引出時連者們。在差點遭到時連者的壓縮冷凍時，皮耶魯施予「闇之力」在欲作為他實驗材料的波利巴爾身上，便因此躲過冷凍的命運，甚至連威力都得到了強化。
         之後，和雷亞爾一同在穿越時空後的[史前時代](../Page/史前時代.md "wikilink")與龍也、纏對戰。
-    **咒語師·皮耶魯<small>｜**[松野太紀](../Page/松野太紀.md "wikilink")／台配：[于正昌](../Page/于正昌.md "wikilink")
-    聲</small>
+    **咒語師·皮耶魯<small>｜**[松野太紀](../Page/松野太紀.md "wikilink")／台配：[于正昌](../Page/于正昌.md "wikilink") 聲</small>
       -
         『[救急戰隊GOGOV](../Page/救急戰隊GOGOV.md "wikilink")』中唯一的災魔殘黨，於本作與洗錢幫聯手。
         **合成災魔·波利皮耶魯**
           -
             皮耶魯利用巫術，和波利巴爾進行「災魔合身」後的合體災魔鬥士。以劍為武器。實力在時間機械人α和時間之影之上，甚至能迫使時間機械人之影α解除合體。最後，靠著兩大戰隊共同的心與鬥志所創造出的新必殺技**壓縮陽炎**成功擊敗了波利皮耶魯。波利巴爾逃不過遭到壓縮冷凍的命運，皮耶魯則因此被消滅。
-    **雷亞爾<small>｜**[服卷浩司](https://zh.wikipedia.org/wiki/服卷浩司 "wikilink")／台配：[符爽](../Page/符爽.md "wikilink")
-    聲</small>
+    **雷亞爾<small>｜**[服卷浩司](https://zh.wikipedia.org/wiki/服卷浩司 "wikilink")／台配：[符爽](../Page/符爽.md "wikilink") 聲</small>
       -
         於電視版33話中登場的惡德金融業者·多葛爾的雙胞胎弟弟。和其他囚犯為了引出時連者而破壞城市。接受了皮耶爾「闇之力」的強化。之後，和波利巴爾在史前時代與龍也、纏對決。
-    **露比婭<small>｜**[小松由佳](../Page/小松由佳_\(声优\).md "wikilink")／台配：[汪世瑋](../Page/汪世瑋.md "wikilink")
-    聲</small>
+    **露比婭<small>｜**[小松由佳](../Page/小松由佳_\(声优\).md "wikilink")／台配：[汪世瑋](../Page/汪世瑋.md "wikilink") 聲</small>
       -
         於電視版15話中登場的狙擊手·蕾荷的姐姐。以[雷射槍為武器](https://zh.wikipedia.org/wiki/雷射 "wikilink")。和其他囚犯為了引出時連者而破壞城市。接受了皮耶爾「闇之力」的強化。之後，和狄納爾在穿越時空後的[西部時代與綾瀨](https://zh.wikipedia.org/wiki/美國舊西部 "wikilink")、優理、流水、祭展開戰鬥。
-    **帕茲<small>｜**[前原實](https://zh.wikipedia.org/wiki/前原實 "wikilink")
-    聲</small>
+    **帕茲<small>｜**[前原實](https://zh.wikipedia.org/wiki/前原實 "wikilink") 聲</small>
       -
         於電視版10話中登場的傭兵·歐古的伯父。和其他囚犯為了引出時連者而破壞城市。接受了皮耶爾「闇之力」的強化。之後，和西林古在穿越時空後的[江戶時代迎擊土門](https://zh.wikipedia.org/wiki/江戶時代 "wikilink")、席恩、鐘、大門。
-    **狄納爾<small>｜**[塩野勝美](https://zh.wikipedia.org/wiki/塩野勝美 "wikilink")
-    聲</small>
+    **狄納爾<small>｜**[塩野勝美](https://zh.wikipedia.org/wiki/塩野勝美 "wikilink") 聲</small>
       -
         於電視版12話中登場的恐嚇犯·蓋馬爾克的堂弟。以[機關槍為武器](https://zh.wikipedia.org/wiki/機關槍 "wikilink")。和其他囚犯為了引出時連者而破壞城市。接受了皮耶爾「闇之力」的強化。之後和露比婭一同與綾瀨等四人戰鬥。
     **西林古<small>｜**[田中大文](../Page/田中大文.md "wikilink") 聲</small>
@@ -121,9 +111,7 @@ GOGOV**》（原文：未来戦隊タイムレンジャーVSゴーゴーファ�
   -
     **時間機械人α**
       -
-        GOGO
-        V等人將「猛烈燃燒的救急魂」藉由燃燒的勇氣之劍，傳給了時連者們，最後騎乘在V-Rex上使出合體技**壓縮陽炎Pressure
-        Prominence**，順利擊敗波利皮耶魯。
+        GOGO V等人將「猛烈燃燒的救急魂」藉由燃燒的勇氣之劍，傳給了時連者們，最後騎乘在V-Rex上使出合體技**壓縮陽炎Pressure Prominence**，順利擊敗波利皮耶魯。
     **時間之影**
     **δ陣型 時間機械人之影α**
     **V-Rex**

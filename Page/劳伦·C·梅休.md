@@ -34,18 +34,10 @@
 
   -
   -
-  - [Interview](https://web.archive.org/web/20090306140751/http://inevitable-fate.net/lauren/clarksonintegrator.html)
-    by Clarkson Integrator
+  - [Interview](https://web.archive.org/web/20090306140751/http://inevitable-fate.net/lauren/clarksonintegrator.html) by Clarkson Integrator
 
-  - [Interview](http://www.freewebs.com/famousfans/laurencmayhew.htm) at
-    Famous Fans
+  - [Interview](http://www.freewebs.com/famousfans/laurencmayhew.htm) at Famous Fans
 
-  - [Interview](https://web.archive.org/web/20120207125012/http://news.mywebpal.com/news_tool_v2.cfm?show=archivedetails&pnpid=956&om=1&ArchiveID=1067994&requesttimeout=100)
-    from *[Alachua County
-    Today](https://zh.wikipedia.org/wiki/Alachua_County_Today "wikilink")*
+  - [Interview](https://web.archive.org/web/20120207125012/http://news.mywebpal.com/news_tool_v2.cfm?show=archivedetails&pnpid=956&om=1&ArchiveID=1067994&requesttimeout=100) from *[Alachua County Today](https://zh.wikipedia.org/wiki/Alachua_County_Today "wikilink")*
 
-[Category:21世纪美国女演员](https://zh.wikipedia.org/wiki/Category:21世纪美国女演员 "wikilink")
-[Category:美國電影女演員](https://zh.wikipedia.org/wiki/Category:美國電影女演員 "wikilink")
-[Category:美國電視女演員](https://zh.wikipedia.org/wiki/Category:美國電視女演員 "wikilink")
-[Category:美国女歌手](https://zh.wikipedia.org/wiki/Category:美国女歌手 "wikilink")
-[Category:20世纪美国女演员](https://zh.wikipedia.org/wiki/Category:20世纪美国女演员 "wikilink")
+[Category:21世纪美国女演员](https://zh.wikipedia.org/wiki/Category:21世纪美国女演员 "wikilink") [Category:美國電影女演員](https://zh.wikipedia.org/wiki/Category:美國電影女演員 "wikilink") [Category:美國電視女演員](https://zh.wikipedia.org/wiki/Category:美國電視女演員 "wikilink") [Category:美国女歌手](https://zh.wikipedia.org/wiki/Category:美国女歌手 "wikilink") [Category:20世纪美国女演员](https://zh.wikipedia.org/wiki/Category:20世纪美国女演员 "wikilink")

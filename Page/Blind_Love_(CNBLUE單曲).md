@@ -1,7 +1,4 @@
-《**Blind
-Love**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第八張單曲，由[李宗泫](../Page/李宗泫.md "wikilink")和Vinyl
-House 編寫歌曲及製作，並在2013年4月24日以三個不同版本推出。這也是他們第五張由[華納唱片
-(日本)發行的單曲](../Page/日本華納音樂.md "wikilink")\[1\]。
+《**Blind Love**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")的第八張單曲，由[李宗泫](../Page/李宗泫.md "wikilink")和Vinyl House 編寫歌曲及製作，並在2013年4月24日以三個不同版本推出。這也是他們第五張由[華納唱片 (日本)發行的單曲](../Page/日本華納音樂.md "wikilink")\[1\]。
 
 ## 背景
 
@@ -11,15 +8,11 @@ House 編寫歌曲及製作，並在2013年4月24日以三個不同版本推出�
 
 此單曲共分為3個發行版本，包括兩個限量版本及一個通常版本，每個版本都收錄了不同歌曲的純音樂版本、不同的隨附卡序列碼和一張參加特別活動的抽獎券。
 
-  - 初回限定盤A：這版本包括了一片收錄了《With Your
-    Eyes》的純音樂版本的單曲CD、一片收錄2012年12月24日在[國立代代木競技場](../Page/國立代代木競技場.md "wikilink")第一體育館舉行之《Music
-    for All, All for One》音樂會片段及《Blind
-    Love》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD、一張參加特別活動的抽獎券和隨附卡序列碼版本A\[5\]。
+  - 初回限定盤A：這版本包括了一片收錄了《With Your Eyes》的純音樂版本的單曲CD、一片收錄2012年12月24日在[國立代代木競技場](../Page/國立代代木競技場.md "wikilink")第一體育館舉行之《Music for All, All for One》音樂會片段及《Blind Love》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD、一張參加特別活動的抽獎券和隨附卡序列碼版本A\[5\]。
 
 <!-- end list -->
 
-  - 初回限定盤B：這版本包括了一片收錄了《Greedy Man》的純音樂版本的單曲CD、一片收錄2012年12月23日在[東京Fashion
-    Town舉行之](https://zh.wikipedia.org/wiki/東京Fashion_Town "wikilink")《[Robot](../Page/Robot_\(CNBLUE單曲\).md "wikilink")》發行音樂會片段的DVD、兩張參加特別活動的抽獎券和隨附卡序列碼版本B\[6\]。
+  - 初回限定盤B：這版本包括了一片收錄了《Greedy Man》的純音樂版本的單曲CD、一片收錄2012年12月23日在[東京Fashion Town舉行之](https://zh.wikipedia.org/wiki/東京Fashion_Town "wikilink")《[Robot](../Page/Robot_\(CNBLUE單曲\).md "wikilink")》發行音樂會片段的DVD、兩張參加特別活動的抽獎券和隨附卡序列碼版本B\[6\]。
 
 <!-- end list -->
 
@@ -27,10 +20,7 @@ House 編寫歌曲及製作，並在2013年4月24日以三個不同版本推出�
 
 ## 單曲內容
 
-《Blind Love》由CNBLUE成員[李宗泫](../Page/李宗泫.md "wikilink")和Vinyl
-House創作，宗泫同時創作了B面第一首歌《With Your
-Eyes》。另一位成員[鄭容和](../Page/鄭容和.md "wikilink")則和金在陽（）創作了B面第二首歌《Greedy
-Man》。
+《Blind Love》由CNBLUE成員[李宗泫](../Page/李宗泫.md "wikilink")和Vinyl House創作，宗泫同時創作了B面第一首歌《With Your Eyes》。另一位成員[鄭容和](../Page/鄭容和.md "wikilink")則和金在陽（）創作了B面第二首歌《Greedy Man》。
 
 ## 曲目
 
@@ -65,8 +55,7 @@ Man》。
 
   -
 
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:CNBLUE歌曲](https://zh.wikipedia.org/wiki/Category:CNBLUE歌曲 "wikilink")
+[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:CNBLUE歌曲](https://zh.wikipedia.org/wiki/Category:CNBLUE歌曲 "wikilink")
 
 1.
 

@@ -1,6 +1,4 @@
-《**閃電十一人GO2 時空之石
-熱風/雷鳴**》（）由[LEVEL-5](../Page/LEVEL-5.md "wikilink")推出閃電十一人GO的第二作，並將平台設置在[任天堂3DS](../Page/任天堂3DS.md "wikilink")遊戲。可與《[閃電十一人1.2.3\!\!
-圓堂守傳說](https://zh.wikipedia.org/wiki/閃電十一人1.2.3!!_圓堂守傳說 "wikilink")》作連動。
+《**閃電十一人GO2 時空之石 熱風/雷鳴**》（）由[LEVEL-5](../Page/LEVEL-5.md "wikilink")推出閃電十一人GO的第二作，並將平台設置在[任天堂3DS](../Page/任天堂3DS.md "wikilink")遊戲。可與《[閃電十一人1.2.3\!\! 圓堂守傳說](https://zh.wikipedia.org/wiki/閃電十一人1.2.3!!_圓堂守傳說 "wikilink")》作連動。
 
 ## 角色列表
 
@@ -46,8 +44,7 @@
   - 平行世界的共鳴現象
     天馬等人為了阻止足球的歷史被竄改而進行的戰鬥中，會發生的現象，此現象是由於平行世界的其他同一個人所互相造成的影響，比如說：中學時期的圓堂守能提早使用黃金神掌和化身。
   - 極限合體
-    是以兩人能夠相融為前提，在此基礎上開始融合同時又必須得承受得住對方的靈氣。目前能夠極限合體的人除了菲和霸王龍、天馬和愁、優一和京介、神童和信長、霧野和貞德、太陽和孔明、信助和劉備、錦龍馬和坂本龍馬、京介和總司、托普和托強、菲和嗶克、黃名子和霸王之龍、天馬和亞瑟王、扎納克和科拉羅傑、扎納克和曹操之外沒有任何人能夠極限合體，另外進行極限合體的人似乎能使用被吸收靈氣的人的化身，原因是因為吸收他人的靈氣就等於是擁有了被吸收靈氣的人的氣場的緣故（例如扎納古和曹操進行極限合體後發動了曹操的化身「剛力的玄武」、太陽和諸葛孔明進行極限合體後發動了孔明的化身「蒼天的霸者
-    玉龍」）。
+    是以兩人能夠相融為前提，在此基礎上開始融合同時又必須得承受得住對方的靈氣。目前能夠極限合體的人除了菲和霸王龍、天馬和愁、優一和京介、神童和信長、霧野和貞德、太陽和孔明、信助和劉備、錦龍馬和坂本龍馬、京介和總司、托普和托強、菲和嗶克、黃名子和霸王之龍、天馬和亞瑟王、扎納克和科拉羅傑、扎納克和曹操之外沒有任何人能夠極限合體，另外進行極限合體的人似乎能使用被吸收靈氣的人的化身，原因是因為吸收他人的靈氣就等於是擁有了被吸收靈氣的人的氣場的緣故（例如扎納古和曹操進行極限合體後發動了曹操的化身「剛力的玄武」、太陽和諸葛孔明進行極限合體後發動了孔明的化身「蒼天的霸者 玉龍」）。
   - 球型裝置
     可收縮為只有紅色的圓片。埃爾多拉特(白色)，扎納克(紅色)和完美病毒(藍色)所使用的足球型多功能裝置，表面有七個各有功能的圓形，紅色為時空移轉模式、藍色為移動模式、青色為場地製造模式、黃色為心智控制模式、橘色為攻擊模式、綠色為制服模式、紫色為封印模式。
   - 霸者的聖典
@@ -70,21 +67,13 @@
 ## 相關連結
 
   - [閃電十一人GO](../Page/閃電十一人GO.md "wikilink")
-  - [閃電十一人 王牌前鋒 2012
-    Xtreme](https://zh.wikipedia.org/wiki/閃電十一人_王牌前鋒_2012_Xtreme "wikilink")
-  - [閃電十一人GO 王牌前鋒
-    2013](https://zh.wikipedia.org/wiki/閃電十一人GO_王牌前鋒_2013 "wikilink")
+  - [閃電十一人 王牌前鋒 2012 Xtreme](https://zh.wikipedia.org/wiki/閃電十一人_王牌前鋒_2012_Xtreme "wikilink")
+  - [閃電十一人GO 王牌前鋒 2013](https://zh.wikipedia.org/wiki/閃電十一人GO_王牌前鋒_2013 "wikilink")
 
 ## 外部連結
 
   - [閃電十一人GO2 官方網站](http://www.inazuma.jp/go2/index.html)
 
-  - [東京電視台 閃電十一人GO2
-    網站](http://www.tv-tokyo.co.jp/anime/inazumago/index2.html)
+  - [東京電視台 閃電十一人GO2 網站](http://www.tv-tokyo.co.jp/anime/inazumago/index2.html)
 
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:閃電十一人系列電子遊戲](https://zh.wikipedia.org/wiki/Category:閃電十一人系列電子遊戲 "wikilink")
-[Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink")
-[Category:任天堂3DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS独占游戏 "wikilink")
-[Category:Nintendo_Network遊戲](https://zh.wikipedia.org/wiki/Category:Nintendo_Network遊戲 "wikilink")
-[Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink")
+[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:閃電十一人系列電子遊戲](https://zh.wikipedia.org/wiki/Category:閃電十一人系列電子遊戲 "wikilink") [Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink") [Category:任天堂3DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS独占游戏 "wikilink") [Category:Nintendo_Network遊戲](https://zh.wikipedia.org/wiki/Category:Nintendo_Network遊戲 "wikilink") [Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink")

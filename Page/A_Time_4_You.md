@@ -1,13 +1,8 @@
-《**A Time 4
-You**》是[林峯第八張個人專輯](https://zh.wikipedia.org/wiki/林峯 "wikilink")，亦為首張新曲加精選專輯，此專輯於2013年1月25日推出發行。全碟17首歌曲，分別收錄4首新歌，包括《Nice》（“A
-Time 4 You 林峰演唱會”主題曲）、《Once
-Again》、《BB》、《同林》（微電影《愛在魅來1分鐘》主題曲），也收錄兩套電視劇《[雷霆掃毒](../Page/雷霆掃毒.md "wikilink")》的片尾曲《幼稚完》和《[回到三國](../Page/回到三國.md "wikilink")》主題曲《等你回來》；而其餘11首精選歌都是林峯親自從出道唱片《[愛在記憶中找你](../Page/愛在記憶中找你.md "wikilink")》至《[LF](../Page/LF_\(專輯\).md "wikilink")》之中選出的11首精選歌。
+《**A Time 4 You**》是[林峯第八張個人專輯](https://zh.wikipedia.org/wiki/林峯 "wikilink")，亦為首張新曲加精選專輯，此專輯於2013年1月25日推出發行。全碟17首歌曲，分別收錄4首新歌，包括《Nice》（“A Time 4 You 林峰演唱會”主題曲）、《Once Again》、《BB》、《同林》（微電影《愛在魅來1分鐘》主題曲），也收錄兩套電視劇《[雷霆掃毒](../Page/雷霆掃毒.md "wikilink")》的片尾曲《幼稚完》和《[回到三國](../Page/回到三國.md "wikilink")》主題曲《等你回來》；而其餘11首精選歌都是林峯親自從出道唱片《[愛在記憶中找你](../Page/愛在記憶中找你.md "wikilink")》至《[LF](../Page/LF_\(專輯\).md "wikilink")》之中選出的11首精選歌。
 
 ## 曲目列表
 
-《A Time 4
-You》收錄6首新歌及11首精選歌曲與2首MV；也是林峯首次擔任監製並監製3首歌曲；隨碟附上微電影《愛在魅來1分鐘》和《同林》Music
-Video DVD。
+《A Time 4 You》收錄6首新歌及11首精選歌曲與2首MV；也是林峯首次擔任監製並監製3首歌曲；隨碟附上微電影《愛在魅來1分鐘》和《同林》Music Video DVD。
 
 <table>
 <tbody>
@@ -197,46 +192,30 @@ LF<br />
 
 ## 所獲獎項
 
-  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")[2012](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink")
-    ：十大勁歌金曲 -《幼稚完》
-  - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")[2013](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink")
-    ： 新城勁爆歌曲 -《Nice》
-  - [MY
-    AOD我的最愛頒獎典禮2012](../Page/MY_AOD我的最愛頒獎典禮2012.md "wikilink")：我的最愛電視歌曲
-    - 《幼稚完》
+  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")[2012](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink") ：十大勁歌金曲 -《幼稚完》
+  - [新城勁爆頒獎禮](../Page/新城勁爆頒獎禮.md "wikilink")[2013](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink") ： 新城勁爆歌曲 -《Nice》
+  - [MY AOD我的最愛頒獎典禮2012](../Page/MY_AOD我的最愛頒獎典禮2012.md "wikilink")：我的最愛電視歌曲 - 《幼稚完》
   - 第九屆勁歌王全球華人樂壇頒獎音樂盛典：粵語金曲獎 - 《幼稚完》
   - 音樂先鋒榜2013年度頒獎典禮：港臺十大先鋒金曲 - 《同林》
   - YAHOO ASIA BUZZ AWARDS 2013：人氣微電影主題曲- 《同林》
-  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")[2013](https://zh.wikipedia.org/wiki/2013年度十大勁歌金曲得獎名單 "wikilink")：勁歌金曲奬
-    - 《同林》
-  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")[2013](https://zh.wikipedia.org/wiki/2013年度十大勁歌金曲得獎名單 "wikilink")：勁歌金曲奬
-    - 《NICE》
-  - [IFPI香港唱片銷量大獎頒獎典禮](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎 "wikilink")2013：十大銷量廣東唱片
-    - 《A Time 4 You》
+  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")[2013](https://zh.wikipedia.org/wiki/2013年度十大勁歌金曲得獎名單 "wikilink")：勁歌金曲奬 - 《同林》
+  - [十大勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/十大勁歌金曲頒獎典禮 "wikilink")[2013](https://zh.wikipedia.org/wiki/2013年度十大勁歌金曲得獎名單 "wikilink")：勁歌金曲奬 - 《NICE》
+  - [IFPI香港唱片銷量大獎頒獎典禮](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎 "wikilink")2013：十大銷量廣東唱片 - 《A Time 4 You》
 
 ## 銷售情況
 
-  - 《YesAsia 2013上半年華語音樂銷售榜》第7位：《A Time 4 You 新曲+精选 (CD + DVD)
-    》(特別版)[1](http://www.yesasia.com/yumcha/0-0-0-arid.499-zh_TW/featured-article.html)。
-  - 《YesAsia 2013上半年華語音樂銷售榜》第8位：《A Time 4 You Concert 2013
-    Karaoke》[2](http://www.yesasia.com/yumcha/0-0-0-arid.499-zh_TW/featured-article.html)。
-  - 《YesAsia 華語音樂銷售榜2013》十大華語專輯第10位：《A Time 4 You 新曲+精选 (CD + DVD)
-    》[3](http://www.yesasia.com/yumcha/0-0-0-arid.524-zh_TW/featured-article.html)。
-  - 《YesAsia 華語音樂銷售榜2013》十大華語演唱會第3位：《A Time 4 You
-    演唱會2013》[4](http://www.yesasia.com/yumcha/0-0-0-arid.524-zh_TW/featured-article.html)。
-  - 《YesAsia 華語音樂銷售榜2013》 -
-    十大暢銷歌手第9位[5](http://www.yesasia.com/yumcha/0-0-0-arid.524-zh_TW/featured-article.html)。
+  - 《YesAsia 2013上半年華語音樂銷售榜》第7位：《A Time 4 You 新曲+精选 (CD + DVD) 》(特別版)[1](http://www.yesasia.com/yumcha/0-0-0-arid.499-zh_TW/featured-article.html)。
+  - 《YesAsia 2013上半年華語音樂銷售榜》第8位：《A Time 4 You Concert 2013 Karaoke》[2](http://www.yesasia.com/yumcha/0-0-0-arid.499-zh_TW/featured-article.html)。
+  - 《YesAsia 華語音樂銷售榜2013》十大華語專輯第10位：《A Time 4 You 新曲+精选 (CD + DVD) 》[3](http://www.yesasia.com/yumcha/0-0-0-arid.524-zh_TW/featured-article.html)。
+  - 《YesAsia 華語音樂銷售榜2013》十大華語演唱會第3位：《A Time 4 You 演唱會2013》[4](http://www.yesasia.com/yumcha/0-0-0-arid.524-zh_TW/featured-article.html)。
+  - 《YesAsia 華語音樂銷售榜2013》 - 十大暢銷歌手第9位[5](http://www.yesasia.com/yumcha/0-0-0-arid.524-zh_TW/featured-article.html)。
 
 ## 外部連結
 
-  - [林峰新碟選曲不俗 -
-    澳門日報電子版](https://archive.is/20130427003257/http://www.macaodaily.com/html/2013-02/03/content_774010.htm)
+  - [林峰新碟選曲不俗 - 澳門日報電子版](https://archive.is/20130427003257/http://www.macaodaily.com/html/2013-02/03/content_774010.htm)
   - [英皇娛樂官網](https://web.archive.org/web/20150321140516/http://www.eegmusic.com/artist/album.php/view/215/654)
-  - \[<http://www.yesasia.com/1032290915-0-0-0-zh_TW/info.html>　A Time 4
-    You 新曲+精選 (CD + DVD) (特別版) (加送 2013年精美月曆 +環保袋)\]
+  - \[<http://www.yesasia.com/1032290915-0-0-0-zh_TW/info.html>　A Time 4 You 新曲+精選 (CD + DVD) (特別版) (加送 2013年精美月曆 +環保袋)\]
 
 ## 資料來源
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:林峯音樂專輯](https://zh.wikipedia.org/wiki/Category:林峯音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:林峯音樂專輯](https://zh.wikipedia.org/wiki/Category:林峯音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")

@@ -1,11 +1,4 @@
-**NC.A**（）是[韓國的女歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，NC.A是「New
-Creative Artist」的簡寫\[1\]。其出道單曲《實習老師》在2013年8月12日正式發行，並在8月21日的音樂節目[Show
-Champion作為出道舞台](../Page/Show_Champion.md "wikilink")\[2\]。該曲MV有兩個版本，第一版本由演員[鄭滿植](../Page/鄭滿植.md "wikilink")演出，而8月14日公開的第二版邀請[Girl's
-Day的](../Page/Girl's_Day.md "wikilink")[惠利](../Page/惠利.md "wikilink")和演員[徐芝釋](../Page/徐芝釋.md "wikilink")演出。2017年2月，JJ
-Holic
-Media經過兩星期的官方粉絲名稱招募活動後，確定NC.A的官方粉絲名稱為Ndorphin（앤돌핀）。2018年2月11日，在选秀節目《[The
-Unit](../Page/The_Unit.md "wikilink")》的最後一集中，NC.A獲得第3名，進入期間限定團體[UNI.T](../Page/UNI.T.md "wikilink")出道，並於5月18日於[Music
-Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
+**NC.A**（）是[韓國的女歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")，NC.A是「New Creative Artist」的簡寫\[1\]。其出道單曲《實習老師》在2013年8月12日正式發行，並在8月21日的音樂節目[Show Champion作為出道舞台](../Page/Show_Champion.md "wikilink")\[2\]。該曲MV有兩個版本，第一版本由演員[鄭滿植](../Page/鄭滿植.md "wikilink")演出，而8月14日公開的第二版邀請[Girl's Day的](../Page/Girl's_Day.md "wikilink")[惠利](../Page/惠利.md "wikilink")和演員[徐芝釋](../Page/徐芝釋.md "wikilink")演出。2017年2月，JJ Holic Media經過兩星期的官方粉絲名稱招募活動後，確定NC.A的官方粉絲名稱為Ndorphin（앤돌핀）。2018年2月11日，在选秀節目《[The Unit](../Page/The_Unit.md "wikilink")》的最後一集中，NC.A獲得第3名，進入期間限定團體[UNI.T](../Page/UNI.T.md "wikilink")出道，並於5月18日於[Music Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
 
 ## 音樂作品
 
@@ -332,67 +325,39 @@ Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
 ### 音樂現場(舞台)
 
   - 2013年-2015年: [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")
-  - 2013年-2015年: [The
-    SHOW](https://zh.wikipedia.org/wiki/The_SHOW "wikilink")
+  - 2013年-2015年: [The SHOW](https://zh.wikipedia.org/wiki/The_SHOW "wikilink")
   - 2013年-2015年: [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")
   - 2013年-2015年: [音樂中心](https://zh.wikipedia.org/wiki/音樂中心 "wikilink")
   - 2013年-2015年: [Show Champion](../Page/Show_Champion.md "wikilink")
-  - 2013年-2015年: [M\!
-    Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")
+  - 2013年-2015年: [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")
 
 ## 戲劇
 
-  - 2013年：[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[請回答1994](../Page/請回答1994.md "wikilink")》飾演
-    學生\[3\]（第六集）
+  - 2013年：[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[請回答1994](../Page/請回答1994.md "wikilink")》飾演 學生\[3\]（第六集）
   - 2014年：《 第二季》飾演 助手
-  - 2017年：[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[犯罪心理
-    (韓國)](https://zh.wikipedia.org/wiki/犯罪心理_\(韓國\) "wikilink")》飾演
-    趙恩靜（第七集）
+  - 2017年：[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[犯罪心理 (韓國)](https://zh.wikipedia.org/wiki/犯罪心理_\(韓國\) "wikilink")》飾演 趙恩靜（第七集）
   - 2018年：KBS 《[To. Jenny](../Page/To._Jenny.md "wikilink")》 飾演 Eileen
 
 ## 電視節目主持
 
-  - 2014年4月-2014年11月：[MBC
-    music](https://zh.wikipedia.org/wiki/MBC_music "wikilink")《순위의 재구성
-    차트8 (音樂排行榜 Chart8)》
+  - 2014年4月-2014年11月：[MBC music](https://zh.wikipedia.org/wiki/MBC_music "wikilink")《순위의 재구성 차트8 (音樂排行榜 Chart8)》
 
 ## 綜藝節目(電台訪問)
 
   - 2013年8月21日：[MBC標準FM](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink")《[潤荷的星光閃耀的夜晚](https://zh.wikipedia.org/wiki/潤荷的星光閃耀的夜晚 "wikilink")》
   - 2013年8月22日：[MBC標準FM](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink")《[神童的深深打破](https://zh.wikipedia.org/wiki/神童的深深打破 "wikilink")》
-  - 2013年9月1日：[KBS第2FM](../Page/KBS第2FM.md "wikilink")《[Kiss The
-    Radio](https://zh.wikipedia.org/wiki/Kiss_The_Radio "wikilink")》
-  - 2013年9月12日：[Arirang
-    Radio](https://zh.wikipedia.org/wiki/Arirang_Radio "wikilink")
-    《[Super
-    K-pop](https://zh.wikipedia.org/wiki/Super_K-pop "wikilink")》
-  - 2013年9月23日：[Arirang
-    Radio](https://zh.wikipedia.org/wiki/Arirang_Radio "wikilink")
-    《[Sound K](https://zh.wikipedia.org/wiki/Sound_K "wikilink")》
-  - 2013年12月26日：[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")
-    《[Happy
-    Together](https://zh.wikipedia.org/wiki/Happy_Together "wikilink")》(夜間賣場)
-  - 2014年5月15日：[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")
-    《[Happy
-    Together](https://zh.wikipedia.org/wiki/Happy_Together "wikilink")》
-  - 2014年8月13日 - 9月3日：[MBC
-    Music](https://zh.wikipedia.org/wiki/MBC_Music "wikilink") 《[NC.A in
-    후쿠오카(앤씨아 In
-    후쿠오카)](https://zh.wikipedia.org/wiki/NC.A_in_후쿠오카\(앤씨아_In_후쿠오카\) "wikilink")》
-  - 2015年1月19日：[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")
-    《[Hi(안녕하세요)](https://zh.wikipedia.org/wiki/Hi\(안녕하세요\) "wikilink")》
-  - 2015年4月19、26日：[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")
-    《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》 藝人評審團
-  - 2015年4月28日、5月5日：[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")
-    《[1對100](https://zh.wikipedia.org/wiki/1對100 "wikilink")》
-  - 2015年12月6日：[JTBC](../Page/JTBC.md "wikilink") 《[Hidden Singer
-    4](https://zh.wikipedia.org/wiki/Hidden_Singer_4 "wikilink")》申智篇的隱藏歌手
-  - 2016年2月10日：[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")
-    《春節試播節目：
-    [本份奧運會](https://zh.wikipedia.org/wiki/本份奧運會 "wikilink")》
-  - 2017年10月28日：[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")
-    《[The Unit](../Page/The_Unit.md "wikilink")》[The Unit
-    Audition](https://www.youtube.com/watch?v=cvY3nRo-wTk)
+  - 2013年9月1日：[KBS第2FM](../Page/KBS第2FM.md "wikilink")《[Kiss The Radio](https://zh.wikipedia.org/wiki/Kiss_The_Radio "wikilink")》
+  - 2013年9月12日：[Arirang Radio](https://zh.wikipedia.org/wiki/Arirang_Radio "wikilink") 《[Super K-pop](https://zh.wikipedia.org/wiki/Super_K-pop "wikilink")》
+  - 2013年9月23日：[Arirang Radio](https://zh.wikipedia.org/wiki/Arirang_Radio "wikilink") 《[Sound K](https://zh.wikipedia.org/wiki/Sound_K "wikilink")》
+  - 2013年12月26日：[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") 《[Happy Together](https://zh.wikipedia.org/wiki/Happy_Together "wikilink")》(夜間賣場)
+  - 2014年5月15日：[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") 《[Happy Together](https://zh.wikipedia.org/wiki/Happy_Together "wikilink")》
+  - 2014年8月13日 - 9月3日：[MBC Music](https://zh.wikipedia.org/wiki/MBC_Music "wikilink") 《[NC.A in 후쿠오카(앤씨아 In 후쿠오카)](https://zh.wikipedia.org/wiki/NC.A_in_후쿠오카\(앤씨아_In_후쿠오카\) "wikilink")》
+  - 2015年1月19日：[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") 《[Hi(안녕하세요)](https://zh.wikipedia.org/wiki/Hi\(안녕하세요\) "wikilink")》
+  - 2015年4月19、26日：[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》 藝人評審團
+  - 2015年4月28日、5月5日：[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") 《[1對100](https://zh.wikipedia.org/wiki/1對100 "wikilink")》
+  - 2015年12月6日：[JTBC](../Page/JTBC.md "wikilink") 《[Hidden Singer 4](https://zh.wikipedia.org/wiki/Hidden_Singer_4 "wikilink")》申智篇的隱藏歌手
+  - 2016年2月10日：[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") 《春節試播節目： [本份奧運會](https://zh.wikipedia.org/wiki/本份奧運會 "wikilink")》
+  - 2017年10月28日：[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") 《[The Unit](../Page/The_Unit.md "wikilink")》[The Unit Audition](https://www.youtube.com/watch?v=cvY3nRo-wTk)
 
 ## 廣告代言
 
@@ -504,19 +469,8 @@ Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
   - [韓國官方Cafe](http://cafe.naver.com/lovenca)
 
   -
-[Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
-[Category:UNI.T](https://zh.wikipedia.org/wiki/Category:UNI.T "wikilink")
+[Category:1996年出生](https://zh.wikipedia.org/wiki/Category:1996年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:UNI.T](https://zh.wikipedia.org/wiki/Category:UNI.T "wikilink")
 
-1.  [<Pops in Seoul>節目介紹名字的涵義](http://www.youtube.com/watch?v=cfdQcjm78FE)Youtube
-    Arirang World官方頻道
-2.  [韩国小“孙妍在”NC.A华丽变身
-    成熟不失清纯](http://ent.huanqiu.com/music/yinle-guoji/2013-11/4542043.html)
-    環球網 2013-11
-3.  [Rookie singer NC.A lands a role in
-    'Reply 1994'](http://www.allkpop.com/article/2013/08/rookie-singer-nca-lands-a-role-in-reply-1994)
-    allkpop 2013
+1.  [<Pops in Seoul>節目介紹名字的涵義](http://www.youtube.com/watch?v=cfdQcjm78FE)Youtube Arirang World官方頻道
+2.  [韩国小“孙妍在”NC.A华丽变身 成熟不失清纯](http://ent.huanqiu.com/music/yinle-guoji/2013-11/4542043.html) 環球網 2013-11
+3.  [Rookie singer NC.A lands a role in 'Reply 1994'](http://www.allkpop.com/article/2013/08/rookie-singer-nca-lands-a-role-in-reply-1994) allkpop 2013

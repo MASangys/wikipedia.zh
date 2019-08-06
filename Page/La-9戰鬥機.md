@@ -50,6 +50,4 @@
 
   - [拉-9](https://web.archive.org/web/20050208113239/http://cwlam2000.0catch.com/plaaf06.htm)
 
-[Category:蘇聯戰鬥機](https://zh.wikipedia.org/wiki/Category:蘇聯戰鬥機 "wikilink")
-[Category:拉沃契金設計局](https://zh.wikipedia.org/wiki/Category:拉沃契金設計局 "wikilink")
-[Category:層流翼飛機](https://zh.wikipedia.org/wiki/Category:層流翼飛機 "wikilink")
+[Category:蘇聯戰鬥機](https://zh.wikipedia.org/wiki/Category:蘇聯戰鬥機 "wikilink") [Category:拉沃契金設計局](https://zh.wikipedia.org/wiki/Category:拉沃契金設計局 "wikilink") [Category:層流翼飛機](https://zh.wikipedia.org/wiki/Category:層流翼飛機 "wikilink")

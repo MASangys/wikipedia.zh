@@ -1,5 +1,4 @@
-《**After
-School**》是[李卓庭](../Page/李卓庭.md "wikilink")的第三張[音樂專輯](../Page/音樂專輯.md "wikilink")，於2009年9月10日推出。
+《**After School**》是[李卓庭](../Page/李卓庭.md "wikilink")的第三張[音樂專輯](../Page/音樂專輯.md "wikilink")，於2009年9月10日推出。
 
 ## 曲目
 
@@ -20,6 +19,4 @@ School**》是[李卓庭](../Page/李卓庭.md "wikilink")的第三張[音樂專
 | <small>All is fine</small> |         13          |          2          |
 |    <small>不愛名牌</small>     |         \-          |         \-          |
 
-[Category:李卓庭音樂專輯](https://zh.wikipedia.org/wiki/Category:李卓庭音樂專輯 "wikilink")
-[Category:2009年迷你專輯](https://zh.wikipedia.org/wiki/Category:2009年迷你專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:李卓庭音樂專輯](https://zh.wikipedia.org/wiki/Category:李卓庭音樂專輯 "wikilink") [Category:2009年迷你專輯](https://zh.wikipedia.org/wiki/Category:2009年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

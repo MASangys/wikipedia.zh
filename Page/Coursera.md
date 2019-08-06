@@ -1,21 +1,14 @@
-**Coursera**（）是由[-{zh-cn:斯坦福大学; zh-tw:史丹佛大學;
-zh-hk:史丹福大學}-的](../Page/史丹佛大學.md "wikilink")[计算机科学](../Page/计算机科学.md "wikilink")教授[吴恩达](../Page/吴恩达.md "wikilink")和[达芙妮·科勒联合创建的一个](https://zh.wikipedia.org/wiki/达芙妮·科勒 "wikilink")[營利性](https://zh.wikipedia.org/wiki/營利性 "wikilink")\[1\]的教育科技公司。\[2\]
-Coursera与多家大学合作，给大众带来一些在线免费课堂。在Knowledge@Wharton座谈会上，Daphne
-Koller在采访中说道，截至到2012年11月，Coursera上有来自196国家的超过190万人。他们至少注册过一门课堂，尽管有数百万人注册过课堂，但完成率仅是7-9%。\[3\]
+**Coursera**（）是由[-{zh-cn:斯坦福大学; zh-tw:史丹佛大學; zh-hk:史丹福大學}-的](../Page/史丹佛大學.md "wikilink")[计算机科学](../Page/计算机科学.md "wikilink")教授[吴恩达](../Page/吴恩达.md "wikilink")和[达芙妮·科勒联合创建的一个](https://zh.wikipedia.org/wiki/达芙妮·科勒 "wikilink")[營利性](https://zh.wikipedia.org/wiki/營利性 "wikilink")\[1\]的教育科技公司。\[2\] Coursera与多家大学合作，给大众带来一些在线免费课堂。在Knowledge@Wharton座谈会上，Daphne Koller在采访中说道，截至到2012年11月，Coursera上有来自196国家的超过190万人。他们至少注册过一门课堂，尽管有数百万人注册过课堂，但完成率仅是7-9%。\[3\]
 
-Coursera成立于[加州](../Page/加利福尼亚州.md "wikilink")[山景城](../Page/山景城_\(加利福尼亚州\).md "wikilink")，它的启动稍晚于由-{zh-cn:斯坦福大学;
-zh-tw:史丹佛大學; zh-hk:史丹福大學}-教授Sebastian
-Thrun投资的盈利性在线教育网站[Udacity](../Page/Udacity.md "wikilink")、但稍早于一个由[麻省理工学院](../Page/麻省理工学院.md "wikilink")、[哈佛大学](../Page/哈佛大学.md "wikilink")和[加州大學柏克萊分校所初创的非盈利性在线教育网站](https://zh.wikipedia.org/wiki/加州大學柏克萊分校 "wikilink")[edX](https://zh.wikipedia.org/wiki/edX "wikilink")。
+Coursera成立于[加州](../Page/加利福尼亚州.md "wikilink")[山景城](../Page/山景城_\(加利福尼亚州\).md "wikilink")，它的启动稍晚于由-{zh-cn:斯坦福大学; zh-tw:史丹佛大學; zh-hk:史丹福大學}-教授Sebastian Thrun投资的盈利性在线教育网站[Udacity](../Page/Udacity.md "wikilink")、但稍早于一个由[麻省理工学院](../Page/麻省理工学院.md "wikilink")、[哈佛大学](../Page/哈佛大学.md "wikilink")和[加州大學柏克萊分校所初创的非盈利性在线教育网站](https://zh.wikipedia.org/wiki/加州大學柏克萊分校 "wikilink")[edX](https://zh.wikipedia.org/wiki/edX "wikilink")。
 
 ## 合作伙伴
 
-Coursera与多家大学合作，包括[斯坦福大学](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink")、[密歇根大学](../Page/密歇根大学.md "wikilink")、[普林斯顿大学](../Page/普林斯顿大学.md "wikilink")和[宾夕法尼亚大学](../Page/宾夕法尼亚大学.md "wikilink")。\[4\]2012年7月，Coursera添加了另外12所合作大学，\[5\]在九月又增加12所大学，合作大学总共有33所。\[6\]Coursera博客报道：随着越来越多大学的加入，Coursera上就会有更多的课堂。\[7\]2013年7月9日，[上海交通大学和](https://zh.wikipedia.org/wiki/上海交通大学 "wikilink")[复旦大学](../Page/复旦大学.md "wikilink")宣布与Coursera确立合作关系。\[8\]2016年6月30日，舍弃旧平台并整合绝大部分的课程到新平台。
-Coursera官方发表直言维护两个平台需要显著的资源，为了进一步改善新平台的体验，Coursera决定停止旧平台的服务。在过去的几个月里，Coursera与合作伙伴密切合作并协助他们把课程转移到新的平台。\[9\]
+Coursera与多家大学合作，包括[斯坦福大学](https://zh.wikipedia.org/wiki/斯坦福大学 "wikilink")、[密歇根大学](../Page/密歇根大学.md "wikilink")、[普林斯顿大学](../Page/普林斯顿大学.md "wikilink")和[宾夕法尼亚大学](../Page/宾夕法尼亚大学.md "wikilink")。\[4\]2012年7月，Coursera添加了另外12所合作大学，\[5\]在九月又增加12所大学，合作大学总共有33所。\[6\]Coursera博客报道：随着越来越多大学的加入，Coursera上就会有更多的课堂。\[7\]2013年7月9日，[上海交通大学和](https://zh.wikipedia.org/wiki/上海交通大学 "wikilink")[复旦大学](../Page/复旦大学.md "wikilink")宣布与Coursera确立合作关系。\[8\]2016年6月30日，舍弃旧平台并整合绝大部分的课程到新平台。 Coursera官方发表直言维护两个平台需要显著的资源，为了进一步改善新平台的体验，Coursera决定停止旧平台的服务。在过去的几个月里，Coursera与合作伙伴密切合作并协助他们把课程转移到新的平台。\[9\]
 
 ### 合作学校
 
-Coursera上现有28个不同国家和地区的145所不同的大学，院校和学校提供在线课堂。\[10\]
-[澳大利亚](../Page/澳大利亚.md "wikilink")
+Coursera上现有28个不同国家和地区的145所不同的大学，院校和学校提供在线课堂。\[10\]   [澳大利亚](../Page/澳大利亚.md "wikilink")
 
   - [西澳大学](../Page/西澳大学.md "wikilink")
   - [新南威尔士大学](../Page/新南威尔士大学.md "wikilink")
@@ -128,23 +121,13 @@ Coursera上现有28个不同国家和地区的145所不同的大学，院校和�
 
   - [Coursera官方网站](https://www.coursera.org/)
   - [Coursera博客](http://blog.coursera.org)
-  - [The University of Michigan's Contract With
-    Coursera](http://chronicle.com/article/Document-Examine-the-U-of/133063/)
-  - ["Daphne Koller: What we're learning from online
-    education", 2012年6月[TED大会](../Page/TED大会.md "wikilink")演讲](http://www.ted.com/talks/daphne_koller_what_we_re_learning_from_online_education.html)
-  - ["MOOC pedagogy: the challenges of developing for
-    Coursera"](http://newsletter.alt.ac.uk/2012/08/mooc-pedagogy-the-challenges-of-developing-for-coursera/)
+  - [The University of Michigan's Contract With Coursera](http://chronicle.com/article/Document-Examine-the-U-of/133063/)
+  - ["Daphne Koller: What we're learning from online education", 2012年6月[TED大会](../Page/TED大会.md "wikilink")演讲](http://www.ted.com/talks/daphne_koller_what_we_re_learning_from_online_education.html)
+  - ["MOOC pedagogy: the challenges of developing for Coursera"](http://newsletter.alt.ac.uk/2012/08/mooc-pedagogy-the-challenges-of-developing-for-coursera/)
 
-[Category:教育機構](https://zh.wikipedia.org/wiki/Category:教育機構 "wikilink")
-[Category:教育网站](https://zh.wikipedia.org/wiki/Category:教育网站 "wikilink")
-[Category:内容开放](https://zh.wikipedia.org/wiki/Category:内容开放 "wikilink")
-[Category:教育技術](https://zh.wikipedia.org/wiki/Category:教育技術 "wikilink")
-[Category:山景城公司](https://zh.wikipedia.org/wiki/Category:山景城公司 "wikilink")
-[Category:開放教育資源](https://zh.wikipedia.org/wiki/Category:開放教育資源 "wikilink")
+[Category:教育機構](https://zh.wikipedia.org/wiki/Category:教育機構 "wikilink") [Category:教育网站](https://zh.wikipedia.org/wiki/Category:教育网站 "wikilink") [Category:内容开放](https://zh.wikipedia.org/wiki/Category:内容开放 "wikilink") [Category:教育技術](https://zh.wikipedia.org/wiki/Category:教育技術 "wikilink") [Category:山景城公司](https://zh.wikipedia.org/wiki/Category:山景城公司 "wikilink") [Category:開放教育資源](https://zh.wikipedia.org/wiki/Category:開放教育資源 "wikilink")
 
-1.   CrunchBase
-    Profile|url=[http://www.crunchbase.com/company/coursera|work=CrunchBase](http://www.crunchbase.com/company/coursera%7Cwork=CrunchBase)
-    Database|publisher=CrunchBase|accessdate=May 13, 2012}}
+1.   CrunchBase Profile|url=[http://www.crunchbase.com/company/coursera|work=CrunchBase](http://www.crunchbase.com/company/coursera%7Cwork=CrunchBase) Database|publisher=CrunchBase|accessdate=May 13, 2012}}
 
 2.
 3.

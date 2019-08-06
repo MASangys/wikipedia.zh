@@ -48,9 +48,7 @@ function i._subtree(pagename)
 `       temppage = table.concat(t, "-") .. "-stub"`
 `       temppageexists = i.exists(temppage)`
 `       if temppageexists == true then`
-`           table.insert(out,"`[`"``   ``..``   ``i.pcase(temppage)``
- ``..``
- ``"`](https://zh.wikipedia.org/wiki/Template:"_.._temppage_.._" "wikilink")`")`
+`           table.insert(out,"`[`"``   ``..``   ``i.pcase(temppage)``   ``..``   ``"`](https://zh.wikipedia.org/wiki/Template:"_.._temppage_.._" "wikilink")`")`
 `       else`
 `           -- If template with first item does not exist, try removing last item`
 `           removeditem2 = t[#t]`
@@ -63,9 +61,7 @@ function i._subtree(pagename)
 `           if temppageexists == true then`
 `               -- if exists then add first item back to list`
 `               table.insert(t,1,removeditem1)`
-`               table.insert(out,"`[`"``   ``..``
- ``i.pcase(temppage)``   ``..``
- ``"`](https://zh.wikipedia.org/wiki/Template:"_.._temppage_.._" "wikilink")`")`
+`               table.insert(out,"`[`"``   ``..``   ``i.pcase(temppage)``   ``..``   ``"`](https://zh.wikipedia.org/wiki/Template:"_.._temppage_.._" "wikilink")`")`
 `           else`
 `               -- if exists then add last item back to list`
 `               table.insert(t,removeditem2)`

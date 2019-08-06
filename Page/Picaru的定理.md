@@ -26,8 +26,7 @@
 
 :;Guest Picaru隊
 
-:\*[King of
-Conte](https://zh.wikipedia.org/wiki/King_of_Conte "wikilink")（[今野浩喜](https://zh.wikipedia.org/wiki/今野浩喜 "wikilink")、[高橋健一](https://zh.wikipedia.org/wiki/高橋健一_\(搞笑藝人\) "wikilink")）
+:\*[King of Conte](https://zh.wikipedia.org/wiki/King_of_Conte "wikilink")（[今野浩喜](https://zh.wikipedia.org/wiki/今野浩喜 "wikilink")、[高橋健一](https://zh.wikipedia.org/wiki/高橋健一_\(搞笑藝人\) "wikilink")）
 
 :\*[渡邊直美](../Page/渡邊直美.md "wikilink")
 
@@ -84,7 +83,6 @@ Conte](https://zh.wikipedia.org/wiki/King_of_Conte "wikilink")（[今野浩喜](
   - [官方網頁](https://web.archive.org/web/20120604233922/http://www.fujitv.co.jp/picaru/index.html)
   - [官方網誌](http://blog.fujitv.co.jp/picaru/index.html)
 
-[Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink")
-[Category:2010年日本電視節目](https://zh.wikipedia.org/wiki/Category:2010年日本電視節目 "wikilink")
+[Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink") [Category:2010年日本電視節目](https://zh.wikipedia.org/wiki/Category:2010年日本電視節目 "wikilink")
 
 1.

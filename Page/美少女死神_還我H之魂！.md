@@ -1,5 +1,4 @@
-《**美少女死神
-還我H之魂！**》（），簡稱，是[橘Pan](../Page/橘Pan.md "wikilink")執筆、插畫的壓抑系情色喜劇[輕小說](../Page/輕小說.md "wikilink")。漫畫版由執筆。於2012年7月推出電視動畫，與原作相比，動畫版修改掉包括世界觀在內的很多設定。
+《**美少女死神 還我H之魂！**》（），簡稱，是[橘Pan](../Page/橘Pan.md "wikilink")執筆、插畫的壓抑系情色喜劇[輕小說](../Page/輕小說.md "wikilink")。漫畫版由執筆。於2012年7月推出電視動畫，與原作相比，動畫版修改掉包括世界觀在內的很多設定。
 
 ## 故事簡介
 
@@ -376,8 +375,7 @@
 ### 漫畫
 
   -
-    在[月刊Dragon
-    Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")2011年5月號開始刊載，由作畫。漫畫版亦由[富士見書房](../Page/富士見書房.md "wikilink")集冊出版。
+    在[月刊Dragon Age](https://zh.wikipedia.org/wiki/月刊Dragon_Age "wikilink")2011年5月號開始刊載，由作畫。漫畫版亦由[富士見書房](../Page/富士見書房.md "wikilink")集冊出版。
 
 <table>
 <thead>
@@ -539,10 +537,7 @@
   - 音樂：
   - 音樂制作：[Lantis](../Page/Lantis.md "wikilink")
   - 動畫製作：[feel.](https://zh.wikipedia.org/wiki/feel. "wikilink")
-  - 製作：我H製作委員会（[T.O
-    Entertainment](https://zh.wikipedia.org/wiki/T.O_Entertainment "wikilink")、[Geneon
-    Universal](https://zh.wikipedia.org/wiki/Geneon_Universal "wikilink")、KlockWorx、Lantis、[創通](../Page/創通.md "wikilink")、富士見書房、DAX
-    International、[AT-X](../Page/AT-X.md "wikilink")）
+  - 製作：我H製作委員会（[T.O Entertainment](https://zh.wikipedia.org/wiki/T.O_Entertainment "wikilink")、[Geneon Universal](https://zh.wikipedia.org/wiki/Geneon_Universal "wikilink")、KlockWorx、Lantis、[創通](../Page/創通.md "wikilink")、富士見書房、DAX International、[AT-X](../Page/AT-X.md "wikilink")）
 
 ### 主題曲
 
@@ -815,16 +810,9 @@
 
   - [](http://www.famitsu.com/comic_clear/se_bokuh/) （漫畫官方網站，可線上觀看）
 
-  - [台灣角川 美少女死神
-    還我H之魂！](http://www.kadokawa.com.tw/p1-products_detail.php?id=87d005pKLiejc4PaRSOGWS7C_a-Vs99gZuR1dwbhBRYb)
+  - [台灣角川 美少女死神 還我H之魂！](http://www.kadokawa.com.tw/p1-products_detail.php?id=87d005pKLiejc4PaRSOGWS7C_a-Vs99gZuR1dwbhBRYb)
 
-[Category:校園小說](https://zh.wikipedia.org/wiki/Category:校園小說 "wikilink")
-[Category:奇幻作品](https://zh.wikipedia.org/wiki/Category:奇幻作品 "wikilink")
-[Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink")
-[Category:2012年UHF動畫](https://zh.wikipedia.org/wiki/Category:2012年UHF動畫 "wikilink")
-[Category:AT-X動畫](https://zh.wikipedia.org/wiki/Category:AT-X動畫 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:Feel.](https://zh.wikipedia.org/wiki/Category:Feel. "wikilink")
+[Category:校園小說](https://zh.wikipedia.org/wiki/Category:校園小說 "wikilink") [Category:奇幻作品](https://zh.wikipedia.org/wiki/Category:奇幻作品 "wikilink") [Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink") [Category:2012年UHF動畫](https://zh.wikipedia.org/wiki/Category:2012年UHF動畫 "wikilink") [Category:AT-X動畫](https://zh.wikipedia.org/wiki/Category:AT-X動畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:Feel.](https://zh.wikipedia.org/wiki/Category:Feel. "wikilink")
 
 1.  原作一級死神不能跟凡人簽約，以吸取靈力方式不能算是正式契約，之後官網統稱「臨時契約」。
 2.  原作簡介將統稱，動畫官網[訓讀](../Page/訓讀.md "wikilink")「」，中文版書名呼應為「H之魂」。

@@ -20,8 +20,7 @@
 
 [Garfed1.JPG](https://zh.wikipedia.org/wiki/File:Garfed1.JPG "fig:Garfed1.JPG")
 
-  - [安德鲁·加菲尔德](https://zh.wikipedia.org/wiki/安德鲁·加菲尔德 "wikilink") 饰
-    埃里克·威尔森（）/杰克·巴里奇（），影片主角，曾犯下谋杀罪的少年犯，被称作“男孩-{}-A”，出狱后希望开始全新的生活。
+  - [安德鲁·加菲尔德](https://zh.wikipedia.org/wiki/安德鲁·加菲尔德 "wikilink") 饰 埃里克·威尔森（）/杰克·巴里奇（），影片主角，曾犯下谋杀罪的少年犯，被称作“男孩-{}-A”，出狱后希望开始全新的生活。
 
   - 阿-{}-尔菲·欧文（） 饰 埃里克·威尔森（童年）
 
@@ -144,12 +143,7 @@
 
   - [第四台上的](https://zh.wikipedia.org/wiki/第四台_\(英国\) "wikilink")[影片官方页面](http://www.channel4.com/programmes/boy-a)
 
-[Category:2007年电影](https://zh.wikipedia.org/wiki/Category:2007年电影 "wikilink")
-[Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink")
-[Category:英國電影](https://zh.wikipedia.org/wiki/Category:英國電影 "wikilink")
-[Category:小說改編電影](https://zh.wikipedia.org/wiki/Category:小說改編電影 "wikilink")
-[Category:2000年代劇情片](https://zh.wikipedia.org/wiki/Category:2000年代劇情片 "wikilink")
-[Category:英國劇情片](https://zh.wikipedia.org/wiki/Category:英國劇情片 "wikilink")
+[Category:2007年电影](https://zh.wikipedia.org/wiki/Category:2007年电影 "wikilink") [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:英國電影](https://zh.wikipedia.org/wiki/Category:英國電影 "wikilink") [Category:小說改編電影](https://zh.wikipedia.org/wiki/Category:小說改編電影 "wikilink") [Category:2000年代劇情片](https://zh.wikipedia.org/wiki/Category:2000年代劇情片 "wikilink") [Category:英國劇情片](https://zh.wikipedia.org/wiki/Category:英國劇情片 "wikilink")
 
 1.
 

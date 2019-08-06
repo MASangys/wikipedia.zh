@@ -1,6 +1,4 @@
-**S.A.L.T
-Entertainment**（）[韓國的演員](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。2011年4月1日創立\[1\]，原名「4HIM
-Entertainment」。2013年2月1日在所屬演員及經紀人架構不變下更換經紀公司名稱\[2\]，公司也遷移至首爾江南區清潭洞109-23號4樓401室。
+**S.A.L.T Entertainment**（）[韓國的演員](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。2011年4月1日創立\[1\]，原名「4HIM Entertainment」。2013年2月1日在所屬演員及經紀人架構不變下更換經紀公司名稱\[2\]，公司也遷移至首爾江南區清潭洞109-23號4樓401室。
 
 ## 公司宗旨
 
@@ -39,12 +37,8 @@ S.A.L.T.的使命就跟「鹽」的意義相同。
   -
   -
   -
-[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
-[Category:2011年成立的公司](https://zh.wikipedia.org/wiki/Category:2011年成立的公司 "wikilink")
+[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink") [Category:2011年成立的公司](https://zh.wikipedia.org/wiki/Category:2011年成立的公司 "wikilink")
 
-1.  [김정화-박신혜, 10년간 한솥밥 '의자매' 우정
-    과시](http://joynews.inews24.com/php/news_view.php?g_menu=700100&g_serial=554863&rrf=nv)
-2.  [4HIM 엔터테인먼트, S.A.L.T. 엔터테인먼트로 사명
-    변경](http://ikbc.net/news/view.html?section=9&category=85&no=56261)
-
+1.  [김정화-박신혜, 10년간 한솥밥 '의자매' 우정 과시](http://joynews.inews24.com/php/news_view.php?g_menu=700100&g_serial=554863&rrf=nv)
+2.  [4HIM 엔터테인먼트, S.A.L.T. 엔터테인먼트로 사명 변경](http://ikbc.net/news/view.html?section=9&category=85&no=56261)
 3.  [솔트엔터테인먼트](http://www.saramin.co.kr/zf_user/recruit/company-info/idx/6153450)

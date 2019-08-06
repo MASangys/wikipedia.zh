@@ -1,6 +1,4 @@
-[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg")
-**ENTJ**（外倾/直觉/思考/判断）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink").\[1\]
-，在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")「[陆军元帅](https://zh.wikipedia.org/wiki/陆军元帅_\(角色变异\) "wikilink")」，属于[理性者的四种类型之一](https://zh.wikipedia.org/wiki/理性者_\(气质类型\) "wikilink")，约占人口的1.8%。\[2\]\[3\]
+[Jung_1910-rotated.jpg](https://zh.wikipedia.org/wiki/File:Jung_1910-rotated.jpg "fig:Jung_1910-rotated.jpg") **ENTJ**（外倾/直觉/思考/判断）是[迈尔斯·布里格斯性格分类法中十六种人格类型之一](https://zh.wikipedia.org/wiki/迈尔斯·布里格斯性格分类法 "wikilink").\[1\] ，在[柯尔塞气质类型测试中被称为](https://zh.wikipedia.org/wiki/柯尔塞气质类型测试 "wikilink")「[陆军元帅](https://zh.wikipedia.org/wiki/陆军元帅_\(角色变异\) "wikilink")」，属于[理性者的四种类型之一](https://zh.wikipedia.org/wiki/理性者_\(气质类型\) "wikilink")，约占人口的1.8%。\[2\]\[3\]
 
 ## MBTI偏好
 
@@ -13,8 +11,7 @@
 
 ### 类型描述
 
-ENTJ (外倾思考 & 内倾直觉)
-坦率、果断、随时承担领导职责。能够迅速的看到不合逻辑和低效率的产品和策略，通过建立并且部署综合的系统，来解决组织架构的问题。享受长期规划和目标设置。通常消息灵通，知识渊博，乐于扩展他们的知识并且传授给他人。在展示他们的观点时候非常有说服力。
+ENTJ (外倾思考 & 内倾直觉) 坦率、果断、随时承担领导职责。能够迅速的看到不合逻辑和低效率的产品和策略，通过建立并且部署综合的系统，来解决组织架构的问题。享受长期规划和目标设置。通常消息灵通，知识渊博，乐于扩展他们的知识并且传授给他人。在展示他们的观点时候非常有说服力。
 
 ## 认知功能
 
@@ -43,14 +40,11 @@ Fi過濾信息，這種過濾的基礎是緣於標准（經常是無形的）形
 
 ## 外部链接
 
-  - [Keirsey Performer Artisan
-    (ESFP)](http://www.personalityzone.com/view/temperament/performer.html)
+  - [Keirsey Performer Artisan (ESFP)](http://www.personalityzone.com/view/temperament/performer.html)
   - [TypeLogic ESFP](http://typelogic.com/esfp.html)
   - [Personality Page ESFP](http://www.personalitypage.com/ESFP.html)
-  - [The Myers & Briggs Foundation: The 16 MBTI
-    Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
-  - [PersonalityDesk: ESFP
-    Profile](https://web.archive.org/web/20100315081448/http://www.personalitydesk.com/esfp-type-description.php)
+  - [The Myers & Briggs Foundation: The 16 MBTI Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
+  - [PersonalityDesk: ESFP Profile](https://web.archive.org/web/20100315081448/http://www.personalitydesk.com/esfp-type-description.php)
 
 [Category:性格分類](https://zh.wikipedia.org/wiki/Category:性格分類 "wikilink")
 

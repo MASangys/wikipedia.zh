@@ -39,8 +39,7 @@
 ## 製作人員
 
   - 策劃：[丸谷嘉彦](https://zh.wikipedia.org/wiki/丸谷嘉彦 "wikilink")、[久保雅一](https://zh.wikipedia.org/wiki/久保雅一 "wikilink")、吉田紀之
-  - 原作：[Takara
-    Tomy](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")
+  - 原作：[Takara Tomy](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")
   - 監督：[加戶譽夫](../Page/加戶譽夫.md "wikilink")
   - 助監督：星合貴彦
   - 劇本統籌：[隅沢克之](https://zh.wikipedia.org/wiki/隅沢克之 "wikilink")
@@ -62,16 +61,14 @@
   - 動畫製作：千野孝敏
   - 製作：[諸冨洋史](https://zh.wikipedia.org/wiki/諸冨洋史 "wikilink")、中沢利洋
   - 小組製片：[竹田青滋](https://zh.wikipedia.org/wiki/竹田青滋 "wikilink")（クレジットなし）
-  - 3DCG製作：[小学館ミュージック&デジタル
-    エンタテイメント](https://zh.wikipedia.org/wiki/小学館ミュージック&デジタル_エンタテイメント "wikilink")
+  - 3DCG製作：[小学館ミュージック&デジタル エンタテイメント](https://zh.wikipedia.org/wiki/小学館ミュージック&デジタル_エンタテイメント "wikilink")
   - 動畫製作：[XEBEC](../Page/XEBEC.md "wikilink")
   - 出品：[每日放送](../Page/每日放送.md "wikilink")、[小學館集英社製作](../Page/小學館集英社製作.md "wikilink")
   - 講解：[堀川仁](https://zh.wikipedia.org/wiki/堀川仁 "wikilink")
 
 ## 主題曲
 
-  - 片頭曲「[NO
-    FUTURE](https://zh.wikipedia.org/wiki/NO_FUTURE "wikilink")」
+  - 片頭曲「[NO FUTURE](https://zh.wikipedia.org/wiki/NO_FUTURE "wikilink")」
     作詞、主唱：[相川七瀨](../Page/相川七瀨.md "wikilink")
     作曲：[布袋寅泰](../Page/布袋寅泰.md "wikilink")
     編曲：太田要
@@ -341,6 +338,4 @@
 
   - [索斯機械獸III官方網站](http://www.shopro.co.jp/tv/program/zoids/zero/index.html)
 
-[Category:索斯機械獸](https://zh.wikipedia.org/wiki/Category:索斯機械獸 "wikilink")
-[Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink")
-[Category:2001年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2001年日本電視動畫 "wikilink")
+[Category:索斯機械獸](https://zh.wikipedia.org/wiki/Category:索斯機械獸 "wikilink") [Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink") [Category:2001年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2001年日本電視動畫 "wikilink")

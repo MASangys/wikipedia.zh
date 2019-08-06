@@ -118,8 +118,7 @@
 </tbody>
 </table>
 
-<small>
-演唱歌手後面的(括號)即代表登上[紅白歌合戰的次數](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")。</small>
+<small> 演唱歌手後面的(括號)即代表登上[紅白歌合戰的次數](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")。</small>
 
 ## 其他參予者
 
@@ -134,8 +133,7 @@
   - 中野貴代（消防官）
   - 神田好武（[全日本空輸](../Page/全日本空輸.md "wikilink")機長）
   - [真木洋子](https://zh.wikipedia.org/wiki/真木洋子 "wikilink")（演員）
-  - [輪島大士](../Page/輪島大士.md "wikilink")（[相撲](../Page/相撲.md "wikilink")選手
-    - [大關](https://zh.wikipedia.org/wiki/大關 "wikilink")）
+  - [輪島大士](../Page/輪島大士.md "wikilink")（[相撲](../Page/相撲.md "wikilink")選手 - [大關](https://zh.wikipedia.org/wiki/大關 "wikilink")）
   - 加藤稔(NHK藝能局長)
 
 ## 收視率
@@ -155,6 +153,4 @@
 
   - [NHK紅白歌合戰](http://www.nhk.or.jp/kouhaku/)
 
-[Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink")
-[Category:1972年音樂](https://zh.wikipedia.org/wiki/Category:1972年音樂 "wikilink")
-[Category:1972年日本](https://zh.wikipedia.org/wiki/Category:1972年日本 "wikilink")
+[Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink") [Category:1972年音樂](https://zh.wikipedia.org/wiki/Category:1972年音樂 "wikilink") [Category:1972年日本](https://zh.wikipedia.org/wiki/Category:1972年日本 "wikilink")

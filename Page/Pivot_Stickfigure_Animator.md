@@ -1,13 +1,10 @@
-**Pivot Animator** （旧称Pivot Stickfigure
-Animator，简称**Pivot**）是一个免费的应用程序，在[Windows上](https://zh.wikipedia.org/wiki/Windows "wikilink")，这个程序能让用户制作[火柴人动画且保存为GIF来用于网页上](../Page/简笔人物画.md "wikilink")。同时也能用一些其它软件转换成视频，比如[Windows
-Movie Maker](../Page/Windows_Movie_Maker.md "wikilink")。
+**Pivot Animator** （旧称Pivot Stickfigure Animator，简称**Pivot**）是一个免费的应用程序，在[Windows上](https://zh.wikipedia.org/wiki/Windows "wikilink")，这个程序能让用户制作[火柴人动画且保存为GIF来用于网页上](../Page/简笔人物画.md "wikilink")。同时也能用一些其它软件转换成视频，比如[Windows Movie Maker](../Page/Windows_Movie_Maker.md "wikilink")。
 
 ## 发展\[1\]
 
 ### 首個版本
 
-这个版本有很多[漏洞](../Page/程序错误.md "wikilink")，与大多数的第一代程序一样，这个版本的Pivot只有默认的[火柴人形状](../Page/简笔人物画.md "wikilink")。制作的动画能保存为
-.PIV格式 (Pivot专用)或是.GIF。用户也只能进行基本操作。
+这个版本有很多[漏洞](../Page/程序错误.md "wikilink")，与大多数的第一代程序一样，这个版本的Pivot只有默认的[火柴人形状](../Page/简笔人物画.md "wikilink")。制作的动画能保存为 .PIV格式 (Pivot专用)或是.GIF。用户也只能进行基本操作。
 
 ### Pivot 2.2
 
@@ -15,8 +12,7 @@ Movie Maker](../Page/Windows_Movie_Maker.md "wikilink")。
 
 ### Pivot 2.2.5
 
-在这个版本， Pivot使用了 [Windows
-Installer](../Page/Windows_Installer.md "wikilink")，让程序能够正确地安装。且加入覆盖文件时会出现提示信息。
+在这个版本， Pivot使用了 [Windows Installer](../Page/Windows_Installer.md "wikilink")，让程序能够正确地安装。且加入覆盖文件时会出现提示信息。
 
 ### Pivot 2.2.6
 
@@ -34,8 +30,7 @@ Installer](../Page/Windows_Installer.md "wikilink")，让程序能够正确地�
 
 ## 界面
 
-[thumb](https://zh.wikipedia.org/wiki/文件:Pivot_in_4.1.9Beta.png "wikilink")
-Pivot4.1.9Beta的界面可以被分为五个区。
+[thumb](https://zh.wikipedia.org/wiki/文件:Pivot_in_4.1.9Beta.png "wikilink") Pivot4.1.9Beta的界面可以被分为五个区。
 
 ### 顶部菜单
 
@@ -97,15 +92,13 @@ Pivot4.1.9Beta的界面可以被分为五个区。
 
 ### 人物编辑器
 
-[Pivot人物编辑器.png](https://zh.wikipedia.org/wiki/File:Pivot人物编辑器.png "fig:Pivot人物编辑器.png")
-人物编辑器的翻译是”棒图生成器“。人物编辑器的作用时编辑人物本身，并可以保存为.stk的人物类型文件。
+[Pivot人物编辑器.png](https://zh.wikipedia.org/wiki/File:Pivot人物编辑器.png "fig:Pivot人物编辑器.png") 人物编辑器的翻译是”棒图生成器“。人物编辑器的作用时编辑人物本身，并可以保存为.stk的人物类型文件。
 
 ## 参考
 
 <references />
 
-[Category:动画软件](https://zh.wikipedia.org/wiki/Category:动画软件 "wikilink")
-[Category:绿色软件](https://zh.wikipedia.org/wiki/Category:绿色软件 "wikilink")
+[Category:动画软件](https://zh.wikipedia.org/wiki/Category:动画软件 "wikilink") [Category:绿色软件](https://zh.wikipedia.org/wiki/Category:绿色软件 "wikilink")
 
 1.
 2.  [Pivot汉化版演示](http://www.aipai.com/c9/ODY5IiIkIGgnai8g.html)

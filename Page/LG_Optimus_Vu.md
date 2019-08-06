@@ -1,33 +1,16 @@
-**LG Optimus Vu**(P895)
-是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[樂金電子於](https://zh.wikipedia.org/wiki/LG "wikilink")2012年6月推出首款5吋[螢幕筆記型智慧手機並採用](https://zh.wikipedia.org/wiki/螢幕 "wikilink")[Nvidia](https://zh.wikipedia.org/wiki/Nvidia "wikilink")
-Tegra 3 Quad-core 1.5
-GHz。原先是一部雙核心版本，因推出國際市場，後期改為四核心。其特色是為[LG配置傳統的](https://zh.wikipedia.org/wiki/LG "wikilink")4：3比例
-5吋手螢幕，1024\*768
-[解析度](https://zh.wikipedia.org/wiki/解析度 "wikilink")，以及採用[HD-IPS顯示螢幕的手機](https://zh.wikipedia.org/wiki/IPS "wikilink")。
+**LG Optimus Vu**(P895) 是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[樂金電子於](https://zh.wikipedia.org/wiki/LG "wikilink")2012年6月推出首款5吋[螢幕筆記型智慧手機並採用](https://zh.wikipedia.org/wiki/螢幕 "wikilink")[Nvidia](https://zh.wikipedia.org/wiki/Nvidia "wikilink") Tegra 3 Quad-core 1.5 GHz。原先是一部雙核心版本，因推出國際市場，後期改為四核心。其特色是為[LG配置傳統的](https://zh.wikipedia.org/wiki/LG "wikilink")4：3比例 5吋手螢幕，1024\*768 [解析度](https://zh.wikipedia.org/wiki/解析度 "wikilink")，以及採用[HD-IPS顯示螢幕的手機](https://zh.wikipedia.org/wiki/IPS "wikilink")。
 
 ## 規格\[1\]
 
-  - 網絡制式：[GSM](../Page/GSM.md "wikilink")
-    850/900/1800/1900,[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink")
-    850/900/1900/2100,[LTE](https://zh.wikipedia.org/wiki/LTE "wikilink")
-    800
-    (F100L/F100S),[Xi](https://zh.wikipedia.org/wiki/Xi "wikilink")(L-06D)
-  - 螢幕：5" [HD-IPS](https://zh.wikipedia.org/wiki/IPS "wikilink")
-    1024x768
-  - 處理器：[Nvidia](https://zh.wikipedia.org/wiki/Nvidia "wikilink") Tegra
-    3 Quad-core 1.5 GHz / Qualcomm MSM8660
-    [Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")
-    Dual-core 1.5 GHz (F100L/F100S/L-06D)
-  - 圖像處理器： [ULP
-    GeForce](https://zh.wikipedia.org/wiki/ULP_GeForce "wikilink") /
-    [Adreno](../Page/Adreno.md "wikilink") 220 (F100L/F100S/L-06D)
-  - 記憶體： 1GB [RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink") /
-    32GB ROM (不支援外置記憶卡)
+  - 網絡制式：[GSM](../Page/GSM.md "wikilink") 850/900/1800/1900,[HSDPA](https://zh.wikipedia.org/wiki/HSDPA "wikilink") 850/900/1900/2100,[LTE](https://zh.wikipedia.org/wiki/LTE "wikilink") 800 (F100L/F100S),[Xi](https://zh.wikipedia.org/wiki/Xi "wikilink")(L-06D)
+  - 螢幕：5" [HD-IPS](https://zh.wikipedia.org/wiki/IPS "wikilink") 1024x768
+  - 處理器：[Nvidia](https://zh.wikipedia.org/wiki/Nvidia "wikilink") Tegra 3 Quad-core 1.5 GHz / Qualcomm MSM8660 [Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") Dual-core 1.5 GHz (F100L/F100S/L-06D)
+  - 圖像處理器： [ULP GeForce](https://zh.wikipedia.org/wiki/ULP_GeForce "wikilink") / [Adreno](../Page/Adreno.md "wikilink") 220 (F100L/F100S/L-06D)
+  - 記憶體： 1GB [RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink") / 32GB ROM (不支援外置記憶卡)
   - 相機：800萬畫素+130萬畫素（配備LED閃光燈）
   - 重量：168g
   - 呎吋及厚度： 139.6 x 90.4 x 8.5 mm
-  - 電量：2080 mAh [鋰電池](https://zh.wikipedia.org/wiki/鋰電池 "wikilink")
-    (不能更換電池)
+  - 電量：2080 mAh [鋰電池](https://zh.wikipedia.org/wiki/鋰電池 "wikilink") (不能更換電池)
   - 産地：
 
 ## 各國上市版本
@@ -83,8 +66,6 @@ GHz。原先是一部雙核心版本，因推出國際市場，後期改為四�
 
 ## 參考
 
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:LG手機](https://zh.wikipedia.org/wiki/Category:LG手機 "wikilink")
+[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:LG手機](https://zh.wikipedia.org/wiki/Category:LG手機 "wikilink")
 
-1.  [GSMArena.com: LG Optimus Vu
-    P895](http://www.gsmarena.com/lg_optimus_vu-4932.php)
+1.  [GSMArena.com: LG Optimus Vu P895](http://www.gsmarena.com/lg_optimus_vu-4932.php)

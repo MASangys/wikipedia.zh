@@ -1,20 +1,16 @@
-**Google Code
-Jam**是一项由[Google](../Page/Google.md "wikilink")主办的国际程序设计竞赛。该项赛事始于2003年，旨在帮助Google发掘潜在的工程领域顶级人才\[1\]。比赛内容包括一系列的[算法](../Page/算法.md "wikilink")问题，参赛者必须在指定时间内解决。参赛者允许使用任意自选[编程语言](../Page/编程语言.md "wikilink")和[开发环境来解答问题](../Page/集成开发环境.md "wikilink")。
+**Google Code Jam**是一项由[Google](../Page/Google.md "wikilink")主办的国际程序设计竞赛。该项赛事始于2003年，旨在帮助Google发掘潜在的工程领域顶级人才\[1\]。比赛内容包括一系列的[算法](../Page/算法.md "wikilink")问题，参赛者必须在指定时间内解决。参赛者允许使用任意自选[编程语言](../Page/编程语言.md "wikilink")和[开发环境来解答问题](../Page/集成开发环境.md "wikilink")。
 
 2008年，来自于世界128个国家的11000人参加了比赛，奖金总额高达$80000，其中包括最高奖项$10000。\[2\]
 
 2009年，8605人参加了比赛。优胜者为中国的楼天城（以*ACRush*闻名）、中国的漆子超和日本的岩田陽一。
 
-2010年，超过10000人参加了比赛。优胜者为俄罗斯的Egor Kulikov、荷兰的Erik-Jan
-Krijgsman和俄罗斯的Sergey Kopeliovich。
+2010年，超过10000人参加了比赛。优胜者为俄罗斯的Egor Kulikov、荷兰的Erik-Jan Krijgsman和俄罗斯的Sergey Kopeliovich。
 
 2011年，超过20000人参加了比赛。优胜者为日本的副島真、白俄罗斯的Ivan Metelsky和波兰的Jakub Pachocki。
 
-2012年，超过35000人参加了比赛。优胜者为波兰的Jakub Pachocki、美国的Neal Wu和斯洛伐克的Michal
-Forisek。
+2012年，超过35000人参加了比赛。优胜者为波兰的Jakub Pachocki、美国的Neal Wu和斯洛伐克的Michal Forisek。
 
-2013年，超过45000人参加了比赛。优胜者为白俄罗斯的Ivan Metelsky、乌克兰的Vasil
-Bileckiy和俄罗斯的Vladislav Isenbaev。
+2013年，超过45000人参加了比赛。优胜者为白俄罗斯的Ivan Metelsky、乌克兰的Vasil Bileckiy和俄罗斯的Vladislav Isenbaev。
 
 2014年，优胜者为白俄罗斯的Gennady Korotkevich、俄罗斯的Evgeny Kapun和中国的顾昱洲。
 
@@ -233,8 +229,7 @@ Bileckiy和俄罗斯的Vladislav Isenbaev。
   - [Google - Code Jam](http://code.google.com/codejam/)
   - [Code Jam Statistics](http://www.go-hero.net/jam/)
 
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
-[Category:程序设计竞赛](https://zh.wikipedia.org/wiki/Category:程序设计竞赛 "wikilink")
+[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink") [Category:程序设计竞赛](https://zh.wikipedia.org/wiki/Category:程序设计竞赛 "wikilink")
 
 1.
 2.

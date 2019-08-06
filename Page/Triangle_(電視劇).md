@@ -346,8 +346,7 @@
 
 ## 同時段競爭節目
 
-  - [KBS](../Page/韓國放送公社.md "wikilink")：《[Big
-    Man](../Page/Big_Man.md "wikilink")》、《[Trot戀人](../Page/Trot戀人.md "wikilink")》
+  - [KBS](../Page/韓國放送公社.md "wikilink")：《[Big Man](../Page/Big_Man.md "wikilink")》、《[Trot戀人](../Page/Trot戀人.md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")：《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》、《[誘惑](../Page/誘惑_\(韓國電視劇\).md "wikilink")》
   - [JTBC](../Page/JTBC.md "wikilink")：《[密會](../Page/密會.md "wikilink")》、《[宥娜的街](../Page/宥娜的街.md "wikilink")》
 
@@ -368,14 +367,9 @@
 
   - [韓國MBC官方網站](http://www.imbc.com/broad/tv/drama/shj)
 
-[Category:2014年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年韓國電視劇集 "wikilink")
-[Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink")
-[Category:孤兒題材電視劇](https://zh.wikipedia.org/wiki/Category:孤兒題材電視劇 "wikilink")
-[Category:收養相關電視節目](https://zh.wikipedia.org/wiki/Category:收養相關電視節目 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:2014年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年韓國電視劇集 "wikilink") [Category:韓國家庭劇](https://zh.wikipedia.org/wiki/Category:韓國家庭劇 "wikilink") [Category:孤兒題材電視劇](https://zh.wikipedia.org/wiki/Category:孤兒題材電視劇 "wikilink") [Category:收養相關電視節目](https://zh.wikipedia.org/wiki/Category:收養相關電視節目 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
 
 1.  <http://ent.qq.com/a/20140505/000030.htm>
 2.  <http://www.imbc.com/broad/tv/drama/shj/>
 3.  [TNmS 멀티미디어 홈페이지 참조.](http://www.tnms.tv/rating/default.asp)
-4.  [AGB 닐슨 미디어리서치 홈페이지
-    참조.](http://www.agbnielsen.co.kr/index.asp?ref=0)
+4.  [AGB 닐슨 미디어리서치 홈페이지 참조.](http://www.agbnielsen.co.kr/index.asp?ref=0)

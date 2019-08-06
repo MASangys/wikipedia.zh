@@ -3,8 +3,7 @@
 ## 簡介
 
   - 2011年10月到12月3個月連續CD發行企劃的第一彈作品。
-  - 2011年8月12日開設的“GLAY Official Store
-    G-DIRECT”限定商品，沒有在一般的唱片行販售，因此不計算在ORICON的成績中。
+  - 2011年8月12日開設的“GLAY Official Store G-DIRECT”限定商品，沒有在一般的唱片行販售，因此不計算在ORICON的成績中。
   - 2006年發行的33rd單曲「[G4](https://zh.wikipedia.org/wiki/G4 "wikilink")」的第2彈作品，和第1彈不同的是：這次是4位團員各自創作1首歌曲。
   - 單曲封面是包含4張團員各自的肖像的特別樣式。
 
@@ -28,6 +27,4 @@
 
   - [GUILTY](../Page/GUILTY_\(GLAY\).md "wikilink")（『everKrack』和『霧之中』為專輯版本）
 
-[Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:FOR_LIFE_MUSIC_ENTERTAINMENT歌曲](https://zh.wikipedia.org/wiki/Category:FOR_LIFE_MUSIC_ENTERTAINMENT歌曲 "wikilink")
+[Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:FOR_LIFE_MUSIC_ENTERTAINMENT歌曲](https://zh.wikipedia.org/wiki/Category:FOR_LIFE_MUSIC_ENTERTAINMENT歌曲 "wikilink")

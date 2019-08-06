@@ -1,5 +1,4 @@
-**You Make Me Want To Be A
-Man**是[宇多田光](../Page/宇多田光.md "wikilink")以Utada名義發行的第四張[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2005年10月27日在英國地區發行。
+**You Make Me Want To Be A Man**是[宇多田光](../Page/宇多田光.md "wikilink")以Utada名義發行的第四張[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2005年10月27日在英國地區發行。
 
 　　— 出自宇多田光在英國MTV的訪問
 

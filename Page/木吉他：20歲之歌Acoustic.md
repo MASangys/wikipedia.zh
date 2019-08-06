@@ -42,13 +42,7 @@
 
 ## 外部連結
 
-  - [ACOUSTIC
-    木吉他：20歲之歌](http://movie.daum.net/moviedetail/moviedetailMain.do?movieId=59099)
+  - [ACOUSTIC 木吉他：20歲之歌](http://movie.daum.net/moviedetail/moviedetailMain.do?movieId=59099)
+  - [《ACOUSTIC 木吉他：20歲之歌》 電影原聲帶](https://web.archive.org/web/20121222062201/http://www.warnermusic.com.tw/store/item/2299)
 
-  - [《ACOUSTIC 木吉他：20歲之歌》
-    電影原聲帶](https://web.archive.org/web/20121222062201/http://www.warnermusic.com.tw/store/item/2299)
-
-[Category:2010年電影](https://zh.wikipedia.org/wiki/Category:2010年電影 "wikilink")
-[Category:韓國愛情片](https://zh.wikipedia.org/wiki/Category:韓國愛情片 "wikilink")
-[Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
-[Category:多段式電影](https://zh.wikipedia.org/wiki/Category:多段式電影 "wikilink")
+[Category:2010年電影](https://zh.wikipedia.org/wiki/Category:2010年電影 "wikilink") [Category:韓國愛情片](https://zh.wikipedia.org/wiki/Category:韓國愛情片 "wikilink") [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink") [Category:多段式電影](https://zh.wikipedia.org/wiki/Category:多段式電影 "wikilink")

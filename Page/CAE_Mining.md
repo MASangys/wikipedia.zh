@@ -1,20 +1,12 @@
-**CAE Mining**是一系列矿业三维数字化集成解决方案软件，该系列软件系统主要包括[CAE
-Studio](https://zh.wikipedia.org/wiki/CAE_Studio "wikilink")、CAE Studio
-5D Planner、NPV Scheduler、CAE
-Summit等,其主要功能包括勘探数据分析、地质模型分析、岩石力学分析、开采方案设计、矿山生产及复垦规划等,目前该软件在世界各国矿产开发组织得到广泛使用。
+**CAE Mining**是一系列矿业三维数字化集成解决方案软件，该系列软件系统主要包括[CAE Studio](https://zh.wikipedia.org/wiki/CAE_Studio "wikilink")、CAE Studio 5D Planner、NPV Scheduler、CAE Summit等,其主要功能包括勘探数据分析、地质模型分析、岩石力学分析、开采方案设计、矿山生产及复垦规划等,目前该软件在世界各国矿产开发组织得到广泛使用。
 
 ## 开发使用环境
 
 CAE Mining软件可以在主流的Windows系统下操作运行，包括Win8、Win7、Winxp等。
 
-CAE
-Mining软件采用组件开发模式，系统内核和用户界面使用MFC语言开发，应用算法使用FORTRAN语言开发。3.0版本后，引入BCG界面风格和微软的.net框架。CAE
-Mining对外开放命令接口和用户界面对象，用户可以使用包括VBSCRIPT、JSSCRIPT、VB、VC和JAVA等编程语言，定制自己所需要的特定功能。
+CAE Mining软件采用组件开发模式，系统内核和用户界面使用MFC语言开发，应用算法使用FORTRAN语言开发。3.0版本后，引入BCG界面风格和微软的.net框架。CAE Mining对外开放命令接口和用户界面对象，用户可以使用包括VBSCRIPT、JSSCRIPT、VB、VC和JAVA等编程语言，定制自己所需要的特定功能。
 
-CAE Mining软件数据源不仅可以由软件自带的Table
-Edit编辑生成，还可通过多种第三方软件直接导入，例如Vulcan、Gemcom、Surpac、Medsystem、Micromine、AutoCAD、Amine、Microstation、Promine、Cadsminer等。CAE
-Studio软件的分析模拟结果可以通过多种第三方软件输出记录，例如Microstation、AutoCAD、Autodesk
-Design、Adobe PDF、Excel等。
+CAE Mining软件数据源不仅可以由软件自带的Table Edit编辑生成，还可通过多种第三方软件直接导入，例如Vulcan、Gemcom、Surpac、Medsystem、Micromine、AutoCAD、Amine、Microstation、Promine、Cadsminer等。CAE Studio软件的分析模拟结果可以通过多种第三方软件输出记录，例如Microstation、AutoCAD、Autodesk Design、Adobe PDF、Excel等。
 
 ## 软件系统组成
 
@@ -214,8 +206,7 @@ CAE Mining常用软件之间的框架体系可由下图所示:
 ## 工作流程
 
 CAE Mining的工作流程可由下图所示:
-[CAE
-Mining工作流程图改色版](https://zh.wikipedia.org/wiki/File:CAE_Studio工作流程图改色版.jpg "fig:CAE Mining工作流程图改色版")
+[CAE Mining工作流程图改色版](https://zh.wikipedia.org/wiki/File:CAE_Studio工作流程图改色版.jpg "fig:CAE Mining工作流程图改色版")
 
 ## 应用范围
 

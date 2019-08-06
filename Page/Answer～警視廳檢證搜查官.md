@@ -21,8 +21,7 @@
 
 <!-- end list -->
 
-  - **小暮茂雄（55）**：[片岡鶴太郎](https://zh.wikipedia.org/wiki/片岡鶴太郎 "wikilink")
-    飾
+  - **小暮茂雄（55）**：[片岡鶴太郎](https://zh.wikipedia.org/wiki/片岡鶴太郎 "wikilink") 飾
 
 <!-- end list -->
 
@@ -56,13 +55,11 @@
 <!-- end list -->
 
   -
-    強行犯係管理官
-    [警視](../Page/警視.md "wikilink")。對於案件結案前常被新海擋下重新調查感到不滿，但最後也不禁認可新海的方式。
+    強行犯係管理官 [警視](../Page/警視.md "wikilink")。對於案件結案前常被新海擋下重新調查感到不滿，但最後也不禁認可新海的方式。
 
 <!-- end list -->
 
-  - **唐澤潤平（28）**：[橘慶太](../Page/橘慶太.md "wikilink")（[w-inds.](https://zh.wikipedia.org/wiki/w-inds. "wikilink")）
-    飾
+  - **唐澤潤平（28）**：[橘慶太](../Page/橘慶太.md "wikilink")（[w-inds.](https://zh.wikipedia.org/wiki/w-inds. "wikilink")） 飾
 
 <!-- end list -->
 
@@ -85,8 +82,7 @@
 <!-- end list -->
 
   -
-    首席[管理官](https://zh.wikipedia.org/wiki/管理官 "wikilink")
-    [警視](../Page/警視.md "wikilink")。
+    首席[管理官](https://zh.wikipedia.org/wiki/管理官 "wikilink") [警視](../Page/警視.md "wikilink")。
 
 <!-- end list -->
 
@@ -194,12 +190,7 @@
 
 ## 作品的變遷
 
-[Category:2012年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年開播的日本電視劇集 "wikilink")
-[Category:朝日電視台週三晚間九點刑事連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週三晚間九點刑事連續劇 "wikilink")
-[Category:冤案電視劇](https://zh.wikipedia.org/wiki/Category:冤案電視劇 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
+[Category:2012年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年開播的日本電視劇集 "wikilink") [Category:朝日電視台週三晚間九點刑事連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週三晚間九點刑事連續劇 "wikilink") [Category:冤案電視劇](https://zh.wikipedia.org/wiki/Category:冤案電視劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
 
-1.  [注目ドラマ紹介 ：「Answer
-    ～警視庁検証捜査官」　観月ありさが刑事役初挑戦](http://mantan-web.jp/2012/04/18/20120418dog00m200019000c.html)
+1.  [注目ドラマ紹介 ：「Answer ～警視庁検証捜査官」　観月ありさが刑事役初挑戦](http://mantan-web.jp/2012/04/18/20120418dog00m200019000c.html)
 2.  [三浦大知　ソロ７年目で初の武道館ライブ](http://www.sponichi.co.jp/entertainment/news/2012/05/04/kiji/K20120504003177490.html)

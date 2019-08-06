@@ -31,14 +31,11 @@
 
 ## fpos模板类
 
-**fpos**
-是[C++標準程式庫中的一個模板类](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")，定义于<ios>头文件中。std::fpos类封装了C++标准中的[流输入输出的定位信息](https://zh.wikipedia.org/wiki/iostream "wikilink")。std::fpos模板类定义了操作符\!=、+、+=、-、-=、==、operator
-streamoff( )，还定义了成员函数state()、seekpos()。
+**fpos** 是[C++標準程式庫中的一個模板类](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")，定义于<ios>头文件中。std::fpos类封装了C++标准中的[流输入输出的定位信息](https://zh.wikipedia.org/wiki/iostream "wikilink")。std::fpos模板类定义了操作符\!=、+、+=、-、-=、==、operator streamoff( )，还定义了成员函数state()、seekpos()。
 
 ## 参考文献
 
-  - [basic_streambuf Class Template
-    Reference](http://gcc.gnu.org/onlinedocs/libstdc++/libstdc++-html-USERS-4.0/classstd_1_1basic__streambuf.html)
+  - [basic_streambuf Class Template Reference](http://gcc.gnu.org/onlinedocs/libstdc++/libstdc++-html-USERS-4.0/classstd_1_1basic__streambuf.html)
 
 <references/>
 

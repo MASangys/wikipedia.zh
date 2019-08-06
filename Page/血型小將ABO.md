@@ -1,7 +1,4 @@
-《**血型小將ABO**》（，原題：RealCrazyMan's Blood Types
-Comic）是[韓國Real](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-Crazy
-Man（本名：朴東宣）創作的[四格漫畫](../Page/四格漫畫.md "wikilink")。由其改編的電視動畫於2013年4月開始在[日本](../Page/日本.md "wikilink")播放。
+《**血型小將ABO**》（，原題：RealCrazyMan's Blood Types Comic）是[韓國Real](https://zh.wikipedia.org/wiki/韓國 "wikilink") Crazy Man（本名：朴東宣）創作的[四格漫畫](../Page/四格漫畫.md "wikilink")。由其改編的電視動畫於2013年4月開始在[日本](../Page/日本.md "wikilink")播放。
 
 ## 概要
 
@@ -100,15 +97,13 @@ Man（本名：朴東宣）創作的[四格漫畫](../Page/四格漫畫.md "wiki
 
 ## 電視動畫
 
-2013年4月7日至6月7日在[TOKYO
-MX等電視台播放約](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")2分鐘的短動畫，由[鳴海杏子](../Page/鳴海杏子.md "wikilink")擔任[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")\[13\]。在片首和片尾都會指出「本動畫並不主張血型決定人的性格」。
+2013年4月7日至6月7日在[TOKYO MX等電視台播放約](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")2分鐘的短動畫，由[鳴海杏子](../Page/鳴海杏子.md "wikilink")擔任[旁白](https://zh.wikipedia.org/wiki/旁白 "wikilink")\[13\]。在片首和片尾都會指出「本動畫並不主張血型決定人的性格」。
 
 ### 製作人員
 
 ※片尾的人員名單中，每個人的血型也被標註出來。
 
-  - 原作：「血型小將ABO」（[EARTH STAR
-    Entertainment刊](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wikilink")）
+  - 原作：「血型小將ABO」（[EARTH STAR Entertainment刊](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wikilink")）
   - 作者：Real Crazy Man
   - 監督：大山佳久
   - 系列構成、脚本：山下憲一
@@ -155,11 +150,8 @@ MX等電視台播放約](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")2分�
   -
 
       -
-        作詞 - 稲葉エミ / 作曲 -
-        [田代智一](https://zh.wikipedia.org/wiki/田代智一 "wikilink")
-        / 編曲 - [中山真斗](../Page/中山真斗.md "wikilink")
-        歌 -
-        A型酱（[悠木碧](../Page/悠木碧.md "wikilink")）、B型酱（[堀江由衣](../Page/堀江由衣.md "wikilink")）、O型酱（[小林優](../Page/小林優.md "wikilink")）、AB型酱（[中原麻衣](../Page/中原麻衣.md "wikilink")）
+        作詞 - 稲葉エミ / 作曲 - [田代智一](https://zh.wikipedia.org/wiki/田代智一 "wikilink") / 編曲 - [中山真斗](../Page/中山真斗.md "wikilink")
+        歌 - A型酱（[悠木碧](../Page/悠木碧.md "wikilink")）、B型酱（[堀江由衣](../Page/堀江由衣.md "wikilink")）、O型酱（[小林優](../Page/小林優.md "wikilink")）、AB型酱（[中原麻衣](../Page/中原麻衣.md "wikilink")）
 
   - 第4期
 
@@ -168,9 +160,7 @@ MX等電視台播放約](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")2分�
   -
 
       -
-        作詞・作曲・編曲 -
-        [園田智也](https://zh.wikipedia.org/wiki/木村有希_\(作曲家\) "wikilink")
-        / 歌 - 鳴海杏子
+        作詞・作曲・編曲 - [園田智也](https://zh.wikipedia.org/wiki/木村有希_\(作曲家\) "wikilink") / 歌 - 鳴海杏子
 
 ### 各話列表
 
@@ -733,27 +723,15 @@ MX等電視台播放約](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")2分�
 
 ## 外部連結
 
-  - [RealCrazyMan's Blood Types
-    Comic](http://realcrazyman.blogspot.jp/)（Real Crazy Man繪，Tikin英譯）
+  - [RealCrazyMan's Blood Types Comic](http://realcrazyman.blogspot.jp/)（Real Crazy Man繪，Tikin英譯）
 
   -
   - [動畫官方網站](http://ketsuekigatakun.com/)
 
-  - [血液型くん！](http://ch.nicovideo.jp/ketsuekigata-kun)
-    在[NICONICO頻道上的頁面](https://zh.wikipedia.org/wiki/NICONICO頻道 "wikilink")
-
+  - [血液型くん！](http://ch.nicovideo.jp/ketsuekigata-kun) 在[NICONICO頻道上的頁面](https://zh.wikipedia.org/wiki/NICONICO頻道 "wikilink")
 
   -
-[Category:2013年UHF動畫](https://zh.wikipedia.org/wiki/Category:2013年UHF動畫 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:搞笑動畫](https://zh.wikipedia.org/wiki/Category:搞笑動畫 "wikilink")
-[Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink")
-[Category:韓國網絡漫畫](https://zh.wikipedia.org/wiki/Category:韓國網絡漫畫 "wikilink")
-[Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink")
-[Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink")
-[Category:动画短片](https://zh.wikipedia.org/wiki/Category:动画短片 "wikilink")
-[Category:血題材作品](https://zh.wikipedia.org/wiki/Category:血題材作品 "wikilink")
-[Category:Feel.](https://zh.wikipedia.org/wiki/Category:Feel. "wikilink")
+[Category:2013年UHF動畫](https://zh.wikipedia.org/wiki/Category:2013年UHF動畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:搞笑動畫](https://zh.wikipedia.org/wiki/Category:搞笑動畫 "wikilink") [Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink") [Category:韓國網絡漫畫](https://zh.wikipedia.org/wiki/Category:韓國網絡漫畫 "wikilink") [Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink") [Category:动画短片](https://zh.wikipedia.org/wiki/Category:动画短片 "wikilink") [Category:血題材作品](https://zh.wikipedia.org/wiki/Category:血題材作品 "wikilink") [Category:Feel.](https://zh.wikipedia.org/wiki/Category:Feel. "wikilink")
 
 1.
 2.
@@ -780,5 +758,4 @@ MX等電視台播放約](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")2分�
 
 13. [STAFF - TVアニメ「血液型くん！」公式サイト](http://ketsuekigatakun.com/staff/)
 
-14. [国民的声優グランプリ結果のお知らせ](http://comic-earthstar.jp/esd/) ：アース・スター
-    エンタテンメント
+14. [国民的声優グランプリ結果のお知らせ](http://comic-earthstar.jp/esd/) ：アース・スター エンタテンメント

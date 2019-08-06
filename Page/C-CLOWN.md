@@ -1,5 +1,4 @@
-**C-Clown**（），是[韓國Yedang](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-Entertainment於2012年成立的六人男子團體，由Rome、[時雨](https://zh.wikipedia.org/wiki/金泰旻 "wikilink")、[Ray](https://zh.wikipedia.org/wiki/Ray_\(韓國歌手\) "wikilink")、[姜俊](https://zh.wikipedia.org/wiki/姜俊 "wikilink")、[T.K](https://zh.wikipedia.org/wiki/T.K "wikilink")、Maru，六名成員組成。團名**C-Clown**是「**C**rown**-C**lown」的縮寫，代表著「六位小丑(Clown)，想以最好的音樂及表現，戴上歌謠界的王冠(Crown)」，於2012年7月19日正式出道。官方粉絲名稱為Crown（크라운），而官方應援色則為珍珠森林綠。
+**C-Clown**（），是[韓國Yedang](https://zh.wikipedia.org/wiki/韓國 "wikilink") Entertainment於2012年成立的六人男子團體，由Rome、[時雨](https://zh.wikipedia.org/wiki/金泰旻 "wikilink")、[Ray](https://zh.wikipedia.org/wiki/Ray_\(韓國歌手\) "wikilink")、[姜俊](https://zh.wikipedia.org/wiki/姜俊 "wikilink")、[T.K](https://zh.wikipedia.org/wiki/T.K "wikilink")、Maru，六名成員組成。團名**C-Clown**是「**C**rown**-C**lown」的縮寫，代表著「六位小丑(Clown)，想以最好的音樂及表現，戴上歌謠界的王冠(Crown)」，於2012年7月19日正式出道。官方粉絲名稱為Crown（크라운），而官方應援色則為珍珠森林綠。
 
 C-Clown名稱寓意著王冠小丑，王冠象徵至高無上的權力，小丑在韓文詞彙裡又有藝人之意，以成為歌謠界最高歌手為終極目標。
 
@@ -20,11 +19,7 @@ C-Clown名稱寓意著王冠小丑，王冠象徵至高無上的權力，小丑�
 
 ## 經歷
 
-  - 出道前T.K曾與[Cube
-    Entertainment旗下組合](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[BTOB](../Page/BTOB.md "wikilink")的[恩光](../Page/徐恩光.md "wikilink")、[旼赫](../Page/李旼赫.md "wikilink")、[炫植和](../Page/任炫植.md "wikilink")[鎰勳參與JTBC](../Page/鄭鎰勳.md "wikilink")《住在清潭洞》演出，亦曾以歌曲《그
-    입술을 뺏었어》\[2\]及名稱清潭不敗(Invincible
-    Cheongdam)在劇中音樂節目作虛擬出道舞臺。此五位成員也是第一次公佈[BTOB](../Page/BTOB.md "wikilink")的已確定成員名單裏的五位。[BTOB](../Page/BTOB.md "wikilink")出道前其所屬公司[Cube
-    Entertainment公開澄清了T](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink").K因健康理由退出，現已以**C-CLOWN**出道。
+  - 出道前T.K曾與[Cube Entertainment旗下組合](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[BTOB](../Page/BTOB.md "wikilink")的[恩光](../Page/徐恩光.md "wikilink")、[旼赫](../Page/李旼赫.md "wikilink")、[炫植和](../Page/任炫植.md "wikilink")[鎰勳參與JTBC](../Page/鄭鎰勳.md "wikilink")《住在清潭洞》演出，亦曾以歌曲《그 입술을 뺏었어》\[2\]及名稱清潭不敗(Invincible Cheongdam)在劇中音樂節目作虛擬出道舞臺。此五位成員也是第一次公佈[BTOB](../Page/BTOB.md "wikilink")的已確定成員名單裏的五位。[BTOB](../Page/BTOB.md "wikilink")出道前其所屬公司[Cube Entertainment公開澄清了T](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink").K因健康理由退出，現已以**C-CLOWN**出道。
   - 2012年7月10日釋出了預告影片。影片中可以看到六人一閃而逝的身影，最後才聚集到了一起。歌曲預告中不強烈的節奏呈現出了成員們的好嗓音，也讓聽到的人們對他們更加好奇。
   - 2012年7月13日於出道之前，公佈C-CLOWN官方應援色為珍珠森林綠。
   - 2012年7月18日舉行出道發表會，初次公開完整版主打歌曲《SOLO》。
@@ -361,18 +356,9 @@ C-Clown名稱寓意著王冠小丑，王冠象徵至高無上的權力，小丑�
   - [C-CLOWN官方Facebook](http://www.facebook.com/cclownofficial)
   - [C-CLOWN官方Twitter](http://twitter.com/CCLOWNOfficial)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink")
-[Category:2012年韓國建立](https://zh.wikipedia.org/wiki/Category:2012年韓國建立 "wikilink")
-[Category:2015年韓國廢除](https://zh.wikipedia.org/wiki/Category:2015年韓國廢除 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink") [Category:2012年韓國建立](https://zh.wikipedia.org/wiki/Category:2012年韓國建立 "wikilink") [Category:2015年韓國廢除](https://zh.wikipedia.org/wiki/Category:2015年韓國廢除 "wikilink")
 
 1.  [- C-CLOWN宣佈正式解散](http://www.koreastardaily.com/tc/news/69071)
-2.  《Irresistible
-    Lips》，已收錄於[BTOB](../Page/BTOB.md "wikilink")首張特別專輯《Born
-    TO Beat (Asian Special Edition)》
+2.  《Irresistible Lips》，已收錄於[BTOB](../Page/BTOB.md "wikilink")首張特別專輯《Born TO Beat (Asian Special Edition)》
 3.  <http://www.gurupop.com/mts/gurupop-show/ep12/Review>
 4.  <http://kfes.brokore.com/artists.php>

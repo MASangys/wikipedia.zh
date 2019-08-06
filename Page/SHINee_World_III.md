@@ -1,48 +1,28 @@
-**SHINee World III**
-是[SHINee](../Page/SHINee.md "wikilink")的第三次巡回演唱会、第一次世界巡迴演唱會，本次巡回演唱会由2014年3月8日的[首爾](../Page/首爾.md "wikilink")場揭開序幕。\[1\]
+**SHINee World III** 是[SHINee](../Page/SHINee.md "wikilink")的第三次巡回演唱会、第一次世界巡迴演唱會，本次巡回演唱会由2014年3月8日的[首爾](../Page/首爾.md "wikilink")場揭開序幕。\[1\]
 
 ## 历史
 
-SHINee所屬公司SM公司在2014年1月29日宣布了SHINee將舉行第三次巡迴演唱會，亦是第一次世界巡迴演唱會「SHINee World
-III」。首场演唱会定在3月8-9日首尔的奥林匹克体操竞技场。2014年3月6日宣布本場巡回演唱會將到達[拉丁美洲](../Page/拉丁美洲.md "wikilink")，並在4月时分別前往[墨西哥](../Page/墨西哥.md "wikilink")[墨西哥城](../Page/墨西哥城.md "wikilink")、[智利](../Page/智利.md "wikilink")[聖地亞哥及](https://zh.wikipedia.org/wiki/聖地亞哥 "wikilink")[阿根廷](../Page/阿根廷.md "wikilink")[布宜諾斯艾利斯](../Page/布宜諾斯艾利斯.md "wikilink")。5月11日时，SHINee也在新庄体育馆舉行了台湾场的演唱会。
+SHINee所屬公司SM公司在2014年1月29日宣布了SHINee將舉行第三次巡迴演唱會，亦是第一次世界巡迴演唱會「SHINee World III」。首场演唱会定在3月8-9日首尔的奥林匹克体操竞技场。2014年3月6日宣布本場巡回演唱會將到達[拉丁美洲](../Page/拉丁美洲.md "wikilink")，並在4月时分別前往[墨西哥](../Page/墨西哥.md "wikilink")[墨西哥城](../Page/墨西哥城.md "wikilink")、[智利](../Page/智利.md "wikilink")[聖地亞哥及](https://zh.wikipedia.org/wiki/聖地亞哥 "wikilink")[阿根廷](../Page/阿根廷.md "wikilink")[布宜諾斯艾利斯](../Page/布宜諾斯艾利斯.md "wikilink")。5月11日时，SHINee也在新庄体育馆舉行了台湾场的演唱会。
 
 ### 首尔
 
-[SHINee](../Page/SHINee.md "wikilink")
-在3月8日与9日的[首尔场](https://zh.wikipedia.org/wiki/首尔 "wikilink")“SHINee
-World
-III”共号召了两万五千名粉丝。[SHINee](../Page/SHINee.md "wikilink")在演唱会前的记者访问中说道：
+[SHINee](../Page/SHINee.md "wikilink") 在3月8日与9日的[首尔场](https://zh.wikipedia.org/wiki/首尔 "wikilink")“SHINee World III”共号召了两万五千名粉丝。[SHINee](../Page/SHINee.md "wikilink")在演唱会前的记者访问中说道：
 
   -
 
-[SHINee](../Page/SHINee.md "wikilink")在首爾場中初次公開了包括《Spoiler》、《Evil》等正規三輯收錄曲的舞台，並演唱多首主打歌曲及數首日文歌曲，並表演了日文第九張單曲《3
-2 1》的韓文版本。
+[SHINee](../Page/SHINee.md "wikilink")在首爾場中初次公開了包括《Spoiler》、《Evil》等正規三輯收錄曲的舞台，並演唱多首主打歌曲及數首日文歌曲，並表演了日文第九張單曲《3 2 1》的韓文版本。
 
 ### 墨西哥
 
-4月4日，SHINee在墨西哥斗牛竞技场内招引了八千个粉丝们。这一群男生们演唱了“Replay”,”Juliette”,
-“[Lucifer](https://zh.wikipedia.org/wiki/Lucifer "wikilink")”,和“[Ring
-Ding
-Dong](../Page/Ring_Ding_Dong.md "wikilink")”等歌曲。他们同时也为热情的墨西哥粉丝们准备了”Macarena”特别舞台。他们在这场演唱会里面总共表演了25首歌曲。
+4月4日，SHINee在墨西哥斗牛竞技场内招引了八千个粉丝们。这一群男生们演唱了“Replay”,”Juliette”, “[Lucifer](https://zh.wikipedia.org/wiki/Lucifer "wikilink")”,和“[Ring Ding Dong](../Page/Ring_Ding_Dong.md "wikilink")”等歌曲。他们同时也为热情的墨西哥粉丝们准备了”Macarena”特别舞台。他们在这场演唱会里面总共表演了25首歌曲。
 
 ### 智利
 
-SHINee在4月6日时在圣地亚哥，智利举行了他们的“**SHINee World
-III**”，并且吸引了八千五百人到Movistar竞技场来观看他们的表演。
-因为这是SHINee第一次在智利举行演唱会，所以歌迷们在前天晚上就排上了队等待演唱会的开始。SHINee在演唱会当天表演了25首歌曲，其中包括Dream
-Girl, [Ring Ding Dong](../Page/Ring_Ding_Dong.md "wikilink"),
-[Everybody](../Page/Everybody.md "wikilink")”Macarena”特别舞台。歌迷们也为金钟铉的生日提前准备了惊喜，除了歌迷们每人手里拿的“生日快乐金钟铉”手幅之外，当[SHINee](../Page/SHINee.md "wikilink")演唱Colorful这首歌中，歌迷们将五颜六色的气球放飞在空中。此演唱会有100多个不同媒体的记者们参加，其中有LA
-Tercera, Terra, Canal 13, ETC
-TV等等，他们在演唱会之前的记者见面会中采访到了[SHINee](../Page/SHINee.md "wikilink")。
+SHINee在4月6日时在圣地亚哥，智利举行了他们的“**SHINee World III**”，并且吸引了八千五百人到Movistar竞技场来观看他们的表演。 因为这是SHINee第一次在智利举行演唱会，所以歌迷们在前天晚上就排上了队等待演唱会的开始。SHINee在演唱会当天表演了25首歌曲，其中包括Dream Girl, [Ring Ding Dong](../Page/Ring_Ding_Dong.md "wikilink"), [Everybody](../Page/Everybody.md "wikilink")”Macarena”特别舞台。歌迷们也为金钟铉的生日提前准备了惊喜，除了歌迷们每人手里拿的“生日快乐金钟铉”手幅之外，当[SHINee](../Page/SHINee.md "wikilink")演唱Colorful这首歌中，歌迷们将五颜六色的气球放飞在空中。此演唱会有100多个不同媒体的记者们参加，其中有LA Tercera, Terra, Canal 13, ETC TV等等，他们在演唱会之前的记者见面会中采访到了[SHINee](../Page/SHINee.md "wikilink")。
 
 ### 阿根廷
 
-4月8日，世界巡回演唱会阿根廷场次在Luna
-Park竞技场举行。这次[SHINee](../Page/SHINee.md "wikilink")演唱了26首歌，其中有Juliette,
-Lucifer, Dream Girl, Everybody,
-还有为八千五百名粉丝们准备”Macarena”特别舞台。演唱时，歌迷们从头到尾都在跟着歌曲一起哼唱。歌迷们还准备了一个上面写着“生日快乐，钟铉”的蛋糕来为金钟铉庆生。当[SHINee](../Page/SHINee.md "wikilink")演唱Green
-Rain时，所有的歌迷们手举“阿根廷热爱于SHINee”
-的手幅字样来为[SHINee](../Page/SHINee.md "wikilink")应援。SHINee的成员们在演唱会说道：
+4月8日，世界巡回演唱会阿根廷场次在Luna Park竞技场举行。这次[SHINee](../Page/SHINee.md "wikilink")演唱了26首歌，其中有Juliette, Lucifer, Dream Girl, Everybody, 还有为八千五百名粉丝们准备”Macarena”特别舞台。演唱时，歌迷们从头到尾都在跟着歌曲一起哼唱。歌迷们还准备了一个上面写着“生日快乐，钟铉”的蛋糕来为金钟铉庆生。当[SHINee](../Page/SHINee.md "wikilink")演唱Green Rain时，所有的歌迷们手举“阿根廷热爱于SHINee” 的手幅字样来为[SHINee](../Page/SHINee.md "wikilink")应援。SHINee的成员们在演唱会说道：
 
   -
 
@@ -107,12 +87,10 @@ Rain时，所有的歌迷们手举“阿根廷热爱于SHINee”
 
 ## 外界链接
 
-  - [SM Entertainment – Official
-    website](https://web.archive.org/web/20060424164456/http://www.smtown.com/)
+  - [SM Entertainment – Official website](https://web.archive.org/web/20060424164456/http://www.smtown.com/)
   - [Shinee – Official South Korean website](http://shinee.smtown.com)
 
-[Category:SHINee](https://zh.wikipedia.org/wiki/Category:SHINee "wikilink")
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
+[Category:SHINee](https://zh.wikipedia.org/wiki/Category:SHINee "wikilink") [Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
 
 1.
 2.

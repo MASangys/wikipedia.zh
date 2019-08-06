@@ -1,5 +1,4 @@
-以下是可以被发送到[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")[服务器](../Page/服务器.md "wikilink")的**FTP命令列表**，包含由[IETF在RFC](https://zh.wikipedia.org/wiki/IETF "wikilink")
-959中标准化的所有命令。需要注意的是，大多数命令行FTP客户端都给用户提供了额外的命令集。例如，GET是一个常见的用来下载文件的用户命令，用来替代原始的RETR命令。
+以下是可以被发送到[FTP](https://zh.wikipedia.org/wiki/FTP "wikilink")[服务器](../Page/服务器.md "wikilink")的**FTP命令列表**，包含由[IETF在RFC](https://zh.wikipedia.org/wiki/IETF "wikilink") 959中标准化的所有命令。需要注意的是，大多数命令行FTP客户端都给用户提供了额外的命令集。例如，GET是一个常见的用来下载文件的用户命令，用来替代原始的RETR命令。
 
 | 命令   | [RFC](../Page/RFC.md "wikilink")                   | 描述                                                                                                  |
 | ---- | -------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
@@ -74,15 +73,12 @@
   - RFC 959 - File Transfer Protocol (FTP)
   - RFC 1639 - FTP Operation Over Big Address Records (FOOBAR)
   - RFC 2228 - FTP Security Extensions
-  - RFC 2389 - Feature negotiation mechanism for the File Transfer
-    Protocol
+  - RFC 2389 - Feature negotiation mechanism for the File Transfer Protocol
   - RFC 2428 - FTP Extensions for IPv6 and NATs
   - RFC 2640 - Internationalization of the File Transfer Protocol
   - RFC 3659 - Extensions to FTP
   - RFC 5797 - FTP Command and Extension Registry
-  - [IANA FTP Commands and Extensions
-    registry](http://www.iana.org/assignments/ftp-commands-extensions/ftp-commands-extensions.xhtml)
-    - The official registry of FTP Commands and Extensions
+  - [IANA FTP Commands and Extensions registry](http://www.iana.org/assignments/ftp-commands-extensions/ftp-commands-extensions.xhtml) - The official registry of FTP Commands and Extensions
   - [Raw FTP command list](http://www.nsftools.com/tips/RawFTP.htm)
 
 [Category:文件传输协议](https://zh.wikipedia.org/wiki/Category:文件传输协议 "wikilink")

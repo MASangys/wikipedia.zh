@@ -75,6 +75,4 @@ Base58编码可以表示的比特位数为Log<sub>2</sub>58\(\approx\)5.858<sub>
 
   - [Base64](../Page/Base64.md "wikilink")
 
-[Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink")
-[Category:字符编码](https://zh.wikipedia.org/wiki/Category:字符编码 "wikilink")
-[Category:数字](https://zh.wikipedia.org/wiki/Category:数字 "wikilink")
+[Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink") [Category:字符编码](https://zh.wikipedia.org/wiki/Category:字符编码 "wikilink") [Category:数字](https://zh.wikipedia.org/wiki/Category:数字 "wikilink")

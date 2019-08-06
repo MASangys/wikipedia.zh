@@ -2,9 +2,7 @@
 
 ## 历史
 
-因为对[GTK
-3不满意](../Page/GTK.md "wikilink")+，\[1\][LXDE](../Page/LXDE.md "wikilink")维护者[洪任諭](../Page/洪任諭.md "wikilink")于2013年初对[Qt](../Page/Qt.md "wikilink")进行了实验\[2\]
-，并于2013年3月26日发布了基于[Qt](../Page/Qt.md "wikilink")的[PCMan檔案管理程式](../Page/PCMan檔案管理程式.md "wikilink")的第一个版本.\[3\]。不过，他澄清[LXDE](../Page/LXDE.md "wikilink")不会背离[GTK](../Page/GTK.md "wikilink")+，称“[GTK](../Page/GTK.md "wikilink")+和[Qt](../Page/Qt.md "wikilink")版本将共存”，之后他将[LXDE](../Page/LXDE.md "wikilink")的Xrandr前端[移植到](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")[Qt](../Page/Qt.md "wikilink")。\[4\]
+因为对[GTK 3不满意](../Page/GTK.md "wikilink")+，\[1\][LXDE](../Page/LXDE.md "wikilink")维护者[洪任諭](../Page/洪任諭.md "wikilink")于2013年初对[Qt](../Page/Qt.md "wikilink")进行了实验\[2\] ，并于2013年3月26日发布了基于[Qt](../Page/Qt.md "wikilink")的[PCMan檔案管理程式](../Page/PCMan檔案管理程式.md "wikilink")的第一个版本.\[3\]。不过，他澄清[LXDE](../Page/LXDE.md "wikilink")不会背离[GTK](../Page/GTK.md "wikilink")+，称“[GTK](../Page/GTK.md "wikilink")+和[Qt](../Page/Qt.md "wikilink")版本将共存”，之后他将[LXDE](../Page/LXDE.md "wikilink")的Xrandr前端[移植到](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")[Qt](../Page/Qt.md "wikilink")。\[4\]
 
 2013年7月3日，[洪任諭](../Page/洪任諭.md "wikilink")宣布推出完整[LXDE](../Page/LXDE.md "wikilink")套件的Qt端口。\[5\]2013年7月21日，[Razor-qt](../Page/Razor-qt.md "wikilink")和[LXDE](../Page/LXDE.md "wikilink")宣布决定合并这两个项目。\[6\]\[7\]这一合并意味着GTK+和Qt版本将首先共存，但最终将放弃[GTK+版本](https://zh.wikipedia.org/wiki/GTK+ "wikilink")，后续将集中在Qt端口上。\[8\]LXDE-Qt和Razor-qt的合并后更名为LXQt\[9\]并于2014年5月7日发布了第一个版本0.7.0。\[10\]
 
@@ -12,8 +10,7 @@
 
 ## 软件组件
 
-LXQt由许多模块化组件组成，其中一些组件依赖于[Qt](../Page/Qt.md "wikilink")和[KDE Frameworks
-5](../Page/KDE_Frameworks_5.md "wikilink")。\[12\]
+LXQt由许多模块化组件组成，其中一些组件依赖于[Qt](../Page/Qt.md "wikilink")和[KDE Frameworks 5](../Page/KDE_Frameworks_5.md "wikilink")。\[12\]
 
 <table>
 <thead>
@@ -212,10 +209,7 @@ LXQt由许多模块化组件组成，其中一些组件依赖于[Qt](../Page/Qt.
   -
   - [LXQt Roadmap](https://github.com/lxqt/lxqt/wiki/Roadmap)
 
-[Category:LXDE](https://zh.wikipedia.org/wiki/Category:LXDE "wikilink")
-[Category:2013年软件](https://zh.wikipedia.org/wiki/Category:2013年软件 "wikilink")
-[Category:自由桌面环境](https://zh.wikipedia.org/wiki/Category:自由桌面环境 "wikilink")
-[Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
+[Category:LXDE](https://zh.wikipedia.org/wiki/Category:LXDE "wikilink") [Category:2013年软件](https://zh.wikipedia.org/wiki/Category:2013年软件 "wikilink") [Category:自由桌面环境](https://zh.wikipedia.org/wiki/Category:自由桌面环境 "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
 
 1.
 2.

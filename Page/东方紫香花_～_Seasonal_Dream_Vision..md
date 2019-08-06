@@ -1,5 +1,4 @@
-**東方紫香花 〜 Seasonal Dream Vision.**（，ASIN
-B002U9T3WK）是由[虎之穴于](https://zh.wikipedia.org/wiki/虎之穴 "wikilink")2005年10月1日发售的一个关于[东方Project的](https://zh.wikipedia.org/wiki/东方Project "wikilink")[同人志](https://zh.wikipedia.org/wiki/同人志 "wikilink")。
+**東方紫香花 〜 Seasonal Dream Vision.**（，ASIN B002U9T3WK）是由[虎之穴于](https://zh.wikipedia.org/wiki/虎之穴 "wikilink")2005年10月1日发售的一个关于[东方Project的](https://zh.wikipedia.org/wiki/东方Project "wikilink")[同人志](https://zh.wikipedia.org/wiki/同人志 "wikilink")。
 
 ## 概述
 
@@ -200,8 +199,7 @@ B002U9T3WK）是由[虎之穴于](https://zh.wikipedia.org/wiki/虎之穴 "wikil
 
 ## 参考资料
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:同人題材作品](https://zh.wikipedia.org/wiki/Category:同人題材作品 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:同人題材作品](https://zh.wikipedia.org/wiki/Category:同人題材作品 "wikilink")
 
 1.
 

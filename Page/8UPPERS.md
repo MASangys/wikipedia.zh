@@ -3,8 +3,7 @@
 ## 概要
 
   - 睽違一年6個月的新專輯。
-  - 收錄3首單曲的，為「[急☆上☆Show\!\!](../Page/急☆上☆Show!!.md "wikilink")」、「[Wonderful
-    World\!\!](../Page/Wonderful_World!!.md "wikilink")」、「[LIFE〜目の前の向こうへ〜](../Page/LIFE～朝著眼前的方向～.md "wikilink")」
+  - 收錄3首單曲的，為「[急☆上☆Show\!\!](../Page/急☆上☆Show!!.md "wikilink")」、「[Wonderful World\!\!](../Page/Wonderful_World!!.md "wikilink")」、「[LIFE〜目の前の向こうへ〜](../Page/LIFE～朝著眼前的方向～.md "wikilink")」
   - 初回盤的CD和通常盤的CD1收錄曲是一樣的
   - DVD特典 『8UPPERS FEATURE MUSIC FILM』的監督和脚本是中村哲平先生。
 
@@ -95,6 +94,4 @@
       -
         作詞：安田章大 / 大倉忠義 作曲：安田章大 編曲：大西省吾
 
-[Category:關西傑尼斯8音樂專輯](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:關西傑尼斯8音樂專輯](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink")

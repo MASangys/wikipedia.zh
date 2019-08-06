@@ -42,8 +42,4 @@
 <!-- end list -->
 
   -
-[Category:2013年電影](https://zh.wikipedia.org/wiki/Category:2013年電影 "wikilink")
-[Category:2013年中国作品](https://zh.wikipedia.org/wiki/Category:2013年中国作品 "wikilink")
-[Category:2010年代爱情片](https://zh.wikipedia.org/wiki/Category:2010年代爱情片 "wikilink")
-[Category:2010年代中國電影作品](https://zh.wikipedia.org/wiki/Category:2010年代中國電影作品 "wikilink")
-[Category:中国爱情片](https://zh.wikipedia.org/wiki/Category:中国爱情片 "wikilink")
+[Category:2013年電影](https://zh.wikipedia.org/wiki/Category:2013年電影 "wikilink") [Category:2013年中国作品](https://zh.wikipedia.org/wiki/Category:2013年中国作品 "wikilink") [Category:2010年代爱情片](https://zh.wikipedia.org/wiki/Category:2010年代爱情片 "wikilink") [Category:2010年代中國電影作品](https://zh.wikipedia.org/wiki/Category:2010年代中國電影作品 "wikilink") [Category:中国爱情片](https://zh.wikipedia.org/wiki/Category:中国爱情片 "wikilink")

@@ -1,8 +1,4 @@
-**JAPAN FIRST TOUR GIRLS'
-GENERATION**是韓國女子組合[少女時代第一次日本巡迴演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。這次日本巡演是之後舉行[GIRLS'
-GENERATION
-TOUR的一部分](../Page/GIRLS'_GENERATION_TOUR.md "wikilink")，舞台的設計、配置設備都是一樣。
-這場演唱會是[少女時代在日本出道](https://zh.wikipedia.org/wiki/少女時代 "wikilink")9個月的首個巡迴演唱會，原本只舉辦7場巡演動員7萬名觀眾，由於反應熱烈，一共有45萬張門票申請人的高峰，因此增加場次為14場。
+**JAPAN FIRST TOUR GIRLS' GENERATION**是韓國女子組合[少女時代第一次日本巡迴演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。這次日本巡演是之後舉行[GIRLS' GENERATION TOUR的一部分](../Page/GIRLS'_GENERATION_TOUR.md "wikilink")，舞台的設計、配置設備都是一樣。 這場演唱會是[少女時代在日本出道](https://zh.wikipedia.org/wiki/少女時代 "wikilink")9個月的首個巡迴演唱會，原本只舉辦7場巡演動員7萬名觀眾，由於反應熱烈，一共有45萬張門票申請人的高峰，因此增加場次為14場。
 
 ## 概要
 
@@ -14,9 +10,7 @@ TOUR的一部分](../Page/GIRLS'_GENERATION_TOUR.md "wikilink")，舞台的設�
 
 <!-- end list -->
 
-  - 於7月18日在福岡舉行的尾埸，適逢是[富士電視台](../Page/富士電視台.md "wikilink")《[HEY\!HEY\!HEY\!MUSIC
-    CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")》的600回特輯，節目連線至少女時代的演唱會現場，演唱會結束後再次Encore，演唱了日本出道歌曲〈[GENIE](../Page/Genie_\(單曲\).md "wikilink")〉及收錄於第一張日本專輯的〈BAD
-    GIRL〉。
+  - 於7月18日在福岡舉行的尾埸，適逢是[富士電視台](../Page/富士電視台.md "wikilink")《[HEY\!HEY\!HEY\!MUSIC CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")》的600回特輯，節目連線至少女時代的演唱會現場，演唱會結束後再次Encore，演唱了日本出道歌曲〈[GENIE](../Page/Genie_\(單曲\).md "wikilink")〉及收錄於第一張日本專輯的〈BAD GIRL〉。
 
 ## GIRLS' GENERATION TOUR
 
@@ -182,8 +176,7 @@ TOUR的一部分](../Page/GIRLS'_GENERATION_TOUR.md "wikilink")，舞台的設�
 
 <!-- end list -->
 
-  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")
-    （[太妍](../Page/太妍.md "wikilink")、[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
+  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink") （[太妍](../Page/太妍.md "wikilink")、[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
 
 <!-- end list -->
 
@@ -191,10 +184,7 @@ TOUR的一部分](../Page/GIRLS'_GENERATION_TOUR.md "wikilink")，舞台的設�
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、[SM
-    Entertainment
-    Japan](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、[SM Entertainment Japan](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
 
 <!-- end list -->
 
@@ -202,8 +192,7 @@ TOUR的一部分](../Page/GIRLS'_GENERATION_TOUR.md "wikilink")，舞台的設�
 
 <!-- end list -->
 
-  - [Nayutawave Records](../Page/環球音樂_\(日本\).md "wikilink")、SM
-    Entertainment Japan
+  - [Nayutawave Records](../Page/環球音樂_\(日本\).md "wikilink")、SM Entertainment Japan
 
 ## 参考资料
 
@@ -221,13 +210,10 @@ TOUR的一部分](../Page/GIRLS'_GENERATION_TOUR.md "wikilink")，舞台的設�
 
   -
   -
-[Category:2011年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2011年巡迴演唱會 "wikilink")
-[Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink")
-[Category:少女時代日本演唱會](https://zh.wikipedia.org/wiki/Category:少女時代日本演唱會 "wikilink")
+[Category:2011年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2011年巡迴演唱會 "wikilink") [Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink") [Category:少女時代日本演唱會](https://zh.wikipedia.org/wiki/Category:少女時代日本演唱會 "wikilink")
 
 1.
 
 2.  [少女時代日本官方網站](http://www.girls-generation.jp/TheBEST_Discography/#JFT1)
-
 
 3.

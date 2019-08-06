@@ -11,8 +11,7 @@
 3.  Sae Zuri（さえずり）
       -
         [MAIKO的獨唱曲](https://zh.wikipedia.org/wiki/舞衣子 "wikilink")。
-4.  [For
-    Tomorrow](https://zh.wikipedia.org/wiki/For_Tomorrow "wikilink")（フォー・トゥモロー）
+4.  [For Tomorrow](https://zh.wikipedia.org/wiki/For_Tomorrow "wikilink")（フォー・トゥモロー）
       -
         証明的搭配曲。主唱是TAKAYO。
 5.  GO\!（ゴー）
@@ -38,12 +37,8 @@
 
 ## 外部連結
 
-  - [Sony Music官方網站 believe in
-    ZONE](http://www.sonymusic.co.jp/Music/Info/ZONE/)
+  - [Sony Music官方網站 believe in ZONE](http://www.sonymusic.co.jp/Music/Info/ZONE/)
 
-[Category:ZONE](https://zh.wikipedia.org/wiki/Category:ZONE "wikilink")
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
+[Category:ZONE](https://zh.wikipedia.org/wiki/Category:ZONE "wikilink") [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
 
-1.  [DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")『[ZONE FINAL in
-    日本武道館 2005/04/01
-    〜心を込めてありがとう〜](https://zh.wikipedia.org/wiki/ZONE_FINAL_in_日本武道館_2005/04/01_〜心を込めてありがとう〜 "wikilink")』にその模様が収録されている。
+1.  [DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")『[ZONE FINAL in 日本武道館 2005/04/01 〜心を込めてありがとう〜](https://zh.wikipedia.org/wiki/ZONE_FINAL_in_日本武道館_2005/04/01_〜心を込めてありがとう〜 "wikilink")』にその模様が収録されている。

@@ -2574,11 +2574,7 @@
   -
   -
   -
-[Category:MBC演技大獎](https://zh.wikipedia.org/wiki/Category:MBC演技大獎 "wikilink")
-[Category:韓國電視獎項](https://zh.wikipedia.org/wiki/Category:韓國電視獎項 "wikilink")
-[Category:香港有線電視節目](https://zh.wikipedia.org/wiki/Category:香港有線電視節目 "wikilink")
-[Category:東森電視外購節目](https://zh.wikipedia.org/wiki/Category:東森電視外購節目 "wikilink")
-[Category:八大電視外購節目](https://zh.wikipedia.org/wiki/Category:八大電視外購節目 "wikilink")
+[Category:MBC演技大獎](https://zh.wikipedia.org/wiki/Category:MBC演技大獎 "wikilink") [Category:韓國電視獎項](https://zh.wikipedia.org/wiki/Category:韓國電視獎項 "wikilink") [Category:香港有線電視節目](https://zh.wikipedia.org/wiki/Category:香港有線電視節目 "wikilink") [Category:東森電視外購節目](https://zh.wikipedia.org/wiki/Category:東森電視外購節目 "wikilink") [Category:八大電視外購節目](https://zh.wikipedia.org/wiki/Category:八大電視外購節目 "wikilink")
 
 1.  [韩国三大台演技大獎历年获奖者盘点](http://kr.hujiang.com/new/p441503/)
 2.  [韩国三大台演技大獎历年获奖者盘点](http://kr.hujiang.com/new/p441503/)
@@ -2587,5 +2583,4 @@
 5.
 6.
 7.
-8.  [AGB Nielsen Media
-    Research收視數據表](http://www.agbnielsen.co.kr/index.asp?ref=0)
+8.  [AGB Nielsen Media Research收視數據表](http://www.agbnielsen.co.kr/index.asp?ref=0)

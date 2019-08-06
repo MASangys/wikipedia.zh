@@ -1,12 +1,8 @@
-《**colorful**》是[日本](../Page/日本.md "wikilink")女子組合[9nine](../Page/9nine.md "wikilink")的第13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年2月6日由[SME
-Records發售](../Page/SME_Records.md "wikilink")。
+《**colorful**》是[日本](../Page/日本.md "wikilink")女子組合[9nine](../Page/9nine.md "wikilink")的第13張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2013年2月6日由[SME Records發售](../Page/SME_Records.md "wikilink")。
 
 ## 概要
 
-本單曲是9nine於2013年發行的首張單曲，當中A面曲《colorful》被起用為《[STAR DRIVER
-閃亮的塔科特](../Page/STAR_DRIVER_閃亮的塔科特.md "wikilink")》電影版《STAR
-DRIVER THE
-MOVIE》的主題曲，該電影的監製[五十嵐卓哉](../Page/五十嵐卓哉.md "wikilink")評價此曲為「充滿疾走感的爽快歌曲，能夠給人們力量」\[1\]。
+本單曲是9nine於2013年發行的首張單曲，當中A面曲《colorful》被起用為《[STAR DRIVER 閃亮的塔科特](../Page/STAR_DRIVER_閃亮的塔科特.md "wikilink")》電影版《STAR DRIVER THE MOVIE》的主題曲，該電影的監製[五十嵐卓哉](../Page/五十嵐卓哉.md "wikilink")評價此曲為「充滿疾走感的爽快歌曲，能夠給人們力量」\[1\]。
 
 ## 收錄曲
 
@@ -47,8 +43,7 @@ MOVIE》的主題曲，該電影的監製[五十嵐卓哉](../Page/五十嵐卓�
 
   - 9nine成員Wide Cap貼紙（只限期間生產初仕樣盤）
   - [交換卡片](https://zh.wikipedia.org/wiki/交換卡片 "wikilink")（全6種）
-  - 優先預購2013年3月10日Oneman Live『[Sun
-    Plaza之](../Page/中野太陽廣場.md "wikilink")9nine』公演門票
+  - 優先預購2013年3月10日Oneman Live『[Sun Plaza之](../Page/中野太陽廣場.md "wikilink")9nine』公演門票
 
 ## 商業合作
 
@@ -67,12 +62,8 @@ MOVIE》的主題曲，該電影的監製[五十嵐卓哉](../Page/五十嵐卓�
       - [初回生產限定盤A](http://www.sonymusic.co.jp/Music/Arch/SMER/9nine/SECL-1273/)
       - [初回生產限定盤B](http://www.sonymusic.co.jp/Music/Arch/SMER/9nine/SECL-1275/)
       - [通常盤](http://www.sonymusic.co.jp/Music/Arch/SMER/9nine/SECL-1277/)
-      - [期間限定初回仕樣盤（豪華STAR
-        DRIVER盤）](http://www.sonymusic.co.jp/Music/Arch/SMER/9nine/SECL-1278/)
+      - [期間限定初回仕樣盤（豪華STAR DRIVER盤）](http://www.sonymusic.co.jp/Music/Arch/SMER/9nine/SECL-1278/)
 
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:9nine歌曲](https://zh.wikipedia.org/wiki/Category:9nine歌曲 "wikilink")
-[Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")
-[Category:SME_Records歌曲](https://zh.wikipedia.org/wiki/Category:SME_Records歌曲 "wikilink")
+[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:9nine歌曲](https://zh.wikipedia.org/wiki/Category:9nine歌曲 "wikilink") [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink") [Category:SME_Records歌曲](https://zh.wikipedia.org/wiki/Category:SME_Records歌曲 "wikilink")
 
 1.

@@ -1,7 +1,6 @@
 [2007TaitronicsAutumn_iF_Design.jpg](https://zh.wikipedia.org/wiki/File:2007TaitronicsAutumn_iF_Design.jpg "fig:2007TaitronicsAutumn_iF_Design.jpg")的「iF產品設計獎」主題館，也促成2008年台北國際電腦展「創新設計獎」的舉辦。\]\]
 
-**iF產品設計獎**（英語：**iF Product Design
-Award**）是一個創辦於1953年的[產品設計國際大獎](https://zh.wikipedia.org/wiki/產品設計 "wikilink")，至今每年約有來自50個國家，6400件左右的產品設計參加報名\[1\]，此獎由德國[國際論壇設計](../Page/國際論壇設計.md "wikilink")公司舉行。該獎最高地位為IF產品設計獎**金獎**，素有產品設計界[奧斯卡獎的代稱](https://zh.wikipedia.org/wiki/奧斯卡獎 "wikilink")。
+**iF產品設計獎**（英語：**iF Product Design Award**）是一個創辦於1953年的[產品設計國際大獎](https://zh.wikipedia.org/wiki/產品設計 "wikilink")，至今每年約有來自50個國家，6400件左右的產品設計參加報名\[1\]，此獎由德國[國際論壇設計](../Page/國際論壇設計.md "wikilink")公司舉行。該獎最高地位為IF產品設計獎**金獎**，素有產品設計界[奧斯卡獎的代稱](https://zh.wikipedia.org/wiki/奧斯卡獎 "wikilink")。
 
 ## 歷史
 
@@ -29,30 +28,18 @@ IF產品設計金獎是由知名的德國設計師在1996年設計\[4\]，
 
 ## 發行年鑑
 
-  - IF International Forum Design, (2009), *iF Yearbook Product 2009*,
-    Birkhauser Basel, ISBN 978-3-7643-8981-9
-  - IF International Forum Design, (2009), *iF Yearbook Product 2008*,
-    Birkhauser Basel, ISBN 978-3-7643-8625-2
-  - IF International Forum Design, (2008), *iF Yearbook Communication
-    2008*, Birkhauser Basel, ISBN 978-3-7643-8816-4
-  - IF International Forum Design, (2007), *iF Yearbook Product 2007*,
-    Birkhauser Basel, ISBN 978-3-7643-7998-8
-  - IF International Forum Design, (2007), *iF Yearbook Communication
-    2007*, Birkhauser Basel, ISBN 978-3-7643-8365-7
-  - IF International Forum Design, (2006), *iF Yearbook Product 2006*,
-    Birkhauser Basel, ISBN 978-3-7643-7471-6
-  - IF International Forum Design, (2006), *iF Yearbook Communication
-    2006*, Birkhauser Basel, ISBN 978-3-7643-7620-8
-  - IF International Forum Design, (2005), *iF Yearbook Product 2005*,
-    Birkhauser Basel, ISBN 3-7643-7183-8
-  - IF International Forum Design, (2005), *iF Yearbook Communication
-    2005*, Birkhauser Basel, ISBN 978-3-7643-7252-1
-  - IF International Forum Design, (2004), *iF Yearbook 2004*,
-    Birkhauser Basel, ISBN 978-3-7643-6855-5
-  - IF International Forum Design, (2004), *iF Yearbook Communication
-    2004*, Birkhauser Basel, ISBN 978-3-7643-7170-8
-  - IF International Forum Design, (2003), *iF Yearbook 2003*,
-    Birkhauser Basel, ISBN 3-7643-7026-2
+  - IF International Forum Design, (2009), *iF Yearbook Product 2009*, Birkhauser Basel, ISBN 978-3-7643-8981-9
+  - IF International Forum Design, (2009), *iF Yearbook Product 2008*, Birkhauser Basel, ISBN 978-3-7643-8625-2
+  - IF International Forum Design, (2008), *iF Yearbook Communication 2008*, Birkhauser Basel, ISBN 978-3-7643-8816-4
+  - IF International Forum Design, (2007), *iF Yearbook Product 2007*, Birkhauser Basel, ISBN 978-3-7643-7998-8
+  - IF International Forum Design, (2007), *iF Yearbook Communication 2007*, Birkhauser Basel, ISBN 978-3-7643-8365-7
+  - IF International Forum Design, (2006), *iF Yearbook Product 2006*, Birkhauser Basel, ISBN 978-3-7643-7471-6
+  - IF International Forum Design, (2006), *iF Yearbook Communication 2006*, Birkhauser Basel, ISBN 978-3-7643-7620-8
+  - IF International Forum Design, (2005), *iF Yearbook Product 2005*, Birkhauser Basel, ISBN 3-7643-7183-8
+  - IF International Forum Design, (2005), *iF Yearbook Communication 2005*, Birkhauser Basel, ISBN 978-3-7643-7252-1
+  - IF International Forum Design, (2004), *iF Yearbook 2004*, Birkhauser Basel, ISBN 978-3-7643-6855-5
+  - IF International Forum Design, (2004), *iF Yearbook Communication 2004*, Birkhauser Basel, ISBN 978-3-7643-7170-8
+  - IF International Forum Design, (2003), *iF Yearbook 2003*, Birkhauser Basel, ISBN 3-7643-7026-2
 
 ## 參考資料
 
@@ -62,8 +49,7 @@ IF產品設計金獎是由知名的德國設計師在1996年設計\[4\]，
 
   - [官方網站](https://web.archive.org/web/20170406191121/http://ifworlddesignguide.com/the-if-story/)
 
-[Category:設計獎項](https://zh.wikipedia.org/wiki/Category:設計獎項 "wikilink")
-[Category:1954年建立的奖项](https://zh.wikipedia.org/wiki/Category:1954年建立的奖项 "wikilink")
+[Category:設計獎項](https://zh.wikipedia.org/wiki/Category:設計獎項 "wikilink") [Category:1954年建立的奖项](https://zh.wikipedia.org/wiki/Category:1954年建立的奖项 "wikilink")
 
 1.
 

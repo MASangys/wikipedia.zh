@@ -1,7 +1,4 @@
-**MAYU**（）是由EXIT TUNES開發的[VOCALOID
-3女聲虛擬歌手](https://zh.wikipedia.org/wiki/VOCALOID_3 "wikilink")。其軟體演唱語言為日語，為繼[IA之後的第二個由唱片公司推出的VOCALOID](../Page/IA_\(VOCALOID\).md "wikilink")
-3虛擬歌手（VOCALOID2時代有[歌手音ピコ為音樂出版社](https://zh.wikipedia.org/wiki/歌手音ピコ "wikilink")[Ki/oon
-Records所推出](https://zh.wikipedia.org/wiki/Ki/oon_Records "wikilink")）。
+**MAYU**（）是由EXIT TUNES開發的[VOCALOID 3女聲虛擬歌手](https://zh.wikipedia.org/wiki/VOCALOID_3 "wikilink")。其軟體演唱語言為日語，為繼[IA之後的第二個由唱片公司推出的VOCALOID](../Page/IA_\(VOCALOID\).md "wikilink") 3虛擬歌手（VOCALOID2時代有[歌手音ピコ為音樂出版社](https://zh.wikipedia.org/wiki/歌手音ピコ "wikilink")[Ki/oon Records所推出](https://zh.wikipedia.org/wiki/Ki/oon_Records "wikilink")）。
 
 ## 軟體情報
 
@@ -58,7 +55,6 @@ Records所推出](https://zh.wikipedia.org/wiki/Ki/oon_Records "wikilink")）。
   - [VOCALOID™3 Library　MAYU 官方網站](http://mayusan.jp/)
 
   -
-  - [病嬌中學生VOCALOID「MAYU」登場！手持斧頭的 EXIT TUNES 專屬V家角色
-    ※更新發表影片](https://archive.is/20130424231934/http://news.aniarc.com/news/26197)
+  - [病嬌中學生VOCALOID「MAYU」登場！手持斧頭的 EXIT TUNES 專屬V家角色 ※更新發表影片](https://archive.is/20130424231934/http://news.aniarc.com/news/26197)
 
 [Category:Vocaloid角色](https://zh.wikipedia.org/wiki/Category:Vocaloid角色 "wikilink")

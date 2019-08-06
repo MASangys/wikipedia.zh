@@ -1,5 +1,4 @@
-**EXO FROM. EXOPLANET \#1 - THE LOST PLANET
--**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[EXO](../Page/EXO.md "wikilink")於2014年舉辦的第一次巡迴演唱會。
+**EXO FROM. EXOPLANET \#1 - THE LOST PLANET -**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[EXO](../Page/EXO.md "wikilink")於2014年舉辦的第一次巡迴演唱會。
 
 ## 概述
 
@@ -9,10 +8,7 @@
 
 ### Kris解約事件
 
-2014年5月15日（即演唱會舉行前8日），中國成員[Kris以](../Page/吳亦凡.md "wikilink")“過度勞累、疑患心肌炎、被培訓姐姐讓EXO故意冷落他、不跟他講話、不給他好的活動、收入不夠置裝費開支”等理由提出解除與[SM娛樂](../Page/SM娛樂.md "wikilink")的專屬合約\[2\]\[3\]，並於向首爾中央地方法院提出訴訟，表示與SM娛樂的專屬合約無效。\[4\]\[5\]
-其後5月22日，[SM娛樂](../Page/SM娛樂.md "wikilink")在官網貼出公告表示EXO將以11名成員的形式，進行他們首次的演唱會。\[6\]
-同時，官方也上傳了11名成員的問候影片。由於現在雙方還在訴訟中，所以Kris沒有參與這次演唱會。6月7日，吴亦凡被目擊於莫斯科機場轉機赴歐拍片\[7\]\[8\]6月24日，該片導演於微博發了含吳亦凡的電影劇照表示已正式開機拍攝。
-\[9\]
+2014年5月15日（即演唱會舉行前8日），中國成員[Kris以](../Page/吳亦凡.md "wikilink")“過度勞累、疑患心肌炎、被培訓姐姐讓EXO故意冷落他、不跟他講話、不給他好的活動、收入不夠置裝費開支”等理由提出解除與[SM娛樂](../Page/SM娛樂.md "wikilink")的專屬合約\[2\]\[3\]，並於向首爾中央地方法院提出訴訟，表示與SM娛樂的專屬合約無效。\[4\]\[5\] 其後5月22日，[SM娛樂](../Page/SM娛樂.md "wikilink")在官網貼出公告表示EXO將以11名成員的形式，進行他們首次的演唱會。\[6\] 同時，官方也上傳了11名成員的問候影片。由於現在雙方還在訴訟中，所以Kris沒有參與這次演唱會。6月7日，吴亦凡被目擊於莫斯科機場轉機赴歐拍片\[7\]\[8\]6月24日，該片導演於微博發了含吳亦凡的電影劇照表示已正式開機拍攝。 \[9\]
 
 ### 香港公演事故
 
@@ -24,14 +20,11 @@
 
 ### 鹿晗缺席泰國場
 
-9月11日，中國籍成員鹿晗透過自己的微博（）向泰國歌迷致歉，指自己由於長期忙碌的日程而過度勞累，導致身體出現了持續的神經性頭痛，睡不好，常眩暈，被醫生強制要休息一段時間。\[12\]
-9月18日，[EXO](../Page/EXO.md "wikilink")所屬公司[SM娛樂](../Page/SM娛樂.md "wikilink")表示，鹿晗身體狀態恢復，將如期出演北京演唱會。\[13\]
+9月11日，中國籍成員鹿晗透過自己的微博（）向泰國歌迷致歉，指自己由於長期忙碌的日程而過度勞累，導致身體出現了持續的神經性頭痛，睡不好，常眩暈，被醫生強制要休息一段時間。\[12\] 9月18日，[EXO](../Page/EXO.md "wikilink")所屬公司[SM娛樂](../Page/SM娛樂.md "wikilink")表示，鹿晗身體狀態恢復，將如期出演北京演唱會。\[13\]
 
 ### 鹿晗解約事件
 
-10月10日早上，中國成員鹿晗以下列理由提出與[SM娛樂](../Page/SM娛樂.md "wikilink")的專屬合約無效申請，並於向首爾中央地方法院提出訴訟，成為五個月內EXO第二位離團的成員：「一、公司无法提供未来发展计划；二、对中韩成员差别对待；三、资源分配不合理；四、身体在高强度工作和压力下出现病症（持續性腦神經頭痛）」
-\[14\]。而他的好兄弟Lay也率先於微博表態。Lay在新聞爆出后，在微博寫道：「哥們 拜拜 有機會再同台吧！做兄弟的支持你每一個決定
-祝福你」，表達了對鹿晗解約事件的態度。而鹿晗因離團及解約的關係，將不會繼續出席EXO接下來的演唱會以及各種演出。
+10月10日早上，中國成員鹿晗以下列理由提出與[SM娛樂](../Page/SM娛樂.md "wikilink")的專屬合約無效申請，並於向首爾中央地方法院提出訴訟，成為五個月內EXO第二位離團的成員：「一、公司无法提供未来发展计划；二、对中韩成员差别对待；三、资源分配不合理；四、身体在高强度工作和压力下出现病症（持續性腦神經頭痛）」 \[14\]。而他的好兄弟Lay也率先於微博表態。Lay在新聞爆出后，在微博寫道：「哥們 拜拜 有機會再同台吧！做兄弟的支持你每一個決定 祝福你」，表達了對鹿晗解約事件的態度。而鹿晗因離團及解約的關係，將不會繼續出席EXO接下來的演唱會以及各種演出。
 
 ## 巡迴時間表
 
@@ -368,8 +361,7 @@
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
 
 <!-- end list -->
 
@@ -407,9 +399,7 @@
   -
   -
 
-[Category:2014年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2014年巡迴演唱會 "wikilink")
-[Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink")
-[Category:EXO巡迴演唱會](https://zh.wikipedia.org/wiki/Category:EXO巡迴演唱會 "wikilink")
+[Category:2014年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2014年巡迴演唱會 "wikilink") [Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink") [Category:EXO巡迴演唱會](https://zh.wikipedia.org/wiki/Category:EXO巡迴演唱會 "wikilink")
 
 1.
 2.

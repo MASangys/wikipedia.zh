@@ -1,9 +1,6 @@
-《**Come back to
-Bii**》是韓裔[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[Bii](https://zh.wikipedia.org/wiki/畢書盡 "wikilink")（畢書盡）的第二張專輯，是他自2010年《[Bii
-Story](../Page/Bii_Story.md "wikilink")》後的相隔三年的作品。這大碟在2013年4月26日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，並在5月16日推出\[2\]。
+《**Come back to Bii**》是韓裔[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[Bii](https://zh.wikipedia.org/wiki/畢書盡 "wikilink")（畢書盡）的第二張專輯，是他自2010年《[Bii Story](../Page/Bii_Story.md "wikilink")》後的相隔三年的作品。這大碟在2013年4月26日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，並在5月16日推出\[2\]。
 
-專輯第一主打《Come Back To Me》在4月18日於[i
-radio首播派台](https://zh.wikipedia.org/wiki/i_radio "wikilink")\[3\]，其音樂錄影帶則在4月22日在[FOX娛樂台首播](https://zh.wikipedia.org/wiki/FOX娛樂台 "wikilink")\[4\]。
+專輯第一主打《Come Back To Me》在4月18日於[i radio首播派台](https://zh.wikipedia.org/wiki/i_radio "wikilink")\[3\]，其音樂錄影帶則在4月22日在[FOX娛樂台首播](https://zh.wikipedia.org/wiki/FOX娛樂台 "wikilink")\[4\]。
 
 ## 曲目
 
@@ -258,19 +255,13 @@ radio首播派台](https://zh.wikipedia.org/wiki/i_radio "wikilink")\[3\]，其�
 
 </div>
 
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:畢書盡音樂專輯](https://zh.wikipedia.org/wiki/Category:畢書盡音樂專輯 "wikilink")
+[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:畢書盡音樂專輯](https://zh.wikipedia.org/wiki/Category:畢書盡音樂專輯 "wikilink")
 
-1.  [BII Come back to Bii - Mini
-    Shop](http://www.minishop.com.hk/index.php/2010-02-09-11-38-39/2010-02-09-11-39-28/403-bii/3593-tw.html)，2013年5月18日
-    (六) 21:25 (UTC+8)查閱
+1.  [BII Come back to Bii - Mini Shop](http://www.minishop.com.hk/index.php/2010-02-09-11-38-39/2010-02-09-11-39-28/403-bii/3593-tw.html)，2013年5月18日 (六) 21:25 (UTC+8)查閱
 
 2.
-3.  [Bii官方粉絲專頁](http://www.facebook.com/eagleBii)，2013年5月18日 (六) 21:30
-    (UTC+8)查閱
+3.  [Bii官方粉絲專頁](http://www.facebook.com/eagleBii)，2013年5月18日 (六) 21:30 (UTC+8)查閱
 
 4.
 5.
-6.  [五大唱片](http://www.5music.com.tw/CDList-C.asp?cdno=434425678935)，2013年5月18日
-    (六) 21:45 (UTC+8)查閱
+6.  [五大唱片](http://www.5music.com.tw/CDList-C.asp?cdno=434425678935)，2013年5月18日 (六) 21:45 (UTC+8)查閱

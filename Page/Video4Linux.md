@@ -1,6 +1,4 @@
-**Video4Linux**或**V4L**是一個及裝置輸出[API](../Page/应用程序接口.md "wikilink")，以及[Linux](../Page/Linux.md "wikilink")的驅動程式框架，支援很多[USB](https://zh.wikipedia.org/wiki/通用串行總線 "wikilink")[摄像头](../Page/摄像头.md "wikilink")、以及其他裝置。Video4Linux與[Linux内核](../Page/Linux内核.md "wikilink")緊密整合，Video4Linux取名的靈感來自[Video
-for
-Windows](../Page/Video_for_Windows.md "wikilink")（有時候會縮寫為“V4W”），但兩者在技術上並沒有任何關聯\[1\]\[2\]。
+**Video4Linux**或**V4L**是一個及裝置輸出[API](../Page/应用程序接口.md "wikilink")，以及[Linux](../Page/Linux.md "wikilink")的驅動程式框架，支援很多[USB](https://zh.wikipedia.org/wiki/通用串行總線 "wikilink")[摄像头](../Page/摄像头.md "wikilink")、以及其他裝置。Video4Linux與[Linux内核](../Page/Linux内核.md "wikilink")緊密整合，Video4Linux取名的靈感來自[Video for Windows](../Page/Video_for_Windows.md "wikilink")（有時候會縮寫為“V4W”），但兩者在技術上並沒有任何關聯\[1\]\[2\]。
 
 ## 第一版
 
@@ -49,22 +47,16 @@ V4L2是V4L的第二個版本。Video4Linux2修復了一些設計上的程式錯�
   - [media_tree](http://git.linuxtv.org/media_tree.git/tree)git開發樹
   - [v4l-utils](http://git.linuxtv.org/v4l-utils.git/tree)git開發樹
   - [Linux多媒體API](http://linuxtv.org/downloads/v4l-dvb-apis/)
-  - [Video4Linux-DVB
-    wiki頁面](http://www.linuxtv.org/wiki/index.php/Main_Page)
+  - [Video4Linux-DVB wiki頁面](http://www.linuxtv.org/wiki/index.php/Main_Page)
   - [Video4Linux 資源](http://www.exploits.org/v4l)
-  - [Video For Linux (V4L)
-    範例](https://web.archive.org/web/20110707012535/http://alumnos.elo.utfsm.cl/~yanez/video-for-linux-sample-programs/)
-  - [Video For Linux 2 (V4L2)
-    範例](https://web.archive.org/web/20110707012738/http://alumnos.elo.utfsm.cl/~yanez/video-for-linux-2-sample-programs/)
+  - [Video For Linux (V4L) 範例](https://web.archive.org/web/20110707012535/http://alumnos.elo.utfsm.cl/~yanez/video-for-linux-sample-programs/)
+  - [Video For Linux 2 (V4L2) 範例](https://web.archive.org/web/20110707012738/http://alumnos.elo.utfsm.cl/~yanez/video-for-linux-2-sample-programs/)
   - [從Java使用Video4Linux裝置](https://archive.is/20130103002424/http://v4l4j.googlecode.com/)
   - [kernel.org](https://git.kernel.org/cgit/linux/kernel/git/stable/linux-stable.git/log/?qt=grep&q=v4l)
   - [OpenWrt Wiki頁面](http://wiki.openwrt.org/doc/howto/usb.video)
 
-[Category:數碼電視](https://zh.wikipedia.org/wiki/Category:數碼電視 "wikilink")
-[Category:電視技術](https://zh.wikipedia.org/wiki/Category:電視技術 "wikilink")
-[Category:Linux内核功能](https://zh.wikipedia.org/wiki/Category:Linux内核功能 "wikilink")
+[Category:數碼電視](https://zh.wikipedia.org/wiki/Category:數碼電視 "wikilink") [Category:電視技術](https://zh.wikipedia.org/wiki/Category:電視技術 "wikilink") [Category:Linux内核功能](https://zh.wikipedia.org/wiki/Category:Linux内核功能 "wikilink")
 
 1.   Overview of the V4L2 driver framework
-2.  <https://events.linuxfoundation.org/images/stories/pdf/lceu2012_debski.pdf>
-    Video4Linux2 - Path to a Standardized Video Codec API
+2.  <https://events.linuxfoundation.org/images/stories/pdf/lceu2012_debski.pdf> Video4Linux2 - Path to a Standardized Video Codec API
 3.

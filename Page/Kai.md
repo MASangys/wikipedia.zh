@@ -10,58 +10,31 @@
 
 ### 2011年-2015年：出道、Younique Unit
 
-2011年12月22日SM官方公開照片與影像預告《MY LADY》。12月29日，在SBS歌謠大典上與SM前輩一起合作《SMTown
-Orchestra》特別舞臺。\[1\]
+2011年12月22日SM官方公開照片與影像預告《MY LADY》。12月29日，在SBS歌謠大典上與SM前輩一起合作《SMTown Orchestra》特別舞臺。\[1\]
 
-2012年1月與Carven(卡紛)品牌合作，參與拍攝了《W Live with
-S.M.Fashionistas》畫報；。2月9日，Kai舉行高中畢業典禮。3月14日，[EXO-K](../Page/EXO-K.md "wikilink")代言Calvin
-Klein Jeans，登上《OH\!BOY》、《HIGHCUT》、《GQ》、《Vogue Girl》等雜誌。
+2012年1月與Carven(卡紛)品牌合作，參與拍攝了《W Live with S.M.Fashionistas》畫報；。2月9日，Kai舉行高中畢業典禮。3月14日，[EXO-K](../Page/EXO-K.md "wikilink")代言Calvin Klein Jeans，登上《OH\!BOY》、《HIGHCUT》、《GQ》、《Vogue Girl》等雜誌。
 
-2012年3月31日和4月1日[EXO](../Page/EXO.md "wikilink")分別在韓國首爾和中國北京舉行Showcase出道發佈會。4月8日[EXO-K](../Page/EXO-K.md "wikilink")參加SBS“人氣歌謠”舞臺正式出道。4月12日，Kai與[EXO](../Page/EXO.md "wikilink")隊長[SUHO一起擔任Mnet](https://zh.wikipedia.org/wiki/SUHO "wikilink")
-M\!
-Countdown主持。4月18日，Kai與組合成員[伯賢](../Page/伯賢.md "wikilink")、[世勳於濟州島拍攝Calvin](https://zh.wikipedia.org/wiki/世勳 "wikilink")
-Klein Jeans大片，照片登於《Vogue
-Girl》6月號。4月26日，Kai參與[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[TaeTiSeo](https://zh.wikipedia.org/wiki/TaeTiSeo "wikilink")-《Twinkle》MV拍攝。\[2\]5月27日KAI擔任人氣歌謠主持。
+2012年3月31日和4月1日[EXO](../Page/EXO.md "wikilink")分別在韓國首爾和中國北京舉行Showcase出道發佈會。4月8日[EXO-K](../Page/EXO-K.md "wikilink")參加SBS“人氣歌謠”舞臺正式出道。4月12日，Kai與[EXO](../Page/EXO.md "wikilink")隊長[SUHO一起擔任Mnet](https://zh.wikipedia.org/wiki/SUHO "wikilink") M\! Countdown主持。4月18日，Kai與組合成員[伯賢](../Page/伯賢.md "wikilink")、[世勳於濟州島拍攝Calvin](https://zh.wikipedia.org/wiki/世勳 "wikilink") Klein Jeans大片，照片登於《Vogue Girl》6月號。4月26日，Kai參與[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[TaeTiSeo](https://zh.wikipedia.org/wiki/TaeTiSeo "wikilink")-《Twinkle》MV拍攝。\[2\]5月27日KAI擔任人氣歌謠主持。
 
-2012年8月至11月SMT，
-Kai與[允浩](https://zh.wikipedia.org/wiki/允浩 "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/Yuri "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[泰民](../Page/泰民.md "wikilink")、[Victoria](https://zh.wikipedia.org/wiki/Victoria "wikilink")、[TAO一起合作](https://zh.wikipedia.org/wiki/TAO "wikilink")《Dance
-Battle》。\[3\]9月8日，Kai作為T台模特參與濟州島nature concert
-走秀。10月16日，Kai與[孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[Henry](../Page/劉憲華.md "wikilink")、[鹿晗](../Page/鹿晗.md "wikilink")組成限定組合Younique
-Unit，為韓國現代汽車拍攝廣告並參與演唱宣傳曲《MaxStep》和MV出演。12年18日，Kai登上Dolce\&Gabbana旗下Swide網路雜誌首頁，接受世界知名品牌D\&G旗下swide雜誌專訪“全球聚焦的韓流新星-Kai”。12月29日
-Kai在SBS歌謠大戰與[允浩](https://zh.wikipedia.org/wiki/允浩 "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[東海](https://zh.wikipedia.org/wiki/東海 "wikilink")、[泰民](../Page/泰民.md "wikilink")、[珉豪](../Page/珉豪.md "wikilink")、[Lay一起合作SM特別舞臺](../Page/張藝興.md "wikilink")《Spectrum》。
+2012年8月至11月SMT， Kai與[允浩](https://zh.wikipedia.org/wiki/允浩 "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/Yuri "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[泰民](../Page/泰民.md "wikilink")、[Victoria](https://zh.wikipedia.org/wiki/Victoria "wikilink")、[TAO一起合作](https://zh.wikipedia.org/wiki/TAO "wikilink")《Dance Battle》。\[3\]9月8日，Kai作為T台模特參與濟州島nature concert 走秀。10月16日，Kai與[孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[Henry](../Page/劉憲華.md "wikilink")、[鹿晗](../Page/鹿晗.md "wikilink")組成限定組合Younique Unit，為韓國現代汽車拍攝廣告並參與演唱宣傳曲《MaxStep》和MV出演。12年18日，Kai登上Dolce\&Gabbana旗下Swide網路雜誌首頁，接受世界知名品牌D\&G旗下swide雜誌專訪“全球聚焦的韓流新星-Kai”。12月29日 Kai在SBS歌謠大戰與[允浩](https://zh.wikipedia.org/wiki/允浩 "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[東海](https://zh.wikipedia.org/wiki/東海 "wikilink")、[泰民](../Page/泰民.md "wikilink")、[珉豪](../Page/珉豪.md "wikilink")、[Lay一起合作SM特別舞臺](../Page/張藝興.md "wikilink")《Spectrum》。
 
-2013年1月11日，公司為Kai與[D.O.共同舉辦生日派對](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")，成員與粉絲們一起為他們慶祝。6月3日，[EXO](../Page/EXO.md "wikilink")正規專輯《XOXO(Kiss\&Hug)》正式發行。7月15日EXO《狼與美女》劇情版MV播出。8月5日，EXO後續曲專輯《XOXO》Repackage
-Hug Ver.正式發行。9月4日《Growl》劇情版MV播出。9月28日Kai出演MENT的舞蹈節目《Dancing9》特別舞臺。
-11月14日，Kai與[Suho](../Page/Suho.md "wikilink")、[燦烈](https://zh.wikipedia.org/wiki/燦烈 "wikilink")、[伯賢](../Page/伯賢.md "wikilink")、演員[李侑菲](../Page/李侑菲.md "wikilink")共同擔任2013年Melon
-Music Award主持人。11月22日，[EXO](../Page/EXO.md "wikilink")參加第15屆“[Mnet Asian
-Music
-Awards亞洲音樂盛典獲得年度最佳專輯大獎](https://zh.wikipedia.org/wiki/Mnet_Asian_Music_Awards "wikilink")，Kai代表組合一人霸氣開場音樂盛典。
+2013年1月11日，公司為Kai與[D.O.共同舉辦生日派對](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")，成員與粉絲們一起為他們慶祝。6月3日，[EXO](../Page/EXO.md "wikilink")正規專輯《XOXO(Kiss\&Hug)》正式發行。7月15日EXO《狼與美女》劇情版MV播出。8月5日，EXO後續曲專輯《XOXO》Repackage Hug Ver.正式發行。9月4日《Growl》劇情版MV播出。9月28日Kai出演MENT的舞蹈節目《Dancing9》特別舞臺。 11月14日，Kai與[Suho](../Page/Suho.md "wikilink")、[燦烈](https://zh.wikipedia.org/wiki/燦烈 "wikilink")、[伯賢](../Page/伯賢.md "wikilink")、演員[李侑菲](../Page/李侑菲.md "wikilink")共同擔任2013年Melon Music Award主持人。11月22日，[EXO](../Page/EXO.md "wikilink")參加第15屆“[Mnet Asian Music Awards亞洲音樂盛典獲得年度最佳專輯大獎](https://zh.wikipedia.org/wiki/Mnet_Asian_Music_Awards "wikilink")，Kai代表組合一人霸氣開場音樂盛典。
 
-2014年5月21日Kai化身芭蕾舞者登上韓國時尚雜誌《THE CELEBRITY》6月號。
-7月16日下午，Kai與成員[世勳](https://zh.wikipedia.org/wiki/世勳 "wikilink")、[燦烈](https://zh.wikipedia.org/wiki/燦烈 "wikilink")、[Tao](https://zh.wikipedia.org/wiki/Tao "wikilink")、[Chen](https://zh.wikipedia.org/wiki/Chen "wikilink")、[Lay出席了在韓國首爾瑞草區良才洞舉行的](../Page/張藝興.md "wikilink")“FASHION
-CODE2014”時尚秀開幕式，並在T台大放異彩。
+2014年5月21日Kai化身芭蕾舞者登上韓國時尚雜誌《THE CELEBRITY》6月號。 7月16日下午，Kai與成員[世勳](https://zh.wikipedia.org/wiki/世勳 "wikilink")、[燦烈](https://zh.wikipedia.org/wiki/燦烈 "wikilink")、[Tao](https://zh.wikipedia.org/wiki/Tao "wikilink")、[Chen](https://zh.wikipedia.org/wiki/Chen "wikilink")、[Lay出席了在韓國首爾瑞草區良才洞舉行的](../Page/張藝興.md "wikilink")“FASHION CODE2014”時尚秀開幕式，並在T台大放異彩。
 
 ### 2016年-現今：戲劇發展
 
-2016年2月15日，Kai與[朴恩玭](../Page/朴恩玭.md "wikilink")、[延俊錫](../Page/延俊錫.md "wikilink")、李采源等主演的網絡劇《Choco
-Bank》開播\[4\]。12月，Kai出演樂天免稅店網絡劇《[七次的初吻](../Page/七次的初吻.md "wikilink")》。
+2016年2月15日，Kai與[朴恩玭](../Page/朴恩玭.md "wikilink")、[延俊錫](../Page/延俊錫.md "wikilink")、李采源等主演的網絡劇《Choco Bank》開播\[4\]。12月，Kai出演樂天免稅店網絡劇《[七次的初吻](../Page/七次的初吻.md "wikilink")》。
 
-2017年9月，Kai主演電視劇《[Andante](../Page/Andante_\(韓國電視劇\).md "wikilink")》播出，Kai飾演的是李時京，一個反叛的高中生\[5\]。12月，Kai義務為雜志《The
-Big
-Issue》進行拍攝，成為該雜志的封面模特。該雜志每賣出一本，就會將其一半的利潤捐給售賣者，而售賣者多為貧困戶、無家者。雜志於短短2天已售罄，10天内銷售量達到28,000本，是自雜志於2010年7月在韓國出版7年以來，淨銷售量的最高紀錄。\[6\]
+2017年9月，Kai主演電視劇《[Andante](../Page/Andante_\(韓國電視劇\).md "wikilink")》播出，Kai飾演的是李時京，一個反叛的高中生\[5\]。12月，Kai義務為雜志《The Big Issue》進行拍攝，成為該雜志的封面模特。該雜志每賣出一本，就會將其一半的利潤捐給售賣者，而售賣者多為貧困戶、無家者。雜志於短短2天已售罄，10天内銷售量達到28,000本，是自雜志於2010年7月在韓國出版7年以來，淨銷售量的最高紀錄。\[6\]
 
-2018年1月，Kai主演的日本WOW電視臺電視劇《春天來了》開播，Kai是該電視台首次起用外國演員當主演。Kai飾演的是李知元，一名韓國攝影師\[7\]。3月15日，國際品牌《[Levi's](../Page/Levi's.md "wikilink")》公開與Kai合作推出的首支單獨電影。Levi's
-品牌想要用Kai的影響力去傳達真誠、音樂與文化，永不改變的Iconic
-Style等核心信息\[8\]。4月2日，Kai參演的電視劇《[我們遇見的奇蹟](../Page/我們遇見的奇蹟.md "wikilink")》於KBS2播出，Kai飾演的是在兩個人類之間傳遞資訊的信使\[9\]。5月，Kai前往[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[亞爾出席](../Page/阿爾勒.md "wikilink")「2019
-Gucci早春秀」，並被[Vogue稱為](https://zh.wikipedia.org/wiki/时尚_\(杂志\) "wikilink")「The
-Star Of Gucci's Cruise 2019 Show」。\[10\]
+2018年1月，Kai主演的日本WOW電視臺電視劇《春天來了》開播，Kai是該電視台首次起用外國演員當主演。Kai飾演的是李知元，一名韓國攝影師\[7\]。3月15日，國際品牌《[Levi's](../Page/Levi's.md "wikilink")》公開與Kai合作推出的首支單獨電影。Levi's 品牌想要用Kai的影響力去傳達真誠、音樂與文化，永不改變的Iconic Style等核心信息\[8\]。4月2日，Kai參演的電視劇《[我們遇見的奇蹟](../Page/我們遇見的奇蹟.md "wikilink")》於KBS2播出，Kai飾演的是在兩個人類之間傳遞資訊的信使\[9\]。5月，Kai前往[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[亞爾出席](../Page/阿爾勒.md "wikilink")「2019 Gucci早春秀」，並被[Vogue稱為](../Page/时尚_\(杂志\).md "wikilink")「The Star Of Gucci's Cruise 2019 Show」。\[10\]
 
 ## 個人生活
 
 十歲的Kai在看過[芭蕾舞](../Page/芭蕾舞.md "wikilink")劇《胡桃钳》之後夢想做一位芭蕾舞演員。9年後，作為具有“最高舞者”稱號的[EXO](../Page/EXO.md "wikilink")成員Kai站在舞台上。2014年5月韓國某時尚雜誌中，有幸讓21歲的Kai再次回到小時候，配合著古典音樂，按照他的風格舞動身體，他是跳舞的芭蕾舞演員。
 
-因為學了芭蕾，Kai好像會比其他人更快的理解舞蹈而且感覺會更容易抓到。把芭蕾與[爵士樂結合到一起](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")，以這個為基礎可以使舞蹈穩定。看了電影《Billy
-Elliot》之後，Kai再次有了要跳芭蕾的想法，也想要像找到夢想幸福的Billy一樣，為了自己想要做的，想要實現的夢想努力的他。
+因為學了芭蕾，Kai好像會比其他人更快的理解舞蹈而且感覺會更容易抓到。把芭蕾與[爵士樂結合到一起](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")，以這個為基礎可以使舞蹈穩定。看了電影《Billy Elliot》之後，Kai再次有了要跳芭蕾的想法，也想要像找到夢想幸福的Billy一樣，為了自己想要做的，想要實現的夢想努力的他。
 
 2016年4月1日與韓國女子團體[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")[Krystal公開戀情](https://zh.wikipedia.org/wiki/Krystal "wikilink")，但兩人在過了13個月之後便分手\[11\]\[12\]。
 
@@ -265,15 +238,7 @@ Elliot》之後，Kai再次有了要跳芭蕾的想法，也想要像找到夢�
   -
   -
   -
-[Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink")
-[Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國男演员](https://zh.wikipedia.org/wiki/Category:韓國男演员 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:順天市出身人物](https://zh.wikipedia.org/wiki/Category:順天市出身人物 "wikilink")
-[Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink")
-[Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink")
+[Category:EXO](https://zh.wikipedia.org/wiki/Category:EXO "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國男演员](https://zh.wikipedia.org/wiki/Category:韓國男演员 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:順天市出身人物](https://zh.wikipedia.org/wiki/Category:順天市出身人物 "wikilink") [Category:金姓](https://zh.wikipedia.org/wiki/Category:金姓 "wikilink") [Category:首爾特別市出身人物](https://zh.wikipedia.org/wiki/Category:首爾特別市出身人物 "wikilink")
 
 1.
 

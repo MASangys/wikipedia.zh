@@ -1,21 +1,13 @@
-**《ONE 4 U》**( ；)
-是韓國新銳男子組合〈[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")〉，於2012年6月1日由
-[DSP Media企劃](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")，CJ
-E\&M發行的第二張單曲。同年8月另由[UNIVERSAL
-SIGMA發行實體日語版本](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")。韓版宣傳於6月2日從[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")
-- [Show\!
-音樂中心進行出道舞台後正式展開一連串的行程](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")。日版宣傳於7月11日日本東京舉行「出道ShowCase」後8月4日開始緊湊的出道行程，包含了東京大阪攝影會、日本四地[握手會](../Page/握手會.md "wikilink")、[A-nation](https://zh.wikipedia.org/wiki/A-nation "wikilink")、電視雜誌等行程。
+**《ONE 4 U》**( ；) 是韓國新銳男子組合〈[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")〉，於2012年6月1日由 [DSP Media企劃](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")，CJ E\&M發行的第二張單曲。同年8月另由[UNIVERSAL SIGMA發行實體日語版本](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")。韓版宣傳於6月2日從[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") - [Show\! 音樂中心進行出道舞台後正式展開一連串的行程](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")。日版宣傳於7月11日日本東京舉行「出道ShowCase」後8月4日開始緊湊的出道行程，包含了東京大阪攝影會、日本四地[握手會](../Page/握手會.md "wikilink")、[A-nation](https://zh.wikipedia.org/wiki/A-nation "wikilink")、電視雜誌等行程。
 
 ## 單曲概要
 
   -
-    <small>先行曲Never Let Go請參閱：[只知道你 Never Let
-    Go](../Page/只知道你_Never_Let_Go.md "wikilink")</small>
+    <small>先行曲Never Let Go請參閱：[只知道你 Never Let Go](../Page/只知道你_Never_Let_Go.md "wikilink")</small>
 
 <!-- end list -->
 
-  - 本作亦於2012年8月8日發行日語五版本<small>（普通盤為限量盤銷售完畢後發行）</small>。並於8月1日起於日本音源網[RecoChoku](../Page/RecoChoku.md "wikilink")發佈〈ONE
-    4 U〉日文版音源。
+  - 本作亦於2012年8月8日發行日語五版本<small>（普通盤為限量盤銷售完畢後發行）</small>。並於8月1日起於日本音源網[RecoChoku](../Page/RecoChoku.md "wikilink")發佈〈ONE 4 U〉日文版音源。
 
 <table>
 <tbody>
@@ -65,14 +57,8 @@ SIGMA發行實體日語版本](https://zh.wikipedia.org/wiki/環球音樂 "wikil
 
 <!-- end list -->
 
-  - 本作於5月29日透過[YOUTUBE官方頻道公開單曲](https://zh.wikipedia.org/wiki/YOUTUBE "wikilink")《ONE
-    4 U》Music Video TEASER\[1\]\[2\]，另其經紀公司 [DSP
-    Media表示該](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")
-    Music
-    Video光在設備費上投入就超過了1億元，再加上CG特效（當中，包含成員們穿越在空間，將事物神奇地更改等許多場面的畫面都使用了電腦特效）的5000萬元製作費和其他費用，總製作費高達3億元\[3\]。6月1日，正式公開出道單曲《ONE
-    4 U 》完整版Music Video與此同時線上音源同步發佈。
-  - 本Music
-    Video描述的是“改變世界新英雄的登場”內容，讓人聯想到了電影“300壯士”中的戰士，造型中散發著強烈的男性美，寓意​​著2012年新的英雄即將登場。預告中的神殿、牢籠等雄壯的設施和另類的皮革服飾等場面的出現，在完整版內容中皆如實完美的呈現。
+  - 本作於5月29日透過[YOUTUBE官方頻道公開單曲](https://zh.wikipedia.org/wiki/YOUTUBE "wikilink")《ONE 4 U》Music Video TEASER\[1\]\[2\]，另其經紀公司 [DSP Media表示該](https://zh.wikipedia.org/wiki/DSP_Media "wikilink") Music Video光在設備費上投入就超過了1億元，再加上CG特效（當中，包含成員們穿越在空間，將事物神奇地更改等許多場面的畫面都使用了電腦特效）的5000萬元製作費和其他費用，總製作費高達3億元\[3\]。6月1日，正式公開出道單曲《ONE 4 U 》完整版Music Video與此同時線上音源同步發佈。
+  - 本Music Video描述的是“改變世界新英雄的登場”內容，讓人聯想到了電影“300壯士”中的戰士，造型中散發著強烈的男性美，寓意​​著2012年新的英雄即將登場。預告中的神殿、牢籠等雄壯的設施和另類的皮革服飾等場面的出現，在完整版內容中皆如實完美的呈現。
 
 <!-- end list -->
 
@@ -80,11 +66,8 @@ SIGMA發行實體日語版本](https://zh.wikipedia.org/wiki/環球音樂 "wikil
 
 <!-- end list -->
 
-  - 本作7月5日於Space Shower TV釋出日版本Music Video 前導，主題為韓版《ONE 4 U》Music
-    Video「改變世界的新英雄」與《Never Let Go》 Music
-    Video「解救被囚禁的荷拉（KARA成員）」集合而成。如同好萊塢一般的模式，從暴露度極高的服裝中迸發的肉體美，7名年輕的戰士就此誕生。A-JAX回顧拍攝，表示「華麗的場景以及真實的CG是其中一大賣點。也有動作場面的拍攝，熱心的拍攝以至於出現受傷情況。途中，有火焰拍攝場景，我們以外的工作人員有戴著口罩，煙熏以及灰塵真的十分讓人難熬，當拍攝結束看看自己，鼻子下面都全黑了。」出演者荷拉（21）表示「我們同一個公司誕生出來的新人男子組合，我也有參與MV拍攝。A-JAX將被囚禁的我救出的內容，與KARA自己的MV拍攝所不同的妝以及髮型，請大家不要錯過。雖然也有十分危險的拍攝場景，但是拍攝過程十分的開心。還請大家多多愛護A-JAX。」\[4\]\[5\]
-  - 本作於7月10日透過Universalmusicjapan官方YOUTUBE頻道公開〈ONE 4 U〉日文短版
-    M/V。7月12日公開日文預告 M/V。8月6日於Space Shower TV首播日文完整版 M/V。
+  - 本作7月5日於Space Shower TV釋出日版本Music Video 前導，主題為韓版《ONE 4 U》Music Video「改變世界的新英雄」與《Never Let Go》 Music Video「解救被囚禁的荷拉（KARA成員）」集合而成。如同好萊塢一般的模式，從暴露度極高的服裝中迸發的肉體美，7名年輕的戰士就此誕生。A-JAX回顧拍攝，表示「華麗的場景以及真實的CG是其中一大賣點。也有動作場面的拍攝，熱心的拍攝以至於出現受傷情況。途中，有火焰拍攝場景，我們以外的工作人員有戴著口罩，煙熏以及灰塵真的十分讓人難熬，當拍攝結束看看自己，鼻子下面都全黑了。」出演者荷拉（21）表示「我們同一個公司誕生出來的新人男子組合，我也有參與MV拍攝。A-JAX將被囚禁的我救出的內容，與KARA自己的MV拍攝所不同的妝以及髮型，請大家不要錯過。雖然也有十分危險的拍攝場景，但是拍攝過程十分的開心。還請大家多多愛護A-JAX。」\[4\]\[5\]
+  - 本作於7月10日透過Universalmusicjapan官方YOUTUBE頻道公開〈ONE 4 U〉日文短版 M/V。7月12日公開日文預告 M/V。8月6日於Space Shower TV首播日文完整版 M/V。
 
 ## 曲目
 
@@ -105,8 +88,7 @@ SIGMA發行實體日語版本](https://zh.wikipedia.org/wiki/環球音樂 "wikil
 >
 > —《ONE 4 U》歌詞摘錄
 
-  - 全碟監製，填詞，作曲，鍵盤，編程，聲樂總監：[Steven
-    Lee](https://zh.wikipedia.org/wiki/:en:Steven_Lee_\(music_producer\) "wikilink")
+  - 全碟監製，填詞，作曲，鍵盤，編程，聲樂總監：[Steven Lee](https://zh.wikipedia.org/wiki/:en:Steven_Lee_\(music_producer\) "wikilink")
 
 #### 曲目介紹
 
@@ -115,8 +97,7 @@ SIGMA發行實體日語版本](https://zh.wikipedia.org/wiki/環球音樂 "wikil
       - 舞蹈：在演出到中半段時，成員們將展示“背躺下”的動作，這是他們在此曲表演的舞台亮點。
     <!-- end list -->
       -
-        備註：因該舞蹈過於危險已於06月5日，MBC
-        MUSIC《Show\!Champion》演出後另其餘表演時均更改為正面撲倒撐地動作。07月1日出演SBS《人氣歌謠》已恢復“背躺下”動作。
+        備註：因該舞蹈過於危險已於06月5日，MBC MUSIC《Show\!Champion》演出後另其餘表演時均更改為正面撲倒撐地動作。07月1日出演SBS《人氣歌謠》已恢復“背躺下”動作。
 
 ### 日版
 
@@ -145,13 +126,9 @@ SIGMA發行實體日語版本](https://zh.wikipedia.org/wiki/環球音樂 "wikil
 <!-- end list -->
 
 1.  ONE 4 U
-      - 日本歌詞修改為少年、少女們，現在站起來，拿出力氣向前進吧充滿力量的歌詞。並把Visual
-        pop更加升級，折中音樂影像中的魔幻要素，造型也某種程度變化。用遊戲角色般的形象把它具體化。
+      - 日本歌詞修改為少年、少女們，現在站起來，拿出力氣向前進吧充滿力量的歌詞。並把Visual pop更加升級，折中音樂影像中的魔幻要素，造型也某種程度變化。用遊戲角色般的形象把它具體化。
 2.  Break Up
-      - 是由替[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")等歌手創作出熱門歌曲的作詞家Kenn
-        Kato與製作多部戲劇原聲帶的作曲家Kim Won Hyun和擔任[A
-        Pink歌曲BUBIBU編曲的Shim](https://zh.wikipedia.org/wiki/A_Pink "wikilink")
-        Man Joo共同製作的曲目。
+      - 是由替[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[倖田來未](../Page/倖田來未.md "wikilink")等歌手創作出熱門歌曲的作詞家Kenn Kato與製作多部戲劇原聲帶的作曲家Kim Won Hyun和擔任[A Pink歌曲BUBIBU編曲的Shim](https://zh.wikipedia.org/wiki/A_Pink "wikilink") Man Joo共同製作的曲目。
       - 整首曲目以亨坤快節奏的RAP和允永、成民婉轉的高音及承曄的假音、智厚、在亨、升辰奔放的合唱將歌詞分手後想挽回的心情表露無遺。
 
 ## 活動紀錄
@@ -386,8 +363,7 @@ SIGMA發行實體日語版本](https://zh.wikipedia.org/wiki/環球音樂 "wikil
 | 韓國國內單曲周榜\[10\] | 152  |           |
 |                |      |           |
 
-  - <small>數位音源榜指的是韓國soribada、ollehmusic、melon、bugs音源網之線上連續播放 + 下載 +BGM
-    + 手機鈴聲銷售量總和所得結果於Gaon公佈</small>
+  - <small>數位音源榜指的是韓國soribada、ollehmusic、melon、bugs音源網之線上連續播放 + 下載 +BGM + 手機鈴聲銷售量總和所得結果於Gaon公佈</small>
 
 ### 日版
 
@@ -488,10 +464,7 @@ SIGMA發行實體日語版本](https://zh.wikipedia.org/wiki/環球音樂 "wikil
   - [《A-JAX》日本官方網站](http://www.a-jax.jp/)
   - [《A-JAX》日本環球官方網站](http://www.universal-music.co.jp/a-jax)
 
-[Category:A-JAX歌曲](https://zh.wikipedia.org/wiki/Category:A-JAX歌曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
-[Category:日语歌曲](https://zh.wikipedia.org/wiki/Category:日语歌曲 "wikilink")
+[Category:A-JAX歌曲](https://zh.wikipedia.org/wiki/Category:A-JAX歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink") [Category:日语歌曲](https://zh.wikipedia.org/wiki/Category:日语歌曲 "wikilink")
 
 1.
 

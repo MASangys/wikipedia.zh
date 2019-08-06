@@ -1,5 +1,4 @@
-[CCQG2001.ogg](https://zh.wikipedia.org/wiki/File:CCQG2001.ogg "fig:CCQG2001.ogg")
-**长春轻轨QKZ3型/2000系电动车组**是[长春轨道交通](../Page/长春轨道交通.md "wikilink")的电车车款之一，在[长春轨道交通3号线](../Page/长春轨道交通3号线.md "wikilink")和[长春轨道交通4号线](../Page/长春轨道交通4号线.md "wikilink")运行。
+[CCQG2001.ogg](https://zh.wikipedia.org/wiki/File:CCQG2001.ogg "fig:CCQG2001.ogg") **长春轻轨QKZ3型/2000系电动车组**是[长春轨道交通](../Page/长春轨道交通.md "wikilink")的电车车款之一，在[长春轨道交通3号线](../Page/长春轨道交通3号线.md "wikilink")和[长春轨道交通4号线](../Page/长春轨道交通4号线.md "wikilink")运行。
 
 ## 简介
 
@@ -188,10 +187,8 @@ QKZ3型/2000系电动车组由[长春轨道客车于](https://zh.wikipedia.org/w
 
 ## 事故
 
-  - 2011年7月15日11时左右，一列 2000
-    系列车在[卫光街附近发生与汽车相撞事故](https://zh.wikipedia.org/wiki/卫光街站 "wikilink")\[6\]，导致停运一小时。事故导致汽车内有一名乘客受伤。
-  - 2012年7月25日17时左右，一列 2000 系列车（编号
-    201）在[临河街站前](https://zh.wikipedia.org/wiki/临河街站 "wikilink")，主电机及其牵引电机烧毁，事故车辆在八月份送返[长春轨道客车大修](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")。目前已于2013年1月18日重新上线。
+  - 2011年7月15日11时左右，一列 2000 系列车在[卫光街附近发生与汽车相撞事故](https://zh.wikipedia.org/wiki/卫光街站 "wikilink")\[6\]，导致停运一小时。事故导致汽车内有一名乘客受伤。
+  - 2012年7月25日17时左右，一列 2000 系列车（编号 201）在[临河街站前](https://zh.wikipedia.org/wiki/临河街站 "wikilink")，主电机及其牵引电机烧毁，事故车辆在八月份送返[长春轨道客车大修](https://zh.wikipedia.org/wiki/长春轨道客车 "wikilink")。目前已于2013年1月18日重新上线。
 
 ## 参考资料
 
@@ -200,8 +197,7 @@ QKZ3型/2000系电动车组由[长春轨道客车于](https://zh.wikipedia.org/w
   - [列车介绍1](https://web.archive.org/web/20130421071755/http://www.crc.chinacnr.com/serv-591.html)
   - [列车介绍2](https://web.archive.org/web/20160304185540/http://www.chinacnr.com/p366.aspx?ProductID=734&ParentID=2)
 
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
-[Category:长春轨道交通车辆](https://zh.wikipedia.org/wiki/Category:长春轨道交通车辆 "wikilink")
+[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:长春轨道交通车辆](https://zh.wikipedia.org/wiki/Category:长春轨道交通车辆 "wikilink")
 
 1.
 2.  <http://www.cnrerd.chinacnr.com/p404.aspx?ProductID=9&CategoryID=119>

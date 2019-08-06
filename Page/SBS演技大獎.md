@@ -1864,8 +1864,7 @@
   -
   -
   -
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
-[Category:韓國電視獎項](https://zh.wikipedia.org/wiki/Category:韓國電視獎項 "wikilink")
+[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink") [Category:韓國電視獎項](https://zh.wikipedia.org/wiki/Category:韓國電視獎項 "wikilink")
 
 1.  [韩国三大台演技大獎历年获奖者盘点](http://kr.hujiang.com/new/p441503/)
 2.  1997年因IMF事件停办一年
@@ -1874,5 +1873,4 @@
 5.  2013-2014年所设奖项
 6.  2016年所设奖项
 7.  2017年所设奖项
-8.  [AGB Nielsen Media
-    Research收視數據表](http://www.agbnielsen.co.kr/index.asp?ref=0)
+8.  [AGB Nielsen Media Research收視數據表](http://www.agbnielsen.co.kr/index.asp?ref=0)

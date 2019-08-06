@@ -1,15 +1,8 @@
-《**心跳！光之美少女**》（）是由[東堂泉](../Page/東堂泉.md "wikilink")所創作的[魔法少女](../Page/魔法少女.md "wikilink")動畫作品、「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」第十作，屬第八代光之美少女，2013年2月3日開始在[朝日放送](../Page/朝日放送.md "wikilink")和[朝日電視台](../Page/朝日電視台.md "wikilink")播放\[1\]\[2\]。台灣由[東森電影台](../Page/東森電影台.md "wikilink")在2015年11月23日以「**DokiDoki\!-{}-
-光之美少女**」的名義首播、[東森幼幼台](../Page/東森幼幼台.md "wikilink")在2016年3月30日以同樣名稱重播。香港由[無綫電視翡翠台在](../Page/翡翠台.md "wikilink")2017年1月30日以「**心動！-{}-光之美少女**」的名義播出，本作亦是目前為止於香港播放的最後一作\[3\]。美國Saban
-Entertainment在2017年8月18日開始以「**Glitter Force Doki
-Doki**」的名義於歐洲地區版本的[Netflix](../Page/Netflix.md "wikilink")提供點播服務。
+《**心跳！光之美少女**》（）是由[東堂泉](../Page/東堂泉.md "wikilink")所創作的[魔法少女](../Page/魔法少女.md "wikilink")動畫作品、「[光之美少女系列](../Page/光之美少女系列.md "wikilink")」第十作，屬第八代光之美少女，2013年2月3日開始在[朝日放送](../Page/朝日放送.md "wikilink")和[朝日電視台](../Page/朝日電視台.md "wikilink")播放\[1\]\[2\]。台灣由[東森電影台](../Page/東森電影台.md "wikilink")在2015年11月23日以「**DokiDoki\!-{}- 光之美少女**」的名義首播、[東森幼幼台](../Page/東森幼幼台.md "wikilink")在2016年3月30日以同樣名稱重播。香港由[無綫電視翡翠台在](../Page/翡翠台.md "wikilink")2017年1月30日以「**心動！-{}-光之美少女**」的名義播出，本作亦是目前為止於香港播放的最後一作\[3\]。美國Saban Entertainment在2017年8月18日開始以「**Glitter Force Doki Doki**」的名義於歐洲地區版本的[Netflix](../Page/Netflix.md "wikilink")提供點播服務。
 
 ## 故事簡介
 
-**相田 愛**（Aida
-Mana）在老師的信賴下，成為了大貝第一中學學生會會長。在一次社會科的戶外活動，她和同學來到地標建築**四葉塔**（Clover
-Tower）參觀，一路上忙著照顧眾人。就在她終於可以停下來，期待展望台的景色時，巨大的怪物「自私怪」突然出現，引起了不小的騒動。不甘旁人被傷害的相田，遇上了撲克牌王國的精靈**夏露露**（Charles），倚靠不可思議的飾物能量，變身成為光之美少女－－愛心天使。隨後其青梅竹馬**菱川
-六花**（Hishikawa Rikka）和小學玩伴**四葉 愛麗絲**（Yotsuba
-Alice）亦加入光之美少女的行列，誓要一同要把失去「愛」的怪物徹底淨化。
+**相田 愛**（Aida Mana）在老師的信賴下，成為了大貝第一中學學生會會長。在一次社會科的戶外活動，她和同學來到地標建築**四葉塔**（Clover Tower）參觀，一路上忙著照顧眾人。就在她終於可以停下來，期待展望台的景色時，巨大的怪物「自私怪」突然出現，引起了不小的騒動。不甘旁人被傷害的相田，遇上了撲克牌王國的精靈**夏露露**（Charles），倚靠不可思議的飾物能量，變身成為光之美少女－－愛心天使。隨後其青梅竹馬**菱川 六花**（Hishikawa Rikka）和小學玩伴**四葉 愛麗絲**（Yotsuba Alice）亦加入光之美少女的行列，誓要一同要把失去「愛」的怪物徹底淨化。
 
 ## 登場人物
 
@@ -17,13 +10,7 @@ Alice）亦加入光之美少女的行列，誓要一同要把失去「愛」的
 
   - {{nihongo|相田愛<ref>{{Cite web
 
-|author=[山口亮太](../Page/山口亮太.md "wikilink") |date=2013-02-02
-|url=<https://twitter.com/staffwhy/status/297866796294361089>
-|title=-{本来は相田愛と書くのですが、 ...}-
-|publisher=[Twitter](../Page/Twitter.md "wikilink")
-|accessdate=2013-03-11
-}}出自Twitter，原文中主角名字為求簡化片假名取代漢字；而本系列[第6作的主角桃園愛的名字為英文LOVE表示](../Page/FRESH光之美少女！.md "wikilink")，中文代理翻譯為愛，與相田字面實質上有異。</ref>／愛心天使|マナ／キュアハート|Aida
-Mana／Cure Heart|Aida Maya／Glitter Heart}}
+|author=[山口亮太](../Page/山口亮太.md "wikilink") |date=2013-02-02 |url=<https://twitter.com/staffwhy/status/297866796294361089> |title=-{本来は相田愛と書くのですが、 ...}- |publisher=[Twitter](../Page/Twitter.md "wikilink") |accessdate=2013-03-11 }}出自Twitter，原文中主角名字為求簡化片假名取代漢字；而本系列[第6作的主角桃園愛的名字為英文LOVE表示](../Page/FRESH光之美少女！.md "wikilink")，中文代理翻譯為愛，與相田字面實質上有異。</ref>／愛心天使|マナ／キュアハート|Aida Mana／Cure Heart|Aida Maya／Glitter Heart}}
 
   -
 
@@ -46,8 +33,7 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
       -
 
           -
-            從胸口的徽章釋放出粉红色愛心光束淨化敵人。在第49話中變身成為愛心天使帕德嫩型態（Cure Heart
-            Parthenon Mode）之後必殺技仍為我的甜心（My Sweet Heart），但威力增加許多。
+            從胸口的徽章釋放出粉红色愛心光束淨化敵人。在第49話中變身成為愛心天使帕德嫩型態（Cure Heart Parthenon Mode）之後必殺技仍為我的甜心（My Sweet Heart），但威力增加許多。
 
 ::; 光之美少女 愛心射擊（Precure Heart Shoot）
 
@@ -140,9 +126,7 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
 
     團體口號為「響起吧！愛的鼓動，心動 光之美少女！」
 
-    戰鬥台詞是「能夠征服世界的只有愛。-{zh-hk:來吧！現在，; zh-tw:來！;
-    zh-cn:來！;}-請你也跟我一起攜手孕育-{zh-hans:愛吧！;
-    zh-tw: 愛的力量。; zh-hk:愛的力量。;}-」（說出戰鬥台詞的同時雙手擺成梅花形）。
+    戰鬥台詞是「能夠征服世界的只有愛。-{zh-hk:來吧！現在，; zh-tw:來！; zh-cn:來！;}-請你也跟我一起攜手孕育-{zh-hans:愛吧！; zh-tw: 愛的力量。; zh-hk:愛的力量。;}-」（說出戰鬥台詞的同時雙手擺成梅花形）。
 
     注：「Rosetta」為[意大利語的](https://zh.wikipedia.org/wiki/意大利語 "wikilink")「小玫瑰」之意。
 
@@ -230,8 +214,7 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
 
     有關她為何成為光之美少女的經歷完全不知道，對於被養母茉里收養前的記憶一無所知，只記得曾經對抗過自私組織並不幸失去變身道具。戰鬥力極高，但同時能量消耗極大且維持變身時間最多只有5分鐘，5分鐘後變身將會自動解除。於第45話得到三神器之一－永恆耀金皇冠的智慧後，成為了真正的王牌天使，已沒有變身時間的限制，同時也知道了自己的身世和撲克牌王國的未解之迷；第45話結尾中揭露，自己和蕾吉娜是安琪公主心靈中的光和影。
 
-    繼《[Suite
-    光之美少女♪](../Page/Suite_光之美少女♪.md "wikilink")》的調邊亞子後第二名小學生之光之美少女。
+    繼《[Suite 光之美少女♪](../Page/Suite_光之美少女♪.md "wikilink")》的調邊亞子後第二名小學生之光之美少女。
 
     變身咒語為「光之美少女 盛裝登場（Precure Dress Up！）」\[8\]
 
@@ -248,8 +231,7 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
       -
 
           -
-            使用武器「愛吻口红」（Love Kiss
-            Rouge）將自己的嘴唇塗抹後，親吻出一個巨大的心形光束攻擊敵人，有數種攻擊模式：
+            使用武器「愛吻口红」（Love Kiss Rouge）將自己的嘴唇塗抹後，親吻出一個巨大的心形光束攻擊敵人，有數種攻擊模式：
               - 塗抹紅色口紅：可以淨化敵人。
               - 塗抹紫色口紅：可以封鎖敵人的行動。
               - 塗抹黃色口紅：可以變出藤蔓將敵人捆住。
@@ -310,9 +292,7 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
   -
 
       -
-        由小爱將魔法可愛面板轉換成豎琴型態——Magical Lovely
-        Harp而使光之美少女全體變身為背部長出翅膀的天使形態（Angel
-        Mode），再藉由五位光之美少女背部出現的魔法陣淨化敵人。
+        由小爱將魔法可愛面板轉換成豎琴型態——Magical Lovely Harp而使光之美少女全體變身為背部長出翅膀的天使形態（Angel Mode），再藉由五位光之美少女背部出現的魔法陣淨化敵人。
 
 ### 撲克牌王國（Trump Kingdom）
 
@@ -323,11 +303,9 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
 
   -
 
-    撲克牌王國的公主，對聖劍天使私下像是姊妹般地愛護。故事開始時在自私組織入侵國內時，以傳說中的三神器之一——「光之槍」Miracle
-    Dragon Glaive的力量封印自私國王，在與聖劍天使透過魔鏡前往日本時失散、下落不明。
+    撲克牌王國的公主，對聖劍天使私下像是姊妹般地愛護。故事開始時在自私組織入侵國內時，以傳說中的三神器之一——「光之槍」Miracle Dragon Glaive的力量封印自私國王，在與聖劍天使透過魔鏡前往日本時失散、下落不明。
 
-    主角們在「皇家水晶」引領下發現她的冰像被封於地球冰河雪谷中，但陷於沉睡狀態，只能偶然透過微弱能量和鏡子傳達信息。雖然她的冰像經過與自私組織一番爭奪後被帶往岡田家，但第45集中揭露冰像裡的公主為幻象，而在第46話黃金之冠的記憶中，主角們才得知她把自己的靈神心分開，心靈成為了Cure
-    Ace(圓亞久里)和蕾吉娜，而身體則變成了艾艾。
+    主角們在「皇家水晶」引領下發現她的冰像被封於地球冰河雪谷中，但陷於沉睡狀態，只能偶然透過微弱能量和鏡子傳達信息。雖然她的冰像經過與自私組織一番爭奪後被帶往岡田家，但第45集中揭露冰像裡的公主為幻象，而在第46話黃金之冠的記憶中，主角們才得知她把自己的靈神心分開，心靈成為了Cure Ace(圓亞久里)和蕾吉娜，而身體則變成了艾艾。
 
 <!-- end list -->
 
@@ -343,12 +321,9 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
 
   -
 
-    給予主角們變身用飾物「Cure
-    Lovies」的神秘金髮男子，在大貝町開了新的飾品店「Solitaire」（[英語意為](https://zh.wikipedia.org/wiki/英語 "wikilink")「紙牌遊戲」）。隱約知道光之美少女與撲克牌王國的事，但對六花等人的質詢總是顧左右而言他。總是稱呼相田為「My
-    Sweet Heart」（我的甜心）。
+    給予主角們變身用飾物「Cure Lovies」的神秘金髮男子，在大貝町開了新的飾品店「Solitaire」（[英語意為](https://zh.wikipedia.org/wiki/英語 "wikilink")「紙牌遊戲」）。隱約知道光之美少女與撲克牌王國的事，但對六花等人的質詢總是顧左右而言他。總是稱呼相田為「My Sweet Heart」（我的甜心）。
 
-    其後為了拯救陷入危機的光之美少女而揭開出他原本的身分：撲克牌王國騎士**喬納森・克朗戴克**（Jonathan
-    [Klondike](https://zh.wikipedia.org/wiki/接龍 "wikilink")），亦為公主的未婚夫，因防守邊境而未見過真琴。在國家毀滅後同樣來到日本。在與光之美少女找到被封印的公主後，暫時帶著她迴避敵人追蹤。第44話時歸來。
+    其後為了拯救陷入危機的光之美少女而揭開出他原本的身分：撲克牌王國騎士**喬納森・克朗戴克**（Jonathan [Klondike](https://zh.wikipedia.org/wiki/接龍 "wikilink")），亦為公主的未婚夫，因防守邊境而未見過真琴。在國家毀滅後同樣來到日本。在與光之美少女找到被封印的公主後，暫時帶著她迴避敵人追蹤。第44話時歸來。
 
     最終回中當選成為「撲克牌共和國」（原撲克牌王國）的首任大總統。
 
@@ -409,8 +384,7 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
 ### 自私組織（Jikochu）
 
   -
-    企圖將「自私自利」的思想和行為散佈到全世界的邪惡組織，成員均為個性-{自我中心}-的人。於地球的根據地是一家陰暗的保齡球館兼酒吧「gog♡\!
-    Jikochū」，成員沒有任務的時候會在這裡消磨時間。第39話以後，該組織成員的根據地改到了位於撲克牌王國的瑪莉．安琪的寢宮里（該寢宮已被蕾吉娜據為己有）。
+    企圖將「自私自利」的思想和行為散佈到全世界的邪惡組織，成員均為個性-{自我中心}-的人。於地球的根據地是一家陰暗的保齡球館兼酒吧「gog♡\! Jikochū」，成員沒有任務的時候會在這裡消磨時間。第39話以後，該組織成員的根據地改到了位於撲克牌王國的瑪莉．安琪的寢宮里（該寢宮已被蕾吉娜據為己有）。
 
 #### 黑幕
 
@@ -444,8 +418,7 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
 
   -
 
-    「自私組織」的少年幹部。 淺藍髮美少年
-    。個性-{自我中心}-，但也有孩子氣的一面，相當痛恨欺負他的利維和古拉。保齡球的成績一般為進坑。於第26話被落雷擊中落海並失憶，被六花救起。
+    「自私組織」的少年幹部。 淺藍髮美少年 。個性-{自我中心}-，但也有孩子氣的一面，相當痛恨欺負他的利維和古拉。保齡球的成績一般為進坑。於第26話被落雷擊中落海並失憶，被六花救起。
 
     最終回與瑪茉及貝魯一起逃離人類世界，不知所終。
 
@@ -467,11 +440,9 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
 
     「自私組織」的老年男性幹部。總是佩戴墨鏡，經常叼著[棒棒糖](https://zh.wikipedia.org/wiki/棒棒糖 "wikilink")，負責從首領自私國王傳達指示。保齡球的成績一般為全中。很渴望被下放更多權力，甚至高攀領袖之位，所以有段時間相當服從蕾吉娜，並設計討好能增強能力的小艾。最討厭吃的東西是胡蘿蔔。
 
-    曾在殺死利維和古拉後曾利用兩人餘留的「黑心能」製造出來的黑暗道具「血環」（Blood
-    Ring），套在伊拉和瑪茉的手指上以控制兩人，使兩人不得不聽命于他。
+    曾在殺死利維和古拉後曾利用兩人餘留的「黑心能」製造出來的黑暗道具「血環」（Blood Ring），套在伊拉和瑪茉的手指上以控制兩人，使兩人不得不聽命于他。
 
-    最終回中他吞下殘餘的黑心能并被其能量反噬變成自私怪始祖之後企圖消滅光之美少女，但最終被「愛心天使
-    帕德嫩型態」淨化，淨化之後因為能量耗盡他退化成了一隻老鼠，被伊拉及瑪茉帶著逃離人類世界，不知所終。
+    最終回中他吞下殘餘的黑心能并被其能量反噬變成自私怪始祖之後企圖消滅光之美少女，但最終被「愛心天使 帕德嫩型態」淨化，淨化之後因為能量耗盡他退化成了一隻老鼠，被伊拉及瑪茉帶著逃離人類世界，不知所終。
 
     其名字源自于代表[七宗罪之一](https://zh.wikipedia.org/wiki/七宗罪 "wikilink")「[懒惰](https://zh.wikipedia.org/wiki/懒惰 "wikilink")」的恶魔「[貝爾芬格](../Page/貝爾芬格.md "wikilink")」（Belphegor）。
 
@@ -501,13 +472,11 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
 
     本作刺客物質，為「自私組織」將「**靈神心**」（，名字源自于[希臘語](https://zh.wikipedia.org/wiki/希臘語 "wikilink")，意為心靈）中自私的黑暗面擴大，並抽取出來製造出的喪失「愛」的怪物。會不斷以說話和行動抒發內心自私的負面情緒，被打敗後會呼出一句「Love、Love、Lo～ve！」，隨之恢復為正面的靈神心，飛回原來的人身上。
 
-    「自私組織」成員可以與其合體，以獸化模式（Beast
-    Mode）直接進行操縱。但偶爾會因為自我中本身的性情而失控，被打敗後亦會消耗極大的能量。
+    「自私組織」成員可以與其合體，以獸化模式（Beast Mode）直接進行操縱。但偶爾會因為自我中本身的性情而失控，被打敗後亦會消耗極大的能量。
 
     利維和古拉曾把自身的邪惡力量合而為一，製造出2倍大的身體、5倍大的力量、10倍自私的合體自私怪。
 
-    伊拉和瑪茉亦曾利用黑暗道具「血環」（Blood
-    Ring）的力量，製造出速度為之前5倍、力量為之前10倍、態度為之前100倍的「血環」自我中。
+    伊拉和瑪茉亦曾利用黑暗道具「血環」（Blood Ring）的力量，製造出速度為之前5倍、力量為之前10倍、態度為之前100倍的「血環」自我中。
 
     名字取自-{[自我中心主義](../Page/自我中心主義.md "wikilink")}-的流行語縮寫。
 
@@ -1590,8 +1559,7 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
 
   -
 
-    本作頭號反派，一直躲在幕後暗中操縱馬修，企圖通過奪走所有人的光輝未來而達到毀滅世界的目的。最終被「愛心天使訂婚形態」（Cure
-    Heart Engage Mode）以祝福花球化為的弓箭射中而消滅。
+    本作頭號反派，一直躲在幕後暗中操縱馬修，企圖通過奪走所有人的光輝未來而達到毀滅世界的目的。最終被「愛心天使訂婚形態」（Cure Heart Engage Mode）以祝福花球化為的弓箭射中而消滅。
 
 <!-- end list -->
 
@@ -1658,27 +1626,20 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
 ### All Stars 系列電影
 
   -
-    主條目：[All Stars
-    系列電影](https://zh.wikipedia.org/wiki/光之美少女系列#All_Stars_系列電影 "wikilink")
+    主條目：[All Stars 系列電影](https://zh.wikipedia.org/wiki/光之美少女系列#All_Stars_系列電影 "wikilink")
 
 <!-- end list -->
 
-  - [All Stars New
-    Stage2上映於本作播出時](../Page/光之美少女_All_Stars_New_Stage2_心之朋友.md "wikilink")，因此以本作故事初期設定為準。
+  - [All Stars New Stage2上映於本作播出時](../Page/光之美少女_All_Stars_New_Stage2_心之朋友.md "wikilink")，因此以本作故事初期設定為準。
 
 <!-- end list -->
 
   -
-    [光之美少女 All Stars New Stage2
-    心之朋友](../Page/光之美少女_All_Stars_New_Stage2_心之朋友.md "wikilink")
-    [光之美少女 All Stars New Stage3
-    永遠的朋友](../Page/光之美少女_All_Stars_New_Stage3_永遠的朋友.md "wikilink")
-    [光之美少女 All Stars
-    春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
-    [光之美少女 All Stars
-    大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
-    [HUG！光之美少女♡光之美少女 All Stars
-    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
+    [光之美少女 All Stars New Stage2 心之朋友](../Page/光之美少女_All_Stars_New_Stage2_心之朋友.md "wikilink")
+    [光之美少女 All Stars New Stage3 永遠的朋友](../Page/光之美少女_All_Stars_New_Stage3_永遠的朋友.md "wikilink")
+    [光之美少女 All Stars 春之嘉年華♪](../Page/光之美少女_All_Stars_春之嘉年華♪.md "wikilink")
+    [光之美少女 All Stars 大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
+    [HUG！光之美少女♡光之美少女 All Stars Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
 
 ## 參考資料
 
@@ -1692,26 +1653,17 @@ Mana／Cure Heart|Aida Maya／Glitter Heart}}
 
   - [心跳！光之美少女（ABC）](http://asahi.co.jp/dokidoki_precure/)
   - [心跳！光之美少女（東映動畫）](http://www.toei-anim.co.jp/tv/dokidoki_precure/)
-  - [電影 DokiDoki\! 光之美少女
-    小愛结婚了！！？連結未来的希望禮服！（東映動畫）](http://www.toei-anim.co.jp/movie/2013_dokidoki_precure/)
-
+  - [電影 DokiDoki\! 光之美少女 小愛结婚了！！？連結未来的希望禮服！（東映動畫）](http://www.toei-anim.co.jp/movie/2013_dokidoki_precure/)
   - [《心跳！光之美少女》台灣官方網站](http://bandai.tw/dokidoki_precure/index.html)
   - [心動！光之美少女（myTV）](http://mytv.tvb.com/tc/cat_animation/dokidokiprettycure/)
 
-[Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink")
-[Category:魔法少女](https://zh.wikipedia.org/wiki/Category:魔法少女 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:变身女主角动画](https://zh.wikipedia.org/wiki/Category:变身女主角动画 "wikilink")
-[Category:2013年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2013年日本電視動畫 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
+[Category:光之美少女](https://zh.wikipedia.org/wiki/Category:光之美少女 "wikilink") [Category:魔法少女](https://zh.wikipedia.org/wiki/Category:魔法少女 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:变身女主角动画](https://zh.wikipedia.org/wiki/Category:变身女主角动画 "wikilink") [Category:2013年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2013年日本電視動畫 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.  來自官網，其實是以朝日電視台為首的26個朝日電視系電視台。
 
 2.
 
-3.  [動畫 - 翡翠台 - 節目表 -
-    tvb.com（2017-01-27存檔）](https://web.archive.org/web/20170127174912/http://programme.tvb.com/jade/animation/)
+3.  [動畫 - 翡翠台 - 節目表 - tvb.com（2017-01-27存檔）](https://web.archive.org/web/20170127174912/http://programme.tvb.com/jade/animation/)
 
 4.  原文：
 

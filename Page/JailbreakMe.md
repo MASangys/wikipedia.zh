@@ -1,35 +1,18 @@
-**JailbreakMe**是一个[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")[越狱工具](https://zh.wikipedia.org/wiki/iOS越獄 "wikilink")，由越狱开发者comex维护并开发\[1\]。JailbreakMe利用了[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")[Safari](../Page/Safari.md "wikilink")的漏洞使浏览器崩溃来达到越狱的目的，如JailbreakMe
-3.0就利用了Safari显示[PDF文稿时的一个漏洞](https://zh.wikipedia.org/wiki/PDF "wikilink")。\[2\]
-不同于
-、[redsn0w](https://zh.wikipedia.org/wiki/redsn0w "wikilink")、[Absinthe](https://zh.wikipedia.org/wiki/Absinthe "wikilink")等其他越狱工具，使用JailbreakMe越狱时不需要连接至一台Mac或PC。在使得Safari崩溃后，会自动添加[Cydia](../Page/Cydia.md "wikilink")到桌面。首次运行Cydia后，就可以完成越狱了。JailbreakMe所有版本均为完美越狱，即不需要引导启动。越狱时仅需打开Safari浏览器，登入[jailbreakme.com](http://www.jailbreakme.com)即可。
-[JailbreakMe_3.0.png](https://zh.wikipedia.org/wiki/File:JailbreakMe_3.0.png "fig:JailbreakMe_3.0.png")
-JailbreakMe的第一个版本是在2007年用于越狱基于1.1.1固件的第一代[iPhone和](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPod
-touch的](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")。JailbreakMe的第二个版本出现于2010年8月用于基于4.0.1或更早版本的越狱。JailbreakMe的第三个版本发布于2011年7月，用以越狱4.3到4.3.3固件。已经至少有两百万的设备通过JailbreakMe
-3.0越狱\[3\] 。但是随着comex被苹果招安，他也宣布了不再从事越狱开发。但是JailbreakMe依然会提供越狱服务\[4\]。
+**JailbreakMe**是一个[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")[越狱工具](https://zh.wikipedia.org/wiki/iOS越獄 "wikilink")，由越狱开发者comex维护并开发\[1\]。JailbreakMe利用了[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")[Safari](../Page/Safari.md "wikilink")的漏洞使浏览器崩溃来达到越狱的目的，如JailbreakMe 3.0就利用了Safari显示[PDF文稿时的一个漏洞](https://zh.wikipedia.org/wiki/PDF "wikilink")。\[2\] 不同于 、[redsn0w](https://zh.wikipedia.org/wiki/redsn0w "wikilink")、[Absinthe](https://zh.wikipedia.org/wiki/Absinthe "wikilink")等其他越狱工具，使用JailbreakMe越狱时不需要连接至一台Mac或PC。在使得Safari崩溃后，会自动添加[Cydia](../Page/Cydia.md "wikilink")到桌面。首次运行Cydia后，就可以完成越狱了。JailbreakMe所有版本均为完美越狱，即不需要引导启动。越狱时仅需打开Safari浏览器，登入[jailbreakme.com](http://www.jailbreakme.com)即可。 [JailbreakMe_3.0.png](https://zh.wikipedia.org/wiki/File:JailbreakMe_3.0.png "fig:JailbreakMe_3.0.png") JailbreakMe的第一个版本是在2007年用于越狱基于1.1.1固件的第一代[iPhone和](https://zh.wikipedia.org/wiki/iPhone "wikilink")[iPod touch的](https://zh.wikipedia.org/wiki/iPod_touch "wikilink")。JailbreakMe的第二个版本出现于2010年8月用于基于4.0.1或更早版本的越狱。JailbreakMe的第三个版本发布于2011年7月，用以越狱4.3到4.3.3固件。已经至少有两百万的设备通过JailbreakMe 3.0越狱\[3\] 。但是随着comex被苹果招安，他也宣布了不再从事越狱开发。但是JailbreakMe依然会提供越狱服务\[4\]。
 
 ## 版本
 
 ### JailbreakMe 1.0
 
-1.0的JailbreakMe开始于2007年，提供用于1.1.1固件的第一代iPhone和iPod
-touch越狱，它利用了一个Safari的[tiff漏洞来安装](https://zh.wikipedia.org/wiki/tiff "wikilink")[installer.app](https://zh.wikipedia.org/wiki/installer.app "wikilink")\[5\]。苹果通过1.1.2固件修复了这个漏洞。
+1.0的JailbreakMe开始于2007年，提供用于1.1.1固件的第一代iPhone和iPod touch越狱，它利用了一个Safari的[tiff漏洞来安装](https://zh.wikipedia.org/wiki/tiff "wikilink")[installer.app](https://zh.wikipedia.org/wiki/installer.app "wikilink")\[5\]。苹果通过1.1.2固件修复了这个漏洞。
 
 ### JailbreakMe 2.0 Star
 
-2010年8月1日，comex公布了JailbreakMe
-2.0，它利用了在渲染[PDF文件时的](https://zh.wikipedia.org/wiki/PDF "wikilink")[FreeType](../Page/FreeType.md "wikilink")字体解析器漏洞。它是第一个iPhone
-4越狱工具，可以越狱iOS 3.1.2-4.0.1的iPhone,iPad,iPod touch\[6\] 。苹果在iOS
-4.0.2时，封堵了这个漏洞\[7\]。
+2010年8月1日，comex公布了JailbreakMe 2.0，它利用了在渲染[PDF文件时的](https://zh.wikipedia.org/wiki/PDF "wikilink")[FreeType](../Page/FreeType.md "wikilink")字体解析器漏洞。它是第一个iPhone 4越狱工具，可以越狱iOS 3.1.2-4.0.1的iPhone,iPad,iPod touch\[6\] 。苹果在iOS 4.0.2时，封堵了这个漏洞\[7\]。
 
 ### JailbreakMe 3.0 Saffron
 
-JailbreakMe 3.0于2011年7月6日发布。适用于iOS 4.3-4.3.3的所有iOS设备。这也是首个公开的iPad
-2越狱\[8\] 。JailbreakMe
-3.0依然利用了[FreeType](../Page/FreeType.md "wikilink")字体解析器漏洞。comex也提供了一个免费的修复补丁，用户在越狱后可以通过[Cydia](../Page/Cydia.md "wikilink")免费下载\[9\]。
-在正式版发布的前几天，有人现行发布了与JailbreakMe 3.0同样漏洞的越狱工具，声称是JailbreakMe
-3.0的测试版，但是仅提供iPad 2的iOS
-4.3越狱，而当测试版工具发出时，最新的iOS固件已经是4.3.2了。\[10\]
-7月15日，苹果发布了4.3.4和4.2.9来修补这个漏洞\[11\]。
+JailbreakMe 3.0于2011年7月6日发布。适用于iOS 4.3-4.3.3的所有iOS设备。这也是首个公开的iPad 2越狱\[8\] 。JailbreakMe 3.0依然利用了[FreeType](../Page/FreeType.md "wikilink")字体解析器漏洞。comex也提供了一个免费的修复补丁，用户在越狱后可以通过[Cydia](../Page/Cydia.md "wikilink")免费下载\[9\]。 在正式版发布的前几天，有人现行发布了与JailbreakMe 3.0同样漏洞的越狱工具，声称是JailbreakMe 3.0的测试版，但是仅提供iPad 2的iOS 4.3越狱，而当测试版工具发出时，最新的iOS固件已经是4.3.2了。\[10\] 7月15日，苹果发布了4.3.4和4.2.9来修补这个漏洞\[11\]。
 
 ## 被苹果招安后的JailbreakMe
 
@@ -117,9 +100,7 @@ comex在2011年8月被苹果以实习生身份聘用，他在[twitter上宣称�
 
 ## 参考资料
 
-[Category:IPhone](https://zh.wikipedia.org/wiki/Category:IPhone "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:自製軟件](https://zh.wikipedia.org/wiki/Category:自製軟件 "wikilink")
+[Category:IPhone](https://zh.wikipedia.org/wiki/Category:IPhone "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:自製軟件](https://zh.wikipedia.org/wiki/Category:自製軟件 "wikilink")
 
 1.  [JailbreakMe的越狱网站](http://www.jailbreakme.com)
 
@@ -127,8 +108,7 @@ comex在2011年8月被苹果以实习生身份聘用，他在[twitter上宣称�
 
 3.
 
-4.  \[<http://www.weiphone.com/apple/news/2011-09-02/Behind_Apple_s_amnesty_Comex_240691.shtml>。
-    comex被招安的背后\]
+4.  \[<http://www.weiphone.com/apple/news/2011-09-02/Behind_Apple_s_amnesty_Comex_240691.shtml>。 comex被招安的背后\]
 
 5.
 

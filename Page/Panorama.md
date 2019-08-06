@@ -10,8 +10,7 @@ Panorama本意是指[全景图](../Page/全景图.md "wikilink")。
 
 ### 电影电视
 
-  - [广角镜
-    (电视节目)](https://zh.wikipedia.org/wiki/广角镜_\(电视节目\) "wikilink")（*Panorama*），BBC电视时事纪录片节目
+  - [广角镜 (电视节目)](https://zh.wikipedia.org/wiki/广角镜_\(电视节目\) "wikilink")（*Panorama*），BBC电视时事纪录片节目
 
 <!-- end list -->
 

@@ -1,7 +1,4 @@
-**PURE**（），曾名**Pure
-Family**（），是[韓國五人](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子](https://zh.wikipedia.org/wiki/男子 "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")，隸屬[PURE娛樂經紀公司](https://zh.wikipedia.org/wiki/PURE娛樂 "wikilink")\[1\]，組合於2013年4月4日在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。當中成員志民被指與男演員[金秀賢樣貌相似](../Page/金秀賢_\(男演員\).md "wikilink")\[2\]。大約於2014年，PURE娛樂推出「PURE2期」組合[純情少年](https://zh.wikipedia.org/wiki/NTB_\(組合\) "wikilink")（，後來改組為Naughty
-Boys、NTB）時解散。
+**PURE**（），曾名**Pure Family**（），是[韓國五人](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子](https://zh.wikipedia.org/wiki/男子 "wikilink")[音樂團體](https://zh.wikipedia.org/wiki/音樂團體 "wikilink")，隸屬[PURE娛樂經紀公司](https://zh.wikipedia.org/wiki/PURE娛樂 "wikilink")\[1\]，組合於2013年4月4日在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。當中成員志民被指與男演員[金秀賢樣貌相似](../Page/金秀賢_\(男演員\).md "wikilink")\[2\]。大約於2014年，PURE娛樂推出「PURE2期」組合[純情少年](https://zh.wikipedia.org/wiki/NTB_\(組合\) "wikilink")（，後來改組為Naughty Boys、NTB）時解散。
 
 ## 成員資料
 
@@ -140,8 +137,7 @@ Boys、NTB）時解散。
 
   - [官方 Cafe](http://cafe.daum.net/PUREFamilly)
 
-  - [官方
-    BLOG](https://web.archive.org/web/20131029192436/http://ameblo.jp/pureenter)
+  - [官方 BLOG](https://web.archive.org/web/20131029192436/http://ameblo.jp/pureenter)
 
   - [官方 Twitter](https://twitter.com/pureenter)
 
@@ -149,12 +145,7 @@ Boys、NTB）時解散。
 
   - [官方 Facebook](https://www.facebook.com/PUREenter)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:2014年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年解散的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
 
 1.
-2.  [‘纯情偶像组合’Pure继民
-    酷似金秀贤](http://news.yule.com.cn/html/201304/147501.html)
+2.  [‘纯情偶像组合’Pure继民 酷似金秀贤](http://news.yule.com.cn/html/201304/147501.html)

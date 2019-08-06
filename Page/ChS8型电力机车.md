@@ -9,12 +9,6 @@
 
 ## 外部链接
 
-  - [История поездов: Пассажирский электровоз
-    ЧС8](http://trainshistory.ru/lokomotivy/magistralnye-elektrovozy/peremennogo-toka/passazhirskii-elektrovoz-chs8.html)
+  - [История поездов: Пассажирский электровоз ЧС8](http://trainshistory.ru/lokomotivy/magistralnye-elektrovozy/peremennogo-toka/passazhirskii-elektrovoz-chs8.html)
 
-[Category:苏联电力机车](https://zh.wikipedia.org/wiki/Category:苏联电力机车 "wikilink")
-[Category:斯柯达制铁路机车](https://zh.wikipedia.org/wiki/Category:斯柯达制铁路机车 "wikilink")
-[Category:俄罗斯电力机车](https://zh.wikipedia.org/wiki/Category:俄罗斯电力机车 "wikilink")
-[Category:乌克兰电力机车](https://zh.wikipedia.org/wiki/Category:乌克兰电力机车 "wikilink")
-[Category:Bo-Bo+Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo+Bo-Bo軸式機車 "wikilink")
-[Category:25千伏50赫兹交流电力机车](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力机车 "wikilink")
+[Category:苏联电力机车](https://zh.wikipedia.org/wiki/Category:苏联电力机车 "wikilink") [Category:斯柯达制铁路机车](https://zh.wikipedia.org/wiki/Category:斯柯达制铁路机车 "wikilink") [Category:俄罗斯电力机车](https://zh.wikipedia.org/wiki/Category:俄罗斯电力机车 "wikilink") [Category:乌克兰电力机车](https://zh.wikipedia.org/wiki/Category:乌克兰电力机车 "wikilink") [Category:Bo-Bo+Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo+Bo-Bo軸式機車 "wikilink") [Category:25千伏50赫兹交流电力机车](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力机车 "wikilink")

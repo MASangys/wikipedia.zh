@@ -3,18 +3,11 @@
 ## 曲目
 
 1.  MAGIC
-      - 作曲：[Jeff
-        Miyahara](https://zh.wikipedia.org/wiki/Jeff_Miyahara "wikilink")、[Erik
-        Lidbom](https://zh.wikipedia.org/wiki/Erik_Lidbom "wikilink")，作詞：，編曲：，監製：Jeff
-        Miyahara、Erik Lidbom
+      - 作曲：[Jeff Miyahara](https://zh.wikipedia.org/wiki/Jeff_Miyahara "wikilink")、[Erik Lidbom](https://zh.wikipedia.org/wiki/Erik_Lidbom "wikilink")，作詞：，編曲：，監製：Jeff Miyahara、Erik Lidbom
 2.  Going Down
-      - 作曲：[Chris
-        Meyer](https://zh.wikipedia.org/wiki/Chris_Meyer "wikilink")、Jeff
-        Miyahara，作詞：[H.U.B.](https://zh.wikipedia.org/wiki/H.U.B. "wikilink")、Jeff
-        Miyahara，編曲：細井聰司，監製：Jeff Miyahara
+      - 作曲：[Chris Meyer](https://zh.wikipedia.org/wiki/Chris_Meyer "wikilink")、Jeff Miyahara，作詞：[H.U.B.](https://zh.wikipedia.org/wiki/H.U.B. "wikilink")、Jeff Miyahara，編曲：細井聰司，監製：Jeff Miyahara
 3.  MAGIC（Instrumental）
-      - 作曲：Jeff Miyahara、Erik Lidbom，編曲：細井聰司，監製：Jeff Miyahara、Erik
-        Lidbom
+      - 作曲：Jeff Miyahara、Erik Lidbom，編曲：細井聰司，監製：Jeff Miyahara、Erik Lidbom
       - 《MAGIC》的純音樂版本。
 4.  Going Down（Instrumental）
       - 作曲：Chris Meyer、Jeff Miyahara，編曲：細井聰司，監製：Jeff Miyahara
@@ -78,8 +71,7 @@
 
   - [波麗佳音](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201200000419&DSP_SKHKETSEQ=003)
 
-[Category:羅志祥音樂專輯](https://zh.wikipedia.org/wiki/Category:羅志祥音樂專輯 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
+[Category:羅志祥音樂專輯](https://zh.wikipedia.org/wiki/Category:羅志祥音樂專輯 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
 
 1.
 

@@ -1,5 +1,4 @@
-**mtab**（***m**ounted file systems
-**tab**le*，已挂载檔案系统表）檔案，是一種常见于[类UNIX系统上的系統資訊檔](https://zh.wikipedia.org/wiki/类UNIX "wikilink")。
+**mtab**（***m**ounted file systems **tab**le*，已挂载檔案系统表）檔案，是一種常见于[类UNIX系统上的系統資訊檔](https://zh.wikipedia.org/wiki/类UNIX "wikilink")。
 
 ## 用途
 
@@ -30,8 +29,7 @@
 
 ## 参考
 
-[Category:文件系统](https://zh.wikipedia.org/wiki/Category:文件系统 "wikilink")
-[Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink")
+[Category:文件系统](https://zh.wikipedia.org/wiki/Category:文件系统 "wikilink") [Category:Unix](https://zh.wikipedia.org/wiki/Category:Unix "wikilink")
 
 1.  [挂载信息](http://www.gnu.org/s/libc/manual/html_node/Mount-Information.html)
 2.  [mtab手册](http://man.cat-v.org/unix_8th/5/mtab)

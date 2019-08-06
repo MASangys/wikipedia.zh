@@ -1,15 +1,8 @@
-**三星Galaxy
-S4**是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星电子于](https://zh.wikipedia.org/wiki/三星电子 "wikilink")2013年推出的新一代旗舰型[智能手机](../Page/智能手机.md "wikilink")\[1\]，是[Samsung
-Galaxy S 系列的第四代](../Page/三星Galaxy_S系列.md "wikilink")\[2\]。手機重量只有130克，
-剛推出市面被譽為全球最輕5寸以上的智能[平板手機](https://zh.wikipedia.org/wiki/平板手機 "wikilink")。
+**三星Galaxy S4**是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[三星电子于](https://zh.wikipedia.org/wiki/三星电子 "wikilink")2013年推出的新一代旗舰型[智能手机](../Page/智能手机.md "wikilink")\[1\]，是[Samsung Galaxy S 系列的第四代](../Page/三星Galaxy_S系列.md "wikilink")\[2\]。手機重量只有130克， 剛推出市面被譽為全球最輕5寸以上的智能[平板手機](https://zh.wikipedia.org/wiki/平板手機 "wikilink")。
 
-[三星电子于](https://zh.wikipedia.org/wiki/三星电子 "wikilink")2013年3月14日在[纽约](../Page/纽约.md "wikilink")[时代广场举办的](../Page/時報廣場.md "wikilink")
-Samsung Unpacked 2013 Episode 1 上正式发布\[3\]。同年4月開始於155個國家發售。
+[三星电子于](https://zh.wikipedia.org/wiki/三星电子 "wikilink")2013年3月14日在[纽约](../Page/纽约.md "wikilink")[时代广场举办的](../Page/時報廣場.md "wikilink") Samsung Unpacked 2013 Episode 1 上正式发布\[3\]。同年4月開始於155個國家發售。
 
-根據三星电子公佈的資料，截至2013年5月22日，三星Galaxy S4在全球共出貨一千萬支，目前已知銷售量4000萬支。而Galaxy
-S4同期的最大競爭對手是Apple [iPhone
-5及](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")[HTC One
-(M7)](../Page/HTC_One_\(M7\).md "wikilink")。
+根據三星电子公佈的資料，截至2013年5月22日，三星Galaxy S4在全球共出貨一千萬支，目前已知銷售量4000萬支。而Galaxy S4同期的最大競爭對手是Apple [iPhone 5及](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")[HTC One (M7)](../Page/HTC_One_\(M7\).md "wikilink")。
 
 ## 型号
 
@@ -248,77 +241,55 @@ S4同期的最大競爭對手是Apple [iPhone
 
 <!-- end list -->
 
-  - **無線充電**: 提供無線充電功能，類似 [Nokia Lumia
-    920](https://zh.wikipedia.org/wiki/Nokia_Lumia_920 "wikilink")
-    的無線充電。
+  - **無線充電**: 提供無線充電功能，類似 [Nokia Lumia 920](https://zh.wikipedia.org/wiki/Nokia_Lumia_920 "wikilink") 的無線充電。
 
 ## 爭議與批評
 
   - ''' 無新意 '''：有評論指 S4 外型與 2012 年式 Galaxy S3 相似度極高\[14\]。
-  - ''' 散熱不良 '''：由於機身散熱系統不良，自製的 Exynos 處理器又會散發高熱，使得 Galaxy S4
-    容易產生高溫，最高溫甚至可達攝氏 58
-    度，可能有燙傷人體的機會，更可能因此過熱致電池爆炸。\[15\]。
+  - ''' 散熱不良 '''：由於機身散熱系統不良，自製的 Exynos 處理器又會散發高熱，使得 Galaxy S4 容易產生高溫，最高溫甚至可達攝氏 58 度，可能有燙傷人體的機會，更可能因此過熱致電池爆炸。\[15\]。
   - ''' 疑似在各個網站派出廣大網軍抹黑對手產品 '''：引導消費者購買三星手機\[16\]。
-  - ''' 效能測試作弊 '''：在進行如 Geekbench 等效能測試時使
-    [CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")/[GPU](https://zh.wikipedia.org/wiki/GPU "wikilink")
-    以高於平常最大可工作量的頻率進行測試，美化跑分數據，但實際使用時並不會達到測試時的高效率\[17\]。
-  - ''' 突然死機或無法開機 '''：三星 Note、S 系列深陷“字库门”，已成为众多三星手机 NOTE 系列及 S
-    系列机主的共同烦恼。这是因为三星产品设计本身存在缺陷，存储芯片的擦除指令存在问题，该芯片相当于电脑硬盘，业内称之为“字库门”。
-  - **系統內置應用程式過大**：由於系統內置的ChatOn、S Travel等程式，以致16GB版本的可用空間僅有8
-    [GB](https://zh.wikipedia.org/wiki/GB "wikilink")，近50%儲存容量都被手機的作業系統及內建應用程式佔據，限制用戶可使用的儲存空間\[18\]\[19\]。三星回應「目的為了提供更高的顯示解析度及更強大的功能」，而「為了提供使用者最佳的行動產品經驗，三星讓
-    Galaxy S4
-    提供[microSD](https://zh.wikipedia.org/wiki/microSD "wikilink")[記憶卡](../Page/記憶卡.md "wikilink")插槽，以擴充記憶容量」\[20\]。
-  - **不允許 app 安裝在記憶卡**：[CNET](../Page/CNET.md "wikilink")報導指出，三星並不允許 app
-    安裝在記憶卡上，導致很多遊戲無法安裝在S4上。一些先進的遊戲需要大量記憶空間支援，例如《Real Racing 3》便需要 1.2GB
-    的手機空間支援。因此 S4 若只剩 8GB
-    可用硬碟空間，很容易就不夠用\[21\]。事後三星於更新時支援應用程式可移至記憶卡的設計，但該功能僅限某些特定的應用程式，沒太大分別。\[22\]。
+  - ''' 效能測試作弊 '''：在進行如 Geekbench 等效能測試時使 [CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")/[GPU](https://zh.wikipedia.org/wiki/GPU "wikilink") 以高於平常最大可工作量的頻率進行測試，美化跑分數據，但實際使用時並不會達到測試時的高效率\[17\]。
+  - ''' 突然死機或無法開機 '''：三星 Note、S 系列深陷“字库门”，已成为众多三星手机 NOTE 系列及 S 系列机主的共同烦恼。这是因为三星产品设计本身存在缺陷，存储芯片的擦除指令存在问题，该芯片相当于电脑硬盘，业内称之为“字库门”。
+  - **系統內置應用程式過大**：由於系統內置的ChatOn、S Travel等程式，以致16GB版本的可用空間僅有8 [GB](https://zh.wikipedia.org/wiki/GB "wikilink")，近50%儲存容量都被手機的作業系統及內建應用程式佔據，限制用戶可使用的儲存空間\[18\]\[19\]。三星回應「目的為了提供更高的顯示解析度及更強大的功能」，而「為了提供使用者最佳的行動產品經驗，三星讓 Galaxy S4 提供[microSD](https://zh.wikipedia.org/wiki/microSD "wikilink")[記憶卡](../Page/記憶卡.md "wikilink")插槽，以擴充記憶容量」\[20\]。
+  - **不允許 app 安裝在記憶卡**：[CNET](../Page/CNET.md "wikilink")報導指出，三星並不允許 app 安裝在記憶卡上，導致很多遊戲無法安裝在S4上。一些先進的遊戲需要大量記憶空間支援，例如《Real Racing 3》便需要 1.2GB 的手機空間支援。因此 S4 若只剩 8GB 可用硬碟空間，很容易就不夠用\[21\]。事後三星於更新時支援應用程式可移至記憶卡的設計，但該功能僅限某些特定的應用程式，沒太大分別。\[22\]。
   - **事故頻生**：採用2安培充電器輸出電壓過大,令傳輸線接頭充電時容易過熱.加上電池質量參差.導致多宗火警爆炸事故
   - 电池性质差:电池很快耗尽
 
 ## 意外事故
 
-  - 2013年7月8日，中國一位網友的Galaxy
-    S4發生爆炸，該網民在微博中發布稱「想著昨晚手機著火真是怕，三星S4也不過如此，還最新款還好醒的及時，不然死定了。」\[23\]。
+  - 2013年7月8日，中國一位網友的Galaxy S4發生爆炸，該網民在微博中發布稱「想著昨晚手機著火真是怕，三星S4也不過如此，還最新款還好醒的及時，不然死定了。」\[23\]。
 
 <!-- end list -->
 
-  - 2013年7月10日，[阿拉伯聯合大公國一位機主將使用一個多月的Galaxy](https://zh.wikipedia.org/wiki/阿拉伯聯合大公國 "wikilink")
-    S4徹夜連接充電器進行充電，半夜起火，幸及時發現並撲熄\[24\]。
+  - 2013年7月10日，[阿拉伯聯合大公國一位機主將使用一個多月的Galaxy](https://zh.wikipedia.org/wiki/阿拉伯聯合大公國 "wikilink") S4徹夜連接充電器進行充電，半夜起火，幸及時發現並撲熄\[24\]。
 
 <!-- end list -->
 
-  - 2013年7月28日，[香港](../Page/香港.md "wikilink")的杜先生在使用Galaxy
-    S4時突然過熱爆炸引起大火，全屋燒毀燻黑\[25\]\[26\]。
+  - 2013年7月28日，[香港](../Page/香港.md "wikilink")的杜先生在使用Galaxy S4時突然過熱爆炸引起大火，全屋燒毀燻黑\[25\]\[26\]。
 
 <!-- end list -->
 
-  - 2013年8月13日，[巴基斯坦](../Page/巴基斯坦.md "wikilink")一位機主的Galaxy
-    S4在充電時候發現有燒焦味，在檢查時發現[USB](../Page/USB.md "wikilink")接頭有燒焦現象\[27\]。
+  - 2013年8月13日，[巴基斯坦](../Page/巴基斯坦.md "wikilink")一位機主的Galaxy S4在充電時候發現有燒焦味，在檢查時發現[USB](../Page/USB.md "wikilink")接頭有燒焦現象\[27\]。
 
 <!-- end list -->
 
-  - 2013年8月28日，美國俄亥俄州有一位婦人\[28\]在睡夢中感覺背部灼燙劇痛，隨即意識到自己睡夢間將自己的Galaxy
-    S4手機壓在身下，皮膚徹底的接收了強大高溫的威力。婦人前往醫院檢查，確認已經造成灼傷，不但起了水泡、之後亦免不了留下疤痕。婦人已向美國主管產品安全部門提出申訴。
+  - 2013年8月28日，美國俄亥俄州有一位婦人\[28\]在睡夢中感覺背部灼燙劇痛，隨即意識到自己睡夢間將自己的Galaxy S4手機壓在身下，皮膚徹底的接收了強大高溫的威力。婦人前往醫院檢查，確認已經造成灼傷，不但起了水泡、之後亦免不了留下疤痕。婦人已向美國主管產品安全部門提出申訴。
 
 <!-- end list -->
 
-  - 2013年9月23日，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[奧勒岡州一男子在商店購物時](https://zh.wikipedia.org/wiki/奧勒岡州 "wikilink")，其Galaxy
-    S4在他的夾克胸前口袋中自燃，之後將手機拿出來時手指頭又被燙傷，最後爆炸後掉在商店地上，燒毀商店地板\[29\]。男子其後表示手機發生自燃時並未處於陽光直射下，且該手機電池也是原裝電池，因此他認為該款手機完全有可能在手中發生爆炸，威脅用戶生命安全，要求三星公司召回已售出的2千萬部手機\[30\]。三星拒絕對此事發表評論。
+  - 2013年9月23日，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[奧勒岡州一男子在商店購物時](https://zh.wikipedia.org/wiki/奧勒岡州 "wikilink")，其Galaxy S4在他的夾克胸前口袋中自燃，之後將手機拿出來時手指頭又被燙傷，最後爆炸後掉在商店地上，燒毀商店地板\[29\]。男子其後表示手機發生自燃時並未處於陽光直射下，且該手機電池也是原裝電池，因此他認為該款手機完全有可能在手中發生爆炸，威脅用戶生命安全，要求三星公司召回已售出的2千萬部手機\[30\]。三星拒絕對此事發表評論。
 
 <!-- end list -->
 
-  - 2013年9月26日，[濟州島一名](https://zh.wikipedia.org/wiki/濟州島 "wikilink")64歲金姓大學教授在購入S4不足1個月的時間後，手機在無外力衝擊的形況下爆炸，造成液晶破損、機身彎曲，但韓國三星辯稱是使用者貪圖30萬韓元修理費而說謊\[31\]。同日，中國一名網民在睡觉时正進行充电的Galaxy
-    S4突然爆炸，事主指在購買後就發現手機只在用一會後就發燙，因此已經減少使用時間\[32\]。
+  - 2013年9月26日，[濟州島一名](https://zh.wikipedia.org/wiki/濟州島 "wikilink")64歲金姓大學教授在購入S4不足1個月的時間後，手機在無外力衝擊的形況下爆炸，造成液晶破損、機身彎曲，但韓國三星辯稱是使用者貪圖30萬韓元修理費而說謊\[31\]。同日，中國一名網民在睡觉时正進行充电的Galaxy S4突然爆炸，事主指在購買後就發現手機只在用一會後就發燙，因此已經減少使用時間\[32\]。
 
 <!-- end list -->
 
-  - 2013年10月4日，來自[中國](../Page/中國.md "wikilink")[福建](https://zh.wikipedia.org/wiki/福建 "wikilink")[福州的一名用戶於遊台灣期間](https://zh.wikipedia.org/wiki/福州 "wikilink")，其Galaxy
-    S4在外套口袋突然冒煙，隨後電池與機身爆開，電池開始冒火，機身螢幕破裂，幸未有受傷。事後三星表示願意賠償一部新手機，但並未交代手機自燃原因\[33\]。
+  - 2013年10月4日，來自[中國](../Page/中國.md "wikilink")[福建](https://zh.wikipedia.org/wiki/福建 "wikilink")[福州的一名用戶於遊台灣期間](https://zh.wikipedia.org/wiki/福州 "wikilink")，其Galaxy S4在外套口袋突然冒煙，隨後電池與機身爆開，電池開始冒火，機身螢幕破裂，幸未有受傷。事後三星表示願意賠償一部新手機，但並未交代手機自燃原因\[33\]。
 
 <!-- end list -->
 
-  - 2013年10月9日，[英格蘭一位母親推著有一對雙胞胎的嬰兒車](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")，走到停車場取車時她的Galaxy
-    S4突然爆炸並發出黑煙。她嚇了一大跳，幸好火勢沒有波及嬰兒車。當地的三星公司發言人表示將回收該手機進行起火原因的調查\[34\]\[35\]。
+  - 2013年10月9日，[英格蘭一位母親推著有一對雙胞胎的嬰兒車](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")，走到停車場取車時她的Galaxy S4突然爆炸並發出黑煙。她嚇了一大跳，幸好火勢沒有波及嬰兒車。當地的三星公司發言人表示將回收該手機進行起火原因的調查\[34\]\[35\]。
 
 <!-- end list -->
 
@@ -330,22 +301,15 @@ S4同期的最大競爭對手是Apple [iPhone
 
 <!-- end list -->
 
-  - 2013年12月7日，[加拿大](../Page/加拿大.md "wikilink")一名網友 Ghostlyrich 的Galaxy
-    S4起火燃燒，他使用的是原廠配給的三星充電器，但三星事後要他簽署協議書，承諾刪除影片、不追究法律責任及不公開協議內容才肯換機\[38\]，因此受害者拍下影片上網抱怨，引起其他網友共鳴，抨擊三星服務品質不佳，還有網友嘲笑：「Galaxy
-    S4
-    可以改名為『C4』」\[39\]\[40\]。事件發生後數天，美國[諾基亞在](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[Twitter](../Page/Twitter.md "wikilink")上向受害人承諾送他一部全新[Nokia
-    Lumia手機](https://zh.wikipedia.org/wiki/Nokia_Lumia "wikilink")，更聲言會幫他處理電信公司方面的複雜手續\[41\]。
+  - 2013年12月7日，[加拿大](../Page/加拿大.md "wikilink")一名網友 Ghostlyrich 的Galaxy S4起火燃燒，他使用的是原廠配給的三星充電器，但三星事後要他簽署協議書，承諾刪除影片、不追究法律責任及不公開協議內容才肯換機\[38\]，因此受害者拍下影片上網抱怨，引起其他網友共鳴，抨擊三星服務品質不佳，還有網友嘲笑：「Galaxy S4 可以改名為『C4』」\[39\]\[40\]。事件發生後數天，美國[諾基亞在](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[Twitter](../Page/Twitter.md "wikilink")上向受害人承諾送他一部全新[Nokia Lumia手機](https://zh.wikipedia.org/wiki/Nokia_Lumia "wikilink")，更聲言會幫他處理電信公司方面的複雜手續\[41\]。
 
 <!-- end list -->
 
-  - 2013年12月11日，[奧地利一位](https://zh.wikipedia.org/wiki/奧地利 "wikilink")36歲的母親聽到一聲怪響，趕緊跑去安置一歲嬰兒的隔壁房間，看到Galaxy
-    S4像煙霧彈一樣炸開\[42\]，冒出大量煙霧並引燃毛織物，幸好爆炸沒有傷及附近的小嬰兒。這位母親大受打擊\[43\]。同日，[俄羅斯一部Galaxy](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")
-    S4在充電時出現燒焦\[44\]。
+  - 2013年12月11日，[奧地利一位](https://zh.wikipedia.org/wiki/奧地利 "wikilink")36歲的母親聽到一聲怪響，趕緊跑去安置一歲嬰兒的隔壁房間，看到Galaxy S4像煙霧彈一樣炸開\[42\]，冒出大量煙霧並引燃毛織物，幸好爆炸沒有傷及附近的小嬰兒。這位母親大受打擊\[43\]。同日，[俄羅斯一部Galaxy](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink") S4在充電時出現燒焦\[44\]。
 
 <!-- end list -->
 
-  - 2013年12月12日，一名Reddit論壇用戶在回家時手上拿著的 Galaxy S4
-    突然傳出巨響，在查看時發現手機出現少許火花並開始冒煙\[45\]。
+  - 2013年12月12日，一名Reddit論壇用戶在回家時手上拿著的 Galaxy S4 突然傳出巨響，在查看時發現手機出現少許火花並開始冒煙\[45\]。
 
 <!-- end list -->
 
@@ -357,13 +321,11 @@ S4同期的最大競爭對手是Apple [iPhone
 
 <!-- end list -->
 
-  - 2014年1月2日，一名中國用家的三星Galaxy
-    S4在未充電的情況下發生爆炸，手機被完全燒毀，並且裝載著手機的背包也被燒黑，事主其後將手機送到三星維修部處理，但三星以手机是港行机為由拒绝受理。\[48\]。
+  - 2014年1月2日，一名中國用家的三星Galaxy S4在未充電的情況下發生爆炸，手機被完全燒毀，並且裝載著手機的背包也被燒黑，事主其後將手機送到三星維修部處理，但三星以手机是港行机為由拒绝受理。\[48\]。
 
 <!-- end list -->
 
-  - 2014年1月4日， 來自瑞士的Michele Crivelli在參加一場位於瑞士Davos Platz
-    GR的Ochsen餐廳西洋除夕宴會時，其放置於餐廳桌上的S4突然爆炸，傳出一聲巨響\[49\]。
+  - 2014年1月4日， 來自瑞士的Michele Crivelli在參加一場位於瑞士Davos Platz GR的Ochsen餐廳西洋除夕宴會時，其放置於餐廳桌上的S4突然爆炸，傳出一聲巨響\[49\]。
 
 <!-- end list -->
 
@@ -375,14 +337,11 @@ S4同期的最大競爭對手是Apple [iPhone
 
 <!-- end list -->
 
-  - 2014年5月6日，
-    英國[格雷夫森德一名Galaxy](https://zh.wikipedia.org/wiki/格雷夫森德_\(肯特郡\) "wikilink")
-    S4用家在凌晨一點發現充電中的S4突然發生爆炸，並噴發出大量濃煙和火焰。她表示充電器為原裝正貨。\[52\]
+  - 2014年5月6日， 英國[格雷夫森德一名Galaxy](https://zh.wikipedia.org/wiki/格雷夫森德_\(肯特郡\) "wikilink") S4用家在凌晨一點發現充電中的S4突然發生爆炸，並噴發出大量濃煙和火焰。她表示充電器為原裝正貨。\[52\]
 
 <!-- end list -->
 
-  - 2017年3月21日，澳大利亞15歲女生，座車上學途中將三星Galaxy
-    S4手機放在腿上，不料手機突然爆炸，把她裙子燒穿，燒傷了她的腿部，燒壞了她乘坐汽車的座椅等處，就醫後少女大腿內側有分別為一級和二級的燒傷。\[53\]
+  - 2017年3月21日，澳大利亞15歲女生，座車上學途中將三星Galaxy S4手機放在腿上，不料手機突然爆炸，把她裙子燒穿，燒傷了她的腿部，燒壞了她乘坐汽車的座椅等處，就醫後少女大腿內側有分別為一級和二級的燒傷。\[53\]
 
 ## 参看
 
@@ -390,18 +349,13 @@ S4同期的最大競爭對手是Apple [iPhone
 
 ## 参考资料
 
-[Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:2013年面世的手機](https://zh.wikipedia.org/wiki/Category:2013年面世的手機 "wikilink")
+[Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:2013年面世的手機](https://zh.wikipedia.org/wiki/Category:2013年面世的手機 "wikilink")
 
-1.  [三星將推 GalaxyS4 再搶 iPhone 市場](http://www.apdnews.com/news/22979.html)
-    ，亚太日报，2013年3月15日
+1.  [三星將推 GalaxyS4 再搶 iPhone 市場](http://www.apdnews.com/news/22979.html) ，亚太日报，2013年3月15日
 
-2.  [三星 Galaxy S4 下周发布
-    新华网](http://news.xinhuanet.com/tech/2013-03/09/c_124436206.htm)
+2.  [三星 Galaxy S4 下周发布 新华网](http://news.xinhuanet.com/tech/2013-03/09/c_124436206.htm)
 
-3.  [三星全新 Galaxy S4/LTE 于 3 月 14
-    日面市](http://nb.zol.com.cn/358/3582441.html)
+3.  [三星全新 Galaxy S4/LTE 于 3 月 14 日面市](http://nb.zol.com.cn/358/3582441.html)
 
 4.
 
@@ -423,79 +377,57 @@ S4同期的最大競爭對手是Apple [iPhone
 
 13.
 
-14. [三星 Galaxy S4 了无新意 被 HTC
-    高管批评没创新](http://www.cnsoftnews.com/static/201303/96966.html)
+14. [三星 Galaxy S4 了无新意 被 HTC 高管批评没创新](http://www.cnsoftnews.com/static/201303/96966.html)
 
-
-15. [用三星 Galaxy S4 煎鸡蛋？ 开 3D 功能飙 58 度 -
-    巴士三星](http://samsung.tgbus.com/201305/469847.shtml)
+15. [用三星 Galaxy S4 煎鸡蛋？ 开 3D 功能飙 58 度 - 巴士三星](http://samsung.tgbus.com/201305/469847.shtml)
 
 16. <http://www.mobile01.com/topicdetail.php?f=568&t=3284729&last=45966870>
 
 17. <http://www.mobile01.com/topicdetail.php?f=568&t=3479372>
 
-18. [16GB版Galaxy
-    S4可用存储空间仅8.8GB](http://news.zol.com.cn/370/3706938.html)
+18. [16GB版Galaxy S4可用存储空间仅8.8GB](http://news.zol.com.cn/370/3706938.html)
 
 19.
-20. [三星坦言S4實際容量僅半
-    「可用記憶卡擴充啊」](http://tw.news.yahoo.com/騙真大-三星坦言s4實際容量僅半-可用記憶卡擴充啊-055521585.html)
+20. [三星坦言S4實際容量僅半 「可用記憶卡擴充啊」](http://tw.news.yahoo.com/騙真大-三星坦言s4實際容量僅半-可用記憶卡擴充啊-055521585.html)
 
 21.
-22. [紓解手機儲存容量 Galaxy
-    S4釋出新版韌體實測](http://3c.u-car.com.tw/3cdetail.asp?articleid=2931)
-
+22. [紓解手機儲存容量 Galaxy S4釋出新版韌體實測](http://3c.u-car.com.tw/3cdetail.asp?articleid=2931)
 
 23. [三星手机再发生爆炸 这次是 Galaxy S4](http://www.ithome.com/html/digi/48434.htm)
 
 24. [天气太热手机也受不了 Galaxy S4 无故自燃](http://www.anqu.com/xinwen_486/46237/)
 
-25. [Exploding Samsung Galaxy S4 Allegedly Starts Fire, Destroys
-    House](http://www.huffingtonpost.com/2013/07/29/galaxy-s4-fire-explosion_n_3672346.html)
+25. [Exploding Samsung Galaxy S4 Allegedly Starts Fire, Destroys House](http://www.huffingtonpost.com/2013/07/29/galaxy-s4-fire-explosion_n_3672346.html)
 
-26. [三星 s4 爆炸噴火焚宅 -230032312.html 三星 S4
-    爆炸噴火焚宅](http://hk.news.yahoo.com/)
+26. [三星 s4 爆炸噴火焚宅 -230032312.html 三星 S4 爆炸噴火焚宅](http://hk.news.yahoo.com/)
 
-27. [Another Samsung Galaxy S4 found burned at the bottom during
-    charging](http://axeetech.com/2013/08/13/another-samsung-galaxy-s4-found-burned-at-the-bottom-during-charging/#.UhM7WBa2BTA)
+27. [Another Samsung Galaxy S4 found burned at the bottom during charging](http://axeetech.com/2013/08/13/another-samsung-galaxy-s4-found-burned-at-the-bottom-during-charging/#.UhM7WBa2BTA)
 
 28. [1](http://www.cbsnews.com/videos/ohio-woman-burned-by-samsung-galaxy-s4/)
 
-29. [Galaxy S4
-    手機爆炸案例，美國男子將雇律師提告三星迫其招回](http://www.techbang.com/posts/14918-samsung-s4-explosion-case-united-states-men-would-hire-lawyers-sue-samsung-compel-the-recall)
+29. [Galaxy S4 手機爆炸案例，美國男子將雇律師提告三星迫其招回](http://www.techbang.com/posts/14918-samsung-s4-explosion-case-united-states-men-would-hire-lawyers-sue-samsung-compel-the-recall)
 
-30. [男子以威脅生命為由要求三星召回 Galaxy
-    S4](http://news.sina.com.tw/article/20130924/10721460.html)
+30. [男子以威脅生命為由要求三星召回 Galaxy S4](http://news.sina.com.tw/article/20130924/10721460.html)
 
-31. [韓教授 S4 LTE-A
-    手機無衝擊爆炸　三星：使用者說謊](http://www.ettoday.net/news/20130926/274601.htm)
+31. [韓教授 S4 LTE-A 手機無衝擊爆炸　三星：使用者說謊](http://www.ettoday.net/news/20130926/274601.htm)
 
 32.
 
-33. [陸客遊台灣 %E3%80%80 三星手機突自燃 陸客遊台灣　三星 S4
-    突自燃](http://www.appledaily.com.tw/realtimenews/article/international/20131009/271984/)
+33. [陸客遊台灣 %E3%80%80 三星手機突自燃 陸客遊台灣　三星 S4 突自燃](http://www.appledaily.com.tw/realtimenews/article/international/20131009/271984/)
 
-34. [Exploding phone’ sets pram on
-    fire](http://www.oxfordmail.co.uk/news/10725415.___Exploding_phone____sets_pram_on_fire/)
+34. [Exploding phone’ sets pram on fire](http://www.oxfordmail.co.uk/news/10725415.___Exploding_phone____sets_pram_on_fire/)
 
-35. [Exploding phone' sets children's stroller on
-    fire](http://carloz.newsvine.com/_news/2013/10/31/21265048-exploding-phone-sets-childrens-stroller-on-fire)
+35. [Exploding phone' sets children's stroller on fire](http://carloz.newsvine.com/_news/2013/10/31/21265048-exploding-phone-sets-childrens-stroller-on-fire)
 
-36. [Samsung S4 is Dangerous to
-    Life](http://throodalookingglass.com/2013/11/smart-phones-not-so-smart/)
+36. [Samsung S4 is Dangerous to Life](http://throodalookingglass.com/2013/11/smart-phones-not-so-smart/)
 
-
-37. [Samsung Galaxy S4: ecco il primo caso di autocombustione in
-    Italia](http://www.pianetacellulare.it/post/Samsung/29409_Samsung-Galaxy-S4-ecco-il-primo-caso-di-autocombustione-in-.php)
+37. [Samsung Galaxy S4: ecco il primo caso di autocombustione in Italia](http://www.pianetacellulare.it/post/Samsung/29409_Samsung-Galaxy-S4-ecco-il-primo-caso-di-autocombustione-in-.php)
 
 38.
 
-39. [三星 S4 又爆炸 網友諷：Galaxy
-    「C4」](http://iservice.libertytimes.com.tw/liveNews/news.php?no=914138&type=%E7%A7%91%E6%8A%80&Slots=Live)
+39. [三星 S4 又爆炸 網友諷：Galaxy 「C4」](http://iservice.libertytimes.com.tw/liveNews/news.php?no=914138&type=%E7%A7%91%E6%8A%80&Slots=Live)
 
-
-40. [samsung galaxy s4 caught fire proof for
-    samsung](http://www.youtube.com/watch?v=dc4duKuPrQ0)
+40. [samsung galaxy s4 caught fire proof for samsung](http://www.youtube.com/watch?v=dc4duKuPrQ0)
 
 41.
 
@@ -503,35 +435,22 @@ S4同期的最大競爭對手是Apple [iPhone
 
 43. [3](http://kurier.at/chronik/oesterreich/baby-entging-handy-explosion/40.410.179)
 
-44. [ЭКСКЛЮЗИВ. В РОССИИ ЗАФИКСИРОВАН СЛУЧАЙ ВОЗГОРАНИЯ SAMSUNG GALAXY
-    S4](http://hi-tech.mail.ru/news/misc/galaxy-s4-fire-russia.html)
+44. [ЭКСКЛЮЗИВ. В РОССИИ ЗАФИКСИРОВАН СЛУЧАЙ ВОЗГОРАНИЯ SAMSUNG GALAXY S4](http://hi-tech.mail.ru/news/misc/galaxy-s4-fire-russia.html)
 
-45. [Samsung Galaxy S4
-    再爆炸，原廠電也沒保障？](https://tw.tech.yahoo.com/news/samsung-galaxy-s4-再爆炸-原廠電也沒保障-040400822.html)
+45. [Samsung Galaxy S4 再爆炸，原廠電也沒保障？](https://tw.tech.yahoo.com/news/samsung-galaxy-s4-再爆炸-原廠電也沒保障-040400822.html)
 
+46. [У минчанки загорелся Galaxy S4, эксперты и Samsung подозревают СВЧ-печь](http://tech.onliner.by/2013/12/13/galaxy-2)
 
-46. [У минчанки загорелся Galaxy S4, эксперты и Samsung подозревают
-    СВЧ-печь](http://tech.onliner.by/2013/12/13/galaxy-2)
+47. [Another Samsung Galaxy S4 Catches Fire VIDEO](http://www.androidorigin.com/another-samsung-galaxy-s4-catches-fire-video/#more-12649)
 
-47. [Another Samsung Galaxy S4 Catches Fire
-    VIDEO](http://www.androidorigin.com/another-samsung-galaxy-s4-catches-fire-video/#more-12649)
+48. [三星S4再现爆炸事件 S5也不能让人放心？](http://news.itxinwen.com/2014/0102/549823.shtml)
 
+49. [Michele Crivelli (27) explodierte in der Beiz das Handy. Bei Anruf bumm\!](http://www.blick.ch/news/schweiz/michele-crivelli-27-explodierte-in-der-beiz-das-handy-bei-anruf-bumm-id2601055.html)
 
-48. [三星S4再现爆炸事件
-    S5也不能让人放心？](http://news.itxinwen.com/2014/0102/549823.shtml)
-
-
-49. [Michele Crivelli (27) explodierte in der Beiz das Handy. Bei Anruf
-    bumm\!](http://www.blick.ch/news/schweiz/michele-crivelli-27-explodierte-in-der-beiz-das-handy-bei-anruf-bumm-id2601055.html)
-
-50. [Video: 'It was like a bomb' - dad's shock as mobile bursts into
-    flames while
-    driving](http://www.coventrytelegraph.net/news/coventry-news/it-like-bomb---coventry-6710452)
+50. [Video: 'It was like a bomb' - dad's shock as mobile bursts into flames while driving](http://www.coventrytelegraph.net/news/coventry-news/it-like-bomb---coventry-6710452)
 
 51. [三星S4充電起火　地毯燒出一個洞](http://www.appledaily.com.tw/realtimenews/article/new/20140410/376375/)
 
-52. [Mobile phone battery explodes in Gravesend
-    home](http://www.newsshopper.co.uk/news/11192962.Mobile_phone_battery_explodes_in_Gravesend_home/)
+52. [Mobile phone battery explodes in Gravesend home](http://www.newsshopper.co.uk/news/11192962.Mobile_phone_battery_explodes_in_Gravesend_home/)
 
-53. [三星S4手機爆炸
-    澳洲15歲女生腿燒傷](http://www.ntdtv.com/xtr/b5/2017/03/21/a1316819.html)
+53. [三星S4手機爆炸 澳洲15歲女生腿燒傷](http://www.ntdtv.com/xtr/b5/2017/03/21/a1316819.html)

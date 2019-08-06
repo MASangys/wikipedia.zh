@@ -1,10 +1,8 @@
-《**I don't know
-why**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")獨立製作的第二張單曲。這單曲由[鄭容和](../Page/鄭容和.md "wikilink")與[Aramaki作曲](https://zh.wikipedia.org/wiki/Aramaki "wikilink")，容和同時填詞。2010年9月16日發行\[1\]。
+《**I don't know why**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CNBLUE](../Page/CNBLUE.md "wikilink")獨立製作的第二張單曲。這單曲由[鄭容和](../Page/鄭容和.md "wikilink")與[Aramaki作曲](https://zh.wikipedia.org/wiki/Aramaki "wikilink")，容和同時填詞。2010年9月16日發行\[1\]。
 
 ## 單曲內容
 
-《I don't know
-why》由CNBLUE成員[鄭容和](../Page/鄭容和.md "wikilink")創作曲詞、[Aramaki共同作詞](https://zh.wikipedia.org/wiki/Aramaki "wikilink")；B面歌曲《Lie》由CNBLUE另一成員[李宗泫](../Page/李宗泫.md "wikilink")作曲、[Ryo共同作曲](https://zh.wikipedia.org/wiki/Ryo "wikilink")，CUL作詞\[2\]。
+《I don't know why》由CNBLUE成員[鄭容和](../Page/鄭容和.md "wikilink")創作曲詞、[Aramaki共同作詞](https://zh.wikipedia.org/wiki/Aramaki "wikilink")；B面歌曲《Lie》由CNBLUE另一成員[李宗泫](../Page/李宗泫.md "wikilink")作曲、[Ryo共同作曲](https://zh.wikipedia.org/wiki/Ryo "wikilink")，CUL作詞\[2\]。
 
 ## 曲目
 
@@ -27,8 +25,7 @@ why》由CNBLUE成員[鄭容和](../Page/鄭容和.md "wikilink")創作曲詞、
 
 ## 參考資料
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:CNBLUE歌曲](https://zh.wikipedia.org/wiki/Category:CNBLUE歌曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:CNBLUE歌曲](https://zh.wikipedia.org/wiki/Category:CNBLUE歌曲 "wikilink")
 
 1.
 

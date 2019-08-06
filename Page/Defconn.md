@@ -15,7 +15,7 @@
 | 2017年3月31日 - 5月5日        | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")               | [和時間賽跑的男人](../Page/和時間賽跑的男人.md "wikilink")                      |                                                                                                                                           |
 | 2017年11月23日 - 2018年1月11日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")               | [本業是歌手－這些傢伙的兩種生活](../Page/本業是歌手－這些傢伙的兩種生活.md "wikilink")        | 與[鄭亨敦](../Page/鄭亨敦.md "wikilink")、[俞世潤](../Page/俞世潤.md "wikilink")、 主持，音樂觀察綜藝節目 MC                                                        |
 | 2018年5月12日至今             | [JTBC](../Page/JTBC.md "wikilink")                                | [Idol Room](../Page/Idol_Room.md "wikilink")                    | 與[鄭亨敦](../Page/鄭亨敦.md "wikilink")                                                                                                         |
-| 2019年6月16日－至今            | [JTBC](../Page/JTBC.md "wikilink")                                | 《[完美搭檔](https://zh.wikipedia.org/wiki/完美搭檔 "wikilink")》         | 與[李壽根](../Page/李壽根.md "wikilink")、[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")、[鄭亨敦](../Page/鄭亨敦.md "wikilink")、李龍眞、 李陳鎬、 金耀漢、 文聖民 |
+| 2019年6月16日－至今            | [JTBC](../Page/JTBC.md "wikilink")                                | 《[完美搭檔](../Page/完美搭檔.md "wikilink")》                            | 與[李壽根](../Page/李壽根.md "wikilink")、[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")、[鄭亨敦](../Page/鄭亨敦.md "wikilink")、李龍眞、 李陳鎬、 金耀漢、 文聖民 |
 |                          |                                                                   |                                                                 |                                                                                                                                           |
 
 ### 綜藝嘉賓出演
@@ -46,14 +46,4 @@ E356 131116 觀相特輯（中） E357 131123 觀相特輯（下）
 
 ## 外部連結
 
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink")
-[Category:韓國喜劇演員](https://zh.wikipedia.org/wiki/Category:韓國喜劇演員 "wikilink")
-[Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink")
-[Category:韓國音樂製作人](https://zh.wikipedia.org/wiki/Category:韓國音樂製作人 "wikilink")
-[Category:韓國作曲家](https://zh.wikipedia.org/wiki/Category:韓國作曲家 "wikilink")
-[Category:全羅北道出身人物](https://zh.wikipedia.org/wiki/Category:全羅北道出身人物 "wikilink")
-[Category:全州市出身人物](https://zh.wikipedia.org/wiki/Category:全州市出身人物 "wikilink")
-[Category:劉姓](https://zh.wikipedia.org/wiki/Category:劉姓 "wikilink")
+[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國饒舌歌手](https://zh.wikipedia.org/wiki/Category:韓國饒舌歌手 "wikilink") [Category:韓國喜劇演員](https://zh.wikipedia.org/wiki/Category:韓國喜劇演員 "wikilink") [Category:韓國電視主持人](https://zh.wikipedia.org/wiki/Category:韓國電視主持人 "wikilink") [Category:韓國音樂製作人](https://zh.wikipedia.org/wiki/Category:韓國音樂製作人 "wikilink") [Category:韓國作曲家](https://zh.wikipedia.org/wiki/Category:韓國作曲家 "wikilink") [Category:全羅北道出身人物](https://zh.wikipedia.org/wiki/Category:全羅北道出身人物 "wikilink") [Category:全州市出身人物](https://zh.wikipedia.org/wiki/Category:全州市出身人物 "wikilink") [Category:劉姓](https://zh.wikipedia.org/wiki/Category:劉姓 "wikilink")

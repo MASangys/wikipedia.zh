@@ -1,6 +1,4 @@
-**《TONIGHT》**是韓國Pop
-Dance組合[SS501](../Page/SS501.md "wikilink")隊長[金賢重](../Page/金賢重.md "wikilink")於2013年6月5日，由[環球音樂](../Page/環球音樂_\(日本\).md "wikilink")/Delicious
-Deli Records所發行的第三張日語單曲。
+**《TONIGHT》**是韓國Pop Dance組合[SS501](../Page/SS501.md "wikilink")隊長[金賢重](../Page/金賢重.md "wikilink")於2013年6月5日，由[環球音樂](../Page/環球音樂_\(日本\).md "wikilink")/Delicious Deli Records所發行的第三張日語單曲。
 
 ## 專輯概述
 
@@ -8,8 +6,7 @@ Deli Records所發行的第三張日語單曲。
 
 ### 音樂錄影帶
 
-[KHJ_TONIGHT_2.jpg](https://zh.wikipedia.org/wiki/File:KHJ_TONIGHT_2.jpg "fig:KHJ_TONIGHT_2.jpg")
-本作與前作不同特地為三首新曲錄製專屬音樂影像並僅透過日本環球官方YOUTUBE頻道依序公開預告：
+[KHJ_TONIGHT_2.jpg](https://zh.wikipedia.org/wiki/File:KHJ_TONIGHT_2.jpg "fig:KHJ_TONIGHT_2.jpg") 本作與前作不同特地為三首新曲錄製專屬音樂影像並僅透過日本環球官方YOUTUBE頻道依序公開預告：
 
 2013年5月25日「無法將妳抹去」－演出MV的演員們於東京拍攝，而金賢重則是和樂隊一同在濟州島進行外景拍攝，以交錯的男女故事交叉呈現，呈現電視劇般的MV形式。
 
@@ -43,8 +40,7 @@ Deli Records所發行的第三張日語單曲。
 1.  TONIGHT
       - 是首和以往截然不同風格的歌曲，有著熱情滿溢的心意。
 2.  CAPPUCCINO
-      - 由多次與金賢重合作的Steven Lee與Jimmy
-        Richard等音樂創作者共同製作而成，為愉快且能感受機智風趣的歌曲。特別，金賢重為能靈活運用雷鬼音樂而特意做了專研。
+      - 由多次與金賢重合作的Steven Lee與Jimmy Richard等音樂創作者共同製作而成，為愉快且能感受機智風趣的歌曲。特別，金賢重為能靈活運用雷鬼音樂而特意做了專研。
 3.  無法將妳抹去
       - 是首退去浮華，清新的英式抒情搖滾曲風，與前作「Your Story」相同有著思念情緒的新曲。
 
@@ -52,18 +48,15 @@ Deli Records所發行的第三張日語單曲。
 
 根據日本[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")資料顯示，金賢重的第三張日文單曲「TONIGHT」，在6月5日發行當日獲得銷售榜二位，銷售量高達10萬1818張\[2\]，僅次於日本人氣不墜團體「[SMAP](../Page/SMAP.md "wikilink")」的19萬4660張，當週（6月3日至9日）排名依舊保持第二位置銷量增至11萬5809張，爾後Oricon方面於6月11日宣佈「金賢重這期間在日本活動的同時，是唯一一位在日本發行的三張單曲專輯連續在發行首周就突破10萬張銷量紀錄的韓國個人歌手。」\[3\]一舉躍身為引領韓國音樂熱潮的最高藝人之列，奠定了韓國歌手金賢重的價值所在。當月排名第6位總銷量12萬321張。
 
-另亦於Sound
-Scan銷量榜TONIGHT（初回限定盤A）當週6月3日至6月9日銷量累計1萬1527張，依次（初回限定盤B）9,553張、（初回限定盤C）8,937張，分別占據15、17、19的位置。
+另亦於Sound Scan銷量榜TONIGHT（初回限定盤A）當週6月3日至6月9日銷量累計1萬1527張，依次（初回限定盤B）9,553張、（初回限定盤C）8,937張，分別占據15、17、19的位置。
 
-此外，歌曲「TONIGHT」在dwango音源付費下載網“K-Pop
-Life”部門連續兩日（6月2日至3日）蟬聯來電鈴聲與全曲鈴聲排行榜首，並獲週間來電鈴聲、全曲鈴聲、Android版來電鈴聲三冠王。
+此外，歌曲「TONIGHT」在dwango音源付費下載網“K-Pop Life”部門連續兩日（6月2日至3日）蟬聯來電鈴聲與全曲鈴聲排行榜首，並獲週間來電鈴聲、全曲鈴聲、Android版來電鈴聲三冠王。
 
 ## 活動記錄
 
   - 2013年6月2日出席於熊本縣Country Park舉行的『K-POP FESTIVAL 2013 in KUMAMOTO』
   - 2013年6月4日於東京長野太陽廣場舉行『「TONIGHT」發售記念會』\[4\]
-  - 2013年9月15日、16日於横浜Bay Area舉辦『キム・ヒョンジュン Presents
-    野外ライブ&花火\!\!\!』（DATVshopping限定特典5型態購入者）
+  - 2013年9月15日、16日於横浜Bay Area舉辦『キム・ヒョンジュン Presents 野外ライブ&花火\!\!\!』（DATVshopping限定特典5型態購入者）
   - 發售紀念巡迴展覽
       - Tower Record 涉谷店4F
           - 時間：2013年6月4日－6月10日
@@ -138,13 +131,9 @@ Life”部門連續兩日（6月2日至3日）蟬聯來電鈴聲與全曲鈴聲�
 
   - [金賢重官方YOUTUBE頻道](http://www.youtube.com/kimhyunjoong606)
 
-[Category:金賢重歌曲](https://zh.wikipedia.org/wiki/Category:金賢重歌曲 "wikilink")
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
+[Category:金賢重歌曲](https://zh.wikipedia.org/wiki/Category:金賢重歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
 
-1.  ユニバーサル
-    ミュージック公式携帯サイト、レコチョク、Music.jp、dwango.jp、JOYSOUND、オリコンスタイル、TSUTAYA
-    プレミア、YAMAHA My Sound、ミュージコ♪ 、HAPPY！うた♪、着信★うた♪フル、mu-mo
+1.  ユニバーサル ミュージック公式携帯サイト、レコチョク、Music.jp、dwango.jp、JOYSOUND、オリコンスタイル、TSUTAYA プレミア、YAMAHA My Sound、ミュージコ♪ 、HAPPY！うた♪、着信★うた♪フル、mu-mo
 
 2.
 3.

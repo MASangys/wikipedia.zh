@@ -4,11 +4,6 @@
 
 ## 参考文献
 
-[Category:英国音乐专辑](https://zh.wikipedia.org/wiki/Category:英国音乐专辑 "wikilink")
-[Category:摇滚音乐专辑](https://zh.wikipedia.org/wiki/Category:摇滚音乐专辑 "wikilink")
-[Category:皇后樂隊音樂專輯](https://zh.wikipedia.org/wiki/Category:皇后樂隊音樂專輯 "wikilink")
-[Category:1978年音乐专辑](https://zh.wikipedia.org/wiki/Category:1978年音乐专辑 "wikilink")
-[Category:Parlophone音乐专辑](https://zh.wikipedia.org/wiki/Category:Parlophone音乐专辑 "wikilink")
+[Category:英国音乐专辑](https://zh.wikipedia.org/wiki/Category:英国音乐专辑 "wikilink") [Category:摇滚音乐专辑](https://zh.wikipedia.org/wiki/Category:摇滚音乐专辑 "wikilink") [Category:皇后樂隊音樂專輯](https://zh.wikipedia.org/wiki/Category:皇后樂隊音樂專輯 "wikilink") [Category:1978年音乐专辑](https://zh.wikipedia.org/wiki/Category:1978年音乐专辑 "wikilink") [Category:Parlophone音乐专辑](https://zh.wikipedia.org/wiki/Category:Parlophone音乐专辑 "wikilink")
 
-1.  [Jazz.
-    queenonline.com](http://queenonline.com/en/the-band/discography/jazz/)
+1.  [Jazz. queenonline.com](http://queenonline.com/en/the-band/discography/jazz/)

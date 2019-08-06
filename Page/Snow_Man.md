@@ -1,10 +1,8 @@
-**Snow Man**\[1\]
-是由[日本](../Page/日本.md "wikilink")艺人经纪公司[杰尼斯事务所旗下](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")[小杰尼斯所组成的九人组](https://zh.wikipedia.org/wiki/小杰尼斯 "wikilink")[男子音乐组合](../Page/男子音乐组合.md "wikilink")。
+**Snow Man**\[1\] 是由[日本](../Page/日本.md "wikilink")艺人经纪公司[杰尼斯事务所旗下](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")[小杰尼斯所组成的九人组](https://zh.wikipedia.org/wiki/小杰尼斯 "wikilink")[男子音乐组合](../Page/男子音乐组合.md "wikilink")。
 
 2012年，当组合成员正在参演[泷泽秀明的](https://zh.wikipedia.org/wiki/泷泽秀明 "wikilink")[舞台剧](https://zh.wikipedia.org/wiki/舞台剧 "wikilink")《[泷泽歌舞伎2012](../Page/泷泽演舞城.md "wikilink")》的时候，六人身后的电子显示屏上出现了组合名的六个字符，随即六人的组合名正式被公布。\[2\]
 
-2019年1月，關西Jr的向井康二、宇宙six的目黑蓮、以及瀧澤社長從之前就一直注目的，Snow
-Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加入。從2月開始正式從瀧澤秀明手上接手，作為[泷泽歌舞伎ZERO的座長進行演出](../Page/泷泽演舞城.md "wikilink")。3月24日在橫濱arena的公演為首次9人體制的樣貌，在粉絲的面前表演。
+2019年1月，關西Jr的向井康二、宇宙six的目黑蓮、以及瀧澤社長從之前就一直注目的，Snow Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加入。從2月開始正式從瀧澤秀明手上接手，作為[泷泽歌舞伎ZERO的座長進行演出](../Page/泷泽演舞城.md "wikilink")。3月24日在橫濱arena的公演為首次9人體制的樣貌，在粉絲的面前表演。
 
 ## 组合成员
 
@@ -114,8 +112,7 @@ Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加�
 
 <!-- end list -->
 
-  - [DREAM
-    BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS "wikilink")（2012年9月3日－9月29日，[帝国剧场](https://zh.wikipedia.org/wiki/帝国剧场 "wikilink")）\[6\]
+  - [DREAM BOYS](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS "wikilink")（2012年9月3日－9月29日，[帝国剧场](https://zh.wikipedia.org/wiki/帝国剧场 "wikilink")）\[6\]
 
 <!-- end list -->
 
@@ -127,13 +124,11 @@ Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加�
 
 <!-- end list -->
 
-  - [DREAM BOYS
-    JET](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS_JET "wikilink")（2013年9月5日－29日，帝国剧场）\[9\]
+  - [DREAM BOYS JET](https://zh.wikipedia.org/wiki/DREAM_BOY#DREAM_BOYS_JET "wikilink")（2013年9月5日－29日，帝国剧场）\[9\]
 
 <!-- end list -->
 
-  - [泷泽歌舞伎
-    2014](../Page/泷泽演舞城.md "wikilink")（2014年3月6日－30日，；2014年4月7日－5月6日，新桥演舞场）
+  - [泷泽歌舞伎 2014](../Page/泷泽演舞城.md "wikilink")（2014年3月6日－30日，；2014年4月7日－5月6日，新桥演舞场）
 
 <!-- end list -->
 
@@ -141,8 +136,7 @@ Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加�
 
 <!-- end list -->
 
-  - [泷泽歌舞伎
-    10周年庆典](../Page/泷泽演舞城.md "wikilink")（2015年4月8日－5月17日，新桥演舞场；2015年8月18日－8月23日，[新加坡](../Page/新加坡.md "wikilink")）\[10\]
+  - [泷泽歌舞伎 10周年庆典](../Page/泷泽演舞城.md "wikilink")（2015年4月8日－5月17日，新桥演舞场；2015年8月18日－8月23日，[新加坡](../Page/新加坡.md "wikilink")）\[10\]
 
 <!-- end list -->
 
@@ -158,8 +152,7 @@ Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加�
 
 <!-- end list -->
 
-  - [泷泽歌舞伎
-    2016](../Page/泷泽演舞城.md "wikilink")（2016年4月10日－5月15日，新桥演舞场）\[13\]
+  - [泷泽歌舞伎 2016](../Page/泷泽演舞城.md "wikilink")（2016年4月10日－5月15日，新桥演舞场）\[13\]
 
 <!-- end list -->
 
@@ -175,8 +168,7 @@ Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加�
 
 <!-- end list -->
 
-  - [泷泽歌舞伎
-    2017](../Page/泷泽演舞城.md "wikilink")（2017年4月6日－5月14日，新桥演舞场）\[18\]\[19\]
+  - [泷泽歌舞伎 2017](../Page/泷泽演舞城.md "wikilink")（2017年4月6日－5月14日，新桥演舞场）\[18\]\[19\]
 
 <!-- end list -->
 
@@ -197,13 +189,11 @@ Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加�
 
 ### 演唱会
 
-  - 杰尼斯银座 You的前面是Me！[A.B.C-Z](../Page/A.B.C-Z.md "wikilink") with
-    [小杰尼斯](https://zh.wikipedia.org/wiki/小杰尼斯 "wikilink")（2012年5月18日－6月3日，）
+  - 杰尼斯银座 You的前面是Me！[A.B.C-Z](../Page/A.B.C-Z.md "wikilink") with [小杰尼斯](https://zh.wikipedia.org/wiki/小杰尼斯 "wikilink")（2012年5月18日－6月3日，）
 
 <!-- end list -->
 
-  - Summer Station 杰尼斯的王国〔高桥海人、Snow
-    Man、Love-tune〕（2016年7月26日－29日、8月8日、12日、15日，）\[23\]
+  - Summer Station 杰尼斯的王国〔高桥海人、Snow Man、Love-tune〕（2016年7月26日－29日、8月8日、12日、15日，）\[23\]
 
 <!-- end list -->
 
@@ -211,13 +201,11 @@ Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加�
 
 <!-- end list -->
 
-  - Summer Station～你们～KING'S
-    TRASURE（2017年8月8日－10日〔单独演出〕、8月11日－13日〔与SixTONES共同演出〕）\[26\]
+  - Summer Station～你们～KING'S TRASURE（2017年8月8日－10日〔单独演出〕、8月11日－13日〔与SixTONES共同演出〕）\[26\]
 
 <!-- end list -->
 
-  - 台场登陆
-    周末的游乐场（2017年12月2日、3日，[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[台场湾岸工作室特别会场](https://zh.wikipedia.org/wiki/台场 "wikilink")）\[27\]
+  - 台场登陆 周末的游乐场（2017年12月2日、3日，[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")[台场湾岸工作室特别会场](https://zh.wikipedia.org/wiki/台场 "wikilink")）\[27\]
 
 ### 音乐节目
 
@@ -229,8 +217,7 @@ Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加�
 
 ### 电影
 
-  - 《[私立马鹿兰高校
-    电影版](https://zh.wikipedia.org/wiki/私立馬鹿蘭高校#.E9.9B.BB.E5.BD.B1 "wikilink")》（2012年10月13日公映，）\[29\]
+  - 《[私立马鹿兰高校 电影版](https://zh.wikipedia.org/wiki/私立馬鹿蘭高校#.E9.9B.BB.E5.BD.B1 "wikilink")》（2012年10月13日公映，）\[29\]
 
 <!-- end list -->
 
@@ -244,11 +231,9 @@ Man的成員們也同樣感覺到的村上真都raul三人，作為新成員加�
 
 ## 关联词条
 
-  - [Mis Snow
-    Man](https://zh.wikipedia.org/wiki/Mis_Snow_Man "wikilink")
+  - [Mis Snow Man](https://zh.wikipedia.org/wiki/Mis_Snow_Man "wikilink")
 
-[Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
-[Category:小傑尼斯團體](https://zh.wikipedia.org/wiki/Category:小傑尼斯團體 "wikilink")
+[Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink") [Category:小傑尼斯團體](https://zh.wikipedia.org/wiki/Category:小傑尼斯團體 "wikilink")
 
 1.
 

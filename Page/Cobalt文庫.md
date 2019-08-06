@@ -8,8 +8,7 @@
 
   - [伯爵與妖精](https://zh.wikipedia.org/wiki/伯爵與妖精 "wikilink")（作者：[谷瑞惠](https://zh.wikipedia.org/wiki/谷瑞惠 "wikilink")）
   - [瑪莉亞的凝望](https://zh.wikipedia.org/wiki/瑪莉亞的凝望 "wikilink")（作者：[今野緒雪](https://zh.wikipedia.org/wiki/今野緒雪 "wikilink")）
-  - [炎之蜃氣樓](../Page/炎之蜃氣樓.md "wikilink")（作者：[桑原水菜](https://zh.wikipedia.org/wiki/桑原水菜 "wikilink")
-    ）
+  - [炎之蜃氣樓](../Page/炎之蜃氣樓.md "wikilink")（作者：[桑原水菜](https://zh.wikipedia.org/wiki/桑原水菜 "wikilink") ）
   - 維多利亞薔薇色（作者：青木祐子）
   - 新娘戀曲（作者：小田菜摘）
   - 月色光珠（作者：岡篠名桜）
@@ -246,5 +245,4 @@
   - One―愛になりたい（作者：児波いさき，原作：宮川匡代）
   - 純淨柔軟的心（作者：下川香苗，原作：育江綾）
 
-[Category:集英社](https://zh.wikipedia.org/wiki/Category:集英社 "wikilink")
-[Category:Cobalt文庫](https://zh.wikipedia.org/wiki/Category:Cobalt文庫 "wikilink")
+[Category:集英社](https://zh.wikipedia.org/wiki/Category:集英社 "wikilink") [Category:Cobalt文庫](https://zh.wikipedia.org/wiki/Category:Cobalt文庫 "wikilink")

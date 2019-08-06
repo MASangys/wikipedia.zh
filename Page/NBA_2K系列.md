@@ -1,32 +1,12 @@
-**《NBA
-2K》**系列游戏是一款以[美国国家篮球协会联盟为主题的篮球游戏](https://zh.wikipedia.org/wiki/美国国家篮球协会 "wikilink"),
-最初是针对[Sega
-Dreamcast游戏机来开发的](../Page/Dreamcast.md "wikilink")。在1999-2004年间由[世嘉](../Page/世嘉.md "wikilink")发行，之后世嘉放弃其制作小组[Visual
-Concepts](../Page/Visual_Concepts.md "wikilink")，并把该游戏制作小组以2400万美元的价格卖给了[Take-Two
-Interactive](../Page/Take-Two_Interactive.md "wikilink")\[1\]。但NBA
-2K系列一直由[Visual
-Concepts工作室来制作](../Page/Visual_Concepts.md "wikilink")。《NBA
-2K》系列也是[艺电](../Page/艺电.md "wikilink")《[NBA
-Live](https://zh.wikipedia.org/wiki/NBA_Live "wikilink")》系列的主要竞争对手。自从[NBA
-2K9开始更是首部在PC平台推出的系列作品](https://zh.wikipedia.org/wiki/NBA_2K9 "wikilink")。而从[NBA
-2K14开始](../Page/NBA_2K14.md "wikilink")，本系列由官方进行汉化并推出了繁体中文版，[NBA
-2K15是系列首次推出官方简体中文版](https://zh.wikipedia.org/wiki/NBA_2K15 "wikilink")。[NBA
-2K19中国大陆行货版是系列首次加入中文比赛解说](../Page/NBA_2K19.md "wikilink")。
+**《NBA 2K》**系列游戏是一款以[美国国家篮球协会联盟为主题的篮球游戏](https://zh.wikipedia.org/wiki/美国国家篮球协会 "wikilink"), 最初是针对[Sega Dreamcast游戏机来开发的](../Page/Dreamcast.md "wikilink")。在1999-2004年间由[世嘉](../Page/世嘉.md "wikilink")发行，之后世嘉放弃其制作小组[Visual Concepts](../Page/Visual_Concepts.md "wikilink")，并把该游戏制作小组以2400万美元的价格卖给了[Take-Two Interactive](../Page/Take-Two_Interactive.md "wikilink")\[1\]。但NBA 2K系列一直由[Visual Concepts工作室来制作](../Page/Visual_Concepts.md "wikilink")。《NBA 2K》系列也是[艺电](../Page/艺电.md "wikilink")《[NBA Live](https://zh.wikipedia.org/wiki/NBA_Live "wikilink")》系列的主要竞争对手。自从[NBA 2K9开始更是首部在PC平台推出的系列作品](https://zh.wikipedia.org/wiki/NBA_2K9 "wikilink")。而从[NBA 2K14开始](../Page/NBA_2K14.md "wikilink")，本系列由官方进行汉化并推出了繁体中文版，[NBA 2K15是系列首次推出官方简体中文版](https://zh.wikipedia.org/wiki/NBA_2K15 "wikilink")。[NBA 2K19中国大陆行货版是系列首次加入中文比赛解说](../Page/NBA_2K19.md "wikilink")。
 
-從《[NBA
-2K15](https://zh.wikipedia.org/wiki/NBA_2K15 "wikilink")》開始，PC版採用次世代遊戲引擎，遊戲內容跟PlayStation
-4版和Xbox One版相同，iOS、Android版則採用類似於PlayStation 3版和Xbox 360版所使用的遊戲引擎。
+從《[NBA 2K15](https://zh.wikipedia.org/wiki/NBA_2K15 "wikilink")》開始，PC版採用次世代遊戲引擎，遊戲內容跟PlayStation 4版和Xbox One版相同，iOS、Android版則採用類似於PlayStation 3版和Xbox 360版所使用的遊戲引擎。
 
-而《[NBA
-2K16](https://zh.wikipedia.org/wiki/NBA_2K16 "wikilink")》的MyCAREER(我的生涯)模式是由知名電影製作人
-Spike Lee 編劇與執導，名為「活在夢中」（Livin’ Da Dream）。
+而《[NBA 2K16](https://zh.wikipedia.org/wiki/NBA_2K16 "wikilink")》的MyCAREER(我的生涯)模式是由知名電影製作人 Spike Lee 編劇與執導，名為「活在夢中」（Livin’ Da Dream）。
 
-而2K和騰訊遊戲合作於2012年推出線上版遊戲《[NBA2K
-Online](../Page/NBA2K_Online.md "wikilink")》，2018年更推出續作《[NBA2K Online
-2](../Page/NBA2K_Online_2.md "wikilink")》。
+而2K和騰訊遊戲合作於2012年推出線上版遊戲《[NBA2K Online](../Page/NBA2K_Online.md "wikilink")》，2018年更推出續作《[NBA2K Online 2](../Page/NBA2K_Online_2.md "wikilink")》。
 
-2018年7月，2K宣布將與Saber Interactive合作推出《NBA 2K Playgrounds 2》（遊戲原名：NBA
-Playgrounds 2），並且將於2018年秋季推出。\[2\]\[3\]
+2018年7月，2K宣布將與Saber Interactive合作推出《NBA 2K Playgrounds 2》（遊戲原名：NBA Playgrounds 2），並且將於2018年秋季推出。\[2\]\[3\]
 
 ## 游戏作品列表
 
@@ -57,10 +37,7 @@ Playgrounds 2），並且將於2018年秋季推出。\[2\]\[3\]
 
 游戏系列
 
-而2K和騰訊遊戲合作於2012年推出線上版遊戲《[NBA2K
-Online](../Page/NBA2K_Online.md "wikilink")》，2018年更推出續作《[NBA2K Online
-2](../Page/NBA2K_Online_2.md "wikilink")》。並且即將在2018年秋季推出與Saber
-Interactive合作的遊戲《NBA 2K Playgrounds 2》。
+而2K和騰訊遊戲合作於2012年推出線上版遊戲《[NBA2K Online](../Page/NBA2K_Online.md "wikilink")》，2018年更推出續作《[NBA2K Online 2](../Page/NBA2K_Online_2.md "wikilink")》。並且即將在2018年秋季推出與Saber Interactive合作的遊戲《NBA 2K Playgrounds 2》。
 
 ## 参考资料
 
@@ -68,12 +45,8 @@ Interactive合作的遊戲《NBA 2K Playgrounds 2》。
 
   -
   -
-[Category:NBA_2K系列](https://zh.wikipedia.org/wiki/Category:NBA_2K系列 "wikilink")
-[Category:1999年首发的电子游戏系列](https://zh.wikipedia.org/wiki/Category:1999年首发的电子游戏系列 "wikilink")
-[Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink")
+[Category:NBA_2K系列](https://zh.wikipedia.org/wiki/Category:NBA_2K系列 "wikilink") [Category:1999年首发的电子游戏系列](https://zh.wikipedia.org/wiki/Category:1999年首发的电子游戏系列 "wikilink") [Category:電子遊戲系列](https://zh.wikipedia.org/wiki/Category:電子遊戲系列 "wikilink")
 
 1.
-2.  [街籃遊戲《NBA
-    Playgrounds》宣布與2K合作　第二代延至今秋上市](https://www.mirrormedia.mg/story/20180725gamenba/)
-3.  [2K 與 Saber Interactive 攜手《NBA 2K 熱血街球場 2》擴大 NBA 電玩遊戲版圖
-    將在今秋發售](https://gnn.gamer.com.tw/4/165894.html)
+2.  [街籃遊戲《NBA Playgrounds》宣布與2K合作　第二代延至今秋上市](https://www.mirrormedia.mg/story/20180725gamenba/)
+3.  [2K 與 Saber Interactive 攜手《NBA 2K 熱血街球場 2》擴大 NBA 電玩遊戲版圖 將在今秋發售](https://gnn.gamer.com.tw/4/165894.html)

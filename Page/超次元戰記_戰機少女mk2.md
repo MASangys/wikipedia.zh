@@ -1,11 +1,4 @@
-為[Idea Factory和](../Page/Idea_Factory.md "wikilink")[Compile
-Heart於](../Page/Compile_Heart.md "wikilink")2011年8月18日所開發的[PlayStation
-3用](../Page/PlayStation_3.md "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。人物設計及原畫與2010年8月19日發售的前作《[超次元戰記
-戰機少女](../Page/超次元戰記_戰機少女.md "wikilink")》相同由插畫家[Tsunako](../Page/Tsunako.md "wikilink")擔任。第三代作品《[神次元戰記
-戰機少女V](../Page/神次元戰記_戰機少女V.md "wikilink")》於2012年8月30日發售。重製版遊戲《超次次元戰記
-戰機少女Re;Birth2 妹妹世代》（日語：超次次元ゲイム ネプテューヌRe;Birth2 SISTERS
-GENERATION）於2014年3月20日在[PlayStation
-Vita平台上發售](../Page/PlayStation_Vita.md "wikilink")。
+為[Idea Factory和](../Page/Idea_Factory.md "wikilink")[Compile Heart於](../Page/Compile_Heart.md "wikilink")2011年8月18日所開發的[PlayStation 3用](../Page/PlayStation_3.md "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。人物設計及原畫與2010年8月19日發售的前作《[超次元戰記 戰機少女](../Page/超次元戰記_戰機少女.md "wikilink")》相同由插畫家[Tsunako](../Page/Tsunako.md "wikilink")擔任。第三代作品《[神次元戰記 戰機少女V](../Page/神次元戰記_戰機少女V.md "wikilink")》於2012年8月30日發售。重製版遊戲《超次次元戰記 戰機少女Re;Birth2 妹妹世代》（日語：超次次元ゲイム ネプテューヌRe;Birth2 SISTERS GENERATION）於2014年3月20日在[PlayStation Vita平台上發售](../Page/PlayStation_Vita.md "wikilink")。
 
 *在以下項目中，有出現許多與真實世界的企業名稱和遊戲名稱相同的名詞，在以下項目會另做遊戲中登場各名詞的說明。*
 
@@ -156,9 +149,7 @@ Vita平台上發售](../Page/PlayStation_Vita.md "wikilink")。
 ## 主題曲
 
   - 片頭曲《》
-    作詞：山下慎一狼 ，作曲：[YOFFY](https://zh.wikipedia.org/wiki/YOFFY "wikilink")
-    ，編曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")
-    ，演唱：[nao](https://zh.wikipedia.org/wiki/nao（1985年生歌手） "wikilink")
+    作詞：山下慎一狼 ，作曲：[YOFFY](https://zh.wikipedia.org/wiki/YOFFY "wikilink") ，編曲：[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink") ，演唱：[nao](https://zh.wikipedia.org/wiki/nao（1985年生歌手） "wikilink")
   - 片尾曲《[GO→Love\&Peace](https://zh.wikipedia.org/wiki/Crest_of_Knights "wikilink")》
     作詞、演唱：[彩音](../Page/彩音.md "wikilink")，作曲、編曲：[上野圭市](https://zh.wikipedia.org/wiki/上野圭市 "wikilink")
   - 插入曲《[クリスタルの誓い](https://zh.wikipedia.org/wiki/Puppy "wikilink")》
@@ -169,15 +160,7 @@ Vita平台上發售](../Page/PlayStation_Vita.md "wikilink")。
 ## 外部連結
 
   - [超次元戰記 戰機少女mk2官方網站](http://www.compileheart.com/neptune_mk2/)
-  - [超次次元游戲 戰機少女重生2
-    妹妹世代官方網站](http://www.compileheart.com/neptune/re-birth2/)
-  - [超次次元游戲 戰機少女重生2
-    妹妹世代steam頁面](http://store.steampowered.com/app/351710/)
+  - [超次次元游戲 戰機少女重生2 妹妹世代官方網站](http://www.compileheart.com/neptune/re-birth2/)
+  - [超次次元游戲 戰機少女重生2 妹妹世代steam頁面](http://store.steampowered.com/app/351710/)
 
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink")
-[Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
-[Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:日本一软件游戏](https://zh.wikipedia.org/wiki/Category:日本一软件游戏 "wikilink")
-[Category:戰機少女系列](https://zh.wikipedia.org/wiki/Category:戰機少女系列 "wikilink")
+[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink") [Category:2014年电子游戏](https://zh.wikipedia.org/wiki/Category:2014年电子游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:日本一软件游戏](https://zh.wikipedia.org/wiki/Category:日本一软件游戏 "wikilink") [Category:戰機少女系列](https://zh.wikipedia.org/wiki/Category:戰機少女系列 "wikilink")

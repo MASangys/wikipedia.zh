@@ -1,5 +1,4 @@
-《**月刊Big Comic
-Spirits**》是[小學館](../Page/小學館.md "wikilink")發行的[青年漫畫雜誌](https://zh.wikipedia.org/wiki/青年漫畫雜誌 "wikilink")，2009年創刊。
+《**月刊Big Comic Spirits**》是[小學館](../Page/小學館.md "wikilink")發行的[青年漫畫雜誌](https://zh.wikipedia.org/wiki/青年漫畫雜誌 "wikilink")，2009年創刊。
 
 ## 連載漫画
 
@@ -569,10 +568,7 @@ Spirits**》是[小學館](../Page/小學館.md "wikilink")發行的[青年漫�
 
   - [小学館コミック-月刊スピリッツ](http://spi-net.jp/monthly_top/) - 公式サイト
 
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink")
+[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink")
 
 1.  創刊号。
 

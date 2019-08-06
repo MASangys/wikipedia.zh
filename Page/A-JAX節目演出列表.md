@@ -1,5 +1,4 @@
-本頁是南韓男子團體-**[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")**的節目演出列表。包含成員出道前的演出與自2012年出道以來演出的相關節目列表，包含**專屬節目**、**節目主持**、**非固定演出**、**廣播演出**等資訊。
-[A-JAX.jpg](https://zh.wikipedia.org/wiki/File:A-JAX.jpg "fig:A-JAX.jpg")
+本頁是南韓男子團體-**[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")**的節目演出列表。包含成員出道前的演出與自2012年出道以來演出的相關節目列表，包含**專屬節目**、**節目主持**、**非固定演出**、**廣播演出**等資訊。 [A-JAX.jpg](https://zh.wikipedia.org/wiki/File:A-JAX.jpg "fig:A-JAX.jpg")
 
 ## 專屬節目
 
@@ -574,8 +573,7 @@ Ep.175</p></td>
 2.
 3.
 4.  [【10月31日22:00～】女子力cafe～やぐちんげーる～　A-JAX](http://ameblo.jp/ameba-studio-staff/entry-11392387797.html)
-5.  Ustream URL : <http://tower.jp/socialmedia/ustream>
-    21:00<small>（[UTC+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")）</small>
+5.  Ustream URL : <http://tower.jp/socialmedia/ustream> 21:00<small>（[UTC+9](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")）</small>
 6.
 7.
 8.

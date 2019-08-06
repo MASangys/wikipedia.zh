@@ -6,8 +6,7 @@
 
 ## 關卡構成
 
-此遊戲的Attraction
-1\~8有各8個通常關、各1個頭目關、各1個迷你遊戲等，「最後戰鬥」無關卡，「讀秒舞台」有20關、「特殊舞台」有10關。有「追加模式(プラスモード)」。總共220關。
+此遊戲的Attraction 1\~8有各8個通常關、各1個頭目關、各1個迷你遊戲等，「最後戰鬥」無關卡，「讀秒舞台」有20關、「特殊舞台」有10關。有「追加模式(プラスモード)」。總共220關。
 
 ## 参考资料
 
@@ -15,13 +14,6 @@
 
   -
   -
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:瑪利歐設定遊戲](https://zh.wikipedia.org/wiki/Category:瑪利歐設定遊戲 "wikilink")
-[Category:益智游戏](https://zh.wikipedia.org/wiki/Category:益智游戏 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink")
-[Category:任天堂软件技术游戏](https://zh.wikipedia.org/wiki/Category:任天堂软件技术游戏 "wikilink")
-[Category:大金刚电子游戏系列](https://zh.wikipedia.org/wiki/Category:大金刚电子游戏系列 "wikilink")
+[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:瑪利歐設定遊戲](https://zh.wikipedia.org/wiki/Category:瑪利歐設定遊戲 "wikilink") [Category:益智游戏](https://zh.wikipedia.org/wiki/Category:益智游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink") [Category:任天堂软件技术游戏](https://zh.wikipedia.org/wiki/Category:任天堂软件技术游戏 "wikilink") [Category:大金刚电子游戏系列](https://zh.wikipedia.org/wiki/Category:大金刚电子游戏系列 "wikilink")
 
-1.  [《马里奥vs大金刚
-    迷你村庄大暴动》新作情报公开](http://games.sina.com.cn/t/n/2010-06-17/1748409366.shtml).2010年06月17日.新浪游戏.\[2013-06-22\].
+1.  [《马里奥vs大金刚 迷你村庄大暴动》新作情报公开](http://games.sina.com.cn/t/n/2010-06-17/1748409366.shtml).2010年06月17日.新浪游戏.\[2013-06-22\].

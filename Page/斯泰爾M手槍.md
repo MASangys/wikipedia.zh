@@ -1,15 +1,10 @@
-**斯泰爾M系列**（）是一系列由[奥地利槍械製造商](https://zh.wikipedia.org/wiki/奥地利 "wikilink")向警察制式及民間射擊市場而研製及生產的軍用[半自動手槍](../Page/半自動手槍.md "wikilink")，可發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[9×21毫米IMI](https://zh.wikipedia.org/wiki/9×21mm_IMI "wikilink")、[.40
-S\&W和](../Page/.40_S&W.md "wikilink")[.357
-SIG這四種](../Page/.357_SIG.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**斯泰爾M系列**（）是一系列由[奥地利槍械製造商](https://zh.wikipedia.org/wiki/奥地利 "wikilink")向警察制式及民間射擊市場而研製及生產的軍用[半自動手槍](../Page/半自動手槍.md "wikilink")，可發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、[9×21毫米IMI](https://zh.wikipedia.org/wiki/9×21mm_IMI "wikilink")、[.40 S\&W和](../Page/.40_S&W.md "wikilink")[.357 SIG這四種](../Page/.357_SIG.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史
 
-1990年代初期，斯泰爾開始設計新型工程[塑料](../Page/塑料.md "wikilink")底把手槍；並在1999年春季，最終產品正式亮相並且命名為**M9**（適用於發射[9×19毫米魯格子彈](../Page/9×19mm魯格彈.md "wikilink")）。雖然發射[.40
-S\&W子彈的](../Page/.40_S&W.md "wikilink")**M40**版本早在M9之前研製的，緊接著後來還推出了**M357**（[.357
-SIG或](../Page/.357_SIG.md "wikilink")9×22毫米口徑）以及M9和M40的兩個緊湊化衍生型，分別命名為**S9**和**S40**。\[1\]這些手槍主要是為了而研製的，並具有工程[塑料](../Page/塑料.md "wikilink")底把縮短的[槍管](../Page/槍管.md "wikilink")、[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、更小的[底把](https://zh.wikipedia.org/wiki/機匣 "wikilink")（又稱：套筒座）和減小的[彈匣](../Page/彈匣.md "wikilink")容量。\[2\]
+1990年代初期，斯泰爾開始設計新型工程[塑料](../Page/塑料.md "wikilink")底把手槍；並在1999年春季，最終產品正式亮相並且命名為**M9**（適用於發射[9×19毫米魯格子彈](../Page/9×19mm魯格彈.md "wikilink")）。雖然發射[.40 S\&W子彈的](../Page/.40_S&W.md "wikilink")**M40**版本早在M9之前研製的，緊接著後來還推出了**M357**（[.357 SIG或](../Page/.357_SIG.md "wikilink")9×22毫米口徑）以及M9和M40的兩個緊湊化衍生型，分別命名為**S9**和**S40**。\[1\]這些手槍主要是為了而研製的，並具有工程[塑料](../Page/塑料.md "wikilink")底把縮短的[槍管](../Page/槍管.md "wikilink")、[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")、更小的[底把](https://zh.wikipedia.org/wiki/機匣 "wikilink")（又稱：套筒座）和減小的[彈匣](../Page/彈匣.md "wikilink")容量。\[2\]
 
-到了2013年，除斯泰爾M（中）和S（小）的槍身外形尺寸以外，還新增了L（大）尺寸系列和C（緊湊型）尺寸系列，後兩者都具有發射[9×19毫米和](../Page/9×19mm魯格彈.md "wikilink")[.40
-S\&W手枪子彈版本](../Page/.40_S&W.md "wikilink")，並且分別命名為**L9-A1**、**L40-A1**、**C9-A1**和**C40-A1**。
+到了2013年，除斯泰爾M（中）和S（小）的槍身外形尺寸以外，還新增了L（大）尺寸系列和C（緊湊型）尺寸系列，後兩者都具有發射[9×19毫米和](../Page/9×19mm魯格彈.md "wikilink")[.40 S\&W手枪子彈版本](../Page/.40_S&W.md "wikilink")，並且分別命名為**L9-A1**、**L40-A1**、**C9-A1**和**C40-A1**。
 
 ## 設計細節
 
@@ -33,16 +28,13 @@ S\&W手枪子彈版本](../Page/.40_S&W.md "wikilink")，並且分別命名為**
 
 ## 衍生型
 
-2004年，該手槍的改進版本生產取代了斯泰爾M。新型的斯泰爾M-A1和S-A1手槍獲得了一些改進。手槍的握把紋理表面已經進行了重新設計，並將握把底部的厚度變薄的同時，彈匣插槽亦有著方便拔出彈匣的半圓凹陷修改（使用相同的彈匣），[人體工程學設計已經略有改變以提高緊握力和舒適度](../Page/人因工程学.md "wikilink")，手動保險按鈕現在已經是可選的（不適用於在美國銷售的型號，美國進口型取消了手動保險），並且將原來手槍底把前方的專用附件安裝導軌都改為一條整體式[STANAG
-2324皮卡汀尼導軌](../Page/皮卡汀尼導軌.md "wikilink")，這種標準導軌可更廣泛配裝市面上流行的各種[戰術燈](../Page/戰術燈.md "wikilink")、雷射瞄準器等通用手槍附件。\[20\]其後“第二代”還裝上有經過修改的以更輕易抽出彈殼。
+2004年，該手槍的改進版本生產取代了斯泰爾M。新型的斯泰爾M-A1和S-A1手槍獲得了一些改進。手槍的握把紋理表面已經進行了重新設計，並將握把底部的厚度變薄的同時，彈匣插槽亦有著方便拔出彈匣的半圓凹陷修改（使用相同的彈匣），[人體工程學設計已經略有改變以提高緊握力和舒適度](../Page/人因工程学.md "wikilink")，手動保險按鈕現在已經是可選的（不適用於在美國銷售的型號，美國進口型取消了手動保險），並且將原來手槍底把前方的專用附件安裝導軌都改為一條整體式[STANAG 2324皮卡汀尼導軌](../Page/皮卡汀尼導軌.md "wikilink")，這種標準導軌可更廣泛配裝市面上流行的各種[戰術燈](../Page/戰術燈.md "wikilink")、雷射瞄準器等通用手槍附件。\[20\]其後“第二代”還裝上有經過修改的以更輕易抽出彈殼。
 
 2010年，美國開始重新導入斯泰爾M-A1和S-A1手槍。\[21\]全新導入的“第三代”斯泰爾M和S具有經過修改並且印有斯泰爾武器公司標誌的套筒。自20109年全新導入的型號在套筒以內照門正下方具有滑滾銷、同時具有改進型扳機以改進扳機扣力，以及9毫米口徑的L9-A1、M9-A1、C9-A1和S9-A1型號均可使用相同的17發可拆卸式雙排鋼製[彈匣](../Page/彈匣.md "wikilink")（彈匣裝上了+2發底座板以增加容量）。
 
-同樣在2010年，斯泰爾再推出尺寸介乎在M-A1與S-A1之間的**C-A1**系列，並具有發射[9×19毫米和](../Page/9×19mm魯格彈.md "wikilink")[.40
-S\&W手枪子彈版本](../Page/.40_S&W.md "wikilink")，並且分別命名為C9-A1和C40-A1。這款C型（緊湊型）在外形上可是將S型（袖珍型／小型）的槍管長度搭載於M型（中型）外形的握把以上。意大利的C9-A1只提供[9×21毫米IMI口徑版本](https://zh.wikipedia.org/wiki/9×21mm_IMI "wikilink")。與此同時可觸可視式被取消了。握把的設計得到進一步改進，從而使武器的使用者具有更好的手感。
+同樣在2010年，斯泰爾再推出尺寸介乎在M-A1與S-A1之間的**C-A1**系列，並具有發射[9×19毫米和](../Page/9×19mm魯格彈.md "wikilink")[.40 S\&W手枪子彈版本](../Page/.40_S&W.md "wikilink")，並且分別命名為C9-A1和C40-A1。這款C型（緊湊型）在外形上可是將S型（袖珍型／小型）的槍管長度搭載於M型（中型）外形的握把以上。意大利的C9-A1只提供[9×21毫米IMI口徑版本](https://zh.wikipedia.org/wiki/9×21mm_IMI "wikilink")。與此同時可觸可視式被取消了。握把的設計得到進一步改進，從而使武器的使用者具有更好的手感。
 
-2013年，斯泰爾再推出M-A1的長套筒型L-A1系列，這使得在斯泰爾M型（中型）、斯泰爾C型（緊湊型）與斯泰爾S型（袖珍型／小型）等外形尺寸以外可以藉由斯泰爾L型（大型）尺寸的**L-A1**系列相互補救；同樣地，L-A1具有發射[9×19毫米和](../Page/9×19mm魯格彈.md "wikilink")[.40
-S\&W手枪子彈版本](../Page/.40_S&W.md "wikilink")，並且分別命名為L9-A1和L40-A1，分別以17發+2發底座板型可拆卸式雙排鋼製[彈匣](../Page/彈匣.md "wikilink")與12發可拆卸式雙排鋼製彈匣。L-A1系列在延長了的套筒的前側部以上具有鋸齒狀防滑紋和115毫米（4.53英吋）的[槍管](../Page/槍管.md "wikilink")長度，使之更符合其他槍械製造商所提供的全尺寸制式手槍。
+2013年，斯泰爾再推出M-A1的長套筒型L-A1系列，這使得在斯泰爾M型（中型）、斯泰爾C型（緊湊型）與斯泰爾S型（袖珍型／小型）等外形尺寸以外可以藉由斯泰爾L型（大型）尺寸的**L-A1**系列相互補救；同樣地，L-A1具有發射[9×19毫米和](../Page/9×19mm魯格彈.md "wikilink")[.40 S\&W手枪子彈版本](../Page/.40_S&W.md "wikilink")，並且分別命名為L9-A1和L40-A1，分別以17發+2發底座板型可拆卸式雙排鋼製[彈匣](../Page/彈匣.md "wikilink")與12發可拆卸式雙排鋼製彈匣。L-A1系列在延長了的套筒的前側部以上具有鋸齒狀防滑紋和115毫米（4.53英吋）的[槍管](../Page/槍管.md "wikilink")長度，使之更符合其他槍械製造商所提供的全尺寸制式手槍。
 
 <table>
 <thead>
@@ -227,8 +219,7 @@ S\&W手枪子彈版本](../Page/.40_S&W.md "wikilink")，並且分別命名為L9
 
 ## 分配
 
-[Steyr_M-A1_M40-A1_mit_1_Magazin_und_Blockierschlüssel.jpg](https://zh.wikipedia.org/wiki/File:Steyr_M-A1_M40-A1_mit_1_Magazin_und_Blockierschlüssel.jpg "fig:Steyr_M-A1_M40-A1_mit_1_Magazin_und_Blockierschlüssel.jpg")
-斯泰爾武器公司在美國的獨家經銷商為斯泰爾武器公司，郵政信箱840特魯斯維爾，AL35173。
+[Steyr_M-A1_M40-A1_mit_1_Magazin_und_Blockierschlüssel.jpg](https://zh.wikipedia.org/wiki/File:Steyr_M-A1_M40-A1_mit_1_Magazin_und_Blockierschlüssel.jpg "fig:Steyr_M-A1_M40-A1_mit_1_Magazin_und_Blockierschlüssel.jpg") 斯泰爾武器公司在美國的獨家經銷商為斯泰爾武器公司，郵政信箱840特魯斯維爾，AL35173。
 
 ## 使用國
 
@@ -258,31 +249,16 @@ S\&W手枪子彈版本](../Page/.40_S&W.md "wikilink")，並且分別命名為L9
 
 ### 電影
 
-  - 2012年—《[-{zh-cn:藏身之所;zh-hk:滅口佈局;
-    zh-tw:狡兔計畫;}-](../Page/狡兔計畫.md "wikilink")》：型號為M9-A1，被叛逃的資深探員托賓·佛斯特（Tobin
-    Frost，[丹泽尔·华盛顿](../Page/丹泽尔·华盛顿.md "wikilink")飾演）作為他在[開普敦](../Page/開普敦.md "wikilink")的所使用。
-  - 2012年—《[-{zh:即刻救援; zh-cn:飓风营救; zh-tw:即刻救援;
-    zh-hk:救參96小時;}-2](../Page/即刻救援2.md "wikilink")》：型號為M9-A1，原來被主角布賴恩·米爾斯（Bryan
-    Mills，[連恩·尼遜](../Page/連恩·尼遜.md "wikilink")飾演）所使用，其後於電影最後場景中被馬爾科的父親及黑幫頭目穆拉德·霍查（Murad
-    Hoxha，[雷德·瑟貝佳飾演](https://zh.wikipedia.org/wiki/雷德·瑟貝佳 "wikilink")）所奪取。
-  - 2012年—《[-{zh-cn:007：大破天幕杀机; zh-tw:007：空降危機;
-    zh-hk:新鐵金剛：智破天凶城;}-](../Page/007：大破天幕杀机.md "wikilink")》：型號為M9-A1，在澳門賭場被珊妮亞·岳納托的保鏢（[羅傑·元飾演](https://zh.wikipedia.org/wiki/羅傑·元 "wikilink")）；亦被前[秘密情報局](../Page/秘密情報局.md "wikilink")特務洛烏·西法（Raoul
-    Silva，[哈維爾·巴登](../Page/哈維爾·巴登.md "wikilink")飾演）所使用，但其手槍被（[茱蒂·丹契](../Page/茱蒂·丹契.md "wikilink")飾演）拆掉。
-  - 2015年—《[-{zh:即刻救援; zh-cn:飓风营救; zh-tw:即刻救援;
-    zh-hk:救參96小時;}-3](../Page/即刻救援3.md "wikilink")》：型號為M9-A1，被主角布賴恩·米爾斯（Bryan
-    Mills，[連恩·尼遜](../Page/連恩·尼遜.md "wikilink")飾演）所使用。
+  - 2012年—《[-{zh-cn:藏身之所;zh-hk:滅口佈局; zh-tw:狡兔計畫;}-](../Page/狡兔計畫.md "wikilink")》：型號為M9-A1，被叛逃的資深探員托賓·佛斯特（Tobin Frost，[丹泽尔·华盛顿](../Page/丹泽尔·华盛顿.md "wikilink")飾演）作為他在[開普敦](../Page/開普敦.md "wikilink")的所使用。
+  - 2012年—《[-{zh:即刻救援; zh-cn:飓风营救; zh-tw:即刻救援; zh-hk:救參96小時;}-2](../Page/即刻救援2.md "wikilink")》：型號為M9-A1，原來被主角布賴恩·米爾斯（Bryan Mills，[連恩·尼遜](../Page/連恩·尼遜.md "wikilink")飾演）所使用，其後於電影最後場景中被馬爾科的父親及黑幫頭目穆拉德·霍查（Murad Hoxha，[雷德·瑟貝佳飾演](https://zh.wikipedia.org/wiki/雷德·瑟貝佳 "wikilink")）所奪取。
+  - 2012年—《[-{zh-cn:007：大破天幕杀机; zh-tw:007：空降危機; zh-hk:新鐵金剛：智破天凶城;}-](../Page/007：大破天幕杀机.md "wikilink")》：型號為M9-A1，在澳門賭場被珊妮亞·岳納托的保鏢（[羅傑·元飾演](https://zh.wikipedia.org/wiki/羅傑·元 "wikilink")）；亦被前[秘密情報局](../Page/秘密情報局.md "wikilink")特務洛烏·西法（Raoul Silva，[哈維爾·巴登](../Page/哈維爾·巴登.md "wikilink")飾演）所使用，但其手槍被（[茱蒂·丹契](../Page/茱蒂·丹契.md "wikilink")飾演）拆掉。
+  - 2015年—《[-{zh:即刻救援; zh-cn:飓风营救; zh-tw:即刻救援; zh-hk:救參96小時;}-3](../Page/即刻救援3.md "wikilink")》：型號為M9-A1，被主角布賴恩·米爾斯（Bryan Mills，[連恩·尼遜](../Page/連恩·尼遜.md "wikilink")飾演）所使用。
 
 ### 電視劇
 
   - 2014年—《24：再活一天》（24: Live Another Day）：型號為M9-A1和S9-A1：
-      - 第6集（播出順序為第198集）“Day 9: 4:00 p.m. – 5:00 p.m.”之中，原來被卡爾·拉斯克（Karl
-        Rask，[阿克塞爾·亨尼飾演](https://zh.wikipedia.org/wiki/阿克塞爾·亨尼 "wikilink")）威脅主角[-{zh-hans:杰克·鲍尔;
-        zh-hk:包智傑; zh-tw:傑克·鮑爾;}-](../Page/傑克·鮑爾.md "wikilink")（Jack
-        Bauer，[-{zh-cn:基弗·萨瑟兰; zh-tw:基佛·蘇德蘭;
-        zh-hk:基夫·修打蘭;}-飾演](../Page/基夫·修打蘭.md "wikilink")）時所使用，其後被-{zh-hans:杰克·鲍尔;
-        zh-hk:包智傑; zh-tw:傑克·鮑爾;}-所奪取。
-      - 第6集（播出順序為第198集）“Day 9: 4:00 p.m. – 5:00 p.m.”之中，被CIA探員凱特·摩根（Kate
-        Morgan）作為所使用。
+      - 第6集（播出順序為第198集）“Day 9: 4:00 p.m. – 5:00 p.m.”之中，原來被卡爾·拉斯克（Karl Rask，[阿克塞爾·亨尼飾演](https://zh.wikipedia.org/wiki/阿克塞爾·亨尼 "wikilink")）威脅主角[-{zh-hans:杰克·鲍尔; zh-hk:包智傑; zh-tw:傑克·鮑爾;}-](../Page/傑克·鮑爾.md "wikilink")（Jack Bauer，[-{zh-cn:基弗·萨瑟兰; zh-tw:基佛·蘇德蘭; zh-hk:基夫·修打蘭;}-飾演](../Page/基夫·修打蘭.md "wikilink")）時所使用，其後被-{zh-hans:杰克·鲍尔; zh-hk:包智傑; zh-tw:傑克·鮑爾;}-所奪取。
+      - 第6集（播出順序為第198集）“Day 9: 4:00 p.m. – 5:00 p.m.”之中，被CIA探員凱特·摩根（Kate Morgan）作為所使用。
 
 ### 电子游戏
 
@@ -290,24 +266,16 @@ S\&W手枪子彈版本](../Page/.40_S&W.md "wikilink")，並且分別命名為L9
 
 ### 動漫
 
-  - 2002年—《[-{zh-cn:全金属狂潮;
-    zh-tw:驚爆危機;}-](../Page/驚爆危機.md "wikilink")》：型號為M9，被策反的西太平洋戰隊特別對應班成員關·濱部（グェン・ビェン・ボー，[聲優](../Page/聲優.md "wikilink")：[岩松
-    廉](https://zh.wikipedia.org/wiki/福山廉士 "wikilink")）所使用。
-  - 2003年—《[神槍少女
-    Teatrino](../Page/神槍少女.md "wikilink")：Il》：型號為M9-A1，裝上[戰術燈](../Page/戰術燈.md "wikilink")並且被安潔麗卡（アンジェリカ，Angelica，[聲優](../Page/聲優.md "wikilink")：[寺門仁美](https://zh.wikipedia.org/wiki/寺門仁美 "wikilink")／[花澤香菜](../Page/花澤香菜.md "wikilink")）作為所使用。
+  - 2002年—《[-{zh-cn:全金属狂潮; zh-tw:驚爆危機;}-](../Page/驚爆危機.md "wikilink")》：型號為M9，被策反的西太平洋戰隊特別對應班成員關·濱部（グェン・ビェン・ボー，[聲優](../Page/聲優.md "wikilink")：[岩松 廉](https://zh.wikipedia.org/wiki/福山廉士 "wikilink")）所使用。
+  - 2003年—《[神槍少女 Teatrino](../Page/神槍少女.md "wikilink")：Il》：型號為M9-A1，裝上[戰術燈](../Page/戰術燈.md "wikilink")並且被安潔麗卡（アンジェリカ，Angelica，[聲優](../Page/聲優.md "wikilink")：[寺門仁美](https://zh.wikipedia.org/wiki/寺門仁美 "wikilink")／[花澤香菜](../Page/花澤香菜.md "wikilink")）作為所使用。
 
 ### [輕小說](../Page/輕小說.md "wikilink")
 
-  - 2014年—《[刀劍神域外傳Gun Gale
-    Online](../Page/刀劍神域外傳Gun_Gale_Online.md "wikilink")》：被“MMTM”小隊隊長“大衛”作為配槍所使用。
+  - 2014年—《[刀劍神域外傳Gun Gale Online](../Page/刀劍神域外傳Gun_Gale_Online.md "wikilink")》：被“MMTM”小隊隊長“大衛”作為配槍所使用。
 
 ## 圖集
 
-[File:SteyrM9.JPG|原來的斯泰爾M9](File:SteyrM9.JPG%7C原來的斯泰爾M9)。 <File:Steyr>
-M-A1 1.jpg|“第二代”標準型斯泰爾M9-A1 <File:Steyr> S-A1.jpg|“第二代”緊湊型斯泰爾S9-A1
-<File:Steyr> adjustable pistol sights.png|斯泰爾可調節式手槍瞄準具。 <File:Steyr>
-rectangular pistol sights.png|斯泰爾長方形手槍瞄準具。 <File:Steyr> triangular
-pistols sights.png|斯泰爾三角形／梯形手槍瞄準具。
+[File:SteyrM9.JPG|原來的斯泰爾M9](File:SteyrM9.JPG%7C原來的斯泰爾M9)。 <File:Steyr> M-A1 1.jpg|“第二代”標準型斯泰爾M9-A1 <File:Steyr> S-A1.jpg|“第二代”緊湊型斯泰爾S9-A1 <File:Steyr> adjustable pistol sights.png|斯泰爾可調節式手槍瞄準具。 <File:Steyr> rectangular pistol sights.png|斯泰爾長方形手槍瞄準具。 <File:Steyr> triangular pistols sights.png|斯泰爾三角形／梯形手槍瞄準具。
 
 ## 參見
 
@@ -340,193 +308,118 @@ pistols sights.png|斯泰爾三角形／梯形手槍瞄準具。
 
   - —Steyr Mannlicher—official site—
 
-      - [STEYR PISTOLE
-        L-A1](http://www.steyr-mannlicher.com/en/sporting-weapons/steyr-pistol-l-a1/)
-      - [STEYR PISTOL
-        M-A1](http://www.steyr-mannlicher.com/en/sporting-weapons/steyr-pistol-m-a1/)
-      - [STEYR PISTOLE
-        S-A1](http://www.steyr-mannlicher.com/en/sporting-weapons/steyr-pistol-s-a1/)
-      - [STEYR PISTOLS M-A1 / S-A1 /
-        C-A1](https://web.archive.org/web/20140711114114/http://www.steyr-mannlicher.com/en/military-law-enf/steyr-pistols/)
+      - [STEYR PISTOLE L-A1](http://www.steyr-mannlicher.com/en/sporting-weapons/steyr-pistol-l-a1/)
+      - [STEYR PISTOL M-A1](http://www.steyr-mannlicher.com/en/sporting-weapons/steyr-pistol-m-a1/)
+      - [STEYR PISTOLE S-A1](http://www.steyr-mannlicher.com/en/sporting-weapons/steyr-pistol-s-a1/)
+      - [STEYR PISTOLS M-A1 / S-A1 / C-A1](https://web.archive.org/web/20140711114114/http://www.steyr-mannlicher.com/en/military-law-enf/steyr-pistols/)
 
   - —Steyr Mannlicher—official page—USA—
 
-      - [Steyr Pistol
-        L-A1](http://www.steyrarms.com/products/sporting-riflespistols/new-steyr-pistol-l-a1/)
-      - [Steyr Pistol
-        M-A1](http://www.steyrarms.com/products/sporting-rifles/steyr-pistol-m-a1/)
-      - [Steyr Pistol
-        C-A1](http://www.steyrarms.com/products/sporting-riflespistols/steyr-pistol-c-a1/)
-      - [Steyr Pistol
-        S-A1](http://www.steyrarms.com/products/sporting-riflespistols/steyr-pistol-s-a1/)
+      - [Steyr Pistol L-A1](http://www.steyrarms.com/products/sporting-riflespistols/new-steyr-pistol-l-a1/)
+      - [Steyr Pistol M-A1](http://www.steyrarms.com/products/sporting-rifles/steyr-pistol-m-a1/)
+      - [Steyr Pistol C-A1](http://www.steyrarms.com/products/sporting-riflespistols/steyr-pistol-c-a1/)
+      - [Steyr Pistol S-A1](http://www.steyrarms.com/products/sporting-riflespistols/steyr-pistol-s-a1/)
 
-  - —[Steyr M-A1 instruction
-    manual](http://www.steyr-mannlicher.com/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/content_mannlicher.com/Downloads/Downloads_English/Instruction_manuals_according_to_US_Standard/STEYR_M-A1_PISTOL.pdf&t=1232465671&hash=4271f332f5627fbf91397b8e82c36726)
+  - —[Steyr M-A1 instruction manual](http://www.steyr-mannlicher.com/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/content_mannlicher.com/Downloads/Downloads_English/Instruction_manuals_according_to_US_Standard/STEYR_M-A1_PISTOL.pdf&t=1232465671&hash=4271f332f5627fbf91397b8e82c36726)
 
-  - —[Steyr S-A1 instruction
-    manual](http://www.steyr-mannlicher.com/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/content_mannlicher.com/Downloads/Downloads_English/Instruction_manuals_according_to_US_Standard/STEYR_S-A1_PISTOL.pdf&t=1232465671&hash=edd8583c099771c2fe851f6a0cd51576)
+  - —[Steyr S-A1 instruction manual](http://www.steyr-mannlicher.com/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/content_mannlicher.com/Downloads/Downloads_English/Instruction_manuals_according_to_US_Standard/STEYR_S-A1_PISTOL.pdf&t=1232465671&hash=edd8583c099771c2fe851f6a0cd51576)
 
-  - —[The Sight M1911A1—Steyr M series history and
-    review](http://www.sightm1911.com/lib/review/steyr40.htm)
+  - —[The Sight M1911A1—Steyr M series history and review](http://www.sightm1911.com/lib/review/steyr40.htm)
 
-  - —[Steyr M9—brief article Guns Magazine, Oct 1999, by Massad
-    Ayoob](http://findarticles.com/p/articles/mi_m0BQY/is_10_45/ai_55605820?tag=content;col1)
+  - —[Steyr M9—brief article Guns Magazine, Oct 1999, by Massad Ayoob](http://findarticles.com/p/articles/mi_m0BQY/is_10_45/ai_55605820?tag=content;col1)
 
-  - —[Remtek.com—STEYR M & S-SERIES
-    PISTOLS](http://remtek.com/arms/steyr/msseries/index.htm)
+  - —[Remtek.com—STEYR M & S-SERIES PISTOLS](http://remtek.com/arms/steyr/msseries/index.htm)
 
-  - —[Modern firearms—Steyr M and M-1A
-    pistol](http://world.guns.ru/handguns/hg/at/steyr-m-e.html)
+  - —[Modern firearms—Steyr M and M-1A pistol](http://world.guns.ru/handguns/hg/at/steyr-m-e.html)
 
-  - —[Steyr-AUG.com—"M" and "S" Series
-    Pistols](http://www.steyr-aug.com/m_series_pistols.htm)
+  - —[Steyr-AUG.com—"M" and "S" Series Pistols](http://www.steyr-aug.com/m_series_pistols.htm)
 
   - —The Firearm Blog.com—
 
-      - [Steyr Arms no longer importing Steyr
-        pistols](http://www.thefirearmblog.com/blog/2009/03/02/steyr-arms-no-longer-importing-steyr-pistols/)
-      - [Steyr Arms again importing MA1 and SA1
-        pistols](http://www.thefirearmblog.com/blog/2010/08/03/steyr-arms-again-importing-ma1-and-sa1-pistols/)
-      - [Steyr improves SA-1 and MA-1
-        trigger](http://www.thefirearmblog.com/blog/2010/12/17/steyr-improves-sa-1-and-ma-1-trigger/)
-      - [Steyr C9-A1 Compact
-        Pistol](http://www.thefirearmblog.com/blog/2011/04/01/steyr-c9-a1-compact-pistol/)
-      - [Steyr Launches The
-        L9-A1](http://www.thefirearmblog.com/blog/2013/07/07/steyr-launches-l9-a1/)
-      - [Steyr Arms Full-Size L-A1 Service
-        Pistol](http://www.thefirearmblog.com/blog/2013/12/16/steyr-arms-full-size-l-a1-service-pistol/)
-      - [Steyr L40-A1Now Available in
-        USA](http://www.thefirearmblog.com/blog/2014/07/01/steyr-l40-a1now-available-usa/)
-      - [TFBTV Doing What We Do: Shooting
-        Compilation](http://www.thefirearmblog.com/blog/2016/05/02/tfbtv-shooting-compilation/)
-      - [Steyr M9A1
-        Review](http://www.thefirearmblog.com/blog/2016/06/15/steyr-m9a1-review/)
+      - [Steyr Arms no longer importing Steyr pistols](http://www.thefirearmblog.com/blog/2009/03/02/steyr-arms-no-longer-importing-steyr-pistols/)
+      - [Steyr Arms again importing MA1 and SA1 pistols](http://www.thefirearmblog.com/blog/2010/08/03/steyr-arms-again-importing-ma1-and-sa1-pistols/)
+      - [Steyr improves SA-1 and MA-1 trigger](http://www.thefirearmblog.com/blog/2010/12/17/steyr-improves-sa-1-and-ma-1-trigger/)
+      - [Steyr C9-A1 Compact Pistol](http://www.thefirearmblog.com/blog/2011/04/01/steyr-c9-a1-compact-pistol/)
+      - [Steyr Launches The L9-A1](http://www.thefirearmblog.com/blog/2013/07/07/steyr-launches-l9-a1/)
+      - [Steyr Arms Full-Size L-A1 Service Pistol](http://www.thefirearmblog.com/blog/2013/12/16/steyr-arms-full-size-l-a1-service-pistol/)
+      - [Steyr L40-A1Now Available in USA](http://www.thefirearmblog.com/blog/2014/07/01/steyr-l40-a1now-available-usa/)
+      - [TFBTV Doing What We Do: Shooting Compilation](http://www.thefirearmblog.com/blog/2016/05/02/tfbtv-shooting-compilation/)
+      - [Steyr M9A1 Review](http://www.thefirearmblog.com/blog/2016/06/15/steyr-m9a1-review/)
 
   - —The Truth About Guns.com—
 
-      - [Steyr Arms To Sell MA-1 and SA-1. Again.
-        Still.](http://www.thetruthaboutguns.com/2010/07/robert-farago/14843/)
-      - [SHOT Show: Trigger Happy M40-A1 Handgun No Bum
-        Styr](http://www.thetruthaboutguns.com/2011/01/robert-farago/shot-show-trigger-happy-m40-a1-handgun-no-bum-styr/)
-      - [Obscure Object of Desire: Steyr M9 and
-        M40](http://www.thetruthaboutguns.com/2011/01/yankee-gun-nuts/obscure-object-of-desire-steyr-m9-and-m40/)
-      - [Goldilocks Gun? Steyr Arms C9-A1
-        Handgun](http://www.thetruthaboutguns.com/2011/03/robert-farago/goldilocks-gun-steyr-arms-c9-a1-handgun/)
-      - [Gun Review: Steyr
-        M9A1](http://www.thetruthaboutguns.com/2012/03/joe-grine/gun-review-steyr-m9a1/)
-      - [New From Steyr Arms: L-A1 Service
-        Pistol](http://www.thetruthaboutguns.com/2013/12/robert-farago/new-steyr-arms-l-a1-service-pistol/)
-      - [Gun Review: Steyr L9-A1 9mm
-        Pistol](http://www.thetruthaboutguns.com/2016/08/daniel-zimmerman/gun-review-steyr-l9-a1-9mm-pistol/)
+      - [Steyr Arms To Sell MA-1 and SA-1. Again. Still.](http://www.thetruthaboutguns.com/2010/07/robert-farago/14843/)
+      - [SHOT Show: Trigger Happy M40-A1 Handgun No Bum Styr](http://www.thetruthaboutguns.com/2011/01/robert-farago/shot-show-trigger-happy-m40-a1-handgun-no-bum-styr/)
+      - [Obscure Object of Desire: Steyr M9 and M40](http://www.thetruthaboutguns.com/2011/01/yankee-gun-nuts/obscure-object-of-desire-steyr-m9-and-m40/)
+      - [Goldilocks Gun? Steyr Arms C9-A1 Handgun](http://www.thetruthaboutguns.com/2011/03/robert-farago/goldilocks-gun-steyr-arms-c9-a1-handgun/)
+      - [Gun Review: Steyr M9A1](http://www.thetruthaboutguns.com/2012/03/joe-grine/gun-review-steyr-m9a1/)
+      - [New From Steyr Arms: L-A1 Service Pistol](http://www.thetruthaboutguns.com/2013/12/robert-farago/new-steyr-arms-l-a1-service-pistol/)
+      - [Gun Review: Steyr L9-A1 9mm Pistol](http://www.thetruthaboutguns.com/2016/08/daniel-zimmerman/gun-review-steyr-l9-a1-9mm-pistol/)
 
   - —Guns & Ammo.com—
 
-      - [Steyr C9-A1
-        Review](http://www.gunsandammo.com/reviews/steyr-c9-a1-review/)
-      - [First Look: Steyr
-        L40-A1](http://www.gunsandammo.com/news/first-look-steyr-l40-a1/)
+      - [Steyr C9-A1 Review](http://www.gunsandammo.com/reviews/steyr-c9-a1-review/)
+      - [First Look: Steyr L40-A1](http://www.gunsandammo.com/news/first-look-steyr-l40-a1/)
 
   - —Handguns Magazine.com—
 
-      - [Steyr Arms Importing Additional
-        Pistols\!](http://www.handgunsmag.com/uncategorized/hg_steyradditionalpistols_080210wo/)
-      - [New Steyr High-Capacity
-        C9-A1](http://www.handgunsmag.com/uncategorized/hg_new_steyr_high-capacity_c9-a1/)
-      - [Introducing the Steyr
-        L9-A1](http://www.handgunsmag.com/shot-show-2013/introducing-the-steyr-l9-a1/)
-      - [Steyr L9A1
-        Review](http://www.handgunsmag.com/reviews/steyr-l9a1-review/)
+      - [Steyr Arms Importing Additional Pistols\!](http://www.handgunsmag.com/uncategorized/hg_steyradditionalpistols_080210wo/)
+      - [New Steyr High-Capacity C9-A1](http://www.handgunsmag.com/uncategorized/hg_new_steyr_high-capacity_c9-a1/)
+      - [Introducing the Steyr L9-A1](http://www.handgunsmag.com/shot-show-2013/introducing-the-steyr-l9-a1/)
+      - [Steyr L9A1 Review](http://www.handgunsmag.com/reviews/steyr-l9a1-review/)
 
-  - —[Shotgun News.com—Steyr L40-A1
-    Pistol](http://www.handgunsmag.com/reviews/steyr-l9a1-review/)
+  - —[Shotgun News.com—Steyr L40-A1 Pistol](http://www.handgunsmag.com/reviews/steyr-l9a1-review/)
 
-  - —[Firearms News.com—Review: Steyr
-    L40-A1](http://www.firearmsnews.com/reviews/review-steyr-l40-a1/)
+  - —[Firearms News.com—Review: Steyr L40-A1](http://www.firearmsnews.com/reviews/review-steyr-l40-a1/)
 
   - —Tactical Life.com—
 
-      - [STEYR ARMS
-        C9-A1 9mm](http://www.tactical-life.com/combat-handguns/steyr-arms-c9-a1-9mm/)
-      - [STEYR
-        M9-A1 9mm](http://www.tactical-life.com/magazines/guns-and-weapons/steyr-m9-a1-9mm/)
-      - [STEYR .40 A1
-        SERIES](http://www.tactical-life.com/combat-handguns/steyr-40-a1-series/)
-      - [Steyr Arms
-        C9-A1](http://www.tactical-life.com/magazines/guns-and-weapons/steyr-c9-a1/)
-      - [Steyr Arms L40-A1 .40 S\&W Hits American
-        Market](http://www.tactical-life.com/firearms/steyr-arms-l40-a1-40-sw/)
-      - [Combat Handguns’ Top Handguns of 2013
-        Infographic](http://www.tactical-life.com/combat-handguns/combat-handguns-top-handguns-of-2013-infographic/)
-      - [Combat Handgun’s 25 ‘Can’t Miss’ List For 2014－Steyr
-        M40-A1](http://www.tactical-life.com/firearms/combat-handguns-25-cant-miss-list-for-2014/13/)
-      - [Top 18 Full-Size Guns From COMBAT HANDGUNS in 2014—STEYR ARMS
-        L9-A1](http://www.tactical-life.com/firearms/full-size-gun-combat-handguns-2014/13/#top-18-full-size-2014-steyr-l9-lead)
-      - [LEO Strikers: 11 Compact Striker-Fired
-        Pistols](http://www.tactical-life.com/firearms/leo-strikers-11-compact-striker-fired-pistols/#gwon15-sfp-steyr)
+      - [STEYR ARMS C9-A1 9mm](http://www.tactical-life.com/combat-handguns/steyr-arms-c9-a1-9mm/)
+      - [STEYR M9-A1 9mm](http://www.tactical-life.com/magazines/guns-and-weapons/steyr-m9-a1-9mm/)
+      - [STEYR .40 A1 SERIES](http://www.tactical-life.com/combat-handguns/steyr-40-a1-series/)
+      - [Steyr Arms C9-A1](http://www.tactical-life.com/magazines/guns-and-weapons/steyr-c9-a1/)
+      - [Steyr Arms L40-A1 .40 S\&W Hits American Market](http://www.tactical-life.com/firearms/steyr-arms-l40-a1-40-sw/)
+      - [Combat Handguns’ Top Handguns of 2013 Infographic](http://www.tactical-life.com/combat-handguns/combat-handguns-top-handguns-of-2013-infographic/)
+      - [Combat Handgun’s 25 ‘Can’t Miss’ List For 2014－Steyr M40-A1](http://www.tactical-life.com/firearms/combat-handguns-25-cant-miss-list-for-2014/13/)
+      - [Top 18 Full-Size Guns From COMBAT HANDGUNS in 2014—STEYR ARMS L9-A1](http://www.tactical-life.com/firearms/full-size-gun-combat-handguns-2014/13/#top-18-full-size-2014-steyr-l9-lead)
+      - [LEO Strikers: 11 Compact Striker-Fired Pistols](http://www.tactical-life.com/firearms/leo-strikers-11-compact-striker-fired-pistols/#gwon15-sfp-steyr)
 
   - —Personal Defense World.com—
 
-      - [Steyr
-        C9-A1](http://www.personaldefenseworld.com/2012/10/steyr-c9-a1/?scrape=true)
-      - [Steyr at SHOT
-        Show 2013](http://www.personaldefenseworld.com/2013/01/steyr-at-shot-show-2013/?scrape=true)
-      - [Steyr
-        S40-A1](http://www.personaldefenseworld.com/2013/03/steyr-s40-a1/?scrape=true)
-      - [SNEAK PEEK: STEYR
-        L9-A1 9mm](http://www.personaldefenseworld.com/2013/07/sneak-peek-steyr-l9-a1-9mm/?scrape=true)
-      - [STEYR
-        L9-A1 9mm](http://www.personaldefenseworld.com/2013/08/steyr-l9-a1/?scrape=true)
-      - [Steyr M40-A1 | Gun
-        Preview](http://www.personaldefenseworld.com/2014/01/preview-steyr-m40-a1-gun-review/?scrape=true)
-      - [Steyr Arms L9-A1 Pistol & AUG M1 Rifle – New for 2014 |
-        VIDEO](http://www.personaldefenseworld.com/2014/01/steyr-new-2014-video/?scrape=true)
-      - [Top Handguns of 2013
-        Infographic](http://www.personaldefenseworld.com/2014/02/top-handguns-2013-infographic/?scrape=true)
-      - [Steyr Arms M40-A1 .40 Caliber
-        Handgun](http://www.personaldefenseworld.com/2014/04/steyr-arms-m40-a1-40-caliber-handgun/?scrape=true)
-      - [Steyr Unveils L40-A1 .40 S\&W for American
-        Market](http://www.personaldefenseworld.com/2014/06/steyr-unveils-l40-a1-40-sw-american-market/?scrape=true)
-      - [Preview: Steyr’s Striker-Fired L9-A1
-        Powerhouse](http://www.personaldefenseworld.com/2014/09/preview-steyrs-striker-fired-l9-a1-powerhouse/)
-      - [40 Autopistols From CONCEALED CARRY
-        HANDGUNS 2016](http://www.personaldefenseworld.com/2015/10/40-autopistols-from-concealed-carry-handguns-2016/#steyr-s9-a1)
-      - [VIDEO: Test-Firing Steyr’s Innovative, Light-Recoiling
-        S9-A1](http://www.personaldefenseworld.com/2015/11/sneak-peek-test-firing-steyrs-innovative-light-recoiling-s9-a1/)
-      - [25 Compact Carry Handguns For
-        Self-Defense](http://www.personaldefenseworld.com/2015/11/25-compact-carry-handguns-for-self-defense/#steyr-l-a1)
-      - [Concealed Carry Comparison: Steyr M40-A1 vs. HK
-        VP40](http://www.personaldefenseworld.com/2016/01/concealed-carry-comparison-steyr-m40-a1-vs-hk-vp40/#steyr-m40-a1-vs-hk-vp40)
-      - [Striking Nine: The Steyr S9-A1
-        Pistol](http://www.personaldefenseworld.com/2016/04/82261/#steyr-s9-a1-lead)
-      - [25 Proven and Popular Concealed Carry
-        Handguns](http://www.personaldefenseworld.com/2016/05/25-proven-and-popular-concealed-carry-handguns/#steyr-s9-a1-3)
+      - [Steyr C9-A1](http://www.personaldefenseworld.com/2012/10/steyr-c9-a1/?scrape=true)
+      - [Steyr at SHOT Show 2013](http://www.personaldefenseworld.com/2013/01/steyr-at-shot-show-2013/?scrape=true)
+      - [Steyr S40-A1](http://www.personaldefenseworld.com/2013/03/steyr-s40-a1/?scrape=true)
+      - [SNEAK PEEK: STEYR L9-A1 9mm](http://www.personaldefenseworld.com/2013/07/sneak-peek-steyr-l9-a1-9mm/?scrape=true)
+      - [STEYR L9-A1 9mm](http://www.personaldefenseworld.com/2013/08/steyr-l9-a1/?scrape=true)
+      - [Steyr M40-A1 | Gun Preview](http://www.personaldefenseworld.com/2014/01/preview-steyr-m40-a1-gun-review/?scrape=true)
+      - [Steyr Arms L9-A1 Pistol & AUG M1 Rifle – New for 2014 | VIDEO](http://www.personaldefenseworld.com/2014/01/steyr-new-2014-video/?scrape=true)
+      - [Top Handguns of 2013 Infographic](http://www.personaldefenseworld.com/2014/02/top-handguns-2013-infographic/?scrape=true)
+      - [Steyr Arms M40-A1 .40 Caliber Handgun](http://www.personaldefenseworld.com/2014/04/steyr-arms-m40-a1-40-caliber-handgun/?scrape=true)
+      - [Steyr Unveils L40-A1 .40 S\&W for American Market](http://www.personaldefenseworld.com/2014/06/steyr-unveils-l40-a1-40-sw-american-market/?scrape=true)
+      - [Preview: Steyr’s Striker-Fired L9-A1 Powerhouse](http://www.personaldefenseworld.com/2014/09/preview-steyrs-striker-fired-l9-a1-powerhouse/)
+      - [40 Autopistols From CONCEALED CARRY HANDGUNS 2016](http://www.personaldefenseworld.com/2015/10/40-autopistols-from-concealed-carry-handguns-2016/#steyr-s9-a1)
+      - [VIDEO: Test-Firing Steyr’s Innovative, Light-Recoiling S9-A1](http://www.personaldefenseworld.com/2015/11/sneak-peek-test-firing-steyrs-innovative-light-recoiling-s9-a1/)
+      - [25 Compact Carry Handguns For Self-Defense](http://www.personaldefenseworld.com/2015/11/25-compact-carry-handguns-for-self-defense/#steyr-l-a1)
+      - [Concealed Carry Comparison: Steyr M40-A1 vs. HK VP40](http://www.personaldefenseworld.com/2016/01/concealed-carry-comparison-steyr-m40-a1-vs-hk-vp40/#steyr-m40-a1-vs-hk-vp40)
+      - [Striking Nine: The Steyr S9-A1 Pistol](http://www.personaldefenseworld.com/2016/04/82261/#steyr-s9-a1-lead)
+      - [25 Proven and Popular Concealed Carry Handguns](http://www.personaldefenseworld.com/2016/05/25-proven-and-popular-concealed-carry-handguns/#steyr-s9-a1-3)
 
-  - —[Military, Security and Civilian Guns and Equipment—Steyr M
-    (Series)](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=871)
+  - —[Military, Security and Civilian Guns and Equipment—Steyr M (Series)](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=871)
 
-  - —[Энциклопедия Вооружений－Зиг - Steyr M9 (Штайр
-    М9)](http://gunsite.narod.ru/steyr_m40.htm)
+  - —[Энциклопедия Вооружений－Зиг - Steyr M9 (Штайр М9)](http://gunsite.narod.ru/steyr_m40.htm)
 
-  - —[D Boy Gun
-    World（槍炮世界）—M系列和S系列手枪](http://firearmsworld.net/austria/steyr/ms-p/ms.htm)
+  - —[D Boy Gun World（槍炮世界）—M系列和S系列手枪](http://firearmsworld.net/austria/steyr/ms-p/ms.htm)
 
-[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink")
-[Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink")
-[Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink")
-[Category:.357_SIG口徑槍械](https://zh.wikipedia.org/wiki/Category:.357_SIG口徑槍械 "wikilink")
-[Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink")
+[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink") [Category:.357_SIG口徑槍械](https://zh.wikipedia.org/wiki/Category:.357_SIG口徑槍械 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink")
 
 1.
-2.  Woźniak, Ryszard: *Encyklopedia najnowszej broni palnej—tom 4 R-Z*,
-    page 103. Bellona, 2002.
+2.  Woźniak, Ryszard: *Encyklopedia najnowszej broni palnej—tom 4 R-Z*, page 103. Bellona, 2002.
 
 3.
-4.  Kinard, Jeff: *Pistols: An Illustrated History of Their Impact*,
-    page 276. ABC-CLIO, 2004.
+4.  Kinard, Jeff: *Pistols: An Illustrated History of Their Impact*, page 276. ABC-CLIO, 2004.
 
 5.
-6.  [Steyr M-A1 instruction
-    manual](http://www.steyr-mannlicher.com/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/content_mannlicher.com/Downloads/Downloads_English/Instruction_manuals_according_to_European_Standard/STEYR_M-A1_PISTOL.pdf&t=1230488738&hash=45934d28283eca73ab8f23da911db5b4)
+6.  [Steyr M-A1 instruction manual](http://www.steyr-mannlicher.com/index.php?eID=tx_nawsecuredl&u=0&file=fileadmin/content_mannlicher.com/Downloads/Downloads_English/Instruction_manuals_according_to_European_Standard/STEYR_M-A1_PISTOL.pdf&t=1230488738&hash=45934d28283eca73ab8f23da911db5b4)
 
 7.
 8.
@@ -544,9 +437,6 @@ pistols sights.png|斯泰爾三角形／梯形手槍瞄準具。
 19.
 20.
 
-21. [Steyr Arms press release: July Newsletter-Steyr Arms to Import
-    Pistol
-    Again\!](http://www.steyrarms.com/news/items/article/july-newsletter-steyr-arms-to-import-pistol-again/?tx_ttnews)
-
+21. [Steyr Arms press release: July Newsletter-Steyr Arms to Import Pistol Again\!](http://www.steyrarms.com/news/items/article/july-newsletter-steyr-arms-to-import-pistol-again/?tx_ttnews)
 
 22.

@@ -1,5 +1,4 @@
-**信号转导及转录激活蛋白3**（，**STAT3**）是一种由人类[基因](../Page/基因.md "wikilink")*STAT3*
-编码的[转录因子](../Page/转录因子.md "wikilink")\[1\]。
+**信号转导及转录激活蛋白3**（，**STAT3**）是一种由人类[基因](../Page/基因.md "wikilink")*STAT3* 编码的[转录因子](../Page/转录因子.md "wikilink")\[1\]。
 
 ## 功能
 
@@ -53,9 +52,7 @@ STAT3能与下列蛋白質发生[交互作用](../Page/蛋白質交互作用.md 
 ## 外部链接
 
   -
-[Category:转录因子](https://zh.wikipedia.org/wiki/Category:转录因子 "wikilink")
-[Category:信号转导](https://zh.wikipedia.org/wiki/Category:信号转导 "wikilink")
-[Category:兼职蛋白质](https://zh.wikipedia.org/wiki/Category:兼职蛋白质 "wikilink")
+[Category:转录因子](https://zh.wikipedia.org/wiki/Category:转录因子 "wikilink") [Category:信号转导](https://zh.wikipedia.org/wiki/Category:信号转导 "wikilink") [Category:兼职蛋白质](https://zh.wikipedia.org/wiki/Category:兼职蛋白质 "wikilink")
 
 1.
 

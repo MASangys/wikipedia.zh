@@ -2,9 +2,7 @@
 
 ## 概要
 
-本作自『增刊YOUNG
-GANGAN』（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）Vol.1（2007年）開始連載。中間經歷『增刊YOUNG
-GANGAN BIG』、目前於『月刊BIG GANGAN』連載中。
+本作自『增刊YOUNG GANGAN』（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）Vol.1（2007年）開始連載。中間經歷『增刊YOUNG GANGAN BIG』、目前於『月刊BIG GANGAN』連載中。
 
 本作以[北海道](../Page/北海道.md "wikilink")的某市某區公所（作中為「」）保健福祉課為舞台、是一部描繪在該處工作的[公務員](../Page/公務員.md "wikilink")的日常的[四格漫畫](../Page/四格漫畫.md "wikilink")。
 
@@ -34,8 +32,7 @@ GANGAN BIG』、目前於『月刊BIG GANGAN』連載中。
   -
     配屬於福祉第一科的新人男職員。22歲。在作品中唯一知曉且能叫出「露西」以下的一部分名字的人物。
     容易得意忘形，常常在工作上偷懶（但是自己的工作的範圍會好好的做完）。在工作上十分有才、知識也很豐富。從祖父那代就是公務員，而自己也沒有什麼特別的興趣，因此選擇當公務員。
-    相貌不俗、與女性交往相當輕浮。最初見到露西時能很隨意的作弄她、後來反倒時常被露西的個性牽著鼻子走，最後向露西表白卻被拒絕。對於沒有什麼特別的理由，選擇了與父母一樣成為公務員、心裡感到有些自責。被露西說「不管別人說什麼，只要你覺得現在的生活快樂，我覺得就沒問題了」、以此為契機，變的對露西
-    ｢不能說笑程度的喜歡｣ 的樣子。
+    相貌不俗、與女性交往相當輕浮。最初見到露西時能很隨意的作弄她、後來反倒時常被露西的個性牽著鼻子走，最後向露西表白卻被拒絕。對於沒有什麼特別的理由，選擇了與父母一樣成為公務員、心裡感到有些自責。被露西說「不管別人說什麼，只要你覺得現在的生活快樂，我覺得就沒問題了」、以此為契機，變的對露西 ｢不能說笑程度的喜歡｣ 的樣子。
     私生活相當純樸、自從向露西告白之後就再也沒跟女生出去玩。此外，會做料理，但以｢如果被刺到就麻煩了｣的這個理由，而並未在家擺放任何調理器具。視力很差，在家中戴著眼鏡。
     玩過很多不同類型的電子遊戲，當中亦不乏成人遊戲，因此認識不少動畫電玩角色。
     不擅長應付身為青梅竹馬的讓二。
@@ -52,8 +49,7 @@ GANGAN BIG』、目前於『月刊BIG GANGAN』連載中。
 
   -
     20歲。沒有參加公務員考試，是福利金發放事務科的臨時合約職員。平時工作與服務應對都是以流水式進行。
-    對[COSPLAY獻出自己](https://zh.wikipedia.org/wiki/COSPLAY "wikilink")，喜歡自己COS也喜歡欣賞別人的COSPLAY造型。為了可以經常出席[COSPLAY的活動](https://zh.wikipedia.org/wiki/COSPLAY "wikilink")，扮演更多不同角色，而成為臨時職員，以便隨時請假，自稱為衛生福利課的「非正常的存在」。每年都會在八月中和年底申請假期，在[Comiket期間發售自己創作的](https://zh.wikipedia.org/wiki/Comiket "wikilink")[同人誌](../Page/同人誌.md "wikilink")，而最近的作品是《Magical
-    Flowers》。
+    對[COSPLAY獻出自己](https://zh.wikipedia.org/wiki/COSPLAY "wikilink")，喜歡自己COS也喜歡欣賞別人的COSPLAY造型。為了可以經常出席[COSPLAY的活動](https://zh.wikipedia.org/wiki/COSPLAY "wikilink")，扮演更多不同角色，而成為臨時職員，以便隨時請假，自稱為衛生福利課的「非正常的存在」。每年都會在八月中和年底申請假期，在[Comiket期間發售自己創作的](https://zh.wikipedia.org/wiki/Comiket "wikilink")[同人誌](../Page/同人誌.md "wikilink")，而最近的作品是《Magical Flowers》。
     實際上是大志現在的女朋友。對於溫柔的大志抱著好感。被溫柔的對待十分的開心、但對於太溫柔什麼都不做這件事似乎有些不滿。
     為了保護毫無防備的露西而對豐費心監視，但在與豐達成約會服交由她全權處理後放過了豐與露西的約會。
     名字的由来為神事衣装的千早。
@@ -185,15 +181,13 @@ ISBN 978-4-7575-4322-5（特裝版）</p></td>
 
 ## 電視動畫
 
-2013年7月開始播放。與[朝日放送](../Page/朝日放送.md "wikilink")同時期開始的「週三動畫」播出的《[Free\!](../Page/Free!.md "wikilink")》相同，是《[玻璃艦隊](../Page/玻璃艦隊.md "wikilink")》以來睽違七年的**單獨製作**
-。
+2013年7月開始播放。與[朝日放送](../Page/朝日放送.md "wikilink")同時期開始的「週三動畫」播出的《[Free\!](../Page/Free!.md "wikilink")》相同，是《[玻璃艦隊](../Page/玻璃艦隊.md "wikilink")》以來睽違七年的**單獨製作** 。
 
 BS11則在正式播出前，播放過特別節目《**「SERVANT×SERVICE」播出前特別節目《めいあいへるぷゆー?》**》。
 
 ### 製作人員
 
-  - 原作：[高津Karino](https://zh.wikipedia.org/wiki/高津Karino "wikilink")（「[BIG
-    GANGAN](https://zh.wikipedia.org/wiki/月刊_BIG_GANGAN "wikilink")」[史克威爾艾尼克斯刊](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）
+  - 原作：[高津Karino](https://zh.wikipedia.org/wiki/高津Karino "wikilink")（「[BIG GANGAN](https://zh.wikipedia.org/wiki/月刊_BIG_GANGAN "wikilink")」[史克威爾艾尼克斯刊](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）
   - 監督：[山本靖貴](../Page/山本靖貴.md "wikilink")
   - 系列構成：[下山健人](../Page/下山健人.md "wikilink")
   - 人物設計：西位輝實
@@ -534,14 +528,11 @@ BS11則在正式播出前，播放過特別節目《**「SERVANT×SERVICE」播�
 
 ## 外部連結
 
-  - [SERVANT×SERVICE | 月刊ビッグガンガン | SQUARE
-    ENIX](http://jp.square-enix.com/magazine/biggangan/introduction/servantservice/)
-    - 作品介紹
+  - [SERVANT×SERVICE | 月刊ビッグガンガン | SQUARE ENIX](http://jp.square-enix.com/magazine/biggangan/introduction/servantservice/) - 作品介紹
 
   - [TV動畫「SERVANT×SERVICE」官網](http://www.servantservice.org/)
 
-  - [SERVANT×SERVICE | WORKS | A-1
-    Pictures](http://a1p.jp/works/2013/servantservice/)
+  - [SERVANT×SERVICE | WORKS | A-1 Pictures](http://a1p.jp/works/2013/servantservice/)
 
   - [朝日放送 | SERVANT×SERVICE](http://asahi.co.jp/anime/servantservice/)
 
@@ -550,18 +541,4 @@ BS11則在正式播出前，播放過特別節目《**「SERVANT×SERVICE」播�
   - [香港電視大典：-{爆趣鄉公所}-](http://zh-hk.etvhk.wikia.com/wiki/%E7%88%86%E8%B6%A3%E9%84%89%E5%85%AC%E6%89%80)
 
   -
-[Category:E\!TV](https://zh.wikipedia.org/wiki/Category:E!TV "wikilink")
-[Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink")
-[Category:四格漫画](https://zh.wikipedia.org/wiki/Category:四格漫画 "wikilink")
-[Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink")
-[Category:2013年UHF動畫](https://zh.wikipedia.org/wiki/Category:2013年UHF動畫 "wikilink")
-[Category:2013年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2013年日本電視動畫 "wikilink")
-[Category:職場題材作品](https://zh.wikipedia.org/wiki/Category:職場題材作品 "wikilink")
-[Category:職場題材漫畫](https://zh.wikipedia.org/wiki/Category:職場題材漫畫 "wikilink")
-[Category:服務業題材作品](https://zh.wikipedia.org/wiki/Category:服務業題材作品 "wikilink")
-[Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink")
-[Category:職場戀情題材作品](https://zh.wikipedia.org/wiki/Category:職場戀情題材作品 "wikilink")
-[Category:北海道背景作品](https://zh.wikipedia.org/wiki/Category:北海道背景作品 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:公共機關背景作品](https://zh.wikipedia.org/wiki/Category:公共機關背景作品 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:E\!TV](https://zh.wikipedia.org/wiki/Category:E!TV "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:四格漫画](https://zh.wikipedia.org/wiki/Category:四格漫画 "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink") [Category:2013年UHF動畫](https://zh.wikipedia.org/wiki/Category:2013年UHF動畫 "wikilink") [Category:2013年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2013年日本電視動畫 "wikilink") [Category:職場題材作品](https://zh.wikipedia.org/wiki/Category:職場題材作品 "wikilink") [Category:職場題材漫畫](https://zh.wikipedia.org/wiki/Category:職場題材漫畫 "wikilink") [Category:服務業題材作品](https://zh.wikipedia.org/wiki/Category:服務業題材作品 "wikilink") [Category:戀愛漫畫](https://zh.wikipedia.org/wiki/Category:戀愛漫畫 "wikilink") [Category:職場戀情題材作品](https://zh.wikipedia.org/wiki/Category:職場戀情題材作品 "wikilink") [Category:北海道背景作品](https://zh.wikipedia.org/wiki/Category:北海道背景作品 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:公共機關背景作品](https://zh.wikipedia.org/wiki/Category:公共機關背景作品 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")

@@ -1,5 +1,4 @@
-『**Kis-My-Ft2 Debut Tour 2011 Everybody Go at 橫濱體育館
-2011.7.31**』（）是[Kis-My-Ft2的第](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")2張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
+『**Kis-My-Ft2 Debut Tour 2011 Everybody Go at 橫濱體育館 2011.7.31**』（）是[Kis-My-Ft2的第](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")2張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
 ## 概要
 
@@ -23,9 +22,7 @@ Kis-My-Ft2的第4次單独演唱會。
 
 <!-- end list -->
 
-1.  [No.1
-    Friend](../Page/Kis-My-Ft2_Kis-My-MiNT_Tour_at_東京巨蛋_2012.4.8.md "wikilink")
-    - 北山・藤谷
+1.  [No.1 Friend](../Page/Kis-My-Ft2_Kis-My-MiNT_Tour_at_東京巨蛋_2012.4.8.md "wikilink") - 北山・藤谷
 2.  SHOOTING STARS
 3.  [永遠のチケット](../Page/Kis-My-1st.md "wikilink")
 4.  Kis-My-LAND
@@ -38,8 +35,7 @@ Kis-My-Ft2的第4次單独演唱會。
 11. [FIRE BEAT](https://zh.wikipedia.org/wiki/FIRE_BEAT "wikilink")
 12. [KISS FOR U](../Page/Everybody_Go.md "wikilink")
 13. Brand New Season
-14. [千年的Love
-    Song](../Page/Kis-My-Ft2_Kis-My-MiNT_Tour_at_東京巨蛋_2012.4.8.md "wikilink")
+14. [千年的Love Song](../Page/Kis-My-Ft2_Kis-My-MiNT_Tour_at_東京巨蛋_2012.4.8.md "wikilink")
 15. [Endless Road](../Page/Kis-My-1st.md "wikilink")
 
 \- Encore -
@@ -53,5 +49,4 @@ Kis-My-Ft2的第4次單独演唱會。
 
 ## 備註
 
-[Category:2011年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2011年音樂相關影像作品 "wikilink")
-[Category:Kis-My-Ft2](https://zh.wikipedia.org/wiki/Category:Kis-My-Ft2 "wikilink")
+[Category:2011年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2011年音樂相關影像作品 "wikilink") [Category:Kis-My-Ft2](https://zh.wikipedia.org/wiki/Category:Kis-My-Ft2 "wikilink")

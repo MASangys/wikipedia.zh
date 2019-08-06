@@ -1,5 +1,4 @@
-**NO
-NAME**是從[日本](../Page/日本.md "wikilink")的[女子偶像團體](https://zh.wikipedia.org/wiki/女子偶像團體 "wikilink")[AKB48](../Page/AKB48.md "wikilink")、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")的成员中选出负责電視動畫《[AKB0048](../Page/AKB0048.md "wikilink")》的[声優组成](https://zh.wikipedia.org/wiki/声優 "wikilink")「**声優選抜**」名义的偶像組合。
+**NO NAME**是從[日本](../Page/日本.md "wikilink")的[女子偶像團體](https://zh.wikipedia.org/wiki/女子偶像團體 "wikilink")[AKB48](../Page/AKB48.md "wikilink")、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")的成员中选出负责電視動畫《[AKB0048](../Page/AKB0048.md "wikilink")》的[声優组成](https://zh.wikipedia.org/wiki/声優 "wikilink")「**声優選抜**」名义的偶像組合。
 
 ## 成員
 
@@ -100,23 +99,16 @@ Type-D</p></td>
 
 ### 活動
 
-  - 「AKB0048」動畫放送開始記念 第1話Director's
-    Cut&第2話先行上映会（2012年4月29日、[東京都](../Page/東京都.md "wikilink")\[5\]
-  - AKB0048 NO NAME FIRST
-    KILALIVE（2013年2月17日、[幕張展覽館](../Page/幕張展覽館.md "wikilink")）\[6\]
+  - 「AKB0048」動畫放送開始記念 第1話Director's Cut&第2話先行上映会（2012年4月29日、[東京都](../Page/東京都.md "wikilink")\[5\]
+  - AKB0048 NO NAME FIRST KILALIVE（2013年2月17日、[幕張展覽館](../Page/幕張展覽館.md "wikilink")）\[6\]
 
 ## 書籍
 
-  - AKB0048 Official Guide
-    Book（2012年7月27日、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）
+  - AKB0048 Official Guide Book（2012年7月27日、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")）
 
 ## 備註
 
-[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
-[Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:King_Records](https://zh.wikipedia.org/wiki/Category:King_Records "wikilink")
+[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:King_Records](https://zh.wikipedia.org/wiki/Category:King_Records "wikilink")
 
 1.  [AKB0048 官方网站](http://akb0048.jp/news/)
 

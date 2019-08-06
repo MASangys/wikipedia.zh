@@ -1,16 +1,12 @@
-是[洛克人X系列](../Page/洛克人X系列.md "wikilink")的外傳故事，2000年10月20日發表於[Game Boy
-Color上的專用](../Page/Game_Boy_Color.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。
+是[洛克人X系列](../Page/洛克人X系列.md "wikilink")的外傳故事，2000年10月20日發表於[Game Boy Color上的專用](../Page/Game_Boy_Color.md "wikilink")[動作遊戲](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")。
 
 ## 概要
 
-[洛克人X系列](../Page/洛克人X系列.md "wikilink")發行在的[Game Boy
-Color第一部外傳故事](../Page/Game_Boy_Color.md "wikilink")。本作採用了與[洛克人世界相同的模式](https://zh.wikipedia.org/wiki/洛克人世界 "wikilink")，將《[洛克人X](../Page/洛克人X_\(遊戲\).md "wikilink")》與《[洛克人X2](../Page/洛克人X2.md "wikilink")》混合移植後加入新角色，並將模式分成一般模式、困難模式與完全模式，誕生出了全新的故事，本作也是[卡普空](../Page/卡普空.md "wikilink")發行的作品中最後一部能使用於舊型[Game
-Boy的遊戲](../Page/Game_Boy.md "wikilink")。
+[洛克人X系列](../Page/洛克人X系列.md "wikilink")發行在的[Game Boy Color第一部外傳故事](../Page/Game_Boy_Color.md "wikilink")。本作採用了與[洛克人世界相同的模式](https://zh.wikipedia.org/wiki/洛克人世界 "wikilink")，將《[洛克人X](../Page/洛克人X_\(遊戲\).md "wikilink")》與《[洛克人X2](../Page/洛克人X2.md "wikilink")》混合移植後加入新角色，並將模式分成一般模式、困難模式與完全模式，誕生出了全新的故事，本作也是[卡普空](../Page/卡普空.md "wikilink")發行的作品中最後一部能使用於舊型[Game Boy的遊戲](../Page/Game_Boy.md "wikilink")。
 
 ## 故事
 
-時間點發生在『洛克人X2』的事件之後，某日非正規獵人基地中的**馬薩電腦**突然受到網路攻擊，各項網路數據被竄改導致了混亂，為此艾克斯與非正規獵人中的天才機器少年'''米迪
-'''合作，潛入馬薩電腦中調查此事，而在馬薩電腦的資料中必須與過去打倒的敵人對戰。
+時間點發生在『洛克人X2』的事件之後，某日非正規獵人基地中的**馬薩電腦**突然受到網路攻擊，各項網路數據被竄改導致了混亂，為此艾克斯與非正規獵人中的天才機器少年'''米迪 '''合作，潛入馬薩電腦中調查此事，而在馬薩電腦的資料中必須與過去打倒的敵人對戰。
 
 但調查後卻發現此事件的犯人竟是米迪的哥哥-已經非正規化的機器人**提克諾**，而幕後的指使人又是西格瑪，艾克斯又將出動阻止他的野心。
 
@@ -29,9 +25,7 @@ Boy的遊戲](../Page/Game_Boy.md "wikilink")。
 
 ### 闇影獵人
 
-過去曾經為了名聲而大膽挑戰西克瑪的二人組，但卻被西格瑪壓倒性的實力打敗，之後便對西克瑪完全服從，成為直屬的祕密部下，兩者的風格都是中世紀風，續作[洛克人X2
-Soul
-Eraser的貝爾卡娜和卡雷斯也是相同的風格](https://zh.wikipedia.org/wiki/洛克人X2_Soul_Eraser "wikilink")。
+過去曾經為了名聲而大膽挑戰西克瑪的二人組，但卻被西格瑪壓倒性的實力打敗，之後便對西克瑪完全服從，成為直屬的祕密部下，兩者的風格都是中世紀風，續作[洛克人X2 Soul Eraser的貝爾卡娜和卡雷斯也是相同的風格](https://zh.wikipedia.org/wiki/洛克人X2_Soul_Eraser "wikilink")。
 
   - 斬因（，）
     神秘戰鬥思考型機器人集團**闇影獵人**的其中一人，聽從西格瑪的指示進入電子空間擊倒艾克斯。身上覆蓋[中世紀裝甲及巨劍作為主力的戰鬥型機器人](https://zh.wikipedia.org/wiki/中世紀 "wikilink")，致力於強化自己身上的戰力，是個沉默寡言的強者。
@@ -82,13 +76,6 @@ Eraser的貝爾卡娜和卡雷斯也是相同的風格](https://zh.wikipedia.org
 
 ## 外部連結
 
-  - [ロックマンX
-    サイバーミッション](https://web.archive.org/web/20100325161650/http://www.capcom.co.jp/newproducts/consumer/gbrockx/)
-    - CAPCOM公式サイト
+  - [ロックマンX サイバーミッション](https://web.archive.org/web/20100325161650/http://www.capcom.co.jp/newproducts/consumer/gbrockx/) - CAPCOM公式サイト
 
-[Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink")
-[Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink")
-[Category:Game_Boy_Color游戏](https://zh.wikipedia.org/wiki/Category:Game_Boy_Color游戏 "wikilink")
-[Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink")
-[Category:任天堂3DS_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS_Virtual_Console游戏 "wikilink")
-[Category:洛克人X系列](https://zh.wikipedia.org/wiki/Category:洛克人X系列 "wikilink")
+[Category:2000年电子游戏](https://zh.wikipedia.org/wiki/Category:2000年电子游戏 "wikilink") [Category:動作遊戲](https://zh.wikipedia.org/wiki/Category:動作遊戲 "wikilink") [Category:Game_Boy_Color游戏](https://zh.wikipedia.org/wiki/Category:Game_Boy_Color游戏 "wikilink") [Category:Wii_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_Virtual_Console游戏 "wikilink") [Category:任天堂3DS_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS_Virtual_Console游戏 "wikilink") [Category:洛克人X系列](https://zh.wikipedia.org/wiki/Category:洛克人X系列 "wikilink")

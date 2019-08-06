@@ -1,5 +1,4 @@
-《**夢想夏鄉 -A Summer Day's
-Dream-**》，簡稱「**夢想夏鄉**」，是一部由同人社團[舞風](https://zh.wikipedia.org/wiki/舞風 "wikilink")（MAIKAZE）制作的[東方Project同人動畫](https://zh.wikipedia.org/wiki/東方Project "wikilink")。2008年12月29日，第1話《夢想夏鄉》在[C75以](../Page/Comic_Market.md "wikilink")2200日圓的價格首發\[1\]。作為同人作品，其精美的畫風和華麗的[聲優](../Page/聲優.md "wikilink")陣容引起廣泛議論\[2\]\[3\]。
+《**夢想夏鄉 -A Summer Day's Dream-**》，簡稱「**夢想夏鄉**」，是一部由同人社團[舞風](https://zh.wikipedia.org/wiki/舞風 "wikilink")（MAIKAZE）制作的[東方Project同人動畫](https://zh.wikipedia.org/wiki/東方Project "wikilink")。2008年12月29日，第1話《夢想夏鄉》在[C75以](../Page/Comic_Market.md "wikilink")2200日圓的價格首發\[1\]。作為同人作品，其精美的畫風和華麗的[聲優](../Page/聲優.md "wikilink")陣容引起廣泛議論\[2\]\[3\]。
 
 動畫的製作組曾表示預定全12話，不過鑑於1、2話發售時間間隔長，不排除計劃變更的可能。\[4\]製作組後表示預計4話完結。\[5\]
 
@@ -131,15 +130,12 @@ Dream-**》，簡稱「**夢想夏鄉**」，是一部由同人社團[舞風](ht
 
 ## 參見
 
-  - [幻想萬華鏡 \~The Memories Of
-    Phantasm\~](../Page/幻想萬華鏡_~The_Memories_Of_Phantasm~.md "wikilink")
+  - [幻想萬華鏡 \~The Memories Of Phantasm\~](../Page/幻想萬華鏡_~The_Memories_Of_Phantasm~.md "wikilink")
 
 ## 外部連結
 
-  - [
-    官方網站](https://web.archive.org/web/20120817103630/http://musoukakyo.maikaze.com/1st/)
-  - [
-    官方網站](https://web.archive.org/web/20120817011338/http://musoukakyo.maikaze.com/)
+  - [ 官方網站](https://web.archive.org/web/20120817103630/http://musoukakyo.maikaze.com/1st/)
+  - [ 官方網站](https://web.archive.org/web/20120817011338/http://musoukakyo.maikaze.com/)
 
 [Category:東方Project的二次創作](https://zh.wikipedia.org/wiki/Category:東方Project的二次創作 "wikilink")
 

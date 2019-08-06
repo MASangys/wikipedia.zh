@@ -2,8 +2,7 @@
 
 ## 剧情
 
-Ken很快地成为了一个有上进心的新兵，并与搭档罗邦起了冲突，过后也将上演成极暴力的争执。他的其中一个队友I.P.
-Man则为了要向夺走他女友的男人报仇。
+Ken很快地成为了一个有上进心的新兵，并与搭档罗邦起了冲突，过后也将上演成极暴力的争执。他的其中一个队友I.P. Man则为了要向夺走他女友的男人报仇。
 
 ## 演员表
 
@@ -19,19 +18,11 @@ Man则为了要向夺走他女友的男人报仇。
 
 ## 音乐
 
-这部电影的主题曲——《Recruit's
-Anthem》，的词、曲以及演唱，都是由戏中的其中一个演员——Tosh张智杨，所一手包办的。这首歌里头的歌词，是讲述着一个新兵的心声。如今，这首歌的官方MV已上载到Youtube上了。
+这部电影的主题曲——《Recruit's Anthem》，的词、曲以及演唱，都是由戏中的其中一个演员——Tosh张智杨，所一手包办的。这首歌里头的歌词，是讲述着一个新兵的心声。如今，这首歌的官方MV已上载到Youtube上了。
 
 ## 外部链接
 
   - [官方Facebook](https://www.facebook.com/AhBoysToMen)
   - [官方Youtube](https://www.youtube.com/user/AhBOYStoMEN)
 
-[Category:軍隊背景作品](https://zh.wikipedia.org/wiki/Category:軍隊背景作品 "wikilink")
-[Category:2013年電影](https://zh.wikipedia.org/wiki/Category:2013年電影 "wikilink")
-[Category:英语電影](https://zh.wikipedia.org/wiki/Category:英语電影 "wikilink")
-[Category:华语電影](https://zh.wikipedia.org/wiki/Category:华语電影 "wikilink")
-[Category:新加坡電影作品](https://zh.wikipedia.org/wiki/Category:新加坡電影作品 "wikilink")
-[Category:新加坡喜剧片](https://zh.wikipedia.org/wiki/Category:新加坡喜剧片 "wikilink")
-[Category:续集電影](https://zh.wikipedia.org/wiki/Category:续集電影 "wikilink")
-[Category:2010年代喜劇劇情片](https://zh.wikipedia.org/wiki/Category:2010年代喜劇劇情片 "wikilink")
+[Category:軍隊背景作品](https://zh.wikipedia.org/wiki/Category:軍隊背景作品 "wikilink") [Category:2013年電影](https://zh.wikipedia.org/wiki/Category:2013年電影 "wikilink") [Category:英语電影](https://zh.wikipedia.org/wiki/Category:英语電影 "wikilink") [Category:华语電影](https://zh.wikipedia.org/wiki/Category:华语電影 "wikilink") [Category:新加坡電影作品](https://zh.wikipedia.org/wiki/Category:新加坡電影作品 "wikilink") [Category:新加坡喜剧片](https://zh.wikipedia.org/wiki/Category:新加坡喜剧片 "wikilink") [Category:续集電影](https://zh.wikipedia.org/wiki/Category:续集電影 "wikilink") [Category:2010年代喜劇劇情片](https://zh.wikipedia.org/wiki/Category:2010年代喜劇劇情片 "wikilink")

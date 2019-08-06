@@ -6,8 +6,7 @@ SAR超类群一个[真核生物](../Page/真核生物.md "wikilink")分类，包
 
 ## 參考資料
 
-[Category:系统发生学](https://zh.wikipedia.org/wiki/Category:系统发生学 "wikilink")
-[Category:真核生物](https://zh.wikipedia.org/wiki/Category:真核生物 "wikilink")
+[Category:系统发生学](https://zh.wikipedia.org/wiki/Category:系统发生学 "wikilink") [Category:真核生物](https://zh.wikipedia.org/wiki/Category:真核生物 "wikilink")
 
 1.
 2.

@@ -1,8 +1,4 @@
-**HTC Desire
-820**是[台湾手机公司](https://zh.wikipedia.org/wiki/台湾 "wikilink")[宏达电](https://zh.wikipedia.org/wiki/宏达电 "wikilink")2014年所开发的新一代[智能手机](../Page/智能手机.md "wikilink")，属于中階旗舰机型，在2014年9月4日德國IFA正式发布\[1\]，為desire816的後繼機種,搭载[Android](../Page/Android.md "wikilink")
-4.4操作系统、[HTC Sense](../Page/HTC_Sense.md "wikilink")
-6使用者介面。該手机是全球首款4+4(1.5 GHz四核心處理器 + 1.0
-GHz四核心處理器)核心64位元手機，\[2\]。
+**HTC Desire 820**是[台湾手机公司](https://zh.wikipedia.org/wiki/台湾 "wikilink")[宏达电](https://zh.wikipedia.org/wiki/宏达电 "wikilink")2014年所开发的新一代[智能手机](../Page/智能手机.md "wikilink")，属于中階旗舰机型，在2014年9月4日德國IFA正式发布\[1\]，為desire816的後繼機種,搭载[Android](../Page/Android.md "wikilink") 4.4操作系统、[HTC Sense](../Page/HTC_Sense.md "wikilink") 6使用者介面。該手机是全球首款4+4(1.5 GHz四核心處理器 + 1.0 GHz四核心處理器)核心64位元手機，\[2\]。
 
 ## 詳細規格
 
@@ -229,8 +225,7 @@ TDD-LTE B38/B39/B40/B41</p></td>
 
 ### 外觀
 
-Desire 820的正面延續了Desire 816上下喇叭Boom Sound一排孔的設計，背面相機的位置也相同。最大的差異是Desire
-820的相機鏡頭加大，電源鍵和Desire 816剛好左右相反。Desire 820還支援HTC Dot View洞洞裝保護套。
+Desire 820的正面延續了Desire 816上下喇叭Boom Sound一排孔的設計，背面相機的位置也相同。最大的差異是Desire 820的相機鏡頭加大，電源鍵和Desire 816剛好左右相反。Desire 820還支援HTC Dot View洞洞裝保護套。
 
 ### 預告
 
@@ -238,34 +233,19 @@ Desire 820的正面延續了Desire 816上下喇叭Boom Sound一排孔的設計�
 
 ### 硬件
 
-HTC Desire 820搭載
-[Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink")
-[Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") 615
-4+4核心(64位)1.5 GHz + 1.0 GHz處理器\[9\]。
+HTC Desire 820搭載 [Qualcomm](https://zh.wikipedia.org/wiki/Qualcomm "wikilink") [Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink") 615 4+4核心(64位)1.5 GHz + 1.0 GHz處理器\[9\]。
 
 ### 軟體
 
-HTC Desire 820預計使用[Android
-4.4](https://zh.wikipedia.org/wiki/Android_4.4 "wikilink")[操作系统](../Page/操作系统.md "wikilink")和[HTC
-Sense](../Page/HTC_Sense.md "wikilink") 6使用者界面，另外，在Google i/o
-2014發佈會中，Google宣布了HTC會全力支持[Android
-5.0操作系统](https://zh.wikipedia.org/wiki/Android_5.0 "wikilink")，並會於[Google](../Page/Google.md "wikilink")給予他們[Android
-5.0最後版本後在計起九十天的升級之期](https://zh.wikipedia.org/wiki/Android_5.0 "wikilink")。當中，[HTC
-One M8及The](https://zh.wikipedia.org/wiki/HTC_One_M8 "wikilink") New
-[HTC One (M7)可以獲得Android](../Page/HTC_One_\(M7\).md "wikilink")
-L之升級。而HTC更會經考慮及研究後給予適合之機種取得Android
-L之升級，另外由於在中國市場發售，估計會最晚升級，而且沒有[Google](../Page/Google.md "wikilink")的服務。
+HTC Desire 820預計使用[Android 4.4](https://zh.wikipedia.org/wiki/Android_4.4 "wikilink")[操作系统](../Page/操作系统.md "wikilink")和[HTC Sense](../Page/HTC_Sense.md "wikilink") 6使用者界面，另外，在Google i/o 2014發佈會中，Google宣布了HTC會全力支持[Android 5.0操作系统](https://zh.wikipedia.org/wiki/Android_5.0 "wikilink")，並會於[Google](../Page/Google.md "wikilink")給予他們[Android 5.0最後版本後在計起九十天的升級之期](https://zh.wikipedia.org/wiki/Android_5.0 "wikilink")。當中，[HTC One M8及The](https://zh.wikipedia.org/wiki/HTC_One_M8 "wikilink") New [HTC One (M7)可以獲得Android](../Page/HTC_One_\(M7\).md "wikilink") L之升級。而HTC更會經考慮及研究後給予適合之機種取得Android L之升級，另外由於在中國市場發售，估計會最晚升級，而且沒有[Google](../Page/Google.md "wikilink")的服務。
 
 ### Android Lollipop更新
 
-HTC於2015年10月22日下午8點在台灣地區釋出Desire 820單／雙卡的[Android
-5.0的更新](https://zh.wikipedia.org/wiki/Android_5.0 "wikilink")。
+HTC於2015年10月22日下午8點在台灣地區釋出Desire 820單／雙卡的[Android 5.0的更新](https://zh.wikipedia.org/wiki/Android_5.0 "wikilink")。
 
-HTC於2015年11月12日在香港地區釋出Desire 820單／雙卡的[Android
-5.0的更新](https://zh.wikipedia.org/wiki/Android_5.0 "wikilink")。
+HTC於2015年11月12日在香港地區釋出Desire 820單／雙卡的[Android 5.0的更新](https://zh.wikipedia.org/wiki/Android_5.0 "wikilink")。
 
-HTC於2016年4月25日下午7點在台灣地區釋出Desire 820單／雙卡的[Android
-6.0的更新](https://zh.wikipedia.org/wiki/Android_6.0 "wikilink")。
+HTC於2016年4月25日下午7點在台灣地區釋出Desire 820單／雙卡的[Android 6.0的更新](https://zh.wikipedia.org/wiki/Android_6.0 "wikilink")。
 
 ## 参考文献
 
@@ -275,11 +255,7 @@ HTC於2016年4月25日下午7點在台灣地區釋出Desire 820單／雙卡的[A
 
 {{-}}
 
-[Category:2014年面世的手机](https://zh.wikipedia.org/wiki/Category:2014年面世的手机 "wikilink")
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
+[Category:2014年面世的手机](https://zh.wikipedia.org/wiki/Category:2014年面世的手机 "wikilink") [Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
 
 1.
 

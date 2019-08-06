@@ -1,14 +1,10 @@
-**巴雷特MRAD**（；MRAD，全稱：**M**ulti-**R**ole **A**daptive
-**D**esign，意為：多用途自行調應設計）是一枝由[美国](../Page/美国.md "wikilink")槍械製造商[巴雷特所研製和生產的](../Page/巴雷特槍械公司.md "wikilink")[旋转后拉枪机式手動](../Page/手動槍機.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，以滿足特種作戰司令部（簡稱：PSR）合同的要求，\[1\]是基於[巴雷特M98B的改進型](../Page/巴雷特M98B狙擊步槍.md "wikilink")。\[2\]發射[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")（.338
-Lapua Mag，8.6×70毫米或8.58×70毫米）。
+**巴雷特MRAD**（；MRAD，全稱：**M**ulti-**R**ole **A**daptive **D**esign，意為：多用途自行調應設計）是一枝由[美国](../Page/美国.md "wikilink")槍械製造商[巴雷特所研製和生產的](../Page/巴雷特槍械公司.md "wikilink")[旋转后拉枪机式手動](../Page/手動槍機.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，以滿足特種作戰司令部（簡稱：PSR）合同的要求，\[1\]是基於[巴雷特M98B的改進型](../Page/巴雷特M98B狙擊步槍.md "wikilink")。\[2\]發射[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")（.338 Lapua Mag，8.6×70毫米或8.58×70毫米）。
 
 2010年底，巴雷特正式公佈MRAD，並且在2011年初開始銷售，其[建議售價為](https://zh.wikipedia.org/wiki/建議售價 "wikilink")[$](../Page/美元.md "wikilink")6,000.00。\[3\]推出市場以後，巴雷特MRAD被[美國步槍協會](https://zh.wikipedia.org/wiki/美國步槍協會 "wikilink")（，簡稱：NRA）評為2012年年度步槍。\[4\]
 
 ## 歷史
 
-巴雷特以其巴雷特M98B為藍本，按照[美国](../Page/美国.md "wikilink")[特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")（，簡稱：USSOCOM，轄下部隊包括[DEVGRU](https://zh.wikipedia.org/wiki/美國海軍海豹部隊第六小隊 "wikilink")、[Delta
-Force和](https://zh.wikipedia.org/wiki/三角洲特種部隊 "wikilink")[綠色貝雷帽等特種部隊](../Page/第75游騎兵團.md "wikilink")）制定的規格改進為巴雷特MRAD狙擊步槍並在2010年底推出。\[5\]研發目的是參與2009年1月15日美國特種作戰司令部發出的一項名為（簡稱：PSR）的合同並作為其中一個.338
-口徑狙擊平台，與其他槍械製造商所全新研製或既有型號的改進型進行競標，以滿足特種作戰司令部的願望，取代目前所有的美國特種作戰狙擊手所使用的手動狙擊步槍。但最後在競標之中得標的是[雷明登軍品分公司的](../Page/雷明登武器公司.md "wikilink")[MSR狙擊步槍](../Page/雷明登MSR狙擊步槍.md "wikilink")。\[6\]
+巴雷特以其巴雷特M98B為藍本，按照[美国](../Page/美国.md "wikilink")[特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")（，簡稱：USSOCOM，轄下部隊包括[DEVGRU](https://zh.wikipedia.org/wiki/美國海軍海豹部隊第六小隊 "wikilink")、[Delta Force和](https://zh.wikipedia.org/wiki/三角洲特種部隊 "wikilink")[綠色貝雷帽等特種部隊](../Page/第75游騎兵團.md "wikilink")）制定的規格改進為巴雷特MRAD狙擊步槍並在2010年底推出。\[5\]研發目的是參與2009年1月15日美國特種作戰司令部發出的一項名為（簡稱：PSR）的合同並作為其中一個.338 口徑狙擊平台，與其他槍械製造商所全新研製或既有型號的改進型進行競標，以滿足特種作戰司令部的願望，取代目前所有的美國特種作戰狙擊手所使用的手動狙擊步槍。但最後在競標之中得標的是[雷明登軍品分公司的](../Page/雷明登武器公司.md "wikilink")[MSR狙擊步槍](../Page/雷明登MSR狙擊步槍.md "wikilink")。\[6\]
 
 但在2017年底，由於MSR狙擊步槍的品質嚴重不合格，迫使特種作戰司令部啟動先進狙擊步槍（ASR）計畫，徵集射程1,500公尺的手動狙擊步槍。在2019年，是次由巴雷特MRAD得到這50,000,000美元的合同。\[7\]
 
@@ -20,18 +16,11 @@ Force和](https://zh.wikipedia.org/wiki/三角洲特種部隊 "wikilink")[綠色
 
 ### 槍管
 
-巴雷特MRAD裝有一根以型号4150
-MIL-B-11595號[钢](../Page/钢.md "wikilink")鐵打造而成的中至重型的[自由浮動式](../Page/自由浮動式槍管.md "wikilink")[槍管](../Page/槍管.md "wikilink")，保障了高精度。目前全長有三種，分別為27
-英吋（685.8 毫米）、24.5 英吋（622.3 毫米）和20 英吋（508
-毫米），槍管更具有散熱凹槽以增加散熱速度。槍管有六條[膛線](../Page/膛線.md "wikilink")，27
-英吋和24.5 英吋槍管的膛線纏距為254 毫米（1：10 英吋），而20 英吋槍管的膛線纏距為237.49 毫米（1：9.35
-英吋），旋轉方向為右旋。槍管的外表面有縱向長型，既能夠減輕重量也增加了剛性，而且提高了散熱效率。當使用短槍管時由於短槍管長度會造成巨大的，所以需要加裝一個高效的消焰裝置。槍口配有螺紋安裝的雙邊兩口式[圓柱型](../Page/圆柱体.md "wikilink")[槍口消焰](https://zh.wikipedia.org/wiki/槍口消焰器 "wikilink")／[制退器](../Page/砲口制動器.md "wikilink")，並且以內部的[六边形](https://zh.wikipedia.org/wiki/六边形 "wikilink")[防松](https://zh.wikipedia.org/wiki/防松螺母 "wikilink")[螺母](../Page/螺母.md "wikilink")鎖緊，這款槍口裝置能有效降低後坐力與槍口火焰，並且可以取下制退器以安裝[消聲器](../Page/抑制器.md "wikilink")。為快速轉換長度和[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，更設有前滾筒式快速裝拆式設計。自由浮動式槍管除了與[機匣連接外](https://zh.wikipedia.org/wiki/機匣 "wikilink")，與整個前托都不接觸。槍管被包裹在前托以內，只有槍口消焰／制退器露在外面。\[9\]
+巴雷特MRAD裝有一根以型号4150 MIL-B-11595號[钢](../Page/钢.md "wikilink")鐵打造而成的中至重型的[自由浮動式](../Page/自由浮動式槍管.md "wikilink")[槍管](../Page/槍管.md "wikilink")，保障了高精度。目前全長有三種，分別為27 英吋（685.8 毫米）、24.5 英吋（622.3 毫米）和20 英吋（508 毫米），槍管更具有散熱凹槽以增加散熱速度。槍管有六條[膛線](../Page/膛線.md "wikilink")，27 英吋和24.5 英吋槍管的膛線纏距為254 毫米（1：10 英吋），而20 英吋槍管的膛線纏距為237.49 毫米（1：9.35 英吋），旋轉方向為右旋。槍管的外表面有縱向長型，既能夠減輕重量也增加了剛性，而且提高了散熱效率。當使用短槍管時由於短槍管長度會造成巨大的，所以需要加裝一個高效的消焰裝置。槍口配有螺紋安裝的雙邊兩口式[圓柱型](../Page/圆柱体.md "wikilink")[槍口消焰](https://zh.wikipedia.org/wiki/槍口消焰器 "wikilink")／[制退器](../Page/砲口制動器.md "wikilink")，並且以內部的[六边形](https://zh.wikipedia.org/wiki/六边形 "wikilink")[防松](https://zh.wikipedia.org/wiki/防松螺母 "wikilink")[螺母](../Page/螺母.md "wikilink")鎖緊，這款槍口裝置能有效降低後坐力與槍口火焰，並且可以取下制退器以安裝[消聲器](../Page/抑制器.md "wikilink")。為快速轉換長度和[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，更設有前滾筒式快速裝拆式設計。自由浮動式槍管除了與[機匣連接外](https://zh.wikipedia.org/wiki/機匣 "wikilink")，與整個前托都不接觸。槍管被包裹在前托以內，只有槍口消焰／制退器露在外面。\[9\]
 
 ### 一體式機匣／護木
 
-巴雷特MRAD的前托與後面的[機匣為一體化部件設計](https://zh.wikipedia.org/wiki/機匣 "wikilink")，採用鋁合金整體加工而成，以提高前托結構強度。一體式機匣／護木頂部設有一條長度達到552.45
-毫米（21.75
-英吋）的[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")。頂部設有很長的戰術導軌已經是戰術狙擊步槍的必備條件了，因為這樣才可使射手能夠串裝光學瞄準鏡和夜視鏡等。在護木左右兩側和下方也都預留有多個導軌安裝孔，護手底部可通過導軌安裝兩腳架。護木兩側設有大量散熱孔，保證槍管有效散熱，並且有效減輕了全槍質量。內部還預留一個獨特的戰術配件[電線管理系統](../Page/電纜.md "wikilink")，平底式設計提高射擊時的穩定性。包裹槍管的管狀前托的另一個優點是減少槍管發熱產生的上升空氣導致光學瞄準鏡影像產生的扭曲現象，因此不需要像一些狙擊步槍以一條長織帶遮蔽在槍管上方的方式解決[海市蜃楼](../Page/海市蜃楼.md "wikilink")的問題。\[10\]
+巴雷特MRAD的前托與後面的[機匣為一體化部件設計](https://zh.wikipedia.org/wiki/機匣 "wikilink")，採用鋁合金整體加工而成，以提高前托結構強度。一體式機匣／護木頂部設有一條長度達到552.45 毫米（21.75 英吋）的[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")。頂部設有很長的戰術導軌已經是戰術狙擊步槍的必備條件了，因為這樣才可使射手能夠串裝光學瞄準鏡和夜視鏡等。在護木左右兩側和下方也都預留有多個導軌安裝孔，護手底部可通過導軌安裝兩腳架。護木兩側設有大量散熱孔，保證槍管有效散熱，並且有效減輕了全槍質量。內部還預留一個獨特的戰術配件[電線管理系統](../Page/電纜.md "wikilink")，平底式設計提高射擊時的穩定性。包裹槍管的管狀前托的另一個優點是減少槍管發熱產生的上升空氣導致光學瞄準鏡影像產生的扭曲現象，因此不需要像一些狙擊步槍以一條長織帶遮蔽在槍管上方的方式解決[海市蜃楼](../Page/海市蜃楼.md "wikilink")的問題。\[10\]
 
 護木後方是機匣，右側設有拋殼口。拋殼口下方刻有巴雷特公司的商標，機匣另一側刻著MRAD字樣。
 
@@ -41,9 +30,7 @@ MIL-B-11595號[钢](../Page/钢.md "wikilink")鐵打造而成的中至重型的[
 
 ### 下機匣／彈匣插座
 
-巴雷特MRAD的下[機匣及](https://zh.wikipedia.org/wiki/機匣 "wikilink")[彈匣插座與巴雷特M](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")98B一樣是由7075號鋁合金製造而成，上面有很漂亮的方塊紋理。下機匣及彈匣插座是由兩個固定銷固接在一起。彈匣插座後方、握把上方的保險與[AR-15](../Page/AR-15自動步槍.md "wikilink")／[M16上的保險位置相同](../Page/M16突擊步槍.md "wikilink")，可以由[拇指直接操作的手動保險裝置以及從左邊轉換到右邊使用](https://zh.wikipedia.org/wiki/拇指 "wikilink")，非常便於射手操作。並與[巴雷特M82一樣安裝了AR](../Page/巴雷特M82狙擊步槍.md "wikilink")-15／M16步槍式，這樣便可以更換為如「[馬格普原創器材](../Page/馬格普工業公司.md "wikilink")」（Magpul
-Original
-Equipment，MOE）那麼樣的手槍握把。\[14\]握把前方的扳機護圈呈長方形設計，下機匣裝有一個靈巧的彈匣釋放撥桿，裝置在[扳機護圈的前方](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。而扳機裝置亦是裝在步槍的下機匣，整套扳機組件可以從機匣拆下以獨立使用，並且可以專用的L形內六角扳手從內部的螺釘調節[扳機扣力](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")（2—4[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")，0.91—1.81公斤，8.9～17.8[牛顿](https://zh.wikipedia.org/wiki/牛顿 "wikilink")）和[扳機行程](https://zh.wikipedia.org/wiki/扳機行程 "wikilink")。\[15\]\[16\]
+巴雷特MRAD的下[機匣及](https://zh.wikipedia.org/wiki/機匣 "wikilink")[彈匣插座與巴雷特M](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")98B一樣是由7075號鋁合金製造而成，上面有很漂亮的方塊紋理。下機匣及彈匣插座是由兩個固定銷固接在一起。彈匣插座後方、握把上方的保險與[AR-15](../Page/AR-15自動步槍.md "wikilink")／[M16上的保險位置相同](../Page/M16突擊步槍.md "wikilink")，可以由[拇指直接操作的手動保險裝置以及從左邊轉換到右邊使用](https://zh.wikipedia.org/wiki/拇指 "wikilink")，非常便於射手操作。並與[巴雷特M82一樣安裝了AR](../Page/巴雷特M82狙擊步槍.md "wikilink")-15／M16步槍式，這樣便可以更換為如「[馬格普原創器材](../Page/馬格普工業公司.md "wikilink")」（Magpul Original Equipment，MOE）那麼樣的手槍握把。\[14\]握把前方的扳機護圈呈長方形設計，下機匣裝有一個靈巧的彈匣釋放撥桿，裝置在[扳機護圈的前方](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。而扳機裝置亦是裝在步槍的下機匣，整套扳機組件可以從機匣拆下以獨立使用，並且可以專用的L形內六角扳手從內部的螺釘調節[扳機扣力](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")（2—4[磅力](https://zh.wikipedia.org/wiki/磅力 "wikilink")，0.91—1.81公斤，8.9～17.8[牛顿](https://zh.wikipedia.org/wiki/牛顿 "wikilink")）和[扳機行程](https://zh.wikipedia.org/wiki/扳機行程 "wikilink")。\[15\]\[16\]
 
 ### 槍托
 
@@ -51,8 +38,7 @@ Equipment，MOE）那麼樣的手槍握把。\[14\]握把前方的扳機護圈�
 
 ### 聚合物彈匣
 
-巴雷特MRAD是由一個可拆卸[彈匣](../Page/彈匣.md "wikilink")從下[機匣彈匣口供彈](https://zh.wikipedia.org/wiki/機匣 "wikilink")，讓射手即使要面對大量目標也能夠維持不會很快就中斷的火力。上面製有方塊防滑紋，彈匣前方還設有3條橫向的防滑紋。彈匣上的方塊形狀與[彈匣插座上的方塊形狀相呼應](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")，並與槍身一樣採用[沙漠](../Page/沙漠.md "wikilink")[黃的表面顏色處理](../Page/黄色.md "wikilink")，非常協調美觀。彈匣具有10
-發容彈量。[彈匣卡筍就在](https://zh.wikipedia.org/wiki/彈匣卡筍 "wikilink")[扳機護圈前方](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，射手可以射擊手的食指拆卸彈匣及重新裝填。\[19\]
+巴雷特MRAD是由一個可拆卸[彈匣](../Page/彈匣.md "wikilink")從下[機匣彈匣口供彈](https://zh.wikipedia.org/wiki/機匣 "wikilink")，讓射手即使要面對大量目標也能夠維持不會很快就中斷的火力。上面製有方塊防滑紋，彈匣前方還設有3條橫向的防滑紋。彈匣上的方塊形狀與[彈匣插座上的方塊形狀相呼應](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")，並與槍身一樣採用[沙漠](../Page/沙漠.md "wikilink")[黃的表面顏色處理](../Page/黄色.md "wikilink")，非常協調美觀。彈匣具有10 發容彈量。[彈匣卡筍就在](https://zh.wikipedia.org/wiki/彈匣卡筍 "wikilink")[扳機護圈前方](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，射手可以射擊手的食指拆卸彈匣及重新裝填。\[19\]
 
 ### 瞄準具及附件
 
@@ -60,15 +46,13 @@ Equipment，MOE）那麼樣的手槍握把。\[14\]握把前方的扳機護圈�
 
 ## 特種作戰司令部精密狙擊步槍
 
-已經向（簡稱：PSR）試驗提交的MRAD特定型號裝有一根622.3毫米（24.5英吋）[槍管](../Page/槍管.md "wikilink")，全槍總重量（不包括光學元件）為6.71
-公斤（14.8 磅）。\[24\]
+已經向（簡稱：PSR）試驗提交的MRAD特定型號裝有一根622.3毫米（24.5英吋）[槍管](../Page/槍管.md "wikilink")，全槍總重量（不包括光學元件）為6.71 公斤（14.8 磅）。\[24\]
 
 但最後在競標之中得標的是[雷明登軍品分公司的](../Page/雷明登武器公司.md "wikilink")[雷明登MSR狙擊步槍](../Page/雷明登MSR狙擊步槍.md "wikilink")。\[25\]
 
 ## 使用國
 
-  -   - [以色列國境警察特勤隊](../Page/以色列國境警察特勤隊.md "wikilink")（2013年起採用，以取代[PGM
-        338狙擊步槍](../Page/PGM_338狙擊步槍.md "wikilink")）\[26\]
+  -   - [以色列國境警察特勤隊](../Page/以色列國境警察特勤隊.md "wikilink")（2013年起採用，以取代[PGM 338狙擊步槍](../Page/PGM_338狙擊步槍.md "wikilink")）\[26\]
       - [以色列國防軍](../Page/以色列國防軍.md "wikilink")（2018年起採用）\[27\]
 
   -   - [紐西蘭國防軍](../Page/紐西蘭國防軍.md "wikilink")（2018年起採用，以取代7.62毫米口徑的[精密國際AW狙擊步槍](../Page/精密國際AW狙擊步槍.md "wikilink")）\[28\]
@@ -81,9 +65,7 @@ Equipment，MOE）那麼樣的手槍握把。\[14\]握把前方的扳機護圈�
 
 ### [电子遊戲](https://zh.wikipedia.org/wiki/电子遊戲 "wikilink")
 
-  - 2016年—《[-{zh-cn:杀手;
-    zh-tw:刺客任務;}-2016](../Page/杀手_\(2016年游戏\).md "wikilink")》（Hitman
-    2016）：以該槍為藍本，但改為深藍色槍身和作出一些設計變更並裝上[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，命名為“耶格7”（），奇怪地在菜單中的該槍的[照門與](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星倒轉裝在導軌以上而在遊戲中兩者卻是正確安裝位置](../Page/照準器.md "wikilink")。衍生型為“耶格7槍騎兵型”（），為槍口改為裝上[制退器的版本](../Page/砲口制動器.md "wikilink")。
+  - 2016年—《[-{zh-cn:杀手; zh-tw:刺客任務;}-2016](../Page/杀手_\(2016年游戏\).md "wikilink")》（Hitman 2016）：以該槍為藍本，但改為深藍色槍身和作出一些設計變更並裝上[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，命名為“耶格7”（），奇怪地在菜單中的該槍的[照門與](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星倒轉裝在導軌以上而在遊戲中兩者卻是正確安裝位置](../Page/照準器.md "wikilink")。衍生型為“耶格7槍騎兵型”（），為槍口改為裝上[制退器的版本](../Page/砲口制動器.md "wikilink")。
 
 ## 參見
 
@@ -100,8 +82,7 @@ Equipment，MOE）那麼樣的手槍握把。\[14\]握把前方的扳機護圈�
   - [布拉塞爾R93](../Page/布拉塞爾R93戰術型狙擊步槍.md "wikilink")
   - [C14](../Page/C14大灰狼狙擊步槍.md "wikilink")
   - [CZ 700](https://zh.wikipedia.org/wiki/CZ_700狙擊步槍 "wikilink")
-  - [CheyTac M200
-    Intervention](../Page/CheyTac_M200干預型狙擊步槍.md "wikilink")
+  - [CheyTac M200 Intervention](../Page/CheyTac_M200干預型狙擊步槍.md "wikilink")
   - [DSR-1](../Page/DSR-1狙擊步槍.md "wikilink")
   - [DT SRS](../Page/沙漠科技隱形偵察兵狙擊步槍.md "wikilink")
   - [埃爾瑪SR-100](https://zh.wikipedia.org/wiki/埃爾瑪SR-100狙擊步槍 "wikilink")
@@ -128,7 +109,7 @@ Equipment，MOE）那麼樣的手槍握把。\[14\]握把前方的扳機護圈�
   - [雷明登M2010](../Page/M2010增強型狙擊步槍.md "wikilink")
   - [儒格M77](../Page/儒格M77步槍.md "wikilink")
   - [薩科蒂卡T3](../Page/薩科蒂卡T3步槍.md "wikilink")
-  - [薩科TRG-21／22／41／42](https://zh.wikipedia.org/wiki/薩科TRG狙擊步槍 "wikilink")
+  - [薩科TRG-21／22／41／42](../Page/薩科TRG狙擊步槍.md "wikilink")
   - [薩科TRG M10](https://zh.wikipedia.org/wiki/薩科TRG_M10狙擊步槍 "wikilink")
   - [薩維奇10FP](https://zh.wikipedia.org/wiki/薩維奇10FP狙擊步槍 "wikilink")
   - [薩維奇110BA](https://zh.wikipedia.org/wiki/薩維奇110BA狙擊步槍 "wikilink")
@@ -156,78 +137,52 @@ Equipment，MOE）那麼樣的手槍握把。\[14\]握把前方的扳機護圈�
 
 ## 外部連結
 
-  - —[Barrett product page on the
-    MRAD](https://web.archive.org/web/20120828013615/http://www.barrett.net/firearms/mrad)
+  - —[Barrett product page on the MRAD](https://web.archive.org/web/20120828013615/http://www.barrett.net/firearms/mrad)
 
-  - —[Barrett MRAD operator's
-    manual](https://web.archive.org/web/20121031111023/https://barrett.net/pdfs/MRAD-Manual.pdf)
+  - —[Barrett MRAD operator's manual](https://web.archive.org/web/20121031111023/https://barrett.net/pdfs/MRAD-Manual.pdf)
 
   - —The Firearm Blog.com—
 
-      - [Barrett MRAD (Multi Role Adaptive Design) Sniper
-        Rifle](http://www.thefirearmblog.com/blog/2010/11/01/barrett-mrad-multi-role-adaptive-design-sniper-rifle/)
-      - [The Barrett
-        MRAD](http://www.thefirearmblog.com/blog/2010/11/10/the-barrett-mrad/)
-      - [Barrett MRAD Promo
-        Video](http://www.thefirearmblog.com/blog/2015/02/26/barrett-mrad-promo-video/)
-      - [Barrett: New REC7 Flyweight & MRAD
-        Fieldcraft](http://www.thefirearmblog.com/blog/2015/01/22/barrett-new-rec7-flyweight-mrad-fieldcraft/)
-      - [Hands on with the Barrett
-        MRAD](http://www.thefirearmblog.com/blog/2016/04/29/hands-barrett-mrad/)
+      - [Barrett MRAD (Multi Role Adaptive Design) Sniper Rifle](http://www.thefirearmblog.com/blog/2010/11/01/barrett-mrad-multi-role-adaptive-design-sniper-rifle/)
+      - [The Barrett MRAD](http://www.thefirearmblog.com/blog/2010/11/10/the-barrett-mrad/)
+      - [Barrett MRAD Promo Video](http://www.thefirearmblog.com/blog/2015/02/26/barrett-mrad-promo-video/)
+      - [Barrett: New REC7 Flyweight & MRAD Fieldcraft](http://www.thefirearmblog.com/blog/2015/01/22/barrett-new-rec7-flyweight-mrad-fieldcraft/)
+      - [Hands on with the Barrett MRAD](http://www.thefirearmblog.com/blog/2016/04/29/hands-barrett-mrad/)
 
-  - —[The Truth About Guns.com—Gun Review: Barrett
-    MRAD](http://www.thetruthaboutguns.com/2011/06/foghorn/gun-review-barrett-mrad/)
+  - —[The Truth About Guns.com—Gun Review: Barrett MRAD](http://www.thetruthaboutguns.com/2011/06/foghorn/gun-review-barrett-mrad/)
 
-  - —[Barrett Announces MRAD Long-Range
-    Rifle](https://web.archive.org/web/20121006144030/http://www.americanrifleman.org/articles/barrett-mrad/)
+  - —[Barrett Announces MRAD Long-Range Rifle](https://web.archive.org/web/20121006144030/http://www.americanrifleman.org/articles/barrett-mrad/)
 
-  - —[Shooting Illustrated.com—Barrett
-    MRAD](http://www.shootingillustrated.com/index.php/16498/barrett-mrad-review/)
+  - —[Shooting Illustrated.com—Barrett MRAD](http://www.shootingillustrated.com/index.php/16498/barrett-mrad-review/)
 
-  - —[Defense Review—Barrett MRAD (Multi-Role Adaptive Design)
-    Multi-Caliber .338 Lapua Magnum Bolt-Action Anti-Materiel/Sniper
-    Rifle and G4tv “Attack of the Show” Crew at SHOT Show 2012
-    (Video\!)](http://www.defensereview.com/barrett-mrad-multi-role-adaptive-design-multi-caliber-338-lapua-magnum-bolt-action-anti-materielsniper-rifle-and-g4tv-attack-of-the-show-crew-at-shot-show-2012-video/)
+  - —[Defense Review—Barrett MRAD (Multi-Role Adaptive Design) Multi-Caliber .338 Lapua Magnum Bolt-Action Anti-Materiel/Sniper Rifle and G4tv “Attack of the Show” Crew at SHOT Show 2012 (Video\!)](http://www.defensereview.com/barrett-mrad-multi-role-adaptive-design-multi-caliber-338-lapua-magnum-bolt-action-anti-materielsniper-rifle-and-g4tv-attack-of-the-show-crew-at-shot-show-2012-video/)
 
-  - —[Popular Airsoft.com—Barrett Multi-Role Adaptive Design Rifle
-    Revealed](http://www.popularairsoft.com/barrett-multi-role-adaptive-design-rifle-revealed)
+  - —[Popular Airsoft.com—Barrett Multi-Role Adaptive Design Rifle Revealed](http://www.popularairsoft.com/barrett-multi-role-adaptive-design-rifle-revealed)
 
-  - —[EuroOptic.com—Barrett MRAD .338 Lapua Mag Rifles for
-    sale\!](http://www.eurooptic.com/barrett-mrad-rifles.aspx)
+  - —[EuroOptic.com—Barrett MRAD .338 Lapua Mag Rifles for sale\!](http://www.eurooptic.com/barrett-mrad-rifles.aspx)
 
   - —Tactical-Life.com—
 
-      - [The Barrett Multi-Role Adaptive Design (MRAD)
-        rifle](http://www.tactical-life.com/online/exclusives/the-barrett-multi-role-adaptive-design-mrad-rifle/)
-      - [BARRETT MRAD .338 LAPUA
-        MAG](http://www.tactical-life.com/online/special-weapons/barrett-mrad-338-lapua-mag/)
-      - [BARRET MRAD .338 LAPUA
-        MAG](http://www.tactical-life.com/online/special-weapons/barret-mrad-338-lapua-mag/)
-      - [Preview: Barrett MRAD
-        .308](http://www.tactical-life.com/magazines/guns-and-weapons/preview-barrett-mrad-308/)
-      - [AUSA 2013 Annual Meeting – First
-        Look](http://www.tactical-life.com/military-and-police/ausa-2013-annual-meeting-first-look/4/)
+      - [The Barrett Multi-Role Adaptive Design (MRAD) rifle](http://www.tactical-life.com/online/exclusives/the-barrett-multi-role-adaptive-design-mrad-rifle/)
+      - [BARRETT MRAD .338 LAPUA MAG](http://www.tactical-life.com/online/special-weapons/barrett-mrad-338-lapua-mag/)
+      - [BARRET MRAD .338 LAPUA MAG](http://www.tactical-life.com/online/special-weapons/barret-mrad-338-lapua-mag/)
+      - [Preview: Barrett MRAD .308](http://www.tactical-life.com/magazines/guns-and-weapons/preview-barrett-mrad-308/)
+      - [AUSA 2013 Annual Meeting – First Look](http://www.tactical-life.com/military-and-police/ausa-2013-annual-meeting-first-look/4/)
       - [](http://www.tactical-life.com/firearms/tool-maynard-james-keenan-barrett/)
 
   - —
 
   - —
 
-  - —[D Boy Gun World（槍炮世界）—Barrett
-    MRAD](http://firearmsworld.net/usa/barrett/mrad/mrad.htm)
+  - —[D Boy Gun World（槍炮世界）—Barrett MRAD](http://firearmsworld.net/usa/barrett/mrad/mrad.htm)
 
-[Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink")
-[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink")
-[Category:.338_Lapua_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.338_Lapua_Magnum口徑槍械 "wikilink")
-[Category:美國狙擊步槍](https://zh.wikipedia.org/wiki/Category:美國狙擊步槍 "wikilink")
-[Category:巴雷特槍械](https://zh.wikipedia.org/wiki/Category:巴雷特槍械 "wikilink")
+[Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink") [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:.338_Lapua_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.338_Lapua_Magnum口徑槍械 "wikilink") [Category:美國狙擊步槍](https://zh.wikipedia.org/wiki/Category:美國狙擊步槍 "wikilink") [Category:巴雷特槍械](https://zh.wikipedia.org/wiki/Category:巴雷特槍械 "wikilink")
 
 1.
 
 2.
 
-3.  [Barrett Announces MRAD Long-Range
-    Rifle](http://www.americanrifleman.org/articles/barrett-mrad/)
+3.  [Barrett Announces MRAD Long-Range Rifle](http://www.americanrifleman.org/articles/barrett-mrad/)
 
 4.
 
@@ -249,23 +204,18 @@ Equipment，MOE）那麼樣的手槍握把。\[14\]握把前方的扳機護圈�
 18.
 19.
 20.
-21. Barret Firearms Company, [98bravo.com, The
-    Specs](http://www.98bravo.com/the_specs.php)
+21. Barret Firearms Company, [98bravo.com, The Specs](http://www.98bravo.com/the_specs.php)
 
 22.
 23.
 24.
 25.
-26. [נחשף פירוט הנשק של
-    הימ"מ](http://www.ynet.co.il/articles/0,7340,L-4632052,00.html),
-    [Ynet](https://zh.wikipedia.org/wiki/Ynet "wikilink"), 2015.3.1
+26. [נחשף פירוט הנשק של הימ"מ](http://www.ynet.co.il/articles/0,7340,L-4632052,00.html), [Ynet](https://zh.wikipedia.org/wiki/Ynet "wikilink"), 2015.3.1
 
 27. [1](https://www.idf.il/%D7%90%D7%AA%D7%A8%D7%99%D7%9D/%D7%96%D7%A8%D7%95%D7%A2-%D7%94%D7%99%D7%91%D7%A9%D7%94/%D7%AA%D7%A2%D7%A8%D7%95%D7%9B%D7%AA-%D7%94%D7%90%D7%9E%D7%9C%D7%97-%D7%91%D7%96%D7%A8%D7%95%D7%A2-%D7%94%D7%99%D7%91%D7%A9%D7%94/)
 
 28. [2](https://medium.com/@nzdefenceforce/defence-force-buying-two-new-weapons-db9599cf34d5)
 
-29. [3](http://www.landro.no/content/download/12523/2565993/version/1/file/Vi),
-    Presis og potent, Vi Menn, 2015
+29. [3](http://www.landro.no/content/download/12523/2565993/version/1/file/Vi), Presis og potent, Vi Menn, 2015
 
-30. [\> U.S. DEPARTMENT OF DEFENSE \> Contract
-    View](https://dod.defense.gov/News/Contracts/Contract-View/Article/1782108/)
+30. [\> U.S. DEPARTMENT OF DEFENSE \> Contract View](https://dod.defense.gov/News/Contracts/Contract-View/Article/1782108/)

@@ -1,5 +1,4 @@
-《**Fragment's
-Note**》（假名：）是一款由[日本](../Page/日本.md "wikilink")游戏厂商[ULLUCUSHEAVEN和](https://zh.wikipedia.org/wiki/ULLUCUSHEAVEN "wikilink")[ALVION共同开发](https://zh.wikipedia.org/wiki/ALVION "wikilink")、于2012年7月18日发行于[iOS平台的基于](https://zh.wikipedia.org/wiki/iOS "wikilink")[触摸屏的](https://zh.wikipedia.org/wiki/触摸屏 "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。\[1\][体验版于](https://zh.wikipedia.org/wiki/体验版 "wikilink")2012年8月31日发布。2012年12月19日发布1.03版，在这个版本中，添加了朝霞雪月和白鷺絵里的相关剧情，同时增加了CG模式功能。\[2\]\[3\]游戏全程无语音，有[BGM](https://zh.wikipedia.org/wiki/BGM "wikilink")。
+《**Fragment's Note**》（假名：）是一款由[日本](../Page/日本.md "wikilink")游戏厂商[ULLUCUSHEAVEN和](https://zh.wikipedia.org/wiki/ULLUCUSHEAVEN "wikilink")[ALVION共同开发](https://zh.wikipedia.org/wiki/ALVION "wikilink")、于2012年7月18日发行于[iOS平台的基于](https://zh.wikipedia.org/wiki/iOS "wikilink")[触摸屏的](https://zh.wikipedia.org/wiki/触摸屏 "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。\[1\][体验版于](https://zh.wikipedia.org/wiki/体验版 "wikilink")2012年8月31日发布。2012年12月19日发布1.03版，在这个版本中，添加了朝霞雪月和白鷺絵里的相关剧情，同时增加了CG模式功能。\[2\]\[3\]游戏全程无语音，有[BGM](https://zh.wikipedia.org/wiki/BGM "wikilink")。
 
 ## 故事简介
 
@@ -90,25 +89,15 @@ Note**》（假名：）是一款由[日本](../Page/日本.md "wikilink")游戏
 
   - [Fragment's Note游戏官方网站](http://u-adv.ullucus.com/)
 
-  - [Fragment's Note在iTunes
-    Store的介绍](http://itunes.apple.com/jp/app/fragments-note/id533373729?l=ja&mt=8)
+  - [Fragment's Note在iTunes Store的介绍](http://itunes.apple.com/jp/app/fragments-note/id533373729?l=ja&mt=8)
 
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:家庭題材作品](https://zh.wikipedia.org/wiki/Category:家庭題材作品 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
-[Category:時間旅行題材作品](https://zh.wikipedia.org/wiki/Category:時間旅行題材作品 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
+[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:家庭題材作品](https://zh.wikipedia.org/wiki/Category:家庭題材作品 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:時間旅行題材作品](https://zh.wikipedia.org/wiki/Category:時間旅行題材作品 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
 
 1.  [Fragment's Note在游戏官网的介绍](http://u-adv.ullucus.com/)
 2.  [Fragment's Note在游戏官网的介绍](http://u-adv.ullucus.com/)
-3.  [Fragment's
-    Note在4gamer.net的介绍](http://www.4gamer.net/games/182/G018216/20120831005/)
+3.  [Fragment's Note在4gamer.net的介绍](http://www.4gamer.net/games/182/G018216/20120831005/)
 4.  [官方网站的故事介绍](http://u-adv.ullucus.com/contents/story.html)
 5.  [官网对ミーシャ·エイゼンシュテイン的人物介绍](http://u-adv.ullucus.com/contents/misya.html)
-
 6.  [官网对天条羽耶的人物介绍](http://u-adv.ullucus.com/contents/haya.html)
 7.  [官网对天条美羽的人物介绍](http://u-adv.ullucus.com/contents/miu.html)
 8.  [官网对朝霞雪月的人物介绍](http://u-adv.ullucus.com/contents/yuki.html)

@@ -26,12 +26,10 @@ LwIP协议栈主要关注的是怎么样减少内存的使用和代码的大小�
 
 ## 外部链接
 
-  - [Adam Dunkels' initial Lwip
-    paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.109.1795&rep=rep1&type=pdf)
+  - [Adam Dunkels' initial Lwip paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.109.1795&rep=rep1&type=pdf)
   - [lwIP development](http://savannah.nongnu.org/projects/lwip/)
   - [lwIP documentation wiki](http://lwip.wikia.com/wiki/LwIP_Wiki)
   - [lwIP functions documentation](http://www.nongnu.org/lwip/)
-  - [lwIP former homepage
-    (obsolete)](https://web.archive.org/web/20010604054508/http://www.sics.se/~adam/lwip/)
+  - [lwIP former homepage (obsolete)](https://web.archive.org/web/20010604054508/http://www.sics.se/~adam/lwip/)
 
 [Category:信息技术](https://zh.wikipedia.org/wiki/Category:信息技术 "wikilink")

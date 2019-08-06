@@ -1,5 +1,4 @@
-本頁為[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")所登場的卡片做詳細介紹，而劇中卡片的玩具版大多可使用於街機遊戲《[假面騎士大亂鬥
-GANBARIDE](https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIDE "wikilink")》。
+本頁為[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")所登場的卡片做詳細介紹，而劇中卡片的玩具版大多可使用於街機遊戲《[假面騎士大亂鬥 GANBARIDE](https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIDE "wikilink")》。
 
 ## 卡片類型
 
@@ -14,9 +13,7 @@ GANBARIDE](https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIDE "wikili
     卡片音效為Kamen Ride+騎士稱謂＋型態名稱。（若無型態變化就不會再追加型態名稱的音效）
     例如1:在Decade變身時的音效為Kamen Ride Decade。
     例如2:使用Kamen Ride Faiz Accel卡，可以直接變身-{Decade Faiz Accel Form}-
-    在BLACK篇，門矢士得到Kamen Ride
-    Black卡，海東大樹一手搶去，並說：士，這張卡你是沒辦法用的。不讓士使用是因為讓Diend召喚對戰情較有利，於[假面騎士x超級戰隊
-    超級英雄大戰中](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")，Decade成功變身成1號，所以Decade還是能變身成平成系以外的假面騎士。另外，玩具也可以變身成平成系以外的假面騎士。
+    在BLACK篇，門矢士得到Kamen Ride Black卡，海東大樹一手搶去，並說：士，這張卡你是沒辦法用的。不讓士使用是因為讓Diend召喚對戰情較有利，於[假面騎士x超級戰隊 超級英雄大戰中](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")，Decade成功變身成1號，所以Decade還是能變身成平成系以外的假面騎士。另外，玩具也可以變身成平成系以外的假面騎士。
 
 ### Form Ride
 
@@ -26,8 +23,7 @@ GANBARIDE](https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIDE "wikili
     格式：「該型態代表色條碼背景+該騎士標誌+該騎士型態」
     Decade可以變身成其所對應的假面騎士的形態。
     使用前不一定要先變身為對應的假面騎士。
-    例如在Decade Faiz Form狀態下使用Form Ride Axel，就可以變身成-{Decade Faiz Axel
-    Form}-。
+    例如在Decade Faiz Form狀態下使用Form Ride Axel，就可以變身成-{Decade Faiz Axel Form}-。
     此類變身不能套用至最終型態的假面騎士變身。
 
 ### Attack Ride
@@ -47,25 +43,21 @@ GANBARIDE](https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIDE "wikili
   -
     Decade可以用此類卡片將卡片對應的假面騎士變成FFR型態，必須和卡片對應的假面騎士連攜發動，不可單獨使用。
     各假面騎士的FFR型態皆以原作中出現過的裝備或支援者為原形
-    FFR型態與Decade的聯動攻擊威力相當於原作絕招的威力，由於是Decade專用版本的緣故，發招方式不拘泥於原作的使用法則，因此在用途與威力上都會與原作有細部差異。:但是從街機遊戲[假面騎士大亂鬥
-    GANBARIDE中以及假面騎士OOO的網絡版中](https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIDE "wikilink")，此類卡片的作用並不是固定的，也可以有許多變化型態，但因為遊戲商在開發時未必會依照原作的設定，此類卡在遊戲中的作用不一定代表此類卡片在運用上是靈活多樣的，但根據TV本篇以及網絡版影片中可以發現，即使卡牌名稱相同，若卡牌的造型與圖片不同，就會發動不同的效果，而且卡片本身可能會進行其他變化，ＥＸ：DEN-O類卡，由DEN-Liner，變化為桃太洛斯圖樣，因此此類卡牌的應用上，還是存在相當多的變數。另外，於第三劇場版使用的All
-    Rider類卡，各騎士的FFR型態不一定與原類卡相同。
+    FFR型態與Decade的聯動攻擊威力相當於原作絕招的威力，由於是Decade專用版本的緣故，發招方式不拘泥於原作的使用法則，因此在用途與威力上都會與原作有細部差異。:但是從街機遊戲[假面騎士大亂鬥 GANBARIDE中以及假面騎士OOO的網絡版中](https://zh.wikipedia.org/wiki/假面騎士大亂鬥_GANBARIDE "wikilink")，此類卡片的作用並不是固定的，也可以有許多變化型態，但因為遊戲商在開發時未必會依照原作的設定，此類卡在遊戲中的作用不一定代表此類卡片在運用上是靈活多樣的，但根據TV本篇以及網絡版影片中可以發現，即使卡牌名稱相同，若卡牌的造型與圖片不同，就會發動不同的效果，而且卡片本身可能會進行其他變化，ＥＸ：DEN-O類卡，由DEN-Liner，變化為桃太洛斯圖樣，因此此類卡牌的應用上，還是存在相當多的變數。另外，於第三劇場版使用的All Rider類卡，各騎士的FFR型態不一定與原類卡相同。
 
 ### Final Attack Ride
 
 原文：「」
 
 格式：「該名騎士標誌(金色)+深藍色同心圓條碼背景」
-Decade可以用此類卡片發動為卡片所對應的假面騎士的必殺技，可以與變為FFR形態的假面騎士發動連攜必殺技，單獨使用時必須變身為卡片對應的假面騎士才可以使用，發動對應的假面騎士的必殺技。而在Complete
-Form時則須召喚對應的假面騎士才可以，該分身會和Decade一同使出對應的必殺技。
+Decade可以用此類卡片發動為卡片所對應的假面騎士的必殺技，可以與變為FFR形態的假面騎士發動連攜必殺技，單獨使用時必須變身為卡片對應的假面騎士才可以使用，發動對應的假面騎士的必殺技。而在Complete Form時則須召喚對應的假面騎士才可以，該分身會和Decade一同使出對應的必殺技。
 
 ### Final Kamen Ride
 
 原文：「」
 
 格式：「藍色/暗金色條碼背景+該名騎士標誌+該名騎士」
-Decade用K-touch變身成Complete Form 時使用的卡片，第二十一話出場。其Final Kamen
-Ride的聲效由K-touch讀出，卡片沒有真正出現過。
+Decade用K-touch變身成Complete Form 時使用的卡片，第二十一話出場。其Final Kamen Ride的聲效由K-touch讀出，卡片沒有真正出現過。
 
 ### Final Kamen Attack Form Ride
 
@@ -748,21 +740,17 @@ Decade可從握把抽出Faiz EDGE。[5]</p></td>
 
   - [Decade使用卡片（於朝日電視台官方網站內）](http://www.tv-asahi.co.jp/decade/rider/card_top.html)
   - [Diend使用卡片（同上）](http://www.tv-asahi.co.jp/decade/rider/card_diend.html)
-  - [-{Decade Complete
-    Form使用卡片}-（同上）](http://www.tv-asahi.co.jp/decade/rider/card_completeform.html)
+  - [-{Decade Complete Form使用卡片}-（同上）](http://www.tv-asahi.co.jp/decade/rider/card_completeform.html)
 
-[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink")
-[Category:平成假面騎士系列](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列 "wikilink")
+[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink") [Category:平成假面騎士系列](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列 "wikilink")
 
 1.  於幪面超人ZI-O第13話擊倒幪面超人GEIZ時使用
 
-2.  於《[假面騎士x超級戰隊
-    超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》中使用。
+2.  於《[假面騎士x超級戰隊 超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")》中使用。
 
 3.  於漫畫版中使用。
 
-4.  Surive Ryuki的必殺技是此劇原創的。另外，大部份假面騎士的最強形態也具有兩種或以上的必殺技，而Complete
-    Form時使用的必殺技，主要都是須運用武器。
+4.  Surive Ryuki的必殺技是此劇原創的。另外，大部份假面騎士的最強形態也具有兩種或以上的必殺技，而Complete Form時使用的必殺技，主要都是須運用武器。
 
 5.
 6.  於[假面騎士ZI-O第](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")13話擊倒假面騎士ZI-O時使用
@@ -770,8 +758,7 @@ Decade可從握把抽出Faiz EDGE。[5]</p></td>
 7.
 8.  於『仮面ライダー Official Datafile 115』登場。
 
-9.  劇中此卡被變成Momotaros卡，但於『仮面ライダーディケイド超全集〈上巻〉』p.35登場且無被「變卡」，而效果於『仮面ライダー
-    Official Datafile 118号』說明。
+9.  劇中此卡被變成Momotaros卡，但於『仮面ライダーディケイド超全集〈上巻〉』p.35登場且無被「變卡」，而效果於『仮面ライダー Official Datafile 118号』說明。
 
 10.
 11. 護星卡。

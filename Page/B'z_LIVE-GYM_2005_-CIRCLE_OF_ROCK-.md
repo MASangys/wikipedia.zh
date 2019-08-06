@@ -1,5 +1,4 @@
-《**B'z LIVE-GYM 2005 -CIRCLE OF
-ROCK-**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第17張LIVE作品映像化(第15張DVD)。
+《**B'z LIVE-GYM 2005 -CIRCLE OF ROCK-**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第17張LIVE作品映像化(第15張DVD)。
 
 ## 簡介
 
@@ -44,8 +43,7 @@ ROCK-**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第17張LIVE作�
 **DISC2**
 
 1.  [Happy Birthday](https://zh.wikipedia.org/wiki/MONSTER "wikilink")
-2.  [love me, I love
-    you](https://zh.wikipedia.org/wiki/love_me,_I_love_you "wikilink")
+2.  [love me, I love you](https://zh.wikipedia.org/wiki/love_me,_I_love_you "wikilink")
 3.  [ねがい](../Page/心願_\(B'z單曲\).md "wikilink")
 4.  [juice](https://zh.wikipedia.org/wiki/juice "wikilink")
 5.  [IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")
@@ -59,6 +57,4 @@ ROCK-**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第17張LIVE作�
   - [B'z Official Web Site](http://bz-vermillion.com/)
   - [B'z LIVE-GYM.COM](http://www.bz-livegym.com/)
 
-[Category:2013年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2013年音樂相關影像作品 "wikilink")
-[Category:B'z影像作品](https://zh.wikipedia.org/wiki/Category:B'z影像作品 "wikilink")
-[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
+[Category:2013年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2013年音樂相關影像作品 "wikilink") [Category:B'z影像作品](https://zh.wikipedia.org/wiki/Category:B'z影像作品 "wikilink") [Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")

@@ -1,5 +1,4 @@
-**AMD-65** (**A**utomata **M**ódosított **D**eszant 19**65**)
-是[匈牙利](../Page/匈牙利.md "wikilink")生產的[AKM仿製型之一](https://zh.wikipedia.org/wiki/AKM "wikilink")，主要配發給當時的車輛人員及[傘兵](../Page/傘兵.md "wikilink")使用。它同時可用作一件步兵武器以應付室外的戰鬥，亦可用作裝甲車輛的火力支援武器。
+**AMD-65** (**A**utomata **M**ódosított **D**eszant 19**65**) 是[匈牙利](../Page/匈牙利.md "wikilink")生產的[AKM仿製型之一](https://zh.wikipedia.org/wiki/AKM "wikilink")，主要配發給當時的車輛人員及[傘兵](../Page/傘兵.md "wikilink")使用。它同時可用作一件步兵武器以應付室外的戰鬥，亦可用作裝甲車輛的火力支援武器。
 
 ## 設計
 
@@ -13,8 +12,7 @@ AMD-65發射[7.62×39毫米中間型威力槍彈](../Page/7.62×39mm.md "wikilin
 
 ## 使用國
 
-[Afghan_border_police_aiming_a_weapon.jpg](https://zh.wikipedia.org/wiki/File:Afghan_border_police_aiming_a_weapon.jpg "fig:Afghan_border_police_aiming_a_weapon.jpg")
-[Female_Afghan_police_officers_qualification_2010.jpg](https://zh.wikipedia.org/wiki/File:Female_Afghan_police_officers_qualification_2010.jpg "fig:Female_Afghan_police_officers_qualification_2010.jpg")
+[Afghan_border_police_aiming_a_weapon.jpg](https://zh.wikipedia.org/wiki/File:Afghan_border_police_aiming_a_weapon.jpg "fig:Afghan_border_police_aiming_a_weapon.jpg") [Female_Afghan_police_officers_qualification_2010.jpg](https://zh.wikipedia.org/wiki/File:Female_Afghan_police_officers_qualification_2010.jpg "fig:Female_Afghan_police_officers_qualification_2010.jpg")
 
   -
   -
@@ -40,8 +38,7 @@ AMD-65發射[7.62×39毫米中間型威力槍彈](../Page/7.62×39mm.md "wikilin
 
   - [AKM](https://zh.wikipedia.org/wiki/AKM "wikilink")
   - [AIM](https://zh.wikipedia.org/wiki/AIM突擊步槍 "wikilink")
-  - [Zastava
-    M70](https://zh.wikipedia.org/wiki/Zastava_M70突擊步槍 "wikilink")
+  - [Zastava M70](https://zh.wikipedia.org/wiki/Zastava_M70突擊步槍 "wikilink")
   - [56式](../Page/56式自動步槍.md "wikilink")
 
 ## 參考
@@ -55,8 +52,4 @@ AMD-65發射[7.62×39毫米中間型威力槍彈](../Page/7.62×39mm.md "wikilin
   - [有關AMD-65的圖片和介紹](http://www.hungariae.com/AMD65.htm)
   - [AMD-65的歷史](http://www.kalasnyikov.hu/index.php?page=cikkek&proba=1&story=64)
 
-[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink")
-[Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink")
-[Category:7.62×39毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×39毫米槍械 "wikilink")
-[Category:匈牙利槍械](https://zh.wikipedia.org/wiki/Category:匈牙利槍械 "wikilink")
-[Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
+[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:7.62×39毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×39毫米槍械 "wikilink") [Category:匈牙利槍械](https://zh.wikipedia.org/wiki/Category:匈牙利槍械 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")

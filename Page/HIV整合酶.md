@@ -41,8 +41,7 @@ HIV入侵宿主细胞后，首先将两条[RNA链](https://zh.wikipedia.org/wiki
   - [靶向整合过程不同步骤的HIV-1整合酶抑制剂的结构类型和研究进展](http://www.cnki.com.cn/Article/CJFDTOTAL-YJHU200904007.htm)
   - [Ⅰ型人类免疫缺陷病毒整合酶及其抑制剂研究进展](http://www.cnki.com.cn/Article/CJFDTOTAL-SYYD200902020.htm)
 
-[Category:病毒学](https://zh.wikipedia.org/wiki/Category:病毒学 "wikilink")
-[Category:病毒酶](https://zh.wikipedia.org/wiki/Category:病毒酶 "wikilink")
+[Category:病毒学](https://zh.wikipedia.org/wiki/Category:病毒学 "wikilink") [Category:病毒酶](https://zh.wikipedia.org/wiki/Category:病毒酶 "wikilink")
 
 1.  《生物学 必修3》浙江科学技术出版社 第60页第4段
 2.

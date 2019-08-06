@@ -1,6 +1,4 @@
-**DREAM
-SKIPPER**是[日本](../Page/日本.md "wikilink")女[聲優](../Page/聲優.md "wikilink")[歌手](../Page/歌手.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")第3張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2003年11月27日由[King
-Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
+**DREAM SKIPPER**是[日本](../Page/日本.md "wikilink")女[聲優](../Page/聲優.md "wikilink")[歌手](../Page/歌手.md "wikilink")[水樹奈奈](../Page/水樹奈奈.md "wikilink")第3張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2003年11月27日由[King Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
 
 ## 收錄曲
 
@@ -10,8 +8,7 @@ Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
       - 作詞、作曲、編曲：矢吹俊郎
 3.  Keep your hands in the air
       - 作詞：矢吹俊郎；作曲、編曲：飯田高広
-4.  [still in the
-    groove](https://zh.wikipedia.org/wiki/still_in_the_groove "wikilink")
+4.  [still in the groove](https://zh.wikipedia.org/wiki/still_in_the_groove "wikilink")
       - 作詞、作曲、編曲：矢吹俊郎
 5.  砂漠の海
       - 作詞：矢吹俊郎；作曲、編曲：大平勉
@@ -31,12 +28,9 @@ Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
       - 作詞：水樹奈々；作曲、編曲：大平勉
 13. in a fix
       - 作詞、作曲、編曲：矢吹俊郎
-14. [New
-    Sensation](https://zh.wikipedia.org/wiki/New_Sensation "wikilink")
+14. [New Sensation](https://zh.wikipedia.org/wiki/New_Sensation "wikilink")
       - 作詞、作曲、編曲：矢吹俊郎
-15. [refrain](https://zh.wikipedia.org/wiki/refrain "wikilink")
-    -classico-
+15. [refrain](https://zh.wikipedia.org/wiki/refrain "wikilink") -classico-
       - 作詞、作曲：矢吹俊郎；編曲：矢吹俊郎・大平勉
 
-[Category:水樹奈奈音樂專輯](https://zh.wikipedia.org/wiki/Category:水樹奈奈音樂專輯 "wikilink")
-[Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
+[Category:水樹奈奈音樂專輯](https://zh.wikipedia.org/wiki/Category:水樹奈奈音樂專輯 "wikilink") [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")

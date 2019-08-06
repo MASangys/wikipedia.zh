@@ -12,12 +12,9 @@ Kaggle中组织一场竞赛的过程如下。
 
 ## 影响
 
-根据Kaggle官方提供的数据，Kaggle在全球范围内拥有将近20万名数据科学家，专业领域从计算机科学到统计学、经济学和数学\[4\]。Kaggle也曾经和[NASA](https://zh.wikipedia.org/wiki/NASA "wikilink")、[维基百科](../Page/维基百科.md "wikilink")、[德勤](../Page/德勤.md "wikilink")和合作举办竞赛。其中的一项奖项高达300万美金的竞赛是Heritage
-Health
-Prize，目的是通过病人看病及吃药住院等数据预测明年病人住院的天数\[5\]。另一项与[微软](../Page/微软.md "wikilink")合作的竞赛则旨在提高[Kinect](../Page/Kinect.md "wikilink")的手势识别精度\[6\]。
+根据Kaggle官方提供的数据，Kaggle在全球范围内拥有将近20万名数据科学家，专业领域从计算机科学到统计学、经济学和数学\[4\]。Kaggle也曾经和[NASA](https://zh.wikipedia.org/wiki/NASA "wikilink")、[维基百科](../Page/维基百科.md "wikilink")、[德勤](../Page/德勤.md "wikilink")和合作举办竞赛。其中的一项奖项高达300万美金的竞赛是Heritage Health Prize，目的是通过病人看病及吃药住院等数据预测明年病人住院的天数\[5\]。另一项与[微软](../Page/微软.md "wikilink")合作的竞赛则旨在提高[Kinect](../Page/Kinect.md "wikilink")的手势识别精度\[6\]。
 
-Kaggle的競賽在愛滋病研究\[7\]、棋牌评级\[8\]和交通预测\[9\]方面取得了成果。基于这些成果产生了一系列的学术论文。产生这一结果的原因是实时积分榜促使参加者不断改进以试图超越当前的最佳实践\[10\]。获胜的方法常常在Kaggle的博客[*No
-Free Hunch*](http://blog.kaggle.com/)上展示。
+Kaggle的競賽在愛滋病研究\[7\]、棋牌评级\[8\]和交通预测\[9\]方面取得了成果。基于这些成果产生了一系列的学术论文。产生这一结果的原因是实时积分榜促使参加者不断改进以试图超越当前的最佳实践\[10\]。获胜的方法常常在Kaggle的博客[*No Free Hunch*](http://blog.kaggle.com/)上展示。
 
 ## 融资
 
@@ -32,30 +29,19 @@ Free Hunch*](http://blog.kaggle.com/)上展示。
 
 ## 扩展阅读
 
-  - ["Competition shines light on dark matter", Office of Science and
-    Technology Policy, Whitehouse website,
-    June 2011](http://www.whitehouse.gov/blog/2011/06/27/competition-shines-light-dark-matter)
-  - ["May the best algorithm win...", *The Wall Street Journal*, March
-    2011](http://online.wsj.com/article/SB10001424052748704662604576202392747278936.html)
-  - ["Kaggle contest aims to boost Wikipedia editors", *New Scientist*,
-    July
-    2011](http://www.newscientist.com/blogs/onepercent/2011/07/kaggle-competition-aims-to-giv.html)
-  - ["Verification of systems biology research in the age of
-    collaborative competition", *Nature Nanotechnology*, September
-    2011](http://www.nature.com/nbt/journal/v29/n9/full/nbt.1968.html)
+  - ["Competition shines light on dark matter", Office of Science and Technology Policy, Whitehouse website, June 2011](http://www.whitehouse.gov/blog/2011/06/27/competition-shines-light-dark-matter)
+  - ["May the best algorithm win...", *The Wall Street Journal*, March 2011](http://online.wsj.com/article/SB10001424052748704662604576202392747278936.html)
+  - ["Kaggle contest aims to boost Wikipedia editors", *New Scientist*, July 2011](http://www.newscientist.com/blogs/onepercent/2011/07/kaggle-competition-aims-to-giv.html)
+  - ["Verification of systems biology research in the age of collaborative competition", *Nature Nanotechnology*, September 2011](http://www.nature.com/nbt/journal/v29/n9/full/nbt.1968.html)
 
 ## 外部链接
 
   -
   - [*No Free Hunch*, the Kaggle blog](http://blog.kaggle.com/)
 
-[Category:众包](https://zh.wikipedia.org/wiki/Category:众包 "wikilink")
-[Category:資料分析](https://zh.wikipedia.org/wiki/Category:資料分析 "wikilink")
-[Category:机器学习](https://zh.wikipedia.org/wiki/Category:机器学习 "wikilink")
-[Category:2010年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2010年加利福尼亞州建立 "wikilink")
+[Category:众包](https://zh.wikipedia.org/wiki/Category:众包 "wikilink") [Category:資料分析](https://zh.wikipedia.org/wiki/Category:資料分析 "wikilink") [Category:机器学习](https://zh.wikipedia.org/wiki/Category:机器学习 "wikilink") [Category:2010年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2010年加利福尼亞州建立 "wikilink")
 
-1.  [Welcome Kaggle to Google
-    Cloud](https://cloudplatform.googleblog.com/2017/03/welcome-Kaggle-to-Google-Cloud.html?m=1).\[2017-03-08\].
+1.  [Welcome Kaggle to Google Cloud](https://cloudplatform.googleblog.com/2017/03/welcome-Kaggle-to-Google-Cloud.html?m=1).\[2017-03-08\].
 2.
 3.
 4.

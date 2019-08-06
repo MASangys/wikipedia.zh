@@ -1,5 +1,4 @@
-《**蒼空騎士～飛向CODA～**》（，），是由[日本](../Page/日本.md "wikilink")遊戲廠商[南夢宮萬代](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")（前身[BANDAI](https://zh.wikipedia.org/wiki/BANDAI "wikilink")）於2010年10月所發行的一款全3D[動作](https://zh.wikipedia.org/wiki/動作 "wikilink")[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演 "wikilink")，使用的平台為[Nintendo
-DS](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")，與之前在[SONY的](https://zh.wikipedia.org/wiki/SONY "wikilink")[PlayStation](../Page/PlayStation.md "wikilink")平台上所發行的《[貓犬協奏曲](../Page/貓犬協奏曲.md "wikilink")》一樣同屬於以[獸人](../Page/獸人.md "wikilink")做為[種族以及](https://zh.wikipedia.org/wiki/種族 "wikilink")[角色設定的遊戲](https://zh.wikipedia.org/wiki/角色設定 "wikilink")，且兩個遊戲的世界觀完全相同。而很多購入本遊戲的愛好者中有一大部分即為當年接觸過貓犬協奏曲的老玩家。
+《**蒼空騎士～飛向CODA～**》（，），是由[日本](../Page/日本.md "wikilink")遊戲廠商[南夢宮萬代](https://zh.wikipedia.org/wiki/南夢宮萬代 "wikilink")（前身[BANDAI](https://zh.wikipedia.org/wiki/BANDAI "wikilink")）於2010年10月所發行的一款全3D[動作](https://zh.wikipedia.org/wiki/動作 "wikilink")[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演 "wikilink")，使用的平台為[Nintendo DS](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")，與之前在[SONY的](https://zh.wikipedia.org/wiki/SONY "wikilink")[PlayStation](../Page/PlayStation.md "wikilink")平台上所發行的《[貓犬協奏曲](../Page/貓犬協奏曲.md "wikilink")》一樣同屬於以[獸人](../Page/獸人.md "wikilink")做為[種族以及](https://zh.wikipedia.org/wiki/種族 "wikilink")[角色設定的遊戲](https://zh.wikipedia.org/wiki/角色設定 "wikilink")，且兩個遊戲的世界觀完全相同。而很多購入本遊戲的愛好者中有一大部分即為當年接觸過貓犬協奏曲的老玩家。
 
 本款遊戲也是開發公司日本CyberConnect2的**十五週年紀念作品**，從開始構思到完成共計花費了十年的時間，其中光是相關開發就花去三年。三年的開發中用於遊戲企劃的時間就有整整一年。另外使用於遊戲中的相關人物、背景、種族、機械、城市、怪物等相關設定插畫與原畫就佔了1000張以上。\[1\]
 
@@ -11,14 +10,11 @@ DS](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")，與之前在[SONY的
 
 ## 系統概要
 
-[Solatorobo_Red_the_Hunter_GAME_COVER_for_EU.jpg](https://zh.wikipedia.org/wiki/File:Solatorobo_Red_the_Hunter_GAME_COVER_for_EU.jpg "fig:Solatorobo_Red_the_Hunter_GAME_COVER_for_EU.jpg")
-[The_actual_picture_of_the_Solatorobo_Red_the_Hunter.gif](https://zh.wikipedia.org/wiki/File:The_actual_picture_of_the_Solatorobo_Red_the_Hunter.gif "fig:The_actual_picture_of_the_Solatorobo_Red_the_Hunter.gif")
-本款作品承續了開發公司Cyberconnent於1998年的前作[貓犬協奏曲](../Page/貓犬協奏曲.md "wikilink")，於2010年10月28日在日本先行推出。遊戲硬體平台從原先[SONY的](https://zh.wikipedia.org/wiki/SONY "wikilink")[PlayStation](../Page/PlayStation.md "wikilink")桌上型主機改由任天堂DS（[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")）掌上型主機，玩家必須使用任天堂DS的本身[按鍵進行遊戲](https://zh.wikipedia.org/wiki/按鍵 "wikilink")，不支援外接[搖桿的功能](https://zh.wikipedia.org/wiki/搖桿 "wikilink")。而本款遊戲也針對本型主機的上下[雙螢幕架構進行了](https://zh.wikipedia.org/wiki/雙螢幕 "wikilink")[顯示上的調整](https://zh.wikipedia.org/wiki/顯示 "wikilink")，使玩家得以充分發揮任天堂DS的功能來進行遊玩。由於硬體容量大幅度增加的因素，實際上本遊戲還區分為「前段」與「後段」兩大篇章節，開頭[動畫與](https://zh.wikipedia.org/wiki/動畫 "wikilink")[主題歌的歌詞皆不同](https://zh.wikipedia.org/wiki/主題歌 "wikilink")。讓玩家不會覺得遊戲劇情一下就結束，可以玩的更久，使其更加的體會本作品的磅礡浩大。
+[Solatorobo_Red_the_Hunter_GAME_COVER_for_EU.jpg](https://zh.wikipedia.org/wiki/File:Solatorobo_Red_the_Hunter_GAME_COVER_for_EU.jpg "fig:Solatorobo_Red_the_Hunter_GAME_COVER_for_EU.jpg") [The_actual_picture_of_the_Solatorobo_Red_the_Hunter.gif](https://zh.wikipedia.org/wiki/File:The_actual_picture_of_the_Solatorobo_Red_the_Hunter.gif "fig:The_actual_picture_of_the_Solatorobo_Red_the_Hunter.gif") 本款作品承續了開發公司Cyberconnent於1998年的前作[貓犬協奏曲](../Page/貓犬協奏曲.md "wikilink")，於2010年10月28日在日本先行推出。遊戲硬體平台從原先[SONY的](https://zh.wikipedia.org/wiki/SONY "wikilink")[PlayStation](../Page/PlayStation.md "wikilink")桌上型主機改由任天堂DS（[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")）掌上型主機，玩家必須使用任天堂DS的本身[按鍵進行遊戲](https://zh.wikipedia.org/wiki/按鍵 "wikilink")，不支援外接[搖桿的功能](https://zh.wikipedia.org/wiki/搖桿 "wikilink")。而本款遊戲也針對本型主機的上下[雙螢幕架構進行了](https://zh.wikipedia.org/wiki/雙螢幕 "wikilink")[顯示上的調整](https://zh.wikipedia.org/wiki/顯示 "wikilink")，使玩家得以充分發揮任天堂DS的功能來進行遊玩。由於硬體容量大幅度增加的因素，實際上本遊戲還區分為「前段」與「後段」兩大篇章節，開頭[動畫與](https://zh.wikipedia.org/wiki/動畫 "wikilink")[主題歌的歌詞皆不同](https://zh.wikipedia.org/wiki/主題歌 "wikilink")。讓玩家不會覺得遊戲劇情一下就結束，可以玩的更久，使其更加的體會本作品的磅礡浩大。
 
 本款遊戲與貓犬協奏曲的世界觀相同，一樣使用位於天空中的浮游大陸作為遊戲舞台，一樣有各式飛行機械登場的超科學幻想系列。\[5\]而玩家一樣使用[第三人稱視點來操作主角進行遊戲中的移動以及對話](https://zh.wikipedia.org/wiki/第三人稱 "wikilink")。在[世界地圖中](https://zh.wikipedia.org/wiki/世界地圖 "wikilink")，玩家的飛行船之移動方式被改為單方向的[選單](../Page/選單.md "wikilink")，只要上下選擇即可前往指定的地區進行探索與冒險。而於探險場景移動時，遊戲會將玩家目前所在的位置以輔助地圖（小地圖）的形式顯示於玩家任天堂DS的上層螢幕中，使玩家於大型場景探索時不致於迷路或重複進到同樣的區域。
 
-在場景移動時，若碰上敵人或怪物，會自動進入戰鬥模式（BATTLE
-MODE）。玩家必須善用主角的機器人來進行「抓取」敵人後「丟出」使其暈眩後才能造成損傷。而本作中可以學會的戰鬥技能很多，隨著劇情推進，玩家可以學到將敵人丟出後於空中再抓取的[連續](https://zh.wikipedia.org/wiki/連續 "wikilink")[技能](https://zh.wikipedia.org/wiki/技能 "wikilink")。而同樣的機器人操作方式，會隨著遊戲中主角更換其他機型的機體而有不同的動作效果，使戰鬥更加多樣化。
+在場景移動時，若碰上敵人或怪物，會自動進入戰鬥模式（BATTLE MODE）。玩家必須善用主角的機器人來進行「抓取」敵人後「丟出」使其暈眩後才能造成損傷。而本作中可以學會的戰鬥技能很多，隨著劇情推進，玩家可以學到將敵人丟出後於空中再抓取的[連續](https://zh.wikipedia.org/wiki/連續 "wikilink")[技能](https://zh.wikipedia.org/wiki/技能 "wikilink")。而同樣的機器人操作方式，會隨著遊戲中主角更換其他機型的機體而有不同的動作效果，使戰鬥更加多樣化。
 
 本作中一樣保有貓犬協奏曲中的要素「[生命值](../Page/生命值.md "wikilink")（LIFE）」，玩家受到攻擊或不慎從空中場景摔落到雲海中皆會損傷，生命值歸零時主角將無法動彈，此時遊戲便宣告結束。而生命值一樣可以藉由場景中的道具來進行回復。另一項要素就是主角可以離開機器人自己行走，用來在特定場景中操作專用機械。而某些場景會有天然障礙（積水／獸人專用樓梯、通道）阻隔機器人前進，此時也要使用獸人模式進行移動和探索。於獸人移動模式下的主角不具有任何攻擊力，碰到敵人只能迴避戰鬥或使用隨身攜帶的[電擊槍來麻痺敵人後快速離開](https://zh.wikipedia.org/wiki/電擊槍 "wikilink")。
 
@@ -305,8 +301,7 @@ MODE）。玩家必須善用主角的機器人來進行「抓取」敵人後「�
 
 ## 世界紀錄達成
 
-本遊戲在日本地區發行時，為了增加在日本當地[媒體上的曝光度](https://zh.wikipedia.org/wiki/媒體 "wikilink")，曾經在電視上推出一系列名為「**蒼空騎士大百科**」的電視宣傳短篇廣告。共計所有的章節為100章，也就是有100段的廣告片段，在日本的[TOKYO
-MX電視台](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")（東京都會電視台），於2010年10月28日當日，在「下午三點」（1500）到「晚上十一點」（2300）這八個小時的[節目時段中](https://zh.wikipedia.org/wiki/節目 "wikilink")，隨時於[廣告](../Page/廣告.md "wikilink")時段中依序播放。（每個片段都不同）
+本遊戲在日本地區發行時，為了增加在日本當地[媒體上的曝光度](https://zh.wikipedia.org/wiki/媒體 "wikilink")，曾經在電視上推出一系列名為「**蒼空騎士大百科**」的電視宣傳短篇廣告。共計所有的章節為100章，也就是有100段的廣告片段，在日本的[TOKYO MX電視台](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")（東京都會電視台），於2010年10月28日當日，在「下午三點」（1500）到「晚上十一點」（2300）這八個小時的[節目時段中](https://zh.wikipedia.org/wiki/節目 "wikilink")，隨時於[廣告](../Page/廣告.md "wikilink")時段中依序播放。（每個片段都不同）
 
 這100篇片段與撥出時間被送往[金氏世界紀錄認證](https://zh.wikipedia.org/wiki/金氏世界紀錄 "wikilink")，於2011年6月下旬時獲得金氏世界紀錄委員會的承認，得到的紀錄頭銜是「**世界上特定時間內，於電視上播放最多內容不一樣廣告的單一商品**」。
 
@@ -320,8 +315,7 @@ MX電視台](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")（東京都會�
   - [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")：三谷朋世
   - [片頭曲](https://zh.wikipedia.org/wiki/片頭曲 "wikilink")：「**それからCODAへ**」（飛向CODA）
   - [片尾曲](https://zh.wikipedia.org/wiki/片尾曲 "wikilink")：「**Re-CODA**」（再一次CODA）
-  - 遊戲[插入歌](https://zh.wikipedia.org/wiki/插入歌 "wikilink")：「**流れ星☆キラリ**」（一顆流星☆Kirari
-    或直接稱作 閃閃發光的流星）
+  - 遊戲[插入歌](https://zh.wikipedia.org/wiki/插入歌 "wikilink")：「**流れ星☆キラリ**」（一顆流星☆Kirari 或直接稱作 閃閃發光的流星）
 
 其中插入歌的部分，源自於本作品遊戲劇情中一位女獸人偶像歌手「可可娜」的熱門歌曲。在遊戲劇情中僅出現無人聲的配樂版，於劇情中巧可拉和可可娜對話時使用作為背景音樂。而有可可娜主唱的人聲版被收入於限定發售的遊戲包裝中所附贈的遊戲原聲CD中。
 
@@ -350,24 +344,12 @@ MX電視台](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")（東京都會�
   - \[<http://www.solarobo.channel.or.jp/reputation/index.html>　廣告連續播放金氏世界紀錄達成紀念網頁\]（日本BANDAI）
   - \[<http://www.cc2.co.jp/mamoru/>　劇中串場角色：日本福岡縣消防救助犬「守護君」的專屬官網\]（日本CyberConnect2）
 
-[Category:万代游戏](https://zh.wikipedia.org/wiki/Category:万代游戏 "wikilink")
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink")
-[Category:貓題材作品](https://zh.wikipedia.org/wiki/Category:貓題材作品 "wikilink")
-[Category:狗主角故事](https://zh.wikipedia.org/wiki/Category:狗主角故事 "wikilink")
-[Category:Madhouse](https://zh.wikipedia.org/wiki/Category:Madhouse "wikilink")
+[Category:万代游戏](https://zh.wikipedia.org/wiki/Category:万代游戏 "wikilink") [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:动作角色扮演游戏](https://zh.wikipedia.org/wiki/Category:动作角色扮演游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink") [Category:貓題材作品](https://zh.wikipedia.org/wiki/Category:貓題材作品 "wikilink") [Category:狗主角故事](https://zh.wikipedia.org/wiki/Category:狗主角故事 "wikilink") [Category:Madhouse](https://zh.wikipedia.org/wiki/Category:Madhouse "wikilink")
 
-1.  \[<http://gnn.gamer.com.tw/8/43268.html>　CC2十五週年紀念新作《飛行機器冒險傳》正式公開\]巴哈姆特
-    2010-3-30
-2.  \[<http://gnn.gamer.com.tw/2/43542.html>　《飛行機器冒險傳》15周年紀念作登場
-    犬貓空想科學世界大冒險\]巴哈姆特 2010-4-10
-3.  \[<http://www.solarobo.channel.or.jp/reputation/index.html>　Solatorobo(ソラトロボ)それからCODAへ
-    REPUTATION\]日本BANDAI
-4.  \[<http://www.solarobo.channel.or.jp/pedia/index.html>　Solatorobo(ソラトロボ)それからCODAへ
-    ENCYCLOPEDIA\]日本BANDAI
+1.  \[<http://gnn.gamer.com.tw/8/43268.html>　CC2十五週年紀念新作《飛行機器冒險傳》正式公開\]巴哈姆特 2010-3-30
+2.  \[<http://gnn.gamer.com.tw/2/43542.html>　《飛行機器冒險傳》15周年紀念作登場 犬貓空想科學世界大冒險\]巴哈姆特 2010-4-10
+3.  \[<http://www.solarobo.channel.or.jp/reputation/index.html>　Solatorobo(ソラトロボ)それからCODAへ REPUTATION\]日本BANDAI
+4.  \[<http://www.solarobo.channel.or.jp/pedia/index.html>　Solatorobo(ソラトロボ)それからCODAへ ENCYCLOPEDIA\]日本BANDAI
 5.  [ゲストキャラクター](http://www.solarobo.channel.or.jp/system/index.html)
-6.  \[<http://gnn.gamer.com.tw/5/48045.html>　《蒼空騎士 ～飛向
-    CODA～》兩部懷念角色跨作品客串登場\]巴哈姆特 2010-10-27
+6.  \[<http://gnn.gamer.com.tw/5/48045.html>　《蒼空騎士 ～飛向 CODA～》兩部懷念角色跨作品客串登場\]巴哈姆特 2010-10-27
 7.  \[<http://www.solarobo.channel.or.jp/reputation/index.html>　作品官網\]

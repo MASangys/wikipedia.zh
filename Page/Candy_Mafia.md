@@ -1,6 +1,4 @@
-**Candy Mafia**，為泰國的[Mono
-Music公司在](https://zh.wikipedia.org/wiki/Mono_Music "wikilink")2009年所推出的女子團體，現任成員包括Nett、Bam-Bam、
-Milk、Garn。
+**Candy Mafia**，為泰國的[Mono Music公司在](https://zh.wikipedia.org/wiki/Mono_Music "wikilink")2009年所推出的女子團體，現任成員包括Nett、Bam-Bam、 Milk、Garn。
 
 ## 成員資料
 
@@ -170,10 +168,4 @@ Milk、Garn。
   -
   -
   -
-[Category:泰國流行音樂團體](https://zh.wikipedia.org/wiki/Category:泰國流行音樂團體 "wikilink")
-[Category:泰語流行音樂團體](https://zh.wikipedia.org/wiki/Category:泰語流行音樂團體 "wikilink")
-[Category:泰國女子演唱團體](https://zh.wikipedia.org/wiki/Category:泰國女子演唱團體 "wikilink")
-[Category:泰國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:泰國流行音樂歌手 "wikilink")
-[Category:泰語歌手](https://zh.wikipedia.org/wiki/Category:泰語歌手 "wikilink")
-[Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
-[Category:Mono音樂](https://zh.wikipedia.org/wiki/Category:Mono音樂 "wikilink")
+[Category:泰國流行音樂團體](https://zh.wikipedia.org/wiki/Category:泰國流行音樂團體 "wikilink") [Category:泰語流行音樂團體](https://zh.wikipedia.org/wiki/Category:泰語流行音樂團體 "wikilink") [Category:泰國女子演唱團體](https://zh.wikipedia.org/wiki/Category:泰國女子演唱團體 "wikilink") [Category:泰國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:泰國流行音樂歌手 "wikilink") [Category:泰語歌手](https://zh.wikipedia.org/wiki/Category:泰語歌手 "wikilink") [Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink") [Category:Mono音樂](https://zh.wikipedia.org/wiki/Category:Mono音樂 "wikilink")

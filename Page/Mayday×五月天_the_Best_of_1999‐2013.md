@@ -1,10 +1,8 @@
-《**Mayday×五月天 the Best of
-1999‐2013**》（）\[1\]是台灣搖滾樂團[五月天](../Page/五月天.md "wikilink")在[日本](../Page/日本.md "wikilink")發行的第一張（總計第三張）精選輯，由日本唱片公司[A-Sketch](../Page/A-Sketch.md "wikilink")於2013年11月13日發行\[2\]\[3\]。
+**《Mayday×五月天 the Best of 1999‐2013》**（）是台灣搖滾樂團[五月天](../Page/五月天.md "wikilink")在[日本](../Page/日本.md "wikilink")發行的第一張（總計第三張）精選輯 \[1\]，由日本唱片公司[A-Sketch](../Page/A-Sketch.md "wikilink")於2013年11月13日發行\[2\]\[3\]。
 
 ## 專輯簡介
 
-此張精選輯收錄五月天從1999至2013年所發行的歌曲中選出的15首作品，其中含與[flumpool合作的日文單曲](../Page/凡人譜.md "wikilink")《[Belief～給等待春天的你～](https://zh.wikipedia.org/wiki/坚强虚幻/Belief_～给等待春天的你～ "wikilink")》，以及日語版《OAOA》、《Dancin'
-Dancin'》等歌曲。
+此張精選輯收錄五月天從1999至2013年所發行的歌曲中選出的15首作品，其中含與[flumpool合作的日文單曲](../Page/凡人譜.md "wikilink")《[Belief～給等待春天的你～](https://zh.wikipedia.org/wiki/坚强虚幻/Belief_～给等待春天的你～ "wikilink")》，以及日語版《OAOA》、《Dancin' Dancin'》等歌曲。
 
 ## 曲目
 
@@ -62,12 +60,7 @@ Dancin'》等歌曲。
 
 ## 參考文獻
 
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:A-Sketch音樂專輯](https://zh.wikipedia.org/wiki/Category:A-Sketch音樂專輯 "wikilink")
-[Category:相信音樂製作音樂專輯](https://zh.wikipedia.org/wiki/Category:相信音樂製作音樂專輯 "wikilink")
-[Category:五月天音樂專輯](https://zh.wikipedia.org/wiki/Category:五月天音樂專輯 "wikilink")
-[Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
+[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:A-Sketch音樂專輯](https://zh.wikipedia.org/wiki/Category:A-Sketch音樂專輯 "wikilink") [Category:相信音樂製作音樂專輯](https://zh.wikipedia.org/wiki/Category:相信音樂製作音樂專輯 "wikilink") [Category:五月天音樂專輯](https://zh.wikipedia.org/wiki/Category:五月天音樂專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
 
 1.
 2.

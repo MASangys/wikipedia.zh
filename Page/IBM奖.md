@@ -1,5 +1,4 @@
-[David_Robinson_(Team_USA).jpg](https://zh.wikipedia.org/wiki/File:David_Robinson_\(Team_USA\).jpg "fig:David_Robinson_(Team_USA).jpg")[中锋](https://zh.wikipedia.org/wiki/中锋_\(篮球\) "wikilink")[大卫·罗宾逊共计五次获](https://zh.wikipedia.org/wiki/大卫·罗宾逊 "wikilink")奖。\]\]
-**奖**是1984至2002年间颁发给篮球运动员的年度奖项。该奖由科技公司赞助，经-{zh-cn:计算机;zh-tw:電腦;}-公式决定得主，公式以球员对球队所做贡献为衡量标准。每个赛季中对所在球队贡献最大的球员获奖\[1\]。[洛杉矶湖人](../Page/洛杉矶湖人.md "wikilink")的[魔术师约翰逊](../Page/魔术师约翰逊.md "wikilink")是奖项的首位得主，最后一位获奖者则是[圣安东尼奥马刺](../Page/圣安东尼奥马刺.md "wikilink")的[蒂姆·邓肯](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")。奖原名“关键球员奖”（），由[舒适](https://zh.wikipedia.org/wiki/舒适_\(剃须刀\) "wikilink")（）剃须刀公司提供赞助\[2\]。
+[David_Robinson_(Team_USA).jpg](https://zh.wikipedia.org/wiki/File:David_Robinson_\(Team_USA\).jpg "fig:David_Robinson_(Team_USA).jpg")[中锋](https://zh.wikipedia.org/wiki/中锋_\(篮球\) "wikilink")[大卫·罗宾逊共计五次获](https://zh.wikipedia.org/wiki/大卫·罗宾逊 "wikilink")奖。\]\] **奖**是1984至2002年间颁发给篮球运动员的年度奖项。该奖由科技公司赞助，经-{zh-cn:计算机;zh-tw:電腦;}-公式决定得主，公式以球员对球队所做贡献为衡量标准。每个赛季中对所在球队贡献最大的球员获奖\[1\]。[洛杉矶湖人](../Page/洛杉矶湖人.md "wikilink")的[魔术师约翰逊](../Page/魔术师约翰逊.md "wikilink")是奖项的首位得主，最后一位获奖者则是[圣安东尼奥马刺](../Page/圣安东尼奥马刺.md "wikilink")的[蒂姆·邓肯](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")。奖原名“关键球员奖”（），由[舒适](https://zh.wikipedia.org/wiki/舒适_\(剃须刀\) "wikilink")（）剃须刀公司提供赞助\[2\]。
 
 获奖的大部分球员都是球队的[前锋或](https://zh.wikipedia.org/wiki/籃球 "wikilink")[中锋](https://zh.wikipedia.org/wiki/中锋_\(篮球\) "wikilink")，许多人在相应赛季争得的[篮板球](../Page/篮板球.md "wikilink")数量也是最多的\[3\]。奖项一共颁发了19次，其中[圣安东尼奥马刺](../Page/圣安东尼奥马刺.md "wikilink")队球员有6次获奖，[费城76人](../Page/费城76人.md "wikilink")和[洛杉矶湖人](../Page/洛杉矶湖人.md "wikilink")队球员各有3次获奖，[芝加哥公牛](../Page/芝加哥公牛.md "wikilink")和[底特律活塞](../Page/底特律活塞.md "wikilink")队球员各有两次获奖\[4\]。[大卫·罗宾逊获奖次数最多](https://zh.wikipedia.org/wiki/大卫·罗宾逊 "wikilink")，达到5次，[查尔斯·巴克利](../Page/查尔斯·巴克利.md "wikilink")有3次获奖，[迈克尔·乔丹](../Page/迈克尔·乔丹.md "wikilink")和[沙奎尔·奥尼尔](../Page/沙奎尔·奥尼尔.md "wikilink")各有2次获奖\[5\]。
 
@@ -7,8 +6,7 @@
 
 ## 获奖球员
 
-[Barkley_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Barkley_Lipofsky.jpg "fig:Barkley_Lipofsky.jpg")前锋[查尔斯·巴克利](../Page/查尔斯·巴克利.md "wikilink")先后三度获奖。\]\]
-[Tim_Duncan_portrait.jpg](https://zh.wikipedia.org/wiki/File:Tim_Duncan_portrait.jpg "fig:Tim_Duncan_portrait.jpg")中锋[蒂姆·邓肯是最后一位](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")奖得主。\]\]
+[Barkley_Lipofsky.jpg](https://zh.wikipedia.org/wiki/File:Barkley_Lipofsky.jpg "fig:Barkley_Lipofsky.jpg")前锋[查尔斯·巴克利](../Page/查尔斯·巴克利.md "wikilink")先后三度获奖。\]\] [Tim_Duncan_portrait.jpg](https://zh.wikipedia.org/wiki/File:Tim_Duncan_portrait.jpg "fig:Tim_Duncan_portrait.jpg")中锋[蒂姆·邓肯是最后一位](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")奖得主。\]\]
 
 |        |                                                           |
 | ------ | --------------------------------------------------------- |
@@ -186,11 +184,7 @@
 
   - 特定
 
-[Category:1984年建立的奖项](https://zh.wikipedia.org/wiki/Category:1984年建立的奖项 "wikilink")
-[Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink")
-[Category:2002年停颁的奖项](https://zh.wikipedia.org/wiki/Category:2002年停颁的奖项 "wikilink")
-[Category:IBM](https://zh.wikipedia.org/wiki/Category:IBM "wikilink")
-[Category:NBA列表](https://zh.wikipedia.org/wiki/Category:NBA列表 "wikilink")
+[Category:1984年建立的奖项](https://zh.wikipedia.org/wiki/Category:1984年建立的奖项 "wikilink") [Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink") [Category:2002年停颁的奖项](https://zh.wikipedia.org/wiki/Category:2002年停颁的奖项 "wikilink") [Category:IBM](https://zh.wikipedia.org/wiki/Category:IBM "wikilink") [Category:NBA列表](https://zh.wikipedia.org/wiki/Category:NBA列表 "wikilink")
 
 1.
 

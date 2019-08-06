@@ -8,15 +8,7 @@ function stringToTable(s) --字串轉陣列
 `   end`
 `   return t`
 
-end local ClearTenOne, NoClearOne, ClearAllOne = 0, 1, 2
---清除首位1的狀況，清十前1、不清1、清所有首位1 local Normal,
-Financial = 0, 1 --小寫和大寫 local Over, Ten, Hundred, Thousand, LargeStart
-= 10, 11, 12, 13, 14 --Over是萬進的節點ID，LargeStart是萬進位數中文的開始ID local
-standard = { { '〇', '一', '二', '三', '四', '五', '六', '七', '八', '九' }, {
-'零', '壹', '貳', '叄', '䦉', '伍', '陸', '柒', '捌', '玖' } } local decimal = {
-{ '', '十', '百', '千' }, { '', '拾', '佰', '仟' } } local large = { '', '萬',
-'億', '兆', '京', '垓', '秭', '穰', '溝', '澗', '正', '載', '極', '恆河沙', '阿僧祇',
-'那由他', '不可思議', '無量', '大數' } local largeSize = \#large
+end local ClearTenOne, NoClearOne, ClearAllOne = 0, 1, 2 --清除首位1的狀況，清十前1、不清1、清所有首位1 local Normal, Financial = 0, 1 --小寫和大寫 local Over, Ten, Hundred, Thousand, LargeStart = 10, 11, 12, 13, 14 --Over是萬進的節點ID，LargeStart是萬進位數中文的開始ID local standard = { { '〇', '一', '二', '三', '四', '五', '六', '七', '八', '九' }, { '零', '壹', '貳', '叄', '䦉', '伍', '陸', '柒', '捌', '玖' } } local decimal = { { '', '十', '百', '千' }, { '', '拾', '佰', '仟' } } local large = { '', '萬', '億', '兆', '京', '垓', '秭', '穰', '溝', '澗', '正', '載', '極', '恆河沙', '阿僧祇', '那由他', '不可思議', '無量', '大數' } local largeSize = \#large
 
 function argsToVariable(frame) --輸入參數陣列轉變數
 
@@ -89,8 +81,7 @@ end function LessThan10000ToID(number) --低於10000的轉換，用途為中文�
 `   end`
 `   return id`
 
-end function FrontNumberToChinese(number, numberType, clearOne)
---這邊的前數指的是大數，但實際英文並非如此稱呼，只是要讓名稱淺顯易懂
+end function FrontNumberToChinese(number, numberType, clearOne) --這邊的前數指的是大數，但實際英文並非如此稱呼，只是要讓名稱淺顯易懂
 
 `   number = '0000' .. number --把位數補到4的倍數，先補4個0在清除多餘的，下列程式本身有去除首位0的功能，若首位0會自動消除`
 `   number = number:sub(#number % 4 + 1)`
@@ -130,8 +121,7 @@ end function FrontNumberToChinese(number, numberType, clearOne)
 `   end`
 `   return chinese`
 
-end function BackNumberToChinese(number, numberType)
---這邊的後數指的是小數，但實際英文並非如此稱呼，只是要讓名稱淺顯易懂
+end function BackNumberToChinese(number, numberType) --這邊的後數指的是小數，但實際英文並非如此稱呼，只是要讓名稱淺顯易懂
 
 `   local chinese = ''`
 `   local numberLength = #number`
@@ -150,9 +140,7 @@ end function BackNumberToChinese(number, numberType)
 
 end
 
-\--轉給其他模組使用，但為了避免影響其他運作中模板，改為函數呼叫
---因此此函數命名遵照[Wikipedia:Lua代码风格\#命名常规](https://zh.wikipedia.org/wiki/Wikipedia:Lua代码风格#命名常规 "wikilink")
-function p._numberToChinese(number, numberType, clearOne)
+\--轉給其他模組使用，但為了避免影響其他運作中模板，改為函數呼叫 --因此此函數命名遵照[Wikipedia:Lua代码风格\#命名常规](https://zh.wikipedia.org/wiki/Wikipedia:Lua代码风格#命名常规 "wikilink") function p._numberToChinese(number, numberType, clearOne)
 
 `   return NumberToChinese(tostring(number), numberType or 0, clearOne or 0) --轉中文`
 
@@ -191,8 +179,7 @@ function NumberToChinese(number, numberType, clearOne) --轉中文
 `   end`
 `   return chinese`
 
-end function NumberToChineseNumbering(number, numberType)
---編號用途，編號只敘述數字不敘述進位系統，且有多個「點」和「之」
+end function NumberToChineseNumbering(number, numberType) --編號用途，編號只敘述數字不敘述進位系統，且有多個「點」和「之」
 
 `   local chinese = ''`
 `   local numberLength = #number`

@@ -1,21 +1,12 @@
-《**StarRingChild
-EP**》是日本歌手[Aimer](../Page/Aimer.md "wikilink")的第6张[单曲](../Page/单曲.md "wikilink")。2014年5月21日由[DefSTAR
-Records发售](../Page/DefSTAR_Records.md "wikilink")。
+《**StarRingChild EP**》是日本歌手[Aimer](../Page/Aimer.md "wikilink")的第6张[单曲](../Page/单曲.md "wikilink")。2014年5月21日由[DefSTAR Records发售](../Page/DefSTAR_Records.md "wikilink")。
 
 ## 概要
 
-《StarRingChild
-EP》收录有被选为[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")[动画](../Page/动画.md "wikilink")《[机动战士GUNDAM
-UC](https://zh.wikipedia.org/wiki/机动战士GUNDAM_UC "wikilink")》最后一集主题歌的《StarRingChild》及其伴奏带和Movie版歌曲，另收录有《Even
-Heaven》、《Mine》两首配曲。本单曲同名主打曲《StarRingChild》是歌手Aimer继前作《RE：I
-AM》（《机动战士高达UC》第六集《宇宙与地球》主题曲）之后再次为该部动画献唱，音乐制作则同样是[泽野弘之](../Page/泽野弘之.md "wikilink")。\[1\]\[2\]
+《StarRingChild EP》收录有被选为[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")[动画](../Page/动画.md "wikilink")《[机动战士GUNDAM UC](https://zh.wikipedia.org/wiki/机动战士GUNDAM_UC "wikilink")》最后一集主题歌的《StarRingChild》及其伴奏带和Movie版歌曲，另收录有《Even Heaven》、《Mine》两首配曲。本单曲同名主打曲《StarRingChild》是歌手Aimer继前作《RE：I AM》（《机动战士高达UC》第六集《宇宙与地球》主题曲）之后再次为该部动画献唱，音乐制作则同样是[泽野弘之](../Page/泽野弘之.md "wikilink")。\[1\]\[2\]
 
 本单曲有CD＋DVD的初回生产限定碟、标准碟和限期生产的动画碟三种类型的CD发售，限期生产的动画碟的封面为插画家[森下直亲绘制的全身散发绿色](https://zh.wikipedia.org/wiki/森下直亲 "wikilink")[精神感应框体光芒的](https://zh.wikipedia.org/wiki/New_Type "wikilink")[全武装型独角兽](https://zh.wikipedia.org/wiki/RX-0#1號機 "wikilink")，并附赠有購入者特典活动“東京・大阪教会现场演唱”参加申请用明信片\[3\]\[4\]。首批发售的所有版本的单品均附有特典，内容包括DVD版的《StarRingChild》音乐视频、星屑式样的透明外盒以及内附的抽奖券\[5\]。
 
-2014年5月14日，《机动战士GUNDAM
-UC》的制作方发布了其最后一集的一个预告，以《StarRingChild》为配乐，配合画面则是法国克鲁尼美术馆所藏的[织锦](https://zh.wikipedia.org/wiki/织锦 "wikilink")《[贵妇人与独角兽](https://zh.wikipedia.org/wiki/贵妇人与独角兽 "wikilink")》的影像\[6\]。为配合单曲的发售和动画的上映，词曲作者泽野弘之和演唱者Aimer于2014年5月30日起在[东京](../Page/东京.md "wikilink")和[大阪举办鋼彈UC特别演唱会](https://zh.wikipedia.org/wiki/大阪 "wikilink")“UnChild”\[7\]。同时为了纪念单曲发售，自2014年5月22日起USTREAM直播Aimer的网络演唱会。单曲在发售首日就登上了公信榜每日单曲排行第三名，打破了Aimer此前凭借单曲《RE：I
-AM》所取得的初上榜第六名成绩\[8\]。BANDAI
-CHANNEL的“〈月刊〉动画的秘密”于2014年4月25日播出的第9集中播出了《StarRingChild》的制作幕后故事\[9\]。
+2014年5月14日，《机动战士GUNDAM UC》的制作方发布了其最后一集的一个预告，以《StarRingChild》为配乐，配合画面则是法国克鲁尼美术馆所藏的[织锦](https://zh.wikipedia.org/wiki/织锦 "wikilink")《[贵妇人与独角兽](https://zh.wikipedia.org/wiki/贵妇人与独角兽 "wikilink")》的影像\[6\]。为配合单曲的发售和动画的上映，词曲作者泽野弘之和演唱者Aimer于2014年5月30日起在[东京](../Page/东京.md "wikilink")和[大阪举办鋼彈UC特别演唱会](https://zh.wikipedia.org/wiki/大阪 "wikilink")“UnChild”\[7\]。同时为了纪念单曲发售，自2014年5月22日起USTREAM直播Aimer的网络演唱会。单曲在发售首日就登上了公信榜每日单曲排行第三名，打破了Aimer此前凭借单曲《RE：I AM》所取得的初上榜第六名成绩\[8\]。BANDAI CHANNEL的“〈月刊〉动画的秘密”于2014年4月25日播出的第9集中播出了《StarRingChild》的制作幕后故事\[9\]。
 
 ## 收录曲目
 
@@ -143,8 +134,7 @@ CHANNEL的“〈月刊〉动画的秘密”于2014年4月25日播出的第9集�
 
   - 『StarRingChild EP』告知海報\[13\]
   - TOWER RECORDS限定　Aimer『StarRingChild EP』原创海报
-  - 2014年6月15日 TOWER RECORDS「TOWER OF LOVERS LIVE @ TOWER
-    RECORDS澀谷店『CUTUP STUDIO』」
+  - 2014年6月15日 TOWER RECORDS「TOWER OF LOVERS LIVE @ TOWER RECORDS澀谷店『CUTUP STUDIO』」
 
 ## 脚注
 
@@ -153,14 +143,9 @@ CHANNEL的“〈月刊〉动画的秘密”于2014年4月25日播出的第9集�
   - [CDジャーナル 紹介页](http://artist.cdjournal.com/d/re-i-am-ep/4113010419)
   - [ナタリー ニュース](http://natalie.mu/music/news/82988)
   - [ナタリー ニュース](http://natalie.mu/music/news/85851)
-  - [METROPOL PV for RE: I AM /
-    Aimer](http://www.metropol.jp/works_aimer.html)
+  - [METROPOL PV for RE: I AM / Aimer](http://www.metropol.jp/works_aimer.html)
 
-[Category:Aimer歌曲](https://zh.wikipedia.org/wiki/Category:Aimer歌曲 "wikilink")
-[Category:DefSTAR_Records歌曲](https://zh.wikipedia.org/wiki/Category:DefSTAR_Records歌曲 "wikilink")
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:GUNDAM歌曲](https://zh.wikipedia.org/wiki/Category:GUNDAM歌曲 "wikilink")
-[Category:OVA主題曲](https://zh.wikipedia.org/wiki/Category:OVA主題曲 "wikilink")
+[Category:Aimer歌曲](https://zh.wikipedia.org/wiki/Category:Aimer歌曲 "wikilink") [Category:DefSTAR_Records歌曲](https://zh.wikipedia.org/wiki/Category:DefSTAR_Records歌曲 "wikilink") [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:GUNDAM歌曲](https://zh.wikipedia.org/wiki/Category:GUNDAM歌曲 "wikilink") [Category:OVA主題曲](https://zh.wikipedia.org/wiki/Category:OVA主題曲 "wikilink")
 
 1.
 

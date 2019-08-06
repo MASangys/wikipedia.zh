@@ -1,5 +1,4 @@
-**假面騎士 Climax Heroes角色列表**為遊戲作品《[假面騎士 Climax
-Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介紹。
+**假面騎士 Climax Heroes角色列表**為遊戲作品《[假面騎士 Climax Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介紹。
 
 為求方便，各騎士的基本形態，名稱不明的都標明為「**Normal**」。
 
@@ -31,13 +30,9 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 | Complete Form（在「**無印**」和「**W**」只作超必殺技限定） |        |                       |
 |                                          |        |                       |
 
-  - \*『**無印**』的主角騎士。在對戰前能設定Kamen Ride變成的騎士和Final Form Ride。但如果在Decade
-    Mode內沒有取得該騎士能力的話，Kamen Ride後的形態將不會有Form Change，超必殺技。
-    \*在『**無印**』中通過Decade
-    Mode後，在『**W**』中輸入特定密碼後便可以使用超必殺技。但是也只能在超必殺技和Final
-    Form Ride技中選擇其中之一。
-    \*在『**OOO**』時追加了原為超必殺技限定的Complete Form為Playable
-    Character，同時超必殺技也追加了Dimension Kick。
+  - \*『**無印**』的主角騎士。在對戰前能設定Kamen Ride變成的騎士和Final Form Ride。但如果在Decade Mode內沒有取得該騎士能力的話，Kamen Ride後的形態將不會有Form Change，超必殺技。
+    \*在『**無印**』中通過Decade Mode後，在『**W**』中輸入特定密碼後便可以使用超必殺技。但是也只能在超必殺技和Final Form Ride技中選擇其中之一。
+    \*在『**OOO**』時追加了原為超必殺技限定的Complete Form為Playable Character，同時超必殺技也追加了Dimension Kick。
 
 <!-- end list -->
 
@@ -49,10 +44,8 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 | Dimension Shoot(自『**OOO**』開始) |        |                                      |
 |                               |        |                                      |
 
-  - \*在Decade Mode中亂入的騎士。代替Form Change的是以Kamen
-    Ride召喚假面騎士王蛇。通過輸入密碼或通過特定條件後變成可使用角色。
-    \*在『**OOO**』時可自由選擇召喚出來的騎士（王蛇、Scissors、Raia、Gai、Femme和Punch
-    Hoppper，Ragnarok Mode則追加了Riotrooper）。超必殺技亦改為Dimension Shoot。
+  - \*在Decade Mode中亂入的騎士。代替Form Change的是以Kamen Ride召喚假面騎士王蛇。通過輸入密碼或通過特定條件後變成可使用角色。
+    \*在『**OOO**』時可自由選擇召喚出來的騎士（王蛇、Scissors、Raia、Gai、Femme和Punch Hoppper，Ragnarok Mode則追加了Riotrooper）。超必殺技亦改為Dimension Shoot。
 
 <!-- end list -->
 
@@ -65,10 +58,8 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 | Complete Form        |        |                  |
 |                      |        |                  |
 
-  - \*『**無印**』和『**W**』時出場的原創騎士兼隱藏獨立角色。原形為失去作為「世界的破壞者」的記憶之前的士（即過去的士）變身而成的過去的Decade，『**無印**』的Decade
-    Mode的最終敵人。
-    \*身體顏色為黑色，複眼為藍色，如同假面騎士G4一樣。可以像Decade一樣變成Complete Form，不過，不能設定Final
-    Form Ride技，不能選擇Kamen Ride。
+  - \*『**無印**』和『**W**』時出場的原創騎士兼隱藏獨立角色。原形為失去作為「世界的破壞者」的記憶之前的士（即過去的士）變身而成的過去的Decade，『**無印**』的Decade Mode的最終敵人。
+    \*身體顏色為黑色，複眼為藍色，如同假面騎士G4一樣。可以像Decade一樣變成Complete Form，不過，不能設定Final Form Ride技，不能選擇Kamen Ride。
     \*在『**OOO**』開始從出場角色中除名。
 
 <!-- end list -->
@@ -88,11 +79,9 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 | Amazing Mighty Form |             |                     |
 |                     |             |                     |
 
-  - \*用全能的戰術作戰的初學者用騎士。Form Change時可以從Dragon、Pegasus、Titan
-    Form中選取其一。Support Attack時能召喚出Gouram。
+  - \*用全能的戰術作戰的初學者用騎士。Form Change時可以從Dragon、Pegasus、Titan Form中選取其一。Support Attack時能召喚出Gouram。
     \*Amazing Mighty Form只是在使用超必殺技時登場。
-    \*在『**OOO**』時追加了Ultimate Form為新的Playable
-    Character，同時超必殺技也追加了自然發火能力。
+    \*在『**OOO**』時追加了Ultimate Form為新的Playable Character，同時超必殺技也追加了自然發火能力。
     \*在『**Fourze**』時Amazing Mighty Kick亦成為Form Change的超必殺技。
 
 <!-- end list -->
@@ -110,9 +99,7 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 
   - \*接近攻擊特化騎士。Trinity Form時能使用武器，以壓倒大量敵人。
     \*Burning Form只是在使用超必殺技時登場。
-    \*在『**OOO**』時追加了Shining Form為新的Playable Character，並追加了召喚出Machine
-    Tornado Slider Mode的Support Attack，同時超必殺技也追加了Rider Kick和Shining
-    Crash。
+    \*在『**OOO**』時追加了Shining Form為新的Playable Character，並追加了召喚出Machine Tornado Slider Mode的Support Attack，同時超必殺技也追加了Rider Kick和Shining Crash。
 
 <!-- end list -->
 
@@ -139,13 +126,9 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 | **Support Attack** | Normal                             | Dragon Rider Kick                |
 |                    |                                    |                                  |
 
-  - \*根據Advent
-    Card選擇格鬥、劍攻擊、射擊技能來戰鬥的騎士。在Survive時可發射鎖定彈以增加Dragranzer(Support
-    Attack)的攻擊次數。
-    \*Support Attack是召喚出Dragreder進行火炎放射，若登上放射火焰的軌道便可發動「**Dragon Rider
-    Kick**」。
-    \*在『**OOO**』時Survive的超必殺技改為Dragon Fire Storm，同時超必殺技也追加了Dragon Rider
-    Kick。
+  - \*根據Advent Card選擇格鬥、劍攻擊、射擊技能來戰鬥的騎士。在Survive時可發射鎖定彈以增加Dragranzer(Support Attack)的攻擊次數。
+    \*Support Attack是召喚出Dragreder進行火炎放射，若登上放射火焰的軌道便可發動「**Dragon Rider Kick**」。
+    \*在『**OOO**』時Survive的超必殺技改為Dragon Fire Storm，同時超必殺技也追加了Dragon Rider Kick。
 
 <!-- end list -->
 
@@ -175,8 +158,7 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 
   - \*具豐富攻擊武器，攻擊特化的騎士。可以變成為Axel Form作高速移動，令敵人的行動變得緩慢，不過，防禦力比正常還低。
     \*
-    \*在『**OOO**』時追加了Blaster Form為新的Playable Character，並追加了召喚出Auto
-    Vajin的Support Attack，同時超必殺技也追加了超強化Crimson Smash。
+    \*在『**OOO**』時追加了Blaster Form為新的Playable Character，並追加了召喚出Auto Vajin的Support Attack，同時超必殺技也追加了超強化Crimson Smash。
     \*在『**Fourze**』時超必殺技追加了Crimson Smash。
 
 <!-- end list -->
@@ -198,10 +180,8 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 | King Form    | Royal Straight Flush |      |
 |              |                      |      |
 
-  - \*擅長多段數Combo攻擊的騎士。King Form的技能「Royal Straight
-    Flush」威力會隨著助跑距離長度來增加。
-    \*在『**OOO**』時追加了Jack Form為新的Playable Character，同時超必殺技也追加了J‧Lightning
-    Slash。
+  - \*擅長多段數Combo攻擊的騎士。King Form的技能「Royal Straight Flush」威力會隨著助跑距離長度來增加。
+    \*在『**OOO**』時追加了Jack Form為新的Playable Character，同時超必殺技也追加了J‧Lightning Slash。
 
 <!-- end list -->
 
@@ -215,9 +195,7 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 |              |            |      |
 
   - \*以豪快的戰術為特徵的騎士。在可使用角色中唯一有體力回復能力的角色。音擊打能以連打按鈕來提升傷害。
-    \*在『**OOO**』時追加了裝甲為新的Playable
-    Character，同時超必殺技也追加了音擊刃・鬼神覺聲。但是亦刪除了體力回復能力，不過也追加了以音擊打來減少敵人Rider
-    Gauge數量的能力。
+    \*在『**OOO**』時追加了裝甲為新的Playable Character，同時超必殺技也追加了音擊刃・鬼神覺聲。但是亦刪除了體力回復能力，不過也追加了以音擊打來減少敵人Rider Gauge數量的能力。
 
 <!-- end list -->
 
@@ -231,8 +209,7 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 |                |                 |                  |
 
   - \*擅長反擊技、瞬間移動等，令人眼花繚亂的攻擊的騎士。雖然沒有Form Change，但可以以Clock Up進行高速移動。
-    \*在『**OOO**』時追加了Hyper Form為新的Playable Character，同時超必殺技也追加了Hyper
-    Rider Kick。
+    \*在『**OOO**』時追加了Hyper Form為新的Playable Character，同時超必殺技也追加了Hyper Rider Kick。
 
 <!-- end list -->
 
@@ -279,12 +256,9 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 | Liner Form         |                         |                             |
 |                    |                         |                             |
 
-  - \*平衡度出色的騎士。Form Change時可以從Rod、Ax、Gun Form中選取其一。Support
-    Attack時能召喚出Den-Liner。
+  - \*平衡度出色的騎士。Form Change時可以從Rod、Ax、Gun Form中選取其一。Support Attack時能召喚出Den-Liner。
     \*Liner Form只是在使用超必殺技時登場。
-    \*在『**OOO**』時追加了Super Climax Form為新的Playable
-    Character，同時超必殺技也追加了Extreme Slash和超Voice Dozen
-    Kick。
+    \*在『**OOO**』時追加了Super Climax Form為新的Playable Character，同時超必殺技也追加了Extreme Slash和超Voice Dozen Kick。
     在『**Fourze**』時若選擇Tag的話，可以像原作般直到從Sword、Rod、Ax、Gun四個模式中選用其中兩人作組合。
 
 <!-- end list -->
@@ -301,13 +275,11 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
   - \*具豐富多彩的接近攻擊的騎士。變成Vega Form後可以使用強有而力的射擊技能。
     \*Zero Form只是在使用超必殺技時登場。
     \*在『**OOO**』時追加了原為超必殺技限定的Zero Form為Playable Character。
-    \*在『**Fourze**』時Vega和Zero Form被統一，在對戰前能設定究竟變成Vega Form或者是Zero
-    Form。在戰鬥也能自由轉換Altair Form或所設定的另一型態。
+    \*在『**Fourze**』時Vega和Zero Form被統一，在對戰前能設定究竟變成Vega Form或者是Zero Form。在戰鬥也能自由轉換Altair Form或所設定的另一型態。
 
 <!-- end list -->
 
-  - 假面騎士Nega電王《[假面騎士電王\&Kiva
-    Climax刑事](https://zh.wikipedia.org/wiki/假面騎士電王&Kiva_Climax刑事 "wikilink")》（CV：[綠川光](../Page/綠川光.md "wikilink")）※
+  - 假面騎士Nega電王《[假面騎士電王\&Kiva Climax刑事](https://zh.wikipedia.org/wiki/假面騎士電王&Kiva_Climax刑事 "wikilink")》（CV：[綠川光](../Page/綠川光.md "wikilink")）※
 
 | Battle Style                        | 登場形態           | 超必殺技 |
 | ----------------------------------- | -------------- | ---- |
@@ -317,8 +289,7 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 
   - \*在Decade Mode中出場，跟龍牙和Dark Kabuto一樣為CPU專用騎士。能力與電王同等。
     \*在『**W**』時通過特定條件後變成可使用角色。
-    \*在『**Fourze**』時Battle Style從Single改成召喚出Nega Den-Liner的Support
-    Attack，並追加了超必殺技。
+    \*在『**Fourze**』時Battle Style從Single改成召喚出Nega Den-Liner的Support Attack，並追加了超必殺技。
 
 <!-- end list -->
 
@@ -331,8 +302,7 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 | **Support Attack** | Kiva Form | Darkness Moon Break |
 |                    |           |                     |
 
-  - \*擅長踢擊技的騎士。解放Catena的話攻擊力會增加。變成Emperor Form後可能豐富多彩的武器攻擊，Support
-    Attack時能召喚出Castle Doran。戰鬥時主要發聲的是Kivat和Tatsulot。
+  - \*擅長踢擊技的騎士。解放Catena的話攻擊力會增加。變成Emperor Form後可能豐富多彩的武器攻擊，Support Attack時能召喚出Castle Doran。戰鬥時主要發聲的是Kivat和Tatsulot。
     \*在『**OOO**』時超必殺技追加了Darkness Moon Break。
 
 <!-- end list -->
@@ -377,9 +347,7 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 |                                |                         |                |
 
   - \*『**W**』的主角騎士。最初時Heat系·Luna系\[8\]的型態不可選擇。
-    \*在『**OOO**』時追加了Fang Joker、Cyclone Joker Xtreme和Cyclone Accel
-    Xtreme為新的Playable Character，同時超必殺技也追加了Fang Straizer和Double
-    Extreme。
+    \*在『**OOO**』時追加了Fang Joker、Cyclone Joker Xtreme和Cyclone Accel Xtreme為新的Playable Character，同時超必殺技也追加了Fang Straizer和Double Extreme。
     \*而Cyclone Accel Xtreme則作為隱藏獨立角色出場，但沒有超必殺技。
     \*在『**Fourze**』時Cyclone Accel Xtreme從出場角色中除名。
 
@@ -411,8 +379,7 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 
 <!-- end list -->
 
-  - 假面騎士Punch
-    Hopper《假面騎士KABUTO》（CV：[内山真人](https://zh.wikipedia.org/wiki/内山真人 "wikilink")）
+  - 假面騎士Punch Hopper《假面騎士KABUTO》（CV：[内山真人](https://zh.wikipedia.org/wiki/内山真人 "wikilink")）
 
 | Battle Style                             | 登場形態   | 超必殺技 |
 | ---------------------------------------- | ------ | ---- |
@@ -447,13 +414,9 @@ Heroes](../Page/假面騎士_Climax_Heroes.md "wikilink")》的登場角色介�
 
 ## 自『Climax Heroes OOO』起開始登場的角色
 
-本作為系列第二作，以假面騎士OOO為主，戰鬥系列均作出大強化。另外在本作製作之前，美國亦發售了同類型遊戲『**KAMEN RIDER
-DRAGON
-KNIGHT**』，因此裡面的騎士和怪人的模組，必殺技影像都完全沿用到『**OOO**』中，但是龍騎和Knight的必殺技影像則因CEPO的關係\[9\]而有所改變。
+本作為系列第二作，以假面騎士OOO為主，戰鬥系列均作出大強化。另外在本作製作之前，美國亦發售了同類型遊戲『**KAMEN RIDER DRAGON KNIGHT**』，因此裡面的騎士和怪人的模組，必殺技影像都完全沿用到『**OOO**』中，但是龍騎和Knight的必殺技影像則因CEPO的關係\[9\]而有所改變。
 
-本作除更新假面騎士龍騎系列其他的12名騎士外，除OOO外另新增Garren及Accel兩名騎士
-(怪人Raydragoon、量產兵Riotrooper及怪人Masquerade
-Dopant不能使用，本作開始已不能使用任何怪人)。
+本作除更新假面騎士龍騎系列其他的12名騎士外，除OOO外另新增Garren及Accel兩名騎士 (怪人Raydragoon、量產兵Riotrooper及怪人Masquerade Dopant不能使用，本作開始已不能使用任何怪人)。
 
 最終敵人為假面騎士龍牙、Odin、Dark Kabuto及Nega Den-O。
 
@@ -479,10 +442,7 @@ Dopant不能使用，本作開始已不能使用任何怪人)。
 
   - \*『**OOO**』的主角騎士。根據三枚的Medal的組合，能變成豐富多彩的Combo（在『**OOO**』時為「頭4種類×軀體3種類×腳3種類」的組合，全36種。）進行戰鬥。
     \*在對『龍騎』、『劍』、『Decade』系的騎士戰鬥前有專用台詞。
-    \*在『**Fourze**』時追加了Shauta Combo、Tajadol Combo、Putotyra
-    Combo、Burakawani Combo和Tatoba Combo(紫眼)為新的Playable Character，Combo
-    Change也增加至127種，同時超必殺技也追加了Magna Blaze和Blasting Freezer& Strain
-    Doom。
+    \*在『**Fourze**』時追加了Shauta Combo、Tajadol Combo、Putotyra Combo、Burakawani Combo和Tatoba Combo(紫眼)為新的Playable Character，Combo Change也增加至127種，同時超必殺技也追加了Magna Blaze和Blasting Freezer& Strain Doom。
     \*而Tatoba Combo(紫眼)則作為隱藏獨立角色出場。
     \*在Form Change時，使用重攻擊連技會轉換成單一顏色的Combo，但在『**超**』時這能力被刪除。
     \*在Medal選擇畫面，如果選擇Power Up(Putotyra，Burakawani)的話，會追加Ankh的聲音。
@@ -611,8 +571,7 @@ Dopant不能使用，本作開始已不能使用任何怪人)。
 |                    |        |               |
 
   - \*Support Attack是召喚出Gold Phoenix。
-    \*與他在龍騎中的設定不同，本作中他是作為Ragnarok World「最強的假面騎士」登場的Ragnarok Mode的Final
-    Boss。
+    \*與他在龍騎中的設定不同，本作中他是作為Ragnarok World「最強的假面騎士」登場的Ragnarok Mode的Final Boss。
 
 <!-- end list -->
 
@@ -643,9 +602,7 @@ Dopant不能使用，本作開始已不能使用任何怪人)。
   - Raydragoon《假面騎士龍騎》
     Riotrooper《假面騎士Faiz》
     Masquerade Dopant《假面騎士W》
-    前作的Gelnewt，Worm幼體在Ragnarok Mode以雜兵的形式重新登場。至於作為前作Boss的Magma
-    Dopant和T-Rex Dopant從出場角色中除名。Riotrooper不在通常的雜兵戰登場，只以diend在Support
-    Attack時的支援角色登場。
+    前作的Gelnewt，Worm幼體在Ragnarok Mode以雜兵的形式重新登場。至於作為前作Boss的Magma Dopant和T-Rex Dopant從出場角色中除名。Riotrooper不在通常的雜兵戰登場，只以diend在Support Attack時的支援角色登場。
 
 ## 自『Climax Heroes Fourze』起開始登場的角色
 
@@ -675,13 +632,9 @@ Dopant不能使用，本作開始已不能使用任何怪人)。
 | **Assault**        | |Meteor Fusion States  | Rider超銀河Finish                |
 |                    |                        |                               |
 
-  - \*『**Fourze**』的主角騎士。透過轉換4個Astro
-    Switch(在『**Fourze**』時只有1號到20號的二十種，但7號Parachute
-    Moudle只作於超必殺技中使用)，並使用開啟Switch出現的Module進行戰鬥。
-    \*但是，只有Base
-    States才可以使用Module，在Switch選擇畫面時，只可選擇1號至4號的Switch以及替代用的四個開關。之外的未選擇的Switch是戰鬥中不可使用。
-    \*在『**超**』時確定補足了全40個Switch，並追加了Magnet States、Cosmic States和Meteor
-    Fusion States為新的Playable Character。
+  - \*『**Fourze**』的主角騎士。透過轉換4個Astro Switch(在『**Fourze**』時只有1號到20號的二十種，但7號Parachute Moudle只作於超必殺技中使用)，並使用開啟Switch出現的Module進行戰鬥。
+    \*但是，只有Base States才可以使用Module，在Switch選擇畫面時，只可選擇1號至4號的Switch以及替代用的四個開關。之外的未選擇的Switch是戰鬥中不可使用。
+    \*在『**超**』時確定補足了全40個Switch，並追加了Magnet States、Cosmic States和Meteor Fusion States為新的Playable Character。
     \*其中Support Attack是召喚出Power Dizer。
     \*而Meteor Fusion States則作為隱藏獨立角色出場。
 
@@ -749,8 +702,7 @@ Dopant不能使用，本作開始已不能使用任何怪人)。
 | **Assault**  | Normal | 音撃射・疾風一閃 |
 |              |        |          |
 
-  - 假面騎士New電王《[再見，假面騎士電王 Final
-    Countdown](https://zh.wikipedia.org/wiki/再見，假面騎士電王_Final_Countdown "wikilink")》（CV：[櫻田通](../Page/櫻田通.md "wikilink")、[小野大輔](../Page/小野大輔.md "wikilink")）
+  - 假面騎士New電王《[再見，假面騎士電王 Final Countdown](https://zh.wikipedia.org/wiki/再見，假面騎士電王_Final_Countdown "wikilink")》（CV：[櫻田通](../Page/櫻田通.md "wikilink")、[小野大輔](../Page/小野大輔.md "wikilink")）
 
 | Battle Style | 登場形態   | 超必殺技          |
 | ------------ | ------ | ------------- |
@@ -936,8 +888,7 @@ Dopant不能使用，本作開始已不能使用任何怪人)。
 |              |        |                         |
 
   - \*W在Assault時可以選用的另一角色。
-    \*在完成特別條件後，會追加召喚出小說『**假面騎士W～Z之繼承者～/**』中出場的新角色：**假面騎士Cyclone**進行合體攻擊的Rider
-    Arts攻擊技。
+    \*在完成特別條件後，會追加召喚出小說『**假面騎士W～Z之繼承者～/**』中出場的新角色：**假面騎士Cyclone**進行合體攻擊的Rider Arts攻擊技。
 
 <!-- end list -->
 
@@ -1065,9 +1016,7 @@ Dopant不能使用，本作開始已不能使用任何怪人)。
 
 ## 註釋
 
-[Category:假面騎士角色列表](https://zh.wikipedia.org/wiki/Category:假面騎士角色列表 "wikilink")
-[Category:石之森章太郎](https://zh.wikipedia.org/wiki/Category:石之森章太郎 "wikilink")
-[Category:电子游戏角色列表](https://zh.wikipedia.org/wiki/Category:电子游戏角色列表 "wikilink")
+[Category:假面騎士角色列表](https://zh.wikipedia.org/wiki/Category:假面騎士角色列表 "wikilink") [Category:石之森章太郎](https://zh.wikipedia.org/wiki/Category:石之森章太郎 "wikilink") [Category:电子游戏角色列表](https://zh.wikipedia.org/wiki/Category:电子游戏角色列表 "wikilink")
 
 1.  遊戲中是原創畫面。
 
@@ -1079,8 +1028,7 @@ Dopant不能使用，本作開始已不能使用任何怪人)。
 6.  遊戲中稱為Normal Form。
 
 7.
-8.  製作小組曾誤以為Luna系的能力為瞬間移動，直到劇集播放時才改回本來的伸縮能力。此外作為超必殺技的Joker
-    Extreme與電視版左右順序相反的問題也被修正了。
+8.  製作小組曾誤以為Luna系的能力為瞬間移動，直到劇集播放時才改回本來的伸縮能力。此外作為超必殺技的Joker Extreme與電視版左右順序相反的問題也被修正了。
 
 9.  不可以使用機車衝向對方。
 

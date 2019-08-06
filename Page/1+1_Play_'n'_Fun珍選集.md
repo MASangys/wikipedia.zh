@@ -1,5 +1,4 @@
-《**1+1 Play 'n' Fun珍選集**》
-是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[卓文萱](../Page/卓文萱.md "wikilink")首張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，第5張個人專輯，於2009年11月6日正式發行，6首新歌、17首精選，一共收錄23首歌曲。\[1\]
+《**1+1 Play 'n' Fun珍選集**》 是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[卓文萱](../Page/卓文萱.md "wikilink")首張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，第5張個人專輯，於2009年11月6日正式發行，6首新歌、17首精選，一共收錄23首歌曲。\[1\]
 
 ## 曲目
 
@@ -15,8 +14,7 @@
 
 ## 唱片版本
 
-預購時間：2009年10月16日至2009年11月2日 23：00。　預購贈品：卓文萱蛻變進化寫真海報，1張。\[5\]
-**《【1+1】Play n Fun》(雙碟限定盤)**(2CD)\[6\]
+預購時間：2009年10月16日至2009年11月2日 23：00。　預購贈品：卓文萱蛻變進化寫真海報，1張。\[5\]   **《【1+1】Play n Fun》(雙碟限定盤)**(2CD)\[6\]
 
   -
     發行日期：2009年11月6日。
@@ -43,27 +41,17 @@
 
 <references/>
 
-[Category:卓文萱音樂專輯](https://zh.wikipedia.org/wiki/Category:卓文萱音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
+[Category:卓文萱音樂專輯](https://zh.wikipedia.org/wiki/Category:卓文萱音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
 
 1.
 2.
 3.
-4.  [卓文萱 / 【1＋1】Play n Fun(漾甜青春版2CD＋DVD) -
-    五大唱片](http://www.5music.com.tw/CDList-C.asp?cdno=431395678501)
-    FIVEMUSIC.
+4.  [卓文萱 / 【1＋1】Play n Fun(漾甜青春版2CD＋DVD) - 五大唱片](http://www.5music.com.tw/CDList-C.asp?cdno=431395678501) FIVEMUSIC.
 
-5.  [【情報】卓文萱Play n fun『1+1』預購說明@卓文萱 :: 痞客邦 PIXNET
-    ::](http://rockgenie1986.pixnet.net/blog/post/24419753)
-    PIXNET卓文萱部落格.
+5.  [【情報】卓文萱Play n fun『1+1』預購說明@卓文萱 :: 痞客邦 PIXNET ::](http://rockgenie1986.pixnet.net/blog/post/24419753) PIXNET卓文萱部落格.
 
 6.
-7.  [卓文萱 / 【1＋1】Play n Fun(雙面典藏版2CD) -
-    五大唱片](http://www.5music.com.tw/CDList-C.asp?cdno=430495679277)
-    FIVEMUSIC.
+7.  [卓文萱 / 【1＋1】Play n Fun(雙面典藏版2CD) - 五大唱片](http://www.5music.com.tw/CDList-C.asp?cdno=430495679277) FIVEMUSIC.
 
 8.
-9.  [2010年新城國語力頒獎禮 -
-    新城知訊台資訊網](http://www.metroradio.com.hk/Campaign997/2010guoyuli/)
-    新城資訊台.
+9.  [2010年新城國語力頒獎禮 - 新城知訊台資訊網](http://www.metroradio.com.hk/Campaign997/2010guoyuli/) 新城資訊台.

@@ -53,22 +53,17 @@
 
   - 第1話
 
-:\*
-（東北理科大學教授）<small>（香港配音：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")）</small>
+:\* （東北理科大學教授）<small>（香港配音：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")）</small>
 
-:\*
-（東王大學理工學部教授）\[6\]<small>（香港配音：[柚子蜜](https://zh.wikipedia.org/wiki/柚子蜜_\(配音員\) "wikilink")）</small>
+:\* （東王大學理工學部教授）\[6\]<small>（香港配音：[柚子蜜](https://zh.wikipedia.org/wiki/柚子蜜_\(配音員\) "wikilink")）</small>
 
 :\* （小早川的助手）<small>（香港配音：[葉曉欣](../Page/葉曉欣.md "wikilink")）</small>
 
-:\*
-（[丸之内物產最先端技術市場營銷部課長](https://zh.wikipedia.org/wiki/丸之内 "wikilink")）<small>（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）</small>
+:\* （[丸之内物產最先端技術市場營銷部課長](https://zh.wikipedia.org/wiki/丸之内 "wikilink")）<small>（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）</small>
 
-:\* （東王大學-{zh-cn:保安员;zh-sg:保安员; zh-hk:保安員; zh-mo:保安員;
-zh-tw:保全;}-）<small>（香港配音：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")）</small>
+:\* （東王大學-{zh-cn:保安员;zh-sg:保安员; zh-hk:保安員; zh-mo:保安員; zh-tw:保全;}-）<small>（香港配音：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")）</small>
 
-:\*
-（南北新聞記者）<small>（香港配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）</small>
+:\* （南北新聞記者）<small>（香港配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）</small>
 
 :\* （金城的部下）<small>（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）</small>
 
@@ -76,21 +71,17 @@ zh-tw:保全;}-）<small>（香港配音：[馮錦堂](https://zh.wikipedia.org/
 
   - 第2話
 
-:\*
-（[街頭藝人](https://zh.wikipedia.org/wiki/街頭藝人 "wikilink")）<small>（香港配音：[劉昭文](../Page/劉昭文.md "wikilink")）</small>
+:\* （[街頭藝人](https://zh.wikipedia.org/wiki/街頭藝人 "wikilink")）<small>（香港配音：[劉昭文](../Page/劉昭文.md "wikilink")）</small>
 
-:\* （Eternal
-Clean之[廢物部門工作人員](../Page/資源回收.md "wikilink")）<small>（香港配音：[黃積權](../Page/黃積權.md "wikilink")）</small>
+:\* （Eternal Clean之[廢物部門工作人員](../Page/資源回收.md "wikilink")）<small>（香港配音：[黃積權](../Page/黃積權.md "wikilink")）</small>
 
 :\* （實的母親）<small>（香港配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）</small>
 
-:\*
-（宏輝的母親）<small>（香港配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）</small>
+:\* （宏輝的母親）<small>（香港配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）</small>
 
 :\* （理惠子的兒子）<small>（香港配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）</small>
 
-:\* （Eternal
-Clean社長）<small>（香港配音：[張炳強](../Page/張炳強.md "wikilink")）</small>
+:\* （Eternal Clean社長）<small>（香港配音：[張炳強](../Page/張炳強.md "wikilink")）</small>
 
   - 第3話
 
@@ -98,11 +89,9 @@ Clean社長）<small>（香港配音：[張炳強](../Page/張炳強.md "wikilin
 
 :\* （流浪漢）<small>（香港配音：[李鎮然](../Page/李鎮然.md "wikilink")）</small>
 
-:\*
-（[NPO](https://zh.wikipedia.org/wiki/NPO "wikilink")[法人](../Page/法人.md "wikilink")微笑村代表・元龍門會構成員）<small>（香港配音：[馮志輝](../Page/馮志輝.md "wikilink")）</small>
+:\* （[NPO](https://zh.wikipedia.org/wiki/NPO "wikilink")[法人](../Page/法人.md "wikilink")微笑村代表・元龍門會構成員）<small>（香港配音：[馮志輝](../Page/馮志輝.md "wikilink")）</small>
 
-:\*
-（偽鈔製造和-H38號事件首謀者）<small>（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）</small>
+:\* （偽鈔製造和-H38號事件首謀者）<small>（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）</small>
 
 :\* （[警視廳](../Page/警視廳.md "wikilink")大森北警察署生活安全課鑑定士）
 
@@ -112,15 +101,13 @@ Clean社長）<small>（香港配音：[張炳強](../Page/張炳強.md "wikilin
 
   - 第4話
 
-:\*
-（連續殺傷事件受害者家人・弘枝之夫）<small>（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）</small>
+:\* （連續殺傷事件受害者家人・弘枝之夫）<small>（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）</small>
 
 :\* （冤罪受害者）<small>（香港配音：[劉昭文](../Page/劉昭文.md "wikilink")）</small>
 
 :\* （健一與弘枝的女兒）<small>（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）</small>
 
-:\*
-（連續殺傷事件第四人受害者・植物人）<small>（香港配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）</small>
+:\* （連續殺傷事件第四人受害者・植物人）<small>（香港配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）</small>
 
 :\* （南北新聞社會部記者）
 
@@ -128,15 +115,13 @@ Clean社長）<small>（香港配音：[張炳強](../Page/張炳強.md "wikilin
 
   - 第5話
 
-:\*
-（私立聖南綜合醫院外科醫師）<small>（香港配音：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")）</small>
+:\* （私立聖南綜合醫院外科醫師）<small>（香港配音：[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")）</small>
 
 :\* （華村醫生的幼女）<small>（香港配音：[黃淑芬](../Page/黃淑芬.md "wikilink")）</small>
 
 :\* （交通事故受害者遺族）<small>（香港配音：[盧國權](../Page/盧國權.md "wikilink")）</small>
 
-:\*
-（朝岡亞麻供應社長・交通事故受害者）<small>（香港配音：[劉昭文](../Page/劉昭文.md "wikilink")）</small>
+:\* （朝岡亞麻供應社長・交通事故受害者）<small>（香港配音：[劉昭文](../Page/劉昭文.md "wikilink")）</small>
 
 :\* （華村元患者）
 
@@ -144,18 +129,15 @@ Clean社長）<small>（香港配音：[張炳強](../Page/張炳強.md "wikilin
 
   - 第6話
 
-:\*
-（澪的[雙胞胎](../Page/雙胞胎.md "wikilink")妹妹・[律師](../Page/律師.md "wikilink")）<small>（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）</small>
+:\* （澪的[雙胞胎](../Page/雙胞胎.md "wikilink")妹妹・[律師](../Page/律師.md "wikilink")）<small>（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）</small>
 
-:\*
-（自称「[靈能力](../Page/靈能力.md "wikilink")師」・南関東刑務所受刑者）<small>（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）</small>
+:\* （自称「[靈能力](../Page/靈能力.md "wikilink")師」・南関東刑務所受刑者）<small>（香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）</small>
 
 :\* （佐伯的乾兒子）<small>（香港配音：[陳琴雲](../Page/陳琴雲.md "wikilink")）</small>
 
 :\* （Tew Tea社長）<small>（香港配音：[陳永信](../Page/陳永信.md "wikilink")）</small>
 
-:\*
-（佐伯的[-{zh-tw:繼室;zh-hk:後妻;zh-cn:填房;}-](https://zh.wikipedia.org/wiki/繼室 "wikilink")）<small>（香港配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）</small>
+:\* （佐伯的[-{zh-tw:繼室;zh-hk:後妻;zh-cn:填房;}-](https://zh.wikipedia.org/wiki/繼室 "wikilink")）<small>（香港配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）</small>
 
 :\* （Tew Tea社員）<small>（香港配音：[張錦江](../Page/張錦江.md "wikilink")）</small>
 
@@ -163,24 +145,19 @@ Clean社長）<small>（香港配音：[張炳強](../Page/張炳強.md "wikilin
 
   - 第7話
 
-:\*
-（[失智症](../Page/失智症.md "wikilink")患者）<small>（香港配音：[雷碧娜](../Page/雷碧娜.md "wikilink")）</small>
+:\* （[失智症](../Page/失智症.md "wikilink")患者）<small>（香港配音：[雷碧娜](../Page/雷碧娜.md "wikilink")）</small>
 
 :\* （八重子的孫兒）<small>（香港配音：[李鎮然](../Page/李鎮然.md "wikilink")）</small>
 
-:\*
-（警視廳網路恐怖主義對策課捜査官）<small>（香港配音：[鍾見麟](../Page/鍾見麟.md "wikilink")）</small>
+:\* （警視廳網路恐怖主義對策課捜査官）<small>（香港配音：[鍾見麟](../Page/鍾見麟.md "wikilink")）</small>
 
 :\* （山根）<small>（香港配音：[葉曉欣](../Page/葉曉欣.md "wikilink")）</small>
 
-:\*
-（椎名的上司）<small>（香港配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）</small>
+:\* （椎名的上司）<small>（香港配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）</small>
 
-:\*
-（老人家四葉之森[介護職員](https://zh.wikipedia.org/wiki/介護 "wikilink")）<small>（香港配音：[林芷筠](../Page/林芷筠.md "wikilink")）</small>
+:\* （老人家四葉之森[介護職員](https://zh.wikipedia.org/wiki/介護 "wikilink")）<small>（香港配音：[林芷筠](../Page/林芷筠.md "wikilink")）</small>
 
-:\*
-（Cosplay咖啡店店員）\[7\]\[8\]<small>（香港配音：[何寶珊](../Page/何寶珊.md "wikilink")）</small>
+:\* （Cosplay咖啡店店員）\[7\]\[8\]<small>（香港配音：[何寶珊](../Page/何寶珊.md "wikilink")）</small>
 
 :\* （前[系統工程師](https://zh.wikipedia.org/wiki/系統工程師 "wikilink")）
 
@@ -188,28 +165,23 @@ Clean社長）<small>（香港配音：[張炳強](../Page/張炳強.md "wikilin
 
 :\* （明專工業大学工学部教授）<small>（香港配音：[盧國權](../Page/盧國權.md "wikilink")）</small>
 
-:\*
-（麗子的前交往對象，19歲，未成年）<small>（香港配音：[巫哲棋](../Page/巫哲棋.md "wikilink")）</small>
+:\* （麗子的前交往對象，19歲，未成年）<small>（香港配音：[巫哲棋](../Page/巫哲棋.md "wikilink")）</small>
 
 :\* （戶川教授的女兒）
 
-:\*
-（向永倉私下買賣[麻醉药品的顧客](https://zh.wikipedia.org/wiki/麻醉药品 "wikilink")）<small>（香港配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）</small>
+:\* （向永倉私下買賣[麻醉药品的顧客](https://zh.wikipedia.org/wiki/麻醉药品 "wikilink")）<small>（香港配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）</small>
 
 :\* （週刊雜誌記者）<small>（香港配音：[劉奕希](../Page/劉奕希.md "wikilink")）</small>
 
-:\*
-（女[侍應](https://zh.wikipedia.org/wiki/侍應 "wikilink")）<small>（香港配音：[何晶晶](../Page/何晶晶.md "wikilink")）</small>
+:\* （女[侍應](https://zh.wikipedia.org/wiki/侍應 "wikilink")）<small>（香港配音：[何晶晶](../Page/何晶晶.md "wikilink")）</small>
 
 :\* （永倉主導[恐嚇](../Page/恐嚇.md "wikilink")事件的共犯者）\[9\]
 
   - 第9話
 
-:\* （南澤的大学時代同學）
-<small>（香港配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）</small>
+:\* （南澤的大学時代同學） <small>（香港配音：[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")）</small>
 
-:\*
-（警視廳公安部NBC對應專門部隊隊長）<small>（香港配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）</small>
+:\* （警視廳公安部NBC對應專門部隊隊長）<small>（香港配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）</small>
 
 :\* （宣傳模特兒）<small>（香港配音：[何寶珊](../Page/何寶珊.md "wikilink")）</small>
 
@@ -219,20 +191,17 @@ Clean社長）<small>（香港配音：[張炳強](../Page/張炳強.md "wikilin
 
 :\* （柏拉圖製藥日本社長）<small>（香港配音：[雷碧娜](../Page/雷碧娜.md "wikilink")）</small>
 
-:\*
-（柏拉圖製藥日本研究開發部員工）<small>（香港配音：[蘇強文](../Page/蘇強文.md "wikilink")）</small>
+:\* （柏拉圖製藥日本研究開發部員工）<small>（香港配音：[蘇強文](../Page/蘇強文.md "wikilink")）</small>
 
 :\* （警視廳副總監）<small>（香港配音：[陳曙光](../Page/陳曙光.md "wikilink")）</small>
 
 :\* （東都大学工学部教授）<small>（香港配音：[馮志輝](../Page/馮志輝.md "wikilink")）</small>
 
-:\*
-（日本医科学研究機構研究員）（第10話）<small>（香港配音：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")）</small>
+:\* （日本医科学研究機構研究員）（第10話）<small>（香港配音：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")）</small>
 
 :\* （日本医科学研究機構主任研究員）（第10話）
 
-:\*
-（日本医科学研究機構研究員）（第10話）<small>（香港配音：[關令翹](../Page/關令翹.md "wikilink")）</small>
+:\* （日本医科学研究機構研究員）（第10話）<small>（香港配音：[關令翹](../Page/關令翹.md "wikilink")）</small>
 
 :\* （裕子的專人醫生）（最終話）<small>（香港配音：[盧國權](../Page/盧國權.md "wikilink")）</small>
 
@@ -245,9 +214,7 @@ Clean社長）<small>（香港配音：[張炳強](../Page/張炳強.md "wikilin
   - 導演：石井康晴、竹村謙太郎等
   - 製作：十二龍也、那須田淳
   - 製作著作：[TBS電視台](../Page/TBS電視台.md "wikilink")
-  - 主題歌：[ELEPHANT
-    KASHIMASHI](../Page/ELEPHANT_KASHIMASHI.md "wikilink")「Destiny」（[Universal
-    SIGMA](https://zh.wikipedia.org/wiki/環球音樂_\(日本\)#Universal_SIGMA "wikilink")）\[10\]
+  - 主題歌：[ELEPHANT KASHIMASHI](../Page/ELEPHANT_KASHIMASHI.md "wikilink")「Destiny」（[Universal SIGMA](https://zh.wikipedia.org/wiki/環球音樂_\(日本\)#Universal_SIGMA "wikilink")）\[10\]
   - 副導演：古林淳太郎
   - 選曲：
   - 武打動作：雲雀大輔
@@ -407,15 +374,7 @@ Clean社長）<small>（香港配音：[張炳強](../Page/張炳強.md "wikilin
   -
 ## 節目的變遷
 
-[Category:週一懸疑劇院](https://zh.wikipedia.org/wiki/Category:週一懸疑劇院 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:東寶電視劇](https://zh.wikipedia.org/wiki/Category:東寶電視劇 "wikilink")
-[Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink")
-[Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink")
-[Category:八大電視外購日劇](https://zh.wikipedia.org/wiki/Category:八大電視外購日劇 "wikilink")
-[Category:程序型罪案调查剧](https://zh.wikipedia.org/wiki/Category:程序型罪案调查剧 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:TBS警匪電視劇](https://zh.wikipedia.org/wiki/Category:TBS警匪電視劇 "wikilink")
+[Category:週一懸疑劇院](https://zh.wikipedia.org/wiki/Category:週一懸疑劇院 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:東寶電視劇](https://zh.wikipedia.org/wiki/Category:東寶電視劇 "wikilink") [Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink") [Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink") [Category:八大電視外購日劇](https://zh.wikipedia.org/wiki/Category:八大電視外購日劇 "wikilink") [Category:程序型罪案调查剧](https://zh.wikipedia.org/wiki/Category:程序型罪案调查剧 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:TBS警匪電視劇](https://zh.wikipedia.org/wiki/Category:TBS警匪電視劇 "wikilink")
 
 1.
 

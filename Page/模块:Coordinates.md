@@ -1,17 +1,12 @@
-\--\[\[ This module is intended to replace the functionality of  and
-related templates. It provides several methods, including
+\--\[\[ This module is intended to replace the functionality of  and related templates. It provides several methods, including
 
-{{\#invoke:Coordinates | coord }} : General function formatting and
-displaying coordinate values.
+{{\#invoke:Coordinates | coord }} : General function formatting and displaying coordinate values.
 
-{{\#invoke:Coordinates | dec2dms }} : Simple function for converting
-decimal degree values to DMS format.
+{{\#invoke:Coordinates | dec2dms }} : Simple function for converting decimal degree values to DMS format.
 
-{{\#invoke:Coordinates | dms2dec }} : Simple function for converting DMS
-format to decimal degree format.
+{{\#invoke:Coordinates | dms2dec }} : Simple function for converting DMS format to decimal degree format.
 
-{{\#invoke:Coordinates | link }} : Export the link used to reach the
-tools
+{{\#invoke:Coordinates | link }} : Export the link used to reach the tools
 
 \]\]
 
@@ -19,15 +14,9 @@ require('Module:No globals')
 
 local math_mod = require("Module:Math") local coordinates = {};
 
-local current_page = mw.title.getCurrentTitle() local page_name =
-mw.uri.encode( current_page.prefixedText, 'WIKI' ); -- 请注意：此处要指明中文版
-local coord_link =
-'//tools.wmflabs.org/geohack/geohack.php?language=zh\&pagename=' ..
-page_name .. '\&params='
+local current_page = mw.title.getCurrentTitle() local page_name = mw.uri.encode( current_page.prefixedText, 'WIKI' ); -- 请注意：此处要指明中文版 local coord_link = '//tools.wmflabs.org/geohack/geohack.php?language=zh\&pagename=' .. page_name .. '\&params='
 
-\--[Helper function, replacement for
-](https://zh.wikipedia.org/wiki/Helper_function,_replacement_for_{{coord/display/title}} "wikilink")
-local function displaytitle(s, notes)
+\--[Helper function, replacement for ](https://zh.wikipedia.org/wiki/Helper_function,_replacement_for_{{coord/display/title}} "wikilink") local function displaytitle(s, notes)
 
 `   local l = "`[`-{zh-hans:坐标;zh-hant:座標}-`](https://zh.wikipedia.org/wiki/地理坐标 "wikilink")`：" .. s`
 `   local co = '`<span id="coordinates">`' .. l .. notes .. '`</span>`';`
@@ -35,17 +24,13 @@ local function displaytitle(s, notes)
 
 end
 
-\--[Helper function, Replacement for
-](https://zh.wikipedia.org/wiki/Helper_function,_Replacement_for_{{coord/display/inline}} "wikilink")
-local function displayinline(s, notes)
+\--[Helper function, Replacement for ](https://zh.wikipedia.org/wiki/Helper_function,_Replacement_for_{{coord/display/inline}} "wikilink") local function displayinline(s, notes)
 
 `   return s .. notes   `
 
 end
 
-\--[Helper function, used in detecting DMS
-formatting](https://zh.wikipedia.org/wiki/Helper_function,_used_in_detecting_DMS_formatting "wikilink")
-local function dmsTest(first, second)
+\--[Helper function, used in detecting DMS formatting](https://zh.wikipedia.org/wiki/Helper_function,_used_in_detecting_DMS_formatting "wikilink") local function dmsTest(first, second)
 
 `   if type(first) ~= 'string' or type(second) ~= 'string' then`
 `       return nil`
@@ -55,10 +40,7 @@ local function dmsTest(first, second)
 
 end
 
-\--[Wrapper function to grab args, see Module:Arguments for this
-function's
-documentation.](https://zh.wikipedia.org/wiki/Wrapper_function_to_grab_args,_see_Module:Arguments_for_this_function's_documentation. "wikilink")
-local function makeInvokeFunc(funcName)
+\--[Wrapper function to grab args, see Module:Arguments for this function's documentation.](https://zh.wikipedia.org/wiki/Wrapper_function_to_grab_args,_see_Module:Arguments_for_this_function's_documentation. "wikilink") local function makeInvokeFunc(funcName)
 
 `   return function (frame)`
 `       local args = require('Module:Arguments').getArgs(frame, {`
@@ -69,17 +51,13 @@ local function makeInvokeFunc(funcName)
 
 end
 
-\--[Helper function, handle optional
-args.](https://zh.wikipedia.org/wiki/Helper_function,_handle_optional_args. "wikilink")
-local function optionalArg(arg, supplement)
+\--[Helper function, handle optional args.](https://zh.wikipedia.org/wiki/Helper_function,_handle_optional_args. "wikilink") local function optionalArg(arg, supplement)
 
 `   return arg and arg .. supplement or ''`
 
 end
 
-\--[Formats any error messages generated for
-display](https://zh.wikipedia.org/wiki/Formats_any_error_messages_generated_for_display "wikilink")
-local function errorPrinter(errors)
+\--[Formats any error messages generated for display](https://zh.wikipedia.org/wiki/Formats_any_error_messages_generated_for_display "wikilink") local function errorPrinter(errors)
 
 `   local result = ""`
 `   for i,v in ipairs(errors) do`
@@ -91,13 +69,7 @@ local function errorPrinter(errors)
 
 end
 
-\--[Determine the required CSS class to display coordinates Usually
-geo-nondefault is hidden by CSS, unless a user has overridden this for
-himself default is the mode as specificied by the user when calling the
-{{coord}} template mode is the display mode (dec or dms) that we will
-need to determine the css class
-for](https://zh.wikipedia.org/wiki/Determine_the_required_CSS_class_to_display_coordinates_Usually_geo-nondefault_is_hidden_by_CSS,_unless_a_user_has_overridden_this_for_himself_default_is_the_mode_as_specificied_by_the_user_when_calling_the_{{coord}}_template_mode_is_the_display_mode_\(dec_or_dms\)_that_we_will_need_to_determine_the_css_class_for "wikilink")
-local function displayDefault(default, mode)
+\--[Determine the required CSS class to display coordinates Usually geo-nondefault is hidden by CSS, unless a user has overridden this for himself default is the mode as specificied by the user when calling the {{coord}} template mode is the display mode (dec or dms) that we will need to determine the css class for](https://zh.wikipedia.org/wiki/Determine_the_required_CSS_class_to_display_coordinates_Usually_geo-nondefault_is_hidden_by_CSS,_unless_a_user_has_overridden_this_for_himself_default_is_the_mode_as_specificied_by_the_user_when_calling_the_{{coord}}_template_mode_is_the_display_mode_\(dec_or_dms\)_that_we_will_need_to_determine_the_css_class_for "wikilink") local function displayDefault(default, mode)
 
 `   if default == "" then`
 `       default = "dec"`
@@ -111,10 +83,7 @@ local function displayDefault(default, mode)
 
 end
 
-\--[specPrinter Output formatter. Takes the structure generated by
-either parseDec or parseDMS and formats it for inclusion on
-Wikipedia.](https://zh.wikipedia.org/wiki/specPrinter_Output_formatter._Takes_the_structure_generated_by_either_parseDec_or_parseDMS_and_formats_it_for_inclusion_on_Wikipedia. "wikilink")
-local function specPrinter(args, coordinateSpec)
+\--[specPrinter Output formatter. Takes the structure generated by either parseDec or parseDMS and formats it for inclusion on Wikipedia.](https://zh.wikipedia.org/wiki/specPrinter_Output_formatter._Takes_the_structure_generated_by_either_parseDec_or_parseDMS_and_formats_it_for_inclusion_on_Wikipedia. "wikilink") local function specPrinter(args, coordinateSpec)
 
 `   local uriComponents = coordinateSpec["param"]`
 `   if uriComponents == "" then`
@@ -177,18 +146,14 @@ local function specPrinter(args, coordinateSpec)
 
 end
 
-\--[Helper function, convert decimal to
-degrees](https://zh.wikipedia.org/wiki/Helper_function,_convert_decimal_to_degrees "wikilink")
-local function convert_dec2dms_d(coordinate)
+\--[Helper function, convert decimal to degrees](https://zh.wikipedia.org/wiki/Helper_function,_convert_decimal_to_degrees "wikilink") local function convert_dec2dms_d(coordinate)
 
 `   local d = math_mod._round( coordinate, 0 ) .. "°"`
 `   return d .. ""`
 
 end
 
-\--[Helper function, convert decimal to degrees and
-minutes](https://zh.wikipedia.org/wiki/Helper_function,_convert_decimal_to_degrees_and_minutes "wikilink")
-local function convert_dec2dms_dm(coordinate)
+\--[Helper function, convert decimal to degrees and minutes](https://zh.wikipedia.org/wiki/Helper_function,_convert_decimal_to_degrees_and_minutes "wikilink") local function convert_dec2dms_dm(coordinate)
 
 `   coordinate = math_mod._round( coordinate * 60, 0 );`
 `   local m = coordinate % 60;`
@@ -199,9 +164,7 @@ local function convert_dec2dms_dm(coordinate)
 
 end
 
-\--[Helper function, convert decimal to degrees, minutes, and
-seconds](https://zh.wikipedia.org/wiki/Helper_function,_convert_decimal_to_degrees,_minutes,_and_seconds "wikilink")
-local function convert_dec2dms_dms(coordinate)
+\--[Helper function, convert decimal to degrees, minutes, and seconds](https://zh.wikipedia.org/wiki/Helper_function,_convert_decimal_to_degrees,_minutes,_and_seconds "wikilink") local function convert_dec2dms_dms(coordinate)
 
 `   coordinate = math_mod._round( coordinate * 60 * 60, 0 );`
 `   local s = coordinate % 60`
@@ -214,11 +177,7 @@ local function convert_dec2dms_dms(coordinate)
 
 end
 
-\--[Helper function, convert decimal latitude or longitude to degrees,
-minutes, and seconds format based on the specified
-precision.](https://zh.wikipedia.org/wiki/Helper_function,_convert_decimal_latitude_or_longitude_to_degrees,_minutes,_and_seconds_format_based_on_the_specified_precision. "wikilink")
-local function convert_dec2dms(coordinate, firstPostfix, secondPostfix,
-precision)
+\--[Helper function, convert decimal latitude or longitude to degrees, minutes, and seconds format based on the specified precision.](https://zh.wikipedia.org/wiki/Helper_function,_convert_decimal_latitude_or_longitude_to_degrees,_minutes,_and_seconds_format_based_on_the_specified_precision. "wikilink") local function convert_dec2dms(coordinate, firstPostfix, secondPostfix, precision)
 
 `   local coord = tonumber(coordinate)`
 `   local postfix`
@@ -239,10 +198,7 @@ precision)
 
 end
 
-\--[Convert DMS format into a N or E decimal
-coordinate](https://zh.wikipedia.org/wiki/Convert_DMS_format_into_a_N_or_E_decimal_coordinate "wikilink")
-local function convert_dms2dec(direction, degrees_str, minutes_str,
-seconds_str)
+\--[Convert DMS format into a N or E decimal coordinate](https://zh.wikipedia.org/wiki/Convert_DMS_format_into_a_N_or_E_decimal_coordinate "wikilink") local function convert_dms2dec(direction, degrees_str, minutes_str, seconds_str)
 
 `   local degrees = tonumber(degrees_str)`
 `   local minutes = tonumber(minutes_str) or 0`
@@ -267,10 +223,7 @@ seconds_str)
 
 end
 
-\--[Checks input values to for out of range
-errors.](https://zh.wikipedia.org/wiki/Checks_input_values_to_for_out_of_range_errors. "wikilink")
-local function validate( lat_d, lat_m, lat_s, long_d, long_m,
-long_s, source, strong )
+\--[Checks input values to for out of range errors.](https://zh.wikipedia.org/wiki/Checks_input_values_to_for_out_of_range_errors. "wikilink") local function validate( lat_d, lat_m, lat_s, long_d, long_m, long_s, source, strong )
 
 `   local errors = {};`
 `   lat_d = tonumber( lat_d ) or 0;`
@@ -287,15 +240,7 @@ long_s, source, strong )
 `       if long_d < 0 then`
 `           table.insert(errors, {source, "longitude degrees < 0 with hemisphere flag"})`
 `       end`
-`       --`[`#coordinates``   ``is``   ``inconsistent``   ``about``
- ``whether``   ``this``   ``is``   ``an``   ``error.``   ``If``
- ``globe:``   ``is``   ``specified,``   ``it``   ``won't``   ``error``
- ``on``   ``this``   ``condition,``   ``but``   ``otherwise``   ``it``
- ``will.``   ``For``   ``not``   ``simply``   ``disable``   ``this``
- ``check.``   ``if``   ``long_d``   ``>``   ``180``   ``then``
- ``table.insert(errors,``   ``{source,``   ``"longitude``   ``degrees``
- ``>``   ``180``   ``with``   ``hemisphere``   ``flag"})``
- ``end`](https://zh.wikipedia.org/wiki/#coordinates_is_inconsistent_about_whether_this_is_an_error._If_globe:_is_specified,_it_won't_error_on_this_condition,_but_otherwise_it_will._For_not_simply_disable_this_check._if_long_d_\>_180_then_table.insert\(errors,_{source,_"longitude_degrees_\>_180_with_hemisphere_flag"}\)_end "wikilink")
+`       --`[`#coordinates``   ``is``   ``inconsistent``   ``about``   ``whether``   ``this``   ``is``   ``an``   ``error.``   ``If``   ``globe:``   ``is``   ``specified,``   ``it``   ``won't``   ``error``   ``on``   ``this``   ``condition,``   ``but``   ``otherwise``   ``it``   ``will.``   ``For``   ``not``   ``simply``   ``disable``   ``this``   ``check.``   ``if``   ``long_d``   ``>``   ``180``   ``then``   ``table.insert(errors,``   ``{source,``   ``"longitude``   ``degrees``   ``>``   ``180``   ``with``   ``hemisphere``   ``flag"})``   ``end`](https://zh.wikipedia.org/wiki/#coordinates_is_inconsistent_about_whether_this_is_an_error._If_globe:_is_specified,_it_won't_error_on_this_condition,_but_otherwise_it_will._For_not_simply_disable_this_check._if_long_d_\>_180_then_table.insert\(errors,_{source,_"longitude_degrees_\>_180_with_hemisphere_flag"}\)_end "wikilink")
 `   end `
 `       `
 `   if lat_d > 90 then`
@@ -339,10 +284,7 @@ long_s, source, strong )
 
 end
 
-\--[parseDec Transforms decimal format latitude and longitude into the
-structure to be used in displaying
-coordinates](https://zh.wikipedia.org/wiki/parseDec_Transforms_decimal_format_latitude_and_longitude_into_the_structure_to_be_used_in_displaying_coordinates "wikilink")
-local function parseDec( lat, long, format )
+\--[parseDec Transforms decimal format latitude and longitude into the structure to be used in displaying coordinates](https://zh.wikipedia.org/wiki/parseDec_Transforms_decimal_format_latitude_and_longitude_into_the_structure_to_be_used_in_displaying_coordinates "wikilink") local function parseDec( lat, long, format )
 
 `   local coordinateSpec = {}`
 `   local errors = {}`
@@ -371,11 +313,7 @@ local function parseDec( lat, long, format )
 
 end
 
-\--[parseDMS Transforms degrees, minutes, seconds format latitude and
-longitude into the a structure to be used in displaying
-coordinates](https://zh.wikipedia.org/wiki/parseDMS_Transforms_degrees,_minutes,_seconds_format_latitude_and_longitude_into_the_a_structure_to_be_used_in_displaying_coordinates "wikilink")
-local function parseDMS( lat_d, lat_m, lat_s, lat_f, long_d,
-long_m, long_s, long_f, format )
+\--[parseDMS Transforms degrees, minutes, seconds format latitude and longitude into the a structure to be used in displaying coordinates](https://zh.wikipedia.org/wiki/parseDMS_Transforms_degrees,_minutes,_seconds_format_latitude_and_longitude_into_the_a_structure_to_be_used_in_displaying_coordinates "wikilink") local function parseDMS( lat_d, lat_m, lat_s, lat_f, long_d, long_m, long_s, long_f, format )
 
 `   local coordinateSpec, errors, backward = {}, {}`
 `   `
@@ -422,10 +360,7 @@ long_m, long_s, long_f, format )
 
 end
 
-\--[Check the input arguments for coord to determine the kind of data
-being provided and then make the necessary
-processing.](https://zh.wikipedia.org/wiki/Check_the_input_arguments_for_coord_to_determine_the_kind_of_data_being_provided_and_then_make_the_necessary_processing. "wikilink")
-local function formatTest(args)
+\--[Check the input arguments for coord to determine the kind of data being provided and then make the necessary processing.](https://zh.wikipedia.org/wiki/Check_the_input_arguments_for_coord_to_determine_the_kind_of_data_being_provided_and_then_make_the_necessary_processing. "wikilink") local function formatTest(args)
 
 `   local result, errors`
 `   local backward, primary = false, false`
@@ -505,9 +440,7 @@ local function formatTest(args)
 
 end
 
-\--[Generate Wikidata tracking
-categories.](https://zh.wikipedia.org/wiki/Generate_Wikidata_tracking_categories. "wikilink")
-local function makeWikidataCategories()
+\--[Generate Wikidata tracking categories.](https://zh.wikipedia.org/wiki/Generate_Wikidata_tracking_categories. "wikilink") local function makeWikidataCategories()
 
 `   local ret`
 `   if mw.wikibase and current_page.namespace == 0 then`
@@ -560,11 +493,7 @@ Usage:
 `       negative_suffix | precision }}`
 `   `
 
-decimal_coordinate is converted to DMS format. If positive, the
-positive_suffix is appended (typical N or E), if negative, the negative
-suffix is appended. The specified precision is one of 'D', 'DM', or
-'DMS' to specify the level of detail to use. \]\] coordinates.dec2dms =
-makeInvokeFunc('_dec2dms') function coordinates._dec2dms(args)
+decimal_coordinate is converted to DMS format. If positive, the positive_suffix is appended (typical N or E), if negative, the negative suffix is appended. The specified precision is one of 'D', 'DM', or 'DMS' to specify the level of detail to use. \]\] coordinates.dec2dms = makeInvokeFunc('_dec2dms') function coordinates._dec2dms(args)
 
 `   local coordinate = args[1]`
 `   local firstPostfix = args[2] or ''`
@@ -575,10 +504,7 @@ makeInvokeFunc('_dec2dms') function coordinates._dec2dms(args)
 
 end
 
-\--[Helper function to determine whether to use D, DM, or DMS format
-depending on the precision of the decimal
-input.](https://zh.wikipedia.org/wiki/Helper_function_to_determine_whether_to_use_D,_DM,_or_DMS_format_depending_on_the_precision_of_the_decimal_input. "wikilink")
-function coordinates.determineMode( value1, value2 )
+\--[Helper function to determine whether to use D, DM, or DMS format depending on the precision of the decimal input.](https://zh.wikipedia.org/wiki/Helper_function_to_determine_whether_to_use_D,_DM,_or_DMS_format_depending_on_the_precision_of_the_decimal_input. "wikilink") function coordinates.determineMode( value1, value2 )
 
 `   local precision = math.max( math_mod._precision( value1 ), math_mod._precision( value2 ) );`
 `   if precision <= 0 then`
@@ -601,11 +527,7 @@ Usage:
 `       minutes | seconds }}`
 `   `
 
-Converts DMS values specified as degrees, minutes, seconds too decimal
-format. direction_flag is one of N, S, E, W, and determines whether the
-output is positive (i.e. N and E) or negative (i.e. S and W). \]\]
-coordinates.dms2dec = makeInvokeFunc('_dms2dec') function
-coordinates._dms2dec(args)
+Converts DMS values specified as degrees, minutes, seconds too decimal format. direction_flag is one of N, S, E, W, and determines whether the output is positive (i.e. N and E) or negative (i.e. S and W). \]\] coordinates.dms2dec = makeInvokeFunc('_dms2dec') function coordinates._dms2dec(args)
 
 `   local direction = args[1]`
 `   local degrees = args[2]`
@@ -631,11 +553,7 @@ Usage:
 `   configuration options.`
 `   `
 
-Note: This function provides the visual display elements of . In order
-to load coordinates into the database, the {{\#coordinates:}} parser
-function must also be called, this is done automatically in the Lua
-version of . \]\] coordinates.coord = makeInvokeFunc('_coord') function
-coordinates._coord(args)
+Note: This function provides the visual display elements of . In order to load coordinates into the database, the {{\#coordinates:}} parser function must also be called, this is done automatically in the Lua version of . \]\] coordinates.coord = makeInvokeFunc('_coord') function coordinates._coord(args)
 
 `   if (not args[1] or not tonumber(args[1])) and not args[2] and mw.wikibase.getEntityObject() then`
 `       args[3] = args[1]; args[1] = nil`
@@ -704,15 +622,13 @@ end
 
 \--\[\[ coord2text
 
-Extracts a single value from a transclusion of . IF THE GEOHACK LINK
-SYNTAX CHANGES THIS FUNCTION MUST BE MODIFIED.
+Extracts a single value from a transclusion of . IF THE GEOHACK LINK SYNTAX CHANGES THIS FUNCTION MUST BE MODIFIED.
 
 Usage:
 
 `   {{#invoke:Coordinates | coord2text | `` | parameter }}`
 
-Valid values for the second parameter are: lat (signed integer), long
-(signed integer), type, scale, dim, region, globe, source
+Valid values for the second parameter are: lat (signed integer), long (signed integer), type, scale, dim, region, globe, source
 
 \]\] function coordinates.coord2text(frame)
 
@@ -736,17 +652,13 @@ end
 
 \--\[\[ coordinsert
 
-Injects some text into the Geohack link of a transclusion of  (if that
-text isn't already in the transclusion). Outputs the modified
-transclusion of . IF THE GEOHACK LINK SYNTAX CHANGES THIS FUNCTION MUST
-BE MODIFIED.
+Injects some text into the Geohack link of a transclusion of  (if that text isn't already in the transclusion). Outputs the modified transclusion of . IF THE GEOHACK LINK SYNTAX CHANGES THIS FUNCTION MUST BE MODIFIED.
 
 Usage:
 
 `   {{#invoke:Coordinates | coordinsert | `` | parameter:value | parameter:value | … }}`
 
-Do not make Geohack unhappy by inserting something which isn't mentioned
-in the  documentation.
+Do not make Geohack unhappy by inserting something which isn't mentioned in the  documentation.
 
 \]\] function coordinates.coordinsert(frame)
 
@@ -772,5 +684,4 @@ end
 
 return coordinates
 
-[Category:需要修復的經緯模板引用](https://zh.wikipedia.org/wiki/Category:需要修復的經緯模板引用 "wikilink")
-[Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink")
+[Category:需要修復的經緯模板引用](https://zh.wikipedia.org/wiki/Category:需要修復的經緯模板引用 "wikilink") [Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink")

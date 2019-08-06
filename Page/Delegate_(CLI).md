@@ -1,9 +1,6 @@
-**委托**（delegate）是一种类型安全的[函数指针](../Page/函数指针.md "wikilink")，用于[通用语言运行库](https://zh.wikipedia.org/wiki/通用语言运行库 "wikilink")(CLI)。在[C\#中](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")，delegate是一种class，包装了一个或多个函数指针及绑定的类实例。Delegate用来实现函数回调与事件接收（event
-listener）。Delegate对象可以作为参数传递给其他函数，以引用（referenced）封装在delegate对象中的函数，而无需在编译时刻就绑定被调用函数。
-\[1\]
+**委托**（delegate）是一种类型安全的[函数指针](../Page/函数指针.md "wikilink")，用于[通用语言运行库](https://zh.wikipedia.org/wiki/通用语言运行库 "wikilink")(CLI)。在[C\#中](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")，delegate是一种class，包装了一个或多个函数指针及绑定的类实例。Delegate用来实现函数回调与事件接收（event listener）。Delegate对象可以作为参数传递给其他函数，以引用（referenced）封装在delegate对象中的函数，而无需在编译时刻就绑定被调用函数。 \[1\]
 
-一旦为委托分配了函数方法，委托将与该函数方法具有完全相同的行为。
-与委托的**[类型特征](https://zh.wikipedia.org/wiki/类型特征 "wikilink")**（由返回类型和参数组成）匹配的任何方法都可以分配给该委托。
+一旦为委托分配了函数方法，委托将与该函数方法具有完全相同的行为。 与委托的**[类型特征](https://zh.wikipedia.org/wiki/类型特征 "wikilink")**（由返回类型和参数组成）匹配的任何方法都可以分配给该委托。
 
 ## C\#例子
 
@@ -85,22 +82,13 @@ delegateType de3=de1+de2;//de3中有fun1、fun2两个函数的引用
 
 ## 外部链接
 
-  - [MSDN documentation for
-    Delegates](http://msdn2.microsoft.com/en-us/library/system.delegate.aspx)
-  - [Delegates with sample
-    code](http://net-informations.com/faq/net/delegates.htm)
-  - [Sun's White Paper on
-    Delegates](https://web.archive.org/web/20120627043929/http://java.sun.com/docs/white/delegates.html)
-  - [Microsoft answer to
-    Sun](http://msdn.microsoft.com/en-us/vjsharp/bb188664.aspx)
-  - [Inner workings of
-    Delegates](http://blog.monstuff.com/archives/000037.html)
-  - [PerfectJPattern Open Source
-    Project](http://perfectjpattern.sourceforge.net/dp-delegates.html),
-    Provides componentized i.e. context-free and type-safe
-    implementation of the Delegates Pattern in Java
+  - [MSDN documentation for Delegates](http://msdn2.microsoft.com/en-us/library/system.delegate.aspx)
+  - [Delegates with sample code](http://net-informations.com/faq/net/delegates.htm)
+  - [Sun's White Paper on Delegates](https://web.archive.org/web/20120627043929/http://java.sun.com/docs/white/delegates.html)
+  - [Microsoft answer to Sun](http://msdn.microsoft.com/en-us/vjsharp/bb188664.aspx)
+  - [Inner workings of Delegates](http://blog.monstuff.com/archives/000037.html)
+  - [PerfectJPattern Open Source Project](http://perfectjpattern.sourceforge.net/dp-delegates.html), Provides componentized i.e. context-free and type-safe implementation of the Delegates Pattern in Java
 
-[Category:子程序](https://zh.wikipedia.org/wiki/Category:子程序 "wikilink")
-[Category:.NET](https://zh.wikipedia.org/wiki/Category:.NET "wikilink")
+[Category:子程序](https://zh.wikipedia.org/wiki/Category:子程序 "wikilink") [Category:.NET](https://zh.wikipedia.org/wiki/Category:.NET "wikilink")
 
 1.

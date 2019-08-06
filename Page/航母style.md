@@ -24,19 +24,13 @@
 
 ## 參見
 
-[Category:2012年12月](https://zh.wikipedia.org/wiki/Category:2012年12月 "wikilink")
-[Category:2012年中国](https://zh.wikipedia.org/wiki/Category:2012年中国 "wikilink")
-[Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink")
-[Category:中国网络文化](https://zh.wikipedia.org/wiki/Category:中国网络文化 "wikilink")
-[Category:姿势](https://zh.wikipedia.org/wiki/Category:姿势 "wikilink")
+[Category:2012年12月](https://zh.wikipedia.org/wiki/Category:2012年12月 "wikilink") [Category:2012年中国](https://zh.wikipedia.org/wiki/Category:2012年中国 "wikilink") [Category:網路迷因](https://zh.wikipedia.org/wiki/Category:網路迷因 "wikilink") [Category:中国网络文化](https://zh.wikipedia.org/wiki/Category:中国网络文化 "wikilink") [Category:姿势](https://zh.wikipedia.org/wiki/Category:姿势 "wikilink")
 
 1.  [士兵做“航母style”是为保飞行安全](http://v.ifeng.com/mil/mainland/201211/b299c3ac-7550-4473-ba63-d04d0b6d0dbf.shtml)
-2.  [歼15起飞手势走红
-    央视播“航母style”](http://tv.sohu.com/20121127/n358745656.shtml/index.shtml/index.shtml)
+2.  [歼15起飞手势走红 央视播“航母style”](http://tv.sohu.com/20121127/n358745656.shtml/index.shtml/index.shtml)
 3.  [超级大本营军事论坛“航母style”活动主题](http://lt.cjdby.net/thread-1503160-1-1.html)
 4.  [超级大本营军事论坛上网民的讨论](http://lt.cjdby.net/thread-1503160-1-1.html)
-5.  [明星航母style笑料百出
-    网友力荐上春晚孙俪领舞](http://ent.163.com/12/1129/23/8HH0BHT300032DGD.html)
+5.  [明星航母style笑料百出 网友力荐上春晚孙俪领舞](http://ent.163.com/12/1129/23/8HH0BHT300032DGD.html)
 6.  [中国航母style动作第一人沈意：演练已有两年](http://news.tag.163.com/main/56163/page_1.html)
 7.
 8.

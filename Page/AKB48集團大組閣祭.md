@@ -1,14 +1,10 @@
-**AKB48集團大組閣祭
-～時代在變。但是，我們也只能往前邁進！～**（），簡稱**AKB48集團大組閣祭**（），是[日本](../Page/日本.md "wikilink")女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")以及姊妹團體（[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")和[HKT48](../Page/HKT48.md "wikilink")）於2014年2月24日在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[台場的](../Page/御台場.md "wikilink")舉辦之所有成員重新分組的活動\[1\]。
+**AKB48集團大組閣祭 ～時代在變。但是，我們也只能往前邁進！～**（），簡稱**AKB48集團大組閣祭**（），是[日本](../Page/日本.md "wikilink")女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")以及姊妹團體（[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")和[HKT48](../Page/HKT48.md "wikilink")）於2014年2月24日在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[台場的](../Page/御台場.md "wikilink")舉辦之所有成員重新分組的活動\[1\]。
 
 AKB48所稱的「組閣」，是指對所有成員的所屬分隊進行調整；該活動為第三次組閣，但調整範圍從AKB48本團涵蓋至所有在日本國內的姊妹團體。此次組閣於各分隊中新導入副隊長（）制度，並一併進行了[AKB48集團](../Page/AKB48集團.md "wikilink")各劇場管理人等幕後人員的組閣，且首次導入與[乃木坂46成員相互兼任的](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")「交換留學生」制度\[2\]。
 
 ## 概要
 
-  - 2014年1月26日，於[TOKYO DOME CITY
-    HALL舉辦的](https://zh.wikipedia.org/wiki/MEETS_PORT#東京巨蛋城表演廳 "wikilink")「[AKB48
-    重溫時間 最佳曲目200
-    2014（200位-101位）](../Page/AKB48_重溫時間_最佳曲目200_2014.md "wikilink")」第四日演唱會中，宣布將舉辦「AKB48集團大組閣祭\[3\]。」
+  - 2014年1月26日，於[TOKYO DOME CITY HALL舉辦的](https://zh.wikipedia.org/wiki/MEETS_PORT#東京巨蛋城表演廳 "wikilink")「[AKB48 重溫時間 最佳曲目200 2014（200位-101位）](../Page/AKB48_重溫時間_最佳曲目200_2014.md "wikilink")」第四日演唱會中，宣布將舉辦「AKB48集團大組閣祭\[3\]。」
 
 <!-- end list -->
 
@@ -41,38 +37,23 @@ AKB48所稱的「組閣」，是指對所有成員的所屬分隊進行調整；
 前座
 
   -
-    M01
-    《[勇往直前](https://zh.wikipedia.org/wiki/勇往直前 "wikilink")》（幕後團：田中博信（主唱）、湯浅順司（吉他）、三池智之（BASS）、村若宏司（鼓手）與熊谷隆宏司（吉他）這5位工作人員組成）
+    M01 《[勇往直前](https://zh.wikipedia.org/wiki/勇往直前 "wikilink")》（幕後團：田中博信（主唱）、湯浅順司（吉他）、三池智之（BASS）、村若宏司（鼓手）與熊谷隆宏司（吉他）這5位工作人員組成）
 
 本篇
 
   -
-    M01 《[Only
-    today](../Page/Team_A_4th_Stage“正在恋爱中”.md "wikilink")》Team
-    A
+    M01 《[Only today](../Page/Team_A_4th_Stage“正在恋爱中”.md "wikilink")》Team A
     M02 《[草原的奇蹟](../Page/Team_K_3rd_Stage“脑内天堂”.md "wikilink")》Team K
-    M03 《[推Team
-    B](https://zh.wikipedia.org/wiki/Team_B_5th_Stage“剧场的女神” "wikilink")》Team
-    B
-    M04 《[清純哲學](https://zh.wikipedia.org/wiki/真心电流 "wikilink")》Team
-    4（岡田奈奈休演）
-    M05 《[JYURI-JYURI
-    BABY](https://zh.wikipedia.org/wiki/美丽的闪电 "wikilink")》Team
-    S
-    M06 《[只有兩個人的遊行](https://zh.wikipedia.org/wiki/美丽的闪电 "wikilink")》Team
-    KII（內山命休演）
+    M03 《[推Team B](https://zh.wikipedia.org/wiki/Team_B_5th_Stage“剧场的女神” "wikilink")》Team B
+    M04 《[清純哲學](https://zh.wikipedia.org/wiki/真心电流 "wikilink")》Team 4（岡田奈奈休演）
+    M05 《[JYURI-JYURI BABY](https://zh.wikipedia.org/wiki/美丽的闪电 "wikilink")》Team S
+    M06 《[只有兩個人的遊行](https://zh.wikipedia.org/wiki/美丽的闪电 "wikilink")》Team KII（內山命休演）
     M07 《[莎啦啦的日曆](https://zh.wikipedia.org/wiki/美丽的闪电 "wikilink")》Team E
-    M08
-    《[天使在這裡](https://zh.wikipedia.org/wiki/Team_N_3rd_Stage“天使在这里” "wikilink")》Team
-    N
-    M09 《[With my soul](../Page/尖端顶点之上！.md "wikilink")》Team
-    M（代演：選秀生武井紗良、研究生山尾梨奈）
-    M10 《[杏仁羊角麵包計劃](../Page/尖端顶点之上！.md "wikilink")》Team
-    BII（山內翼休演，代演：選秀生磯佳奈江與內木志）
+    M08 《[天使在這裡](https://zh.wikipedia.org/wiki/Team_N_3rd_Stage“天使在这里” "wikilink")》Team N
+    M09 《[With my soul](../Page/尖端顶点之上！.md "wikilink")》Team M（代演：選秀生武井紗良、研究生山尾梨奈）
+    M10 《[杏仁羊角麵包計劃](../Page/尖端顶点之上！.md "wikilink")》Team BII（山內翼休演，代演：選秀生磯佳奈江與內木志）
     M11 《[甜瓜汁](../Page/甜瓜汁_\(HKT48單曲\).md "wikilink")》Team H
-    M12
-    《[喜欢！喜欢！小跳步！](https://zh.wikipedia.org/wiki/喜欢！喜欢！小跳步！ "wikilink")》Team
-    KIV
+    M12 《[喜欢！喜欢！小跳步！](https://zh.wikipedia.org/wiki/喜欢！喜欢！小跳步！ "wikilink")》Team KIV
 
 ## 主持人與評論來賓
 
@@ -1199,8 +1180,7 @@ AKB48所稱的「組閣」，是指對所有成員的所屬分隊進行調整；
 
 ### 日本国外团体
 
-  - AKB48
-    5期生[近野莉菜](../Page/近野莉菜.md "wikilink")移籍至[JKT48](../Page/JKT48.md "wikilink")（移籍发表时未公布所属队伍）。
+  - AKB48 5期生[近野莉菜](../Page/近野莉菜.md "wikilink")移籍至[JKT48](../Page/JKT48.md "wikilink")（移籍发表时未公布所属队伍）。
 
 ## 大組閣活動尾聲
 
@@ -1212,27 +1192,16 @@ AKB48所稱的「組閣」，是指對所有成員的所屬分隊進行調整；
 
 ### 參考文獻
 
-[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
-[Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
-[Category:HKT48](https://zh.wikipedia.org/wiki/Category:HKT48 "wikilink")
-[Category:2014年日本](https://zh.wikipedia.org/wiki/Category:2014年日本 "wikilink")
+[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink") [Category:HKT48](https://zh.wikipedia.org/wiki/Category:HKT48 "wikilink") [Category:2014年日本](https://zh.wikipedia.org/wiki/Category:2014年日本 "wikilink")
 
 1.
 2.
 3.
-4.  原本預定由AKB48 Team A調動至SKE48 Team
-    S，之後於2014年2月27日的Google+上表示由於學校就學問題與祖父母身體不適需要母親往返於東京與宮城縣照顧等原因而辭退調動。
-5.  原本預定由AKB48 Team A調動至NMB48 Team
-    N，之後於2014年2月27日的Google+上僅表示還有未完成的事而辭退調動，之後便於4月14日於AKB48
-    Team A公演中宣布畢業。
-6.  原本預定由AKB48 Team 4調動至SKE48 Team
-    KII，之後於2014年2月27日的Google+上表示由於學校就學問題的原因辭退調動。
-7.  原本預定由NMB48 Team M調動至NMB48 Team
-    BII，之後於2014年2月27日的Google+上表示自己希望能繼續在未來的新Team
-    M上發揮自己的角色的原因而辭退調動。
-8.  原本預定由NMB48的研究生升格至NMB48 Team
-    M，之後於2014年2月27日的Google+上表示自己希望繼續作為研究生而努力，等自己更加經過鍛鍊後，相信自己在未來絕對會再有升格的機會。
+4.  原本預定由AKB48 Team A調動至SKE48 Team S，之後於2014年2月27日的Google+上表示由於學校就學問題與祖父母身體不適需要母親往返於東京與宮城縣照顧等原因而辭退調動。
+5.  原本預定由AKB48 Team A調動至NMB48 Team N，之後於2014年2月27日的Google+上僅表示還有未完成的事而辭退調動，之後便於4月14日於AKB48 Team A公演中宣布畢業。
+6.  原本預定由AKB48 Team 4調動至SKE48 Team KII，之後於2014年2月27日的Google+上表示由於學校就學問題的原因辭退調動。
+7.  原本預定由NMB48 Team M調動至NMB48 Team BII，之後於2014年2月27日的Google+上表示自己希望能繼續在未來的新Team M上發揮自己的角色的原因而辭退調動。
+8.  原本預定由NMB48的研究生升格至NMB48 Team M，之後於2014年2月27日的Google+上表示自己希望繼續作為研究生而努力，等自己更加經過鍛鍊後，相信自己在未來絕對會再有升格的機會。
 9.
 10.
 11.

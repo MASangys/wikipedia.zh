@@ -1,8 +1,4 @@
-[Libvirt_support.svg](https://zh.wikipedia.org/wiki/File:Libvirt_support.svg "fig:Libvirt_support.svg")
-and supports several [Hypervisor](../Page/Hypervisor.md "wikilink")s\]\]
-在[電腦運算中](https://zh.wikipedia.org/wiki/電腦運算 "wikilink")，紅帽公司的**Virtual
-Machine
-Manager**是一個[虛擬機器管理員](https://zh.wikipedia.org/wiki/虛擬機器管理員 "wikilink")，可以讓使用者管理多個[虛擬機器](../Page/虛擬機器.md "wikilink")\[1\]。
+[Libvirt_support.svg](https://zh.wikipedia.org/wiki/File:Libvirt_support.svg "fig:Libvirt_support.svg") and supports several [Hypervisor](../Page/Hypervisor.md "wikilink")s\]\] 在[電腦運算中](https://zh.wikipedia.org/wiki/電腦運算 "wikilink")，紅帽公司的**Virtual Machine Manager**是一個[虛擬機器管理員](https://zh.wikipedia.org/wiki/虛擬機器管理員 "wikilink")，可以讓使用者管理多個[虛擬機器](../Page/虛擬機器.md "wikilink")\[1\]。
 
 ## 特性
 
@@ -33,8 +29,7 @@ Virtual Machine Manager以「virt-manager」為名的軟體包在下列發行版
 
   - [PC-BSD](https://zh.wikipedia.org/wiki/PC-BSD "wikilink")
 
-  - [Red Hat Enterprise
-    Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")（自第五版起提供）
+  - [Red Hat Enterprise Linux](../Page/Red_Hat_Enterprise_Linux.md "wikilink")（自第五版起提供）
 
   - [Ubuntu](../Page/Ubuntu.md "wikilink")（8.04或更新版提供）
 
@@ -46,24 +41,19 @@ Virtual Machine Manager以「virt-manager」為名的軟體包在下列發行版
 
 Virtual Machine Manager及其[官方網頁](http://virt-manager.org/)均包含了說明文件。
 
-Red Hat Enterprise
-Linux的虛擬化說明文件提供了三項指引：[管理](http://docs.redhat.com/docs/en-US/Red_Hat_Enterprise_Linux/6/html/Virtualization_Administration_Guide/index.html)、[入門](http://docs.redhat.com/docs/en-US/Red_Hat_Enterprise_Linux/6/html/Virtualization_Getting_Started_Guide/index.html)以及[主控端的設置及客戶端安裝](http://docs.redhat.com/docs/en-US/Red_Hat_Enterprise_Linux/6/html/Virtualization_Host_Configuration_and_Guest_Installation_Guide/index.html)。
+Red Hat Enterprise Linux的虛擬化說明文件提供了三項指引：[管理](http://docs.redhat.com/docs/en-US/Red_Hat_Enterprise_Linux/6/html/Virtualization_Administration_Guide/index.html)、[入門](http://docs.redhat.com/docs/en-US/Red_Hat_Enterprise_Linux/6/html/Virtualization_Getting_Started_Guide/index.html)以及[主控端的設置及客戶端安裝](http://docs.redhat.com/docs/en-US/Red_Hat_Enterprise_Linux/6/html/Virtualization_Host_Configuration_and_Guest_Installation_Guide/index.html)。
 
-Ubuntu
-8.04所附帶的虛擬化說明文件：[Ubuntu伺服器指引](https://web.archive.org/web/20080511195655/http://doc.ubuntu.com/ubuntu/serverguide/C/virtualization.html)。
+Ubuntu 8.04所附帶的虛擬化說明文件：[Ubuntu伺服器指引](https://web.archive.org/web/20080511195655/http://doc.ubuntu.com/ubuntu/serverguide/C/virtualization.html)。
 
 ## 參見
 
-  - [libvirt](https://zh.wikipedia.org/wiki/libvirt "wikilink")，Virtual
-    Machine Manager用來創建和管理虛擬機器的開源API。
+  - [libvirt](https://zh.wikipedia.org/wiki/libvirt "wikilink")，Virtual Machine Manager用來創建和管理虛擬機器的開源API。
 
 ## 註釋
 
 ## 外部連結
 
   -
-[Category:虛擬化軟體](https://zh.wikipedia.org/wiki/Category:虛擬化軟體 "wikilink")
-[Category:红帽软件](https://zh.wikipedia.org/wiki/Category:红帽软件 "wikilink")
-[Category:使用GTK+的Linux虚拟化相关软件](https://zh.wikipedia.org/wiki/Category:使用GTK+的Linux虚拟化相关软件 "wikilink")
+[Category:虛擬化軟體](https://zh.wikipedia.org/wiki/Category:虛擬化軟體 "wikilink") [Category:红帽软件](https://zh.wikipedia.org/wiki/Category:红帽软件 "wikilink") [Category:使用GTK+的Linux虚拟化相关软件](https://zh.wikipedia.org/wiki/Category:使用GTK+的Linux虚拟化相关软件 "wikilink")
 
 1.

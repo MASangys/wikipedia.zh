@@ -10,8 +10,7 @@ DP輕機槍結構非常簡單，零件多為切削加工。採用導氣式，其
 
   - DPM
 
-[DPM_LMG_TBiU_11.jpg](https://zh.wikipedia.org/wiki/File:DPM_LMG_TBiU_11.jpg "fig:DPM_LMG_TBiU_11.jpg")
-DP輕機槍的改良型，把其複進簧改成裝在[機匣後方的複進箕套中](https://zh.wikipedia.org/wiki/機匣 "wikilink")，槍身後方改用手槍型扳機
+[DPM_LMG_TBiU_11.jpg](https://zh.wikipedia.org/wiki/File:DPM_LMG_TBiU_11.jpg "fig:DPM_LMG_TBiU_11.jpg") DP輕機槍的改良型，把其複進簧改成裝在[機匣後方的複進箕套中](https://zh.wikipedia.org/wiki/機匣 "wikilink")，槍身後方改用手槍型扳機
 
   - DA
 
@@ -19,8 +18,7 @@ DP輕機槍的改良型，把其複進簧改成裝在[機匣後方的複進箕�
 
   - DT/DTM
 
-車載機槍，主要作為[T-34坦克](../Page/T-34坦克.md "wikilink")的同軸機槍和車前機槍。该枪枪管更重，采用双层弹盘，装备可伸缩金属枪托和手枪握把。
-[Machine_gun_DP_and_DT.jpg](https://zh.wikipedia.org/wiki/File:Machine_gun_DP_and_DT.jpg "fig:Machine_gun_DP_and_DT.jpg")
+車載機槍，主要作為[T-34坦克](../Page/T-34坦克.md "wikilink")的同軸機槍和車前機槍。该枪枪管更重，采用双层弹盘，装备可伸缩金属枪托和手枪握把。 [Machine_gun_DP_and_DT.jpg](https://zh.wikipedia.org/wiki/File:Machine_gun_DP_and_DT.jpg "fig:Machine_gun_DP_and_DT.jpg")
 
   - DTM-4
 
@@ -40,8 +38,7 @@ DTM四聯裝車載機槍衍生型。
 
 ## 使用國家
 
-[MNRA_soldiers_1939.jpg](https://zh.wikipedia.org/wiki/File:MNRA_soldiers_1939.jpg "fig:MNRA_soldiers_1939.jpg")中的蒙古士兵使用DP輕機槍\]\]
-[Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg](https://zh.wikipedia.org/wiki/File:Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg "fig:Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg")的士兵使用DP輕機槍\]\]
+[MNRA_soldiers_1939.jpg](https://zh.wikipedia.org/wiki/File:MNRA_soldiers_1939.jpg "fig:MNRA_soldiers_1939.jpg")中的蒙古士兵使用DP輕機槍\]\] [Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg](https://zh.wikipedia.org/wiki/File:Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg "fig:Battle_of_Triangle_Hill_Chinese_Infantrymen.jpg")的士兵使用DP輕機槍\]\]
 
   - \[1\]
 
@@ -99,23 +96,18 @@ DTM四聯裝車載機槍衍生型。
 
 ### 電子遊戲
 
-  - 在2004年推出的《[-{zh-hans:战地：越南;
-    zh-hant:戰地風雲：越南;}-](../Page/戰地風雲：越南.md "wikilink")》中，選擇北越的玩家可以使用中國製53式輕機槍。
-  - 在2008年推出的《[-{zh-hans:使命召唤：战争世界;
-    zh-hant:決勝時刻：戰爭世界;}-](../Page/決勝時刻：戰爭世界.md "wikilink")》的聯機模式中，DP-28為其中一款可用武器。
-  - 在《[-{zh-hans:战地1942;
-    zh-hant:戰地風雲1942;}-](../Page/戰地風雲1942.md "wikilink")》中選擇突擊兵可以使用DP。
+  - 在2004年推出的《[-{zh-hans:战地：越南; zh-hant:戰地風雲：越南;}-](../Page/戰地風雲：越南.md "wikilink")》中，選擇北越的玩家可以使用中國製53式輕機槍。
+  - 在2008年推出的《[-{zh-hans:使命召唤：战争世界; zh-hant:決勝時刻：戰爭世界;}-](../Page/決勝時刻：戰爭世界.md "wikilink")》的聯機模式中，DP-28為其中一款可用武器。
+  - 在《[-{zh-hans:战地1942; zh-hant:戰地風雲1942;}-](../Page/戰地風雲1942.md "wikilink")》中選擇突擊兵可以使用DP。
   - 在2014年推出的《[英雄與將軍](../Page/英雄與將軍.md "wikilink")》扮演蘇聯紅軍的玩家可購買並使用DP-28。
   - 在《[彩虹六號：圍攻行動](https://zh.wikipedia.org/wiki/彩虹六號：圍攻行動 "wikilink")》中，俄羅斯特種部隊隊員Tachanka的技能是架設DP-28（實際上更像[RP-46輕機槍](../Page/RP-46輕機槍.md "wikilink")）作為固定機槍使用。
   - 在2017年推出的《[絕地求生](../Page/絕地求生.md "wikilink")》中，命名為"DP-28"，隨機散落在島嶼各個地方，可加裝紅點瞄準鏡、全息瞄準鏡、6倍及以下高倍瞄準鏡。有着47發盤狀彈匣。常被玩家稱做「大盤雞」
-  - 在《[战争前线](../Page/战争前线.md "wikilink")》中：型号为DP-27，命名为「DP-27」，使用木制握把枪托，60发弹盘，射击时奇怪的弹盘不会转动。为步枪手专用武器，可以通过抽奖获得，并可以改装瞄准镜（[EoTech
-    553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点镜 "wikilink")），无法改装枪口配件以及战术导轨配件，預設裝備双脚架。拥有黄金版本，强化射速与载弹量。
+  - 在《[战争前线](../Page/战争前线.md "wikilink")》中：型号为DP-27，命名为「DP-27」，使用木制握把枪托，60发弹盘，射击时奇怪的弹盘不会转动。为步枪手专用武器，可以通过抽奖获得，并可以改装瞄准镜（[EoTech 553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点镜 "wikilink")），无法改装枪口配件以及战术导轨配件，預設裝備双脚架。拥有黄金版本，强化射速与载弹量。
 
 ### 電影
 
   - 在1956年拍攝的中國[韓戰電影](https://zh.wikipedia.org/wiki/韓戰 "wikilink")《[上甘嶺](https://zh.wikipedia.org/wiki/上甘嶺_\(電影\) "wikilink")》當中有為DP輕機槍上彈和投入戰鬥的鏡頭。
-  - 韓國電影《[-{zh-hans:太极旗飘扬; zh-hk:太極旗飄揚：生死有情;
-    zh-hant:太極旗－生死兄弟;}-](../Page/太極旗飄揚.md "wikilink")》中，最後[大韓民國國軍](../Page/大韓民國國軍.md "wikilink")衝鋒時，有[朝鮮人民軍士兵使用DP輕機槍射擊的畫面](https://zh.wikipedia.org/wiki/朝鮮人民軍 "wikilink")。
+  - 韓國電影《[-{zh-hans:太极旗飘扬; zh-hk:太極旗飄揚：生死有情; zh-hant:太極旗－生死兄弟;}-](../Page/太極旗飄揚.md "wikilink")》中，最後[大韓民國國軍](../Page/大韓民國國軍.md "wikilink")衝鋒時，有[朝鮮人民軍士兵使用DP輕機槍射擊的畫面](https://zh.wikipedia.org/wiki/朝鮮人民軍 "wikilink")。
 
 ## 相關條目
 
@@ -136,30 +128,14 @@ DTM四聯裝車載機槍衍生型。
 
 ## 外部連結
 
-  - [The Battles of the Winter
-    War](http://www.winterwar.com/Weapons/SuSmallArms/SUAutomatics.htm)
-  - [Modern Firearms – Degtyarev DP DPM
-    RP-46](https://web.archive.org/web/20060212210543/http://world.guns.ru/machine/mg34-e.htm)
-  - [Soviet DT-28 Repair and Operation
-    Manual](http://www.scribd.com/doc/29617716/DT-28-Machine-Gun-Manual-T-34-Tank)
-  - [Degtyarov machine gun
-    variants](http://www.bratishka.ru/archiv/2010/5/2010_5_10.php)
-  - [Degtyaryov machine gun with Japanese Type 11 magazine
-    hopper](http://www.dragonsoffire.com/images/RussianLMG.jpg)
+  - [The Battles of the Winter War](http://www.winterwar.com/Weapons/SuSmallArms/SUAutomatics.htm)
+  - [Modern Firearms – Degtyarev DP DPM RP-46](https://web.archive.org/web/20060212210543/http://world.guns.ru/machine/mg34-e.htm)
+  - [Soviet DT-28 Repair and Operation Manual](http://www.scribd.com/doc/29617716/DT-28-Machine-Gun-Manual-T-34-Tank)
+  - [Degtyarov machine gun variants](http://www.bratishka.ru/archiv/2010/5/2010_5_10.php)
+  - [Degtyaryov machine gun with Japanese Type 11 magazine hopper](http://www.dragonsoffire.com/images/RussianLMG.jpg)
   - <https://web.archive.org/web/20140815074754/http://www.kalashnikov.ru/upload/medialibrary/7dc/06_16.pdf>
 
-[Category:輕機槍](https://zh.wikipedia.org/wiki/Category:輕機槍 "wikilink")
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
-[Category:7.62×54毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×54毫米槍械 "wikilink")
-[Category:導氣式槍械](https://zh.wikipedia.org/wiki/Category:導氣式槍械 "wikilink")
-[Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink")
-[Category:中國二戰槍械](https://zh.wikipedia.org/wiki/Category:中國二戰槍械 "wikilink")
-[Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")
-[Category:二戰機槍](https://zh.wikipedia.org/wiki/Category:二戰機槍 "wikilink")
-[Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink")
-[Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
-[Category:捷格加廖夫工廠](https://zh.wikipedia.org/wiki/Category:捷格加廖夫工廠 "wikilink")
+[Category:輕機槍](https://zh.wikipedia.org/wiki/Category:輕機槍 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:7.62×54毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×54毫米槍械 "wikilink") [Category:導氣式槍械](https://zh.wikipedia.org/wiki/Category:導氣式槍械 "wikilink") [Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink") [Category:中國二戰槍械](https://zh.wikipedia.org/wiki/Category:中國二戰槍械 "wikilink") [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink") [Category:二戰機槍](https://zh.wikipedia.org/wiki/Category:二戰機槍 "wikilink") [Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink") [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink") [Category:捷格加廖夫工廠](https://zh.wikipedia.org/wiki/Category:捷格加廖夫工廠 "wikilink")
 
 1.
 

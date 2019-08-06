@@ -1,6 +1,4 @@
-[Firstdraftofrepo00vonn_0003.jpg](https://zh.wikipedia.org/wiki/File:Firstdraftofrepo00vonn_0003.jpg "fig:Firstdraftofrepo00vonn_0003.jpg")報告書的第一份草案封面\]\]
-[ENIAC_Penn1.jpg](https://zh.wikipedia.org/wiki/File:ENIAC_Penn1.jpg "fig:ENIAC_Penn1.jpg")
-《**[EDVAC](../Page/EDVAC.md "wikilink")報告書的第一份草案**》（），一般簡稱為***第一份草案***，是由[约翰·冯·诺伊曼](../Page/约翰·冯·诺伊曼.md "wikilink")所撰寫共101頁文件，於1945年6月30日，由[ENIAC機密計劃的安全官](https://zh.wikipedia.org/wiki/ENIAC "wikilink")所發表。內容包含了第一次公諸於世的使用儲存程式概念電腦的邏輯設計描述，即後來成為眾所熟知且頗具爭議的[范紐曼型架構](../Page/冯·诺伊曼结构.md "wikilink")。
+[Firstdraftofrepo00vonn_0003.jpg](https://zh.wikipedia.org/wiki/File:Firstdraftofrepo00vonn_0003.jpg "fig:Firstdraftofrepo00vonn_0003.jpg")報告書的第一份草案封面\]\] [ENIAC_Penn1.jpg](https://zh.wikipedia.org/wiki/File:ENIAC_Penn1.jpg "fig:ENIAC_Penn1.jpg") 《**[EDVAC](../Page/EDVAC.md "wikilink")報告書的第一份草案**》（），一般簡稱為***第一份草案***，是由[约翰·冯·诺伊曼](../Page/约翰·冯·诺伊曼.md "wikilink")所撰寫共101頁文件，於1945年6月30日，由[ENIAC機密計劃的安全官](https://zh.wikipedia.org/wiki/ENIAC "wikilink")所發表。內容包含了第一次公諸於世的使用儲存程式概念電腦的邏輯設計描述，即後來成為眾所熟知且頗具爭議的[范紐曼型架構](../Page/冯·诺伊曼结构.md "wikilink")。
 
 ## 歷史
 
@@ -45,21 +43,9 @@
 
 ## 外部連結
 
-  - [Oral history interview with J. Presper
-    Eckert](http://purl.umn.edu/107275), , University of Minnesota., a
-    co-inventor of the
-    [ENIAC](https://zh.wikipedia.org/wiki/ENIAC "wikilink"), discusses
-    its development at the University of Pennsylvania's  of Electrical
-    Engineering; describes difficulties in securing patent rights for
-    the ENIAC and the problems posed by the circulation of [John von
-    Neumann](https://zh.wikipedia.org/wiki/約翰·馮·諾伊曼 "wikilink")'s 1945
-    First Draft of the Report on EDVAC, which placed the ENIAC
-    inventions in the public domain. Interview by Nancy Stern, 28
-    October 1977.
+  - [Oral history interview with J. Presper Eckert](http://purl.umn.edu/107275), , University of Minnesota., a co-inventor of the [ENIAC](https://zh.wikipedia.org/wiki/ENIAC "wikilink"), discusses its development at the University of Pennsylvania's  of Electrical Engineering; describes difficulties in securing patent rights for the ENIAC and the problems posed by the circulation of [John von Neumann](https://zh.wikipedia.org/wiki/約翰·馮·諾伊曼 "wikilink")'s 1945 First Draft of the Report on EDVAC, which placed the ENIAC inventions in the public domain. Interview by Nancy Stern, 28 October 1977.
 
-[Category:電腦架構](https://zh.wikipedia.org/wiki/Category:電腦架構 "wikilink")
-[Category:報告書](https://zh.wikipedia.org/wiki/Category:報告書 "wikilink")
-[Category:計算機技術](https://zh.wikipedia.org/wiki/Category:計算機技術 "wikilink")
+[Category:電腦架構](https://zh.wikipedia.org/wiki/Category:電腦架構 "wikilink") [Category:報告書](https://zh.wikipedia.org/wiki/Category:報告書 "wikilink") [Category:計算機技術](https://zh.wikipedia.org/wiki/Category:計算機技術 "wikilink")
 
 1.
 2.

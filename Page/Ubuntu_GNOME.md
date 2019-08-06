@@ -1,6 +1,4 @@
-**Ubuntu
-GNOME**是一个基于[Ubuntu](../Page/Ubuntu.md "wikilink")的[Linux](../Page/Linux.md "wikilink")发行版，但其使用的是桌面环境[Gnome](../Page/GNOME.md "wikilink")。此项目开始于一个名为"remix"的非官方项目，后被接纳为官方发行版之一\[1\]。第一个稳定版本为12.10。由於[Ubuntu](../Page/Ubuntu.md "wikilink")官方宣佈將於17.10起將使用者介面由[Unity更換為](../Page/Unity_\(使用者介面\).md "wikilink")[GNOME](../Page/GNOME.md "wikilink")，故更換後不再單獨提供此版本\[2\]，若要使用原生版的Gnome
-可下載vanilla-gnome-desktop 套件。
+**Ubuntu GNOME**是一个基于[Ubuntu](../Page/Ubuntu.md "wikilink")的[Linux](../Page/Linux.md "wikilink")发行版，但其使用的是桌面环境[Gnome](../Page/GNOME.md "wikilink")。此项目开始于一个名为"remix"的非官方项目，后被接纳为官方发行版之一\[1\]。第一个稳定版本为12.10。由於[Ubuntu](../Page/Ubuntu.md "wikilink")官方宣佈將於17.10起將使用者介面由[Unity更換為](../Page/Unity_\(使用者介面\).md "wikilink")[GNOME](../Page/GNOME.md "wikilink")，故更換後不再單獨提供此版本\[2\]，若要使用原生版的Gnome 可下載vanilla-gnome-desktop 套件。
 
 ## 版本历史
 
@@ -131,10 +129,7 @@ GNOME**是一个基于[Ubuntu](../Page/Ubuntu.md "wikilink")的[Linux](../Page/L
 
 <references/>
 
-[Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink")
-[Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")
-[Category:可从只读媒体启动的操作系统发行版](https://zh.wikipedia.org/wiki/Category:可从只读媒体启动的操作系统发行版 "wikilink")
-[Category:2012年软件](https://zh.wikipedia.org/wiki/Category:2012年软件 "wikilink")
+[Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink") [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink") [Category:可从只读媒体启动的操作系统发行版](https://zh.wikipedia.org/wiki/Category:可从只读媒体启动的操作系统发行版 "wikilink") [Category:2012年软件](https://zh.wikipedia.org/wiki/Category:2012年软件 "wikilink")
 
 1.  <http://ubuntugnome.org/ubuntu-gnome-approved-as-an-official-flavour/>
 2.

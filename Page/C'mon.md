@@ -1,5 +1,4 @@
-《**C'mon**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十八张录音室专辑。2011年7月27日由[VERMILLION
-RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
+《**C'mon**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十八张录音室专辑。2011年7月27日由[VERMILLION RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約38.6萬張。
 
@@ -11,8 +10,7 @@ RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
   - [稻叶浩志](https://zh.wikipedia.org/wiki/稻叶浩志 "wikilink")：[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、全曲[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")、編曲
   - 寺地秀行：全曲編曲
   - Shane Gaalaas：[鼓手](../Page/爵士鼓.md "wikilink")
-  - Barry
-    Sparks：[电贝司](https://zh.wikipedia.org/wiki/电贝司 "wikilink")（\#1-7.9-13）
+  - Barry Sparks：[电贝司](https://zh.wikipedia.org/wiki/电贝司 "wikilink")（\#1-7.9-13）
   - Ric Fierabracci：[低音提琴](../Page/低音提琴.md "wikilink")（\#8）
   - 小野塚晃（DIMENSION）：[钢琴](../Page/钢琴.md "wikilink")（\#6.12）、[风琴](https://zh.wikipedia.org/wiki/风琴 "wikilink")（\#6.7）、[电钢琴](https://zh.wikipedia.org/wiki/电钢琴 "wikilink")（\#8）
   - 勝田一樹（DIMENSION）：[萨克斯风](https://zh.wikipedia.org/wiki/萨克斯风 "wikilink")（\#6.8.10）
@@ -23,8 +21,7 @@ RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 ## 主題曲
 
-  - 主打歌「C'mon」被選為[百事可樂](../Page/百事可樂.md "wikilink")「Pepsi
-    NEX」[廣告](../Page/廣告.md "wikilink")歌。
+  - 主打歌「C'mon」被選為[百事可樂](../Page/百事可樂.md "wikilink")「Pepsi NEX」[廣告](../Page/廣告.md "wikilink")歌。
 
 ## 参考文献
 
@@ -42,9 +39,6 @@ RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 </tbody>
 </table>
 
-[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:2011年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink")
+[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:2011年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon專輯週榜冠軍作品 "wikilink") [Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink")
 
 1.

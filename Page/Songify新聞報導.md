@@ -43,8 +43,6 @@
 
   - [格雷戈里兄弟](http://www.youtube.com/user/schmoyoho)上傳Songify新聞報導的[YouTube](../Page/YouTube.md "wikilink")頻道
 
-[Category:美國網路劇](https://zh.wikipedia.org/wiki/Category:美國網路劇 "wikilink")
-[Category:網絡爆紅短片](https://zh.wikipedia.org/wiki/Category:網絡爆紅短片 "wikilink")
+[Category:美國網路劇](https://zh.wikipedia.org/wiki/Category:美國網路劇 "wikilink") [Category:網絡爆紅短片](https://zh.wikipedia.org/wiki/Category:網絡爆紅短片 "wikilink")
 
-1.  [1](http://edition.cnn.com/2009/TECH/09/15/auto.tune.news.iphone/index.html?_s=PM:TECH)
-    John D. Sutter，[時代雜誌](../Page/時代雜誌.md "wikilink")，2009年9月
+1.  [1](http://edition.cnn.com/2009/TECH/09/15/auto.tune.news.iphone/index.html?_s=PM:TECH) John D. Sutter，[時代雜誌](../Page/時代雜誌.md "wikilink")，2009年9月

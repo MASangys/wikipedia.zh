@@ -26,5 +26,4 @@
 2.  Fire（Lip-Synch Ver.）
 3.  Fire（Jacket & Music Video Shooting Sketch）
 
-[Category:SHINee歌曲](https://zh.wikipedia.org/wiki/Category:SHINee歌曲 "wikilink")
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
+[Category:SHINee歌曲](https://zh.wikipedia.org/wiki/Category:SHINee歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")

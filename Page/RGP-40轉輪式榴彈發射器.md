@@ -2,11 +2,9 @@
 
 ## 歷史
 
-2008年，該武器的第一代型號於[凯尔采](../Page/凯尔采.md "wikilink")所舉辦的2008年[國際國防工業展覽會中展出](https://zh.wikipedia.org/wiki/國際國防工業展覽會 "wikilink")。這種武器在結構上類似於[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")-{[米爾科姆轉輪連發式榴彈發射器](../Page/米尔科姆转轮连发式榴弹发射器.md "wikilink")}-，尤其是其[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")的版本M32
-MGL。最初展示的原型與2010年修改版本不同。生產商還展開各種改進，其中包括專為榴彈發射器研製的原型瞄準具與[槍托](../Page/槍托.md "wikilink")的商業化設計，並作出外觀修改以改進其[人體工學和武器的功能](../Page/人因工程学.md "wikilink")。
+2008年，該武器的第一代型號於[凯尔采](../Page/凯尔采.md "wikilink")所舉辦的2008年[國際國防工業展覽會中展出](https://zh.wikipedia.org/wiki/國際國防工業展覽會 "wikilink")。這種武器在結構上類似於[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")-{[米爾科姆轉輪連發式榴彈發射器](../Page/米尔科姆转轮连发式榴弹发射器.md "wikilink")}-，尤其是其[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")的版本M32 MGL。最初展示的原型與2010年修改版本不同。生產商還展開各種改進，其中包括專為榴彈發射器研製的原型瞄準具與[槍托](../Page/槍托.md "wikilink")的商業化設計，並作出外觀修改以改進其[人體工學和武器的功能](../Page/人因工程学.md "wikilink")。
 
-根據計劃，RGP-40的主要客戶可能是[波蘭武裝部隊](../Page/波蘭軍事.md "wikilink")；而按照他們的推算，將需要大約500
-枝轉輪式榴彈發射器。這種武器的潛在買家也包括警察、監獄局和其他需要強大[火力而且具有多種](https://zh.wikipedia.org/wiki/火力 "wikilink")[彈藥選擇](https://zh.wikipedia.org/wiki/彈藥 "wikilink")（致命性高爆彈或[催淚瓦斯彈](../Page/催淚彈.md "wikilink")）的武器的單位。
+根據計劃，RGP-40的主要客戶可能是[波蘭武裝部隊](../Page/波蘭軍事.md "wikilink")；而按照他們的推算，將需要大約500 枝轉輪式榴彈發射器。這種武器的潛在買家也包括警察、監獄局和其他需要強大[火力而且具有多種](https://zh.wikipedia.org/wiki/火力 "wikilink")[彈藥選擇](https://zh.wikipedia.org/wiki/彈藥 "wikilink")（致命性高爆彈或[催淚瓦斯彈](../Page/催淚彈.md "wikilink")）的武器的單位。
 
 ## 設計
 
@@ -34,13 +32,10 @@ RGP-40於彈巢以上的[轉輪座頂部和槍管管套分別裝有一條和三�
   - [MM-1轉輪式榴彈發射器](../Page/MM-1轉輪式榴彈發射器.md "wikilink")
   - \-{[米尔科姆转轮连发式榴弹发射器](../Page/米尔科姆转轮连发式榴弹发射器.md "wikilink")}-
   - [RG-6轉輪式榴彈發射器](../Page/RG-6轉輪式榴彈發射器.md "wikilink")
-  - [RH-ALAN
-    RBG-6轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/RH-ALAN_RBG-6轉輪式榴彈發射器 "wikilink")
-  - [Zastava
-    MSRG-40轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/Zastava_MSRG-40轉輪式榴彈發射器 "wikilink")
+  - [RH-ALAN RBG-6轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/RH-ALAN_RBG-6轉輪式榴彈發射器 "wikilink")
+  - [Zastava MSRG-40轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/Zastava_MSRG-40轉輪式榴彈發射器 "wikilink")
   - [06式半自動榴彈發射器](../Page/06式半自動榴彈發射器.md "wikilink")
-  - [CZW
-    RAG-30自動榴彈發射器](https://zh.wikipedia.org/wiki/CZW_RAG-30自動榴彈發射器 "wikilink")
+  - [CZW RAG-30自動榴彈發射器](https://zh.wikipedia.org/wiki/CZW_RAG-30自動榴彈發射器 "wikilink")
   - [丹尼爾PAW-20半自動榴彈發射器](../Page/丹尼爾PAW-20半自動榴彈發射器.md "wikilink")
   - [XM25反防禦目標應對系統](../Page/XM25反防禦目標應對系統.md "wikilink")
   - [左輪手槍](https://zh.wikipedia.org/wiki/左輪手槍 "wikilink")
@@ -63,37 +58,25 @@ RGP-40於彈巢以上的[轉輪座頂部和槍管管套分別裝有一條和三�
 
 ## 外部連結
 
-  - —[ZM TARNÓW－40 MM MULTI-SHOT GRENADE LAUNCHER RGP
-    – 40](http://www.zmt.tarnow.pl/en/offer/small-arms-and-remote-weapon-systems/40-mm-multi-shot-grenade-launcher-rgp-40.html)
+  - —[ZM TARNÓW－40 MM MULTI-SHOT GRENADE LAUNCHER RGP – 40](http://www.zmt.tarnow.pl/en/offer/small-arms-and-remote-weapon-systems/40-mm-multi-shot-grenade-launcher-rgp-40.html)
 
-  - —[POLISH 40-MM GRENADE REVOLVING ZMT
-    RGP-40](http://survincity.com/2012/11/polish-40-mm-grenade-revolving-zmt-rgp-40/)
+  - —[POLISH 40-MM GRENADE REVOLVING ZMT RGP-40](http://survincity.com/2012/11/polish-40-mm-grenade-revolving-zmt-rgp-40/)
 
   - —The Firearm Blog.com—
 
-      - [RPG-40 Grenade
-        launcher](http://www.thefirearmblog.com/blog/2008/09/12/rpg-40-grenade-launcher/)
-      - [Poland acquires 40mm grenade
-        launchers](http://www.thefirearmblog.com/blog/2016/02/25/poland-acquires-40mm-grenade-launchers/)
+      - [RPG-40 Grenade launcher](http://www.thefirearmblog.com/blog/2008/09/12/rpg-40-grenade-launcher/)
+      - [Poland acquires 40mm grenade launchers](http://www.thefirearmblog.com/blog/2016/02/25/poland-acquires-40mm-grenade-launchers/)
 
-  - —[Military, Security and Civilian Guns and Equipment—OBR RGP-40
-    Automatic Grenade
-    Launcher](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=772)
+  - —[Military, Security and Civilian Guns and Equipment—OBR RGP-40 Automatic Grenade Launcher](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=772)
 
-  - —[WP.PL－RGP-40 trafi do polskich
-    żołnierzy](http://facet.wp.pl/kat,69514,wid,16236326,wiadomosc.html?ticaid=112e09)
+  - —[WP.PL－RGP-40 trafi do polskich żołnierzy](http://facet.wp.pl/kat,69514,wid,16236326,wiadomosc.html?ticaid=112e09)
 
-  - —[Granatnik rewolwerowy -
-    RGP-40](http://js2010.pl/index.php?option=com_content&view=article&id=213:granatnik-rewolwerowy-rgp-40&catid=41:bro-i-amunicja&Itemid=75)
+  - —[Granatnik rewolwerowy - RGP-40](http://js2010.pl/index.php?option=com_content&view=article&id=213:granatnik-rewolwerowy-rgp-40&catid=41:bro-i-amunicja&Itemid=75)
 
-  - —[altair.com－e-RAPORT MSPO 1/2008 - Granatnik rewolwerowy z
-    Tarnowa](https://web.archive.org/web/20100519144717/http://www.altair.com.pl/nsp-spec-62)
+  - —[altair.com－e-RAPORT MSPO 1/2008 - Granatnik rewolwerowy z Tarnowa](https://web.archive.org/web/20100519144717/http://www.altair.com.pl/nsp-spec-62)
 
-  - —[Defence 24－Granatnik RGP-40 – kieszonkowa artyleria dla
-    „Tytana”](http://www.defence24.pl/news_granatnik-rgp-40-kieszonkowa-artyleria-dla-tytana)
+  - —[Defence 24－Granatnik RGP-40 – kieszonkowa artyleria dla „Tytana”](http://www.defence24.pl/news_granatnik-rgp-40-kieszonkowa-artyleria-dla-tytana)
 
-[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink")
-[Category:轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/Category:轉輪式榴彈發射器 "wikilink")
-[Category:波蘭槍械](https://zh.wikipedia.org/wiki/Category:波蘭槍械 "wikilink")
+[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink") [Category:轉輪式榴彈發射器](https://zh.wikipedia.org/wiki/Category:轉輪式榴彈發射器 "wikilink") [Category:波蘭槍械](https://zh.wikipedia.org/wiki/Category:波蘭槍械 "wikilink")
 
 1.  *Trzech w granatnikowym przetargu*, s. 64-66

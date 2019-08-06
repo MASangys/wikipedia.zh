@@ -1,5 +1,4 @@
-「**Over the rain
-～發亮的橋～**」（）是[flumpool的第](https://zh.wikipedia.org/wiki/flumpool "wikilink")2張[配信限定](https://zh.wikipedia.org/wiki/數位下載 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+「**Over the rain ～發亮的橋～**」（）是[flumpool的第](https://zh.wikipedia.org/wiki/flumpool "wikilink")2張[配信限定](https://zh.wikipedia.org/wiki/數位下載 "wikilink")[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 解説
 
@@ -16,7 +15,4 @@
   - [2008年音樂](https://zh.wikipedia.org/wiki/2008年音樂 "wikilink")
   - [BLOODY MONDAY](../Page/BLOODY_MONDAY.md "wikilink")
 
-[Category:flumpool歌曲](https://zh.wikipedia.org/wiki/Category:flumpool歌曲 "wikilink")
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
-[Category:TBS週六晚間八點連續劇主題曲](https://zh.wikipedia.org/wiki/Category:TBS週六晚間八點連續劇主題曲 "wikilink")
-[Category:雨題材歌曲](https://zh.wikipedia.org/wiki/Category:雨題材歌曲 "wikilink")
+[Category:flumpool歌曲](https://zh.wikipedia.org/wiki/Category:flumpool歌曲 "wikilink") [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:TBS週六晚間八點連續劇主題曲](https://zh.wikipedia.org/wiki/Category:TBS週六晚間八點連續劇主題曲 "wikilink") [Category:雨題材歌曲](https://zh.wikipedia.org/wiki/Category:雨題材歌曲 "wikilink")

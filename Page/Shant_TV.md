@@ -1,6 +1,4 @@
-**Shant TV**（[亚美尼亚语](../Page/亚美尼亚语.md "wikilink")：Շանթ
-հեռուստատեսություն）是[亚美尼亚埃里温的一家私营电视台](https://zh.wikipedia.org/wiki/亚美尼亚 "wikilink")，由Arthur
-Yezekyan在亚美尼亚第二大城市久姆里于1994年建立。电视台从1995年5月起发布一个整整6小时的节目表。
+**Shant TV**（[亚美尼亚语](../Page/亚美尼亚语.md "wikilink")：Շանթ հեռուստատեսություն）是[亚美尼亚埃里温的一家私营电视台](https://zh.wikipedia.org/wiki/亚美尼亚 "wikilink")，由Arthur Yezekyan在亚美尼亚第二大城市久姆里于1994年建立。电视台从1995年5月起发布一个整整6小时的节目表。
 
 ## 历史
 
@@ -14,8 +12,7 @@ Yezekyan在亚美尼亚第二大城市久姆里于1994年建立。电视台从19
   - [Banakum](https://web.archive.org/web/20120615014656/http://shanttv.com/en/serials/banakum/)
   - [Lialusin](http://www.shanttv.com/en/serials/lialusin)
 
-Shant TV同时开辟了一个论坛：
-[www.forum.shanttv.com](https://web.archive.org/web/20120219014604/http://forum.shanttv.com/)
+Shant TV同时开辟了一个论坛： [www.forum.shanttv.com](https://web.archive.org/web/20120219014604/http://forum.shanttv.com/)
 
 ## 外部链接
 

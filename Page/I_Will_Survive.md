@@ -15,12 +15,7 @@
 ## 外部链接
 
   -
-[Category:1978年单曲](https://zh.wikipedia.org/wiki/Category:1978年单曲 "wikilink")
-[Category:迪斯科歌曲](https://zh.wikipedia.org/wiki/Category:迪斯科歌曲 "wikilink")
-[Category:美國冠軍單曲](https://zh.wikipedia.org/wiki/Category:美國冠軍單曲 "wikilink")
-[Category:告示牌百強單曲榜冠軍單曲](https://zh.wikipedia.org/wiki/Category:告示牌百強單曲榜冠軍單曲 "wikilink")
-[Category:LGBT相关歌曲](https://zh.wikipedia.org/wiki/Category:LGBT相关歌曲 "wikilink")
-[Category:女性主義歌曲](https://zh.wikipedia.org/wiki/Category:女性主義歌曲 "wikilink")
+[Category:1978年单曲](https://zh.wikipedia.org/wiki/Category:1978年单曲 "wikilink") [Category:迪斯科歌曲](https://zh.wikipedia.org/wiki/Category:迪斯科歌曲 "wikilink") [Category:美國冠軍單曲](https://zh.wikipedia.org/wiki/Category:美國冠軍單曲 "wikilink") [Category:告示牌百強單曲榜冠軍單曲](https://zh.wikipedia.org/wiki/Category:告示牌百強單曲榜冠軍單曲 "wikilink") [Category:LGBT相关歌曲](https://zh.wikipedia.org/wiki/Category:LGBT相关歌曲 "wikilink") [Category:女性主義歌曲](https://zh.wikipedia.org/wiki/Category:女性主義歌曲 "wikilink")
 
 1.
 2.

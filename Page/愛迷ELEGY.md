@@ -4,8 +4,7 @@
 
 ## 曲目
 
-「トリノアイウタ feat.
-GUMI」由[柴崎幸作詞](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")。除此以外全部曲目作詞、作曲、編曲皆為DECO\*27。
+「トリノアイウタ feat. GUMI」由[柴崎幸作詞](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")。除此以外全部曲目作詞、作曲、編曲皆為DECO\*27。
 
 ### 初回生産限定盤
 
@@ -18,13 +17,10 @@ GUMI」由[柴崎幸作詞](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")�
 ## 參與的音樂人
 
   - とぴ：Vocal
-  - [marina](https://zh.wikipedia.org/wiki/marina "wikilink")（ex. [Girls
-    Dead
-    Monster](https://zh.wikipedia.org/wiki/Girls_Dead_Monster "wikilink"))）：Vocal
+  - [marina](https://zh.wikipedia.org/wiki/marina "wikilink")（ex. [Girls Dead Monster](https://zh.wikipedia.org/wiki/Girls_Dead_Monster "wikilink"))）：Vocal
   - [mirto](https://zh.wikipedia.org/wiki/mirto "wikilink")：Vocal
   - [永友聖也](https://zh.wikipedia.org/wiki/永友聖也 "wikilink")（[キャプテンストライダム](https://zh.wikipedia.org/wiki/キャプテンストライダム "wikilink")、[ARUYO](https://zh.wikipedia.org/wiki/ARUYO "wikilink")）：Guitar
-  - [梶山剛](https://zh.wikipedia.org/wiki/梶山剛 "wikilink")（ex.
-    [スパルタローカルズ](https://zh.wikipedia.org/wiki/スパルタローカルズ "wikilink")）：Drums
+  - [梶山剛](https://zh.wikipedia.org/wiki/梶山剛 "wikilink")（ex. [スパルタローカルズ](https://zh.wikipedia.org/wiki/スパルタローカルズ "wikilink")）：Drums
   - [sasakure.UK](https://zh.wikipedia.org/wiki/sasakure.UK "wikilink")：Remixer
   - [ELECTROCUTICA](https://zh.wikipedia.org/wiki/ELECTROCUTICA "wikilink")：Remixer
   - [kous](https://zh.wikipedia.org/wiki/kous "wikilink")：Remixer
@@ -35,22 +31,12 @@ GUMI」由[柴崎幸作詞](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")�
 
 ## 外部連結
 
-  - [「愛迷エレジー」のクロフフェード動画](http://www.nicovideo.jp/watch/1291715313) -
-    「ニコニコチャンネル U/M/A/A ch.（ユーマチャンネル）」
-  - [「愛迷エレジー feat. marina」のMusic
-    Video](http://www.youtube.com/watch?v=f8ubInQcVAY&list=UUtGmulznR7e0KxpEdKu_nqw&index=9&feature=plcp)
-    - 「YouTube U/M/A/A Official Channel」
-  - [「愛迷エレジー feat. marina」のMusic
-    Video](http://www.nicovideo.jp/watch/1290582619) - 「ニコニコチャンネル
-    U/M/A/A ch.（ユーマチャンネル）」
-  - [「トリノアイウタ feat. GUMI」のMusic
-    Video](http://www.youtube.com/watch?v=oBdI5r9sxQc&list=UUtGmulznR7e0KxpEdKu_nqw&index=2&feature=plcp)
-    - 「YouTube U/M/A/A Official Channel」
-  - [「トリノアイウタ feat. GUMI」のMusic
-    Video](http://www.nicovideo.jp/watch/1292299336) - 「ニコニコチャンネル
-    U/M/A/A ch.（ユーマチャンネル）」
+  - [「愛迷エレジー」のクロフフェード動画](http://www.nicovideo.jp/watch/1291715313) - 「ニコニコチャンネル U/M/A/A ch.（ユーマチャンネル）」
+  - [「愛迷エレジー feat. marina」のMusic Video](http://www.youtube.com/watch?v=f8ubInQcVAY&list=UUtGmulznR7e0KxpEdKu_nqw&index=9&feature=plcp) - 「YouTube U/M/A/A Official Channel」
+  - [「愛迷エレジー feat. marina」のMusic Video](http://www.nicovideo.jp/watch/1290582619) - 「ニコニコチャンネル U/M/A/A ch.（ユーマチャンネル）」
+  - [「トリノアイウタ feat. GUMI」のMusic Video](http://www.youtube.com/watch?v=oBdI5r9sxQc&list=UUtGmulznR7e0KxpEdKu_nqw&index=2&feature=plcp) - 「YouTube U/M/A/A Official Channel」
+  - [「トリノアイウタ feat. GUMI」のMusic Video](http://www.nicovideo.jp/watch/1292299336) - 「ニコニコチャンネル U/M/A/A ch.（ユーマチャンネル）」
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:使用Vocaloid的歌曲](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的歌曲 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:使用Vocaloid的歌曲](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的歌曲 "wikilink")
 
 1.

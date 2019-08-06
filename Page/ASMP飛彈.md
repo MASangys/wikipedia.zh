@@ -20,8 +20,7 @@ ASMP-A開發始於1996年，於2005年10月首度測試於[戴高樂號航空母
 
 ## 圖像
 
-<File:ASMP-A> P1220887.jpg|ASMP-A
-[File:SG1059332.JPG|ASMP-A原型](File:SG1059332.JPG%7CASMP-A原型)
+<File:ASMP-A> P1220887.jpg|ASMP-A [File:SG1059332.JPG|ASMP-A原型](File:SG1059332.JPG%7CASMP-A原型)
 
 ## 相关
 
@@ -36,18 +35,12 @@ ASMP-A開發始於1996年，於2005年10月首度測試於[戴高樂號航空母
   -
 ## 外部連結
 
-  - [ASMP on
-    FAS.org](http://www.fas.org/nuke/guide/france/bomber/asmp.htm)
-  - [L' ASMP-A, nouvelle arme de la dissuasion, Ministére de la
-    Defense](http://www.dailymotion.com/video/x9m9n9_lyasmp-a-nouvelle-arme-de-la-dissua_news)
+  - [ASMP on FAS.org](http://www.fas.org/nuke/guide/france/bomber/asmp.htm)
+  - [L' ASMP-A, nouvelle arme de la dissuasion, Ministére de la Defense](http://www.dailymotion.com/video/x9m9n9_lyasmp-a-nouvelle-arme-de-la-dissua_news)
   - [ASMP](http://www.fas.org/nuke/guide/france/bomber/asmp.htm)
   - [ASMP](https://web.archive.org/web/20121004233758/http://astronautix.com/lvs/asmp.htm)
 
-[Category:空對地飛彈](https://zh.wikipedia.org/wiki/Category:空對地飛彈 "wikilink")
-[Category:法國飛彈](https://zh.wikipedia.org/wiki/Category:法國飛彈 "wikilink")
-[Category:核导彈](https://zh.wikipedia.org/wiki/Category:核导彈 "wikilink")
+[Category:空對地飛彈](https://zh.wikipedia.org/wiki/Category:空對地飛彈 "wikilink") [Category:法國飛彈](https://zh.wikipedia.org/wiki/Category:法國飛彈 "wikilink") [Category:核导彈](https://zh.wikipedia.org/wiki/Category:核导彈 "wikilink")
 
-1.  [ASMP and ASMP-A (France), Air-to-surface missiles - Stand-off and
-    cruise](http://articles.janes.com/articles/Janes-Air-Launched-Weapons/ASMP-and-ASMP-A-France.html)
-2.  [France's Nuclear
-    Weapons](http://nuclearweaponarchive.org/France/FranceArsenalRecent.html)
+1.  [ASMP and ASMP-A (France), Air-to-surface missiles - Stand-off and cruise](http://articles.janes.com/articles/Janes-Air-Launched-Weapons/ASMP-and-ASMP-A-France.html)
+2.  [France's Nuclear Weapons](http://nuclearweaponarchive.org/France/FranceArsenalRecent.html)

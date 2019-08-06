@@ -1,17 +1,6 @@
-[高恩雅](../Page/高恩雅.md "wikilink"){{、w}}[Kevin](../Page/ZE:A.md "wikilink"){{、w}}[金恩靜](https://zh.wikipedia.org/wiki/金恩靜 "wikilink")
-| theme_music_composer = | opentheme = | endtheme = | composer = |
-country =  | language =
-[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons
-= | num_episodes = 14 | list_episodes = | executive_producer = |
-producer = | editor = | location = | cinematography = | camera = |
-runtime = | company = Victory Contents | distributor = | channel =
-[Channel A](../Page/Channel_A.md "wikilink") | first_run =  |
-first_aired =  | last_aired =  | preceded_by = | followed_by = |
-related = | website = <http://tv.ichannela.com/drama/kpopsurvival> |
-production_website = | 台灣名稱 = K-POP韓流的極限生存 }}
+[高恩雅](../Page/高恩雅.md "wikilink"){{、w}}[Kevin](../Page/ZE:A.md "wikilink"){{、w}}[金恩靜](https://zh.wikipedia.org/wiki/金恩靜 "wikilink") | theme_music_composer = | opentheme = | endtheme = | composer = | country =  | language = [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = | num_episodes = 14 | list_episodes = | executive_producer = | producer = | editor = | location = | cinematography = | camera = | runtime = | company = Victory Contents | distributor = | channel = [Channel A](../Page/Channel_A.md "wikilink") | first_run =  | first_aired =  | last_aired =  | preceded_by = | followed_by = | related = | website = <http://tv.ichannela.com/drama/kpopsurvival> | production_website = | 台灣名稱 = K-POP韓流的極限生存 }}
 
-《**K-POP最強生死戰**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Channel
-A於](../Page/Channel_A.md "wikilink")2012年3月19日起首播的[月火迷你連續劇](../Page/Channel_A月火連續劇.md "wikilink")，講述了偶像明星背後不為人知的故事，這是韓國首部描寫[K-POP熱潮的電視劇](https://zh.wikipedia.org/wiki/K-POP "wikilink")。
+《**K-POP最強生死戰**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Channel A於](../Page/Channel_A.md "wikilink")2012年3月19日起首播的[月火迷你連續劇](../Page/Channel_A月火連續劇.md "wikilink")，講述了偶像明星背後不為人知的故事，這是韓國首部描寫[K-POP熱潮的電視劇](https://zh.wikipedia.org/wiki/K-POP "wikilink")。
 
 ## 演員陣容
 
@@ -65,7 +54,4 @@ A於](../Page/Channel_A.md "wikilink")2012年3月19日起首播的[月火迷你�
 
   - [韓國Channel A官方網站](http://tv.ichannela.com/drama/kpopsurvival)
 
-[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink")
-[Category:流行音樂題材電視劇](https://zh.wikipedia.org/wiki/Category:流行音樂題材電視劇 "wikilink")
-[Category:演藝界題材電視劇](https://zh.wikipedia.org/wiki/Category:演藝界題材電視劇 "wikilink")
-[Category:韓國LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:韓國LGBT相關電視節目 "wikilink")
+[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink") [Category:流行音樂題材電視劇](https://zh.wikipedia.org/wiki/Category:流行音樂題材電視劇 "wikilink") [Category:演藝界題材電視劇](https://zh.wikipedia.org/wiki/Category:演藝界題材電視劇 "wikilink") [Category:韓國LGBT相關電視節目](https://zh.wikipedia.org/wiki/Category:韓國LGBT相關電視節目 "wikilink")

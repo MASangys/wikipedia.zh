@@ -1,6 +1,4 @@
-**403 Forbidden**
-是[HTTP协议中的一个](https://zh.wikipedia.org/wiki/HTTP协议 "wikilink")[HTTP状态码](../Page/HTTP状态码.md "wikilink")（Status
-Code）。可以简单的理解为没有权限访问此站，服务器收到请求但拒绝提供服务。
+**403 Forbidden** 是[HTTP协议中的一个](https://zh.wikipedia.org/wiki/HTTP协议 "wikilink")[HTTP状态码](../Page/HTTP状态码.md "wikilink")（Status Code）。可以简单的理解为没有权限访问此站，服务器收到请求但拒绝提供服务。
 
 ## IIS上的403子错误代码
 
@@ -40,13 +38,8 @@ Code）。可以简单的理解为没有权限访问此站，服务器收到请�
 
 ## 外部連結
 
-  - [Help for HTTP 403 'Forbidden'
-    errors](https://web.archive.org/web/20130820022340/http://www.getnetgoing.com/HTTP-403.html)
-
-  - [SELinux: chcon -R -t httpd_sys_content_t
-    /web/](http://docs.fedoraproject.org/selinux-user-guide/f10/en-US/sect-Security-Enhanced_Linux-Working_with_SELinux-SELinux_Contexts_Labeling_Files.html)
-
-  - [HTTP/1.1 Error codes in
-    RFC 2616](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
+  - [Help for HTTP 403 'Forbidden' errors](https://web.archive.org/web/20130820022340/http://www.getnetgoing.com/HTTP-403.html)
+  - [SELinux: chcon -R -t httpd_sys_content_t /web/](http://docs.fedoraproject.org/selinux-user-guide/f10/en-US/sect-Security-Enhanced_Linux-Working_with_SELinux-SELinux_Contexts_Labeling_Files.html)
+  - [HTTP/1.1 Error codes in RFC 2616](http://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html)
 
 [Category:計算機錯誤](https://zh.wikipedia.org/wiki/Category:計算機錯誤 "wikilink")

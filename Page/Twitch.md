@@ -1,6 +1,4 @@
-**Twitch**是[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")[影音串流平台](https://zh.wikipedia.org/wiki/影音串流 "wikilink")，從[Justin.tv](../Page/Justin.tv.md "wikilink")分割成立於2011年6月6日。提供平台供遊戲玩家進行遊戲過程的實況，或供遊戲賽事的[轉播](https://zh.wikipedia.org/wiki/轉播 "wikilink")。也提供[聊天室](https://zh.wikipedia.org/wiki/聊天室 "wikilink")，讓觀眾間進行簡單的互動。除了遊戲內容的串流，也允許實況進行Creative、Music、Social
-Eating等非遊戲的內容。縱使有[YouTube
-Gaming的競爭](../Page/YouTube.md "wikilink")，Twitch仍然保持優勢\[1\]\[2\]。
+**Twitch**是[遊戲軟體](https://zh.wikipedia.org/wiki/遊戲軟體 "wikilink")[影音串流平台](https://zh.wikipedia.org/wiki/影音串流 "wikilink")，從[Justin.tv](../Page/Justin.tv.md "wikilink")分割成立於2011年6月6日。提供平台供遊戲玩家進行遊戲過程的實況，或供遊戲賽事的[轉播](https://zh.wikipedia.org/wiki/轉播 "wikilink")。也提供[聊天室](https://zh.wikipedia.org/wiki/聊天室 "wikilink")，讓觀眾間進行簡單的互動。除了遊戲內容的串流，也允許實況進行Creative、Music、Social Eating等非遊戲的內容。縱使有[YouTube Gaming的競爭](../Page/YouTube.md "wikilink")，Twitch仍然保持優勢\[1\]\[2\]。
 
 ## 歷史
 
@@ -14,8 +12,7 @@ Gaming的競爭](../Page/YouTube.md "wikilink")，Twitch仍然保持優勢\[1\]\
 
 2016年8月17日，宣布收購遊戲語音軟體及輔助程式—Curse。\[5\]
 
-2016年12月16日，新增IRL — In Real Life分類，並在Twitch
-app上推出直播功能，讓實況主可以放心的開台跟觀眾聊天互動，不一定要玩著遊戲\[6\]。
+2016年12月16日，新增IRL — In Real Life分類，並在Twitch app上推出直播功能，讓實況主可以放心的開台跟觀眾聊天互動，不一定要玩著遊戲\[6\]。
 
 2017年3月13日，宣布整合並強化旗下遊戲語音軟體Curse，改版成為「Twitch 桌面版 App」。\[7\]
 
@@ -46,16 +43,7 @@ app上推出直播功能，讓實況主可以放心的開台跟觀眾聊天互�
   -
   - [Twitch官方部落格](http://blog.twitch.tv/)
 
-[Category:2011年建立的网站](https://zh.wikipedia.org/wiki/Category:2011年建立的网站 "wikilink")
-[Category:Twitch](https://zh.wikipedia.org/wiki/Category:Twitch "wikilink")
-[Category:亚马逊公司收购](https://zh.wikipedia.org/wiki/Category:亚马逊公司收购 "wikilink")
-[Category:網路電視頻道](https://zh.wikipedia.org/wiki/Category:網路電視頻道 "wikilink")
-[Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink")
-[Category:網絡電台](https://zh.wikipedia.org/wiki/Category:網絡電台 "wikilink")
-[Category:加利福尼亚州娱乐公司](https://zh.wikipedia.org/wiki/Category:加利福尼亚州娱乐公司 "wikilink")
-[Category:2011年開業媒體公司](https://zh.wikipedia.org/wiki/Category:2011年開業媒體公司 "wikilink")
-[Category:網路直播平台](https://zh.wikipedia.org/wiki/Category:網路直播平台 "wikilink")
-[Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
+[Category:2011年建立的网站](https://zh.wikipedia.org/wiki/Category:2011年建立的网站 "wikilink") [Category:Twitch](https://zh.wikipedia.org/wiki/Category:Twitch "wikilink") [Category:亚马逊公司收购](https://zh.wikipedia.org/wiki/Category:亚马逊公司收购 "wikilink") [Category:網路電視頻道](https://zh.wikipedia.org/wiki/Category:網路電視頻道 "wikilink") [Category:视频分享网站](https://zh.wikipedia.org/wiki/Category:视频分享网站 "wikilink") [Category:網絡電台](https://zh.wikipedia.org/wiki/Category:網絡電台 "wikilink") [Category:加利福尼亚州娱乐公司](https://zh.wikipedia.org/wiki/Category:加利福尼亚州娱乐公司 "wikilink") [Category:2011年開業媒體公司](https://zh.wikipedia.org/wiki/Category:2011年開業媒體公司 "wikilink") [Category:網路直播平台](https://zh.wikipedia.org/wiki/Category:網路直播平台 "wikilink") [Category:被防火长城封锁的网站](https://zh.wikipedia.org/wiki/Category:被防火长城封锁的网站 "wikilink")
 
 1.
 2.

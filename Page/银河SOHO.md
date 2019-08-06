@@ -12,10 +12,7 @@
 
 ## 参考文献
 
-[Category:SOHO中國物業](https://zh.wikipedia.org/wiki/Category:SOHO中國物業 "wikilink")
-[Category:北京市寫字樓](https://zh.wikipedia.org/wiki/Category:北京市寫字樓 "wikilink")
-[Category:北京市东城区](https://zh.wikipedia.org/wiki/Category:北京市东城区 "wikilink")
-[Category:2012年完工建築物](https://zh.wikipedia.org/wiki/Category:2012年完工建築物 "wikilink")
+[Category:SOHO中國物業](https://zh.wikipedia.org/wiki/Category:SOHO中國物業 "wikilink") [Category:北京市寫字樓](https://zh.wikipedia.org/wiki/Category:北京市寫字樓 "wikilink") [Category:北京市东城区](https://zh.wikipedia.org/wiki/Category:北京市东城区 "wikilink") [Category:2012年完工建築物](https://zh.wikipedia.org/wiki/Category:2012年完工建築物 "wikilink")
 
 1.
 2.

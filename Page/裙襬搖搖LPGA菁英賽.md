@@ -59,7 +59,6 @@
 
 [分類:2014年建立的週期性體育事件](https://zh.wikipedia.org/wiki/分類:2014年建立的週期性體育事件 "wikilink")
 
-[Category:LPGA巡回赛赛事](https://zh.wikipedia.org/wiki/Category:LPGA巡回赛赛事 "wikilink")
-[Category:2014年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2014年加利福尼亞州建立 "wikilink")
+[Category:LPGA巡回赛赛事](https://zh.wikipedia.org/wiki/Category:LPGA巡回赛赛事 "wikilink") [Category:2014年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2014年加利福尼亞州建立 "wikilink")
 
 1.

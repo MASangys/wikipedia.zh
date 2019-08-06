@@ -12,12 +12,9 @@
 
   - [大久保佳代子](../Page/大久保佳代子.md "wikilink")（）：主持人。
   - [SKE48](../Page/SKE48.md "wikilink")：每集約有15至16名成員輪流參與。以下名單是截至節目第七集為止曾參與過的成員，依照48集團的[出席編號排序](https://zh.wikipedia.org/wiki/AKB48#成員排序 "wikilink")。
-      - Team
-        S：[石田安奈](../Page/石田安奈.md "wikilink")、[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大矢真那](../Page/大矢真那.md "wikilink")、[木崎由里亞](../Page/木崎由里亞.md "wikilink")（）、[齐藤真木子](https://zh.wikipedia.org/wiki/齐藤真木子 "wikilink")、[佐藤聖羅](https://zh.wikipedia.org/wiki/佐藤聖羅 "wikilink")、[出口陽](../Page/出口陽.md "wikilink")、[中西優香](../Page/中西優香.md "wikilink")、[新土居沙也加](https://zh.wikipedia.org/wiki/新土居沙也加 "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[向田茉夏](../Page/向田茉夏.md "wikilink")、[矢方美紀](https://zh.wikipedia.org/wiki/矢方美紀 "wikilink")
-      - Team
-        KII：[内山命](https://zh.wikipedia.org/wiki/内山命 "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[加藤琉美](../Page/加藤琉美.md "wikilink")（）、[佐藤实绘子](https://zh.wikipedia.org/wiki/佐藤实绘子 "wikilink")、[柴田阿弥](../Page/柴田阿弥.md "wikilink")、[須田亞香里](../Page/須田亞香里.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[二村春香](https://zh.wikipedia.org/wiki/二村春香 "wikilink")、[古川愛李](../Page/古川愛李.md "wikilink")、[松本梨奈](../Page/松本梨奈.md "wikilink")
-      - Team
-        E：[東李苑](https://zh.wikipedia.org/wiki/東李苑 "wikilink")、[金子栞](../Page/金子栞.md "wikilink")、[木下有希子](../Page/木下有希子.md "wikilink")、[木本花音](../Page/木本花音.md "wikilink")、（）、[古畑奈和](../Page/古畑奈和.md "wikilink")、[松井玲奈](../Page/松井玲奈.md "wikilink")
+      - Team S：[石田安奈](../Page/石田安奈.md "wikilink")、[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大矢真那](../Page/大矢真那.md "wikilink")、[木崎由里亞](../Page/木崎由里亞.md "wikilink")（）、[齐藤真木子](https://zh.wikipedia.org/wiki/齐藤真木子 "wikilink")、[佐藤聖羅](https://zh.wikipedia.org/wiki/佐藤聖羅 "wikilink")、[出口陽](../Page/出口陽.md "wikilink")、[中西優香](../Page/中西優香.md "wikilink")、[新土居沙也加](https://zh.wikipedia.org/wiki/新土居沙也加 "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[向田茉夏](../Page/向田茉夏.md "wikilink")、[矢方美紀](https://zh.wikipedia.org/wiki/矢方美紀 "wikilink")
+      - Team KII：[内山命](https://zh.wikipedia.org/wiki/内山命 "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[加藤琉美](../Page/加藤琉美.md "wikilink")（）、[佐藤实绘子](https://zh.wikipedia.org/wiki/佐藤实绘子 "wikilink")、[柴田阿弥](../Page/柴田阿弥.md "wikilink")、[須田亞香里](../Page/須田亞香里.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[二村春香](https://zh.wikipedia.org/wiki/二村春香 "wikilink")、[古川愛李](../Page/古川愛李.md "wikilink")、[松本梨奈](../Page/松本梨奈.md "wikilink")
+      - Team E：[東李苑](https://zh.wikipedia.org/wiki/東李苑 "wikilink")、[金子栞](../Page/金子栞.md "wikilink")、[木下有希子](../Page/木下有希子.md "wikilink")、[木本花音](../Page/木本花音.md "wikilink")、（）、[古畑奈和](../Page/古畑奈和.md "wikilink")、[松井玲奈](../Page/松井玲奈.md "wikilink")
       - 研究生：[北川綾巴](../Page/北川綾巴.md "wikilink")、[松村香織](../Page/松村香織.md "wikilink")
   - 特別來賓
       - 配合各集的主題，經常會邀請不同的來賓配合演出。詳細的出場名單列於[節目內容章節中](https://zh.wikipedia.org/wiki/#節目內容 "wikilink")。
@@ -47,8 +44,7 @@
 ## 相關條目
 
   - [SKE48 炸蝦商\!](../Page/SKE48_炸蝦商!.md "wikilink") - SKE48「炸蝦」系列第二部。
-  - [SKE48 炸蝦賭場\!](https://zh.wikipedia.org/wiki/SKE48_炸蝦賭場! "wikilink")
-    - SKE48「炸蝦」系列第三部。
+  - [SKE48 炸蝦賭場\!](https://zh.wikipedia.org/wiki/SKE48_炸蝦賭場! "wikilink") - SKE48「炸蝦」系列第三部。
 
 ## 參考文獻
 
@@ -56,7 +52,4 @@
 
   - [SKE48的炸蝦週五夜](http://www.ntv.co.jp/ebinai/)（日本電視台）
 
-[Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink")
-[Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink")
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
-[Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
+[Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink") [Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink") [Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")

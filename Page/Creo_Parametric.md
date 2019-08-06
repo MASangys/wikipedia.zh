@@ -1,10 +1,6 @@
-\-{}-  **Creo
-Parametric**，舊稱Pro/ENGINEER，是美国[參數科技公司](https://zh.wikipedia.org/wiki/參數科技 "wikilink")（PTC,
-Parametric Technology
-Corporation）推出的一款[EDA工具](https://zh.wikipedia.org/wiki/EDA "wikilink")，主要用于三维制图、[建模](https://zh.wikipedia.org/wiki/建模 "wikilink")，在复杂的[三维模型](../Page/三维模型.md "wikilink")设计方面有优势。该软件是第一个运用“[参数化设计](https://zh.wikipedia.org/wiki/参数 "wikilink")”、“[实体造型](../Page/实体造型.md "wikilink")”“特征导向”思想的三维设计软件，即用有限个数的参数去约束模型，而不用担心模型有多么复杂。该软件运行在WINDOWS上。
+\-{}-  **Creo Parametric**，舊稱Pro/ENGINEER，是美国[參數科技公司](https://zh.wikipedia.org/wiki/參數科技 "wikilink")（PTC, Parametric Technology Corporation）推出的一款[EDA工具](https://zh.wikipedia.org/wiki/EDA "wikilink")，主要用于三维制图、[建模](https://zh.wikipedia.org/wiki/建模 "wikilink")，在复杂的[三维模型](../Page/三维模型.md "wikilink")设计方面有优势。该软件是第一个运用“[参数化设计](https://zh.wikipedia.org/wiki/参数 "wikilink")”、“[实体造型](../Page/实体造型.md "wikilink")”“特征导向”思想的三维设计软件，即用有限个数的参数去约束模型，而不用担心模型有多么复杂。该软件运行在WINDOWS上。
 
-为了和新的“[Creo](https://zh.wikipedia.org/wiki/Creo "wikilink")”设计工具集统一名称，Pro/ENGINEER在2010年8月改名为「**Creo
-Elements/Pro**」\[1\],2011年6月再改名為「**Creo Parametric**」
+为了和新的“[Creo](https://zh.wikipedia.org/wiki/Creo "wikilink")”设计工具集统一名称，Pro/ENGINEER在2010年8月改名为「**Creo Elements/Pro**」\[1\],2011年6月再改名為「**Creo Parametric**」
 
 ## 版本歷史
 
@@ -41,9 +37,7 @@ Elements/Pro**」\[1\],2011年6月再改名為「**Creo Parametric**」
 
 ## CPU利用率
 
-從 pro/e 到 creo 3.0 的軟體核心都是以過時的opengl API開發的，對多核心cpu的利用程度極差，
-運算量高度集中至某一個CPU核心，其他核心只會被分配微量的工作，甚至全無。 因此，CPU
-選擇多以單核效能高低為準則， 選IPC 低的CPU產品經常導致畫面反應緩慢、甚至當機頻頻。
+從 pro/e 到 creo 3.0 的軟體核心都是以過時的opengl API開發的，對多核心cpu的利用程度極差， 運算量高度集中至某一個CPU核心，其他核心只會被分配微量的工作，甚至全無。 因此，CPU 選擇多以單核效能高低為準則， 選IPC 低的CPU產品經常導致畫面反應緩慢、甚至當機頻頻。
 
 ## IPC 低的CPU產品
 

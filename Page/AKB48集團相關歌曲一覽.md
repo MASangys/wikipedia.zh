@@ -41,8 +41,7 @@
 #### 劇場公演
 
   -
-    **[Team A 1st
-    Stage“PARTY开始了”](../Page/Team_A_1st_Stage“PARTY开始了”.md "wikilink")**（）
+    **[Team A 1st Stage“PARTY开始了”](../Page/Team_A_1st_Stage“PARTY开始了”.md "wikilink")**（）
       - PARTY开始了
       - Dear my teacher
       - 让我吃下毒苹果（）
@@ -56,8 +55,7 @@
       - AKB48
       - 裙摆飘飘（安可版）（）
       - 樱花花瓣（安可版）
-    **[Team A 2nd
-    Stage“想见你”](../Page/Team_A_2nd_Stage“想见你”.md "wikilink")**（）
+    **[Team A 2nd Stage“想见你”](../Page/Team_A_2nd_Stage“想见你”.md "wikilink")**（）
       - 叹息的人偶（）
       - 泪之湘南（）
       - 想见你
@@ -69,8 +67,7 @@
       - JESUS
       - 可是…（）
       - 未来的门（）
-    **[Team A 3rd
-    Stage“为了谁”](../Page/Team_A_3rd_Stage“为了谁”.md "wikilink")**（）
+    **[Team A 3rd Stage“为了谁”](../Page/Team_A_3rd_Stage“为了谁”.md "wikilink")**（）
       - 含羞草（）
       - Warning
       - 生日夜（）
@@ -85,8 +82,7 @@
       - 为了谁 -What can I do for someone?-
       - Team A组曲（）
       - 卖眼泪的少女（）
-    **[Team A 4th
-    Stage“正在恋爱中”](../Page/Team_A_4th_Stage“正在恋爱中”.md "wikilink")**（）
+    **[Team A 4th Stage“正在恋爱中”](../Page/Team_A_4th_Stage“正在恋爱中”.md "wikilink")**（）
       - 正在恋爱中
       - 熊布偶（）
       - Only today
@@ -102,8 +98,7 @@
       - 曾不屑一顾的爱情（）
       - LOVE CHASE
       - 为何降生在这美好世界（）
-    **[Team A 5th
-    Stage“恋爱禁止条例”](../Page/Team_A_5th_Stage“恋爱禁止条例”.md "wikilink")**
+    **[Team A 5th Stage“恋爱禁止条例”](../Page/Team_A_5th_Stage“恋爱禁止条例”.md "wikilink")**
       - 永恒之光（）
       - 暴风骤雨之间（）
       - 女高中生睡美人（）
@@ -120,8 +115,7 @@
       - AKB参上\!
       - 泪之深呼吸（）
       - 大声钻石（）
-    **[Team A 6th
-    Stage“目击者”](https://zh.wikipedia.org/wiki/Team_A_6th_Stage“目击者” "wikilink")**（）
+    **[Team A 6th Stage“目击者”](https://zh.wikipedia.org/wiki/Team_A_6th_Stage“目击者” "wikilink")**（）
       - 迷你裙精灵（）
       - 目击者
       - 前人未踏（）
@@ -139,8 +133,7 @@
       - I'm crying
       - 一直 一直（）
       - Pioneer
-    **[Team A 7th
-    Stage“獻給M.T.”](https://zh.wikipedia.org/wiki/Team_A_7th_Stage“獻給M.T.” "wikilink")**（）
+    **[Team A 7th Stage“獻給M.T.”](https://zh.wikipedia.org/wiki/Team_A_7th_Stage“獻給M.T.” "wikilink")**（）
       - 開始吧。（）
       - Prime time
       - 為你探尋（）
@@ -158,8 +151,7 @@
       - Show不會結束（）
       - 眨眼的子彈（）
       - 淚水會在何日（）
-    **[Team K 2nd
-    Stage“青春女孩”](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage“青春女孩” "wikilink")**（）
+    **[Team K 2nd Stage“青春女孩”](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage“青春女孩” "wikilink")**（）
       - 青春女孩
       - 沙滩鞋（）
       - 在你化作星星之前（）
@@ -174,8 +166,7 @@
       - 约好了唷（）
       - 化作滚石吧（）
       - 灰姑娘没有受骗（）
-    **[Team K 3rd
-    Stage“脑内天堂”](../Page/Team_K_3rd_Stage“脑内天堂”.md "wikilink")**（）
+    **[Team K 3rd Stage“脑内天堂”](../Page/Team_K_3rd_Stage“脑内天堂”.md "wikilink")**（）
       - 朋友啊（）
       - 脑内天堂
       - 令人在意的转校生（）
@@ -190,8 +181,7 @@
       - 与花迸散！（）
       - K2nd联唱（）
       - 草原的奇迹（）
-    **[Team K 4th
-    Stage“最终钟声鸣响”](../Page/Team_K_4th_Stage“最终钟声鸣响”.md "wikilink")**（）
+    **[Team K 4th Stage“最终钟声鸣响”](../Page/Team_K_4th_Stage“最终钟声鸣响”.md "wikilink")**（）
       - 猛犸象（）
       - 最终钟声鸣响
       - 男友制作法（）
@@ -208,8 +198,7 @@
       - 暹罗猫（）
       - 梅乐斯之路（）
       - 支柱（）
-    **[Team K 5th
-    Stage“引体后翻”](../Page/Team_K_5th_Stage“引体后翻”.md "wikilink")**（）
+    **[Team K 5th Stage“引体后翻”](../Page/Team_K_5th_Stage“引体后翻”.md "wikilink")**（）
       - 掌
       - 引体后翻
       - 否定的安魂曲（）
@@ -226,8 +215,7 @@
       - 没义气（）
       - 半调子帅哥（）
       - To be continued.
-    **[Team K 6th
-    Stage“RESET”](https://zh.wikipedia.org/wiki/Team_K_6th_Stage“RESET” "wikilink")**
+    **[Team K 6th Stage“RESET”](https://zh.wikipedia.org/wiki/Team_K_6th_Stage“RESET” "wikilink")**
       - 柠檬的年纪（）
       - RESET
       - 柠檬的年纪（）
@@ -245,8 +233,7 @@
       - 星空的错误（）
       - 梦之钟（）
       - 搬家了（）
-    **[Team B 3rd
-    Stage“睡衣兜风”](../Page/Team_B_3rd_Stage“睡衣兜风”.md "wikilink")**（）
+    **[Team B 3rd Stage“睡衣兜风”](../Page/Team_B_3rd_Stage“睡衣兜风”.md "wikilink")**（）
       - 初日
       - 必杀瞬间移动（）
       - 不开心的美人鱼（）
@@ -263,8 +250,7 @@
       - 呀喝B！（）
       - 水手梦见了风暴（）
       - 白衬衫（）
-    **[Team B 4th
-    Stage“偶像的黎明”](https://zh.wikipedia.org/wiki/Team_B_4th_Stage“偶像的黎明” "wikilink")**（）
+    **[Team B 4th Stage“偶像的黎明”](https://zh.wikipedia.org/wiki/Team_B_4th_Stage“偶像的黎明” "wikilink")**（）
       - 偶像的黎明
       - 大家一起来（）
       - 春风吹拂时（）
@@ -281,8 +267,7 @@
       - B Stars
       - 横须贺弯道（）
       - 谢谢你（）
-    **[Team B 5th
-    Stage“剧场的女神”](https://zh.wikipedia.org/wiki/Team_B_5th_Stage“剧场的女神” "wikilink")**（）
+    **[Team B 5th Stage“剧场的女神”](https://zh.wikipedia.org/wiki/Team_B_5th_Stage“剧场的女神” "wikilink")**（）
       - 爱情的捉迷藏（）
       - 勇气的铁锤（）
       - 陨石的机率（）
@@ -300,8 +285,7 @@
       - 诚实的人（）
       - Team B推（）
       - 我们的纸飞机（）
-    **[向日葵组 1st
-    Stage“我的太阳”](../Page/向日葵组_1st_Stage“我的太阳”.md "wikilink")**（）
+    **[向日葵组 1st Stage“我的太阳”](../Page/向日葵组_1st_Stage“我的太阳”.md "wikilink")**（）
       - Dreamin' girls
       - RUN RUN RUN
       - 未来的果实（）
@@ -317,8 +301,7 @@
       - 你正在看着夕阳吗?（）
       - Lay down
       - 我的太阳
-    **[向日葵组 2nd
-    Stage“不要让梦想死去”](../Page/向日葵组_2nd_Stage“不要让梦想死去”.md "wikilink")**（）
+    **[向日葵组 2nd Stage“不要让梦想死去”](../Page/向日葵组_2nd_Stage“不要让梦想死去”.md "wikilink")**（）
       - 浪漫、不需要（）
       - 不要让梦想死去
       - 让我们再前进一厘米（）
@@ -335,8 +318,7 @@
       - 摇滚吧、人生就是…（）
       - 50%
       - 心儿感冒的夜晚（）
-    **[Team Surprise
-    “重力共鸣”](https://zh.wikipedia.org/wiki/CR彈珠機AKB48#重力共鸣公演 "wikilink")**（）
+    **[Team Surprise “重力共鸣”](https://zh.wikipedia.org/wiki/CR彈珠機AKB48#重力共鸣公演 "wikilink")**（）
       - 重力共鸣
       - 星期三的爱丽丝（）
       - 就这样（）
@@ -353,8 +335,7 @@
       - 素描像（）
       - 心的向量（）
       - 女神在哪里微笑着？（）
-    **[Team Surprise
-    “玫瑰的儀式公演”](https://zh.wikipedia.org/wiki/CR彈珠機AKB48#玫瑰的儀式公演 "wikilink")**（）
+    **[Team Surprise “玫瑰的儀式公演”](https://zh.wikipedia.org/wiki/CR彈珠機AKB48#玫瑰的儀式公演 "wikilink")**（）
       - 眼中倒映的未來 （）
       - Hungry Lion （）
       - 如果看見夢想 （）
@@ -412,8 +393,7 @@
       - 櫻花花瓣2008（Original Mix）
       - 最后的制服（）
       - 櫻花花瓣2008（学校 Mix）
-    **9.[Baby\! Baby\!
-    Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")**
+    **9.[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")**
       - Baby\! Baby\! Baby\!
       - Baby\! Baby\! Baby\! 〜热情祈祷版〜（）
       - Baby\! Baby\! Baby\! 〜追忆太阳版〜（）
@@ -529,8 +509,7 @@
       - 最特别的耶诞节（）
       - 比永远更长久（）
       - 我们的Reason（）
-    **30.[So long
-    \!](https://zh.wikipedia.org/wiki/So_long_! "wikilink")**
+    **30.[So long \!](https://zh.wikipedia.org/wiki/So_long_! "wikilink")**
       - So long \!
       - Waiting room
       - Ruby
@@ -653,8 +632,7 @@
       - 哀愁小號手（）
       - 通往夢想的路（）
       - 你在哪裏？（）
-    **45.[LOVE_TRIP/分享幸福](https://zh.wikipedia.org/wiki/LOVE_TRIP/分享幸福 "wikilink")**
-    （）
+    **45.[LOVE_TRIP/分享幸福](https://zh.wikipedia.org/wiki/LOVE_TRIP/分享幸福 "wikilink")** （）
       - LOVE_TRIP/分享幸福
       - 光與影的每一天（）
       - 傳說的魚（）
@@ -681,16 +659,14 @@
 #### 专辑
 
   -
-    **1.[SET LIST～Greatest Songs
-    2006-2007～](../Page/SET_LIST～Greatest_Songs_2006-2007～.md "wikilink")**（）
+    **1.[SET LIST～Greatest Songs 2006-2007～](../Page/SET_LIST～Greatest_Songs_2006-2007～.md "wikilink")**（）
       - 裙摆飘飘（Album Mix）
       - Virgin love（Album Mix）
     **2.[神曲集](../Page/神曲集.md "wikilink")**（）
       - Baby\! Baby\! Baby\! Baby\!
       - 真实自我（）
       - 你与彩虹与太阳（）
-    **[SET LIST～Greatest
-    Songs～完全盘](https://zh.wikipedia.org/wiki/SET_LIST～Greatest_Songs～完全盘 "wikilink")**（）
+    **[SET LIST～Greatest Songs～完全盘](https://zh.wikipedia.org/wiki/SET_LIST～Greatest_Songs～完全盘 "wikilink")**（）
       - Seventeen
       - 因为有你在（）
     **3.[就是在这里](https://zh.wikipedia.org/wiki/就是在这里 "wikilink")**（）
@@ -811,11 +787,9 @@
 
 #### 其他发行歌曲
 
-:\* [为了谁 -What can I do for
-someone?-](https://zh.wikipedia.org/wiki/为了谁_-What_can_I_do_for_someone?- "wikilink")
+:\* [为了谁 -What can I do for someone?-](https://zh.wikipedia.org/wiki/为了谁_-What_can_I_do_for_someone?- "wikilink")
 
-::
-作为[“为了谁”计划](https://zh.wikipedia.org/wiki/“为了谁”计划 "wikilink")（）的一部分于2011年4月1日开始提供收费下载。
+:: 作为[“为了谁”计划](https://zh.wikipedia.org/wiki/“为了谁”计划 "wikilink")（）的一部分于2011年4月1日开始提供收费下载。
 
 :\* [Sugar Rush](../Page/Sugar_Rush_\(AKB48歌曲\).md "wikilink")
 
@@ -830,8 +804,7 @@ someone?-](https://zh.wikipedia.org/wiki/为了谁_-What_can_I_do_for_someone?- 
   -
 
       -
-        作为渡邊美優紀1ST SOLO
-        單曲[與其溫柔不如給我一個吻](../Page/與其溫柔不如給我一個吻.md "wikilink")的CW曲收錄。
+        作为渡邊美優紀1ST SOLO 單曲[與其溫柔不如給我一個吻](../Page/與其溫柔不如給我一個吻.md "wikilink")的CW曲收錄。
 
 #### 未音源化
 
@@ -841,18 +814,15 @@ someone?-](https://zh.wikipedia.org/wiki/为了谁_-What_can_I_do_for_someone?- 
 
 :\* 共同的爱（）
 
-::
-[GREE](https://zh.wikipedia.org/wiki/GREE "wikilink")《》广告曲（作詞：秋元康、作曲：川島有真）
+:: [GREE](https://zh.wikipedia.org/wiki/GREE "wikilink")《》广告曲（作詞：秋元康、作曲：川島有真）
 
 :\* 即使让爱（）
 
-:: WILLSELECTIONS《WILLSELECTION 〜Disney Marie Collection
-DEBUT〜》广告曲（作詞：秋元康、作曲：）
+:: WILLSELECTIONS《WILLSELECTION 〜Disney Marie Collection DEBUT〜》广告曲（作詞：秋元康、作曲：）
 
 :\* 咖喱饭的希望（）
 
-:: [House食品](https://zh.wikipedia.org/wiki/House食品 "wikilink")
-广告曲（作詞：秋元康、作曲：）
+:: [House食品](https://zh.wikipedia.org/wiki/House食品 "wikilink") 广告曲（作詞：秋元康、作曲：）
 
 :\* 戀愛的打工（）
 
@@ -869,8 +839,7 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
       - SKE48
     <!-- end list -->
       -
-        [SKE48 Team S 1st
-        Stage“Party开始了”等公演中表演](https://zh.wikipedia.org/wiki/Team_A_1st_Stage“PARTY开始了”#SKE48_Team_S_1st_Stage“Party开始了”公演 "wikilink")
+        [SKE48 Team S 1st Stage“Party开始了”等公演中表演](https://zh.wikipedia.org/wiki/Team_A_1st_Stage“PARTY开始了”#SKE48_Team_S_1st_Stage“Party开始了”公演 "wikilink")
     **樱花花瓣**
       - 樱花花瓣2010
     <!-- end list -->
@@ -885,20 +854,17 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
       - 化作滚石吧（Team A ver.）
     <!-- end list -->
       -
-        [AKB48
-        1st演唱会“想见你～柱子没了唷\!～”](https://zh.wikipedia.org/wiki/AKB48_1st演唱会“想见你～柱子没了唷!～” "wikilink")（第2公演）中表演。
+        [AKB48 1st演唱会“想见你～柱子没了唷\!～”](https://zh.wikipedia.org/wiki/AKB48_1st演唱会“想见你～柱子没了唷!～” "wikilink")（第2公演）中表演。
     <!-- end list -->
       - 化作滚石吧（Team B ver.）
     <!-- end list -->
       -
-        [AKB48 Team B 1st
-        Stage“青春女孩”公演中表演](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage“青春女孩”#AKB48_Team_B_1st_Stage“青春女孩”公演 "wikilink")
+        [AKB48 Team B 1st Stage“青春女孩”公演中表演](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage“青春女孩”#AKB48_Team_B_1st_Stage“青春女孩”公演 "wikilink")
     <!-- end list -->
       - 化作滚石吧（Team N ver.）
     <!-- end list -->
       -
-        [NMB48 Team N 2nd
-        Stage“青春女孩”公演中表演](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage“青春女孩”#NMB48_Team_N_2nd_Stage“青春女孩”公演 "wikilink")
+        [NMB48 Team N 2nd Stage“青春女孩”公演中表演](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage“青春女孩”#NMB48_Team_N_2nd_Stage“青春女孩”公演 "wikilink")
 
 <!-- end list -->
 
@@ -911,8 +877,7 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
     <!-- end list -->
 
       -
-        [AKB48 in TOKYO DOME
-        ～1830m的梦想～中初次表演](https://zh.wikipedia.org/wiki/AKB48_in_TOKYO_DOME_～1830m的梦想～ "wikilink")。
+        [AKB48 in TOKYO DOME ～1830m的梦想～中初次表演](https://zh.wikipedia.org/wiki/AKB48_in_TOKYO_DOME_～1830m的梦想～ "wikilink")。
 
     <!-- end list -->
 
@@ -921,8 +886,7 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
     <!-- end list -->
 
       -
-        [业务连络。拜托了，片山部长！
-        in埼玉超级竞技场中初次表演](https://zh.wikipedia.org/wiki/业务连络。拜托了，片山部长！_in埼玉超级竞技场 "wikilink")。
+        [业务连络。拜托了，片山部长！ in埼玉超级竞技场中初次表演](https://zh.wikipedia.org/wiki/业务连络。拜托了，片山部长！_in埼玉超级竞技场 "wikilink")。
 
     <!-- end list -->
 
@@ -940,8 +904,7 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
     <!-- end list -->
 
       -
-        [SKE48 Team E 1st
-        Stage“睡衣兜风”公演中表演](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage“睡衣兜风”#SKE48_Team_E_1st_Stage“睡衣兜风”公演 "wikilink")
+        [SKE48 Team E 1st Stage“睡衣兜风”公演中表演](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage“睡衣兜风”#SKE48_Team_E_1st_Stage“睡衣兜风”公演 "wikilink")
 
     <!-- end list -->
 
@@ -959,8 +922,7 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
     <!-- end list -->
 
       -
-        [AKB48
-        研究生公演“睡衣兜风”公演中表演](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage“睡衣兜风”#AKB48_研究生公演“睡衣兜风” "wikilink")
+        [AKB48 研究生公演“睡衣兜风”公演中表演](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage“睡衣兜风”#AKB48_研究生公演“睡衣兜风” "wikilink")
 
 <!-- end list -->
 
@@ -1000,8 +962,7 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
     <!-- end list -->
 
       -
-        [SKE48 Team KII 4th
-        Stage“剧场的女神”公演中表演](https://zh.wikipedia.org/wiki/Team_B_5th_Stage“剧场的女神”#SKE48_Team_KII_4th_Stage“剧场的女神”公演 "wikilink")
+        [SKE48 Team KII 4th Stage“剧场的女神”公演中表演](https://zh.wikipedia.org/wiki/Team_B_5th_Stage“剧场的女神”#SKE48_Team_KII_4th_Stage“剧场的女神”公演 "wikilink")
 
     **因为喜欢你**
 
@@ -1074,16 +1035,14 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
       - 19人姐妹之歌
     <!-- end list -->
       -
-        [Team K 4th
-        Stage“最终钟声鸣响”复活公演中表演](../Page/Team_K_4th_Stage“最终钟声鸣响”.md "wikilink")
+        [Team K 4th Stage“最终钟声鸣响”复活公演中表演](../Page/Team_K_4th_Stage“最终钟声鸣响”.md "wikilink")
 
 ### SKE48
 
 #### 劇場公演
 
   -
-    **[Team S 2nd
-    Stage“手牵手”](../Page/Team_S_2nd_Stage“手牵手”.md "wikilink")**（）
+    **[Team S 2nd Stage“手牵手”](../Page/Team_S_2nd_Stage“手牵手”.md "wikilink")**（）
       - 我们的风（）
       - 芒果No.2（）
       - 手牵手
@@ -1100,8 +1059,7 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
       - 绳索的友情（）
       - 星期二夜晚 星期三清晨（）
       - 即使再遥远（）
-    **[Team S 3rd
-    Stage“制服之芽”](https://zh.wikipedia.org/wiki/Team_S_3rd_Stage“制服之芽” "wikilink")**（）
+    **[Team S 3rd Stage“制服之芽”](https://zh.wikipedia.org/wiki/Team_S_3rd_Stage“制服之芽” "wikilink")**（）
       - 无法化作诉说恋情的诗人…（）
       - 合格之吻（）
       - 天线（）
@@ -1118,8 +1076,7 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
       - 乐园的楼梯（）
       - 小木偶军团（）
       - 写信（）
-    **[Team KII 3rd
-    Stage“弹珠汽水的饮用方法”](https://zh.wikipedia.org/wiki/Team_KII_3rd_Stage“弹珠汽水的饮用方法” "wikilink")**（）
+    **[Team KII 3rd Stage“弹珠汽水的饮用方法”](https://zh.wikipedia.org/wiki/Team_KII_3rd_Stage“弹珠汽水的饮用方法” "wikilink")**（）
       - 征兆（）
       - 操场的小狗（）
       - Disco保健室（）
@@ -1151,16 +1108,13 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
       - 少女在盛夏会做什么？（）
       - 羽豆岬（）
       - 小木偶军团（Theater Girls ver.）
-    **4.[1！2！3！4！
-    请多关照！](https://zh.wikipedia.org/wiki/1！2！3！4！_请多关照！ "wikilink")**
-    （）
+    **4.[1！2！3！4！ 请多关照！](https://zh.wikipedia.org/wiki/1！2！3！4！_请多关照！ "wikilink")** （）
       - 1！2！3！4！ 请多关照！
       - TWO ROSES
       - 秋樱的记忆（）
       - 青春好难为情（）
       - 请让我在你身边（）
-    *' 5. [万岁Venus](https://zh.wikipedia.org/wiki/万岁Venus "wikilink")*'
-    （）
+    *' 5. [万岁Venus](https://zh.wikipedia.org/wiki/万岁Venus "wikilink")*' （）
       - 万岁Venus
       - 爱之数量（）
       - 毕业式忘记的东西（）
@@ -1183,9 +1137,7 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
       - 声嘶力竭（）
       - 沉默寡言月（）
       - 今天之前的事、今后的事（）
-    ''' 9. [I love you
-    我爱你！](https://zh.wikipedia.org/wiki/I_love_you_我爱你！ "wikilink")
-    '''（）
+    ''' 9. [I love you 我爱你！](https://zh.wikipedia.org/wiki/I_love_you_我爱你！ "wikilink") '''（）
       - I love you 我爱你！
       - 光晕（）
       - 默契的接吻（）
@@ -1313,13 +1265,11 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
 
 :\* Escape
 
-:: AKB48
-的第34張單曲《[假如在悬铃木的路上对你说“我梦见了你的微笑”，我们的关系会怎么变化，我自己想了几天大概只能得出稍稍让人害羞的结论](https://zh.wikipedia.org/wiki/假如在悬铃木的路上对你说“我梦见了你的微笑”，我们的关系会怎么变化，我自己想了几天大概只能得出稍稍让人害羞的结论 "wikilink")》收录
+:: AKB48 的第34張單曲《[假如在悬铃木的路上对你说“我梦见了你的微笑”，我们的关系会怎么变化，我自己想了几天大概只能得出稍稍让人害羞的结论](https://zh.wikipedia.org/wiki/假如在悬铃木的路上对你说“我梦见了你的微笑”，我们的关系会怎么变化，我自己想了几天大概只能得出稍稍让人害羞的结论 "wikilink")》收录
 
 :\*如果世界在哭泣（世界が泣いてるなら）
 
-::AKB48
-的第39張單曲《[Green_Flash](../Page/Green_Flash_\(AKB48單曲\).md "wikilink")》收录
+::AKB48 的第39張單曲《[Green_Flash](../Page/Green_Flash_\(AKB48單曲\).md "wikilink")》收录
 
 :\* Gonna Jump
 
@@ -1334,8 +1284,7 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
 
 #### 未音源化
 
-:\*五色の虹 佐藤実絵子（作詞曲） 佐藤実絵子&中西優香卒業公演にて初披露。
-歌唱メンバー：大矢真那、佐藤実絵子、中西優香、松井珠理奈、松井玲奈
+:\*五色の虹 佐藤実絵子（作詞曲） 佐藤実絵子&中西優香卒業公演にて初披露。 歌唱メンバー：大矢真那、佐藤実絵子、中西優香、松井珠理奈、松井玲奈
 
 ### NMB48
 
@@ -1515,18 +1464,15 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 
 :\* HA\!
 
-:: 初次收录于AKB48 的第29張單曲《[永遠的壓力](../Page/永遠的壓力.md "wikilink")》;後收录于NMB48
-第1張专辑《[尖端頂點之上！](https://zh.wikipedia.org/wiki/尖端頂點之上！ "wikilink")》
+:: 初次收录于AKB48 的第29張單曲《[永遠的壓力](../Page/永遠的壓力.md "wikilink")》;後收录于NMB48 第1張专辑《[尖端頂點之上！](https://zh.wikipedia.org/wiki/尖端頂點之上！ "wikilink")》
 
 :\* 遇見你之後我變了（）
 
-:: AKB48
-的第34張單曲《[假如在悬铃木的路上对你说“我梦见了你的微笑”，我们的关系会怎么变化，我自己想了几天大概只能得出稍稍让人害羞的结论](https://zh.wikipedia.org/wiki/假如在悬铃木的路上对你说“我梦见了你的微笑”，我们的关系会怎么变化，我自己想了几天大概只能得出稍稍让人害羞的结论 "wikilink")》收录
+:: AKB48 的第34張單曲《[假如在悬铃木的路上对你说“我梦见了你的微笑”，我们的关系会怎么变化，我自己想了几天大概只能得出稍稍让人害羞的结论](https://zh.wikipedia.org/wiki/假如在悬铃木的路上对你说“我梦见了你的微笑”，我们的关系会怎么变化，我自己想了几天大概只能得出稍稍让人害羞的结论 "wikilink")》收录
 
 :\*龐克搖滾（）
 
-::AKB48
-的第39張單曲《[Green_Flash](../Page/Green_Flash_\(AKB48單曲\).md "wikilink")》收录
+::AKB48 的第39張單曲《[Green_Flash](../Page/Green_Flash_\(AKB48單曲\).md "wikilink")》收录
 
 :\*緊抓不放的青春（）
 
@@ -1671,16 +1617,14 @@ style="font-size:108%;text-align:left" id="tN"|Team N
 
 :\* AKB48单曲串烧
 
-:: [NMB48 Team N 1st
-Stage“为了谁”](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage“为了谁”#NMB48_Team_N_1st_Stage“为了谁”公演 "wikilink")
+:: [NMB48 Team N 1st Stage“为了谁”](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage“为了谁”#NMB48_Team_N_1st_Stage“为了谁”公演 "wikilink")
 
 :\* 歌曲串烧
 
   -
 
       -
-        [NMB48 Team M 1st
-        Stage“偶像的黎明”](https://zh.wikipedia.org/wiki/Team_B_4th_Stage“偶像的黎明”#NMB48_Team_M_1st_Stage“偶像的黎明”公演 "wikilink")
+        [NMB48 Team M 1st Stage“偶像的黎明”](https://zh.wikipedia.org/wiki/Team_B_4th_Stage“偶像的黎明”#NMB48_Team_M_1st_Stage“偶像的黎明”公演 "wikilink")
 
 #### 音響版本
 
@@ -3071,8 +3015,7 @@ Stage“为了谁”](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage“为了谁
 #### 劇場公演
 
   -
-    **[SDN48 1st
-    Stage“诱惑的吊袜带”](https://zh.wikipedia.org/wiki/SDN48_1st_Stage“诱惑的吊袜带” "wikilink")**（）
+    **[SDN48 1st Stage“诱惑的吊袜带”](https://zh.wikipedia.org/wiki/SDN48_1st_Stage“诱惑的吊袜带” "wikilink")**（）
       - Saturday night party
       - Never\!
       - Black boy
@@ -3106,8 +3049,7 @@ Stage“为了谁”](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage“为了谁
       - 喝了娘王香槟再说（）
       - 女人（）
       - Everyday、发箍（SDN48 ver.）
-    **4.[在麻布十番劝说 duet with Monta
-    Mino](https://zh.wikipedia.org/wiki/在麻布十番劝说_duet_with_Monta_Mino "wikilink")**（）
+    **4.[在麻布十番劝说 duet with Monta Mino](https://zh.wikipedia.org/wiki/在麻布十番劝说_duet_with_Monta_Mino "wikilink")**（）
       - 在麻布十番劝说 duet with Monta Mino
       - 想做店氏（）
       - Kamujatan爱恋之情（）
@@ -3131,8 +3073,7 @@ Stage“为了谁”](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage“为了谁
 #### 劇場公演
 
   -
-    '''[JKT48 1st Stage“Pajama
-    Drive”](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage“睡衣兜风”#JKT48_1st_Stage“睡衣兜风”公演 "wikilink")
+    '''[JKT48 1st Stage“Pajama Drive”](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage“睡衣兜风”#JKT48_1st_Stage“睡衣兜风”公演 "wikilink")
       - Shonichi
       - Hissatsu Teleport
       - Gokigen Naname na Mermaid
@@ -3149,8 +3090,7 @@ Stage“为了谁”](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage“为了谁
       - Wasshoi J\!
       - Suifu wa Arashi ni Yume wo Miru
       - Shiroi Shirts
-    '''[Team J 1st Stage“Renai Kinshi
-    Jourei”](https://zh.wikipedia.org/wiki/Team_A_5th_Stage“恋爱禁止条例”#JKT48_Team_J_1st_Stage“恋爱禁止条例”公演 "wikilink")
+    '''[Team J 1st Stage“Renai Kinshi Jourei”](https://zh.wikipedia.org/wiki/Team_A_5th_Stage“恋爱禁止条例”#JKT48_Team_J_1st_Stage“恋爱禁止条例”公演 "wikilink")
       - Nagai Hikari
       - Squall no Aida ni
       - JK Nemurihime
@@ -3167,8 +3107,7 @@ Stage“为了谁”](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage“为了谁
       - JKT Sanjou\!
       - Namida no Shinkokyuu
       - Oogoe Diamond
-    **[Team J 2nd Stage“Dareka no Tame
-    ni”](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「为了谁」#JKT48_Team_J_2nd_Stage「为了谁」公演 "wikilink")**
+    **[Team J 2nd Stage“Dareka no Tame ni”](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「为了谁」#JKT48_Team_J_2nd_Stage「为了谁」公演 "wikilink")**
       - Tsukimisou
       - Warning
       - Tanjoubi no Yuru
@@ -3183,8 +3122,7 @@ Stage“为了谁”](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage“为了谁
       - Dareka no Tame ni
       - Medley
       - Namida Uri no Shoujo
-    '''[Team KIII 1st Stage“Boku No
-    Taiyou”](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#JKT48_Team_KIII_1st_Stage“我的太阳”公演 "wikilink")
+    '''[Team KIII 1st Stage“Boku No Taiyou”](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#JKT48_Team_KIII_1st_Stage“我的太阳”公演 "wikilink")
       - Dreamin' Girls
       - Run Run Run
       - Mirai no Kajitsu
@@ -3210,31 +3148,26 @@ Stage“为了谁”](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage“为了谁
       - Sakura no Shiori
       - Mirai no Kajitsu
       - Kimi ni Au Tabi Koi o Suru
-    **2.[Yuuhi wo
-    Miteiruka?](../Page/你正在看着夕阳吗？_\(JKT48单曲\).md "wikilink")**
+    **2.[Yuuhi wo Miteiruka?](../Page/你正在看着夕阳吗？_\(JKT48单曲\).md "wikilink")**
       - Yuuhi wo Miteiruka?
       - Nagai Hikari
       - 1\!2\!3\!4\!Yoroshiku\!
       - Viva\! Hurricane
-    **3.[Fortune Cookie in
-    Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikilink")**
+    **3.[Fortune Cookie in Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikilink")**
       - Fortune Cookie in Love
       - First Rabbit
       - Baby\! Baby\! Baby\! - Passionate Prayer Version -
-    **4.[Manatsu no Sounds
-    Good\!](../Page/仲夏的Sounds_good!_\(JKT48单曲\).md "wikilink")**
+    **4.[Manatsu no Sounds Good\!](../Page/仲夏的Sounds_good!_\(JKT48单曲\).md "wikilink")**
       - Manatsu no Sounds Good\!
       - BINGO\!
       - Kimi to Boku no Kankei
-    **5.[Flying
-    Get](https://zh.wikipedia.org/wiki/飛翔入手_\(JKT48单曲\) "wikilink")**
+    **5.[Flying Get](https://zh.wikipedia.org/wiki/飛翔入手_\(JKT48单曲\) "wikilink")**
       - Flying Get
       - Hanikami Lollypop
       - Shoujotachi Yo
       - Korogaru Ishi ni Nare
       - Aitakatta
-    **6.[Gingham
-    Check](https://zh.wikipedia.org/wiki/格子花紋_\(JKT48单曲\) "wikilink")**
+    **6.[Gingham Check](https://zh.wikipedia.org/wiki/格子花紋_\(JKT48单曲\) "wikilink")**
       - Gingham Check
       - Utsukushii Inazuma
       - Kondo Koso Ecstasy
@@ -3245,8 +3178,7 @@ Stage“为了谁”](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage“为了谁
 #### 专辑
 
   -
-    **1.[Heavy
-    Rotation](../Page/Heavy_Rotation_\(JKT48专辑\).md "wikilink")**
+    **1.[Heavy Rotation](../Page/Heavy_Rotation_\(JKT48专辑\).md "wikilink")**
       - Heavy Rotation
       - Kimi no Koto ga Suki Dakara
       - Ponytail to Chou-chou
@@ -3438,8 +3370,7 @@ Stage“为了谁”](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage“为了谁
       - 回忆是那么的遥远…（）
       - 出奇不意的去吧（）
       - 恋爱是敏感的（）
-    **10.[少年哟
-    说谎吧！](https://zh.wikipedia.org/wiki/少年哟_说谎吧！ "wikilink")**（）
+    **10.[少年哟 说谎吧！](https://zh.wikipedia.org/wiki/少年哟_说谎吧！ "wikilink")**（）
       - 少年哟 说谎吧！
       - 你在思索（）
       - 姊妹饭（）
@@ -3484,8 +3415,7 @@ Stage“为了谁”](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage“为了谁
       - 你面对前面（）
       - 沉默（）
       - 口对口的巧克力
-    **3.[太逊了I love
-    you\!](https://zh.wikipedia.org/wiki/太逊了I_love_you! "wikilink")**（）
+    **3.[太逊了I love you\!](https://zh.wikipedia.org/wiki/太逊了I_love_you! "wikilink")**（）
       - 太逊了I love you\!
       - 忽然（）
       - 是你的话没有问题（）
@@ -3956,8 +3886,7 @@ Stage“为了谁”](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage“为了谁
       - 心之羽根（TV Size）（）
     <!-- end list -->
       -
-        《[七龙珠改](https://zh.wikipedia.org/wiki/七龙珠改 "wikilink") Original
-        Soundtrack Vol.3》（）中收录。
+        《[七龙珠改](https://zh.wikipedia.org/wiki/七龙珠改 "wikilink") Original Soundtrack Vol.3》（）中收录。
 
 ### TEAM-Z
 
@@ -4005,8 +3934,7 @@ Stage“为了谁”](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage“为了谁
 
 :\* 骨头华尔兹（album ver.）
 
-:: 《[Team K 3rd
-Stage“脑内天堂”](../Page/Team_K_3rd_Stage“脑内天堂”.md "wikilink")》公演CD中收录。
+:: 《[Team K 3rd Stage“脑内天堂”](../Page/Team_K_3rd_Stage“脑内天堂”.md "wikilink")》公演CD中收录。
 
 :\* 种子 -TV size ver.-
 
@@ -4014,13 +3942,11 @@ Stage“脑内天堂”](../Page/Team_K_3rd_Stage“脑内天堂”.md "wikilink
 
 :\* 坚强之勇者（TV size）
 
-:: 《[真魔神 冲击！Z篇](https://zh.wikipedia.org/wiki/真魔神_冲击！Z篇 "wikilink") on
-television ORIGINAL SOUNDTRACK Vol.2》（）中收录。
+:: 《[真魔神 冲击！Z篇](https://zh.wikipedia.org/wiki/真魔神_冲击！Z篇 "wikilink") on television ORIGINAL SOUNDTRACK Vol.2》（）中收录。
 
 :\* 太逊了I love you\!（TV size edit.）
 
-:: 《[SKET DANCE](../Page/SKET_DANCE.md "wikilink") ORIGINAL SOUNDTRACK
-Best Hit KAIMEI》中收录。
+:: 《[SKET DANCE](../Page/SKET_DANCE.md "wikilink") ORIGINAL SOUNDTRACK Best Hit KAIMEI》中收录。
 
 :\* 月的里侧 <SCP EUROBEAT REMIX>
 
@@ -4030,8 +3956,7 @@ Best Hit KAIMEI》中收录。
 
 :\* 飞翔入手（峯岸化 ver.）
 
-:: 《[卡巴斯基实验室](https://zh.wikipedia.org/wiki/卡巴斯基实验室 "wikilink") 2012
-多平台安全性》比赛歌曲。收录于比赛用的限定1000枚CD中。
+:: 《[卡巴斯基实验室](https://zh.wikipedia.org/wiki/卡巴斯基实验室 "wikilink") 2012 多平台安全性》比赛歌曲。收录于比赛用的限定1000枚CD中。
 
 :\* Lost the way -MOVIE MIX-
 
@@ -4042,8 +3967,7 @@ Best Hit KAIMEI》中收录。
   -
 
       -
-        活动“NMB48《大葱鸭们》Release Special 3rd Anniversary Special Live
-        Secret After Party\!\!”奖品用模拟盘中收录。
+        活动“NMB48《大葱鸭们》Release Special 3rd Anniversary Special Live Secret After Party\!\!”奖品用模拟盘中收录。
 
 ### 改变部分歌词的歌
 
@@ -4051,8 +3975,7 @@ Best Hit KAIMEI》中收录。
 
 :\* Beginner
 
-::
-[第1届AKB48红白对抗歌合战中表演](https://zh.wikipedia.org/wiki/第1届AKB48红白对抗歌合战 "wikilink")。
+:: [第1届AKB48红白对抗歌合战中表演](https://zh.wikipedia.org/wiki/第1届AKB48红白对抗歌合战 "wikilink")。
 
 :\* 樱花花瓣
 
@@ -4071,16 +3994,14 @@ Best Hit KAIMEI》中收录。
 
 :\* Fortune Cookie in Love - English Version -
 
-:: 《[Fortune Cookie in
-Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikilink")》中收录。
+:: 《[Fortune Cookie in Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikilink")》中收录。
 
 :\* Manatsu no Sounds Good\! – Summer Love Sounds Good\!
 
   -
 
       -
-        《[Manatsu no Sounds
-        Good\!](../Page/仲夏的Sounds_good!_\(JKT48单曲\).md "wikilink")》中收录。
+        《[Manatsu no Sounds Good\!](../Page/仲夏的Sounds_good!_\(JKT48单曲\).md "wikilink")》中收录。
 
   - 法语
 
@@ -4098,8 +4019,7 @@ Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikil
   -
 
       -
-        SA\&KA from
-        AKB48（[秋元才加](../Page/秋元才加.md "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")）演唱
+        SA\&KA from AKB48（[秋元才加](../Page/秋元才加.md "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")）演唱
         2006年在[东京电视台系播放的](https://zh.wikipedia.org/wiki/东京电视台 "wikilink")《》中的环节“是Panda”（）中使用。
         （作曲：[马蒂·弗里德曼](../Page/马蒂·弗里德曼_\(音乐家\).md "wikilink")）
 
@@ -4120,8 +4040,7 @@ Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikil
     <!-- end list -->
 
       -
-        蜡笔小新Friends（） from
-        AKB48（[大岛麻衣](https://zh.wikipedia.org/wiki/大岛麻衣 "wikilink")、[折井步](../Page/折井步.md "wikilink")、今井優、[野吕佳代](https://zh.wikipedia.org/wiki/野吕佳代 "wikilink")、[浦野一美](../Page/浦野一美.md "wikilink")）演唱
+        蜡笔小新Friends（） from AKB48（[大岛麻衣](https://zh.wikipedia.org/wiki/大岛麻衣 "wikilink")、[折井步](../Page/折井步.md "wikilink")、今井優、[野吕佳代](https://zh.wikipedia.org/wiki/野吕佳代 "wikilink")、[浦野一美](../Page/浦野一美.md "wikilink")）演唱
         《[呼风唤雨\!夕阳下的春日部男孩](https://zh.wikipedia.org/wiki/蜡笔小新#剧场版 "wikilink")》参加配音的成员所演唱的版本。
 
     <!-- end list -->
@@ -4132,8 +4051,7 @@ Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikil
 
       -
         今井優演唱
-        [Team K 3rd
-        Stage“脑内天堂”的千秋乐中表演](../Page/Team_K_3rd_Stage“脑内天堂”.md "wikilink")。向来场的观众发放了收录有本首歌的CD。
+        [Team K 3rd Stage“脑内天堂”的千秋乐中表演](../Page/Team_K_3rd_Stage“脑内天堂”.md "wikilink")。向来场的观众发放了收录有本首歌的CD。
         （作词作曲皆为其本人）。
 
     <!-- end list -->
@@ -4143,8 +4061,7 @@ Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikil
     <!-- end list -->
 
       -
-        Summer
-        Lips（[板野友美](../Page/板野友美.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")）演唱
+        Summer Lips（[板野友美](../Page/板野友美.md "wikilink")、[河西智美](../Page/河西智美.md "wikilink")）演唱
         2008年7月26日开放下载。《偶像夏日物语》（）（[读卖电视台](https://zh.wikipedia.org/wiki/读卖电视台 "wikilink")）的企划曲。
 
     <!-- end list -->
@@ -4250,8 +4167,7 @@ Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikil
     <!-- end list -->
 
       -
-        BABY
-        GAMBA（[仲谷明香](../Page/仲谷明香.md "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")）演唱
+        BABY GAMBA（[仲谷明香](../Page/仲谷明香.md "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")）演唱
         2011年9月14日发行的DVD单曲。
         （作詞、作曲：DUFF、編曲：一休／DUFF）
 
@@ -4302,8 +4218,7 @@ Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikil
 
       -
         樱庭千岁（仲谷明香）、樱庭千岁（[德井青空](../Page/德井青空.md "wikilink")）、柊雛子（[MAKO](https://zh.wikipedia.org/wiki/MAKO "wikilink")）演唱
-        电视动画《[千岁Get
-        You\!\!](https://zh.wikipedia.org/wiki/千岁Get_You!! "wikilink")》片头曲。为主人公千岁配音的仲谷明香参加演唱。
+        电视动画《[千岁Get You\!\!](https://zh.wikipedia.org/wiki/千岁Get_You!! "wikilink")》片头曲。为主人公千岁配音的仲谷明香参加演唱。
 
     <!-- end list -->
 
@@ -4334,11 +4249,9 @@ Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikil
 
       -
 
-        ＆[佐藤亚美菜](https://zh.wikipedia.org/wiki/佐藤亚美菜 "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")
-        from AKB48演唱
+        ＆[佐藤亚美菜](https://zh.wikipedia.org/wiki/佐藤亚美菜 "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink") from AKB48演唱
 
-        2013年2月23日～24日在[NICONICO直播节目](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")《向谷实之NICONICO现场录音
-        Vol.2》（）内宣布制作的下载限定单曲。
+        2013年2月23日～24日在[NICONICO直播节目](https://zh.wikipedia.org/wiki/NICONICO动画 "wikilink")《向谷实之NICONICO现场录音 Vol.2》（）内宣布制作的下载限定单曲。
 
         （作詞：佐藤亚美菜、作曲：向谷实）
 
@@ -4391,8 +4304,7 @@ Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikil
       - [前田敦子](../Page/前田敦子.md "wikilink")
 
       -
-      - [今吉惠](https://zh.wikipedia.org/wiki/今吉惠 "wikilink")（）、[梅田悠](../Page/梅田悠.md "wikilink")、[甲斐田樹里](../Page/甲斐田樹里.md "wikilink")、[加藤雅美](../Page/加藤雅美.md "wikilink")、[伊東愛](https://zh.wikipedia.org/wiki/伊東愛 "wikilink")、[KONAN](../Page/KONAN.md "wikilink")、[細田海友](https://zh.wikipedia.org/wiki/細田海友 "wikilink")
-        （组成了组合[7cm](https://zh.wikipedia.org/wiki/7cm "wikilink")）
+      - [今吉惠](https://zh.wikipedia.org/wiki/今吉惠 "wikilink")（）、[梅田悠](../Page/梅田悠.md "wikilink")、[甲斐田樹里](../Page/甲斐田樹里.md "wikilink")、[加藤雅美](../Page/加藤雅美.md "wikilink")、[伊東愛](https://zh.wikipedia.org/wiki/伊東愛 "wikilink")、[KONAN](../Page/KONAN.md "wikilink")、[細田海友](https://zh.wikipedia.org/wiki/細田海友 "wikilink") （组成了组合[7cm](https://zh.wikipedia.org/wiki/7cm "wikilink")）
 
       - [光上慧爱兰](https://zh.wikipedia.org/wiki/光上慧爱兰 "wikilink")（）
 
@@ -4424,16 +4336,7 @@ Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikil
 
 ## 外部連結
 
-[Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink")
-[Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink")
-[Category:SKE48歌曲](https://zh.wikipedia.org/wiki/Category:SKE48歌曲 "wikilink")
-[Category:SDN48](https://zh.wikipedia.org/wiki/Category:SDN48 "wikilink")
-[Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
-[Category:HKT48](https://zh.wikipedia.org/wiki/Category:HKT48 "wikilink")
-[Category:JKT48](https://zh.wikipedia.org/wiki/Category:JKT48 "wikilink")
-[Category:NGT48](https://zh.wikipedia.org/wiki/Category:NGT48 "wikilink")
-[Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink")
-[Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
+[Category:AKB48歌曲](https://zh.wikipedia.org/wiki/Category:AKB48歌曲 "wikilink") [Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink") [Category:SKE48歌曲](https://zh.wikipedia.org/wiki/Category:SKE48歌曲 "wikilink") [Category:SDN48](https://zh.wikipedia.org/wiki/Category:SDN48 "wikilink") [Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink") [Category:HKT48](https://zh.wikipedia.org/wiki/Category:HKT48 "wikilink") [Category:JKT48](https://zh.wikipedia.org/wiki/Category:JKT48 "wikilink") [Category:NGT48](https://zh.wikipedia.org/wiki/Category:NGT48 "wikilink") [Category:日本音樂作品列表](https://zh.wikipedia.org/wiki/Category:日本音樂作品列表 "wikilink") [Category:流行樂團音樂作品列表](https://zh.wikipedia.org/wiki/Category:流行樂團音樂作品列表 "wikilink")
 
 1.  2012年10月31日までAKB48、同年11月1日よりHKT48のメンバー。
 
@@ -4731,9 +4634,7 @@ Love](https://zh.wikipedia.org/wiki/恋爱的幸运饼干_\(JKT48单曲\) "wikil
 239.
 240.
 
-241. [日本音楽著作権協会](https://zh.wikipedia.org/wiki/日本音楽著作権協会 "wikilink")
-     [J-WID 作品データベース検索サービス](http://www2.jasrac.or.jp/eJwid/)
-     作品コード:219-7490-0 ハル、はじまるキャンペーンの唄
+241. [日本音楽著作権協会](https://zh.wikipedia.org/wiki/日本音楽著作権協会 "wikilink") [J-WID 作品データベース検索サービス](http://www2.jasrac.or.jp/eJwid/)  作品コード:219-7490-0 ハル、はじまるキャンペーンの唄
 
 242. 2013年4月27日までHKT48のみに所属。2013年4月28日よりHKT48とAKB48を兼任
 

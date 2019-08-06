@@ -1,9 +1,4 @@
-**EvoL** （）是[韓國Stardom](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-Entertainment公司於2012年推出的旗下第一組女子團體。成員由權素熙（Say）、林侑利（Yull）、金俊希（Jucy）、Hayana、金妍珠（J-Da）五人組成，團名是由Effective
-voice of
-lady的簡寫evolution前四個字母Love的倒寫，表示希望可以在歌迷那裡得到更多的愛護。EvoL是韓國知名製作人趙PD首度製作的女團，特別是EvoL對自己的實力充滿自信，已經做好了在下半年的偶像派立足的準備。
-EvoL出道迷你專輯《Let Me Explode》，出道主打曲為〈We Are A Bit
-Different〉，並在樂天世界正式進行出道舞台。
+**EvoL** （）是[韓國Stardom](https://zh.wikipedia.org/wiki/韓國 "wikilink") Entertainment公司於2012年推出的旗下第一組女子團體。成員由權素熙（Say）、林侑利（Yull）、金俊希（Jucy）、Hayana、金妍珠（J-Da）五人組成，團名是由Effective voice of lady的簡寫evolution前四個字母Love的倒寫，表示希望可以在歌迷那裡得到更多的愛護。EvoL是韓國知名製作人趙PD首度製作的女團，特別是EvoL對自己的實力充滿自信，已經做好了在下半年的偶像派立足的準備。 EvoL出道迷你專輯《Let Me Explode》，出道主打曲為〈We Are A Bit Different〉，並在樂天世界正式進行出道舞台。
 
 2015年8月12日，經紀公司宣佈Hayana、Yull及J-Da三人合約被終止，EvoL亦宣告解散。\[1\]
 
@@ -75,16 +70,6 @@ Different〉，並在樂天世界正式進行出道舞台。
   -
   - [官方cafe](http://cafe.daum.net/EvoL)
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
-[Category:2012年韓國建立](https://zh.wikipedia.org/wiki/Category:2012年韓國建立 "wikilink")
-[Category:2015年韓國廢除](https://zh.wikipedia.org/wiki/Category:2015年韓國廢除 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink") [Category:2012年韓國建立](https://zh.wikipedia.org/wiki/Category:2012年韓國建立 "wikilink") [Category:2015年韓國廢除](https://zh.wikipedia.org/wiki/Category:2015年韓國廢除 "wikilink")
 
-1.  [150611 이블, 사실상 해체..조PD, 세이·쥬시만
-    계약](http://entertain.naver.com/read?oid=241&aid=0002452751)
-    NAVER 2015年8月12日
+1.  [150611 이블, 사실상 해체..조PD, 세이·쥬시만 계약](http://entertain.naver.com/read?oid=241&aid=0002452751)  NAVER 2015年8月12日

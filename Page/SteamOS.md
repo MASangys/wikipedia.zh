@@ -1,5 +1,4 @@
-**SteamOS**，基於[Debian](../Page/Debian.md "wikilink")發行版而開發的[Linux](../Page/Linux.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，由[Valve公司設計開發](../Page/威尔乌.md "wikilink")，使用於[Steam
-Machine遊戲終端機上](../Page/Steam_Machine.md "wikilink")。在2013年12月13日首次發佈。
+**SteamOS**，基於[Debian](../Page/Debian.md "wikilink")發行版而開發的[Linux](../Page/Linux.md "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，由[Valve公司設計開發](../Page/威尔乌.md "wikilink")，使用於[Steam Machine遊戲終端機上](../Page/Steam_Machine.md "wikilink")。在2013年12月13日首次發佈。
 
 ## 功能
 
@@ -56,10 +55,6 @@ SteamOS主要是為了[電子遊戲而設計](https://zh.wikipedia.org/wiki/電�
   - [官方首頁](http://store.steampowered.com/livingroom/SteamOS/)
   - [官方下載網頁](http://repo.steampowered.com/download/)
 
-[Category:威爾烏](https://zh.wikipedia.org/wiki/Category:威爾烏 "wikilink")
-[Category:電子遊戲機的操作系統](https://zh.wikipedia.org/wiki/Category:電子遊戲機的操作系統 "wikilink")
-[Category:Debian](https://zh.wikipedia.org/wiki/Category:Debian "wikilink")
-[Category:2013年軟體](https://zh.wikipedia.org/wiki/Category:2013年軟體 "wikilink")
-[Category:Steam](https://zh.wikipedia.org/wiki/Category:Steam "wikilink")
+[Category:威爾烏](https://zh.wikipedia.org/wiki/Category:威爾烏 "wikilink") [Category:電子遊戲機的操作系統](https://zh.wikipedia.org/wiki/Category:電子遊戲機的操作系統 "wikilink") [Category:Debian](https://zh.wikipedia.org/wiki/Category:Debian "wikilink") [Category:2013年軟體](https://zh.wikipedia.org/wiki/Category:2013年軟體 "wikilink") [Category:Steam](https://zh.wikipedia.org/wiki/Category:Steam "wikilink")
 
 1.

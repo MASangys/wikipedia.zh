@@ -108,10 +108,7 @@
 
 ## 外部連結
 
-  - [AFI's 100 Years...100 Songs (.pdf
-    format)](https://web.archive.org/web/20110716072059/http://connect.afi.com/site/DocServer/songs100.pdf?docID=244)
-  - [AFI's list of the 400 nominees (.pdf
-    format)](https://web.archive.org/web/20110716072337/http://connect.afi.com/site/DocServer/songs400.pdf?docID=243)
+  - [AFI's 100 Years...100 Songs (.pdf format)](https://web.archive.org/web/20110716072059/http://connect.afi.com/site/DocServer/songs100.pdf?docID=244)
+  - [AFI's list of the 400 nominees (.pdf format)](https://web.archive.org/web/20110716072337/http://connect.afi.com/site/DocServer/songs400.pdf?docID=243)
 
-[Category:美国电影学院百年百大系列](https://zh.wikipedia.org/wiki/Category:美国电影学院百年百大系列 "wikilink")
-[Category:音樂作品列表](https://zh.wikipedia.org/wiki/Category:音樂作品列表 "wikilink")
+[Category:美国电影学院百年百大系列](https://zh.wikipedia.org/wiki/Category:美国电影学院百年百大系列 "wikilink") [Category:音樂作品列表](https://zh.wikipedia.org/wiki/Category:音樂作品列表 "wikilink")

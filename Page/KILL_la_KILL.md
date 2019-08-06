@@ -1,15 +1,10 @@
-《**KILL la-{}-
-KILL**》或《**斬-{}-服少女**》（）是由[中島一基創作的日本幻想冒險熱血動畫](https://zh.wikipedia.org/wiki/中島一基 "wikilink")，由動畫《[天元突破
-紅蓮螺巖](../Page/天元突破_紅蓮螺巖.md "wikilink")》監督[今石洋之](../Page/今石洋之.md "wikilink")所领军。
+《**KILL la-{}- KILL**》或《**斬-{}-服少女**》（）是由[中島一基創作的日本幻想冒險熱血動畫](https://zh.wikipedia.org/wiki/中島一基 "wikilink")，由動畫《[天元突破 紅蓮螺巖](../Page/天元突破_紅蓮螺巖.md "wikilink")》監督[今石洋之](../Page/今石洋之.md "wikilink")所领军。
 
-本作相關的[系列構成和](https://zh.wikipedia.org/wiki/系列構成 "wikilink")[腳本由中島一基擔當](https://zh.wikipedia.org/wiki/腳本 "wikilink")，[角色設計的部份則是](https://zh.wikipedia.org/wiki/角色設計 "wikilink")[石崎壽夫](https://zh.wikipedia.org/wiki/石崎壽夫 "wikilink")，此二位同樣也是《天元突破
-紅蓮螺巖》一系列相關的制作人員。
+本作相關的[系列構成和](https://zh.wikipedia.org/wiki/系列構成 "wikilink")[腳本由中島一基擔當](https://zh.wikipedia.org/wiki/腳本 "wikilink")，[角色設計的部份則是](https://zh.wikipedia.org/wiki/角色設計 "wikilink")[石崎壽夫](https://zh.wikipedia.org/wiki/石崎壽夫 "wikilink")，此二位同樣也是《天元突破 紅蓮螺巖》一系列相關的制作人員。
 
-動畫於2013年10月3日由[MBS電視台開始放送](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")，由[TRIGGER](../Page/TRIGGER.md "wikilink")擔綱製作。漫畫版由[輕小說](../Page/輕小說.md "wikilink")插畫家作畫，在《[Young
-Ace](../Page/Young_Ace.md "wikilink")》2013年10月號（9月4日發售）上開始連載。
+動畫於2013年10月3日由[MBS電視台開始放送](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")，由[TRIGGER](../Page/TRIGGER.md "wikilink")擔綱製作。漫畫版由[輕小說](../Page/輕小說.md "wikilink")插畫家作畫，在《[Young Ace](../Page/Young_Ace.md "wikilink")》2013年10月號（9月4日發售）上開始連載。
 
-2014年3月29日宣布將於同年9月3日發售的的第九卷[Blu-Ray](https://zh.wikipedia.org/wiki/Blu-Ray "wikilink")、[DVD-Video](../Page/DVD-Video.md "wikilink")中隨行放送第25話。
-__TOC__
+2014年3月29日宣布將於同年9月3日發售的的第九卷[Blu-Ray](https://zh.wikipedia.org/wiki/Blu-Ray "wikilink")、[DVD-Video](../Page/DVD-Video.md "wikilink")中隨行放送第25話。 __TOC__
 
 ## 概要
 
@@ -289,8 +284,7 @@ __TOC__
 
       -
         十五話初登場。刻意特化了使用者本身機動力的極制服，但在體積方面則減少了不少。
-        相較於前代，奏之裝
-        改把飛行器改為裝置在使用者背上，並縮減火力配置。更曾經在大阪的皐月對流子一戰中以空中載具的方式支援皐月追上流子的鮮血疾風。
+        相較於前代，奏之裝 改把飛行器改為裝置在使用者背上，並縮減火力配置。更曾經在大阪的皐月對流子一戰中以空中載具的方式支援皐月追上流子的鮮血疾風。
 
 :;
 
@@ -442,8 +436,7 @@ __TOC__
 ### 鬼龍院財閥
 
   -
-    故事中為控制關東地區──實際上就是東日本一直至[北海道](../Page/北海道.md "wikilink")地區的龐大勢力，統領者為鬼龍院羅曉，其下的
-    Revocs 企業的服飾在全世界佔有龐大市場。
+    故事中為控制關東地區──實際上就是東日本一直至[北海道](../Page/北海道.md "wikilink")地區的龐大勢力，統領者為鬼龍院羅曉，其下的 Revocs 企業的服飾在全世界佔有龐大市場。
     為了實現羅曉的野心，其銷售的服飾內都含有極微量的生命戰維，藉此要來完成「天種繭星」。
 
 <!-- end list -->
@@ -451,16 +444,13 @@ __TOC__
   -
     皋月的母亲，同時也是Revocs企業的[CEO](https://zh.wikipedia.org/wiki/CEO "wikilink")。頭髮是[彩虹](../Page/彩虹.md "wikilink")色的，穿著天鵝般的羽毛裝。在故事開始之前便與生命戰維的本體有密不可分的關係。吸收鳳凰丸後，具有能夠完全支配並控制所有生命戰維的能力，就連心臟是生命戰維所構成的流子也不例外。
     在大文化體育祭時啟動了「本能字島生命戰維化計畫」，但遭到皋月暗地裡背叛並從背後偷襲，非但毫髮無傷，還反過來制服皐月。隨後在對抗流子以及皐月的戰役中將其雙雙擊倒，並且徒手穿破流子的胸口取出其心臟，包括自己在內的眾人這才發現流子也是生命戰維的一員，並且也是自己的次女。
-    為了完成地球生命戰維化的計畫而無所不用其極，具有壓倒性的單兵作戰能力以及不輸給疾風閃刃及旋風斬奸的速度和破壞力。最終目的是要打造出「」。之後更穿上纐纈，以壓倒性的優勢輕鬆應付鮮血及純潔。並在這之後以吸收縫所有生命戰維修復自身及與生命戰維火箭融合，以火箭前往宇宙並啟動
-    Revocs
-    企業的通信衛星喚醒全世界的生命戰維，完成「天種繭星」。最後被開眼的鮮血更衣擊倒，流子重新用衛星解除天種繭星，至此計畫完全失敗，最後自殺。
+    為了完成地球生命戰維化的計畫而無所不用其極，具有壓倒性的單兵作戰能力以及不輸給疾風閃刃及旋風斬奸的速度和破壞力。最終目的是要打造出「」。之後更穿上纐纈，以壓倒性的優勢輕鬆應付鮮血及純潔。並在這之後以吸收縫所有生命戰維修復自身及與生命戰維火箭融合，以火箭前往宇宙並啟動 Revocs 企業的通信衛星喚醒全世界的生命戰維，完成「天種繭星」。最後被開眼的鮮血更衣擊倒，流子重新用衛星解除天種繭星，至此計畫完全失敗，最後自殺。
     於故事開始前20年前在非洲獨身阻止內戰，並於此時收留鳳凰丸。
 
 <!-- end list -->
 
   -
-    參照主要角色
-    「[鬼龍院總一郎](https://zh.wikipedia.org/wiki/#鬼龍院總一郎／纏一身 "wikilink")」
+    參照主要角色 「[鬼龍院總一郎](https://zh.wikipedia.org/wiki/#鬼龍院總一郎／纏一身 "wikilink")」
 
 :; (中文讀法為纐ㄐㄧㄠˇ纈ㄒㄧㄝˋ)
 
@@ -489,8 +479,7 @@ __TOC__
 <!-- end list -->
 
   -
-    故事中期登場，是個金髮雙馬尾並且單眼用文字眼罩蓋住的少女。和流子及羅曉一樣，身體是由生命戰維組成,並在第二十四集和羅曉母女相稱，相信也是其女兒但不是一身的女兒
-    。與另兩人較為不同處是，縫是在原初生命戰維形成的擬似子宮中孕育誕生，並非是以改造的方式產生的半人類。
+    故事中期登場，是個金髮雙馬尾並且單眼用文字眼罩蓋住的少女。和流子及羅曉一樣，身體是由生命戰維組成,並在第二十四集和羅曉母女相稱，相信也是其女兒但不是一身的女兒 。與另兩人較為不同處是，縫是在原初生命戰維形成的擬似子宮中孕育誕生，並非是以改造的方式產生的半人類。
     事實上是殺了纏一身的兇手，本意是要阻止一身繼續對生命戰維的研究。在與纏一身的拼鬥中不慎被太刀剪劃瞎左眼，震怒之下取走一半的太刀剪並殺害一身，離去的身影被流子看見。但流子並未認出針目縫。
     甫一出場便以壓倒性的技術直接切斷「劍之裝 改」的絆糸使其被破壞。
     在大文化體育祭，於皐月叛變之後單獨對抗本能字四天王。並在這之後轉移戰線與流子對決。
@@ -533,13 +522,11 @@ __TOC__
 
 :;
 
-::
-安倍賀茂學園的南方守護，能夠使用結界投影出[朱雀的守護神來迷亂敵人](https://zh.wikipedia.org/wiki/朱雀 "wikilink")。
+:: 安倍賀茂學園的南方守護，能夠使用結界投影出[朱雀的守護神來迷亂敵人](https://zh.wikipedia.org/wiki/朱雀 "wikilink")。
 
 :;
 
-::
-安倍賀茂學園的東方守護，能夠使用結界投影出[青龍的守護神來迷亂敵人](https://zh.wikipedia.org/wiki/青龍 "wikilink")。
+:: 安倍賀茂學園的東方守護，能夠使用結界投影出[青龍的守護神來迷亂敵人](https://zh.wikipedia.org/wiki/青龍 "wikilink")。
 
 :;
 
@@ -649,10 +636,7 @@ __TOC__
   - 製作人：鳥羽洋典、真鍋義朗、遠藤哲哉、辻壯一、、鎌形英一、橋本龍
   - 動畫製作人：大塚雅彦、舛本和也
   - 動畫製作：[TRIGGER](../Page/TRIGGER.md "wikilink")
-  - 製作：[Aniplex](../Page/Aniplex.md "wikilink")、ULTRA SUPER
-    PICTURES、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[KADOKAWA](../Page/角川書店.md "wikilink")、Movic、LUCENT
-    PICTURES
-    ENTERTAINMENT、[MBS](https://zh.wikipedia.org/wiki/MBS "wikilink")
+  - 製作：[Aniplex](../Page/Aniplex.md "wikilink")、ULTRA SUPER PICTURES、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[KADOKAWA](../Page/角川書店.md "wikilink")、Movic、LUCENT PICTURES ENTERTAINMENT、[MBS](https://zh.wikipedia.org/wiki/MBS "wikilink")
 
 ### 主题曲
 
@@ -660,9 +644,7 @@ __TOC__
 
 :; 「」（第2話－第14話、第24話）
 
-::
-作詞：，作曲、編曲：[重永亮介](https://zh.wikipedia.org/wiki/重永亮介 "wikilink")（Ryosuke
-Shigenaga），演唱：[藍井艾露](../Page/藍井艾露.md "wikilink")
+:: 作詞：，作曲、編曲：[重永亮介](https://zh.wikipedia.org/wiki/重永亮介 "wikilink")（Ryosuke Shigenaga），演唱：[藍井艾露](../Page/藍井艾露.md "wikilink")
 
 :: 第1话、第15話及第25話（OVA）作为片尾曲使用。
 
@@ -671,8 +653,7 @@ Shigenaga），演唱：[藍井艾露](../Page/藍井艾露.md "wikilink")
   -
 
       -
-        作詞：meg
-        rock，作曲：[阿部尚徳](https://zh.wikipedia.org/wiki/阿部尚徳 "wikilink")，編曲、演唱：[GARNiDELiA](../Page/GARNiDELiA.md "wikilink")
+        作詞：meg rock，作曲：[阿部尚徳](https://zh.wikipedia.org/wiki/阿部尚徳 "wikilink")，編曲、演唱：[GARNiDELiA](../Page/GARNiDELiA.md "wikilink")
 
   - 片尾曲
 
@@ -687,8 +668,7 @@ Shigenaga），演唱：[藍井艾露](../Page/藍井艾露.md "wikilink")
   -
 
       -
-        作詞、作曲：[布川敏和](https://zh.wikipedia.org/wiki/布川敏和 "wikilink")，編曲：、324P、江口亮，
-        弦編曲：江口亮、石塚徹，演唱：
+        作詞、作曲：[布川敏和](https://zh.wikipedia.org/wiki/布川敏和 "wikilink")，編曲：、324P、江口亮， 弦編曲：江口亮、石塚徹，演唱：
 
 <!-- end list -->
 
@@ -700,8 +680,7 @@ Shigenaga），演唱：[藍井艾露](../Page/藍井艾露.md "wikilink")
 
 :; 「Before my body is dry」（第01話－第03話、第08話－第10話、第13話－第15話、第18話、第22話－第25話）
 
-:: 作詞：mpi 、David Whitaker，作曲：澤野弘之，演唱：[Mika
-Kobayashi](../Page/小林未郁.md "wikilink")
+:: 作詞：mpi 、David Whitaker，作曲：澤野弘之，演唱：[Mika Kobayashi](../Page/小林未郁.md "wikilink")
 
 :; 「Light your heart up」（第04話、第07話）
 
@@ -709,8 +688,7 @@ Kobayashi](../Page/小林未郁.md "wikilink")
 
 :; 「Blumenkranz」（花環）（第06話、第11話、第13話、第16話－第18話、第21話、第23話、第25話）
 
-::
-作詞：Rie，作曲、編曲：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink")，演唱：Cyua
+:: 作詞：Rie，作曲、編曲：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink")，演唱：Cyua
 
 :; 「Suck your blood」（第08話、第10話、第15話、第20話）
 
@@ -1089,8 +1067,7 @@ BS播放</p></td>
 此外與日本幾乎同步在網路播放的地區\[1\]。當地時間2013年10月4日至5日之間開始提供第1話，毎週在MBS播放後立即提供附字幕的串流影片。
 
   - Aniplex Channel - 美國
-  - [DAISUKI.net](https://zh.wikipedia.org/wiki/DAISUKI.net "wikilink")
-    - 東南亞、印度、中東等世界各地（除了英語圏與法語圏的某些國家）
+  - [DAISUKI.net](https://zh.wikipedia.org/wiki/DAISUKI.net "wikilink") - 東南亞、印度、中東等世界各地（除了英語圏與法語圏的某些國家）
   - [Hulu](../Page/Hulu.md "wikilink") - 美國
   - Madman - 澳洲、紐西蘭 - 週五 5:30 更新（澳洲東部標準時間）\[2\]
   - Anime Limited - 英國、冰島
@@ -1126,23 +1103,17 @@ BS播放</p></td>
 
 ## 遊戲
 
-[動作](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")[格鬥類遊戲](../Page/格鬥遊戲.md "wikilink")《KILL
-la KILL the GAME -異布-》（キルラキル ザ・ゲーム -異布-），由Aplus負責開發、[Arc System
-Works發行](../Page/Arc_System_Works.md "wikilink")，將推出[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")（[Steam](../Page/Steam.md "wikilink")）、[PlayStation
-4與](../Page/PlayStation_4.md "wikilink")[任天堂Switch](../Page/任天堂Switch.md "wikilink")版本，預定於2019年7月25日發售，\[4\]此外遊戲也將支援官方繁簡中文。\[5\]\[6\]
+[動作](https://zh.wikipedia.org/wiki/動作遊戲 "wikilink")[格鬥類遊戲](../Page/格鬥遊戲.md "wikilink")《KILL la KILL the GAME -異布-》（キルラキル ザ・ゲーム -異布-），由Aplus負責開發、[Arc System Works發行](../Page/Arc_System_Works.md "wikilink")，將推出[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")（[Steam](../Page/Steam.md "wikilink")）、[PlayStation 4與](../Page/PlayStation_4.md "wikilink")[任天堂Switch](../Page/任天堂Switch.md "wikilink")版本，預定於2019年7月25日發售，\[4\]此外遊戲也將支援官方繁簡中文。\[5\]\[6\]
 
 ## 參考資料
 
 ## 參考文獻
 
-  - [秋番「KILL la KILL」漫畫化決定，10月4日開始連載
-    動漫FANS](https://web.archive.org/web/20131014031743/http://www.dm123.cn/new/xf/2013-09-07/48114.html)
+  - [秋番「KILL la KILL」漫畫化決定，10月4日開始連載 動漫FANS](https://web.archive.org/web/20131014031743/http://www.dm123.cn/new/xf/2013-09-07/48114.html)
 
-  - [【動畫】KILL la KILL -
-    巴哈姆特](http://acg.gamer.com.tw/acgDetail.php?s=61658)
+  - [【動畫】KILL la KILL - 巴哈姆特](http://acg.gamer.com.tw/acgDetail.php?s=61658)
 
-  - [KILL la
-    KILL正版同步放送專題-樂視網](https://web.archive.org/web/20131014080135/http://comic.letv.com/zt/KLK/index.shtml)
+  - [KILL la KILL正版同步放送專題-樂視網](https://web.archive.org/web/20131014080135/http://comic.letv.com/zt/KLK/index.shtml)
 
 ## 外部連結
 
@@ -1152,13 +1123,7 @@ Works發行](../Page/Arc_System_Works.md "wikilink")，將推出[Windows](https:
 
   - [動畫官方Twitter](https://twitter.com/kill_la_kill)
 
-[Category:2013年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年TBS電視網動畫 "wikilink")
-[Category:Animeism](https://zh.wikipedia.org/wiki/Category:Animeism "wikilink")
-[Category:外星生命題材動畫](https://zh.wikipedia.org/wiki/Category:外星生命題材動畫 "wikilink")
-[Category:反烏托邦題材動畫](https://zh.wikipedia.org/wiki/Category:反烏托邦題材動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:血題材作品](https://zh.wikipedia.org/wiki/Category:血題材作品 "wikilink")
-[Category:不良少年及少女主角題材動畫](https://zh.wikipedia.org/wiki/Category:不良少年及少女主角題材動畫 "wikilink")
+[Category:2013年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年TBS電視網動畫 "wikilink") [Category:Animeism](https://zh.wikipedia.org/wiki/Category:Animeism "wikilink") [Category:外星生命題材動畫](https://zh.wikipedia.org/wiki/Category:外星生命題材動畫 "wikilink") [Category:反烏托邦題材動畫](https://zh.wikipedia.org/wiki/Category:反烏托邦題材動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:血題材作品](https://zh.wikipedia.org/wiki/Category:血題材作品 "wikilink") [Category:不良少年及少女主角題材動畫](https://zh.wikipedia.org/wiki/Category:不良少年及少女主角題材動畫 "wikilink")
 
 1.
 2.

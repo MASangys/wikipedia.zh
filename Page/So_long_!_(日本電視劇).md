@@ -1,21 +1,16 @@
-《**So long
-\!**》是[日本電視台](../Page/日本電視台.md "wikilink")[系列由](../Page/日本電視網協議會.md "wikilink")2013年2月11日至2月13日的3夜以連續形式播放的1話完結特別連續劇。
+《**So long \!**》是[日本電視台](../Page/日本電視台.md "wikilink")[系列由](../Page/日本電視網協議會.md "wikilink")2013年2月11日至2月13日的3夜以連續形式播放的1話完結特別連續劇。
 
 ## 概要
 
-  - 由[AKB48](../Page/AKB48.md "wikilink")的Team A（第1話）、Team K（第2話）、Team
-    B（第3話）的成員出演1話完結的電視劇3夜連續播放。
+  - 由[AKB48](../Page/AKB48.md "wikilink")的Team A（第1話）、Team K（第2話）、Team B（第3話）的成員出演1話完結的電視劇3夜連續播放。
   - 在「你會為AKB48哭泣嗎」的概念下，以喜悅的淚水、悲傷的淚水、憤怒的淚水、幸福的淚水等的故事構成。
-  - 第3夜播放後直播的《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》内利用[數碼播放](https://zh.wikipedia.org/wiki/數碼播放 "wikilink")，觀眾能進行投票選出「最好的作品」和「最好演技的成員」\[1\]。優勝隊伍能獲得2013年4月開始在日本電視台播放的由[福田雄一](../Page/福田雄一.md "wikilink")導演與編劇的[喜劇](../Page/喜劇.md "wikilink")作品演出權。投票的結果，最優秀女優賞是[島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")，最優秀作品賞是第3夜（Team
-    B），而作為優勝獎勵的，則是自4月13日開播的Team
-    B冠名綜藝節目《[週六夜兒童機器](../Page/週六夜兒童機器.md "wikilink")》（）。
+  - 第3夜播放後直播的《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》内利用[數碼播放](https://zh.wikipedia.org/wiki/數碼播放 "wikilink")，觀眾能進行投票選出「最好的作品」和「最好演技的成員」\[1\]。優勝隊伍能獲得2013年4月開始在日本電視台播放的由[福田雄一](../Page/福田雄一.md "wikilink")導演與編劇的[喜劇](../Page/喜劇.md "wikilink")作品演出權。投票的結果，最優秀女優賞是[島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")，最優秀作品賞是第3夜（Team B），而作為優勝獎勵的，則是自4月13日開播的Team B冠名綜藝節目《[週六夜兒童機器](../Page/週六夜兒童機器.md "wikilink")》（）。
 
 ## 角色
 
 ### 第1夜（Team A）
 
-  - **川上 双葉（かわかみ ふたば）** -
-    [渡邊麻友](../Page/渡邊麻友.md "wikilink")（2005年：[石井萌々果](https://zh.wikipedia.org/wiki/石井萌々果 "wikilink")）
+  - **川上 双葉（かわかみ ふたば）** - [渡邊麻友](../Page/渡邊麻友.md "wikilink")（2005年：[石井萌々果](https://zh.wikipedia.org/wiki/石井萌々果 "wikilink")）
 
 <!-- end list -->
 
@@ -42,8 +37,7 @@
 
 <!-- end list -->
 
-  - **古賀 茜（こが あかね）** -
-    [高橋みなみ](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")
+  - **古賀 茜（こが あかね）** - [高橋みなみ](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")
 
 <!-- end list -->
 
@@ -52,9 +46,7 @@
 
 <!-- end list -->
 
-  - **津田 朋絵（つだ ともえ）** -
-    [横山由依](https://zh.wikipedia.org/wiki/横山由依 "wikilink")（[NMB48](../Page/NMB48.md "wikilink")
-    Team N兼任）
+  - **津田 朋絵（つだ ともえ）** - [横山由依](https://zh.wikipedia.org/wiki/横山由依 "wikilink")（[NMB48](../Page/NMB48.md "wikilink") Team N兼任）
 
 <!-- end list -->
 
@@ -99,13 +91,9 @@
 
 #### 其他出演者
 
-  - Team
-    A：伊豆田莉奈、[岩田華怜](../Page/岩田華怜.md "wikilink")、[菊地あやか](https://zh.wikipedia.org/wiki/菊地あやか "wikilink")、[小谷里步](https://zh.wikipedia.org/wiki/小谷里步 "wikilink")（NMB48
-    Team
-    N兼任）、小林茉里奈、[佐藤すみれ](https://zh.wikipedia.org/wiki/佐藤すみれ "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")、[中塚智實](../Page/中塚智實.md "wikilink")、[仲俣汐里](https://zh.wikipedia.org/wiki/仲俣汐里 "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[松井咲子](../Page/松井咲子.md "wikilink")、森川彩香
+  - Team A：伊豆田莉奈、[岩田華怜](../Page/岩田華怜.md "wikilink")、[菊地あやか](https://zh.wikipedia.org/wiki/菊地あやか "wikilink")、[小谷里步](https://zh.wikipedia.org/wiki/小谷里步 "wikilink")（NMB48 Team N兼任）、小林茉里奈、[佐藤すみれ](https://zh.wikipedia.org/wiki/佐藤すみれ "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")、[中塚智實](../Page/中塚智實.md "wikilink")、[仲俣汐里](https://zh.wikipedia.org/wiki/仲俣汐里 "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[松井咲子](../Page/松井咲子.md "wikilink")、森川彩香
   - [西原信裕](../Page/西原信裕.md "wikilink")、[本橋由香](https://zh.wikipedia.org/wiki/本橋由香 "wikilink")、小島一華、米山実来、平田沙織（[東京シティ・バレエ団](https://zh.wikipedia.org/wiki/東京シティ・バレエ団 "wikilink")）、古藤舞（東京シティ・バレエ団）、松本佳織（東京シティ・バレエ団）
-  - [A-Team
-    academy](https://zh.wikipedia.org/wiki/A-Team_academy "wikilink")、オーシャンズ、グローバルエンターテインメントカレッジ
+  - [A-Team academy](https://zh.wikipedia.org/wiki/A-Team_academy "wikilink")、オーシャンズ、グローバルエンターテインメントカレッジ
 
 ### 第2夜（Team K）
 
@@ -118,9 +106,7 @@
 
 <!-- end list -->
 
-  - **倉林 翼（くらばやし つばさ）** -
-    [松井珠理奈](../Page/松井珠理奈.md "wikilink")（[SKE48](../Page/SKE48.md "wikilink")
-    Team S兼任）
+  - **倉林 翼（くらばやし つばさ）** - [松井珠理奈](../Page/松井珠理奈.md "wikilink")（[SKE48](../Page/SKE48.md "wikilink") Team S兼任）
 
 <!-- end list -->
 
@@ -129,8 +115,7 @@
 
 <!-- end list -->
 
-  - **岡島 亘（おかじま わたる）** -
-    [本鄉奏多](https://zh.wikipedia.org/wiki/本鄉奏多 "wikilink")
+  - **岡島 亘（おかじま わたる）** - [本鄉奏多](https://zh.wikipedia.org/wiki/本鄉奏多 "wikilink")
 
 <!-- end list -->
 
@@ -148,8 +133,7 @@
 
 <!-- end list -->
 
-  - **東 加奈子（ひがし かなこ）** - [北原里英](../Page/北原里英.md "wikilink")（SKE48 Team
-    S兼任）
+  - **東 加奈子（ひがし かなこ）** - [北原里英](../Page/北原里英.md "wikilink")（SKE48 Team S兼任）
 
 <!-- end list -->
 
@@ -167,8 +151,7 @@
 
 <!-- end list -->
 
-  - **倉林 淳子（くらばやし あつこ）** -
-    [高橋ひとみ](https://zh.wikipedia.org/wiki/高橋ひとみ "wikilink")
+  - **倉林 淳子（くらばやし あつこ）** - [高橋ひとみ](https://zh.wikipedia.org/wiki/高橋ひとみ "wikilink")
 
 <!-- end list -->
 
@@ -177,15 +160,13 @@
 
 #### 其他出演者
 
-  - Team
-    K：[秋元才加](../Page/秋元才加.md "wikilink")、[阿部マリア](https://zh.wikipedia.org/wiki/阿部マリア "wikilink")、[内田真由美](https://zh.wikipedia.org/wiki/内田真由美 "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[佐藤亞美菜](../Page/佐藤亞美菜.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[鈴木紫帆里](../Page/鈴木紫帆里.md "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")、[永尾まりや](https://zh.wikipedia.org/wiki/永尾まりや "wikilink")、[中田ちさと](https://zh.wikipedia.org/wiki/中田ちさと "wikilink")、[仲谷明香](../Page/仲谷明香.md "wikilink")、藤田奈那、[前田亞美](../Page/前田亞美.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[宮崎美穂](https://zh.wikipedia.org/wiki/宮崎美穂 "wikilink")
+  - Team K：[秋元才加](../Page/秋元才加.md "wikilink")、[阿部マリア](https://zh.wikipedia.org/wiki/阿部マリア "wikilink")、[内田真由美](https://zh.wikipedia.org/wiki/内田真由美 "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[佐藤亞美菜](../Page/佐藤亞美菜.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[鈴木紫帆里](../Page/鈴木紫帆里.md "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")、[永尾まりや](https://zh.wikipedia.org/wiki/永尾まりや "wikilink")、[中田ちさと](https://zh.wikipedia.org/wiki/中田ちさと "wikilink")、[仲谷明香](../Page/仲谷明香.md "wikilink")、藤田奈那、[前田亞美](../Page/前田亞美.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[宮崎美穂](https://zh.wikipedia.org/wiki/宮崎美穂 "wikilink")
   - 池田稔、[井上翔](https://zh.wikipedia.org/wiki/井上翔 "wikilink")、栗本有規、[紺野相龍](https://zh.wikipedia.org/wiki/紺野相龍 "wikilink")、畑芽育
   - A-Team academy、ウェスタ、グローバルエンターテインメントカレッジ
 
 ### 第3夜（Team B）
 
-  - **橋本 飛鳥（はしもと あすか）** -
-    [島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")
+  - **橋本 飛鳥（はしもと あすか）** - [島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")
 
 <!-- end list -->
 
@@ -194,8 +175,7 @@
 
 <!-- end list -->
 
-  - **神田 サキ（かんだ サキ）** - [渡邊美優紀](../Page/渡邊美優紀.md "wikilink")（NMB48 Team
-    N兼任）
+  - **神田 サキ（かんだ サキ）** - [渡邊美優紀](../Page/渡邊美優紀.md "wikilink")（NMB48 Team N兼任）
 
 <!-- end list -->
 
@@ -204,8 +184,7 @@
 
 <!-- end list -->
 
-  - **白坂 えりな（しらさか えりな）** -
-    [山内鈴蘭](https://zh.wikipedia.org/wiki/山内鈴蘭 "wikilink")
+  - **白坂 えりな（しらさか えりな）** - [山内鈴蘭](https://zh.wikipedia.org/wiki/山内鈴蘭 "wikilink")
 
 <!-- end list -->
 
@@ -214,8 +193,7 @@
 
 <!-- end list -->
 
-  - **島村 綾（しまむら あや）** -
-    [加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")
+  - **島村 綾（しまむら あや）** - [加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")
 
 <!-- end list -->
 
@@ -233,8 +211,7 @@
 
 <!-- end list -->
 
-  - **大久保 夏海（おおくぼ なつみ）** -
-    [竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")
+  - **大久保 夏海（おおくぼ なつみ）** - [竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")
 
 <!-- end list -->
 
@@ -243,8 +220,7 @@
 
 <!-- end list -->
 
-  - **渡瀬 美月（わたせ みつき）** -
-    [峯岸みなみ](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")\[2\]
+  - **渡瀬 美月（わたせ みつき）** - [峯岸みなみ](https://zh.wikipedia.org/wiki/峯岸みなみ "wikilink")\[2\]
 
 <!-- end list -->
 
@@ -280,8 +256,7 @@
 
 #### 其他出演者
 
-  - Team
-    B：[石田晴香](../Page/石田晴香.md "wikilink")、[市川美織](../Page/市川美織.md "wikilink")、[岩佐美咲](../Page/岩佐美咲.md "wikilink")、[大家志津香](../Page/大家志津香.md "wikilink")、[片山陽加](../Page/片山陽加.md "wikilink")、小嶋菜月、[小森美果](../Page/小森美果.md "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、名取稚菜、[野中美鄉](../Page/野中美鄉.md "wikilink")、[藤江れいな](https://zh.wikipedia.org/wiki/藤江れいな "wikilink")、AKB48研究生
+  - Team B：[石田晴香](../Page/石田晴香.md "wikilink")、[市川美織](../Page/市川美織.md "wikilink")、[岩佐美咲](../Page/岩佐美咲.md "wikilink")、[大家志津香](../Page/大家志津香.md "wikilink")、[片山陽加](../Page/片山陽加.md "wikilink")、小嶋菜月、[小森美果](../Page/小森美果.md "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、名取稚菜、[野中美鄉](../Page/野中美鄉.md "wikilink")、[藤江れいな](https://zh.wikipedia.org/wiki/藤江れいな "wikilink")、AKB48研究生
   - [朝倉えりか](https://zh.wikipedia.org/wiki/朝倉えりか "wikilink")
   - A-Team academy、OFFICE101、グローバルエンターテインメントカレッジ、ジャパンエンターテインメントアカデミー
 
@@ -312,9 +287,7 @@
 
 <!-- end list -->
 
-  - 「[So long
-    \!](https://zh.wikipedia.org/wiki/So_long_! "wikilink")」AKB48（[You,
-    Be Cool\! / KING RECORDS](../Page/You,_Be_Cool!.md "wikilink")）
+  - 「[So long \!](https://zh.wikipedia.org/wiki/So_long_! "wikilink")」AKB48（[You, Be Cool\! / KING RECORDS](../Page/You,_Be_Cool!.md "wikilink")）
 
 ## 播放電視台
 
@@ -491,22 +464,13 @@
 
 ## 相關項目
 
-  - [來自櫻花的信 ～AKB48
-    各自的畢業故事～](../Page/來自櫻花的信_～AKB48_各自的畢業故事～.md "wikilink")
+  - [來自櫻花的信 ～AKB48 各自的畢業故事～](../Page/來自櫻花的信_～AKB48_各自的畢業故事～.md "wikilink")
 
 ## 外部連結
 
   - [So long \! 官方網頁](http://www.ntv.co.jp/solong/)
 
-[Category:日本電視台特別劇集](https://zh.wikipedia.org/wiki/Category:日本電視台特別劇集 "wikilink")
-[Category:日本電視台深夜劇集](https://zh.wikipedia.org/wiki/Category:日本電視台深夜劇集 "wikilink")
-[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink")
-[Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink")
-[Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:大學背景電視劇](https://zh.wikipedia.org/wiki/Category:大學背景電視劇 "wikilink")
-[Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink")
-[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink")
+[Category:日本電視台特別劇集](https://zh.wikipedia.org/wiki/Category:日本電視台特別劇集 "wikilink") [Category:日本電視台深夜劇集](https://zh.wikipedia.org/wiki/Category:日本電視台深夜劇集 "wikilink") [Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink") [Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink") [Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:大學背景電視劇](https://zh.wikipedia.org/wiki/Category:大學背景電視劇 "wikilink") [Category:單元劇](https://zh.wikipedia.org/wiki/Category:單元劇 "wikilink") [Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink")
 
 1.  『AKBINGO\!』（日本電視台、新潟電視台）2013年2月6日播放、節目内告知。
 2.  播放前的2月1日降格至研究生。

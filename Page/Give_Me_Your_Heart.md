@@ -1,18 +1,8 @@
-**《Give Me Your Heart》**是韓國人氣男子組合
-[SS501](../Page/SS501.md "wikilink")成員[朴政珉](../Page/朴政珉.md "wikilink")（ROMEO），於2012年9月5日由[Victor
-Entertainment旗下Colourful](https://zh.wikipedia.org/wiki/:ja:ビクターエンタテインメント "wikilink")
-Records\[1\]所發行的首張個人日文單曲。
+**《Give Me Your Heart》**是韓國人氣男子組合 [SS501](../Page/SS501.md "wikilink")成員[朴政珉](../Page/朴政珉.md "wikilink")（ROMEO），於2012年9月5日由[Victor Entertainment旗下Colourful](https://zh.wikipedia.org/wiki/:ja:ビクターエンタテインメント "wikilink") Records\[1\]所發行的首張個人日文單曲。
 
 ## 單曲概述
 
-  - 本作為演唱者[朴政珉](../Page/朴政珉.md "wikilink")繼2011年5月25日於日本發行《[Wara Wara
-    THE, PARK
-    JUNGMIN](../Page/THE,_PARK_JUNGMIN_\(專輯\).md "wikilink")》日文專輯後睽違一年三個月發行的日文單曲\[2\]。是朴政珉以新人之姿另名**ROMEO**於日本發行的出道單曲，藝名是由日本大眾音樂評論家湯川れい子所賦予\[3\]，旨在將過去的成績都放下，以全新的心態出發。其普通盤封面為朴政珉戴上雕花面具後的模樣。此張單曲是由製作過[安室奈美惠](../Page/安室奈美惠.md "wikilink")和[西野加奈](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")、[黑木明紗](https://zh.wikipedia.org/wiki/黑木明紗 "wikilink")、[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")、[JUJU](../Page/JUJU.md "wikilink")等日本TOP歌手的頂尖音樂製作人Jeff
-    Miyahara與[UNIQLO創意總監亦是在日本作為代表性人物的藝術總監](https://zh.wikipedia.org/wiki/UNIQLO "wikilink")[田中敬之合作](https://zh.wikipedia.org/wiki/:ja:タナカノリユキ "wikilink")，和許多美國，德國，瑞典，台灣等各種各樣的國籍的作曲家\[4\]參與以及Yamaha
-    A\&R和Victor
-    Entertainment協助宣傳\[5\]的作品。並於2012年7月12日起於音樂銷售網進行預購\[6\]，分為初回限定盤A、初回限定盤B、普通盤，三種版本。三版本依版本不同收錄Give
-    Me Your Heart、DEVIL、Taste the
-    Fever等三首新曲。朴政珉於2012年8月7日接受Newsen採訪時回應對此單曲的心情：
+  - 本作為演唱者[朴政珉](../Page/朴政珉.md "wikilink")繼2011年5月25日於日本發行《[Wara Wara THE, PARK JUNGMIN](../Page/THE,_PARK_JUNGMIN_\(專輯\).md "wikilink")》日文專輯後睽違一年三個月發行的日文單曲\[2\]。是朴政珉以新人之姿另名**ROMEO**於日本發行的出道單曲，藝名是由日本大眾音樂評論家湯川れい子所賦予\[3\]，旨在將過去的成績都放下，以全新的心態出發。其普通盤封面為朴政珉戴上雕花面具後的模樣。此張單曲是由製作過[安室奈美惠](../Page/安室奈美惠.md "wikilink")和[西野加奈](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")、[黑木明紗](https://zh.wikipedia.org/wiki/黑木明紗 "wikilink")、[V6](https://zh.wikipedia.org/wiki/V6 "wikilink")、[JUJU](../Page/JUJU.md "wikilink")等日本TOP歌手的頂尖音樂製作人Jeff Miyahara與[UNIQLO創意總監亦是在日本作為代表性人物的藝術總監](https://zh.wikipedia.org/wiki/UNIQLO "wikilink")[田中敬之合作](https://zh.wikipedia.org/wiki/:ja:タナカノリユキ "wikilink")，和許多美國，德國，瑞典，台灣等各種各樣的國籍的作曲家\[4\]參與以及Yamaha A\&R和Victor Entertainment協助宣傳\[5\]的作品。並於2012年7月12日起於音樂銷售網進行預購\[6\]，分為初回限定盤A、初回限定盤B、普通盤，三種版本。三版本依版本不同收錄Give Me Your Heart、DEVIL、Taste the Fever等三首新曲。朴政珉於2012年8月7日接受Newsen採訪時回應對此單曲的心情：
 
 <!-- end list -->
 
@@ -39,18 +29,12 @@ Records\[1\]所發行的首張個人日文單曲。
 >
 > — 預告文字
 
-  - 本作於2012年4月4日透過ROMEO官方網站\[<https://web.archive.org/web/20120610202412/http://romeomidnight.com/>
-    [https://web.archive.org/web/20120610202412/http://romeomidnight.com/\]公開新人「ROMEO」前導預告](https://web.archive.org/web/20120610202412/http://romeomidnight.com/%5D公開新人「ROMEO」前導預告)\[8\]，隨後依下列日期時間逐步於該網站公開其餘預告片段。預告結束後畫面皆會呈現神秘的5.5
-    6.6 7.7 8.8
-    9.9與倒數計時等數字，提示著下次畫面出現的日期與時間。2012年5月5日公開第二版預告\[9\]\[10\]其預告文字如左圖所示。2012年6月6日公開第三版預告\[11\]\[12\]\[13\]\[14\]\[15\]，其文字內容與5月5日公開版本相同。其後6月29日起不再公開預告版本而是公告單曲公演、活動等內容。
+  - 本作於2012年4月4日透過ROMEO官方網站\[<https://web.archive.org/web/20120610202412/http://romeomidnight.com/> [https://web.archive.org/web/20120610202412/http://romeomidnight.com/\]公開新人「ROMEO」前導預告](https://web.archive.org/web/20120610202412/http://romeomidnight.com/%5D公開新人「ROMEO」前導預告)\[8\]，隨後依下列日期時間逐步於該網站公開其餘預告片段。預告結束後畫面皆會呈現神秘的5.5 6.6 7.7 8.8 9.9與倒數計時等數字，提示著下次畫面出現的日期與時間。2012年5月5日公開第二版預告\[9\]\[10\]其預告文字如左圖所示。2012年6月6日公開第三版預告\[11\]\[12\]\[13\]\[14\]\[15\]，其文字內容與5月5日公開版本相同。其後6月29日起不再公開預告版本而是公告單曲公演、活動等內容。
 
 ### 音樂錄影帶
 
-  - 2012年6月26日舞者在其Twitter留言擔任本作舞者並於該日出演Music
-    Video\[16\]，隔日6月27日另名舞者亦於其Twitter上傳MV拍攝相關照片並留下「Music
-    Video拍攝超過24小時..等」文字\[17\]。
-  - 2012年7月12日於『ROMEO 1st CONTACT』上先行公開「Give Me Your Heart」一分二十五秒的Music
-    Video預告。
+  - 2012年6月26日舞者在其Twitter留言擔任本作舞者並於該日出演Music Video\[16\]，隔日6月27日另名舞者亦於其Twitter上傳MV拍攝相關照片並留下「Music Video拍攝超過24小時..等」文字\[17\]。
+  - 2012年7月12日於『ROMEO 1st CONTACT』上先行公開「Give Me Your Heart」一分二十五秒的Music Video預告。
 
 <!-- end list -->
 
@@ -59,8 +43,7 @@ Records\[1\]所發行的首張個人日文單曲。
 
 <!-- end list -->
 
-  - 2012年8月8日於VictorMusicChannel官方YOUTUBE頻道公開「Give Me Your
-    Heart」一分三十八秒的短版Music Video。
+  - 2012年8月8日於VictorMusicChannel官方YOUTUBE頻道公開「Give Me Your Heart」一分三十八秒的短版Music Video。
 
 <!-- end list -->
 
@@ -69,12 +52,9 @@ Records\[1\]所發行的首張個人日文單曲。
 
 <!-- end list -->
 
-  - 2012年8月10日正式通過日本Space Shower TV、MUSIC ON\! TV等頻道公開「Give Me Your
-    Heart」四分三十七秒的完整版Music Video。
-  - 2012年9月4日通過VictorMusicChannel官方YOUTUBE頻道公開「Give Me Your
-    Heart」四分零八秒的官方完整版Music Video。
-      - 創意總監：Noriyuki Tanaka；導演：Moon Sang Joo；監製：Lee Sang Ho；造型：Like a
-        Yuki
+  - 2012年8月10日正式通過日本Space Shower TV、MUSIC ON\! TV等頻道公開「Give Me Your Heart」四分三十七秒的完整版Music Video。
+  - 2012年9月4日通過VictorMusicChannel官方YOUTUBE頻道公開「Give Me Your Heart」四分零八秒的官方完整版Music Video。
+      - 創意總監：Noriyuki Tanaka；導演：Moon Sang Joo；監製：Lee Sang Ho；造型：Like a Yuki
 
 | 歌名                 | 導演            | 首播日期      |
 | ------------------ | ------------- | --------- |
@@ -82,8 +62,7 @@ Records\[1\]所發行的首張個人日文單曲。
 
 ### 造型
 
-  - 本作於2012年7月12日透過日本音源網站公開單曲的首波概念照。在照片中朴政珉化身性感的ROMEO，呈現了他一貫給人的性感魅力形象。只在簡單的黑色背景下，卻打造了令人印象深刻的概念照。此外，朴政珉胸前大開V領搭配重搖滾的飾品及高貴的毛皮披風，與半遮面視覺系的妝容，特別的是在朴政珉手臂上展翅的老鷹，無不展現其成熟性感與霸性的風格。整體造型服飾皆由韓國品牌「Dominic's
-    way」提供。
+  - 本作於2012年7月12日透過日本音源網站公開單曲的首波概念照。在照片中朴政珉化身性感的ROMEO，呈現了他一貫給人的性感魅力形象。只在簡單的黑色背景下，卻打造了令人印象深刻的概念照。此外，朴政珉胸前大開V領搭配重搖滾的飾品及高貴的毛皮披風，與半遮面視覺系的妝容，特別的是在朴政珉手臂上展翅的老鷹，無不展現其成熟性感與霸性的風格。整體造型服飾皆由韓國品牌「Dominic's way」提供。
 
 ## 曲目
 
@@ -105,8 +84,7 @@ Records\[1\]所發行的首張個人日文單曲。
 >
 > —《Give Me Your Heart》歌詞摘錄</small>
 
-  - 全碟監製，作曲，鍵盤，編程，聲樂總監：[Jeff
-    Miyahara](https://zh.wikipedia.org/wiki/:en:Jeff_Miyahara "wikilink")
+  - 全碟監製，作曲，鍵盤，編程，聲樂總監：[Jeff Miyahara](https://zh.wikipedia.org/wiki/:en:Jeff_Miyahara "wikilink")
 
 ### 曲目介紹
 
@@ -116,14 +94,11 @@ Records\[1\]所發行的首張個人日文單曲。
 <!-- end list -->
 
 1.  Give Me Your Heart
-      - [TOKYO
-        MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")「韓流火鍋」9月份片尾曲。
+      - [TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")「韓流火鍋」9月份片尾曲。
 
 ## 成績
 
-7月神秘歌手“ROMEO”誕生並出現在日本舉行的『ROMEO 1st CONTACT』SHOWCASE
-LIVE上成為了熱門話題，迷人性感的“ROMEO”快速地佔據搜索網站排名。甚至單曲未被公佈前，在SHOWCASE
-LIVE上公開的音樂錄影帶和“ROMEO”一詞，早已傳遍日本、韓國，甚至蔓延至南美，歐洲，全球\[19\]。
+7月神秘歌手“ROMEO”誕生並出現在日本舉行的『ROMEO 1st CONTACT』SHOWCASE LIVE上成為了熱門話題，迷人性感的“ROMEO”快速地佔據搜索網站排名。甚至單曲未被公佈前，在SHOWCASE LIVE上公開的音樂錄影帶和“ROMEO”一詞，早已傳遍日本、韓國，甚至蔓延至南美，歐洲，全球\[19\]。
 
 ### 音源排名
 
@@ -217,10 +192,7 @@ LIVE上公開的音樂錄影帶和“ROMEO”一詞，早已傳遍日本、韓�
 
   - 2012年6月29日公布7月12日於東京新宿BLAZE舉辦444名額『ROMEO 1st CONTACT』公演內容\[30\]。
       - 2012年8月11日日本頻道DATV播出『ROMEO 1st CONTACT』Live現場。
-  - 2012年7月7日公布『REMEO 1st
-    SONG』活動消息，內容為7月12日當日零時零分起至二十三時五十九分止期限內於音源網下載「Give
-    Me Your Heart」一曲來電鈴聲三種版本的線上付費購買者就可以獲得『REMEO Original
-    待機圖像』作為禮物\[31\]。
+  - 2012年7月7日公布『REMEO 1st SONG』活動消息，內容為7月12日當日零時零分起至二十三時五十九分止期限內於音源網下載「Give Me Your Heart」一曲來電鈴聲三種版本的線上付費購買者就可以獲得『REMEO Original 待機圖像』作為禮物\[31\]。
 
 <!-- end list -->
 
@@ -228,18 +200,15 @@ LIVE上公開的音樂錄影帶和“ROMEO”一詞，早已傳遍日本、韓�
 
 <!-- end list -->
 
-  - 2012年7月26日公布9月29日於東京惠比壽LIQUIDROOM舉行兩場的『ROMEO 2nd
-    CONTACT』公演內容\[32\]\[33\]。9月27日公布周邊商品\[34\]。
-  - 2012年8月7日公布8月8日零時零分起至8月14日二十三時五十九分止限定一週內於[RecoChoku](../Page/RecoChoku.md "wikilink")音源網付費下載答鈴全曲目即得『REMEO
-    第二波特殊的待機圖像』。
+  - 2012年7月26日公布9月29日於東京惠比壽LIQUIDROOM舉行兩場的『ROMEO 2nd CONTACT』公演內容\[32\]\[33\]。9月27日公布周邊商品\[34\]。
+  - 2012年8月7日公布8月8日零時零分起至8月14日二十三時五十九分止限定一週內於[RecoChoku](../Page/RecoChoku.md "wikilink")音源網付費下載答鈴全曲目即得『REMEO 第二波特殊的待機圖像』。
   - 2012年9月4日公布音樂網站ROME情報
       - WOWOW「MUSIC BREAK」
           - <http://www.wowow.co.jp/music/mb/>
       - BARKS
           - <https://web.archive.org/web/20120622074953/http://www.barks.jp//news/?id=1000078378>
       - GyaO
-          - 9月5日起免費視頻發布網「GyaO\[ギャオ\]」【韓流】部門、ROMEO 1st SINGLE 「Give Me
-            Your Heart」完整版M/V發布。
+          - 9月5日起免費視頻發布網「GyaO\[ギャオ\]」【韓流】部門、ROMEO 1st SINGLE 「Give Me Your Heart」完整版M/V發布。
   - 2012年9月7日公布ROMEO官方FAN CLUB開通信息
       - 9月9日（日） 19：19
       - <https://web.archive.org/web/20120610202412/http://romeomidnight.com/>
@@ -323,30 +292,23 @@ LIVE上公開的音樂錄影帶和“ROMEO”一詞，早已傳遍日本、韓�
 
 ## 外部連結
 
-  - [Victor Entertainment
-    ROMEO日本官方網站](https://web.archive.org/web/20121230231516/http://www.jvcmusic.co.jp/-/Profile/A024089.html)
+  - [Victor Entertainment ROMEO日本官方網站](https://web.archive.org/web/20121230231516/http://www.jvcmusic.co.jp/-/Profile/A024089.html)
 
   - [ROMEO日本官方網站](http://romeomidnight.com/index.asp)
 
   - [ROMEO日本官方Facebook粉絲專頁](http://www.facebook.com/Romeonightmare)
 
-  - [ROMEO official YouTube
-    Channel](http://www.youtube.com/user/Romeonightmare?feature=watch)
+  - [ROMEO official YouTube Channel](http://www.youtube.com/user/Romeonightmare?feature=watch)
 
-  - [ROMEO iTunes
-    Store](http://itunes.apple.com/jp/album/tonights-the-night-single/id569750398)
+  - [ROMEO iTunes Store](http://itunes.apple.com/jp/album/tonights-the-night-single/id569750398)
 
-  - [ROMEO 2nd CONTACT
-    官方寫真](http://www.facebook.com/media/set/?set=a.154088634734134.40856.121765664633098&type=1&l=be8e041d2d)
+  - [ROMEO 2nd CONTACT 官方寫真](http://www.facebook.com/media/set/?set=a.154088634734134.40856.121765664633098&type=1&l=be8e041d2d)
 
-[Category:朴政珉歌曲](https://zh.wikipedia.org/wiki/Category:朴政珉歌曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:勝利娛樂歌曲](https://zh.wikipedia.org/wiki/Category:勝利娛樂歌曲 "wikilink")
+[Category:朴政珉歌曲](https://zh.wikipedia.org/wiki/Category:朴政珉歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:勝利娛樂歌曲](https://zh.wikipedia.org/wiki/Category:勝利娛樂歌曲 "wikilink")
 
 1.
 
-2.  因在出演的台灣偶像劇《[翻糖花園](../Page/翻糖花園.md "wikilink")》播映期間爆發經紀合約官司（2012年4月12日朴政珉向首爾中央地方法院對其所屬經紀公司CNR
-    Media提出停止合約效力處分，7月30日獲判勝訴），而推遲至今發行的單曲
+2.  因在出演的台灣偶像劇《[翻糖花園](../Page/翻糖花園.md "wikilink")》播映期間爆發經紀合約官司（2012年4月12日朴政珉向首爾中央地方法院對其所屬經紀公司CNR Media提出停止合約效力處分，7月30日獲判勝訴），而推遲至今發行的單曲
 
 3.
 
@@ -371,8 +333,7 @@ LIVE上公開的音樂錄影帶和“ROMEO”一詞，早已傳遍日本、韓�
 
 14.
 
-15. 畫面公開限定為6月6日開始至6月8日時間00：00：00"，01：01：01"，02：02：02"，03：03：03"，04：04：04"，05：05：05"，06：06：06"，07：07：07"，08：08：08"，09：09：09"，10：10：10"，11：11：11"，12：12：12"，13：13：13"，14：14：14"，15：15：15"，16：16：16"，17：17：17"，18：18：18"，19：19：19"，20：20：20"，21：21：21"，22：22：22"，23：23：23"
-    播放
+15. 畫面公開限定為6月6日開始至6月8日時間00：00：00"，01：01：01"，02：02：02"，03：03：03"，04：04：04"，05：05：05"，06：06：06"，07：07：07"，08：08：08"，09：09：09"，10：10：10"，11：11：11"，12：12：12"，13：13：13"，14：14：14"，15：15：15"，16：16：16"，17：17：17"，18：18：18"，19：19：19"，20：20：20"，21：21：21"，22：22：22"，23：23：23" 播放
 
 16.
 
@@ -400,9 +361,7 @@ LIVE上公開的音樂錄影帶和“ROMEO”一詞，早已傳遍日本、韓�
 
 28.
 
-29. ["Archive 2012: Past
-    Winners"](http://awards.so-loved.net/de/?id=archive&k=archive_2012)
-    *So-Loved Awards*. Retrieved 2012-12-08.
+29. ["Archive 2012: Past Winners"](http://awards.so-loved.net/de/?id=archive&k=archive_2012)  *So-Loved Awards*. Retrieved 2012-12-08.
 
 30.
 

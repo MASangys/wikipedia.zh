@@ -43,7 +43,4 @@
 
 ## 過去的軍團長
 
-[Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
-[Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")
-[Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink")
-[Category:AKB48家族題材作品](https://zh.wikipedia.org/wiki/Category:AKB48家族題材作品 "wikilink")
+[Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink") [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink") [Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink") [Category:AKB48家族題材作品](https://zh.wikipedia.org/wiki/Category:AKB48家族題材作品 "wikilink")

@@ -11,8 +11,7 @@
 
 #### 醫療團隊
 
-  - **波多野卓巳（29）**　[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")（[嵐](../Page/嵐.md "wikilink")）
-    飾
+  - **波多野卓巳（29）**　[相葉雅紀](https://zh.wikipedia.org/wiki/相葉雅紀 "wikilink")（[嵐](../Page/嵐.md "wikilink")） 飾
     （2歲：[關口在](https://zh.wikipedia.org/wiki/關口在 "wikilink")／6歲：[須田瑛斗](https://zh.wikipedia.org/wiki/須田瑛斗 "wikilink")／10歲：[藤本飛龍](https://zh.wikipedia.org/wiki/藤本飛龍 "wikilink")／14歲：[石橋樹](https://zh.wikipedia.org/wiki/石橋樹 "wikilink")）
 
 <!-- end list -->
@@ -23,8 +22,7 @@
 
 <!-- end list -->
 
-  - **橘 步美（27）**　[多部未華子](../Page/多部未華子.md "wikilink")
-    飾　（少女：[武智惠美](https://zh.wikipedia.org/wiki/武智惠美 "wikilink")）
+  - **橘 步美（27）**　[多部未華子](../Page/多部未華子.md "wikilink") 飾　（少女：[武智惠美](https://zh.wikipedia.org/wiki/武智惠美 "wikilink")）
 
 <!-- end list -->
 
@@ -46,8 +44,7 @@
 
 <!-- end list -->
 
-  - **荻原雪代（29）**　[小池榮子](https://zh.wikipedia.org/wiki/小池榮子 "wikilink")
-    飾　（少女：[山谷花純](../Page/山谷花純.md "wikilink")）
+  - **荻原雪代（29）**　[小池榮子](https://zh.wikipedia.org/wiki/小池榮子 "wikilink") 飾　（少女：[山谷花純](../Page/山谷花純.md "wikilink")）
 
 <!-- end list -->
 
@@ -57,8 +54,7 @@
 
 <!-- end list -->
 
-  - **副島雅臣（33）**　[北村有起哉](https://zh.wikipedia.org/wiki/北村有起哉 "wikilink")
-    飾　（幼年：[後藤亮太](https://zh.wikipedia.org/wiki/後藤亮太 "wikilink")）
+  - **副島雅臣（33）**　[北村有起哉](https://zh.wikipedia.org/wiki/北村有起哉 "wikilink") 飾　（幼年：[後藤亮太](https://zh.wikipedia.org/wiki/後藤亮太 "wikilink")）
 
 <!-- end list -->
 
@@ -182,8 +178,7 @@
 
 <!-- end list -->
 
-  - **波多野佑香**　[相葉香凛](https://zh.wikipedia.org/wiki/相葉香凛 "wikilink")
-    飾　（2歲：[米谷澪](https://zh.wikipedia.org/wiki/米谷澪 "wikilink")）
+  - **波多野佑香**　[相葉香凛](https://zh.wikipedia.org/wiki/相葉香凛 "wikilink") 飾　（2歲：[米谷澪](https://zh.wikipedia.org/wiki/米谷澪 "wikilink")）
 
 <!-- end list -->
 
@@ -192,8 +187,7 @@
 
 <!-- end list -->
 
-  - **齊藤健司**　[神尾佑](https://zh.wikipedia.org/wiki/神尾佑 "wikilink") 飾 ／
-    **齊藤仁美**　[露島麗香](https://zh.wikipedia.org/wiki/露島麗香 "wikilink") 飾
+  - **齊藤健司**　[神尾佑](https://zh.wikipedia.org/wiki/神尾佑 "wikilink") 飾 ／ **齊藤仁美**　[露島麗香](https://zh.wikipedia.org/wiki/露島麗香 "wikilink") 飾
 
 <!-- end list -->
 
@@ -202,8 +196,7 @@
 
 <!-- end list -->
 
-  - **齊藤 健**　[高橋一生](../Page/高橋一生.md "wikilink")
-    飾　（13歲：[川崎慎吾](https://zh.wikipedia.org/wiki/川崎慎吾 "wikilink")／5歲：[吉田騎士](https://zh.wikipedia.org/wiki/吉田騎士 "wikilink")）
+  - **齊藤 健**　[高橋一生](../Page/高橋一生.md "wikilink") 飾　（13歲：[川崎慎吾](https://zh.wikipedia.org/wiki/川崎慎吾 "wikilink")／5歲：[吉田騎士](https://zh.wikipedia.org/wiki/吉田騎士 "wikilink")）
   - **橘 佐和子**　[ちはる](https://zh.wikipedia.org/wiki/ちはる "wikilink") 飾
 
 <!-- end list -->
@@ -222,8 +215,7 @@
 
 <!-- end list -->
 
-  - **荻原津奈**　[山下容莉枝](https://zh.wikipedia.org/wiki/山下容莉枝 "wikilink") 飾 ／
-    **荻原康晴**　[三上市朗](https://zh.wikipedia.org/wiki/三上市朗 "wikilink") 飾
+  - **荻原津奈**　[山下容莉枝](https://zh.wikipedia.org/wiki/山下容莉枝 "wikilink") 飾 ／ **荻原康晴**　[三上市朗](https://zh.wikipedia.org/wiki/三上市朗 "wikilink") 飾
 
 <!-- end list -->
 
@@ -268,8 +260,7 @@
 
 <!-- end list -->
 
-  - **古牧貴枝**　[神野美紀](https://zh.wikipedia.org/wiki/神野美紀 "wikilink") 飾 ／
-    **古牧聰史**　[高橋幸聖](https://zh.wikipedia.org/wiki/高橋幸聖 "wikilink") 飾
+  - **古牧貴枝**　[神野美紀](https://zh.wikipedia.org/wiki/神野美紀 "wikilink") 飾 ／ **古牧聰史**　[高橋幸聖](https://zh.wikipedia.org/wiki/高橋幸聖 "wikilink") 飾
 
 <!-- end list -->
 
@@ -359,21 +350,17 @@
 
 **HOPE-09 - HOPE-11**
 
-  - **町田恭一郎（60）**　[中原丈雄](https://zh.wikipedia.org/wiki/中原丈雄 "wikilink")
-    飾
+  - **町田恭一郎（60）**　[中原丈雄](https://zh.wikipedia.org/wiki/中原丈雄 "wikilink") 飾
   - **町田惠介**　[石田卓也](../Page/石田卓也.md "wikilink") 飾
   - **町田真一**　[要潤](../Page/要潤.md "wikilink") 飾
-  - **町田由美**　[高田和加子](https://zh.wikipedia.org/wiki/高田和加子 "wikilink") 飾 ／
-    **町田翔太**　[山崎雄大](https://zh.wikipedia.org/wiki/山崎雄大 "wikilink") 飾
-    （第10、11集）
+  - **町田由美**　[高田和加子](https://zh.wikipedia.org/wiki/高田和加子 "wikilink") 飾 ／ **町田翔太**　[山崎雄大](https://zh.wikipedia.org/wiki/山崎雄大 "wikilink") 飾 （第10、11集）
 
 ## 製作團隊
 
   - 劇本：濱田秀哉
   - 音樂：Ken Arai
   - 導演：葉山裕記、石井祐介、谷村雅樹
-  - 主題曲：[嵐](../Page/嵐.md "wikilink")《[Calling](https://zh.wikipedia.org/wiki/Calling/Breathless "wikilink")》（[J
-    Storm](../Page/J_Storm.md "wikilink")）
+  - 主題曲：[嵐](../Page/嵐.md "wikilink")《[Calling](https://zh.wikipedia.org/wiki/Calling/Breathless "wikilink")》（[J Storm](../Page/J_Storm.md "wikilink")）
   - 助理導演：相澤秀幸
   - CG製作：富士川祐輔
   - CG設計：三塚篤
@@ -566,9 +553,6 @@
 
 ## 電視節目的變遷
 
-[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink")
-[Category:富士電視台週二晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週二晚間九點連續劇 "wikilink")
-[Category:日本醫學劇](https://zh.wikipedia.org/wiki/Category:日本醫學劇 "wikilink")
-[Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink")
+[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink") [Category:富士電視台週二晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週二晚間九點連續劇 "wikilink") [Category:日本醫學劇](https://zh.wikipedia.org/wiki/Category:日本醫學劇 "wikilink") [Category:醫生主角題材電視劇](https://zh.wikipedia.org/wiki/Category:醫生主角題材電視劇 "wikilink")
 
 1.  「今井」的日文發音為「IMAI」，而「麻衣」則是「MAI」，因此兩者若合起來唸，就是「IMAIMAI」。

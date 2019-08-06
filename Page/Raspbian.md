@@ -6,8 +6,7 @@
 
   - [树莓派](../Page/树莓派.md "wikilink")
 
-[Category:ARM_操作系统](https://zh.wikipedia.org/wiki/Category:ARM_操作系统 "wikilink")
-[Category:Debian](https://zh.wikipedia.org/wiki/Category:Debian "wikilink")
+[Category:ARM_操作系统](https://zh.wikipedia.org/wiki/Category:ARM_操作系统 "wikilink") [Category:Debian](https://zh.wikipedia.org/wiki/Category:Debian "wikilink")
 
 1.
 2.

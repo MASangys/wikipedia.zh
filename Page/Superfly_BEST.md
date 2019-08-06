@@ -1,13 +1,10 @@
-《**Superfly
-BEST**》為[日本](../Page/日本.md "wikilink")歌手[Superfly](../Page/Superfly.md "wikilink")於2013年9月25日發行的首張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
+《**Superfly BEST**》為[日本](../Page/日本.md "wikilink")歌手[Superfly](../Page/Superfly.md "wikilink")於2013年9月25日發行的首張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 
 ## 簡介
 
   - 本專輯為Superfly首次發行精選輯，收錄自出道以來的單曲，初回限定盤DVD收錄單曲的音樂錄影帶。
-  - 新曲〈Bi-Li-Li
-    Emotion〉是繼〈[Force](../Page/Force_\(Superfly單曲\).md "wikilink")〉之後再次搭配上[朝日電視台](../Page/朝日電視台.md "wikilink")連續劇《[Doctor-X～外科醫·大門未知子～](https://zh.wikipedia.org/wiki/Doctor-X～外科醫·大門未知子～ "wikilink")》主題曲\[1\]。
-  - 專輯收錄的三首新曲各有含意，〈Always〉代表「過去」、〈Bi-Li-Li
-    Emotion〉代表「現在」、〈StartingOver〉代表「未來」\[2\]。
+  - 新曲〈Bi-Li-Li Emotion〉是繼〈[Force](../Page/Force_\(Superfly單曲\).md "wikilink")〉之後再次搭配上[朝日電視台](../Page/朝日電視台.md "wikilink")連續劇《[Doctor-X～外科醫·大門未知子～](https://zh.wikipedia.org/wiki/Doctor-X～外科醫·大門未知子～ "wikilink")》主題曲\[1\]。
+  - 專輯收錄的三首新曲各有含意，〈Always〉代表「過去」、〈Bi-Li-Li Emotion〉代表「現在」、〈StartingOver〉代表「未來」\[2\]。
 
 ## 發行版本
 
@@ -48,16 +45,14 @@ BEST**》為[日本](../Page/日本.md "wikilink")歌手[Superfly](../Page/Super
 2.  Roll Over The Rainbow
 3.  Eyes On Me
 4.  [Beep\!\!](https://zh.wikipedia.org/wiki/Beep!!/Sunshine_Sunshine "wikilink")
-5.  [Sunshine
-    Sunshine](https://zh.wikipedia.org/wiki/Beep!!/Sunshine_Sunshine "wikilink")
+5.  [Sunshine Sunshine](https://zh.wikipedia.org/wiki/Beep!!/Sunshine_Sunshine "wikilink")
 6.  [Rollin' Days](../Page/Rollin'_Days.md "wikilink")
 7.  [啊](https://zh.wikipedia.org/wiki/啊_\(Superfly單曲\) "wikilink")（）
 8.  品味愛（）
 9.  飄零的旅人（）
 10. STARS (Superfly＆トータス松本)
 11. [如明月一般](https://zh.wikipedia.org/wiki/如明月一般/The_Bird_Without_Wings "wikilink")（）
-12. [The Bird Without
-    Wings](https://zh.wikipedia.org/wiki/如明月一般/The_Bird_Without_Wings "wikilink")
+12. [The Bird Without Wings](https://zh.wikipedia.org/wiki/如明月一般/The_Bird_Without_Wings "wikilink")
 13. [Force](../Page/Force_\(Superfly單曲\).md "wikilink")
 14. Starting Over【新曲】
       -
@@ -102,8 +97,7 @@ BEST**》為[日本](../Page/日本.md "wikilink")歌手[Superfly](../Page/Super
 
 [Superfly官方網站](http://www.superfly-web.com/)
 
-[分類:2013年音樂專輯](https://zh.wikipedia.org/wiki/分類:2013年音樂專輯 "wikilink")
-[分類:Superfly音樂專輯](https://zh.wikipedia.org/wiki/分類:Superfly音樂專輯 "wikilink")
+[分類:2013年音樂專輯](https://zh.wikipedia.org/wiki/分類:2013年音樂專輯 "wikilink") [分類:Superfly音樂專輯](https://zh.wikipedia.org/wiki/分類:Superfly音樂專輯 "wikilink")
 
 [Category:2013年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯週榜冠軍作品 "wikilink")
 

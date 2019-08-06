@@ -13,10 +13,8 @@
 
 ## 歷史
 
-  - 1991年3月28日 -
-    [松山自動車道](../Page/松山自動車道.md "wikilink")伊予西條IC至[土居IC之間開通](https://zh.wikipedia.org/wiki/土居IC "wikilink")，此交流道也同時啟用。
-  - 1994年11月16日 -
-    松山自動車道[川內IC至伊予西條IC之間開通](https://zh.wikipedia.org/wiki/川內IC "wikilink")。
+  - 1991年3月28日 - [松山自動車道](../Page/松山自動車道.md "wikilink")伊予西條IC至[土居IC之間開通](https://zh.wikipedia.org/wiki/土居IC "wikilink")，此交流道也同時啟用。
+  - 1994年11月16日 - 松山自動車道[川內IC至伊予西條IC之間開通](https://zh.wikipedia.org/wiki/川內IC "wikilink")。
 
 ## 交流道周邊
 
@@ -27,10 +25,7 @@
 ## 鄰近設施
 
   - [松山自動車道](../Page/松山自動車道.md "wikilink")
-    (9)[新居濱IC](https://zh.wikipedia.org/wiki/新居濱IC "wikilink") -
-    (10)**伊予西條IC** -
-    [石鎚山SA](https://zh.wikipedia.org/wiki/石鎚山SA "wikilink")
-    - (11)[伊予小松JCT/IC](https://zh.wikipedia.org/wiki/伊予小松JCT "wikilink")
+    (9)[新居濱IC](https://zh.wikipedia.org/wiki/新居濱IC "wikilink") - (10)**伊予西條IC** - [石鎚山SA](https://zh.wikipedia.org/wiki/石鎚山SA "wikilink") - (11)[伊予小松JCT/IC](https://zh.wikipedia.org/wiki/伊予小松JCT "wikilink")
 
 ## 相關項目
 
@@ -40,5 +35,4 @@
 
   - [西日本高速道路](http://www.w-nexco.co.jp/)
 
-[Category:日本交流道_I](https://zh.wikipedia.org/wiki/Category:日本交流道_I "wikilink")
-[Category:愛媛縣交流道](https://zh.wikipedia.org/wiki/Category:愛媛縣交流道 "wikilink")
+[Category:日本交流道_I](https://zh.wikipedia.org/wiki/Category:日本交流道_I "wikilink") [Category:愛媛縣交流道](https://zh.wikipedia.org/wiki/Category:愛媛縣交流道 "wikilink")

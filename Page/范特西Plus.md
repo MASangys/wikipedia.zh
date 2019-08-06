@@ -5,5 +5,4 @@
 ## 外部連結
 
   -
-[Category:2001年迷你專輯](https://zh.wikipedia.org/wiki/Category:2001年迷你專輯 "wikilink")
-[Category:周杰倫音樂專輯](https://zh.wikipedia.org/wiki/Category:周杰倫音樂專輯 "wikilink")
+[Category:2001年迷你專輯](https://zh.wikipedia.org/wiki/Category:2001年迷你專輯 "wikilink") [Category:周杰倫音樂專輯](https://zh.wikipedia.org/wiki/Category:周杰倫音樂專輯 "wikilink")

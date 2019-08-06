@@ -30,32 +30,19 @@
 
 ## 使用國
 
-  -   - [Armén_vapen_bra.svg](https://zh.wikipedia.org/wiki/File:Armén_vapen_bra.svg "fig:Armén_vapen_bra.svg")
-        [瑞典國防軍](../Page/瑞典國防軍.md "wikilink")
-      - [Försvarsmaktens_specialförband.svg](https://zh.wikipedia.org/wiki/File:Försvarsmaktens_specialförband.svg "fig:Försvarsmaktens_specialförband.svg")
-        [特戰任務組](https://zh.wikipedia.org/wiki/瑞典特戰任務組 "wikilink")
+  -   - [Armén_vapen_bra.svg](https://zh.wikipedia.org/wiki/File:Armén_vapen_bra.svg "fig:Armén_vapen_bra.svg") [瑞典國防軍](../Page/瑞典國防軍.md "wikilink")
+      - [Försvarsmaktens_specialförband.svg](https://zh.wikipedia.org/wiki/File:Försvarsmaktens_specialförband.svg "fig:Försvarsmaktens_specialförband.svg") [特戰任務組](https://zh.wikipedia.org/wiki/瑞典特戰任務組 "wikilink")
 
   -
 ## 流行文化
 
 ### [電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")
 
-  - 2013年—《[-{zh-hans:战地4;
-    zh-hant:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
-    4）：命名為「CBJ-MS」（中文版則命名為「CBJ-MS衝鋒槍」），發射[6.5×25毫米CBJ](../Page/6.5×25mm_CBJ-MS.md "wikilink")[子彈](../Page/子彈.md "wikilink")，綠色槍身，造型上裝有[前握把](../Page/輔助握把.md "wikilink")，50+1發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為90發（故事模式）。單人模式之中於完成「揭開序幕」（Baku）戰役後解鎖並且可被[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")精英小隊「墓碑」隊長丹尼爾·雷克（Daniel
-    Recker）所使用；多人聯機模式時為「工程兵」（Engineer）的解鎖武器包武器之一，於達到19,000點個人防衛武器得分時才能解鎖，被歸類為[個人防衛武器](../Page/個人防衛武器.md "wikilink")，並可以使用[反射式](../Page/紅點鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[制動器](../Page/砲口制動器.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、、[消音器](../Page/抑制器.md "wikilink")、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[重型槍管以及七件戰鬥包附件](../Page/槍管.md "wikilink")（FLIR（紅外線放大2倍）、稜鏡（放大3.4倍）、JGM-4（放大4倍）、土狼、、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[LS06消音器](../Page/長風衝鋒槍.md "wikilink")、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射、HD-33當中之七）。
-  - 2013年—《[-{zh-cn:使命召唤：幽灵;
-    zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》（Call
-    of Duty:
-    Ghosts）：命名為「CBJ-MS」，綠色槍身，造型上裝有[前握把](../Page/輔助握把.md "wikilink")，32發（故事模式及滅絕模式）和34發（聯機模式，可使用改裝：延長彈匣增至51發）[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為68發（聯機模式）和96發（滅絕模式），最高攜彈量為224發（故事模式）、204發（聯機模式）和256發（滅絕模式），內置[穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")（聯機模式中描述為發射定制[钨](../Page/钨.md "wikilink")[彈頭](../Page/彈頭.md "wikilink")）。故事模式之中被敵軍「聯邦」（Federation）所使用；聯機模式時可以使用[紅點鏡](../Page/紅點鏡.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、、[可變倍率反射式瞄準鏡](https://zh.wikipedia.org/wiki/望遠鏡放大倍數 "wikilink")、[熱能探測混合式瞄準鏡](../Page/热能.md "wikilink")、追踪器瞄準鏡、、[消音器](../Page/抑制器.md "wikilink")、[槍口制退器](../Page/砲口制動器.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、射速增加；滅絕模式時以1,500點取得。
-  - 2014年—《[幽靈行動：魅影](../Page/幽靈行動：魅影.md "wikilink")》（Tom Clancy's Ghost
-    Recon Phantoms）：命名為“CBJ-MS”，30發彈匣（使用延長彈匣後增至100發），攜彈量為180發。
-  - 2014年—《[-{zh-cn:使命召唤：高级战争;
-    zh-tw:決勝時刻：先進戰爭;}-](../Page/使命召唤：高级战争.md "wikilink")》（Call
-    of Duty: Advanced
-    Warfare）：只在聯機模式中出現，以本槍為藍本，命名為「MP11」，白色和黑色槍身，32發（聯機模式可使用技能：延長彈匣增至48發）[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為96發（聯機模式），最高攜彈量為192發（聯機模式）。可以使用[紅點鏡](../Page/紅點鏡.md "wikilink")、混合式瞄準鏡、[自动对焦](../Page/自动对焦.md "wikilink")瞄準鏡、[目標增強瞄準鏡](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")、[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[前握把](https://zh.wikipedia.org/wiki/前握把 "wikilink")、[槍托](../Page/槍托.md "wikilink")、追踪器、先進[膛線](../Page/膛線.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、射速增加、[消音器](../Page/抑制器.md "wikilink")、[抛物线](../Page/抛物线.md "wikilink")[麦克](https://zh.wikipedia.org/wiki/麦克 "wikilink")、快速抽出握把。
-  - 2018年—《[少女前线](../Page/少女前线.md "wikilink")》（Girls
-    Frontline）：以战术人形的姿态出现，命名为“C-MS”，归类为5星级SMG。
+  - 2013年—《[-{zh-hans:战地4; zh-hant:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield 4）：命名為「CBJ-MS」（中文版則命名為「CBJ-MS衝鋒槍」），發射[6.5×25毫米CBJ](../Page/6.5×25mm_CBJ-MS.md "wikilink")[子彈](../Page/子彈.md "wikilink")，綠色槍身，造型上裝有[前握把](../Page/輔助握把.md "wikilink")，50+1發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為90發（故事模式）。單人模式之中於完成「揭開序幕」（Baku）戰役後解鎖並且可被[美国海军陆战队](../Page/美国海军陆战队.md "wikilink")精英小隊「墓碑」隊長丹尼爾·雷克（Daniel Recker）所使用；多人聯機模式時為「工程兵」（Engineer）的解鎖武器包武器之一，於達到19,000點個人防衛武器得分時才能解鎖，被歸類為[個人防衛武器](../Page/個人防衛武器.md "wikilink")，並可以使用[反射式](../Page/紅點鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[制動器](../Page/砲口制動器.md "wikilink")、[M145](https://zh.wikipedia.org/wiki/C79光學瞄準鏡#M145機槍用光學瞄準鏡 "wikilink")（放大3.4倍）、[手電筒](../Page/手電筒.md "wikilink")、[防火帽](../Page/砲口制動器.md "wikilink")、、[消音器](../Page/抑制器.md "wikilink")、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[斜視金屬瞄準器](../Page/機械瞄具.md "wikilink")、[重型槍管以及七件戰鬥包附件](../Page/槍管.md "wikilink")（FLIR（紅外線放大2倍）、稜鏡（放大3.4倍）、JGM-4（放大4倍）、土狼、、綠點雷射瞄準器、[紅外線夜視鏡](../Page/夜視鏡.md "wikilink")（紅外線放大1倍）、[眼鏡蛇](https://zh.wikipedia.org/wiki/Kobra紅點鏡 "wikilink")、[LS06消音器](../Page/長風衝鋒槍.md "wikilink")、[PBS-4消音器](https://zh.wikipedia.org/wiki/PBS-4抑制器 "wikilink")、[雷射／燈光組合](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")、[PKA-S](https://zh.wikipedia.org/wiki/PKA-S反射式瞄準鏡 "wikilink")、[PK-A](https://zh.wikipedia.org/wiki/PK-A紅點鏡 "wikilink")（放大3.4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[R2消音器](https://zh.wikipedia.org/wiki/R2抑制器 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、三光束雷射、HD-33當中之七）。
+  - 2013年—《[-{zh-cn:使命召唤：幽灵; zh-tw:決勝時刻：魅影;}-](../Page/決勝時刻：魅影.md "wikilink")》（Call of Duty: Ghosts）：命名為「CBJ-MS」，綠色槍身，造型上裝有[前握把](../Page/輔助握把.md "wikilink")，32發（故事模式及滅絕模式）和34發（聯機模式，可使用改裝：延長彈匣增至51發）[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為68發（聯機模式）和96發（滅絕模式），最高攜彈量為224發（故事模式）、204發（聯機模式）和256發（滅絕模式），內置[穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")（聯機模式中描述為發射定制[钨](../Page/钨.md "wikilink")[彈頭](../Page/彈頭.md "wikilink")）。故事模式之中被敵軍「聯邦」（Federation）所使用；聯機模式時可以使用[紅點鏡](../Page/紅點鏡.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、、[可變倍率反射式瞄準鏡](https://zh.wikipedia.org/wiki/望遠鏡放大倍數 "wikilink")、[熱能探測混合式瞄準鏡](../Page/热能.md "wikilink")、追踪器瞄準鏡、、[消音器](../Page/抑制器.md "wikilink")、[槍口制退器](../Page/砲口制動器.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、射速增加；滅絕模式時以1,500點取得。
+  - 2014年—《[幽靈行動：魅影](../Page/幽靈行動：魅影.md "wikilink")》（Tom Clancy's Ghost Recon Phantoms）：命名為“CBJ-MS”，30發彈匣（使用延長彈匣後增至100發），攜彈量為180發。
+  - 2014年—《[-{zh-cn:使命召唤：高级战争; zh-tw:決勝時刻：先進戰爭;}-](../Page/使命召唤：高级战争.md "wikilink")》（Call of Duty: Advanced Warfare）：只在聯機模式中出現，以本槍為藍本，命名為「MP11」，白色和黑色槍身，32發（聯機模式可使用技能：延長彈匣增至48發）[彈匣](../Page/彈匣.md "wikilink")，初始攜彈量為96發（聯機模式），最高攜彈量為192發（聯機模式）。可以使用[紅點鏡](../Page/紅點鏡.md "wikilink")、混合式瞄準鏡、[自动对焦](../Page/自动对焦.md "wikilink")瞄準鏡、[目標增強瞄準鏡](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")、[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")、[前握把](https://zh.wikipedia.org/wiki/前握把 "wikilink")、[槍托](../Page/槍托.md "wikilink")、追踪器、先進[膛線](../Page/膛線.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、射速增加、[消音器](../Page/抑制器.md "wikilink")、[抛物线](../Page/抛物线.md "wikilink")[麦克](https://zh.wikipedia.org/wiki/麦克 "wikilink")、快速抽出握把。
+  - 2018年—《[少女前线](../Page/少女前线.md "wikilink")》（Girls Frontline）：以战术人形的姿态出现，命名为“C-MS”，归类为5星级SMG。
 
 ## 參見
 
@@ -84,45 +71,26 @@
 
 ## 外部連結
 
-  - —[CBJ Tech
-    AB](https://web.archive.org/web/20140929060738/http://cbjtech.com/default.asp)
+  - —[CBJ Tech AB](https://web.archive.org/web/20140929060738/http://cbjtech.com/default.asp)
 
-  - —[Saab Bofors Dynamics CBJ MS personal-defence weapon (Sweden),
-    Sub-machine
-    guns](http://www.janes.com/articles/Janes-Infantry-Weapons/Saab-Bofors-Dynamics-CBJ-MS-personal-defence-weapon-Sweden.html)
+  - —[Saab Bofors Dynamics CBJ MS personal-defence weapon (Sweden), Sub-machine guns](http://www.janes.com/articles/Janes-Infantry-Weapons/Saab-Bofors-Dynamics-CBJ-MS-personal-defence-weapon-Sweden.html)
 
-  - —[Modern Firearms—CBJ-MS PDW / submachine
-    gun](https://web.archive.org/web/20090308131211/http://world.guns.ru/smg/smg101-e.htm)
+  - —[Modern Firearms—CBJ-MS PDW / submachine gun](https://web.archive.org/web/20090308131211/http://world.guns.ru/smg/smg101-e.htm)
 
-  - —[Weapon.ge—SAAB Bofors
-    CBJ-MS](http://georgians.weapon.ge/index.php?sel=1&id=273&man=&coun=28&cat=&l=en)
+  - —[Weapon.ge—SAAB Bofors CBJ-MS](http://georgians.weapon.ge/index.php?sel=1&id=273&man=&coun=28&cat=&l=en)
 
-  - —[A new Weapon system from
-    Sweden.](http://www.gotavapen.se/gota/cbj/cbj_syst.htm)
+  - —[A new Weapon system from Sweden.](http://www.gotavapen.se/gota/cbj/cbj_syst.htm)
 
-  - —[SecurityArms—Saab Bofors Dynamics CBJ MS personal defence
-    weapon](http://www.securityarms.com/20010315/galleryfiles/2000/2018.htm)
+  - —[SecurityArms—Saab Bofors Dynamics CBJ MS personal defence weapon](http://www.securityarms.com/20010315/galleryfiles/2000/2018.htm)
 
-  - —[The Firearm Blog.com—The amazing 6.5x25mm
-    CBJ](http://www.thefirearmblog.com/blog/2010/07/08/the-amazing-6-5x25mm-cbj/)
+  - —[The Firearm Blog.com—The amazing 6.5x25mm CBJ](http://www.thefirearmblog.com/blog/2010/07/08/the-amazing-6-5x25mm-cbj/)
 
-  - —[The Truth About Guns.com—Personal Defense Weapons (PDW): A
-    Solution in Search of a
-    Problem?](http://www.thetruthaboutguns.com/2011/01/yankee-gun-nuts/personal-defense-weapons-pdw-a-solution-in-search-of-a-problem/)
+  - —[The Truth About Guns.com—Personal Defense Weapons (PDW): A Solution in Search of a Problem?](http://www.thetruthaboutguns.com/2011/01/yankee-gun-nuts/personal-defense-weapons-pdw-a-solution-in-search-of-a-problem/)
 
-  - —[D Boy Gun World（槍炮世界）—CBJ-MS
-    PDW/冲锋枪](http://firearmsworld.net/sweden/cbj/cbjms.htm)
+  - —[D Boy Gun World（槍炮世界）—CBJ-MS PDW/冲锋枪](http://firearmsworld.net/sweden/cbj/cbjms.htm)
 
-[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink")
-[Category:衝鋒手槍](https://zh.wikipedia.org/wiki/Category:衝鋒手槍 "wikilink")
-[Category:包絡式槍機衝鋒槍](https://zh.wikipedia.org/wiki/Category:包絡式槍機衝鋒槍 "wikilink")
-[Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink")
-[Category:瑞典槍械](https://zh.wikipedia.org/wiki/Category:瑞典槍械 "wikilink")
-[Category:博福斯](https://zh.wikipedia.org/wiki/Category:博福斯 "wikilink")
+[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:衝鋒手槍](https://zh.wikipedia.org/wiki/Category:衝鋒手槍 "wikilink") [Category:包絡式槍機衝鋒槍](https://zh.wikipedia.org/wiki/Category:包絡式槍機衝鋒槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:瑞典槍械](https://zh.wikipedia.org/wiki/Category:瑞典槍械 "wikilink") [Category:博福斯](https://zh.wikipedia.org/wiki/Category:博福斯 "wikilink")
 
 1.  CRISAT靶板是歐洲的北約國家按照前華約單兵防護提供的參照靶，為一塊1.6毫米（0.06英吋）厚的5級[钛](../Page/钛.md "wikilink")[合金](../Page/合金.md "wikilink")加上20層凱夫拉組成
-2.  [Performance of the
-    cartridge](http://www.gotavapen.se/gota/cbj/cbj_crtg.htm)
-3.  [Saab Bofors Dynamics CBJ MS personal-defence weapon (Sweden),
-    Sub-machine
-    guns](http://www.janes.com/articles/Janes-Infantry-Weapons/Saab-Bofors-Dynamics-CBJ-MS-personal-defence-weapon-Sweden.html)
+2.  [Performance of the cartridge](http://www.gotavapen.se/gota/cbj/cbj_crtg.htm)
+3.  [Saab Bofors Dynamics CBJ MS personal-defence weapon (Sweden), Sub-machine guns](http://www.janes.com/articles/Janes-Infantry-Weapons/Saab-Bofors-Dynamics-CBJ-MS-personal-defence-weapon-Sweden.html)

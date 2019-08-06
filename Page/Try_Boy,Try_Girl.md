@@ -13,9 +13,7 @@
       - 到以前在相冊中的收錄率高(貴)的重搖滾樂風格的樂曲看到單人4作品被認為是發佈。1節向主題男性，2節向主題女性，也能向各自的助威歌的見解。
 2.  **Face To Face**
       - 作詞・作曲：前田亘輝／編曲:[葉山武](https://zh.wikipedia.org/wiki/葉山武 "wikilink")
-      - 是寬鬆的中等號碼拍子的樂曲。被6th相冊「前田亙輝\&His Blues
-        Friends」收錄的樂曲的全篇前田亙輝Vocal版。\#**Try
-        Boy,Try Girl**（Original Karaoke）
+      - 是寬鬆的中等號碼拍子的樂曲。被6th相冊「前田亙輝\&His Blues Friends」收錄的樂曲的全篇前田亙輝Vocal版。\#**Try Boy,Try Girl**（Original Karaoke）
 
 ## 参加者
 
@@ -26,6 +24,4 @@
   - 寺澤功一：基本
   - 松川敏也：吉他
 
-[Category:1993年的單曲](https://zh.wikipedia.org/wiki/Category:1993年的單曲 "wikilink")
-[Category:前田亙輝的樂曲](https://zh.wikipedia.org/wiki/Category:前田亙輝的樂曲 "wikilink")
-[Category:助威歌](https://zh.wikipedia.org/wiki/Category:助威歌 "wikilink")
+[Category:1993年的單曲](https://zh.wikipedia.org/wiki/Category:1993年的單曲 "wikilink") [Category:前田亙輝的樂曲](https://zh.wikipedia.org/wiki/Category:前田亙輝的樂曲 "wikilink") [Category:助威歌](https://zh.wikipedia.org/wiki/Category:助威歌 "wikilink")

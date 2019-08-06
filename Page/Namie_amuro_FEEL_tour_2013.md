@@ -1,5 +1,4 @@
-《namie amuro FEEL tour
-2013》為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Page/安室奈美惠.md "wikilink")於2014年2月26日發行的影音作品。
+《namie amuro FEEL tour 2013》為[日本](../Page/日本.md "wikilink")歌手[安室奈美惠](../Page/安室奈美惠.md "wikilink")於2014年2月26日發行的影音作品。
 
 ## 簡介
 
@@ -58,8 +57,7 @@
 
 \-BONUS TRACK-
 
-1.  Contrail～500th LIVE Anniversary Celebration Movie at Yoyogi
-    -20131207-
+1.  Contrail～500th LIVE Anniversary Celebration Movie at Yoyogi -20131207-
 
 ## 參考資料
 
@@ -67,11 +65,9 @@
 
 ## 外部連結
 
-  - [官方網站 -
-    發行情報](https://web.archive.org/web/20131115130529/http://namieamuro.jp/news/news.php?nID=VFKs8PkMCO)
+  - [官方網站 - 發行情報](https://web.archive.org/web/20131115130529/http://namieamuro.jp/news/news.php?nID=VFKs8PkMCO)
 
-[分類:2013年巡迴演唱會](https://zh.wikipedia.org/wiki/分類:2013年巡迴演唱會 "wikilink")
-[分類:安室奈美惠影像作品](https://zh.wikipedia.org/wiki/分類:安室奈美惠影像作品 "wikilink")
+[分類:2013年巡迴演唱會](https://zh.wikipedia.org/wiki/分類:2013年巡迴演唱會 "wikilink") [分類:安室奈美惠影像作品](https://zh.wikipedia.org/wiki/分類:安室奈美惠影像作品 "wikilink")
 
 [Category:2014年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2014年音樂相關影像作品 "wikilink")
 

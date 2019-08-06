@@ -1,8 +1,6 @@
-《**Roommate**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台的一檔真人實境綜藝節目](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")。2014年5月4日開始，逢[韓國時間星期日下午](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")4時50分在《[星期天真好](../Page/星期天真好.md "wikilink")》綜藝時段的一部（二部現為《[Running
-Man](../Page/Running_Man.md "wikilink")》）播出，每集約80分鐘；第一季結束後，自2014年9月21日開始在原播放時段緊接播出第二季，其後於11月25日開始調整逢星期二深夜11時15分作獨立播出。2015年4月14日播出第二季最後一集。
+《**Roommate**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台的一檔真人實境綜藝節目](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")。2014年5月4日開始，逢[韓國時間星期日下午](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")4時50分在《[星期天真好](../Page/星期天真好.md "wikilink")》綜藝時段的一部（二部現為《[Running Man](../Page/Running_Man.md "wikilink")》）播出，每集約80分鐘；第一季結束後，自2014年9月21日開始在原播放時段緊接播出第二季，其後於11月25日開始調整逢星期二深夜11時15分作獨立播出。2015年4月14日播出第二季最後一集。
 
-因應現今一人家庭持續增長的社會環境，年輕人間逐漸呈現出與以往不同的居住生活模式，比起獨居，更熱衷於與同齡友人一起合宿。節目以「Share
-House」（合宿屋）為主題，邀請十多位成員共同住進合宿屋，參與拍攝「同居」觀察日記，共同體驗在同一屋簷下的各種生活細節。
+因應現今一人家庭持續增長的社會環境，年輕人間逐漸呈現出與以往不同的居住生活模式，比起獨居，更熱衷於與同齡友人一起合宿。節目以「Share House」（合宿屋）為主題，邀請十多位成員共同住進合宿屋，參與拍攝「同居」觀察日記，共同體驗在同一屋簷下的各種生活細節。
 
 ## 概要
 
@@ -20,20 +18,17 @@ House」（合宿屋）為主題，邀請十多位成員共同住進合宿屋，
 
 12日，再透露[Chanyeol](../Page/Chanyeol.md "wikilink")隨第一季結束退出節目\[10\]，第二季加入[李國主](../Page/李國主.md "wikilink")、[大谷亮平](../Page/大谷亮平.md "wikilink")\[11\]及[裴宗玉](../Page/裴宗玉.md "wikilink")。
 
-14日，播出第一季最後一期。因轉播[仁川亞運會](https://zh.wikipedia.org/wiki/2014年亞洲運動會 "wikilink")[男子足球預選賽](https://zh.wikipedia.org/wiki/2014年亞洲運動會足球比賽#男子足球 "wikilink")，《[星期天真好](../Page/星期天真好.md "wikilink")》時段作出調整，本節目變更至同日19:00-20:00播出，而二部《[Running
-Man](../Page/Running_Man.md "wikilink")》則停播\[12\]。
+14日，播出第一季最後一期。因轉播[仁川亞運會](https://zh.wikipedia.org/wiki/2014年亞洲運動會 "wikilink")[男子足球預選賽](https://zh.wikipedia.org/wiki/2014年亞洲運動會足球比賽#男子足球 "wikilink")，《[星期天真好](../Page/星期天真好.md "wikilink")》時段作出調整，本節目變更至同日19:00-20:00播出，而二部《[Running Man](../Page/Running_Man.md "wikilink")》則停播\[12\]。
 
 同日，節目預告中公開最後一名新成員為[Kara](../Page/Kara.md "wikilink")成員[齡智](../Page/許齡智.md "wikilink")，共計7位新成員加入第二季節目。
 
 21日，第二季正式首播。因轉播仁川亞運會多場賽事實況，《星期天真好》時段提前播出，本節目變更至同日15:20-17:00播出\[13\]。
 
-28日，因轉播仁川亞運會[棒球決賽](../Page/2014年亞洲運動會棒球比賽.md "wikilink")，《星期天真好》時段作出調整，本節目停播，而二部《[Running
-Man](../Page/Running_Man.md "wikilink")》則變更至同日16:30-18:00播出\[14\]。
+28日，因轉播仁川亞運會[棒球決賽](../Page/2014年亞洲運動會棒球比賽.md "wikilink")，《星期天真好》時段作出調整，本節目停播，而二部《[Running Man](../Page/Running_Man.md "wikilink")》則變更至同日16:30-18:00播出\[14\]。
 
 11月25日，本節目變更至逢星期二深夜11時15分作獨立播出。
 
-12月30日，因直播《2014
-[SBS演藝大賞](https://zh.wikipedia.org/wiki/SBS演藝大賞 "wikilink")》\[15\]，本節目停播。
+12月30日，因直播《2014 [SBS演藝大賞](https://zh.wikipedia.org/wiki/SBS演藝大賞 "wikilink")》\[15\]，本節目停播。
 
 2015年2月17日，因改播農曆新年特備節目\[16\]，本節目停播。
 
@@ -699,8 +694,7 @@ Jackson的外國友人<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" titl
   -
 ## 作品的變遷
 
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
 
 1.
 2.

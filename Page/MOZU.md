@@ -2,13 +2,7 @@
 
 ## 概要
 
-延續2012年制作《[DOUBLE
-FACE](https://zh.wikipedia.org/wiki/DOUBLE_FACE "wikilink")》兩局合作電視劇後的第2部\[2\]。
-監督為《[DOUBLE
-FACE](https://zh.wikipedia.org/wiki/DOUBLE_FACE "wikilink")》羽住英一郎繼續擔任，延用上作原班人馬製作。原作為[逢坂剛](../Page/逢坂剛.md "wikilink")小說《[百舌吶喊的夜晚](https://zh.wikipedia.org/wiki/百舌 "wikilink")》（Mozu即為日語百舌鳥/伯勞鳥的說法）及《幻之翼》\[3\]，TBS與WOWOW分別製作成《MOZU
-Season1～百舌吶喊的夜晚～》與《MOZU Season2～幻之翼～》\[4\]。
-取景自福岡縣北九州市各地與東京都、橫濱市\[5\]，於北九州羽住與出演者有村架純訪問市長一幕\[6\]。羽住還於北九州市拍攝《[巨乳排球](../Page/巨乳排球.md "wikilink")》、《[Wild
-7](https://zh.wikipedia.org/wiki/Wild_7 "wikilink")》等七部作品，任命「北九州市文化大使」\[7\]。
+延續2012年制作《[DOUBLE FACE](https://zh.wikipedia.org/wiki/DOUBLE_FACE "wikilink")》兩局合作電視劇後的第2部\[2\]。 監督為《[DOUBLE FACE](https://zh.wikipedia.org/wiki/DOUBLE_FACE "wikilink")》羽住英一郎繼續擔任，延用上作原班人馬製作。原作為[逢坂剛](../Page/逢坂剛.md "wikilink")小說《[百舌吶喊的夜晚](https://zh.wikipedia.org/wiki/百舌 "wikilink")》（Mozu即為日語百舌鳥/伯勞鳥的說法）及《幻之翼》\[3\]，TBS與WOWOW分別製作成《MOZU Season1～百舌吶喊的夜晚～》與《MOZU Season2～幻之翼～》\[4\]。 取景自福岡縣北九州市各地與東京都、橫濱市\[5\]，於北九州羽住與出演者有村架純訪問市長一幕\[6\]。羽住還於北九州市拍攝《[巨乳排球](../Page/巨乳排球.md "wikilink")》、《[Wild 7](https://zh.wikipedia.org/wiki/Wild_7 "wikilink")》等七部作品，任命「北九州市文化大使」\[7\]。
 
 ## 登场角色
 
@@ -270,28 +264,21 @@ Saldonia共和國總統。是通過日本石油貿易協議協商確定，企圖
   - 插圖動畫 - 坂本サク
   - 特殊化妝 - 田中玲伊子
   - 動作指導 - [諸鍛冶裕太](https://zh.wikipedia.org/wiki/諸鍛冶裕太 "wikilink")
-  - 汽車特技 -
-    [雨宮正信](https://zh.wikipedia.org/wiki/雨宮正信 "wikilink")、野呂真治、川上敏夫、田中尋之、佐藤憲
+  - 汽車特技 - [雨宮正信](https://zh.wikipedia.org/wiki/雨宮正信 "wikilink")、野呂真治、川上敏夫、田中尋之、佐藤憲
   - 操演、特殊效果 - 宇田川幸夫
-  - 特技與動作 -
-    [青木哲也](https://zh.wikipedia.org/wiki/青木哲也 "wikilink")、[石井靖見](https://zh.wikipedia.org/wiki/石井靖見 "wikilink")、[橫田遼](https://zh.wikipedia.org/wiki/橫田遼 "wikilink")、[塚田知紀](https://zh.wikipedia.org/wiki/塚田知紀 "wikilink")、高木英一、澤江晃史、向田翼、[渡邊隼斗](https://zh.wikipedia.org/wiki/渡邊隼斗 "wikilink")、つちださゆり（[Japan
-    Action
-    Enterprise](https://zh.wikipedia.org/wiki/Japan_Action_Enterprise "wikilink")）
+  - 特技與動作 - [青木哲也](https://zh.wikipedia.org/wiki/青木哲也 "wikilink")、[石井靖見](https://zh.wikipedia.org/wiki/石井靖見 "wikilink")、[橫田遼](https://zh.wikipedia.org/wiki/橫田遼 "wikilink")、[塚田知紀](https://zh.wikipedia.org/wiki/塚田知紀 "wikilink")、高木英一、澤江晃史、向田翼、[渡邊隼斗](https://zh.wikipedia.org/wiki/渡邊隼斗 "wikilink")、つちださゆり（[Japan Action Enterprise](https://zh.wikipedia.org/wiki/Japan_Action_Enterprise "wikilink")）
   - 槍枝使用指導 - [納富貴久男](https://zh.wikipedia.org/wiki/納富貴久男 "wikilink")
   - 警察監修 - 古谷謙一
   - 空手指導 - 觀己流護身術空手、永島謙宗
   - 醫療監修 - 堀エリカ
   - 醫療指導 - 內崎西作
-  - 取材協力 -
-    [朝日新聞社](https://zh.wikipedia.org/wiki/朝日新聞社 "wikilink")、[住本祐寿](https://zh.wikipedia.org/wiki/坂本新一 "wikilink")
-  - 特別協力 -
-    [北九州市](../Page/北九州市.md "wikilink")、[井筒屋](https://zh.wikipedia.org/wiki/井筒屋 "wikilink")
+  - 取材協力 - [朝日新聞社](https://zh.wikipedia.org/wiki/朝日新聞社 "wikilink")、[住本祐寿](https://zh.wikipedia.org/wiki/坂本新一 "wikilink")
+  - 特別協力 - [北九州市](../Page/北九州市.md "wikilink")、[井筒屋](https://zh.wikipedia.org/wiki/井筒屋 "wikilink")
   - 制作表 - 新澤彰子
   - 責任製作 - 古屋厚、道上巧矢
   - 編成 - 前田麻友、口垣內徹、宮田徹、中薗慶子
   - 執行製作 - 津村昭夫、牧野力
-  - 製片人 -
-    [渡邊信也](https://zh.wikipedia.org/wiki/渡邊信也 "wikilink")（TBS）、[井上衛](https://zh.wikipedia.org/wiki/井上衛 "wikilink")（WOWOW）、[森井輝](https://zh.wikipedia.org/wiki/森井輝 "wikilink")（ROBOT）
+  - 製片人 - [渡邊信也](https://zh.wikipedia.org/wiki/渡邊信也 "wikilink")（TBS）、[井上衛](https://zh.wikipedia.org/wiki/井上衛 "wikilink")（WOWOW）、[森井輝](https://zh.wikipedia.org/wiki/森井輝 "wikilink")（ROBOT）
   - 助理製作人 - 飯田美保、下鳥真沙、國枝菜穗子
   - 製作協助 - [ROBOT](https://zh.wikipedia.org/wiki/ROBOT "wikilink")
   - 製作 - WOWOW、TBS
@@ -491,28 +478,7 @@ Saldonia共和國總統。是通過日本石油貿易協議協商確定，企圖
   -
 ## 節目的變遷
 
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:連續劇W](https://zh.wikipedia.org/wiki/Category:連續劇W "wikilink")
-[Category:日本小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本小說改編電視劇 "wikilink")
-[Category:恐怖活動題材作品](https://zh.wikipedia.org/wiki/Category:恐怖活動題材作品 "wikilink")
-[Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink")
-[Category:八大電視外購日劇](https://zh.wikipedia.org/wiki/Category:八大電視外購日劇 "wikilink")
-[Category:虛構犯罪組織](https://zh.wikipedia.org/wiki/Category:虛構犯罪組織 "wikilink")
-[Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink")
-[Category:日本小說改編電影](https://zh.wikipedia.org/wiki/Category:日本小說改編電影 "wikilink")
-[Category:警視廳背景電影](https://zh.wikipedia.org/wiki/Category:警視廳背景電影 "wikilink")
-[Category:2010年代悬疑片](https://zh.wikipedia.org/wiki/Category:2010年代悬疑片 "wikilink")
-[Category:東京國際戲劇節優秀連續劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀連續劇獲獎作品 "wikilink")
-[Category:TBS警匪電視劇](https://zh.wikipedia.org/wiki/Category:TBS警匪電視劇 "wikilink")
-[Category:日本懸疑片](https://zh.wikipedia.org/wiki/Category:日本懸疑片 "wikilink")
-[Category:2015年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年日本電視劇集 "wikilink")
-[Category:偵探主角題材電視劇](https://zh.wikipedia.org/wiki/Category:偵探主角題材電視劇 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:雙胞胎題材電視劇](https://zh.wikipedia.org/wiki/Category:雙胞胎題材電視劇 "wikilink")
+[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:連續劇W](https://zh.wikipedia.org/wiki/Category:連續劇W "wikilink") [Category:日本小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本小說改編電視劇 "wikilink") [Category:恐怖活動題材作品](https://zh.wikipedia.org/wiki/Category:恐怖活動題材作品 "wikilink") [Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink") [Category:八大電視外購日劇](https://zh.wikipedia.org/wiki/Category:八大電視外購日劇 "wikilink") [Category:虛構犯罪組織](https://zh.wikipedia.org/wiki/Category:虛構犯罪組織 "wikilink") [Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink") [Category:日本小說改編電影](https://zh.wikipedia.org/wiki/Category:日本小說改編電影 "wikilink") [Category:警視廳背景電影](https://zh.wikipedia.org/wiki/Category:警視廳背景電影 "wikilink") [Category:2010年代悬疑片](https://zh.wikipedia.org/wiki/Category:2010年代悬疑片 "wikilink") [Category:東京國際戲劇節優秀連續劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀連續劇獲獎作品 "wikilink") [Category:TBS警匪電視劇](https://zh.wikipedia.org/wiki/Category:TBS警匪電視劇 "wikilink") [Category:日本懸疑片](https://zh.wikipedia.org/wiki/Category:日本懸疑片 "wikilink") [Category:2015年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2015年日本電視劇集 "wikilink") [Category:偵探主角題材電視劇](https://zh.wikipedia.org/wiki/Category:偵探主角題材電視劇 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:雙胞胎題材電視劇](https://zh.wikipedia.org/wiki/Category:雙胞胎題材電視劇 "wikilink")
 
 1.  [「ＭＯＺＵ」映画化、西島秀俊「高み目指す」](http://www.nikkansports.com/entertainment/news/f-et-tp1-20141114-1395849.html)
 
@@ -528,8 +494,6 @@ Saldonia共和國總統。是通過日本石油貿易協議協商確定，企圖
 
 8.  [](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/04_06/mozu_tbs/index.html)
 
-
 9.
 
-10. [TBSテレビ：木曜ドラマ劇場『MOZU Season2
-    〜幻の翼〜』](http://www.tbs.co.jp/mozu_tbs/news/filmization.html)
+10. [TBSテレビ：木曜ドラマ劇場『MOZU Season2 〜幻の翼〜』](http://www.tbs.co.jp/mozu_tbs/news/filmization.html)

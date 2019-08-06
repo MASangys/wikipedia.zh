@@ -2,13 +2,9 @@
 
 ## 生平
 
-從1999年至2003年就讀於[加州大學柏克萊分校](https://zh.wikipedia.org/wiki/加州大學柏克萊分校 "wikilink")，獲得英語和語言學[學士學位](https://zh.wikipedia.org/wiki/文学士 "wikilink")。\[1\]
-亦獲得[加利福尼亞大學聖地牙哥分校](https://zh.wikipedia.org/wiki/加利福尼亞大學聖地牙哥分校 "wikilink")(2003年-06年)語言學[碩士學位](https://zh.wikipedia.org/wiki/文学硕士 "wikilink")。\[2\]
+從1999年至2003年就讀於[加州大學柏克萊分校](https://zh.wikipedia.org/wiki/加州大學柏克萊分校 "wikilink")，獲得英語和語言學[學士學位](https://zh.wikipedia.org/wiki/文学士 "wikilink")。\[1\] 亦獲得[加利福尼亞大學聖地牙哥分校](https://zh.wikipedia.org/wiki/加利福尼亞大學聖地牙哥分校 "wikilink")(2003年-06年)語言學[碩士學位](https://zh.wikipedia.org/wiki/文学硕士 "wikilink")。\[2\]
 
-自2000年以來、彼得森所創建最出名的語言是為HBO《[權力的遊戲](../Page/权力的游戏_\(电视剧\).md "wikilink")》（2009年）影集系列創建[多斯拉其語和](https://zh.wikipedia.org/wiki/多斯拉其語 "wikilink")[瓦雷利亞語言](../Page/瓦雷利亞語言.md "wikilink")，及為[Syfy](../Page/Syfy.md "wikilink")頻道《[地球異世界](../Page/地球異世界.md "wikilink")》（2011年以來）劇集創建"卡蒂森語"（Castithan）、"艾洛森語"（Irathient）。\[3\]\[4\]
-他還為電影《[雷神奇俠2：黑暗世界](https://zh.wikipedia.org/wiki/雷神奇俠2：黑暗世界 "wikilink")》裡的"黑暗精靈"（Elves（Marvel
-Comics））創建語言。\[5\]
-於2007年，他與與其他九個語言創建者協同創辦了語言創建協會，\[6\]並擔任其主席（2012年-2014年）。\[7\]
+自2000年以來、彼得森所創建最出名的語言是為HBO《[權力的遊戲](../Page/权力的游戏_\(电视剧\).md "wikilink")》（2009年）影集系列創建[多斯拉其語和](https://zh.wikipedia.org/wiki/多斯拉其語 "wikilink")[瓦雷利亞語言](../Page/瓦雷利亞語言.md "wikilink")，及為[Syfy](../Page/Syfy.md "wikilink")頻道《[地球異世界](../Page/地球異世界.md "wikilink")》（2011年以來）劇集創建"卡蒂森語"（Castithan）、"艾洛森語"（Irathient）。\[3\]\[4\] 他還為電影《[雷神奇俠2：黑暗世界](https://zh.wikipedia.org/wiki/雷神奇俠2：黑暗世界 "wikilink")》裡的"黑暗精靈"（Elves（Marvel Comics））創建語言。\[5\] 於2007年，他與與其他九個語言創建者協同創辦了語言創建協會，\[6\]並擔任其主席（2012年-2014年）。\[7\]
 
 彼得森為《[地球異世界](../Page/地球異世界.md "wikilink")》劇集創建兩個較全和兩個較小型的語言時，他亦為這些語言開發了一個數詞系統。\[8\]
 
@@ -151,11 +147,7 @@ Comics））創建語言。\[5\]
   - [Dothraki.org](http://wwww.dothraki.org)
 
   -
-[Category:加州人](https://zh.wikipedia.org/wiki/Category:加州人 "wikilink")
-[Category:加州大學柏克萊分校校友](https://zh.wikipedia.org/wiki/Category:加州大學柏克萊分校校友 "wikilink")
-[Category:聖地牙哥加州大學校友](https://zh.wikipedia.org/wiki/Category:聖地牙哥加州大學校友 "wikilink")
-[Category:权力的游戏](https://zh.wikipedia.org/wiki/Category:权力的游戏 "wikilink")
-[Category:美国人物小作品](https://zh.wikipedia.org/wiki/Category:美国人物小作品 "wikilink")
+[Category:加州人](https://zh.wikipedia.org/wiki/Category:加州人 "wikilink") [Category:加州大學柏克萊分校校友](https://zh.wikipedia.org/wiki/Category:加州大學柏克萊分校校友 "wikilink") [Category:聖地牙哥加州大學校友](https://zh.wikipedia.org/wiki/Category:聖地牙哥加州大學校友 "wikilink") [Category:权力的游戏](https://zh.wikipedia.org/wiki/Category:权力的游戏 "wikilink") [Category:美国人物小作品](https://zh.wikipedia.org/wiki/Category:美国人物小作品 "wikilink")
 
 1.
 2.

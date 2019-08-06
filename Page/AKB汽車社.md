@@ -10,12 +10,9 @@
 
   - 前田敦子：自AKB48畢業後仍有繼續參與演出。
   - AKB48
-      - Team
-        A：[高城亞樹](../Page/高城亞樹.md "wikilink")、[高橋南](../Page/高橋南.md "wikilink")\[1\]、[仲川遥香](../Page/仲川遥香.md "wikilink")、[中田千智](../Page/中田千智.md "wikilink")、[仲谷明香](../Page/仲谷明香.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")
-      - Team
-        K：[秋元才加](../Page/秋元才加.md "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[野中美鄉](../Page/野中美鄉.md "wikilink")、[藤江麗奈](../Page/藤江麗奈.md "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")（社長）
-      - Team
-        B：[石田晴香](../Page/石田晴香.md "wikilink")、[佐藤夏希](../Page/佐藤夏希.md "wikilink")、[鈴木紫帆里](../Page/鈴木紫帆里.md "wikilink")、[鈴木瑪莉亞](../Page/鈴木瑪莉亞.md "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")（副社長）、[增田有華](../Page/增田有華.md "wikilink")
+      - Team A：[高城亞樹](../Page/高城亞樹.md "wikilink")、[高橋南](../Page/高橋南.md "wikilink")\[1\]、[仲川遥香](../Page/仲川遥香.md "wikilink")、[中田千智](../Page/中田千智.md "wikilink")、[仲谷明香](../Page/仲谷明香.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")
+      - Team K：[秋元才加](../Page/秋元才加.md "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[野中美鄉](../Page/野中美鄉.md "wikilink")、[藤江麗奈](../Page/藤江麗奈.md "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")（社長）
+      - Team B：[石田晴香](../Page/石田晴香.md "wikilink")、[佐藤夏希](../Page/佐藤夏希.md "wikilink")、[鈴木紫帆里](../Page/鈴木紫帆里.md "wikilink")、[鈴木瑪莉亞](../Page/鈴木瑪莉亞.md "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")（副社長）、[增田有華](../Page/增田有華.md "wikilink")
   - [SKE48](../Page/SKE48.md "wikilink")
       - Team E：高木由麻奈
       - 研究生：[松村香織](../Page/松村香織.md "wikilink")
@@ -252,14 +249,11 @@ SP</p></td>
 
 **開頭・結尾曲**
 
-  - AKB48「[仲夏的Sounds
-    good\!](../Page/仲夏的Sounds_good!.md "wikilink")」([You, Be
-    Cool\!/KING RECORDS](../Page/You,_Be_Cool!.md "wikilink"))
+  - AKB48「[仲夏的Sounds good\!](../Page/仲夏的Sounds_good!.md "wikilink")」([You, Be Cool\!/KING RECORDS](../Page/You,_Be_Cool!.md "wikilink"))
 
 **舂入歌**
 
-  - 前田敦子「[Sunday drive](../Page/你就是我.md "wikilink")」(You, Be Cool\!/KING
-    RECORDS)
+  - 前田敦子「[Sunday drive](../Page/你就是我.md "wikilink")」(You, Be Cool\!/KING RECORDS)
 
 ## 播放電視台
 
@@ -369,14 +363,8 @@ SP</p></td>
 ## 外部連結
 
   - [AKB汽車部](http://www.fujitv.co.jp/b_hp/akb_car/index.html) - 富士電視台
-  - [AKB自動車部SP前田敦子運転免許取得記念\!はじめてのドライブ in
-    沖縄](http://www.fujitv.co.jp/b_hp/121124akb_car/index.html) -
-    富士電視台
+  - [AKB自動車部SP前田敦子運転免許取得記念\!はじめてのドライブ in 沖縄](http://www.fujitv.co.jp/b_hp/121124akb_car/index.html) - 富士電視台
 
-[Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink")
-[Category:2012年日本電視節目](https://zh.wikipedia.org/wiki/Category:2012年日本電視節目 "wikilink")
-[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink")
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
-[Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
+[Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink") [Category:2012年日本電視節目](https://zh.wikipedia.org/wiki/Category:2012年日本電視節目 "wikilink") [Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink") [Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
 
 1.  自2012年5月19日播出的節目起成為臨時社員。

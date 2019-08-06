@@ -1,9 +1,6 @@
-《**烈車戰隊特急者 THE MOVIE
-銀河路線SOS**》（），是日本特攝節目《[烈車戰隊特急者](../Page/烈車戰隊特急者.md "wikilink")》的獨立劇場版。日本地區預定於2014年7月19日上映。
+《**烈車戰隊特急者 THE MOVIE 銀河路線SOS**》（），是日本特攝節目《[烈車戰隊特急者](../Page/烈車戰隊特急者.md "wikilink")》的獨立劇場版。日本地區預定於2014年7月19日上映。
 
-此外[假面騎士系列](../Page/假面騎士系列.md "wikilink")作品《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》劇場版《[劇場版
-假面騎士鎧武
-足球大決戰！黃金果實爭奪杯！](../Page/劇場版_假面騎士鎧武_足球大決戰！黃金果實爭奪杯！.md "wikilink")》亦同步上映。
+此外[假面騎士系列](../Page/假面騎士系列.md "wikilink")作品《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》劇場版《[劇場版 假面騎士鎧武 足球大決戰！黃金果實爭奪杯！](../Page/劇場版_假面騎士鎧武_足球大決戰！黃金果實爭奪杯！.md "wikilink")》亦同步上映。
 
 ## 概要
 
@@ -69,10 +66,8 @@
 
   - 券子（）
     蕾蒂的卡通形態[腹語娃娃](https://zh.wikipedia.org/wiki/腹語 "wikilink")\[6\]，看起來像是由蕾蒂發出的聲音。
-    負責擔任帕斯科的配音員為飾演《[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")》中的豪快黃的演員[市道真央](../Page/市道真央.md "wikilink")(使用M
-    • A • O名義配音演出)，並且同時負責銀河路線烈車到站相關音效配音。
-    其後於2017年第41作《[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")》聲演**天鷹桃---Raptor
-    283**。
+    負責擔任帕斯科的配音員為飾演《[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")》中的豪快黃的演員[市道真央](../Page/市道真央.md "wikilink")(使用M • A • O名義配音演出)，並且同時負責銀河路線烈車到站相關音效配音。
+    其後於2017年第41作《[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")》聲演**天鷹桃---Raptor 283**。
 
 ### 暗影路線
 
@@ -129,9 +124,7 @@
   -
 
       -
-        作詩：[渡部紫緒](https://zh.wikipedia.org/wiki/渡部紫緒 "wikilink") /
-        作曲・編曲：[坂部剛](https://zh.wikipedia.org/wiki/坂部剛 "wikilink")
-        / 歌：[伊勢大貴](https://zh.wikipedia.org/wiki/伊勢大貴 "wikilink")
+        作詩：[渡部紫緒](https://zh.wikipedia.org/wiki/渡部紫緒 "wikilink") / 作曲・編曲：[坂部剛](https://zh.wikipedia.org/wiki/坂部剛 "wikilink") / 歌：[伊勢大貴](https://zh.wikipedia.org/wiki/伊勢大貴 "wikilink")
 
   - 插曲
 
@@ -140,10 +133,7 @@
   -
 
       -
-        作詩：[藤林聖子](../Page/藤林聖子.md "wikilink") /
-        作曲：[岩崎貴文](../Page/岩崎貴文.md "wikilink") /
-        編曲：[中畑丈治](https://zh.wikipedia.org/wiki/中畑丈治 "wikilink") /
-        歌：[串田アキラ](https://zh.wikipedia.org/wiki/串田アキラ "wikilink")、[堀江美都子](../Page/堀江美都子.md "wikilink")
+        作詩：[藤林聖子](../Page/藤林聖子.md "wikilink") / 作曲：[岩崎貴文](../Page/岩崎貴文.md "wikilink") / 編曲：[中畑丈治](https://zh.wikipedia.org/wiki/中畑丈治 "wikilink") / 歌：[串田アキラ](https://zh.wikipedia.org/wiki/串田アキラ "wikilink")、[堀江美都子](../Page/堀江美都子.md "wikilink")
 
 ## 註釋
 
@@ -153,11 +143,9 @@
 
   - [官方網站](http://www.gaim-toq.jp/)
 
-[分類:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/分類:超級戰隊系列電影作品 "wikilink")
-[分類:鐵道電影](https://zh.wikipedia.org/wiki/分類:鐵道電影 "wikilink")
+[分類:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/分類:超級戰隊系列電影作品 "wikilink") [分類:鐵道電影](https://zh.wikipedia.org/wiki/分類:鐵道電影 "wikilink")
 
-[Category:2014年日本電影](https://zh.wikipedia.org/wiki/Category:2014年日本電影 "wikilink")
-[Category:中國大陸禁片](https://zh.wikipedia.org/wiki/Category:中國大陸禁片 "wikilink")
+[Category:2014年日本電影](https://zh.wikipedia.org/wiki/Category:2014年日本電影 "wikilink") [Category:中國大陸禁片](https://zh.wikipedia.org/wiki/Category:中國大陸禁片 "wikilink")
 
 1.  此設定源自[百獸戰隊牙吠連者的牙吠黃](https://zh.wikipedia.org/wiki/百獸戰隊牙吠連者 "wikilink")。
 2.  [百獸戰隊牙吠連者的戰士們有時亦會穿戴尖爪指套進行戰鬥](https://zh.wikipedia.org/wiki/百獸戰隊牙吠連者 "wikilink")。

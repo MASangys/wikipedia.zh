@@ -1,13 +1,8 @@
-『**NANA MIZUKI LIVE
-DIAMOND×FEVER**』是[水樹奈奈](../Page/水樹奈奈.md "wikilink")的第8作張Live影像作品\[1\]。2009年12月23日由[King
-Records以Blu](https://zh.wikipedia.org/wiki/King_Records "wikilink")-ray
-Disc、DVD發售。
+『**NANA MIZUKI LIVE DIAMOND×FEVER**』是[水樹奈奈](../Page/水樹奈奈.md "wikilink")的第8作張Live影像作品\[1\]。2009年12月23日由[King Records以Blu](https://zh.wikipedia.org/wiki/King_Records "wikilink")-ray Disc、DVD發售。
 
 ## 概要
 
-2009年舉行的巡迴演唱會「NANA MIZUKI LIVE
-FEVER」的1月25日・[日本武道館](../Page/日本武道館.md "wikilink")公演和7月5日在[西武巨蛋](../Page/西武巨蛋.md "wikilink")舉行的「NANA
-MIZUKI LIVE DIAMOND」的影像收錄。
+2009年舉行的巡迴演唱會「NANA MIZUKI LIVE FEVER」的1月25日・[日本武道館](../Page/日本武道館.md "wikilink")公演和7月5日在[西武巨蛋](../Page/西武巨蛋.md "wikilink")舉行的「NANA MIZUKI LIVE DIAMOND」的影像收錄。
 
 ## 收錄内容
 
@@ -112,15 +107,12 @@ MIZUKI LIVE DIAMOND」的影像收錄。
 
 ## 後備成員
 
-  - [cherry
-    boys](https://zh.wikipedia.org/wiki/水樹奈奈#サポートメンバー "wikilink")
+  - [cherry boys](https://zh.wikipedia.org/wiki/水樹奈奈#サポートメンバー "wikilink")
   - YOKOHAMA ROBINS
   - TEAM YO-DA
 
 ## 備註
 
-[Category:水樹奈奈影像作品](https://zh.wikipedia.org/wiki/Category:水樹奈奈影像作品 "wikilink")
-[Category:2009年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2009年音樂相關影像作品 "wikilink")
-[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
+[Category:水樹奈奈影像作品](https://zh.wikipedia.org/wiki/Category:水樹奈奈影像作品 "wikilink") [Category:2009年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2009年音樂相關影像作品 "wikilink") [Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
 
 1.  通算是第12作張的影像作品

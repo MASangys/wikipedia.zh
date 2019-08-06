@@ -1,5 +1,4 @@
-**《Heart, Mind and
-Soul》**（心，思想和灵魂）為[東方神起](../Page/東方神起.md "wikilink")在2006年3月23日於[日本](../Page/日本.md "wikilink")發行之第一张[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
+**《Heart, Mind and Soul》**（心，思想和灵魂）為[東方神起](../Page/東方神起.md "wikilink")在2006年3月23日於[日本](../Page/日本.md "wikilink")發行之第一张[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。
 
 ## 专辑曲目
 
@@ -52,6 +51,4 @@ Soul》**（心，思想和灵魂）為[東方神起](../Page/東方神起.md "w
 5.  Rising Sun \[Korea Ver.\] (Video Clip)
 6.  Tonight \[Korea Ver.\] (Video Clip)
 
-[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
-[Category:东方神起专辑](https://zh.wikipedia.org/wiki/Category:东方神起专辑 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
+[Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink") [Category:东方神起专辑](https://zh.wikipedia.org/wiki/Category:东方神起专辑 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")

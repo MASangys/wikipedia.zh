@@ -1,5 +1,4 @@
-**日產Civilian**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：日産・シビリアン，[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：Nissan
-Civilian，中國大陸稱為日產碧蓮），乃[日本](../Page/日本.md "wikilink")[日產汽車](../Page/日產汽車.md "wikilink")旗下的一款[小型巴士](https://zh.wikipedia.org/wiki/小型巴士 "wikilink")，主要作觀光巴士或小型客車之用。
+**日產Civilian**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：日産・シビリアン，[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：Nissan Civilian，中國大陸稱為日產碧蓮），乃[日本](../Page/日本.md "wikilink")[日產汽車](../Page/日產汽車.md "wikilink")旗下的一款[小型巴士](https://zh.wikipedia.org/wiki/小型巴士 "wikilink")，主要作觀光巴士或小型客車之用。
 
 車型主要銷往亞洲等地。在這些地區其主要競爭對手為[三菱Rosa和](https://zh.wikipedia.org/wiki/三菱Rosa "wikilink")[豐田Coaster](../Page/豐田Coaster.md "wikilink")。
 
@@ -110,6 +109,4 @@ Civilian的生產可追溯至1959年。其時日產於旗下之卡車型號Cabal
   - [日產Civilian](http://www.nissan.co.jp/CIVILIAN/)
   - [日產Civilian](https://web.archive.org/web/20121019065801/http://www.nissan.co.jp/EN/LINEUP2/CIVILIAN.html)
 
-
-[Category:巴士型號](https://zh.wikipedia.org/wiki/Category:巴士型號 "wikilink")
-[Category:日產車輛](https://zh.wikipedia.org/wiki/Category:日產車輛 "wikilink")
+[Category:巴士型號](https://zh.wikipedia.org/wiki/Category:巴士型號 "wikilink") [Category:日產車輛](https://zh.wikipedia.org/wiki/Category:日產車輛 "wikilink")

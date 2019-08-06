@@ -1,7 +1,4 @@
-\-- module to turn a parameter list into a list of [Coxeter–Dynkin
-diagram](https://zh.wikipedia.org/wiki/Coxeter–Dynkin_diagram "wikilink")
-images. -- See the template documentation or any example for how it is
-used and works. local p = {} local origArgs
+\-- module to turn a parameter list into a list of [Coxeter–Dynkin diagram](https://zh.wikipedia.org/wiki/Coxeter–Dynkin_diagram "wikilink") images. -- See the template documentation or any example for how it is used and works. local p = {} local origArgs
 
 function p.CDD(frame)
 

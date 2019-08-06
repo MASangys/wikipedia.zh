@@ -1,5 +1,4 @@
-《**Tell Me
-Goodbye**》是[BIGBANG在日本的第](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")4張單曲，於2010年6月9日發售。
+《**Tell Me Goodbye**》是[BIGBANG在日本的第](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")4張單曲，於2010年6月9日發售。
 
 ## 收錄曲目
 
@@ -18,6 +17,4 @@ Goodbye**》是[BIGBANG在日本的第](https://zh.wikipedia.org/wiki/BIGBANG "w
 1.  **Tell Me Goodbye -Music Video-**
 2.  **Tell Me Goodbye -Making-**
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:TBS電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:TBS電視台電視劇主題曲 "wikilink")
-[Category:BIGBANG單曲](https://zh.wikipedia.org/wiki/Category:BIGBANG單曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:TBS電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:TBS電視台電視劇主題曲 "wikilink") [Category:BIGBANG單曲](https://zh.wikipedia.org/wiki/Category:BIGBANG單曲 "wikilink")

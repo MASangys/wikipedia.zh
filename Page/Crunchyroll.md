@@ -2,8 +2,7 @@
 
 ## 概要
 
-于2006年對外宣稱由大學生成立，因架站站長\[1\]shinji\[2\]\[3\]喜歡吃[壽司](https://zh.wikipedia.org/wiki/壽司 "wikilink")，遂命名「Crunchyroll」；\[4\]實際上這是創辦者當時低調、匿名\[5\]的手法。Kun
-Gao\[6\]為首四人早已2004年從[柏克萊加州大學畢業](https://zh.wikipedia.org/wiki/柏克萊加州大學 "wikilink")，白天工作之餘，合夥創立公司、架設網站；後來均自願辭去工作，專心經營。\[7\]\[8\]
+于2006年對外宣稱由大學生成立，因架站站長\[1\]shinji\[2\]\[3\]喜歡吃[壽司](https://zh.wikipedia.org/wiki/壽司 "wikilink")，遂命名「Crunchyroll」；\[4\]實際上這是創辦者當時低調、匿名\[5\]的手法。Kun Gao\[6\]為首四人早已2004年從[柏克萊加州大學畢業](https://zh.wikipedia.org/wiki/柏克萊加州大學 "wikilink")，白天工作之餘，合夥創立公司、架設網站；後來均自願辭去工作，專心經營。\[7\]\[8\]
 
 起初供[ACG](../Page/ACG.md "wikilink")及[戲劇愛好者分享用途](https://zh.wikipedia.org/wiki/戲劇 "wikilink")，卻也引發侵權爭議。在[Venrock公司资助下](https://zh.wikipedia.org/wiki/Venrock "wikilink")，走向合法化串流服務逐漸壯大，内容包括[动画](../Page/动画.md "wikilink")、[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、戲劇、[音乐](../Page/音乐.md "wikilink")、[电子游戏](../Page/电子游戏.md "wikilink")和[赛车等](https://zh.wikipedia.org/wiki/赛车 "wikilink")，依授權區域而定。
 
@@ -67,8 +66,7 @@ Gao\[6\]為首四人早已2004年從[柏克萊加州大學畢業](https://zh.wik
 
 <!-- end list -->
 
-  - 12月，由闕寧集團（The Chernin
-    Group，TCG）取得[控制股權](https://zh.wikipedia.org/wiki/控制股權 "wikilink")。\[15\]\[16\]
+  - 12月，由闕寧集團（The Chernin Group，TCG）取得[控制股權](https://zh.wikipedia.org/wiki/控制股權 "wikilink")。\[15\]\[16\]
 
 <!-- end list -->
 
@@ -76,9 +74,7 @@ Gao\[6\]為首四人早已2004年從[柏克萊加州大學畢業](https://zh.wik
 
 <!-- end list -->
 
-  - 4月，AT\&T和闕寧集團合資成立Otter
-    Media公司來收購、投資及開通[OTT服務](https://zh.wikipedia.org/wiki/OTT服務 "wikilink")，將Crunchyroll納入旗下\[17\]
-    。
+  - 4月，AT\&T和闕寧集團合資成立Otter Media公司來收購、投資及開通[OTT服務](https://zh.wikipedia.org/wiki/OTT服務 "wikilink")，將Crunchyroll納入旗下\[17\] 。
 
 <!-- end list -->
 
@@ -86,8 +82,7 @@ Gao\[6\]為首四人早已2004年從[柏克萊加州大學畢業](https://zh.wik
 
 <!-- end list -->
 
-  - 8月，報導指出Otter
-    Media開設子公司Ellation整合旗下Crunchyroll、Creativebug和SoompiTV\[18\]。
+  - 8月，報導指出Otter Media開設子公司Ellation整合旗下Crunchyroll、Creativebug和SoompiTV\[18\]。
 
 <!-- end list -->
 
@@ -111,9 +106,7 @@ Gao\[6\]為首四人早已2004年從[柏克萊加州大學畢業](https://zh.wik
 
 ## 網站標誌
 
-[File:Crunchyroll_oldlogo-1.png|開站時標識，被2008年版取代](File:Crunchyroll_oldlogo-1.png%7C開站時標識，被2008年版取代)
-[File:Crunchyroll_oldlogo-2.png|2008年啟用的標識，被現行標識取代](File:Crunchyroll_oldlogo-2.png%7C2008年啟用的標識，被現行標識取代)
-[File:Crunchyroll_logo_2012.png|2012年啟用的現行標識](File:Crunchyroll_logo_2012.png%7C2012年啟用的現行標識)
+[File:Crunchyroll_oldlogo-1.png|開站時標識，被2008年版取代](File:Crunchyroll_oldlogo-1.png%7C開站時標識，被2008年版取代) [File:Crunchyroll_oldlogo-2.png|2008年啟用的標識，被現行標識取代](File:Crunchyroll_oldlogo-2.png%7C2008年啟用的標識，被現行標識取代) [File:Crunchyroll_logo_2012.png|2012年啟用的現行標識](File:Crunchyroll_logo_2012.png%7C2012年啟用的現行標識)
 
 ## 参考资料
 
@@ -131,41 +124,21 @@ Gao\[6\]為首四人早已2004年從[柏克萊加州大學畢業](https://zh.wik
   -
   -
   -
-[Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink")
-[Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink")
-[Category:2006年建立的网站](https://zh.wikipedia.org/wiki/Category:2006年建立的网站 "wikilink")
-[Category:视频点播订阅服务](https://zh.wikipedia.org/wiki/Category:视频点播订阅服务 "wikilink")
-[Category:美国网站](https://zh.wikipedia.org/wiki/Category:美国网站 "wikilink")
-[Category:2006年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2006年加利福尼亞州建立 "wikilink")
+[Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink") [Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink") [Category:2006年建立的网站](https://zh.wikipedia.org/wiki/Category:2006年建立的网站 "wikilink") [Category:视频点播订阅服务](https://zh.wikipedia.org/wiki/Category:视频点播订阅服务 "wikilink") [Category:美国网站](https://zh.wikipedia.org/wiki/Category:美国网站 "wikilink") [Category:2006年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2006年加利福尼亞州建立 "wikilink")
 
 1.
-2.  [Crunchyroll - shinji - Profile
-    Info](http://www.crunchyroll.com/user/shinji)
-3.  [Interview: Crunchyroll's Vu
-    Nguyen](http://www.animenewsnetwork.com/interview/2008-03-25/vu-nguyen).
-    Anime News Network. 2008-03-25.
+2.  [Crunchyroll - shinji - Profile Info](http://www.crunchyroll.com/user/shinji)
+3.  [Interview: Crunchyroll's Vu Nguyen](http://www.animenewsnetwork.com/interview/2008-03-25/vu-nguyen). Anime News Network. 2008-03-25.
 4.   「Crunchy Roll」是一種美式壽司脆卷。
-5.  [Crunchyroll Pushes the Envelope On Video
-    Copyright](http://techcrunch.com/2007/08/29/crunchyroll-pushes-the-envelope-on-video-copyright/).
-    TechCrunch. 2007-08-29.
-6.  [Mr. Kun
-    Gao](http://www.ict-summit.jp/2010/en/speakers/index.html#sp6b-4) .
-    Global ICT Summit 2010.
+5.  [Crunchyroll Pushes the Envelope On Video Copyright](http://techcrunch.com/2007/08/29/crunchyroll-pushes-the-envelope-on-video-copyright/). TechCrunch. 2007-08-29.
+6.  [Mr. Kun Gao](http://www.ict-summit.jp/2010/en/speakers/index.html#sp6b-4) . Global ICT Summit 2010.
 7.
 8.
 9.
-10. [Crunchyroll and Bitway Announce Digital Manga
-    Initiative](http://www.animenewsnetwork.com/press-release/2010-07-02/crunchyroll-bitway-announce-digital-initiative).
-    Anime News Network. 2010-07-02.
-11. [Crunchyroll Adds Shinkai's 5 Centimeters per Second
-    DVD](http://www.animenewsnetwork.com/news/2010-08-13/crunchyroll-adds-shinkai-5-centimeters-per-second-dvd).
-    Anime News Network. 2010-08-13.
-12. [Crunchyroll Launches U.K.
-    Page](http://www.animenewsnetwork.co.uk/news/2012-03-20/crunchyroll-launches-u.k-page).
-    Anime News Network. 2012-03-20.
-13. [Crunchyroll Brings Anime to
-    Brazil](http://www.animenewsnetwork.com/press-release/2012-10-31/crunchyroll-brings-anime-to-brazil).
-    Anime News Network. 2012-10-31.
+10. [Crunchyroll and Bitway Announce Digital Manga Initiative](http://www.animenewsnetwork.com/press-release/2010-07-02/crunchyroll-bitway-announce-digital-initiative). Anime News Network. 2010-07-02.
+11. [Crunchyroll Adds Shinkai's 5 Centimeters per Second DVD](http://www.animenewsnetwork.com/news/2010-08-13/crunchyroll-adds-shinkai-5-centimeters-per-second-dvd). Anime News Network. 2010-08-13.
+12. [Crunchyroll Launches U.K. Page](http://www.animenewsnetwork.co.uk/news/2012-03-20/crunchyroll-launches-u.k-page). Anime News Network. 2012-03-20.
+13. [Crunchyroll Brings Anime to Brazil](http://www.animenewsnetwork.com/press-release/2012-10-31/crunchyroll-brings-anime-to-brazil). Anime News Network. 2012-10-31.
 14.
 15.
 16.

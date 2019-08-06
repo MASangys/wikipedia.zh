@@ -38,8 +38,6 @@
 
 </div>
 
-[Category:王梓軒音樂專輯](https://zh.wikipedia.org/wiki/Category:王梓軒音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:王梓軒音樂專輯](https://zh.wikipedia.org/wiki/Category:王梓軒音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.

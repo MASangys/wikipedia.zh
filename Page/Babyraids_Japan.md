@@ -1,5 +1,4 @@
-**Babyraids
-JAPAN**（），[日本](../Page/日本.md "wikilink")五人女子團體，隸屬[LesPros娛樂](../Page/LesPros娛樂.md "wikilink")旗下，於2018年9月24日解散\[1\]。
+**Babyraids JAPAN**（），[日本](../Page/日本.md "wikilink")五人女子團體，隸屬[LesPros娛樂](../Page/LesPros娛樂.md "wikilink")旗下，於2018年9月24日解散\[1\]。
 
 ## 成員
 
@@ -209,13 +208,9 @@ PCCA-04039</p></td>
 
   - [官方網站](http://babyraids.lespros.co.jp/)
   - [官方部落格](http://ameblo.jp/babyraids/)
-  - [Babyraids
-    JAPAN](https://twitter.com/babyraids_JAPAN)的[Twitter](../Page/Twitter.md "wikilink")專頁
+  - [Babyraids JAPAN](https://twitter.com/babyraids_JAPAN)的[Twitter](../Page/Twitter.md "wikilink")專頁
 
-[Category:LesPros娛樂](https://zh.wikipedia.org/wiki/Category:LesPros娛樂 "wikilink")
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
+[Category:LesPros娛樂](https://zh.wikipedia.org/wiki/Category:LesPros娛樂 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
 
 1.
 2.

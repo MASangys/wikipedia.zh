@@ -1,29 +1,8 @@
-**Double S 301**（，舊名**SS301**（）或**Triple S**（））是[DSP
-Entertainment於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")2008年11月至2009年6月止所推出的企劃組合。為原[SS501](../Page/SS501.md "wikilink")成員[許永生](../Page/許永生.md "wikilink")、[金奎鐘](../Page/金奎鐘.md "wikilink")、[金亨俊](../Page/金亨俊.md "wikilink")三人組成。Triple
-S是[SS501](../Page/SS501.md "wikilink")的官方FAN CLUB名稱，與FAN
-CLUB不同意義的是「三（Triple）」象徵三位成員與代表SS501的S所構成的新隊名\[1\]。廣大歌迷在網路上亦稱其組合為『許金金』美聲三人組，首張專輯在韓國推出後成績相當耀眼，堪稱是自2005年出道至2008年以來SS501專輯銷售量最好的一張\[2\]。2016年改名為**SS301**回歸歌壇。
+**Double S 301**（，舊名**SS301**（）或**Triple S**（））是[DSP Entertainment於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")2008年11月至2009年6月止所推出的企劃組合。為原[SS501](../Page/SS501.md "wikilink")成員[許永生](../Page/許永生.md "wikilink")、[金奎鐘](../Page/金奎鐘.md "wikilink")、[金亨俊](../Page/金亨俊.md "wikilink")三人組成。Triple S是[SS501](../Page/SS501.md "wikilink")的官方FAN CLUB名稱，與FAN CLUB不同意義的是「三（Triple）」象徵三位成員與代表SS501的S所構成的新隊名\[1\]。廣大歌迷在網路上亦稱其組合為『許金金』美聲三人組，首張專輯在韓國推出後成績相當耀眼，堪稱是自2005年出道至2008年以來SS501專輯銷售量最好的一張\[2\]。2016年改名為**SS301**回歸歌壇。
 
 ## 經歷
 
-2008年10月9日所屬公司DSP宣布由於[金賢重](../Page/金賢重.md "wikilink")、[朴政珉](../Page/朴政珉.md "wikilink")分別需拍攝電視劇「花樣男子」和演出音樂劇「GREASE」所以另三名成員[許永生](../Page/許永生.md "wikilink")、[金奎鐘](../Page/金奎鐘.md "wikilink")、[金亨俊](../Page/金亨俊.md "wikilink")將組成子團《Triple
-S》發表企劃唱片，其中許永生擔任隊長一職，DSP亦表示：Triple
-S成員同時表示：「通過這次專輯的一系列宣傳活動，能夠把成員的個人特色表現出來\[3\]。」11月11日公開成員滿溢著男性美氛圍的專輯封面照\[4\]，並在11月15日於奧林匹克公園擊劍競技場舉行的「Showcase
-with Triple S」中首次演唱新曲〈Want It〉、〈U R MAN〉、〈The one〉；11月21日正式發行首張迷你專輯《U R
-MAN》，特地請來美國知名的音樂製作公司Pisces Music合作。帶有復古味道且融合了流行House舞曲的首波主打歌《U R
-Man》由曾製作《4Chance》的團隊打造，讓三人首度展露由男孩轉變為男人的性感形象。而Urban Hip
-Hop風格的《WANT IT》更是由曾和新好男孩（Backstreet Boys）與五角（50 Cent）御用音樂人Shaine
-Freeman和Andrew
-Lane親自創作，展現出三個人超完美的唱功。在這張專輯中同時也收入了三人親自創作的作品：永生作詞作曲的心碎情歌《是愛吧》、奎鐘作詞的《NEVER
-LET YOU GO》以及亨俊作詞輕快的告白《I AM》\[5\]，發行後迅速攻占韓國各大音源網榜首；11月22日於MBC〈[Show\!
-音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")〉進行回歸舞台\[6\]演唱新曲〈U
-R MAN〉與〈The
-one〉後開始為期八周的宣傳行程，期間在2009年1月8日[Mnet的音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《M\!
-Countdown》中獲得子團首個一位獎座\[7\]。2009年1月21日以「[花樣男子](../Page/花樣男子.md "wikilink")」電視原聲帶歌曲〈因為我太傻〉作為後續曲持續宣傳活動，並於此之前客串該劇第四集的演出，首場後續舞台於1月30日[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《音樂銀行》公開；同月24日進入日本宣傳；於24、25日兩天在日本東京長野三得利音樂廳召開約莫5、6000人次的「SS501
-迷你演唱會 in JAPAN」\[8\]，並於3月發行《UR Man
-日版License專輯》。DSP方面表示：而後因歌曲〈因為我太傻〉獲得《Cyworld
-Digital Music Awards》月度最佳歌曲獎與《Mnet Asian Music
-Award》音源OST獎的殊榮，為其組合寫下輝煌的歷史。2010年6月7日原組合[SS501](../Page/SS501.md "wikilink")與DSP合約到期後不久的7月30日傳出三人將以組合形式繼續音樂活動\[9\]，但隨著金亨俊簽約S-plus；許永生與金奎鐘共同簽約[B2M
-Entertainment公司後破除該傳言](https://zh.wikipedia.org/wiki/B2M_Entertainment "wikilink")，自此組合活動暫時畫下句點。
+2008年10月9日所屬公司DSP宣布由於[金賢重](../Page/金賢重.md "wikilink")、[朴政珉](../Page/朴政珉.md "wikilink")分別需拍攝電視劇「花樣男子」和演出音樂劇「GREASE」所以另三名成員[許永生](../Page/許永生.md "wikilink")、[金奎鐘](../Page/金奎鐘.md "wikilink")、[金亨俊](../Page/金亨俊.md "wikilink")將組成子團《Triple S》發表企劃唱片，其中許永生擔任隊長一職，DSP亦表示：Triple S成員同時表示：「通過這次專輯的一系列宣傳活動，能夠把成員的個人特色表現出來\[3\]。」11月11日公開成員滿溢著男性美氛圍的專輯封面照\[4\]，並在11月15日於奧林匹克公園擊劍競技場舉行的「Showcase with Triple S」中首次演唱新曲〈Want It〉、〈U R MAN〉、〈The one〉；11月21日正式發行首張迷你專輯《U R MAN》，特地請來美國知名的音樂製作公司Pisces Music合作。帶有復古味道且融合了流行House舞曲的首波主打歌《U R Man》由曾製作《4Chance》的團隊打造，讓三人首度展露由男孩轉變為男人的性感形象。而Urban Hip Hop風格的《WANT IT》更是由曾和新好男孩（Backstreet Boys）與五角（50 Cent）御用音樂人Shaine Freeman和Andrew Lane親自創作，展現出三個人超完美的唱功。在這張專輯中同時也收入了三人親自創作的作品：永生作詞作曲的心碎情歌《是愛吧》、奎鐘作詞的《NEVER LET YOU GO》以及亨俊作詞輕快的告白《I AM》\[5\]，發行後迅速攻占韓國各大音源網榜首；11月22日於MBC〈[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")〉進行回歸舞台\[6\]演唱新曲〈U R MAN〉與〈The one〉後開始為期八周的宣傳行程，期間在2009年1月8日[Mnet的音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《M\! Countdown》中獲得子團首個一位獎座\[7\]。2009年1月21日以「[花樣男子](../Page/花樣男子.md "wikilink")」電視原聲帶歌曲〈因為我太傻〉作為後續曲持續宣傳活動，並於此之前客串該劇第四集的演出，首場後續舞台於1月30日[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《音樂銀行》公開；同月24日進入日本宣傳；於24、25日兩天在日本東京長野三得利音樂廳召開約莫5、6000人次的「SS501 迷你演唱會 in JAPAN」\[8\]，並於3月發行《UR Man 日版License專輯》。DSP方面表示：而後因歌曲〈因為我太傻〉獲得《Cyworld Digital Music Awards》月度最佳歌曲獎與《Mnet Asian Music Award》音源OST獎的殊榮，為其組合寫下輝煌的歷史。2010年6月7日原組合[SS501](../Page/SS501.md "wikilink")與DSP合約到期後不久的7月30日傳出三人將以組合形式繼續音樂活動\[9\]，但隨著金亨俊簽約S-plus；許永生與金奎鐘共同簽約[B2M Entertainment公司後破除該傳言](https://zh.wikipedia.org/wiki/B2M_Entertainment "wikilink")，自此組合活動暫時畫下句點。
 
 2016年1月，CI娛樂宣布許永生、金奎鐘、金亨俊以Double S 301推出新作品回歸歌壇\[10\]。
 
@@ -190,12 +169,8 @@ Entertainment公司後破除該傳言](https://zh.wikipedia.org/wiki/B2M_Enterta
 
 ### 電視原聲帶
 
-  - 2009年1月8日
-    韓國電視劇－[花樣男子](https://zh.wikipedia.org/wiki/流星花園_\(韓國電視劇\) "wikilink")
-    Part 1〈내 머리가 나빠서/因為我太傻〉
-  - 2009年3月6日
-    韓國電視劇－[花樣男子](https://zh.wikipedia.org/wiki/流星花園_\(韓國電視劇\) "wikilink")
-    Part 2〈애인 만들기/成為戀人吧〉
+  - 2009年1月8日 韓國電視劇－[花樣男子](https://zh.wikipedia.org/wiki/流星花園_\(韓國電視劇\) "wikilink") Part 1〈내 머리가 나빠서/因為我太傻〉
+  - 2009年3月6日 韓國電視劇－[花樣男子](https://zh.wikipedia.org/wiki/流星花園_\(韓國電視劇\) "wikilink") Part 2〈애인 만들기/成為戀人吧〉
 
 ## 演唱會
 
@@ -366,8 +341,7 @@ Entertainment公司後破除該傳言](https://zh.wikipedia.org/wiki/B2M_Enterta
 
   - [SS301日本官方網站](http://www.doubles301.jp/pages/default.php)
 
-  - [所屬公司CI ENT
-    YouTube](https://www.youtube.com/channel/UC6JQSVZDTADdH4R2ag6ARHw)
+  - [所屬公司CI ENT YouTube](https://www.youtube.com/channel/UC6JQSVZDTADdH4R2ag6ARHw)
 
   - [所屬公司CI ENT推特](https://www.facebook.com/CIENT.Co)
 
@@ -385,12 +359,7 @@ Entertainment公司後破除該傳言](https://zh.wikipedia.org/wiki/B2M_Enterta
 
   - [金亨俊個人日本官方網站](http://www.kimhyungjun.jp/)
 
-[Category:SS501](https://zh.wikipedia.org/wiki/Category:SS501 "wikilink")
-[Category:DSP_Media](https://zh.wikipedia.org/wiki/Category:DSP_Media "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink")
+[Category:SS501](https://zh.wikipedia.org/wiki/Category:SS501 "wikilink") [Category:DSP_Media](https://zh.wikipedia.org/wiki/Category:DSP_Media "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink")
 
 1.
 2.

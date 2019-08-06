@@ -3,8 +3,7 @@
 ## 介绍
 
   - 4名成员都出自大阪・京橋的声乐和舞蹈学校[キャレス](https://zh.wikipedia.org/wiki/キャレス "wikilink")。
-  - 组合成立后，原『PARADISE GO\!\!
-    GO\!\!』的松本美咲也是成员之一。她离开后，NANAKA加入了组合，之后『HINOIチーム』的成员小山ひかる也加入了，5人组合活跃了一段时间。
+  - 组合成立后，原『PARADISE GO\!\! GO\!\!』的松本美咲也是成员之一。她离开后，NANAKA加入了组合，之后『HINOIチーム』的成员小山ひかる也加入了，5人组合活跃了一段时间。
   - 2007年1月至2008年3月期间，在京都新京極商店街每月第二个、第四个星期六举行公演活动。
   - 2013年5月发布公告解散\[1\]\[2\]\[3\]。
 
@@ -124,13 +123,10 @@
 
 ### 参加作品
 
-1.  **[Rhythm
-    Nation](https://zh.wikipedia.org/wiki/Rhythm_Nation "wikilink") 2006
-    -The biggest indoor music festival-**（2007年7月11日）
+1.  **[Rhythm Nation](https://zh.wikipedia.org/wiki/Rhythm_Nation "wikilink") 2006 -The biggest indoor music festival-**（2007年7月11日）
       -
         2\. JOYFUL JOYFUL
-2.  **Rhythm Nation 2007 -The biggest indoor music
-    festival-**（2008年4月2日）
+2.  **Rhythm Nation 2007 -The biggest indoor music festival-**（2008年4月2日）
       -
         9\. Brightest Star
 3.  **ディズニー・ドリーム・ポップ 〜トリビュート・トゥ・東京ディズニーリゾート 25thアニバーサリー**（2009年1月28日）
@@ -144,15 +140,12 @@
 
 ### 电视剧
 
-  - ジャイケルマクソン
-    （[毎日放送](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")、2009年12月2日
-    - 2010年3月10日）
+  - ジャイケルマクソン （[毎日放送](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")、2009年12月2日 - 2010年3月10日）
 
 ### 广播
 
   - BRIGHTのGirls Party Night\!\! （スターデジオ、2008年10月7日 - 2009年12月29日）
-  - ワールドウェディング BRIGHTに♪何だって話してよ〜♪ （FM OSAKA「SHOO POWER
-    REQUEST」内、2009年10月2日 - 2011年3月25日）
+  - ワールドウェディング BRIGHTに♪何だって話してよ〜♪ （FM OSAKA「SHOO POWER REQUEST」内、2009年10月2日 - 2011年3月25日）
   - BRIGHTの月極うたぐみ （MBSラジオ、2011年10月28日 - 2011年11月25日）
 
 ## 参考
@@ -165,8 +158,7 @@
 
   - [官方网站](https://web.archive.org/web/20100313155200/http://www.bright-online.net/index.html)
   - [官方博客「BRIGHTのBrightestな日々」](https://web.archive.org/web/20130521175337/http://ameblo.jp/bright-blog/)
-  - [@peps\!ミュージック
-    BRIGHT特設ページ](https://archive.is/20130501230807/http://music.peps.jp/info/sp.php?guid=on&seq=286)
+  - [@peps\!ミュージック BRIGHT特設ページ](https://archive.is/20130501230807/http://music.peps.jp/info/sp.php?guid=on&seq=286)
 
 [Category:日本演唱团体](https://zh.wikipedia.org/wiki/Category:日本演唱团体 "wikilink")
 

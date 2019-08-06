@@ -1,5 +1,4 @@
-《**月刊Comic BLADE**》（）是[日本](../Page/日本.md "wikilink")[Mag
-Garden發行的](../Page/Mag_Garden.md "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2002年創刊，每月30日發售，以[初中](https://zh.wikipedia.org/wiki/初中 "wikilink")[高中學生為目標讀者群](https://zh.wikipedia.org/wiki/高中 "wikilink")。2014年7月休刊。2014年9月轉型為[電子雜誌](https://zh.wikipedia.org/wiki/電子雜誌 "wikilink")，每月5、15、25、30日更新。
+《**月刊Comic BLADE**》（）是[日本](../Page/日本.md "wikilink")[Mag Garden發行的](../Page/Mag_Garden.md "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2002年創刊，每月30日發售，以[初中](https://zh.wikipedia.org/wiki/初中 "wikilink")[高中學生為目標讀者群](https://zh.wikipedia.org/wiki/高中 "wikilink")。2014年7月休刊。2014年9月轉型為[電子雜誌](https://zh.wikipedia.org/wiki/電子雜誌 "wikilink")，每月5、15、25、30日更新。
 
 另有姊妹雜誌《[月刊Comic Avarus](../Page/月刊Comic_Avarus.md "wikilink")》。
 
@@ -1586,64 +1585,41 @@ V.E.inc※/2199製委※※（協力）</span></p></td>
 #### WEB連載
 
   - 連載中
-      - （[宿屋続](https://zh.wikipedia.org/wiki/宿屋続 "wikilink")）2012年6月 -
-        2013年4月（第1部）
+      - （[宿屋続](https://zh.wikipedia.org/wiki/宿屋続 "wikilink")）2012年6月 - 2013年4月（第1部）
 
-      - （原作：、漫画：[浅川圭司](https://zh.wikipedia.org/wiki/浅川圭司 "wikilink")、人物原案：[バーニア600](https://zh.wikipedia.org/wiki/バーニア600 "wikilink")）2012年11月
-        -
+      - （原作：、漫画：[浅川圭司](https://zh.wikipedia.org/wiki/浅川圭司 "wikilink")、人物原案：[バーニア600](https://zh.wikipedia.org/wiki/バーニア600 "wikilink")）2012年11月 -
 
-      - （[田川ミ](https://zh.wikipedia.org/wiki/田川ミ "wikilink")）2013年1月 -
-        6月（第1部）、11月 - （第2部）
+      - （[田川ミ](https://zh.wikipedia.org/wiki/田川ミ "wikilink")）2013年1月 - 6月（第1部）、11月 - （第2部）
   - 連載結束
-      - Drc2（原作：[伊藤仁](https://zh.wikipedia.org/wiki/伊藤仁 "wikilink")、作画：[楓月誠](https://zh.wikipedia.org/wiki/楓月誠 "wikilink")）（至2012年6月号通常連載）
-        - 2012年11月
+      - Drc2（原作：[伊藤仁](https://zh.wikipedia.org/wiki/伊藤仁 "wikilink")、作画：[楓月誠](https://zh.wikipedia.org/wiki/楓月誠 "wikilink")）（至2012年6月号通常連載） - 2012年11月
 
       - （[おとと](https://zh.wikipedia.org/wiki/おとと "wikilink")） - 2013年1月
 
       - （[二階堂ヒカル](https://zh.wikipedia.org/wiki/二階堂ヒカル "wikilink")）（至2012年6月号通常連載）
 
-      - （[中西達郎](https://zh.wikipedia.org/wiki/中西達郎 "wikilink")）2012年6月 -
-        12月
+      - （[中西達郎](https://zh.wikipedia.org/wiki/中西達郎 "wikilink")）2012年6月 - 12月
 
-      - （原作：[イメージエポック](https://zh.wikipedia.org/wiki/イメージエポック "wikilink")、漫画：[吉岡榊](../Page/吉岡榊.md "wikilink")）2012年6月
-        - 2013年3月
+      - （原作：[イメージエポック](https://zh.wikipedia.org/wiki/イメージエポック "wikilink")、漫画：[吉岡榊](../Page/吉岡榊.md "wikilink")）2012年6月 - 2013年3月
 
-      - （[そにしけんじ](https://zh.wikipedia.org/wiki/そにしけんじ "wikilink")）2012年6月
-        - 2014年3月
+      - （[そにしけんじ](https://zh.wikipedia.org/wiki/そにしけんじ "wikilink")）2012年6月 - 2014年3月
 
-      - （原作：[スパイク・チュンソフト](https://zh.wikipedia.org/wiki/スパイク・チュンソフト "wikilink")、漫画：[要龍](https://zh.wikipedia.org/wiki/要龍 "wikilink")）2012年11月
-        - 2013年4月
+      - （原作：[スパイク・チュンソフト](https://zh.wikipedia.org/wiki/スパイク・チュンソフト "wikilink")、漫画：[要龍](https://zh.wikipedia.org/wiki/要龍 "wikilink")）2012年11月 - 2013年4月
 
-      - （原作：[CIRCUS](https://zh.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")、脚本・構成：[伊藤仁](https://zh.wikipedia.org/wiki/伊藤仁 "wikilink")、作画：[宮野しずま](https://zh.wikipedia.org/wiki/宮野しずま "wikilink")）2012年11月
-        - 2013年8月
+      - （原作：[CIRCUS](https://zh.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")、脚本・構成：[伊藤仁](https://zh.wikipedia.org/wiki/伊藤仁 "wikilink")、作画：[宮野しずま](https://zh.wikipedia.org/wiki/宮野しずま "wikilink")）2012年11月 - 2013年8月
 
-      - （原作：[初美陽一](https://zh.wikipedia.org/wiki/初美陽一 "wikilink")、漫画：[滝口将人](https://zh.wikipedia.org/wiki/滝口将人 "wikilink")、人物原案：[さくらねこ](https://zh.wikipedia.org/wiki/さくらねこ "wikilink")）2012年11月
-        - 2013年6月
+      - （原作：[初美陽一](https://zh.wikipedia.org/wiki/初美陽一 "wikilink")、漫画：[滝口将人](https://zh.wikipedia.org/wiki/滝口将人 "wikilink")、人物原案：[さくらねこ](https://zh.wikipedia.org/wiki/さくらねこ "wikilink")）2012年11月 - 2013年6月
 
-      - （[まいたけ](https://zh.wikipedia.org/wiki/まいたけ_\(漫画家\) "wikilink")）2012年12月
-        - 2013年5月
+      - （[まいたけ](https://zh.wikipedia.org/wiki/まいたけ_\(漫画家\) "wikilink")）2012年12月 - 2013年5月
 
-      - （[むねきち](https://zh.wikipedia.org/wiki/むねきち "wikilink")）（至2012年6月号通常連載）
-        - 2013年8月
+      - （[むねきち](https://zh.wikipedia.org/wiki/むねきち "wikilink")）（至2012年6月号通常連載） - 2013年8月
 
-      - （[港川一臣](https://zh.wikipedia.org/wiki/港川一臣 "wikilink")）2013年2月 -
-        10月
+      - （[港川一臣](https://zh.wikipedia.org/wiki/港川一臣 "wikilink")）2013年2月 - 10月
 
-      - （原作：[空中カリカチュア](https://zh.wikipedia.org/wiki/空中カリカチュア "wikilink")、漫画：[甘野めぐみ](https://zh.wikipedia.org/wiki/甘野めぐみ "wikilink")）2013年2月
-        - 10月
+      - （原作：[空中カリカチュア](https://zh.wikipedia.org/wiki/空中カリカチュア "wikilink")、漫画：[甘野めぐみ](https://zh.wikipedia.org/wiki/甘野めぐみ "wikilink")）2013年2月 - 10月
 
 ## 外部連結
 
-  - [BLADE-ONLINE](https://web.archive.org/web/20140626025610/http://www.mag-garden.co.jp/comic-blade/top.html)
-    - 官方網站
-  - [コミックブレイド -
-    マッグガーデン・コミック・オンライン](http://comic.mag-garden.co.jp/blade/)
+  - [BLADE-ONLINE](https://web.archive.org/web/20140626025610/http://www.mag-garden.co.jp/comic-blade/top.html) - 官方網站
+  - [コミックブレイド - マッグガーデン・コミック・オンライン](http://comic.mag-garden.co.jp/blade/)
 
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:少年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少年漫畫雜誌 "wikilink")
-[Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:2002年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:2002年創辦的雜誌 "wikilink")
-[Category:2014年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2014年停刊的雜誌 "wikilink")
-[Category:2002年日本建立](https://zh.wikipedia.org/wiki/Category:2002年日本建立 "wikilink")
-[Category:2014年日本廢除](https://zh.wikipedia.org/wiki/Category:2014年日本廢除 "wikilink")
+[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少年漫畫雜誌 "wikilink") [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:2002年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:2002年創辦的雜誌 "wikilink") [Category:2014年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2014年停刊的雜誌 "wikilink") [Category:2002年日本建立](https://zh.wikipedia.org/wiki/Category:2002年日本建立 "wikilink") [Category:2014年日本廢除](https://zh.wikipedia.org/wiki/Category:2014年日本廢除 "wikilink")

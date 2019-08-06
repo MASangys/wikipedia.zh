@@ -16,8 +16,6 @@ VM型柴油机车是双节式重联柴油机车，每组机车由两节结构相
   -
 ## 外部链接
 
-  - [1520mm.ru: Тепловоз
-    ВМ](https://web.archive.org/web/20091106175929/http://www.1520mm.ru/locomotives/diesel/vm.phtml)
+  - [1520mm.ru: Тепловоз ВМ](https://web.archive.org/web/20091106175929/http://www.1520mm.ru/locomotives/diesel/vm.phtml)
 
-[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink")
-[Category:科洛姆纳制铁路机车](https://zh.wikipedia.org/wiki/Category:科洛姆纳制铁路机车 "wikilink")
+[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:科洛姆纳制铁路机车](https://zh.wikipedia.org/wiki/Category:科洛姆纳制铁路机车 "wikilink")

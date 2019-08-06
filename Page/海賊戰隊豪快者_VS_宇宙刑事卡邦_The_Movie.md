@@ -1,5 +1,4 @@
-《**海賊戰隊豪快者 VS 宇宙刑事卡邦 THE
-MOVIE**》（原文：）於日本時間2012年1月21日上映。係為『[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")』之《[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")》及『[宇宙刑事](../Page/宇宙刑事.md "wikilink")系列』之《[宇宙刑事卡邦](../Page/宇宙刑事卡邦.md "wikilink")》共同演出的劇場版作品。本作也是台灣東森幼幼台播放的最後一部超級戰隊劇場版作品，播出時間不明。
+《**海賊戰隊豪快者 VS 宇宙刑事卡邦 THE MOVIE**》（原文：）於日本時間2012年1月21日上映。係為『[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")』之《[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")》及『[宇宙刑事](../Page/宇宙刑事.md "wikilink")系列』之《[宇宙刑事卡邦](../Page/宇宙刑事卡邦.md "wikilink")》共同演出的劇場版作品。本作也是台灣東森幼幼台播放的最後一部超級戰隊劇場版作品，播出時間不明。
 
 ## 概要
 
@@ -35,8 +34,7 @@ MOVIE**》（原文：）於日本時間2012年1月21日上映。係為『[超�
 
 **特命戰隊**
 
-  - <small>詳見[特命戰隊Go
-    Busters人物介紹](../Page/特命戰隊Go_Busters.md "wikilink")</small>
+  - <small>詳見[特命戰隊Go Busters人物介紹](../Page/特命戰隊Go_Busters.md "wikilink")</small>
 
 | 配音                                                          | 角色    | 代號            |
 | ----------------------------------------------------------- | ----- | ------------- |
@@ -49,11 +47,9 @@ MOVIE**》（原文：）於日本時間2012年1月21日上映。係為『[超�
 
 ### 宇宙警察
 
-卡邦所屬的組織。劇集系列《**宇宙刑事卡邦**》和劇場版《**[宇宙刑事卡邦 The
-Movie](https://zh.wikipedia.org/wiki/宇宙刑事卡邦_The_Movie "wikilink")**》中稱為「銀河聯邦警察」，本作則稱之為「宇宙警察」。
+卡邦所屬的組織。劇集系列《**宇宙刑事卡邦**》和劇場版《**[宇宙刑事卡邦 The Movie](https://zh.wikipedia.org/wiki/宇宙刑事卡邦_The_Movie "wikilink")**》中稱為「銀河聯邦警察」，本作則稱之為「宇宙警察」。
 
-**[一條寺烈／卡邦](../Page/宇宙刑事卡邦.md "wikilink")**<small>（いちじょうじ れつ /
-ギャバン，[大葉健二](https://zh.wikipedia.org/wiki/大葉健二 "wikilink")）</small>
+**[一條寺烈／卡邦](../Page/宇宙刑事卡邦.md "wikilink")**<small>（いちじょうじ れつ / ギャバン，[大葉健二](https://zh.wikipedia.org/wiki/大葉健二 "wikilink")）</small>
 
   -
     曾於宇宙犯罪組織**魔空**手中保衛地球和平的傳奇刑警。本作利用假藉逮捕豪快者之計，逼出阿修拉達的真面目。
@@ -75,26 +71,19 @@ Movie](https://zh.wikipedia.org/wiki/宇宙刑事卡邦_The_Movie "wikilink")**�
 **[青梅大五郎／電磁藍](../Page/電子戰隊電磁人.md "wikilink")**
 
   -
-    過去曾和貝達一族戰鬥的電子戰隊電磁人的成員。《[豪快者 護星者
-    超級戰隊199英雄大決戰](../Page/豪快者_護星者_超級戰隊199英雄大決戰.md "wikilink")》曾登場。鎧形容他有著「紅豆麵包般的香味」。對於前輩曙使用[敬語](https://zh.wikipedia.org/wiki/敬語 "wikilink")。
+    過去曾和貝達一族戰鬥的電子戰隊電磁人的成員。《[豪快者 護星者 超級戰隊199英雄大決戰](../Page/豪快者_護星者_超級戰隊199英雄大決戰.md "wikilink")》曾登場。鎧形容他有著「紅豆麵包般的香味」。對於前輩曙使用[敬語](https://zh.wikipedia.org/wiki/敬語 "wikilink")。
 
 ### 宇宙殘虐帝國
 
 **魔空監獄獄長．阿修羅達**<small>（アシュラーダ，佐野史郎聲）</small>
 
   -
-    隸屬宇宙殘虐帝國麾下的魔空監獄獄長。繼承了被卡邦所消滅的宇宙犯罪組織「魔空」首領恫·霍拉之血，具有重啟魔空空間及魔空都市的能力。以俘虜宇宙警察、抹殺豪快者為使命。具有如神祇[阿波羅般的六條手臂](https://zh.wikipedia.org/wiki/阿波羅 "wikilink")，伸縮自如的手臂可攻擊複數的敵人。等身戰一度壓著豪快者打，不料，豪快者啟動了豪快變身後的一輪猛攻徹底將它壓制，後被「**豪快爆烈斬擊．特別版Gokai
-    Blast & Slash
-    Special**」擊敗。巨大戰時，無法抵擋豪獸豪快王的攻勢，面對完全豪快王和電子星獸多魯的聯合攻擊「**多魯豪快烈焰Doru
-    Gokai Fire**」只能勉強以雙肩上的鑽頭抵擋，最終被「**卡邦．瑪貝拉斯大爆擊Gaven Marvelous
-    Dynamic**」擊敗。
+    隸屬宇宙殘虐帝國麾下的魔空監獄獄長。繼承了被卡邦所消滅的宇宙犯罪組織「魔空」首領恫·霍拉之血，具有重啟魔空空間及魔空都市的能力。以俘虜宇宙警察、抹殺豪快者為使命。具有如神祇[阿波羅般的六條手臂](https://zh.wikipedia.org/wiki/阿波羅 "wikilink")，伸縮自如的手臂可攻擊複數的敵人。等身戰一度壓著豪快者打，不料，豪快者啟動了豪快變身後的一輪猛攻徹底將它壓制，後被「**豪快爆烈斬擊．特別版Gokai Blast & Slash Special**」擊敗。巨大戰時，無法抵擋豪獸豪快王的攻勢，面對完全豪快王和電子星獸多魯的聯合攻擊「**多魯豪快烈焰Doru Gokai Fire**」只能勉強以雙肩上的鑽頭抵擋，最終被「**卡邦．瑪貝拉斯大爆擊Gaven Marvelous Dynamic**」擊敗。
 
 **偽卡邦**<small>（ギャバンブートレグ）</small>
 
   -
-    阿修羅達融合宇宙警察和殘虐的技術，拷貝卡邦的技能和能力所創造出的最強機械戰士。號稱性能和規格都在原型卡邦之上，武器為能變為鞭型態的「偽光刃Bootleg
-    Blade」和雷射槍「偽雷射槍Bootleg Laser
-    Gun」。只要阿修羅達喊聲，便能啟動「魔空空間」及「魔空都市」。其能力一度將卡邦帶往魔空空間，而在魔空監獄和豪快紅戰鬥時更可發揮其戰鬥力，最後逃離魔空空間和真貨卡邦死戰時，卡邦曾說：「只有複製能力的冒牌貨，怎麼可能戰勝擁有人心的我\!\!」，後敗北於「卡邦爆擊斬」。
+    阿修羅達融合宇宙警察和殘虐的技術，拷貝卡邦的技能和能力所創造出的最強機械戰士。號稱性能和規格都在原型卡邦之上，武器為能變為鞭型態的「偽光刃Bootleg Blade」和雷射槍「偽雷射槍Bootleg Laser Gun」。只要阿修羅達喊聲，便能啟動「魔空空間」及「魔空都市」。其能力一度將卡邦帶往魔空空間，而在魔空監獄和豪快紅戰鬥時更可發揮其戰鬥力，最後逃離魔空空間和真貨卡邦死戰時，卡邦曾說：「只有複製能力的冒牌貨，怎麼可能戰勝擁有人心的我\!\!」，後敗北於「卡邦爆擊斬」。
     原文ブートレグ，意為「海賊版」。不確定是否具有語言功能，片中甚至沒有任何發聲。
 
 ### 魔空都市怪人
@@ -107,16 +96,13 @@ Movie](https://zh.wikipedia.org/wiki/宇宙刑事卡邦_The_Movie "wikilink")**�
 **希絲塔**<small>（シスター，[加藤英美里](../Page/加藤英美里.md "wikilink")聲）</small>
 
   -
-    艾爾德所帶的偷偷摸摸兄弟的么妹。和楊格皆為強化改造後的型態。性格相當激烈暴躁。最後被RISING
-    STRIKE連同魔空監獄一同被炸個粉碎。
+    艾爾德所帶的偷偷摸摸兄弟的么妹。和楊格皆為強化改造後的型態。性格相當激烈暴躁。最後被RISING STRIKE連同魔空監獄一同被炸個粉碎。
     通算電視版的劇情，是除了殘虐幹部陰桑外的唯一一位女性怪人。
 
 **[惑星之大王蛾·德雷古](https://zh.wikipedia.org/wiki/天裝戰隊護星者 "wikilink")**、**[大腳怪之筋金剛](https://zh.wikipedia.org/wiki/天裝戰隊護星者 "wikilink")**、**[天才之機械過庫](https://zh.wikipedia.org/wiki/天裝戰隊護星者 "wikilink")**
 
   -
-    和天裝戰隊戰鬥之惡靈分別來自宇宙虐滅軍團War
-    Star、地球獄蟻集團．幽魔獸、機械禦鏖帝國馬托林提斯的首領．幹部。以魔空空間內的魔空都市的魔空怪人登場，並與變為護星者的豪快紅、豪快粉紅戰鬥。最後被RISING
-    STRIKE連同魔空監獄一同被炸個粉碎。
+    和天裝戰隊戰鬥之惡靈分別來自宇宙虐滅軍團War Star、地球獄蟻集團．幽魔獸、機械禦鏖帝國馬托林提斯的首領．幹部。以魔空空間內的魔空都市的魔空怪人登場，並與變為護星者的豪快紅、豪快粉紅戰鬥。最後被RISING STRIKE連同魔空監獄一同被炸個粉碎。
 
 ### 魔空監獄囚犯
 
@@ -203,30 +189,21 @@ Movie](https://zh.wikipedia.org/wiki/宇宙刑事卡邦_The_Movie "wikilink")**�
 
 **「JUMP」**
 
-  - <small>作詞：[岩里祐穂](https://zh.wikipedia.org/wiki/岩里祐穂 "wikilink") /
-    作曲：[持田裕輔](https://zh.wikipedia.org/wiki/持田裕輔 "wikilink") /
-    編曲：[Project.R](../Page/Project.R.md "wikilink")（[籠島裕昌](https://zh.wikipedia.org/wiki/籠島裕昌 "wikilink")）
-    /
-    歌：[松原剛志](../Page/松原剛志.md "wikilink")、[串田晃](../Page/串田晃.md "wikilink")</small>
+  - <small>作詞：[岩里祐穂](https://zh.wikipedia.org/wiki/岩里祐穂 "wikilink") / 作曲：[持田裕輔](https://zh.wikipedia.org/wiki/持田裕輔 "wikilink") / 編曲：[Project.R](../Page/Project.R.md "wikilink")（[籠島裕昌](https://zh.wikipedia.org/wiki/籠島裕昌 "wikilink")） / 歌：[松原剛志](../Page/松原剛志.md "wikilink")、[串田晃](../Page/串田晃.md "wikilink")</small>
 
 ### 挿入歌
 
 **「海賊戦隊ゴーカイジャー」**
 
-  - <small>作詞：岩里祐穂 / 作曲：持田裕輔 / 編曲：Project.R（籠島裕昌） / 歌：松原剛志 （Project.R） /
-    コーラス：ヤング・フレッシュ、Project.R</small>
+  - <small>作詞：岩里祐穂 / 作曲：持田裕輔 / 編曲：Project.R（籠島裕昌） / 歌：松原剛志 （Project.R） / コーラス：ヤング・フレッシュ、Project.R</small>
 
 **「宇宙刑事ギャバン」**
 
-  - <small>作詞：[山川啓介](https://zh.wikipedia.org/wiki/山川啓介 "wikilink") /
-    作曲：[渡邊宙明](https://zh.wikipedia.org/wiki/渡邊宙明 "wikilink") /
-    編曲：[馬飼野康二](https://zh.wikipedia.org/wiki/馬飼野康二 "wikilink") /
-    歌：串田晃</small>
+  - <small>作詞：[山川啓介](https://zh.wikipedia.org/wiki/山川啓介 "wikilink") / 作曲：[渡邊宙明](https://zh.wikipedia.org/wiki/渡邊宙明 "wikilink") / 編曲：[馬飼野康二](https://zh.wikipedia.org/wiki/馬飼野康二 "wikilink") / 歌：串田晃</small>
 
 ## 連結
 
   - [海賊戰隊豪快者 VS 宇宙刑事卡邦 電影版官網](http://www.gokai-gavan.jp/)
   - [電影版簡介](http://eiga.com/movie/57417/)
 
-[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
-[Category:2012年日本電影](https://zh.wikipedia.org/wiki/Category:2012年日本電影 "wikilink")
+[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink") [Category:2012年日本電影](https://zh.wikipedia.org/wiki/Category:2012年日本電影 "wikilink")

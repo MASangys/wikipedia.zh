@@ -7,8 +7,7 @@
 ## 電視經歷
 
   - 2009年 年代電視台《[今晚誰當家](../Page/今晚誰當家.md "wikilink")》
-  - 2009年
-    東森綜合《[魔力型男M5](https://zh.wikipedia.org/wiki/魔力型男M5 "wikilink")》
+  - 2009年 東森綜合《[魔力型男M5](https://zh.wikipedia.org/wiki/魔力型男M5 "wikilink")》
   - 2009年 八大綜合台《[娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")》
   - 2013年 華視《[綜藝百分百](https://zh.wikipedia.org/wiki/綜藝百分百 "wikilink")》
   - 2013年 台視《[王子的約會](../Page/王子的約會.md "wikilink")》
@@ -18,11 +17,7 @@
 
 [Category:台灣魔術師](https://zh.wikipedia.org/wiki/Category:台灣魔術師 "wikilink")
 
-1.  生活中心
-    綜合報導，[〈憑空變出吉他　劉行志用「哆啦七夢」摘魔術賽金牌〉](http://www.nownews.com/n/2010/11/23/596220)，《[nownews](https://zh.wikipedia.org/wiki/nownews "wikilink")》，2010年11月23日。
-2.  黃建國 台北報導，[〈扮貓王變魔術
-    　劉行志國際魔術賽摘金〉](http://news.tvbs.com.tw/entry/113069)，《[TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink")》，2010年11月23日。
-3.  黃子騰、陳啟明 桃園機場報導，[〈扮貓王變吉他
-    台魔術師奪冠〉](http://www.appledaily.com.tw/appledaily/article/headline/20101123/32982440/)，《[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報_\(台灣\) "wikilink")》，2010年11月23日。
-4.  華視新聞報導，[〈國際魔術大賽
-    劉行志奪冠軍〉](http://news.cts.com.tw/cts/general/201011/201011230615407.html)，《[華視新聞](../Page/華視新聞.md "wikilink")》，2010年11月23日。
+1.  生活中心 綜合報導，[〈憑空變出吉他　劉行志用「哆啦七夢」摘魔術賽金牌〉](http://www.nownews.com/n/2010/11/23/596220)，《[nownews](https://zh.wikipedia.org/wiki/nownews "wikilink")》，2010年11月23日。
+2.  黃建國 台北報導，[〈扮貓王變魔術 　劉行志國際魔術賽摘金〉](http://news.tvbs.com.tw/entry/113069)，《[TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink")》，2010年11月23日。
+3.  黃子騰、陳啟明 桃園機場報導，[〈扮貓王變吉他 台魔術師奪冠〉](http://www.appledaily.com.tw/appledaily/article/headline/20101123/32982440/)，《[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報_\(台灣\) "wikilink")》，2010年11月23日。
+4.  華視新聞報導，[〈國際魔術大賽 劉行志奪冠軍〉](http://news.cts.com.tw/cts/general/201011/201011230615407.html)，《[華視新聞](../Page/華視新聞.md "wikilink")》，2010年11月23日。

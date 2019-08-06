@@ -1,5 +1,4 @@
-《**ZETMAN**》是日本漫畫家[桂正和](../Page/桂正和.md "wikilink")的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。於《[週刊YOUNG
-JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）2002年48號起開始連載。從2006年6月起經過約1年的長期休載後於2007年26號恢復連載；2014年34号第一幕完结。
+《**ZETMAN**》是日本漫畫家[桂正和](../Page/桂正和.md "wikilink")的[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。於《[週刊YOUNG JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）2002年48號起開始連載。從2006年6月起經過約1年的長期休載後於2007年26號恢復連載；2014年34号第一幕完结。
 
 2012年4月起開始播放[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
@@ -51,8 +50,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》（[集英社](../Page/集英社
 ## 用語
 
   - Player
-    起初是作為競技場的比賽用工具，讓富人投注，以籌集N・E・T項目的資金。但在一次競場中集體逃逸。「Player」的特點是以人類的3倍速度成長，平時偽裝成人類的模樣，可以隨意更變怪物的形態。導致神崎
-    悟郎死亡的兇手。
+    起初是作為競技場的比賽用工具，讓富人投注，以籌集N・E・T項目的資金。但在一次競場中集體逃逸。「Player」的特點是以人類的3倍速度成長，平時偽裝成人類的模樣，可以隨意更變怪物的形態。導致神崎 悟郎死亡的兇手。
 
 ## 小說
 
@@ -63,15 +61,10 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》（[集英社](../Page/集英社
 ### 主題歌
 
   - 片頭曲「dots and lines」\[1\]
-    作詞 -
-    [一青窈](../Page/一青窈.md "wikilink")、[Mummy-D](https://zh.wikipedia.org/wiki/Mummy-D "wikilink")
-    / 作曲 - [小林武史](../Page/小林武史.md "wikilink")、Mummy-D / 編曲 - 小林武史 / 歌 -
-    一青窈 loves Mummy-D
+    作詞 - [一青窈](../Page/一青窈.md "wikilink")、[Mummy-D](https://zh.wikipedia.org/wiki/Mummy-D "wikilink") / 作曲 - [小林武史](../Page/小林武史.md "wikilink")、Mummy-D / 編曲 - 小林武史 / 歌 - 一青窈 loves Mummy-D
     第1話以ED為使用。
   - 片尾曲「とめる」\[2\]
-    作詞 - 一青窈 / 作曲・編曲 -
-    小林武史、[武部聰志](https://zh.wikipedia.org/wiki/武部聰志 "wikilink")
-    / 歌 - 一青窈
+    作詞 - 一青窈 / 作曲・編曲 - 小林武史、[武部聰志](https://zh.wikipedia.org/wiki/武部聰志 "wikilink") / 歌 - 一青窈
 
 ### 各話列表
 
@@ -260,14 +253,7 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》（[集英社](../Page/集英社
   -
   - [+ ZETMAN +](http://k2r.main.jp/zetman/zetman.htm)，作者網站，ZETMAN頁面。
 
-[Category:桂正和](https://zh.wikipedia.org/wiki/Category:桂正和 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink")
-[Category:超级英雄](https://zh.wikipedia.org/wiki/Category:超级英雄 "wikilink")
-[Category:週刊YOUNG_JUMP](https://zh.wikipedia.org/wiki/Category:週刊YOUNG_JUMP "wikilink")
-[Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink")
-[Category:2012年UHF動畫](https://zh.wikipedia.org/wiki/Category:2012年UHF動畫 "wikilink")
-[Category:TMS_Entertainment](https://zh.wikipedia.org/wiki/Category:TMS_Entertainment "wikilink")
+[Category:桂正和](https://zh.wikipedia.org/wiki/Category:桂正和 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:科幻漫畫](https://zh.wikipedia.org/wiki/Category:科幻漫畫 "wikilink") [Category:超级英雄](https://zh.wikipedia.org/wiki/Category:超级英雄 "wikilink") [Category:週刊YOUNG_JUMP](https://zh.wikipedia.org/wiki/Category:週刊YOUNG_JUMP "wikilink") [Category:週刊少年Jump連載作品](https://zh.wikipedia.org/wiki/Category:週刊少年Jump連載作品 "wikilink") [Category:2012年UHF動畫](https://zh.wikipedia.org/wiki/Category:2012年UHF動畫 "wikilink") [Category:TMS_Entertainment](https://zh.wikipedia.org/wiki/Category:TMS_Entertainment "wikilink")
 
 1.
 

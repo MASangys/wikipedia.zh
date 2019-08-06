@@ -42,11 +42,7 @@
 
 </div>
 
-[Category:陳乃榮音樂專輯](https://zh.wikipedia.org/wiki/Category:陳乃榮音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
+[Category:陳乃榮音樂專輯](https://zh.wikipedia.org/wiki/Category:陳乃榮音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
 
 1.
-2.  [YESASIA : Paradise (CD+DVD) (乃粉獨享召喚獸珍藏版) 鐳射唱片 - 陳 乃榮,
-    相信音樂](http://www.yesasia.com/global/paradise-cd-dvd-%E4%B9%83%E7%B2%89%E7%8D%A8%E4%BA%AB%E5%8F%AC%E5%96%9A%E7%8D%B8%E7%8F%8D%E8%97%8F%E7%89%88/1021140588-0-0-0-zh_TW/info.html)，2012年9月3日
-    (一) 14:15 (UTC+8)查閱
+2.  [YESASIA : Paradise (CD+DVD) (乃粉獨享召喚獸珍藏版) 鐳射唱片 - 陳 乃榮, 相信音樂](http://www.yesasia.com/global/paradise-cd-dvd-%E4%B9%83%E7%B2%89%E7%8D%A8%E4%BA%AB%E5%8F%AC%E5%96%9A%E7%8D%B8%E7%8F%8D%E8%97%8F%E7%89%88/1021140588-0-0-0-zh_TW/info.html)，2012年9月3日 (一) 14:15 (UTC+8)查閱

@@ -1,12 +1,10 @@
-**Ras超家族**（）是一个[蛋白质超家族](https://zh.wikipedia.org/wiki/蛋白质超家族 "wikilink")，名称来自其中的[Ras亚家族](https://zh.wikipedia.org/wiki/Ras亚家族 "wikilink")（在人类中为[KRAS](https://zh.wikipedia.org/wiki/KRAS "wikilink")、[NRAS和](https://zh.wikipedia.org/wiki/NRAS "wikilink")[HRAS](https://zh.wikipedia.org/wiki/HRAS "wikilink")）。
+**Ras超家族**（）是一个[蛋白质超家族](../Page/蛋白质超家族.md "wikilink")，名称来自其中的[Ras亚家族](https://zh.wikipedia.org/wiki/Ras亚家族 "wikilink")（在人类中为[KRAS](https://zh.wikipedia.org/wiki/KRAS "wikilink")、[NRAS和](https://zh.wikipedia.org/wiki/NRAS "wikilink")[HRAS](https://zh.wikipedia.org/wiki/HRAS "wikilink")）。
 
-Ras超家族中有超过100种蛋白质\[1\]
-，根据其序列、结构和功能，可分为9个主要的家族，各自还可再分亚家族。这9个蛋白质家族为：[Ras](https://zh.wikipedia.org/wiki/Ras亚家族 "wikilink")、[Rad](https://zh.wikipedia.org/wiki/RRAD "wikilink")、[Rab](https://zh.wikipedia.org/wiki/Rab_\(G-protein\) "wikilink")、[Rap](https://zh.wikipedia.org/wiki/Rap_GTP-binding_protein "wikilink")、[Ran](https://zh.wikipedia.org/wiki/Ran_\(biology\) "wikilink")、[Rho](https://zh.wikipedia.org/wiki/Rho_family_of_GTPases "wikilink")、[Rheb](https://zh.wikipedia.org/wiki/Rheb "wikilink")、[Rit和](https://zh.wikipedia.org/wiki/RIT1 "wikilink")[Arf](https://zh.wikipedia.org/wiki/ADP_ribosylation_factor "wikilink")，*Miro*最近也被列入这个超家族中。
+Ras超家族中有超过100种蛋白质\[1\] ，根据其序列、结构和功能，可分为9个主要的家族，各自还可再分亚家族。这9个蛋白质家族为：[Ras](https://zh.wikipedia.org/wiki/Ras亚家族 "wikilink")、[Rad](https://zh.wikipedia.org/wiki/RRAD "wikilink")、[Rab](https://zh.wikipedia.org/wiki/Rab_\(G-protein\) "wikilink")、[Rap](https://zh.wikipedia.org/wiki/Rap_GTP-binding_protein "wikilink")、[Ran](https://zh.wikipedia.org/wiki/Ran_\(biology\) "wikilink")、[Rho](https://zh.wikipedia.org/wiki/Rho_family_of_GTPases "wikilink")、[Rheb](https://zh.wikipedia.org/wiki/Rheb "wikilink")、[Rit和](https://zh.wikipedia.org/wiki/RIT1 "wikilink")[Arf](https://zh.wikipedia.org/wiki/ADP_ribosylation_factor "wikilink")，*Miro*最近也被列入这个超家族中。
 
 每个亚家族都有共同的G结构域核心，提供GTP酶与GTP/GDP交换活性。
 
-周围序列有助于确定小GTP酶的功能特异性，例如Rho亚家族常见的“插入环”，特别有助于与效应蛋白如IQGAP和WASP(Wiskott–Aldrich
-syndrome protein)结合。
+周围序列有助于确定小GTP酶的功能特异性，例如Rho亚家族常见的“插入环”，特别有助于与效应蛋白如IQGAP和WASP(Wiskott–Aldrich syndrome protein)结合。
 
 通常，Ras家族负责细胞增殖：Rho用于细胞[形态](../Page/形態學_\(生物學\).md "wikilink")，Ran用于核运输，Rab和Arf用于[囊泡运输](https://zh.wikipedia.org/wiki/囊泡 "wikilink")\[2\]。
 
@@ -85,8 +83,7 @@ syndrome protein)结合。
 
 ## 参考文献
 
-[Category:蛋白质超家族](https://zh.wikipedia.org/wiki/Category:蛋白质超家族 "wikilink")
-[Category:G蛋白](https://zh.wikipedia.org/wiki/Category:G蛋白 "wikilink")
+[Category:蛋白质超家族](https://zh.wikipedia.org/wiki/Category:蛋白质超家族 "wikilink") [Category:G蛋白](https://zh.wikipedia.org/wiki/Category:G蛋白 "wikilink")
 
 1.
 

@@ -2,9 +2,7 @@
 
 ## 專輯簡介
 
-專輯收錄11首歌並隨碟附送一張Bonus
-VCD（收錄「Hello」MV），主打歌為「Hello」、「若要人不知」、「享受孤獨」，由於年初的《[Giving](../Page/Giving.md "wikilink")》銷量甚佳，亦讓[英皇願意再次落重本替王傑做宣傳](https://zh.wikipedia.org/wiki/英皇 "wikilink")，因此結合[無線電視台台慶](https://zh.wikipedia.org/wiki/無線電視台 "wikilink")，製作王傑個人的音樂特輯--
-《長崎傷愛》\[1\]，劇組特別至[日本](../Page/日本.md "wikilink")[九州進行拍攝](https://zh.wikipedia.org/wiki/九州 "wikilink")，女主角由[袁潔瑩](https://zh.wikipedia.org/wiki/袁潔瑩 "wikilink")、[楊恭如](../Page/楊恭如.md "wikilink")擔綱演出，也找來了王傑的師弟、師妹[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")、[葉佩雯](../Page/葉佩雯.md "wikilink")客串\[2\]，特輯於11月18日在[翡翠台](../Page/翡翠台.md "wikilink")首播\[3\]，專輯的發行日期則選在王傑當年的出道日（12月19日）推出\[4\]，「Hello」也作為[香港](../Page/香港.md "wikilink")[康泰旅行社](../Page/康泰旅行社.md "wikilink")廣告歌曲\[5\]。
+專輯收錄11首歌並隨碟附送一張Bonus VCD（收錄「Hello」MV），主打歌為「Hello」、「若要人不知」、「享受孤獨」，由於年初的《[Giving](../Page/Giving.md "wikilink")》銷量甚佳，亦讓[英皇願意再次落重本替王傑做宣傳](https://zh.wikipedia.org/wiki/英皇 "wikilink")，因此結合[無線電視台台慶](https://zh.wikipedia.org/wiki/無線電視台 "wikilink")，製作王傑個人的音樂特輯-- 《長崎傷愛》\[1\]，劇組特別至[日本](../Page/日本.md "wikilink")[九州進行拍攝](https://zh.wikipedia.org/wiki/九州 "wikilink")，女主角由[袁潔瑩](https://zh.wikipedia.org/wiki/袁潔瑩 "wikilink")、[楊恭如](../Page/楊恭如.md "wikilink")擔綱演出，也找來了王傑的師弟、師妹[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")、[陳奕迅](../Page/陳奕迅.md "wikilink")、[葉佩雯](../Page/葉佩雯.md "wikilink")客串\[2\]，特輯於11月18日在[翡翠台](../Page/翡翠台.md "wikilink")首播\[3\]，專輯的發行日期則選在王傑當年的出道日（12月19日）推出\[4\]，「Hello」也作為[香港](../Page/香港.md "wikilink")[康泰旅行社](../Page/康泰旅行社.md "wikilink")廣告歌曲\[5\]。
 
 ## 曲目
 
@@ -157,20 +155,15 @@ color=darkgreen>**導演**</font> | <font color=darkgreen>**附註**</font> |
 
 ## 外部連結
 
-  - [TVB週刊 封面Cover.com
-    《王傑帶挈楊恭如現身無線》](https://web.archive.org/web/20140222152105/http://tvcity.tvb.com/TcTVBP/182/TcTVPC_1.html)
+  - [TVB週刊 封面Cover.com 《王傑帶挈楊恭如現身無線》](https://web.archive.org/web/20140222152105/http://tvcity.tvb.com/TcTVBP/182/TcTVPC_1.html)
   - [王傑音樂特輯之長崎傷愛](http://www.youtube.com/watch?v=osYII6E9vEc)
   - [王傑音樂特輯之長崎傷愛](http://www.youtube.com/watch?v=8X30YpnrYqA)
   - [王傑音樂特輯之長崎傷愛](http://www.youtube.com/watch?v=M2qlvaFFUCk)
   - [王傑音樂特輯之長崎傷愛](http://www.youtube.com/watch?v=uelk0NDgBHM)
 
-[Category:王傑音樂專輯](https://zh.wikipedia.org/wiki/Category:王傑音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
+[Category:王傑音樂專輯](https://zh.wikipedia.org/wiki/Category:王傑音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
 
-1.  [王 傑 音 樂 特 輯 之 《 長 崎 傷 愛
-    》](http://members.tripod.com/fennie_news/ma05.htm)
+1.  [王 傑 音 樂 特 輯 之 《 長 崎 傷 愛 》](http://members.tripod.com/fennie_news/ma05.htm)
 2.  2000.11.03 太陽報 娛樂版 搵Eason拍特輯王傑破不和傳聞
 3.  [王傑楊恭如今晚《長崎相愛》](http://www.people.com.cn/BIG5/channel6/34/20001118/318158.html)
 4.  2000.12.19 東方日報 娛樂版 與梁詠琪學友小雪同日出碟 王傑連串攻勢 力保一哥位

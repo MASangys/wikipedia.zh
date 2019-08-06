@@ -15,9 +15,4 @@
 
   - [耶稣基督的女孩](../Page/耶稣基督的女孩.md "wikilink")
 
-[Category:美國展覽](https://zh.wikipedia.org/wiki/Category:美國展覽 "wikilink")
-[Category:藝術展覽](https://zh.wikipedia.org/wiki/Category:藝術展覽 "wikilink")
-[Category:性文化](https://zh.wikipedia.org/wiki/Category:性文化 "wikilink")
-[Category:美国色情](https://zh.wikipedia.org/wiki/Category:美国色情 "wikilink")
-[Category:AVN奖](https://zh.wikipedia.org/wiki/Category:AVN奖 "wikilink")
-[Category:拉斯维加斯谷会议](https://zh.wikipedia.org/wiki/Category:拉斯维加斯谷会议 "wikilink")
+[Category:美國展覽](https://zh.wikipedia.org/wiki/Category:美國展覽 "wikilink") [Category:藝術展覽](https://zh.wikipedia.org/wiki/Category:藝術展覽 "wikilink") [Category:性文化](https://zh.wikipedia.org/wiki/Category:性文化 "wikilink") [Category:美国色情](https://zh.wikipedia.org/wiki/Category:美国色情 "wikilink") [Category:AVN奖](https://zh.wikipedia.org/wiki/Category:AVN奖 "wikilink") [Category:拉斯维加斯谷会议](https://zh.wikipedia.org/wiki/Category:拉斯维加斯谷会议 "wikilink")

@@ -180,10 +180,7 @@ ISBN 978-4-592-10566-4<small>（特裝版）</small></p></td>
 
 ## 外部連結
 
-  - [「Last game 青春角力賽」8卷特裝版附DRAMA CD　天乃忍 |
-    白泉社](https://web.archive.org/web/20150224194317/http://www.hakusensha.co.jp/lala/2comics/lastgame.html)
+  - [「Last game 青春角力賽」8卷特裝版附DRAMA CD　天乃忍 | 白泉社](https://web.archive.org/web/20150224194317/http://www.hakusensha.co.jp/lala/2comics/lastgame.html)
   - [Amazon.co.jp: 天乃忍: 本](http://www.hakusensha.co.jp/lala/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:LaLa](https://zh.wikipedia.org/wiki/Category:LaLa "wikilink")
-[Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:LaLa](https://zh.wikipedia.org/wiki/Category:LaLa "wikilink") [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")

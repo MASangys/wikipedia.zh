@@ -6,8 +6,7 @@
 
 樂樺（**[駱胤樺](../Page/駱胤樺.md "wikilink")**，1989年10月8日出生），為組合「SiS樂印姊妹」中的姊姊。於2013年於[香港大學](../Page/香港大學.md "wikilink")文學士音樂系及語言學系畢業，另持[香港大學](../Page/香港大學.md "wikilink")學位教師教育文憑，以優異成績考獲八級[英國皇家音樂學院](../Page/英國皇家音樂學院.md "wikilink")鋼琴、聲樂及樂理證書。
 
-大學時期熱衷無伴奏合唱，曾擔任[香港大學](../Page/香港大學.md "wikilink")[無伴奏合唱](../Page/無伴奏合唱.md "wikilink")團Mosaic的音樂總監、編曲及女高音，並在Mosaic週年音樂會擔任無伴奏合唱音樂劇女主角。除此以外，樂樺亦曾屬[香港大學](../Page/香港大學.md "wikilink")「明我以德合唱團」成員之一，曾經參與「明我以德」MV拍攝及擔當[許冠傑](../Page/許冠傑.md "wikilink")《What
-a Wonderful World》演唱會2014的表演嘉賓。
+大學時期熱衷無伴奏合唱，曾擔任[香港大學](../Page/香港大學.md "wikilink")[無伴奏合唱](../Page/無伴奏合唱.md "wikilink")團Mosaic的音樂總監、編曲及女高音，並在Mosaic週年音樂會擔任無伴奏合唱音樂劇女主角。除此以外，樂樺亦曾屬[香港大學](../Page/香港大學.md "wikilink")「明我以德合唱團」成員之一，曾經參與「明我以德」MV拍攝及擔當[許冠傑](../Page/許冠傑.md "wikilink")《What a Wonderful World》演唱會2014的表演嘉賓。
 
 出道後，樂樺亦在空餘時間到中小學親自教授樂理，亦舉辦不少關於音樂及[無伴奏合唱](../Page/無伴奏合唱.md "wikilink")的工作坊，現時樂樺除是歌手之外，亦同時是音樂導師。
 
@@ -21,8 +20,7 @@ a Wonderful World》演唱會2014的表演嘉賓。
 
 ## 入行經過
 
-完成《[超級巨聲1](../Page/超級巨聲1.md "wikilink")》比賽後，烙印於個人社交平台開設個人頻道，上載自己作品予樂迷分享。其後獲公司經理人聯絡，表示烙印與姊姊的歌聲散發著很多正能量，於是便簽了二人正式成為旗下公司歌手。
-組合名為「SIS樂印姊妹」，姊姊駱胤樺藝名「樂樺」，妹妹駱胤鳴藝名「烙印」，於2014年推出首支派台歌「有夢就很好了」出道。\[2\]
+完成《[超級巨聲1](../Page/超級巨聲1.md "wikilink")》比賽後，烙印於個人社交平台開設個人頻道，上載自己作品予樂迷分享。其後獲公司經理人聯絡，表示烙印與姊姊的歌聲散發著很多正能量，於是便簽了二人正式成為旗下公司歌手。 組合名為「SIS樂印姊妹」，姊姊駱胤樺藝名「樂樺」，妹妹駱胤鳴藝名「烙印」，於2014年推出首支派台歌「有夢就很好了」出道。\[2\]
 
 ## 經歷
 
@@ -30,13 +28,9 @@ SIS樂印姊妹於2014年憑自創歌曲《有夢就很好了》出道，並推�
 
 2015年，完成各大頒獎禮後，公司加推特別版EP《DreamSiS（夢想成真版）》，加人兩首原創歌《如果我是個男孩》及《不要只是有夢》與樂迷慶祝，並鼓勵樂迷要勇敢追尋夢想。
 
-2016年初，首次推出《真·樂印姊妹想創音樂BCD》作品集，作品集以書本及CD形式推出。內容由兩位成員以每首歌曲為本，而各自編寫不同的散文故事。CD除了收錄組合以前的作品外，亦收錄3首自創新歌《So
-Fa Mi Re
-Do》、《新世界》及《謝謝你》。年中，妹妹駱胤鳴再下一城，推出個人小說作品《愛情法庭》。而駱胤鳴亦推出首支個人單曲《沒有》，曲風較為型格，令樂迷耳目一新。
+2016年初，首次推出《真·樂印姊妹想創音樂BCD》作品集，作品集以書本及CD形式推出。內容由兩位成員以每首歌曲為本，而各自編寫不同的散文故事。CD除了收錄組合以前的作品外，亦收錄3首自創新歌《So Fa Mi Re Do》、《新世界》及《謝謝你》。年中，妹妹駱胤鳴再下一城，推出個人小說作品《愛情法庭》。而駱胤鳴亦推出首支個人單曲《沒有》，曲風較為型格，令樂迷耳目一新。
 
-2017年2月25日，SiS樂印姊妹舉行首個售票演唱會《SiScappella Dream Concert》，演唱會除了自彈自唱，亦以 A
-cappella （無伴奏合唱）作概念。組合亦於演唱會上發表2017年首支派台歌《進擊的哈比人》，並預告來年歌曲會以A
-cappella作創作元素，希望為樂迷帶來新鮮感。
+2017年2月25日，SiS樂印姊妹舉行首個售票演唱會《SiScappella Dream Concert》，演唱會除了自彈自唱，亦以 A cappella （無伴奏合唱）作概念。組合亦於演唱會上發表2017年首支派台歌《進擊的哈比人》，並預告來年歌曲會以A cappella作創作元素，希望為樂迷帶來新鮮感。
 
 ## 音樂專輯
 
@@ -149,20 +143,15 @@ cappella作創作元素，希望為樂迷帶來新鮮感。
 
 ### 2014年度
 
-  - [YAHOO\!搜尋人氣大獎人氣大獎2014](../Page/2014年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")
-    - 樂壇新勢力
+  - [YAHOO\!搜尋人氣大獎人氣大獎2014](../Page/2014年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") - 樂壇新勢力
   - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆新登場創作組合
-  - [2014年度叱咤樂壇流行榜頒獎典禮](../Page/2014年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") -
-    叱咤樂壇生力軍 金獎
-  - [第三十七屆十大中文金曲頒獎音樂會](../Page/第三十七屆十大中文金曲得獎名單.md "wikilink") - 最有前途新人獎
-    優異獎
-  - [第10屆「勁歌王」全球華人樂壇音樂盛典](../Page/第10屆「勁歌王」全球華人樂壇音樂盛典獲獎名單.md "wikilink")
-    - 最佳新人組合
+  - [2014年度叱咤樂壇流行榜頒獎典禮](../Page/2014年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink") - 叱咤樂壇生力軍 金獎
+  - [第三十七屆十大中文金曲頒獎音樂會](../Page/第三十七屆十大中文金曲得獎名單.md "wikilink") - 最有前途新人獎 優異獎
+  - [第10屆「勁歌王」全球華人樂壇音樂盛典](../Page/第10屆「勁歌王」全球華人樂壇音樂盛典獲獎名單.md "wikilink") - 最佳新人組合
 
 ### 2015年度
 
-  - [新城國語力頒獎禮2015](../Page/2015年度新城國語力頒獎禮得獎名單.md "wikilink") -
-    新城國語力組合新人王
+  - [新城國語力頒獎禮2015](../Page/2015年度新城國語力頒獎禮得獎名單.md "wikilink") - 新城國語力組合新人王
   - [新城勁爆頒獎禮2015](../Page/2015年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆組合
 
 ## 演出經歷
@@ -177,8 +166,7 @@ cappella作創作元素，希望為樂迷帶來新鮮感。
 
 #### 2015年
 
-  - 《[Think Big
-    大明星](https://zh.wikipedia.org/wiki/Think_Big_大明星 "wikilink")》星級評委
+  - 《[Think Big 大明星](https://zh.wikipedia.org/wiki/Think_Big_大明星 "wikilink")》星級評委
 
 ### 電台節目
 
@@ -187,8 +175,7 @@ cappella作創作元素，希望為樂迷帶來新鮮感。
   - 《叱吒樂壇》（商業電台節目）
   - 《寂寞留聲群 - 一期一會》（新城電台節目）
   - 《百萬USB》（新城知訊台節目）
-  - 《DBC Chart Power@hmv
-    ideal》（[DBC數碼電台節目](https://zh.wikipedia.org/wiki/DBC "wikilink")）
+  - 《DBC Chart Power@hmv ideal》（[DBC數碼電台節目](https://zh.wikipedia.org/wiki/DBC "wikilink")）
   - 《C人薦》（DBC數碼電台節目）
   - 《雙截棍》（商業電台節目）
   - 《喜來大龍鳳》（商業電台節目）
@@ -247,11 +234,7 @@ cappella作創作元素，希望為樂迷帶來新鮮感。
 
   - [SIS樂印姊妹勇闖樂壇](https://web.archive.org/web/20140313085316/http://www.singpao.com/yl/mx/201402/t20140228_491820.html)
 
-[Category:單飛不解散團體](https://zh.wikipedia.org/wiki/Category:單飛不解散團體 "wikilink")
-[Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
+[Category:單飛不解散團體](https://zh.wikipedia.org/wiki/Category:單飛不解散團體 "wikilink") [Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
 
-1.  [SiS
-    樂印姊妹　音樂無處不在](https://www.recruit.com.hk/Resources/ArticleDetail.aspx?articleId=33340)
-2.  [MAMITV
-    星級專訪－SIS樂印姊妹是如何成立的？](http://supermami.com.hk/index.php/mami-tv/starfocus/item/sisloks01)
+1.  [SiS 樂印姊妹　音樂無處不在](https://www.recruit.com.hk/Resources/ArticleDetail.aspx?articleId=33340)
+2.  [MAMITV 星級專訪－SIS樂印姊妹是如何成立的？](http://supermami.com.hk/index.php/mami-tv/starfocus/item/sisloks01)

@@ -1,7 +1,4 @@
-K-L轉換(Karhunen-Loève
-Transform)是建立在統計特性基礎上的一種轉換，它是[均方差](https://zh.wikipedia.org/wiki/均方差 "wikilink")(MSE,
-Mean Square
-Error)意義下的最佳轉換，因此在[資料壓縮技術中佔有重要的地位](https://zh.wikipedia.org/wiki/資料壓縮 "wikilink")。
+K-L轉換(Karhunen-Loève Transform)是建立在統計特性基礎上的一種轉換，它是[均方差](https://zh.wikipedia.org/wiki/均方差 "wikilink")(MSE, Mean Square Error)意義下的最佳轉換，因此在[資料壓縮技術中佔有重要的地位](https://zh.wikipedia.org/wiki/資料壓縮 "wikilink")。
 
 K-L轉換名称来自Kari Karhunen和Michel Loève。
 
@@ -15,8 +12,7 @@ K-L轉換是對輸入的向量x，做一個[正交](../Page/正交.md "wikilink"
 
 KL轉換屬於正交轉換，其處輸入訊號的原理如下：
 
-對輸入向量\(\mathbf{x}\)做KL傳換後，輸出向量\(\mathbf{X}\)之元素間(\(u_1\neq u_2\),
-\(u_1\)和\(u_2\)為\(\mathbf{X}\)之元素的index)的相關性為零，即：\(E[(X[u_1]-\bar{X}[u_1])(X[u_2]-\bar{X}[u_2])]=0\)
+對輸入向量\(\mathbf{x}\)做KL傳換後，輸出向量\(\mathbf{X}\)之元素間(\(u_1\neq u_2\), \(u_1\)和\(u_2\)為\(\mathbf{X}\)之元素的index)的相關性為零，即：\(E[(X[u_1]-\bar{X}[u_1])(X[u_2]-\bar{X}[u_2])]=0\)
 
 展開上式並做消去：
 
@@ -50,8 +46,7 @@ K-L轉換的目的是將原始數據做轉換，使得轉換後資料的相關�
 
 \(K[u,n]=e_{n}[n]\)
 
-其中e<sub>n</sub>為輸入訊號x[共變異數矩陣](https://zh.wikipedia.org/wiki/共變異數 "wikilink")(covariance
-matrix)C<sub>x</sub>的[特徵向量](https://zh.wikipedia.org/wiki/特徵向量 "wikilink")(eigenvector)
+其中e<sub>n</sub>為輸入訊號x[共變異數矩陣](https://zh.wikipedia.org/wiki/共變異數 "wikilink")(covariance matrix)C<sub>x</sub>的[特徵向量](https://zh.wikipedia.org/wiki/特徵向量 "wikilink")(eigenvector)
 
 若輸入訊號x為二維：
 
@@ -59,8 +54,7 @@ matrix)C<sub>x</sub>的[特徵向量](https://zh.wikipedia.org/wiki/特徵向量
 
 ## KLT與PCA的區別
 
-KLT和Principle component analysis
-(PCA)有相似的特性，二者之間有很細微的差異，其中KLT專門處理隨機性的訊號，但PCA則沒有這個限制。對PCA而言，這裡假設輸入訊號為ㄧ向量，輸入向量\(\mathbf{x}\)在乘上轉換矩陣\(\mathbf{W}\)之前，會先將輸入向量扣去平均值，即:
+KLT和Principle component analysis (PCA)有相似的特性，二者之間有很細微的差異，其中KLT專門處理隨機性的訊號，但PCA則沒有這個限制。對PCA而言，這裡假設輸入訊號為ㄧ向量，輸入向量\(\mathbf{x}\)在乘上轉換矩陣\(\mathbf{W}\)之前，會先將輸入向量扣去平均值，即:
 
 \(\mathbf{X}=\mathbf{W}(\mathbf{x}-\bar{x})\)
 
@@ -74,19 +68,12 @@ PCA會根據\(\mathbf{x}\)之covariance矩陣來選擇特徵向量做為轉換�
 
 ## 應用
 
-在影像的壓縮上，目的是要將原始的影像檔用較少的資料量來表示，由於大部分的影像並不是隨機的分布，相鄰的[像素](../Page/像素.md "wikilink")(Pixal)間存在一些相關性，如果我們能找到一種可逆轉換(reversible
-transformation)，它可以去除數據的相關性，如此一來就能更有效地儲存資料，由於K-L轉換是一種線性轉換，並有去除資料相關性的特性，便可以將它應用在影像的壓縮上。此外，由於K-L轉換具有將訊號轉到[特徵空間](https://zh.wikipedia.org/wiki/特徵向量 "wikilink")(eigenspace)的特性，因此也可以應用在人臉辨識上。
+在影像的壓縮上，目的是要將原始的影像檔用較少的資料量來表示，由於大部分的影像並不是隨機的分布，相鄰的[像素](../Page/像素.md "wikilink")(Pixal)間存在一些相關性，如果我們能找到一種可逆轉換(reversible transformation)，它可以去除數據的相關性，如此一來就能更有效地儲存資料，由於K-L轉換是一種線性轉換，並有去除資料相關性的特性，便可以將它應用在影像的壓縮上。此外，由於K-L轉換具有將訊號轉到[特徵空間](https://zh.wikipedia.org/wiki/特徵向量 "wikilink")(eigenspace)的特性，因此也可以應用在人臉辨識上。
 
 ##  参考文献
 
-1\. Ding, J. J. (2017). Advanced Digital Signal Processing \[Powerpoint
-slides\]
-[<http://djj.ee.ntu.edu.tw/ADSP8.pdf>](http://djj.ee.ntu.edu.tw/ADSP15.pdf)
+1\. Ding, J. J. (2017). Advanced Digital Signal Processing \[Powerpoint slides\] [<http://djj.ee.ntu.edu.tw/ADSP8.pdf>](http://djj.ee.ntu.edu.tw/ADSP15.pdf)
 
-2\. Gerbrands, J.J., On the relationships between SVD, KLT, and PCA,
-Pattern Recogn., 14 (1981), pp. 375-381
+2\. Gerbrands, J.J., On the relationships between SVD, KLT, and PCA, Pattern Recogn., 14 (1981), pp. 375-381
 
-[Category:估计理论](https://zh.wikipedia.org/wiki/Category:估计理论 "wikilink")
-[Category:概率论](https://zh.wikipedia.org/wiki/Category:概率论 "wikilink")
-[Category:信号处理](https://zh.wikipedia.org/wiki/Category:信号处理 "wikilink")
-[Category:随机过程](https://zh.wikipedia.org/wiki/Category:随机过程 "wikilink")
+[Category:估计理论](https://zh.wikipedia.org/wiki/Category:估计理论 "wikilink") [Category:概率论](https://zh.wikipedia.org/wiki/Category:概率论 "wikilink") [Category:信号处理](https://zh.wikipedia.org/wiki/Category:信号处理 "wikilink") [Category:随机过程](https://zh.wikipedia.org/wiki/Category:随机过程 "wikilink")

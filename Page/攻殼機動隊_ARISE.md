@@ -1,11 +1,8 @@
-**攻殼機動隊
-ARISE**是[士郎正宗](../Page/士郎正宗.md "wikilink")同名漫畫《[攻殼機動隊](https://zh.wikipedia.org/wiki/攻殼機動隊_\(漫畫\) "wikilink")》改編的劇場版動畫作品。[Production
-I.G公司製作](../Page/Production_I.G.md "wikilink")，导演[黃瀨和哉](../Page/黃瀨和哉.md "wikilink")，系列构成[冲方丁](../Page/冲方丁.md "wikilink")。
+**攻殼機動隊 ARISE**是[士郎正宗](../Page/士郎正宗.md "wikilink")同名漫畫《[攻殼機動隊](https://zh.wikipedia.org/wiki/攻殼機動隊_\(漫畫\) "wikilink")》改編的劇場版動畫作品。[Production I.G公司製作](../Page/Production_I.G.md "wikilink")，导演[黃瀨和哉](../Page/黃瀨和哉.md "wikilink")，系列构成[冲方丁](../Page/冲方丁.md "wikilink")。
 
 ## 劇情簡介
 
-本作故事內容講述軍方身分的[草薙素子](../Page/草薙素子.md "wikilink")在加入[公安九課](../Page/公安九課.md "wikilink")前的前傳故事，所以各種科技方面比[S.A.C.
-2nd GIG要落後一些](../Page/攻壳机动队_S.A.C._2nd_GIG.md "wikilink")。
+本作故事內容講述軍方身分的[草薙素子](../Page/草薙素子.md "wikilink")在加入[公安九課](../Page/公安九課.md "wikilink")前的前傳故事，所以各種科技方面比[S.A.C. 2nd GIG要落後一些](../Page/攻壳机动队_S.A.C._2nd_GIG.md "wikilink")。
 
   - 第一話**border:1 Ghost Pain**：2013年6月22日於日本上映
     描述2027年陸軍501機構的草薙素子調查馬姆羅中校的神秘死亡事件，遇上了公安九課並一步步揭開軍方神祕行動「帕茲計畫」的真相。
@@ -354,41 +351,30 @@ Production I.G、<a href="../Page/Flying_DOG.md" title="wikilink">Flying DOG</a>
 
 :;「じぶんがいない」（border:1）
 
-::作詞 - [坂本慎太郎](https://zh.wikipedia.org/wiki/YURAYURA帝國 "wikilink") /
-作曲、編曲 - 小山田圭吾 / 歌 - [salyu×salyu](../Page/Salyu.md "wikilink")
+::作詞 - [坂本慎太郎](https://zh.wikipedia.org/wiki/YURAYURA帝國 "wikilink") / 作曲、編曲 - 小山田圭吾 / 歌 - [salyu×salyu](../Page/Salyu.md "wikilink")
 
 :;「外は戦場だよ」（border:2）
 
-::作詞 - 坂本慎太郎 / 作曲、編曲 - 小山田圭吾 / 歌 -
-[青葉市子](https://zh.wikipedia.org/wiki/青葉市子 "wikilink")、Cornelius
+::作詞 - 坂本慎太郎 / 作曲、編曲 - 小山田圭吾 / 歌 - [青葉市子](https://zh.wikipedia.org/wiki/青葉市子 "wikilink")、Cornelius
 
 :;「Heart Grenade」（border:3）
 
-::作詞 - [西恩·藍儂](https://zh.wikipedia.org/wiki/西恩·藍儂 "wikilink") / 作曲、編曲 -
-小山田圭吾 / 歌 - 西恩·藍儂、Cornelius
+::作詞 - [西恩·藍儂](https://zh.wikipedia.org/wiki/西恩·藍儂 "wikilink") / 作曲、編曲 - 小山田圭吾 / 歌 - 西恩·藍儂、Cornelius
 
 :;「Split Spirit」（border:4）
 
   -
 
       -
-        作詞 -
-        [LEO今井](https://zh.wikipedia.org/wiki/LEO今井 "wikilink")、[高橋幸宏](https://zh.wikipedia.org/wiki/高橋幸宏 "wikilink")
-        / 作曲 - 小山田圭吾 / 編曲、歌 - 高橋幸宏 &
-        [METAFIVE](https://zh.wikipedia.org/wiki/METAFIVE "wikilink")（小山田圭吾×[砂原良徳](https://zh.wikipedia.org/wiki/砂原良徳 "wikilink")×[TOWA
-        TEI](https://zh.wikipedia.org/wiki/TOWA_TEI "wikilink")×[Gondo
-        Tomohiko](https://zh.wikipedia.org/wiki/anonymass "wikilink")×LEO今井）
+        作詞 - [LEO今井](https://zh.wikipedia.org/wiki/LEO今井 "wikilink")、[高橋幸宏](https://zh.wikipedia.org/wiki/高橋幸宏 "wikilink") / 作曲 - 小山田圭吾 / 編曲、歌 - 高橋幸宏 & [METAFIVE](https://zh.wikipedia.org/wiki/METAFIVE "wikilink")（小山田圭吾×[砂原良徳](https://zh.wikipedia.org/wiki/砂原良徳 "wikilink")×[TOWA TEI](https://zh.wikipedia.org/wiki/TOWA_TEI "wikilink")×[Gondo Tomohiko](https://zh.wikipedia.org/wiki/anonymass "wikilink")×LEO今井）
 
 ## 漫畫
 
 ## 攻殻機動隊ARISE ALTERNATIVE ARCHITECTURE
 
-**攻殻機動隊ARISE ALTERNATIVE ARCHITECTURE**（简称ARISE
-AA）是ARISE剧场版的重新编辑，用于在日本电视广播上播放的电视版，自2015年4月开始播放。
+**攻殻機動隊ARISE ALTERNATIVE ARCHITECTURE**（简称ARISE AA）是ARISE剧场版的重新编辑，用于在日本电视广播上播放的电视版，自2015年4月开始播放。
 
-电视版将ARISE的4个剧场版分别拆分成前后篇共8集，此外还添加了2集完全新作《PYROPHORIC
-CULT》，作为同年6月20日上映的[攻壳机动队
-新剧场版的铺垫剧情](https://zh.wikipedia.org/wiki/攻壳机动队_新剧场版 "wikilink")。电视版按照编剧冲方丁初期的方案，调整了剧集的播放顺序\[1\]。电视播映期间，还在第八、九集間插播了宣传新劇場版的特别节目。
+电视版将ARISE的4个剧场版分别拆分成前后篇共8集，此外还添加了2集完全新作《PYROPHORIC CULT》，作为同年6月20日上映的[攻壳机动队 新剧场版的铺垫剧情](https://zh.wikipedia.org/wiki/攻壳机动队_新剧场版 "wikilink")。电视版按照编剧冲方丁初期的方案，调整了剧集的播放顺序\[1\]。电视播映期间，还在第八、九集間插播了宣传新劇場版的特别节目。
 
 | 集數   | 标题                    | 电视版演出    | 剧场版出处    |
 | ---- | --------------------- | -------- | -------- |
@@ -440,21 +426,6 @@ CULT》，作为同年6月20日上映的[攻壳机动队
   - [攻殻機動隊ARISE的官方網站](http://kokaku-a.jp)
 
   -
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:黑色科幻片](https://zh.wikipedia.org/wiki/Category:黑色科幻片 "wikilink")
-[Category:2013年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2013年日本劇場動畫 "wikilink")
-[Category:警察主角題材動畫電影](https://zh.wikipedia.org/wiki/Category:警察主角題材動畫電影 "wikilink")
-[Category:賽博格題材動畫電影](https://zh.wikipedia.org/wiki/Category:賽博格題材動畫電影 "wikilink")
-[Category:日本科幻片](https://zh.wikipedia.org/wiki/Category:日本科幻片 "wikilink")
-[Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:日本漫畫改編電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編電影 "wikilink")
-[Category:攻殼機動隊](https://zh.wikipedia.org/wiki/Category:攻殼機動隊 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:黑色科幻片](https://zh.wikipedia.org/wiki/Category:黑色科幻片 "wikilink") [Category:2013年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2013年日本劇場動畫 "wikilink") [Category:警察主角題材動畫電影](https://zh.wikipedia.org/wiki/Category:警察主角題材動畫電影 "wikilink") [Category:賽博格題材動畫電影](https://zh.wikipedia.org/wiki/Category:賽博格題材動畫電影 "wikilink") [Category:日本科幻片](https://zh.wikipedia.org/wiki/Category:日本科幻片 "wikilink") [Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:日本漫畫改編電影](https://zh.wikipedia.org/wiki/Category:日本漫畫改編電影 "wikilink") [Category:攻殼機動隊](https://zh.wikipedia.org/wiki/Category:攻殼機動隊 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
-1.  [攻殻機動隊ARISE ALTERNATIVE ARCHITECTURE
-    INTRODUCTION](http://kokaku-a.jp/tv/introduction.html)『攻殻機動隊ARISE
-    ALTERNATIVE ARCHITECTURE』2015年2月17日
+1.  [攻殻機動隊ARISE ALTERNATIVE ARCHITECTURE INTRODUCTION](http://kokaku-a.jp/tv/introduction.html)『攻殻機動隊ARISE ALTERNATIVE ARCHITECTURE』2015年2月17日

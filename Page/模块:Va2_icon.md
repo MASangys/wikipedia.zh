@@ -1,6 +1,4 @@
-local p = {} --p.Weighted_page_size
-修改自module:Template:Weighted_page_size function
-p.Weighted_page_size( titleText )
+local p = {} --p.Weighted_page_size 修改自module:Template:Weighted_page_size function p.Weighted_page_size( titleText )
 
 `   if not titleText then`
 `       return 0`

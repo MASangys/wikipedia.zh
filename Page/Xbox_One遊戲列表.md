@@ -1,16 +1,11 @@
-**Xbox One遊戲列表**包括了正在開發中或已經發售的[Xbox
-One遊戲](../Page/Xbox_One.md "wikilink")。
+**Xbox One遊戲列表**包括了正在開發中或已經發售的[Xbox One遊戲](../Page/Xbox_One.md "wikilink")。
 
 ## 示例
 
 ### Xbox One獨佔
 
-  - **是**意味着在Xbox
-    One[系統平台獨佔](https://zh.wikipedia.org/wiki/系統平台 "wikilink")
-  - **微軟**意味着僅在[微軟的平台擁有該遊戲](https://zh.wikipedia.org/wiki/微軟 "wikilink")（包括：Xbox
-    One、[Xbox
-    360](../Page/Xbox_360.md "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Windows
-    Phone](../Page/Windows_Phone.md "wikilink")）
+  - **是**意味着在Xbox One[系統平台獨佔](https://zh.wikipedia.org/wiki/系統平台 "wikilink")
+  - **微軟**意味着僅在[微軟的平台擁有該遊戲](https://zh.wikipedia.org/wiki/微軟 "wikilink")（包括：Xbox One、[Xbox 360](../Page/Xbox_360.md "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Windows Phone](../Page/Windows_Phone.md "wikilink")）
   - **主機**意味着其他[遊戲主機上面沒有此遊戲](https://zh.wikipedia.org/wiki/遊戲主機 "wikilink")，但在電腦或其他平台擁有此遊戲
   - **限時**意味着Xbox One僅獨佔該遊戲一段時間，但過後該遊戲也在其他平台放出
   - **不是**在[遊戲機歷史列表中的多個主機平台均有發售該款遊戲](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第八世代\) "wikilink")
@@ -33,8 +28,7 @@ One遊戲](../Page/Xbox_One.md "wikilink")。
   - **支援**意味着能夠通過使用xbox game pass(XGP,遊戲通行征)遊玩此遊戲
   - **不適用**意味着遊戲僅能通過獨立購買遊玩
   - 遊戲支援XGP遊玩，即意味有XGP就能通過服務直接獨得遊玩權限。
-  - 相關XGP陣容名單請參考 <https://www.xbox.com/zh-HK/games/xbox-game-pass>
-    ([另外北美全球官方](https://www.microsoft.com/en-us/store/collections/subsxgprecentlyadded/xbox))
+  - 相關XGP陣容名單請參考 <https://www.xbox.com/zh-HK/games/xbox-game-pass> ([另外北美全球官方](https://www.microsoft.com/en-us/store/collections/subsxgprecentlyadded/xbox))
 
 <!-- end list -->
 
@@ -2585,17 +2579,14 @@ Remedy</p></td>
 ### 當前遊戲主機世代
 
   - [Wii U遊戲列表](../Page/Wii_U遊戲列表.md "wikilink")
-  - [PlayStation
-    4遊戲列表](https://zh.wikipedia.org/wiki/PlayStation_4遊戲列表 "wikilink")
+  - [PlayStation 4遊戲列表](https://zh.wikipedia.org/wiki/PlayStation_4遊戲列表 "wikilink")
   - [任天堂Switch遊戲列表](https://zh.wikipedia.org/wiki/任天堂Switch遊戲列表 "wikilink")
 
 ## 參考文獻
 
-[Category:Xbox_One遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_One遊戲 "wikilink")
-[Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
+[Category:Xbox_One遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_One遊戲 "wikilink") [Category:各平台遊戲列表](https://zh.wikipedia.org/wiki/Category:各平台遊戲列表 "wikilink")
 
-1.  [Halo Wars 2 Official E3
-    Trailer](https://www.youtube.com/watch?v=kjN1eWhzPeA)
+1.  [Halo Wars 2 Official E3 Trailer](https://www.youtube.com/watch?v=kjN1eWhzPeA)
 
 2.  [2019年經微軟工作室親自移植至任天堂Switch作為特別推出遊戲。](https://www.youtube.com/watch?v=XwF67xkNSn8)
 
@@ -2609,24 +2600,19 @@ Remedy</p></td>
 
 7.  [Dark Souls Remastered](https://www.youtube.com/watch?v=KfjG9ZLGBHE)
 
-8.  [SUPER BOMBERMAN R Promotion
-    Traile](https://www.youtube.com/watch?v=JGdKX1nNjUg)
+8.  [SUPER BOMBERMAN R Promotion Traile](https://www.youtube.com/watch?v=JGdKX1nNjUg)
 
-9.  [NieR:Automata BECOME AS GODS Edition E3
-    Trailer](https://www.youtube.com/watch?v=ZX58vsAIhss)
+9.  [NieR:Automata BECOME AS GODS Edition E3 Trailer](https://www.youtube.com/watch?v=ZX58vsAIhss)
 
-10. [We Happy Few Launch
-    Trailer](https://www.youtube.com/watch?v=UGRHLmBNO_w)
+10. [We Happy Few Launch Trailer](https://www.youtube.com/watch?v=UGRHLmBNO_w)
 
 11. [Winning Eleven 2019](https://www.youtube.com/watch?v=bZ7FyHmhaHw)
 
-12. [Shadow of the Tomb
-    Raider](https://www.youtube.com/watch?v=XYtyeqVQnRI)
+12. [Shadow of the Tomb Raider](https://www.youtube.com/watch?v=XYtyeqVQnRI)
 
 13. [無双OROCHI 3](https://www.youtube.com/watch?v=ifxiwsygK-4)
 
-14. [Forza Horizon 4 - E3 2018 - Announce
-    Trailer](https://www.youtube.com/watch?v=VmQNo8xtcAg)
+14. [Forza Horizon 4 - E3 2018 - Announce Trailer](https://www.youtube.com/watch?v=VmQNo8xtcAg)
 
 15. [Soulcalibur VI](https://www.youtube.com/watch?v=kOq5dVigDGU)
 
@@ -2670,106 +2656,77 @@ Remedy</p></td>
 
 35. [World War Z(game)](https://www.youtube.com/watch?v=C-yt_bsGA2Y)
 
-36. [Mortal
-    Kombat 11](https://www.microsoft.com/zh-hk/p/-11/BQQRJF0VK60F?activetab=pivot:overviewtab)
+36. [Mortal Kombat 11](https://www.microsoft.com/zh-hk/p/-11/BQQRJF0VK60F?activetab=pivot:overviewtab)
 
-37. [Sniper Elite V2 Remastered Gameplay (PC
-    HD)](https://www.youtube.com/watch?v=W8_JcpDLP6I)
+37. [Sniper Elite V2 Remastered Gameplay (PC HD)](https://www.youtube.com/watch?v=W8_JcpDLP6I)
 
 38. [TEAM SONIC RACING](https://www.youtube.com/watch?v=izNJgwTwc7o)
 
-39. [Crash Team Racing
-    Nitro-Fueled](https://www.youtube.com/watch?v=cbGveX0kedc)
+39. [Crash Team Racing Nitro-Fueled](https://www.youtube.com/watch?v=cbGveX0kedc)
 
-40. [Bloodstained: Ritual of the
-    Night](https://www.youtube.com/watch?v=jwppc42HqCw)
+40. [Bloodstained: Ritual of the Night](https://www.youtube.com/watch?v=jwppc42HqCw)
 
-41. [Samurai Shodown - Return Of A Legend Gameplay
-    Trailer](https://www.youtube.com/watch?v=ctgnK1j_YsI)
+41. [Samurai Shodown - Return Of A Legend Gameplay Trailer](https://www.youtube.com/watch?v=ctgnK1j_YsI)
 
 42. [Sea of Solitude](https://www.youtube.com/watch?v=aWY76dNvXyo)
 
-43. [Wolfenstein Youngblood – Official Gameplay Trailer |
-    E3 2019](https://www.youtube.com/watch?v=_35c6D0LpUM)
+43. [Wolfenstein Youngblood – Official Gameplay Trailer | E3 2019](https://www.youtube.com/watch?v=_35c6D0LpUM)
 
 44. [Blair Witch](https://www.youtube.com/watch?v=Y4b88aW8kjk)
 
 45. [戰爭機器5(Gears 5)](https://www.youtube.com/watch?v=SEpWlFfpEkU)
 
-46. [DOOM Eternal Full Showcase | Bethesda
-    E3 2019](https://www.youtube.com/watch?v=oK73XMgkpc8)
+46. [DOOM Eternal Full Showcase | Bethesda E3 2019](https://www.youtube.com/watch?v=oK73XMgkpc8)
 
-47. [Darksiders Genesis - Official Announcement
-    Teaser](https://www.youtube.com/watch?v=fTraKgW7DR0)
+47. [Darksiders Genesis - Official Announcement Teaser](https://www.youtube.com/watch?v=fTraKgW7DR0)
 
 48. [聖靈之光 2(Ori2)](https://www.youtube.com/watch?v=2reK8k8nwBc)
 
 49.
 
-50. [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated -
-    Announcement Teaser](https://www.youtube.com/watch?v=swQBJj251d4)
+50. [SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated - Announcement Teaser](https://www.youtube.com/watch?v=swQBJj251d4)
 
 51. [垂死之光 2(Day Light 2)](https://www.youtube.com/watch?v=KRScQU_bS1s)
 
-52. [Battletoads - E3 2019 - Gameplay
-    Trailer](https://www.youtube.com/watch?v=xyJI_uFRZSY)
+52. [Battletoads - E3 2019 - Gameplay Trailer](https://www.youtube.com/watch?v=xyJI_uFRZSY)
 
-53. [Minecraft Dungeons - E3 2019 - Gameplay Reveal
-    Trailer](https://www.youtube.com/watch?v=G0yh51p9P80)
+53. [Minecraft Dungeons - E3 2019 - Gameplay Reveal Trailer](https://www.youtube.com/watch?v=G0yh51p9P80)
 
-54. [Psychonauts 2 · First Gameplay
-    Trailer\!](https://www.youtube.com/watch?v=xV3LGhgDQbc)
+54. [Psychonauts 2 · First Gameplay Trailer\!](https://www.youtube.com/watch?v=xV3LGhgDQbc)
 
-55. [TWELVE MINUTES - Official Cinematic Reveal Trailer |
-    E3 2019](https://www.youtube.com/watch?v=1JxkLYU2zh4)
+55. [TWELVE MINUTES - Official Cinematic Reveal Trailer | E3 2019](https://www.youtube.com/watch?v=1JxkLYU2zh4)
 
-56. [RPG Time: The Legend of Wright - E3
-    Trailer](https://www.youtube.com/watch?v=diwKyQZoOks)
+56. [RPG Time: The Legend of Wright - E3 Trailer](https://www.youtube.com/watch?v=diwKyQZoOks)
 
-57. [Spiritfarer - E3 2019 Reveal
-    Trailer](https://www.youtube.com/watch?v=NRILrZSrDks)
+57. [Spiritfarer - E3 2019 Reveal Trailer](https://www.youtube.com/watch?v=NRILrZSrDks)
 
-58. [Microsoft Flight Simulator - E3 2019 - Announce
-    Trailer](https://www.youtube.com/watch?v=ReDDgFfWlS4)
+58. [Microsoft Flight Simulator - E3 2019 - Announce Trailer](https://www.youtube.com/watch?v=ReDDgFfWlS4)
 
-59. [Way to the Woods - E3 2019
-    Trailer](https://www.youtube.com/watch?v=TDjbZyvvyu0)
+59. [Way to the Woods - E3 2019 Trailer](https://www.youtube.com/watch?v=TDjbZyvvyu0)
 
-60. [Lego Star Wars - The Skywalker Saga Official Reveal Trailer -
-    E3 2019](https://www.youtube.com/watch?v=oz_v35svV40)
+60. [Lego Star Wars - The Skywalker Saga Official Reveal Trailer - E3 2019](https://www.youtube.com/watch?v=oz_v35svV40)
 
-61. [CrossfireX - E3 2019 - Announce
-    Trailer](https://www.youtube.com/watch?v=lq-wlu2pwdw)
+61. [CrossfireX - E3 2019 - Announce Trailer](https://www.youtube.com/watch?v=lq-wlu2pwdw)
 
-62. [Bleeding Edge - Gameplay Reveal Trailer |
-    E3 2019](https://www.youtube.com/watch?v=n5FUSKM5itE)
+62. [Bleeding Edge - Gameplay Reveal Trailer | E3 2019](https://www.youtube.com/watch?v=n5FUSKM5itE)
 
-63. [Borderlands 3 - E3 2019 - We Are
-    Mayhem](https://www.youtube.com/watch?v=nhe7BX9_fSI)
+63. [Borderlands 3 - E3 2019 - We Are Mayhem](https://www.youtube.com/watch?v=nhe7BX9_fSI)
 
-64. [ELDEN RINGデビュートレーラー【2019
-    E3】](https://www.youtube.com/watch?v=4euIi1JfMqs)
+64. [ELDEN RINGデビュートレーラー【2019 E3】](https://www.youtube.com/watch?v=4euIi1JfMqs)
 
-65. [Wasteland 3 - Gameplay
-    Trailer](https://www.youtube.com/watch?v=T9SvLO27K7g)
+65. [Wasteland 3 - Gameplay Trailer](https://www.youtube.com/watch?v=T9SvLO27K7g)
 
-66. [Dragon Ball Z: Kakarot - PS4/XB1/PC - E3 2019
-    Trailer](https://www.youtube.com/watch?v=mRrqHrRoiN8)
+66. [Dragon Ball Z: Kakarot - PS4/XB1/PC - E3 2019 Trailer](https://www.youtube.com/watch?v=mRrqHrRoiN8)
 
-67. [Tales of Arise - E3 Announcement
-    Trailer](https://www.youtube.com/watch?v=LlOddgiCObA)
+67. [Tales of Arise - E3 Announcement Trailer](https://www.youtube.com/watch?v=LlOddgiCObA)
 
-68. [Halo Infinite - E3 2019 - Discover
-    Hope](https://www.youtube.com/watch?v=ZtgzKBrU1GY)
+68. [Halo Infinite - E3 2019 - Discover Hope](https://www.youtube.com/watch?v=ZtgzKBrU1GY)
 
-69. [Blasphemous - Official Gameplay Reveal
-    Trailer](https://www.youtube.com/watch?v=srtnPqP9fn8)
+69. [Blasphemous - Official Gameplay Reveal Trailer](https://www.youtube.com/watch?v=srtnPqP9fn8)
 
-70. [DEATHLOOP – Official World Premiere Trailer |
-    E3 2019](https://www.youtube.com/watch?v=k4NsBsUbSy8)
+70. [DEATHLOOP – Official World Premiere Trailer | E3 2019](https://www.youtube.com/watch?v=k4NsBsUbSy8)
 
-71. [GhostWire: Tokyo – Official E3
-    Teaser](https://www.youtube.com/watch?v=9qrXLQqHkJk)
+71. [GhostWire: Tokyo – Official E3 Teaser](https://www.youtube.com/watch?v=9qrXLQqHkJk)
 
 72.
 

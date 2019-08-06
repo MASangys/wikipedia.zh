@@ -1,6 +1,4 @@
-《**We Are
-One**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Fabel](../Page/Fabel.md "wikilink")的第一張音樂專輯，於2013年12月20日推出，整張專輯由著名音樂人[Alvin
-Leong監製](https://zh.wikipedia.org/wiki/Alvin_Leong "wikilink")。
+《**We Are One**》是[香港](../Page/香港.md "wikilink")[組合](../Page/組合.md "wikilink")[Fabel](../Page/Fabel.md "wikilink")的第一張音樂專輯，於2013年12月20日推出，整張專輯由著名音樂人[Alvin Leong監製](https://zh.wikipedia.org/wiki/Alvin_Leong "wikilink")。
 
 ## 曲目
 
@@ -32,6 +30,4 @@ Leong監製](https://zh.wikipedia.org/wiki/Alvin_Leong "wikilink")。
 
 ## 獎項
 
-[Category:Fabel音樂專輯](https://zh.wikipedia.org/wiki/Category:Fabel音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:Fabel音樂專輯](https://zh.wikipedia.org/wiki/Category:Fabel音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

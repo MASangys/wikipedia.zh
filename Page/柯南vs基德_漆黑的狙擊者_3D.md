@@ -24,8 +24,7 @@
   - 音響効果：横山正和
   - 音響制作：AUDIO PLANNING U
   - 編集：岡田輝满
-  - 製作：[讀賣電視台](../Page/讀賣電視台.md "wikilink")、[TMS
-    Entertainment](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")
+  - 製作：[讀賣電視台](../Page/讀賣電視台.md "wikilink")、[TMS Entertainment](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")
   - 企劃: 諏訪道彥
   - 製片人: 北田修一、小林弘明
   - 總製片人：諏訪道彥、吉岡昌仁

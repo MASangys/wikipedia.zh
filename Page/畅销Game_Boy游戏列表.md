@@ -1,5 +1,4 @@
-本表列出出货或销量至少100万的[Game Boy和](../Page/Game_Boy.md "wikilink")[Game Boy
-Color游戏](../Page/Game_Boy_Color.md "wikilink")。
+本表列出出货或销量至少100万的[Game Boy和](../Page/Game_Boy.md "wikilink")[Game Boy Color游戏](../Page/Game_Boy_Color.md "wikilink")。
 
 ## 列表
 
@@ -146,8 +145,7 @@ Color游戏](../Page/Game_Boy_Color.md "wikilink")。
 
 ## 参考文献
 
-[Category:電子遊戲列表](https://zh.wikipedia.org/wiki/Category:電子遊戲列表 "wikilink")
-[Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
+[Category:電子遊戲列表](https://zh.wikipedia.org/wiki/Category:電子遊戲列表 "wikilink") [Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
 
 1.
 

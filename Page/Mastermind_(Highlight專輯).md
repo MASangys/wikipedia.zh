@@ -1,13 +1,10 @@
-「***Mastermind***」是南韓男子偶像組合BEAST的第三張迷你專輯\[1\]，發行公司為[Cube
-Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")，發行日為2010年9月30日。主打歌為「Breath」。
+「***Mastermind***」是南韓男子偶像組合BEAST的第三張迷你專輯\[1\]，發行公司為[Cube Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")，發行日為2010年9月30日。主打歌為「Breath」。
 
 ## 簡介
 
-  - Intro曲「Mastermind」就如同專輯名稱一樣代表字面意義，「可以輕易掌握其他事物的人」。也有著另外涵義，代表BEAST想要擺脫新人形象，而展現他們自己風格的音樂型態
-    \[2\]
+  - Intro曲「Mastermind」就如同專輯名稱一樣代表字面意義，「可以輕易掌握其他事物的人」。也有著另外涵義，代表BEAST想要擺脫新人形象，而展現他們自己風格的音樂型態 \[2\]
 
-9月16日，[Cube
-Entertainment預告在回歸前將先公開專輯中一首帶有民謠兼R](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")\&B風格的單曲。
+9月16日，[Cube Entertainment預告在回歸前將先公開專輯中一首帶有民謠兼R](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")\&B風格的單曲。
 
 9月17日，歌曲「握緊拳頭(주먹을 꽉 쥐고)」在線上網站公開音源後。\[3\]，便在各音樂排行榜奪冠。 \[4\]
 
@@ -19,8 +16,7 @@ Entertainment預告在回歸前將先公開專輯中一首帶有民謠兼R](http
 
 9月28日，公開「Breath」的完整音樂錄影帶。
 
-9月30日，在[KBS的音樂節目](https://zh.wikipedia.org/wiki/KBS "wikilink")[Music
-Bank上正式回歸](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")，演唱「Breath」及一小段的「Mastermind」。
+9月30日，在[KBS的音樂節目](https://zh.wikipedia.org/wiki/KBS "wikilink")[Music Bank上正式回歸](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")，演唱「Breath」及一小段的「Mastermind」。
 
 ## 編舞
 
@@ -54,8 +50,7 @@ Bank上正式回歸](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")，演�
 
 ## 參考資料
 
-[分類:2010年音樂專輯](https://zh.wikipedia.org/wiki/分類:2010年音樂專輯 "wikilink")
-[分類:韓國音樂專輯](https://zh.wikipedia.org/wiki/分類:韓國音樂專輯 "wikilink")
+[分類:2010年音樂專輯](https://zh.wikipedia.org/wiki/分類:2010年音樂專輯 "wikilink") [分類:韓國音樂專輯](https://zh.wikipedia.org/wiki/分類:韓國音樂專輯 "wikilink")
 
 [Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink")
 

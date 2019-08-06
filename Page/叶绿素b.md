@@ -2,8 +2,6 @@
 
 ## 参考文献
 
-[Category:四吡咯](https://zh.wikipedia.org/wiki/Category:四吡咯 "wikilink")
-[Category:光合色素](https://zh.wikipedia.org/wiki/Category:光合色素 "wikilink")
+[Category:四吡咯](https://zh.wikipedia.org/wiki/Category:四吡咯 "wikilink") [Category:光合色素](https://zh.wikipedia.org/wiki/Category:光合色素 "wikilink")
 
-1.  [photosynthesis
-    pigments](http://www2.mcdaniel.edu/Biology/botf99/photo/p3igments.html)
+1.  [photosynthesis pigments](http://www2.mcdaniel.edu/Biology/botf99/photo/p3igments.html)

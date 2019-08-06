@@ -12,83 +12,51 @@ libavcodec包含如下的編解碼：\[1\]
   - [AVS](https://zh.wikipedia.org/wiki/Audio_Video_Standard "wikilink")（僅解碼功能）
   - [CamStudio](https://zh.wikipedia.org/wiki/CamStudio "wikilink")（僅解碼功能）
   - [Cinepak](https://zh.wikipedia.org/wiki/Cinepak "wikilink")（僅解碼功能）
-  - [Creative](https://zh.wikipedia.org/wiki/Creative "wikilink")
-    YUV（CYUV,僅解碼功能）
+  - [Creative](https://zh.wikipedia.org/wiki/Creative "wikilink") YUV（CYUV,僅解碼功能）
   - [Dirac](https://zh.wikipedia.org/wiki/Dirac "wikilink")（僅解碼功能，編碼則經由[libdirac以及libschroedinger](https://zh.wikipedia.org/wiki/libdirac "wikilink")）
   - [DNxHD](https://zh.wikipedia.org/wiki/DNxHD "wikilink")
-  - [Duck](../Page/On2_Technologies.md "wikilink")
-    [TrueMotion](https://zh.wikipedia.org/wiki/TrueMotion "wikilink")
-    v1與v2（僅解碼功能）
-  - [Flash Screen
-    Video](https://zh.wikipedia.org/wiki/Sorenson_Spark "wikilink")
+  - [Duck](../Page/On2_Technologies.md "wikilink") [TrueMotion](https://zh.wikipedia.org/wiki/TrueMotion "wikilink") v1與v2（僅解碼功能）
+  - [Flash Screen Video](https://zh.wikipedia.org/wiki/Sorenson_Spark "wikilink")
   - [FFV1](https://zh.wikipedia.org/wiki/FFV1 "wikilink")
-  - (animated)
-    [GIF](https://zh.wikipedia.org/wiki/Graphics_Interchange_Format "wikilink")
+  - (animated) [GIF](https://zh.wikipedia.org/wiki/Graphics_Interchange_Format "wikilink")
   - [H.261](../Page/H.261.md "wikilink")
   - [H.263](../Page/H.263.md "wikilink")
-  - [H.264/MPEG-4
-    AVC](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")（原生解碼，編碼則透過[x264](https://zh.wikipedia.org/wiki/x264 "wikilink")）
+  - [H.264/MPEG-4 AVC](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")（原生解碼，編碼則透過[x264](https://zh.wikipedia.org/wiki/x264 "wikilink")）
   - [Huffyuv](https://zh.wikipedia.org/wiki/Huffyuv "wikilink")
-  - [id Software](https://zh.wikipedia.org/wiki/id_Software "wikilink")
-    RoQ Video
-  - [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink")
-    [Indeo](https://zh.wikipedia.org/wiki/Indeo "wikilink")（僅解碼功能）
+  - [id Software](https://zh.wikipedia.org/wiki/id_Software "wikilink") RoQ Video
+  - [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") [Indeo](https://zh.wikipedia.org/wiki/Indeo "wikilink")（僅解碼功能）
   - [Lagarith](https://zh.wikipedia.org/wiki/Lagarith "wikilink")（僅解碼功能）
   - LOCO（僅解碼功能）
   - Mimic（僅解碼功能）
   - [MJPEG](https://zh.wikipedia.org/wiki/MJPEG "wikilink")
   - [MPEG-1](../Page/MPEG-1.md "wikilink")
   - [MPEG-2](../Page/MPEG-2.md "wikilink")/[H.262](../Page/H.262.md "wikilink")
-  - [MPEG-4 Part
-    2](https://zh.wikipedia.org/wiki/MPEG-4_Part_2 "wikilink")（格式多用於[DivX](../Page/DivX.md "wikilink")與[Xvid](../Page/Xvid.md "wikilink")）
+  - [MPEG-4 Part 2](https://zh.wikipedia.org/wiki/MPEG-4_Part_2 "wikilink")（格式多用於[DivX](../Page/DivX.md "wikilink")與[Xvid](../Page/Xvid.md "wikilink")）
 
 <!-- end list -->
 
-  - [On2](../Page/On2_Technologies.md "wikilink")
-    [VP3](https://zh.wikipedia.org/wiki/VP3 "wikilink")（僅解碼功能）
-  - [On2](../Page/On2_Technologies.md "wikilink")
-    [VP5](https://zh.wikipedia.org/wiki/VP5 "wikilink")（僅解碼功能）
-  - [On2](../Page/On2_Technologies.md "wikilink")
-    [VP6](../Page/VP6.md "wikilink")（僅解碼功能）
-  - [On2](../Page/On2_Technologies.md "wikilink")
-    [VP8](../Page/VP8.md "wikilink")（native decoder, encoding through
-    [libvpx](https://zh.wikipedia.org/wiki/libvpx "wikilink")）
+  - [On2](../Page/On2_Technologies.md "wikilink") [VP3](https://zh.wikipedia.org/wiki/VP3 "wikilink")（僅解碼功能）
+  - [On2](../Page/On2_Technologies.md "wikilink") [VP5](https://zh.wikipedia.org/wiki/VP5 "wikilink")（僅解碼功能）
+  - [On2](../Page/On2_Technologies.md "wikilink") [VP6](../Page/VP6.md "wikilink")（僅解碼功能）
+  - [On2](../Page/On2_Technologies.md "wikilink") [VP8](../Page/VP8.md "wikilink")（native decoder, encoding through [libvpx](https://zh.wikipedia.org/wiki/libvpx "wikilink")）
   - [Apple ProRes](https://zh.wikipedia.org/wiki/ProRes_422 "wikilink")
-  - [Apple
-    Computer](https://zh.wikipedia.org/wiki/Apple_Computer "wikilink")
-    [QuickDraw](https://zh.wikipedia.org/wiki/QuickDraw "wikilink")（僅解碼功能）
-  - [QuickTime](../Page/QuickTime.md "wikilink"):
-    [Graphics](https://zh.wikipedia.org/wiki/QuickTime_Graphics "wikilink")（僅解碼功能）,
-    [Video](https://zh.wikipedia.org/wiki/Apple_Video "wikilink")（decoding
-    only）and
-    [Animation](https://zh.wikipedia.org/wiki/QuickTime_Animation "wikilink")（RLE）
+  - [Apple Computer](https://zh.wikipedia.org/wiki/Apple_Computer "wikilink") [QuickDraw](https://zh.wikipedia.org/wiki/QuickDraw "wikilink")（僅解碼功能）
+  - [QuickTime](../Page/QuickTime.md "wikilink"): [Graphics](https://zh.wikipedia.org/wiki/QuickTime_Graphics "wikilink")（僅解碼功能）, [Video](https://zh.wikipedia.org/wiki/Apple_Video "wikilink")（decoding only）and [Animation](https://zh.wikipedia.org/wiki/QuickTime_Animation "wikilink")（RLE）
   - [RealVideo](../Page/RealVideo.md "wikilink") RV10 and RV20
   - RealVideo RV30 and RV40（僅解碼功能）
-  - [Smacker
-    video](https://zh.wikipedia.org/wiki/Smacker_video "wikilink")（僅解碼功能）
+  - [Smacker video](https://zh.wikipedia.org/wiki/Smacker_video "wikilink")（僅解碼功能）
   - [Snow](https://zh.wikipedia.org/wiki/Snow "wikilink")
-  - [Sorenson](https://zh.wikipedia.org/wiki/Sorenson "wikilink")
-    [SVQ1](https://zh.wikipedia.org/wiki/SVQ1 "wikilink")
-  - Sorenson
-    [SVQ3](https://zh.wikipedia.org/wiki/SVQ3 "wikilink")（僅解碼功能）
+  - [Sorenson](https://zh.wikipedia.org/wiki/Sorenson "wikilink") [SVQ1](https://zh.wikipedia.org/wiki/SVQ1 "wikilink")
+  - Sorenson [SVQ3](https://zh.wikipedia.org/wiki/SVQ3 "wikilink")（僅解碼功能）
   - [Theora](../Page/Theora.md "wikilink")（原生解碼，編碼則[libtheora](https://zh.wikipedia.org/wiki/libtheora "wikilink")）
-  - [Sierra](https://zh.wikipedia.org/wiki/Sierra "wikilink") VMD
-    Video（decoding only）
+  - [Sierra](https://zh.wikipedia.org/wiki/Sierra "wikilink") VMD Video（decoding only）
   - [VMware](../Page/VMware.md "wikilink") VMnc（decoding only）
-  - [Westwood
-    Studios](https://zh.wikipedia.org/wiki/Westwood_Studios "wikilink")
-    [VQA](https://zh.wikipedia.org/wiki/.VQA "wikilink")（decoding only）
+  - [Westwood Studios](https://zh.wikipedia.org/wiki/Westwood_Studios "wikilink") [VQA](https://zh.wikipedia.org/wiki/.VQA "wikilink")（decoding only）
   - [WMV](../Page/Windows_Media_Video.md "wikilink")—版本7與8
-  - [WMV](../Page/Windows_Media_Video.md "wikilink")—version 9 /
-    [VC-1](../Page/VC-1.md "wikilink")（僅解碼功能）
-  - [Windows Media Video
-    Image](https://zh.wikipedia.org/wiki/Windows_Media_Video_Image "wikilink")（僅解碼功能）
-  - [Windows Media Video
-    Screen](https://zh.wikipedia.org/wiki/Windows_Media_Video_Screen "wikilink")
-    1 and 2（decoding only）
-  - [Wing
-    Commander](https://zh.wikipedia.org/wiki/Wing_Commander_\(video_game\) "wikilink")/Xan
-    Video（僅解碼功能）
+  - [WMV](../Page/Windows_Media_Video.md "wikilink")—version 9 / [VC-1](../Page/VC-1.md "wikilink")（僅解碼功能）
+  - [Windows Media Video Image](https://zh.wikipedia.org/wiki/Windows_Media_Video_Image "wikilink")（僅解碼功能）
+  - [Windows Media Video Screen](https://zh.wikipedia.org/wiki/Windows_Media_Video_Screen "wikilink") 1 and 2（decoding only）
+  - [Wing Commander](https://zh.wikipedia.org/wiki/Wing_Commander_\(video_game\) "wikilink")/Xan Video（僅解碼功能）
 
 ## 已實作的音頻編解碼器
 
@@ -108,8 +76,7 @@ libavcodec含蓋列下的音頻編解碼格式：\[2\]
 
   - [ATRAC3](https://zh.wikipedia.org/wiki/ATRAC3 "wikilink")（僅解碼功能）
 
-  - [Cook
-    Codec](https://zh.wikipedia.org/wiki/Cook_Codec "wikilink")（僅解碼功能）
+  - [Cook Codec](https://zh.wikipedia.org/wiki/Cook_Codec "wikilink")（僅解碼功能）
 
   - [DTS](../Page/DTS.md "wikilink")（編碼仍在實驗中）
 
@@ -121,16 +88,11 @@ libavcodec含蓋列下的音頻編解碼格式：\[2\]
 
   - [FLAC](../Page/FLAC.md "wikilink")
 
-  - [GSM
-    06.10](https://zh.wikipedia.org/wiki/Full_Rate "wikilink")（原生解碼功能，編碼則經由[libgsm](https://zh.wikipedia.org/wiki/libgsm "wikilink")）
+  - [GSM 06.10](https://zh.wikipedia.org/wiki/Full_Rate "wikilink")（原生解碼功能，編碼則經由[libgsm](https://zh.wikipedia.org/wiki/libgsm "wikilink")）
 
-  - [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") Music Coder
-    and Indeo Audio Coder（僅解碼功能）
+  - [Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") Music Coder and Indeo Audio Coder（僅解碼功能）
 
-  - [Meridian Lossless
-    Packing](https://zh.wikipedia.org/wiki/Meridian_Lossless_Packing "wikilink")
-    / [Dolby
-    TrueHD](https://zh.wikipedia.org/wiki/Dolby_TrueHD "wikilink")（僅解碼功能）
+  - [Meridian Lossless Packing](https://zh.wikipedia.org/wiki/Meridian_Lossless_Packing "wikilink") / [Dolby TrueHD](https://zh.wikipedia.org/wiki/Dolby_TrueHD "wikilink")（僅解碼功能）
 
   - [Monkey's Audio](../Page/Monkey's_Audio.md "wikilink")（僅解碼功能）
 
@@ -142,8 +104,7 @@ libavcodec含蓋列下的音頻編解碼格式：\[2\]
 
 <!-- end list -->
 
-  - [Nellymoser Asao Codec in
-    Flash](https://zh.wikipedia.org/wiki/Nellymoser_Asao_Codec_in_Flash "wikilink")
+  - [Nellymoser Asao Codec in Flash](https://zh.wikipedia.org/wiki/Nellymoser_Asao_Codec_in_Flash "wikilink")
 
   - [Opus透過外部的libopus](https://zh.wikipedia.org/wiki/Opus "wikilink")
 
@@ -153,8 +114,7 @@ libavcodec含蓋列下的音頻編解碼格式：\[2\]
 
   - [RealAudio 1.0](https://zh.wikipedia.org/wiki/VSELP "wikilink")
 
-  - [RealAudio
-    2.0](https://zh.wikipedia.org/wiki/LD-CELP "wikilink")（僅解碼）
+  - [RealAudio 2.0](https://zh.wikipedia.org/wiki/LD-CELP "wikilink")（僅解碼）
 
   - [Shorten](https://zh.wikipedia.org/wiki/Shorten "wikilink")（僅解碼）
 
@@ -170,14 +130,11 @@ libavcodec含蓋列下的音頻編解碼格式：\[2\]
 
   - 1與2
 
-  - [Windows Media Audio 9
-    Lossless](https://zh.wikipedia.org/wiki/Windows_Media_Audio_9_Lossless "wikilink")（僅解碼）
+  - [Windows Media Audio 9 Lossless](https://zh.wikipedia.org/wiki/Windows_Media_Audio_9_Lossless "wikilink")（僅解碼）
 
-  - [Windows Media Audio 9
-    Professional](https://zh.wikipedia.org/wiki/WMA_Pro "wikilink")（僅解碼）
+  - [Windows Media Audio 9 Professional](https://zh.wikipedia.org/wiki/WMA_Pro "wikilink")（僅解碼）
 
-  - [Windows Media Audio
-    Voice](../Page/Windows_Media_Audio.md "wikilink")（僅解碼）
+  - [Windows Media Audio Voice](../Page/Windows_Media_Audio.md "wikilink")（僅解碼）
 
 ## 引用libavcodec的庫
 
@@ -202,8 +159,7 @@ libavcodec含蓋列下的音頻編解碼格式：\[2\]
 
 ### 音頻播放器
 
-  - [Audacious](https://zh.wikipedia.org/wiki/Audacious_Media_Player "wikilink")（Uses
-    in audacious-plugins's ffaudio）
+  - [Audacious](https://zh.wikipedia.org/wiki/Audacious_Media_Player "wikilink")（Uses in audacious-plugins's ffaudio）
   - [Rockbox](https://zh.wikipedia.org/wiki/Rockbox "wikilink")（仅FLAC编码）
   - [XMMS2](https://zh.wikipedia.org/wiki/XMMS2 "wikilink")
 
@@ -271,28 +227,14 @@ libavcodec含蓋列下的音頻編解碼格式：\[2\]
 ### 多媒體流伺服器
 
   - [FFserver](../Page/FFmpeg.md "wikilink")
-  - [VLC media
-    player](https://zh.wikipedia.org/wiki/VLC_media_player "wikilink")
+  - [VLC media player](https://zh.wikipedia.org/wiki/VLC_media_player "wikilink")
 
 ### 多媒體架構
 
-  - [ffdshow](https://zh.wikipedia.org/wiki/ffdshow "wikilink")（将
-    libavcodec 包装为 [DirectShow](../Page/DirectShow.md "wikilink")
-    滤镜，并添加后处理工序以增强图像质量；安装后可自动为 Windows 上使用 DirectShow
-    架构的播放器所调用，包括 [Windows Media
-    Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")、[Media
-    Player
-    Classic](../Page/Media_Player_Classic.md "wikilink")、[Winamp](../Page/Winamp.md "wikilink")
-    等。ffdshow 同时也将 libavcodec 包装为 [Video for
-    Windows](../Page/Video_for_Windows.md "wikilink")
-    滤镜，这是大多数视频编辑软件所用的架构。）
-  - [GStreamer](../Page/GStreamer.md "wikilink") via the GStreamer
-    FFmpeg
-    [plugin](https://zh.wikipedia.org/wiki/Plug-in_\(computing\) "wikilink")
+  - [ffdshow](https://zh.wikipedia.org/wiki/ffdshow "wikilink")（将 libavcodec 包装为 [DirectShow](../Page/DirectShow.md "wikilink") 滤镜，并添加后处理工序以增强图像质量；安装后可自动为 Windows 上使用 DirectShow 架构的播放器所调用，包括 [Windows Media Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")、[Media Player Classic](../Page/Media_Player_Classic.md "wikilink")、[Winamp](../Page/Winamp.md "wikilink") 等。ffdshow 同时也将 libavcodec 包装为 [Video for Windows](../Page/Video_for_Windows.md "wikilink") 滤镜，这是大多数视频编辑软件所用的架构。）
+  - [GStreamer](../Page/GStreamer.md "wikilink") via the GStreamer FFmpeg [plugin](https://zh.wikipedia.org/wiki/Plug-in_\(computing\) "wikilink")
   - [Perian](https://zh.wikipedia.org/wiki/Perian "wikilink")
-  - [Bellagio OpenMAX Integration
-    Layer](https://zh.wikipedia.org/wiki/OpenMAX#OpenMAX_AL_\(Application_Layer\) "wikilink")
-    – opensource OpenMAX IL API implementation
+  - [Bellagio OpenMAX Integration Layer](https://zh.wikipedia.org/wiki/OpenMAX#OpenMAX_AL_\(Application_Layer\) "wikilink") – opensource OpenMAX IL API implementation
 
 ### 電腦視訊庫
 
@@ -314,20 +256,16 @@ libavcodec含蓋列下的音頻編解碼格式：\[2\]
 
 ### 设备工具集
 
-  - [BitPim](https://zh.wikipedia.org/wiki/BitPim "wikilink") –
-    用于CDMA手机的工具集
+  - [BitPim](https://zh.wikipedia.org/wiki/BitPim "wikilink") – 用于CDMA手机的工具集
 
 ### 闭路电视
 
-  - [ZoneMinder](https://zh.wikipedia.org/wiki/ZoneMinder "wikilink") –
-    摄像头安全套件
-  - [Motion](https://zh.wikipedia.org/wiki/Motion_\(surveillance_software\) "wikilink")
-    – 摄像头安全/监视程序
+  - [ZoneMinder](https://zh.wikipedia.org/wiki/ZoneMinder "wikilink") – 摄像头安全套件
+  - [Motion](https://zh.wikipedia.org/wiki/Motion_\(surveillance_software\) "wikilink") – 摄像头安全/监视程序
 
 ### 遊戲
 
-  - [Performous](https://zh.wikipedia.org/wiki/Performous "wikilink")
-    –音樂遊戲包含美聲，樂團，以及舞蹈。
+  - [Performous](https://zh.wikipedia.org/wiki/Performous "wikilink") –音樂遊戲包含美聲，樂團，以及舞蹈。
   - [StepMania](../Page/StepMania.md "wikilink")
 
 ### 其他
@@ -335,16 +273,12 @@ libavcodec含蓋列下的音頻編解碼格式：\[2\]
   - [Chameleo](https://zh.wikipedia.org/wiki/Chameleo "wikilink")
   - [CorePlayer](https://zh.wikipedia.org/wiki/CorePlayer "wikilink")
   - [FreeJ](https://zh.wikipedia.org/wiki/FreeJ "wikilink")
-  - [Ingex Studio](https://zh.wikipedia.org/wiki/Ingex "wikilink") –
-    used by [BBC](https://zh.wikipedia.org/wiki/BBC "wikilink")
-  - [PulseAudio](../Page/PulseAudio.md "wikilink") – includes only
-    resamplers code\[8\]
+  - [Ingex Studio](https://zh.wikipedia.org/wiki/Ingex "wikilink") – used by [BBC](https://zh.wikipedia.org/wiki/BBC "wikilink")
+  - [PulseAudio](../Page/PulseAudio.md "wikilink") – includes only resamplers code\[8\]
 
 ## 参考资料
 
-[Category:视频编解码器](https://zh.wikipedia.org/wiki/Category:视频编解码器 "wikilink")
-[Category:音频编解码器](https://zh.wikipedia.org/wiki/Category:音频编解码器 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
+[Category:视频编解码器](https://zh.wikipedia.org/wiki/Category:视频编解码器 "wikilink") [Category:音频编解码器](https://zh.wikipedia.org/wiki/Category:音频编解码器 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
 
 1.
 2.

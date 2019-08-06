@@ -1,11 +1,8 @@
-《**AKB映像中心**》（，）是一個由[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")製作播放的夜間[綜藝節目](../Page/綜藝節目.md "wikilink")，於2013年4月22日至9月29日間播放，是富士電視台的深夜節目系列「SU夜」（\[1\]）的一部份。《AKB映像中心》是富士電視台自《[AKB自動車部](https://zh.wikipedia.org/wiki/AKB自動車部 "wikilink")》播畢之後首次播放的[AKB48](../Page/AKB48.md "wikilink")冠名節目，由隸屬於[HKT48](../Page/HKT48.md "wikilink")的[指原莉乃](../Page/指原莉乃.md "wikilink")擔任主持人，並由知名[插畫](https://zh.wikipedia.org/wiki/插畫家 "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、本名中川雅也的[Lily
-Franky](https://zh.wikipedia.org/wiki/Lily_Franky "wikilink")（）擔任講評來賓，於每週日深夜12時55分（相當於週一凌晨0時55分）在以[關東地區為主的日本全國富士聯播網播放](https://zh.wikipedia.org/wiki/關東地區 "wikilink")。節目共有24集，除最後一集是加長播出的半小時特集外，其餘各集片長皆為15分鐘。
+《**AKB映像中心**》（，）是一個由[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")製作播放的夜間[綜藝節目](../Page/綜藝節目.md "wikilink")，於2013年4月22日至9月29日間播放，是富士電視台的深夜節目系列「SU夜」（\[1\]）的一部份。《AKB映像中心》是富士電視台自《[AKB自動車部](https://zh.wikipedia.org/wiki/AKB自動車部 "wikilink")》播畢之後首次播放的[AKB48](../Page/AKB48.md "wikilink")冠名節目，由隸屬於[HKT48](../Page/HKT48.md "wikilink")的[指原莉乃](../Page/指原莉乃.md "wikilink")擔任主持人，並由知名[插畫](https://zh.wikipedia.org/wiki/插畫家 "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、本名中川雅也的[Lily Franky](https://zh.wikipedia.org/wiki/Lily_Franky "wikilink")（）擔任講評來賓，於每週日深夜12時55分（相當於週一凌晨0時55分）在以[關東地區為主的日本全國富士聯播網播放](https://zh.wikipedia.org/wiki/關東地區 "wikilink")。節目共有24集，除最後一集是加長播出的半小時特集外，其餘各集片長皆為15分鐘。
 
 ## 簡介
 
-《AKB映像中心》是一個與[影片分享網站](https://zh.wikipedia.org/wiki/影片分享網站 "wikilink")[YouTube](../Page/YouTube.md "wikilink")跨業合作、具有[網路互動概念的電視節目](https://zh.wikipedia.org/wiki/網路互動 "wikilink")，採[現場直播](../Page/現場直播.md "wikilink")的方式進行（偶爾有必要時也會改為預錄方式拍攝，在採預錄攝影時指原與Lily
-Franky通常會特別在對話中提及）。在每週的節目中主持人指原會介紹三至四個由AKB48集團的成員所自行創作、主演與投稿、約一分鐘長的短片，在介紹結束之後立刻同步[上傳至AKB](https://zh.wikipedia.org/wiki/上傳 "wikilink")48在YouTube上開設的官方頻道專區中，吸引節目觀眾與歌迷前往瀏覽，並且透過點擊瀏覽次數的競爭選出哪位成員才是團體中的「映像中央成員」（video
-center）\[2\]。
+《AKB映像中心》是一個與[影片分享網站](https://zh.wikipedia.org/wiki/影片分享網站 "wikilink")[YouTube](../Page/YouTube.md "wikilink")跨業合作、具有[網路互動概念的電視節目](https://zh.wikipedia.org/wiki/網路互動 "wikilink")，採[現場直播](../Page/現場直播.md "wikilink")的方式進行（偶爾有必要時也會改為預錄方式拍攝，在採預錄攝影時指原與Lily Franky通常會特別在對話中提及）。在每週的節目中主持人指原會介紹三至四個由AKB48集團的成員所自行創作、主演與投稿、約一分鐘長的短片，在介紹結束之後立刻同步[上傳至AKB](https://zh.wikipedia.org/wiki/上傳 "wikilink")48在YouTube上開設的官方頻道專區中，吸引節目觀眾與歌迷前往瀏覽，並且透過點擊瀏覽次數的競爭選出哪位成員才是團體中的「映像中央成員」（video center）\[2\]。
 
 短片的內容五花八門，除了常見的AKB48活動花絮之外，也有像是成員的居家生活披露、才藝表演、特別製作的搞笑短片或是歌唱與舞蹈等內容企畫。其中，有為數不少的影片是由成員們與YouTube上具有高知名度的創作頻道，或影片創作家所跨界合作。
 
@@ -22,8 +19,7 @@ center）\[2\]。
 <!-- end list -->
 
   - [指原莉乃](../Page/指原莉乃.md "wikilink")：主持人
-  - [Lily
-    Franky](https://zh.wikipedia.org/wiki/Lily_Franky "wikilink")：講評人
+  - [Lily Franky](https://zh.wikipedia.org/wiki/Lily_Franky "wikilink")：講評人
   - AKB48集團成員：影片內容演出
 
 <!-- end list -->
@@ -385,10 +381,7 @@ center）\[2\]。
   - [節目新聞稿](https://web.archive.org/web/20130515074103/http://www.fujitv.co.jp/fujitv/news/pub_2013/130415-152.html)（富士電視台）
   - [《AKB映像中心》影片累計播放次數排行](http://www.youtube.com/playlist?list=PLTnoe1_0qtAbPKJ3L7EqFsg-7f-t-ng3S)（AKB48官方YouTube頻道）
 
-[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink")
-[Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink")
-[Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink")
+[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink") [Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink") [Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink")
 
 1.  「SU夜」是富士電視台自2013年4月21日開始播放的一個深夜電視節目品牌名稱，此系列品牌實際上是由三個[偶像冠名節目所組成](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，分別是《》（，[Kis-My-Ft2的冠名節目](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")）、《》（，[SMAP](../Page/SMAP.md "wikilink")的冠名節目）與《AKB映像中心》。
-2.  「video
-    center」（）在此處是一個雙關語，除了是節目的名稱外，也代表透過影片點擊率選出誰才是AKB48集團中的「中央成員」（）之意。
+2.  「video center」（）在此處是一個雙關語，除了是節目的名稱外，也代表透過影片點擊率選出誰才是AKB48集團中的「中央成員」（）之意。

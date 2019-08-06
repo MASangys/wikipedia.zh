@@ -44,6 +44,4 @@ DVD: 2013.3.17 LEO～1st Live Tour～追加公演@赤坂BLITZ ダイジェスト
       - [初回限定盤B](http://www.jvcmusic.co.jp/-/Discography/A023686/VIZL-542.html)
       - [通常盤](http://www.jvcmusic.co.jp/-/Discography/A023686/VICL-36763.html)
 
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:家入里歐歌曲](https://zh.wikipedia.org/wiki/Category:家入里歐歌曲 "wikilink")
-[Category:TBS電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:TBS電視台電視劇主題曲 "wikilink")
+[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:家入里歐歌曲](https://zh.wikipedia.org/wiki/Category:家入里歐歌曲 "wikilink") [Category:TBS電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:TBS電視台電視劇主題曲 "wikilink")

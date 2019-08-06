@@ -10,35 +10,22 @@
 
 ## 开发
 
-本作的首席游戏设计师是Tiberius
-Lazar，他和他的团队于2002年末尾开始了游戏的开发工作，2005年3月完成。他们本来准备2004年完成整个游戏，但是动态战役的制作问题推迟了发行时间。几乎整个小组的人员都投入了测试版的测试，不过由于要赶在2005年春季发行，测试的时间并不足够。第一阶段测试开始于2004年夏，而到了秋季，测试团队达到20人。2005年春季他们投入了30人来测试整个游戏。为了开发这款游戏，他们研究了历史，包括[二战时真实存在的U艇艇长Jürgen](https://zh.wikipedia.org/wiki/二战 "wikilink")
-Oesten。\[5\]
+本作的首席游戏设计师是Tiberius Lazar，他和他的团队于2002年末尾开始了游戏的开发工作，2005年3月完成。他们本来准备2004年完成整个游戏，但是动态战役的制作问题推迟了发行时间。几乎整个小组的人员都投入了测试版的测试，不过由于要赶在2005年春季发行，测试的时间并不足够。第一阶段测试开始于2004年夏，而到了秋季，测试团队达到20人。2005年春季他们投入了30人来测试整个游戏。为了开发这款游戏，他们研究了历史，包括[二战时真实存在的U艇艇长Jürgen](https://zh.wikipedia.org/wiki/二战 "wikilink") Oesten。\[5\]
 
 ## 评价
 
-本作在评论界获得了积极评价。[IGN](../Page/IGN.md "wikilink")打出了88分，认为该游戏“值得等待”；而[GameSpy](../Page/GameSpy.md "wikilink")则为该游戏打了满分，认为它可以与《F-19》、《Longbow
-2》、《欧洲空战》相提并论。\[6\]
+本作在评论界获得了积极评价。[IGN](../Page/IGN.md "wikilink")打出了88分，认为该游戏“值得等待”；而[GameSpy](../Page/GameSpy.md "wikilink")则为该游戏打了满分，认为它可以与《F-19》、《Longbow 2》、《欧洲空战》相提并论。\[6\]
 
 ## 参考资料
 
 ## 外部链接
 
   -
-[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink")
-[Category:育碧游戏](https://zh.wikipedia.org/wiki/Category:育碧游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Windows独占游戏](https://zh.wikipedia.org/wiki/Category:Windows独占游戏 "wikilink")
-[Category:二战题材电子游戏](https://zh.wikipedia.org/wiki/Category:二战题材电子游戏 "wikilink")
-[Category:罗马尼亚开发电子游戏](https://zh.wikipedia.org/wiki/Category:罗马尼亚开发电子游戏 "wikilink")
+[Category:2005年电子游戏](https://zh.wikipedia.org/wiki/Category:2005年电子游戏 "wikilink") [Category:育碧游戏](https://zh.wikipedia.org/wiki/Category:育碧游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Windows独占游戏](https://zh.wikipedia.org/wiki/Category:Windows独占游戏 "wikilink") [Category:二战题材电子游戏](https://zh.wikipedia.org/wiki/Category:二战题材电子游戏 "wikilink") [Category:罗马尼亚开发电子游戏](https://zh.wikipedia.org/wiki/Category:罗马尼亚开发电子游戏 "wikilink")
 
 1.  将战争的记忆告诉年轻人——反法西斯战争胜利60周年游戏回顾专题. 互动软件 游戏版\[J\]. 2005, (第8期). 页41.
 2.  闫书强.猎杀潜航3\[J\].大众硬件,2005,(第7期). 页106-108
 3.  紫铜等著. 游间道 第3辑 第5版. 少年电脑世界杂志社, 2005.06. 页101-103.
 4.  燃烧的海洋 猎杀潜航3\[J\].软件,2004,(第12期). 页18-19
-5.  George Buzdugan. [Softpedia News talks with the creators of Silent
-    Hunter
-    III](http://news.softpedia.com/news/Softpedia-News-talks-with-the-creators-of-Silent-Hunter-III-2142.shtml).
-    Softpedia
-6.  [Silent Hunter
-    III](http://www.metacritic.com/game/pc/silent-hunter-iii/critic-reviews).
-    Metacritic.
+5.  George Buzdugan. [Softpedia News talks with the creators of Silent Hunter III](http://news.softpedia.com/news/Softpedia-News-talks-with-the-creators-of-Silent-Hunter-III-2142.shtml). Softpedia
+6.  [Silent Hunter III](http://www.metacritic.com/game/pc/silent-hunter-iii/critic-reviews). Metacritic.

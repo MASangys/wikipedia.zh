@@ -126,15 +126,8 @@
 
   - [《BBS鄉民的正義》官方網站](https://web.archive.org/web/20120622000817/http://woodman.kusos.com/)
 
-  - [《必要之闇："BBS鄉民的正義"前傳預告片》
-    YouTube](http://www.youtube.com/watch?v=i1MIhi7iHsQ)
+  - [《必要之闇："BBS鄉民的正義"前傳預告片》 YouTube](http://www.youtube.com/watch?v=i1MIhi7iHsQ)
 
   -
   -
-[Category:臺灣BBS](https://zh.wikipedia.org/wiki/Category:臺灣BBS "wikilink")
-[Category:社群媒體題材作品](https://zh.wikipedia.org/wiki/Category:社群媒體題材作品 "wikilink")
-[Category:2010年代台灣電影作品](https://zh.wikipedia.org/wiki/Category:2010年代台灣電影作品 "wikilink")
-[Category:台灣動作片](https://zh.wikipedia.org/wiki/Category:台灣動作片 "wikilink")
-[Category:前傳電影](https://zh.wikipedia.org/wiki/Category:前傳電影 "wikilink")
-[Category:臺灣真人真事改編電影](https://zh.wikipedia.org/wiki/Category:臺灣真人真事改編電影 "wikilink")
-[Category:20世纪福斯电影](https://zh.wikipedia.org/wiki/Category:20世纪福斯电影 "wikilink")
+[Category:臺灣BBS](https://zh.wikipedia.org/wiki/Category:臺灣BBS "wikilink") [Category:社群媒體題材作品](https://zh.wikipedia.org/wiki/Category:社群媒體題材作品 "wikilink") [Category:2010年代台灣電影作品](https://zh.wikipedia.org/wiki/Category:2010年代台灣電影作品 "wikilink") [Category:台灣動作片](https://zh.wikipedia.org/wiki/Category:台灣動作片 "wikilink") [Category:前傳電影](https://zh.wikipedia.org/wiki/Category:前傳電影 "wikilink") [Category:臺灣真人真事改編電影](https://zh.wikipedia.org/wiki/Category:臺灣真人真事改編電影 "wikilink") [Category:20世纪福斯电影](https://zh.wikipedia.org/wiki/Category:20世纪福斯电影 "wikilink")

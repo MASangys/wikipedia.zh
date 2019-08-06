@@ -14,14 +14,12 @@
 
   - <https://www.google.com/intl/zh-TW/landing/nose>
 
-[Category:愚人節笑話](https://zh.wikipedia.org/wiki/Category:愚人節笑話 "wikilink")
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
+[Category:愚人節笑話](https://zh.wikipedia.org/wiki/Category:愚人節笑話 "wikilink") [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
 
 1.
 
 2.
 
 3.  [1](https://www.techbang.com/posts/12750-google-now-olfactory-experience?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+techbang+\(T%E5%AE%A2%E9%82%A6+%E6%9C%80%E6%96%B0%E6%96%87%E7%AB%A0\))
-
 
 4.

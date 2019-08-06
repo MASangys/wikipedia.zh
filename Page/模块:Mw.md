@@ -68,8 +68,7 @@ text.tag = function (t, frame)
 
 end
 
-\-- FIXME: How much of the below is obsolete now that we have the mw.uri
-module? local url = {
+\-- FIXME: How much of the below is obsolete now that we have the mw.uri module? local url = {
 
 `   server = "zh.wikipedia.org",`
 `   -- Return a string encoded for use in a URL, equivalent to the parser function ``.`
@@ -97,10 +96,6 @@ end url.full = function (title, query)
 
 end
 
-\-- Insert as the global functions if they haven't been supplied by
-Scribunto. -- FIXME: I'm told this doesn't work. If not, take it out. if
-( nil == mw ) then mw = {} end if ( nil == mw.text ) then mw.text = text
-end if ( nil == mw.url ) then mw.url = url end
+\-- Insert as the global functions if they haven't been supplied by Scribunto. -- FIXME: I'm told this doesn't work. If not, take it out. if ( nil == mw ) then mw = {} end if ( nil == mw.text ) then mw.text = text end if ( nil == mw.url ) then mw.url = url end
 
-\-- Return our replacement functions as this module's own exported
-function table. return { url = url, text = text }
+\-- Return our replacement functions as this module's own exported function table. return { url = url, text = text }

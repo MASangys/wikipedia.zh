@@ -1,37 +1,27 @@
-**AlphaBAT**（），韓國九人男子音樂團體，成員為B:eta、C:ode、D:elta、E:psilon、F:ie、G:amma、H:eta、I:ota及J:eta
-。除了C:ode 和 J:eta 外成員名字均為希腊字母。官方出道日期為2013年11月11日。首張迷你專輯《AB
-City》於2013年11月11日發行，11月14日以單曲《AB
-CITY》於Mnet《MCountdDown》舞台正式出道。出道前受到品牌《BOY
-LONDON KOREA》邀請並代言其品牌。AlphaBAT官方歌迷名稱則是 **Alpha**(**알파**)。
+**AlphaBAT**（），韓國九人男子音樂團體，成員為B:eta、C:ode、D:elta、E:psilon、F:ie、G:amma、H:eta、I:ota及J:eta 。除了C:ode 和 J:eta 外成員名字均為希腊字母。官方出道日期為2013年11月11日。首張迷你專輯《AB City》於2013年11月11日發行，11月14日以單曲《AB CITY》於Mnet《MCountdDown》舞台正式出道。出道前受到品牌《BOY LONDON KOREA》邀請並代言其品牌。AlphaBAT官方歌迷名稱則是 **Alpha**(**알파**)。
 
 2014年4月24日於馬來西亞舉行了Showcase 並在其後展開在當地招選"第十名成員"的活動\[1\]。
 
-2014年8月8日-10日再次抵達馬來西亞分別在怡保、馬六甲、吉隆坡進行Showcase與馬來西亞歌迷互動。2014年8月23日於韓國舉行 -
-迷你專輯《Answer》 - Showcase **"Alpha School"**與 **알파** 見面。
+2014年8月8日-10日再次抵達馬來西亞分別在怡保、馬六甲、吉隆坡進行Showcase與馬來西亞歌迷互動。2014年8月23日於韓國舉行 - 迷你專輯《Answer》 - Showcase **"Alpha School"**與 **알파** 見面。
 
 AlphaBAT 現正在展開亞洲推廣行程 地方暫時決定為:中國\>日本\>泰國\>新加坡
 
 2014年12月23日-25日在中國天津進行推廣活動。並參與 BOY LONDON KOREA公司 聖誕派對。
 
-2015年2月13日-22日將在日本大阪進行推廣活動**"AlphaBAT 9HOLIC LIVE
-PROMOTION"**\[2\]。,並舉行4埸公演。
+2015年2月13日-22日將在日本大阪進行推廣活動**"AlphaBAT 9HOLIC LIVE PROMOTION"**\[2\]。,並舉行4埸公演。
 
 其後行程還有泰國及新加坡。
 
-2015年3月15日於 弘大 BeZzang Hall 舉行 '''ALPHABAT FANMEETING IN KOREA "+A & -B
-" '''。另外 隊長 ''' 베타 B:eta ''' 會在這次FM之後入伍, 是次將會入伍前最後一次和 Alpha 相見。
+2015年3月15日於 弘大 BeZzang Hall 舉行 '''ALPHABAT FANMEETING IN KOREA "+A & -B " '''。另外 隊長 ''' 베타 B:eta ''' 會在這次FM之後入伍, 是次將會入伍前最後一次和 Alpha 相見。
 
-隊長 베타 B:eta
-已於2015年3月31日在第十七步兵師團參與新兵訓練營，2015年5月7日軍隊結業式中以一等成績結業，並於2016年12月30日退伍。
+隊長 베타 B:eta 已於2015年3月31日在第十七步兵師團參與新兵訓練營，2015年5月7日軍隊結業式中以一等成績結業，並於2016年12月30日退伍。
 
-2015年5月30日 Simtong Entertainment發聲明表示 成員 코드 C:ode 因腰傷及肩傷
-暫時進入休息期,而下張專輯,由餘下7位成員完成。
+2015年5月30日 Simtong Entertainment發聲明表示 成員 코드 C:ode 因腰傷及肩傷 暫時進入休息期,而下張專輯,由餘下7位成員完成。
 
 2015年7月28日公佈 於 2015年8月1日舉行兩場小型演唱會。
 
 2018年10月宣佈加入新成員 L:ambda 成為五人團體發行新作品《新世界 (신세계)》回歸，並發布同名主打歌 MV 。
-AlphaBAT團體名稱意思\[3\]：BAT 令人聯想起BAT MAN，BAT
-MAN也就是英雄，表示他們希望成為英雄，能守護**Alpha**（**알파**）。
+AlphaBAT團體名稱意思\[3\]：BAT 令人聯想起BAT MAN，BAT MAN也就是英雄，表示他們希望成為英雄，能守護**Alpha**（**알파**）。
 
 ## 現任成員
 
@@ -232,8 +222,7 @@ MAN也就是英雄，表示他們希望成為英雄，能守護**Alpha**（**알
 
 ## AlphaBAT TV
 
-官方表示 於YouTube頻道 每星期四 發佈(不一定會) [AlphaBAT
-TV](https://www.youtube.com/watch?v=Km0jiWSiw3c&index=1&list=PLoKhrWwiWf4Z6LId3r7wqkmqXfqfGCd50)YouTube連結
+官方表示 於YouTube頻道 每星期四 發佈(不一定會) [AlphaBAT TV](https://www.youtube.com/watch?v=Km0jiWSiw3c&index=1&list=PLoKhrWwiWf4Z6LId3r7wqkmqXfqfGCd50)YouTube連結
 
 | 日期         | 集數    | 標題                                  | 參與成員            |
 | ---------- | ----- | ----------------------------------- | --------------- |
@@ -435,9 +424,7 @@ TV](https://www.youtube.com/watch?v=Km0jiWSiw3c&index=1&list=PLoKhrWwiWf4Z6LId3r
 
 ## 參考來源
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
 
 1.
 2.

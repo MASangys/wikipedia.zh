@@ -1,6 +1,4 @@
-《**Touch**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[miss
-A首張迷你專輯](https://zh.wikipedia.org/wiki/miss_A "wikilink")。[AQ娛樂、JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，2012年2月20日由KT
-Music發行。專輯同名歌曲〈Touch〉為主打歌曲。
+《**Touch**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[miss A首張迷你專輯](https://zh.wikipedia.org/wiki/miss_A "wikilink")。[AQ娛樂、JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，2012年2月20日由KT Music發行。專輯同名歌曲〈Touch〉為主打歌曲。
 
 ## 曲目
 
@@ -118,8 +116,7 @@ Music發行。專輯同名歌曲〈Touch〉為主打歌曲。
 
 ## 參考資料
 
-[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
-[Category:miss_A音樂專輯](https://zh.wikipedia.org/wiki/Category:miss_A音樂專輯 "wikilink")
+[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:miss_A音樂專輯](https://zh.wikipedia.org/wiki/Category:miss_A音樂專輯 "wikilink")
 
 1.
 

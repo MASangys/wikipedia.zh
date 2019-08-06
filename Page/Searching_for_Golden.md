@@ -1,6 +1,4 @@
-| Recorded = 《**Searching For
-goldEN**》是[香港](../Page/香港.md "wikilink")二人男子組合[goldEN的第](https://zh.wikipedia.org/wiki/goldEN_\(組合\) "wikilink")2張專輯，在2014年9月29日由[邁亞音樂](../Page/邁亞音樂.md "wikilink")。專輯中第一主打是《
-戀循環》，第二主打則是《反擊的愛人》，第三主打則是《新城市》。
+| Recorded = 《**Searching For goldEN**》是[香港](../Page/香港.md "wikilink")二人男子組合[goldEN的第](https://zh.wikipedia.org/wiki/goldEN_\(組合\) "wikilink")2張專輯，在2014年9月29日由[邁亞音樂](../Page/邁亞音樂.md "wikilink")。專輯中第一主打是《 戀循環》，第二主打則是《反擊的愛人》，第三主打則是《新城市》。
 
 ## 曲目
 

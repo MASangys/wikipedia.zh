@@ -1,21 +1,14 @@
-[Geneva_MotorShow_2013_-_Ferrari_LaFerrari_rear_left_view.jpg](https://zh.wikipedia.org/wiki/File:Geneva_MotorShow_2013_-_Ferrari_LaFerrari_rear_left_view.jpg "fig:Geneva_MotorShow_2013_-_Ferrari_LaFerrari_rear_left_view.jpg")
-[Geneva_MotorShow_2013_-_Ferrari_LaFerrari_opened_door.jpg](https://zh.wikipedia.org/wiki/File:Geneva_MotorShow_2013_-_Ferrari_LaFerrari_opened_door.jpg "fig:Geneva_MotorShow_2013_-_Ferrari_LaFerrari_opened_door.jpg")
+[Geneva_MotorShow_2013_-_Ferrari_LaFerrari_rear_left_view.jpg](https://zh.wikipedia.org/wiki/File:Geneva_MotorShow_2013_-_Ferrari_LaFerrari_rear_left_view.jpg "fig:Geneva_MotorShow_2013_-_Ferrari_LaFerrari_rear_left_view.jpg") [Geneva_MotorShow_2013_-_Ferrari_LaFerrari_opened_door.jpg](https://zh.wikipedia.org/wiki/File:Geneva_MotorShow_2013_-_Ferrari_LaFerrari_opened_door.jpg "fig:Geneva_MotorShow_2013_-_Ferrari_LaFerrari_opened_door.jpg")
 
-**LaFerrari**（代号F70，内部代号F150）是[法拉利推出的一款](https://zh.wikipedia.org/wiki/法拉利汽车 "wikilink")[混合动力](../Page/混合動力車輛.md "wikilink")[超级跑车](https://zh.wikipedia.org/wiki/超级跑车 "wikilink")。车名中“La”为意大利语中用于陰性单数名词前的[定冠词](https://zh.wikipedia.org/wiki/定冠词 "wikilink")，相当于英语的“The”。该车于2013年在[日内瓦车展上首次亮相](https://zh.wikipedia.org/wiki/日内瓦车展 "wikilink")。它的设计借鉴了[法拉利FXX赛车的测试成果](https://zh.wikipedia.org/wiki/法拉利FXX "wikilink")。并计划将车重控制在1,000公斤以内，\[1\]
-但最终公布的重量为1,255公斤。\[2\]同[恩佐一样](../Page/法拉利恩佐.md "wikilink")，LaFerrari为限量生产，目前计划生产499辆。\[3\]\[4\]
-2016年8月31日，廠方宣佈額外生產第500輛供慈善拍賣所用，所得收益將全數捐給[2016年意大利中部地震](../Page/2016年意大利中部地震.md "wikilink")的災民。\[5\]
+**LaFerrari**（代号F70，内部代号F150）是[法拉利推出的一款](https://zh.wikipedia.org/wiki/法拉利汽车 "wikilink")[混合动力](../Page/混合動力車輛.md "wikilink")[超级跑车](https://zh.wikipedia.org/wiki/超级跑车 "wikilink")。车名中“La”为意大利语中用于陰性单数名词前的[定冠词](https://zh.wikipedia.org/wiki/定冠词 "wikilink")，相当于英语的“The”。该车于2013年在[日内瓦车展上首次亮相](https://zh.wikipedia.org/wiki/日内瓦车展 "wikilink")。它的设计借鉴了[法拉利FXX赛车的测试成果](https://zh.wikipedia.org/wiki/法拉利FXX "wikilink")。并计划将车重控制在1,000公斤以内，\[1\] 但最终公布的重量为1,255公斤。\[2\]同[恩佐一样](../Page/法拉利恩佐.md "wikilink")，LaFerrari为限量生产，目前计划生产499辆。\[3\]\[4\] 2016年8月31日，廠方宣佈額外生產第500輛供慈善拍賣所用，所得收益將全數捐給[2016年意大利中部地震](../Page/2016年意大利中部地震.md "wikilink")的災民。\[5\]
 
 ## 概况
 
-LaFerrari是法拉利推出的第一款混合动力跑车，其動力為法拉利V12缸[自然進氣引擎中最強](https://zh.wikipedia.org/wiki/自然進氣引擎 "wikilink")，然而其油耗却降低了40%\[6\]。LaFerrari搭載了一具6.3公升(6,262cc,缸徑94mm/衝程75mm)V12缸[自然進氣引擎](https://zh.wikipedia.org/wiki/自然進氣引擎 "wikilink")，在9,000
-rpm時可輸出最大800馬力(597 kW)，在6,750 rpm時則可輸出最大扭力700 Nm，引擎最高轉速可達9,250 rpm\[7\]。
+LaFerrari是法拉利推出的第一款混合动力跑车，其動力為法拉利V12缸[自然進氣引擎中最強](https://zh.wikipedia.org/wiki/自然進氣引擎 "wikilink")，然而其油耗却降低了40%\[6\]。LaFerrari搭載了一具6.3公升(6,262cc,缸徑94mm/衝程75mm)V12缸[自然進氣引擎](https://zh.wikipedia.org/wiki/自然進氣引擎 "wikilink")，在9,000 rpm時可輸出最大800馬力(597 kW)，在6,750 rpm時則可輸出最大扭力700 Nm，引擎最高轉速可達9,250 rpm\[7\]。
 
-LaFerrari除了強大的引擎動力外，還在後軸搭載了一具120kW(163馬力)的電動馬達並兼具法拉利[動能回收系統](https://zh.wikipedia.org/wiki/動能回收系統 "wikilink")，俗称HY-KERS。该系统相当于配备了一具增压器，可在加速時提供額外的馬力輸出，使LaFerrari在9,250
-rpm時可輸出最大963馬力(709 kW)，在6,750 rpm時則可輸出最大扭力900
-Nm\[8\]。二氧化碳排放量为每公里330-{zh-cn:克;zh-tw:公克;zh-hk:克;}-\[9\]。
+LaFerrari除了強大的引擎動力外，還在後軸搭載了一具120kW(163馬力)的電動馬達並兼具法拉利[動能回收系統](https://zh.wikipedia.org/wiki/動能回收系統 "wikilink")，俗称HY-KERS。该系统相当于配备了一具增压器，可在加速時提供額外的馬力輸出，使LaFerrari在9,250 rpm時可輸出最大963馬力(709 kW)，在6,750 rpm時則可輸出最大扭力900 Nm\[8\]。二氧化碳排放量为每公里330-{zh-cn:克;zh-tw:公克;zh-hk:克;}-\[9\]。
 
-法拉利还为LaFerrari装配了碳陶瓷刹车碟，直径分别为前车轮398毫米，后车轮380毫米。轮胎规格为前车轮265/30
-R19，后车轮345/30 R20\[10\]。
+法拉利还为LaFerrari装配了碳陶瓷刹车碟，直径分别为前车轮398毫米，后车轮380毫米。轮胎规格为前车轮265/30 R19，后车轮345/30 R20\[10\]。
 
 LaFerrari的车架采用了纯碳纤维来製造以达到减轻重量的目的。法拉利官方称该车架的刚性比它的上一代[Enzo提升了了](../Page/法拉利恩佐.md "wikilink")27%，车架劲度则提升了22%，車體配重比例為前41%/後59%\[11\]。
 
@@ -33,8 +26,7 @@ LaFerrari是首款完全由法拉利自主研发的车型，[宾尼法利纳](..
 
 ## 性能
 
-法拉利测试其最高时速超過350公里（220英里）。時速0 - 100公里加速小於3秒，時速0 - 200公里加速小於7秒，時速0 -
-300公里的加速时间僅需15秒。\[13\]
+法拉利测试其最高时速超過350公里（220英里）。時速0 - 100公里加速小於3秒，時速0 - 200公里加速小於7秒，時速0 - 300公里的加速时间僅需15秒。\[13\]
 
 ## 赛道版本
 
@@ -46,11 +38,7 @@ LaFerrari是首款完全由法拉利自主研发的车型，[宾尼法利纳](..
 
   -
   -
-[Category:法拉利車輛](https://zh.wikipedia.org/wiki/Category:法拉利車輛 "wikilink")
-[Category:超級跑車](https://zh.wikipedia.org/wiki/Category:超級跑車 "wikilink")
-[Category:中置引擎](https://zh.wikipedia.org/wiki/Category:中置引擎 "wikilink")
-[Category:後輪驅動](https://zh.wikipedia.org/wiki/Category:後輪驅動 "wikilink")
-[Category:2013年面世的汽車](https://zh.wikipedia.org/wiki/Category:2013年面世的汽車 "wikilink")
+[Category:法拉利車輛](https://zh.wikipedia.org/wiki/Category:法拉利車輛 "wikilink") [Category:超級跑車](https://zh.wikipedia.org/wiki/Category:超級跑車 "wikilink") [Category:中置引擎](https://zh.wikipedia.org/wiki/Category:中置引擎 "wikilink") [Category:後輪驅動](https://zh.wikipedia.org/wiki/Category:後輪驅動 "wikilink") [Category:2013年面世的汽車](https://zh.wikipedia.org/wiki/Category:2013年面世的汽車 "wikilink")
 
 1.
 2.

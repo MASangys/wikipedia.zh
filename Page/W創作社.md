@@ -1,11 +1,6 @@
 **W創作社**自1999年成立，由黃智龍及曾偉賢創辦，將香港本土文化及港人的思想融入戲劇之中，按照每次演出需求，跟不同範疇的演藝精英合作。經常合作的包括導演[司徒慧焯](../Page/司徒慧焯.md "wikilink")、演員[梁祖堯](../Page/梁祖堯.md "wikilink")、[邵美君](../Page/邵美君.md "wikilink")、[湯駿業](../Page/湯駿業.md "wikilink")、[林小寶](../Page/林小寶.md "wikilink")、[白只](../Page/白只.md "wikilink")、黃呈欣、燈光設計師張國永、楊子欣、佈景設計師陳友榮、邵偉敏、形象設計師梁健棠、吳達生、音響設計師夏恩蓓及編舞陳嘉儀等，建立出高質素的流行藝術風格，吸引了很多從未進入劇場觀賞的年輕觀眾。
 
-W創作社製作了很多叫好叫座的劇作，包括與[林一峰合作的屋村情懷](https://zh.wikipedia.org/wiki/林一峰 "wikilink")「音樂劇場」《[馴情記](../Page/馴情記.md "wikilink")》；分享香港同性戀者愛與哀愁的[梁祖堯](../Page/梁祖堯.md "wikilink")獨腳戲《[攣到爆](../Page/攣到爆.md "wikilink")》；與[何韻詩合作的搖滾音樂劇場](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")《[梁祝下世傳奇](../Page/梁祝下世傳奇_\(舞台劇\).md "wikilink")》；諷刺香港小人的喜劇《[小人國](../Page/小人國_\(舞台劇\).md "wikilink")》系列第1-6集；[黃偉文參演的](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")《白雪先生灰先生》；[蘇玉華](../Page/蘇玉華.md "wikilink")及林一峰主演的成人童話《[你今日拯救咗地球未呀?](../Page/你今日拯救咗地球未呀?.md "wikilink")》；林一峰、[盧凱彤及](https://zh.wikipedia.org/wiki/盧凱彤 "wikilink")[趙學而](../Page/趙學而.md "wikilink")等翻唱陳百強作品的音樂劇場《[一期一會](../Page/一期一會_\(音樂劇\).md "wikilink")》；[王菀之及](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[張敬軒參演的音樂劇場](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")《Octave
-柯迪夫》；揭示愛情陰暗面的邵美君獨腳戲《[Love is Shit
-愛是雪](../Page/愛是雪.md "wikilink")》；[薛凱琪參演的音樂劇場](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")《Last
-Smile, First
-Tear》；講述[香港](../Page/香港.md "wikilink")經濟低迷下生存之道的《[廢柴](../Page/廢柴.md "wikilink")》及以新視點探索當下男男、男女
-Open Relationship的《開關係》等。
+W創作社製作了很多叫好叫座的劇作，包括與[林一峰合作的屋村情懷](https://zh.wikipedia.org/wiki/林一峰 "wikilink")「音樂劇場」《[馴情記](../Page/馴情記.md "wikilink")》；分享香港同性戀者愛與哀愁的[梁祖堯](../Page/梁祖堯.md "wikilink")獨腳戲《[攣到爆](../Page/攣到爆.md "wikilink")》；與[何韻詩合作的搖滾音樂劇場](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")《[梁祝下世傳奇](../Page/梁祝下世傳奇_\(舞台劇\).md "wikilink")》；諷刺香港小人的喜劇《[小人國](../Page/小人國_\(舞台劇\).md "wikilink")》系列第1-6集；[黃偉文參演的](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")《白雪先生灰先生》；[蘇玉華](../Page/蘇玉華.md "wikilink")及林一峰主演的成人童話《[你今日拯救咗地球未呀?](../Page/你今日拯救咗地球未呀?.md "wikilink")》；林一峰、[盧凱彤及](https://zh.wikipedia.org/wiki/盧凱彤 "wikilink")[趙學而](../Page/趙學而.md "wikilink")等翻唱陳百強作品的音樂劇場《[一期一會](../Page/一期一會_\(音樂劇\).md "wikilink")》；[王菀之及](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[張敬軒參演的音樂劇場](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")《Octave 柯迪夫》；揭示愛情陰暗面的邵美君獨腳戲《[Love is Shit 愛是雪](../Page/愛是雪.md "wikilink")》；[薛凱琪參演的音樂劇場](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")《Last Smile, First Tear》；講述[香港](../Page/香港.md "wikilink")經濟低迷下生存之道的《[廢柴](../Page/廢柴.md "wikilink")》及以新視點探索當下男男、男女 Open Relationship的《開關係》等。
 
 黃智龍因身體欠佳，W創作社已無限期停止創作\[1\]。
 
@@ -442,30 +437,23 @@ Open Relationship的《開關係》等。
 
 ## 出版紀錄
 
-  - 1999年《[戀愛次貨](../Page/戀愛次貨.md "wikilink")》推出了兩首歌曲及一首音樂〈可以愛我嗎？〉的CD
-    Single
-  - 2001年《[戀之惑星](../Page/戀之惑星.md "wikilink")》舞台劇原聲大碟CD共有15首作品，除收錄《戀》劇中的9
-    首歌曲之外，還收錄了〈I'm on your side〉（《看星星》英文版）、〈看星星〉夜空版、〈多痛一次〉（鋼琴獨奏）及另外3
-    首原創音樂。
+  - 1999年《[戀愛次貨](../Page/戀愛次貨.md "wikilink")》推出了兩首歌曲及一首音樂〈可以愛我嗎？〉的CD Single
+  - 2001年《[戀之惑星](../Page/戀之惑星.md "wikilink")》舞台劇原聲大碟CD共有15首作品，除收錄《戀》劇中的9 首歌曲之外，還收錄了〈I'm on your side〉（《看星星》英文版）、〈看星星〉夜空版、〈多痛一次〉（鋼琴獨奏）及另外3 首原創音樂。
   - 2002年《[廢柴](../Page/廢柴.md "wikilink")》首版及重演亦分別推出了兩個版本的原聲大碟，首演時與W創作社另一演出《[十二月部屋](../Page/十二月部屋.md "wikilink")》以雙CD形式發售，重演時則以單CD形式發售，加錄了新歌〈反彈\~給香港人的打氣歌〉及全新配樂。
   - 2002年《[十二月部屋](../Page/十二月部屋.md "wikilink")》分別推出了兩個版本的原聲大碟，公演前與W創作社另一演出《廢柴》以雙CD形式發售，公演時則以單CD形式發售，加錄了新歌〈我的花〉。
   - 2003年《廢柴》推出了舞台劇現場紀錄的VCD。
   - 2003年《[馴情記](../Page/馴情記.md "wikilink")》出版了舞台劇現場演出紀錄的VCD。
-  - 2003年《[次貨](../Page/次貨.md "wikilink")》舞台劇原聲大碟包括劇中4首歌曲連同6首原創音樂，再加上Bonus
-    track:
-    舊作《[戀愛次貨](../Page/戀愛次貨.md "wikilink")》插曲〈次貨情歌〉（劉子騰主唱），共有11首作品。
+  - 2003年《[次貨](../Page/次貨.md "wikilink")》舞台劇原聲大碟包括劇中4首歌曲連同6首原創音樂，再加上Bonus track: 舊作《[戀愛次貨](../Page/戀愛次貨.md "wikilink")》插曲〈次貨情歌〉（劉子騰主唱），共有11首作品。
   - 2005年《[梁祝下世傳奇](https://zh.wikipedia.org/wiki/梁祝下世傳奇 "wikilink")》出版了舞台劇現場演出紀錄的DVD及VCD。
   - 2006年《W 創作社音樂劇 Empty 原聲大碟》包括劇中共16首原創歌曲。
-  - 2006年出版了《W X M Music Collection》，收錄了1999年至2005年由Michael Tsang
-    創作，Ｗ創作社演出的歌曲。
+  - 2006年出版了《W X M Music Collection》，收錄了1999年至2005年由Michael Tsang 創作，Ｗ創作社演出的歌曲。
   - 2007年《一期一會》出版了舞台劇現場演出紀錄的DVD。
   - 2007年《小人國》推出了舞台劇現場紀錄的VCD。
   - 2008年《Last Smile, First Tear》出版了舞台劇現場演出紀錄的DVD。
 
 ## 曾獲獎項
 
-  - 《[攣到爆](../Page/攣到爆.md "wikilink")》第十四屆香港舞台劇獎「十大最受歡迎劇目」第十四屆香港舞台劇獎「最佳男主角
-    (喜/鬧劇) 」－梁祖堯\[3\]第二十屆香港舞台劇獎20年以來「最入心男演員」獎－梁祖堯\[4\]
+  - 《[攣到爆](../Page/攣到爆.md "wikilink")》第十四屆香港舞台劇獎「十大最受歡迎劇目」第十四屆香港舞台劇獎「最佳男主角 (喜/鬧劇) 」－梁祖堯\[3\]第二十屆香港舞台劇獎20年以來「最入心男演員」獎－梁祖堯\[4\]
   - 《你今日拯救咗地球未呀?》第十五屆香港舞台劇獎「十大最受歡迎劇目」 第十五屆香港舞台劇獎「最佳女配角（悲／正劇）」- 邵美君\[5\]
   - 《Empty》第十六屆香港舞台劇獎「十大最受歡迎劇目」第十六屆香港舞台劇獎「最佳音響設計」- 陳銘健\[6\]
   - 《一期一會》第十七屆香港舞台劇獎「十大最受歡迎劇目」第十七屆香港舞台劇獎「最佳原創音樂」\[7\]
@@ -478,11 +466,7 @@ Open Relationship的《開關係》等。
 
 ## 參考文獻
 
-[Category:香港戲劇](https://zh.wikipedia.org/wiki/Category:香港戲劇 "wikilink")
-[Category:劇團](https://zh.wikipedia.org/wiki/Category:劇團 "wikilink")
-[Category:香港舞台劇](https://zh.wikipedia.org/wiki/Category:香港舞台劇 "wikilink")
-[Category:香港藝術團體](https://zh.wikipedia.org/wiki/Category:香港藝術團體 "wikilink")
-[Category:香港舞台劇劇團](https://zh.wikipedia.org/wiki/Category:香港舞台劇劇團 "wikilink")
+[Category:香港戲劇](https://zh.wikipedia.org/wiki/Category:香港戲劇 "wikilink") [Category:劇團](https://zh.wikipedia.org/wiki/Category:劇團 "wikilink") [Category:香港舞台劇](https://zh.wikipedia.org/wiki/Category:香港舞台劇 "wikilink") [Category:香港藝術團體](https://zh.wikipedia.org/wiki/Category:香港藝術團體 "wikilink") [Category:香港舞台劇劇團](https://zh.wikipedia.org/wiki/Category:香港舞台劇劇團 "wikilink")
 
 1.
 2.

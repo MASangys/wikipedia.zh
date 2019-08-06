@@ -1,5 +1,4 @@
-**SMTOWN Live World Tour
-IV**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")的家族聯合世界巡迴演唱會。這次巡演於2014年舉行。
+**SMTOWN Live World Tour IV**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")[SM娛樂](../Page/SM娛樂.md "wikilink")的家族聯合世界巡迴演唱會。這次巡演於2014年舉行。
 
 ## 參與藝人
 
@@ -107,22 +106,14 @@ IV**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](.
 
 <!-- end list -->
 
-  - [東方神起](../Page/東方神起.md "wikilink")
-    （[允浩](https://zh.wikipedia.org/wiki/允浩 "wikilink")(缺席東京、大阪場演出)、[昌珉](https://zh.wikipedia.org/wiki/昌珉 "wikilink")）
-  - [Super Junior](../Page/Super_Junior.md "wikilink")
-    （[利特](../Page/利特.md "wikilink")、[希澈](../Page/希澈.md "wikilink")、[藝聲](../Page/藝聲.md "wikilink")(缺席首爾、東京、上海、台灣場演出)、[強仁](../Page/強仁.md "wikilink")、[神童](../Page/神童.md "wikilink")(缺席台灣、東京、大阪場演出)、[晟敏](../Page/晟敏.md "wikilink")(缺席台灣、東京、大阪場演出)、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[東海](https://zh.wikipedia.org/wiki/東海 "wikilink")、[厲旭](../Page/厲旭.md "wikilink")、[圭賢](../Page/圭賢.md "wikilink")）
-      - [Super Junior-M](../Page/Super_Junior-M.md "wikilink")
-        （[周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")、Henry）
-  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")
-    （[太妍](../Page/太妍.md "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李純揆 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/Tiffany "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[俞利](../Page/俞利.md "wikilink")、[秀英](https://zh.wikipedia.org/wiki/秀英 "wikilink")(缺席東京、上海場演出)、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")(缺席台灣場演出)、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
-  - [SHINee](../Page/SHINee.md "wikilink")
-    （[溫流](../Page/溫流.md "wikilink")(缺席首爾場演出)、[鐘鉉](../Page/鐘鉉.md "wikilink")、[Key](https://zh.wikipedia.org/wiki/Key "wikilink")、[珉豪](../Page/珉豪.md "wikilink")(缺席大阪場演出)、[泰民](../Page/泰民.md "wikilink")）
-  - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
-    （[Victoria](https://zh.wikipedia.org/wiki/Victoria "wikilink")(缺席東京、大板場演出)、[Amber](https://zh.wikipedia.org/wiki/Amber "wikilink")、[Luna](https://zh.wikipedia.org/wiki/Luna "wikilink")、[Krystal](../Page/鄭秀晶.md "wikilink")）
-  - [EXO](../Page/EXO.md "wikilink")
-    （[Xiumin](../Page/Xiumin.md "wikilink")、Suho、[Lay](https://zh.wikipedia.org/wiki/Lay "wikilink")(缺席台灣場演出)、[伯賢](../Page/伯賢.md "wikilink")、Chen、[燦烈](https://zh.wikipedia.org/wiki/燦烈 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/D.O. "wikilink")、[Tao](https://zh.wikipedia.org/wiki/Tao "wikilink")(缺席東京、大阪場演出)、[Kai](../Page/Kai.md "wikilink")、[世勳](https://zh.wikipedia.org/wiki/世勳 "wikilink")）
-  - [Red Velvet](../Page/Red_Velvet.md "wikilink")
-    （[Irene](https://zh.wikipedia.org/wiki/裴珠泫 "wikilink")、[瑟琪](https://zh.wikipedia.org/wiki/姜瑟琪 "wikilink")、[Wendy](https://zh.wikipedia.org/wiki/孫承歡 "wikilink")、[Joy](https://zh.wikipedia.org/wiki/朴秀英 "wikilink")、[Yeri](../Page/Yeri.md "wikilink")(缺席首爾、東京、上海場演出)）
+  - [東方神起](../Page/東方神起.md "wikilink") （[允浩](https://zh.wikipedia.org/wiki/允浩 "wikilink")(缺席東京、大阪場演出)、[昌珉](https://zh.wikipedia.org/wiki/昌珉 "wikilink")）
+  - [Super Junior](../Page/Super_Junior.md "wikilink") （[利特](../Page/利特.md "wikilink")、[希澈](../Page/希澈.md "wikilink")、[藝聲](../Page/藝聲.md "wikilink")(缺席首爾、東京、上海、台灣場演出)、[強仁](../Page/強仁.md "wikilink")、[神童](../Page/神童.md "wikilink")(缺席台灣、東京、大阪場演出)、[晟敏](../Page/晟敏.md "wikilink")(缺席台灣、東京、大阪場演出)、[始源](https://zh.wikipedia.org/wiki/始源 "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[東海](https://zh.wikipedia.org/wiki/東海 "wikilink")、[厲旭](../Page/厲旭.md "wikilink")、[圭賢](../Page/圭賢.md "wikilink")）
+      - [Super Junior-M](../Page/Super_Junior-M.md "wikilink") （[周覓](https://zh.wikipedia.org/wiki/周覓 "wikilink")、Henry）
+  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink") （[太妍](../Page/太妍.md "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李純揆 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/Tiffany "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[俞利](../Page/俞利.md "wikilink")、[秀英](https://zh.wikipedia.org/wiki/秀英 "wikilink")(缺席東京、上海場演出)、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")(缺席台灣場演出)、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
+  - [SHINee](../Page/SHINee.md "wikilink") （[溫流](../Page/溫流.md "wikilink")(缺席首爾場演出)、[鐘鉉](../Page/鐘鉉.md "wikilink")、[Key](https://zh.wikipedia.org/wiki/Key "wikilink")、[珉豪](../Page/珉豪.md "wikilink")(缺席大阪場演出)、[泰民](../Page/泰民.md "wikilink")）
+  - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink") （[Victoria](https://zh.wikipedia.org/wiki/Victoria "wikilink")(缺席東京、大板場演出)、[Amber](https://zh.wikipedia.org/wiki/Amber "wikilink")、[Luna](https://zh.wikipedia.org/wiki/Luna "wikilink")、[Krystal](../Page/鄭秀晶.md "wikilink")）
+  - [EXO](../Page/EXO.md "wikilink") （[Xiumin](../Page/Xiumin.md "wikilink")、Suho、[Lay](https://zh.wikipedia.org/wiki/Lay "wikilink")(缺席台灣場演出)、[伯賢](../Page/伯賢.md "wikilink")、Chen、[燦烈](https://zh.wikipedia.org/wiki/燦烈 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/D.O. "wikilink")、[Tao](https://zh.wikipedia.org/wiki/Tao "wikilink")(缺席東京、大阪場演出)、[Kai](../Page/Kai.md "wikilink")、[世勳](https://zh.wikipedia.org/wiki/世勳 "wikilink")）
+  - [Red Velvet](../Page/Red_Velvet.md "wikilink") （[Irene](https://zh.wikipedia.org/wiki/裴珠泫 "wikilink")、[瑟琪](https://zh.wikipedia.org/wiki/姜瑟琪 "wikilink")、[Wendy](https://zh.wikipedia.org/wiki/孫承歡 "wikilink")、[Joy](https://zh.wikipedia.org/wiki/朴秀英 "wikilink")、[Yeri](../Page/Yeri.md "wikilink")(缺席首爾、東京、上海場演出)）
 
 <!-- end list -->
 
@@ -130,8 +121,7 @@ IV**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](.
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")
 
 <!-- end list -->
 
@@ -140,8 +130,7 @@ IV**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](.
 <!-- end list -->
 
   - 首爾－Dreammaker Entertainment Limited
-  - 東京－[SM Entertainment Japan](../Page/SM娛樂.md "wikilink")、On The Line
-    \[6\]
+  - 東京－[SM Entertainment Japan](../Page/SM娛樂.md "wikilink")、On The Line \[6\]
   - 上海－[寰亞中國](https://zh.wikipedia.org/wiki/寰亞唱片 "wikilink")
   - 台灣－超級圓頂
 
@@ -171,9 +160,7 @@ IV**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](.
   -
   -
 
-[Category:SMTOWN巡迴演唱會](https://zh.wikipedia.org/wiki/Category:SMTOWN巡迴演唱會 "wikilink")
-[Category:2014年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2014年巡迴演唱會 "wikilink")
-[Category:2015年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2015年巡迴演唱會 "wikilink")
+[Category:SMTOWN巡迴演唱會](https://zh.wikipedia.org/wiki/Category:SMTOWN巡迴演唱會 "wikilink") [Category:2014年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2014年巡迴演唱會 "wikilink") [Category:2015年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2015年巡迴演唱會 "wikilink")
 
 1.
 2.

@@ -1,40 +1,26 @@
-《**AKB48
-SHOW\!**》是[日本](../Page/日本.md "wikilink")[NHK製播的一個](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，2013年10月5日起每週日晚上11時（[JST](../Page/日本標準時間.md "wikilink")）在NHK旗下的[衛星電視頻道](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[BS
-Premium播出](../Page/NHK_BS_Premium.md "wikilink")。該節目是女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")在NHK的第一個常態性冠名節目，但除了掛名的AKB48之外，AKB48的[諸多姊妹團體](../Page/AKB48集團.md "wikilink")、以及做為AKB48「官方對手」的[坂道系列](../Page/坂道系列.md "wikilink")（[乃木坂46等團體](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")）也會不定期參與節目演出或擁有特集節目。
-节目在2019年3月24日播出最后一集\[1\]。
+《**AKB48 SHOW\!**》是[日本](../Page/日本.md "wikilink")[NHK製播的一個](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，2013年10月5日起每週日晚上11時（[JST](../Page/日本標準時間.md "wikilink")）在NHK旗下的[衛星電視頻道](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")[BS Premium播出](../Page/NHK_BS_Premium.md "wikilink")。該節目是女子[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48](../Page/AKB48.md "wikilink")在NHK的第一個常態性冠名節目，但除了掛名的AKB48之外，AKB48的[諸多姊妹團體](../Page/AKB48集團.md "wikilink")、以及做為AKB48「官方對手」的[坂道系列](../Page/坂道系列.md "wikilink")（[乃木坂46等團體](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")）也會不定期參與節目演出或擁有特集節目。 节目在2019年3月24日播出最后一集\[1\]。
 
 ## 簡介
 
-《AKB48
-SHOW\!》是一個混合了音樂節目與綜藝節目特性的作品，節目流程一般以不超过三首在[攝影棚內實地演唱的歌曲為主軸](https://zh.wikipedia.org/wiki/攝影棚 "wikilink")，前後插入由AKB集團成員所演出的[短劇](https://zh.wikipedia.org/wiki/短劇 "wikilink")、AKB常識介紹、成員訪談與後台採訪之紀錄片等單元作為串場。
+《AKB48 SHOW\!》是一個混合了音樂節目與綜藝節目特性的作品，節目流程一般以不超过三首在[攝影棚內實地演唱的歌曲為主軸](https://zh.wikipedia.org/wiki/攝影棚 "wikilink")，前後插入由AKB集團成員所演出的[短劇](https://zh.wikipedia.org/wiki/短劇 "wikilink")、AKB常識介紹、成員訪談與後台採訪之紀錄片等單元作為串場。
 
-有別於AKB在參與一般的音樂節目作現場表演時，通常是以上節目當時主打的新[單曲搭配過去較受歡迎的熱賣曲作為表演曲目](https://zh.wikipedia.org/wiki/單曲 "wikilink")，在《AKB48
-SHOW\!》中選擇的曲目還包括了公演曲、單曲唱片C/W（[B面曲](https://zh.wikipedia.org/wiki/B面曲 "wikilink")）等較少在電視節目中演出的歌曲。例如在節目開播第一集中開場的第一首歌，就選擇了2005年12月8日AKB48的劇場開幕時作為第一場公演開場曲、也是AKB48創團之後真正對外表演的第一首歌《[派對開始了](https://zh.wikipedia.org/wiki/派對開始了 "wikilink")》（），而在节目开播一周年（\#45）、两周年（\#88）、三周年（\#128）和四周年（\#164）的时候，Team
-8、SKE48研究生、NGT48和AKB48的16期生也分别再次表演了这首歌曲。
+有別於AKB在參與一般的音樂節目作現場表演時，通常是以上節目當時主打的新[單曲搭配過去較受歡迎的熱賣曲作為表演曲目](https://zh.wikipedia.org/wiki/單曲 "wikilink")，在《AKB48 SHOW\!》中選擇的曲目還包括了公演曲、單曲唱片C/W（[B面曲](https://zh.wikipedia.org/wiki/B面曲 "wikilink")）等較少在電視節目中演出的歌曲。例如在節目開播第一集中開場的第一首歌，就選擇了2005年12月8日AKB48的劇場開幕時作為第一場公演開場曲、也是AKB48創團之後真正對外表演的第一首歌《[派對開始了](https://zh.wikipedia.org/wiki/派對開始了 "wikilink")》（），而在节目开播一周年（\#45）、两周年（\#88）、三周年（\#128）和四周年（\#164）的时候，Team 8、SKE48研究生、NGT48和AKB48的16期生也分别再次表演了这首歌曲。
 
-除了歌曲、短劇、訪談與幕後花絮等可在其他AKB48冠名的綜藝節目中看到的內容外，此節目在开播时特別針對不熟悉AKB48的觀眾設置了一個名為「迄今沒聽過的
-AKB48白熱教室」（）的單元，在每集節目中選定一特定的主題，介紹關於該團體的知識。另外，在一些歌曲單元中也會提及演出曲本身的歷史或典故，也是此節目另一個特殊的地方。
+除了歌曲、短劇、訪談與幕後花絮等可在其他AKB48冠名的綜藝節目中看到的內容外，此節目在开播时特別針對不熟悉AKB48的觀眾設置了一個名為「迄今沒聽過的 AKB48白熱教室」（）的單元，在每集節目中選定一特定的主題，介紹關於該團體的知識。另外，在一些歌曲單元中也會提及演出曲本身的歷史或典故，也是此節目另一個特殊的地方。
 
 在2018年4月，节目首次更换了播放日期，节目的播出由周六晚变为周日晚，与此同时，节目中的画外音也开始由各组合的成员担任。
 
-除了同屬48集團的姊妹團體外，官方設定為“AKB48的官方对手”的[乃木坂46及其姐妹团体](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")[榉坂46也偶爾會以特集的方式在此節目中演出](https://zh.wikipedia.org/wiki/榉坂46 "wikilink")。这时节目名称会发生变化，如當節目是由乃木坂46演出時，該集的節目名會暫時變更為《乃木坂46
-SHOW\!》，且部分的單元名稱也會有些許改變，例如原本的「[高橋總監督的說教房間](../Page/高橋南.md "wikilink")」單元，會被切換成「[櫻井隊長的說教房間](../Page/櫻井玲香.md "wikilink")」。
+除了同屬48集團的姊妹團體外，官方設定為“AKB48的官方对手”的[乃木坂46及其姐妹团体](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")[榉坂46也偶爾會以特集的方式在此節目中演出](https://zh.wikipedia.org/wiki/榉坂46 "wikilink")。这时节目名称会发生变化，如當節目是由乃木坂46演出時，該集的節目名會暫時變更為《乃木坂46 SHOW\!》，且部分的單元名稱也會有些許改變，例如原本的「[高橋總監督的說教房間](../Page/高橋南.md "wikilink")」單元，會被切換成「[櫻井隊長的說教房間](../Page/櫻井玲香.md "wikilink")」。
 
 ### NHK與AKB48的合作
 
-雖然在《AKB48
-SHOW\!》正式開播之前，NHK也曾與AKB48集團進行節目上的合作，但主要都是侷限在部分成員的參與，或以短期特集的型態播出。
+雖然在《AKB48 SHOW\!》正式開播之前，NHK也曾與AKB48集團進行節目上的合作，但主要都是侷限在部分成員的參與，或以短期特集的型態播出。
 
 部分成員演出方面，[前田亞美](../Page/前田亞美.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")（HKT48）、[佐藤堇](../Page/佐藤堇.md "wikilink")（）、[宮崎美穗](../Page/宮崎美穗.md "wikilink")、[小森美果](../Page/小森美果.md "wikilink")與[木本花音](../Page/木本花音.md "wikilink")（SKE48）陸續獲選擔任教育綜藝節目《[R的法則](../Page/R的法則.md "wikilink")》（，[ETV](../Page/NHK教育頻道.md "wikilink")）的固定演出成員；[高橋南](../Page/高橋南.md "wikilink")（）則是擔任了兒童節目《[擊倒霸凌](https://zh.wikipedia.org/wiki/擊倒霸凌 "wikilink")》（，ETV）的主持人。
 
 除此之外，少數的AKB48成員也以個人名義在NHK相關頻道上擁有冠名節目，例如[篠田麻里子](../Page/篠田麻里子.md "wikilink")的《》（）；本身是[日本東北大震受災戶的](https://zh.wikipedia.org/wiki/日本東北大震 "wikilink")[岩田華-{怜}-](../Page/岩田華怜.md "wikilink")，則擔任了《華-{怜}-的復興日曆》（）的旁白導航，該節目是NHK為了震災後復興工程而製作的系列節目《向明日邁進的1分鐘》（）之一部份。
 
-特集方面，在2013年9月間，NHK BS
-Premium頻道曾連續三週於週六半夜播出每集各2小時長的特別節目《AKB秋祭》（），分別是9月14日的「NMB48
-東日本巡迴 演唱會&紀錄片」（），9月21日的「[MJ](../Page/MUSIC_JAPAN.md "wikilink") present
-SKE48 Request
-Special」，與9月28日的「[AKB48選拔總選舉特集](https://zh.wikipedia.org/wiki/AKB48第五屆選拔總選舉 "wikilink")（長版）」。除此之外，AKB48也在NHK所屬的[廣播電台擁有掛名的節目](../Page/NHK-FM頻率.md "wikilink")《[AKB48的「我們的故事」](../Page/AKB48的「我們的故事」.md "wikilink")》（），由不同成員每週輪流參與[廣播劇](../Page/廣播劇.md "wikilink")的演出。但是，《AKB48
-SHOW\!》仍然是第一個在NHK的電視頻道上全由AKB48集團成員擔任固定演出的冠名節目。
+特集方面，在2013年9月間，NHK BS Premium頻道曾連續三週於週六半夜播出每集各2小時長的特別節目《AKB秋祭》（），分別是9月14日的「NMB48 東日本巡迴 演唱會&紀錄片」（），9月21日的「[MJ](../Page/MUSIC_JAPAN.md "wikilink") present SKE48 Request Special」，與9月28日的「[AKB48選拔總選舉特集](https://zh.wikipedia.org/wiki/AKB48第五屆選拔總選舉 "wikilink")（長版）」。除此之外，AKB48也在NHK所屬的[廣播電台擁有掛名的節目](../Page/NHK-FM頻率.md "wikilink")《[AKB48的「我們的故事」](../Page/AKB48的「我們的故事」.md "wikilink")》（），由不同成員每週輪流參與[廣播劇](../Page/廣播劇.md "wikilink")的演出。但是，《AKB48 SHOW\!》仍然是第一個在NHK的電視頻道上全由AKB48集團成員擔任固定演出的冠名節目。
 
 在每集節目實際播放前，製作單位會自節目內容中挑選三段約半分鐘長的片段，於官方網站的預覽段落「預告與影片及訪談」（）中公開。
 
@@ -44,18 +30,15 @@ SHOW\!》仍然是第一個在NHK的電視頻道上全由AKB48集團成員擔任
 
   - 開場短劇
 
-作為《AKB48
-SHOW\!》開場的，是一個片長在三分鐘之內的小短片，用以帶出正在後方待機的第一首歌曲之演唱成員。隨著節目集數的增加，陸續有多種不同的開場短劇型態，其中在節目開播初期所採用的是一個稱為「在後台」（）的短劇。在「在後台」中每週都是由AKB48與姊妹團體中二至三名高知名度的成員參與演出，拍攝的場景是在一個特別為了節目而搭成的後台休息室佈景中，由兩名成員的對話帶開當週的節目。開場短劇內的對話通常都與NHK、當週的節目內容或演出成員本身的個性角色有關，當工作人員喊出「節目開始了」的通知時，休息室佈景會突然一分為二向旁撤去，露出在後方的舞台與已經在舞台上待命的第一首歌曲之演唱成員。另外，有時為了配合開幕曲錄音場地的改變等因素，會在假的休息室佈景之外的地方進行攝影，而根據拍攝場景修改單元名稱，例如「在AKB劇場」、「在導播室」等。
+作為《AKB48 SHOW\!》開場的，是一個片長在三分鐘之內的小短片，用以帶出正在後方待機的第一首歌曲之演唱成員。隨著節目集數的增加，陸續有多種不同的開場短劇型態，其中在節目開播初期所採用的是一個稱為「在後台」（）的短劇。在「在後台」中每週都是由AKB48與姊妹團體中二至三名高知名度的成員參與演出，拍攝的場景是在一個特別為了節目而搭成的後台休息室佈景中，由兩名成員的對話帶開當週的節目。開場短劇內的對話通常都與NHK、當週的節目內容或演出成員本身的個性角色有關，當工作人員喊出「節目開始了」的通知時，休息室佈景會突然一分為二向旁撤去，露出在後方的舞台與已經在舞台上待命的第一首歌曲之演唱成員。另外，有時為了配合開幕曲錄音場地的改變等因素，會在假的休息室佈景之外的地方進行攝影，而根據拍攝場景修改單元名稱，例如「在AKB劇場」、「在導播室」等。
 
-之後在2014年4月起，開始啟用稱為「開場挑戰」（Opening
-Challenge）的小遊戲，由參與演唱第一首歌曲的演出成員們以接力[繞口令的方式說出一句指定的開場對白](https://zh.wikipedia.org/wiki/繞口令 "wikilink")，如果中途有任何一位成員吃螺絲或唸得太慢被判定失敗，全部的成員都必須重來一次，直到全部的人挑戰成功才開始歌曲的演唱。
+之後在2014年4月起，開始啟用稱為「開場挑戰」（Opening Challenge）的小遊戲，由參與演唱第一首歌曲的演出成員們以接力[繞口令的方式說出一句指定的開場對白](https://zh.wikipedia.org/wiki/繞口令 "wikilink")，如果中途有任何一位成員吃螺絲或唸得太慢被判定失敗，全部的成員都必須重來一次，直到全部的人挑戰成功才開始歌曲的演唱。
 
 而在2014年5月17日之後播放的節目中，又導入一稱為「AKB48新聞」的小單元。每集都由兩名成員負責擔任播報員，以像是播報新聞般的正經口氣播報一些關於在後方待機成員的訊息，但實際上大都是些虛構或是挖苦風格的內容，藉此產生笑料。
 
   - 歌曲
 
-在每週播出的三首曲子中，在節目中段播放的第二首通常是AKB48集團各姊妹團體或衍生團體、單飛成員的近期新曲。除了歌曲的演出之外，有時在節目中還會搭配對應的歷史或背景知識介紹，例如在第一集中播放的第三首歌《[無法飛翔的鳳尾蝶](https://zh.wikipedia.org/wiki/無法飛翔的鳳尾蝶 "wikilink")》（）就是AKB48有紀錄以來第一首以「Under
-Girls」的小分隊為名義所演唱的B面曲，也是一系列透過歌迷投票方式決選出參與成員名單的單曲B面曲之首作。
+在每週播出的三首曲子中，在節目中段播放的第二首通常是AKB48集團各姊妹團體或衍生團體、單飛成員的近期新曲。除了歌曲的演出之外，有時在節目中還會搭配對應的歷史或背景知識介紹，例如在第一集中播放的第三首歌《[無法飛翔的鳳尾蝶](https://zh.wikipedia.org/wiki/無法飛翔的鳳尾蝶 "wikilink")》（）就是AKB48有紀錄以來第一首以「Under Girls」的小分隊為名義所演唱的B面曲，也是一系列透過歌迷投票方式決選出參與成員名單的單曲B面曲之首作。
 
   - 短劇
 
@@ -63,8 +46,7 @@ Girls」的小分隊為名義所演唱的B面曲，也是一系列透過歌迷�
 
   - AKB48白熱教室
 
-針對不熟悉AKB48的一般節目觀眾所設計的知識分享單元。單元的場景設定為一個位在外國的教室，由在日本演藝圈發展的英國演員（Ian
-Moore）擔任講師，一群並非日本人的外國人飾演不熟悉AKB48的學生，在課堂上講解與AKB48有關的各種背景知識。此單元實際上是全程英文拍攝，在開播初期原本採用英文原音作為背景播音、另外壓制日文配音的方式播出，但自第五集起改以英文原音播放，並搭配日文字幕的方式播出。
+針對不熟悉AKB48的一般節目觀眾所設計的知識分享單元。單元的場景設定為一個位在外國的教室，由在日本演藝圈發展的英國演員（Ian Moore）擔任講師，一群並非日本人的外國人飾演不熟悉AKB48的學生，在課堂上講解與AKB48有關的各種背景知識。此單元實際上是全程英文拍攝，在開播初期原本採用英文原音作為背景播音、另外壓制日文配音的方式播出，但自第五集起改以英文原音播放，並搭配日文字幕的方式播出。
 
   - 紀錄片
 
@@ -72,18 +54,15 @@ Moore）擔任講師，一群並非日本人的外國人飾演不熟悉AKB48的�
 
   - 高橋總監督的說教房間
 
-高橋總監督的說教房間（）是一個由AKB48集團總監督高橋南主持的小單元，每次都是由一名不同的成員與身穿著體育服的高橋南在像是社團辦公室般的房間佈景中進行自由的對談，在2015年12月8日，高桥南将总监督的职位移交给了[横山由依](https://zh.wikipedia.org/wiki/横山由依 "wikilink")，而这一环节也改名为“高橋(前)總監督的說教房間”继续播出，并在高桥南毕业之后正式收播。而在第128期节目中，新任总监督横山由依也开始主持了内容相近的“横山總監督的說教房間”，但在第二次播出时就改名为了横山总监督的优雅相談室（）。在STU48成立后，STU48队长冈田奈奈也主持了类似的环节“队长冈田
-爱的船长室”。
+高橋總監督的說教房間（）是一個由AKB48集團總監督高橋南主持的小單元，每次都是由一名不同的成員與身穿著體育服的高橋南在像是社團辦公室般的房間佈景中進行自由的對談，在2015年12月8日，高桥南将总监督的职位移交给了[横山由依](https://zh.wikipedia.org/wiki/横山由依 "wikilink")，而这一环节也改名为“高橋(前)總監督的說教房間”继续播出，并在高桥南毕业之后正式收播。而在第128期节目中，新任总监督横山由依也开始主持了内容相近的“横山總監督的說教房間”，但在第二次播出时就改名为了横山总监督的优雅相談室（）。在STU48成立后，STU48队长冈田奈奈也主持了类似的环节“队长冈田 爱的船长室”。
 
   - AKB48灾区访问
 
-以[2011年日本东北地方太平洋近海地震](https://zh.wikipedia.org/wiki/2011年日本东北地方太平洋近海地震 "wikilink")（[东日本大震灾](https://zh.wikipedia.org/wiki/东日本大震灾 "wikilink")）为契机开始的[「為了誰」計劃](../Page/「為了誰」計劃.md "wikilink")、AKB48家族成员对灾区进行访问的记录环节。从2014年3月开始不定期播出。2014年1月之前的访问则在同电视台的《[MUSIC
-JAPAN](../Page/MUSIC_JAPAN.md "wikilink")》不定期播出。
+以[2011年日本东北地方太平洋近海地震](https://zh.wikipedia.org/wiki/2011年日本东北地方太平洋近海地震 "wikilink")（[东日本大震灾](https://zh.wikipedia.org/wiki/东日本大震灾 "wikilink")）为契机开始的[「為了誰」計劃](../Page/「為了誰」計劃.md "wikilink")、AKB48家族成员对灾区进行访问的记录环节。从2014年3月开始不定期播出。2014年1月之前的访问则在同电视台的《[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")》不定期播出。
 
   - 西野未姫 全力舞蹈教室
 
-西野未姫尽全力进行48家族歌曲的舞蹈教学的环节。在西野毕业之后，Team 8的横道侑里开始了类似的环节“Team8横道侑里
-火力全開舞蹈教室”，有时也会有其他成员出演特别编。
+西野未姫尽全力进行48家族歌曲的舞蹈教学的环节。在西野毕业之后，Team 8的横道侑里开始了类似的环节“Team8横道侑里 火力全開舞蹈教室”，有时也会有其他成员出演特别编。
 
   - AKB48 Team 8的日本全国故乡讲座
 
@@ -1074,8 +1053,7 @@ NMB48成员[白間美瑠](../Page/白間美瑠.md "wikilink")与成员聊天并�
 
   - （Ian Moore）：飾演「AKB48白熱教室」單元中的講師一角、也曾参与短剧演出（第94集）。
 
-  - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")、[櫸坂46](../Page/櫸坂46.md "wikilink")、[平假名櫸坂46→日向坂46](../Page/日向坂46.md "wikilink")：主要出演《乃木坂46
-    SHOW\!》、《46 SHOW\!》、《櫸坂46 SHOW\!》
+  - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")、[櫸坂46](../Page/櫸坂46.md "wikilink")、[平假名櫸坂46→日向坂46](../Page/日向坂46.md "wikilink")：主要出演《乃木坂46 SHOW\!》、《46 SHOW\!》、《櫸坂46 SHOW\!》
 
 <!-- end list -->
 
@@ -1179,11 +1157,9 @@ NMB48成员[白間美瑠](../Page/白間美瑠.md "wikilink")与成员聊天并�
 
   - ：在第147集田名部生来主办单独活动中作为嘉宾登场。
 
-  - [=LOVE](../Page/=LOVE.md "wikilink")：出演《指原
-    SHOW\!》（第163集）及部分潜入报导（第202集）等
+  - [=LOVE](../Page/=LOVE.md "wikilink")：出演《指原 SHOW\!》（第163集）及部分潜入报导（第202集）等
 
-  - [熊本熊](../Page/熊本熊.md "wikilink")：出演第197集“AKB48 Team 8的日本全国故乡讲座
-    -[熊本县](https://zh.wikipedia.org/wiki/熊本县 "wikilink")-”
+  - [熊本熊](../Page/熊本熊.md "wikilink")：出演第197集“AKB48 Team 8的日本全国故乡讲座 -[熊本县](https://zh.wikipedia.org/wiki/熊本县 "wikilink")-”
 
   - 首次參與演出時已畢業離團的前成員：[浦野一美](../Page/浦野一美.md "wikilink")（走廊奔跑队7成员，同時也是AKB48与[SDN48](../Page/SDN48.md "wikilink")前成員）、[平嶋夏海](../Page/平嶋夏海.md "wikilink")（走廊奔跑队7成员，AKB48前成員）、[板野友美](../Page/板野友美.md "wikilink")（AKB48前成員）、[前田敦子](../Page/前田敦子.md "wikilink")（AKB48前成員）、[秋元才加](../Page/秋元才加.md "wikilink")（DIVA成员，AKB48前成員）、[増田有華](https://zh.wikipedia.org/wiki/増田有華 "wikilink")（DIVA成员，AKB48前成員）
 
@@ -1220,12 +1196,7 @@ NMB48成员[白間美瑠](../Page/白間美瑠.md "wikilink")与成员聊天并�
 
   - [節目官方首頁](http://www.nhk.or.jp/akb48show/index.html)（NHK）
 
-[Category:NHK綜藝節目](https://zh.wikipedia.org/wiki/Category:NHK綜藝節目 "wikilink")
-[Category:NHK電視音樂節目](https://zh.wikipedia.org/wiki/Category:NHK電視音樂節目 "wikilink")
-[Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
-[Category:乃木坂46電視節目](https://zh.wikipedia.org/wiki/Category:乃木坂46電視節目 "wikilink")
-[Category:櫸坂46](https://zh.wikipedia.org/wiki/Category:櫸坂46 "wikilink")
-[Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink")
+[Category:NHK綜藝節目](https://zh.wikipedia.org/wiki/Category:NHK綜藝節目 "wikilink") [Category:NHK電視音樂節目](https://zh.wikipedia.org/wiki/Category:NHK電視音樂節目 "wikilink") [Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink") [Category:乃木坂46電視節目](https://zh.wikipedia.org/wiki/Category:乃木坂46電視節目 "wikilink") [Category:櫸坂46](https://zh.wikipedia.org/wiki/Category:櫸坂46 "wikilink") [Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink")
 
 1.
 2.

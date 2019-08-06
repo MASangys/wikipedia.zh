@@ -10,8 +10,7 @@ ET2型电力动车组作为ER2T型电力动车组的仿制产品，两者总体�
 
 ### ET2L
 
-1999年2月，托尔若克车辆制造厂在ET2型电力动车组的基础上，试制了一列ET2L型电力动车组（ЭТ2Л），列车编号为ET2L-027。ET2L型电力动车组着重提高旅客的乘坐舒适性，列车采用6辆编组，由2节普通车厢和4节一等车厢组成。普通车厢和ET2型电力动车组一样采用“3+3”的座位布置形式，而一等车厢则采用“2+3”的座位布置形式，车厢内设有厕所、行李间、衣帽间、自行车存放处等设施，其中一节一等车厢并设有小卖部。ET2L-027号列车于1999年4月配属十月铁路局，担当[圣彼得堡至](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")[大诺夫哥罗德](../Page/大诺夫哥罗德.md "wikilink")的通勤列车，至2011年改为在圣彼得堡至[柳班之间运行](https://zh.wikipedia.org/wiki/柳班 "wikilink")。
-[缩略图](https://zh.wikipedia.org/wiki/File:Salon_general_view_of_ET2-051.JPG "fig:缩略图")
+1999年2月，托尔若克车辆制造厂在ET2型电力动车组的基础上，试制了一列ET2L型电力动车组（ЭТ2Л），列车编号为ET2L-027。ET2L型电力动车组着重提高旅客的乘坐舒适性，列车采用6辆编组，由2节普通车厢和4节一等车厢组成。普通车厢和ET2型电力动车组一样采用“3+3”的座位布置形式，而一等车厢则采用“2+3”的座位布置形式，车厢内设有厕所、行李间、衣帽间、自行车存放处等设施，其中一节一等车厢并设有小卖部。ET2L-027号列车于1999年4月配属十月铁路局，担当[圣彼得堡至](https://zh.wikipedia.org/wiki/圣彼得堡 "wikilink")[大诺夫哥罗德](../Page/大诺夫哥罗德.md "wikilink")的通勤列车，至2011年改为在圣彼得堡至[柳班之间运行](https://zh.wikipedia.org/wiki/柳班 "wikilink")。 [缩略图](https://zh.wikipedia.org/wiki/File:Salon_general_view_of_ET2-051.JPG "fig:缩略图")
 
 ### ET2M
 
@@ -19,8 +18,7 @@ ET2型电力动车组作为ER2T型电力动车组的仿制产品，两者总体�
 
 ### ET2ML
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Electric_multiple_unit_ET2ML-078.jpg "fig:缩略图")
-ET2ML型电力动车组（ЭТ2МЛ）是同时结合了ET2L、ET2M型电力动车组两者特点的车型，列车的牵引系统由诺沃切尔卡斯克电力机车厂制造，列车编组内设有较舒适的一等车厢，并设有小卖部、行李间、衣帽间等设施。2004年至2005年间，托尔若克车辆制造厂共生产了6列ET2ML型电力动车组。
+[缩略图](https://zh.wikipedia.org/wiki/File:Electric_multiple_unit_ET2ML-078.jpg "fig:缩略图") ET2ML型电力动车组（ЭТ2МЛ）是同时结合了ET2L、ET2M型电力动车组两者特点的车型，列车的牵引系统由诺沃切尔卡斯克电力机车厂制造，列车编组内设有较舒适的一等车厢，并设有小卖部、行李间、衣帽间等设施。2004年至2005年间，托尔若克车辆制造厂共生产了6列ET2ML型电力动车组。
 
   - ET2ML-063：[南乌拉尔铁路局](../Page/南乌拉尔铁路局.md "wikilink")，6辆编组。
   - ET2ML-065：南乌拉尔铁路局，8辆编组。
@@ -43,13 +41,10 @@ ET2ML型电力动车组（ЭТ2МЛ）是同时结合了ET2L、ET2M型电力动�
 
 ## 外部链接
 
-  - [ОАО "Торжокский вагоностроительный завод":
-    ЭТ2М](http://torvz.ru/?page_id=44)
+  - [ОАО "Торжокский вагоностроительный завод": ЭТ2М](http://torvz.ru/?page_id=44)
 
-  - [Электропоезд постоянного тока
-    ЭТ2](http://www.emupages.narod.ru/trains-et2.htm)
+  - [Электропоезд постоянного тока ЭТ2](http://www.emupages.narod.ru/trains-et2.htm)
 
-[Category:俄罗斯电力动车组](https://zh.wikipedia.org/wiki/Category:俄罗斯电力动车组 "wikilink")
-[Category:3000伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:3000伏直流电力动车组 "wikilink")
+[Category:俄罗斯电力动车组](https://zh.wikipedia.org/wiki/Category:俄罗斯电力动车组 "wikilink") [Category:3000伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:3000伏直流电力动车组 "wikilink")
 
 1.

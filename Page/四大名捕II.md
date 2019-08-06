@@ -172,22 +172,7 @@
   -
   -
   -
-[Category:陈嘉上电影](https://zh.wikipedia.org/wiki/Category:陈嘉上电影 "wikilink")
-[Category:宋朝背景電影](https://zh.wikipedia.org/wiki/Category:宋朝背景電影 "wikilink")
-[Category:溫瑞安小說電影](https://zh.wikipedia.org/wiki/Category:溫瑞安小說電影 "wikilink")
-[Category:中国3D电影](https://zh.wikipedia.org/wiki/Category:中国3D电影 "wikilink")
-[Category:2013年3D电影](https://zh.wikipedia.org/wiki/Category:2013年3D电影 "wikilink")
-[Category:中国动作片](https://zh.wikipedia.org/wiki/Category:中国动作片 "wikilink")
-[Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink")
-[Category:中国奇幻电影](https://zh.wikipedia.org/wiki/Category:中国奇幻电影 "wikilink")
-[Category:2010年代奇幻片](https://zh.wikipedia.org/wiki/Category:2010年代奇幻片 "wikilink")
-[Category:2010年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2010年代香港電影作品 "wikilink")
-[Category:中港合拍電影](https://zh.wikipedia.org/wiki/Category:中港合拍電影 "wikilink")
-[Category:光线电影](https://zh.wikipedia.org/wiki/Category:光线电影 "wikilink")
-[Category:續集电影](https://zh.wikipedia.org/wiki/Category:續集电影 "wikilink")
-[Category:陈淑贤编剧作品](https://zh.wikipedia.org/wiki/Category:陈淑贤编剧作品 "wikilink")
-[Category:金培达配乐电影](https://zh.wikipedia.org/wiki/Category:金培达配乐电影 "wikilink")
-[Category:横店影视城取景电影](https://zh.wikipedia.org/wiki/Category:横店影视城取景电影 "wikilink")
+[Category:陈嘉上电影](https://zh.wikipedia.org/wiki/Category:陈嘉上电影 "wikilink") [Category:宋朝背景電影](https://zh.wikipedia.org/wiki/Category:宋朝背景電影 "wikilink") [Category:溫瑞安小說電影](https://zh.wikipedia.org/wiki/Category:溫瑞安小說電影 "wikilink") [Category:中国3D电影](https://zh.wikipedia.org/wiki/Category:中国3D电影 "wikilink") [Category:2013年3D电影](https://zh.wikipedia.org/wiki/Category:2013年3D电影 "wikilink") [Category:中国动作片](https://zh.wikipedia.org/wiki/Category:中国动作片 "wikilink") [Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink") [Category:中国奇幻电影](https://zh.wikipedia.org/wiki/Category:中国奇幻电影 "wikilink") [Category:2010年代奇幻片](https://zh.wikipedia.org/wiki/Category:2010年代奇幻片 "wikilink") [Category:2010年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2010年代香港電影作品 "wikilink") [Category:中港合拍電影](https://zh.wikipedia.org/wiki/Category:中港合拍電影 "wikilink") [Category:光线电影](https://zh.wikipedia.org/wiki/Category:光线电影 "wikilink") [Category:續集电影](https://zh.wikipedia.org/wiki/Category:續集电影 "wikilink") [Category:陈淑贤编剧作品](https://zh.wikipedia.org/wiki/Category:陈淑贤编剧作品 "wikilink") [Category:金培达配乐电影](https://zh.wikipedia.org/wiki/Category:金培达配乐电影 "wikilink") [Category:横店影视城取景电影](https://zh.wikipedia.org/wiki/Category:横店影视城取景电影 "wikilink")
 
 1.
 

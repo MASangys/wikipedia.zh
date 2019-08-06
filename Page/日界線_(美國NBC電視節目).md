@@ -2,8 +2,7 @@
 
 ## 外部連結
 
-  - [*Dateline NBC* official web
-    site](http://www.msnbc.msn.com/id/3032600/)
+  - [*Dateline NBC* official web site](http://www.msnbc.msn.com/id/3032600/)
 
   -
   -
@@ -11,10 +10,4 @@
 <!-- end list -->
 
   -
-[Category:环球电视公司制作的电视节目](https://zh.wikipedia.org/wiki/Category:环球电视公司制作的电视节目 "wikilink")
-[Category:1992年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:1992年開播的美國電視影集 "wikilink")
-[Category:2000年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2000年代美國電視劇 "wikilink")
-[Category:2010年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2010年代美國電視劇 "wikilink")
-[Category:美國電視新聞節目](https://zh.wikipedia.org/wiki/Category:美國電視新聞節目 "wikilink")
-[Category:皮博迪獎得主](https://zh.wikipedia.org/wiki/Category:皮博迪獎得主 "wikilink")
-[Category:NBC新闻](https://zh.wikipedia.org/wiki/Category:NBC新闻 "wikilink")
+[Category:环球电视公司制作的电视节目](https://zh.wikipedia.org/wiki/Category:环球电视公司制作的电视节目 "wikilink") [Category:1992年開播的美國電視影集](https://zh.wikipedia.org/wiki/Category:1992年開播的美國電視影集 "wikilink") [Category:2000年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2000年代美國電視劇 "wikilink") [Category:2010年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2010年代美國電視劇 "wikilink") [Category:美國電視新聞節目](https://zh.wikipedia.org/wiki/Category:美國電視新聞節目 "wikilink") [Category:皮博迪獎得主](https://zh.wikipedia.org/wiki/Category:皮博迪獎得主 "wikilink") [Category:NBC新闻](https://zh.wikipedia.org/wiki/Category:NBC新闻 "wikilink")

@@ -1397,12 +1397,8 @@ Eric Kwok之妻</p></td>
 <!-- end list -->
 
   - 此劇第24集之中福建炒飯同鄉會以及聯群結黨各自穿著黃色以及紅色衣服在街上以及茶樓[講數提親](https://zh.wikipedia.org/wiki/講數 "wikilink")，取材自[泰國政治鬥爭](https://zh.wikipedia.org/wiki/泰國 "wikilink")。其中福建炒飯同鄉會所穿黃衫映射泰國的[黃衫軍](https://zh.wikipedia.org/wiki/黃衫軍 "wikilink")，而聯群結黨的則影射[紅衫軍](https://zh.wikipedia.org/wiki/紅衫軍 "wikilink")。
-  - 此劇[張繼聰](../Page/張繼聰.md "wikilink")飾演的 Mario
-    遇到[謝安琪](../Page/謝安琪.md "wikilink")時指他很妒忌謝安琪的丈夫。但在現實生活，張繼聰正是謝安琪的丈夫，有自誇和自嘲的雙重效果。
-  - 此劇 [Eric Kwok](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")
-    和[葉佩雯](../Page/葉佩雯.md "wikilink")在現實生活中也是夫婦，但葉佩雯從來沒有當過音樂比賽評審。而
-    Eric
-    與[陳奐仁](../Page/陳奐仁.md "wikilink")是《[星夢傳奇](../Page/星夢傳奇.md "wikilink")》評審，也是令[鄭俊弘](../Page/鄭俊弘.md "wikilink")和[陳明恩](../Page/陳明恩.md "wikilink")的音樂才能被發掘的選秀節目。同時[王祖藍](../Page/王祖藍.md "wikilink")也在該節目成為「星夢幫」外援參賽者和嘉賓主持。
+  - 此劇[張繼聰](../Page/張繼聰.md "wikilink")飾演的 Mario 遇到[謝安琪](../Page/謝安琪.md "wikilink")時指他很妒忌謝安琪的丈夫。但在現實生活，張繼聰正是謝安琪的丈夫，有自誇和自嘲的雙重效果。
+  - 此劇 [Eric Kwok](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink") 和[葉佩雯](../Page/葉佩雯.md "wikilink")在現實生活中也是夫婦，但葉佩雯從來沒有當過音樂比賽評審。而 Eric 與[陳奐仁](../Page/陳奐仁.md "wikilink")是《[星夢傳奇](../Page/星夢傳奇.md "wikilink")》評審，也是令[鄭俊弘](../Page/鄭俊弘.md "wikilink")和[陳明恩](../Page/陳明恩.md "wikilink")的音樂才能被發掘的選秀節目。同時[王祖藍](../Page/王祖藍.md "wikilink")也在該節目成為「星夢幫」外援參賽者和嘉賓主持。
   - 此劇[李思捷](../Page/李思捷.md "wikilink")是辣㷫玩嘢王主持，在現實生活也是《[玩嘢王](../Page/玩嘢王_\(無綫電視\).md "wikilink")》主持，本劇演員[陳奐仁](../Page/陳奐仁.md "wikilink")和[郭晉安](../Page/郭晉安.md "wikilink")曾參加合謀玩弄，而[林盛斌](../Page/林盛斌.md "wikilink")、[小寶](../Page/小寶.md "wikilink")和[吳業坤](../Page/吳業坤.md "wikilink")也曾被玩弄。
   - 此劇是[張繼聰](../Page/張繼聰.md "wikilink")、[郭晉安](../Page/郭晉安.md "wikilink")、[小寶](../Page/小寶.md "wikilink")與[李亞男繼](https://zh.wikipedia.org/wiki/李亞男 "wikilink")《[忠奸人](https://zh.wikipedia.org/wiki/忠奸人_\(電視劇\) "wikilink")》後再度合作。
   - 此劇是[司徒瑞祈](../Page/司徒瑞祈.md "wikilink")服務10年之告別作。
@@ -1415,8 +1411,7 @@ Eric Kwok之妻</p></td>
 
   - 2014年3月31日：此劇於12:30在[將軍澳](../Page/將軍澳.md "wikilink")[電視廣播城](../Page/電視廣播城.md "wikilink")一廠灰位舉行開鏡拜神儀式。
   - 2014年10月13日：此劇於13:00在將軍澳[新都城中心二期商場L](https://zh.wikipedia.org/wiki/新都城中心 "wikilink")1天幕廣場舉行「老表駕臨賀台慶」宣傳活動\[4\]。
-  - 2014年10月19日：此劇於14:30在[尖沙咀](../Page/尖沙咀.md "wikilink")[The
-    ONE露天廣場舉行](../Page/The_ONE.md "wikilink")「我有好嘢推介」宣傳活動。
+  - 2014年10月19日：此劇於14:30在[尖沙咀](../Page/尖沙咀.md "wikilink")[The ONE露天廣場舉行](../Page/The_ONE.md "wikilink")「我有好嘢推介」宣傳活動。
   - 2014年10月30日：此劇於17:00在[油塘](../Page/油塘.md "wikilink")[大本型](../Page/大本型.md "wikilink")地下中庭舉行「老表同你玩嘢」宣傳活動。
   - 2014年11月16日：此劇於14:00在[鑽石山](../Page/鑽石山.md "wikilink")[荷里活廣場](../Page/荷里活廣場.md "wikilink")一樓明星廣場舉行「相逢未晚演嘢會」宣傳活動。
   - 2014年11月30日：大結局前後安排特備節目《老表，你好hea！爆唱金曲頒獎典禮》於21:00-21:15及23:15-23:30在翡翠台及高清翡翠台播映。
@@ -1576,24 +1571,17 @@ Eric Kwok之妻</p></td>
 
 ## 參考資料
 
-  - [夫妻檔　《老表》續集狂加女友戲　王祖藍李亞男
-    hea完姞婚](http://hk.face.nextmedia.com/article/353/17194530)
-  - [《食為奴》收視回溫
-    王祖藍編老表續集](http://dailynews.sina.com/bg/ent/tv/sinacn/20140217/18435468017.html)
+  - [夫妻檔　《老表》續集狂加女友戲　王祖藍李亞男 hea完姞婚](http://hk.face.nextmedia.com/article/353/17194530)
+  - [《食為奴》收視回溫 王祖藍編老表續集](http://dailynews.sina.com/bg/ent/tv/sinacn/20140217/18435468017.html)
 
 ## 外部連結
 
-  - [老表，你好hea！ - myTV
-    SUPER](http://programme.mytvsuper.com/tc/104707/老表-你好hea/casts)
+  - [老表，你好hea！ - myTV SUPER](http://programme.mytvsuper.com/tc/104707/老表-你好hea/casts)
 
   -
 ## 電視節目的變遷
 
-[Category:2014年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2014年無綫電視劇集 "wikilink")
-[Category:無綫電視台慶劇](https://zh.wikipedia.org/wiki/Category:無綫電視台慶劇 "wikilink")
-[Category:無綫電視喜劇劇集](https://zh.wikipedia.org/wiki/Category:無綫電視喜劇劇集 "wikilink")
-[Category:電視影集衍生作品](https://zh.wikipedia.org/wiki/Category:電視影集衍生作品 "wikilink")
-[Category:九龍背景電視劇](https://zh.wikipedia.org/wiki/Category:九龍背景電視劇 "wikilink")
+[Category:2014年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2014年無綫電視劇集 "wikilink") [Category:無綫電視台慶劇](https://zh.wikipedia.org/wiki/Category:無綫電視台慶劇 "wikilink") [Category:無綫電視喜劇劇集](https://zh.wikipedia.org/wiki/Category:無綫電視喜劇劇集 "wikilink") [Category:電視影集衍生作品](https://zh.wikipedia.org/wiki/Category:電視影集衍生作品 "wikilink") [Category:九龍背景電視劇](https://zh.wikipedia.org/wiki/Category:九龍背景電視劇 "wikilink")
 
 1.  <https://www.youtube.com/watch?v=MEE_cqmTcxE>
 2.  <https://www.youtube.com/watch?v=etUKz2-nEyE>

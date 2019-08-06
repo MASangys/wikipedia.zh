@@ -1,13 +1,6 @@
-[Tsun_Yip_Street_Playground_201603.jpg](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground_201603.jpg "fig:Tsun_Yip_Street_Playground_201603.jpg")
-[Tsun_Yip_Street_Playground.JPG](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground.JPG "fig:Tsun_Yip_Street_Playground.JPG")
-[Tsun_Yip_Street_Playground_Exhibit_201603.jpg](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground_Exhibit_201603.jpg "fig:Tsun_Yip_Street_Playground_Exhibit_201603.jpg")
-[Tsun_Yip_Street_Playground_Socceer_Pitch_201603.jpg](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground_Socceer_Pitch_201603.jpg "fig:Tsun_Yip_Street_Playground_Socceer_Pitch_201603.jpg")
-[Tsun_Yip_Street_Playground_Skating_Area_201603.jpg](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground_Skating_Area_201603.jpg "fig:Tsun_Yip_Street_Playground_Skating_Area_201603.jpg")
+[Tsun_Yip_Street_Playground_201603.jpg](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground_201603.jpg "fig:Tsun_Yip_Street_Playground_201603.jpg") [Tsun_Yip_Street_Playground.JPG](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground.JPG "fig:Tsun_Yip_Street_Playground.JPG") [Tsun_Yip_Street_Playground_Exhibit_201603.jpg](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground_Exhibit_201603.jpg "fig:Tsun_Yip_Street_Playground_Exhibit_201603.jpg") [Tsun_Yip_Street_Playground_Socceer_Pitch_201603.jpg](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground_Socceer_Pitch_201603.jpg "fig:Tsun_Yip_Street_Playground_Socceer_Pitch_201603.jpg") [Tsun_Yip_Street_Playground_Skating_Area_201603.jpg](https://zh.wikipedia.org/wiki/File:Tsun_Yip_Street_Playground_Skating_Area_201603.jpg "fig:Tsun_Yip_Street_Playground_Skating_Area_201603.jpg")
 
-**InPARK**，舊稱**駿業街遊樂場**
-（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Tsun Yip
-Street
-Playground**），是[香港](../Page/香港.md "wikilink")一座以[工業](https://zh.wikipedia.org/wiki/工業 "wikilink")[傳統為題材的](https://zh.wikipedia.org/wiki/傳統 "wikilink")[主題公園](../Page/主題公園.md "wikilink")，位於[九龍](../Page/九龍.md "wikilink")[觀塘](../Page/觀塘.md "wikilink")[駿業街](../Page/駿業街.md "wikilink")，佔地約8,300[平方米](../Page/平方米.md "wikilink")，由[康樂及文化事務署](../Page/康樂及文化事務署.md "wikilink")管理。隨著《[起動九龍東](https://zh.wikipedia.org/wiki/起動九龍東 "wikilink")》計劃發展，[觀塘工業區](https://zh.wikipedia.org/wiki/觀塘工業區 "wikilink")[轉型為](https://zh.wikipedia.org/wiki/轉型 "wikilink")[觀塘商貿區](../Page/觀塘商貿區.md "wikilink")，駿業街遊樂場接受翻新工程及改造'\[1\]，首階段於2013年年初動工，於2014年9月落成，次階段於2017年動工，於2019年竣工。翻新第二期完工後，駿業街遊樂場改稱InPARK，並於[2019年](../Page/2019年.md "wikilink")[3月26日](../Page/3月26日.md "wikilink")全面啟用供市民享用。
+**InPARK**，舊稱**駿業街遊樂場** （[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Tsun Yip Street Playground**），是[香港](../Page/香港.md "wikilink")一座以[工業](https://zh.wikipedia.org/wiki/工業 "wikilink")[傳統為題材的](https://zh.wikipedia.org/wiki/傳統 "wikilink")[主題公園](../Page/主題公園.md "wikilink")，位於[九龍](../Page/九龍.md "wikilink")[觀塘](../Page/觀塘.md "wikilink")[駿業街](../Page/駿業街.md "wikilink")，佔地約8,300[平方米](../Page/平方米.md "wikilink")，由[康樂及文化事務署](../Page/康樂及文化事務署.md "wikilink")管理。隨著《[起動九龍東](https://zh.wikipedia.org/wiki/起動九龍東 "wikilink")》計劃發展，[觀塘工業區](https://zh.wikipedia.org/wiki/觀塘工業區 "wikilink")[轉型為](https://zh.wikipedia.org/wiki/轉型 "wikilink")[觀塘商貿區](../Page/觀塘商貿區.md "wikilink")，駿業街遊樂場接受翻新工程及改造'\[1\]，首階段於2013年年初動工，於2014年9月落成，次階段於2017年動工，於2019年竣工。翻新第二期完工後，駿業街遊樂場改稱InPARK，並於[2019年](../Page/2019年.md "wikilink")[3月26日](../Page/3月26日.md "wikilink")全面啟用供市民享用。
 
 ## 設施
 
@@ -41,8 +34,7 @@ InPARK的開放時間為每日07:00-23:00。
 
 ## 外部連結
 
-  - [康樂及文化事務署
-    康樂場地](https://web.archive.org/web/20120812053853/http://www.lcsd.gov.hk/b5/ls_fac_recground_kt.php)
+  - [康樂及文化事務署 康樂場地](https://web.archive.org/web/20120812053853/http://www.lcsd.gov.hk/b5/ls_fac_recground_kt.php)
   - [駿業街遊樂場第一期](http://www.ekeo.gov.hk/tc/quick_wins/tyspp1/index.html)
   - [InPARK](https://www.ekeo.gov.hk/tc/quick_wins/InPARK/index.html)
 
@@ -50,20 +42,12 @@ InPARK的開放時間為每日07:00-23:00。
 
 [Category:觀塘區公園](https://zh.wikipedia.org/wiki/Category:觀塘區公園 "wikilink")
 
-1.  [1](http://www.devb.gov.hk/tc/sdev/press/index_id_7431.html)
-    「星期四玩轉駿業街之綠生活｜藝術」揭幕，香港發展局，2012年10月25日
+1.  [1](http://www.devb.gov.hk/tc/sdev/press/index_id_7431.html) 「星期四玩轉駿業街之綠生活｜藝術」揭幕，香港發展局，2012年10月25日
 2.
-3.  [駿業街遊樂場大變身](http://orientaldaily.on.cc/cnt/news/20120830/00176_065.html)
-    《東方日報》 2012年8月30日
-4.  [觀塘設工業公園
-    貨櫃涼亭獻新猷](http://the-sun.on.cc/cnt/news/20120830/00407_065.html)
-    《太陽報》 2012年8月30日
-5.  [駿業街遊樂場變身藝術農墟](http://hk.news.yahoo.com/駿業街遊樂場變身藝術農墟-223000361.html)
-    《星島日報》 2012年10月26日
+3.  [駿業街遊樂場大變身](http://orientaldaily.on.cc/cnt/news/20120830/00176_065.html) 《東方日報》 2012年8月30日
+4.  [觀塘設工業公園 貨櫃涼亭獻新猷](http://the-sun.on.cc/cnt/news/20120830/00407_065.html) 《太陽報》 2012年8月30日
+5.  [駿業街遊樂場變身藝術農墟](http://hk.news.yahoo.com/駿業街遊樂場變身藝術農墟-223000361.html) 《星島日報》 2012年10月26日
 6.
-7.  [觀塘遊樂場改建文化公園](http://orientaldaily.on.cc/cnt/news/20150214/00176_032.html)
-    《東方日報》 2015年2月14日
-8.  [駿業街遊樂場擬改建工業文化公園](http://the-sun.on.cc/cnt/news/20150214/00407_077.html)
-    《太陽報》 2015年2月14日
-9.  [駿業街遊樂場將變工業文化公園](http://paper.wenweipo.com/2015/02/14/HK1502140007.htm)
-    《文匯報》 2015年2月14日
+7.  [觀塘遊樂場改建文化公園](http://orientaldaily.on.cc/cnt/news/20150214/00176_032.html) 《東方日報》 2015年2月14日
+8.  [駿業街遊樂場擬改建工業文化公園](http://the-sun.on.cc/cnt/news/20150214/00407_077.html) 《太陽報》 2015年2月14日
+9.  [駿業街遊樂場將變工業文化公園](http://paper.wenweipo.com/2015/02/14/HK1502140007.htm) 《文匯報》 2015年2月14日

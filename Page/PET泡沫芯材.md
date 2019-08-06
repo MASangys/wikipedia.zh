@@ -1,6 +1,4 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:Wiki-Folkos-P1090317-1.jpg "fig:缩略图")
-**PET泡沫芯材**，主要成分为[聚对苯二甲酸乙二醇酯](https://zh.wikipedia.org/wiki/聚对苯二甲酸乙二醇酯 "wikilink")（Polyethylene
-terephthalate），俗称涤纶树脂。PET泡沫是一类闭孔热塑料结构泡沫，具有一定的剪切、压缩强度，因此常被用于夹层结构材料芯材，被广泛应用于建筑、公路运输、轨道交通、航空、传播、[风电等领域](https://zh.wikipedia.org/wiki/風力發電 "wikilink")\[1\]。
+[缩略图](https://zh.wikipedia.org/wiki/File:Wiki-Folkos-P1090317-1.jpg "fig:缩略图") **PET泡沫芯材**，主要成分为[聚对苯二甲酸乙二醇酯](https://zh.wikipedia.org/wiki/聚对苯二甲酸乙二醇酯 "wikilink")（Polyethylene terephthalate），俗称涤纶树脂。PET泡沫是一类闭孔热塑料结构泡沫，具有一定的剪切、压缩强度，因此常被用于夹层结构材料芯材，被广泛应用于建筑、公路运输、轨道交通、航空、传播、[风电等领域](https://zh.wikipedia.org/wiki/風力發電 "wikilink")\[1\]。
 
 ## 特点
 
@@ -14,8 +12,7 @@ PET泡沫是一种闭孔热塑料结构泡沫，适用于所有树脂体系与�
 
 ## 性能
 
-作为[复合材料](../Page/复合材料.md "wikilink")夹层结构芯材，PET泡沫芯材的力学性能和泡沫密度相关。密度越高，力学性能越好，但同时重量越大，所需的材料越多，成本越高。PET泡沫芯材的抗疲劳性能也较好，优于部分PVC泡沫芯材。
-以3A公司的AIREX®T92泡沫为例，其力学性能如下表\[2\]：
+作为[复合材料](../Page/复合材料.md "wikilink")夹层结构芯材，PET泡沫芯材的力学性能和泡沫密度相关。密度越高，力学性能越好，但同时重量越大，所需的材料越多，成本越高。PET泡沫芯材的抗疲劳性能也较好，优于部分PVC泡沫芯材。 以3A公司的AIREX®T92泡沫为例，其力学性能如下表\[2\]：
 
 | 性能    | 单位    | T92.100 | T92.110 | T92.130 |
 | ----- | ----- | ------- | ------- | ------- |

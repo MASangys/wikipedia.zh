@@ -11,8 +11,7 @@
   - 輪軸型式：
       - 前軸：[ZF](../Page/采埃孚.md "wikilink") RL85A
       - 後軸：[ZF](../Page/采埃孚.md "wikilink") AV132
-  - 變速箱：[ZF](../Page/采埃孚.md "wikilink") Ecomat 4
-    6HP-504[六速自排](https://zh.wikipedia.org/wiki/自排變速箱 "wikilink")
+  - 變速箱：[ZF](../Page/采埃孚.md "wikilink") Ecomat 4 6HP-504[六速自排](https://zh.wikipedia.org/wiki/自排變速箱 "wikilink")
   - 車長：12,000mm
   - 軸距：5,850mm
 

@@ -1,44 +1,23 @@
-**Greatest
-Hits**是北美索尼[PlayStation](https://zh.wikipedia.org/wiki/PlayStation_\(品牌\) "wikilink")、[PlayStation
-2](../Page/PlayStation_2.md "wikilink")、[PlayStation
-3和](../Page/PlayStation_3.md "wikilink")[PlayStation
-Portable游戏机上](../Page/PlayStation_Portable.md "wikilink")，官方以低价再版的电子游戏。“Greatest
-Hits”一词仅用于北美地区（但亚洲存在Greatest Hits标签的PlayStation 4游戏），在日本和亚洲（称为“[The
-Best](../Page/The_Best.md "wikilink")”）、PAL区（称为“”）、巴西（称为“Favoritos”）和韩国（称为“”）也有相同的项目\[1\]。
+**Greatest Hits**是北美索尼[PlayStation](https://zh.wikipedia.org/wiki/PlayStation_\(品牌\) "wikilink")、[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[PlayStation 3和](../Page/PlayStation_3.md "wikilink")[PlayStation Portable游戏机上](../Page/PlayStation_Portable.md "wikilink")，官方以低价再版的电子游戏。“Greatest Hits”一词仅用于北美地区（但亚洲存在Greatest Hits标签的PlayStation 4游戏），在日本和亚洲（称为“[The Best](../Page/The_Best.md "wikilink")”）、PAL区（称为“”）、巴西（称为“Favoritos”）和韩国（称为“”）也有相同的项目\[1\]。
 
-Greatest
-Hits作品俗称“红标签”（PlayStation作品称为“绿标签”），以此区别常规发行的包装（类似的被称为“黑标签”）。游戏发行超过一定时间，且达到一定销量就可以成为Greatest
-Hits作品。
+Greatest Hits作品俗称“红标签”（PlayStation作品称为“绿标签”），以此区别常规发行的包装（类似的被称为“黑标签”）。游戏发行超过一定时间，且达到一定销量就可以成为Greatest Hits作品。
 
 ## 历史
 
-索尼在1997年为[PlayStation引入此机制时](https://zh.wikipedia.org/wiki/PlayStation_\(品牌\) "wikilink")，游戏达到15万销量且至少上市一年就可成为Greatest
-Hits作品\[2\]。最低销量最终涨到25万\[3\]。当机制2002年用于[PlayStation
-2时](../Page/PlayStation_2.md "wikilink")，最低销量上涨到40萬，且上市至少9个月\[4\]。Greatest
-Hits作品的[建议零售价最初为](https://zh.wikipedia.org/wiki/建议零售价 "wikilink")24.99美金，但现在通常售价是19.99美金。虽然索尼发行的游戏事实上在达到销量和发售时间后，最终会成为Greatest
-Hits作品，但其他公司发行的即使达到标准也不需要以Greatest Hits标签发行。此外索尼还允许其他发行商弹性为自己的Greatest
-Hits作品定价，但大多数公司会遵守商定的建议零售价。为最大化利润，数百万销量的游戏成为Greatest
-Hits作品的时间远超9个月。常见的做法是，游戏以Greatest
-Hits标签再版时，通常很贴近其续作发行的时间。
+索尼在1997年为[PlayStation引入此机制时](https://zh.wikipedia.org/wiki/PlayStation_\(品牌\) "wikilink")，游戏达到15万销量且至少上市一年就可成为Greatest Hits作品\[2\]。最低销量最终涨到25万\[3\]。当机制2002年用于[PlayStation 2时](../Page/PlayStation_2.md "wikilink")，最低销量上涨到40萬，且上市至少9个月\[4\]。Greatest Hits作品的[建议零售价最初为](https://zh.wikipedia.org/wiki/建议零售价 "wikilink")24.99美金，但现在通常售价是19.99美金。虽然索尼发行的游戏事实上在达到销量和发售时间后，最终会成为Greatest Hits作品，但其他公司发行的即使达到标准也不需要以Greatest Hits标签发行。此外索尼还允许其他发行商弹性为自己的Greatest Hits作品定价，但大多数公司会遵守商定的建议零售价。为最大化利润，数百万销量的游戏成为Greatest Hits作品的时间远超9个月。常见的做法是，游戏以Greatest Hits标签再版时，通常很贴近其续作发行的时间。
 
-2006年，索尼将Greatest Hits机制扩展到[PlayStation
-Portable](../Page/PlayStation_Portable.md "wikilink")\[5\]。游戏销量突破25万且发售超过9个月方能获得资格。PlayStation
-Portable游戏的Greatest Hits售价通常19.99美元起。
+2006年，索尼将Greatest Hits机制扩展到[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")\[5\]。游戏销量突破25万且发售超过9个月方能获得资格。PlayStation Portable游戏的Greatest Hits售价通常19.99美元起。
 
-2008年6月28日，[PlayStation
-3开始引入此机制](../Page/PlayStation_3.md "wikilink")。Greatest
-Hits标准为上市10个月且销量至少50万。PlayStation 3 Greatest Hits作品现售价29.99美元。
+2008年6月28日，[PlayStation 3开始引入此机制](../Page/PlayStation_3.md "wikilink")。Greatest Hits标准为上市10个月且销量至少50万。PlayStation 3 Greatest Hits作品现售价29.99美元。
 
 ## 官方Greatest Hits作品
 
 ### PlayStation
 
-以下是以Greatest
-Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation_\(品牌\) "wikilink")\[6\]：
+以下是以Greatest Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation_\(品牌\) "wikilink")\[6\]：
 
   -
-  - [007: The World is not
-    Enough](https://zh.wikipedia.org/wiki/007:_The_World_is_not_Enough "wikilink")
+  - [007: The World is not Enough](https://zh.wikipedia.org/wiki/007:_The_World_is_not_Enough "wikilink")
 
   - [1 Xtreme](../Page/ESPN極限運動競賽.md "wikilink")
 
@@ -64,17 +43,13 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   -
   -
-  - [Crash
-    Bandicoot](https://zh.wikipedia.org/wiki/Crash_Bandicoot_\(video_game\) "wikilink")
+  - [Crash Bandicoot](https://zh.wikipedia.org/wiki/Crash_Bandicoot_\(video_game\) "wikilink")
 
-  - [Crash Bandicoot 2: Cortex Strikes
-    Back](https://zh.wikipedia.org/wiki/Crash_Bandicoot_2:_Cortex_Strikes_Back "wikilink")
+  - [Crash Bandicoot 2: Cortex Strikes Back](https://zh.wikipedia.org/wiki/Crash_Bandicoot_2:_Cortex_Strikes_Back "wikilink")
 
-  - [Crash Bandicoot 3:
-    Warped](https://zh.wikipedia.org/wiki/Crash_Bandicoot_3:_Warped "wikilink")
+  - [Crash Bandicoot 3: Warped](https://zh.wikipedia.org/wiki/Crash_Bandicoot_3:_Warped "wikilink")
 
-  - [Crash Team
-    Racing](https://zh.wikipedia.org/wiki/Crash_Team_Racing "wikilink")
+  - [Crash Team Racing](https://zh.wikipedia.org/wiki/Crash_Team_Racing "wikilink")
 
   -
   -
@@ -89,8 +64,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   -
   -
-  - [Digimon
-    World](https://zh.wikipedia.org/wiki/Digimon_World "wikilink")
+  - [Digimon World](https://zh.wikipedia.org/wiki/Digimon_World "wikilink")
 
   -
   -
@@ -127,8 +101,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   - [Gran Turismo](https://zh.wikipedia.org/wiki/GT賽車_\(遊戲\) "wikilink")
 
-  - [Gran Turismo
-    2](https://zh.wikipedia.org/wiki/Gran_Turismo_2 "wikilink")
+  - [Gran Turismo 2](https://zh.wikipedia.org/wiki/Gran_Turismo_2 "wikilink")
 
   - [Grand Theft Auto](../Page/俠盜獵車手_\(遊戲\).md "wikilink")
 
@@ -160,8 +133,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   - [哈利·波特与阿兹卡班囚徒](../Page/哈利·波特与阿兹卡班的囚徒_\(游戏\).md "wikilink")
 
-  - [Mortal Kombat
-    4](https://zh.wikipedia.org/wiki/Mortal_Kombat_4 "wikilink")'
+  - [Mortal Kombat 4](https://zh.wikipedia.org/wiki/Mortal_Kombat_4 "wikilink")'
 
   - '
 
@@ -172,11 +144,9 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   -
   -
-  - [The Need for
-    Speed](https://zh.wikipedia.org/wiki/The_Need_for_Speed_\(video_game\) "wikilink")
+  - [The Need for Speed](https://zh.wikipedia.org/wiki/The_Need_for_Speed_\(video_game\) "wikilink")
 
-  - [Need for Speed
-    II](https://zh.wikipedia.org/wiki/Need_for_Speed_II "wikilink")
+  - [Need for Speed II](https://zh.wikipedia.org/wiki/Need_for_Speed_II "wikilink")
 
   - [极品飞车III：闪电追踪](../Page/极品飞车III：闪电追踪.md "wikilink")
 
@@ -194,8 +164,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   - [NHL 98](https://zh.wikipedia.org/wiki/NHL_98 "wikilink")
 
   -
-  - [Oddworld: Abe's
-    Oddysee](https://zh.wikipedia.org/wiki/Oddworld:_Abe's_Oddysee "wikilink")
+  - [Oddworld: Abe's Oddysee](https://zh.wikipedia.org/wiki/Oddworld:_Abe's_Oddysee "wikilink")
 
   -
   - [寄生前夜](../Page/寄生前夜_\(遊戲\).md "wikilink")
@@ -209,18 +178,15 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   - [Rayman 2](https://zh.wikipedia.org/wiki/Rayman_2 "wikilink")
 
   -
-  - [Reel
-    Fishing](https://zh.wikipedia.org/wiki/Reel_Fishing_\(video_game\) "wikilink")
+  - [Reel Fishing](https://zh.wikipedia.org/wiki/Reel_Fishing_\(video_game\) "wikilink")
 
-  - [生化危机](https://zh.wikipedia.org/wiki/生化危机_\(游戏\) "wikilink")（Dual
-    Shock振动版）
+  - [生化危机](https://zh.wikipedia.org/wiki/生化危机_\(游戏\) "wikilink")（Dual Shock振动版）
 
   - [生化危機2](../Page/生化危機2.md "wikilink")（Dual Shock振动版）
 
   - [生化危機3](https://zh.wikipedia.org/wiki/生化危機3 "wikilink")
 
-  - [Ridge
-    Racer](https://zh.wikipedia.org/wiki/Ridge_Racer_\(video_game\) "wikilink")
+  - [Ridge Racer](https://zh.wikipedia.org/wiki/Ridge_Racer_\(video_game\) "wikilink")
 
   -
   -
@@ -233,8 +199,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   - [模擬城市2000](../Page/模擬城市2000.md "wikilink")
 
   -
-  - [Soul
-    Blade](https://zh.wikipedia.org/wiki/Soul_Edge#PlayStation_version "wikilink")
+  - [Soul Blade](https://zh.wikipedia.org/wiki/Soul_Edge#PlayStation_version "wikilink")
 
   -
   -
@@ -244,21 +209,17 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   -
   -
-  - [Spyro the
-    Dragon](https://zh.wikipedia.org/wiki/Spyro_the_Dragon_\(video_game\) "wikilink")
+  - [Spyro the Dragon](https://zh.wikipedia.org/wiki/Spyro_the_Dragon_\(video_game\) "wikilink")
 
-  - [Spyro 2: Ripto's
-    Rage\!](https://zh.wikipedia.org/wiki/Spyro_2:_Ripto's_Rage! "wikilink")
+  - [Spyro 2: Ripto's Rage\!](https://zh.wikipedia.org/wiki/Spyro_2:_Ripto's_Rage! "wikilink")
 
-  - [Spyro: Year of the
-    Dragon](https://zh.wikipedia.org/wiki/Spyro:_Year_of_the_Dragon "wikilink")
+  - [Spyro: Year of the Dragon](https://zh.wikipedia.org/wiki/Spyro:_Year_of_the_Dragon "wikilink")
 
   -
   -
   -
   -
-  - [Street Fighter Alpha
-    3](https://zh.wikipedia.org/wiki/Street_Fighter_Alpha_3 "wikilink")
+  - [Street Fighter Alpha 3](https://zh.wikipedia.org/wiki/Street_Fighter_Alpha_3 "wikilink")
 
   -
   -
@@ -287,23 +248,17 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
 
   - [古墓丽影II](../Page/古墓丽影II.md "wikilink")
 
-  - [Tomb Raider
-    III](https://zh.wikipedia.org/wiki/Tomb_Raider_III "wikilink")
+  - [Tomb Raider III](https://zh.wikipedia.org/wiki/Tomb_Raider_III "wikilink")
 
-  - [Tomb Raider: The Last
-    Revelation](https://zh.wikipedia.org/wiki/Tomb_Raider:_The_Last_Revelation "wikilink")
+  - [Tomb Raider: The Last Revelation](https://zh.wikipedia.org/wiki/Tomb_Raider:_The_Last_Revelation "wikilink")
 
-  - [Tony Hawk's Pro
-    Skater](https://zh.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater "wikilink")
+  - [Tony Hawk's Pro Skater](https://zh.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater "wikilink")
 
-  - [Tony Hawk's Pro Skater
-    2](https://zh.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_2 "wikilink")
+  - [Tony Hawk's Pro Skater 2](https://zh.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_2 "wikilink")
 
-  - [Tony Hawk's Pro Skater
-    3](https://zh.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_3 "wikilink")
+  - [Tony Hawk's Pro Skater 3](https://zh.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_3 "wikilink")
 
-  - [Tony Hawk's Pro Skater
-    4](https://zh.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_4 "wikilink")
+  - [Tony Hawk's Pro Skater 4](https://zh.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_4 "wikilink")
 
   -
   -
@@ -332,14 +287,11 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
 ### PlayStation 2
 
-以下是以Greatest Hits标签发行的[PlayStation
-2作品](../Page/PlayStation_2.md "wikilink")\[7\]：
+以下是以Greatest Hits标签发行的[PlayStation 2作品](../Page/PlayStation_2.md "wikilink")\[7\]：
 
-  - [Ace Combat 04: Shattered
-    Skies](https://zh.wikipedia.org/wiki/Ace_Combat_04:_Shattered_Skies "wikilink")
+  - [Ace Combat 04: Shattered Skies](https://zh.wikipedia.org/wiki/Ace_Combat_04:_Shattered_Skies "wikilink")
 
-  - [Ace Combat 5: The Unsung
-    War](https://zh.wikipedia.org/wiki/Ace_Combat_5:_The_Unsung_War "wikilink")
+  - [Ace Combat 5: The Unsung War](https://zh.wikipedia.org/wiki/Ace_Combat_5:_The_Unsung_War "wikilink")
 
   -
   -
@@ -353,8 +305,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
 
   -
   -
-  - [Beyond Good &
-    Evil](https://zh.wikipedia.org/wiki/Beyond_Good_&_Evil "wikilink")
+  - [Beyond Good & Evil](https://zh.wikipedia.org/wiki/Beyond_Good_&_Evil "wikilink")
 
   -
   -
@@ -377,8 +328,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   -
   -
-  - [Crash Bandicoot: The Wrath of
-    Cortex](https://zh.wikipedia.org/wiki/Crash_Bandicoot:_The_Wrath_of_Cortex "wikilink")
+  - [Crash Bandicoot: The Wrath of Cortex](https://zh.wikipedia.org/wiki/Crash_Bandicoot:_The_Wrath_of_Cortex "wikilink")
 
   -
   -
@@ -392,8 +342,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   -
   -
-  - [Destroy All
-    Humans\!](https://zh.wikipedia.org/wiki/Destroy_All_Humans! "wikilink")
+  - [Destroy All Humans\!](https://zh.wikipedia.org/wiki/Destroy_All_Humans! "wikilink")
 
   -
   - [Devil May Cry](https://zh.wikipedia.org/wiki/惡魔獵人 "wikilink")
@@ -413,8 +362,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   -
   -
-  - [勇者斗恶龙VIII
-    天空、碧海、大地与被诅咒的公主](../Page/勇者斗恶龙VIII_天空、碧海、大地与被诅咒的公主.md "wikilink")
+  - [勇者斗恶龙VIII 天空、碧海、大地与被诅咒的公主](../Page/勇者斗恶龙VIII_天空、碧海、大地与被诅咒的公主.md "wikilink")
 
   - [真·三國無雙3](../Page/真·三國無雙3.md "wikilink")
 
@@ -442,8 +390,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   - [教父](../Page/教父_\(遊戲\).md "wikilink")
 
   -
-  - [Gran Turismo 3:
-    A-spec](https://zh.wikipedia.org/wiki/Gran_Turismo_3:_A-spec "wikilink")
+  - [Gran Turismo 3: A-spec](https://zh.wikipedia.org/wiki/Gran_Turismo_3:_A-spec "wikilink")
 
   - [GT赛车4](../Page/GT赛车4.md "wikilink")
 
@@ -453,11 +400,9 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
 
   - [俠盜獵車手：罪惡城市](../Page/俠盜獵車手：罪惡城市.md "wikilink")
 
-  - [Guitar
-    Hero](https://zh.wikipedia.org/wiki/Guitar_Hero_\(video_game\) "wikilink")
+  - [Guitar Hero](https://zh.wikipedia.org/wiki/Guitar_Hero_\(video_game\) "wikilink")
 
-  - [Guitar Hero
-    II](https://zh.wikipedia.org/wiki/Guitar_Hero_II "wikilink")
+  - [Guitar Hero II](https://zh.wikipedia.org/wiki/Guitar_Hero_II "wikilink")
 
   -
   - [哈利·波特与密室](../Page/哈利·波特与密室_\(游戏\).md "wikilink")
@@ -474,17 +419,14 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   - [杀手2：沉默刺客](../Page/杀手2：沉默刺客.md "wikilink")
 
-  - [Hot Shots Golf
-    3](https://zh.wikipedia.org/wiki/Everybody's_Golf_3 "wikilink")
+  - [Hot Shots Golf 3](https://zh.wikipedia.org/wiki/Everybody's_Golf_3 "wikilink")
 
-  - [Hot Shots Golf
-    Fore\!](https://zh.wikipedia.org/wiki/Everybody's_Golf_4 "wikilink")
+  - [Hot Shots Golf Fore\!](https://zh.wikipedia.org/wiki/Everybody's_Golf_4 "wikilink")
 
   -
   -
   -
-  - [Iron
-    Man](https://zh.wikipedia.org/wiki/Iron_Man_\(video_game\) "wikilink")
+  - [Iron Man](https://zh.wikipedia.org/wiki/Iron_Man_\(video_game\) "wikilink")
 
   -
   -
@@ -555,15 +497,13 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   -
   -
-  - [火影忍者
-    木葉的忍者英雄們](https://zh.wikipedia.org/wiki/火影忍者_木葉的忍者英雄們 "wikilink")
+  - [火影忍者 木葉的忍者英雄們](https://zh.wikipedia.org/wiki/火影忍者_木葉的忍者英雄們 "wikilink")
 
   - [火影忍者 木葉的忍者英雄們2](../Page/火影忍者_木葉的忍者英雄們2.md "wikilink")
 
   - [火影忍者 木葉的忍者英雄們3](../Page/火影忍者_木葉的忍者英雄們3.md "wikilink")
 
-  - [火影忍者 疾風傳
-    忍立體繪卷！最強忍界決戰！！](https://zh.wikipedia.org/wiki/火影忍者_疾風傳_忍立體繪卷！最強忍界決戰！！ "wikilink")
+  - [火影忍者 疾風傳 忍立體繪卷！最強忍界決戰！！](https://zh.wikipedia.org/wiki/火影忍者_疾風傳_忍立體繪卷！最強忍界決戰！！ "wikilink")
 
   -
   -
@@ -596,8 +536,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
 
   - [大神](../Page/大神_\(游戏\).md "wikilink")
 
-  - [Onimusha:
-    Warlords](https://zh.wikipedia.org/wiki/Onimusha:_Warlords "wikilink")
+  - [Onimusha: Warlords](https://zh.wikipedia.org/wiki/Onimusha:_Warlords "wikilink")
 
   - [鬼武者2](../Page/鬼武者2.md "wikilink")
 
@@ -614,8 +553,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   -
   -
-  - [Ratchet & Clank: Up Your
-    Arsenal](https://zh.wikipedia.org/wiki/Ratchet_&_Clank:_Up_Your_Arsenal "wikilink")
+  - [Ratchet & Clank: Up Your Arsenal](https://zh.wikipedia.org/wiki/Ratchet_&_Clank:_Up_Your_Arsenal "wikilink")
 
   -
   - [紅色死亡左輪](../Page/紅色死亡左輪.md "wikilink")
@@ -645,8 +583,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   -
   -
-  - [模拟人生
-    (游戏)模拟人生](https://zh.wikipedia.org/wiki/模拟人生_\(游戏\)模拟人生 "wikilink")
+  - [模拟人生 (游戏)模拟人生](https://zh.wikipedia.org/wiki/模拟人生_\(游戏\)模拟人生 "wikilink")
 
   - [模拟人生2](../Page/模拟人生2.md "wikilink")
 
@@ -700,8 +637,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   -
   -
-  - [Tak and the Power of
-    Juju](https://zh.wikipedia.org/wiki/Tak_and_the_Power_of_Juju "wikilink")
+  - [Tak and the Power of Juju](https://zh.wikipedia.org/wiki/Tak_and_the_Power_of_Juju "wikilink")
 
   -
   - [Tekken 4](https://zh.wikipedia.org/wiki/Tekken_4 "wikilink")
@@ -726,11 +662,9 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   - [古墓奇兵：不死傳奇](../Page/古墓奇兵：不死傳奇.md "wikilink")
 
   -
-  - [Tony Hawk's Pro Skater
-    3](https://zh.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_3 "wikilink")
+  - [Tony Hawk's Pro Skater 3](https://zh.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_3 "wikilink")
 
-  - [Tony Hawk's Pro Skater
-    4](https://zh.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_4 "wikilink")
+  - [Tony Hawk's Pro Skater 4](https://zh.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_4 "wikilink")
 
   -
   -
@@ -747,14 +681,11 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   - [北欧女神2 希尔梅莉亚](../Page/北欧女神2_希尔梅莉亚.md "wikilink")
 
-  - [Virtua Fighter
-    4](https://zh.wikipedia.org/wiki/Virtua_Fighter_4 "wikilink")
+  - [Virtua Fighter 4](https://zh.wikipedia.org/wiki/Virtua_Fighter_4 "wikilink")
 
-  - [Virtua Fighter 4:
-    Evolution](https://zh.wikipedia.org/wiki/Virtua_Fighter_4#Virtua_Fighter_4:_Evolution "wikilink")
+  - [Virtua Fighter 4: Evolution](https://zh.wikipedia.org/wiki/Virtua_Fighter_4#Virtua_Fighter_4:_Evolution "wikilink")
 
-  - [The
-    Warriors](https://zh.wikipedia.org/wiki/The_Warriors_\(video_game\) "wikilink")
+  - [The Warriors](https://zh.wikipedia.org/wiki/The_Warriors_\(video_game\) "wikilink")
 
   -
   -
@@ -775,8 +706,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
 ### PlayStation 3
 
-以下是以Greatest
-Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation_\(品牌\) "wikilink")\[8\]：
+以下是以Greatest Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation_\(品牌\) "wikilink")\[8\]：
 
   -
   -
@@ -806,8 +736,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
 
   - [无主之地](../Page/无主之地.md "wikilink")
 
-  - [Borderlands
-    2](https://zh.wikipedia.org/wiki/Borderlands_2 "wikilink")
+  - [Borderlands 2](https://zh.wikipedia.org/wiki/Borderlands_2 "wikilink")
 
   -
   - [使命召唤3](../Page/使命召唤3.md "wikilink")
@@ -883,8 +812,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
 
   - [殺戮地帶3](https://zh.wikipedia.org/wiki/殺戮地帶3 "wikilink")
 
-  - [Kingdoms of Amalur:
-    Reckoning](https://zh.wikipedia.org/wiki/Kingdoms_of_Amalur:_Reckoning "wikilink")
+  - [Kingdoms of Amalur: Reckoning](https://zh.wikipedia.org/wiki/Kingdoms_of_Amalur:_Reckoning "wikilink")
 
   - [黑色洛城](../Page/黑色洛城.md "wikilink")
 
@@ -934,8 +862,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
 
   - [波斯王子](../Page/波斯王子_\(2008年游戏\).md "wikilink")
 
-  - [Rage (video
-    game)](https://zh.wikipedia.org/wiki/Rage_\(video_game\) "wikilink")
+  - [Rage (video game)](https://zh.wikipedia.org/wiki/Rage_\(video_game\) "wikilink")
 
   -
   -
@@ -973,13 +900,11 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   - [劍魂IV](../Page/劍魂IV.md "wikilink")
 
-  - [Spec Ops: The
-    Line](https://zh.wikipedia.org/wiki/Spec_Ops:_The_Line "wikilink")
+  - [Spec Ops: The Line](https://zh.wikipedia.org/wiki/Spec_Ops:_The_Line "wikilink")
 
   - [星際大戰：原力釋放](../Page/星際大戰：原力釋放.md "wikilink")
 
-  - [星球大戰：原力釋放
-    II](https://zh.wikipedia.org/wiki/星球大戰：原力釋放_II "wikilink")
+  - [星球大戰：原力釋放 II](https://zh.wikipedia.org/wiki/星球大戰：原力釋放_II "wikilink")
 
   - [街頭霸王IV](../Page/街頭霸王IV.md "wikilink")
 
@@ -996,8 +921,7 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
 
   - [虹彩六號：拉斯維加斯](../Page/虹彩六號：拉斯維加斯.md "wikilink")
 
-  - [Tom Clancy's Rainbow Six: Vegas
-    2](../Page/虹彩六號：拉斯維加斯2.md "wikilink")
+  - [Tom Clancy's Rainbow Six: Vegas 2](../Page/虹彩六號：拉斯維加斯2.md "wikilink")
 
   -
   - [變形金剛：賽博坦殞落](../Page/變形金剛：賽博坦殞落.md "wikilink")
@@ -1018,13 +942,11 @@ Hits标签发行的[PlayStation作品](https://zh.wikipedia.org/wiki/PlayStation
   -
   -
   -
-  - [Zone of the Enders HD
-    Collection](https://zh.wikipedia.org/wiki/Zone_of_the_Enders_HD_Collection "wikilink")
+  - [Zone of the Enders HD Collection](https://zh.wikipedia.org/wiki/Zone_of_the_Enders_HD_Collection "wikilink")
 
 ### PlayStation Portable
 
-以下是以Greatest Hits标签发行的[PlayStation
-Portable作品](../Page/PlayStation_Portable.md "wikilink")\[9\]：
+以下是以Greatest Hits标签发行的[PlayStation Portable作品](../Page/PlayStation_Portable.md "wikilink")\[9\]：
 
   -
   -
@@ -1047,8 +969,7 @@ Portable作品](../Page/PlayStation_Portable.md "wikilink")\[9\]：
   -
   - [战神：奥林匹斯之链](../Page/战神：奥林匹斯之链.md "wikilink")
 
-  - [Gran
-    Turismo](https://zh.wikipedia.org/wiki/Gran_Turismo_\(PSP\) "wikilink")
+  - [Gran Turismo](https://zh.wikipedia.org/wiki/Gran_Turismo_\(PSP\) "wikilink")
 
   - [俠盜獵車手：血戰唐人街](../Page/俠盜獵車手：血戰唐人街.md "wikilink")
 
@@ -1057,8 +978,7 @@ Portable作品](../Page/PlayStation_Portable.md "wikilink")\[9\]：
   - [俠盜獵車手：罪惡城市傳奇](../Page/俠盜獵車手：罪惡城市傳奇.md "wikilink")
 
   -
-  - [Iron
-    Man](https://zh.wikipedia.org/wiki/Iron_Man_\(video_game\) "wikilink")
+  - [Iron Man](https://zh.wikipedia.org/wiki/Iron_Man_\(video_game\) "wikilink")
 
   -
   - [王國之心 夢中降生](../Page/王國之心_夢中降生.md "wikilink")
@@ -1127,8 +1047,7 @@ Portable作品](../Page/PlayStation_Portable.md "wikilink")\[9\]：
   -
   - [火線獵殺：先進戰士2](../Page/火線獵殺：先進戰士2.md "wikilink")
 
-  - [Tom Clancy's Rainbow Six:
-    Vegas](https://zh.wikipedia.org/wiki/Tom_Clancy's_Rainbow_Six:_Vegas "wikilink")
+  - [Tom Clancy's Rainbow Six: Vegas](https://zh.wikipedia.org/wiki/Tom_Clancy's_Rainbow_Six:_Vegas "wikilink")
 
   - [古墓奇兵：不死傳奇](../Page/古墓奇兵：不死傳奇.md "wikilink")
 
@@ -1157,8 +1076,7 @@ Portable作品](../Page/PlayStation_Portable.md "wikilink")\[9\]：
 
   - [刺客信条：枭雄](https://zh.wikipedia.org/wiki/刺客信条：枭雄 "wikilink")
 
-  - [勇者斗恶龙 英雄集结
-    暗龙与世界树之城](https://zh.wikipedia.org/wiki/勇者斗恶龙_英雄集结_暗龙与世界树之城 "wikilink")
+  - [勇者斗恶龙 英雄集结 暗龙与世界树之城](https://zh.wikipedia.org/wiki/勇者斗恶龙_英雄集结_暗龙与世界树之城 "wikilink")
 
   - [驾驶俱乐部](https://zh.wikipedia.org/wiki/驾驶俱乐部 "wikilink")
 
@@ -1211,37 +1129,18 @@ Portable作品](../Page/PlayStation_Portable.md "wikilink")\[9\]：
 
 ## 参考文献
 
-  - [Official US PlayStation site's list
-    (PS3)](http://www.us.playstation.com/Search?search&type=Games&system=ps3&GreatestHit=true)
-  - [Official US PlayStation site's list
-    (PS2)](https://web.archive.org/web/20060824233031/http://www.us.playstation.com/PS2/GreatestHits)
-  - [Official US PlayStation site's list
-    (PSP)](http://www.us.playstation.com/psp/greatesthits)
+  - [Official US PlayStation site's list (PS3)](http://www.us.playstation.com/Search?search&type=Games&system=ps3&GreatestHit=true)
+  - [Official US PlayStation site's list (PS2)](https://web.archive.org/web/20060824233031/http://www.us.playstation.com/PS2/GreatestHits)
+  - [Official US PlayStation site's list (PSP)](http://www.us.playstation.com/psp/greatesthits)
 
 [Category:PlayStation](https://zh.wikipedia.org/wiki/Category:PlayStation "wikilink")
 
-1.  [| UOL
-    Jogos](http://jogos.uol.com.br/ultimas-noticias/2013/10/24/linha-ps3-favoritos-tera-jogos-de-produtoras-terceiras-a-partir-de-dezembro.htm)
-2.  [PlayStation Leads Videogame Industry with Aggressive New Price
-    Structure; PlayStation Game Console to Retail for $149 and
-    PlayStation Software to be Targeted at a MSRP of $49.99 or Less |
-    Business Wire | Find Articles at
-    BNET.com](http://www.findarticles.com/p/articles/mi_m0EIN/is_1997_March_3/ai_19173261)
-3.  [Playstation.Com - News - Press Releases - Sony Computer
-    Entertainment America Expands Extensive “Greatest Hits” Software
-    Library By Adding Three New
-    Titles](http://scea.com/PressReleases.aspx?id=127)
-4.  [Playstation.Com - News - Press Releases - Sony Computer
-    Entertainment America Expands Extensive "Greatest Hits" Software
-    Library By Adding Three New
-    Titles](http://www.us.playstation.com/News/PressReleases/127)
-5.  [IGN: E3 2006: PSP Greatest Hits Program to be
-    Launched](http://psp.ign.com/articles/705/705786p1.html)
-6.  [IGN: PlayStation Greatest Hits: Complete
-    List](http://psx.ign.com/articles/091/091211p1.html)
-7.  [PlayStation.com - PlayStation 2 - Greatest
-    Hits](http://us.playstation.com/ps-products/BrowseGames?console=ps2&downloadableContent=GreatestHits&beginsWith=Any)
-8.  [PlayStation.Blog » PS3 Greatest Hits Launch
-    Today](http://blog.us.playstation.com/2008/07/28/ps3-greatest-hits-launch-today)
-9.  [PlayStation.com - PlayStation Portable - Greatest
-    Hits](http://www.us.playstation.com/psp/greatesthits)
+1.  [| UOL Jogos](http://jogos.uol.com.br/ultimas-noticias/2013/10/24/linha-ps3-favoritos-tera-jogos-de-produtoras-terceiras-a-partir-de-dezembro.htm)
+2.  [PlayStation Leads Videogame Industry with Aggressive New Price Structure; PlayStation Game Console to Retail for $149 and PlayStation Software to be Targeted at a MSRP of $49.99 or Less | Business Wire | Find Articles at BNET.com](http://www.findarticles.com/p/articles/mi_m0EIN/is_1997_March_3/ai_19173261)
+3.  [Playstation.Com - News - Press Releases - Sony Computer Entertainment America Expands Extensive “Greatest Hits” Software Library By Adding Three New Titles](http://scea.com/PressReleases.aspx?id=127)
+4.  [Playstation.Com - News - Press Releases - Sony Computer Entertainment America Expands Extensive "Greatest Hits" Software Library By Adding Three New Titles](http://www.us.playstation.com/News/PressReleases/127)
+5.  [IGN: E3 2006: PSP Greatest Hits Program to be Launched](http://psp.ign.com/articles/705/705786p1.html)
+6.  [IGN: PlayStation Greatest Hits: Complete List](http://psx.ign.com/articles/091/091211p1.html)
+7.  [PlayStation.com - PlayStation 2 - Greatest Hits](http://us.playstation.com/ps-products/BrowseGames?console=ps2&downloadableContent=GreatestHits&beginsWith=Any)
+8.  [PlayStation.Blog » PS3 Greatest Hits Launch Today](http://blog.us.playstation.com/2008/07/28/ps3-greatest-hits-launch-today)
+9.  [PlayStation.com - PlayStation Portable - Greatest Hits](http://www.us.playstation.com/psp/greatesthits)

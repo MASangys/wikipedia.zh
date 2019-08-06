@@ -1,5 +1,4 @@
-《**Kimbonomics金式代**》
-是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[陳芳語個人第二張](https://zh.wikipedia.org/wiki/陳芳語 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2013年12月25日正式發行，一共收錄十首歌曲。
+《**Kimbonomics金式代**》 是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[陳芳語個人第二張](https://zh.wikipedia.org/wiki/陳芳語 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2013年12月25日正式發行，一共收錄十首歌曲。
 
 ## 曲目
 
@@ -81,10 +80,6 @@
 
 <references/>
 
-[Category:陳芳語音樂專輯](https://zh.wikipedia.org/wiki/Category:陳芳語音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
+[Category:陳芳語音樂專輯](https://zh.wikipedia.org/wiki/Category:陳芳語音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
 
-1.  [Kimberley『金式代KIMBONOMICS』
-    -銀河網路電台](http://www.iwant-radio.com/showinformation.php?sisn=32795)
-    iwant-radio.
+1.  [Kimberley『金式代KIMBONOMICS』 -銀河網路電台](http://www.iwant-radio.com/showinformation.php?sisn=32795) iwant-radio.

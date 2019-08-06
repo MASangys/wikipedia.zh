@@ -1,20 +1,12 @@
-《**The First
-Collage**》是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[梁耀燮](../Page/梁耀燮.md "wikilink")的第1張個人迷你專輯。於2012年11月26日發行。\[1\]唱片公司為[Cube娛樂](../Page/Cube娛樂.md "wikilink")。
+《**The First Collage**》是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[梁耀燮](../Page/梁耀燮.md "wikilink")的第1張個人迷你專輯。於2012年11月26日發行。\[1\]唱片公司為[Cube娛樂](../Page/Cube娛樂.md "wikilink")。
 
 ## 概要
 
-  - 「The First
-    Collage」是[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[梁耀燮](../Page/梁耀燮.md "wikilink")的首張個人迷你專輯，全碟歌曲絕大部分由[龍俊亨](../Page/龍俊亨.md "wikilink")創作。\[2\]
+  - 「The First Collage」是[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[梁耀燮](../Page/梁耀燮.md "wikilink")的首張個人迷你專輯，全碟歌曲絕大部分由[龍俊亨](../Page/龍俊亨.md "wikilink")創作。\[2\]
   - 「咖啡因」為此專輯的主打曲目。
-  - 主打曲目「咖啡因」於[M\!
-    Countdown和](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")[Music
-    Bank取得](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")1位，一共獲得5個獎盃，其中於[M\!
-    Countdown取得三連冠的成績](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。
-      - [Music
-        Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")：2012年12月14日、21日
-      - [M\!
-        Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")：2012年12月20日、27日、2013年1月3日（Triple
-        Crown）
+  - 主打曲目「咖啡因」於[M\! Countdown和](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")[Music Bank取得](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")1位，一共獲得5個獎盃，其中於[M\! Countdown取得三連冠的成績](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。
+      - [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")：2012年12月14日、21日
+      - [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")：2012年12月20日、27日、2013年1月3日（Triple Crown）
 
 ## 曲目\[3\]
 
@@ -128,8 +120,7 @@ Collage**》是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikili
 
 ## 參考資料
 
-[Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink")
-[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
+[Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink") [Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
 
 1.
 

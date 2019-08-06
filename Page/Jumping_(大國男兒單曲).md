@@ -89,12 +89,9 @@
 
 ## 外部連結
 
-  - [大国男児 | Sony
-    Music](http://www.sonymusic.co.jp/Music/Arch/SR/daikokudanji/index.html)
+  - [大国男児 | Sony Music](http://www.sonymusic.co.jp/Music/Arch/SR/daikokudanji/index.html)
 
-
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:大國男兒音樂專輯](https://zh.wikipedia.org/wiki/Category:大國男兒音樂專輯 "wikilink")
+[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:大國男兒音樂專輯](https://zh.wikipedia.org/wiki/Category:大國男兒音樂專輯 "wikilink")
 
 1.
 2.

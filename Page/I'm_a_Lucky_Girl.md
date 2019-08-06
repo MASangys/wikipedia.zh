@@ -1,5 +1,4 @@
-《**I'm A Lucky
-Girl**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[鄭希怡](../Page/鄭希怡.md "wikilink")的第11張個人音樂專輯、第2張新曲加精選專輯，於2014年9月25日推出。此專輯亦暫定為她最後一張唱片。
+《**I'm A Lucky Girl**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[鄭希怡](../Page/鄭希怡.md "wikilink")的第11張個人音樂專輯、第2張新曲加精選專輯，於2014年9月25日推出。此專輯亦暫定為她最後一張唱片。
 
 ## 曲目
 
@@ -16,8 +15,4 @@ Girl**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikiped
 
 ## 獎項
 
-[Category:鄭希怡音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭希怡音樂專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")
+[Category:鄭希怡音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭希怡音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")

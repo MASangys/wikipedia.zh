@@ -1,7 +1,6 @@
 **sync**（意指Synchronize，即“同步”）为[UNIX](../Page/UNIX.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")的标准[系统调用](https://zh.wikipedia.org/wiki/系统调用 "wikilink")，功能为将[内核](../Page/内核.md "wikilink")[文件系统](../Page/文件系统.md "wikilink")[缓冲区的所有数据](https://zh.wikipedia.org/wiki/缓冲区 "wikilink")（也即预定将通过低级[I/O系统调用](https://zh.wikipedia.org/wiki/I/O "wikilink")写入存储介质的数据）写入存储介质（如硬盘）。
 
-作为[C语言的函数之一](https://zh.wikipedia.org/wiki/C语言 "wikilink")，`sync()`一般以`void
-sync(void)`的形式在`unistd.h`内声明。该函数也可以从[命令行执行sync命令的方式调用](https://zh.wikipedia.org/wiki/命令行 "wikilink")，同时在其他程序语言（如[Perl](../Page/Perl.md "wikilink")）中也有名字与之相似的函数。
+作为[C语言的函数之一](https://zh.wikipedia.org/wiki/C语言 "wikilink")，`sync()`一般以`void sync(void)`的形式在`unistd.h`内声明。该函数也可以从[命令行执行sync命令的方式调用](https://zh.wikipedia.org/wiki/命令行 "wikilink")，同时在其他程序语言（如[Perl](../Page/Perl.md "wikilink")）中也有名字与之相似的函数。
 
 ## 相关调用
 
@@ -19,34 +18,22 @@ UNIX内核常会运行一些诸如flush或update之类的[守护进程](../Page/
 
 ## 相关争议
 
-在默认情况下，硬盘一般使用自有的易失性写入缓存以缓存要写入的数据。这一做法可以大幅提升性能，但同时也会带来写入操作丢失的潜在风险\[6\]，不过开/关缓存的性能落差的确相当巨大，甚至连素来保守的[FreeBSD](../Page/FreeBSD.md "wikilink")社群为此也否决了在FreeBSD
-4.3内默认关闭写入缓存（即是说，修改后直接调用`sync`写入硬盘）的提案\[7\]。
+在默认情况下，硬盘一般使用自有的易失性写入缓存以缓存要写入的数据。这一做法可以大幅提升性能，但同时也会带来写入操作丢失的潜在风险\[6\]，不过开/关缓存的性能落差的确相当巨大，甚至连素来保守的[FreeBSD](../Page/FreeBSD.md "wikilink")社群为此也否决了在FreeBSD 4.3内默认关闭写入缓存（即是说，修改后直接调用`sync`写入硬盘）的提案\[7\]。
 
-另外，在[Firefox](../Page/Firefox.md "wikilink")引入`fsync`调用的目的以保证其内嵌的[SQLite](../Page/SQLite.md "wikilink")数据库的完整性后，便有人指出`fsync`降低了Firefox
-3.0的性能\[8\]；而[Linux基金会的](https://zh.wikipedia.org/wiki/Linux基金会 "wikilink")[技术总监](https://zh.wikipedia.org/wiki/首席技术官 "wikilink")[西奥多·周则在](https://zh.wikipedia.org/wiki/西奥多·周 "wikilink")“Don't
-fear the fsync\!”一文中讨论了fsync的性能表现，并表示“没有必要害怕fsync”\[9\]。
+另外，在[Firefox](../Page/Firefox.md "wikilink")引入`fsync`调用的目的以保证其内嵌的[SQLite](../Page/SQLite.md "wikilink")数据库的完整性后，便有人指出`fsync`降低了Firefox 3.0的性能\[8\]；而[Linux基金会的](https://zh.wikipedia.org/wiki/Linux基金会 "wikilink")[技术总监](https://zh.wikipedia.org/wiki/首席技术官 "wikilink")[西奥多·周则在](https://zh.wikipedia.org/wiki/西奥多·周 "wikilink")“Don't fear the fsync\!”一文中讨论了fsync的性能表现，并表示“没有必要害怕fsync”\[9\]。
 
 ## 注释
 
 ## 参考资料
 
-[Category:数据同步](https://zh.wikipedia.org/wiki/Category:数据同步 "wikilink")
-[Category:标准Unix程序](https://zh.wikipedia.org/wiki/Category:标准Unix程序 "wikilink")
+[Category:数据同步](https://zh.wikipedia.org/wiki/Category:数据同步 "wikilink") [Category:标准Unix程序](https://zh.wikipedia.org/wiki/Category:标准Unix程序 "wikilink")
 
-1.  [fsync
-    specification](http://www.opengroup.org/onlinepubs/007908775/xsh/fsync.html)
-2.  [fdatasync
-    specification](http://www.opengroup.org/onlinepubs/007908775/xsh/fdatasync.html)
-3.  [The Linux Page Cache and
-    pdflush](http://www.westnet.com/~gsmith/content/linux-pdflush.htm)
-4.  [PostgreSQL Reliability and the Write-Ahead
-    Log](http://www.postgresql.org/docs/current/static/wal.html)
-5.  [Tuning PostgreSQL WAL
-    Synchronization](http://www.westnet.com/~gsmith/content/postgresql/TuningPGWAL.htm)
-
-6.  [Write-Cache
-    Enabled?](http://www.jasonbrome.com/blog/archives/2004/04/03/writecache_enabled.html)
-7.  [FreeBSD Handbook — Tuning
-    Disks](http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/configtuning-disk.html#AEN16830)
+1.  [fsync specification](http://www.opengroup.org/onlinepubs/007908775/xsh/fsync.html)
+2.  [fdatasync specification](http://www.opengroup.org/onlinepubs/007908775/xsh/fdatasync.html)
+3.  [The Linux Page Cache and pdflush](http://www.westnet.com/~gsmith/content/linux-pdflush.htm)
+4.  [PostgreSQL Reliability and the Write-Ahead Log](http://www.postgresql.org/docs/current/static/wal.html)
+5.  [Tuning PostgreSQL WAL Synchronization](http://www.westnet.com/~gsmith/content/postgresql/TuningPGWAL.htm)
+6.  [Write-Cache Enabled?](http://www.jasonbrome.com/blog/archives/2004/04/03/writecache_enabled.html)
+7.  [FreeBSD Handbook — Tuning Disks](http://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/configtuning-disk.html#AEN16830)
 8.
 9.

@@ -71,7 +71,6 @@
 
   - [拉斯科琳娜斯乡村俱乐部](http://www.clubcorp.com/Clubs/Las-Colinas-Country-Club)
 
-[Category:LPGA巡回赛赛事](https://zh.wikipedia.org/wiki/Category:LPGA巡回赛赛事 "wikilink")
-[Category:德克萨斯州高尔夫](https://zh.wikipedia.org/wiki/Category:德克萨斯州高尔夫 "wikilink")
+[Category:LPGA巡回赛赛事](https://zh.wikipedia.org/wiki/Category:LPGA巡回赛赛事 "wikilink") [Category:德克萨斯州高尔夫](https://zh.wikipedia.org/wiki/Category:德克萨斯州高尔夫 "wikilink")
 
 1.

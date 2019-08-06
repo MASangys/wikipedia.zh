@@ -1,8 +1,4 @@
-**Tiny-G** ()，韓國女子團體，於2012年出道，成員包括Mint、J. Min。團名意思為"Tiny +
-Giant"。粉絲團名稱為"'미니미"(MiniMe)。團體由韓國藝人[Jay
-Park培訓](https://zh.wikipedia.org/wiki/朴宰範 "wikilink")，團體的首張數位畢曲"Polaris"也是由他作曲的。團體的經紀公司為GnG
-Production。2014年7月3日回歸日前宣布成員**明智**退出組合。同年11月推出子團Tiny-G M(J.
-Min、Mint)在泰國活動。2015年，組合解散。
+**Tiny-G** ()，韓國女子團體，於2012年出道，成員包括Mint、J. Min。團名意思為"Tiny + Giant"。粉絲團名稱為"'미니미"(MiniMe)。團體由韓國藝人[Jay Park培訓](https://zh.wikipedia.org/wiki/朴宰範 "wikilink")，團體的首張數位畢曲"Polaris"也是由他作曲的。團體的經紀公司為GnG Production。2014年7月3日回歸日前宣布成員**明智**退出組合。同年11月推出子團Tiny-G M(J. Min、Mint)在泰國活動。2015年，組合解散。
 
 ## 成員資料
 
@@ -114,11 +110,4 @@ Min、Mint)在泰國活動。2015年，組合解散。
   -
   -
   -
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")

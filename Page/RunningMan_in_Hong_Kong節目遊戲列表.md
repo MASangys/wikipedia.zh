@@ -1,5 +1,4 @@
-以下列表列出於《[RunningMan in Hong
-Kong](https://zh.wikipedia.org/wiki/RunningMan_in_Hong_Kong "wikilink")》節目中曾出現的遊戲。
+以下列表列出於《[RunningMan in Hong Kong](https://zh.wikipedia.org/wiki/RunningMan_in_Hong_Kong "wikilink")》節目中曾出現的遊戲。
 
 節目中的遊戲主要是來自以下三種類別\[1\]：
 
@@ -11,16 +10,12 @@ Kong](https://zh.wikipedia.org/wiki/RunningMan_in_Hong_Kong "wikilink")》節目
 
 ### 第一集(EP1)
 
-  - 由於《RunningMan in Hong
-    Kong》製作團隊於進行本集拍攝前已表明此集並不會公開，故在沒有公佈完整片段的情況之下，未能在此作出完整遊戲記錄，但遊戲內容主要亦是《Running
-    Man》中比較經典的遊戲。\[2\]
+  - 由於《RunningMan in Hong Kong》製作團隊於進行本集拍攝前已表明此集並不會公開，故在沒有公佈完整片段的情況之下，未能在此作出完整遊戲記錄，但遊戲內容主要亦是《Running Man》中比較經典的遊戲。\[2\]
 
 ### 第二集(EP2)
 
   - 第二集是RMHKEP第一次於YouTube頻道正式公開完整片段的集數，而本集的參賽者（RM）大部份亦是第一次參與節目。
-  - 本集的形式是以《Running Man》初期格式進行，即參賽者須於不同遊戲中爭奪個人Running
-    Ball，在最後的抽獎環節中被抽出其Running
-    Ball的參賽者則可免去懲罰。
+  - 本集的形式是以《Running Man》初期格式進行，即參賽者須於不同遊戲中爭奪個人Running Ball，在最後的抽獎環節中被抽出其Running Ball的參賽者則可免去懲罰。
   - 本集所進行的遊戲仍是《Running Man》不同的經典遊戲，如「抽小偷卡」、「間諜」及「互撕名牌戰」等。\[3\]
 
 <table style="width:10%;">
@@ -106,8 +101,7 @@ Kong](https://zh.wikipedia.org/wiki/RunningMan_in_Hong_Kong "wikilink")》節目
 ### 第三集(EP3)
 
   - 第三集的節目形式以「移動式」進行，即參賽者須先到不同的地方完成指定任務，然後於最後的追逐戰環節中獲得勝利，而本集的參賽者（RM）大部份亦是第一次參與節目。
-  - 本集所進行的遊戲仍主要是《Running
-    Man》不同的經典遊戲，但亦有嘗試於部份的經典遊戲中加以修改，如由「以畫傳畫」而演變成的遊戲「接舞傳情」，則是RMHKEP製作團隊於初期的小嘗試。\[4\]
+  - 本集所進行的遊戲仍主要是《Running Man》不同的經典遊戲，但亦有嘗試於部份的經典遊戲中加以修改，如由「以畫傳畫」而演變成的遊戲「接舞傳情」，則是RMHKEP製作團隊於初期的小嘗試。\[4\]
 
 <table style="width:10%;">
 <colgroup>
@@ -192,8 +186,7 @@ Kong](https://zh.wikipedia.org/wiki/RunningMan_in_Hong_Kong "wikilink")》節目
 ### 第四集(EP4)
 
   - 為了確保節目的質素，RMHKEP製作團隊除了繼續招募新參賽者參與節目之外，於第四集中亦保留了五位曾參與節目拍攝的成員（Lynch、世祈、小明、芝士、DOWING），開始建立了節目主要成員的初型。
-  - 本集的節目形式亦是以「移動式」進行，而所進行的遊戲仍是《Running Man》不同的經典遊戲，其中更包括了《Running
-    Man》中最受歡迎的遊戲環節「鈴鐺捉迷藏」，令節目受到更多觀眾及網民的注意。\[5\]
+  - 本集的節目形式亦是以「移動式」進行，而所進行的遊戲仍是《Running Man》不同的經典遊戲，其中更包括了《Running Man》中最受歡迎的遊戲環節「鈴鐺捉迷藏」，令節目受到更多觀眾及網民的注意。\[5\]
 
 <table style="width:10%;">
 <colgroup>
@@ -250,8 +243,7 @@ Kong](https://zh.wikipedia.org/wiki/RunningMan_in_Hong_Kong "wikilink")》節目
 ### 第五集(EP5)
 
   - 第五集是RMHKEP的另一個轉捩點，製作團隊首次以主題形式（復仇者特輯）進行節目，本集的追逐戰環節是圍繞主題而進行。
-  - 除了設立主題，製作團隊更首次加入自家創作的遊戲「出黎啦！Running
-    Ball！」，並延長節目後期剪接及製作的時間，加入比以前更多的效果及故事性的剪輯，再次提高節目質素。\[6\]
+  - 除了設立主題，製作團隊更首次加入自家創作的遊戲「出黎啦！Running Ball！」，並延長節目後期剪接及製作的時間，加入比以前更多的效果及故事性的剪輯，再次提高節目質素。\[6\]
 
 <table style="width:10%;">
 <colgroup>

@@ -14,7 +14,6 @@
 
 [分類:中華人民共和國槍械](https://zh.wikipedia.org/wiki/分類:中華人民共和國槍械 "wikilink")
 
-[Category:重機槍](https://zh.wikipedia.org/wiki/Category:重機槍 "wikilink")
-[Category:14.5×114毫米槍械](https://zh.wikipedia.org/wiki/Category:14.5×114毫米槍械 "wikilink")
+[Category:重機槍](https://zh.wikipedia.org/wiki/Category:重機槍 "wikilink") [Category:14.5×114毫米槍械](https://zh.wikipedia.org/wiki/Category:14.5×114毫米槍械 "wikilink")
 
 1.  [Type02-qjg02](http://world.guns.ru/machine/ch/type-02-qjg-02-hmg-e.html)

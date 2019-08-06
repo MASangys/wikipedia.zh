@@ -1,5 +1,4 @@
-**丙酰辅酶A**
-是由[辅酶A](../Page/辅酶A.md "wikilink")与[丙酸](../Page/丙酸.md "wikilink")通过[硫酯键结合成的重要](https://zh.wikipedia.org/wiki/硫酯键 "wikilink")[代谢中间产物](https://zh.wikipedia.org/wiki/代谢中间产物 "wikilink")。
+**丙酰辅酶A** 是由[辅酶A](../Page/辅酶A.md "wikilink")与[丙酸](../Page/丙酸.md "wikilink")通过[硫酯键结合成的重要](https://zh.wikipedia.org/wiki/硫酯键 "wikilink")[代谢中间产物](https://zh.wikipedia.org/wiki/代谢中间产物 "wikilink")。
 
 ## 在动物中的代谢
 
@@ -26,5 +25,4 @@
 ## 参考文献
 
   -
-[Category:硫酯](https://zh.wikipedia.org/wiki/Category:硫酯 "wikilink")
-[Category:辅酶](https://zh.wikipedia.org/wiki/Category:辅酶 "wikilink")
+[Category:硫酯](https://zh.wikipedia.org/wiki/Category:硫酯 "wikilink") [Category:辅酶](https://zh.wikipedia.org/wiki/Category:辅酶 "wikilink")

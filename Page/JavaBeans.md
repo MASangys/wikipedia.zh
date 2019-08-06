@@ -125,9 +125,7 @@ public class TestPersonBean {
 
 ## 外部連結
 
-  - [Oracle's JavaBeans
-    tutorials](http://download.oracle.com/javase/tutorial/javabeans/)
-  - [JavaBeans
-    specification](http://www.oracle.com/technetwork/java/javase/documentation/spec-136004.html)
+  - [Oracle's JavaBeans tutorials](http://download.oracle.com/javase/tutorial/javabeans/)
+  - [JavaBeans specification](http://www.oracle.com/technetwork/java/javase/documentation/spec-136004.html)
 
 [Category:Java](https://zh.wikipedia.org/wiki/Category:Java "wikilink")

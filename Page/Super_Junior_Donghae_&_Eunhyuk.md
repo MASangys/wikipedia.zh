@@ -1,46 +1,22 @@
-**Super Junior-D\&E**是韓國演唱團體[Super
-Junior的第五個官方子團體](../Page/Super_Junior.md "wikilink")，由Super
-Junior的兩名成員[東海與](../Page/東海_\(藝人\).md "wikilink")[銀赫](../Page/銀赫.md "wikilink")於2011年組成。2016年憑藉迷你專輯《[Present](https://zh.wikipedia.org/wiki/Present_\(Super_Junior-D&E迷你專輯\) "wikilink")》獲頒[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")年度最佳專輯獎\[1\]。
+**Super Junior-D\&E**是韓國演唱團體[Super Junior的第五個官方子團體](../Page/Super_Junior.md "wikilink")，由Super Junior的兩名成員[東海與](../Page/東海_\(藝人\).md "wikilink")[銀赫](../Page/銀赫.md "wikilink")於2011年組成。2016年憑藉迷你專輯《[Present](https://zh.wikipedia.org/wiki/Present_\(Super_Junior-D&E迷你專輯\) "wikilink")》獲頒[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")年度最佳專輯獎\[1\]。
 
 ## 簡歷
 
 ### 2011-2012年：出道、Oppa, Oppa
 
-2011年11月19日、20日，[Super
-Junior成員](../Page/Super_Junior.md "wikilink")[東海及](../Page/東海_\(藝人\).md "wikilink")[銀赫](../Page/銀赫.md "wikilink")在Super
-Junior演唱會[Super Show 4首爾場上演出](../Page/Super_Show_4.md "wikilink")《[Oppa,
-Oppa](../Page/Oppa,_Oppa.md "wikilink")》。同年12月16日，通過Melon、Bugs、Mnet等韓國音樂網站發布韓語單曲《[Oppa,
-Oppa](../Page/Oppa,_Oppa.md "wikilink")》\[2\]，同日在[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")[音樂銀行演出及發布歌曲MV](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")，MV由Super
-Junior成員[神童作導演](../Page/神童_\(藝人\).md "wikilink")。
+2011年11月19日、20日，[Super Junior成員](../Page/Super_Junior.md "wikilink")[東海及](../Page/東海_\(藝人\).md "wikilink")[銀赫](../Page/銀赫.md "wikilink")在Super Junior演唱會[Super Show 4首爾場上演出](../Page/Super_Show_4.md "wikilink")《[Oppa, Oppa](../Page/Oppa,_Oppa.md "wikilink")》。同年12月16日，通過Melon、Bugs、Mnet等韓國音樂網站發布韓語單曲《[Oppa, Oppa](../Page/Oppa,_Oppa.md "wikilink")》\[2\]，同日在[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")[音樂銀行演出及發布歌曲MV](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")，MV由Super Junior成員[神童作導演](../Page/神童_\(藝人\).md "wikilink")。
 
-2012年4月4日，發布首張日語單曲《[Oppa,
-Oppa](https://zh.wikipedia.org/wiki/Oppa,_Oppa#日文單曲《Oppa,_Oppa》 "wikilink")》\[3\]，[Super
-Junior成員](../Page/Super_Junior.md "wikilink")[晟敏和](https://zh.wikipedia.org/wiki/李晟敏 "wikilink")[神童](../Page/神童_\(藝人\).md "wikilink")、[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\)_\(组合\) "wikilink")[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、彼得、One
-Way的Youngsky客串歌曲MV，收錄《Oppa, Oppa》和《初戀》兩首歌曲。《Oppa,
-Oppa》獲日本Oricon公信榜第2位和Tower Records單曲榜第1位。
+2012年4月4日，發布首張日語單曲《[Oppa, Oppa](https://zh.wikipedia.org/wiki/Oppa,_Oppa#日文單曲《Oppa,_Oppa》 "wikilink")》\[3\]，[Super Junior成員](../Page/Super_Junior.md "wikilink")[晟敏和](https://zh.wikipedia.org/wiki/李晟敏 "wikilink")[神童](../Page/神童_\(藝人\).md "wikilink")、[f(x)成員](https://zh.wikipedia.org/wiki/f\(x\)_\(组合\) "wikilink")[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、彼得、One Way的Youngsky客串歌曲MV，收錄《Oppa, Oppa》和《初戀》兩首歌曲。《Oppa, Oppa》獲日本Oricon公信榜第2位和Tower Records單曲榜第1位。
 
 ### 2013-2014年：Still You、Ride Me、I Wanna Dance、Skeleton、首次日本巡演
 
-Team One Sound的彼得通過Twitter寫道，[Super
-Junior成員](../Page/Super_Junior.md "wikilink")[東海及](../Page/東海_\(藝人\).md "wikilink")[銀赫](../Page/銀赫.md "wikilink")在2013年發行音樂作品。6月19日，發行第二張日語單曲《[I
-Wanna Dance](../Page/I_Wanna_Dance.md "wikilink")》\[4\]，收錄[Super
-Junior-M成員](../Page/Super_Junior-M.md "wikilink")[Henry創作的](../Page/劉憲華.md "wikilink")《Love
-That I Need》。同年12月18日公佈第二首韓語單曲《[Still
-You](../Page/Still_You.md "wikilink")》，這首歌的MV在倫敦拍攝。
+Team One Sound的彼得通過Twitter寫道，[Super Junior成員](../Page/Super_Junior.md "wikilink")[東海及](../Page/東海_\(藝人\).md "wikilink")[銀赫](../Page/銀赫.md "wikilink")在2013年發行音樂作品。6月19日，發行第二張日語單曲《[I Wanna Dance](../Page/I_Wanna_Dance.md "wikilink")》\[4\]，收錄[Super Junior-M成員](../Page/Super_Junior-M.md "wikilink")[Henry創作的](../Page/劉憲華.md "wikilink")《Love That I Need》。同年12月18日公佈第二首韓語單曲《[Still You](../Page/Still_You.md "wikilink")》，這首歌的MV在倫敦拍攝。
 
-2014年2月26日，發行首張日語正規專輯《[Ride
-Me](../Page/Ride_Me.md "wikilink")》\[5\]，以《Motorcycle》作主打曲，[Super
-Junior成员](../Page/Super_Junior.md "wikilink")[崔始源](../Page/崔始源.md "wikilink")客串歌曲MV。3月至5月，于日本9个城市举行《Super
-Junior-D\&E The 1st Japan Tour
-2014》，22场演唱会累计观众达10万名\[6\]。8月6日發行第三張日語單曲《[Skeleton](../Page/Skeleton_\(Donghae_&_Eunhyuk單曲\).md "wikilink")》。11月13日，出席在第9届倫敦韓國電影節\[7\]。
+2014年2月26日，發行首張日語正規專輯《[Ride Me](../Page/Ride_Me.md "wikilink")》\[5\]，以《Motorcycle》作主打曲，[Super Junior成员](../Page/Super_Junior.md "wikilink")[崔始源](../Page/崔始源.md "wikilink")客串歌曲MV。3月至5月，于日本9个城市举行《Super Junior-D\&E The 1st Japan Tour 2014》，22场演唱会累计观众达10万名\[6\]。8月6日發行第三張日語單曲《[Skeleton](../Page/Skeleton_\(Donghae_&_Eunhyuk單曲\).md "wikilink")》。11月13日，出席在第9届倫敦韓國電影節\[7\]。
 
 ### 2015-2016年：The Beat Goes On、Present、Let's Get It On、首次亞洲巡演、第二次日本巡演
 
-2015年3月9日，發行首張韓語迷你專輯《[The Beat Goes
-On](../Page/The_Beat_Goes_On.md "wikilink")》，3月24日發行改版專輯\[8\]。4月1日，發行首張日語迷你專輯《[Present](../Page/Present_\(Super_Junior_Donghae_&_Eunhyuk迷你專輯\).md "wikilink")》\[9\]。4月3日至23日，于日本4个城市举行《Super
-Junior-D\&E The 2nd Japan Tour 2015》\[10\]。6月及8月，于亞洲4个城市舉行《Super
-Junior-D\&E Asia Tour 2015》\[11\]。9月30日，發行第四張日語單曲《[Let's Get It
-On](https://zh.wikipedia.org/wiki/Let's_Get_It_On "wikilink")》。2016年2月27日，憑藉迷你專輯《Present》獲頒[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")年度最佳專輯獎\[12\]。
+2015年3月9日，發行首張韓語迷你專輯《[The Beat Goes On](../Page/The_Beat_Goes_On.md "wikilink")》，3月24日發行改版專輯\[8\]。4月1日，發行首張日語迷你專輯《[Present](../Page/Present_\(Super_Junior_Donghae_&_Eunhyuk迷你專輯\).md "wikilink")》\[9\]。4月3日至23日，于日本4个城市举行《Super Junior-D\&E The 2nd Japan Tour 2015》\[10\]。6月及8月，于亞洲4个城市舉行《Super Junior-D\&E Asia Tour 2015》\[11\]。9月30日，發行第四張日語單曲《[Let's Get It On](https://zh.wikipedia.org/wiki/Let's_Get_It_On "wikilink")》。2016年2月27日，憑藉迷你專輯《Present》獲頒[日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink")年度最佳專輯獎\[12\]。
 
 2015年10月13日及15日銀赫與東海相繼入伍，團體活動暫停。
 
@@ -48,25 +24,17 @@ On](https://zh.wikipedia.org/wiki/Let's_Get_It_On "wikilink")》。2016年2月27
 
 2017年7月12日及14日，銀赫與東海退伍；並在同月23日舉辦粉絲見面會\[13\]。
 
-2018年8月8日，發行日語第二張正規專輯《[Style](https://zh.wikipedia.org/wiki/Style_\(Super_Junior_Donghae_&_Eunhyuk專輯\) "wikilink")》，並宣布於同年9月7日於[日本](../Page/日本.md "wikilink")[橫濱開始舉行第三次日本巡迴演唱會](https://zh.wikipedia.org/wiki/橫濱 "wikilink")《Super
-Junior-D\&E Japan Tour 2018 \~STYLE\~》。
+2018年8月8日，發行日語第二張正規專輯《[Style](https://zh.wikipedia.org/wiki/Style_\(Super_Junior_Donghae_&_Eunhyuk專輯\) "wikilink")》，並宣布於同年9月7日於[日本](../Page/日本.md "wikilink")[橫濱開始舉行第三次日本巡迴演唱會](https://zh.wikipedia.org/wiki/橫濱 "wikilink")《Super Junior-D\&E Japan Tour 2018 \~STYLE\~》。
 
-8月16日，發行韓語第二張迷你專輯《['Bout
-You](../Page/'Bout_You.md "wikilink")》回歸韓國歌壇，定＜'Bout
-You＞為專輯主打歌曲，進行該專輯宣傳活動。
+8月16日，發行韓語第二張迷你專輯《['Bout You](../Page/'Bout_You.md "wikilink")》回歸韓國歌壇，定＜'Bout You＞為專輯主打歌曲，進行該專輯宣傳活動。
 
 ### 2019年至今：Danger、韓國首場專屬演唱會、第二次亞洲巡演
 
-2019年3月7日，[Label SJ宣布Super](../Page/Label_SJ.md "wikilink")
-Junior-D\&E將於4月13與14日兩天在首爾奧林匹克公園的奧林匹克廳舉行首場國內演唱會《THE
-D\&E》，銀赫在首次韓國舉行的演唱會《The D\&E》，擔任舞台總監與舞台導演。
+2019年3月7日，[Label SJ宣布Super](../Page/Label_SJ.md "wikilink") Junior-D\&E將於4月13與14日兩天在首爾奧林匹克公園的奧林匹克廳舉行首場國內演唱會《THE D\&E》，銀赫在首次韓國舉行的演唱會《The D\&E》，擔任舞台總監與舞台導演。
 
-4月1日,馬來西亞主辦單位MIC Entertainment Group宣布Super
-Junior-D\&E將於5月4日在吉隆坡美拉華蒂體育館舉行《THE D\&E》
-。
+4月1日,馬來西亞主辦單位MIC Entertainment Group宣布Super Junior-D\&E將於5月4日在吉隆坡美拉華蒂體育館舉行《THE D\&E》 。
 
-4月2日,[Label
-SJ宣布將於](../Page/Label_SJ.md "wikilink")4月12日公開新專輯先行曲《Gloomy》MV,14日由線上音源網站發布第三張韓語迷你專輯《[Danger](../Page/Danger_\(Super_Junior-D&E迷你專輯\).md "wikilink")》，並於隔日發售實體專輯。
+4月2日,[Label SJ宣布將於](../Page/Label_SJ.md "wikilink")4月12日公開新專輯先行曲《Gloomy》MV,14日由線上音源網站發布第三張韓語迷你專輯《[Danger](../Page/Danger_\(Super_Junior-D&E迷你專輯\).md "wikilink")》，並於隔日發售實體專輯。
 
 4月26日,臺灣主辦單位超級圓頂宣布Super Junior-D\&E將於6月22與23日兩天在台灣新莊體育館舉行《THE D\&E》。
 
@@ -123,12 +91,10 @@ SJ宣布將於](../Page/Label_SJ.md "wikilink")4月12日公開新專輯先行曲
 
 <!-- end list -->
 
-  - 2012：[Oppa,
-    Oppa](https://zh.wikipedia.org/wiki/Oppa,_Oppa#日文單曲《Oppa,_Oppa》 "wikilink")
+  - 2012：[Oppa, Oppa](https://zh.wikipedia.org/wiki/Oppa,_Oppa#日文單曲《Oppa,_Oppa》 "wikilink")
   - 2013：[I Wanna Dance](../Page/I_Wanna_Dance.md "wikilink")
   - 2014：[Skeleton](../Page/Skeleton_\(Donghae_&_Eunhyuk單曲\).md "wikilink")
-  - 2015：[Let's Get It
-    On](https://zh.wikipedia.org/wiki/Let's_Get_It_On "wikilink")
+  - 2015：[Let's Get It On](https://zh.wikipedia.org/wiki/Let's_Get_It_On "wikilink")
 
 <!-- end list -->
 
@@ -146,8 +112,7 @@ SJ宣布將於](../Page/Label_SJ.md "wikilink")4月12日公開新專輯先行曲
 
 ## 演唱會
 
-  - Super Junior-D\&E 第一次日本巡迴演唱會《Super Junior-D\&E The 1st Japan Tour
-    2014》
+  - Super Junior-D\&E 第一次日本巡迴演唱會《Super Junior-D\&E The 1st Japan Tour 2014》
 
 |               |       |                      |
 | ------------- | ----- | -------------------- |
@@ -169,8 +134,7 @@ SJ宣布將於](../Page/Label_SJ.md "wikilink")4月12日公開新專輯先行曲
 | 日期        | 演唱會站次 | 舉行地點                 |
 | 2015年3月5日 | 首爾站   | 三成洞SMTOWN coexartium |
 
-  - Super Junior-D\&E 第二次日本巡迴演唱會《Super Junior-D\&E The 2nd Japan Tour
-    2015》
+  - Super Junior-D\&E 第二次日本巡迴演唱會《Super Junior-D\&E The 2nd Japan Tour 2015》
 
 |               |       |                           |
 | ------------- | ----- | ------------------------- |
@@ -190,8 +154,7 @@ SJ宣布將於](../Page/Label_SJ.md "wikilink")4月12日公開新專輯先行曲
 | 2015年6月27日  | 上海站   | 上海大舞台              |
 | 2015年8月12日  | 曼谷站   | Royal Paragon Hall |
 
-  - Super Junior-D\&E 第三次日本巡迴演唱會《Super Junior-D\&E Japan Tour 2018
-    \~STYLE\~》
+  - Super Junior-D\&E 第三次日本巡迴演唱會《Super Junior-D\&E Japan Tour 2018 \~STYLE\~》
 
 |                |       |             |
 | -------------- | ----- | ----------- |
@@ -314,15 +277,9 @@ SJ宣布將於](../Page/Label_SJ.md "wikilink")4月12日公開新專輯先行曲
 
   - – 韓國官方網站 ([S.M. Entertainment](../Page/SM娛樂.md "wikilink"))
 
-  - – 日本官方網站 ([Avex
-    Group](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink"))
+  - – 日本官方網站 ([Avex Group](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink"))
 
-[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
-[Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
+[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink")
 
 1.
 

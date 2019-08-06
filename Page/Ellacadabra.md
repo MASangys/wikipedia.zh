@@ -25,8 +25,6 @@
 
 </div>
 
-[Category:官恩娜音樂專輯](https://zh.wikipedia.org/wiki/Category:官恩娜音樂專輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:官恩娜音樂專輯](https://zh.wikipedia.org/wiki/Category:官恩娜音樂專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
 1.  「Ellacadabra」是一個西方流傳下來的魔法咒語。

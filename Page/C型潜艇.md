@@ -6,8 +6,7 @@
 
 [Shadowgraph_S-56_submarine.svg](https://zh.wikipedia.org/wiki/File:Shadowgraph_S-56_submarine.svg "fig:Shadowgraph_S-56_submarine.svg")
 
-共有五个船坞建造该艇，三个在列宁格勒(\#189, \#194,
-和\#196)，一个在尼古拉耶夫(\#198)一个在高尔基(\#112).太平洋舰队所属的潜艇是预先生产好艇段，由铁路运到亚洲,再在符拉迪沃斯托克的202厂组装。首艇于1935年12月建成，于12月15日首次潜水。次年8月首艇和第二艇开始官方测试，尽管有几项数据没达到要求（如航速慢了半节，只有19.5节）并有一些技术困难，但是苏联海军还是接收了它们。
+共有五个船坞建造该艇，三个在列宁格勒(\#189, \#194, 和\#196)，一个在尼古拉耶夫(\#198)一个在高尔基(\#112).太平洋舰队所属的潜艇是预先生产好艇段，由铁路运到亚洲,再在符拉迪沃斯托克的202厂组装。首艇于1935年12月建成，于12月15日首次潜水。次年8月首艇和第二艇开始官方测试，尽管有几项数据没达到要求（如航速慢了半节，只有19.5节）并有一些技术困难，但是苏联海军还是接收了它们。
 
 第三条仍然采用德国部件，但是由于德国柴油机交货延迟使用了国产的柴油机。这一改变使得工程进度大大放慢，后来对图纸的修改被正式确定下来，成为国产潜艇的模版。苏联海军的四大舰队都大量订货，其中巴伦支海、北方舰队和太平洋舰队的艇在列宁格勒生产，黑海舰队的在尼古拉耶夫船厂生产，还有一些给巴伦支海舰队和北方舰队的在高尔基厂生产。
 
@@ -33,10 +32,7 @@
 
 ## 實戰
 
-[Soviet_S-1_sea_trials_1936.jpg](https://zh.wikipedia.org/wiki/File:Soviet_S-1_sea_trials_1936.jpg "fig:Soviet_S-1_sea_trials_1936.jpg")
-[058_-_Wladiwostok_2015_(23798929693).jpg](https://zh.wikipedia.org/wiki/File:058_-_Wladiwostok_2015_\(23798929693\).jpg "fig:058_-_Wladiwostok_2015_(23798929693).jpg")
-该级艇在二战中击沉了82,770吨商船并击沉了七艘军舰（包括一艘潜艇），占到了苏联海军潜艇二战击沉吨位的三分之一。
-蘇聯海軍的S級潛艇在第二次世界大戰時進行的其中一次最有名的實戰是在1945年1月30日，當時有一艘德國客輪[古斯特洛夫號載著](https://zh.wikipedia.org/wiki/古斯特洛夫號 "wikilink")10,582名從[拉脫維亞](../Page/拉脫維亞.md "wikilink")的庫爾蘭，[但澤和](../Page/格但斯克.md "wikilink")[東普魯士](../Page/東普魯士.md "wikilink")撤走的德國軍民，當晚一艘蘇聯S級潛艇S-13號在马林斯科艇长指挥下發現了它並向它發射了3杖魚雷把其擊沉，最新估计造成9000人死亡，为航海史上最高的沉船死亡人数。\[3\]
+[Soviet_S-1_sea_trials_1936.jpg](https://zh.wikipedia.org/wiki/File:Soviet_S-1_sea_trials_1936.jpg "fig:Soviet_S-1_sea_trials_1936.jpg") [058_-_Wladiwostok_2015_(23798929693).jpg](https://zh.wikipedia.org/wiki/File:058_-_Wladiwostok_2015_\(23798929693\).jpg "fig:058_-_Wladiwostok_2015_(23798929693).jpg") 该级艇在二战中击沉了82,770吨商船并击沉了七艘军舰（包括一艘潜艇），占到了苏联海军潜艇二战击沉吨位的三分之一。 蘇聯海軍的S級潛艇在第二次世界大戰時進行的其中一次最有名的實戰是在1945年1月30日，當時有一艘德國客輪[古斯特洛夫號載著](https://zh.wikipedia.org/wiki/古斯特洛夫號 "wikilink")10,582名從[拉脫維亞](../Page/拉脫維亞.md "wikilink")的庫爾蘭，[但澤和](../Page/格但斯克.md "wikilink")[東普魯士](../Page/東普魯士.md "wikilink")撤走的德國軍民，當晚一艘蘇聯S級潛艇S-13號在马林斯科艇长指挥下發現了它並向它發射了3杖魚雷把其擊沉，最新估计造成9000人死亡，为航海史上最高的沉船死亡人数。\[3\]
 
 2月10日，S-13又发现了德国医院船“斯图本”将军号把它错当成埃姆登级巡洋舰。12:50用两条鱼雷命中目标，船上3608人获救659人死亡，当时船上大部分是难民（800人）和伤兵（2800人）。
 
@@ -46,8 +42,7 @@
 
 ## S級在中國
 
-[Модель_подводной_лодки_С-56.JPG](https://zh.wikipedia.org/wiki/File:Модель_подводной_лодки_С-56.JPG "fig:Модель_подводной_лодки_С-56.JPG")
-中國在1954年7月在[青島接收到兩艘S級潛艇](https://zh.wikipedia.org/wiki/青島 "wikilink")，分別改名為"新中國11號"和"新中國12號"。
+[Модель_подводной_лодки_С-56.JPG](https://zh.wikipedia.org/wiki/File:Модель_подводной_лодки_С-56.JPG "fig:Модель_подводной_лодки_С-56.JPG") 中國在1954年7月在[青島接收到兩艘S級潛艇](https://zh.wikipedia.org/wiki/青島 "wikilink")，分別改名為"新中國11號"和"新中國12號"。
 
   - 新中國11號(原名S-52號，舷號401)
 
@@ -84,22 +79,15 @@
 
 ## 外部連結
 
-  - [新中國11號, 新中國12號, 新中國13號,
-    新中國14號](https://web.archive.org/web/20080522144030/http://60.250.180.26/pla/5741/5211.html)
+  - [新中國11號, 新中國12號, 新中國13號, 新中國14號](https://web.archive.org/web/20080522144030/http://60.250.180.26/pla/5741/5211.html)
 
 <!-- end list -->
 
   - [中國潛艇史](http://60.250.180.26/theme/theme-24/24-index.html)
 
-[Category:蘇俄潛艇](https://zh.wikipedia.org/wiki/Category:蘇俄潛艇 "wikilink")
-[Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")
-[Category:中國人民解放軍海軍潛艇](https://zh.wikipedia.org/wiki/Category:中國人民解放軍海軍潛艇 "wikilink")
-[Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
-[Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")
+[Category:蘇俄潛艇](https://zh.wikipedia.org/wiki/Category:蘇俄潛艇 "wikilink") [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink") [Category:中國人民解放軍海軍潛艇](https://zh.wikipedia.org/wiki/Category:中國人民解放軍海軍潛艇 "wikilink") [Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink") [Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")
 
 1.  <http://www.deepstorm.ru/DeepStorm.files/17-45/c%20IX/list.htm>
 2.  Морозов, Кулагин, Эски в бою, 2008, с. 10
 3.  <http://uboat.net/allies/warships/ship/5098.html>
-4.  М.Морозов. Гибель «Вильгельма Густлова»: правда и домыслы. —
-    Военно-Исторический сборник «Мифы Великой Отечественной», М.:
-    Яуза, Эксмо, 2008 ISBN 978-5-699-28293-7
+4.  М.Морозов. Гибель «Вильгельма Густлова»: правда и домыслы. — Военно-Исторический сборник «Мифы Великой Отечественной», М.: Яуза, Эксмо, 2008 ISBN 978-5-699-28293-7

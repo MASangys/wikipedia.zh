@@ -1,6 +1,4 @@
-**東方鈴奈庵 ～ Forbidden
-Scrollery.**（）是由[ZUN](../Page/ZUN.md "wikilink")编剧、作畫的官方[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。該漫畫從2012年10月開始在《[月刊Comp
-Ace](../Page/月刊Comp_Ace.md "wikilink")》雜誌上連載。
+**東方鈴奈庵 ～ Forbidden Scrollery.**（）是由[ZUN](../Page/ZUN.md "wikilink")编剧、作畫的官方[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。該漫畫從2012年10月開始在《[月刊Comp Ace](../Page/月刊Comp_Ace.md "wikilink")》雜誌上連載。
 
 漫畫介绍了新人物本居小鈴在覺醒了“讀懂他人所無法理解的書籍”的能力之後的故事。
 
@@ -385,8 +383,6 @@ Ace](../Page/月刊Comp_Ace.md "wikilink")》雜誌上連載。
 
 ## 参考资料
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink")
 
 1.

@@ -1,9 +1,6 @@
-**KBS
-TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS電視台晨間播放的](https://zh.wikipedia.org/wiki/KBS "wikilink")[電視連續劇系列](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於1987年3月。此時段的獨特之處為播放的劇集全部以60、70年代的韓國作背景。
+**KBS TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS電視台晨間播放的](https://zh.wikipedia.org/wiki/KBS "wikilink")[電視連續劇系列](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，創立於1987年3月。此時段的獨特之處為播放的劇集全部以60、70年代的韓國作背景。
 
-此時段在早年於[KBS
-1TV播映](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink")，後因製作成本於2009年播畢《青春禮讚》，並將該劇由原定120集減少至75集後暫停。在此之後，KBS電視台僅於兩年後便恢復此時段，並改由[KBS
-2TV播放](https://zh.wikipedia.org/wiki/KBS_2TV "wikilink")，取代原本以現代為背景的[晨間連續劇](../Page/KBS晨間連續劇.md "wikilink")。然而，在時段恢復後，劇集收視率出現每部劇比前一部劇稍低的情況，由2011年《福熙姐》的平均12.5%跌至2018年《波濤啊，波濤啊》的平均7.4%。加上，時代劇背景令廣告難以在劇集中置入，使劇集拍攝成本難以透過廣告收益減少。因此，KBS再於2018年8月廢除此時段。
+此時段在早年於[KBS 1TV播映](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink")，後因製作成本於2009年播畢《青春禮讚》，並將該劇由原定120集減少至75集後暫停。在此之後，KBS電視台僅於兩年後便恢復此時段，並改由[KBS 2TV播放](https://zh.wikipedia.org/wiki/KBS_2TV "wikilink")，取代原本以現代為背景的[晨間連續劇](../Page/KBS晨間連續劇.md "wikilink")。然而，在時段恢復後，劇集收視率出現每部劇比前一部劇稍低的情況，由2011年《福熙姐》的平均12.5%跌至2018年《波濤啊，波濤啊》的平均7.4%。加上，時代劇背景令廣告難以在劇集中置入，使劇集拍攝成本難以透過廣告收益減少。因此，KBS再於2018年8月廢除此時段。
 
 ## 播放時間
 
@@ -1188,14 +1185,10 @@ TV小說**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
 ## 相關項目
 
   - [NHK TV小說晨間劇](../Page/連續電視小說.md "wikilink")（日本）
-  - [KBS
-    2TV晨間連續劇](https://zh.wikipedia.org/wiki/KBS_2TV晨間連續劇 "wikilink")
+  - [KBS 2TV晨間連續劇](https://zh.wikipedia.org/wiki/KBS_2TV晨間連續劇 "wikilink")
   - [MBC晨間連續劇](../Page/MBC晨間連續劇.md "wikilink")
   - [SBS晨間連續劇](../Page/SBS晨間連續劇.md "wikilink")
   - [tvN晨間連續劇](https://zh.wikipedia.org/wiki/tvN晨間連續劇 "wikilink")
   - [JTBC晨間連續劇](https://zh.wikipedia.org/wiki/JTBC晨間連續劇 "wikilink")
 
-[Category:KBS_TV小說](https://zh.wikipedia.org/wiki/Category:KBS_TV小說 "wikilink")
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:KBS_TV小說](https://zh.wikipedia.org/wiki/Category:KBS_TV小說 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

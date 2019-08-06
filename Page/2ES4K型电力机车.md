@@ -21,14 +21,8 @@
 
   - [ТРАНСМАШХОЛДИНГ: 2ЭС4К](http://www.tmholding.ru/products/magistralnye_gruzovye_elektrovozy_postoyannogo_toka/2es4k.html)
 
-  - [Новочеркасский электровозостроительный завод: ГРУЗОВОЙ ЭЛЕКТРОВОЗ
-    ПОСТОЯННОГО
-    ТОКА 2ЭС4К](https://web.archive.org/web/20120511101120/http://www.nevz.com/Ru/2es4k.htm)
+  - [Новочеркасский электровозостроительный завод: ГРУЗОВОЙ ЭЛЕКТРОВОЗ ПОСТОЯННОГО ТОКА 2ЭС4К](https://web.archive.org/web/20120511101120/http://www.nevz.com/Ru/2es4k.htm)
 
-[Category:俄罗斯电力机车](https://zh.wikipedia.org/wiki/Category:俄罗斯电力机车 "wikilink")
-[Category:诺沃切尔卡斯克制铁路机车](https://zh.wikipedia.org/wiki/Category:诺沃切尔卡斯克制铁路机车 "wikilink")
-[Category:乌克兰电力机车](https://zh.wikipedia.org/wiki/Category:乌克兰电力机车 "wikilink")
-[Category:Bo-Bo+Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo+Bo-Bo軸式機車 "wikilink")
-[Category:3000伏直流电力机车](https://zh.wikipedia.org/wiki/Category:3000伏直流电力机车 "wikilink")
+[Category:俄罗斯电力机车](https://zh.wikipedia.org/wiki/Category:俄罗斯电力机车 "wikilink") [Category:诺沃切尔卡斯克制铁路机车](https://zh.wikipedia.org/wiki/Category:诺沃切尔卡斯克制铁路机车 "wikilink") [Category:乌克兰电力机车](https://zh.wikipedia.org/wiki/Category:乌克兰电力机车 "wikilink") [Category:Bo-Bo+Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo+Bo-Bo軸式機車 "wikilink") [Category:3000伏直流电力机车](https://zh.wikipedia.org/wiki/Category:3000伏直流电力机车 "wikilink")
 
 1.

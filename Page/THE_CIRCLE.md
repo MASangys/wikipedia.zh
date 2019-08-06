@@ -1,6 +1,4 @@
-《**THE
-CIRCLE**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十四张录音室专辑。2005年4月6日由[VERMILLION
-RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
+《**THE CIRCLE**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十四张录音室专辑。2005年4月6日由[VERMILLION RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約55.7萬張。
 
@@ -16,10 +14,6 @@ RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 ## 参考文献
 
-[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
-[Category:2005年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:2005年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink")
+[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink") [Category:2005年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯週榜冠軍作品 "wikilink") [Category:2005年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯月榜冠軍作品 "wikilink") [Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink")
 
 1.

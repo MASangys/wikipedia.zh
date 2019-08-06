@@ -1,8 +1,6 @@
-[TKO_Market_Entrance_201803.jpg](https://zh.wikipedia.org/wiki/File:TKO_Market_Entrance_201803.jpg "fig:TKO_Market_Entrance_201803.jpg")
-[TKO_Market_interior_201803.jpg](https://zh.wikipedia.org/wiki/File:TKO_Market_interior_201803.jpg "fig:TKO_Market_interior_201803.jpg")
+[TKO_Market_Entrance_201803.jpg](https://zh.wikipedia.org/wiki/File:TKO_Market_Entrance_201803.jpg "fig:TKO_Market_Entrance_201803.jpg") [TKO_Market_interior_201803.jpg](https://zh.wikipedia.org/wiki/File:TKO_Market_interior_201803.jpg "fig:TKO_Market_interior_201803.jpg")
 
-**TKO街市**位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[西貢區](../Page/西貢區.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")[TKO
-Gateway地下](../Page/TKO_Gateway.md "wikilink")，被喻為香港「最貴街市」，現時由[領展房地產投資信託基金](../Page/領展房地產投資信託基金.md "wikilink")經營。
+**TKO街市**位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[西貢區](../Page/西貢區.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")[TKO Gateway地下](../Page/TKO_Gateway.md "wikilink")，被喻為香港「最貴街市」，現時由[領展房地產投資信託基金](../Page/領展房地產投資信託基金.md "wikilink")經營。
 
 ## 歷史
 
@@ -10,14 +8,7 @@ Gateway地下](../Page/TKO_Gateway.md "wikilink")，被喻為香港「最貴街�
 
 街市於2017年10月起封閉三個半月大翻新，期間領展提供免費接駁巴士來往尚德街市。街市在2018年2月重開，再招標引入商戶，現有檔販表示鋪位租金高昂，相信翻新後將大幅加租，難以繼續經營，寧願結業。區議員陸平才表示不少坑口居民已「跨區」買平餸，預計領展將大幅加租，並引入連鎖商店，勢引發物價上升。\[1\]街市重開後改稱為TKO街市。
 
-TKO Market Hardware Store and Fish
-Stall.jpg|[五金店及魚檔](https://zh.wikipedia.org/wiki/五金店 "wikilink")
-TKO Market Fruit and Meat Stall.jpg|肉檔 TKO Market Joss Stick and Candle
-and Sacrifice Store, Seafood Stall.jpg|香燭祭品店及海產檔 TKO Market Candy and
-Roast Stall.jpg|糖果及[燒味](../Page/燒味.md "wikilink")店 TKO Market Dried
-Seafood Store, Bread Shop and Vegetable
-Stall.jpg|[海味及麵包店](https://zh.wikipedia.org/wiki/海味 "wikilink")
-TKO Market Flower Shop.jpg|花店
+TKO Market Hardware Store and Fish Stall.jpg|[五金店及魚檔](https://zh.wikipedia.org/wiki/五金店 "wikilink") TKO Market Fruit and Meat Stall.jpg|肉檔 TKO Market Joss Stick and Candle and Sacrifice Store, Seafood Stall.jpg|香燭祭品店及海產檔 TKO Market Candy and Roast Stall.jpg|糖果及[燒味](../Page/燒味.md "wikilink")店 TKO Market Dried Seafood Store, Bread Shop and Vegetable Stall.jpg|[海味及麵包店](https://zh.wikipedia.org/wiki/海味 "wikilink") TKO Market Flower Shop.jpg|花店
 
 | 翻新前的厚德街市                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -51,18 +42,13 @@ TKO Market Flower Shop.jpg|花店
 
 [分類:坑口](https://zh.wikipedia.org/wiki/分類:坑口 "wikilink")
 
-[Category:香港公共屋邨街市](https://zh.wikipedia.org/wiki/Category:香港公共屋邨街市 "wikilink")
-[Category:領展商場及停車場](https://zh.wikipedia.org/wiki/Category:領展商場及停車場 "wikilink")
+[Category:香港公共屋邨街市](https://zh.wikipedia.org/wiki/Category:香港公共屋邨街市 "wikilink") [Category:領展商場及停車場](https://zh.wikipedia.org/wiki/Category:領展商場及停車場 "wikilink")
 
 1.
-2.  [「全港最貴」街市
-    領匯明年自營](http://hk.news.yahoo.com/全港最貴-街市-領匯明年自營-220347643.html)
-    《星島日報》 2012年12月1日
-3.  [厚德街市三級火
-    長燒14小時](http://hk.apple.nextmedia.com/news/art/20070331/6958728)，蘋果日報，2007年3月31日
+2.  [「全港最貴」街市 領匯明年自營](http://hk.news.yahoo.com/全港最貴-街市-領匯明年自營-220347643.html) 《星島日報》 2012年12月1日
+3.  [厚德街市三級火 長燒14小時](http://hk.apple.nextmedia.com/news/art/20070331/6958728)，蘋果日報，2007年3月31日
 4.  [厚德街市三級火示意圖](http://hk.apple.nextmedia.com/news/art/20070331/6958729)，蘋果日報，2007年3月31日
 5.  [清明前入貨租戶損失百萬元](http://hk.apple.nextmedia.com/news/art/20070331/6958730)，蘋果日報，2007年3月31日
 6.
-7.  [厚德街市商戶街頭擺檔](http://www.takungpao.com:82/news/07/05/01/GW-730064.htm)
-    ，大公報，2007年5月1日
+7.  [厚德街市商戶街頭擺檔](http://www.takungpao.com:82/news/07/05/01/GW-730064.htm) ，大公報，2007年5月1日
 8.

@@ -12,8 +12,7 @@
 
   - [1988年上海市甲型肝炎大流行](../Page/1988年上海市甲型肝炎大流行.md "wikilink")
 
-[Category:SARS](https://zh.wikipedia.org/wiki/Category:SARS "wikilink")
-[Category:上海陈良宇时期](https://zh.wikipedia.org/wiki/Category:上海陈良宇时期 "wikilink")
+[Category:SARS](https://zh.wikipedia.org/wiki/Category:SARS "wikilink") [Category:上海陈良宇时期](https://zh.wikipedia.org/wiki/Category:上海陈良宇时期 "wikilink")
 
 1.
 

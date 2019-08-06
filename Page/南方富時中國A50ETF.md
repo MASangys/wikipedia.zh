@@ -15,19 +15,14 @@
   - [南方東英ETF](http://www.csopasset.com/etf)
   - [南方富时中国A50ETF在东京证交所上市](http://finance.qq.com/a/20130228/001645.htm)
 
-[Category:香港交易所買賣基金](https://zh.wikipedia.org/wiki/Category:香港交易所買賣基金 "wikilink")
-[Category:香港交易所上市認股證](https://zh.wikipedia.org/wiki/Category:香港交易所上市認股證 "wikilink")
-[Category:香港交易所上市牛熊證](https://zh.wikipedia.org/wiki/Category:香港交易所上市牛熊證 "wikilink")
+[Category:香港交易所買賣基金](https://zh.wikipedia.org/wiki/Category:香港交易所買賣基金 "wikilink") [Category:香港交易所上市認股證](https://zh.wikipedia.org/wiki/Category:香港交易所上市認股證 "wikilink") [Category:香港交易所上市牛熊證](https://zh.wikipedia.org/wiki/Category:香港交易所上市牛熊證 "wikilink")
 
-[Category:日本東京證券交易所買賣基金](https://zh.wikipedia.org/wiki/Category:日本東京證券交易所買賣基金 "wikilink")
-[Category:中華人民共和國經濟](https://zh.wikipedia.org/wiki/Category:中華人民共和國經濟 "wikilink")
+[Category:日本東京證券交易所買賣基金](https://zh.wikipedia.org/wiki/Category:日本東京證券交易所買賣基金 "wikilink") [Category:中華人民共和國經濟](https://zh.wikipedia.org/wiki/Category:中華人民共和國經濟 "wikilink")
 
 1.  [南方東英資產管理有限公司](http://www.csopasset.com/)
-2.  [南方富時中國A50
-    ETF資料](http://www.csopasset.com/index.php?page=etf-docs&hl=zh_CN)
+2.  [南方富時中國A50 ETF資料](http://www.csopasset.com/index.php?page=etf-docs&hl=zh_CN)
 3.  [南方富時中國A50ETF提供首份章程](http://www.hkexnews.hk/listedco/listconews/SEHK/2012/0820/LTN20120820007_C.pdf)
 4.  [南方富時中國A50ETF提供修訂章程](http://www.hkexnews.hk/listedco/listconews/SEHK/2012/1101/LTN201211011253_C.pdf)
 5.  [南方富時中國A50ETF批准使用雙幣結算通告](http://www.hkexnews.hk/listedco/listconews/SEHK/2012/1101/LTN20121101034_C.pdf)
 6.  [南方富時中國A50ETF開始使用雙幣結算通告](http://www.hkexnews.hk/listedco/listconews/SEHK/2012/1101/LTN20121101022_C.pdf)
-7.  [華夏南方RQFII-ETF27日在東交所挂牌](http://www.cs.com.cn/tzjj/jjdt/201302/t20130226_3873362.html)
-    中證網，2013年2月26日
+7.  [華夏南方RQFII-ETF27日在東交所挂牌](http://www.cs.com.cn/tzjj/jjdt/201302/t20130226_3873362.html) 中證網，2013年2月26日

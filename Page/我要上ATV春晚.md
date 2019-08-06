@@ -200,11 +200,8 @@
 
 ## 外部連結
 
-  - [亞洲電視節目網頁 -
-    我要上ATV春晚](https://web.archive.org/web/20130102025630/http://www.hkatv.com/v5/12/chunwan2012/)
+  - [亞洲電視節目網頁 - 我要上ATV春晚](https://web.archive.org/web/20130102025630/http://www.hkatv.com/v5/12/chunwan2012/)
 
 ## 電視節目的變遷
 
-[Category:2012年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2012年亞洲電視節目 "wikilink")
-[Category:2013年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2013年亞洲電視節目 "wikilink")
-[Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")
+[Category:2012年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2012年亞洲電視節目 "wikilink") [Category:2013年亞洲電視節目](https://zh.wikipedia.org/wiki/Category:2013年亞洲電視節目 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")

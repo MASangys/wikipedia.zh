@@ -1,5 +1,4 @@
-『**The Best
-Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。2010年8月10日發售。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+『**The Best Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。2010年8月10日發售。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 概要
 
@@ -9,8 +8,7 @@ Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono
 
 ### Disc1
 
-1.  **[We are
-    Buono\!〜Buono\!的主題曲♡](../Page/We_are_Buono!.md "wikilink")**
+1.  **[We are Buono\!〜Buono\!的主題曲♡](../Page/We_are_Buono!.md "wikilink")**
     （作詞・作曲・編曲:[AKIRASTAR](https://zh.wikipedia.org/wiki/AKIRASTAR "wikilink")）
       -
         3rd專輯「[We are Buono\!](../Page/We_are_Buono!.md "wikilink")」收錄。
@@ -28,8 +26,7 @@ Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono
       -
         2nd專輯「[Buono\!2](../Page/Buono!2.md "wikilink")」收錄。
 5.  **[真實的自我](../Page/真實的自我_\(Buono!單曲\).md "wikilink")**
-    （作詞：岩里祐穂、作曲：[木之下慶行](https://zh.wikipedia.org/wiki/木之下慶行 "wikilink")、編曲：西川
-    進）
+    （作詞：岩里祐穂、作曲：[木之下慶行](https://zh.wikipedia.org/wiki/木之下慶行 "wikilink")、編曲：西川 進）
       -
         1st單曲。
 6.  **[Take It Easy\!](../Page/Take_It_Easy!.md "wikilink")**
@@ -48,8 +45,7 @@ Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono
     （作詞：岩里祐穂、作曲：AKIRASTAR、編曲：西川進）
       -
         2nd專輯「Buono\!2」收錄。
-10. **[Lotta Love Lotta
-    Love](../Page/Lotta_Love_Lotta_Love.md "wikilink")**
+10. **[Lotta Love Lotta Love](../Page/Lotta_Love_Lotta_Love.md "wikilink")**
     （作詞：岩里祐穂、作曲：井上慎二郎、編曲：西川進）
       -
         5th單曲。
@@ -73,8 +69,7 @@ Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono
     （作詞：三浦徳子、作曲：つんく、編曲：西川 進）
       -
         10th單曲。
-16. **[Last Forever（2010 mix
-    version）](../Page/Café_Buono!.md "wikilink")**
+16. **[Last Forever（2010 mix version）](../Page/Café_Buono!.md "wikilink")**
     （作詞：川上夏季、作曲・編曲：西川 進）
       -
         1st專輯「Café Buono\!」收錄曲的混音。
@@ -143,6 +138,4 @@ Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono
 
   - [Hello\!Project唱片](https://web.archive.org/web/20131101131323/http://www.helloproject.com/discography/buono/a_005.html)
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:Buono\!音樂專輯](https://zh.wikipedia.org/wiki/Category:Buono!音樂專輯 "wikilink")
-[Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:Buono\!音樂專輯](https://zh.wikipedia.org/wiki/Category:Buono!音樂專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")

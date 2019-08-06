@@ -1,5 +1,4 @@
-**延伸因子G**（Elongation Factor
-G），簡稱**EF-G**，又稱**EF-2**，曾被稱爲**轉位酶**（translocase），是一種[原核延伸因子](https://zh.wikipedia.org/wiki/原核延伸因子 "wikilink")，具有[GTP酶活性](https://zh.wikipedia.org/wiki/GTP酶 "wikilink")。現認爲EF-G的GTP酶活性與tRNA和mRNA穿過核糖體的協同移動有關\[1\]。
+**延伸因子G**（Elongation Factor G），簡稱**EF-G**，又稱**EF-2**，曾被稱爲**轉位酶**（translocase），是一種[原核延伸因子](https://zh.wikipedia.org/wiki/原核延伸因子 "wikilink")，具有[GTP酶活性](https://zh.wikipedia.org/wiki/GTP酶 "wikilink")。現認爲EF-G的GTP酶活性與tRNA和mRNA穿過核糖體的協同移動有關\[1\]。
 
 ## 功能
 

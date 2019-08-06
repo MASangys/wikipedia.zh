@@ -1,5 +1,4 @@
-**JAM Project 作品列表**列出[JAM
-Project所有音樂作品](../Page/JAM_Project.md "wikilink")。
+**JAM Project 作品列表**列出[JAM Project所有音樂作品](../Page/JAM_Project.md "wikilink")。
 
 ## 單曲
 
@@ -514,8 +513,7 @@ LACM-14406（動畫盤）</p></td>
 
 ## 其他
 
-(2006年12月6日／LACA-5575)
-(PC遊戲全年齡版『[マブラヴオルタネイティヴ](https://zh.wikipedia.org/wiki/マブラヴ_オルタネイティヴ "wikilink")』插入歌)
+(2006年12月6日／LACA-5575) (PC遊戲全年齡版『[マブラヴオルタネイティヴ](https://zh.wikipedia.org/wiki/マブラヴ_オルタネイティヴ "wikilink")』插入歌)
 
 (2007年12月26日／LACM-4445)
 

@@ -121,8 +121,7 @@
 
 ## 軼事
 
-  - 隨碟附送的海報出現字體上的人為錯誤，在下方的字句「星煥國際呈獻｜樂瞳2013全新專輯 愛的魔法 Love
-    Magic」，其中瞳打成「曈」字。
+  - 隨碟附送的海報出現字體上的人為錯誤，在下方的字句「星煥國際呈獻｜樂瞳2013全新專輯 愛的魔法 Love Magic」，其中瞳打成「曈」字。
 
 ## 歌曲獎項
 
@@ -136,14 +135,8 @@
 
 </div>
 
-[Category:樂瞳音樂專輯](https://zh.wikipedia.org/wiki/Category:樂瞳音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink")
-[Category:愛情題材歌曲](https://zh.wikipedia.org/wiki/Category:愛情題材歌曲 "wikilink")
-[Category:魔法題材樂曲](https://zh.wikipedia.org/wiki/Category:魔法題材樂曲 "wikilink")
+[Category:樂瞳音樂專輯](https://zh.wikipedia.org/wiki/Category:樂瞳音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink") [Category:愛情題材歌曲](https://zh.wikipedia.org/wiki/Category:愛情題材歌曲 "wikilink") [Category:魔法題材樂曲](https://zh.wikipedia.org/wiki/Category:魔法題材樂曲 "wikilink")
 
-1.  \[[http://skymusic.com.hk/?p=41171\]樂瞳](http://skymusic.com.hk/?p=41171%5D樂瞳)
-    – 愛的魔法 Sky Music
+1.  \[[http://skymusic.com.hk/?p=41171\]樂瞳](http://skymusic.com.hk/?p=41171%5D樂瞳) – 愛的魔法 Sky Music
 2.  \[[http://hk.ent.yahoo.com/news/%E6%A8%82%E7%9E%B3%E5%AE%A3%E5%82%B3%E6%96%B0%E6%AD%8C%E7%88%86%E7%B0%BD%E6%98%9F%E7%85%A5%E5%85%A9%E5%B9%B4-125200324.html\]樂瞳宣傳新歌爆簽星煥兩年](http://hk.ent.yahoo.com/news/%E6%A8%82%E7%9E%B3%E5%AE%A3%E5%82%B3%E6%96%B0%E6%AD%8C%E7%88%86%E7%B0%BD%E6%98%9F%E7%85%A5%E5%85%A9%E5%B9%B4-125200324.html%5D樂瞳宣傳新歌爆簽星煥兩年)
-3.  \[[http://hk.ent.yahoo.com/news/%E6%A8%82%E7%9E%B3%E6%8E%9B%E5%90%8D%E6%AD%8C%E6%89%8B-%E5%94%B1%E7%A2%9F%E6%8E%A8%E5%87%BA%E7%84%A1%E6%9C%9F-%E8%96%9B%E5%87%B1%E7%90%AA%E5%90%A6%E8%AA%8D%E7%84%A1%E7%90%86%E8%BE%AD%E6%BC%94%E5%85%AC%E7%9B%8A%E9%87%91-223000582.html\]樂瞳掛名歌手](http://hk.ent.yahoo.com/news/%E6%A8%82%E7%9E%B3%E6%8E%9B%E5%90%8D%E6%AD%8C%E6%89%8B-%E5%94%B1%E7%A2%9F%E6%8E%A8%E5%87%BA%E7%84%A1%E6%9C%9F-%E8%96%9B%E5%87%B1%E7%90%AA%E5%90%A6%E8%AA%8D%E7%84%A1%E7%90%86%E8%BE%AD%E6%BC%94%E5%85%AC%E7%9B%8A%E9%87%91-223000582.html%5D樂瞳掛名歌手)
-    唱碟推出無期
+3.  \[[http://hk.ent.yahoo.com/news/%E6%A8%82%E7%9E%B3%E6%8E%9B%E5%90%8D%E6%AD%8C%E6%89%8B-%E5%94%B1%E7%A2%9F%E6%8E%A8%E5%87%BA%E7%84%A1%E6%9C%9F-%E8%96%9B%E5%87%B1%E7%90%AA%E5%90%A6%E8%AA%8D%E7%84%A1%E7%90%86%E8%BE%AD%E6%BC%94%E5%85%AC%E7%9B%8A%E9%87%91-223000582.html\]樂瞳掛名歌手](http://hk.ent.yahoo.com/news/%E6%A8%82%E7%9E%B3%E6%8E%9B%E5%90%8D%E6%AD%8C%E6%89%8B-%E5%94%B1%E7%A2%9F%E6%8E%A8%E5%87%BA%E7%84%A1%E6%9C%9F-%E8%96%9B%E5%87%B1%E7%90%AA%E5%90%A6%E8%AA%8D%E7%84%A1%E7%90%86%E8%BE%AD%E6%BC%94%E5%85%AC%E7%9B%8A%E9%87%91-223000582.html%5D樂瞳掛名歌手) 唱碟推出無期

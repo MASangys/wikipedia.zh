@@ -13,21 +13,13 @@
 `* `<nowiki>
 `*/`
 
-// List the global variables for jsHint-Validation. // Scheme:
-globalVariable:allowOverwriting\[, globalVariable:allowOverwriting\]\[,
-globalVariable:allowOverwriting\] /\*global jQuery:false,
-mediaWiki:false\*/
+// List the global variables for jsHint-Validation. // Scheme: globalVariable:allowOverwriting\[, globalVariable:allowOverwriting\]\[, globalVariable:allowOverwriting\] /\*global jQuery:false, mediaWiki:false\*/
 
-// Set jsHint-options. /\*jshint forin:true, noarg:true, noempty:true,
-eqeqeq:true, bitwise:true, strict:true, undef:true, curly:false,
-browser:true\*/
+// Set jsHint-options. /\*jshint forin:true, noarg:true, noempty:true, eqeqeq:true, bitwise:true, strict:true, undef:true, curly:false, browser:true\*/
 
 ( function ( $, mw, undefined ) { "use strict";
 
-// Different tokes exist only to confuse the user (at least in 2012) //
-All of them carry the same value except the watchlist token if
-(\!mw.user.tokens.exists('preferencesToken'))
-mw.user.tokens.set('preferencesToken', mw.user.tokens.get('editToken'));
+// Different tokes exist only to confuse the user (at least in 2012) // All of them carry the same value except the watchlist token if (\!mw.user.tokens.exists('preferencesToken')) mw.user.tokens.set('preferencesToken', mw.user.tokens.get('editToken'));
 
 /\*\*
 
@@ -39,8 +31,7 @@ mw.user.tokens.set('preferencesToken', mw.user.tokens.get('editToken'));
   - refreshToken( function() { doGoodStuff.retry(); } );
 
   -
-  - @param cb {Function} Callback function. The first argument supplied
-    is whether the operation succeeded.
+  - @param cb {Function} Callback function. The first argument supplied is whether the operation succeeded.
 
   - @context {closure} private function
 
@@ -695,6 +686,4 @@ var sm = {
 
 mw.libs.settingsManager = sm;
 
-// TODO add to gadget-def // mw.loader.load(\['jquery.json',
-'mediawiki.user', 'user.options', 'user.tokens'\]); }( jQuery, mediaWiki
-));
+// TODO add to gadget-def // mw.loader.load(\['jquery.json', 'mediawiki.user', 'user.options', 'user.tokens'\]); }( jQuery, mediaWiki ));

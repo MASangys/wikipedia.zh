@@ -1,5 +1,4 @@
-**刘易斯·海德·布里尔顿**（**Lewis Hyde
-Brereton**，），[美国空军](../Page/美国空军.md "wikilink")中将。
+**刘易斯·海德·布里尔顿**（**Lewis Hyde Brereton**，），[美国空军](../Page/美国空军.md "wikilink")中将。
 
 布里尔顿1911年毕业于[美国海军学院](../Page/美国海军学院.md "wikilink")，[第一次世界大战](../Page/第一次世界大战.md "wikilink")前以军官身份开始在[美国陆军](../Page/美国陆军.md "wikilink")[陸軍海岸炮兵部队服役](https://zh.wikipedia.org/wiki/美国陆军海岸炮兵部队 "wikilink")，在第一次世界大戰前轉型為飛行員，後續的軍旅生涯都與美軍飛行部隊有關。
 

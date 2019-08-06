@@ -1,8 +1,4 @@
-是由[Paradox Development
-Studio开发](../Page/Paradox_Development_Studio.md "wikilink")，[Paradox
-Interactive发行的一款以](../Page/Paradox_Interactive.md "wikilink")[中世纪中期至](https://zh.wikipedia.org/wiki/中世纪中期 "wikilink")[后期为背景的大型](https://zh.wikipedia.org/wiki/中世纪后期 "wikilink")[战略游戏](https://zh.wikipedia.org/wiki/战略游戏 "wikilink")，是《[十字军之王](../Page/十字军之王.md "wikilink")》的续作。这款游戏的[Windows版本在](https://zh.wikipedia.org/wiki/Windows "wikilink")2012年2月14日发布，[OS
-X版本则于](https://zh.wikipedia.org/wiki/OS_X "wikilink")5月24日发布，而[Linux](../Page/Linux.md "wikilink")版本于2013年1月14日发布\[1\]。
-《十字军之王II》销量逾一百万份，是《[欧陆风云IV](https://zh.wikipedia.org/wiki/欧陆风云IV "wikilink")》发行前Paradox最为畅销的游戏\[2\]。
+是由[Paradox Development Studio开发](../Page/Paradox_Development_Studio.md "wikilink")，[Paradox Interactive发行的一款以](../Page/Paradox_Interactive.md "wikilink")[中世纪中期至](https://zh.wikipedia.org/wiki/中世纪中期 "wikilink")[后期为背景的大型](https://zh.wikipedia.org/wiki/中世纪后期 "wikilink")[战略游戏](https://zh.wikipedia.org/wiki/战略游戏 "wikilink")，是《[十字军之王](../Page/十字军之王.md "wikilink")》的续作。这款游戏的[Windows版本在](https://zh.wikipedia.org/wiki/Windows "wikilink")2012年2月14日发布，[OS X版本则于](https://zh.wikipedia.org/wiki/OS_X "wikilink")5月24日发布，而[Linux](../Page/Linux.md "wikilink")版本于2013年1月14日发布\[1\]。 《十字军之王II》销量逾一百万份，是《[欧陆风云IV](https://zh.wikipedia.org/wiki/欧陆风云IV "wikilink")》发行前Paradox最为畅销的游戏\[2\]。
 
 ## 游戏性
 
@@ -16,9 +12,7 @@ X版本则于](https://zh.wikipedia.org/wiki/OS_X "wikilink")5月24日发布，�
 
 2012年2月4日，一个有四个可选人物，时间跨度为20年的游戏demo发布\[5\]，游戏的营销视频是以[七宗罪为概念的几段喜剧短片](https://zh.wikipedia.org/wiki/七宗罪 "wikilink")。\[6\]
 
-其后，《十字军之王II》总体上收到了积极的评价，[Metacritic](../Page/Metacritic.md "wikilink")网站给出了82分\[7\]；The
-Digital
-Fix则称，游戏体验令人惊叹，有身临其境的感觉，并对底层的游戏机制留下了深刻的印象\[8\]；[GameSpot](../Page/GameSpot.md "wikilink")的游戏评论员肖恩·麦金尼斯对游戏性进行了称赞\[9\]；[IGN](../Page/IGN.md "wikilink")给予《十字军之王II》游戏性“持久的吸引力”以9分（满分为10分），画面评分则为5分\[10\]。
+其后，《十字军之王II》总体上收到了积极的评价，[Metacritic](../Page/Metacritic.md "wikilink")网站给出了82分\[7\]；The Digital Fix则称，游戏体验令人惊叹，有身临其境的感觉，并对底层的游戏机制留下了深刻的印象\[8\]；[GameSpot](../Page/GameSpot.md "wikilink")的游戏评论员肖恩·麦金尼斯对游戏性进行了称赞\[9\]；[IGN](../Page/IGN.md "wikilink")给予《十字军之王II》游戏性“持久的吸引力”以9分（满分为10分），画面评分则为5分\[10\]。
 
 ## DLC
 
@@ -174,19 +168,7 @@ DLC包括下列內容：\[11\]\[12\]
 
   - [王国风云2中文百科](https://ck2.parawikis.com)
 
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:Paradox_Interactive游戏](https://zh.wikipedia.org/wiki/Category:Paradox_Interactive游戏 "wikilink")
-[Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
-[Category:瑞典开发电子游戏](https://zh.wikipedia.org/wiki/Category:瑞典开发电子游戏 "wikilink")
-[Category:11世纪背景游戏](https://zh.wikipedia.org/wiki/Category:11世纪背景游戏 "wikilink")
-[Category:12世纪背景游戏](https://zh.wikipedia.org/wiki/Category:12世纪背景游戏 "wikilink")
-[Category:13世纪背景游戏](https://zh.wikipedia.org/wiki/Category:13世纪背景游戏 "wikilink")
-[Category:14世纪背景游戏](https://zh.wikipedia.org/wiki/Category:14世纪背景游戏 "wikilink")
-[Category:15世纪背景游戏](https://zh.wikipedia.org/wiki/Category:15世纪背景游戏 "wikilink")
-[Category:跨時代遊戲](https://zh.wikipedia.org/wiki/Category:跨時代遊戲 "wikilink")
+[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:Paradox_Interactive游戏](https://zh.wikipedia.org/wiki/Category:Paradox_Interactive游戏 "wikilink") [Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:瑞典开发电子游戏](https://zh.wikipedia.org/wiki/Category:瑞典开发电子游戏 "wikilink") [Category:11世纪背景游戏](https://zh.wikipedia.org/wiki/Category:11世纪背景游戏 "wikilink") [Category:12世纪背景游戏](https://zh.wikipedia.org/wiki/Category:12世纪背景游戏 "wikilink") [Category:13世纪背景游戏](https://zh.wikipedia.org/wiki/Category:13世纪背景游戏 "wikilink") [Category:14世纪背景游戏](https://zh.wikipedia.org/wiki/Category:14世纪背景游戏 "wikilink") [Category:15世纪背景游戏](https://zh.wikipedia.org/wiki/Category:15世纪背景游戏 "wikilink") [Category:跨時代遊戲](https://zh.wikipedia.org/wiki/Category:跨時代遊戲 "wikilink")
 
 1.
 

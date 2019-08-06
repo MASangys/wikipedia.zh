@@ -16,5 +16,4 @@
   - [南美杯](https://zh.wikipedia.org/wiki/南美杯 "wikilink")
   - [巴西杯](https://zh.wikipedia.org/wiki/巴西杯 "wikilink")
 
-[Category:2004年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2004年成立的电视台或电视频道 "wikilink")
-[Category:中国中央电视台数字频道](https://zh.wikipedia.org/wiki/Category:中国中央电视台数字频道 "wikilink")
+[Category:2004年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2004年成立的电视台或电视频道 "wikilink") [Category:中国中央电视台数字频道](https://zh.wikipedia.org/wiki/Category:中国中央电视台数字频道 "wikilink")

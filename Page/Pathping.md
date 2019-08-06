@@ -2,8 +2,7 @@
 
 ## 原理
 
-pathping在一段时间内，从本地至目的地之间发送多个Echo
-Request消息给中间经过的每个节点，然后基于数据包从每个[路由器](../Page/路由器.md "wikilink")返回的信息来计算结果。所以，pathping可以显示每个节点的数据包丢失的百分比，以便判断具体哪个节点或子网可能出现网络故障。pathping与[tracert执行相同的路由](https://zh.wikipedia.org/wiki/tracert "wikilink")[跟踪命令去识别这条路径上有哪些路由器](https://zh.wikipedia.org/wiki/跟踪命令 "wikilink")，但它额外多了一个步骤：给每个节点发送100个[数据包](https://zh.wikipedia.org/wiki/数据包 "wikilink")，获取返回信息后去计算每个节点的统计信息。\[2\]
+pathping在一段时间内，从本地至目的地之间发送多个Echo Request消息给中间经过的每个节点，然后基于数据包从每个[路由器](../Page/路由器.md "wikilink")返回的信息来计算结果。所以，pathping可以显示每个节点的数据包丢失的百分比，以便判断具体哪个节点或子网可能出现网络故障。pathping与[tracert执行相同的路由](https://zh.wikipedia.org/wiki/tracert "wikilink")[跟踪命令去识别这条路径上有哪些路由器](https://zh.wikipedia.org/wiki/跟踪命令 "wikilink")，但它额外多了一个步骤：给每个节点发送100个[数据包](https://zh.wikipedia.org/wiki/数据包 "wikilink")，获取返回信息后去计算每个节点的统计信息。\[2\]
 
 ## 范例
 
@@ -158,14 +157,8 @@ Request消息给中间经过的每个节点，然后基于数据包从每个[路
 
 <references />
 
-[Category:网络技术](https://zh.wikipedia.org/wiki/Category:网络技术 "wikilink")
-[Category:信息技术](https://zh.wikipedia.org/wiki/Category:信息技术 "wikilink")
-[Category:网路管理软件](https://zh.wikipedia.org/wiki/Category:网路管理软件 "wikilink")
-[Category:網絡分析器](https://zh.wikipedia.org/wiki/Category:網絡分析器 "wikilink")
+[Category:网络技术](https://zh.wikipedia.org/wiki/Category:网络技术 "wikilink") [Category:信息技术](https://zh.wikipedia.org/wiki/Category:信息技术 "wikilink") [Category:网路管理软件](https://zh.wikipedia.org/wiki/Category:网路管理软件 "wikilink") [Category:網絡分析器](https://zh.wikipedia.org/wiki/Category:網絡分析器 "wikilink")
 
-1.  [MS-DOS pathping command
-    help](http://www.computerhope.com/pathping.htm)
+1.  [MS-DOS pathping command help](http://www.computerhope.com/pathping.htm)
 2.
-3.  `note``   ``the``   ``shorter``   ``wait``   ``with``   ``only``
-     ``10``   ``queries``   ``per``   ``hop``   ``instead``   ``of``
-     ``the``   ``default``   ``100`
+3.  `note``   ``the``   ``shorter``   ``wait``   ``with``   ``only``   ``10``   ``queries``   ``per``   ``hop``   ``instead``   ``of``   ``the``   ``default``   ``100`

@@ -1,7 +1,6 @@
 local horizontal_timeline = {};
 
-local getArgs = require('Module:Arguments').getArgs local builder =
-mw.html.create()
+local getArgs = require('Module:Arguments').getArgs local builder = mw.html.create()
 
 local function defaultInvokeFunc(funcName)
 
@@ -24,8 +23,7 @@ local function defaultInvokeFunc(funcName)
 
 end
 
-horizontal_timeline.showTimeLine = defaultInvokeFunc('_showTimeLine')
-function horizontal_timeline._showTimeLine(args)
+horizontal_timeline.showTimeLine = defaultInvokeFunc('_showTimeLine') function horizontal_timeline._showTimeLine(args)
 
 `   local wdth = getNotNilValue(args['width'], '100%' )`
 `   local bordr = getNotNilValue(args['border'], '1px solid rgb(170, 170, 170)' )`
@@ -67,8 +65,7 @@ function horizontal_timeline._showTimeLine(args)
 
 " end
 
-horizontal_timeline.showOneRow = defaultInvokeFunc('_showOneRow')
-function horizontal_timeline._showOneRow(args)
+horizontal_timeline.showOneRow = defaultInvokeFunc('_showOneRow') function horizontal_timeline._showOneRow(args)
 
 `   local rowNums = affixNums(args, 'row') -- Gets numbers for row1, row2, etc. with nil arguments removed.`
 `   for _, num in ipairs(rowNums) do`
@@ -216,8 +213,7 @@ function horizontal_timeline.noteRow(num, args)
 
 `   local rowDat = affixNums(args, 'row'..num..'%-', '%-at')`
 `   if not rowDat then`
-`       return ("`<strong class='error'>`Please specify location for note at "..'row'
-.. num .. '-'.. vals .. '-at'.." parameter.`</strong>`")`
+`       return ("`<strong class='error'>`Please specify location for note at "..'row' .. num .. '-'.. vals .. '-at'.." parameter.`</strong>`")`
 `   end`
 `   for _, vals in ipairs(rowDat) do`
 `       local note_at   =args['row' .. num .. '-'.. vals .. '-at'] --will never be nil as it is what is sued to recieve rowDat`
@@ -308,8 +304,7 @@ function horizontal_timeline.scaleRow(args)
 
 end
 
-\--Returns the first non nil value from the list of parameters. function
-getNotNilValue(...)
+\--Returns the first non nil value from the list of parameters. function getNotNilValue(...)
 
 `   for _,v in pairs(arg) do --Do not use ipairs. Will stop at first nil`
 `       if v then return v end`

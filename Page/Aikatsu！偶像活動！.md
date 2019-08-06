@@ -2,17 +2,11 @@
 
 ## 遊戲概要
 
-作為[BANDAI研發的DATA](../Page/萬代.md "wikilink")
-CARDDASS街頭卡片互動機器系列，在[光之美少女系列](../Page/光之美少女系列.md "wikilink")的運行同時，也打算展開自己的原創角色活動，因此與[日昇動畫](../Page/日昇動畫.md "wikilink")合作撰寫以偶像為題材的遊戲故事。2012年10月25日推出街機遊戲之前，日昇動畫製作的[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2012年10月8日先行在[東京電視台](../Page/東京電視台.md "wikilink")開始播放，並且也起用[AKB48](../Page/AKB48.md "wikilink")所屬的偶像成員為遊戲代言人。
+作為[BANDAI研發的DATA](../Page/萬代.md "wikilink") CARDDASS街頭卡片互動機器系列，在[光之美少女系列](../Page/光之美少女系列.md "wikilink")的運行同時，也打算展開自己的原創角色活動，因此與[日昇動畫](../Page/日昇動畫.md "wikilink")合作撰寫以偶像為題材的遊戲故事。2012年10月25日推出街機遊戲之前，日昇動畫製作的[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2012年10月8日先行在[東京電視台](../Page/東京電視台.md "wikilink")開始播放，並且也起用[AKB48](../Page/AKB48.md "wikilink")所屬的偶像成員為遊戲代言人。
 
-雖然遊戲原始的對象為小學女生，但也逐漸產生男性、中學、高中生以及青年年齡層的支持者，尤有一部分曾是[SEGA已結束運行的同類型遊戲](https://zh.wikipedia.org/wiki/SEGA "wikilink")[時尚魔女
-LOVE AND
-BERRY](../Page/時尚魔女_LOVE_AND_BERRY.md "wikilink")\[2\]當時的玩家長大後轉而支持本遊戲。日本IC卡截至2014年12月的登入人數已經突破150萬人。
+雖然遊戲原始的對象為小學女生，但也逐漸產生男性、中學、高中生以及青年年齡層的支持者，尤有一部分曾是[SEGA已結束運行的同類型遊戲](https://zh.wikipedia.org/wiki/SEGA "wikilink")[時尚魔女 LOVE AND BERRY](../Page/時尚魔女_LOVE_AND_BERRY.md "wikilink")\[2\]當時的玩家長大後轉而支持本遊戲。日本IC卡截至2014年12月的登入人數已經突破150萬人。
 
-海外推行方面，香港以『星夢-{}-學園』的名稱在2014年1月7日起播出動畫並販售手機APP專用卡片商品。台灣地區於2014年5月起以『偶像-{}-學園』名義引入機台，成為『Aikatsu！』機台首個海外授權地區。
-印度尼西亞於2014年11月引入機台，為第二個海外授權地區。香港於2015年12月起以『星夢-{}-學園』名義引入機台，為第三個海外授權地區。韓國於2016年8月起以『I
-am
-star！』名義引入機台(從Season3份開始)，為第四個海外授權地區。中國大陸於2016年11月起以『偶活-{}-學園』名義引入機台(從第三彈開始)，為第五個海外授權地區。
+海外推行方面，香港以『星夢-{}-學園』的名稱在2014年1月7日起播出動畫並販售手機APP專用卡片商品。台灣地區於2014年5月起以『偶像-{}-學園』名義引入機台，成為『Aikatsu！』機台首個海外授權地區。 印度尼西亞於2014年11月引入機台，為第二個海外授權地區。香港於2015年12月起以『星夢-{}-學園』名義引入機台，為第三個海外授權地區。韓國於2016年8月起以『I am star！』名義引入機台(從Season3份開始)，為第四個海外授權地區。中國大陸於2016年11月起以『偶活-{}-學園』名義引入機台(從第三彈開始)，為第五個海外授權地區。
 
 2016年5月18日正式結束運行，日本在同年5月推出新機台[偶像學園STARS！](https://zh.wikipedia.org/wiki/偶像學園STARS！ "wikilink")。
 
@@ -24,8 +18,7 @@ star！』名義引入機台(從Season3份開始)，為第四個海外授權地�
 
 ### ID卡
 
-使用DATA
-CARDDASS系統的IC卡(海外版為ID卡)進行遊戲的情況下，玩家可以使用原創物件自創偶像角色，遊戲會統計增加的"粉絲數"亦能提升偶像的等級亦得到遊戲內各項紅利,如果買卡片第2張,就有紅利獎品可幫助玩家在遊戲中更有利
+使用DATA CARDDASS系統的IC卡(海外版為ID卡)進行遊戲的情況下，玩家可以使用原創物件自創偶像角色，遊戲會統計增加的"粉絲數"亦能提升偶像的等級亦得到遊戲內各項紅利,如果買卡片第2張,就有紅利獎品可幫助玩家在遊戲中更有利
 
 ### 機台發行卡片
 
@@ -92,7 +85,7 @@ BGM遊戲開始點選樂曲時，使用ID卡再加上一定條件的話，歌曲
 | Girly Room                                            | SHINING LINE＊                              | 2014年第4彈                | 演唱會      |     |
 | Aikatsu\!8                                            | 2014年第5彈                                   | 演唱會                     |          |     |
 | Floral Garden                                         | ハートのメロディ                                   | 2014年第6彈                | 時裝秀      |     |
-| Luminas Hall Stage                                    | Let's アイカツ\!                               | 2016年第1彈                | 演唱會      |     |
+| Luminas Hall Stage                                    | Let'sアイカツ\!                                | 2016年第1彈                | 演唱會      |     |
 | Dreaming Cute                                         | 2015年第1彈                                   | 演唱會                     |          |     |
 | Blue Sky Lake                                         | Du-Du-Wa DO IT                             |                         | 演唱會      |     |
 | New Year Lake                                         | 2015年第2彈                                   | 演唱會                     |          |     |
@@ -311,8 +304,7 @@ BGM遊戲開始點選樂曲時，使用ID卡再加上一定條件的話，歌曲
     標誌是紫色的黑桃型。其服裝可以使用特別魅力秀"性感閃光"（Sexy Flash）。
   - 俏皮（Pop）
     標誌是橙色的梅花型。其服裝可以使用特別魅力秀"俏皮閃光"（Pop Flash）。
-    如果使用的卡片類型不同,會加分數300分(特別妙搭+600分)其服裝使用魅力秀(Special Good
-    Coordination　Appeal)
+    如果使用的卡片類型不同,會加分數300分(特別妙搭+600分)其服裝使用魅力秀(Special Good Coordination　Appeal)
 
 ### 品牌
 
@@ -613,8 +605,7 @@ BGM遊戲開始點選樂曲時，使用ID卡再加上一定條件的話，歌曲
 
   - 海外遊戲
 
-  - [BANDAI
-    香港《星夢-{}-學園》官網](https://www.bandainamcoasia.com/aikatsu/index.html)
+  - [BANDAI 香港《星夢-{}-學園》官網](https://www.bandainamcoasia.com/aikatsu/index.html)
 
   - [台灣《偶像-{}-學園》遊戲官網](http://aikatsu.com.tw/)
 
@@ -622,15 +613,7 @@ BGM遊戲開始點選樂曲時，使用ID卡再加上一定條件的話，歌曲
 
   - [韓國《I am star！》官方網站](http://www.iam-star.com/)
 
-[Category:Aikatsu！偶像活動！](https://zh.wikipedia.org/wiki/Category:Aikatsu！偶像活動！ "wikilink")
-[Category:Ciao](https://zh.wikipedia.org/wiki/Category:Ciao "wikilink")
-[Category:2012年電子遊戲](https://zh.wikipedia.org/wiki/Category:2012年電子遊戲 "wikilink")
-[Category:藝術學校背景作品](https://zh.wikipedia.org/wiki/Category:藝術學校背景作品 "wikilink")
-[Category:任天堂3DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂3DS遊戲 "wikilink")
-[Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink")
-[Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink")
-[Category:街機卡片遊戲](https://zh.wikipedia.org/wiki/Category:街機卡片遊戲 "wikilink")
-[Category:中學背景作品](https://zh.wikipedia.org/wiki/Category:中學背景作品 "wikilink")
+[Category:Aikatsu！偶像活動！](https://zh.wikipedia.org/wiki/Category:Aikatsu！偶像活動！ "wikilink") [Category:Ciao](https://zh.wikipedia.org/wiki/Category:Ciao "wikilink") [Category:2012年電子遊戲](https://zh.wikipedia.org/wiki/Category:2012年電子遊戲 "wikilink") [Category:藝術學校背景作品](https://zh.wikipedia.org/wiki/Category:藝術學校背景作品 "wikilink") [Category:任天堂3DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂3DS遊戲 "wikilink") [Category:萬代南夢宮遊戲](https://zh.wikipedia.org/wiki/Category:萬代南夢宮遊戲 "wikilink") [Category:偶像題材電子遊戲](https://zh.wikipedia.org/wiki/Category:偶像題材電子遊戲 "wikilink") [Category:街機卡片遊戲](https://zh.wikipedia.org/wiki/Category:街機卡片遊戲 "wikilink") [Category:中學背景作品](https://zh.wikipedia.org/wiki/Category:中學背景作品 "wikilink")
 
 1.
 2.

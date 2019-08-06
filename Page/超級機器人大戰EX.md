@@ -8,10 +8,7 @@
 
 ### 移植版
 
-1999年，《EX》和《第2次》、《第3次》一併移植成《**[超級機器人大戰Complete
-Box](https://zh.wikipedia.org/wiki/超級機器人大戰Complete_Box "wikilink")**》。系統根據當時最新的《[超級機器人大戰F](../Page/超級機器人大戰F.md "wikilink")》\[2\]、遊戲平衡度也被調整。另外3部作品及後也有在1999年和2000年分開發售。2011年1月26日，在[PlayStation
-Store的](../Page/PlayStation_Store.md "wikilink")[Game
-Archives提供付費下載](https://zh.wikipedia.org/wiki/Game_Archives "wikilink")。
+1999年，《EX》和《第2次》、《第3次》一併移植成《**[超級機器人大戰Complete Box](https://zh.wikipedia.org/wiki/超級機器人大戰Complete_Box "wikilink")**》。系統根據當時最新的《[超級機器人大戰F](../Page/超級機器人大戰F.md "wikilink")》\[2\]、遊戲平衡度也被調整。另外3部作品及後也有在1999年和2000年分開發售。2011年1月26日，在[PlayStation Store的](../Page/PlayStation_Store.md "wikilink")[Game Archives提供付費下載](https://zh.wikipedia.org/wiki/Game_Archives "wikilink")。
 
 ## 參戰作品
 
@@ -23,11 +20,9 @@ Archives提供付費下載](https://zh.wikipedia.org/wiki/Game_Archives "wikilin
   - [機動戰士高達](https://zh.wikipedia.org/wiki/機動戰士高達 "wikilink")（）
   - [機動戰士高達0080：口袋中的戰爭](https://zh.wikipedia.org/wiki/機動戰士高達0080：口袋中的戰爭 "wikilink")（）
   - [機動戰士高達0083：星塵的回憶](https://zh.wikipedia.org/wiki/機動戰士高達0083：星塵的回憶 "wikilink")（）
-  - [機動戰士Ζ
-    GUNDAM](https://zh.wikipedia.org/wiki/機動戰士Ζ_GUNDAM "wikilink")（）
+  - [機動戰士Ζ GUNDAM](https://zh.wikipedia.org/wiki/機動戰士Ζ_GUNDAM "wikilink")（）
   - [機動戰士高達ZZ](https://zh.wikipedia.org/wiki/機動戰士高達ZZ "wikilink")（）
-  - [機動戰士高達
-    馬沙之反擊](https://zh.wikipedia.org/wiki/機動戰士高達_馬沙之反擊 "wikilink")（）
+  - [機動戰士高達 馬沙之反擊](https://zh.wikipedia.org/wiki/機動戰士高達_馬沙之反擊 "wikilink")（）
   - [機動戰士GUNDAM F91](../Page/機動戰士GUNDAM_F91.md "wikilink")（）
   - ★[聖戰士登霸](https://zh.wikipedia.org/wiki/聖戰士登霸 "wikilink")（）
   - [鐵甲萬能俠](https://zh.wikipedia.org/wiki/鐵甲萬能俠 "wikilink")（）
@@ -50,8 +45,7 @@ Archives提供付費下載](https://zh.wikipedia.org/wiki/Game_Archives "wikilin
   - 豪將軍（戰國魔神豪將軍）
   - 賽巴斯塔（魔装機神賽巴斯塔）
   - \-{zh-hans:丹拜因;zh-hk:登霸;zh-tw:丹拜因;}-（聖戰士登霸）
-  - [ν高達](https://zh.wikipedia.org/wiki/RX-93系列機動戰士 "wikilink")（機動戰士高達
-    馬沙之反擊）
+  - [ν高達](https://zh.wikipedia.org/wiki/RX-93系列機動戰士 "wikilink")（機動戰士高達 馬沙之反擊）
 
 ## 劇情
 
@@ -79,35 +73,29 @@ Archives提供付費下載](https://zh.wikipedia.org/wiki/Game_Archives "wikilin
 
 ### TVCM
 
-3D圖像的機器人在拉·基亞斯為背景下登場。旁白是《機動戰士Ζ
-GUNDAM》中聲演-{zh-hans:柯瓦特罗·巴吉纳;zh-hk:古華多羅·巴茲拿;zh-tw:科瓦特罗·巴吉纳;}-的[池田秀一](../Page/池田秀一.md "wikilink")。
+3D圖像的機器人在拉·基亞斯為背景下登場。旁白是《機動戰士Ζ GUNDAM》中聲演-{zh-hans:柯瓦特罗·巴吉纳;zh-hk:古華多羅·巴茲拿;zh-tw:科瓦特罗·巴吉纳;}-的[池田秀一](../Page/池田秀一.md "wikilink")。
 
 ## 關連商品
 
 ### 攻略本
 
   - スーパーロボット大戦EX 完全攻略ガイド
-    1994年4月5日初版、[メディアワークス](https://zh.wikipedia.org/wiki/メディアワークス "wikilink")、電撃攻略王、ISBN
-    9784073010906
+    1994年4月5日初版、[メディアワークス](https://zh.wikipedia.org/wiki/メディアワークス "wikilink")、電撃攻略王、ISBN 9784073010906
     SFC版《超級機器人大戰EX》的攻略本。
   - スーパーロボット大戦EX 必勝攻略法
-    [双葉社](https://zh.wikipedia.org/wiki/双葉社 "wikilink")、スーパーファミコン完璧攻略シリーズ、ISBN
-    9784575283259
+    [双葉社](https://zh.wikipedia.org/wiki/双葉社 "wikilink")、スーパーファミコン完璧攻略シリーズ、ISBN 9784575283259
     SFC版《超級機器人大戰EX》的攻略本。收錄了角色的設定資料。
   - スーパーファミコン必勝法スペシャル スーパーロボット大戦EX
     [勁文社](https://zh.wikipedia.org/wiki/勁文社 "wikilink")、ケイブンシャの大百科別冊。
     SFC版《超級機器人大戰EX》的攻略本。收錄了世界觀以及角色的設定資料。
   - 覇王ゲームスペシャル スーパーロボット大戦EX
-    1994年4月15日初版、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、ISBN
-    9784063292077
+    1994年4月15日初版、[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")、ISBN 9784063292077
     SFC版《超級機器人大戰EX》的攻略本。
   - スーパーロボット大戦EX 熱血・幸運・必中ガイド
-    1994年5月10日初版、[アスペクト](https://zh.wikipedia.org/wiki/アスペクト "wikilink")、ISBN
-    4893661957
+    1994年5月10日初版、[アスペクト](https://zh.wikipedia.org/wiki/アスペクト "wikilink")、ISBN 4893661957
     SFC版《超級機器人大戰EX》的攻略本。收錄了敵方機體的武器資料和世界觀等設定資料，以及製作人員的訪問。
   - スーパーロボット大戦EX スーパーガイド
-    1994年4月18日初版、[ソフトバンク](https://zh.wikipedia.org/wiki/ソフトバンク "wikilink")、Theスーパーファミコン、ISBN
-    4890525114
+    1994年4月18日初版、[ソフトバンク](https://zh.wikipedia.org/wiki/ソフトバンク "wikilink")、Theスーパーファミコン、ISBN 4890525114
     SFC版《超級機器人大戰EX》的攻略本。
 
 ## 註釋
@@ -116,19 +104,11 @@ GUNDAM》中聲演-{zh-hans:柯瓦特罗·巴吉纳;zh-hk:古華多羅·巴茲�
 
 ## 外部連結
 
-  - [PS版超級機器人大戰EX
-    介紹網頁](https://web.archive.org/web/20111222190726/http://www.banpresto.co.jp/japan/house/softb/s64/s64.htm)
-  - [PS官方網頁 超級機器人大戰EX（通常版）
-    介紹網頁](http://www.jp.playstation.com/software/title/slps02529.html)
-  - [PS官方網頁 超級機器人大戰EX（Game Archives版）
-    介紹網頁](http://www.jp.playstation.com/software/title/jp0700npjj00499_000000000000000001.html)
+  - [PS版超級機器人大戰EX 介紹網頁](https://web.archive.org/web/20111222190726/http://www.banpresto.co.jp/japan/house/softb/s64/s64.htm)
+  - [PS官方網頁 超級機器人大戰EX（通常版） 介紹網頁](http://www.jp.playstation.com/software/title/slps02529.html)
+  - [PS官方網頁 超級機器人大戰EX（Game Archives版） 介紹網頁](http://www.jp.playstation.com/software/title/jp0700npjj00499_000000000000000001.html)
 
-[Category:超級機械人大戰系列](https://zh.wikipedia.org/wiki/Category:超級機械人大戰系列 "wikilink")
-[Category:超級任天堂遊戲](https://zh.wikipedia.org/wiki/Category:超級任天堂遊戲 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:1994年電子遊戲](https://zh.wikipedia.org/wiki/Category:1994年電子遊戲 "wikilink")
-[Category:2000年電子遊戲](https://zh.wikipedia.org/wiki/Category:2000年電子遊戲 "wikilink")
-[Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
+[Category:超級機械人大戰系列](https://zh.wikipedia.org/wiki/Category:超級機械人大戰系列 "wikilink") [Category:超級任天堂遊戲](https://zh.wikipedia.org/wiki/Category:超級任天堂遊戲 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:1994年電子遊戲](https://zh.wikipedia.org/wiki/Category:1994年電子遊戲 "wikilink") [Category:2000年電子遊戲](https://zh.wikipedia.org/wiki/Category:2000年電子遊戲 "wikilink") [Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
 
 1.
 2.  10段階改造、強化部件等等。

@@ -1,24 +1,11 @@
-「**A Shared
-Dream**」是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第1枚原創日語專輯。於2012年2月29日發行。唱片公司為[avex
-trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
+「**A Shared Dream**」是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第1枚原創日語專輯。於2012年2月29日發行。唱片公司為[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
-  - 收錄第1張單曲「[Tick
-    Tack](../Page/Tick_Tack.md "wikilink")」和第2張單曲「[Forbidden
-    Love](../Page/Forbidden_Love.md "wikilink")」，共2首A面曲。
-  - 新曲「Man Man Ha Ni -Japanese
-    ver.-」是U-KISS第三張迷你專輯「[CONTIUKISS](https://zh.wikipedia.org/wiki/CONTIUKISS "wikilink")」主打曲「好欺負嗎」的日語版本；「Bingeul
-    Bingeul -Japanese ver.-」是U-KISS首張正規專輯「[ONLY
-    ONE](../Page/ONLY_ONE.md "wikilink")」主打曲「天旋地轉」的日語版本；新曲「Shut Up\!\!
-    -Japanese ver.-」是U-KISS第四張迷你專輯「[BREAK
-    TIME](../Page/BREAK_TIME.md "wikilink")」主打曲「閉嘴」的日語版本
+  - 收錄第1張單曲「[Tick Tack](../Page/Tick_Tack.md "wikilink")」和第2張單曲「[Forbidden Love](../Page/Forbidden_Love.md "wikilink")」，共2首A面曲。
+  - 新曲「Man Man Ha Ni -Japanese ver.-」是U-KISS第三張迷你專輯「[CONTIUKISS](https://zh.wikipedia.org/wiki/CONTIUKISS "wikilink")」主打曲「好欺負嗎」的日語版本；「Bingeul Bingeul -Japanese ver.-」是U-KISS首張正規專輯「[ONLY ONE](../Page/ONLY_ONE.md "wikilink")」主打曲「天旋地轉」的日語版本；新曲「Shut Up\!\! -Japanese ver.-」是U-KISS第四張迷你專輯「[BREAK TIME](../Page/BREAK_TIME.md "wikilink")」主打曲「閉嘴」的日語版本
   - 與單曲「[Forbidden Love](../Page/Forbidden_Love.md "wikilink")」同時發行。
-  - 本作分「初回生産限定盤」、「通常盤」、「mu-mo限定盤」和「Tower
-    Records版本」4種版本。「初回生産限定盤」收錄了單曲「[Tick
-    Tack](../Page/Tick_Tack.md "wikilink")」和「[Forbidden
-    Love](../Page/Forbidden_Love.md "wikilink")」的PV，以及新曲「A Shared
-    Dream」的PV和Making。
+  - 本作分「初回生産限定盤」、「通常盤」、「mu-mo限定盤」和「Tower Records版本」4種版本。「初回生産限定盤」收錄了單曲「[Tick Tack](../Page/Tick_Tack.md "wikilink")」和「[Forbidden Love](../Page/Forbidden_Love.md "wikilink")」的PV，以及新曲「A Shared Dream」的PV和Making。
   - 在3月12日於公信榜專輯週排行榜取得第5位
 
 ## 收錄內容
@@ -45,8 +32,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
         1st專輯「[ONLY ONE](../Page/ONLY_ONE.md "wikilink")」主打曲「天旋地轉」日語版本
 11. **Shut Up\!\! -Japanese ver.-**
       -
-        4th迷你專輯「[BREAK
-        TIME](../Page/BREAK_TIME.md "wikilink")」主打曲「閉嘴」日語版本
+        4th迷你專輯「[BREAK TIME](../Page/BREAK_TIME.md "wikilink")」主打曲「閉嘴」日語版本
 12. **Believe**
 13. **Tick Tack -MARCAN Mix-**
 
@@ -57,7 +43,4 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 3.  A Shared Dream（PV）
 4.  A Shared Dream（Making）
 
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:U-KISS音樂專輯](https://zh.wikipedia.org/wiki/Category:U-KISS音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:愛貝克思音樂專輯](https://zh.wikipedia.org/wiki/Category:愛貝克思音樂專輯 "wikilink")
+[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:U-KISS音樂專輯](https://zh.wikipedia.org/wiki/Category:U-KISS音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:愛貝克思音樂專輯](https://zh.wikipedia.org/wiki/Category:愛貝克思音樂專輯 "wikilink")

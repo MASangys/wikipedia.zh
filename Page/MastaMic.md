@@ -2,14 +2,9 @@
 
 ## 簡歷
 
-馬米是香港網上知名繞舌歌手，他亦是港台節目[《頭條新聞》常客](https://zh.wikipedia.org/wiki/頭條新聞_\(香港電台\) "wikilink")，製作了多首諷刺時弊的繞舌歌曲。於2005年出道，2011年推出首張個人mixtape《[The
-New Hope
-Mixtape](https://zh.wikipedia.org/wiki/The_New_Hope_Mixtape "wikilink")》\[1\]。2012年自資推出第二張個人mixtape《Justice
-Is What I Rap For》，2013年自資推出首張個人專輯《流行反擊戰》。
+馬米是香港網上知名繞舌歌手，他亦是港台節目[《頭條新聞》常客](https://zh.wikipedia.org/wiki/頭條新聞_\(香港電台\) "wikilink")，製作了多首諷刺時弊的繞舌歌曲。於2005年出道，2011年推出首張個人mixtape《[The New Hope Mixtape](https://zh.wikipedia.org/wiki/The_New_Hope_Mixtape "wikilink")》\[1\]。2012年自資推出第二張個人mixtape《Justice Is What I Rap For》，2013年自資推出首張個人專輯《流行反擊戰》。
 
-2017年，每年12月尾都會推出<Rap Up>系列的MastaMic表示2017年尾是最後一首年度<Rap Up>，這系列將後會無期。年初除了一如以往有今年的Rap
-Up，也會推出十年版Rap Up of the Rap
-Up畫上句號。回顧十年人事，佢睇到香港轉變快過火箭，又睇到新聞內容本質一致，只是時間人物地點轉了名字，荒誕劇一再上演，並慨嘆要循環多少次，我們才會醒覺？\[2\]
+2017年，每年12月尾都會推出<Rap Up>系列的MastaMic表示2017年尾是最後一首年度<Rap Up>，這系列將後會無期。年初除了一如以往有今年的Rap Up，也會推出十年版Rap Up of the Rap Up畫上句號。回顧十年人事，佢睇到香港轉變快過火箭，又睇到新聞內容本質一致，只是時間人物地點轉了名字，荒誕劇一再上演，並慨嘆要循環多少次，我們才會醒覺？\[2\]
 
 ## 音樂作品
 
@@ -135,81 +130,52 @@ Up畫上句號。回顧十年人事，佢睇到香港轉變快過火箭，又睇
 
 ### 2010年
 
-Critical [Kung Fu](https://zh.wikipedia.org/wiki/Kung_Fu "wikilink")
-feat. [DJ Tin Ho](https://zh.wikipedia.org/wiki/DJ_Tin_Ho "wikilink") &
-**MastaMic**
+Critical [Kung Fu](https://zh.wikipedia.org/wiki/Kung_Fu "wikilink") feat. [DJ Tin Ho](https://zh.wikipedia.org/wiki/DJ_Tin_Ho "wikilink") & **MastaMic**
 
 ### 2011年
 
-  - 遙控 [DJ Tommy](../Page/DJ_Tommy.md "wikilink") Featuring
-    [林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink") &
-    **Mastamic**
-  - 《Dun U Dare》666 主唱：[方皓玟](../Page/方皓玟.md "wikilink") Featuring
-    **MastaMic**
-  - 《Round2》善忘哥 主唱：[ToNick](../Page/ToNick.md "wikilink") Featuring
-    **MastaMic**
+  - 遙控 [DJ Tommy](../Page/DJ_Tommy.md "wikilink") Featuring [林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink") & **Mastamic**
+  - 《Dun U Dare》666 主唱：[方皓玟](../Page/方皓玟.md "wikilink") Featuring **MastaMic**
+  - 《Round2》善忘哥 主唱：[ToNick](../Page/ToNick.md "wikilink") Featuring **MastaMic**
   - The New Hope Mixtape》超过可怕的事 与Pam Chung合唱
-  - The Perfect Blue
-    主唱：[萱寧](https://zh.wikipedia.org/wiki/萱寧 "wikilink")
-    Featuring **MastaMic**
+  - The Perfect Blue 主唱：[萱寧](https://zh.wikipedia.org/wiki/萱寧 "wikilink") Featuring **MastaMic**
 
 <!-- end list -->
 
-  - 《Joey & Joey》馬賽克
-    主唱：[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
-    Featuring **MastaMic**
+  - 《Joey & Joey》馬賽克 主唱：[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink") Featuring **MastaMic**
   - 《5+》 杞人 主唱：[張繼聰](../Page/張繼聰.md "wikilink") Featuring **MastaMic**
 
 ### 2012年
 
-  - 雙人床 主唱：[曲赤](https://zh.wikipedia.org/wiki/曲赤 "wikilink") Featuring
-    **MastaMic**、[Lo.J](https://zh.wikipedia.org/wiki/Lo.J "wikilink")
+  - 雙人床 主唱：[曲赤](https://zh.wikipedia.org/wiki/曲赤 "wikilink") Featuring **MastaMic**、[Lo.J](https://zh.wikipedia.org/wiki/Lo.J "wikilink")
   - 戴錯嘢夫人 主唱：[陳淑莊](../Page/陳淑莊.md "wikilink") Featuring **MastaMic**
 
 <!-- end list -->
 
-  - 《佔領新曲＋精選》佔領 主唱：[關楚耀](../Page/關楚耀.md "wikilink") Featuring
-    **MastaMic**
+  - 《佔領新曲＋精選》佔領 主唱：[關楚耀](../Page/關楚耀.md "wikilink") Featuring **MastaMic**
 
 ### 2013年
 
-  - Year Of The Dragon
-    主唱：[Retox'D](https://zh.wikipedia.org/wiki/Retox'D "wikilink")
-    Featuring **MastaMic**
-  - 《Musicologist》N.A.D 主唱：[曹震豪](../Page/曹震豪.md "wikilink") Featuring
-    **MastaMic**
-  - 《五十年後》試音時間 主唱：[陳志嘉](../Page/陳志嘉.md "wikilink") Featuring
-    **MastaMic**
-  - 《流行反擊戰》Hate Me 主唱：**MastaMic** Featuring
-    [Jerald](https://zh.wikipedia.org/wiki/Jerald "wikilink")
-  - 《流行反擊戰》上位 主唱：**MastaMic** Featuring
-    [側田](../Page/側田.md "wikilink")、Jerald
-  - 《流行反擊戰》Showtyme 主唱：**MastaMic** Featuring
-    [咖啡因公园](https://zh.wikipedia.org/wiki/咖啡因公园 "wikilink")
-  - 《流行反擊戰》Shine 主唱：**MastaMic** Featuring [C
-    AllStar](../Page/C_AllStar.md "wikilink")
-  - 《流行反擊戰》Loser Feat 主唱：**MastaMic** Featuring Sunny @ [Supper
-    Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")
+  - Year Of The Dragon 主唱：[Retox'D](https://zh.wikipedia.org/wiki/Retox'D "wikilink") Featuring **MastaMic**
+  - 《Musicologist》N.A.D 主唱：[曹震豪](../Page/曹震豪.md "wikilink") Featuring **MastaMic**
+  - 《五十年後》試音時間 主唱：[陳志嘉](../Page/陳志嘉.md "wikilink") Featuring **MastaMic**
+  - 《流行反擊戰》Hate Me 主唱：**MastaMic** Featuring [Jerald](https://zh.wikipedia.org/wiki/Jerald "wikilink")
+  - 《流行反擊戰》上位 主唱：**MastaMic** Featuring [側田](../Page/側田.md "wikilink")、Jerald
+  - 《流行反擊戰》Showtyme 主唱：**MastaMic** Featuring [咖啡因公园](https://zh.wikipedia.org/wiki/咖啡因公园 "wikilink")
+  - 《流行反擊戰》Shine 主唱：**MastaMic** Featuring [C AllStar](../Page/C_AllStar.md "wikilink")
+  - 《流行反擊戰》Loser Feat 主唱：**MastaMic** Featuring Sunny @ [Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink")
 
 <!-- end list -->
 
-  - 《Cantopopsibility》六神合體 主唱：[C
-    AllStar](../Page/C_AllStar.md "wikilink") Featuring **MastaMic**
-  - 《Our Memories Are...》上面話OK 主唱：[Yellow\!
-    野佬](../Page/野佬.md "wikilink") Featuring **MastaMic**
-  - Instagram Queen體
-    主唱：[NI.NE.MO](https://zh.wikipedia.org/wiki/NI.NE.MO "wikilink")
-    Featuring **MastaMic**
-  - 《Love Is Love》天生一半（天生一半廣東版） 主唱：[鄭秀文](../Page/鄭秀文.md "wikilink")
-    Featuring **MastaMic**
-  - 《獨家試唱》B.O.Y.（Be On You）
-    **MastaMic**與[黎美言](../Page/黎美言.md "wikilink")合唱
+  - 《Cantopopsibility》六神合體 主唱：[C AllStar](../Page/C_AllStar.md "wikilink") Featuring **MastaMic**
+  - 《Our Memories Are...》上面話OK 主唱：[Yellow\! 野佬](../Page/野佬.md "wikilink") Featuring **MastaMic**
+  - Instagram Queen體 主唱：[NI.NE.MO](https://zh.wikipedia.org/wiki/NI.NE.MO "wikilink") Featuring **MastaMic**
+  - 《Love Is Love》天生一半（天生一半廣東版） 主唱：[鄭秀文](../Page/鄭秀文.md "wikilink") Featuring **MastaMic**
+  - 《獨家試唱》B.O.Y.（Be On You） **MastaMic**與[黎美言](../Page/黎美言.md "wikilink")合唱
 
 ### 2014年
 
-  - 《Eason’s LIFE 陳奕迅2013演唱會Blu-ray》主旋律之安魂曲
-    主唱：[陳奕迅](../Page/陳奕迅.md "wikilink") Featuring
-    **MastaMic**、[姜麗文](../Page/姜麗文.md "wikilink")
+  - 《Eason’s LIFE 陳奕迅2013演唱會Blu-ray》主旋律之安魂曲 主唱：[陳奕迅](../Page/陳奕迅.md "wikilink") Featuring **MastaMic**、[姜麗文](../Page/姜麗文.md "wikilink")
   - 《Love Is Love「限量加強版」》天生一半（天生一半國語版） 主唱：鄭秀文 Featuring **MastaMic**
 
 <!-- end list -->
@@ -218,15 +184,12 @@ feat. [DJ Tin Ho](https://zh.wikipedia.org/wiki/DJ_Tin_Ho "wikilink") &
 
 ### 2015年
 
-  - 《Change Your Life》走 主唱：[劉浩龍](../Page/劉浩龍.md "wikilink") Featuring
-    **MastaMic**
+  - 《Change Your Life》走 主唱：[劉浩龍](../Page/劉浩龍.md "wikilink") Featuring **MastaMic**
 
 ### 2016年
 
-  - 《Coexistence》Keep On, Fight On 主唱：[馮允謙](../Page/馮允謙.md "wikilink")
-    Featuring **MastaMic**
-  - \#Jungle主唱： **MastaMic**
-    旁白：[顏聯武](https://zh.wikipedia.org/wiki/顏聯武 "wikilink")
+  - 《Coexistence》Keep On, Fight On 主唱：[馮允謙](../Page/馮允謙.md "wikilink") Featuring **MastaMic**
+  - \#Jungle主唱： **MastaMic** 旁白：[顏聯武](https://zh.wikipedia.org/wiki/顏聯武 "wikilink")
 
 <!-- end list -->
 
@@ -236,8 +199,7 @@ feat. [DJ Tin Ho](https://zh.wikipedia.org/wiki/DJ_Tin_Ho "wikilink") &
 
 ### 2017年
 
-  - Backseat Love 主唱：**MastaMic** Featuring **[Soul
-    Jase](../Page/何建曦.md "wikilink")**
+  - Backseat Love 主唱：**MastaMic** Featuring **[Soul Jase](../Page/何建曦.md "wikilink")**
 
 ### 2018年
 
@@ -294,14 +256,7 @@ feat. [DJ Tin Ho](https://zh.wikipedia.org/wiki/DJ_Tin_Ho "wikilink") &
   - [官方網站](http://www.mastamic.com.hk/)
   - [Facebook專頁](https://www.facebook.com/MastaMic?fref=ts)
 
-[Category:粤语Hip-Hop](https://zh.wikipedia.org/wiki/Category:粤语Hip-Hop "wikilink")
-[Category:香港男歌手](https://zh.wikipedia.org/wiki/Category:香港男歌手 "wikilink")
-[Category:饒舌歌手](https://zh.wikipedia.org/wiki/Category:饒舌歌手 "wikilink")
-[Category:香港創作歌手](https://zh.wikipedia.org/wiki/Category:香港創作歌手 "wikilink")
-[Category:張祝珊英文中學校友](https://zh.wikipedia.org/wiki/Category:張祝珊英文中學校友 "wikilink")
-[Category:武漢大學校友](https://zh.wikipedia.org/wiki/Category:武漢大學校友 "wikilink")
-[Category:香港YouTuber](https://zh.wikipedia.org/wiki/Category:香港YouTuber "wikilink")
+[Category:粤语Hip-Hop](https://zh.wikipedia.org/wiki/Category:粤语Hip-Hop "wikilink") [Category:香港男歌手](https://zh.wikipedia.org/wiki/Category:香港男歌手 "wikilink") [Category:饒舌歌手](https://zh.wikipedia.org/wiki/Category:饒舌歌手 "wikilink") [Category:香港創作歌手](https://zh.wikipedia.org/wiki/Category:香港創作歌手 "wikilink") [Category:張祝珊英文中學校友](https://zh.wikipedia.org/wiki/Category:張祝珊英文中學校友 "wikilink") [Category:武漢大學校友](https://zh.wikipedia.org/wiki/Category:武漢大學校友 "wikilink") [Category:香港YouTuber](https://zh.wikipedia.org/wiki/Category:香港YouTuber "wikilink")
 
 1.
-2.  [【年度人物】當Rap Up回顧將成往事 MastaMic
-    一次過Rap盡香港3,653天](https://bkb.mpweekly.com/cu0001/20171230-62960?v=false)
+2.  [【年度人物】當Rap Up回顧將成往事 MastaMic 一次過Rap盡香港3,653天](https://bkb.mpweekly.com/cu0001/20171230-62960?v=false)

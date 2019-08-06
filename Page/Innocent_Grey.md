@@ -1,5 +1,4 @@
-**Innocent
-Grey**（）\[1\]是[日本](../Page/日本.md "wikilink")[galgame开发公司Gungnir会社的主打游戏品牌](https://zh.wikipedia.org/wiki/galgame "wikilink")。
+**Innocent Grey**（）\[1\]是[日本](../Page/日本.md "wikilink")[galgame开发公司Gungnir会社的主打游戏品牌](https://zh.wikipedia.org/wiki/galgame "wikilink")。
 
 ## 作品
 
@@ -13,19 +12,14 @@ Grey**（）\[1\]是[日本](../Page/日本.md "wikilink")[galgame开发公司Gu
       - 2013年2月8日 - [虚之少女](../Page/虚之少女.md "wikilink")
   - 2009年12月11日 -
   - 2010年12月3日 - Innocent Grey premium box（《恋狱月狂病》、《壳之少女》等4部作品合集\[2\]）
-  - 2014年4月18日 - [FLOWERS -Le volume sur
-    printemps-](../Page/FLOWERS.md "wikilink") （春篇）（※全年龄）
-      - 2015年4月17日 - [FLOWERS -Le volume sur
-        été-](../Page/FLOWERS.md "wikilink") （夏篇）（※全年龄）
-      - 2016年5月27日 - [FLOWERS -Le volume sur
-        automne-](../Page/FLOWERS.md "wikilink") （秋篇）（※全年龄）
-      - 2017年9月15日 - [FLOWERS -Le volume sur
-        hiver-](../Page/FLOWERS.md "wikilink") （冬篇）（※全年龄）
+  - 2014年4月18日 - [FLOWERS -Le volume sur printemps-](../Page/FLOWERS.md "wikilink") （春篇）（※全年龄）
+      - 2015年4月17日 - [FLOWERS -Le volume sur été-](../Page/FLOWERS.md "wikilink") （夏篇）（※全年龄）
+      - 2016年5月27日 - [FLOWERS -Le volume sur automne-](../Page/FLOWERS.md "wikilink") （秋篇）（※全年龄）
+      - 2017年9月15日 - [FLOWERS -Le volume sur hiver-](../Page/FLOWERS.md "wikilink") （冬篇）（※全年龄）
 
 ### Noesis
 
-与Innocent
-Grey同属Gungnir公司旗下的游戏品牌，由咖啡贵族担任主创。随着从Gungnir公司离职，已于2014年8月14日无限期停止活动\[3\]。
+与Innocent Grey同属Gungnir公司旗下的游戏品牌，由咖啡贵族担任主创。随着从Gungnir公司离职，已于2014年8月14日无限期停止活动\[3\]。
 
   - 2007年8月3日 - 放課後の先パイ
   - 2008年10月10日 - マーブル★ブルマ
@@ -116,8 +110,7 @@ Grey同属Gungnir公司旗下的游戏品牌，由咖啡贵族担任主创。随
   -
   - [スタッフルーム](http://www.gungnir.co.jp/staffroom/sfs4_diary/)
 
-[Category:2004年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2004年開業電子遊戲公司 "wikilink")
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
+[Category:2004年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2004年開業電子遊戲公司 "wikilink") [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
 
 1.
 2.

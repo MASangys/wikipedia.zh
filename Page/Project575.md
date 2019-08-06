@@ -29,8 +29,7 @@
 
 2013年发布了iOS版本的游戏《》，2014年2月14日再发布了《》，但都因为参与人数不足导致不足够维持营运而于2014年5月19日终止。
 
-2014年1月23日发售了[PS
-Vita版本的游戏](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")《》。
+2014年1月23日发售了[PS Vita版本的游戏](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")《》。
 
 ## 动画
 
@@ -129,6 +128,4 @@ Vita版本的游戏](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")《》。
       -
       - [TV动画《GO\!GO\!575》官网](http://gogo575.sega.jp/)
 
-[Category:世嘉](https://zh.wikipedia.org/wiki/Category:世嘉 "wikilink")
-[Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink")
-[Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink")
+[Category:世嘉](https://zh.wikipedia.org/wiki/Category:世嘉 "wikilink") [Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink") [Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink")

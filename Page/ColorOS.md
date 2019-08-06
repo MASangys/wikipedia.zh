@@ -65,10 +65,7 @@ ColorOS在中國版本中預設去除了[Google服務框架](https://zh.wikipedi
 
   - [ColorOS](http://www.coloros.com/)
 
-[Category:售後韌體](https://zh.wikipedia.org/wiki/Category:售後韌體 "wikilink")
-[Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink")
-[Category:嵌入式作業系統](https://zh.wikipedia.org/wiki/Category:嵌入式作業系統 "wikilink")
-[Category:嵌入式Linux](https://zh.wikipedia.org/wiki/Category:嵌入式Linux "wikilink")
+[Category:售後韌體](https://zh.wikipedia.org/wiki/Category:售後韌體 "wikilink") [Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink") [Category:嵌入式作業系統](https://zh.wikipedia.org/wiki/Category:嵌入式作業系統 "wikilink") [Category:嵌入式Linux](https://zh.wikipedia.org/wiki/Category:嵌入式Linux "wikilink")
 
 1.
 2.  <http://hebei.ifeng.com/finance/detail_2014_06/12/2418901_0.shtml>

@@ -1,5 +1,4 @@
-《**SAMMI**》是[鄭秀文](../Page/鄭秀文.md "wikilink")的第六張粵語專輯，1994年12月18日推出\[1\]。第一主打《苦戀》，第二主打《失憶》
-，第三主打《給最傷心的人》\[2\]。
+《**SAMMI**》是[鄭秀文](../Page/鄭秀文.md "wikilink")的第六張粵語專輯，1994年12月18日推出\[1\]。第一主打《苦戀》，第二主打《失憶》 ，第三主打《給最傷心的人》\[2\]。
 
 ## 專輯介紹
 
@@ -29,10 +28,7 @@
 
 ## 参考
 
-[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink")
-[Category:1994年音樂專輯](https://zh.wikipedia.org/wiki/Category:1994年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink") [Category:1994年音樂專輯](https://zh.wikipedia.org/wiki/Category:1994年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
 1.
 2.

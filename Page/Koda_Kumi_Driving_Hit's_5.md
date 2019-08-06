@@ -1,5 +1,4 @@
-《KODA KUMI DRIVING HIT'S
-5》（飆速快感混音極選～5）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2013年3月20日發行的第6張[混音](../Page/混音.md "wikilink")專輯。
+《KODA KUMI DRIVING HIT'S 5》（飆速快感混音極選～5）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2013年3月20日發行的第6張[混音](../Page/混音.md "wikilink")專輯。
 
 ## 解說
 
@@ -38,8 +37,7 @@
 12. Let's Party \[KOZM(R) Remix\]
 13. 好愛好愛你 \[Dirt $outh (RE:LABEL(R)) Remix］
 14. Alone \[Prog5 Classic Remix\]
-15. One more time, One more chance \[Shohei Matsumoto & Junichi Matsuda
-    Remix\]
+15. One more time, One more chance \[Shohei Matsumoto & Junichi Matsuda Remix\]
 16. 愛語 \[AILI's Warmy Remix\]
 
 ## 資料來源

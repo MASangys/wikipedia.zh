@@ -16,8 +16,6 @@ KPackage的後繼者為Shaman2\[1\]。
 
   - [KPackage使用者wiki](http://userbase.kde.org/KPackage)
 
-[Category:软件包管理系统](https://zh.wikipedia.org/wiki/Category:软件包管理系统 "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:C++軟體](https://zh.wikipedia.org/wiki/Category:C++軟體 "wikilink")
+[Category:软件包管理系统](https://zh.wikipedia.org/wiki/Category:软件包管理系统 "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:C++軟體](https://zh.wikipedia.org/wiki/Category:C++軟體 "wikilink")
 
 1.

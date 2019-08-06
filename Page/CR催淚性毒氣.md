@@ -6,8 +6,7 @@ CR纯品为淡黄色无臭粉末，熔点72℃，难溶于水，易溶于丙二�
 
 ## 合成
 
-CR有多种合成路线，从邻氨基苯酚和邻氟苯甲醛出发合成CR的路线分别如下:\[2\]
-[CR-syn.png](https://zh.wikipedia.org/wiki/File:CR-syn.png "fig:CR-syn.png")
+CR有多种合成路线，从邻氨基苯酚和邻氟苯甲醛出发合成CR的路线分别如下:\[2\] [CR-syn.png](https://zh.wikipedia.org/wiki/File:CR-syn.png "fig:CR-syn.png")
 
 ## 战斗效果
 
@@ -39,16 +38,11 @@ CR和CS不同，CS可以用大量水去除，然而水却反而会加剧CR的作
 
 ## 参考资料
 
-[Category:化学武器](https://zh.wikipedia.org/wiki/Category:化学武器 "wikilink")
-[Category:催泪剂](https://zh.wikipedia.org/wiki/Category:催泪剂 "wikilink")
-[Category:有机氮化合物](https://zh.wikipedia.org/wiki/Category:有机氮化合物 "wikilink")
-[Category:刺激性毒剂](https://zh.wikipedia.org/wiki/Category:刺激性毒剂 "wikilink")
+[Category:化学武器](https://zh.wikipedia.org/wiki/Category:化学武器 "wikilink") [Category:催泪剂](https://zh.wikipedia.org/wiki/Category:催泪剂 "wikilink") [Category:有机氮化合物](https://zh.wikipedia.org/wiki/Category:有机氮化合物 "wikilink") [Category:刺激性毒剂](https://zh.wikipedia.org/wiki/Category:刺激性毒剂 "wikilink")
 
 1.
 
-2.  Hossein Fakhraian,Yaser Nafary Chemlnform Abstract:Reinvestigation
-    og Alternative Method for the Preparation of Dibenzo\[b,f\]
-    \[1,4\]oxazepine.J.Heterocycl.Chem.49,988-992(2009)
+2.  Hossein Fakhraian,Yaser Nafary Chemlnform Abstract:Reinvestigation og Alternative Method for the Preparation of Dibenzo\[b,f\] \[1,4\]oxazepine.J.Heterocycl.Chem.49,988-992(2009)
 
 3.
 
@@ -59,8 +53,7 @@ CR和CS不同，CS可以用大量水去除，然而水却反而会加剧CR的作
 
 7.
 
-8.  Farida Helmy, "Chemical Combat"（《化学战争》）, Egypt Today
-    Magazine（《埃及今日杂志》）, January 2012 issue
+8.  Farida Helmy, "Chemical Combat"（《化学战争》）, Egypt Today Magazine（《埃及今日杂志》）, January 2012 issue
 
 9.
 

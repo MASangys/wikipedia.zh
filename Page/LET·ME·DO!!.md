@@ -12,11 +12,9 @@
 
 2011年8月8日的[Oircon週間單曲排行榜獲得第](../Page/Oricon公信榜.md "wikilink")8位。
 
-2011年8月8日的Billboard JAPAN HOT 100獲得第51位，Billboard JAPAN Hot Singles
-Sales獲得第8位，Billboard Hot Animation獲得第5位。
+2011年8月8日的Billboard JAPAN HOT 100獲得第51位，Billboard JAPAN Hot Singles Sales獲得第8位，Billboard Hot Animation獲得第5位。
 
-2011年8月6日播放的[COUNT DOWN TV内的This](../Page/COUNT_DOWN_TV.md "wikilink")
-Week's TOP 100獲得第15位。
+2011年8月6日播放的[COUNT DOWN TV内的This](../Page/COUNT_DOWN_TV.md "wikilink") Week's TOP 100獲得第15位。
 
 ## 收錄曲
 
@@ -37,8 +35,7 @@ Week's TOP 100獲得第15位。
 
 <!-- end list -->
 
-1.  LET・ME・DO\!\!（[Music
-    Clip](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")）
+1.  LET・ME・DO\!\!（[Music Clip](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")）
 
 ## 備註
 
@@ -48,7 +45,4 @@ Week's TOP 100獲得第15位。
       - [初回限定盤](http://www.gloryheaven.jp/release/data.php?id=f0646e9f79cf222d2a878be14b703eaf)
       - [通常盤](http://www.gloryheaven.jp/release/data.php?id=15643b8e9bffa454de4480fb607b7216)
 
-[Category:Sphere歌曲](https://zh.wikipedia.org/wiki/Category:Sphere歌曲 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:日本電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台節目主題曲 "wikilink")
-[Category:兒玉沙織製作的樂曲](https://zh.wikipedia.org/wiki/Category:兒玉沙織製作的樂曲 "wikilink")
+[Category:Sphere歌曲](https://zh.wikipedia.org/wiki/Category:Sphere歌曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:日本電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台節目主題曲 "wikilink") [Category:兒玉沙織製作的樂曲](https://zh.wikipedia.org/wiki/Category:兒玉沙織製作的樂曲 "wikilink")

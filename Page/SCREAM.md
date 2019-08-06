@@ -1,5 +1,4 @@
-《**SCREAM**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起](../Page/東方神起.md "wikilink")在日本发行的第38张[单曲](../Page/单曲.md "wikilink")。于2013年9月4日由[avex
-trax公司发行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
+《**SCREAM**》是[韩国男子团体](https://zh.wikipedia.org/wiki/韩国 "wikilink")[東方神起](../Page/東方神起.md "wikilink")在日本发行的第38张[单曲](../Page/单曲.md "wikilink")。于2013年9月4日由[avex trax公司发行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -57,7 +56,4 @@ trax公司发行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 外部链接
 
-[Category:東方神起歌曲](https://zh.wikipedia.org/wiki/Category:東方神起歌曲 "wikilink")
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
-[Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
+[Category:東方神起歌曲](https://zh.wikipedia.org/wiki/Category:東方神起歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")

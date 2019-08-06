@@ -12,8 +12,7 @@ PTRD-41具有很多缺陷，其中最顯著的問題是無法有效的貫穿敵�
 
 而部份剩餘的PTRD-41被提供了給[中國人民志願軍及](https://zh.wikipedia.org/wiki/中國人民志願軍 "wikilink")[朝鮮人民軍在](https://zh.wikipedia.org/wiki/朝鮮人民軍 "wikilink")[韓戰的期間使用](https://zh.wikipedia.org/wiki/韓戰 "wikilink")。
 
-[美國陸軍炮官威廉](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")·布羅菲曾在一挺繳獲的PTRD-41裝上[.50
-BMG口徑的](https://zh.wikipedia.org/wiki/.50_BMG "wikilink")[槍管](../Page/槍管.md "wikilink")以測試此槍的射程。在測試期間發現了此槍的有效射程在2,000碼以外\[1\]。
+[美國陸軍炮官威廉](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")·布羅菲曾在一挺繳獲的PTRD-41裝上[.50 BMG口徑的](https://zh.wikipedia.org/wiki/.50_BMG "wikilink")[槍管](../Page/槍管.md "wikilink")以測試此槍的射程。在測試期間發現了此槍的有效射程在2,000碼以外\[1\]。
 
 ## 使用國
 
@@ -32,13 +31,11 @@ BMG口徑的](https://zh.wikipedia.org/wiki/.50_BMG "wikilink")[槍管](../Page/
 
 ### [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")
 
-  - 2009年—《[DARKER THAN
-    BLACK—流星之雙子](https://zh.wikipedia.org/wiki/DARKER_THAN_BLACK "wikilink")》：蘇芳·米哈伊洛芙娜·帕夫利琴科能夠以她的契約能力憑空召喚出一挺PTRD-41，會裝上瞄準鏡使用。
+  - 2009年—《[DARKER THAN BLACK—流星之雙子](https://zh.wikipedia.org/wiki/DARKER_THAN_BLACK "wikilink")》：蘇芳·米哈伊洛芙娜·帕夫利琴科能夠以她的契約能力憑空召喚出一挺PTRD-41，會裝上瞄準鏡使用。
 
 ### 小說
 
-  - 2014年—《[刀劍神域外傳 Gun Gale
-    Online](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》：“SHINC”小隊使用經過簡易改造、加裝瞄準鏡的PTRD-41。
+  - 2014年—《[刀劍神域外傳 Gun Gale Online](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")》：“SHINC”小隊使用經過簡易改造、加裝瞄準鏡的PTRD-41。
 
 ### 遊戲
 
@@ -58,19 +55,10 @@ BMG口徑的](https://zh.wikipedia.org/wiki/.50_BMG "wikilink")[槍管](../Page/
 
 ## 外部連結
 
-  - [Russian 14.5 mm antitank rifle
-    PTRD-1941](https://web.archive.org/web/20060217024335/http://www.rt66.com/~korteng/SmallArms/antitank.htm)
+  - [Russian 14.5 mm antitank rifle PTRD-1941](https://web.archive.org/web/20060217024335/http://www.rt66.com/~korteng/SmallArms/antitank.htm)
   - [The PTRD 1941](http://www.antitank.co.uk/russian1.htm)
 
-[Category:反坦克步槍](https://zh.wikipedia.org/wiki/Category:反坦克步槍 "wikilink")
-[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink")
-[Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink")
-[Category:14.5×114毫米槍械](https://zh.wikipedia.org/wiki/Category:14.5×114毫米槍械 "wikilink")
-[Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")
-[Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
-[Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink")
-[Category:捷格加廖夫工廠](https://zh.wikipedia.org/wiki/Category:捷格加廖夫工廠 "wikilink")
+[Category:反坦克步槍](https://zh.wikipedia.org/wiki/Category:反坦克步槍 "wikilink") [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:14.5×114毫米槍械](https://zh.wikipedia.org/wiki/Category:14.5×114毫米槍械 "wikilink") [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink") [Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink") [Category:捷格加廖夫工廠](https://zh.wikipedia.org/wiki/Category:捷格加廖夫工廠 "wikilink")
 
 1.
 2.  <https://m.youtube.com/watch?v=SJ08aPtFXDA>

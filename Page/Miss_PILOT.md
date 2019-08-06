@@ -1,5 +1,4 @@
-《**Miss
-PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")於2013年10月15日起開播的週二晚間十點檔連續劇，由[堀北真希](../Page/堀北真希.md "wikilink")主演\[1\]\[2\]。
+《**Miss PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")於2013年10月15日起開播的週二晚間十點檔連續劇，由[堀北真希](../Page/堀北真希.md "wikilink")主演\[1\]\[2\]。
 
 ## 概要
 
@@ -16,8 +15,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Pa
 
 <!-- end list -->
 
-  - **手塚晴** - [堀北真希](../Page/堀北真希.md "wikilink")
-    （香港配音：[张颂欣](https://zh.wikipedia.org/wiki/张颂欣 "wikilink")）
+  - **手塚晴** - [堀北真希](../Page/堀北真希.md "wikilink") （香港配音：[张颂欣](https://zh.wikipedia.org/wiki/张颂欣 "wikilink")）
 
 <!-- end list -->
 
@@ -27,8 +25,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Pa
 
 <!-- end list -->
 
-  - **小田千里** - [相武紗季](../Page/相武紗季.md "wikilink")
-    （香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
+  - **小田千里** - [相武紗季](../Page/相武紗季.md "wikilink") （香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
 
 <!-- end list -->
 
@@ -39,8 +36,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Pa
 
 <!-- end list -->
 
-  - **岸井泰治** - [間宮祥太朗](../Page/間宮祥太朗.md "wikilink")
-    （香港配音：[李鎮然](../Page/李鎮然.md "wikilink")）
+  - **岸井泰治** - [間宮祥太朗](../Page/間宮祥太朗.md "wikilink") （香港配音：[李鎮然](../Page/李鎮然.md "wikilink")）
 
 <!-- end list -->
 
@@ -49,8 +45,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Pa
 
 <!-- end list -->
 
-  - **小鳥翔** -
-    [小柳友](../Page/小柳友.md "wikilink")（香港配音：[李凱傑](../Page/李凱傑.md "wikilink")）
+  - **小鳥翔** - [小柳友](../Page/小柳友.md "wikilink")（香港配音：[李凱傑](../Page/李凱傑.md "wikilink")）
 
 <!-- end list -->
 
@@ -59,8 +54,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Pa
 
 <!-- end list -->
 
-  - **山田一男** -
-    [藤井流星](../Page/藤井流星.md "wikilink")（香港配音：[張方正](../Page/張方正.md "wikilink")）
+  - **山田一男** - [藤井流星](../Page/藤井流星.md "wikilink")（香港配音：[張方正](../Page/張方正.md "wikilink")）
 
 <!-- end list -->
 
@@ -78,8 +72,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Pa
 
 #### 培训中心
 
-  - **國木田孝之助** -
-    [齋藤工](../Page/齋藤工.md "wikilink")（香港配音：[梁伟德](https://zh.wikipedia.org/wiki/梁伟德 "wikilink")）
+  - **國木田孝之助** - [齋藤工](../Page/齋藤工.md "wikilink")（香港配音：[梁伟德](https://zh.wikipedia.org/wiki/梁伟德 "wikilink")）
 
 <!-- end list -->
 
@@ -88,8 +81,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Pa
 
 <!-- end list -->
 
-  - **篠崎一豐** -
-    （香港配音：[朱子聪](https://zh.wikipedia.org/wiki/朱子聪 "wikilink")）
+  - **篠崎一豐** - （香港配音：[朱子聪](https://zh.wikipedia.org/wiki/朱子聪 "wikilink")）
 
 <!-- end list -->
 
@@ -103,8 +95,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Pa
 
 <!-- end list -->
 
-  - **阿倍野铃** -
-    [樱庭奈奈美](https://zh.wikipedia.org/wiki/樱庭奈奈美 "wikilink")（香港配音：[陈皓宜](https://zh.wikipedia.org/wiki/陈皓宜 "wikilink")）
+  - **阿倍野铃** - [樱庭奈奈美](https://zh.wikipedia.org/wiki/樱庭奈奈美 "wikilink")（香港配音：[陈皓宜](https://zh.wikipedia.org/wiki/陈皓宜 "wikilink")）
 
 <!-- end list -->
 
@@ -113,8 +104,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Pa
 
 <!-- end list -->
 
-  - **铃木伦子** -
-    [菜菜緒](../Page/菜菜緒.md "wikilink")（香港配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
+  - **铃木伦子** - [菜菜緒](../Page/菜菜緒.md "wikilink")（香港配音：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
 
 <!-- end list -->
 
@@ -150,8 +140,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Pa
 
 <!-- end list -->
 
-  - **手塚良美** -
-    （香港配音：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")）
+  - **手塚良美** - （香港配音：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")）
 
 <!-- end list -->
 
@@ -227,8 +216,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Pa
 
 <!-- end list -->
 
-  - **藤川愛** -
-    [大宮千莉](https://zh.wikipedia.org/wiki/大宮千莉 "wikilink")（香港配音：[凌晞](../Page/凌晞.md "wikilink")）
+  - **藤川愛** - [大宮千莉](https://zh.wikipedia.org/wiki/大宮千莉 "wikilink")（香港配音：[凌晞](../Page/凌晞.md "wikilink")）
 
 <!-- end list -->
 
@@ -237,8 +225,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Pa
 
 #### 第5～7集
 
-  - **洛伊** -
-    [鮑伯·薩普](https://zh.wikipedia.org/wiki/鮑伯·薩普 "wikilink")（香港配音：[劉昭文](../Page/劉昭文.md "wikilink")）
+  - **洛伊** - [鮑伯·薩普](https://zh.wikipedia.org/wiki/鮑伯·薩普 "wikilink")（香港配音：[劉昭文](../Page/劉昭文.md "wikilink")）
 
 <!-- end list -->
 
@@ -247,8 +234,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Pa
 
 <!-- end list -->
 
-  - **艾力克** -
-    [布雷特·吉倫](https://zh.wikipedia.org/wiki/布雷特·吉倫 "wikilink")（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）
+  - **艾力克** - [布雷特·吉倫](https://zh.wikipedia.org/wiki/布雷特·吉倫 "wikilink")（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）
 
 <!-- end list -->
 
@@ -284,16 +270,14 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Pa
 
 ## 在劇中登場的民航機機種
 
-  - [波音747](../Page/波音747.md "wikilink")、[波音767](../Page/波音767.md "wikilink")、[波音777](https://zh.wikipedia.org/wiki/波音777 "wikilink")、[波音787](../Page/波音787.md "wikilink")、[塞斯納
-    172](https://zh.wikipedia.org/wiki/塞斯納_172 "wikilink")、[派珀PA-44](https://zh.wikipedia.org/wiki/派珀PA-44 "wikilink")
+  - [波音747](../Page/波音747.md "wikilink")、[波音767](../Page/波音767.md "wikilink")、[波音777](https://zh.wikipedia.org/wiki/波音777 "wikilink")、[波音787](../Page/波音787.md "wikilink")、[塞斯納 172](https://zh.wikipedia.org/wiki/塞斯納_172 "wikilink")、[派珀PA-44](https://zh.wikipedia.org/wiki/派珀PA-44 "wikilink")
 
 ## 製作團隊
 
   - 劇本：櫻井剛、池上純哉、小峯裕之
   - 音樂：末廣健一郎、得田真裕
   - 導演：澤田鎌作、成田岳、長瀨國博、森脇智延
-  - 主題曲：[kaho](https://zh.wikipedia.org/wiki/kaho "wikilink")《every
-    hero》（Sony Music Records）
+  - 主題曲：[kaho](https://zh.wikipedia.org/wiki/kaho "wikilink")《every hero》（Sony Music Records）
   - 助理導演：三橋利行
   - 戲劇標題：山本雅之
   - 視覺特效：鴫原譲、赤羽智史
@@ -312,8 +296,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Pa
 
 <!-- end list -->
 
-  - 協力：[全日本航空](https://zh.wikipedia.org/wiki/全日本航空 "wikilink")、UND
-    AEROSPACE
+  - 協力：[全日本航空](https://zh.wikipedia.org/wiki/全日本航空 "wikilink")、UND AEROSPACE
   - 製作協力：FILM
   - 製作著作：[富士電視台](../Page/富士電視台.md "wikilink")戲劇製作部
 
@@ -451,18 +434,9 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Pa
 
 ## 節目的變遷
 
-[Category:堀北真希](https://zh.wikipedia.org/wiki/Category:堀北真希 "wikilink")
-[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink")
-[Category:航空题材电视剧](https://zh.wikipedia.org/wiki/Category:航空题材电视剧 "wikilink")
-[Category:勵志題材電視劇](https://zh.wikipedia.org/wiki/Category:勵志題材電視劇 "wikilink")
-[Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")
-[Category:東京國際機場背景作品](https://zh.wikipedia.org/wiki/Category:東京國際機場背景作品 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
+[Category:堀北真希](https://zh.wikipedia.org/wiki/Category:堀北真希 "wikilink") [Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink") [Category:航空题材电视剧](https://zh.wikipedia.org/wiki/Category:航空题材电视剧 "wikilink") [Category:勵志題材電視劇](https://zh.wikipedia.org/wiki/Category:勵志題材電視劇 "wikilink") [Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink") [Category:東京國際機場背景作品](https://zh.wikipedia.org/wiki/Category:東京國際機場背景作品 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
 
 1.
 2.
 3.  <http://japan.videoland.com.tw/channel/20140804/introduction.asp>
-4.  [ミス・パイロット - スポニチ Sponichi Annex
-    芸能](http://www.sponichi.co.jp/entertainment/yomimono/drama/2013/10_12/misspilot/)
-    、10月16日参照。
+4.  [ミス・パイロット - スポニチ Sponichi Annex 芸能](http://www.sponichi.co.jp/entertainment/yomimono/drama/2013/10_12/misspilot/) 、10月16日参照。

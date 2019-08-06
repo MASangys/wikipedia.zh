@@ -4,10 +4,8 @@
 
 ###
 
-  - [曼谷](../Page/曼谷.md "wikilink")－[蘇凡納布國際機場](https://zh.wikipedia.org/wiki/蘇凡納布機場 "wikilink")
-    **總部**
-  - [普吉島](https://zh.wikipedia.org/wiki/普吉島 "wikilink")－[普吉國際機場](https://zh.wikipedia.org/wiki/普吉國際機場 "wikilink")
-    *重點機場*
+  - [曼谷](../Page/曼谷.md "wikilink")－[蘇凡納布國際機場](https://zh.wikipedia.org/wiki/蘇凡納布機場 "wikilink") **總部**
+  - [普吉島](https://zh.wikipedia.org/wiki/普吉島 "wikilink")－[普吉國際機場](https://zh.wikipedia.org/wiki/普吉國際機場 "wikilink") *重點機場*
 
 ###
 
@@ -43,8 +41,6 @@
 
 ## 參考
 
-[Category:泰國航空公司](https://zh.wikipedia.org/wiki/Category:泰國航空公司 "wikilink")
-[Category:2012年泰國建立](https://zh.wikipedia.org/wiki/Category:2012年泰國建立 "wikilink")
-[Category:2012年成立的航空公司](https://zh.wikipedia.org/wiki/Category:2012年成立的航空公司 "wikilink")
+[Category:泰國航空公司](https://zh.wikipedia.org/wiki/Category:泰國航空公司 "wikilink") [Category:2012年泰國建立](https://zh.wikipedia.org/wiki/Category:2012年泰國建立 "wikilink") [Category:2012年成立的航空公司](https://zh.wikipedia.org/wiki/Category:2012年成立的航空公司 "wikilink")
 
 1.  [U航空定期航班表](http://www.u-airlines.com/book4you/en/schedule.html)

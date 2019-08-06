@@ -26,8 +26,7 @@ P-800與以往俄系衝壓噴射引擎飛彈最大的不同處，除了進氣口
 
 <!-- end list -->
 
-  - –採購套件不明，共採購50枚飛彈。其中4管垂直發射系統移植到范·斯佩克級巡防艦（Van Speijk-class
-    frigate）Oswald Siahaan號上。
+  - –採購套件不明，共採購50枚飛彈。其中4管垂直發射系統移植到范·斯佩克級巡防艦（Van Speijk-class frigate）Oswald Siahaan號上。
 
   - –2套[棱堡岸基反艦系統](../Page/棱堡岸基反艦系統.md "wikilink")，72枚飛彈；2007年訂購，2011年底前已交付完畢。有部分系統毀於2013年7月以色列對敘利亞之空襲，避免飛彈落入真主黨等團體。
 
@@ -41,11 +40,7 @@ P-800與以往俄系衝壓噴射引擎飛彈最大的不同處，除了進氣口
 
 <references/>
 
-[Category:反艦飛彈](https://zh.wikipedia.org/wiki/Category:反艦飛彈 "wikilink")
-[Category:苏联飞弹](https://zh.wikipedia.org/wiki/Category:苏联飞弹 "wikilink")
-[Category:冲压发动机](https://zh.wikipedia.org/wiki/Category:冲压发动机 "wikilink")
-[Category:俄罗斯导弹](https://zh.wikipedia.org/wiki/Category:俄罗斯导弹 "wikilink")
-[Category:面对面导弹](https://zh.wikipedia.org/wiki/Category:面对面导弹 "wikilink")
+[Category:反艦飛彈](https://zh.wikipedia.org/wiki/Category:反艦飛彈 "wikilink") [Category:苏联飞弹](https://zh.wikipedia.org/wiki/Category:苏联飞弹 "wikilink") [Category:冲压发动机](https://zh.wikipedia.org/wiki/Category:冲压发动机 "wikilink") [Category:俄罗斯导弹](https://zh.wikipedia.org/wiki/Category:俄罗斯导弹 "wikilink") [Category:面对面导弹](https://zh.wikipedia.org/wiki/Category:面对面导弹 "wikilink")
 
 1.  <http://lenta.ru/news/2011/12/01/bastion/>
 2.

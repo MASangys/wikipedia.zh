@@ -174,9 +174,7 @@ Girl's Power</p></td>
 
   -
   -
-[Category:TVBS電視劇](https://zh.wikipedia.org/wiki/Category:TVBS電視劇 "wikilink")
-[Category:聯利媒體製作電視節目](https://zh.wikipedia.org/wiki/Category:聯利媒體製作電視節目 "wikilink")
-[Category:台灣電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:台灣電視台電視劇列表 "wikilink")
+[Category:TVBS電視劇](https://zh.wikipedia.org/wiki/Category:TVBS電視劇 "wikilink") [Category:聯利媒體製作電視節目](https://zh.wikipedia.org/wiki/Category:聯利媒體製作電視節目 "wikilink") [Category:台灣電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:台灣電視台電視劇列表 "wikilink")
 
 1.
 2.

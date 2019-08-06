@@ -47,8 +47,6 @@
 
   - [官方網站](http://www.eurosport.com)
   - [簡體中文官方網站](https://web.archive.org/web/20080905233235/http://eurosport.sohu.com/)
-  - [Eurosport Asia
-    Pacific節目表](http://yahoo.eurosport.com/tvschedule_clng0.shtml)
+  - [Eurosport Asia Pacific節目表](http://yahoo.eurosport.com/tvschedule_clng0.shtml)
 
-[Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink")
-[Category:Eurosport](https://zh.wikipedia.org/wiki/Category:Eurosport "wikilink")
+[Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink") [Category:Eurosport](https://zh.wikipedia.org/wiki/Category:Eurosport "wikilink")

@@ -1,5 +1,4 @@
-Bandits是一个比利时的流行乐团，由主唱Jasper Publie (1996), 贝斯手 Thomas Van Achteren
-(1995), 吉他手 Tim Tielemans (1998) 和鼓手 Toon Smet (1997)所组成。
+Bandits是一个比利时的流行乐团，由主唱Jasper Publie (1996), 贝斯手 Thomas Van Achteren (1995), 吉他手 Tim Tielemans (1998) 和鼓手 Toon Smet (1997)所组成。
 
 ## 历史
 
@@ -15,9 +14,7 @@ Jasper参加了Junior Eurovision Song Contest比利时赛区，曲目为“weeke
 
 ### 2009
 
-Tim、Thomas以“T\&T”为团名参加了 Junior Eurovision Song
-Contest比利时赛区的比赛，演唱的曲目为“Geniaal”。同年，Jasper和Toon合作录制的歌曲
-"Jongens En Meisjes"收录在Ketnet Pop De Hits 2009的合辑中。
+Tim、Thomas以“T\&T”为团名参加了 Junior Eurovision Song Contest比利时赛区的比赛，演唱的曲目为“Geniaal”。同年，Jasper和Toon合作录制的歌曲 "Jongens En Meisjes"收录在Ketnet Pop De Hits 2009的合辑中。
 
 ### 2010
 
@@ -33,8 +30,7 @@ Contest比利时赛区的比赛，演唱的曲目为“Geniaal”。同年，Jas
 
 ### 2014
 
-Bandits参加了Eurosong 2014比利时赛区。在半决赛中，Bandits名列第二，顺利晋级总决赛。在决赛中，他们也是第二，位于
-Axel Hirsoux之后。
+Bandits参加了Eurosong 2014比利时赛区。在半决赛中，Bandits名列第二，顺利晋级总决赛。在决赛中，他们也是第二，位于 Axel Hirsoux之后。
 
 ## 专辑及单曲
 

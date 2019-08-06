@@ -2,13 +2,11 @@
 
 ## 概要
 
-從2013年7月2日開始播放的《NOGIBINGO\!》，原本是乃木坂46與姊妹團體之一的[HKT48](../Page/HKT48.md "wikilink")跨團合作的節目《[乃木坂46×HKT48
-冠名節目對決！](../Page/乃木坂46×HKT48_冠名節目對決！.md "wikilink")》（）的一部份。節目播出後觀眾反應不壞，因此自跨團對抗節目中獨立而出，成為乃木坂46單獨冠名的節目。這也是以為首的日本電視台製作團隊，首度與乃木坂46單獨合作的綜藝節目。
+從2013年7月2日開始播放的《NOGIBINGO\!》，原本是乃木坂46與姊妹團體之一的[HKT48](../Page/HKT48.md "wikilink")跨團合作的節目《[乃木坂46×HKT48 冠名節目對決！](../Page/乃木坂46×HKT48_冠名節目對決！.md "wikilink")》（）的一部份。節目播出後觀眾反應不壞，因此自跨團對抗節目中獨立而出，成為乃木坂46單獨冠名的節目。這也是以為首的日本電視台製作團隊，首度與乃木坂46單獨合作的綜藝節目。
 
 在節目主旨上，原先《NOGIBINGO\!》是以復刻[AKB48](../Page/AKB48.md "wikilink")的冠名節目《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》之單元企劃為節目主旨，後來第二季《NOGIBINGO\!2》開始以「超越AKB48」作為發想概念，因此採用原創新單元內容。在各類的企劃中，有數集皆採用由成員依照特定主題進行即興表演的妄想點播，特別強調乃木坂成員們的螢光幕前表現能力。此外，製作單位甚至在官方網站上開放觀眾投稿，徵求有趣的妄想主題，甚至一般觀眾的投稿外，連姊妹團體AKB48成員[渡邊麻友](../Page/渡邊麻友.md "wikilink")都參與投稿，指定其隊長[櫻井玲香](../Page/櫻井玲香.md "wikilink")進行妄想點播單元的演出。
 
-在演出名單方面，主持人由猥瑣岡田擔任，除了乃木坂46的一期生外，以曾經擔任過第7張單曲中心陣位（center）成員的[堀未央奈](../Page/堀未央奈.md "wikilink")為首的二期生也陸續參與演出。因此，也出現許多一、二期生之間互動或對抗，在前作中不曾見過的單元形態。此外，第六季《NOGIBINGO\!6》與第七季《NOGIBINGO\!7》尚增加助理主持人職位，透過第一集節目從成員中選出，兩季分別由[中元日芽香](../Page/中元日芽香.md "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")出任。第八季《NOGIBINGO\!8》則主要由當時出道僅半年餘的三期生演出，各集設計不同的單元，以磨練三期生在電視綜藝上的表現能力。
-{{-}}
+在演出名單方面，主持人由猥瑣岡田擔任，除了乃木坂46的一期生外，以曾經擔任過第7張單曲中心陣位（center）成員的[堀未央奈](../Page/堀未央奈.md "wikilink")為首的二期生也陸續參與演出。因此，也出現許多一、二期生之間互動或對抗，在前作中不曾見過的單元形態。此外，第六季《NOGIBINGO\!6》與第七季《NOGIBINGO\!7》尚增加助理主持人職位，透過第一集節目從成員中選出，兩季分別由[中元日芽香](../Page/中元日芽香.md "wikilink")、[衛藤美彩](../Page/衛藤美彩.md "wikilink")出任。第八季《NOGIBINGO\!8》則主要由當時出道僅半年餘的三期生演出，各集設計不同的單元，以磨練三期生在電視綜藝上的表現能力。 {{-}}
 
 ## NOGIBINGO\!
 
@@ -27,8 +25,7 @@
 
       - （）：歌手，搖滾樂團「」主唱，第七集熱唱卡拉OK大賽的評審之一。
 
-      - ：搖滾樂團[月之海](../Page/月之海.md "wikilink")（Luna
-        Sea）的鼓手，熱唱卡拉OK大賽的評審之一。
+      - ：搖滾樂團[月之海](../Page/月之海.md "wikilink")（Luna Sea）的鼓手，熱唱卡拉OK大賽的評審之一。
 
       - ：以擅長唱歌而知名的[模仿](https://zh.wikipedia.org/wiki/物真似 "wikilink")[藝人雙人組](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")，熱唱卡拉OK大賽的評審之一。
 
@@ -130,8 +127,7 @@
 
 ## NOGIBINGO\!3
 
-《NOGIBINGO\!3》自2014年10月7日起至12月23日止，每週二凌晨1點29分至1點58分於日本電視台播出。不同於前两季，第三季開始幾乎全部33位正規成員皆出場亮相，于2014年2月24日[AKB48集團大組閣祭](../Page/AKB48集團大組閣祭.md "wikilink")宣佈兼任乃木坂46的[松井玲奈](../Page/松井玲奈.md "wikilink")，也於本季節目第二集出場（但本季仅此一集出场）。本季企划以“克服弱点”为主题，进一步培养成员们的团结力、女子力、表演力。在继承了上一季“妄想企划”的同时，本季还在片尾加入了常规的“NOGI
-ROOM”环节，拍摄成员们身着睡衣在一起闲谈的场景\[6\]。
+《NOGIBINGO\!3》自2014年10月7日起至12月23日止，每週二凌晨1點29分至1點58分於日本電視台播出。不同於前两季，第三季開始幾乎全部33位正規成員皆出場亮相，于2014年2月24日[AKB48集團大組閣祭](../Page/AKB48集團大組閣祭.md "wikilink")宣佈兼任乃木坂46的[松井玲奈](../Page/松井玲奈.md "wikilink")，也於本季節目第二集出場（但本季仅此一集出场）。本季企划以“克服弱点”为主题，进一步培养成员们的团结力、女子力、表演力。在继承了上一季“妄想企划”的同时，本季还在片尾加入了常规的“NOGI ROOM”环节，拍摄成员们身着睡衣在一起闲谈的场景\[6\]。
 
 ### 演出人員
 
@@ -215,8 +211,7 @@ ROOM”环节，拍摄成员们身着睡衣在一起闲谈的场景\[6\]。
 
 ## NOGIBINGO\!4
 
-《NOGIBINGO\!4》從2015年4月7日起，每週二凌晨1時29分起至1時59分止播出，到同年6月23日止，共播出12集。本季节目以「變身」为主题，讓成員们改变身份迎接各種綜藝單元的挑戰\[8\]。此外，本季依旧延续了上季的妄想企划与NOGI
-ROOM企划\[9\]。
+《NOGIBINGO\!4》從2015年4月7日起，每週二凌晨1時29分起至1時59分止播出，到同年6月23日止，共播出12集。本季节目以「變身」为主题，讓成員们改变身份迎接各種綜藝單元的挑戰\[8\]。此外，本季依旧延续了上季的妄想企划与NOGI ROOM企划\[9\]。
 
 ### 演出人員
 
@@ -280,8 +275,7 @@ ROOM企划\[9\]。
 
 ## NOGIBINGO\!5
 
-NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止播出，到同年9月29日止，共播出12集。本季延續上一季节目「變身」的主題\[10\]，表现成員的個性與魅力。前几季頗受好評的「NOGI
-ROOM」單元本季仍继续进行\[11\]。
+NOGIBINGO5！從2015年7月14日起，每週二凌晨1時29分起至1時59分止播出，到同年9月29日止，共播出12集。本季延續上一季节目「變身」的主題\[10\]，表现成員的個性與魅力。前几季頗受好評的「NOGI ROOM」單元本季仍继续进行\[11\]。
 
 ### 演出人員
 
@@ -336,8 +330,7 @@ ROOM」單元本季仍继续进行\[11\]。
 
 ## NOGIBINGO\!6
 
-本季節目從2016年4月12日起，每週二凌晨1時29分起至1時59分止播出。與前五季最大的不同点在於本季首度出現助理主持人（），担任成员为[中元日芽香](../Page/中元日芽香.md "wikilink")\[12\]。每集於電視播映結束後，由[Hulu](../Page/Hulu.md "wikilink")限定發佈包含NOGI
-ROOM的完整版节目\[13\]。
+本季節目從2016年4月12日起，每週二凌晨1時29分起至1時59分止播出。與前五季最大的不同点在於本季首度出現助理主持人（），担任成员为[中元日芽香](../Page/中元日芽香.md "wikilink")\[12\]。每集於電視播映結束後，由[Hulu](../Page/Hulu.md "wikilink")限定發佈包含NOGI ROOM的完整版节目\[13\]。
 
 ### 演出人員
 
@@ -420,8 +413,7 @@ ROOM的完整版节目\[13\]。
 
 ## NOGIBINGO\!7
 
-本季綜藝節目從2016年10月11日起每週二凌晨1時29分起至1時59分止播出，與上一季相同均有設置助理主持人的制度，不同的是這季從中元日芽香換成衛藤美彩。與之前相同，每集於電視播映結束後，由[Hulu](../Page/Hulu.md "wikilink")限定發佈包含NOGI
-ROOM的完整版。
+本季綜藝節目從2016年10月11日起每週二凌晨1時29分起至1時59分止播出，與上一季相同均有設置助理主持人的制度，不同的是這季從中元日芽香換成衛藤美彩。與之前相同，每集於電視播映結束後，由[Hulu](../Page/Hulu.md "wikilink")限定發佈包含NOGI ROOM的完整版。
 
 ### 演出人員
 
@@ -435,19 +427,15 @@ ROOM的完整版。
   - 其他
       - （日本電視台主播）- 第一集「第二回助理主持評選賽」最終考查擔任實況。
 
-      - 村本大輔（[Woman Rush Hour](../Page/Woman_Rush_Hour.md "wikilink")）-
-        第二集「乃木坂46 心動簡訊錦標賽」第2回戰「照片回復對決」擔任審查員。
+      - 村本大輔（[Woman Rush Hour](../Page/Woman_Rush_Hour.md "wikilink")）- 第二集「乃木坂46 心動簡訊錦標賽」第2回戰「照片回復對決」擔任審查員。
 
-      - [柿原徹也](../Page/柿原徹也.md "wikilink")（[聲優](../Page/聲優.md "wikilink")）-
-        第七集「第一回 Quiz佐佐木和鈴木」於VTR內為佐佐木進行聲援。
+      - [柿原徹也](../Page/柿原徹也.md "wikilink")（[聲優](../Page/聲優.md "wikilink")）- 第七集「第一回 Quiz佐佐木和鈴木」於VTR內為佐佐木進行聲援。
 
       - \- 第八集「實現你的好色呵呵癡笑！妄想點播第7季」為橋本奈奈未的妄想點播進行了投稿。
 
-      - [加美山稔](https://zh.wikipedia.org/wiki/加美山稔 "wikilink") -
-        本節目攝影師，第十一集「請幫我實現願望！乃木坂46聖誕老人！！」參與歌唱演出。
+      - [加美山稔](https://zh.wikipedia.org/wiki/加美山稔 "wikilink") - 本節目攝影師，第十一集「請幫我實現願望！乃木坂46聖誕老人！！」參與歌唱演出。
 
-      - [下地紫野](../Page/下地紫野.md "wikilink")（[聲優](../Page/聲優.md "wikilink")）-
-        第十二集「今年還沒完成的事 一起來完成SP」為衛藤、星野、松村、若月進行聲優指導。
+      - [下地紫野](../Page/下地紫野.md "wikilink")（[聲優](../Page/聲優.md "wikilink")）- 第十二集「今年還沒完成的事 一起來完成SP」為衛藤、星野、松村、若月進行聲優指導。
 
 ### 播出日期及內容
 
@@ -543,8 +531,7 @@ ROOM的完整版。
 
       - LEOPARDS（啦啦隊）：第11集「汗水與涙水的最終回1000人面前啦啦隊舞蹈特訓」表演。
 
-      - 關根直美（文京學院大學LEOPARDS教練、GIANTS VENUS
-        DANCESCHOOL講師）：第11集「汗水與涙水的最終回1000人面前啦啦隊舞蹈特訓」表演。
+      - 關根直美（文京學院大學LEOPARDS教練、GIANTS VENUS DANCESCHOOL講師）：第11集「汗水與涙水的最終回1000人面前啦啦隊舞蹈特訓」表演。
 
 ### 播出日期及內容
 
@@ -789,8 +776,7 @@ ROOM的完整版。
   - 音效：高取謙
   - TK：山沢啓子
   - 企劃協力：窪田康志（[AKS](../Page/AKS.md "wikilink")）、佐野裕一（田邊音樂出版）
-  - 総合編成（2017年12月5日 -
-    ）：[川邊昭宏](https://zh.wikipedia.org/wiki/川邊昭宏 "wikilink")、植野浩之
+  - 総合編成（2017年12月5日 - ）：[川邊昭宏](https://zh.wikipedia.org/wiki/川邊昭宏 "wikilink")、植野浩之
   - 製作委員会：海野大輔、[山王丸和惠](https://zh.wikipedia.org/wiki/山王丸和惠 "wikilink")、土岐洋久、根本裕美、内藤ひとみ
   - Disc：当田駒子
   - AD：荒井悠希、大橋達郎、石川正人、小林祐一、波多野詩織、田所賢樹
@@ -823,9 +809,7 @@ ROOM的完整版。
 ## 主題曲、插曲
 
   - NOGIBINGO\!開場曲：《[女生规则](../Page/Girls'_Rule.md "wikilink")》
-  - NOGIBINGO\!2開場曲：《[髮夾](../Page/髮夾_\(單曲\).md "wikilink")》（2014年1月11日 -
-    1月25日、2月8日 -
-    3月22日）、《[女生规则](../Page/Girls'_Rule.md "wikilink")》（2014年2月1日）
+  - NOGIBINGO\!2開場曲：《[髮夾](../Page/髮夾_\(單曲\).md "wikilink")》（2014年1月11日 - 1月25日、2月8日 - 3月22日）、《[女生规则](../Page/Girls'_Rule.md "wikilink")》（2014年2月1日）
   - NOGIBINGO\!3開場曲：《[第幾次的藍天？](../Page/第幾次的藍天？.md "wikilink")》
 
 注：从第四季（NOGIBINGO4！）开始，节目不再使用组合发行的单曲作为片头曲。
@@ -846,15 +830,7 @@ ROOM的完整版。
 
   - [第一季节目官方網站](http://www.ntv.co.jp/NOGIBINGO/)
 
-[Category:日本電視台深夜節目](https://zh.wikipedia.org/wiki/Category:日本電視台深夜節目 "wikilink")
-[Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink")
-[Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink")
-[Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink")
-[Category:2015年日本電視節目](https://zh.wikipedia.org/wiki/Category:2015年日本電視節目 "wikilink")
-[Category:2016年日本電視節目](https://zh.wikipedia.org/wiki/Category:2016年日本電視節目 "wikilink")
-[Category:2017年日本電視節目](https://zh.wikipedia.org/wiki/Category:2017年日本電視節目 "wikilink")
-[Category:2018年日本電視節目](https://zh.wikipedia.org/wiki/Category:2018年日本電視節目 "wikilink")
-[Category:乃木坂46電視節目](https://zh.wikipedia.org/wiki/Category:乃木坂46電視節目 "wikilink")
+[Category:日本電視台深夜節目](https://zh.wikipedia.org/wiki/Category:日本電視台深夜節目 "wikilink") [Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink") [Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink") [Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink") [Category:2015年日本電視節目](https://zh.wikipedia.org/wiki/Category:2015年日本電視節目 "wikilink") [Category:2016年日本電視節目](https://zh.wikipedia.org/wiki/Category:2016年日本電視節目 "wikilink") [Category:2017年日本電視節目](https://zh.wikipedia.org/wiki/Category:2017年日本電視節目 "wikilink") [Category:2018年日本電視節目](https://zh.wikipedia.org/wiki/Category:2018年日本電視節目 "wikilink") [Category:乃木坂46電視節目](https://zh.wikipedia.org/wiki/Category:乃木坂46電視節目 "wikilink")
 
 1.  。
 

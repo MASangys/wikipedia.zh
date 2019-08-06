@@ -1,7 +1,4 @@
-**Mad
-Clown**（，[本名](https://zh.wikipedia.org/wiki/本名 "wikilink")：**조동림**，[漢字](../Page/朝鮮漢字.md "wikilink")：**-{趙東林}-**，）
-，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[HipHop](https://zh.wikipedia.org/wiki/HipHop "wikilink")[男歌手](../Page/歌手.md "wikilink")，2013年加入[STARSHIP
-X娱乐](../Page/STARSHIP娛樂.md "wikilink")，於2018年合約期滿未續約。
+**Mad Clown**（，[本名](https://zh.wikipedia.org/wiki/本名 "wikilink")：**조동림**，[漢字](../Page/朝鮮漢字.md "wikilink")：**-{趙東林}-**，） ，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[HipHop](https://zh.wikipedia.org/wiki/HipHop "wikilink")[男歌手](../Page/歌手.md "wikilink")，2013年加入[STARSHIP X娱乐](../Page/STARSHIP娛樂.md "wikilink")，於2018年合約期滿未續約。
 
 ## 简介
 

@@ -1,10 +1,8 @@
-《**特搜戰隊刑事連者 THE MOVIE Full Blast
-Action**》（原題：）。係於日本時間2004年9月11日上映的劇場版電影作品。
+《**特搜戰隊刑事連者 THE MOVIE Full Blast Action**》（原題：）。係於日本時間2004年9月11日上映的劇場版電影作品。
 
 ## 概要
 
-繼『**[百獸戰隊牙吠連者
-怒吼吧，火山](https://zh.wikipedia.org/wiki/百獸戰隊牙吠連者_怒吼吧，火山 "wikilink")**』後，睽違三年又再度有著劇場版限定戰鬥巨人的設定。
+繼『**[百獸戰隊牙吠連者 怒吼吧，火山](https://zh.wikipedia.org/wiki/百獸戰隊牙吠連者_怒吼吧，火山 "wikilink")**』後，睽違三年又再度有著劇場版限定戰鬥巨人的設定。
 
 本作敵方集團成員皆為曾擔任過歷任超級戰隊敵方幹部的演員來演出。原創角色瑪莉也由[新山千春](../Page/新山千春.md "wikilink")擔任。
 
@@ -41,13 +39,11 @@ Action**》（原題：）。係於日本時間2004年9月11日上映的劇場�
 
   -
     **白鳥天鵝<small>｜**[石野真子](../Page/石野真子.md "wikilink")</small>
-    **瑪莉·古德 Mary
-    Gold<small>｜**[新山千春](../Page/新山千春.md "wikilink")</small>
+    **瑪莉·古德 Mary Gold<small>｜**[新山千春](../Page/新山千春.md "wikilink")</small>
       - <small>個人號碼為[羅馬數字的](https://zh.wikipedia.org/wiki/羅馬數字 "wikilink")「**X(10)**」</small>
     <!-- end list -->
       -
-        雷斯利星的女性。能變身成**刑事金Deka
-        Gold**，在劇中以變身姿態登場的瞬間，就因遭到伏路加攻擊而解除了變身（堪稱變身時間最短的戰隊成員）。氣泡飲者將其故鄉雷斯利星毀滅，為了緝捕他們歸案而來到地球。在某間異星人聚集的酒吧裡擔任駐唱歌手，並暗中蒐查相關資料情報，卻恰巧遇上值勤中的小番，在表明身分過後，便一同協助刑事連者們的行動，最後被伏路加將金色之雪注入了她的體內。具有著男性朋友們都想要的能力「時間暫停」。
+        雷斯利星的女性。能變身成**刑事金Deka Gold**，在劇中以變身姿態登場的瞬間，就因遭到伏路加攻擊而解除了變身（堪稱變身時間最短的戰隊成員）。氣泡飲者將其故鄉雷斯利星毀滅，為了緝捕他們歸案而來到地球。在某間異星人聚集的酒吧裡擔任駐唱歌手，並暗中蒐查相關資料情報，卻恰巧遇上值勤中的小番，在表明身分過後，便一同協助刑事連者們的行動，最後被伏路加將金色之雪注入了她的體內。具有著男性朋友們都想要的能力「時間暫停」。
 
 ### 氣泡飲者四人眾
 
@@ -58,16 +54,13 @@ Action**》（原題：）。係於日本時間2004年9月11日上映的劇場�
     **類酒星人·伏特加<small>｜**[遠藤憲一](../Page/遠藤憲一.md "wikilink") 飾+聲</small>
       -
         氣泡飲者的首領。武器為兩把手槍「雙撒旦機槍」及使用名為「邪拳道」的武術。名字來源為[伏特加](../Page/伏特加.md "wikilink")。
-    **類酒星人·布蘭狄爾<small>｜**[田村円](https://zh.wikipedia.org/wiki/田村円 "wikilink")
-    飾+聲</small>
+    **類酒星人·布蘭狄爾<small>｜**[田村円](https://zh.wikipedia.org/wiki/田村円 "wikilink") 飾+聲</small>
       -
         成員之一。武器為大型火箭砲「蜥蜴火箭砲」。名字來源為[白蘭地](https://zh.wikipedia.org/wiki/白蘭地 "wikilink")。
-    **類酒星人·金<small>｜**[天祭揚子](https://zh.wikipedia.org/wiki/天祭揚子 "wikilink")
-    飾+聲</small>
+    **類酒星人·金<small>｜**[天祭揚子](https://zh.wikipedia.org/wiki/天祭揚子 "wikilink") 飾+聲</small>
       -
         唯一的女性成員。武器為伸縮自如的鞭子「毒蠍鞭」。名字來源為[琴酒](../Page/琴酒.md "wikilink")。
-    **類酒星人·溫斯忌<small>｜**[岡本美登](https://zh.wikipedia.org/wiki/岡本美登 "wikilink")
-    飾+聲</small>
+    **類酒星人·溫斯忌<small>｜**[岡本美登](https://zh.wikipedia.org/wiki/岡本美登 "wikilink") 飾+聲</small>
       -
         成員之一。武器為大刀「食人魚斬刃」。名字來源為[威士忌](../Page/威士忌.md "wikilink")。
 
@@ -89,8 +82,7 @@ Action**》（原題：）。係於日本時間2004年9月11日上映的劇場�
 
 **暴風越野車 Blast Buggy**
 
-  - <small>全長：34.6m / 全幅：24m / 全高：24m / 重量：2000t / 最高速度：600km/h /
-    出力：1200萬hp/t</small>
+  - <small>全長：34.6m / 全幅：24m / 全高：24m / 重量：2000t / 最高速度：600km/h / 出力：1200萬hp/t</small>
 
 <!-- end list -->
 
@@ -99,16 +91,12 @@ Action**》（原題：）。係於日本時間2004年9月11日上映的劇場�
 
 **刑事連者機械人·極限暴風特裝型 Dekaranger Robo Full Blast Custom**
 
-  - <small>全長：51m / 全高：47m / 全幅：19.1m / 重量：6600t / 最高速度：220km/h /
-    出力：2000萬hp/t</small>
+  - <small>全長：51m / 全高：47m / 全幅：19.1m / 重量：6600t / 最高速度：220km/h / 出力：2000萬hp/t</small>
 
 <!-- end list -->
 
   -
-    由暴風越野車分離後的**暴風護盾Blast Shield**（車體）及**暴風重砲Blast
-    Launcher**（搭載砲）和刑事連者機械人進行「特搜武裝」後的型態。在胸前也有桿狀的追加護甲。絕招為將暴風護盾前端立於地面上，一邊迴轉一邊全方位掃射的「**迴旋風暴Spinning
-    Blast**」，必殺技為將暴風護盾作為底座，把暴風重砲架在上面後，巡邏能源全開充填後發射的「**極限加農·極限暴風Blast
-    Launcher·Full Blast**」。
+    由暴風越野車分離後的**暴風護盾Blast Shield**（車體）及**暴風重砲Blast Launcher**（搭載砲）和刑事連者機械人進行「特搜武裝」後的型態。在胸前也有桿狀的追加護甲。絕招為將暴風護盾前端立於地面上，一邊迴轉一邊全方位掃射的「**迴旋風暴Spinning Blast**」，必殺技為將暴風護盾作為底座，把暴風重砲架在上面後，巡邏能源全開充填後發射的「**極限加農·極限暴風Blast Launcher·Full Blast**」。
 
 **怪重機 殺手坦克Killer Tank**
 
@@ -145,6 +133,4 @@ Action**》（原題：）。係於日本時間2004年9月11日上映的劇場�
 
 ## 外部連結
 
-[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
-[Category:2004年电影](https://zh.wikipedia.org/wiki/Category:2004年电影 "wikilink")
-[Category:外星生命電影](https://zh.wikipedia.org/wiki/Category:外星生命電影 "wikilink")
+[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink") [Category:2004年电影](https://zh.wikipedia.org/wiki/Category:2004年电影 "wikilink") [Category:外星生命電影](https://zh.wikipedia.org/wiki/Category:外星生命電影 "wikilink")

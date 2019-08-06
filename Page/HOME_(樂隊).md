@@ -1,12 +1,8 @@
-**HOME**是[香港](../Page/香港.md "wikilink")一支獨立樂隊，成立於2009年11月。現任成員包括：Frederick
-Cheng([鄭俊弘](../Page/鄭俊弘.md "wikilink"))\[1\]\[2\]\[3\]。、Sam
-Shum(沈國榮)、Sunny Ku(辜明毅)及Tommy Sung(宋亦霖)
+**HOME**是[香港](../Page/香港.md "wikilink")一支獨立樂隊，成立於2009年11月。現任成員包括：Frederick Cheng([鄭俊弘](../Page/鄭俊弘.md "wikilink"))\[1\]\[2\]\[3\]。、Sam Shum(沈國榮)、Sunny Ku(辜明毅)及Tommy Sung(宋亦霖)
 
 ## 組成
 
-結他手Sam和主音Frederick看了日本樂隊[Mr.Children](../Page/Mr.Children.md "wikilink")的《Mr.Children
-"HOME" TOUR
-2007》DVD後深受感動，於是決定組成樂隊HOME創作音樂。樂隊成員深受不同類型的音樂影響，熱愛創作，希望透過音樂分享生活，激勵同樣熱愛音樂的人。
+結他手Sam和主音Frederick看了日本樂隊[Mr.Children](../Page/Mr.Children.md "wikilink")的《Mr.Children "HOME" TOUR 2007》DVD後深受感動，於是決定組成樂隊HOME創作音樂。樂隊成員深受不同類型的音樂影響，熱愛創作，希望透過音樂分享生活，激勵同樣熱愛音樂的人。
 
 ### 成員
 
@@ -60,15 +56,11 @@ Shum(沈國榮)、Sunny Ku(辜明毅)及Tommy Sung(宋亦霖)
   - 2013年8月24日：鰂魚涌康怡廣場RACINNE 全新美容專櫃開幕活動及表演
   - 2013年11月9日：鄭俊弘星夢成真生日會表演嘉賓
   - 2014年9月25日：Times Square MUSIC ROOM Opening Show - HOME Band Show
-  - 2014年11月1日：[鄭俊弘Welcome to My
-    Dreams演唱會2014嘉賓](../Page/鄭俊弘Welcome_to_My_Dreams演唱會2014.md "wikilink")
+  - 2014年11月1日：[鄭俊弘Welcome to My Dreams演唱會2014嘉賓](../Page/鄭俊弘Welcome_to_My_Dreams演唱會2014.md "wikilink")
   - 2014年11月7日： AEO Live MEGAzine 創刊Kickoff
   - 2015年5月30日： 太極 The Mega Hit 30週年演唱會2015 嘉賓
-  - 2015年9月5日： [鄭俊弘 THE RED CONCERT 2015
-    紅色演唱會嘉賓](../Page/鄭俊弘_THE_RED_CONCERT_2015_紅色演唱會.md "wikilink")
-  - 2015年11月7日：
-    [禁毒滅罪耀北區2015](http://www.facebook.com/%E7%A6%81%E6%AF%92%E6%BB%85%E7%BD%AA%E8%80%80%E5%8C%97%E5%8D%802015-1515352312113144/?fref=ts)
-    嘉賓
+  - 2015年9月5日： [鄭俊弘 THE RED CONCERT 2015 紅色演唱會嘉賓](../Page/鄭俊弘_THE_RED_CONCERT_2015_紅色演唱會.md "wikilink")
+  - 2015年11月7日： [禁毒滅罪耀北區2015](http://www.facebook.com/%E7%A6%81%E6%AF%92%E6%BB%85%E7%BD%AA%E8%80%80%E5%8C%97%E5%8D%802015-1515352312113144/?fref=ts) 嘉賓
 
 ## 電視節目
 
@@ -78,16 +70,13 @@ Shum(沈國榮)、Sunny Ku(辜明毅)及Tommy Sung(宋亦霖)
 
 ## 電台訪問
 
-  - 2013年8月25日：[叱吒903
-    《咆哮山莊》](https://www.youtube.com/watch?v=iWeCEJq7xdQ)
+  - 2013年8月25日：[叱吒903 《咆哮山莊》](https://www.youtube.com/watch?v=iWeCEJq7xdQ)
 
 ## 外部連結
 
   - [Facebook: HOME](https://www.facebook.com/homehkband?ref=profile)
-  - [Youtube:
-    HOME](https://www.youtube.com/channel/UCU-wcSrnZ1pGUd2O2AOtWYQ)
-  - [Youtube: Music
-    Battle-Home](https://www.youtube.com/watch?v=sbgbx0l8r2k&list=PLAx7sVrJX3cyNiykIpjXntmSp17LOcU04)
+  - [Youtube: HOME](https://www.youtube.com/channel/UCU-wcSrnZ1pGUd2O2AOtWYQ)
+  - [Youtube: Music Battle-Home](https://www.youtube.com/watch?v=sbgbx0l8r2k&list=PLAx7sVrJX3cyNiykIpjXntmSp17LOcU04)
 
 ## 參考資料
 

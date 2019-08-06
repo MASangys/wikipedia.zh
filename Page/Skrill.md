@@ -1,21 +1,14 @@
 **Moneybookers**（2011年以后商標改为**Skrill**），是一个[英国的电子商务企业](https://zh.wikipedia.org/wiki/英国 "wikilink")，其允许客户通过[互联网](../Page/互联网.md "wikilink")来进行支付。对于个人用户来说，Moneybookers支付系统提供了一个在线的存款帐户以及一个低成本的，基于互联网、替代传统的汇款方式，如[支票](../Page/支票.md "wikilink")，汇票和[电汇](https://zh.wikipedia.org/wiki/电汇 "wikilink")。对商業用户而言，Moneybookers允许商家接收客户通过主流信用卡或Skrill自己的网上账户支付的钱款。
 
-Moneybookers支付系统是由Moneybookers有限公司拥有和经营的，其总部设在英国，公司注册为金融业务，受英国关税总署监管，并在英国金融服务管理局和[欧盟许可的范围内进行操作](../Page/欧洲联盟.md "wikilink")。2012年，该系统被移入一个姐妹公司Skrill有限公司（注册于2010年，使用相同的地址）\[1\]并更名为**Skrill**
-。
+Moneybookers支付系统是由Moneybookers有限公司拥有和经营的，其总部设在英国，公司注册为金融业务，受英国关税总署监管，并在英国金融服务管理局和[欧盟许可的范围内进行操作](../Page/欧洲联盟.md "wikilink")。2012年，该系统被移入一个姐妹公司Skrill有限公司（注册于2010年，使用相同的地址）\[1\]并更名为**Skrill** 。
 
 ## 历史
 
-*moneybookers.com* [域名](../Page/域名.md "wikilink")的首次登记时间是2001年6月17日。
-\[2\] 2001年7月27日，一家名为的Moneybookers的有限公司在英国注册成立 。 \[3\]
-2002年4月1日该公司推出在线支付系统moneybookers.com \[4\]
-在最初的1年半的经营中，有近2万新用户注册使用Moneybookers。2008年9月2日，Moneybookers声称，在世界所有国家处理了超过550万个账户。
+*moneybookers.com* [域名](../Page/域名.md "wikilink")的首次登记时间是2001年6月17日。 \[2\] 2001年7月27日，一家名为的Moneybookers的有限公司在英国注册成立 。 \[3\] 2002年4月1日该公司推出在线支付系统moneybookers.com \[4\] 在最初的1年半的经营中，有近2万新用户注册使用Moneybookers。2008年9月2日，Moneybookers声称，在世界所有国家处理了超过550万个账户。
 
-2007年3月，Moneybookers被全球投资集团通过[1.05亿欧元收购](../Page/欧元.md "wikilink")\[5\]
-2009年3月9日，它被全球投资集团估值为3.65亿英镑\[6\]
+2007年3月，Moneybookers被全球投资集团通过[1.05亿欧元收购](../Page/欧元.md "wikilink")\[5\] 2009年3月9日，它被全球投资集团估值为3.65亿英镑\[6\]
 
-2010年2月，《[星期日泰晤士报](https://zh.wikipedia.org/wiki/星期日泰晤士报 "wikilink")》评价Moneybookers是英国排名增长最快的[私募股权投资](../Page/私人股权投资.md "wikilink")
-（通过投资收益比较）。 截至2012年5月，该公司已经拥有了2500万客户，其中包括120,000 商家账户，
-\[7\]并集成了一些知名品牌，如[Facebook](../Page/Facebook.md "wikilink")、[Skype](../Page/Skype.md "wikilink")和[eBay的全球在线支付体系](https://zh.wikipedia.org/wiki/eBay "wikilink")。
+2010年2月，《[星期日泰晤士报](https://zh.wikipedia.org/wiki/星期日泰晤士报 "wikilink")》评价Moneybookers是英国排名增长最快的[私募股权投资](../Page/私人股权投资.md "wikilink") （通过投资收益比较）。 截至2012年5月，该公司已经拥有了2500万客户，其中包括120,000 商家账户， \[7\]并集成了一些知名品牌，如[Facebook](../Page/Facebook.md "wikilink")、[Skype](../Page/Skype.md "wikilink")和[eBay的全球在线支付体系](https://zh.wikipedia.org/wiki/eBay "wikilink")。
 
 ### 品牌重塑
 
@@ -51,25 +44,18 @@ Moneybookers的账户可以保存任何主要货币，但一旦第一笔交易�
 
   -
 
-[Category:電子貨幣](https://zh.wikipedia.org/wiki/Category:電子貨幣 "wikilink")
-[Category:支付系统](https://zh.wikipedia.org/wiki/Category:支付系统 "wikilink")
-[Category:外汇公司](https://zh.wikipedia.org/wiki/Category:外汇公司 "wikilink")
-[Category:2001年成立的公司](https://zh.wikipedia.org/wiki/Category:2001年成立的公司 "wikilink")
+[Category:電子貨幣](https://zh.wikipedia.org/wiki/Category:電子貨幣 "wikilink") [Category:支付系统](https://zh.wikipedia.org/wiki/Category:支付系统 "wikilink") [Category:外汇公司](https://zh.wikipedia.org/wiki/Category:外汇公司 "wikilink") [Category:2001年成立的公司](https://zh.wikipedia.org/wiki/Category:2001年成立的公司 "wikilink")
 
-1.  [Companies House: UK company
-    register](http://www.companieshouse.gov.uk)
+1.  [Companies House: UK company register](http://www.companieshouse.gov.uk)
 2.
 3.
 4.
 5.
-6.  [Telegraph.co.uk](http://www.telegraph.co.uk/finance/newsbysector/banksandfinance/4963091/Investcorp-to-sell-Moneybookers.html),
-    Investcorp to sell Moneybookers
+6.  [Telegraph.co.uk](http://www.telegraph.co.uk/finance/newsbysector/banksandfinance/4963091/Investcorp-to-sell-Moneybookers.html), Investcorp to sell Moneybookers
 7.
 8.
 9.
 10.
 11.
 12.
-13. [WikiLeaks says funding has been blocked after government
-    blacklisting](http://www.guardian.co.uk/media/2010/oct/14/wikileaks-says-funding-is-blocked)
-    *The Guardian* , 14 October 2010
+13. [WikiLeaks says funding has been blocked after government blacklisting](http://www.guardian.co.uk/media/2010/oct/14/wikileaks-says-funding-is-blocked) *The Guardian* , 14 October 2010

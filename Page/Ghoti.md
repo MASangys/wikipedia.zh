@@ -43,9 +43,7 @@
   - 科幻作品《[-{zh-cn:星际迷航;zh-hk:星空奇遇記;zh-tw:星艦迷航記;}-](../Page/星艦奇航記.md "wikilink")》中的[人造语言](https://zh.wikipedia.org/wiki/人造语言 "wikilink")[克林贡语中](https://zh.wikipedia.org/wiki/克林贡语 "wikilink")，单词“鱼”就拼作“”。\[19\]
   - 1960年代美国电视剧《》的一集中出现一家[鱼子酱](../Page/鱼子酱.md "wikilink")公司名为“”（意为“鱼卵”）。剧中[罗宾误将](../Page/羅賓_\(漫畫\).md "wikilink")“”一词读作“”（），而[蝙蝠侠则告诉他这个词语的正确发音和含义](https://zh.wikipedia.org/wiki/蝙蝠侠 "wikilink")。\[20\]\[21\]
   - 1990年代美国一个乐队名为“”，名称与“”（意为“鱼钩”）一词谐音。\[22\]
-  - “”一词还被用作[语音合成](../Page/语音合成.md "wikilink")的测试词语。\[23\]语音合成技术中会用额外的手段保证合成器正确读出英语中的特殊发音，包括将“”读作“”。\[24\]例如[苹果公司操作系统](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Mac
-    OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")
-    [10.6以及](https://zh.wikipedia.org/wiki/Mac_OS_X_10.6 "wikilink")[iOS的](https://zh.wikipedia.org/wiki/iOS "wikilink")[Siri](../Page/Siri.md "wikilink")就默认将“”读作“”。\[25\]
+  - “”一词还被用作[语音合成](../Page/语音合成.md "wikilink")的测试词语。\[23\]语音合成技术中会用额外的手段保证合成器正确读出英语中的特殊发音，包括将“”读作“”。\[24\]例如[苹果公司操作系统](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink") [10.6以及](https://zh.wikipedia.org/wiki/Mac_OS_X_10.6 "wikilink")[iOS的](https://zh.wikipedia.org/wiki/iOS "wikilink")[Siri](../Page/Siri.md "wikilink")就默认将“”读作“”。\[25\]
   - 网络游戏[尼奥宠物中](https://zh.wikipedia.org/wiki/尼奥宠物 "wikilink")，一种水生生物的名称叫“”（中文名为“卡奇”）。\[26\]
   - 电脑游戏[Minecraft中](https://zh.wikipedia.org/wiki/Minecraft "wikilink")，屏幕上会随机显示一些句子，其中有一句是“”，按照“”的构造方式，这句话可以读作“”（意为“薯片”或“薯条”）。\[27\]
 
@@ -96,11 +94,7 @@
 
 23.
 
-24. Singh, Anil Kumar. "[A computational phonetic model for indian
-    language
-    scripts](http://ltrc.iiit.ac.in/anil/papers/cpms-long-iwlc-06.pdf)."
-    Constraints on Spelling Changes: Fifth International Workshop on
-    Writing Systems. 2006.
+24. Singh, Anil Kumar. "[A computational phonetic model for indian language scripts](http://ltrc.iiit.ac.in/anil/papers/cpms-long-iwlc-06.pdf)." Constraints on Spelling Changes: Fifth International Workshop on Writing Systems. 2006.
 
 25.
 

@@ -1,6 +1,4 @@
-本列表是[TVB
-Window電視劇集列表的子列表](https://zh.wikipedia.org/wiki/TVB_Window電視劇集列表 "wikilink")，列出2010年代的[無綫網絡電視](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")[TVB
-Window](https://zh.wikipedia.org/wiki/TVB_Window "wikilink")（2015年12月29日後稱為[綜藝台](https://zh.wikipedia.org/wiki/綜藝台 "wikilink")）劇集。
+本列表是[TVB Window電視劇集列表的子列表](https://zh.wikipedia.org/wiki/TVB_Window電視劇集列表 "wikilink")，列出2010年代的[無綫網絡電視](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")[TVB Window](https://zh.wikipedia.org/wiki/TVB_Window "wikilink")（2015年12月29日後稱為[綜藝台](https://zh.wikipedia.org/wiki/綜藝台 "wikilink")）劇集。
 
 本列表只列出曾於[TVB日劇台](https://zh.wikipedia.org/wiki/TVB日劇台 "wikilink")（前名[無綫劇集台](https://zh.wikipedia.org/wiki/無綫劇集台 "wikilink")、[煲劇1台](https://zh.wikipedia.org/wiki/煲劇1台 "wikilink")）、[TVB韓劇台](https://zh.wikipedia.org/wiki/TVB韓劇台 "wikilink")（前名[無綫精選台](https://zh.wikipedia.org/wiki/無綫精選台 "wikilink")、[煲劇2台](https://zh.wikipedia.org/wiki/煲劇2台 "wikilink")）及[無綫電視免費頻道](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")（[翡翠台](../Page/翡翠台.md "wikilink")、[明珠台](../Page/明珠台.md "wikilink")、[高清翡翠台](../Page/高清翡翠台.md "wikilink")、[J2](../Page/J2.md "wikilink")）首播的**外購劇集**。
 

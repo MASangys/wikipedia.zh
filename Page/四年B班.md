@@ -14,8 +14,7 @@
 
 在第一輪招募中，朱崇熙蓄一個碗蓋頭表演西藏草原的水袖舞，被同組的兩名小孩指著嘲笑身為男孩子的他竟然跳舞，但他並無理會，依然專心地數拍子跳舞。編劇及導演十分欣賞他的專注，而這種專注對演繹角色非常重要。
 
-在第三輪面試裏，為每個角色都挑選兩位小演員排練，原意是希望他們互相競爭來爭取演出機會，但在競爭女班長一角的余悅和林淑銦之間呈現的效果完全相反，兩位小演員惺惺相惜甚至成為好朋友。
-原被屬意演出女班長的余悅因長途旅行及其他演出，最終不能演出女班長一角，林淑銦對自己以次選的身分補上一事表示理解，於是向余悅家長提議讓她飾演配角。在家庭會議中，余悅堅持要演配角，因她要支持好朋友林淑銦。
+在第三輪面試裏，為每個角色都挑選兩位小演員排練，原意是希望他們互相競爭來爭取演出機會，但在競爭女班長一角的余悅和林淑銦之間呈現的效果完全相反，兩位小演員惺惺相惜甚至成為好朋友。 原被屬意演出女班長的余悅因長途旅行及其他演出，最終不能演出女班長一角，林淑銦對自己以次選的身分補上一事表示理解，於是向余悅家長提議讓她飾演配角。在家庭會議中，余悅堅持要演配角，因她要支持好朋友林淑銦。
 
 一眾小演員中，張嘉晉年紀最小，說話較口齒不清。儘管起用他的決定遭不少人反對，但認為現實生活中總有這些人，他能增添劇集的真實感。
 
@@ -444,15 +443,9 @@
 
 ## 節目變遷
 
-[Category:香港電視網絡劇集](https://zh.wikipedia.org/wiki/Category:香港電視網絡劇集 "wikilink")
-[Category:2015年香港電視劇集](https://zh.wikipedia.org/wiki/Category:2015年香港電視劇集 "wikilink")
-[Category:香港校園劇](https://zh.wikipedia.org/wiki/Category:香港校園劇 "wikilink")
-[Category:小學背景電視劇](https://zh.wikipedia.org/wiki/Category:小學背景電視劇 "wikilink")
-[Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink")
-[Category:澳廣視外購電視節目](https://zh.wikipedia.org/wiki/Category:澳廣視外購電視節目 "wikilink")
+[Category:香港電視網絡劇集](https://zh.wikipedia.org/wiki/Category:香港電視網絡劇集 "wikilink") [Category:2015年香港電視劇集](https://zh.wikipedia.org/wiki/Category:2015年香港電視劇集 "wikilink") [Category:香港校園劇](https://zh.wikipedia.org/wiki/Category:香港校園劇 "wikilink") [Category:小學背景電視劇](https://zh.wikipedia.org/wiki/Category:小學背景電視劇 "wikilink") [Category:奇妙電視外購劇集](https://zh.wikipedia.org/wiki/Category:奇妙電視外購劇集 "wikilink") [Category:澳廣視外購電視節目](https://zh.wikipedia.org/wiki/Category:澳廣視外購電視節目 "wikilink")
 
-1.  [王維基宣傳新劇《四年B班》
-    望牌照將發](http://dailynews.sina.com/bg/ent/tv/sinacn/20130801/17454815467.html)
+1.  [王維基宣傳新劇《四年B班》 望牌照將發](http://dailynews.sina.com/bg/ent/tv/sinacn/20130801/17454815467.html)
 
 2.
 

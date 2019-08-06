@@ -1,6 +1,4 @@
-《**ACE**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")成員[李泰民首張韓語迷你專輯](https://zh.wikipedia.org/wiki/李泰民 "wikilink")\[1\]，在2014年8月18日由[SM娛樂](../Page/SM娛樂.md "wikilink")製作，[KT
-Music發行](https://zh.wikipedia.org/wiki/KT_Music "wikilink")
-，主打曲目為《怪盜》（）。
+《**ACE**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SHINee](../Page/SHINee.md "wikilink")成員[李泰民首張韓語迷你專輯](https://zh.wikipedia.org/wiki/李泰民 "wikilink")\[1\]，在2014年8月18日由[SM娛樂](../Page/SM娛樂.md "wikilink")製作，[KT Music發行](https://zh.wikipedia.org/wiki/KT_Music "wikilink") ，主打曲目為《怪盜》（）。
 
 ## 曲目
 
@@ -117,11 +115,7 @@ Music發行](https://zh.wikipedia.org/wiki/KT_Music "wikilink")
 
 ## 參考資料
 
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:SHINee音樂專輯](https://zh.wikipedia.org/wiki/Category:SHINee音樂專輯 "wikilink")
-[Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:2014年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯月榜冠軍作品 "wikilink")
+[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:SHINee音樂專輯](https://zh.wikipedia.org/wiki/Category:SHINee音樂專輯 "wikilink") [Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink") [Category:2014年Gaon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯月榜冠軍作品 "wikilink")
 
 1.
 

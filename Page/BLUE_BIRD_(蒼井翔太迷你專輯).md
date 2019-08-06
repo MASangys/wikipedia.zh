@@ -12,15 +12,10 @@
 
 ## 外部連結
 
-  - [蒼井翔太迷你專輯BLUE BIRD
-    特設官方網站](http://www.broccoli.co.jp/cd/shouta_aoi_bluebird/index.php#.UhyCpxsybXo/)
+  - [蒼井翔太迷你專輯BLUE BIRD 特設官方網站](http://www.broccoli.co.jp/cd/shouta_aoi_bluebird/index.php#.UhyCpxsybXo/)
 
-  - [BLUE BIRD
-    記念發售感想](http://www.youtube.com/watch?feature=player_embedded&v=xPDJl_N3ZAQ)
+  - [BLUE BIRD 記念發售感想](http://www.youtube.com/watch?feature=player_embedded&v=xPDJl_N3ZAQ)
 
-  - [BLUE BIRD
-    PV](http://www.youtube.com/watch?feature=player_embedded&v=nCC1l32BlII)
+  - [BLUE BIRD PV](http://www.youtube.com/watch?feature=player_embedded&v=nCC1l32BlII)
 
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:蒼井翔太單曲](https://zh.wikipedia.org/wiki/Category:蒼井翔太單曲 "wikilink")
-[Category:鳥類題材歌曲](https://zh.wikipedia.org/wiki/Category:鳥類題材歌曲 "wikilink")
+[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:蒼井翔太單曲](https://zh.wikipedia.org/wiki/Category:蒼井翔太單曲 "wikilink") [Category:鳥類題材歌曲](https://zh.wikipedia.org/wiki/Category:鳥類題材歌曲 "wikilink")

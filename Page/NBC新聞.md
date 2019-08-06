@@ -1,8 +1,6 @@
-**NBC新聞**（）是美國主要電視網之一[全國廣播公司下屬的](https://zh.wikipedia.org/wiki/全國廣播公司 "wikilink")[電視新聞部門](https://zh.wikipedia.org/wiki/電視新聞 "wikilink")，由[NBC環球](../Page/NBC環球.md "wikilink")旗下[子公司](../Page/子公司.md "wikilink")負責運營。該集團各項業務均向NBC新聞部主管報告。\[1\]
-NBC新聞首次播出電視新聞節目是在1940年2月21日。NBC新聞的編輯室與全國廣播公司總部位於同一個地方，即[洛克菲勒中心](https://zh.wikipedia.org/wiki/洛克菲勒中心 "wikilink")[通用電氣大樓](../Page/GE大樓.md "wikilink")。
+**NBC新聞**（）是美國主要電視網之一[全國廣播公司下屬的](https://zh.wikipedia.org/wiki/全國廣播公司 "wikilink")[電視新聞部門](https://zh.wikipedia.org/wiki/電視新聞 "wikilink")，由[NBC環球](../Page/NBC環球.md "wikilink")旗下[子公司](../Page/子公司.md "wikilink")負責運營。該集團各項業務均向NBC新聞部主管報告。\[1\] NBC新聞首次播出電視新聞節目是在1940年2月21日。NBC新聞的編輯室與全國廣播公司總部位於同一個地方，即[洛克菲勒中心](https://zh.wikipedia.org/wiki/洛克菲勒中心 "wikilink")[通用電氣大樓](../Page/GE大樓.md "wikilink")。
 
-NBC新聞負責製作美國[收視率第一的晚間新聞節目](https://zh.wikipedia.org/wiki/收視率 "wikilink")《[NBC晚間新聞](https://zh.wikipedia.org/wiki/NBC晚間新聞 "wikilink")》和美國[最長壽的電視節目](https://zh.wikipedia.org/wiki/長壽節目 "wikilink")《[會見新聞界](https://zh.wikipedia.org/wiki/會見新聞界 "wikilink")》，同時NBC新聞還在《NBC環球檔案館》（NBC
-Universal Archives）網站上在線提供諸多非常難得的新聞片段。\[2\]
+NBC新聞負責製作美國[收視率第一的晚間新聞節目](https://zh.wikipedia.org/wiki/收視率 "wikilink")《[NBC晚間新聞](https://zh.wikipedia.org/wiki/NBC晚間新聞 "wikilink")》和美國[最長壽的電視節目](https://zh.wikipedia.org/wiki/長壽節目 "wikilink")《[會見新聞界](https://zh.wikipedia.org/wiki/會見新聞界 "wikilink")》，同時NBC新聞還在《NBC環球檔案館》（NBC Universal Archives）網站上在線提供諸多非常難得的新聞片段。\[2\]
 
 ## 傑出報導
 
@@ -14,8 +12,7 @@ NBC新聞是美國新聞界第一個採訪過兩任俄羅斯總統（[普京和]
 
 ## 下屬機構
 
-[缩略图](https://zh.wikipedia.org/wiki/File:NBC_Nightly_News_Broadcast.jpg "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:NBC_News_Washington.jpg "fig:缩略图")
+[缩略图](https://zh.wikipedia.org/wiki/File:NBC_Nightly_News_Broadcast.jpg "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:NBC_News_Washington.jpg "fig:缩略图")
 
 ### 主要事務局
 
@@ -94,17 +91,13 @@ NBC新聞是美國新聞界第一個採訪過兩任俄羅斯總統（[普京和]
 
   - [台呼主題音樂 "The Mission"](https://www.youtube.com/watch?v=AqwhF6vcylg)
 
-[Category:NBC新闻](https://zh.wikipedia.org/wiki/Category:NBC新闻 "wikilink")
-[Category:國家廣播公司](https://zh.wikipedia.org/wiki/Category:國家廣播公司 "wikilink")
-[Category:美國24小時電視新聞頻道](https://zh.wikipedia.org/wiki/Category:美國24小時電視新聞頻道 "wikilink")
-[Category:NBC電視節目](https://zh.wikipedia.org/wiki/Category:NBC電視節目 "wikilink")
+[Category:NBC新闻](https://zh.wikipedia.org/wiki/Category:NBC新闻 "wikilink") [Category:國家廣播公司](https://zh.wikipedia.org/wiki/Category:國家廣播公司 "wikilink") [Category:美國24小時電視新聞頻道](https://zh.wikipedia.org/wiki/Category:美國24小時電視新聞頻道 "wikilink") [Category:NBC電視節目](https://zh.wikipedia.org/wiki/Category:NBC電視節目 "wikilink")
 
 1.
 2.
 
 3.
 
-4.  [採訪經歷造假
-    NBC《夜間新聞》資深主播威廉斯停職](http://fund.cnyes.com/news.aspx?choose=newscontent&sn=20150209100904552378711)
+4.  [採訪經歷造假 NBC《夜間新聞》資深主播威廉斯停職](http://fund.cnyes.com/news.aspx?choose=newscontent&sn=20150209100904552378711)
 
 5.

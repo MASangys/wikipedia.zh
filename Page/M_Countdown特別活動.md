@@ -1,5 +1,4 @@
-**M Countdown特別活動**（），是韓國[Mnet電視頻道的音樂節目](../Page/Mnet媒體.md "wikilink")[M
-Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")。
+**M Countdown特別活動**（），是韓國[Mnet電視頻道的音樂節目](../Page/Mnet媒體.md "wikilink")[M Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")。
 
 ## 歷屆概況
 
@@ -351,8 +350,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
   - [柳昇佑](https://zh.wikipedia.org/wiki/柳昇佑 "wikilink")
   - [TEEN TOP](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")
   - [EXO](../Page/EXO.md "wikilink")
-  - [Missy
-    Elliott](https://zh.wikipedia.org/wiki/Missy_Elliott "wikilink")
+  - [Missy Elliott](https://zh.wikipedia.org/wiki/Missy_Elliott "wikilink")
   - [G-Dragon](../Page/G-Dragon.md "wikilink")
 
 ## M Countdown No. 1 Artist of Spring 2014
@@ -605,8 +603,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
   - [ASTRO](https://zh.wikipedia.org/wiki/ASTRO "wikilink")
   - [BTOB](../Page/BTOB.md "wikilink")
   - [DAY6](../Page/DAY6.md "wikilink")
-  - [JUNHO](https://zh.wikipedia.org/wiki/李俊昊 "wikilink")
-    ([2PM](https://zh.wikipedia.org/wiki/2PM "wikilink"))
+  - [JUNHO](https://zh.wikipedia.org/wiki/李俊昊 "wikilink") ([2PM](https://zh.wikipedia.org/wiki/2PM "wikilink"))
   - [PRISTIN](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")
   - [SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")
   - [VICTON](../Page/VICTON.md "wikilink")
@@ -642,8 +639,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
   - [GFRIEND](../Page/GFRIEND.md "wikilink")
   - [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")
   - [PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")
-  - [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink")
-    （主持：S.COUPS、圓佑、珉奎）
+  - [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink") （主持：S.COUPS、圓佑、珉奎）
   - [UNIT BLACK](../Page/少年24.md "wikilink")
   - [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")
 
@@ -680,13 +676,11 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 
 8月20日
 
-  - [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink")
-    （主持：S.COUPS、JOSHUA、玟奎、VERNON)
+  - [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink") （主持：S.COUPS、JOSHUA、玟奎、VERNON)
   - [SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")
   - [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")
   - [GIRL'S DAY](../Page/Girl's_Day.md "wikilink")
-  - [SUPER JUNIOR
-    D\&E](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")
+  - [SUPER JUNIOR D\&E](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")
   - [VIXX](../Page/VIXX.md "wikilink")
   - KIM TAE WOO
 
@@ -755,8 +749,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 4月15日
 
   - [Golden Child](../Page/Golden_Child.md "wikilink")
-  - [Heize](https://zh.wikipedia.org/wiki/Heize "wikilink") with
-    [Davii](https://zh.wikipedia.org/wiki/Davii "wikilink")
+  - [Heize](https://zh.wikipedia.org/wiki/Heize "wikilink") with [Davii](https://zh.wikipedia.org/wiki/Davii "wikilink")
   - [IN2IT](../Page/IN2IT.md "wikilink")
   - [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")
   - [N.Flying](../Page/N.Flying.md "wikilink")
@@ -850,8 +843,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
   - [IZ\*ONE](../Page/IZ*ONE.md "wikilink")
   - [NU'EST](../Page/NU'EST.md "wikilink")
   - [THE BOYZ](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink")
-  - [TOMORROW X
-    TOGETHER](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")
+  - [TOMORROW X TOGETHER](https://zh.wikipedia.org/wiki/TOMORROW_X_TOGETHER "wikilink")
 
 7月7日
 
@@ -875,8 +867,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
   - [M Countdown官方網站](http://mwave.interest.me/mcountdown/)
   - [Kcon官方網站](http://mwave.interest.me/tw/kcon)
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:巡迴演唱會列表](https://zh.wikipedia.org/wiki/Category:巡迴演唱會列表 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:巡迴演唱會列表](https://zh.wikipedia.org/wiki/Category:巡迴演唱會列表 "wikilink")
 
 1.   Mwave|accessdate=2017-02-14|work=mwave.interest.me|language=en}}
 2.   Mwave|accessdate=2017-02-14|work=mwave.interest.me|language=en}}

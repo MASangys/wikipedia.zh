@@ -1,6 +1,4 @@
-《**鋼鐵雄心IV**》（）是二战[模拟游戏钢铁雄心系列于](https://zh.wikipedia.org/wiki/模拟游戏 "wikilink")2016年推出的新作品，開發公司[Paradox
-Development
-Studio在前作發表長達](../Page/Paradox_Development_Studio.md "wikilink")6年後，正式在2014年1月23日的[邁阿密Paradox年度會議宣布推出新一代作品](https://zh.wikipedia.org/wiki/邁阿密 "wikilink")\[1\]。與系列中的過往三代產品相同，《鋼鐵雄心IV》允许玩家扮演1936－1948年间世界上任何一个存在或可能存在的国家，通过政治、经济、谍报、外交以及战争等各種方式，於[第二次世界大战](../Page/第二次世界大战.md "wikilink")期间擴張版圖。
+《**鋼鐵雄心IV**》（）是二战[模拟游戏钢铁雄心系列于](https://zh.wikipedia.org/wiki/模拟游戏 "wikilink")2016年推出的新作品，開發公司[Paradox Development Studio在前作發表長達](../Page/Paradox_Development_Studio.md "wikilink")6年後，正式在2014年1月23日的[邁阿密Paradox年度會議宣布推出新一代作品](https://zh.wikipedia.org/wiki/邁阿密 "wikilink")\[1\]。與系列中的過往三代產品相同，《鋼鐵雄心IV》允许玩家扮演1936－1948年间世界上任何一个存在或可能存在的国家，通过政治、经济、谍报、外交以及战争等各種方式，於[第二次世界大战](../Page/第二次世界大战.md "wikilink")期间擴張版圖。
 
 ## 开发
 
@@ -50,7 +48,7 @@ Paradox在發佈會當日公布了遊戲的首部預告片\[2\]。
 <tr class="odd">
 <td><p>钢铁雄心IV：共赴胜利（Hearts of Iron IV: Together for Victory）</p></td>
 <td><ul>
-<li>為<a href="../Page/英联邦.md" title="wikilink">英联邦</a>國家（<a href="https://zh.wikipedia.org/wiki/英屬印度" title="wikilink">英屬印度</a>、加拿大自治領、澳大利亞自治領、<a href="../Page/紐西蘭自治領.md" title="wikilink">紐西蘭自治領</a>、<a href="../Page/南非聯邦.md" title="wikilink">南非聯邦</a>）提供獨特國策及新事件</li>
+<li>為<a href="../Page/英联邦.md" title="wikilink">英联邦</a>國家（<a href="https://zh.wikipedia.org/wiki/英屬印度" title="wikilink">英屬印度</a>、<a href="https://zh.wikipedia.org/wiki/加拿大自治領" title="wikilink">加拿大自治領</a>、<a href="https://zh.wikipedia.org/wiki/澳大利亞" title="wikilink">澳大利亞自治領</a>、<a href="../Page/紐西蘭自治領.md" title="wikilink">紐西蘭自治領</a>、<a href="../Page/南非聯邦.md" title="wikilink">南非聯邦</a>）提供獨特國策及新事件</li>
 <li>新增<a href="https://zh.wikipedia.org/wiki/滿洲國" title="wikilink">滿洲國</a>（日本<a href="https://zh.wikipedia.org/wiki/附庸" title="wikilink">附庸</a>）</li>
 <li>新增自主系統，允許附庸國從宗主國獨立和允許宗主國附庸傀儡</li>
 <li>新增<a href="../Page/租借法案.md" title="wikilink">租借法案</a>系統，允許玩家向別國提供物资</li>
@@ -150,25 +148,13 @@ Paradox在發佈會當日公布了遊戲的首部預告片\[2\]。
 
   -
 
-  - [Hearts of Iron 4
-    介紹頁面](https://web.archive.org/web/20140204011118/http://www.paradoxplaza.com/games/hearts-of-iron-iv)
+  - [Hearts of Iron 4 介紹頁面](https://web.archive.org/web/20140204011118/http://www.paradoxplaza.com/games/hearts-of-iron-iv)
 
   - [官方宣傳片段](http://www.youtube.com/watch?v=Q1bvX2-XrAQ)
 
-[Category:2016年電子遊戲](https://zh.wikipedia.org/wiki/Category:2016年電子遊戲 "wikilink")
-[Category:二战题材电子游戏](https://zh.wikipedia.org/wiki/Category:二战题材电子游戏 "wikilink")
-[Category:冷戰遊戲](https://zh.wikipedia.org/wiki/Category:冷戰遊戲 "wikilink")
-[Category:即時戰略遊戲](https://zh.wikipedia.org/wiki/Category:即時戰略遊戲 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink")
-[Category:Paradox_Interactive遊戲](https://zh.wikipedia.org/wiki/Category:Paradox_Interactive遊戲 "wikilink")
-[Category:有資料片的遊戲](https://zh.wikipedia.org/wiki/Category:有資料片的遊戲 "wikilink")
-[Category:瑞典開發電子遊戲](https://zh.wikipedia.org/wiki/Category:瑞典開發電子遊戲 "wikilink")
+[Category:2016年電子遊戲](https://zh.wikipedia.org/wiki/Category:2016年電子遊戲 "wikilink") [Category:二战题材电子游戏](https://zh.wikipedia.org/wiki/Category:二战题材电子游戏 "wikilink") [Category:冷戰遊戲](https://zh.wikipedia.org/wiki/Category:冷戰遊戲 "wikilink") [Category:即時戰略遊戲](https://zh.wikipedia.org/wiki/Category:即時戰略遊戲 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink") [Category:Paradox_Interactive遊戲](https://zh.wikipedia.org/wiki/Category:Paradox_Interactive遊戲 "wikilink") [Category:有資料片的遊戲](https://zh.wikipedia.org/wiki/Category:有資料片的遊戲 "wikilink") [Category:瑞典開發電子遊戲](https://zh.wikipedia.org/wiki/Category:瑞典開發電子遊戲 "wikilink")
 
-1.  [Two New Games Announced From Paradox Development
-    Studio](http://www.paradoxplaza.com/press/2014/1/two-new-games-announced-from-paradox-development-studio)
-    . 2014-01-23 \[2014-02-07\]
+1.  [Two New Games Announced From Paradox Development Studio](http://www.paradoxplaza.com/press/2014/1/two-new-games-announced-from-paradox-development-studio) . 2014-01-23 \[2014-02-07\]
 
 2.
 

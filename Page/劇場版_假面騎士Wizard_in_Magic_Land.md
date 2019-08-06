@@ -1,16 +1,12 @@
-《**劇場版 假面騎士Wizard in Magic
-Land**》（），是日本特攝節目《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》的獨立劇場版。日本地區於2013年8月3日上映。\[1\]\[2\]
+《**劇場版 假面騎士Wizard in Magic Land**》（），是日本特攝節目《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》的獨立劇場版。日本地區於2013年8月3日上映。\[1\]\[2\]
 
-此外[超級戰隊系列作品](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")》劇場版《[劇場版
-獸電戰隊強龍者 GABURINCHO OF
-MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink")》亦同步上映。
+此外[超級戰隊系列作品](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")》劇場版《[劇場版 獸電戰隊強龍者 GABURINCHO OF MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink")》亦同步上映。
 
 本作劇場版的口號為「金色魔法使‧假面騎士Sorcerer降臨！」、「魔法支配的世界－窮途末路的危機之中爆發出『最後的魔法』！！」。
 
 ## 本作特色
 
-  - 本作繼《[假面騎士555](../Page/假面騎士555.md "wikilink")》及其劇場版《[假面騎士555
-    消失的天堂](../Page/假面騎士555_消失的天堂.md "wikilink")》後再次有量產型的假面騎士登場。
+  - 本作繼《[假面騎士555](../Page/假面騎士555.md "wikilink")》及其劇場版《[假面騎士555 消失的天堂](../Page/假面騎士555_消失的天堂.md "wikilink")》後再次有量產型的假面騎士登場。
   - 飾演假面騎士Sorcerer，年屆54歲的男演員，亦成為史上飾演假面騎士系列之中最年長的一位。
   - 本作亦摒除過往自《[假面騎士DECADE](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")》開始起的所屬的獨立劇場版系列之中，讓未公開的續作假面騎士先行登場的常用慣例。
 
@@ -18,10 +14,8 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
 
   -
     某夜突如其來刮起一陣帶有彩虹色光輝的龍捲風，漸漸巨大化並籠罩全世界。
-    翌日早上，**操真晴人 /
-    幪面超人Wizard**與**曆**從睡夢中醒來後，卻發現所有景象猶如另一個世界，街上充斥著的是使用魔法的人們。甚至同伴**奈良瞬平**與**大門凛子**像失去過去事情的記憶般變得形同陌路人。
-    途中偶遇名叫**椎名**的少年，得知原來製造出彩虹色光輝的龍捲風，把世界變化成為**「魔法王國」**的元兇是號稱**「金色魔法使」**的人
-    － **假面騎士Sorcerer**，為尋求真相而向國家統治者**瑪雅大王**身處的城堡**「翡翠城」**進發。
+    翌日早上，**操真晴人 / 幪面超人Wizard**與**曆**從睡夢中醒來後，卻發現所有景象猶如另一個世界，街上充斥著的是使用魔法的人們。甚至同伴**奈良瞬平**與**大門凛子**像失去過去事情的記憶般變得形同陌路人。
+    途中偶遇名叫**椎名**的少年，得知原來製造出彩虹色光輝的龍捲風，把世界變化成為**「魔法王國」**的元兇是號稱**「金色魔法使」**的人 － **假面騎士Sorcerer**，為尋求真相而向國家統治者**瑪雅大王**身處的城堡**「翡翠城」**進發。
 
 ## 用語
 
@@ -282,8 +276,7 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
 
   -
     假面騎士Sorcerer專用的長戟型武器。
-    斧身嵌上具有魔力增幅魔力用途的魔寶石「Excel Shard」，刀刃部位「Light
-    Blade」配合魔力所作的斬擊威力足可無視一切防禦。
+    斧身嵌上具有魔力增幅魔力用途的魔寶石「Excel Shard」，刀刃部位「Light Blade」配合魔力所作的斬擊威力足可無視一切防禦。
 
 <!-- end list -->
 
@@ -329,16 +322,13 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
 <!-- end list -->
 
   -
-    假面騎士Wizard專用魔法指環，利用此解放Infinity
-    Style與Wizardragon身體四個部份，轉變成另一形態Infinity
-    Dragon。
+    假面騎士Wizard專用魔法指環，利用此解放Infinity Style與Wizardragon身體四個部份，轉變成另一形態Infinity Dragon。
 
 ## 其他相關媒體
 
 ### 網路電影
 
-**《網路版 - 假面騎士Wizard in
-真的嗎！？Land》**（日語：），是2013年7月東映特撮BB的[テレ朝動画的付費配信](https://zh.wikipedia.org/wiki/:ja:テレ朝動画 "wikilink")，也可以說是電影本篇外所附帶的特別篇\[3\]。
+**《網路版 - 假面騎士Wizard in 真的嗎！？Land》**（日語：），是2013年7月東映特撮BB的[テレ朝動画的付費配信](https://zh.wikipedia.org/wiki/:ja:テレ朝動画 "wikilink")，也可以說是電影本篇外所附帶的特別篇\[3\]。
 
 #### 網路版登場角色
 
@@ -747,8 +737,7 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
 
 ### 映像商品化
 
-  - **《劇場版 假面騎士Wizard in Magic Land Making of
-    Showtime》**[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2013年7月21日發行）
+  - **《劇場版 假面騎士Wizard in Magic Land Making of Showtime》**[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2013年7月21日發行）
 
 <!-- end list -->
 
@@ -757,8 +746,7 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
 
 <!-- end list -->
 
-  - **《網絡版 - 假面騎士Wizard in
-    真的嗎！？Land》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2013年12月6日發行）
+  - **《網絡版 - 假面騎士Wizard in 真的嗎！？Land》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2013年12月6日發行）
 
 <!-- end list -->
 
@@ -768,10 +756,8 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
 
 <!-- end list -->
 
-  - **《劇場版 假面騎士Wizard in Magic
-    Land》**通常版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2014年1月10日發行）
-  - **《劇場版 假面騎士Wizard in Magic
-    Land》**珍藏版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2014年1月10日發行）
+  - **《劇場版 假面騎士Wizard in Magic Land》**通常版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2014年1月10日發行）
+  - **《劇場版 假面騎士Wizard in Magic Land》**珍藏版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2014年1月10日發行）
 
 ## 演員
 
@@ -780,9 +766,7 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
   - 曆 - [奥仲麻琴](https://zh.wikipedia.org/wiki/奥仲麻琴 "wikilink") 飾
   - 輪島繁 / 幪面超人Mage -  飾/聲
   - 大門凛子 / 幪面超人Mage - [高山侑子](../Page/高山侑子.md "wikilink") 飾/聲
-  - 奈良瞬平 / 幪面超人Mage -
-    [戶塚純貴](https://zh.wikipedia.org/wiki/戶塚純貴 "wikilink")
-    飾/聲
+  - 奈良瞬平 / 幪面超人Mage - [戶塚純貴](https://zh.wikipedia.org/wiki/戶塚純貴 "wikilink") 飾/聲
   - 美紗 / 美杜莎 -  飾/聲
   - 雄吾 / 菲尼克斯 -  飾/聲
   - 空 / 古利姆連 - [前山剛久](../Page/前山剛久.md "wikilink") 飾/聲
@@ -792,15 +776,11 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
   - 瑪雅大王 - [忍成修吾](../Page/忍成修吾.md "wikilink") 飾
   - 近衛隊長 / 幪面超人Mage - [載寧龍二](../Page/載寧龍二.md "wikilink") 飾/聲
   - 椎名 / 幪面超人Mage -  飾/聲
-  - 年輕人 - 安田奈央、吉住繪-{里}-加、名倉香織、井坂仁美、遠藤三貴、秋田知里（[Kamen Rider
-    GIRLS](https://zh.wikipedia.org/wiki/Kamen_Rider_GIRLS "wikilink")）
-    飾
+  - 年輕人 - 安田奈央、吉住繪-{里}-加、名倉香織、井坂仁美、遠藤三貴、秋田知里（[Kamen Rider GIRLS](https://zh.wikipedia.org/wiki/Kamen_Rider_GIRLS "wikilink")） 飾
   - 瑪雅之父 - [北見誠](https://zh.wikipedia.org/wiki/北見誠 "wikilink") 飾
   - 童年瑪雅 - [櫻井海瑞希](https://zh.wikipedia.org/wiki/櫻井海瑞希 "wikilink") 飾
   - 椎名之母 -  飾
-  - 孩童 -
-    [鈴木啓](https://zh.wikipedia.org/wiki/鈴木啓 "wikilink")、[鈴木琉生](https://zh.wikipedia.org/wiki/鈴木琉生 "wikilink")
-    飾
+  - 孩童 - [鈴木啓](https://zh.wikipedia.org/wiki/鈴木啓 "wikilink")、[鈴木琉生](https://zh.wikipedia.org/wiki/鈴木琉生 "wikilink") 飾
   - 瑪雅之妻 -  飾
 
 ## 聲音演出
@@ -823,8 +803,7 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
 
 「**Rollercoaster days**」
 
-  - 演唱: [Kamen Rider
-    GIRLS](https://zh.wikipedia.org/wiki/Kamen_Rider_GIRLS "wikilink")（井坂仁美、秋田知里、名倉香織）
+  - 演唱: [Kamen Rider GIRLS](https://zh.wikipedia.org/wiki/Kamen_Rider_GIRLS "wikilink")（井坂仁美、秋田知里、名倉香織）
   - 作詞: [藤林聖子](../Page/藤林聖子.md "wikilink")
   - 作／編曲：
 
@@ -850,8 +829,7 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
   - 人物設計 - 田嶋秀樹、小林大佑、阿部統（PLEX）
   - 生物設計 - 丸山浩
   - 發行 - [東映](../Page/東映.md "wikilink")
-  - 製作 -
-    劇場版「Wizard・強龍者」製作委員會（[東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、、[萬代](../Page/萬代.md "wikilink")）
+  - 製作 - 劇場版「Wizard・強龍者」製作委員會（[東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、、[萬代](../Page/萬代.md "wikilink")）
 
 ## 外部連結
 
@@ -859,11 +837,8 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
 
 ## 参考资料
 
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink")
-[Category:2013年日本電影](https://zh.wikipedia.org/wiki/Category:2013年日本電影 "wikilink")
+[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink") [Category:2013年日本電影](https://zh.wikipedia.org/wiki/Category:2013年日本電影 "wikilink")
 
 1.
 2.
-3.  [『假面騎士Wizard in
-    真的嗎！？Land』（官方網站）](http://www.wizard-kyoryu.jp/netmovie/index.html)
+3.  [『假面騎士Wizard in 真的嗎！？Land』（官方網站）](http://www.wizard-kyoryu.jp/netmovie/index.html)

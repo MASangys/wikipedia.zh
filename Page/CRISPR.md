@@ -2,12 +2,9 @@
 
 **CRISPR**<small>（[IPA](../Page/國際音標.md "wikilink")：/ˈkrɪspər/；[DJ](../Page/DJ音標.md "wikilink")：/ˈkrispə/；[KK](../Page/KK音標.md "wikilink")：/ˈkrɪspɚ/）</small>是存在於细菌中的一種基因組，該類基因組中含有曾經攻擊過該細菌的病毒的基因片段。細菌透過這些基因片段來偵測並抵抗相同病毒的攻擊，並摧毁其DNA。這類基因組是細菌免疫系统的關鍵組成部分。透過這些基因组，人類可以準確且有效地編輯生命體内的部分基因，也就是CRISPR/Cas9基因編輯技術。
 
-**CRISPR/Cas系統**，為目前發現存在於多數[細菌與絕大多數的](https://zh.wikipedia.org/wiki/細菌 "wikilink")[古菌](../Page/古菌.md "wikilink")中的一種[後天免疫系統](https://zh.wikipedia.org/wiki/後天免疫 "wikilink")\[1\]，以消滅外來的[质粒](../Page/质粒.md "wikilink")或者[噬菌體](https://zh.wikipedia.org/wiki/噬菌體 "wikilink")\[2\]\[3\]，並在自身[基因組中留下外來基因片段作為](https://zh.wikipedia.org/wiki/基因组 "wikilink")“記憶”\[4\]。全名為**常間回文重複序列叢集/常間回文重複序列叢集關聯蛋白系統**（**C**lustered
-**R**egularly **I**nterspaced **S**hort **P**alindromic
-**R**epeats/CRISPR-associated proteins）。
+**CRISPR/Cas系統**，為目前發現存在於多數[細菌與絕大多數的](https://zh.wikipedia.org/wiki/細菌 "wikilink")[古菌](../Page/古菌.md "wikilink")中的一種[後天免疫系統](https://zh.wikipedia.org/wiki/後天免疫 "wikilink")\[1\]，以消滅外來的[质粒](../Page/质粒.md "wikilink")或者[噬菌體](https://zh.wikipedia.org/wiki/噬菌體 "wikilink")\[2\]\[3\]，並在自身[基因組中留下外來基因片段作為](https://zh.wikipedia.org/wiki/基因组 "wikilink")“記憶”\[4\]。全名為**常間回文重複序列叢集/常間回文重複序列叢集關聯蛋白系統**（**C**lustered **R**egularly **I**nterspaced **S**hort **P**alindromic **R**epeats/CRISPR-associated proteins）。
 
-目前已發現三種不同類型的
-CRISPR/Cas系統，存在於大約40%和90%已定序的[细菌](../Page/细菌.md "wikilink")和[古菌](../Page/古菌.md "wikilink")中\[5\]\[6\]。其中第二型的組成較為簡單，以Cas9蛋白以及[嚮導RNA](https://zh.wikipedia.org/wiki/嚮導RNA "wikilink")（gRNA）為核心的組成。
+目前已發現三種不同類型的 CRISPR/Cas系統，存在於大約40%和90%已定序的[细菌](../Page/细菌.md "wikilink")和[古菌](../Page/古菌.md "wikilink")中\[5\]\[6\]。其中第二型的組成較為簡單，以Cas9蛋白以及[嚮導RNA](https://zh.wikipedia.org/wiki/嚮導RNA "wikilink")（gRNA）為核心的組成。
 
 Cas9是第一個被廣泛應用的CRISPR[核酸酶](../Page/核酸酶.md "wikilink")，其次是Cpf1，其在的[CRISPR/Cpf1系统中被發現](https://zh.wikipedia.org/wiki/CRISPR/Cpf1 "wikilink")\[7\]\[8\]。其它這樣的系統被認為存在\[9\]。
 
@@ -15,10 +12,7 @@ Cas9是第一個被廣泛應用的CRISPR[核酸酶](../Page/核酸酶.md "wikili
 
 ## 發現歴史
 
-聚簇DNA重複的發現始於世界三個地區的三個獨立地點。我們今天稱為CRISPR的基因組重複群集，即原核生物擬核DNA鏈中的丛生重复序列，在1987年一份由[大阪大学](../Page/大阪大学.md "wikilink")的[石野良純](../Page/石野良純.md "wikilink")領銜的[大腸桿菌](../Page/大腸桿菌.md "wikilink")研究报告中被首次描述\[12\]。2000年，相似的重复序列在其它真细菌和古细菌中被发现，并被命名为短间隔重复序列（Short
-Regularly Spaced
-Repeats，SRSR）\[13\]。2002年SRSR被重命名为CRISPR，其中一部分基因编码的蛋白为[核酸酶](../Page/核酸酶.md "wikilink")和[解旋酶](https://zh.wikipedia.org/wiki/解旋酶 "wikilink")，
-这些关联蛋白（Cas, CRISPR-associated proteins）与CRISPR组成了CRISPR/Cas系统\[14\]。
+聚簇DNA重複的發現始於世界三個地區的三個獨立地點。我們今天稱為CRISPR的基因組重複群集，即原核生物擬核DNA鏈中的丛生重复序列，在1987年一份由[大阪大学](../Page/大阪大学.md "wikilink")的[石野良純](../Page/石野良純.md "wikilink")領銜的[大腸桿菌](../Page/大腸桿菌.md "wikilink")研究报告中被首次描述\[12\]。2000年，相似的重复序列在其它真细菌和古细菌中被发现，并被命名为短间隔重复序列（Short Regularly Spaced Repeats，SRSR）\[13\]。2002年SRSR被重命名为CRISPR，其中一部分基因编码的蛋白为[核酸酶](../Page/核酸酶.md "wikilink")和[解旋酶](https://zh.wikipedia.org/wiki/解旋酶 "wikilink")， 这些关联蛋白（Cas, CRISPR-associated proteins）与CRISPR组成了CRISPR/Cas系统\[14\]。
 
 ### Cas9
 
@@ -28,8 +22,7 @@ Repeats，SRSR）\[13\]。2002年SRSR被重命名为CRISPR，其中一部分基�
 
 ### Cpf1
 
-在2015年，核酸酶Cpf1被发现在的[CRISPR/Cpf1系统](https://zh.wikipedia.org/wiki/CRISPR/Cpf1 "wikilink")\[16\]\[17\]。其他这样的系统被认为存在\[18\]。Cpf1显示了与Cas9的几个关键差异，包括：导致双链DNA中的“交错”切割，而不是由Cas9产生的“钝的”切割，依赖于“富含T碱基”的原间隔序列（Protospacer）相邻基序（为Cas9提供替代的靶向位点）
-仅需要CRISPR RNA（crRNA）用于成功靶向（使用Cas9同时需要crRNA和一个（tracrRNA））。
+在2015年，核酸酶Cpf1被发现在的[CRISPR/Cpf1系统](https://zh.wikipedia.org/wiki/CRISPR/Cpf1 "wikilink")\[16\]\[17\]。其他这样的系统被认为存在\[18\]。Cpf1显示了与Cas9的几个关键差异，包括：导致双链DNA中的“交错”切割，而不是由Cas9产生的“钝的”切割，依赖于“富含T碱基”的原间隔序列（Protospacer）相邻基序（为Cas9提供替代的靶向位点） 仅需要CRISPR RNA（crRNA）用于成功靶向（使用Cas9同时需要crRNA和一个（tracrRNA））。
 
 ## 評價
 
@@ -69,19 +62,11 @@ Repeats，SRSR）\[13\]。2002年SRSR被重命名为CRISPR，其中一部分基�
 
 ## 外部链接
 
-  - [Advanced Gene Editing:
-    CRISPR-Cas9](https://fas.org/sgp/crs/misc/R44824.pdf) [Congressional
-    Research Service](../Page/國會研究處.md "wikilink")
+  - [Advanced Gene Editing: CRISPR-Cas9](https://fas.org/sgp/crs/misc/R44824.pdf) [Congressional Research Service](../Page/國會研究處.md "wikilink")
 
-  - [Jennifer Doudna talk: Genome Engineering with CRISPR-Cas9: Birth of
-    a Breakthrough
-    Technology](https://www.ibiology.org/ibiomagazine/jennifer-doudna-genome-engineering-with-crispr-cas9-birth-of-a-breakthrough-technology.html)
+  - [Jennifer Doudna talk: Genome Engineering with CRISPR-Cas9: Birth of a Breakthrough Technology](https://www.ibiology.org/ibiomagazine/jennifer-doudna-genome-engineering-with-crispr-cas9-birth-of-a-breakthrough-technology.html)
 
-[Category:基因工程](https://zh.wikipedia.org/wiki/Category:基因工程 "wikilink")
-[Category:免疫學](https://zh.wikipedia.org/wiki/Category:免疫學 "wikilink")
-[Category:非編碼RNA](https://zh.wikipedia.org/wiki/Category:非編碼RNA "wikilink")
-[Category:重複DNA序列](https://zh.wikipedia.org/wiki/Category:重複DNA序列 "wikilink")
-[Category:分子遺傳學](https://zh.wikipedia.org/wiki/Category:分子遺傳學 "wikilink")
+[Category:基因工程](https://zh.wikipedia.org/wiki/Category:基因工程 "wikilink") [Category:免疫學](https://zh.wikipedia.org/wiki/Category:免疫學 "wikilink") [Category:非編碼RNA](https://zh.wikipedia.org/wiki/Category:非編碼RNA "wikilink") [Category:重複DNA序列](https://zh.wikipedia.org/wiki/Category:重複DNA序列 "wikilink") [Category:分子遺傳學](https://zh.wikipedia.org/wiki/Category:分子遺傳學 "wikilink")
 
 1.
 
@@ -91,9 +76,7 @@ Repeats，SRSR）\[13\]。2002年SRSR被重命名为CRISPR，其中一部分基�
 
 4.
 
-5.  71/79 Archaea, 463/1008 Bacteria
-    [CRISPRdb](http://crispr.u-psud.fr/crispr/CRISPRdatabase.php), Date:
-    19.6.2010
+5.  71/79 Archaea, 463/1008 Bacteria [CRISPRdb](http://crispr.u-psud.fr/crispr/CRISPRdatabase.php), Date: 19.6.2010
 
 6.
 

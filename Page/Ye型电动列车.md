@@ -1,6 +1,4 @@
-**Ye型电动列车**（[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")：Вагоны
-метро типа «Е»
-）是[莫斯科地铁](../Page/莫斯科地铁.md "wikilink")、[圣彼得堡地铁](../Page/圣彼得堡地铁.md "wikilink")、[第比利斯地铁](../Page/第比利斯地铁.md "wikilink")、[基辅地铁和](https://zh.wikipedia.org/wiki/基辅地铁 "wikilink")[巴库地铁的](https://zh.wikipedia.org/wiki/巴库地铁 "wikilink")[电力动车组车款之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，现在已经停止使用。
+**Ye型电动列车**（[俄语](https://zh.wikipedia.org/wiki/俄语 "wikilink")：Вагоны метро типа «Е» ）是[莫斯科地铁](../Page/莫斯科地铁.md "wikilink")、[圣彼得堡地铁](../Page/圣彼得堡地铁.md "wikilink")、[第比利斯地铁](../Page/第比利斯地铁.md "wikilink")、[基辅地铁和](https://zh.wikipedia.org/wiki/基辅地铁 "wikilink")[巴库地铁的](https://zh.wikipedia.org/wiki/巴库地铁 "wikilink")[电力动车组车款之一](https://zh.wikipedia.org/wiki/电力动车组 "wikilink")，现在已经停止使用。
 
 ## 简介
 
@@ -27,18 +25,8 @@ Ye型由[地铁车辆机械制造厂](../Page/地铁车辆机械制造厂.md "wi
 
 ## 外部链接
 
-  - [О вагонах типа «Е» на сайте
-    «Метровагоны»](http://vagon.metro.ru/passenger/e.html)
-  - [Фотографии и рассказ о последнем вагоне типа «Е» в Московском метро
-    (№ 3605) на www.metromost.com](http://metromost.com/alb/024.htm)
-  - [фотографии вагонов типа «Е» в Виртуальной фотогалерее
-    МЕТРО](http://metro-photo.ru/тип-е)
+  - [О вагонах типа «Е» на сайте «Метровагоны»](http://vagon.metro.ru/passenger/e.html)
+  - [Фотографии и рассказ о последнем вагоне типа «Е» в Московском метро (№ 3605) на www.metromost.com](http://metromost.com/alb/024.htm)
+  - [фотографии вагонов типа «Е» в Виртуальной фотогалерее МЕТРО](http://metro-photo.ru/тип-е)
 
-[Category:俄罗斯电力动车组](https://zh.wikipedia.org/wiki/Category:俄罗斯电力动车组 "wikilink")
-[Category:莫斯科地铁](https://zh.wikipedia.org/wiki/Category:莫斯科地铁 "wikilink")
-[Category:圣彼得堡地铁](https://zh.wikipedia.org/wiki/Category:圣彼得堡地铁 "wikilink")
-[Category:第比利斯地铁](https://zh.wikipedia.org/wiki/Category:第比利斯地铁 "wikilink")
-[Category:基辅地铁](https://zh.wikipedia.org/wiki/Category:基辅地铁 "wikilink")
-[Category:巴库地铁](https://zh.wikipedia.org/wiki/Category:巴库地铁 "wikilink")
-[Category:750伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:750伏直流電力動車組 "wikilink")
-[Category:825伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:825伏直流電力動車組 "wikilink")
+[Category:俄罗斯电力动车组](https://zh.wikipedia.org/wiki/Category:俄罗斯电力动车组 "wikilink") [Category:莫斯科地铁](https://zh.wikipedia.org/wiki/Category:莫斯科地铁 "wikilink") [Category:圣彼得堡地铁](https://zh.wikipedia.org/wiki/Category:圣彼得堡地铁 "wikilink") [Category:第比利斯地铁](https://zh.wikipedia.org/wiki/Category:第比利斯地铁 "wikilink") [Category:基辅地铁](https://zh.wikipedia.org/wiki/Category:基辅地铁 "wikilink") [Category:巴库地铁](https://zh.wikipedia.org/wiki/Category:巴库地铁 "wikilink") [Category:750伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:750伏直流電力動車組 "wikilink") [Category:825伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:825伏直流電力動車組 "wikilink")

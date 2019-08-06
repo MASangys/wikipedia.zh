@@ -6,8 +6,6 @@
 
 ## 参考资料
 
-[Category:钾化合物](https://zh.wikipedia.org/wiki/Category:钾化合物 "wikilink")
-[Category:钴氰酸盐](https://zh.wikipedia.org/wiki/Category:钴氰酸盐 "wikilink")
+[Category:钾化合物](https://zh.wikipedia.org/wiki/Category:钾化合物 "wikilink") [Category:钴氰酸盐](https://zh.wikipedia.org/wiki/Category:钴氰酸盐 "wikilink")
 
-1.  《无机化学丛书》. 第九卷 锰分族 铁系 铂系. 谢高阳 等. 科学出版社. P<sub>253～254</sub>.
-    钴(II)的阴离子络合物. ISBN 978-7-03-030545-9
+1.  《无机化学丛书》. 第九卷 锰分族 铁系 铂系. 谢高阳 等. 科学出版社. P<sub>253～254</sub>. 钴(II)的阴离子络合物. ISBN 978-7-03-030545-9

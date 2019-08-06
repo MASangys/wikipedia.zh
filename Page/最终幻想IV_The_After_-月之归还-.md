@@ -1,18 +1,10 @@
-是一款由[Matrix
-Software和](../Page/Matrix_Software.md "wikilink")[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")合作開發的[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，为1991年[史克威尔公司](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")[游戏](../Page/游戏.md "wikilink")《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》的後傳。遊戲最初于2008年在日本手機平臺發行。2009年在北美、欧洲和日本[WiiWare](../Page/WiiWare.md "wikilink")平台发布强化移植版\[1\]\[2\]\[3\]。2011年，本作与《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》捆绑在一起作为PlayStation
-Portable游戏《[最終幻想IV
-完美收藏輯](https://zh.wikipedia.org/wiki/最終幻想IV_完美收藏輯 "wikilink")》发售，其中另收錄衔接原作与本作剧情的全新游戏《最终幻想IV
-间奏》。遊戲於[Android](../Page/Android.md "wikilink")和[iOS平台發行](https://zh.wikipedia.org/wiki/iOS "wikilink")3D重製版\[4\]。為適應歐美版標題，日本WiiWare移植版和PlayStation
-Portable合輯的遊戲名改為。
+是一款由[Matrix Software和](../Page/Matrix_Software.md "wikilink")[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")合作開發的[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，为1991年[史克威尔公司](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")[游戏](../Page/游戏.md "wikilink")《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》的後傳。遊戲最初于2008年在日本手機平臺發行。2009年在北美、欧洲和日本[WiiWare](../Page/WiiWare.md "wikilink")平台发布强化移植版\[1\]\[2\]\[3\]。2011年，本作与《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》捆绑在一起作为PlayStation Portable游戏《[最終幻想IV 完美收藏輯](https://zh.wikipedia.org/wiki/最終幻想IV_完美收藏輯 "wikilink")》发售，其中另收錄衔接原作与本作剧情的全新游戏《最终幻想IV 间奏》。遊戲於[Android](../Page/Android.md "wikilink")和[iOS平台發行](https://zh.wikipedia.org/wiki/iOS "wikilink")3D重製版\[4\]。為適應歐美版標題，日本WiiWare移植版和PlayStation Portable合輯的遊戲名改為。
 
 《月之歸還》設定於《最終幻想IV》17年之後，遊戲講述了原作角色及其子女的故事，每一篇章都有新的反派，設定了一連串威脅藍星命運的神秘事件\[5\]。游戏大量使用本传的资源、地点与游戏机制，然而作品采用了更高质量的角色图像，并加入了一些新的游戏系统\[6\]\[7\]。
 
 ## 游戏玩法
 
-《最终幻想IV The After
--月之归还-》使用了《最终幻想IV》的多数游戏机制，包括[随机遇敌和](https://zh.wikipedia.org/wiki/随机遇敌 "wikilink")《最终幻想IV》起用的[即时战斗](https://zh.wikipedia.org/wiki/即时战斗 "wikilink")（ATB）系统。游戏同时保留了WonderSwanColor版和Game
-Boy
-Advance版的增强图像，同时游戏进一步将角色图标质量提高到《[最终幻想VI](../Page/最终幻想VI.md "wikilink")》的水平\[8\]。
+《最终幻想IV The After -月之归还-》使用了《最终幻想IV》的多数游戏机制，包括[随机遇敌和](https://zh.wikipedia.org/wiki/随机遇敌 "wikilink")《最终幻想IV》起用的[即时战斗](https://zh.wikipedia.org/wiki/即时战斗 "wikilink")（ATB）系统。游戏同时保留了WonderSwanColor版和Game Boy Advance版的增强图像，同时游戏进一步将角色图标质量提高到《[最终幻想VI](../Page/最终幻想VI.md "wikilink")》的水平\[8\]。
 
 战斗系统使用了乘坐“月龄”的新功能，其反映游戏中的月相，会随在旅馆休息或到游戏特定时间改变。月相会改变敌人和玩家双方的物理和魔法攻击力。一些罕见怪物也只会在某些月相中出现\[9\]。类似于《[时空之轮](../Page/时空之轮.md "wikilink")》的双人或三人技能，游戏也引入了叫做“团队”的联合攻击方式。玩家可分别调整两个或更多角色的命令，来合作发动单一攻击，联合技能会消耗参与全员的MP。联合技能非常强大，游戏有70多种联合技能\[10\]。
 
@@ -36,31 +28,19 @@ Advance版的增强图像，同时游戏进一步将角色图标质量提高到�
 
 ## 開發
 
-在發行[任天堂DS](../Page/任天堂DS.md "wikilink")重製版《[最終幻想IV](../Page/最終幻想IV_\(任天堂DS\).md "wikilink")》不久之前，執行製作人[時田貴司稱在監督重製版之時](https://zh.wikipedia.org/wiki/時田貴司 "wikilink")，他們還在探討創作一部後續情節，並討論創作一部新的行動電話作品。原作的編劇時田
-確定，以行動電話形式發行續作是個好方法，因為這讓玩家在玩完DS重製版後很快便能玩到該遊戲。透過以篇章形式發行遊戲，他也希望玩家能大概像日本動漫連載那樣，期待將來的篇章，而非一次完成遊戲的厭倦\[14\]。
+在發行[任天堂DS](../Page/任天堂DS.md "wikilink")重製版《[最終幻想IV](../Page/最終幻想IV_\(任天堂DS\).md "wikilink")》不久之前，執行製作人[時田貴司稱在監督重製版之時](https://zh.wikipedia.org/wiki/時田貴司 "wikilink")，他們還在探討創作一部後續情節，並討論創作一部新的行動電話作品。原作的編劇時田 確定，以行動電話形式發行續作是個好方法，因為這讓玩家在玩完DS重製版後很快便能玩到該遊戲。透過以篇章形式發行遊戲，他也希望玩家能大概像日本動漫連載那樣，期待將來的篇章，而非一次完成遊戲的厭倦\[14\]。
 
-儘管遊戲觀感上和原版《最終幻想IV》大致相同，但其也加入了了新遊戲元素，前六部最終幻想遊戲的點繪師[涩谷和子重新创作了新](https://zh.wikipedia.org/wiki/涩谷和子 "wikilink")、高清的角色图像；天野喜孝重新绘制了插画；时田以前的同事，史克威尔艾尼克斯的分镜画师Akira
-Oguro设计了角色造型。尽管游戏使用了新的曲目，但其使用了大量以植松伸夫为原版《最终幻想IV》的作曲\[15\]。
+儘管遊戲觀感上和原版《最終幻想IV》大致相同，但其也加入了了新遊戲元素，前六部最終幻想遊戲的點繪師[涩谷和子重新创作了新](https://zh.wikipedia.org/wiki/涩谷和子 "wikilink")、高清的角色图像；天野喜孝重新绘制了插画；时田以前的同事，史克威尔艾尼克斯的分镜画师Akira Oguro设计了角色造型。尽管游戏使用了新的曲目，但其使用了大量以植松伸夫为原版《最终幻想IV》的作曲\[15\]。
 
-在手机版发行后，开发职员透露作品将在日本以外发行\[16\]。2009年2月下旬，[ESRB公布了](https://zh.wikipedia.org/wiki/ESRB "wikilink")[Wii](../Page/Wii.md "wikilink")游戏作品《Final
-Fantasy IV: The After
-Years》的年龄分级，于是出现了游戏北美本地化版将以[WiiWare](../Page/WiiWare.md "wikilink")形式销售的猜测\[17\]。官方在2009年[游戏开发者大会](../Page/游戏开发者大会.md "wikilink")上确认了消息\[18\]。史克威尔艾尼克斯还在欧洲注册了“The
-After
-Years”商标，这提示游戏也将在欧洲发行\[19\]。随着官方网站的开设与[PEGI分级的提供](https://zh.wikipedia.org/wiki/PEGI "wikilink")，该消息获证实。
+在手机版发行后，开发职员透露作品将在日本以外发行\[16\]。2009年2月下旬，[ESRB公布了](https://zh.wikipedia.org/wiki/ESRB "wikilink")[Wii](../Page/Wii.md "wikilink")游戏作品《Final Fantasy IV: The After Years》的年龄分级，于是出现了游戏北美本地化版将以[WiiWare](../Page/WiiWare.md "wikilink")形式销售的猜测\[17\]。官方在2009年[游戏开发者大会](../Page/游戏开发者大会.md "wikilink")上确认了消息\[18\]。史克威尔艾尼克斯还在欧洲注册了“The After Years”商标，这提示游戏也将在欧洲发行\[19\]。随着官方网站的开设与[PEGI分级的提供](https://zh.wikipedia.org/wiki/PEGI "wikilink")，该消息获证实。
 
 WiiWare移植版在手机版基础上增强了图像，包括加大了[屏幕分辨率](https://zh.wikipedia.org/wiki/解像度 "wikilink")、使用更清晰的菜单画面和字体，并改进了人物肖像。英文本地化版遵循了《最终幻想IV》DS重制版的先例，使用了相似的书写，并使用了相同的名称和术语的译名。英文版做了少许修改，包括为将塞尔多亚的官方人物图稿改为西方面容，并为减少衣着暴露而改动了个几个女性角色。
 
 ## 发行
 
-游戏最初以《最终幻想IV The After
--月之归还-》为题在日本手机市场发行，前两篇游戏“序章”和“塞尔多亚篇”同时在各个平台发行。之后八个追加篇章每隔约4周发行一个。之后还有一个半终章“集结篇
-‘月之引力’”，需要玩家完成追加的”凯因篇“。游戏终章分为前篇和后篇两部分。
+游戏最初以《最终幻想IV The After -月之归还-》为题在日本手机市场发行，前两篇游戏“序章”和“塞尔多亚篇”同时在各个平台发行。之后八个追加篇章每隔约4周发行一个。之后还有一个半终章“集结篇 ‘月之引力’”，需要玩家完成追加的”凯因篇“。游戏终章分为前篇和后篇两部分。
 
-2009年，游戏强化移植版通过[WiiWare](../Page/WiiWare.md "wikilink")服务发行。虽然章节形式沿用了手机版，但发行方式变化了。玩家购买收录“序章”“塞尔多亚篇”和“凯因篇”的本篇，而附加篇章随后将以附加形式发行。倒数第二篇和分为两部分的本篇将一次发行。在两个版本中，玩家可以在游戏结束后储存设定和角色的状态、装备，并能继续探索各个篇章，并寻找新道具与完成新任务。本作游戏、《最终幻想IV》与新剧本《最终幻想
-间奏》打包收录于[PlayStation
-Portable合辑游戏](../Page/PlayStation_Portable.md "wikilink")《[最终幻想IV
-完美收藏辑](https://zh.wikipedia.org/wiki/最终幻想IV_完美收藏辑 "wikilink")》中，并于2011年发行。与《最终幻想IV》任天堂DS重制版风格相同的3D重制版游戏宣布于[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")平台发行
-\[20\]。
+2009年，游戏强化移植版通过[WiiWare](../Page/WiiWare.md "wikilink")服务发行。虽然章节形式沿用了手机版，但发行方式变化了。玩家购买收录“序章”“塞尔多亚篇”和“凯因篇”的本篇，而附加篇章随后将以附加形式发行。倒数第二篇和分为两部分的本篇将一次发行。在两个版本中，玩家可以在游戏结束后储存设定和角色的状态、装备，并能继续探索各个篇章，并寻找新道具与完成新任务。本作游戏、《最终幻想IV》与新剧本《最终幻想 间奏》打包收录于[PlayStation Portable合辑游戏](../Page/PlayStation_Portable.md "wikilink")《[最终幻想IV 完美收藏辑](https://zh.wikipedia.org/wiki/最终幻想IV_完美收藏辑 "wikilink")》中，并于2011年发行。与《最终幻想IV》任天堂DS重制版风格相同的3D重制版游戏宣布于[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")平台发行 \[20\]。
 
 <table>
 <thead>
@@ -156,12 +136,9 @@ Portable合辑游戏](../Page/PlayStation_Portable.md "wikilink")《[最终幻�
 
 ## 评价
 
-2008年8月1日，Square Enix公司发布新闻稿，宣布《最终幻想IV The After
--月之归还-》在发售后的前五个月里下载量已达到100万份（不包括免费下载的序篇）\[21\]。截至2010年12月10日，付费下载量已经超过了450萬份\[22\]。
+2008年8月1日，Square Enix公司发布新闻稿，宣布《最终幻想IV The After -月之归还-》在发售后的前五个月里下载量已达到100万份（不包括免费下载的序篇）\[21\]。截至2010年12月10日，付费下载量已经超过了450萬份\[22\]。
 
-评论者一般给予WiiWare移植版好评，游戏在[GameRankings的汇总得分为](https://zh.wikipedia.org/wiki/GameRankings "wikilink")75%\[23\]。IGN给游戏8/10分，称剧情“引人入胜而神秘”，并提到了游戏玩法、图形和演出虽然“过时”，但却是其“吸引力的一部分”\[24\]。然而GameSpot只给游戏发了5.5/10分，称其“故事叙述脱节且创作简陋”，遇敌率过高，并批评音乐、图形、环境和情节内容“反复利用”.\[25\]。[Kotaku](../Page/Kotaku.md "wikilink")的贾森·施赖埃尔也给游戏相当负面的评论，称其为“最糟糕的最终幻想游戏”\[26\]。《The
-After
-Years》或《[任天堂力量](../Page/任天堂力量.md "wikilink")》的年度游戏和年度Wii游戏提名\[27\]。
+评论者一般给予WiiWare移植版好评，游戏在[GameRankings的汇总得分为](https://zh.wikipedia.org/wiki/GameRankings "wikilink")75%\[23\]。IGN给游戏8/10分，称剧情“引人入胜而神秘”，并提到了游戏玩法、图形和演出虽然“过时”，但却是其“吸引力的一部分”\[24\]。然而GameSpot只给游戏发了5.5/10分，称其“故事叙述脱节且创作简陋”，遇敌率过高，并批评音乐、图形、环境和情节内容“反复利用”.\[25\]。[Kotaku](../Page/Kotaku.md "wikilink")的贾森·施赖埃尔也给游戏相当负面的评论，称其为“最糟糕的最终幻想游戏”\[26\]。《The After Years》或《[任天堂力量](../Page/任天堂力量.md "wikilink")》的年度游戏和年度Wii游戏提名\[27\]。
 
 ## 参考文献
 
@@ -172,17 +149,7 @@ Years》或《[任天堂力量](../Page/任天堂力量.md "wikilink")》的年�
   - [北美官方网站](http://na.square-enix.com/ff4ay/)
   - [欧洲官方网站](http://ff4theafteryears.co.uk/uk/)
 
-[Category:最終幻想IV](https://zh.wikipedia.org/wiki/Category:最終幻想IV "wikilink")
-[Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink")
-[Category:WiiWare游戏](https://zh.wikipedia.org/wiki/Category:WiiWare游戏 "wikilink")
-[Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink")
-[Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink")
-[Category:最终幻想系列衍生作品](https://zh.wikipedia.org/wiki/Category:最终幻想系列衍生作品 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
-[Category:月球背景电子游戏](https://zh.wikipedia.org/wiki/Category:月球背景电子游戏 "wikilink")
-[Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
+[Category:最終幻想IV](https://zh.wikipedia.org/wiki/Category:最終幻想IV "wikilink") [Category:2008年电子游戏](https://zh.wikipedia.org/wiki/Category:2008年电子游戏 "wikilink") [Category:WiiWare游戏](https://zh.wikipedia.org/wiki/Category:WiiWare游戏 "wikilink") [Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink") [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink") [Category:最终幻想系列衍生作品](https://zh.wikipedia.org/wiki/Category:最终幻想系列衍生作品 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink") [Category:月球背景电子游戏](https://zh.wikipedia.org/wiki/Category:月球背景电子游戏 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.
 

@@ -1,21 +1,12 @@
-《**Eighth
-Wonder**》（第八個奇蹟）是[AAA的第](../Page/AAA_\(團體\).md "wikilink")8張原創專輯。於2013年9月18日發行。唱片公司為[avex
-trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
+《**Eighth Wonder**》（第八個奇蹟）是[AAA的第](../Page/AAA_\(團體\).md "wikilink")8張原創專輯。於2013年9月18日發行。唱片公司為[avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
-  - 與上一張精選專輯「[Ballad
-    Collection](../Page/Ballad_Collection.md "wikilink")」相距約6個月。與上一張原創專輯「[777
-    ～TRIPLE SEVEN～](../Page/777_～TRIPLE_SEVEN～.md "wikilink")」相距約1年。
-  - 收錄第34張單曲「[彩虹](../Page/彩虹_\(AAA單曲\).md "wikilink")」至第38張單曲「[戀歌與雨天](../Page/戀歌與雨天.md "wikilink")」的6首A面曲，以及B面曲「[good
-    day](https://zh.wikipedia.org/wiki/虹_\(AAA單曲\) "wikilink")」、「[ALIVE](../Page/PARTY_IT_UP.md "wikilink")」、「[Eighth
-    Wonder](../Page/Love_Is_In_The_Air.md "wikilink")」和新曲等，共16首曲目，並以雙CD發行。
-  - 本作的標題「Eighth Wonder」取自全國巡迴演唱會「AAA TOUR 2013 EIGHTH
-    WONDER」的標題，並以「邁入出道8周年的AAA打開全新的門扉」為概念。
-  - 本作分「初回限定盤（Jacket A 2CDs+DVD+Goods）」、「初回限定盤（Jacket B
-    2CDs+DVD）」、「Jacket C 2CDs盤」和「PLAYBUTTON」4種版本
-  - 「初回限定盤」收錄了「Miss you」、「PARTY IT UP」、「Love Is In The
-    Air」等5首歌曲的PV和製作花絮（Making）。
+  - 與上一張精選專輯「[Ballad Collection](../Page/Ballad_Collection.md "wikilink")」相距約6個月。與上一張原創專輯「[777 ～TRIPLE SEVEN～](../Page/777_～TRIPLE_SEVEN～.md "wikilink")」相距約1年。
+  - 收錄第34張單曲「[彩虹](../Page/彩虹_\(AAA單曲\).md "wikilink")」至第38張單曲「[戀歌與雨天](../Page/戀歌與雨天.md "wikilink")」的6首A面曲，以及B面曲「[good day](https://zh.wikipedia.org/wiki/虹_\(AAA單曲\) "wikilink")」、「[ALIVE](../Page/PARTY_IT_UP.md "wikilink")」、「[Eighth Wonder](../Page/Love_Is_In_The_Air.md "wikilink")」和新曲等，共16首曲目，並以雙CD發行。
+  - 本作的標題「Eighth Wonder」取自全國巡迴演唱會「AAA TOUR 2013 EIGHTH WONDER」的標題，並以「邁入出道8周年的AAA打開全新的門扉」為概念。
+  - 本作分「初回限定盤（Jacket A 2CDs+DVD+Goods）」、「初回限定盤（Jacket B 2CDs+DVD）」、「Jacket C 2CDs盤」和「PLAYBUTTON」4種版本
+  - 「初回限定盤」收錄了「Miss you」、「PARTY IT UP」、「Love Is In The Air」等5首歌曲的PV和製作花絮（Making）。
   - 在9月30日於公信榜專輯週排行榜取得第1位，成為AAA出道以來第2張公信榜每周銷量排名第一的專輯，亦是AAA出道以來首張第1位的原創專輯。
   - 此專輯於9月17日、18日、19日、20日於日本ORICON公信榜專輯日間排行榜取得第1位。
 
@@ -27,8 +18,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
 <!-- end list -->
 
-1.  **[Eighth Wonder](../Page/Love_Is_In_The_Air.md "wikilink")（Album
-    Version）**
+1.  **[Eighth Wonder](../Page/Love_Is_In_The_Air.md "wikilink")（Album Version）**
     （作詞：Kenn Kato / Rap詞：Mitsuhiro Hidaka / 作曲：Daisuke Suzuki）
       -
         37th單曲・全國巡迴演唱會「AAA TOUR 2013 EIGHTH WONDER」的主題曲
@@ -36,11 +26,9 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 2.  **[PARTY IT UP](../Page/PARTY_IT_UP.md "wikilink")**
     （作詞：MUSOH / Rap詞：Mitsuhiro Hidaka / 作曲：GWEN, Stephen McNair）
       -
-        36th單曲・[伊藤洋華堂](https://zh.wikipedia.org/wiki/伊藤洋華堂 "wikilink")「Cool
-        Biz 2013」的電視廣告歌曲
+        36th單曲・[伊藤洋華堂](https://zh.wikipedia.org/wiki/伊藤洋華堂 "wikilink")「Cool Biz 2013」的電視廣告歌曲
 3.  **I KNOW YOU KNOW**
-    （作詞：BOUNCEBACK, Hayato Kimura, DJ Another / Rap詞：Mitsuhiro Hidaka /
-    作曲：DJ Another）
+    （作詞：BOUNCEBACK, Hayato Kimura, DJ Another / Rap詞：Mitsuhiro Hidaka / 作曲：DJ Another）
 4.  **[ALIVE](../Page/PARTY_IT_UP.md "wikilink")**
     （作詞：Chie Sawaguchi, Mitsuhiro Hidaka / 作曲：GWEN, Stephen McNair）
       -
@@ -49,22 +37,17 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 5.  **[Love Is In The Air](../Page/Love_Is_In_The_Air.md "wikilink")**
     （作詞︰MUSOH / Rap詞：Mitsuhiro Hidaka / 作曲：★STAR GUiTAR, MUSOH）
       -
-        37th單曲・[伊藤洋華堂](https://zh.wikipedia.org/wiki/伊藤洋華堂 "wikilink")「」、「Cool
-        Style」的電視廣告歌曲
+        37th單曲・[伊藤洋華堂](https://zh.wikipedia.org/wiki/伊藤洋華堂 "wikilink")「」、「Cool Style」的電視廣告歌曲
 6.  **[戀歌與雨天](../Page/戀歌與雨天.md "wikilink")（with Intro）**（）
     :38th單曲・H.I.S.中部秋天競選活動的廣告歌曲、[伊藤洋華堂](https://zh.wikipedia.org/wiki/伊藤洋華堂 "wikilink")「あったかほっこりシリーズ」的電視廣告歌曲
-7.  **[Miss
-    you](https://zh.wikipedia.org/wiki/Miss_you_/_綻放笑容的場所 "wikilink")**
+7.  **[Miss you](https://zh.wikipedia.org/wiki/Miss_you_/_綻放笑容的場所 "wikilink")**
     （作詞：MUSOH / Rap詞：Mitsuhiro Hidaka / 作曲：SiZK from ★STAR GUiTAR、MUSOH）
       -
         35th單曲・H.I.S.「蜜月編」的電視廣告歌曲
 8.  **[綻放笑容的場所](https://zh.wikipedia.org/wiki/Miss_you_/_綻放笑容的場所 "wikilink")**（ほほえみの咲く場所）
-    （作詞：Yusuke Toriumi / Rap詞：Mitsuhiro Hidaka /
-    作曲：[小室哲哉](../Page/小室哲哉.md "wikilink") /
-    編曲：Tohru Watanabe）
+    （作詞：Yusuke Toriumi / Rap詞：Mitsuhiro Hidaka / 作曲：[小室哲哉](../Page/小室哲哉.md "wikilink") / 編曲：Tohru Watanabe）
       -
-        35th單曲・[伊藤洋華堂](https://zh.wikipedia.org/wiki/伊藤洋華堂 "wikilink")「Kent
-        in Tradition」的電視廣告歌曲
+        35th單曲・[伊藤洋華堂](https://zh.wikipedia.org/wiki/伊藤洋華堂 "wikilink")「Kent in Tradition」的電視廣告歌曲
 9.  **[good day](../Page/彩虹_\(AAA單曲\).md "wikilink")**
     （作詞：leonn Rap詞：Mitsuhiro Hidaka 作曲：Kazuhito Kikuchi 編曲：ats-）
       -
@@ -118,6 +101,4 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 12. Love Is In The Air（Off Shot）
 13. PARTY IT UP （Silhouette Version）
 
-[Category:AAA的專輯](https://zh.wikipedia.org/wiki/Category:AAA的專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:2013年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:AAA的專輯](https://zh.wikipedia.org/wiki/Category:AAA的專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:2013年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Oricon專輯週榜冠軍作品 "wikilink")

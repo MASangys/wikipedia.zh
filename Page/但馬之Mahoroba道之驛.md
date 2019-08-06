@@ -1,5 +1,4 @@
-**但馬之Mahoroba道之驛**（平假名：みちのえき
-たじまのまほろば）是位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[朝來市](../Page/朝來市.md "wikilink")的[北近畿豐岡自動車道之](https://zh.wikipedia.org/wiki/北近畿豐岡自動車道 "wikilink")[休息區](https://zh.wikipedia.org/wiki/休息區 "wikilink")/[道之驛](../Page/道之驛.md "wikilink")。
+**但馬之Mahoroba道之驛**（平假名：みちのえき たじまのまほろば）是位於[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[朝來市](../Page/朝來市.md "wikilink")的[北近畿豐岡自動車道之](https://zh.wikipedia.org/wiki/北近畿豐岡自動車道 "wikilink")[休息區](https://zh.wikipedia.org/wiki/休息區 "wikilink")/[道之驛](../Page/道之驛.md "wikilink")。
 
 ## 連接道路
 
@@ -7,8 +6,7 @@
 
 ## 歷史
 
-  - 2006年7月22日 -
-    [北近畿豐岡自動車道](https://zh.wikipedia.org/wiki/北近畿豐岡自動車道 "wikilink")[和田山IC/JCT至](https://zh.wikipedia.org/wiki/和田山IC "wikilink")[冰上IC之間開通](https://zh.wikipedia.org/wiki/冰上IC "wikilink")，此道之驛也同時啟用。
+  - 2006年7月22日 - [北近畿豐岡自動車道](https://zh.wikipedia.org/wiki/北近畿豐岡自動車道 "wikilink")[和田山IC/JCT至](https://zh.wikipedia.org/wiki/和田山IC "wikilink")[冰上IC之間開通](https://zh.wikipedia.org/wiki/冰上IC "wikilink")，此道之驛也同時啟用。
 
 ## 道之驛設施
 
@@ -31,8 +29,7 @@
 ## 鄰近設施
 
   - [北近畿豐岡自動車道](https://zh.wikipedia.org/wiki/北近畿豐岡自動車道 "wikilink")
-    [山東IC](../Page/山東IC.md "wikilink") - **但馬之Mahoroba道之驛** -
-    [和田山IC/JCT](https://zh.wikipedia.org/wiki/和田山IC "wikilink")
+    [山東IC](../Page/山東IC.md "wikilink") - **但馬之Mahoroba道之驛** - [和田山IC/JCT](https://zh.wikipedia.org/wiki/和田山IC "wikilink")
 
 ## 相關項目
 
@@ -42,7 +39,4 @@
 
   - [兵庫國道事務所](http://www.kkr.mlit.go.jp/hyogo/)
 
-[Category:日本服務區與休息區_Ta](https://zh.wikipedia.org/wiki/Category:日本服務區與休息區_Ta "wikilink")
-[Category:兵庫縣服務區與休息區](https://zh.wikipedia.org/wiki/Category:兵庫縣服務區與休息區 "wikilink")
-[Category:朝來市](https://zh.wikipedia.org/wiki/Category:朝來市 "wikilink")
-[Category:道之驛](https://zh.wikipedia.org/wiki/Category:道之驛 "wikilink")
+[Category:日本服務區與休息區_Ta](https://zh.wikipedia.org/wiki/Category:日本服務區與休息區_Ta "wikilink") [Category:兵庫縣服務區與休息區](https://zh.wikipedia.org/wiki/Category:兵庫縣服務區與休息區 "wikilink") [Category:朝來市](https://zh.wikipedia.org/wiki/Category:朝來市 "wikilink") [Category:道之驛](https://zh.wikipedia.org/wiki/Category:道之驛 "wikilink")

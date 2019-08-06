@@ -1,5 +1,4 @@
-為隸屬於[美商藝電旗下開發多平台遊戲的遊戲開發商](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")，前身為**美商藝電洛杉磯工作室**（EALA）和**危險距離**（Danger
-Close）。最初成立於1995年，當時是隸屬於[夢工廠旗下的附屬工作室](https://zh.wikipedia.org/wiki/夢工廠 "wikilink")，而在西元2000年由美商藝電從夢工場電影附屬工作室所買下([微軟當時也擁有危險距離少部分的股份](https://zh.wikipedia.org/wiki/微軟 "wikilink"))。西元2003年時美商藝電將[西木工作室遊戲工作室](https://zh.wikipedia.org/wiki/Westwood "wikilink")（西木工作室為[終極動員令系列的原開發工作室](https://zh.wikipedia.org/wiki/終極動員令 "wikilink")）、[Maxis](../Page/Maxis.md "wikilink")/模擬市民工作室（Maxis/模擬市民工作室為[模擬城市](https://zh.wikipedia.org/wiki/模擬城市 "wikilink")、[模擬市民與](https://zh.wikipedia.org/wiki/模擬市民 "wikilink")[Spore系列的原開發工作室](https://zh.wikipedia.org/wiki/Spore "wikilink")）與當時的美商藝電洛杉磯及西木工作室旗下的[太平洋工作室合併](https://zh.wikipedia.org/wiki/太平洋 "wikilink")，並正式成立了危險距離。不久後，許多原為[西木工作室](../Page/西木工作室.md "wikilink")的員工離開了危险距离並在建立了自己的遊戲工作室——[岩石壁畫](../Page/岩石壁畫.md "wikilink")。2013年1月，EA證實危險距離工作室已經解散，另組建了DICE洛杉磯取而代之。\[1\]
+為隸屬於[美商藝電旗下開發多平台遊戲的遊戲開發商](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")，前身為**美商藝電洛杉磯工作室**（EALA）和**危險距離**（Danger Close）。最初成立於1995年，當時是隸屬於[夢工廠旗下的附屬工作室](https://zh.wikipedia.org/wiki/夢工廠 "wikilink")，而在西元2000年由美商藝電從夢工場電影附屬工作室所買下([微軟當時也擁有危險距離少部分的股份](https://zh.wikipedia.org/wiki/微軟 "wikilink"))。西元2003年時美商藝電將[西木工作室遊戲工作室](https://zh.wikipedia.org/wiki/Westwood "wikilink")（西木工作室為[終極動員令系列的原開發工作室](https://zh.wikipedia.org/wiki/終極動員令 "wikilink")）、[Maxis](../Page/Maxis.md "wikilink")/模擬市民工作室（Maxis/模擬市民工作室為[模擬城市](https://zh.wikipedia.org/wiki/模擬城市 "wikilink")、[模擬市民與](https://zh.wikipedia.org/wiki/模擬市民 "wikilink")[Spore系列的原開發工作室](https://zh.wikipedia.org/wiki/Spore "wikilink")）與當時的美商藝電洛杉磯及西木工作室旗下的[太平洋工作室合併](https://zh.wikipedia.org/wiki/太平洋 "wikilink")，並正式成立了危險距離。不久後，許多原為[西木工作室](../Page/西木工作室.md "wikilink")的員工離開了危险距离並在建立了自己的遊戲工作室——[岩石壁畫](../Page/岩石壁畫.md "wikilink")。2013年1月，EA證實危險距離工作室已經解散，另組建了DICE洛杉磯取而代之。\[1\]
 
 ## 遊戲作品
 
@@ -80,8 +79,7 @@ Close）。最初成立於1995年，當時是隸屬於[夢工廠旗下的附屬�
 
 ## 外部連結
 
-  - [前Danger
-    Close官網](https://web.archive.org/web/20121003060524/http://www.dangerclosegames.com/)
+  - [前Danger Close官網](https://web.archive.org/web/20121003060524/http://www.dangerclosegames.com/)
 
   - [美商藝電官網](http://www.ea.com/asia?from=us#//)
 
@@ -89,11 +87,6 @@ Close）。最初成立於1995年，當時是隸屬於[夢工廠旗下的附屬�
 
   - [美商藝電Origin商店](http://store.origin.com/store/eatw/zh_TW/DisplayHomePage//)
 
-[Category:1995年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1995年開業電子遊戲公司 "wikilink")
-[Category:梦工厂](https://zh.wikipedia.org/wiki/Category:梦工厂 "wikilink")
-[Category:艺电的部门与子公司](https://zh.wikipedia.org/wiki/Category:艺电的部门与子公司 "wikilink")
-[Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:加利福尼亚州娱乐公司](https://zh.wikipedia.org/wiki/Category:加利福尼亚州娱乐公司 "wikilink")
+[Category:1995年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1995年開業電子遊戲公司 "wikilink") [Category:梦工厂](https://zh.wikipedia.org/wiki/Category:梦工厂 "wikilink") [Category:艺电的部门与子公司](https://zh.wikipedia.org/wiki/Category:艺电的部门与子公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:加利福尼亚州娱乐公司](https://zh.wikipedia.org/wiki/Category:加利福尼亚州娱乐公司 "wikilink")
 
 1.

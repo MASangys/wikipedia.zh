@@ -1,27 +1,14 @@
-**Xbox SmartGlass**是一個為[Xbox
-360](../Page/Xbox_360.md "wikilink")、[Windows
-8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows
-Phone](../Page/Windows_Phone.md "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")等行動終端開發的串連技術，于2012年面世\[1\]。它可以使行動設備連接Xbox
-360，以分享更多的娛樂項目，使移動設備成為第二個螢幕\[2\]。
+**Xbox SmartGlass**是一個為[Xbox 360](../Page/Xbox_360.md "wikilink")、[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows Phone](../Page/Windows_Phone.md "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")等行動終端開發的串連技術，于2012年面世\[1\]。它可以使行動設備連接Xbox 360，以分享更多的娛樂項目，使移動設備成為第二個螢幕\[2\]。
 
 ## 功能
 
-Xbox SmartGlass是一款为Windows 8设备、Windows RT平板电脑、Windows
-Phone（7.5以上）的智能手机、Windows Server
-2012电脑、iOS（5.0以上）设备和Android（4.0以上）智能手机等设备提供Xbox
-360和Xbox兼容服务的应用程序\[3\]。它能支持移动设备与Xbox
-360相联结成为其控制器以及\[4\]，可以在设备上提供诸如《[最後一戰4](../Page/最後一戰4.md "wikilink")》
-游戏统计数据或者《》的[GPS数据等信息](https://zh.wikipedia.org/wiki/GPS "wikilink")\[5\]。
+Xbox SmartGlass是一款为Windows 8设备、Windows RT平板电脑、Windows Phone（7.5以上）的智能手机、Windows Server 2012电脑、iOS（5.0以上）设备和Android（4.0以上）智能手机等设备提供Xbox 360和Xbox兼容服务的应用程序\[3\]。它能支持移动设备与Xbox 360相联结成为其控制器以及\[4\]，可以在设备上提供诸如《[最後一戰4](../Page/最後一戰4.md "wikilink")》 游戏统计数据或者《》的[GPS数据等信息](https://zh.wikipedia.org/wiki/GPS "wikilink")\[5\]。
 
-目前，通过“服务器管理器”安装“Windows桌面体验”功能后，Windows Server
-2012的用户可以从Windows应用商店下载应用程序。\[6\]
+目前，通过“服务器管理器”安装“Windows桌面体验”功能后，Windows Server 2012的用户可以从Windows应用商店下载应用程序。\[6\]
 
 ## 历史
 
-Xbox
-SmartGlass的最初2012年的[E3上被发布](https://zh.wikipedia.org/wiki/E3 "wikilink")，于2012年10月26日与Windows
-8一同发售\[7\]。发布会同时也伴随着应用的运行演示，这些演示中包括、[最後一戰4](../Page/最後一戰4.md "wikilink")和[Internet
-Explorer等](../Page/Internet_Explorer.md "wikilink")\[8\]。
+Xbox SmartGlass的最初2012年的[E3上被发布](https://zh.wikipedia.org/wiki/E3 "wikilink")，于2012年10月26日与Windows 8一同发售\[7\]。发布会同时也伴随着应用的运行演示，这些演示中包括、[最後一戰4](../Page/最後一戰4.md "wikilink")和[Internet Explorer等](../Page/Internet_Explorer.md "wikilink")\[8\]。
 
 2013年6月底，微软正式宣布Xbox SmartGlass下载量超过1700万。\[9\]
 
@@ -527,8 +514,7 @@ Explorer等](../Page/Internet_Explorer.md "wikilink")\[8\]。
 
 ## 評價
 
-Wedbush證劵分析師邁克爾·帕切特認為應用將是有益的，尤其是將來他可能會控制電視機。但他也告誡道，其無法完全代替一個完整的Xbox
-360。\[10\]
+Wedbush證劵分析師邁克爾·帕切特認為應用將是有益的，尤其是將來他可能會控制電視機。但他也告誡道，其無法完全代替一個完整的Xbox 360。\[10\]
 
 ## 相关条目
 
@@ -545,10 +531,7 @@ Wedbush證劵分析師邁克爾·帕切特認為應用將是有益的，尤其�
 ## 外部链接
 
   -
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:Windows_Phone](https://zh.wikipedia.org/wiki/Category:Windows_Phone "wikilink")
-[Category:Xbox_360](https://zh.wikipedia.org/wiki/Category:Xbox_360 "wikilink")
+[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Windows_Phone](https://zh.wikipedia.org/wiki/Category:Windows_Phone "wikilink") [Category:Xbox_360](https://zh.wikipedia.org/wiki/Category:Xbox_360 "wikilink")
 
 1.
 

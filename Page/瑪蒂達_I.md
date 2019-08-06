@@ -1,5 +1,4 @@
-**玛蒂尔达I型坦克**（**Matilda
-I**）（A11）\[1\]是一种[英国於](https://zh.wikipedia.org/wiki/英国 "wikilink")[第二次世界大战](../Page/第二次世界大战.md "wikilink")期間使用的[步兵坦克](https://zh.wikipedia.org/wiki/步兵坦克 "wikilink")。它不与同样名為“玛蒂尔达”及接替了它的[玛蒂尔达II型坦克](../Page/瑪蒂達_II.md "wikilink")（A12）混为一谈。尽管它们有一些相似的特征——作为步兵战车，往往牺牲速度来增加装甲防护。但是它们是两种完全不同的设计，并且没有共用组件。
+**玛蒂尔达I型坦克**（**Matilda I**）（A11）\[1\]是一种[英国於](https://zh.wikipedia.org/wiki/英国 "wikilink")[第二次世界大战](../Page/第二次世界大战.md "wikilink")期間使用的[步兵坦克](https://zh.wikipedia.org/wiki/步兵坦克 "wikilink")。它不与同样名為“玛蒂尔达”及接替了它的[玛蒂尔达II型坦克](../Page/瑪蒂達_II.md "wikilink")（A12）混为一谈。尽管它们有一些相似的特征——作为步兵战车，往往牺牲速度来增加装甲防护。但是它们是两种完全不同的设计，并且没有共用组件。
 
 ## 研制过程
 
@@ -32,18 +31,14 @@ I**）（A11）\[1\]是一种[英国於](https://zh.wikipedia.org/wiki/英国 "w
 
 ## 参考
 
-  - Fletcher, David, and Peter Sarson. *Matilda Infantry Tank 1938–45*
-    (New Vanguard 8). Oxford: Osprey Publishing, 1994. ISBN
-    1-85532-457-1.
+  - Fletcher, David, and Peter Sarson. *Matilda Infantry Tank 1938–45* (New Vanguard 8). Oxford: Osprey Publishing, 1994. ISBN 1-85532-457-1.
 
   -
-[Category:步兵战车](https://zh.wikipedia.org/wiki/Category:步兵战车 "wikilink")
-[Category:维克斯](https://zh.wikipedia.org/wiki/Category:维克斯 "wikilink")
+[Category:步兵战车](https://zh.wikipedia.org/wiki/Category:步兵战车 "wikilink") [Category:维克斯](https://zh.wikipedia.org/wiki/Category:维克斯 "wikilink")
 
 1.  A11 was the General Staff number
 
-2.  [The Matilda I Infantry Tank of World War 2 produced only 139
-    examples](http://www.militaryfactory.com/armor/detail.asp?armor_id=593)
+2.  [The Matilda I Infantry Tank of World War 2 produced only 139 examples](http://www.militaryfactory.com/armor/detail.asp?armor_id=593)
 
 3.
 

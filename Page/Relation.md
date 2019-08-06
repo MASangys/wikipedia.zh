@@ -18,7 +18,4 @@
 10. Perfume of love - album version -
 11. illusion
 
-[Category:Globe音樂專輯](https://zh.wikipedia.org/wiki/Category:Globe音樂專輯 "wikilink")
-[Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink")
-[Category:1998年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
+[Category:Globe音樂專輯](https://zh.wikipedia.org/wiki/Category:Globe音樂專輯 "wikilink") [Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink") [Category:1998年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon專輯週榜冠軍作品 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")

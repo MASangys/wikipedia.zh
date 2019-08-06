@@ -2,22 +2,15 @@
 
 ## 概要
 
-1996年11月18日，由旗艦工作室（<small></small>，[Pierrot
-PLUS的公司舊名](../Page/Pierrot_PLUS.md "wikilink")）的經理清水修自行就任董事而成立\[3\]。
+1996年11月18日，由旗艦工作室（<small></small>，[Pierrot PLUS的公司舊名](../Page/Pierrot_PLUS.md "wikilink")）的經理清水修自行就任董事而成立\[3\]。
 
-Arms成立之後，是一間以製作成人動畫和擔當[Studio
-Pierrot作品下游包商業務為目的的旗艦工作室分公司](../Page/Studio_Pierrot.md "wikilink")。最早是與（<small></small>）、（<small></small>）等大主顧的成人動畫公司合作，而且以「ARMS」、「Triple
-X（<small></small>）」、「Dande
-Lion（<small></small>）」，以及「呀龍工作室（<small></small>）」的名義來製作成人動畫、一般動畫這些OVA作品\[4\]。但是根據公司所屬的製作人越中治在官方網站表示，每年自家生產動畫的銷售量結果都付諸流水\[5\]\[6\]\[7\]\[8\]\[9\]。
+Arms成立之後，是一間以製作成人動畫和擔當[Studio Pierrot作品下游包商業務為目的的旗艦工作室分公司](../Page/Studio_Pierrot.md "wikilink")。最早是與（<small></small>）、（<small></small>）等大主顧的成人動畫公司合作，而且以「ARMS」、「Triple X（<small></small>）」、「Dande Lion（<small></small>）」，以及「呀龍工作室（<small></small>）」的名義來製作成人動畫、一般動畫這些OVA作品\[4\]。但是根據公司所屬的製作人越中治在官方網站表示，每年自家生產動畫的銷售量結果都付諸流水\[5\]\[6\]\[7\]\[8\]\[9\]。
 
 2004年，Arms挑戰自家原創製作的第一部電視動畫《》播映之後，花了2年時間進行[伺服器的調整](https://zh.wikipedia.org/wiki/服務器 "wikilink")，因此當時Arms的公司網站完全無法閱覽\[10\]\[11\]。
 
-次年2005年12月22日，由動畫師[鈴真](../Page/鈴真.md "wikilink")擔當故事原案、[人物設定](../Page/人物設計.md "wikilink")、[作畫監督](https://zh.wikipedia.org/wiki/作畫監督 "wikilink")，[吉岡孝夫](../Page/吉岡孝夫.md "wikilink")編劇的《》第1卷由Pink
-Pineapple出版發行\[12\]之後，原本是要作續篇，卻因為沒有助長營收等這些原因而斷念。從今以後，Arms不再製作成人OVA動畫。
+次年2005年12月22日，由動畫師[鈴真](../Page/鈴真.md "wikilink")擔當故事原案、[人物設定](../Page/人物設計.md "wikilink")、[作畫監督](https://zh.wikipedia.org/wiki/作畫監督 "wikilink")，[吉岡孝夫](../Page/吉岡孝夫.md "wikilink")編劇的《》第1卷由Pink Pineapple出版發行\[12\]之後，原本是要作續篇，卻因為沒有助長營收等這些原因而斷念。從今以後，Arms不再製作成人OVA動畫。
 
-2007年2月20日，Arms的公司新網站正式啟用。此時，Arms的網站有留下[梅津泰臣](../Page/梅津泰臣.md "wikilink")\[13\]參加過製作的續篇作品，同時還上架過去之作品《[A
-KITE](../Page/A_KITE.md "wikilink")》續篇「KITE
-LIBERATOR」決定製作消息的[Flash宣傳影片](../Page/Adobe_Flash.md "wikilink")。以前成人OVA動畫作品的網頁資訊現在都已經刪除，保留了Arms的自家代表作、一般電視動畫《MEZZO》及《[妖精的旋律](../Page/妖精的旋律.md "wikilink")》等等的作品網頁訊息。
+2007年2月20日，Arms的公司新網站正式啟用。此時，Arms的網站有留下[梅津泰臣](../Page/梅津泰臣.md "wikilink")\[13\]參加過製作的續篇作品，同時還上架過去之作品《[A KITE](../Page/A_KITE.md "wikilink")》續篇「KITE LIBERATOR」決定製作消息的[Flash宣傳影片](../Page/Adobe_Flash.md "wikilink")。以前成人OVA動畫作品的網頁資訊現在都已經刪除，保留了Arms的自家代表作、一般電視動畫《MEZZO》及《[妖精的旋律](../Page/妖精的旋律.md "wikilink")》等等的作品網頁訊息。
 
 2015年現在，Arms以下游包商參加[GENCO](../Page/GENCO.md "wikilink")企劃製作的電視系列和其它公司的統包作品為中心持續活動。
 
@@ -1179,11 +1172,7 @@ LIBERATOR」決定製作消息的[Flash宣傳影片](../Page/Adobe_Flash.md "wik
 
   - [株式會社Arms公式官網](http://www.a-rms.co.jp/)
 
-[Category:Arms](https://zh.wikipedia.org/wiki/Category:Arms "wikilink")
-[Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink")
-[Category:1996年日本建立](https://zh.wikipedia.org/wiki/Category:1996年日本建立 "wikilink")
+[Category:Arms](https://zh.wikipedia.org/wiki/Category:Arms "wikilink") [Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:杉並區公司](https://zh.wikipedia.org/wiki/Category:杉並區公司 "wikilink") [Category:1996年日本建立](https://zh.wikipedia.org/wiki/Category:1996年日本建立 "wikilink")
 
 1.
 2.

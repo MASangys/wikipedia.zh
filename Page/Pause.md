@@ -110,8 +110,7 @@ Gary Chan</p></td>
 
 ## 派台歌成績
 
-**《失戀哲理》**：－
-[新城勁爆流行榜冠軍歌](../Page/新城電台.md "wikilink")／[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[勁歌金曲](../Page/勁歌金曲.md "wikilink")金榜冠軍歌
+**《失戀哲理》**：－ [新城勁爆流行榜冠軍歌](../Page/新城電台.md "wikilink")／[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")[勁歌金曲](../Page/勁歌金曲.md "wikilink")金榜冠軍歌
 903 :N/A
 RTHK:19\>10\>9\>15\>4\>3\>
 新城:15\>12\>11\>10\>10\>11\>9\>6\>6\>6\>**1**
@@ -138,10 +137,6 @@ TVB :10\>6\>4\>4\>**1**
 
 ## 相關網站
 
-  - [關心妍所屬唱片公司 星娛樂
-    官方網站](https://web.archive.org/web/20120411131006/http://www.starentertainment.com.hk/artistalbum.php?idkey=1323327132_168657899&)
+  - [關心妍所屬唱片公司 星娛樂 官方網站](https://web.archive.org/web/20120411131006/http://www.starentertainment.com.hk/artistalbum.php?idkey=1323327132_168657899&)
 
-[Category:關心妍音樂專輯](https://zh.wikipedia.org/wiki/Category:關心妍音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:關心妍音樂專輯](https://zh.wikipedia.org/wiki/Category:關心妍音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

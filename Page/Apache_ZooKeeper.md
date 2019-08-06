@@ -1,6 +1,4 @@
-**Apache
-ZooKeeper**是[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")的一个软件项目，它为大型[分布式计算](../Page/分布式计算.md "wikilink")提供[开源的分布式配置服务](https://zh.wikipedia.org/wiki/开源 "wikilink")、同步服务和命名注册。
-ZooKeeper曾经是[Hadoop的一个子项目](https://zh.wikipedia.org/wiki/Hadoop "wikilink")，但现在是一个独立的顶级项目。
+**Apache ZooKeeper**是[Apache软件基金会](../Page/Apache软件基金会.md "wikilink")的一个软件项目，它为大型[分布式计算](../Page/分布式计算.md "wikilink")提供[开源的分布式配置服务](https://zh.wikipedia.org/wiki/开源 "wikilink")、同步服务和命名注册。 ZooKeeper曾经是[Hadoop的一个子项目](https://zh.wikipedia.org/wiki/Hadoop "wikilink")，但现在是一个独立的顶级项目。
 
 ZooKeeper的架构通过冗余服务实现。因此，如果第一次无应答，客户端就可以询问另一台ZooKeeper主机。ZooKeeper节点将它们的数据存储于一个分层的命名空间，非常类似于一个文件系统或一个[前缀树结构](https://zh.wikipedia.org/wiki/前缀树 "wikilink")。客户端可以在节点读写，从而以这种方式拥有一个共享的配置服务。更新是[全序的](https://zh.wikipedia.org/wiki/全序 "wikilink")。\[1\]
 
@@ -29,13 +27,9 @@ ZooKeeper的架构通过冗余服务实现。因此，如果第一次无应答�
   - [ZooKeeper主页](http://zookeeper.apache.org/)
   - [highscalability.com的文章](http://highscalability.com/blog/2008/7/15/zookeeper-a-reliable-scalable-distributed-coordination-syste.html)
   - [《软件开发时代》关于ZooKeeper迁至Apache的文章](http://archive.wikiwix.com/cache/20170126143726/http://www.sdtimes.com/ZOOKEEPER_SERVICES_COORDINATOR_MOVES_TO_APACHE/About_SERVICECOORDINATION_and_ZOOKEEPER_and_APACHE_and_YAHOO/33011)
-  - [基于ZooKeeper的Eclipse
-    ECF发现](http://wiki.eclipse.org/index.php?title=Zookeeper_Based_ECF_Discovery)
+  - [基于ZooKeeper的Eclipse ECF发现](http://wiki.eclipse.org/index.php?title=Zookeeper_Based_ECF_Discovery)
 
-[Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink")
-[Category:形态管理](https://zh.wikipedia.org/wiki/Category:形态管理 "wikilink")
-[Category:用Java编程的自由软件](https://zh.wikipedia.org/wiki/Category:用Java编程的自由软件 "wikilink")
-[Category:Hadoop](https://zh.wikipedia.org/wiki/Category:Hadoop "wikilink")
+[Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink") [Category:形态管理](https://zh.wikipedia.org/wiki/Category:形态管理 "wikilink") [Category:用Java编程的自由软件](https://zh.wikipedia.org/wiki/Category:用Java编程的自由软件 "wikilink") [Category:Hadoop](https://zh.wikipedia.org/wiki/Category:Hadoop "wikilink")
 
 1.
 2.

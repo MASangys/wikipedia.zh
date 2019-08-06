@@ -49,8 +49,6 @@
 
 [第二本書--\<7-ELEVEN\>@痞子蔡的BLOG](http://jht.pixnet.net/blog/post/15554163)
 
-[Category:臺灣小說作品](https://zh.wikipedia.org/wiki/Category:臺灣小說作品 "wikilink")
-[Category:1997年小說](https://zh.wikipedia.org/wiki/Category:1997年小說 "wikilink")
-[Category:短篇小說集](https://zh.wikipedia.org/wiki/Category:短篇小說集 "wikilink")
+[Category:臺灣小說作品](https://zh.wikipedia.org/wiki/Category:臺灣小說作品 "wikilink") [Category:1997年小說](https://zh.wikipedia.org/wiki/Category:1997年小說 "wikilink") [Category:短篇小說集](https://zh.wikipedia.org/wiki/Category:短篇小說集 "wikilink")
 
 1.  [第二本書--\<7-ELEVEN\>@痞子蔡的BLOG](http://jht.pixnet.net/blog/post/15554163)

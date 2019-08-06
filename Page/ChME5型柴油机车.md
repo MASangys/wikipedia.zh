@@ -9,9 +9,6 @@ ChME5型柴油机车是继[TEM7型柴油机车](../Page/TEM7型柴油机车.md "
 
 ## 外部链接
 
-  - [1520mm.ru: Тепловоз
-    ЧМЭ5](https://web.archive.org/web/20091103043527/http://www.1520mm.ru/locomotives/diesel/shunting/cme5.phtml)
+  - [1520mm.ru: Тепловоз ЧМЭ5](https://web.archive.org/web/20091103043527/http://www.1520mm.ru/locomotives/diesel/shunting/cme5.phtml)
 
-[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink")
-[Category:ČKD制铁路机车](https://zh.wikipedia.org/wiki/Category:ČKD制铁路机车 "wikilink")
-[Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")
+[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:ČKD制铁路机车](https://zh.wikipedia.org/wiki/Category:ČKD制铁路机车 "wikilink") [Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")

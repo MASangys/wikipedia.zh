@@ -35,10 +35,6 @@
 
 </div>
 
-[Category:彭永琛音樂專輯](https://zh.wikipedia.org/wiki/Category:彭永琛音樂專輯 "wikilink")
-[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:彭永琛音樂專輯](https://zh.wikipedia.org/wiki/Category:彭永琛音樂專輯 "wikilink") [Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
-1.  [彭永琛 全新專輯 “練習曲” (EP +
-    DVD)](http://www.minishop.com.hk/index.php/2010-02-09-11-31-49/2010-02-09-11-33-12/716-2012-10-12-05-33-57/2988-hk.html)，2012年10月20日
-    (六) 18:30 (UTC+8)查閱
+1.  [彭永琛 全新專輯 “練習曲” (EP + DVD)](http://www.minishop.com.hk/index.php/2010-02-09-11-31-49/2010-02-09-11-33-12/716-2012-10-12-05-33-57/2988-hk.html)，2012年10月20日 (六) 18:30 (UTC+8)查閱

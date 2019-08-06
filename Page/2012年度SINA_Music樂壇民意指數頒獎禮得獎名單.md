@@ -1,5 +1,4 @@
-**SINA
-Music樂壇民意指數頒獎禮2012**，於2013年1月16日假[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")展貿廳3舉行，主題為「微飛色舞．燃點SING光」，主持為[農夫](https://zh.wikipedia.org/wiki/農夫 "wikilink")，當晚共頒發43個項目，其中18項「我最喜愛」獎項為由網民選舉得出，總共72個獎項，以下為當晚的得獎名單：
+**SINA Music樂壇民意指數頒獎禮2012**，於2013年1月16日假[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")展貿廳3舉行，主題為「微飛色舞．燃點SING光」，主持為[農夫](https://zh.wikipedia.org/wiki/農夫 "wikilink")，當晚共頒發43個項目，其中18項「我最喜愛」獎項為由網民選舉得出，總共72個獎項，以下為當晚的得獎名單：
 
 ## 得獎名單
 
@@ -10,8 +9,7 @@ Music樂壇民意指數頒獎禮2012**，於2013年1月16日假[九龍灣國際�
   - 《大過天》 ——[Twins](https://zh.wikipedia.org/wiki/Twins "wikilink")
   - 《爛命鴛鴦》 ——[劉浩龍](../Page/劉浩龍.md "wikilink")
   - 《人非草木》 ——[吳雨霏](../Page/吳雨霏.md "wikilink")
-  - 《Someday I'll Fly》
-    ——[G.E.M.](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")
+  - 《Someday I'll Fly》 ——[G.E.M.](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")
   - 《從此我的世界多了一秒》 ——[孫耀威](../Page/孫耀威.md "wikilink")
   - 《無力挽回》 ——[周柏豪](../Page/周柏豪.md "wikilink")
   - 《雙子情歌》 ——[羅力威](../Page/羅力威.md "wikilink")
@@ -37,16 +35,13 @@ Music樂壇民意指數頒獎禮2012**，於2013年1月16日假[九龍灣國際�
       - [鄭嘉嘉](../Page/鄭嘉嘉.md "wikilink")
   - 我最喜愛新組合
       - [Robynn & Kendy](../Page/Robynn_&_Kendy.md "wikilink")
-      - [Super
-        Girls](https://zh.wikipedia.org/wiki/Super_Girls "wikilink")
+      - [Super Girls](https://zh.wikipedia.org/wiki/Super_Girls "wikilink")
   - 我最喜愛演唱會
       - 《兜兜轉轉演唱會》——[達明一派](../Page/達明一派.md "wikilink")
   - 我最喜愛至尊大碟
-      - 《[...3mm](../Page/...3mm.md "wikilink")》
-        ——[陳奕迅](../Page/陳奕迅.md "wikilink")
+      - 《[...3mm](../Page/...3mm.md "wikilink")》 ——[陳奕迅](../Page/陳奕迅.md "wikilink")
   - 我最喜愛至尊國語大碟
-      - 《[Moment](../Page/Moment_\(容祖兒專輯\).md "wikilink")》
-        ——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
+      - 《[Moment](../Page/Moment_\(容祖兒專輯\).md "wikilink")》 ——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")
   - 我最喜愛男歌手(香港)
       - [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")
   - 我最喜愛女歌手(香港)
@@ -75,8 +70,7 @@ Music樂壇民意指數頒獎禮2012**，於2013年1月16日假[九龍灣國際�
   - SINA Music 合唱歌曲大獎
       - 《雙子情歌》——[容祖兒](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")、[羅力威](../Page/羅力威.md "wikilink")
   - SINA Music 對唱演繹金曲大獎
-      - 《重口味Remix》
-        ——[陳奕迅](../Page/陳奕迅.md "wikilink")、[譚詠麟](../Page/譚詠麟.md "wikilink")
+      - 《重口味Remix》 ——[陳奕迅](../Page/陳奕迅.md "wikilink")、[譚詠麟](../Page/譚詠麟.md "wikilink")
   - SINA Music 改編歌曲大獎
       - 《面具》——[許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink")
   - SINA Music 原創歌曲大獎
@@ -117,16 +111,13 @@ Music樂壇民意指數頒獎禮2012**，於2013年1月16日假[九龍灣國際�
   - SINA Music 卓越組合大獎
       - [達明一派](../Page/達明一派.md "wikilink")
   - SINA Music 創作概念大碟
-      - 《[A Second
-        Thought](../Page/A_Second_Thought.md "wikilink")》——[孫耀威](../Page/孫耀威.md "wikilink")
+      - 《[A Second Thought](../Page/A_Second_Thought.md "wikilink")》——[孫耀威](../Page/孫耀威.md "wikilink")
   - SINA Music 創作概念大碟(國語)
-      - 《[回到未來 Back To
-        Wonderland](https://zh.wikipedia.org/wiki/回到未來_Back_To_Wonderland "wikilink")》——[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")
+      - 《[回到未來 Back To Wonderland](https://zh.wikipedia.org/wiki/回到未來_Back_To_Wonderland "wikilink")》——[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")
   - SINA Music 年度最高收聽率歌曲
       - 《到此為止》——[連詩雅](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")
   - SINA Music 全碟試聽 –最高收聽率大碟
-      - 《[My
-        January](../Page/My_January.md "wikilink")》——[吳雨霏](../Page/吳雨霏.md "wikilink")
+      - 《[My January](../Page/My_January.md "wikilink")》——[吳雨霏](../Page/吳雨霏.md "wikilink")
   - SINA Music 年度至尊歌手
       - [陳奕迅](../Page/陳奕迅.md "wikilink")
 
@@ -139,13 +130,10 @@ Music樂壇民意指數頒獎禮2012**，於2013年1月16日假[九龍灣國際�
 
 ## 外部連結
 
-  - [SINA
-    Music樂壇民意指數頒獎禮2012](http://ent.sina.com.hk/musicawards12/live.html)
+  - [SINA Music樂壇民意指數頒獎禮2012](http://ent.sina.com.hk/musicawards12/live.html)
 
 ## 參看
 
-  - [SINA
-    Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
+  - [SINA Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/SINA_Music樂壇民意指數頒獎禮 "wikilink")
 
-[Category:SINA_Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/Category:SINA_Music樂壇民意指數頒獎禮 "wikilink")
-[Category:2012年](https://zh.wikipedia.org/wiki/Category:2012年 "wikilink")
+[Category:SINA_Music樂壇民意指數頒獎禮](https://zh.wikipedia.org/wiki/Category:SINA_Music樂壇民意指數頒獎禮 "wikilink") [Category:2012年](https://zh.wikipedia.org/wiki/Category:2012年 "wikilink")

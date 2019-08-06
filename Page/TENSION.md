@@ -139,19 +139,15 @@
   - 2003年9月 發行首本文字寫真書"VERY TENSION"。
   - 2004年1月 發行第三張國語專輯"愛‧星球"。
   - 2004年2月 發行第二本成長記錄書"當我們炫在一起"。
-  - 2004年5月
-    入圍[第15屆金曲獎最佳重唱組合獎](https://zh.wikipedia.org/wiki/第15屆金曲獎 "wikilink")
+  - 2004年5月 入圍[第15屆金曲獎最佳重唱組合獎](https://zh.wikipedia.org/wiki/第15屆金曲獎 "wikilink")
   - 2004年9月 發行首張精選輯"Story 新歌+精選"。
 
 ## 參考資料
 
 ## 外部連結
 
-  - [kkbox
-    Tension](http://www.kkbox.com/tw/tc/artist/mWKsyKJKKh4Fi3l0F01TC08J-index-1.html#info_)
+  - [kkbox Tension](http://www.kkbox.com/tw/tc/artist/mWKsyKJKKh4Fi3l0F01TC08J-index-1.html#info_)
 
-[Category:已解散的演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的演唱團體 "wikilink")
-[Category:1998年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1998年成立的音樂團體 "wikilink")
-[Category:2004年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年解散的音樂團體 "wikilink")
+[Category:已解散的演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的演唱團體 "wikilink") [Category:1998年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1998年成立的音樂團體 "wikilink") [Category:2004年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2004年解散的音樂團體 "wikilink")
 
 1.  [中華民國九十三年（第十五屆）金曲獎入圍名單](http://www.bamid.gov.tw/BAMID/Code/Resource/zh_tw/HtmlEditor/Pic/c8f6fd46-0bbe-4440-912c-0d9304b60df1.doc)

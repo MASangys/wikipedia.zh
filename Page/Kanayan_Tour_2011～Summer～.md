@@ -1,19 +1,13 @@
-《**Kanayan Tour
-2011～Summer～**》為[日本](../Page/日本.md "wikilink")歌手[西野加奈於](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")2011年在[日本](../Page/日本.md "wikilink")舉行的巡迴演唱會。
+《**Kanayan Tour 2011～Summer～**》為[日本](../Page/日本.md "wikilink")歌手[西野加奈於](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")2011年在[日本](../Page/日本.md "wikilink")舉行的巡迴演唱會。
 
 ## 解說
 
-  - 演唱會內容主要以第三張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[Thank
-    you, Love](../Page/Thank_you,_Love.md "wikilink")》為主。
-  - 2011年7月由[埼玉縣](../Page/埼玉縣.md "wikilink")開始演出到同年9月的[日本武道館](../Page/日本武道館.md "wikilink")追加公演閉幕。共16會場17公演合計5萬人的動員人次\[1\]\[2\]。同年12月7日發行西野首張LIVE作品《*[Kanayan
-    Tour
-    2011〜Summer〜](https://zh.wikipedia.org/wiki/#影音作品《Kanayan_Tour_2011～Summer～》 "wikilink")*》。
+  - 演唱會內容主要以第三張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[Thank you, Love](../Page/Thank_you,_Love.md "wikilink")》為主。
+  - 2011年7月由[埼玉縣](../Page/埼玉縣.md "wikilink")開始演出到同年9月的[日本武道館](../Page/日本武道館.md "wikilink")追加公演閉幕。共16會場17公演合計5萬人的動員人次\[1\]\[2\]。同年12月7日發行西野首張LIVE作品《*[Kanayan Tour 2011〜Summer〜](https://zh.wikipedia.org/wiki/#影音作品《Kanayan_Tour_2011～Summer～》 "wikilink")*》。
 
 ## 背景
 
-巡迴演唱會情報於2011年2月5日在[SME
-Records的西野加奈官方網站上公佈](../Page/SME_Records.md "wikilink")。為西野首次的HALL
-TOUR\[3\]。
+巡迴演唱會情報於2011年2月5日在[SME Records的西野加奈官方網站上公佈](../Page/SME_Records.md "wikilink")。為西野首次的HALL TOUR\[3\]。
 
 原定於2011年8月17日在[福島県文化センター舉辦的](https://zh.wikipedia.org/wiki/福島県文化センター "wikilink")[福島縣公演因](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[東日本大地震的影響而變更地點](https://zh.wikipedia.org/wiki/東日本大地震 "wikilink")\[4\]\[5\]。
 
@@ -45,8 +39,7 @@ TOUR\[3\]。
 
 ## 影音作品《Kanayan Tour 2011～Summer～》
 
-《Kanayan Tour
-2011～Summer～》為其同名巡迴演唱會的影音作品，於2011年12月7日發行，為[西野加奈首張影音作品](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")。
+《Kanayan Tour 2011～Summer～》為其同名巡迴演唱會的影音作品，於2011年12月7日發行，為[西野加奈首張影音作品](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")。
 
 ### 解說
 
@@ -80,8 +73,7 @@ TOUR\[3\]。
 13. **[if](https://zh.wikipedia.org/wiki/if_\(西野カナの曲\) "wikilink")**
 14. **[Alright](../Page/Thank_you,_Love.md "wikilink")**
 15. **[Esperanza](../Page/Esperanza.md "wikilink")**
-16. **[Come On Yes Yes Oh
-    Yeah\!\!](https://zh.wikipedia.org/wiki/to_LOVE "wikilink")**
+16. **[Come On Yes Yes Oh Yeah\!\!](https://zh.wikipedia.org/wiki/to_LOVE "wikilink")**
 17. **[就算…](../Page/就算….md "wikilink")**
 18. **[Sherie](../Page/MAKE_UP.md "wikilink")**
 19. **[Together](../Page/Thank_you,_Love.md "wikilink")**
@@ -92,10 +84,7 @@ TOUR\[3\]。
 
 ## 參考資料
 
-[Category:西野加奈影音作品](https://zh.wikipedia.org/wiki/Category:西野加奈影音作品 "wikilink")
-[Category:2011年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2011年音樂相關影像作品 "wikilink")
-[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
-[Category:2011年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2011年巡回演唱会 "wikilink")
+[Category:西野加奈影音作品](https://zh.wikipedia.org/wiki/Category:西野加奈影音作品 "wikilink") [Category:2011年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2011年音樂相關影像作品 "wikilink") [Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink") [Category:2011年巡回演唱会](https://zh.wikipedia.org/wiki/Category:2011年巡回演唱会 "wikilink")
 
 1.
 2.

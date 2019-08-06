@@ -50,8 +50,7 @@
 
 
 
-[Category:月之海專輯](https://zh.wikipedia.org/wiki/Category:月之海專輯 "wikilink")
-[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
+[Category:月之海專輯](https://zh.wikipedia.org/wiki/Category:月之海專輯 "wikilink") [Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
 
 1.  BAND SCORE LUNA SEA / LUNACY（DOREMI樂譜出版社，2000年10月30日出版，日文）
 

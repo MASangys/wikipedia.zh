@@ -1,5 +1,4 @@
-《**COLLEGE**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第3枚正規韓語專輯。於2013年3月7日發行。唱片公司為[NH
-Media](../Page/NH_Media.md "wikilink")。
+《**COLLEGE**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[U-KISS](../Page/U-KISS.md "wikilink")的第3枚正規韓語專輯。於2013年3月7日發行。唱片公司為[NH Media](../Page/NH_Media.md "wikilink")。
 
 ## 概要
 
@@ -30,5 +29,4 @@ Media](../Page/NH_Media.md "wikilink")。
 11. 比痛苦更痛苦 (Instrumental)
 12. Standing Still (Instrumental)
 
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:U-KISS音樂專輯](https://zh.wikipedia.org/wiki/Category:U-KISS音樂專輯 "wikilink")
+[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:U-KISS音樂專輯](https://zh.wikipedia.org/wiki/Category:U-KISS音樂專輯 "wikilink")

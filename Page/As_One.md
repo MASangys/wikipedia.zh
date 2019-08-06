@@ -1,7 +1,4 @@
-**As
-One**（，），[香港](../Page/香港.md "wikilink")及[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，於2012年成立，由[太陽娛樂文化](../Page/太陽娛樂文化.md "wikilink")旗下Sun
-Star，聯同[郭富城](../Page/郭富城.md "wikilink")御用排舞師[Sunny
-Wong](https://zh.wikipedia.org/wiki/Sunny_Wong "wikilink")，籌備超過一年的全新跳唱女子組合。以亞洲為戰略導向，目標成為代表香港的亞洲人氣偶像天團。
+**As One**（，），[香港](../Page/香港.md "wikilink")及[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，於2012年成立，由[太陽娛樂文化](../Page/太陽娛樂文化.md "wikilink")旗下Sun Star，聯同[郭富城](../Page/郭富城.md "wikilink")御用排舞師[Sunny Wong](https://zh.wikipedia.org/wiki/Sunny_Wong "wikilink")，籌備超過一年的全新跳唱女子組合。以亞洲為戰略導向，目標成為代表香港的亞洲人氣偶像天團。
 
 2015年經歷成員洗牌後，成員包括[Shin](../Page/吳思佳.md "wikilink")、[Tania](../Page/陳苑澄.md "wikilink")、[Chloe及](../Page/蘇皓兒.md "wikilink")[Kayan](https://zh.wikipedia.org/wiki/陳嘉茵 "wikilink")，並於韓國正式出道，成為首隊進軍韓國流行音樂市場的香港[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。
 
@@ -9,17 +6,13 @@ Wong](https://zh.wikipedia.org/wiki/Sunny_Wong "wikilink")，籌備超過一年�
 
 2017年12月，As One正式解散，成員各自發展，Shin到韓國發展，而後來加入的陳嘉茵則到台灣發展\[1\]，2018年回港發展。
 
-2018年6月，As
-One前成員Tania參加[2018年度香港小姐競選](../Page/2018年度香港小姐競選.md "wikilink")的[香港小姐競選](https://zh.wikipedia.org/wiki/香港小姐競選 "wikilink")\[2\]，奪得「現場至like才藝表演獎」，並入圍最後五強。
+2018年6月，As One前成員Tania參加[2018年度香港小姐競選](../Page/2018年度香港小姐競選.md "wikilink")的[香港小姐競選](https://zh.wikipedia.org/wiki/香港小姐競選 "wikilink")\[2\]，奪得「現場至like才藝表演獎」，並入圍最後五強。
 
 ## 團名由來
 
-團體名稱「As
-One」有「團結」、「合為一體」的意思，寓意成員團結一致，猶如一體，而團名縮寫為「A1」，而「A」與「1」分別是字母與數字之首，故團名亦有成員事事盡力，希望能爭取第一之意。
+團體名稱「As One」有「團結」、「合為一體」的意思，寓意成員團結一致，猶如一體，而團名縮寫為「A1」，而「A」與「1」分別是字母與數字之首，故團名亦有成員事事盡力，希望能爭取第一之意。
 
-值得一提的是，「As
-One」還曾代表着四位初始成員的名字，除了字母「A」外，「S」、「O」、「N」及「E」分別代表着Shin、Oli、Tania及Elfa四位初始成員，意味著四人能夠團結一致，就像團名一樣，做到「As
-One」。
+值得一提的是，「As One」還曾代表着四位初始成員的名字，除了字母「A」外，「S」、「O」、「N」及「E」分別代表着Shin、Oli、Tania及Elfa四位初始成員，意味著四人能夠團結一致，就像團名一樣，做到「As One」。
 
 而在韓國，「As One」則會以「AS 1」（에즈원）進行活動。
 
@@ -51,36 +44,28 @@ One」。
 
 2014年10月27日，官方公開三人數位單曲《New Girl》音源及MV。
 
-2015年3月16日，太陽娛樂文化透過[香港商業電台](../Page/香港商業電台.md "wikilink")節目《好出奇》舉行「As
-One plus One」活動招募新成員。其後在2015年4月17日，兩名選手Chloe和Kayan於活動中勝出，正式加入As
-One。\[3\]重新出發的As One並再次遠赴韓國集訓一個半月。
+2015年3月16日，太陽娛樂文化透過[香港商業電台](../Page/香港商業電台.md "wikilink")節目《好出奇》舉行「As One plus One」活動招募新成員。其後在2015年4月17日，兩名選手Chloe和Kayan於活動中勝出，正式加入As One。\[3\]重新出發的As One並再次遠赴韓國集訓一個半月。
 
 2015年5月15日，太陽娛樂文化發表正式聲明，成員Elfa因傷患不適\[4\]
 
-2015年7月13日，As One以全新四人組合形式推出全新數位單曲《캔디볼》(Candy Ball)
-韓文版，在韓國各大網上平台發行。\[5\]新歌更令她們得到韓國[SBS和](https://zh.wikipedia.org/wiki/SBS "wikilink")[MBC有線電視台邀請出席音樂節目獻唱](https://zh.wikipedia.org/wiki/MBC "wikilink")，成為首個於韓國出道的香港女團。
+2015年7月13日，As One以全新四人組合形式推出全新數位單曲《캔디볼》(Candy Ball) 韓文版，在韓國各大網上平台發行。\[5\]新歌更令她們得到韓國[SBS和](https://zh.wikipedia.org/wiki/SBS "wikilink")[MBC有線電視台邀請出席音樂節目獻唱](https://zh.wikipedia.org/wiki/MBC "wikilink")，成為首個於韓國出道的香港女團。
 
 2015年7月24日，官方公開數位單曲《Candy Ball》廣東話版。\[6\]
 
-2015年12月，隊長Shin因早前獲南韓大型電視台[Mnet邀請參與女團育成節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")[PRODUCE
-101](../Page/PRODUCE_101.md "wikilink")，而前往當地準備參賽。
+2015年12月，隊長Shin因早前獲南韓大型電視台[Mnet邀請參與女團育成節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")，而前往當地準備參賽。
 
 ### 2016年：PRODUCE 101 及 成熟蛻變《Hey Ya》
 
-2016年1月，隊長Shin因參加南韓Mnet女團育成類節目[PRODUCE
-101而暫時退出As](../Page/PRODUCE_101.md "wikilink")
-One，變回練習生。在節目第十集選出22強時僅以475票之差，獲得第23名而淘汰。
+2016年1月，隊長Shin因參加南韓Mnet女團育成類節目[PRODUCE 101而暫時退出As](../Page/PRODUCE_101.md "wikilink") One，變回練習生。在節目第十集選出22強時僅以475票之差，獲得第23名而淘汰。
 
-2016年1月6日，As
-One獲邀為香港著名女子組合[Twins於紅館舉辦的演唱會的嘉賓](https://zh.wikipedia.org/wiki/Twins "wikilink")。
+2016年1月6日，As One獲邀為香港著名女子組合[Twins於紅館舉辦的演唱會的嘉賓](https://zh.wikipedia.org/wiki/Twins "wikilink")。
 
 2016年4月4日，隊長Shin正式回港歸隊。
 
 2016年4月14日，官方公開數位單曲《Hey Ya》預告，並一改以往可愛少女風格，以成熟性感形象回歸。
 
 2016年5月4日，《Hey Ya》三語版本音源於香港、中國及韓國各大音樂平台同步推出，同日韓語版MV亦在韓國各大音樂平台公開。\[7\]
-2016年5月8日，As One舉行「《Hey
-Ya》MV首播會暨簽唱會」於活動中首播粵語版MV及首次獻唱新歌，同日粵語版MV亦在太陽娛樂YouTube頻道公開。
+2016年5月8日，As One舉行「《Hey Ya》MV首播會暨簽唱會」於活動中首播粵語版MV及首次獻唱新歌，同日粵語版MV亦在太陽娛樂YouTube頻道公開。
 
 ### 2017年：個人活動
 
@@ -88,11 +73,9 @@ Ya》MV首播會暨簽唱會」於活動中首播粵語版MV及首次獻唱新�
 
 2017年6月，隊長Shin於個人SNS發放個人出道預告，並跳槽到Unleash娛樂。
 
-2017年12月，As
-One正式解散，成員各自發展，Shin到中國發展；陳嘉茵則到台灣發展，2018年簽約[夢想沙龍](https://zh.wikipedia.org/wiki/夢想沙龍 "wikilink")，並回港推出首支個人派台作品《大肆慶祝》；
+2017年12月，As One正式解散，成員各自發展，Shin到中國發展；陳嘉茵則到台灣發展，2018年簽約[夢想沙龍](https://zh.wikipedia.org/wiki/夢想沙龍 "wikilink")，並回港推出首支個人派台作品《大肆慶祝》；
 
-2018年6月，Tania報名參加了[2018年度香港小姐競選](../Page/2018年度香港小姐競選.md "wikilink")\[8\]。據了解，陳苑澄曾為香港藝術體操隊成員，她曾於2005年接受報章訪問，表示自己當時參與藝術體操已有四年時間，而自己愛上藝術體操是因為動作優美，表演時十分有美感，而棒操則為的自己的強項。\[9\]她於2017年離開As
-One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競選而再次受到關注](https://zh.wikipedia.org/wiki/香港小姐競選 "wikilink")。\[10\]
+2018年6月，Tania報名參加了[2018年度香港小姐競選](../Page/2018年度香港小姐競選.md "wikilink")\[8\]。據了解，陳苑澄曾為香港藝術體操隊成員，她曾於2005年接受報章訪問，表示自己當時參與藝術體操已有四年時間，而自己愛上藝術體操是因為動作優美，表演時十分有美感，而棒操則為的自己的強項。\[9\]她於2017年離開As One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競選而再次受到關注](https://zh.wikipedia.org/wiki/香港小姐競選 "wikilink")。\[10\]
 
 ## 成員資料
 
@@ -116,10 +99,7 @@ One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競
 
 ### 成員變遷時序表
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500
-height:300 left:125 bottom:35 Alignbars = justify DateFormat =
-mm/dd/yyyy Period = from:2012 till:2017 TimeAxis =
-orientation:horizontal format:mm/yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2012 till:2017 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -566,8 +546,7 @@ PlotData =
   - 7月29日 - 香港動漫節2012（表演嘉賓）
   - 8月4日 - 電影《[低俗喜劇](https://zh.wikipedia.org/wiki/低俗喜劇 "wikilink")》首映
   - 8月6日 - 太陽金業發佈會
-  - 8月27日 -
-    [太陽飛馬足球會拜神儀式](https://zh.wikipedia.org/wiki/太陽飛馬足球會 "wikilink")
+  - 8月27日 - [太陽飛馬足球會拜神儀式](https://zh.wikipedia.org/wiki/太陽飛馬足球會 "wikilink")
   - 8月29日 - 2012 YES\!校花校草選舉（表演嘉賓）
   - 8月30日 - TVB「Music Cafe」錄影（表演嘉賓）
   - 9月2日 - 2012 銅鑼灣Live Stage（表演嘉賓）
@@ -585,8 +564,7 @@ PlotData =
   - 11月12日 - Yes\!\! School Tour（表演嘉賓）、明報周刊邁進45週年酒會
   - 11月14日 - Zkin 3周年典禮、2012第三屆U Star大專校花校草大選
   - 11月16日 - Yes\!\! School Tour（表演嘉賓）
-  - 11月17日 -
-    TVB遊戲節目「[決戰一分鐘](https://zh.wikipedia.org/wiki/決戰一分鐘 "wikilink")」宣傳活動
+  - 11月17日 - TVB遊戲節目「[決戰一分鐘](https://zh.wikipedia.org/wiki/決戰一分鐘 "wikilink")」宣傳活動
   - 11月22日 - 香港市務學會三十週年晚宴
   - 11月24日 - 李丞責博士「蛇來運到2013生肖運程」新書簽名會
   - 11月25日 - 仁愛堂晚宴「仁愛堂腦伴同行愛心夜」
@@ -606,12 +584,10 @@ PlotData =
   - 1月19日 - [聖類斯中學](../Page/聖類斯中學.md "wikilink")Talent Time 2013（表演嘉賓）
   - 1月25日 - YKK周年晚宴（表演嘉賓）
   - 2月2日 - 「舞動車廂」全港青少年街頭舞蹈比賽（表演嘉賓）
-  - 2月3日 -
-    《[太陽國際集團](https://zh.wikipedia.org/wiki/太陽國際集團 "wikilink")》週年晚宴
+  - 2月3日 - 《[太陽國際集團](https://zh.wikipedia.org/wiki/太陽國際集團 "wikilink")》週年晚宴
   - 2月6日 - 《[勁歌金曲](../Page/勁歌金曲.md "wikilink")》錄影
   - 2月9日 - The One x B.Duck 甜蜜唱聚迎新歲（表演嘉賓）
-  - 2月12日 - Sita[陳僖儀](../Page/陳僖儀.md "wikilink")《Let Me Find
-    Love》簽唱會（表演嘉賓）
+  - 2月12日 - Sita[陳僖儀](../Page/陳僖儀.md "wikilink")《Let Me Find Love》簽唱會（表演嘉賓）
   - 3月5日 - 《香港亞洲流行音樂節2013》記者招待會、Sa Sa 35th Anniversary
   - 3月17日 - 第九屆勁歌王全球華人樂壇音樂盛典
   - 3月19日 - 第二十屆逸夫書院歌唱比賽 （表演嘉賓）
@@ -626,9 +602,7 @@ PlotData =
   - 5月9日 - Yes\!\! School Tour（表演嘉賓）
   - 5月10日 - Yes\!\! School Tour（表演嘉賓）
   - 5月12日 - Alcatel one Touch Idol Ultra及One Touch Idol手機發佈會
-  - 5月14日 -
-    電影《[溝女不離3兄弟](https://zh.wikipedia.org/wiki/溝女不離3兄弟 "wikilink")》拜神儀式、《iMediaHouse》9th
-    anniversary party
+  - 5月14日 - 電影《[溝女不離3兄弟](https://zh.wikipedia.org/wiki/溝女不離3兄弟 "wikilink")》拜神儀式、《iMediaHouse》9th anniversary party
   - 5月26日 - 荃灣龍舟競渡2013（表演嘉賓）
   - 5月29日 - Yes\!\! School Tour（表演嘉賓）
   - 5月30日 - Yes\!\! School Tour（表演嘉賓）、TVB節目Music Cafe 錄影
@@ -667,8 +641,7 @@ PlotData =
   - 9月28日 - 3HK x LINE 宣傳活動
   - 10月6日 - Alcatel 宣傳活動
   - 10月7日 - Adidas Original Unite All Originals Party
-  - 10月10日 -
-    《[溝女不離3兄弟](https://zh.wikipedia.org/wiki/溝女不離3兄弟 "wikilink")》首映禮
+  - 10月10日 - 《[溝女不離3兄弟](https://zh.wikipedia.org/wiki/溝女不離3兄弟 "wikilink")》首映禮
   - 10月12日 - 新城慈善K唱遊2013
   - 10月22日 - nowTV 喪「施」愛心仁愛夜 記者會
   - 10月27日 - HKEscape救參行動大激鬥 戶外總決賽
@@ -683,8 +656,7 @@ PlotData =
   - 11月30日 - 李承責博士2014馬上行運簽名會
   - 12月1日 - 新城熱捧新星SHOW 2013
   - 12月15日 - 《yes\!\!》Idol年度人氣大典2013
-  - 12月20日 -
-    《[發夢王大歷險](https://zh.wikipedia.org/wiki/發夢王大歷險 "wikilink")》首映禮
+  - 12月20日 - 《[發夢王大歷險](https://zh.wikipedia.org/wiki/發夢王大歷險 "wikilink")》首映禮
   - 12月24日 - 舞動荃城愛心迎聖誕2013暨新城超班新星爭霸戰
   - 12月26日 - 新城勁爆頒獎禮2013
   - 12月31日 - 新葡京倒數齊迎2014
@@ -717,8 +689,7 @@ PlotData =
   - 6月20日 - Live Tube 音樂會
   - 7月2日 - YES\!\! School Tour 2014
   - 7月10日 - YES\!\! School Tour \!
-  - 7月15日 - 2014 全新 D-mop Beauty x 星級攝影師Sunny Lau "Our Style"相展Opening
-    Ceremony
+  - 7月15日 - 2014 全新 D-mop Beauty x 星級攝影師Sunny Lau "Our Style"相展Opening Ceremony
   - 7月16日 - 勁歌金曲錄影
   - 7月22日 - M21完全青年我最愛華語歌曲頒獎禮2014
   - 7月22日 - 2014 HK Dance Power Competition
@@ -726,17 +697,14 @@ PlotData =
   - 7月27日 - 2014 HK Dance Power Competition
   - 8月3日 - V City 1歲生日 Bling Bling 派對
   - 8月23日 - 2014 元朗區青少年暑期活動閉幕典禮暨綜合表演嘉年華
-  - 8月31日 - Sunny Wong 30th anniversary \&Dance Union @ Sunny Wong
-    Annual Performance
-  - 9月14日 - As One Official Fans Club 成立1週年慶典 暨 Be With U Fans Dance
-    Competition Gathering
+  - 8月31日 - Sunny Wong 30th anniversary \&Dance Union @ Sunny Wong Annual Performance
+  - 9月14日 - As One Official Fans Club 成立1週年慶典 暨 Be With U Fans Dance Competition Gathering
   - 9月20日 - 星級下午茶派對
   - 11月29日 - 青少年創意體藝大匯演
   - 11月30日 - 仁愛堂「親親小狗」慈善步行日
   - 12月5日 - 2014十大港聞選舉
   - 12月7日 - 2014 Like 好音樂大熱唱
-  - 12月17日 - 全港中學生讀．寫．樂計劃 School Tour
-    @[英皇書院](https://zh.wikipedia.org/wiki/英皇書院 "wikilink")
+  - 12月17日 - 全港中學生讀．寫．樂計劃 School Tour @[英皇書院](https://zh.wikipedia.org/wiki/英皇書院 "wikilink")
   - 12月18日 - 柯尼卡美能達綠色音樂會
   - 12月19日 - 全港中學生讀．寫．樂計劃 School Tour @明愛莊月明中學、Neway Music Live 2014
   - 12月24日 - 熱唱平安夜Party
@@ -898,28 +866,23 @@ PlotData =
 
 ### 2013年度
 
-  - [第9屆「勁歌王」全球華人樂壇音樂盛典](../Page/第9屆「勁歌王」全球華人樂壇音樂盛典獲獎名單.md "wikilink") -
-    最佳新人組合
+  - [第9屆「勁歌王」全球華人樂壇音樂盛典](../Page/第9屆「勁歌王」全球華人樂壇音樂盛典獲獎名單.md "wikilink") - 最佳新人組合
   - [新城勁爆頒獎禮2013](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆新人王（組合）
-  - [IFPI香港唱片銷量大獎2013](../Page/IFPI香港唱片銷量大獎頒獎禮2013.md "wikilink") -
-    最暢銷本地新人組合
+  - [IFPI香港唱片銷量大獎2013](../Page/IFPI香港唱片銷量大獎頒獎禮2013.md "wikilink") - 最暢銷本地新人組合
 
 ### 2014年度
 
   - 我最愛華語歌曲頒獎禮2014 - M21完全青年‧我最愛華語歌曲獎
   - 我最愛華語歌曲頒獎禮2014 - M21完全青年‧我最愛華語組合銀獎
-  - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆跳舞歌曲《New Girl》
+  - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆跳舞歌曲《New Girl》
   - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆組合
-  - [第10屆「勁歌王」全球華人樂壇音樂盛典](../Page/第10屆「勁歌王」全球華人樂壇音樂盛典獲獎名單.md "wikilink")
-    - 飛躍組合
+  - [第10屆「勁歌王」全球華人樂壇音樂盛典](../Page/第10屆「勁歌王」全球華人樂壇音樂盛典獲獎名單.md "wikilink") - 飛躍組合
 
 ### 2015年度
 
   - 香港流行音樂MV頒獎典禮2015第一季季選 - 季選MV組得獎MV《Candy Ball》
   - 〈音樂先鋒榜〉2015年度頒獎典禮 - 先鋒跳舞組合
-  - [新城勁爆頒獎禮2015](../Page/2015年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆跳舞歌曲《Candy Ball》
+  - [新城勁爆頒獎禮2015](../Page/2015年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆跳舞歌曲《Candy Ball》
   - [新城勁爆頒獎禮2015](../Page/2015年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆組合 金獎
   - [2015年度勁歌金曲頒獎典禮](../Page/2015年度勁歌金曲得獎名單.md "wikilink") - 最佳樂隊組合獎 銅獎
   - 香港流行音樂MV頒獎典禮2015年度總選 - 最佳MV視覺效果 銅獎《Candy Ball》
@@ -965,39 +928,20 @@ PlotData =
   -
 ## 參考資料
 
-[Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink")
-[Category:2015年韓國建立](https://zh.wikipedia.org/wiki/Category:2015年韓國建立 "wikilink")
-[Category:2017年韓國廢除](https://zh.wikipedia.org/wiki/Category:2017年韓國廢除 "wikilink")
+[Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink") [Category:2015年韓國建立](https://zh.wikipedia.org/wiki/Category:2015年韓國建立 "wikilink") [Category:2017年韓國廢除](https://zh.wikipedia.org/wiki/Category:2017年韓國廢除 "wikilink")
 
-1.  [【紅出國際】As One隊友各自飛
-    陳嘉茵在台灣走紅？](https://bka.mpweekly.com/focus/local/20171220-94650)
+1.  [【紅出國際】As One隊友各自飛 陳嘉茵在台灣走紅？](https://bka.mpweekly.com/focus/local/20171220-94650)
 
 2.
-3.  [四變三！三變五！As
-    One兩新成員曝光](http://www.on.cc/hk/bkn/cnt/entertainment/20150417/bkn-20150417134022181-0417_00862_001.html),
-    on.cc東網. 2015-4-17
+3.  [四變三！三變五！As One兩新成員曝光](http://www.on.cc/hk/bkn/cnt/entertainment/20150417/bkn-20150417134022181-0417_00862_001.html), on.cc東網. 2015-4-17
 
-4.  [As
-    One成員Elfa離隊聲明](http://www.suneg.com/2015/05/15/as-one%E6%88%90%E5%93%A1elfa%E9%9B%A2%E9%9A%8A%E8%81%B2%E6%98%8E/),
-    聲明. 太陽娛樂文化. 2015-5-15
+4.  [As One成員Elfa離隊聲明](http://www.suneg.com/2015/05/15/as-one%E6%88%90%E5%93%A1elfa%E9%9B%A2%E9%9A%8A%E8%81%B2%E6%98%8E/), 聲明. 太陽娛樂文化. 2015-5-15
 
-5.  [애즈원의 상큼하고 앙큼한 캔디볼(Candy Ball) MV 촬영 현장
-    스케치](http://www.mnet.com/special/7732), Mnet Special.
-    2015-7-14
+5.  [애즈원의 상큼하고 앙큼한 캔디볼(Candy Ball) MV 촬영 현장 스케치](http://www.mnet.com/special/7732), Mnet Special. 2015-7-14
 
-6.  [As One 《Candy Ball》
-    現正熱播中](http://www.suneg.com/2015/07/27/as-one-%E7%8F%BE%E6%AD%A3%E7%86%B1%E6%92%AD%E4%B8%AD/),
-    新聞稿. 太陽娛樂文化. 2015-7-27。
+6.  [As One 《Candy Ball》 現正熱播中](http://www.suneg.com/2015/07/27/as-one-%E7%8F%BE%E6%AD%A3%E7%86%B1%E6%92%AD%E4%B8%AD/), 新聞稿. 太陽娛樂文化. 2015-7-27。
 
-7.  [As One
-    全新派台單曲《HeyYa\!》經已上架](http://www.suneg.com/2016/05/06/as-one-%E5%85%A8%E6%96%B0%E6%B4%BE%E5%8F%B0%E5%96%AE%E6%9B%B2%E3%80%8Aheyya%E3%80%8B%E7%B6%93%E5%B7%B2%E4%B8%8A%E6%9E%B6/),
-    新聞稿. 太陽娛樂文化. 2016-5-6。
+7.  [As One 全新派台單曲《HeyYa\!》經已上架](http://www.suneg.com/2016/05/06/as-one-%E5%85%A8%E6%96%B0%E6%B4%BE%E5%8F%B0%E5%96%AE%E6%9B%B2%E3%80%8Aheyya%E3%80%8B%E7%B6%93%E5%B7%B2%E4%B8%8A%E6%9E%B6/), 新聞稿. 太陽娛樂文化. 2016-5-6。
 
 8.
 

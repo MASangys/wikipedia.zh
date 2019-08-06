@@ -1,6 +1,4 @@
-**《JOKER
-不被原諒的搜查官》**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：ジョーカー
-許されざる捜査官），臺灣播出譯名為《**JOKER私法正義**》（緯來日本台）、《**王牌搜查官**》（國興衛視）。為日本[富士電視台](../Page/富士電視台.md "wikilink")自2010年7月13日起至同年9月14日期間播放的週二晚間九點檔（火九）。由[堺雅人](../Page/堺雅人.md "wikilink")主演。
+**《JOKER 不被原諒的搜查官》**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：ジョーカー 許されざる捜査官），臺灣播出譯名為《**JOKER私法正義**》（緯來日本台）、《**王牌搜查官**》（國興衛視）。為日本[富士電視台](../Page/富士電視台.md "wikilink")自2010年7月13日起至同年9月14日期間播放的週二晚間九點檔（火九）。由[堺雅人](../Page/堺雅人.md "wikilink")主演。
 
 ## 概要
 
@@ -152,8 +150,7 @@
 <!-- end list -->
 
   -
-    [山本修](https://zh.wikipedia.org/wiki/山本修 "wikilink")、[千咲梨江](https://zh.wikipedia.org/wiki/千咲梨江 "wikilink")
-    飾
+    [山本修](https://zh.wikipedia.org/wiki/山本修 "wikilink")、[千咲梨江](https://zh.wikipedia.org/wiki/千咲梨江 "wikilink") 飾
     伊達的雙親。
 
 <!-- end list -->
@@ -171,69 +168,49 @@
 
 ### 第1集
 
-  - **木内亨**（檢察官之子） [細田善彦](https://zh.wikipedia.org/wiki/細田善彦 "wikilink")
-    飾
-  - 新垣豪太（木内高中時代的同學）
-    [山根和馬](https://zh.wikipedia.org/wiki/山根和馬 "wikilink")
-    飾
+  - **木内亨**（檢察官之子） [細田善彦](https://zh.wikipedia.org/wiki/細田善彦 "wikilink") 飾
+  - 新垣豪太（木内高中時代的同學） [山根和馬](https://zh.wikipedia.org/wiki/山根和馬 "wikilink") 飾
   - 河相滿（被害人） 貴島康成 飾
   - 河相勇造（阿滿的父親） [小市慢太郎](../Page/小市慢太郎.md "wikilink") 飾
-  - 河相美津子（阿滿的母親） [中込佐知子](https://zh.wikipedia.org/wiki/中込佐知子 "wikilink")
-    飾
-  - 西山耕平（妙子的外遇對象） [矢柴俊博](https://zh.wikipedia.org/wiki/矢柴俊博 "wikilink")
-    飾
+  - 河相美津子（阿滿的母親） [中込佐知子](https://zh.wikipedia.org/wiki/中込佐知子 "wikilink") 飾
+  - 西山耕平（妙子的外遇對象） [矢柴俊博](https://zh.wikipedia.org/wiki/矢柴俊博 "wikilink") 飾
   - 水上妙子（西山的外遇對象） 梅田繪理子 飾
 
 ### 第2集
 
-  - **春日恒夫**（K\&M貿易公司社長）
-    [鈴木浩介](https://zh.wikipedia.org/wiki/鈴木浩介_\(俳優\) "wikilink")
-    飾
+  - **春日恒夫**（K\&M貿易公司社長） [鈴木浩介](https://zh.wikipedia.org/wiki/鈴木浩介_\(俳優\) "wikilink") 飾
   - 高原鈴惠（老人安養院「山吹之家」的入住者） 小貫加恵 飾
-  - 羽鳥晴信（教立醫大附設醫院醫師）
-    [東根作壽英](https://zh.wikipedia.org/wiki/東根作壽英 "wikilink")
-    飾
+  - 羽鳥晴信（教立醫大附設醫院醫師） [東根作壽英](https://zh.wikipedia.org/wiki/東根作壽英 "wikilink") 飾
   - 高原悟（鈴惠的兒子） 中村誠 飾
   - 高原利惠（阿悟的妻子） [笠木泉](https://zh.wikipedia.org/wiki/笠木泉 "wikilink") 飾
-  - 高原凛（阿悟與利惠的女兒） [大野百花](https://zh.wikipedia.org/wiki/大野百花 "wikilink")
-    飾
+  - 高原凛（阿悟與利惠的女兒） [大野百花](https://zh.wikipedia.org/wiki/大野百花 "wikilink") 飾
   - 達川學（強盗犯） 林潔 飾
   - 其他演員：村愛香
 
 ### 第3集
 
-  - **山原哲司**（私立嘉陽高中化學教師）
-    [黃川田將也](https://zh.wikipedia.org/wiki/黃川田將也 "wikilink")
-    飾
+  - **山原哲司**（私立嘉陽高中化學教師） [黃川田將也](https://zh.wikipedia.org/wiki/黃川田將也 "wikilink") 飾
   - 内海晴香（山原的未婚妻） [重廣禮香](https://zh.wikipedia.org/wiki/重廣禮香 "wikilink") 飾
   - 豬俣政典（晴香的前男友） [中村邦晃](https://zh.wikipedia.org/wiki/中村邦晃 "wikilink") 飾
   - 内海小百合（晴香的母親） [大塚良重](https://zh.wikipedia.org/wiki/大塚良重 "wikilink") 飾
   - 内海雄彦（晴香的父親） [市川勇](https://zh.wikipedia.org/wiki/市川勇 "wikilink") 飾
-  - 矢口琴美（私立嘉陽高中學生）[齊藤丽娜](https://zh.wikipedia.org/wiki/齊藤丽娜 "wikilink")
-    飾
+  - 矢口琴美（私立嘉陽高中學生）[齊藤丽娜](https://zh.wikipedia.org/wiki/齊藤丽娜 "wikilink") 飾
 
 ### 第4集
 
-  - **椎名高弘**（隨機殺人事件的加害人）
-    [窪田正孝](https://zh.wikipedia.org/wiki/窪田正孝 "wikilink")
-    飾
-  - 皆瀬桃子（隨機殺人事件的被害人）
-    [金澤美穗](https://zh.wikipedia.org/wiki/金澤美穗 "wikilink")
-    飾
+  - **椎名高弘**（隨機殺人事件的加害人） [窪田正孝](https://zh.wikipedia.org/wiki/窪田正孝 "wikilink") 飾
+  - 皆瀬桃子（隨機殺人事件的被害人） [金澤美穗](https://zh.wikipedia.org/wiki/金澤美穗 "wikilink") 飾
   - 皆瀬士郎（桃子的父親） [甲本雅裕](https://zh.wikipedia.org/wiki/甲本雅裕 "wikilink") 飾
   - 柏木奈美（桃子的朋友） 近藤未來 飾
-  - 内村（桃子與奈美先前打工的卡拉OK店店長）
-    [每度豐](https://zh.wikipedia.org/wiki/每度豐 "wikilink") 飾
+  - 内村（桃子與奈美先前打工的卡拉OK店店長） [每度豐](https://zh.wikipedia.org/wiki/每度豐 "wikilink") 飾
   - 精神科醫師 [永井博章](https://zh.wikipedia.org/wiki/永井博章 "wikilink") 飾
   - 其他演員：[岡崎宏](https://zh.wikipedia.org/wiki/岡崎宏 "wikilink")、[植村惠](https://zh.wikipedia.org/wiki/植村惠 "wikilink")、[中村絢香](https://zh.wikipedia.org/wiki/中村絢香 "wikilink")、今泉天音、丘野裟稀、[前田知惠](https://zh.wikipedia.org/wiki/前田知惠 "wikilink")、津田宏繪
 
 ### 第5集
 
   - **冰川成美**（律師） [鈴木砂羽](https://zh.wikipedia.org/wiki/鈴木砂羽 "wikilink") 飾
-  - 幸田弘道（精神鑑定師） [小須田康人](https://zh.wikipedia.org/wiki/小須田康人 "wikilink")
-    飾
-  - 幸田京香（幸田的妻子） [春木美佐代](https://zh.wikipedia.org/wiki/春木美佐代 "wikilink")
-    飾
+  - 幸田弘道（精神鑑定師） [小須田康人](https://zh.wikipedia.org/wiki/小須田康人 "wikilink") 飾
+  - 幸田京香（幸田的妻子） [春木美佐代](https://zh.wikipedia.org/wiki/春木美佐代 "wikilink") 飾
   - 柿原沙世（桃色詐欺犯） [菅原祿彌](https://zh.wikipedia.org/wiki/菅原祿彌 "wikilink") 飾
 
 ### 第6集
@@ -241,31 +218,20 @@
   - **吉永廣之** [高杉亘](https://zh.wikipedia.org/wiki/高杉亘 "wikilink") 飾
   - 吉永文彌（廣之的兒子） [渡邉甚平](https://zh.wikipedia.org/wiki/渡邉甚平 "wikilink") 飾
   - 岩瀬町會長（酒店老闆） [綾田俊樹](https://zh.wikipedia.org/wiki/綾田俊樹 "wikilink") 飾
-  - 盛岡真央（文彌的朋友） [佐佐木麻緒](https://zh.wikipedia.org/wiki/佐佐木麻緒 "wikilink")
-    飾
+  - 盛岡真央（文彌的朋友） [佐佐木麻緒](https://zh.wikipedia.org/wiki/佐佐木麻緒 "wikilink") 飾
   - 久遠莊平（久遠的父親） [螢雪次朗](https://zh.wikipedia.org/wiki/螢雪次朗 "wikilink") 飾
-  - 竊盜集團
-    [松永一哉](https://zh.wikipedia.org/wiki/松永一哉 "wikilink")、[有川良太](https://zh.wikipedia.org/wiki/有川良太 "wikilink")、伊藤龍翼
-    飾
+  - 竊盜集團 [松永一哉](https://zh.wikipedia.org/wiki/松永一哉 "wikilink")、[有川良太](https://zh.wikipedia.org/wiki/有川良太 "wikilink")、伊藤龍翼 飾
   - 夜店「月光」的女服務生 [建美里](https://zh.wikipedia.org/wiki/建美里 "wikilink") 飾
   - 文彌的母親（照片） [中島奏](https://zh.wikipedia.org/wiki/中島奏 "wikilink") 飾
 
 ### 第7－8集
 
-  - **日向光明**（港北西署刑事課巡査部長，吉住的同父異母弟弟，模仿神隠制裁手法的殺人犯）
-    [忍成修吾](../Page/忍成修吾.md "wikilink") 飾
-  - 吉住武徳（港北西署刑事課巡査部長，日向的共犯）
-    [飯田基祐](https://zh.wikipedia.org/wiki/飯田基祐 "wikilink")
-    飾
+  - **日向光明**（港北西署刑事課巡査部長，吉住的同父異母弟弟，模仿神隠制裁手法的殺人犯） [忍成修吾](../Page/忍成修吾.md "wikilink") 飾
+  - 吉住武徳（港北西署刑事課巡査部長，日向的共犯） [飯田基祐](https://zh.wikipedia.org/wiki/飯田基祐 "wikilink") 飾
   - 根津美代子（健太的妻子） [尾野真千子](../Page/尾野真千子.md "wikilink") 飾
-  - 根津健太（馬貝斯特公司員工） [山中崇](https://zh.wikipedia.org/wiki/山中崇 "wikilink")
-    飾（第7集）
-  - 根津忠士（健太的弟弟）
-    [遠藤要](https://zh.wikipedia.org/wiki/遠藤要_\(俳優\) "wikilink")
-    飾（第7集）
-  - 江原（馬貝斯特公司員工，健太的上司）
-    [水野智則](https://zh.wikipedia.org/wiki/水野智則 "wikilink")
-    飾（第7集）
+  - 根津健太（馬貝斯特公司員工） [山中崇](https://zh.wikipedia.org/wiki/山中崇 "wikilink") 飾（第7集）
+  - 根津忠士（健太的弟弟） [遠藤要](https://zh.wikipedia.org/wiki/遠藤要_\(俳優\) "wikilink") 飾（第7集）
+  - 江原（馬貝斯特公司員工，健太的上司） [水野智則](https://zh.wikipedia.org/wiki/水野智則 "wikilink") 飾（第7集）
   - 詐欺犯 上野山浩 飾（第7集）
   - 木本志保（酒吧「花亂」老闆娘） 佐野珠美 飾 （第8集）
   - 宮前史人（木本的熟客） 櫻山優 飾（第8集）
@@ -280,20 +246,13 @@
 
 ### 完結篇
 
-  - 坂崎（神奈川縣警刑事部長） [小木茂光](https://zh.wikipedia.org/wiki/小木茂光 "wikilink")
-    飾
+  - 坂崎（神奈川縣警刑事部長） [小木茂光](https://zh.wikipedia.org/wiki/小木茂光 "wikilink") 飾
 
 ### 特別篇
 
-  - **中崎道彦**（神奈川縣警本部組對四課）
-    [鶴見辰吾](https://zh.wikipedia.org/wiki/鶴見辰吾 "wikilink")
-    飾
-  - 中崎由衣（中崎的妻子，拉麵店「大王」店主）
-    [阿南敦子](https://zh.wikipedia.org/wiki/阿南敦子 "wikilink")
-    飾
-  - 富永歐太（披薩店外送員，被害人）
-    [田中良](https://zh.wikipedia.org/wiki/田中良_\(俳優\) "wikilink")
-    飾
+  - **中崎道彦**（神奈川縣警本部組對四課） [鶴見辰吾](https://zh.wikipedia.org/wiki/鶴見辰吾 "wikilink") 飾
+  - 中崎由衣（中崎的妻子，拉麵店「大王」店主） [阿南敦子](https://zh.wikipedia.org/wiki/阿南敦子 "wikilink") 飾
+  - 富永歐太（披薩店外送員，被害人） [田中良](https://zh.wikipedia.org/wiki/田中良_\(俳優\) "wikilink") 飾
   - 東京拘留所刑務官 [濱近高德](https://zh.wikipedia.org/wiki/濱近高德 "wikilink") 飾
 
 ## 收視率
@@ -475,19 +434,14 @@
 
 ## 得獎紀錄
 
-[第66回日劇學院賞](https://zh.wikipedia.org/wiki/第66回日劇學院賞名單 "wikilink")
-主演男優賞（堺雅人）
+[第66回日劇學院賞](https://zh.wikipedia.org/wiki/第66回日劇學院賞名單 "wikilink") 主演男優賞（堺雅人）
 
 ## 外部連結
 
   - **電視台**
-      - [日本富士電視台－ジョーカー
-        許されざる捜査官](https://web.archive.org/web/20120705155539/http://www.fujitv.co.jp/JOKER/index.html)
-
+      - [日本富士電視台－ジョーカー 許されざる捜査官](https://web.archive.org/web/20120705155539/http://www.fujitv.co.jp/JOKER/index.html)
       - [緯來日本台－JOKER私法正義](http://japan.videoland.com.tw/channel/joker/default.asp)
-
       - [國興衛視－王牌搜查官](http://www.goldsuntv.com.tw/program_deils.php?n_id=20)
-
 
 <!-- end list -->
 
@@ -495,15 +449,4 @@
 
 ## 節目的變遷
 
-[Category:2010年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年日本電視劇集 "wikilink")
-[Category:富士電視台週二晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週二晚間九點連續劇 "wikilink")
-[Category:富士電視台警匪電視劇](https://zh.wikipedia.org/wiki/Category:富士電視台警匪電視劇 "wikilink")
-[Category:共同電視製作電視劇](https://zh.wikipedia.org/wiki/Category:共同電視製作電視劇 "wikilink")
-[Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink")
-[Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink")
-[Category:神奈川縣背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣背景作品 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:國興衛視外購日劇](https://zh.wikipedia.org/wiki/Category:國興衛視外購日劇 "wikilink")
-[Category:堺雅人](https://zh.wikipedia.org/wiki/Category:堺雅人 "wikilink")
-[Category:錦戶亮](https://zh.wikipedia.org/wiki/Category:錦戶亮 "wikilink")
+[Category:2010年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2010年日本電視劇集 "wikilink") [Category:富士電視台週二晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週二晚間九點連續劇 "wikilink") [Category:富士電視台警匪電視劇](https://zh.wikipedia.org/wiki/Category:富士電視台警匪電視劇 "wikilink") [Category:共同電視製作電視劇](https://zh.wikipedia.org/wiki/Category:共同電視製作電視劇 "wikilink") [Category:日本懸疑劇](https://zh.wikipedia.org/wiki/Category:日本懸疑劇 "wikilink") [Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink") [Category:神奈川縣背景作品](https://zh.wikipedia.org/wiki/Category:神奈川縣背景作品 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:國興衛視外購日劇](https://zh.wikipedia.org/wiki/Category:國興衛視外購日劇 "wikilink") [Category:堺雅人](https://zh.wikipedia.org/wiki/Category:堺雅人 "wikilink") [Category:錦戶亮](https://zh.wikipedia.org/wiki/Category:錦戶亮 "wikilink")

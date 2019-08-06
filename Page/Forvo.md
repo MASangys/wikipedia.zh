@@ -13,5 +13,4 @@
   -
   -
   -
-[Category:2008年建立的网站](https://zh.wikipedia.org/wiki/Category:2008年建立的网站 "wikilink")
-[Category:教育网站](https://zh.wikipedia.org/wiki/Category:教育网站 "wikilink")
+[Category:2008年建立的网站](https://zh.wikipedia.org/wiki/Category:2008年建立的网站 "wikilink") [Category:教育网站](https://zh.wikipedia.org/wiki/Category:教育网站 "wikilink")

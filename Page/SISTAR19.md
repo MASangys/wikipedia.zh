@@ -1,6 +1,4 @@
-**SISTAR
-19**（[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：씨스타19），在2011年4月29日由[STARSHIP娱乐宣布](../Page/STARSHIP娛樂.md "wikilink")[SISTAR推出首個子團體SISTAR](https://zh.wikipedia.org/wiki/Sistar "wikilink")
-19，為[SISTAR的](https://zh.wikipedia.org/wiki/Sistar "wikilink")[孝琳和](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")[寶拉兩名成員組成](https://zh.wikipedia.org/wiki/尹寶拉 "wikilink")。\[1\]
+**SISTAR 19**（[韓文](https://zh.wikipedia.org/wiki/韓文 "wikilink")：씨스타19），在2011年4月29日由[STARSHIP娱乐宣布](../Page/STARSHIP娛樂.md "wikilink")[SISTAR推出首個子團體SISTAR](https://zh.wikipedia.org/wiki/Sistar "wikilink") 19，為[SISTAR的](https://zh.wikipedia.org/wiki/Sistar "wikilink")[孝琳和](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")[寶拉兩名成員組成](https://zh.wikipedia.org/wiki/尹寶拉 "wikilink")。\[1\]
 
 ## 團名由來
 
@@ -10,19 +8,11 @@
 
 ### 2011年：首張單曲《Ma Boy》
 
-[STARSHIP娱乐宣布](../Page/STARSHIP娛樂.md "wikilink")[SISTAR](../Page/SISTAR.md "wikilink")推出子團體SISTAR19。由富有力量嗓音的[孝琳](../Page/孝琳.md "wikilink")和強悍饒舌技巧的[寳拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")2人組成。4月28日，公開數碼單曲《Ma
-Boy》MV預告。5月3日，公開數碼單曲《Ma Boy》完整版MV，發行 "Ma Boy"
-並且投入活動。5月5日，SISTAR19在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》進行SISTAR19的出道舞台，表演《Ma
-Boy》。
+[STARSHIP娱乐宣布](../Page/STARSHIP娛樂.md "wikilink")[SISTAR](../Page/SISTAR.md "wikilink")推出子團體SISTAR19。由富有力量嗓音的[孝琳](../Page/孝琳.md "wikilink")和強悍饒舌技巧的[寳拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")2人組成。4月28日，公開數碼單曲《Ma Boy》MV預告。5月3日，公開數碼單曲《Ma Boy》完整版MV，發行 "Ma Boy" 並且投入活動。5月5日，SISTAR19在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》進行SISTAR19的出道舞台，表演《Ma Boy》。
 
 ### 2013年：首張迷你專輯《Gone Not Around Any Longer》
 
-1月24日，[STARSHIP娱乐公開子團體再次回歸概念照](../Page/STARSHIP娛樂.md "wikilink")，圖中孝琳和[寶拉在床上展現她們性感的S線條](https://zh.wikipedia.org/wiki/寶拉 "wikilink")。1月25日透過[Naver音樂公開SISTAR](https://zh.wikipedia.org/wiki/Naver "wikilink")19第二波回歸概念照。1月29日，公開子團體SISTAR19《Gone
-Not Around Any
-Longer》MV預告，為SISTAR19出道以來第二次回歸。1月31日，SISTAR19發行首張迷你專輯《Gone
-Not Around Any Longer》，並在Mnet《M\! Countdown》進行回歸舞台，表演《SISTAR19
-(Intro)》和《Gone Not Around Any Longer》。本次的回歸共贏得11個一位。
+1月24日，[STARSHIP娱乐公開子團體再次回歸概念照](../Page/STARSHIP娛樂.md "wikilink")，圖中孝琳和[寶拉在床上展現她們性感的S線條](https://zh.wikipedia.org/wiki/寶拉 "wikilink")。1月25日透過[Naver音樂公開SISTAR](https://zh.wikipedia.org/wiki/Naver "wikilink")19第二波回歸概念照。1月29日，公開子團體SISTAR19《Gone Not Around Any Longer》MV預告，為SISTAR19出道以來第二次回歸。1月31日，SISTAR19發行首張迷你專輯《Gone Not Around Any Longer》，並在Mnet《M\! Countdown》進行回歸舞台，表演《SISTAR19 (Intro)》和《Gone Not Around Any Longer》。本次的回歸共贏得11個一位。
 
 ### 2017年：随着SISTAR解散
 
@@ -312,11 +302,6 @@ Not Around Any Longer》，並在Mnet《M\! Countdown》進行回歸舞台，表
 
 </div>
 
-[Category:Sistar](https://zh.wikipedia.org/wiki/Category:Sistar "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
+[Category:Sistar](https://zh.wikipedia.org/wiki/Category:Sistar "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:韓語歌手](https://zh.wikipedia.org/wiki/Category:韓語歌手 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
 
 1.

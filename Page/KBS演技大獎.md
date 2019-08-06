@@ -2535,11 +2535,7 @@
   -
   -
   -
-[Category:KBS演技大獎](https://zh.wikipedia.org/wiki/Category:KBS演技大獎 "wikilink")
-[Category:韓國電視獎項](https://zh.wikipedia.org/wiki/Category:韓國電視獎項 "wikilink")
-[Category:1987年韩国建立](https://zh.wikipedia.org/wiki/Category:1987年韩国建立 "wikilink")
-[Category:1987年建立的奖项](https://zh.wikipedia.org/wiki/Category:1987年建立的奖项 "wikilink")
-[Category:12月份的活動](https://zh.wikipedia.org/wiki/Category:12月份的活動 "wikilink")
+[Category:KBS演技大獎](https://zh.wikipedia.org/wiki/Category:KBS演技大獎 "wikilink") [Category:韓國電視獎項](https://zh.wikipedia.org/wiki/Category:韓國電視獎項 "wikilink") [Category:1987年韩国建立](https://zh.wikipedia.org/wiki/Category:1987年韩国建立 "wikilink") [Category:1987年建立的奖项](https://zh.wikipedia.org/wiki/Category:1987年建立的奖项 "wikilink") [Category:12月份的活動](https://zh.wikipedia.org/wiki/Category:12月份的活動 "wikilink")
 
 1.  [韩国三大台演技大赏历年获奖者盘点](http://kr.hujiang.com/new/p441503/)
 2.  [韩国三大台演技大赏历年获奖者盘点](http://kr.hujiang.com/new/p441503/)

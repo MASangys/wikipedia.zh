@@ -1,6 +1,4 @@
-《**Pixie
-Lott**》，是英国女歌手[皮克西·洛特](../Page/皮克西·洛特.md "wikilink")的第三张录音室专辑，定于2014年8月4日发行。洛特于2012年中旬开始录制此专辑，并称风格主要受摩城音乐的影响。"[Nasty](https://zh.wikipedia.org/wiki/Nasty "wikilink")"作为新专辑首单发行于2014年3月7日。
-在发行首单前，作为新专辑宣传单曲洛特在2013年12月17日公开了歌曲"Heart Cry"的MV。
+《**Pixie Lott**》，是英国女歌手[皮克西·洛特](../Page/皮克西·洛特.md "wikilink")的第三张录音室专辑，定于2014年8月4日发行。洛特于2012年中旬开始录制此专辑，并称风格主要受摩城音乐的影响。"[Nasty](https://zh.wikipedia.org/wiki/Nasty "wikilink")"作为新专辑首单发行于2014年3月7日。 在发行首单前，作为新专辑宣传单曲洛特在2013年12月17日公开了歌曲"Heart Cry"的MV。
 
 ## 背景
 
@@ -10,15 +8,9 @@ Lott**》，是英国女歌手[皮克西·洛特](../Page/皮克西·洛特.md "
 
 ## 单曲
 
-2013年11月13日，洛特先是公开了新单"Nasty"的MV预告片，并在[推特说道](https://zh.wikipedia.org/wiki/推特 "wikilink")，"Ahhhh
-loved
-today\!"在完成拍摄后又发[推特说](https://zh.wikipedia.org/wiki/推特 "wikilink")"Thank
-you sooo much everyone for all your hard work and hours :O\!\!\! Can't
-wait to see it \#excited
-\#ahhh."12月3日，获得证实原是[克里斯蒂娜·阿奎莱拉为](https://zh.wikipedia.org/wiki/克里斯蒂娜·阿奎莱拉 "wikilink")2010年电影《[Burlesque](https://zh.wikipedia.org/wiki/Burlesque "wikilink")》（滑稽戏）而录制的歌曲"Nasty"将作为洛特新专辑的首单发行出来。
+2013年11月13日，洛特先是公开了新单"Nasty"的MV预告片，并在[推特说道](https://zh.wikipedia.org/wiki/推特 "wikilink")，"Ahhhh loved today\!"在完成拍摄后又发[推特说](https://zh.wikipedia.org/wiki/推特 "wikilink")"Thank you sooo much everyone for all your hard work and hours :O\!\!\! Can't wait to see it \#excited \#ahhh."12月3日，获得证实原是[克里斯蒂娜·阿奎莱拉为](https://zh.wikipedia.org/wiki/克里斯蒂娜·阿奎莱拉 "wikilink")2010年电影《[Burlesque](https://zh.wikipedia.org/wiki/Burlesque "wikilink")》（滑稽戏）而录制的歌曲"Nasty"将作为洛特新专辑的首单发行出来。
 
-宣传单曲"Heart Cry"的MV公开于2013年12月17日。二单"Lay Me
-Down"于2014年7月27日在电子音乐零售商店公开发行。
+宣传单曲"Heart Cry"的MV公开于2013年12月17日。二单"Lay Me Down"于2014年7月27日在电子音乐零售商店公开发行。
 
 ## 歌曲列表
 

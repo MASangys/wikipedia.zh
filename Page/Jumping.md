@@ -1,6 +1,4 @@
-「**Jumping**」是[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")4張[迷你专辑](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")，2010年11月10日由DSP
-Media發售；**Jumpin**」（）同时也是[KARA的第二张日本单曲](https://zh.wikipedia.org/wiki/KARA "wikilink")，2010年11月10日由[UNIVERSAL
-SIGMA發售](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。
+「**Jumping**」是[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")4張[迷你专辑](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")，2010年11月10日由DSP Media發售；**Jumpin**」（）同时也是[KARA的第二张日本单曲](https://zh.wikipedia.org/wiki/KARA "wikilink")，2010年11月10日由[UNIVERSAL SIGMA發售](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。
 
 ## 迷你专辑
 
@@ -36,5 +34,4 @@ SIGMA發售](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")。
 2.  **ジャンピン (Dance Shot Ver.)** 只限初回盤A收錄
 3.  **ジャンピン (Music Clipオフショット)** 只限初回盤A收錄
 
-[Category:KARA歌曲](https://zh.wikipedia.org/wiki/Category:KARA歌曲 "wikilink")
-[Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
+[Category:KARA歌曲](https://zh.wikipedia.org/wiki/Category:KARA歌曲 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")

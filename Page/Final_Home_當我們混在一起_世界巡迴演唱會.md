@@ -1,4 +1,4 @@
-是[臺灣](../Page/臺灣.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")第一次舉行的世界巡迴演唱會。2004年12月25日於臺灣[台南市進行首場演出](https://zh.wikipedia.org/wiki/台南市 "wikilink")。
+是[臺灣](../Page/臺灣.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[五月天](../Page/五月天.md "wikilink")的第五次大型演唱會，亦是他們第一次舉行的世界巡迴演唱會。2004年12月25日於臺灣[台南市進行首場演出](https://zh.wikipedia.org/wiki/台南市 "wikilink")，並於2006年7月23日在[台北市畫下句點](https://zh.wikipedia.org/wiki/台北市 "wikilink")。
 
 ## 製作
 
@@ -59,6 +59,7 @@
 <table>
 <tbody>
 <tr class="odd">
+<td><p>場次</p></td>
 <td><p>日期</p></td>
 <td><p>城市</p></td>
 <td><p>國家/地區</p></td>
@@ -73,8 +74,10 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>1</p></td>
 <td><p>2004年12月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台南市" title="wikilink">台南市</a></p></td>
 <td><p><a href="../Page/中華民國.md" title="wikilink">中華民國</a>（<a href="../Page/臺灣.md" title="wikilink">臺灣</a>）</p></td>
@@ -89,8 +92,10 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>2</p></td>
 <td><p>2005年1月8日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a></p></td>
 <td><p><a href="../Page/中華民國.md" title="wikilink">中華民國</a>（<a href="../Page/臺灣.md" title="wikilink">臺灣</a>）</p></td>
@@ -99,14 +104,16 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>3</p></td>
 <td><p>2005年2月19日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p><a href="../Page/梁靜茹.md" title="wikilink">梁靜茹</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>4</p></td>
 <td><p>2005年2月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聖荷西" title="wikilink">聖荷西</a></p></td>
 <td></td>
@@ -115,6 +122,7 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>5</p></td>
 <td><p>2005年3月19日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台中市" title="wikilink">台中市</a></p></td>
 <td><p><a href="../Page/中華民國.md" title="wikilink">中華民國</a>（<a href="../Page/臺灣.md" title="wikilink">臺灣</a>）</p></td>
@@ -123,22 +131,26 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>6</p></td>
 <td><p>2005年10月22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/虹口足球場" title="wikilink">虹口足球場</a></p></td>
-<td><p><a href="../Page/蔡依林.md" title="wikilink">蔡依林</a> [1]</p></td>
+<td><p><a href="../Page/Energy.md" title="wikilink">Energy</a> [1]<br />
+<a href="../Page/蔡依林.md" title="wikilink">蔡依林</a> [2]</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>7</p></td>
 <td><p>2005年11月5日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/北京工人體育場" title="wikilink">工人體育館</a></p></td>
-<td></td>
+<td><p><a href="../Page/李宗盛.md" title="wikilink">李宗盛</a></p></td>
 <td><p>鼓手冠佑向女友求婚成功</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>8</p></td>
 <td><p>2005年12月10日</p></td>
 <td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a></p></td>
 <td></td>
@@ -153,16 +165,19 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>9</p></td>
 <td><p>2006年1月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/成都" title="wikilink">成都</a></p></td>
 <td></td>
 <td><p>四川省體育館</p></td>
-<td></td>
+<td><p><a href="../Page/陳綺貞.md" title="wikilink">陳綺貞</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>10</p></td>
 <td><p>2006年1月14日</p></td>
 <td><p><a href="../Page/吉隆坡.md" title="wikilink">吉隆坡</a></p></td>
 <td></td>
@@ -171,6 +186,7 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>11</p></td>
 <td><p>2006年1月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大阪" title="wikilink">大阪</a></p></td>
 <td></td>
@@ -179,23 +195,36 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>12</p></td>
 <td><p>2006年5月1日</p></td>
 <td><p><a href="../Page/香港.md" title="wikilink">香港</a></p></td>
 <td></td>
 <td><p><a href="../Page/香港體育館.md" title="wikilink">香港體育館</a></p></td>
-<td></td>
+<td><p>陳綺貞<br />
+<a href="https://zh.wikipedia.org/wiki/周華健" title="wikilink">周華健</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>13</p></td>
 <td><p>2006年7月22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a></p></td>
 <td><p><a href="../Page/中華民國.md" title="wikilink">中華民國</a>（<a href="../Page/臺灣.md" title="wikilink">臺灣</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/臺北小巨蛋" title="wikilink">臺北小巨蛋</a></p></td>
+<td><p>Energy</p></td>
 <td><p>Final Final Home</p></td>
-<td></td>
 </tr>
 <tr class="even">
+<td><p>14</p></td>
 <td><p>2006年7月23日</p></td>
+<td><p><a href="../Page/王力宏.md" title="wikilink">王力宏</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -216,10 +245,7 @@
 
 [分類:五月天](https://zh.wikipedia.org/wiki/分類:五月天 "wikilink")
 
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
-[Category:五月天巡迴演唱會](https://zh.wikipedia.org/wiki/Category:五月天巡迴演唱會 "wikilink")
-[Category:2004年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2004年巡迴演唱會 "wikilink")
-[Category:2005年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2005年巡迴演唱會 "wikilink")
-[Category:2006年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2006年巡迴演唱會 "wikilink")
+[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink") [Category:五月天巡迴演唱會](https://zh.wikipedia.org/wiki/Category:五月天巡迴演唱會 "wikilink") [Category:2004年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2004年巡迴演唱會 "wikilink") [Category:2005年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2005年巡迴演唱會 "wikilink") [Category:2006年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2006年巡迴演唱會 "wikilink")
 
 1.
+2.

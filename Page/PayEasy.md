@@ -4,10 +4,8 @@
 
 ## 大事記
 
-  - 2000年3月：於[台新金控內部創業成立](https://zh.wikipedia.org/wiki/台新金控 "wikilink")「PaySafe」康迅生活科技和「Daily
-    Net」達利生活科技兩家公司，分別經營網路安全交易平台服務和網路B2C電子商務。
-  - 2001年10月：達利生活科技公司結束經營，康迅生活科技改名為「康迅數位整合」，同時英文名稱更名為「PayEasy」，
-    同時調整營業方向為[台新銀行紅利積點兌換電子化平台](https://zh.wikipedia.org/wiki/台新銀行 "wikilink")。\[1\]
+  - 2000年3月：於[台新金控內部創業成立](https://zh.wikipedia.org/wiki/台新金控 "wikilink")「PaySafe」康迅生活科技和「Daily Net」達利生活科技兩家公司，分別經營網路安全交易平台服務和網路B2C電子商務。
+  - 2001年10月：達利生活科技公司結束經營，康迅生活科技改名為「康迅數位整合」，同時英文名稱更名為「PayEasy」， 同時調整營業方向為[台新銀行紅利積點兌換電子化平台](https://zh.wikipedia.org/wiki/台新銀行 "wikilink")。\[1\]
   - 2001年11月：由台新銀行紅利積點兌換平台轉入電子商務領域，初期以女性飾品為主力。\[2\]\[3\]
   - 2002年3月：會計帳上首度出現盈餘。
   - 2002年4月：PayEasy員工遊歷[九二一大地震災後重建中的](https://zh.wikipedia.org/wiki/九二一大地震 "wikilink")[南投縣](../Page/南投縣.md "wikilink")[信義鄉](https://zh.wikipedia.org/wiki/信義鄉_\(臺灣\) "wikilink")，開始協助信義鄉梅農利用網路銷售梅子醃漬產品，成為「關懷台灣」系列公益活動的開端。
@@ -32,10 +30,7 @@
   - [PayEasy線上購物：消費生活好幫手、全國最大企業福利網](http://www.payeasy.com.tw/index.shtml)
 
   -
-[Category:台灣網站](https://zh.wikipedia.org/wiki/Category:台灣網站 "wikilink")
-[Category:台新金控](https://zh.wikipedia.org/wiki/Category:台新金控 "wikilink")
-[Category:2000年成立的公司](https://zh.wikipedia.org/wiki/Category:2000年成立的公司 "wikilink")
-[Category:總部位於臺北市中正區的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於臺北市中正區的工商業機構 "wikilink")
+[Category:台灣網站](https://zh.wikipedia.org/wiki/Category:台灣網站 "wikilink") [Category:台新金控](https://zh.wikipedia.org/wiki/Category:台新金控 "wikilink") [Category:2000年成立的公司](https://zh.wikipedia.org/wiki/Category:2000年成立的公司 "wikilink") [Category:總部位於臺北市中正區的工商業機構](https://zh.wikipedia.org/wiki/Category:總部位於臺北市中正區的工商業機構 "wikilink")
 
 1.
 2.

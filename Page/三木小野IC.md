@@ -13,10 +13,8 @@
 
 ## 歷史
 
-  - 1996年11月14日 -
-    [山陽自動車道](../Page/山陽自動車道.md "wikilink")[神戶JCT至三木小野IC之間開通](https://zh.wikipedia.org/wiki/神戶JCT "wikilink")，此交流道也同時啟用。
-  - 1997年12月10日 -
-    山陽自動車道三木小野IC至[山陽姬路東IC之間開通](https://zh.wikipedia.org/wiki/山陽姬路東IC "wikilink")。
+  - 1996年11月14日 - [山陽自動車道](../Page/山陽自動車道.md "wikilink")[神戶JCT至三木小野IC之間開通](https://zh.wikipedia.org/wiki/神戶JCT "wikilink")，此交流道也同時啟用。
+  - 1997年12月10日 - 山陽自動車道三木小野IC至[山陽姬路東IC之間開通](https://zh.wikipedia.org/wiki/山陽姬路東IC "wikilink")。
 
 ## 交流道周邊
 
@@ -26,11 +24,7 @@
 ## 鄰近設施
 
   - [山陽自動車道](../Page/山陽自動車道.md "wikilink")
-    (3)[三木東IC](../Page/三木東IC.md "wikilink") -
-    [三木SA](https://zh.wikipedia.org/wiki/三木SA "wikilink") -
-    (4)**三木小野IC** -
-    [權現湖PA](https://zh.wikipedia.org/wiki/權現湖PA "wikilink")
-    - (5)[加古川北IC](https://zh.wikipedia.org/wiki/加古川北IC "wikilink")
+    (3)[三木東IC](../Page/三木東IC.md "wikilink") - [三木SA](https://zh.wikipedia.org/wiki/三木SA "wikilink") - (4)**三木小野IC** - [權現湖PA](https://zh.wikipedia.org/wiki/權現湖PA "wikilink") - (5)[加古川北IC](https://zh.wikipedia.org/wiki/加古川北IC "wikilink")
 
 ## 相關項目
 
@@ -40,5 +34,4 @@
 
   - [西日本高速道路株式會社](http://www.w-nexco.co.jp/)
 
-[Category:日本交流道_Mi](https://zh.wikipedia.org/wiki/Category:日本交流道_Mi "wikilink")
-[Category:兵庫縣交流道](https://zh.wikipedia.org/wiki/Category:兵庫縣交流道 "wikilink")
+[Category:日本交流道_Mi](https://zh.wikipedia.org/wiki/Category:日本交流道_Mi "wikilink") [Category:兵庫縣交流道](https://zh.wikipedia.org/wiki/Category:兵庫縣交流道 "wikilink")

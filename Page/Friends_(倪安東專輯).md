@@ -174,13 +174,7 @@
 
 </div>
 
-[Category:倪安東音樂專輯](https://zh.wikipedia.org/wiki/Category:倪安東音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
+[Category:倪安東音樂專輯](https://zh.wikipedia.org/wiki/Category:倪安東音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
 
-1.  [倪安東 2013全新專輯「Friends」 - Sky
-    Music](http://skymusic.com.hk/?p=42001)，2013年10月10日 (四) 21:10
-    (UTC+8)查閱
-2.  [my903.com - 叱咤樂迷 - 倪安東 -
-    一切都是因為愛](http://www.my903.com/my903/903music/detail.jsp?newsid=3223)，2013年10月23日
-    (三) 17:10 (UTC+8)查閱
+1.  [倪安東 2013全新專輯「Friends」 - Sky Music](http://skymusic.com.hk/?p=42001)，2013年10月10日 (四) 21:10 (UTC+8)查閱
+2.  [my903.com - 叱咤樂迷 - 倪安東 - 一切都是因為愛](http://www.my903.com/my903/903music/detail.jsp?newsid=3223)，2013年10月23日 (三) 17:10 (UTC+8)查閱

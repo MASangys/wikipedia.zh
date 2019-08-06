@@ -1,5 +1,4 @@
-《**FACES
-PLACES**》是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[globe在](https://zh.wikipedia.org/wiki/globe "wikilink")1997年所發行的[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。
+《**FACES PLACES**》是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[globe在](https://zh.wikipedia.org/wiki/globe "wikilink")1997年所發行的[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。
 
 ## 簡介
 
@@ -22,7 +21,4 @@ PLACES**》是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedi
 13. can't stop PIANO SOLO
 14. FACES PLACES REMIX
 
-[Category:Globe音樂專輯](https://zh.wikipedia.org/wiki/Category:Globe音樂專輯 "wikilink")
-[Category:1997年音樂專輯](https://zh.wikipedia.org/wiki/Category:1997年音樂專輯 "wikilink")
-[Category:1997年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1997年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
+[Category:Globe音樂專輯](https://zh.wikipedia.org/wiki/Category:Globe音樂專輯 "wikilink") [Category:1997年音樂專輯](https://zh.wikipedia.org/wiki/Category:1997年音樂專輯 "wikilink") [Category:1997年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1997年Oricon專輯週榜冠軍作品 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")

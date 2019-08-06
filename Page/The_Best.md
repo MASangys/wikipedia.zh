@@ -1,15 +1,8 @@
-**The
-Best**是索尼[PlayStation在日本和亚洲部分地区的廉价类别](https://zh.wikipedia.org/wiki/PlayStation_\(品牌\) "wikilink")。类似的廉价类别还有北美的[Greatest
-Hits](../Page/Greatest_Hits.md "wikilink")、[PAL区](../Page/PAL区.md "wikilink")的以及韩国的。
+**The Best**是索尼[PlayStation在日本和亚洲部分地区的廉价类别](https://zh.wikipedia.org/wiki/PlayStation_\(品牌\) "wikilink")。类似的廉价类别还有北美的[Greatest Hits](../Page/Greatest_Hits.md "wikilink")、[PAL区](../Page/PAL区.md "wikilink")的以及韩国的。
 
-在初代[PlayStation](../Page/PlayStation.md "wikilink")中，当[PSone](https://zh.wikipedia.org/wiki/PSone "wikilink")2000年发行时，Best版为**PSone
-Books**名义。此标签下的游戏皆为廉价再次发行的畅销游戏。以PSone
-Book标签发行的游戏和其他PlayStation游戏不同，使用的是小。游戏说明书通常置于包装盒以外，并和光盘盒封装在包装塑料中。碟中收录的游戏通常为原版零售游戏，但少量作品有修正错误。PSone
-Books一直销售到2006年下半年。
+在初代[PlayStation](../Page/PlayStation.md "wikilink")中，当[PSone](https://zh.wikipedia.org/wiki/PSone "wikilink")2000年发行时，Best版为**PSone Books**名义。此标签下的游戏皆为廉价再次发行的畅销游戏。以PSone Book标签发行的游戏和其他PlayStation游戏不同，使用的是小。游戏说明书通常置于包装盒以外，并和光盘盒封装在包装塑料中。碟中收录的游戏通常为原版零售游戏，但少量作品有修正错误。PSone Books一直销售到2006年下半年。
 
-第一个[PlayStation 3](../Page/PlayStation_3.md "wikilink") The
-Best作品2008年3月19日发行\[1\]。但《[装甲核心4](https://zh.wikipedia.org/wiki/装甲核心4 "wikilink")》在之前的2008年1月10日以Best
-Collection名义再版\[2\]。
+第一个[PlayStation 3](../Page/PlayStation_3.md "wikilink") The Best作品2008年3月19日发行\[1\]。但《[装甲核心4](https://zh.wikipedia.org/wiki/装甲核心4 "wikilink")》在之前的2008年1月10日以Best Collection名义再版\[2\]。
 
 ## 官方The Best作品列表
 
@@ -444,11 +437,9 @@ Collection名义再版\[2\]。
 
   - [GT賽車2](../Page/GT賽車2.md "wikilink")
 
-  - [HUNTER×HUNTER
-    〜视觉贪婪之岛〜](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")
+  - [HUNTER×HUNTER 〜视觉贪婪之岛〜](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")
 
-  - [HUNTER×HUNTER
-    〜剥夺光环石〜](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")
+  - [HUNTER×HUNTER 〜剥夺光环石〜](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")
 
   -
   -
@@ -464,8 +455,7 @@ Collection名义再版\[2\]。
   -
   - [V拉力 Championship Edition](../Page/V拉力.md "wikilink")
 
-  - [V拉力 Championship Edition
-    2](https://zh.wikipedia.org/wiki/V拉力2 "wikilink")
+  - [V拉力 Championship Edition 2](https://zh.wikipedia.org/wiki/V拉力2 "wikilink")
 
   -
   -
@@ -534,8 +524,7 @@ Collection名义再版\[2\]。
   -
   - [圣剑传说 玛娜传奇](../Page/圣剑传说_玛娜传奇.md "wikilink")
 
-  - [声音新颖的进化3:
-    城市的路口〜命运〜](https://zh.wikipedia.org/wiki/街_\(遊戲\) "wikilink")
+  - [声音新颖的进化3: 城市的路口〜命运〜](https://zh.wikipedia.org/wiki/街_\(遊戲\) "wikilink")
 
   - [复活节 - 睡眠赤川次郎女巫 -](../Page/赤川次郎.md "wikilink")
 
@@ -593,14 +582,11 @@ Collection名义再版\[2\]。
 
   - [心跳回忆对战益智达马2](../Page/心跳回忆_\(游戏\).md "wikilink")
 
-  - [心跳回憶 Drama Series Vol.1
-    虹色青春](../Page/心跳回憶_Drama_Series.md "wikilink")
+  - [心跳回憶 Drama Series Vol.1 虹色青春](../Page/心跳回憶_Drama_Series.md "wikilink")
 
-  - [心跳回憶 Drama Series Vol.2
-    彩之戀曲](../Page/心跳回憶_Drama_Series.md "wikilink")
+  - [心跳回憶 Drama Series Vol.2 彩之戀曲](../Page/心跳回憶_Drama_Series.md "wikilink")
 
-  - [心跳回憶 Drama Series Vol.3
-    啟程之詩](../Page/心跳回憶_Drama_Series.md "wikilink")
+  - [心跳回憶 Drama Series Vol.3 啟程之詩](../Page/心跳回憶_Drama_Series.md "wikilink")
 
   - [恶魔召唤师灵魂黑客](../Page/女神異聞錄系列.md "wikilink")
 
@@ -675,8 +661,7 @@ Collection名义再版\[2\]。
 
   - [炸弹人幻想赛](../Page/炸弹人系列.md "wikilink")
 
-  - [牧場物語 中秋滿月 for
-    girl](https://zh.wikipedia.org/wiki/牧場物語系列 "wikilink")
+  - [牧場物語 中秋滿月 for girl](https://zh.wikipedia.org/wiki/牧場物語系列 "wikilink")
 
   - [狂野歷險](../Page/狂野歷險_\(遊戲\).md "wikilink")
 
@@ -753,8 +738,7 @@ Collection名义再版\[2\]。
   -
 ### PlayStation 2
 
-  - [Ace Combat
-    04](https://zh.wikipedia.org/wiki/Ace_Combat_04 "wikilink")
+  - [Ace Combat 04](https://zh.wikipedia.org/wiki/Ace_Combat_04 "wikilink")
 
   -
   -
@@ -771,8 +755,7 @@ Collection名义再版\[2\]。
   -
   -
   -
-  - [Crash Bandicoot: The Wrath of
-    Cortex](https://zh.wikipedia.org/wiki/Crash_Bandicoot:_The_Wrath_of_Cortex "wikilink")
+  - [Crash Bandicoot: The Wrath of Cortex](https://zh.wikipedia.org/wiki/Crash_Bandicoot:_The_Wrath_of_Cortex "wikilink")
 
   -
   -
@@ -788,12 +771,10 @@ Collection名义再版\[2\]。
   -
   -
   -
-  - [Everybody's Golf
-    4](https://zh.wikipedia.org/wiki/Everybody's_Golf_4 "wikilink")
+  - [Everybody's Golf 4](https://zh.wikipedia.org/wiki/Everybody's_Golf_4 "wikilink")
 
   -
-  - [Fatal Frame II: Crimson
-    Butterfly](https://zh.wikipedia.org/wiki/Fatal_Frame_II:_Crimson_Butterfly "wikilink")
+  - [Fatal Frame II: Crimson Butterfly](https://zh.wikipedia.org/wiki/Fatal_Frame_II:_Crimson_Butterfly "wikilink")
 
   -
   -
@@ -838,8 +819,7 @@ Collection名义再版\[2\]。
   - [拉捷特與克拉克](https://zh.wikipedia.org/wiki/拉捷特與克拉克 "wikilink")
 
   -
-  - [Ratchet & Clank
-    3](https://zh.wikipedia.org/wiki/Ratchet_&_Clank:_Up_Your_Arsenal "wikilink")
+  - [Ratchet & Clank 3](https://zh.wikipedia.org/wiki/Ratchet_&_Clank:_Up_Your_Arsenal "wikilink")
 
   -
   -
@@ -848,11 +828,9 @@ Collection名义再版\[2\]。
 
   - [人中之龍2](../Page/人中之龍2.md "wikilink")
 
-  - [Sengoku Basara
-    2](https://zh.wikipedia.org/wiki/Sengoku_Basara_2 "wikilink")
+  - [Sengoku Basara 2](https://zh.wikipedia.org/wiki/Sengoku_Basara_2 "wikilink")
 
-  - [Sengoku Basara 2:
-    Heroes](https://zh.wikipedia.org/wiki/Sengoku_Basara_2:_Heroes "wikilink")
+  - [Sengoku Basara 2: Heroes](https://zh.wikipedia.org/wiki/Sengoku_Basara_2:_Heroes "wikilink")
 
   - [闇影之心II](https://zh.wikipedia.org/wiki/闇影之心II "wikilink")
 
@@ -871,8 +849,7 @@ Collection名义再版\[2\]。
 
   - [超級機器人大戰](https://zh.wikipedia.org/wiki/超級機器人大戰 "wikilink")
 
-  - [Super Robot Wars Alpha
-    2](https://zh.wikipedia.org/wiki/2nd_Super_Robot_Wars_Alpha "wikilink")
+  - [Super Robot Wars Alpha 2](https://zh.wikipedia.org/wiki/2nd_Super_Robot_Wars_Alpha "wikilink")
 
   -
   - [死魂曲](../Page/死魂曲.md "wikilink")
@@ -961,8 +938,7 @@ Collection名义再版\[2\]。
   -
   -
   -
-  - [Ape Escape
-    Racing](https://zh.wikipedia.org/wiki/Ape_Escape_Racing "wikilink")
+  - [Ape Escape Racing](https://zh.wikipedia.org/wiki/Ape_Escape_Racing "wikilink")
 
   -
   -
@@ -1000,11 +976,9 @@ Collection名义再版\[2\]。
   -
   -
   -
-  - [Metal Gear
-    Acid](https://zh.wikipedia.org/wiki/Metal_Gear_Acid "wikilink")
+  - [Metal Gear Acid](https://zh.wikipedia.org/wiki/Metal_Gear_Acid "wikilink")
 
-  - [Metal Gear Acid
-    2](https://zh.wikipedia.org/wiki/Metal_Gear_Acid_2 "wikilink")
+  - [Metal Gear Acid 2](https://zh.wikipedia.org/wiki/Metal_Gear_Acid_2 "wikilink")
 
   - [潛龍諜影 掌上行動](../Page/潛龍諜影_掌上行動.md "wikilink")
 
@@ -1046,11 +1020,9 @@ Collection名义再版\[2\]。
   -
   -
   -
-  - [Winning Eleven 9: Ubiquitous
-    Evolution](https://zh.wikipedia.org/wiki/Winning_Eleven_9 "wikilink")
+  - [Winning Eleven 9: Ubiquitous Evolution](https://zh.wikipedia.org/wiki/Winning_Eleven_9 "wikilink")
 
-  - [Winning Eleven 10: Ubiquitous
-    Evolution](https://zh.wikipedia.org/wiki/Winning_Eleven_10 "wikilink")
+  - [Winning Eleven 10: Ubiquitous Evolution](https://zh.wikipedia.org/wiki/Winning_Eleven_10 "wikilink")
 
 ### PlayStation Vita
 
@@ -1060,13 +1032,11 @@ Collection名义再版\[2\]。
   -
   -
   -
-  - [Everybody's Golf
-    6](https://zh.wikipedia.org/wiki/Everybody's_Golf_6 "wikilink")
+  - [Everybody's Golf 6](https://zh.wikipedia.org/wiki/Everybody's_Golf_6 "wikilink")
 
   - [God Eater 2](https://zh.wikipedia.org/wiki/God_Eater_2 "wikilink")
 
-  - [Gravity
-    Rush](https://zh.wikipedia.org/wiki/Gravity_Rush "wikilink")
+  - [Gravity Rush](https://zh.wikipedia.org/wiki/Gravity_Rush "wikilink")
 
   -
   -
@@ -1077,8 +1047,7 @@ Collection名义再版\[2\]。
   - [閃亂神樂 忍者對決 -少女們的証明-](../Page/閃亂神樂_-少女們的真影-.md "wikilink")
 
   -
-  - [Soul
-    Sacrifice](https://zh.wikipedia.org/wiki/Soul_Sacrifice_\(video_game\) "wikilink")
+  - [Soul Sacrifice](https://zh.wikipedia.org/wiki/Soul_Sacrifice_\(video_game\) "wikilink")
 
   - [純真傳奇](../Page/純真傳奇.md "wikilink")R
 
@@ -1092,25 +1061,17 @@ Collection名义再版\[2\]。
 
 ## 外部链接
 
-  - [Official PlayStation the Best
-    list](http://www.jp.playstation.com/scej/title/list/list_ps_best.html)
-  - [Official PlayStation the Best for Family
-    list](http://www.jp.playstation.com/scej/title/list/list_ps_family.html)
-  - [Official PSone Books
-    list](https://web.archive.org/web/20131221025323/http://www.scei.co.jp/corporate/info/psonebooks.html)
-  - [Official PlayStation 2 the Best
-    list](http://www.jp.playstation.com/ps2/ps2thebest/index.html)
-  - [Official PSP the Best
-    list](http://www.jp.playstation.com/psp/pspthebest/index.html)
-  - [Official PlayStation 3 the Best
-    list](http://www.jp.playstation.com/ps3/ps3thebest/)
+  - [Official PlayStation the Best list](http://www.jp.playstation.com/scej/title/list/list_ps_best.html)
+  - [Official PlayStation the Best for Family list](http://www.jp.playstation.com/scej/title/list/list_ps_family.html)
+  - [Official PSone Books list](https://web.archive.org/web/20131221025323/http://www.scei.co.jp/corporate/info/psonebooks.html)
+  - [Official PlayStation 2 the Best list](http://www.jp.playstation.com/ps2/ps2thebest/index.html)
+  - [Official PSP the Best list](http://www.jp.playstation.com/psp/pspthebest/index.html)
+  - [Official PlayStation 3 the Best list](http://www.jp.playstation.com/ps3/ps3thebest/)
 
 [Category:PlayStation](https://zh.wikipedia.org/wiki/Category:PlayStation "wikilink")
 
-1.  [PlayStation 3 the
-    Best](http://www.jp.playstation.com/ps3/ps3thebest/)
-2.  [アーマード・コア 4 (The Best
-    Collection)](http://www.amazon.co.jp/dp/B000YEIM8O/)
+1.  [PlayStation 3 the Best](http://www.jp.playstation.com/ps3/ps3thebest/)
+2.  [アーマード・コア 4 (The Best Collection)](http://www.amazon.co.jp/dp/B000YEIM8O/)
 3.
 4.  <http://www.jp.playstation.com/software/title/slps91192.html>
 5.

@@ -2,8 +2,7 @@
 
 ## 經歷
 
-三岁时开始学习钢琴，大学时候受到[茅原实里的影响](https://zh.wikipedia.org/wiki/茅原实里 "wikilink")，决心成为一名歌手。但是，参加的试镜无一成功。初中时代曾沉迷于诸如[MONGOL800](../Page/MONGOL800.md "wikilink")，[GOING
-STEADY](https://ja.wikipedia.org/wiki/GOING_STEADY)等摇滚乐队中，所以自学了[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")，[音乐理论和](https://zh.wikipedia.org/wiki/音乐理论 "wikilink")[音乐学](../Page/音乐学.md "wikilink")。另外，ZAQ曾经在[NICONICO作为一名歌手工作过](https://zh.wikipedia.org/wiki/NICONICO "wikilink")。
+三岁时开始学习钢琴，大学时候受到[茅原实里的影响](https://zh.wikipedia.org/wiki/茅原实里 "wikilink")，决心成为一名歌手。但是，参加的试镜无一成功。初中时代曾沉迷于诸如[MONGOL800](../Page/MONGOL800.md "wikilink")，[GOING STEADY](https://ja.wikipedia.org/wiki/GOING_STEADY)等摇滚乐队中，所以自学了[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")，[音乐理论和](https://zh.wikipedia.org/wiki/音乐理论 "wikilink")[音乐学](../Page/音乐学.md "wikilink")。另外，ZAQ曾经在[NICONICO作为一名歌手工作过](https://zh.wikipedia.org/wiki/NICONICO "wikilink")。
 
 ## 唱片
 
@@ -234,10 +233,8 @@ EYCA-10096（CD）</p></td>
 
   - [天才麻將少女 阿知賀篇 episode of side-A](../Page/咲-Saki-.md "wikilink")
       - 高鴨穏乃（[悠木碧](../Page/悠木碧.md "wikilink")）、新子憧（[東山奈央](../Page/東山奈央.md "wikilink")）、松実玄（[花澤香菜](../Page/花澤香菜.md "wikilink")）、松実宥（[MAKO](https://zh.wikipedia.org/wiki/MAKO "wikilink")）、鷺森灼（[内山夕實](https://zh.wikipedia.org/wiki/内山夕實 "wikilink")）「SquarePanicSerenade」（作詞・作曲・編曲）
-      - [橋本みゆき](https://zh.wikipedia.org/wiki/橋本みゆき "wikilink")「Futuristic
-        Player」（作詞・作曲・編曲）
-      - 高鴨穏乃（悠木碧）「YES\!\!READY to PLAY」「まじかる☆まーじゃん☆わーるど
-        ver.穏乃」（作詞・作曲・編曲）
+      - [橋本みゆき](https://zh.wikipedia.org/wiki/橋本みゆき "wikilink")「Futuristic Player」（作詞・作曲・編曲）
+      - 高鴨穏乃（悠木碧）「YES\!\!READY to PLAY」「まじかる☆まーじゃん☆わーるど ver.穏乃」（作詞・作曲・編曲）
       - 新子憧（東山奈央）「Live A-Life」「まじかる☆まーじゃん☆わーるど ver.憧」（作詞・作曲・編曲）
       - 松実玄（花澤香菜）「Dragon Magic」「まじかる☆まーじゃん☆わーるど ver.玄」（作詞・作曲・編曲）
       - 松実宥（MAKO）「」「まじかる☆まーじゃん☆わーるど ver.宥」（作詞・作曲・編曲）
@@ -251,17 +248,13 @@ EYCA-10096（CD）</p></td>
   - [美少女死神 還我H之魂！](../Page/美少女死神_還我H之魂！.md "wikilink")
       - [佐咲紗花](../Page/佐咲紗花.md "wikilink")「Reason why XXX」（作詞・作曲）
   - [中二病也想談戀愛！](../Page/中二病也想談戀愛！.md "wikilink")
-      - Black Raison
-        d'être（[内田真礼](https://zh.wikipedia.org/wiki/内田真礼 "wikilink")、[赤﨑千夏](../Page/赤崎千夏.md "wikilink")、[浅倉杏美](https://zh.wikipedia.org/wiki/浅倉杏美 "wikilink")、[上坂堇](../Page/上坂堇.md "wikilink")）「INSIDE
-        IDENTITY」「OUTSIDER」（作詞・作曲・編曲）
+      - Black Raison d'être（[内田真礼](https://zh.wikipedia.org/wiki/内田真礼 "wikilink")、[赤﨑千夏](../Page/赤崎千夏.md "wikilink")、[浅倉杏美](https://zh.wikipedia.org/wiki/浅倉杏美 "wikilink")、[上坂堇](../Page/上坂堇.md "wikilink")）「INSIDE IDENTITY」「OUTSIDER」（作詞・作曲・編曲）
       - 小鳥遊六花（内田真礼）「覚醒ラグナロク -暗黒黙示録-」（作詞・作曲・編曲）
       - 丹生谷森夏（赤﨑千夏）「でいなばよって☆マサリモ」（作詞・作曲・編曲）
       - 五月七日くみん（浅倉杏美）「ひるねぶ Diary」（作詞・作曲・編曲）
       - 凸守早苗（上坂すみれ）「Dark Death Decoration」（作詞・作曲・編曲）
   - [中二病也想談戀愛！ 戀](../Page/中二病也想談戀愛！.md "wikilink")
-      - Black Raison
-        d'être（[内田真礼](https://zh.wikipedia.org/wiki/内田真礼 "wikilink")、[赤﨑千夏](../Page/赤崎千夏.md "wikilink")、[浅倉杏美](https://zh.wikipedia.org/wiki/浅倉杏美 "wikilink")、[上坂堇](../Page/上坂堇.md "wikilink")）「Van\!shment
-        Th\!s World」「February Magic」（作詞・作曲・編曲）
+      - Black Raison d'être（[内田真礼](https://zh.wikipedia.org/wiki/内田真礼 "wikilink")、[赤﨑千夏](../Page/赤崎千夏.md "wikilink")、[浅倉杏美](https://zh.wikipedia.org/wiki/浅倉杏美 "wikilink")、[上坂堇](../Page/上坂堇.md "wikilink")）「Van\!shment Th\!s World」「February Magic」（作詞・作曲・編曲）
   - [向陽素描](../Page/向陽素描.md "wikilink")×蜂窩
       - 由乃（[阿澄佳奈](../Page/阿澄佳奈.md "wikilink")）、宮子（[水橋かおり](https://zh.wikipedia.org/wiki/水橋かおり "wikilink")）、尋（[後藤邑子](../Page/後藤邑子.md "wikilink")）、沙英（[新谷良子](../Page/新谷良子.md "wikilink")）、乃莉（[原田瞳](../Page/原田瞳.md "wikilink")）、小薺（[小見川千明](../Page/小見川千明.md "wikilink")）「おーぷん☆きゃんばす」（作詞・作曲）
   - [未来日記](https://zh.wikipedia.org/wiki/未来日記_\(漫画\) "wikilink")
@@ -272,8 +265,7 @@ EYCA-10096（CD）</p></td>
       - Judgmentじゃ！（作詞・作曲・編曲）
   - [悠悠哉哉少女日和](../Page/悠悠哉哉少女日和.md "wikilink")
       - 宮內蓮華（[小岩井小鳥](../Page/小岩井小鳥.md "wikilink")）、一條螢（[村川梨衣](../Page/村川梨衣.md "wikilink")）、越谷夏海（[佐倉綾音](https://zh.wikipedia.org/wiki/佐倉綾音 "wikilink")）、越谷小鞠（[阿澄佳奈](../Page/阿澄佳奈.md "wikilink")）「のんのん日和」（作詞・作曲）
-  - [LoveLive\!
-    學園偶像電影](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像電影 "wikilink")
+  - [LoveLive\! 學園偶像電影](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像電影 "wikilink")
       - [μ's](https://zh.wikipedia.org/wiki/μ's "wikilink")“”（作曲）
   - [奏響吧！上低音號](https://zh.wikipedia.org/wiki/吹響吧！上低音號～歡迎加入北宇治高中管樂團～ "wikilink")
       - 北宇治四重奏（黃前久美子（[黑澤朋世](../Page/黑澤朋世.md "wikilink")）、加藤葉月（[朝井彩加](../Page/朝井彩加.md "wikilink")）、川島綠輝（[豐田萌繪](../Page/豐田萌繪.md "wikilink")）、高坂麗奈（[安濟知佳](../Page/安濟知佳.md "wikilink")）
@@ -295,8 +287,7 @@ EYCA-10096（CD）</p></td>
 #### 遊戲
 
   - [偶像大師 百萬人演唱會！](../Page/偶像大師_百萬人演唱會！.md "wikilink")
-      - 野野原茜（[小笠原早紀](../Page/小笠原早紀.md "wikilink")）、大神環（[稻川英里](../Page/稻川英里.md "wikilink")）、箱崎星梨花（[麻倉桃](../Page/麻倉桃.md "wikilink")）「Sweet
-        Sweet Soul」（作詞）
+      - 野野原茜（[小笠原早紀](../Page/小笠原早紀.md "wikilink")）、大神環（[稻川英里](../Page/稻川英里.md "wikilink")）、箱崎星梨花（[麻倉桃](../Page/麻倉桃.md "wikilink")）「Sweet Sweet Soul」（作詞）
 
 ## 參考資料
 
@@ -306,9 +297,6 @@ EYCA-10096（CD）</p></td>
 
   -
   -
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:日本作詞家](https://zh.wikipedia.org/wiki/Category:日本作詞家 "wikilink")
-[Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
+[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本作詞家](https://zh.wikipedia.org/wiki/Category:日本作詞家 "wikilink") [Category:日本作曲家](https://zh.wikipedia.org/wiki/Category:日本作曲家 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
 
 1.

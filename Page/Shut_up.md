@@ -16,42 +16,31 @@
 
 这句话可能增加[咒骂缀](https://zh.wikipedia.org/wiki/咒骂缀 "wikilink")，使这句话更有力，其中包括“****”以及“****”。\[4\]****的“heck”可取代较攻击性的咒骂缀。在即时消息通讯中，这些往往分别被缩写成****和****。类似的短语包括“****”与“****”或者“****”与“****”（通常较少攻击性）。\[5\]另一个常见的变异是“****”（闭上你的嘴），有时以传达相似意思的另一个词来取代“”（嘴巴）这个词，如头、\[6\]脸、\[7\]牙齿、\[8\]、\[9\]（废话）、\[10\]（脸颊）、\[11\]、\[12\]（英国\[13\]\[14\]及新西兰\[15\]等地）、（美国\[16\]）或者古语。\[17\]另一个变异****\[18\]以“”取代嘴巴，使要关闭的某物通过暗示被理解。
 
-更改词的拼法、空格，以及口齿不清产生的变异有：****、****、\[19\]****、\[20\]****\[21\]以及****。\[22\]若按推断，“”是a
-punch in the mouth的别称。\[23\]
+更改词的拼法、空格，以及口齿不清产生的变异有：****、****、\[19\]****、\[20\]****\[21\]以及****。\[22\]若按推断，“”是a punch in the mouth的别称。\[23\]
 
 另一个变异，****，经常被[斯泰西·伦敦](https://zh.wikipedia.org/wiki/斯泰西·伦敦 "wikilink")（）使用。[奧利奧](../Page/奧利奧.md "wikilink")在2011年的一次电视广告也使用这个变异，促使一些家长抗议。\[24\]
 
 ## 参考资料
 
-[Category:俗語](https://zh.wikipedia.org/wiki/Category:俗語 "wikilink")
-[Category:英語熟語](https://zh.wikipedia.org/wiki/Category:英語熟語 "wikilink")
-[Category:欺凌](https://zh.wikipedia.org/wiki/Category:欺凌 "wikilink")
+[Category:俗語](https://zh.wikipedia.org/wiki/Category:俗語 "wikilink") [Category:英語熟語](https://zh.wikipedia.org/wiki/Category:英語熟語 "wikilink") [Category:欺凌](https://zh.wikipedia.org/wiki/Category:欺凌 "wikilink")
 
 1.  Leviticus 13:4 (King James Version).
 
-2.  Sir Henry Irving, Frank Albert Marshall, Edward Dowden, commentary
-    on *The Works of William Shakespeare* (1888), p. 252.
+2.  Sir Henry Irving, Frank Albert Marshall, Edward Dowden, commentary on *The Works of William Shakespeare* (1888), p. 252.
 
-3.  Rudyard Kipling, "The Young British Soldier", in *Barrack-Room
-    Ballads* (1892).
+3.  Rudyard Kipling, "The Young British Soldier", in *Barrack-Room Ballads* (1892).
 
-4.  Eric Partridge, Tom Dalzell, Terry Victor, *The New Partridge
-    Dictionary of Slang and Unconventional English: J-Z* (2006), p.
-    1444-45.
+4.  Eric Partridge, Tom Dalzell, Terry Victor, *The New Partridge Dictionary of Slang and Unconventional English: J-Z* (2006), p. 1444-45.
 
 5.
 6.
-7.  Eric Partridge, Tom Dalzell, Terry Victor, *The Concise New
-    Partridge Dictionary of Slang and Unconventional English* (2007), p.
-    581.
+7.  Eric Partridge, Tom Dalzell, Terry Victor, *The Concise New Partridge Dictionary of Slang and Unconventional English* (2007), p. 581.
 
 8.
 9.
-10. Joseph Melillo, Edward M. Melillo, *American Slang: Cultural
-    Language Guide to Living in the USA* (2004), p. 367.
+10. Joseph Melillo, Edward M. Melillo, *American Slang: Cultural Language Guide to Living in the USA* (2004), p. 367.
 
-11. Iona Archibald Opie, Peter Opie, *The Lore and Language of
-    Schoolchildren* (2001), p. 194.
+11. Iona Archibald Opie, Peter Opie, *The Lore and Language of Schoolchildren* (2001), p. 194.
 
 12.
 13.
@@ -59,12 +48,9 @@ punch in the mouth的别称。\[23\]
 
 15. Louis S. Leland, *A Personal Kiwi-Yankee Dictionary* (1984), p. 20.
 
-16. Eric Partridge, Tom Dalzell, Terry Victor, *The New Partridge
-    Dictionary of Slang and Unconventional English: J-Z* (2006), p.
-    1478.
+16. Eric Partridge, Tom Dalzell, Terry Victor, *The New Partridge Dictionary of Slang and Unconventional English: J-Z* (2006), p. 1478.
 
-17. John Stephen Farmer and W.E. Henley, *Slang and its Analogues Past
-    and Present: Volume 3* (1893), p. 167.
+17. John Stephen Farmer and W.E. Henley, *Slang and its Analogues Past and Present: Volume 3* (1893), p. 167.
 
 18.
 19.

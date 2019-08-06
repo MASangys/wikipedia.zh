@@ -1,5 +1,4 @@
-[Exist_Trace_at_Tekko_X.jpg](https://zh.wikipedia.org/wiki/File:Exist_Trace_at_Tekko_X.jpg "fig:Exist_Trace_at_Tekko_X.jpg")
-**exist†trace**為[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")樂團，全員皆為女性。
+[Exist_Trace_at_Tekko_X.jpg](https://zh.wikipedia.org/wiki/File:Exist_Trace_at_Tekko_X.jpg "fig:Exist_Trace_at_Tekko_X.jpg") **exist†trace**為[日本](../Page/日本.md "wikilink")[視覺系](../Page/視覺系.md "wikilink")樂團，全員皆為女性。
 
 ## 簡歷
 
@@ -99,6 +98,4 @@ exist†trace寫成日文片假名為「」，後來簡單稱呼為「」。 而
   - [猶人官方部落格](http://ameblo.jp/exist-naoto/entry-11430126345.html)
   - [Mally官方twitter](https://twitter.com/existtraceMally)
 
-[Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink")
-[Category:视觉系](https://zh.wikipedia.org/wiki/Category:视觉系 "wikilink")
-[Category:日本重金属乐团](https://zh.wikipedia.org/wiki/Category:日本重金属乐团 "wikilink")
+[Category:2003年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2003年成立的音樂團體 "wikilink") [Category:视觉系](https://zh.wikipedia.org/wiki/Category:视觉系 "wikilink") [Category:日本重金属乐团](https://zh.wikipedia.org/wiki/Category:日本重金属乐团 "wikilink")

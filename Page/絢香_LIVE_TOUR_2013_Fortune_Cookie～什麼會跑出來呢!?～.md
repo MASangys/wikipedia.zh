@@ -1,10 +1,8 @@
-《**絢香 LIVE TOUR 2013 Fortune
-Cookie～什麼會跑出來呢\!?～**》（）為[日本](../Page/日本.md "wikilink")女歌手[絢香](../Page/絢香.md "wikilink")於2014年3月5日發行的影音作品。
+《**絢香 LIVE TOUR 2013 Fortune Cookie～什麼會跑出來呢\!?～**》（）為[日本](../Page/日本.md "wikilink")女歌手[絢香](../Page/絢香.md "wikilink")於2014年3月5日發行的影音作品。
 
 ## 簡介
 
-  - 絢香以專輯《[遊音俱樂部～1st
-    Grade～](../Page/遊音俱樂部～1st_Grade～.md "wikilink")》為主，於2013年9月5日於神戶國際會館展開共19場的「HALL」等級巡迴演唱會，最終場於仙台サンプラザホール畫下句點。
+  - 絢香以專輯《[遊音俱樂部～1st Grade～](../Page/遊音俱樂部～1st_Grade～.md "wikilink")》為主，於2013年9月5日於神戶國際會館展開共19場的「HALL」等級巡迴演唱會，最終場於仙台サンプラザホール畫下句點。
   - 演唱會曲目中翻唱專輯的曲目及順序已定，其他由粉絲們於官方臉書中投票選出。
   - 本作發行「藍光」、「DVD」、「Amazon.co.jp限定藍光」、「Amazon.co.jp限定DVD」、「粉絲俱樂部限定盤DVD」，初回限定盤以透明塑膠盒包裝。
   - 絢香於發行的前一日在全日本7間電影院先行上映本作\[1\]
@@ -55,7 +53,6 @@ Cookie～什麼會跑出來呢\!?～**》（）為[日本](../Page/日本.md "wi
 
 ## 外部連結
 
-[分類:絢香](https://zh.wikipedia.org/wiki/分類:絢香 "wikilink")
-[分類:絢香影音作品](https://zh.wikipedia.org/wiki/分類:絢香影音作品 "wikilink")
+[分類:絢香](https://zh.wikipedia.org/wiki/分類:絢香 "wikilink") [分類:絢香影音作品](https://zh.wikipedia.org/wiki/分類:絢香影音作品 "wikilink")
 
 1.

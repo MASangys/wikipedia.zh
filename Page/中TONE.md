@@ -39,10 +39,8 @@
   - 2012.10.13　新歌派對(澎湖)
   - 2012.12.31　[我陪你跨年派對](https://zh.wikipedia.org/wiki/我陪你跨年派對 "wikilink")(主題曲、MV製作)([澎湖](https://zh.wikipedia.org/wiki/澎湖 "wikilink"))
   - 2012.12.31　[我陪你跨年派對](https://zh.wikipedia.org/wiki/我陪你跨年派對 "wikilink")([澎湖](https://zh.wikipedia.org/wiki/澎湖 "wikilink"))
-  - 2013.01.11　[台南](https://zh.wikipedia.org/wiki/台南 "wikilink")
-    ROOM335(台南)
-  - 2013.01.12　[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")
-    GOGOBAR(高雄)
+  - 2013.01.11　[台南](https://zh.wikipedia.org/wiki/台南 "wikilink") ROOM335(台南)
+  - 2013.01.12　[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink") GOGOBAR(高雄)
   - 2013.02.15　[高雄搖旗吶喊](https://zh.wikipedia.org/wiki/高雄搖旗吶喊 "wikilink")(高雄)
   - 2013.04.04　[正宗春天吶喊音樂節](https://zh.wikipedia.org/wiki/正宗春天吶喊音樂節 "wikilink")(墾丁)
   - 2013.05.25　菊島青年(澎湖)
@@ -60,8 +58,7 @@
   - 2013.11.10　這牆LIVE HOUSE(台北)
   - 2013.12.21　中正路聖誕嘉年華(澎湖)
   - 2013.12.31　[我陪你跨年派對](https://zh.wikipedia.org/wiki/我陪你跨年派對 "wikilink")(澎湖)
-  - 2014.04.25　[大愛電視台](https://zh.wikipedia.org/wiki/大愛電視台 "wikilink")-樂事美聲錄
-    拍攝演出
+  - 2014.04.25　[大愛電視台](https://zh.wikipedia.org/wiki/大愛電視台 "wikilink")-樂事美聲錄 拍攝演出
   - 2016.04.30 澎湖國際海上花火節演出(澎湖)
 
 ## 其他

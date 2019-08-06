@@ -24,12 +24,8 @@ TEM5型机车采用了与[TE109型柴油机车](../Page/TE109型柴油机车.md 
 
 ## 外部链接
 
-  - [1520mm.ru: Тепловоз
-    ТЭМ5](http://www.1520mm.ru/locomotives/diesel/shunting/tem5.phtml)
+  - [1520mm.ru: Тепловоз ТЭМ5](http://www.1520mm.ru/locomotives/diesel/shunting/tem5.phtml)
 
-[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink")
-[Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")
-[Category:布良斯克制铁路机车](https://zh.wikipedia.org/wiki/Category:布良斯克制铁路机车 "wikilink")
-[Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")
+[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink") [Category:布良斯克制铁路机车](https://zh.wikipedia.org/wiki/Category:布良斯克制铁路机车 "wikilink") [Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")
 
 1.

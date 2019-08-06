@@ -1,19 +1,4 @@
-[Nik_&_Jay_-_Niclas_Petersen_and_girl_20100707.jpg](https://zh.wikipedia.org/wiki/File:Nik_&_Jay_-_Niclas_Petersen_and_girl_20100707.jpg "fig:Nik_&_Jay_-_Niclas_Petersen_and_girl_20100707.jpg")
-**Nik & Jay** 是一支来自[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")
-[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink") /
-[说唱](https://zh.wikipedia.org/wiki/说唱 "wikilink") /
-[流行音乐](https://zh.wikipedia.org/wiki/流行音乐 "wikilink")
-/[嘻哈](../Page/嘻哈.md "wikilink")/[饒舌](../Page/饒舌.md "wikilink")[双人组合](https://zh.wikipedia.org/wiki/双人组合 "wikilink")，由Niclas
-Genckel Petersen
-(生于1980年11月8日[Herlev](https://zh.wikipedia.org/wiki/Herlev "wikilink"))
-和Jannik Brandt Thomsen
-(生于1981年6月16日)。他们的第二首单曲*Hot\!*是当年的畅销曲，并为他们赢得2003年[丹麦音乐奖的最佳新人奖](https://zh.wikipedia.org/wiki/Danish_Music_Award "wikilink")。其他畅销歌曲包括*Mod
-solnedgangen* (朝着日落), *Lækker*
-([丹麦语](../Page/丹麦语.md "wikilink")意思是性感Hot), *Kan
-Du Høre Hende Synge?* (Can you hear her sing?你能听到她在唱吗？)
-和*Boing\!*，以及联手[Burhan
-G的](https://zh.wikipedia.org/wiki/Burhan_G "wikilink")"Tættere på
-himlen"（亲近天堂）。
+[Nik_&_Jay_-_Niclas_Petersen_and_girl_20100707.jpg](https://zh.wikipedia.org/wiki/File:Nik_&_Jay_-_Niclas_Petersen_and_girl_20100707.jpg "fig:Nik_&_Jay_-_Niclas_Petersen_and_girl_20100707.jpg") **Nik & Jay** 是一支来自[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink") [R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink") / [说唱](https://zh.wikipedia.org/wiki/说唱 "wikilink") / [流行音乐](https://zh.wikipedia.org/wiki/流行音乐 "wikilink") /[嘻哈](../Page/嘻哈.md "wikilink")/[饒舌](../Page/饒舌.md "wikilink")[双人组合](https://zh.wikipedia.org/wiki/双人组合 "wikilink")，由Niclas Genckel Petersen (生于1980年11月8日[Herlev](https://zh.wikipedia.org/wiki/Herlev "wikilink")) 和Jannik Brandt Thomsen (生于1981年6月16日)。他们的第二首单曲*Hot\!*是当年的畅销曲，并为他们赢得2003年[丹麦音乐奖的最佳新人奖](https://zh.wikipedia.org/wiki/Danish_Music_Award "wikilink")。其他畅销歌曲包括*Mod solnedgangen* (朝着日落), *Lækker* ([丹麦语](../Page/丹麦语.md "wikilink")意思是性感Hot), *Kan Du Høre Hende Synge?* (Can you hear her sing?你能听到她在唱吗？) 和*Boing\!*，以及联手[Burhan G的](https://zh.wikipedia.org/wiki/Burhan_G "wikilink")"Tættere på himlen"（亲近天堂）。
 
 ## 专辑介绍
 
@@ -539,14 +524,11 @@ himlen"（亲近天堂）。
 
 <!-- end list -->
 
-  - 2005: "[Hvor små vi
-    er](https://zh.wikipedia.org/wiki/Hvor_små_vi_er "wikilink")
-    (作为慈善活动援助亚洲Give to Asia的群星歌手之一) (\#1)
+  - 2005: "[Hvor små vi er](https://zh.wikipedia.org/wiki/Hvor_små_vi_er "wikilink") (作为慈善活动援助亚洲Give to Asia的群星歌手之一) (\#1)
 
 ### DVD
 
-  - 2003: "Det Vi Gør"
-    ([DVD](https://zh.wikipedia.org/wiki/DVD "wikilink"))
+  - 2003: "Det Vi Gør" ([DVD](https://zh.wikipedia.org/wiki/DVD "wikilink"))
   - 2008: "De største"
 
 ## 奖项
@@ -564,15 +546,11 @@ himlen"（亲近天堂）。
   - [Official site](http://www.nikogjay.dk/)
 
   -
-  - [Lyrics Nik & Jay
-    United](http://myone.dk/lyrics-sangtekster/nik-jay-lyrics/5091-nik-jay-united-lyrics)
+  - [Lyrics Nik & Jay United](http://myone.dk/lyrics-sangtekster/nik-jay-lyrics/5091-nik-jay-united-lyrics)
 
-[Category:丹麥樂團](https://zh.wikipedia.org/wiki/Category:丹麥樂團 "wikilink")
-[Category:嘻哈歌手](https://zh.wikipedia.org/wiki/Category:嘻哈歌手 "wikilink")
-[Category:二人组](https://zh.wikipedia.org/wiki/Category:二人组 "wikilink")
+[Category:丹麥樂團](https://zh.wikipedia.org/wiki/Category:丹麥樂團 "wikilink") [Category:嘻哈歌手](https://zh.wikipedia.org/wiki/Category:嘻哈歌手 "wikilink") [Category:二人组](https://zh.wikipedia.org/wiki/Category:二人组 "wikilink")
 
-1.  [Denmark's albums/singles positions for Nik &
-    Jay](http://danishcharts.com/showinterpret.asp?interpret=Nik+%26+Jay)
+1.  [Denmark's albums/singles positions for Nik & Jay](http://danishcharts.com/showinterpret.asp?interpret=Nik+%26+Jay)
 
 2.
 3.

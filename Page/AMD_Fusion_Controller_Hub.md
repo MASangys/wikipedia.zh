@@ -1,31 +1,18 @@
-[AMD_FCH-A88X.jpg](https://zh.wikipedia.org/wiki/File:AMD_FCH-A88X.jpg "fig:AMD_FCH-A88X.jpg")
-AMD **Fusion Controller
-Hub**（**FCH**），是[超微半導體推出的主機板](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，供AMD處理器使用。
+[AMD_FCH-A88X.jpg](https://zh.wikipedia.org/wiki/File:AMD_FCH-A88X.jpg "fig:AMD_FCH-A88X.jpg") AMD **Fusion Controller Hub**（**FCH**），是[超微半導體推出的主機板](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")，供AMD處理器使用。
 
 ## 技術概覽
 
-以往的晶片組中，高速匯流排控制位於[北橋晶片](https://zh.wikipedia.org/wiki/北橋 "wikilink")，整合式[顯示核心為降低延時](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，也會整合於北橋晶片上；而低速匯流排控制、時脈信號控制以及連接BIOS則由[南橋晶片負責](https://zh.wikipedia.org/wiki/南橋 "wikilink")。AMD在APU處理器晶片上，除了以往的[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體控制器 "wikilink")、新加入的整合顯示核心以外，更整合北橋晶片上大部分的功能（如高速[PCI-E控制器等](https://zh.wikipedia.org/wiki/PCI-E "wikilink")），相當於由中央處理器接管控制所有高速匯流排。而餘下的南橋晶片仍舊負責較低速的外圍匯流排、BIOS溝通等功能，不過某些型號上仍然有通道數較少的PCIe匯流排控制器。AMD將AMD
-APU平台上餘下的這個「南橋」稱為Fusion Controller
-Hub（FCH），類似於[英特爾的Platform](https://zh.wikipedia.org/wiki/英特爾 "wikilink")
-Controller Hub（PCH，平台路徑控制器）。\[1\]\[2\]
+以往的晶片組中，高速匯流排控制位於[北橋晶片](https://zh.wikipedia.org/wiki/北橋 "wikilink")，整合式[顯示核心為降低延時](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，也會整合於北橋晶片上；而低速匯流排控制、時脈信號控制以及連接BIOS則由[南橋晶片負責](https://zh.wikipedia.org/wiki/南橋 "wikilink")。AMD在APU處理器晶片上，除了以往的[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體控制器 "wikilink")、新加入的整合顯示核心以外，更整合北橋晶片上大部分的功能（如高速[PCI-E控制器等](https://zh.wikipedia.org/wiki/PCI-E "wikilink")），相當於由中央處理器接管控制所有高速匯流排。而餘下的南橋晶片仍舊負責較低速的外圍匯流排、BIOS溝通等功能，不過某些型號上仍然有通道數較少的PCIe匯流排控制器。AMD將AMD APU平台上餘下的這個「南橋」稱為Fusion Controller Hub（FCH），類似於[英特爾的Platform](https://zh.wikipedia.org/wiki/英特爾 "wikilink") Controller Hub（PCH，平台路徑控制器）。\[1\]\[2\]
 
-至於晶片組與中央處理器的連接，使用基於PCIe技術的UMI匯流排或直接以4通道規格的PCIe匯流排來達成，頻寬最大可達PCIe 3.0
-x4級別，因頻寬需求不高，並沒有使用以往AMD常用的[HyperTransport](../Page/HyperTransport.md "wikilink")匯流排。\[3\]
+至於晶片組與中央處理器的連接，使用基於PCIe技術的UMI匯流排或直接以4通道規格的PCIe匯流排來達成，頻寬最大可達PCIe 3.0 x4級別，因頻寬需求不高，並沒有使用以往AMD常用的[HyperTransport](../Page/HyperTransport.md "wikilink")匯流排。\[3\]
 
 ## 晶片組產品
 
-首個FCH產品線是晶片代號「Hudson」，於2011年初隨[AMD加速處理器一同發布的](https://zh.wikipedia.org/wiki/AMD加速處理器 "wikilink")**A系列晶片組**，開始僅有A55、A75、A68M等型號，\[4\]\[5\]隨後幾乎每一代APU處理器產品推出都有A系列晶片組的新型號加入，像是第二代APU「Trinity」發表後推出的A85X、第4代APU「Kaveri」發表後推出的A88X等等。儘管如此，截至第5代APU「Bristol
-Ridge」推出前，主機板廠商為舊型號的晶片組搭配上新的CPU插座以及配套的BIOS均可支援最新的APU型號。目前最新的晶片組型號是隨著第5代APU悄然發表時推出市場、命名方式變更的300系列，最初有B350、A320兩款型號，還有數款外圍裝置支援較少的X/A300晶片組。\[6\]\[7\]\[8\]
+首個FCH產品線是晶片代號「Hudson」，於2011年初隨[AMD加速處理器一同發布的](https://zh.wikipedia.org/wiki/AMD加速處理器 "wikilink")**A系列晶片組**，開始僅有A55、A75、A68M等型號，\[4\]\[5\]隨後幾乎每一代APU處理器產品推出都有A系列晶片組的新型號加入，像是第二代APU「Trinity」發表後推出的A85X、第4代APU「Kaveri」發表後推出的A88X等等。儘管如此，截至第5代APU「Bristol Ridge」推出前，主機板廠商為舊型號的晶片組搭配上新的CPU插座以及配套的BIOS均可支援最新的APU型號。目前最新的晶片組型號是隨著第5代APU悄然發表時推出市場、命名方式變更的300系列，最初有B350、A320兩款型號，還有數款外圍裝置支援較少的X/A300晶片組。\[6\]\[7\]\[8\]
 
 ### A系列（Socket FMx/FSx平台）
 
-首代核心代號「Llano」之AMD APU、第二代代號「Trinity」、「Richland」之AMD
-APU均採用「Hudson」核心代號的FCH\[9\]，自第三代代號「Kaveri」AMD
-APU開始，推出代號「Bolton」之FCH。\[10\]支援的插座有[桌上型平台的](../Page/桌上型電腦.md "wikilink")[Socket
-FM1](https://zh.wikipedia.org/wiki/Socket_FM1 "wikilink")、[FM2](../Page/Socket_FM2.md "wikilink")、[FM2+](../Page/Socket_FM2+.md "wikilink")，\[11\]以及[行動型平台的](https://zh.wikipedia.org/wiki/行動平臺 "wikilink")[Socket
-FS1等](https://zh.wikipedia.org/wiki/Socket_FS1 "wikilink")。支援SATA（最高至6.0Gb/s，支援AHCI）及RAID
-0/1/10/5、USB
-3.0、PCIe、PCI及DisplayPort等顯示輸出控制（內建[RAMDAC](https://zh.wikipedia.org/wiki/RAMDAC "wikilink")）、網路適配器、[SD卡](../Page/SD卡.md "wikilink")、HD音效及紅外接收等。\[12\]\[13\]\[14\]
+首代核心代號「Llano」之AMD APU、第二代代號「Trinity」、「Richland」之AMD APU均採用「Hudson」核心代號的FCH\[9\]，自第三代代號「Kaveri」AMD APU開始，推出代號「Bolton」之FCH。\[10\]支援的插座有[桌上型平台的](../Page/桌上型電腦.md "wikilink")[Socket FM1](https://zh.wikipedia.org/wiki/Socket_FM1 "wikilink")、[FM2](../Page/Socket_FM2.md "wikilink")、[FM2+](../Page/Socket_FM2+.md "wikilink")，\[11\]以及[行動型平台的](https://zh.wikipedia.org/wiki/行動平臺 "wikilink")[Socket FS1等](https://zh.wikipedia.org/wiki/Socket_FS1 "wikilink")。支援SATA（最高至6.0Gb/s，支援AHCI）及RAID 0/1/10/5、USB 3.0、PCIe、PCI及DisplayPort等顯示輸出控制（內建[RAMDAC](https://zh.wikipedia.org/wiki/RAMDAC "wikilink")）、網路適配器、[SD卡](../Page/SD卡.md "wikilink")、HD音效及紅外接收等。\[12\]\[13\]\[14\]
 
 <table>
 <thead>
@@ -337,30 +324,15 @@ AHCI1.3</p></td>
 </tbody>
 </table>
 
-<cite id="fn_1">[Note
-1:](https://zh.wikipedia.org/wiki/#fn_1_back "wikilink")</cite>
-支援[SDHC](https://zh.wikipedia.org/wiki/Secure_Digital#SDHC "wikilink")，容量最大32GB，4
-pins @ 50MHz.
+<cite id="fn_1">[Note 1:](https://zh.wikipedia.org/wiki/#fn_1_back "wikilink")</cite> 支援[SDHC](https://zh.wikipedia.org/wiki/Secure_Digital#SDHC "wikilink")，容量最大32GB，4 pins @ 50MHz.
 
 代號:\[42\]  UMI:
 
 ### 300系列
 
-[AMD_B350.jpg](https://zh.wikipedia.org/wiki/File:AMD_B350.jpg "fig:AMD_B350.jpg")
-AMD自2016年發表的新系列單晶片晶片組，首先推出的是B350和X370，接著推出了入門型的A320和A300，它們均由祥碩科技（ASMedia）設計，支援[USB
-3.1](../Page/USB_3.1.md "wikilink")、PCIe 2.0、SATA、[SATA
-Express](../Page/SATA_Express.md "wikilink")、[NVMe以及RAID](../Page/NVM_Express.md "wikilink")
-0/1/10等，其中型號X370還支援XFR動態時脈調整\[43\]（不過實際操作中，所有AM4/TR4處理器插槽的主機板都有XFR支援、所有的Ryzen處理器也有XFR支援，只是XFR的時脈範圍差異較大\[44\]）。晶片組提供的SATA
-Express、NVMe走PCIe匯流排，可使用SATA
-Express連接埠、M.2/U.2連接埠等固態硬碟連接埠，也可使用PCIe連接器。晶片組原生並不提供[網路適配器](https://zh.wikipedia.org/wiki/網路適配器 "wikilink")、[PCI](../Page/外设组件互连标准.md "wikilink")、[SD卡](https://zh.wikipedia.org/wiki/Secure_Digital "wikilink")、[VGA-DAC的支援](https://zh.wikipedia.org/wiki/RAMDAC "wikilink")，但可通過其PCIe匯流排或USB（板上線路）外掛相關功能的晶片來獲得（一般主機板廠商的做法）。
+[AMD_B350.jpg](https://zh.wikipedia.org/wiki/File:AMD_B350.jpg "fig:AMD_B350.jpg") AMD自2016年發表的新系列單晶片晶片組，首先推出的是B350和X370，接著推出了入門型的A320和A300，它們均由祥碩科技（ASMedia）設計，支援[USB 3.1](../Page/USB_3.1.md "wikilink")、PCIe 2.0、SATA、[SATA Express](../Page/SATA_Express.md "wikilink")、[NVMe以及RAID](../Page/NVM_Express.md "wikilink") 0/1/10等，其中型號X370還支援XFR動態時脈調整\[43\]（不過實際操作中，所有AM4/TR4處理器插槽的主機板都有XFR支援、所有的Ryzen處理器也有XFR支援，只是XFR的時脈範圍差異較大\[44\]）。晶片組提供的SATA Express、NVMe走PCIe匯流排，可使用SATA Express連接埠、M.2/U.2連接埠等固態硬碟連接埠，也可使用PCIe連接器。晶片組原生並不提供[網路適配器](https://zh.wikipedia.org/wiki/網路適配器 "wikilink")、[PCI](../Page/外设组件互连标准.md "wikilink")、[SD卡](https://zh.wikipedia.org/wiki/Secure_Digital "wikilink")、[VGA-DAC的支援](https://zh.wikipedia.org/wiki/RAMDAC "wikilink")，但可通過其PCIe匯流排或USB（板上線路）外掛相關功能的晶片來獲得（一般主機板廠商的做法）。
 
-基於Zen微架構的[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")/[工作站](../Page/工作站.md "wikilink")平台，主機板晶片組是選配選項，晶片組商品名為X399晶片組，於2017年8月推出，採用支援多處理器的[Socket
-SP3](../Page/Socket_SP3.md "wikilink")（伺服器/工作站）或物理規格相同但沒有多處理器支援的[Socket
-TR4](../Page/Socket_TR4.md "wikilink")（單CPU工作站/發燒級桌上型電腦，供Ryzen
-ThreadRipper系列使用），兩者均為[LGA封裝的插座](https://zh.wikipedia.org/wiki/平面網格陣列封裝 "wikilink")，接替此前使用的[Socket
-C32和](../Page/Socket_C32.md "wikilink")[G34](../Page/Socket_G34.md "wikilink")。一般桌上型電腦使用[Socket
-AM4插座](../Page/Socket_AM4.md "wikilink")。\[45\]在AMD公佈Socket
-SP3和TR4之前，曾經傳出有所謂「X390」、「X399」晶片組的消息，\[46\]但被發現是從舊主機板的結構圖上修改而來，純屬子虛烏有。\[47\]
+基於Zen微架構的[伺服器](https://zh.wikipedia.org/wiki/伺服器 "wikilink")/[工作站](../Page/工作站.md "wikilink")平台，主機板晶片組是選配選項，晶片組商品名為X399晶片組，於2017年8月推出，採用支援多處理器的[Socket SP3](../Page/Socket_SP3.md "wikilink")（伺服器/工作站）或物理規格相同但沒有多處理器支援的[Socket TR4](../Page/Socket_TR4.md "wikilink")（單CPU工作站/發燒級桌上型電腦，供Ryzen ThreadRipper系列使用），兩者均為[LGA封裝的插座](https://zh.wikipedia.org/wiki/平面網格陣列封裝 "wikilink")，接替此前使用的[Socket C32和](../Page/Socket_C32.md "wikilink")[G34](../Page/Socket_G34.md "wikilink")。一般桌上型電腦使用[Socket AM4插座](../Page/Socket_AM4.md "wikilink")。\[45\]在AMD公佈Socket SP3和TR4之前，曾經傳出有所謂「X390」、「X399」晶片組的消息，\[46\]但被發現是從舊主機板的結構圖上修改而來，純屬子虛烏有。\[47\]
 
 <table>
 <thead>
@@ -521,8 +493,7 @@ PCIe 2.0通道數量</p></td>
 
 ### 400系列
 
-AMD 400系列晶片組包括X470和B450兩款晶片，於2018年6月隨同基於Zen+微架構的Ryzen 7 2700X、Ryzen 5
-2600X一同發表並推出市場。相較於300系列，400系列主要是新增了StoreMI特性，此特性可允許使用者利用固態硬碟作為傳統硬碟的快取和高速存儲空間之用。\[57\]
+AMD 400系列晶片組包括X470和B450兩款晶片，於2018年6月隨同基於Zen+微架構的Ryzen 7 2700X、Ryzen 5 2600X一同發表並推出市場。相較於300系列，400系列主要是新增了StoreMI特性，此特性可允許使用者利用固態硬碟作為傳統硬碟的快取和高速存儲空間之用。\[57\]
 
 <table>
 <thead>
@@ -625,12 +596,10 @@ PCIe 2.0通道數量</p></td>
 
 ## 外部連結
 
-  - [AMD
-    A-Series晶片組](http://www.amd.com/zh-tw/products/chipsets/a-series)
+  - [AMD A-Series晶片組](http://www.amd.com/zh-tw/products/chipsets/a-series)
   - [AMD Socket AM4平台](http://www.amd.com/zh-tw/products/chipsets/am4)
 
-[Category:AMD晶片組](https://zh.wikipedia.org/wiki/Category:AMD晶片組 "wikilink")
-[Category:主機板](https://zh.wikipedia.org/wiki/Category:主機板 "wikilink")
+[Category:AMD晶片組](https://zh.wikipedia.org/wiki/Category:AMD晶片組 "wikilink") [Category:主機板](https://zh.wikipedia.org/wiki/Category:主機板 "wikilink")
 
 1.
 2.
@@ -658,8 +627,7 @@ PCIe 2.0通道數量</p></td>
 15. **M**: 筆記型電腦平台使用
 
 16.
-17. UMI ×4 Gen. 1 代表基於[PCIe
-    1.1](https://zh.wikipedia.org/wiki/PCI_Express#PCI_Express_1.1 "wikilink")×4鏈路，提供共1GB/s的頻寬
+17. UMI ×4 Gen. 1 代表基於[PCIe 1.1](https://zh.wikipedia.org/wiki/PCI_Express#PCI_Express_1.1 "wikilink")×4鏈路，提供共1GB/s的頻寬
 
 18. <http://www.amd.com/us/Documents/43838_Embedded_Solutions_Selection_Brief_web.pdf>
 
@@ -667,14 +635,12 @@ PCIe 2.0通道數量</p></td>
 20.
 21.
 22.
-23. [Deux chipsets pour l'APU Llano sont certifiés
-    USB 3.0](http://www.pcinpact.com/actu/news/62708-amd-llano-hudson-usb-30-fusion.htm)
+23. [Deux chipsets pour l'APU Llano sont certifiés USB 3.0](http://www.pcinpact.com/actu/news/62708-amd-llano-hudson-usb-30-fusion.htm)
 
 24.
 25. **D**: 桌上型電腦平台使用
 
-26. UMI ×4 Gen. 2 代表基於[PCIe
-    2.0](https://zh.wikipedia.org/wiki/PCI_Express#PCI_Express_2.0 "wikilink")×4鏈路，提供共2GB/s的頻寬
+26. UMI ×4 Gen. 2 代表基於[PCIe 2.0](https://zh.wikipedia.org/wiki/PCI_Express#PCI_Express_2.0 "wikilink")×4鏈路，提供共2GB/s的頻寬
 
 27.
 28.

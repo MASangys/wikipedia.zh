@@ -51,13 +51,7 @@ DKZ31型于2010年生产，车头为紫色涂装，侧面为银灰色涂装，�
   - [列车介绍](https://web.archive.org/web/20130420001420/http://www.crc.chinacnr.com/serv-63435.html)
   - [DKZ31型列车出望京西站视频](http://v.youku.com/v_show/id_XMjg3MzMzMzI4.html)
 
-[Category:北京地铁DKZ系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DKZ系列电动车组 "wikilink")
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
-[Category:北京地铁15号线](https://zh.wikipedia.org/wiki/Category:北京地铁15号线 "wikilink")
-[Category:750伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:750伏直流電力動車組 "wikilink")
+[Category:北京地铁DKZ系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DKZ系列电动车组 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:北京地铁15号线](https://zh.wikipedia.org/wiki/Category:北京地铁15号线 "wikilink") [Category:750伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:750伏直流電力動車組 "wikilink")
 
-1.  [搜狐网:创新驱动
-    工业振兴之路大提速(组图)](http://roll.sohu.com/20121217/n360598328.shtml)
-    2012年12月17日
-2.  [地铁15号线首组列车大修](http://www.kaixian.tv/R2/n2714112c19.shtml) 汉丰网
-    2013年8月26日
+1.  [搜狐网:创新驱动 工业振兴之路大提速(组图)](http://roll.sohu.com/20121217/n360598328.shtml) 2012年12月17日
+2.  [地铁15号线首组列车大修](http://www.kaixian.tv/R2/n2714112c19.shtml) 汉丰网 2013年8月26日

@@ -1,6 +1,4 @@
-\-{zh-hans:THE SHOW (SBS MTV节目);zh-hant:THE SHOW (SBS
-MTV節目);zh-cn:韩秀榜}-}}  《**THE
-SHOW**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥](../Page/羅志祥.md "wikilink")（在日本使用「SHOW」名義發行的）的第十一張大碟，第一張全[日語專輯](https://zh.wikipedia.org/wiki/日語 "wikilink")，在2012年9月19日正式推出\[1\]。
+\-{zh-hans:THE SHOW (SBS MTV节目);zh-hant:THE SHOW (SBS MTV節目);zh-cn:韩秀榜}-}}  《**THE SHOW**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥](../Page/羅志祥.md "wikilink")（在日本使用「SHOW」名義發行的）的第十一張大碟，第一張全[日語專輯](https://zh.wikipedia.org/wiki/日語 "wikilink")，在2012年9月19日正式推出\[1\]。
 
 專輯的第一主打歌是《RUNNER》，並於2012年8月28日於日本網站[Ameba](../Page/Ameba.md "wikilink")的專訪節目上首播完整音樂錄影帶。同日，日本[波麗佳音的羅志祥官網亦發佈了全專輯的試聽版](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")\[2\]。此專輯同時收錄2012年發佈的兩張日語單曲《[DANTE](https://zh.wikipedia.org/wiki/DANTE_\(單曲\) "wikilink")》及《[MAGIC](../Page/MAGIC_\(SHOW單曲\).md "wikilink")》的主打歌曲DANTE及MAGIC。
 
@@ -70,9 +68,7 @@ SHOW**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](..
 
 ## 宣傳
 
-  - 由於《THE
-    SHOW》的發行時間正值碰上中日關係轉趨緊張，羅志祥於9月17日在其本人的微博及其他報章上宣佈將全面停止他在日本的宣傳活動，包括原定於9月29日及9月30日一連兩天在日本品川舉行與專輯同名的【THE
-    SHOW】售票演唱會。\[8\]以下所示的均為事件發生前已參與錄影的節目。
+  - 由於《THE SHOW》的發行時間正值碰上中日關係轉趨緊張，羅志祥於9月17日在其本人的微博及其他報章上宣佈將全面停止他在日本的宣傳活動，包括原定於9月29日及9月30日一連兩天在日本品川舉行與專輯同名的【THE SHOW】售票演唱會。\[8\]以下所示的均為事件發生前已參與錄影的節目。
   - 專輯宣傳及專輯同名的【THE SHOW】售票演唱會分別於2013年8及9月重新展開
 
 ### 電視/網上節目
@@ -119,29 +115,19 @@ SHOW**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](..
 
   - [波麗佳音](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201200000419&DSP_SKHKETSEQ=003)
 
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:羅志祥音樂專輯](https://zh.wikipedia.org/wiki/Category:羅志祥音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink")
+[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:羅志祥音樂專輯](https://zh.wikipedia.org/wiki/Category:羅志祥音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink")
 
-1.  [THE SHOW (Jacket A)(ALBUM+DVD)(初回限定A版)(日本版)-
-    Yesasia.com](http://www.yesasia.com/global/the-show-jacket-a-album-dvd-%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E7%89%88-%E6%97%A5%E6%9C%AC%E7%89%88/1031229714-0-0-0-zh_TW/info.html)，2012年8月28日
-    (二) 20:43 (UTC+8)查閱
+1.  [THE SHOW (Jacket A)(ALBUM+DVD)(初回限定A版)(日本版)- Yesasia.com](http://www.yesasia.com/global/the-show-jacket-a-album-dvd-%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E7%89%88-%E6%97%A5%E6%9C%AC%E7%89%88/1031229714-0-0-0-zh_TW/info.html)，2012年8月28日 (二) 20:43 (UTC+8)查閱
 
 2.  [羅志祥在波麗佳音的官方網頁](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201200000419&DSP_SKHKETSEQ=003)
 
 3.
-4.  [THE SHOW (Jacket B)(ALBUM+DVD)(初回限定B版)(日本版)-
-    Yesasia.com](http://www.yesasia.com/global/the-show-jacket-b-album-dvd-%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E7%89%88-%E6%97%A5%E6%9C%AC%E7%89%88/1031229715-0-0-0-zh_TW/info.html)，2012年8月28日
-    (二) 20:43 (UTC+8)查閱
+4.  [THE SHOW (Jacket B)(ALBUM+DVD)(初回限定B版)(日本版)- Yesasia.com](http://www.yesasia.com/global/the-show-jacket-b-album-dvd-%E5%88%9D%E5%9B%9E%E9%99%90%E5%AE%9A%E7%89%88-%E6%97%A5%E6%9C%AC%E7%89%88/1031229715-0-0-0-zh_TW/info.html)，2012年8月28日 (二) 20:43 (UTC+8)查閱
 
 5.
 
 6.
 
-7.  ["*2012 Hit Fm年度百首單曲*- 2012年
-    (\#1至50)"](http://www.hitoradio.com/newweb/chart_2.php?ch_year=2012)
-    *HitFM聯播網*. 2013年1月13日 (日) 15:05 (UTC+8)查閱
+7.  ["*2012 Hit Fm年度百首單曲*- 2012年 (\#1至50)"](http://www.hitoradio.com/newweb/chart_2.php?ch_year=2012) *HitFM聯播網*. 2013年1月13日 (日) 15:05 (UTC+8)查閱
 
-8.  [台灣蘋果日報 - 2012-09-17 小豬自斷日本錢途
-    宣傳喊卡損失千萬](http://www.appledaily.com.tw/appledaily/article/entertainment/20120917/34513782)
+8.  [台灣蘋果日報 - 2012-09-17 小豬自斷日本錢途 宣傳喊卡損失千萬](http://www.appledaily.com.tw/appledaily/article/entertainment/20120917/34513782)

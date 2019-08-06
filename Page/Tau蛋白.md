@@ -1,14 +1,10 @@
 **Tau蛋白**（），又譯濤蛋白\[1\]。是一种，在[中枢神经系统的](https://zh.wikipedia.org/wiki/中枢神经系统 "wikilink")[神经元非常丰富而少见于其它细胞](https://zh.wikipedia.org/wiki/神经元 "wikilink")，在中枢神经系统的[星形胶质细胞和](https://zh.wikipedia.org/wiki/星形胶质细胞 "wikilink")[少突胶质细胞中表达量也很低](https://zh.wikipedia.org/wiki/少突胶质细胞 "wikilink")\[2\]。tau蛋白有缺陷并不再正常稳定[微管](../Page/微管.md "wikilink")时，可导致[神经系统](../Page/神经系统.md "wikilink")病变和[失智症](../Page/失智症.md "wikilink")，如[阿兹海默病](https://zh.wikipedia.org/wiki/阿兹海默病 "wikilink")。
 
-tau蛋白的多种蛋白异型体是由单个[基因](../Page/基因.md "wikilink")（人类基因组中为***MAPT***，microtubule-associated
-protein
-tau，微管相关蛋白tau）mRNA的[選擇性剪接而形成的](https://zh.wikipedia.org/wiki/選擇性剪接 "wikilink")\[3\]\[4\]。1975年，它们由[Marc
-Kirschner在](https://zh.wikipedia.org/wiki/Marc_Kirschner "wikilink")[普林斯顿大学](../Page/普林斯顿大学.md "wikilink")的实验室中发现\[5\]。
+tau蛋白的多种蛋白异型体是由单个[基因](../Page/基因.md "wikilink")（人类基因组中为***MAPT***，microtubule-associated protein tau，微管相关蛋白tau）mRNA的[選擇性剪接而形成的](https://zh.wikipedia.org/wiki/選擇性剪接 "wikilink")\[3\]\[4\]。1975年，它们由[Marc Kirschner在](https://zh.wikipedia.org/wiki/Marc_Kirschner "wikilink")[普林斯顿大学](../Page/普林斯顿大学.md "wikilink")的实验室中发现\[5\]。
 
 ## 功能
 
-tau蛋白是一种高度可溶的（MAP）。与非神经元细胞相较，人体内tau更多地在神经元内发现。tau蛋白的主要功能之一是维持轴突微管的稳定性。而其它神经系统中的MAPs家族蛋白也有着相似的功能，这体现在tau敲除的小鼠并没有发现其脑组织的发育受到影响。这可能是在tau缺失后，其它MAPs家族蛋白在神经元内起到代偿tau的作用，从而继续维持轴突微管的稳定，保证脑功能的正常运作。\[6\]
-tau并不在[树突发挥功能](https://zh.wikipedia.org/wiki/树突 "wikilink")，而主要作用在[轴突](../Page/轴突.md "wikilink")远端维持微管的稳定性和必要的灵活性。这与MAP6蛋白（位于轴突近端固定微管）与MAP2（主要维持树突的稳定性）的功能相对。
+tau蛋白是一种高度可溶的（MAP）。与非神经元细胞相较，人体内tau更多地在神经元内发现。tau蛋白的主要功能之一是维持轴突微管的稳定性。而其它神经系统中的MAPs家族蛋白也有着相似的功能，这体现在tau敲除的小鼠并没有发现其脑组织的发育受到影响。这可能是在tau缺失后，其它MAPs家族蛋白在神经元内起到代偿tau的作用，从而继续维持轴突微管的稳定，保证脑功能的正常运作。\[6\] tau并不在[树突发挥功能](https://zh.wikipedia.org/wiki/树突 "wikilink")，而主要作用在[轴突](../Page/轴突.md "wikilink")远端维持微管的稳定性和必要的灵活性。这与MAP6蛋白（位于轴突近端固定微管）与MAP2（主要维持树突的稳定性）的功能相对。
 
 Tau蛋白与微管蛋白（[Tubulin](https://zh.wikipedia.org/wiki/Tubulin "wikilink")）相互作用以稳定微管，同时驱动Tubulin在微管内组装。Tau蛋白通过异构和磷酸化控制微管的稳定性。
 
@@ -51,8 +47,7 @@ tau蛋白（tau包含物，pTau）的可导致配对的螺旋丝和直丝的缠�
 
   - [朊病毒](https://zh.wikipedia.org/wiki/朊病毒 "wikilink")
 
-  - [Chronic traumatic
-    encephalopathy(CTE)(慢性創傷性腦病變)](https://zh.wikipedia.org/wiki/Chronic_traumatic_encephalopathy\(CTE\)\(慢性創傷性腦病變\) "wikilink")
+  - [Chronic traumatic encephalopathy(CTE)(慢性創傷性腦病變)](https://zh.wikipedia.org/wiki/Chronic_traumatic_encephalopathy\(CTE\)\(慢性創傷性腦病變\) "wikilink")
 
 ## 参考文献
 
@@ -82,12 +77,9 @@ tau蛋白（tau包含物，pTau）的可导致配对的螺旋丝和直丝的缠�
 ## 外部链接
 
   -
-  - [GeneReviews/NCBI/NIH/UW entry on MAPT-Related
-    Disorders](http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=ftdp-17)
+  - [GeneReviews/NCBI/NIH/UW entry on MAPT-Related Disorders](http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=ftdp-17)
 
-  - [MR scans of variant
-    CJD](https://web.archive.org/web/20131203022442/http://rad.usuhs.edu/medpix/kiosk_image.html?mode=pt&pt_id=13421#pic)
-    CSF Tau positive man
+  - [MR scans of variant CJD](https://web.archive.org/web/20131203022442/http://rad.usuhs.edu/medpix/kiosk_image.html?mode=pt&pt_id=13421#pic) CSF Tau positive man
 
 <!-- end list -->
 

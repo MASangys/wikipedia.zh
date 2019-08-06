@@ -1,9 +1,6 @@
 [I-VMS_Model_pic.jpg](https://zh.wikipedia.org/wiki/File:I-VMS_Model_pic.jpg "fig:I-VMS_Model_pic.jpg")
 
-**<big>I-VMS</big>**模型，英文为整体附加值管理系统(**<big>I</big>**ntegrated
-**<big>V</big>**alue-added **<big>M</big>**anagement
-**<big>S</big>**ystem)，注重创造附加值，是经济学中一种实际的新方法，对人力资源进行管理。与公司其他管理系统配合，可提高组织、结构管理中的效率，这个方法可增加附加值整体网络、是一个增加附加值的三维复杂控制系统，允许更加有效的管理。
-[Logistics_and_I-VMS.jpg](https://zh.wikipedia.org/wiki/File:Logistics_and_I-VMS.jpg "fig:Logistics_and_I-VMS.jpg")
+**<big>I-VMS</big>**模型，英文为整体附加值管理系统(**<big>I</big>**ntegrated **<big>V</big>**alue-added **<big>M</big>**anagement **<big>S</big>**ystem)，注重创造附加值，是经济学中一种实际的新方法，对人力资源进行管理。与公司其他管理系统配合，可提高组织、结构管理中的效率，这个方法可增加附加值整体网络、是一个增加附加值的三维复杂控制系统，允许更加有效的管理。 [Logistics_and_I-VMS.jpg](https://zh.wikipedia.org/wiki/File:Logistics_and_I-VMS.jpg "fig:Logistics_and_I-VMS.jpg")
 
 ## 摘要
 
@@ -21,8 +18,7 @@ I-VMS管理模型的核心思想是创造附加值的流程，以便更有竞争
 
 ### 功能结构
 
-  - 应用性:
-    例如更早的[价值链模型](https://zh.wikipedia.org/wiki/价值链模型 "wikilink")，可以与传统的功能、等级[组织结构](../Page/组织结构.md "wikilink")配合，而不是代替他们;
+  - 应用性: 例如更早的[价值链模型](https://zh.wikipedia.org/wiki/价值链模型 "wikilink")，可以与传统的功能、等级[组织结构](../Page/组织结构.md "wikilink")配合，而不是代替他们;
   - 互用性: 帮助消除过于僵化、固化的功能结构，帮助消除组织障碍;
   - 拓展性: 具有新特性，改变战略，可能适应新的功能元素.
 
@@ -40,8 +36,7 @@ I-VMS管理模型的核心思想是创造附加值的流程，以便更有竞争
 
 ### 系统方法
 
-  - 间隔尺寸:
-    创造[逻辑模型](https://zh.wikipedia.org/wiki/逻辑模型 "wikilink")，创造具有同等测试标准的亚系统
+  - 间隔尺寸: 创造[逻辑模型](https://zh.wikipedia.org/wiki/逻辑模型 "wikilink")，创造具有同等测试标准的亚系统
   - 可合成性: 组成系统的元素可以与其他元素进行整合;
   - 可变化性: 系统元素可以变化，提供新的管理视野
 

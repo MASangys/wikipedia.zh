@@ -2,8 +2,7 @@
 
 ## 历史
 
-[TGV-p1030236.jpg](https://zh.wikipedia.org/wiki/File:TGV-p1030236.jpg "fig:TGV-p1030236.jpg")
-自1961年夏天起，[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎](../Page/巴黎.md "wikilink")至[意大利](../Page/意大利.md "wikilink")[米兰间首次开行了每日一班的](https://zh.wikipedia.org/wiki/米兰 "wikilink")[全欧快车](../Page/全欧快车.md "wikilink")[齐萨尔平号](https://zh.wikipedia.org/wiki/齐萨尔平号 "wikilink")，并经由[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[洛桑](../Page/洛桑.md "wikilink")运行。这项服务自1984年1月22日起由[法国国家铁路](../Page/法国国家铁路.md "wikilink")及[瑞士联邦铁路共同经营](https://zh.wikipedia.org/wiki/瑞士联邦铁路 "wikilink")，并在巴黎至洛桑区间以一款三电压的[TGV列车服务取代了此前运行于该区间的齐萨尔平号](https://zh.wikipedia.org/wiki/TGV列车 "wikilink")、香榭丽舍号（）、[莱芒号和卢泰西亚号](https://zh.wikipedia.org/wiki/莱芒号 "wikilink")（）列车。1987年5月31日，这项服务又被纳入新成立的[欧城列车](../Page/欧城列车.md "wikilink")类别，并增加了由巴黎至[伯尔尼](../Page/伯尔尼.md "wikilink")间的直达航线\[2\]。
+[TGV-p1030236.jpg](https://zh.wikipedia.org/wiki/File:TGV-p1030236.jpg "fig:TGV-p1030236.jpg") 自1961年夏天起，[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎](../Page/巴黎.md "wikilink")至[意大利](../Page/意大利.md "wikilink")[米兰间首次开行了每日一班的](https://zh.wikipedia.org/wiki/米兰 "wikilink")[全欧快车](../Page/全欧快车.md "wikilink")[齐萨尔平号](https://zh.wikipedia.org/wiki/齐萨尔平号 "wikilink")，并经由[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[洛桑](../Page/洛桑.md "wikilink")运行。这项服务自1984年1月22日起由[法国国家铁路](../Page/法国国家铁路.md "wikilink")及[瑞士联邦铁路共同经营](https://zh.wikipedia.org/wiki/瑞士联邦铁路 "wikilink")，并在巴黎至洛桑区间以一款三电压的[TGV列车服务取代了此前运行于该区间的齐萨尔平号](https://zh.wikipedia.org/wiki/TGV列车 "wikilink")、香榭丽舍号（）、[莱芒号和卢泰西亚号](https://zh.wikipedia.org/wiki/莱芒号 "wikilink")（）列车。1987年5月31日，这项服务又被纳入新成立的[欧城列车](../Page/欧城列车.md "wikilink")类别，并增加了由巴黎至[伯尔尼](../Page/伯尔尼.md "wikilink")间的直达航线\[2\]。
 
 1993年5月23日，一个名为“法国－瑞士TGV（）”的（）成立，以规管巴黎至洛桑及伯尔尼之间的列车。而由巴黎经[里昂](../Page/里昂.md "wikilink")至[日内瓦](../Page/日内瓦.md "wikilink")的服务是自1981年作为法国境内班次开行，因而它在最初仍然不受影响。在1995年冬季，洛桑线的列车终到站首次在每周六由洛桑延长至[布里格](https://zh.wikipedia.org/wiki/布里格 "wikilink")，这班冬季列车也因此获得了类似于法国境内TGV冬季列车的名称，被称为“雪地TGV（）”。1997年9月28日，法国－瑞士TGV列车以“心脏线（）”的品牌标识，对9列三电压的TGV列车服务进行了调整，并在同年新增了一班每日延长至[苏黎世](../Page/苏黎世.md "wikilink")的班次\[3\]。
 
@@ -11,8 +10,7 @@
 
 ## 线路
 
-[TGV_Lyria_-_Fin_Haut-Bugey.JPG](https://zh.wikipedia.org/wiki/File:TGV_Lyria_-_Fin_Haut-Bugey.JPG "fig:TGV_Lyria_-_Fin_Haut-Bugey.JPG")
-截至2013年的运行图，TGV Lyria主要提供以下线路的服务\[4\]：
+[TGV_Lyria_-_Fin_Haut-Bugey.JPG](https://zh.wikipedia.org/wiki/File:TGV_Lyria_-_Fin_Haut-Bugey.JPG "fig:TGV_Lyria_-_Fin_Haut-Bugey.JPG") 截至2013年的运行图，TGV Lyria主要提供以下线路的服务\[4\]：
 
   - [因特拉肯](../Page/因特拉肯.md "wikilink")－伯尔尼－[第戎](../Page/第戎.md "wikilink")－巴黎（每日一班，全程约5小时03分）
   - 洛桑－第戎－巴黎（每日四班，全程约3小时40分）
@@ -24,32 +22,21 @@
   - 日内瓦－里昂－[蒙彼利埃](../Page/蒙彼利埃.md "wikilink")（每日一班，全程约3小时50分）
   - 布里格－日内瓦－[里尔](../Page/里尔.md "wikilink")（12月至4月每周六一班，全程约7小时06分）
 
-TGV
-Lyria的饮食服务是由提供，当中包括设有一节[餐车](https://zh.wikipedia.org/wiki/餐车 "wikilink")、一个移动吧台，并在一等车厢设有服务。在前往巴黎、马赛及蒙彼利埃的列车中，还可为一等车厢的乘客提供[出租车预订服务](https://zh.wikipedia.org/wiki/出租车 "wikilink")。
+TGV Lyria的饮食服务是由提供，当中包括设有一节[餐车](https://zh.wikipedia.org/wiki/餐车 "wikilink")、一个移动吧台，并在一等车厢设有服务。在前往巴黎、马赛及蒙彼利埃的列车中，还可为一等车厢的乘客提供[出租车预订服务](https://zh.wikipedia.org/wiki/出租车 "wikilink")。
 
 在日内瓦－巴黎的线路中，列车于2008年的平均上座率约为78%，[市场份额与](https://zh.wikipedia.org/wiki/市场份额 "wikilink")[航空运输相比约占](https://zh.wikipedia.org/wiki/航空运输 "wikilink")50%\[5\]。
 
 ## 车辆
 
-[TGV_Lyria.jpg](https://zh.wikipedia.org/wiki/File:TGV_Lyria.jpg "fig:TGV_Lyria.jpg")
-[Lyria_TGV_in_white.jpg](https://zh.wikipedia.org/wiki/File:Lyria_TGV_in_white.jpg "fig:Lyria_TGV_in_white.jpg")
-前往洛桑及伯尔尼的线路原本使用9组三电压制式的。编号为110-118号的这9组列车包括7组由法国国家铁路持有以及2组由瑞士联邦铁路持有（112号及114号），后者亦藉此参与Lyria运营。在2005年及2006年，全部9组TGV
-PSE列车均进行了类似于传统双电压PSE的现代化改造。自2012年12月起，这些列车均不再使用并退役\[6\]。
+[TGV_Lyria.jpg](https://zh.wikipedia.org/wiki/File:TGV_Lyria.jpg "fig:TGV_Lyria.jpg") [Lyria_TGV_in_white.jpg](https://zh.wikipedia.org/wiki/File:Lyria_TGV_in_white.jpg "fig:Lyria_TGV_in_white.jpg") 前往洛桑及伯尔尼的线路原本使用9组三电压制式的。编号为110-118号的这9组列车包括7组由法国国家铁路持有以及2组由瑞士联邦铁路持有（112号及114号），后者亦藉此参与Lyria运营。在2005年及2006年，全部9组TGV PSE列车均进行了类似于传统双电压PSE的现代化改造。自2012年12月起，这些列车均不再使用并退役\[6\]。
 
 列车在[法国高速铁路东南线的巴黎至](https://zh.wikipedia.org/wiki/法国高速铁路东南线 "wikilink")[阿尔芒松河畔艾西](../Page/阿尔芒松河畔艾西.md "wikilink")区间的最高运行速度可达300公里/小时（改造前为270公里/小时）。由于技术限制，列车在15千伏路段的最高限速仅为160公里/小时，并且瑞士只有少数地方可以达到这个速度。
 
-前往日内瓦的线路使用传统的双电压制式车组，它们主要是常规的TGV PSE列车或双层的[TGV
-Duplex列车](../Page/法國國鐵TGV_Duplex列車.md "wikilink")。
+前往日内瓦的线路使用传统的双电压制式车组，它们主要是常规的TGV PSE列车或双层的[TGV Duplex列车](../Page/法國國鐵TGV_Duplex列車.md "wikilink")。
 
-自2007年6月10日起，在苏黎世－巴塞尔－斯特拉斯堡－巴黎之间的线路上开始使用编号为4401-4419号（4406号由瑞士联邦铁路持有）的现代化[TGV
-POS列车](https://zh.wikipedia.org/wiki/TGV_POS "wikilink")。这款TGV可以在[法国高速铁路东线的](https://zh.wikipedia.org/wiki/法国高速铁路东线 "wikilink")[马恩河畔韦尔](../Page/马恩河畔韦尔.md "wikilink")至[博德雷库尔区间达到](https://zh.wikipedia.org/wiki/博德雷库尔_\(摩泽尔省\) "wikilink")320公里/小时的最高速度。列车内饰是由法国[时装设计师](https://zh.wikipedia.org/wiki/时装设计师 "wikilink")[克里斯蒂安·拉克鲁瓦](../Page/克里斯蒂安·拉克鲁瓦.md "wikilink")所设计。自2011年12月起，这些列车开始经由[法國高速鐵路萊茵河-隆河線运行](https://zh.wikipedia.org/wiki/法國高速鐵路萊茵河-隆河線 "wikilink")。
+自2007年6月10日起，在苏黎世－巴塞尔－斯特拉斯堡－巴黎之间的线路上开始使用编号为4401-4419号（4406号由瑞士联邦铁路持有）的现代化[TGV POS列车](https://zh.wikipedia.org/wiki/TGV_POS "wikilink")。这款TGV可以在[法国高速铁路东线的](https://zh.wikipedia.org/wiki/法国高速铁路东线 "wikilink")[马恩河畔韦尔](../Page/马恩河畔韦尔.md "wikilink")至[博德雷库尔区间达到](https://zh.wikipedia.org/wiki/博德雷库尔_\(摩泽尔省\) "wikilink")320公里/小时的最高速度。列车内饰是由法国[时装设计师](https://zh.wikipedia.org/wiki/时装设计师 "wikilink")[克里斯蒂安·拉克鲁瓦](../Page/克里斯蒂安·拉克鲁瓦.md "wikilink")所设计。自2011年12月起，这些列车开始经由[法國高速鐵路萊茵河-隆河線运行](https://zh.wikipedia.org/wiki/法國高速鐵路萊茵河-隆河線 "wikilink")。
 
-自2012年起，巴黎－巴塞尔（－苏黎世）的线路也会使用双层的TGV
-Duplex列车运行。运营商Lyria希望该线的所有列车在2013年底前都被替换为TGV
-POS\[7\]。连同在2012年底前由[Alleo](../Page/Alleo.md "wikilink")运营前往[德国](../Page/德国.md "wikilink")南部的TGV
-POS列车，被释放出来的TGV POS可以用于取代退役的TGV
-PSE，担当由巴黎至瑞士间的其它Lyria服务\[8\]。自2012年8月起，运行于巴黎－洛桑线路的TGV
-POS列车均开始采用一款全新的涂装。全部19组TGV POS应都交由Lyria使用\[9\]。
+自2012年起，巴黎－巴塞尔（－苏黎世）的线路也会使用双层的TGV Duplex列车运行。运营商Lyria希望该线的所有列车在2013年底前都被替换为TGV POS\[7\]。连同在2012年底前由[Alleo](../Page/Alleo.md "wikilink")运营前往[德国](../Page/德国.md "wikilink")南部的TGV POS列车，被释放出来的TGV POS可以用于取代退役的TGV PSE，担当由巴黎至瑞士间的其它Lyria服务\[8\]。自2012年8月起，运行于巴黎－洛桑线路的TGV POS列车均开始采用一款全新的涂装。全部19组TGV POS应都交由Lyria使用\[9\]。
 
 列车的维修保养工作，包括由瑞士联邦铁路持有的3组列车，均由法国国营铁路负责\[10\]。
 
@@ -74,12 +61,9 @@ POS列车均开始采用一款全新的涂装。全部19组TGV POS应都交由Ly
 
   - [TGV Lyria](http://www.tgv-lyria.fr/)
 
-[Category:法国铁路公司](https://zh.wikipedia.org/wiki/Category:法国铁路公司 "wikilink")
-[Category:瑞士铁路公司](https://zh.wikipedia.org/wiki/Category:瑞士铁路公司 "wikilink")
+[Category:法国铁路公司](https://zh.wikipedia.org/wiki/Category:法国铁路公司 "wikilink") [Category:瑞士铁路公司](https://zh.wikipedia.org/wiki/Category:瑞士铁路公司 "wikilink")
 
-1.  [SBB
-    Geschäftsbericht 2008](http://sbb-gb2008.mxm.ch/_pdf/SBB_mit_ug_gesamt_d.pdf)
-     (PDF; 4,0 MB), S. 128/144
+1.  [SBB Geschäftsbericht 2008](http://sbb-gb2008.mxm.ch/_pdf/SBB_mit_ug_gesamt_d.pdf)  (PDF; 4,0 MB), S. 128/144
 
 2.
 
@@ -87,23 +71,14 @@ POS列车均开始采用一款全新的涂装。全部19组TGV POS应都交由Ly
 
 4.
 
-5.  Brian Perren: *High-speed rail gains from air*. In: Modern Railways.
-    Bd. 65, Nr. 719, 2008, , S. 58 f.
+5.  Brian Perren: *High-speed rail gains from air*. In: Modern Railways. Bd. 65, Nr. 719, 2008, , S. 58 f.
 
-6.  *Lyria-Triebköpfe zum Abbruch*. In: Eisenbahn-Revue International,
-    Heft 10, Jahrgang 2013, , S. 528.
+6.  *Lyria-Triebköpfe zum Abbruch*. In: Eisenbahn-Revue International, Heft 10, Jahrgang 2013, , S. 528.
 
-7.  Basler Zeitung:[„Warten auf die modernen
-    Euroduplex“](http://bazonline.ch/basel/stadt/Warten-auf-die-modernen-Euroduplex/story/28099944),
-    29. März 2012
+7.  Basler Zeitung:[„Warten auf die modernen Euroduplex“](http://bazonline.ch/basel/stadt/Warten-auf-die-modernen-Euroduplex/story/28099944), 29. März 2012
 
 8.
-9.  bahnonline.ch: [*Der erste TGV Lyria-Zug rollte am Montag dem 27.
-    August 2012 um 11:44 Uhr in Lausanne
-    ein*](http://www.bahnonline.ch/wp/50574/erster-tgv-lyria-zug-rollt-am-montag-27-august-2012-1144-uhr-in-lausanne-ein.htm)
-    , 24. August 2012
+9.  bahnonline.ch: [*Der erste TGV Lyria-Zug rollte am Montag dem 27. August 2012 um 11:44 Uhr in Lausanne ein*](http://www.bahnonline.ch/wp/50574/erster-tgv-lyria-zug-rollt-am-montag-27-august-2012-1144-uhr-in-lausanne-ein.htm) , 24. August 2012
 
 10.
-11. [*Berner TGV soll neu via Basel nach Paris
-    fahren*](http://www.20min.ch/schweiz/bern/story/Berner-TGV-soll-neu-via-Basel-nach-Paris-fahren-20196157),
-    23. April 2013, 20min.ch
+11. [*Berner TGV soll neu via Basel nach Paris fahren*](http://www.20min.ch/schweiz/bern/story/Berner-TGV-soll-neu-via-Basel-nach-Paris-fahren-20196157), 23. April 2013, 20min.ch

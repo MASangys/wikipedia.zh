@@ -1,16 +1,10 @@
-**Dorothy Little Happy**是日本的音樂團體、一人女性偶像團體。所屬經紀公司為[STEP
-ONE](https://zh.wikipedia.org/wiki/STEP_ONE "wikilink")，唱片公司為 OTODAMA
-RECORDS。
+**Dorothy Little Happy**是日本的音樂團體、一人女性偶像團體。所屬經紀公司為[STEP ONE](https://zh.wikipedia.org/wiki/STEP_ONE "wikilink")，唱片公司為 OTODAMA RECORDS。
 
 ## 概要
 
-2010年、以[宮城縣](../Page/宮城縣.md "wikilink")[仙台市](../Page/仙台市.md "wikilink")為主要據點的經紀公司中，由該公司旗下團體、[B♭](https://zh.wikipedia.org/wiki/B♭ "wikilink")、Dorothy
-Little Happy 官方舞者中所選拔出的五位團員所組成。
+2010年、以[宮城縣](../Page/宮城縣.md "wikilink")[仙台市](../Page/仙台市.md "wikilink")為主要據點的經紀公司中，由該公司旗下團體、[B♭](https://zh.wikipedia.org/wiki/B♭ "wikilink")、Dorothy Little Happy 官方舞者中所選拔出的五位團員所組成。
 
-2015年4月28日宣佈、MIMORI（富永美杜）、RUUNA（秋元瑠海）、KOUMI（早坂香美）3位成員於7月12日[中野太陽廣場](../Page/中野太陽廣場.md "wikilink")舉行的「Dorothy
-Little Happy Live Tour 2015 5th Anniversary ～just move on～」最終場後從Dorothy
-Little
-Happy畢業，並會以新團體[callme名義活動](https://zh.wikipedia.org/wiki/callme "wikilink")。
+2015年4月28日宣佈、MIMORI（富永美杜）、RUUNA（秋元瑠海）、KOUMI（早坂香美）3位成員於7月12日[中野太陽廣場](../Page/中野太陽廣場.md "wikilink")舉行的「Dorothy Little Happy Live Tour 2015 5th Anniversary ～just move on～」最終場後從Dorothy Little Happy畢業，並會以新團體[callme名義活動](https://zh.wikipedia.org/wiki/callme "wikilink")。
 
 目前由 MARI（高橋麻里）擔任主唱。
 
@@ -22,10 +16,7 @@ Happy畢業，並會以新團體[callme名義活動](https://zh.wikipedia.org/wi
 
 ## 經歷
 
-正式出道的迷你專輯「但是說再見（）」，受到[東日本大地震的影響](https://zh.wikipedia.org/wiki/東日本大地震 "wikilink")，以仙台為主的發售活動全部中止。將近一個月無法將
-CD 鋪貨至宮城縣、岩手縣與福島縣等地的唱片行。但在地震後一個月開始舉辦賑災演唱會，並參加 [TOKYO IDOL
-FESTIVAL](https://zh.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL "wikilink")
-2011 的演出。
+正式出道的迷你專輯「但是說再見（）」，受到[東日本大地震的影響](https://zh.wikipedia.org/wiki/東日本大地震 "wikilink")，以仙台為主的發售活動全部中止。將近一個月無法將 CD 鋪貨至宮城縣、岩手縣與福島縣等地的唱片行。但在地震後一個月開始舉辦賑災演唱會，並參加 [TOKYO IDOL FESTIVAL](https://zh.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL "wikilink") 2011 的演出。
 
 ## 成員
 
@@ -71,46 +62,31 @@ FESTIVAL](https://zh.wikipedia.org/wiki/TOKYO_IDOL_FESTIVAL "wikilink")
 
   - 2010年8月4日 - 以「JUMP！（）」獨立製片單曲出道。
   - 2010年12月1日 - 發行第二張單曲「冬櫻 ～Winter flower～（）」
-  - 2011年3月16日 - 在 [avex
-    trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")
-    發行正式出道迷你專輯「但是說再見（）」
-  - 2012年1月11日 - 在 avex trax 發行第一張正式單曲「HAPPY
-    DAYS\!」。同時發行獨立製片時期的重製迷你專輯「但是說再見
-    2012」。
+  - 2011年3月16日 - 在 [avex trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink") 發行正式出道迷你專輯「但是說再見（）」
+  - 2012年1月11日 - 在 avex trax 發行第一張正式單曲「HAPPY DAYS\!」。同時發行獨立製片時期的重製迷你專輯「但是說再見 2012」。
   - 2012年7月11日 - 發行第二張正式單曲「衝啊！SUMMER TIME（）」。
-  - 2012年7月29日 - 舉行首次巡迴演唱會 " Dorothy Little Happy Live Tour 2012
-    「飛び出せ\!サマータイム」"。
+  - 2012年7月29日 - 舉行首次巡迴演唱會 " Dorothy Little Happy Live Tour 2012 「飛び出せ\!サマータイム」"。
   - 2013年1月9日 - 與BiS合作，發行第四張單曲「GET YOU」。
   - 2013年2月20日 - 發行第一張正式專輯「Life goes on」。
-  - 2013年5月17-18日 - 參加在[香港](../Page/香港.md "wikilink") Music Zone @
-    E-MAX舉行的「Kawaii POP Fest -supported by @JAM-」，為其初次到海外演出。
+  - 2013年5月17-18日 - 參加在[香港](../Page/香港.md "wikilink") Music Zone @ E-MAX舉行的「Kawaii POP Fest -supported by @JAM-」，為其初次到海外演出。
   - 2013年6月12日 - 發行第五張單曲「colorful life」。
   - 2013年10月16日 - 發行第六張單曲「ASIAN STONE」。在Oricon公信榜上取得第7名成績，為她們歷來的最高名次。
-  - 2014年1月19日 -
-    參加在[台灣河岸留言舉行的](https://zh.wikipedia.org/wiki/台灣 "wikilink")「KAWAII
-    POP FES by@JAM in台湾」。
+  - 2014年1月19日 - 參加在[台灣河岸留言舉行的](https://zh.wikipedia.org/wiki/台灣 "wikilink")「KAWAII POP FES by@JAM in台湾」。
   - 2014年2月26日 - 發行第二張專輯「STARTING OVER」。
-  - 2014年6月12日 - 參加在香港 Music Zone @ E-MAX舉行的「KAWAII POP FES by@JAM vol.3
-    香港2014」。
+  - 2014年6月12日 - 參加在香港 Music Zone @ E-MAX舉行的「KAWAII POP FES by@JAM vol.3 香港2014」。
   - 2014年7月16日 - 發行第七張單曲「sky traveler」。
   - 2014年12月26日 - 發行第三張迷你專輯「circle of the world」。
-  - 2014年12月30日 - 於巡演「Dorothy Little Happy Winter Live Tour
-    2014」最終場上宣佈成員RUUNA、MIMORI、KOUMI將組成衍生組合「callme」。
-  - 2015年3月15日 - 在Zepp Blue Theater六本木舉行組成5周年記念演唱會「Dorothy Little Happy
-    5th Anniversary Year Live」。
-  - 2015年4月28日 - 宣佈秋元瑠海、富永美杜、早坂香美3位成員於7月12日在中野 Sun Plaza舉行的「Live Tour
-    2015 5th Anniversary ～just move on～」最終場後畢業。\[4\]
+  - 2014年12月30日 - 於巡演「Dorothy Little Happy Winter Live Tour 2014」最終場上宣佈成員RUUNA、MIMORI、KOUMI將組成衍生組合「callme」。
+  - 2015年3月15日 - 在Zepp Blue Theater六本木舉行組成5周年記念演唱會「Dorothy Little Happy 5th Anniversary Year Live」。
+  - 2015年4月28日 - 宣佈秋元瑠海、富永美杜、早坂香美3位成員於7月12日在中野 Sun Plaza舉行的「Live Tour 2015 5th Anniversary ～just move on～」最終場後畢業。\[4\]
   - 2015年7月31日 - 宣佈移藉到日本環球唱片旗下廠牌UNIVERSAL GEAR。 \[5\]
   - 2015年12月16日 - 發行第十一張單曲「Restart」。
   - 2016年5月8日 - 發行第十二張單曲「バイカラーの恋心」。
   - 2017年2月16日 - 白戶佳奈因健康問題宣佈藝能活動休止，組合將會以高橋麻里一人體制繼續活動。
   - 2017年3月31日 - 宣佈移藉到OTODAMA RECORDS，同日宣佈白戶佳奈將會於4月起重新活動。
-  - 2017年5月20日 - 白戶佳奈宣佈7月23日在東京Mt.RAINIER HALL SHIBUYA PLEASURE
-    PLEASURE舉行的公演後從藝能界引退。現體制亦於同日後結束活動。
+  - 2017年5月20日 - 白戶佳奈宣佈7月23日在東京Mt.RAINIER HALL SHIBUYA PLEASURE PLEASURE舉行的公演後從藝能界引退。現體制亦於同日後結束活動。
   - 2017年5月31日 - 發行第十三張單曲「FOR YOU」。
-  - 2017年8月27日 - 為了參與橫濱體育館舉行的「@JAM EXPO
-    2017」，高橋麻里連同四位前成員秋元瑠海、富永美杜、早坂香美、白戶佳奈以五人體制一夜限定復活，於「EXPO
-    Dream Stage」舞台重聚表演。
+  - 2017年8月27日 - 為了參與橫濱體育館舉行的「@JAM EXPO 2017」，高橋麻里連同四位前成員秋元瑠海、富永美杜、早坂香美、白戶佳奈以五人體制一夜限定復活，於「EXPO Dream Stage」舞台重聚表演。
 
 ## 發行作品
 
@@ -546,8 +522,7 @@ AVBD-92244</p></td>
 
 　　每周一 20:30 - 21:00
 
-  - 「Dorothy Little Happy…HAPPY NIGHT\!」（2012年4月4日 - 2012年12月26日 ，FM
-    NACK5）
+  - 「Dorothy Little Happy…HAPPY NIGHT\!」（2012年4月4日 - 2012年12月26日 ，FM NACK5）
 
 　　每周三 25:40 - 26:00　（STROBE NIGHT\!）
 
@@ -555,8 +530,7 @@ AVBD-92244</p></td>
 
   - （2013年11月12日 - 、Showroom）- 每周三20:00 - 21:00
 
-  - 「」（2011年6月8日 -　2011年8月10日
-    、[USTREAM](https://zh.wikipedia.org/wiki/USTREAM "wikilink")・ariTV）
+  - 「」（2011年6月8日 -　2011年8月10日 、[USTREAM](https://zh.wikipedia.org/wiki/USTREAM "wikilink")・ariTV）
 
 　　每周三 20:00 - 20:30
 　　　　※因行程關係，現已改成演出的「」節目
@@ -584,8 +558,7 @@ AVBD-92244</p></td>
 
   - [Dorothy Little Happy 官方網站](http://dorothylittlehappy.jp/)
 
-  - [Dorothy Little Happy - UNIVERSAL MUSIC
-    JAPAN](http://www.universal-music.co.jp/dorothy-little-happy/)
+  - [Dorothy Little Happy - UNIVERSAL MUSIC JAPAN](http://www.universal-music.co.jp/dorothy-little-happy/)
 
   -
 <!-- end list -->
@@ -594,24 +567,17 @@ AVBD-92244</p></td>
 
 <!-- end list -->
 
-  - [Dorothy Little Happy 官方部落格 powered by
-    Ameba](http://ameblo.jp/dorothylittlehappy/)
+  - [Dorothy Little Happy 官方部落格 powered by Ameba](http://ameblo.jp/dorothylittlehappy/)
 
   -
   -
   -
-  - [ドロシーリトルハッピーのジャンプ！](https://web.archive.org/web/20121020004421/http://www.tbc-sendai.co.jp/02radio/dlh/index.html)
-    - TBC Radio
+  - [ドロシーリトルハッピーのジャンプ！](https://web.archive.org/web/20121020004421/http://www.tbc-sendai.co.jp/02radio/dlh/index.html) - TBC Radio
 
-[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:日本在地偶像](https://zh.wikipedia.org/wiki/Category:日本在地偶像 "wikilink")
+[Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:日本在地偶像](https://zh.wikipedia.org/wiki/Category:日本在地偶像 "wikilink")
 
-1.  [Dorothy Little Happy
-    官方部落格 2010年7月7日之文章](http://ameblo.jp/dorothylittlehappy/entry-10583440134.html)
+1.  [Dorothy Little Happy 官方部落格 2010年7月7日之文章](http://ameblo.jp/dorothylittlehappy/entry-10583440134.html)
 2.  Datefm 坂本サトル「うたのちから」2010年7月20日節目發言。
 3.
-4.  [Dorothy Little
-    Happyから3人卒業、現体制ラストは中野サンプラザホール](http://natalie.mu/music/news/145649)
+4.  [Dorothy Little Happyから3人卒業、現体制ラストは中野サンプラザホール](http://natalie.mu/music/news/145649)
 5.

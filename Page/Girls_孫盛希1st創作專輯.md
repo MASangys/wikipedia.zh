@@ -1,5 +1,4 @@
-《GIRLS》是[孫盛希首張個人](https://zh.wikipedia.org/wiki/孫盛希 "wikilink")[創作專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2014年6月20日由[滾石唱片](../Page/滾石唱片.md "wikilink")發行。\[1\]
-2015年5月18日，孫盛希憑藉該專輯入圍[第26屆金曲獎最佳新人獎](https://zh.wikipedia.org/wiki/第26屆金曲獎 "wikilink")。
+《GIRLS》是[孫盛希首張個人](https://zh.wikipedia.org/wiki/孫盛希 "wikilink")[創作專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2014年6月20日由[滾石唱片](../Page/滾石唱片.md "wikilink")發行。\[1\] 2015年5月18日，孫盛希憑藉該專輯入圍[第26屆金曲獎最佳新人獎](https://zh.wikipedia.org/wiki/第26屆金曲獎 "wikilink")。
 
 ## 曲目
 
@@ -29,7 +28,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a></p></td>
 <td><p>Jae Chong</p></td>
-<td></td>
+<td><p><strong>首波主打</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>03</p></td>
@@ -37,7 +36,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a></p></td>
 <td><p>梁錦興</p></td>
 <td><p>Jae Chong</p></td>
-<td><p>華視、TVBS歡樂台 偶像劇《<a href="../Page/巷弄裡的那家書店.md" title="wikilink">巷弄裡的那家書店</a>》片頭曲</p></td>
+<td><p><strong>第三波主打</strong> 華視、TVBS歡樂台 偶像劇《<a href="../Page/巷弄裡的那家書店.md" title="wikilink">巷弄裡的那家書店</a>》片頭曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>04</p></td>
@@ -45,7 +44,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a></p></td>
 <td><p>Molly Lin</p></td>
 <td><p>Jae Chong</p></td>
-<td><p>三立、東森 華劇《<a href="../Page/我的自由年代.md" title="wikilink">我的自由年代</a>》插曲</p></td>
+<td><p><strong>第六波主打</strong> 三立、東森 華劇《<a href="../Page/我的自由年代.md" title="wikilink">我的自由年代</a>》插曲</p></td>
 </tr>
 <tr class="even">
 <td><p>05</p></td>
@@ -53,7 +52,7 @@
 <td><p><a href="../Page/徐佳瑩.md" title="wikilink">徐佳瑩</a></p></td>
 <td><p>葛大為</p></td>
 <td><p>羅恩妮、楊聲錚</p></td>
-<td><p>三立、東森 華劇《<a href="../Page/女人30情定水舞間.md" title="wikilink">女人30情定水舞間</a>》插曲</p></td>
+<td><p><strong>第二波主打</strong> 三立、東森 華劇《<a href="../Page/女人30情定水舞間.md" title="wikilink">女人30情定水舞間</a>》插曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>06</p></td>
@@ -69,7 +68,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a>、<a href="../Page/葛仲珊.md" title="wikilink">葛仲珊</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a>、<a href="../Page/葛仲珊.md" title="wikilink">葛仲珊</a>、葛大為</p></td>
 <td><p><a href="../Page/林邁可.md" title="wikilink">林邁可</a></p></td>
-<td><p>feat.<a href="../Page/葛仲珊.md" title="wikilink">葛仲珊</a></p></td>
+<td><p><strong>第五波主打</strong> feat.<a href="../Page/葛仲珊.md" title="wikilink">葛仲珊</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>08</p></td>
@@ -77,7 +76,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a>、Molly Lin</p></td>
 <td><p><a href="../Page/林邁可.md" title="wikilink">林邁可</a></p></td>
-<td><p>華視、TVBS歡樂台 偶像劇《<a href="../Page/巷弄裡的那家書店.md" title="wikilink">巷弄裡的那家書店</a>》插曲<br />
+<td><p><strong>第四波主打</strong> 華視、TVBS歡樂台 偶像劇《<a href="../Page/巷弄裡的那家書店.md" title="wikilink">巷弄裡的那家書店</a>》插曲<br />
 電影《<a href="https://zh.wikipedia.org/wiki/閨蜜" title="wikilink">閨蜜</a>》七夕主題曲<br />
 八大韓劇《<a href="../Page/你們被包圍了.md" title="wikilink">你們被包圍了</a>》片尾曲</p></td>
 </tr>
@@ -233,8 +232,7 @@
 
 ## 外部連結
 
-  - [滾石唱片
-    《GIRLS》](http://www.rockmall.com.tw/mod/product/index.php?REQUEST_ID=cGFnZT1kZXRhaWwmUElEPTI2Njcw)
+  - [滾石唱片 《GIRLS》](http://www.rockmall.com.tw/mod/product/index.php?REQUEST_ID=cGFnZT1kZXRhaWwmUElEPTI2Njcw)
   - [博客來音樂館](http://www.books.com.tw/exep/cdfile.php?item=0020179328)
 
 ## 參考資料

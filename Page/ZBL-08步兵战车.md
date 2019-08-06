@@ -1,6 +1,4 @@
-**ZBL-08步兵战车** \[1\]
-又被称为“**08式轮式步兵战车**”，代号：“雪豹”，是[中华人民共和国研制的一种](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")8×8驱动形式的轮式[步兵战车](../Page/步兵战车.md "wikilink")，在2009年10月1日的[庆祝中华人民共和国国庆60周年阅兵式上首次公开亮相](../Page/首都各界庆祝中华人民共和国成立60周年大会.md "wikilink")，排在装甲车方队的第5位，由[中国人民解放军陆军第54集团军的成员驾驶](https://zh.wikipedia.org/wiki/中国人民解放军第54集团军 "wikilink")。\[2\]
-最初外界知道该步战车存在后曾称为“ZBL-09”，这个未经证实的称谓随后被广泛流传。后来在互联网上出现的一些解放军部队照片证实其正式命名为“**ZBL-08**”\[3\]。其名称的ZBL三个字母分别表示装甲车辆、步兵、轮式。
+**ZBL-08步兵战车** \[1\] 又被称为“**08式轮式步兵战车**”，代号：“雪豹”，是[中华人民共和国研制的一种](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")8×8驱动形式的轮式[步兵战车](../Page/步兵战车.md "wikilink")，在2009年10月1日的[庆祝中华人民共和国国庆60周年阅兵式上首次公开亮相](../Page/首都各界庆祝中华人民共和国成立60周年大会.md "wikilink")，排在装甲车方队的第5位，由[中国人民解放军陆军第54集团军的成员驾驶](https://zh.wikipedia.org/wiki/中国人民解放军第54集团军 "wikilink")。\[2\] 最初外界知道该步战车存在后曾称为“ZBL-09”，这个未经证实的称谓随后被广泛流传。后来在互联网上出现的一些解放军部队照片证实其正式命名为“**ZBL-08**”\[3\]。其名称的ZBL三个字母分别表示装甲车辆、步兵、轮式。
 
 ZBL-08步兵战车的外贸型号称为VN1型轮式步兵战车。VN1型步兵战车曾经出口过委内瑞拉。在2015年委国多次军演期间出现过。
 
@@ -12,8 +10,7 @@ ZBL-08步兵战车的设计布局为动力舱在前，驾驶舱在动力舱左�
 
 ### 武器
 
-主要武器为一挺[ZPT-99](../Page/希普諾夫2A72機炮.md "wikilink")
-30毫米口徑机炮（2A72的中国仿製型）、改进型[红箭-73C反坦克导弹和车载](../Page/红箭-73反坦克导弹.md "wikilink")7.62mm并列机枪。其大炮版本则可以拥有105毫米94式改进线膛低压炮（中国授权生产的英国[L7线膛炮的改进型](../Page/L7線膛炮.md "wikilink")）或来自96式122毫米改进牵引榴弹炮，105毫米线膛炮版本还可以发射炮射导弹。自行高炮版本则是采用35毫米无人单管转膛炮塔，具有射速高的特点。\[4\]
+主要武器为一挺[ZPT-99](../Page/希普諾夫2A72機炮.md "wikilink") 30毫米口徑机炮（2A72的中国仿製型）、改进型[红箭-73C反坦克导弹和车载](../Page/红箭-73反坦克导弹.md "wikilink")7.62mm并列机枪。其大炮版本则可以拥有105毫米94式改进线膛低压炮（中国授权生产的英国[L7线膛炮的改进型](../Page/L7線膛炮.md "wikilink")）或来自96式122毫米改进牵引榴弹炮，105毫米线膛炮版本还可以发射炮射导弹。自行高炮版本则是采用35毫米无人单管转膛炮塔，具有射速高的特点。\[4\]
 
 ### 動力系統
 
@@ -27,14 +24,11 @@ ZBL-08步兵战车因受美国[史崔克装甲车影响](https://zh.wikipedia.or
 
 ### 基本型
 
-ZBL-08步兵战车是中国8X8装甲车族的最基本型号，其它的8X8装甲车族成员都是在它的基础上改进而来。主要武器为一挺[ZPT-99](../Page/希普諾夫2A72機炮.md "wikilink")
-30毫米口徑机炮（2A72的中国仿製型）、改进型[红箭-73C反坦克导弹](../Page/红箭-73反坦克导弹.md "wikilink")。
+ZBL-08步兵战车是中国8X8装甲车族的最基本型号，其它的8X8装甲车族成员都是在它的基础上改进而来。主要武器为一挺[ZPT-99](../Page/希普諾夫2A72機炮.md "wikilink") 30毫米口徑机炮（2A72的中国仿製型）、改进型[红箭-73C反坦克导弹](../Page/红箭-73反坦克导弹.md "wikilink")。
 
 ### 装甲突击车型
 
-[Chinese_ZTL-11.jpg](https://zh.wikipedia.org/wiki/File:Chinese_ZTL-11.jpg "fig:Chinese_ZTL-11.jpg")
-
-ZTL-11轮式突击车（装甲突击车型）是在[抗战胜利70周年阅兵首次展现的轮式突击车](https://zh.wikipedia.org/wiki/纪念中国人民抗日战争暨世界反法西斯战争胜利70周年大会 "wikilink")（炮），其搭载由94式105毫米线膛炮改进而来的低压版本，可发射炮射导弹。
+[Chinese_ZTL-11.jpg](https://zh.wikipedia.org/wiki/File:Chinese_ZTL-11.jpg "fig:Chinese_ZTL-11.jpg")  ZTL-11轮式突击车（装甲突击车型）是在[抗战胜利70周年阅兵首次展现的轮式突击车](https://zh.wikipedia.org/wiki/纪念中国人民抗日战争暨世界反法西斯战争胜利70周年大会 "wikilink")（炮），其搭载由94式105毫米线膛炮改进而来的低压版本，可发射炮射导弹。
 
 ### 工程车型
 
@@ -48,8 +42,7 @@ PGZ-12自行高炮（侦察车）型是8×8装甲车族中较晚露面的成员�
 
 ### 核生化侦测车型
 
-[Shiyang_Road,Nanjing,20150727,01.jpg](https://zh.wikipedia.org/wiki/File:Shiyang_Road,Nanjing,20150727,01.jpg "fig:Shiyang_Road,Nanjing,20150727,01.jpg")
-{{-}}
+[Shiyang_Road,Nanjing,20150727,01.jpg](https://zh.wikipedia.org/wiki/File:Shiyang_Road,Nanjing,20150727,01.jpg "fig:Shiyang_Road,Nanjing,20150727,01.jpg") {{-}}
 
 ## 使用国
 
@@ -86,8 +79,7 @@ PGZ-12自行高炮（侦察车）型是8×8装甲车族中较晚露面的成员�
 
 <!-- end list -->
 
-  - [泰國皇家陸軍](../Page/泰國皇家陸軍.md "wikilink")-
-    2020年交貨首批34輛出口型VN-1，每輛170萬美金.\[12\]
+  - [泰國皇家陸軍](../Page/泰國皇家陸軍.md "wikilink")- 2020年交貨首批34輛出口型VN-1，每輛170萬美金.\[12\]
 
 ## 各國輪式步兵戰車比較
 
@@ -95,9 +87,7 @@ PGZ-12自行高炮（侦察车）型是8×8装甲车族中较晚露面的成员�
 
 ## 流行文化
 
-  - ZBL-08步兵战车在2013年[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《[-{zh-hans:
-    战地4; zh-hant: 戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
-    4）中以[中国人民解放军](../Page/中国人民解放军.md "wikilink")步兵战车之姿出現，仍命名ZBL-09是由於DICE誤用中國大陸軍事網站中未經證實的稱謂而得名，奇怪地使用25毫米機炮（預設）、[拖式飛彈](../Page/BGM-71拖式飛彈.md "wikilink")（解鎖後）和[祖尼火箭](../Page/祖尼火箭.md "wikilink")（解鎖後），類似的情況亦出現在[BTR-90](../Page/BTR-90.md "wikilink")上。
+  - ZBL-08步兵战车在2013年[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《[-{zh-hans: 战地4; zh-hant: 戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield 4）中以[中国人民解放军](../Page/中国人民解放军.md "wikilink")步兵战车之姿出現，仍命名ZBL-09是由於DICE誤用中國大陸軍事網站中未經證實的稱謂而得名，奇怪地使用25毫米機炮（預設）、[拖式飛彈](../Page/BGM-71拖式飛彈.md "wikilink")（解鎖後）和[祖尼火箭](../Page/祖尼火箭.md "wikilink")（解鎖後），類似的情況亦出現在[BTR-90](../Page/BTR-90.md "wikilink")上。
 
 ## 相关条目
 
@@ -115,8 +105,7 @@ PGZ-12自行高炮（侦察车）型是8×8装甲车族中较晚露面的成员�
 
 [分類:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/分類:中華人民共和國裝甲戰鬥車輛 "wikilink")
 
-[Category:步兵战车](https://zh.wikipedia.org/wiki/Category:步兵战车 "wikilink")
-[Category:裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:裝甲戰鬥車輛 "wikilink")
+[Category:步兵战车](https://zh.wikipedia.org/wiki/Category:步兵战车 "wikilink") [Category:裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:裝甲戰鬥車輛 "wikilink")
 
 1.  根据中华人民共和国武器命名规则，ZBL是装甲—步兵战车—轮式的意思。
 

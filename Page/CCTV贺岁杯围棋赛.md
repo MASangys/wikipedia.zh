@@ -10,8 +10,7 @@
 
 ## 第二届贺岁杯围棋赛（2014年）
 
-2014年的第二届贺岁杯围棋赛又名“中日韩围棋争霸赛”，邀请了中日韩的顶尖棋手：时越、李世石、村川大介。比赛由国内比赛变成了国际比赛，由一盘变成了三盘，播出形式也由上届的录播改为直播。冠军奖金高达80万元人民币，亚军与季军也有40万元和20万元。
-根据抽签结果，时越与村川大介先赛一盘，胜者晋级决赛，负者与李世石再赛一盘，争夺另一个决赛名额。
+2014年的第二届贺岁杯围棋赛又名“中日韩围棋争霸赛”，邀请了中日韩的顶尖棋手：时越、李世石、村川大介。比赛由国内比赛变成了国际比赛，由一盘变成了三盘，播出形式也由上届的录播改为直播。冠军奖金高达80万元人民币，亚军与季军也有40万元和20万元。 根据抽签结果，时越与村川大介先赛一盘，胜者晋级决赛，负者与李世石再赛一盘，争夺另一个决赛名额。
 
 <table>
 <thead>
@@ -267,20 +266,12 @@
 
 [Category:国际围棋比赛](https://zh.wikipedia.org/wiki/Category:国际围棋比赛 "wikilink")
 
-1.  [贺岁杯柯洁负井山裕太
-    将与朴廷桓争决赛权](http://sports.sina.com.cn/go/2017-01-29/doc-ifxzyxmu8295202.shtml)
-2.  [贺岁杯柯洁击败朴廷桓
-    决赛将再战井山裕太](http://sports.sina.com.cn/go/2017-01-30/doc-ifxzyxmu8357617.shtml)
-3.  [贺岁杯柯洁复仇井山
-    连续两年夺冠揽80万奖金](http://sports.sina.com.cn/go/2017-01-31/doc-ifxzyxmu8431893.shtml)
+1.  [贺岁杯柯洁负井山裕太 将与朴廷桓争决赛权](http://sports.sina.com.cn/go/2017-01-29/doc-ifxzyxmu8295202.shtml)
+2.  [贺岁杯柯洁击败朴廷桓 决赛将再战井山裕太](http://sports.sina.com.cn/go/2017-01-30/doc-ifxzyxmu8357617.shtml)
+3.  [贺岁杯柯洁复仇井山 连续两年夺冠揽80万奖金](http://sports.sina.com.cn/go/2017-01-31/doc-ifxzyxmu8431893.shtml)
 4.  [贺岁杯朴廷桓晋级决赛 6日柯洁将战一力辽](http://sports.sina.com.cn/go/2018-02-05/doc-ifyreyvz9257259.shtml)
-5.  [贺岁杯柯洁击败一力辽
-    将与朴廷桓争夺冠军](http://sports.sina.com.cn/go/2018-02-06/doc-ifyreuzn3932103.shtml)
-6.  [贺岁杯决赛柯洁遭屠龙
-    朴廷桓该赛事首次夺冠](http://sports.sina.com.cn/go/2018-02-07/doc-ifyreyvz9822811.shtml)
-7.  [贺岁杯首局柯洁执黑胜朴廷桓
-    率先晋级决赛](http://sports.sina.com.cn/go/2019-01-31/doc-ihrfqzka2693687.shtml)
-8.  [央视贺岁杯朴廷桓大胜日本新锐
-    将与柯洁争冠](http://sports.sina.com.cn/go/2019-02-01/doc-ihrfqzka2968746.shtml)
-9.  [贺岁杯决赛柯洁出现低级失误
-    朴廷桓夺二连冠](http://sports.sina.com.cn/go/2019-02-02/doc-ihqfskcp2669898.shtml)
+5.  [贺岁杯柯洁击败一力辽 将与朴廷桓争夺冠军](http://sports.sina.com.cn/go/2018-02-06/doc-ifyreuzn3932103.shtml)
+6.  [贺岁杯决赛柯洁遭屠龙 朴廷桓该赛事首次夺冠](http://sports.sina.com.cn/go/2018-02-07/doc-ifyreyvz9822811.shtml)
+7.  [贺岁杯首局柯洁执黑胜朴廷桓 率先晋级决赛](http://sports.sina.com.cn/go/2019-01-31/doc-ihrfqzka2693687.shtml)
+8.  [央视贺岁杯朴廷桓大胜日本新锐 将与柯洁争冠](http://sports.sina.com.cn/go/2019-02-01/doc-ihrfqzka2968746.shtml)
+9.  [贺岁杯决赛柯洁出现低级失误 朴廷桓夺二连冠](http://sports.sina.com.cn/go/2019-02-02/doc-ihqfskcp2669898.shtml)

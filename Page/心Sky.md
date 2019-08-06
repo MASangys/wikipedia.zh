@@ -1,5 +1,4 @@
-「**心Sky**」（）是[寿美菜子的第](https://zh.wikipedia.org/wiki/寿美菜子 "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年4月11日由[Music
-Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
+「**心Sky**」（）是[寿美菜子的第](https://zh.wikipedia.org/wiki/寿美菜子 "wikilink")4張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年4月11日由[Music Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
 
 ## 收錄曲
 
@@ -27,6 +26,4 @@ Ray'n發售](../Page/Music_Ray'n.md "wikilink")。
       - [初回限定盤](http://www.sonymusic.co.jp/Music/Arch/MR/minakokotobuki/SMCL-260)
       - [通常盤](http://www.sonymusic.co.jp/Music/Arch/MR/minakokotobuki/SMCL-262)
 
-[Category:壽美菜子單曲](https://zh.wikipedia.org/wiki/Category:壽美菜子單曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
+[Category:壽美菜子單曲](https://zh.wikipedia.org/wiki/Category:壽美菜子單曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")

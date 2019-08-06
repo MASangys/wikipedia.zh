@@ -6,14 +6,7 @@
 
 JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市網路 "wikilink")，連結[大阪市](../Page/大阪市.md "wikilink")與[神戶市](https://zh.wikipedia.org/wiki/神戶市 "wikilink")、[明石市](../Page/明石市.md "wikilink")、[姫路市等兵庫縣内](https://zh.wikipedia.org/wiki/姫路市 "wikilink")[瀨戶内海沿海各都市](https://zh.wikipedia.org/wiki/瀨戶内海 "wikilink")。路線色為**藍**（），與[JR京都線同樣位於都市網路的中心位置](https://zh.wikipedia.org/wiki/JR京都線 "wikilink")，故直接使用JR西日本的公司顏色。
 
-[新快速](../Page/新快速.md "wikilink")大阪站 -
-[三宮站間](https://zh.wikipedia.org/wiki/三宮站 "wikilink")30.6km最短20分、大阪站
-- 姫路站間87.9km最短60分。大阪站（[梅田站](../Page/梅田站.md "wikilink")） -
-三宮站（[神戶三宮站](https://zh.wikipedia.org/wiki/三宮站 "wikilink")）間要與[阪急神戶本線和](https://zh.wikipedia.org/wiki/阪急神戶本線 "wikilink")[阪神本線](../Page/阪神本線.md "wikilink")、三宮站
--
-姫路站間要與[阪急神戶高速線](https://zh.wikipedia.org/wiki/阪急神戶高速線 "wikilink")・[阪神神戶高速線](https://zh.wikipedia.org/wiki/阪神神戶高速線 "wikilink")・[山陽電鐵本線等私鐵各線相競爭](../Page/山陽電氣鐵道本線.md "wikilink")。票價雖然是私鐵更便宜，但JR所需時間比較短。大阪站
--
-[元町站間直利用午間特價票時與並行的私鐵票價一樣](https://zh.wikipedia.org/wiki/元町站_\(兵庫縣\) "wikilink")。
+[新快速](../Page/新快速.md "wikilink")大阪站 - [三宮站間](https://zh.wikipedia.org/wiki/三宮站 "wikilink")30.6km最短20分、大阪站 - 姫路站間87.9km最短60分。大阪站（[梅田站](../Page/梅田站.md "wikilink")） - 三宮站（[神戶三宮站](https://zh.wikipedia.org/wiki/三宮站 "wikilink")）間要與[阪急神戶本線和](https://zh.wikipedia.org/wiki/阪急神戶本線 "wikilink")[阪神本線](../Page/阪神本線.md "wikilink")、三宮站 - 姫路站間要與[阪急神戶高速線](https://zh.wikipedia.org/wiki/阪急神戶高速線 "wikilink")・[阪神神戶高速線](https://zh.wikipedia.org/wiki/阪神神戶高速線 "wikilink")・[山陽電鐵本線等私鐵各線相競爭](../Page/山陽電氣鐵道本線.md "wikilink")。票價雖然是私鐵更便宜，但JR所需時間比較短。大阪站 - [元町站間直利用午間特價票時與並行的私鐵票價一樣](https://zh.wikipedia.org/wiki/元町站_\(兵庫縣\) "wikilink")。
 
 全線由管轄，根據定為「[大阪近郊區間](../Page/大都市近郊區間_\(JR\).md "wikilink")」\[1\]。大阪站－西明石站段屬，因此票價比區間外要便宜。
 
@@ -63,9 +56,7 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
   - [285系](https://zh.wikipedia.org/wiki/JR西日本285系電車 "wikilink")
       - 寝台特急「SUNRISE瀨戶」「SUNRISE出雲」使用。
   - [223系](https://zh.wikipedia.org/wiki/JR西日本223系電車 "wikilink")（1000・2000・6000番台）・[225系](https://zh.wikipedia.org/wiki/JR西日本225系電車 "wikilink")（0番台）
-      - 使用網干總合車輛所（本所）的車輛。223系由1995年8月12日起、225系由2010年12月1日起\[2\]開始運用、使用作新快速・快速（明石站以西為普通）和西明石站
-        -
-        姫路站間區間運行的普通列車。225系與223系1000・2000番台共通運用。223系6000番台因車輛性能而與221系固定組合、不使用作新快速。
+      - 使用網干總合車輛所（本所）的車輛。223系由1995年8月12日起、225系由2010年12月1日起\[2\]開始運用、使用作新快速・快速（明石站以西為普通）和西明石站 - 姫路站間區間運行的普通列車。225系與223系1000・2000番台共通運用。223系6000番台因車輛性能而與221系固定組合、不使用作新快速。
   - [221系](https://zh.wikipedia.org/wiki/JR西日本221系電車 "wikilink")
       - 使用網干總合車輛所（本所）的車輛。使用作快速（明石站以西為普通）、部份列車與223系6000番台併結運行。
   - [207系](https://zh.wikipedia.org/wiki/JR西日本207系電車 "wikilink")・[321系](https://zh.wikipedia.org/wiki/JR西日本321系電車 "wikilink")
@@ -84,15 +75,12 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 ## 歷史
 
   - 1874年（明治7年）
-      - 5月11日：大阪站 - 神戶站間（20M27C56L≒32.74km）旅客線開業（三宮站 -
-        神戶站間複線）。大阪站・西宮站（現在的西宮站）・三宮站・神戶站開業。
+      - 5月11日：大阪站 - 神戶站間（20M27C56L≒32.74km）旅客線開業（三宮站 - 神戶站間複線）。大阪站・西宮站（現在的西宮站）・三宮站・神戶站開業。
       - 6月1日：神崎站（現在的尼崎站）・住吉站開業。
       - 12月1日：大阪站 - 神戶站間貨物營業開始。
   - 1888年（[明治](../Page/明治.md "wikilink")21年）
-      - 11月1日：**山陽鐵道**兵庫站 - 明石站間
-        （10M68C11L≒17.46km）開業。兵庫站・須磨站・垂水站・明石站開業。
-      - 12月23日：明石站 - 姫路站間
-        （22M14C94L≒35.71km）延伸開業。大久保站・土山站・加古川站・阿弥陀站（現在的曾根站）・姫路站開業。
+      - 11月1日：**山陽鐵道**兵庫站 - 明石站間 （10M68C11L≒17.46km）開業。兵庫站・須磨站・垂水站・明石站開業。
+      - 12月23日：明石站 - 姫路站間 （22M14C94L≒35.71km）延伸開業。大久保站・土山站・加古川站・阿弥陀站（現在的曾根站）・姫路站開業。
   - 1889年（明治22年）
       - 8月：垂水站改稱舞子站。
       - 9月1日：神戶站 - 兵庫站間 （1M11C25L≒1.84km）複線延伸開業。神戶站與官營鐵道接續。
@@ -109,19 +97,15 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
       - 5月14日：寶殿站開業。
   - 1906年（明治39年）12月1日：山陽鐵道國有化。同時和田岬線延長。鹽屋假停車場・舞子假停車場變更為車站。
   - 1908年（明治41年）
-      - 2月10日：西宮站 - 住吉站間戎假乘降場（初代）開業。神崎站 - 西宮站間武庫川假信號所（初代）、西宮站 -
-        住吉站間蘆屋假信號所（初代）開設。伴除[西宮神社](../Page/西宮神社.md "wikilink")祭典有對應的列車增發。
+      - 2月10日：西宮站 - 住吉站間戎假乘降場（初代）開業。神崎站 - 西宮站間武庫川假信號所（初代）、西宮站 - 住吉站間蘆屋假信號所（初代）開設。伴除[西宮神社](../Page/西宮神社.md "wikilink")祭典有對應的列車增發。
       - 2月12日：戎假乘降場（初代）・武庫川假信號所（初代）・蘆屋假信號所（初代）廢止。
-      - 2月22日：[岡本梅林公園旅客輸送的原因](https://zh.wikipedia.org/wiki/岡本梅林公園 "wikilink")、西宮站
-        - 住吉站間岡本假乘降場（初代）開業。
+      - 2月22日：[岡本梅林公園旅客輸送的原因](https://zh.wikipedia.org/wiki/岡本梅林公園 "wikilink")、西宮站 - 住吉站間岡本假乘降場（初代）開業。
       - 3月16日：岡本假乘降場（初代）廢止。
-      - 11月16日：神崎站 - 西宮站間武庫川假信號所（2代目）、西宮站 -
-        住吉站間蘆屋假信號所（2代目）開設。對應[神戶港](../Page/神戶港.md "wikilink")[觀艦式開幕時的列車增發](https://zh.wikipedia.org/wiki/觀艦式 "wikilink")。
+      - 11月16日：神崎站 - 西宮站間武庫川假信號所（2代目）、西宮站 - 住吉站間蘆屋假信號所（2代目）開設。對應[神戶港](../Page/神戶港.md "wikilink")[觀艦式開幕時的列車增發](https://zh.wikipedia.org/wiki/觀艦式 "wikilink")。
       - 11月19日：武庫川假信號所（2代目）・蘆屋假信號所（2代目）廢止。
   - 1909年（明治42年）
       - 2月8日：岡本假乘降場（2代目）開業。
-      - 12月21日：西宮站 - 住吉站間戎假乘降場（2代目）開業（初代相同目的）。神崎站 - 西宮站間武庫川假信號所（3代目）、西宮站
-        - 住吉站間蘆屋假信號所（3代目）開設（兩者廢止日不詳）。
+      - 12月21日：西宮站 - 住吉站間戎假乘降場（2代目）開業（初代相同目的）。神崎站 - 西宮站間武庫川假信號所（3代目）、西宮站 - 住吉站間蘆屋假信號所（3代目）開設（兩者廢止日不詳）。
   - 1910年（明治43年）
       - 3月29日：神崎站 - 西宮站間水野信號所、西宮站 - 住吉站間打出信號所開設。
       - 10月1日：灘聯絡所變更為車站、貨物站的灘站（初代）開業。
@@ -832,11 +816,9 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 
 ### 過去的接續路線
 
-  - 東灘信號場：[日本貨物鐵道](https://zh.wikipedia.org/wiki/日本貨物鐵道 "wikilink")
-    東海道本線貨物支線（） - 2003年12月1日廢除
+  - 東灘信號場：[日本貨物鐵道](https://zh.wikipedia.org/wiki/日本貨物鐵道 "wikilink") 東海道本線貨物支線（） - 2003年12月1日廢除
       - 延長至的。鷹取站構內的留置線轉用合併成開業後廢除。
-  - 三之宮站：[神戶市電](https://zh.wikipedia.org/wiki/神戶市電 "wikilink")
-    ⇒[三宮阪急前站](https://zh.wikipedia.org/wiki/三宮站 "wikilink")
+  - 三之宮站：[神戶市電](https://zh.wikipedia.org/wiki/神戶市電 "wikilink") ⇒[三宮阪急前站](https://zh.wikipedia.org/wiki/三宮站 "wikilink")
   - 神戶站：神戶市電 ⇒[神戶站前站](../Page/神戶站_\(兵庫縣\).md "wikilink")
   - 兵庫站：
       - [山陽電氣鐵道](../Page/山陽電氣鐵道.md "wikilink")[本線](../Page/山陽電氣鐵道本線.md "wikilink")
@@ -850,12 +832,9 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 
 ## 參考文献
 
-  - 『よみがえれ\!線路よ街よ - 阪神・淡路大震災
-    JR西日本100人の証言』[交通新聞社](https://zh.wikipedia.org/wiki/交通新聞社 "wikilink")、1996年。ISBN
-    978-4-875130-51-2。
+  - 『よみがえれ\!線路よ街よ - 阪神・淡路大震災 JR西日本100人の証言』[交通新聞社](https://zh.wikipedia.org/wiki/交通新聞社 "wikilink")、1996年。ISBN 978-4-875130-51-2。
   - 『阪神・淡路大震災 鉄道復旧記録誌』西日本旅客鉄道、1996年。
-  - [川島令三](https://zh.wikipedia.org/wiki/川島令三 "wikilink")『山陽・山陰ライン
-    全線・全駅・全配線 (1) 神戸・姫路エリア』講談社、2011年。ISBN 978-4-06-295151-7。
+  - [川島令三](https://zh.wikipedia.org/wiki/川島令三 "wikilink")『山陽・山陰ライン 全線・全駅・全配線 (1) 神戸・姫路エリア』講談社、2011年。ISBN 978-4-06-295151-7。
 
 ## 關連項目
 
@@ -863,65 +842,41 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 
 ## 註釋
 
-[Category:東海道本線](https://zh.wikipedia.org/wiki/Category:東海道本線 "wikilink")
-[Category:近畿地方鐵路路線](https://zh.wikipedia.org/wiki/Category:近畿地方鐵路路線 "wikilink")
-[Category:西日本旅客鐵道路線](https://zh.wikipedia.org/wiki/Category:西日本旅客鐵道路線 "wikilink")
-[Category:日本國有鐵道路線](https://zh.wikipedia.org/wiki/Category:日本國有鐵道路線 "wikilink")
-[Category:山陽本線](https://zh.wikipedia.org/wiki/Category:山陽本線 "wikilink")
-[Category:1874年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1874年啟用的鐵路線 "wikilink")
+[Category:東海道本線](https://zh.wikipedia.org/wiki/Category:東海道本線 "wikilink") [Category:近畿地方鐵路路線](https://zh.wikipedia.org/wiki/Category:近畿地方鐵路路線 "wikilink") [Category:西日本旅客鐵道路線](https://zh.wikipedia.org/wiki/Category:西日本旅客鐵道路線 "wikilink") [Category:日本國有鐵道路線](https://zh.wikipedia.org/wiki/Category:日本國有鐵道路線 "wikilink") [Category:山陽本線](https://zh.wikipedia.org/wiki/Category:山陽本線 "wikilink") [Category:1874年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1874年啟用的鐵路線 "wikilink")
 
-1.  [ご利用可能エリア
-    近畿圈エリア｜ICOCA：JRおでかけネット](http://www.jr-odekake.net/icoca/area/map/kinki.html)
-     - 西日本旅客鐵道
+1.  [ご利用可能エリア 近畿圈エリア｜ICOCA：JRおでかけネット](http://www.jr-odekake.net/icoca/area/map/kinki.html)  - 西日本旅客鐵道
 
-2.  [【JR西】225系営業運転開始](http://rail.hobidas.com/rmn/archives/2010/12/jr225_3.html)
-    -
-    『鐵道ホビダス』[ネコ・パブリッシング](https://zh.wikipedia.org/wiki/ネコ・パブリッシング "wikilink")
-    RMニュース 2010年12月3日
+2.  [【JR西】225系営業運転開始](http://rail.hobidas.com/rmn/archives/2010/12/jr225_3.html) - 『鐵道ホビダス』[ネコ・パブリッシング](https://zh.wikipedia.org/wiki/ネコ・パブリッシング "wikilink") RMニュース 2010年12月3日
 
-3.  [2010年7月定例社長会見](http://www.westjr.co.jp/news/newslist/article/1174899_799.html)
-     - 西日本旅客鐵道プレスリリース 2010年7月21日
+3.  [2010年7月定例社長会見](http://www.westjr.co.jp/news/newslist/article/1174899_799.html)  - 西日本旅客鐵道プレスリリース 2010年7月21日
 
-4.  [JR東西線の開業とアーバンネットワークのダイヤ改正について](https://web.archive.org/web/19980205212114/http://www.westjr.co.jp/new/1press/press_9.html)（インターネット・アーカイブ）-
-    西日本旅客鐵道プレスリリース 1995年9月27日
+4.  [JR東西線の開業とアーバンネットワークのダイヤ改正について](https://web.archive.org/web/19980205212114/http://www.westjr.co.jp/new/1press/press_9.html)（インターネット・アーカイブ）- 西日本旅客鐵道プレスリリース 1995年9月27日
 
-5.  [平成9年3月アーバンネットワークのダイヤ改正について](https://web.archive.org/web/19980206005423/http://www.westjr.co.jp/new/1press/kaisei9.htm)（インターネット・アーカイブ）-
-    西日本旅客鐵道プレスリリース 1996年12月16日
+5.  [平成9年3月アーバンネットワークのダイヤ改正について](https://web.archive.org/web/19980206005423/http://www.westjr.co.jp/new/1press/kaisei9.htm)（インターネット・アーカイブ）- 西日本旅客鐵道プレスリリース 1996年12月16日
 
 6.  『JR気動車客車編成表 '03年版』ジェー・アール・アール、2003年。ISBN 4-88283-124-4。
 
-7.  [〜より快適な車内環境をめざして〜「女性専用車」を拡大します](https://web.archive.org/web/20021203004309/http://www.westjr.co.jp/news/021017a.html)（インターネット・アーカイブ）-
-    西日本旅客鉄道プレスリリース 2002年10月7日
+7.  [〜より快適な車内環境をめざして〜「女性専用車」を拡大します](https://web.archive.org/web/20021203004309/http://www.westjr.co.jp/news/021017a.html)（インターネット・アーカイブ）- 西日本旅客鉄道プレスリリース 2002年10月7日
 
 8.  『JR気動車客車編成表 '04年版』ジェー・アール・アール、2004年。ISBN 4-88283-125-2。
 
-9.  [站コンコースを終日全面禁煙にします](https://web.archive.org/web/20031001173208/http://www.westjr.co.jp/news/newslist/article/030829a.html)（インターネット・アーカイブ）-
-    西日本旅客鐵道プレスリリース 2003年8月29日
+9.  [站コンコースを終日全面禁煙にします](https://web.archive.org/web/20031001173208/http://www.westjr.co.jp/news/newslist/article/030829a.html)（インターネット・アーカイブ）- 西日本旅客鐵道プレスリリース 2003年8月29日
 
-10. [「ICOCA」いよいよデビュー\! 〜 平成15年11月1日（土）よりサービス開始いたします
-    〜](https://web.archive.org/web/20040803184954/http://www.westjr.co.jp/news/newslist/article/030820a.html)（インターネット・アーカイブ）
-    - 西日本旅客鐵道プレスリリース 2003年8月30日
+10. [「ICOCA」いよいよデビュー\! 〜 平成15年11月1日（土）よりサービス開始いたします 〜](https://web.archive.org/web/20040803184954/http://www.westjr.co.jp/news/newslist/article/030820a.html)（インターネット・アーカイブ） - 西日本旅客鐵道プレスリリース 2003年8月30日
 
-11. [平成17年3月ダイヤ改正出発式および記念式典の開催](https://web.archive.org/web/20050228071943/http://www.westjr.co.jp/news/newslist/article/050221a.html)（インターネット・アーカイブ）-
-    2005年2月21日
+11. [平成17年3月ダイヤ改正出発式および記念式典の開催](https://web.archive.org/web/20050228071943/http://www.westjr.co.jp/news/newslist/article/050221a.html)（インターネット・アーカイブ）- 2005年2月21日
 
 12. 『JR気動車客車編成表 '06年版』、ジェー・アール・アール、2006年。ISBN 4-88283-127-9。
 
-13. [2006年9月定例社長会見](https://web.archive.org/web/20070312202955/http://www.westjr.co.jp/news/newslist/article/k060920.html)（インターネット・アーカイブ）-
-    西日本旅客鐵道 2006年9月20日
+13. [2006年9月定例社長会見](https://web.archive.org/web/20070312202955/http://www.westjr.co.jp/news/newslist/article/k060920.html)（インターネット・アーカイブ）- 西日本旅客鐵道 2006年9月20日
 
 14. （インターネット・アーカイブ）- 西日本旅客鐵道プレスリリース 2006年12月22日
 
-15. [新駅名称「さくら夙川」に　西ノ宮駅は「西宮」に改称](https://web.archive.org/web/20071120054841/http://www.asahi.com/kansai/news/OSK200611220043.html)（インターネット・アーカイブ）-
-    [朝日新聞](../Page/朝日新聞.md "wikilink") 2006年11月22日
+15. [新駅名称「さくら夙川」に　西ノ宮駅は「西宮」に改称](https://web.archive.org/web/20071120054841/http://www.asahi.com/kansai/news/OSK200611220043.html)（インターネット・アーカイブ）- [朝日新聞](../Page/朝日新聞.md "wikilink") 2006年11月22日
 
-16. [在来線特急列車などの全席禁煙化ならびに在来線ホームの禁煙化の拡大について](http://www.westjr.co.jp/news/newslist/article/1174167_799.html)
-     - 西日本旅客鐵道プレスリリース 2009年3月26日
+16. [在来線特急列車などの全席禁煙化ならびに在来線ホームの禁煙化の拡大について](http://www.westjr.co.jp/news/newslist/article/1174167_799.html)  - 西日本旅客鐵道プレスリリース 2009年3月26日
 
-17. [女性専用車の全日化･終日化について](http://www.westjr.co.jp/news/newslist/article/1175252_799.html)
-     ・
-    [車両保守部品の不足に伴う列車運転計画の見直しについて](http://www.westjr.co.jp/news/newslist/article/1175270_799.html)
-     - 西日本旅客鉄道プレスリリース 2011年3月4日・2011年4月6日
+17. [女性専用車の全日化･終日化について](http://www.westjr.co.jp/news/newslist/article/1175252_799.html)  ・ [車両保守部品の不足に伴う列車運転計画の見直しについて](http://www.westjr.co.jp/news/newslist/article/1175270_799.html)  - 西日本旅客鉄道プレスリリース 2011年3月4日・2011年4月6日
 
 18.
 
@@ -929,8 +884,7 @@ JR西日本[都市網路中的路線之一](https://zh.wikipedia.org/wiki/都市
 
 20.
 
-21. \[<http://www.westjr.co.jp/press/article/2016/07/page_8973.html>　近畿エリアの12路線
-    のべ300駅に「駅ナンバー」を導入します！\] - 西日本旅客鉄道ニュースリリース 2016年7月20日
+21. \[<http://www.westjr.co.jp/press/article/2016/07/page_8973.html>　近畿エリアの12路線 のべ300駅に「駅ナンバー」を導入します！\] - 西日本旅客鉄道ニュースリリース 2016年7月20日
 
 22.  - 西日本旅客鉄道、2016年7月20日
 

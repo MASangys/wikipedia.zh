@@ -1,18 +1,10 @@
-**ITF女子巡迴賽事（ITF Women's
-Circuits）**是[國際網球總會](../Page/國際網球總會.md "wikilink")（ITF）為女子職業[網球選手設立的職業網球賽事](https://zh.wikipedia.org/wiki/網球 "wikilink")。這被視為銜接[女子網球聯合會（WTA）賽事的基礎賽事](https://zh.wikipedia.org/wiki/女子網球聯合會 "wikilink")。目前每年在六十多國舉辦約四百場賽事，提供6種等級、1萬至10萬美元不等的賽事總獎金與相應積分\[1\]，使女子球員得以累積足夠積分來參與WTA賽事。
+**ITF女子巡迴賽事（ITF Women's Circuits）**是[國際網球總會](../Page/國際網球總會.md "wikilink")（ITF）為女子職業[網球選手設立的職業網球賽事](https://zh.wikipedia.org/wiki/網球 "wikilink")。這被視為銜接[女子網球聯合會（WTA）賽事的基礎賽事](https://zh.wikipedia.org/wiki/女子網球聯合會 "wikilink")。目前每年在六十多國舉辦約四百場賽事，提供6種等級、1萬至10萬美元不等的賽事總獎金與相應積分\[1\]，使女子球員得以累積足夠積分來參與WTA賽事。
 
 ## 歷史
 
-1984年，國際網球總會（ITF）決定要負責在世界各地發展與推廣女子的基礎賽事。雖然歐洲網球協會（European Tennis
-Association，ETA）與美國網球協會（United States Tennis
-Association，USTA）在此之前已開始舉辦女子低階賽事，但歐洲與美國以外地區仍然匱乏。在1983年度，ETA與USTA共投入總共34萬美元在女子基礎賽事上，但該年度所舉辦的43場賽事有26場在歐洲、14場在美國，剩下3場則都在澳洲舉行\[2\]。
+1984年，國際網球總會（ITF）決定要負責在世界各地發展與推廣女子的基礎賽事。雖然歐洲網球協會（European Tennis Association，ETA）與美國網球協會（United States Tennis Association，USTA）在此之前已開始舉辦女子低階賽事，但歐洲與美國以外地區仍然匱乏。在1983年度，ETA與USTA共投入總共34萬美元在女子基礎賽事上，但該年度所舉辦的43場賽事有26場在歐洲、14場在美國，剩下3場則都在澳洲舉行\[2\]。
 
-為了促進各國能投入資源在女子賽事上，ITF決定起草適用女子賽事的標準規範（Standard Regulations）與行為準則（Code of
-Conducts）。經過與ETA、USTA及WTA的多方討論，《ITF認可女子獎金賽事規範》（ITF Regulations for
-Approved Women's Events with Prize
-Money）的初版於1986年出版，當時初步設計各賽事將提供總獎金5千至5萬美元不等。而同年，[溫布頓網球錦標賽宣布投入](https://zh.wikipedia.org/wiki/溫布頓網球錦標賽 "wikilink")10萬英鎊設立大滿貫信託基金（Grand
-Slam Trust
-Fund）以協助網球發展低落的國家舉辦賽事，並給予在地的網球選手發展機會。其餘[大滿貫賽事紛紛響應加入](https://zh.wikipedia.org/wiki/網球大滿貫 "wikilink")，至今基金已接受來自四大滿貫賽事超過3,500萬美元的捐獻\[3\]。資金投入立即展現效果，1986年在全球共有108場ITF女子巡迴賽事，並提供總獎金共107萬5千美元。其中有12周賽事、總獎金6萬美元藉由大滿貫信託基金在南非舉行，而亞洲則有14周賽事、共11.5萬美元的獎金投入。
+為了促進各國能投入資源在女子賽事上，ITF決定起草適用女子賽事的標準規範（Standard Regulations）與行為準則（Code of Conducts）。經過與ETA、USTA及WTA的多方討論，《ITF認可女子獎金賽事規範》（ITF Regulations for Approved Women's Events with Prize Money）的初版於1986年出版，當時初步設計各賽事將提供總獎金5千至5萬美元不等。而同年，[溫布頓網球錦標賽宣布投入](https://zh.wikipedia.org/wiki/溫布頓網球錦標賽 "wikilink")10萬英鎊設立大滿貫信託基金（Grand Slam Trust Fund）以協助網球發展低落的國家舉辦賽事，並給予在地的網球選手發展機會。其餘[大滿貫賽事紛紛響應加入](https://zh.wikipedia.org/wiki/網球大滿貫 "wikilink")，至今基金已接受來自四大滿貫賽事超過3,500萬美元的捐獻\[3\]。資金投入立即展現效果，1986年在全球共有108場ITF女子巡迴賽事，並提供總獎金共107萬5千美元。其中有12周賽事、總獎金6萬美元藉由大滿貫信託基金在南非舉行，而亞洲則有14周賽事、共11.5萬美元的獎金投入。
 
 隨著賽事逐年增加，ITF也開始設計更高獎金與更多元的賽事層級。1992年首度增加7萬5千美元賽事等級，並在2000年將能提供住宿的5萬及7萬5千美元賽事增加額外積分。2006年再新增10萬美元賽事等級，以更高額的獎金與積分來吸引高排名選手回鍋參賽。至今，在2011年底已累計舉辦7469場賽事，總獎金累計超過1.42億美元。2012年下半年將再新增1萬5千美元賽事等級。\[4\]。
 
@@ -45,8 +37,7 @@ Fund）以協助網球發展低落的國家舉辦賽事，並給予在地的網�
 ## 參見
 
   - [國際網球總會](../Page/國際網球總會.md "wikilink")
-  - [ITF男子巡迴賽事](https://zh.wikipedia.org/wiki/ITF男子巡迴賽事 "wikilink")（ITF
-    Men's Circuits）
+  - [ITF男子巡迴賽事](https://zh.wikipedia.org/wiki/ITF男子巡迴賽事 "wikilink")（ITF Men's Circuits）
 
 ## 外部連結
 

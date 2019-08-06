@@ -1,34 +1,27 @@
-**Hello
-Venus**（）是2012年由[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")與[Fantagio](../Page/Fantagio.md "wikilink")共同合作透過Tricell
-Media經營的[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，於2012年5月10日以《Venus》一曲正式出道，成員包括[娥羅](../Page/柳娥羅.md "wikilink")、[胤祖](../Page/慎胤祖.md "wikilink")、Lime、[娜拉](../Page/權娜拉.md "wikilink")、[Alice及](../Page/Alice_\(韓國歌手\).md "wikilink")[瑜瑛](../Page/李瑜瑛.md "wikilink")，由娥羅擔任隊長。官方歌迷名稱為「Hello
-Cupid」\[1\]。Hello Venus的出道舞台因胤祖腳傷無法參與，故出道歌曲《VENUS》的宣傳期以五人形式進行。
-2014年7月31日，經紀公司透過官方CAFÉ宣布成員娥羅和胤祖退出組合，Hello
-Venus正式完全由[Fantagio](../Page/Fantagio.md "wikilink")經營。\[2\]2014年11月6日，加入兩名新成員（夏天、序英），以六人形式發行第四張單曲回歸。2019年4月26日，經紀公司公佈合約於5月8日到期，團體正式解散，Alice、娜拉離開公司，序英、夏天續留公司，Lime、瑜瑛決定與公司續約，四人均更換活動名，Lime改名為蔡周和（채주화）、瑜瑛改名為李華謙（이화겸）、夏天改名為劉娜結（유나결）、序英改用本名李序英，4人將分別在演技、音樂劇領域活動。
+**Hello Venus**（）是2012年由[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")與[Fantagio](../Page/Fantagio.md "wikilink")共同合作透過Tricell Media經營的[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，於2012年5月10日以《Venus》一曲正式出道，成員包括[娥羅](../Page/柳娥羅.md "wikilink")、[胤祖](../Page/慎胤祖.md "wikilink")、Lime、[娜拉](../Page/權娜拉.md "wikilink")、[Alice及](../Page/Alice_\(韓國歌手\).md "wikilink")[瑜瑛](../Page/李瑜瑛.md "wikilink")，由娥羅擔任隊長。官方歌迷名稱為「Hello Cupid」\[1\]。Hello Venus的出道舞台因胤祖腳傷無法參與，故出道歌曲《VENUS》的宣傳期以五人形式進行。
+2014年7月31日，經紀公司透過官方CAFÉ宣布成員娥羅和胤祖退出組合，Hello Venus正式完全由[Fantagio](../Page/Fantagio.md "wikilink")經營。\[2\]2014年11月6日，加入兩名新成員（夏天、序英），以六人形式發行第四張單曲回歸。2019年4月26日，經紀公司公佈合約於5月8日到期，團體正式解散，Alice、娜拉離開公司，序英、夏天續留公司，Lime、瑜瑛決定與公司續約，四人均更換活動名，Lime改名為蔡㫶華（채주화）、瑜瑛改名為李花兼（이화겸）、夏天改名為庾拏結（유나결）、序英改用本名李瑞英\[3\]，4人將分別在演技、音樂劇領域活動。
 
 ## 成員簡介
 
 ### 成員資料
 
-| 已離隊的成員                                               |
-| ---------------------------------------------------- |
-| 藝名                                                   |
-| 藝名                                                   |
-| [娥羅](../Page/柳娥羅.md "wikilink")                      |
-| [胤祖](../Page/慎胤祖.md "wikilink")                      |
-| [Alice](../Page/Alice_\(韓國歌手\).md "wikilink")        |
-| [娜拉](../Page/權娜拉.md "wikilink")\[3\]                 |
-| [Lime](https://zh.wikipedia.org/wiki/金惠林 "wikilink") |
-| [序英](https://zh.wikipedia.org/wiki/序英 "wikilink")    |
-| [瑜瑛](../Page/李瑜瑛.md "wikilink")                      |
-| [夏天](https://zh.wikipedia.org/wiki/安佳鈴 "wikilink")   |
-|                                                      |
+| 已離隊的成員                                                 |
+| ------------------------------------------------------ |
+| 藝名                                                     |
+| 藝名                                                     |
+| [娥羅](../Page/柳娥羅.md "wikilink")                        |
+| [胤祖](../Page/慎胤祖.md "wikilink")                        |
+| [Alice](../Page/Alice_\(韓國歌手\).md "wikilink")          |
+| [娜拉](../Page/權娜拉.md "wikilink")\[4\]                   |
+| [Lime](https://zh.wikipedia.org/wiki/金慧林 "wikilink")   |
+| [序英](https://zh.wikipedia.org/wiki/序英 "wikilink")\[5\] |
+| [瑜瑛](../Page/李瑜瑛.md "wikilink")                        |
+| [夏天](https://zh.wikipedia.org/wiki/安佳鈴 "wikilink")     |
+|                                                        |
 
 ### 成員變遷表
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500
-height:300 left:125 bottom:35 Alignbars = justify DateFormat =
-mm/dd/yyyy Period = from:2012 till:2019 TimeAxis =
-orientation:horizontal format:mm/yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2012 till:2019 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -95,9 +88,9 @@ PlotData =
 | 2015年 | Kloud 啤酒                                                 | 權娜拉         |
 | 2015年 | Cinema Game RAGE 手機遊戲                                    | 權娜拉         |
 | 2016年 | SK Telecom                                               | 權娜拉         |
-| 2016年 | LPGA gallery 高爾夫球服品牌 \[4\]                               | 權娜拉、宋主喜     |
-| 2016年 | EIDER 戶外品牌 \[5\]                                         | 權娜拉         |
-| 2016年 | Dark Blaze 遊戲 \[6\]                                      | 權娜拉         |
+| 2016年 | LPGA gallery 高爾夫球服品牌 \[6\]                               | 權娜拉、宋主喜     |
+| 2016年 | EIDER 戶外品牌 \[7\]                                         | 權娜拉         |
+| 2016年 | Dark Blaze 遊戲 \[8\]                                      | 權娜拉         |
 
 ### 宣傳大使
 
@@ -382,9 +375,7 @@ PlotData =
   -
   - [Hello Venus](http://cafe.daum.net/HELLOVENUS)的Daum cafe
 
-  - [Hello
-    Venus](https://web.archive.org/web/20130813025237/http://me2day.net/hellovenus)在me2day的頁面
-
+  - [Hello Venus](https://web.archive.org/web/20130813025237/http://me2day.net/hellovenus)在me2day的頁面
 
 <!-- end list -->
 
@@ -402,28 +393,13 @@ PlotData =
 
   -
   -
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
-[Category:2019年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年解散的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
-[Category:2012年韓國建立](https://zh.wikipedia.org/wiki/Category:2012年韓國建立 "wikilink")
-[Category:2019年韓國廢除](https://zh.wikipedia.org/wiki/Category:2019年韓國廢除 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:2019年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年解散的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink") [Category:2012年韓國建立](https://zh.wikipedia.org/wiki/Category:2012年韓國建立 "wikilink") [Category:2019年韓國廢除](https://zh.wikipedia.org/wiki/Category:2019年韓國廢除 "wikilink")
 
-1.  [Hello Venus 的粉絲名稱](http://kpopn.com/2012/05/14/122652/)Kpopn
-    2012年5月14日
-2.  [2成員宣布退出HELLOVENUS重新整隊成4人組](http://n.yam.com/wownews/entertain/20140731/20140731457637.html/)bnt新聞訊
-    2014年07月31日
-3.  [헬로비너스 나라, 9등신 몸매의 정석 '살아있는
-    마네킹'](http://thestar.chosun.com/site/data/html_dir/2013/05/15/2013051501885.html)，나라是一個純[韓文名字](https://zh.wikipedia.org/wiki/韓文 "wikilink")，未有[漢字表記](https://zh.wikipedia.org/wiki/漢字 "wikilink")，由韓語音譯為「娜拉」。
-4.  [完美演繹！Hello Venus
-    的高爾夫球服突顯時尚感覺](http://www.vlovekpop.com/20160728-hv/)
-    vlovekpop
-5.  [成了新一代廣告寵兒？Hello Venus 的 NARA
-    又有新廣告](http://www.vlovekpop.com/20160803-hv/) vlovekpop
-6.  [代言停不了！Hello Venus Nara
-    成為遊戲代言人](http://www.vlovekpop.com/20160804-hv-nara/)
-    vlovekpop
+1.  [Hello Venus 的粉絲名稱](http://kpopn.com/2012/05/14/122652/)Kpopn 2012年5月14日
+2.  [2成員宣布退出HELLOVENUS重新整隊成4人組](http://n.yam.com/wownews/entertain/20140731/20140731457637.html/)bnt新聞訊 2014年07月31日
+3.  [Fantagio微博相關貼文](https://m.weibo.cn/detail/4393258018412285)
+4.  [헬로비너스 나라, 9등신 몸매의 정석 '살아있는 마네킹'](http://thestar.chosun.com/site/data/html_dir/2013/05/15/2013051501885.html)，나라是一個純[韓文名字](https://zh.wikipedia.org/wiki/韓文 "wikilink")，未有[漢字表記](https://zh.wikipedia.org/wiki/漢字 "wikilink")，由韓語音譯為「娜拉」。
+5.  [Fantagio官方微博所用漢字 - 序英](http://tw.weibo.com/chhellovenus/4123024908665513)
+6.  [完美演繹！Hello Venus 的高爾夫球服突顯時尚感覺](http://www.vlovekpop.com/20160728-hv/) vlovekpop
+7.  [成了新一代廣告寵兒？Hello Venus 的 NARA 又有新廣告](http://www.vlovekpop.com/20160803-hv/) vlovekpop
+8.  [代言停不了！Hello Venus Nara 成為遊戲代言人](http://www.vlovekpop.com/20160804-hv-nara/) vlovekpop

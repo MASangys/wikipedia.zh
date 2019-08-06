@@ -1,5 +1,4 @@
-是成立于2011年的日本动画制作公司，所属于[云雀工作室](https://zh.wikipedia.org/wiki/云雀工作室 "wikilink")（），为其子公司
-。\[1\]
+是成立于2011年的日本动画制作公司，所属于[云雀工作室](https://zh.wikipedia.org/wiki/云雀工作室 "wikilink")（），为其子公司 。\[1\]
 
 ## 作品列表
 
@@ -112,7 +111,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/彼方的阿斯特拉" title="wikilink">彼方的阿斯特拉</a></p></td>
+<td><p><a href="../Page/彼方的阿斯特拉.md" title="wikilink">彼方的阿斯特拉</a></p></td>
 <td><p>7月3日－播放中</p></td>
 <td><p>安藤正臣</p></td>
 <td><p>漫畫</p></td>
@@ -170,8 +169,6 @@
 
   -
 
-[Category:雲雀工作室](https://zh.wikipedia.org/wiki/Category:雲雀工作室 "wikilink")
-[Category:2011年成立的公司](https://zh.wikipedia.org/wiki/Category:2011年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
+[Category:雲雀工作室](https://zh.wikipedia.org/wiki/Category:雲雀工作室 "wikilink") [Category:2011年成立的公司](https://zh.wikipedia.org/wiki/Category:2011年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
 
 1.

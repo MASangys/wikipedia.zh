@@ -1,5 +1,4 @@
-[Bellsoliton2.gif](https://zh.wikipedia.org/wiki/File:Bellsoliton2.gif "fig:Bellsoliton2.gif")
-**Sine-Gordon方程**是十九世纪发现的一种偏微分方程：
+[Bellsoliton2.gif](https://zh.wikipedia.org/wiki/File:Bellsoliton2.gif "fig:Bellsoliton2.gif") **Sine-Gordon方程**是十九世纪发现的一种偏微分方程：
 
 \(\varphi_{tt}- \varphi_{xx} = \sin\varphi\)
 
@@ -84,36 +83,20 @@ Sine-Gordon方程有如下孤立子解：
 
 ## 几何解释
 
-[Pseudosphere.png](https://zh.wikipedia.org/wiki/File:Pseudosphere.png "fig:Pseudosphere.png")
-sin-Gordon方程有一个几何解释：三维欧几里德空间的负常曲率曲面\[2\]
+[Pseudosphere.png](https://zh.wikipedia.org/wiki/File:Pseudosphere.png "fig:Pseudosphere.png") sin-Gordon方程有一个几何解释：三维欧几里德空间的负常曲率曲面\[2\]
 
 ## 参考文献
 
 <references/>
 
-  - Bour E (1862). ["Théorie de la déformation des
-    surfaces"](https://gallica.bnf.fr/ark:/12148/bpt6k433694t/f5.item).
-    J. Ecole Imperiale Polytechnique. 19: 1–48.
-  - Rajaraman, R. (1989). Solitons and Instantons: An Introduction to
-    Solitons and Instantons in Quantum Field Theory. North-Holland
-    Personal Library. 15. North-Holland. pp. 34–45. ISBN
-    978-0-444-87047-6.
-  - Polyanin, Andrei D.; Valentin F. Zaitsev (2004). Handbook of
-    Nonlinear Partial Differential Equations. Chapman & Hall/CRC Press.
-    pp. 470–492. ISBN 978-1-58488-355-5.
-  - Dodd, Roger K.; J. C. Eilbeck, J. D. Gibbon, H. C. Morris (1982).
-    Solitons and Nonlinear Wave Equations. London: Academic Press. ISBN
-    978-0-12-219122-0.
-  - Georgiev DD, Papaioanou SN, Glazebrook JF (2004). "Neuronic system
-    inside neurons: molecular biology and biophysics of neuronal
-    microtubules". Biomedical Reviews 15: 67–75.
-  - Georgiev DD, Papaioanou SN, Glazebrook JF (2007). "Solitonic effects
-    of the local electromagnetic field on neuronal microtubules".
-    Neuroquantology 5 (3): 276–291.
+  - Bour E (1862). ["Théorie de la déformation des surfaces"](https://gallica.bnf.fr/ark:/12148/bpt6k433694t/f5.item). J. Ecole Imperiale Polytechnique. 19: 1–48.
+  - Rajaraman, R. (1989). Solitons and Instantons: An Introduction to Solitons and Instantons in Quantum Field Theory. North-Holland Personal Library. 15. North-Holland. pp. 34–45. ISBN 978-0-444-87047-6.
+  - Polyanin, Andrei D.; Valentin F. Zaitsev (2004). Handbook of Nonlinear Partial Differential Equations. Chapman & Hall/CRC Press. pp. 470–492. ISBN 978-1-58488-355-5.
+  - Dodd, Roger K.; J. C. Eilbeck, J. D. Gibbon, H. C. Morris (1982). Solitons and Nonlinear Wave Equations. London: Academic Press. ISBN 978-0-12-219122-0.
+  - Georgiev DD, Papaioanou SN, Glazebrook JF (2004). "Neuronic system inside neurons: molecular biology and biophysics of neuronal microtubules". Biomedical Reviews 15: 67–75.
+  - Georgiev DD, Papaioanou SN, Glazebrook JF (2007). "Solitonic effects of the local electromagnetic field on neuronal microtubules". Neuroquantology 5 (3): 276–291.
 
 [Category:非线性偏微分方程](https://zh.wikipedia.org/wiki/Category:非线性偏微分方程 "wikilink")
 
-1.  Inna Shingareva Carlos Lizarraga Celaya, Solving Nonlinear Partial
-    Differential Equations with Maple and Mathematica, p86-94,Springer
-2.  [陈省身](../Page/陈省身.md "wikilink") Geometrical interpretation of the
-    sinh-Gordon equation。annals Polonici Mathematici XXXIX 1981
+1.  Inna Shingareva Carlos Lizarraga Celaya, Solving Nonlinear Partial Differential Equations with Maple and Mathematica, p86-94,Springer
+2.  [陈省身](../Page/陈省身.md "wikilink") Geometrical interpretation of the sinh-Gordon equation。annals Polonici Mathematici XXXIX 1981

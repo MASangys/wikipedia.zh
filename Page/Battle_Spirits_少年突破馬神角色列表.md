@@ -1,17 +1,13 @@
-**Battle Spirits 少年突破馬神 角色列表**是《[Battle Spirits
-少年突破馬神](../Page/Battle_Spirits_少年突破馬神.md "wikilink")》的角色介紹。
+**Battle Spirits 少年突破馬神 角色列表**是《[Battle Spirits 少年突破馬神](../Page/Battle_Spirits_少年突破馬神.md "wikilink")》的角色介紹。
 
 ## 輝石持有者
 
 **馬神突破（バシン、ばしん トッパ；Bashin Toppa）**
 
   -
-    主角。紅色[輝石持有者](https://zh.wikipedia.org/wiki/輝石 "wikilink")；個性豪爽，有著不服輸及強烈正義感精神的少年，橙色頭髮為其特徵之一；常以一句話「正面突破！」帶過事情主體，唯個性略微遲鈍。富美子似乎喜歡他（兩人互相有好感），但本人好像沒發覺。故事中從一開始的小學生成長為中學生。是My
-    Sunshine的瘋狂歌迷之一。
+    主角。紅色[輝石持有者](https://zh.wikipedia.org/wiki/輝石 "wikilink")；個性豪爽，有著不服輸及強烈正義感精神的少年，橙色頭髮為其特徵之一；常以一句話「正面突破！」帶過事情主體，唯個性略微遲鈍。富美子似乎喜歡他（兩人互相有好感），但本人好像沒發覺。故事中從一開始的小學生成長為中學生。是My Sunshine的瘋狂歌迷之一。
     **配音**：[田村睦心](../Page/田村睦心.md "wikilink")（日本）；[雷碧娜](../Page/雷碧娜.md "wikilink")（香港）；[雷碧文](../Page/雷碧文.md "wikilink")（台灣）
-    **持有卡片**：龍皇 齊格弗列多 ；暴雙龍 迪拉羅斯 ；聖皇齊格弗列丁 ；英雄巨人泰坦斯 ；機動要塞 護城哥雷姆 ;
-    超神星龍齊格鱗新星 (PSP遊戲:過去的自己•霸者輝石) ;魔界七將 毀滅之王（最終戰）
-    ；蠻騎士凱格力斯（最終戰） ；大天使維利爾（最終戰） ；以及 巨神機 托爾(37話出現,但從來沒有用過)
+    **持有卡片**：龍皇 齊格弗列多 ；暴雙龍 迪拉羅斯 ；聖皇齊格弗列丁 ；英雄巨人泰坦斯 ；機動要塞 護城哥雷姆 ; 超神星龍齊格鱗新星 (PSP遊戲:過去的自己•霸者輝石) ;魔界七將 毀滅之王（最終戰） ；蠻騎士凱格力斯（最終戰） ；大天使維利爾（最終戰） ；以及 巨神機 托爾(37話出現,但從來沒有用過)
 
 **澤良宜祖利（ジュリー澤ラギ、ジュリーさわらぎ；J.Sawaragi）**
 
@@ -23,24 +19,21 @@
 **野原翔（ストライカー、ノ原カケル、のはらカケル；Striker）**
 
   -
-    綠色輝石持有者；別名王牌前鋒，與馬神突破為同班同學，擅長[足球](../Page/足球.md "wikilink")。然因意外事故而使腳部受傷，不能再踢足球，從而喜歡上卡片遊戲。為歌星My
-    Sunshine支持者。
+    綠色輝石持有者；別名王牌前鋒，與馬神突破為同班同學，擅長[足球](../Page/足球.md "wikilink")。然因意外事故而使腳部受傷，不能再踢足球，從而喜歡上卡片遊戲。為歌星My Sunshine支持者。
     **配音**：[坂卷亮祐](https://zh.wikipedia.org/wiki/坂卷亮祐 "wikilink")（日本）；[何承駿](../Page/何承駿.md "wikilink")（香港）；[孫誠](https://zh.wikipedia.org/wiki/孫誠 "wikilink")（台灣）
     **持有卡片**：基泰羅斯大公爵 ；蠻騎士凱格力斯 ；大甲帝亡命泰羅斯 ；以及 龍皇 齊格弗列多（12話馬神借用）
 
 **睡蓮（スイレン；Suiren）**
 
   -
-    紫色輝石持有者；本名不明，演藝歌星，藝名My
-    Sunshine，人美聲甜。以[睡蓮](../Page/睡蓮.md "wikilink")為其代號。因被人誤會真正身份是大嬸，於是對戰時心不在焉，後被馬神和J的說話中重獲勇氣。在劇中於馬神、J、野原的面前摘下面具。個性好強。
+    紫色輝石持有者；本名不明，演藝歌星，藝名My Sunshine，人美聲甜。以[睡蓮](../Page/睡蓮.md "wikilink")為其代號。因被人誤會真正身份是大嬸，於是對戰時心不在焉，後被馬神和J的說話中重獲勇氣。在劇中於馬神、J、野原的面前摘下面具。個性好強。
     **配音**：[高垣彩陽](../Page/高垣彩陽.md "wikilink")（日本）；[鄭麗麗](../Page/鄭麗麗.md "wikilink")（香港）；[傅其慧](../Page/傅其慧.md "wikilink")（台灣）
     **持有卡片**：魔界七將 亡命者 ；魔界七將毀滅之王、大甲帝亡命泰羅斯
 
 **音無富美子（メガネコ、音無フミコ、おとなしフミコ）**
 
   -
-    黃色輝石持有者；別名[眼鏡子](https://zh.wikipedia.org/wiki/眼鏡娘 "wikilink")，馬神突破的同班同學亦青梅竹馬，為了給馬神在大賽一個驚喜而學習卡片遊戲，暗中喜歡馬神。曾化名「黃色子」參加卡片對戰大賽，一路過關斬將，最終如願與心儀的馬神對戰。輝石在此時覺醒。是My
-    Sunshine的超級粉絲之一。
+    黃色輝石持有者；別名[眼鏡子](https://zh.wikipedia.org/wiki/眼鏡娘 "wikilink")，馬神突破的同班同學亦青梅竹馬，為了給馬神在大賽一個驚喜而學習卡片遊戲，暗中喜歡馬神。曾化名「黃色子」參加卡片對戰大賽，一路過關斬將，最終如願與心儀的馬神對戰。輝石在此時覺醒。是My Sunshine的超級粉絲之一。
     **配音**：[神田朱未](../Page/神田朱未.md "wikilink")（日本）；[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")（香港）；[龍顯蕙](../Page/龍顯蕙.md "wikilink")（台灣）
     **持有卡片**：大天使维利爾、幻獸王凜
 
@@ -185,8 +178,6 @@
 
 ## 外部連結
 
-  - [Battle Spirits
-    少年突破馬神](http://www.nagoyatv.com/battlespirits/char/index.html)（名古屋電視台）
+  - [Battle Spirits 少年突破馬神](http://www.nagoyatv.com/battlespirits/char/index.html)（名古屋電視台）
 
-[Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink")
-[Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
+[Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink") [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")

@@ -1,6 +1,4 @@
-「**GO GO
-Summer\!**」（）是[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")4張單曲。2011年6月29日由[UNIVERSAL
-SIGMA發售](../Page/环球唱片.md "wikilink")。
+「**GO GO Summer\!**」（）是[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")4張單曲。2011年6月29日由[UNIVERSAL SIGMA發售](../Page/环球唱片.md "wikilink")。
 
 ## 概要
 
@@ -102,19 +100,10 @@ ArmySlick</p></td>
 ## 音樂合作
 
   - GO GO サマー\!（bright Ver.）<small>（「GO GO サマー\!」版本）</small>
-      - [LG
-        Electronics](https://zh.wikipedia.org/wiki/LG_Electronics "wikilink")「[ドコモ
-        スマートフォン](https://zh.wikipedia.org/wiki/ドコモ_スマートフォン "wikilink")
-        [Optimus
-        bright(L-07C)](https://zh.wikipedia.org/wiki/L-07C "wikilink")」CM音樂合作歌曲
+      - [LG Electronics](https://zh.wikipedia.org/wiki/LG_Electronics "wikilink")「[ドコモ スマートフォン](https://zh.wikipedia.org/wiki/ドコモ_スマートフォン "wikilink") [Optimus bright(L-07C)](https://zh.wikipedia.org/wiki/L-07C "wikilink")」CM音樂合作歌曲
   - ガールズ ビー アンビシャス\!
-      - [ダリヤ](https://zh.wikipedia.org/wiki/ダリヤ "wikilink")「パルティ
-        泡パックヘアカラー」TVCM『泡KARAデビュー\!』CM歌曲
+      - [ダリヤ](https://zh.wikipedia.org/wiki/ダリヤ "wikilink")「パルティ 泡パックヘアカラー」TVCM『泡KARAデビュー\!』CM歌曲
 
 ### 參考資料
 
-[Category:KARA歌曲](https://zh.wikipedia.org/wiki/Category:KARA歌曲 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
-[Category:2011年RIAJ付費音樂下載榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年RIAJ付費音樂下載榜冠軍歌曲 "wikilink")
-[Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
+[Category:KARA歌曲](https://zh.wikipedia.org/wiki/Category:KARA歌曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink") [Category:2011年RIAJ付費音樂下載榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年RIAJ付費音樂下載榜冠軍歌曲 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")

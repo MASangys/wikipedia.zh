@@ -15,27 +15,19 @@
   - テリー伊藤（固定客演。兼任綜合演出）
   - 峯岸みなみ（AKB48研究生、2012年12月〜2013年1月是Team B所屬。）
   - AKB48
-      - Team
-        A：[入山杏奈](../Page/入山杏奈.md "wikilink")、大島涼花、[川栄李奈](https://zh.wikipedia.org/wiki/川栄李奈 "wikilink")、[菊地あやか](https://zh.wikipedia.org/wiki/菊地あやか "wikilink")、小林茉里奈、佐々木優佳里、[佐藤すみれ](https://zh.wikipedia.org/wiki/佐藤すみれ "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")、[高橋みなみ](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")、[田野優花](../Page/田野優花.md "wikilink")、[松井咲子](../Page/松井咲子.md "wikilink")、森川彩香、[横山由依](https://zh.wikipedia.org/wiki/横山由依 "wikilink")
-      - Team
-        K：[秋元才加](../Page/秋元才加.md "wikilink")、[阿部マリア](https://zh.wikipedia.org/wiki/阿部マリア "wikilink")、[内田真由美](https://zh.wikipedia.org/wiki/内田真由美 "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[鈴木紫帆里](../Page/鈴木紫帆里.md "wikilink")、[中田ちさと](https://zh.wikipedia.org/wiki/中田ちさと "wikilink")、藤田奈那、[前田亜美](https://zh.wikipedia.org/wiki/前田亜美 "wikilink")
-        、武藤十夢
-      - Team
-        B：[石田晴香](../Page/石田晴香.md "wikilink")、[市川美織](../Page/市川美織.md "wikilink")、[岩佐美咲](../Page/岩佐美咲.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[大家志津香](../Page/大家志津香.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[片山陽加](../Page/片山陽加.md "wikilink")、[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")、小嶋菜月、[島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、名取稚菜、[藤江れいな](https://zh.wikipedia.org/wiki/藤江れいな "wikilink")、[山内鈴蘭](https://zh.wikipedia.org/wiki/山内鈴蘭 "wikilink")
+      - Team A：[入山杏奈](../Page/入山杏奈.md "wikilink")、大島涼花、[川栄李奈](https://zh.wikipedia.org/wiki/川栄李奈 "wikilink")、[菊地あやか](https://zh.wikipedia.org/wiki/菊地あやか "wikilink")、小林茉里奈、佐々木優佳里、[佐藤すみれ](https://zh.wikipedia.org/wiki/佐藤すみれ "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")、[高橋みなみ](https://zh.wikipedia.org/wiki/高橋みなみ "wikilink")、[田野優花](../Page/田野優花.md "wikilink")、[松井咲子](../Page/松井咲子.md "wikilink")、森川彩香、[横山由依](https://zh.wikipedia.org/wiki/横山由依 "wikilink")
+      - Team K：[秋元才加](../Page/秋元才加.md "wikilink")、[阿部マリア](https://zh.wikipedia.org/wiki/阿部マリア "wikilink")、[内田真由美](https://zh.wikipedia.org/wiki/内田真由美 "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[北原里英](../Page/北原里英.md "wikilink")、[倉持明日香](../Page/倉持明日香.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[鈴木紫帆里](../Page/鈴木紫帆里.md "wikilink")、[中田ちさと](https://zh.wikipedia.org/wiki/中田ちさと "wikilink")、藤田奈那、[前田亜美](https://zh.wikipedia.org/wiki/前田亜美 "wikilink") 、武藤十夢
+      - Team B：[石田晴香](../Page/石田晴香.md "wikilink")、[市川美織](../Page/市川美織.md "wikilink")、[岩佐美咲](../Page/岩佐美咲.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[大家志津香](../Page/大家志津香.md "wikilink")、[柏木由紀](../Page/柏木由紀.md "wikilink")、[片山陽加](../Page/片山陽加.md "wikilink")、[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")、小嶋菜月、[島崎遥香](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、名取稚菜、[藤江れいな](https://zh.wikipedia.org/wiki/藤江れいな "wikilink")、[山内鈴蘭](https://zh.wikipedia.org/wiki/山内鈴蘭 "wikilink")
       - 研究生：相笠萌
   - [SKE48](../Page/SKE48.md "wikilink")
-      - Team
-        S:[木﨑ゆりあ](https://zh.wikipedia.org/wiki/木﨑ゆりあ "wikilink")、[木下有希子](../Page/木下有希子.md "wikilink")、[菅なな子](https://zh.wikipedia.org/wiki/菅なな子 "wikilink")
+      - Team S:[木﨑ゆりあ](https://zh.wikipedia.org/wiki/木﨑ゆりあ "wikilink")、[木下有希子](../Page/木下有希子.md "wikilink")、[菅なな子](https://zh.wikipedia.org/wiki/菅なな子 "wikilink")
       - Team KII:[石田安奈](../Page/石田安奈.md "wikilink")
       - Team E:竹内舞
   - [HKT48](../Page/HKT48.md "wikilink")
       - Team H：[多田愛佳](../Page/多田愛佳.md "wikilink")
   - [SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")：[宮澤佐江](../Page/宮澤佐江.md "wikilink")
   - [JKT48](../Page/JKT48.md "wikilink")
-      - Team
-        J：[高城亜樹](https://zh.wikipedia.org/wiki/高城亜樹 "wikilink")（AKB48
-        Team
-        B兼任）、デフィ・キナル・プトゥリ、[仲川遥香](../Page/仲川遥香.md "wikilink")、ナビラ・ラトナ・アユ・アザリア
+      - Team J：[高城亜樹](https://zh.wikipedia.org/wiki/高城亜樹 "wikilink")（AKB48 Team B兼任）、デフィ・キナル・プトゥリ、[仲川遥香](../Page/仲川遥香.md "wikilink")、ナビラ・ラトナ・アユ・アザリア
 
 ### 嘉賓・其他的出演者
 
@@ -47,8 +39,7 @@
   - [壇蜜](../Page/壇蜜.md "wikilink") - 「究極H姐壇蜜兔」出演。
   - 今井聖弓 - [ジュピター](http://jupiter-japan.com/)所属女優。「情人節告白的小兔子」出演。
   - [杉原杏璃](../Page/杉原杏璃.md "wikilink") - 「隆胸的小兔子為何煩惱」出演。
-  - [カリスマカンタロー](https://zh.wikipedia.org/wiki/カリスマカンタロー "wikilink") -
-    「ダンスで天下を取りたい子兎」中出演。
+  - [カリスマカンタロー](https://zh.wikipedia.org/wiki/カリスマカンタロー "wikilink") - 「ダンスで天下を取りたい子兎」中出演。
 
 ## 播放日・企劃
 
@@ -557,8 +548,7 @@ Dance</p></th>
 
   - 開頭曲
 
-:\* 「[永遠的壓力](../Page/永遠的壓力.md "wikilink")」:AKB48（2012年12月7日 -
-2013年1月18日、3月1日、4月5日、4月19日、5月17日）
+:\* 「[永遠的壓力](../Page/永遠的壓力.md "wikilink")」:AKB48（2012年12月7日 - 2013年1月18日、3月1日、4月5日、4月19日、5月17日）
 
 :\* 「overture」:AKB48（2013年1月25日 - 2013年2月22日、3月8日 - 3月29日）
 
@@ -566,8 +556,7 @@ Dance</p></th>
 
 :\* 「[掌心語](../Page/掌心語.md "wikilink")」 :AKB48（2013年3月22日）
 
-:\*
-「[好想見你](https://zh.wikipedia.org/wiki/好想見你_\(AKB48單曲\) "wikilink")」:AKB48（2013年5月24日）
+:\* 「[好想見你](https://zh.wikipedia.org/wiki/好想見你_\(AKB48單曲\) "wikilink")」:AKB48（2013年5月24日）
 
 :\* 「[RIVER](../Page/RIVER_\(AKB48單曲\).md "wikilink")」:AKB48（2013年7月5日）
 
@@ -650,9 +639,7 @@ Dance</p></th>
 
   - [AKB子兎道場官方網站](http://www.tv-tokyo.co.jp/akb_kousagi/)
 
-[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink")
-[Category:東京電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:東京電視台綜藝節目 "wikilink")
-[Category:2012年日本電視節目](https://zh.wikipedia.org/wiki/Category:2012年日本電視節目 "wikilink")
+[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink") [Category:東京電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:東京電視台綜藝節目 "wikilink") [Category:2012年日本電視節目](https://zh.wikipedia.org/wiki/Category:2012年日本電視節目 "wikilink")
 
 1.  沒有特別的環節名
 2.  2013年3月前是星期日 8:30 - 9:00

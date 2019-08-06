@@ -1,5 +1,4 @@
-《**LOVE
-STAGE\!\!**》（）是[影木榮貴](../Page/影木榮貴.md "wikilink")和[藏王大志的](../Page/津田美樹代.md "wikilink")[漫畫合作作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。2010年7月號起於[角川書店](../Page/角川書店.md "wikilink")旗下雜誌《》連載中\[1\]，三本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2011年5月27日至2013年5月30日發售\[2\]\[3\]。[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台灣角川](../Page/台灣角川.md "wikilink")出版。
+《**LOVE STAGE\!\!**》（）是[影木榮貴](../Page/影木榮貴.md "wikilink")和[藏王大志的](../Page/津田美樹代.md "wikilink")[漫畫合作作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。2010年7月號起於[角川書店](../Page/角川書店.md "wikilink")旗下雜誌《》連載中\[1\]，三本[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2011年5月27日至2013年5月30日發售\[2\]\[3\]。[台灣由](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台灣角川](../Page/台灣角川.md "wikilink")出版。
 
 本作改編的[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2014年7月9日開始播放\[4\]\[5\]。
 
@@ -168,9 +167,7 @@ STAGE\!\!**》（）是[影木榮貴](../Page/影木榮貴.md "wikilink")和[藏
 
 ### 製作人員
 
-  - 原作 -
-    [影木榮貴](../Page/影木榮貴.md "wikilink")×[藏王大志](../Page/津田美樹代.md "wikilink")（[KADOKAWA](../Page/KADOKAWA.md "wikilink")
-    [角川書店](../Page/角川書店.md "wikilink")「CIEL」連載）
+  - 原作 - [影木榮貴](../Page/影木榮貴.md "wikilink")×[藏王大志](../Page/津田美樹代.md "wikilink")（[KADOKAWA](../Page/KADOKAWA.md "wikilink") [角川書店](../Page/角川書店.md "wikilink")「CIEL」連載）
   - 監督 - [笠井賢一](../Page/笠井賢一.md "wikilink")
   - 系列構成 - [横手美智子](../Page/横手美智子.md "wikilink")
   - 人物設定 - 伊東葉子
@@ -186,8 +183,7 @@ STAGE\!\!**》（）是[影木榮貴](../Page/影木榮貴.md "wikilink")和[藏
   - 執行製作人 - 安田猛
   - 動畫統括 - 松倉友二
   - 動畫製作人 - 藤代敦市
-  - 動畫製作 -
-    [J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")
+  - 動畫製作 - [J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")
   - 製作 - 「LOVESTAGE\!\!」製作委員會
 
 ### 主題曲
@@ -195,8 +191,7 @@ STAGE\!\!**》（）是[影木榮貴](../Page/影木榮貴.md "wikilink")和[藏
   - 片頭曲「LΦVEST」
     作詞：勇-YOU-，作曲、編曲：[太田雅友](../Page/太田雅友.md "wikilink")，歌：SCREEN mode
   - 片尾曲「CLICK YOUR HEART\!\!」
-    作詞：，作曲：太田雅友（SCREEN
-    mode），編曲：EFFY（FirstCall），歌：[山本和臣](../Page/山本和臣.md "wikilink")
+    作詞：，作曲：太田雅友（SCREEN mode），編曲：EFFY（FirstCall），歌：[山本和臣](../Page/山本和臣.md "wikilink")
 
 ### 各話列表
 
@@ -352,17 +347,12 @@ STAGE\!\!**》（）是[影木榮貴](../Page/影木榮貴.md "wikilink")和[藏
 
 ## 外部链接
 
-  - [影木榮貴 藏王大志『LOVE STAGE\!\! BACK STAGE\!\!』 | web
-    KADOKAWA](http://www.kadokawa.co.jp/sp/201305-05/)
+  - [影木榮貴 藏王大志『LOVE STAGE\!\! BACK STAGE\!\!』 | web KADOKAWA](http://www.kadokawa.co.jp/sp/201305-05/)
 
   - [LOVE STAGE\!\! 電視動畫官方網站](http://lovestage-tv.jp/)
 
   -
-[Category:BL漫畫](https://zh.wikipedia.org/wiki/Category:BL漫畫 "wikilink")
-[Category:演藝界題材漫畫](https://zh.wikipedia.org/wiki/Category:演藝界題材漫畫 "wikilink")
-[Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink")
-[Category:BL動畫](https://zh.wikipedia.org/wiki/Category:BL動畫 "wikilink")
-[Category:角川Ruby文庫](https://zh.wikipedia.org/wiki/Category:角川Ruby文庫 "wikilink")
+[Category:BL漫畫](https://zh.wikipedia.org/wiki/Category:BL漫畫 "wikilink") [Category:演藝界題材漫畫](https://zh.wikipedia.org/wiki/Category:演藝界題材漫畫 "wikilink") [Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink") [Category:BL動畫](https://zh.wikipedia.org/wiki/Category:BL動畫 "wikilink") [Category:角川Ruby文庫](https://zh.wikipedia.org/wiki/Category:角川Ruby文庫 "wikilink")
 
 1.
 2.

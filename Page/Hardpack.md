@@ -100,15 +100,11 @@ Hardpack在2012年起不定期在YouTube邀請多名藝人「整蠱」其他藝�
 
   - [Myspace](http://www.myspace.com/hardpack)
   - [娱乐圈化学方程式：吴雨霏×Hardpack=蓝天白云](https://archive.is/20130105182955/http://ent.cn.yahoo.com/ypen/20101018/52141.html)
-  - [CHINESE- 吳雨霏+Hardpack 《合+
-    歡》](https://archive.is/20130427061056/http://www2.mingpaoweekly.com/contents/?id=7663)
+  - [CHINESE- 吳雨霏+Hardpack 《合+ 歡》](https://archive.is/20130427061056/http://www2.mingpaoweekly.com/contents/?id=7663)
   - [吳雨霏夾Band誓破宿命](https://archive.is/20130107165400/http://ent.sina.com.hk/news/%E5%90%B3%E9%9B%A8%E9%9C%8F%E5%A4%BEBand%E8%AA%93%E7%A0%B4%E5%AE%BF%E5%91%BD-2-523313/1.html)
-  - [KARY X HARDPACK
-    拆字企劃](https://web.archive.org/web/20160305055409/http://ent.sina.com.hk/news/KARY-X-HARDPACK-%E6%8B%86%E5%AD%97%E4%BC%81%E5%8A%83-2-497122/1.html)
+  - [KARY X HARDPACK 拆字企劃](https://web.archive.org/web/20160305055409/http://ent.sina.com.hk/news/KARY-X-HARDPACK-%E6%8B%86%E5%AD%97%E4%BC%81%E5%8A%83-2-497122/1.html)
   - [香港朋克Hardpack接受《Monday》雜誌訪問](http://site.douban.com/widget/notes/790261/note/149872345/)
   - [香港Punk班霸Hardpack乐队誓要称霸OM掲幕礼](http://ent.sina.com.cn/y/2008-03-18/16231952493.shtml)
-  - [十年「樂」事好開心 :
-    Hardpack專訪](http://bitetone.com/2012/01/08/%E8%A8%AA%E5%95%8F-%E5%8D%81%E5%B9%B4-%E6%A8%82-%E4%BA%8B%E5%A5%BD%E9%96%8B%E5%BF%83-hardpack%E5%B0%88%E8%A8%AA/)
+  - [十年「樂」事好開心 : Hardpack專訪](http://bitetone.com/2012/01/08/%E8%A8%AA%E5%95%8F-%E5%8D%81%E5%B9%B4-%E6%A8%82-%E4%BA%8B%E5%A5%BD%E9%96%8B%E5%BF%83-hardpack%E5%B0%88%E8%A8%AA/)
 
-[Category:香港搖滾樂團](https://zh.wikipedia.org/wiki/Category:香港搖滾樂團 "wikilink")
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
+[Category:香港搖滾樂團](https://zh.wikipedia.org/wiki/Category:香港搖滾樂團 "wikilink") [Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")

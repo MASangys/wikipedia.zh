@@ -1,5 +1,4 @@
-《**ACTION**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十六张录音室专辑。2007年12月5日由[VERMILLION
-RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
+《**ACTION**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十六张录音室专辑。2007年12月5日由[VERMILLION RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約44萬張。
 
@@ -18,8 +17,7 @@ RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
   - [徳永暁人](https://zh.wikipedia.org/wiki/徳永暁人 "wikilink")：电贝司（\#7）・[和声](https://zh.wikipedia.org/wiki/和声歌手 "wikilink")（\#12.14）・編曲（\#10.16）
   - 小野塚晃：[风琴](https://zh.wikipedia.org/wiki/风琴 "wikilink")（\#3.6.8.10.14.17）・[钢琴](../Page/钢琴.md "wikilink")（\#4.8.9.11）・[电钢琴](https://zh.wikipedia.org/wiki/电钢琴 "wikilink")（\#11）
   - 大田紳一郎：和声（\#12.14）
-  - TAMA
-    STRINGS：[弦乐演奏](https://zh.wikipedia.org/wiki/弦乐器 "wikilink")（\#9.11-13.16）
+  - TAMA STRINGS：[弦乐演奏](https://zh.wikipedia.org/wiki/弦乐器 "wikilink")（\#9.11-13.16）
   - 石橋尚子：弦乐演奏（\#9.11-13）
   - HIROMI ISODA：弦乐演奏（\#16）
   - 勝田かず樹：[萨克斯风](https://zh.wikipedia.org/wiki/萨克斯风 "wikilink")（\#10.12）
@@ -32,9 +30,6 @@ RECORDS于日本发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 ## 参考文献
 
-[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink")
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
-[Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink")
-[Category:2007年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink") [Category:2007年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.

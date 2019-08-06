@@ -11,8 +11,7 @@
 ## 主題曲
 
   - 片頭曲「コイ♥クル」
-    主唱：[黑木マリナ](https://zh.wikipedia.org/wiki/黑木マリナ "wikilink") /
-    作詞：山田ひろし / 作曲、編曲：渡部チェル
+    主唱：[黑木マリナ](https://zh.wikipedia.org/wiki/黑木マリナ "wikilink") / 作詞：山田ひろし / 作曲、編曲：渡部チェル
 
   - 片尾曲
 
@@ -22,8 +21,7 @@
 
 :; 「kuru kuru kuru」（第28話）
 
-:: 主唱：My Melody（[佐久間玲](../Page/佐久間玲.md "wikilink")） / 作詞：ビーンズ豆田 /
-作曲、編曲：小西真理
+:: 主唱：My Melody（[佐久間玲](../Page/佐久間玲.md "wikilink")） / 作詞：ビーンズ豆田 / 作曲、編曲：小西真理
 
 :; 「おれはウサミミ仮面」（第29話）
 
@@ -42,8 +40,7 @@
   -
 
       -
-        主唱：My Melody和馬利蘭樂園的同伴（Melody、可羅米、小綿羊皮亞諾、巴庫） / 作詞：山田ひろし /
-        作曲、編曲：渡部チェル
+        主唱：My Melody和馬利蘭樂園的同伴（Melody、可羅米、小綿羊皮亞諾、巴庫） / 作詞：山田ひろし / 作曲、編曲：渡部チェル
 
 ## 各話列表
 
@@ -616,15 +613,8 @@ Kim Hae Sook<br />
 
   - [大阪電視台「奇幻魔法Melody：轉轉旋律魔法牌」](http://www.tv-osaka.co.jp/mymelo_kurukuru/index.html)
 
-  - [奇幻魔法Melody：轉轉旋律魔法牌](https://web.archive.org/web/20130303020909/http://www.php.co.jp/smash/books/2013/02/post-29.php)
-    - 粉碎文庫 PHP研究所
+  - [奇幻魔法Melody：轉轉旋律魔法牌](https://web.archive.org/web/20130303020909/http://www.php.co.jp/smash/books/2013/02/post-29.php) - 粉碎文庫 PHP研究所
 
-[分類:搞笑動畫](https://zh.wikipedia.org/wiki/分類:搞笑動畫 "wikilink")
-[分類:奇幻動畫](https://zh.wikipedia.org/wiki/分類:奇幻動畫 "wikilink")
-[分類:2006年東京電視網動畫](https://zh.wikipedia.org/wiki/分類:2006年東京電視網動畫 "wikilink")
-[分類:以兔子為主角的故事](https://zh.wikipedia.org/wiki/分類:以兔子為主角的故事 "wikilink")
-[分類:中學背景動畫](https://zh.wikipedia.org/wiki/分類:中學背景動畫 "wikilink")
-[分類:無綫電視外購動畫](https://zh.wikipedia.org/wiki/分類:無綫電視外購動畫 "wikilink")
-[分類:三麗鷗](https://zh.wikipedia.org/wiki/分類:三麗鷗 "wikilink")
+[分類:搞笑動畫](https://zh.wikipedia.org/wiki/分類:搞笑動畫 "wikilink") [分類:奇幻動畫](https://zh.wikipedia.org/wiki/分類:奇幻動畫 "wikilink") [分類:2006年東京電視網動畫](https://zh.wikipedia.org/wiki/分類:2006年東京電視網動畫 "wikilink") [分類:以兔子為主角的故事](https://zh.wikipedia.org/wiki/分類:以兔子為主角的故事 "wikilink") [分類:中學背景動畫](https://zh.wikipedia.org/wiki/分類:中學背景動畫 "wikilink") [分類:無綫電視外購動畫](https://zh.wikipedia.org/wiki/分類:無綫電視外購動畫 "wikilink") [分類:三麗鷗](https://zh.wikipedia.org/wiki/分類:三麗鷗 "wikilink")
 
 [Category:STUDIO_COMET](https://zh.wikipedia.org/wiki/Category:STUDIO_COMET "wikilink")

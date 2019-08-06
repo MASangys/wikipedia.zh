@@ -57,9 +57,6 @@
 
   - [三十過後一個人住：這才叫香港精神：RubberBand《Easy》](http://alexxbb.mysinablog.com/index.php?op=ViewArticle&articleId=3714911)
 
-[Category:RuberBand音樂專輯](https://zh.wikipedia.org/wiki/Category:RuberBand音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:RuberBand音樂專輯](https://zh.wikipedia.org/wiki/Category:RuberBand音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
-1.  [3cmusic：從灰色都市唱到花開維港：RubberBand Easy
-    Concert 2012](http://3cmusic.com/home/rubberband-easy-concert-2012)
+1.  [3cmusic：從灰色都市唱到花開維港：RubberBand Easy Concert 2012](http://3cmusic.com/home/rubberband-easy-concert-2012)

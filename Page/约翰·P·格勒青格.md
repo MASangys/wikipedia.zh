@@ -1,6 +1,4 @@
-[John_Grotzinger_World_Economic_Forum_2013.jpg](https://zh.wikipedia.org/wiki/File:John_Grotzinger_World_Economic_Forum_2013.jpg "fig:John_Grotzinger_World_Economic_Forum_2013.jpg")\]\]
-**约翰·P·格勒青格**（John P.
-Grotzinger）是[加州理工学院的一名](https://zh.wikipedia.org/wiki/加州理工学院 "wikilink")[地质学](../Page/地质学.md "wikilink")教授。主要教授地理学与行星科学，他的研究主要集中于生命与环境中的化学与物理之间的相互作用\[1\]。他是一名活跃的[火星地理](../Page/火星地理.md "wikilink")研究学家，并参与了一些[NASA探索](https://zh.wikipedia.org/wiki/NASA "wikilink")[火星](../Page/火星.md "wikilink")的科研项目\[2\]\[3\]。
+[John_Grotzinger_World_Economic_Forum_2013.jpg](https://zh.wikipedia.org/wiki/File:John_Grotzinger_World_Economic_Forum_2013.jpg "fig:John_Grotzinger_World_Economic_Forum_2013.jpg")\]\] **约翰·P·格勒青格**（John P. Grotzinger）是[加州理工学院的一名](https://zh.wikipedia.org/wiki/加州理工学院 "wikilink")[地质学](../Page/地质学.md "wikilink")教授。主要教授地理学与行星科学，他的研究主要集中于生命与环境中的化学与物理之间的相互作用\[1\]。他是一名活跃的[火星地理](../Page/火星地理.md "wikilink")研究学家，并参与了一些[NASA探索](https://zh.wikipedia.org/wiki/NASA "wikilink")[火星](../Page/火星.md "wikilink")的科研项目\[2\]\[3\]。
 
 ## 学历与教学史
 
@@ -25,13 +23,7 @@ Grotzinger）是[加州理工学院的一名](https://zh.wikipedia.org/wiki/加�
 
   - [Mars Science Laboratory](http://mars.jpl.nasa.gov/msl/)
 
-[Category:美国地质学家](https://zh.wikipedia.org/wiki/Category:美国地质学家 "wikilink")
-[Category:蒙大拿大學校友](https://zh.wikipedia.org/wiki/Category:蒙大拿大學校友 "wikilink")
-[Category:弗吉尼亚理工学院暨州立大学校友](https://zh.wikipedia.org/wiki/Category:弗吉尼亚理工学院暨州立大学校友 "wikilink")
-[Category:哥伦比亚大学校友](https://zh.wikipedia.org/wiki/Category:哥伦比亚大学校友 "wikilink")
-[Category:麻省理工學院教授](https://zh.wikipedia.org/wiki/Category:麻省理工學院教授 "wikilink")
-[Category:加州理工学院教师](https://zh.wikipedia.org/wiki/Category:加州理工学院教师 "wikilink")
-[Category:美国国家科学院院士](https://zh.wikipedia.org/wiki/Category:美国国家科学院院士 "wikilink")
+[Category:美国地质学家](https://zh.wikipedia.org/wiki/Category:美国地质学家 "wikilink") [Category:蒙大拿大學校友](https://zh.wikipedia.org/wiki/Category:蒙大拿大學校友 "wikilink") [Category:弗吉尼亚理工学院暨州立大学校友](https://zh.wikipedia.org/wiki/Category:弗吉尼亚理工学院暨州立大学校友 "wikilink") [Category:哥伦比亚大学校友](https://zh.wikipedia.org/wiki/Category:哥伦比亚大学校友 "wikilink") [Category:麻省理工學院教授](https://zh.wikipedia.org/wiki/Category:麻省理工學院教授 "wikilink") [Category:加州理工学院教师](https://zh.wikipedia.org/wiki/Category:加州理工学院教师 "wikilink") [Category:美国国家科学院院士](https://zh.wikipedia.org/wiki/Category:美国国家科学院院士 "wikilink")
 
 1.
 

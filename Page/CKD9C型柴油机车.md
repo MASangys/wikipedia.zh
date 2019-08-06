@@ -34,10 +34,7 @@ CKD9C型柴油机车是双节重联干线货运机车，每组机车由两节结
 
   - [搜狐网：南车获哈萨克斯坦12台内燃机车订单2014年年内交付](https://web.archive.org/web/20140307144420/http://stock.sohu.com/20140227/n395737982.shtml)
 
-[Category:土库曼斯坦柴油机车](https://zh.wikipedia.org/wiki/Category:土库曼斯坦柴油机车 "wikilink")
-[Category:中国出口柴油机车](https://zh.wikipedia.org/wiki/Category:中国出口柴油机车 "wikilink")
-[Category:中车资阳制铁路机车](https://zh.wikipedia.org/wiki/Category:中车资阳制铁路机车 "wikilink")
-[Category:Co-Co+Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co+Co-Co軸式機車 "wikilink")
+[Category:土库曼斯坦柴油机车](https://zh.wikipedia.org/wiki/Category:土库曼斯坦柴油机车 "wikilink") [Category:中国出口柴油机车](https://zh.wikipedia.org/wiki/Category:中国出口柴油机车 "wikilink") [Category:中车资阳制铁路机车](https://zh.wikipedia.org/wiki/Category:中车资阳制铁路机车 "wikilink") [Category:Co-Co+Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co+Co-Co軸式機車 "wikilink")
 
 1.
 2.

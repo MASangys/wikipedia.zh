@@ -20,8 +20,7 @@ Seseo分佈在[西班牙語美洲全境以及](https://zh.wikipedia.org/wiki/西
 
 ### Ceceo
 
-[Andalucía_ceceante_y_seseante.PNG](https://zh.wikipedia.org/wiki/File:Andalucía_ceceante_y_seseante.PNG "fig:Andalucía_ceceante_y_seseante.PNG")
-Ceceo指的是歷史上的與均發為清齒-齒齦噝音/s̄/（與相似）的現象\[2\]。Ceceo僅出現在西班牙南部安達魯西亞的方言中，但據瓦爾德（Hualde）報告，在[中美洲](../Page/中美洲.md "wikilink")的部分地區也有此種現象。由於ceceo的使用者大多居住在[農村地區](https://zh.wikipedia.org/wiki/農村 "wikilink")，因此常被認為是一種較為粗野和缺乏教養的發音方式\[3\]。
+[Andalucía_ceceante_y_seseante.PNG](https://zh.wikipedia.org/wiki/File:Andalucía_ceceante_y_seseante.PNG "fig:Andalucía_ceceante_y_seseante.PNG") Ceceo指的是歷史上的與均發為清齒-齒齦噝音/s̄/（與相似）的現象\[2\]。Ceceo僅出現在西班牙南部安達魯西亞的方言中，但據瓦爾德（Hualde）報告，在[中美洲](../Page/中美洲.md "wikilink")的部分地區也有此種現象。由於ceceo的使用者大多居住在[農村地區](https://zh.wikipedia.org/wiki/農村 "wikilink")，因此常被認為是一種較為粗野和缺乏教養的發音方式\[3\]。
 
 大多數人使用ceceo的地區主要有：
 
@@ -31,8 +30,7 @@ Ceceo指的是歷史上的與均發為清齒-齒齦噝音/s̄/（與相似）的
   - [阿爾梅里亞省](../Page/阿爾梅里亞省.md "wikilink")的海岸地區，以為主
   - [哈恩省](../Page/哈恩省.md "wikilink")和[科爾多瓦省的小部分地區](../Page/科爾多瓦省_\(西班牙\).md "wikilink")
 
-在這一區域中有多個非ceceo[方言島](https://zh.wikipedia.org/wiki/方言島 "wikilink")，例如[塞維亞和加的斯兩市的大部分居民為seseante](https://zh.wikipedia.org/wiki/塞維亞 "wikilink")，而[格拉納達市區則是seseo和區分](https://zh.wikipedia.org/wiki/格拉納達 "wikilink")與的居民各半\[4\]
-。
+在這一區域中有多個非ceceo[方言島](https://zh.wikipedia.org/wiki/方言島 "wikilink")，例如[塞維亞和加的斯兩市的大部分居民為seseante](https://zh.wikipedia.org/wiki/塞維亞 "wikilink")，而[格拉納達市區則是seseo和區分](https://zh.wikipedia.org/wiki/格拉納達 "wikilink")與的居民各半\[4\] 。
 
 ### Seseo
 
@@ -284,12 +282,9 @@ Ceceo指的是歷史上的與均發為清齒-齒齦噝音/s̄/（與相似）的
 
   -
   -
-  - [An explanation of the development of Mediæval Spanish sibilants in
-    Castile and
-    Andalusia.](https://web.archive.org/web/20091229122345/http://kluna.bol.ucla.edu/Development%20of%20Medieval%20Spanish%20Sibilants.html)
+  - [An explanation of the development of Mediæval Spanish sibilants in Castile and Andalusia.](https://web.archive.org/web/20091229122345/http://kluna.bol.ucla.edu/Development%20of%20Medieval%20Spanish%20Sibilants.html)
 
-  - [A recording of the sibilants, as they would have been pronounced in
-    medieval Spanish.](http://www.humnet.ucla.edu/santiago/osppron.html)
+  - [A recording of the sibilants, as they would have been pronounced in medieval Spanish.](http://www.humnet.ucla.edu/santiago/osppron.html)
 
 [Category:西班牙語](https://zh.wikipedia.org/wiki/Category:西班牙語 "wikilink")
 
@@ -307,8 +302,7 @@ Ceceo指的是歷史上的與均發為清齒-齒齦噝音/s̄/（與相似）的
 
 7.
 
-8.  參見[Linguist
-    List](http://linguistlist.org/issues/11/11-2186.html)和[About.com](http://spanish.about.com/cs/qa/a/q_lisp.htm).
+8.  參見[Linguist List](http://linguistlist.org/issues/11/11-2186.html)和[About.com](http://spanish.about.com/cs/qa/a/q_lisp.htm).
 
 9.
 

@@ -1,26 +1,16 @@
-**Room on the 3rd
-Floor**是英國流行搖滾樂團小飛俠的第一張錄音室專輯，在2004年7月5日英國由小島唱片發行，而在美國則由[Island
-Def Jam
-Records發行](https://zh.wikipedia.org/wiki/The_Island_Def_Jam_Music_Group "wikilink")。這張專輯在英國專輯排行榜上位居第一，打破了世界擁有排行第一的專輯的最年輕樂隊的記錄，而這項紀錄之前一直被披頭士保持。這張專輯在第一週就賣掉了超過61500張拷貝，在英國國內因銷量超過六十萬而被認證為雙白金，並在世界範圍取得銷量兩百萬的成績。
+**Room on the 3rd Floor**是英國流行搖滾樂團小飛俠的第一張錄音室專輯，在2004年7月5日英國由小島唱片發行，而在美國則由[Island Def Jam Records發行](https://zh.wikipedia.org/wiki/The_Island_Def_Jam_Music_Group "wikilink")。這張專輯在英國專輯排行榜上位居第一，打破了世界擁有排行第一的專輯的最年輕樂隊的記錄，而這項紀錄之前一直被披頭士保持。這張專輯在第一週就賣掉了超過61500張拷貝，在英國國內因銷量超過六十萬而被認證為雙白金，並在世界範圍取得銷量兩百萬的成績。
 
 這張專輯在2004年的Smash Hits Awards中贏得了最佳專輯獎。
 
 ## 創作背景
 
-這張專輯的首要作者包括樂隊成員湯姆·弗萊屈，丹尼·瓊斯，霸子樂隊的成員詹姆斯·伯恩以及一些霸子樂團的製作人。這張專輯直接受到了現代流行龐克，1960年時期衝浪流行和單戀故事的影響。歌曲《Get
-Over You》沒有出現在專輯列表中，在第一首歌《5 Colours in Her Hair》播放之前倒帶即可聽到（用電腦打開無效）。
-這張專輯發行了四首單曲，《5 Colous In Her Hair》和《Obviously》位居英國排行榜第一，《That
-Girl》位居第三，《Room On the 3rd Floor》位居第五。歌曲《Saturday Night》之前被錄入單曲碟《5
-Colours in Her Hair》的B-side中，歌名為《Saturday
-Nite》。因合同原因，國際版的專輯切掉了《Broccoli》和《Surfer
-Babe》兩首歌曲。專輯封面上黃色的樂隊Logo也被改成了紅色。
+這張專輯的首要作者包括樂隊成員湯姆·弗萊屈，丹尼·瓊斯，霸子樂隊的成員詹姆斯·伯恩以及一些霸子樂團的製作人。這張專輯直接受到了現代流行龐克，1960年時期衝浪流行和單戀故事的影響。歌曲《Get Over You》沒有出現在專輯列表中，在第一首歌《5 Colours in Her Hair》播放之前倒帶即可聽到（用電腦打開無效）。 這張專輯發行了四首單曲，《5 Colous In Her Hair》和《Obviously》位居英國排行榜第一，《That Girl》位居第三，《Room On the 3rd Floor》位居第五。歌曲《Saturday Night》之前被錄入單曲碟《5 Colours in Her Hair》的B-side中，歌名為《Saturday Nite》。因合同原因，國際版的專輯切掉了《Broccoli》和《Surfer Babe》兩首歌曲。專輯封面上黃色的樂隊Logo也被改成了紅色。
 
 ## Track listing
 
 ## Theatre Tour
 
-在霸子樂團的支持下，樂隊聲明他們的第一次巡演將在2004年舉行。樂隊第一場在單曲《That
-Girl》發行十六天後就開始巡演。開始日期為2004年9月22日，在10月13日結束。有15場演出的票都被售完。
+在霸子樂團的支持下，樂隊聲明他們的第一次巡演將在2004年舉行。樂隊第一場在單曲《That Girl》發行十六天後就開始巡演。開始日期為2004年9月22日，在10月13日結束。有15場演出的票都被售完。
 
   - **巡演日期**
 
@@ -133,14 +123,10 @@ position</p></th>
 
 ## 官方網站
 
-  - [Official
-    Site](https://web.archive.org/web/20130407043205/http://www.mcflyofficial.com/)
+  - [Official Site](https://web.archive.org/web/20130407043205/http://www.mcflyofficial.com/)
 
-[Category:2004_debut_albums](https://zh.wikipedia.org/wiki/Category:2004_debut_albums "wikilink")
-[Category:McFly_albums](https://zh.wikipedia.org/wiki/Category:McFly_albums "wikilink")
-[Category:Albums_produced_by_Hugh_Padgham](https://zh.wikipedia.org/wiki/Category:Albums_produced_by_Hugh_Padgham "wikilink")
+[Category:2004_debut_albums](https://zh.wikipedia.org/wiki/Category:2004_debut_albums "wikilink") [Category:McFly_albums](https://zh.wikipedia.org/wiki/Category:McFly_albums "wikilink") [Category:Albums_produced_by_Hugh_Padgham](https://zh.wikipedia.org/wiki/Category:Albums_produced_by_Hugh_Padgham "wikilink")
 
 1.  <http://books.google.ca/books?lr=&rview=1&id=aRAEAAAAMBAJ&q=mcfly#v=snippet&q=mcfly&f=false>
-2.  [マクフライのCDアルバムランキング、マクフライのプロフィールならオリコン芸能人事典-ORICON
-    STYLE](http://www.oricon.co.jp/prof/artist/339951/ranking/cd_album/)
+2.  [マクフライのCDアルバムランキング、マクフライのプロフィールならオリコン芸能人事典-ORICON STYLE](http://www.oricon.co.jp/prof/artist/339951/ranking/cd_album/)
 3.

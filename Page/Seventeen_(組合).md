@@ -1,22 +1,10 @@
-[淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink"){{·}}[Joshua](https://zh.wikipedia.org/wiki/洪知秀 "wikilink"){{·}}[Jun](../Page/文俊輝.md "wikilink"){{·}}[Hoshi](https://zh.wikipedia.org/wiki/權順榮 "wikilink"){{·}}[圓佑](../Page/全圓佑.md "wikilink"){{·}}[WOOZI](../Page/李知勳_\(SEVENTEEN\).md "wikilink"){{·}}[The8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink"){{·}}[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink"){{·}}[珉奎](../Page/金珉奎.md "wikilink"){{·}}[勝寛](../Page/夫勝寛.md "wikilink"){{·}}[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink"){{·}}[Dino](../Page/李燦_\(SEVENTEEN\).md "wikilink")
-| 簽名 = | 相關團體 =
-[夫碩順(BSS)](https://zh.wikipedia.org/wiki/SEVENTEEN-BSS "wikilink")
-}}
+[淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink"){{·}}[Joshua](https://zh.wikipedia.org/wiki/洪知秀 "wikilink"){{·}}[Jun](../Page/文俊輝.md "wikilink"){{·}}[Hoshi](https://zh.wikipedia.org/wiki/權順榮 "wikilink"){{·}}[圓佑](../Page/全圓佑.md "wikilink"){{·}}[WOOZI](../Page/李知勳_\(SEVENTEEN\).md "wikilink"){{·}}[The8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink"){{·}}[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink"){{·}}[珉奎](../Page/金珉奎.md "wikilink"){{·}}[勝寛](../Page/夫勝寛.md "wikilink"){{·}}[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink"){{·}}[Dino](../Page/李燦_\(SEVENTEEN\).md "wikilink") | 簽名 = | 相關團體 = [夫碩順(BSS)](https://zh.wikipedia.org/wiki/SEVENTEEN-BSS "wikilink") }}
 
-**SEVENTEEN**（，）是韓國[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")旗下的13人男子流行音樂團體，成員包括[韓國籍](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[S.coups](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[圓佑](../Page/全圓佑.md "wikilink")、[WOOZI](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[珉奎](../Page/金珉奎.md "wikilink")、[勝寛](../Page/夫勝寛.md "wikilink")、[Dino](../Page/李燦_\(SEVENTEEN\).md "wikilink")，[美籍韓裔的](../Page/美国.md "wikilink")[Joshua](https://zh.wikipedia.org/wiki/洪知秀 "wikilink")，韓美雙籍的[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")，以及[中國籍的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[Jun和](../Page/文俊輝.md "wikilink")[The
-8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")。
+**SEVENTEEN**（，）是韓國[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")旗下的13人男子流行音樂團體，成員包括[韓國籍](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[S.coups](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[圓佑](../Page/全圓佑.md "wikilink")、[WOOZI](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[珉奎](../Page/金珉奎.md "wikilink")、[勝寛](../Page/夫勝寛.md "wikilink")、[Dino](../Page/李燦_\(SEVENTEEN\).md "wikilink")，[美籍韓裔的](../Page/美国.md "wikilink")[Joshua](https://zh.wikipedia.org/wiki/洪知秀 "wikilink")，韓美雙籍的[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")，以及[中國籍的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[Jun和](../Page/文俊輝.md "wikilink")[The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")。
 
-2015年5月26日透過練習生生活紀錄節目《小綠屋》實境節目《SEVENTEEN Project：出道大作戰》第七集Debut
-Showcase正式出道，並於5月29日發行首張迷你專輯《[17
-Carat](../Page/17_Carat.md "wikilink")》，主打曲為〈Adore
-U〉。由於成員參與每一張專輯的作曲、作詞和編舞而獲得「自給自足偶像（자체제작
-아이돌）」的稱號。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]
+2015年5月26日透過練習生生活紀錄節目《小綠屋》實境節目《SEVENTEEN Project：出道大作戰》第七集Debut Showcase正式出道，並於5月29日發行首張迷你專輯《[17 Carat](../Page/17_Carat.md "wikilink")》，主打曲為〈Adore U〉。由於成員參與每一張專輯的作曲、作詞和編舞而獲得「自給自足偶像（자체제작 아이돌）」的稱號。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]
 
-團體名字「SEVENTEEN」寓意為「13名成員+3個分隊+1個團體」，問候語為「Say the name,
-SEVENTEEN」，同時左手比1，右手比7，並將兩手向前伸再彎曲交疊。 官方粉絲名稱「CARAT (캐럿)
-」取自於鑽石的質量單位，比喻SEVENTEEN是像鑽石一樣閃耀的存在，隨著CARAT的數量增加SEVENTEEN的價值也越高。應援色為
-[<span style="color:#f7cac9">Rose
-Quartz（玫瑰石英粉)</span>與](https://zh.wikipedia.org/wiki/Rose_Quartz（玫瑰石英粉 "wikilink")[<span style="color:#92a8d1">Serenity（寧靜藍)</span>](https://zh.wikipedia.org/wiki/Serenity（寧靜藍\) "wikilink")，玫瑰石英粉是暖和且柔軟的，而寧靜藍則是沈靜、平穩的，用來描述SEVENTEEN的溫暖及清澈。
+團體名字「SEVENTEEN」寓意為「13名成員+3個分隊+1個團體」，問候語為「Say the name, SEVENTEEN」，同時左手比1，右手比7，並將兩手向前伸再彎曲交疊。 官方粉絲名稱「CARAT (캐럿) 」取自於鑽石的質量單位，比喻SEVENTEEN是像鑽石一樣閃耀的存在，隨著CARAT的數量增加SEVENTEEN的價值也越高。應援色為 [<span style="color:#f7cac9">Rose Quartz（玫瑰石英粉)</span>與](https://zh.wikipedia.org/wiki/Rose_Quartz（玫瑰石英粉 "wikilink")[<span style="color:#92a8d1">Serenity（寧靜藍)</span>](https://zh.wikipedia.org/wiki/Serenity（寧靜藍\) "wikilink")，玫瑰石英粉是暖和且柔軟的，而寧靜藍則是沈靜、平穩的，用來描述SEVENTEEN的溫暖及清澈。
 
 ## 經歷
 
@@ -24,12 +12,9 @@ Quartz（玫瑰石英粉)</span>與](https://zh.wikipedia.org/wiki/Rose_Quartz�
 
 在出道前，成員已經進行了多樣化的活動。當中[文俊輝](../Page/文俊輝.md "wikilink")在童星時期出演了2007年電影《[野·良犬](../Page/野·良犬.md "wikilink")》、2010年電影《[葉問前傳](../Page/葉問前傳.md "wikilink")》等多部電視劇及電影，其中《[野·良犬](../Page/野·良犬.md "wikilink")》入圍[第二十七屆香港電影金像獎「最佳新演員」最後五強](../Page/香港電影金像獎最佳新演員.md "wikilink")，以及榮獲[第三屆香港電影導演會年度大獎「年度新晉演員銀獎」](../Page/香港電影導演會年度大獎最佳新演員.md "wikilink")，作為童星受到了很多歡迎。
 
-在2012年SEVENTEEN正式定名前，團體成員與[NU'EST](../Page/NU'EST.md "wikilink")成員、張道允等公司其他男練習生合稱「Pledis
-Boys」，並以此名義出演出了許多活動。
+在2012年SEVENTEEN正式定名前，團體成員與[NU'EST](../Page/NU'EST.md "wikilink")成員、張道允等公司其他男練習生合稱「Pledis Boys」，並以此名義出演出了許多活動。
 
-2011年，[崔勝哲與](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")出演了[A.S.
-BLUE的出道曲](https://zh.wikipedia.org/wiki/After_School#子團體 "wikilink")〈Wonder
-Boy〉的MV<ref>
+2011年，[崔勝哲與](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")出演了[A.S. BLUE的出道曲](https://zh.wikipedia.org/wiki/After_School#子團體 "wikilink")〈Wonder Boy〉的MV<ref>
 
   -
   - Pledis Boys版：
@@ -42,33 +27,17 @@ Boy〉的MV<ref>
 
   - 與S.coups, NU'EST
 
-  - 與S.coups,
-    NU'EST</ref>，又與[NU'EST](../Page/NU'EST.md "wikilink")、[PRISTIN的](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")[施妍及其他Pledis練習生們一同出演](https://zh.wikipedia.org/wiki/PRISTIN#成員資料 "wikilink")[Pledis的家族專輯](../Page/Pledis娛樂.md "wikilink")《[Happy
-    Pledis
-    2012](https://zh.wikipedia.org/wiki/After_School#家族專輯 "wikilink")》的收錄曲〈LOVE
-    LETTER〉的MV\[9\]及現場演出<ref>**現場舞台影片整理：**[崔勝哲](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink"),
-    [NU'EST](../Page/NU'EST.md "wikilink"),
-    [施妍](https://zh.wikipedia.org/wiki/PRISTIN#成員資料 "wikilink") 出演
-    LOVE LETTER
+  - 與S.coups, NU'EST</ref>，又與[NU'EST](../Page/NU'EST.md "wikilink")、[PRISTIN的](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")[施妍及其他Pledis練習生們一同出演](https://zh.wikipedia.org/wiki/PRISTIN#成員資料 "wikilink")[Pledis的家族專輯](../Page/Pledis娛樂.md "wikilink")《[Happy Pledis 2012](https://zh.wikipedia.org/wiki/After_School#家族專輯 "wikilink")》的收錄曲〈LOVE LETTER〉的MV\[9\]及現場演出<ref>**現場舞台影片整理：**[崔勝哲](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink"), [NU'EST](../Page/NU'EST.md "wikilink"), [施妍](https://zh.wikipedia.org/wiki/PRISTIN#成員資料 "wikilink") 出演 LOVE LETTER
 
   -
   -
-</ref>。在年末[SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")中，[崔勝哲與](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")等Pledis練習生們也一起於[After
-School的舞台上演出](../Page/After_School.md "wikilink")。\[10\]
+</ref>。在年末[SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")中，[崔勝哲與](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")[NU'EST](../Page/NU'EST.md "wikilink")等Pledis練習生們也一起於[After School的舞台上演出](../Page/After_School.md "wikilink")。\[10\]
 
-2012年，[崔勝哲](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[全圓佑](../Page/全圓佑.md "wikilink")、[李知勳](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、[金珉奎](../Page/金珉奎.md "wikilink")則出演了[NU'EST](../Page/NU'EST.md "wikilink")的出道曲〈FACE〉的MV\[11\]，[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[全圓佑](../Page/全圓佑.md "wikilink")、[李知勳](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、[金珉奎](../Page/金珉奎.md "wikilink")也出演了[Hello
-Venus的出道曲](../Page/Hello_Venus.md "wikilink")〈Venus〉的MV\[12\]。另外，[崔勝哲亦參與了](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")[橙子焦糖](../Page/橙子焦糖.md "wikilink")的正規一輯《[LIPSTICK](../Page/LIPSTICK.md "wikilink")》收錄曲〈Superwoman〉的Featuring。
+2012年，[崔勝哲](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[全圓佑](../Page/全圓佑.md "wikilink")、[李知勳](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、[金珉奎](../Page/金珉奎.md "wikilink")則出演了[NU'EST](../Page/NU'EST.md "wikilink")的出道曲〈FACE〉的MV\[11\]，[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[全圓佑](../Page/全圓佑.md "wikilink")、[李知勳](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、[金珉奎](../Page/金珉奎.md "wikilink")也出演了[Hello Venus的出道曲](../Page/Hello_Venus.md "wikilink")〈Venus〉的MV\[12\]。另外，[崔勝哲亦參與了](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")[橙子焦糖](../Page/橙子焦糖.md "wikilink")的正規一輯《[LIPSTICK](../Page/LIPSTICK.md "wikilink")》收錄曲〈Superwoman〉的Featuring。
 
-2013年起，[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")在網路個人電視伺服器[Ustream上](https://zh.wikipedia.org/wiki/Ustream "wikilink")，依季別播放《SEVENTEEN
-TV》，讓SEVENTEEN預備成員們出演，與粉絲雙方面交流。在年末[SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")上，[崔勝哲](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[全圓佑](../Page/全圓佑.md "wikilink")、[李碩珉](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[崔韓率](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")、[張道允共同出演](https://zh.wikipedia.org/wiki/張道允 "wikilink")[Hello
-Venus的舞台](../Page/Hello_Venus.md "wikilink")。\[13\]
+2013年起，[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")在網路個人電視伺服器[Ustream上](https://zh.wikipedia.org/wiki/Ustream "wikilink")，依季別播放《SEVENTEEN TV》，讓SEVENTEEN預備成員們出演，與粉絲雙方面交流。在年末[SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")上，[崔勝哲](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[全圓佑](../Page/全圓佑.md "wikilink")、[李碩珉](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[崔韓率](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")、[張道允共同出演](https://zh.wikipedia.org/wiki/張道允 "wikilink")[Hello Venus的舞台](../Page/Hello_Venus.md "wikilink")。\[13\]
 
-2014年，[全圓佑](../Page/全圓佑.md "wikilink")、[金珉奎](../Page/金珉奎.md "wikilink")與[PRISTIN隊長](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")[娜榮擔任了](https://zh.wikipedia.org/wiki/娜榮 "wikilink")[San
-E和](../Page/San_E.md "wikilink")[Raina](../Page/Raina.md "wikilink")的合作單曲〈한여름밤의
-꿀 (A midsummer night's
-sweetness)〉\[14\]的伴舞，[崔勝哲](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[文俊輝](../Page/文俊輝.md "wikilink")、[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[全圓佑](../Page/全圓佑.md "wikilink")、[金珉奎](../Page/金珉奎.md "wikilink")、[崔韓率也出演了年末](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")[KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink")中S[San
-E和](../Page/San_E.md "wikilink")[Raina](../Page/Raina.md "wikilink")的舞台。<ref>**現場舞台影片整理：**San
-E, Raina - A midsummer night's sweetness
+2014年，[全圓佑](../Page/全圓佑.md "wikilink")、[金珉奎](../Page/金珉奎.md "wikilink")與[PRISTIN隊長](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")[娜榮擔任了](https://zh.wikipedia.org/wiki/娜榮 "wikilink")[San E和](../Page/San_E.md "wikilink")[Raina](../Page/Raina.md "wikilink")的合作單曲〈한여름밤의 꿀 (A midsummer night's sweetness)〉\[14\]的伴舞，[崔勝哲](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[文俊輝](../Page/文俊輝.md "wikilink")、[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[全圓佑](../Page/全圓佑.md "wikilink")、[金珉奎](../Page/金珉奎.md "wikilink")、[崔韓率也出演了年末](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")[KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink")中S[San E和](../Page/San_E.md "wikilink")[Raina](../Page/Raina.md "wikilink")的舞台。<ref>**現場舞台影片整理：**San E, Raina - A midsummer night's sweetness
 
   -
   -
@@ -77,73 +46,45 @@ E, Raina - A midsummer night's sweetness
   -
   -
   -
-  - </ref> 同年，[金珉奎](../Page/金珉奎.md "wikilink")與[After
-    School成員](../Page/After_School.md "wikilink")[佳恩出演了](../Page/佳恩_\(1994年出生\).md "wikilink")的迷你二輯《24》的主打歌〈28.5〉的MV\[15\]；[崔韓率則固定出演](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")[MBC的綜藝節目](https://zh.wikipedia.org/wiki/MBC "wikilink")《》。
+  - </ref> 同年，[金珉奎](../Page/金珉奎.md "wikilink")與[After School成員](../Page/After_School.md "wikilink")[佳恩出演了](../Page/佳恩_\(1994年出生\).md "wikilink")的迷你二輯《24》的主打歌〈28.5〉的MV\[15\]；[崔韓率則固定出演](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")[MBC的綜藝節目](https://zh.wikipedia.org/wiki/MBC "wikilink")《》。
 
 ### 2015年
 
 #### 出道
 
-4月15日，告知確定播出《SEVENTEEN PROJECT：出道大作戰 (데뷔
-대작전)》\[16\]，首次公開SEVENTEEN出道。4月20日起，依照
-[S.coups](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink")、[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")、[The
-8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")、[WOOZI](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、[珉奎](../Page/金珉奎.md "wikilink")、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[圓佑](../Page/全圓佑.md "wikilink")、[勝寛](../Page/夫勝寛.md "wikilink")、[Jun](../Page/文俊輝.md "wikilink")、[Dino](../Page/李燦_\(SEVENTEEN\).md "wikilink")、[Joshua的順序公開了個人出道預告影片](https://zh.wikipedia.org/wiki/洪知秀 "wikilink")。
+4月15日，告知確定播出《SEVENTEEN PROJECT：出道大作戰 (데뷔 대작전)》\[16\]，首次公開SEVENTEEN出道。4月20日起，依照 [S.coups](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink")、[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")、[The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")、[WOOZI](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、[珉奎](../Page/金珉奎.md "wikilink")、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[圓佑](../Page/全圓佑.md "wikilink")、[勝寛](../Page/夫勝寛.md "wikilink")、[Jun](../Page/文俊輝.md "wikilink")、[Dino](../Page/李燦_\(SEVENTEEN\).md "wikilink")、[Joshua的順序公開了個人出道預告影片](https://zh.wikipedia.org/wiki/洪知秀 "wikilink")。
 
-5月2日，實境節目《SEVENTEEN
-PROJECT：出道大作戰》首播，節目中成員們執行各項任務，接受評審委員與大眾的審視，與成員間進行磨合與成長，並預計於5月出道。\[17\]
+5月2日，實境節目《SEVENTEEN PROJECT：出道大作戰》首播，節目中成員們執行各項任務，接受評審委員與大眾的審視，與成員間進行磨合與成長，並預計於5月出道。\[17\]
 
 #### 迷你一輯《17 CARAT》
 
-5月29日，第一張迷你專輯《[17 CARAT](../Page/17_Carat.md "wikilink")》發行，主打歌為〈Adore U
-(아낀다)〉。出道專輯由[WOOZI以及PJR](../Page/李知勳_\(SEVENTEEN\).md "wikilink")
-Entertainment的（BUMZU）擔任製作人，而[S.coups](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[圓佑](../Page/全圓佑.md "wikilink")、[珉奎](../Page/金珉奎.md "wikilink")、[Vernon則參與了唱片作詞的製作](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")。
+5月29日，第一張迷你專輯《[17 CARAT](../Page/17_Carat.md "wikilink")》發行，主打歌為〈Adore U (아낀다)〉。出道專輯由[WOOZI以及PJR](../Page/李知勳_\(SEVENTEEN\).md "wikilink") Entertainment的（BUMZU）擔任製作人，而[S.coups](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[圓佑](../Page/全圓佑.md "wikilink")、[珉奎](../Page/金珉奎.md "wikilink")、[Vernon則參與了唱片作詞的製作](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")。
 
-5月26日起5天間，SEVENTEEN於《SEVENTEEN PROJECT：出道大作戰》第七集Debut Showcase、《[Show
-Champion](../Page/Show_Champion.md "wikilink")》、[Mnet](../Page/Mnet媒體.md "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》、[KBS2](../Page/KBS第2频道.md "wikilink")《[Music
-Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》及[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](../Page/人气歌谣.md "wikilink")》逐次亮相出道舞台。
+5月26日起5天間，SEVENTEEN於《SEVENTEEN PROJECT：出道大作戰》第七集Debut Showcase、《[Show Champion](../Page/Show_Champion.md "wikilink")》、[Mnet](../Page/Mnet媒體.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》、[KBS2](../Page/KBS第2频道.md "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》及[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](../Page/人气歌谣.md "wikilink")》逐次亮相出道舞台。
 
-在公開發行的一星期內，出道專輯《[17
-CARAT](../Page/17_Carat.md "wikilink")》就取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第九位。\[18\][Seventeen_(세븐틴)_at_2015_Summer_K-POP_Festival.jpg](https://zh.wikipedia.org/wiki/File:Seventeen_\(세븐틴\)_at_2015_Summer_K-POP_Festival.jpg "fig:Seventeen_(세븐틴)_at_2015_Summer_K-POP_Festival.jpg")
+在公開發行的一星期內，出道專輯《[17 CARAT](../Page/17_Carat.md "wikilink")》就取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第九位。\[18\][Seventeen_(세븐틴)_at_2015_Summer_K-POP_Festival.jpg](https://zh.wikipedia.org/wiki/File:Seventeen_\(세븐틴\)_at_2015_Summer_K-POP_Festival.jpg "fig:Seventeen_(세븐틴)_at_2015_Summer_K-POP_Festival.jpg")
 
 #### 迷你二輯《BOYS BE》
 
-9月10日，第二張迷你專輯《[BOYS
-BE](../Page/Boys_Be_\(Seventeen迷你專輯\).md "wikilink")》發行，主打歌為〈MANSAE
-(만세)〉。專輯同樣由[WOOZI和桂範洙擔任製作人](../Page/李知勳_\(SEVENTEEN\).md "wikilink")，[S.coups](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[圓佑](../Page/全圓佑.md "wikilink")、[珉奎](../Page/金珉奎.md "wikilink")、[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")、[Dino參與作詞](../Page/李燦_\(SEVENTEEN\).md "wikilink")。
+9月10日，第二張迷你專輯《[BOYS BE](../Page/Boys_Be_\(Seventeen迷你專輯\).md "wikilink")》發行，主打歌為〈MANSAE (만세)〉。專輯同樣由[WOOZI和桂範洙擔任製作人](../Page/李知勳_\(SEVENTEEN\).md "wikilink")，[S.coups](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[圓佑](../Page/全圓佑.md "wikilink")、[珉奎](../Page/金珉奎.md "wikilink")、[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")、[Dino參與作詞](../Page/李燦_\(SEVENTEEN\).md "wikilink")。
 
-迷你二輯《[BOYS
-BE](../Page/Boys_Be_\(Seventeen迷你專輯\).md "wikilink")》同樣取得佳績，於9月23日取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第一位。\[19\]\[20\]
-同年10月31日入選[Billboard](../Page/公告牌音乐奖.md "wikilink")《21 Under 21
-(21名21歲以下熱門藝人)》第18名。\[21\]\[22\]
+迷你二輯《[BOYS BE](../Page/Boys_Be_\(Seventeen迷你專輯\).md "wikilink")》同樣取得佳績，於9月23日取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第一位。\[19\]\[20\] 同年10月31日入選[Billboard](../Page/公告牌音乐奖.md "wikilink")《21 Under 21 (21名21歲以下熱門藝人)》第18名。\[21\]\[22\]
 
-12月10日，[Gaon
-Chart公開了男子偶像團專輯銷量](../Page/Gaon音乐榜.md "wikilink")，SEVENTEEN位列第8，是前十名中唯一一支新人團隊。
+12月10日，[Gaon Chart公開了男子偶像團專輯銷量](../Page/Gaon音乐榜.md "wikilink")，SEVENTEEN位列第8，是前十名中唯一一支新人團隊。
 
 #### 首場演唱會《LIKE SEVENTEEN – Boys Wish》
 
-12月24至26日，SEVENTEEN於[首爾](../Page/首爾.md "wikilink")[龍山區](../Page/龍山區_\(首爾\).md "wikilink")[梨泰院洞](../Page/梨泰院洞.md "wikilink")龍山ART
-HALL舉辦共四場的單獨演唱會《LIKE SEVENTEEN – Boys
-Wish》，門票在開售一分鐘後就全部售罄，證明了SEVENTEEN的高人氣。翌年2月13至14日，SEVENTEEN於首爾[松坡區](../Page/松坡區.md "wikilink")[SK奧林匹克手球館](../Page/SK奧林匹克手球館.md "wikilink")舉行安可演唱會，共7,000席的門票亦在5分鐘之內售罄，並在2月14日演出當天宣布官方粉絲名確定為「캐럿
-(CARAT) 」。\[23\]
+12月24至26日，SEVENTEEN於[首爾](../Page/首爾.md "wikilink")[龍山區](../Page/龍山區_\(首爾\).md "wikilink")[梨泰院洞](../Page/梨泰院洞.md "wikilink")龍山ART HALL舉辦共四場的單獨演唱會《LIKE SEVENTEEN – Boys Wish》，門票在開售一分鐘後就全部售罄，證明了SEVENTEEN的高人氣。翌年2月13至14日，SEVENTEEN於首爾[松坡區](../Page/松坡區.md "wikilink")[SK奧林匹克手球館](../Page/SK奧林匹克手球館.md "wikilink")舉行安可演唱會，共7,000席的門票亦在5分鐘之內售罄，並在2月14日演出當天宣布官方粉絲名確定為「캐럿 (CARAT) 」。\[23\]
 
 ### 2016年
 
-1月11日，[Gaon
-Chart公開](../Page/Gaon音乐榜.md "wikilink")2015年「專輯銷量榜」，SEVENTEEN去年所發行的專輯，專輯銷量逾17萬張。當中迷你一輯《[17
-CARAT](../Page/17_Carat.md "wikilink")》的總銷量是52,738+張，位列全年專輯銷量榜47位；迷你二輯《[BOYS
-BE](../Page/Boys_Be_\(Seventeen迷你專輯\).md "wikilink")》以銷量122,784+張位列15位，亦是新人團體中銷量最佳的專輯。\[24\]
+1月11日，[Gaon Chart公開](../Page/Gaon音乐榜.md "wikilink")2015年「專輯銷量榜」，SEVENTEEN去年所發行的專輯，專輯銷量逾17萬張。當中迷你一輯《[17 CARAT](../Page/17_Carat.md "wikilink")》的總銷量是52,738+張，位列全年專輯銷量榜47位；迷你二輯《[BOYS BE](../Page/Boys_Be_\(Seventeen迷你專輯\).md "wikilink")》以銷量122,784+張位列15位，亦是新人團體中銷量最佳的專輯。\[24\]
 
 #### 正規一輯《LOVE\&LETTER》、出道初一位
 
-4月25日，正規一輯《[LOVE\&LETTER](../Page/Love_&_Letter.md "wikilink")》發行，主打歌為〈Pretty
-U (예쁘다)〉。專輯首周銷量為132,402+張，位列4月份[Gaon
-Chart專輯銷量第一](../Page/Gaon音乐榜.md "wikilink")。\[25\]
+4月25日，正規一輯《[LOVE\&LETTER](../Page/Love_&_Letter.md "wikilink")》發行，主打歌為〈Pretty U (예쁘다)〉。專輯首周銷量為132,402+張，位列4月份[Gaon Chart專輯銷量第一](../Page/Gaon音乐榜.md "wikilink")。\[25\]
 
-5月4日，SEVENTEEN於《[Show
-Champion](../Page/Show_Champion.md "wikilink")》以〈Pretty U
-(예쁘다)〉奪得出道以來首個音樂節目一位。11日再次於《[Show
-Champion](../Page/Show_Champion.md "wikilink")》奪得一位，蟬聯兩週冠軍。
+5月4日，SEVENTEEN於《[Show Champion](../Page/Show_Champion.md "wikilink")》以〈Pretty U (예쁘다)〉奪得出道以來首個音樂節目一位。11日再次於《[Show Champion](../Page/Show_Champion.md "wikilink")》奪得一位，蟬聯兩週冠軍。
 
 5月14日，美國[Billboard公佈](../Page/告示牌_\(雜誌\).md "wikilink")《[LOVE\&LETTER](../Page/Love_&_Letter.md "wikilink")》為世界專輯榜單第六名。\[26\]
 
@@ -151,69 +92,37 @@ Champion](../Page/Show_Champion.md "wikilink")》奪得一位，蟬聯兩週冠�
 
 6月15日，[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")發表公告，表示[圓佑因健康因素將暫停活動休息](../Page/全圓佑.md "wikilink")，因此改版專輯的活動會暫時以12人形式進行。\[27\]
 
-7月4日，正規改版一輯《[Love &
-Letter（改版專輯）](../Page/Love_&_Letter.md "wikilink")》發行，主打歌為〈VERY
-NICE (아주 NICE)〉，新曲在多個音樂排行榜的即時榜上拿下冠軍\[28\]。 專輯首月銷量為89,311+張，位列7月份Gaon
-Chart專輯銷量第一。\[29\]
+7月4日，正規改版一輯《[Love & Letter（改版專輯）](../Page/Love_&_Letter.md "wikilink")》發行，主打歌為〈VERY NICE (아주 NICE)〉，新曲在多個音樂排行榜的即時榜上拿下冠軍\[28\]。 專輯首月銷量為89,311+張，位列7月份Gaon Chart專輯銷量第一。\[29\]
 
 #### 單獨演唱會《LIKE SEVENTEEN – Shining Diamond》
 
-7月30日至31日，SEVENTEEN舉行《LIKE SEVENTEEN – Shining Diamond》單獨演唱會，以「Sweet &
-Dark」為概念進行演出，每次演出均展現不同面貌與趣味，透過演唱會展現出這一年來的努力成果，因健康因素暫停活動的[圓佑也開始回歸團體行程](../Page/全圓佑.md "wikilink")。
+7月30日至31日，SEVENTEEN舉行《LIKE SEVENTEEN – Shining Diamond》單獨演唱會，以「Sweet & Dark」為概念進行演出，每次演出均展現不同面貌與趣味，透過演唱會展現出這一年來的努力成果，因健康因素暫停活動的[圓佑也開始回歸團體行程](../Page/全圓佑.md "wikilink")。
 
 10月6日，是SEVENTEEN出道500日的日子，並在當日宣佈官方應援色為 **** X ****。\[30\]
 
 #### 迷你三輯《Going Seventeen》
 
-12月5日，第三張迷你專輯《[Going
-Seventeen](../Page/Going_Seventeen.md "wikilink")》發行，主打歌為〈BOOMBOOM
-(붐붐)〉，即日成功打入所有音源榜的前5位置。專輯首週銷量為131,998+張\[31\]，成為首週專輯銷量最多的第11名，同時取得[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第三位，主打曲亦打入「數位歌曲榜」第五位。
+12月5日，第三張迷你專輯《[Going Seventeen](../Page/Going_Seventeen.md "wikilink")》發行，主打歌為〈BOOMBOOM (붐붐)〉，即日成功打入所有音源榜的前5位置。專輯首週銷量為131,998+張\[31\]，成為首週專輯銷量最多的第11名，同時取得[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第三位，主打曲亦打入「數位歌曲榜」第五位。
 
-12月15及16日，〈BOOMBOOM (붐붐)〉奪得[Mnet](../Page/Mnet媒體.md "wikilink")《[M
-Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》與[KBS2](../Page/KBS第2频道.md "wikilink")《[Music
-Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》冠軍歌曲，這是SEVENTEEN自出道以來首次在韓國三大電視台的音樂節目取得一位。12月21日，奪得《[Show
-Champion](../Page/Show_Champion.md "wikilink")》冠軍歌曲，成為首支三台冠軍歌。
+12月15及16日，〈BOOMBOOM (붐붐)〉奪得[Mnet](../Page/Mnet媒體.md "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》與[KBS2](../Page/KBS第2频道.md "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》冠軍歌曲，這是SEVENTEEN自出道以來首次在韓國三大電視台的音樂節目取得一位。12月21日，奪得《[Show Champion](../Page/Show_Champion.md "wikilink")》冠軍歌曲，成為首支三台冠軍歌。
 
-12月22日，迷你三輯《[Going
-Seventeen](../Page/Going_Seventeen.md "wikilink")》获[美國](../Page/美国.md "wikilink")[Billboard評論家评选为](../Page/公告牌音乐奖.md "wikilink")《2016十大最佳K-POP專輯》第八名。\[32\]
-翌年1月9日，专辑首月銷量逾22萬，位列12月份[Gaon
-Chart專輯銷量第二](../Page/Gaon音乐榜.md "wikilink")\[33\]，並成为排行榜上第十四位銷量破20萬的歌手。
+12月22日，迷你三輯《[Going Seventeen](../Page/Going_Seventeen.md "wikilink")》获[美國](../Page/美国.md "wikilink")[Billboard評論家评选为](../Page/公告牌音乐奖.md "wikilink")《2016十大最佳K-POP專輯》第八名。\[32\] 翌年1月9日，专辑首月銷量逾22萬，位列12月份[Gaon Chart專輯銷量第二](../Page/Gaon音乐榜.md "wikilink")\[33\]，並成为排行榜上第十四位銷量破20萬的歌手。
 
 ### 2017年
 
-1月13日，[Gaon
-Chart公開](../Page/Gaon音乐榜.md "wikilink")2016年「專輯銷量榜」，SEVENTEEN去年所發行的專輯，專輯銷量逾50萬張。當中迷你三輯《[Going
-Seventeen](../Page/Going_Seventeen.md "wikilink")》的總銷量是223,973張，位列全年專輯銷量榜11位；正規一輯《[LOVE
-&
-LETTER](../Page/Love_&_Letter.md "wikilink")》以銷量191,122張位列12位；正規改版一輯《[Love
-&
-Letter（改版專輯）](../Page/Love_&_Letter.md "wikilink")》以銷量98,420張位列26位。\[34\]
+1月13日，[Gaon Chart公開](../Page/Gaon音乐榜.md "wikilink")2016年「專輯銷量榜」，SEVENTEEN去年所發行的專輯，專輯銷量逾50萬張。當中迷你三輯《[Going Seventeen](../Page/Going_Seventeen.md "wikilink")》的總銷量是223,973張，位列全年專輯銷量榜11位；正規一輯《[LOVE & LETTER](../Page/Love_&_Letter.md "wikilink")》以銷量191,122張位列12位；正規改版一輯《[Love & Letter（改版專輯）](../Page/Love_&_Letter.md "wikilink")》以銷量98,420張位列26位。\[34\]
 
-1月18日，[I.O.I](../Page/I.O.I.md "wikilink") 的告別單曲〈Downpour
-(소나기)（陣雨）〉發布，此曲是由[WOOZI親自填詞並參與作曲](../Page/李知勳_\(SEVENTEEN\).md "wikilink")。\[35\]
+1月18日，[I.O.I](../Page/I.O.I.md "wikilink") 的告別單曲〈Downpour (소나기)（陣雨）〉發布，此曲是由[WOOZI親自填詞並參與作曲](../Page/李知勳_\(SEVENTEEN\).md "wikilink")。\[35\]
 
 1月30日播出的第13屆《[MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》，親自為改版〈[手拉手](../Page/手拉手.md "wikilink")〉編制熱身舞。
 
 #### 迷你四輯《Al1》
 
-5月23日，第四張迷你專輯《[Al1](../Page/Al1.md "wikilink")》發行，主打歌為〈Don't Wanna Cry
-(울고 싶지
-않아)〉。專輯首周銷量為192,399+張，並成功打入Hanteo首週銷量排行榜第10名，僅次於[EXO](../Page/EXO.md "wikilink")、[防彈少年團](../Page/防彈少年團.md "wikilink")以及[GOT7](../Page/GOT7.md "wikilink")。截至5月底，[Gaon
-Chart銷量已突破](../Page/Gaon音乐榜.md "wikilink")259,364+張，位列5月份[Gaon
-Chart專輯銷量第一](../Page/Gaon音乐榜.md "wikilink")。\[36\]
+5月23日，第四張迷你專輯《[Al1](../Page/Al1.md "wikilink")》發行，主打歌為〈Don't Wanna Cry (울고 싶지 않아)〉。專輯首周銷量為192,399+張，並成功打入Hanteo首週銷量排行榜第10名，僅次於[EXO](../Page/EXO.md "wikilink")、[防彈少年團](../Page/防彈少年團.md "wikilink")以及[GOT7](../Page/GOT7.md "wikilink")。截至5月底，[Gaon Chart銷量已突破](../Page/Gaon音乐榜.md "wikilink")259,364+張，位列5月份[Gaon Chart專輯銷量第一](../Page/Gaon音乐榜.md "wikilink")。\[36\]
 
-迷你四輯《[Al1](../Page/Al1.md "wikilink")》於發行首週後登上[美國](../Page/美国.md "wikilink")[Billboard告示牌](../Page/公告牌音乐奖.md "wikilink")《World
-Album
-Chart（世界專輯榜）》第2名、[Billboard](../Page/公告牌音乐奖.md "wikilink")《Heatseekers
-Album》第10名；主打歌〈Don't Wanna
-Cry(울고싶지않아)〉亦登上了[Billboard](../Page/公告牌音乐奖.md "wikilink")《World
-Digital Song Chart（世界數位歌曲榜）》第3名。
+迷你四輯《[Al1](../Page/Al1.md "wikilink")》於發行首週後登上[美國](../Page/美国.md "wikilink")[Billboard告示牌](../Page/公告牌音乐奖.md "wikilink")《World Album Chart（世界專輯榜）》第2名、[Billboard](../Page/公告牌音乐奖.md "wikilink")《Heatseekers Album》第10名；主打歌〈Don't Wanna Cry(울고싶지않아)〉亦登上了[Billboard](../Page/公告牌音乐奖.md "wikilink")《World Digital Song Chart（世界數位歌曲榜）》第3名。
 
-5月30日至6月15日，以〈Don't Wanna Cry (울고 싶지 않아)〉奪得SBS MTV《[THE
-SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》、[KBS2](../Page/KBS第2频道.md "wikilink")《[Music
-Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》、《[Show
-Champion](../Page/Show_Champion.md "wikilink")》冠軍歌曲、[Mnet](../Page/Mnet媒體.md "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》冠軍歌曲。
+5月30日至6月15日，以〈Don't Wanna Cry (울고 싶지 않아)〉奪得SBS MTV《[THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》、[KBS2](../Page/KBS第2频道.md "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》、《[Show Champion](../Page/Show_Champion.md "wikilink")》冠軍歌曲、[Mnet](../Page/Mnet媒體.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》冠軍歌曲。
 
 #### 2017《DIAMOND EDGE》首次世界巡演
 
@@ -228,65 +137,35 @@ Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》冠軍歌曲�
 
 #### 2017 SEVENTEEN PROJECT
 
-2017 SEVENTEEN
-PROJECT為延續迷你四輯《[Al1](../Page/Al1.md "wikilink")》的系列企劃，將每週公開一首單曲MV。\[39\]
-由三位分隊隊長帶頭，於9月25日首先公開單曲MV〈CHANGE UP〉\[40\]，於10月2日接續公開Hip-hop
-Team之單曲MV〈TRAUMA〉\[41\]，於9日公開Performance Team之單曲MV〈十三月的舞 (13월의
-춤)〉\[42\]，於16日公開Vocal Team之單曲MV〈바람개비 (Pinwheel)〉\[43\]。
+2017 SEVENTEEN PROJECT為延續迷你四輯《[Al1](../Page/Al1.md "wikilink")》的系列企劃，將每週公開一首單曲MV。\[39\] 由三位分隊隊長帶頭，於9月25日首先公開單曲MV〈CHANGE UP〉\[40\]，於10月2日接續公開Hip-hop Team之單曲MV〈TRAUMA〉\[41\]，於9日公開Performance Team之單曲MV〈十三月的舞 (13월의 춤)〉\[42\]，於16日公開Vocal Team之單曲MV〈바람개비 (Pinwheel)〉\[43\]。
 
 #### 正規二輯《TEEN, AGE》
 
-11月6日，第二張正規專輯《[TEEN, AGE](../Page/Teen,_Age.md "wikilink")》發行，主打歌為〈CLAP
-(박수)〉。\[44\] 專輯首周銷量突破215,669+張，獲得11月第二周周榜冠軍，並刷新自身紀錄。\[45\] 截至11月底，[Gaon
-Chart銷量已突破](../Page/Gaon音乐榜.md "wikilink")332,031+張，位列11月份[Gaon
-Chart專輯銷量第二](../Page/Gaon音乐榜.md "wikilink")。\[46\]
+11月6日，第二張正規專輯《[TEEN, AGE](../Page/Teen,_Age.md "wikilink")》發行，主打歌為〈CLAP (박수)〉。\[44\] 專輯首周銷量突破215,669+張，獲得11月第二周周榜冠軍，並刷新自身紀錄。\[45\] 截至11月底，[Gaon Chart銷量已突破](../Page/Gaon音乐榜.md "wikilink")332,031+張，位列11月份[Gaon Chart專輯銷量第二](../Page/Gaon音乐榜.md "wikilink")。\[46\]
 
-正規二輯《[TEEN,
-AGE](../Page/Teen,_Age.md "wikilink")》於發行首週登上[美國](../Page/美国.md "wikilink")[Billboard](../Page/公告牌音乐奖.md "wikilink")《World
-Album Chart（世界專輯榜）》第1名、《Heatseekers Albums chart》第8位；主打歌〈CLAP
-(박수)〉也登上[Billboard](../Page/公告牌音乐奖.md "wikilink")《World
-Digital Song Chart（世界數位歌曲榜）》第4位，而收錄曲〈CHANGE UP〉、〈TRAUMA〉、〈十三月的舞 (13월의
-춤)〉也分別獲得該榜第12、15和20位。\[47\]
+正規二輯《[TEEN, AGE](../Page/Teen,_Age.md "wikilink")》於發行首週登上[美國](../Page/美国.md "wikilink")[Billboard](../Page/公告牌音乐奖.md "wikilink")《World Album Chart（世界專輯榜）》第1名、《Heatseekers Albums chart》第8位；主打歌〈CLAP (박수)〉也登上[Billboard](../Page/公告牌音乐奖.md "wikilink")《World Digital Song Chart（世界數位歌曲榜）》第4位，而收錄曲〈CHANGE UP〉、〈TRAUMA〉、〈十三月的舞 (13월의 춤)〉也分別獲得該榜第12、15和20位。\[47\]
 
-11月15日，〈CLAP (박수)〉奪得《[Show
-Champion](../Page/Show_Champion.md "wikilink")》冠軍歌曲。\[48\] 11月17日，〈CLAP
-(박수)〉奪得[KBS2](../Page/KBS第2频道.md "wikilink")《[Music
-Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》冠軍歌曲。\[49\]
+11月15日，〈CLAP (박수)〉奪得《[Show Champion](../Page/Show_Champion.md "wikilink")》冠軍歌曲。\[48\] 11月17日，〈CLAP (박수)〉奪得[KBS2](../Page/KBS第2频道.md "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》冠軍歌曲。\[49\]
 
-12月12日，在正規二輯《[TEEN,
-AGE](../Page/Teen,_Age.md "wikilink")》的宣傳活動結束後，[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")發表公告，表示[The
-8因專注於腰傷治療將暫停活動](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")。\[50\]
+12月12日，在正規二輯《[TEEN, AGE](../Page/Teen,_Age.md "wikilink")》的宣傳活動結束後，[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")發表公告，表示[The 8因專注於腰傷治療將暫停活動](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")。\[50\]
 
 ### 2018年
 
-1月13日，[Gaon
-Chart公開](../Page/Gaon音乐榜.md "wikilink")2017年「專輯銷量榜」，SEVENTEEN去年所發行的專輯，專輯銷量近69萬張。當中迷你四輯《[Al1](../Page/Al1.md "wikilink")》總銷量為331,888張，位列全年專輯銷量榜11位；正規二輯《[TEEN,
-AGE](../Page/Teen,_Age.md "wikilink")》以銷量357,296張位列9位。\[51\]
+1月13日，[Gaon Chart公開](../Page/Gaon音乐榜.md "wikilink")2017年「專輯銷量榜」，SEVENTEEN去年所發行的專輯，專輯銷量近69萬張。當中迷你四輯《[Al1](../Page/Al1.md "wikilink")》總銷量為331,888張，位列全年專輯銷量榜11位；正規二輯《[TEEN, AGE](../Page/Teen,_Age.md "wikilink")》以銷量357,296張位列9位。\[51\]
 
-2月2日至3日舉辦第二次粉絲見面會《SEVENTEEN in CARAT LAND》，去年12月因腰傷中斷活動的[The
-8也開始參與團體行程](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")。\[52\]
+2月2日至3日舉辦第二次粉絲見面會《SEVENTEEN in CARAT LAND》，去年12月因腰傷中斷活動的[The 8也開始參與團體行程](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")。\[52\]
 
 #### 特別專輯《DIRECTOR'S CUT》
 
-2月5日，特別專輯《[DIRECTOR'S
-CUT](../Page/Director's_Cut.md "wikilink")》發行，主打歌為〈THANKS
-(고맙다)〉。\[53\]特別專輯《[DIRECTOR'S
-CUT](../Page/Director's_Cut.md "wikilink")》於發行首週登上美國Billboard《World
-Album Chart（世界專輯榜）》第2名、《Heatseekers Albums chart》第2位；更在29個國家登上《iTunes
-Albums chart》第1名。
+2月5日，特別專輯《[DIRECTOR'S CUT](../Page/Director's_Cut.md "wikilink")》發行，主打歌為〈THANKS (고맙다)〉。\[53\]特別專輯《[DIRECTOR'S CUT](../Page/Director's_Cut.md "wikilink")》於發行首週登上美國Billboard《World Album Chart（世界專輯榜）》第2名、《Heatseekers Albums chart》第2位；更在29個國家登上《iTunes Albums chart》第1名。
 
 #### 日本出道
 
-2月22日，於2018《SEVENTEEN JAPAN ARENA TOUR
-'SVT'》橫濱場上宣佈將會在日本正式出道的消息，並表示會於5月30日發行首張原創日文迷你專輯《[WE
-MAKE YOU](../Page/We_Make_You.md "wikilink")》出道,主打歌為〈Call Call
-Call\!〉。\[54\]
+2月22日，於2018《SEVENTEEN JAPAN ARENA TOUR 'SVT'》橫濱場上宣佈將會在日本正式出道的消息，並表示會於5月30日發行首張原創日文迷你專輯《[WE MAKE YOU](../Page/We_Make_You.md "wikilink")》出道,主打歌為〈Call Call Call\!〉。\[54\]
 
 #### 首個特別小分隊[夫碩順 (BSS)](https://zh.wikipedia.org/wiki/SEVENTEEN-BSS "wikilink")
 
-2月2日、3日，於2018 'CARAT' 2nd Fan Meeting《SEVENTEEN in CARAT
-LAND》中與[Hoshi](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[SEUNGKWAN組成的特別小分隊夫碩順](https://zh.wikipedia.org/wiki/夫勝寬 "wikilink")（BSS）(BooSeokSoon)
-，第一次公開〈JUST DO IT (거침없이)〉。
+2月2日、3日，於2018 'CARAT' 2nd Fan Meeting《SEVENTEEN in CARAT LAND》中與[Hoshi](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[SEUNGKWAN組成的特別小分隊夫碩順](https://zh.wikipedia.org/wiki/夫勝寬 "wikilink")（BSS）(BooSeokSoon) ，第一次公開〈JUST DO IT (거침없이)〉。
 
 3月13日, 公開概念照\[55\]及成員照<ref name="복면가왕22">\*
 
@@ -299,70 +178,45 @@ LAND》中與[Hoshi](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[DK](
 
 #### 2018《2018 SEVENTEEN CONCERT ‘IDEAL CUT’》亞洲巡迴演唱會
 
-5月21日, SEVENTEEN經由Melon Ticket開賣演唱會《2018 SEVENTEEN Concert ‘IDEAL CUT'
-in
-SEOUL》的門票，結果吸引超過46萬人上線搶票。5月28日下午，公司透過SEVENTEEN官方SNS宣布演唱會將於6月28日加開一場，並於21日晚開始會員預售。
+5月21日, SEVENTEEN經由Melon Ticket開賣演唱會《2018 SEVENTEEN Concert ‘IDEAL CUT' in SEOUL》的門票，結果吸引超過46萬人上線搶票。5月28日下午，公司透過SEVENTEEN官方SNS宣布演唱會將於6月28日加開一場，並於21日晚開始會員預售。
 
-6月28日至7月1日，SEVENTEEN於首爾蠶室室內體育館舉行為期4日，分別以「The Scene」\[58\]、「H
-Cut」\[59\]、「V Cut」\[60\]、「P Cut」\[61\]作主題的個人演唱會
+6月28日至7月1日，SEVENTEEN於首爾蠶室室內體育館舉行為期4日，分別以「The Scene」\[58\]、「H Cut」\[59\]、「V Cut」\[60\]、「P Cut」\[61\]作主題的個人演唱會
 
-成員[Vernon於](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")6月29日「H
-Cut」演唱會中腳部不慎受傷，在其後舞台將坐著表演並缺席部份舞台
+成員[Vernon於](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")6月29日「H Cut」演唱會中腳部不慎受傷，在其後舞台將坐著表演並缺席部份舞台
 
-8月31日，SEVENTEEN於香港亞洲國際博覽館舉行了《2018 SEVENTEEN Concert ‘Ideal Cut’in Hong
-Kong》。這也是SEVENTEEN第一次在舞台上表演第五張迷你專輯‘You Make My Day’台灣版專輯里的中文主打歌‘Oh My\!’
+8月31日，SEVENTEEN於香港亞洲國際博覽館舉行了《2018 SEVENTEEN Concert ‘Ideal Cut’in Hong Kong》。這也是SEVENTEEN第一次在舞台上表演第五張迷你專輯‘You Make My Day’台灣版專輯里的中文主打歌‘Oh My\!’
 
-《SEVENTEEN Concert‘Ideal cut’in
-Japan》原將於9月4日至6日舉辦的演唱會因門票在粉絲團內預售後呈現緊缺狀態，之後官方決定並宣布在9月8日和9日加場。5天在日本的演唱会共吸引了约12萬名觀眾到場支持。
+《SEVENTEEN Concert‘Ideal cut’in Japan》原將於9月4日至6日舉辦的演唱會因門票在粉絲團內預售後呈現緊缺狀態，之後官方決定並宣布在9月8日和9日加場。5天在日本的演唱会共吸引了约12萬名觀眾到場支持。
 
-9月16日，SEVENTEEN於印度尼西亞雅加達的Indonesia Convention Exhibition举行了《2018
-SEVENTEEN Concert ‘Ideal Cut’in Jakarta》。
+9月16日，SEVENTEEN於印度尼西亞雅加達的Indonesia Convention Exhibition举行了《2018 SEVENTEEN Concert ‘Ideal Cut’in Jakarta》。
 
-9月21日，SEVENTEEN於新加坡室内體育館舉行了《2018 SEVENTEEN Concert ‘Ideal Cut’in
-Singapore》，这也是自SEVENTEEN第一次亞洲巡迴演唱會《SEVENTEEN 1st Asia Tour 2016 Shining
-Diamond》和第一次世界巡迴演唱會《SEVENTEEN 1st World Tour‘Diamond
-Edge’》後，第三次到新加坡舉行演唱會。
+9月21日，SEVENTEEN於新加坡室内體育館舉行了《2018 SEVENTEEN Concert ‘Ideal Cut’in Singapore》，这也是自SEVENTEEN第一次亞洲巡迴演唱會《SEVENTEEN 1st Asia Tour 2016 Shining Diamond》和第一次世界巡迴演唱會《SEVENTEEN 1st World Tour‘Diamond Edge’》後，第三次到新加坡舉行演唱會。
 
-9月23日，SEVENTEEN於馬來西亞吉隆坡的MIECC舉行了《2018 SEVENTEEN Concert ‘Ideal Cut’in
-Kuala Lumpur》。
+9月23日，SEVENTEEN於馬來西亞吉隆坡的MIECC舉行了《2018 SEVENTEEN Concert ‘Ideal Cut’in Kuala Lumpur》。
 
-9月29日，SEVENTEE於菲律賓馬尼拉的Mall of Asia Arena舉行了《2018 SEVENTEEN Concert
-‘Ideal Cut’in Manila》。
+9月29日，SEVENTEE於菲律賓馬尼拉的Mall of Asia Arena舉行了《2018 SEVENTEEN Concert ‘Ideal Cut’in Manila》。
 
-10月6日和7日，SEVENTEEN於台灣台北的新莊體育館舉行連續兩天的《2018 SEVENTEEN Concert ‘Ideal
-Cut’in Taipei》,是這次海外巡迴的終點站，也是海外除了日本以外唯一舉行超過一場的國家，吸引萬人到場。
+10月6日和7日，SEVENTEEN於台灣台北的新莊體育館舉行連續兩天的《2018 SEVENTEEN Concert ‘Ideal Cut’in Taipei》,是這次海外巡迴的終點站，也是海外除了日本以外唯一舉行超過一場的國家，吸引萬人到場。
 
 #### 迷你五輯《YOU MAKE MY DAY》
 
-7月1日，於2018《SEVENTEEN IDEAL CUT CONCERT》第四場首爾場演唱會「P
-Cut」結尾時，突襲公開第五張迷你專輯《[YOU MAKE MY
-DAY](https://zh.wikipedia.org/wiki/YOU_MAKE_MY_DAY "wikilink")》的預告視頻\[62\]，並表示將於7月16日正式回歸。
+7月1日，於2018《SEVENTEEN IDEAL CUT CONCERT》第四場首爾場演唱會「P Cut」結尾時，突襲公開第五張迷你專輯《[YOU MAKE MY DAY](https://zh.wikipedia.org/wiki/YOU_MAKE_MY_DAY "wikilink")》的預告視頻\[62\]，並表示將於7月16日正式回歸。
 
 7月3日至7月7日，公開成員照
 
-7月16日，帶著第五張迷你專輯《[YOU MAKE MY
-DAY](https://zh.wikipedia.org/wiki/YOU_MAKE_MY_DAY "wikilink")》以及主打歌《[어쩌나
-(Oh My\!)](https://www.youtube.com/watch?v=_5PELxP8Udg&)》正式回歸。
+7月16日，帶著第五張迷你專輯《[YOU MAKE MY DAY](https://zh.wikipedia.org/wiki/YOU_MAKE_MY_DAY "wikilink")》以及主打歌《[어쩌나 (Oh My\!)](https://www.youtube.com/watch?v=_5PELxP8Udg&)》正式回歸。
 
-成員[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")
-在演唱會中腳部不慎受傷，將進行有限度的舞台並因應健康而缺席部份活動
+成員[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink") 在演唱會中腳部不慎受傷，將進行有限度的舞台並因應健康而缺席部份活動
 
 #### 首個MV破億
 
-10月23日，《Don't Wanna
-Cry》歷經518天突破1億YouTube觀看次數，為SEVENTEEN第一首破億MV，達成日期2018/10/23
-剛好2+0+1+8+1+0+2+3=17 。
+10月23日，《Don't Wanna Cry》歷經518天突破1億YouTube觀看次數，為SEVENTEEN第一首破億MV，達成日期2018/10/23 剛好2+0+1+8+1+0+2+3=17 。
 
 ### 2019年
 
 #### 迷你六輯《YOU MADE MY DAWN》
 
-1月21日，第六張迷你專輯《[YOU MADE MY
-DAWN](https://zh.wikipedia.org/wiki/YOU_MADE_MY_DAWN "wikilink")》發行，主打歌為〈[HOME(홈)](https://www.youtube.com/watch?v=R9VDPMk5ls0)
-〉，
-發行首週銷量已破了SEVENTEEN的自身記錄，新專輯首週銷量達338,153張，且進入歷年韓國偶像專輯銷量前二十名。2月2日，SEVENTEEN拿下出道以來第一座《[音樂中心](https://zh.wikipedia.org/wiki/音乐中心 "wikilink")》一位，隔日2月3日，SEVENTEEN再度拿到第一座《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》一位，該週也達成韓國五大電視台一位大滿貫，同時該座一位也是繼公司前輩[After
-School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位之後](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")，時隔十年[Pledis所屬藝人的第二座](https://zh.wikipedia.org/wiki/Pledis "wikilink")[人氣歌謠一位](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")。主打歌〈[HOME(홈)](https://www.youtube.com/watch?v=R9VDPMk5ls0)
-〉成功獲得十個一位，突破《Don't wanna cry》六個一位的記錄。
+1月21日，第六張迷你專輯《[YOU MADE MY DAWN](https://zh.wikipedia.org/wiki/YOU_MADE_MY_DAWN "wikilink")》發行，主打歌為〈[HOME(홈)](https://www.youtube.com/watch?v=R9VDPMk5ls0) 〉， 發行首週銷量已破了SEVENTEEN的自身記錄，新專輯首週銷量達338,153張，且進入歷年韓國偶像專輯銷量前二十名。2月2日，SEVENTEEN拿下出道以來第一座《[音樂中心](https://zh.wikipedia.org/wiki/音乐中心 "wikilink")》一位，隔日2月3日，SEVENTEEN再度拿到第一座《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》一位，該週也達成韓國五大電視台一位大滿貫，同時該座一位也是繼公司前輩[After School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位之後](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")，時隔十年[Pledis所屬藝人的第二座](https://zh.wikipedia.org/wiki/Pledis "wikilink")[人氣歌謠一位](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")。主打歌〈[HOME(홈)](https://www.youtube.com/watch?v=R9VDPMk5ls0) 〉成功獲得十個一位，突破《Don't wanna cry》六個一位的記錄。
 
 ## 成員資料
 
@@ -465,17 +319,13 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 
 ### 出道前預備成員
 
-  - （장도윤）：1995年8月31日出生，國籍[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")。現經紀公司JB
-    Entertainment，於2013年演員出道，現以演員身分活動中。已於2018年入伍，現服役中。
+  - （장도윤）：1995年8月31日出生，國籍[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")。現經紀公司JB Entertainment，於2013年演員出道，現以演員身分活動中。已於2018年入伍，現服役中。
 
   - [姚明明](https://zh.wikipedia.org/wiki/姚明明 "wikilink")（요명명）：1997年1月5日出生，國籍[中國](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")。曾參加[MIXNINE獲得第](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")10名，其後加入J\&B娛樂旗下男子組合[BLK](../Page/BLK.md "wikilink")，組合解散後簽約[古天樂](../Page/古天樂.md "wikilink")旗下公司天加一文化，並參加中國網路綜藝[青春有你](../Page/青春有你.md "wikilink")以第三名出道，成為[UNINE](../Page/UNINE.md "wikilink")一員。
 
-  - 申東振（신동진）：2000年8月19日出生，國籍[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")。現為經紀公司Eleven
-    Nine Entertainment旗下1109boys成員之一，正在准备出道中。
+  - 申東振（신동진）：2000年8月19日出生，國籍[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")。現為經紀公司Eleven Nine Entertainment旗下1109boys成員之一，正在准备出道中。
 
-  - [Samuel](https://zh.wikipedia.org/wiki/金Samuel "wikilink")（金塞繆爾、김사무엘）：2002年1月17日出生於[美國](../Page/美国.md "wikilink")，為[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")、[西班牙](../Page/西班牙.md "wikilink")混血兒。當時因年齡太小和顧及學業而退出。現經紀公司為[Brave娛樂](../Page/Brave娛樂.md "wikilink")，曾以[1PUNCH](../Page/1PUNCH.md "wikilink")出道(藝名為「PUNCH」)，其後以本名參加[PRODUCE
-    101
-    第二季取得第](../Page/PRODUCE_101_第二季.md "wikilink")18名，於2017年8月2日更改藝名為「Samuel」作個人單飛出道。
+  - [Samuel](https://zh.wikipedia.org/wiki/金Samuel "wikilink")（金塞繆爾、김사무엘）：2002年1月17日出生於[美國](../Page/美国.md "wikilink")，為[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")、[西班牙](../Page/西班牙.md "wikilink")混血兒。當時因年齡太小和顧及學業而退出。現經紀公司為[Brave娛樂](../Page/Brave娛樂.md "wikilink")，曾以[1PUNCH](../Page/1PUNCH.md "wikilink")出道(藝名為「PUNCH」)，其後以本名參加[PRODUCE 101 第二季取得第](../Page/PRODUCE_101_第二季.md "wikilink")18名，於2017年8月2日更改藝名為「Samuel」作個人單飛出道。
 
 ## 音樂作品
 
@@ -493,10 +343,8 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
   - 2015年：[BOYS BE](../Page/Boys_Be_\(Seventeen迷你專輯\).md "wikilink")
   - 2016年：[Going Seventeen](../Page/Going_Seventeen.md "wikilink")
   - 2017年：[Al1](../Page/Al1.md "wikilink")
-  - 2018年：[YOU MAKE MY
-    DAY](https://zh.wikipedia.org/wiki/YOU_MAKE_MY_DAY "wikilink")
-  - 2019年：[YOU MADE MY
-    DAWN](https://zh.wikipedia.org/wiki/YOU_MADE_MY_DAWN "wikilink")
+  - 2018年：[YOU MAKE MY DAY](https://zh.wikipedia.org/wiki/YOU_MAKE_MY_DAY "wikilink")
+  - 2019年：[YOU MADE MY DAWN](https://zh.wikipedia.org/wiki/YOU_MADE_MY_DAWN "wikilink")
 
 #### 特別專輯
 
@@ -2500,12 +2348,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
   -
   -
   -
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink")
-[Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
-[Category:Seventeen](https://zh.wikipedia.org/wiki/Category:Seventeen "wikilink")
-[Category:Pledis娛樂](https://zh.wikipedia.org/wiki/Category:Pledis娛樂 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:2015年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年成立的音樂團體 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink") [Category:Seventeen](https://zh.wikipedia.org/wiki/Category:Seventeen "wikilink") [Category:Pledis娛樂](https://zh.wikipedia.org/wiki/Category:Pledis娛樂 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 
 1.
 

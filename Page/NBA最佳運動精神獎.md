@@ -1,5 +1,4 @@
-[Joe_Dumars.jpg](https://zh.wikipedia.org/wiki/File:Joe_Dumars.jpg "fig:Joe_Dumars.jpg")為第一位得獎者\]\]
-**NBA最佳運動精神獎**（）於1996年創立，為一年一度的籃球獎項。此獎項用以表揚最具有「[體育精神](../Page/體育精神.md "wikilink")」的[NBA](../Page/NBA.md "wikilink")球員，運動家精神主要包括賽場上的道德行為、公平競賽以及誠信\[1\]，而在[WNBA](../Page/WNBA.md "wikilink")中則頒發同等意義的。這兩個獎項也常與[國家冰球聯盟](../Page/國家冰球聯盟.md "wikilink")的相提比較，但最佳運動精神獎相比起紀念盃並不要求出色的成績。
+[Joe_Dumars.jpg](https://zh.wikipedia.org/wiki/File:Joe_Dumars.jpg "fig:Joe_Dumars.jpg")為第一位得獎者\]\] **NBA最佳運動精神獎**（）於1996年創立，為一年一度的籃球獎項。此獎項用以表揚最具有「[體育精神](../Page/體育精神.md "wikilink")」的[NBA](../Page/NBA.md "wikilink")球員，運動家精神主要包括賽場上的道德行為、公平競賽以及誠信\[1\]，而在[WNBA](../Page/WNBA.md "wikilink")中則頒發同等意義的。這兩個獎項也常與[國家冰球聯盟](../Page/國家冰球聯盟.md "wikilink")的相提比較，但最佳運動精神獎相比起紀念盃並不要求出色的成績。
 
 每一年，NBA的30支球隊中每支球隊都有一名球員可以角逐這個獎項。在這30名候選者中，6位來自NBA六個不同賽區的球員將被評審選為這6個賽區的候選者，最後在NBA例行賽結束之後，由聯盟全部球員投票評選出最終的得獎者。獲得第一位的選票將獲得11分，第二位選票獲得9分，第三位選票獲得7分，第四位選票5分，第五位選票獲得3分，第六位選票獲得1分。最終得分最高的球員將獲得該獎項（無論該球員是否獲得最多的第一位選票），獲得該獎項的球員將同時獲聯盟頒發「[喬·杜馬斯](../Page/喬·杜馬斯.md "wikilink")獎」，而第一個獲獎者是前[底特律活塞隊球員](https://zh.wikipedia.org/wiki/底特律活塞隊 "wikilink")[喬·杜馬斯](../Page/喬·杜馬斯.md "wikilink")，NBA在將聯盟歷史上第一個最佳運動精神獎給杜馬斯的同時，也將此獎項用他的名字命名\[2\]\[3\]。
 
@@ -7,8 +6,7 @@
 
 ## 得獎者
 
-[ghill.jpg](https://zh.wikipedia.org/wiki/File:ghill.jpg "fig:ghill.jpg")三度獲得此獎\]\]
-[Luol_Deng_Wizards.jpg](https://zh.wikipedia.org/wiki/File:Luol_Deng_Wizards.jpg "fig:Luol_Deng_Wizards.jpg")為唯一的非美國籍得獎者\]\]
+[ghill.jpg](https://zh.wikipedia.org/wiki/File:ghill.jpg "fig:ghill.jpg")三度獲得此獎\]\] [Luol_Deng_Wizards.jpg](https://zh.wikipedia.org/wiki/File:Luol_Deng_Wizards.jpg "fig:Luol_Deng_Wizards.jpg")為唯一的非美國籍得獎者\]\]
 
 |        |           |
 | ------ | --------- |
@@ -236,9 +234,7 @@
 
   - 細節
 
-[Category:籃球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:籃球紀錄及統計數據 "wikilink")
-[Category:职业列表](https://zh.wikipedia.org/wiki/Category:职业列表 "wikilink")
-[Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink")
+[Category:籃球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:籃球紀錄及統計數據 "wikilink") [Category:职业列表](https://zh.wikipedia.org/wiki/Category:职业列表 "wikilink") [Category:NBA獎項](https://zh.wikipedia.org/wiki/Category:NBA獎項 "wikilink")
 
 1.
 

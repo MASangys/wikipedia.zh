@@ -1,13 +1,8 @@
-《**ENCORE
-SHOW**》是日本女子樂團[SCANDAL的第二張](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，於2013年2月6日由[Epic
-Records Japan
-Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
+《**ENCORE SHOW**》是日本女子樂團[SCANDAL的第二張](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，於2013年2月6日由[Epic Records Japan Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 概要
 
-與前作《[Queens are trumps
--王牌皇后-](../Page/Queens_are_trumps_-王牌皇后-.md "wikilink")》相隔5個月後再度推出[音樂專輯](../Page/音樂專輯.md "wikilink")。本作最大的特點是主要收錄歷年來[單曲的B面曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，再加上新歌「快樂收藏家」（）及之前未公開的「Playboy」（）。其中《[Satisfaction](../Page/遙遠_\(SCANDAL單曲\).md "wikilink")》被作為[Windows
-8的](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[電視廣告](../Page/電視廣告.md "wikilink")歌曲\[1\]，《快樂收藏家》則是電影《[今日開始談戀愛](https://zh.wikipedia.org/wiki/今日開始談戀愛 "wikilink")》使用的歌曲之一\[2\]。
+與前作《[Queens are trumps -王牌皇后-](../Page/Queens_are_trumps_-王牌皇后-.md "wikilink")》相隔5個月後再度推出[音樂專輯](../Page/音樂專輯.md "wikilink")。本作最大的特點是主要收錄歷年來[單曲的B面曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，再加上新歌「快樂收藏家」（）及之前未公開的「Playboy」（）。其中《[Satisfaction](../Page/遙遠_\(SCANDAL單曲\).md "wikilink")》被作為[Windows 8的](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[電視廣告](../Page/電視廣告.md "wikilink")歌曲\[1\]，《快樂收藏家》則是電影《[今日開始談戀愛](https://zh.wikipedia.org/wiki/今日開始談戀愛 "wikilink")》使用的歌曲之一\[2\]。
 
 另外，共分為初回生產限定盤、通常盤兩種形態，兩者皆包含歌迷活動參加券，而初回生產限定盤多附有DVD，通常盤中部分的初回仕樣限定盤則包括五成員隨機寫真貼紙。
 
@@ -30,8 +25,7 @@ Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 5.  **[SO EASY](../Page/少女S.md "wikilink")** \[3:23\]
       -
         作詞：SCANDAL、小林夏海　作曲：mitsubaco　編曲：西川進、SCANDAL
-6.  **[在星星落下的夜裡](https://zh.wikipedia.org/wiki/傷感瞬間 "wikilink")**
-    \[4:10\]
+6.  **[在星星落下的夜裡](https://zh.wikipedia.org/wiki/傷感瞬間 "wikilink")** \[4:10\]
       -
         作詞：SCANDAL　作曲：田鹿祐一　編曲：川口圭太
 7.  **[KOSHI-TANTAN](../Page/太陽與你所描繪的STORY.md "wikilink")** \[3:35\]
@@ -53,8 +47,7 @@ Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
       -
         作詞：TOMOMI、JUNKOO、篤志　作曲：JUNKOO、篤志　編曲：川口圭太
     <!-- end list -->
-      - [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")「[Windows
-        8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")」廣告歌曲。
+      - [Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")「[Windows 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")」廣告歌曲。
 13. **[Want you](../Page/遙遠_\(SCANDAL單曲\).md "wikilink")** \[3:53\]
       -
         作詞・作曲：MAMI　編曲：川口圭太、SCANDAL
@@ -84,13 +77,9 @@ Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 ## 外部連結
 
   - [初回生產限定盤](http://www.sonymusic.co.jp/artist/scandal/discography/ESCL-3994)
-
   - [通常盤](http://www.sonymusic.co.jp/artist/scandal/discography/ESCL-3996)
 
-
-[Category:SCANDAL音樂專輯](https://zh.wikipedia.org/wiki/Category:SCANDAL音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
+[Category:SCANDAL音樂專輯](https://zh.wikipedia.org/wiki/Category:SCANDAL音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
 
 1.
 2.

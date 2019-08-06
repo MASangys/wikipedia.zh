@@ -39,13 +39,9 @@
 
 ### 發展
 
-電影劇本原為於2012年在網路（包括香港[高登討論區](../Page/高登討論區.md "wikilink")、Facebook專頁）連載的同名網絡小說《[那夜凌晨，我坐上了旺角開往大埔的紅van](../Page/那夜凌晨，我坐上了旺角開往大埔的紅VAN_\(小說\).md "wikilink")》，由
+電影劇本原為於2012年在網路（包括香港[高登討論區](../Page/高登討論區.md "wikilink")、Facebook專頁）連載的同名網絡小說《[那夜凌晨，我坐上了旺角開往大埔的紅van](../Page/那夜凌晨，我坐上了旺角開往大埔的紅VAN_\(小說\).md "wikilink")》，由  所著\[10\]\[11\]。隨著小說的連載半年，網上點撃率逾百萬次，累積數萬的粉絲，之後被印刷商睇中出版成書，推出上下兩集超過二十萬字的印刷版\[12\]。
 
-所著\[10\]\[11\]。隨著小說的連載半年，網上點撃率逾百萬次，累積數萬的粉絲，之後被印刷商睇中出版成書，推出上下兩集超過二十萬字的印刷版\[12\]。
-
-[高先電影](../Page/高先電影.md "wikilink")老闆曾麗芬在陳輝虹介紹下決定開拍《紅
-Van》，並打算邀請香港導演[陳果執導](https://zh.wikipedia.org/wiki/陳果 "wikilink")\[13\]。2012年12月有報導指香港導演[陳果有意開拍該小說的電影版本](https://zh.wikipedia.org/wiki/陳果 "wikilink")\[14\]
-，令《紅VAN》成為繼由[胡耀輝執導的](https://zh.wikipedia.org/wiki/胡耀輝 "wikilink")《[一路向西](../Page/一路向西.md "wikilink")》後，第二部原於高登討論區連載，並改編成電影的香港網絡小說（原著名為《[東莞的森林](https://zh.wikipedia.org/wiki/東莞的森林 "wikilink")》，高登會員「向西村上春樹」著）。[陳果其後受訪時還表示曾為本片把自己的片酬降低](https://zh.wikipedia.org/wiki/陳果 "wikilink")\[15\]。
+[高先電影](../Page/高先電影.md "wikilink")老闆曾麗芬在陳輝虹介紹下決定開拍《紅 Van》，並打算邀請香港導演[陳果執導](https://zh.wikipedia.org/wiki/陳果 "wikilink")\[13\]。2012年12月有報導指香港導演[陳果有意開拍該小說的電影版本](https://zh.wikipedia.org/wiki/陳果 "wikilink")\[14\] ，令《紅VAN》成為繼由[胡耀輝執導的](https://zh.wikipedia.org/wiki/胡耀輝 "wikilink")《[一路向西](../Page/一路向西.md "wikilink")》後，第二部原於高登討論區連載，並改編成電影的香港網絡小說（原著名為《[東莞的森林](https://zh.wikipedia.org/wiki/東莞的森林 "wikilink")》，高登會員「向西村上春樹」著）。[陳果其後受訪時還表示曾為本片把自己的片酬降低](https://zh.wikipedia.org/wiki/陳果 "wikilink")\[15\]。
 
 ### 演員
 
@@ -53,11 +49,9 @@ Van》，並打算邀請香港導演[陳果執導](https://zh.wikipedia.org/wiki
 
 ### 拍攝
 
-[Rmb_le9372.jpg](https://zh.wikipedia.org/wiki/File:Rmb_le9372.jpg "fig:Rmb_le9372.jpg")」\]\]
-《紅VAN》電影中的紅色小巴是用真正的車拍攝的，並沒有特意做一個像小巴的場景拍攝\[20\]。[陳果受訪時表示拍攝小巴戲份時](https://zh.wikipedia.org/wiki/陳果 "wikilink")，要全程要拖着來拍，而且因為車本身的空間有限，容納十七位演員之外，又要有一班工作人員收音、打燈；另外在本片中扮演小巴司機的[林雪](../Page/林雪.md "wikilink")在真正生活中是不會[駕駛](../Page/駕駛.md "wikilink")的，因此認為本片最困難的拍攝地方是拍攝紅色小巴的戲份\[21\]。
+[Rmb_le9372.jpg](https://zh.wikipedia.org/wiki/File:Rmb_le9372.jpg "fig:Rmb_le9372.jpg")」\]\] 《紅VAN》電影中的紅色小巴是用真正的車拍攝的，並沒有特意做一個像小巴的場景拍攝\[20\]。[陳果受訪時表示拍攝小巴戲份時](https://zh.wikipedia.org/wiki/陳果 "wikilink")，要全程要拖着來拍，而且因為車本身的空間有限，容納十七位演員之外，又要有一班工作人員收音、打燈；另外在本片中扮演小巴司機的[林雪](../Page/林雪.md "wikilink")在真正生活中是不會[駕駛](../Page/駕駛.md "wikilink")的，因此認為本片最困難的拍攝地方是拍攝紅色小巴的戲份\[21\]。
 
-[HK_TaiPoMarketTinHauTemple.JPG](https://zh.wikipedia.org/wiki/File:HK_TaiPoMarketTinHauTemple.JPG "fig:HK_TaiPoMarketTinHauTemple.JPG")」\]\]
-《紅VAN》電影版亦跟足原著小說於實地拍攝，主要是在[紅van和大埔一間名叫](../Page/香港小型巴士.md "wikilink")「華輝小廚餐廳」內拍攝\[22\]。外景大多圍繞[大埔](../Page/大埔區.md "wikilink")，如[廣福道](../Page/廣福道.md "wikilink")、[大埔工業邨](../Page/大埔工業邨.md "wikilink")、[香港鐵路博物館](../Page/香港鐵路博物館.md "wikilink")、[大埔舊墟天后宮](../Page/大埔舊墟天后宮.md "wikilink")、[中文大學四條柱等場景](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")\[23\]。此外，由於本片的拍攝背景是「凌晨」，因此電影中大部分的場景都是於晚上八時至第2天的早上六時取景\[24\]。戲中中了輻射的中大四子會在[吐露港](../Page/吐露港.md "wikilink")截擊車中的其他人，但因為現實上的吐露港是[高速公路](../Page/高速公路.md "wikilink")，在高速公路上跑是十分危險的，所以導演把大部分的鏡頭都轉到車比較少的[香港迪士尼樂園](../Page/香港迪士尼樂園.md "wikilink")旁進行拍攝\[25\]。
+[HK_TaiPoMarketTinHauTemple.JPG](https://zh.wikipedia.org/wiki/File:HK_TaiPoMarketTinHauTemple.JPG "fig:HK_TaiPoMarketTinHauTemple.JPG")」\]\] 《紅VAN》電影版亦跟足原著小說於實地拍攝，主要是在[紅van和大埔一間名叫](../Page/香港小型巴士.md "wikilink")「華輝小廚餐廳」內拍攝\[22\]。外景大多圍繞[大埔](../Page/大埔區.md "wikilink")，如[廣福道](../Page/廣福道.md "wikilink")、[大埔工業邨](../Page/大埔工業邨.md "wikilink")、[香港鐵路博物館](../Page/香港鐵路博物館.md "wikilink")、[大埔舊墟天后宮](../Page/大埔舊墟天后宮.md "wikilink")、[中文大學四條柱等場景](https://zh.wikipedia.org/wiki/香港中文大學 "wikilink")\[23\]。此外，由於本片的拍攝背景是「凌晨」，因此電影中大部分的場景都是於晚上八時至第2天的早上六時取景\[24\]。戲中中了輻射的中大四子會在[吐露港](../Page/吐露港.md "wikilink")截擊車中的其他人，但因為現實上的吐露港是[高速公路](../Page/高速公路.md "wikilink")，在高速公路上跑是十分危險的，所以導演把大部分的鏡頭都轉到車比較少的[香港迪士尼樂園](../Page/香港迪士尼樂園.md "wikilink")旁進行拍攝\[25\]。
 
 ## 上映
 
@@ -206,19 +200,7 @@ Van》，並打算邀請香港導演[陳果執導](https://zh.wikipedia.org/wiki
   -
   -
   -
-[Category:2014年电影](https://zh.wikipedia.org/wiki/Category:2014年电影 "wikilink")
-[Category:粤语电影](https://zh.wikipedia.org/wiki/Category:粤语电影 "wikilink")
-[Category:香港科幻片](https://zh.wikipedia.org/wiki/Category:香港科幻片 "wikilink")
-[Category:香港惊悚片](https://zh.wikipedia.org/wiki/Category:香港惊悚片 "wikilink")
-[Category:香港小说改编电影](https://zh.wikipedia.org/wiki/Category:香港小说改编电影 "wikilink")
-[Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink")
-[Category:2010年代惊悚片](https://zh.wikipedia.org/wiki/Category:2010年代惊悚片 "wikilink")
-[Category:高先电影](https://zh.wikipedia.org/wiki/Category:高先电影 "wikilink")
-[Category:金马奖最佳视觉效果获奖电影](https://zh.wikipedia.org/wiki/Category:金马奖最佳视觉效果获奖电影 "wikilink")
-[Category:高先電影](https://zh.wikipedia.org/wiki/Category:高先電影 "wikilink")
-[Category:香港電影金像獎最佳原創電影音樂獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳原創電影音樂獲獎電影 "wikilink")
-[Category:太陽娛樂文化電影](https://zh.wikipedia.org/wiki/Category:太陽娛樂文化電影 "wikilink")
-[Category:香港電影評論學會大獎最佳電影](https://zh.wikipedia.org/wiki/Category:香港電影評論學會大獎最佳電影 "wikilink")
+[Category:2014年电影](https://zh.wikipedia.org/wiki/Category:2014年电影 "wikilink") [Category:粤语电影](https://zh.wikipedia.org/wiki/Category:粤语电影 "wikilink") [Category:香港科幻片](https://zh.wikipedia.org/wiki/Category:香港科幻片 "wikilink") [Category:香港惊悚片](https://zh.wikipedia.org/wiki/Category:香港惊悚片 "wikilink") [Category:香港小说改编电影](https://zh.wikipedia.org/wiki/Category:香港小说改编电影 "wikilink") [Category:2010年代科幻片](https://zh.wikipedia.org/wiki/Category:2010年代科幻片 "wikilink") [Category:2010年代惊悚片](https://zh.wikipedia.org/wiki/Category:2010年代惊悚片 "wikilink") [Category:高先电影](https://zh.wikipedia.org/wiki/Category:高先电影 "wikilink") [Category:金马奖最佳视觉效果获奖电影](https://zh.wikipedia.org/wiki/Category:金马奖最佳视觉效果获奖电影 "wikilink") [Category:高先電影](https://zh.wikipedia.org/wiki/Category:高先電影 "wikilink") [Category:香港電影金像獎最佳原創電影音樂獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳原創電影音樂獲獎電影 "wikilink") [Category:太陽娛樂文化電影](https://zh.wikipedia.org/wiki/Category:太陽娛樂文化電影 "wikilink") [Category:香港電影評論學會大獎最佳電影](https://zh.wikipedia.org/wiki/Category:香港電影評論學會大獎最佳電影 "wikilink")
 
 1.
 

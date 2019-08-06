@@ -131,6 +131,4 @@
   - [朝鮮放送周末連續劇](https://zh.wikipedia.org/wiki/朝鮮放送周末連續劇 "wikilink")
   - [Channel A周末特別企劃劇](../Page/Channel_A周末特別企劃劇.md "wikilink")
 
-[Category:JTBC周末特別企劃連續劇](https://zh.wikipedia.org/wiki/Category:JTBC周末特別企劃連續劇 "wikilink")
-[Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")
-[Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:JTBC周末特別企劃連續劇](https://zh.wikipedia.org/wiki/Category:JTBC周末特別企劃連續劇 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

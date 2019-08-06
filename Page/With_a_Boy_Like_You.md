@@ -1,6 +1,4 @@
-**《With a Boy Like
-You》**是[吳雨霏](../Page/吳雨霏.md "wikilink")的第一張個人音樂專輯，於2006年1月26日推出，隨碟附送「加州紅903熱火樂團音樂會
-KARY 0609 吳雨霏」足本片段。唱片共推出兩個版本，一個為平裝版，另一個為首批特別版。兩者分別在於，首批特別版的封面是以3D形式包裝。
+**《With a Boy Like You》**是[吳雨霏](../Page/吳雨霏.md "wikilink")的第一張個人音樂專輯，於2006年1月26日推出，隨碟附送「加州紅903熱火樂團音樂會 KARY 0609 吳雨霏」足本片段。唱片共推出兩個版本，一個為平裝版，另一個為首批特別版。兩者分別在於，首批特別版的封面是以3D形式包裝。
 
 ## 曲目列表
 
@@ -22,7 +20,6 @@ KARY 0609 吳雨霏」足本片段。唱片共推出兩個版本，一個為平�
   - 新城勁爆頒獎禮2006──新城勁爆卡啦OK歌曲《愛你變成恨你》
   - 2006年度叱-{咤}-樂壇流行榜頒獎典禮──「專業推介．叱-{咤}-十大」第九位《愛你變成恨你》
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:吳雨霏音樂專輯](https://zh.wikipedia.org/wiki/Category:吳雨霏音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:吳雨霏音樂專輯](https://zh.wikipedia.org/wiki/Category:吳雨霏音樂專輯 "wikilink")
 
 [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")

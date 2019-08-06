@@ -1,9 +1,6 @@
-**温德尔·汉普顿·福特**（，）是[美国](../Page/美国.md "wikilink")[肯塔基](../Page/肯塔基州.md "wikilink")[州](../Page/美国州份.md "wikilink")（Kentucky
-of United States of
-America）已故[政治家](../Page/政治家.md "wikilink")，曾担任该州[第53任](../Page/肯塔基州州长列表.md "wikilink")[州长](https://zh.wikipedia.org/wiki/肯塔基州州长 "wikilink")，还担任了24年[联邦参议员](https://zh.wikipedia.org/wiki/联邦参议员 "wikilink")，是肯塔基州历史上首位先后担任[副州长](../Page/肯塔基州副州长.md "wikilink")、州长和联邦参议员的政治家\[1\]。他还曾于1991到1999年担任联邦参议院[民主党](../Page/民主党_\(美国\).md "wikilink")[党鞭](https://zh.wikipedia.org/wiki/党鞭 "wikilink")，并且从1971年当选州长开始就成为肯塔基州的民主党领袖，一直到1999年从联邦参议员的位置上退休为止\[2\]。福特退休时创下了担任肯塔基州联邦参议员时长的新纪录，这个纪录一直到2009年才由[米奇·麥康諾](../Page/米奇·麥康諾.md "wikilink")超越。
+**温德尔·汉普顿·福特**（，）是[美国](../Page/美国.md "wikilink")[肯塔基](../Page/肯塔基州.md "wikilink")[州](../Page/美国州份.md "wikilink")（Kentucky of United States of America）已故[政治家](../Page/政治家.md "wikilink")，曾担任该州[第53任](../Page/肯塔基州州长列表.md "wikilink")[州长](https://zh.wikipedia.org/wiki/肯塔基州州长 "wikilink")，还担任了24年[联邦参议员](https://zh.wikipedia.org/wiki/联邦参议员 "wikilink")，是肯塔基州历史上首位先后担任[副州长](../Page/肯塔基州副州长.md "wikilink")、州长和联邦参议员的政治家\[1\]。他还曾于1991到1999年担任联邦参议院[民主党](../Page/民主党_\(美国\).md "wikilink")[党鞭](https://zh.wikipedia.org/wiki/党鞭 "wikilink")，并且从1971年当选州长开始就成为肯塔基州的民主党领袖，一直到1999年从联邦参议员的位置上退休为止\[2\]。福特退休时创下了担任肯塔基州联邦参议员时长的新纪录，这个纪录一直到2009年才由[米奇·麥康諾](../Page/米奇·麥康諾.md "wikilink")超越。
 
-福特出生于[肯塔基州](../Page/肯塔基州.md "wikilink")[戴维斯县](https://zh.wikipedia.org/wiki/戴维斯县_\(肯塔基州\) "wikilink")，之后进入[肯塔基大学](../Page/肯塔基大学.md "wikilink")学习，但学业因参军赶赴[第二次世界大战](../Page/第二次世界大战.md "wikilink")而中断。战争结束后，他从马里兰州保险大学毕业并返回肯塔基州，帮助父亲经营家族保险业务，还在肯塔基陆地国民警卫队继续服役。他曾为[伯特·T·康布斯](../Page/伯特·T·康布斯.md "wikilink")1959年竞选州长工作，并在后者当选后担任其行政助理。之后，康布斯的盟友（Ned
-Breathitt）继任成为新的州长，在他的鼓励下，福特决心参选[肯塔基州参议员并成功当选](https://zh.wikipedia.org/wiki/肯塔基州参议院 "wikilink")，然后又在1967年竞选副州长职位，和[共和党州长候选人](https://zh.wikipedia.org/wiki/共和党_\(美国\) "wikilink")[路易·B·纳恩](../Page/路易·B·纳恩.md "wikilink")一起当选。四年后，福特在民主党[初选中爆冷击败康布斯](https://zh.wikipedia.org/wiki/初选 "wikilink")，并成功在普选中胜出成为新任州长。
+福特出生于[肯塔基州](../Page/肯塔基州.md "wikilink")[戴维斯县](https://zh.wikipedia.org/wiki/戴维斯县_\(肯塔基州\) "wikilink")，之后进入[肯塔基大学](../Page/肯塔基大学.md "wikilink")学习，但学业因参军赶赴[第二次世界大战](../Page/第二次世界大战.md "wikilink")而中断。战争结束后，他从马里兰州保险大学毕业并返回肯塔基州，帮助父亲经营家族保险业务，还在肯塔基陆地国民警卫队继续服役。他曾为[伯特·T·康布斯](../Page/伯特·T·康布斯.md "wikilink")1959年竞选州长工作，并在后者当选后担任其行政助理。之后，康布斯的盟友（Ned Breathitt）继任成为新的州长，在他的鼓励下，福特决心参选[肯塔基州参议员并成功当选](https://zh.wikipedia.org/wiki/肯塔基州参议院 "wikilink")，然后又在1967年竞选副州长职位，和[共和党州长候选人](https://zh.wikipedia.org/wiki/共和党_\(美国\) "wikilink")[路易·B·纳恩](../Page/路易·B·纳恩.md "wikilink")一起当选。四年后，福特在民主党[初选中爆冷击败康布斯](https://zh.wikipedia.org/wiki/初选 "wikilink")，并成功在普选中胜出成为新任州长。
 
 担任州长期间，福特将一些行政部门进行重组和整合来提高政府部门的工作效率。他通过提升煤矿开采税增加州政府收入，并制定法案对教育体制加以改革。他设法让州内的政府官职由民主党人担任，还在共和党资深参议员[约翰·谢尔曼·库珀](../Page/约翰·谢尔曼·库珀.md "wikilink")退休后帮助沃尔特·“迪伊”·赫德尔斯顿（）获得腾出的联邦参议员席位。1974年，福特亲自参选，夺得了在任共和党联邦参议员马洛·库克的席位。但是，他和一众政治盟友的迅速崛起也导致自己与副州长朱利安·卡罗尔一起受到[政治腐败的调查](https://zh.wikipedia.org/wiki/政治腐败 "wikilink")，不过之后[大陪审团拒绝提出起诉](https://zh.wikipedia.org/wiki/大陪审团 "wikilink")。担任联邦参议员期间，福特坚定地捍卫肯塔基州的[烟草](../Page/烟草.md "wikilink")行业。他还和[密苏里州联邦参议员](https://zh.wikipedia.org/wiki/密苏里州 "wikilink")[基特·邦德](https://zh.wikipedia.org/wiki/基特·邦德 "wikilink")（）组建了参议院国民警卫队核心小组。1991年，福特成为參議院民主党多數黨党鞭，他曾于1994年一度考虑竞选[参议院少數党领袖](https://zh.wikipedia.org/wiki/美国参议院党派领袖 "wikilink")，但之后决定支持[康涅狄格州的](https://zh.wikipedia.org/wiki/康涅狄格州 "wikilink")[克里斯多夫·杜德](../Page/克里斯多夫·杜德.md "wikilink")。1999年，福特从参议员位置上退休并返回欧文斯伯勒，开始在欧文斯伯勒科学和历史博物馆向青少年讲解政治。
 
@@ -29,11 +26,9 @@ Breathitt）继任成为新的州长，在他的鼓励下，福特决心参选[�
 
 副州长任期届满后，福特成为1971年肯塔基州州长选举民主党初选的八位候选人之一\[38\]，其中最具声望的是福特的导师康布斯\[39\]。竞选期间福特以康布斯的年龄和之前担任州长期间制定的销售税法案为突破口\[40\]，并对康布斯放弃薪酬更高的联邦法官职位二度竞选州长提出质疑\[41\]。结果福特在初选中的得票数比康布斯和另外六位候选人都要高，这一爆冷结果一方面是因为康布斯过分轻敌，另一方面则是由于福特使用的优异战略\[42\]\[43\]。这场选举后，康布斯曾准确地预料称，“这就是我政治生涯的终点”\[44\]。
 
-[Happy_Chandler_-_Harris_and_Ewing_Crop.jpg](https://zh.wikipedia.org/wiki/File:Happy_Chandler_-_Harris_and_Ewing_Crop.jpg "fig:Happy_Chandler_-_Harris_and_Ewing_Crop.jpg")是福特1971年州长选举中的对手。\]\]
-福特接下来参加的普选一共有四位候选人，其中还包括以[独立候选人身份参选的另一位前民主党州长](https://zh.wikipedia.org/wiki/无党籍 "wikilink")[A·B·“哈皮”·钱德勒](../Page/哈皮·钱德勒.md "wikilink")\[45\]，最终福特成功胜出，票数最接近的对手是共和党人汤姆·安伯顿（），但差距也在58000票以上\[46\]。这也是康布斯和钱德勒都淡出政坛后，肯塔基州民主党的派系斗争在20世纪中唯一一次平息下来\[47\]。
+[Happy_Chandler_-_Harris_and_Ewing_Crop.jpg](https://zh.wikipedia.org/wiki/File:Happy_Chandler_-_Harris_and_Ewing_Crop.jpg "fig:Happy_Chandler_-_Harris_and_Ewing_Crop.jpg")是福特1971年州长选举中的对手。\]\] 福特接下来参加的普选一共有四位候选人，其中还包括以[独立候选人身份参选的另一位前民主党州长](https://zh.wikipedia.org/wiki/无党籍 "wikilink")[A·B·“哈皮”·钱德勒](../Page/哈皮·钱德勒.md "wikilink")\[45\]，最终福特成功胜出，票数最接近的对手是共和党人汤姆·安伯顿（），但差距也在58000票以上\[46\]。这也是康布斯和钱德勒都淡出政坛后，肯塔基州民主党的派系斗争在20世纪中唯一一次平息下来\[47\]。
 
-当上州长后，福特通过多种方式增加州财政收入，如增收煤矿开采税，每加仑汽油收取两美分税，还提升了企业税\[48\]。他对食品免收州销售税来平衡这些增收的税款\[49\]，由此产生的巨额预算盈余也让他得以提出多个建设项目\[50\]。他在初选中的险胜很大程度上来自于[杰佛逊县的支持](https://zh.wikipedia.org/wiki/杰佛逊县_\(肯塔基州\) "wikilink")，对此他投桃报李，批准拨款兴建肯塔基州国际会议中心，并对加以扩建\[51\]。他还在自己担任州长后的第一个立法会议期间监督了一揽子州刑事司
-法系统的改革方案嘞\[52\]。
+当上州长后，福特通过多种方式增加州财政收入，如增收煤矿开采税，每加仑汽油收取两美分税，还提升了企业税\[48\]。他对食品免收州销售税来平衡这些增收的税款\[49\]，由此产生的巨额预算盈余也让他得以提出多个建设项目\[50\]。他在初选中的险胜很大程度上来自于[杰佛逊县的支持](https://zh.wikipedia.org/wiki/杰佛逊县_\(肯塔基州\) "wikilink")，对此他投桃报李，批准拨款兴建肯塔基州国际会议中心，并对加以扩建\[51\]。他还在自己担任州长后的第一个立法会议期间监督了一揽子州刑事司 法系统的改革方案嘞\[52\]。
 
 福特任内监督了[路易斯维尔大学从市政拨款到州财政拨款的过渡](https://zh.wikipedia.org/wiki/路易斯维尔大学 "wikilink")\[53\]。他推动了州内的教育体制改革，放弃自己在肯塔基大学董事会的主席职位，并扩大了学生和[教师](../Page/教师.md "wikilink")在大学董事会中的投票权\[54\]。这些改革将州内高校的管理岗位从过去的政治回报性质转变成职业任命\[55\]。他增加州财政性教育经费，扩大高等教育委员会的权限\[56\]，不过也[否决了一项允许老师进行](../Page/否决权.md "wikilink")[集体协商的措施](https://zh.wikipedia.org/wiki/集体协商 "wikilink")\[57\]。
 
@@ -45,8 +40,7 @@ Breathitt）继任成为新的州长，在他的鼓励下，福特决心参选[�
 
 1974年立法会议期间，福特提出对[煤液化](../Page/煤液化.md "wikilink")和[气化展开为期六年的研究以应对](https://zh.wikipedia.org/wiki/煤气化 "wikilink")[1973年的石油危机](https://zh.wikipedia.org/wiki/第一次石油危机 "wikilink")\[74\]。他还增加对人力资源的投入，并继续重组行政部门，建立了交通、发展、教育和艺术、人力资源、消费者保障和监管、安全和司法部门内阁\[75\]。在解雇上届政府聘请官员方面，福特的表现不像之前的州长那样无情，还扩展了州考绩制度，以涵盖一些之前不受此制度影响的州工作人员\[76\]。尽管如此，他对州官员的替换还是受到了批评，特别是那些在纳恩担任州长期间任命的州级机关工作人员\[77\]。批评者还指出，那些经考绩制度确定合格的官员仍然需要受到受聘前政治立场的审查才能过关\[78\]。
 
-[WHuddleston.jpg](https://zh.wikipedia.org/wiki/File:WHuddleston.jpg "fig:WHuddleston.jpg")
-福特让州内的民主党人团结起来，这一努力使得肯塔基州民主党人于1972年赢得了一个联邦参议院席位，这也是自1956年以来首次有该州民主党人当选联邦参议员\[79\]。该席位因共和党资深参议员[约翰·谢尔曼·库珀](../Page/约翰·谢尔曼·库珀.md "wikilink")退休而出现空缺，最后继任的是福特之前的竞选经理沃尔特·“迪伊”·赫德尔斯顿\[80\]。福特的朋友于是开始劝他亲自参选，挤走州内另一位共和党参议员，曾担任过一届州议员的马洛·库克\[81\]。福特本希望副州长朱利安·卡罗尔争夺库克的议席，但卡罗尔已打算竞选下届州长\[82\]。福特的盟友没有比卡罗尔更具胜算的州长候选人，并且民意调查结果也表明只有福特才有击败库克的希望，于是他同意参选，并在1974年立法会议结束后立即宣布自己将竞选联邦参议员\[83\]。
+[WHuddleston.jpg](https://zh.wikipedia.org/wiki/File:WHuddleston.jpg "fig:WHuddleston.jpg") 福特让州内的民主党人团结起来，这一努力使得肯塔基州民主党人于1972年赢得了一个联邦参议院席位，这也是自1956年以来首次有该州民主党人当选联邦参议员\[79\]。该席位因共和党资深参议员[约翰·谢尔曼·库珀](../Page/约翰·谢尔曼·库珀.md "wikilink")退休而出现空缺，最后继任的是福特之前的竞选经理沃尔特·“迪伊”·赫德尔斯顿\[80\]。福特的朋友于是开始劝他亲自参选，挤走州内另一位共和党参议员，曾担任过一届州议员的马洛·库克\[81\]。福特本希望副州长朱利安·卡罗尔争夺库克的议席，但卡罗尔已打算竞选下届州长\[82\]。福特的盟友没有比卡罗尔更具胜算的州长候选人，并且民意调查结果也表明只有福特才有击败库克的希望，于是他同意参选，并在1974年立法会议结束后立即宣布自己将竞选联邦参议员\[83\]。
 
 竞选过程中双方争论的一个主要问题就是是否要在[肯塔基河](../Page/肯塔基河.md "wikilink")位于肯塔基州东部的支流红河（）上建设一座水坝\[84\]。库克对此表示反对，而福特表示支持，并且从州预算盈余中分配出一部分用于其建设\[85\]。结果福特在1974年的联邦参议员选举中以39万9406票战胜得票32万8982票的对手，通过亲自把最后一位共和党高官挤下台完成了振兴州内民主党的目标\[86\]。同年12月，库克主动辞职，提前继任的福特因此可以在联邦参议院拥有更高的资历\[87\]，他辞去州长职位担任参议员，副州长卡罗尔继任成为新的州长\[88\]。
 
@@ -62,8 +56,7 @@ Breathitt）继任成为新的州长，在他的鼓励下，福特决心参选[�
 
 福特于1977到1983年间担任民主党参议员竞选委员会成员\[114\]，他在1988年首度寻求民主党党鞭一职，但不敌自1977年起就担任该职位的[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")联邦参议员[阿兰·克兰斯顿](../Page/阿兰·克兰斯顿.md "wikilink")（）\[115\]。福特在这场竞争中起步有些太晚，并且《[纽约时报](../Page/纽约时报.md "wikilink")》上的一篇文章指出他高估了自己面对克兰斯顿的胜算\[116\]。不过福特在承认失败后立即就宣布参加1990年的下届选举\[117\]，这次他的对手仍然是克兰斯顿，但后者由于患上[前列腺癌](../Page/前列腺癌.md "wikilink")而退出了争夺\[118\]。不过，福特坚称自己拥有足够的民主党党团支持承诺，所以即便克兰斯顿没有退出，自己照样能赢\[119\]。1994年，参议员多数党领袖乔治··米切尔退休，福特一度有意接任\[120\]，但最终还是改变了主意，选择把精力集中在肯塔基州的事务上\[121\]，支持[克里斯多夫·杜德](../Page/克里斯多夫·杜德.md "wikilink")成为新的多数党领袖\[122\]。
 
-[Kit_Bond_official_portrait_cropped.jpg](https://zh.wikipedia.org/wiki/File:Kit_Bond_official_portrait_cropped.jpg "fig:Kit_Bond_official_portrait_cropped.jpg")
-1983至1985年的[第98届联邦国会期间](https://zh.wikipedia.org/wiki/第98届联邦国会 "wikilink")，福特担任专责委员会成员，对委员会体系进行研究，并且还是[第100至](https://zh.wikipedia.org/wiki/第100届联邦国会 "wikilink")[第103届联邦国会期间](https://zh.wikipedia.org/wiki/第103届联邦国会 "wikilink")（1987至1995年）的联邦参议院章程委员会成员\[123\]。1989年，他与密苏里州联邦参议员基特·邦德合作，组建了参议院国民警卫队核心小组，这是一个旨在推进国民警卫队职能和准备情况的参议员联盟\[124\]。福特表示，自己是在看到[密西西比州](../Page/密西西比州.md "wikilink")[联邦众议员](https://zh.wikipedia.org/wiki/联邦众议员 "wikilink")[桑尼·蒙哥马利](https://zh.wikipedia.org/wiki/吉莱斯皮·V·蒙哥马利 "wikilink")（）与国民警卫队协会和[国民警卫局所做的工作后决定组建这个小组的](https://zh.wikipedia.org/wiki/美国国民警卫局 "wikilink")\[125\]，他与邦德共同主持小组运作直至1999年退休为止\[126\]。1998年，肯塔基陆军卫队专用的温德尔··福特训练中心落户[穆伦贝尔格县](https://zh.wikipedia.org/wiki/穆伦贝尔格县_\(肯塔基州\) "wikilink")\[127\]。1999年，国民警卫局授予福特最高荣誉：桑尼·蒙哥马利奖\[128\]。
+[Kit_Bond_official_portrait_cropped.jpg](https://zh.wikipedia.org/wiki/File:Kit_Bond_official_portrait_cropped.jpg "fig:Kit_Bond_official_portrait_cropped.jpg") 1983至1985年的[第98届联邦国会期间](https://zh.wikipedia.org/wiki/第98届联邦国会 "wikilink")，福特担任专责委员会成员，对委员会体系进行研究，并且还是[第100至](https://zh.wikipedia.org/wiki/第100届联邦国会 "wikilink")[第103届联邦国会期间](https://zh.wikipedia.org/wiki/第103届联邦国会 "wikilink")（1987至1995年）的联邦参议院章程委员会成员\[123\]。1989年，他与密苏里州联邦参议员基特·邦德合作，组建了参议院国民警卫队核心小组，这是一个旨在推进国民警卫队职能和准备情况的参议员联盟\[124\]。福特表示，自己是在看到[密西西比州](../Page/密西西比州.md "wikilink")[联邦众议员](https://zh.wikipedia.org/wiki/联邦众议员 "wikilink")[桑尼·蒙哥马利](https://zh.wikipedia.org/wiki/吉莱斯皮·V·蒙哥马利 "wikilink")（）与国民警卫队协会和[国民警卫局所做的工作后决定组建这个小组的](https://zh.wikipedia.org/wiki/美国国民警卫局 "wikilink")\[125\]，他与邦德共同主持小组运作直至1999年退休为止\[126\]。1998年，肯塔基陆军卫队专用的温德尔··福特训练中心落户[穆伦贝尔格县](https://zh.wikipedia.org/wiki/穆伦贝尔格县_\(肯塔基州\) "wikilink")\[127\]。1999年，国民警卫局授予福特最高荣誉：桑尼·蒙哥马利奖\[128\]。
 
 密苏里州联邦参议员[托马斯·伊格尔顿](https://zh.wikipedia.org/wiki/托马斯·伊格尔顿 "wikilink")（）指出，福特和迪伊·赫德尔斯顿可能是任何州在参议院的两位参议员中最好的组合\[129\]。两人都是[烟草](../Page/烟草.md "wikilink")的捍卫者，这也是肯塔基州主要的[经济作物](https://zh.wikipedia.org/wiki/经济作物 "wikilink")\[130\]。福特坐镇商业委员会，对那些会影响到烟草行业制作末端的立法产生影响，而赫德尔斯顿则在农业委员会对那些可以让烟农受益的项目提供保护\[131\]。两人都在挽救烟草价格支持计划中起到了重要作用\[132\]\[133\]。福特让烟草免受《[消费者产品安全法](https://zh.wikipedia.org/wiki/消费者产品安全法 "wikilink")》的影响，并且一直都反对增收[卷烟税](https://zh.wikipedia.org/wiki/卷烟税 "wikilink")\[134\]。他还发起了一条针对[关税暨贸易总协定的修正案](https://zh.wikipedia.org/wiki/关税暨贸易总协定 "wikilink")，对美国进口外国烟草产品的数量加以限制\[135\]。
 
@@ -91,20 +84,9 @@ Breathitt）继任成为新的州长，在他的鼓励下，福特决心参选[�
 
   - [温德尔·福特简介](http://www.nndb.com/people/227/000053068/)
 
-|-     |-   |-    |-    |-    |-     |-   |-     |-    |-    |-    |-
-|-
+|-     |-   |-    |-    |-    |-     |-   |-     |-    |-    |-    |-    |-
 
-[Category:肯塔基州联邦参议员](https://zh.wikipedia.org/wiki/Category:肯塔基州联邦参议员 "wikilink")
-[Category:肯塔基州州长](https://zh.wikipedia.org/wiki/Category:肯塔基州州长 "wikilink")
-[Category:肯塔基州副州长](https://zh.wikipedia.org/wiki/Category:肯塔基州副州长 "wikilink")
-[Category:美国民主党联邦参议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦参议员 "wikilink")
-[Category:美國陸軍軍官](https://zh.wikipedia.org/wiki/Category:美國陸軍軍官 "wikilink")
-[Category:美國第二次世界大戰軍事人物](https://zh.wikipedia.org/wiki/Category:美國第二次世界大戰軍事人物 "wikilink")
-[Category:美國浸禮宗教徒](https://zh.wikipedia.org/wiki/Category:美國浸禮宗教徒 "wikilink")
-[Category:肯塔基州人](https://zh.wikipedia.org/wiki/Category:肯塔基州人 "wikilink")
-[Category:罹患肺癌逝世者](https://zh.wikipedia.org/wiki/Category:罹患肺癌逝世者 "wikilink")
-[Category:肯塔基州民主党人](https://zh.wikipedia.org/wiki/Category:肯塔基州民主党人 "wikilink")
-[Category:肯塔基州参议员](https://zh.wikipedia.org/wiki/Category:肯塔基州参议员 "wikilink")
+[Category:肯塔基州联邦参议员](https://zh.wikipedia.org/wiki/Category:肯塔基州联邦参议员 "wikilink") [Category:肯塔基州州长](https://zh.wikipedia.org/wiki/Category:肯塔基州州长 "wikilink") [Category:肯塔基州副州长](https://zh.wikipedia.org/wiki/Category:肯塔基州副州长 "wikilink") [Category:美国民主党联邦参议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦参议员 "wikilink") [Category:美國陸軍軍官](https://zh.wikipedia.org/wiki/Category:美國陸軍軍官 "wikilink") [Category:美國第二次世界大戰軍事人物](https://zh.wikipedia.org/wiki/Category:美國第二次世界大戰軍事人物 "wikilink") [Category:美國浸禮宗教徒](https://zh.wikipedia.org/wiki/Category:美國浸禮宗教徒 "wikilink") [Category:肯塔基州人](https://zh.wikipedia.org/wiki/Category:肯塔基州人 "wikilink") [Category:罹患肺癌逝世者](https://zh.wikipedia.org/wiki/Category:罹患肺癌逝世者 "wikilink") [Category:肯塔基州民主党人](https://zh.wikipedia.org/wiki/Category:肯塔基州民主党人 "wikilink") [Category:肯塔基州参议员](https://zh.wikipedia.org/wiki/Category:肯塔基州参议员 "wikilink")
 
 1.
 

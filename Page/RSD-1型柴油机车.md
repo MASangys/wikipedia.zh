@@ -6,11 +6,7 @@
 
 然而，由于伊朗铁路的运输能力非常有限，从而使得盟国的大量援苏物资堆积在港口，而驻伊英军却对此束手无策，未能及时得到援助物资的苏联则一再指责盟国在提供援助方面的不作为。在这种情况下，英国与[美国](../Page/美国.md "wikilink")对此问题进行了频繁协商，时任[美国总统](../Page/美国总统.md "wikilink")[罗斯福建议由美国接管伊朗铁路的运营](../Page/富兰克林·德拉诺·罗斯福.md "wikilink")，已经无力于此的英国对此只能表示支持。1942年9月，[英美参谋长联合委员会](https://zh.wikipedia.org/wiki/英美参谋长联合委员会 "wikilink")（CCS）决定，由[美国陆军](../Page/美国陆军.md "wikilink")新设立的波斯湾后勤司令部接管之前英国控制的伊朗运输事宜\[1\]。
 
-[Supply_train_through_the_Persian_Corridor.jpg](https://zh.wikipedia.org/wiki/File:Supply_train_through_the_Persian_Corridor.jpg "fig:Supply_train_through_the_Persian_Corridor.jpg")
-为了满足伊朗纵贯铁路的运输需求，美国陆军向[美国机车公司](../Page/美国机车公司.md "wikilink")订购了大批柴油机车。美国机车公司根据美军的需要，在[RS-1型四轴柴油机车的基础上](../Page/RS-1型柴油机车.md "wikilink")，开发研制了RSD-1型六轴柴油机车。采用六轴设计的原因，是提高机车的[粘着](https://zh.wikipedia.org/wiki/粘着 "wikilink")[牵引力](../Page/牵引力.md "wikilink")，以适应伊朗纵贯铁路的较大坡度，及当地恶劣的气候条件，并降低机车[轴重以机车减少对线路的损害](https://zh.wikipedia.org/wiki/轴重 "wikilink")。除了走行部结构外，机车其余部分与RS-1型柴油机车相同。首批RSD-1型柴油机车于1942年11月随同美军登陆伊朗\[2\]。同时，美军并对伊朗的铁路进行大范围改造，以提高线路运输能力，而事实上也取代了巨大的效果\[3\]\[4\]。RSD-1型柴油机车共有三个生产批次，首两批机车（E1645、E1646）是为美国陆军提供，而第三批（E1641）是战后为墨西哥国家铁道提供的机车。
-[DA20-27.JPG](https://zh.wikipedia.org/wiki/File:DA20-27.JPG "fig:DA20-27.JPG")
-[DieselLoco_da20.jpg](https://zh.wikipedia.org/wiki/File:DieselLoco_da20.jpg "fig:DieselLoco_da20.jpg")
-鉴于RSD-1型柴油机车在伊朗纵贯铁路的良好表现，这种机车也吸引了苏联方面的兴趣。1943年，[苏联人民委员会](../Page/苏联人民委员会.md "wikilink")开始讨论从美国引进柴油机车的计划。1945年，美国批准向苏联提供70台RSD-1型柴油机车，但根据美国方面的纪录，其中12台机车在经海路送往苏联途中货轮被德国潜艇击沉，而根据苏联的纪录，苏联方面共接收了68台机车，仅有2台机车在运输途中损失\[5\]。这些RSD-1型机车在苏联被定型为D<sup>a</sup>20型（Д<sup>а</sup>20），其中“Д”代表柴油机车、“а”代表美国机车公司制造、“20”代表轴重为20吨；1947年后，又改称为D<sup>a</sup>型（Д<sup>а</sup>）\[6\]。
+[Supply_train_through_the_Persian_Corridor.jpg](https://zh.wikipedia.org/wiki/File:Supply_train_through_the_Persian_Corridor.jpg "fig:Supply_train_through_the_Persian_Corridor.jpg") 为了满足伊朗纵贯铁路的运输需求，美国陆军向[美国机车公司](../Page/美国机车公司.md "wikilink")订购了大批柴油机车。美国机车公司根据美军的需要，在[RS-1型四轴柴油机车的基础上](../Page/RS-1型柴油机车.md "wikilink")，开发研制了RSD-1型六轴柴油机车。采用六轴设计的原因，是提高机车的[粘着](https://zh.wikipedia.org/wiki/粘着 "wikilink")[牵引力](../Page/牵引力.md "wikilink")，以适应伊朗纵贯铁路的较大坡度，及当地恶劣的气候条件，并降低机车[轴重以机车减少对线路的损害](https://zh.wikipedia.org/wiki/轴重 "wikilink")。除了走行部结构外，机车其余部分与RS-1型柴油机车相同。首批RSD-1型柴油机车于1942年11月随同美军登陆伊朗\[2\]。同时，美军并对伊朗的铁路进行大范围改造，以提高线路运输能力，而事实上也取代了巨大的效果\[3\]\[4\]。RSD-1型柴油机车共有三个生产批次，首两批机车（E1645、E1646）是为美国陆军提供，而第三批（E1641）是战后为墨西哥国家铁道提供的机车。 [DA20-27.JPG](https://zh.wikipedia.org/wiki/File:DA20-27.JPG "fig:DA20-27.JPG") [DieselLoco_da20.jpg](https://zh.wikipedia.org/wiki/File:DieselLoco_da20.jpg "fig:DieselLoco_da20.jpg") 鉴于RSD-1型柴油机车在伊朗纵贯铁路的良好表现，这种机车也吸引了苏联方面的兴趣。1943年，[苏联人民委员会](../Page/苏联人民委员会.md "wikilink")开始讨论从美国引进柴油机车的计划。1945年，美国批准向苏联提供70台RSD-1型柴油机车，但根据美国方面的纪录，其中12台机车在经海路送往苏联途中货轮被德国潜艇击沉，而根据苏联的纪录，苏联方面共接收了68台机车，仅有2台机车在运输途中损失\[5\]。这些RSD-1型机车在苏联被定型为D<sup>a</sup>20型（Д<sup>а</sup>20），其中“Д”代表柴油机车、“а”代表美国机车公司制造、“20”代表轴重为20吨；1947年后，又改称为D<sup>a</sup>型（Д<sup>а</sup>）\[6\]。
 
 1945年7月，第二次世界大战的[欧洲战事结束后](https://zh.wikipedia.org/wiki/二战欧洲战场 "wikilink")，美国、苏联、英国在德国[波茨坦](../Page/波茨坦.md "wikilink")举行了[波茨坦会议](../Page/波茨坦会议.md "wikilink")。苏联铁道部为接载[斯大林赴德国的专运列车选定了一台D](https://zh.wikipedia.org/wiki/斯大林 "wikilink")<sup>a</sup>型柴油机车，担当此次专运任务。根据文献记载，该台专运机车为D<sup>a</sup>20-27号机车\[7\]。
 
@@ -46,14 +42,11 @@
 
 ## 外部链接
 
-  - [The American Railroads: The Alco
-    RSD1](http://www.american-rails.com/alco-rsd1.html)
+  - [The American Railroads: The Alco RSD1](http://www.american-rails.com/alco-rsd1.html)
 
 [Category:ALCO製鐵路机车](https://zh.wikipedia.org/wiki/Category:ALCO製鐵路机车 "wikilink")
 
-[Category:美国柴油机车](https://zh.wikipedia.org/wiki/Category:美国柴油机车 "wikilink")
-[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink")
-[Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")
+[Category:美国柴油机车](https://zh.wikipedia.org/wiki/Category:美国柴油机车 "wikilink") [Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")
 
 1.
 

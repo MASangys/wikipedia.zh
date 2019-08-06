@@ -1,10 +1,6 @@
-**WIT
-STUDIO**是[日本](../Page/日本.md "wikilink")的[動畫公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")，是由[Production
-I.G動畫](../Page/Production_I.G.md "wikilink")《[罪惡王冠](../Page/罪惡王冠.md "wikilink")》的六課工作室，配合母公司「」在動畫產業的戰略佈局所成立的，與主打國際大成本製作的[Production
-I.G](../Page/Production_I.G.md "wikilink")、改編原作與代工為主的[XEBEC](../Page/XEBEC.md "wikilink")的關係密切。
+**WIT STUDIO**是[日本](../Page/日本.md "wikilink")的[動畫公司](https://zh.wikipedia.org/wiki/動畫 "wikilink")，是由[Production I.G動畫](../Page/Production_I.G.md "wikilink")《[罪惡王冠](../Page/罪惡王冠.md "wikilink")》的六課工作室，配合母公司「」在動畫產業的戰略佈局所成立的，與主打國際大成本製作的[Production I.G](../Page/Production_I.G.md "wikilink")、改編原作與代工為主的[XEBEC](../Page/XEBEC.md "wikilink")的關係密切。
 
-而WIT
-STUDIO有**製作人的厚重主導色彩**之特色\[1\]。代表作有《[進擊的巨人](../Page/進擊的巨人.md "wikilink")》、《[鬼灯的冷徹](https://zh.wikipedia.org/wiki/鬼灯的冷徹 "wikilink")》、《[終結的熾天使](../Page/終結的熾天使.md "wikilink")》、《[甲鐵城的卡巴內里](../Page/甲鐵城的卡巴內里.md "wikilink")》、《[魔法使的新娘](../Page/魔法使的新娘.md "wikilink")》。
+而WIT STUDIO有**製作人的厚重主導色彩**之特色\[1\]。代表作有《[進擊的巨人](../Page/進擊的巨人.md "wikilink")》、《[鬼灯的冷徹](https://zh.wikipedia.org/wiki/鬼灯的冷徹 "wikilink")》、《[終結的熾天使](../Page/終結的熾天使.md "wikilink")》、《[甲鐵城的卡巴內里](../Page/甲鐵城的卡巴內里.md "wikilink")》、《[魔法使的新娘](../Page/魔法使的新娘.md "wikilink")》。
 
 ## 作品列表
 
@@ -230,8 +226,7 @@ STUDIO有**製作人的厚重主導色彩**之特色\[1\]。代表作有《[進�
 
 ### 參與製作
 
-  - [鋼彈G
-    Reconquista](https://zh.wikipedia.org/wiki/GUNDAM_G之復國運動 "wikilink")（）（總承包商：[日昇動畫](../Page/日昇動畫.md "wikilink")，各話協力製作，2014年）
+  - [鋼彈G Reconquista](https://zh.wikipedia.org/wiki/GUNDAM_G之復國運動 "wikilink")（）（總承包商：[日昇動畫](../Page/日昇動畫.md "wikilink")，各話協力製作，2014年）
 
 ## 参考资料
 
@@ -244,14 +239,9 @@ STUDIO有**製作人的厚重主導色彩**之特色\[1\]。代表作有《[進�
   -
   - [CCSX關於WIT STUDIO的Tag](http://ccsx.tw/tag/wit-studio/)
 
-  - [為何《進擊的巨人》動畫放心交給子公司？25年老鋪「Production
-    I.G」暢談作品企劃開發戰略！](http://ccsx.tw/2014/02/20/production-ig-abf2014/)
+  - [為何《進擊的巨人》動畫放心交給子公司？25年老鋪「Production I.G」暢談作品企劃開發戰略！](http://ccsx.tw/2014/02/20/production-ig-abf2014/)
 
-[Category:2012年成立的公司](https://zh.wikipedia.org/wiki/Category:2012年成立的公司 "wikilink")
-[Category:WIT_STUDIO](https://zh.wikipedia.org/wiki/Category:WIT_STUDIO "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink")
-[Category:武藏野市](https://zh.wikipedia.org/wiki/Category:武藏野市 "wikilink")
+[Category:2012年成立的公司](https://zh.wikipedia.org/wiki/Category:2012年成立的公司 "wikilink") [Category:WIT_STUDIO](https://zh.wikipedia.org/wiki/Category:WIT_STUDIO "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink") [Category:武藏野市](https://zh.wikipedia.org/wiki/Category:武藏野市 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-《**Hi\! School - Love
-On**》\[1\]（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2014年7月11日起每週五晚上9:00（[KST](https://zh.wikipedia.org/wiki/韓國標準時間 "wikilink")）播出的電視劇，講述一位天使為了拯救陷入危機的男學生而成為人類，她與純真熱血的青年們所發生的愛情與成長故事。\[2\]\[3\]
+《**Hi\! School - Love On**》\[1\]（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2014年7月11日起每週五晚上9:00（[KST](https://zh.wikipedia.org/wiki/韓國標準時間 "wikilink")）播出的電視劇，講述一位天使為了拯救陷入危機的男學生而成為人類，她與純真熱血的青年們所發生的愛情與成長故事。\[2\]\[3\]
 
 ## 演員陣容
 
@@ -64,8 +63,7 @@ On**》\[1\]（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K
 
 ### 天使
 
-  - [李昌周](https://zh.wikipedia.org/wiki/李昌周 "wikilink") 飾演
-    前輩，喜歡瑟菲，最後為了救瑟菲也變成人類。
+  - [李昌周](https://zh.wikipedia.org/wiki/李昌周 "wikilink") 飾演 前輩，喜歡瑟菲，最後為了救瑟菲也變成人類。
 
 ### 天堂高中老師
 
@@ -83,8 +81,7 @@ On**》\[1\]（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K
 
   - [ChoA](../Page/Crayon_Pop.md "wikilink") 飾演 金真英
   - [金藝本](https://zh.wikipedia.org/wiki/金藝本 "wikilink") 飾演 真英母
-  - [崔成國](https://zh.wikipedia.org/wiki/崔成国_\(演员\) "wikilink") 飾演
-    人間天使/理事長
+  - [崔成國](https://zh.wikipedia.org/wiki/崔成国_\(演员\) "wikilink") 飾演 人間天使/理事長
 
 ## 收視率
 
@@ -270,25 +267,13 @@ On**》\[1\]（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K
 
   - [韓國KBS官方網站](http://www.kbs.co.kr/drama/hischool/)
 
-[Category:2014年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年韓國電視劇集 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:韓國偶像劇](https://zh.wikipedia.org/wiki/Category:韓國偶像劇 "wikilink")
-[Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink")
-[Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink")
-[Category:天使主题电视剧](https://zh.wikipedia.org/wiki/Category:天使主题电视剧 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
+[Category:2014年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年韓國電視劇集 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:韓國偶像劇](https://zh.wikipedia.org/wiki/Category:韓國偶像劇 "wikilink") [Category:韓國校園劇](https://zh.wikipedia.org/wiki/Category:韓國校園劇 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:天使主题电视剧](https://zh.wikipedia.org/wiki/Category:天使主题电视剧 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
 
-1.  ["Hi\! School - Love
-    On"](https://web.archive.org/web/20141024050953/http://kbsworld.kbs.co.kr/programs/programs_intro_kr.html?no=841&lang=c)
-    KBS World
-2.  [「High
-    School」優鉉-賽綸-成烈，3種不同的V字姿勢「受到關注」](http://tw.starnnews.com/news/index.html?no=305019)
-    StarN
-3.  [《High School》金賽綸
-    拍攝現場開心度過生日](http://www.koreastardaily.com/tc/news/45738)韓星網
+1.  ["Hi\! School - Love On"](https://web.archive.org/web/20141024050953/http://kbsworld.kbs.co.kr/programs/programs_intro_kr.html?no=841&lang=c) KBS World
+2.  [「High School」優鉉-賽綸-成烈，3種不同的V字姿勢「受到關注」](http://tw.starnnews.com/news/index.html?no=305019) StarN
+3.  [《High School》金賽綸 拍攝現場開心度過生日](http://www.koreastardaily.com/tc/news/45738)韓星網
 4.  [TNmS 멀티미디어 홈페이지 참조.](http://www.tnms.tv/rating/default.asp)
 5.  [AGB 닐슨 미디어리서치 홈페이지 참조](http://www.agbnielsen.co.kr/index.asp?ref=0)
-
 6.  2014年7月25日：因直播 K League 明星足球賽，節目停播一週。
 7.  2014年9月5日：因直播2014 斗山對LG 棒球賽事，節目停播一週。
 8.  2014年9月19日：因直播[2014年亞洲運動會開幕儀式](https://zh.wikipedia.org/wiki/2014年亞洲運動會 "wikilink")，節目停播一週。

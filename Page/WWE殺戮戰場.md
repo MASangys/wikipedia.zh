@@ -1,12 +1,10 @@
 [Battleground-620x250.png](https://zh.wikipedia.org/wiki/File:Battleground-620x250.png "fig:Battleground-620x250.png")
 
-**WWE殺戮戰場**（），是[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）的[世界摔角娛樂付費收看節目](../Page/世界摔角娛樂付費收看節目.md "wikilink")（WWE
-Pay-Per-View）之一，於10月時舉行。 WWE殺戮戰場首次亮相於2013年10月6日。
+**WWE殺戮戰場**（），是[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）的[世界摔角娛樂付費收看節目](../Page/世界摔角娛樂付費收看節目.md "wikilink")（WWE Pay-Per-View）之一，於10月時舉行。 WWE殺戮戰場首次亮相於2013年10月6日。
 
 ## 概述
 
-WWE殺戮戰場將有的專業摔角比賽，會涉及從[WWE Raw和](../Page/WWE_Raw.md "wikilink")[WWE
-SmackDown存在的爭鬥](https://zh.wikipedia.org/wiki/WWE_Friday_Night_SmackDown! "wikilink")、情節和故事情節，進而決定出場的摔角選手，而出場的摔角選手將會依循他們的一系列事件被描繪英雄或惡棍，使WWE殺戮戰場的比賽有著緊張情緒和高潮迭起。
+WWE殺戮戰場將有的專業摔角比賽，會涉及從[WWE Raw和](../Page/WWE_Raw.md "wikilink")[WWE SmackDown存在的爭鬥](https://zh.wikipedia.org/wiki/WWE_Friday_Night_SmackDown! "wikilink")、情節和故事情節，進而決定出場的摔角選手，而出場的摔角選手將會依循他們的一系列事件被描繪英雄或惡棍，使WWE殺戮戰場的比賽有著緊張情緒和高潮迭起。
 
 ## 列表
 

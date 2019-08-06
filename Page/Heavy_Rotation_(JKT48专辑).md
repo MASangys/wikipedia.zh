@@ -1,5 +1,4 @@
-《**Heavy
-Rotation**》是印度尼西亚偶像组合[JKT48](../Page/JKT48.md "wikilink")的第一张[原创专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")。在2013年2月16日由发售。[歌词中大部分都是从日语翻译成](https://zh.wikipedia.org/wiki/歌词 "wikilink")[印度尼西亚语的](https://zh.wikipedia.org/wiki/印度尼西亚语 "wikilink")。
+《**Heavy Rotation**》是印度尼西亚偶像组合[JKT48](../Page/JKT48.md "wikilink")的第一张[原创专辑](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")。在2013年2月16日由发售。[歌词中大部分都是从日语翻译成](https://zh.wikipedia.org/wiki/歌词 "wikilink")[印度尼西亚语的](https://zh.wikipedia.org/wiki/印度尼西亚语 "wikilink")。
 
 ## 概要
 
@@ -8,9 +7,7 @@ Rotation**》是印度尼西亚偶像组合[JKT48](../Page/JKT48.md "wikilink")�
 ## 收录曲目
 
   - 封面成员（前排）：Ayana Shahab、Cindy Gulla
-    封面成员（后排）：Shania Junianatha、Melody Nurramdhani Laksani、高城亚树、仲川遥香、Beby
-    Chaesara Anadila、Nabilah Ratna Ayu Azalia、野泽玲奈、Stella Cornelia、Devi
-    Kinal Putri、Jessica Veranda
+    封面成员（后排）：Shania Junianatha、Melody Nurramdhani Laksani、高城亚树、仲川遥香、Beby Chaesara Anadila、Nabilah Ratna Ayu Azalia、野泽玲奈、Stella Cornelia、Devi Kinal Putri、Jessica Veranda
 
 ### Type-A
 
@@ -33,29 +30,22 @@ Rotation**》是印度尼西亚偶像组合[JKT48](../Page/JKT48.md "wikilink")�
 4.  **Baby\! Baby\! Baby\!** \[4:01\]
       -
         （作詞：秋元康、作曲：上杉洋史、編曲：）
-        AKB48的[第9张下载限定单曲标题曲《Baby\! Baby\!
-        Baby\!》的翻唱](../Page/Baby!_Baby!_Baby!.md "wikilink")。
+        AKB48的[第9张下载限定单曲标题曲《Baby\! Baby\! Baby\!》的翻唱](../Page/Baby!_Baby!_Baby!.md "wikilink")。
 5.  **Shonichi** -Hari Pertama- \[3:49\]
       -
         （作詞：秋元康、作曲：岡田実音、編曲：市川裕一）
-        [JKT48 1st
-        Stage“睡衣兜风”公演中的曲目](https://zh.wikipedia.org/wiki/TeamB_3rd_Stage“睡衣兜风”#JKT48_1st_Stage“睡衣兜风”公演 "wikilink")。
-        [TeamB 3rd
-        Stage“睡衣兜风”公演中的曲目](https://zh.wikipedia.org/wiki/TeamB_3rd_Stage“睡衣兜风” "wikilink")《初日》的翻唱。
+        [JKT48 1st Stage“睡衣兜风”公演中的曲目](https://zh.wikipedia.org/wiki/TeamB_3rd_Stage“睡衣兜风”#JKT48_1st_Stage“睡衣兜风”公演 "wikilink")。
+        [TeamB 3rd Stage“睡衣兜风”公演中的曲目](https://zh.wikipedia.org/wiki/TeamB_3rd_Stage“睡衣兜风” "wikilink")《初日》的翻唱。
 6.  **Wasshoi J\!** \[4:00\]
       -
         （作詞：秋元康、作曲・編曲：）
-        [JKT48 1st
-        Stage“睡衣兜风”公演中的曲目](https://zh.wikipedia.org/wiki/TeamB_3rd_Stage“睡衣兜风”#JKT48_1st_Stage“睡衣兜风”公演 "wikilink")。
-        [TeamB 3rd
-        Stage“睡衣兜风”公演中的曲目](https://zh.wikipedia.org/wiki/TeamB_3rd_Stage“睡衣兜风” "wikilink")《呀喝B！》的JKT48版本。
+        [JKT48 1st Stage“睡衣兜风”公演中的曲目](https://zh.wikipedia.org/wiki/TeamB_3rd_Stage“睡衣兜风”#JKT48_1st_Stage“睡衣兜风”公演 "wikilink")。
+        [TeamB 3rd Stage“睡衣兜风”公演中的曲目](https://zh.wikipedia.org/wiki/TeamB_3rd_Stage“睡衣兜风” "wikilink")《呀喝B！》的JKT48版本。
 7.  **Oogoe Diamond** -Teriakan Diamiond- \[4:06\]
       -
         （作詞：秋元康、作曲・編曲：（））
-        [Team J 1st
-        Stage「恋愛禁止条例」公演中的曲目](../Page/Team_A_5th_Stage“恋爱禁止条例”.md "wikilink")。
-        [Team A 5th
-        Stage“恋爱禁止条例”公演中的曲目](../Page/Team_A_5th_Stage“恋爱禁止条例”.md "wikilink")《大声钻石》的翻唱。
+        [Team J 1st Stage「恋愛禁止条例」公演中的曲目](../Page/Team_A_5th_Stage“恋爱禁止条例”.md "wikilink")。
+        [Team A 5th Stage“恋爱禁止条例”公演中的曲目](../Page/Team_A_5th_Stage“恋爱禁止条例”.md "wikilink")《大声钻石》的翻唱。
 8.  **Gomenne、Summer** -Maafkan、Summer- \[4:03\]
       -
         （作詞：秋元康、作曲：[俊龍](../Page/俊龍.md "wikilink")、編曲：原田）
@@ -67,10 +57,8 @@ Rotation**》是印度尼西亚偶像组合[JKT48](../Page/JKT48.md "wikilink")�
 10. **Hikoukigumo** -Jejak Awan Pesawat- \[4:02\]
       -
         （作詞：秋元康、作曲：成瀬英樹、編曲：野中MASA雄一）
-        [Team J 1st
-        Stage「恋愛禁止条例」公演中的曲目](../Page/Team_A_5th_Stage“恋爱禁止条例”.md "wikilink")。
-        [Team A 5th
-        Stage“恋爱禁止条例”公演中的曲目](../Page/Team_A_5th_Stage“恋爱禁止条例”.md "wikilink")「机尾云」的翻唱。
+        [Team J 1st Stage「恋愛禁止条例」公演中的曲目](../Page/Team_A_5th_Stage“恋爱禁止条例”.md "wikilink")。
+        [Team A 5th Stage“恋爱禁止条例”公演中的曲目](../Page/Team_A_5th_Stage“恋爱禁止条例”.md "wikilink")「机尾云」的翻唱。
 
 <!-- end list -->
 
@@ -134,85 +122,43 @@ Rotation**》是印度尼西亚偶像组合[JKT48](../Page/JKT48.md "wikilink")�
 
 ### Heavy Rotation
 
-  - Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Devi Kinal
-    Putri、Frieska Anastasia Laksani、Ghaida Farisya、Jessica
-    Vania、Jessica Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu
-    Azalia、[Rena Nozawa](../Page/野澤玲奈.md "wikilink")、Rezky Wiranti
-    Dhike、Sendy Ariani、Shania Junianatha、Sonya Pandarmawan、Stella
-    Cornelia.
+  - Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Devi Kinal Putri、Frieska Anastasia Laksani、Ghaida Farisya、Jessica Vania、Jessica Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、[Rena Nozawa](../Page/野澤玲奈.md "wikilink")、Rezky Wiranti Dhike、Sendy Ariani、Shania Junianatha、Sonya Pandarmawan、Stella Cornelia.
 
 ### Kimi no Koto ga Suki Dakara
 
-  - Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Devi Kinal
-    Putri、Ghaida Farisya、Jessica Vania、Jessica Veranda、Melody
-    Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、Rena Nozawa、Rezky
-    Wiranti Dhike、Sendy Ariani、Shania Junianatha、Sonia Natalia、Sonya
-    Pandarmawan、Stella Cornelia.
+  - Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Devi Kinal Putri、Ghaida Farisya、Jessica Vania、Jessica Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、Rena Nozawa、Rezky Wiranti Dhike、Sendy Ariani、Shania Junianatha、Sonia Natalia、Sonya Pandarmawan、Stella Cornelia.
 
 ### Ponytail to Chou-chou
 
-  - Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Devi Kinal
-    Putri、Ghaida Farisya、Jessica Vania、Jessica Veranda、Melody
-    Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、Rena Nozawa、Rezky
-    Wiranti Dhike、Rica Leyona、Sendy Ariani、Shania Junianatha、Sonia
-    Natalia、Stella Cornelia.
+  - Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Devi Kinal Putri、Ghaida Farisya、Jessica Vania、Jessica Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、Rena Nozawa、Rezky Wiranti Dhike、Rica Leyona、Sendy Ariani、Shania Junianatha、Sonia Natalia、Stella Cornelia.
 
 ### Baby\! Baby\! Baby\!
 
-  - Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Devi Kinal
-    Putri、Ghaida Farisya、Jessica Vania、Jessica Veranda、Melody
-    Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、Rena Nozawa、Rezky
-    Wiranti Dhike、Rica Leyona、Sendy Ariani、Shania Junianatha、Sonia
-    Natalia、Stella Cornelia.
+  - Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Devi Kinal Putri、Ghaida Farisya、Jessica Vania、Jessica Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、Rena Nozawa、Rezky Wiranti Dhike、Rica Leyona、Sendy Ariani、Shania Junianatha、Sonia Natalia、Stella Cornelia.
 
 ### Shonichi
 
-  - Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Delima Rizky、Devi
-    Kinal Putri、Gabriela Margareth Warouw、Ghaida Farisya、Jessica
-    Vania、Jessica Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu
-    Azalia、Rezky Wiranti Dhike、Sendy Ariani、Shania Junianatha、Sonia
-    Natalia、Stella Cornelia.
+  - Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Delima Rizky、Devi Kinal Putri、Gabriela Margareth Warouw、Ghaida Farisya、Jessica Vania、Jessica Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、Rezky Wiranti Dhike、Sendy Ariani、Shania Junianatha、Sonia Natalia、Stella Cornelia.
 
 ### Wasshoi J\!
 
-  - Ayana Shahab、Beby Chaesara Anadila、Devi Kinal Putri、Gabriela
-    Margareth Warouw、Ghaida Farisya、Jessica Vania、Jessica Veranda、Melody
-    Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、Rena Nozawa、Rezky
-    Wiranti Dhike、Rica Leyona、Sendy Ariani、Shania Junianatha、Sonia
-    Natalia、Stella Cornelia.
+  - Ayana Shahab、Beby Chaesara Anadila、Devi Kinal Putri、Gabriela Margareth Warouw、Ghaida Farisya、Jessica Vania、Jessica Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、Rena Nozawa、Rezky Wiranti Dhike、Rica Leyona、Sendy Ariani、Shania Junianatha、Sonia Natalia、Stella Cornelia.
 
 ### Oogoe Diamond
 
-  - [Aki Takajo](https://zh.wikipedia.org/wiki/高城亚樹 "wikilink")、Ayana
-    Shahab、Beby Chaesara Anadila、Cindy Gulla、Devi Kinal Putri、Gabriela
-    Margareth Warouw、Ghaida Farisya、[Haruka
-    Nakagawa](../Page/仲川遥香.md "wikilink")、Jessica Vania、Jessica
-    Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、Rezky
-    Wiranti Dhike、Sendy Ariani、Shania Junianatha.
+  - [Aki Takajo](https://zh.wikipedia.org/wiki/高城亚樹 "wikilink")、Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Devi Kinal Putri、Gabriela Margareth Warouw、Ghaida Farisya、[Haruka Nakagawa](../Page/仲川遥香.md "wikilink")、Jessica Vania、Jessica Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、Rezky Wiranti Dhike、Sendy Ariani、Shania Junianatha.
 
 ### Gomenne、Summer
 
-  - Aki Takajo、Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Devi Kinal
-    Putri、Ghaida Farisya、Haruka Nakagawa、Jessica Vania、Jessica
-    Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、Rena
-    Nozawa、Rezky Wiranti Dhike、Sendy Ariani、Shania Junianatha、Stella
-    Cornelia.
+  - Aki Takajo、Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Devi Kinal Putri、Ghaida Farisya、Haruka Nakagawa、Jessica Vania、Jessica Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、Rena Nozawa、Rezky Wiranti Dhike、Sendy Ariani、Shania Junianatha、Stella Cornelia.
 
 ### Namida Surprise\!
 
-  - Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Devi Kinal
-    Putri、Diasta Priswarini、Ghaida Farisya、Jessica Vania、Jessica
-    Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、Rena
-    Nozawa、Rezky Wiranti Dhike、Rica Leyona、Sendy Ariani、Shania
-    Junianatha、Stella Cornelia.
+  - Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Devi Kinal Putri、Diasta Priswarini、Ghaida Farisya、Jessica Vania、Jessica Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、Rena Nozawa、Rezky Wiranti Dhike、Rica Leyona、Sendy Ariani、Shania Junianatha、Stella Cornelia.
 
 ### Hikoukigumo
 
-  - Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Delima Rizky、Devi
-    Kinal Putri、Gabriela Margareth Warouw、Ghaida Farisya、Jessica
-    Vania、Jessica Veranda、Nabilah Ratna Ayu Azalia、Rena Nozawa、Rezky
-    Wiranti Dhike、Sendy Ariani、Shania Junianatha、Sonya
-    Pandarmawan、Stella Cornelia.
+  - Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Delima Rizky、Devi Kinal Putri、Gabriela Margareth Warouw、Ghaida Farisya、Jessica Vania、Jessica Veranda、Nabilah Ratna Ayu Azalia、Rena Nozawa、Rezky Wiranti Dhike、Sendy Ariani、Shania Junianatha、Sonya Pandarmawan、Stella Cornelia.
 
 ## 参考文献
 
@@ -225,13 +171,9 @@ Rotation**》是印度尼西亚偶像组合[JKT48](../Page/JKT48.md "wikilink")�
 <!-- end list -->
 
   - [JKT48公式网站的介绍页面](http://www.jkt48.com/heavy-rotation?lang=jp)
-  - [JKT48 Heavy Rotation<Type-A>
-    在日本发行的特别盘](https://archive.is/20130702165724/http://shop.akb48.co.jp/products/detail360.html)
-    - AKB48 DVD\&CD SHOP
+  - [JKT48 Heavy Rotation<Type-A> 在日本发行的特别盘](https://archive.is/20130702165724/http://shop.akb48.co.jp/products/detail360.html) - AKB48 DVD\&CD SHOP
 
-[Category:2013年音乐专辑](https://zh.wikipedia.org/wiki/Category:2013年音乐专辑 "wikilink")
-[Category:JKT48](https://zh.wikipedia.org/wiki/Category:JKT48 "wikilink")
-[Category:AKB48家族關連音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48家族關連音樂專輯 "wikilink")
+[Category:2013年音乐专辑](https://zh.wikipedia.org/wiki/Category:2013年音乐专辑 "wikilink") [Category:JKT48](https://zh.wikipedia.org/wiki/Category:JKT48 "wikilink") [Category:AKB48家族關連音樂專輯](https://zh.wikipedia.org/wiki/Category:AKB48家族關連音樂專輯 "wikilink")
 
 1.
 2.

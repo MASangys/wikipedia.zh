@@ -1,5 +1,4 @@
-『**Buono\! Live Tour 2010 ～Rock'n Buono\! 3～**』（）
-是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的Live影像。
+『**Buono\! Live Tour 2010 ～Rock'n Buono\! 3～**』（） 是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的Live影像。
 
 ## 收錄曲
 
@@ -29,8 +28,7 @@
 24. [恋愛{{Unicode](https://zh.wikipedia.org/wiki/戀愛騎士 "wikilink")
 25. [ワープ\!](../Page/MY_BOY.md "wikilink")
 26. [Bravo☆Bravo](../Page/Bravo☆Bravo.md "wikilink")
-27. [We are
-    Buono\!〜Buono\!的主題{{Unicode](../Page/We_are_Buono!.md "wikilink")
+27. [We are Buono\!〜Buono\!的主題{{Unicode](../Page/We_are_Buono!.md "wikilink")
 28. [MIRACLE HAPPY LOVE SONG](../Page/Our_Songs.md "wikilink")
 29. MC7
 30. [You're My Friend](../Page/Buono!2.md "wikilink")
@@ -48,8 +46,6 @@
 
 ## 外部連結
 
-  - [ハロープロジェクト
-    公式ディスコグラフィー](https://web.archive.org/web/20120704131702/http://www.helloproject.com/discography/buono/v_005.html)
+  - [ハロープロジェクト 公式ディスコグラフィー](https://web.archive.org/web/20120704131702/http://www.helloproject.com/discography/buono/v_005.html)
 
-[Category:2010年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2010年音樂相關影像作品 "wikilink")
-[Category:Buono\!影像作品](https://zh.wikipedia.org/wiki/Category:Buono!影像作品 "wikilink")
+[Category:2010年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2010年音樂相關影像作品 "wikilink") [Category:Buono\!影像作品](https://zh.wikipedia.org/wiki/Category:Buono!影像作品 "wikilink")

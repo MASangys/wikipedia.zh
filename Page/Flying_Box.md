@@ -1,6 +1,4 @@
-**Flying
-Box**（）是一間位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區的](../Page/港區_\(東京都\).md "wikilink")[藝能事務所](../Page/經紀公司.md "wikilink")，下轄許多女性藝人。另外，Flying
-Box和屬於同一體系，不過後者主要負責[模特兒](../Page/模特兒.md "wikilink")的部分。
+**Flying Box**（）是一間位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[港區的](../Page/港區_\(東京都\).md "wikilink")[藝能事務所](../Page/經紀公司.md "wikilink")，下轄許多女性藝人。另外，Flying Box和屬於同一體系，不過後者主要負責[模特兒](../Page/模特兒.md "wikilink")的部分。
 
 ## 現在所屬藝人
 
@@ -19,10 +17,8 @@ Box和屬於同一體系，不過後者主要負責[模特兒](../Page/模特兒
 
 ## 過去所屬藝人
 
-  - [天海祐希](../Page/天海祐希.md "wikilink") -
-    後轉往[研音](../Page/研音.md "wikilink")
-  - [高岡蒼佑](https://zh.wikipedia.org/wiki/高岡蒼甫 "wikilink") - 後轉往[Stardust
-    Promotion](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")
+  - [天海祐希](../Page/天海祐希.md "wikilink") - 後轉往[研音](../Page/研音.md "wikilink")
+  - [高岡蒼佑](https://zh.wikipedia.org/wiki/高岡蒼甫 "wikilink") - 後轉往[Stardust Promotion](https://zh.wikipedia.org/wiki/Stardust_Promotion "wikilink")
   - [西島千博](https://zh.wikipedia.org/wiki/西島千博 "wikilink")
   - [村上綾歌](https://zh.wikipedia.org/wiki/村上綾歌 "wikilink")
   - [石井苗子](https://zh.wikipedia.org/wiki/石井苗子 "wikilink")
@@ -45,6 +41,4 @@ Box和屬於同一體系，不過後者主要負責[模特兒](../Page/模特兒
 
   - [官方網站](http://www.flyingbox.co.jp/)
 
-[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink")
-[Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink")
-[Category:1975年成立的公司](https://zh.wikipedia.org/wiki/Category:1975年成立的公司 "wikilink")
+[Category:日本藝人經紀公司](https://zh.wikipedia.org/wiki/Category:日本藝人經紀公司 "wikilink") [Category:港區公司_(東京都)](https://zh.wikipedia.org/wiki/Category:港區公司_\(東京都\) "wikilink") [Category:1975年成立的公司](https://zh.wikipedia.org/wiki/Category:1975年成立的公司 "wikilink")

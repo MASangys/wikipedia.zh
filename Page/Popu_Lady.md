@@ -1,28 +1,14 @@
-**Popu
-Lady**，由[洪詩](https://zh.wikipedia.org/wiki/洪詩涵_\(藝人\) "wikilink")、[大元](https://zh.wikipedia.org/wiki/林盈臻 "wikilink")、[寶兒](https://zh.wikipedia.org/wiki/吳昀廷 "wikilink")、[庭萱](https://zh.wikipedia.org/wiki/陳庭萱 "wikilink")、[宇珊所組成](../Page/劉宇珊.md "wikilink")\[1\]\[2\]。
+**Popu Lady**，由[洪詩](https://zh.wikipedia.org/wiki/洪詩涵_\(藝人\) "wikilink")、[大元](https://zh.wikipedia.org/wiki/林盈臻 "wikilink")、[寶兒](https://zh.wikipedia.org/wiki/吳昀廷 "wikilink")、[庭萱](https://zh.wikipedia.org/wiki/陳庭萱 "wikilink")、[宇珊所組成](../Page/劉宇珊.md "wikilink")\[1\]\[2\]。
 
 ## 經歷
 
-2011年11月19日搬進宿舍正式開始受訓，合宿訓練一年。2012年12月14日發行首張迷你專輯《[一直一直愛](../Page/一直一直愛.md "wikilink")》，正式出道。首支主打歌《一直一直愛》翻唱自[挪威](../Page/挪威.md "wikilink")女子偶像團體[M2M的](../Page/M2M_\(組合\).md "wikilink")《Pretty
-Boy》，由台灣知名作詞家[徐世珍](../Page/徐世珍.md "wikilink")填中文詞\[3\]\[4\]\[5\]。2013年9月13日，發行第二張寫真迷你專輯《[小未來](../Page/小未來.md "wikilink")》\[6\]。2014年8月22日，發行第三張寫真迷你專輯《[More](../Page/More_\(EP\).md "wikilink")》，並至[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[關島](../Page/關島.md "wikilink")進行拍攝專輯封面和MV。
+2011年11月19日搬進宿舍正式開始受訓，合宿訓練一年。2012年12月14日發行首張迷你專輯《[一直一直愛](../Page/一直一直愛.md "wikilink")》，正式出道。首支主打歌《一直一直愛》翻唱自[挪威](../Page/挪威.md "wikilink")女子偶像團體[M2M的](../Page/M2M_\(組合\).md "wikilink")《Pretty Boy》，由台灣知名作詞家[徐世珍](../Page/徐世珍.md "wikilink")填中文詞\[3\]\[4\]\[5\]。2013年9月13日，發行第二張寫真迷你專輯《[小未來](../Page/小未來.md "wikilink")》\[6\]。2014年8月22日，發行第三張寫真迷你專輯《[More](../Page/More_\(EP\).md "wikilink")》，並至[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[關島](../Page/關島.md "wikilink")進行拍攝專輯封面和MV。
 
-2015年夏季尾聲，正當Popu
-Lady甫榮獲HitFM《Hito最受歡迎校園團體獎》，其演唱電影《[我的少女時代](../Page/我的少女時代.md "wikilink")》插曲《妳說他》獲得好評連續奪得kkbox排行榜冠軍之際，9月22日，所屬[華研國際音樂](../Page/華研國際音樂.md "wikilink")無預警宣布舉辦《Get
-Out of Popu
-Lady》淘汰賽\[7\]，決議以網友票選踢除其中一名團員，為團體與粉絲投下震撼彈。被踢除的團員不得再參加其後的專輯演唱及宣傳，贏家則可推出個人寫真EP，此舉雖引起話題\[8\]\[9\]\[10\]但此種利用歌迷"借刀"來淘汰其所支持偶像的空前舉措，引發歌迷強烈不滿而串連抵制抗議。《Get
-Out Of Popu Lady》活動網頁於10月2日中午12:00正式啟動，由粉絲投票至11/20
-23:59:59截止，投票網站上線後粉絲自發性的"平票"行為使彼此票數接近，其間網站一度疑似遭到駭客攻擊當機，於網路投票截止時刻，排名第4與第5的大元、宇珊呈現僅差距2票的幾乎平票狀態。
+2015年夏季尾聲，正當Popu Lady甫榮獲HitFM《Hito最受歡迎校園團體獎》，其演唱電影《[我的少女時代](../Page/我的少女時代.md "wikilink")》插曲《妳說他》獲得好評連續奪得kkbox排行榜冠軍之際，9月22日，所屬[華研國際音樂](../Page/華研國際音樂.md "wikilink")無預警宣布舉辦《Get Out of Popu Lady》淘汰賽\[7\]，決議以網友票選踢除其中一名團員，為團體與粉絲投下震撼彈。被踢除的團員不得再參加其後的專輯演唱及宣傳，贏家則可推出個人寫真EP，此舉雖引起話題\[8\]\[9\]\[10\]但此種利用歌迷"借刀"來淘汰其所支持偶像的空前舉措，引發歌迷強烈不滿而串連抵制抗議。《Get Out Of Popu Lady》活動網頁於10月2日中午12:00正式啟動，由粉絲投票至11/20 23:59:59截止，投票網站上線後粉絲自發性的"平票"行為使彼此票數接近，其間網站一度疑似遭到駭客攻擊當機，於網路投票截止時刻，排名第4與第5的大元、宇珊呈現僅差距2票的幾乎平票狀態。
 
-11月20日，第四張寫真迷你專輯《[Gossip
-Girls](../Page/Gossip_Girls.md "wikilink")》發行\[11\]。24小時後即22日《Get
-Out of Popu
-Lady淘汰賽》最終決選日，寶兒為第一名獲得以個人名義出寫真EP的機會，庭萱、洪詩則居列第二、第三名；而落後的二位成員大元、宇珊則由到場粉絲通力合作，透過場內外精準配票與監票行動，成功將大元、宇珊差距2票數以5比7票拉平，此完美"平票"結果，使唱片公司無法依照當初比賽規則淘汰"一人"。最終華研同意不淘汰任何人，PopuLady遂在粉絲的通力合作下，繼續維持五人團體活動。但此活動已引起外界的負面反應，也對於Popu
-Lady與歌迷造成嚴重心理創傷。包括「瞎爆！」\[12\]、「整場淘汰賽是一場最荒唐的鬧劇」\[13\]、「超爛行銷」\[14\]\[15\]等對華研音樂的不佳觀感。唱片公司總監[施人誠](../Page/施人誠.md "wikilink")否認結局是造假、炒作，表示是歌迷「配票」策略成功，順利保住5位團員\[16\]。
-而Popu Lady表示「沒有一個公司冒著賭上自己名譽，並且還花大錢幫我們架設網站」以問心無愧甩負評\[17\]。
+11月20日，第四張寫真迷你專輯《[Gossip Girls](../Page/Gossip_Girls.md "wikilink")》發行\[11\]。24小時後即22日《Get Out of Popu Lady淘汰賽》最終決選日，寶兒為第一名獲得以個人名義出寫真EP的機會，庭萱、洪詩則居列第二、第三名；而落後的二位成員大元、宇珊則由到場粉絲通力合作，透過場內外精準配票與監票行動，成功將大元、宇珊差距2票數以5比7票拉平，此完美"平票"結果，使唱片公司無法依照當初比賽規則淘汰"一人"。最終華研同意不淘汰任何人，PopuLady遂在粉絲的通力合作下，繼續維持五人團體活動。但此活動已引起外界的負面反應，也對於Popu Lady與歌迷造成嚴重心理創傷。包括「瞎爆！」\[12\]、「整場淘汰賽是一場最荒唐的鬧劇」\[13\]、「超爛行銷」\[14\]\[15\]等對華研音樂的不佳觀感。唱片公司總監[施人誠](../Page/施人誠.md "wikilink")否認結局是造假、炒作，表示是歌迷「配票」策略成功，順利保住5位團員\[16\]。 而Popu Lady表示「沒有一個公司冒著賭上自己名譽，並且還花大錢幫我們架設網站」以問心無愧甩負評\[17\]。
 
-2016年，Popu Lady重回因淘汰賽風波而中斷缺席的各項活動舞台。10月份，發行團體成立以來首本正式寫真集《THAI HOT
-泰熱寫真》，遠赴泰國象島拍攝\[18\]\[19\]。2016年第四季起，Popu
-Lady成員開始以分進合擊方式參與大量戲劇演出。2017年元3月7日，大元宣布暫別團體活動3個月，到大陸江西拍攝新戲《私立蜀山學園》\[20\]。4月13日，洪詩也宣布到大陸常州拍攝網路劇《[暹羅密碼](https://zh.wikipedia.org/wiki/暹羅密碼 "wikilink")》3個月\[21\]。
+2016年，Popu Lady重回因淘汰賽風波而中斷缺席的各項活動舞台。10月份，發行團體成立以來首本正式寫真集《THAI HOT 泰熱寫真》，遠赴泰國象島拍攝\[18\]\[19\]。2016年第四季起，Popu Lady成員開始以分進合擊方式參與大量戲劇演出。2017年元3月7日，大元宣布暫別團體活動3個月，到大陸江西拍攝新戲《私立蜀山學園》\[20\]。4月13日，洪詩也宣布到大陸常州拍攝網路劇《[暹羅密碼](https://zh.wikipedia.org/wiki/暹羅密碼 "wikilink")》3個月\[21\]。
 
 2018年，成員宇珊、寶兒參與中國偶像選秀實境節目《[創造101](https://zh.wikipedia.org/wiki/創造101 "wikilink")》錄製，未能進入上位圈即淘汰。
 
@@ -378,30 +364,23 @@ Lady成員開始以分進合擊方式參與大量戲劇演出。2017年元3月7�
 
 8.
 
-9.  [粉絲抗議沒路用 Popu
-    Lady淘汰網站上線](http://ent.ltn.com.tw/news/breakingnews/1455448)
+9.  [粉絲抗議沒路用 Popu Lady淘汰網站上線](http://ent.ltn.com.tw/news/breakingnews/1455448)
 
 10. [PopuLady 5人將淘汰1人　粉絲爆拒絕投票潮](http://star.ettoday.net/news/568653)
 
 11.
 
-12. [瞎爆！Popu Lady淘汰賽出爐
-    結果竟是...](http://ent.ltn.com.tw/news/breakingnews/1516656)
+12. [瞎爆！Popu Lady淘汰賽出爐 結果竟是...](http://ent.ltn.com.tw/news/breakingnews/1516656)
 
-13. [大元、宇珊同票數　Popu
-    Lady零淘汰成鬧劇](http://www.nownews.com/n/2015/11/22/1892293)
+13. [大元、宇珊同票數　Popu Lady零淘汰成鬧劇](http://www.nownews.com/n/2015/11/22/1892293)
 
-14. [Popu Lady淘汰賽挨批「超爛行銷」
-    華研解釋...](http://ent.ltn.com.tw/news/breakingnews/1516915)
+14. [Popu Lady淘汰賽挨批「超爛行銷」 華研解釋...](http://ent.ltn.com.tw/news/breakingnews/1516915)
 
-15. [Popu
-    Lady淘汰結果出爐！網友：不意外](http://www.chinatimes.com/realtimenews/20151122002573-260404)
+15. [Popu Lady淘汰結果出爐！網友：不意外](http://www.chinatimes.com/realtimenews/20151122002573-260404)
 
-16. [Popu Lady淘汰賽疑炒作
-    其實有內幕](http://ent.ltn.com.tw/news/breakingnews/1517053)
+16. [Popu Lady淘汰賽疑炒作 其實有內幕](http://ent.ltn.com.tw/news/breakingnews/1517053)
 
-17. [Popu Lady走過淘汰賽 五人浴火重生
-    戰戰兢兢努力進修](http://www.wownews.tw/article.php?sn=32759)
+17. [Popu Lady走過淘汰賽 五人浴火重生 戰戰兢兢努力進修](http://www.wownews.tw/article.php?sn=32759)
 
 18.
 
@@ -431,8 +410,7 @@ Lady成員開始以分進合擊方式參與大量戲劇演出。2017年元3月7�
 
 31.
 
-32.  娛樂星聞 {{\!}} 三立新聞網
-    SETN.COM|url=[https://www.setn.com/e/News.aspx?NewsID=78149|work=www.setn.com|date=2015-05-31|accessdate=2019-02-05|language=zh-Hant-TW|last=三立新聞網](https://www.setn.com/e/News.aspx?NewsID=78149%7Cwork=www.setn.com%7Cdate=2015-05-31%7Caccessdate=2019-02-05%7Clanguage=zh-Hant-TW%7Clast=三立新聞網)}}
+32.  娛樂星聞 {{\!}} 三立新聞網 SETN.COM|url=[https://www.setn.com/e/News.aspx?NewsID=78149|work=www.setn.com|date=2015-05-31|accessdate=2019-02-05|language=zh-Hant-TW|last=三立新聞網](https://www.setn.com/e/News.aspx?NewsID=78149%7Cwork=www.setn.com%7Cdate=2015-05-31%7Caccessdate=2019-02-05%7Clanguage=zh-Hant-TW%7Clast=三立新聞網)}}
 
 33.
 

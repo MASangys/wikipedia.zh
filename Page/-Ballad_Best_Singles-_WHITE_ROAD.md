@@ -3,8 +3,7 @@
 ## 簡介
 
   - 有別於以往的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，這張是以抒情歌為主的抒情精選。從過去的抒情歌[單曲中選出](https://zh.wikipedia.org/wiki/單曲 "wikilink")13首，加上1首新歌，共14首歌曲。
-  - 雖然[SOUL LOVE和](../Page/SOUL_LOVE.md "wikilink")[Blue
-    Jean不算是正統的抒情歌](../Page/Blue_Jean.md "wikilink")，但[TAKURO針對此抒情精選的概念做了以下說明](https://zh.wikipedia.org/wiki/TAKURO "wikilink")：『這是一張不完全抒情歌的抒情精選，比起情歌的旋律反而注重歌詞內容的意涵。』
+  - 雖然[SOUL LOVE和](../Page/SOUL_LOVE.md "wikilink")[Blue Jean不算是正統的抒情歌](../Page/Blue_Jean.md "wikilink")，但[TAKURO針對此抒情精選的概念做了以下說明](https://zh.wikipedia.org/wiki/TAKURO "wikilink")：『這是一張不完全抒情歌的抒情精選，比起情歌的旋律反而注重歌詞內容的意涵。』
 
 ## 收錄曲目
 
@@ -12,12 +11,10 @@
 2.  **[Way of Difference](../Page/Way_of_Difference.md "wikilink")**
 3.  **[SOUL LOVE](../Page/SOUL_LOVE.md "wikilink")**
 4.  **[BELOVED](https://zh.wikipedia.org/wiki/BELOVED "wikilink")**
-5.  **[SPECIAL
-    THANKS](https://zh.wikipedia.org/wiki/SPECIAL_THANKS "wikilink")**
+5.  **[SPECIAL THANKS](https://zh.wikipedia.org/wiki/SPECIAL_THANKS "wikilink")**
 6.  **[Blue Jean](../Page/Blue_Jean.md "wikilink")**
 7.  **[期待相逢的心情](https://zh.wikipedia.org/wiki/期待相逢的心情 "wikilink")**
-8.  **[a
-    Boy〜一直無法忘懷〜](https://zh.wikipedia.org/wiki/a_Boy〜一直無法忘懷〜 "wikilink")**
+8.  **[a Boy〜一直無法忘懷〜](https://zh.wikipedia.org/wiki/a_Boy〜一直無法忘懷〜 "wikilink")**
 9.  **[HOWEVER](../Page/HOWEVER.md "wikilink")**
 10. **[永遠兩個人…](https://zh.wikipedia.org/wiki/永遠兩個人… "wikilink")**
 11. **[BE WITH YOU](../Page/BE_WITH_YOU.md "wikilink")**
@@ -30,8 +27,4 @@
   - [精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")
   - [REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")
 
-[Category:GLAY音樂專輯](https://zh.wikipedia.org/wiki/Category:GLAY音樂專輯 "wikilink")
-[Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
-[Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink")
-[Category:2005年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:EMI日本音樂專輯](https://zh.wikipedia.org/wiki/Category:EMI日本音樂專輯 "wikilink")
+[Category:GLAY音樂專輯](https://zh.wikipedia.org/wiki/Category:GLAY音樂專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink") [Category:2005年音樂專輯](https://zh.wikipedia.org/wiki/Category:2005年音樂專輯 "wikilink") [Category:2005年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon專輯週榜冠軍作品 "wikilink") [Category:EMI日本音樂專輯](https://zh.wikipedia.org/wiki/Category:EMI日本音樂專輯 "wikilink")

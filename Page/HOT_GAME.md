@@ -1,37 +1,17 @@
-**《HOT
-GAME》**（，）是韓國新銳男子組合[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")，於2012年7月11日由
-[DSP Media企劃](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")，CJ
-E\&M 所發行的第三張數位單曲。同年10月31日由UniversalSigma發行實體日語四版本。
+**《HOT GAME》**（，）是韓國新銳男子組合[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")，於2012年7月11日由 [DSP Media企劃](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")，CJ E\&M 所發行的第三張數位單曲。同年10月31日由UniversalSigma發行實體日語四版本。
 
 ## 單曲概要
 
-  - 距離前作〈[ONE 4
-    U](../Page/ONE_4_U.md "wikilink")〉的發行日期相隔不到兩個月的時間。且是為〈[ONE
-    4 U](../Page/ONE_4_U.md "wikilink")〉的後續曲。
-  - 本作《HOT
-    GAME》一曲先於2012年7月7日在[A-JAX舉辦](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")「Wing
-    Car計畫」釜山演出時公開。
-  - 本作於2012年7月11日零時正式在各音源網站公開音源\[1\]。再次請來擔任A-JAX出道單曲〈[ONE 4
-    U](../Page/ONE_4_U.md "wikilink")〉及先行單曲〈只知道你(Never let
-    go)〉的作曲家兼製作人STEVEN LEE製作此張單曲。特別這次的歌曲是由STEVEN
-    LEE和Snoop Dog，Brandy等知名的海外Artist與曾待在丹麥創作的Hit作曲家LASSE
-    LINDORFF共同製作的曲目，往返瑞典和美國加州，韓國製作的跨國國際化單曲\[2\]。亦收錄於[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")2012年8月8日發行的[ONE
-    4 U出道單曲限定豪華BOX盤中](../Page/ONE_4_U.md "wikilink")。
-  - 另2012年8月9日，UniversalSigma公告將於秋天發行實體日語版\[3\]。09月28日UniversalSigma與日本官方網站同步公告於10月31日實體發行《HOT
-    GAME》日語四版本，分為初回限定A版（CD+DVD）、初回限定B版（CD+寫真）、初回限定C版（CD+Song For You
-    cover of
-    [SS501](../Page/SS501.md "wikilink")），初回限定C版發售完畢後普通盤開始發行（內僅收錄2首曲目）。
-  - 2012年10月24日於Rekochoku、dwango.jp、music.jp、MU-MO四日本線上音源網站公開主打歌曲《HOT
-    GAME》來電答鈴，並從10月24日(水)0:00～10月30日（火）23：59止下載個別版本即贈成員單獨的圖像。
+  - 距離前作〈[ONE 4 U](../Page/ONE_4_U.md "wikilink")〉的發行日期相隔不到兩個月的時間。且是為〈[ONE 4 U](../Page/ONE_4_U.md "wikilink")〉的後續曲。
+  - 本作《HOT GAME》一曲先於2012年7月7日在[A-JAX舉辦](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")「Wing Car計畫」釜山演出時公開。
+  - 本作於2012年7月11日零時正式在各音源網站公開音源\[1\]。再次請來擔任A-JAX出道單曲〈[ONE 4 U](../Page/ONE_4_U.md "wikilink")〉及先行單曲〈只知道你(Never let go)〉的作曲家兼製作人STEVEN LEE製作此張單曲。特別這次的歌曲是由STEVEN LEE和Snoop Dog，Brandy等知名的海外Artist與曾待在丹麥創作的Hit作曲家LASSE LINDORFF共同製作的曲目，往返瑞典和美國加州，韓國製作的跨國國際化單曲\[2\]。亦收錄於[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")2012年8月8日發行的[ONE 4 U出道單曲限定豪華BOX盤中](../Page/ONE_4_U.md "wikilink")。
+  - 另2012年8月9日，UniversalSigma公告將於秋天發行實體日語版\[3\]。09月28日UniversalSigma與日本官方網站同步公告於10月31日實體發行《HOT GAME》日語四版本，分為初回限定A版（CD+DVD）、初回限定B版（CD+寫真）、初回限定C版（CD+Song For You cover of [SS501](../Page/SS501.md "wikilink")），初回限定C版發售完畢後普通盤開始發行（內僅收錄2首曲目）。
+  - 2012年10月24日於Rekochoku、dwango.jp、music.jp、MU-MO四日本線上音源網站公開主打歌曲《HOT GAME》來電答鈴，並從10月24日(水)0:00～10月30日（火）23：59止下載個別版本即贈成員單獨的圖像。
 
 ### 音樂錄影帶
 
-  - 原定2012年7月11日0時正式於官方YOUTUBE及音源網站公開第二張單曲《HOT GAME》
-    M/V\[4\]，因M/V外流提前於07月10日11時公開官方
-    M/V。M/V女主角由同公司前輩[KARA成員妮可出演](https://zh.wikipedia.org/wiki/KARA "wikilink")。內容為妮可飾演與A-JAX成員進行愛情拉鋸戰的妙齡女子。和A-JAX
-    7名成員展開縝密的愛情遊戲，展現似乎抓住又捕捉不到的致命魅力。這也是KARA繼具荷拉之後第二名成員應援後輩演出 M/V\[5\]。
-  - 日語版本MV於10月16日東京電視臺「恋セヨ♥ソウルMAP」凌晨01:00\~01:30公開\[6\]。成員統一穿著黑、白、紅三色的正裝，身處在具有強烈光影照射下的場景跳著與韓版相同的舞蹈動作，散發著與韓語版本截然不同的成熟性感男人味。日本音樂頻道SSTV單元「BIG
-    HITS！」於10月17日首播完整版本。
+  - 原定2012年7月11日0時正式於官方YOUTUBE及音源網站公開第二張單曲《HOT GAME》 M/V\[4\]，因M/V外流提前於07月10日11時公開官方 M/V。M/V女主角由同公司前輩[KARA成員妮可出演](https://zh.wikipedia.org/wiki/KARA "wikilink")。內容為妮可飾演與A-JAX成員進行愛情拉鋸戰的妙齡女子。和A-JAX 7名成員展開縝密的愛情遊戲，展現似乎抓住又捕捉不到的致命魅力。這也是KARA繼具荷拉之後第二名成員應援後輩演出 M/V\[5\]。
+  - 日語版本MV於10月16日東京電視臺「恋セヨ♥ソウルMAP」凌晨01:00\~01:30公開\[6\]。成員統一穿著黑、白、紅三色的正裝，身處在具有強烈光影照射下的場景跳著與韓版相同的舞蹈動作，散發著與韓語版本截然不同的成熟性感男人味。日本音樂頻道SSTV單元「BIG HITS！」於10月17日首播完整版本。
       - 導演：MOON MIN JU
 
 ## 曲目
@@ -39,12 +19,12 @@ E\&M 所發行的第三張數位單曲。同年10月31日由UniversalSigma發行
 > <small>
 >
 >
-> >
+>
 > 從遠處走來的new face
 >
-> >
+>
 > 生平第一次見到感覺top class
-> >
+>
 > 為何妳要避開我的眼神
 >
 > </small>
@@ -371,11 +351,9 @@ E\&M 所發行的第三張數位單曲。同年10月31日由UniversalSigma發行
   - [《A-JAX》官方Youtube頻道](http://www.youtube.com/dspAJAX)
   - [《A-JAX》日本官方網站](http://www.a-jax.jp/)
   - [《A-JAX》日本環球官方網站](http://www.universal-music.co.jp/a-jax)
-  - [NAVER MUSIC - A-JAX 第二張單曲〈HOT
-    GAME〉](http://music.naver.com/promotion/specialContent.nhn?articleId=3142)
+  - [NAVER MUSIC - A-JAX 第二張單曲〈HOT GAME〉](http://music.naver.com/promotion/specialContent.nhn?articleId=3142)
 
-[Category:A-JAX歌曲](https://zh.wikipedia.org/wiki/Category:A-JAX歌曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
+[Category:A-JAX歌曲](https://zh.wikipedia.org/wiki/Category:A-JAX歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
 
 1.
 

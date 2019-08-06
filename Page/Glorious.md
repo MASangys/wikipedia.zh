@@ -2,8 +2,7 @@
 
 ## 簡介
 
-  - 第2張原創專輯『[BEAT
-    out\!](https://zh.wikipedia.org/wiki/BEAT_out! "wikilink")』的先發單曲。
+  - 第2張原創專輯『[BEAT out\!](https://zh.wikipedia.org/wiki/BEAT_out! "wikilink")』的先發單曲。
   - GLAY第1張打入ORICON單曲榜前10名的作品。
 
 ## 收錄曲目
@@ -16,13 +15,8 @@
 
   - [BEAT out\!](https://zh.wikipedia.org/wiki/BEAT_out! "wikilink")
   - [REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")
-  - [DRIVE-GLAY complete
-    BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")
-  - [rare collectives
-    vol.1](https://zh.wikipedia.org/wiki/rare_collectives_vol.1 "wikilink")
-  - [THE GREAT VACATION VOL.2 〜SUPER BEST OF
-    GLAY〜](../Page/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜.md "wikilink")
+  - [DRIVE-GLAY complete BEST](../Page/DRIVE-GLAY_complete_BEST.md "wikilink")
+  - [rare collectives vol.1](https://zh.wikipedia.org/wiki/rare_collectives_vol.1 "wikilink")
+  - [THE GREAT VACATION VOL.2 〜SUPER BEST OF GLAY〜](../Page/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜.md "wikilink")
 
-[Category:1996年單曲](https://zh.wikipedia.org/wiki/Category:1996年單曲 "wikilink")
-[Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
+[Category:1996年單曲](https://zh.wikipedia.org/wiki/Category:1996年單曲 "wikilink") [Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")

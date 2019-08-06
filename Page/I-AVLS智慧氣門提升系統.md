@@ -1,5 +1,4 @@
-**i-AVLS智慧氣門提升系統**（i-**A**ctive **V**alve **L**ift
-**S**ystem）通常縮寫成「**i-AVLS**」，乃是由[日本](../Page/日本.md "wikilink")[富士重工業研發的](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")[可變氣門正時技術](https://zh.wikipedia.org/wiki/可變氣門正時 "wikilink")，可調整進、排氣閥門的開閉時間，除有助於加強馬力輸出，又可減少廢氣排放，專門使用於該公司的[自然進氣式引擎](https://zh.wikipedia.org/wiki/自然进气发动机 "wikilink")。
+**i-AVLS智慧氣門提升系統**（i-**A**ctive **V**alve **L**ift **S**ystem）通常縮寫成「**i-AVLS**」，乃是由[日本](../Page/日本.md "wikilink")[富士重工業研發的](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")[可變氣門正時技術](https://zh.wikipedia.org/wiki/可變氣門正時 "wikilink")，可調整進、排氣閥門的開閉時間，除有助於加強馬力輸出，又可減少廢氣排放，專門使用於該公司的[自然進氣式引擎](https://zh.wikipedia.org/wiki/自然进气发动机 "wikilink")。
 
 ## 工作原理
 
@@ -15,15 +14,12 @@ i-AVLS與該公司另一套[AVCS截然不同](../Page/AVCS主動閥門控制系�
 
 ## 外部連結
 
-  - [It's What Makes a Subaru, a Subaru: i-Active Valve Lift System
-    (AVLS)](https://web.archive.org/web/20120624171722/http://drive2.subaru.com/Spring07_whatmakes.htm)
+  - [It's What Makes a Subaru, a Subaru: i-Active Valve Lift System (AVLS)](https://web.archive.org/web/20120624171722/http://drive2.subaru.com/Spring07_whatmakes.htm)
 
 ## 參考資料
 
   - 《富士重工業の新型水平対向エンジン》，〈日経Automotive Technology〉2011年1月号，日経BP社。
 
-  - [It's What Makes a Subaru, a Subaru: i-Active Valve Lift System
-    (AVLS)](https://web.archive.org/web/20120624171722/http://drive2.subaru.com/Spring07_whatmakes.htm)
+  - [It's What Makes a Subaru, a Subaru: i-Active Valve Lift System (AVLS)](https://web.archive.org/web/20120624171722/http://drive2.subaru.com/Spring07_whatmakes.htm)
 
-[Category:发动机技术](https://zh.wikipedia.org/wiki/Category:发动机技术 "wikilink")
-[Category:速霸陸引擎與技術](https://zh.wikipedia.org/wiki/Category:速霸陸引擎與技術 "wikilink")
+[Category:发动机技术](https://zh.wikipedia.org/wiki/Category:发动机技术 "wikilink") [Category:速霸陸引擎與技術](https://zh.wikipedia.org/wiki/Category:速霸陸引擎與技術 "wikilink")

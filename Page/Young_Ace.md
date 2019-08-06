@@ -1,5 +1,4 @@
-《**Young
-Ace**》（）是創刊於2009年的[日本](../Page/日本.md "wikilink")月刊[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，[角川書店](../Page/角川書店.md "wikilink")出版。
+《**Young Ace**》（）是創刊於2009年的[日本](../Page/日本.md "wikilink")月刊[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，[角川書店](../Page/角川書店.md "wikilink")出版。
 
 ## 部份連載漫畫
 
@@ -127,11 +126,7 @@ Ace**》（）是創刊於2009年的[日本](../Page/日本.md "wikilink")月刊
 
   - [官方網站](http://www.kadokawa.co.jp/ya/)
 
-[Category:Young_Ace](https://zh.wikipedia.org/wiki/Category:Young_Ace "wikilink")
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:角川書店的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:角川書店的漫畫雜誌 "wikilink")
+[Category:Young_Ace](https://zh.wikipedia.org/wiki/Category:Young_Ace "wikilink") [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:角川書店的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:角川書店的漫畫雜誌 "wikilink")
 
 1.
 

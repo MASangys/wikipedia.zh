@@ -1,9 +1,6 @@
 ['Map'_on_Retina_Display.jpg](https://zh.wikipedia.org/wiki/File:'Map'_on_Retina_Display.jpg "fig:'Map'_on_Retina_Display.jpg")
 
-**Retina显示屏**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Retina
-Display**）是一种由[苹果公司设计和委托制造的显示屏](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，具备足够高像素密度而使得人体肉眼无法分辨其中单独像素点的液晶螢幕，最初采用该种屏幕的产品[iPhone
-4由執行長](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")于WWDC2010发布，其屏幕分辨率为960×640（[每英寸像素](../Page/每英寸像素.md "wikilink")数326ppi）。这种分辨率在正常观看距离下足以使人肉眼无法分辨其中的单独像素。\[1\]如今苹果正逐步将其推广到全线产品之上，同時隨著技術的提升，蘋果也推出了Retina
-HD與Super Retina等不同規格的Retina高分辨率螢幕。
+**Retina显示屏**（[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：**Retina Display**）是一种由[苹果公司设计和委托制造的显示屏](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，具备足够高像素密度而使得人体肉眼无法分辨其中单独像素点的液晶螢幕，最初采用该种屏幕的产品[iPhone 4由執行長](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")于WWDC2010发布，其屏幕分辨率为960×640（[每英寸像素](../Page/每英寸像素.md "wikilink")数326ppi）。这种分辨率在正常观看距离下足以使人肉眼无法分辨其中的单独像素。\[1\]如今苹果正逐步将其推广到全线产品之上，同時隨著技術的提升，蘋果也推出了Retina HD與Super Retina等不同規格的Retina高分辨率螢幕。
 
 ## 特点及规格
 
@@ -30,6 +27,7 @@ HD與Super Retina等不同規格的Retina高分辨率螢幕。
 | [Macbook Pro](https://zh.wikipedia.org/wiki/MacBook_Pro#第三代产品\(With_Retina_Display\) "wikilink") (3rd-Gen;4th-Gen) <span style="color:#969696">*(15")*                                                                                                                                                                                                                                                        | IPS                      | 15.4                                                            | 2880x1800                                | 220         | 16:10   |
 | [iMac with Retina 4K display](https://zh.wikipedia.org/wiki/iMac "wikilink") <span style="color:#969696">*(21.5")*                                                                                                                                                                                                                                                                                            | Oxide TFT, IPS           | 21.5                                                            | [4096×2304](../Page/4K解析度.md "wikilink") | 219         | 16:9    |
 | [iMac with Retina 5K display](https://zh.wikipedia.org/wiki/iMac "wikilink") <span style="color:#969696">*(27")*                                                                                                                                                                                                                                                                                              | Oxide TFT, IPS           | 27                                                              | 5120x2880                                | 218         | 16:9    |
+| **Pro Display XDR**                                                                                                                                                                                                                                                                                                                                                                                           | IPS(TFT)                 | 32                                                              | 6016 x 3384                              | 218         | 16:9    |
 
 ## 理论依据
 
@@ -37,39 +35,23 @@ HD與Super Retina等不同規格的Retina高分辨率螢幕。
 
 \(a=2\arctan\left(\frac h{2d}\right)\)
 
-其中 \(a\) 代表人眼视角，\(h\) 代表像素间距，\(d\)
-代表肉眼与屏幕的距离。符合以上条件的屏幕可以使肉眼看不见单个物理像素点。这样的IPS屏幕就可被苹果称作“Retina显示屏”。将通常使用距离及正常眼能区分屏幕上两点的最小视角约为1’代入上公式可知：行动电话显示器的像素密度达到或高于300ppi就不会再出现颗粒感；手持平板类电器显示器的像素密度达到或高于260ppi就不会再出现颗粒感，而苹果行动电脑的Retina显示器像素密度只要超过200ppi就无法区分出单独的像素。
+其中 \(a\) 代表人眼视角，\(h\) 代表像素间距，\(d\) 代表肉眼与屏幕的距离。符合以上条件的屏幕可以使肉眼看不见单个物理像素点。这样的IPS屏幕就可被苹果称作“Retina显示屏”。将通常使用距离及正常眼能区分屏幕上两点的最小视角约为1’代入上公式可知：行动电话显示器的像素密度达到或高于300ppi就不会再出现颗粒感；手持平板类电器显示器的像素密度达到或高于260ppi就不会再出现颗粒感，而苹果行动电脑的Retina显示器像素密度只要超过200ppi就无法区分出单独的像素。
 
 ## 工作方式
 
-以[MacBook Pro with Retina
-Display](https://zh.wikipedia.org/wiki/MacBook_Pro#第三代产品\(With_Retina_Display\) "wikilink")\[3\]为例，工作时[显卡渲染出](https://zh.wikipedia.org/wiki/显卡 "wikilink")2880x1800个像素，其中每四个像素一组，输出原来屏幕的一个像素显示的大小区域内的图像。这样一来，用户所看到的图标与文字的大小与原来的1440x900分辨率显示屏相同，但精细度是原来的4倍，但对于特殊元素，如视频与图像，则以一个图片像素对应一个屏幕像素的方式显示。故不会产生[Windows中分辨率提升使屏幕文字與圖像变小](https://zh.wikipedia.org/wiki/Windows "wikilink")，造成阅读困难的问题。这样在设计软件时只需将所有的UI元素的精细度都提高到原来的4倍就可以既保持了观看舒适度，又提高了显示效果。关于[iOS设备](https://zh.wikipedia.org/wiki/iOS设备列表 "wikilink")，也由四个像素代替原来一个像素，透过下图对比就可以较明显地观察到这种关系。
+以[MacBook Pro with Retina Display](https://zh.wikipedia.org/wiki/MacBook_Pro#第三代产品\(With_Retina_Display\) "wikilink")\[3\]为例，工作时[显卡渲染出](https://zh.wikipedia.org/wiki/显卡 "wikilink")2880x1800个像素，其中每四个像素一组，输出原来屏幕的一个像素显示的大小区域内的图像。这样一来，用户所看到的图标与文字的大小与原来的1440x900分辨率显示屏相同，但精细度是原来的4倍，但对于特殊元素，如视频与图像，则以一个图片像素对应一个屏幕像素的方式显示。故不会产生[Windows中分辨率提升使屏幕文字與圖像变小](https://zh.wikipedia.org/wiki/Windows "wikilink")，造成阅读困难的问题。这样在设计软件时只需将所有的UI元素的精细度都提高到原来的4倍就可以既保持了观看舒适度，又提高了显示效果。关于[iOS设备](https://zh.wikipedia.org/wiki/iOS设备列表 "wikilink")，也由四个像素代替原来一个像素，透过下图对比就可以较明显地观察到这种关系。
 
-image:Non-Retina Display.jpg|iPhone 3GS Image:Retina Display.jpg|iPhone
-4
+image:Non-Retina Display.jpg|iPhone 3GS Image:Retina Display.jpg|iPhone 4
 
 ## 缺陷分析
 
 ### 软件技术
 
-在iPhone的Retina显示屏刚问世时，支持Retina显示屏的软件技术还没有完全成熟。2010年刚发布[iPhone
-4时](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")，尽管[App
-Store中并没有大量支持Retina的应用](https://zh.wikipedia.org/wiki/App_Store "wikilink")，但由于iPhone的屏幕宽高比并没有改变，仅需将图像文件增加到原有的4倍大小即可。因此大多数软件开发者迅速更新了自己的软件来支持[iPhone
-4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")，软件技术日渐成熟。但当时因为还有普通屏幕的[iPhone在販售](https://zh.wikipedia.org/wiki/iPhone "wikilink")，所以一款软件要同时支持两种屏幕，导致软件包较大。而目前，随着[iPhone
-3GS的退市](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")，市面上所有在售的iPhone均配备了Retina显示屏，[App
-Store中大部分应用均只支持Retina显示屏](https://zh.wikipedia.org/wiki/App_Store "wikilink")，软件包的大小较之前小了一些。对于[iPhone
-5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")，因为[Xcode](../Page/Xcode.md "wikilink")中具备了应用自动排版的功能，所以尽管[iPhone
-5的屏幕变大了](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")（仅高度由115.2毫米变为123.8毫米，宽度不变），但[App
-Store上的软件都能很容易地重新编排来适应](https://zh.wikipedia.org/wiki/App_Store "wikilink")[iPhone
-5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")。[iPad with Retina
-Display问世以后](https://zh.wikipedia.org/wiki/iPad_\(第四代\) "wikilink")，。[Macbook
-Pro With Retina
-Display也如此](https://zh.wikipedia.org/wiki/MacBook_Pro#2012年Retina_Display产品（3rd-Gen） "wikilink")，第三方软件公司推出软件更新只是时间问题。
+在iPhone的Retina显示屏刚问世时，支持Retina显示屏的软件技术还没有完全成熟。2010年刚发布[iPhone 4时](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")，尽管[App Store中并没有大量支持Retina的应用](https://zh.wikipedia.org/wiki/App_Store "wikilink")，但由于iPhone的屏幕宽高比并没有改变，仅需将图像文件增加到原有的4倍大小即可。因此大多数软件开发者迅速更新了自己的软件来支持[iPhone 4](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")，软件技术日渐成熟。但当时因为还有普通屏幕的[iPhone在販售](https://zh.wikipedia.org/wiki/iPhone "wikilink")，所以一款软件要同时支持两种屏幕，导致软件包较大。而目前，随着[iPhone 3GS的退市](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")，市面上所有在售的iPhone均配备了Retina显示屏，[App Store中大部分应用均只支持Retina显示屏](https://zh.wikipedia.org/wiki/App_Store "wikilink")，软件包的大小较之前小了一些。对于[iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")，因为[Xcode](../Page/Xcode.md "wikilink")中具备了应用自动排版的功能，所以尽管[iPhone 5的屏幕变大了](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")（仅高度由115.2毫米变为123.8毫米，宽度不变），但[App Store上的软件都能很容易地重新编排来适应](https://zh.wikipedia.org/wiki/App_Store "wikilink")[iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink")。[iPad with Retina Display问世以后](https://zh.wikipedia.org/wiki/iPad_\(第四代\) "wikilink")，。[Macbook Pro With Retina Display也如此](https://zh.wikipedia.org/wiki/MacBook_Pro#2012年Retina_Display产品（3rd-Gen） "wikilink")，第三方软件公司推出软件更新只是时间问题。
 
 ### 硬件技术
 
-在2012年推出15英寸[MacBook Pro with Retina
-Display后](https://zh.wikipedia.org/wiki/MacBook_Pro#第三代产品\(With_Retina_Display\) "wikilink")，由于个别面版的缺陷，一些用户反映电脑的显示屏出现了残影和抖动，使得使用受到影响。理论上所有的液晶萤幕或多或少都会有残影现象发生，不过有个别用户指出他们的电脑需要五分钟才能让萤幕残影消失，对于一台专业产品来说，那些用户无法接受。\[4\]苹果亦会为这些用户提供产品更换服务。
+在2012年推出15英寸[MacBook Pro with Retina Display后](https://zh.wikipedia.org/wiki/MacBook_Pro#第三代产品\(With_Retina_Display\) "wikilink")，由于个别面版的缺陷，一些用户反映电脑的显示屏出现了残影和抖动，使得使用受到影响。理论上所有的液晶萤幕或多或少都会有残影现象发生，不过有个别用户指出他们的电脑需要五分钟才能让萤幕残影消失，对于一台专业产品来说，那些用户无法接受。\[4\]苹果亦会为这些用户提供产品更换服务。
 
 ## 用户体验
 
@@ -79,16 +61,9 @@ Display后](https://zh.wikipedia.org/wiki/MacBook_Pro#第三代产品\(With_Reti
 
 <references />
 
-[Category:笔记型电脑](https://zh.wikipedia.org/wiki/Category:笔记型电脑 "wikilink")
-[Category:蘋果公司硬體](https://zh.wikipedia.org/wiki/Category:蘋果公司硬體 "wikilink")
-[Category:IPhone](https://zh.wikipedia.org/wiki/Category:IPhone "wikilink")
-[Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink")
+[Category:笔记型电脑](https://zh.wikipedia.org/wiki/Category:笔记型电脑 "wikilink") [Category:蘋果公司硬體](https://zh.wikipedia.org/wiki/Category:蘋果公司硬體 "wikilink") [Category:IPhone](https://zh.wikipedia.org/wiki/Category:IPhone "wikilink") [Category:IPad](https://zh.wikipedia.org/wiki/Category:IPad "wikilink")
 
-1.  [Apple中国：iPhone 4 - 视频通话、多任务处理、HD
-    高清视频以及更多](http://www.apple.com.cn/channel/iphone/iphone-4/tour#features-retina)
-
+1.  [Apple中国：iPhone 4 - 视频通话、多任务处理、HD 高清视频以及更多](http://www.apple.com.cn/channel/iphone/iphone-4/tour#features-retina)
 2.  [Apple香港：iPad的Retina-Display](http://www.apple.com/hk/ipad/features/)
-3.  [Apple台灣：MacBook
-    Pro的Retina-Display](http://www.apple.com/tw/macbook-pro/features-retina/)
-4.  该屏幕有两个主要供应商：LG Display和Samsung。一些用户指出，出现问题的均为LG
-    Display的屏幕，Samsung屏幕没有发现该问题。
+3.  [Apple台灣：MacBook Pro的Retina-Display](http://www.apple.com/tw/macbook-pro/features-retina/)
+4.  该屏幕有两个主要供应商：LG Display和Samsung。一些用户指出，出现问题的均为LG Display的屏幕，Samsung屏幕没有发现该问题。

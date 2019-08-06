@@ -13,24 +13,11 @@ Vanillaware原本是1997年登陆[世嘉土星](../Page/世嘉土星.md "wikilin
 ## 公司成员
 
 神谷盛治
-VanillaWare有限公司代表董事，出生于[广岛县](https://zh.wikipedia.org/wiki/广岛县 "wikilink")。
-PC-88 版本的北欧神话背景的幻想作品（[The Black
-Onyx](https://zh.wikipedia.org/wiki/The_Black_Onyx "wikilink")）给他留下了深刻印象。
-在学校的时候, 他曾在一家游戏制作分包商做兼职, 从图形制作到项目策划,
-获得了广泛的经验。他以新的研究生规划员的身份加入了[Capcom](https://zh.wikipedia.org/wiki/Capcom "wikilink"),
-在做了几项作品后就离开了。此后, VanillaWare成立后,
-参与了[Atlus](../Page/Atlus.md "wikilink"), 索尼电脑娱乐, [Square
-enix等公司的项目](../Page/史克威尔艾尼克斯.md "wikilink")，直到现在。
+VanillaWare有限公司代表董事，出生于[广岛县](https://zh.wikipedia.org/wiki/广岛县 "wikilink")。 PC-88 版本的北欧神话背景的幻想作品（[The Black Onyx](https://zh.wikipedia.org/wiki/The_Black_Onyx "wikilink")）给他留下了深刻印象。 在学校的时候, 他曾在一家游戏制作分包商做兼职, 从图形制作到项目策划, 获得了广泛的经验。他以新的研究生规划员的身份加入了[Capcom](https://zh.wikipedia.org/wiki/Capcom "wikilink"), 在做了几项作品后就离开了。此后, VanillaWare成立后, 参与了[Atlus](../Page/Atlus.md "wikilink"), 索尼电脑娱乐, [Square enix等公司的项目](../Page/史克威尔艾尼克斯.md "wikilink")，直到现在。
 
-他的作品主要以精致的图案与美丽的角色描写[中世纪](../Page/中世纪.md "wikilink")西方的剑与魔法的奇幻世界。然而，在[Capcom](https://zh.wikipedia.org/wiki/Capcom "wikilink")
-时代，因为已经有大量的优秀的图形设计师,
-如akiman和西村绢，他认为“自己再画也没办法了”，于是他选择了做专职策划。“对于画的认识，在当时发生了可观的改变”。
+他的作品主要以精致的图案与美丽的角色描写[中世纪](../Page/中世纪.md "wikilink")西方的剑与魔法的奇幻世界。然而，在[Capcom](https://zh.wikipedia.org/wiki/Capcom "wikilink") 时代，因为已经有大量的优秀的图形设计师, 如akiman和西村绢，他认为“自己再画也没办法了”，于是他选择了做专职策划。“对于画的认识，在当时发生了可观的改变”。
 
-自2008年起, 他就开始使用全数字化绘图工具。他在不使用图层功能的情况下描绘多层背景,
-需要在不要的时候把涂过的背景全部擦干净。这个操作“非常低效率，不想被人看到。忙完手上的事情我得去学习了”。
-在采访中他说 "我脑中有很多想做的作品，但时间不够",
-"我想把更多的精力投入到全新作品而不是[续集与](https://zh.wikipedia.org/wiki/续集 "wikilink")[重制版](https://zh.wikipedia.org/wiki/重制版 "wikilink")",
-"我想到死之前想一直做游戏,尽可能地通过游戏实现更多的构想" 。
+自2008年起, 他就开始使用全数字化绘图工具。他在不使用图层功能的情况下描绘多层背景, 需要在不要的时候把涂过的背景全部擦干净。这个操作“非常低效率，不想被人看到。忙完手上的事情我得去学习了”。 在采访中他说 "我脑中有很多想做的作品，但时间不够", "我想把更多的精力投入到全新作品而不是[续集与](https://zh.wikipedia.org/wiki/续集 "wikilink")[重制版](https://zh.wikipedia.org/wiki/重制版 "wikilink")", "我想到死之前想一直做游戏,尽可能地通过游戏实现更多的构想" 。
 
 ## 作品
 
@@ -118,9 +105,7 @@ enix等公司的项目](../Page/史克威尔艾尼克斯.md "wikilink")，直到
 
   - [官方网站](http://vanillaware.co.jp/)
 
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink")
-[Category:2002年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2002年開業電子遊戲公司 "wikilink")
+[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink") [Category:2002年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2002年開業電子遊戲公司 "wikilink")
 
 1.  飛鳥新社『季刊エス』2008年1月号
 

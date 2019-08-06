@@ -1,5 +1,4 @@
-《**少年-{zh-hant:Pi;zh-cn:派;zh-sg:Pi;}-的奇幻漂流**》（；簡稱《**少年-{zh-hant:Pi;zh-cn:派;zh-sg:Pi;}-**》）是一部[李安](../Page/李安.md "wikilink")执导的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[3D电影](https://zh.wikipedia.org/wiki/3D电影 "wikilink")，于2012年11月21日上映，编剧[David
-Magee根据](https://zh.wikipedia.org/wiki/David_Magee "wikilink")[加拿大](../Page/加拿大.md "wikilink")作家[扬·马特尔于](https://zh.wikipedia.org/wiki/扬·马特尔 "wikilink")2001年发表的[同名小说改编而成](../Page/少年Pi的奇幻漂流.md "wikilink")。印度演員[苏拉·沙玛](../Page/苏拉·沙玛.md "wikilink")飾演主角「-{Pi}-」（又譯「-{派}-」）。
+《**少年-{zh-hant:Pi;zh-cn:派;zh-sg:Pi;}-的奇幻漂流**》（；簡稱《**少年-{zh-hant:Pi;zh-cn:派;zh-sg:Pi;}-**》）是一部[李安](../Page/李安.md "wikilink")执导的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[3D电影](https://zh.wikipedia.org/wiki/3D电影 "wikilink")，于2012年11月21日上映，编剧[David Magee根据](https://zh.wikipedia.org/wiki/David_Magee "wikilink")[加拿大](../Page/加拿大.md "wikilink")作家[扬·马特尔于](https://zh.wikipedia.org/wiki/扬·马特尔 "wikilink")2001年发表的[同名小说改编而成](../Page/少年Pi的奇幻漂流.md "wikilink")。印度演員[苏拉·沙玛](../Page/苏拉·沙玛.md "wikilink")飾演主角「-{Pi}-」（又譯「-{派}-」）。
 
 影片收获了很好的口碑和6.09亿美元的全球票房，本片为摄影师[克劳迪奥·米兰达](../Page/克劳迪奥·米兰达.md "wikilink")赢得多个影评人协会奖的最佳摄影奖，更获得[第85届奥斯卡金像奖最佳导演](https://zh.wikipedia.org/wiki/第85届奥斯卡金像奖 "wikilink")、摄影、配乐和视觉效果四个奖项，让李安继《[断背山](https://zh.wikipedia.org/wiki/断背山 "wikilink")》后赢得第二座[奥斯卡最佳导演奖](../Page/奥斯卡最佳导演奖.md "wikilink")。
 
@@ -7,14 +6,9 @@ Magee根据](https://zh.wikipedia.org/wiki/David_Magee "wikilink")[加拿大](..
 
 派西尼·莫利托·帕特尔（綽號「-{Pi}-」）是個出身[印度](../Page/印度.md "wikilink")的男孩，他熱愛宗教（他同時信仰[基督教](../Page/基督教.md "wikilink")、[印度教](../Page/印度教.md "wikilink")及[伊斯蘭教](https://zh.wikipedia.org/wiki/伊斯蘭教 "wikilink")），由于家裡開[動物園](../Page/動物園.md "wikilink")，對[動物十分了解](https://zh.wikipedia.org/wiki/動物 "wikilink")，有一對愛他的父母跟一個哥哥拉維。1976年2月，印度的[塔米納杜政府解體](../Page/泰米尔纳德邦.md "wikilink")，皮辛的爸爸認為這是[甘地夫人踏上極權](https://zh.wikipedia.org/wiki/甘地夫人 "wikilink")[專制](../Page/專制.md "wikilink")之路的最-{zh:後;zh-hans:后;zh-hant:後;}-一擊，於是決定舉家遷移到[加拿大](../Page/加拿大.md "wikilink")。
 
-在前往加拿大的過程中，他們以及他們動物園的動物所搭乘的[輪船](../Page/輪船.md "wikilink")「奇桑號」因為一場[暴風雨意外沉沒](https://zh.wikipedia.org/wiki/暴風雨 "wikilink")。在混亂之中，Pi
-被[水手](../Page/水手.md "wikilink")丟上一艘載滿動物的[救生艇](https://zh.wikipedia.org/wiki/救生艇 "wikilink")，上面有一隻[斑馬](../Page/斑馬.md "wikilink")、一隻[鬣狗](https://zh.wikipedia.org/wiki/鬣狗 "wikilink")、一隻[紅毛猩猩及一隻](https://zh.wikipedia.org/wiki/紅毛猩猩 "wikilink")[孟加拉虎](../Page/孟加拉虎.md "wikilink")Richard
-Parker。Pi
-運用他的動物知識與動物和平共處，靠著宗教信仰堅定意志，开始了他在[太平洋的奇幻漂流](https://zh.wikipedia.org/wiki/太平洋 "wikilink")。
+在前往加拿大的過程中，他們以及他們動物園的動物所搭乘的[輪船](../Page/輪船.md "wikilink")「奇桑號」因為一場[暴風雨意外沉沒](https://zh.wikipedia.org/wiki/暴風雨 "wikilink")。在混亂之中，Pi 被[水手](../Page/水手.md "wikilink")丟上一艘載滿動物的[救生艇](https://zh.wikipedia.org/wiki/救生艇 "wikilink")，上面有一隻[斑馬](../Page/斑馬.md "wikilink")、一隻[鬣狗](https://zh.wikipedia.org/wiki/鬣狗 "wikilink")、一隻[紅毛猩猩及一隻](https://zh.wikipedia.org/wiki/紅毛猩猩 "wikilink")[孟加拉虎](../Page/孟加拉虎.md "wikilink")Richard Parker。Pi 運用他的動物知識與動物和平共處，靠著宗教信仰堅定意志，开始了他在[太平洋的奇幻漂流](https://zh.wikipedia.org/wiki/太平洋 "wikilink")。
 
-Pi 獲救之後，日本海運公司人員來到 Pi 的病床來了解狀況。Pi 照實說出了動物版本：鬣狗殺了斑馬和猩猩之後被孟加拉虎殺掉，剩下 Pi
-和老虎共存在船上。海運公司人員沒有相信，并再三要求 Pi 說出真相。Pi 隨後就說了人類版本：廚師殺了水手跟 Pi 的母親之後被
-Pi 殺掉；鬣狗代表廚師，斑馬代表水手，猩猩代表母親，而老虎就代表 Pi 的獸性本能。
+Pi 獲救之後，日本海運公司人員來到 Pi 的病床來了解狀況。Pi 照實說出了動物版本：鬣狗殺了斑馬和猩猩之後被孟加拉虎殺掉，剩下 Pi 和老虎共存在船上。海運公司人員沒有相信，并再三要求 Pi 說出真相。Pi 隨後就說了人類版本：廚師殺了水手跟 Pi 的母親之後被 Pi 殺掉；鬣狗代表廚師，斑馬代表水手，猩猩代表母親，而老虎就代表 Pi 的獸性本能。
 
 ## 故事版本差異
 
@@ -118,13 +112,11 @@ Buddhist Sailor</p></td>
 
 ## 制作
 
-影片投资1.2亿美元\[1\]，David
-Magee担任编剧工作。导演花了好几个月寻找男主角Pi的演員，最终17岁的新人蘇拉·沙瑪于2010年10月从3000名挑选者中脱颖而出。2011年1月开拍，拍摄地包括[臺北市立動物園](https://zh.wikipedia.org/wiki/臺北市立動物園 "wikilink")、[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[水湳經貿園區和](https://zh.wikipedia.org/wiki/水湳經貿園區 "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")的[墾丁國家公園](../Page/墾丁國家公園.md "wikilink")等地，以及[印度](../Page/印度.md "wikilink")[本地治里](../Page/本地治里.md "wikilink")等地\[2\]\[3\]\[4\]。
+影片投资1.2亿美元\[1\]，David Magee担任编剧工作。导演花了好几个月寻找男主角Pi的演員，最终17岁的新人蘇拉·沙瑪于2010年10月从3000名挑选者中脱颖而出。2011年1月开拍，拍摄地包括[臺北市立動物園](https://zh.wikipedia.org/wiki/臺北市立動物園 "wikilink")、[臺中市](https://zh.wikipedia.org/wiki/臺中市 "wikilink")[水湳經貿園區和](https://zh.wikipedia.org/wiki/水湳經貿園區 "wikilink")[屏東縣](../Page/屏東縣.md "wikilink")的[墾丁國家公園](../Page/墾丁國家公園.md "wikilink")等地，以及[印度](../Page/印度.md "wikilink")[本地治里](../Page/本地治里.md "wikilink")等地\[2\]\[3\]\[4\]。
 
 ### 音樂
 
-原聲帶結合東西方聲韻，由來自[加拿大](../Page/加拿大.md "wikilink")的配樂家[麥可·唐納](../Page/麥可·唐納.md "wikilink")（Mychael
-Danna）製作。本片係麥克繼《[冰風暴](../Page/冰風暴.md "wikilink")》、《[與魔鬼共騎](../Page/與魔鬼共騎.md "wikilink")》後，三度與李安合作。麥可主要利用[管弦樂的搭配](https://zh.wikipedia.org/wiki/管弦樂 "wikilink")，呈現海浪來襲的不安定感，充斥著危險、緊張與和平，人獸之間命懸一念之氣氛。
+原聲帶結合東西方聲韻，由來自[加拿大](../Page/加拿大.md "wikilink")的配樂家[麥可·唐納](../Page/麥可·唐納.md "wikilink")（Mychael Danna）製作。本片係麥克繼《[冰風暴](../Page/冰風暴.md "wikilink")》、《[與魔鬼共騎](../Page/與魔鬼共騎.md "wikilink")》後，三度與李安合作。麥可主要利用[管弦樂的搭配](https://zh.wikipedia.org/wiki/管弦樂 "wikilink")，呈現海浪來襲的不安定感，充斥著危險、緊張與和平，人獸之間命懸一念之氣氛。
 
 ### 原聲帶曲目
 
@@ -136,7 +128,7 @@ Danna）製作。本片係麥克繼《[冰風暴](../Page/冰風暴.md "wikilink
 
 ## 票房
 
-北美首周末收获2200万美元，名列第五位\[9\]。北美票房持續穩定長賣，累積達1.24億美元，海北美外總票房4.84億美元，最終總票房6.09億美元\[10\]，為李安電影作品中票房最高的一部。奧斯卡獎頒發前票房約5.7億美元，與之後6.09億美元的總票房相比，奧斯卡效應貢獻少許票房\[11\]。
+北美首周末收获2200万美元，名列第五位\[9\]。北美票房持續穩定長賣，累積達1.24億美元，北美和全球總票房4.84億美元，最終總票房6.09億美元\[10\]，為李安電影作品中票房最高的一部。奧斯卡獎頒發前票房約5.7億美元，與之後6.09億美元的總票房相比，奧斯卡效應貢獻少許票房\[11\]。
 
 台灣方面，首日票房為新台幣750萬元\[12\]；首週五天票房為新台幣6500萬元\[13\]；上映9天，全台票房破億\[14\]；次週票房累計至新台幣1.8億元\[15\]；第三週票房累計至新台幣2.75億元\[16\]；第四週票房累計至新台幣3.5億元\[17\]；第五週票房累計至新台幣3.9億元\[18\]，連霸全台五週週末票房冠軍\[19\]；上映第八週時，因奧斯卡公布入圍名單，再度奪回周末冠軍寶座，第八週票房累計至直逼新台幣5億元\[20\]；最終全台票房為新台幣5.5億元\[21\]，位居[2012年全台票房第2名](https://zh.wikipedia.org/wiki/台灣電影年度票房列表#2012年 "wikilink")。
 
@@ -870,49 +862,16 @@ Editors: Kam Chan, Jamie Baker</p></td>
   -
   - [网易专题报道](http://ent.163.com/special/lifeofpi/)
 
-  - [少年PI的奇幻旅程（Life of
-    Pi）](http://thehkneo.com/blog/?p=2757)，〈[澳大利亚電影評論學會](https://zh.wikipedia.org/wiki/澳大利亚電影評論學會 "wikilink")〉
+  - [少年PI的奇幻旅程（Life of Pi）](http://thehkneo.com/blog/?p=2757)，〈[澳大利亚電影評論學會](https://zh.wikipedia.org/wiki/澳大利亚電影評論學會 "wikilink")〉
 
-[Category:2012年电影](https://zh.wikipedia.org/wiki/Category:2012年电影 "wikilink")
-[Category:2012年3D电影](https://zh.wikipedia.org/wiki/Category:2012年3D电影 "wikilink")
-[Category:李安电影](https://zh.wikipedia.org/wiki/Category:李安电影 "wikilink")
-[Category:美国电影作品](https://zh.wikipedia.org/wiki/Category:美国电影作品 "wikilink")
-[Category:美国3D电影](https://zh.wikipedia.org/wiki/Category:美国3D电影 "wikilink")
-[Category:美國奇幻電影](https://zh.wikipedia.org/wiki/Category:美國奇幻電影 "wikilink")
-[Category:美国冒险片](https://zh.wikipedia.org/wiki/Category:美国冒险片 "wikilink")
-[Category:美国剧情片](https://zh.wikipedia.org/wiki/Category:美国剧情片 "wikilink")
-[Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink")
-[Category:加拿大小说改编电影](https://zh.wikipedia.org/wiki/Category:加拿大小说改编电影 "wikilink")
-[Category:敘事者不可靠的作品](https://zh.wikipedia.org/wiki/Category:敘事者不可靠的作品 "wikilink")
-[Category:宗教題材電影](https://zh.wikipedia.org/wiki/Category:宗教題材電影 "wikilink")
-[Category:遇难漂流题材作品](https://zh.wikipedia.org/wiki/Category:遇难漂流题材作品 "wikilink")
-[Category:人吃人題材電影](https://zh.wikipedia.org/wiki/Category:人吃人題材電影 "wikilink")
-[Category:2010年代剧情片](https://zh.wikipedia.org/wiki/Category:2010年代剧情片 "wikilink")
-[Category:2010年代冒险片](https://zh.wikipedia.org/wiki/Category:2010年代冒险片 "wikilink")
-[Category:2010年代奇幻片](https://zh.wikipedia.org/wiki/Category:2010年代奇幻片 "wikilink")
-[Category:IMAX电影](https://zh.wikipedia.org/wiki/Category:IMAX电影 "wikilink")
-[Category:1990年代背景电影](https://zh.wikipedia.org/wiki/Category:1990年代背景电影 "wikilink")
-[Category:印度背景电影](https://zh.wikipedia.org/wiki/Category:印度背景电影 "wikilink")
-[Category:印度取景电影](https://zh.wikipedia.org/wiki/Category:印度取景电影 "wikilink")
-[Category:太平洋背景電影](https://zh.wikipedia.org/wiki/Category:太平洋背景電影 "wikilink")
-[Category:蒙特利尔取景电影](https://zh.wikipedia.org/wiki/Category:蒙特利尔取景电影 "wikilink")
-[Category:屏東縣取景電影](https://zh.wikipedia.org/wiki/Category:屏東縣取景電影 "wikilink")
-[Category:臺中市取景電影](https://zh.wikipedia.org/wiki/Category:臺中市取景電影 "wikilink")
-[Category:奧斯卡最佳原創配樂獲獎電影](https://zh.wikipedia.org/wiki/Category:奧斯卡最佳原創配樂獲獎電影 "wikilink")
-[Category:奧斯卡最佳導演獲獎電影](https://zh.wikipedia.org/wiki/Category:奧斯卡最佳導演獲獎電影 "wikilink")
-[Category:奧斯卡最佳攝影獲獎電影](https://zh.wikipedia.org/wiki/Category:奧斯卡最佳攝影獲獎電影 "wikilink")
-[Category:奥斯卡最佳视觉效果获奖电影](https://zh.wikipedia.org/wiki/Category:奥斯卡最佳视觉效果获奖电影 "wikilink")
-[Category:英国电影学院奖最佳摄影获奖电影](https://zh.wikipedia.org/wiki/Category:英国电影学院奖最佳摄影获奖电影 "wikilink")
+[Category:2012年电影](https://zh.wikipedia.org/wiki/Category:2012年电影 "wikilink") [Category:2012年3D电影](https://zh.wikipedia.org/wiki/Category:2012年3D电影 "wikilink") [Category:李安电影](https://zh.wikipedia.org/wiki/Category:李安电影 "wikilink") [Category:美国电影作品](https://zh.wikipedia.org/wiki/Category:美国电影作品 "wikilink") [Category:美国3D电影](https://zh.wikipedia.org/wiki/Category:美国3D电影 "wikilink") [Category:美國奇幻電影](https://zh.wikipedia.org/wiki/Category:美國奇幻電影 "wikilink") [Category:美国冒险片](https://zh.wikipedia.org/wiki/Category:美国冒险片 "wikilink") [Category:美国剧情片](https://zh.wikipedia.org/wiki/Category:美国剧情片 "wikilink") [Category:英语电影](https://zh.wikipedia.org/wiki/Category:英语电影 "wikilink") [Category:加拿大小说改编电影](https://zh.wikipedia.org/wiki/Category:加拿大小说改编电影 "wikilink") [Category:敘事者不可靠的作品](https://zh.wikipedia.org/wiki/Category:敘事者不可靠的作品 "wikilink") [Category:宗教題材電影](https://zh.wikipedia.org/wiki/Category:宗教題材電影 "wikilink") [Category:遇难漂流题材作品](https://zh.wikipedia.org/wiki/Category:遇难漂流题材作品 "wikilink") [Category:人吃人題材電影](https://zh.wikipedia.org/wiki/Category:人吃人題材電影 "wikilink") [Category:2010年代剧情片](https://zh.wikipedia.org/wiki/Category:2010年代剧情片 "wikilink") [Category:2010年代冒险片](https://zh.wikipedia.org/wiki/Category:2010年代冒险片 "wikilink") [Category:2010年代奇幻片](https://zh.wikipedia.org/wiki/Category:2010年代奇幻片 "wikilink") [Category:IMAX电影](https://zh.wikipedia.org/wiki/Category:IMAX电影 "wikilink") [Category:1990年代背景电影](https://zh.wikipedia.org/wiki/Category:1990年代背景电影 "wikilink") [Category:印度背景电影](https://zh.wikipedia.org/wiki/Category:印度背景电影 "wikilink") [Category:印度取景电影](https://zh.wikipedia.org/wiki/Category:印度取景电影 "wikilink") [Category:太平洋背景電影](https://zh.wikipedia.org/wiki/Category:太平洋背景電影 "wikilink") [Category:蒙特利尔取景电影](https://zh.wikipedia.org/wiki/Category:蒙特利尔取景电影 "wikilink") [Category:屏東縣取景電影](https://zh.wikipedia.org/wiki/Category:屏東縣取景電影 "wikilink") [Category:臺中市取景電影](https://zh.wikipedia.org/wiki/Category:臺中市取景電影 "wikilink") [Category:奧斯卡最佳原創配樂獲獎電影](https://zh.wikipedia.org/wiki/Category:奧斯卡最佳原創配樂獲獎電影 "wikilink") [Category:奧斯卡最佳導演獲獎電影](https://zh.wikipedia.org/wiki/Category:奧斯卡最佳導演獲獎電影 "wikilink") [Category:奧斯卡最佳攝影獲獎電影](https://zh.wikipedia.org/wiki/Category:奧斯卡最佳攝影獲獎電影 "wikilink") [Category:奥斯卡最佳视觉效果获奖电影](https://zh.wikipedia.org/wiki/Category:奥斯卡最佳视觉效果获奖电影 "wikilink") [Category:英国电影学院奖最佳摄影获奖电影](https://zh.wikipedia.org/wiki/Category:英国电影学院奖最佳摄影获奖电影 "wikilink")
 
 1.
 2.
 
 3.
 
-4.  [李安30億打造《奇幻漂流》
-    掐預算導演兼伙夫](http://www.appledaily.com.tw/appledaily/article/entertainment/20121120/34652623/)
-    , [蘋果日報 (台灣)](https://zh.wikipedia.org/wiki/蘋果日報_\(台灣\) "wikilink"),
-    2012年11月20日
+4.  [李安30億打造《奇幻漂流》 掐預算導演兼伙夫](http://www.appledaily.com.tw/appledaily/article/entertainment/20121120/34652623/) , [蘋果日報 (台灣)](https://zh.wikipedia.org/wiki/蘋果日報_\(台灣\) "wikilink"), 2012年11月20日
 
 5.
 
@@ -925,9 +884,7 @@ Editors: Kam Chan, Jamie Baker</p></td>
 9.
 
 10.
-11. ['Life of Pi' a surprise success story around the
-    world](http://articles.latimes.com/2013/feb/18/entertainment/la-et-mn-life-of-pi-20130218)
-     2013.2.18 Los Angeles Times
+11. ['Life of Pi' a surprise success story around the world](http://articles.latimes.com/2013/feb/18/entertainment/la-et-mn-life-of-pi-20130218)  2013.2.18 Los Angeles Times
 
 12.
 

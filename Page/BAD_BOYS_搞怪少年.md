@@ -1,6 +1,4 @@
-《**BAD BOYS
-搞怪少年**》（），是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[田中宏的一部](https://zh.wikipedia.org/wiki/田中宏 "wikilink")[校園](https://zh.wikipedia.org/wiki/校園 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，1988年於《[YOUNG
-KING](https://zh.wikipedia.org/wiki/YOUNG_KING "wikilink")》（[少年畫報社](../Page/少年畫報社.md "wikilink")）開始連載，台灣中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理，單行本全22卷已發售。以[廣島為舞台作](https://zh.wikipedia.org/wiki/廣島 "wikilink")“廣島亂跑塗鴉”。單行本已累積發行4000万本。有續集『[グレアー](https://zh.wikipedia.org/wiki/グレアー "wikilink")』等。
+《**BAD BOYS 搞怪少年**》（），是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[田中宏的一部](https://zh.wikipedia.org/wiki/田中宏 "wikilink")[校園](https://zh.wikipedia.org/wiki/校園 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，1988年於《[YOUNG KING](https://zh.wikipedia.org/wiki/YOUNG_KING "wikilink")》（[少年畫報社](../Page/少年畫報社.md "wikilink")）開始連載，台灣中文版由[東立出版社](../Page/東立出版社.md "wikilink")代理，單行本全22卷已發售。以[廣島為舞台作](https://zh.wikipedia.org/wiki/廣島 "wikilink")“廣島亂跑塗鴉”。單行本已累積發行4000万本。有續集『[グレアー](https://zh.wikipedia.org/wiki/グレアー "wikilink")』等。
 
 ## 劇情內容
 
@@ -196,55 +194,37 @@ KING](https://zh.wikipedia.org/wiki/YOUNG_KING "wikilink")》（[少年畫報社
 
 ### 製作人員
 
-  - 監督 -
-    [関田修](https://zh.wikipedia.org/wiki/関田修 "wikilink")（1卷）、[山口武志](https://zh.wikipedia.org/wiki/山口武志 "wikilink")（2卷
-    - 5卷）
-  - 腳本 -
-    [宮下知也](https://zh.wikipedia.org/wiki/宮下知也 "wikilink")（1卷）、[高田かおり](https://zh.wikipedia.org/wiki/高田かおり "wikilink")（1卷）、[我妻正義](https://zh.wikipedia.org/wiki/我妻正義 "wikilink")（2卷
-    - 5卷）
+  - 監督 - [関田修](https://zh.wikipedia.org/wiki/関田修 "wikilink")（1卷）、[山口武志](https://zh.wikipedia.org/wiki/山口武志 "wikilink")（2卷 - 5卷）
+  - 腳本 - [宮下知也](https://zh.wikipedia.org/wiki/宮下知也 "wikilink")（1卷）、[高田かおり](https://zh.wikipedia.org/wiki/高田かおり "wikilink")（1卷）、[我妻正義](https://zh.wikipedia.org/wiki/我妻正義 "wikilink")（2卷 - 5卷）
   - 人物設計 - [田中宏](https://zh.wikipedia.org/wiki/田中宏 "wikilink")
   - 作画監督 - [梶谷光春](https://zh.wikipedia.org/wiki/梶谷光春 "wikilink")
-  - 音樂 -
-    [山崎一稔](https://zh.wikipedia.org/wiki/山崎一稔 "wikilink")（1卷）、[義野裕明](https://zh.wikipedia.org/wiki/義野裕明 "wikilink")（2卷
-    - 5卷）
-  - 動畫制作 -
-    [J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")
-  - 製作 -
-    [少年画報社](https://zh.wikipedia.org/wiki/少年画報社 "wikilink")／[田中プロダクション](https://zh.wikipedia.org/wiki/田中プロダクション "wikilink")／東映ビデオ
+  - 音樂 - [山崎一稔](https://zh.wikipedia.org/wiki/山崎一稔 "wikilink")（1卷）、[義野裕明](https://zh.wikipedia.org/wiki/義野裕明 "wikilink")（2卷 - 5卷）
+  - 動畫制作 - [J.C.STAFF](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")
+  - 製作 - [少年画報社](https://zh.wikipedia.org/wiki/少年画報社 "wikilink")／[田中プロダクション](https://zh.wikipedia.org/wiki/田中プロダクション "wikilink")／東映ビデオ
 
 ## 電影（2011年）
 
-《**BAD
-BOYS**》，是一部[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。由[三浦貴大](../Page/三浦貴大.md "wikilink")、[鈴木勝吾](../Page/鈴木勝吾.md "wikilink")、[阿部進之介](https://zh.wikipedia.org/wiki/阿部進之介 "wikilink")、[徳山秀典主演](https://zh.wikipedia.org/wiki/徳山秀典 "wikilink")，[窪田崇執導](https://zh.wikipedia.org/wiki/窪田崇 "wikilink")。日本於2011年2月26日在[廣島バルド11先行公開](https://zh.wikipedia.org/wiki/廣島バルド11 "wikilink")、2011年3月26日上映。
+《**BAD BOYS**》，是一部[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。由[三浦貴大](../Page/三浦貴大.md "wikilink")、[鈴木勝吾](../Page/鈴木勝吾.md "wikilink")、[阿部進之介](https://zh.wikipedia.org/wiki/阿部進之介 "wikilink")、[徳山秀典主演](https://zh.wikipedia.org/wiki/徳山秀典 "wikilink")，[窪田崇執導](https://zh.wikipedia.org/wiki/窪田崇 "wikilink")。日本於2011年2月26日在[廣島バルド11先行公開](https://zh.wikipedia.org/wiki/廣島バルド11 "wikilink")、2011年3月26日上映。
 
 ### 演員表
 
   - 野村豊（傳說中把段野打倒的男人、殺人事件的嫌疑犯） - [三浦貴大](../Page/三浦貴大.md "wikilink")
   - 桐木司（廣島No.2「極樂蝶」隊長） - [鈴木勝吾](../Page/鈴木勝吾.md "wikilink")
-  - 段野秀典（廣島最強「BEAST」隊長） -
-    [阿部進之介](https://zh.wikipedia.org/wiki/阿部進之介 "wikilink")
-  - ヒロ（廣島No.3「廣島Nights」隊長） -
-    [徳山秀典](https://zh.wikipedia.org/wiki/徳山秀典 "wikilink")
-  - 石本千春（トップを狙う男「狂連合」） -
-    [細田よしひこ](https://zh.wikipedia.org/wiki/細田よしひこ "wikilink")
-  - 高間数俊（「BEAST」成員） -
-    [波岡一喜](https://zh.wikipedia.org/wiki/波岡一喜 "wikilink")
-  - 瀧田修二（「狂連合」成員） -
-    [渡部龍平](https://zh.wikipedia.org/wiki/渡部龍平 "wikilink")
-  - 川中陽二（「極樂蝶」成員） -
-    [大口兼悟](https://zh.wikipedia.org/wiki/大口兼悟 "wikilink")
+  - 段野秀典（廣島最強「BEAST」隊長） - [阿部進之介](https://zh.wikipedia.org/wiki/阿部進之介 "wikilink")
+  - ヒロ（廣島No.3「廣島Nights」隊長） - [徳山秀典](https://zh.wikipedia.org/wiki/徳山秀典 "wikilink")
+  - 石本千春（トップを狙う男「狂連合」） - [細田よしひこ](https://zh.wikipedia.org/wiki/細田よしひこ "wikilink")
+  - 高間数俊（「BEAST」成員） - [波岡一喜](https://zh.wikipedia.org/wiki/波岡一喜 "wikilink")
+  - 瀧田修二（「狂連合」成員） - [渡部龍平](https://zh.wikipedia.org/wiki/渡部龍平 "wikilink")
+  - 川中陽二（「極樂蝶」成員） - [大口兼悟](https://zh.wikipedia.org/wiki/大口兼悟 "wikilink")
   - [入来茉里](https://zh.wikipedia.org/wiki/入来茉里 "wikilink")
   - [橋爪遼](https://zh.wikipedia.org/wiki/橋爪遼 "wikilink")
   - [伊吹吾郎](../Page/伊吹吾郎.md "wikilink")
-  - 岩田さん（初代「極楽蝶」） -
-    [竹原慎二](https://zh.wikipedia.org/wiki/竹原慎二 "wikilink")
+  - 岩田さん（初代「極楽蝶」） - [竹原慎二](https://zh.wikipedia.org/wiki/竹原慎二 "wikilink")
   - [山本浩二](../Page/山本浩二.md "wikilink")（特別出演）
 
 ### 音樂
 
-  - 主題曲：[ANCHOR](https://zh.wikipedia.org/wiki/ANCHOR "wikilink")「LOST
-    SONG」（[ACROSS THE POP
-    RECORDS](https://zh.wikipedia.org/wiki/ACROSS_THE_POP_RECORDS "wikilink")）
+  - 主題曲：[ANCHOR](https://zh.wikipedia.org/wiki/ANCHOR "wikilink")「LOST SONG」（[ACROSS THE POP RECORDS](https://zh.wikipedia.org/wiki/ACROSS_THE_POP_RECORDS "wikilink")）
 
 ## 電視劇（2013年）
 
@@ -252,30 +232,20 @@ BOYS**》，是一部[日本](../Page/日本.md "wikilink")[電影](https://zh.w
 
 #### 極樂蝶
 
-  - 桐木司（第八代隊長） - [中島健人](../Page/中島健人.md "wikilink")（[Sexy
-    Zone](../Page/Sexy_Zone.md "wikilink")）
-  - 川中陽二 - [岩本照](../Page/岩本照.md "wikilink")（[Snow
-    Man](../Page/Snow_Man.md "wikilink")）
+  - 桐木司（第八代隊長） - [中島健人](../Page/中島健人.md "wikilink")（[Sexy Zone](../Page/Sexy_Zone.md "wikilink")）
+  - 川中陽二 - [岩本照](../Page/岩本照.md "wikilink")（[Snow Man](../Page/Snow_Man.md "wikilink")）
   - 岩見英治 - [深澤辰哉](../Page/深澤辰哉.md "wikilink")（Snow Man）
-  - 中村壽雄 - [渡辺翔太](https://zh.wikipedia.org/wiki/渡辺翔太 "wikilink")（Snow
-    Man）
+  - 中村壽雄 - [渡辺翔太](https://zh.wikipedia.org/wiki/渡辺翔太 "wikilink")（Snow Man）
   - 由本俊（第七代隊長） - [山根和馬](https://zh.wikipedia.org/wiki/山根和馬 "wikilink")
-  - 由本久美（俊的妹妹，司的戀人） -
-    [橋本奈奈未](../Page/橋本奈奈未.md "wikilink")（[乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")）
+  - 由本久美（俊的妹妹，司的戀人） - [橋本奈奈未](../Page/橋本奈奈未.md "wikilink")（[乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")）
 
 #### BEAST
 
-  - 段野秀典 -
-    [二階堂高嗣](../Page/二階堂高嗣.md "wikilink")（[Kis-My-Ft2](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")）
-  - 高間数俊 -
-    [森田美勇人](https://zh.wikipedia.org/wiki/森田美勇人 "wikilink")（Johnny's
-    Jr.）
+  - 段野秀典 - [二階堂高嗣](../Page/二階堂高嗣.md "wikilink")（[Kis-My-Ft2](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")）
+  - 高間数俊 - [森田美勇人](https://zh.wikipedia.org/wiki/森田美勇人 "wikilink")（Johnny's Jr.）
   - 櫻木裕介 - [八神蓮](https://zh.wikipedia.org/wiki/八神蓮 "wikilink")
-  - 原田一成 -
-    [諸星翔希](https://zh.wikipedia.org/wiki/諸星翔希 "wikilink")（Johnny's
-    Jr.）
-  - 中井カオリ（段野的戀人） -
-    [板野友美](../Page/板野友美.md "wikilink")（[AKB48](../Page/AKB48.md "wikilink")）
+  - 原田一成 - [諸星翔希](https://zh.wikipedia.org/wiki/諸星翔希 "wikilink")（Johnny's Jr.）
+  - 中井カオリ（段野的戀人） - [板野友美](../Page/板野友美.md "wikilink")（[AKB48](../Page/AKB48.md "wikilink")）
   - 宮下まりや - [櫻井玲香](../Page/櫻井玲香.md "wikilink")（乃木坂46）
   - 百瀬遥 - [高山一實](../Page/高山一實.md "wikilink")（乃木坂46）
   - 新田美緒 - [若月佑美](../Page/若月佑美.md "wikilink")（乃木坂46）
@@ -283,15 +253,13 @@ BOYS**》，是一部[日本](../Page/日本.md "wikilink")[電影](https://zh.w
 
 #### Nights
 
-  - Hiro（ヒロ） -
-    [橋本良亮](https://zh.wikipedia.org/wiki/橋本良亮 "wikilink")（[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")）
+  - Hiro（ヒロ） - [橋本良亮](https://zh.wikipedia.org/wiki/橋本良亮 "wikilink")（[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")）
   - 中川健二郎 - [安井謙太郎](../Page/安井謙太郎.md "wikilink")（Johnny's Jr.）
   - 船本潤 - [萩谷慧悟](../Page/萩谷慧悟.md "wikilink")（Johnny's Jr.）
   - 佐藤エリカ（Hiro的戀人） - [特林德爾·玲奈](../Page/特林德爾·玲奈.md "wikilink")
   - 藤井美香（英治的戀人） - [松村沙友理](../Page/松村沙友理.md "wikilink")（乃木坂46）
   - 上条真理子 - [秋元真夏](../Page/秋元真夏.md "wikilink")（乃木坂46）
-  - 三上実由 -
-    [伊藤万理華](https://zh.wikipedia.org/wiki/伊藤万理華 "wikilink")（乃木坂46）
+  - 三上実由 - [伊藤万理華](https://zh.wikipedia.org/wiki/伊藤万理華 "wikilink")（乃木坂46）
   - 佐久間美奈 - [伊藤寧寧](../Page/伊藤寧寧.md "wikilink")（乃木坂46）
 
 #### 客串演出
@@ -301,11 +269,8 @@ BOYS**》，是一部[日本](../Page/日本.md "wikilink")[電影](https://zh.w
   - 桐木司幼年 - [近藤和彌](https://zh.wikipedia.org/wiki/近藤和彌 "wikilink")
   - 小鳥遊葵幼年 - [山崎愛](https://zh.wikipedia.org/wiki/山崎愛 "wikilink")
   - 鈴原真一幼年 - [佐藤涼平](https://zh.wikipedia.org/wiki/佐藤涼平 "wikilink")
-  - 中村道明（壽雄的父親） -
-    [長谷川公彦](https://zh.wikipedia.org/wiki/長谷川公彦 "wikilink")
-  - 見城樹（原Nights部下） -
-    [七五三掛龍也](https://zh.wikipedia.org/wiki/七五三掛龍也 "wikilink")（Johnny's
-    Jr.）
+  - 中村道明（壽雄的父親） - [長谷川公彦](https://zh.wikipedia.org/wiki/長谷川公彦 "wikilink")
+  - 見城樹（原Nights部下） - [七五三掛龍也](https://zh.wikipedia.org/wiki/七五三掛龍也 "wikilink")（Johnny's Jr.）
   - 野村豐（昔日有「惡魔」之稱） - [佐野和真](../Page/佐野和真.md "wikilink")
   - 小木（原BEAST部下） - [相馬圭祐](https://zh.wikipedia.org/wiki/相馬圭祐 "wikilink")
   - 岩田章（刑事） - [永島敏行](https://zh.wikipedia.org/wiki/永島敏行 "wikilink")
@@ -316,20 +281,15 @@ BOYS**》，是一部[日本](../Page/日本.md "wikilink")[電影](https://zh.w
 
 ### 音樂
 
-  - 主題曲：[Sexy Zone](../Page/Sexy_Zone.md "wikilink")「BAD
-    BOYS」（[ポニーキャニオン](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")）
-  - 插曲：[乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")「世界で一番孤独なLover」（[Sony
-    Music Records](../Page/Sony_Music_Records.md "wikilink")）
+  - 主題曲：[Sexy Zone](../Page/Sexy_Zone.md "wikilink")「BAD BOYS」（[ポニーキャニオン](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")）
+  - 插曲：[乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")「世界で一番孤独なLover」（[Sony Music Records](../Page/Sony_Music_Records.md "wikilink")）
 
 ### 製作人員
 
-  - 原作 - [田中宏](https://zh.wikipedia.org/wiki/田中宏 "wikilink")「BAD
-    BOYS」（[少年畫報社](../Page/少年畫報社.md "wikilink")）
-  - 編劇 -
-    [渡邊啓](https://zh.wikipedia.org/wiki/渡邊啓 "wikilink")、[桑村さや香](https://zh.wikipedia.org/wiki/桑村さや香 "wikilink")、[根本ノンジ](https://zh.wikipedia.org/wiki/根本ノンジ "wikilink")、[三田卓人](https://zh.wikipedia.org/wiki/三田卓人 "wikilink")
+  - 原作 - [田中宏](https://zh.wikipedia.org/wiki/田中宏 "wikilink")「BAD BOYS」（[少年畫報社](../Page/少年畫報社.md "wikilink")）
+  - 編劇 - [渡邊啓](https://zh.wikipedia.org/wiki/渡邊啓 "wikilink")、[桑村さや香](https://zh.wikipedia.org/wiki/桑村さや香 "wikilink")、[根本ノンジ](https://zh.wikipedia.org/wiki/根本ノンジ "wikilink")、[三田卓人](https://zh.wikipedia.org/wiki/三田卓人 "wikilink")
   - 音樂 - [牧戸太郎](https://zh.wikipedia.org/wiki/牧戸太郎 "wikilink")
-  - 導演 -
-    [窪田崇](https://zh.wikipedia.org/wiki/窪田崇 "wikilink")、[瀧本憲吾](https://zh.wikipedia.org/wiki/瀧本憲吾 "wikilink")
+  - 導演 - [窪田崇](https://zh.wikipedia.org/wiki/窪田崇 "wikilink")、[瀧本憲吾](https://zh.wikipedia.org/wiki/瀧本憲吾 "wikilink")
   - 企畫製作 - 日本テレビ
   - 製作公司 - 「BAD BOYS J」製作委員會
 
@@ -409,37 +369,25 @@ BOYS**》，是一部[日本](../Page/日本.md "wikilink")[電影](https://zh.w
 
 ## 電影（2013年）
 
-《**劇場版 BAD BOYS
-J**》，是一部[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。由[中島健人](../Page/中島健人.md "wikilink")、[二階堂高嗣](../Page/二階堂高嗣.md "wikilink")、[橋本良亮主演](https://zh.wikipedia.org/wiki/橋本良亮 "wikilink")，[窪田崇執導](https://zh.wikipedia.org/wiki/窪田崇 "wikilink")。是2013年的《BAD
-BOYS J》電視劇的續篇，日本於2013年11月9日上映。
+《**劇場版 BAD BOYS J**》，是一部[日本](../Page/日本.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")。由[中島健人](../Page/中島健人.md "wikilink")、[二階堂高嗣](../Page/二階堂高嗣.md "wikilink")、[橋本良亮主演](https://zh.wikipedia.org/wiki/橋本良亮 "wikilink")，[窪田崇執導](https://zh.wikipedia.org/wiki/窪田崇 "wikilink")。是2013年的《BAD BOYS J》電視劇的續篇，日本於2013年11月9日上映。
 
 ### 演員表
 
 #### 極樂蝶
 
-  - 桐木司（第八代隊長） - [中島健人](../Page/中島健人.md "wikilink")（[Sexy
-    Zone](../Page/Sexy_Zone.md "wikilink")）
-  - 川中陽二 - [岩本照](../Page/岩本照.md "wikilink")（[Snow
-    Man](../Page/Snow_Man.md "wikilink")）
+  - 桐木司（第八代隊長） - [中島健人](../Page/中島健人.md "wikilink")（[Sexy Zone](../Page/Sexy_Zone.md "wikilink")）
+  - 川中陽二 - [岩本照](../Page/岩本照.md "wikilink")（[Snow Man](../Page/Snow_Man.md "wikilink")）
   - 岩見英治 - [深澤辰哉](../Page/深澤辰哉.md "wikilink")（Snow Man）
-  - 中村壽雄 - [渡辺翔太](https://zh.wikipedia.org/wiki/渡辺翔太 "wikilink")（Snow
-    Man）
-  - 由本久美（司的戀人） -
-    [橋本奈奈未](../Page/橋本奈奈未.md "wikilink")（[乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")）
+  - 中村壽雄 - [渡辺翔太](https://zh.wikipedia.org/wiki/渡辺翔太 "wikilink")（Snow Man）
+  - 由本久美（司的戀人） - [橋本奈奈未](../Page/橋本奈奈未.md "wikilink")（[乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")）
   - 木下愛莉（陽二的戀人）- [生駒里奈](../Page/生駒里奈.md "wikilink")（乃木坂46）
 
 #### BEAST
 
-  - 段野秀典（隊長） -
-    [二階堂高嗣](../Page/二階堂高嗣.md "wikilink")（[Kis-My-Ft2](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")）
-  - 高間数俊 -
-    [森田美勇人](https://zh.wikipedia.org/wiki/森田美勇人 "wikilink")（Johnny's
-    Jr.）
-  - 原田一成 -
-    [諸星翔希](https://zh.wikipedia.org/wiki/諸星翔希 "wikilink")（Johnny's
-    Jr.）
-  - 中井カオリ（段野的戀人） -
-    [板野友美](../Page/板野友美.md "wikilink")（[AKB48](../Page/AKB48.md "wikilink")）
+  - 段野秀典（隊長） - [二階堂高嗣](../Page/二階堂高嗣.md "wikilink")（[Kis-My-Ft2](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")）
+  - 高間数俊 - [森田美勇人](https://zh.wikipedia.org/wiki/森田美勇人 "wikilink")（Johnny's Jr.）
+  - 原田一成 - [諸星翔希](https://zh.wikipedia.org/wiki/諸星翔希 "wikilink")（Johnny's Jr.）
+  - 中井カオリ（段野的戀人） - [板野友美](../Page/板野友美.md "wikilink")（[AKB48](../Page/AKB48.md "wikilink")）
   - 宮下まりや - [櫻井玲香](../Page/櫻井玲香.md "wikilink")（乃木坂46）
   - 百瀬遥 - [高山一實](../Page/高山一實.md "wikilink")（乃木坂46）
   - 新田美緒 - [若月佑美](../Page/若月佑美.md "wikilink")（乃木坂46）
@@ -447,23 +395,19 @@ BOYS J》電視劇的續篇，日本於2013年11月9日上映。
 
 #### Nights
 
-  - Hiro（ヒロ）（隊長） -
-    [橋本良亮](https://zh.wikipedia.org/wiki/橋本良亮 "wikilink")（[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")）
+  - Hiro（ヒロ）（隊長） - [橋本良亮](https://zh.wikipedia.org/wiki/橋本良亮 "wikilink")（[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")）
   - 中川健二郎 - [安井謙太郎](../Page/安井謙太郎.md "wikilink")（Johnny's Jr.）
   - 船本潤 - [萩谷慧悟](../Page/萩谷慧悟.md "wikilink")（Johnny's Jr.）
   - 佐藤エリカ（Hiro的戀人） - [特林德爾·玲奈](../Page/特林德爾·玲奈.md "wikilink")
   - 藤井美香（英治的戀人） - [松村沙友理](../Page/松村沙友理.md "wikilink")（乃木坂46）
   - 上条真理子 - [秋元真夏](../Page/秋元真夏.md "wikilink")（乃木坂46）
-  - 三上実由 -
-    [伊藤万理華](https://zh.wikipedia.org/wiki/伊藤万理華 "wikilink")（乃木坂46）
+  - 三上実由 - [伊藤万理華](https://zh.wikipedia.org/wiki/伊藤万理華 "wikilink")（乃木坂46）
   - 佐久間美奈 - [伊藤寧々](https://zh.wikipedia.org/wiki/伊藤寧々 "wikilink")（乃木坂46）
 
 #### 客串演出
 
   - 榊聖人（伊甸園隊長） - [柿澤勇人](https://zh.wikipedia.org/wiki/柿澤勇人 "wikilink")
-  - 見城樹（原Nights部下） -
-    [七五三掛龍也](https://zh.wikipedia.org/wiki/七五三掛龍也 "wikilink")（Johnny's
-    Jr.）
+  - 見城樹（原Nights部下） - [七五三掛龍也](https://zh.wikipedia.org/wiki/七五三掛龍也 "wikilink")（Johnny's Jr.）
   - 野村豐（段野的親友） - [佐野和真](../Page/佐野和真.md "wikilink")
   - 小野沢圭太（原極樂蝶部下） - [重岡大毅](../Page/重岡大毅.md "wikilink")（關西Johnny's Jr.）
   - 真崎奈緒（圭太的戀人） - [白石麻衣](../Page/白石麻衣.md "wikilink")（乃木坂46）
@@ -480,25 +424,7 @@ BOYS J》電視劇的續篇，日本於2013年11月9日上映。
 
   - [メディアドゥ](http://www.mediado.jp/)
 
-[Category:YOUNG_KING](https://zh.wikipedia.org/wiki/Category:YOUNG_KING "wikilink")
-[Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:不良少年及少女主角題材漫畫](https://zh.wikipedia.org/wiki/Category:不良少年及少女主角題材漫畫 "wikilink")
-[Category:廣島縣背景作品](https://zh.wikipedia.org/wiki/Category:廣島縣背景作品 "wikilink")
-[Category:1993年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1993年日本OVA動畫 "wikilink")
-[Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
-[Category:不良少年及少女主角題材動畫](https://zh.wikipedia.org/wiki/Category:不良少年及少女主角題材動畫 "wikilink")
-[Category:2010年日本電影](https://zh.wikipedia.org/wiki/Category:2010年日本電影 "wikilink")
-[Category:2010年代動作片](https://zh.wikipedia.org/wiki/Category:2010年代動作片 "wikilink")
-[Category:日本動作片](https://zh.wikipedia.org/wiki/Category:日本動作片 "wikilink")
-[Category:不良少年及少女主角題材電影](https://zh.wikipedia.org/wiki/Category:不良少年及少女主角題材電影 "wikilink")
-[Category:廣島縣背景電影](https://zh.wikipedia.org/wiki/Category:廣島縣背景電影 "wikilink")
-[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink")
-[Category:不良少年及少女主角題材電視劇](https://zh.wikipedia.org/wiki/Category:不良少年及少女主角題材電視劇 "wikilink")
-[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink")
-[Category:小傑尼斯相關影視作品](https://zh.wikipedia.org/wiki/Category:小傑尼斯相關影視作品 "wikilink")
-[Category:乃木坂46](https://zh.wikipedia.org/wiki/Category:乃木坂46 "wikilink")
-[Category:暴走族题材作品](https://zh.wikipedia.org/wiki/Category:暴走族题材作品 "wikilink")
+[Category:YOUNG_KING](https://zh.wikipedia.org/wiki/Category:YOUNG_KING "wikilink") [Category:少年漫畫](https://zh.wikipedia.org/wiki/Category:少年漫畫 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:不良少年及少女主角題材漫畫](https://zh.wikipedia.org/wiki/Category:不良少年及少女主角題材漫畫 "wikilink") [Category:廣島縣背景作品](https://zh.wikipedia.org/wiki/Category:廣島縣背景作品 "wikilink") [Category:1993年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:1993年日本OVA動畫 "wikilink") [Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink") [Category:不良少年及少女主角題材動畫](https://zh.wikipedia.org/wiki/Category:不良少年及少女主角題材動畫 "wikilink") [Category:2010年日本電影](https://zh.wikipedia.org/wiki/Category:2010年日本電影 "wikilink") [Category:2010年代動作片](https://zh.wikipedia.org/wiki/Category:2010年代動作片 "wikilink") [Category:日本動作片](https://zh.wikipedia.org/wiki/Category:日本動作片 "wikilink") [Category:不良少年及少女主角題材電影](https://zh.wikipedia.org/wiki/Category:不良少年及少女主角題材電影 "wikilink") [Category:廣島縣背景電影](https://zh.wikipedia.org/wiki/Category:廣島縣背景電影 "wikilink") [Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink") [Category:不良少年及少女主角題材電視劇](https://zh.wikipedia.org/wiki/Category:不良少年及少女主角題材電視劇 "wikilink") [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:小傑尼斯相關影視作品](https://zh.wikipedia.org/wiki/Category:小傑尼斯相關影視作品 "wikilink") [Category:乃木坂46](https://zh.wikipedia.org/wiki/Category:乃木坂46 "wikilink") [Category:暴走族题材作品](https://zh.wikipedia.org/wiki/Category:暴走族题材作品 "wikilink")
 
 1.  第1話因節目調整在25:20 - 25:50播放。
 2.  [ドラマ公式サイト](http://www.ntv.co.jp/bad_boys/)、2013年4月14日参照。

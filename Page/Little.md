@@ -1,6 +1,4 @@
-《**little**》是[日本](../Page/日本.md "wikilink")偶像歌手[板野友美](../Page/板野友美.md "wikilink")的第5张[单曲](../Page/单曲.md "wikilink")作品，于2014年2月5日由[You,
-Be Cool\!](../Page/You,_Be_Cool!.md "wikilink")/[KING
-RECORDS发行](https://zh.wikipedia.org/wiki/国王唱片 "wikilink")\[1\]\[2\]。
+《**little**》是[日本](../Page/日本.md "wikilink")偶像歌手[板野友美](../Page/板野友美.md "wikilink")的第5张[单曲](../Page/单曲.md "wikilink")作品，于2014年2月5日由[You, Be Cool\!](../Page/You,_Be_Cool!.md "wikilink")/[KING RECORDS发行](https://zh.wikipedia.org/wiki/国王唱片 "wikilink")\[1\]\[2\]。
 
 ## 概要
 
@@ -23,11 +21,9 @@ RECORDS发行](https://zh.wikipedia.org/wiki/国王唱片 "wikilink")\[1\]\[2\]�
         （作詞：板野友美、作曲：MUSOH・S1CKONE、編曲：S1CKONE）
 2.  《BRIGHTER》 \[3:51\]
       -
-        （作詞：板野友美、作曲：Henrik Nordenback・Joleen Belle・Hiromi
-        Rainbow、編曲：Henrik Nordenback）
+        （作詞：板野友美、作曲：Henrik Nordenback・Joleen Belle・Hiromi Rainbow、編曲：Henrik Nordenback）
     <!-- end list -->
-      - [美源髮采](https://zh.wikipedia.org/wiki/美源髮采 "wikilink")《
-        浓密修补油誕生》（）广告曲
+      - [美源髮采](https://zh.wikipedia.org/wiki/美源髮采 "wikilink")《 浓密修补油誕生》（）广告曲
 3.  《Girls Do》 \[3:27\]
       -
         （作詞：板野友美、作曲：SMIDI・Jasmine Anderson、編曲：SMIDI）
@@ -41,8 +37,7 @@ RECORDS发行](https://zh.wikipedia.org/wiki/国王唱片 "wikilink")\[1\]\[2\]�
 
 <!-- end list -->
 
-1.  《little》 [Music
-    Video](https://zh.wikipedia.org/wiki/Music_Video "wikilink")
+1.  《little》 [Music Video](https://zh.wikipedia.org/wiki/Music_Video "wikilink")
 2.  《little》 Making Clip 前編
 
 ### TYPE-B
@@ -55,8 +50,7 @@ RECORDS发行](https://zh.wikipedia.org/wiki/国王唱片 "wikilink")\[1\]\[2\]�
 2.  《BRIGHTER》
 3.  《Deep In Lies》\[4:30\]
       -
-        （作詞：板野友美、作曲：BOY SKI MASK・DEY GON GET IT・BLEU & WOLVES、編曲：BOY SKI
-        MASK）
+        （作詞：板野友美、作曲：BOY SKI MASK・DEY GON GET IT・BLEU & WOLVES、編曲：BOY SKI MASK）
 4.  little (Instrumental)
 5.  BRIGHTER (Instrumental)
 6.  Deep In Lies (Instrumental)
@@ -78,22 +72,17 @@ RECORDS发行](https://zh.wikipedia.org/wiki/国王唱片 "wikilink")\[1\]\[2\]�
 
 1.  《little》
 2.  《BRIGHTER》
-3.  《[突然间](https://zh.wikipedia.org/wiki/突然间 "wikilink") Sample Battlers
-    Remix》 \[5:15\]（）
+3.  《[突然间](https://zh.wikipedia.org/wiki/突然间 "wikilink") Sample Battlers Remix》 \[5:15\]（）
       -
-        （作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲：渡边泰司、編曲：Mine-Chang、混音：Sample
-        Battlers）
+        （作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲：渡边泰司、編曲：Mine-Chang、混音：Sample Battlers）
 
 ## 参考资料
 
 ## 外部链接
 
-  - [KING RECORDS OFFICIAL SITE \> 板野
-    友美](http://www.kingrecords.co.jp/cs/artist/artist.aspx?artist=40533)
+  - [KING RECORDS OFFICIAL SITE \> 板野 友美](http://www.kingrecords.co.jp/cs/artist/artist.aspx?artist=40533)
 
-[Category:板野友美歌曲](https://zh.wikipedia.org/wiki/Category:板野友美歌曲 "wikilink")
-[Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink")
-[Category:2014年单曲](https://zh.wikipedia.org/wiki/Category:2014年单曲 "wikilink")
+[Category:板野友美歌曲](https://zh.wikipedia.org/wiki/Category:板野友美歌曲 "wikilink") [Category:King_Records歌曲](https://zh.wikipedia.org/wiki/Category:King_Records歌曲 "wikilink") [Category:2014年单曲](https://zh.wikipedia.org/wiki/Category:2014年单曲 "wikilink")
 
 1.
 

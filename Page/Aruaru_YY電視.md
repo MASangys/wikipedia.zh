@@ -1,5 +1,4 @@
-《**Aruaru
-YY電視**》（）是在[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")播放的[深夜](https://zh.wikipedia.org/wiki/深夜節目 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。
+《**Aruaru YY電視**》（）是在[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")播放的[深夜](https://zh.wikipedia.org/wiki/深夜節目 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。
 
 ## 出演者
 

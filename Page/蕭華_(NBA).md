@@ -1,21 +1,16 @@
-**蕭華**（，），或音譯為**-{zh-cn:亚当·席尔瓦; zh-tw:亞當·席佛;
-zh-hk:阿當·施華}-**，NBA總裁。於1992年開始為NBA工作，曾任[大衛·斯特恩的特別助理](https://zh.wikipedia.org/wiki/大衛·斯特恩 "wikilink")，NBA高級行政長官，副總裁。2003年被《時代雜誌》和CNN列為全球最具影響力的商務人士之一。2014年2月1日接替[大衛·斯特恩擔任NBA總裁](https://zh.wikipedia.org/wiki/大衛·斯特恩 "wikilink")。
+**蕭華**（，），或音譯為**-{zh-cn:亚当·席尔瓦; zh-tw:亞當·席佛; zh-hk:阿當·施華}-**，NBA總裁。於1992年開始為NBA工作，曾任[大衛·斯特恩的特別助理](https://zh.wikipedia.org/wiki/大衛·斯特恩 "wikilink")，NBA高級行政長官，副總裁。2003年被《時代雜誌》和CNN列為全球最具影響力的商務人士之一。2014年2月1日接替[大衛·斯特恩擔任NBA總裁](https://zh.wikipedia.org/wiki/大衛·斯特恩 "wikilink")。
 
 ## 早期的生活
 
 蕭華出生於[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[威徹斯特縣的一個猶太家庭](https://zh.wikipedia.org/wiki/威徹斯特縣 "wikilink")，是Proskauer羅斯律師合夥人的兒子。從很小的時候，蕭華是[紐約尼克隊球迷](https://zh.wikipedia.org/wiki/紐約尼克隊 "wikilink")。
 
-他畢業於黑麥高中，然後在1984年從[杜克大學畢業](https://zh.wikipedia.org/wiki/杜克大學 "wikilink")，他是Phi
-Delta
-Theta聯誼會的成員。他1984年至1985年曾擔任美國眾議員萊斯奧科的立法助理。他在1988年獲得了[芝加哥大學](https://zh.wikipedia.org/wiki/芝加哥大學 "wikilink")[法學學位](https://zh.wikipedia.org/wiki/法學 "wikilink")。
+他畢業於黑麥高中，然後在1984年從[杜克大學畢業](https://zh.wikipedia.org/wiki/杜克大學 "wikilink")，他是Phi Delta Theta聯誼會的成員。他1984年至1985年曾擔任美國眾議員萊斯奧科的立法助理。他在1988年獲得了[芝加哥大學](https://zh.wikipedia.org/wiki/芝加哥大學 "wikilink")[法學學位](https://zh.wikipedia.org/wiki/法學 "wikilink")。
 
 加盟NBA之前，他曾擔任Cravath&施偉賢&穆爾，在紐約一家律師事務所訴訟聯營公司。蕭華也曾擔任美國地方法院紐約南區一位聯邦法官的法律助理。
 
 ## 職業生涯
 
-蕭華在1992年開始在NBA工作，在擔任現在總裁職務之前，蕭華擔任過委員助理，員工主席，NBA娛樂公司的副總裁和總裁。席瓦爾並曾擔任iMax電影Michael
-Jordan to the Max的執行製作，以及TNT紀錄片Whatever Happened to Micheal
-Ray?的執行製作。他還參與了Like Mike和Year of the Yao。
+蕭華在1992年開始在NBA工作，在擔任現在總裁職務之前，蕭華擔任過委員助理，員工主席，NBA娛樂公司的副總裁和總裁。席瓦爾並曾擔任iMax電影Michael Jordan to the Max的執行製作，以及TNT紀錄片Whatever Happened to Micheal Ray?的執行製作。他還參與了Like Mike和Year of the Yao。
 
 在2003年，蕭華被時代雜誌和CNN譽為全球最有影響力商人之一；他也被多次被The Sporting News譽為運動界百大最有影響力。
 
@@ -48,12 +43,7 @@ NBA今年樂透抽籤儀式最大的改變，就在於將過去戰績最差的�
   - [斯特恩介绍（英文）](https://web.archive.org/web/20050406223853/http://askmen.com/men/business_politics/50b_david_stern.html)
   - [斯特恩与斯瓦辛格合影](http://sports.sohu.com/2004/02/16/80/news219088062.shtml)
 
-[Category:体育活动家](https://zh.wikipedia.org/wiki/Category:体育活动家 "wikilink")
-[Category:美国企业家](https://zh.wikipedia.org/wiki/Category:美国企业家 "wikilink")
-[Category:美國猶太人](https://zh.wikipedia.org/wiki/Category:美國猶太人 "wikilink")
-[Category:杜克大學校友](https://zh.wikipedia.org/wiki/Category:杜克大學校友 "wikilink")
-[Category:芝加哥大學校友](https://zh.wikipedia.org/wiki/Category:芝加哥大學校友 "wikilink")
-[Category:NBA总裁](https://zh.wikipedia.org/wiki/Category:NBA总裁 "wikilink")
+[Category:体育活动家](https://zh.wikipedia.org/wiki/Category:体育活动家 "wikilink") [Category:美国企业家](https://zh.wikipedia.org/wiki/Category:美国企业家 "wikilink") [Category:美國猶太人](https://zh.wikipedia.org/wiki/Category:美國猶太人 "wikilink") [Category:杜克大學校友](https://zh.wikipedia.org/wiki/Category:杜克大學校友 "wikilink") [Category:芝加哥大學校友](https://zh.wikipedia.org/wiki/Category:芝加哥大學校友 "wikilink") [Category:NBA总裁](https://zh.wikipedia.org/wiki/Category:NBA总裁 "wikilink")
 
 1.
 2.

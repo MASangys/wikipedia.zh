@@ -427,12 +427,7 @@
 
 ## 外部連結
 
-[Category:台灣角川](https://zh.wikipedia.org/wiki/Category:台灣角川 "wikilink")
-[Category:網上期刊](https://zh.wikipedia.org/wiki/Category:網上期刊 "wikilink")
-[Category:臺灣漫畫雜誌](https://zh.wikipedia.org/wiki/Category:臺灣漫畫雜誌 "wikilink")
-[Category:輕小說雜誌](https://zh.wikipedia.org/wiki/Category:輕小說雜誌 "wikilink")
-[Category:FORCE原力誌](https://zh.wikipedia.org/wiki/Category:FORCE原力誌 "wikilink")
-[Category:臺灣週刊](https://zh.wikipedia.org/wiki/Category:臺灣週刊 "wikilink")
+[Category:台灣角川](https://zh.wikipedia.org/wiki/Category:台灣角川 "wikilink") [Category:網上期刊](https://zh.wikipedia.org/wiki/Category:網上期刊 "wikilink") [Category:臺灣漫畫雜誌](https://zh.wikipedia.org/wiki/Category:臺灣漫畫雜誌 "wikilink") [Category:輕小說雜誌](https://zh.wikipedia.org/wiki/Category:輕小說雜誌 "wikilink") [Category:FORCE原力誌](https://zh.wikipedia.org/wiki/Category:FORCE原力誌 "wikilink") [Category:臺灣週刊](https://zh.wikipedia.org/wiki/Category:臺灣週刊 "wikilink")
 
 1.
 

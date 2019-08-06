@@ -51,9 +51,6 @@ T1195<br />
 
 ## 参考资料
 
-[Category:北京地铁DK系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DK系列电动车组 "wikilink")
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
-[Category:北京地铁2号线](https://zh.wikipedia.org/wiki/Category:北京地铁2号线 "wikilink")
+[Category:北京地铁DK系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DK系列电动车组 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:北京地铁2号线](https://zh.wikipedia.org/wiki/Category:北京地铁2号线 "wikilink")
 
-1.  [新华网:北京：170多辆退休地铁列车分批拍卖](http://www.xinhuanet.com/chinanews/2007-12/08/content_11885607.htm)
-    2007年12月8日
+1.  [新华网:北京：170多辆退休地铁列车分批拍卖](http://www.xinhuanet.com/chinanews/2007-12/08/content_11885607.htm) 2007年12月8日

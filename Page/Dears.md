@@ -1,10 +1,8 @@
-[Sayyesdears.jpg](https://zh.wikipedia.org/wiki/File:Sayyesdears.jpg "fig:Sayyesdears.jpg")
-**Dears**是[阿爾發音樂](../Page/阿爾發音樂.md "wikilink")旗下的[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，成員為[簡廷芮](../Page/簡廷芮.md "wikilink")（Dewi）、[安婕希](../Page/安婕希.md "wikilink")（小安），於2014年夏天正式出道。
+[Sayyesdears.jpg](https://zh.wikipedia.org/wiki/File:Sayyesdears.jpg "fig:Sayyesdears.jpg") **Dears**是[阿爾發音樂](../Page/阿爾發音樂.md "wikilink")旗下的[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，成員為[簡廷芮](../Page/簡廷芮.md "wikilink")（Dewi）、[安婕希](../Page/安婕希.md "wikilink")（小安），於2014年夏天正式出道。
 
 團名「Dears」開頭D取自Dewi和小安(Dabe)兩人的英文名字開頭，而中間的“ear”則有耳朵、傾聽之意，字尾“s”則代表她們是兩個人所組成\[1\]。
 
-首張同名寫真EP《Dears》於2014年8月16日正式發行\[2\]\[3\]，第二張寫真EP《Say
-Yes》於2016年1月22日發行\[4\]。
+首張同名寫真EP《Dears》於2014年8月16日正式發行\[2\]\[3\]，第二張寫真EP《Say Yes》於2016年1月22日發行\[4\]。
 
 2017年擔任教育部體育署SH150運動大使。
 
@@ -71,8 +69,7 @@ Yes》於2016年1月22日發行\[4\]。
   - 2014年
       - [My Dears](https://www.youtube.com/watch?v=LCcLByMPi6k)
       - [慢跑鞋](https://www.youtube.com/watch?v=cxgc34p4Qag)
-      - [U N Me](https://www.youtube.com/watch?v=byo-ipqpje8)
-        (YouTube點閱率超過一百萬次)
+      - [U N Me](https://www.youtube.com/watch?v=byo-ipqpje8) (YouTube點閱率超過一百萬次)
   - 2016年
       - [SAY YES](https://www.youtube.com/watch?v=qjb35ZsI19s)
       - [也許](https://www.youtube.com/watch?v=LDE3GZ71Lg8)
@@ -123,21 +120,17 @@ Yes》於2016年1月22日發行\[4\]。
 ### 電影 / 網路劇
 
   - 2015年《[我的少女時代](../Page/我的少女時代.md "wikilink")》（Dewi 飾 陶敏敏）
-  - 2016年《[重返艾澤拉斯](https://zh.wikipedia.org/wiki/重返艾澤拉斯 "wikilink")》（Dewi
-    飾 林曉雨）
+  - 2016年《[重返艾澤拉斯](https://zh.wikipedia.org/wiki/重返艾澤拉斯 "wikilink")》（Dewi 飾 林曉雨）
   - 2018年《半熟少年》（小安 飾 葉子妤）
   - 2018年《愛情練習生》 (Dewi 飾 夏天)
 
 ### 電視劇
 
   - 2013年 公視人生劇展《幸福蜜方》（Dewi 飾 咪咪）
-  - 2013年《[親愛的，我愛上别人了](https://zh.wikipedia.org/wiki/親愛的，我愛上别人了 "wikilink")》（Dewi
-    飾 少年沈宜臻）
-  - 2016年 三立都會台《[大人情歌](https://zh.wikipedia.org/wiki/大人情歌 "wikilink")》
-    (小安 飾 小安 )
+  - 2013年《[親愛的，我愛上别人了](https://zh.wikipedia.org/wiki/親愛的，我愛上别人了 "wikilink")》（Dewi 飾 少年沈宜臻）
+  - 2016年 三立都會台《[大人情歌](https://zh.wikipedia.org/wiki/大人情歌 "wikilink")》 (小安 飾 小安 )
   - 2016年 三立都會台《[飛魚高校生](../Page/飛魚高校生.md "wikilink")》(Dewi 飾 喬可琪)
-  - 2016年 東森超視《[惡作劇之吻](../Page/惡作劇之吻_\(2016年電視劇\).md "wikilink")》(Dewi 飾
-    白莎穗)
+  - 2016年 東森超視《[惡作劇之吻](../Page/惡作劇之吻_\(2016年電視劇\).md "wikilink")》(Dewi 飾 白莎穗)
   - 2017年 中視《[稍息立正我愛你](../Page/稍息立正我愛你.md "wikilink")》(Dewi 飾 白白)
 
 ### 微電影
@@ -151,15 +144,12 @@ Yes》於2016年1月22日發行\[4\]。
 
 ## 廣告
 
-  - 2014年《遇見松山
-    擁抱幸福臺北》([台北捷運松山線宣導廣告](https://zh.wikipedia.org/wiki/台北捷運松山線 "wikilink"))
+  - 2014年《遇見松山 擁抱幸福臺北》([台北捷運松山線宣導廣告](https://zh.wikipedia.org/wiki/台北捷運松山線 "wikilink"))
   - 2015年 燦坤平面廣告
   - 2015年 悅氏礦泉水廣告
   - 2016年 [勇者萌將傳手機遊戲廣告](https://www.youtube.com/watch?v=BoIHFb4nLhI)
-  - 2016年
-    [客家電視台「谷風少年－我要話青春」系列－Dears](https://www.youtube.com/watch?v=VLAMAafeJQg)
-  - 2016年
-    [悅氏Light鹼性水廣告](https://www.youtube.com/watch?v=BrtTm8qYUvI)、[悅氏輕運動補給飲料廣告](https://www.youtube.com/watch?v=o8mFxqb7vAM)
+  - 2016年 [客家電視台「谷風少年－我要話青春」系列－Dears](https://www.youtube.com/watch?v=VLAMAafeJQg)
+  - 2016年 [悅氏Light鹼性水廣告](https://www.youtube.com/watch?v=BrtTm8qYUvI)、[悅氏輕運動補給飲料廣告](https://www.youtube.com/watch?v=o8mFxqb7vAM)
 
 ## 活動
 
@@ -510,8 +500,7 @@ Yes》於2016年1月22日發行\[4\]。
 ## 商品代言
 
   - 東京企劃 – 女用提包
-  - [Hey\!蘋果肌女孩](https://web.archive.org/web/20151226202720/http://pinkgogirl.com/)
-    面膜
+  - [Hey\!蘋果肌女孩](https://web.archive.org/web/20151226202720/http://pinkgogirl.com/) 面膜
   - 勇者萌將傳手機遊戲
   - [ROCKCOCO 迪士尼瑪麗貓純真系列服飾](http://hk.istayreal.com/product/topic/7)
   - ROCKCOCO X CRAFTHOLIC 宇宙人系列服飾
@@ -579,19 +568,10 @@ Yes》於2016年1月22日發行\[4\]。
   -
   -
   -
-[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
-[Category:2014年台灣建立](https://zh.wikipedia.org/wiki/Category:2014年台灣建立 "wikilink")
-[Category:單飛不解散團體](https://zh.wikipedia.org/wiki/Category:單飛不解散團體 "wikilink")
+[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:2014年台灣建立](https://zh.wikipedia.org/wiki/Category:2014年台灣建立 "wikilink") [Category:單飛不解散團體](https://zh.wikipedia.org/wiki/Category:單飛不解散團體 "wikilink")
 
 1.
-2.  [Dears 首張寫真EP
-    全台見面會](http://news.sina.com.tw/article/20140821/13172904.html)Hit
-    Fm聯播網 2014年8月21日
-3.  [「國民妹妹」Dewi被影射沒同情心　反駁：哭點比較高](http://news.sina.com.tw/article/20140821/13172904.html)東森新聞雲
-    2014年9月10日
-4.  [轉大人突破尺度 感情好一起洗澡
-    兩人欣賞彼此身材](http://www.playmusic.tw/column_info.php?id=5779&type=news「DEARS」最新寫真EP)
-    2016年1月5日 ETtoday星光雲
+2.  [Dears 首張寫真EP 全台見面會](http://news.sina.com.tw/article/20140821/13172904.html)Hit Fm聯播網 2014年8月21日
+3.  [「國民妹妹」Dewi被影射沒同情心　反駁：哭點比較高](http://news.sina.com.tw/article/20140821/13172904.html)東森新聞雲 2014年9月10日
+4.  [轉大人突破尺度 感情好一起洗澡 兩人欣賞彼此身材](http://www.playmusic.tw/column_info.php?id=5779&type=news「DEARS」最新寫真EP) 2016年1月5日 ETtoday星光雲
 5.

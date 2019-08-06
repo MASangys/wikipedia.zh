@@ -22,9 +22,7 @@
 
 ## 參考資料
 
-[Category:称谓](https://zh.wikipedia.org/wiki/Category:称谓 "wikilink")
-[Category:LGBT用語](https://zh.wikipedia.org/wiki/Category:LGBT用語 "wikilink")
-[Category:同性戀](https://zh.wikipedia.org/wiki/Category:同性戀 "wikilink")
+[Category:称谓](https://zh.wikipedia.org/wiki/Category:称谓 "wikilink") [Category:LGBT用語](https://zh.wikipedia.org/wiki/Category:LGBT用語 "wikilink") [Category:同性戀](https://zh.wikipedia.org/wiki/Category:同性戀 "wikilink")
 
 1.
 

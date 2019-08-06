@@ -1,5 +1,4 @@
-「**Flower**」是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[龍俊亨](../Page/龍俊亨.md "wikilink")的第1張個人迷你專輯。於2013年12月16日發行。唱片公司為[Cube
-Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")。
+「**Flower**」是[韓國的男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BEAST成員](https://zh.wikipedia.org/wiki/BEAST "wikilink")[龍俊亨](../Page/龍俊亨.md "wikilink")的第1張個人迷你專輯。於2013年12月16日發行。唱片公司為[Cube Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")。
 
 ## 概要
 
@@ -24,16 +23,8 @@ Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")。
 
 ## 參考資料
 
-[Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink")
-[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink")
-[Category:2013年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Gaon專輯週榜冠軍作品 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:Highlight](https://zh.wikipedia.org/wiki/Category:Highlight "wikilink") [Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink") [Category:2013年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2013年Gaon專輯週榜冠軍作品 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
-1.  [BEAST龍俊亨曝個人專輯《FLOWER》封面照
-    主打瀟灑牌](http://www.koreastardaily.com/tc/photo/35312)韓星網
-    2013-12-09
-2.  [용준형 13일 솔로데뷔 확정, 비스트와 어떻게
-    다를까](http://www.newsen.com/news_view.php?uid=201312061043400410)Newsen
-    2013-12-06
-3.  [龍俊亨藏私出輯 100%登台獻愛](http://www.libertytimes.com.tw/2014/new/jan/4/today-show7.htm)
-    自由電子報 2014-01-04
+1.  [BEAST龍俊亨曝個人專輯《FLOWER》封面照 主打瀟灑牌](http://www.koreastardaily.com/tc/photo/35312)韓星網 2013-12-09
+2.  [용준형 13일 솔로데뷔 확정, 비스트와 어떻게 다를까](http://www.newsen.com/news_view.php?uid=201312061043400410)Newsen 2013-12-06
+3.  [龍俊亨藏私出輯 100%登台獻愛](http://www.libertytimes.com.tw/2014/new/jan/4/today-show7.htm) 自由電子報 2014-01-04

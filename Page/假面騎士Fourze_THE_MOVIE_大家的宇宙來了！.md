@@ -1,26 +1,20 @@
-《**假面騎士Fourze THE MOVIE
-大家的宇宙來了\!**》（），是日本特攝節目《**[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")**》的獨立劇場版。日本定於2012年8月4日上映。\[1\]
+《**假面騎士Fourze THE MOVIE 大家的宇宙來了\!**》（），是日本特攝節目《**[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")**》的獨立劇場版。日本定於2012年8月4日上映。\[1\]
 
 本作劇場版的口號為「終於、宇宙大決戰！」、「友情力量突破大氣層 青春、宇宙在充滿火花！」。
 
-此外[超級戰隊系列作品](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《**[特命戰隊Go
-Busters](../Page/特命戰隊Go_Busters.md "wikilink")**》劇場版《**[特命戰隊Go Busters
-THE MOVIE
-保護東京Enetower\!](../Page/特命戰隊Go_Busters_THE_MOVIE_保護東京Enetower!.md "wikilink")**》亦同步上映。
+此外[超級戰隊系列作品](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《**[特命戰隊Go Busters](../Page/特命戰隊Go_Busters.md "wikilink")**》劇場版《**[特命戰隊Go Busters THE MOVIE 保護東京Enetower\!](../Page/特命戰隊Go_Busters_THE_MOVIE_保護東京Enetower!.md "wikilink")**》亦同步上映。
 
 ## 本作特色
 
 本作加入東映特攝系列的名作，於1977年在[TBS播放的](../Page/TBS電視台.md "wikilink")《天地雙龍》(日原文《[宇宙鉄人キョーダイン](https://zh.wikipedia.org/wiki/:ja:宇宙鉄人キョーダイン "wikilink")》)，以全新造型與Fourze對決。\[2\]\[3\]
 
-另外同年播放的特攝名作《大鐵人17號》(日原文《[大鉄人17](https://zh.wikipedia.org/wiki/:ja:大鉄人17 "wikilink")》)
-的巨大機械人One-Seven，以人造衛星兵器**「XVII」**的名義登場。
+另外同年播放的特攝名作《大鐵人17號》(日原文《[大鉄人17](https://zh.wikipedia.org/wiki/:ja:大鉄人17 "wikilink")》) 的巨大機械人One-Seven，以人造衛星兵器**「XVII」**的名義登場。
 
 ## 故事概要
 
 **Alicia聯邦**研發的宇宙鐵人**Groundain**和**Skydain**得到了人類的意識，兩人實行反人類計畫，著急完成人造衛星兵器**「XVII」**，並以「哥哥」、「妹妹」相稱。
 
-以**如月弦太朗**為首，從天之川學園高中成立的**假面騎士部**對反人類計劃進行阻止並向宇宙進發。但**Alicia聯邦**特務**Inga·Blink**聯同拍擋**Black
-Knight**對**假面騎士部**進行妨礙......
+以**如月弦太朗**為首，從天之川學園高中成立的**假面騎士部**對反人類計劃進行阻止並向宇宙進發。但**Alicia聯邦**特務**Inga·Blink**聯同拍擋**Black Knight**對**假面騎士部**進行妨礙......
 
 ## 登場人物
 
@@ -199,8 +193,7 @@ Knight**對**假面騎士部**進行妨礙......
 <!-- end list -->
 
   -
-    由幪面超人部及天高的師生按下40個天文裝置，產生出的宇宙能量轉化為No.EX Fusion Switch，再與Meteor
-    Switch配合使用後變身而成。
+    由幪面超人部及天高的師生按下40個天文裝置，產生出的宇宙能量轉化為No.EX Fusion Switch，再與Meteor Switch配合使用後變身而成。
     外觀與Cosmic States相似，加上流星風暴的護肩，全身以紫色為主。眼睛為黃色。
     由No.EX Fusion Switch及Meteor Switch變身，右手可使用裝備Meteor Galaxy，綜合戰鬥力同樣增強。
     甚至使用假面騎士Meteor擅長的近身格鬥技亦得心應手。
@@ -230,8 +223,7 @@ Knight**對**假面騎士部**進行妨礙......
 <!-- end list -->
 
   -
-    前作劇場版《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega
-    Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》大型宇宙船的另一型號。
+    前作劇場版《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》大型宇宙船的另一型號。
     假面騎士部眾人乘坐此船突破大氣層進入宇宙，向衞星兵器「XVII」出發。
 
 <!-- end list -->
@@ -314,8 +306,7 @@ Knight**對**假面騎士部**進行妨礙......
 
 <!-- end list -->
 
-  - **Black
-    Knight\[4\]（）**（替身演員：[渡邊淳](https://zh.wikipedia.org/wiki/:ja:渡辺淳 "wikilink")）
+  - **Black Knight\[4\]（）**（替身演員：[渡邊淳](https://zh.wikipedia.org/wiki/:ja:渡辺淳 "wikilink")）
 
 <!-- end list -->
 
@@ -464,8 +455,7 @@ Knight**對**假面騎士部**進行妨礙......
 
 ### 網路電影
 
-**《網路版 - 假面騎士Fourze
-大家的授業來了\!》**（日語：），是2012年7月13日東映特撮BB的[テレ朝動画的付費配信](https://zh.wikipedia.org/wiki/:ja:テレ朝動画 "wikilink")，也可以說是電影本篇外所附帶的特別篇\[5\]。
+**《網路版 - 假面騎士Fourze 大家的授業來了\!》**（日語：），是2012年7月13日東映特撮BB的[テレ朝動画的付費配信](https://zh.wikipedia.org/wiki/:ja:テレ朝動画 "wikilink")，也可以說是電影本篇外所附帶的特別篇\[5\]。
 
 #### 網路版登場角色
 
@@ -511,8 +501,7 @@ Knight**對**假面騎士部**進行妨礙......
 
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")
   - 導演 - [山口恭平](https://zh.wikipedia.org/wiki/:ja:山口恭平 "wikilink")
-  - 編劇 -
-    [三條陸](../Page/三條陸.md "wikilink")、[長谷川圭一](https://zh.wikipedia.org/wiki/:ja:長谷川圭一 "wikilink")、田嶋秀樹
+  - 編劇 - [三條陸](../Page/三條陸.md "wikilink")、[長谷川圭一](https://zh.wikipedia.org/wiki/:ja:長谷川圭一 "wikilink")、田嶋秀樹
 
 #### 網路版各話標題
 
@@ -954,8 +943,7 @@ Knight**對**假面騎士部**進行妨礙......
 
 ### 映像商品化
 
-  - **《假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!的製作特輯來了！》**[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2012年7月21日發行）
+  - **《假面騎士Fourze THE MOVIE 大家的宇宙來了\!的製作特輯來了！》**[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2012年7月21日發行）
 
 <!-- end list -->
 
@@ -964,8 +952,7 @@ Knight**對**假面騎士部**進行妨礙......
 
 <!-- end list -->
 
-  - **《網路版 - 假面騎士Fourze
-    大家的授業來了\!》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2012年12月7日發行）
+  - **《網路版 - 假面騎士Fourze 大家的授業來了\!》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2012年12月7日發行）
 
 <!-- end list -->
 
@@ -975,18 +962,15 @@ Knight**對**假面騎士部**進行妨礙......
 
 <!-- end list -->
 
-  - **《假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!》**通常版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2013年1月21日發行）
+  - **《假面騎士Fourze THE MOVIE 大家的宇宙來了\!》**通常版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2013年1月21日發行）
 
 <!-- end list -->
 
-  - **《假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!》**珍藏版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2013年1月21日發行）
+  - **《假面騎士Fourze THE MOVIE 大家的宇宙來了\!》**珍藏版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2013年1月21日發行）
 
 <!-- end list -->
 
-  - **《假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!》**導演剪輯版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（預定2013年6月21日發行）
+  - **《假面騎士Fourze THE MOVIE 大家的宇宙來了\!》**導演剪輯版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（預定2013年6月21日發行）
 
 <!-- end list -->
 
@@ -1000,21 +984,15 @@ Knight**對**假面騎士部**進行妨礙......
   - 城島悠木 - [清水富美加](../Page/清水富美加.md "wikilink") 飾
   - 朔田流星 / 假面騎士Meteor - [吉澤亮](../Page/吉澤亮.md "wikilink") 飾/聲
   - 風城美羽 - [坂田梨香子](https://zh.wikipedia.org/wiki/:ja:坂田梨香子 "wikilink") 飾
-  - 大文字隼 -
-    [冨森Justin](https://zh.wikipedia.org/wiki/:ja:冨森ジャスティン "wikilink")
-    飾
+  - 大文字隼 - [冨森Justin](https://zh.wikipedia.org/wiki/:ja:冨森ジャスティン "wikilink") 飾
   - 野座間友子 - [志保](../Page/志保.md "wikilink") 飾
   - JK - [土屋シオン](https://zh.wikipedia.org/wiki/:ja:土屋シオン "wikilink") 飾
   - Inga‧Blink - [原幹惠](../Page/原幹惠.md "wikilink") 飾
-  - 冴葉晴海 / Groundain -
-    [-{岡}-田浩暉](https://zh.wikipedia.org/wiki/:ja:岡田浩暉 "wikilink")
-    飾/聲
+  - 冴葉晴海 / Groundain - [-{岡}-田浩暉](https://zh.wikipedia.org/wiki/:ja:岡田浩暉 "wikilink") 飾/聲
   - 白山靜 / Skydain - [木下亞由美](../Page/木下亞由美.md "wikilink") 飾/聲
   - Blink博士 - [西田健](https://zh.wikipedia.org/wiki/:ja:西田健 "wikilink") 飾
   - 速水公平 / 天秤座Zodiarts- [天野浩成](../Page/天野浩成.md "wikilink") 飾/聲
-  - 立神吼 / 獅子座Zodiarts -
-    [横山一敏](https://zh.wikipedia.org/wiki/:ja:横山一敏 "wikilink")
-    飾/聲
+  - 立神吼 / 獅子座Zodiarts - [横山一敏](https://zh.wikipedia.org/wiki/:ja:横山一敏 "wikilink") 飾/聲
   - 大杉忠太 - [田中卓志](https://zh.wikipedia.org/wiki/:ja:田中卓志 "wikilink") 飾
   - 小松種夫 - [山根良顕](https://zh.wikipedia.org/wiki/:ja:山根良顕 "wikilink") 飾
   - 我望光明 - [鶴見辰吾](https://zh.wikipedia.org/wiki/:ja:鶴見辰吾 "wikilink") 飾
@@ -1024,8 +1002,7 @@ Knight**對**假面騎士部**進行妨礙......
   - 廣田玲子 - [橘ゆりか](https://zh.wikipedia.org/wiki/:ja:橘ゆりか "wikilink") 飾
   - 番長介 - [黒石高大](https://zh.wikipedia.org/wiki/:ja:黒石高大 "wikilink") 飾
   - 三浦俊也 - [水野真典](https://zh.wikipedia.org/wiki/:ja:水野真典 "wikilink") 飾
-  - 佐久間珠惠 - [吉川まりあ](https://zh.wikipedia.org/wiki/:ja:吉川まりあ "wikilink")
-    飾
+  - 佐久間珠惠 - [吉川まりあ](https://zh.wikipedia.org/wiki/:ja:吉川まりあ "wikilink") 飾
   - 新田文博 - [宇治清高](https://zh.wikipedia.org/wiki/:ja:宇治清高 "wikilink") 飾
   - 佐竹剛 - [神保悟志](https://zh.wikipedia.org/wiki/:ja:神保悟志 "wikilink") 飾
   - 佐竹輝彥 - [佐藤流司](https://zh.wikipedia.org/wiki/:ja:佐藤流司 "wikilink") 飾
@@ -1050,9 +1027,7 @@ Knight**對**假面騎士部**進行妨礙......
   - 五藤東次郎 - [川村亮介](https://zh.wikipedia.org/wiki/:ja:川村亮介 "wikilink") 飾
   - 甲田鈴美 - [城戶愛莉](https://zh.wikipedia.org/wiki/:ja:城戸愛莉 "wikilink") 飾
   - 乙川美奈 - [村上穗乃佳](https://zh.wikipedia.org/wiki/:ja:村上穂乃佳 "wikilink") 飾
-  - 艾妮露須田 -
-    [瀧澤Karen](https://zh.wikipedia.org/wiki/:ja:滝沢カレン "wikilink")
-    飾
+  - 艾妮露須田 - [瀧澤Karen](https://zh.wikipedia.org/wiki/:ja:滝沢カレン "wikilink") 飾
 
 ## 聲音演出
 
@@ -1087,8 +1062,7 @@ Knight**對**假面騎士部**進行妨礙......
 
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")
   - 監製 - 小野寺章
-  - 製片 -
-    [塚田英明](https://zh.wikipedia.org/wiki/:ja:塚田英明 "wikilink")・高橋一浩（[東映](../Page/東映.md "wikilink")）、本井健吾（[朝日電視台](../Page/朝日電視台.md "wikilink")）
+  - 製片 - [塚田英明](https://zh.wikipedia.org/wiki/:ja:塚田英明 "wikilink")・高橋一浩（[東映](../Page/東映.md "wikilink")）、本井健吾（[朝日電視台](../Page/朝日電視台.md "wikilink")）
   - 導演 - [坂本浩一](../Page/坂本浩一.md "wikilink")
   - 編劇 - [中島一基](https://zh.wikipedia.org/wiki/:ja:中島かずき "wikilink")
   - 配樂 - [鳴瀬シュウヘイ](https://zh.wikipedia.org/wiki/:ja:鳴瀬シュウヘイ "wikilink")
@@ -1096,35 +1070,23 @@ Knight**對**假面騎士部**進行妨礙......
   - 編輯 - 須永弘志
   - 特攝導演 - [佛田洋](https://zh.wikipedia.org/wiki/:ja:佛田洋 "wikilink")
   - 助理導演 - [伊藤良一](https://zh.wikipedia.org/wiki/:ja:伊藤良一 "wikilink")
-  - 動作指導 -
-    [宮崎剛](https://zh.wikipedia.org/wiki/:ja:宮崎剛_\(俳優\) "wikilink")、[石垣廣文](https://zh.wikipedia.org/wiki/:ja:石垣広文 "wikilink")
-  - Zodiarts、Groundyne、Skydyne、Black Knight造型設計 -
-    [麻宮騎亞](../Page/麻宮騎亞.md "wikilink")
-  - 《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》製作協力
-    - [宇都宮孝明](https://zh.wikipedia.org/wiki/:ja:宇都宮孝明 "wikilink")
-  - 《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》演出協力
-    - [中澤祥次郎](https://zh.wikipedia.org/wiki/:ja:中澤祥次郎 "wikilink")
+  - 動作指導 - [宮崎剛](https://zh.wikipedia.org/wiki/:ja:宮崎剛_\(俳優\) "wikilink")、[石垣廣文](https://zh.wikipedia.org/wiki/:ja:石垣広文 "wikilink")
+  - Zodiarts、Groundyne、Skydyne、Black Knight造型設計 - [麻宮騎亞](../Page/麻宮騎亞.md "wikilink")
+  - 《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》製作協力 - [宇都宮孝明](https://zh.wikipedia.org/wiki/:ja:宇都宮孝明 "wikilink")
+  - 《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》演出協力 - [中澤祥次郎](https://zh.wikipedia.org/wiki/:ja:中澤祥次郎 "wikilink")
   - 製作公司 - 東映TV・Production
   - 發行 - [東映](../Page/東映.md "wikilink")
-  - 製作 - 劇場版「FOURZE・Go
-    Busters」製作委員會（[東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、[TOEI
-    VIDEO](https://zh.wikipedia.org/wiki/:ja:東映ビデオ "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[TOEI
-    ADVERTISING](https://zh.wikipedia.org/wiki/:ja:東映ビデオ "wikilink")、[萬代](../Page/萬代.md "wikilink")）
+  - 製作 - 劇場版「FOURZE・Go Busters」製作委員會（[東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、[TOEI VIDEO](https://zh.wikipedia.org/wiki/:ja:東映ビデオ "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[TOEI ADVERTISING](https://zh.wikipedia.org/wiki/:ja:東映ビデオ "wikilink")、[萬代](../Page/萬代.md "wikilink")）
 
 ## 参考资料
 
 ## 外部連結
 
   -
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink")
-[Category:學校背景電影](https://zh.wikipedia.org/wiki/Category:學校背景電影 "wikilink")
-[Category:2012年日本電影](https://zh.wikipedia.org/wiki/Category:2012年日本電影 "wikilink")
-[Category:坂本浩一電影](https://zh.wikipedia.org/wiki/Category:坂本浩一電影 "wikilink")
+[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink") [Category:學校背景電影](https://zh.wikipedia.org/wiki/Category:學校背景電影 "wikilink") [Category:2012年日本電影](https://zh.wikipedia.org/wiki/Category:2012年日本電影 "wikilink") [Category:坂本浩一電影](https://zh.wikipedia.org/wiki/Category:坂本浩一電影 "wikilink")
 
 1.
 2.
 3.
 4.
-5.  [『假面騎士Fourze
-    大家的授業來了\!』（官方網站）](http://www.fourze-gobus.jp/netmovie/index.html)
+5.  [『假面騎士Fourze 大家的授業來了\!』（官方網站）](http://www.fourze-gobus.jp/netmovie/index.html)

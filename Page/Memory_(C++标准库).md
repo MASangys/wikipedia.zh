@@ -1,5 +1,4 @@
-**memory**
-是[C++標準程式庫中的一個](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")[头文件](../Page/头文件.md "wikilink")，定义了C++标准中的智能指针、内存分配器（allocator）、与[垃圾回收有关的函数](../Page/垃圾回收_\(計算機科學\).md "wikilink")、临时性的申请与释放动态内存的函数、在内存上创建（构造）对象的函数等等。
+**memory** 是[C++標準程式庫中的一個](https://zh.wikipedia.org/wiki/C++標準程式庫 "wikilink")[头文件](../Page/头文件.md "wikilink")，定义了C++标准中的智能指针、内存分配器（allocator）、与[垃圾回收有关的函数](../Page/垃圾回收_\(計算機科學\).md "wikilink")、临时性的申请与释放动态内存的函数、在内存上创建（构造）对象的函数等等。
 
 ## 运算符
 
@@ -17,8 +16,7 @@
 
 ### unique_ptr
 
-unique_ptr是个类模板。unique_ptr指针对象独占式地引用所指的数据对象。不能复制构造（copy
-ctor），也不能复制赋值，也就是对其无法进行复制，不能得到指向同一个对象的两个unique_ptr；但是可以移动构造和移动赋值。当unique_ptr指针对象离开其作用域，生命期结束时，自动使用内部给定的删除器（deleter）delete所指向的数据对象。unique_ptr十分依赖于[右值引用](../Page/右值引用.md "wikilink")和[移动语义](https://zh.wikipedia.org/wiki/移动语义 "wikilink")。
+unique_ptr是个类模板。unique_ptr指针对象独占式地引用所指的数据对象。不能复制构造（copy ctor），也不能复制赋值，也就是对其无法进行复制，不能得到指向同一个对象的两个unique_ptr；但是可以移动构造和移动赋值。当unique_ptr指针对象离开其作用域，生命期结束时，自动使用内部给定的删除器（deleter）delete所指向的数据对象。unique_ptr十分依赖于[右值引用](../Page/右值引用.md "wikilink")和[移动语义](https://zh.wikipedia.org/wiki/移动语义 "wikilink")。
 
 ``` cpp
 template<class Type, class Del = default_delete<Type> >
@@ -62,15 +60,13 @@ private:
 
 unique_ptr的主要用途有：
 
-1.  实现资源获取即初始化（RAII）。当程序发生异常时，异常处理机制的栈展开（stack
-    unwinding）会销毁局部变量，包括unique_ptr对象，从而自动释放资源。
+1.  实现资源获取即初始化（RAII）。当程序发生异常时，异常处理机制的栈展开（stack unwinding）会销毁局部变量，包括unique_ptr对象，从而自动释放资源。
 2.  实现右值移动语义。例如，unique_ptr类型可作为函数的返回值类型，采用了隐式地移动赋值。
 3.  在容器中保存unique_ptr对象。需要显式地移动赋值，即通过std::move()。
 
 ### shared_ptr
 
-shared_ptr是一个类模板，包装了使用引用计数的智能指针。当shared_ptr在退出其作用域、生命期结束时，析构函数或自动对所指内存数据对象的引用计数减去1。如果内存数据对象的引用计数为0，则会被自动delete。指向同一资源的shared_ptr共同拥有一个控制块，其中保存了shared_ptr的引用计数、指向这一资源的weak_ptr的数目、资源的析构器（deleter
-）地址、对该控制块的可定制的allocator。
+shared_ptr是一个类模板，包装了使用引用计数的智能指针。当shared_ptr在退出其作用域、生命期结束时，析构函数或自动对所指内存数据对象的引用计数减去1。如果内存数据对象的引用计数为0，则会被自动delete。指向同一资源的shared_ptr共同拥有一个控制块，其中保存了shared_ptr的引用计数、指向这一资源的weak_ptr的数目、资源的析构器（deleter ）地址、对该控制块的可定制的allocator。
 
 ``` cpp
 template<class Ty>
@@ -160,8 +156,7 @@ auto_ptr，即自动指针，在C++11标准是过时的类模板。
 作为使用`operator new`分配内存的unique_ptr对象的deleter。有两种形式：
 
   - 为指针： template\< class T \> struct default_delete; 函数调用成员运算符调用delete
-  - 为指针数组： template\< class T \> struct default_delete\<T\[\]\>;
-    函数调用成员运算符模板调用delete\[\]
+  - 为指针数组： template\< class T \> struct default_delete\<T\[\]\>; 函数调用成员运算符模板调用delete\[\]
 
 示例：
 
@@ -199,9 +194,7 @@ int main()
 
 ### allocator
 
-allocator是STL中非常常用的类模板，用于定制内存的分配、释放、管理。目的是封装STL容器在内存管理上的低层细节，所以用户程序不应该直接调用allocator去管理内存，除非是正在定制容器。\[1\]allocator将内存的分配与对象的构造初始化解耦，分别用allocate、construct两个成员函数完成；同样将内存的释放与对象的析构销毁解耦，分别用deallocat、destroy两个成员函数完成。自定义的allocator的实现，必须满足C++11标准的17.6.3.5节中的“Table
-28 —— Allocator
-requirements”，简单说就是要在类中定义若干类型名、模板成员名、成员函数、运算符函数。<memory>中定义的allocator类模板做一些使用全局malloc/free函数表达式的内存的分配、释放的平常操作：
+allocator是STL中非常常用的类模板，用于定制内存的分配、释放、管理。目的是封装STL容器在内存管理上的低层细节，所以用户程序不应该直接调用allocator去管理内存，除非是正在定制容器。\[1\]allocator将内存的分配与对象的构造初始化解耦，分别用allocate、construct两个成员函数完成；同样将内存的释放与对象的析构销毁解耦，分别用deallocat、destroy两个成员函数完成。自定义的allocator的实现，必须满足C++11标准的17.6.3.5节中的“Table 28 —— Allocator requirements”，简单说就是要在类中定义若干类型名、模板成员名、成员函数、运算符函数。<memory>中定义的allocator类模板做一些使用全局malloc/free函数表达式的内存的分配、释放的平常操作：
 
 ``` cpp
 template<class _Ty> class  allocator : public _Allocator_base<_Ty>
@@ -326,20 +319,15 @@ int main() {
 
 则对同一个数据类对象，弄出了两套引用计数。这会导致当一套引用计数变为0而销毁数据类对象时，另外一套引用计数的shared_ptr成为“[悬空](../Page/迷途指针.md "wikilink")”的错误。
 
-[Microsoft Visual C++](../Page/Microsoft_Visual_C++.md "wikilink")
-2010是在enable_shared_from_this类模板中定义一个数据类型`_EStype`。shared_ptr的对象在调用构造函数时，最后将调用一个函数_Enable_shared(_Ty
-\*_Ptr, _Ref_count_base
-\*_Refptr），其中第一个参数是数据类对象的指针，第二个参数是引用计数控制块的指针。利用模板元编程的参数推导的特性，编译器选择_Enable_shared，或是匹配下述模板函数
+[Microsoft Visual C++](../Page/Microsoft_Visual_C++.md "wikilink") 2010是在enable_shared_from_this类模板中定义一个数据类型`_EStype`。shared_ptr的对象在调用构造函数时，最后将调用一个函数_Enable_shared(_Ty \*_Ptr, _Ref_count_base \*_Refptr），其中第一个参数是数据类对象的指针，第二个参数是引用计数控制块的指针。利用模板元编程的参数推导的特性，编译器选择_Enable_shared，或是匹配下述模板函数
 
   -
-    `template<class _Ty> inline void _Enable_shared(_Ty *_Ptr,
-    _Ref_count_base *_Refptr, typename _Ty::_EStype * = 0)`
+    `template<class _Ty> inline void _Enable_shared(_Ty *_Ptr, _Ref_count_base *_Refptr, typename _Ty::_EStype * = 0)`
 
 或是匹配下述普通函数
 
   -
-    `inline void _Enable_shared(const volatile void *, const volatile
-    void *) { }`
+    `inline void _Enable_shared(const volatile void *, const volatile void *) { }`
 
 前者把enable_shared_from_this类中把一个弱指针指向了shared_ptr的引用计数控制块。从而实现了enable_shared_from_this类的语义。
 
@@ -361,37 +349,25 @@ raw_storage_iterator是个类模板，用于表示指向内存的一个前向迭
 
 ## 函数
 
-  - void\* align( std::size_t alignment,std::size_t size,void\*&
-    ptr,std::size_t& space
-    );在一块内存（ptr所指）中，按照对齐要求slignment，找到一块长度为size的，并重置ptr为该内存起始地址，space为该内存长度。
-  - allocate_shared
-    这是shared_ptr的工厂函数，指定内存分配器allocator与数据对象的初始化参数，创建数据对象及shared_ptr。
+  - void\* align( std::size_t alignment,std::size_t size,void\*& ptr,std::size_t& space );在一块内存（ptr所指）中，按照对齐要求slignment，找到一块长度为size的，并重置ptr为该内存起始地址，space为该内存长度。
+  - allocate_shared 这是shared_ptr的工厂函数，指定内存分配器allocator与数据对象的初始化参数，创建数据对象及shared_ptr。
   - const_pointer_cast 用于shared_ptr对象的const的类型转换。
-  - declare_no_pointers
-    用于[垃圾回收](../Page/垃圾回收_\(計算機科學\).md "wikilink")。告知垃圾收集器在指定的内存范围内不含可跟踪的指针。
-  - declare_reachable
-    用于[垃圾回收](../Page/垃圾回收_\(計算機科學\).md "wikilink")。令垃圾收集器知道参数指针是指向一块声明为可达的动态分配内存。声明为可达的（declared
-    reachable）完全对象，\[2\]是指该对象作为形参所指，declare_reachable调用的次数超过undeclare_reachable调用次数。声明为可达的一块动态分配内存不能被垃圾收集器释放，即使它看起来没有可达的访问方法。
+  - declare_no_pointers 用于[垃圾回收](../Page/垃圾回收_\(計算機科學\).md "wikilink")。告知垃圾收集器在指定的内存范围内不含可跟踪的指针。
+  - declare_reachable 用于[垃圾回收](../Page/垃圾回收_\(計算機科學\).md "wikilink")。令垃圾收集器知道参数指针是指向一块声明为可达的动态分配内存。声明为可达的（declared reachable）完全对象，\[2\]是指该对象作为形参所指，declare_reachable调用的次数超过undeclare_reachable调用次数。声明为可达的一块动态分配内存不能被垃圾收集器释放，即使它看起来没有可达的访问方法。
   - dynamic_pointer_cast 对shared_ptr对象的运行时动态转换类型。
   - get_deleter 返回shared_ptr对象的deleter。
-  - get_pointer_safety
-    用于[垃圾回收](../Page/垃圾回收_\(計算機科學\).md "wikilink")。返回当前的垃圾回收器采用的指针类型。
+  - get_pointer_safety 用于[垃圾回收](../Page/垃圾回收_\(計算機科學\).md "wikilink")。返回当前的垃圾回收器采用的指针类型。
   - get_temporary_buffer 对给定类型、给定对象数目，分配一块临时的内存存储。
   - make_shared 这是shared_ptr的工厂函数，使用给定的数据对象的初始化参数，创建数据对象及shared_ptr。
   - owner_less 混合比较shared_ptr对象与weak_ptr对象的序关系。
-  - pointer_safety
-    用于[垃圾回收](../Page/垃圾回收_\(計算機科學\).md "wikilink")。是`get_pointer_safety`的返回值的枚举类型。
+  - pointer_safety 用于[垃圾回收](../Page/垃圾回收_\(計算機科學\).md "wikilink")。是`get_pointer_safety`的返回值的枚举类型。
   - return_temporary_buffer 释放由`get_temporary_buffer`分配的临时性的内存块。
   - static_pointer_cast 编译时静态转换shared_ptr的值类型。
   - swap 交换两个shared_ptr对象或交换两个weak_ptr对象.
-  - undeclare_no_pointers
-    用于[垃圾回收](../Page/垃圾回收_\(計算機科學\).md "wikilink")。告诉垃圾回收器，在指定范围的内存中，存着可跟踪指针。
-  - undeclare_reachable
-    用于[垃圾回收](../Page/垃圾回收_\(計算機科學\).md "wikilink")。告诉垃圾回收器，被形参指针所指的动态分配内存块，撤销一次declare_reachable操作。如果动态分配内存块上没有declare_reachable操作，则垃圾收集器如果判断它已经是不可达的状态（即没有手段访问这块内存）就可把它当垃圾回收。
-  - uninitialized_copy
-    把输入iterator所给出的一个内存范围内的对象数组的每个元素，逐个拷贝构造到前向的目标iterator所指的内存上。
-  - uninitialized_copy_n
-    把输入iterator所给出的一个内存地址开始的对象数组的n个元素，逐个拷贝构造到前向的目标iterator所指的内存上。
+  - undeclare_no_pointers 用于[垃圾回收](../Page/垃圾回收_\(計算機科學\).md "wikilink")。告诉垃圾回收器，在指定范围的内存中，存着可跟踪指针。
+  - undeclare_reachable 用于[垃圾回收](../Page/垃圾回收_\(計算機科學\).md "wikilink")。告诉垃圾回收器，被形参指针所指的动态分配内存块，撤销一次declare_reachable操作。如果动态分配内存块上没有declare_reachable操作，则垃圾收集器如果判断它已经是不可达的状态（即没有手段访问这块内存）就可把它当垃圾回收。
+  - uninitialized_copy 把输入iterator所给出的一个内存范围内的对象数组的每个元素，逐个拷贝构造到前向的目标iterator所指的内存上。
+  - uninitialized_copy_n 把输入iterator所给出的一个内存地址开始的对象数组的n个元素，逐个拷贝构造到前向的目标iterator所指的内存上。
   - uninitialized_fill 在输入iterator所给出的一个内存范围内，用给定的对象去拷贝构造多个对象。
   - uninitialized_fill_n 在输入iterator所给出的一个内存开始地址处，用给定的对象去拷贝构造指定的n个对象。
 
@@ -399,12 +375,9 @@ raw_storage_iterator是个类模板，用于表示指向内存的一个前向迭
 
 <references/>
 
-  - 《Boost程序库完全开发指南——深入C++“准”标准库》第3章 内存管理 3.4 shared_ptr 作者: 罗剑锋
-    [电子工业出版社](../Page/电子工业出版社.md "wikilink") 2010年9月版 ISBN
-    9787121115776
+  - 《Boost程序库完全开发指南——深入C++“准”标准库》第3章 内存管理 3.4 shared_ptr 作者: 罗剑锋 [电子工业出版社](../Page/电子工业出版社.md "wikilink") 2010年9月版 ISBN 9787121115776
 
 [Category:C++標準函式庫](https://zh.wikipedia.org/wiki/Category:C++標準函式庫 "wikilink")
 
-1.  [The Standard Librarian: What Are Allocators Good For? 作者：Matt
-    Austern](http://www.drdobbs.com/the-standard-librarian-what-are-allocato/184403759)
+1.  [The Standard Librarian: What Are Allocators Good For? 作者：Matt Austern](http://www.drdobbs.com/the-standard-librarian-what-are-allocato/184403759)
 2.  C++11标准20.6.4-1

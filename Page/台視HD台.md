@@ -143,18 +143,9 @@
 
 ## 外部連結
 
-[Category:台視](https://zh.wikipedia.org/wiki/Category:台視 "wikilink")
-[Category:台灣已停播的電視頻道](https://zh.wikipedia.org/wiki/Category:台灣已停播的電視頻道 "wikilink")
-[Category:2012年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2012年成立的电视台或电视频道 "wikilink")
-[Category:2014年停播的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2014年停播的電視台或電視頻道 "wikilink")
-[Category:2012年台灣建立](https://zh.wikipedia.org/wiki/Category:2012年台灣建立 "wikilink")
-[Category:2014年台灣廢除](https://zh.wikipedia.org/wiki/Category:2014年台灣廢除 "wikilink")
+[Category:台視](https://zh.wikipedia.org/wiki/Category:台視 "wikilink") [Category:台灣已停播的電視頻道](https://zh.wikipedia.org/wiki/Category:台灣已停播的電視頻道 "wikilink") [Category:2012年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:2012年成立的电视台或电视频道 "wikilink") [Category:2014年停播的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2014年停播的電視台或電視頻道 "wikilink") [Category:2012年台灣建立](https://zh.wikipedia.org/wiki/Category:2012年台灣建立 "wikilink") [Category:2014年台灣廢除](https://zh.wikipedia.org/wiki/Category:2014年台灣廢除 "wikilink")
 
 1.  [台視策劃說明稿](http://www.ttv.com.tw/homev2/ttv/pdf/%E8%AA%AA%E6%98%8E-16.pdf)
-2.  [無線四台HD播奧運
-    中視先試播](https://tw.news.yahoo.com/無線四台-播奧運-中視先試播-213000535.html)，中國時報
-    2012-06-27
-3.  [無線四台HD
-    奧運後正式上路](http://showbiz.chinatimes.com/showbiz/110511/112012072600002.html)
-     中國時報 2012-7-26
+2.  [無線四台HD播奧運 中視先試播](https://tw.news.yahoo.com/無線四台-播奧運-中視先試播-213000535.html)，中國時報 2012-06-27
+3.  [無線四台HD 奧運後正式上路](http://showbiz.chinatimes.com/showbiz/110511/112012072600002.html)  中國時報 2012-7-26
 4.  [以無線電視數位機上盒收看台視家族頻道](http://www.ttv.com.tw/event/2014/TTVnews/Dbox.asp)

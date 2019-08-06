@@ -1,7 +1,4 @@
-《**DJ甜心**》（Radio
-Rebel，又名**电台甜心**、**叛逆主播**）是2012年[迪士尼頻道原創真人版電影](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")，根據小說《Shrinking
-Violet》改编，由Debby
-Ryan主演。在美國於2012年2月17日首播，在台灣於台灣時間（GMT+8）2012年7月25日21:00首播。
+《**DJ甜心**》（Radio Rebel，又名**电台甜心**、**叛逆主播**）是2012年[迪士尼頻道原創真人版電影](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")，根據小說《Shrinking Violet》改编，由Debby Ryan主演。在美國於2012年2月17日首播，在台灣於台灣時間（GMT+8）2012年7月25日21:00首播。
 
 ## 故事背景
 
@@ -67,23 +64,11 @@ Ryan主演。在美國於2012年2月17日首播，在台灣於台灣時間（GMT
 
 ## 参考文献
 
-[Category:迪士尼電影](https://zh.wikipedia.org/wiki/Category:迪士尼電影 "wikilink")
-[Category:美國青春電影](https://zh.wikipedia.org/wiki/Category:美國青春電影 "wikilink")
-[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink")
-[Category:西雅圖背景電影](https://zh.wikipedia.org/wiki/Category:西雅圖背景電影 "wikilink")
-[Category:溫哥華取景電影](https://zh.wikipedia.org/wiki/Category:溫哥華取景電影 "wikilink")
-[Category:電影原聲帶](https://zh.wikipedia.org/wiki/Category:電影原聲帶 "wikilink")
-[Category:美國小說改編電影](https://zh.wikipedia.org/wiki/Category:美國小說改編電影 "wikilink")
-[Category:廣播題材電影](https://zh.wikipedia.org/wiki/Category:廣播題材電影 "wikilink")
-[Category:2012年原聲帶](https://zh.wikipedia.org/wiki/Category:2012年原聲帶 "wikilink")
-[Category:華特迪士尼唱片原聲帶](https://zh.wikipedia.org/wiki/Category:華特迪士尼唱片原聲帶 "wikilink")
+[Category:迪士尼電影](https://zh.wikipedia.org/wiki/Category:迪士尼電影 "wikilink") [Category:美國青春電影](https://zh.wikipedia.org/wiki/Category:美國青春電影 "wikilink") [Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:西雅圖背景電影](https://zh.wikipedia.org/wiki/Category:西雅圖背景電影 "wikilink") [Category:溫哥華取景電影](https://zh.wikipedia.org/wiki/Category:溫哥華取景電影 "wikilink") [Category:電影原聲帶](https://zh.wikipedia.org/wiki/Category:電影原聲帶 "wikilink") [Category:美國小說改編電影](https://zh.wikipedia.org/wiki/Category:美國小說改編電影 "wikilink") [Category:廣播題材電影](https://zh.wikipedia.org/wiki/Category:廣播題材電影 "wikilink") [Category:2012年原聲帶](https://zh.wikipedia.org/wiki/Category:2012年原聲帶 "wikilink") [Category:華特迪士尼唱片原聲帶](https://zh.wikipedia.org/wiki/Category:華特迪士尼唱片原聲帶 "wikilink")
 
-1.  [Breaking News - Popular Young Actress Debby Ryan Stars in "Radio
-    Rebel"](http://www.thefutoncritic.com/news/2012/01/18/popular-young-actress-debby-ryan-stars-in-radio-rebel-a-disney-channel-original-movie-premiering-friday-february-17-363011/20120118disney02/)
+1.  [Breaking News - Popular Young Actress Debby Ryan Stars in "Radio Rebel"](http://www.thefutoncritic.com/news/2012/01/18/popular-young-actress-debby-ryan-stars-in-radio-rebel-a-disney-channel-original-movie-premiering-friday-february-17-363011/20120118disney02/)
 
 2.
 3.
 4.
-5.  [Disney Channel Original Movie 'Radio Rebel' Rocks With 4.3 Million
-    Total
-    Viewers](http://tvbythenumbers.zap2it.com/2012/02/21/disney-channel-original-movie-radio-rebel-rocks-with-4-3-million-total-viewers/121121/)
+5.  [Disney Channel Original Movie 'Radio Rebel' Rocks With 4.3 Million Total Viewers](http://tvbythenumbers.zap2it.com/2012/02/21/disney-channel-original-movie-radio-rebel-rocks-with-4-3-million-total-viewers/121121/)

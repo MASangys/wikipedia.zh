@@ -1,5 +1,4 @@
-《**Wonder
-Woman**》（意思：神奇女俠）是[鄭秀文](../Page/鄭秀文.md "wikilink")的第二十七張個人專輯和第二十一張粵語專輯，於2002年11月發行\[1\]。
+《**Wonder Woman**》（意思：神奇女俠）是[鄭秀文](../Page/鄭秀文.md "wikilink")的第二十七張個人專輯和第二十一張粵語專輯，於2002年11月發行\[1\]。
 
 ## 專輯介紹
 
@@ -38,9 +37,6 @@ Woman**》（意思：神奇女俠）是[鄭秀文](../Page/鄭秀文.md "wikili
 
 ## 参考
 
-[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
-[Category:香港華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:香港華納唱片音樂專輯 "wikilink")
+[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink") [Category:香港華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:香港華納唱片音樂專輯 "wikilink")
 
 1.

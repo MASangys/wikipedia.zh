@@ -15,8 +15,7 @@ N-亚硝基二甲胺急性中毒可引起[肝脏损伤](https://zh.wikipedia.org
 ### 中毒案例
 
   - 1978年美国急性N2中毒案例
-      - 该案例已收入美国官方文献并作了简述：美国卫生部和环境署联合发布的关于N2的毒物说明《TOXICOLOGICAL PROFILE
-        FOR N-NITROSODIMETHYLAMINE》
+      - 该案例已收入美国官方文献并作了简述：美国卫生部和环境署联合发布的关于N2的毒物说明《TOXICOLOGICAL PROFILE FOR N-NITROSODIMETHYLAMINE》
   - 2013年[复旦投毒案](../Page/复旦投毒案.md "wikilink")（林森浩投毒案）
   - 2018年[加拿大皇后大学毒杀未遂案](https://zh.wikipedia.org/wiki/加拿大皇后大学 "wikilink")\[5\]
 
@@ -34,38 +33,21 @@ EMA称，将调查这些缬沙坦药物中NDMA的水平，它对服用它们的�
 
 ## 外部連結
 
-  - [Nitrosodimethylamine (NDMA)
-    Information](http://www.sfwater.org/detail.cfm/MC_ID/10/MSC_ID/51/MTO_ID/NULL/C_ID/1865)
-  - [Method Development for the Determination of N-Nitrosodimethylamine
-    (NDMA) in Drinking
-    Water](http://www.epa.gov/nerl/research/2004/g2-6.html)
-  - [SFPUC NDMA White
-    Paper](https://web.archive.org/web/20070928004411/http://www.valleywater.org/media/pdf/SFPUC_NDMA_White_Paper.pdf)
-  - [Public Health Statement for
-    n-Nitrosodimethylamine](http://www.atsdr.cdc.gov/phs/phs.asp?id=882&tid=173)
-  - [Toxicological Profile for n-Nitrosodimethylamine
-    CAS\# 62-75-9](http://www.atsdr.cdc.gov/toxprofiles/tp.asp?id=884&tid=173)
+  - [Nitrosodimethylamine (NDMA) Information](http://www.sfwater.org/detail.cfm/MC_ID/10/MSC_ID/51/MTO_ID/NULL/C_ID/1865)
+  - [Method Development for the Determination of N-Nitrosodimethylamine (NDMA) in Drinking Water](http://www.epa.gov/nerl/research/2004/g2-6.html)
+  - [SFPUC NDMA White Paper](https://web.archive.org/web/20070928004411/http://www.valleywater.org/media/pdf/SFPUC_NDMA_White_Paper.pdf)
+  - [Public Health Statement for n-Nitrosodimethylamine](http://www.atsdr.cdc.gov/phs/phs.asp?id=882&tid=173)
+  - [Toxicological Profile for n-Nitrosodimethylamine CAS\# 62-75-9](http://www.atsdr.cdc.gov/toxprofiles/tp.asp?id=884&tid=173)
 
-[Category:亚硝基化合物](https://zh.wikipedia.org/wiki/Category:亚硝基化合物 "wikilink")
-[Category:IARC第2A类致癌物质](https://zh.wikipedia.org/wiki/Category:IARC第2A类致癌物质 "wikilink")
+[Category:亚硝基化合物](https://zh.wikipedia.org/wiki/Category:亚硝基化合物 "wikilink") [Category:IARC第2A类致癌物质](https://zh.wikipedia.org/wiki/Category:IARC第2A类致癌物质 "wikilink")
 
-1.  {{ cite journal | author = Najm, I.; Trussell, R. R. | title = NDMA
-    Formation in Water and Wastewater | journal = Journal American Water
-    Works Association | year = 2001 | volume = 93 | issue = 2 | pages =
-    92–99 | url =
-    <http://apps.awwa.org/WaterLibrary/showabstract.aspx?an=JAW_0053373>
-    | issn = 0003-150X }}
+1.  {{ cite journal | author = Najm, I.; Trussell, R. R. | title = NDMA Formation in Water and Wastewater | journal = Journal American Water Works Association | year = 2001 | volume = 93 | issue = 2 | pages = 92–99 | url = <http://apps.awwa.org/WaterLibrary/showabstract.aspx?an=JAW_0053373> | issn = 0003-150X }}
 
-2.  {{ cite journal | author = Andrzejewski, P.; Kasprzyk-Hordern, B.;
-    Nawrocki, J. | title = The hazard of N-nitrosodimethylamine (NDMA)
-    formation during water disinfection with strong oxidants | journal =
-    Desalination | year = 2005 | volume = 176 | issue = 1–3 | pages =
-    37–45 | doi = 10.1016/j.desal.2004.11.009 }}
+2.  {{ cite journal | author = Andrzejewski, P.; Kasprzyk-Hordern, B.; Nawrocki, J. | title = The hazard of N-nitrosodimethylamine (NDMA) formation during water disinfection with strong oxidants | journal = Desalination | year = 2005 | volume = 176 | issue = 1–3 | pages = 37–45 | doi = 10.1016/j.desal.2004.11.009 }}
 
 3.
 4.
 
 5.
 
-6.  [高血壓藥又出包
-    大陸製四款含致癌物 2421萬顆流入台灣](http://www.chinatimes.com/realtimenews/20180802004083-260405)
+6.  [高血壓藥又出包 大陸製四款含致癌物 2421萬顆流入台灣](http://www.chinatimes.com/realtimenews/20180802004083-260405)

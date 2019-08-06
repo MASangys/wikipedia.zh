@@ -2,14 +2,11 @@
 
 ## 概要
 
-單曲分為两種版本，通常盤及劇場盤。單曲在印度尼西亚发行之后，通常盤也将在[日本](../Page/日本.md "wikilink")发行特别版，在2013年6月中旬正式发行（需要提前预约）\[2\]。与[AKB48](../Page/AKB48.md "wikilink")、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")的首张单曲相同，都是同一队伍的成员进入选拔，以及都是16人进入选拔。因为Team
-J一共有23人，Cindy Gulla、Diasta Priswarini、Frieska Anastasia Laksani、Ghaida
-Farisya、Sendy Ariani、Sonia Natalia、Sonya Pandarmawan没有进入选拔。
+單曲分為两種版本，通常盤及劇場盤。單曲在印度尼西亚发行之后，通常盤也将在[日本](../Page/日本.md "wikilink")发行特别版，在2013年6月中旬正式发行（需要提前预约）\[2\]。与[AKB48](../Page/AKB48.md "wikilink")、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")的首张单曲相同，都是同一队伍的成员进入选拔，以及都是16人进入选拔。因为Team J一共有23人，Cindy Gulla、Diasta Priswarini、Frieska Anastasia Laksani、Ghaida Farisya、Sendy Ariani、Sonia Natalia、Sonya Pandarmawan没有进入选拔。
 
 ## 收录曲目
 
-**封面：Haruka Nakagawa、Devi Kinal Putri、Melody Nurramdhani Laksani、Aki
-Takajo、Nabilah Ratna Ayu Azalia**
+**封面：Haruka Nakagawa、Devi Kinal Putri、Melody Nurramdhani Laksani、Aki Takajo、Nabilah Ratna Ayu Azalia**
 
 ### 通常盘
 
@@ -28,19 +25,13 @@ Takajo、Nabilah Ratna Ayu Azalia**
 3.  **Mirai no Kajitsu**（Buah Masa Depan）- 研究生 \[4:52\]
       -
         （作曲：岡田実音，編曲：高島智明）
-        《[JKT48
-        研究生“我的太阳”](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#JKT48_研究生公演“我的太阳” "wikilink")》公演中的曲目。
-        原曲为《[向日葵组 1st
-        Stage“我的太阳”](../Page/向日葵组_1st_Stage“我的太阳”.md "wikilink")》公演中的曲目「未来的果实」。
-4.  **Kimi ni Au Tabi Koi wo Suru**- Team J（Jatuh Cinta Setiap Bertemu
-    Denganmu） \[4:04\]
+        《[JKT48 研究生“我的太阳”](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#JKT48_研究生公演“我的太阳” "wikilink")》公演中的曲目。
+        原曲为《[向日葵组 1st Stage“我的太阳”](../Page/向日葵组_1st_Stage“我的太阳”.md "wikilink")》公演中的曲目「未来的果实」。
+4.  **Kimi ni Au Tabi Koi wo Suru**- Team J（Jatuh Cinta Setiap Bertemu Denganmu） \[4:04\]
       -
         （作曲：，編曲：関淳二郎）
-        《[Team J 1st
-        Stage「恋愛禁止条例」](https://zh.wikipedia.org/wiki/Team_A_5th_Stage“恋爱禁止条例”#JKT48_Team_J_1st_Stage「恋愛禁止条例」公演 "wikilink")》公演中的曲目。
-        原曲为《[Team A 5th
-        Stage“恋爱禁止条例”](../Page/Team_A_5th_Stage“恋爱禁止条例”.md "wikilink")》公演中的曲目「每当遇到你
-        恋爱便开始」。
+        《[Team J 1st Stage「恋愛禁止条例」](https://zh.wikipedia.org/wiki/Team_A_5th_Stage“恋爱禁止条例”#JKT48_Team_J_1st_Stage「恋愛禁止条例」公演 "wikilink")》公演中的曲目。
+        原曲为《[Team A 5th Stage“恋爱禁止条例”](../Page/Team_A_5th_Stage“恋爱禁止条例”.md "wikilink")》公演中的曲目「每当遇到你 恋爱便开始」。
 
 <!-- end list -->
 
@@ -95,13 +86,7 @@ Takajo、Nabilah Ratna Ayu Azalia**
 
 （Center：Melody Nurramdhani Laksani）
 
-  - Team J：[Aki
-    Takajo](https://zh.wikipedia.org/wiki/高城亚樹 "wikilink")、Ayana
-    Shahab、Beby C. Anadila、Delima Rizky、Devi K. Putri、Gabriela Margareth
-    Warouw、[Haruka Nakagawa](../Page/仲川遥香.md "wikilink")、Jessica
-    Vania、Jessica Veranda、Melody N. Laksani、Nabilah R.A. Azalia、[Rena
-    Nozawa](https://zh.wikipedia.org/wiki/野泽玲奈 "wikilink")、Rezky W.
-    Dhike、Rica Leyona、Shania Junianatha、Stella Cornelia
+  - Team J：[Aki Takajo](https://zh.wikipedia.org/wiki/高城亚樹 "wikilink")、Ayana Shahab、Beby C. Anadila、Delima Rizky、Devi K. Putri、Gabriela Margareth Warouw、[Haruka Nakagawa](../Page/仲川遥香.md "wikilink")、Jessica Vania、Jessica Veranda、Melody N. Laksani、Nabilah R.A. Azalia、[Rena Nozawa](https://zh.wikipedia.org/wiki/野泽玲奈 "wikilink")、Rezky W. Dhike、Rica Leyona、Shania Junianatha、Stella Cornelia
 
 ### Sakura no Shiori
 
@@ -113,20 +98,13 @@ Takajo、Nabilah Ratna Ayu Azalia**
 
 （Center：Ratu Vienny Fitrilya）
 
-  - 研究生：Alicia Chanzia、Annisa Athia、Cindy Yuvia、Della Delila、Jennifer
-    Hanna、Lidya Maulida Djuhandar、Natalia、Noella Sisterina、Octi
-    Sevpin、Ratu Vienny Fitrilya、Riskha Fairunissa、Rona
-    Anggreani、Shinta Naomi、Sinka Juliani、Thalia、Viviyona Apriani
+  - 研究生：Alicia Chanzia、Annisa Athia、Cindy Yuvia、Della Delila、Jennifer Hanna、Lidya Maulida Djuhandar、Natalia、Noella Sisterina、Octi Sevpin、Ratu Vienny Fitrilya、Riskha Fairunissa、Rona Anggreani、Shinta Naomi、Sinka Juliani、Thalia、Viviyona Apriani
 
 ### Kimi ni Au Tabi Koi wo Suru
 
 （Center：Melody Nurramdhani Laksani）
 
-  - Team J：Aki Takajo、Ayana Shahab、Beby Chaesara Anadila、Cindy
-    Gulla、Delima Rizky、Devi Kinal Putri、Haruka Nakagawa、Jessica
-    Vania、Jessica Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu
-    Azalia、Rena Nozawa、Rica Leyona、Sendy Ariani、Sonya Pandarmawan、Stella
-    Cornelia
+  - Team J：Aki Takajo、Ayana Shahab、Beby Chaesara Anadila、Cindy Gulla、Delima Rizky、Devi Kinal Putri、Haruka Nakagawa、Jessica Vania、Jessica Veranda、Melody Nurramdhani Laksani、Nabilah Ratna Ayu Azalia、Rena Nozawa、Rica Leyona、Sendy Ariani、Sonya Pandarmawan、Stella Cornelia
 
 ## 脚注
 
@@ -134,8 +112,7 @@ Takajo、Nabilah Ratna Ayu Azalia**
 
   - [JKT48公式网站中的介绍页面](http://www.jkt48.com/river?lang=jp)
 
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:JKT48歌曲](https://zh.wikipedia.org/wiki/Category:JKT48歌曲 "wikilink")
+[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:JKT48歌曲](https://zh.wikipedia.org/wiki/Category:JKT48歌曲 "wikilink")
 
 1.
 2.

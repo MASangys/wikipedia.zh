@@ -24,8 +24,7 @@ A字裙盛行於1960與1970年代，於1980年代式微，1990年代藉由復古
 
 [Category:裙子](https://zh.wikipedia.org/wiki/Category:裙子 "wikilink")
 
-1.  [Women's Wear Daily:
-    Glossary](http://www.wwd.com/fashion-resources/fashion-dictionary)
+1.  [Women's Wear Daily: Glossary](http://www.wwd.com/fashion-resources/fashion-dictionary)
 
 2.
 

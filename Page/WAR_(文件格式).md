@@ -1,5 +1,4 @@
-在[软件工程](../Page/软件工程.md "wikilink")中，**WAR文件**（Web应用程序归档，\[1\]）是一种[JAR文件](https://zh.wikipedia.org/wiki/JAR文件 "wikilink")，其中包含用来分发的[JSP](../Page/JSP.md "wikilink")、[Java
-Servlet](../Page/Java_Servlet.md "wikilink")、[Java](../Page/Java.md "wikilink")类、[XML](../Page/XML.md "wikilink")文件、标签库、静态网页（[HTML](../Page/HTML.md "wikilink")和相关文件），以及构成[Web应用程序的其他资源](https://zh.wikipedia.org/wiki/Web应用程序 "wikilink")。
+在[软件工程](../Page/软件工程.md "wikilink")中，**WAR文件**（Web应用程序归档，\[1\]）是一种[JAR文件](https://zh.wikipedia.org/wiki/JAR文件 "wikilink")，其中包含用来分发的[JSP](../Page/JSP.md "wikilink")、[Java Servlet](../Page/Java_Servlet.md "wikilink")、[Java](../Page/Java.md "wikilink")类、[XML](../Page/XML.md "wikilink")文件、标签库、静态网页（[HTML](../Page/HTML.md "wikilink")和相关文件），以及构成[Web应用程序的其他资源](https://zh.wikipedia.org/wiki/Web应用程序 "wikilink")。
 
 ## 内容和结构
 
@@ -63,19 +62,13 @@ WAR文件有如下优点：
 
 ## 外部链接
 
-  - [Oracle Java
-    EE 7指南：打包Web文档](https://web.archive.org/web/20140421001433/http://docs.oracle.com/javaee/7/tutorial/doc/packaging003.htm)
-  - [Oracle Java
-    EE 6指南：Web模块](http://docs.oracle.com/javaee/6/tutorial/doc/bnadx.html)
-  - [Oracle Java
-    EE 5指南：Web模块](http://docs.oracle.com/javaee/5/tutorial/doc/bnadx.html)
-  - [太阳计算机系统：Servlet 2.5 WAR文件的XML
-    Schema](http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd)
-  - [太阳计算机系统：Servlet 2.4 WAR文件的XML
-    Schema](http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd)
+  - [Oracle Java EE 7指南：打包Web文档](https://web.archive.org/web/20140421001433/http://docs.oracle.com/javaee/7/tutorial/doc/packaging003.htm)
+  - [Oracle Java EE 6指南：Web模块](http://docs.oracle.com/javaee/6/tutorial/doc/bnadx.html)
+  - [Oracle Java EE 5指南：Web模块](http://docs.oracle.com/javaee/5/tutorial/doc/bnadx.html)
+  - [太阳计算机系统：Servlet 2.5 WAR文件的XML Schema](http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd)
+  - [太阳计算机系统：Servlet 2.4 WAR文件的XML Schema](http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd)
   - [JSR 154：Java Servlet 2.4规范](http://jcp.org/en/jsr/detail?id=154)
 
-[Category:归档格式](https://zh.wikipedia.org/wiki/Category:归档格式 "wikilink")
-[Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink")
+[Category:归档格式](https://zh.wikipedia.org/wiki/Category:归档格式 "wikilink") [Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink")
 
 1.

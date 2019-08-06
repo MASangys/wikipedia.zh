@@ -1,5 +1,4 @@
-《**INVADER INVADER**》（）是[Kyary Pamyu
-Pamyu的第](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年5月15日由[日本華納音樂](../Page/日本華納音樂.md "wikilink")發售。
+《**INVADER INVADER**》（）是[Kyary Pamyu Pamyu的第](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")6張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年5月15日由[日本華納音樂](../Page/日本華納音樂.md "wikilink")發售。
 
 ## 概要
 
@@ -20,6 +19,4 @@ Pamyu的第](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")6張[單
   -
   - [華納唱片頁面](https://web.archive.org/web/20140512232332/http://www.warnermusic.com.tw/store/item/3315)
 
-[Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink")
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:Kyary_Pamyu_Pamyu歌曲](https://zh.wikipedia.org/wiki/Category:Kyary_Pamyu_Pamyu歌曲 "wikilink")
+[Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:Kyary_Pamyu_Pamyu歌曲](https://zh.wikipedia.org/wiki/Category:Kyary_Pamyu_Pamyu歌曲 "wikilink")

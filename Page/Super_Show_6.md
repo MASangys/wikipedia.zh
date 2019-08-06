@@ -1,5 +1,4 @@
-「**Super Junior World Tour - "Super Show 6"**」是[Super
-Junior的第六次巡回演唱會](../Page/Super_Junior.md "wikilink")，2014年9月19日在首爾揭幕\[1\]\[2\]\[3\]。
+「**Super Junior World Tour - "Super Show 6"**」是[Super Junior的第六次巡回演唱會](../Page/Super_Junior.md "wikilink")，2014年9月19日在首爾揭幕\[1\]\[2\]\[3\]。
 
 這也是[利特](../Page/利特.md "wikilink")退伍後，首次復出參與演唱會，因[神童](../Page/神童.md "wikilink")與[晟敏](../Page/晟敏.md "wikilink")分別在2015年3月23日與2015年3月30日入伍，故沒有參與後期的演唱會行程。早期因[藝聲](../Page/藝聲.md "wikilink")入伍關係，沒參加這次的演唱會，但在2015年5月初退伍後，參與了最後兩場的演唱會演出。
 
@@ -164,10 +163,7 @@ Junior的第六次巡回演唱會](../Page/Super_Junior.md "wikilink")，2014年
 
   - [SM Entertainment 官方網站](http://www.smtown.com/)
 
-[Category:2014年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2014年巡迴演唱會 "wikilink")
-[Category:2015年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2015年巡迴演唱會 "wikilink")
-[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink")
-[Category:Super_Junior巡迴演唱會](https://zh.wikipedia.org/wiki/Category:Super_Junior巡迴演唱會 "wikilink")
+[Category:2014年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2014年巡迴演唱會 "wikilink") [Category:2015年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2015年巡迴演唱會 "wikilink") [Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:Super_Junior巡迴演唱會](https://zh.wikipedia.org/wiki/Category:Super_Junior巡迴演唱會 "wikilink")
 
 1.
 

@@ -1,6 +1,4 @@
-[Facebook_New_Logo_(2015).svg](https://zh.wikipedia.org/wiki/File:Facebook_New_Logo_\(2015\).svg "fig:Facebook_New_Logo_(2015).svg")
-logo\]\]
-由于[Facebook](../Page/Facebook.md "wikilink")的开放性质导致一些国家进行**对Facebook的审查和封锁，目前现在全天性封锁的有中国，伊朗，朝鲜，越南四个国家禁止使用。**
+[Facebook_New_Logo_(2015).svg](https://zh.wikipedia.org/wiki/File:Facebook_New_Logo_\(2015\).svg "fig:Facebook_New_Logo_(2015).svg") logo\]\]  由于[Facebook](../Page/Facebook.md "wikilink")的开放性质导致一些国家进行**对Facebook的审查和封锁，目前现在全天性封锁的有中国，伊朗，朝鲜，越南四个国家禁止使用。**
 
 ## 各国审查
 
@@ -58,8 +56,7 @@ Facebook拥有1000万澳大利亚用户，相近于人口的一半，规定注�
 
 ## 参考资料
 
-[Category:互联网审查](https://zh.wikipedia.org/wiki/Category:互联网审查 "wikilink")
-[Category:Facebook](https://zh.wikipedia.org/wiki/Category:Facebook "wikilink")
+[Category:互联网审查](https://zh.wikipedia.org/wiki/Category:互联网审查 "wikilink") [Category:Facebook](https://zh.wikipedia.org/wiki/Category:Facebook "wikilink")
 
 1.
 

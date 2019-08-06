@@ -3,8 +3,7 @@
 ## 历史
 
   - 1935年7月15日，**水營站**落成使用。
-  - 2016年12月30日，釜田 -
-    [日光站电气化通車](https://zh.wikipedia.org/wiki/日光站_\(釜山\) "wikilink")。[广域电铁东海线开始营运](https://zh.wikipedia.org/wiki/广域电铁东海线 "wikilink")，编入东海本线，迁至距起点站（釜山镇站）14.0公里处，并更名为**Centum站**\[1\]\[2\]。
+  - 2016年12月30日，釜田 - [日光站电气化通車](https://zh.wikipedia.org/wiki/日光站_\(釜山\) "wikilink")。[广域电铁东海线开始营运](https://zh.wikipedia.org/wiki/广域电铁东海线 "wikilink")，编入东海本线，迁至距起点站（釜山镇站）14.0公里处，并更名为**Centum站**\[1\]\[2\]。
 
 ## 車站結構
 
@@ -77,11 +76,8 @@
 
 ## 参考资料
 
-[Category:海雲臺區鐵路車站](https://zh.wikipedia.org/wiki/Category:海雲臺區鐵路車站 "wikilink")
-[Category:東海線車站](https://zh.wikipedia.org/wiki/Category:東海線車站 "wikilink")
-[Category:1935年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1935年啟用的鐵路車站 "wikilink")
+[Category:海雲臺區鐵路車站](https://zh.wikipedia.org/wiki/Category:海雲臺區鐵路車站 "wikilink") [Category:東海線車站](https://zh.wikipedia.org/wiki/Category:東海線車站 "wikilink") [Category:1935年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:1935年啟用的鐵路車站 "wikilink")
 
-1.  [國土交通部路線距離通知(第2016-224號)](http://gwanbo.moi.go.kr/gwanbo/dailyGazetteView.gz?ebookSeq=00000000000000001461809311793000&searchDate=&currPage=&linePerPage=)
-    大韓民國電子官方公報第18750號2016年4月29日（五）
+1.  [國土交通部路線距離通知(第2016-224號)](http://gwanbo.moi.go.kr/gwanbo/dailyGazetteView.gz?ebookSeq=00000000000000001461809311793000&searchDate=&currPage=&linePerPage=) 大韓民國電子官方公報第18750號2016年4月29日（五）
 2.  [東海線(釜田\~日光)广域电铁营业开始公知(12.30.\~)](https://archive.is/20161230111936/http://www.letskorail.com/ebizcom/event/total/EbizcomEventTotallw_cus06101_iframe.do?searchKeyword2=955)
 3.

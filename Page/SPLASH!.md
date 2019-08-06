@@ -1,5 +1,4 @@
-《**SPLASH\!**》，是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的第42張單曲。2006年6月7日由[VERMILLION
-RECORDS于日本发行](https://zh.wikipedia.org/wiki/Being_\(公司\)#VERMILLION_RECORDS "wikilink")，最終銷量約33萬張。\[1\]
+《**SPLASH\!**》，是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的第42張單曲。2006年6月7日由[VERMILLION RECORDS于日本发行](https://zh.wikipedia.org/wiki/Being_\(公司\)#VERMILLION_RECORDS "wikilink")，最終銷量約33萬張。\[1\]
 
 ## 收錄曲
 
@@ -20,15 +19,10 @@ RECORDS于日本发行](https://zh.wikipedia.org/wiki/Being_\(公司\)#VERMILLIO
 ## 收录专辑
 
   - 《[MONSTER](../Page/MONSTER_\(B'z專輯\).md "wikilink")》 （\#1）
-  - 《[B'z The Best "ULTRA
-    Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")》
-    （\#1）
+  - 《[B'z The Best "ULTRA Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")》 （\#1）
 
 ## 参考文献
 
-[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink")
-[Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
-[Category:2006年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
+[Category:B'z歌曲](https://zh.wikipedia.org/wiki/Category:B'z歌曲 "wikilink") [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink") [Category:2006年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2006年Oricon單曲週榜冠軍作品 "wikilink") [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")
 
 1.

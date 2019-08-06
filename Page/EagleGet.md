@@ -1,15 +1,6 @@
-**EagleGet**（亦称 **EG Download Accelerator**）是一个用于
-[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
-系统的[下载管理器](https://zh.wikipedia.org/wiki/下载管理程序 "wikilink")，它是[免费软件](https://zh.wikipedia.org/wiki/免费软件 "wikilink")。EagleGet
-使用多线程技术，支持从[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")、[Dailymotion](../Page/Dailymotion.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[Vimeo](../Page/Vimeo.md "wikilink")等视频网站下载
-[MP4](https://zh.wikipedia.org/wiki/MPEG-4_Part_14 "wikilink") 和
-[FLV](../Page/Flash_Video.md "wikilink") 格式视频。EagleGet
-是一个拥有简洁界面和功能的免费的新下载管理器。\[1\]
+**EagleGet**（亦称 **EG Download Accelerator**）是一个用于 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 系统的[下载管理器](https://zh.wikipedia.org/wiki/下载管理程序 "wikilink")，它是[免费软件](https://zh.wikipedia.org/wiki/免费软件 "wikilink")。EagleGet 使用多线程技术，支持从[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")、[Dailymotion](../Page/Dailymotion.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[Vimeo](../Page/Vimeo.md "wikilink")等视频网站下载 [MP4](https://zh.wikipedia.org/wiki/MPEG-4_Part_14 "wikilink") 和 [FLV](../Page/Flash_Video.md "wikilink") 格式视频。EagleGet 是一个拥有简洁界面和功能的免费的新下载管理器。\[1\]
 
-EagleGet 可从以下浏览器中被调用：[Internet
-Explorer](../Page/Internet_Explorer.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera_\(web_browser\) "wikilink")、[Google
-Chrome](../Page/Google_Chrome.md "wikilink")、[Mozilla
-Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")、[Maxthon](https://zh.wikipedia.org/wiki/Maxthon "wikilink")\[2\]
+EagleGet 可从以下浏览器中被调用：[Internet Explorer](../Page/Internet_Explorer.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera_\(web_browser\) "wikilink")、[Google Chrome](../Page/Google_Chrome.md "wikilink")、[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")、[Maxthon](https://zh.wikipedia.org/wiki/Maxthon "wikilink")\[2\]
 
 ## 功能
 
@@ -39,8 +30,7 @@ Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")、[Maxthon](h
   - [官方博客](http://blog.eagleget.com/)
   - [官方论坛](http://forum.eagleget.com/)
 
-[Category:下载工具](https://zh.wikipedia.org/wiki/Category:下载工具 "wikilink")
-[Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink")
+[Category:下载工具](https://zh.wikipedia.org/wiki/Category:下载工具 "wikilink") [Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink")
 
 1.
 2.

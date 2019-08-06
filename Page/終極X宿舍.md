@@ -1,38 +1,11 @@
-丁逸筠 | editor = | location = | cinematography = | camera =
-[多鏡頭模式](https://zh.wikipedia.org/wiki/多鏡頭模式 "wikilink") |
-runtime = 60分鐘（含廣告） | company = [八大電視](../Page/八大電視.md "wikilink")
-[可米國際影視](https://zh.wikipedia.org/wiki/可米國際影視 "wikilink") | distributor
-= | channel = [八大電視台](https://zh.wikipedia.org/wiki/八大電視台 "wikilink") |
-picture_format = [標準畫質電視](../Page/標準畫質電視.md "wikilink") | audio_format
-= [立體聲](../Page/立體聲.md "wikilink") | first_run =  | first_aired =  |
-last_aired =  | channel_1 =
-[中視數位台](https://zh.wikipedia.org/wiki/中視數位台 "wikilink")
-| picture_format_1 = [標準畫質電視](../Page/標準畫質電視.md "wikilink") |
-audio_format_1 = [立體聲](../Page/立體聲.md "wikilink") | first_run_1 =  |
-first_aired_1 =  | last_aired_1 =  | channel_2 =
-[愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink") |
-picture_format_2 =
-[高畫質電視](https://zh.wikipedia.org/wiki/高畫質電視 "wikilink")
-| audio_format_2 =
-[杜比數位](https://zh.wikipedia.org/wiki/杜比數位 "wikilink") |
-first_run_2 =  | first_aired_2 =  | last_aired_2 =  | status = |
-preceded_by = [終極一班3](../Page/終極一班3.md "wikilink")（2013年） |
-followed_by =
-[終極惡女](https://zh.wikipedia.org/wiki/終極惡女 "wikilink")（2014年）
-| related = | website =
-<https://web.archive.org/web/20140618061116/http://www.gtv.com.tw/Program/S051520140623U/>
-}}
+丁逸筠 | editor = | location = | cinematography = | camera = [多鏡頭模式](https://zh.wikipedia.org/wiki/多鏡頭模式 "wikilink") | runtime = 60分鐘（含廣告） | company = [八大電視](../Page/八大電視.md "wikilink")
+[可米國際影視](https://zh.wikipedia.org/wiki/可米國際影視 "wikilink") | distributor = | channel = [八大電視台](https://zh.wikipedia.org/wiki/八大電視台 "wikilink") | picture_format = [標準畫質電視](../Page/標準畫質電視.md "wikilink") | audio_format = [立體聲](../Page/立體聲.md "wikilink") | first_run =  | first_aired =  | last_aired =  | channel_1 = [中視數位台](https://zh.wikipedia.org/wiki/中視數位台 "wikilink") | picture_format_1 = [標準畫質電視](../Page/標準畫質電視.md "wikilink") | audio_format_1 = [立體聲](../Page/立體聲.md "wikilink") | first_run_1 =  | first_aired_1 =  | last_aired_1 =  | channel_2 = [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink") | picture_format_2 = [高畫質電視](https://zh.wikipedia.org/wiki/高畫質電視 "wikilink") | audio_format_2 = [杜比數位](https://zh.wikipedia.org/wiki/杜比數位 "wikilink") | first_run_2 =  | first_aired_2 =  | last_aired_2 =  | status = | preceded_by = [終極一班3](../Page/終極一班3.md "wikilink")（2013年） | followed_by = [終極惡女](https://zh.wikipedia.org/wiki/終極惡女 "wikilink")（2014年） | related = | website = <https://web.archive.org/web/20140618061116/http://www.gtv.com.tw/Program/S051520140623U/> }}
 
 《**終極X宿舍**》（），2014年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")，由[八大電視](../Page/八大電視.md "wikilink")及[可米國際影視聯合製作](https://zh.wikipedia.org/wiki/可米國際影視 "wikilink")。[終極系列第六部](https://zh.wikipedia.org/wiki/終極系列 "wikilink")。由[藍心湄](../Page/藍心湄.md "wikilink")、[汪東城](../Page/汪東城.md "wikilink")[SpeXial-宏正](https://zh.wikipedia.org/wiki/羅弘証 "wikilink")、[寒](https://zh.wikipedia.org/wiki/蔡芷紜 "wikilink")、[SpeXial-明-{杰}-](https://zh.wikipedia.org/wiki/許名傑 "wikilink")、[SpeXial-偉晉](https://zh.wikipedia.org/wiki/黃偉晉 "wikilink")、[王詩安](https://zh.wikipedia.org/wiki/王詩安 "wikilink")、[陳博正](../Page/陳博正.md "wikilink")、[黃小柔](../Page/黃小柔.md "wikilink")、[蔡昌憲](../Page/蔡昌憲.md "wikilink")、[阿喜](https://zh.wikipedia.org/wiki/阿喜_\(藝人\) "wikilink")、[赤世代-脩](../Page/陳德修.md "wikilink")、[那維勳](../Page/那維勳.md "wikilink")領銜主演。接續《[終極一班3](../Page/終極一班3.md "wikilink")》大結局，2014年1月14日開拍，2014年5月19日殺青，2014年6月23日於[八大綜合台](../Page/八大綜合台.md "wikilink")播出，在2014年8月15日播畢。[中視於](https://zh.wikipedia.org/wiki/中視數位台 "wikilink")2014年6月24日上檔，在2014年8月18日播畢。
 
 ## 故事大綱
 
-故事是從這間夏人公寓開始，在善惡大戰的多年後，雄哥（[藍心湄](../Page/藍心湄.md "wikilink")
-飾）經營了一間私人公寓，供學生和旅客住宿。這幾年來雄哥試圖把自己變得更忙，好讓她忘記失蹤的夏天（[汪東城](../Page/汪東城.md "wikilink")
-飾）、夏宇（[唐禹哲](../Page/唐禹哲.md "wikilink")
-飾）和思仁（[那維勳](../Page/那維勳.md "wikilink")
-飾），甚至努力把入住的學生們都當成她的兒女照顧…這一天，是思仁生日也是夏天、夏宇失蹤的日子，公寓裡突然多了一間206號房，阿公（[陳博正](../Page/陳博正.md "wikilink")
-飾）覺得是大兇的警兆，雄哥千頭萬緒加上公寓房客進出紛紛擾擾，大戰當天失蹤的思仁竟從206號房走出？！究竟時隔多年重新出現的思仁，會帶回大戰的消息嗎？
+故事是從這間夏人公寓開始，在善惡大戰的多年後，雄哥（[藍心湄](../Page/藍心湄.md "wikilink") 飾）經營了一間私人公寓，供學生和旅客住宿。這幾年來雄哥試圖把自己變得更忙，好讓她忘記失蹤的夏天（[汪東城](../Page/汪東城.md "wikilink") 飾）、夏宇（[唐禹哲](../Page/唐禹哲.md "wikilink") 飾）和思仁（[那維勳](../Page/那維勳.md "wikilink") 飾），甚至努力把入住的學生們都當成她的兒女照顧…這一天，是思仁生日也是夏天、夏宇失蹤的日子，公寓裡突然多了一間206號房，阿公（[陳博正](../Page/陳博正.md "wikilink") 飾）覺得是大兇的警兆，雄哥千頭萬緒加上公寓房客進出紛紛擾擾，大戰當天失蹤的思仁竟從206號房走出？！究竟時隔多年重新出現的思仁，會帶回大戰的消息嗎？
 
 ## 播出時間
 
@@ -2500,8 +2473,7 @@ Open</strong></p></td>
           - 週一～週四《[天下第一味](../Page/天下第一味.md "wikilink")》
           - 週五《[周五王見王](https://zh.wikipedia.org/wiki/周五王見王 "wikilink")》
       - [大愛](https://zh.wikipedia.org/wiki/大愛衛星電視 "wikilink")《[幸福魔法師](../Page/幸福魔法師_\(大愛劇場\).md "wikilink")》
-      - [八大綜合台](../Page/八大綜合台.md "wikilink")《[Good
-        Doctor善良醫生](../Page/好醫生.md "wikilink")》、《[第六感任務](../Page/你是誰_\(2013年電視劇\).md "wikilink")》
+      - [八大綜合台](../Page/八大綜合台.md "wikilink")《[Good Doctor善良醫生](../Page/好醫生.md "wikilink")》、《[第六感任務](../Page/你是誰_\(2013年電視劇\).md "wikilink")》
       - [東森戲劇台](../Page/東森戲劇台.md "wikilink")《[奇皇后](../Page/奇皇后_\(電視劇\).md "wikilink")》
       - [衛視中文台](../Page/衛視中文台.md "wikilink")《[百年新娘](https://zh.wikipedia.org/wiki/百年新娘 "wikilink")》、《[流氓王子](../Page/Big_Man.md "wikilink")》
   - 由[AGB尼爾森調查](https://zh.wikipedia.org/wiki/AGB尼爾森 "wikilink")，調查範圍是四歲以上收看電視之觀眾。
@@ -2546,27 +2518,15 @@ Open</strong></p></td>
 
   - －中視
 
-  - [終極X宿舍
-    myVideo影集專頁](http://www.myvideo.net.tw/TWM_Video/Portal/servlet_movie_intro1.jsp?seriesType=3&packingID=1460)
+  - [終極X宿舍 myVideo影集專頁](http://www.myvideo.net.tw/TWM_Video/Portal/servlet_movie_intro1.jsp?seriesType=3&packingID=1460)
 
   -
 ## 作品的變遷
 
-[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:2014年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2014年台灣電視劇集 "wikilink")
-[Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
-[Category:中視電視劇](https://zh.wikipedia.org/wiki/Category:中視電視劇 "wikilink")
-[Category:八大電視劇](https://zh.wikipedia.org/wiki/Category:八大電視劇 "wikilink")
-[Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
-[Category:公寓背景電視劇](https://zh.wikipedia.org/wiki/Category:公寓背景電視劇 "wikilink")
-[Category:終極宇宙](https://zh.wikipedia.org/wiki/Category:終極宇宙 "wikilink")
-[Category:MyVideo戲劇館](https://zh.wikipedia.org/wiki/Category:MyVideo戲劇館 "wikilink")
+[Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink") [Category:2014年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2014年台灣電視劇集 "wikilink") [Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink") [Category:中視電視劇](https://zh.wikipedia.org/wiki/Category:中視電視劇 "wikilink") [Category:八大電視劇](https://zh.wikipedia.org/wiki/Category:八大電視劇 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink") [Category:公寓背景電視劇](https://zh.wikipedia.org/wiki/Category:公寓背景電視劇 "wikilink") [Category:終極宇宙](https://zh.wikipedia.org/wiki/Category:終極宇宙 "wikilink") [Category:MyVideo戲劇館](https://zh.wikipedia.org/wiki/Category:MyVideo戲劇館 "wikilink")
 
-1.  [7年後
-    終極宿舍～開拍啦](http://weibo.com/1801631004/ArXpDDtjC#_rnd1389679443291)
-2.  [大東大膽喊老女人
-    藍心湄倒誇他像19歲](http://tw.celebrity.yahoo.com/news/大東好膽喊老女人-藍心湄倒誇他像19歲-113727701.html)
+1.  [7年後 終極宿舍～開拍啦](http://weibo.com/1801631004/ArXpDDtjC#_rnd1389679443291)
+2.  [大東大膽喊老女人 藍心湄倒誇他像19歲](http://tw.celebrity.yahoo.com/news/大東好膽喊老女人-藍心湄倒誇他像19歲-113727701.html)
 3.  [夏天：狄阿怖羅魔尊，我們來了！　《終極X宿舍》3分鐘片花](http://x-dormitory.fanily.com.tw/detail.do?id=20140325102609515795)
-4.  [恭喜 謝和弦 R-chord
-    殺青！](https://www.facebook.com/photo.php?fbid=245230862345468&set=a.207085742826647.1073741829.206651512870070&type=1&relevant_count=1)
+4.  [恭喜 謝和弦 R-chord 殺青！](https://www.facebook.com/photo.php?fbid=245230862345468&set=a.207085742826647.1073741829.206651512870070&type=1&relevant_count=1)
 5.  [今日朱莉亞(Diana王詩安)也殺青囉！](https://www.facebook.com/photo.php?fbid=245231045678783&set=a.207085742826647.1073741829.206651512870070&type=1&relevant_count=1)

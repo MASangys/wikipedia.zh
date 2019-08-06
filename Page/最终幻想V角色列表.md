@@ -9,15 +9,12 @@
     年齡：20歲、身高：176cm、體重：58kg
     本作[主人公](../Page/主人公.md "wikilink")。名字可自行更改。為光之戰士之一。性格開朗、正義感強的少年，里克斯村出身，特徵是留著褐色短髮，其衣裝會隨職業變更而改變。聽從父親的遺言，乘著一隻[陸行鳥波可到處旅行](https://zh.wikipedia.org/wiki/陸行鳥 "wikilink")。和父親一樣以劍作為戰鬥武器，基本戰鬥力高但在徒手的狀態下魔力較弱。在一次隕石下落的現場與公主蕾娜相遇，從而捲入了與四元素水晶緊密聯繫的冒險之旅。其「模仿師」能力在後作《最終幻想：紛爭》、《[最終幻想：紛爭012](https://zh.wikipedia.org/wiki/最終幻想：紛爭012 "wikilink")》中亦作為巴茲獨特的戰鬥風格，其作中對他的異名為「旅人」。
     在日本和北美版中名字則有「Butz」和「Bartz」兩種記載。
-    巴茲在《[最終幻想
-    紛爭](https://zh.wikipedia.org/wiki/最終幻想_紛爭 "wikilink")》中作為《最終幻想V》的英雄代表登場，日語聲優為[保志總一朗](../Page/保志總一朗.md "wikilink")\[1\]，英語版為賈森·皮沙克。此外他也還在《[最終幻想
-    節奏劇場](../Page/最終幻想_節奏劇場.md "wikilink")》中出現\[2\]。
+    巴茲在《[最終幻想 紛爭](https://zh.wikipedia.org/wiki/最終幻想_紛爭 "wikilink")》中作為《最終幻想V》的英雄代表登場，日語聲優為[保志總一朗](../Page/保志總一朗.md "wikilink")\[1\]，英語版為賈森·皮沙克。此外他也還在《[最終幻想 節奏劇場](../Page/最終幻想_節奏劇場.md "wikilink")》中出現\[2\]。
 
 <!-- end list -->
 
   -
-    声：[川澄绫子](https://zh.wikipedia.org/wiki/川澄绫子 "wikilink")（DISSIDIA
-    FINAL FANTASY OPERA OMNIA ）
+    声：[川澄绫子](https://zh.wikipedia.org/wiki/川澄绫子 "wikilink")（DISSIDIA FINAL FANTASY OPERA OMNIA ）
     年齡：19、身高：161cm、體重：45kg
     本作的女主角，光之戰士之一
     泰空城的第二公主，出城追尋父親途中與巴茲相遇。個性温柔而善良
@@ -40,8 +37,7 @@
 <!-- end list -->
 
   -
-    声：[田村由香里](../Page/田村由香里.md "wikilink")（DISSIDIA FINAL FANTASY OPERA
-    OMNIA ）
+    声：[田村由香里](../Page/田村由香里.md "wikilink")（DISSIDIA FINAL FANTASY OPERA OMNIA ）
     年齡：14、身高：154cm、體重：40kg
     葛拉夫的孫女，巴爾城出身。光之戰士之一
     成員中最年幼的純真少女，可與陸行鳥和莫古利等動物對話。
@@ -93,8 +89,7 @@
 ## 主要敵方
 
   -
-    聲：[石田太郎](https://zh.wikipedia.org/wiki/石田太郎 "wikilink")（[紛爭](https://zh.wikipedia.org/wiki/最終幻想_紛爭 "wikilink")、[紛爭012](https://zh.wikipedia.org/wiki/最終幻想_紛爭012 "wikilink")）、[楠见尚己](https://zh.wikipedia.org/wiki/楠见尚己 "wikilink")（[紛爭
-    街机版/NT版](https://zh.wikipedia.org/wiki/最終幻想_紛爭_\(2015年游戏\) "wikilink")）
+    聲：[石田太郎](https://zh.wikipedia.org/wiki/石田太郎 "wikilink")（[紛爭](https://zh.wikipedia.org/wiki/最終幻想_紛爭 "wikilink")、[紛爭012](https://zh.wikipedia.org/wiki/最終幻想_紛爭012 "wikilink")）、[楠见尚己](https://zh.wikipedia.org/wiki/楠见尚己 "wikilink")（[紛爭 街机版/NT版](https://zh.wikipedia.org/wiki/最終幻想_紛爭_\(2015年游戏\) "wikilink")）
     本作的最終Boss和黑幕。神秘的黑暗魔導師。
     實際上是500年前慕亞大森林中的大樹所產生的邪惡意念，有著不死的身軀和強大的再生力
     30年前和曉之四戰士的戰鬥敗北，曉之四戰士因忌憚其不死之身而利用水晶將它封印在第一世界
@@ -238,9 +233,7 @@
 
 ## 參考資料
 
-[Category:最終幻想系列角色](https://zh.wikipedia.org/wiki/Category:最終幻想系列角色 "wikilink")
-[Category:最终幻想V](https://zh.wikipedia.org/wiki/Category:最终幻想V "wikilink")
-[Category:电子游戏角色列表](https://zh.wikipedia.org/wiki/Category:电子游戏角色列表 "wikilink")
+[Category:最終幻想系列角色](https://zh.wikipedia.org/wiki/Category:最終幻想系列角色 "wikilink") [Category:最终幻想V](https://zh.wikipedia.org/wiki/Category:最终幻想V "wikilink") [Category:电子游戏角色列表](https://zh.wikipedia.org/wiki/Category:电子游戏角色列表 "wikilink")
 
 1.
 2.

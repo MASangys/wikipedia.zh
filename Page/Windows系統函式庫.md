@@ -6,23 +6,19 @@
 
 ### Hal.dll
 
-Windows系統的[硬件抽象層就是由Hal](https://zh.wikipedia.org/wiki/硬件抽象層 "wikilink").dll實現\[1\]。HAL提供很多函式，而這些函式在不同的硬件平台（以下皆指[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")）皆有不一樣的實現方式。因為Windows提供HAL這一個功能，所以大部份程式可以隨意呼叫這些函式，而不需要顧及程式在何種平台上執行。舉個例子，回應一個中斷要求的方法在一台有或沒有[進階可編程中斷控制器](https://zh.wikipedia.org/wiki/進階可編程中斷控制器 "wikilink")（APIC,
-Advanced Programmable Interrupt
-Controller）的電腦是可以有很大分別的，但HAL卻提供了便利，使程式不需要顧及這一個分別。
+Windows系統的[硬件抽象層就是由Hal](https://zh.wikipedia.org/wiki/硬件抽象層 "wikilink").dll實現\[1\]。HAL提供很多函式，而這些函式在不同的硬件平台（以下皆指[晶片組](https://zh.wikipedia.org/wiki/晶片組 "wikilink")）皆有不一樣的實現方式。因為Windows提供HAL這一個功能，所以大部份程式可以隨意呼叫這些函式，而不需要顧及程式在何種平台上執行。舉個例子，回應一個中斷要求的方法在一台有或沒有[進階可編程中斷控制器](https://zh.wikipedia.org/wiki/進階可編程中斷控制器 "wikilink")（APIC, Advanced Programmable Interrupt Controller）的電腦是可以有很大分別的，但HAL卻提供了便利，使程式不需要顧及這一個分別。
 
 因為HAL是被載入到[核心記憶體](https://zh.wikipedia.org/wiki/核心記憶體 "wikilink")，並且在[核心模式執行](https://zh.wikipedia.org/wiki/核心模式 "wikilink")，所以HAL裡的函式是無法被應用程式直接呼叫的，並且HAL沒有提供任何使用者模式的API。因此HAL的主要服務對像是Windows核心和核心模式的驅動程式。雖然大部份驅動程式也是存放在獨立的.sys檔案，但有些核心的驅動程式卻是被直接編譯到Hal.dll裡。
 
 一些核心模式的驅動程式為了對I/O埠和裝置的寄存器進行直接的存取，所以需要直接呼叫Hal.dll裡的函式。因為正如上面提到，在不同的平台做一樣的事情是有不同的實行方法，所以使用Hal.dll的函式可以確保一份驅動程式能在不同的平台和架構上被使用。
 
-在[Windows
-x86的安裝媒體上一般存放著不同版本的HAL檔案](https://zh.wikipedia.org/wiki/Windows_x86 "wikilink")，在安裝Windows時會根據現時電腦的平台而把恰當的版本安裝進去。判斷的條件一般包括BIOS類型，或是否有多個處理器。
+在[Windows x86的安裝媒體上一般存放著不同版本的HAL檔案](https://zh.wikipedia.org/wiki/Windows_x86 "wikilink")，在安裝Windows時會根據現時電腦的平台而把恰當的版本安裝進去。判斷的條件一般包括BIOS類型，或是否有多個處理器。
 
 ### Ntdll.dll
 
 Ntdll.dll和ntoskrnl.exe裡含有Windows的[原生API](https://zh.wikipedia.org/wiki/Native_API "wikilink")，通常被一些必須要在Win32子系統以外的環境下執行的應用程式使用，而這些程式也被稱為原生應用程式。大部份API函式的名字通常以Nt開頭，例如NtDisplayString。Ntdll.dll除了被原生應用程式呼叫外，它還會被Kernel32.dll裡大部份API所使用\[2\]\[3\]\[4\]。很大部份的視窗應用程式也不會直接呼叫Ntdll.dll\[5\]。
 
-原生應用程式使用Ntdll.dll裡的函式，一般需要比Win32子系統啟動成功前更早的執行。例如csrss.exe，Win32子系統的處理程序，因為Win32應用程式必須要在csrss.exe上執行，所以執行它的應用程序，smss.exe（會話管理員）必須要是原生應用程式。
-儘管原生應用程序有.exe的副檔名，但它們並無法被使用者直接執行。例子如autochk.exe，一個用來在開機期間執行chkdsk進行磁碟檢查的程式。
+原生應用程式使用Ntdll.dll裡的函式，一般需要比Win32子系統啟動成功前更早的執行。例如csrss.exe，Win32子系統的處理程序，因為Win32應用程式必須要在csrss.exe上執行，所以執行它的應用程序，smss.exe（會話管理員）必須要是原生應用程式。 儘管原生應用程序有.exe的副檔名，但它們並無法被使用者直接執行。例子如autochk.exe，一個用來在開機期間執行chkdsk進行磁碟檢查的程式。
 
 因為原生應用程式不能依赖Win32子系统，所以它們的程式入口不是一般Win32應用程式的MainCRTStartup\[6\]，而是NtProcessStartup。原生程式執行完畢後，它們會呼叫NtTerminateProcess並將執行結果返回。
 
@@ -60,23 +56,13 @@ comctl32.dll主要提供各種標準視窗界面元件。它提供對話框如�
 
 ## 外部連結
 
-  - [API calls list -
-    USER32.DLL](http://www.andreavb.com/API_USER32.html) - Tips for
-    using the User API Client Library with Visual Basic
-  - [API calls list -
-    Kernel32.dll](http://www.andreavb.com/API_KERNEL32.html) - Tips for
-    using the Kernel API Client Library with Visual Basic
-  - [Native API
-    reference](https://web.archive.org/web/20060315213024/http://www.sysinternals.com/Information/NativeApi.html)
-  - [Unofficial website that documents most of the Native API
-    methods](http://undocumented.ntinternals.net/)
-  - [Retrieving the kernel32.dll base
-    address](http://uberskill.blogspot.com/2012/07/retrieving-kernel32dll-base-address.html)
+  - [API calls list - USER32.DLL](http://www.andreavb.com/API_USER32.html) - Tips for using the User API Client Library with Visual Basic
+  - [API calls list - Kernel32.dll](http://www.andreavb.com/API_KERNEL32.html) - Tips for using the Kernel API Client Library with Visual Basic
+  - [Native API reference](https://web.archive.org/web/20060315213024/http://www.sysinternals.com/Information/NativeApi.html)
+  - [Unofficial website that documents most of the Native API methods](http://undocumented.ntinternals.net/)
+  - [Retrieving the kernel32.dll base address](http://uberskill.blogspot.com/2012/07/retrieving-kernel32dll-base-address.html)
 
-[Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink")
-[Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
-[Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink")
-[Category:Windows_NT](https://zh.wikipedia.org/wiki/Category:Windows_NT "wikilink")
+[Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink") [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink") [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink") [Category:Windows_NT](https://zh.wikipedia.org/wiki/Category:Windows_NT "wikilink")
 
 1.
 
@@ -89,11 +75,7 @@ comctl32.dll主要提供各種標準視窗界面元件。它提供對話框如�
 5.
 
 6.
-7.  [Visual Studio Developer Center: Identifying Functions in
-    DLLs](http://msdn.microsoft.com/en-us/library/31d242h4.aspx)
+7.  [Visual Studio Developer Center: Identifying Functions in DLLs](http://msdn.microsoft.com/en-us/library/31d242h4.aspx)
 
 8.
-9.  See also, the documentation for the
-    [Wine](https://zh.wikipedia.org/wiki/Wine_\(emulator\) "wikilink")
-    implementation of gdi32.dll: [Wine API:
-    gdi32.dll](http://source.winehq.org/WineAPI/gdi32.html)
+9.  See also, the documentation for the [Wine](https://zh.wikipedia.org/wiki/Wine_\(emulator\) "wikilink") implementation of gdi32.dll: [Wine API: gdi32.dll](http://source.winehq.org/WineAPI/gdi32.html)

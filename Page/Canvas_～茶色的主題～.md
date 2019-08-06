@@ -1,5 +1,4 @@
-《**Canvas 〜茶色的主題〜**》（是[COCKTAIL
-SOFT](https://zh.wikipedia.org/wiki/COCKTAIL_SOFT "wikilink")（現在改為[F\&C](../Page/F&C.md "wikilink")）于2000年11月24日发行的[18禁](../Page/日本成人遊戲.md "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。\[1\]2001年11月22日發售其中將會包含[DC版本的追加版本](../Page/Dreamcast.md "wikilink")《CanvasDVD～茶色的主題～》。DC版於2001年4月5日发售。\[2\]2001年12月25日發行18禁OVA，共2卷。2003年4月10日發行[PS2版](https://zh.wikipedia.org/wiki/PS2 "wikilink")。\[3\]2005年3月3日發售PS2廉價版。2007年5月25日，Gyutto獨家發售網路下載版《CanvasDVD～茶色的主題～》。\[4\]2008年7月25日發行DVD-PG版。\[5\]
+《**Canvas 〜茶色的主題〜**》（是[COCKTAIL SOFT](https://zh.wikipedia.org/wiki/COCKTAIL_SOFT "wikilink")（現在改為[F\&C](../Page/F&C.md "wikilink")）于2000年11月24日发行的[18禁](../Page/日本成人遊戲.md "wikilink")[恋爱冒险游戏](https://zh.wikipedia.org/wiki/恋爱冒险游戏 "wikilink")。\[1\]2001年11月22日發售其中將會包含[DC版本的追加版本](../Page/Dreamcast.md "wikilink")《CanvasDVD～茶色的主題～》。DC版於2001年4月5日发售。\[2\]2001年12月25日發行18禁OVA，共2卷。2003年4月10日發行[PS2版](https://zh.wikipedia.org/wiki/PS2 "wikilink")。\[3\]2005年3月3日發售PS2廉價版。2007年5月25日，Gyutto獨家發售網路下載版《CanvasDVD～茶色的主題～》。\[4\]2008年7月25日發行DVD-PG版。\[5\]
 
 ## 登場人物
 
@@ -115,16 +114,7 @@ SOFT](https://zh.wikipedia.org/wiki/COCKTAIL_SOFT "wikilink")（現在改為[F\&
 
   - [インターチャネル](https://web.archive.org/web/20071010125850/http://www.interchannel.co.jp/)
 
-[Category:2000年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2000年日本成人遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:恋爱冒险游戏](https://zh.wikipedia.org/wiki/Category:恋爱冒险游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Dreamcast游戏](https://zh.wikipedia.org/wiki/Category:Dreamcast游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink")
-[Category:2001年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2001年日本成人動畫 "wikilink")
-[Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink")
-[Category:F\&C遊戲](https://zh.wikipedia.org/wiki/Category:F&C遊戲 "wikilink")
+[Category:2000年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2000年日本成人遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:恋爱冒险游戏](https://zh.wikipedia.org/wiki/Category:恋爱冒险游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Dreamcast游戏](https://zh.wikipedia.org/wiki/Category:Dreamcast游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:DVDPG](https://zh.wikipedia.org/wiki/Category:DVDPG "wikilink") [Category:2001年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2001年日本成人動畫 "wikilink") [Category:高中題材電子遊戲](https://zh.wikipedia.org/wiki/Category:高中題材電子遊戲 "wikilink") [Category:F\&C遊戲](https://zh.wikipedia.org/wiki/Category:F&C遊戲 "wikilink")
 
 1.
 2.

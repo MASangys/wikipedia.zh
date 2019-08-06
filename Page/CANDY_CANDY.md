@@ -1,5 +1,4 @@
-《**CANDY CANDY**》是[Kyary Pamyu
-Pamyu的第](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年4月4日由[日本華納音樂](../Page/日本華納音樂.md "wikilink")發售。該曲的製作人是繼前作[中田康貴](../Page/中田康貴.md "wikilink")擔當。分為初回限定盤和通常盤2種形態發售。歌曲後來在2016年被[勸世寶貝喵喵](../Page/勸世寶貝喵喵.md "wikilink")翻唱。\[1\]
+《**CANDY CANDY**》是[Kyary Pamyu Pamyu的第](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2012年4月4日由[日本華納音樂](../Page/日本華納音樂.md "wikilink")發售。該曲的製作人是繼前作[中田康貴](../Page/中田康貴.md "wikilink")擔當。分為初回限定盤和通常盤2種形態發售。歌曲後來在2016年被[勸世寶貝喵喵](../Page/勸世寶貝喵喵.md "wikilink")翻唱。\[1\]
 
 ## 音樂影片
 
@@ -25,13 +24,8 @@ Pamyu的第](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")2張[單
       - [通常盤](https://web.archive.org/web/20121207225003/http://wmg.jp/artist/kyary/WPCL000011072.html)
 
   -
-[Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:衛生用品廣告歌曲](https://zh.wikipedia.org/wiki/Category:衛生用品廣告歌曲 "wikilink")
-[Category:富士電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台節目主題曲 "wikilink")
-[Category:Kyary_Pamyu_Pamyu歌曲](https://zh.wikipedia.org/wiki/Category:Kyary_Pamyu_Pamyu歌曲 "wikilink")
+[Category:日本華納音樂歌曲](https://zh.wikipedia.org/wiki/Category:日本華納音樂歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:衛生用品廣告歌曲](https://zh.wikipedia.org/wiki/Category:衛生用品廣告歌曲 "wikilink") [Category:富士電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:富士電視台節目主題曲 "wikilink") [Category:Kyary_Pamyu_Pamyu歌曲](https://zh.wikipedia.org/wiki/Category:Kyary_Pamyu_Pamyu歌曲 "wikilink")
 
-1.  [勸世寶貝喵喵ㄉ甜蜜糖衣 (CANDY CANDY
-    COVER)](https://www.youtube.com/watch?v=svsdQSDIdYE)
+1.  [勸世寶貝喵喵ㄉ甜蜜糖衣 (CANDY CANDY COVER)](https://www.youtube.com/watch?v=svsdQSDIdYE)
 2.
 3.

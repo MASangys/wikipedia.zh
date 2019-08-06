@@ -1,5 +1,4 @@
-**《CityColor城彩名人堂》**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：CITY
-COLOR）是2014年[東風衛視](../Page/東風衛視.md "wikilink")的綜藝節目，主持人為[侯佩岑](../Page/侯佩岑.md "wikilink")、[黃鴻升](https://zh.wikipedia.org/wiki/黃鴻升 "wikilink")、[吳姍儒](../Page/吳姍儒.md "wikilink")（Sandy）。代班主持人為[吳宗憲](../Page/吳宗憲.md "wikilink")、[孫協志](../Page/孫協志.md "wikilink")、[小鐘](https://zh.wikipedia.org/wiki/小鐘 "wikilink")、[小禎](../Page/胡盈禎.md "wikilink")、[辰亦儒](../Page/辰亦儒.md "wikilink")，[侯佩岑](../Page/侯佩岑.md "wikilink")產假期間由[吳姍儒](../Page/吳姍儒.md "wikilink")代班。製作人:[陳子泰](https://zh.wikipedia.org/wiki/陳子泰 "wikilink")。與[優酷網](https://zh.wikipedia.org/wiki/優酷網 "wikilink")、[土豆網合作](https://zh.wikipedia.org/wiki/土豆網 "wikilink")。\[1\]\[2\]
+**《CityColor城彩名人堂》**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：CITY COLOR）是2014年[東風衛視](../Page/東風衛視.md "wikilink")的綜藝節目，主持人為[侯佩岑](../Page/侯佩岑.md "wikilink")、[黃鴻升](https://zh.wikipedia.org/wiki/黃鴻升 "wikilink")、[吳姍儒](../Page/吳姍儒.md "wikilink")（Sandy）。代班主持人為[吳宗憲](../Page/吳宗憲.md "wikilink")、[孫協志](../Page/孫協志.md "wikilink")、[小鐘](https://zh.wikipedia.org/wiki/小鐘 "wikilink")、[小禎](../Page/胡盈禎.md "wikilink")、[辰亦儒](../Page/辰亦儒.md "wikilink")，[侯佩岑](../Page/侯佩岑.md "wikilink")產假期間由[吳姍儒](../Page/吳姍儒.md "wikilink")代班。製作人:[陳子泰](https://zh.wikipedia.org/wiki/陳子泰 "wikilink")。與[優酷網](https://zh.wikipedia.org/wiki/優酷網 "wikilink")、[土豆網合作](https://zh.wikipedia.org/wiki/土豆網 "wikilink")。\[1\]\[2\]
 
 ## 播映
 
@@ -497,16 +496,14 @@ COLOR）是2014年[東風衛視](../Page/東風衛視.md "wikilink")的綜藝節
 
 ## 外部連結
 
-  - [城彩名人堂
-    優酷視頻](http://www.youku.com/show_page/id_zdfad9df8032011e4b8b7.html)
+  - [城彩名人堂 優酷視頻](http://www.youku.com/show_page/id_zdfad9df8032011e4b8b7.html)
 
   - [城彩名人堂 土豆視頻](http://www.tudou.com/albumcover/j3M_NZx22mQ.html)
 
   -
   -
   -
-[Category:東風衛視](https://zh.wikipedia.org/wiki/Category:東風衛視 "wikilink")
-[Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink")
+[Category:東風衛視](https://zh.wikipedia.org/wiki/Category:東風衛視 "wikilink") [Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink")
 
 1.
 2.

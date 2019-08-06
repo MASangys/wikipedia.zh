@@ -10,12 +10,8 @@
 
 ## 参考文献
 
-[Category:氧化胺](https://zh.wikipedia.org/wiki/Category:氧化胺 "wikilink")
-[Category:吡啶](https://zh.wikipedia.org/wiki/Category:吡啶 "wikilink")
-[Category:吡啶𬭩盐](https://zh.wikipedia.org/wiki/Category:吡啶𬭩盐 "wikilink")
+[Category:氧化胺](https://zh.wikipedia.org/wiki/Category:氧化胺 "wikilink") [Category:吡啶](https://zh.wikipedia.org/wiki/Category:吡啶 "wikilink") [Category:吡啶𬭩盐](https://zh.wikipedia.org/wiki/Category:吡啶𬭩盐 "wikilink")
 
 1.
-2.  S. Nicholas Kilényi "Pyridine N-Oxide" in Encyclopedia of Reagents
-    for Organic Synthesis, 2001 John Wiley & Sons, New York.  Article
-    Online Posting Date: April 15, 2001
+2.  S. Nicholas Kilényi "Pyridine N-Oxide" in Encyclopedia of Reagents for Organic Synthesis, 2001 John Wiley & Sons, New York.  Article Online Posting Date: April 15, 2001
 3.

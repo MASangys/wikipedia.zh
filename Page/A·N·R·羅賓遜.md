@@ -8,12 +8,9 @@
 
 ## 外部链接
 
-  - [A.N.R. Robinson's government
-    biography](https://web.archive.org/web/20040623145335/http://www.nalis.gov.tt/Biography/bio_ANR_ROBINSON.html)
-  - [Notice of
-    death](http://www.stabroeknews.com/2014/news/regional/04/09/former-tt-pm-president-anr-robinson-passes-away/)
+  - [A.N.R. Robinson's government biography](https://web.archive.org/web/20040623145335/http://www.nalis.gov.tt/Biography/bio_ANR_ROBINSON.html)
+  - [Notice of death](http://www.stabroeknews.com/2014/news/regional/04/09/former-tt-pm-president-anr-robinson-passes-away/)
 
-[Category:特立尼达和多巴哥总统](https://zh.wikipedia.org/wiki/Category:特立尼达和多巴哥总统 "wikilink")
-[Category:特立尼达和多巴哥总理](https://zh.wikipedia.org/wiki/Category:特立尼达和多巴哥总理 "wikilink")
+[Category:特立尼达和多巴哥总统](https://zh.wikipedia.org/wiki/Category:特立尼达和多巴哥总统 "wikilink") [Category:特立尼达和多巴哥总理](https://zh.wikipedia.org/wiki/Category:特立尼达和多巴哥总理 "wikilink")
 
 1.

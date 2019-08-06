@@ -2,15 +2,11 @@
 
 ## 历史
 
-2014年3月19日，小米公司发布[红米Note](https://zh.wikipedia.org/wiki/红米Note "wikilink")，采用联发科MT6592八核心处理器、5.5英寸
-720P IPS屏幕，分标准版与增强版，标准版采用1.4GHz主频CPU、1GB RAM，售价799元；增强版采用1.7GHz主频CPU、2GB
-RAM，售价999元。根据网络制式不同，红米Note有移动版/联通版两个版本，分别支援TD-SCDMA+GSM及WCDMA+GSM双卡双待。
+2014年3月19日，小米公司发布[红米Note](https://zh.wikipedia.org/wiki/红米Note "wikilink")，采用联发科MT6592八核心处理器、5.5英寸 720P IPS屏幕，分标准版与增强版，标准版采用1.4GHz主频CPU、1GB RAM，售价799元；增强版采用1.7GHz主频CPU、2GB RAM，售价999元。根据网络制式不同，红米Note有移动版/联通版两个版本，分别支援TD-SCDMA+GSM及WCDMA+GSM双卡双待。
 
-2014年8月6日，红米Note 4G单卡版上市\[1\]，仅有增强版版本，使用2GB
-RAM，处理器则更换为高通骁龙400(MSM8928)，售价999元。移动版支援移动4G([TD-LTE](https://zh.wikipedia.org/wiki/TD-LTE "wikilink"))，联通版支援联通4G(TD-LTE/[LTE-FDD](https://zh.wikipedia.org/wiki/LTE-FDD "wikilink"))，但并不支援双卡双待。
+2014年8月6日，红米Note 4G单卡版上市\[1\]，仅有增强版版本，使用2GB RAM，处理器则更换为高通骁龙400(MSM8928)，售价999元。移动版支援移动4G([TD-LTE](https://zh.wikipedia.org/wiki/TD-LTE "wikilink"))，联通版支援联通4G(TD-LTE/[LTE-FDD](https://zh.wikipedia.org/wiki/LTE-FDD "wikilink"))，但并不支援双卡双待。
 
-2015年1月27日，红米Note 4G双卡版上市\[2\]，有标准版/增强版两个版本，分别使用1GB/2GB
-RAM，处理器更换为64位高通410(MSM8916)，售价分别为799/899元。网络制式方面，分为移动/联通/电信三个版本，分别支持移动4G、联通4G、电信4G双卡双待。
+2015年1月27日，红米Note 4G双卡版上市\[2\]，有标准版/增强版两个版本，分别使用1GB/2GB RAM，处理器更换为64位高通410(MSM8916)，售价分别为799/899元。网络制式方面，分为移动/联通/电信三个版本，分别支持移动4G、联通4G、电信4G双卡双待。
 
 ## 硬件配置\[3\] \[4\]\[5\]
 
@@ -179,13 +175,9 @@ TDD-LTE(B41:)、FDD-LTE(B1/B3)、CDMA(2000/1X/EVDO Rev.A 800MHz)、GSM(900/1800/
 
 ## 参考与引用
 
-[Category:小米手机](https://zh.wikipedia.org/wiki/Category:小米手机 "wikilink")
-[Category:智能手机](https://zh.wikipedia.org/wiki/Category:智能手机 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
+[Category:小米手机](https://zh.wikipedia.org/wiki/Category:小米手机 "wikilink") [Category:智能手机](https://zh.wikipedia.org/wiki/Category:智能手机 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
 
-1.  [红米Note 4G移动版8月12日开卖
-    联通版8月26日](http://www.techweb.com.cn/tele/2014-08-08/2062660.shtml)
+1.  [红米Note 4G移动版8月12日开卖 联通版8月26日](http://www.techweb.com.cn/tele/2014-08-08/2062660.shtml)
 2.
 3.  [3G版](http://www.mi.com/note)
 4.  [移动/联通4G版](http://www.mi.com/note4g)

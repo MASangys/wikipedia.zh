@@ -1,5 +1,4 @@
-《**Dear Diary**》是[香港](../Page/香港.md "wikilink")組合[Robynn &
-Kendy的第二張個人唱片](../Page/Robynn_&_Kendy.md "wikilink")，於2013年2月21日推出。
+《**Dear Diary**》是[香港](../Page/香港.md "wikilink")組合[Robynn & Kendy的第二張個人唱片](../Page/Robynn_&_Kendy.md "wikilink")，於2013年2月21日推出。
 
 ## 曲目
 
@@ -56,7 +55,4 @@ Kendy的第二張個人唱片](../Page/Robynn_&_Kendy.md "wikilink")，於2013�
 
 ## 參考資料
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:Robynn_&_Kendy音樂專輯](https://zh.wikipedia.org/wiki/Category:Robynn_&_Kendy音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:Robynn_&_Kendy音樂專輯](https://zh.wikipedia.org/wiki/Category:Robynn_&_Kendy音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")

@@ -1,5 +1,4 @@
-[sansui-ologo.png](https://zh.wikipedia.org/wiki/File:sansui-ologo.png "fig:sansui-ologo.png")
-**Sansui**，即日語「**山水**」，為過去一家日本電器製造商**山水電氣株式会社**（），以及現今冠名使用的電器[品牌](../Page/品牌.md "wikilink")。
+[sansui-ologo.png](https://zh.wikipedia.org/wiki/File:sansui-ologo.png "fig:sansui-ologo.png") **Sansui**，即日語「**山水**」，為過去一家日本電器製造商**山水電氣株式会社**（），以及現今冠名使用的電器[品牌](../Page/品牌.md "wikilink")。
 
 ## 歷史
 
@@ -33,12 +32,9 @@
 
   - Sansui Sales Pte., Ltd.
 
-[嘉域集團持有](https://zh.wikipedia.org/wiki/嘉域集團 "wikilink")「Sansui」（山水）的[商標](https://zh.wikipedia.org/wiki/商標 "wikilink")、[特許權](https://zh.wikipedia.org/wiki/特許權 "wikilink")\[6\]，採行「國際品牌」（實為「品牌傘＝umbrella
-brands」）策略，[授權他廠冠名生產](https://zh.wikipedia.org/wiki/授權 "wikilink")、銷售同品牌電器用品\[7\]，但並非香港嘉域或日本山水的關係企業。
+[嘉域集團持有](https://zh.wikipedia.org/wiki/嘉域集團 "wikilink")「Sansui」（山水）的[商標](https://zh.wikipedia.org/wiki/商標 "wikilink")、[特許權](https://zh.wikipedia.org/wiki/特許權 "wikilink")\[6\]，採行「國際品牌」（實為「品牌傘＝umbrella brands」）策略，[授權他廠冠名生產](https://zh.wikipedia.org/wiki/授權 "wikilink")、銷售同品牌電器用品\[7\]，但並非香港嘉域或日本山水的關係企業。
 
-AU-317II.jpg|1980年的山水廣播媒體用機組 Préamplifier.jpg|山水CA-3000擴大機 Snasui
-sp-200.jpg|sp-200喇叭 Sansui.jpg|山水9090DB擴大機 Amplificateur Stéréo de
-puissance Q-3535 (58).jpg|Q-3535真空管擴大機
+AU-317II.jpg|1980年的山水廣播媒體用機組 Préamplifier.jpg|山水CA-3000擴大機 Snasui sp-200.jpg|sp-200喇叭 Sansui.jpg|山水9090DB擴大機 Amplificateur Stéréo de puissance Q-3535 (58).jpg|Q-3535真空管擴大機
 
 ## 註釋
 
@@ -51,18 +47,10 @@ puissance Q-3535 (58).jpg|Q-3535真空管擴大機
   - [Sansui](http://www.sansui-global.com/)
   - [山水電氣](http://www.sansui-doshisha.jp/)
 
-[Category:1944年建立](https://zh.wikipedia.org/wiki/Category:1944年建立 "wikilink")
-[Category:1947年成立的公司](https://zh.wikipedia.org/wiki/Category:1947年成立的公司 "wikilink")
-[Category:2014年結業公司](https://zh.wikipedia.org/wiki/Category:2014年結業公司 "wikilink")
-[Category:音频器材生产商](https://zh.wikipedia.org/wiki/Category:音频器材生产商 "wikilink")
-[Category:日本電子公司](https://zh.wikipedia.org/wiki/Category:日本電子公司 "wikilink")
-[Category:大田區公司](https://zh.wikipedia.org/wiki/Category:大田區公司 "wikilink")
-[Category:東京證券交易所已除牌公司](https://zh.wikipedia.org/wiki/Category:東京證券交易所已除牌公司 "wikilink")
+[Category:1944年建立](https://zh.wikipedia.org/wiki/Category:1944年建立 "wikilink") [Category:1947年成立的公司](https://zh.wikipedia.org/wiki/Category:1947年成立的公司 "wikilink") [Category:2014年結業公司](https://zh.wikipedia.org/wiki/Category:2014年結業公司 "wikilink") [Category:音频器材生产商](https://zh.wikipedia.org/wiki/Category:音频器材生产商 "wikilink") [Category:日本電子公司](https://zh.wikipedia.org/wiki/Category:日本電子公司 "wikilink") [Category:大田區公司](https://zh.wikipedia.org/wiki/Category:大田區公司 "wikilink") [Category:東京證券交易所已除牌公司](https://zh.wikipedia.org/wiki/Category:東京證券交易所已除牌公司 "wikilink")
 
-1.  [安永同意向雅佳清算人支付巨款](http://m.ftchinese.com/story/001028907)..[金融时报](https://zh.wikipedia.org/wiki/金融时报 "wikilink").
-    2009-09-24.
-2.  [丁謂遭申請破產清盤](http://hk.apple.nextmedia.com/financeestate/art/20121125/18079411).
-    香港蘋果日報. 2012-11-25.
+1.  [安永同意向雅佳清算人支付巨款](http://m.ftchinese.com/story/001028907)..[金融时报](https://zh.wikipedia.org/wiki/金融时报 "wikilink"). 2009-09-24.
+2.  [丁謂遭申請破產清盤](http://hk.apple.nextmedia.com/financeestate/art/20121125/18079411). 香港蘋果日報. 2012-11-25.
 3.
 4.
 5.

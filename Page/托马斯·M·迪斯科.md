@@ -10,10 +10,6 @@
 
   - [美科幻作家迪什托馬斯自殺身亡](https://web.archive.org/web/20160304221534/http://www.publishing.com.hk/pubnews/NewsDetail.asp?NewsID=20080714101)
 
-[Category:美國詩人](https://zh.wikipedia.org/wiki/Category:美國詩人 "wikilink")
-[Category:美国科幻小说家](https://zh.wikipedia.org/wiki/Category:美国科幻小说家 "wikilink")
+[Category:美國詩人](https://zh.wikipedia.org/wiki/Category:美國詩人 "wikilink") [Category:美国科幻小说家](https://zh.wikipedia.org/wiki/Category:美国科幻小说家 "wikilink")
 
-[Category:自杀作家](https://zh.wikipedia.org/wiki/Category:自杀作家 "wikilink")
-[Category:自杀诗人](https://zh.wikipedia.org/wiki/Category:自杀诗人 "wikilink")
-[Category:美国无神论者](https://zh.wikipedia.org/wiki/Category:美国无神论者 "wikilink")
-[Category:男同性恋作家](https://zh.wikipedia.org/wiki/Category:男同性恋作家 "wikilink")
+[Category:自杀作家](https://zh.wikipedia.org/wiki/Category:自杀作家 "wikilink") [Category:自杀诗人](https://zh.wikipedia.org/wiki/Category:自杀诗人 "wikilink") [Category:美国无神论者](https://zh.wikipedia.org/wiki/Category:美国无神论者 "wikilink") [Category:男同性恋作家](https://zh.wikipedia.org/wiki/Category:男同性恋作家 "wikilink")

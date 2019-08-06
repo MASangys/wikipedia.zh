@@ -32,6 +32,4 @@
 
   - [官方網頁](http://www.fujitv.co.jp/minasan/)
 
-[Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink")
-[Category:1997年日本電視節目](https://zh.wikipedia.org/wiki/Category:1997年日本電視節目 "wikilink")
-[Category:清談節目](https://zh.wikipedia.org/wiki/Category:清談節目 "wikilink")
+[Category:富士電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:富士電視台綜藝節目 "wikilink") [Category:1997年日本電視節目](https://zh.wikipedia.org/wiki/Category:1997年日本電視節目 "wikilink") [Category:清談節目](https://zh.wikipedia.org/wiki/Category:清談節目 "wikilink")

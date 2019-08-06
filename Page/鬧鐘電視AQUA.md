@@ -1,6 +1,4 @@
-《**鬧鐘電視AQUA**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")及其[聯播網](../Page/電視聯播網.md "wikilink")（[FNN](https://zh.wikipedia.org/wiki/FNN "wikilink")）周一至周五早上4:00
--
-5:25播出的[晨間新聞](../Page/晨間新聞.md "wikilink")資訊節目，於2014年3月31日開始播出。接檔《[鬧鐘新聞](../Page/鬧鐘新聞.md "wikilink")》。
+《**鬧鐘電視AQUA**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")及其[聯播網](../Page/電視聯播網.md "wikilink")（[FNN](https://zh.wikipedia.org/wiki/FNN "wikilink")）周一至周五早上4:00 - 5:25播出的[晨間新聞](../Page/晨間新聞.md "wikilink")資訊節目，於2014年3月31日開始播出。接檔《[鬧鐘新聞](../Page/鬧鐘新聞.md "wikilink")》。
 
 ## 出演者
 
@@ -44,7 +42,4 @@
 
   - [鬧鐘電視AQUA](http://www.fujitv.co.jp/b_hp/mezaaqua/)
 
-[Category:鬧鐘家族](https://zh.wikipedia.org/wiki/Category:鬧鐘家族 "wikilink")
-[Category:富士電視台新聞節目](https://zh.wikipedia.org/wiki/Category:富士電視台新聞節目 "wikilink")
-[Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink")
-[Category:早间电视节目](https://zh.wikipedia.org/wiki/Category:早间电视节目 "wikilink")
+[Category:鬧鐘家族](https://zh.wikipedia.org/wiki/Category:鬧鐘家族 "wikilink") [Category:富士電視台新聞節目](https://zh.wikipedia.org/wiki/Category:富士電視台新聞節目 "wikilink") [Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink") [Category:早间电视节目](https://zh.wikipedia.org/wiki/Category:早间电视节目 "wikilink")

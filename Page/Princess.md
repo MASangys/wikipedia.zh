@@ -10,8 +10,7 @@
 
   - [公主](../Page/公主.md "wikilink")
 
-[Category:女性爵位](https://zh.wikipedia.org/wiki/Category:女性爵位 "wikilink")
-[Category:英语词语](https://zh.wikipedia.org/wiki/Category:英语词语 "wikilink")
+[Category:女性爵位](https://zh.wikipedia.org/wiki/Category:女性爵位 "wikilink") [Category:英语词语](https://zh.wikipedia.org/wiki/Category:英语词语 "wikilink")
 
 1.
 2.

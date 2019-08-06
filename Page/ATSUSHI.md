@@ -1,18 +1,12 @@
-**ATSUSHI**（）是[日本](../Page/日本.md "wikilink")的[歌手](../Page/歌手.md "wikilink")。[EXILE的主唱](https://zh.wikipedia.org/wiki/EXILE "wikilink")、RED
-DIAMOND DOGS的主唱、原[COLOR的主唱兼製作](../Page/DEEP_\(歌手組合\).md "wikilink")。
+**ATSUSHI**（）是[日本](../Page/日本.md "wikilink")的[歌手](../Page/歌手.md "wikilink")。[EXILE的主唱](https://zh.wikipedia.org/wiki/EXILE "wikilink")、RED DIAMOND DOGS的主唱、原[COLOR的主唱兼製作](../Page/DEEP_\(歌手組合\).md "wikilink")。
 
 [埼玉縣](../Page/埼玉縣.md "wikilink")[越谷市](../Page/越谷市.md "wikilink")出身。身高175cm。
 
 ## 來歷
 
-從4歲開始到高中畢業學習古典鋼琴\[1\]。在高中時被邀請成為主唱組成樂團為契機，立志成為主唱。據說原本就受父親平常會用吉他單手彈奏比利‧喬爾的「Honesty」等一邊唱著歌很大的影響。高中畢業後，在專科學校（ESP音樂藝術學院）磨練當主唱的技術。在學中參加過幾次徵選以後，於2000年闖進電視節目「ASAYAN」的男子主唱徵選的最後徵選。但是不合「繼續成長下去就會被發掘為歌手」的選評標準而落選。徵選落選後的半年的時間在澁谷的俱樂部度過演唱生活。在那生活之中HIRO對他提出出道的邀請，於2001年加入EXILE的前身「J
-Soul Brothers」。另外，這時候是預定的成員是主唱1人、表演者4人。 隨後SHUN的加入，於2001年8月24日、團名由「**J
-Soul Brothers**」改為「**EXILE**」に。9月27日以單曲『[Your eyes only
-～我曖昧的輪廓～](../Page/Your_eyes_only_～我曖昧的輪廓～.md "wikilink")』出道。
+從4歲開始到高中畢業學習古典鋼琴\[1\]。在高中時被邀請成為主唱組成樂團為契機，立志成為主唱。據說原本就受父親平常會用吉他單手彈奏比利‧喬爾的「Honesty」等一邊唱著歌很大的影響。高中畢業後，在專科學校（ESP音樂藝術學院）磨練當主唱的技術。在學中參加過幾次徵選以後，於2000年闖進電視節目「ASAYAN」的男子主唱徵選的最後徵選。但是不合「繼續成長下去就會被發掘為歌手」的選評標準而落選。徵選落選後的半年的時間在澁谷的俱樂部度過演唱生活。在那生活之中HIRO對他提出出道的邀請，於2001年加入EXILE的前身「J Soul Brothers」。另外，這時候是預定的成員是主唱1人、表演者4人。 隨後SHUN的加入，於2001年8月24日、團名由「**J Soul Brothers**」改為「**EXILE**」に。9月27日以單曲『[Your eyes only ～我曖昧的輪廓～](../Page/Your_eyes_only_～我曖昧的輪廓～.md "wikilink")』出道。
 
-2002年3月6日、為EXILE專輯「[our
-style](../Page/我行我素_\(專輯\).md "wikilink")」中的歌（eyes
-in maze）提供歌詞、從而以作詞家身份出道。
+2002年3月6日、為EXILE專輯「[our style](../Page/我行我素_\(專輯\).md "wikilink")」中的歌（eyes in maze）提供歌詞、從而以作詞家身份出道。
 
 2003年5月左右開始光頭加上太陽眼鏡，成為他一段長時期的特徵。當時理成光頭的理由是因為厭煩了打扮過的自己。另外不用煩惱髮型也是原因之一。ATSUSHI愛用的太陽眼鏡是義大利名牌「police」。也有販賣ATSUSHI和police合作的太陽眼鏡。剛開始戴太陽眼鏡的理由是「有時候壓力會浮現在臉上所以要將它隱藏」。
 
@@ -20,16 +14,9 @@ in maze）提供歌詞、從而以作詞家身份出道。
 
 2005年年尾由於過度使用喉嚨，患了聲帶腫瘤，在SHUN退團後到第二章開幕之間動了手術。
 
-尊敬[久保田利伸](../Page/久保田利伸.md "wikilink")，於2007年3月9日集合多是的流行歌手一起演出「MTV iCON
-久保田利伸 powered by 楽天徵選」。與在日本第一次被選為i CON的久保田利伸一起演唱「Indigo
-Waltz」。ATSUSHI在ASAYAN的時候，也唱過他的「Missing」和「Cymbals」。他以**ATSUSHI from
-EXILE**身份参加於2004年2月25日所發售[久保田利伸](../Page/久保田利伸.md "wikilink")的感恩專「[SOUL
-TREE〜a musical tribute to toshinobu
-kubota〜](https://zh.wikipedia.org/wiki/SOUL_TREE〜a_musical_tribute_to_toshinobu_kubota〜 "wikilink")」翻唱「Cymbals」。
+尊敬[久保田利伸](../Page/久保田利伸.md "wikilink")，於2007年3月9日集合多是的流行歌手一起演出「MTV iCON 久保田利伸 powered by 楽天徵選」。與在日本第一次被選為i CON的久保田利伸一起演唱「Indigo Waltz」。ATSUSHI在ASAYAN的時候，也唱過他的「Missing」和「Cymbals」。他以**ATSUSHI from EXILE**身份参加於2004年2月25日所發售[久保田利伸](../Page/久保田利伸.md "wikilink")的感恩專「[SOUL TREE〜a musical tribute to toshinobu kubota〜](https://zh.wikipedia.org/wiki/SOUL_TREE〜a_musical_tribute_to_toshinobu_kubota〜 "wikilink")」翻唱「Cymbals」。
 
-第二章的CD發行前，於2006年10月與崇拜的Boyz Ⅱ Men（美國團體）共同演出。Boyz Ⅱ
-Men的Wanya「就算進行主唱指導也完全沒有需要改進的地方」對ATSUSHI讚不絕口。
-2006年12月「COLOR」更換成員，自己也退團專心擔任製作人。
+第二章的CD發行前，於2006年10月與崇拜的Boyz Ⅱ Men（美國團體）共同演出。Boyz Ⅱ Men的Wanya「就算進行主唱指導也完全沒有需要改進的地方」對ATSUSHI讚不絕口。 2006年12月「COLOR」更換成員，自己也退團專心擔任製作人。
 
 2007年為總製作花費八年時間，由日中志工團體所製作的，日中合作電影「純愛」免費作詞、作曲提供了自己作的歌曲「INORI」。關於發行現在似乎仍無計畫「如果要出的話，我希望能以公益的形式發行」。
 
@@ -37,48 +24,30 @@ Men的Wanya「就算進行主唱指導也完全沒有需要改進的地方」對
 
 2010年2月3日、所屬事務所[LDH新設社會貢獻部](../Page/LDH_\(藝能事務所\).md "wikilink")。由他親自作詞作曲的歌曲「路標」以八音盒方式發佈給全國的小學和踉隨節目的人們\[2\]。2月20日，一直光頭的ATSUSHI約相隔了5年時間開始再留了頭髮\[3\]。10月8日在楊千嬅的演唱會合唱\[4\]。
 
-2011年 9月14日、以**EXILE
-ATSUSHI**名義發售作以朝日電視台劇集「[陽はまた昇る](https://zh.wikipedia.org/wiki/陽はまた昇る_\(2011年のテレビドラマ\) "wikilink")」的主題曲「[總有一天…](https://zh.wikipedia.org/wiki/Rising_Sun/總有一天… "wikilink")」為個人出道。這單曲以EXILE的「[Rising
-Sun](https://zh.wikipedia.org/wiki/Rising_Sun/總有一天… "wikilink")」作合併發售。
+2011年 9月14日、以**EXILE ATSUSHI**名義發售作以朝日電視台劇集「[陽はまた昇る](https://zh.wikipedia.org/wiki/陽はまた昇る_\(2011年のテレビドラマ\) "wikilink")」的主題曲「[總有一天…](https://zh.wikipedia.org/wiki/Rising_Sun/總有一天… "wikilink")」為個人出道。這單曲以EXILE的「[Rising Sun](https://zh.wikipedia.org/wiki/Rising_Sun/總有一天… "wikilink")」作合併發售。
 
-2012年1月1日以専輯「[Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo#Solo_/_EXILE_ATSUSHI "wikilink")」與「[EXILE
-JAPAN](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo#EXILE_JAPAN "wikilink")」雙合併専輯發售。1月12日，前往中國「騰訊網星光大典」以來賓身份翻唱[王菲](../Page/王菲.md "wikilink")的「我願意」、這是他首次以個人身份於中國表演\[5\]。3月7日與TAKAHIRO參與JAPAN
-UNITED with MUSIC名義發售的單曲「All You Need Is
-Love」\[6\]。4月14日開始的巨蛋巡迴演唱會「EXILE TRIBE
-LIVE TOUR 2012 〜TOWER OF
-WISH〜」中、不僅以EXILE身份參與，也以個人身份參與演出。7月4日、獲得華鼎獎中的「亞洲演藝名人獎」\[7\]。10月17日起於日本國内6都市開始個人巡迴演唱會「EXILE
-ATSUSHI PREMIUM LIVE 2012 〜命をうたう〜」\[8\]。12月5日，發售第3張單「\[MELROSE
-〜不能相愛的約定〜\]\]」。這長是初次單獨發售CD的作品。
+2012年1月1日以専輯「[Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo#Solo_/_EXILE_ATSUSHI "wikilink")」與「[EXILE JAPAN](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo#EXILE_JAPAN "wikilink")」雙合併専輯發售。1月12日，前往中國「騰訊網星光大典」以來賓身份翻唱[王菲](../Page/王菲.md "wikilink")的「我願意」、這是他首次以個人身份於中國表演\[5\]。3月7日與TAKAHIRO參與JAPAN UNITED with MUSIC名義發售的單曲「All You Need Is Love」\[6\]。4月14日開始的巨蛋巡迴演唱會「EXILE TRIBE LIVE TOUR 2012 〜TOWER OF WISH〜」中、不僅以EXILE身份參與，也以個人身份參與演出。7月4日、獲得華鼎獎中的「亞洲演藝名人獎」\[7\]。10月17日起於日本國内6都市開始個人巡迴演唱會「EXILE ATSUSHI PREMIUM LIVE 2012 〜命をうたう〜」\[8\]。12月5日，發售第3張單「\[MELROSE 〜不能相愛的約定〜\]\]」。這長是初次單獨發售CD的作品。
 
 2013年4月30日發售首本的小品文『天音。』。2014年3月12日開始以電子書籍版開始發售了。
 
-2014年2月25日獲邀擔任2014年日本中學組的指定歌曲的創作，最後他完成了《》\[9\]。3月12日、第2張專輯『[Music](https://zh.wikipedia.org/wiki/Music_\(ATSUSHI專輯\) "wikilink")』發行。同專輯附屬的特典CD、有前EXILE主唱的SHUN（[清木場俊介](../Page/清木場俊介.md "wikilink")）相隔8年共同演出的兩首歌「fallin'」及「The
-Impossible is Real ～My Lucky Star～」。叧外、於前週3月5日發行的清木場俊介精選專輯『唄い屋・BEST
-Vol.1』中收錄有2人一起翻唱EXILE的作品「[羽1/2](https://zh.wikipedia.org/wiki/羽1/2 "wikilink")」。
+2014年2月25日獲邀擔任2014年日本中學組的指定歌曲的創作，最後他完成了《》\[9\]。3月12日、第2張專輯『[Music](https://zh.wikipedia.org/wiki/Music_\(ATSUSHI專輯\) "wikilink")』發行。同專輯附屬的特典CD、有前EXILE主唱的SHUN（[清木場俊介](../Page/清木場俊介.md "wikilink")）相隔8年共同演出的兩首歌「fallin'」及「The Impossible is Real ～My Lucky Star～」。叧外、於前週3月5日發行的清木場俊介精選專輯『唄い屋・BEST Vol.1』中收錄有2人一起翻唱EXILE的作品「[羽1/2](https://zh.wikipedia.org/wiki/羽1/2 "wikilink")」。
 
 2015年4月22日，被委託為東京·霞關的法務省的矯正支援官\[10\]。
 
-2016年5月28日 - 9月3日，舉辦了首個個人巨蛋巡迴演唱會『EXILE ATSUSHI LIVE TOUR 2016 "IT'S SHOW
-TIME\!\!"』、同時發表了組成樂隊組合「[RED DIAMOND
-DOGS](https://zh.wikipedia.org/wiki/RED_DIAMOND_DOGS "wikilink")」。6月26日、成為首個日本人於[道奇體育場](../Page/道奇體育場.md "wikilink")獻唱日本國歌。8月31日、發表了於2017年整年的活動據點會在海外。預定2018年才回歸日本國内活動，而其間EXILE的活動會受限制\[11\]。
+2016年5月28日 - 9月3日，舉辦了首個個人巨蛋巡迴演唱會『EXILE ATSUSHI LIVE TOUR 2016 "IT'S SHOW TIME\!\!"』、同時發表了組成樂隊組合「[RED DIAMOND DOGS](https://zh.wikipedia.org/wiki/RED_DIAMOND_DOGS "wikilink")」。6月26日、成為首個日本人於[道奇體育場](../Page/道奇體育場.md "wikilink")獻唱日本國歌。8月31日、發表了於2017年整年的活動據點會在海外。預定2018年才回歸日本國内活動，而其間EXILE的活動會受限制\[11\]。
 
 ## 人物
 
   - 愛好，是鋼琴和讀書。
   - 初次中·高中時代從屬於足球部，曾夢想當職業球員。
   - 戴著[太陽眼鏡](../Page/太陽眼鏡.md "wikilink")是其特徵。
-  - 右胸的刺青刺著『I'm gentle and convey true
-    love』。背後則是「EVOLUTION」。右手腕是19歲的時候刺的，象徵平和的水牛。ATSUSHI說「刺青不是為了炫耀，而是想要在想要逃離某事物或後退的時候有能支撐我的東西。就是說這些刺青是為了對自己發誓要而刺的」。
-    \[12\]以前是會抽菸的人，就算制止他也會繼續抽，不過HIRO說「ATSUSHI你要抽的話我也要抽喔」，一句話就制止了他。
+  - 右胸的刺青刺著『I'm gentle and convey true love』。背後則是「EVOLUTION」。右手腕是19歲的時候刺的，象徵平和的水牛。ATSUSHI說「刺青不是為了炫耀，而是想要在想要逃離某事物或後退的時候有能支撐我的東西。就是說這些刺青是為了對自己發誓要而刺的」。 \[12\]以前是會抽菸的人，就算制止他也會繼續抽，不過HIRO說「ATSUSHI你要抽的話我也要抽喔」，一句話就制止了他。
 
 ## 參加團體
 
-  - [J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")（2001年 -
-    2001年8月24日）
-  - [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（2001年8月24日 -
-    現在)
-  - [COLOR](../Page/DEEP_\(歌手組合\).md "wikilink")（2004年12月 -
-    2006年12月）\[13\]
+  - [J Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")（2001年 - 2001年8月24日）
+  - [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（2001年8月24日 - 現在)
+  - [COLOR](../Page/DEEP_\(歌手組合\).md "wikilink")（2004年12月 - 2006年12月）\[13\]
   - RED DIAMOND DOGS（2016年 - )
 
 ## 音樂作品
@@ -1129,8 +1098,7 @@ EXH SPECIAL EXILE ATSUSHI PREMIUM LIVE SOLO
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2009.09
-    　　[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")・[品川ステラボール](https://zh.wikipedia.org/wiki/品川ステラボール "wikilink")
+  - 2009.09 　　[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")・[品川ステラボール](https://zh.wikipedia.org/wiki/品川ステラボール "wikilink")
 
 </div>
 
@@ -1146,8 +1114,7 @@ EXILE ATSUSHI Premium Live ～The Roots～
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2010.11.17　[千葉](https://zh.wikipedia.org/wiki/千葉 "wikilink")・[幕張メッセ](https://zh.wikipedia.org/wiki/幕張メッセ "wikilink")
-    イベントホール
+  - 2010.11.17　[千葉](https://zh.wikipedia.org/wiki/千葉 "wikilink")・[幕張メッセ](https://zh.wikipedia.org/wiki/幕張メッセ "wikilink") イベントホール
 
 </div>
 
@@ -1168,8 +1135,7 @@ EXILE TRIBE LIVE TOUR 2012 ～TOWER OF WISH～
   - 2012.04.27　[埼玉](https://zh.wikipedia.org/wiki/埼玉 "wikilink")・[西武ドーム](https://zh.wikipedia.org/wiki/西武ドーム "wikilink")
   - 2012.04.28　埼玉・西武ドーム
   - 2012.04.29　埼玉・西武ドーム
-  - 2012.05.11　[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")・[福岡Yahoo\!
-    JAPANドーム](https://zh.wikipedia.org/wiki/福岡ドーム "wikilink")
+  - 2012.05.11　[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")・[福岡Yahoo\! JAPANドーム](https://zh.wikipedia.org/wiki/福岡ドーム "wikilink")
   - 2012.05.12　福岡・福岡Yahoo\! JAPANドーム
   - 2012.05.13　福岡・福岡Yahoo\! JAPANドーム
   - 2012.05.18　[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")・[京セラドーム大阪](https://zh.wikipedia.org/wiki/大阪ドーム "wikilink")
@@ -1197,16 +1163,11 @@ EXILE ATSUSHI PREMIUM LIVE 2012 ～命をうたう～
 <div class="NavContent" style="text-align: left;">
 
   - 2012.10.17　[岐阜](https://zh.wikipedia.org/wiki/岐阜 "wikilink")・土岐市文化プラザ・サンホール
-  - 2012.10.19　[滋賀](https://zh.wikipedia.org/wiki/滋賀 "wikilink")・[滋賀県立芸術劇場
-    びわ湖ホール](https://zh.wikipedia.org/wiki/滋賀県立芸術劇場_びわ湖ホール "wikilink")
-    大ホール
+  - 2012.10.19　[滋賀](https://zh.wikipedia.org/wiki/滋賀 "wikilink")・[滋賀県立芸術劇場 びわ湖ホール](https://zh.wikipedia.org/wiki/滋賀県立芸術劇場_びわ湖ホール "wikilink") 大ホール
   - 2012.10.22　[宮崎](../Page/宮崎.md "wikilink")・[宮崎市民文化ホール](https://zh.wikipedia.org/wiki/宮崎市民文化ホール "wikilink")
-  - 2012.10.24　[愛媛](https://zh.wikipedia.org/wiki/愛媛 "wikilink")・[松山市民会館](https://zh.wikipedia.org/wiki/松山市民会館 "wikilink")
-    大ホール
-  - 2012.10.29　北海道・[旭川市民文化会館](https://zh.wikipedia.org/wiki/旭川市民文化会館 "wikilink")
-    大ホール
-  - 2012.11.05　東京・[東京国際フォーラム](https://zh.wikipedia.org/wiki/東京国際フォーラム "wikilink")
-    ホールA
+  - 2012.10.24　[愛媛](https://zh.wikipedia.org/wiki/愛媛 "wikilink")・[松山市民会館](https://zh.wikipedia.org/wiki/松山市民会館 "wikilink") 大ホール
+  - 2012.10.29　北海道・[旭川市民文化会館](https://zh.wikipedia.org/wiki/旭川市民文化会館 "wikilink") 大ホール
+  - 2012.11.05　東京・[東京国際フォーラム](https://zh.wikipedia.org/wiki/東京国際フォーラム "wikilink") ホールA
   - 2012.11.06　東京・東京国際フォーラム ホールA
 
 </div>
@@ -1277,18 +1238,12 @@ EXILE ATSUSHILIVE TOUR 2014“Music”
 
 <div class="NavContent" style="text-align: left;">
 
-  - 2016.05.28 - 05.29
-    大阪・[京セラドーム大阪](https://zh.wikipedia.org/wiki/京セラドーム大阪 "wikilink")
-  - 2016.06.11 - 06.12
-    愛知・[ナゴヤドーム](https://zh.wikipedia.org/wiki/ナゴヤドーム "wikilink")
-  - 2016.06.17 - 06.18
-    福岡・[福岡ヤフオク\!ドーム](https://zh.wikipedia.org/wiki/福岡ヤフオク!ドーム "wikilink")
-  - 2016.07.02 - 07.03
-    埼玉・[西武プリンスドーム](https://zh.wikipedia.org/wiki/西武プリンスドーム "wikilink")
-  - 2016.08.27 - 08.28
-    東京・[東京ドーム](https://zh.wikipedia.org/wiki/東京ドーム "wikilink")
-  - 2016.09.03
-    札幌・[札幌ドーム](https://zh.wikipedia.org/wiki/札幌ドーム "wikilink")
+  - 2016.05.28 - 05.29 大阪・[京セラドーム大阪](https://zh.wikipedia.org/wiki/京セラドーム大阪 "wikilink")
+  - 2016.06.11 - 06.12 愛知・[ナゴヤドーム](https://zh.wikipedia.org/wiki/ナゴヤドーム "wikilink")
+  - 2016.06.17 - 06.18 福岡・[福岡ヤフオク\!ドーム](https://zh.wikipedia.org/wiki/福岡ヤフオク!ドーム "wikilink")
+  - 2016.07.02 - 07.03 埼玉・[西武プリンスドーム](https://zh.wikipedia.org/wiki/西武プリンスドーム "wikilink")
+  - 2016.08.27 - 08.28 東京・[東京ドーム](https://zh.wikipedia.org/wiki/東京ドーム "wikilink")
+  - 2016.09.03 札幌・[札幌ドーム](https://zh.wikipedia.org/wiki/札幌ドーム "wikilink")
 
 </div>
 
@@ -1303,8 +1258,7 @@ EXILE ATSUSHILIVE TOUR 2014“Music”
   - [ASAYAN](https://zh.wikipedia.org/wiki/ASAYAN "wikilink")（[東京電視台](../Page/東京電視台.md "wikilink")、2000年）
   - EXH SPECIAL EXILE ATSUSHI PREMIUM LIVE SOLO （2009年10月9日深夜、TBS）
   - EXILE ATSUSHI Premium Live ～The Roots～ （2011年1月24日、TBS）
-  - 裸にしたい男　 EXILE ATSUSHI（[NHK BS
-    Premium](../Page/NHK_BS_Premium.md "wikilink")、2012年10月14日・10月21日）\[18\]
+  - 裸にしたい男　 EXILE ATSUSHI（[NHK BS Premium](../Page/NHK_BS_Premium.md "wikilink")、2012年10月14日・10月21日）\[18\]
   - EXILE ATSUSHI PREMIUM LIVE 2012 〜命をうたう〜 （2013年1月3日、TBS）\[19\]
   - 桜の季節〜EXILE ATSUSHIが中学生に贈る歌（2014年6月1日、NHK總合）
   - EXILE ATSUSHI PREMIUM LIVE（2016年1月7日深夜、TBS）\[20\]
@@ -1314,10 +1268,8 @@ EXILE ATSUSHILIVE TOUR 2014“Music”
 
   - [索尼](../Page/索尼移动通信.md "wikilink")「BRAVIA Phone U1」（2009年）
   - Reveur　「MOIST＆GLOSS」（2013年）
-  - 日本[紅十字會](https://zh.wikipedia.org/wiki/紅十字會 "wikilink")
-    2014年紅十字運動月（2014年）
-  - [三得利](../Page/三得利.md "wikilink")『[ザ・モルツ](https://zh.wikipedia.org/wiki/モルツ "wikilink")』（2015年9月
-    - ）\[21\]。
+  - 日本[紅十字會](https://zh.wikipedia.org/wiki/紅十字會 "wikilink") 2014年紅十字運動月（2014年）
+  - [三得利](../Page/三得利.md "wikilink")『[ザ・モルツ](https://zh.wikipedia.org/wiki/モルツ "wikilink")』（2015年9月 - ）\[21\]。
 
 ### 旁白
 
@@ -1378,11 +1330,7 @@ EXILE ATSUSHILIVE TOUR 2014“Music”
 <!-- end list -->
 
   -
-    於2008年發售共同合作作品「[So Special -Version
-    EX-](https://zh.wikipedia.org/wiki/EXILE_ENTERTAINMENT_BEST "wikilink")」「[So
-    Special -Version
-    AI-](https://zh.wikipedia.org/wiki/So_Special_-Version_AI-/送行者 "wikilink")」。並於ATSUSHI的個人演唱會「The
-    Roots」披露「So Special」。
+    於2008年發售共同合作作品「[So Special -Version EX-](https://zh.wikipedia.org/wiki/EXILE_ENTERTAINMENT_BEST "wikilink")」「[So Special -Version AI-](https://zh.wikipedia.org/wiki/So_Special_-Version_AI-/送行者 "wikilink")」。並於ATSUSHI的個人演唱會「The Roots」披露「So Special」。
 
 <!-- end list -->
 
@@ -1391,9 +1339,7 @@ EXILE ATSUSHILIVE TOUR 2014“Music”
 <!-- end list -->
 
   -
-    ATSUSHI尊敬的合唱組合。於個人演唱會「SOLO」中與Boyz II Men共同演出「ON BENDED KNEE」「END OF
-    THE ROAD」\[22\]並且2011年Boyz II Men的專輯「TWENTY」中收錄與ATSUSHI共同合作的曲「END OF
-    THE DAY」\[23\]。
+    ATSUSHI尊敬的合唱組合。於個人演唱會「SOLO」中與Boyz II Men共同演出「ON BENDED KNEE」「END OF THE ROAD」\[22\]並且2011年Boyz II Men的專輯「TWENTY」中收錄與ATSUSHI共同合作的曲「END OF THE DAY」\[23\]。
 
 <!-- end list -->
 
@@ -1402,8 +1348,7 @@ EXILE ATSUSHILIVE TOUR 2014“Music”
 <!-- end list -->
 
   -
-    ATSUSHI所尊敬歌手之一。ASAYAN時期ATSUSHI曾唱過久保田的「Cymbals」「Missing」。2011年時發表與久保田的共同合作曲「[Golden
-    Smile](https://zh.wikipedia.org/wiki/Gold_Skool "wikilink")」\[24\]。
+    ATSUSHI所尊敬歌手之一。ASAYAN時期ATSUSHI曾唱過久保田的「Cymbals」「Missing」。2011年時發表與久保田的共同合作曲「[Golden Smile](https://zh.wikipedia.org/wiki/Gold_Skool "wikilink")」\[24\]。
 
 <!-- end list -->
 
@@ -1436,25 +1381,16 @@ EXILE ATSUSHILIVE TOUR 2014“Music”
 
 ## 外部連結
 
-  - [ATSUSHI｜PROFILE｜EXILE Official
-    Website](http://www.exile.jp/profile/profile_member.php?id=1000238)
+  - [ATSUSHI｜PROFILE｜EXILE Official Website](http://www.exile.jp/profile/profile_member.php?id=1000238)
 
   -
   -
   -
   -
   -
-[Category:放浪兄弟](https://zh.wikipedia.org/wiki/Category:放浪兄弟 "wikilink")
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink")
-[Category:埼玉縣出身人物](https://zh.wikipedia.org/wiki/Category:埼玉縣出身人物 "wikilink")
-[Category:日本唱片大獎最優秀歌唱獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀歌唱獎獲獎者 "wikilink")
-[Category:曾舉行五大巨蛋巡迴演唱會的音樂人](https://zh.wikipedia.org/wiki/Category:曾舉行五大巨蛋巡迴演唱會的音樂人 "wikilink")
-[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
+[Category:放浪兄弟](https://zh.wikipedia.org/wiki/Category:放浪兄弟 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:埼玉縣出身人物](https://zh.wikipedia.org/wiki/Category:埼玉縣出身人物 "wikilink") [Category:日本唱片大獎最優秀歌唱獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀歌唱獎獲獎者 "wikilink") [Category:曾舉行五大巨蛋巡迴演唱會的音樂人](https://zh.wikipedia.org/wiki/Category:曾舉行五大巨蛋巡迴演唱會的音樂人 "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
-1.  [EXILE ATSUSHI 単独インタビュー！ - ENTERTAINMENT - X
-    BRAND](http://xbrand.yahoo.co.jp/category/entertainment/7039/1.html)
-
+1.  [EXILE ATSUSHI 単独インタビュー！ - ENTERTAINMENT - X BRAND](http://xbrand.yahoo.co.jp/category/entertainment/7039/1.html)
 
 2.
 
@@ -1464,14 +1400,11 @@ EXILE ATSUSHILIVE TOUR 2014“Music”
 
 5.  [「EXILE」ATSUSHI、中国デビュー！発音バッチリ名曲「我願意」カバー](http://hochi.yomiuri.co.jp/entertainment/news/20120112-OHT1T00329.htm)
 
-
 6.  [日本が誇るトップアーティスト30名によるビートルズカバー、先行配信でTOP10に迫る](http://www.barks.jp/news/?id=1000076703)
 
 7.  [ATSUSHIが中華圏で初授賞！「アジア・アーティスト・スター賞」を受賞！](http://exile.jp/news/20120706_2.html)
 
-
-8.  [EXILE
-    ATSUSHIの甘い歌声に浸る……全国6都市ソロライブ](http://natalie.mu/music/news/74749)
+8.  [EXILE ATSUSHIの甘い歌声に浸る……全国6都市ソロライブ](http://natalie.mu/music/news/74749)
 
 9.
 
@@ -1493,11 +1426,9 @@ EXILE ATSUSHILIVE TOUR 2014“Music”
 
 18.
 
-19. [EXILE　ATSUSHI　PREMIUM　LIVE　～命をうたう～ -
-    TBS](http://www.tbs.co.jp/program/exile_atsushi_premium_live.html)
+19. [EXILE　ATSUSHI　PREMIUM　LIVE　～命をうたう～ - TBS](http://www.tbs.co.jp/program/exile_atsushi_premium_live.html)
 
-20. [EXILE　ATSUSHI　PREMIUM　LIVE -
-    TBS](http://www.tbs.co.jp/program/exile_atsushi_live_20160107.html)
+20. [EXILE　ATSUSHI　PREMIUM　LIVE - TBS](http://www.tbs.co.jp/program/exile_atsushi_live_20160107.html)
 
 21.
 

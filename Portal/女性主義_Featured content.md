@@ -64,8 +64,7 @@
 
   - [:雅基·史密斯](https://zh.wikipedia.org/wiki/:雅基·史密斯 "wikilink")
 
-  - [:伊丽莎白一世
-    (英格兰)](https://zh.wikipedia.org/wiki/:伊丽莎白一世_\(英格兰\) "wikilink")
+  - [:伊丽莎白一世 (英格兰)](https://zh.wikipedia.org/wiki/:伊丽莎白一世_\(英格兰\) "wikilink")
 
   - [:阿纳斯塔西娅·尼古拉耶芙娜·罗曼诺娃](https://zh.wikipedia.org/wiki/:阿纳斯塔西娅·尼古拉耶芙娜·罗曼诺娃 "wikilink")
 

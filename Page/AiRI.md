@@ -1,5 +1,4 @@
-**AiRI**（9月13日－\[1\]）是[日本](../Page/日本.md "wikilink")女歌手，隸屬於[Lantis](../Page/Lantis.md "wikilink")。她所演唱的《[TARI
-TARI](../Page/TARI_TARI.md "wikilink")》[電視動畫主題曲](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《Dreamer》為成名曲之一。\[2\]她曾經使用過「**UR@N**」的名義發表作品。\[3\]
+**AiRI**（9月13日－\[1\]）是[日本](../Page/日本.md "wikilink")女歌手，隸屬於[Lantis](../Page/Lantis.md "wikilink")。她所演唱的《[TARI TARI](../Page/TARI_TARI.md "wikilink")》[電視動畫主題曲](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《Dreamer》為成名曲之一。\[2\]她曾經使用過「**UR@N**」的名義發表作品。\[3\]
 
 ## 音樂作品
 
@@ -30,11 +29,7 @@ TARI](../Page/TARI_TARI.md "wikilink")》[電視動畫主題曲](https://zh.wiki
   - [AiRI官方部落格](http://ameblo.jp/airi-hightone/)
 
   -
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
-[Category:電子遊戲音樂家](https://zh.wikipedia.org/wiki/Category:電子遊戲音樂家 "wikilink")
-[Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink") [Category:電子遊戲音樂家](https://zh.wikipedia.org/wiki/Category:電子遊戲音樂家 "wikilink") [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.
 

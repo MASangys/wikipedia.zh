@@ -1,18 +1,12 @@
-《**+tic模型姊姊**》（；英文標題：+TIC ELDER SISTER），是日本漫畫家栗井茶（くりいちゃ，1983年8月22日 -
-）所描繪的[青年漫畫作品](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，為一部連載中的短篇幅（每一話的數頁僅2、4、6、8、10，或12頁不等。前三冊尤以每話6頁為主）青春校園喜劇。故事環繞在三名頭戴[模型玩具的模型社女高中生](https://zh.wikipedia.org/wiki/模型玩具 "wikilink")，與周邊夥伴嘻笑胡鬧時或日常生活中所發生的種種笑料。並由[Lantis](../Page/Lantis.md "wikilink")公司在2012年7月發行同名的[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")（有DVD／BD兩種版本，全一卷，共12話）。
+《**+tic模型姊姊**》（；英文標題：+TIC ELDER SISTER），是日本漫畫家栗井茶（くりいちゃ，1983年8月22日 - ）所描繪的[青年漫畫作品](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，為一部連載中的短篇幅（每一話的數頁僅2、4、6、8、10，或12頁不等。前三冊尤以每話6頁為主）青春校園喜劇。故事環繞在三名頭戴[模型玩具的模型社女高中生](https://zh.wikipedia.org/wiki/模型玩具 "wikilink")，與周邊夥伴嘻笑胡鬧時或日常生活中所發生的種種笑料。並由[Lantis](../Page/Lantis.md "wikilink")公司在2012年7月發行同名的[OVA動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")（有DVD／BD兩種版本，全一卷，共12話）。
 
-原著書名中的「**+tic**（+チック）」，讀作「Plus
-Tic（プラスチック）」，為塑膠模型玩具（プラモ）的「塑膠（プラスチック）」之意。不過「チック症」也是一種精神疾病「[抽動障礙](https://zh.wikipedia.org/wiki/抽動障礙 "wikilink")」，也暗示主角群都很有病。中文界常見的譯名，除了「+tic模型姊姊」之外，尚有「+TIC姊姊」、「+TIC姐姐」、「+tic模型姐妹」、「+模型姊姊」、「模型姊姊」、「模型姐姐」、「模型姊妹」、「模型姐妹」和「模型少女」等。
+原著書名中的「**+tic**（+チック）」，讀作「Plus Tic（プラスチック）」，為塑膠模型玩具（プラモ）的「塑膠（プラスチック）」之意。不過「チック症」也是一種精神疾病「[抽動障礙](https://zh.wikipedia.org/wiki/抽動障礙 "wikilink")」，也暗示主角群都很有病。中文界常見的譯名，除了「+tic模型姊姊」之外，尚有「+TIC姊姊」、「+TIC姐姐」、「+tic模型姐妹」、「+模型姊姊」、「模型姊姊」、「模型姐姐」、「模型姊妹」、「模型姐妹」和「模型少女」等。
 
 ## 概要
 
 ### 連載情況
 
-從日本漫畫雜誌《[Young
-GanGan](../Page/YOUNG_GANGAN.md "wikilink")》2009年9月no.18（[SQUARE
-ENIX於](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")2009年9月4日發行）開始不定期的連載。也曾刊載於《增刊Young
-GanGan》vol.9、10之上。由於不定期之故，重新連載時都會由第1話重新計數。目前Young
-GanGan官方網頁所公開的第1話至第3話，實為第3冊所收錄的第45話至第47話。
+從日本漫畫雜誌《[Young GanGan](../Page/YOUNG_GANGAN.md "wikilink")》2009年9月no.18（[SQUARE ENIX於](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")2009年9月4日發行）開始不定期的連載。也曾刊載於《增刊Young GanGan》vol.9、10之上。由於不定期之故，重新連載時都會由第1話重新計數。目前Young GanGan官方網頁所公開的第1話至第3話，實為第3冊所收錄的第45話至第47話。
 
 此外，在漫畫單行本第1、2冊發售之前，就已經製成動畫，並於公開在Young GanGan官方網頁、NICONICO動畫、YouTube等地。
 
@@ -211,8 +205,7 @@ GanGan官方網頁所公開的第1話至第3話，實為第3冊所收錄的第45
     自稱在每月新聞社工作的內衣小偷。
   - 小阿部（阿部ちゃん）
     初登場：第4冊第80話
-    和姊姊一起在公園打[槌球](https://zh.wikipedia.org/wiki/槌球 "wikilink")（Gate
-    Ball）的老爺爺。
+    和姊姊一起在公園打[槌球](https://zh.wikipedia.org/wiki/槌球 "wikilink")（Gate Ball）的老爺爺。
   - 源仔（ゲン坊）
     初登場：第4冊第80話
     公園裡討厭[槌球的老爺爺](https://zh.wikipedia.org/wiki/槌球 "wikilink")，柔道黑帶。
@@ -387,15 +380,13 @@ GanGan官方網頁所公開的第1話至第3話，實為第3冊所收錄的第45
 ##### 「私と私がしたいこと」
 
   -
-    作詞 - [畑亜貴](../Page/畑亞貴.md "wikilink") / 作曲 - 江並哲志 / 編曲 - 河田貴央 / 歌 -
-    早乙女由香
+    作詞 - [畑亜貴](../Page/畑亞貴.md "wikilink") / 作曲 - 江並哲志 / 編曲 - 河田貴央 / 歌 - 早乙女由香
 
 ### 隨卷贈品
 
 #### [黏土人](../Page/黏土人.md "wikilink")姊姊
 
-  - 全名：ねんどろいど 姉さん Blu-ray Discセット/DVDセット (ねんどろいど ねえさん Blu-ray
-    Discせっと／DVDせっと)
+  - 全名：ねんどろいど 姉さん Blu-ray Discセット/DVDセット (ねんどろいど ねえさん Blu-ray Discせっと／DVDせっと)
   - 製造商：Good Smile Company
   - 發售日：2012年7月
   - 樣式：ABS\&PVC 塗装済み可動フィギュア・ノンスケール・専用台座付属・全高：約100mm
@@ -628,48 +619,27 @@ GanGan官方網頁所公開的第1話至第3話，實為第3冊所收錄的第45
 
 ## 參考資料
 
-  - [人道から外れすぎだけど、これでいいのだ！
-    『プラスチック姉さん』は女の子版『天才バカボン』なのだ](http://www.excite.co.jp/News/reviewbook/20110706/E1309886487456.html)
-  - [1st 2 +Tic Nee-san School Comedy Shorts Now
-    Streaming](http://www.animenewsnetwork.com/news/2011-05-16/1st-2+tic-nee-san-school-comedy-shorts-now-streaming)
-  - [Muybridge's Strings, Saiyuki, +Tic Neesan Promo Videos
-    Streamed](http://www.animenewsnetwork.com/news/2011-05-06/muybridge-strings-saiyuki+tic-neesan-promo-videos-streamed)
-  - [XXXHolic's Mizushima Directs +Tic Neesan Anime
-    Shorts](http://www.animenewsnetwork.com/news/2011-04-10/xxxholic-mizushima-directs-tic-neesan-anime-shorts)
-  - [Hanamaru Kindergarten's Yuto Draws Cross-Dressing 1-Shot
-    Manga](http://www.animenewsnetwork.com/news/2013-10-21/hanamaru-kindergarten-yuto-draws-cross-dressing-1-shot-manga)
-  - [+Tic Elder Sister School Comedy Anime Gets 7 More
-    Episodes](http://www.animenewsnetwork.com/news/2012-05-02/+tic-elder-sister-school-comedy-anime-gets-7-more-episodes)
+  - [人道から外れすぎだけど、これでいいのだ！ 『プラスチック姉さん』は女の子版『天才バカボン』なのだ](http://www.excite.co.jp/News/reviewbook/20110706/E1309886487456.html)
+  - [1st 2 +Tic Nee-san School Comedy Shorts Now Streaming](http://www.animenewsnetwork.com/news/2011-05-16/1st-2+tic-nee-san-school-comedy-shorts-now-streaming)
+  - [Muybridge's Strings, Saiyuki, +Tic Neesan Promo Videos Streamed](http://www.animenewsnetwork.com/news/2011-05-06/muybridge-strings-saiyuki+tic-neesan-promo-videos-streamed)
+  - [XXXHolic's Mizushima Directs +Tic Neesan Anime Shorts](http://www.animenewsnetwork.com/news/2011-04-10/xxxholic-mizushima-directs-tic-neesan-anime-shorts)
+  - [Hanamaru Kindergarten's Yuto Draws Cross-Dressing 1-Shot Manga](http://www.animenewsnetwork.com/news/2013-10-21/hanamaru-kindergarten-yuto-draws-cross-dressing-1-shot-manga)
+  - [+Tic Elder Sister School Comedy Anime Gets 7 More Episodes](http://www.animenewsnetwork.com/news/2012-05-02/+tic-elder-sister-school-comedy-anime-gets-7-more-episodes)
 
 ## 外部連結
 
   - [栗井老師官方網站「ラクガキ」](http://domone.blog77.fc2.com/)（2012年3月關閉至今）
 
-  - [Young GanGan官方網站
-    特設頁面](http://www.square-enix.co.jp/magazine/yg/introduction/plastic/)
+  - [Young GanGan官方網站 特設頁面](http://www.square-enix.co.jp/magazine/yg/introduction/plastic/)
 
-  - [GanGan ONLINE
-    特設頁面](https://web.archive.org/web/20111009161527/http://www.square-enix.com/jp/magazine/ganganonline/comic/plastic/)
+  - [GanGan ONLINE 特設頁面](https://web.archive.org/web/20111009161527/http://www.square-enix.com/jp/magazine/ganganonline/comic/plastic/)
 
   - [+tic模型姊姊 | Lantis web site](http://www.lantis.jp/special/plastic/)
 
-  - [+tic模型姊姊 | HAL FILM MAKER 作品紹介 | TYO Animations
-    Inc.](https://web.archive.org/web/20120905175649/http://www.tyo-animation.com/works_tyo_2011-01.html)
+  - [+tic模型姊姊 | HAL FILM MAKER 作品紹介 | TYO Animations Inc.](https://web.archive.org/web/20120905175649/http://www.tyo-animation.com/works_tyo_2011-01.html)
 
   - [黏土人系列官方網頁](http://www.nendoroid.jp/)
 
   - [GOOD SMILE COMPANY官方網頁](http://www.goodsmile.info/)
 
-[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink")
-[Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink")
-[Category:GANGAN_ONLINE](https://zh.wikipedia.org/wiki/Category:GANGAN_ONLINE "wikilink")
-[Category:2011年日本網絡動畫](https://zh.wikipedia.org/wiki/Category:2011年日本網絡動畫 "wikilink")
-[Category:2012年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2012年日本OVA動畫 "wikilink")
-[Category:玩偶](https://zh.wikipedia.org/wiki/Category:玩偶 "wikilink")
-[Category:人物模型](https://zh.wikipedia.org/wiki/Category:人物模型 "wikilink")
-[Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink")
-[Category:动画短片](https://zh.wikipedia.org/wiki/Category:动画短片 "wikilink")
+[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:校園漫畫](https://zh.wikipedia.org/wiki/Category:校園漫畫 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:搞笑漫畫](https://zh.wikipedia.org/wiki/Category:搞笑漫畫 "wikilink") [Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink") [Category:GANGAN_ONLINE](https://zh.wikipedia.org/wiki/Category:GANGAN_ONLINE "wikilink") [Category:2011年日本網絡動畫](https://zh.wikipedia.org/wiki/Category:2011年日本網絡動畫 "wikilink") [Category:2012年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2012年日本OVA動畫 "wikilink") [Category:玩偶](https://zh.wikipedia.org/wiki/Category:玩偶 "wikilink") [Category:人物模型](https://zh.wikipedia.org/wiki/Category:人物模型 "wikilink") [Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink") [Category:动画短片](https://zh.wikipedia.org/wiki/Category:动画短片 "wikilink")

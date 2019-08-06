@@ -1,17 +1,4 @@
-[韓彩雅](../Page/韓彩雅.md "wikilink"){{、w}}[孫炳昊](../Page/孫炳昊.md "wikilink") |
-slogan = | judges = | voices = | narrated = | theme_song = | opentheme
-= | endtheme = | composer = | country =  | language =
-[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = |
-num_episodes = 9 | list_episodes = | executive_producer = | producer
-= | supervising_producer = | editor = | location = | cinematography = |
-camera = | runtime = 60分鐘 | company = | distributor = | channel =
-[OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") | picture_format =
-| audio_format = | first_run =  | first_aired =  | last_aired =  |
-status = | preceded_by = | followed_by = | related = | website =
-<http://program.interest.me/ocn/hero> | 中國大陸名稱 = | 台灣名稱 = | 港澳名稱 = |
-馬新名稱 = }}
-《**英雄**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自](https://zh.wikipedia.org/wiki/OCN "wikilink")2012年3月18日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original
-Series）。
+[韓彩雅](../Page/韓彩雅.md "wikilink"){{、w}}[孫炳昊](../Page/孫炳昊.md "wikilink") | slogan = | judges = | voices = | narrated = | theme_song = | opentheme = | endtheme = | composer = | country =  | language = [韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink") | num_seasons = | num_episodes = 9 | list_episodes = | executive_producer = | producer = | supervising_producer = | editor = | location = | cinematography = | camera = | runtime = 60分鐘 | company = | distributor = | channel = [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") | picture_format = | audio_format = | first_run =  | first_aired =  | last_aired =  | status = | preceded_by = | followed_by = | related = | website = <http://program.interest.me/ocn/hero> | 中國大陸名稱 = | 台灣名稱 = | 港澳名稱 = | 馬新名稱 = }} 《**英雄**》（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自](https://zh.wikipedia.org/wiki/OCN "wikilink")2012年3月18日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original Series）。
 
 ## 演員陣容
 
@@ -45,7 +32,4 @@ Series）。
 
   - [韓國OCN](http://program.interest.me/ocn/hero)
 
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink")
-[Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink")
-[Category:韓國動作劇](https://zh.wikipedia.org/wiki/Category:韓國動作劇 "wikilink")
+[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink") [Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink") [Category:韓國懸疑劇](https://zh.wikipedia.org/wiki/Category:韓國懸疑劇 "wikilink") [Category:韓國動作劇](https://zh.wikipedia.org/wiki/Category:韓國動作劇 "wikilink")

@@ -1,16 +1,8 @@
-**TWO X**（）是 [J.Tune
-CAMP](https://zh.wikipedia.org/wiki/J.Tune_CAMP "wikilink")
-公司推出的五人女子團體，現為星淘娛樂集團旗下女團。成員包括
-[智有](https://zh.wikipedia.org/wiki/智有 "wikilink")、[恩](https://zh.wikipedia.org/wiki/恩 "wikilink")、[珉妵](https://zh.wikipedia.org/wiki/珉妵 "wikilink")、[秀潾](https://zh.wikipedia.org/wiki/秀潾 "wikilink")
-和
-[恩永](https://zh.wikipedia.org/wiki/恩永 "wikilink")，2016年1月成員[珉妵以健康理由退出團體](https://zh.wikipedia.org/wiki/珉妵 "wikilink")。
+**TWO X**（）是 [J.Tune CAMP](https://zh.wikipedia.org/wiki/J.Tune_CAMP "wikilink") 公司推出的五人女子團體，現為星淘娛樂集團旗下女團。成員包括 [智有](https://zh.wikipedia.org/wiki/智有 "wikilink")、[恩](https://zh.wikipedia.org/wiki/恩 "wikilink")、[珉妵](https://zh.wikipedia.org/wiki/珉妵 "wikilink")、[秀潾](https://zh.wikipedia.org/wiki/秀潾 "wikilink") 和 [恩永](https://zh.wikipedia.org/wiki/恩永 "wikilink")，2016年1月成員[珉妵以健康理由退出團體](https://zh.wikipedia.org/wiki/珉妵 "wikilink")。
 
-而團體名稱 TWO X 的意思是 Top、Win、One，而 X 是指數學中的乘號。在8月16日的M\! Countdown進行《Double
-Up》出道舞台。
+而團體名稱 TWO X 的意思是 Top、Win、One，而 X 是指數學中的乘號。在8月16日的M\! Countdown進行《Double Up》出道舞台。
 
-官方公佈應援色為珍珠黄色（Pearlescent
-Yellow）,官方應援物為珍珠黄色氣球。官方公佈粉絲名稱為Doubling，名字由'Double'和進行式'ing'組成，意思代表兩倍地為Two
-X用心應援。
+官方公佈應援色為珍珠黄色（Pearlescent Yellow）,官方應援物為珍珠黄色氣球。官方公佈粉絲名稱為Doubling，名字由'Double'和進行式'ing'組成，意思代表兩倍地為Two X用心應援。
 
 2018年，Eun在社交網站上回答粉絲有關「TWO X是否已解散」的問題，她確認了TWO X已解散。
 
@@ -25,11 +17,9 @@ X用心應援。
   - 8月16日，在M\!CountDown 上進行出道舞台。
   - 8月19日，人氣歌謠結束後, 舉辦了首次迷你Fan meeting。
   - 8月20日，公開出道單曲《Double Up》裡面其他的曲目。
-  - 8月24日，成員珉妵與師兄MBLAQ的昇昊和李準一同錄製綜藝節目KBS2<Sponge Zero>, 這也是TWO
-    X成員出道後第一個上的綜藝節目。
+  - 8月24日，成員珉妵與師兄MBLAQ的昇昊和李準一同錄製綜藝節目KBS2<Sponge Zero>, 這也是TWO X成員出道後第一個上的綜藝節目。
   - 8月26日，演出MBC 神童的深深打破, 這也是她們出道後第一個上的電台節目。
-  - 9月4日，官方正式公佈Two X粉絲名稱為Doubling，名字由'Double'和進行式'ing'組成，意思代表兩倍地為Two
-    X用心應援。
+  - 9月4日，官方正式公佈Two X粉絲名稱為Doubling，名字由'Double'和進行式'ing'組成，意思代表兩倍地為Two X用心應援。
   - 9月22日，在金浦舉辦她們出道後第一個簽名會。
   - 9月22日，成員恩永與師兄MBLAQ-G.O、昇昊和李準一同出演KBS2<不朽的名曲2>。
   - 9月30日，在人氣歌謠表演結束《Double Up》的宣傳期。
@@ -49,24 +39,20 @@ X用心應援。
 
   - 10月10日，星淘娛樂集團宣佈TWO X正式加盟。\[1\]
   - 11月6日-11月10日，Two X 首次來港開展5天的香港宣傳之旅。
-  - 11月7日，星淘娛樂韓國分公司為Two X開設新官方Facebook及Twitter，宣布Two X已和J Tune
-    Camp解約，其韓國經紀暫隸屬星淘娛樂子公司STAR GAZE MIRAE GLOBAL
-    ENTERTAINMENT LIMITED。\[2\]
+  - 11月7日，星淘娛樂韓國分公司為Two X開設新官方Facebook及Twitter，宣布Two X已和J Tune Camp解約，其韓國經紀暫隸屬星淘娛樂子公司STAR GAZE MIRAE GLOBAL ENTERTAINMENT LIMITED。\[2\]
 
 ### 2015年
 
 #### 與SGMR解約、成員[珉妵退出](https://zh.wikipedia.org/wiki/珉妵 "wikilink")
 
-  - 4月22日 SGMR發表公告，Two X 正式與SGMR解約，星淘娛樂韓國分公司Star Gaze Korea 正式自行管理TWO
-    X一切海外及韓國演出活動，已確定在2015年下半年集中復出。
+  - 4月22日 SGMR發表公告，Two X 正式與SGMR解約，星淘娛樂韓國分公司Star Gaze Korea 正式自行管理TWO X一切海外及韓國演出活動，已確定在2015年下半年集中復出。
   - 9月成員[珉妵以健康理由退出團體](https://zh.wikipedia.org/wiki/珉妵 "wikilink")。
 
 ### 2016年
 
 #### 相隔三年半再度回歸，公開新歌《OVER(꽂혀)》及MV
 
-  - 8月16日，在《SBS MTV》音樂節目《[THE
-    SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》進行回歸舞台。
+  - 8月16日，在《SBS MTV》音樂節目《[THE SHOW](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》進行回歸舞台。
   - 8月16日，在 TWO X的官方頻道公開新歌《OVER(꽂혀)》音樂影像預告。
   - 8月22日，公開《OVER(꽂혀)》MV完整版。
 
@@ -90,10 +76,7 @@ X用心應援。
       - 參與Rain第五張專輯Rainism裡面的《You》，以及逃亡者Plan.B的OST《Mayday》。
       - 出演音樂劇Moonnight，與師兄昇昊、天動一起。
   - **恩永**：
-      - 曾是YG公司的Dancer舞團Crazy的成員,擔任過[BIGBANG成員勝利](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")《VVIP》、太陽《I
-        need a girl》、2ne1《can't nobody》、2010年MAMA in
-        Macau的bigbang、2ne1伴舞、2010年YG家族演唱會伴舞，以及GD\&TOP《High
-        High》活動時期伴舞。
+      - 曾是YG公司的Dancer舞團Crazy的成員,擔任過[BIGBANG成員勝利](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")《VVIP》、太陽《I need a girl》、2ne1《can't nobody》、2010年MAMA in Macau的bigbang、2ne1伴舞、2010年YG家族演唱會伴舞，以及GD\&TOP《High High》活動時期伴舞。
       - 曾在2011年MBLAQ<Men In MBLAQ>演唱會擔任伴舞。
       - 2012年出演tVN─The Romantic and Idol擔任第二季嘉賓。
       - 2014年出演SS501金亨俊日單《Better》其中一位女主角
@@ -367,23 +350,17 @@ X用心應援。
 
   - [Two X Official Fans Cafe](http://cafe.daum.net/TwoXOfficial)
 
-  - [TWO X_SG_Official
-    Facebook](https://www.facebook.com/Two-X_SG_Official-565539973603017/?fref=ts)
+  - [TWO X_SG_Official Facebook](https://www.facebook.com/Two-X_SG_Official-565539973603017/?fref=ts)
 
-  - [TWO X International
-    Facebook](https://www.facebook.com/TwoXInternational)
+  - [TWO X International Facebook](https://www.facebook.com/TwoXInternational)
 
-  - [Two X Official
-    Channel](https://www.youtube.com/channel/UCqvceFHDMYDyzwtMQG6NiQA)
+  - [Two X Official Channel](https://www.youtube.com/channel/UCqvceFHDMYDyzwtMQG6NiQA)
 
   - [Two X 所屬公司官方網頁](http://www.stargazegrp.com/)
 
   - [Two X 官方微薄](http://weibo.com/u/5339404851)
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
 
 1.  [星淘娛樂集團專頁](https://www.facebook.com/StarGazeEntertainmentGroup/posts/722214867857100)
 2.  [1](http://www.facebook.com/permalink.php?story_fbid=731020520318179&id=725886374164927)

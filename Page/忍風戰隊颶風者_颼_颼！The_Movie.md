@@ -1,12 +1,8 @@
-《**忍風戰隊破裏劍者 颼 颼！The Movie**》（原題：忍風戦隊ハリケンジャー シュシュッと THE
-MOVIE）。係於日本時間2002年8月17日上映的劇場版作品。與『**[假面騎士龍騎 Episode
-Final](../Page/假面騎士龍騎_Episode_Final.md "wikilink")**』同時上映。
+《**忍風戰隊破裏劍者 颼 颼！The Movie**》（原題：忍風戦隊ハリケンジャー シュシュッと THE MOVIE）。係於日本時間2002年8月17日上映的劇場版作品。與『**[假面騎士龍騎 Episode Final](../Page/假面騎士龍騎_Episode_Final.md "wikilink")**』同時上映。
 
 ## 概要
 
-前作『[假面騎士Agito Project
-G4](https://zh.wikipedia.org/wiki/假面騎士Agito_Project_G4 "wikilink")』、『[百獸戰隊牙吠連者
-怒吼吧，火山](https://zh.wikipedia.org/wiki/百獸戰隊牙吠連者_怒吼吧，火山 "wikilink")』大受好評，而緊接著公開的劇場版。
+前作『[假面騎士Agito Project G4](https://zh.wikipedia.org/wiki/假面騎士Agito_Project_G4 "wikilink")』、『[百獸戰隊牙吠連者 怒吼吧，火山](https://zh.wikipedia.org/wiki/百獸戰隊牙吠連者_怒吼吧，火山 "wikilink")』大受好評，而緊接著公開的劇場版。
 
 「天雷旋風神」搶先電視版登場，但其與電視版設定上稍有不同。
 
@@ -60,14 +56,12 @@ G4](https://zh.wikipedia.org/wiki/假面騎士Agito_Project_G4 "wikilink")』、
     **一之槍·芙拉碧裘<small>｜**[山本梓](../Page/山本梓.md "wikilink")</small>
     **三之槍·曼馬魯巴<small>｜**[今村卓博](../Page/今村卓博.md "wikilink") 聲</small>
     **四之槍·溫蒂努<small>｜**[福澄美緒](https://zh.wikipedia.org/wiki/福澄美緒 "wikilink")</small>
-    **五之槍·薩卡胤<small>｜**[岡本美登](https://zh.wikipedia.org/wiki/岡本美登 "wikilink")
-    聲</small>
+    **五之槍·薩卡胤<small>｜**[岡本美登](https://zh.wikipedia.org/wiki/岡本美登 "wikilink") 聲</small>
     **六之槍·撒塔拉庫拉<small>｜**[島田敏](../Page/島田敏.md "wikilink") 聲</small>
     **宇宙忍猿·西扎爾<small>｜**[古田新太](../Page/古田新太.md "wikilink") 聲</small>
       -
         與[猿](../Page/猿.md "wikilink")類外型相似的宇宙忍者集團－**宇宙猿忍·扎爾一族**一人。使用操縱火焰的宇宙忍法。受雇於邪暗者的兩人，任務是誘拐萊娜公主進行「噬魂之儀」，卻意外遭到颶風者的阻擾。但實際上卻是為了想要知道舉行「噬魂之儀」儀式的地點，而利用著邪暗者。
-    **宇宙忍猿·布力扎爾<small>｜**[村岡弘之](https://zh.wikipedia.org/wiki/村岡弘之 "wikilink")
-    聲</small>
+    **宇宙忍猿·布力扎爾<small>｜**[村岡弘之](https://zh.wikipedia.org/wiki/村岡弘之 "wikilink") 聲</small>
       -
         與[猿](../Page/猿.md "wikilink")類外型相似的宇宙忍者集團－**宇宙猿忍·扎爾一族**一人。無法以言語溝通。使用操縱冷氣的宇宙忍法，能以意念操縱生物。
         **合體猿忍·[阿修羅扎爾](https://zh.wikipedia.org/wiki/阿修羅 "wikilink")**
@@ -117,7 +111,4 @@ G4](https://zh.wikipedia.org/wiki/假面騎士Agito_Project_G4 "wikilink")』、
 
 ## 外部連結
 
-[Category:2002年電影](https://zh.wikipedia.org/wiki/Category:2002年電影 "wikilink")
-[Category:忍者片](https://zh.wikipedia.org/wiki/Category:忍者片 "wikilink")
-[Category:外星生命電影](https://zh.wikipedia.org/wiki/Category:外星生命電影 "wikilink")
-[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
+[Category:2002年電影](https://zh.wikipedia.org/wiki/Category:2002年電影 "wikilink") [Category:忍者片](https://zh.wikipedia.org/wiki/Category:忍者片 "wikilink") [Category:外星生命電影](https://zh.wikipedia.org/wiki/Category:外星生命電影 "wikilink") [Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")

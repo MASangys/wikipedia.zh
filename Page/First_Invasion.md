@@ -1,6 +1,4 @@
-《**First
-Invasion**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")首張迷你韓語專輯，在2010年6月9日發行\[1\]；其主打曲目為《再次回來吧》（），其後以歌曲《She's
-Back》接續打歌。
+《**First Invasion**》是[韓國的男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE](../Page/INFINITE.md "wikilink")首張迷你韓語專輯，在2010年6月9日發行\[1\]；其主打曲目為《再次回來吧》（），其後以歌曲《She's Back》接續打歌。
 
 ## 曲目
 
@@ -101,9 +99,7 @@ Back》接續打歌。
 
 ## 参考文献
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:INFINITE音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 

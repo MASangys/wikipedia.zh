@@ -1,16 +1,13 @@
-《**Dreaming
-Now\!**》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2013年11月13日發行的第56張單曲。
+《**Dreaming Now\!**》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2013年11月13日發行的第56張單曲。
 
 ## 簡介
 
-  - 本單曲與上張單曲《[Summer
-    Trip](../Page/Summer_Trip.md "wikilink")》相隔約3個多月，且為倖田首次發行的「生日單曲」。
+  - 本單曲與上張單曲《[Summer Trip](../Page/Summer_Trip.md "wikilink")》相隔約3個多月，且為倖田首次發行的「生日單曲」。
   - 本作為「[世界大冠軍盃排球賽](https://zh.wikipedia.org/wiki/世界大冠軍盃排球賽 "wikilink")2013」的主題曲，倖田表示「是為了給予向世界第一挑戰人們的加油曲」，另外曾在節目上表明為倖田粉絲的日本國手木村沙織表示「這是首提升張力，快節奏的好曲」\[1\]。
 
 ## 宣傳
 
-  - 為紀念生日單曲特別於11月12日晚上23點開始在[NICONICO動畫上進行特別節目](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")「倖田來未
-    本人演出 ～24小時生日紀念特別節目♪」（），將由倖田本人在影片中因紀念31歲而回答網友們的31個提問\[2\]。
+  - 為紀念生日單曲特別於11月12日晚上23點開始在[NICONICO動畫上進行特別節目](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")「倖田來未 本人演出 ～24小時生日紀念特別節目♪」（），將由倖田本人在影片中因紀念31歲而回答網友們的31個提問\[2\]。
   - 在影音網站UULA上「倖田來未 MUSIC VIDEO 一次全見」（）的獨家播送節目，內容為倖田最有印象的31首音樂錄影帶\[3\]。
 
 ## 發行版本
@@ -37,8 +34,7 @@ Now\!**》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/
       - [日本電視台](../Page/日本電視台.md "wikilink")《[世界大冠軍盃排球賽](https://zh.wikipedia.org/wiki/世界大冠軍盃排球賽 "wikilink")2013》主題曲
 2.  **XXX**
       -
-        作詞：倖田來未　作曲：T-SK, HIROMI Rainbow, Gabriele Guidi, Michela
-        Lombardi
+        作詞：倖田來未　作曲：T-SK, HIROMI Rainbow, Gabriele Guidi, Michela Lombardi
 3.  **愛之歌（Live at a-nation stadium fes.2013）**
       -
         ※CD、CD+DVD初回盤限定Bonus Track
@@ -73,8 +69,7 @@ Now\!**》為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/
 
 [倖田來未特別節目 - NICONICO動畫](http://live.nicovideo.jp/watch/lv157574171#_=_)
 
-[分類:倖田來未歌曲](https://zh.wikipedia.org/wiki/分類:倖田來未歌曲 "wikilink")
-[分類:2013年單曲](https://zh.wikipedia.org/wiki/分類:2013年單曲 "wikilink")
+[分類:倖田來未歌曲](https://zh.wikipedia.org/wiki/分類:倖田來未歌曲 "wikilink") [分類:2013年單曲](https://zh.wikipedia.org/wiki/分類:2013年單曲 "wikilink")
 
 1.
 

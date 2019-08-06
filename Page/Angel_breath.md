@@ -1,15 +1,10 @@
-《**angel
-breath**》（）是2006年2月24日由[戏画發售的戀愛冒險類型的](../Page/戲畫_\(遊戲品牌\).md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]
+《**angel breath**》（）是2006年2月24日由[戏画發售的戀愛冒險類型的](../Page/戲畫_\(遊戲品牌\).md "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]
 
 ## 概要
 
-游戏的形式为冒险游戏，并与《[DUEL
-SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")》中的故事相关联，游戏的一个特点就是大量引用了《DUEL
-SAVIOR》中的设定。同时游戏也是《DUEL SAVIOR》的外传作品。
+游戏的形式为冒险游戏，并与《[DUEL SAVIOR](../Page/DUEL_SAVIOR.md "wikilink")》中的故事相关联，游戏的一个特点就是大量引用了《DUEL SAVIOR》中的设定。同时游戏也是《DUEL SAVIOR》的外传作品。
 
-含有本篇特典《angel savior》，和通过DUEL
-SAVIOR的对战系统进行的以本篇角色柯莉米亚为主体，并与其他女主角战斗的迷你游戏。预约特典｢angel
-savior+｣中的战斗角色，可以从柯莉米亚和DUEL SAVIOR的主人公当间大河中选择一个，与被选择的救世主候补进行战斗。
+含有本篇特典《angel savior》，和通过DUEL SAVIOR的对战系统进行的以本篇角色柯莉米亚为主体，并与其他女主角战斗的迷你游戏。预约特典｢angel savior+｣中的战斗角色，可以从柯莉米亚和DUEL SAVIOR的主人公当间大河中选择一个，与被选择的救世主候补进行战斗。
 
 ## 故事
 
@@ -66,8 +61,7 @@ savior+｣中的战斗角色，可以从柯莉米亚和DUEL SAVIOR的主人公�
       - 甲种魔法士
         使用与上述记载不同物作为源泉的魔法士。吸收被称作“气”、“生命之气”、“灵气”等充满世界的物质来使用魔法。数目最少，不足全体魔法士的十分之二。翼属于这方面的魔法士，消耗的是生命力。
       -
-        不会使用魔法的人类。也被称作enfant
-        terrible和｡崇和聪一郎就是这样的人。因为没有魔法的力量而始终受到迫害，还被禁止学习魔法。因此，他们为了自身的生存而努力发展不需依赖魔法的医疗技术，从而谁都能发挥出相当于魔法的效果。
+        不会使用魔法的人类。也被称作enfant terrible和｡崇和聪一郎就是这样的人。因为没有魔法的力量而始终受到迫害，还被禁止学习魔法。因此，他们为了自身的生存而努力发展不需依赖魔法的医疗技术，从而谁都能发挥出相当于魔法的效果。
   -
     卫生护理的创始人，世界初的魔法护士，也被称作｡并没有依靠继承自身为Needless的双亲的魔法能力，而是利用医疗技术和自己所拥有的魔法才能，把被称为近代医学基础的卫生治疗和治愈系魔法融合起来，促进了魔法护理学的发展。
   -
@@ -107,11 +101,7 @@ savior+｣中的战斗角色，可以从柯莉米亚和DUEL SAVIOR的主人公�
 
   - [戏画官方网站](http://www.web-giga.com)（有年龄确认）
 
-[Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
-[Category:戲畫](https://zh.wikipedia.org/wiki/Category:戲畫 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
+[Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink") [Category:戲畫](https://zh.wikipedia.org/wiki/Category:戲畫 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
 
 1.  [angel breath](http://www.getchu.com/soft.phtml?id=220533)Getchu.com
 2.  [angel breath](http://erogetrailers.com/soft/2617)ErogeTrailers

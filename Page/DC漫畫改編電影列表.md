@@ -3,8 +3,7 @@
 ## 院線電影
 
   -
-    <small>♦ =
-    [DC扩展宇宙](https://zh.wikipedia.org/wiki/DC扩展宇宙 "wikilink")</small>
+    <small>♦ = [DC扩展宇宙](https://zh.wikipedia.org/wiki/DC扩展宇宙 "wikilink")</small>
 
 <table>
 <thead>
@@ -379,8 +378,7 @@
 全數由[華納兄弟動畫公司製作](https://zh.wikipedia.org/wiki/華納兄弟動畫公司 "wikilink")，且全數為[錄影帶首映方式發布](https://zh.wikipedia.org/wiki/錄影帶首映 "wikilink")。唯有《[蝙蝠俠：幽靈的面具](https://zh.wikipedia.org/wiki/蝙蝠俠：幽靈的面具 "wikilink")》為第一部於戲院上映。
 
   -
-    <small>♦ =
-    [DC动画电影宇宙](https://zh.wikipedia.org/wiki/DC动画电影宇宙 "wikilink")</small>
+    <small>♦ = [DC动画电影宇宙](https://zh.wikipedia.org/wiki/DC动画电影宇宙 "wikilink")</small>
 
 <table>
 <thead>
@@ -680,6 +678,17 @@
 </tbody>
 </table>
 
+### 劇集作為電影
+
+| 年份                                               | 標題                                                 | 附註                                                      |
+| ------------------------------------------------ | -------------------------------------------------- | ------------------------------------------------------- |
+| 2001                                             | **[正義聯盟：秘密起源](../Page/正义联盟_\(动画\).md "wikilink")** | 《[正义联盟](../Page/正义联盟_\(动画\).md "wikilink")》的三集彙編。       |
+| 2004                                             | **[正義聯盟：星戀](../Page/正义联盟_\(动画\).md "wikilink")**   |                                                         |
+| 2017                                             | ****                                               | 設定於[綠箭宇宙](../Page/綠箭宇宙.md "wikilink")，原劇集的兩季重發，並添加了新內容。 |
+| 2018                                             | ****                                               |                                                         |
+| ♦**[康斯坦汀：惡魔城](../Page/康斯坦丁：恶魔之城.md "wikilink")** |                                                    |                                                         |
+|                                                  |                                                    |                                                         |
+
 ### 動畫短片
 
 <table>
@@ -947,15 +956,15 @@
 | ---- | --------- | ------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | 2013 | ****      | TT Animation                                                  | 取自於《[樂高蝙蝠俠2：DC超級英雄](https://zh.wikipedia.org/wiki/樂高蝙蝠俠2：DC超級英雄 "wikilink")》。 |
 | 2014 | ****      | [華納兄弟動畫公司](https://zh.wikipedia.org/wiki/華納兄弟動畫公司 "wikilink") | 電視電影。                                                                         |
-| 2015 | ****      | 錄影帶首映。                                                        |                                                                               |
-| **** | 錄影帶首映。    |                                                               |                                                                               |
-| 2016 | ****\[3\] | 錄影帶首映。                                                        |                                                                               |
-| **** | 錄影帶首映。    |                                                               |                                                                               |
+| 2015 | ****      |                                                               |                                                                               |
+| **** |           |                                                               |                                                                               |
+| 2016 | ****\[3\] |                                                               |                                                                               |
+| **** |           |                                                               |                                                                               |
 | 2017 | ****      | 華納兄弟動畫公司                                                      |                                                                               |
 | 2018 | ****      |                                                               |                                                                               |
 | **** |           |                                                               |                                                                               |
 | **** |           |                                                               |                                                                               |
-|      |           |                                                               |                                                                               |
+| 2019 | ****      |                                                               |                                                                               |
 
 ## 短片（1941～1952）
 
@@ -993,15 +1002,11 @@
 
 ## 外部連結
 
-  - [DCUonDVD.com - Official Website for DC Universe Animated
-    Movies](http://DCUonDVD.com)
-  - [Superheroes Lives - Live action movies based on DC
-    Comics](http://www.superheroeslives.com/indexdc.htm)
-  - [ComicScreen : Les super héros crèvent
-    l'écran](http://comicscreen.free.fr)
+  - [DCUonDVD.com - Official Website for DC Universe Animated Movies](http://DCUonDVD.com)
+  - [Superheroes Lives - Live action movies based on DC Comics](http://www.superheroeslives.com/indexdc.htm)
+  - [ComicScreen : Les super héros crèvent l'écran](http://comicscreen.free.fr)
 
-[Category:DC漫畫改編電影](https://zh.wikipedia.org/wiki/Category:DC漫畫改編電影 "wikilink")
-[Category:超级英雄电影](https://zh.wikipedia.org/wiki/Category:超级英雄电影 "wikilink")
+[Category:DC漫畫改編電影](https://zh.wikipedia.org/wiki/Category:DC漫畫改編電影 "wikilink") [Category:超级英雄电影](https://zh.wikipedia.org/wiki/Category:超级英雄电影 "wikilink")
 
 1.  <http://variety.com/2013/biz/news/superman-and-batman-movie-comic-con-1200565858/>
 2.  <http://www.worldsfinestonline.com/2014/01/target-exclusive-jla-adventures-trapped-in-time-movie-hitting-dvd-january-21st-2014/>

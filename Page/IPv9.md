@@ -1,7 +1,4 @@
-**IPv9**一名詞首次出现是在[IETF于](https://zh.wikipedia.org/wiki/IETF "wikilink")1994年4月1日发布的《使用IP版本9的历史观》（RFC
-1606：）\[1\]一文，它作为一个[RFC愚人节笑话](../Page/惡搞RFC.md "wikilink")，详见[惡搞RFC](../Page/惡搞RFC.md "wikilink")。
-[缩略图](https://zh.wikipedia.org/wiki/File:Ipv9dov.jpg "fig:缩略图")之下科學技術司的說明文件\]\]
-2001年中国一些學者宣布开始开发IPv9协议。2007年，上海通用化工技术研究所所长谢建平宣布IPv9正式走出实验室，开始进行商业化运作。\[2\]2010年信息产业部十进制网络标准工作组称已经有上百家企业使用IPv9\[3\]但目前屬於一種國內技術儲備並沒有公開推廣或強制使用的規定。2018年9月饱受争议的IPv9话题又在各大[自媒体](../Page/自媒体.md "wikilink")上活跃。
+**IPv9**一名詞首次出现是在[IETF于](https://zh.wikipedia.org/wiki/IETF "wikilink")1994年4月1日发布的《使用IP版本9的历史观》（RFC 1606：）\[1\]一文，它作为一个[RFC愚人节笑话](../Page/惡搞RFC.md "wikilink")，详见[惡搞RFC](../Page/惡搞RFC.md "wikilink")。 [缩略图](https://zh.wikipedia.org/wiki/File:Ipv9dov.jpg "fig:缩略图")之下科學技術司的說明文件\]\] 2001年中国一些學者宣布开始开发IPv9协议。2007年，上海通用化工技术研究所所长谢建平宣布IPv9正式走出实验室，开始进行商业化运作。\[2\]2010年信息产业部十进制网络标准工作组称已经有上百家企业使用IPv9\[3\]但目前屬於一種國內技術儲備並沒有公開推廣或強制使用的規定。2018年9月饱受争议的IPv9话题又在各大[自媒体](../Page/自媒体.md "wikilink")上活跃。
 
 ## 技术概況
 
@@ -62,8 +59,7 @@ IPv9本質與[IPv6](../Page/IPv6.md "wikilink")沒有太多不同僅是將編號
 <!-- end list -->
 
   - [sz1961sy--日志列表](http://w.org.cn/user1/4/subject/72.html)，沈阳的博客
-      - [互联网上的“周老虎”——IPv9冒险游戏揭秘](https://web.archive.org/web/20170415020842/http://www.edu.cn/v9_9670/20100717/t20100717_497530.shtml)
-        　 2010-07-17 作者：sz1961sy博客 沈阳
+      - [互联网上的“周老虎”——IPv9冒险游戏揭秘](https://web.archive.org/web/20170415020842/http://www.edu.cn/v9_9670/20100717/t20100717_497530.shtml) 　 2010-07-17 作者：sz1961sy博客 沈阳
 
       -
       -
@@ -71,13 +67,9 @@ IPv9本質與[IPv6](../Page/IPv6.md "wikilink")沒有太多不同僅是將編號
   - [牟承晋：中国主权网络技术的战略权衡——兼谈对IPV9的舆论攻击潮](http://m.cwzg.cn/politics/201608/30319.html?page=full)，察网
   - [新浪博客搜索-ipv9](https://search.sina.com.cn/?c=blog&q=ipv9&by=tag)
 
-[Category:中国互联网](https://zh.wikipedia.org/wiki/Category:中国互联网 "wikilink")
-[Category:互联网标准](https://zh.wikipedia.org/wiki/Category:互联网标准 "wikilink")
-[Category:互联网结构](https://zh.wikipedia.org/wiki/Category:互联网结构 "wikilink")
-[Category:网络层协议](https://zh.wikipedia.org/wiki/Category:网络层协议 "wikilink")
+[Category:中国互联网](https://zh.wikipedia.org/wiki/Category:中国互联网 "wikilink") [Category:互联网标准](https://zh.wikipedia.org/wiki/Category:互联网标准 "wikilink") [Category:互联网结构](https://zh.wikipedia.org/wiki/Category:互联网结构 "wikilink") [Category:网络层协议](https://zh.wikipedia.org/wiki/Category:网络层协议 "wikilink")
 
-1.  [1994年的RFC1606愚人节笑话:“IPv9协议备忘录”译文](http://www.cnbeta.com/articles/49151.htm),
-    cnBeta, 2008-02-14
+1.  [1994年的RFC1606愚人节笑话:“IPv9协议备忘录”译文](http://www.cnbeta.com/articles/49151.htm), cnBeta, 2008-02-14
 2.
 3.
 4.  [科技猿人官方頻道-你懂網路嗎?](https://www.youtube.com/watch?v=5ht8PaEEXTM)
@@ -87,6 +79,5 @@ IPv9本質與[IPv6](../Page/IPv6.md "wikilink")沒有太多不同僅是將編號
 8.
 9.
 10.
-11. [沈阳与谢建平名誉权纠纷二审民事判决书 – 裁判文书 |
-    OpenLaw](https://archive.today/20170803131915/http://openlaw.cn/judgement/1f9a6eb4b76b44ff864840e9e419701a)，(2015)三中民终字第08222号
+11. [沈阳与谢建平名誉权纠纷二审民事判决书 – 裁判文书 | OpenLaw](https://archive.today/20170803131915/http://openlaw.cn/judgement/1f9a6eb4b76b44ff864840e9e419701a)，(2015)三中民终字第08222号
 12.

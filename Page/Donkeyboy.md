@@ -1,14 +1,10 @@
-[Donkeyboy.jpg](https://zh.wikipedia.org/wiki/File:Donkeyboy.jpg "fig:Donkeyboy.jpg")
-**Donkeyboy**是一支来自[挪威](../Page/挪威.md "wikilink")[德拉门的](https://zh.wikipedia.org/wiki/德拉门 "wikilink")[流行音乐乐队](https://zh.wikipedia.org/wiki/流行音乐 "wikilink")，成立于2005年。乐队由卡托·桑德博格、肯特·桑德博格、彼得·米切尔森、托马斯·达布罗斯和亚历山大·噶尔堡·阿加度组成。
+[Donkeyboy.jpg](https://zh.wikipedia.org/wiki/File:Donkeyboy.jpg "fig:Donkeyboy.jpg") **Donkeyboy**是一支来自[挪威](../Page/挪威.md "wikilink")[德拉门的](https://zh.wikipedia.org/wiki/德拉门 "wikilink")[流行音乐乐队](https://zh.wikipedia.org/wiki/流行音乐 "wikilink")，成立于2005年。乐队由卡托·桑德博格、肯特·桑德博格、彼得·米切尔森、托马斯·达布罗斯和亚历山大·噶尔堡·阿加度组成。
 
 ## 传记
 
-Donkeyboy因为[Myspace](../Page/Myspace.md "wikilink")空间被华纳的一名员工发现而签约[華納音樂](../Page/華納音樂集團.md "wikilink")\[1\]
-。他们的出道单曲《野心》（*Ambitions*）于2009年3月26日发行。这首歌的副歌部分类似[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")、[比利·吉恩以及](https://zh.wikipedia.org/wiki/比利·吉恩 "wikilink")[麦当娜在](https://zh.wikipedia.org/wiki/麦当娜 "wikilink")1980年代的风格。《野心》在挪威单曲榜打榜，在2009年4月的榜单上取得第七名的位置\[2\]，并在打榜13周后在该榜单取得第一名。《野心》蝉联该榜第一名单长达12周之久，之后被于9月22日发布的第二張单曲《有时候》（*Sometimes*）取代。这是有史以来第一次挪威艺人在这张榜单上占有两个重要位置。\[3\]吉他手彼得·米切尔森用
-“太荒唐了”来形容这种状况。\[4\]
+Donkeyboy因为[Myspace](../Page/Myspace.md "wikilink")空间被华纳的一名员工发现而签约[華納音樂](../Page/華納音樂集團.md "wikilink")\[1\] 。他们的出道单曲《野心》（*Ambitions*）于2009年3月26日发行。这首歌的副歌部分类似[迈克尔·杰克逊](../Page/迈克尔·杰克逊.md "wikilink")、[比利·吉恩以及](https://zh.wikipedia.org/wiki/比利·吉恩 "wikilink")[麦当娜在](https://zh.wikipedia.org/wiki/麦当娜 "wikilink")1980年代的风格。《野心》在挪威单曲榜打榜，在2009年4月的榜单上取得第七名的位置\[2\]，并在打榜13周后在该榜单取得第一名。《野心》蝉联该榜第一名单长达12周之久，之后被于9月22日发布的第二張单曲《有时候》（*Sometimes*）取代。这是有史以来第一次挪威艺人在这张榜单上占有两个重要位置。\[3\]吉他手彼得·米切尔森用 “太荒唐了”来形容这种状况。\[4\]
 
-Donkeyboy的首张专辑《夹缝中的生活》于2009年10月19日发行。
-由奥斯陆制作人西门和埃斯制作。《Dagbladet》杂志的评论员斯文·奥雅纳·巴克给这张专辑打分4/6分，并描述他是「用自信的信念和拘束的顺从反复的重复着他们的热门单曲」\[5\]。他总结道这张专辑无法超越他们的热门单曲的阴影\[6\]。在2011年，Donkeyboy由于他们国际性的成功，赢得了[欧洲跨国界音乐奖](../Page/欧洲跨国界音乐奖.md "wikilink")。\[7\]
+Donkeyboy的首张专辑《夹缝中的生活》于2009年10月19日发行。 由奥斯陆制作人西门和埃斯制作。《Dagbladet》杂志的评论员斯文·奥雅纳·巴克给这张专辑打分4/6分，并描述他是「用自信的信念和拘束的顺从反复的重复着他们的热门单曲」\[5\]。他总结道这张专辑无法超越他们的热门单曲的阴影\[6\]。在2011年，Donkeyboy由于他们国际性的成功，赢得了[欧洲跨国界音乐奖](../Page/欧洲跨国界音乐奖.md "wikilink")。\[7\]
 
 Donkeyboy的第二張专辑《银月》于2012年3月2日发行。
 
@@ -180,10 +176,7 @@ Donkeyboy的第二張专辑《银月》于2012年3月2日发行。
   -
   - [Donkeyboy](http://www.xiami.com/artist/66422)
 
-[Category:挪威樂團](https://zh.wikipedia.org/wiki/Category:挪威樂團 "wikilink")
-[Category:欧洲跨国界音乐奖获奖者](https://zh.wikipedia.org/wiki/Category:欧洲跨国界音乐奖获奖者 "wikilink")
-[Category:2005年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2005年成立的音樂團體 "wikilink")
-[Category:丹麦乐团](https://zh.wikipedia.org/wiki/Category:丹麦乐团 "wikilink")
+[Category:挪威樂團](https://zh.wikipedia.org/wiki/Category:挪威樂團 "wikilink") [Category:欧洲跨国界音乐奖获奖者](https://zh.wikipedia.org/wiki/Category:欧洲跨国界音乐奖获奖者 "wikilink") [Category:2005年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2005年成立的音樂團體 "wikilink") [Category:丹麦乐团](https://zh.wikipedia.org/wiki/Category:丹麦乐团 "wikilink")
 
 1.
 
@@ -195,9 +188,7 @@ Donkeyboy的第二張专辑《银月》于2012年3月2日发行。
 5.
 
 6.
-7.  ["Winners of the 2011 European Border Breakers
-    Awards"](http://ec.europa.eu/culture/our-programmes-and-actions/doc1098_en.htm)
-    , ec.europa.eu. Retrieved February 20, 2012
+7.  ["Winners of the 2011 European Border Breakers Awards"](http://ec.europa.eu/culture/our-programmes-and-actions/doc1098_en.htm) , ec.europa.eu. Retrieved February 20, 2012
 
 8.
 

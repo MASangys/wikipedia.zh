@@ -1,7 +1,4 @@
-**2raumwohnung** () 是一支成立于2000年
-[德国](../Page/德国.md "wikilink")[柏林](../Page/柏林.md "wikilink")流行二人音乐组合。其有2为成员[Inga
-Humpe](https://zh.wikipedia.org/wiki/Inga_Humpe "wikilink")<font color="#000000">和</font>[Tommi
-Eckhart](https://zh.wikipedia.org/wiki/Tommi_Eckhart "wikilink")，他们先前是音乐组合Neonbabies的歌手。
+**2raumwohnung** () 是一支成立于2000年 [德国](../Page/德国.md "wikilink")[柏林](../Page/柏林.md "wikilink")流行二人音乐组合。其有2为成员[Inga Humpe](https://zh.wikipedia.org/wiki/Inga_Humpe "wikilink")<font color="#000000">和</font>[Tommi Eckhart](https://zh.wikipedia.org/wiki/Tommi_Eckhart "wikilink")，他们先前是音乐组合Neonbabies的歌手。
 
 ## 专辑介绍
 
@@ -48,12 +45,8 @@ Eckhart](https://zh.wikipedia.org/wiki/Tommi_Eckhart "wikilink")，他们先前�
 
 ## 参照
 
-[Category:德国歌手](https://zh.wikipedia.org/wiki/Category:德国歌手 "wikilink")
-[Category:2000年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2000年成立的音樂團體 "wikilink")
-[Category:2000年德國建立](https://zh.wikipedia.org/wiki/Category:2000年德國建立 "wikilink")
+[Category:德国歌手](https://zh.wikipedia.org/wiki/Category:德国歌手 "wikilink") [Category:2000年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2000年成立的音樂團體 "wikilink") [Category:2000年德國建立](https://zh.wikipedia.org/wiki/Category:2000年德國建立 "wikilink")
 
 1.
-2.  [Austrian
-    Charts](http://austriancharts.at/showinterpret.asp?interpret=2raumwohnung)
-3.  [Swiss
-    Charts](http://swisscharts.com/showinterpret.asp?interpret=2raumwohnung)
+2.  [Austrian Charts](http://austriancharts.at/showinterpret.asp?interpret=2raumwohnung)
+3.  [Swiss Charts](http://swisscharts.com/showinterpret.asp?interpret=2raumwohnung)

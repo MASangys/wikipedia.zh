@@ -1,6 +1,4 @@
-**O-乙基-S-(2-二异丙氨基乙基)甲基硫代膦酸酯**（）是一种剧毒的[有机磷酸酯](https://zh.wikipedia.org/wiki/有机磷酸酯 "wikilink")，由隶属于英国皇家化工有限公司（）植物保护实验室的研究员Ranajit
-Ghosh与前瑞典国防研究部职员[拉尔斯·埃里克·塔美林](../Page/拉尔斯·埃里克·塔美林.md "wikilink")分別於1955年和1957年独立发现\[1\]，前者已於1952年申請並取得的专利\[2\]。EA-2192于1954年完成初步评价被送往英国军方进行更为深入的研究与评估，很快就为军队列入制式装备，并在后来受到多国重点关注与研究，属于第三代化学战剂。OP在美国化学部队中的正式编号为[EA-2192](https://zh.wikipedia.org/wiki/EA-2192 "wikilink")(，埃奇伍德兵工厂；亦作Experimental
-Agent)，因一直未有正式名称而常以其代号**VX**作为其称呼。EA-2192纯品为无色无嗅的油状液体，外观类似于机油，蒸发速度介于轻质机械油与机油之间，工业品为微黄色至棕黄色的油状液体，有硫醇气味，毒剂含有杂质或贮存过久时也会产生硫醇气味并略显黄色，此点有助于判断V类毒剂的存在。EA-2192本身被军方归为持久性毒剂，根据改性剂或撒布途径的不同持久性亦可发生改变。
+**O-乙基-S-(2-二异丙氨基乙基)甲基硫代膦酸酯**（）是一种剧毒的[有机磷酸酯](https://zh.wikipedia.org/wiki/有机磷酸酯 "wikilink")，由隶属于英国皇家化工有限公司（）植物保护实验室的研究员Ranajit Ghosh与前瑞典国防研究部职员[拉尔斯·埃里克·塔美林](../Page/拉尔斯·埃里克·塔美林.md "wikilink")分別於1955年和1957年独立发现\[1\]，前者已於1952年申請並取得的专利\[2\]。EA-2192于1954年完成初步评价被送往英国军方进行更为深入的研究与评估，很快就为军队列入制式装备，并在后来受到多国重点关注与研究，属于第三代化学战剂。OP在美国化学部队中的正式编号为[EA-2192](https://zh.wikipedia.org/wiki/EA-2192 "wikilink")(，埃奇伍德兵工厂；亦作Experimental Agent)，因一直未有正式名称而常以其代号**VX**作为其称呼。EA-2192纯品为无色无嗅的油状液体，外观类似于机油，蒸发速度介于轻质机械油与机油之间，工业品为微黄色至棕黄色的油状液体，有硫醇气味，毒剂含有杂质或贮存过久时也会产生硫醇气味并略显黄色，此点有助于判断V类毒剂的存在。EA-2192本身被军方归为持久性毒剂，根据改性剂或撒布途径的不同持久性亦可发生改变。
 
 ## 合成
 
@@ -10,9 +8,7 @@ EA-2192有取代法、異構化法等數種合成途徑，美国Edgewood兵工�
 
 ## 毒物性能
 
-EA-2192性质相当稳定，即使使用爆炸法分散也仅有少量分解。与[沙林](../Page/沙林.md "wikilink")相比，EA-2192的吸入毒性大于前者数倍，皮肤毒性则比沙林大几十倍到几百倍（皮肤吸收致死量约10mg/人），中毒途径更多样化，杀伤力更大。EA-2192的挥发度很小，在20℃时仅为0.01 mg/L，因此其持续时间很长，在15℃时可达3～21天，-10℃时可达1～6週。1968年3月，美军在犹他州骷髅谷（Skull
-Valley of
-Utah）进行试验时佈撒的毒剂造成6000余隻绵羊死亡，试验2月後该牧区的毒剂浓度仍对胆碱酯酶产生轻度抑制，于同年10月才允许放牧。野战条件下EA-2192难以靠自然蒸发来达到战斗浓度，可以液滴态或雾态使用。\[3\]
+EA-2192性质相当稳定，即使使用爆炸法分散也仅有少量分解。与[沙林](../Page/沙林.md "wikilink")相比，EA-2192的吸入毒性大于前者数倍，皮肤毒性则比沙林大几十倍到几百倍（皮肤吸收致死量约10mg/人），中毒途径更多样化，杀伤力更大。EA-2192的挥发度很小，在20℃时仅为0.01 mg/L，因此其持续时间很长，在15℃时可达3～21天，-10℃时可达1～6週。1968年3月，美军在犹他州骷髅谷（Skull Valley of Utah）进行试验时佈撒的毒剂造成6000余隻绵羊死亡，试验2月後该牧区的毒剂浓度仍对胆碱酯酶产生轻度抑制，于同年10月才允许放牧。野战条件下EA-2192难以靠自然蒸发来达到战斗浓度，可以液滴态或雾态使用。\[3\]
 
 [VX_storage.jpeg](https://zh.wikipedia.org/wiki/File:VX_storage.jpeg "fig:VX_storage.jpeg")
 
@@ -43,13 +39,11 @@ EA-2192的各项毒性数据如下：\[5\]
 
 ## 治療
 
-[Atropine_injection_ampoule.JPG](https://zh.wikipedia.org/wiki/File:Atropine_injection_ampoule.JPG "fig:Atropine_injection_ampoule.JPG")
-首先考慮從皮膚上除去液體劑，並將個體移至未受污染的區域和大氣中。用家用漂白劑和清水沖洗傷員的污染區域，去污後去除污染的衣服，清除皮膚污漬。
+[Atropine_injection_ampoule.JPG](https://zh.wikipedia.org/wiki/File:Atropine_injection_ampoule.JPG "fig:Atropine_injection_ampoule.JPG") 首先考慮從皮膚上除去液體劑，並將個體移至未受污染的區域和大氣中。用家用漂白劑和清水沖洗傷員的污染區域，去污後去除污染的衣服，清除皮膚污漬。
 
 一個人如果已經受神經劑攻擊或者顯示出神經劑暴露的確定體徵或症狀，應立注射神經藥解毒劑，[阿托品](../Page/阿托品.md "wikilink")(atropine)和[普拉肟](https://zh.wikipedia.org/wiki/普拉肟 "wikilink")（2-PAM），以及鎮靜/抗癲癇藥例如[地西泮](../Page/地西泮.md "wikilink")(diazepam)。
 
-在幾個國家，神經毒劑解毒劑是以自動注射器的形式讓軍事人員使用，如美軍的
-。[2](https://en.wikipedia.org/wiki/VX_\(nerve_agent\)#Treatment)
+在幾個國家，神經毒劑解毒劑是以自動注射器的形式讓軍事人員使用，如美軍的 。[2](https://en.wikipedia.org/wiki/VX_\(nerve_agent\)#Treatment)
 
 ## 使用VX的事件
 
@@ -64,18 +58,13 @@ EA-2192的各项毒性数据如下：\[5\]
 
 ## 参考文献
 
-[Category:第三代化学战剂](https://zh.wikipedia.org/wiki/Category:第三代化学战剂 "wikilink")
-[Category:有机磷化合物](https://zh.wikipedia.org/wiki/Category:有机磷化合物 "wikilink")
-[Category:神经毒剂](https://zh.wikipedia.org/wiki/Category:神经毒剂 "wikilink")
+[Category:第三代化学战剂](https://zh.wikipedia.org/wiki/Category:第三代化学战剂 "wikilink") [Category:有机磷化合物](https://zh.wikipedia.org/wiki/Category:有机磷化合物 "wikilink") [Category:神经毒剂](https://zh.wikipedia.org/wiki/Category:神经毒剂 "wikilink")
 
 1.
 2.
-3.  Handbook of Chemical and Biological Warfare Agents, Second
-    Edition;Nov.16,2009
-4.  Proposed limit s for human exposure to VX vapor in nonmilitary
-    operation AD 770434
-5.  Steven L. Hoenig. Compendium of Chemical Warfare Agents. Springer
-    New York, 2007. ISBN 978-0-387-34626-7
+3.  Handbook of Chemical and Biological Warfare Agents, Second Edition;Nov.16,2009
+4.  Proposed limit s for human exposure to VX vapor in nonmilitary operation AD 770434
+5.  Steven L. Hoenig. Compendium of Chemical Warfare Agents. Springer New York, 2007. ISBN 978-0-387-34626-7
 6.
 7.
 8.

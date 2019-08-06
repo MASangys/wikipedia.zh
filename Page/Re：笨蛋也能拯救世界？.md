@@ -1,5 +1,4 @@
-是由[柳实冬贵創作](https://zh.wikipedia.org/wiki/柳实冬贵 "wikilink")、一叶モカ負責插畫，由[富士見書房](../Page/富士見書房.md "wikilink")發行的輕小說作品。2010年12月發售DRAMA
-CD\[1\]。
+是由[柳实冬贵創作](https://zh.wikipedia.org/wiki/柳实冬贵 "wikilink")、一叶モカ負責插畫，由[富士見書房](../Page/富士見書房.md "wikilink")發行的輕小說作品。2010年12月發售DRAMA CD\[1\]。
 
 ## 故事內容
 
@@ -97,8 +96,7 @@ CD\[1\]。
 ## 設定用語
 
   - 透光现象(木漏れ日現象)
-    發生在雨鶴來市的神祕現象。七年前的某一天，在雨鶴來市上空射下了神祕的光線，
-    被照到的人們大多數都陷入再也沒醒過來的無止境昏睡狀態，但其中也有獲得了名為涅墨西斯的特殊能力後甦醒。甦醒的人無一例外會聽到「神」的聲音，得知世界即將毀滅，要找到「一线希望」的持有者才能拯救世界等訊息。繼第一次木漏日现象出現之後，每個月的13日都會在不固定的場所出現小規模的木漏日现象。
+    發生在雨鶴來市的神祕現象。七年前的某一天，在雨鶴來市上空射下了神祕的光線， 被照到的人們大多數都陷入再也沒醒過來的無止境昏睡狀態，但其中也有獲得了名為涅墨西斯的特殊能力後甦醒。甦醒的人無一例外會聽到「神」的聲音，得知世界即將毀滅，要找到「一线希望」的持有者才能拯救世界等訊息。繼第一次木漏日现象出現之後，每個月的13日都會在不固定的場所出現小規模的木漏日现象。
 
 <!-- end list -->
 
@@ -128,7 +126,6 @@ CD\[1\]。
 
   - [富士見書房《Re：笨蛋也能拯救世界？》特設網頁](http://www.fujimishobo.co.jp/sp/201006Re/)
 
-[Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink")
-[Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink")
+[Category:日本輕小說](https://zh.wikipedia.org/wiki/Category:日本輕小說 "wikilink") [Category:富士見Fantasia文庫](https://zh.wikipedia.org/wiki/Category:富士見Fantasia文庫 "wikilink")
 
 1.

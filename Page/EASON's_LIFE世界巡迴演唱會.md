@@ -1,16 +1,10 @@
-「**EASON's LIFE
-世界巡迴演唱會**」世界巡迴演唱會是由[香港](../Page/香港.md "wikilink")著名男[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")演出之世界巡迴演唱會，於2013年起在亞洲和美、加各大城市舉行。演唱會首站－《EASON's
-LIFE
-世界巡迴演唱會－香港站》於2013年7月至8月在[香港體育館](../Page/香港體育館.md "wikilink")舉行，一連25場，為他的個人售票演唱會中最高場數紀錄。
+「**EASON's LIFE 世界巡迴演唱會**」世界巡迴演唱會是由[香港](../Page/香港.md "wikilink")著名男[歌手](../Page/歌手.md "wikilink")[陳奕迅](../Page/陳奕迅.md "wikilink")演出之世界巡迴演唱會，於2013年起在亞洲和美、加各大城市舉行。演唱會首站－《EASON's LIFE 世界巡迴演唱會－香港站》於2013年7月至8月在[香港體育館](../Page/香港體育館.md "wikilink")舉行，一連25場，為他的個人售票演唱會中最高場數紀錄。
 
 ## 製作概念
 
-陳奕迅是近年少數能舉行超過五十場次世界巡迴演唱會的香港當代歌手，他已連續舉行四年巡演（包括「DUO」和「EASON's
-LIFE」）。陳奕迅接受訪問時，透露這次演唱會[朱祖兒負責舞台](https://zh.wikipedia.org/wiki/朱祖兒 "wikilink")、歌單設計。由於二人合作經驗甚多、默契十足，陳未有對朱的安排作出修改。
+陳奕迅是近年少數能舉行超過五十場次世界巡迴演唱會的香港當代歌手，他已連續舉行四年巡演（包括「DUO」和「EASON's LIFE」）。陳奕迅接受訪問時，透露這次演唱會[朱祖兒負責舞台](https://zh.wikipedia.org/wiki/朱祖兒 "wikilink")、歌單設計。由於二人合作經驗甚多、默契十足，陳未有對朱的安排作出修改。
 
-這次演唱會之主題為「**LIFE**」，其實合併自分別是「**L**ife」, 「**I**llusion」, 「**F**eeling」及
-**E**njoy」四字，亦代表分為四部份，帶出人生的主題。陳奕迅並非首次演出類似的主題，他於2006年的「Get a Life in Hong
-Kong」演唱會也以人生作題材。
+這次演唱會之主題為「**LIFE**」，其實合併自分別是「**L**ife」, 「**I**llusion」, 「**F**eeling」及 **E**njoy」四字，亦代表分為四部份，帶出人生的主題。陳奕迅並非首次演出類似的主題，他於2006年的「Get a Life in Hong Kong」演唱會也以人生作題材。
 
 ## 演唱曲目
 
@@ -385,50 +379,34 @@ Kong」演唱會也以人生作題材。
 
 ### 音樂會紀錄
 
-  - 2013年7月19日：香港著名男歌手[張學友出席Eason](https://zh.wikipedia.org/wiki/張學友 "wikilink")
-    演唱會，被台下觀眾要求與Eason 合唱，幾番擾攘下造就陳奕迅和張學友「E神」與「歌神」的世紀合唱，最後二人合唱一曲《每天愛你多一些》。
+  - 2013年7月19日：香港著名男歌手[張學友出席Eason](https://zh.wikipedia.org/wiki/張學友 "wikilink") 演唱會，被台下觀眾要求與Eason 合唱，幾番擾攘下造就陳奕迅和張學友「E神」與「歌神」的世紀合唱，最後二人合唱一曲《每天愛你多一些》。
 
 <!-- end list -->
 
-  - 2013年8月2日：《Eason's LIFE》的正規選曲部份並沒有陳奕迅的最新專輯《[The
-    Key](../Page/The_Key.md "wikilink")》的歌曲。在香港站最後一場的安歌部份，Eason
-    終於首次演唱最新專輯《[The
-    Key](../Page/The_Key.md "wikilink")》的歌曲《主旋律》和《床頭床尾》，並收錄在演唱會的音樂產品。
+  - 2013年8月2日：《Eason's LIFE》的正規選曲部份並沒有陳奕迅的最新專輯《[The Key](../Page/The_Key.md "wikilink")》的歌曲。在香港站最後一場的安歌部份，Eason 終於首次演唱最新專輯《[The Key](../Page/The_Key.md "wikilink")》的歌曲《主旋律》和《床頭床尾》，並收錄在演唱會的音樂產品。
 
 ### 爭議
 
-  - 2013年8月：藝人[陳冠希](../Page/陳冠希.md "wikilink")名下製作公司Ding Dong Team
-    Limited與陳奕迅經理人[陳家瑛](https://zh.wikipedia.org/wiki/陳家瑛 "wikilink")，早前以210萬元簽約合作，由公司製作錄像片段在《Eason's
-    LIFE》個唱內播出，惟陳家瑛僅付100萬元。結果Ding Dong Team
-    Limited入稟法院，追討陳家瑛110萬元製作費用及賠償。\[4\]\]\[5\]
+  - 2013年8月：藝人[陳冠希](../Page/陳冠希.md "wikilink")名下製作公司Ding Dong Team Limited與陳奕迅經理人[陳家瑛](https://zh.wikipedia.org/wiki/陳家瑛 "wikilink")，早前以210萬元簽約合作，由公司製作錄像片段在《Eason's LIFE》個唱內播出，惟陳家瑛僅付100萬元。結果Ding Dong Team Limited入稟法院，追討陳家瑛110萬元製作費用及賠償。\[4\]\]\[5\]
 
 <!-- end list -->
 
-  - 2013年12月：《EASON's LIFE 2013演唱會》推出CD、DVD及Blu-ray
-    產品，但當中作詞人[黃偉文填詞共十三首作品均沒有收錄在內](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")，網絡上眾說紛紜，有部份網民懷疑是因為唱片公司與填詞人分賬上沒有共識而一拍兩散，結果引起部份歌迷與消費者不滿與罷買。陳奕迅解釋事件為商業決定，曾向公司爭取不果，但強調事件沒有影響他與黃偉文的友誼\[6\]\[7\]。
+  - 2013年12月：《EASON's LIFE 2013演唱會》推出CD、DVD及Blu-ray 產品，但當中作詞人[黃偉文填詞共十三首作品均沒有收錄在內](https://zh.wikipedia.org/wiki/黃偉文 "wikilink")，網絡上眾說紛紜，有部份網民懷疑是因為唱片公司與填詞人分賬上沒有共識而一拍兩散，結果引起部份歌迷與消費者不滿與罷買。陳奕迅解釋事件為商業決定，曾向公司爭取不果，但強調事件沒有影響他與黃偉文的友誼\[6\]\[7\]。
 
 ## 外部連結
 
-  - [Timable：《陳奕迅Eason's
-    Life演唱會2013》全紀錄及短評](http://timable.com/zh-hk/blog/132535)
+  - [Timable：《陳奕迅Eason's Life演唱會2013》全紀錄及短評](http://timable.com/zh-hk/blog/132535)
   - [蘋果日報：Eason個唱Rundown全面睇](http://hk.apple.nextmedia.com/enews/realtime/20130706/51537180)
-  - [輔仁網：曲不高而和寡的《Eason’s
-    Life》](http://www.vjmedia.com.hk/articles/2013/07/15/43740)
+  - [輔仁網：曲不高而和寡的《Eason’s Life》](http://www.vjmedia.com.hk/articles/2013/07/15/43740)
 
 ## 參考文獻
 
-[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink")
-[Category:陳奕迅演唱會](https://zh.wikipedia.org/wiki/Category:陳奕迅演唱會 "wikilink")
+[Category:巡迴音樂會](https://zh.wikipedia.org/wiki/Category:巡迴音樂會 "wikilink") [Category:陳奕迅演唱會](https://zh.wikipedia.org/wiki/Category:陳奕迅演唱會 "wikilink")
 
-1.  [環球唱片－Eason's Life 陳奕迅2013演唱會 (2
-    DVD)](http://www.umg.com.hk/album/2782/detail)
-2.  [環球唱片－Eason's Life 陳奕迅2013演唱會 (2
-    DVD)](http://www.umg.com.hk/album/2783/detail)
-3.  [環球唱片－Eason's Life 陳奕迅2013演唱會
-    (Blu-ray)](http://www.umg.com.hk/album/2784/detail)
+1.  [環球唱片－Eason's Life 陳奕迅2013演唱會 (2 DVD)](http://www.umg.com.hk/album/2782/detail)
+2.  [環球唱片－Eason's Life 陳奕迅2013演唱會 (2 DVD)](http://www.umg.com.hk/album/2783/detail)
+3.  [環球唱片－Eason's Life 陳奕迅2013演唱會 (Blu-ray)](http://www.umg.com.hk/album/2784/detail)
 4.
 5.  [晴報：陳冠希追陳奕迅經理人110萬](http://www.skypost.hk/%E6%B8%AF%E8%81%9E/%E6%96%B0%E8%81%9E%E9%A0%AD%E6%A2%9D/20130808/001/%E9%99%B3%E5%86%A0%E5%B8%8C%E8%BF%BD%E9%99%B3%E5%A5%95%E8%BF%85%E7%B6%93%E7%90%86%E4%BA%BA110%E8%90%AC/105074)
-
 6.  [星島日報－2013年12月27日－陳奕迅強調與Wyman仍是好友](http://hk.news.yahoo.com/%E9%99%B3%E5%A5%95%E8%BF%85%E5%BC%B7%E8%AA%BF%E8%88%87wyman%E4%BB%8D%E6%98%AF%E5%A5%BD%E5%8F%8B-103100662.html)
-7.  \[<http://hk.apple.nextmedia.com/entertainment/art/20131228/18569078>
-    蘋果日報－2013年12月28日－Eason否認與Wyman因財失義
+7.  \[<http://hk.apple.nextmedia.com/entertainment/art/20131228/18569078> 蘋果日報－2013年12月28日－Eason否認與Wyman因財失義

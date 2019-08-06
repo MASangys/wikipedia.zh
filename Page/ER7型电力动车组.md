@@ -26,11 +26,8 @@ ER7型电力动车组是在[ER1型直流电力动车组的基础上改进发展�
 
 ## 外部链接
 
-  - [Электропоезд постоянного тока
-    ЭР7](http://www.emupages.narod.ru/trains-er7.htm)
+  - [Электропоезд постоянного тока ЭР7](http://www.emupages.narod.ru/trains-er7.htm)
 
-[Category:苏联电力动车组](https://zh.wikipedia.org/wiki/Category:苏联电力动车组 "wikilink")
-[Category:25千伏50赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力动车组 "wikilink")
-[Category:里加製鐵路車輛](https://zh.wikipedia.org/wiki/Category:里加製鐵路車輛 "wikilink")
+[Category:苏联电力动车组](https://zh.wikipedia.org/wiki/Category:苏联电力动车组 "wikilink") [Category:25千伏50赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力动车组 "wikilink") [Category:里加製鐵路車輛](https://zh.wikipedia.org/wiki/Category:里加製鐵路車輛 "wikilink")
 
 1.

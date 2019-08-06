@@ -1,20 +1,14 @@
-**AGS-40**（；，，意為：[巴爾幹](../Page/巴尔干半岛.md "wikilink")；[俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：／）是一挻由[前苏联研製](../Page/苏联.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")[GNPP
-Pribor設計局生產的](https://zh.wikipedia.org/wiki/GNPP_Pribor設計局 "wikilink")40毫米[自動榴彈發射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，是[AGS-17的大](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")[口徑改進型](https://zh.wikipedia.org/wiki/口徑 "wikilink")，發射40毫米7P39[無彈殼](../Page/無殼彈.md "wikilink")[榴彈](https://zh.wikipedia.org/wiki/榴彈 "wikilink")。
+**AGS-40**（；，，意為：[巴爾幹](../Page/巴尔干半岛.md "wikilink")；[俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：／）是一挻由[前苏联研製](../Page/苏联.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")[GNPP Pribor設計局生產的](https://zh.wikipedia.org/wiki/GNPP_Pribor設計局 "wikilink")40毫米[自動榴彈發射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，是[AGS-17的大](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")[口徑改進型](https://zh.wikipedia.org/wiki/口徑 "wikilink")，發射40毫米7P39[無彈殼](../Page/無殼彈.md "wikilink")[榴彈](https://zh.wikipedia.org/wiki/榴彈 "wikilink")。
 
 AGS-40裝設在[三腳架](https://zh.wikipedia.org/wiki/三腳架 "wikilink")、[车辆](https://zh.wikipedia.org/wiki/车辆 "wikilink")、[船](../Page/船.md "wikilink")隻和[直升機以上使用](https://zh.wikipedia.org/wiki/直升機 "wikilink")。其設計的目的是摧毀敵方人員及載具，以保護使用方的步兵連。AGS-40已經被[俄羅斯軍隊所採用](https://zh.wikipedia.org/wiki/俄羅斯軍事 "wikilink")。
 
 ## 歷史
 
-1980年代，蘇聯軍隊意識到[AGS-17的彈藥威力和射程都比美國](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")[Mk
-19 Mod
-3較低](../Page/Mk_19自動榴彈發射器.md "wikilink")。為了加強這種武器的射程和威力，便指定研製一種40毫米口徑的[自動榴彈發射器](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。其中武器部分由（TsKIB
-SOO）負責，而彈藥部分則由[GNPP
-Pribor設計局負責](https://zh.wikipedia.org/wiki/GNPP_Pribor設計局 "wikilink")。當時的原型命名為TKB-0134“山羊”（；Козлик，，意為：[山羊](../Page/家山羊.md "wikilink")）。
+1980年代，蘇聯軍隊意識到[AGS-17的彈藥威力和射程都比美國](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")[Mk 19 Mod 3較低](../Page/Mk_19自動榴彈發射器.md "wikilink")。為了加強這種武器的射程和威力，便指定研製一種40毫米口徑的[自動榴彈發射器](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。其中武器部分由（TsKIB SOO）負責，而彈藥部分則由[GNPP Pribor設計局負責](https://zh.wikipedia.org/wiki/GNPP_Pribor設計局 "wikilink")。當時的原型命名為TKB-0134“山羊”（；Козлик，，意為：[山羊](../Page/家山羊.md "wikilink")）。
 
 然而受到經濟狀況不佳和[苏联解体](../Page/苏联解体.md "wikilink")造成的衝擊影響，該研製項目在1980年代末期就停滯不前。在1990年代初，該項目以“巴爾幹”為代號，由V.N.捷利什、P.加爾金和Yu.V.列別捷夫為首的槍械設計師團隊重新開展研製工作。
 
-巴爾幹項目主要承包商GNPP
-Pribor已於2008年[夏季](../Page/夏季.md "wikilink")[莫斯科](../Page/莫斯科.md "wikilink")舉辦的IDELF軍事展覽上展出了命名為6G27（）的榴彈發射器和配用的7P39無殼彈藥。其後亦在2009年[阿拉伯联合酋长国](../Page/阿拉伯联合酋长国.md "wikilink")[阿布扎比](../Page/阿布扎比.md "wikilink")的第九屆[國際防務展覽及會議上展出](../Page/阿布扎比国际防务展.md "wikilink")。生產商方面宣佈，該武器和彈藥目前正在[俄羅斯軍隊進行測試](../Page/俄罗斯军事.md "wikilink")。
+巴爾幹項目主要承包商GNPP Pribor已於2008年[夏季](../Page/夏季.md "wikilink")[莫斯科](../Page/莫斯科.md "wikilink")舉辦的IDELF軍事展覽上展出了命名為6G27（）的榴彈發射器和配用的7P39無殼彈藥。其後亦在2009年[阿拉伯联合酋长国](../Page/阿拉伯联合酋长国.md "wikilink")[阿布扎比](../Page/阿布扎比.md "wikilink")的第九屆[國際防務展覽及會議上展出](../Page/阿布扎比国际防务展.md "wikilink")。生產商方面宣佈，該武器和彈藥目前正在[俄羅斯軍隊進行測試](../Page/俄罗斯军事.md "wikilink")。
 
 ## 設計細節
 
@@ -224,15 +218,13 @@ N/A</p></td>
   - [87式自動榴彈發射器](../Page/87式自動榴彈發射器.md "wikilink")
   - [04式自动榴弹发射器](../Page/04式自动榴弹发射器.md "wikilink")
   - [CIS 40 AGL自动榴弹发射器](../Page/CIS_40_AGL自动榴弹发射器.md "wikilink")
-  - [CZW
-    RAG-30自动榴弹发射器](https://zh.wikipedia.org/wiki/CZW_RAG-30自动榴弹发射器 "wikilink")
+  - [CZW RAG-30自动榴弹发射器](https://zh.wikipedia.org/wiki/CZW_RAG-30自动榴弹发射器 "wikilink")
   - [大宇K4自動榴彈發射器](../Page/大宇K4自動榴彈發射器.md "wikilink")
   - [丹尼爾Y3自動榴彈發射器](../Page/丹尼爾Y3自動榴彈發射器.md "wikilink")
   - [HK GMG自動榴彈發射器](../Page/HK_GMG自動榴彈發射器.md "wikilink")
   - [Mk 19自動榴彈發射器](../Page/Mk_19自動榴彈發射器.md "wikilink")
   - [Mk 47自動榴彈發射器](../Page/Mk_47自動榴彈發射器.md "wikilink")
-  - [SB LAG
-    40自動榴彈發射器](https://zh.wikipedia.org/wiki/SB_LAG_40自動榴彈發射器 "wikilink")
+  - [SB LAG 40自動榴彈發射器](https://zh.wikipedia.org/wiki/SB_LAG_40自動榴彈發射器 "wikilink")
   - [XM174自動榴彈發射器](../Page/XM174自動榴彈發射器.md "wikilink")
   - [XM307自動榴彈發射器](../Page/XM307自動榴彈發射器.md "wikilink")
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")
@@ -254,35 +246,23 @@ N/A</p></td>
 
 ## 外部連結
 
-  - —[Modern
-    Firearms—Balkan](http://world.guns.ru/grenade/rus/balkan-e.html)
+  - —[Modern Firearms—Balkan](http://world.guns.ru/grenade/rus/balkan-e.html)
 
   - —[Weapon.ge—Balkan](http://georgians.weapon.ge/index.php?sel=1&id=333&man=&coun=&cat=12&l=en)
 
-  - —[Станковый гранатомет 6Г27
-    "Балкан"](https://archive.is/20130417035029/http://diversant.h1.ru/guns/granatomet/balkan.html)
+  - —[Станковый гранатомет 6Г27 "Балкан"](https://archive.is/20130417035029/http://diversant.h1.ru/guns/granatomet/balkan.html)
 
-  - —[АГС-40
-    "Балкан"](http://spec-naz.org/armory/launchers/ags_40_balkan/)
+  - —[АГС-40 "Балкан"](http://spec-naz.org/armory/launchers/ags_40_balkan/)
 
-  - —[Военный Обозреватель－Российская армия получит новый автоматический
-    гранатомет АГС-40
-    «Балкан»](http://warsonline.info/strelkovoe-oruzhie/armiya-poluchit-novim-granatometom-ags-40-balkan.html)
+  - —[Военный Обозреватель－Российская армия получит новый автоматический гранатомет АГС-40 «Балкан»](http://warsonline.info/strelkovoe-oruzhie/armiya-poluchit-novim-granatometom-ags-40-balkan.html)
 
-  - —[D Boy Gun
-    World（槍炮世界）—6G27自动榴弹发射器](http://firearmsworld.net/russain/gl/6g27/balkan.htm)
+  - —[D Boy Gun World（槍炮世界）—6G27自动榴弹发射器](http://firearmsworld.net/russain/gl/6g27/balkan.htm)
 
-[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink")
-[Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink")
-[Category:全自動型榴彈發射器](https://zh.wikipedia.org/wiki/Category:全自動型榴彈發射器 "wikilink")
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
+[Category:40毫米口径武器](https://zh.wikipedia.org/wiki/Category:40毫米口径武器 "wikilink") [Category:榴弹发射器](https://zh.wikipedia.org/wiki/Category:榴弹发射器 "wikilink") [Category:全自動型榴彈發射器](https://zh.wikipedia.org/wiki/Category:全自動型榴彈發射器 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
 
 1.  [АГС-40](http://world.guns.ru/grenade/rus/balkan-r.html)
 2.  [Mk.47 mod.0](http://www.gdatp.com/factsheets/A047_MK47.pdf)
-3.  [HK
-    GMG](http://www.heckler-koch.com/en/products/40-mm-systems/gmg/gmg/technical-data.html)
-4.  [40mm Y3 MK1 Automatic Grenade
-    Launcher](http://www.army.mil.za/equipment/weaponsystems/infantry/Y2_Y3_Grenade_Launchers.htm)
+3.  [HK GMG](http://www.heckler-koch.com/en/products/40-mm-systems/gmg/gmg/technical-data.html)
+4.  [40mm Y3 MK1 Automatic Grenade Launcher](http://www.army.mil.za/equipment/weaponsystems/infantry/Y2_Y3_Grenade_Launchers.htm)
 5.  [Daewoo K4](http://www.army-guide.com/rus/product2292.html)
-6.  [Howa
-    Type 96](http://www15.tok2.com/home/lttom/military-powers_jgsdf/shokaki/40mm_granade/military-powers_granadeframe.html)
+6.  [Howa Type 96](http://www15.tok2.com/home/lttom/military-powers_jgsdf/shokaki/40mm_granade/military-powers_granadeframe.html)

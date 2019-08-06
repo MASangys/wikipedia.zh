@@ -4,9 +4,7 @@
 
   - 2004年9月17日propeller社推出處女作「てこいれぷりんせす\! 〜僕が見えない君のため〜」。\[1\]
   - 2007年7月27日推出第3作「Bullet Butlers」\[2\]，並於同年獲得「美少女遊戲賞2007」的媒體支持獎。\[3\]
-  - 2008年5月23日推出第4作「クロノベルト ～あやかしびと＆Bullet Butlers
-    クロスオーバーディスク～」\[4\]，並於同年獲得「美少女遊戲賞2008」Fan
-    Disk賞的優秀賞。\[5\]
+  - 2008年5月23日推出第4作「クロノベルト ～あやかしびと＆Bullet Butlers クロスオーバーディスク～」\[4\]，並於同年獲得「美少女遊戲賞2008」Fan Disk賞的優秀賞。\[5\]
   - 2009年7月24日推出第5作「きっと、澄みわたる朝色よりも、」\[6\]，並於同年獲得「2009年萌系遊戲大賞」的BGM銀賞、繪圖銀賞。\[7\]
 
 ## 作品一覽
@@ -145,15 +143,10 @@
 
 ## 外部連結
 
-  - [propeller Official
-    Website](http://www.propeller-game.com/index.html)(未滿十八歲禁止進入)
+  - [propeller Official Website](http://www.propeller-game.com/index.html)(未滿十八歲禁止進入)
 
   -
-[Category:2004年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2004年開業電子遊戲公司 "wikilink")
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:WillPlus](https://zh.wikipedia.org/wiki/Category:WillPlus "wikilink")
+[Category:2004年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2004年開業電子遊戲公司 "wikilink") [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:WillPlus](https://zh.wikipedia.org/wiki/Category:WillPlus "wikilink")
 
 1.
 

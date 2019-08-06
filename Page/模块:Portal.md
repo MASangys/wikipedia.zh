@@ -1,30 +1,6 @@
-\--\[==\[ This module is a Lua implementation of the old  template. As
-of August 2013 it is used on nearly 5,000,000 articles. -- Please take
-care when updating it\! It outputs two functions: p.portal, which
-generates a list of portals, and p.image, which -- produces the image
-name for an individual portal.
+\--\[==\[ This module is a Lua implementation of the old  template. As of August 2013 it is used on nearly 5,000,000 articles. -- Please take care when updating it\! It outputs two functions: p.portal, which generates a list of portals, and p.image, which -- produces the image name for an individual portal.
 
-\-- The portal image data is kept in submodules of
-[Module:Portal/images](https://zh.wikipedia.org/wiki/Module:Portal/images "wikilink"),
-listed below: --
-[Module:Portal/images/letter](https://zh.wikipedia.org/wiki/Module:Portal/images/letter "wikilink")
---
-[Module:Portal/images/chinese](https://zh.wikipedia.org/wiki/Module:Portal/images/chinese "wikilink")
---
-[Module:Portal/images/other](https://zh.wikipedia.org/wiki/Module:Portal/images/other "wikilink")
-- for portal names beginning with any other letters. This includes
-numbers, -- letters with diacritics, and letters in non-Latin alphabets.
---
-[Module:Portal/images/aliases](https://zh.wikipedia.org/wiki/Module:Portal/images/aliases "wikilink")
-- for adding aliases for existing portal names. Use this page for
-variations -- in spelling and diacritics, etc., no matter what letter
-the portal begins with. -- -- The images data pages are separated by the
-first letter to reduce server load when images are added, changed, or
-removed. -- Previously all the images were on one data page at
-[Module:Portal/images](https://zh.wikipedia.org/wiki/Module:Portal/images "wikilink"),
-but this had the disadvantage that all -- 5,000,000 pages using this
-module needed to be refreshed every time an image was added or removed.
-\]==\]
+\-- The portal image data is kept in submodules of [Module:Portal/images](https://zh.wikipedia.org/wiki/Module:Portal/images "wikilink"), listed below: -- [Module:Portal/images/letter](https://zh.wikipedia.org/wiki/Module:Portal/images/letter "wikilink") -- [Module:Portal/images/chinese](https://zh.wikipedia.org/wiki/Module:Portal/images/chinese "wikilink") -- [Module:Portal/images/other](https://zh.wikipedia.org/wiki/Module:Portal/images/other "wikilink") - for portal names beginning with any other letters. This includes numbers, -- letters with diacritics, and letters in non-Latin alphabets. -- [Module:Portal/images/aliases](https://zh.wikipedia.org/wiki/Module:Portal/images/aliases "wikilink") - for adding aliases for existing portal names. Use this page for variations -- in spelling and diacritics, etc., no matter what letter the portal begins with. -- -- The images data pages are separated by the first letter to reduce server load when images are added, changed, or removed. -- Previously all the images were on one data page at [Module:Portal/images](https://zh.wikipedia.org/wiki/Module:Portal/images "wikilink"), but this had the disadvantage that all -- 5,000,000 pages using this module needed to be refreshed every time an image was added or removed. \]==\]
 
 local p = {}
 
@@ -289,8 +265,7 @@ local function makeWrapper(funcName)
 
 end
 
-for _, funcName in ipairs{'portal', 'image', 'imageDupes',
-'displayAll'} do
+for _, funcName in ipairs{'portal', 'image', 'imageDupes', 'displayAll'} do
 
 `   p[funcName] = makeWrapper('_' .. funcName)`
 
@@ -298,5 +273,4 @@ end
 
 return p
 
-[Category:Portal模版没有使用参数](https://zh.wikipedia.org/wiki/Category:Portal模版没有使用参数 "wikilink")
-[Category:使用2號參數傳遞Portal模板圖像的頁面](https://zh.wikipedia.org/wiki/Category:使用2號參數傳遞Portal模板圖像的頁面 "wikilink")
+[Category:Portal模版没有使用参数](https://zh.wikipedia.org/wiki/Category:Portal模版没有使用参数 "wikilink") [Category:使用2號參數傳遞Portal模板圖像的頁面](https://zh.wikipedia.org/wiki/Category:使用2號參數傳遞Portal模板圖像的頁面 "wikilink")

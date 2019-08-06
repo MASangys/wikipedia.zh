@@ -1,69 +1,26 @@
-**Humble Bundles**（之前被称为**Humble Indie
-Bundles**）是一系列在网络上售卖和分发的关于电子游戏、音乐专辑或者电子书的收藏包，所需要支付的价格由购买者决定。这些收藏包通常会不定期上线，每个收藏包售卖时间为两个星期，其中第一个星期购买的包会追加奖励游戏、电子书或音乐，第二周购买的则需要超过平均价才能获得这些奖励物品。
+**Humble Bundles**（之前被称为**Humble Indie Bundles**）是一系列在网络上售卖和分发的关于电子游戏、音乐专辑或者电子书的收藏包，所需要支付的价格由购买者决定。这些收藏包通常会不定期上线，每个收藏包售卖时间为两个星期，其中第一个星期购买的包会追加奖励游戏、电子书或音乐，第二周购买的则需要超过平均价才能获得这些奖励物品。
 
-早期收藏包主要是由一些[独立开发](../Page/独立游戏.md "wikilink")，[多平台游戏组成](https://zh.wikipedia.org/wiki/跨平台 "wikilink")（其中多平台指[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Mac
-OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，以及[Linux](../Page/Linux.md "wikilink")）并提供免[电子版权管理](../Page/数字版权管理.md "wikilink")
-（DRM）的下载。后期收藏包包括一些基于[Android](../Page/Android.md "wikilink")系统开发的游戏，收藏包提供安卓内软件下载，在两份收藏包中，收藏包内游戏都有主流出版商组成。每次的收藏包所筹款按开发者、创作者、Humble
-Bundle公司、以及一个或多个慈善团体分成，慈善团员一般包括包括儿童游戏、[电子前沿基金会](../Page/电子前哨基金会.md "wikilink")、[charity:
-water和美国红十字会](https://zh.wikipedia.org/wiki/charity:_water "wikilink")，当然，买家能够在付款时设置给每个团体之间的分成比例。
+早期收藏包主要是由一些[独立开发](../Page/独立游戏.md "wikilink")，[多平台游戏组成](https://zh.wikipedia.org/wiki/跨平台 "wikilink")（其中多平台指[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，以及[Linux](../Page/Linux.md "wikilink")）并提供免[电子版权管理](../Page/数字版权管理.md "wikilink") （DRM）的下载。后期收藏包包括一些基于[Android](../Page/Android.md "wikilink")系统开发的游戏，收藏包提供安卓内软件下载，在两份收藏包中，收藏包内游戏都有主流出版商组成。每次的收藏包所筹款按开发者、创作者、Humble Bundle公司、以及一个或多个慈善团体分成，慈善团员一般包括包括儿童游戏、[电子前沿基金会](../Page/电子前哨基金会.md "wikilink")、[charity: water和美国红十字会](https://zh.wikipedia.org/wiki/charity:_water "wikilink")，当然，买家能够在付款时设置给每个团体之间的分成比例。
 
-第一个收藏包是由Wolfire游戏组织和管理的。然而从第二个起，包里游戏就由不同的独立游戏公司制作的游戏组成，Humble
-Bundle公司则负责金融投资，成立组织以及管理这些捆绑销售这些收藏包。许多收藏包售出超过100万美元的销售额，截至2013年2月的第二十一个收藏包总共已筹得超过3,320万美元。\[1\]Humble
-Bundle创造了多项类似于提供“ 想付多少由你来决定 ”的方式，影响了很多相同的游戏包，其中包括Indie Gala和Indie
-Royale。
+第一个收藏包是由Wolfire游戏组织和管理的。然而从第二个起，包里游戏就由不同的独立游戏公司制作的游戏组成，Humble Bundle公司则负责金融投资，成立组织以及管理这些捆绑销售这些收藏包。许多收藏包售出超过100万美元的销售额，截至2013年2月的第二十一个收藏包总共已筹得超过3,320万美元。\[1\]Humble Bundle创造了多项类似于提供“ 想付多少由你来决定 ”的方式，影响了很多相同的游戏包，其中包括Indie Gala和Indie Royale。
 
-2017年10月14日，Humble
-Bundles宣布被[IGN](../Page/IGN.md "wikilink")收购。\[2\]\[3\]
+2017年10月14日，Humble Bundles宣布被[IGN](../Page/IGN.md "wikilink")收购。\[2\]\[3\]
 
 ## 理念
 
-制作这个游戏收藏包的理念是由Wolfire Games的杰夫·罗森\[4\]提出的。 罗森介绍说他在Steam平台上上类似的捆绑销售中
-\[5\]获得了灵感， 罗森指出，这种销售将有利于在互联网上通过口口相传来传播。
-\[6\]影响也来自以前的按照“按你想付的价钱支付”销售的*[粘粘世界](../Page/粘粘世界.md "wikilink")“*
-为主题的第一个周年庆中;\[7\]\[8\]在这次有超过57,000份收藏包被售出，支付完[贝宝手续费](../Page/PayPal.md "wikilink")\[9\]\[10\]后筹集了超过117,000美元。
-罗森这一点被其他[独立开发人员认可](../Page/独立游戏.md "wikilink")，例如他的弟弟大卫为了测试销售情况开发了*Penumbra*
-系列 ，而*Penumbra*的作曲家Mikko Tarmia现在投身到Wolfire即将推出的新游戏*Overgrowth* 中
-。Wolfire最近还与未知世界娱乐合作，给他们安排一份关于*自然选择2* 的收藏包。 \[11\]移植*Lugaru*
-到Linux平台的瑞安 C.戈登 ，也负责向Linux移植*安琪拉* 。同这些独立软件开发商以及罗恩·卡梅尔和 2D
-Boy的亲密关系，罗森能够协商组成收藏包，利用并由贝宝、亚马逊支付、谷歌Checkout销售系统，以最小的成本，来进行交易和配送\[12\]该网站之后也添加了一些选项，允许通过比特币进行支付。
-\[13\]\[14\]
+制作这个游戏收藏包的理念是由Wolfire Games的杰夫·罗森\[4\]提出的。 罗森介绍说他在Steam平台上上类似的捆绑销售中 \[5\]获得了灵感， 罗森指出，这种销售将有利于在互联网上通过口口相传来传播。 \[6\]影响也来自以前的按照“按你想付的价钱支付”销售的*[粘粘世界](../Page/粘粘世界.md "wikilink")“* 为主题的第一个周年庆中;\[7\]\[8\]在这次有超过57,000份收藏包被售出，支付完[贝宝手续费](../Page/PayPal.md "wikilink")\[9\]\[10\]后筹集了超过117,000美元。 罗森这一点被其他[独立开发人员认可](../Page/独立游戏.md "wikilink")，例如他的弟弟大卫为了测试销售情况开发了*Penumbra* 系列 ，而*Penumbra*的作曲家Mikko Tarmia现在投身到Wolfire即将推出的新游戏*Overgrowth* 中 。Wolfire最近还与未知世界娱乐合作，给他们安排一份关于*自然选择2* 的收藏包。 \[11\]移植*Lugaru* 到Linux平台的瑞安 C.戈登 ，也负责向Linux移植*安琪拉* 。同这些独立软件开发商以及罗恩·卡梅尔和 2D Boy的亲密关系，罗森能够协商组成收藏包，利用并由贝宝、亚马逊支付、谷歌Checkout销售系统，以最小的成本，来进行交易和配送\[12\]该网站之后也添加了一些选项，允许通过比特币进行支付。 \[13\]\[14\]
 
-尽管实现这一目标口碑的关键因素是每个包的质量，但罗森也承认，购买收藏包的过程必须简单，因为过于复杂的注册和下载客户端会减少客户的需求购买量。
-\[15\]罗森也在联系各个慈善机构，使买家能够选择如何分配开发商和慈善机构之间的资金。罗森认为，Child's
-Play所追求的为住院儿童提供电子游戏是一个有价值的事业，而他选择电子前沿基金会，是以支持他们的反DRM的立场。
-\[16\]关于“付你想要的价钱”让买家只需把钱交给慈善机构，但罗森认为这不是一个问题，“而是”一个成功的销售方法。
-\[17\]罗森和Wolfire雇员约翰·格雷厄姆在销售提供时技术支持，通过几个通宵电子邮件和聊天会话处理数以千计的请求。
-\[18\]
+尽管实现这一目标口碑的关键因素是每个包的质量，但罗森也承认，购买收藏包的过程必须简单，因为过于复杂的注册和下载客户端会减少客户的需求购买量。 \[15\]罗森也在联系各个慈善机构，使买家能够选择如何分配开发商和慈善机构之间的资金。罗森认为，Child's Play所追求的为住院儿童提供电子游戏是一个有价值的事业，而他选择电子前沿基金会，是以支持他们的反DRM的立场。 \[16\]关于“付你想要的价钱”让买家只需把钱交给慈善机构，但罗森认为这不是一个问题，“而是”一个成功的销售方法。 \[17\]罗森和Wolfire雇员约翰·格雷厄姆在销售提供时技术支持，通过几个通宵电子邮件和聊天会话处理数以千计的请求。 \[18\]
 
-在2011年4月，它宣布， 红杉资本投资创投投资470万美元到Humble Bundle。 \[19\]本基金约10名员工监督Humble
-Bundle创建一个专门的团队，他们的工作与开发商确定游戏的调度和可用性，并作出决定每包游戏，“​​这将使玩家兴奋”--当前雇员之一理查德埃斯格拉。
-\[20\]通常开发人员能够创建收藏包并安排在一个月内进入销售。Humble
-Bundle公司赚取约15％的募集资金总额，这可以为网站支付带宽费用，开发新的功能。
-\[21\]
+在2011年4月，它宣布， 红杉资本投资创投投资470万美元到Humble Bundle。 \[19\]本基金约10名员工监督Humble Bundle创建一个专门的团队，他们的工作与开发商确定游戏的调度和可用性，并作出决定每包游戏，“​​这将使玩家兴奋”--当前雇员之一理查德埃斯格拉。 \[20\]通常开发人员能够创建收藏包并安排在一个月内进入销售。Humble Bundle公司赚取约15％的募集资金总额，这可以为网站支付带宽费用，开发新的功能。 \[21\]
 
 ### Humble商店
 
-Humble 商店是Humble
-Bundle项目的延伸。它提供了并创造了作为替代市场的独立软件开发商的各种包的支付和客户服务能力。根据Joshua
-Knoles的 Humble
-Bendle团队，他们“想创造的东西，将允许开发人员可以很容易地通过自己的网站销售他们的游戏，以及提供方便的支付方式给买家”。
-\[22\]一旦开发人员与Humble Bundle签署协议，Humble
-Bundle就会给他们一个小工具，可以放在在其网站上，它允许用户购买游戏（Humble
-商店通常是无法访问的，除非有特定的游戏在销售）。在某些情况下，如*[FTL: Faster Than
-Light](https://zh.wikipedia.org/wiki/FTL:_Faster_Than_Light "wikilink")*
-和*Sportsfriends，* 开发商用Humble商店，在他们的购买者中，如Kickstarter网站，提供奖励。
-\[23\]至于这些收藏包，一旦购买，买方可以任何时候从商店下载和使用。Ben Kuchera的“Penny
-Arcade Reports”比较了Humble Store 作为一个潜在的竞争对手如Steam
-，比这些更大的系统提供了更加人性化的开发和客户服务水平。
-\[24\]
+Humble 商店是Humble Bundle项目的延伸。它提供了并创造了作为替代市场的独立软件开发商的各种包的支付和客户服务能力。根据Joshua Knoles的 Humble Bendle团队，他们“想创造的东西，将允许开发人员可以很容易地通过自己的网站销售他们的游戏，以及提供方便的支付方式给买家”。 \[22\]一旦开发人员与Humble Bundle签署协议，Humble Bundle就会给他们一个小工具，可以放在在其网站上，它允许用户购买游戏（Humble 商店通常是无法访问的，除非有特定的游戏在销售）。在某些情况下，如*[FTL: Faster Than Light](https://zh.wikipedia.org/wiki/FTL:_Faster_Than_Light "wikilink")* 和*Sportsfriends，* 开发商用Humble商店，在他们的购买者中，如Kickstarter网站，提供奖励。 \[23\]至于这些收藏包，一旦购买，买方可以任何时候从商店下载和使用。Ben Kuchera的“Penny Arcade Reports”比较了Humble Store 作为一个潜在的竞争对手如Steam ，比这些更大的系统提供了更加人性化的开发和客户服务水平。 \[24\]
 
 ### Humble每周特惠
 
-Humble Android 5结束后的2013年3月，该网站公布新的每周特惠形式，付你想付的价钱，来购买游戏*堡垒*
-。跟正规包相同，每个星期的销售均有4个支付选项。持续第一个星期，基于一个单一的主题（通常是特定的开发的游戏）来销售，销售方式与正统包完全一样。
-\[25\]
+Humble Android 5结束后的2013年3月，该网站公布新的每周特惠形式，付你想付的价钱，来购买游戏*堡垒* 。跟正规包相同，每个星期的销售均有4个支付选项。持续第一个星期，基于一个单一的主题（通常是特定的开发的游戏）来销售，销售方式与正统包完全一样。 \[25\]
 
 ## 提供的游戏名单
 
@@ -1138,12 +1095,7 @@ Humble Android 5结束后的2013年3月，该网站公布新的每周特惠形�
 
   - [官方Humble Bundle网站](http://www.humblebundle.com)
 
-[Category:慈善活动](https://zh.wikipedia.org/wiki/Category:慈善活动 "wikilink")
-[Category:独立游戏](https://zh.wikipedia.org/wiki/Category:独立游戏 "wikilink")
-[Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:2010年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2010年加利福尼亞州建立 "wikilink")
-[Category:电子商务](https://zh.wikipedia.org/wiki/Category:电子商务 "wikilink")
+[Category:慈善活动](https://zh.wikipedia.org/wiki/Category:慈善活动 "wikilink") [Category:独立游戏](https://zh.wikipedia.org/wiki/Category:独立游戏 "wikilink") [Category:Linux游戏](https://zh.wikipedia.org/wiki/Category:Linux游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:2010年加利福尼亞州建立](https://zh.wikipedia.org/wiki/Category:2010年加利福尼亞州建立 "wikilink") [Category:电子商务](https://zh.wikipedia.org/wiki/Category:电子商务 "wikilink")
 
 1.
 

@@ -147,12 +147,10 @@
   - 製片：林洋輔、加藤隼輔、比嘉一郎
   - 編劇：[江良至](https://zh.wikipedia.org/wiki/江良至 "wikilink")、[藤平久子](https://zh.wikipedia.org/wiki/藤平久子 "wikilink")、[梅田壽美子](https://zh.wikipedia.org/wiki/梅田壽美子 "wikilink")、[田口恵](https://zh.wikipedia.org/wiki/田口恵 "wikilink")、横山誠
   - 設定：田口恵
-  - 武術指導：横山誠（AAC
-    STUNTS）、[小池達朗](https://zh.wikipedia.org/wiki/小池達朗 "wikilink")
+  - 武術指導：横山誠（AAC STUNTS）、[小池達朗](https://zh.wikipedia.org/wiki/小池達朗 "wikilink")
   - 特效製作／電腦動畫：OMNIBUS JAPAN
   - 音樂製作人：[井上俊次](https://zh.wikipedia.org/wiki/井上俊次 "wikilink")
-  - 攝製：[東北新社](https://zh.wikipedia.org/wiki/東北新社 "wikilink")、OMNIBUS
-    JAPAN
+  - 攝製：[東北新社](https://zh.wikipedia.org/wiki/東北新社 "wikilink")、OMNIBUS JAPAN
   - 製作：東北新社
 
 ## 主題曲
@@ -405,18 +403,13 @@
 
 ## 參考資料
 
-  - [牙狼＜GARO＞新章『闇を照らす者』記者会見！主題歌にJAM
-    Project](http://news.nicovideo.jp/watch/nw531251)
+  - [牙狼＜GARO＞新章『闇を照らす者』記者会見！主題歌にJAM Project](http://news.nicovideo.jp/watch/nw531251)
   - [「牙狼＜GARO＞～闇を照らす者～」製作発表会見レポート](http://www.enterjam.com/?eid=6701)
-  - [Garo Gets 3 New Live-Action Films & Show, New TV Anime & Film,
-    Stage
-    Musical](http://www.animenewsnetwork.com/news/2014-11-23/garo-gets-3-new-live-action-films-and-show-new-tv-anime-and-film-stage-musical/.81355)
+  - [Garo Gets 3 New Live-Action Films & Show, New TV Anime & Film, Stage Musical](http://www.animenewsnetwork.com/news/2014-11-23/garo-gets-3-new-live-action-films-and-show-new-tv-anime-and-film-stage-musical/.81355)
 
 ## 外部連結
 
   - [《牙狼〈GARO〉～照亮黑暗的人～》官方網站](http://garo-project.jp/TV3/)
   - [東京電視台《牙狼〈GARO〉～照亮黑暗的人～》節目情報網頁](http://www.tv-tokyo.co.jp/anime/garo-yami/)
 
-[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink")
-[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink")
-[Category:反烏托邦作品](https://zh.wikipedia.org/wiki/Category:反烏托邦作品 "wikilink")
+[Category:牙狼〈GARO〉](https://zh.wikipedia.org/wiki/Category:牙狼〈GARO〉 "wikilink") [Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink") [Category:反烏托邦作品](https://zh.wikipedia.org/wiki/Category:反烏托邦作品 "wikilink")

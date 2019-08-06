@@ -1,12 +1,8 @@
-**丹尼爾PAW-20“Neopup”**（PAW，全稱：，意為：個人突擊武器；20，[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")）是一款由[南非槍械設計師](https://zh.wikipedia.org/wiki/南非 "wikilink")[托尼·尼奧菲圖](https://zh.wikipedia.org/wiki/托尼·尼奧菲圖 "wikilink")（Tony
-Neophytou）研製、槍械公司[Gemaco
-Elbree有限公司生產以及](https://zh.wikipedia.org/wiki/Gemaco_Elbree有限公司 "wikilink")[丹尼爾公司銷售的](https://zh.wikipedia.org/wiki/丹尼爾公司 "wikilink")[半自動](https://zh.wikipedia.org/wiki/榴弹发射器#半自动榴弹发射器 "wikilink")[肩射型](https://zh.wikipedia.org/wiki/榴彈發射器#肩射型 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，發射專屬的[20×42毫米榴彈](https://zh.wikipedia.org/wiki/#20×42毫米榴彈 "wikilink")。
+**丹尼爾PAW-20“Neopup”**（PAW，全稱：，意為：個人突擊武器；20，[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")）是一款由[南非槍械設計師](https://zh.wikipedia.org/wiki/南非 "wikilink")[托尼·尼奧菲圖](https://zh.wikipedia.org/wiki/托尼·尼奧菲圖 "wikilink")（Tony Neophytou）研製、槍械公司[Gemaco Elbree有限公司生產以及](https://zh.wikipedia.org/wiki/Gemaco_Elbree有限公司 "wikilink")[丹尼爾公司銷售的](https://zh.wikipedia.org/wiki/丹尼爾公司 "wikilink")[半自動](https://zh.wikipedia.org/wiki/榴弹发射器#半自动榴弹发射器 "wikilink")[肩射型](https://zh.wikipedia.org/wiki/榴彈發射器#肩射型 "wikilink")[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")，發射專屬的[20×42毫米榴彈](https://zh.wikipedia.org/wiki/#20×42毫米榴彈 "wikilink")。
 
 ## 概述
 
-PAW-20是一種手持式半自動榴彈發射器，發射一種20毫米的點引爆榴彈。它的傳統型可拆卸式盒形[彈匣](../Page/彈匣.md "wikilink")具有多達7
-發的容量，現已改以6發可拆卸式鼓形旋轉彈匣供彈；其有效射程達到600—1,000公尺（656.17—1,093.61码，1,968.5—3,280.84英尺）。它的設計主要作為一枝用以針對緊密地聯繫在一起的敵軍或殺傷簡易、輕覆蓋物後方的人員榴彈發射器。然而，它也可與[非致命性彈藥兼容](../Page/非致命性武器.md "wikilink")。PAW-20可與更複雜和昂貴、美德聯合研製的[XM25
-CDTE作直接競爭](../Page/XM25反防禦目標應對系統.md "wikilink")。
+PAW-20是一種手持式半自動榴彈發射器，發射一種20毫米的點引爆榴彈。它的傳統型可拆卸式盒形[彈匣](../Page/彈匣.md "wikilink")具有多達7 發的容量，現已改以6發可拆卸式鼓形旋轉彈匣供彈；其有效射程達到600—1,000公尺（656.17—1,093.61码，1,968.5—3,280.84英尺）。它的設計主要作為一枝用以針對緊密地聯繫在一起的敵軍或殺傷簡易、輕覆蓋物後方的人員榴彈發射器。然而，它也可與[非致命性彈藥兼容](../Page/非致命性武器.md "wikilink")。PAW-20可與更複雜和昂貴、美德聯合研製的[XM25 CDTE作直接競爭](../Page/XM25反防禦目標應對系統.md "wikilink")。
 
 由於[拋殼口的位置是在武器左側](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")，PAW-20已經引來了一些批評，但這些指控基本上都被證明是錯誤的，因為在從左手射擊時，發射過後的彈殼被拋出時亦不會比傳統[突擊步枪更靠近操作者的面部](https://zh.wikipedia.org/wiki/突擊步枪 "wikilink")。由於武器的設於上右側這個獨特位置，它可讓右手的操作者只需將[槍托](../Page/槍托.md "wikilink")底板置於左肩，即可從左肩射擊，而無換手的必要。
 
@@ -20,17 +16,12 @@ CDTE作直接競爭](../Page/XM25反防禦目標應對系統.md "wikilink")。
 
 ### [电影](../Page/电影.md "wikilink")
 
-  - 2009年—《[-{zh-cn:第九区; zh-tw:第九禁區;
-    zh-hk:D-9異形禁區;}-](../Page/第九区.md "wikilink")》：被[私人軍事公司](https://zh.wikipedia.org/wiki/私人軍事公司 "wikilink")[僱傭兵](../Page/僱傭兵.md "wikilink")固斯特·文特爾（Koobus
-    Venter，[大衛·詹姆斯飾演](https://zh.wikipedia.org/wiki/大衛·詹姆斯_\(南非演員\) "wikilink")）所使用。
+  - 2009年—《[-{zh-cn:第九区; zh-tw:第九禁區; zh-hk:D-9異形禁區;}-](../Page/第九区.md "wikilink")》：被[私人軍事公司](https://zh.wikipedia.org/wiki/私人軍事公司 "wikilink")[僱傭兵](../Page/僱傭兵.md "wikilink")固斯特·文特爾（Koobus Venter，[大衛·詹姆斯飾演](https://zh.wikipedia.org/wiki/大衛·詹姆斯_\(南非演員\) "wikilink")）所使用。
   - 2015年—《[-{zh-tw:成人世界;zh-cn:超能查派;zh-hk:超人類：卓比;}-](https://zh.wikipedia.org/wiki/成人世界 "wikilink")》：鮮豔的粉紅色槍身，被尤蘭蒂（Yolandi，[尤蘭蒂·維瑟](../Page/尤蘭蒂·維瑟.md "wikilink")飾演）和卓比（CHAPPiE，[沙托·科普利](../Page/沙托·科普利.md "wikilink")配音及動作捕捉）所使用。
 
 ### [电子游戏](../Page/电子游戏.md "wikilink")
 
-  - 2013年—《[-{zh-cn:反恐精英Online 2; zh-tw:絕對武力2 Online; zh-hk:絕對武力2
-    Online; zh-sg:絕對武力2
-    Online;}-](https://zh.wikipedia.org/wiki/絕對武力2_Online "wikilink")》（Counter
-    Strike Online 2）：韓國、台灣、香港和中國大陸版2016年8月4日時同時推出。裝上，命名為「PAW-20」。
+  - 2013年—《[-{zh-cn:反恐精英Online 2; zh-tw:絕對武力2 Online; zh-hk:絕對武力2 Online; zh-sg:絕對武力2 Online;}-](https://zh.wikipedia.org/wiki/絕對武力2_Online "wikilink")》（Counter Strike Online 2）：韓國、台灣、香港和中國大陸版2016年8月4日時同時推出。裝上，命名為「PAW-20」。
 
 ## 參見
 
@@ -52,33 +43,22 @@ CDTE作直接競爭](../Page/XM25反防禦目標應對系統.md "wikilink")。
 
 ## 外部連結
 
-  - —[Modern Firearms—DENEL PAW-20 "Neopup" handheld grenade
-    launcher](http://world.guns.ru/grenade/safr/paw-20-neopup-e.html)
+  - —[Modern Firearms—DENEL PAW-20 "Neopup" handheld grenade launcher](http://world.guns.ru/grenade/safr/paw-20-neopup-e.html)
 
-  - —[Weapon.ge—PAW-20
-    "Neopup"](http://georgians.weapon.ge/index.php?sel=1&id=293&man=&coun=26&cat=&l=en)
+  - —[Weapon.ge—PAW-20 "Neopup"](http://georgians.weapon.ge/index.php?sel=1&id=293&man=&coun=26&cat=&l=en)
 
   - —The Firearm Blog.com—
 
-      - [INKUNZI
-        PAW](http://www.thefirearmblog.com/blog/2015/09/21/inkunzi-paw/)
-      - [The Neopup Is Back, And In
-        Production](http://www.thefirearmblog.com/blog/2015/10/29/the-neopup-is-back-and-in-production/)
-      - [PMP Developing FULLY AUTO Variant of PAW 20mm
-        Weapon](http://www.thefirearmblog.com/blog/2016/06/07/pmp-developing-fully-auto-variant-paw-20mm-weapon/)
+      - [INKUNZI PAW](http://www.thefirearmblog.com/blog/2015/09/21/inkunzi-paw/)
+      - [The Neopup Is Back, And In Production](http://www.thefirearmblog.com/blog/2015/10/29/the-neopup-is-back-and-in-production/)
+      - [PMP Developing FULLY AUTO Variant of PAW 20mm Weapon](http://www.thefirearmblog.com/blog/2016/06/07/pmp-developing-fully-auto-variant-paw-20mm-weapon/)
 
-  - —[Military, Security and Civilian Guns and Equipment—Denel PAW-20
-    Neopup - Semi-Automatic Grenade
-    Launcher](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=352)
+  - —[Military, Security and Civilian Guns and Equipment—Denel PAW-20 Neopup - Semi-Automatic Grenade Launcher](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=352)
 
-  - —[Soldier Systems Daily—DSEI - iNKUNZI
-    PAW](http://soldiersystems.net/2015/09/18/dsei-inkunzi-paw)
+  - —[Soldier Systems Daily—DSEI - iNKUNZI PAW](http://soldiersystems.net/2015/09/18/dsei-inkunzi-paw)
 
   - —
 
-  - —[D Boy Gun World（槍炮世界）—PAW-20
-    "Neopup"](http://firearmsworld.net/safrica/paw20/paw20.htm)
+  - —[D Boy Gun World（槍炮世界）—PAW-20 "Neopup"](http://firearmsworld.net/safrica/paw20/paw20.htm)
 
-[Category:20毫米口径武器](https://zh.wikipedia.org/wiki/Category:20毫米口径武器 "wikilink")
-[Category:半自動榴彈發射器](https://zh.wikipedia.org/wiki/Category:半自動榴彈發射器 "wikilink")
-[Category:南非槍械](https://zh.wikipedia.org/wiki/Category:南非槍械 "wikilink")
+[Category:20毫米口径武器](https://zh.wikipedia.org/wiki/Category:20毫米口径武器 "wikilink") [Category:半自動榴彈發射器](https://zh.wikipedia.org/wiki/Category:半自動榴彈發射器 "wikilink") [Category:南非槍械](https://zh.wikipedia.org/wiki/Category:南非槍械 "wikilink")

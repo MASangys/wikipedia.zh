@@ -1,5 +1,4 @@
-《**GATE
-奇幻自衛隊**》（，中文直譯為：**门：自卫队在彼之地如此战斗**）是由日本小说家[柳內巧](../Page/柳內巧.md "wikilink")编写的[奇幻小说](https://zh.wikipedia.org/wiki/奇幻小说 "wikilink")。續作《GATE第二季：自衛隊在彼之海如此戰鬥》（）連載中。截至2018年4月全系列已售賣了445萬本。
+《**GATE 奇幻自衛隊**》（，中文直譯為：**门：自卫队在彼之地如此战斗**）是由日本小说家[柳內巧](../Page/柳內巧.md "wikilink")编写的[奇幻小说](https://zh.wikipedia.org/wiki/奇幻小说 "wikilink")。續作《GATE第二季：自衛隊在彼之海如此戰鬥》（）連載中。截至2018年4月全系列已售賣了445萬本。
 
 ## 劇情簡介
 
@@ -52,8 +51,7 @@
 <!-- end list -->
 
   - 銀座事件
-    20XX年8月門突然出現於銀座，從門中出現像中世紀騎兵等的軍隊，於銀座展開大規模屠殺，事件中導致大量日本民眾的嚴重傷亡和失踪。小說與漫畫版中,
-    自衛隊於事件後五日開始反攻入門內，並於第七天全面確保阿爾努斯週邊的控制權。動畫版於銀座事件後三個月，才開始向特地派兵，並且駐守於門的兩邊。
+    20XX年8月門突然出現於銀座，從門中出現像中世紀騎兵等的軍隊，於銀座展開大規模屠殺，事件中導致大量日本民眾的嚴重傷亡和失踪。小說與漫畫版中, 自衛隊於事件後五日開始反攻入門內，並於第七天全面確保阿爾努斯週邊的控制權。動畫版於銀座事件後三個月，才開始向特地派兵，並且駐守於門的兩邊。
 
 <!-- end list -->
 
@@ -111,8 +109,7 @@
 
 ### 自衛隊
 
-由於新式步槍（89式步槍）口徑[5.56對於盾牌穿透力不夠](../Page/5.56×45mm_NATO.md "wikilink")，也無法射殺大型獸人，所以大部份自衛隊員裝備口徑[7.62的](../Page/7.62×51mm_NATO.md "wikilink")64式步槍（除[空降部隊主要裝備](../Page/陸上自衛隊第1空降團.md "wikilink")89式步槍）
-同時因為有可能會有拋下裝備撤退回到日本的疑慮，自衛隊主要使用的車輛裝備多為冷戰時期的產物。
+由於新式步槍（89式步槍）口徑[5.56對於盾牌穿透力不夠](../Page/5.56×45mm_NATO.md "wikilink")，也無法射殺大型獸人，所以大部份自衛隊員裝備口徑[7.62的](../Page/7.62×51mm_NATO.md "wikilink")64式步槍（除[空降部隊主要裝備](../Page/陸上自衛隊第1空降團.md "wikilink")89式步槍） 同時因為有可能會有拋下裝備撤退回到日本的疑慮，自衛隊主要使用的車輛裝備多為冷戰時期的產物。
 
   - ;*服裝裝備*
 
@@ -145,11 +142,9 @@
   - [21.5mm信號槍](https://zh.wikipedia.org/wiki/信號槍 "wikilink")
   - [PMM手槍](../Page/馬卡洛夫手槍.md "wikilink")（於小說、漫畫版及動畫版第10話被伊丹一行人所繳獲）
   - [PB消音手槍](../Page/PB消音手槍.md "wikilink")（於漫畫版第23話被伊丹一行人所繳獲）
-  - [FN Five-seveN
-    Mk2](../Page/FN_Five-seveN手槍.md "wikilink")（於漫畫版第23話被伊丹一行人所繳獲）
+  - [FN Five-seveN Mk2](../Page/FN_Five-seveN手槍.md "wikilink")（於漫畫版第23話被伊丹一行人所繳獲）
   - [春田XDM](../Page/春田XDM手槍.md "wikilink")（於漫畫版第23話被伊丹一行人所繳獲）
-  - [貝瑞塔BU9
-    Nano](../Page/貝瑞塔BU9_Nano手槍.md "wikilink")（於漫畫版第23話被伊丹一行人所繳獲，於第32話再度登場）
+  - [貝瑞塔BU9 Nano](../Page/貝瑞塔BU9_Nano手槍.md "wikilink")（於漫畫版第23話被伊丹一行人所繳獲，於第32話再度登場）
 
 <!-- end list -->
 
@@ -157,8 +152,7 @@
 
 <!-- end list -->
 
-  - [Kel-Tec
-    KSG](../Page/Kel-Tec_KSG泵動式霰彈槍.md "wikilink")（於漫畫版第32話被特殊作戰群隊員所使用）
+  - [Kel-Tec KSG](../Page/Kel-Tec_KSG泵動式霰彈槍.md "wikilink")（於漫畫版第32話被特殊作戰群隊員所使用）
   - 水平排列式[雙管霰彈槍](../Page/雙管霰彈槍.md "wikilink")（外傳篇）
 
 <!-- end list -->
@@ -168,8 +162,7 @@
 <!-- end list -->
 
   - [B\&T MP9N](../Page/B&T_MP9戰術衝鋒槍.md "wikilink")（於漫畫版第23話被伊丹一行人所繳獲）
-  - [HK
-    MP7A2](https://zh.wikipedia.org/wiki/HK_MP7衝鋒槍 "wikilink")（於漫畫版第23話及動畫版第10話被伊丹一行人所繳獲，也於漫畫版第32話被特殊作戰群隊員所使用）
+  - [HK MP7A2](https://zh.wikipedia.org/wiki/HK_MP7衝鋒槍 "wikilink")（於漫畫版第23話及動畫版第10話被伊丹一行人所繳獲，也於漫畫版第32話被特殊作戰群隊員所使用）
   - [FN P90 TR](../Page/FN_P90衝鋒槍.md "wikilink")（於漫畫版第23話被伊丹一行人所繳獲）
 
 <!-- end list -->
@@ -184,8 +177,7 @@
   - [89式步槍連](https://zh.wikipedia.org/wiki/89式步槍 "wikilink")[多用途刺刀](../Page/刺刀.md "wikilink")（漫畫版）
   - [M4A1](../Page/M4卡賓槍.md "wikilink")（被[特殊作戰群所使用](../Page/陸上自衛隊特殊作戰群.md "wikilink")）
   - [HK416A5](../Page/HK416突擊步槍.md "wikilink")（被[特殊作戰群所使用](../Page/陸上自衛隊特殊作戰群.md "wikilink")）
-  - [KAC
-    PDW](https://zh.wikipedia.org/wiki/KAC_PDW突擊步槍 "wikilink")（於漫畫版第23話被伊丹一行人所繳獲）
+  - [KAC PDW](https://zh.wikipedia.org/wiki/KAC_PDW突擊步槍 "wikilink")（於漫畫版第23話被伊丹一行人所繳獲）
   - [馬格普PDR](../Page/馬格普PDR卡賓槍.md "wikilink")（於漫畫版第23話被伊丹一行人所繳獲，於第32話再度登場）
 
 <!-- end list -->
@@ -475,8 +467,7 @@
 
   - [PMM手槍](../Page/馬卡洛夫手槍.md "wikilink")（於小說及動畫版第10話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")）
   - [PB消音手槍](../Page/PB消音手槍.md "wikilink")
-  - [SIG
-    P239](../Page/SIG_P239手槍.md "wikilink")（於小說版被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員海德格爾所使用](../Page/中央情報局特別行動科.md "wikilink")）
+  - [SIG P239](../Page/SIG_P239手槍.md "wikilink")（於小說版被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員海德格爾所使用](../Page/中央情報局特別行動科.md "wikilink")）
   - [FN Five-seveN Mk2](../Page/FN_Five-seveN手槍.md "wikilink")
   - [春田XDM](../Page/春田XDM手槍.md "wikilink")（於漫畫版第22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")）
   - [貝瑞塔BU9 Nano](../Page/貝瑞塔BU9_Nano手槍.md "wikilink")
@@ -487,8 +478,7 @@
 
 <!-- end list -->
 
-  - [Kel-Tec
-    KSG](../Page/Kel-Tec_KSG泵動式霰彈槍.md "wikilink")（於漫畫版第22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")）
+  - [Kel-Tec KSG](../Page/Kel-Tec_KSG泵動式霰彈槍.md "wikilink")（於漫畫版第22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")）
 
 <!-- end list -->
 
@@ -496,22 +486,15 @@
 
 <!-- end list -->
 
-  - [HK
-    MP5SD3](https://zh.wikipedia.org/wiki/HK_MP5衝鋒槍 "wikilink")（於小說版被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")）
-  - [B\&T
-    APC9](../Page/B&T_APC衝鋒槍.md "wikilink")（於漫畫版第21話被[俄羅斯對外情報局](https://zh.wikipedia.org/wiki/俄羅斯對外情報局 "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
-  - [B\&T
-    MP9](../Page/B&T_MP9戰術衝鋒槍.md "wikilink")（於漫畫版第22話被[俄羅斯對外情報局](https://zh.wikipedia.org/wiki/俄羅斯對外情報局 "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
-  - [HK
-    MP7A2](https://zh.wikipedia.org/wiki/HK_MP7衝鋒槍 "wikilink")（於漫畫版第22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")，動畫版第10話由[俄羅斯對外情報局](https://zh.wikipedia.org/wiki/俄羅斯對外情報局 "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
-  - [FN P90
-    TR](../Page/FN_P90衝鋒槍.md "wikilink")（於漫畫版第21、22話被[俄羅斯對外情報局](https://zh.wikipedia.org/wiki/俄羅斯對外情報局 "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
+  - [HK MP5SD3](https://zh.wikipedia.org/wiki/HK_MP5衝鋒槍 "wikilink")（於小說版被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")）
+  - [B\&T APC9](../Page/B&T_APC衝鋒槍.md "wikilink")（於漫畫版第21話被[俄羅斯對外情報局](https://zh.wikipedia.org/wiki/俄羅斯對外情報局 "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
+  - [B\&T MP9](../Page/B&T_MP9戰術衝鋒槍.md "wikilink")（於漫畫版第22話被[俄羅斯對外情報局](https://zh.wikipedia.org/wiki/俄羅斯對外情報局 "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
+  - [HK MP7A2](https://zh.wikipedia.org/wiki/HK_MP7衝鋒槍 "wikilink")（於漫畫版第22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")，動畫版第10話由[俄羅斯對外情報局](https://zh.wikipedia.org/wiki/俄羅斯對外情報局 "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
+  - [FN P90 TR](../Page/FN_P90衝鋒槍.md "wikilink")（於漫畫版第21、22話被[俄羅斯對外情報局](https://zh.wikipedia.org/wiki/俄羅斯對外情報局 "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
   - [vz.82](https://zh.wikipedia.org/wiki/Vz.61蠍式衝鋒槍 "wikilink")（於動畫版第10話被[中國國安局](../Page/中华人民共和国国家安全部.md "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
   - [卡爾·古斯塔夫M/45](https://zh.wikipedia.org/wiki/卡爾·古斯塔夫M/45衝鋒槍 "wikilink")（於漫畫版第22話被[中國國安局](../Page/中华人民共和国国家安全部.md "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
-  - [KRISS Vector
-    K10](../Page/KRISS_Vector衝鋒槍.md "wikilink")（於漫畫版第22話被[中國國安局](../Page/中华人民共和国国家安全部.md "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
-  - [HK MP5K
-    PDW](https://zh.wikipedia.org/wiki/HK_MP5衝鋒槍 "wikilink")（於漫畫版第22話被[中國國安局](../Page/中华人民共和国国家安全部.md "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
+  - [KRISS Vector K10](../Page/KRISS_Vector衝鋒槍.md "wikilink")（於漫畫版第22話被[中國國安局](../Page/中华人民共和国国家安全部.md "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
+  - [HK MP5K PDW](https://zh.wikipedia.org/wiki/HK_MP5衝鋒槍 "wikilink")（於漫畫版第22話被[中國國安局](../Page/中华人民共和国国家安全部.md "wikilink")[特工所使用](https://zh.wikipedia.org/wiki/特工 "wikilink")）
 
 <!-- end list -->
 
@@ -519,8 +502,7 @@
 
 <!-- end list -->
 
-  - [KAC
-    PDW](https://zh.wikipedia.org/wiki/KAC_PDW突擊步槍 "wikilink")（於漫畫版第21、22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")）
+  - [KAC PDW](https://zh.wikipedia.org/wiki/KAC_PDW突擊步槍 "wikilink")（於漫畫版第21、22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")）
   - [馬格普PDR](../Page/馬格普PDR卡賓槍.md "wikilink")（於漫畫版第21、22話被[中央情報局](https://zh.wikipedia.org/wiki/中央情報局 "wikilink")[準軍事小隊人員所使用](../Page/中央情報局特別行動科.md "wikilink")）
 
 ## 出版書籍
@@ -783,8 +765,7 @@
 
 ## 電視動畫
 
-第一期在2015年7月4日於[TOKYO
-MX播出](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")，全12話。第二期於2016年1月8日播出，全12話。
+第一期在2015年7月4日於[TOKYO MX播出](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")，全12話。第二期於2016年1月8日播出，全12話。
 
 ### 製作人員
 
@@ -812,8 +793,7 @@ MX播出](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")，全12話。第二
   - 動畫製作人：清田穣二
   - 製片：[GENCO](../Page/GENCO.md "wikilink")
   - 動畫製作：[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")
-  - 製作：
-    門製作委員會（日本華納兄弟娛樂、AlphaPolis、[萬代南夢宮娛樂](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")、、、[GENCO](../Page/GENCO.md "wikilink")）
+  - 製作： 門製作委員會（日本華納兄弟娛樂、AlphaPolis、[萬代南夢宮娛樂](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")、、、[GENCO](../Page/GENCO.md "wikilink")）
 
 ### 主題曲
 
@@ -1182,8 +1162,7 @@ MX播出](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")，全12話。第二
 
 ## 外部連結
 
-  - [自衛隊 彼の地にて、斯く戦えり
-    (Arcadia)](http://www.mai-net.net/bbs/sst/sst.php?act=dump&cate=original&all=1507&n=0&count=1)
+  - [自衛隊 彼の地にて、斯く戦えり (Arcadia)](http://www.mai-net.net/bbs/sst/sst.php?act=dump&cate=original&all=1507&n=0&count=1)
 
   - [アルファポリスの著者情報（柳内たくみ）](http://www.alphapolis.co.jp/book_author_profile.php?a_id=10082)
 
@@ -1195,11 +1174,6 @@ MX播出](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")，全12話。第二
 
   - [電視動畫《奇幻自衛隊》官方網站](http://www.gate-anime.com/)
 
-[Category:日本奇幻小說](https://zh.wikipedia.org/wiki/Category:日本奇幻小說 "wikilink")
-[Category:小說改編動畫](https://zh.wikipedia.org/wiki/Category:小說改編動畫 "wikilink")
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
-[Category:日本自衛隊題材作品](https://zh.wikipedia.org/wiki/Category:日本自衛隊題材作品 "wikilink")
-[Category:AlphaPolis](https://zh.wikipedia.org/wiki/Category:AlphaPolis "wikilink")
-[Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
+[Category:日本奇幻小說](https://zh.wikipedia.org/wiki/Category:日本奇幻小說 "wikilink") [Category:小說改編動畫](https://zh.wikipedia.org/wiki/Category:小說改編動畫 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:日本自衛隊題材作品](https://zh.wikipedia.org/wiki/Category:日本自衛隊題材作品 "wikilink") [Category:AlphaPolis](https://zh.wikipedia.org/wiki/Category:AlphaPolis "wikilink") [Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
 
 1.

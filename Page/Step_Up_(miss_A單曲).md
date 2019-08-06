@@ -1,6 +1,4 @@
-《**Step
-Up**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[miss
-A第二張單曲專輯](https://zh.wikipedia.org/wiki/miss_A "wikilink")。[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，2010年9月27日由[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")。〈Breathe〉為專輯主打歌曲。
+《**Step Up**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[miss A第二張單曲專輯](https://zh.wikipedia.org/wiki/miss_A "wikilink")。[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，2010年9月27日由[LOEN娛樂發行](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")。〈Breathe〉為專輯主打歌曲。
 
 ## 曲目
 
@@ -46,8 +44,7 @@ A第二張單曲專輯](https://zh.wikipedia.org/wiki/miss_A "wikilink")。[JYP�
 
 ## 參考資料
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:miss_A音樂專輯](https://zh.wikipedia.org/wiki/Category:miss_A音樂專輯 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:miss_A音樂專輯](https://zh.wikipedia.org/wiki/Category:miss_A音樂專輯 "wikilink")
 
 1.
 2.

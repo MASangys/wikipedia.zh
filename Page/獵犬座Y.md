@@ -1,14 +1,10 @@
-**La Superba**，即**獵犬座Y**（Y CVn, Y Canum
-Venaticorum），是一顆位於[獵犬座的恆星](https://zh.wikipedia.org/wiki/獵犬座 "wikilink")，因為外表極為偏紅色而聞名。
+**La Superba**，即**獵犬座Y**（Y CVn, Y Canum Venaticorum），是一顆位於[獵犬座的恆星](https://zh.wikipedia.org/wiki/獵犬座 "wikilink")，因為外表極為偏紅色而聞名。
 
 ## 恆星狀態
 
-獵犬座Y是一顆在視星等+4.8到+6.3之間變化的[半規則變星](https://zh.wikipedia.org/wiki/半規則變星 "wikilink")，週期超過160日。它是目前已知恆星中色澤最偏紅色的恆星之一，也是光度最高的其中一顆[紅巨星](../Page/紅巨星.md "wikilink")[碳星](../Page/碳星.md "wikilink")。獵犬座Y是夜空中光度最高的光譜
-J
-型碳星，這一型的碳星相當罕見，含有大量的[碳-13](../Page/碳-13.md "wikilink")同位素。19世紀的天文學家[安吉洛·西奇](../Page/安吉洛·西奇.md "wikilink")對它的美麗印象深刻，因此將該恆星視同亮星給與固有名稱\[1\]。
+獵犬座Y是一顆在視星等+4.8到+6.3之間變化的[半規則變星](https://zh.wikipedia.org/wiki/半規則變星 "wikilink")，週期超過160日。它是目前已知恆星中色澤最偏紅色的恆星之一，也是光度最高的其中一顆[紅巨星](../Page/紅巨星.md "wikilink")[碳星](../Page/碳星.md "wikilink")。獵犬座Y是夜空中光度最高的光譜 J 型碳星，這一型的碳星相當罕見，含有大量的[碳-13](../Page/碳-13.md "wikilink")同位素。19世紀的天文學家[安吉洛·西奇](../Page/安吉洛·西奇.md "wikilink")對它的美麗印象深刻，因此將該恆星視同亮星給與固有名稱\[1\]。
 
-獵犬座Y的表面溫度是2800
-[K](https://zh.wikipedia.org/wiki/熱力學溫標 "wikilink")，是目前已知溫度最低的[核融合體之一](https://zh.wikipedia.org/wiki/核融合體 "wikilink")。它因為大部分的電磁輻射不在可見光範圍內，難以被肉眼觀察。如果將紅外線輻射算入，它的光度是太陽的4400倍，半徑大約是2天文單位，超過火星軌道。
+獵犬座Y的表面溫度是2800 [K](https://zh.wikipedia.org/wiki/熱力學溫標 "wikilink")，是目前已知溫度最低的[核融合體之一](https://zh.wikipedia.org/wiki/核融合體 "wikilink")。它因為大部分的電磁輻射不在可見光範圍內，難以被肉眼觀察。如果將紅外線輻射算入，它的光度是太陽的4400倍，半徑大約是2天文單位，超過火星軌道。
 
 ## 外觀
 
@@ -24,20 +20,10 @@ J
 
 ## 外部連結
 
-  - [North Central Kansas Astronomical
-    Society](https://web.archive.org/web/20051025230148/http://www.nckas.org/carbonstars/)
-  - [Deepsky Top-100 (11): Y cnv (La
-    Superba)](http://www.backyard-astro.com/deepsky/top100/11.html)
+  - [North Central Kansas Astronomical Society](https://web.archive.org/web/20051025230148/http://www.nckas.org/carbonstars/)
+  - [Deepsky Top-100 (11): Y cnv (La Superba)](http://www.backyard-astro.com/deepsky/top100/11.html)
   - [La Superba](http://jumk.de/astronomie/big-stars/la-superba.shtml)
 
-[Category:半規則變星](https://zh.wikipedia.org/wiki/Category:半規則變星 "wikilink")
-[Category:獵犬座](https://zh.wikipedia.org/wiki/Category:獵犬座 "wikilink")
-[Category:C型恆星](https://zh.wikipedia.org/wiki/Category:C型恆星 "wikilink")
-[Category:有固有名的恆星](https://zh.wikipedia.org/wiki/Category:有固有名的恆星 "wikilink")
-[Category:HD和HDE天體](https://zh.wikipedia.org/wiki/Category:HD和HDE天體 "wikilink")
-[Category:HIP天體](https://zh.wikipedia.org/wiki/Category:HIP天體 "wikilink")
-[Category:HR天體](https://zh.wikipedia.org/wiki/Category:HR天體 "wikilink")
-[Category:SAO天體](https://zh.wikipedia.org/wiki/Category:SAO天體 "wikilink")
+[Category:半規則變星](https://zh.wikipedia.org/wiki/Category:半規則變星 "wikilink") [Category:獵犬座](https://zh.wikipedia.org/wiki/Category:獵犬座 "wikilink") [Category:C型恆星](https://zh.wikipedia.org/wiki/Category:C型恆星 "wikilink") [Category:有固有名的恆星](https://zh.wikipedia.org/wiki/Category:有固有名的恆星 "wikilink") [Category:HD和HDE天體](https://zh.wikipedia.org/wiki/Category:HD和HDE天體 "wikilink") [Category:HIP天體](https://zh.wikipedia.org/wiki/Category:HIP天體 "wikilink") [Category:HR天體](https://zh.wikipedia.org/wiki/Category:HR天體 "wikilink") [Category:SAO天體](https://zh.wikipedia.org/wiki/Category:SAO天體 "wikilink")
 
-1.  [Jim Kaler: La
-    Superba](http://www.astro.uiuc.edu/~kaler/sow/lasuperba.html)
+1.  [Jim Kaler: La Superba](http://www.astro.uiuc.edu/~kaler/sow/lasuperba.html)

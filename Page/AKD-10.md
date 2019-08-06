@@ -20,10 +20,7 @@ AKD-10采用固体火箭发动机，根据其出口型蓝箭-7数据显示：导
 
 ## 外部連結
 
-  - [中国公开展示武直十专用AKD10型空地导弹
-    新浪网](http://mil.news.sina.com.cn/p/2008-11-04/2230528557.html)
-  - [蓝箭-7空地导弹静态展示
-    新浪网](http://slide.mil.news.sina.com.cn/slide_8_3006_4274.html)
+  - [中国公开展示武直十专用AKD10型空地导弹 新浪网](http://mil.news.sina.com.cn/p/2008-11-04/2230528557.html)
+  - [蓝箭-7空地导弹静态展示 新浪网](http://slide.mil.news.sina.com.cn/slide_8_3006_4274.html)
 
-[Category:空對地飛彈](https://zh.wikipedia.org/wiki/Category:空對地飛彈 "wikilink")
-[Category:中华人民共和国导弹](https://zh.wikipedia.org/wiki/Category:中华人民共和国导弹 "wikilink")
+[Category:空對地飛彈](https://zh.wikipedia.org/wiki/Category:空對地飛彈 "wikilink") [Category:中华人民共和国导弹](https://zh.wikipedia.org/wiki/Category:中华人民共和国导弹 "wikilink")

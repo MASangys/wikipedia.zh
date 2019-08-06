@@ -6,8 +6,7 @@
 
 因為一段不該外流的影片，湘成為人肉搜索的主角，電腦工程師黃冠軍（[修杰楷](../Page/修杰楷.md "wikilink")飾）雖挺身而出為湘說話，要大家冷靜。但排山倒海而來的辱罵、一通接著一通無法辨識的來電號碼，她無法承受這一切且瀕臨崩潰邊緣。
 
-然而這整起事件幕後策畫者，疑似是湘的前男友King（顏正宇，[陳柏霖](../Page/陳柏霖.md "wikilink")飾）
-一手操控，King是網路世界中赫赫有名的駭客，只有他才能入侵BBS論壇最高指揮中心。King雖然曾經深愛著湘，但是湘的離去令他無法釋懷。藍苡晴一路追查下去，事實的真相越來越複雜，牽扯進來的人越來越多…
+然而這整起事件幕後策畫者，疑似是湘的前男友King（顏正宇，[陳柏霖](../Page/陳柏霖.md "wikilink")飾） 一手操控，King是網路世界中赫赫有名的駭客，只有他才能入侵BBS論壇最高指揮中心。King雖然曾經深愛著湘，但是湘的離去令他無法釋懷。藍苡晴一路追查下去，事實的真相越來越複雜，牽扯進來的人越來越多…
 
 ## 演員
 
@@ -159,16 +158,12 @@ Hero</p></td>
 ## 製作
 
   - 2009年 木偶人工作室的團隊寫出長片劇本：木偶人動畫電影版《BBS鄉民的正義》，隨即開始製作這部描述有趣亦有深度的網路論壇題材。
-  - [2009年12月](../Page/2009年12月.md "wikilink")
-    獲得[經濟部工業局數位內容補助計畫的援助](https://zh.wikipedia.org/wiki/中華民國經濟部 "wikilink")，木偶人動畫工作室如火如荼的製作這部由真人+3D動畫與實景合成的作品。\[5\]，開始展開一連串的製作。
+  - [2009年12月](../Page/2009年12月.md "wikilink") 獲得[經濟部工業局數位內容補助計畫的援助](https://zh.wikipedia.org/wiki/中華民國經濟部 "wikilink")，木偶人動畫工作室如火如荼的製作這部由真人+3D動畫與實景合成的作品。\[5\]，開始展開一連串的製作。
   - 2010年 龐大的3D動畫製作費用迫使團隊以當時完成的畫面剪接成前導短片。
-  - 2010年6月26日
-    前導片正式在[Youtube推出](https://zh.wikipedia.org/wiki/Youtube "wikilink")\[6\]，不到一個月，點閱人數突破50萬人。
-  - 2010年10月
-    木偶人工作室轉型為[星木映像股份有限公司](https://zh.wikipedia.org/wiki/星木映像股份有限公司 "wikilink")，為了完成電影，一邊接案一邊尋求各種補助機制。
+  - 2010年6月26日 前導片正式在[Youtube推出](https://zh.wikipedia.org/wiki/Youtube "wikilink")\[6\]，不到一個月，點閱人數突破50萬人。
+  - 2010年10月 木偶人工作室轉型為[星木映像股份有限公司](https://zh.wikipedia.org/wiki/星木映像股份有限公司 "wikilink")，為了完成電影，一邊接案一邊尋求各種補助機制。
   - 2010年年底 推出[BBS鄉民小劇場](../Page/木偶人_\(動畫\).md "wikilink")
-  - [2011年5月](../Page/2011年5月.md "wikilink")
-    BBS鄉民的正義前導短片突破百萬瀏覽人次，BBS鄉民小劇場突破三百萬人次。由聯華食品可樂果的贊助，而展開電影的正式製作
+  - [2011年5月](../Page/2011年5月.md "wikilink") BBS鄉民的正義前導短片突破百萬瀏覽人次，BBS鄉民小劇場突破三百萬人次。由聯華食品可樂果的贊助，而展開電影的正式製作
   - 2011年7月4日 星木團隊正式宣佈，BBS鄉民的正義正式開拍
   - 2012年8月17日 正式上映。
 
@@ -298,9 +293,7 @@ Hero</p></td>
 </tbody>
 </table>
 
-  -   - <small>資料來源：[K電影情報網](https://archive.is/20130419093301/http://www.kmovie.com.tw/index.php?pg=boxoffice)
-        與
-        [開眼電影網](https://web.archive.org/web/20120821080223/http://app.atmovies.com.tw/movie/movie.cfm?action=BoxOffice&film_id=fbtw84181598&bo_code=TWWeekend)</small>
+  -   - <small>資料來源：[K電影情報網](https://archive.is/20130419093301/http://www.kmovie.com.tw/index.php?pg=boxoffice) 與 [開眼電影網](https://web.archive.org/web/20120821080223/http://app.atmovies.com.tw/movie/movie.cfm?action=BoxOffice&film_id=fbtw84181598&bo_code=TWWeekend)</small>
 
 ## 相關條目
 
@@ -328,27 +321,12 @@ Hero</p></td>
   -
   -
   -
-[Category:導演處女作](https://zh.wikipedia.org/wiki/Category:導演處女作 "wikilink")
-[Category:臺灣BBS](https://zh.wikipedia.org/wiki/Category:臺灣BBS "wikilink")
-[Category:社群媒體題材作品](https://zh.wikipedia.org/wiki/Category:社群媒體題材作品 "wikilink")
-[Category:臺灣真人真事改編電影](https://zh.wikipedia.org/wiki/Category:臺灣真人真事改編電影 "wikilink")
-[Category:桃園縣取景電影](https://zh.wikipedia.org/wiki/Category:桃園縣取景電影 "wikilink")
-[Category:臺中市取景電影](https://zh.wikipedia.org/wiki/Category:臺中市取景電影 "wikilink")
-[Category:高雄市取景電影](https://zh.wikipedia.org/wiki/Category:高雄市取景電影 "wikilink")
-[Category:台灣取景電影](https://zh.wikipedia.org/wiki/Category:台灣取景電影 "wikilink")
-[Category:台灣動畫電影](https://zh.wikipedia.org/wiki/Category:台灣動畫電影 "wikilink")
-[Category:2010年代台灣電影作品](https://zh.wikipedia.org/wiki/Category:2010年代台灣電影作品 "wikilink")
-[Category:20世紀福斯電影](https://zh.wikipedia.org/wiki/Category:20世紀福斯電影 "wikilink")
-[Category:林世勇電影](https://zh.wikipedia.org/wiki/Category:林世勇電影 "wikilink")
+[Category:導演處女作](https://zh.wikipedia.org/wiki/Category:導演處女作 "wikilink") [Category:臺灣BBS](https://zh.wikipedia.org/wiki/Category:臺灣BBS "wikilink") [Category:社群媒體題材作品](https://zh.wikipedia.org/wiki/Category:社群媒體題材作品 "wikilink") [Category:臺灣真人真事改編電影](https://zh.wikipedia.org/wiki/Category:臺灣真人真事改編電影 "wikilink") [Category:桃園縣取景電影](https://zh.wikipedia.org/wiki/Category:桃園縣取景電影 "wikilink") [Category:臺中市取景電影](https://zh.wikipedia.org/wiki/Category:臺中市取景電影 "wikilink") [Category:高雄市取景電影](https://zh.wikipedia.org/wiki/Category:高雄市取景電影 "wikilink") [Category:台灣取景電影](https://zh.wikipedia.org/wiki/Category:台灣取景電影 "wikilink") [Category:台灣動畫電影](https://zh.wikipedia.org/wiki/Category:台灣動畫電影 "wikilink") [Category:2010年代台灣電影作品](https://zh.wikipedia.org/wiki/Category:2010年代台灣電影作品 "wikilink") [Category:20世紀福斯電影](https://zh.wikipedia.org/wiki/Category:20世紀福斯電影 "wikilink") [Category:林世勇電影](https://zh.wikipedia.org/wiki/Category:林世勇電影 "wikilink")
 
-1.  [「雜談」
-    BBS鄉民的正義－PTT相關用語解釋說明](http://home.gamer.com.tw/creationDetail.php?sn=601773)
-2.  [導演碎碎唸時間 0727
-    關於故事緣起](http://woodman.kusos.com/2012/07/bbs-0727.html)
+1.  [「雜談」 BBS鄉民的正義－PTT相關用語解釋說明](http://home.gamer.com.tw/creationDetail.php?sn=601773)
+2.  [導演碎碎唸時間 0727 關於故事緣起](http://woodman.kusos.com/2012/07/bbs-0727.html)
 3.
-4.  [黑特版
-    緊急尋人救命事件](http://www.ptt.cc/bbs/PttHistory/M.1166625938.A.3E6.html)
+4.  [黑特版 緊急尋人救命事件](http://www.ptt.cc/bbs/PttHistory/M.1166625938.A.3E6.html)
 5.
 6.
-7.  [謝淑薇與極樂宿舍](http://www.ettoday.net/news/20160805/749454.htm),2016.8.5
-    東森新聞
+7.  [謝淑薇與極樂宿舍](http://www.ettoday.net/news/20160805/749454.htm),2016.8.5 東森新聞

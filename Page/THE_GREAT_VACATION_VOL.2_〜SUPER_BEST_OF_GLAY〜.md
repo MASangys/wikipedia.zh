@@ -2,14 +2,8 @@
 
 ## 簡介
 
-  - 這張是[GLAY](../Page/GLAY.md "wikilink")出道15週年紀念[精選輯第二彈](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，收錄1994年\~2000年[單曲A面曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")(不過，[MERMAID](https://zh.wikipedia.org/wiki/MERMAID "wikilink")、[Missing
-    You收錄在](https://zh.wikipedia.org/wiki/Missing_You "wikilink")[THE
-    GREAT VACATION VOL.1 〜SUPER BEST OF
-    GLAY〜](https://zh.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink"))，加上5首改編版歌曲，新歌11首。總共3CD，42首歌曲。全部歌曲重新數位錄製。
-  - 擁有[THE GREAT VACATION VOL.1 〜SUPER BEST OF
-    GLAY〜和](https://zh.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink")**THE
-    GREAT VACATION VOL.2 〜SUPER BEST OF
-    GLAY〜**，可以掌握[GLAY](../Page/GLAY.md "wikilink")15年來的音樂軌跡。
+  - 這張是[GLAY](../Page/GLAY.md "wikilink")出道15週年紀念[精選輯第二彈](https://zh.wikipedia.org/wiki/精選輯 "wikilink")，收錄1994年\~2000年[單曲A面曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")(不過，[MERMAID](https://zh.wikipedia.org/wiki/MERMAID "wikilink")、[Missing You收錄在](https://zh.wikipedia.org/wiki/Missing_You "wikilink")[THE GREAT VACATION VOL.1 〜SUPER BEST OF GLAY〜](https://zh.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink"))，加上5首改編版歌曲，新歌11首。總共3CD，42首歌曲。全部歌曲重新數位錄製。
+  - 擁有[THE GREAT VACATION VOL.1 〜SUPER BEST OF GLAY〜和](https://zh.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.1_〜SUPER_BEST_OF_GLAY〜 "wikilink")**THE GREAT VACATION VOL.2 〜SUPER BEST OF GLAY〜**，可以掌握[GLAY](../Page/GLAY.md "wikilink")15年來的音樂軌跡。
   - 這張和Vol.1一樣，分為『初回限定盤A』、『初回限定盤B』和『普通盤』3種版本
 
 ### 初回限定盤A
@@ -38,17 +32,14 @@
 1.  [RAIN](../Page/RAIN_\(GLAY\).md "wikilink")
 2.  [盛夏之門](../Page/盛夏之門.md "wikilink")
 3.  [“Modern…”的她](../Page/“Modern…”的她.md "wikilink")
-4.  [Freeze My
-    Love](https://zh.wikipedia.org/wiki/Freeze_My_Love "wikilink")
+4.  [Freeze My Love](https://zh.wikipedia.org/wiki/Freeze_My_Love "wikilink")
 5.  [永遠的兩個人…](https://zh.wikipedia.org/wiki/永遠的兩個人…/GONE_WITH_THE_WIND "wikilink")
-6.  [GONE WITH THE
-    WIND](https://zh.wikipedia.org/wiki/永遠的兩個人…/GONE_WITH_THE_WIND "wikilink")
+6.  [GONE WITH THE WIND](https://zh.wikipedia.org/wiki/永遠的兩個人…/GONE_WITH_THE_WIND "wikilink")
 7.  [Yes, Summerdays](../Page/Yes,_Summerdays.md "wikilink")
 8.  [生存的勇氣](https://zh.wikipedia.org/wiki/生存的勇氣 "wikilink")
 9.  Glorious
 10. BELOVED
-11. [a
-    Boy〜一直無法忘懷〜](https://zh.wikipedia.org/wiki/a_Boy〜一直無法忘懷〜 "wikilink")
+11. [a Boy〜一直無法忘懷〜](https://zh.wikipedia.org/wiki/a_Boy〜一直無法忘懷〜 "wikilink")
 12. Curtain Call
 13. 戀慕春天的人
 14. [口唇](../Page/口唇_\(GLAY單曲\).md "wikilink")
@@ -126,17 +117,13 @@
 #### Disc 1
 
 1.  **[向月亮祈禱](../Page/向月亮祈禱.md "wikilink")**
-2.  **[HIT THE WORLD
-    CHART\!](https://zh.wikipedia.org/wiki/HIT_THE_WORLD_CHART! "wikilink")**
-3.  **[Little
-    Lovebirds](https://zh.wikipedia.org/wiki/Little_Lovebirds "wikilink")**
-4.  **[YOU MAY
-    DREAM](https://zh.wikipedia.org/wiki/YOU_MAY_DREAM "wikilink")**
+2.  **[HIT THE WORLD CHART\!](https://zh.wikipedia.org/wiki/HIT_THE_WORLD_CHART! "wikilink")**
+3.  **[Little Lovebirds](https://zh.wikipedia.org/wiki/Little_Lovebirds "wikilink")**
+4.  **[YOU MAY DREAM](https://zh.wikipedia.org/wiki/YOU_MAY_DREAM "wikilink")**
 5.  **[pure soul](https://zh.wikipedia.org/wiki/pure_soul "wikilink")**
 6.  **[野春菊](https://zh.wikipedia.org/wiki/野春菊 "wikilink")**
 7.  **[HEAVY GAUGE](../Page/HEAVY_GAUGE.md "wikilink")**
-8.  **[GLOBAL
-    COMMUNICATION](../Page/GLOBAL_COMMUNICATION.md "wikilink")**
+8.  **[GLOBAL COMMUNICATION](../Page/GLOBAL_COMMUNICATION.md "wikilink")**
 9.  **[盛夏之門](../Page/盛夏之門.md "wikilink")**
 10. **忌妒**
 11. **[在此相逢](../Page/在此相逢.md "wikilink")**
@@ -156,20 +143,13 @@
 6.  **[“Modern…”的她](../Page/“Modern…”的她.md "wikilink")**
 7.  **[RUN](../Page/RUN.md "wikilink")**
 8.  **[I am xxx](../Page/I_am_xxx.md "wikilink")**
-9.  **[I'm in
-    Love](https://zh.wikipedia.org/wiki/I'm_in_Love "wikilink")**
+9.  **[I'm in Love](https://zh.wikipedia.org/wiki/I'm_in_Love "wikilink")**
 
 
 
 <BONUS TRACK>
 
-1.  **[織錦〜so far and yet so
-    close〜](https://zh.wikipedia.org/wiki/織錦〜so_far_and_yet_so_close〜 "wikilink")**
-2.  **[BEAUTIFUL
-    DREAMER](https://zh.wikipedia.org/wiki/BEAUTIFUL_DREAMER "wikilink")**
+1.  **[織錦〜so far and yet so close〜](https://zh.wikipedia.org/wiki/織錦〜so_far_and_yet_so_close〜 "wikilink")**
+2.  **[BEAUTIFUL DREAMER](https://zh.wikipedia.org/wiki/BEAUTIFUL_DREAMER "wikilink")**
 
-[Category:GLAY音樂專輯](https://zh.wikipedia.org/wiki/Category:GLAY音樂專輯 "wikilink")
-[Category:EMI日本音樂專輯](https://zh.wikipedia.org/wiki/Category:EMI日本音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
-[Category:2009年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:GLAY音樂專輯](https://zh.wikipedia.org/wiki/Category:GLAY音樂專輯 "wikilink") [Category:EMI日本音樂專輯](https://zh.wikipedia.org/wiki/Category:EMI日本音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink") [Category:2009年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯週榜冠軍作品 "wikilink")

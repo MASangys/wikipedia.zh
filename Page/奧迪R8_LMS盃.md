@@ -1,15 +1,11 @@
-[Jeffery_Lee_Audi_R8_LMS_Cup_2012_2000.jpg](https://zh.wikipedia.org/wiki/File:Jeffery_Lee_Audi_R8_LMS_Cup_2012_2000.jpg "fig:Jeffery_Lee_Audi_R8_LMS_Cup_2012_2000.jpg")
-**奧迪R8 LMS杯**(英語：Audi R8 LMS
-Cup)是一項賽車運動系列賽。在2012年由[大眾汽車創辦](https://zh.wikipedia.org/wiki/大眾汽車 "wikilink")，所有車手必須使用[奧迪R8賽車參賽](https://zh.wikipedia.org/wiki/奧迪R8 "wikilink")。賽事全部在亞洲的賽車場舉行。參賽車手包括[熊龍](../Page/熊龍.md "wikilink")、[李英健](../Page/李英健.md "wikilink")、[方駿宇](../Page/方駿宇.md "wikilink")、[古圖](../Page/高度_\(賽車手\).md "wikilink")、[程叢夫](https://zh.wikipedia.org/wiki/程叢夫 "wikilink")\[1\]、[郭富城](../Page/郭富城.md "wikilink")、[韓寒等等](https://zh.wikipedia.org/wiki/韓寒 "wikilink")。第一屆的總冠軍為香港車手[李英健](../Page/李英健.md "wikilink")。\[2\]
+[Jeffery_Lee_Audi_R8_LMS_Cup_2012_2000.jpg](https://zh.wikipedia.org/wiki/File:Jeffery_Lee_Audi_R8_LMS_Cup_2012_2000.jpg "fig:Jeffery_Lee_Audi_R8_LMS_Cup_2012_2000.jpg") **奧迪R8 LMS杯**(英語：Audi R8 LMS Cup)是一項賽車運動系列賽。在2012年由[大眾汽車創辦](https://zh.wikipedia.org/wiki/大眾汽車 "wikilink")，所有車手必須使用[奧迪R8賽車參賽](https://zh.wikipedia.org/wiki/奧迪R8 "wikilink")。賽事全部在亞洲的賽車場舉行。參賽車手包括[熊龍](../Page/熊龍.md "wikilink")、[李英健](../Page/李英健.md "wikilink")、[方駿宇](../Page/方駿宇.md "wikilink")、[古圖](../Page/高度_\(賽車手\).md "wikilink")、[程叢夫](https://zh.wikipedia.org/wiki/程叢夫 "wikilink")\[1\]、[郭富城](../Page/郭富城.md "wikilink")、[韓寒等等](https://zh.wikipedia.org/wiki/韓寒 "wikilink")。第一屆的總冠軍為香港車手[李英健](../Page/李英健.md "wikilink")。\[2\]
 
-[Audi_R8_LMS_Cup_shop_2000.jpg](https://zh.wikipedia.org/wiki/File:Audi_R8_LMS_Cup_shop_2000.jpg "fig:Audi_R8_LMS_Cup_shop_2000.jpg")內的辦公室。\]\]
-奧迪R8 LMS杯的辦公室位於[珠海國際賽車場](../Page/珠海國際賽車場.md "wikilink")內。
+[Audi_R8_LMS_Cup_shop_2000.jpg](https://zh.wikipedia.org/wiki/File:Audi_R8_LMS_Cup_shop_2000.jpg "fig:Audi_R8_LMS_Cup_shop_2000.jpg")內的辦公室。\]\] 奧迪R8 LMS杯的辦公室位於[珠海國際賽車場](../Page/珠海國際賽車場.md "wikilink")內。
 
 ## 賽車規格
 
   - 賽車： 奧迪R8 LMS GT規格賽車。
-  - 引擎： 5,200cc
-    V10引擎，汽缸角度成90度，每缸4汽门，双顶置式凸轮轴，燃油直喷系统，废气排放系统配备两个赛车催化转换器。馬力達到560匹。
+  - 引擎： 5,200cc V10引擎，汽缸角度成90度，每缸4汽门，双顶置式凸轮轴，燃油直喷系统，废气排放系统配备两个赛车催化转换器。馬力達到560匹。
   - 重量： 1,290公斤
   - 輪胎： 米其林賽車輪胎
   - 汽油缸： 110公升

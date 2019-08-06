@@ -1,6 +1,4 @@
-《**Woman**》，是2013年7月至9月於[日本電視台](../Page/日本電視台.md "wikilink")[水10時段](../Page/日本電視台週三連續劇.md "wikilink")（22:00
--
-22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[坂元裕二](../Page/坂元裕二.md "wikilink")編劇、[滿島光](../Page/滿島光.md "wikilink")主演，此作品亦是滿島光民營電視台的初次主演作\[1\]。此劇獲2013年度的[銀河賞](../Page/銀河賞.md "wikilink")及[日本民間放送聯盟](../Page/日本民間放送聯盟.md "wikilink")獎最優秀作品等獎項，導演[水田伸生](../Page/水田伸生.md "wikilink")和滿島光分別獲得和日本電視劇三大最高榮譽的。
+《**Woman**》，是2013年7月至9月於[日本電視台](../Page/日本電視台.md "wikilink")[水10時段](../Page/日本電視台週三連續劇.md "wikilink")（22:00 - 22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")，由[坂元裕二](../Page/坂元裕二.md "wikilink")編劇、[滿島光](../Page/滿島光.md "wikilink")主演，此作品亦是滿島光民營電視台的初次主演作\[1\]。此劇獲2013年度的[銀河賞](../Page/銀河賞.md "wikilink")及[日本民間放送聯盟](../Page/日本民間放送聯盟.md "wikilink")獎最優秀作品等獎項，導演[水田伸生](../Page/水田伸生.md "wikilink")和滿島光分別獲得和日本電視劇三大最高榮譽的。
 
 ## 花絮評價
 
@@ -243,9 +241,7 @@
   - 編劇：[坂元裕二](../Page/坂元裕二.md "wikilink")
   - 音樂：[三宅一德](../Page/三宅一德.md "wikilink")
   - 導演：[水田伸生](../Page/水田伸生.md "wikilink")、相澤淳
-  - 主題歌：[androp](https://zh.wikipedia.org/wiki/androp "wikilink")《Voice》（[WARNER
-    MUSIC JAPAN](../Page/日本華納音樂.md "wikilink") /
-    [unBORDE](https://zh.wikipedia.org/wiki/unBORDE "wikilink")）
+  - 主題歌：[androp](https://zh.wikipedia.org/wiki/androp "wikilink")《Voice》（[WARNER MUSIC JAPAN](../Page/日本華納音樂.md "wikilink") / [unBORDE](https://zh.wikipedia.org/wiki/unBORDE "wikilink")）
   - 助導：戶崎隆司
   - 攝影：中山光一
   - 音效設計：
@@ -415,19 +411,7 @@
 
   - [官方網站](http://www.ntv.co.jp/woman2013/)
 
-[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink")
-[Category:日本家庭劇](https://zh.wikipedia.org/wiki/Category:日本家庭劇 "wikilink")
-[Category:育兒題材作品](https://zh.wikipedia.org/wiki/Category:育兒題材作品 "wikilink")
-[Category:貧窮題材電視劇](https://zh.wikipedia.org/wiki/Category:貧窮題材電視劇 "wikilink")
-[Category:日本民間放送聯盟獎最佳電視劇](https://zh.wikipedia.org/wiki/Category:日本民間放送聯盟獎最佳電視劇 "wikilink")
-[Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink")
-[Category:喪偶題材電視劇](https://zh.wikipedia.org/wiki/Category:喪偶題材電視劇 "wikilink")
-[Category:東京國際戲劇節優秀連續劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀連續劇獲獎作品 "wikilink")
-[Category:星空傳媒(台灣)電視外購日劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購日劇 "wikilink")
-[Category:坂元裕二劇本作品](https://zh.wikipedia.org/wiki/Category:坂元裕二劇本作品 "wikilink")
-[Category:社會問題題材作品](https://zh.wikipedia.org/wiki/Category:社會問題題材作品 "wikilink")
-[Category:放送文化基金賞獎勵賞](https://zh.wikipedia.org/wiki/Category:放送文化基金賞獎勵賞 "wikilink")
-[Category:K-Factory電視劇](https://zh.wikipedia.org/wiki/Category:K-Factory電視劇 "wikilink")
+[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink") [Category:日本家庭劇](https://zh.wikipedia.org/wiki/Category:日本家庭劇 "wikilink") [Category:育兒題材作品](https://zh.wikipedia.org/wiki/Category:育兒題材作品 "wikilink") [Category:貧窮題材電視劇](https://zh.wikipedia.org/wiki/Category:貧窮題材電視劇 "wikilink") [Category:日本民間放送聯盟獎最佳電視劇](https://zh.wikipedia.org/wiki/Category:日本民間放送聯盟獎最佳電視劇 "wikilink") [Category:女性題材電視節目](https://zh.wikipedia.org/wiki/Category:女性題材電視節目 "wikilink") [Category:喪偶題材電視劇](https://zh.wikipedia.org/wiki/Category:喪偶題材電視劇 "wikilink") [Category:東京國際戲劇節優秀連續劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀連續劇獲獎作品 "wikilink") [Category:星空傳媒(台灣)電視外購日劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購日劇 "wikilink") [Category:坂元裕二劇本作品](https://zh.wikipedia.org/wiki/Category:坂元裕二劇本作品 "wikilink") [Category:社會問題題材作品](https://zh.wikipedia.org/wiki/Category:社會問題題材作品 "wikilink") [Category:放送文化基金賞獎勵賞](https://zh.wikipedia.org/wiki/Category:放送文化基金賞獎勵賞 "wikilink") [Category:K-Factory電視劇](https://zh.wikipedia.org/wiki/Category:K-Factory電視劇 "wikilink")
 
 1.
 
@@ -437,14 +421,11 @@
 
 4.  [<span lang="ja">“重い”『-{W}-oman』が人気『ショムニ』に健闘のワケ…シングルマザーたちの感想は？</span>](http://biz-journal.jp/2013/07/post_2515.html)
 
-5.  [滿島光單親唔易做
-    《-{W}-oman》自強湊B贏共鳴](http://the-sun.on.cc/cnt/entertainment/20130819/00476_018.html)
+5.  [滿島光單親唔易做 《-{W}-oman》自強湊B贏共鳴](http://the-sun.on.cc/cnt/entertainment/20130819/00476_018.html)
 
-6.  [日本民間放送連盟賞／2014年(平成26年)
-    テレビドラマ番組](http://www.j-ba.or.jp/category/awards/jba101390#TVdorama)
+6.  [日本民間放送連盟賞／2014年(平成26年) テレビドラマ番組](http://www.j-ba.or.jp/category/awards/jba101390#TVdorama)
 
-7.  [International Drama Festival in
-    TOKYO 2014](http://www.j-ba.or.jp/drafes/award/index.html)
+7.  [International Drama Festival in TOKYO 2014](http://www.j-ba.or.jp/drafes/award/index.html)
 
 8.  [満島ひかり「駆け落ちする覚悟でいます」](http://mdpr.jp/news/detail/1440516)
 

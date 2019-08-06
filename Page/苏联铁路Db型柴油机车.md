@@ -1,13 +1,10 @@
-**D<sup>b</sup>型柴油机车**（）是[美国](../Page/美国.md "wikilink")[鲍尔温机车厂](../Page/鲍尔温机车厂.md "wikilink")于1945年为[苏联铁路设计制造的电传动](https://zh.wikipedia.org/wiki/苏联铁路 "wikilink")[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，这也是鲍尔温机车厂第一种对外出口的机车产品，工厂设计代号为**0-6-6-0
-1000/1 DE**\[1\]。
+**D<sup>b</sup>型柴油机车**（）是[美国](../Page/美国.md "wikilink")[鲍尔温机车厂](../Page/鲍尔温机车厂.md "wikilink")于1945年为[苏联铁路设计制造的电传动](https://zh.wikipedia.org/wiki/苏联铁路 "wikilink")[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，这也是鲍尔温机车厂第一种对外出口的机车产品，工厂设计代号为**0-6-6-0 1000/1 DE**\[1\]。
 
 ## 发展历史
 
 [第二次世界大战](../Page/第二次世界大战.md "wikilink")期间，从[波斯湾](../Page/波斯湾.md "wikilink")港口出发、直抵达[巴库](../Page/巴库.md "wikilink")和[里海的](https://zh.wikipedia.org/wiki/里海 "wikilink")[伊朗纵贯铁路成为](https://zh.wikipedia.org/wiki/伊朗纵贯铁路 "wikilink")[盟国向苏联提供援助物资的主要通道](../Page/同盟國_\(第二次世界大戰\).md "wikilink")，为了满足伊朗纵贯铁路的运输需求，由[美国陆军](../Page/美国陆军.md "wikilink")新设立的波斯湾后勤司令部于1942年9月接管之前[英国控制的伊朗运输事宜](https://zh.wikipedia.org/wiki/英国 "wikilink")，美国陆军并向[美国机车公司](../Page/美国机车公司.md "wikilink")（ALCO）订购了大批[RSD-1型柴油机车](../Page/RSD-1型柴油机车.md "wikilink")投入伊朗使用。鉴于RSD-1型柴油机车在伊朗纵贯铁路的良好表现，美国柴油机车吸引了苏联方面的兴趣。1943年，[苏联人民委员会](../Page/苏联人民委员会.md "wikilink")开始讨论从美国引进柴油机车的计划。1944年，苏联交通人民委员部向美国方面提出了援助柴油机车的请求，同年美国批准向苏联提供100台柴油机车，由美国机车公司和[鲍尔温机车厂](../Page/鲍尔温机车厂.md "wikilink")分别提供50台轴式为1Bo-Bo1（1-2о-0—0-2о-1）的柴油机车，苏联考虑有关建议后，决定改为引进100台轴式为Co-Co（0-3о-0—0-3о-0）的柴油机车，美国机车公司和鲍尔温机车厂分别提供70台[D<sup>a</sup>型机车](../Page/RSD-1型柴油机车.md "wikilink")（Д<sup>а</sup>）及30台D<sup>b</sup>型机车（Д<sup>б</sup>）\[2\]。
 
-D<sup>b</sup>型机车抵达苏联后，首先配属[奧得瓊尼基德耶夫斯卡雅铁路局](https://zh.wikipedia.org/wiki/奧得瓊尼基德耶夫斯卡雅铁路局 "wikilink")（Орджоникидзевская
-железная
-дорога）古杰尔梅斯机务段，以及[外高加索铁路局苏呼米机务段使用](https://zh.wikipedia.org/wiki/外高加索铁路局 "wikilink")，担当[图阿普谢](https://zh.wikipedia.org/wiki/图阿普谢 "wikilink")—[苏呼米](../Page/苏呼米.md "wikilink")—[薩姆特雷迪亞区段的旅客列车牵引任务](https://zh.wikipedia.org/wiki/薩姆特雷迪亞 "wikilink")。在运用过程中逐步暴露了机车的一些缺陷，主要为柴油机可靠性较差，例如[曲轴断裂](https://zh.wikipedia.org/wiki/曲轴 "wikilink")、[气缸盖和缸体之间的焊接部分频繁开裂等](https://zh.wikipedia.org/wiki/气缸 "wikilink")。其中5台D<sup>b</sup>型机车于1953年至1959年间先后停运报废，其余机车也在1960年代陆续报废\[3\]。
+D<sup>b</sup>型机车抵达苏联后，首先配属[奧得瓊尼基德耶夫斯卡雅铁路局](https://zh.wikipedia.org/wiki/奧得瓊尼基德耶夫斯卡雅铁路局 "wikilink")（Орджоникидзевская железная дорога）古杰尔梅斯机务段，以及[外高加索铁路局苏呼米机务段使用](https://zh.wikipedia.org/wiki/外高加索铁路局 "wikilink")，担当[图阿普谢](https://zh.wikipedia.org/wiki/图阿普谢 "wikilink")—[苏呼米](../Page/苏呼米.md "wikilink")—[薩姆特雷迪亞区段的旅客列车牵引任务](https://zh.wikipedia.org/wiki/薩姆特雷迪亞 "wikilink")。在运用过程中逐步暴露了机车的一些缺陷，主要为柴油机可靠性较差，例如[曲轴断裂](https://zh.wikipedia.org/wiki/曲轴 "wikilink")、[气缸盖和缸体之间的焊接部分频繁开裂等](https://zh.wikipedia.org/wiki/气缸 "wikilink")。其中5台D<sup>b</sup>型机车于1953年至1959年间先后停运报废，其余机车也在1960年代陆续报废\[3\]。
 
 ## 技术特点
 
@@ -28,12 +25,9 @@ D<sup>b</sup>型机车为干线客货运通用六轴柴油机车，[机车轴式
 
 ## 外部链接
 
-  - [1520mm.ru: Тепловоз
-    Дб](https://web.archive.org/web/20091106175700/http://www.1520mm.ru/locomotives/diesel/Db.phtml)
+  - [1520mm.ru: Тепловоз Дб](https://web.archive.org/web/20091106175700/http://www.1520mm.ru/locomotives/diesel/Db.phtml)
 
-[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink")
-[Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")
-[Category:鲍尔温制铁路机车](https://zh.wikipedia.org/wiki/Category:鲍尔温制铁路机车 "wikilink")
+[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink") [Category:鲍尔温制铁路机车](https://zh.wikipedia.org/wiki/Category:鲍尔温制铁路机车 "wikilink")
 
 1.
 

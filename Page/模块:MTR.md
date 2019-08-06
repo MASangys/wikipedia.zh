@@ -1,7 +1,6 @@
 \-- This module implements  and .
 
-local getArgs = require('Module:Arguments').getArgs local data =
-mw.loadData('Module:MTR/data')
+local getArgs = require('Module:Arguments').getArgs local data = mw.loadData('Module:MTR/data')
 
 local p = {}
 

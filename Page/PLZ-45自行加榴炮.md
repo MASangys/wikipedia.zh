@@ -12,9 +12,7 @@
 
 ## 设计
 
-PLZ-45是与当时[中国人民解放军](../Page/中国人民解放军.md "wikilink")装备的[83式152毫米自行加榴炮](../Page/83式152毫米自行加榴炮.md "wikilink")不同的新型6对负重轮履带式底盘，钢质焊接车体防护可防轻武器、榴弹破片。使用德国道依茨许可证引进的BF12L513C风冷增压中冷柴油机，采用带助力操纵的机械双流传动系统，两侧履带可以反向运动实现原地转向。火炮重新设计反后坐装置，调整原炮最大后坐长度。车内载30发弹药，采用半自动装填机构，最大射速5发/分钟。配套弹药车携带90发弹药。
-根据外国用户在采购合同附件的改进项目中提出＂改进系统内各种车辆的修饰＂的要求，PLZ-45研制过程中引入[工业设计](../Page/工业设计.md "wikilink")，对人机工程和内外装饰进行改进。\[3\]
-为保证在高温环境下作战特别添加了空调设备。
+PLZ-45是与当时[中国人民解放军](../Page/中国人民解放军.md "wikilink")装备的[83式152毫米自行加榴炮](../Page/83式152毫米自行加榴炮.md "wikilink")不同的新型6对负重轮履带式底盘，钢质焊接车体防护可防轻武器、榴弹破片。使用德国道依茨许可证引进的BF12L513C风冷增压中冷柴油机，采用带助力操纵的机械双流传动系统，两侧履带可以反向运动实现原地转向。火炮重新设计反后坐装置，调整原炮最大后坐长度。车内载30发弹药，采用半自动装填机构，最大射速5发/分钟。配套弹药车携带90发弹药。 根据外国用户在采购合同附件的改进项目中提出＂改进系统内各种车辆的修饰＂的要求，PLZ-45研制过程中引入[工业设计](../Page/工业设计.md "wikilink")，对人机工程和内外装饰进行改进。\[3\] 为保证在高温环境下作战特别添加了空调设备。
 
 PLZ-45改进型应国外用户要求将原采用的风冷发动机改为德国道依茨TCD2015V08水冷发动机。 该炮有火炮身管52倍口径的升级型号。
 
@@ -51,12 +49,9 @@ PLZ-45自行火炮营标准编制配属车辆包括：
 
 <references />
 
-  - [PLZ-45 Self-Propelled Howitzer | Bangladesh Military
-    Forces](http://www.bdmilitary.com/index.php?option=com_content&view=article&id=159&Itemid=98)
-  - [PLZ45 155MM SELF-PROPELLED
-    GUN-HOWITZER](https://web.archive.org/web/20080914063153/http://www.sinodefence.com/army/artillery/plz45sp_155mm.asp)
-  - [Artillery: Chinese Guns Conquer
-    Arabia](http://www.strategypage.com/htmw/htart/articles/20080815.aspx)
+  - [PLZ-45 Self-Propelled Howitzer | Bangladesh Military Forces](http://www.bdmilitary.com/index.php?option=com_content&view=article&id=159&Itemid=98)
+  - [PLZ45 155MM SELF-PROPELLED GUN-HOWITZER](https://web.archive.org/web/20080914063153/http://www.sinodefence.com/army/artillery/plz45sp_155mm.asp)
+  - [Artillery: Chinese Guns Conquer Arabia](http://www.strategypage.com/htmw/htart/articles/20080815.aspx)
 
 ## 參看
 
@@ -65,8 +60,7 @@ PLZ-45自行火炮营标准编制配属车辆包括：
 
 [Category:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:中華人民共和國裝甲戰鬥車輛 "wikilink")
 
-1.  [苏哲子做客央视《大家》栏目讲述外贸155自行火炮征程](http://www.norincogroup.com.cn/cn/newsdetail.aspx?id=22415)
-    ，中国兵器工业集团，发布时间：2011-10-18。
+1.  [苏哲子做客央视《大家》栏目讲述外贸155自行火炮征程](http://www.norincogroup.com.cn/cn/newsdetail.aspx?id=22415) ，中国兵器工业集团，发布时间：2011-10-18。
 
 2.  \[PLZ-45型155毫米火炮武器系统总设计师苏哲子院士访谈录\]，《兵器》，2007年 第10期。
 

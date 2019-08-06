@@ -1,26 +1,20 @@
-**WAii**，原名**潘妮亞莉莎·田普拉西德喜**（泰語：，拉丁拼寫：Panyarisa
-Thienprasiddhi，），[泰國女歌手](https://zh.wikipedia.org/wiki/泰國 "wikilink")
+**WAii**，原名**潘妮亞莉莎·田普拉西德喜**（泰語：，拉丁拼寫：Panyarisa Thienprasiddhi，），[泰國女歌手](https://zh.wikipedia.org/wiki/泰國 "wikilink")
 
 ## 簡歷
 
 WAii在「泰國音樂傳奇人物」演唱會上被RS經紀人發掘，隨後在2007年3月正式成為RS旗下藝人。
 
-2007年組成團體LIPZ出道。2007年12月13日，推出首張同名[EP](https://zh.wikipedia.org/wiki/EP "wikilink")《waii》。2008年12月13日，推出個人專輯《KCY》。2009年6月30日，組成臨時團體
-SEVENDAYS，並推出同名合輯《SEVENDAYS》。2010年2月25日，推出個人第三張個人專輯《Play Girl》。
+2007年組成團體LIPZ出道。2007年12月13日，推出首張同名[EP](https://zh.wikipedia.org/wiki/EP "wikilink")《waii》。2008年12月13日，推出個人專輯《KCY》。2009年6月30日，組成臨時團體 SEVENDAYS，並推出同名合輯《SEVENDAYS》。2010年2月25日，推出個人第三張個人專輯《Play Girl》。
 
-2013年3月8日，WAii最新歌曲《無論如何》（泰語：เสียใจแต่ไม่แคร์，英語：Whatever）在 Mthai Top
-Talk About Award 2013 獲得全年最受歡迎歌曲奬項。年內將會推出第四張個人專輯《Just Y》。
+2013年3月8日，WAii最新歌曲《無論如何》（泰語：เสียใจแต่ไม่แคร์，英語：Whatever）在 Mthai Top Talk About Award 2013 獲得全年最受歡迎歌曲奬項。年內將會推出第四張個人專輯《Just Y》。
 
 在《WHAT DA HECK》之後，用了一年準備新單曲《รักยังมีต่อ》 （愛必須繼續），於2014年11月24日在Deezer發佈。
 
-Kamikaze執行製片人，製片人和作曲家核心團隊的創始人之一，Narongsakdi 與 Watchara 已經從RSA公司辭職。Waii
-的歌曲，將會由 RS 子公司 Yes\! Music 發佈。
+Kamikaze執行製片人，製片人和作曲家核心團隊的創始人之一，Narongsakdi 與 Watchara 已經從RSA公司辭職。Waii 的歌曲，將會由 RS 子公司 Yes\! Music 發佈。
 
-2015年8月19日，WAii 推出全新單曲 《隱藏的愛》（泰語：รักที่ซ่อนอยู่，英語：Secret
-Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
+2015年8月19日，WAii 推出全新單曲 《隱藏的愛》（泰語：รักที่ซ่อนอยู่，英語：Secret Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 
-2015年12月1日，WAii 推出全新單曲 《美好生活》（泰語：ชีวิตดี๊ดี ，英語：Very Well），由 Yes\! Music
-發行。
+2015年12月1日，WAii 推出全新單曲 《美好生活》（泰語：ชีวิตดี๊ดี ，英語：Very Well），由 Yes\! Music 發行。
 
 ## 音樂專輯
 
@@ -422,11 +416,8 @@ Love），亦是泰劇《夜來香花》主題曲，由 Yes\! Music 發行。
 
 ## 參考資料
 
-  - [Playpark Music Award 2014 "Top Female Artist Award"&"歌曲奬"ถามผิดมั้ง
-    (What Da
-    Heck)](https://web.archive.org/web/20141128204826/https://secure2.playpark.com/ssl/event/music_awards/Music#_=_)
-  - [Mthai Top Talk About Award 2013 "全年最受歡迎歌曲奬"WAii -เสียใจแต่ไม่แคร์
-    (Whatever)](http://www.mthai.com/toptalk/2013/)
+  - [Playpark Music Award 2014 "Top Female Artist Award"&"歌曲奬"ถามผิดมั้ง (What Da Heck)](https://web.archive.org/web/20141128204826/https://secure2.playpark.com/ssl/event/music_awards/Music#_=_)
+  - [Mthai Top Talk About Award 2013 "全年最受歡迎歌曲奬"WAii -เสียใจแต่ไม่แคร์ (Whatever)](http://www.mthai.com/toptalk/2013/)
 
 ## 外部連結
 

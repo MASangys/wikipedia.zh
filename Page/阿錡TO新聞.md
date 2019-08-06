@@ -1,5 +1,4 @@
-**阿錡TO新聞**（[台羅](https://zh.wikipedia.org/wiki/台羅 "wikilink")：A-kî Thuh
-Sin-bûn；台語thuh即是針對事件加以針砭之意）為[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電台](https://zh.wikipedia.org/wiki/電台 "wikilink")[名嘴](../Page/名嘴.md "wikilink")[阿錡以時事](https://zh.wikipedia.org/wiki/林明期 "wikilink")[新聞作為題材之評論](https://zh.wikipedia.org/wiki/新聞 "wikilink")[節目](https://zh.wikipedia.org/wiki/節目 "wikilink")。
+**阿錡TO新聞**（[台羅](https://zh.wikipedia.org/wiki/台羅 "wikilink")：A-kî Thuh Sin-bûn；台語thuh即是針對事件加以針砭之意）為[台灣的](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電台](https://zh.wikipedia.org/wiki/電台 "wikilink")[名嘴](../Page/名嘴.md "wikilink")[阿錡以時事](https://zh.wikipedia.org/wiki/林明期 "wikilink")[新聞作為題材之評論](https://zh.wikipedia.org/wiki/新聞 "wikilink")[節目](https://zh.wikipedia.org/wiki/節目 "wikilink")。
 
 ## 節目內容
 
@@ -26,8 +25,6 @@ Sin-bûn；台語thuh即是針對事件加以針砭之意）為[台灣的](https
 
 [Category:正在播放的电视节目](https://zh.wikipedia.org/wiki/Category:正在播放的电视节目 "wikilink")
 
-1.  "全民最大黨搶模仿　阿錡TO新聞"[1](http://www.nexttv.com.tw/vod/10155471?slug=news-rtn),[壹電視](../Page/壹電視.md "wikilink"),2012-03-24
-    00:03:53.
-2.  "阿錡TO新聞賣食品　誆「療效」賺很大"[2](http://www.nexttv.com.tw/vod/10155469?slug=news-feature),
-    壹電視,2012-03-23 18:30:30.
+1.  "全民最大黨搶模仿　阿錡TO新聞"[1](http://www.nexttv.com.tw/vod/10155471?slug=news-rtn),[壹電視](../Page/壹電視.md "wikilink"),2012-03-24 00:03:53.
+2.  "阿錡TO新聞賣食品　誆「療效」賺很大"[2](http://www.nexttv.com.tw/vod/10155469?slug=news-feature), 壹電視,2012-03-23 18:30:30.
 3.  林明期,"紅螞蟻生命科學<董事長的話>", 紅螞蟻生命科技有限公司,2009年.

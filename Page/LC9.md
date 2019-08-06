@@ -1,6 +1,4 @@
-**LC9**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，由[RASA](https://zh.wikipedia.org/wiki/RASA "wikilink")、[J-HYO](https://zh.wikipedia.org/wiki/J-HYO "wikilink")、[KING](https://zh.wikipedia.org/wiki/KING "wikilink")、[JUN](https://zh.wikipedia.org/wiki/JUN "wikilink")、[AO六名成員組成](https://zh.wikipedia.org/wiki/AO "wikilink")，隸屬[NEGANETWORK經紀公司旗下](https://zh.wikipedia.org/wiki/NEGANETWORK "wikilink")。LC9的名稱代表著「League
-of Competition \#9」\[1\]，在2013年5月9日以《MaMa Beat》在《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。於2015年12月23日宣告正式解散\[2\]。
+**LC9**（），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，由[RASA](https://zh.wikipedia.org/wiki/RASA "wikilink")、[J-HYO](https://zh.wikipedia.org/wiki/J-HYO "wikilink")、[KING](https://zh.wikipedia.org/wiki/KING "wikilink")、[JUN](https://zh.wikipedia.org/wiki/JUN "wikilink")、[AO六名成員組成](https://zh.wikipedia.org/wiki/AO "wikilink")，隸屬[NEGANETWORK經紀公司旗下](https://zh.wikipedia.org/wiki/NEGANETWORK "wikilink")。LC9的名稱代表著「League of Competition \#9」\[1\]，在2013年5月9日以《MaMa Beat》在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。於2015年12月23日宣告正式解散\[2\]。
 
 ## 成員資料
 
@@ -73,12 +71,8 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道
 
 ## 節目演出
 
-  - 2013年5月21日 [Arirang
-    TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") [Simply
-    KPOP](https://zh.wikipedia.org/wiki/Simply_KPOP "wikilink")
-  - 2013年7月3日 [Arirang
-    TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") After
-    School CLUB EP12
+  - 2013年5月21日 [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") [Simply KPOP](https://zh.wikipedia.org/wiki/Simply_KPOP "wikilink")
+  - 2013年7月3日 [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") After School CLUB EP12
 
 ### 音樂現場
 
@@ -183,15 +177,7 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道
   - [官方Me2day](https://web.archive.org/web/20130503115317/http://me2day.net/officiallc9)
 
   -
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink")
-[Category:已解散的韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國男子演唱團體 "wikilink")
-[Category:2013年韓國建立](https://zh.wikipedia.org/wiki/Category:2013年韓國建立 "wikilink")
-[Category:2015年韓國廢除](https://zh.wikipedia.org/wiki/Category:2015年韓國廢除 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2015年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2015年解散的音樂團體 "wikilink") [Category:已解散的韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國男子演唱團體 "wikilink") [Category:2013年韓國建立](https://zh.wikipedia.org/wiki/Category:2013年韓國建立 "wikilink") [Category:2015年韓國廢除](https://zh.wikipedia.org/wiki/Category:2015年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.  [官網簡介](http://www.neganetwork.com/artist/LC9/about.asp?menucode=lc)
 2.  [Nega Network 宣佈男團 LC9 解散](http://kpopn.com/2016/01/25/335058/)

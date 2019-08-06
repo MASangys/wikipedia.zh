@@ -1,10 +1,8 @@
 local ToolbarBuilder = require('Module:Toolbar')
 
-local p = {} -- Page object local trackingCategories = {} -- Table for
-storing the tracking categories. local demo
+local p = {} -- Page object local trackingCategories = {} -- Table for storing the tracking categories. local demo
 
-\-- Define a custom error message for this module. local function
-err(msg, section)
+\-- Define a custom error message for this module. local function err(msg, section)
 
 `   return '`<strong class="error">[`-{zh-hans:模块;zh-hant:模組}-:PageLinks錯誤`](../Page/模块:PageLinks.md "wikilink")`：' .. msg .. '。`</strong>`'`
 
@@ -12,11 +10,7 @@ end
 
 -----
 
-\-- To add more link types, write a function that produces an individual
-link, and put -- -- it at the bottom of the list below. Then, add a link
-code for your function to the -- -- "linktypes" table. Try and make the
-code three letters or less. -- -- If you want more helper strings, you
-can define them in the generatePageDataStrings -- -- function below. --
+\-- To add more link types, write a function that produces an individual link, and put -- -- it at the bottom of the list below. Then, add a link code for your function to the -- -- "linktypes" table. Try and make the code three letters or less. -- -- If you want more helper strings, you can define them in the generatePageDataStrings -- -- function below. --
 
 -----
 
@@ -28,8 +22,7 @@ can define them in the generatePageDataStrings -- -- function below. --
 
 local function makePageLink()
 
-`   return p.fullText and '`[`'``   ``..``   ``p.fullText``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/:'_.._p.fullText_.._' "wikilink")`' or ''`
+`   return p.fullText and '`[`'``   ``..``   ``p.fullText``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:'_.._p.fullText_.._' "wikilink")`' or ''`
 
 end
 
@@ -41,15 +34,13 @@ end
 
 local function makeWhatLinksHereLink()
 
-`   return '`[`-{zh-hans:链接;``
- ``zh-hant:連結;}-`](https://zh.wikipedia.org/wiki/Special:WhatLinksHere/'_.._p.fullText_.._' "wikilink")`'`
+`   return '`[`-{zh-hans:链接;``   ``zh-hant:連結;}-`](https://zh.wikipedia.org/wiki/Special:WhatLinksHere/'_.._p.fullText_.._' "wikilink")`'`
 
 end
 
 local function makeWhatLinksHereLink2()
 
-`   return '`[`-{zh-hans:链;``
- ``zh-hant:連;}-入`](https://zh.wikipedia.org/wiki/Special:WhatLinksHere/'_.._p.fullText_.._' "wikilink")`'`
+`   return '`[`-{zh-hans:链;``   ``zh-hant:連;}-入`](https://zh.wikipedia.org/wiki/Special:WhatLinksHere/'_.._p.fullText_.._' "wikilink")`'`
 
 end
 
@@ -124,8 +115,7 @@ end
 
 -----
 
-\-- LINK FUNCTIONS END -- -- To enable new link functions, add the code
-to the "linktypes" table directly below. --
+\-- LINK FUNCTIONS END -- -- To enable new link functions, add the code to the "linktypes" table directly below. --
 
 -----
 
@@ -215,9 +205,7 @@ local function generateTrackingCategories()
 
 end
 
-\-- This function generates a table of all available link types, with
-their previews. -- It is used in the module documentation. local
-function getLinkTable(args)
+\-- This function generates a table of all available link types, with their previews. -- It is used in the module documentation. local function getLinkTable(args)
 
 `   demo = args.demo -- Set the demo variable.`
 `   -- Generate the page data strings and return any errors.`
@@ -327,8 +315,7 @@ local function getLinks(args)
 
 `   if result then`
 `       if args.sup then`
-`           result = '`<sup>`'``   ``..``   ``result``   ``..``
- ``'`</sup>`'`
+`           result = '`<sup>`'``   ``..``   ``result``   ``..``   ``'`</sup>`'`
 `       end`
 `       result = ' ' .. result`
 `   else`
@@ -340,8 +327,7 @@ local function getLinks(args)
 `       if p then`
 `           result = '`<span>`' .. makePageLink() .. result .. '`</span>`'`
 `       else`
-`           result = '`<span>[`'``   ``..``   ``args.page``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/'_.._args.page_.._' "wikilink")`' .. result .. '`</span>`'`
+`           result = '`<span>[`'``   ``..``   ``args.page``   ``..``   ``'`](https://zh.wikipedia.org/wiki/'_.._args.page_.._' "wikilink")`' .. result .. '`</span>`'`
 `       end`
 `   end`
 

@@ -1,5 +1,4 @@
-**DRIVE-GLAY complete
-BEST**是[GLAY](../Page/GLAY.md "wikilink")的第2張A面[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
+**DRIVE-GLAY complete BEST**是[GLAY](../Page/GLAY.md "wikilink")的第2張A面[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 
 ## 簡介
 
@@ -12,30 +11,26 @@ BEST**是[GLAY](../Page/GLAY.md "wikilink")的第2張A面[精選輯](https://zh.
 
 ### DISC 1
 
-1.  **[迷惑](https://zh.wikipedia.org/wiki/迷惑/SPECIAL_THANKS "wikilink")
-    (Jet the Phantom)**
+1.  **[迷惑](https://zh.wikipedia.org/wiki/迷惑/SPECIAL_THANKS "wikilink") (Jet the Phantom)**
       -
         此為不同於單曲的版本。
 2.  **[口唇](../Page/口唇_\(GLAY單曲\).md "wikilink")**
       -
         11th單曲。
-3.  **[SHUTTER
-    SPEEDS的主題](https://zh.wikipedia.org/wiki/BELOVED_\(GLAY原創專輯\) "wikilink")**
+3.  **[SHUTTER SPEEDS的主題](https://zh.wikipedia.org/wiki/BELOVED_\(GLAY原創專輯\) "wikilink")**
 4.  **[永遠的兩個人…](https://zh.wikipedia.org/wiki/永遠的兩個人…/GONE_WITH_THE_WIND "wikilink")**
       -
         5th單曲。
 5.  **[Glorious](../Page/Glorious.md "wikilink")**
       -
         8th單曲。
-6.  **[a
-    Boy〜一直無法忘懷〜](https://zh.wikipedia.org/wiki/a_Boy〜一直無法忘懷〜 "wikilink")**
+6.  **[a Boy〜一直無法忘懷〜](https://zh.wikipedia.org/wiki/a_Boy〜一直無法忘懷〜 "wikilink")**
       -
         10th單曲。
 7.  **[生存的勇氣](https://zh.wikipedia.org/wiki/生存的勇氣 "wikilink")**
       -
         7th單曲。
-8.  **[HAPPY
-    SWING](https://zh.wikipedia.org/wiki/SPEED_POP "wikilink")**
+8.  **[HAPPY SWING](https://zh.wikipedia.org/wiki/SPEED_POP "wikilink")**
       -
         1st原創專輯『SPEED POP』收錄。
 9.  **[“Modern…”的她](../Page/“Modern…”的她.md "wikilink")**
@@ -47,8 +42,7 @@ BEST**是[GLAY](../Page/GLAY.md "wikilink")的第2張A面[精選輯](https://zh.
 11. **[HOWEVER](../Page/HOWEVER.md "wikilink")**
       -
         12th單曲。
-12. **[I'm in
-    Love](https://zh.wikipedia.org/wiki/pure_soul "wikilink")**
+12. **[I'm in Love](https://zh.wikipedia.org/wiki/pure_soul "wikilink")**
       -
         4th原創專輯『pure soul』收錄。
 
@@ -60,8 +54,7 @@ BEST**是[GLAY](../Page/GLAY.md "wikilink")的第2張A面[精選輯](https://zh.
 2.  **[生存的意義](https://zh.wikipedia.org/wiki/HEAVY_GAUGE_\(GLAY\) "wikilink")**
       -
         5th原創專輯『HEAVY GAUGE』收錄。
-3.  **[BIRI BIRI
-    CRUSHMAN](https://zh.wikipedia.org/wiki/pure_soul "wikilink")**
+3.  **[BIRI BIRI CRUSHMAN](https://zh.wikipedia.org/wiki/pure_soul "wikilink")**
       -
         4th原創專輯『pure soul』收錄。
 4.  **[BELOVED](https://zh.wikipedia.org/wiki/BELOVED_\(シングル\) "wikilink")**
@@ -85,8 +78,7 @@ BEST**是[GLAY](../Page/GLAY.md "wikilink")的第2張A面[精選輯](https://zh.
 10. **[戀慕春天的人](https://zh.wikipedia.org/wiki/BELOVED_\(GLAY原創專輯\) "wikilink")**
       -
         3rd原創專輯『[BELOVED](https://zh.wikipedia.org/wiki/BELOVED_\(GLAY原創專輯\) "wikilink")』收錄。
-11. **[SPECIAL
-    THANKS](https://zh.wikipedia.org/wiki/迷惑/SPECIAL_THANKS "wikilink")**
+11. **[SPECIAL THANKS](https://zh.wikipedia.org/wiki/迷惑/SPECIAL_THANKS "wikilink")**
       -
         20th單曲。
 12. **[Missing you](../Page/Missing_You_\(GLAY\).md "wikilink")**
@@ -112,19 +104,12 @@ BEST**是[GLAY](../Page/GLAY.md "wikilink")的第2張A面[精選輯](https://zh.
 15. SOUL LOVE
 16. I'm in Love
 17. HAPPINESS
-18. [May
-    Fair](https://zh.wikipedia.org/wiki/pure_soul "wikilink")（4th原創專輯『pure
-    soul』收錄）
+18. [May Fair](https://zh.wikipedia.org/wiki/pure_soul "wikilink")（4th原創專輯『pure soul』收錄）
 19. [不是這裡，要往哪裡](../Page/不是這裡，要往哪裡.md "wikilink")（17th單曲）
 20. [RAIN](../Page/RAIN_\(GLAY\).md "wikilink")（1st單曲）
 
 ## 參考資料
 
-[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
-[Category:GLAY音樂專輯](https://zh.wikipedia.org/wiki/Category:GLAY音樂專輯 "wikilink")
-[Category:EMI日本音樂專輯](https://zh.wikipedia.org/wiki/Category:EMI日本音樂專輯 "wikilink")
-[Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
-[Category:2000年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink") [Category:GLAY音樂專輯](https://zh.wikipedia.org/wiki/Category:GLAY音樂專輯 "wikilink") [Category:EMI日本音樂專輯](https://zh.wikipedia.org/wiki/Category:EMI日本音樂專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:2000年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.

@@ -1,7 +1,4 @@
-// See [mw:Reference
-Tooltips](https://zh.wikipedia.org/wiki/mw:Reference_Tooltips "wikilink")
-if (mw.config.get('wgAction') == 'view' &&
-\!mw.user.options.get('gadget-Navigation_popups')) { // 启用导航Popup则禁用本js
+// See [mw:Reference Tooltips](https://zh.wikipedia.org/wiki/mw:Reference_Tooltips "wikilink") if (mw.config.get('wgAction') == 'view' && \!mw.user.options.get('gadget-Navigation_popups')) { // 启用导航Popup则禁用本js
 
 ` window.pg || $(document).ready(function ($) {`
 `   var bodyContent = document.getElementById('mw-content-text') || document.body;`
@@ -28,8 +25,7 @@ if (mw.config.get('wgAction') == 'view' &&
 
 <li>
 
-").append($("<a>").text("启用参考文献提示工具").attr("href",
-"<javascript:(function>(){})()").click(function () {
+").append($("<a>").text("启用参考文献提示工具").attr("href", "<javascript:(function>(){})()").click(function () {
 
 `         toggleRT(1)`
 `       })));`

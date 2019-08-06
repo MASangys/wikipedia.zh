@@ -12,9 +12,6 @@ F6DM曾在2008年[北美国际汽车展上被介绍和展览](../Page/底特律�
 
 ## 参考资料
 
-[Category:比亞迪車輛](https://zh.wikipedia.org/wiki/Category:比亞迪車輛 "wikilink")
-[Category:轎車](https://zh.wikipedia.org/wiki/Category:轎車 "wikilink")
-[Category:中型車](https://zh.wikipedia.org/wiki/Category:中型車 "wikilink")
-[Category:插电式混合动力汽车](https://zh.wikipedia.org/wiki/Category:插电式混合动力汽车 "wikilink")
+[Category:比亞迪車輛](https://zh.wikipedia.org/wiki/Category:比亞迪車輛 "wikilink") [Category:轎車](https://zh.wikipedia.org/wiki/Category:轎車 "wikilink") [Category:中型車](https://zh.wikipedia.org/wiki/Category:中型車 "wikilink") [Category:插电式混合动力汽车](https://zh.wikipedia.org/wiki/Category:插电式混合动力汽车 "wikilink")
 
 1.

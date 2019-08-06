@@ -19,8 +19,7 @@
 
 ## 应用程序
 
-樂蛙OS採用了和原裝Android不同的系統應用程式，取代了原裝的音樂程式、撥號程式、相簿程式、相機程式及通知欄，添加了原本没有的功能。樂蛙OS除大幅修改原生Android界面，也内置多款自制应用在内。
-主要有：
+樂蛙OS採用了和原裝Android不同的系統應用程式，取代了原裝的音樂程式、撥號程式、相簿程式、相機程式及通知欄，添加了原本没有的功能。樂蛙OS除大幅修改原生Android界面，也内置多款自制应用在内。 主要有：
 
   - 应用商店
 
@@ -31,14 +30,11 @@
 ## 參考文獻
 
   - [乐蛙专访：荣耀刷了乐蛙OS就能打败小米？](http://www.leiphone.com/looks-like-millet.html)
-  - [為MTK而生的Android
-    ROM：樂蛙OS](http://www.ctimes.com.tw/DispCols/tw/%E6%A8%82%E8%9B%99/Android-ROM/%E4%B8%AD%E5%9C%8B%E5%8D%83%E5%85%83%E6%89%8B%E6%A9%9F/%E6%A8%82%E8%9B%99OS/MTK/1209182340IA.shtml)
+  - [為MTK而生的Android ROM：樂蛙OS](http://www.ctimes.com.tw/DispCols/tw/%E6%A8%82%E8%9B%99/Android-ROM/%E4%B8%AD%E5%9C%8B%E5%8D%83%E5%85%83%E6%89%8B%E6%A9%9F/%E6%A8%82%E8%9B%99OS/MTK/1209182340IA.shtml)
 
 ## 外部連結
 
   -
-[Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink")
-[Category:售後韌體](https://zh.wikipedia.org/wiki/Category:售後韌體 "wikilink")
-[Category:嵌入式Linux](https://zh.wikipedia.org/wiki/Category:嵌入式Linux "wikilink")
+[Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink") [Category:售後韌體](https://zh.wikipedia.org/wiki/Category:售後韌體 "wikilink") [Category:嵌入式Linux](https://zh.wikipedia.org/wiki/Category:嵌入式Linux "wikilink")
 
 1.

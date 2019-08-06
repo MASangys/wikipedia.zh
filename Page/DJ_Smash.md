@@ -1,5 +1,4 @@
-**安德烈·列昂尼多维奇·史爾曼**（），知名的[藝名](../Page/藝名.md "wikilink")為**DJ
-Smash**；1982年5月23日出生於[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[彼爾姆](https://zh.wikipedia.org/wiki/彼爾姆 "wikilink")\[1\]，是一位[俄羅斯知名DJ](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")，曲風大多來自於[浩室音樂及](https://zh.wikipedia.org/wiki/浩室音樂 "wikilink")[電子音樂](../Page/電子音樂.md "wikilink")居多。
+**安德烈·列昂尼多维奇·史爾曼**（），知名的[藝名](../Page/藝名.md "wikilink")為**DJ Smash**；1982年5月23日出生於[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[彼爾姆](https://zh.wikipedia.org/wiki/彼爾姆 "wikilink")\[1\]，是一位[俄羅斯知名DJ](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")，曲風大多來自於[浩室音樂及](https://zh.wikipedia.org/wiki/浩室音樂 "wikilink")[電子音樂](../Page/電子音樂.md "wikilink")居多。
 
 ## 電台單曲
 
@@ -53,12 +52,7 @@ Smash**；1982年5月23日出生於[俄羅斯](https://zh.wikipedia.org/wiki/俄
   -
   -
   -
-[Category:1982年出生](https://zh.wikipedia.org/wiki/Category:1982年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:俄羅斯音樂家](https://zh.wikipedia.org/wiki/Category:俄羅斯音樂家 "wikilink")
-[Category:俄罗斯DJ](https://zh.wikipedia.org/wiki/Category:俄罗斯DJ "wikilink")
+[Category:1982年出生](https://zh.wikipedia.org/wiki/Category:1982年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:俄羅斯音樂家](https://zh.wikipedia.org/wiki/Category:俄羅斯音樂家 "wikilink") [Category:俄罗斯DJ](https://zh.wikipedia.org/wiki/Category:俄罗斯DJ "wikilink")
 
 1.
-2.  [Общие параметры ротации всех треков исполнителя на радиостанциях,
-    работающих в системе
-    TOPHIT.RU](http://www.tophit.ru/cgi-bin/artinfo.cgi?id=16467)
+2.  [Общие параметры ротации всех треков исполнителя на радиостанциях, работающих в системе TOPHIT.RU](http://www.tophit.ru/cgi-bin/artinfo.cgi?id=16467)

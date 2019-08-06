@@ -180,17 +180,10 @@ CR:5是「Capo Regime:cinque」的略称，带有“5人的干部”的意思。
 
 ## 外部連接
 
-  - [Lucky
-    Dog1官方網站](https://web.archive.org/web/20101013121703/http://www.tennenouji.net/product/03_luckydog1/index.html)
-    ※未滿18歲禁止閱覽
+  - [Lucky Dog1官方網站](https://web.archive.org/web/20101013121703/http://www.tennenouji.net/product/03_luckydog1/index.html) ※未滿18歲禁止閱覽
 
-  - [Lucky Dog1 + bad egg官方網站](http://tennenouji.net/badegg/#top)
-    ※未滿18歲禁止閱覽
+  - [Lucky Dog1 + bad egg官方網站](http://tennenouji.net/badegg/#top) ※未滿18歲禁止閱覽
 
-[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink")
-[Category:BL遊戲](https://zh.wikipedia.org/wiki/Category:BL遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:日本成人遊戲](https://zh.wikipedia.org/wiki/Category:日本成人遊戲 "wikilink")
-[Category:越獄題材作品](https://zh.wikipedia.org/wiki/Category:越獄題材作品 "wikilink")
+[Category:2009年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2009年日本成人遊戲 "wikilink") [Category:BL遊戲](https://zh.wikipedia.org/wiki/Category:BL遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:日本成人遊戲](https://zh.wikipedia.org/wiki/Category:日本成人遊戲 "wikilink") [Category:越獄題材作品](https://zh.wikipedia.org/wiki/Category:越獄題材作品 "wikilink")
 
 1.  在美國東岸的一個架空城市。

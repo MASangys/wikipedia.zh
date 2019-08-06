@@ -4,19 +4,13 @@
 
 ## Mozilla Firefox
 
-[Mozilla
-Firefox是到](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")2013年為止，Mozilla所有產品裡最重要的[在地化](https://zh.wikipedia.org/wiki/國際化與在地化 "wikilink")[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")\[1\]。其於2004年的首次官方釋出就提供了28種不同的[語言版本](https://zh.wikipedia.org/wiki/地區設定 "wikilink")，其中包括了[英式英語](../Page/英國英語.md "wikilink")、[美式英語](https://zh.wikipedia.org/wiki/美國英語 "wikilink")、[西班牙語以及使用](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")[正體字或](https://zh.wikipedia.org/wiki/正體字 "wikilink")[簡化字的](https://zh.wikipedia.org/wiki/簡化字 "wikilink")[現代標準漢語](../Page/現代標準漢語.md "wikilink")。Firefox
-4則首次提供了超過80種在地化版本，並引入10種新的在地化版本，其中包括了6種非洲語言\[2\]。
+[Mozilla Firefox是到](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")2013年為止，Mozilla所有產品裡最重要的[在地化](https://zh.wikipedia.org/wiki/國際化與在地化 "wikilink")[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")\[1\]。其於2004年的首次官方釋出就提供了28種不同的[語言版本](https://zh.wikipedia.org/wiki/地區設定 "wikilink")，其中包括了[英式英語](../Page/英國英語.md "wikilink")、[美式英語](https://zh.wikipedia.org/wiki/美國英語 "wikilink")、[西班牙語以及使用](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")[正體字或](https://zh.wikipedia.org/wiki/正體字 "wikilink")[簡化字的](https://zh.wikipedia.org/wiki/簡化字 "wikilink")[現代標準漢語](../Page/現代標準漢語.md "wikilink")。Firefox 4則首次提供了超過80種在地化版本，並引入10種新的在地化版本，其中包括了6種非洲語言\[2\]。
 
 ### 在地化概觀
 
 以下列表是已有或曾經提供過的語言版本，以每個版本最終釋出時所包含的語言版本為準\[3\]。
 
-值得注意的是，除了 Mozilla 社羣提供的簡體中文界面在地化版本以外，還有一個版本是 Mozilla
-的中國大陸分部謀智中國也針對中國大陸推出的在地化版本，即「火狐中國版」。與
-Mozilla 的簡體中文版 Firefox
-相比多了一些適合大部分中國大陸使用者使用習慣的附加元件（如新聞主頁面、網頁版微信快捷登入、網頁截圖、QRCode分享等），Firefox
-Sync 也對中國大陸推出了伺服器位於中國大陸境內的「火狐通行證」，但僅限火狐中國版（包括其 Android 版）可用。\[4\]
+值得注意的是，除了 Mozilla 社羣提供的簡體中文界面在地化版本以外，還有一個版本是 Mozilla 的中國大陸分部謀智中國也針對中國大陸推出的在地化版本，即「火狐中國版」。與 Mozilla 的簡體中文版 Firefox 相比多了一些適合大部分中國大陸使用者使用習慣的附加元件（如新聞主頁面、網頁版微信快捷登入、網頁截圖、QRCode分享等），Firefox Sync 也對中國大陸推出了伺服器位於中國大陸境內的「火狐通行證」，但僅限火狐中國版（包括其 Android 版）可用。\[4\]
 
 <table>
 <thead>
@@ -1544,8 +1538,7 @@ Sync 也對中國大陸推出了伺服器位於中國大陸境內的「火狐通
 
 ## Mozilla Thunderbird
 
-[Mozilla
-Thunderbird是一個電子郵件軟體](../Page/Mozilla_Thunderbird.md "wikilink")，擁有的語言版本較Firefox少。首次官方釋出只有美式英語的版本，後期的版本則有較多種語言\[5\]。
+[Mozilla Thunderbird是一個電子郵件軟體](../Page/Mozilla_Thunderbird.md "wikilink")，擁有的語言版本較Firefox少。首次官方釋出只有美式英語的版本，後期的版本則有較多種語言\[5\]。
 
 ### 在地化概觀
 
@@ -2157,8 +2150,7 @@ Thunderbird是一個電子郵件軟體](../Page/Mozilla_Thunderbird.md "wikilink
 
 ## 網頁內容及法律資訊
 
-雖然Mozilla大部份的網頁內容都可以被在地化，但每個在地化版本的程度均不相同。舉例來說，Mozilla
-Firefox的隱私權政策到2013年為止只有提供英文版 \[7\]。
+雖然Mozilla大部份的網頁內容都可以被在地化，但每個在地化版本的程度均不相同。舉例來說，Mozilla Firefox的隱私權政策到2013年為止只有提供英文版 \[7\]。
 
 ## 註釋
 
@@ -2171,16 +2163,11 @@ Firefox的隱私權政策到2013年為止只有提供英文版 \[7\]。
 
 ## 參見
 
-  - [Mozilla
-    Firefox歷史](https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史 "wikilink")
+  - [Mozilla Firefox歷史](https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史 "wikilink")
   - [網頁瀏覽器列表](https://zh.wikipedia.org/wiki/網頁瀏覽器列表 "wikilink")
   - [網頁瀏覽器時間線](https://zh.wikipedia.org/wiki/網頁瀏覽器時間線 "wikilink")
 
-[Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink")
-[Category:網際網路的歷史](https://zh.wikipedia.org/wiki/Category:網際網路的歷史 "wikilink")
-[Category:Linux軟體](https://zh.wikipedia.org/wiki/Category:Linux軟體 "wikilink")
-[Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink")
-[Category:Windows軟體](https://zh.wikipedia.org/wiki/Category:Windows軟體 "wikilink")
+[Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink") [Category:網際網路的歷史](https://zh.wikipedia.org/wiki/Category:網際網路的歷史 "wikilink") [Category:Linux軟體](https://zh.wikipedia.org/wiki/Category:Linux軟體 "wikilink") [Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink") [Category:Windows軟體](https://zh.wikipedia.org/wiki/Category:Windows軟體 "wikilink")
 
 1.
 

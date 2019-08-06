@@ -2,19 +2,11 @@
 
 ## 性質
 
-MBBA的在[常溫下為](https://zh.wikipedia.org/wiki/常溫 "wikilink")[液晶](../Page/液晶.md "wikilink")態，[凝固點為](https://zh.wikipedia.org/wiki/凝固點 "wikilink")22度\[3\]，[熔點為](https://zh.wikipedia.org/wiki/熔點 "wikilink")47度\[4\]，22到47度為液晶相\[5\]\[6\]。從[固態變成液晶態的相變熱為ΔH](https://zh.wikipedia.org/wiki/固態 "wikilink")<sub>trs</sub>=15.9377
-kJ/mol、ΔS<sub>trs</sub>=53.91 k/mol
-K；從液晶相變成液相的相變熱為ΔH<sub>trs</sub>=0.2841
-kJ/mol、ΔS<sub>trs</sub>=0.89 k/mol
-K\[7\]；[熔化熱為ΔH](https://zh.wikipedia.org/wiki/熔化熱 "wikilink")<sub>trs</sub>=18.033
-kJ/mol、ΔS<sub>trs</sub>=61.04 k/mol
-K\[8\]，[三相點約為](https://zh.wikipedia.org/wiki/三相點 "wikilink")[攝氏](https://zh.wikipedia.org/wiki/攝氏 "wikilink")20度\[9\]，另外，固、液、液晶共存為295.3
-K，約為22.15 °C\[10\]。
+MBBA的在[常溫下為](https://zh.wikipedia.org/wiki/常溫 "wikilink")[液晶](../Page/液晶.md "wikilink")態，[凝固點為](https://zh.wikipedia.org/wiki/凝固點 "wikilink")22度\[3\]，[熔點為](https://zh.wikipedia.org/wiki/熔點 "wikilink")47度\[4\]，22到47度為液晶相\[5\]\[6\]。從[固態變成液晶態的相變熱為ΔH](https://zh.wikipedia.org/wiki/固態 "wikilink")<sub>trs</sub>=15.9377 kJ/mol、ΔS<sub>trs</sub>=53.91 k/mol K；從液晶相變成液相的相變熱為ΔH<sub>trs</sub>=0.2841 kJ/mol、ΔS<sub>trs</sub>=0.89 k/mol K\[7\]；[熔化熱為ΔH](https://zh.wikipedia.org/wiki/熔化熱 "wikilink")<sub>trs</sub>=18.033 kJ/mol、ΔS<sub>trs</sub>=61.04 k/mol K\[8\]，[三相點約為](https://zh.wikipedia.org/wiki/三相點 "wikilink")[攝氏](https://zh.wikipedia.org/wiki/攝氏 "wikilink")20度\[9\]，另外，固、液、液晶共存為295.3 K，約為22.15 °C\[10\]。
 
 MBBA不溶於[水](../Page/水.md "wikilink")、異氰酸酯、鹵代有機物、[過氧化物](https://zh.wikipedia.org/wiki/過氧化物 "wikilink")、[酚類](https://zh.wikipedia.org/wiki/酚類 "wikilink")（[酸性](https://zh.wikipedia.org/wiki/酸性 "wikilink")）、環氧化物、[酸酐](../Page/酸酐.md "wikilink")和鹵化物，與氫結合可能生成強還原劑，如氫化物。\[11\]
 
-MBBA為長條型[液晶](../Page/液晶.md "wikilink")[分子](../Page/分子.md "wikilink")，[常溫下會以間列式](https://zh.wikipedia.org/wiki/常溫 "wikilink")（線條式，或稱為[向列型](https://zh.wikipedia.org/wiki/向列型液晶 "wikilink")，nematic
-phase）的方式排列。\[12\]
+MBBA為長條型[液晶](../Page/液晶.md "wikilink")[分子](../Page/分子.md "wikilink")，[常溫下會以間列式](https://zh.wikipedia.org/wiki/常溫 "wikilink")（線條式，或稱為[向列型](https://zh.wikipedia.org/wiki/向列型液晶 "wikilink")，nematic phase）的方式排列。\[12\]
 
 |                                                                                             |                                                                                                                                                                  |                                                                                                                              |
 | ------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
@@ -27,8 +19,7 @@ phase）的方式排列。\[12\]
 
 一般會選用[苯](../Page/苯.md "wikilink")或[甲苯](../Page/甲苯.md "wikilink")作為[溶劑](https://zh.wikipedia.org/wiki/溶劑 "wikilink")，因為它們和水都會有[共沸](../Page/共沸.md "wikilink")現象，再用[迪安-斯塔克裝置把水從系統中移除或使用](https://zh.wikipedia.org/wiki/迪安-斯塔克裝置 "wikilink")[分子篩](https://zh.wikipedia.org/wiki/分子篩 "wikilink")，使平衡移至MBBA方向以制備MBBA。
 
-1969年，漢斯·克爾克（Hans
-Kelker）首次成功合成MBBA，是當時少數於室溫下呈間列式液晶相的液晶材料，且成為最熱門的液晶研究的課題之一\[14\]。
+1969年，漢斯·克爾克（Hans Kelker）首次成功合成MBBA，是當時少數於室溫下呈間列式液晶相的液晶材料，且成為最熱門的液晶研究的課題之一\[14\]。
 
 ## 用途
 
@@ -43,53 +34,31 @@ MBBA被廣泛的應用在各種電子、儀表產品的[液晶顯示器中](http
 
 <references/>
 
-[Category:亚胺](https://zh.wikipedia.org/wiki/Category:亚胺 "wikilink")
-[Category:液晶](https://zh.wikipedia.org/wiki/Category:液晶 "wikilink")
-[Category:芳香醚](https://zh.wikipedia.org/wiki/Category:芳香醚 "wikilink")
+[Category:亚胺](https://zh.wikipedia.org/wiki/Category:亚胺 "wikilink") [Category:液晶](https://zh.wikipedia.org/wiki/Category:液晶 "wikilink") [Category:芳香醚](https://zh.wikipedia.org/wiki/Category:芳香醚 "wikilink")
 
 1.   webbook.nist.gov \[2013-12-5\]
 
-2.  [MBBA-NIST
-    Webbook](http://webbook.nist.gov/cgi/cbook.cgi?InChI=InChI%3D1/C18H21NO/c1-3-4-5-15-6-10-17\(11-7-15\)19-14-16-8-12-18\(20-2\)13-9-16/h6-14H%2C3-5H2%2C1-2H3/b19-14%2B%0A)
-     webbook.nist.gov \[2013-12-5\]
+2.  [MBBA-NIST Webbook](http://webbook.nist.gov/cgi/cbook.cgi?InChI=InChI%3D1/C18H21NO/c1-3-4-5-15-6-10-17\(11-7-15\)19-14-16-8-12-18\(20-2\)13-9-16/h6-14H%2C3-5H2%2C1-2H3/b19-14%2B%0A)  webbook.nist.gov \[2013-12-5\]
 
-3.  Shinoda, T.; Maeda, Y.; Enokido, H., Thermodynamic properties of
-    N-(p-methoxybenzylidene)-p-n-butyl-aniline (MBBA) from 2K to its
-    isotropic-liquid phase, J. Chem. Thermodynam., 1974, 6, 921-934.
+3.  Shinoda, T.; Maeda, Y.; Enokido, H., Thermodynamic properties of N-(p-methoxybenzylidene)-p-n-butyl-aniline (MBBA) from 2K to its isotropic-liquid phase, J. Chem. Thermodynam., 1974, 6, 921-934.
 
-4.  Shinoda, T.; Mizuno, M., On the pre-transition phenomenon of
-    n-(p-methoxybenzylidene)-p-n-butylaniline (MBBA), Tokyo Kogyo
-    Shikensho Hokoku, 1982, 77(4), 215-217.
+4.  Shinoda, T.; Mizuno, M., On the pre-transition phenomenon of n-(p-methoxybenzylidene)-p-n-butylaniline (MBBA), Tokyo Kogyo Shikensho Hokoku, 1982, 77(4), 215-217.
 
-5.  John Wiley & Sons,Optics of Liquid Crystal Displays Pochi Yeh,
-    Claire Gu ,2010 ,ISBN 0470181761,第16頁
+5.  John Wiley & Sons,Optics of Liquid Crystal Displays Pochi Yeh, Claire Gu ,2010 ,ISBN 0470181761,第16頁
 
 6.  Wiley Series in Pure and Applied Optics第 67 卷, ISSN 0277-2493
 
 7.
-8.  Janik, J.A.; Janik, J.M.; Mayer, J.; Sciesinska, E.; Sciesinski, J.;
-    Twardowski, J.; Waluga, T.; Witko, W., Calorimetric and infrared
-    study of the phase situation in solid MBBA
-    \[N-(p-methoxybenzylidene)-p-(n-butyl)aniline\], J. Phys. (Paris)
-    Colloq., 1975, (1), 159-165.
+8.  Janik, J.A.; Janik, J.M.; Mayer, J.; Sciesinska, E.; Sciesinski, J.; Twardowski, J.; Waluga, T.; Witko, W., Calorimetric and infrared study of the phase situation in solid MBBA \[N-(p-methoxybenzylidene)-p-(n-butyl)aniline\], J. Phys. (Paris) Colloq., 1975, (1), 159-165.
 
-9.  Janik, J.A.; Janik, J.M.; Mayer, J.; Sciesinska, E.; Sciesinski, J.;
-    Twardowski, J.; Waluga, T.; Witko, W., Calorimetric and infrared
-    study of the phase situation in solid MBBA
-    \[N-(p-methoxybenzylidene)-p-(n-butyl)aniline\], J. Phys., Colloq.,
-    1975, 1, 159
+9.  Janik, J.A.; Janik, J.M.; Mayer, J.; Sciesinska, E.; Sciesinski, J.; Twardowski, J.; Waluga, T.; Witko, W., Calorimetric and infrared study of the phase situation in solid MBBA \[N-(p-methoxybenzylidene)-p-(n-butyl)aniline\], J. Phys., Colloq., 1975, 1, 159
 
-10. TRC - Thermodynamics Research Center, NIST Boulder Laboratories, M.
-    Frenkel director
+10. TRC - Thermodynamics Research Center, NIST Boulder Laboratories, M. Frenkel director
 
 11.
 12.
-13. [Organic
-    Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink"),
-    Coll. Vol. 6, p.901 (1988); Vol. 50, p.66 (1970).
-    [Article](http://www.orgsyn.org/orgsyn/prep.asp?prep=cv6p0901)
+13. [Organic Syntheses](https://zh.wikipedia.org/wiki/Organic_Syntheses "wikilink"), Coll. Vol. 6, p.901 (1988); Vol. 50, p.66 (1970). [Article](http://www.orgsyn.org/orgsyn/prep.asp?prep=cv6p0901)
 
 14.
 
-15. [液晶顯示器光學](http://promotion.ep.nctu.edu.tw/teaches/95/95nctu.pdf)
-    promotion.ep.nctu.edu.tw \[2013-12-6\]
+15. [液晶顯示器光學](http://promotion.ep.nctu.edu.tw/teaches/95/95nctu.pdf)  promotion.ep.nctu.edu.tw \[2013-12-6\]

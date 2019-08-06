@@ -1,7 +1,4 @@
-**BESTie**（）是韓國女子音樂組合，在2013年7月12日以《Pitapat》（）出道 \[1\]。
-成員[蕙姸](https://zh.wikipedia.org/wiki/姜蕙姸 "wikilink")、[U
-ji](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")、[海嶺為前](https://zh.wikipedia.org/wiki/羅海嶺 "wikilink")[EXID成員](https://zh.wikipedia.org/wiki/EXID "wikilink")\[2\]，成員[多惠則是新成員](https://zh.wikipedia.org/wiki/宋多惠 "wikilink")，所以出概念照前，大眾對她充滿神秘感。**BESTie**的意思為"Best
-Friend"的縮略語，象徵她們要成為親密朋友一樣的團體\[3\]，所以她們的口號是**Beside you BESTie**。
+**BESTie**（）是韓國女子音樂組合，在2013年7月12日以《Pitapat》（）出道 \[1\]。 成員[蕙姸](https://zh.wikipedia.org/wiki/姜蕙姸 "wikilink")、[U ji](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")、[海嶺為前](https://zh.wikipedia.org/wiki/羅海嶺 "wikilink")[EXID成員](https://zh.wikipedia.org/wiki/EXID "wikilink")\[2\]，成員[多惠則是新成員](https://zh.wikipedia.org/wiki/宋多惠 "wikilink")，所以出概念照前，大眾對她充滿神秘感。**BESTie**的意思為"Best Friend"的縮略語，象徵她們要成為親密朋友一樣的團體\[3\]，所以她們的口號是**Beside you BESTie**。
 
 官方粉絲名為「**BESTiny**」，為BESTie和Destiny結合的複合詞，有BESTie是一種緣分，BESTie是我們的命運的意思。
 
@@ -9,39 +6,23 @@ Friend"的縮略語，象徵她們要成為親密朋友一樣的團體\[3\]，�
 
 ### 2013年：出道前
 
-在[EXID以](https://zh.wikipedia.org/wiki/EXID "wikilink")《Whoz That
-Girl》出道後，當時成員[多美](https://zh.wikipedia.org/wiki/姜蕙姸 "wikilink")（現[蕙姸](https://zh.wikipedia.org/wiki/姜蕙姸 "wikilink")）、[有智](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")（現[U
-ji](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")）、[海嶺在兩個月後](https://zh.wikipedia.org/wiki/羅海嶺 "wikilink")，即在2012年4月30日退出了[EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")
-\[4\]，她們都向其他方向發展。[YNB
-Entertainment於](https://zh.wikipedia.org/wiki/YNB_Entertainment "wikilink")2013年7月2日讓[海嶺](https://zh.wikipedia.org/wiki/羅海嶺 "wikilink")、[蕙姸和](https://zh.wikipedia.org/wiki/姜蕙姸 "wikilink")[U
-ji以及前SM娛樂練習生多惠加入](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")**BESTie**以歌手身分出道\[5\]。
+在[EXID以](https://zh.wikipedia.org/wiki/EXID "wikilink")《Whoz That Girl》出道後，當時成員[多美](https://zh.wikipedia.org/wiki/姜蕙姸 "wikilink")（現[蕙姸](https://zh.wikipedia.org/wiki/姜蕙姸 "wikilink")）、[有智](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")（現[U ji](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")）、[海嶺在兩個月後](https://zh.wikipedia.org/wiki/羅海嶺 "wikilink")，即在2012年4月30日退出了[EXID](https://zh.wikipedia.org/wiki/EXID "wikilink") \[4\]，她們都向其他方向發展。[YNB Entertainment於](https://zh.wikipedia.org/wiki/YNB_Entertainment "wikilink")2013年7月2日讓[海嶺](https://zh.wikipedia.org/wiki/羅海嶺 "wikilink")、[蕙姸和](https://zh.wikipedia.org/wiki/姜蕙姸 "wikilink")[U ji以及前SM娛樂練習生多惠加入](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")**BESTie**以歌手身分出道\[5\]。
 
 ### 2013年: 出道、首張數位單曲《두근두근（Pit-a-Pat）》、第二張數位單曲《연애의 조건 (Love Option)》、 首張單曲《짱 크리스마스（Zzang Christmas）》
 
-2013年7月4日，官方釋出了BESTie出道概念照\[6\]。2013年7月5日，經紀公司[YNB
-Entertainment確定BESTie會在](https://zh.wikipedia.org/wiki/YNB_Entertainment "wikilink")7月12日出道\[7\]
-。7月9日，官方釋出了BESTie出道預告\[8\]。7月12日，官方釋出了BESTie出道曲《Pitapat
-(두근두근)》的MV\[9\]，是次MV更請來[2AM](../Page/2AM.md "wikilink")的[趙權](../Page/趙權.md "wikilink")跨刀合作\[10\]。
-2013年10月4日至8日，官方釋出了BESTie四位成員的回歸概念照，先後次序為[蕙姸](https://zh.wikipedia.org/wiki/姜蕙姸 "wikilink")、[多惠](https://zh.wikipedia.org/wiki/宋多惠 "wikilink")、[U
-ji](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")、[海嶺](https://zh.wikipedia.org/wiki/羅海嶺 "wikilink")。2013年10月15日公開了回歸曲《연애의
-조건 (Love Option)》的預告\[11\]。2013年10月17日，官方釋出了新曲《연애의 조건 (Love
-Option)》的MV\[12\]。
-2013年12月14日，官方公佈BESTie將以聖誕曲回歸，並在同日公開了BESTie聖誕回歸曲《짱 크리스마스（Zzang
-Christmas）》的預告\[13\]。是次回歸更邀請[劉世允幫忙寫詞及跨刀獻聲](https://zh.wikipedia.org/wiki/劉世允 "wikilink")。12月17日，官方釋出了BESTie聖誕曲《짱
-크리스마스（Zzang Christmas）》的MV\[14\]。
+2013年7月4日，官方釋出了BESTie出道概念照\[6\]。2013年7月5日，經紀公司[YNB Entertainment確定BESTie會在](https://zh.wikipedia.org/wiki/YNB_Entertainment "wikilink")7月12日出道\[7\] 。7月9日，官方釋出了BESTie出道預告\[8\]。7月12日，官方釋出了BESTie出道曲《Pitapat (두근두근)》的MV\[9\]，是次MV更請來[2AM](../Page/2AM.md "wikilink")的[趙權](../Page/趙權.md "wikilink")跨刀合作\[10\]。
+2013年10月4日至8日，官方釋出了BESTie四位成員的回歸概念照，先後次序為[蕙姸](https://zh.wikipedia.org/wiki/姜蕙姸 "wikilink")、[多惠](https://zh.wikipedia.org/wiki/宋多惠 "wikilink")、[U ji](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")、[海嶺](https://zh.wikipedia.org/wiki/羅海嶺 "wikilink")。2013年10月15日公開了回歸曲《연애의 조건 (Love Option)》的預告\[11\]。2013年10月17日，官方釋出了新曲《연애의 조건 (Love Option)》的MV\[12\]。
+2013年12月14日，官方公佈BESTie將以聖誕曲回歸，並在同日公開了BESTie聖誕回歸曲《짱 크리스마스（Zzang Christmas）》的預告\[13\]。是次回歸更邀請[劉世允幫忙寫詞及跨刀獻聲](https://zh.wikipedia.org/wiki/劉世允 "wikilink")。12月17日，官方釋出了BESTie聖誕曲《짱 크리스마스（Zzang Christmas）》的MV\[14\]。
 
 ### 2014年：第三張數位單曲《Thank U Very Much》、首張迷你專輯《Hot Baby》、首張重製迷你專輯《I Need You》
 
-2014年2月20日，官方公佈BESTie會在2月28日回歸\[15\]。21日公開了回歸概念照\[16\]。2月26日公開了《Thank U
-Very Much》的預告\[17\]。
+2014年2月20日，官方公佈BESTie會在2月28日回歸\[15\]。21日公開了回歸概念照\[16\]。2月26日公開了《Thank U Very Much》的預告\[17\]。
 
 7月12日，BESTie出道一周年，經理人公司於官方粉絲Cafe宣佈粉絲名為BESTiny。
 
-在7月28日，官方公開了兩段橫踢(Duble Sidekicks)製作的《Hot Baby》的MV，並在同日推出首張迷你專輯《Hot
-Baby》。\[18\]
+在7月28日，官方公開了兩段橫踢(Duble Sidekicks)製作的《Hot Baby》的MV，並在同日推出首張迷你專輯《Hot Baby》。\[18\]
 
-而在8月26日上午，經理人公司宣佈BESTie會在29日將推出重製迷你專輯《I Need You》，並會在28日先在[M\!
-Countdown開始宣傳活動](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。\[19\]。
+而在8月26日上午，經理人公司宣佈BESTie會在29日將推出重製迷你專輯《I Need You》，並會在28日先在[M\! Countdown開始宣傳活動](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。\[19\]。
 
 ### 2015年：第二張迷你專輯《Love Emotion》
 
@@ -49,36 +30,27 @@ Countdown開始宣傳活動](https://zh.wikipedia.org/wiki/M!_Countdown "wikilin
 
 2015年4月28日，官方臉書與專輯銷售通路之一的leesmusic分別公開了專輯封面照與曲目內容。 \[21\]
 
-2015年4月29日，官方臉書公開成員[多惠與](https://zh.wikipedia.org/wiki/宋多惠 "wikilink")[海嶺第二張迷你專輯](https://zh.wikipedia.org/wiki/羅海嶺 "wikilink")《Love
-Emotion》的花絮照片。 \[22\]
+2015年4月29日，官方臉書公開成員[多惠與](https://zh.wikipedia.org/wiki/宋多惠 "wikilink")[海嶺第二張迷你專輯](https://zh.wikipedia.org/wiki/羅海嶺 "wikilink")《Love Emotion》的花絮照片。 \[22\]
 
-2015年4月30日，繼多惠與海嶺之後，BESTie 上午透過官方臉書公開成員[U
-ji](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")、[蕙姸的花絮照](https://zh.wikipedia.org/wiki/姜蕙姸 "wikilink")。
-\[23\]
+2015年4月30日，繼多惠與海嶺之後，BESTie 上午透過官方臉書公開成員[U ji](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")、[蕙姸的花絮照](https://zh.wikipedia.org/wiki/姜蕙姸 "wikilink")。 \[23\]
 
-2015年5月1日，男團 Noel 成員[姜均成](../Page/姜均成.md "wikilink")友情出演主打歌《Excuse
-Me》，官方推特公開兩張花絮照。 \[24\]
+2015年5月1日，男團 Noel 成員[姜均成](../Page/姜均成.md "wikilink")友情出演主打歌《Excuse Me》，官方推特公開兩張花絮照。 \[24\]
 
 2015年5月6日，BESTie 新專輯主打歌《Excuse Me》預告公開。 \[25\]
 
 2015年5月7日，BESTie 新專輯主打歌《Excuse Me》第二波預告公開。 \[26\]
 
-2015年5月8日，BESTie 新專輯主打歌《Excuse Me》MV 公開，且於5月7日的[M\!
-Countdown進行回歸舞台](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。
-\[27\]
+2015年5月8日，BESTie 新專輯主打歌《Excuse Me》MV 公開，且於5月7日的[M\! Countdown進行回歸舞台](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。 \[27\]
 
 2015年5月13日，BESTie 新曲《Excuse Me》練習室版 MV 公開。 \[28\]
 
 ### 2017年：U ji、多惠退出
 
-2017年9月5日，成員[U
-ji](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")、[多惠與經紀公司提前解約](https://zh.wikipedia.org/wiki/宋多惠 "wikilink")，退出組合。
-2017年末，成员蕙妍参加[The Unit节目](../Page/The_Unit.md "wikilink")。
+2017年9月5日，成員[U ji](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")、[多惠與經紀公司提前解約](https://zh.wikipedia.org/wiki/宋多惠 "wikilink")，退出組合。 2017年末，成员蕙妍参加[The Unit节目](../Page/The_Unit.md "wikilink")。
 
 ### 2018年：蕙姸退出
 
-2018年10月25日， K STAR 集團 STAR ENT
-方面表示與[蕙姸簽訂了專屬合約](https://zh.wikipedia.org/wiki/姜蕙姸 "wikilink")，從偶像轉型Trot歌手。
+2018年10月25日， K STAR 集團 STAR ENT 方面表示與[蕙姸簽訂了專屬合約](https://zh.wikipedia.org/wiki/姜蕙姸 "wikilink")，從偶像轉型Trot歌手。
 
 ## 成員資料
 
@@ -93,10 +65,7 @@ ji](https://zh.wikipedia.org/wiki/鄭有智 "wikilink")、[多惠與經紀公司
 
 ### 成員變遷時序表
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500
-height:300 left:125 bottom:35 Alignbars = justify DateFormat =
-mm/dd/yyyy Period = from:2013 till:2018 TimeAxis =
-orientation:horizontal format:mm/yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2013 till:2018 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -618,8 +587,7 @@ PlotData =
 
 官方網站
 
-  - [YNB
-    Entertainment](https://web.archive.org/web/20160911095419/http://www.ynbent.com/)
+  - [YNB Entertainment](https://web.archive.org/web/20160911095419/http://www.ynbent.com/)
 
   -
   -
@@ -648,16 +616,7 @@ PlotData =
 
   - Youtube
       -
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
-[Category:2013年韓國建立](https://zh.wikipedia.org/wiki/Category:2013年韓國建立 "wikilink")
-[Category:2018年韓國廢除](https://zh.wikipedia.org/wiki/Category:2018年韓國廢除 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink") [Category:2013年韓國建立](https://zh.wikipedia.org/wiki/Category:2013年韓國建立 "wikilink") [Category:2018年韓國廢除](https://zh.wikipedia.org/wiki/Category:2018年韓國廢除 "wikilink") [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.  [BESTie 確定 7/12 出道](http://kpopn.com/2013/07/05/183453/) 2013年7月5日
 
@@ -673,15 +632,13 @@ PlotData =
 7.
 8.  [BESTie “Pitapat" 預告](http://kpopn.com/2013/07/09/183922/) 2013年7月9日
 
-9.  [BESTie “Pitapat" MV](http://kpopn.com/2013/07/12/184266/)
-    2013年7月12日
+9.  [BESTie “Pitapat" MV](http://kpopn.com/2013/07/12/184266/) 2013年7月12日
 
 10. [趙權出演 BESTie 的 MV](http://kpopn.com/2013/07/11/184150/) 2013年7月11日
 
 11. [BESTie 回歸預告](http://kpopn.com/2013/10/15/196193/) 2013年10月15日
 
-12. [BESTie “Love Options" MV](http://kpopn.com/2013/10/17/196432/)
-    2013年10月17日
+12. [BESTie “Love Options" MV](http://kpopn.com/2013/10/17/196432/) 2013年10月17日
 
 13. [BESTie 將以聖誕曲回歸！](http://kpopn.com/2013/12/14/203377/) 2013年12月14日
 
@@ -707,15 +664,12 @@ PlotData =
 
 24. [姜均成拍 BESTie 新曲 MV](http://kpopn.com/2015/05/01/273515/) 2015年5月1日
 
-25. [BESTie "Excuse Me" 預告](http://kpopn.com/2015/05/06/274308/)
-    2015年5月6日
+25. [BESTie "Excuse Me" 預告](http://kpopn.com/2015/05/06/274308/) 2015年5月6日
 
-26. [BESTie "Excuse Me" 預告2](http://kpopn.com/2015/05/07/274515/)
-    2015年5月7日
+26. [BESTie "Excuse Me" 預告2](http://kpopn.com/2015/05/07/274515/) 2015年5月7日
 
 27. [BESTie《Excuse Me》MV](http://kpopn.com/2015/05/08/274711/) 2015年5月8日
 
-28. [BESTie"Excuse Me"練習版](http://kpopn.com/2015/05/16/275583/)
-    2015年5月16日
+28. [BESTie"Excuse Me"練習版](http://kpopn.com/2015/05/16/275583/) 2015年5月16日
 
 29. [“金唱片獎" 唱片得獎與表演](http://kpopn.com/2015/01/15/257516/) 2015年1月15日

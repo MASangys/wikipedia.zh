@@ -1,14 +1,10 @@
-《**Ring of
-Gundam**》是[SUNRISE制作的全CG](../Page/日昇動畫.md "wikilink")[动画](../Page/动画.md "wikilink")。[GUNDAM系列动画作品之一](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")。
+《**Ring of Gundam**》是[SUNRISE制作的全CG](../Page/日昇動畫.md "wikilink")[动画](../Page/动画.md "wikilink")。[GUNDAM系列动画作品之一](https://zh.wikipedia.org/wiki/GUNDAM系列 "wikilink")。
 
 ## 概要
 
-GUNDAM系列诞生30周年纪念，由[富野由悠季](../Page/富野由悠季.md "wikilink")总执导，SUNRISE和[ロボット共同制作的](https://zh.wikipedia.org/wiki/ロボット_\(企業\) "wikilink")5分36秒短編动画作品。2009年8月21日起
-在[東京ビッグサイト举行的](https://zh.wikipedia.org/wiki/東京ビッグサイト "wikilink")「GUNDAM
-BIG EXPO」中公开放映。
+GUNDAM系列诞生30周年纪念，由[富野由悠季](../Page/富野由悠季.md "wikilink")总执导，SUNRISE和[ロボット共同制作的](https://zh.wikipedia.org/wiki/ロボット_\(企業\) "wikilink")5分36秒短編动画作品。2009年8月21日起 在[東京ビッグサイト举行的](https://zh.wikipedia.org/wiki/東京ビッグサイト "wikilink")「GUNDAM BIG EXPO」中公开放映。
 
-故事的整体并没有被完整透露，主人公エイジィ所驾驶的类似[RX-78-2
-GUNDAM的GUNDAM型](../Page/RX-78系列机动战士.md "wikilink")[机动战士](../Page/机动战士.md "wikilink")和在宇宙空間中浮遊着的巨大圆环登場。
+故事的整体并没有被完整透露，主人公エイジィ所驾驶的类似[RX-78-2 GUNDAM的GUNDAM型](../Page/RX-78系列机动战士.md "wikilink")[机动战士](../Page/机动战士.md "wikilink")和在宇宙空間中浮遊着的巨大圆环登場。
 
 应当指出的是，本作的标题也是“[∀GUNDAM](../Page/∀GUNDAM.md "wikilink")”动画的未使用标题。
 
@@ -47,17 +43,10 @@ GUNDAM的GUNDAM型](../Page/RX-78系列机动战士.md "wikilink")[机动战士]
 
 ## 參考文獻
 
-  - [ショートフィルム「リング・オブ・ガンダム」初公開！GUNDAM BIG EXPOスペシャルステージ「Feel G ～Always
-    Beginning～ いつだって始まりだ。」開催決定！](http://www.gundam.info/topic/2908)
+  - [ショートフィルム「リング・オブ・ガンダム」初公開！GUNDAM BIG EXPOスペシャルステージ「Feel G ～Always Beginning～ いつだって始まりだ。」開催決定！](http://www.gundam.info/topic/2908)
   - [富野総監督の「リング・オブ・ガンダム」がGyaO独占配信－ガンダム30周年記念のショートフィルム](http://av.watch.impress.co.jp/docs/news/20090908_314225.html)
-  - [Watch All of Ring of Gundam
-    Now\!](https://web.archive.org/web/20100504141220/http://www.animevice.com/news/watch-all-of-ring-of-gundam-now/2388/)
-  - [Part of Yoshiyuki Tomino's 'Ring of Gundam' Previewed
-    (Updated)](http://www.animenewsnetwork.com/news/2009-08-21/part-of-yoshiyuki-tomino-ring-of-gundam-previewed)
-  - [Yoshiyuki Tomino Reportedly on 'Ring of Gundam'
-    Short](http://www.animenewsnetwork.com/news/2009-07-07/yoshiyuki-tomino-reportedly-on-ring-of-gundam-short)
+  - [Watch All of Ring of Gundam Now\!](https://web.archive.org/web/20100504141220/http://www.animevice.com/news/watch-all-of-ring-of-gundam-now/2388/)
+  - [Part of Yoshiyuki Tomino's 'Ring of Gundam' Previewed (Updated)](http://www.animenewsnetwork.com/news/2009-08-21/part-of-yoshiyuki-tomino-ring-of-gundam-previewed)
+  - [Yoshiyuki Tomino Reportedly on 'Ring of Gundam' Short](http://www.animenewsnetwork.com/news/2009-07-07/yoshiyuki-tomino-reportedly-on-ring-of-gundam-short)
 
-[Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink")
-[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
-[Category:GUNDAM系列跨界作品](https://zh.wikipedia.org/wiki/Category:GUNDAM系列跨界作品 "wikilink")
-[Category:電腦動畫](https://zh.wikipedia.org/wiki/Category:電腦動畫 "wikilink")
+[Category:GUNDAM系列](https://zh.wikipedia.org/wiki/Category:GUNDAM系列 "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:GUNDAM系列跨界作品](https://zh.wikipedia.org/wiki/Category:GUNDAM系列跨界作品 "wikilink") [Category:電腦動畫](https://zh.wikipedia.org/wiki/Category:電腦動畫 "wikilink")

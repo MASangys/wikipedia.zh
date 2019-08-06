@@ -399,9 +399,6 @@
 ## 外部連結
 
   - [官方網站](http://www.heilbronn-open.de/)
-  - [ITF
-    Search](http://www.itftennis.com/mens/tournaments/tournamentSearch.asp)
+  - [ITF Search](http://www.itftennis.com/mens/tournaments/tournamentSearch.asp)
 
-[Category:ATP挑戰賽](https://zh.wikipedia.org/wiki/Category:ATP挑戰賽 "wikilink")
-[Category:室內網球賽事](https://zh.wikipedia.org/wiki/Category:室內網球賽事 "wikilink")
-[Category:硬地網球賽事](https://zh.wikipedia.org/wiki/Category:硬地網球賽事 "wikilink")
+[Category:ATP挑戰賽](https://zh.wikipedia.org/wiki/Category:ATP挑戰賽 "wikilink") [Category:室內網球賽事](https://zh.wikipedia.org/wiki/Category:室內網球賽事 "wikilink") [Category:硬地網球賽事](https://zh.wikipedia.org/wiki/Category:硬地網球賽事 "wikilink")

@@ -12,10 +12,7 @@
 
 ## 参考资料
 
-[Category:RNA](https://zh.wikipedia.org/wiki/Category:RNA "wikilink")
-[Category:非編碼RNA](https://zh.wikipedia.org/wiki/Category:非編碼RNA "wikilink")
-[Category:生物信息學](https://zh.wikipedia.org/wiki/Category:生物信息學 "wikilink")
-[Category:生物資訊資料庫](https://zh.wikipedia.org/wiki/Category:生物資訊資料庫 "wikilink")
+[Category:RNA](https://zh.wikipedia.org/wiki/Category:RNA "wikilink") [Category:非編碼RNA](https://zh.wikipedia.org/wiki/Category:非編碼RNA "wikilink") [Category:生物信息學](https://zh.wikipedia.org/wiki/Category:生物信息學 "wikilink") [Category:生物資訊資料庫](https://zh.wikipedia.org/wiki/Category:生物資訊資料庫 "wikilink")
 
 1.
 2.

@@ -1,6 +1,4 @@
-是由[韓國WindySoft與Daewon](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-Media、Rainfall
-Soft共同合作研發的2D橫向線上闖關遊戲。是為了紀念原創漫畫[蠟筆小新連載](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")20周年而決定開發出線上遊戲的概念\[1\]。
+是由[韓國WindySoft與Daewon](https://zh.wikipedia.org/wiki/韓國 "wikilink") Media、Rainfall Soft共同合作研發的2D橫向線上闖關遊戲。是為了紀念原創漫畫[蠟筆小新連載](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")20周年而決定開發出線上遊戲的概念\[1\]。
 
 ## 歷史
 
@@ -26,11 +24,7 @@ Soft共同合作研發的2D橫向線上闖關遊戲。是為了紀念原創漫�
   - [官方網站](https://web.archive.org/web/20150512033003/http://tw.new.beanfun.com/CSC/www/index.html)
   - [官方FB](https://www.facebook.com/crayonshinchanonline)
 
-[Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink")
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:蠟筆小新](https://zh.wikipedia.org/wiki/Category:蠟筆小新 "wikilink")
+[Category:韩国开发电子游戏](https://zh.wikipedia.org/wiki/Category:韩国开发电子游戏 "wikilink") [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:蠟筆小新](https://zh.wikipedia.org/wiki/Category:蠟筆小新 "wikilink")
 
 1.  \[<http://gnn.gamer.com.tw/4/45574.html>\]
 2.  \[<http://gnn.gamer.com.tw/0/75650.html>\]

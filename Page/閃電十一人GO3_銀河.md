@@ -1,5 +1,4 @@
-《**閃電十一人GO3 銀河
-大霹靂/超新星**》（）由[LEVEL-5](../Page/LEVEL-5.md "wikilink")推出閃電十一人GO的第三作，並將平台設置在[任天堂3DS](../Page/任天堂3DS.md "wikilink")。於2013年12月5日發售。
+《**閃電十一人GO3 銀河 大霹靂/超新星**》（）由[LEVEL-5](../Page/LEVEL-5.md "wikilink")推出閃電十一人GO的第三作，並將平台設置在[任天堂3DS](../Page/任天堂3DS.md "wikilink")。於2013年12月5日發售。
 
 ## 劇情大綱
 
@@ -37,8 +36,7 @@
 <!-- end list -->
 
 1.  限定隊伍為超新星隊
-2.  其18名候補有修、南澤篤志、雨宮太陽、雪村豹牙、薩魯、伽路查‧烏盧凡、立向居勇氣、基山浩人、綠川龍二、八神玲名、不動明王、染岡龍吾、飛鷹征矢、涼野風介、一之瀨
-    一哉、愛德華‧帕奇納斯、洛可可・烏魯巴、帕達普・史利托
+2.  其18名候補有修、南澤篤志、雨宮太陽、雪村豹牙、薩魯、伽路查‧烏盧凡、立向居勇氣、基山浩人、綠川龍二、八神玲名、不動明王、染岡龍吾、飛鷹征矢、涼野風介、一之瀨 一哉、愛德華‧帕奇納斯、洛可可・烏魯巴、帕達普・史利托
 3.  限定靈魂為新星龍、卜拉琦斯 （ブラキアス）、薩拉娜佳 （サラナージャ）
 4.  特有必殺技：心靈之弓（サイキックボウ）、軌道驅動（オービタルドライブ）
 5.  限定角色為奧古洛斯（アクロウス）
@@ -71,17 +69,14 @@
         森村好葉 （[綠狐貍](../Page/狐.md "wikilink")）
         皆帆和人 （[貓頭鷹](../Page/貓頭鷹.md "wikilink")）
         市川座名九郎 （[獅](https://zh.wikipedia.org/wiki/獅 "wikilink")）
-        伽琦爾傌·悟阿古
-        ([多奧碼](https://zh.wikipedia.org/wiki/多奧碼 "wikilink"))\[蜥蜴\]
-        波瓦伊·皮綽莉
-        ([多芳尼斯](https://zh.wikipedia.org/wiki/多芳尼斯 "wikilink"))\[海豚\]
+        伽琦爾傌·悟阿古 ([多奧碼](https://zh.wikipedia.org/wiki/多奧碼 "wikilink"))\[蜥蜴\]
+        波瓦伊·皮綽莉 ([多芳尼斯](https://zh.wikipedia.org/wiki/多芳尼斯 "wikilink"))\[海豚\]
         琉喀爾·巴藍 (佩里奧)\[龍\]
         剛達雷斯·巴藍(貝里奧)\[龍\]
   - 銀河巨人盃
     (Grand Celesta Galaxy)
     為宇宙足球比賽，地點是離地球18.8萬光年。如果地球的代表隊無法勝出比賽，地球就會被毀滅。其實FFIV2亞洲預賽是大塞拉斯達銀河大賽A區預賽。
-    舉辦這比賽的真正原因:
-    在帕拉母迪特的太陽系中，一個叫法拉莫比爾斯(ファラムオービアス)的行星上人口過量，而法拉莫比爾斯也因為距離一個黑洞越來越近，很快會走向滅亡。如是者他們決定開展戰爭去爭取更多行星。銀河連邦評議會知道後，跟他們商議到一個更好的方法：安排一場宇宙足球比賽。不使用自己行星的軍事力量，而是透過行星上的居民靠自己的能力勝出比賽，優勝者可以優先選擇自己的下一個居住的行星。
+    舉辦這比賽的真正原因: 在帕拉母迪特的太陽系中，一個叫法拉莫比爾斯(ファラムオービアス)的行星上人口過量，而法拉莫比爾斯也因為距離一個黑洞越來越近，很快會走向滅亡。如是者他們決定開展戰爭去爭取更多行星。銀河連邦評議會知道後，跟他們商議到一個更好的方法：安排一場宇宙足球比賽。不使用自己行星的軍事力量，而是透過行星上的居民靠自己的能力勝出比賽，優勝者可以優先選擇自己的下一個居住的行星。
 
 <!-- end list -->
 
@@ -112,9 +107,4 @@
 
   - [閃電十一人GO3 官方網站](http://www.inazuma.jp/gogalaxy/)
 
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:閃電十一人系列電子遊戲](https://zh.wikipedia.org/wiki/Category:閃電十一人系列電子遊戲 "wikilink")
-[Category:體育遊戲](https://zh.wikipedia.org/wiki/Category:體育遊戲 "wikilink")
-[Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink")
-[Category:Nintendo_Network遊戲](https://zh.wikipedia.org/wiki/Category:Nintendo_Network遊戲 "wikilink")
-[Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink")
+[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:閃電十一人系列電子遊戲](https://zh.wikipedia.org/wiki/Category:閃電十一人系列電子遊戲 "wikilink") [Category:體育遊戲](https://zh.wikipedia.org/wiki/Category:體育遊戲 "wikilink") [Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink") [Category:Nintendo_Network遊戲](https://zh.wikipedia.org/wiki/Category:Nintendo_Network遊戲 "wikilink") [Category:快樂快樂月刊](https://zh.wikipedia.org/wiki/Category:快樂快樂月刊 "wikilink")

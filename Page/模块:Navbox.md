@@ -2,8 +2,7 @@
 
 local p = {}
 
-local navbar = require('Module:Navbar')._navbar local getArgs -- lazily
-initialized
+local navbar = require('Module:Navbar')._navbar local getArgs -- lazily initialized
 
 local args local tableRowAdded = false local border local listnums = {}
 

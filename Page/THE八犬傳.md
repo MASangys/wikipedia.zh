@@ -91,8 +91,7 @@
   - 犬江親兵衛：[日高範子](../Page/日高範子.md "wikilink")
   - 犬川荘助：[山口勝平](../Page/山口勝平.md "wikilink")
   - 犬村大角：[大塚明夫](../Page/大塚明夫.md "wikilink")
-  - 犬坂毛野：[林原惠](../Page/林原惠.md "wikilink")（THE八犬伝）→[高山南](../Page/高山南.md "wikilink")（THE八犬伝
-    新章）
+  - 犬坂毛野：[林原惠](../Page/林原惠.md "wikilink")（THE八犬伝）→[高山南](../Page/高山南.md "wikilink")（THE八犬伝 新章）
   - 犬山道節：[山寺宏一](../Page/山寺宏一.md "wikilink")
   - 犬飼現八：[西村智博](../Page/西村朋紘.md "wikilink")
   - 犬塚信乃：[關俊彦](https://zh.wikipedia.org/wiki/關俊彦 "wikilink")
@@ -128,6 +127,4 @@
 
   - [八犬傳](https://zh.wikipedia.org/wiki/八犬傳 "wikilink") - 漫畫作品
 
-[Category:日本OVA動畫](https://zh.wikipedia.org/wiki/Category:日本OVA動畫 "wikilink")
-[Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink")
-[Category:八犬傳題材作品](https://zh.wikipedia.org/wiki/Category:八犬傳題材作品 "wikilink")
+[Category:日本OVA動畫](https://zh.wikipedia.org/wiki/Category:日本OVA動畫 "wikilink") [Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink") [Category:八犬傳題材作品](https://zh.wikipedia.org/wiki/Category:八犬傳題材作品 "wikilink")

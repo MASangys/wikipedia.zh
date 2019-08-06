@@ -1,15 +1,12 @@
-是由STRATEGY AND PARTNERS與
-K.K.於2014年5月7日所發行在[IOS](../Page/IOS.md "wikilink")及[Android](../Page/Android.md "wikilink")平台上的音樂遊戲。
+是由STRATEGY AND PARTNERS與 K.K.於2014年5月7日所發行在[IOS](../Page/IOS.md "wikilink")及[Android](../Page/Android.md "wikilink")平台上的音樂遊戲。
 
 ## 概要
 
-截至2014年5月6日，[AKB48集團](../Page/AKB48集團.md "wikilink")仍未有一款官方音樂遊戲。
-2014年5月7日早上，AKB48官方宣布推出一款手機平台的音樂遊戲，吸引玩家下載及試玩。
+截至2014年5月6日，[AKB48集團](../Page/AKB48集團.md "wikilink")仍未有一款官方音樂遊戲。 2014年5月7日早上，AKB48官方宣布推出一款手機平台的音樂遊戲，吸引玩家下載及試玩。
 
 ## 遊戲方式
 
-[AKB48_Music_Game_screenshot.jpeg](https://zh.wikipedia.org/wiki/File:AKB48_Music_Game_screenshot.jpeg "fig:AKB48_Music_Game_screenshot.jpeg")人物\]\]
-玩家要先選擇5個AKB48的成員作為一個Unit，然後再選擇1個來自好友的AKB48的成員。遊戲開始後要隨着音樂，在適當時候於點擊位置上按下畫面上的音符。
+[AKB48_Music_Game_screenshot.jpeg](https://zh.wikipedia.org/wiki/File:AKB48_Music_Game_screenshot.jpeg "fig:AKB48_Music_Game_screenshot.jpeg")人物\]\] 玩家要先選擇5個AKB48的成員作為一個Unit，然後再選擇1個來自好友的AKB48的成員。遊戲開始後要隨着音樂，在適當時候於點擊位置上按下畫面上的音符。
 
 ### 成員組成
 
@@ -498,19 +495,13 @@ K.K.於2014年5月7日所發行在[IOS](../Page/IOS.md "wikilink")及[Android](.
 
 ### 因移籍/解除兼任不再出現成員
 
-梅田彩佳 (NMB48)、渡邊美優紀 (NMB48)、藤江麗奈 (NMB48)、市川美織 (NMB48)、大場美奈 (SKE48)、近野莉菜
-(JKT48)、山內鈴蘭 (SKE48)
+梅田彩佳 (NMB48)、渡邊美優紀 (NMB48)、藤江麗奈 (NMB48)、市川美織 (NMB48)、大場美奈 (SKE48)、近野莉菜 (JKT48)、山內鈴蘭 (SKE48)
 
 ## 參考資料
 
 ## 外部連結
 
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:2014年電子遊戲](https://zh.wikipedia.org/wiki/Category:2014年電子遊戲 "wikilink")
-[Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")
-[Category:AKB48家族題材作品](https://zh.wikipedia.org/wiki/Category:AKB48家族題材作品 "wikilink")
+[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:2014年電子遊戲](https://zh.wikipedia.org/wiki/Category:2014年電子遊戲 "wikilink") [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:AKB48家族題材作品](https://zh.wikipedia.org/wiki/Category:AKB48家族題材作品 "wikilink")
 
 1.  只出現於活動中
 

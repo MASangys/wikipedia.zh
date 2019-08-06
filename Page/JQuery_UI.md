@@ -1,7 +1,4 @@
-**jQuery UI**是一套[JavaScript](../Page/JavaScript.md "wikilink")
-[函式庫](../Page/函式庫.md "wikilink")，提供抽象化、可自訂主題的[GUI控制項與動畫效果](https://zh.wikipedia.org/wiki/控制項 "wikilink")。基於[jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink")
-JavaScript函式庫，可用來建構互動式的網際網路應用程式。在2007年9月[約翰·雷西格](../Page/約翰·雷西格.md "wikilink")於jquery.com部落格裡的一篇文章裡正式公諸於世\[1\]。最新的版本需要[jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink")
-2.1.1或更新的版本。\[2\]
+**jQuery UI**是一套[JavaScript](../Page/JavaScript.md "wikilink") [函式庫](../Page/函式庫.md "wikilink")，提供抽象化、可自訂主題的[GUI控制項與動畫效果](https://zh.wikipedia.org/wiki/控制項 "wikilink")。基於[jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink") JavaScript函式庫，可用來建構互動式的網際網路應用程式。在2007年9月[約翰·雷西格](../Page/約翰·雷西格.md "wikilink")於jquery.com部落格裡的一篇文章裡正式公諸於世\[1\]。最新的版本需要[jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink") 2.1.1或更新的版本。\[2\]
 
 ## 功能
 
@@ -69,10 +66,7 @@ jQuery UI的所有控制項都能自訂主題樣式\[5\]。
 
   - [官方網站](http://jqueryui.com/)
 
-[Category:網站開發](https://zh.wikipedia.org/wiki/Category:網站開發 "wikilink")
-[Category:JavaScript](https://zh.wikipedia.org/wiki/Category:JavaScript "wikilink")
-[Category:JavaScript函式庫](https://zh.wikipedia.org/wiki/Category:JavaScript函式庫 "wikilink")
-[Category:CSS框架](https://zh.wikipedia.org/wiki/Category:CSS框架 "wikilink")
+[Category:網站開發](https://zh.wikipedia.org/wiki/Category:網站開發 "wikilink") [Category:JavaScript](https://zh.wikipedia.org/wiki/Category:JavaScript "wikilink") [Category:JavaScript函式庫](https://zh.wikipedia.org/wiki/Category:JavaScript函式庫 "wikilink") [Category:CSS框架](https://zh.wikipedia.org/wiki/Category:CSS框架 "wikilink")
 
 1.
 2.  [Build Your Download](http://jqueryui.com/download)

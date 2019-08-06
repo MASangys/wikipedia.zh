@@ -1,5 +1,4 @@
-《**未體驗Future**》
-（）是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第十六張單曲（第十三張主流單曲），由作曲、作詞，並在2014年4月2日以四個不同版本推出\[1\]。
+《**未體驗Future**》 （）是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第十六張單曲（第十三張主流單曲），由作曲、作詞，並在2014年4月2日以四個不同版本推出\[1\]。
 
 ## 背景
 
@@ -9,14 +8,11 @@
 
 此單曲共分為4個發行版本，包括三個限量版本及一個通常版本，每個版本都收錄了不同歌曲的純音樂版本和不同的隨附卡序列碼。
 
-  - 初回限定盤A：這版本包括了一片收錄了《用歌聲許下心願》（）的純音樂版本的單曲CD、一片收錄《ARENA TOUR 2013
-    FREEDOM》音樂會片段及《未體驗Future》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD\[5\]。
+  - 初回限定盤A：這版本包括了一片收錄了《用歌聲許下心願》（）的純音樂版本的單曲CD、一片收錄《ARENA TOUR 2013 FREEDOM》音樂會片段及《未體驗Future》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD\[5\]。
 
 <!-- end list -->
 
-  - 初回限定盤B：這版本包括了一片收錄了《BORN TO BE A ROCK'N
-    ROLLER》的純音樂版本的單曲CD、一片收錄FTIsland在《[SUMMER
-    SONIC](../Page/SUMMER_SONIC.md "wikilink") 2013》之前半段音樂會片段的DVD\[6\]。
+  - 初回限定盤B：這版本包括了一片收錄了《BORN TO BE A ROCK'N ROLLER》的純音樂版本的單曲CD、一片收錄FTIsland在《[SUMMER SONIC](../Page/SUMMER_SONIC.md "wikilink") 2013》之前半段音樂會片段的DVD\[6\]。
 
 <!-- end list -->
 
@@ -24,8 +20,7 @@
 
 <!-- end list -->
 
-  - Primadonna限定盤：這版本包括了一片收錄了《未體驗Future》的純音樂版本的單曲CD、一片收錄《AUTUMN TOUR
-    2013 ～REPLAY～》音樂會片段的DVD，並只限FTIsland官方歌迷會「Primadonna」日本會員購買\[8\]。
+  - Primadonna限定盤：這版本包括了一片收錄了《未體驗Future》的純音樂版本的單曲CD、一片收錄《AUTUMN TOUR 2013 ～REPLAY～》音樂會片段的DVD，並只限FTIsland官方歌迷會「Primadonna」日本會員購買\[8\]。
 
 ## 曲目
 
@@ -51,8 +46,7 @@
 
   -
 
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:FTIsland歌曲](https://zh.wikipedia.org/wiki/Category:FTIsland歌曲 "wikilink")
+[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:FTIsland歌曲](https://zh.wikipedia.org/wiki/Category:FTIsland歌曲 "wikilink")
 
 1.
 

@@ -1,10 +1,8 @@
 《**當個創世神：Mojang的故事**》（）是一部2012年的[紀錄片](../Page/紀錄片.md "wikilink")，記錄了[Mojang](../Page/Mojang.md "wikilink")公司的歷史及其創造《[Minecraft](https://zh.wikipedia.org/wiki/Minecraft "wikilink")》的過程。
 
-該片大多以採訪[Mojang](../Page/Mojang.md "wikilink")公司的主要人員為主，包括[馬庫斯·佩爾松](https://zh.wikipedia.org/wiki/馬庫斯·佩爾松 "wikilink")（又名Notch）和[延斯·伯根斯坦](../Page/延斯·伯根斯坦.md "wikilink")（又名Jeb）\[1\]。這部紀錄片是[兩位玩家製作在](https://zh.wikipedia.org/wiki/兩位玩家製作 "wikilink")[Kickstarter](../Page/Kickstarter.md "wikilink")
-campaign的資助下拍攝及製作，主要描述[馬庫斯·佩爾松以及Mojang公司製作出經典](https://zh.wikipedia.org/wiki/馬庫斯·佩爾松 "wikilink")[沙盒遊戲](https://zh.wikipedia.org/wiki/沙盒遊戲 "wikilink")《[Minecraft](https://zh.wikipedia.org/wiki/Minecraft "wikilink")》的過程\[2\]\[3\]\[4\]。
+該片大多以採訪[Mojang](../Page/Mojang.md "wikilink")公司的主要人員為主，包括[馬庫斯·佩爾松](https://zh.wikipedia.org/wiki/馬庫斯·佩爾松 "wikilink")（又名Notch）和[延斯·伯根斯坦](../Page/延斯·伯根斯坦.md "wikilink")（又名Jeb）\[1\]。這部紀錄片是[兩位玩家製作在](https://zh.wikipedia.org/wiki/兩位玩家製作 "wikilink")[Kickstarter](../Page/Kickstarter.md "wikilink") campaign的資助下拍攝及製作，主要描述[馬庫斯·佩爾松以及Mojang公司製作出經典](https://zh.wikipedia.org/wiki/馬庫斯·佩爾松 "wikilink")[沙盒遊戲](https://zh.wikipedia.org/wiki/沙盒遊戲 "wikilink")《[Minecraft](https://zh.wikipedia.org/wiki/Minecraft "wikilink")》的過程\[2\]\[3\]\[4\]。
 
-這部電影在Xbox
-Live上首演於2012年12月22日，並在第二天時提供下載\[5\]。雖然[兩位玩家製作也有將此部紀錄片上傳到世界最大的](https://zh.wikipedia.org/wiki/兩位玩家製作 "wikilink")[BT](https://zh.wikipedia.org/wiki/BitTorrent協定 "wikilink")[種子伺服器](https://zh.wikipedia.org/wiki/BitTorrent_tracker "wikilink")[海盗湾提供免費收看此部片的管道](https://zh.wikipedia.org/wiki/海盗湾 "wikilink")，但[兩位玩家製作仍呼籲大家考慮用購買的方式收看電影](https://zh.wikipedia.org/wiki/兩位玩家製作 "wikilink")\[6\]。
+這部電影在Xbox Live上首演於2012年12月22日，並在第二天時提供下載\[5\]。雖然[兩位玩家製作也有將此部紀錄片上傳到世界最大的](https://zh.wikipedia.org/wiki/兩位玩家製作 "wikilink")[BT](https://zh.wikipedia.org/wiki/BitTorrent協定 "wikilink")[種子伺服器](https://zh.wikipedia.org/wiki/BitTorrent_tracker "wikilink")[海盗湾提供免費收看此部片的管道](https://zh.wikipedia.org/wiki/海盗湾 "wikilink")，但[兩位玩家製作仍呼籲大家考慮用購買的方式收看電影](https://zh.wikipedia.org/wiki/兩位玩家製作 "wikilink")\[6\]。
 
 這部電影於2011年2月11日開拍，並且在2012年12月23日上映。此外，和[彼得·莫利紐茲都有在這部紀錄片中露面](https://zh.wikipedia.org/wiki/彼得·莫利紐茲 "wikilink")。
 
@@ -34,9 +32,7 @@ Live上首演於2012年12月22日，並在第二天時提供下載\[5\]。雖然
   -
   - 中《》的介紹
 
-[Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink")
-[Category:我的世界](https://zh.wikipedia.org/wiki/Category:我的世界 "wikilink")
-[Category:Kickstarter計劃](https://zh.wikipedia.org/wiki/Category:Kickstarter計劃 "wikilink")
+[Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink") [Category:我的世界](https://zh.wikipedia.org/wiki/Category:我的世界 "wikilink") [Category:Kickstarter計劃](https://zh.wikipedia.org/wiki/Category:Kickstarter計劃 "wikilink")
 
 1.
 

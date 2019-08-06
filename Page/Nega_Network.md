@@ -1,5 +1,4 @@
-**Nega
-Network藝術娛樂公司**（）是[韓國以](https://zh.wikipedia.org/wiki/韓國 "wikilink")[音樂製作著名的](https://zh.wikipedia.org/wiki/音樂製作 "wikilink")[藝術家](https://zh.wikipedia.org/wiki/藝術家 "wikilink")[娛樂](../Page/娛樂.md "wikilink")[公司](../Page/公司.md "wikilink")，公司簽約成員除了歌手外，還有作曲家、作詞家、音樂製作人等，更舉辦音樂甄試招收練習生。是個以音樂為重的經紀公司。另外未來子公司i-NEGA將進行運作。
+**Nega Network藝術娛樂公司**（）是[韓國以](https://zh.wikipedia.org/wiki/韓國 "wikilink")[音樂製作著名的](https://zh.wikipedia.org/wiki/音樂製作 "wikilink")[藝術家](https://zh.wikipedia.org/wiki/藝術家 "wikilink")[娛樂](../Page/娛樂.md "wikilink")[公司](../Page/公司.md "wikilink")，公司簽約成員除了歌手外，還有作曲家、作詞家、音樂製作人等，更舉辦音樂甄試招收練習生。是個以音樂為重的經紀公司。另外未來子公司i-NEGA將進行運作。
 
 旗下主要藝人有Yoari、[Lunafly](../Page/Lunafly.md "wikilink")、[LABOUM](../Page/LABOUM.md "wikilink")、50kg等。
 
@@ -131,7 +130,6 @@ NEGANETWORK 於2003年1月由 韓國知名歌手兼製作人尹日尚, LANCE, Yo
   - [官方i-NEGA 臉書](https://www.facebook.com/inegapage)
   - [官方i-NEGA推特](https://twitter.com/i_nega)
 
-[Category:2003年建立](https://zh.wikipedia.org/wiki/Category:2003年建立 "wikilink")
-[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
+[Category:2003年建立](https://zh.wikipedia.org/wiki/Category:2003年建立 "wikilink") [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
 
 1.

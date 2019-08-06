@@ -1,5 +1,4 @@
-**WWE
-冠軍**（）\[1\]，是隸屬於[世界摔角娛樂的一冠軍項目](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")。WWE世界冠軍於1963年成立於世界摔角娛樂最早的前身，也就是當時的世界廣泛摔角聯盟（WWWF）。WWE世界冠軍是世界摔角娛樂自創建公司以來，所保留最久、被公認最富盛名的冠軍項目。
+**WWE 冠軍**（）\[1\]，是隸屬於[世界摔角娛樂的一冠軍項目](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")。WWE世界冠軍於1963年成立於世界摔角娛樂最早的前身，也就是當時的世界廣泛摔角聯盟（WWWF）。WWE世界冠軍是世界摔角娛樂自創建公司以來，所保留最久、被公認最富盛名的冠軍項目。
 
 ## 歷史
 
@@ -7,8 +6,7 @@
 
 [WWE_world_title_lineage.jpeg](https://zh.wikipedia.org/wiki/File:WWE_world_title_lineage.jpeg "fig:WWE_world_title_lineage.jpeg")
 
-WWE
-冠軍於1963年成立，而[巴迪·羅渣士成為首任冠軍](https://zh.wikipedia.org/wiki/巴迪·羅渣士 "wikilink")。\[2\]
+WWE 冠軍於1963年成立，而[巴迪·羅渣士成為首任冠軍](https://zh.wikipedia.org/wiki/巴迪·羅渣士 "wikilink")。\[2\]
 
 然而，WWE冠軍的起源是開始於旗下有各個促進聯盟的。1950年代，世界摔角娛樂的前身國會大廈摔角公司是國家摔角聯盟的促進聯盟，1963年，國會大廈摔角公司的高層掌握了國家摔角聯盟的控股和經營權。在此期間，巴迪·羅渣士是，直到1月24日[路·塞茲](../Page/路·塞茲.md "wikilink")擊敗了巴迪·羅渣士成為新任冠軍。
 
@@ -26,28 +24,19 @@ WWE
 
 而之前的世界冠軍摔角選手加入了世界摔角聯盟的選手陣容展開了所謂的"入侵"，而此舉也成功的拋開世界冠軍摔角的舊名。在，[克里斯·傑利可](../Page/克里斯·傑利可.md "wikilink")分別打敗了時任WCW冠軍[巨石強森](../Page/巨石強森.md "wikilink")和時任WWF冠軍[冷石·史蒂夫·奧斯汀](../Page/冷石·史蒂夫·奧斯汀.md "wikilink")成為雙冠軍。\[4\]
 
-克里斯·傑利可被世界摔角娛樂認定為最後一任的WCW冠軍，並且以無可爭議冠軍的頭銜持有代表世界冠軍摔角的和代表世界摔角聯盟的WWF冠軍腰帶。世界摔角娛樂指出兩條腰帶是代表著不同的冠軍項目，直到2002年，才由[Triple
-H合併兩個冠軍](https://zh.wikipedia.org/wiki/Triple_H "wikilink")。\[5\]\[6\]\[7\]
+克里斯·傑利可被世界摔角娛樂認定為最後一任的WCW冠軍，並且以無可爭議冠軍的頭銜持有代表世界冠軍摔角的和代表世界摔角聯盟的WWF冠軍腰帶。世界摔角娛樂指出兩條腰帶是代表著不同的冠軍項目，直到2002年，才由[Triple H合併兩個冠軍](https://zh.wikipedia.org/wiki/Triple_H "wikilink")。\[5\]\[6\]\[7\]
 
 ### 無庸置疑冠軍
 
 [HHH_after_winning_the_WWE_Undisputed_Championship.jpg](https://zh.wikipedia.org/wiki/File:HHH_after_winning_the_WWE_Undisputed_Championship.jpg "fig:HHH_after_winning_the_WWE_Undisputed_Championship.jpg")\]\]
 
-2001年，在世界摔角聯盟隊擊敗聯盟隊（世界冠軍摔角 /
-極限冠軍摔角），而聯盟隊的摔角選手將成為世界摔角聯盟的重要組成。當時有兩個世界冠軍，分別是巨石強森的WCW冠軍，和冷石·史蒂夫·奧斯汀的WWF冠軍。世界摔角聯盟宣布將在致命復仇2001舉行賽事，贏家可獲得無庸置疑冠軍的頭銜。致命復仇2001會舉行三場賽事，分別是[寇特·安格](../Page/寇特·安格.md "wikilink")與冷石·史蒂夫·奧斯汀的WWF冠軍戰，克里斯·傑利可與巨石強森的WCW冠軍戰。冷石·史蒂夫·奧斯汀成功保衛住WWF冠軍，而克里斯·傑利可打敗了巨石強森成為新的WCW冠軍。而克里斯·傑利可在第三場比賽擊敗了冷石·史蒂夫·奧斯汀，統一了WWF冠軍和WCW冠軍。
+2001年，在世界摔角聯盟隊擊敗聯盟隊（世界冠軍摔角 / 極限冠軍摔角），而聯盟隊的摔角選手將成為世界摔角聯盟的重要組成。當時有兩個世界冠軍，分別是巨石強森的WCW冠軍，和冷石·史蒂夫·奧斯汀的WWF冠軍。世界摔角聯盟宣布將在致命復仇2001舉行賽事，贏家可獲得無庸置疑冠軍的頭銜。致命復仇2001會舉行三場賽事，分別是[寇特·安格](../Page/寇特·安格.md "wikilink")與冷石·史蒂夫·奧斯汀的WWF冠軍戰，克里斯·傑利可與巨石強森的WCW冠軍戰。冷石·史蒂夫·奧斯汀成功保衛住WWF冠軍，而克里斯·傑利可打敗了巨石強森成為新的WCW冠軍。而克里斯·傑利可在第三場比賽擊敗了冷石·史蒂夫·奧斯汀，統一了WWF冠軍和WCW冠軍。
 
-持續衛冕四個月後，克里斯·傑利可在被Triple
-H擊敗，而[瑞克·福萊爾](../Page/瑞克·福萊爾.md "wikilink")在摔角狂熱X8後的WWE
-Raw上頒發給Triple H新款式的WWF冠軍腰帶，而Triple
-H在衛冕一個月後，在被[霍克·霍肯](../Page/霍克·霍肯.md "wikilink")擊敗。
+持續衛冕四個月後，克里斯·傑利可在被Triple H擊敗，而[瑞克·福萊爾](../Page/瑞克·福萊爾.md "wikilink")在摔角狂熱X8後的WWE Raw上頒發給Triple H新款式的WWF冠軍腰帶，而Triple H在衛冕一個月後，在被[霍克·霍肯](../Page/霍克·霍肯.md "wikilink")擊敗。
 
-許多的改變就從這裡開始，像是[送葬者這類的摔角巨星被安排到在以WWE](../Page/送葬者_\(摔角手\).md "wikilink")
-Raw為主的電視節目出場，而WWE Raw和[WWE
-SmackDown也安排了許多冠軍賽和掛名管理者](https://zh.wikipedia.org/wiki/WWE_Friday_Night_SmackDown! "wikilink")，這就是後來所謂的。\[8\]
+許多的改變就從這裡開始，像是[送葬者這類的摔角巨星被安排到在以WWE](../Page/送葬者_\(摔角手\).md "wikilink") Raw為主的電視節目出場，而WWE Raw和[WWE SmackDown也安排了許多冠軍賽和掛名管理者](https://zh.wikipedia.org/wiki/WWE_Friday_Night_SmackDown! "wikilink")，這就是後來所謂的。\[8\]
 
-2002年5月，世界摔角聯盟更名為世界摔角娛樂，WWF無可爭議的冠軍也改稱為WWE無可爭議的冠軍。而一連串的改變過後，WWE無可爭議的冠軍依然可以由任何品牌的選手挑戰。繼和[史蒂芬妮·麥馬漢](../Page/史蒂芬妮·麥馬漢.md "wikilink")分別被任命為WWE
-Raw和WWE
-SmackDown的[總經理後](https://zh.wikipedia.org/wiki/總經理 "wikilink")，史蒂芬妮·麥馬漢將WWE無可爭議的冠軍[布洛克·雷斯納](../Page/布洛克·雷斯納.md "wikilink")納入SmackDown品牌，使得Raw品牌沒有持有任何一個世界冠軍頭銜。\[9\]\[10\]
+2002年5月，世界摔角聯盟更名為世界摔角娛樂，WWF無可爭議的冠軍也改稱為WWE無可爭議的冠軍。而一連串的改變過後，WWE無可爭議的冠軍依然可以由任何品牌的選手挑戰。繼和[史蒂芬妮·麥馬漢](../Page/史蒂芬妮·麥馬漢.md "wikilink")分別被任命為WWE Raw和WWE SmackDown的[總經理後](https://zh.wikipedia.org/wiki/總經理 "wikilink")，史蒂芬妮·麥馬漢將WWE無可爭議的冠軍[布洛克·雷斯納](../Page/布洛克·雷斯納.md "wikilink")納入SmackDown品牌，使得Raw品牌沒有持有任何一個世界冠軍頭銜。\[9\]\[10\]
 
 9月2日，針對兩個品牌間冠軍頭銜的爭議後，艾瑞克·比紹夫宣布將從WWE無可爭議的冠軍，獨立出新的冠軍[世界重量級冠軍](../Page/世界重量級冠軍_\(WWE\).md "wikilink")。而後，WWE無可爭議的冠軍也改稱為WWE冠軍。
 
@@ -55,8 +44,7 @@ SmackDown的[總經理後](https://zh.wikipedia.org/wiki/總經理 "wikilink")�
 
 [Cena_With_Spinner_Belt.jpg](https://zh.wikipedia.org/wiki/File:Cena_With_Spinner_Belt.jpg "fig:Cena_With_Spinner_Belt.jpg")\]\]
 
-繼品牌延伸後，也正式成立。2002年，瑞克·福萊爾和文斯·麥馬漢分別領導了WWE Raw和WWE
-SmackDown，他們兩個將會經營這兩個品牌。瑞克·福萊爾和文斯·麥馬漢參加了將選手重新分配的選秀抽籤。\[11\]
+繼品牌延伸後，也正式成立。2002年，瑞克·福萊爾和文斯·麥馬漢分別領導了WWE Raw和WWE SmackDown，他們兩個將會經營這兩個品牌。瑞克·福萊爾和文斯·麥馬漢參加了將選手重新分配的選秀抽籤。\[11\]
 
 而在抽籤的結果，將隸屬於SmackDown品牌三年的WWE冠軍改隸屬於Raw品牌，而原隸屬於Raw品牌的世界重量級冠軍改隸屬於SmackDown品牌，而WWE冠軍[約翰·希納和世界重量級冠軍](https://zh.wikipedia.org/wiki/約翰·希納 "wikilink")[巴帝斯塔](../Page/巴帝斯塔.md "wikilink")也隨之分別改隸屬於Raw品牌和SmackDown品牌。\[12\]
 
@@ -64,13 +52,7 @@ SmackDown，他們兩個將會經營這兩個品牌。瑞克·福萊爾和文斯
 
 次年，在又將WWE冠軍Triple H和WWE冠軍改隸屬於Raw品牌，並將WWE冠軍的品牌指定為Raw。
 
-2011年7月，[CM
-Punk在故事情節裡表示要於](../Page/CM_Punk.md "wikilink")7月17日也是他的合約到期日將帶著WWE冠軍離開世界摔角娛樂。在公事包大戰中，CM
-Punk成功擊敗了衛冕的約翰·希納，並帶走了WWE冠軍腰帶實體。而文斯·麥馬漢在隔一天的WWE
-Raw宣布WWE冠軍將空缺之後，7月25日，[雷·密斯特里歐](../Page/雷·密斯特里歐.md "wikilink")在WWE
-Raw的八人混戰擊敗了[米茲](../Page/米茲.md "wikilink")，並成為WWE冠軍，但在當天晚上就被約翰·希納擊敗，而他的衛冕次數也達到了九次。而隨著約翰·希納的勝利，CM
-Punk帶著自己的WWE冠軍腰帶回到了世界摔角娛樂，形成了同時有兩位WWE冠軍和兩條WWE冠軍腰帶的特殊情形。\[14\]隨後在，CM
-Punk擊敗了約翰·希納進而鞏固他聲稱的冠軍頭銜。
+2011年7月，[CM Punk在故事情節裡表示要於](../Page/CM_Punk.md "wikilink")7月17日也是他的合約到期日將帶著WWE冠軍離開世界摔角娛樂。在公事包大戰中，CM Punk成功擊敗了衛冕的約翰·希納，並帶走了WWE冠軍腰帶實體。而文斯·麥馬漢在隔一天的WWE Raw宣布WWE冠軍將空缺之後，7月25日，[雷·密斯特里歐](../Page/雷·密斯特里歐.md "wikilink")在WWE Raw的八人混戰擊敗了[米茲](../Page/米茲.md "wikilink")，並成為WWE冠軍，但在當天晚上就被約翰·希納擊敗，而他的衛冕次數也達到了九次。而隨著約翰·希納的勝利，CM Punk帶著自己的WWE冠軍腰帶回到了世界摔角娛樂，形成了同時有兩位WWE冠軍和兩條WWE冠軍腰帶的特殊情形。\[14\]隨後在，CM Punk擊敗了約翰·希納進而鞏固他聲稱的冠軍頭銜。
 
 2011年8月29日，世界摔角娛樂間接的結束了品牌延伸的Raw和SmackDown選手，包含了所有冠軍頭銜。自此之後，世界摔角娛樂的所有冠軍頭銜並不再指定在任何一個品牌。
 
@@ -84,9 +66,7 @@ Punk擊敗了約翰·希納進而鞏固他聲稱的冠軍頭銜。
 
 ## 腰帶設計
 
-[Edge_R.jpg](https://zh.wikipedia.org/wiki/File:Edge_R.jpg "fig:Edge_R.jpg")與"Rated-R
-Superstar"微調式腰帶\]\]
-[Rock_revealed_his_title.jpg](https://zh.wikipedia.org/wiki/File:Rock_revealed_his_title.jpg "fig:Rock_revealed_his_title.jpg")發表新設計的WWE冠軍腰帶\]\]
+[Edge_R.jpg](https://zh.wikipedia.org/wiki/File:Edge_R.jpg "fig:Edge_R.jpg")與"Rated-R Superstar"微調式腰帶\]\] [Rock_revealed_his_title.jpg](https://zh.wikipedia.org/wiki/File:Rock_revealed_his_title.jpg "fig:Rock_revealed_his_title.jpg")發表新設計的WWE冠軍腰帶\]\]
 
 WWE世界重量級冠軍腰帶對於特定的人物有不同的特殊設計款出現：
 
@@ -96,22 +76,13 @@ WWE世界重量級冠軍腰帶對於特定的人物有不同的特殊設計款�
 
 在之前，WWF冠軍腰帶為了[巨人安德烈](../Page/巨人安德烈.md "wikilink")創造了更大的版本，即使他不曾佩戴過。\[17\]巨石強森的特殊設計款在腰帶中央有他的代表標誌梵天公牛，以回應冷石·史蒂夫·奧斯汀吸菸骷髏腰帶，但由於創作權的原因，梵天公牛腰帶從來沒有在電視上出現。\[18\]同樣的，Edge在第二次衛冕時想創造另一個與限制級巨星微調式腰帶完全不同的特殊設計款，然而，由於時間的限制，這個計劃被放棄了。\[19\]
 
-新的微調式腰帶，大量的使用[黃金與](https://zh.wikipedia.org/wiki/黃金 "wikilink")[鑽石的閃亮的元素](https://zh.wikipedia.org/wiki/鑽石 "wikilink")，反映了當時的WWE冠軍約翰·希納的[嘻哈](../Page/嘻哈.md "wikilink")風格。這一條腰帶從2005年4月11日使用到2013年2月18日。微調式腰帶一開始會標示出被指定的品牌名稱，當微調式腰帶首次被引入時，它的特色也就是獨特的側板設計上面寫著「SmackDown」，雖然它當時因為約翰·希納改隸屬Raw品牌而被「Mon-Nite
-Raw」取代。2008年，腰帶的側板又因為當時的冠軍Triple
-H改隸屬SmackDown品牌又改回「SmackDown」，而原本的「Mon-Nite
-Raw」側板被換成了「WWE
-Champion」側板。此外，微調式腰帶還有一個特點，那就是腰帶的[白銀末端](../Page/銀.md "wikilink")。
+新的微調式腰帶，大量的使用[黃金與](https://zh.wikipedia.org/wiki/黃金 "wikilink")[鑽石的閃亮的元素](https://zh.wikipedia.org/wiki/鑽石 "wikilink")，反映了當時的WWE冠軍約翰·希納的[嘻哈](../Page/嘻哈.md "wikilink")風格。這一條腰帶從2005年4月11日使用到2013年2月18日。微調式腰帶一開始會標示出被指定的品牌名稱，當微調式腰帶首次被引入時，它的特色也就是獨特的側板設計上面寫著「SmackDown」，雖然它當時因為約翰·希納改隸屬Raw品牌而被「Mon-Nite Raw」取代。2008年，腰帶的側板又因為當時的冠軍Triple H改隸屬SmackDown品牌又改回「SmackDown」，而原本的「Mon-Nite Raw」側板被換成了「WWE Champion」側板。此外，微調式腰帶還有一個特點，那就是腰帶的[白銀末端](../Page/銀.md "wikilink")。
 
-2013年2月18日，巨石強森在[WWE
-Raw發表了新的WWE冠軍腰帶](../Page/WWE_Raw.md "wikilink")（新的腰帶部分是由[超炫美式機車](../Page/超炫美式機車.md "wikilink")的所設計）。\[20\]新的腰帶是以黑色皮革為底鑲上鑽石的世界摔角娛樂標誌，正下方有冠軍的英文單字（CHAMPION），這一代的WWE冠軍腰帶的特點是沒有像往常一樣的選手名牌，而是改成可上選手鑲上個人特色徽章的側板。\[21\]\[22\]\[23\]
+2013年2月18日，巨石強森在[WWE Raw發表了新的WWE冠軍腰帶](../Page/WWE_Raw.md "wikilink")（新的腰帶部分是由[超炫美式機車](../Page/超炫美式機車.md "wikilink")的所設計）。\[20\]新的腰帶是以黑色皮革為底鑲上鑽石的世界摔角娛樂標誌，正下方有冠軍的英文單字（CHAMPION），這一代的WWE冠軍腰帶的特點是沒有像往常一樣的選手名牌，而是改成可上選手鑲上個人特色徽章的側板。\[21\]\[22\]\[23\]
 
-金塊腰帶，曾用於[WCW冠軍](https://zh.wikipedia.org/wiki/WCW冠軍 "wikilink")、[世界重量級冠軍](../Page/世界重量級冠軍_\(WWE\).md "wikilink")、其他冠軍及克里斯·傑利可和Triple
-H的無可爭議冠軍。\[24\]而繼2013年WWE冠軍與世界重量級冠軍合併後，金塊腰帶與WWE冠軍腰帶共同代表WWE世界重量級冠軍。\[25\]
-\[26\]
+金塊腰帶，曾用於[WCW冠軍](https://zh.wikipedia.org/wiki/WCW冠軍 "wikilink")、[世界重量級冠軍](../Page/世界重量級冠軍_\(WWE\).md "wikilink")、其他冠軍及克里斯·傑利可和Triple H的無可爭議冠軍。\[24\]而繼2013年WWE冠軍與世界重量級冠軍合併後，金塊腰帶與WWE冠軍腰帶共同代表WWE世界重量級冠軍。\[25\] \[26\]
 
-2014年8月18日，在前一天贏得冠軍的布洛克·雷斯納在Raw的節目中公佈了稍做更新的WWE世界重量級冠軍腰帶，更改的部份包含了新的世界摔角娛樂標誌，以及正下方的英文單字由原本的冠軍（CHAMPION）變成世界重量級冠軍（WORLD
-HEAVYWEIGHT
-CHAMPION），而是個人特色徽章側板依然保留，至於顏色的部份，則由原本的金色添加了紅色元素。而金塊腰帶也與無可爭議冠軍相同，隨著新冠軍腰帶的使用正式退役。\[27\]
+2014年8月18日，在前一天贏得冠軍的布洛克·雷斯納在Raw的節目中公佈了稍做更新的WWE世界重量級冠軍腰帶，更改的部份包含了新的世界摔角娛樂標誌，以及正下方的英文單字由原本的冠軍（CHAMPION）變成世界重量級冠軍（WORLD HEAVYWEIGHT CHAMPION），而是個人特色徽章側板依然保留，至於顏色的部份，則由原本的金色添加了紅色元素。而金塊腰帶也與無可爭議冠軍相同，隨著新冠軍腰帶的使用正式退役。\[27\]
 
 ## 記錄
 
@@ -134,8 +105,7 @@ WWE世界重量級冠軍的最多勝利次數保持人是John Cena，其記錄�
 ## 外部連結
 
   - [WWE世界重量級冠軍官方歷史紀錄](http://www.wwe.com/inside/titlehistory/wwechampionship/)
-  - [Wrestling-Titles.com:
-    WWE世界重量級冠軍](http://www.wrestling-titles.com/wwe/wwe-h.html)
+  - [Wrestling-Titles.com: WWE世界重量級冠軍](http://www.wrestling-titles.com/wwe/wwe-h.html)
   - [WWE世界重量級冠軍歷史紀錄](https://web.archive.org/web/20140211233524/http://thewrestlingarchive.net/titles/wwe-championship.htm)
 
 [Category:世界摔角娛樂](https://zh.wikipedia.org/wiki/Category:世界摔角娛樂 "wikilink")
@@ -145,13 +115,9 @@ WWE世界重量級冠軍的最多勝利次數保持人是John Cena，其記錄�
 
 3.
 
-4.  [WCW World Champion - Chris
-    Jericho](http://www.wwe.com/inside/titlehistory/wcwchampionship/3044541104)
-     at WWE.com
+4.  [WCW World Champion - Chris Jericho](http://www.wwe.com/inside/titlehistory/wcwchampionship/3044541104)  at WWE.com
 
-5.  [The complex history of WWE's era of
-    unification](http://www.wwe.com/classics/era-of-unification/page-5).
-    WWE.com (2012-09-12). Retrieved on 2013-09-05.
+5.  [The complex history of WWE's era of unification](http://www.wwe.com/classics/era-of-unification/page-5). WWE.com (2012-09-12). Retrieved on 2013-09-05.
 
 6.
 
@@ -174,22 +140,15 @@ WWE世界重量級冠軍的最多勝利次數保持人是John Cena，其記錄�
 15.
 16.
 
-17. "7 Championship Secrets Finally Revealed". (July 2009). WWE
-    Magazine, p. 37.
+17. "7 Championship Secrets Finally Revealed". (July 2009). WWE Magazine, p. 37.
 
 18.
 
 19.
 
-20. Murphy, Ryan. (2013-02-19) [The making of the new WWE Title: How the
-    WWE Championship was reinvented in 540
-    days](http://www.wwe.com/inside/the-making-of-the-new-wwe-title-26092146/page-2)
-    . WWE.com. Retrieved on 2013-09-05.
+20. Murphy, Ryan. (2013-02-19) [The making of the new WWE Title: How the WWE Championship was reinvented in 540 days](http://www.wwe.com/inside/the-making-of-the-new-wwe-title-26092146/page-2) . WWE.com. Retrieved on 2013-09-05.
 
-21. Murphy, Ryan. (2013-02-19) [The making of the new WWE Title: How the
-    WWE Championship was reinvented in 540
-    days](http://www.wwe.com/inside/the-making-of-the-new-wwe-title-26092146/page-2)
-    . WWE.com. Retrieved on 2013-09-05.
+21. Murphy, Ryan. (2013-02-19) [The making of the new WWE Title: How the WWE Championship was reinvented in 540 days](http://www.wwe.com/inside/the-making-of-the-new-wwe-title-26092146/page-2) . WWE.com. Retrieved on 2013-09-05.
 
 22.
 

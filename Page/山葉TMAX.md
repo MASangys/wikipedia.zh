@@ -1,7 +1,4 @@
-[Yamaha_TMAX_2011_Tokyo_Motor_Show.jpg](https://zh.wikipedia.org/wiki/File:Yamaha_TMAX_2011_Tokyo_Motor_Show.jpg "fig:Yamaha_TMAX_2011_Tokyo_Motor_Show.jpg")
-**Yamaha
-TMAX**為[日本](../Page/日本.md "wikilink")[山葉發動機](../Page/山葉發動機.md "wikilink")公司製造販賣的一款[摩托車](../Page/摩托車.md "wikilink")，屬於[速克達](../Page/速克達.md "wikilink")的一種，定位為道路運動型摩托車。在[臺灣](../Page/臺灣.md "wikilink")牌照領為[大型重型機車](https://zh.wikipedia.org/wiki/大型重型機車 "wikilink")。
-因其名稱發音，因此被暱稱為**T（踢）媽**、**T（踢）媽媽**。
+[Yamaha_TMAX_2011_Tokyo_Motor_Show.jpg](https://zh.wikipedia.org/wiki/File:Yamaha_TMAX_2011_Tokyo_Motor_Show.jpg "fig:Yamaha_TMAX_2011_Tokyo_Motor_Show.jpg") **Yamaha TMAX**為[日本](../Page/日本.md "wikilink")[山葉發動機](../Page/山葉發動機.md "wikilink")公司製造販賣的一款[摩托車](../Page/摩托車.md "wikilink")，屬於[速克達](../Page/速克達.md "wikilink")的一種，定位為道路運動型摩托車。在[臺灣](../Page/臺灣.md "wikilink")牌照領為[大型重型機車](https://zh.wikipedia.org/wiki/大型重型機車 "wikilink")。 因其名稱發音，因此被暱稱為**T（踢）媽**、**T（踢）媽媽**。
 
 ## 概要
 
@@ -27,11 +24,9 @@ TMAX**為[日本](../Page/日本.md "wikilink")[山葉發動機](../Page/山葉�
 
 ### 第4代(2012-2014)
 
-2012年版，將引擎排氣量小幅度提升為530cc，型號為TMAX
-530\[2\]。仍使用[水冷](https://zh.wikipedia.org/wiki/水冷引擎 "wikilink")[4行程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")[DOHC](https://zh.wikipedia.org/wiki/DOHC "wikilink")4[氣門](../Page/氣門.md "wikilink")直列雙[陶瓷](https://zh.wikipedia.org/wiki/陶瓷 "wikilink")[汽缸](https://zh.wikipedia.org/wiki/汽缸 "wikilink")。
+2012年版，將引擎排氣量小幅度提升為530cc，型號為TMAX 530\[2\]。仍使用[水冷](https://zh.wikipedia.org/wiki/水冷引擎 "wikilink")[4行程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")[DOHC](https://zh.wikipedia.org/wiki/DOHC "wikilink")4[氣門](../Page/氣門.md "wikilink")直列雙[陶瓷](https://zh.wikipedia.org/wiki/陶瓷 "wikilink")[汽缸](https://zh.wikipedia.org/wiki/汽缸 "wikilink")。
 
-TMAX
-530傳動裝置，使用[CVT](../Page/無段自動變速器.md "wikilink")[自排變速系統及一段式的皮帶輪減速](../Page/自动变速器.md "wikilink")，為高效能V型皮帶傳動。採用無傳動箱設計，改採鋁合金後搖臂的配置，可提升操控性能。
+TMAX 530傳動裝置，使用[CVT](../Page/無段自動變速器.md "wikilink")[自排變速系統及一段式的皮帶輪減速](../Page/自动变速器.md "wikilink")，為高效能V型皮帶傳動。採用無傳動箱設計，改採鋁合金後搖臂的配置，可提升操控性能。
 
 並且改變配重、減輕重量。
 
@@ -43,8 +38,7 @@ TMAX
 
 ### 第6代(2017-)
 
-主要變革為外型以及加入了電控系統，外觀上更改為類似第一代的圓潤造型，尾燈改為左右分離，獨立式左右方向燈，油門由傳統的鋼索式改為YCC-T電子油門，並加入TCS循跡系統，油門可選擇Town模式和Sport模式。
-車身部分，後搖臂改為多連桿懸吊並增加40mm
+主要變革為外型以及加入了電控系統，外觀上更改為類似第一代的圓潤造型，尾燈改為左右分離，獨立式左右方向燈，油門由傳統的鋼索式改為YCC-T電子油門，並加入TCS循跡系統，油門可選擇Town模式和Sport模式。 車身部分，後搖臂改為多連桿懸吊並增加40mm
 
 ## 他廠同級車種
 
@@ -58,13 +52,10 @@ TMAX
 
 ## 參考資料
 
-  - [Official TMAX model
-    home](https://web.archive.org/web/20090723151625/http://www.yamaha-motor.com/Sport/products/modelhome/607/0/home.aspx)
+  - [Official TMAX model home](https://web.archive.org/web/20090723151625/http://www.yamaha-motor.com/Sport/products/modelhome/607/0/home.aspx)
 
   -
 [Category:山葉發動機車輛](https://zh.wikipedia.org/wiki/Category:山葉發動機車輛 "wikilink")
 
-1.  [新、舊T-Max
-    比一比：新車到底好在哪？](http://www.moto7.net/2012/07/t-max.html)MOTO7
-    專業摩托車資訊。
+1.  [新、舊T-Max 比一比：新車到底好在哪？](http://www.moto7.net/2012/07/t-max.html)MOTO7 專業摩托車資訊。
 2.  [TMAX 530產品介紹](http://www.yamaha-motor.com.tw/motor/TMAX.aspx) 台灣山葉。

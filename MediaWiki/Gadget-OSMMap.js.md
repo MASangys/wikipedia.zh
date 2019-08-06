@@ -14,10 +14,7 @@ function moveCoord() {
 
 } $(moveCoord);
 
-// Verwendung von OpenStreetMap in Wikipedia. // (c) 2008 by Magnus
-Manske // Released under GPL // Modified version in order to makes it
-work with moveCoord() above // From fr:mediawiki:common.js // modified
-to makes it work for IT : Otourly
+// Verwendung von OpenStreetMap in Wikipedia. // (c) 2008 by Magnus Manske // Released under GPL // Modified version in order to makes it work with moveCoord() above // From fr:mediawiki:common.js // modified to makes it work for IT : Otourly
 
 function openStreetMap_Init () {
 

@@ -20,12 +20,7 @@
 
   - [The Daily Mash](http://www.thedailymash.co.uk/)
 
-[Category:幽默网站](https://zh.wikipedia.org/wiki/Category:幽默网站 "wikilink")
-[Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink")
-[Category:讽刺类网站](https://zh.wikipedia.org/wiki/Category:讽刺类网站 "wikilink")
-[Category:英国网站](https://zh.wikipedia.org/wiki/Category:英国网站 "wikilink")
-[Category:讽刺类出版物](https://zh.wikipedia.org/wiki/Category:讽刺类出版物 "wikilink")
-[Category:2007年在英国设立](https://zh.wikipedia.org/wiki/Category:2007年在英国设立 "wikilink")
+[Category:幽默网站](https://zh.wikipedia.org/wiki/Category:幽默网站 "wikilink") [Category:2007年建立的网站](https://zh.wikipedia.org/wiki/Category:2007年建立的网站 "wikilink") [Category:讽刺类网站](https://zh.wikipedia.org/wiki/Category:讽刺类网站 "wikilink") [Category:英国网站](https://zh.wikipedia.org/wiki/Category:英国网站 "wikilink") [Category:讽刺类出版物](https://zh.wikipedia.org/wiki/Category:讽刺类出版物 "wikilink") [Category:2007年在英国设立](https://zh.wikipedia.org/wiki/Category:2007年在英国设立 "wikilink")
 
 1.
 

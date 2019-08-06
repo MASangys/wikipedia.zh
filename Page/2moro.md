@@ -60,8 +60,7 @@
 
 ### 當紅歌曲
 
-  - 2006 Shabu Shabu (OT：[Dragostea Din
-    Tei](https://zh.wikipedia.org/wiki/Dragostea_Din_Tei "wikilink"))
+  - 2006 Shabu Shabu (OT：[Dragostea Din Tei](https://zh.wikipedia.org/wiki/Dragostea_Din_Tei "wikilink"))
 
 ### MV
 
@@ -86,9 +85,4 @@
   - [郭彥均](../Page/郭彥均.md "wikilink")
   - [郭彥甫](../Page/郭彥甫.md "wikilink")
 
-[Category:臺灣男子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣男子演唱團體 "wikilink")
-[Category:台灣綜藝節目主持人](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目主持人 "wikilink")
-[Category:雙胞胎人物](https://zh.wikipedia.org/wiki/Category:雙胞胎人物 "wikilink")
-[Category:郭姓](https://zh.wikipedia.org/wiki/Category:郭姓 "wikilink")
-[Category:二人組](https://zh.wikipedia.org/wiki/Category:二人組 "wikilink")
-[Category:台灣名數2](https://zh.wikipedia.org/wiki/Category:台灣名數2 "wikilink")
+[Category:臺灣男子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣男子演唱團體 "wikilink") [Category:台灣綜藝節目主持人](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目主持人 "wikilink") [Category:雙胞胎人物](https://zh.wikipedia.org/wiki/Category:雙胞胎人物 "wikilink") [Category:郭姓](https://zh.wikipedia.org/wiki/Category:郭姓 "wikilink") [Category:二人組](https://zh.wikipedia.org/wiki/Category:二人組 "wikilink") [Category:台灣名數2](https://zh.wikipedia.org/wiki/Category:台灣名數2 "wikilink")

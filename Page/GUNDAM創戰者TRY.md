@@ -65,8 +65,7 @@
   -
 
       -
-        作詞：勇-YOU-，作曲、編曲：太田雅友，主唱：[SCREEN
-        mode](../Page/SCREEN_mode.md "wikilink")
+        作詞：勇-YOU-，作曲、編曲：太田雅友，主唱：[SCREEN mode](../Page/SCREEN_mode.md "wikilink")
         第1話未使用。
 
 ::;「」（第14－25話）
@@ -88,9 +87,7 @@
   -
 
       -
-        作詞：cAnOn、Elizabeth
-        Elias，作曲、編曲：[林友樹](https://zh.wikipedia.org/wiki/林友樹 "wikilink")，主唱：Elizabeth
-        Elias
+        作詞：cAnOn、Elizabeth Elias，作曲、編曲：[林友樹](https://zh.wikipedia.org/wiki/林友樹 "wikilink")，主唱：Elizabeth Elias
 
 ## 登場原創模型
 
@@ -100,14 +97,12 @@
 <!-- end list -->
 
   -
-    高坂祐馬根據[機動戰士GUNDAM
-    逆襲的夏亞中登場的](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")「[靈格斯](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_馬沙之反擊 "wikilink")」為基礎，而制作出的鋼彈模型。背部武器系統經過獨自改造而進化。善于長距離射擊。
+    高坂祐馬根據[機動戰士GUNDAM 逆襲的夏亞中登場的](../Page/機動戰士GUNDAM_逆襲的夏亞.md "wikilink")「[靈格斯](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_馬沙之反擊 "wikilink")」為基礎，而制作出的鋼彈模型。背部武器系統經過獨自改造而進化。善于長距離射擊。
 
 <!-- end list -->
 
   -
-    根據[機動戰士GUNDAM 0083：Stardust
-    Memory中登場的](../Page/機動戰士GUNDAM_0083：Stardust_Memory.md "wikilink")「[吉姆強化型](../Page/RGM-79系列机动战士.md "wikilink")」為基礎，特點是按照外傳「雷霆戰記」機械臂背包設計，大幅加强武装及防禦力。
+    根據[機動戰士GUNDAM 0083：Stardust Memory中登場的](../Page/機動戰士GUNDAM_0083：Stardust_Memory.md "wikilink")「[吉姆強化型](../Page/RGM-79系列机动战士.md "wikilink")」為基礎，特點是按照外傳「雷霆戰記」機械臂背包設計，大幅加强武装及防禦力。
 
 <!-- end list -->
 
@@ -573,24 +568,19 @@
 
 ## 外部連結
 
-  - [サンライズ公式Web](http://www.sunrise-inc.co.jp/works/list/detail.php?cid=364)
-    - ガンダムビルドファイターズトライ
+  - [サンライズ公式Web](http://www.sunrise-inc.co.jp/works/list/detail.php?cid=364) - ガンダムビルドファイターズトライ
 
   - [ガンダムビルドファイターズシリーズ総合トップ](http://gundam-bf.net/)
 
       - [ガンダムビルドファイターズトライ](http://gundam-bf.net/try/)
       - [ガンダムビルドファイターズトライ アイランド・ウォーズ](http://gundam-bf.net/try_special/)
 
-  - [テレビ東京・あにてれ
-    ガンダムビルドファイターズトライ](http://www.tv-tokyo.co.jp/anime/gundambf/)
+  - [テレビ東京・あにてれ ガンダムビルドファイターズトライ](http://www.tv-tokyo.co.jp/anime/gundambf/)
 
-  - [テレビ東京・あにてれ
-    ガンダムビルドファイターズトライ夏休み特別編〜君もビルドファイターだ！〜](http://www.tv-tokyo.co.jp/anime/gundambft_sp/)
+  - [テレビ東京・あにてれ ガンダムビルドファイターズトライ夏休み特別編〜君もビルドファイターだ！〜](http://www.tv-tokyo.co.jp/anime/gundambft_sp/)
 
   -
-[Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink")
-[Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink")
-[Category:中學背景動畫](https://zh.wikipedia.org/wiki/Category:中學背景動畫 "wikilink")
+[Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink") [Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink") [Category:中學背景動畫](https://zh.wikipedia.org/wiki/Category:中學背景動畫 "wikilink")
 
 1.
 2.

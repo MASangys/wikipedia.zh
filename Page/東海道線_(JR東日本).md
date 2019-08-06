@@ -1,10 +1,8 @@
-**東海道線**（）
-此項目是指[日本](../Page/日本.md "wikilink")[東海道本線](../Page/東海道本線.md "wikilink")之內由[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）所轄、由[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")[東京站起至](https://zh.wikipedia.org/wiki/東京站 "wikilink")[靜岡縣](../Page/靜岡縣.md "wikilink")[熱海市](../Page/熱海市.md "wikilink")[熱海站為止的路段](https://zh.wikipedia.org/wiki/熱海站 "wikilink")，此處主要記述以運行[中距離旅客列車](https://zh.wikipedia.org/wiki/中距離電車 "wikilink")（所謂[湘南電車](https://zh.wikipedia.org/wiki/湘南電車 "wikilink")）為中心的運行系統。
+**東海道線**（） 此項目是指[日本](../Page/日本.md "wikilink")[東海道本線](../Page/東海道本線.md "wikilink")之內由[東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）所轄、由[東京都](../Page/東京都.md "wikilink")[千代田區](../Page/千代田區.md "wikilink")[東京站起至](https://zh.wikipedia.org/wiki/東京站 "wikilink")[靜岡縣](../Page/靜岡縣.md "wikilink")[熱海市](../Page/熱海市.md "wikilink")[熱海站為止的路段](https://zh.wikipedia.org/wiki/熱海站 "wikilink")，此處主要記述以運行[中距離旅客列車](https://zh.wikipedia.org/wiki/中距離電車 "wikilink")（所謂[湘南電車](https://zh.wikipedia.org/wiki/湘南電車 "wikilink")）為中心的運行系統。
 
 ## 路線資料
 
-[TokaidoLineEastStations.png](https://zh.wikipedia.org/wiki/File:TokaidoLineEastStations.png "fig:TokaidoLineEastStations.png")
-以東京－熱海的列車線為準（旅客線），東海道貨物線除外。
+[TokaidoLineEastStations.png](https://zh.wikipedia.org/wiki/File:TokaidoLineEastStations.png "fig:TokaidoLineEastStations.png") 以東京－熱海的列車線為準（旅客線），東海道貨物線除外。
 
   - 管轄（事業類別）：東日本旅客鐵道（[第一種鐵道事業者](https://zh.wikipedia.org/wiki/鐵路公司 "wikilink")）
 
@@ -34,8 +32,7 @@
   - ：
 
       - 東京站－熱海站間 東京綜合指令室
-      - 熱海站－來宮站間\[1\]
-        熱海[CTC](https://zh.wikipedia.org/wiki/調度集中系統 "wikilink")
+      - 熱海站－來宮站間\[1\] 熱海[CTC](https://zh.wikipedia.org/wiki/調度集中系統 "wikilink")
 
   - ：
 
@@ -461,13 +458,9 @@
   - [ボート・トレイン](https://zh.wikipedia.org/wiki/ボート・トレイン "wikilink")
   - [舞娘](https://zh.wikipedia.org/wiki/舞娘號列車 "wikilink")： 本區間優等列車沿革
   - [箱根登山鐵道小田原市內線](https://zh.wikipedia.org/wiki/箱根登山鐵道小田原市內線 "wikilink")
-  - [熱海鐵道](https://zh.wikipedia.org/wiki/熱海鐵道 "wikilink")：小田原 -
-    熱海之間的[輕便鐵道](https://zh.wikipedia.org/wiki/輕便鐵道 "wikilink")
+  - [熱海鐵道](https://zh.wikipedia.org/wiki/熱海鐵道 "wikilink")：小田原 - 熱海之間的[輕便鐵道](https://zh.wikipedia.org/wiki/輕便鐵道 "wikilink")
 
-[Category:東日本旅客鐵道路線](https://zh.wikipedia.org/wiki/Category:東日本旅客鐵道路線 "wikilink")
-[Category:關東地方鐵路路線](https://zh.wikipedia.org/wiki/Category:關東地方鐵路路線 "wikilink")
-[Category:日本國有鐵道路線](https://zh.wikipedia.org/wiki/Category:日本國有鐵道路線 "wikilink")
-[Category:1872年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1872年啟用的鐵路線 "wikilink")
+[Category:東日本旅客鐵道路線](https://zh.wikipedia.org/wiki/Category:東日本旅客鐵道路線 "wikilink") [Category:關東地方鐵路路線](https://zh.wikipedia.org/wiki/Category:關東地方鐵路路線 "wikilink") [Category:日本國有鐵道路線](https://zh.wikipedia.org/wiki/Category:日本國有鐵道路線 "wikilink") [Category:1872年啟用的鐵路線](https://zh.wikipedia.org/wiki/Category:1872年啟用的鐵路線 "wikilink")
 
 1.  來宮站為連動站，但在東海道線上沒有月台。
 

@@ -1,5 +1,4 @@
-本列表列出了**''部分**''[Gameloft](../Page/Gameloft.md "wikilink")开发或发行的游戏。大多数游戏是在移动设备上使用的。
-(由於此為**动態列表**,**永远不可能補充完成**,详情请參阅[Gameloft](../Page/Gameloft.md "wikilink")官網--http://www.gameloft.com.au/)
+本列表列出了**''部分**''[Gameloft](../Page/Gameloft.md "wikilink")开发或发行的游戏。大多数游戏是在移动设备上使用的。 (由於此為**动態列表**,**永远不可能補充完成**,详情请參阅[Gameloft](../Page/Gameloft.md "wikilink")官網--http://www.gameloft.com.au/)
 
 <table style="width:120%;">
 <colgroup>
@@ -551,133 +550,66 @@
 ## C
 
   - *[Catz](https://zh.wikipedia.org/wiki/Petz "wikilink")*
-  - *[Castle
-    Frenzy](https://zh.wikipedia.org/wiki/Castle_Frenzy "wikilink")*
-    (iOS)
-  - *[Castle of
-    Magic](https://zh.wikipedia.org/wiki/Castle_of_Magic "wikilink")*
-    (iOS，[Palm
-    Pre](../Page/Palm_Pre.md "wikilink")，[DSi](https://zh.wikipedia.org/wiki/DSi "wikilink"))
-  - *[Chess
-    Classics](https://zh.wikipedia.org/wiki/Chess_Classics "wikilink")*
-    (iOS)
-  - *[Chess and Backgammon
-    Classics](https://zh.wikipedia.org/wiki/Chess_and_Backgammon_Classics "wikilink")*
-    (iOS)
+  - *[Castle Frenzy](https://zh.wikipedia.org/wiki/Castle_Frenzy "wikilink")* (iOS)
+  - *[Castle of Magic](https://zh.wikipedia.org/wiki/Castle_of_Magic "wikilink")* (iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink")，[DSi](https://zh.wikipedia.org/wiki/DSi "wikilink"))
+  - *[Chess Classics](https://zh.wikipedia.org/wiki/Chess_Classics "wikilink")* (iOS)
+  - *[Chess and Backgammon Classics](https://zh.wikipedia.org/wiki/Chess_and_Backgammon_Classics "wikilink")* (iOS)
   - *[Chessmaster](../Page/Chessmaster.md "wikilink")*
-  - *[Chuck Norris: Bring on the
-    Pain](https://zh.wikipedia.org/wiki/Chuck_Norris:_Bring_on_the_Pain "wikilink")*
-  - *[Common
-    Sense](https://zh.wikipedia.org/wiki/Common_Sense "wikilink")*
-  - *[Crystal
-    Monsters](https://zh.wikipedia.org/wiki/Crystal_Monsters "wikilink")*
-    (DSi)
-  - *[CSI:
-    Miami](https://zh.wikipedia.org/wiki/CSI:_Miami_\(video_game\) "wikilink")*
-    (iOS，mobile)
-  - *[CSI: The Mobile
-    Game](https://zh.wikipedia.org/wiki/CSI:_The_Mobile_Game "wikilink")*
+  - *[Chuck Norris: Bring on the Pain](https://zh.wikipedia.org/wiki/Chuck_Norris:_Bring_on_the_Pain "wikilink")*
+  - *[Common Sense](https://zh.wikipedia.org/wiki/Common_Sense "wikilink")*
+  - *[Crystal Monsters](https://zh.wikipedia.org/wiki/Crystal_Monsters "wikilink")* (DSi)
+  - *[CSI: Miami](https://zh.wikipedia.org/wiki/CSI:_Miami_\(video_game\) "wikilink")* (iOS，mobile)
+  - *[CSI: The Mobile Game](https://zh.wikipedia.org/wiki/CSI:_The_Mobile_Game "wikilink")*
 
 ## D
 
-  - *[Date or
-    Ditch](https://zh.wikipedia.org/wiki/Date_or_Ditch "wikilink")*
-  - *[Date or Ditch
-    2](https://zh.wikipedia.org/wiki/Date_or_Ditch_2 "wikilink")*
-  - *[Deal or No
-    Deal](https://zh.wikipedia.org/wiki/Deal_or_No_Deal "wikilink")*
-    (U.K.)
-  - *[Derek Jeter Pro Baseball
-    2008](https://zh.wikipedia.org/wiki/Derek_Jeter_Pro_Baseball_2008 "wikilink")*
-  - *[Derek Jeter Real
-    Baseball](https://zh.wikipedia.org/wiki/Derek_Jeter_Real_Baseball "wikilink")*
-    (iOS)
-  - *[Desperate
-    Housewives](https://zh.wikipedia.org/wiki/Desperate_Housewives "wikilink")*
-  - *[Diamond
-    Rush](https://zh.wikipedia.org/wiki/Diamond_Rush "wikilink")*
-  - *[Diamond
-    Twister](https://zh.wikipedia.org/wiki/Diamond_Twister "wikilink")*
-  - *[Die Hard
-    4.0](https://zh.wikipedia.org/wiki/Live_Free_or_Die_Hard "wikilink")*
+  - *[Date or Ditch](https://zh.wikipedia.org/wiki/Date_or_Ditch "wikilink")*
+  - *[Date or Ditch 2](https://zh.wikipedia.org/wiki/Date_or_Ditch_2 "wikilink")*
+  - *[Deal or No Deal](https://zh.wikipedia.org/wiki/Deal_or_No_Deal "wikilink")* (U.K.)
+  - *[Derek Jeter Pro Baseball 2008](https://zh.wikipedia.org/wiki/Derek_Jeter_Pro_Baseball_2008 "wikilink")*
+  - *[Derek Jeter Real Baseball](https://zh.wikipedia.org/wiki/Derek_Jeter_Real_Baseball "wikilink")* (iOS)
+  - *[Desperate Housewives](https://zh.wikipedia.org/wiki/Desperate_Housewives "wikilink")*
+  - *[Diamond Rush](https://zh.wikipedia.org/wiki/Diamond_Rush "wikilink")*
+  - *[Diamond Twister](https://zh.wikipedia.org/wiki/Diamond_Twister "wikilink")*
+  - *[Die Hard 4.0](https://zh.wikipedia.org/wiki/Live_Free_or_Die_Hard "wikilink")*
   - *[Dogz](https://zh.wikipedia.org/wiki/Dogz "wikilink")* (N-Gage)
-  - *[Driver](https://zh.wikipedia.org/wiki/Driver_\(video_game\) "wikilink")*
-    (iOS)
-  - *[Driver: LA
-    Undercover](https://zh.wikipedia.org/wiki/Driver:_LA_Undercover "wikilink")*
+  - *[Driver](https://zh.wikipedia.org/wiki/Driver_\(video_game\) "wikilink")* (iOS)
+  - *[Driver: LA Undercover](https://zh.wikipedia.org/wiki/Driver:_LA_Undercover "wikilink")*
   - ''Driver San Francisco
-  - *[Dungeon
-    Hunter](https://zh.wikipedia.org/wiki/Dungeon_Hunter "wikilink")*
-    (iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink"))
-  - *[Dungeon Hunter:
-    Alliance](https://zh.wikipedia.org/wiki/Dungeon_Hunter:_Alliance "wikilink")*
-    (Playstation Network，Mac，PS Vita)
-  - ''[Despicable Me：Minion
-    Rush](https://zh.wikipedia.org/wiki/Despicable_Me：Minion_Rush "wikilink")
-    （Andriod，IOS，Windows8）
+  - *[Dungeon Hunter](https://zh.wikipedia.org/wiki/Dungeon_Hunter "wikilink")* (iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink"))
+  - *[Dungeon Hunter: Alliance](https://zh.wikipedia.org/wiki/Dungeon_Hunter:_Alliance "wikilink")* (Playstation Network，Mac，PS Vita)
+  - ''[Despicable Me：Minion Rush](https://zh.wikipedia.org/wiki/Despicable_Me：Minion_Rush "wikilink") （Andriod，IOS，Windows8）
 
 ## E
 
-  - *[Earthworm
-    Jim](https://zh.wikipedia.org/wiki/Earthworm_Jim "wikilink")*
-    (iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink")，PlayStation
-    Network，Xbox Live Arcade)
-  - *Eternal Legacy* ([Blackberry
-    Playbook](https://zh.wikipedia.org/wiki/Blackberry_Playbook "wikilink")，iOS，mobile)
+  - *[Earthworm Jim](https://zh.wikipedia.org/wiki/Earthworm_Jim "wikilink")* (iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink")，PlayStation Network，Xbox Live Arcade)
+  - *Eternal Legacy* ([Blackberry Playbook](https://zh.wikipedia.org/wiki/Blackberry_Playbook "wikilink")，iOS，mobile)
 
 ## F
 
-  - *[Ferrari GT:
-    Evolution](https://zh.wikipedia.org/wiki/Ferrari_GT:_Evolution "wikilink")*
-    (iOS，mobile)
+  - *[Ferrari GT: Evolution](https://zh.wikipedia.org/wiki/Ferrari_GT:_Evolution "wikilink")* (iOS，mobile)
   - *Fishing Kings* (iOS，Android)†\[5\]
 
 ## G
 
-  - ***[Gangstar: Crime
-    City](https://zh.wikipedia.org/wiki/Gangstar:_Crime_City "wikilink")***
-  - ***[Gangstar 2: Kings of
-    L.A](https://zh.wikipedia.org/wiki/Gangstar_2:_Kings_of_L.A "wikilink")***
-  - ***[Gangstar: West Coast
-    Hustle](https://zh.wikipedia.org/wiki/Gangstar:_West_Coast_Hustle "wikilink")***
-    ([Android](../Page/Android.md "wikilink")，iOS，[Palm
-    Pre](../Page/Palm_Pre.md "wikilink"))
-  - ***[Gangstar: Miami
-    Vindication](https://zh.wikipedia.org/wiki/Gangstar:_Miami_Vindication "wikilink")***
-    (Android，[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")，[iPod
-    touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink"))
+  - ***[Gangstar: Crime City](https://zh.wikipedia.org/wiki/Gangstar:_Crime_City "wikilink")***
+  - ***[Gangstar 2: Kings of L.A](https://zh.wikipedia.org/wiki/Gangstar_2:_Kings_of_L.A "wikilink")***
+  - ***[Gangstar: West Coast Hustle](https://zh.wikipedia.org/wiki/Gangstar:_West_Coast_Hustle "wikilink")*** ([Android](../Page/Android.md "wikilink")，iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink"))
+  - ***[Gangstar: Miami Vindication](https://zh.wikipedia.org/wiki/Gangstar:_Miami_Vindication "wikilink")*** (Android，[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")，[iPod touch](https://zh.wikipedia.org/wiki/iPod_touch "wikilink"))
   - *Gangstar:vegas*
-  - ''Gangstar Rio: City of Saints
-    (模仿[侠盗猎车手](https://zh.wikipedia.org/wiki/侠盗猎车手 "wikilink"))
-  - *[Ghost Mansion
-    Party](https://zh.wikipedia.org/wiki/Ghost_Mansion_Party "wikilink")*
-    (Wii)
-  - *[Golden
-    Balls](https://zh.wikipedia.org/wiki/Golden_Balls_\(video_game\) "wikilink")*
-  - *[Grey's Anatomy The Mobile
-    Game](https://zh.wikipedia.org/wiki/Grey's_Anatomy_The_Mobile_Game "wikilink")*
+  - ''Gangstar Rio: City of Saints (模仿[侠盗猎车手](https://zh.wikipedia.org/wiki/侠盗猎车手 "wikilink"))
+  - *[Ghost Mansion Party](https://zh.wikipedia.org/wiki/Ghost_Mansion_Party "wikilink")* (Wii)
+  - *[Golden Balls](https://zh.wikipedia.org/wiki/Golden_Balls_\(video_game\) "wikilink")*
+  - *[Grey's Anatomy The Mobile Game](https://zh.wikipedia.org/wiki/Grey's_Anatomy_The_Mobile_Game "wikilink")*
   - *[Green Farm](https://zh.wikipedia.org/wiki/Green_Farm "wikilink")*
-  - *[GT Racing: Motor
-    Academy](https://zh.wikipedia.org/wiki/GT_Racing:_Motor_Academy "wikilink")*
-    (iOS，Mobile，Blackberry Playbook)†\[6\]
-  - *[Guitar
-    Legend](https://zh.wikipedia.org/wiki/Guitar_Legend "wikilink")*
-  - *[Guitar Rock
-    Tour](https://zh.wikipedia.org/wiki/Guitar_Rock_Tour "wikilink")*
-    (DS，DSiWare，iOS，mobile)
-  - *[Guitar Rock Tour
-    2](https://zh.wikipedia.org/wiki/Guitar_Rock_Tour_2 "wikilink")*
-    (iOS)
+  - *[GT Racing: Motor Academy](https://zh.wikipedia.org/wiki/GT_Racing:_Motor_Academy "wikilink")* (iOS，Mobile，Blackberry Playbook)†\[6\]
+  - *[Guitar Legend](https://zh.wikipedia.org/wiki/Guitar_Legend "wikilink")*
+  - *[Guitar Rock Tour](https://zh.wikipedia.org/wiki/Guitar_Rock_Tour "wikilink")* (DS，DSiWare，iOS，mobile)
+  - *[Guitar Rock Tour 2](https://zh.wikipedia.org/wiki/Guitar_Rock_Tour_2 "wikilink")* (iOS)
 
 ## H
 
-  - *[Hero of
-    Sparta](https://zh.wikipedia.org/wiki/Hero_of_Sparta "wikilink")*
-    (DSi Ware，iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink") -
-    [PlayStation 3](../Page/PlayStation_3.md "wikilink") and
-    [PSP](https://zh.wikipedia.org/wiki/PSP "wikilink") as minis) **[God
-    of
-    War](https://zh.wikipedia.org/wiki/God_of_War_\(series\) "wikilink")**
+  - *[Hero of Sparta](https://zh.wikipedia.org/wiki/Hero_of_Sparta "wikilink")* (DSi Ware，iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink") - [PlayStation 3](../Page/PlayStation_3.md "wikilink") and [PSP](https://zh.wikipedia.org/wiki/PSP "wikilink") as minis) **[God of War](https://zh.wikipedia.org/wiki/God_of_War_\(series\) "wikilink")**
   - *[Heroes](https://zh.wikipedia.org/wiki/Heroes_\(TV_series\)#Merchandise "wikilink")*
 
 ## I
@@ -701,130 +633,61 @@
 
 ## L
 
-  - *[Las Vegas
-    Nights](https://zh.wikipedia.org/wiki/Las_Vegas_Nights "wikilink")*
+  - *[Las Vegas Nights](https://zh.wikipedia.org/wiki/Las_Vegas_Nights "wikilink")*
   - *Lego Batman: The Mobile Game*
-  - *[Let's
-    Golf\!](https://zh.wikipedia.org/wiki/Let's_Golf! "wikilink")*
-    (iOS，[Palm pre](https://zh.wikipedia.org/wiki/Palm_pre "wikilink")
-    - PlayStation 3 and PSP as minis)
-  - *[Let's Golf\!
-    2](https://zh.wikipedia.org/wiki/Let's_Golf!_2 "wikilink")*
-    ([Blackberry
-    Playbook](https://zh.wikipedia.org/wiki/Blackberry_Playbook "wikilink")，iOS，Mac)
-  - *[Let's Go
-    Bowling](https://zh.wikipedia.org/wiki/Let's_Go_Bowling "wikilink")*
+  - *[Let's Golf\!](https://zh.wikipedia.org/wiki/Let's_Golf! "wikilink")* (iOS，[Palm pre](https://zh.wikipedia.org/wiki/Palm_pre "wikilink") - PlayStation 3 and PSP as minis)
+  - *[Let's Golf\! 2](https://zh.wikipedia.org/wiki/Let's_Golf!_2 "wikilink")* ([Blackberry Playbook](https://zh.wikipedia.org/wiki/Blackberry_Playbook "wikilink")，iOS，Mac)
+  - *[Let's Go Bowling](https://zh.wikipedia.org/wiki/Let's_Go_Bowling "wikilink")*
   - *[Lost](https://zh.wikipedia.org/wiki/Lost_\(video_game\) "wikilink")*
-  - *[Lumines
-    Mobile](https://zh.wikipedia.org/wiki/Lumines_Mobile "wikilink")*
+  - *[Lumines Mobile](https://zh.wikipedia.org/wiki/Lumines_Mobile "wikilink")*
 
 ## M
 
-  - *[Massive
-    Snowboarding](https://zh.wikipedia.org/wiki/Massive_Snowboarding "wikilink")*
-  - *[March of
-    Heroes](https://zh.wikipedia.org/wiki/March_of_Heroes "wikilink")*
-  - *[Megacity
-    Empire](https://zh.wikipedia.org/wiki/Megacity_Empire "wikilink")*
-  - *[March of
-    Empire](https://zh.wikipedia.org/wiki/March_of_Empire "wikilink")*
-  - *[Miami Nights: Single in the
-    City](https://zh.wikipedia.org/wiki/Miami_Nights:_Single_in_the_City "wikilink")*
-    (DS)
-  - *[Miami Nights: The city is
-    yours](https://zh.wikipedia.org/wiki/Miami_Nights:_The_city_is_yours "wikilink")*
-  - *[Midnight
-    Bowling](https://zh.wikipedia.org/wiki/Midnight_Bowling "wikilink")*
-    (Wii，iOS，mobile)
-  - *[Midnight Bowling
-    2](https://zh.wikipedia.org/wiki/Midnight_Bowling_2 "wikilink")*
-  - *[Midnight Hold'em
-    Poker](https://zh.wikipedia.org/wiki/Midnight_Hold'em_Poker "wikilink")*
-  - *[Midnight Play
-    Pack](https://zh.wikipedia.org/wiki/Midnight_Play_Pack "wikilink")*
-    (DS)
-  - *[Midnight
-    Pool](https://zh.wikipedia.org/wiki/Midnight_Pool "wikilink")*
-    (Wii，iOS，N-Gage)
-  - *[Midnight Pool
-    2](https://zh.wikipedia.org/wiki/Midnight_Pool_2 "wikilink")*
-  - *[Midnight Pool
-    3D](https://zh.wikipedia.org/wiki/Midnight_Pool_3D "wikilink")*
-  - *[Might and
-    Magic](https://zh.wikipedia.org/wiki/Might_and_Magic_Mobile "wikilink")*
-  - *[Might and Magic
-    II](https://zh.wikipedia.org/wiki/Might_and_Magic_Mobile_II "wikilink")*
-  - *[Million Dollar Poker feat. Gus
-    Hansen](https://zh.wikipedia.org/wiki/Million_Dollar_Poker_feat._Gus_Hansen "wikilink")*
-  - *[Mission Impossible
-    III](https://zh.wikipedia.org/wiki/Mission_Impossible_III "wikilink")*
-  - *[Modern Combat:
-    Domination](https://zh.wikipedia.org/wiki/Modern_Combat:_Domination "wikilink")*
-    (PS3，[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink"))
-  - *[Modern Combat:
-    Sandstorm](https://zh.wikipedia.org/wiki/Modern_Combat:_Sandstorm "wikilink")*
-    (iOS，[Bada](https://zh.wikipedia.org/wiki/Bada_OS "wikilink")，[Palm
-    Pre](../Page/Palm_Pre.md "wikilink")，Android)
-  - *[Modern Combat 2: Black
-    Pegasus](https://zh.wikipedia.org/wiki/Modern_Combat_2:_Black_Pegasus "wikilink")*
-    ([Blackberry
-    Playbook](https://zh.wikipedia.org/wiki/Blackberry_Playbook "wikilink")，iOS，Android)
-  - *[Modern Combat 3: Fallen
-    Nation](https://zh.wikipedia.org/wiki/Modern_Combat_3:_Fallen_Nation "wikilink")*
-    (Android，iOS，Windows Phone 7)
-  - *[Modern Combat 4: zero
-    hour](https://zh.wikipedia.org/wiki/Modern_Combat_4:_zero_hour "wikilink")*
-  - *[Mystery Mansion
-    Pinball](https://zh.wikipedia.org/wiki/Mystery_Mansion_Pinball "wikilink")*
-    (iOS)
-  - *[My Life in New
-    York](https://zh.wikipedia.org/wiki/My_Life_in_New_York "wikilink")*
+  - *[Massive Snowboarding](https://zh.wikipedia.org/wiki/Massive_Snowboarding "wikilink")*
+  - *[March of Heroes](https://zh.wikipedia.org/wiki/March_of_Heroes "wikilink")*
+  - *[Megacity Empire](https://zh.wikipedia.org/wiki/Megacity_Empire "wikilink")*
+  - *[March of Empire](https://zh.wikipedia.org/wiki/March_of_Empire "wikilink")*
+  - *[Miami Nights: Single in the City](https://zh.wikipedia.org/wiki/Miami_Nights:_Single_in_the_City "wikilink")* (DS)
+  - *[Miami Nights: The city is yours](https://zh.wikipedia.org/wiki/Miami_Nights:_The_city_is_yours "wikilink")*
+  - *[Midnight Bowling](https://zh.wikipedia.org/wiki/Midnight_Bowling "wikilink")* (Wii，iOS，mobile)
+  - *[Midnight Bowling 2](https://zh.wikipedia.org/wiki/Midnight_Bowling_2 "wikilink")*
+  - *[Midnight Hold'em Poker](https://zh.wikipedia.org/wiki/Midnight_Hold'em_Poker "wikilink")*
+  - *[Midnight Play Pack](https://zh.wikipedia.org/wiki/Midnight_Play_Pack "wikilink")* (DS)
+  - *[Midnight Pool](https://zh.wikipedia.org/wiki/Midnight_Pool "wikilink")* (Wii，iOS，N-Gage)
+  - *[Midnight Pool 2](https://zh.wikipedia.org/wiki/Midnight_Pool_2 "wikilink")*
+  - *[Midnight Pool 3D](https://zh.wikipedia.org/wiki/Midnight_Pool_3D "wikilink")*
+  - *[Might and Magic](https://zh.wikipedia.org/wiki/Might_and_Magic_Mobile "wikilink")*
+  - *[Might and Magic II](https://zh.wikipedia.org/wiki/Might_and_Magic_Mobile_II "wikilink")*
+  - *[Million Dollar Poker feat. Gus Hansen](https://zh.wikipedia.org/wiki/Million_Dollar_Poker_feat._Gus_Hansen "wikilink")*
+  - *[Mission Impossible III](https://zh.wikipedia.org/wiki/Mission_Impossible_III "wikilink")*
+  - *[Modern Combat: Domination](https://zh.wikipedia.org/wiki/Modern_Combat:_Domination "wikilink")* (PS3，[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink"))
+  - *[Modern Combat: Sandstorm](https://zh.wikipedia.org/wiki/Modern_Combat:_Sandstorm "wikilink")* (iOS，[Bada](https://zh.wikipedia.org/wiki/Bada_OS "wikilink")，[Palm Pre](../Page/Palm_Pre.md "wikilink")，Android)
+  - *[Modern Combat 2: Black Pegasus](https://zh.wikipedia.org/wiki/Modern_Combat_2:_Black_Pegasus "wikilink")* ([Blackberry Playbook](https://zh.wikipedia.org/wiki/Blackberry_Playbook "wikilink")，iOS，Android)
+  - *[Modern Combat 3: Fallen Nation](https://zh.wikipedia.org/wiki/Modern_Combat_3:_Fallen_Nation "wikilink")* (Android，iOS，Windows Phone 7)
+  - *[Modern Combat 4: zero hour](https://zh.wikipedia.org/wiki/Modern_Combat_4:_zero_hour "wikilink")*
+  - *[Mystery Mansion Pinball](https://zh.wikipedia.org/wiki/Mystery_Mansion_Pinball "wikilink")* (iOS)
+  - *[My Life in New York](https://zh.wikipedia.org/wiki/My_Life_in_New_York "wikilink")*
 
 Modern Combat 5: Black Out(Android,IOS)
 
 ## N
 
-  - *[Naval Battle: Mission
-    Commander](https://zh.wikipedia.org/wiki/Naval_Battle:_Mission_Commander "wikilink")*
-    (iOS)
+  - *[Naval Battle: Mission Commander](https://zh.wikipedia.org/wiki/Naval_Battle:_Mission_Commander "wikilink")* (iOS)
   - .. Men in Black 3 for (iOS)
-  - *[NBA Pro Basketball
-    2010](https://zh.wikipedia.org/wiki/NBA_Pro_Basketball_2010 "wikilink")*
-  - *[New York Nights: Success in the
-    City](https://zh.wikipedia.org/wiki/New_York_Nights:_Success_in_the_City "wikilink")*
-  - *[New York Nights 2: Friends for
-    Life](https://zh.wikipedia.org/wiki/New_York_Nights_2:_Friends_for_Life "wikilink")*
-  - *[NFL
-    2008](https://zh.wikipedia.org/wiki/NFL_\(series\) "wikilink")* (DS)
-  - *[NFL
-    2009](https://zh.wikipedia.org/wiki/NFL_\(series\) "wikilink")*
-  - *[NFL
-    2010](https://zh.wikipedia.org/wiki/NFL_\(series\) "wikilink")*
-    (iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink"))
-  - *[NFL HD
-    2011](https://zh.wikipedia.org/wiki/NFL_\(series\) "wikilink")*
-  - *[NFL Pro
-    2012](https://zh.wikipedia.org/wiki/NFL_\(series\) "wikilink")*
-  - *[Nightmare
-    Creatures](https://zh.wikipedia.org/wiki/Nightmare_Creatures "wikilink")*
-  - *[Ninja
-    Prophecy](https://zh.wikipedia.org/wiki/Ninja_Prophecy "wikilink")*
-  - *[Nitro Street
-    Racing](https://zh.wikipedia.org/wiki/Nitro_Street_Racing "wikilink")*
-    '''
-  - *[Nitro Street Racing
-    2](https://zh.wikipedia.org/wiki/Nitro_Street_Racing_2 "wikilink")*
-    '''
-  - *[N.O.V.A. Near Orbit Vanguard
-    Alliance](https://zh.wikipedia.org/wiki/N.O.V.A._Near_Orbit_Vanguard_Alliance "wikilink")*
-    (iOS，[Playstation](https://zh.wikipedia.org/wiki/Playstation "wikilink")
-    OS
-    ([PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")，[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink"))，[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")，[Palm
-    Pre](../Page/Palm_Pre.md "wikilink")，[Android](../Page/Android.md "wikilink"))
-  - *[N.O.V.A 2: The Hero Rises
-    Again](https://zh.wikipedia.org/wiki/N.O.V.A_2:_The_Hero_Rises_Again "wikilink")*
-    ([Blackberry
-    Playbook](https://zh.wikipedia.org/wiki/Blackberry_Playbook "wikilink")，iOS)
+  - *[NBA Pro Basketball 2010](https://zh.wikipedia.org/wiki/NBA_Pro_Basketball_2010 "wikilink")*
+  - *[New York Nights: Success in the City](https://zh.wikipedia.org/wiki/New_York_Nights:_Success_in_the_City "wikilink")*
+  - *[New York Nights 2: Friends for Life](https://zh.wikipedia.org/wiki/New_York_Nights_2:_Friends_for_Life "wikilink")*
+  - *[NFL 2008](https://zh.wikipedia.org/wiki/NFL_\(series\) "wikilink")* (DS)
+  - *[NFL 2009](https://zh.wikipedia.org/wiki/NFL_\(series\) "wikilink")*
+  - *[NFL 2010](https://zh.wikipedia.org/wiki/NFL_\(series\) "wikilink")* (iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink"))
+  - *[NFL HD 2011](https://zh.wikipedia.org/wiki/NFL_\(series\) "wikilink")*
+  - *[NFL Pro 2012](https://zh.wikipedia.org/wiki/NFL_\(series\) "wikilink")*
+  - *[Nightmare Creatures](https://zh.wikipedia.org/wiki/Nightmare_Creatures "wikilink")*
+  - *[Ninja Prophecy](https://zh.wikipedia.org/wiki/Ninja_Prophecy "wikilink")*
+  - *[Nitro Street Racing](https://zh.wikipedia.org/wiki/Nitro_Street_Racing "wikilink")* '''
+  - *[Nitro Street Racing 2](https://zh.wikipedia.org/wiki/Nitro_Street_Racing_2 "wikilink")* '''
+  - *[N.O.V.A. Near Orbit Vanguard Alliance](https://zh.wikipedia.org/wiki/N.O.V.A._Near_Orbit_Vanguard_Alliance "wikilink")* (iOS，[Playstation](https://zh.wikipedia.org/wiki/Playstation "wikilink") OS ([PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")，[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink"))，[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")，[Palm Pre](../Page/Palm_Pre.md "wikilink")，[Android](../Page/Android.md "wikilink"))
+  - *[N.O.V.A 2: The Hero Rises Again](https://zh.wikipedia.org/wiki/N.O.V.A_2:_The_Hero_Rises_Again "wikilink")* ([Blackberry Playbook](https://zh.wikipedia.org/wiki/Blackberry_Playbook "wikilink")，iOS)
 
 ## O
 
@@ -839,195 +702,95 @@ Modern Combat 5: Black Out(Android,IOS)
 ## P
 
   - *[Petz](https://zh.wikipedia.org/wiki/Petz "wikilink")*
-  - *[Paris Hiltons Jewl
-    Jam](https://zh.wikipedia.org/wiki/Paris_Hiltons_Jewl_Jam "wikilink")*
-  - *[Paris
-    Night](https://zh.wikipedia.org/wiki/Paris_Night "wikilink")*
-  - *[Platinum
-    Solitaire](https://zh.wikipedia.org/wiki/Platinum_Solitaire "wikilink")*
-  - *[Platinum Solitaire
-    2](https://zh.wikipedia.org/wiki/Platinum_Solitaire_2 "wikilink")*
-  - *[Platinum Solitaire
-    3](https://zh.wikipedia.org/wiki/Platinum_Solitaire_3 "wikilink")*
-  - *[Platinum
-    Sudoku](https://zh.wikipedia.org/wiki/Platinum_Sudoku "wikilink")*
-  - *[Platinum Sudoku
-    2](https://zh.wikipedia.org/wiki/Platinum_Sudoku_2 "wikilink")*
-  - *[Power thirst the
-    game](https://zh.wikipedia.org/wiki/Power_thirst_the_game "wikilink")*
-  - *[Prince of
-    Persia](https://zh.wikipedia.org/wiki/Prince_of_Persia "wikilink")*
-  - *[Prince of Persia
-    Classic](https://zh.wikipedia.org/wiki/Prince_of_Persia_Classic "wikilink")*
-    (PS3，Xbox Live Arcade，PlayStation Store)
-  - *[Prince of Persia: Harem
-    Adventures](https://zh.wikipedia.org/wiki/Prince_of_Persia:_Harem_Adventures "wikilink")*
-  - *[Prince of Persia: The Sands of
-    Time](https://zh.wikipedia.org/wiki/Prince_of_Persia:_The_Sands_of_Time "wikilink")*
-  - *[Prince of Persia: The Two
-    Thrones](https://zh.wikipedia.org/wiki/Prince_of_Persia:_The_Two_Thrones "wikilink")*
-  - *[Prince of Persia: Warrior
-    Within](https://zh.wikipedia.org/wiki/Prince_of_Persia:_Warrior_Within "wikilink")*
-    (iOS)
-  - *[Prince of Persia: The forgotten
-    sands](https://zh.wikipedia.org/wiki/Prince_of_Persia:_The_forgotten_sands "wikilink")*
-  - *[Pro Golf 2007
-    3D](https://zh.wikipedia.org/wiki/Pro_Golf_2007_3D "wikilink")*
-  - *[Pro Moto
-    Racing](https://zh.wikipedia.org/wiki/Pro_Moto_Racing "wikilink")*
-  - *[Pro Rally
-    Racing](https://zh.wikipedia.org/wiki/Pro_Rally_Racing "wikilink")*
+  - *[Paris Hiltons Jewl Jam](https://zh.wikipedia.org/wiki/Paris_Hiltons_Jewl_Jam "wikilink")*
+  - *[Paris Night](https://zh.wikipedia.org/wiki/Paris_Night "wikilink")*
+  - *[Platinum Solitaire](https://zh.wikipedia.org/wiki/Platinum_Solitaire "wikilink")*
+  - *[Platinum Solitaire 2](https://zh.wikipedia.org/wiki/Platinum_Solitaire_2 "wikilink")*
+  - *[Platinum Solitaire 3](https://zh.wikipedia.org/wiki/Platinum_Solitaire_3 "wikilink")*
+  - *[Platinum Sudoku](https://zh.wikipedia.org/wiki/Platinum_Sudoku "wikilink")*
+  - *[Platinum Sudoku 2](https://zh.wikipedia.org/wiki/Platinum_Sudoku_2 "wikilink")*
+  - *[Power thirst the game](https://zh.wikipedia.org/wiki/Power_thirst_the_game "wikilink")*
+  - *[Prince of Persia](https://zh.wikipedia.org/wiki/Prince_of_Persia "wikilink")*
+  - *[Prince of Persia Classic](https://zh.wikipedia.org/wiki/Prince_of_Persia_Classic "wikilink")* (PS3，Xbox Live Arcade，PlayStation Store)
+  - *[Prince of Persia: Harem Adventures](https://zh.wikipedia.org/wiki/Prince_of_Persia:_Harem_Adventures "wikilink")*
+  - *[Prince of Persia: The Sands of Time](https://zh.wikipedia.org/wiki/Prince_of_Persia:_The_Sands_of_Time "wikilink")*
+  - *[Prince of Persia: The Two Thrones](https://zh.wikipedia.org/wiki/Prince_of_Persia:_The_Two_Thrones "wikilink")*
+  - *[Prince of Persia: Warrior Within](https://zh.wikipedia.org/wiki/Prince_of_Persia:_Warrior_Within "wikilink")* (iOS)
+  - *[Prince of Persia: The forgotten sands](https://zh.wikipedia.org/wiki/Prince_of_Persia:_The_forgotten_sands "wikilink")*
+  - *[Pro Golf 2007 3D](https://zh.wikipedia.org/wiki/Pro_Golf_2007_3D "wikilink")*
+  - *[Pro Moto Racing](https://zh.wikipedia.org/wiki/Pro_Moto_Racing "wikilink")*
+  - *[Pro Rally Racing](https://zh.wikipedia.org/wiki/Pro_Rally_Racing "wikilink")*
 
 ## Q
 
 ## R
 
-  - *[Rayman](https://zh.wikipedia.org/wiki/Rayman_\(video_game\) "wikilink")*
-    (DSiWare，iOS，PlayStation Network，Windows Mobile，Palm Pilot)
+  - *[Rayman](https://zh.wikipedia.org/wiki/Rayman_\(video_game\) "wikilink")* (DSiWare，iOS，PlayStation Network，Windows Mobile，Palm Pilot)
   - *[Rayman 3](https://zh.wikipedia.org/wiki/Rayman_3 "wikilink")*
-  - *[Rayman
-    Bowling](https://zh.wikipedia.org/wiki/Rayman_Bowling "wikilink")*
-  - *[Rayman
-    Garden](https://zh.wikipedia.org/wiki/Rayman_Garden "wikilink")*
-  - *[Rayman
-    Golf](https://zh.wikipedia.org/wiki/Rayman_Golf "wikilink")*
-  - *[Rayman
-    Kart](https://zh.wikipedia.org/wiki/Rayman_Kart "wikilink")*
-  - *[Rayman Raving
-    Rabbids](https://zh.wikipedia.org/wiki/Rayman_Raving_Rabbids "wikilink")*
-  - *[Rayman Raving Rabbids TV
-    Party](https://zh.wikipedia.org/wiki/Rayman_Raving_Rabbids_TV_Party "wikilink")*
+  - *[Rayman Bowling](https://zh.wikipedia.org/wiki/Rayman_Bowling "wikilink")*
+  - *[Rayman Garden](https://zh.wikipedia.org/wiki/Rayman_Garden "wikilink")*
+  - *[Rayman Golf](https://zh.wikipedia.org/wiki/Rayman_Golf "wikilink")*
+  - *[Rayman Kart](https://zh.wikipedia.org/wiki/Rayman_Kart "wikilink")*
+  - *[Rayman Raving Rabbids](https://zh.wikipedia.org/wiki/Rayman_Raving_Rabbids "wikilink")*
+  - *[Rayman Raving Rabbids TV Party](https://zh.wikipedia.org/wiki/Rayman_Raving_Rabbids_TV_Party "wikilink")*
   - *Real Football 2004*
   - *Real Football 2005*
-  - *[Real Football
-    2006](https://zh.wikipedia.org/wiki/Real_Football_2006 "wikilink")*
-    (Real Soccer 2006)
-  - *[Real Football
-    2007](https://zh.wikipedia.org/wiki/Real_Football_2007 "wikilink")*
-  - *[Real Football
-    2008](https://zh.wikipedia.org/wiki/Real_Football_2008 "wikilink")*
-  - *[Real Football
-    2009](https://zh.wikipedia.org/wiki/Real_Football_2009 "wikilink")*
-    (DS，DSiWare，iOS)
-  - *[Real Football
-    2010](https://zh.wikipedia.org/wiki/Real_Football_2010 "wikilink")*
-    (DSiWare，iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink"))
-  - *[Real Football
-    2011](https://zh.wikipedia.org/wiki/Real_Football_2011 "wikilink")*
-    ([Blackberry
-    Playbook](https://zh.wikipedia.org/wiki/Blackberry_Playbook "wikilink")，iOS，Android)
+  - *[Real Football 2006](https://zh.wikipedia.org/wiki/Real_Football_2006 "wikilink")* (Real Soccer 2006)
+  - *[Real Football 2007](https://zh.wikipedia.org/wiki/Real_Football_2007 "wikilink")*
+  - *[Real Football 2008](https://zh.wikipedia.org/wiki/Real_Football_2008 "wikilink")*
+  - *[Real Football 2009](https://zh.wikipedia.org/wiki/Real_Football_2009 "wikilink")* (DS，DSiWare，iOS)
+  - *[Real Football 2010](https://zh.wikipedia.org/wiki/Real_Football_2010 "wikilink")* (DSiWare，iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink"))
+  - *[Real Football 2011](https://zh.wikipedia.org/wiki/Real_Football_2011 "wikilink")* ([Blackberry Playbook](https://zh.wikipedia.org/wiki/Blackberry_Playbook "wikilink")，iOS，Android)
   - ''Real Football 2012
-  - *[Real Rugby](https://zh.wikipedia.org/wiki/Real_Rugby "wikilink")*
-    ([Invictus](https://zh.wikipedia.org/wiki/Invictus_\(film\) "wikilink")
-    mini game，Xbox)
-  - *[Reggie Bush Pro Football
-    2007](https://zh.wikipedia.org/wiki/Reggie_Bush_Pro_Football_2007 "wikilink")*
-  - *[Reggie Bush Pro Football
-    2008](https://zh.wikipedia.org/wiki/Reggie_Bush_Pro_Football_2008 "wikilink")*
-  - *[Rogue
-    Planet](https://zh.wikipedia.org/wiki/Rogue_Planet_\(video_game\) "wikilink")*
-    (iOS)
+  - *[Real Rugby](https://zh.wikipedia.org/wiki/Real_Rugby "wikilink")* ([Invictus](https://zh.wikipedia.org/wiki/Invictus_\(film\) "wikilink") mini game，Xbox)
+  - *[Reggie Bush Pro Football 2007](https://zh.wikipedia.org/wiki/Reggie_Bush_Pro_Football_2007 "wikilink")*
+  - *[Reggie Bush Pro Football 2008](https://zh.wikipedia.org/wiki/Reggie_Bush_Pro_Football_2008 "wikilink")*
+  - *[Rogue Planet](https://zh.wikipedia.org/wiki/Rogue_Planet_\(video_game\) "wikilink")* (iOS)
 
 ## S
 
-  - *[Sally's
-    Studio](https://zh.wikipedia.org/wiki/Sally's_Studio "wikilink")*
-  - *[Sexy Poker
-    2009](https://zh.wikipedia.org/wiki/Sexy_Poker_2009 "wikilink")*
-    ([Wii](../Page/Wii.md "wikilink")，Mobile)
-  - *[Sherlock Holmes: The Official Movie
-    Game](https://zh.wikipedia.org/wiki/Sherlock_Holmes:_The_Official_Movie_Game "wikilink")*
-  - *[Shrek](https://zh.wikipedia.org/wiki/Shrek "wikilink")*，*[Shrek
-    2](https://zh.wikipedia.org/wiki/Shrek_2 "wikilink")*，*[Shrek
-    Forever
-    After](https://zh.wikipedia.org/wiki/Shrek_Forever_After "wikilink")*
-    (iOS，iPod Classic，PlayStation Network，Xbox Live Arcade，[Palm
-    Pre](../Page/Palm_Pre.md "wikilink"))
-  - *[Shrek Kart](https://zh.wikipedia.org/wiki/Shrek_Kart "wikilink")*
-    (iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink"))
-  - *[Shrek the
-    Third](https://zh.wikipedia.org/wiki/Shrek_the_Third_\(video_game\) "wikilink")*
-  - *[Siberian
-    Strike](https://zh.wikipedia.org/wiki/Siberian_Strike "wikilink")*
-  - *[Siberian Strike Episode
-    II](https://zh.wikipedia.org/wiki/Siberian_Strike_Episode_II "wikilink")*
+  - *[Sally's Studio](https://zh.wikipedia.org/wiki/Sally's_Studio "wikilink")*
+  - *[Sexy Poker 2009](https://zh.wikipedia.org/wiki/Sexy_Poker_2009 "wikilink")* ([Wii](../Page/Wii.md "wikilink")，Mobile)
+  - *[Sherlock Holmes: The Official Movie Game](https://zh.wikipedia.org/wiki/Sherlock_Holmes:_The_Official_Movie_Game "wikilink")*
+  - *[Shrek](https://zh.wikipedia.org/wiki/Shrek "wikilink")*，*[Shrek 2](https://zh.wikipedia.org/wiki/Shrek_2 "wikilink")*，*[Shrek Forever After](https://zh.wikipedia.org/wiki/Shrek_Forever_After "wikilink")* (iOS，iPod Classic，PlayStation Network，Xbox Live Arcade，[Palm Pre](../Page/Palm_Pre.md "wikilink"))
+  - *[Shrek Kart](https://zh.wikipedia.org/wiki/Shrek_Kart "wikilink")* (iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink"))
+  - *[Shrek the Third](https://zh.wikipedia.org/wiki/Shrek_the_Third_\(video_game\) "wikilink")*
+  - *[Siberian Strike](https://zh.wikipedia.org/wiki/Siberian_Strike "wikilink")*
+  - *[Siberian Strike Episode II](https://zh.wikipedia.org/wiki/Siberian_Strike_Episode_II "wikilink")*
   - ''Sid Meier’s Civilization V: The Mobile Game
-  - "[Six-Guns](https://zh.wikipedia.org/wiki/Six-Guns "wikilink")"
-    (IOS，[Android](../Page/Android.md "wikilink"))
-  - *[Skater
-    Nation](https://zh.wikipedia.org/wiki/Skater_Nation "wikilink")*
-    (iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink"))
+  - "[Six-Guns](https://zh.wikipedia.org/wiki/Six-Guns "wikilink")" (IOS，[Android](../Page/Android.md "wikilink"))
+  - *[Skater Nation](https://zh.wikipedia.org/wiki/Skater_Nation "wikilink")* (iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink"))
   - *[Skee-Ball](https://zh.wikipedia.org/wiki/Skee-Ball "wikilink")*
-  - *[Speed
-    Devils](https://zh.wikipedia.org/wiki/Speed_Devils "wikilink")*
-  - *[Spring Break
-    Fever](https://zh.wikipedia.org/wiki/Spring_Break_Fever "wikilink")*
-  - *[Spider-Man: Total
-    Mayhem](https://zh.wikipedia.org/wiki/Spider-Man:_Total_Mayhem "wikilink")*
-    ([Blackberry
-    Playbook](https://zh.wikipedia.org/wiki/Blackberry_Playbook "wikilink"))
-  - *[Spider-Man: Toxic
-    City](https://zh.wikipedia.org/wiki/Spider-Man:_Toxic_City "wikilink")*
-  - *[Soul of
-    Darkness](https://zh.wikipedia.org/wiki/Soul_of_Darkness "wikilink")*
-    (DSiWare)'
-  - *[Surf's
-    Up](https://zh.wikipedia.org/wiki/Surf's_Up_\(video_game\) "wikilink")*
+  - *[Speed Devils](https://zh.wikipedia.org/wiki/Speed_Devils "wikilink")*
+  - *[Spring Break Fever](https://zh.wikipedia.org/wiki/Spring_Break_Fever "wikilink")*
+  - *[Spider-Man: Total Mayhem](https://zh.wikipedia.org/wiki/Spider-Man:_Total_Mayhem "wikilink")* ([Blackberry Playbook](https://zh.wikipedia.org/wiki/Blackberry_Playbook "wikilink"))
+  - *[Spider-Man: Toxic City](https://zh.wikipedia.org/wiki/Spider-Man:_Toxic_City "wikilink")*
+  - *[Soul of Darkness](https://zh.wikipedia.org/wiki/Soul_of_Darkness "wikilink")* (DSiWare)'
+  - *[Surf's Up](https://zh.wikipedia.org/wiki/Surf's_Up_\(video_game\) "wikilink")*
 
 ## T
 
-  - *[Tank
-    Battles](https://zh.wikipedia.org/wiki/Battle_Tanks "wikilink")*
-    (PlayStation 3)
-  - *[Terminator
-    Salvation](https://zh.wikipedia.org/wiki/Terminator_Salvation_\(video_game\) "wikilink")*
-    (iOS)
-  - *[Texas Hold'Em
-    Poker](https://zh.wikipedia.org/wiki/Texas_Hold'Em_Poker "wikilink")*
-    (Wii，Mobile)
-  - *[Texas Hold'em Poker
-    2](https://zh.wikipedia.org/wiki/Texas_Hold'em_Poker_2 "wikilink")*
+  - *[Tank Battles](https://zh.wikipedia.org/wiki/Battle_Tanks "wikilink")* (PlayStation 3)
+  - *[Terminator Salvation](https://zh.wikipedia.org/wiki/Terminator_Salvation_\(video_game\) "wikilink")* (iOS)
+  - *[Texas Hold'Em Poker](https://zh.wikipedia.org/wiki/Texas_Hold'Em_Poker "wikilink")* (Wii，Mobile)
+  - *[Texas Hold'em Poker 2](https://zh.wikipedia.org/wiki/Texas_Hold'em_Poker_2 "wikilink")*
   - *[The O.C.](https://zh.wikipedia.org/wiki/The_O.C. "wikilink")*
-  - *[The
-    Settlers](https://zh.wikipedia.org/wiki/The_Settlers "wikilink")*
-    (iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink"))
-  - *[The Amazing
-    Spider-Man](https://zh.wikipedia.org/wiki/The_Amazing_Spider-Man "wikilink")*
-    (iOS，Android)
-  - *[Tokyo City
-    Nights](https://zh.wikipedia.org/wiki/Tokyo_City_Nights "wikilink")*
-    (Japan Only)
-  - *[Tom Clancy's Ghost Recon: Jungle
-    Storm](https://zh.wikipedia.org/wiki/Tom_Clancy's_Ghost_Recon:_Jungle_Storm "wikilink")*
-    (U.S.)
-  - *[Tom Clancy's Ghost Recon Advanced Warfighter
-    2](https://zh.wikipedia.org/wiki/Tom_Clancy's_Ghost_Recon_Advanced_Warfighter_2 "wikilink")*
-  - *[Tom Clancy's
-    H.A.W.X](https://zh.wikipedia.org/wiki/Tom_Clancy's_H.A.W.X "wikilink")*
-    (iOS，[Palm
-    Pre](../Page/Palm_Pre.md "wikilink")，[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")，Android)
-  - *[Tom Clancy's Rainbow Six
-    3](https://zh.wikipedia.org/wiki/Tom_Clancy's_Rainbow_Six_3 "wikilink")*
-  - *[Tom Clancy's Rainbow Six
-    Vegas](https://zh.wikipedia.org/wiki/Tom_Clancy's_Rainbow_Six_Vegas "wikilink")*
-  - *[Tom Clancy's Splinter
-    Cell](https://zh.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell_\(video_game\) "wikilink")*
-  - *[Tom Clancy's Splinter Cell: Chaos
-    Theory](https://zh.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell:_Chaos_Theory "wikilink")*
-  - *[Tom Clancy's Splinter Cell:
-    Conviction](https://zh.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell:_Conviction "wikilink")*
-    (iOS)
-  - *[Tom Clancy's Splinter Cell: Double
-    Agent](https://zh.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell:_Double_Agent "wikilink")*
-  - *[Tom Clancy's Splinter Cell: Pandora
-    Tomorrow](https://zh.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell:_Pandora_Tomorrow "wikilink")*
-  - *[Tropical
-    Madness](https://zh.wikipedia.org/wiki/Tropical_Madness "wikilink")*
-  - *[TV Show
-    King](https://zh.wikipedia.org/wiki/TV_Show_King "wikilink")*
-    (Wii，iOS，PlayStation 3)
-  - *[TV Show King
-    Party](https://zh.wikipedia.org/wiki/TV_Show_King_Party "wikilink")*
+  - *[The Settlers](https://zh.wikipedia.org/wiki/The_Settlers "wikilink")* (iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink"))
+  - *[The Amazing Spider-Man](https://zh.wikipedia.org/wiki/The_Amazing_Spider-Man "wikilink")* (iOS，Android)
+  - *[Tokyo City Nights](https://zh.wikipedia.org/wiki/Tokyo_City_Nights "wikilink")* (Japan Only)
+  - *[Tom Clancy's Ghost Recon: Jungle Storm](https://zh.wikipedia.org/wiki/Tom_Clancy's_Ghost_Recon:_Jungle_Storm "wikilink")* (U.S.)
+  - *[Tom Clancy's Ghost Recon Advanced Warfighter 2](https://zh.wikipedia.org/wiki/Tom_Clancy's_Ghost_Recon_Advanced_Warfighter_2 "wikilink")*
+  - *[Tom Clancy's H.A.W.X](https://zh.wikipedia.org/wiki/Tom_Clancy's_H.A.W.X "wikilink")* (iOS，[Palm Pre](../Page/Palm_Pre.md "wikilink")，[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")，Android)
+  - *[Tom Clancy's Rainbow Six 3](https://zh.wikipedia.org/wiki/Tom_Clancy's_Rainbow_Six_3 "wikilink")*
+  - *[Tom Clancy's Rainbow Six Vegas](https://zh.wikipedia.org/wiki/Tom_Clancy's_Rainbow_Six_Vegas "wikilink")*
+  - *[Tom Clancy's Splinter Cell](https://zh.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell_\(video_game\) "wikilink")*
+  - *[Tom Clancy's Splinter Cell: Chaos Theory](https://zh.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell:_Chaos_Theory "wikilink")*
+  - *[Tom Clancy's Splinter Cell: Conviction](https://zh.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell:_Conviction "wikilink")* (iOS)
+  - *[Tom Clancy's Splinter Cell: Double Agent](https://zh.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell:_Double_Agent "wikilink")*
+  - *[Tom Clancy's Splinter Cell: Pandora Tomorrow](https://zh.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell:_Pandora_Tomorrow "wikilink")*
+  - *[Tropical Madness](https://zh.wikipedia.org/wiki/Tropical_Madness "wikilink")*
+  - *[TV Show King](https://zh.wikipedia.org/wiki/TV_Show_King "wikilink")* (Wii，iOS，PlayStation 3)
+  - *[TV Show King Party](https://zh.wikipedia.org/wiki/TV_Show_King_Party "wikilink")*
 
 ## U
 
@@ -1101,11 +864,8 @@ DSi，Wii，PlayStation 3, Android, XBLA</p></td>
 
 ## Z
 
-  - *[Zombie
-    Infection](https://zh.wikipedia.org/wiki/Zombie_Infection "wikilink")*
-    '''
-  - *[Zombie Infection
-    2](https://zh.wikipedia.org/wiki/Zombie_Infection_2 "wikilink")* '''
+  - *[Zombie Infection](https://zh.wikipedia.org/wiki/Zombie_Infection "wikilink")* '''
+  - *[Zombie Infection 2](https://zh.wikipedia.org/wiki/Zombie_Infection_2 "wikilink")* '''
   - *[Baku Keju](https://zh.wikipedia.org/wiki/Baku_Keju "wikilink")*
 
 ## 注释
@@ -1115,15 +875,11 @@ DSi，Wii，PlayStation 3, Android, XBLA</p></td>
 ## 外部链接
 
   - [Official portal of Gameloft](http://www.gameloft.com/)
-  - [List of Gameloft
-    games](http://www.mobygames.com/browse/games/gameloft-sa/list-games/)
-    from [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
+  - [List of Gameloft games](http://www.mobygames.com/browse/games/gameloft-sa/list-games/) from [MobyGames](https://zh.wikipedia.org/wiki/MobyGames "wikilink")
 
-[Category:Gameloft遊戲](https://zh.wikipedia.org/wiki/Category:Gameloft遊戲 "wikilink")
-[Category:各公司电子游戏列表](https://zh.wikipedia.org/wiki/Category:各公司电子游戏列表 "wikilink")
+[Category:Gameloft遊戲](https://zh.wikipedia.org/wiki/Category:Gameloft遊戲 "wikilink") [Category:各公司电子游戏列表](https://zh.wikipedia.org/wiki/Category:各公司电子游戏列表 "wikilink")
 
-1.  [All About
-    Symbian](http://www.allaboutsymbian.com/news/item/13118_Asphalt_6_HD_and_Dungeon_Hunte.php)
+1.  [All About Symbian](http://www.allaboutsymbian.com/news/item/13118_Asphalt_6_HD_and_Dungeon_Hunte.php)
 
 2.  [OVI Store](http://store.ovi.com/content/151325)
 

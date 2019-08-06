@@ -1,8 +1,6 @@
-**cue**脚本（），是一种规定音频映像文件的分轨信息，并辅助相应的软件（如刻录软件，或播放软件）自动识别音频分轨的文本元数据脚本。是最早使用该脚本规范的軟體之一\[1\]\[2\]
-，之后越来越多播放软件和刻录软件所支持。
+**cue**脚本（），是一种规定音频映像文件的分轨信息，并辅助相应的软件（如刻录软件，或播放软件）自动识别音频分轨的文本元数据脚本。是最早使用该脚本规范的軟體之一\[1\]\[2\] ，之后越来越多播放软件和刻录软件所支持。
 
-通过该脚本，可以方便将一个整合多个音乐片段的音频文件虚拟划分为多个原来多个音频片段，而无需直接分割该整合音频文件。除外，也可以记录整个音频文件和每个分轨的描述信息
-。
+通过该脚本，可以方便将一个整合多个音乐片段的音频文件虚拟划分为多个原来多个音频片段，而无需直接分割该整合音频文件。除外，也可以记录整个音频文件和每个分轨的描述信息 。
 
 ## 文件规格和规范命令
 
@@ -21,11 +19,7 @@ cue脚本是一般的文本文件，默认使用[ASCII](../Page/ASCII.md "wikili
         定义分轨，后面可跟着多个参数，数字表示为第几个分轨，`AUDIO`表示该分轨为CD音轨。
     `INDEX`
       -
-        定义光轨中段落的索引号。其中INDEX 00一般表示该光轨开始时的间歇（留一段空白），而INDEX
-        01则表示音乐开始了，多段的索引用得比较少，一般表示交响乐中的段落等。跟随一个时间参数，格式为*mm*:*ss*:*ff*
-        （分钟:秒:帧），其中一秒75帧，该时间参数是相对整个源文件的时间的。\[4\]`INDEX 01`
-        是必需的，而`INDEX 00`
-        等都是可选的，并在[红皮书定义为留空音轨](https://zh.wikipedia.org/wiki/红皮书_\(音频CD标准\) "wikilink")。
+        定义光轨中段落的索引号。其中INDEX 00一般表示该光轨开始时的间歇（留一段空白），而INDEX 01则表示音乐开始了，多段的索引用得比较少，一般表示交响乐中的段落等。跟随一个时间参数，格式为*mm*:*ss*:*ff* （分钟:秒:帧），其中一秒75帧，该时间参数是相对整个源文件的时间的。\[4\]`INDEX 01` 是必需的，而`INDEX 00` 等都是可选的，并在[红皮书定义为留空音轨](https://zh.wikipedia.org/wiki/红皮书_\(音频CD标准\) "wikilink")。
     `PREGAP`和`POSTGAP`
       -
         标识前置空白和后置空白，而且这些空白并不存在于源文件中，一般没意义。后面跟随一个时间参数，格式和`INDEX`定义的时间格式一样。
@@ -119,19 +113,15 @@ cue脚本是一般的文本文件，默认使用[ASCII](../Page/ASCII.md "wikili
 
 ## 外部链接
 
-  - [Cue
-    Sheet](https://web.archive.org/web/20120620182228/http://digitalx.org/cue-sheet/)
-    来自digitalx.org的介绍
-  - [Cuesheet Tutorial](http://qed.qproject.org/tutorial.php)
-    一个详细教程介绍本脚本语法和使用方法
+  - [Cue Sheet](https://web.archive.org/web/20120620182228/http://digitalx.org/cue-sheet/) 来自digitalx.org的介绍
+  - [Cuesheet Tutorial](http://qed.qproject.org/tutorial.php) 一个详细教程介绍本脚本语法和使用方法
 
 [Category:元数据](https://zh.wikipedia.org/wiki/Category:元数据 "wikilink")
 
 [Category:文件格式](https://zh.wikipedia.org/wiki/Category:文件格式 "wikilink")
 
 1.
-2.  [How to Burn an Audio CD With a Cue
-    Sheet](http://www.ehow.com/how_6830013_burn-audio-cd-cue-sheet.html)
+2.  [How to Burn an Audio CD With a Cue Sheet](http://www.ehow.com/how_6830013_burn-audio-cd-cue-sheet.html)
 
 3.
 4.

@@ -12,21 +12,17 @@ AMX-30承接战后法国两型中型坦克以及[ARL-44的设计](../Page/ARL_44
 
 ## 開發背景
 
-尽管[二战初期](https://zh.wikipedia.org/wiki/二战 "wikilink")，[法國被納粹德國佔領](https://zh.wikipedia.org/wiki/纳粹德国占领法国 "wikilink")，迫使法国[装甲战斗车辆的发展暂时中止](https://zh.wikipedia.org/wiki/装甲战斗车辆 "wikilink")，但战时的秘密研究机构仍然使法国坦克发展事业在1944年解放后迅速恢复\[1\]。在[纳粹德国占领期间法国秘密研究的坦克项目在](https://zh.wikipedia.org/wiki/纳粹德国 "wikilink")1944年由国营吕埃锻造厂（）接手，最终在1946年生产出[ARL-44](../Page/ARL_44重型坦克.md "wikilink")\[2\]。该坦克由[迈巴赫HL](https://zh.wikipedia.org/wiki/迈巴赫 "wikilink")-230
---引擎驱动，配备90毫米坦克炮\[3\]。虽然这辆48吨重的坦克火力和发动机功率可与当代主战坦克相媲美，它却有着明显的缺点，包括过时的履带设计\[4\]。1950年只生产了计划600辆中的60辆。这些坦克当年被交付给法国陆军第501坦克团\[5\]。ARL-44被认为是法国陆军装甲部队成立之初的过渡型号，早在1945年3月法国就开始了新坦克的研发工作\[6\]。
+尽管[二战初期](https://zh.wikipedia.org/wiki/二战 "wikilink")，[法國被納粹德國佔領](https://zh.wikipedia.org/wiki/纳粹德国占领法国 "wikilink")，迫使法国[装甲战斗车辆的发展暂时中止](https://zh.wikipedia.org/wiki/装甲战斗车辆 "wikilink")，但战时的秘密研究机构仍然使法国坦克发展事业在1944年解放后迅速恢复\[1\]。在[纳粹德国占领期间法国秘密研究的坦克项目在](https://zh.wikipedia.org/wiki/纳粹德国 "wikilink")1944年由国营吕埃锻造厂（）接手，最终在1946年生产出[ARL-44](../Page/ARL_44重型坦克.md "wikilink")\[2\]。该坦克由[迈巴赫HL](https://zh.wikipedia.org/wiki/迈巴赫 "wikilink")-230 --引擎驱动，配备90毫米坦克炮\[3\]。虽然这辆48吨重的坦克火力和发动机功率可与当代主战坦克相媲美，它却有着明显的缺点，包括过时的履带设计\[4\]。1950年只生产了计划600辆中的60辆。这些坦克当年被交付给法国陆军第501坦克团\[5\]。ARL-44被认为是法国陆军装甲部队成立之初的过渡型号，早在1945年3月法国就开始了新坦克的研发工作\[6\]。
 
-[AMX-50.jpg](https://zh.wikipedia.org/wiki/File:AMX-50.jpg "fig:AMX-50.jpg")坦克博物馆的[AMX-50重型坦克](../Page/AMX-50重型坦克.md "wikilink")\]\]
-新坦克的研发工作被提供给五个独立的工厂，分别为伊西莱姆利罗公司（）、地中海冶金和造船厂（）、洛林-迪特里希制造厂（）和机械加工与火炮制造公司（）\[7\]。新坦克是基于战后新的坦克要求设计的\[8\]。最终该型号被指定为[AMX-50](https://zh.wikipedia.org/wiki/AMX-50 "wikilink")，其车身和悬挂和战后法国使用的原[纳粹德国](https://zh.wikipedia.org/wiki/纳粹德国 "wikilink")[豹式坦克相似](https://zh.wikipedia.org/wiki/豹式坦克 "wikilink")\[9\]。法国政府的为新坦克设定的规格受到豹式坦克和[虎式坦克的影响](https://zh.wikipedia.org/wiki/虎I坦克 "wikilink")；特别是法国陆军一直在寻找一个与兼具前者的防护和后者的火力的坦克\[10\]。虽然设计是借鉴德国坦克，包括早期型号使用的迈巴赫引擎，以及，但AMX-50仍有一些特征\[11\]。例如，它是第一型使用安装在耳轴上的[摇摆式炮塔的坦克](https://zh.wikipedia.org/wiki/摇摆式炮塔 "wikilink")。摇摆式炮塔分为两部分，其中一部分安装在下部的耳轴上，与炮塔座圈相连。主炮被安装在上部，以加大火炮的俯仰角同时简化火控设备并加装自动装填系统\[12\]。三个承包商中，雷诺中途退出了研发，法国政府在1946年初选择伊西莱姆利罗（AMX）和索玛（SOMUA）继续研发\[13\]。原型车被命名为M4，伊西莱姆利罗在1949年完成他的原型车，而索玛直到1956年也没有完成\[14\]。伊西莱姆利罗的第一个原型车配备有90毫米主炮，而1950年7月的第二辆原型车则装备了更大口径的100毫米坦克炮\[15\]。虽然原计划是把AMX-50项目作为[西欧联盟的标准中型坦克投入生产](https://zh.wikipedia.org/wiki/西欧联盟 "wikilink")\[16\]，但由于财政原因和[美国](../Page/美国.md "wikilink")援助的856辆M47巴顿坦克\[17\]的到来使得该计划被废止\[18\]\[19\]。1951年该型坦克被升级为使用更大口径的120毫米主炮的[重型坦克项目](https://zh.wikipedia.org/wiki/重型坦克 "wikilink")，尽管生产了3辆原型车，该计划在1956年也被终止，主要原因是无法设计出一款足够强力的引擎\[20\]。
+[AMX-50.jpg](https://zh.wikipedia.org/wiki/File:AMX-50.jpg "fig:AMX-50.jpg")坦克博物馆的[AMX-50重型坦克](../Page/AMX-50重型坦克.md "wikilink")\]\] 新坦克的研发工作被提供给五个独立的工厂，分别为伊西莱姆利罗公司（）、地中海冶金和造船厂（）、洛林-迪特里希制造厂（）和机械加工与火炮制造公司（）\[7\]。新坦克是基于战后新的坦克要求设计的\[8\]。最终该型号被指定为[AMX-50](https://zh.wikipedia.org/wiki/AMX-50 "wikilink")，其车身和悬挂和战后法国使用的原[纳粹德国](https://zh.wikipedia.org/wiki/纳粹德国 "wikilink")[豹式坦克相似](https://zh.wikipedia.org/wiki/豹式坦克 "wikilink")\[9\]。法国政府的为新坦克设定的规格受到豹式坦克和[虎式坦克的影响](https://zh.wikipedia.org/wiki/虎I坦克 "wikilink")；特别是法国陆军一直在寻找一个与兼具前者的防护和后者的火力的坦克\[10\]。虽然设计是借鉴德国坦克，包括早期型号使用的迈巴赫引擎，以及，但AMX-50仍有一些特征\[11\]。例如，它是第一型使用安装在耳轴上的[摇摆式炮塔的坦克](https://zh.wikipedia.org/wiki/摇摆式炮塔 "wikilink")。摇摆式炮塔分为两部分，其中一部分安装在下部的耳轴上，与炮塔座圈相连。主炮被安装在上部，以加大火炮的俯仰角同时简化火控设备并加装自动装填系统\[12\]。三个承包商中，雷诺中途退出了研发，法国政府在1946年初选择伊西莱姆利罗（AMX）和索玛（SOMUA）继续研发\[13\]。原型车被命名为M4，伊西莱姆利罗在1949年完成他的原型车，而索玛直到1956年也没有完成\[14\]。伊西莱姆利罗的第一个原型车配备有90毫米主炮，而1950年7月的第二辆原型车则装备了更大口径的100毫米坦克炮\[15\]。虽然原计划是把AMX-50项目作为[西欧联盟的标准中型坦克投入生产](https://zh.wikipedia.org/wiki/西欧联盟 "wikilink")\[16\]，但由于财政原因和[美国](../Page/美国.md "wikilink")援助的856辆M47巴顿坦克\[17\]的到来使得该计划被废止\[18\]\[19\]。1951年该型坦克被升级为使用更大口径的120毫米主炮的[重型坦克项目](https://zh.wikipedia.org/wiki/重型坦克 "wikilink")，尽管生产了3辆原型车，该计划在1956年也被终止，主要原因是无法设计出一款足够强力的引擎\[20\]。
 
-[CB2.jpg](https://zh.wikipedia.org/wiki/File:CB2.jpg "fig:CB2.jpg")\]\]
-随着100毫米AMX-50计划在1951年的失败，法国官方暂时中止了生产中型坦克的想法\[21\]。此时西德被允许重整军备，而德国人对用廉价轻型但相对强大的坦克武装他们的军队很感兴趣，他们想用数量弥补同价最新型中型坦克的火力\[22\]。为西德提供数千辆这种坦克的前景诱导法国采用这种想法来设计“67式”轻型坦克，也就是经过特别设计的[AMX-13/105](../Page/AMX-13轻型坦克.md "wikilink")\[23\]。同一时期一家私人企业设计的坦克是比AMX-13略大的[巴蒂尼奥勒-查狄伦25噸坦克](https://zh.wikipedia.org/wiki/查狄倫25噸 "wikilink")。1955年制造的查狄伦坦克后期原型车，证明了生产一型使用优良主炮、正面装甲等效厚度为80毫米均质钢、重30吨的坦克是可行的，這一事實使得法國人重新開始考慮中型坦克的研發與生產事宜\[24\]。
+[CB2.jpg](https://zh.wikipedia.org/wiki/File:CB2.jpg "fig:CB2.jpg")\]\] 随着100毫米AMX-50计划在1951年的失败，法国官方暂时中止了生产中型坦克的想法\[21\]。此时西德被允许重整军备，而德国人对用廉价轻型但相对强大的坦克武装他们的军队很感兴趣，他们想用数量弥补同价最新型中型坦克的火力\[22\]。为西德提供数千辆这种坦克的前景诱导法国采用这种想法来设计“67式”轻型坦克，也就是经过特别设计的[AMX-13/105](../Page/AMX-13轻型坦克.md "wikilink")\[23\]。同一时期一家私人企业设计的坦克是比AMX-13略大的[巴蒂尼奥勒-查狄伦25噸坦克](https://zh.wikipedia.org/wiki/查狄倫25噸 "wikilink")。1955年制造的查狄伦坦克后期原型车，证明了生产一型使用优良主炮、正面装甲等效厚度为80毫米均质钢、重30吨的坦克是可行的，這一事實使得法國人重新開始考慮中型坦克的研發與生產事宜\[24\]。
 
 ## 開發歷程
 
 ### 法德合作
 
-成立于1953年，由數個[西歐國家总参谋部代表组成的西欧联盟防务工作共同体](https://zh.wikipedia.org/wiki/西歐 "wikilink")：FINBEL（以[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、[意大利](../Page/意大利.md "wikilink")、[荷兰](../Page/荷兰.md "wikilink")、[比利时](../Page/比利时.md "wikilink")和[卢森堡](../Page/卢森堡.md "wikilink")的首字母命名）\[25\]，在1956年起草了一套新的中型坦克规范，目的是要取代美国和英国在戰後提供的坦克。同年，西德加入该共同体，使其名称变为（“A”为，德国），1956年10月27日在[贝沙尔](../Page/贝沙尔.md "wikilink")法德两国达成一项合作生产坦克的双边协议\[26\]。尽管其他FINABEL国家没有正式参与\[27\]，但这型坦克被命名为“欧罗巴战车”（）以表明其欧洲共同性质，两国专家均参与了设计过程\[28\]。新坦克的技术规格（FINABEL
-3A5）\[29\]被称为轻量级高机动战斗坦克，重量被限制在30吨，装甲厚度没有要求\[30\]\[31\]。1957年2月12日在[波恩](../Page/波恩.md "wikilink")举行的会议上，法国和的西德工程师确定了未来坦克的需求。会议最终确定，最长宽度3.15米，最高高度2.15米，配备有105毫米坦克炮，由位于[圣路易的法德军事研究所研发](https://zh.wikipedia.org/wiki/圣路易_\(上莱茵省\) "wikilink")\[32\]。新坦克将采用风冷汽油发动机，扭杆悬挂装置和液压减震器，单位功率质量不少于/吨并且最大公路行程不少于350千米。五月，意大利加入计划，由于戰後的意大利未打算開發新坦克，所以只是名义上的加入，并没有做出任何重大的贡献\[33\]。同年11月28日\[34\]，法德两国国防部在[巴黎](../Page/巴黎.md "wikilink")决定由两个国家分别研制两辆原型车\[35\]。第二年[夏尔·戴高乐掌权并建立](https://zh.wikipedia.org/wiki/夏尔·戴高乐 "wikilink")[法兰西第五共和国](https://zh.wikipedia.org/wiki/法兰西第五共和国 "wikilink")，并以巴黎条约为要点发展[核武器](../Page/核武器.md "wikilink")，1958年6月7日戴高乐决定拒绝西德和意大利参与研发原子弹，以回避与美国和英国的对抗。这使得西德对常规坦克项目失去不少兴趣\[36\]，该项目遭受到第一次挫折。
+成立于1953年，由數個[西歐國家总参谋部代表组成的西欧联盟防务工作共同体](https://zh.wikipedia.org/wiki/西歐 "wikilink")：FINBEL（以[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、[意大利](../Page/意大利.md "wikilink")、[荷兰](../Page/荷兰.md "wikilink")、[比利时](../Page/比利时.md "wikilink")和[卢森堡](../Page/卢森堡.md "wikilink")的首字母命名）\[25\]，在1956年起草了一套新的中型坦克规范，目的是要取代美国和英国在戰後提供的坦克。同年，西德加入该共同体，使其名称变为（“A”为，德国），1956年10月27日在[贝沙尔](../Page/贝沙尔.md "wikilink")法德两国达成一项合作生产坦克的双边协议\[26\]。尽管其他FINABEL国家没有正式参与\[27\]，但这型坦克被命名为“欧罗巴战车”（）以表明其欧洲共同性质，两国专家均参与了设计过程\[28\]。新坦克的技术规格（FINABEL 3A5）\[29\]被称为轻量级高机动战斗坦克，重量被限制在30吨，装甲厚度没有要求\[30\]\[31\]。1957年2月12日在[波恩](../Page/波恩.md "wikilink")举行的会议上，法国和的西德工程师确定了未来坦克的需求。会议最终确定，最长宽度3.15米，最高高度2.15米，配备有105毫米坦克炮，由位于[圣路易的法德军事研究所研发](https://zh.wikipedia.org/wiki/圣路易_\(上莱茵省\) "wikilink")\[32\]。新坦克将采用风冷汽油发动机，扭杆悬挂装置和液压减震器，单位功率质量不少于/吨并且最大公路行程不少于350千米。五月，意大利加入计划，由于戰後的意大利未打算開發新坦克，所以只是名义上的加入，并没有做出任何重大的贡献\[33\]。同年11月28日\[34\]，法德两国国防部在[巴黎](../Page/巴黎.md "wikilink")决定由两个国家分别研制两辆原型车\[35\]。第二年[夏尔·戴高乐掌权并建立](https://zh.wikipedia.org/wiki/夏尔·戴高乐 "wikilink")[法兰西第五共和国](https://zh.wikipedia.org/wiki/法兰西第五共和国 "wikilink")，并以巴黎条约为要点发展[核武器](../Page/核武器.md "wikilink")，1958年6月7日戴高乐决定拒绝西德和意大利参与研发原子弹，以回避与美国和英国的对抗。这使得西德对常规坦克项目失去不少兴趣\[36\]，该项目遭受到第一次挫折。
 
 ### 開發原型車
 
@@ -40,8 +36,7 @@ AMX-30承接战后法国两型中型坦克以及[ARL-44的设计](../Page/ARL_44
 
 ## 基本設計
 
-[Amx30_065_bayard.jpg](https://zh.wikipedia.org/wiki/File:Amx30_065_bayard.jpg "fig:Amx30_065_bayard.jpg")
-AMX-30原型车重32.5吨，车身布置十分紧凑，车宽3.1米，和[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[Pz61主战坦克相近](https://zh.wikipedia.org/wiki/Pz61主战坦克 "wikilink")，车高2.28米，和[苏联](../Page/苏联.md "wikilink")[T-55相近](https://zh.wikipedia.org/wiki/T-54/55系列主战坦克 "wikilink")。相比于AMX-50，AMX-30采用了传统炮塔，因为摇摆式炮塔很难密封，这意味着它无法做到防水和防核辐射\[58\]。摇摆式炮塔同样在外衬和炮塔座圈之间拥有一个巨大的装甲弱点\[59\]。最早的两辆原型车使用一台火花点火发动机，名为索伐姆12型发动机。之后的型号采用了研发的多燃油柴油发动机。七辆原型车之后都更换了柴油发动机\[60\]。1965年11月，两辆预生产型车下线。除了柴油发动机，它们改进了车体和炮塔铸件以及；后者在生产型中再次被改变\[61\]。
+[Amx30_065_bayard.jpg](https://zh.wikipedia.org/wiki/File:Amx30_065_bayard.jpg "fig:Amx30_065_bayard.jpg") AMX-30原型车重32.5吨，车身布置十分紧凑，车宽3.1米，和[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[Pz61主战坦克相近](https://zh.wikipedia.org/wiki/Pz61主战坦克 "wikilink")，车高2.28米，和[苏联](../Page/苏联.md "wikilink")[T-55相近](https://zh.wikipedia.org/wiki/T-54/55系列主战坦克 "wikilink")。相比于AMX-50，AMX-30采用了传统炮塔，因为摇摆式炮塔很难密封，这意味着它无法做到防水和防核辐射\[58\]。摇摆式炮塔同样在外衬和炮塔座圈之间拥有一个巨大的装甲弱点\[59\]。最早的两辆原型车使用一台火花点火发动机，名为索伐姆12型发动机。之后的型号采用了研发的多燃油柴油发动机。七辆原型车之后都更换了柴油发动机\[60\]。1965年11月，两辆预生产型车下线。除了柴油发动机，它们改进了车体和炮塔铸件以及；后者在生产型中再次被改变\[61\]。
 
 ### 裝甲防護
 
@@ -57,14 +52,9 @@ AMX-30生产型使用希斯巴诺-苏莎HS-110柴油发动机，發動機組件�
 
 ## 性能提升
 
-[AMX-30_2_Bovington.jpg](https://zh.wikipedia.org/wiki/File:AMX-30_2_Bovington.jpg "fig:AMX-30_2_Bovington.jpg")
-[French_AMX-30_Desert_Storm.jpg](https://zh.wikipedia.org/wiki/File:French_AMX-30_Desert_Storm.jpg "fig:French_AMX-30_Desert_Storm.jpg")中部署在[沙特阿拉伯](../Page/沙特阿拉伯.md "wikilink")的法国陆军AMX-30B2\]\]
-[AMX-30.JPG](https://zh.wikipedia.org/wiki/File:AMX-30.JPG "fig:AMX-30.JPG")的AMX-30\]\]
-[AMX30B2Brennus.jpg](https://zh.wikipedia.org/wiki/File:AMX30B2Brennus.jpg "fig:AMX30B2Brennus.jpg")\]\]
-在生产过程中，AMX-30进行了很多改进，包括在1971年安装的火炮稳定器，1972年将同轴重机枪更换为20毫米口徑的[机炮](https://zh.wikipedia.org/wiki/机炮 "wikilink")\[90\]，其俯仰角为-8°\~40°，使其能够射击低飞的直升机和飞机\[91\]，相較於同時期的坦克都使用7.62毫米口徑機槍作為同軸武器，配備機炮的AMX-30明顯具有強大的近程火力。所有法国陆军所属AMX-30均以此标准进行了升级；型号仍保留AMX-30B\[92\]。
+[AMX-30_2_Bovington.jpg](https://zh.wikipedia.org/wiki/File:AMX-30_2_Bovington.jpg "fig:AMX-30_2_Bovington.jpg") [French_AMX-30_Desert_Storm.jpg](https://zh.wikipedia.org/wiki/File:French_AMX-30_Desert_Storm.jpg "fig:French_AMX-30_Desert_Storm.jpg")中部署在[沙特阿拉伯](../Page/沙特阿拉伯.md "wikilink")的法国陆军AMX-30B2\]\] [AMX-30.JPG](https://zh.wikipedia.org/wiki/File:AMX-30.JPG "fig:AMX-30.JPG")的AMX-30\]\] [AMX30B2Brennus.jpg](https://zh.wikipedia.org/wiki/File:AMX30B2Brennus.jpg "fig:AMX30B2Brennus.jpg")\]\] 在生产过程中，AMX-30进行了很多改进，包括在1971年安装的火炮稳定器，1972年将同轴重机枪更换为20毫米口徑的[机炮](https://zh.wikipedia.org/wiki/机炮 "wikilink")\[90\]，其俯仰角为-8°\~40°，使其能够射击低飞的直升机和飞机\[91\]，相較於同時期的坦克都使用7.62毫米口徑機槍作為同軸武器，配備機炮的AMX-30明顯具有強大的近程火力。所有法国陆军所属AMX-30均以此标准进行了升级；型号仍保留AMX-30B\[92\]。
 
-早在1973年，雖然AMX-30的量產只開始仅仅七年，法国人便开始研究这型坦克的改良方案\[93\]。这一项目最终成为AMX-30升级（）计划\[94\]。1979年6月，法国陆军决定继续生产并改造现有的AMX-30，使其配备改良型火控系统以及新的传动装置，该型号被命名为AMX-30B2\[95\]，第一辆改良型号坦克于1982年1月服役\[96\]。改进计划包括对M-508柯达克（COTAC）火控系统的改进：安装[激光测距仪](../Page/激光测距仪.md "wikilink")以及微光电视监视器（LLTV）\[97\]。火力方面则引入新型尾翼稳定脱壳穿甲弹（APFSDS）增強打擊坦克所需的穿甲能力。发动机也进行了改进，命名为HS-110.2，功率。失败的传动装置更换为新式的液力变矩器的ENC-200半自动传动装置。悬挂装置通过使用新型扭杆和加大了承重轮垂直偏转的减震器来改进\[98\]，从而提高了坦克的越野机动能力\[99\]。1998年开始，法国陆军开始将其剩余的AMX-30坦克和衍生型号的引擎更换为雷诺E9
-750马力柴油发动机\[100\]。
+早在1973年，雖然AMX-30的量產只開始仅仅七年，法国人便开始研究这型坦克的改良方案\[93\]。这一项目最终成为AMX-30升级（）计划\[94\]。1979年6月，法国陆军决定继续生产并改造现有的AMX-30，使其配备改良型火控系统以及新的传动装置，该型号被命名为AMX-30B2\[95\]，第一辆改良型号坦克于1982年1月服役\[96\]。改进计划包括对M-508柯达克（COTAC）火控系统的改进：安装[激光测距仪](../Page/激光测距仪.md "wikilink")以及微光电视监视器（LLTV）\[97\]。火力方面则引入新型尾翼稳定脱壳穿甲弹（APFSDS）增強打擊坦克所需的穿甲能力。发动机也进行了改进，命名为HS-110.2，功率。失败的传动装置更换为新式的液力变矩器的ENC-200半自动传动装置。悬挂装置通过使用新型扭杆和加大了承重轮垂直偏转的减震器来改进\[98\]，从而提高了坦克的越野机动能力\[99\]。1998年开始，法国陆军开始将其剩余的AMX-30坦克和衍生型号的引擎更换为雷诺E9 750马力柴油发动机\[100\]。
 
 90年代，法国为AMX-30B2开发了一套外掛式[反应装甲](../Page/反应装甲.md "wikilink")，命名为[布伦努斯](https://zh.wikipedia.org/wiki/布伦努斯 "wikilink")\[101\]，但是只装备了两个坦克团，法国快速反应部队第一/二团（），这两个团在平时为一个团\[102\]\[103\]；另两个使用AMX-30坦克的团，第二/五龙骑兵团（）\[104\]，仅为应对紧急状况对坦克进行了简单升级\[105\]。布伦努斯系统由112块法国地面武器工业BS（）G2爆炸式反應裝甲組成\[106\]，总重1.7公噸，對成型裝藥彈頭攻擊的防護力約相當於400毫米均质钢\[107\]。
 
@@ -170,13 +160,11 @@ AMX-30在[罗阿讷](../Page/罗阿讷.md "wikilink")工厂（）生产。这間
 
 ## 衍生型号
 
-[AMX30ACRA.jpg](https://zh.wikipedia.org/wiki/File:AMX30ACRA.jpg "fig:AMX30ACRA.jpg")
-AMX-30拥有多种衍生型号。一种用于出口的简化版，没有红外探照灯、望远镜和一个不太复杂的指挥塔，被叫做“基本版AMX-30”。这个型号也没有加压空气过滤系统，并将7.62毫米机枪作为同轴机枪而将12.7毫米机枪放在炮塔顶端。另一种型号是为法国陆军设计的，采用142毫米坦克炮发射[反坦克导弹](../Page/反坦克导弹.md "wikilink")和高爆弹的自行反坦克炮（）\[140\]。1967年使用新铸造炮塔的原型车下线，这种新炮塔足够容纳更大的主炮\[141\]。然而，导弹高昂的价格迫使法国陆军在1972年放弃此项目\[142\]。基于相同底盘的车辆还有[装甲回收车](https://zh.wikipedia.org/wiki/装甲回收车 "wikilink")、架桥车、[自行高炮](https://zh.wikipedia.org/wiki/自行高射炮 "wikilink")、发射车和自行榴弹炮等等\[143\]。
+[AMX30ACRA.jpg](https://zh.wikipedia.org/wiki/File:AMX30ACRA.jpg "fig:AMX30ACRA.jpg") AMX-30拥有多种衍生型号。一种用于出口的简化版，没有红外探照灯、望远镜和一个不太复杂的指挥塔，被叫做“基本版AMX-30”。这个型号也没有加压空气过滤系统，并将7.62毫米机枪作为同轴机枪而将12.7毫米机枪放在炮塔顶端。另一种型号是为法国陆军设计的，采用142毫米坦克炮发射[反坦克导弹](../Page/反坦克导弹.md "wikilink")和高爆弹的自行反坦克炮（）\[140\]。1967年使用新铸造炮塔的原型车下线，这种新炮塔足够容纳更大的主炮\[141\]。然而，导弹高昂的价格迫使法国陆军在1972年放弃此项目\[142\]。基于相同底盘的车辆还有[装甲回收车](https://zh.wikipedia.org/wiki/装甲回收车 "wikilink")、架桥车、[自行高炮](https://zh.wikipedia.org/wiki/自行高射炮 "wikilink")、发射车和自行榴弹炮等等\[143\]。
 
 ### 裝甲回收車
 
-[AMX-30D-cote-droit.jpg](https://zh.wikipedia.org/wiki/File:AMX-30D-cote-droit.jpg "fig:AMX-30D-cote-droit.jpg")右侧。\]\]
-AMX-30D装甲回收车用于在战场上恢复或维护坦克。该车的研发工作从1966年开始，当时法国陆军决定研发一款和AMX-30坦克配套的维修车辆。1971年第一辆原型车投入实验，1973年2月第一批5辆预生产型下线。同年，法国陆军预定了100辆AMX-30D，这些车辆于1975年开始生产\[144\]。装甲抢救车包括一套引擎驱动的主绞盘，最大拉力为343千牛，以及一卷80米长的重型拖缆。其拥有的辅助绞盘使用120米长拖缆，在AMX-30D正面工作时最大拉力为34.3千牛。在后者的情况下，车辆必须由其本身携带的可动支架支撑，且推土铲必须降至地面。起重机可以吊起3.29吨的动力单元和10吨的炮塔。AMX-30D没有炮塔，取而代之的是其上半部分。整车重36吨，在使用额外动力单元时可达40吨。该车可抵抗7.62毫米子弹的射击\[145\]。驾驶员视野由M-223投影器辅助支持。AMX-30D公路最大速度为60千米/小时，最大公路行程为500千米\[146\]。
+[AMX-30D-cote-droit.jpg](https://zh.wikipedia.org/wiki/File:AMX-30D-cote-droit.jpg "fig:AMX-30D-cote-droit.jpg")右侧。\]\] AMX-30D装甲回收车用于在战场上恢复或维护坦克。该车的研发工作从1966年开始，当时法国陆军决定研发一款和AMX-30坦克配套的维修车辆。1971年第一辆原型车投入实验，1973年2月第一批5辆预生产型下线。同年，法国陆军预定了100辆AMX-30D，这些车辆于1975年开始生产\[144\]。装甲抢救车包括一套引擎驱动的主绞盘，最大拉力为343千牛，以及一卷80米长的重型拖缆。其拥有的辅助绞盘使用120米长拖缆，在AMX-30D正面工作时最大拉力为34.3千牛。在后者的情况下，车辆必须由其本身携带的可动支架支撑，且推土铲必须降至地面。起重机可以吊起3.29吨的动力单元和10吨的炮塔。AMX-30D没有炮塔，取而代之的是其上半部分。整车重36吨，在使用额外动力单元时可达40吨。该车可抵抗7.62毫米子弹的射击\[145\]。驾驶员视野由M-223投影器辅助支持。AMX-30D公路最大速度为60千米/小时，最大公路行程为500千米\[146\]。
 
 ### 架橋車
 
@@ -188,19 +176,15 @@ AMX-30架桥车使用AMX-30的底盘，而上部为剪式折叠桥。桥长22米
 
 ### 自走榴彈炮
 
-[AuF1_of_Saudi_Arabia.JPEG](https://zh.wikipedia.org/wiki/File:AuF1_of_Saudi_Arabia.JPEG "fig:AuF1_of_Saudi_Arabia.JPEG")陆军GCT自行榴弹炮\]\]
-（）为基于AMX-30底盘发展的旨在为法国陆军提供战术火炮支援的型号，法军型号AMX-30
-AuF1。40[倍口径](https://zh.wikipedia.org/wiki/倍径 "wikilink")155毫米榴弹炮的自动装填机使其射速大大提高，达到每分钟8发的速度，在装填LU211炮弹时最大射程可达30千米。炮塔允许火炮最大仰角为66°，并可360度旋转。该车携带52发榴弹及燃烧弹\[151\]。设计一款自行榴弹炮的想法最早源于1969年，1972年完成第一辆原型车。至1979年已完成7辆原型车及6辆预生产型，随后生产了110辆。最终订购数为190辆\[152\]。
+[AuF1_of_Saudi_Arabia.JPEG](https://zh.wikipedia.org/wiki/File:AuF1_of_Saudi_Arabia.JPEG "fig:AuF1_of_Saudi_Arabia.JPEG")陆军GCT自行榴弹炮\]\] （）为基于AMX-30底盘发展的旨在为法国陆军提供战术火炮支援的型号，法军型号AMX-30 AuF1。40[倍口径](https://zh.wikipedia.org/wiki/倍径 "wikilink")155毫米榴弹炮的自动装填机使其射速大大提高，达到每分钟8发的速度，在装填LU211炮弹时最大射程可达30千米。炮塔允许火炮最大仰角为66°，并可360度旋转。该车携带52发榴弹及燃烧弹\[151\]。设计一款自行榴弹炮的想法最早源于1969年，1972年完成第一辆原型车。至1979年已完成7辆原型车及6辆预生产型，随后生产了110辆。最终订购数为190辆\[152\]。
 
 ### 冥王星地對地導彈發射車
 
-[Pluton_034.jpg](https://zh.wikipedia.org/wiki/File:Pluton_034.jpg "fig:Pluton_034.jpg")
-考虑到战术核导弹机动发射平台的需求，法国陆军在1963年开始研制冥王星导弹。1964年，项目被暂停，法国陆军转而寻求一个射程更远，能够安装在AMX-30上的导弹。1968年签订了一份开发系统的合同。第一辆原型车很快交付，并在1970年7月和8月之间开始测试，紧接着，1971年第二辆原型车也完成，1972年又生产了两辆原型车。1971年5月1日该型车投入大规模量产，并交付第三炮兵团4辆\[153\]。导弹重2.4吨，长7.6米，使用简易惯性制导系统和固体燃料火箭推进。冥王星最大射程为120千米\[154\]。冷戰結束後，冥王星導彈已於1993年除役。
+[Pluton_034.jpg](https://zh.wikipedia.org/wiki/File:Pluton_034.jpg "fig:Pluton_034.jpg") 考虑到战术核导弹机动发射平台的需求，法国陆军在1963年开始研制冥王星导弹。1964年，项目被暂停，法国陆军转而寻求一个射程更远，能够安装在AMX-30上的导弹。1968年签订了一份开发系统的合同。第一辆原型车很快交付，并在1970年7月和8月之间开始测试，紧接着，1971年第二辆原型车也完成，1972年又生产了两辆原型车。1971年5月1日该型车投入大规模量产，并交付第三炮兵团4辆\[153\]。导弹重2.4吨，长7.6米，使用简易惯性制导系统和固体燃料火箭推进。冥王星最大射程为120千米\[154\]。冷戰結束後，冥王星導彈已於1993年除役。
 
 ### 羅蘭防空導彈發射車
 
-[AMX-30_Roland_img_2306.jpg](https://zh.wikipedia.org/wiki/File:AMX-30_Roland_img_2306.jpg "fig:AMX-30_Roland_img_2306.jpg")
-AMX-30R发射系统，其研发始于1974年。1977年5辆预生产型完成并用于评估，同年提交了183辆的订单\[155\]。罗兰德包括一个方形上部结构，比AMX-30D和冥王星都要高，这种结构包含了雷达系统和两具发射筒以及一个自动装填系统。罗兰德雷达探测距离为16千米。
+[AMX-30_Roland_img_2306.jpg](https://zh.wikipedia.org/wiki/File:AMX-30_Roland_img_2306.jpg "fig:AMX-30_Roland_img_2306.jpg") AMX-30R发射系统，其研发始于1974年。1977年5辆预生产型完成并用于评估，同年提交了183辆的订单\[155\]。罗兰德包括一个方形上部结构，比AMX-30D和冥王星都要高，这种结构包含了雷达系统和两具发射筒以及一个自动装填系统。罗兰德雷达探测距离为16千米。
 
 ### 響尾蛇防空導彈發射車
 
@@ -208,15 +192,11 @@ AMX-30SA，1975年为沙特阿拉伯开发，用以发射響尾蛇防空导弹�
 
 ### AMX-32
 
-[AMX32.jpg](https://zh.wikipedia.org/wiki/File:AMX32.jpg "fig:AMX32.jpg")
-[AMX-32_mg_7756.jpg](https://zh.wikipedia.org/wiki/File:AMX-32_mg_7756.jpg "fig:AMX-32_mg_7756.jpg")
-由AMX-30改良供外銷的AMX-32，在1979年6月推出首輛原型車。最初是作為AMX-30B2的改良選項，針對AMX-30薄弱的裝甲防護，此改良型參考了西德豹1A3和A4採用方案，利用間隙裝甲加強炮塔的防護力\[157\]，使AMX-32遭受高爆反坦克彈頭攻擊時，其生存機會比只有傳統鑄造炮塔的AMX-30為高。该型号同时配备了同轴20毫米机炮以及7.62毫米高射机枪。然而此時像美國M1和西德豹二等新一代先進坦克已開始量產，配備125毫米口徑炮的蘇聯T-72也開始大量外銷，價格較AMX-30昂貴的AMX-32已相形落後，所以沒有國家採購此款AMX-30的改良版坦克\[158\]。
+[AMX32.jpg](https://zh.wikipedia.org/wiki/File:AMX32.jpg "fig:AMX32.jpg") [AMX-32_mg_7756.jpg](https://zh.wikipedia.org/wiki/File:AMX-32_mg_7756.jpg "fig:AMX-32_mg_7756.jpg") 由AMX-30改良供外銷的AMX-32，在1979年6月推出首輛原型車。最初是作為AMX-30B2的改良選項，針對AMX-30薄弱的裝甲防護，此改良型參考了西德豹1A3和A4採用方案，利用間隙裝甲加強炮塔的防護力\[157\]，使AMX-32遭受高爆反坦克彈頭攻擊時，其生存機會比只有傳統鑄造炮塔的AMX-30為高。该型号同时配备了同轴20毫米机炮以及7.62毫米高射机枪。然而此時像美國M1和西德豹二等新一代先進坦克已開始量產，配備125毫米口徑炮的蘇聯T-72也開始大量外銷，價格較AMX-30昂貴的AMX-32已相形落後，所以沒有國家採購此款AMX-30的改良版坦克\[158\]。
 
 ## 出口狀況
 
-[AMX30_afar.jpg](https://zh.wikipedia.org/wiki/File:AMX30_afar.jpg "fig:AMX30_afar.jpg")
-[AMX30_bustle.jpg](https://zh.wikipedia.org/wiki/File:AMX30_bustle.jpg "fig:AMX30_bustle.jpg")
-雖然AMX-30和豹一型都為了有較佳的機動力，皆傾向壓低車重，但AMX-30為提升機動力而犧牲的防護力，被認為比豹一型走得更為極端，即使是最易被敵火擊中的炮塔正面，其裝甲都被質疑是過於薄弱，北約成員國對此型坦克的評價亦不高，没有获得FINABEL两个成员国的订单，比利时和荷兰，荷兰人甚至没有测试这一型号的坦克，比利时则因法国不允许其自行生产零件，导致整车价格上升，而最终选择了豹一型坦克\[159\]。
+[AMX30_afar.jpg](https://zh.wikipedia.org/wiki/File:AMX30_afar.jpg "fig:AMX30_afar.jpg") [AMX30_bustle.jpg](https://zh.wikipedia.org/wiki/File:AMX30_bustle.jpg "fig:AMX30_bustle.jpg") 雖然AMX-30和豹一型都為了有較佳的機動力，皆傾向壓低車重，但AMX-30為提升機動力而犧牲的防護力，被認為比豹一型走得更為極端，即使是最易被敵火擊中的炮塔正面，其裝甲都被質疑是過於薄弱，北約成員國對此型坦克的評價亦不高，没有获得FINABEL两个成员国的订单，比利时和荷兰，荷兰人甚至没有测试这一型号的坦克，比利时则因法国不允许其自行生产零件，导致整车价格上升，而最终选择了豹一型坦克\[159\]。
 
 AMX-30雖然在歐洲市場未受青睞，但在歐洲以外的市場，因為西德拒絕出口武器到戰火連連的中東地區，出口競敵豹一型無法威脅AMX-30的外銷，美國當時因為支持以色列所以限制對阿拉伯國家售武，蘇聯也將最新最好的武器留為己用，只將次等的武器外銷，所以法國便將渴望採購新型武器的中東國家作為出口對象並取得成功。AMX-30及其衍生型号的总产量为3,571辆\[160\]，法国自用的AMX-30在21世紀初下降至250辆AMX-30B2\[161\]，並最終由雷克勒坦克全面取代。
 
@@ -238,8 +218,7 @@ AMX-30雖然在歐洲市場未受青睞，但在歐洲以外的市場，因為�
 
 [阿拉伯联合酋长国](../Page/阿拉伯联合酋长国.md "wikilink")在1977年订购了64辆坦克以及1辆装甲回收车装备一个装甲旅。阿聯酋在1994年向法國購買388輛[雷克勒坦克取代AMX](https://zh.wikipedia.org/wiki/雷克勒坦克 "wikilink")-30。
 
-[伊拉克](../Page/伊拉克.md "wikilink")在[兩伊戰爭期間](https://zh.wikipedia.org/wiki/兩伊戰爭 "wikilink")，為拉攏法國協助研發核武，在1981年購入5輛AMX-30D，另於1983年至1985年間引入82輛AMX
-AuF1自走炮，但[波斯灣戰爭後已所剩無幾](https://zh.wikipedia.org/wiki/波斯灣戰爭 "wikilink")，在[伊拉克戰爭後已全部被毀及棄用](https://zh.wikipedia.org/wiki/伊拉克戰爭 "wikilink")。
+[伊拉克](../Page/伊拉克.md "wikilink")在[兩伊戰爭期間](https://zh.wikipedia.org/wiki/兩伊戰爭 "wikilink")，為拉攏法國協助研發核武，在1981年購入5輛AMX-30D，另於1983年至1985年間引入82輛AMX AuF1自走炮，但[波斯灣戰爭後已所剩無幾](https://zh.wikipedia.org/wiki/波斯灣戰爭 "wikilink")，在[伊拉克戰爭後已全部被毀及棄用](https://zh.wikipedia.org/wiki/伊拉克戰爭 "wikilink")。
 
 ### 南美洲
 
@@ -247,12 +226,9 @@ AuF1自走炮，但[波斯灣戰爭後已所剩無幾](https://zh.wikipedia.org/
 
 ## 战斗经历
 
-[Two_AMX-30_main_battle_tanks_in_1991.JPEG](https://zh.wikipedia.org/wiki/File:Two_AMX-30_main_battle_tanks_in_1991.JPEG "fig:Two_AMX-30_main_battle_tanks_in_1991.JPEG")
-卡塔尔的AMX-30参与了海湾战争中。1991年1月30日，他们在与趁夜占领该城的伊拉克军队进行了遭遇战。在战斗中，卡塔尔的AMX-30击毁3辆伊拉克T-55并俘虏了4辆\[183\]。自身也有至少1辆AMX-30在战斗中被击毁\[184\]。
+[Two_AMX-30_main_battle_tanks_in_1991.JPEG](https://zh.wikipedia.org/wiki/File:Two_AMX-30_main_battle_tanks_in_1991.JPEG "fig:Two_AMX-30_main_battle_tanks_in_1991.JPEG") 卡塔尔的AMX-30参与了海湾战争中。1991年1月30日，他们在与趁夜占领该城的伊拉克军队进行了遭遇战。在战斗中，卡塔尔的AMX-30击毁3辆伊拉克T-55并俘虏了4辆\[183\]。自身也有至少1辆AMX-30在战斗中被击毁\[184\]。
 
-[AMX_30_EBD_in_the_Musée_des_Blindés_pic4.JPG](https://zh.wikipedia.org/wiki/File:AMX_30_EBD_in_the_Musée_des_Blindés_pic4.JPG "fig:AMX_30_EBD_in_the_Musée_des_Blindés_pic4.JPG")
-法国也参与了海湾战争，第六轻装甲旅（）\[185\]被部署到伊拉克，代号“幼鹿行动”（）。其多数装甲车为骑兵侦察团的[AMX-10RC](https://zh.wikipedia.org/wiki/AMX-10RC "wikilink")，但是重装甲部队第四龙骑团（）也部署了44辆AMX-30B2\[186\]。理论上一个团拥有13辆坦克三个方阵，包括一辆指挥车和六辆后备车，而不是当时的52辆\[187\]。同时有6辆AMX-30B部署，装备德国从东德继承的苏联\[188\]。这些车辆均由非征召入伍的专业车组操控\[189\]。幼鹿分队位于联军西部，以保护美国[第18空降军](../Page/第18空降军.md "wikilink")的左翼。这种配置给了法国指挥官更大的自主权，同时也减少遭遇伊拉克T-72的可能性，T-72的性能比AMX-10RC和AMX-30B2都要好\[190\]。随着1991年12月24日地面进攻的开始，法国军队开始攻击它的第一个目标：伊拉克第45步兵旅分队防守的“罗尚波目标”。[小羚羊直升机发起突袭为第四龙骑团的进攻开辟通路](https://zh.wikipedia.org/wiki/小羚羊直升机 "wikilink")。在联军轰炸导致士气低落之后，伊拉克守军迅速投降\[191\]。接下来的几天，第四龙骑团前往他们下一个目标：“尚博尔”，在那里他们在美国空军[A-10的帮助下摧毁了](https://zh.wikipedia.org/wiki/A-10 "wikilink")10辆坦克，3辆步兵战车，15辆卡车和5门[迫击炮](../Page/迫击炮.md "wikilink")，并抓获不少犯人。最后的目标是阿尔-萨尔曼空军基地（“白色行动”），在第四龙骑团从南方发起进攻后于18：15被占领\[192\]。
-AMX-30总共发射了270发主炮炮弹\[193\]。
+[AMX_30_EBD_in_the_Musée_des_Blindés_pic4.JPG](https://zh.wikipedia.org/wiki/File:AMX_30_EBD_in_the_Musée_des_Blindés_pic4.JPG "fig:AMX_30_EBD_in_the_Musée_des_Blindés_pic4.JPG") 法国也参与了海湾战争，第六轻装甲旅（）\[185\]被部署到伊拉克，代号“幼鹿行动”（）。其多数装甲车为骑兵侦察团的[AMX-10RC](https://zh.wikipedia.org/wiki/AMX-10RC "wikilink")，但是重装甲部队第四龙骑团（）也部署了44辆AMX-30B2\[186\]。理论上一个团拥有13辆坦克三个方阵，包括一辆指挥车和六辆后备车，而不是当时的52辆\[187\]。同时有6辆AMX-30B部署，装备德国从东德继承的苏联\[188\]。这些车辆均由非征召入伍的专业车组操控\[189\]。幼鹿分队位于联军西部，以保护美国[第18空降军](../Page/第18空降军.md "wikilink")的左翼。这种配置给了法国指挥官更大的自主权，同时也减少遭遇伊拉克T-72的可能性，T-72的性能比AMX-10RC和AMX-30B2都要好\[190\]。随着1991年12月24日地面进攻的开始，法国军队开始攻击它的第一个目标：伊拉克第45步兵旅分队防守的“罗尚波目标”。[小羚羊直升机发起突袭为第四龙骑团的进攻开辟通路](https://zh.wikipedia.org/wiki/小羚羊直升机 "wikilink")。在联军轰炸导致士气低落之后，伊拉克守军迅速投降\[191\]。接下来的几天，第四龙骑团前往他们下一个目标：“尚博尔”，在那里他们在美国空军[A-10的帮助下摧毁了](https://zh.wikipedia.org/wiki/A-10 "wikilink")10辆坦克，3辆步兵战车，15辆卡车和5门[迫击炮](../Page/迫击炮.md "wikilink")，并抓获不少犯人。最后的目标是阿尔-萨尔曼空军基地（“白色行动”），在第四龙骑团从南方发起进攻后于18：15被占领\[192\]。 AMX-30总共发射了270发主炮炮弹\[193\]。
 
 ## 现役國家
 
@@ -328,14 +304,10 @@ AMX-30总共发射了270发主炮炮弹\[193\]。
   -
 ## 外部連結
 
-  - [MAQUETLAND
-    AMX-30页面](https://web.archive.org/web/20081118200202/http://maquetland.com/v2/index.php?page=vision&id=159&type=photos)
+  - [MAQUETLAND AMX-30页面](https://web.archive.org/web/20081118200202/http://maquetland.com/v2/index.php?page=vision&id=159&type=photos)
   - [法国地面武器工业集团AMX-30简介](https://web.archive.org/web/20121006012709/http://www.armyrecognition.com/forum/viewtopic.php?p=7129#7129)
 
-[Category:法國坦克](https://zh.wikipedia.org/wiki/Category:法國坦克 "wikilink")
-[Category:法国装甲战斗车辆](https://zh.wikipedia.org/wiki/Category:法国装甲战斗车辆 "wikilink")
-[Category:主战坦克](https://zh.wikipedia.org/wiki/Category:主战坦克 "wikilink")
-[Category:現代坦克](https://zh.wikipedia.org/wiki/Category:現代坦克 "wikilink")
+[Category:法國坦克](https://zh.wikipedia.org/wiki/Category:法國坦克 "wikilink") [Category:法国装甲战斗车辆](https://zh.wikipedia.org/wiki/Category:法国装甲战斗车辆 "wikilink") [Category:主战坦克](https://zh.wikipedia.org/wiki/Category:主战坦克 "wikilink") [Category:現代坦克](https://zh.wikipedia.org/wiki/Category:現代坦克 "wikilink")
 
 1.  Ogorkiewicz, p. 2
 
@@ -624,13 +596,9 @@ AMX-30总共发射了270发主炮炮弹\[193\]。
 
 170. de Mazarrasa (1990), pp. 83–84
 
-171.  [Defensa gastar a 916 millones en destruir 480 carros de
-     combate](http://www.elpais.com/articulo/espana/MINISTERIO_DE_DEFENSA/PODER_EJECUTIVO/_GOBIERNO_PSOE_/1989-1993/Defensa/gastar/916/millones/destruir/480/carros/combate/elpepiesp/19920127elpepinac_16/Tes),
-     El País, accessed 9 December 2008
+171.  [Defensa gastar a 916 millones en destruir 480 carros de combate](http://www.elpais.com/articulo/espana/MINISTERIO_DE_DEFENSA/PODER_EJECUTIVO/_GOBIERNO_PSOE_/1989-1993/Defensa/gastar/916/millones/destruir/480/carros/combate/elpepiesp/19920127elpepinac_16/Tes), El País, accessed 9 December 2008
 
-172.  [Defensa firma un contrato de 200 millones de euros con
-     Finmeccanica](http://www.elpais.com/articulo/economia/Defensa/firma/contrato/200/millones/euros/Finmeccanica/elpepieco/20020212elpepieco_12/Tes),
-     El País, accessed 9 December 2008
+172.  [Defensa firma un contrato de 200 millones de euros con Finmeccanica](http://www.elpais.com/articulo/economia/Defensa/firma/contrato/200/millones/euros/Finmeccanica/elpepieco/20020212elpepieco_12/Tes), El País, accessed 9 December 2008
 
 173. Dunstan, p. 13
 

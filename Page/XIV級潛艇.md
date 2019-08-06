@@ -73,6 +73,4 @@ XIV級潛艇是以[IX級潛艇](../Page/IX級潛艇.md "wikilink")作為基礎�
   - [XXI級潛艇](../Page/XXI級潛艇.md "wikilink")
   - [XXIII級潛艇](../Page/XXIII級潛艇.md "wikilink")
 
-[Category:德國潛艦](https://zh.wikipedia.org/wiki/Category:德國潛艦 "wikilink")
-[Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
-[Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")
+[Category:德國潛艦](https://zh.wikipedia.org/wiki/Category:德國潛艦 "wikilink") [Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink") [Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")

@@ -1,5 +1,4 @@
-**《愛情靈魂～lover
-soul～》（）**為日本歌手[柴崎幸於](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")2009年9月16日發行之19th單曲（含RUI、KOH+名義）。
+**《愛情靈魂～lover soul～》（）**為日本歌手[柴崎幸於](https://zh.wikipedia.org/wiki/柴崎幸 "wikilink")2009年9月16日發行之19th單曲（含RUI、KOH+名義）。
 
 ## 概要
 
@@ -38,6 +37,4 @@ soul～》（）**為日本歌手[柴崎幸於](https://zh.wikipedia.org/wiki/�
 
 [日文維基](http://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%90%E3%82%BD%E3%83%BC_%E3%80%9Clover_soul%E3%80%9C)
 
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:柴咲幸單曲](https://zh.wikipedia.org/wiki/Category:柴咲幸單曲 "wikilink")
-[Category:富士火九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士火九劇主題曲 "wikilink")
+[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:柴咲幸單曲](https://zh.wikipedia.org/wiki/Category:柴咲幸單曲 "wikilink") [Category:富士火九劇主題曲](https://zh.wikipedia.org/wiki/Category:富士火九劇主題曲 "wikilink")

@@ -1,6 +1,4 @@
-《**OFF THE
-LOCK**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第二张录音室专辑。1989年5月21日由[BMG
-VICTOR於日本發行](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
+《**OFF THE LOCK**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第二张录音室专辑。1989年5月21日由[BMG VICTOR於日本發行](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 最終銷量約60.8萬張。
 
@@ -20,5 +18,4 @@ VICTOR於日本發行](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")。
 
 ## 参考文献
 
-[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink")
-[Category:1989年音樂專輯](https://zh.wikipedia.org/wiki/Category:1989年音樂專輯 "wikilink")
+[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink") [Category:1989年音樂專輯](https://zh.wikipedia.org/wiki/Category:1989年音樂專輯 "wikilink")

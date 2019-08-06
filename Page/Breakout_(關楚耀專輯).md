@@ -37,6 +37,4 @@
 
 </div>
 
-[Category:關楚耀音樂專輯](https://zh.wikipedia.org/wiki/Category:關楚耀音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:關楚耀音樂專輯](https://zh.wikipedia.org/wiki/Category:關楚耀音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

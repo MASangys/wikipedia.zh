@@ -26,8 +26,7 @@
 
 :: 眾妖精從湖面看到某段無聲影像，為其即興配上相應的說話或旁白。
 
-::
-名字原形是延後配音的[日文簡稱](https://zh.wikipedia.org/wiki/日文 "wikilink")（）。唯一一個先製作影像的環節。
+:: 名字原形是延後配音的[日文簡稱](https://zh.wikipedia.org/wiki/日文 "wikilink")（）。唯一一個先製作影像的環節。
 
 :;
 
@@ -45,8 +44,7 @@
 
 :: 眾妖精以一般人形姿態登場，伴隨片尾曲跳舞。
 
-::
-於第1期影碟特典經繪畫人氣角色[初音未來](../Page/初音未來.md "wikilink")之[KEI](../Page/KEI.md "wikilink")重新設計，並促成第2期之全新模組。
+:: 於第1期影碟特典經繪畫人氣角色[初音未來](../Page/初音未來.md "wikilink")之[KEI](../Page/KEI.md "wikilink")重新設計，並促成第2期之全新模組。
 
 :;
 
@@ -58,8 +56,7 @@
 
 :: 讓觀眾於畫面移動的5秒內隱藏某處的可蘿可蘿。
 
-::
-基於[NICONICO動畫可以重覆播放及發放彈幕](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，所以不會另外提供答案。
+:: 基於[NICONICO動畫可以重覆播放及發放彈幕](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")，所以不會另外提供答案。
 
 :;
 
@@ -102,8 +99,7 @@
 
 :; 「」（第1期、第2期＃1）
 
-::
-作詞、作曲：井上純一，編曲：加納望，主唱：gdgd妖精s（[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")、[水原薫](https://zh.wikipedia.org/wiki/水原薫 "wikilink")、[明坂聰美](../Page/明坂聰美.md "wikilink")）
+:: 作詞、作曲：井上純一，編曲：加納望，主唱：gdgd妖精s（[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")、[水原薫](https://zh.wikipedia.org/wiki/水原薫 "wikilink")、[明坂聰美](../Page/明坂聰美.md "wikilink")）
 
 :; 「」（第2期第2話）
 
@@ -122,8 +118,7 @@
 
 :; 「Eternal」（第1期）
 
-:: 作詞、作曲：井上純一，編曲：Hajime（from
-LiLi），主唱：gdgd妖精s（[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")、[水原薫](https://zh.wikipedia.org/wiki/水原薫 "wikilink")、[明坂聰美](../Page/明坂聰美.md "wikilink")）
+:: 作詞、作曲：井上純一，編曲：Hajime（from LiLi），主唱：gdgd妖精s（[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")、[水原薫](https://zh.wikipedia.org/wiki/水原薫 "wikilink")、[明坂聰美](../Page/明坂聰美.md "wikilink")）
 
 :; 「」（第2期主要）
 
@@ -131,21 +126,18 @@ LiLi），主唱：gdgd妖精s（[三森鈴子](https://zh.wikipedia.org/wiki/�
 
 :; 「」（第2期＃7）
 
-:: 作詞、作曲：井上純一，編曲：Hajime（from
-LiLi），主唱：噼庫噼庫（[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")）
+:: 作詞、作曲：井上純一，編曲：Hajime（from LiLi），主唱：噼庫噼庫（[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")）
 
 :; 「」（第2期＃9）
 
-::
-作詞、作曲：井上純一，編曲：加納望，主唱：希露希露（[水原薫](https://zh.wikipedia.org/wiki/水原薫 "wikilink")）
+:: 作詞、作曲：井上純一，編曲：加納望，主唱：希露希露（[水原薫](https://zh.wikipedia.org/wiki/水原薫 "wikilink")）
 
 :; 「」（第2期＃11）
 
   -
 
       -
-        作詞、作曲：井上純一，編曲：Hajime（from
-        LiLi），主唱：可蘿可蘿（[明坂聰美](../Page/明坂聰美.md "wikilink")）
+        作詞、作曲：井上純一，編曲：Hajime（from LiLi），主唱：可蘿可蘿（[明坂聰美](../Page/明坂聰美.md "wikilink")）
 
 ## 每集內容
 
@@ -446,16 +438,12 @@ gdgd四格漫畫妖精s<br />
 
   - [gdgd妖精s 官方網站](http://gdgdfairy.com/)
 
-  - [NICONICO動畫頻道：gdgd妖精s
-    Channel](http://ch.nicovideo.jp/channel/gdgd/)（第1期）
+  - [NICONICO動畫頻道：gdgd妖精s Channel](http://ch.nicovideo.jp/channel/gdgd/)（第1期）
 
   - [NICONICO動畫頻道：gdgd妖精s（ぐだぐだフェアリーーズ）](http://ch.nicovideo.jp/channel/gdgd2)（第2期）
 
   -
-[Category:2011年UHF動畫](https://zh.wikipedia.org/wiki/Category:2011年UHF動畫 "wikilink")
-[Category:妖精題材作品](https://zh.wikipedia.org/wiki/Category:妖精題材作品 "wikilink")
-[Category:2013年UHF動畫](https://zh.wikipedia.org/wiki/Category:2013年UHF動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
+[Category:2011年UHF動畫](https://zh.wikipedia.org/wiki/Category:2011年UHF動畫 "wikilink") [Category:妖精題材作品](https://zh.wikipedia.org/wiki/Category:妖精題材作品 "wikilink") [Category:2013年UHF動畫](https://zh.wikipedia.org/wiki/Category:2013年UHF動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
 
 1.
 
@@ -471,17 +459,12 @@ gdgd四格漫畫妖精s<br />
 
 7.
 8.
-9.  \[<http://gdgdfairy.com/part/goods/part_dvd01.html>　gdgd妖精s DVD\&BD
-    Vol.1\]
+9.  \[<http://gdgdfairy.com/part/goods/part_dvd01.html>　gdgd妖精s DVD\&BD Vol.1\]
 
-10. [gdgd妖精s DVD\&BD
-    Vol.2](http://gdgdfairy.com/part/goods/part_dvd02.html)
+10. [gdgd妖精s DVD\&BD Vol.2](http://gdgdfairy.com/part/goods/part_dvd02.html)
 
-11. [gdgd妖精s DVD\&BD
-    Vol.3](http://gdgdfairy.com/part/goods/part_dvd03.html)
+11. [gdgd妖精s DVD\&BD Vol.3](http://gdgdfairy.com/part/goods/part_dvd03.html)
 
-12. [gdgd妖精s 第2期BD
-    Vol.1](http://gdgdfairy.com/part/goods/part_dvd04.html)
+12. [gdgd妖精s 第2期BD Vol.1](http://gdgdfairy.com/part/goods/part_dvd04.html)
 
-13. [gdgd妖精s 第2期BD
-    Vol.2](http://gdgdfairy.com/part/goods/part_dvd05.html)
+13. [gdgd妖精s 第2期BD Vol.2](http://gdgdfairy.com/part/goods/part_dvd05.html)

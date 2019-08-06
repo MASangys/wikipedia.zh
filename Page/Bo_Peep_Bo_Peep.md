@@ -1,27 +1,14 @@
-《**Bo Peep Bo
-Peep**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的一首單曲](https://zh.wikipedia.org/wiki/T-ara "wikilink")，為她們的首張正規韓語專輯《[Absolute
-First
-Album](../Page/Absolute_First_Album.md "wikilink")》的第一首主打，另一首是《[就像最初](https://zh.wikipedia.org/wiki/就像最初 "wikilink")》（）。這首歌在[KBS音樂節目](../Page/韓國放送公社.md "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》獲得了2次第一名，於[SBS音樂節目](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》獲得了3次第一名。2011年9月28日，《Bo
-Peep Bo
-Peep》作為T-ara在日本的出道單曲，正式發行。單曲銷售已超過91,343張，也是目前T-ara唯一在[RIAJ付費音樂下載榜](../Page/RIAJ付費音樂下載榜.md "wikilink")中的PC下載及手機全曲付費下載認證為「金」的歌曲\[1\]。
+《**Bo Peep Bo Peep**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的一首單曲](https://zh.wikipedia.org/wiki/T-ara "wikilink")，為她們的首張正規韓語專輯《[Absolute First Album](../Page/Absolute_First_Album.md "wikilink")》的第一首主打，另一首是《[就像最初](https://zh.wikipedia.org/wiki/就像最初 "wikilink")》（）。這首歌在[KBS音樂節目](../Page/韓國放送公社.md "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》獲得了2次第一名，於[SBS音樂節目](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》獲得了3次第一名。2011年9月28日，《Bo Peep Bo Peep》作為T-ara在日本的出道單曲，正式發行。單曲銷售已超過91,343張，也是目前T-ara唯一在[RIAJ付費音樂下載榜](../Page/RIAJ付費音樂下載榜.md "wikilink")中的PC下載及手機全曲付費下載認證為「金」的歌曲\[1\]。
 
 ## 宣傳與發行
 
-2009年11月27日，T-ara發行了她們的第一張正規韓語專輯《Absolute First Album》。[Core Contents
-Media為了選出這張專輯的主打曲](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")，向約9,000人進行投票。儘管《就像最初》獲得最多的票數\[2\]\[3\]，但最後卻是由《Bo
-Peep Bo Peep》作為第一主打曲，並於12月4日在音樂節目《音樂銀行》正式展開回歸宣傳行程。《就像最初》的舞台到1月才正式開始。
+2009年11月27日，T-ara發行了她們的第一張正規韓語專輯《Absolute First Album》。[Core Contents Media為了選出這張專輯的主打曲](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")，向約9,000人進行投票。儘管《就像最初》獲得最多的票數\[2\]\[3\]，但最後卻是由《Bo Peep Bo Peep》作為第一主打曲，並於12月4日在音樂節目《音樂銀行》正式展開回歸宣傳行程。《就像最初》的舞台到1月才正式開始。
 
-2010年1月1日和1月8日，《Bo Peep Bo Peep》於《音樂銀行》獲得一位；1月3日、1月10日及1月17日，《Bo Peep Bo
-Peep》於《人氣歌謠》獲得一位。
+2010年1月1日和1月8日，《Bo Peep Bo Peep》於《音樂銀行》獲得一位；1月3日、1月10日及1月17日，《Bo Peep Bo Peep》於《人氣歌謠》獲得一位。
 
 ### 日文版
 
-2011年8月4日，官方宣布T-ara將以單曲《Bo Peep Bo
-Peep》在[日本](../Page/日本.md "wikilink")正式出道，[音樂影片在](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")9月1日時於日本的[Space
-Shower
-TV發布](https://zh.wikipedia.org/wiki/Space_Shower_TV "wikilink")。9月28日，單曲分為限量版及普通版兩種發行，日文版的《[為你瘋狂](https://zh.wikipedia.org/wiki/為你瘋狂 "wikilink")》（）收錄在B面\[4\]。單曲在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")上的首日銷量為20,068張，T-ara成為在[MBLAQ的](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")《[Your
-Luv](https://zh.wikipedia.org/wiki/Your_Luv "wikilink")》和[SHINee](../Page/SHINee.md "wikilink")的《[Replay
--你是我的everything-](../Page/Replay_-你是我的everything-.md "wikilink")》之後第一個首日銷量來到前三名的韓國女子音樂組合\[5\]。本曲在公信榜的每週單曲榜上獲得1位，首周銷量為49,712張，這是此榜第一次有非日本的女子組合獲得一位\[6\]。
+2011年8月4日，官方宣布T-ara將以單曲《Bo Peep Bo Peep》在[日本](../Page/日本.md "wikilink")正式出道，[音樂影片在](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")9月1日時於日本的[Space Shower TV發布](https://zh.wikipedia.org/wiki/Space_Shower_TV "wikilink")。9月28日，單曲分為限量版及普通版兩種發行，日文版的《[為你瘋狂](https://zh.wikipedia.org/wiki/為你瘋狂 "wikilink")》（）收錄在B面\[4\]。單曲在[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")上的首日銷量為20,068張，T-ara成為在[MBLAQ的](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")《[Your Luv](https://zh.wikipedia.org/wiki/Your_Luv "wikilink")》和[SHINee](../Page/SHINee.md "wikilink")的《[Replay -你是我的everything-](../Page/Replay_-你是我的everything-.md "wikilink")》之後第一個首日銷量來到前三名的韓國女子音樂組合\[5\]。本曲在公信榜的每週單曲榜上獲得1位，首周銷量為49,712張，這是此榜第一次有非日本的女子組合獲得一位\[6\]。
 
 ## 曲目
 
@@ -174,10 +161,7 @@ Luv](https://zh.wikipedia.org/wiki/Your_Luv "wikilink")》和[SHINee](../Page/SH
 
 [分類:2009年單曲](https://zh.wikipedia.org/wiki/分類:2009年單曲 "wikilink")
 
-[Category:T-ara歌曲](https://zh.wikipedia.org/wiki/Category:T-ara歌曲 "wikilink")
-[Category:2011年单曲](https://zh.wikipedia.org/wiki/Category:2011年单曲 "wikilink")
-[Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2011年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年Japan_Hot_100冠軍歌曲 "wikilink")
+[Category:T-ara歌曲](https://zh.wikipedia.org/wiki/Category:T-ara歌曲 "wikilink") [Category:2011年单曲](https://zh.wikipedia.org/wiki/Category:2011年单曲 "wikilink") [Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink") [Category:2011年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年Japan_Hot_100冠軍歌曲 "wikilink")
 
 1.
 2.

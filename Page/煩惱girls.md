@@ -120,15 +120,11 @@
 
 ## 音樂單曲
 
-  - [い・け・な・いルージュマジック](https://zh.wikipedia.org/wiki/い・け・な・いルージュマジック "wikilink")（2005年10月8日）
-    - [Victor
-    Entertainment發售](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")
+  - [い・け・な・いルージュマジック](https://zh.wikipedia.org/wiki/い・け・な・いルージュマジック "wikilink")（2005年10月8日） - [Victor Entertainment發售](https://zh.wikipedia.org/wiki/Victor_Entertainment "wikilink")
 
 ## 写真集
 
-  - 『100+8 SEXY GIRLS FROM V.S.O.O.P <small>煩悩ガールズ
-    密封写真集</small>』（講談社、2005年11月18日） ISBN
-    4-06-307753-5
+  - 『100+8 SEXY GIRLS FROM V.S.O.O.P <small>煩悩ガールズ 密封写真集</small>』（講談社、2005年11月18日） ISBN 4-06-307753-5
 
 ## DVD
 
@@ -136,10 +132,7 @@
 
 ## 外部連結
 
-  - [100+8 SEXY GIRLS FROM
-    V.S.O.O.P/煩悩ガールズ](http://www.jvcmusic.co.jp/108/) - 官方網站
-  - [ついに決定\! 109人目の煩悩ガールズは、彼女だ\!](https://web.archive.org/web/20060115122136/http://shotworks.yahoo.co.jp/special/2005/bonnou/)
-    - ショットワークス内特設網站
+  - [100+8 SEXY GIRLS FROM V.S.O.O.P/煩悩ガールズ](http://www.jvcmusic.co.jp/108/) - 官方網站
+  - [ついに決定\! 109人目の煩悩ガールズは、彼女だ\!](https://web.archive.org/web/20060115122136/http://shotworks.yahoo.co.jp/special/2005/bonnou/) - ショットワークス内特設網站
 
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:勝利娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:勝利娛樂旗下藝人 "wikilink")

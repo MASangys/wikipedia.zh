@@ -1,5 +1,4 @@
-**反射**（**反射**）是由**[SITER
-SKAIN](https://zh.wikipedia.org/wiki/SITER_SKAIN "wikilink")**製作的一款縱軸捲動的射擊遊戲，是\[母脑四部曲\]故事中的第三部，是第四部作品[神威的前傳與續作](https://zh.wikipedia.org/wiki/神威_\(射擊遊戲\) "wikilink")，[反射的完整版](https://zh.wikipedia.org/wiki/反射 "wikilink")，於2008年8月16日發行。
+**反射**（**反射**）是由**[SITER SKAIN](https://zh.wikipedia.org/wiki/SITER_SKAIN "wikilink")**製作的一款縱軸捲動的射擊遊戲，是\[母脑四部曲\]故事中的第三部，是第四部作品[神威的前傳與續作](https://zh.wikipedia.org/wiki/神威_\(射擊遊戲\) "wikilink")，[反射的完整版](https://zh.wikipedia.org/wiki/反射 "wikilink")，於2008年8月16日發行。
 
 ## 概要
 
@@ -23,15 +22,11 @@ SKAIN](https://zh.wikipedia.org/wiki/SITER_SKAIN "wikilink")**製作的一款縱
 
 新歷0024年，開發出國家軍所擁有的**12機戰鬥兵器**群的英雄，也是粒子力學首席的**丹尼斯**博士(デニス)，卻不滿了國家軍的作法而跳槽到了**ヴァルキネス**，並且帶著他的研究成果及**[黃道](https://zh.wikipedia.org/wiki/黃道 "wikilink")[蛇夫座](../Page/蛇夫座.md "wikilink")**(ゾディアック・オヒュクス)核心，這使得戰況發生了變化。**丹尼斯**博士利用蛇夫座核心開發出了使用**S.S.S.**(炮盾系统)能夠反射光學兵器的護盾，將此技術和核心套用到泛用戰鬥機[不死鳥](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")(凤凰)上完成了**不死鳥2型**的特殊戰鬥機，並且在一機新型士官用戰鬥機[巨蛇座](../Page/巨蛇座.md "wikilink")(サーペント)裝入了複製核心使其也有此護盾。此時，**ヴァルキネス**為了一口氣逆轉緊迫的戰況，決定發動名為**操作条件反射**的作戰。
 
-作戰內容是傾地球上的全兵力對首都[阿耳忒彌斯](https://zh.wikipedia.org/wiki/阿耳忒彌斯 "wikilink")(アルテミス)發動奇襲作為佯攻，實際上的目的是要將有搭載護盾系統的戰鬥機送上**瓦成员策略**的月面基地以進行量產化，兩機中只要有一機抵達就算是任務成功。不料，此計畫早已洩漏到國家軍耳中，上層便指派了美少女艦長[絲比卡](../Page/角宿一.md "wikilink")・[阿斯特雷亞](https://zh.wikipedia.org/wiki/阿斯特莉亞 "wikilink")(スピカ・アストレア，其名字本身也是構成處女座的星體**角宿一**，而姓的希臘文意思是**星辰少女**)大尉搭乘\[處女座\](處女座)，前去迎擊運送特殊機的**瓦成员策略**獨立部隊。**ヴァルキネス**獨立部隊前往第二十四空域國家軍的[埃涅阿斯](../Page/埃涅阿斯.md "wikilink")(埃涅阿斯)空中基地，打算利用此處的[重力制御式](https://zh.wikipedia.org/wiki/重力 "wikilink")[軌道回廊登上宇宙](https://zh.wikipedia.org/wiki/軌道 "wikilink")
-就在行經途中突然遭遇到大批國家軍部隊的埋伏，這才驚覺這邊的計畫早已被敵方知道了。**瓦成员策略**艦隊正逐步壞滅，旗艦**蛇夫座**(オヒュクス，雖與黃道核心同名但無關係)只好緊急放出艦載的兩架護盾系統特殊機，並一邊應付襲來的\[雙魚座\](雙魚座)A、E型。旗艦雖以強大的雷射主砲擊沉了双鱼座
-A型一併也給予了E型不小的損傷，卻被處女座趁此機會給予致命性的光爆炸彈投擲。**巨蛇座**來不及出擊就連同旗艦一起沉沒，**丹尼斯**博士也不幸喪身，唯有**不死鳥2型**和一機**不死鳥1型**成功脫出...
-雖然作戰計畫遭受突然其來的打擊，**不死鳥2型**的駕駛員(玩家)還是決定要自行駕駛戰機前往月面基地完成任務。
+作戰內容是傾地球上的全兵力對首都[阿耳忒彌斯](https://zh.wikipedia.org/wiki/阿耳忒彌斯 "wikilink")(アルテミス)發動奇襲作為佯攻，實際上的目的是要將有搭載護盾系統的戰鬥機送上**瓦成员策略**的月面基地以進行量產化，兩機中只要有一機抵達就算是任務成功。不料，此計畫早已洩漏到國家軍耳中，上層便指派了美少女艦長[絲比卡](../Page/角宿一.md "wikilink")・[阿斯特雷亞](https://zh.wikipedia.org/wiki/阿斯特莉亞 "wikilink")(スピカ・アストレア，其名字本身也是構成處女座的星體**角宿一**，而姓的希臘文意思是**星辰少女**)大尉搭乘\[處女座\](處女座)，前去迎擊運送特殊機的**瓦成员策略**獨立部隊。**ヴァルキネス**獨立部隊前往第二十四空域國家軍的[埃涅阿斯](../Page/埃涅阿斯.md "wikilink")(埃涅阿斯)空中基地，打算利用此處的[重力制御式](https://zh.wikipedia.org/wiki/重力 "wikilink")[軌道回廊登上宇宙](https://zh.wikipedia.org/wiki/軌道 "wikilink") 就在行經途中突然遭遇到大批國家軍部隊的埋伏，這才驚覺這邊的計畫早已被敵方知道了。**瓦成员策略**艦隊正逐步壞滅，旗艦**蛇夫座**(オヒュクス，雖與黃道核心同名但無關係)只好緊急放出艦載的兩架護盾系統特殊機，並一邊應付襲來的\[雙魚座\](雙魚座)A、E型。旗艦雖以強大的雷射主砲擊沉了双鱼座 A型一併也給予了E型不小的損傷，卻被處女座趁此機會給予致命性的光爆炸彈投擲。**巨蛇座**來不及出擊就連同旗艦一起沉沒，**丹尼斯**博士也不幸喪身，唯有**不死鳥2型**和一機**不死鳥1型**成功脫出... 雖然作戰計畫遭受突然其來的打擊，**不死鳥2型**的駕駛員(玩家)還是決定要自行駕駛戰機前往月面基地完成任務。
 
 ### 開始
 
-**不死鳥2型**仗著機體威能及駕駛員高超的技術，一路上擊毀了國家軍的**双鱼座
-E型**、(金牛座)、(天蠍座)以及擊退**处女座**(只是重創但沒擊落)後，脫離了軌道迴廊來到宇宙，發現國家軍已經將[流星艦隊配置好在這片宙域了](https://zh.wikipedia.org/wiki/流星 "wikilink")。**流星艦隊**的總旗艦是搭載了大量砲台有如移動要塞般的(射手座)，艦載機甚至還有著(雙子座)L型與R型，以及最新銳艦(巨蟹座)。不過，**流星艦隊**的目標似乎不是反抗組織，這時**不死鳥2型**的駕駛員還不知道流星艦隊的任務是為了迎擊將至的外星軍團**拉伊瓦軍**。
+**不死鳥2型**仗著機體威能及駕駛員高超的技術，一路上擊毀了國家軍的**双鱼座 E型**、(金牛座)、(天蠍座)以及擊退**处女座**(只是重創但沒擊落)後，脫離了軌道迴廊來到宇宙，發現國家軍已經將[流星艦隊配置好在這片宙域了](https://zh.wikipedia.org/wiki/流星 "wikilink")。**流星艦隊**的總旗艦是搭載了大量砲台有如移動要塞般的(射手座)，艦載機甚至還有著(雙子座)L型與R型，以及最新銳艦(巨蟹座)。不過，**流星艦隊**的目標似乎不是反抗組織，這時**不死鳥2型**的駕駛員還不知道流星艦隊的任務是為了迎擊將至的外星軍團**拉伊瓦軍**。
 
 為了前往月球不得不經過這裡，於是**不死鳥2型**還是對**流星艦隊**發動了奇襲，在擊沉了**双子座**和**射手座**後，**巨蟹座**一路追擊**不死鳥2型**通過亞空間並展開一連串長期戰。在雙方交火進入最後的高潮之際，此時突然出現的謎之戰艦**瓦卢戈**(處女座，雖然與國家軍的处女座同名但此外完全無關)一擊就將**巨蟹座**擊毀了，也一併摧毀目的地的**瓦成员策略月面基地**。謎之艦隊的正體就是從遙遠星系進攻而來的**拉伊瓦軍**，他們輕而易舉的擊敗失去旗艦的**流星艦隊**，瞬間壓制了大氣層...。
 
@@ -43,8 +38,7 @@ E型**、(金牛座)、(天蠍座)以及擊退**处女座**(只是重創但沒�
 
 拉伊瓦上層發動戰爭真正的原因是由於一度安定下來的**黃道兵器**，已逐漸有不受控制的跡象，而所能完全掌控的只有僅僅3機。擔心慘劇又再度在拉伊瓦母星上重演，決定把這些燙手山芋丟給地球去處理，希望能通過オヒュクス的力量來進行銷毀。(根據ライワット遠征軍師團長的回憶錄)
 
-擊毀了**査察守護艦スクトゥム**後，**不死鳥2型**型隨同**處女座**尾隨敵艦**瓦卢戈**(處女座)來到了過去「母脑戰役」時母脑系統所在的遺址，**瓦卢戈**感應到**蛇夫座**有在此處覺醒過的跡象才會來到這裡的(確實如此，詳見[母脑
-2nd](https://zh.wikipedia.org/wiki/母脑_2nd "wikilink"))。
+擊毀了**査察守護艦スクトゥム**後，**不死鳥2型**型隨同**處女座**尾隨敵艦**瓦卢戈**(處女座)來到了過去「母脑戰役」時母脑系統所在的遺址，**瓦卢戈**感應到**蛇夫座**有在此處覺醒過的跡象才會來到這裡的(確實如此，詳見[母脑 2nd](https://zh.wikipedia.org/wiki/母脑_2nd "wikilink"))。
 
 **瓦卢戈**的核心覺醒後瞬間將**處女座**擊墜(不過艦長**絲比卡**似乎倖存，因其日記有提到後來的事)，**不死鳥2型**同樣不敵對方壓倒性的火力而機體大破，駕駛員也遭到直接攻擊身亡。裝設在**不死鳥2型**機身內的**黃道蛇夫座核心**在此刻也覺醒了，機體展開跟對方同樣的光翼，本能性的開始了狩獵其餘12機**黃道光翼兵器**(核心覺醒前為黃道兵器，覺醒後稱為黃道**光翼**兵器)的行動...。
 
@@ -56,8 +50,7 @@ E型**、(金牛座)、(天蠍座)以及擊退**处女座**(只是重創但沒�
 
 人們感到了歡喜與希望，把凤凰稱為神的將之偶像化。
 
-雖然凤凰一機接著一機的擊破其餘的光翼兵器，但在激烈的戰鬥過程中地表化為一片焦土，人類的衰退已經是註定的了
-在這個狀況下，人類總算認清了凤凰是為了狩獵光翼兵器的第三勢力，而不是什麼神的存在。
+雖然凤凰一機接著一機的擊破其餘的光翼兵器，但在激烈的戰鬥過程中地表化為一片焦土，人類的衰退已經是註定的了 在這個狀況下，人類總算認清了凤凰是為了狩獵光翼兵器的第三勢力，而不是什麼神的存在。
 
 改而將凤凰視為惡魔，並稱作**光翼兵器零號機**。
 
@@ -279,8 +272,7 @@ B
 
 <td>
 
-敵艦隊の旗艦を撃墜して亜光速航行で月に向かう凤凰
-対して、敵旗艦に搭載されていたキャンサーが追撃をかける。月に到達しても続く戦闘のさなか、謎の艦隊ともに現れた謎の兵器がキャンサーと月基地を破壊する。
+敵艦隊の旗艦を撃墜して亜光速航行で月に向かう凤凰 対して、敵旗艦に搭載されていたキャンサーが追撃をかける。月に到達しても続く戦闘のさなか、謎の艦隊ともに現れた謎の兵器がキャンサーと月基地を破壊する。
 
 </td>
 
@@ -581,10 +573,8 @@ RefleX初期是試驗版
 
 ## 参考资料
 
-  - [ALLTYNEX
-    三部曲第二部-RefleX](https://archive.is/20130105154656/http://tw.myblog.yahoo.com/stu31305/article?mid=332&l=d&fid=15)
-  - [Starfleet Personal Log The Tale of ALLTYNEX -
-    Phase 2](http://starship7710.blogspot.tw/2011/02/tale-of-alltynex-phase-2.html)
+  - [ALLTYNEX 三部曲第二部-RefleX](https://archive.is/20130105154656/http://tw.myblog.yahoo.com/stu31305/article?mid=332&l=d&fid=15)
+  - [Starfleet Personal Log The Tale of ALLTYNEX - Phase 2](http://starship7710.blogspot.tw/2011/02/tale-of-alltynex-phase-2.html)
 
 [同人STG系列作品列表](https://archive.is/20130503061037/http://wiki.komica.org/wiki3/?%E5%90%8C%E4%BA%BASTG%E7%B3%BB%E5%88%97%E4%BD%9C%E5%93%81%E5%88%97%E8%A1%A8)
 
@@ -592,8 +582,7 @@ RefleX初期是試驗版
 
   - [SITER SKAIN](https://zh.wikipedia.org/wiki/SITER_SKAIN "wikilink")
   - [ALLTYNEX三部曲](https://zh.wikipedia.org/wiki/ALLTYNEX三部曲 "wikilink")
-  - [ALLTYNEX
-    2nd](https://zh.wikipedia.org/wiki/ALLTYNEX_2nd "wikilink")(首部曲重製版，2nd意指重製版，劇情與原版相符)
+  - [ALLTYNEX 2nd](https://zh.wikipedia.org/wiki/ALLTYNEX_2nd "wikilink")(首部曲重製版，2nd意指重製版，劇情與原版相符)
   - [Reflection](../Page/Reflection.md "wikilink")(二部曲試做版)
   - [神威](https://zh.wikipedia.org/wiki/神威_\(射擊遊戲\) "wikilink")(三部曲)
 
@@ -601,21 +590,12 @@ RefleX初期是試驗版
 
   - RefleX
       - [SITER SKAIN](http://www.siterskain.com/)
-      - [SIG-Indie6に招かれたSITER
-        SKAINが講演に使ったALLTYNEX3部作についてのスライド資料](http://www.siterskain.com/sigindie/sigindie6_siterskain.pdf)
-        （pdfファイル）
-      - [SIG-Indie6に招かれたSITER
-        SKAINが講演に使ったRefleX紹介動画](http://www.youtube.com/watch?v=S55GwGQfwTQ)
-        （[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")）
-      - [4gamer.net
-        インディーズゲームの小部屋：Room＃62「RefleX」](http://www.4gamer.net/games/040/G004096/20081022006/)
+      - [SIG-Indie6に招かれたSITER SKAINが講演に使ったALLTYNEX3部作についてのスライド資料](http://www.siterskain.com/sigindie/sigindie6_siterskain.pdf) （pdfファイル）
+      - [SIG-Indie6に招かれたSITER SKAINが講演に使ったRefleX紹介動画](http://www.youtube.com/watch?v=S55GwGQfwTQ) （[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")）
+      - [4gamer.net インディーズゲームの小部屋：Room＃62「RefleX」](http://www.4gamer.net/games/040/G004096/20081022006/)
   - Reflection
       - [インターネットコンテストパーク1997年11月月間受賞作品紹介](http://www.enterbrain.co.jp/digifami/conpark/zyusyou/1997_11.html)
-      - [Reflection入賞特別企画
-        ヤスウェアとじるのスペシャル対談](https://web.archive.org/web/19991113175210/http://www9.big.or.jp/~ysuer/game/reflect/taidan/taidan.html)
-        （[Internet
-        Archive](https://zh.wikipedia.org/wiki/Internet_Archive "wikilink")）
-      - [窓の杜 週末ゲーム 第117回
-        敵の攻撃を反射できるシューティング「Reflection」](http://www.forest.impress.co.jp/article/2001/10/25/reflection.html)
+      - [Reflection入賞特別企画 ヤスウェアとじるのスペシャル対談](https://web.archive.org/web/19991113175210/http://www9.big.or.jp/~ysuer/game/reflect/taidan/taidan.html) （[Internet Archive](https://zh.wikipedia.org/wiki/Internet_Archive "wikilink")）
+      - [窓の杜 週末ゲーム 第117回 敵の攻撃を反射できるシューティング「Reflection」](http://www.forest.impress.co.jp/article/2001/10/25/reflection.html)
 
 [Category:射擊遊戲](https://zh.wikipedia.org/wiki/Category:射擊遊戲 "wikilink")

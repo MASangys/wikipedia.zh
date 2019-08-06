@@ -1,11 +1,6 @@
-**U
-Lifestyle生活網站**是香港一個網上綜合資訊平台\[1\]，為[香港經濟日報集團有限公司](https://zh.wikipedia.org/wiki/香港經濟日報集團有限公司 "wikilink")\[2\]旗下網站成員之一。
+**U Lifestyle生活網站**是香港一個網上綜合資訊平台\[1\]，為[香港經濟日報集團有限公司](https://zh.wikipedia.org/wiki/香港經濟日報集團有限公司 "wikilink")\[2\]旗下網站成員之一。
 
-該網站之主要內容包括[旅遊](https://zh.wikipedia.org/wiki/旅遊 "wikilink")、[美容](../Page/美容.md "wikilink")、[飲食及其他生活相關資訊](https://zh.wikipedia.org/wiki/飲食 "wikilink")。旗下共有6個不同性質及類型的網路平台，包括：[港生活](../Page/港生活.md "wikilink")、[U
-Travel](../Page/U_Travel.md "wikilink")、[U
-Food](https://zh.wikipedia.org/wiki/U_Food "wikilink")、[U
-Beauty](https://zh.wikipedia.org/wiki/U_Beauty "wikilink")、[U
-Blog及Mall王](../Page/U_Blog.md "wikilink")。
+該網站之主要內容包括[旅遊](https://zh.wikipedia.org/wiki/旅遊 "wikilink")、[美容](../Page/美容.md "wikilink")、[飲食及其他生活相關資訊](https://zh.wikipedia.org/wiki/飲食 "wikilink")。旗下共有6個不同性質及類型的網路平台，包括：[港生活](../Page/港生活.md "wikilink")、[U Travel](../Page/U_Travel.md "wikilink")、[U Food](https://zh.wikipedia.org/wiki/U_Food "wikilink")、[U Beauty](https://zh.wikipedia.org/wiki/U_Beauty "wikilink")、[U Blog及Mall王](../Page/U_Blog.md "wikilink")。
 
 ## 歷史
 
@@ -26,8 +21,7 @@ Blog及Mall王](../Page/U_Blog.md "wikilink")。
   - Mall王
       - 商場資訊平台，於2012年3月21日成立，2014年6月1日起成為U Lifestyle旗下網路平台。
   - U Know
-      - 綜合資訊平台，於2012年成立，前稱ulala.com.hk / ulala.hk，於2014年6月1日起成為U
-        Lifestyle旗下網路平台。
+      - 綜合資訊平台，於2012年成立，前稱ulala.com.hk / ulala.hk，於2014年6月1日起成為U Lifestyle旗下網路平台。
 
 ## 參考來源
 

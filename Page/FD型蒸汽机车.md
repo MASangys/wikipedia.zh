@@ -14,8 +14,7 @@ FD型蒸汽机车在实践中发挥了强大的牵引力，所以在苏联43条�
 
 ### 在中国铁路的运用
 
-1949年10月，[中华人民共和国成立](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")。为了解决铁路运输能力严重不足这一问题，中国于20世纪50年代从苏联引进了该款机车，共计1054台（1001\~2004；2201\~2250）\[3\]
-，进口时定名为友好型，代号YH。但几年后受[中苏交恶](../Page/中苏交恶.md "wikilink")，以及[文化大革命](../Page/文化大革命.md "wikilink")的影响，友好型改为反修型。1971年7月，反修型按进口机车沿用原型名FD，即将俄文字母改为相应的汉语拼音字母FD。
+1949年10月，[中华人民共和国成立](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")。为了解决铁路运输能力严重不足这一问题，中国于20世纪50年代从苏联引进了该款机车，共计1054台（1001\~2004；2201\~2250）\[3\] ，进口时定名为友好型，代号YH。但几年后受[中苏交恶](../Page/中苏交恶.md "wikilink")，以及[文化大革命](../Page/文化大革命.md "wikilink")的影响，友好型改为反修型。1971年7月，反修型按进口机车沿用原型名FD，即将俄文字母改为相应的汉语拼音字母FD。
 
 20世纪70年代末期，这批机车陆续退役，最后一次本型机车目击记录是在1985年10月时配属于[柳州铁路局桂林机务段的FD](../Page/中国铁路南宁局集团有限公司.md "wikilink")-1189。\[4\]在1990年取消该机车型号。
 
@@ -53,17 +52,11 @@ FD型蒸汽机车在实践中发挥了强大的牵引力，所以在苏联43条�
 
 <references />
 
-[Category:苏联蒸汽机车](https://zh.wikipedia.org/wiki/Category:苏联蒸汽机车 "wikilink")
-[Category:中国蒸汽机车](https://zh.wikipedia.org/wiki/Category:中国蒸汽机车 "wikilink")
-[Category:朝鲜蒸汽机车](https://zh.wikipedia.org/wiki/Category:朝鲜蒸汽机车 "wikilink")
-[Category:2-10-2輪式機車](https://zh.wikipedia.org/wiki/Category:2-10-2輪式機車 "wikilink")
+[Category:苏联蒸汽机车](https://zh.wikipedia.org/wiki/Category:苏联蒸汽机车 "wikilink") [Category:中国蒸汽机车](https://zh.wikipedia.org/wiki/Category:中国蒸汽机车 "wikilink") [Category:朝鲜蒸汽机车](https://zh.wikipedia.org/wiki/Category:朝鲜蒸汽机车 "wikilink") [Category:2-10-2輪式機車](https://zh.wikipedia.org/wiki/Category:2-10-2輪式機車 "wikilink")
 
 1.
 2.
-3.  [Class Profiles : FD
-    Class 2-10-2](http://www.railography.co.uk/info/cn_steam/profiles/fd.htm),Railography
-4.  [Chinese Locomotive Lists : FD 1001 to
-    FD 2250](http://www.railography.co.uk/info/cn_steam/lists/locos/fd_1001.htm),Railography
+3.  [Class Profiles : FD Class 2-10-2](http://www.railography.co.uk/info/cn_steam/profiles/fd.htm),Railography
+4.  [Chinese Locomotive Lists : FD 1001 to FD 2250](http://www.railography.co.uk/info/cn_steam/lists/locos/fd_1001.htm),Railography
 5.
-6.  [Паровоз
-    ФД20-1517](http://www.parovoz.com/newgallery/?SHOW_ALL=1&LNG=RU&DESCR=%D0%A4%D0%9420-1517)
+6.  [Паровоз ФД20-1517](http://www.parovoz.com/newgallery/?SHOW_ALL=1&LNG=RU&DESCR=%D0%A4%D0%9420-1517)

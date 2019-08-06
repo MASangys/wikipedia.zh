@@ -1,7 +1,4 @@
-**EA
-Phenomic**是一家位于[德国](../Page/德国.md "wikilink")的[即时战略游戏](../Page/即时战略游戏.md "wikilink")开发公司。这家公司在1997年创办，叫做**Phenomic
-Game Development**，在2006年8月23日被[Electronic
-Arts收购](https://zh.wikipedia.org/wiki/Electronic_Arts "wikilink")。\[1\]
+**EA Phenomic**是一家位于[德国](../Page/德国.md "wikilink")的[即时战略游戏](../Page/即时战略游戏.md "wikilink")开发公司。这家公司在1997年创办，叫做**Phenomic Game Development**，在2006年8月23日被[Electronic Arts收购](https://zh.wikipedia.org/wiki/Electronic_Arts "wikilink")。\[1\]
 
 ## 开发过的游戏
 
@@ -21,10 +18,8 @@ Arts收购](https://zh.wikipedia.org/wiki/Electronic_Arts "wikilink")。\[1\]
 ## 外部链接
 
   -
-  - [EA Phenomic](http://www.mobygames.com/company/ea-phenomic) profile
-    on MobyGames
+  - [EA Phenomic](http://www.mobygames.com/company/ea-phenomic) profile on MobyGames
 
-[Category:艺电的部门与子公司](https://zh.wikipedia.org/wiki/Category:艺电的部门与子公司 "wikilink")
-[Category:德國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:德國電子遊戲公司 "wikilink")
+[Category:艺电的部门与子公司](https://zh.wikipedia.org/wiki/Category:艺电的部门与子公司 "wikilink") [Category:德國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:德國電子遊戲公司 "wikilink")
 
 1.

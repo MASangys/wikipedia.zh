@@ -22,6 +22,4 @@
   - [Sony Music的作品介紹](../Page/索尼音樂娛樂.md "wikilink")
       - [通常盤](http://www.sonymusic.co.jp/Music/Arch/DF/KenHirai/DFCZ-1030/index.html)
 
-[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink")
-[Category:平井堅歌曲](https://zh.wikipedia.org/wiki/Category:平井堅歌曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
+[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink") [Category:平井堅歌曲](https://zh.wikipedia.org/wiki/Category:平井堅歌曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")

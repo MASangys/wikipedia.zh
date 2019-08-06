@@ -7,6 +7,4 @@
   - [BS11宣傳BLOG](http://www.bs11.jp/blog/kouhou/index.php)
 
   -
-[Category:日本電視台](https://zh.wikipedia.org/wiki/Category:日本電視台 "wikilink")
-[Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink")
-[Category:1999年成立的公司](https://zh.wikipedia.org/wiki/Category:1999年成立的公司 "wikilink")
+[Category:日本電視台](https://zh.wikipedia.org/wiki/Category:日本電視台 "wikilink") [Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink") [Category:1999年成立的公司](https://zh.wikipedia.org/wiki/Category:1999年成立的公司 "wikilink")

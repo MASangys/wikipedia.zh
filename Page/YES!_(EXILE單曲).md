@@ -21,9 +21,7 @@
 ### CD
 
 1.  **YES\!** \[3:44\]
-      - 作詞：ATSUSHI /
-        作曲：[山口寛雄](https://zh.wikipedia.org/wiki/山口寛雄 "wikilink")
-        / 編曲：REO
+      - 作詞：ATSUSHI / 作曲：[山口寛雄](https://zh.wikipedia.org/wiki/山口寛雄 "wikilink") / 編曲：REO
 2.  YES\! (Instrumental) \[3:44\]
 
 ### DVD
@@ -33,12 +31,9 @@
 ## 商業搭配
 
   - [日本電視台](../Page/日本電視台.md "wikilink")系「2月怒濤兇湧的足球轉播」主題歌
-  - 日本電視台《[音樂戰士 MUSIC
-    FIGHTER](../Page/音樂戰士_MUSIC_FIGHTER.md "wikilink")》3月度開場主題歌
+  - 日本電視台《[音樂戰士 MUSIC FIGHTER](../Page/音樂戰士_MUSIC_FIGHTER.md "wikilink")》3月度開場主題歌
   - NIVEA「」廣告歌
 
 ## 備註
 
-[Category:放浪兄弟歌曲](https://zh.wikipedia.org/wiki/Category:放浪兄弟歌曲 "wikilink")
-[Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
+[Category:放浪兄弟歌曲](https://zh.wikipedia.org/wiki/Category:放浪兄弟歌曲 "wikilink") [Category:2006年單曲](https://zh.wikipedia.org/wiki/Category:2006年單曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")

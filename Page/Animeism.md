@@ -264,8 +264,7 @@
 
   - [MBS動畫專頁](http://www.mbs.jp/anime/index.shtml)
 
-[Category:電視動畫時段](https://zh.wikipedia.org/wiki/Category:電視動畫時段 "wikilink")
-[Category:Animeism](https://zh.wikipedia.org/wiki/Category:Animeism "wikilink")
+[Category:電視動畫時段](https://zh.wikipedia.org/wiki/Category:電視動畫時段 "wikilink") [Category:Animeism](https://zh.wikipedia.org/wiki/Category:Animeism "wikilink")
 
 1.  實際播放時間會因應當日節目調動而改變
 2.  於常規時段只播放22集，最後兩集之完結篇安排於11月之其他時段播放。

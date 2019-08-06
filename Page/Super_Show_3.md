@@ -1,9 +1,6 @@
-[Super Junior第三次亞洲巡回演唱会](../Page/Super_Junior.md "wikilink")「**Super
-Junior The 3rd Asia Tour – "Super Show
-3"**」于2010年8月14日在首尔揭幕，之后展开长达10个月的巡回，在中国、台湾、新加坡、披国、菲律宾、马来西亚、日本和越南等13个城市举20场演唱会。\[1\]
+[Super Junior第三次亞洲巡回演唱会](../Page/Super_Junior.md "wikilink")「**Super Junior The 3rd Asia Tour – "Super Show 3"**」于2010年8月14日在首尔揭幕，之后展开长达10个月的巡回，在中国、台湾、新加坡、披国、菲律宾、马来西亚、日本和越南等13个城市举20场演唱会。\[1\]
 
-韓庚自2009年底解約退出Super
-Junior後不再參與組合演唱會，起範淡出組合並專注演員活動而不再參與組合巡演，強仁因為入伍關係，不參加這次演唱會，所以僅有十名成員參與該巡回演唱会。
+韓庚自2009年底解約退出Super Junior後不再參與組合演唱會，起範淡出組合並專注演員活動而不再參與組合巡演，強仁因為入伍關係，不參加這次演唱會，所以僅有十名成員參與該巡回演唱会。
 
 ## 相关唱片
 
@@ -280,14 +277,8 @@ Junior後不再參與組合演唱會，起範淡出組合並專注演員活動�
 
   - [Super Junior 官方網站](http://superjunior.smtown.com/)
 
-[Category:2010年巡回演唱會](https://zh.wikipedia.org/wiki/Category:2010年巡回演唱會 "wikilink")
-[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink")
-[Category:Super_Junior巡迴演唱會](https://zh.wikipedia.org/wiki/Category:Super_Junior巡迴演唱會 "wikilink")
+[Category:2010年巡回演唱會](https://zh.wikipedia.org/wiki/Category:2010年巡回演唱會 "wikilink") [Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:Super_Junior巡迴演唱會](https://zh.wikipedia.org/wiki/Category:Super_Junior巡迴演唱會 "wikilink")
 
-1.  ["Super Junior gear up for 3rd tour of
-    Asia"](http://www.koreaherald.com/entertainment/Detail.jsp?newsMLId=20100608000631)
-    *Korea Herald*. 8 June 2010
+1.  ["Super Junior gear up for 3rd tour of Asia"](http://www.koreaherald.com/entertainment/Detail.jsp?newsMLId=20100608000631) *Korea Herald*. 8 June 2010
 2.
-3.  ["Super Junior to take Asia tour to Japan in
-    February"](http://www.asiae.co.kr/news/view.htm?idxno=2010110211193977307)
-    *10 Asia*. 22 November 2010
+3.  ["Super Junior to take Asia tour to Japan in February"](http://www.asiae.co.kr/news/view.htm?idxno=2010110211193977307) *10 Asia*. 22 November 2010

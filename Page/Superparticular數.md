@@ -4,9 +4,7 @@
 
 其中*n*為[正整數](https://zh.wikipedia.org/wiki/正整數 "wikilink")。
 
-Superparticular數是由在其著作《[算術簡介](https://zh.wikipedia.org/wiki/算術簡介 "wikilink")》〈Introduction
-to
-Arithmetic〉中提出，應用在[音樂理論及視覺和諧度的研究中](https://zh.wikipedia.org/wiki/音樂理論 "wikilink")。
+Superparticular數是由在其著作《[算術簡介](https://zh.wikipedia.org/wiki/算術簡介 "wikilink")》〈Introduction to Arithmetic〉中提出，應用在[音樂理論及視覺和諧度的研究中](https://zh.wikipedia.org/wiki/音樂理論 "wikilink")。
 
 ## 應用
 
@@ -110,16 +108,10 @@ Arithmetic〉中提出，應用在[音樂理論及視覺和諧度的研究中](h
 
 ## 外部連結
 
-  - [An Arithmetical
-    Rubric](https://web.archive.org/web/20120716192244/http://perso.club-internet.fr/daschour/micromegas/terpstra.html)：由Siemen
-    Terpstra所著，有關Superparticular數在和声上的應用
-  - [Superparticular
-    numbers](https://home.comcast.net/~dcanright/super/)：[David
-    Canright](https://home.comcast.net/~dcanright/)應用Superparticular數架構[五聲調式](https://zh.wikipedia.org/wiki/五聲調式 "wikilink")
-  - [*De Institutione Arithmetica, liber
-    II*](https://web.archive.org/web/20060805093809/http://www.music.indiana.edu/tml/6th-8th/BOEARI2_TEXT.html)：[波伊提烏所著](https://zh.wikipedia.org/wiki/波伊提烏 "wikilink")
+  - [An Arithmetical Rubric](https://web.archive.org/web/20120716192244/http://perso.club-internet.fr/daschour/micromegas/terpstra.html)：由Siemen Terpstra所著，有關Superparticular數在和声上的應用
+  - [Superparticular numbers](https://home.comcast.net/~dcanright/super/)：[David Canright](https://home.comcast.net/~dcanright/)應用Superparticular數架構[五聲調式](https://zh.wikipedia.org/wiki/五聲調式 "wikilink")
+  - [*De Institutione Arithmetica, liber II*](https://web.archive.org/web/20060805093809/http://www.music.indiana.edu/tml/6th-8th/BOEARI2_TEXT.html)：[波伊提烏所著](https://zh.wikipedia.org/wiki/波伊提烏 "wikilink")
 
-[Category:有理數](https://zh.wikipedia.org/wiki/Category:有理數 "wikilink")
-[Category:音樂理論](https://zh.wikipedia.org/wiki/Category:音樂理論 "wikilink")
+[Category:有理數](https://zh.wikipedia.org/wiki/Category:有理數 "wikilink") [Category:音樂理論](https://zh.wikipedia.org/wiki/Category:音樂理論 "wikilink")
 
 1.

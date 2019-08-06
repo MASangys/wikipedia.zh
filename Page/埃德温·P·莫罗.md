@@ -20,8 +20,7 @@
 
 1904年，莫罗获得任命，开始担任萨默塞特的市检察官，并一直任职到1908年\[29\]。1910年，总统威廉·霍华德·塔夫脱提名他担任[肯塔基东部联邦地区检察官](https://zh.wikipedia.org/wiki/美国肯塔基东部联邦地区法院 "wikilink")\[30\]，他从事这一工作一直到1913年总统伍德罗·威尔逊提名另一人选继任时止\[31\]\[32\]。
 
-[William_Bradley.jpg](https://zh.wikipedia.org/wiki/File:William_Bradley.jpg "fig:William_Bradley.jpg")
-1895年，莫罗参与了舅舅威廉··布拉德利竞选肯塔基州州长的竞选工作，这也是他初次涉足政坛\[33\]。1899年，共和党州长候选人[威廉·S·泰勒](https://zh.wikipedia.org/wiki/威廉·S·泰勒 "wikilink")（）提议让莫罗担任州务卿，以此换取布拉德利的支持，但遭后者拒绝\[34\]。1911年，莫罗的许多朋友都鼓励他参选州长，但他同样没有接受\[35\]。
+[William_Bradley.jpg](https://zh.wikipedia.org/wiki/File:William_Bradley.jpg "fig:William_Bradley.jpg") 1895年，莫罗参与了舅舅威廉··布拉德利竞选肯塔基州州长的竞选工作，这也是他初次涉足政坛\[33\]。1899年，共和党州长候选人[威廉·S·泰勒](https://zh.wikipedia.org/wiki/威廉·S·泰勒 "wikilink")（）提议让莫罗担任州务卿，以此换取布拉德利的支持，但遭后者拒绝\[34\]。1911年，莫罗的许多朋友都鼓励他参选州长，但他同样没有接受\[35\]。
 
 1912年，莫罗成为争夺肯塔基州联邦参议员托马斯·佩恩特（）席位的共和党候选人\[36\]。佩恩特决定不竞选连任，于是民主党提名了来自[克里坦登县的](https://zh.wikipedia.org/wiki/克里坦登县_\(肯塔基州\) "wikilink")[奥利·M·詹姆斯](https://zh.wikipedia.org/wiki/奥利·默里·詹姆斯 "wikilink")（）\[37\]。当时的[肯塔基州议会](../Page/肯塔基州议会.md "wikilink")以民主党人占绝对优势，并团结起来支持詹姆斯\[38\]，因此在两院的联合表决中，詹姆斯以105票对28票的压倒性优势轻松战胜莫罗\[39\]。由于规定联邦参议员不再由州议会选出，而是通过民众普选产生的[联邦宪法第十七条修正案在](../Page/美利坚合众国宪法第十七条修正案.md "wikilink")1913年通过，因此这也成为肯塔基州议会历史上最后一次选出联邦参议员\[40\]。
 
@@ -39,8 +38,7 @@
 
 莫罗敦促强制执行禁止携带隐藏式武器的法律，并对[三K党](../Page/三K党.md "wikilink")的活动设限\[68\]。他担任州长的第一年里只批准了100次赦免\[69\]，与前几任州长相比，这一数量都有大幅下滑。例如[J·C·W·贝克汉姆](../Page/J·C·W·贝克汉姆.md "wikilink")担任州长的第一年里共批准了350次赦免，[詹姆斯·B·麦克里](../Page/詹姆斯·B·麦克里.md "wikilink")在第二个州长任期的第一年里也批准了139次，而奥古斯塔斯·O·斯坦利则有257次\[70\]。莫罗还加入了[跨种族合作委员会](https://zh.wikipedia.org/wiki/跨种族合作委员会 "wikilink")（），该组织主要旨在消除[美国南部存在的种族暴力行径](https://zh.wikipedia.org/wiki/美国南部 "wikilink")\[71\]。
 
-[Lockett_mob.jpg](https://zh.wikipedia.org/wiki/File:Lockett_mob.jpg "fig:Lockett_mob.jpg")
-1920年2月9日，莫罗派遣肯塔基[国民警卫队前往列克星敦保护涉嫌谋杀罪名受审的](https://zh.wikipedia.org/wiki/国民警卫队 "wikilink")[一战退伍黑人老兵威尔](../Page/第一次世界大战.md "wikilink")·洛基特（）\[72\]。他这样告诉部队的指挥官：“你要尽一切可能让那个黑人由法律处理。要是他落入那些暴徒之手，那我也不期望能看到你活着回来”\[73\]。洛基特已经在没有[律师的情况下承认自己犯下了谋杀罪](https://zh.wikipedia.org/wiki/律师 "wikilink")\[74\]，案件审理只用了半个小时，他当庭认罪，请求不要判死刑，而判[终身监禁](https://zh.wikipedia.org/wiki/无期徒刑 "wikilink")\[75\]。但是，法庭作出的判决仍然是死刑，以[电椅执行](https://zh.wikipedia.org/wiki/电椅 "wikilink")\[76\]。
+[Lockett_mob.jpg](https://zh.wikipedia.org/wiki/File:Lockett_mob.jpg "fig:Lockett_mob.jpg") 1920年2月9日，莫罗派遣肯塔基[国民警卫队前往列克星敦保护涉嫌谋杀罪名受审的](https://zh.wikipedia.org/wiki/国民警卫队 "wikilink")[一战退伍黑人老兵威尔](../Page/第一次世界大战.md "wikilink")·洛基特（）\[72\]。他这样告诉部队的指挥官：“你要尽一切可能让那个黑人由法律处理。要是他落入那些暴徒之手，那我也不期望能看到你活着回来”\[73\]。洛基特已经在没有[律师的情况下承认自己犯下了谋杀罪](https://zh.wikipedia.org/wiki/律师 "wikilink")\[74\]，案件审理只用了半个小时，他当庭认罪，请求不要判死刑，而判[终身监禁](https://zh.wikipedia.org/wiki/无期徒刑 "wikilink")\[75\]。但是，法庭作出的判决仍然是死刑，以[电椅执行](https://zh.wikipedia.org/wiki/电椅 "wikilink")\[76\]。
 
 洛基特受审时，成千上万的暴民聚集在法庭外\[77\]，一名摄影师请其中的一大群人站到一起，一边大声呼喊，一边挥舞拳头，以便他能拍张照片\[78\]，其他暴民误以为这些人是要强攻法院，于是也冲上前去\[79\]。随之而来的混亂中有一位警察身受重伤，之后不得不截去手臂\[80\]。国民警卫队开了火，导致6人当场死亡，另有约50人受伤\[81\]。一些暴徒洗劫了附近的商铺，打算找到武器加以报复，不过到了午后已有附近的军队赶来支援\[82\]，在当地实行[戒严](../Page/戒严.md "wikilink")，此后也就没有持续出现进一步的暴力活动\[83\]。一个月后，洛基特在位于[埃迪维尔的](https://zh.wikipedia.org/wiki/埃迪维尔_\(肯塔基州\) "wikilink")[肯塔基州立监狱被处决](https://zh.wikipedia.org/wiki/肯塔基州立监狱 "wikilink")\[84\]。
 
@@ -73,16 +71,7 @@
   - [1907至1927年间的肯塔基州州长](https://web.archive.org/web/20110108071823/http://www.kdla.ky.gov/resources/KYGovernors_pg5.htm#Morrow)
   - [政治墓地页面简介](http://politicalgraveyard.com/bio/morrow.html#RG118IL0I)
 
-[Category:肯塔基州州长](https://zh.wikipedia.org/wiki/Category:肯塔基州州长 "wikilink")
-[Category:美国检察官](https://zh.wikipedia.org/wiki/Category:美国检察官 "wikilink")
-[Category:美國長老宗教徒](https://zh.wikipedia.org/wiki/Category:美國長老宗教徒 "wikilink")
-[Category:死於心肌梗死的人](https://zh.wikipedia.org/wiki/Category:死於心肌梗死的人 "wikilink")
-[Category:肯塔基州律师](https://zh.wikipedia.org/wiki/Category:肯塔基州律师 "wikilink")
-[Category:肯塔基州共和党人](https://zh.wikipedia.org/wiki/Category:肯塔基州共和党人 "wikilink")
-[Category:美西战争美国军事人物](https://zh.wikipedia.org/wiki/Category:美西战争美国军事人物 "wikilink")
-[Category:葬于法兰克福公墓](https://zh.wikipedia.org/wiki/Category:葬于法兰克福公墓 "wikilink")
-[Category:美國共和黨州長](https://zh.wikipedia.org/wiki/Category:美國共和黨州長 "wikilink")
-[Category:在美國出生的雙胞胎](https://zh.wikipedia.org/wiki/Category:在美國出生的雙胞胎 "wikilink")
+[Category:肯塔基州州长](https://zh.wikipedia.org/wiki/Category:肯塔基州州长 "wikilink") [Category:美国检察官](https://zh.wikipedia.org/wiki/Category:美国检察官 "wikilink") [Category:美國長老宗教徒](https://zh.wikipedia.org/wiki/Category:美國長老宗教徒 "wikilink") [Category:死於心肌梗死的人](https://zh.wikipedia.org/wiki/Category:死於心肌梗死的人 "wikilink") [Category:肯塔基州律师](https://zh.wikipedia.org/wiki/Category:肯塔基州律师 "wikilink") [Category:肯塔基州共和党人](https://zh.wikipedia.org/wiki/Category:肯塔基州共和党人 "wikilink") [Category:美西战争美国军事人物](https://zh.wikipedia.org/wiki/Category:美西战争美国军事人物 "wikilink") [Category:葬于法兰克福公墓](https://zh.wikipedia.org/wiki/Category:葬于法兰克福公墓 "wikilink") [Category:美國共和黨州長](https://zh.wikipedia.org/wiki/Category:美國共和黨州長 "wikilink") [Category:在美國出生的雙胞胎](https://zh.wikipedia.org/wiki/Category:在美國出生的雙胞胎 "wikilink")
 
 1.
 

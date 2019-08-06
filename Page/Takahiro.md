@@ -4,25 +4,17 @@
 
 沖縄空手道（日本武道館全國大會團體戰出場，獲得第五名）有段者。為了繼承雙親之事業從長崎縣美容専科学校畢業後有在美容室「MINX」實習的時期。也有當雜誌髮型模特兒的經驗。特技有空手道（黑帶-初段）、書道（八段）、喜歡繪畫和演歌，20歲左右開始常常晚上聽著演歌(主要聽前川清、五木宏)。
 
-參加了隨著SHUN的退團而舉辦的徵選「EXILE Vocal Battle Audition 2006〜ASIAN
-DREAM〜」，在2006年9月22日稱霸於[日本武道館](../Page/日本武道館.md "wikilink")舉行的最終審核，以新主唱、第7位成員的身分加入EXILE。
+參加了隨著SHUN的退團而舉辦的徵選「EXILE Vocal Battle Audition 2006〜ASIAN DREAM〜」，在2006年9月22日稱霸於[日本武道館](../Page/日本武道館.md "wikilink")舉行的最終審核，以新主唱、第7位成員的身分加入EXILE。
 
 2007年3月1日在TAKAHIRO的母校長崎縣立佐世保東翔高等學校的畢業典禮上舉行了驚喜現場演唱。
 
-2011年3月9日發行的EXILE專輯『[祈願之塔](../Page/祈願之塔.md "wikilink")』初回生產限量版翻唱專輯『[EXILE
-COVER](https://zh.wikipedia.org/wiki/祈願之塔#Cover_Album_『EXILE_COVER』\(初回生産限定盤收錄\) "wikilink")』收錄了初次個人獨唱歌曲「以心伝心」(翻唱曲)。
+2011年3月9日發行的EXILE專輯『[祈願之塔](../Page/祈願之塔.md "wikilink")』初回生產限量版翻唱專輯『[EXILE COVER](https://zh.wikipedia.org/wiki/祈願之塔#Cover_Album_『EXILE_COVER』\(初回生産限定盤收錄\) "wikilink")』收錄了初次個人獨唱歌曲「以心伝心」(翻唱曲)。
 
-2012年3月7日與TAKAHIRO參與JAPAN UNITED with MUSIC名義發售的單曲「All You Need Is
-Love」。4月14日開始的巨蛋巡迴演唱會「EXILE TRIBE LIVE TOUR 2012 〜TOWER OF
-WISH〜」中、不僅以EXILE身份參與，也以個人身份參與演出。同年，組成了搖滾樂隊「[ACE OF
-SPADES](https://zh.wikipedia.org/wiki/ACE_OF_SPADES "wikilink")」(黑桃ACE)。
+2012年3月7日與TAKAHIRO參與JAPAN UNITED with MUSIC名義發售的單曲「All You Need Is Love」。4月14日開始的巨蛋巡迴演唱會「EXILE TRIBE LIVE TOUR 2012 〜TOWER OF WISH〜」中、不僅以EXILE身份參與，也以個人身份參與演出。同年，組成了搖滾樂隊「[ACE OF SPADES](https://zh.wikipedia.org/wiki/ACE_OF_SPADES "wikilink")」(黑桃ACE)。
 
-2013年6月26日、以**EXILE
-TAKAHIRO**身份發行單曲「[一千零一秒](../Page/一千零一秒.md "wikilink")」作個人出道。
+2013年6月26日、以**EXILE TAKAHIRO**身份發行單曲「[一千零一秒](../Page/一千零一秒.md "wikilink")」作個人出道。
 
-2014年以1月開始的[日本電視台](../Page/日本電視台.md "wikilink")電視連續劇『[戰力外搜查官](../Page/戰力外搜查官.md "wikilink")』演員出道。3月5日，發行以自己有份參加演出『戰力外搜查官』的主題曲、第2張單曲「[Love
-Story](../Page/Love_Story_\(TAKAHIRO單曲\).md "wikilink")」。4月1日開始擔任富士電視台系列「[森田一義アワー
-笑っていいとも\!](https://zh.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")」的後續新節目『[バイキング](https://zh.wikipedia.org/wiki/バイキング_\(テレビ番組\) "wikilink")』星期二的司儀，由他及NAOTO每週交替擔當。
+2014年以1月開始的[日本電視台](../Page/日本電視台.md "wikilink")電視連續劇『[戰力外搜查官](../Page/戰力外搜查官.md "wikilink")』演員出道。3月5日，發行以自己有份參加演出『戰力外搜查官』的主題曲、第2張單曲「[Love Story](../Page/Love_Story_\(TAKAHIRO單曲\).md "wikilink")」。4月1日開始擔任富士電視台系列「[森田一義アワー 笑っていいとも\!](https://zh.wikipedia.org/wiki/森田一義アワー_笑っていいとも! "wikilink")」的後續新節目『[バイキング](https://zh.wikipedia.org/wiki/バイキング_\(テレビ番組\) "wikilink")』星期二的司儀，由他及NAOTO每週交替擔當。
 
 ## 人物
 
@@ -35,10 +27,8 @@ Story](../Page/Love_Story_\(TAKAHIRO單曲\).md "wikilink")」。4月1日開始�
 
 ## 参加團體
 
-  - [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（2006年9月22日 -
-    現在）
-  - [ACE OF
-    SPADES](https://zh.wikipedia.org/wiki/ACE_OF_SPADES "wikilink")（2012年）
+  - [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")（2006年9月22日 - 現在）
+  - [ACE OF SPADES](https://zh.wikipedia.org/wiki/ACE_OF_SPADES "wikilink")（2012年）
 
 ## 作品列表
 
@@ -78,9 +68,7 @@ Story](../Page/Love_Story_\(TAKAHIRO單曲\).md "wikilink")」。4月1日開始�
 
   -
     [19的翻唱曲](https://zh.wikipedia.org/wiki/19_\(音楽組合\) "wikilink")。
-    收錄於EXILE專輯『[祈願之塔](../Page/祈願之塔.md "wikilink")』的初回生産限定盤所附屬的翻唱專輯
-    『[EXILE
-    COVER](https://zh.wikipedia.org/wiki/祈願之塔#Cover_Album_『EXILE_COVER』\(初回生産限定盤收錄\) "wikilink")』。
+    收錄於EXILE專輯『[祈願之塔](../Page/祈願之塔.md "wikilink")』的初回生産限定盤所附屬的翻唱專輯 『[EXILE COVER](https://zh.wikipedia.org/wiki/祈願之塔#Cover_Album_『EXILE_COVER』\(初回生産限定盤收錄\) "wikilink")』。
 
 <!-- end list -->
 
@@ -89,8 +77,7 @@ Story](../Page/Love_Story_\(TAKAHIRO單曲\).md "wikilink")」。4月1日開始�
 <!-- end list -->
 
   -
-    收錄於EXILE專輯『[EXILE
-    JAPAN](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo#EXILE_JAPAN "wikilink")』。
+    收錄於EXILE專輯『[EXILE JAPAN](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo#EXILE_JAPAN "wikilink")』。
 
 ### 合作作品
 
@@ -100,8 +87,7 @@ Story](../Page/Love_Story_\(TAKAHIRO單曲\).md "wikilink")」。4月1日開始�
 
   -
     EXILE TAKAHIRO + NESMITH, SHOKICHI (二代目J Soul Brothers)的合作作品。
-    收錄於EXILE專輯『[EXILE ENTERTAINMENT
-    BEST](https://zh.wikipedia.org/wiki/EXILE_ENTERTAINMENT_BEST "wikilink")』
+    收錄於EXILE專輯『[EXILE ENTERTAINMENT BEST](https://zh.wikipedia.org/wiki/EXILE_ENTERTAINMENT_BEST "wikilink")』
 
 <!-- end list -->
 
@@ -111,8 +97,7 @@ Story](../Page/Love_Story_\(TAKAHIRO單曲\).md "wikilink")」。4月1日開始�
 
   -
     EXILE TAKAHIRO + NESMITH, SHOKICHI (二代目J Soul Brothers)的合作作品。
-    收錄於二代目 J Soul Brothers專輯『[J Soul
-    Brothers](../Page/J_Soul_Brothers_\(J_Soul_Brothers專輯\).md "wikilink")』。
+    收錄於二代目 J Soul Brothers專輯『[J Soul Brothers](../Page/J_Soul_Brothers_\(J_Soul_Brothers專輯\).md "wikilink")』。
 
 ### 参加作品
 
@@ -132,8 +117,7 @@ Story](../Page/Love_Story_\(TAKAHIRO單曲\).md "wikilink")」。4月1日開始�
   -
     EXILE ATSUSHI的作品。
     参與和聲部份。
-    EXILE專輯『[EXILE BEST HITS -LOVE
-    SIDE-](https://zh.wikipedia.org/wiki/EXILE_BEST_HITS_-LOVE_SIDE_/_SOUL_SIDE- "wikilink")』に收錄。
+    EXILE專輯『[EXILE BEST HITS -LOVE SIDE-](https://zh.wikipedia.org/wiki/EXILE_BEST_HITS_-LOVE_SIDE_/_SOUL_SIDE- "wikilink")』に收錄。
 
 ### 作詞
 
@@ -315,8 +299,7 @@ Story](../Page/Love_Story_\(TAKAHIRO單曲\).md "wikilink")」。4月1日開始�
 
 ## 演唱會
 
-  - EXILE TRIBE PERFECT YEAR 2014 SPECIAL STAGE “THE SURVIVAL”IN SAITAMA
-    SUPER ARENA 10DAYS
+  - EXILE TRIBE PERFECT YEAR 2014 SPECIAL STAGE “THE SURVIVAL”IN SAITAMA SUPER ARENA 10DAYS
       - 2014年6月16日 - 18日 埼玉・埼玉超級競技場
 
 ## 出演
@@ -325,29 +308,22 @@ Story](../Page/Love_Story_\(TAKAHIRO單曲\).md "wikilink")」。4月1日開始�
 
 ### 戲劇
 
-  - [戰力外搜查官](../Page/戰力外搜查官.md "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、2014年1月
-    - 3月） 飾演 設樂恭介
-  - [WILD
-    HEROES](https://zh.wikipedia.org/wiki/WILD_HEROES "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、2015年4月
-    - 6月）飾演 瀨川希一
-  - [HiGH\&LOW](https://zh.wikipedia.org/wiki/熱血街區 "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、2015年10月
-    - 12月 ）飾演 雨宮雅貴
+  - [戰力外搜查官](../Page/戰力外搜查官.md "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、2014年1月 - 3月） 飾演 設樂恭介
+  - [WILD HEROES](https://zh.wikipedia.org/wiki/WILD_HEROES "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、2015年4月 - 6月）飾演 瀨川希一
+  - [HiGH\&LOW](https://zh.wikipedia.org/wiki/熱血街區 "wikilink")（[日本電視台](../Page/日本電視台.md "wikilink")、2015年10月 - 12月 ）飾演 雨宮雅貴
       - HiGH\&LOW Season2（2016年4月 - 6月）
 
 ### 電影
 
-  - [HiGH\&LOW](https://zh.wikipedia.org/wiki/熱血街區 "wikilink")（[松竹](../Page/松竹.md "wikilink")）-
-    雨宮雅貴 役
+  - [HiGH\&LOW](https://zh.wikipedia.org/wiki/熱血街區 "wikilink")（[松竹](../Page/松竹.md "wikilink")）- 雨宮雅貴 役
       - ROAD TO HiGH\&LOW（2016年5月）
       - HiGH\&LOW THE MOVIE（2016年7月）
       - HiGH\&LOW THE RED RAIN（2016年10月）
 
 ### 電視節目
 
-  - [EX-LOUNGE](https://zh.wikipedia.org/wiki/EX-LOUNGE "wikilink")（[TBS電視](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")、2012年11月
-    - 2013年3月）
-  - [バイキング](https://zh.wikipedia.org/wiki/バイキング_\(テレビ番組\) "wikilink")（2014年4月1日
-    - 2015年3月17日、[富士電視台](../Page/富士電視台.md "wikilink")）※隔星期二主持
+  - [EX-LOUNGE](https://zh.wikipedia.org/wiki/EX-LOUNGE "wikilink")（[TBS電視](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")、2012年11月 - 2013年3月）
+  - [バイキング](https://zh.wikipedia.org/wiki/バイキング_\(テレビ番組\) "wikilink")（2014年4月1日 - 2015年3月17日、[富士電視台](../Page/富士電視台.md "wikilink")）※隔星期二主持
 
 ### CM
 
@@ -356,26 +332,19 @@ Story](../Page/Love_Story_\(TAKAHIRO單曲\).md "wikilink")」。4月1日開始�
   - [樂敦製藥](../Page/樂敦製藥.md "wikilink")「樂敦Z\!」（2010年3月 - 、2011年6月 - ）
   - 麒麟飲品「大人的麒麟檸檬」（2010年4月 - 、2011年6月 - ）
   - [明治製菓](../Page/明治製菓.md "wikilink")「明治牛奶巧克力」（2010年9月 - ）
-  - [富士通](../Page/富士通.md "wikilink")「[ARROWS](https://zh.wikipedia.org/wiki/ARROWS "wikilink")」（2011年9月
-    - ）
+  - [富士通](../Page/富士通.md "wikilink")「[ARROWS](https://zh.wikipedia.org/wiki/ARROWS "wikilink")」（2011年9月 - ）
   - GREE「聖戦Cerberus」（2011年11月 - ）
   - NTT Communications「050 plus」（2011年11月 - ）
   - 明治製菓「Dorea」（2011年12月 - ）
-  - [KOSÉ](../Page/高絲.md "wikilink") 「adidas skin protection」（2012年4月 -
-    ）
-  - 富士通「[FMV](https://zh.wikipedia.org/wiki/FMV "wikilink")」（2012年10月 -
-    ）
-  - 日本[可口可樂](https://zh.wikipedia.org/wiki/可口可樂 "wikilink")
-    「[零系可口可樂](../Page/零系可口可樂.md "wikilink")」（2013年）
+  - [KOSÉ](../Page/高絲.md "wikilink") 「adidas skin protection」（2012年4月 - ）
+  - 富士通「[FMV](https://zh.wikipedia.org/wiki/FMV "wikilink")」（2012年10月 - ）
+  - 日本[可口可樂](https://zh.wikipedia.org/wiki/可口可樂 "wikilink") 「[零系可口可樂](../Page/零系可口可樂.md "wikilink")」（2013年）
   - 第一興商「SmartDAM」（2013年6月 - ）
   - サマンサタバサ Samantha Thavasa meets SAMANTHA KINGZ (2014年2月 - )
-  - [洋服の青山](https://zh.wikipedia.org/wiki/洋服の青山 "wikilink")（2014年 -
-    2015年）
+  - [洋服の青山](https://zh.wikipedia.org/wiki/洋服の青山 "wikilink")（2014年 - 2015年）
   - 固力果「牧場しぼり」（2015年）
-  - 海外劇集 [Gotham](https://zh.wikipedia.org/wiki/Gotham "wikilink") 廣告歌
-    「いつかまた会えたら」（2015年7月）
-  - [三得利](../Page/三得利.md "wikilink")『[ザ・モルツ](https://zh.wikipedia.org/wiki/モルツ "wikilink")』（2015年9月
-    - ）\[11\]。
+  - 海外劇集 [Gotham](https://zh.wikipedia.org/wiki/Gotham "wikilink") 廣告歌 「いつかまた会えたら」（2015年7月）
+  - [三得利](../Page/三得利.md "wikilink")『[ザ・モルツ](https://zh.wikipedia.org/wiki/モルツ "wikilink")』（2015年9月 - ）\[11\]。
 
 ### 其他
 
@@ -385,28 +354,22 @@ Story](../Page/Love_Story_\(TAKAHIRO單曲\).md "wikilink")」。4月1日開始�
 
 ### 雜誌連載
 
-  - [MEN'S
-    NON-NO](https://zh.wikipedia.org/wiki/MEN'S_NON-NO "wikilink")
+  - [MEN'S NON-NO](https://zh.wikipedia.org/wiki/MEN'S_NON-NO "wikilink")
   - [Men's JOKER](https://zh.wikipedia.org/wiki/Men's_JOKER "wikilink")
 
 ## 備註
 
 ## 外部連結
 
-  - [TAKAHIRO｜PROFILE｜EXILE Official
-    Website](http://www.exile.jp/profile/profile_member.php?id=1000240)
+  - [TAKAHIRO｜PROFILE｜EXILE Official Website](http://www.exile.jp/profile/profile_member.php?id=1000240)
 
   -
 ## 相關項目
 
   - [EXILE](https://zh.wikipedia.org/wiki/EXILE "wikilink")
-  - [ACE OF
-    SPADES](https://zh.wikipedia.org/wiki/ACE_OF_SPADES "wikilink")
+  - [ACE OF SPADES](https://zh.wikipedia.org/wiki/ACE_OF_SPADES "wikilink")
 
-[Category:放浪兄弟](https://zh.wikipedia.org/wiki/Category:放浪兄弟 "wikilink")
-[Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink")
-[Category:長崎縣出身人物](https://zh.wikipedia.org/wiki/Category:長崎縣出身人物 "wikilink")
-[Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
+[Category:放浪兄弟](https://zh.wikipedia.org/wiki/Category:放浪兄弟 "wikilink") [Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink") [Category:長崎縣出身人物](https://zh.wikipedia.org/wiki/Category:長崎縣出身人物 "wikilink") [Category:LDH所屬藝人](https://zh.wikipedia.org/wiki/Category:LDH所屬藝人 "wikilink")
 
 1.  2011年3月27日播映的「[ひるザイル](https://zh.wikipedia.org/wiki/ひるザイル "wikilink")」
 2.  2012年11月20日播映的「[スター☆ドラフト会議](https://zh.wikipedia.org/wiki/スター☆ドラフト会議 "wikilink")」

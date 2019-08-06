@@ -1,5 +1,4 @@
-《**Consolation**》是[Kalafina](../Page/Kalafina.md "wikilink")的第4張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2013年3月20日由[SME
-Records發行](../Page/SME_Records.md "wikilink")。\[1\]
+《**Consolation**》是[Kalafina](../Page/Kalafina.md "wikilink")的第4張[音樂專輯](../Page/音樂專輯.md "wikilink")。於2013年3月20日由[SME Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 
 ## 收錄曲目
 
@@ -20,12 +19,9 @@ Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 7.  **signal** (4:56)
 8.  **obbligato** (6:12)
 9.  **木苺の茂みに（懸鉤子繁茂處）** (5:47)
-10. **[満天](https://zh.wikipedia.org/wiki/to_the_beginning "wikilink")**
-    (5:12)
+10. **[満天](https://zh.wikipedia.org/wiki/to_the_beginning "wikilink")** (5:12)
       - 電視動畫《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》第18、19話片尾曲
-11. **[to the
-    beginning](https://zh.wikipedia.org/wiki/to_the_beginning "wikilink")**
-    (4:16)
+11. **[to the beginning](https://zh.wikipedia.org/wiki/to_the_beginning "wikilink")** (4:16)
       - 電視動畫《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》第二期主題曲
 12. **[ひかりふる](../Page/聖光.md "wikilink")（聖光）** (4:53)
       - 動畫電影《[劇場版 魔法少女小圓［後篇］永遠的物語](../Page/劇場版_魔法少女小圓.md "wikilink")》主題曲
@@ -46,7 +42,6 @@ Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 
   - [Kalafina 官方網站](http://www.sonymusic.co.jp/Music/Info/kalafina/)
 
-[Category:Kalafina音樂專輯](https://zh.wikipedia.org/wiki/Category:Kalafina音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
+[Category:Kalafina音樂專輯](https://zh.wikipedia.org/wiki/Category:Kalafina音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
 
 1.  <http://www.sonymusic.co.jp/Music/Info/kalafina/disco/index.html>

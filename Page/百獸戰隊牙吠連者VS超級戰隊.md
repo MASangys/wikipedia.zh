@@ -71,8 +71,7 @@ VS系列</p></td>
 ### 變異人
 
   -
-    **亞敗柏／牙拜霸<small>｜**[坂口候一](https://zh.wikipedia.org/wiki/坂口候一 "wikilink")
-    聲</small>
+    **亞敗柏／牙拜霸<small>｜**[坂口候一](https://zh.wikipedia.org/wiki/坂口候一 "wikilink") 聲</small>
     **角角／婕婕<small>｜**[齋藤レイ](https://zh.wikipedia.org/wiki/齋藤レイ "wikilink")</small>
     **再生變異人軍團**
       -
@@ -85,8 +84,7 @@ VS系列</p></td>
 ### 本作原創人物
 
   -
-    **爆裂巨角·拉克夏薩／羅剎娑<small>｜**[飯塚昭三](../Page/飯塚昭三.md "wikilink")
-    聲</small>
+    **爆裂巨角·拉克夏薩／羅剎娑<small>｜**[飯塚昭三](../Page/飯塚昭三.md "wikilink") 聲</small>
       -
         連鐵特姆也畏懼三分的傳說中的變異人。由於其自身擁有的邪惡力量過於強大，弄傷了自己的頭角，因此長眠了數個世代。如今，再度甦醒了過來，將過剩的邪力傳給亞敗柏等人，使得牙吠連者們陷入苦戰中。此外，能製造使人進入的幻像空間，再從虛幻的敗北之中，趁機吸取「戰士的靈魂」的能力。不需變異人種子亦能自體巨大化。在遭到破邪百獸劍的斬擊後巨大化。靠著歷代戰隊的機器人的援助以及威力提升的百獸王使出「**天地共鳴·超級野獸之心**」將其打倒後，卻又靠著吸收亞敗柏和角角的邪惡衝動再度復活，最後，在感受到全體戰隊的靈魂之時，牙吠紅將超級戰隊之魂以[倒掛金鉤之姿](https://zh.wikipedia.org/wiki/倒掛金鉤 "wikilink")，使出大絕招－**牙吠連者風暴**，在大喊「怎麼可能－\!\!」後，羅剎娑粉碎。（當大家回到百獸堂時準備和鐵特姆報告戰果時，鐵特姆大喊不可能，還認為是自己做了個拉克夏薩復活的夢。）
 
@@ -96,43 +94,24 @@ VS系列</p></td>
 
 『**燃燒\! 超級戰隊之魂**』
 
-  - <small>作詞：[桑原永江](https://zh.wikipedia.org/wiki/桑原永江 "wikilink") /
-    作曲・編曲：[龜山耕一郎](https://zh.wikipedia.org/wiki/龜山耕一郎 "wikilink")
-    /
-    歌：[堀江美都子](../Page/堀江美都子.md "wikilink")、[水木一郎](../Page/水木一郎.md "wikilink")</small>
+  - <small>作詞：[桑原永江](https://zh.wikipedia.org/wiki/桑原永江 "wikilink") / 作曲・編曲：[龜山耕一郎](https://zh.wikipedia.org/wiki/龜山耕一郎 "wikilink") / 歌：[堀江美都子](../Page/堀江美都子.md "wikilink")、[水木一郎](../Page/水木一郎.md "wikilink")</small>
 
 ### 插曲
 
   - 「[セクシャル・レディ](https://zh.wikipedia.org/wiki/セクシャル・レディ "wikilink")」
-    作詞：[吉田健美](https://zh.wikipedia.org/wiki/吉田健美 "wikilink") /
-    作曲：[加瀬邦彦](https://zh.wikipedia.org/wiki/加瀬邦彦 "wikilink")
-    / 編曲：[田中公平](../Page/田中公平.md "wikilink")/ 歌：石渡マキ
+    作詞：[吉田健美](https://zh.wikipedia.org/wiki/吉田健美 "wikilink") / 作曲：[加瀬邦彦](https://zh.wikipedia.org/wiki/加瀬邦彦 "wikilink") / 編曲：[田中公平](../Page/田中公平.md "wikilink")/ 歌：石渡マキ
   - 「[青春サーキット](https://zh.wikipedia.org/wiki/青春サーキット "wikilink")」
-    作詞：洲崎千恵子 / 作曲・編曲：出口雅生 /
-    歌：[朝川ひろこ](https://zh.wikipedia.org/wiki/朝川ひろこ "wikilink")
-  - 「[Blue
-    Togetherness](https://zh.wikipedia.org/wiki/Blue_Togetherness "wikilink")」
-    作詞：[冬杜花代子](https://zh.wikipedia.org/wiki/冬杜花代子 "wikilink") /
-    作曲・編曲：[矢野立美](https://zh.wikipedia.org/wiki/矢野立美 "wikilink")
-    / 歌：[宮内タカユキ](https://zh.wikipedia.org/wiki/宮内タカユキ "wikilink")
+    作詞：洲崎千恵子 / 作曲・編曲：出口雅生 / 歌：[朝川ひろこ](https://zh.wikipedia.org/wiki/朝川ひろこ "wikilink")
+  - 「[Blue Togetherness](https://zh.wikipedia.org/wiki/Blue_Togetherness "wikilink")」
+    作詞：[冬杜花代子](https://zh.wikipedia.org/wiki/冬杜花代子 "wikilink") / 作曲・編曲：[矢野立美](https://zh.wikipedia.org/wiki/矢野立美 "wikilink") / 歌：[宮内タカユキ](https://zh.wikipedia.org/wiki/宮内タカユキ "wikilink")
   - 「[俺のハートは夢じかけ](https://zh.wikipedia.org/wiki/俺のハートは夢じかけ "wikilink")」
-    作詞：[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink") /
-    作曲・編曲：[京建輔](https://zh.wikipedia.org/wiki/京建輔 "wikilink")
-    / 歌：[MoJo](https://zh.wikipedia.org/wiki/MoJo "wikilink")
-  - 「[心よ
-    しなやかに舞え\!](https://zh.wikipedia.org/wiki/心よ_しなやかに舞え! "wikilink")」
-    作詞：[松本一起](https://zh.wikipedia.org/wiki/松本一起 "wikilink") /
-    作曲：[小杉保夫](https://zh.wikipedia.org/wiki/小杉保夫 "wikilink")
-    / 編曲：[米光亮](https://zh.wikipedia.org/wiki/米光亮 "wikilink") /
-    歌：[佐藤健太](https://zh.wikipedia.org/wiki/佐藤健太 "wikilink")、[こおろぎ'73](https://zh.wikipedia.org/wiki/こおろぎ'73 "wikilink")
+    作詞：[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink") / 作曲・編曲：[京建輔](https://zh.wikipedia.org/wiki/京建輔 "wikilink") / 歌：[MoJo](https://zh.wikipedia.org/wiki/MoJo "wikilink")
+  - 「[心よ しなやかに舞え\!](https://zh.wikipedia.org/wiki/心よ_しなやかに舞え! "wikilink")」
+    作詞：[松本一起](https://zh.wikipedia.org/wiki/松本一起 "wikilink") / 作曲：[小杉保夫](https://zh.wikipedia.org/wiki/小杉保夫 "wikilink") / 編曲：[米光亮](https://zh.wikipedia.org/wiki/米光亮 "wikilink") / 歌：[佐藤健太](https://zh.wikipedia.org/wiki/佐藤健太 "wikilink")、[こおろぎ'73](https://zh.wikipedia.org/wiki/こおろぎ'73 "wikilink")
   - 「[夢の翼を](https://zh.wikipedia.org/wiki/夢の翼を "wikilink")」
-    作詞：[山川啓介](https://zh.wikipedia.org/wiki/山川啓介 "wikilink") /
-    作曲：[渡辺宙明](https://zh.wikipedia.org/wiki/渡辺宙明 "wikilink")
-    / 編曲：[いちひさし](https://zh.wikipedia.org/wiki/武市昌久 "wikilink") /
-    歌：[串田アキラ](https://zh.wikipedia.org/wiki/串田アキラ "wikilink")
+    作詞：[山川啓介](https://zh.wikipedia.org/wiki/山川啓介 "wikilink") / 作曲：[渡辺宙明](https://zh.wikipedia.org/wiki/渡辺宙明 "wikilink") / 編曲：[いちひさし](https://zh.wikipedia.org/wiki/武市昌久 "wikilink") / 歌：[串田アキラ](https://zh.wikipedia.org/wiki/串田アキラ "wikilink")
   - 「[超獣戦隊ライブマン](https://zh.wikipedia.org/wiki/超獣戦隊ライブマン "wikilink")」
-    作詞：[大津あきら](https://zh.wikipedia.org/wiki/大津あきら "wikilink") / 作曲：小杉保夫
-    / 編曲：藤田大土 / 歌：[嶋大輔](https://zh.wikipedia.org/wiki/嶋大輔 "wikilink")
+    作詞：[大津あきら](https://zh.wikipedia.org/wiki/大津あきら "wikilink") / 作曲：小杉保夫 / 編曲：藤田大土 / 歌：[嶋大輔](https://zh.wikipedia.org/wiki/嶋大輔 "wikilink")
   - 「[五つの心でファイブロボ](https://zh.wikipedia.org/wiki/五つの心でファイブロボ "wikilink")」（インストゥルメンタル）
     作曲：小杉保夫 / 編曲：吉田明彦
 
@@ -145,8 +124,7 @@ VS系列</p></td>
   - 音楽：中川幸太郎
   - 動作監督：竹田道弘
   - 製作：朝日電視、東映錄像、東映
-  - 旁白：[增岡弘](../Page/增岡弘.md "wikilink")（日）/
-    [魏伯勤](../Page/魏伯勤.md "wikilink")（台）
+  - 旁白：[增岡弘](../Page/增岡弘.md "wikilink")（日）/ [魏伯勤](../Page/魏伯勤.md "wikilink")（台）
 
 ## 外部連結
 

@@ -1,5 +1,4 @@
-**DMR**為加拿大[IMAX](../Page/IMAX.md "wikilink")公司的專利—Digital Media
-Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位拷貝交給IMAX公司，然後IMAX公司以最高解析度掃描每個畫格，再對每幅畫面進行銳化以及降噪（由於商業電影基本上都使用2K\~4K解析度攝影機拍攝，經過此手續才能將電影投射至巨型銀幕上，否則畫面顆粒感與畫面躁動會相當嚴重），最後沖印在70毫米底片或是數位拷貝上。
+**DMR**為加拿大[IMAX](../Page/IMAX.md "wikilink")公司的專利—Digital Media Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位拷貝交給IMAX公司，然後IMAX公司以最高解析度掃描每個畫格，再對每幅畫面進行銳化以及降噪（由於商業電影基本上都使用2K\~4K解析度攝影機拍攝，經過此手續才能將電影投射至巨型銀幕上，否則畫面顆粒感與畫面躁動會相當嚴重），最後沖印在70毫米底片或是數位拷貝上。
 
 ## IMAX DMR的影片
 
@@ -1837,7 +1836,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/復仇者聯盟：終局之戰" title="wikilink">復仇者聯盟：終局之戰</a></p></td>
+<td><p><a href="../Page/復仇者聯盟：終局之戰.md" title="wikilink">復仇者聯盟：終局之戰</a></p></td>
 <td><p>2019年4月26日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。全片使用数字Arri Alexa IMAX摄影机拍摄</p></td>
 </tr>

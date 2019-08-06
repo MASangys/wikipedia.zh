@@ -1,5 +1,4 @@
-『**Gara Gara
-GO\!\!**』（）是[BIGBANG在日本的第](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")2張單曲。
+『**Gara Gara GO\!\!**』（）是[BIGBANG在日本的第](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")2張單曲。
 
 ## 解説
 
@@ -41,7 +40,4 @@ GO\!\!**』（）是[BIGBANG在日本的第](https://zh.wikipedia.org/wiki/BIGBA
 3.  **So Beautful**
       - 作詞:BIGBANG・PERRY BORJA/作曲:BIGBANG・PERRY BORJA・BRAVE BROVAS
 
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
-[Category:日本唱片大獎最優秀新人獎獲獎歌曲](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎歌曲 "wikilink")
-[Category:BIGBANG單曲](https://zh.wikipedia.org/wiki/Category:BIGBANG單曲 "wikilink")
+[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink") [Category:日本唱片大獎最優秀新人獎獲獎歌曲](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎歌曲 "wikilink") [Category:BIGBANG單曲](https://zh.wikipedia.org/wiki/Category:BIGBANG單曲 "wikilink")

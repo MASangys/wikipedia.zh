@@ -2,10 +2,7 @@
 
 ## 團體資料
 
-團名「N.Flying」是結合「NEW」和「Flying」這兩字，意指「New Escape」或「New
-Wing」。粉絲名是結合「N.Flying」及烏托邦的英文「Utopia」而成的「**N.Fia**」\[1\]。沒有官方應援物，隨打歌的歌曲主題不同而有所變化，Hot
-Potato的應援物是馬鈴薯 \[2\]，How R U today時的是紙飛機，Rooftop的是星星燈，Spring
-Memories則是白色紙風車。
+團名「N.Flying」是結合「NEW」和「Flying」這兩字，意指「New Escape」或「New Wing」。粉絲名是結合「N.Flying」及烏托邦的英文「Utopia」而成的「**N.Fia**」\[1\]。沒有官方應援物，隨打歌的歌曲主題不同而有所變化，Hot Potato的應援物是馬鈴薯 \[2\]，How R U today時的是紙飛機，Rooftop的是星星燈，Spring Memories則是白色紙風車。
 
 ## 成員資料
 
@@ -22,10 +19,7 @@ Memories則是白色紙風車。
 
 ### 成員變遷表
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500
-height:300 left:125 bottom:35 Alignbars = justify DateFormat =
-mm/dd/yyyy Period = from:2015 till:2019 TimeAxis =
-orientation:horizontal format:mm/yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2015 till:2019 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -71,9 +65,7 @@ PlotData =
 
 **[李承協](https://zh.wikipedia.org/wiki/李承協 "wikilink")**
 
-藝名為J.DON。2010年，進入[FNC娛樂](../Page/FNC娛樂.md "wikilink")當練習生。2013年，出演[Juniel](../Page/Juniel.md "wikilink")《Pretty
-Boy》MV。2015年4月28日，與[AOA](../Page/AOA.md "wikilink")[智珉](../Page/智珉.md "wikilink")發行單曲《N
-PROJECT\#1》。
+藝名為J.DON。2010年，進入[FNC娛樂](../Page/FNC娛樂.md "wikilink")當練習生。2013年，出演[Juniel](../Page/Juniel.md "wikilink")《Pretty Boy》MV。2015年4月28日，與[AOA](../Page/AOA.md "wikilink")[智珉](../Page/智珉.md "wikilink")發行單曲《N PROJECT\#1》。
 
 **[車勳](https://zh.wikipedia.org/wiki/車勳 "wikilink")**
 
@@ -85,49 +77,37 @@ PROJECT\#1》。
 
 **[柳會勝](https://zh.wikipedia.org/wiki/柳會勝 "wikilink")**
 
-2016年，進入[FNC娛樂](../Page/FNC娛樂.md "wikilink")當練習生。2017年4月7日，出演《[Produce
-101
-S2](../Page/PRODUCE_101_第二季.md "wikilink")》，最終排名第39。2017年6月20日，正式加入N.Flying。
+2016年，進入[FNC娛樂](../Page/FNC娛樂.md "wikilink")當練習生。2017年4月7日，出演《[Produce 101 S2](../Page/PRODUCE_101_第二季.md "wikilink")》，最終排名第39。2017年6月20日，正式加入N.Flying。
 
 ### 獨立樂團時期
 
-2013年，N.Flying於韓國正式出道前，以獨立樂團方式在[日本](../Page/日本.md "wikilink")展開活動。\[3\]先後推出了單曲《BASKET》及《One
-and Only》。
+2013年，N.Flying於韓國正式出道前，以獨立樂團方式在[日本](../Page/日本.md "wikilink")展開活動。\[3\]先後推出了單曲《BASKET》及《One and Only》。
 
 ### 2015年
 
-5月11日，零時[FNC娛樂透過官方臉書宣布](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")
-N.Flying 將於5月20日推出首張迷你專輯《Awesome》正式出道，並公開團體概念照。\[4\]
+5月11日，零時[FNC娛樂透過官方臉書宣布](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink") N.Flying 將於5月20日推出首張迷你專輯《Awesome》正式出道，並公開團體概念照。\[4\]
 
 ### 2016年
 
 ### 2017年
 
-6月20日，[FNC娛樂](../Page/FNC娛樂.md "wikilink")於官網發出公告表示曾出演[Mnet選秀節目](../Page/Mnet媒體.md "wikilink")《[Produce
-101
-S2](../Page/PRODUCE_101_第二季.md "wikilink")》的[柳會勝正式加入N](https://zh.wikipedia.org/wiki/柳會勝 "wikilink").Flying，成為樂團第五位成員。\[5\]
+6月20日，[FNC娛樂](../Page/FNC娛樂.md "wikilink")於官網發出公告表示曾出演[Mnet選秀節目](../Page/Mnet媒體.md "wikilink")《[Produce 101 S2](../Page/PRODUCE_101_第二季.md "wikilink")》的[柳會勝正式加入N](https://zh.wikipedia.org/wiki/柳會勝 "wikilink").Flying，成為樂團第五位成員。\[5\]
 
 ### 2018年
 
-12月24日，經歷前成員光珍退團，回歸四人體制發行「N.Flying FLY HIGH
-PROJECT」企劃第二張數位單曲《Rooftop》，在官方群網站上公開了一張預告照。\[6\]
+12月24日，經歷前成員光珍退團，回歸四人體制發行「N.Flying FLY HIGH PROJECT」企劃第二張數位單曲《Rooftop》，在官方群網站上公開了一張預告照。\[6\]
 
-12月29日，公開風格概念照，並宣布明年1月19日於麻浦區西橋洞 MUV-Hall 舉辦《N.Flying FLY HIGH PROJECT
-NOTE2. 2019》演唱會。\[7\]12月30日，公開成員個人概念照、首波MV預告。\[8\]\[9\]
+12月29日，公開風格概念照，並宣布明年1月19日於麻浦區西橋洞 MUV-Hall 舉辦《N.Flying FLY HIGH PROJECT NOTE2. 2019》演唱會。\[7\]12月30日，公開成員個人概念照、首波MV預告。\[8\]\[9\]
 
 ### 2019年
 
-1月1日，公開第二波MV預告。\[10\]1月2日，韓國時間下午6時，公開第二張數位單曲《FLY HIGH PROJECT \#2
-'ROOFTOP》及主打歌《Rooftop》。
+1月1日，公開第二波MV預告。\[10\]1月2日，韓國時間下午6時，公開第二張數位單曲《FLY HIGH PROJECT \#2 'ROOFTOP》及主打歌《Rooftop》。
 
-2月17日，韓國時間零點整，《Rooftop》突逆襲進入Melon實時榜第97名。
-\[11\]\[12\]2月19日，N.Flying憑藉《Rooftop》首次獲得音源榜單Bugs實時榜1位。\[13\]2月25日，韓國時間凌晨0點，《Rooftop》在Melon實時榜成功攻下第1名。\[14\]\[15\]《Rooftop》亦獲得Melon,Mnet,Soribada,Genie
-四榜月榜一位。
+2月17日，韓國時間零點整，《Rooftop》突逆襲進入Melon實時榜第97名。 \[11\]\[12\]2月19日，N.Flying憑藉《Rooftop》首次獲得音源榜單Bugs實時榜1位。\[13\]2月25日，韓國時間凌晨0點，《Rooftop》在Melon實時榜成功攻下第1名。\[14\]\[15\]《Rooftop》亦獲得Melon,Mnet,Soribada,Genie 四榜月榜一位。
 
 3月5日，因音源逆襲一位而重返音樂節目打歌，出道1385天在《THE SHOW》拿下一位，3月17日，於《人氣歌謠》拿下第二個一位。
 
-4月16日，[FNC娛樂](../Page/FNC娛樂.md "wikilink")宣布24日將發行第五張迷你專輯《Spring
-Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱會。\[16\]
+4月16日，[FNC娛樂](../Page/FNC娛樂.md "wikilink")宣布24日將發行第五張迷你專輯《Spring Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱會。\[16\]
 
 4月17日，公開成員個人概念照、首波MV預告。\[17\]4月18日起，陸續公開第二波MV預告、個人概念照、釋出專輯亮點集錦。\[18\]\[19\]\[20\]
 
@@ -363,7 +343,8 @@ Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱�
 | 網路劇                                                         | 世上的所有戀愛第三季                                          | 李承協                                    | 男主角         |         |        |
 | 2018年                                                       | Luv pub                                             | 泰瑞                                     |             |         |        |
 | 2019年                                                       | [MBN](https://zh.wikipedia.org/wiki/MBN "wikilink") | [最棒的炸雞](../Page/最棒的炸雞.md "wikilink")   | 朴俊赫         | 男配角     |        |
-|                                                             |                                                     |                                        |             |         |        |
+| 網路劇                                                         | 啊，因為男高所以幸福                                          | 韓聖峰                                    | 男主角         |         |        |
+| 金宰鉉                                                         | 金南久                                                 |                                        |             |         |        |
 
 ### 主持
 
@@ -659,6 +640,8 @@ Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱�
 | 2019年5月25日 | 新加坡站  | HallyuPopFest 2019                           | 新加坡室內體育館                     |
 | 2019年6月29日 | 曼谷站   | N.Flying 2019 Live‘UP ALL NIGHT’in BANGKOK   | ULTRA ARENA HALL - SHOW D.C. |
 | 2019年8月10日 | 香港站   | N.Flying 2019 Live‘UP ALL NIGHT’in Hong Kong | 亞洲國際博覽館                      |
+| 2019年9月01日 | 馬尼拉站  | N.Flying 2019 Live‘UP ALL NIGHT’in MANILA    | New Frontier Theater         |
+| 2019年9月15日 | 台北站   | 2019 N.Flying Live‘UP ALL NIGHT’in TAIPEI    | 大直ATT SHOW BOX               |
 | 2019年9月22日 | 巴黎站   | N.Flying 2019 Live‘UP ALL NIGHT’in PARIS     | Le Bataclan                  |
 
 ### FNC KINGDOM家族演唱會
@@ -701,8 +684,10 @@ Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱�
 </ul></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td><p>2019</p></td>
+<td><ul>
+<li>2019 韓國年度品牌大獎－年度Idol Band獎</li>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -853,11 +838,7 @@ Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱�
   - 金宰鉉
   - 柳會勝
 
-[Category:N.Flying](https://zh.wikipedia.org/wiki/Category:N.Flying "wikilink")
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
+[Category:N.Flying](https://zh.wikipedia.org/wiki/Category:N.Flying "wikilink") [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
 
 1.
 2.
@@ -870,8 +851,7 @@ Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱�
 9.
 10.
 11.
-12.
-    ETtoday星光雲|url=[https://star.ettoday.net/news/1381108|work=star.ettoday.net|accessdate=|language=zh-Hant|last=ETtoday新聞雲|author=|date=|publisher=](https://star.ettoday.net/news/1381108%7Cwork=star.ettoday.net%7Caccessdate=%7Clanguage=zh-Hant%7Clast=ETtoday新聞雲%7Cauthor=%7Cdate=%7Cpublisher=)}}
+12.  ETtoday星光雲|url=[https://star.ettoday.net/news/1381108|work=star.ettoday.net|accessdate=|language=zh-Hant|last=ETtoday新聞雲|author=|date=|publisher=](https://star.ettoday.net/news/1381108%7Cwork=star.ettoday.net%7Caccessdate=%7Clanguage=zh-Hant%7Clast=ETtoday新聞雲%7Cauthor=%7Cdate=%7Cpublisher=)}}
 13.
 14.
 15.

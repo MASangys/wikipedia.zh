@@ -1,6 +1,4 @@
-《**Peace Of
-Mind**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")成员[稻叶浩志第三张个人录音室专辑](https://zh.wikipedia.org/wiki/稻叶浩志 "wikilink")，2004年9月22日由[VERMILLION
-RECORDS于日本发行](../Page/Being_\(公司\).md "wikilink")。\[1\]
+《**Peace Of Mind**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")成员[稻叶浩志第三张个人录音室专辑](https://zh.wikipedia.org/wiki/稻叶浩志 "wikilink")，2004年9月22日由[VERMILLION RECORDS于日本发行](../Page/Being_\(公司\).md "wikilink")。\[1\]
 總銷量約29.9萬張。
 
 ## 簡介
@@ -34,10 +32,7 @@ RECORDS于日本发行](../Page/Being_\(公司\).md "wikilink")。\[1\]
 
 ## 参考文献
 
-[Category:稻葉浩志音樂專輯](https://zh.wikipedia.org/wiki/Category:稻葉浩志音樂專輯 "wikilink")
-[Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink")
-[Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink")
-[Category:2004年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:稻葉浩志音樂專輯](https://zh.wikipedia.org/wiki/Category:稻葉浩志音樂專輯 "wikilink") [Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink") [Category:2004年音樂專輯](https://zh.wikipedia.org/wiki/Category:2004年音樂專輯 "wikilink") [Category:2004年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.

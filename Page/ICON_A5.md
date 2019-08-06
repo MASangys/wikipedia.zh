@@ -1,12 +1,8 @@
-**ICON A5**[飞机是一种由美国ICON](https://zh.wikipedia.org/wiki/飞机 "wikilink")
-Aircraft飞机公司研制的两栖轻型运动飞机。\[1\]第一架概念机已于2008年首飞，但尚未开展[批量生产](https://zh.wikipedia.org/wiki/批量生产 "wikilink")
+**ICON A5**[飞机是一种由美国ICON](https://zh.wikipedia.org/wiki/飞机 "wikilink") Aircraft飞机公司研制的两栖轻型运动飞机。\[1\]第一架概念机已于2008年首飞，但尚未开展[批量生产](https://zh.wikipedia.org/wiki/批量生产 "wikilink")
 
 ## 设计
 
-[Icon_A5_Sea_Plane.jpg](https://zh.wikipedia.org/wiki/File:Icon_A5_Sea_Plane.jpg "fig:Icon_A5_Sea_Plane.jpg")设计中结合了[汽车](../Page/汽车.md "wikilink")的内装元素\]\]
-A5是一架[上单翼](https://zh.wikipedia.org/wiki/上单翼 "wikilink")，[船底的](https://zh.wikipedia.org/wiki/船底 "wikilink")[两栖飞机](https://zh.wikipedia.org/wiki/两栖飞机 "wikilink")。该机拥有[碳纤维补强的机身以及收放式](https://zh.wikipedia.org/wiki/碳纤维 "wikilink")[起落架](../Page/起落架.md "wikilink")，驾驶舱内最多可坐下两人。同时使用一具100[马力](https://zh.wikipedia.org/wiki/马力 "wikilink")（约75[千瓦](https://zh.wikipedia.org/wiki/瓦 "wikilink")）的Rotax
-912iS引擎带动一只后置[推力浆](https://zh.wikipedia.org/wiki/螺旋桨 "wikilink")。采用了[Dornier](https://zh.wikipedia.org/wiki/Dornier_Flugzeugwerke "wikilink")
-风格的[船舷以提供流体力学上的稳定性](https://zh.wikipedia.org/wiki/船舷 "wikilink")，同时给起落架提供收纳空间，也方便乘员上下机。机翼则可以折叠起来方便运输以及存放。\[2\][航电设备中包含一个](https://zh.wikipedia.org/wiki/航电 "wikilink")[通用航空](../Page/通用航空.md "wikilink")中比较罕见的[迎角指示器](https://zh.wikipedia.org/wiki/迎角 "wikilink")。还可以选装整机用[降落伞](../Page/降落伞.md "wikilink")。\[3\]
+[Icon_A5_Sea_Plane.jpg](https://zh.wikipedia.org/wiki/File:Icon_A5_Sea_Plane.jpg "fig:Icon_A5_Sea_Plane.jpg")设计中结合了[汽车](../Page/汽车.md "wikilink")的内装元素\]\] A5是一架[上单翼](https://zh.wikipedia.org/wiki/上单翼 "wikilink")，[船底的](https://zh.wikipedia.org/wiki/船底 "wikilink")[两栖飞机](https://zh.wikipedia.org/wiki/两栖飞机 "wikilink")。该机拥有[碳纤维补强的机身以及收放式](https://zh.wikipedia.org/wiki/碳纤维 "wikilink")[起落架](../Page/起落架.md "wikilink")，驾驶舱内最多可坐下两人。同时使用一具100[马力](https://zh.wikipedia.org/wiki/马力 "wikilink")（约75[千瓦](https://zh.wikipedia.org/wiki/瓦 "wikilink")）的Rotax 912iS引擎带动一只后置[推力浆](https://zh.wikipedia.org/wiki/螺旋桨 "wikilink")。采用了[Dornier](https://zh.wikipedia.org/wiki/Dornier_Flugzeugwerke "wikilink") 风格的[船舷以提供流体力学上的稳定性](https://zh.wikipedia.org/wiki/船舷 "wikilink")，同时给起落架提供收纳空间，也方便乘员上下机。机翼则可以折叠起来方便运输以及存放。\[2\][航电设备中包含一个](https://zh.wikipedia.org/wiki/航电 "wikilink")[通用航空](../Page/通用航空.md "wikilink")中比较罕见的[迎角指示器](https://zh.wikipedia.org/wiki/迎角 "wikilink")。还可以选装整机用[降落伞](../Page/降落伞.md "wikilink")。\[3\]
 
 ## 发展
 
@@ -17,8 +13,7 @@ A5是一架[上单翼](https://zh.wikipedia.org/wiki/上单翼 "wikilink")，[�
 
 ## 參考注釋
 
-[Category:水陸兩棲飛機](https://zh.wikipedia.org/wiki/Category:水陸兩棲飛機 "wikilink")
-[Category:ICON飛機](https://zh.wikipedia.org/wiki/Category:ICON飛機 "wikilink")
+[Category:水陸兩棲飛機](https://zh.wikipedia.org/wiki/Category:水陸兩棲飛機 "wikilink") [Category:ICON飛機](https://zh.wikipedia.org/wiki/Category:ICON飛機 "wikilink")
 
 1.
 

@@ -18,6 +18,4 @@ Texmaker包含支持[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")�
 
   - [Texmaker官方主頁](http://www.xm1math.net/texmaker/)
 
-[Category:TeX](https://zh.wikipedia.org/wiki/Category:TeX "wikilink")
-[Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink")
-[Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
+[Category:TeX](https://zh.wikipedia.org/wiki/Category:TeX "wikilink") [Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")

@@ -1,13 +1,10 @@
-《**Wake
-Up**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[倪安東](../Page/倪安東.md "wikilink")的第二張國語專輯。這大碟在2012年1月18日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，並在2月24日推出，首波主打歌曲是《一覺醒來》，第二波主打歌曲則是《失敗的分手》，第三波主打歌曲則是《Wake
-Up》。
+《**Wake Up**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[倪安東](../Page/倪安東.md "wikilink")的第二張國語專輯。這大碟在2012年1月18日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，並在2月24日推出，首波主打歌曲是《一覺醒來》，第二波主打歌曲則是《失敗的分手》，第三波主打歌曲則是《Wake Up》。
 
 ## 曲目
 
 ## 唱片版本
 
-  - 預購版，附送《[愛的麵包魂](../Page/愛的麵包魂.md "wikilink")》預告片及主題曲《You Are My
-    Baby》音樂錄影帶的DVD、《You Are My Baby》單曲CD及杯墊\[2\]
+  - 預購版，附送《[愛的麵包魂](../Page/愛的麵包魂.md "wikilink")》預告片及主題曲《You Are My Baby》音樂錄影帶的DVD、《You Are My Baby》單曲CD及杯墊\[2\]
   - 正式版
 
 ## 音樂錄影帶
@@ -342,15 +339,9 @@ Up》。
 
 </div>
 
-[Category:倪安東音樂專輯](https://zh.wikipedia.org/wiki/Category:倪安東音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
+[Category:倪安東音樂專輯](https://zh.wikipedia.org/wiki/Category:倪安東音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
 
-1.  [倪安東［wake up］第二張個人專輯 - Sky
-    Music](http://skymusic.com.hk/?p=27469)，2012年9月4日 (四) 18:00
-    (UTC+8)查閱
+1.  [倪安東［wake up］第二張個人專輯 - Sky Music](http://skymusic.com.hk/?p=27469)，2012年9月4日 (四) 18:00 (UTC+8)查閱
 
 2.
-3.  [my903.com -
-    叱咤正在普選](http://www.my903.com/my903/my903SongElection/main.jsp?id=2784)，2012年9月4日
-    (二) 18:45 (UTC+8)查閱
+3.  [my903.com - 叱咤正在普選](http://www.my903.com/my903/my903SongElection/main.jsp?id=2784)，2012年9月4日 (二) 18:45 (UTC+8)查閱

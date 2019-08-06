@@ -12,8 +12,7 @@
 
 ## 歷史
 
-  - 1990年7月31日 -
-    [山陽自動車道](../Page/山陽自動車道.md "wikilink")[山陽姬路西IC](../Page/山陽姬路西IC.md "wikilink")至[龍野西IC](../Page/龍野西IC.md "wikilink")之間開通，此交流道也同時啟用。
+  - 1990年7月31日 - [山陽自動車道](../Page/山陽自動車道.md "wikilink")[山陽姬路西IC](../Page/山陽姬路西IC.md "wikilink")至[龍野西IC](../Page/龍野西IC.md "wikilink")之間開通，此交流道也同時啟用。
   - 2003年3月29日 - 交流道名稱由龍野（竜野）改變為龍野（龍野）。
 
 ## 收費站設施
@@ -43,11 +42,7 @@
 ## 鄰近設施
 
   - [山陽自動車道](../Page/山陽自動車道.md "wikilink")
-    (6)[山陽姬路東IC](https://zh.wikipedia.org/wiki/山陽姬路東IC "wikilink") -
-    [白鳥PA](https://zh.wikipedia.org/wiki/白鳥PA "wikilink") -
-    (7)[山陽姬路西IC](../Page/山陽姬路西IC.md "wikilink") - (8)**龍野IC**
-    -
-    (9)[龍野西IC](../Page/龍野西IC.md "wikilink")/[SA](https://zh.wikipedia.org/wiki/龍野西SA "wikilink")
+    (6)[山陽姬路東IC](https://zh.wikipedia.org/wiki/山陽姬路東IC "wikilink") - [白鳥PA](https://zh.wikipedia.org/wiki/白鳥PA "wikilink") - (7)[山陽姬路西IC](../Page/山陽姬路西IC.md "wikilink") - (8)**龍野IC** - (9)[龍野西IC](../Page/龍野西IC.md "wikilink")/[SA](https://zh.wikipedia.org/wiki/龍野西SA "wikilink")
 
 ## 相關項目
 
@@ -57,5 +52,4 @@
 
   - [西日本高速道路株式會社](http://www.w-nexco.co.jp/)
 
-[Category:日本交流道_Ta](https://zh.wikipedia.org/wiki/Category:日本交流道_Ta "wikilink")
-[Category:兵庫縣交流道](https://zh.wikipedia.org/wiki/Category:兵庫縣交流道 "wikilink")
+[Category:日本交流道_Ta](https://zh.wikipedia.org/wiki/Category:日本交流道_Ta "wikilink") [Category:兵庫縣交流道](https://zh.wikipedia.org/wiki/Category:兵庫縣交流道 "wikilink")

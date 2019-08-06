@@ -2,8 +2,7 @@
 
 ## 概要
 
-以2010年在日本出道的韓國偶像[Kara](../Page/Kara.md "wikilink")為主演而制作的電視劇，韓國地區在2011年1月末於[CJ
-E\&M旗下有線電視頻道](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN的](../Page/TVN.md "wikilink")《》播放。
+以2010年在日本出道的韓國偶像[Kara](../Page/Kara.md "wikilink")為主演而制作的電視劇，韓國地區在2011年1月末於[CJ E\&M旗下有線電視頻道](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN的](../Page/TVN.md "wikilink")《》播放。
 
 ## 角色
 
@@ -163,9 +162,4 @@ E\&M旗下有線電視頻道](https://zh.wikipedia.org/wiki/CJ希杰集團 "wiki
 
   -
 
-[Category:Kara](https://zh.wikipedia.org/wiki/Category:Kara "wikilink")
-[Category:DSP_Media](https://zh.wikipedia.org/wiki/Category:DSP_Media "wikilink")
-[Category:電視劇24](https://zh.wikipedia.org/wiki/Category:電視劇24 "wikilink")
-[Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink")
-[Category:偽紀錄片電視劇](https://zh.wikipedia.org/wiki/Category:偽紀錄片電視劇 "wikilink")
-[Category:韓語電視劇](https://zh.wikipedia.org/wiki/Category:韓語電視劇 "wikilink")
+[Category:Kara](https://zh.wikipedia.org/wiki/Category:Kara "wikilink") [Category:DSP_Media](https://zh.wikipedia.org/wiki/Category:DSP_Media "wikilink") [Category:電視劇24](https://zh.wikipedia.org/wiki/Category:電視劇24 "wikilink") [Category:2011年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2011年日本電視劇集 "wikilink") [Category:偽紀錄片電視劇](https://zh.wikipedia.org/wiki/Category:偽紀錄片電視劇 "wikilink") [Category:韓語電視劇](https://zh.wikipedia.org/wiki/Category:韓語電視劇 "wikilink")

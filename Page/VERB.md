@@ -27,7 +27,4 @@
 2.  **STARLESS NIGHT**
 3.  **WITH OR WITHOUT YOU**
 
-[Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink")
-[Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")
-[Category:國會唱片單曲](https://zh.wikipedia.org/wiki/Category:國會唱片單曲 "wikilink")
-[Category:2008年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:GLAY歌曲](https://zh.wikipedia.org/wiki/Category:GLAY歌曲 "wikilink") [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink") [Category:國會唱片單曲](https://zh.wikipedia.org/wiki/Category:國會唱片單曲 "wikilink") [Category:2008年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2008年Oricon單曲週榜冠軍作品 "wikilink")

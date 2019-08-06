@@ -12,8 +12,7 @@ O2U為後三點式固定起落架，固定式起落架為有伸縮式減震器�
 
 ## 主要型號
 
-[O2Us_from_USS_Florida_BB-30_NAN3-57.jpg](https://zh.wikipedia.org/wiki/File:O2Us_from_USS_Florida_BB-30_NAN3-57.jpg "fig:O2Us_from_USS_Florida_BB-30_NAN3-57.jpg")
-[Unmarked_Vought_V.93-S_Corsair_(7880816722).jpg](https://zh.wikipedia.org/wiki/File:Unmarked_Vought_V.93-S_Corsair_\(7880816722\).jpg "fig:Unmarked_Vought_V.93-S_Corsair_(7880816722).jpg")
+[O2Us_from_USS_Florida_BB-30_NAN3-57.jpg](https://zh.wikipedia.org/wiki/File:O2Us_from_USS_Florida_BB-30_NAN3-57.jpg "fig:O2Us_from_USS_Florida_BB-30_NAN3-57.jpg") [Unmarked_Vought_V.93-S_Corsair_(7880816722).jpg](https://zh.wikipedia.org/wiki/File:Unmarked_Vought_V.93-S_Corsair_\(7880816722\).jpg "fig:Unmarked_Vought_V.93-S_Corsair_(7880816722).jpg")
 
   - O2U-1
 
@@ -78,8 +77,7 @@ O3U-2/SU-2的外銷型
 
 ### 列寧號
 
-[Vought_V-65C1_Corsair_(2912367680).jpg](https://zh.wikipedia.org/wiki/File:Vought_V-65C1_Corsair_\(2912367680\).jpg "fig:Vought_V-65C1_Corsair_(2912367680).jpg")\]\]
-**[列寧号](https://zh.wikipedia.org/wiki/列寧号 "wikilink")**是[中国工农红军](../Page/中国工农红军.md "wikilink")的第一架[军用飞机](https://zh.wikipedia.org/wiki/军用飞机 "wikilink")，现存[河南](https://zh.wikipedia.org/wiki/河南 "wikilink")[信阳](https://zh.wikipedia.org/wiki/信阳 "wikilink")[鄂豫皖革命纪念馆](https://zh.wikipedia.org/wiki/鄂豫皖革命纪念馆 "wikilink")。
+[Vought_V-65C1_Corsair_(2912367680).jpg](https://zh.wikipedia.org/wiki/File:Vought_V-65C1_Corsair_\(2912367680\).jpg "fig:Vought_V-65C1_Corsair_(2912367680).jpg")\]\] **[列寧号](https://zh.wikipedia.org/wiki/列寧号 "wikilink")**是[中国工农红军](../Page/中国工农红军.md "wikilink")的第一架[军用飞机](https://zh.wikipedia.org/wiki/军用飞机 "wikilink")，现存[河南](https://zh.wikipedia.org/wiki/河南 "wikilink")[信阳](https://zh.wikipedia.org/wiki/信阳 "wikilink")[鄂豫皖革命纪念馆](https://zh.wikipedia.org/wiki/鄂豫皖革命纪念馆 "wikilink")。
 
 1930年3月16日，[國民政府軍政部航空署出動美製錢斯沃特](https://zh.wikipedia.org/wiki/國民黨 "wikilink")**O2U海盜式偵察機**從武漢起飛對中國工農紅軍作偵察任務，飛行員是龍文光上尉，但由於在回航時遇上大霧，龍文光駕機迫降在宣化店，他隨後被鄂豫皖紅軍第一師三團二營手槍連俘虜，之後龍文光願意加入紅軍，而這架O2U被改名為**列寧號**。
 
@@ -108,9 +106,4 @@ O3U-2/SU-2的外銷型
 
   - [安內攘外戰役中立第一功的美製可塞偵巡機](http://cwlam2000.0catch.com/caf16.htm)
 
-[Category:軍用教練機](https://zh.wikipedia.org/wiki/Category:軍用教練機 "wikilink")
-[Category:偵察機](https://zh.wikipedia.org/wiki/Category:偵察機 "wikilink")
-[Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink")
-[Category:艦載機](https://zh.wikipedia.org/wiki/Category:艦載機 "wikilink")
-[Category:水上飛機](https://zh.wikipedia.org/wiki/Category:水上飛機 "wikilink")
-[Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink")
+[Category:軍用教練機](https://zh.wikipedia.org/wiki/Category:軍用教練機 "wikilink") [Category:偵察機](https://zh.wikipedia.org/wiki/Category:偵察機 "wikilink") [Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink") [Category:艦載機](https://zh.wikipedia.org/wiki/Category:艦載機 "wikilink") [Category:水上飛機](https://zh.wikipedia.org/wiki/Category:水上飛機 "wikilink") [Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink")

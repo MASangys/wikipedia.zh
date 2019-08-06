@@ -8,8 +8,7 @@ ALTIMA是由來自[m.o.v.e樂隊的瀨川素公](https://zh.wikipedia.org/wiki/m
 
 ALTIMA為由英語的「ULTIMATE（終極）」、「ALMIGHTY（全能）」與「ALTERNATIVE（另類）」集合而成\[2\]。
 
-2016年8月26日，於[Animelo Summer
-Live上公布團體將停止活動](../Page/Animelo_Summer_Live.md "wikilink")\[3\]。
+2016年8月26日，於[Animelo Summer Live上公布團體將停止活動](../Page/Animelo_Summer_Live.md "wikilink")\[3\]。
 
 ## 成員
 
@@ -66,12 +65,8 @@ Live上公布團體將停止活動](../Page/Animelo_Summer_Live.md "wikilink")\[
 
   -
 
-[Category:ALTIMA](https://zh.wikipedia.org/wiki/Category:ALTIMA "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
-[Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
+[Category:ALTIMA](https://zh.wikipedia.org/wiki/Category:ALTIMA "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink") [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
 
-1.  \[
-    <http://www.whv-amusic.com/altima/contents/hp0003/index00020000.html>
-    What's ALTIMA\]
+1.  \[ <http://www.whv-amusic.com/altima/contents/hp0003/index00020000.html> What's ALTIMA\]
 2.
 3.

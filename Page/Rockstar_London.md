@@ -1,9 +1,4 @@
-**Rockstar
-London**是一間於2005年成立的英國[電子遊戲開發商](https://zh.wikipedia.org/wiki/電子遊戲開發商 "wikilink")，位於倫敦[切爾西](https://zh.wikipedia.org/wiki/切爾西_\(倫敦\) "wikilink")[國王路](https://zh.wikipedia.org/wiki/國王路 "wikilink")（King's
-Road），是[Rockstar
-Games的子公司](../Page/Rockstar_Games.md "wikilink")，旗下知名產品有[PlayStation
-2上](../Page/PlayStation_2.md "wikilink")[俠盜獵魔2](../Page/俠盜獵魔2.md "wikilink")。也設在同一個辦公室內，它是Rockstar
-Games英國、歐洲、亞洲、日本、非洲、澳大利亞和南美洲的產品發行總部。\[1\]\[2\]
+**Rockstar London**是一間於2005年成立的英國[電子遊戲開發商](https://zh.wikipedia.org/wiki/電子遊戲開發商 "wikilink")，位於倫敦[切爾西](https://zh.wikipedia.org/wiki/切爾西_\(倫敦\) "wikilink")[國王路](https://zh.wikipedia.org/wiki/國王路 "wikilink")（King's Road），是[Rockstar Games的子公司](../Page/Rockstar_Games.md "wikilink")，旗下知名產品有[PlayStation 2上](../Page/PlayStation_2.md "wikilink")[俠盜獵魔2](../Page/俠盜獵魔2.md "wikilink")。也設在同一個辦公室內，它是Rockstar Games英國、歐洲、亞洲、日本、非洲、澳大利亞和南美洲的產品發行總部。\[1\]\[2\]
 
 ## 遊戲列表
 
@@ -21,11 +16,7 @@ Games英國、歐洲、亞洲、日本、非洲、澳大利亞和南美洲的產
   - Rockstar London
   - Rockstar Games
 
-[Category:2005年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2005年開業電子遊戲公司 "wikilink")
-[Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:Rockstar_Games](https://zh.wikipedia.org/wiki/Category:Rockstar_Games "wikilink")
-[Category:英國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:英國電子遊戲公司 "wikilink")
+[Category:2005年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2005年開業電子遊戲公司 "wikilink") [Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:Rockstar_Games](https://zh.wikipedia.org/wiki/Category:Rockstar_Games "wikilink") [Category:英國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:英國電子遊戲公司 "wikilink")
 
 1.
 2.

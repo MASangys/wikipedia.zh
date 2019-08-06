@@ -91,5 +91,4 @@ NEXCO集團與等不同，未設有持股公司。
   - [西日本高速道路株式會社](http://www.w-nexco.co.jp/)（NEXCO西日本）
   - [株式會社高速道路綜合技術研究所](http://www.ri-nexco.co.jp/)（NEXCO總研）
 
-[Category:日本交通運輸公司](https://zh.wikipedia.org/wiki/Category:日本交通運輸公司 "wikilink")
-[Category:日本高速公路](https://zh.wikipedia.org/wiki/Category:日本高速公路 "wikilink")
+[Category:日本交通運輸公司](https://zh.wikipedia.org/wiki/Category:日本交通運輸公司 "wikilink") [Category:日本高速公路](https://zh.wikipedia.org/wiki/Category:日本高速公路 "wikilink")

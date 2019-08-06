@@ -1,5 +1,4 @@
-《**Me, Myself, and
-I**》是[臺灣](../Page/臺灣.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳妍希](../Page/陳妍希.md "wikilink")的首張國語專輯，於2013年4月23日開始預購，於5月10日推出，是她與[福茂唱片](../Page/福茂唱片.md "wikilink")簽約後所推出的首張專輯，第一主打歌為專輯歌曲《Sorry》。\[1\]
+《**Me, Myself, and I**》是[臺灣](../Page/臺灣.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳妍希](../Page/陳妍希.md "wikilink")的首張國語專輯，於2013年4月23日開始預購，於5月10日推出，是她與[福茂唱片](../Page/福茂唱片.md "wikilink")簽約後所推出的首張專輯，第一主打歌為專輯歌曲《Sorry》。\[1\]
 
 ## 曲目
 
@@ -132,5 +131,4 @@ I**》是[臺灣](../Page/臺灣.md "wikilink")[歌手](../Page/歌手.md "wikil
 
 [Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
 
-1.  [福茂唱片](http://www.linfairrecords.com/music/album.php?id=4514) ，陳妍希
-    Me, Myself, and I。
+1.  [福茂唱片](http://www.linfairrecords.com/music/album.php?id=4514) ，陳妍希 Me, Myself, and I。

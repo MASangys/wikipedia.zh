@@ -1,11 +1,8 @@
-《**Movin'
-On**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[連詩雅的第二張音樂專輯](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")、第一張全主打EP，於2012年11月27日推出。全碟共有五首歌曲，隨碟附送一片DVD，收錄所有歌曲的[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。
+《**Movin' On**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[連詩雅的第二張音樂專輯](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")、第一張全主打EP，於2012年11月27日推出。全碟共有五首歌曲，隨碟附送一片DVD，收錄所有歌曲的[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")。
 
-2012年12月14日，[華納唱片推出限量版](https://zh.wikipedia.org/wiki/華納唱片_\(香港\) "wikilink")，特別加送One2free
-x Shiga親自設計的別注版iPhone 5 Case一個。
+2012年12月14日，[華納唱片推出限量版](https://zh.wikipedia.org/wiki/華納唱片_\(香港\) "wikilink")，特別加送One2free x Shiga親自設計的別注版iPhone 5 Case一個。
 
-专辑中由周柏豪作曲，林若寧填詞的歌曲《到此為止》於2012年11月27日推出单曲。在2012年2月7日上載至[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")，截至2014年3月2日，點擊率逾620萬，正評逾1.8萬，負評近1300。此曲被高登音樂台改編成單身過節，Youtube點擊率逾10萬。[Dear
-Jane於](../Page/Dear_Jane.md "wikilink")2012年9月30日曾與[連詩雅於](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")合唱到此為止。
+专辑中由周柏豪作曲，林若寧填詞的歌曲《到此為止》於2012年11月27日推出单曲。在2012年2月7日上載至[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")，截至2014年3月2日，點擊率逾620萬，正評逾1.8萬，負評近1300。此曲被高登音樂台改編成單身過節，Youtube點擊率逾10萬。[Dear Jane於](../Page/Dear_Jane.md "wikilink")2012年9月30日曾與[連詩雅於](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")[九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")合唱到此為止。
 
 ## 曲目
 
@@ -67,9 +64,4 @@ Jane於](../Page/Dear_Jane.md "wikilink")2012年9月30日曾與[連詩雅於](ht
   - 第三十五屆十大中文金曲頒獎音樂會 - 十大中文金曲《到此為止》
   - IFPI香港唱片銷量大獎頒奬禮2013 - 十大數碼暢銷歌曲《到此為止》
 
-[Category:連詩雅音樂專輯](https://zh.wikipedia.org/wiki/Category:連詩雅音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
-[Category:香港華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:香港華納唱片音樂專輯 "wikilink")
+[Category:連詩雅音樂專輯](https://zh.wikipedia.org/wiki/Category:連詩雅音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:香港華納唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:香港華納唱片音樂專輯 "wikilink")

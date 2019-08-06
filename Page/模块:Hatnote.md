@@ -1,16 +1,10 @@
 -----
 
-\-- Module:Hatnote -- -- -- -- This module produces hatnote links and
-links to related articles. It -- -- implements the  and  meta-templates
-and includes -- -- helper functions for other Lua hatnote modules. --
+\-- Module:Hatnote -- -- -- -- This module produces hatnote links and links to related articles. It -- -- implements the  and  meta-templates and includes -- -- helper functions for other Lua hatnote modules. --
 
 -----
 
-local libraryUtil = require('libraryUtil') local checkType =
-libraryUtil.checkType local mArguments -- lazily initialise
-[Module:Arguments](https://zh.wikipedia.org/wiki/Module:Arguments "wikilink")
-local yesno -- lazily initialise
-[Module:Yesno](https://zh.wikipedia.org/wiki/Module:Yesno "wikilink")
+local libraryUtil = require('libraryUtil') local checkType = libraryUtil.checkType local mArguments -- lazily initialise [Module:Arguments](https://zh.wikipedia.org/wiki/Module:Arguments "wikilink") local yesno -- lazily initialise [Module:Yesno](https://zh.wikipedia.org/wiki/Module:Yesno "wikilink")
 
 local p = {}
 
@@ -138,10 +132,7 @@ end
 
 -----
 
-\-- Format link 格式化链接 -- -- Makes a wikilink from the given link and
-display values. Links are escaped -- with colons if necessary, and links
-to sections are detected and displayed -- with " § " as a separator
-rather than the standard MediaWiki "\#". Used in -- the  template.
+\-- Format link 格式化链接 -- -- Makes a wikilink from the given link and display values. Links are escaped -- with colons if necessary, and links to sections are detected and displayed -- with " § " as a separator rather than the standard MediaWiki "\#". Used in -- the  template.
 
 -----
 
@@ -206,8 +197,7 @@ end
 
 -----
 
-\-- Hatnote 顶注 -- -- Produces standard hatnote text. Implements the
-template. -- 产生标准顶注文字。实现模板
+\-- Hatnote 顶注 -- -- Produces standard hatnote text. Implements the  template. -- 产生标准顶注文字。实现模板
 
 -----
 

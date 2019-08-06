@@ -1,28 +1,12 @@
 -----
 
-\-- This is a table of sites that are available through interwiki links
--- -- from Wikipedia. It can be accessed from Lua via the mw.loadData()
--- -- function. It is currently used in
-[Module:UrlToWiki](https://zh.wikipedia.org/wiki/Module:UrlToWiki "wikilink")
-and -- --
-[Module:UserLinks](https://zh.wikipedia.org/wiki/Module:UserLinks "wikilink").
-Feel free to add to its functionality and to -- -- include new sites. --
+\-- This is a table of sites that are available through interwiki links -- -- from Wikipedia. It can be accessed from Lua via the mw.loadData() -- -- function. It is currently used in [Module:UrlToWiki](https://zh.wikipedia.org/wiki/Module:UrlToWiki "wikilink") and -- -- [Module:UserLinks](https://zh.wikipedia.org/wiki/Module:UserLinks "wikilink"). Feel free to add to its functionality and to -- -- include new sites. --
 
 -----
 
 \-- Example entry:
 
-\-- wikipedia = { -- This is a code that you can use to easily identify
-the project in the table. -- domain = "wikipedia.org", -- The base
-domain name of the website, without any language codes. --
-domain_primary = true -- Whether this is the primary entry for the
-domain. -- iw_prefix = {"w", "wikipedia"}, -- A table of valid
-interwiki prefixes for the site. See [Help:Interwiki
-linking](https://zh.wikipedia.org/wiki/Help:Interwiki_linking "wikilink").
--- title_prefix = "/wiki/", -- The text between the domain name and the
-project's article titles. -- takes_lang_prefix = true -- Whether the
-project has separate subdomains for different languages, e.g.
-es.wikipedia.org -- },
+\-- wikipedia = { -- This is a code that you can use to easily identify the project in the table. -- domain = "wikipedia.org", -- The base domain name of the website, without any language codes. -- domain_primary = true -- Whether this is the primary entry for the domain. -- iw_prefix = {"w", "wikipedia"}, -- A table of valid interwiki prefixes for the site. See [Help:Interwiki linking](https://zh.wikipedia.org/wiki/Help:Interwiki_linking "wikilink"). -- title_prefix = "/wiki/", -- The text between the domain name and the project's article titles. -- takes_lang_prefix = true -- Whether the project has separate subdomains for different languages, e.g. es.wikipedia.org -- },
 
 interwiki_table = {
 

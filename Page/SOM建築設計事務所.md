@@ -1,5 +1,4 @@
-**SOM建築設計事務所**（，SOM）是一家是美國建築設計事務所，為客戶提供包括建築、室內設計、[都市設計](https://zh.wikipedia.org/wiki/都市設計 "wikilink")、[結構工程和土木工程等設計服務](https://zh.wikipedia.org/wiki/結構工程 "wikilink")\[1\]。事務所由路易斯·斯基德莫爾和納撒尼爾·奧因斯於1936年在[芝加哥](../Page/芝加哥.md "wikilink")創立，1939年後約翰·梅里爾加入。1937年他們在[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")[紐約成立第一家分公司](https://zh.wikipedia.org/wiki/紐約 "wikilink")。SOM為世界上最大的建築設計事務所之一，主要設計類型為高層商業大廈，而SOM同時也是領導[國際風格](../Page/國際風格.md "wikilink")與玻璃盒式（glass
-box）摩天大樓的先驅。
+**SOM建築設計事務所**（，SOM）是一家是美國建築設計事務所，為客戶提供包括建築、室內設計、[都市設計](https://zh.wikipedia.org/wiki/都市設計 "wikilink")、[結構工程和土木工程等設計服務](https://zh.wikipedia.org/wiki/結構工程 "wikilink")\[1\]。事務所由路易斯·斯基德莫爾和納撒尼爾·奧因斯於1936年在[芝加哥](../Page/芝加哥.md "wikilink")創立，1939年後約翰·梅里爾加入。1937年他們在[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")[紐約成立第一家分公司](https://zh.wikipedia.org/wiki/紐約 "wikilink")。SOM為世界上最大的建築設計事務所之一，主要設計類型為高層商業大廈，而SOM同時也是領導[國際風格](../Page/國際風格.md "wikilink")與玻璃盒式（glass box）摩天大樓的先驅。
 
 ## 發展概況
 
@@ -11,8 +10,7 @@ SOM內有著許多著名的建築師，包括[戈登·邦夏](https://zh.wikiped
 
 ### 工程師
 
-SOM早期的工程師主要為\[19\]。20世紀後，SOM主要的工程師為，他被公認為是20世紀下半葉最偉大的結構工程師，其著名設計最品為約翰·漢考克中心與威利斯大廈，而拉赫曼作品的結構系統，之後多應用在高層建築工程上。\[20\]事實上，多虧拉赫曼發展出新的建築演算法，讓約翰·漢考克中心與其他摩天大樓得以順利興建。SOM另一位著名的工程師是，他著名的作品是目前世界上最高的摩天大樓哈里發塔，他開發了以核心為六角形，三個扶壁組成丫型結構的『扶壁式核心』（buttressed
-core）系統\[21\]，幫助哈里發塔在較小的佔用空間下能夠維持828公尺的高度。
+SOM早期的工程師主要為\[19\]。20世紀後，SOM主要的工程師為，他被公認為是20世紀下半葉最偉大的結構工程師，其著名設計最品為約翰·漢考克中心與威利斯大廈，而拉赫曼作品的結構系統，之後多應用在高層建築工程上。\[20\]事實上，多虧拉赫曼發展出新的建築演算法，讓約翰·漢考克中心與其他摩天大樓得以順利興建。SOM另一位著名的工程師是，他著名的作品是目前世界上最高的摩天大樓哈里發塔，他開發了以核心為六角形，三個扶壁組成丫型結構的『扶壁式核心』（buttressed core）系統\[21\]，幫助哈里發塔在較小的佔用空間下能夠維持828公尺的高度。
 
 ### 室內設計師
 
@@ -26,8 +24,7 @@ SOM至今已獲得1,700座品質與創新的獎項\[23\]，而自1998年以來�
 
 ## 近期作品
 
-[炫彩津门7津门建筑群夜景.jpg](https://zh.wikipedia.org/wiki/File:炫彩津门7津门建筑群夜景.jpg "fig:炫彩津门7津门建筑群夜景.jpg")
-SOM已完成的設計作品超過10,000項，並且分布在超過50個國家。目前SOM在[芝加哥](../Page/芝加哥.md "wikilink")、[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")、[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")、[華盛頓特區](https://zh.wikipedia.org/wiki/華盛頓特區 "wikilink")、[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、[香港](../Page/香港.md "wikilink")、[阿布達比](https://zh.wikipedia.org/wiki/阿布達比 "wikilink")、[孟買](https://zh.wikipedia.org/wiki/孟買 "wikilink")、[上海設有辦公室](https://zh.wikipedia.org/wiki/上海 "wikilink")。
+[炫彩津门7津门建筑群夜景.jpg](https://zh.wikipedia.org/wiki/File:炫彩津门7津门建筑群夜景.jpg "fig:炫彩津门7津门建筑群夜景.jpg") SOM已完成的設計作品超過10,000項，並且分布在超過50個國家。目前SOM在[芝加哥](../Page/芝加哥.md "wikilink")、[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")、[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")、[華盛頓特區](https://zh.wikipedia.org/wiki/華盛頓特區 "wikilink")、[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、[香港](../Page/香港.md "wikilink")、[阿布達比](https://zh.wikipedia.org/wiki/阿布達比 "wikilink")、[孟買](https://zh.wikipedia.org/wiki/孟買 "wikilink")、[上海設有辦公室](https://zh.wikipedia.org/wiki/上海 "wikilink")。
 
 [哈里發塔](../Page/哈里發塔.md "wikilink")是SOM著名設計作品之一，該建築位在[阿聯](https://zh.wikipedia.org/wiki/阿聯 "wikilink")[杜拜](../Page/杜拜.md "wikilink")，在2010年開放後\[31\]\[32\]，[哈里發塔](../Page/哈里發塔.md "wikilink")以828公尺建築高度，成為目前世界上最高的摩天大樓\[33\]。該建築的總建築師為SOM內的\[34\]\[35\]，為首席結構工程師，為執行合夥人。紐約[世界貿易中心一號大樓](../Page/世界貿易中心一號大樓.md "wikilink")是SOM另一項建設作品，雖然SOM在設計競賽中撤回設計作品，但SOM仍然獲得建設合同。最後該建築設計師為[丹尼爾·里伯斯金](../Page/丹尼爾·里伯斯金.md "wikilink")，由SOM執行建設計畫。SOM另外在[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")北部有Beacon大型複合公寓社區計畫。
 
@@ -659,17 +656,11 @@ SOM已完成的設計作品超過10,000項，並且分布在超過50個國家。
 ## 外部連結
 
   -
-  - [Skidmore, Owings & Merrill Architecture on Google
-    Maps](http://www.arti-fact.com/architect/map/709/Skidmore-Owings-Merrill)
+  - [Skidmore, Owings & Merrill Architecture on Google Maps](http://www.arti-fact.com/architect/map/709/Skidmore-Owings-Merrill)
 
-[Category:SOM建築設計事務所](https://zh.wikipedia.org/wiki/Category:SOM建築設計事務所 "wikilink")
-[Category:現代主義建築師](https://zh.wikipedia.org/wiki/Category:現代主義建築師 "wikilink")
-[Category:美国建筑师事务所](https://zh.wikipedia.org/wiki/Category:美国建筑师事务所 "wikilink")
-[Category:1936年成立的公司](https://zh.wikipedia.org/wiki/Category:1936年成立的公司 "wikilink")
-[Category:摩天大楼建筑师](https://zh.wikipedia.org/wiki/Category:摩天大楼建筑师 "wikilink")
+[Category:SOM建築設計事務所](https://zh.wikipedia.org/wiki/Category:SOM建築設計事務所 "wikilink") [Category:現代主義建築師](https://zh.wikipedia.org/wiki/Category:現代主義建築師 "wikilink") [Category:美国建筑师事务所](https://zh.wikipedia.org/wiki/Category:美国建筑师事务所 "wikilink") [Category:1936年成立的公司](https://zh.wikipedia.org/wiki/Category:1936年成立的公司 "wikilink") [Category:摩天大楼建筑师](https://zh.wikipedia.org/wiki/Category:摩天大楼建筑师 "wikilink")
 
-1.  Adams, Nicholas. "Skidmore, Owings & Merrill: The Experiment since
-    1936." Milan: Electa. 2006.
+1.  Adams, Nicholas. "Skidmore, Owings & Merrill: The Experiment since 1936." Milan: Electa. 2006.
 2.
 3.
 4.
@@ -687,20 +678,13 @@ SOM已完成的設計作品超過10,000項，並且分布在超過50個國家。
 16.
 17.
 18.
-19. FundingUniverse: [SOM company
-    history.](http://www.fundinguniverse.com/company-histories/Skidmore-Owings-amp;-Merrill-LLP-Company-History.html)
-20. Ali Mir (2001), *Art of the Skyscraper: the Genius of Fazlur Khan*,
-    Rizzoli International Publications, ISBN 0-8478-2370-9
-21. [Engineer Bill Baker Is the King of Superstable 150-Story
-    Structures](http://www.wired.com/culture/design/magazine/15-12/mf_baker),
-    Wired.com
-22. Pace, Eric. ["Davis Allen, 82, a Designer Of Modern Business
-    Interiors,"](http://query.nytimes.com/gst/fullpage.html?res=9A05EFDF1431F930A15756C0A96F958260)
-    *New York Times.* May 23, 1999.
+19. FundingUniverse: [SOM company history.](http://www.fundinguniverse.com/company-histories/Skidmore-Owings-amp;-Merrill-LLP-Company-History.html)
+20. Ali Mir (2001), *Art of the Skyscraper: the Genius of Fazlur Khan*, Rizzoli International Publications, ISBN 0-8478-2370-9
+21. [Engineer Bill Baker Is the King of Superstable 150-Story Structures](http://www.wired.com/culture/design/magazine/15-12/mf_baker), Wired.com
+22. Pace, Eric. ["Davis Allen, 82, a Designer Of Modern Business Interiors,"](http://query.nytimes.com/gst/fullpage.html?res=9A05EFDF1431F930A15756C0A96F958260) *New York Times.* May 23, 1999.
 23.
 24.
-25. List of AIA Firm Award Recipients
-    <http://www.aia.org/practicing/awards/AIAS075259>
+25. List of AIA Firm Award Recipients <http://www.aia.org/practicing/awards/AIAS075259>
 26.
 27.
 28.
@@ -715,9 +699,7 @@ SOM已完成的設計作品超過10,000項，並且分布在超過50個國家。
 37.
 38.
 39.
-40. [One Chase Manhattan
-    Plaza](http://www.nyc.gov/html/lpc/downloads/pdf/reports/ChaseManhattanReport.pdf)
-    , New York City Landmarks Preservation Commission.
+40. [One Chase Manhattan Plaza](http://www.nyc.gov/html/lpc/downloads/pdf/reports/ChaseManhattanReport.pdf) , New York City Landmarks Preservation Commission.
 41.
 42.
 43.
@@ -744,10 +726,7 @@ SOM已完成的設計作品超過10,000項，並且分布在超過50個國家。
 64.
 65.
 66.
-67. {{ cite web|
-    url=<http://www.som.com/projects/university_center__the_new_school>
-    | title=University Center - The New School | publisher=Som.com |
-    date= | accessdate=2014-04-25}}
+67. {{ cite web| url=<http://www.som.com/projects/university_center__the_new_school> | title=University Center - The New School | publisher=Som.com | date= | accessdate=2014-04-25}}
 68.
 69.
 70.

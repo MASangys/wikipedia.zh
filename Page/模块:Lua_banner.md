@@ -1,11 +1,6 @@
 \--\[=\[
 
-这个模块由[Template:Lua调用](https://zh.wikipedia.org/wiki/Template:Lua "wikilink")
-暂无模块调用 /\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*/
-這個模組由[Template:Lua調用](https://zh.wikipedia.org/wiki/Template:Lua "wikilink")
-暫無模組調用 \]=\]-- local yesno = require('Module:Yesno') local mList =
-require('Module:List') local mTableTools = require('Module:TableTools')
-local mMessageBox = require('Module:Message box')
+这个模块由[Template:Lua调用](https://zh.wikipedia.org/wiki/Template:Lua "wikilink") 暂无模块调用 /\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*/ 這個模組由[Template:Lua調用](https://zh.wikipedia.org/wiki/Template:Lua "wikilink") 暫無模組調用 \]=\]-- local yesno = require('Module:Yesno') local mList = require('Module:List') local mTableTools = require('Module:TableTools') local mMessageBox = require('Module:Message box')
 
 local p = {}
 

@@ -2,11 +2,7 @@
 
 ## 參考
 
-[Category:美國第二次世界大戰軍事人物](https://zh.wikipedia.org/wiki/Category:美國第二次世界大戰軍事人物 "wikilink")
-[Category:蒙哥馬利人](https://zh.wikipedia.org/wiki/Category:蒙哥馬利人 "wikilink")
-[Category:死於心肌梗死的人](https://zh.wikipedia.org/wiki/Category:死於心肌梗死的人 "wikilink")
+[Category:美國第二次世界大戰軍事人物](https://zh.wikipedia.org/wiki/Category:美國第二次世界大戰軍事人物 "wikilink") [Category:蒙哥馬利人](https://zh.wikipedia.org/wiki/Category:蒙哥馬利人 "wikilink") [Category:死於心肌梗死的人](https://zh.wikipedia.org/wiki/Category:死於心肌梗死的人 "wikilink")
 
 1.
-2.  Pretzer, William. "[The Power
-    of 2857](http://americanheritage.com/articles/magazine/ah/2005/6/2005_6_60.shtml)
-    " *American Heritage*, November/December 2005.
+2.  Pretzer, William. "[The Power of 2857](http://americanheritage.com/articles/magazine/ah/2005/6/2005_6_60.shtml) " *American Heritage*, November/December 2005.

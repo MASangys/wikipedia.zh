@@ -1,7 +1,4 @@
-是[タチ的日本](https://zh.wikipedia.org/wiki/タチ "wikilink")[四格漫畫](../Page/四格漫畫.md "wikilink")作品，於[芳文社](../Page/芳文社.md "wikilink")旗下《[Manga
-Time Kirara
-Miracle\!](../Page/Manga_Time_Kirara_Miracle!.md "wikilink")》雜誌Vol.1（2011年3月發售）連載至2017年10月号（2017年8月发售）\[1\]\[2\]，[單行本已出版](https://zh.wikipedia.org/wiki/單行本 "wikilink")8冊。本作於《Manga
-Time Kirara Miracle\!》2013年8月號發表動畫化消息\[3\]。
+是[タチ的日本](https://zh.wikipedia.org/wiki/タチ "wikilink")[四格漫畫](../Page/四格漫畫.md "wikilink")作品，於[芳文社](../Page/芳文社.md "wikilink")旗下《[Manga Time Kirara Miracle\!](../Page/Manga_Time_Kirara_Miracle!.md "wikilink")》雜誌Vol.1（2011年3月發售）連載至2017年10月号（2017年8月发售）\[1\]\[2\]，[單行本已出版](https://zh.wikipedia.org/wiki/單行本 "wikilink")8冊。本作於《Manga Time Kirara Miracle\!》2013年8月號發表動畫化消息\[3\]。
 
 ## 故事簡介
 
@@ -125,8 +122,7 @@ Time Kirara Miracle\!》2013年8月號發表動畫化消息\[3\]。
 
 ### 製作人員
 
-  - 原作：「櫻Trick」（《Manga Time Kirara
-    Miracle》連載／[芳文社](../Page/芳文社.md "wikilink")）
+  - 原作：「櫻Trick」（《Manga Time Kirara Miracle》連載／[芳文社](../Page/芳文社.md "wikilink")）
   - 監督、系列構成：
   - 角色設計：[坂井久太](../Page/坂井久太.md "wikilink")
   - 美術監督：田山修
@@ -542,21 +538,14 @@ Time Kirara Miracle\!》2013年8月號發表動畫化消息\[3\]。
 
 ## 外部連結
 
-  - [作品介紹頁](http://www.dokidokivisual.com/comics/book/past.php?cid=654)（Manga
-    Time Kirara官方網站）
+  - [作品介紹頁](http://www.dokidokivisual.com/comics/book/past.php?cid=654)（Manga Time Kirara官方網站）
 
   -
   - [櫻Trick 公式網站（TBS電視台）](http://www.tbs.co.jp/anime/sakura/)
 
   -
 
-[Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink")
-[Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink")
-[Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink")
-[Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink") [Category:2014年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2014年日本電視動畫 "wikilink") [Category:四格漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:四格漫畫改編動畫 "wikilink") [Category:百合_(類型)](https://zh.wikipedia.org/wiki/Category:百合_\(類型\) "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.
 

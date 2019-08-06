@@ -1,7 +1,3 @@
-}}  《**I Saw Her Standing
-There**》是[披头士乐队首张专辑](https://zh.wikipedia.org/wiki/披头士乐队 "wikilink")《[Please
-Please
-Me](https://zh.wikipedia.org/wiki/Please_Please_Me "wikilink")》的第一首歌，由[约翰·列侬](../Page/约翰·列侬.md "wikilink")和[保罗·麦卡特尼](../Page/保罗·麦卡特尼.md "wikilink")所作。本曲由厂牌[Parlophone于](https://zh.wikipedia.org/wiki/Parlophone "wikilink")1963年3月22日在[英国发行](https://zh.wikipedia.org/wiki/英国 "wikilink")。
+}}  《**I Saw Her Standing There**》是[披头士乐队首张专辑](https://zh.wikipedia.org/wiki/披头士乐队 "wikilink")《[Please Please Me](https://zh.wikipedia.org/wiki/Please_Please_Me "wikilink")》的第一首歌，由[约翰·列侬](../Page/约翰·列侬.md "wikilink")和[保罗·麦卡特尼](../Page/保罗·麦卡特尼.md "wikilink")所作。本曲由厂牌[Parlophone于](https://zh.wikipedia.org/wiki/Parlophone "wikilink")1963年3月22日在[英国发行](https://zh.wikipedia.org/wiki/英国 "wikilink")。
 
-[Category:披頭四歌曲](https://zh.wikipedia.org/wiki/Category:披頭四歌曲 "wikilink")
-[Category:1963年歌曲](https://zh.wikipedia.org/wiki/Category:1963年歌曲 "wikilink")
+[Category:披頭四歌曲](https://zh.wikipedia.org/wiki/Category:披頭四歌曲 "wikilink") [Category:1963年歌曲](https://zh.wikipedia.org/wiki/Category:1963年歌曲 "wikilink")

@@ -182,10 +182,6 @@ EA型电力机车以[德国铁路](../Page/德国铁路.md "wikilink")[120型电
 
 ## 外部链接
 
-  - [Siemens: Electric locomotive reference
-    list](https://web.archive.org/web/20120722103547/http://www.mobility.siemens.com/en/data/pdf/ts_lm/ref_el_us_72_aktuell.pdf)
+  - [Siemens: Electric locomotive reference list](https://web.archive.org/web/20120722103547/http://www.mobility.siemens.com/en/data/pdf/ts_lm/ref_el_us_72_aktuell.pdf)
 
-[Category:丹麦电力机车](https://zh.wikipedia.org/wiki/Category:丹麦电力机车 "wikilink")
-[Category:西门子制铁路机车](https://zh.wikipedia.org/wiki/Category:西门子制铁路机车 "wikilink")
-[Category:25千伏50赫兹交流电力机车](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力机车 "wikilink")
-[Category:Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo軸式機車 "wikilink")
+[Category:丹麦电力机车](https://zh.wikipedia.org/wiki/Category:丹麦电力机车 "wikilink") [Category:西门子制铁路机车](https://zh.wikipedia.org/wiki/Category:西门子制铁路机车 "wikilink") [Category:25千伏50赫兹交流电力机车](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力机车 "wikilink") [Category:Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo軸式機車 "wikilink")

@@ -1,7 +1,4 @@
-**SeeYa**（）為[韓國女子歌手組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")，於2006年2月以【女人的香氣】專輯出道。在唱片公司以134:1的高競爭率之下脫穎而出，是一組美貌兼具實力的超強新人組。當時的熱門組合
-[SG Wannabe](../Page/SG_Wannabe.md "wikilink") 擔當了培訓和開發 SeeYa 的重任，因此
-SeeYa 也被韓國媒體稱作是女版的 SG。團名SeeYa是See You Always
-的簡寫，意為希望一直陪伴在歌迷身邊。已於2011年1月解散。
+**SeeYa**（）為[韓國女子歌手組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")，於2006年2月以【女人的香氣】專輯出道。在唱片公司以134:1的高競爭率之下脫穎而出，是一組美貌兼具實力的超強新人組。當時的熱門組合 [SG Wannabe](../Page/SG_Wannabe.md "wikilink") 擔當了培訓和開發 SeeYa 的重任，因此 SeeYa 也被韓國媒體稱作是女版的 SG。團名SeeYa是See You Always 的簡寫，意為希望一直陪伴在歌迷身邊。已於2011年1月解散。
 
 ## 經歷
 
@@ -160,7 +157,4 @@ SeeYa 也被韓國媒體稱作是女版的 SG。團名SeeYa是See You Always
   - <http://kpopn.com/2010/05/14/15279/>
   - <http://kpopn.com/2011/01/20/49270/>
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink")
-[Category:2011年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年解散的音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2006年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年成立的音樂團體 "wikilink") [Category:2011年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年解散的音樂團體 "wikilink")

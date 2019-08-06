@@ -1,5 +1,4 @@
-**ASB經典賽**（**ASB
-Classic**）是一項在[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")[奧克蘭舉辦的女子室外硬地網球賽事](../Page/奧克蘭_\(紐西蘭\).md "wikilink")，1986年創辦至今，由[奧克蘭儲蓄銀行](https://zh.wikipedia.org/wiki/奧克蘭儲蓄銀行 "wikilink")（ASB）所冠名。本賽事也是[WTA巡迴賽的比賽之一](https://zh.wikipedia.org/wiki/WTA巡迴賽 "wikilink")，被歸類於國際賽方面。舉行日期則通常訂於每年的首週、男子網球賽事[海尼根公開賽](../Page/海尼根公開賽.md "wikilink")的前一週，兩者比賽地點皆在。
+**ASB經典賽**（**ASB Classic**）是一項在[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")[奧克蘭舉辦的女子室外硬地網球賽事](../Page/奧克蘭_\(紐西蘭\).md "wikilink")，1986年創辦至今，由[奧克蘭儲蓄銀行](https://zh.wikipedia.org/wiki/奧克蘭儲蓄銀行 "wikilink")（ASB）所冠名。本賽事也是[WTA巡迴賽的比賽之一](https://zh.wikipedia.org/wiki/WTA巡迴賽 "wikilink")，被歸類於國際賽方面。舉行日期則通常訂於每年的首週、男子網球賽事[海尼根公開賽](../Page/海尼根公開賽.md "wikilink")的前一週，兩者比賽地點皆在。
 
 為了跟進[澳洲網球公開賽的腳步](https://zh.wikipedia.org/wiki/澳洲網球公開賽 "wikilink")，從2008年的比賽開始，球場表面的硬地材質從更換成。
 
@@ -363,10 +362,6 @@ Classic**）是一項在[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wik
 
   - [官方網站](http://www.asbclassic.co.nz)
 
-[Category:ASB經典賽](https://zh.wikipedia.org/wiki/Category:ASB經典賽 "wikilink")
-[Category:硬地網球賽事](https://zh.wikipedia.org/wiki/Category:硬地網球賽事 "wikilink")
-[Category:WTA巡迴賽](https://zh.wikipedia.org/wiki/Category:WTA巡迴賽 "wikilink")
+[Category:ASB經典賽](https://zh.wikipedia.org/wiki/Category:ASB經典賽 "wikilink") [Category:硬地網球賽事](https://zh.wikipedia.org/wiki/Category:硬地網球賽事 "wikilink") [Category:WTA巡迴賽](https://zh.wikipedia.org/wiki/Category:WTA巡迴賽 "wikilink")
 
-1.  ['Radwanska will be ASB Classic's top
-    talent'](http://i.stuff.co.nz/sport/tennis/7824373/Radwanska-will-be-ASB-Classics-top-talent)
-    *Stuff.co.nz*
+1.  ['Radwanska will be ASB Classic's top talent'](http://i.stuff.co.nz/sport/tennis/7824373/Radwanska-will-be-ASB-Classics-top-talent) *Stuff.co.nz*

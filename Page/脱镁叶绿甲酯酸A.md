@@ -4,8 +4,7 @@
 
 ## 參考資料
 
-[Category:光療法](https://zh.wikipedia.org/wiki/Category:光療法 "wikilink")
-[Category:四吡咯](https://zh.wikipedia.org/wiki/Category:四吡咯 "wikilink")
+[Category:光療法](https://zh.wikipedia.org/wiki/Category:光療法 "wikilink") [Category:四吡咯](https://zh.wikipedia.org/wiki/Category:四吡咯 "wikilink")
 
 1.
 

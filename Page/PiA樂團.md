@@ -10,8 +10,7 @@
 
 2011年，歷經第三階段樂團重組，團員再度變回雙人組合，Pia與小松，短暫使用團名秘密行動進行演出，也其後現今PiA樂團的形態。同年12月15日，發行第三張作品，手工單曲《馬子狗》。
 
-2012年年初，於台北市各大咖啡館巡迴演出。2月11日發行第四張作品，單曲《To My
-Dear》，各收錄一首個人作品。3月，PiA樂團得到前[行政院新聞局](../Page/行政院新聞局.md "wikilink")（現已裁撤）的樂團補助，著手製作首張專輯。同年6月30日，請來[輕鬆玩](../Page/輕鬆玩.md "wikilink")吉他手毛琮文參與錄音製作，與攝影雜誌SNAPPP合作發行第五張作品，首張專輯《真心話》，出品人為SNAPPP總編輯張簡誌瑋，收錄了十首兩人四年多的創作心血，也在歌曲中加入了各種弦樂器的表現，例如：大提琴、中提琴、小提琴……等。
+2012年年初，於台北市各大咖啡館巡迴演出。2月11日發行第四張作品，單曲《To My Dear》，各收錄一首個人作品。3月，PiA樂團得到前[行政院新聞局](../Page/行政院新聞局.md "wikilink")（現已裁撤）的樂團補助，著手製作首張專輯。同年6月30日，請來[輕鬆玩](../Page/輕鬆玩.md "wikilink")吉他手毛琮文參與錄音製作，與攝影雜誌SNAPPP合作發行第五張作品，首張專輯《真心話》，出品人為SNAPPP總編輯張簡誌瑋，收錄了十首兩人四年多的創作心血，也在歌曲中加入了各種弦樂器的表現，例如：大提琴、中提琴、小提琴……等。
 
 2013年1月15日，Pia樂團在Facebook粉絲頁宣佈Pia和小松停止合作關係。
 
@@ -23,8 +22,7 @@ Dear》，各收錄一首個人作品。3月，PiA樂團得到前[行政院新�
 
 2013年11月13日，網路直播節目『阿你看PiA』正式開播。
 
-2013年11月20日，PiA 於日本發行首張專輯《夢みるキンギョ》(大金魚的冒險)，此次發行挑選出PiA
-2010-2013發行過的經典作品與加收錄一首日文版新曲(而我愛你)，另外更與七組日本創作人、樂團合作remix與cover。
+2013年11月20日，PiA 於日本發行首張專輯《夢みるキンギョ》(大金魚的冒險)，此次發行挑選出PiA 2010-2013發行過的經典作品與加收錄一首日文版新曲(而我愛你)，另外更與七組日本創作人、樂團合作remix與cover。
 
 2013年12月21日 PiA樂團x柴郡貓展開為期12天的日本音樂歷險之旅(東京、大阪、京都、奈良)。
 
@@ -1370,8 +1368,7 @@ Dalala
 
 ## 獎項
 
-  - 入圍[第26屆金曲獎](https://zh.wikipedia.org/wiki/第26屆金曲獎 "wikilink") -
-    [最佳演唱組合獎](../Page/最佳演唱組合獎_\(金曲獎\).md "wikilink")
+  - 入圍[第26屆金曲獎](https://zh.wikipedia.org/wiki/第26屆金曲獎 "wikilink") - [最佳演唱組合獎](../Page/最佳演唱組合獎_\(金曲獎\).md "wikilink")
 
 ## 參考資料
 
@@ -1382,8 +1379,6 @@ Dalala
   - [PiA樂團StreetVoice](http://tw.streetvoice.com/users/piastudent/)
   - [PiA樂團iNDIEVOX](http://www.indievox.com/piastudent)
 
-[Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink")
-[Category:PiA樂團](https://zh.wikipedia.org/wiki/Category:PiA樂團 "wikilink")
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
+[Category:台灣樂團](https://zh.wikipedia.org/wiki/Category:台灣樂團 "wikilink") [Category:PiA樂團](https://zh.wikipedia.org/wiki/Category:PiA樂團 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
 
 1.

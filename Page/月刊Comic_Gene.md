@@ -1,13 +1,10 @@
-****是[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")[角川书店和](https://zh.wikipedia.org/wiki/角川书店 "wikilink")[Media
-Factory發行的](../Page/Media_Factory.md "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。2011年6月15日發售創刊第一號（七月號）。
+****是[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")[角川书店和](https://zh.wikipedia.org/wiki/角川书店 "wikilink")[Media Factory發行的](../Page/Media_Factory.md "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。2011年6月15日發售創刊第一號（七月號）。
 
 ## 概要
 
-最初的概念為「**女性向的少年漫畫雜誌**」。雜誌名為[英語中代表](https://zh.wikipedia.org/wiki/英語 "wikilink")[基因](../Page/基因.md "wikilink")的字「*Gene*」，[廣告標語](../Page/廣告標語.md "wikilink")為「****」。多為從「」與「[月刊Comic
-Alive](../Page/月刊Comic_Alive.md "wikilink")」移植過來的作品。
+最初的概念為「**女性向的少年漫畫雜誌**」。雜誌名為[英語中代表](https://zh.wikipedia.org/wiki/英語 "wikilink")[基因](../Page/基因.md "wikilink")的字「*Gene*」，[廣告標語](../Page/廣告標語.md "wikilink")為「****」。多為從「」與「[月刊Comic Alive](../Page/月刊Comic_Alive.md "wikilink")」移植過來的作品。
 
-原本在株式會社Media
-Factory的時代2010年12月便作了「2011年4月創刊」的發表聲明\[1\]，但因受2011年3月11日[東日本大震災](../Page/東日本大震災.md "wikilink")影響，創刊日延至預定日後兩個月的6月15日\[2\]。
+原本在株式會社Media Factory的時代2010年12月便作了「2011年4月創刊」的發表聲明\[1\]，但因受2011年3月11日[東日本大震災](../Page/東日本大震災.md "wikilink")影響，創刊日延至預定日後兩個月的6月15日\[2\]。
 
 所刊登作品的單行本由為商標發行。2011年11月26日創刊。
 
@@ -83,21 +80,17 @@ exENDs（原作：まなーん、漫畫：トリ）
 
   - アンティマギア（） - vol.1（2011年7月号）〜vol.10（2012年4月号）
 
-  - [歌變。](https://zh.wikipedia.org/wiki/超譯百人一首戀歌#歌變 "wikilink") -
-    vol.11（2012年5月号）〜vol.16（2012年10月号）
+  - [歌變。](https://zh.wikipedia.org/wiki/超譯百人一首戀歌#歌變 "wikilink") - vol.11（2012年5月号）〜vol.16（2012年10月号）
 
   - 海賊伯（） - vol.1（2011年7月号）〜vol.11（2012年5月号）
 
   - カムサリ（） - vol.1（2011年7月号）〜vol.11（2012年5月号）
 
-  - （[藤山海里](https://zh.wikipedia.org/wiki/藤山海里 "wikilink")） -
-    vol.1（2011年7月号）〜vol.18（2012年12月号）
+  - （[藤山海里](https://zh.wikipedia.org/wiki/藤山海里 "wikilink")） - vol.1（2011年7月号）〜vol.18（2012年12月号）
 
-  - [吟遊戲曲BlackBard](https://zh.wikipedia.org/wiki/吟遊戲曲BlackBard "wikilink")（[漣一彌](https://zh.wikipedia.org/wiki/漣一彌 "wikilink")）
-    - vol.2（2011年8月号）〜vol.18（2012年12月号）
+  - [吟遊戲曲BlackBard](https://zh.wikipedia.org/wiki/吟遊戲曲BlackBard "wikilink")（[漣一彌](https://zh.wikipedia.org/wiki/漣一彌 "wikilink")） - vol.2（2011年8月号）〜vol.18（2012年12月号）
 
-  - [十五少年漂流記](../Page/十五少年漂流記.md "wikilink")（原案：[儒勒·凡爾納](https://zh.wikipedia.org/wiki/儒勒·凡爾納 "wikilink")、作畫：[しわすだ](https://zh.wikipedia.org/wiki/しわすだ "wikilink")）
-    - vol.1（2011年7月号）〜vol.21（2013年3月号）、vol.13（2012年7月号）より隔月連載化
+  - [十五少年漂流記](../Page/十五少年漂流記.md "wikilink")（原案：[儒勒·凡爾納](https://zh.wikipedia.org/wiki/儒勒·凡爾納 "wikilink")、作畫：[しわすだ](https://zh.wikipedia.org/wiki/しわすだ "wikilink")） - vol.1（2011年7月号）〜vol.21（2013年3月号）、vol.13（2012年7月号）より隔月連載化
 
   - （葛屋カツキ） - vol.1（2011年7月号）〜vol.18（2012年12月号）
 
@@ -105,38 +98,26 @@ exENDs（原作：まなーん、漫畫：トリ）
 
   - （狩野アユミ） - vol.1（2011年7月号）〜vol.15（2012年9月号）
 
-  - [追逐繁星的孩子](../Page/追逐繁星的孩子.md "wikilink")（原作：[新海誠](../Page/新海誠.md "wikilink")、作畫：[ひだかあさひ](https://zh.wikipedia.org/wiki/ひだかあさひ "wikilink")）
-    - vol.1（2011年7月号）〜vol.9（2012年3月号）
+  - [追逐繁星的孩子](../Page/追逐繁星的孩子.md "wikilink")（原作：[新海誠](../Page/新海誠.md "wikilink")、作畫：[ひだかあさひ](https://zh.wikipedia.org/wiki/ひだかあさひ "wikilink")） - vol.1（2011年7月号）〜vol.9（2012年3月号）
 
-  - マリシャスコード（[池野雅博](https://zh.wikipedia.org/wiki/池野雅博 "wikilink")） -
-    vol.3（2011年9月号）〜vol.19（2013年1月号）
+  - マリシャスコード（[池野雅博](https://zh.wikipedia.org/wiki/池野雅博 "wikilink")） - vol.3（2011年9月号）〜vol.19（2013年1月号）
 
   - M@te（青鹿ゆう） - vol.5（2011年11月号）〜vol.15（2012年9月号）
 
-  - （[姫川明](https://zh.wikipedia.org/wiki/姫川明 "wikilink")） -
-    vol.1（2011年7月号）〜vol.12（2012年6月号）
+  - （[姫川明](https://zh.wikipedia.org/wiki/姫川明 "wikilink")） - vol.1（2011年7月号）〜vol.12（2012年6月号）
 
 ### 連載預定作品
 
-  - [ジーンメタリカ -機巧少女不會受傷
-    Re:Acta-](../Page/機巧少女不會受傷.md "wikilink")（漫畫：[釜田みさと](https://zh.wikipedia.org/wiki/釜田みさと "wikilink")、原作：[海冬零兒](../Page/海冬零兒.md "wikilink")、角色原案：[LLO](https://zh.wikipedia.org/wiki/LLO "wikilink")）
-    - vol.22（2013年5月號）
-  - [魔法戰爭](../Page/魔法戰爭.md "wikilink")（漫畫：[伊吹有](https://zh.wikipedia.org/wiki/伊吹有 "wikilink")、原作：[鈴木央](../Page/鈴木央_\(小說家\).md "wikilink")、角色原案：[瑠奈璃亞](https://zh.wikipedia.org/wiki/瑠奈璃亞 "wikilink")）
-    - vol.22（2013年5月號）
+  - [ジーンメタリカ -機巧少女不會受傷 Re:Acta-](../Page/機巧少女不會受傷.md "wikilink")（漫畫：[釜田みさと](https://zh.wikipedia.org/wiki/釜田みさと "wikilink")、原作：[海冬零兒](../Page/海冬零兒.md "wikilink")、角色原案：[LLO](https://zh.wikipedia.org/wiki/LLO "wikilink")） - vol.22（2013年5月號）
+  - [魔法戰爭](../Page/魔法戰爭.md "wikilink")（漫畫：[伊吹有](https://zh.wikipedia.org/wiki/伊吹有 "wikilink")、原作：[鈴木央](../Page/鈴木央_\(小說家\).md "wikilink")、角色原案：[瑠奈璃亞](https://zh.wikipedia.org/wiki/瑠奈璃亞 "wikilink")） - vol.22（2013年5月號）
 
 ## 參考資料
 
 ## 外部連結
 
-  - [月刊コミックジーン COMIC GENE OFFICIAL SITE](http://www.comic-gene.com/) -
-    公式網站。
+  - [月刊コミックジーン COMIC GENE OFFICIAL SITE](http://www.comic-gene.com/) - 公式網站。
 
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:女性漫畫雜誌](https://zh.wikipedia.org/wiki/Category:女性漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
+[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:女性漫畫雜誌](https://zh.wikipedia.org/wiki/Category:女性漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
 
-1.  [女子が読む少年誌・月刊コミックジーン、2011年4月創刊](http://natalie.mu/comic/news/41541) -
-    [コミックナタリー](https://zh.wikipedia.org/wiki/ナタリー_\(ニュースサイト\) "wikilink")、2010年12月4日
-2.  [創刊日決定\!
-    「月刊コミックジーン」、2011年6月15日に超創刊](http://journal.mycom.co.jp/news/2011/03/31/091/index.html)
-     - マイコミジャーナル、2011年3月31日
+1.  [女子が読む少年誌・月刊コミックジーン、2011年4月創刊](http://natalie.mu/comic/news/41541) - [コミックナタリー](https://zh.wikipedia.org/wiki/ナタリー_\(ニュースサイト\) "wikilink")、2010年12月4日
+2.  [創刊日決定\! 「月刊コミックジーン」、2011年6月15日に超創刊](http://journal.mycom.co.jp/news/2011/03/31/091/index.html)  - マイコミジャーナル、2011年3月31日

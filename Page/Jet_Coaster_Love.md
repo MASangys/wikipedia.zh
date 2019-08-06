@@ -1,6 +1,4 @@
-「**Jet Coaster
-Love**」（）是韩国女子组合[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")3張單曲。2011年4月6日由[UNIVERSAL
-SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")。
+「**Jet Coaster Love**」（）是韩国女子组合[KARA的第](https://zh.wikipedia.org/wiki/KARA "wikilink")3張單曲。2011年4月6日由[UNIVERSAL SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")。
 
 ## 版本
 
@@ -93,8 +91,4 @@ Kimzart</p></td>
 
 ### 參考資料
 
-[Category:KARA歌曲](https://zh.wikipedia.org/wiki/Category:KARA歌曲 "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2011年RIAJ付費音樂下載榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年RIAJ付費音樂下載榜冠軍歌曲 "wikilink")
-[Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")
+[Category:KARA歌曲](https://zh.wikipedia.org/wiki/Category:KARA歌曲 "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:2011年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2011年Oricon單曲週榜冠軍作品 "wikilink") [Category:2011年RIAJ付費音樂下載榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2011年RIAJ付費音樂下載榜冠軍歌曲 "wikilink") [Category:日本環球唱片歌曲](https://zh.wikipedia.org/wiki/Category:日本環球唱片歌曲 "wikilink")

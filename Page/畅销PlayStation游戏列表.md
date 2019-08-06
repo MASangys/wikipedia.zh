@@ -1,62 +1,22 @@
-[PSX-Console-wController.jpg](https://zh.wikipedia.org/wiki/File:PSX-Console-wController.jpg "fig:PSX-Console-wController.jpg")\]\]
-
-**最畅销的PlayStation游戏列表**是一个已售出或出货至少十万份的[PlayStation](../Page/PlayStation_\(遊戲機\).md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")列表。
+[PSX-Console-wController.jpg](https://zh.wikipedia.org/wiki/File:PSX-Console-wController.jpg "fig:PSX-Console-wController.jpg")\]\]   **最畅销的PlayStation游戏列表**是一个已售出或出货至少十万份的[PlayStation](../Page/PlayStation_\(遊戲機\).md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")列表。
 
 ## 列表
 
-<onlyinclude>{| class="wikitable sortable" style="font-size:85%;"
-|+[PlayStation](../Page/PlayStation.md "wikilink") games which have sold
-or shipped <noinclude>one</noinclude><includeonly>five</includeonly>
-million copies<includeonly> \[\]</includeonly> |- \! style="width:15%;"|
-游戏名 \! style="width:15%;"| 销售数量 \! style="width:20%;"| 地区销售 \!
-style="width:10%;"| 发行日期 \! style="width:10%;"| 类型 \!
-style="width:15%;"| 制作商 \! style="width:15%;"| 发行商 |-
-|[GT賽車](https://zh.wikipedia.org/wiki/GT賽車_\(遊戲\) "wikilink")
-|出货1085万\[1\]\[2\] | | | |POLYPHONY |Sony Computer Entertainment |-
-|[GT賽車2](../Page/GT賽車2.md "wikilink") |出货997\[3\]\[4\] | | | |POLYPHONY
-|Sony Computer Entertainment |-
-|[最终幻想VII](../Page/最终幻想VII.md "wikilink") |972万\[5\] | |
-| | | |- |[最终幻想VIII](../Page/最终幻想VIII.md "wikilink") |815万\[6\] | | | |
-| |- |[哈利·波特与魔法石](../Page/哈利·波特与魔法石_\(游戏\).md "wikilink") |800万\[7\] | |
-| | |ea |- |[古墓丽影II](../Page/古墓丽影II.md "wikilink") |800万\[8\] | | | | |
-|- |[古惑狼3：扭曲](../Page/古惑狼3：扭曲.md "wikilink") |713万\[9\] | | | | | |-
-|[潛龍諜影](https://zh.wikipedia.org/wiki/潛龍諜影_\(遊戲\) "wikilink")
-|700万\[10\] | | | | | |-
-|[古墓奇兵](https://zh.wikipedia.org/wiki/古墓奇兵_\(1996年電子遊戲\) "wikilink")
-|700万\[11\] | | | | | |-
-|[古惑狼](https://zh.wikipedia.org/wiki/古惑狼_\(游戏\) "wikilink")
-|682万\[12\] | | | | | |-
-|[古墓丽影III：劳拉的冒险](../Page/古墓丽影III：劳拉的冒险.md "wikilink")
-|600万\[13\] | | | | | |- |[最终幻想IX](../Page/最终幻想IX.md "wikilink")
-|530万\[14\] | | | | | |- |[古惑狼2：皮质反击](../Page/古惑狼2：皮质反击.md "wikilink")
-|517万 |
+<onlyinclude>{| class="wikitable sortable" style="font-size:85%;" |+[PlayStation](../Page/PlayStation.md "wikilink") games which have sold or shipped <noinclude>one</noinclude><includeonly>five</includeonly> million copies<includeonly> \[\]</includeonly> |- \! style="width:15%;"| 游戏名 \! style="width:15%;"| 销售数量 \! style="width:20%;"| 地区销售 \! style="width:10%;"| 发行日期 \! style="width:10%;"| 类型 \! style="width:15%;"| 制作商 \! style="width:15%;"| 发行商 |- |[GT賽車](https://zh.wikipedia.org/wiki/GT賽車_\(遊戲\) "wikilink") |出货1085万\[1\]\[2\] | | | |POLYPHONY |Sony Computer Entertainment |- |[GT賽車2](../Page/GT賽車2.md "wikilink") |出货997\[3\]\[4\] | | | |POLYPHONY |Sony Computer Entertainment |- |[最终幻想VII](../Page/最终幻想VII.md "wikilink") |972万\[5\] | | | | | |- |[最终幻想VIII](../Page/最终幻想VIII.md "wikilink") |815万\[6\] | | | | | |- |[哈利·波特与魔法石](../Page/哈利·波特与魔法石_\(游戏\).md "wikilink") |800万\[7\] | | | | |ea |- |[古墓丽影II](../Page/古墓丽影II.md "wikilink") |800万\[8\] | | | | | |- |[古惑狼3：扭曲](../Page/古惑狼3：扭曲.md "wikilink") |713万\[9\] | | | | | |- |[潛龍諜影](https://zh.wikipedia.org/wiki/潛龍諜影_\(遊戲\) "wikilink") |700万\[10\] | | | | | |- |[古墓奇兵](https://zh.wikipedia.org/wiki/古墓奇兵_\(1996年電子遊戲\) "wikilink") |700万\[11\] | | | | | |- |[古惑狼](https://zh.wikipedia.org/wiki/古惑狼_\(游戏\) "wikilink") |682万\[12\] | | | | | |- |[古墓丽影III：劳拉的冒险](../Page/古墓丽影III：劳拉的冒险.md "wikilink") |600万\[13\] | | | | | |- |[最终幻想IX](../Page/最终幻想IX.md "wikilink") |530万\[14\] | | | | | |- |[古惑狼2：皮质反击](../Page/古惑狼2：皮质反击.md "wikilink") |517万 |
 
   - 美国市场387万\[15\]
   - 日本市场130万\[16\]
 
-| | | | |- |[古墓丽影：最后的启示](../Page/古墓丽影：最后的启示.md "wikilink") |500万\[17\] |
-| | | |<noinclude> |- |[生化危機2](../Page/生化危機2.md "wikilink") |496万\[18\]
-| | | | | |-
-|[小龙斯派罗](https://zh.wikipedia.org/wiki/小龙斯派罗_\(游戏\) "wikilink")
-|483.2万\[19\] | | | | | |-
-|[铁拳3](https://zh.wikipedia.org/wiki/铁拳3 "wikilink") |464万 |
+| | | | |- |[古墓丽影：最后的启示](../Page/古墓丽影：最后的启示.md "wikilink") |500万\[17\] | | | | |<noinclude> |- |[生化危機2](../Page/生化危機2.md "wikilink") |496万\[18\] | | | | | |- |[小龙斯派罗](https://zh.wikipedia.org/wiki/小龙斯派罗_\(游戏\) "wikilink") |483.2万\[19\] | | | | | |- |[铁拳3](https://zh.wikipedia.org/wiki/铁拳3 "wikilink") |464万 |
 
   - 美国市场324万\[20\]
   - 日本市场140万\[21\]
 
-| | | | |- |[勇者斗恶龙VII 伊甸的战士们](../Page/勇者斗恶龙VII_伊甸的战士们.md "wikilink")
-|412万 |
+| | | | |- |[勇者斗恶龙VII 伊甸的战士们](../Page/勇者斗恶龙VII_伊甸的战士们.md "wikilink") |412万 |
 
   - 日本市场412万\[22\]
 
-| | | | |- |[雷曼](https://zh.wikipedia.org/wiki/雷曼_\(游戏\) "wikilink")
-|400万\[23\] | | | | | |-
-|[阿比逃亡记](https://zh.wikipedia.org/wiki/阿比逃亡记 "wikilink")
-|350万\[24\] | | | | | |-
-|[生化危機3](https://zh.wikipedia.org/wiki/生化危機3 "wikilink")
-|350万\[25\] | | | | | |-
-|[小龙斯派罗2：利普多的愤怒](https://zh.wikipedia.org/wiki/小龙斯派罗2：利普多的愤怒 "wikilink")
-|345.1万\[26\] | | | | | |- | |337万 |
+| | | | |- |[雷曼](https://zh.wikipedia.org/wiki/雷曼_\(游戏\) "wikilink") |400万\[23\] | | | | | |- |[阿比逃亡记](https://zh.wikipedia.org/wiki/阿比逃亡记 "wikilink") |350万\[24\] | | | | | |- |[生化危機3](https://zh.wikipedia.org/wiki/生化危機3 "wikilink") |350万\[25\] | | | | | |- |[小龙斯派罗2：利普多的愤怒](https://zh.wikipedia.org/wiki/小龙斯派罗2：利普多的愤怒 "wikilink") |345.1万\[26\] | | | | | |- | |337万 |
 
   - 美国市场337万\[27\]
 
@@ -70,27 +30,21 @@ style="width:15%;"| 制作商 \! style="width:15%;"| 发行商 |-
   - 美国市场302万\[30\]
   - 英国市场30万\[31\]
 
-| | | | |- |[小龙斯派罗：龙年](../Page/小龙斯派罗：龙年.md "wikilink") |328.3万\[32\] | |
-| | | |- | |322万 |
+| | | | |- |[小龙斯派罗：龙年](../Page/小龙斯派罗：龙年.md "wikilink") |328.3万\[32\] | | | | | |- | |322万 |
 
   - 美国市场322万\[33\]
 
-| | | | |-
-|[托尼·霍克职业滑板2](https://zh.wikipedia.org/wiki/托尼·霍克职业滑板2 "wikilink")
-|315万 |
+| | | | |- |[托尼·霍克职业滑板2](https://zh.wikipedia.org/wiki/托尼·霍克职业滑板2 "wikilink") |315万 |
 
   - 美国市场285万\[34\]
   - 英国市场30万\[35\]
 
-| | | | |- | |300万\[36\] | | | | | |- | |300万\[37\] | | | | | |- | |285万
-|
+| | | | |- | |300万\[36\] | | | | | |- | |300万\[37\] | | | | | |- | |285万 |
 
   - 美国市场255万\[38\]
   - 英国市场30万\[39\]
 
-| | | | |- |[生化危机](https://zh.wikipedia.org/wiki/生化危机_\(游戏\) "wikilink")
-|275万\[40\] | | | | | |- |[恐龍危機](../Page/恐龍危機.md "wikilink") |240万\[41\]
-| | | | | |- |[最终幻想战略版](../Page/最终幻想战略版.md "wikilink") |230万 |
+| | | | |- |[生化危机](https://zh.wikipedia.org/wiki/生化危机_\(游戏\) "wikilink") |275万\[40\] | | | | | |- |[恐龍危機](../Page/恐龍危機.md "wikilink") |240万\[41\] | | | | | |- |[最终幻想战略版](../Page/最终幻想战略版.md "wikilink") |230万 |
 
   - 日本市场135万\[42\]
   - 美国市场95万\[43\]
@@ -104,9 +58,7 @@ style="width:15%;"| 制作商 \! style="width:15%;"| 发行商 |-
   - 美国市场190万\[45\]
   - 英国市场30万\[46\]
 
-| | | | |-
-|[托尼·霍克职业滑板3](https://zh.wikipedia.org/wiki/托尼·霍克职业滑板3 "wikilink")
-|220万 |
+| | | | |- |[托尼·霍克职业滑板3](https://zh.wikipedia.org/wiki/托尼·霍克职业滑板3 "wikilink") |220万 |
 
   - 美国市场210万\[47\]
   - 英国市场10万\[48\]
@@ -115,8 +67,7 @@ style="width:15%;"| 制作商 \! style="width:15%;"| 发行商 |-
 
   - 美国市场220万\[49\]
 
-| | | | |- |[全民高尔夫](https://zh.wikipedia.org/wiki/全民高尔夫 "wikilink")
-|213万 |
+| | | | |- |[全民高尔夫](https://zh.wikipedia.org/wiki/全民高尔夫 "wikilink") |213万 |
 
   - 日本市场213万\[50\]
 
@@ -128,10 +79,7 @@ style="width:15%;"| 制作商 \! style="width:15%;"| 发行商 |-
 
   - 日本市场200万\[52\]
 
-| | | | |- |[寂静岭](../Page/寂静岭_\(游戏\).md "wikilink") |200万\[53\] | | | |
-| |- |[WWF
-SmackDown\!](https://zh.wikipedia.org/wiki/WWF_SmackDown! "wikilink")
-|192万 |
+| | | | |- |[寂静岭](../Page/寂静岭_\(游戏\).md "wikilink") |200万\[53\] | | | | | |- |[WWF SmackDown\!](https://zh.wikipedia.org/wiki/WWF_SmackDown! "wikilink") |192万 |
 
   - 美国市场162万\[54\]
   - 英国市场30万\[55\]
@@ -151,8 +99,7 @@ SmackDown\!](https://zh.wikipedia.org/wiki/WWF_SmackDown! "wikilink")
   - 美国市场155万\[60\]
   - 英国市场30万\[61\]
 
-| | | | |- |[寄生前夜](../Page/寄生前夜_\(遊戲\).md "wikilink")
-|179.9万：出货194万\[62\] |
+| | | | |- |[寄生前夜](../Page/寄生前夜_\(遊戲\).md "wikilink") |179.9万：出货194万\[62\] |
 
   - 日本市场105万\[63\]
   - 美国市场74.9万\[64\]
@@ -197,8 +144,7 @@ SmackDown\!](https://zh.wikipedia.org/wiki/WWF_SmackDown! "wikilink")
 
   - 美国市场150万\[77\]
 
-| | | | |- |[凯恩的遗产：勾魂使者](../Page/凯恩的遗产：勾魂使者.md "wikilink") |150万\[78\] |
-| | | | |- | |150万 |
+| | | | |- |[凯恩的遗产：勾魂使者](../Page/凯恩的遗产：勾魂使者.md "wikilink") |150万\[78\] | | | | | |- | |150万 |
 
   - 美国市场150万\[79\]
 
@@ -214,14 +160,12 @@ SmackDown\!](https://zh.wikipedia.org/wiki/WWF_SmackDown! "wikilink")
 
   - 美国市场146万\[83\]
 
-| | | | |- |[俠盜獵車手II](https://zh.wikipedia.org/wiki/俠盜獵車手II "wikilink")
-|145万 |
+| | | | |- |[俠盜獵車手II](https://zh.wikipedia.org/wiki/俠盜獵車手II "wikilink") |145万 |
 
   - 美国市场115万\[84\]
   - 英国市场30万\[85\]
 
-| | | | |- |[全民高尔夫2](https://zh.wikipedia.org/wiki/全民高尔夫2 "wikilink")
-|144万 |
+| | | | |- |[全民高尔夫2](https://zh.wikipedia.org/wiki/全民高尔夫2 "wikilink") |144万 |
 
   - 日本市场144万\[86\]
 
@@ -284,22 +228,15 @@ SmackDown\!](https://zh.wikipedia.org/wiki/WWF_SmackDown! "wikilink")
 
   - 美国市场121万\[104\]
 
-| | | | |- |[勇者斗恶龙IV 被引导的人们](../Page/勇者斗恶龙IV_被引导的人们.md "wikilink") |120万
-|
+| | | | |- |[勇者斗恶龙IV 被引导的人们](../Page/勇者斗恶龙IV_被引导的人们.md "wikilink") |120万 |
 
   - 日本市场120万\[105\]
 
-| | | | |- |[Resident Evil DC Dual Shock](../Page/生化危機2.md "wikilink")
-|120万\[106\] | | | | | |- |[命運傳奇](../Page/命運傳奇.md "wikilink")
-|119.3万\[107\]\[108\] | | | | | |-
-|[恐龙危机2](../Page/恐龙危机2.md "wikilink") |119万\[109\] | | |
-| | |- | |119万 |
+| | | | |- |[Resident Evil DC Dual Shock](../Page/生化危機2.md "wikilink") |120万\[106\] | | | | | |- |[命運傳奇](../Page/命運傳奇.md "wikilink") |119.3万\[107\]\[108\] | | | | | |- |[恐龙危机2](../Page/恐龙危机2.md "wikilink") |119万\[109\] | | | | | |- | |119万 |
 
   - 美国市场119万\[110\]
 
-| | | | |-
-|[陆行鸟的不思议迷宫](https://zh.wikipedia.org/wiki/陆行鸟的不思议迷宫 "wikilink")
-|116.6万 |
+| | | | |- |[陆行鸟的不思议迷宫](https://zh.wikipedia.org/wiki/陆行鸟的不思议迷宫 "wikilink") |116.6万 |
 
   - 日本市场116.6万\[111\]\[112\]
 
@@ -320,9 +257,7 @@ SmackDown\!](https://zh.wikipedia.org/wiki/WWF_SmackDown! "wikilink")
   - 日本市场891,671\[117\]
   - 美国市场239,000\[118\]
 
-| | | | |- |[生化危机 Director's
-Cut](https://zh.wikipedia.org/wiki/生化危机_\(游戏\)#Director's_Cut "wikilink")
-|113万\[119\] | | | | | |- | |112万 |
+| | | | |- |[生化危机 Director's Cut](https://zh.wikipedia.org/wiki/生化危机_\(游戏\)#Director's_Cut "wikilink") |113万\[119\] | | | | | |- | |112万 |
 
   - 美国市场112万\[120\]
 
@@ -346,8 +281,7 @@ Cut](https://zh.wikipedia.org/wiki/生化危机_\(游戏\)#Director's_Cut "wikil
 
   - 日本市场110万\[125\]
 
-| | | | |- |[星海遊俠2 二次進化](../Page/星海遊俠2_二次進化.md "wikilink")
-|109.4万\[126\] | | | | | |- | |109万 |
+| | | | |- |[星海遊俠2 二次進化](../Page/星海遊俠2_二次進化.md "wikilink") |109.4万\[126\] | | | | | |- | |109万 |
 
   - 美国市场109万\[127\]
 
@@ -379,9 +313,7 @@ Cut](https://zh.wikipedia.org/wiki/生化危机_\(游戏\)#Director's_Cut "wikil
 
   - 日本市场104万\[134\]
 
-| | | | |- |[世界足球
-实况胜利十一人4](https://zh.wikipedia.org/wiki/世界足球_实况胜利十一人4 "wikilink")
-|102万 |
+| | | | |- |[世界足球 实况胜利十一人4](https://zh.wikipedia.org/wiki/世界足球_实况胜利十一人4 "wikilink") |102万 |
 
   - 日本市场102万\[135\]
 
@@ -393,29 +325,23 @@ Cut](https://zh.wikipedia.org/wiki/生化危机_\(游戏\)#Director's_Cut "wikil
 
   - 美国市场100万\[137\]
 
-| | | | |- |[Simple 1500 Series Vol. 1: The
-Mahjong](https://zh.wikipedia.org/wiki/Simple系列 "wikilink") |100万 |
+| | | | |- |[Simple 1500 Series Vol. 1: The Mahjong](https://zh.wikipedia.org/wiki/Simple系列 "wikilink") |100万 |
 
   - 日本市场100万\[138\]
 
-| | | | |- |[Street Fighter Alpha
-3](https://zh.wikipedia.org/wiki/Street_Fighter_Alpha_3 "wikilink")
-|100万\[139\] | | | | | |- |[铁拳](../Page/铁拳_\(游戏\).md "wikilink")
-|100万\[140\] | | | | | |- | |100万\[141\] | | | | |</noinclude> |}
+| | | | |- |[Street Fighter Alpha 3](https://zh.wikipedia.org/wiki/Street_Fighter_Alpha_3 "wikilink") |100万\[139\] | | | | | |- |[铁拳](../Page/铁拳_\(游戏\).md "wikilink") |100万\[140\] | | | | | |- | |100万\[141\] | | | | |</noinclude> |}
 
 截止至2007年3月31日，PlayStation游戏共售出9亿6200万份。\[142\]</onlyinclude>
 
 ### PocketStation
 
-[PocketStation](../Page/PocketStation.md "wikilink") games that have
-sold or shipped at least one million copies.
+[PocketStation](../Page/PocketStation.md "wikilink") games that have sold or shipped at least one million copies.
 
   - [井上多樂](../Page/井上多樂.md "wikilink") (日本市场110万)\[143\]
 
 ## 参考资料
 
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
+[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
 
 1.
 

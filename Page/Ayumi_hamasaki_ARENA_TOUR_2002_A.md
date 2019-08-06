@@ -1,18 +1,10 @@
-《**ayumi hamasaki ARENA TOUR 2002 A**》（濱崎步 2002 體育館巡迴演唱會
-A）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2002年春季舉行的全國體育館巡迴演唱會。2003年1月29日發行的影像作品。
+《**ayumi hamasaki ARENA TOUR 2002 A**》（濱崎步 2002 體育館巡迴演唱會 A）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2002年春季舉行的全國體育館巡迴演唱會。2003年1月29日發行的影像作品。
 
 ## 說明
 
 這是一場不一樣的演唱會，不僅有贊助商贊助濱崎步，它也是首次被命名為「ARENA TOUR」的巡迴演唱會。
 
-在2003年1月29日發行的「[ayumi hamasaki COMPLETE LIVE BOX
-A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COMPLETE_LIVE_BOX_A "wikilink")」，不僅收錄「[ayumi
-hamasaki COUNTDOWN LIVE 2001-2002
-A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2001-2002_A "wikilink")」、本作「**ayumi
-hamasaki ARENA TOUR 2002 A**」、「[ayumi hamasaki STADIUM TOUR 2002
-A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_STADIUM_TOUR_2002_A "wikilink")」3種演唱會，其中收錄特典「[ayumi
-hamasaki COUNTDOWN LIVE 2002-2003
-A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2002-2003_A "wikilink")」的DVD。
+在2003年1月29日發行的「[ayumi hamasaki COMPLETE LIVE BOX A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COMPLETE_LIVE_BOX_A "wikilink")」，不僅收錄「[ayumi hamasaki COUNTDOWN LIVE 2001-2002 A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2001-2002_A "wikilink")」、本作「**ayumi hamasaki ARENA TOUR 2002 A**」、「[ayumi hamasaki STADIUM TOUR 2002 A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_STADIUM_TOUR_2002_A "wikilink")」3種演唱會，其中收錄特典「[ayumi hamasaki COUNTDOWN LIVE 2002-2003 A](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2002-2003_A "wikilink")」的DVD。
 
 本作DVD版本與VHS版本的曲順有所替換，而「taskinlude」也被剪輯取代。
 
@@ -72,5 +64,4 @@ DVD bonus track
 
 </small>
 
-[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink")
-[Category:2003年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2003年音樂相關影像作品 "wikilink")
+[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink") [Category:2003年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2003年音樂相關影像作品 "wikilink")

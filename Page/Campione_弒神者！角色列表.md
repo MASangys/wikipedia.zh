@@ -1,5 +1,4 @@
-此列表是《**[Campione
-弒神者！](../Page/Campione_弒神者！.md "wikilink")**》內的**登場人物**的介紹，中文譯名以台灣青文出版社之繁體中文版為準。
+此列表是《**[Campione 弒神者！](../Page/Campione_弒神者！.md "wikilink")**》內的**登場人物**的介紹，中文譯名以台灣青文出版社之繁體中文版為準。
 
 ※以下介紹中包含一部份原作輕小說與電視動畫劇情，請斟酌閱讀。
 
@@ -495,8 +494,7 @@
 <!-- end list -->
 
   -
-    在Sorcerous Sacrilege
-    Investigation（SSI洛杉磯分部）工作，其組織是對關於魔術，超自然現象事件的調查、關聯情報的隱藏而設立的政府機關，曾做過市警刑事。
+    在Sorcerous Sacrilege Investigation（SSI洛杉磯分部）工作，其組織是對關於魔術，超自然現象事件的調查、關聯情報的隱藏而設立的政府機關，曾做過市警刑事。
     有一位名叫愛麗森的女友，在半年前曾分手，但現在復合了。
     被安妮評價為不是非常帥卻又紳士又瀟灑，熱血男兒但不覺得過熱，莽撞但是頭腦不壞，少有的優良貨品。
 
@@ -659,8 +657,7 @@
 
   - [Campione 弒神者！](../Page/Campione_弒神者！.md "wikilink")
 
-[Category:輕小說角色列表](https://zh.wikipedia.org/wiki/Category:輕小說角色列表 "wikilink")
-[Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
+[Category:輕小說角色列表](https://zh.wikipedia.org/wiki/Category:輕小說角色列表 "wikilink") [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
 
 1.  小說第三集得知
 2.  小說第三集得知，在初中畢業式結束後的春假時打倒戰神烏魯斯拉格

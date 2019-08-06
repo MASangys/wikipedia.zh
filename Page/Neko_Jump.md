@@ -1,5 +1,4 @@
-**Neko Jump**（**NEKO JUMP**,
-**ネコジャンプ**\[1\]、）是[泰國的双胞胎組合](https://zh.wikipedia.org/wiki/泰國 "wikilink")。2006年9月出道。2007年開始進行公演。
+**Neko Jump**（**NEKO JUMP**, **ネコジャンプ**\[1\]、）是[泰國的双胞胎組合](https://zh.wikipedia.org/wiki/泰國 "wikilink")。2006年9月出道。2007年開始進行公演。
 
 ## 成員
 
@@ -8,27 +7,17 @@
 
 ## 日本的活動
 
-  - 2007年3月4日…[GIRL SINGERS LIVE IN
-    TOKYO 2007](http://www.sawadee-shop.com/sawadeemusic/rs2007concert.htmlRS)
-    （[DUO MUSIC
-    EXCHANGE](https://zh.wikipedia.org/wiki/Shibuya_O-East "wikilink")）
-  - 2008年3月15日…[GIRL SINGERS
-    FESTIVAL 2008](http://www.sawadee-shop.com/sawadeemusic/rs2008concert.htmlRS)（原宿アストロホール）
-  - 2008年5月26日…[湄公河](../Page/湄公河.md "wikilink")音樂祭前夜祭 （[Shibuya
-    eggman](https://zh.wikipedia.org/wiki/Shibuya_eggman "wikilink")）
+  - 2007年3月4日…[GIRL SINGERS LIVE IN TOKYO 2007](http://www.sawadee-shop.com/sawadeemusic/rs2007concert.htmlRS) （[DUO MUSIC EXCHANGE](https://zh.wikipedia.org/wiki/Shibuya_O-East "wikilink")）
+  - 2008年3月15日…[GIRL SINGERS FESTIVAL 2008](http://www.sawadee-shop.com/sawadeemusic/rs2008concert.htmlRS)（原宿アストロホール）
+  - 2008年5月26日…[湄公河](../Page/湄公河.md "wikilink")音樂祭前夜祭 （[Shibuya eggman](https://zh.wikipedia.org/wiki/Shibuya_eggman "wikilink")）
   - 2008年5月27日…湄公河川音樂祭（[神奈川縣立音樂堂](https://zh.wikipedia.org/wiki/神奈川縣立音樂堂 "wikilink")）
-  - 2009年10月24日…STARCHILD
-    PRESENTSキルミンずぅが来るみんずぅ（[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")）
-  - 2009年10月24日 -
-    25日…第3回横浜タイフェスティバル（[赤レンガ倉庫前廣場](https://zh.wikipedia.org/wiki/赤レンガ倉庫 "wikilink")）
+  - 2009年10月24日…STARCHILD PRESENTSキルミンずぅが来るみんずぅ（[秋葉原UDX](../Page/秋葉原UDX.md "wikilink")）
+  - 2009年10月24日 - 25日…第3回横浜タイフェスティバル（[赤レンガ倉庫前廣場](https://zh.wikipedia.org/wiki/赤レンガ倉庫 "wikilink")）
   - 2009年12月23日…[日本](../Page/日本.md "wikilink")CD出道
   - 2009年12月23日…日本出道單曲發售記念・トーク&迷你Live&握手会（HMV池袋メトロポリタンプラザ）
   - 2010年5月15日 - 16日… 第11回 タイ・フェスティバル2010 in 代々木公園
-  - 2010年8月1日…[THAI IDOL FESTIVAL 2010 -RS KAMIKAZE
-    WAVE-](http://www.sawadee-shop.com/sawadeemusic/thaiidolfestival2010.html)（東京・渋谷
-    DUO MUSICEXCHANGE）
-  - 2010年11月13日… 大人まんがまつりGERU-C閣下 対 オタククロニクル
-    出演（[クラブチッタ川崎](https://zh.wikipedia.org/wiki/クラブチッタ川崎 "wikilink")）
+  - 2010年8月1日…[THAI IDOL FESTIVAL 2010 -RS KAMIKAZE WAVE-](http://www.sawadee-shop.com/sawadeemusic/thaiidolfestival2010.html)（東京・渋谷 DUO MUSICEXCHANGE）
+  - 2010年11月13日… 大人まんがまつりGERU-C閣下 対 オタククロニクル 出演（[クラブチッタ川崎](https://zh.wikipedia.org/wiki/クラブチッタ川崎 "wikilink")）
   - 2011年8月6日… Thaiphoon ～タイフェア特別イベント～ UNICE（東京・代官山）
 
 ## 音樂作品
@@ -109,14 +98,10 @@ Neko Jump Early Best 2006〜2007</p></td>
 
   - [日本版官方網頁（スターチャイルドレコード）](http://www.starchild.co.jp/artist/nekojump/)
 
-  - [Neko Jumpオフィシャルブログ「化粧品売リ場ハ
-    ドコデスカ？」](http://ameblo.jp/nekojump-japan/)
+  - [Neko Jumpオフィシャルブログ「化粧品売リ場ハ ドコデスカ？」](http://ameblo.jp/nekojump-japan/)
 
   - （日本スタッフ公式アカウント）
 
-[Category:泰國女子演唱團體](https://zh.wikipedia.org/wiki/Category:泰國女子演唱團體 "wikilink")
-[Category:雙胞胎人物](https://zh.wikipedia.org/wiki/Category:雙胞胎人物 "wikilink")
-[Category:1989年出生](https://zh.wikipedia.org/wiki/Category:1989年出生 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:泰國女子演唱團體](https://zh.wikipedia.org/wiki/Category:泰國女子演唱團體 "wikilink") [Category:雙胞胎人物](https://zh.wikipedia.org/wiki/Category:雙胞胎人物 "wikilink") [Category:1989年出生](https://zh.wikipedia.org/wiki/Category:1989年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.  「萌えアイドル 逆輸入――分からなさ 妄想を刺激」『朝日新聞』2010年1月9日付朝刊、第13版、第31面。

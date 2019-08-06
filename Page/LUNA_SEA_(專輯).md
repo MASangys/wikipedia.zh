@@ -1,8 +1,6 @@
-《**LUNA
-SEA**》是由日本搖滾樂團[月之海](../Page/月之海.md "wikilink")所發行的首張同名專輯，初版於1991年4月21日發行。2007年由[環球音樂發行再版](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")。
+《**LUNA SEA**》是由日本搖滾樂團[月之海](../Page/月之海.md "wikilink")所發行的首張同名專輯，初版於1991年4月21日發行。2007年由[環球音樂發行再版](https://zh.wikipedia.org/wiki/環球音樂 "wikilink")。
 
-本專輯是月之海於地下樂團時期中製作的唯一專輯作品，由當時[YOSHIKI創立的獨立廠牌Extasy](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")
-Records發行。
+本專輯是月之海於地下樂團時期中製作的唯一專輯作品，由當時[YOSHIKI創立的獨立廠牌Extasy](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink") Records發行。
 
 ## 曲目
 
@@ -35,15 +33,12 @@ Records發行。
       -
         作曲：SUGIZO／作詞：RYUICHI
 
-在下一張專輯《[IMAGE](../Page/IMAGE_\(專輯\).md "wikilink")》當中重新製作的歌曲。收錄於『[NEVER
-SOLD
-OUT](https://zh.wikipedia.org/wiki/NEVER_SOLD_OUT "wikilink")』現場專輯。之後編曲持續修改，直到1996年的「真冬の野外」時期，才變成令人滿意的型態\[2\]。
+在下一張專輯《[IMAGE](../Page/IMAGE_\(專輯\).md "wikilink")》當中重新製作的歌曲。收錄於『[NEVER SOLD OUT](https://zh.wikipedia.org/wiki/NEVER_SOLD_OUT "wikilink")』現場專輯。之後編曲持續修改，直到1996年的「真冬の野外」時期，才變成令人滿意的型態\[2\]。
 
 1.  PRECIOUS…
       -
         原曲：J／作詞：RYUICHI
-        為早期表演中經常演唱的曲目之一。並收錄於2000年發行的精選輯《[Period -The Best
-        Selection-](../Page/Period_-The_Best_Selection-.md "wikilink")》當中。
+        為早期表演中經常演唱的曲目之一。並收錄於2000年發行的精選輯《[Period -The Best Selection-](../Page/Period_-The_Best_Selection-.md "wikilink")》當中。
 
 
 \*註：1991年的初版專輯封面在東京[井之頭公園的雪地中所拍攝](https://zh.wikipedia.org/wiki/井之頭公園 "wikilink")
@@ -66,19 +61,15 @@ OUT](https://zh.wikipedia.org/wiki/NEVER_SOLD_OUT "wikilink")』現場專輯。�
 
 <!-- end list -->
 
-  - 初回版本付錄DVD〈SHADE〉音樂MV，其中包含2010年於東京巨蛋舉行之「LUNACY－黑服限定演唱會」演出片段。同時發售的豪華限定版收錄1989年〈SHADE〉復刻版DEMO帶和1991年「UNDER
-    THE NEW MOON TOUR」演唱會T恤\[4\]。
+  - 初回版本付錄DVD〈SHADE〉音樂MV，其中包含2010年於東京巨蛋舉行之「LUNACY－黑服限定演唱會」演出片段。同時發售的豪華限定版收錄1989年〈SHADE〉復刻版DEMO帶和1991年「UNDER THE NEW MOON TOUR」演唱會T恤\[4\]。
 
 ## 參考資料
 
 <references/>
 
-[Category:1991年音樂專輯](https://zh.wikipedia.org/wiki/Category:1991年音樂專輯 "wikilink")
-[Category:月之海專輯](https://zh.wikipedia.org/wiki/Category:月之海專輯 "wikilink")
+[Category:1991年音樂專輯](https://zh.wikipedia.org/wiki/Category:1991年音樂專輯 "wikilink") [Category:月之海專輯](https://zh.wikipedia.org/wiki/Category:月之海專輯 "wikilink")
 
 1.
-2.  SUGIZO\&INORAN \[LUNA SEA\] Complete Guitar
-    Book（シンコーミュージック、1999年11月29日）ISBN
-    4-401-61632-4
+2.  SUGIZO\&INORAN \[LUNA SEA\] Complete Guitar Book（シンコーミュージック、1999年11月29日）ISBN 4-401-61632-4
 3.
 4.

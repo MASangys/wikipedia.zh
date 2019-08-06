@@ -71,11 +71,8 @@
 
   - [SNH48官方网站的专题页面](http://www.snh48.com/event/s20/)
 
-[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink")
-[Category:SNH48歌曲](https://zh.wikipedia.org/wiki/Category:SNH48歌曲 "wikilink")
-[Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")
+[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink") [Category:SNH48歌曲](https://zh.wikipedia.org/wiki/Category:SNH48歌曲 "wikilink") [Category:翻唱專輯](https://zh.wikipedia.org/wiki/Category:翻唱專輯 "wikilink")
 
-1.  [SNH48《飞翔入手》开预售
-    抢星梦剧院参观资格](http://www.snh48.com/html/zixun/2013/0806/224.html)
+1.  [SNH48《飞翔入手》开预售 抢星梦剧院参观资格](http://www.snh48.com/html/zixun/2013/0806/224.html)
 2.
 3.  [SNH48《飛翔入手》MV七宗最](http://tw.twent.chinayes.com/Content/20130712/kh9290403aco.shtml)

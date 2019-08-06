@@ -8,8 +8,7 @@
 
 ## 反應
 
-蒂姆·康韋指出，《Turn-On》的第一集在播放期間被[腰斬](../Page/腰斬_\(術語\).md "wikilink")，當時的製作人員和演員們正在進行慶祝首映活動。\[3\]\[4\][克里夫蘭的](https://zh.wikipedia.org/wiki/克里夫蘭_\(俄亥俄州\) "wikilink")[WEWS-TV在第一集播放了](https://zh.wikipedia.org/wiki/WEWS-TV "wikilink")11分鐘後腰斬了節目。之後，WEWS-TV向美國廣播公司網絡管理部發送了一封[電報](https://zh.wikipedia.org/wiki/電報 "wikilink")，投訴道：「如果你調皮的小男孩們要在塗鴉牆上寫髒話，請不要使用我們的塗鴉牆。《Turn-On》已被關掉（turned
-off），直至WEWS不再關心為止」。\[5\]\[6\]\[7\][丹佛](../Page/丹佛.md "wikilink")的[KBTV甚至沒有播放此節目](https://zh.wikipedia.org/wiki/KUSA-TV "wikilink")。KBTV的員工指出「我們已經毫不猶豫地作出了決定，因為它會冒犯大部份觀眾」。[波特蘭的](../Page/波特蘭_\(俄勒岡州\).md "wikilink")[KATU和](https://zh.wikipedia.org/wiki/KATU "wikilink")[西雅圖](../Page/西雅圖.md "wikilink")的[KOMO-TV亦都決定不播放此節目](https://zh.wikipedia.org/wiki/KOMO-TV "wikilink")。\[8\]儘管[小岩城的](../Page/小岩城_\(阿肯色州\).md "wikilink")[KATV不喜歡這個節目](https://zh.wikipedia.org/wiki/KATV "wikilink")，卻仍然決定播放此節目。
+蒂姆·康韋指出，《Turn-On》的第一集在播放期間被[腰斬](../Page/腰斬_\(術語\).md "wikilink")，當時的製作人員和演員們正在進行慶祝首映活動。\[3\]\[4\][克里夫蘭的](https://zh.wikipedia.org/wiki/克里夫蘭_\(俄亥俄州\) "wikilink")[WEWS-TV在第一集播放了](https://zh.wikipedia.org/wiki/WEWS-TV "wikilink")11分鐘後腰斬了節目。之後，WEWS-TV向美國廣播公司網絡管理部發送了一封[電報](https://zh.wikipedia.org/wiki/電報 "wikilink")，投訴道：「如果你調皮的小男孩們要在塗鴉牆上寫髒話，請不要使用我們的塗鴉牆。《Turn-On》已被關掉（turned off），直至WEWS不再關心為止」。\[5\]\[6\]\[7\][丹佛](../Page/丹佛.md "wikilink")的[KBTV甚至沒有播放此節目](https://zh.wikipedia.org/wiki/KUSA-TV "wikilink")。KBTV的員工指出「我們已經毫不猶豫地作出了決定，因為它會冒犯大部份觀眾」。[波特蘭的](../Page/波特蘭_\(俄勒岡州\).md "wikilink")[KATU和](https://zh.wikipedia.org/wiki/KATU "wikilink")[西雅圖](../Page/西雅圖.md "wikilink")的[KOMO-TV亦都決定不播放此節目](https://zh.wikipedia.org/wiki/KOMO-TV "wikilink")。\[8\]儘管[小岩城的](../Page/小岩城_\(阿肯色州\).md "wikilink")[KATV不喜歡這個節目](https://zh.wikipedia.org/wiki/KATV "wikilink")，卻仍然決定播放此節目。
 
 儘管《Turn-On》在播出第一集後仍沒有正式被取消，但是WEWS、KBT和KATV都告訴美國廣播公司，他們將不會再繼續播放此節目。百時美施貴寶亦命令施拉特和芬迪尼停止製作此節目。在第一集播放期間，美國廣播公司收到了369個關於此節目的投訴，卻只有20個支持此節目的來電。\[9\]
 
@@ -27,26 +26,17 @@ off），直至WEWS不再關心為止」。\[5\]\[6\]\[7\][丹佛](../Page/丹�
 
   -
   -
-  - [PIONEERS OF TELEVISION | Tim Conway on "Turn On" |
-    PBS](http://www.youtube.com/watch?v=tWvQ0zjjNjc)
+  - [PIONEERS OF TELEVISION | Tim Conway on "Turn On" | PBS](http://www.youtube.com/watch?v=tWvQ0zjjNjc)
 
-[Category:美國廣播公司電視節目](https://zh.wikipedia.org/wiki/Category:美國廣播公司電視節目 "wikilink")
-[Category:英語電視節目](https://zh.wikipedia.org/wiki/Category:英語電視節目 "wikilink")
-[Category:美國電視節目](https://zh.wikipedia.org/wiki/Category:美國電視節目 "wikilink")
+[Category:美國廣播公司電視節目](https://zh.wikipedia.org/wiki/Category:美國廣播公司電視節目 "wikilink") [Category:英語電視節目](https://zh.wikipedia.org/wiki/Category:英語電視節目 "wikilink") [Category:美國電視節目](https://zh.wikipedia.org/wiki/Category:美國電視節目 "wikilink")
 
 1.
-2.  "Bob MacKenzie...On Television..", *Oakland Tribune*, February 11,
-    1969, pB-24
+2.  "Bob MacKenzie...On Television..", *Oakland Tribune*, February 11, 1969, pB-24
 3.
 4.
 5.
-6.  [The Plain Dealer: "WEWS-TV Turns Off 'Turn On'", February 6, 1969,
-    via Cleveland Classic Media's Facebook
-    page.](http://www.facebook.com/photo.php?fbid=10150594213819327&set=a.246096739326.141367.245324499326&type=1&ref=nf)
-7.  [UPI column by Rick DuBrow, as published in the Elyria
-    Chronicle-Telegram, February 10, 1969. (via Newspaper Archive and
-    Radio-Info)](http://boards.radio-info.com/smf/index.php?topic=177005.30)
-
+6.  [The Plain Dealer: "WEWS-TV Turns Off 'Turn On'", February 6, 1969, via Cleveland Classic Media's Facebook page.](http://www.facebook.com/photo.php?fbid=10150594213819327&set=a.246096739326.141367.245324499326&type=1&ref=nf)
+7.  [UPI column by Rick DuBrow, as published in the Elyria Chronicle-Telegram, February 10, 1969. (via Newspaper Archive and Radio-Info)](http://boards.radio-info.com/smf/index.php?topic=177005.30)
 8.
 9.
 10.

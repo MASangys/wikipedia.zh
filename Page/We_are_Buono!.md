@@ -1,5 +1,4 @@
-『**We are
-Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的第3張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2010年2月10日發售。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+『**We are Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono\!](../Page/Buono!.md "wikilink")的第3張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")。2010年2月10日發售。發售公司是[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 ## 收錄曲
 
@@ -18,8 +17,7 @@ Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono
       -
         7th單曲
 5.  **うらはら**
-    （作詞：岩里祐穂、作曲：[FLAT5th Yoshiaki
-    Okamoto](https://zh.wikipedia.org/wiki/岡本弥紀 "wikilink")、編曲：西川進）
+    （作詞：岩里祐穂、作曲：[FLAT5th Yoshiaki Okamoto](https://zh.wikipedia.org/wiki/岡本弥紀 "wikilink")、編曲：西川進）
 6.  **[Take It Easy\!](../Page/Take_It_Easy!.md "wikilink")**
     （作詞：三浦徳子、作曲：つんく、編曲：西川進）
       -
@@ -43,6 +41,4 @@ Buono\!**』是[日本](../Page/日本.md "wikilink")的女子偶像組合[Buono
 
   - [Hello\!Project官方網站](https://web.archive.org/web/20110925135720/http://www.helloproject.com/discography/buono/a_003.html)
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink")
-[Category:Buono\!音樂專輯](https://zh.wikipedia.org/wiki/Category:Buono!音樂專輯 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:波麗佳音音樂專輯](https://zh.wikipedia.org/wiki/Category:波麗佳音音樂專輯 "wikilink") [Category:Buono\!音樂專輯](https://zh.wikipedia.org/wiki/Category:Buono!音樂專輯 "wikilink")

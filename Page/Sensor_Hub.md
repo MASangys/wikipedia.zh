@@ -1,10 +1,8 @@
-**Sensor
-Hub**是個能幫助獲取、整合並處理來自不同[感應器的數據的](https://zh.wikipedia.org/wiki/感應器 "wikilink")[微控制器](https://zh.wikipedia.org/wiki/微控制器 "wikilink")/[輔助處理器](../Page/輔助處理器.md "wikilink")。\[1\]此技術能把這類任務移離主[應用處理器以節省電力](https://zh.wikipedia.org/wiki/應用處理器 "wikilink")\[2\]並提升效能。\[3\]
+**Sensor Hub**是個能幫助獲取、整合並處理來自不同[感應器的數據的](https://zh.wikipedia.org/wiki/感應器 "wikilink")[微控制器](https://zh.wikipedia.org/wiki/微控制器 "wikilink")/[輔助處理器](../Page/輔助處理器.md "wikilink")。\[1\]此技術能把這類任務移離主[應用處理器以節省電力](https://zh.wikipedia.org/wiki/應用處理器 "wikilink")\[2\]並提升效能。\[3\]
 
 ## 例子
 
-除了各廠牌撘載高通Snapdragon[驍龍](https://zh.wikipedia.org/wiki/驍龍 "wikilink")800系列或者[海思Kirin](https://zh.wikipedia.org/wiki/海思 "wikilink")920/925處理器的裝置以外，下列裝置亦內建了Sensor
-hub：
+除了各廠牌撘載高通Snapdragon[驍龍](https://zh.wikipedia.org/wiki/驍龍 "wikilink")800系列或者[海思Kirin](https://zh.wikipedia.org/wiki/海思 "wikilink")920/925處理器的裝置以外，下列裝置亦內建了Sensor hub：
 
 <table>
 <thead>

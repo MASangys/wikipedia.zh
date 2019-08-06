@@ -1,4 +1,4 @@
-**BOX**是[中國](../Page/中國.md "wikilink")的一個[雙胞胎](../Page/雙胞胎.md "wikilink")[男子音樂组合](https://zh.wikipedia.org/wiki/男子音樂组合 "wikilink")\[1\]，曾經参加香港[無線電視節目](https://zh.wikipedia.org/wiki/無線電視節目 "wikilink")《[超級巨聲3](../Page/超級巨聲3.md "wikilink")》及於2012年由[英皇主辦的](https://zh.wikipedia.org/wiki/英皇 "wikilink")「超級經紀人」選拔中脫穎而出，當場簽約於[英皇北京](https://zh.wikipedia.org/wiki/英皇娛樂（北京） "wikilink")。於2013年6月發行首張專輯《[路](https://zh.wikipedia.org/wiki/路\(專輯\) "wikilink")》\[2\]
+**BOX**()是[中國](../Page/中國.md "wikilink")的一個[雙胞胎](../Page/雙胞胎.md "wikilink")[男子音樂组合](https://zh.wikipedia.org/wiki/男子音樂组合 "wikilink")\[1\]，曾經参加香港[無線電視節目](https://zh.wikipedia.org/wiki/無線電視節目 "wikilink")《[超級巨聲3](../Page/超級巨聲3.md "wikilink")》及於2012年由[英皇主辦的](https://zh.wikipedia.org/wiki/英皇 "wikilink")「超級經紀人」選拔中脫穎而出，當場簽約於[英皇北京](https://zh.wikipedia.org/wiki/英皇娛樂（北京） "wikilink")。於2013年6月發行首張專輯《[路](https://zh.wikipedia.org/wiki/路\(專輯\) "wikilink")》\[2\]
 
 ## 音樂作品
 
@@ -72,15 +72,9 @@
   - [王子傑_BOX @騰訊微博](http://t.qq.com/w304905019)
   - [王子豪_BOX @新浪微博](http://weibo.com/wang123223)
   - [王子傑_BOX @新浪微博](http://weibo.com/jiewangzi223323)
-  - [BOX
-    英皇娛樂](https://web.archive.org/web/20130712130847/http://www.eegmusic.com/artist/index.php/index/268/BOX)
+  - [BOX 英皇娛樂](https://web.archive.org/web/20130712130847/http://www.eegmusic.com/artist/index.php/index/268/BOX)
 
-[Category:1993年出生](https://zh.wikipedia.org/wiki/Category:1993年出生 "wikilink")
-[Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:雙胞胎人物](https://zh.wikipedia.org/wiki/Category:雙胞胎人物 "wikilink")
-[Category:北京人](https://zh.wikipedia.org/wiki/Category:北京人 "wikilink")
-[Category:巨聲三幫](https://zh.wikipedia.org/wiki/Category:巨聲三幫 "wikilink")
+[Category:王姓](https://zh.wikipedia.org/wiki/Category:王姓 "wikilink") [Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:中国双胞胎](https://zh.wikipedia.org/wiki/Category:中国双胞胎 "wikilink") [Category:北京人](https://zh.wikipedia.org/wiki/Category:北京人 "wikilink") [Category:巨聲三幫](https://zh.wikipedia.org/wiki/Category:巨聲三幫 "wikilink")
 
 1.  [英皇全方位打造男子偶像組合BOX](http://baike.baidu.com/view/10380212.htm)
 2.  [BOX首張專輯](http://www.kkbox.com/tw/tc/album/-7gaZV5RmM9CHM0F5W8O0091-index.html)

@@ -1,6 +1,4 @@
-**goldEN**是[香港](../Page/香港.md "wikilink")二人男子唱作[組合](../Page/組合.md "wikilink")，是音樂人[周博賢](../Page/周博賢.md "wikilink")旗下經理人公司[Ban
-Ban
-Music的藝人](https://zh.wikipedia.org/wiki/Ban_Ban_Music "wikilink")，由[馮家俊與](https://zh.wikipedia.org/wiki/Cousin_Fung "wikilink")[劉浩剛](../Page/劉浩剛.md "wikilink")於2008年組成，2011年正式出道，2012年由[金牌大風](../Page/金牌大風.md "wikilink")推出其首張作品《[足金金猴](../Page/足金金猴.md "wikilink")》\[1\]。2015年組合停滯至今也再沒推出新作。\[2\]
+**goldEN**是[香港](../Page/香港.md "wikilink")二人男子唱作[組合](../Page/組合.md "wikilink")，是音樂人[周博賢](../Page/周博賢.md "wikilink")旗下經理人公司[Ban Ban Music的藝人](https://zh.wikipedia.org/wiki/Ban_Ban_Music "wikilink")，由[馮家俊與](https://zh.wikipedia.org/wiki/Cousin_Fung "wikilink")[劉浩剛](../Page/劉浩剛.md "wikilink")於2008年組成，2011年正式出道，2012年由[金牌大風](../Page/金牌大風.md "wikilink")推出其首張作品《[足金金猴](../Page/足金金猴.md "wikilink")》\[1\]。2015年組合停滯至今也再沒推出新作。\[2\]
 
 ## 背景
 
@@ -11,8 +9,7 @@ goldEN的名字來源與其[英倫音樂風格](https://zh.wikipedia.org/wiki/�
 ## 成員
 
   - Cousin Fung（[馮家俊](https://zh.wikipedia.org/wiki/馮家俊 "wikilink")）
-      - 在goldEN組成前，Cousin
-        Fung曾為[關楚耀](../Page/關楚耀.md "wikilink")和[謝安琪](../Page/謝安琪.md "wikilink")等作曲和編曲。goldEN組成後仍然積極參與幕後創作。
+      - 在goldEN組成前，Cousin Fung曾為[關楚耀](../Page/關楚耀.md "wikilink")和[謝安琪](../Page/謝安琪.md "wikilink")等作曲和編曲。goldEN組成後仍然積極參與幕後創作。
   - Kenneth（[劉浩剛](../Page/劉浩剛.md "wikilink")）
       - 在goldEN組成前，Kenneth是歌手，曾奪得2004年多倫多新秀歌唱大賽亞軍，及2005年全球華人新秀歌唱大賽最後四強。2007年回流至香港。
 
@@ -109,14 +106,12 @@ goldEN的名字來源與其[英倫音樂風格](https://zh.wikipedia.org/wiki/�
 2012年
 
   - [新城勁爆頒獎禮](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆新登場組合
-  - [IFPI](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒奬禮2012 "wikilink")
-    - 最暢銷本地新人組合
+  - [IFPI](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒奬禮2012 "wikilink") - 最暢銷本地新人組合
 
 2013年
 
   - [新城勁爆頒獎禮](../Page/2013年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆組合
-  - 第九屆[「勁歌王」全球華人樂壇音樂盛典](https://zh.wikipedia.org/wiki/「勁歌王」全球華人樂壇音樂盛典 "wikilink")
-    - 最佳新晉組合獎
+  - 第九屆[「勁歌王」全球華人樂壇音樂盛典](https://zh.wikipedia.org/wiki/「勁歌王」全球華人樂壇音樂盛典 "wikilink") - 最佳新晉組合獎
 
 2014年
 
@@ -127,14 +122,11 @@ goldEN的名字來源與其[英倫音樂風格](https://zh.wikipedia.org/wiki/�
 ## 外部連結
 
   -
-  - [GoldEN Ban Ban Youtube
-    Channel](http://www.youtube.com/channel/UCl-O8BrDqU8ZARrngBCNcqQ)
+  - [GoldEN Ban Ban Youtube Channel](http://www.youtube.com/channel/UCl-O8BrDqU8ZARrngBCNcqQ)
 
-  - [金牌大風藝人
-    goldEN](http://www.gold-typhoon.com.cn/hk/artists/hongkong/golden.html)
+  - [金牌大風藝人 goldEN](http://www.gold-typhoon.com.cn/hk/artists/hongkong/golden.html)
 
-  - [GoldEN
-    新浪博客](http://cousinxkenneth.mysinablog.com/index.php?op=ViewArticle&articleId=1742097)
+  - [GoldEN 新浪博客](http://cousinxkenneth.mysinablog.com/index.php?op=ViewArticle&articleId=1742097)
 
   - [Kenneth 新浪微博](http://www.weibo.com/u/2106893704)
 
@@ -146,12 +138,9 @@ goldEN的名字來源與其[英倫音樂風格](https://zh.wikipedia.org/wiki/�
 
   - [Cousin Instagram](http://instagram.com/cousinfung)
 
-[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink")
-[Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink")
+[Category:香港男子演唱團體](https://zh.wikipedia.org/wiki/Category:香港男子演唱團體 "wikilink") [Category:2008年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2008年成立的音樂團體 "wikilink")
 
-1.  [新組合goldEN賣「足金金猴」 - 20121109 -
-    《蘋果日報》即時新聞](http://hk.apple.nextmedia.com/realtime/entertainment/20121109/51136301)，2012年11月11日
-    (日) 00:15 (UTC+8)查閱
+1.  [新組合goldEN賣「足金金猴」 - 20121109 - 《蘋果日報》即時新聞](http://hk.apple.nextmedia.com/realtime/entertainment/20121109/51136301)，2012年11月11日 (日) 00:15 (UTC+8)查閱
 
 2.
 3.  《足金金猴》專輯內歌詞本曾提及。

@@ -1,14 +1,10 @@
-**V-by-One
-HS**是由日本[赛恩电子公司](https://zh.wikipedia.org/wiki/赛恩电子公司 "wikilink")（THine
-Electornics）开发的适用于[平板显示器的信号传输](https://zh.wikipedia.org/wiki/平板显示器 "wikilink")[接口标准](https://zh.wikipedia.org/wiki/接口 "wikilink")。目前，广泛应用在[多功能打印机等](https://zh.wikipedia.org/wiki/多功能打印机 "wikilink")[办公设备](https://zh.wikipedia.org/wiki/办公设备 "wikilink")、车载娱乐设备、[机器人](../Page/机器人.md "wikilink")、安防系统等领域。
+**V-by-One HS**是由日本[赛恩电子公司](https://zh.wikipedia.org/wiki/赛恩电子公司 "wikilink")（THine Electornics）开发的适用于[平板显示器的信号传输](https://zh.wikipedia.org/wiki/平板显示器 "wikilink")[接口标准](https://zh.wikipedia.org/wiki/接口 "wikilink")。目前，广泛应用在[多功能打印机等](https://zh.wikipedia.org/wiki/多功能打印机 "wikilink")[办公设备](https://zh.wikipedia.org/wiki/办公设备 "wikilink")、车载娱乐设备、[机器人](../Page/机器人.md "wikilink")、安防系统等领域。
 
-以往的电视内部配线，传输图像信号都是采用[LVDS标准](https://zh.wikipedia.org/wiki/LVDS "wikilink")。然而，随着电视画面向着高[分辨率](../Page/分辨率.md "wikilink")和高[色彩深度](../Page/色彩深度.md "wikilink")的发展，传输速度的高速化以及传输线之间信号的时滞问题愈发显著。V-by-One
-HS除了包含SerDes技术以外，还采用了时钟信号恢复等技术，使得每对线的最大传输速度达到了3.75Gbp，并解决了时滞问题，同时还降低了[EMI](../Page/EMI.md "wikilink")干扰及功耗。此外，由于传输信号对数的减少，使得配线及连接器的用量相应减少进而可以实现整体成本的降低。
+以往的电视内部配线，传输图像信号都是采用[LVDS标准](https://zh.wikipedia.org/wiki/LVDS "wikilink")。然而，随着电视画面向着高[分辨率](../Page/分辨率.md "wikilink")和高[色彩深度](../Page/色彩深度.md "wikilink")的发展，传输速度的高速化以及传输线之间信号的时滞问题愈发显著。V-by-One HS除了包含SerDes技术以外，还采用了时钟信号恢复等技术，使得每对线的最大传输速度达到了3.75Gbp，并解决了时滞问题，同时还降低了[EMI](../Page/EMI.md "wikilink")干扰及功耗。此外，由于传输信号对数的减少，使得配线及连接器的用量相应减少进而可以实现整体成本的降低。
 
 ## 概述
 
-  - V-by-One
-    HS的开发目的，是为了替代大尺寸[液晶显示器](../Page/液晶显示器.md "wikilink")图像输入信号[VESA标准规格的LVDS技术](https://zh.wikipedia.org/wiki/VESA "wikilink")。
+  - V-by-One HS的开发目的，是为了替代大尺寸[液晶显示器](../Page/液晶显示器.md "wikilink")图像输入信号[VESA标准规格的LVDS技术](https://zh.wikipedia.org/wiki/VESA "wikilink")。
   - 由于导入了均衡器功能，使得信号传输品质优于以往的LVDS技术。
   - 由于采用了时钟信号恢复技术，解决了在LVDS方案下日趋显著化的配线时滞问题。
   - 取消了在以往的LVDS标准中必不可少的时钟信号传输配线（固定频率的传送），降低了EMI干扰。
@@ -32,17 +28,11 @@ HS除了包含SerDes技术以外，还采用了时钟信号恢复等技术，使
 
 DVI和HDMI都带有时滞调整功能，而且HDMI中还采用了[HDCP](../Page/HDCP.md "wikilink")技术用于内容保护功能，因此作为设备间的图像信号传输方案得以广泛普及。然而DVI和HDMI在安装时需要支付专利费用，而且将其用作设备内部图像信号传输，则会提高功耗大，因而没有得到应用。
 
-Display Port是VESA为了替代LVDS而推出的规格，其今后的普及备受期待。它在传输方式上采用类似于[PCI
-Express的偏压原理](../Page/PCI_Express.md "wikilink")，降低了在LSI设计上的障碍。然而，与HDMI同样，由于考虑到设备间的信号传输的问题而采用了HDCP技术，使其在作为设备内部信号传输方案时有可能存在功耗问题。此外，Display
-Port的传输速度是固定的，对于存在着各种各样时钟频率的图像信号来说，低频率会产生很大的浪费，而且在接收端必须对时钟信号进行再生。由于以上这些理由，从LVDS向Display
-Port的过渡还有很多课题需要解决。
+Display Port是VESA为了替代LVDS而推出的规格，其今后的普及备受期待。它在传输方式上采用类似于[PCI Express的偏压原理](../Page/PCI_Express.md "wikilink")，降低了在LSI设计上的障碍。然而，与HDMI同样，由于考虑到设备间的信号传输的问题而采用了HDCP技术，使其在作为设备内部信号传输方案时有可能存在功耗问题。此外，Display Port的传输速度是固定的，对于存在着各种各样时钟频率的图像信号来说，低频率会产生很大的浪费，而且在接收端必须对时钟信号进行再生。由于以上这些理由，从LVDS向Display Port的过渡还有很多课题需要解决。
 
-基于上述背景，日本赛恩电子公司（THine）进行了V-by-One
-HS的开发。也就是说，通过导入了均衡器功能，从而实现比以往的LVDS技术数据传输质量更高，传输速度更快（最大达到一对线3.75Gbps）。而且由于采用了时钟信号恢复技术，解决了以往在LVDS方案下日趋明显化的配线时滞问题。此外，取消了在LVDS标准中必不可少的时钟信号传输配线（固定频率的传送），从而降低了EMI干扰。
+基于上述背景，日本赛恩电子公司（THine）进行了V-by-One HS的开发。也就是说，通过导入了均衡器功能，从而实现比以往的LVDS技术数据传输质量更高，传输速度更快（最大达到一对线3.75Gbps）。而且由于采用了时钟信号恢复技术，解决了以往在LVDS方案下日趋明显化的配线时滞问题。此外，取消了在LVDS标准中必不可少的时钟信号传输配线（固定频率的传送），从而降低了EMI干扰。
 
-传输速度的高速化，可以带来配线和连接器用量的减少，总体成本下降，节省空间等一系列好处。比如对于UD面板（3840\*2160），使用LVDS方案至少需要96对配线，而使用V-by-One
-HS只需要16对配线便可完成数据传输。而且由于传输速度可变，原先采用LVDS技术的设计不需要经过很大的改动便可无缝地过渡到V-by-One
-HS上来。此外，日本赛恩电子公司（THine）已经将技术规格公开，V-by-One HS已成为了一个开放标准。
+传输速度的高速化，可以带来配线和连接器用量的减少，总体成本下降，节省空间等一系列好处。比如对于UD面板（3840\*2160），使用LVDS方案至少需要96对配线，而使用V-by-One HS只需要16对配线便可完成数据传输。而且由于传输速度可变，原先采用LVDS技术的设计不需要经过很大的改动便可无缝地过渡到V-by-One HS上来。此外，日本赛恩电子公司（THine）已经将技术规格公开，V-by-One HS已成为了一个开放标准。
 
 ## 相关内容
 
@@ -52,7 +42,6 @@ HS上来。此外，日本赛恩电子公司（THine）已经将技术规格公�
 
 ## 参考链接
 
-[V-by-One®HS
-Standard](https://archive.is/20130702173803/http://www2.thine.co.jp/scn/products/V-by-One_HS/)
+[V-by-One®HS Standard](https://archive.is/20130702173803/http://www2.thine.co.jp/scn/products/V-by-One_HS/)
 
 [Category:數碼顯示接口](https://zh.wikipedia.org/wiki/Category:數碼顯示接口 "wikilink")

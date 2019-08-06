@@ -1,6 +1,4 @@
-AHA
-TORO，中文名叫雅哈多罗，是[墨西哥](../Page/墨西哥.md "wikilink")的[龙舌兰酒品牌](https://zh.wikipedia.org/wiki/龙舌兰酒 "wikilink")，由哈里斯科的玛利亚耶稣的一个小乡村里的Destilados
-Olé（欧雷蒸馏厂）酿造。
+AHA TORO，中文名叫雅哈多罗，是[墨西哥](../Page/墨西哥.md "wikilink")的[龙舌兰酒品牌](https://zh.wikipedia.org/wiki/龙舌兰酒 "wikilink")，由哈里斯科的玛利亚耶稣的一个小乡村里的Destilados Olé（欧雷蒸馏厂）酿造。
 
 ## 类别
 

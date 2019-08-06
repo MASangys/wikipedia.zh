@@ -7,8 +7,7 @@
 <!-- end list -->
 
 1.  Chocolate
-2.  LIVE at Zepp DiverCity Tokyo 2013.11.28 ～part 1～ (Second Dream～Last
-    Stage～Fake Love～Shine～イジワルな神様～Wake you up)
+2.  LIVE at Zepp DiverCity Tokyo 2013.11.28 ～part 1～ (Second Dream～Last Stage～Fake Love～Shine～イジワルな神様～Wake you up)
 3.  Chocolate (Instrumental)
 
 <!-- end list -->
@@ -18,8 +17,7 @@
 <!-- end list -->
 
 1.  Chocolate
-2.  LIVE at Zepp DiverCity Tokyo 2013.11.28 ～part 2～ (Say
-    Goodbye～Hello～Lady Mary～Bless You～太陽の女神～心のカ・タ・チ)
+2.  LIVE at Zepp DiverCity Tokyo 2013.11.28 ～part 2～ (Say Goodbye～Hello～Lady Mary～Bless You～太陽の女神～心のカ・タ・チ)
 3.  Chocolate (Instrumental)
 
 <!-- end list -->
@@ -29,12 +27,9 @@
 <!-- end list -->
 
 1.  Chocolate
-2.  LIVE at Zepp DiverCity Tokyo 2013.11.28 ～part 3～ (Who's
-    that～Linda～サブリナ～君に届け)
+2.  LIVE at Zepp DiverCity Tokyo 2013.11.28 ～part 3～ (Who's that～Linda～サブリナ～君に届け)
 3.  Chocolate (Instrumental)
 
 Chocolate Music Video+Making
 
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:家入里歐歌曲](https://zh.wikipedia.org/wiki/Category:家入里歐歌曲 "wikilink")
-[Category:情人節](https://zh.wikipedia.org/wiki/Category:情人節 "wikilink")
+[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:家入里歐歌曲](https://zh.wikipedia.org/wiki/Category:家入里歐歌曲 "wikilink") [Category:情人節](https://zh.wikipedia.org/wiki/Category:情人節 "wikilink")

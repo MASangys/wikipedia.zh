@@ -1,5 +1,4 @@
-《**The Partner
-～給摯愛的百年朋友～**》（、）是一部[日本](../Page/日本.md "wikilink")與[越南合拍的](https://zh.wikipedia.org/wiki/越南 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於2013年9月29日，分別在[TBS電視台](../Page/TBS電視台.md "wikilink")和[越南電視台播出](https://zh.wikipedia.org/wiki/越南電視台 "wikilink")\[1\]。本劇由[東山紀之](https://zh.wikipedia.org/wiki/東山紀之 "wikilink")、主演，為紀念[日本](../Page/日本.md "wikilink")與[越南建交](https://zh.wikipedia.org/wiki/越南 "wikilink")40週年的慶祝活動之一，同時兩家電視台也是初次合作。\[2\]\[3\]
+《**The Partner ～給摯愛的百年朋友～**》（、）是一部[日本](../Page/日本.md "wikilink")與[越南合拍的](https://zh.wikipedia.org/wiki/越南 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於2013年9月29日，分別在[TBS電視台](../Page/TBS電視台.md "wikilink")和[越南電視台播出](https://zh.wikipedia.org/wiki/越南電視台 "wikilink")\[1\]。本劇由[東山紀之](https://zh.wikipedia.org/wiki/東山紀之 "wikilink")、主演，為紀念[日本](../Page/日本.md "wikilink")與[越南建交](https://zh.wikipedia.org/wiki/越南 "wikilink")40週年的慶祝活動之一，同時兩家電視台也是初次合作。\[2\]\[3\]
 
 ## 概要
 
@@ -19,11 +18,9 @@
 
   - 淺羽雅 - [吹石一惠](../Page/吹石一惠.md "wikilink")
 
-  - [犬養毅](../Page/犬養毅.md "wikilink") -
-    [武田鐵矢](../Page/武田鐵矢.md "wikilink")
+  - [犬養毅](../Page/犬養毅.md "wikilink") - [武田鐵矢](../Page/武田鐵矢.md "wikilink")
 
-  - [大隈重信](../Page/大隈重信.md "wikilink") -
-    [柄本明](../Page/柄本明.md "wikilink")
+  - [大隈重信](../Page/大隈重信.md "wikilink") - [柄本明](../Page/柄本明.md "wikilink")
 
   - [彊柢](https://zh.wikipedia.org/wiki/彊柢 "wikilink") -
 
@@ -37,8 +34,7 @@
   - 成南 - 范黃東
   - 蓮 -
   - 鈴木櫻 - [蘆田愛菜](../Page/蘆田愛菜.md "wikilink")
-  - 畠山紀彰 - [中丸雄一](../Page/中丸雄一.md "wikilink")
-    ([KAT-TUN](../Page/KAT-TUN.md "wikilink"))
+  - 畠山紀彰 - [中丸雄一](../Page/中丸雄一.md "wikilink") ([KAT-TUN](../Page/KAT-TUN.md "wikilink"))
   - 木下真知 -
 
 ## 製作
@@ -68,13 +64,7 @@
   - [日語官方網站](http://www.tbs.co.jp/partner_tbs/)
   - [越南語官方網站](http://www.tbs.co.jp/partner_vtv/)
 
-[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink")
-[Category:TBS特別劇集](https://zh.wikipedia.org/wiki/Category:TBS特別劇集 "wikilink")
-[Category:傳記電視劇](https://zh.wikipedia.org/wiki/Category:傳記電視劇 "wikilink")
-[Category:亞洲合拍劇](https://zh.wikipedia.org/wiki/Category:亞洲合拍劇 "wikilink")
-[Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink")
-[Category:日越關係](https://zh.wikipedia.org/wiki/Category:日越關係 "wikilink")
-[Category:潘佩珠](https://zh.wikipedia.org/wiki/Category:潘佩珠 "wikilink")
+[Category:2013年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年開播的日本電視劇集 "wikilink") [Category:TBS特別劇集](https://zh.wikipedia.org/wiki/Category:TBS特別劇集 "wikilink") [Category:傳記電視劇](https://zh.wikipedia.org/wiki/Category:傳記電視劇 "wikilink") [Category:亞洲合拍劇](https://zh.wikipedia.org/wiki/Category:亞洲合拍劇 "wikilink") [Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink") [Category:日越關係](https://zh.wikipedia.org/wiki/Category:日越關係 "wikilink") [Category:潘佩珠](https://zh.wikipedia.org/wiki/Category:潘佩珠 "wikilink")
 
 1.  日方確定為當天晚間九點播出，越方則是當地時間晚間七點。
 2.  [](http://www.epochtimes.com/gb/13/5/14/n3870525.htm)

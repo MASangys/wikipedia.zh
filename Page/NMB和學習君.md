@@ -93,8 +93,4 @@
 
   - [《NMB和學習君》官方網站](http://www.ktv.jp/manabu/index.html)（關西電視台）
 
-[Category:關西電視台](https://zh.wikipedia.org/wiki/Category:關西電視台 "wikilink")
-[Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink")
-[Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
-[Category:吉本興業節目](https://zh.wikipedia.org/wiki/Category:吉本興業節目 "wikilink")
-[Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
+[Category:關西電視台](https://zh.wikipedia.org/wiki/Category:關西電視台 "wikilink") [Category:2013年日本電視節目](https://zh.wikipedia.org/wiki/Category:2013年日本電視節目 "wikilink") [Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink") [Category:吉本興業節目](https://zh.wikipedia.org/wiki/Category:吉本興業節目 "wikilink") [Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")

@@ -553,22 +553,12 @@
 
 ## 外部链接
 
-  - [拉丁语短语列表（E字头）](http://www.oai.de/de/45-publikationen/sprichwort/186-e-f-latein.html)
-    (德国: [东亚学院 (路德维希港)](../Page/东亚学院_\(路德维希港\).md "wikilink"))
+  - [拉丁语短语列表（E字头）](http://www.oai.de/de/45-publikationen/sprichwort/186-e-f-latein.html) (德国: [东亚学院 (路德维希港)](../Page/东亚学院_\(路德维希港\).md "wikilink"))
 
 [Category:拉丁文單字及片語](https://zh.wikipedia.org/wiki/Category:拉丁文單字及片語 "wikilink")
 
-1.  Gray, John (2006), *"Lawyer's Latin (a vade-mecum)"*, Hale, London,
-    ISBN 9780709082774.
+1.  Gray, John (2006), *"Lawyer's Latin (a vade-mecum)"*, Hale, London, ISBN 9780709082774.
 2.
-3.  American style guides tend to recommend that "e.g." and "i.e."
-    should generally be followed by a comma, just as "for example" and
-    "that is" would be; UK style tends to omit the comma. See
-    [Dictionary.com](http://dictionary.reference.com/help/faq/language/)
-    and [their discussion of
-    commas](http://dictionary.reference.com/help/faq/language/g58.html)
-    for more information. [Search "comma after
-    i.e."](http://www.google.com/search?q=comma%20after%20i%2ee%2e) for
-    other opinions.
+3.  American style guides tend to recommend that "e.g." and "i.e." should generally be followed by a comma, just as "for example" and "that is" would be; UK style tends to omit the comma. See [Dictionary.com](http://dictionary.reference.com/help/faq/language/) and [their discussion of commas](http://dictionary.reference.com/help/faq/language/g58.html) for more information. [Search "comma after i.e."](http://www.google.com/search?q=comma%20after%20i%2ee%2e) for other opinions.
 4.
 5.

@@ -24,8 +24,7 @@
       - 《為執著乾杯》 － [藍奕邦](../Page/藍奕邦.md "wikilink")
       - 《爛命鴛鴦》 － [劉浩龍](../Page/劉浩龍.md "wikilink")
       - 《清空》 － [泳兒](../Page/泳兒.md "wikilink")
-      - 《WHAT HAVE U DONE》 －
-        [G.E.M.](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")
+      - 《WHAT HAVE U DONE》 － [G.E.M.](https://zh.wikipedia.org/wiki/G.E.M. "wikilink")
       - 《我是個地球人》 － [周國賢](../Page/周國賢.md "wikilink")
 
 <!-- end list -->
@@ -47,8 +46,7 @@
   - 網上熱爆歌曲
       - 《樹藤》 － [林欣彤](../Page/林欣彤.md "wikilink")
       - 《SHOUT》 － [鍾舒漫](../Page/鍾舒漫.md "wikilink")
-      - 《Falling》 － [Gin
-        Lee](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink")
+      - 《Falling》 － [Gin Lee](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink")
 
 <!-- end list -->
 
@@ -272,6 +270,4 @@
 
 [Category:Yahoo\!搜尋人氣大獎](https://zh.wikipedia.org/wiki/Category:Yahoo!搜尋人氣大獎 "wikilink")
 
-1.  \*
-    \[<http://hk.ent.yahoo.com/news/buzz-award-2012-064728236.html>　Yahoo\!人氣大獎2012
-    最新得獎名單\]
+1.  \* \[<http://hk.ent.yahoo.com/news/buzz-award-2012-064728236.html>　Yahoo\!人氣大獎2012 最新得獎名單\]

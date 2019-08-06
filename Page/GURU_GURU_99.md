@@ -1,5 +1,4 @@
-《**GURU GURU
-99**》）是[日本電視台](../Page/日本電視台.md "wikilink")[系列自](https://zh.wikipedia.org/wiki/日本電視網 "wikilink")1994年4月10日起每週四晚間播出[綜藝節目](../Page/綜藝節目.md "wikilink")，為搞笑二人組的[NINETY-NINE](../Page/NINETY-NINE.md "wikilink")冠名節目。
+《**GURU GURU 99**》）是[日本電視台](../Page/日本電視台.md "wikilink")[系列自](https://zh.wikipedia.org/wiki/日本電視網 "wikilink")1994年4月10日起每週四晚間播出[綜藝節目](../Page/綜藝節目.md "wikilink")，為搞笑二人組的[NINETY-NINE](../Page/NINETY-NINE.md "wikilink")冠名節目。
 
 ## 概要
 
@@ -24,8 +23,7 @@
       - 冤大頭4沒有參加。冤大頭10、12、15、19擔任MC。
   - [矢部浩之](../Page/矢部浩之.md "wikilink")（[NINETY-NINE](../Page/NINETY-NINE.md "wikilink")）
       - 冤大頭10、12、15、19、20沒有參加。冤大頭1—9、11、13—14、16—18擔任MC。
-  - [中島健人](../Page/中島健人.md "wikilink")（[Sexy
-    Zone](../Page/Sexy_Zone.md "wikilink")）
+  - [中島健人](../Page/中島健人.md "wikilink")（[Sexy Zone](../Page/Sexy_Zone.md "wikilink")）
       - 冤大頭19新成員。
   - [田中圭](../Page/田中圭.md "wikilink")
       - 冤大頭19新成員。冤大頭19後半戰加入（9月13日），承接大杉漣累積的金額參賽。
@@ -151,7 +149,4 @@
 
 ## 節目的變遷
 
-[Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink")
-[Category:1994年日本電視節目](https://zh.wikipedia.org/wiki/Category:1994年日本電視節目 "wikilink")
-[Category:飲食節目](https://zh.wikipedia.org/wiki/Category:飲食節目 "wikilink")
-[Category:緯來電視外購節目](https://zh.wikipedia.org/wiki/Category:緯來電視外購節目 "wikilink")
+[Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink") [Category:1994年日本電視節目](https://zh.wikipedia.org/wiki/Category:1994年日本電視節目 "wikilink") [Category:飲食節目](https://zh.wikipedia.org/wiki/Category:飲食節目 "wikilink") [Category:緯來電視外購節目](https://zh.wikipedia.org/wiki/Category:緯來電視外購節目 "wikilink")

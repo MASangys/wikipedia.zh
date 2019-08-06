@@ -58,5 +58,4 @@ BD3型一共2辆，于1996年生产，在[1号线运营](../Page/北京地铁1�
   - [北京地铁车辆装备有限公司](https://web.archive.org/web/20130116163659/http://www.bsrse.com/)
   - [BD3運營中的照片](https://web.archive.org/web/20131202225147/http://focus.kankanews.com/c/2013-10-09/0042915123.shtml)
 
-[Category:北京地铁BD系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁BD系列电动车组 "wikilink")
-[Category:北京地铁1号线](https://zh.wikipedia.org/wiki/Category:北京地铁1号线 "wikilink")
+[Category:北京地铁BD系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁BD系列电动车组 "wikilink") [Category:北京地铁1号线](https://zh.wikipedia.org/wiki/Category:北京地铁1号线 "wikilink")

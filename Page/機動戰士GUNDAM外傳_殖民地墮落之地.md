@@ -1,5 +1,4 @@
-**機動戰士GUNDAM外傳
-殖民地墜落之地**（）是[Bandai于](https://zh.wikipedia.org/wiki/Bandai "wikilink")1999年8月26日在[Dreamcast](../Page/Dreamcast.md "wikilink")上發行的3D[射擊遊戲作品](https://zh.wikipedia.org/wiki/射擊遊戲 "wikilink")。
+**機動戰士GUNDAM外傳 殖民地墜落之地**（）是[Bandai于](https://zh.wikipedia.org/wiki/Bandai "wikilink")1999年8月26日在[Dreamcast](../Page/Dreamcast.md "wikilink")上發行的3D[射擊遊戲作品](https://zh.wikipedia.org/wiki/射擊遊戲 "wikilink")。
 
 ## 故事與世界觀
 
@@ -62,8 +61,4 @@
   -
     阶级为上尉，小说版登场人物。原澳洲駐屯軍司令部的女性士官，後轉調入章魚部隊，成為尤賴亞•希普的副官。
 
-[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink")
-[Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink")
-[Category:1999年电子游戏](https://zh.wikipedia.org/wiki/Category:1999年电子游戏 "wikilink")
-[Category:澳大利亞背景作品](https://zh.wikipedia.org/wiki/Category:澳大利亞背景作品 "wikilink")
-[Category:GUNDAM系列電子遊戲](https://zh.wikipedia.org/wiki/Category:GUNDAM系列電子遊戲 "wikilink")
+[Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:Dreamcast遊戲](https://zh.wikipedia.org/wiki/Category:Dreamcast遊戲 "wikilink") [Category:1999年电子游戏](https://zh.wikipedia.org/wiki/Category:1999年电子游戏 "wikilink") [Category:澳大利亞背景作品](https://zh.wikipedia.org/wiki/Category:澳大利亞背景作品 "wikilink") [Category:GUNDAM系列電子遊戲](https://zh.wikipedia.org/wiki/Category:GUNDAM系列電子遊戲 "wikilink")

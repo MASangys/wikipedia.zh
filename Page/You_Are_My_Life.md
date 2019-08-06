@@ -1,8 +1,4 @@
-《**You Are My Life**》
-是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第十三張單曲（第十張主流單曲），由[Gary
-Baker](https://zh.wikipedia.org/wiki/Gary_Baker "wikilink")、[Anthony
-Little](https://zh.wikipedia.org/wiki/Anthony_Little "wikilink")、[Frank
-Myers編寫](https://zh.wikipedia.org/wiki/Frank_Myers "wikilink")，協助填寫日語歌詞，並在2013年3月27日以三個不同版本推出\[1\]。
+《**You Are My Life**》 是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")的第十三張單曲（第十張主流單曲），由[Gary Baker](https://zh.wikipedia.org/wiki/Gary_Baker "wikilink")、[Anthony Little](https://zh.wikipedia.org/wiki/Anthony_Little "wikilink")、[Frank Myers編寫](https://zh.wikipedia.org/wiki/Frank_Myers "wikilink")，協助填寫日語歌詞，並在2013年3月27日以三個不同版本推出\[1\]。
 
 ## 背景
 
@@ -12,13 +8,11 @@ Myers編寫](https://zh.wikipedia.org/wiki/Frank_Myers "wikilink")，協助填�
 
 此單曲共分為3個發行版本，包括兩個限量版本及一個通常版本，每個版本都收錄了不同歌曲的純音樂版本和不同的隨附卡序列碼。
 
-  - 初回限定盤A：這版本包括了一片收錄了《COME INTO MY DREAM》的純音樂版本的單曲CD、一片收錄《You Are My
-    Life》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD\[5\]。
+  - 初回限定盤A：這版本包括了一片收錄了《COME INTO MY DREAM》的純音樂版本的單曲CD、一片收錄《You Are My Life》[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")與製作花絮的DVD\[5\]。
 
 <!-- end list -->
 
-  - 初回限定盤B：這版本包括了一片收錄了《BEAT
-    IT》的純音樂版本的單曲CD、一片收錄FTIsland在《》發行音樂會片段的DVD\[6\]。
+  - 初回限定盤B：這版本包括了一片收錄了《BEAT IT》的純音樂版本的單曲CD、一片收錄FTIsland在《》發行音樂會片段的DVD\[6\]。
 
 <!-- end list -->
 
@@ -48,8 +42,7 @@ Myers編寫](https://zh.wikipedia.org/wiki/Frank_Myers "wikilink")，協助填�
 
   -
 
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:FTIsland歌曲](https://zh.wikipedia.org/wiki/Category:FTIsland歌曲 "wikilink")
+[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:FTIsland歌曲](https://zh.wikipedia.org/wiki/Category:FTIsland歌曲 "wikilink")
 
 1.
 

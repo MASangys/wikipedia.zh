@@ -1,6 +1,4 @@
-**MacSoft**是位于美国[明尼苏达州](https://zh.wikipedia.org/wiki/明尼苏达州 "wikilink")[普利茅斯](../Page/普利茅斯.md "wikilink")的软件开发发行商，1993年由Peter
-Tamte创办，迄今为[Mac电脑发行软件超过百款](https://zh.wikipedia.org/wiki/Mac "wikilink")。MacSoft的产品包括[Windows移植游戏](https://zh.wikipedia.org/wiki/Windows "wikilink")，如《[光环：战斗进化](https://zh.wikipedia.org/wiki/光环：战斗进化 "wikilink")》和[帝国时代系列](https://zh.wikipedia.org/wiki/帝国时代系列 "wikilink")，此外还有Desktop
-Labels和1-2-3 Home Design等生产软件\[1\]。
+**MacSoft**是位于美国[明尼苏达州](https://zh.wikipedia.org/wiki/明尼苏达州 "wikilink")[普利茅斯](../Page/普利茅斯.md "wikilink")的软件开发发行商，1993年由Peter Tamte创办，迄今为[Mac电脑发行软件超过百款](https://zh.wikipedia.org/wiki/Mac "wikilink")。MacSoft的产品包括[Windows移植游戏](https://zh.wikipedia.org/wiki/Windows "wikilink")，如《[光环：战斗进化](https://zh.wikipedia.org/wiki/光环：战斗进化 "wikilink")》和[帝国时代系列](https://zh.wikipedia.org/wiki/帝国时代系列 "wikilink")，此外还有Desktop Labels和1-2-3 Home Design等生产软件\[1\]。
 
 2003年1月30日，Destineer宣布从[英宝格处购得MacSoft](https://zh.wikipedia.org/wiki/英宝格 "wikilink")\[2\]。
 
@@ -14,8 +12,7 @@ Labels和1-2-3 Home Design等生产软件\[1\]。
   - [神话世纪](../Page/神话世纪.md "wikilink")
   - [抢滩登陆2000](https://zh.wikipedia.org/wiki/抢滩登陆2000 "wikilink")
   - [文明II](../Page/文明II.md "wikilink")
-  - [Deadlock: Planetary
-    Conquest](https://zh.wikipedia.org/wiki/Deadlock:_Planetary_Conquest "wikilink")
+  - [Deadlock: Planetary Conquest](https://zh.wikipedia.org/wiki/Deadlock:_Planetary_Conquest "wikilink")
   - [毁灭公爵3D](../Page/毁灭公爵3D.md "wikilink")
   - [辐射](../Page/辐射_\(游戏\).md "wikilink")
   - [光环：战斗进化](https://zh.wikipedia.org/wiki/光环：战斗进化 "wikilink")
@@ -39,8 +36,7 @@ Labels和1-2-3 Home Design等生产软件\[1\]。
 ## 外部链接
 
   -
-[Category:1993年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1993年開業電子遊戲公司 "wikilink")
-[Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
+[Category:1993年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1993年開業電子遊戲公司 "wikilink") [Category:美國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:美國電子遊戲公司 "wikilink")
 
 1.
 

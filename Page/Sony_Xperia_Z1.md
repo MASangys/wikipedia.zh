@@ -1,13 +1,8 @@
-**Sony Xperia
-Z1**，是[索尼移动通信](../Page/索尼移动通信.md "wikilink")于2013年9月12日在[IFA](../Page/柏林國際廣播展.md "wikilink")2013开展前夕所发布的新旗舰级[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")。
+**Sony Xperia Z1**，是[索尼移动通信](../Page/索尼移动通信.md "wikilink")于2013年9月12日在[IFA](../Page/柏林國際廣播展.md "wikilink")2013开展前夕所发布的新旗舰级[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")。
 
 ## 简介
 
-索尼Xperia Z1配备一块5英寸1080p HD
-螢幕，搭载[高通](../Page/高通.md "wikilink")（Qualcomm）Snapdragon
-800系列四核心[处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")，辅以2GB的[RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")、16GB的[ROM](https://zh.wikipedia.org/wiki/ROM "wikilink")。索尼Xperia
-Z1还拥有2070万超高像素G镜头，搭载Exmor RS BSI背照式感光元件，使用Android
-5.1.1（Lollipop）作業系統。在外观上使用了双面玻璃机身以及金属一体切割成型边框并且支持IP55/58级别的防尘防水功能。
+索尼Xperia Z1配备一块5英寸1080p HD 螢幕，搭载[高通](../Page/高通.md "wikilink")（Qualcomm）Snapdragon 800系列四核心[处理器](https://zh.wikipedia.org/wiki/处理器 "wikilink")，辅以2GB的[RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")、16GB的[ROM](https://zh.wikipedia.org/wiki/ROM "wikilink")。索尼Xperia Z1还拥有2070万超高像素G镜头，搭载Exmor RS BSI背照式感光元件，使用Android 5.1.1（Lollipop）作業系統。在外观上使用了双面玻璃机身以及金属一体切割成型边框并且支持IP55/58级别的防尘防水功能。
 
 ## 規格
 
@@ -29,9 +24,7 @@ Z1还拥有2070万超高像素G镜头，搭载Exmor RS BSI背照式感光元件�
 
 ## Z1s
 
-代碼為C6916，是美國T-Mobile的Xperia
-Z1客製機種，與其他Z1最大的不同是原本的耳機孔位置從左邊移至正中央，顏色也只有提供黑色。
-但相同外型的L39t/L39u除了黑色之外，尚有紫色可以選擇。
+代碼為C6916，是美國T-Mobile的Xperia Z1客製機種，與其他Z1最大的不同是原本的耳機孔位置從左邊移至正中央，顏色也只有提供黑色。 但相同外型的L39t/L39u除了黑色之外，尚有紫色可以選擇。
 
 ## 特殊功能
 
@@ -55,8 +48,4 @@ AR 效果， Timeshift， Socialife
 
   -
   -
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
-[Category:2013年面世的手機](https://zh.wikipedia.org/wiki/Category:2013年面世的手機 "wikilink")
+[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink") [Category:2013年面世的手機](https://zh.wikipedia.org/wiki/Category:2013年面世的手機 "wikilink")

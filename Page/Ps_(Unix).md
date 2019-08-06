@@ -1,9 +1,6 @@
-在大多数[类Unix](../Page/类Unix系统.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")中，**`ps`**程序（“**p**rocess
-**s**tatus”的简称）可以显示当前运行的[进程](https://zh.wikipedia.org/wiki/进程 "wikilink")。一个相关的Unix工具[top则可以查看运行进程的实时信息](https://zh.wikipedia.org/wiki/Top_\(Unix\) "wikilink")。
+在大多数[类Unix](../Page/类Unix系统.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")中，**`ps`**程序（“**p**rocess **s**tatus”的简称）可以显示当前运行的[进程](https://zh.wikipedia.org/wiki/进程 "wikilink")。一个相关的Unix工具[top则可以查看运行进程的实时信息](https://zh.wikipedia.org/wiki/Top_\(Unix\) "wikilink")。
 
-在[Windows
-PowerShell中](../Page/Windows_PowerShell.md "wikilink")，`ps`是`Get-Process`
-cmdlet的预定义[命令别名](https://zh.wikipedia.org/wiki/alias_\(命令\) "wikilink")，它和Unix中的`ps`本质上是相同的。
+在[Windows PowerShell中](../Page/Windows_PowerShell.md "wikilink")，`ps`是`Get-Process` cmdlet的预定义[命令别名](https://zh.wikipedia.org/wiki/alias_\(命令\) "wikilink")，它和Unix中的`ps`本质上是相同的。
 
 ## 示例
 
@@ -69,16 +66,14 @@ root     1   0.0  0.0   9436   128  -  ILs  Sun00AM     0:00.12 /sbin/init --
 
 ps有很多选项。在支持[SUS和](https://zh.wikipedia.org/wiki/单一UNIX规范 "wikilink")[POSIX标准的](https://zh.wikipedia.org/wiki/POSIX "wikilink")[操作系统](../Page/操作系统.md "wikilink")上，ps常以选项**-ef**运行，其中“-e”选择每一个（**e**very）进程，“-f”指定“完整”（**f**ull）输出格式。这些系统上的另一个常见选项是**-l**，它指定“长”（**l**ong）输出格式。
 
-由于历史原因，大多数源自BSD的系统无法接受SUS和POSIX的标准选项（例如，“e”或“-e”选项将显示[环境变量](../Page/环境变量.md "wikilink")）。在这样的系统中，ps常使用辅助非标准选项**aux**，其中“a”列出了一个[终端上的所有进程](https://zh.wikipedia.org/wiki/终端 "wikilink")，包括其他用户运行的，“x”列出所有没有控制终端的进程，“u”添加了一列显示每个进程的控制用户。需要注意的是，为了最大的兼容性，使用此语法时“aux”前没有“-”。此外，在aux之后添加“ww”可以显示进程的完整信息，包括所有的参数，例如“ps
-auxww”。
+由于历史原因，大多数源自BSD的系统无法接受SUS和POSIX的标准选项（例如，“e”或“-e”选项将显示[环境变量](../Page/环境变量.md "wikilink")）。在这样的系统中，ps常使用辅助非标准选项**aux**，其中“a”列出了一个[终端上的所有进程](https://zh.wikipedia.org/wiki/终端 "wikilink")，包括其他用户运行的，“x”列出所有没有控制终端的进程，“u”添加了一列显示每个进程的控制用户。需要注意的是，为了最大的兼容性，使用此语法时“aux”前没有“-”。此外，在aux之后添加“ww”可以显示进程的完整信息，包括所有的参数，例如“ps auxww”。
 
 ## 参见
 
   - [任务管理器](../Page/任务管理器.md "wikilink")
   - [`kill`](https://zh.wikipedia.org/wiki/kill_\(命令\) "wikilink")
   - [Unix实用程序列表](../Page/Unix实用程序列表.md "wikilink")
-  - [`nmon`](https://zh.wikipedia.org/wiki/nmon "wikilink") —
-    AIX和Linux操作系统的系统监视工具。
+  - [`nmon`](https://zh.wikipedia.org/wiki/nmon "wikilink") — AIX和Linux操作系统的系统监视工具。
   - [`pgrep`](https://zh.wikipedia.org/wiki/pgrep "wikilink")
   - [`pstree`](https://zh.wikipedia.org/wiki/pstree_\(Unix\) "wikilink")
   - [`top`](https://zh.wikipedia.org/wiki/top_\(Unix\) "wikilink")
@@ -87,12 +82,9 @@ auxww”。
 ## 外部链接
 
   -
-  - [Show all running processes in Linux using ps
-    command](http://www.cyberciti.biz/faq/show-all-running-processes-in-linux/)
+  - [Show all running processes in Linux using ps command](http://www.cyberciti.biz/faq/show-all-running-processes-in-linux/)
 
   -
-  - [In Unix, what do the output fields of the ps command
-    mean?](http://kb.iu.edu/data/afnv.html)
+  - [In Unix, what do the output fields of the ps command mean?](http://kb.iu.edu/data/afnv.html)
 
-[Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
-[Category:Unix进程和任务管理相关软件](https://zh.wikipedia.org/wiki/Category:Unix进程和任务管理相关软件 "wikilink")
+[Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink") [Category:Unix进程和任务管理相关软件](https://zh.wikipedia.org/wiki/Category:Unix进程和任务管理相关软件 "wikilink")

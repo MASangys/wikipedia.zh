@@ -1,5 +1,4 @@
-**RET睿意德**是一家中国商业[地产咨询公司](https://zh.wikipedia.org/wiki/地产 "wikilink")。提供商业地产的策略顾问、建筑策划、租赁代理、销售代理等全程服务。睿意德目前在中国有[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[郑州](https://zh.wikipedia.org/wiki/郑州 "wikilink")、[成都](https://zh.wikipedia.org/wiki/成都 "wikilink")、[沈阳](https://zh.wikipedia.org/wiki/沈阳 "wikilink")、[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")\[1\]5个分公司。
-\[2\]
+**RET睿意德**是一家中国商业[地产咨询公司](https://zh.wikipedia.org/wiki/地产 "wikilink")。提供商业地产的策略顾问、建筑策划、租赁代理、销售代理等全程服务。睿意德目前在中国有[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[郑州](https://zh.wikipedia.org/wiki/郑州 "wikilink")、[成都](https://zh.wikipedia.org/wiki/成都 "wikilink")、[沈阳](https://zh.wikipedia.org/wiki/沈阳 "wikilink")、[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")\[1\]5个分公司。 \[2\]
 
 ## 创始团队
 
@@ -17,13 +16,10 @@ RET睿意德曾为北京[新光天地](https://zh.wikipedia.org/wiki/新光天�
 
 ## 参考资料
 
-[:地产服务公司](https://zh.wikipedia.org/wiki/:地产服务公司 "wikilink")
-[Category:2012年成立的公司](https://zh.wikipedia.org/wiki/Category:2012年成立的公司 "wikilink")
-[Category:中国CATEGORY房地产开发公司](https://zh.wikipedia.org/wiki/Category:中国CATEGORY房地产开发公司 "wikilink")
+[:地产服务公司](https://zh.wikipedia.org/wiki/:地产服务公司 "wikilink") [Category:2012年成立的公司](https://zh.wikipedia.org/wiki/Category:2012年成立的公司 "wikilink") [Category:中国CATEGORY房地产开发公司](https://zh.wikipedia.org/wiki/Category:中国CATEGORY房地产开发公司 "wikilink")
 
 1.
-2.  [新浪乐居：RET睿意德布局中国
-    地产顾问进入专业细分时代](http://sh.house.sina.com.cn/news/2013-06-04/10203233816.shtml)
+2.  [新浪乐居：RET睿意德布局中国 地产顾问进入专业细分时代](http://sh.house.sina.com.cn/news/2013-06-04/10203233816.shtml)
 3.  [商都网：RET睿意德行政总裁：陆逢兆](http://house.shangdu.com/daili/16/elite_10)
 4.
 5.  [网易房产：RET睿意德发布中国首个商业地产指数系统](http://sz.house.163.com/14/0423/08/9QGJUOLC00074KCM.html?f=jsearch)

@@ -34,7 +34,6 @@
 
 ## 參考文獻
 
-[Category:汤加](https://zh.wikipedia.org/wiki/Category:汤加 "wikilink")
-[Category:大洋洲LGBT權益](https://zh.wikipedia.org/wiki/Category:大洋洲LGBT權益 "wikilink")
+[Category:汤加](https://zh.wikipedia.org/wiki/Category:汤加 "wikilink") [Category:大洋洲LGBT權益](https://zh.wikipedia.org/wiki/Category:大洋洲LGBT權益 "wikilink")
 
 1.

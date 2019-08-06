@@ -64,8 +64,7 @@
 
 <!-- end list -->
 
-  - 2011年1月28日 - [アネカノ
-    -お姉ちゃんとえっちであまーいヒミツの関係-](https://zh.wikipedia.org/wiki/姊姊情人 "wikilink")
+  - 2011年1月28日 - [アネカノ -お姉ちゃんとえっちであまーいヒミツの関係-](https://zh.wikipedia.org/wiki/姊姊情人 "wikilink")
   - 2011年8月26日 -
 
 <!-- end list -->
@@ -94,31 +93,23 @@
 
 <!-- end list -->
 
-  - 2009年5月29日 -
-    [花と乙女に祝福を](https://zh.wikipedia.org/wiki/花與乙女的祝福#花と乙女に祝福を "wikilink")
-  - 2010年1月29日 - [花と乙女に祝福を
-    ロイヤルブーケ](https://zh.wikipedia.org/wiki/花與乙女的祝福#花と乙女に祝福を "wikilink")
-  - 2011年1月28日 -
-    [黙って私のムコになれ！](https://zh.wikipedia.org/wiki/千金逼我嫁! "wikilink")
-  - 2012年3月30日 -
-    [乙女が紡ぐ恋のキャンバス](https://zh.wikipedia.org/wiki/少女編織愛的畫布 "wikilink")
-  - 2012年11月22日 -
-    [乙女が紡ぐ恋のキャンバス～二人のギャラリー～](https://zh.wikipedia.org/wiki/少女編織愛的畫布 "wikilink")
+  - 2009年5月29日 - [花と乙女に祝福を](https://zh.wikipedia.org/wiki/花與乙女的祝福#花と乙女に祝福を "wikilink")
+  - 2010年1月29日 - [花と乙女に祝福を ロイヤルブーケ](https://zh.wikipedia.org/wiki/花與乙女的祝福#花と乙女に祝福を "wikilink")
+  - 2011年1月28日 - [黙って私のムコになれ！](https://zh.wikipedia.org/wiki/千金逼我嫁! "wikilink")
+  - 2012年3月30日 - [乙女が紡ぐ恋のキャンバス](https://zh.wikipedia.org/wiki/少女編織愛的畫布 "wikilink")
+  - 2012年11月22日 - [乙女が紡ぐ恋のキャンバス～二人のギャラリー～](https://zh.wikipedia.org/wiki/少女編織愛的畫布 "wikilink")
   - 2013年4月26日 - 乙女達の恋物語
   - 2013年5月24日 - お嬢様はご機嫌ナナメ
   - 2013年11月29日 -
   - 2014年3月28日 - 乙女達の恋物語 ～ご機嫌ようお嬢様～
   - 2014年3月28日 - 桜舞う乙女のロンド ～あなたと見る冬桜～
-  - 2014年5月30日 - [Golden
-    Marriage](../Page/Golden_Marriage.md "wikilink")
+  - 2014年5月30日 - [Golden Marriage](../Page/Golden_Marriage.md "wikilink")
   - 2014年11月28日 - 乙女が奏でる恋のアリア
-  - 2015年3月27日 - [Golden Marriage -Jewel
-    Days-](../Page/Golden_Marriage.md "wikilink")
+  - 2015年3月27日 - [Golden Marriage -Jewel Days-](../Page/Golden_Marriage.md "wikilink")
   - 2015年6月26日 - 乙女が奏でる恋のアリア～君に捧げるアンコール～
   - 2015年11月27日 - [恋する気持ちのかさねかた](../Page/戀愛心情的重疊方式.md "wikilink")
   - 2016年3月25日 - 乙女が彩る恋のエッセンス
-  - 2016年6月24日 - [恋する気持ちのかさねかた
-    ～かさねた想いをずっと～](../Page/戀愛心情的重疊方式.md "wikilink")
+  - 2016年6月24日 - [恋する気持ちのかさねかた ～かさねた想いをずっと～](../Page/戀愛心情的重疊方式.md "wikilink")
   - 2016年11月25日 - 乙女が彩る恋のエッセンス ～笑顔で織りなす未来～
   - 2017年3月24日 - 想いを捧げる乙女のメロディー
   - 2017年6月23日 - お嬢様は素直になれない
@@ -531,8 +522,7 @@
 
 <!-- end list -->
 
-  - 2006年12月28日 -
-    [愛と欲望は学園で](https://zh.wikipedia.org/wiki/愛と欲望は学園で "wikilink")
+  - 2006年12月28日 - [愛と欲望は学園で](https://zh.wikipedia.org/wiki/愛と欲望は学園で "wikilink")
 
 <!-- end list -->
 
@@ -542,8 +532,7 @@
 
   - 2002年10月11日 -
   - 2004年4月23日 -
-  - 2005年4月22日 -
-    [絶対服従命令](https://zh.wikipedia.org/wiki/絶対服従命令 "wikilink")
+  - 2005年4月22日 - [絶対服従命令](https://zh.wikipedia.org/wiki/絶対服従命令 "wikilink")
   - 2006年10月27日 -
 
 ## 過去的公司成員
@@ -599,11 +588,7 @@
 
   - [Will Plus Official Website](http://www.will-japan.co.jp/index.html)
 
-[Category:1992年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1992年開業電子遊戲公司 "wikilink")
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:WillPlus](https://zh.wikipedia.org/wiki/Category:WillPlus "wikilink")
+[Category:1992年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1992年開業電子遊戲公司 "wikilink") [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:WillPlus](https://zh.wikipedia.org/wiki/Category:WillPlus "wikilink")
 
 1.  [会社概要](http://www.will-japan.co.jp/company.html)WillPlus。
 

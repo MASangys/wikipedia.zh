@@ -1,11 +1,8 @@
-《**SEVENTH
-COLOR**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BOYFRIEND的第二張日語](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2014年7月23日以三個版本：通常盤、初回限定盤及Lawson・HMV限定盤（）推出\[1\]。兩張打入Oricon單曲週榜前十名的單曲：《My
-Avatar》及《START UP\!》（）在專輯推出前預先發行。
+《**SEVENTH COLOR**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[BOYFRIEND的第二張日語](https://zh.wikipedia.org/wiki/Boyfriend_\(男子團體\) "wikilink")[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，在2014年7月23日以三個版本：通常盤、初回限定盤及Lawson・HMV限定盤（）推出\[1\]。兩張打入Oricon單曲週榜前十名的單曲：《My Avatar》及《START UP\!》（）在專輯推出前預先發行。
 
 ## 背景
 
-2014年5月31日，BOYFRIEND的官方網站公佈了《SEVENTH
-COLOR》的發行消息、曲目資訊\[2\]\[3\]。其後專輯部分版本的附贈曲目在6月19日也一併披露\[4\]。
+2014年5月31日，BOYFRIEND的官方網站公佈了《SEVENTH COLOR》的發行消息、曲目資訊\[2\]\[3\]。其後專輯部分版本的附贈曲目在6月19日也一併披露\[4\]。
 
 至2014年7月9日，官方網站公開了《SEVENTH COLOR》主打曲《Here\!》的試聽鍵結\[5\]。
 
@@ -44,9 +41,7 @@ COLOR》的發行消息、曲目資訊\[2\]\[3\]。其後專輯部分版本的�
 
 ## 參考資料
 
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
-[Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
-[Category:Boyfriend音樂專輯](https://zh.wikipedia.org/wiki/Category:Boyfriend音樂專輯 "wikilink")
+[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink") [Category:Boyfriend音樂專輯](https://zh.wikipedia.org/wiki/Category:Boyfriend音樂專輯 "wikilink")
 
 1.
 

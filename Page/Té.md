@@ -2,8 +2,7 @@
 
 ## 樂團簡介
 
-té成軍於2004年，以吉他手kono為中心集結而成，成員包括活躍的音樂人hiro（吉他）、masa（貝斯）、tachibana（鼓）。以具爆發力的後搖曲風為主線的té，每個器樂各有所長，主吉他乾淨的tone調狂飆、節奏吉他配合專攻獨特音節、深受現代主義樂風影響的貝斯與纖細之中有強烈
-重拍的鼓點，隨之搭配上陣。有急有緩，有靜有嗨。
+té成軍於2004年，以吉他手kono為中心集結而成，成員包括活躍的音樂人hiro（吉他）、masa（貝斯）、tachibana（鼓）。以具爆發力的後搖曲風為主線的té，每個器樂各有所長，主吉他乾淨的tone調狂飆、節奏吉他配合專攻獨特音節、深受現代主義樂風影響的貝斯與纖細之中有強烈 重拍的鼓點，隨之搭配上陣。有急有緩，有靜有嗨。
 
 深信「創作時只要把這音樂送到音樂最想去的地方就好了」哲學的té，形塑了獨一無二的音聲世界，那裡無盡深奧的感性憾動著我們，音聲銳利直入人心。
 
@@ -28,7 +27,4 @@ té成軍於2004年，以吉他手kono為中心集結而成，成員包括活躍
 ## 參考
 
 1.
-[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")
-[Category:後搖滾樂團](https://zh.wikipedia.org/wiki/Category:後搖滾樂團 "wikilink")
-[Category:實驗音樂樂團](https://zh.wikipedia.org/wiki/Category:實驗音樂樂團 "wikilink")
-[Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")
+[Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink") [Category:後搖滾樂團](https://zh.wikipedia.org/wiki/Category:後搖滾樂團 "wikilink") [Category:實驗音樂樂團](https://zh.wikipedia.org/wiki/Category:實驗音樂樂團 "wikilink") [Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")

@@ -6,9 +6,7 @@ SFM12型由[南车四方和](https://zh.wikipedia.org/wiki/南车四方 "wikilin
 
 ## 列车图片
 
-Image:Route map inside train of BJS Line 8.jpg|列车闪灯图 Image:Door of the
-train of BJS Line 8, 2012.jpg|列车车门 Image:Seats in a train of BJS Line 8,
-2012.jpg|列车座位
+Image:Route map inside train of BJS Line 8.jpg|列车闪灯图 Image:Door of the train of BJS Line 8, 2012.jpg|列车车门 Image:Seats in a train of BJS Line 8, 2012.jpg|列车座位
 
 ## 列车运送过程
 
@@ -16,9 +14,6 @@ train of BJS Line 8, 2012.jpg|列车车门 Image:Seats in a train of BJS Line 8,
 
 ## 参考资料
 
-[Category:北京地铁SFM系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁SFM系列电动车组 "wikilink")
-[Category:北京地铁8号线](https://zh.wikipedia.org/wiki/Category:北京地铁8号线 "wikilink")
-[Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink")
-[Category:750伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:750伏直流電力動車組 "wikilink")
+[Category:北京地铁SFM系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁SFM系列电动车组 "wikilink") [Category:北京地铁8号线](https://zh.wikipedia.org/wiki/Category:北京地铁8号线 "wikilink") [Category:中车四方制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车四方制铁路车辆 "wikilink") [Category:750伏直流電力動車組](https://zh.wikipedia.org/wiki/Category:750伏直流電力動車組 "wikilink")
 
 1.  [北京三条地铁新线今日14时开通 北京西站通地铁](http://news.qq.com/a/20111231/000043.htm)

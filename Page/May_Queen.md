@@ -1,5 +1,4 @@
-《**May
-Queen**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2012年8月18日起播出的[週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")。
+《**May Queen**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2012年8月18日起播出的[週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")。
 
 ## 劇情
 
@@ -387,16 +386,9 @@ Queen**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC
   - [韓國MBC](http://www.imbc.com/broad/tv/drama/mayqueen/)
   - [臺灣東森](http://blog.ebc.net.tw/apps/mayqueen/)
 
-[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:收養相關電視節目](https://zh.wikipedia.org/wiki/Category:收養相關電視節目 "wikilink")
-[Category:蔚山廣域市背景作品](https://zh.wikipedia.org/wiki/Category:蔚山廣域市背景作品 "wikilink")
-[Category:造船廠背景作品](https://zh.wikipedia.org/wiki/Category:造船廠背景作品 "wikilink")
-[Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
+[Category:2012年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2012年韓國電視劇集 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:收養相關電視節目](https://zh.wikipedia.org/wiki/Category:收養相關電視節目 "wikilink") [Category:蔚山廣域市背景作品](https://zh.wikipedia.org/wiki/Category:蔚山廣域市背景作品 "wikilink") [Category:造船廠背景作品](https://zh.wikipedia.org/wiki/Category:造船廠背景作品 "wikilink") [Category:東森電視外購韓劇](https://zh.wikipedia.org/wiki/Category:東森電視外購韓劇 "wikilink")
 
-1.  [金載沅回歸小銀幕 《May
-    Queen》講述造船故事](http://www.koreastardaily.com/tc/news/19222)
-    韓星網
+1.  [金載沅回歸小銀幕 《May Queen》講述造船故事](http://www.koreastardaily.com/tc/news/19222) 韓星網
 2.  [TNmS 멀티미디어 홈페이지](http://home.tnms.tv/rating/main.asp)
 3.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)
 4.  因轉播韓國總統大選候選者討論會，延遲55分鐘播出。

@@ -1,5 +1,4 @@
-《**B'z
-The"Mixture"**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z](../Page/B'z.md "wikilink")在2000年所發行的第三張精選輯，收錄曲全使用混音錄製。
+《**B'z The"Mixture"**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z](../Page/B'z.md "wikilink")在2000年所發行的第三張精選輯，收錄曲全使用混音錄製。
 
 ## 簡介
 
@@ -7,10 +6,7 @@ The"Mixture"**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh
 
 <!-- end list -->
 
-  - 由於前兩張精選輯[B'z The Best
-    "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")，[B'z The
-    Best
-    "Treasure"封面為金銀兩色](../Page/B'z_The_Best_"Treasure".md "wikilink")，所以通稱為金銀盤，而此張精選輯為第三張，為何不稱為銅盤呢？成員的回答是「因為銅就像第三個人一樣，所以我們不喜歡」。
+  - 由於前兩張精選輯[B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")，[B'z The Best "Treasure"封面為金銀兩色](../Page/B'z_The_Best_"Treasure".md "wikilink")，所以通稱為金銀盤，而此張精選輯為第三張，為何不稱為銅盤呢？成員的回答是「因為銅就像第三個人一樣，所以我們不喜歡」。
 
 <!-- end list -->
 
@@ -22,14 +18,11 @@ The"Mixture"**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh
 2.  [YOU\&I](../Page/心願_\(B'z單曲\).md "wikilink") (4:08)\*\*
 3.  [OH\!GIRL](../Page/OFF_THE_LOCK.md "wikilink") (4:00) \*
 4.  [NEVER LET YOU GO](../Page/OFF_THE_LOCK.md "wikilink") (5:45) \*
-5.  [JOY](https://zh.wikipedia.org/wiki/愛是放縱任性的_我惟獨不願讓你受傷 "wikilink")
-    (3:41) \*\*
+5.  [JOY](https://zh.wikipedia.org/wiki/愛是放縱任性的_我惟獨不願讓你受傷 "wikilink") (3:41) \*\*
 6.  [現在…如果現在…現在也…](../Page/BREAK_THROUGH.md "wikilink") (5:22)\*
 7.  [孤獨的Runaway](../Page/MARS_\(B'z專輯\).md "wikilink") (5:00)\*
-8.  [MOVE](https://zh.wikipedia.org/wiki/看不見的力量_～INVISIBLE_ONE～/MOVE "wikilink")
-    (3:44)
-9.  [東京](https://zh.wikipedia.org/wiki/love_me,_I_love_you "wikilink")
-    (4:09)\*\*
+8.  [MOVE](https://zh.wikipedia.org/wiki/看不見的力量_～INVISIBLE_ONE～/MOVE "wikilink") (3:44)
+9.  [東京](https://zh.wikipedia.org/wiki/love_me,_I_love_you "wikilink") (4:09)\*\*
 10. [hole in my heart](../Page/MOTEL.md "wikilink") (3:20)\*\*
 11. [KARA・KARA](../Page/裸足的女神.md "wikilink") (3:47)\*\*
 12. [FUSHIDARA 100%](../Page/LOVE_PHANTOM.md "wikilink") (3:52)
@@ -79,9 +72,4 @@ The"Mixture"**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh
 
   - [2000年的音樂](http://ja.wikipedia.org/wiki/2000%E5%B9%B4%E3%81%AE%E9%9F%B3%E6%A5%BD)
 
-[Category:B'z精選輯](https://zh.wikipedia.org/wiki/Category:B'z精選輯 "wikilink")
-[Category:Being音樂專輯](https://zh.wikipedia.org/wiki/Category:Being音樂專輯 "wikilink")
-[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink")
-[Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
-[Category:2000年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:B'z精選輯](https://zh.wikipedia.org/wiki/Category:B'z精選輯 "wikilink") [Category:Being音樂專輯](https://zh.wikipedia.org/wiki/Category:Being音樂專輯 "wikilink") [Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink") [Category:2000年音樂專輯](https://zh.wikipedia.org/wiki/Category:2000年音樂專輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:2000年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2000年Oricon專輯週榜冠軍作品 "wikilink")

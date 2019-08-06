@@ -142,5 +142,4 @@ Johnny、Wayne、Boey上司</p></td>
   -
   -
   -
-[Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink")
-[Category:香港喜剧片](https://zh.wikipedia.org/wiki/Category:香港喜剧片 "wikilink")
+[Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink") [Category:香港喜剧片](https://zh.wikipedia.org/wiki/Category:香港喜剧片 "wikilink")

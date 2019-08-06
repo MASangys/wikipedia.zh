@@ -1,6 +1,4 @@
-《**COMPLETE SET Limited
-Box**》為[東方神起](../Page/東方神起.md "wikilink")於2010年6月30日在[日本](../Page/日本.md "wikilink")發行的第二張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。此张精选辑分为《COMPLETE
-- SINGLE A-SIDE COLLECTION -》和《SINGLE B-SIDE COLLECTION》两部分。
+《**COMPLETE SET Limited Box**》為[東方神起](../Page/東方神起.md "wikilink")於2010年6月30日在[日本](../Page/日本.md "wikilink")發行的第二張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。此张精选辑分为《COMPLETE - SINGLE A-SIDE COLLECTION -》和《SINGLE B-SIDE COLLECTION》两部分。
 
 ## COMPLETE - SINGLE A-SIDE COLLECTION -
 
@@ -79,7 +77,4 @@ CD
 
   - [日本官方網站](http://toho-jp.net/)
 
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:東方神起專輯](https://zh.wikipedia.org/wiki/Category:東方神起專輯 "wikilink")
-[Category:2010年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:東方神起專輯](https://zh.wikipedia.org/wiki/Category:東方神起專輯 "wikilink") [Category:2010年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯月榜冠軍作品 "wikilink") [Category:2010年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2010年Oricon專輯週榜冠軍作品 "wikilink")

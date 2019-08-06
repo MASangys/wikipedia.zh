@@ -1,8 +1,4 @@
-**TOP
-Media**（）是韓國的[經紀公司](../Page/經紀公司.md "wikilink")，由[神話成員](https://zh.wikipedia.org/wiki/神話_\(組合\) "wikilink")[Andy創立](../Page/李先鎬.md "wikilink")。當前藝人包括神話成員[Andy](../Page/李先鎬.md "wikilink")、[Eric](../Page/文晸赫.md "wikilink")、男子組合[TEEN
-TOP](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")、
-[100%](https://zh.wikipedia.org/wiki/100% "wikilink")
-、[UP10TION](../Page/UP10TION.md "wikilink")。
+**TOP Media**（）是韓國的[經紀公司](../Page/經紀公司.md "wikilink")，由[神話成員](https://zh.wikipedia.org/wiki/神話_\(組合\) "wikilink")[Andy創立](../Page/李先鎬.md "wikilink")。當前藝人包括神話成員[Andy](../Page/李先鎬.md "wikilink")、[Eric](../Page/文晸赫.md "wikilink")、男子組合[TEEN TOP](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")、 [100%](https://zh.wikipedia.org/wiki/100% "wikilink") 、[UP10TION](../Page/UP10TION.md "wikilink")。
 
 ## 當前之旗下藝人
 
@@ -62,27 +58,19 @@ TOP](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")、
 
 ### 練習生
 
-  - [申藝燦](https://zh.wikipedia.org/wiki/申藝燦 "wikilink")（[Under
-    Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")
-    參賽者、[1THE9成員](https://zh.wikipedia.org/wiki/1THE9 "wikilink")）
+  - [申藝燦](https://zh.wikipedia.org/wiki/申藝燦 "wikilink")（[Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink") 參賽者、[1THE9成員](https://zh.wikipedia.org/wiki/1THE9 "wikilink")）
   - [MCND成員](https://zh.wikipedia.org/wiki/MCND "wikilink")：
-      - WIN，[方俊赫](https://zh.wikipedia.org/wiki/方俊赫 "wikilink")（[Under
-        Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")
-        參賽者）
-      - MINJAE，[宋旼宰](https://zh.wikipedia.org/wiki/宋旼宰 "wikilink")（[The
-        Fan](https://zh.wikipedia.org/wiki/The_Fan "wikilink") 參賽者）
-      - HUIJUN，[盧輝俊](https://zh.wikipedia.org/wiki/盧輝俊 "wikilink")（[The
-        Fan](https://zh.wikipedia.org/wiki/The_Fan "wikilink") 參賽者）
+      - WIN，[方俊赫](https://zh.wikipedia.org/wiki/方俊赫 "wikilink")（[Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink") 參賽者）
+      - MINJAE，[宋旼宰](https://zh.wikipedia.org/wiki/宋旼宰 "wikilink")（[The Fan](https://zh.wikipedia.org/wiki/The_Fan "wikilink") 參賽者）
+      - HUIJUN，[盧輝俊](https://zh.wikipedia.org/wiki/盧輝俊 "wikilink")（[The Fan](https://zh.wikipedia.org/wiki/The_Fan "wikilink") 參賽者）
       - CASTLE J
       - BIC
 
 ## 過去旗下藝人
 
-  - [L.Joe](https://zh.wikipedia.org/wiki/L.Joe "wikilink")（2010年 —
-    2017年）
+  - [L.Joe](https://zh.wikipedia.org/wiki/L.Joe "wikilink")（2010年 — 2017年）
   - 李相勳（2012年 — 2014年）
-  - 禹昌範（2012年 —
-    2016年）原為[100%成員](https://zh.wikipedia.org/wiki/100%_\(組合\) "wikilink")，現以VERMUDA成員U身分繼續活動
+  - 禹昌範（2012年 — 2016年）原為[100%成員](https://zh.wikipedia.org/wiki/100%_\(組合\) "wikilink")，現以VERMUDA成員U身分繼續活動
 
 ## 參考資料
 

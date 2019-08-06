@@ -1,11 +1,8 @@
-《Mr. Simple》是韓國男子組合[Super
-Junior的第二張日語單曲](../Page/Super_Junior.md "wikilink")。2011年12月7日由Avex
-trax發售。\[1\]
+《Mr. Simple》是韓國男子組合[Super Junior的第二張日語單曲](../Page/Super_Junior.md "wikilink")。2011年12月7日由Avex trax發售。\[1\]
 
 ## 錄製與音樂
 
-《Mr. Simple》是Super Junior第五張正規專輯《[Mr.
-Simple](../Page/Mr._Simple.md "wikilink")》主打曲《Mr. Simple》的日語版本。
+《Mr. Simple》是Super Junior第五張正規專輯《[Mr. Simple](../Page/Mr._Simple.md "wikilink")》主打曲《Mr. Simple》的日語版本。
 
 ## 曲目
 
@@ -65,9 +62,7 @@ Simple](../Page/Mr._Simple.md "wikilink")》主打曲《Mr. Simple》的日語�
 
 ## 參考來源
 
-[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink")
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:Super_Junior歌曲](https://zh.wikipedia.org/wiki/Category:Super_Junior歌曲 "wikilink")
+[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:Super_Junior歌曲](https://zh.wikipedia.org/wiki/Category:Super_Junior歌曲 "wikilink")
 
 1.
 

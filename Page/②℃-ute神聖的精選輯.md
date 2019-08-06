@@ -2,14 +2,11 @@
 
 ## 概要
 
-  - 繼2009年發售的「[我們是℃-ute\!
-    所有單曲大集合囉\!①](https://zh.wikipedia.org/wiki/我們是℃-ute!_所有單曲大集合囉!① "wikilink")」以來的精選專輯。與上一張專輯『[第七章「太美了真抱歉」](../Page/第七章「太美了真抱歉」.md "wikilink")』相距約9個月。
-  - 收錄第13張單曲「[爆音Dance\!](../Page/爆音Dance!.md "wikilink")」至第18張單曲「[你騎自行車
-    我坐火車回家](../Page/你騎自行車_我坐火車回家.md "wikilink")」共4首主打單曲（[想見你的寂寞聖誕節](../Page/想見你的寂寞聖誕節.md "wikilink")、[桃色Sparkling](../Page/桃色Sparkling.md "wikilink")沒有收錄）。
+  - 繼2009年發售的「[我們是℃-ute\! 所有單曲大集合囉\!①](https://zh.wikipedia.org/wiki/我們是℃-ute!_所有單曲大集合囉!① "wikilink")」以來的精選專輯。與上一張專輯『[第七章「太美了真抱歉」](../Page/第七章「太美了真抱歉」.md "wikilink")』相距約9個月。
+  - 收錄第13張單曲「[爆音Dance\!](../Page/爆音Dance!.md "wikilink")」至第18張單曲「[你騎自行車 我坐火車回家](../Page/你騎自行車_我坐火車回家.md "wikilink")」共4首主打單曲（[想見你的寂寞聖誕節](../Page/想見你的寂寞聖誕節.md "wikilink")、[桃色Sparkling](../Page/桃色Sparkling.md "wikilink")沒有收錄）。
   - 除了單曲，此專輯更收錄11首重新編曲和混音的單曲、B面曲及專輯曲，以及新曲『「愛情」的定義是什麼\!』，共12首曲目。
   - 本作分「初回限定盤A」、「初回限定盤B」和「CD盤」3種版本。
-  - 「初回限定盤A」收錄了9首重新收錄單曲的PV和單曲「[想見 想見
-    想見你](../Page/想見_想見_想見你.md "wikilink")」B面曲「悲傷的天堂」的PV和Live片段；「初回限定盤B」收錄了片段「超長訪問」。
+  - 「初回限定盤A」收錄了9首重新收錄單曲的PV和單曲「[想見 想見 想見你](../Page/想見_想見_想見你.md "wikilink")」B面曲「悲傷的天堂」的PV和Live片段；「初回限定盤B」收錄了片段「超長訪問」。
   - 在12月3日於Oricon公信榜專輯每週排行榜取得第12位。
   - 此專輯爲℃-ute出道以來銷量最高的專輯（24,613張），亦是自2008年以來[早安家族](../Page/早安家族.md "wikilink")中銷量最高的專輯。
 
@@ -21,8 +18,7 @@
     （作詞、作曲：[淳君](../Page/淳君.md "wikilink")　編曲：[平田祥一郎](https://zh.wikipedia.org/wiki/平田祥一郎 "wikilink")）
       -
         1st獨立製作單曲
-2.  **[立刻
-    擁抱我](https://zh.wikipedia.org/wiki/立刻_擁抱我 "wikilink")（2012神聖Ver.）**（）
+2.  **[立刻 擁抱我](https://zh.wikipedia.org/wiki/立刻_擁抱我 "wikilink")（2012神聖Ver.）**（）
     （作詞、作曲：淳君　編曲：[渡辺泰司](https://zh.wikipedia.org/wiki/渡辺泰司 "wikilink")）
       -
         2nd獨立製作單曲
@@ -57,9 +53,7 @@
       -
         5th單曲
 10. **[江戶手毬歌Ⅱ](../Page/江戶手毬歌Ⅱ.md "wikilink")（2012神聖Ver.）**（）
-    （作詞：[吉岡治](https://zh.wikipedia.org/wiki/吉岡治 "wikilink")
-    作曲：[宇崎竜童](https://zh.wikipedia.org/wiki/宇崎竜童 "wikilink")
-    編曲：平田祥一郎）
+    （作詞：[吉岡治](https://zh.wikipedia.org/wiki/吉岡治 "wikilink") 作曲：[宇崎竜童](https://zh.wikipedia.org/wiki/宇崎竜童 "wikilink") 編曲：平田祥一郎）
       -
         6th單曲
         [鈴木愛理](../Page/鈴木愛理.md "wikilink")主唱
@@ -75,13 +69,11 @@
     （作詞・作曲：淳君 編曲：平田祥一郎）
       -
         15th單曲
-14. **[世界上最HAPPY的女孩](../Page/世界上最HAPPY的女孩.md "wikilink")**
-    （世界一HAPPYな女の子）
+14. **[世界上最HAPPY的女孩](../Page/世界上最HAPPY的女孩.md "wikilink")** （世界一HAPPYな女の子）
     （作詞・作曲：淳君 編曲：[宅見將典](https://zh.wikipedia.org/wiki/宅見將典 "wikilink")）
       -
         17th單曲
-15. **[你騎自行車 我坐火車回家](../Page/你騎自行車_我坐火車回家.md "wikilink")**（君は自転車
-    私は電車で帰宅）
+15. **[你騎自行車 我坐火車回家](../Page/你騎自行車_我坐火車回家.md "wikilink")**（君は自転車 私は電車で帰宅）
     （作詞・作曲：淳君 編曲：山崎淳）
       -
         18th單曲
@@ -110,5 +102,4 @@
 
 {{℃-ute}}
 
-[Category:℃-ute音樂專輯](https://zh.wikipedia.org/wiki/Category:℃-ute音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
+[Category:℃-ute音樂專輯](https://zh.wikipedia.org/wiki/Category:℃-ute音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")

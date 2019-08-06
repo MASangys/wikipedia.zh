@@ -19,6 +19,4 @@
 | <small>2010</small> | <small>珊瑚島</small> |          2          |
 |  <small>殘念</small>  |         11         |          2          |
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:官恩娜音樂專輯](https://zh.wikipedia.org/wiki/Category:官恩娜音樂專輯 "wikilink")
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:官恩娜音樂專輯](https://zh.wikipedia.org/wiki/Category:官恩娜音樂專輯 "wikilink") [Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")

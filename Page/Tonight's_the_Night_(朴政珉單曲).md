@@ -1,36 +1,15 @@
-**《Tonight's the
-Night》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")成員[朴政珉](../Page/朴政珉.md "wikilink")（ROMEO），於2012年10月31日由[Victor
-Entertainment旗下Colourful](../Page/勝利娛樂.md "wikilink")
-Records\[1\]所發行的第二張個人日文單曲。
+**《Tonight's the Night》**是韓國人氣男子組合[SS501](../Page/SS501.md "wikilink")成員[朴政珉](../Page/朴政珉.md "wikilink")（ROMEO），於2012年10月31日由[Victor Entertainment旗下Colourful](../Page/勝利娛樂.md "wikilink") Records\[1\]所發行的第二張個人日文單曲。
 
 ## 單曲製作
 
-本作距離上張單曲[Give Me Your
-Heart僅相隔不到兩個月的時間](https://zh.wikipedia.org/wiki/Give_Me_Your_Heart_\(朴政珉單曲\) "wikilink")。為朴政珉(ROMEO)發行首張日文單曲[Give
-Me Your
-Heart前先行於](https://zh.wikipedia.org/wiki/Give_Me_Your_Heart_\(朴政珉單曲\) "wikilink")2012年7月12日舉行的『ROMEO
-1st CONTACT』上提前公開發行訊息\[2\]，現場亦進行初回舞台。另於2012年7月13日透過朴政珉(ROMEO)官方網站
-\[<https://web.archive.org/web/20120610202412/http://romeomidnight.com/>
-[https://web.archive.org/web/20120610202412/http://romeomidnight.com/\]公開首波單曲發行日期等內容。且2012年9月5日前作](https://web.archive.org/web/20120610202412/http://romeomidnight.com/%5D公開首波單曲發行日期等內容。且2012年9月5日前作)[Give
-Me Your
-Heart發行日當天發布單曲版本](../Page/Give_Me_Your_Heart.md "wikilink")、歌曲等詳細內容。同時於音樂銷售網進行預購，分為初回限定盤A、B、C、D、普通盤，五種版本。單曲封面依版本不同以R.O.M.E.O個別字母區分\[3\]。製作團隊與前作相同皆是由Jeff
-Miyahara擔任總製作，田中敬之擔任視覺製作與美國、德國、瑞典、台灣等各種各樣國籍的作曲家\[4\]共同參與，Yamaha
-A\&R和Victor
-Entertainment協助宣傳的音樂作品。特別，單曲內收錄五段的聲音故事皆似朴政珉（ROMEO）在聽者耳邊述說故事的方式製作，因此整張單曲不僅能享受豐富的多國樂曲還能藉由聲音故事體驗如同小說/電影般的聽覺感受。
+本作距離上張單曲[Give Me Your Heart僅相隔不到兩個月的時間](https://zh.wikipedia.org/wiki/Give_Me_Your_Heart_\(朴政珉單曲\) "wikilink")。為朴政珉(ROMEO)發行首張日文單曲[Give Me Your Heart前先行於](https://zh.wikipedia.org/wiki/Give_Me_Your_Heart_\(朴政珉單曲\) "wikilink")2012年7月12日舉行的『ROMEO 1st CONTACT』上提前公開發行訊息\[2\]，現場亦進行初回舞台。另於2012年7月13日透過朴政珉(ROMEO)官方網站 \[<https://web.archive.org/web/20120610202412/http://romeomidnight.com/> [https://web.archive.org/web/20120610202412/http://romeomidnight.com/\]公開首波單曲發行日期等內容。且2012年9月5日前作](https://web.archive.org/web/20120610202412/http://romeomidnight.com/%5D公開首波單曲發行日期等內容。且2012年9月5日前作)[Give Me Your Heart發行日當天發布單曲版本](../Page/Give_Me_Your_Heart.md "wikilink")、歌曲等詳細內容。同時於音樂銷售網進行預購，分為初回限定盤A、B、C、D、普通盤，五種版本。單曲封面依版本不同以R.O.M.E.O個別字母區分\[3\]。製作團隊與前作相同皆是由Jeff Miyahara擔任總製作，田中敬之擔任視覺製作與美國、德國、瑞典、台灣等各種各樣國籍的作曲家\[4\]共同參與，Yamaha A\&R和Victor Entertainment協助宣傳的音樂作品。特別，單曲內收錄五段的聲音故事皆似朴政珉（ROMEO）在聽者耳邊述說故事的方式製作，因此整張單曲不僅能享受豐富的多國樂曲還能藉由聲音故事體驗如同小說/電影般的聽覺感受。
 
-從2012年9月29日起於Recochoku發布主打歌曲〈Tonight's the
-Night〉來電答鈴，並於該日凌晨零時至10月5日二十四時止為期一周內下載三版來電答鈴獲『REMEO待機圖像』為贈禮；10月10日起於iTunes
-Store、mora、Recochoku發布〈Tonight's the
-Night〉全曲音源；11月1日開始在iTunes全球發布〈Tonight's
-the Night〉、〈Dream Out Loud〉等兩首曲目的付費下載音源\[5\]。
+從2012年9月29日起於Recochoku發布主打歌曲〈Tonight's the Night〉來電答鈴，並於該日凌晨零時至10月5日二十四時止為期一周內下載三版來電答鈴獲『REMEO待機圖像』為贈禮；10月10日起於iTunes Store、mora、Recochoku發布〈Tonight's the Night〉全曲音源；11月1日開始在iTunes全球發布〈Tonight's the Night〉、〈Dream Out Loud〉等兩首曲目的付費下載音源\[5\]。
 
 ### 音樂錄影帶
 
-  - 拍攝日程、製作團隊均與前作相同。MV先行於2012年7月12日舉行的『ROMEO 1st
-    CONTACT』上提前公開四十五秒舞蹈版預告。畫面以簡單的黑白為概念，朴政珉(ROMEO)身著簡約黑色長皮衣在身後六名「蝙蝠舞者」的簇擁下，展開如野獸般衝擊力性感的扭腰舞，尤其舞者所穿的蝙蝠披風隨著音樂起伏展翅的畫面，令人印象深刻。
-  - 完整版MV截至發行當日皆未公布，僅從2012年10月22日起在其官方YOUTUBE頻道公開以[ROMEO's
-    SILENT](http://www.youtube.com/user/Romeonightmare/videos?query=ROMEO%EF%BC%8FROMEO%27s+SILENT)為題的十餘秒短片。而短版MV則收錄於朴政珉(ROMEO)在2012年12月19日所發行的首張日語正規專輯「Midnight
-    Theatre」初回限定A盤中。導演：문성주（Moon Sang Joo）
+  - 拍攝日程、製作團隊均與前作相同。MV先行於2012年7月12日舉行的『ROMEO 1st CONTACT』上提前公開四十五秒舞蹈版預告。畫面以簡單的黑白為概念，朴政珉(ROMEO)身著簡約黑色長皮衣在身後六名「蝙蝠舞者」的簇擁下，展開如野獸般衝擊力性感的扭腰舞，尤其舞者所穿的蝙蝠披風隨著音樂起伏展翅的畫面，令人印象深刻。
+  - 完整版MV截至發行當日皆未公布，僅從2012年10月22日起在其官方YOUTUBE頻道公開以[ROMEO's SILENT](http://www.youtube.com/user/Romeonightmare/videos?query=ROMEO%EF%BC%8FROMEO%27s+SILENT)為題的十餘秒短片。而短版MV則收錄於朴政珉(ROMEO)在2012年12月19日所發行的首張日語正規專輯「Midnight Theatre」初回限定A盤中。導演：문성주（Moon Sang Joo）
 
 ### 造型
 
@@ -93,23 +72,16 @@ the Night〉、〈Dream Out Loud〉等兩首曲目的付費下載音源\[5\]。
 
 ### 宣傳
 
-  - [KBS World](https://zh.wikipedia.org/wiki/KBS "wikilink")
-    【輪\!Kpop】（2012/07/26）
-  - [DATV](https://zh.wikipedia.org/wiki/DATV "wikilink") 『ROMEO 1st
-    CONTACT』（2012/08/11）
-  - [MTV](https://zh.wikipedia.org/wiki/MTV "wikilink") 「MTV × DAM
-    KARAOKEE CHART TOP 20」OA情報 （2012/10/03）　
-  - [MTV](https://zh.wikipedia.org/wiki/MTV "wikilink") 「MTV × DAM
-    KARAOKEE CHART TOP 20 supported by 第一興商」ROMEO スタジオゲスト （2012/10/06）
-  - [富士電視台](../Page/富士電視台.md "wikilink")CS
-    『韓タメ！POP』「朴政珉變身神秘人物＂ROMEO＂」OA情報
-    （2012/11/16）
+  - [KBS World](https://zh.wikipedia.org/wiki/KBS "wikilink") 【輪\!Kpop】（2012/07/26）
+  - [DATV](https://zh.wikipedia.org/wiki/DATV "wikilink") 『ROMEO 1st CONTACT』（2012/08/11）
+  - [MTV](https://zh.wikipedia.org/wiki/MTV "wikilink") 「MTV × DAM KARAOKEE CHART TOP 20」OA情報 （2012/10/03）　
+  - [MTV](https://zh.wikipedia.org/wiki/MTV "wikilink") 「MTV × DAM KARAOKEE CHART TOP 20 supported by 第一興商」ROMEO スタジオゲスト （2012/10/06）
+  - [富士電視台](../Page/富士電視台.md "wikilink")CS 『韓タメ！POP』「朴政珉變身神秘人物＂ROMEO＂」OA情報 （2012/11/16）
 
 ### 音樂現場
 
   - 2012年7月12日『ROMEO 1st CONTACT』演唱主打歌曲Tonight's the night。
-  - 2012年9月29日『ROMEO 2nd CONTACT』演唱Hide and seek love、Dream out
-    loud、Tonight's the night等三首新曲\[10\]。
+  - 2012年9月29日『ROMEO 2nd CONTACT』演唱Hide and seek love、Dream out loud、Tonight's the night等三首新曲\[10\]。
 
 ### 官方公告
 
@@ -121,19 +93,15 @@ the Night〉、〈Dream Out Loud〉等兩首曲目的付費下載音源\[5\]。
 
 2012年8月23日緊急公布自8月23日至24日止限定兩日晚間二十一時起於[Ustream](http://www.ustream.tv/channel/romeo-ch)直播一回朴政珉錄音的影像片段\[12\]。
 
-2012年10月25日宣布自10月30日起於Tower
-Records澀谷店、新宿店8F、梅田NU茶屋町店、梅田大阪MARUBIRU店、山野楽器銀座本店展開《ROMEO專題特展》，其中Tower
-Records澀谷店另展出ROMEO的五面立體看板。
+2012年10月25日宣布自10月30日起於Tower Records澀谷店、新宿店8F、梅田NU茶屋町店、梅田大阪MARUBIRU店、山野楽器銀座本店展開《ROMEO專題特展》，其中Tower Records澀谷店另展出ROMEO的五面立體看板。
 
   - K-POP LOVERS\! by TOWER RECORDS 粉絲專頁
 
-ROMEO和Tower record的Facebook page〈K-POP
-LOVERS\!〉合作企劃在10月29日至11月2日，5日內每天上傳不同視頻內容回答各式各樣的問題，詳見-[タワーレコード](http://www.youtube.com/user/TowerRecordsJapan/videos?query=ROMEO)。
+ROMEO和Tower record的Facebook page〈K-POP LOVERS\!〉合作企劃在10月29日至11月2日，5日內每天上傳不同視頻內容回答各式各樣的問題，詳見-[タワーレコード](http://www.youtube.com/user/TowerRecordsJapan/videos?query=ROMEO)。
 
   - Yumi nuna News Facebook粉絲專頁
 
-2012年8月24日公布9月1日於Yamaha Music Entertainment5A會議室舉行〖ROMEO blogger meeting
-with Yumi〗說明會\[13\]。
+2012年8月24日公布9月1日於Yamaha Music Entertainment5A會議室舉行〖ROMEO blogger meeting with Yumi〗說明會\[13\]。
 
   - 活動内容
 
@@ -242,23 +210,17 @@ with Yumi〗說明會\[13\]。
 
 ## 外部連結
 
-  - [Victor Entertainment
-    ROMEO日本官方網站](https://web.archive.org/web/20121230231516/http://www.jvcmusic.co.jp/-/Profile/A024089.html)
+  - [Victor Entertainment ROMEO日本官方網站](https://web.archive.org/web/20121230231516/http://www.jvcmusic.co.jp/-/Profile/A024089.html)
 
   - [ROMEO日本官方網站](http://romeomidnight.com/index.asp)
 
   - [ROMEO日本官方Facebook粉絲專頁](http://www.facebook.com/Romeonightmare)
 
-  - [ROMEO official YouTube
-    Channel](http://www.youtube.com/user/Romeonightmare?feature=watch)
+  - [ROMEO official YouTube Channel](http://www.youtube.com/user/Romeonightmare?feature=watch)
 
-  - [ROMEO iTunes
-    Store](http://itunes.apple.com/jp/album/tonights-the-night-single/id569750398)
+  - [ROMEO iTunes Store](http://itunes.apple.com/jp/album/tonights-the-night-single/id569750398)
 
-[Category:朴政珉歌曲](https://zh.wikipedia.org/wiki/Category:朴政珉歌曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:日语歌曲](https://zh.wikipedia.org/wiki/Category:日语歌曲 "wikilink")
-[Category:勝利娛樂歌曲](https://zh.wikipedia.org/wiki/Category:勝利娛樂歌曲 "wikilink")
+[Category:朴政珉歌曲](https://zh.wikipedia.org/wiki/Category:朴政珉歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:日语歌曲](https://zh.wikipedia.org/wiki/Category:日语歌曲 "wikilink") [Category:勝利娛樂歌曲](https://zh.wikipedia.org/wiki/Category:勝利娛樂歌曲 "wikilink")
 
 1.
 2.
@@ -271,7 +233,6 @@ with Yumi〗說明會\[13\]。
 9.
 10.
 11. 限定「Tonight's the Night」CD全5形態購入者參予與
-12. 當日僅發布一回直播影像，其後重播影像，23日影像時間僅三分五十秒，歌曲「君を、守りたい」、24日則是七分十六秒，第一首歌曲「LOVER'S
-    SPIRIT」；第二首歌曲「Hide and Seek Love」
+12. 當日僅發布一回直播影像，其後重播影像，23日影像時間僅三分五十秒，歌曲「君を、守りたい」、24日則是七分十六秒，第一首歌曲「LOVER'S SPIRIT」；第二首歌曲「Hide and Seek Love」
 13.
 14.

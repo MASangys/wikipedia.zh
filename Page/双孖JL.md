@@ -74,22 +74,14 @@
 ## 外部链接
 
   - [双孖JL官方MV](http://www.yinyuetai.com/fanclub/24235)
-  - [双孖JL
-    官方音乐](https://web.archive.org/web/20150607224445/http://music.baidu.com/artist/2442797)
+  - [双孖JL 官方音乐](https://web.archive.org/web/20150607224445/http://music.baidu.com/artist/2442797)
 
-[Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
+[Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
 
-1.  [J3专辑照首次曝光新成员
-    歌迷一饱眼福](http://ent.sina.com.cn/y/2011-04-22/15423289382.shtml)
-2.  [《万有引力》首映礼
-    莫文蔚文章郭涛为J3护航](http://ent.163.com/11/0331/17/70G6RSPI00031H0O.html)
-3.  [双孖JL出道引关注
-    帅气男生现场PK歌舞](http://ent.qianlong.com/4543/2012/06/13/4182@8034476.htm)
-4.  [双孖JL组合携同名EP出道
-    帅气男生现场PK歌舞](http://www.hunantv.com/c/20120612/2338037948.html)
-5.  [双孖JL蹿红乐坛
-    影视邀约满档一触即发](http://yue.ifeng.com/neidiliuxing/detail_2012_09/19/17735662_0.shtml)
-6.  [J3组合献声《万有引力》
-    同名主题曲首播](http://ent.sina.com.cn/y/2011-03-22/14113260670.shtml)
+1.  [J3专辑照首次曝光新成员 歌迷一饱眼福](http://ent.sina.com.cn/y/2011-04-22/15423289382.shtml)
+2.  [《万有引力》首映礼 莫文蔚文章郭涛为J3护航](http://ent.163.com/11/0331/17/70G6RSPI00031H0O.html)
+3.  [双孖JL出道引关注 帅气男生现场PK歌舞](http://ent.qianlong.com/4543/2012/06/13/4182@8034476.htm)
+4.  [双孖JL组合携同名EP出道 帅气男生现场PK歌舞](http://www.hunantv.com/c/20120612/2338037948.html)
+5.  [双孖JL蹿红乐坛 影视邀约满档一触即发](http://yue.ifeng.com/neidiliuxing/detail_2012_09/19/17735662_0.shtml)
+6.  [J3组合献声《万有引力》 同名主题曲首播](http://ent.sina.com.cn/y/2011-03-22/14113260670.shtml)
 7.  [“天团来袭”双孖JL首秀中国爱大歌会](http://ent.sina.com.cn/y/2012-08-23/14353719954.shtml)

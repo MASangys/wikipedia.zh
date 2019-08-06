@@ -39,8 +39,7 @@
 ### 变更奇迹
 
   - 远古时代
-      - [巨石阵](../Page/巨石阵.md "wikilink")
-        Stonehenge（原来的+6文化被兵马俑替代，改为+6信仰）
+      - [巨石阵](../Page/巨石阵.md "wikilink") Stonehenge（原来的+6文化被兵马俑替代，改为+6信仰）
 
 ### 新增自然奇观
 
@@ -77,12 +76,6 @@
 
 {{-}}
 
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:文明系列电子游戏](https://zh.wikipedia.org/wiki/Category:文明系列电子游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink")
-[Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink")
-[Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink")
-[Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink")
+[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:文明系列电子游戏](https://zh.wikipedia.org/wiki/Category:文明系列电子游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:MacOS遊戲](https://zh.wikipedia.org/wiki/Category:MacOS遊戲 "wikilink") [Category:Linux遊戲](https://zh.wikipedia.org/wiki/Category:Linux遊戲 "wikilink") [Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink") [Category:资料片](https://zh.wikipedia.org/wiki/Category:资料片 "wikilink")
 
 1.

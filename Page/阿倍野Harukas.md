@@ -187,16 +187,12 @@
 ### 鐵路
 
   - [大阪阿部野橋站](../Page/大阪阿部野橋站.md "wikilink")
-      - [近畿日本鐵道](../Page/近畿日本鐵道.md "wikilink")
-        [南大阪線](https://zh.wikipedia.org/wiki/近鐵南大阪線 "wikilink")
+      - [近畿日本鐵道](../Page/近畿日本鐵道.md "wikilink") [南大阪線](https://zh.wikipedia.org/wiki/近鐵南大阪線 "wikilink")
   - [天王寺站](../Page/天王寺站.md "wikilink")
-      - [西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）
-        [大阪環状線](https://zh.wikipedia.org/wiki/大阪環状線 "wikilink")・[關西本線](../Page/關西本線.md "wikilink")（[大和路線](../Page/大和路線.md "wikilink")）・[阪和線](../Page/阪和線.md "wikilink")
-      - [大阪市營地下鐵](../Page/大阪市營地下鐵.md "wikilink")
-        [御堂筋線](https://zh.wikipedia.org/wiki/大阪市營地下鐵御堂筋線 "wikilink")・[谷町線](https://zh.wikipedia.org/wiki/大阪市營地下鐵谷町線 "wikilink")
+      - [西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本） [大阪環状線](https://zh.wikipedia.org/wiki/大阪環状線 "wikilink")・[關西本線](../Page/關西本線.md "wikilink")（[大和路線](../Page/大和路線.md "wikilink")）・[阪和線](../Page/阪和線.md "wikilink")
+      - [大阪市營地下鐵](../Page/大阪市營地下鐵.md "wikilink") [御堂筋線](https://zh.wikipedia.org/wiki/大阪市營地下鐵御堂筋線 "wikilink")・[谷町線](https://zh.wikipedia.org/wiki/大阪市營地下鐵谷町線 "wikilink")
   - [天王寺站前停留場](https://zh.wikipedia.org/wiki/天王寺駅#阪堺電氣軌道 "wikilink")
-      - [阪堺電氣軌道](../Page/阪堺電氣軌道.md "wikilink")
-        [上町線](https://zh.wikipedia.org/wiki/阪堺電氣軌道上町線 "wikilink")
+      - [阪堺電氣軌道](../Page/阪堺電氣軌道.md "wikilink") [上町線](https://zh.wikipedia.org/wiki/阪堺電氣軌道上町線 "wikilink")
 
 ### 公車
 
@@ -210,8 +206,7 @@
       - [日本摩天大樓與結構物列表](../Page/日本摩天大樓與結構物列表.md "wikilink")
       - [各都道府縣最高大樓一覽](https://zh.wikipedia.org/wiki/各都道府縣最高大樓一覽 "wikilink")
       - [大阪府的超高層建築物.構築物的一覧](https://zh.wikipedia.org/wiki/大阪府的超高層建築物.構築物的一覧 "wikilink")
-  - [西新宿三丁目西地區再開發](https://zh.wikipedia.org/wiki/西新宿三丁目西地區再開發 "wikilink")
-    - 高338米的大樓(建設計畫中)。
+  - [西新宿三丁目西地區再開發](https://zh.wikipedia.org/wiki/西新宿三丁目西地區再開發 "wikilink") - 高338米的大樓(建設計畫中)。
 
 ## 外部連結
 
@@ -219,39 +214,20 @@
 
   - [阿倍野HARUKAS](http://www.abenoharukas-300.jp/tc/) - 官方網站（繁體中文）
 
-  - [近鐵百貨
-    阿倍野HARUKAS本店](http://abenoharukas.d-kintetsu.co.jp/special/foreign/index-ct.html)
-    - 官方網站（繁體中文）
+  - [近鐵百貨 阿倍野HARUKAS本店](http://abenoharukas.d-kintetsu.co.jp/special/foreign/index-ct.html) - 官方網站（繁體中文）
 
-  - [近鐵百貨 阿倍野HARUKAS本店](https://www.facebook.com/osaka.harukas) -
-    FaceBook官方粉絲團（繁體中文）
+  - [近鐵百貨 阿倍野HARUKAS本店](https://www.facebook.com/osaka.harukas) - FaceBook官方粉絲團（繁體中文）
 
-  - [省エネ立体都市 あべのハルカス](http://www.abeno.project-takenaka.com/index.php) -
-    竹中工務店
+  - [省エネ立体都市 あべのハルカス](http://www.abeno.project-takenaka.com/index.php) - 竹中工務店
 
   -
-[Category:大阪市摩天大樓](https://zh.wikipedia.org/wiki/Category:大阪市摩天大樓 "wikilink")
-[Category:300米至349米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:300米至349米高的摩天大樓 "wikilink")
-[Category:2013年完工建築物](https://zh.wikipedia.org/wiki/Category:2013年完工建築物 "wikilink")
-[Category:阿倍野區](https://zh.wikipedia.org/wiki/Category:阿倍野區 "wikilink")
-[Category:近畿日本鐵道](https://zh.wikipedia.org/wiki/Category:近畿日本鐵道 "wikilink")
-[Category:日本鐵路車站建築](https://zh.wikipedia.org/wiki/Category:日本鐵路車站建築 "wikilink")
-[Category:日本地標](https://zh.wikipedia.org/wiki/Category:日本地標 "wikilink")
-[Category:日本建筑之最](https://zh.wikipedia.org/wiki/Category:日本建筑之最 "wikilink")
-[Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
-[Category:BCS獎](https://zh.wikipedia.org/wiki/Category:BCS獎 "wikilink")
+[Category:大阪市摩天大樓](https://zh.wikipedia.org/wiki/Category:大阪市摩天大樓 "wikilink") [Category:300米至349米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:300米至349米高的摩天大樓 "wikilink") [Category:2013年完工建築物](https://zh.wikipedia.org/wiki/Category:2013年完工建築物 "wikilink") [Category:阿倍野區](https://zh.wikipedia.org/wiki/Category:阿倍野區 "wikilink") [Category:近畿日本鐵道](https://zh.wikipedia.org/wiki/Category:近畿日本鐵道 "wikilink") [Category:日本鐵路車站建築](https://zh.wikipedia.org/wiki/Category:日本鐵路車站建築 "wikilink") [Category:日本地標](https://zh.wikipedia.org/wiki/Category:日本地標 "wikilink") [Category:日本建筑之最](https://zh.wikipedia.org/wiki/Category:日本建筑之最 "wikilink") [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink") [Category:BCS獎](https://zh.wikipedia.org/wiki/Category:BCS獎 "wikilink")
 
-1.  [高さ日本一の300M大阪「あべのハルカス」全面開業](http://www.asahi.com/articles/ASG3730VYG37PLFA001.html)
-    - 朝日新聞デジタル2014年3月7日
-2.  [あべのハルカス：「日本一尽くし」で全面開業](http://mainichi.jp/graph/2014/03/07/20140307k0000e020148000c/001.html)
-     - 毎日新聞2014年3月7日
-3.  [日本一300メートル、あべのハルカス全面開業](http://www.yomiuri.co.jp/homeguide/news/20140307-OYT8T00731.html)
-     - 読売新聞2014年3月7日
+1.  [高さ日本一の300M大阪「あべのハルカス」全面開業](http://www.asahi.com/articles/ASG3730VYG37PLFA001.html) - 朝日新聞デジタル2014年3月7日
+2.  [あべのハルカス：「日本一尽くし」で全面開業](http://mainichi.jp/graph/2014/03/07/20140307k0000e020148000c/001.html)  - 毎日新聞2014年3月7日
+3.  [日本一300メートル、あべのハルカス全面開業](http://www.yomiuri.co.jp/homeguide/news/20140307-OYT8T00731.html)  - 読売新聞2014年3月7日
 4.  [「あべの美術館（仮称）」計画の特別顧問に蓑豊氏を招聘](http://www.kintetsu.jp/news/files/abenominosi100428.pdf)近畿日本鉄道2010年4月28日閲覧
-5.  [あべの美術館（仮称）学芸員　募集要項](http://www.kintetsu.jp/employment/bosyu.html)
-    近畿日本鉄道2010年11月30日閲覧
-6.  [日本一のビルにシャープ入居へ「あべのハルカス」に営業拠点](http://www.47news.jp/CN/201309/CN2013090401001264.html)
-     - 共同ニュース
+5.  [あべの美術館（仮称）学芸員　募集要項](http://www.kintetsu.jp/employment/bosyu.html) 近畿日本鉄道2010年11月30日閲覧
+6.  [日本一のビルにシャープ入居へ「あべのハルカス」に営業拠点](http://www.47news.jp/CN/201309/CN2013090401001264.html)  - 共同ニュース
 7.  [シャープ事業の一部を移転26年開業の近鉄阿部野橋ターミナルビル](http://www.sankei-kansai.com/2011/08/25/20110825-056940.php)
-
 8.  近畿日本鉄道ニュースリリース（2012年5月30日）

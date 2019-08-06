@@ -1,14 +1,8 @@
-《**Battle Spirits Sword Eyes**》，又譯為《**Battle Spirits 劍之眼**》。為[Battle
-Spirits系列的第五部作品](../Page/Battle_Spirits.md "wikilink")。由2012年9月9日至2013年9月8日於[名古屋電視台](../Page/名古屋電視台.md "wikilink")播放，全50話。
+《**Battle Spirits Sword Eyes**》，又譯為《**Battle Spirits 劍之眼**》。為[Battle Spirits系列的第五部作品](../Page/Battle_Spirits.md "wikilink")。由2012年9月9日至2013年9月8日於[名古屋電視台](../Page/名古屋電視台.md "wikilink")播放，全50話。
 
 ## 概要
 
-《[Battle
-Spirits](../Page/Battle_Spirits.md "wikilink")》的第五部作品。前作《[Battle
-Spirits
-霸王](../Page/Battle_Spirits_霸王.md "wikilink")》的故事背景是現實世界，和第2作《[Battle
-Spirits
-少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")》一樣，是描寫異世界的冒險故事\[1\]。
+《[Battle Spirits](../Page/Battle_Spirits.md "wikilink")》的第五部作品。前作《[Battle Spirits 霸王](../Page/Battle_Spirits_霸王.md "wikilink")》的故事背景是現實世界，和第2作《[Battle Spirits 少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")》一樣，是描寫異世界的冒險故事\[1\]。
 
 工作人員也是同樣（除了角色設計以外換上新），大概與前作同樣的布陣制作。
 
@@ -18,10 +12,8 @@ Spirits
 
   -
     [配音員](../Page/配音員.md "wikilink")：[皆川純子](../Page/皆川純子.md "wikilink")（日本）/[鄭家蕙](../Page/鄭家蕙.md "wikilink")（香港）
-    光之Sword Eyes，也是暗之Sword
-    Eyes的红属性，阿特兰蒂亚的第二王子，正义感十分强，喜欢滑板的热血少年口头禅为「应该做的！（就要幹！）」。
-    持有的X稀有卡：輝龍 閃光龍、輝聖劍 閃光劍、光輝龍皇 閃光龍.弧光、闇龍 暗暴劍龍、暗黑之魔劍 闇刃、龍輝神 閃光龍.疊影、白夜之寶劍
-    極晝
+    光之Sword Eyes，也是暗之Sword Eyes的红属性，阿特兰蒂亚的第二王子，正义感十分强，喜欢滑板的热血少年口头禅为「应该做的！（就要幹！）」。
+    持有的X稀有卡：輝龍 閃光龍、輝聖劍 閃光劍、光輝龍皇 閃光龍.弧光、闇龍 暗暴劍龍、暗黑之魔劍 闇刃、龍輝神 閃光龍.疊影、白夜之寶劍 極晝
 
 <!-- end list -->
 
@@ -55,8 +47,7 @@ Spirits
 
   - 哈古亚．伊斯托古（ハクア・エストック Haqua Estoc）
     [配音員](../Page/配音員.md "wikilink")：[釘宮理惠](../Page/釘宮理惠.md "wikilink")
-    光之白属性，認為當Sword
-    Eyes很辛苦，也很無心去當，後來受到劍一夥人的影響，接受戰鬥，與外表上不同的，戰鬥中表現的十分熱血，但從頭到尾都是錢奴。喜欢黄樱。
+    光之白属性，認為當Sword Eyes很辛苦，也很無心去當，後來受到劍一夥人的影響，接受戰鬥，與外表上不同的，戰鬥中表現的十分熱血，但從頭到尾都是錢奴。喜欢黄樱。
     持有的X稀有卡：槍光機神 庫胡林、天空之光劍 不敗劍
 
 <!-- end list -->
@@ -70,8 +61,7 @@ Spirits
 
   -
     [配音員](../Page/配音員.md "wikilink")：[綠川光](../Page/綠川光.md "wikilink")／[嶋村侑](../Page/嶋村侑.md "wikilink")（幼年時）
-    暗之白属性。劍的哥哥，艾多蘭提亞的統治者。作为劲敌而出现于剑的面前，为了得到制裁之神剑而搜索着剑刃合体和Sword
-    Eyes。曾經因母親送走還是嬰兒時期的劍而視她為敵人，實為想實現對父親的承諾，要保護自己的家人。想要获得裁决之神剑的原因是想要弑神。
+    暗之白属性。劍的哥哥，艾多蘭提亞的統治者。作为劲敌而出现于剑的面前，为了得到制裁之神剑而搜索着剑刃合体和Sword Eyes。曾經因母親送走還是嬰兒時期的劍而視她為敵人，實為想實現對父親的承諾，要保護自己的家人。想要获得裁决之神剑的原因是想要弑神。
     持有的X稀有卡：闇皇 九尾．暗、黑天狐 負極．九尾、黑皇機獸 暗黑獅鷲、白夜之寶劍 極晝
 
 <!-- end list -->
@@ -279,8 +269,7 @@ Spirits
   - 首席製作人 - 寶田壽也（名古屋電視台）、尾崎雅之（日昇動畫）
   - 生產商 - 福嶋更一郎（名古屋電視台）、若鍋龍太、森田真好（日昇動畫）
   - 動畫制作 - [日昇動畫](../Page/日昇動畫.md "wikilink")
-  - 制作 -
-    [名古屋電視台](../Page/名古屋電視台.md "wikilink")、日昇動畫、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")
+  - 制作 - [名古屋電視台](../Page/名古屋電視台.md "wikilink")、日昇動畫、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")
 
 ## 主題歌
 
@@ -861,27 +850,17 @@ Spirits
 ## 相關條目
 
   - [Battle Spirits](../Page/Battle_Spirits.md "wikilink")
-  - 《[Battle Spirits
-    少年突破馬神](../Page/Battle_Spirits_少年突破馬神.md "wikilink")》
+  - 《[Battle Spirits 少年突破馬神](../Page/Battle_Spirits_少年突破馬神.md "wikilink")》
   - 《[Battle Spirits 少年激霸彈](../Page/Battle_Spirits_少年激霸彈.md "wikilink")》
   - 《[Battle Spirits Brave](../Page/Battle_Spirits_Brave.md "wikilink")》
   - 《[Battle Spirits 霸王](../Page/Battle_Spirits_霸王.md "wikilink")》
 
 ## 外部連結
 
-  - [Battle Spirits Sword
-    Eyes](http://www.sunrise-inc.co.jp/battlespirits5/)（日昇動畫）
+  - [Battle Spirits Sword Eyes](http://www.sunrise-inc.co.jp/battlespirits5/)（日昇動畫）
 
-  - [Battle Spirits Sword
-    Eyes](http://www.nagoyatv.com/battlespirits_sword/)（名古屋電視台）
+  - [Battle Spirits Sword Eyes](http://www.nagoyatv.com/battlespirits_sword/)（名古屋電視台）
 
-[Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink")
-[Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink")
-[Category:2012年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2012年日本電視動畫 "wikilink")
-[Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink")
-[Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink")
-[Category:月刊少年Ace連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年Ace連載作品 "wikilink")
-[Category:交換卡片遊戲題材作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材作品 "wikilink")
-[Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
+[Category:Battle_Spirits](https://zh.wikipedia.org/wiki/Category:Battle_Spirits "wikilink") [Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink") [Category:2012年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2012年日本電視動畫 "wikilink") [Category:遊戲改編動畫](https://zh.wikipedia.org/wiki/Category:遊戲改編動畫 "wikilink") [Category:日昇動畫](https://zh.wikipedia.org/wiki/Category:日昇動畫 "wikilink") [Category:月刊少年Ace連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年Ace連載作品 "wikilink") [Category:交換卡片遊戲題材作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材作品 "wikilink") [Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
 
 1.  主角和由現實世界去到異世界的馬神彈不同，是在異世界出生的少年。

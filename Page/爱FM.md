@@ -10,18 +10,13 @@
 
 1946年第二次世界大战结束后，[馬來亞廣播電台屬下的马来西亚的中文电台开始恢复运作](https://zh.wikipedia.org/wiki/马来西亚广播电视 "wikilink")。
 
-1959年正式被取名为“翡翠频道”（Rancangan
-Hijau），以现场直播的方式每天从上午六点半直到晚上11点。1989年改名为“翡翠广播网”（Rangkaian
-Hijau）。1993年改名为“第五台”（Radio
-Lima），以配合[马来西亚电台和电视台的新改革重整和统一](https://zh.wikipedia.org/wiki/馬來西亞廣播電視 "wikilink")。
+1959年正式被取名为“翡翠频道”（Rancangan Hijau），以现场直播的方式每天从上午六点半直到晚上11点。1989年改名为“翡翠广播网”（Rangkaian Hijau）。1993年改名为“第五台”（Radio Lima），以配合[马来西亚电台和电视台的新改革重整和统一](https://zh.wikipedia.org/wiki/馬來西亞廣播電視 "wikilink")。
 
 1995年1月1日，開始以24小時現場廣播，以配合[马来西亚电台和电视台的宗旨](https://zh.wikipedia.org/wiki/馬來西亞廣播電視 "wikilink")（娱乐性、资讯性、教育性）。
 
-1999年，马来西亚电台和电视台統一名稱而被改名為「马来西亚第5频道」（Radio Malaysia Saluran Lima），简称 RMS
-5。2000年4月1日，改革後名字又被改回“第5台”（R5）。
+1999年，马来西亚电台和电视台統一名稱而被改名為「马来西亚第5频道」（Radio Malaysia Saluran Lima），简称 RMS 5。2000年4月1日，改革後名字又被改回“第5台”（R5）。
 
-2005年4月1日，在前新闻部長[拿督斯里阿末沙比里號召下改革而被命名為](../Page/阿末沙比里.md "wikilink")“愛FM”（Ai
-FM），台呼爲：有情有愛，自由自在。2010年，更改台呼：有情有愛，自由自在，你一家人的電台。
+2005年4月1日，在前新闻部長[拿督斯里阿末沙比里號召下改革而被命名為](../Page/阿末沙比里.md "wikilink")“愛FM”（Ai FM），台呼爲：有情有愛，自由自在。2010年，更改台呼：有情有愛，自由自在，你一家人的電台。
 
 2015年10周年台庆口号：再创十力，与十并进。2017年新台呼：爱FM，越听越爱。
 
@@ -29,8 +24,7 @@ FM），台呼爲：有情有愛，自由自在。2010年，更改台呼：有�
 
 ### 节目时段
 
-爱FM周一至周五有五个时段，周末则有四个时段。每天清晨6点播放[国歌
-（*Negaraku*）作为开场](../Page/我的祖國_\(馬來西亞\).md "wikilink")。
+爱FM周一至周五有五个时段，周末则有四个时段。每天清晨6点播放[国歌 （*Negaraku*）作为开场](../Page/我的祖國_\(馬來西亞\).md "wikilink")。
 
 <table style="width:10%;">
 <colgroup>
@@ -626,12 +620,8 @@ Jc 劲程、淑霖</p></td>
   - 整点新闻 (10分钟)：7am/9am/1pm/5pm
   - 财经新闻 (周一至周五)/整点新闻 (周六和周日)：7pm
   - 新闻简讯 (5分钟)：8pm/9pm/10pm/11pm
-  - [方言](../Page/方言.md "wikilink")[新闻](../Page/新闻.md "wikilink")
-    (5分钟)：从2017年4月1号起，方言新闻每段10分钟缩短至5分钟，并改至每天
-    8.05pm/9.05pm/10.05pm/11.05pm
-    各别播出[福建语](https://zh.wikipedia.org/wiki/闽南语 "wikilink")、[潮语](../Page/潮州话.md "wikilink")、[客语和](../Page/客家语.md "wikilink")[粤语](../Page/粤语.md "wikilink")新闻。
-  - 在[国会会议进行期间](../Page/马来西亚国会.md "wikilink")，周一至周四 9pm
-    将播出10分钟《国会新闻》；[潮语新闻则顺延至](../Page/潮州话.md "wikilink")9.10pm播出。
+  - [方言](../Page/方言.md "wikilink")[新闻](../Page/新闻.md "wikilink") (5分钟)：从2017年4月1号起，方言新闻每段10分钟缩短至5分钟，并改至每天 8.05pm/9.05pm/10.05pm/11.05pm 各别播出[福建语](https://zh.wikipedia.org/wiki/闽南语 "wikilink")、[潮语](../Page/潮州话.md "wikilink")、[客语和](../Page/客家语.md "wikilink")[粤语](../Page/粤语.md "wikilink")新闻。
+  - 在[国会会议进行期间](../Page/马来西亚国会.md "wikilink")，周一至周四 9pm 将播出10分钟《国会新闻》；[潮语新闻则顺延至](../Page/潮州话.md "wikilink")9.10pm播出。
 
 ## 電台頻率
 
@@ -699,7 +689,4 @@ Jc 劲程、淑霖</p></td>
 
 2019
 
-[Category:马来西亚广播电视](https://zh.wikipedia.org/wiki/Category:马来西亚广播电视 "wikilink")
-[Category:馬來西亞中文媒體](https://zh.wikipedia.org/wiki/Category:馬來西亞中文媒體 "wikilink")
-[Category:馬來西亞中文廣播電台](https://zh.wikipedia.org/wiki/Category:馬來西亞中文廣播電台 "wikilink")
-[Category:马来西亚电台](https://zh.wikipedia.org/wiki/Category:马来西亚电台 "wikilink")
+[Category:马来西亚广播电视](https://zh.wikipedia.org/wiki/Category:马来西亚广播电视 "wikilink") [Category:馬來西亞中文媒體](https://zh.wikipedia.org/wiki/Category:馬來西亞中文媒體 "wikilink") [Category:馬來西亞中文廣播電台](https://zh.wikipedia.org/wiki/Category:馬來西亞中文廣播電台 "wikilink") [Category:马来西亚电台](https://zh.wikipedia.org/wiki/Category:马来西亚电台 "wikilink")

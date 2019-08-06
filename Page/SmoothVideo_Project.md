@@ -1,5 +1,4 @@
-**SmoothVideo
-Project**（[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")：SVP）是一款实时高级[帧率](../Page/帧率.md "wikilink")转换软件，用以使视频回放流畅无抖动。最常用的是将24帧/秒的视频转化为48或60帧/秒。**SVP**不只支持一种播放器，而且可以为大多数常见格式的视频增加。
+**SmoothVideo Project**（[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")：SVP）是一款实时高级[帧率](../Page/帧率.md "wikilink")转换软件，用以使视频回放流畅无抖动。最常用的是将24帧/秒的视频转化为48或60帧/秒。**SVP**不只支持一种播放器，而且可以为大多数常见格式的视频增加。
 
 这一过程是基于著名的[ffdshow解码器内置执行](https://zh.wikipedia.org/wiki/ffdshow "wikilink")脚本\[1\]进行的，但在**SVP**中这一过程可以通过图形化用户界面加以控制。
 
@@ -11,11 +10,8 @@ SVP包括以下三种基本组件：
 
 ## 参考
 
-[Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink")
-[Category:多媒体软件](https://zh.wikipedia.org/wiki/Category:多媒体软件 "wikilink")
+[Category:媒体播放器](https://zh.wikipedia.org/wiki/Category:媒体播放器 "wikilink") [Category:多媒体软件](https://zh.wikipedia.org/wiki/Category:多媒体软件 "wikilink")
 
 1.
-2.  [1](http://www.avsforum.com/avs-vb/showthread.php?p=20267673#post20267673)
-    "Does amazing things with CPU usage. From 80% to 50%" by widezu69
-3.  [Results database](http://www.svp-team.com/svpmark/results.html) for
-    SVPmark benchmark
+2.  [1](http://www.avsforum.com/avs-vb/showthread.php?p=20267673#post20267673) "Does amazing things with CPU usage. From 80% to 50%" by widezu69
+3.  [Results database](http://www.svp-team.com/svpmark/results.html) for SVPmark benchmark

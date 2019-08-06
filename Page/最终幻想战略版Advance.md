@@ -1,27 +1,18 @@
-《**最终幻想战略版Advance**》（，，简称为**FFTA**）是一款由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（现[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）开发并发售在[Game
-Boy
-Advance平台上的](../Page/Game_Boy_Advance.md "wikilink")[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")。本作是[最终幻想系列的一部外传性质作品](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")。虽然同为“最终幻想战略版”，但是《最终幻想战略版Advance》并非是1997年的那部《[最终幻想战略版](../Page/最终幻想战略版.md "wikilink")》的续作。在本作中，玩家将会以一个社团的形式进行战斗及任务，并控制团队的成员在网格状的战场地图上展开各种行动。玩家可以自由分配决定自己社团里的角色大多数的能力，职业以及状态。
+《**最终幻想战略版Advance**》（，，简称为**FFTA**）是一款由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（现[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）开发并发售在[Game Boy Advance平台上的](../Page/Game_Boy_Advance.md "wikilink")[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")。本作是[最终幻想系列的一部外传性质作品](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")。虽然同为“最终幻想战略版”，但是《最终幻想战略版Advance》并非是1997年的那部《[最终幻想战略版](../Page/最终幻想战略版.md "wikilink")》的续作。在本作中，玩家将会以一个社团的形式进行战斗及任务，并控制团队的成员在网格状的战场地图上展开各种行动。玩家可以自由分配决定自己社团里的角色大多数的能力，职业以及状态。
 
 《最终幻想战略版Advance》的故事围绕着4位少年而展开。马修·拉德吉（，）、谬特·兰德尔（，）、丽滋·马卢尔（，）和德奈特·拉德吉（，）生活在一座名为[伊瓦莉斯的小镇上](../Page/伊瓦莉斯聯盟.md "wikilink")。一天，他们在翻阅了一本古老的魔法书之后被传送到一个从未见过的次元，而这个次元世界的名字恰巧也叫作“伊瓦莉斯”。故事将重点放在了马修为了设法努力回到原来的世界而展开的冒险上。
 
-《最终幻想战略版Advance》是史克威尔与任天堂恢复合作关系后的首批游戏之一。本作的开发团队是由从[Quest公司过来到史克威尔的人员为主力](https://zh.wikipedia.org/wiki/Quest\(公司\) "wikilink")（Quest的代表作是《[皇家騎士團](https://zh.wikipedia.org/wiki/皇家騎士團 "wikilink")》系列，该公司已于2002年被史克威尔收购），本作还是史克威尔最后一款以“史克威尔”（SQUARE）之名发行的Game
-Boy
-Advance游戏，\[1\]2个月后它与同是日本RPG大厂的[艾尼克斯](../Page/艾尼克斯.md "wikilink")（ENIX）合并成为新的游戏公司——[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")。\[2\]《最终幻想战略版Advance》于2003年情人节在日本由史克威尔配合[Game
-Boy Advance
-SP一同发售](../Page/Game_Boy_Advance_SP.md "wikilink")，美版于2003年9月8日由[任天堂](../Page/任天堂.md "wikilink")协助代理发售，欧版于2003年10月24日同样由任天堂代理发行。2006年初，[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")宣布在日本地区推出了名为“廉价GBA游戏系列”的计划，首批廉价游戏于3月6日发售；作为首波廉价游戏之一，《最终幻想战略版Advance》也以3,300日元的价格重新发售。\[3\]
+《最终幻想战略版Advance》是史克威尔与任天堂恢复合作关系后的首批游戏之一。本作的开发团队是由从[Quest公司过来到史克威尔的人员为主力](https://zh.wikipedia.org/wiki/Quest\(公司\) "wikilink")（Quest的代表作是《[皇家騎士團](https://zh.wikipedia.org/wiki/皇家騎士團 "wikilink")》系列，该公司已于2002年被史克威尔收购），本作还是史克威尔最后一款以“史克威尔”（SQUARE）之名发行的Game Boy Advance游戏，\[1\]2个月后它与同是日本RPG大厂的[艾尼克斯](../Page/艾尼克斯.md "wikilink")（ENIX）合并成为新的游戏公司——[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")。\[2\]《最终幻想战略版Advance》于2003年情人节在日本由史克威尔配合[Game Boy Advance SP一同发售](../Page/Game_Boy_Advance_SP.md "wikilink")，美版于2003年9月8日由[任天堂](../Page/任天堂.md "wikilink")协助代理发售，欧版于2003年10月24日同样由任天堂代理发行。2006年初，[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")宣布在日本地区推出了名为“廉价GBA游戏系列”的计划，首批廉价游戏于3月6日发售；作为首波廉价游戏之一，《最终幻想战略版Advance》也以3,300日元的价格重新发售。\[3\]
 
 《》是本作的正统续作，于2007年发售在[任天堂DS](../Page/任天堂DS.md "wikilink")平台。游戏类型依旧是[戰略角色扮演](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")。
 
 ## 游戏系统
 
-[FinalFantasyTacticsAdvanceGBAScreenshot.png](https://zh.wikipedia.org/wiki/File:FinalFantasyTacticsAdvanceGBAScreenshot.png "fig:FinalFantasyTacticsAdvanceGBAScreenshot.png")
-在《最终幻想战略版Advance》中，游戏采取[回合制战略并以一个三维等距区域作为战斗场地](https://zh.wikipedia.org/wiki/回合制战略 "wikilink")。玩家要扮演的是社团的团长——马修；他必须组织社团的成员，并通过酒馆提供的任务，提升团员们的能力。\[4\]在战斗中，玩家的队伍将与电脑控制的敌人采取回合制规则进行轮流进行行动，而非像《[最终幻想战略版](../Page/最终幻想战略版.md "wikilink")》那样一方队员行动完另一方再行动。
-\[5\]
+[FinalFantasyTacticsAdvanceGBAScreenshot.png](https://zh.wikipedia.org/wiki/File:FinalFantasyTacticsAdvanceGBAScreenshot.png "fig:FinalFantasyTacticsAdvanceGBAScreenshot.png") 在《最终幻想战略版Advance》中，游戏采取[回合制战略并以一个三维等距区域作为战斗场地](https://zh.wikipedia.org/wiki/回合制战略 "wikilink")。玩家要扮演的是社团的团长——马修；他必须组织社团的成员，并通过酒馆提供的任务，提升团员们的能力。\[4\]在战斗中，玩家的队伍将与电脑控制的敌人采取回合制规则进行轮流进行行动，而非像《[最终幻想战略版](../Page/最终幻想战略版.md "wikilink")》那样一方队员行动完另一方再行动。 \[5\]
 
 酒馆中发布任务将由战队去获取完成。任务大致分为四种：普通、遭遇、派遣和区域。
 
-  - 常规任务（Regular
-    Mission）需要马修带领整个社团前往某个特定地区进行作战。这些任务大都是推动故事剧情继续的主线任务。\[6\]\[7\]
+  - 常规任务（Regular Mission）需要马修带领整个社团前往某个特定地区进行作战。这些任务大都是推动故事剧情继续的主线任务。\[6\]\[7\]
   - 遭遇任务（Encounter Mission）是需要马修的社团通过购买任务或在地图上遭遇到敌方雇佣兵团进行战斗。
   - 派遣任务（Dispatch Mission）需要派出一名社团中的一位成员暂时离队前往完成任务，该种任务不涉及战斗。
   - 区域任务（Area Mission）通常是一个派遣任务让马修的社团前往某个区域进行解放战斗，之后将会获得赏金和商铺的折扣。
@@ -30,8 +21,7 @@ SP一同发售](../Page/Game_Boy_Advance_SP.md "wikilink")，美版于2003年9�
 
 《最终幻想战略版Advance》中的世界地图除了起始位置，最初几乎是空白的；它需要玩家在某些任务获胜后才能将地点“标记”逐一解锁。这些标记代表不同的地形和定居点，比如平原、高山、沙漠、森林或者是城镇；在世界地图上，这些标记可放置在空白的卡槽上；而对玩家的道具奖励也取决于标记的位置。伊瓦利斯还引入了称为Jagds地区，可以躲避法官的不法贫民区。Jagd来源于德语，意思是狩猎。Jagds是游戏中唯一能让角色死亡的地方；而在其他地方，人物的死亡是受到法官的保护的，人物的生命值为0后其实只是单纯地被击倒罢了。
 
-本作还提供[多人游戏模式提供两名玩家联机游戏](https://zh.wikipedia.org/wiki/多人游戏 "wikilink")。玩家们可通过Game
-Boy Advance专用联机线进行合作或对战，交易道具或者是社团成员。当联机时，游戏还提供额外的任务和道具供玩家们挑战。
+本作还提供[多人游戏模式提供两名玩家联机游戏](https://zh.wikipedia.org/wiki/多人游戏 "wikilink")。玩家们可通过Game Boy Advance专用联机线进行合作或对战，交易道具或者是社团成员。当联机时，游戏还提供额外的任务和道具供玩家们挑战。
 
 ### 职业系统
 
@@ -39,8 +29,7 @@ Boy Advance专用联机线进行合作或对战，交易道具或者是社团成
 
 每个角色都拥有一个最初职业，最初职业决定了该角色升级后所获得提升的能力强弱以及与该职业类型系相关的属性。当然，每个角色还可以选定拥有其他技能的第二职业。游戏角色可使用第二职业的任何技能，但是角色的统计资料上还是只会显示其最初职业。比如：当一个刺客拥有了狙击手的职业技能后就可以一起使用两个职业的技能，但是该角色的统计资料和外貌还是显示的是刺客的信息和样子，而非狙击手。
 
-本作中收录了5大种族：**人类**（ヒュム族，Humans），长得像啮齿动物的**莫古族**（モーグリ族，Moogle），强壮并且长得像蜥蜴的**邦加族**（バンガ族，Bangaa），优雅且长得像兔子的**维埃拉族**（ヴィエラ族，Viera）和会熟练使用魔法的**恩莫族**（ン·モゥ族，Nu
-Mou）。而某些特定职业只能由某一种族的角色担当。随着经验和等级的不断提升，在游戏故事的主线中玩家将会击败被称为“神兽”的超级召唤兽，每个种族都有一个守护其族群的神兽。在玩家击败神兽后可以之后在战斗中满足某些条件召唤进行援助攻击。\[11\]
+本作中收录了5大种族：**人类**（ヒュム族，Humans），长得像啮齿动物的**莫古族**（モーグリ族，Moogle），强壮并且长得像蜥蜴的**邦加族**（バンガ族，Bangaa），优雅且长得像兔子的**维埃拉族**（ヴィエラ族，Viera）和会熟练使用魔法的**恩莫族**（ン·モゥ族，Nu Mou）。而某些特定职业只能由某一种族的角色担当。随着经验和等级的不断提升，在游戏故事的主线中玩家将会击败被称为“神兽”的超级召唤兽，每个种族都有一个守护其族群的神兽。在玩家击败神兽后可以之后在战斗中满足某些条件召唤进行援助攻击。\[11\]
 
 **职业列表**
 
@@ -115,51 +104,31 @@ Mou）。而某些特定职业只能由某一种族的角色担当。随着经�
 
 《最终幻想战略版Advance》的一个特色就是增加了“法律系统”，这个游戏机制是一个随机的设定，每场战斗所使用的法律规定都不尽相同。具体的法律由裁判规定，在本作中裁判会出现在几乎每场战斗中，不过也有例外情况。法律主要是为战斗增加不确定因素，比如法律会规定禁止使用某种武器、某种道具、某种元素魔法或者是角色状态的变更。如果玩家在战斗中违反了法律将会被裁判吃牌，可能是黄牌或是红牌，依情况而定。如果玩家控制的角色违反法律两次或者使用被禁止的武器或技能击倒敌人将会被监禁。不过在Jagds地区的战斗不会受到裁判的监督和保护，如果是在Jagds地区的战斗中被击倒并且在战斗结束之前没有被救活就是意味着该角色的死亡而非像往常的被判出局，并且在社团中该角色也将被清名。\[17\]
 
-为了弥补因为法律而被禁止使用武器或其他东西带来的麻烦和难度，裁判会在战斗时推荐某些东西（可能是其他武器，道具或是技能），如果玩家采纳并使用裁判推荐的东西将会获得“裁判点数”（Judge
-Points，简称JP）的奖励。玩家也可以使用裁判点数来与角色附近的队友配合使用连击来攻击敌人，或者在战斗中攒够10个点数来召唤“神兽”进行强大的援助攻击。而击倒敌人也可以获得裁判点数（但同时击倒多个敌人只能获得一点裁判点数）。在游戏中后期，玩家可以获得在战斗中增加法律或是抵消法律的“法律卡片”，它可以使在战斗中已经生效的法律无效化。\[18\]
+为了弥补因为法律而被禁止使用武器或其他东西带来的麻烦和难度，裁判会在战斗时推荐某些东西（可能是其他武器，道具或是技能），如果玩家采纳并使用裁判推荐的东西将会获得“裁判点数”（Judge Points，简称JP）的奖励。玩家也可以使用裁判点数来与角色附近的队友配合使用连击来攻击敌人，或者在战斗中攒够10个点数来召唤“神兽”进行强大的援助攻击。而击倒敌人也可以获得裁判点数（但同时击倒多个敌人只能获得一点裁判点数）。在游戏中后期，玩家可以获得在战斗中增加法律或是抵消法律的“法律卡片”，它可以使在战斗中已经生效的法律无效化。\[18\]
 
 ## 游戏设定
 
 ### 登场角色
 
-《最终幻想战略版Advance》的故事围绕着4位生活在一座名为伊瓦莉斯的小镇上的少年们而展开。马修·拉德吉（マーシュ・ラディウユ，Marche
-Radiuju）是本作的主角，由玩家直接控制；他将在朋友们编织的梦之世界中闯荡，寻找返回真实世界的方法。丽滋·马卢尔（リッツ・マルール，Ritz
-Malheur）是本作的女主角，是个爱憎分明的女孩；在现实世界中她常为自己的白发而烦恼，所以在梦之世界里的她不愿再回去。谬特·兰德尔（ミュート・ランデル，Mewt
-Randell）是一个关键人物，正是他发现的魔法书让大家进入了伊瓦莉斯的世界；他在现实生活中幼年丧母，一直被欺负，但是在伊瓦莉斯一切都不一样了。德奈特·拉德吉（ドネッド・ラディウユ，Doned
-Radiujuu）是主角马修的弟弟；他在现实生活中体弱多病，而在伊瓦莉斯的他身体健康，所以他也劝阻哥哥的回家的想法。除了这四个主角还有像谬特的父亲这样的配角；希德·兰德尔（シド·ランデル，Cid
-Randell）是缪特的父亲；他在伊瓦莉斯化身成为裁判长。在序章中欺负缪特的高年级学生在伊瓦莉斯也有登场。\[19\]
+《最终幻想战略版Advance》的故事围绕着4位生活在一座名为伊瓦莉斯的小镇上的少年们而展开。马修·拉德吉（マーシュ・ラディウユ，Marche Radiuju）是本作的主角，由玩家直接控制；他将在朋友们编织的梦之世界中闯荡，寻找返回真实世界的方法。丽滋·马卢尔（リッツ・マルール，Ritz Malheur）是本作的女主角，是个爱憎分明的女孩；在现实世界中她常为自己的白发而烦恼，所以在梦之世界里的她不愿再回去。谬特·兰德尔（ミュート・ランデル，Mewt Randell）是一个关键人物，正是他发现的魔法书让大家进入了伊瓦莉斯的世界；他在现实生活中幼年丧母，一直被欺负，但是在伊瓦莉斯一切都不一样了。德奈特·拉德吉（ドネッド・ラディウユ，Doned Radiujuu）是主角马修的弟弟；他在现实生活中体弱多病，而在伊瓦莉斯的他身体健康，所以他也劝阻哥哥的回家的想法。除了这四个主角还有像谬特的父亲这样的配角；希德·兰德尔（シド·ランデル，Cid Randell）是缪特的父亲；他在伊瓦莉斯化身成为裁判长。在序章中欺负缪特的高年级学生在伊瓦莉斯也有登场。\[19\]
 
-而在伊瓦莉斯世界里，还有其他推动剧情前进的角色。有些角色和马修成为了朋友，比如像莫古利族的梦布兰（モンブラン，Montblanc）和诺诺（ノノ，Nono）。还有像艾泽尔·巴尔比艾（エゼル·バルビエ，Ezel
-Berbier）一个自命不凡但却是麻烦制造者的恩莫族少年。莎拉（シャアラ，Shara）是丽滋结识的好朋友，她是一位维埃拉族的弓箭手。还有一些是跟马修为敌的角色。像巴布兹·斯艾因（バブズ·スエイン，Babus
-Swain），他是一个为缪特服务的恩莫族诗人。雷那多·托艾姆（レドナ·トェム，Llednar
-Twem）是一位神秘的执法者，他在裁判们从宫廷独立后接替了他们的位置。还有雷梦迪女王（女王レメディ，Queen
-Remedi），她是伊瓦莉斯大陆的实权统治者并且她的模样像极了缪特已经过世的母亲。\[20\]
+而在伊瓦莉斯世界里，还有其他推动剧情前进的角色。有些角色和马修成为了朋友，比如像莫古利族的梦布兰（モンブラン，Montblanc）和诺诺（ノノ，Nono）。还有像艾泽尔·巴尔比艾（エゼル·バルビエ，Ezel Berbier）一个自命不凡但却是麻烦制造者的恩莫族少年。莎拉（シャアラ，Shara）是丽滋结识的好朋友，她是一位维埃拉族的弓箭手。还有一些是跟马修为敌的角色。像巴布兹·斯艾因（バブズ·スエイン，Babus Swain），他是一个为缪特服务的恩莫族诗人。雷那多·托艾姆（レドナ·トェム，Llednar Twem）是一位神秘的执法者，他在裁判们从宫廷独立后接替了他们的位置。还有雷梦迪女王（女王レメディ，Queen Remedi），她是伊瓦莉斯大陆的实权统治者并且她的模样像极了缪特已经过世的母亲。\[20\]
 
 ### 剧情
 
-伊瓦莉斯是一个由4个普通的孩子创造出的世界：马修是一个刚搬到圣伊瓦莉斯小镇的男生；缪特是一个经常挂念已经去世的母亲的害羞男孩；丽滋是一个很有男孩子气概的女生，她与马修和缪特是同班同学；德奈特是马修的体弱多病的弟弟，他还是一个幻想小说和游戏的狂热粉丝。一天，缪特在小镇的小镇书店里翻到了一本很大的而且看起来尘封已久的魔法书，他很希望与朋友们赶紧分享他的重大发现，殊不知这本书就是传说中的《大魔典》（グラン・グリモア，Gran
-Grimoire）。缪特带着他的重大发现和丽滋来到马修的家里，不过书中的文字他们谁都看不懂，而书上的铭文只写着"Alta oron,
-Sondus
-kameela"一行字。\[21\]第二天早上，当马修醒来，他发现自己已经身处于伊瓦莉斯的世界了。这个幻想版的伊瓦莉斯世界是由缪特对最终幻想这个游戏的记忆构建而成的。\[22\]
+伊瓦莉斯是一个由4个普通的孩子创造出的世界：马修是一个刚搬到圣伊瓦莉斯小镇的男生；缪特是一个经常挂念已经去世的母亲的害羞男孩；丽滋是一个很有男孩子气概的女生，她与马修和缪特是同班同学；德奈特是马修的体弱多病的弟弟，他还是一个幻想小说和游戏的狂热粉丝。一天，缪特在小镇的小镇书店里翻到了一本很大的而且看起来尘封已久的魔法书，他很希望与朋友们赶紧分享他的重大发现，殊不知这本书就是传说中的《大魔典》（グラン・グリモア，Gran Grimoire）。缪特带着他的重大发现和丽滋来到马修的家里，不过书中的文字他们谁都看不懂，而书上的铭文只写着"Alta oron, Sondus kameela"一行字。\[21\]第二天早上，当马修醒来，他发现自己已经身处于伊瓦莉斯的世界了。这个幻想版的伊瓦莉斯世界是由缪特对最终幻想这个游戏的记忆构建而成的。\[22\]
 
 马修于他的朋友分散在不同的地方，他马上就决定开始寻找回家的方法。即使他感受到了在伊瓦莉斯的生活比在现实生活中好上很多倍，但是马修认为这一切都不是真实的，并且更坚定了寻找回家方法的决心。\[23\]其他的孩子们以及缪特的父亲在马修的努力下渐渐意识到这个新世界是由他们的愿望所塑造而成的，并爱上了这里。缪特不再被人欺辱，他在这里和他的母亲团聚还当上了伊瓦莉斯的王子。丽滋不再担心自己[白色的头发](../Page/白化症.md "wikilink")，因为在这里她拥有一头靓人的红发这也是她一直想拥有的。德奈特不再病泱泱的了，他的身体十分健康。而马修自己也变得比原来强壮很多。希德成为了这个国家的裁判长，也是级别最高的官员。而他们现在全部都活在那个孩子们都喜爱的电子游戏——[最终幻想之中](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")。\[24\]
 
 在冒险的最后，马修成功地将伊瓦莉斯变回了正常的现实世界。他击毁了所有支撑着伊瓦莉斯的水晶，并且打败了创造这个世界的幕后黑手同时也是雷梦迪女王的真身LI-GRIM。\[25\]在这整个冒险中，马修不断告诉其他的孩子们：不要只想生活在不切实际的幻想中，要面对现实生活带给自己的种种不幸并学会与它们共处。而其他的孩子们在这次的冒险中也收获颇丰，他们比原来更懂事；就像他们回到现实世界时那样，他们发现自己比原来更加快乐幸福。
 
-除去主线剧情，《最终幻想战略版Advance》还有两个分支剧情：红翼（Redwing Arc）和裁判（Judge
-Arc）。红翼主要是围绕一个被称作是“红翼”的外国犯罪团伙、其下属的社团“猎犬”（ボルゾイ，Borzoi）以及他们走私的境外怪物所讲述的。而裁判的分支剧情需要完成全部300个主线任务才可以解锁。它讲述的是一个隐藏结局：马修留在了伊瓦莉斯并推翻了贪腐的裁判们对世界的统治，而后接过了希德的审判之剑成为了下一代裁判长。\[26\]
+除去主线剧情，《最终幻想战略版Advance》还有两个分支剧情：红翼（Redwing Arc）和裁判（Judge Arc）。红翼主要是围绕一个被称作是“红翼”的外国犯罪团伙、其下属的社团“猎犬”（ボルゾイ，Borzoi）以及他们走私的境外怪物所讲述的。而裁判的分支剧情需要完成全部300个主线任务才可以解锁。它讲述的是一个隐藏结局：马修留在了伊瓦莉斯并推翻了贪腐的裁判们对世界的统治，而后接过了希德的审判之剑成为了下一代裁判长。\[26\]
 
 ## 开发历史
 
 《最终幻想战略版》系列被传有新作正在开发的流言最早源于[史克威尔与](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")[任天堂](../Page/任天堂.md "wikilink")冰释前嫌并签订了代理发售的协议，该协议批准任天堂在欧美地区将负责代理发行史克威尔为任天堂的游戏平台开发的游戏；而后，本作的制作人[松野泰己](../Page/松野泰己.md "wikilink")确认了本作的存在。《最终幻想战略版Advance》由史克威尔的第四产品开发部负责开发，该部门主要由[Quest公司的员工组成](https://zh.wikipedia.org/wiki/Quest\(公司\) "wikilink")；本作于2002年2月正式立项开工。\[27\]\[28\]不过这些都是Quest公司宣布将自己的软件部门出售给史克威尔之后的事了（Quest这家公司最出名的游戏系列莫过于《[皇家騎士團](https://zh.wikipedia.org/wiki/皇家騎士團 "wikilink")》系列）。\[29\]起初大家都认为本作将会是《最终幻想战略版》系列的传统意义上的续作，不过《最终幻想战略版Advance》采用了全新的故事线和设定，并且为玩家能在身为掌上游戏平台的GBA上获得更好的游戏感受做出不少了改动，比如：加入了快速保存游戏的功能等。
 
-《最终幻想战略版Advance》在玩法和游戏性上继承了《最终幻想战略版》系列的传统，但是游戏设定的世界换成了[伊瓦莉斯](https://zh.wikipedia.org/wiki/伊瓦莉斯联盟 "wikilink")，这也是以伊瓦莉斯世界的为舞台的最终幻想系列游戏首次亮相（而首次提出该世界观的《最终幻想XII》虽然在2001年就已开工，但到2006年才发售）。尽管是在GBA平台上制作，但是本作的画面可以用“丰富多彩”来形容，而且画面的细节处理也很用心到位。虽然环境背景和人物角色全部使用局部修改（sprite-based）以节约机能，不过这也使得人物角色的面部表情可以很容易识别并有能力动用足够多的运动帧数来完成一个流畅的角色动画。\[30\]\[31\]游戏还准备了三种显示模式的设置选项供玩家选择，玩家可以在三种模式下自由选择切换。其中两个显示模式分别是为[Game
-Boy Advance以及和日版游戏同日发售的](../Page/Game_Boy_Advance.md "wikilink")[Game
-Boy Advance
-SP准备的](../Page/Game_Boy_Advance_SP.md "wikilink")，而第三种显示模式是为了游戏能在电视屏幕上获得更好的色彩效果准备的；玩家需要使用Game
-Boy
-Player辅佐才可以使用此功能，也就是说玩家还需要一台[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")来连接自己的GBA或GBA
-SP。\[32\]
+《最终幻想战略版Advance》在玩法和游戏性上继承了《最终幻想战略版》系列的传统，但是游戏设定的世界换成了[伊瓦莉斯](https://zh.wikipedia.org/wiki/伊瓦莉斯联盟 "wikilink")，这也是以伊瓦莉斯世界的为舞台的最终幻想系列游戏首次亮相（而首次提出该世界观的《最终幻想XII》虽然在2001年就已开工，但到2006年才发售）。尽管是在GBA平台上制作，但是本作的画面可以用“丰富多彩”来形容，而且画面的细节处理也很用心到位。虽然环境背景和人物角色全部使用局部修改（sprite-based）以节约机能，不过这也使得人物角色的面部表情可以很容易识别并有能力动用足够多的运动帧数来完成一个流畅的角色动画。\[30\]\[31\]游戏还准备了三种显示模式的设置选项供玩家选择，玩家可以在三种模式下自由选择切换。其中两个显示模式分别是为[Game Boy Advance以及和日版游戏同日发售的](../Page/Game_Boy_Advance.md "wikilink")[Game Boy Advance SP准备的](../Page/Game_Boy_Advance_SP.md "wikilink")，而第三种显示模式是为了游戏能在电视屏幕上获得更好的色彩效果准备的；玩家需要使用Game Boy Player辅佐才可以使用此功能，也就是说玩家还需要一台[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")来连接自己的GBA或GBA SP。\[32\]
 
 另外为给游戏的发售预热造势，史克威尔将《最终幻想战略版Advance》的剧情故事进行了扩充并由7家日本的广播电台播出与游戏同名的广播剧。该剧从2003年1月播出至2003年3月。\[33\]
 
@@ -173,10 +142,7 @@ SP。\[32\]
 
 ### 原声大碟
 
-《最终幻想战略版Advance》的原声大碟专辑《Final Fantasy Tactics Advance Original
-Soundtrack》由[DigiCube](../Page/DigiCube.md "wikilink")唱片公司于2003年2月19日发行；专辑配有两张CD一共收录了74首曲目，全长2：05：27。第一张收录的是游戏中出现的全部音乐，总共42首曲目；但采用了近似[Game
-Boy
-Advance产生的音质效果](../Page/Game_Boy_Advance.md "wikilink")。第二张收录的曲目是从游戏中全部42首中精选出的32首，并且音质为原生音质而非第一张碟的GBA音质。\[36\]
+《最终幻想战略版Advance》的原声大碟专辑《Final Fantasy Tactics Advance Original Soundtrack》由[DigiCube](../Page/DigiCube.md "wikilink")唱片公司于2003年2月19日发行；专辑配有两张CD一共收录了74首曲目，全长2：05：27。第一张收录的是游戏中出现的全部音乐，总共42首曲目；但采用了近似[Game Boy Advance产生的音质效果](../Page/Game_Boy_Advance.md "wikilink")。第二张收录的曲目是从游戏中全部42首中精选出的32首，并且音质为原生音质而非第一张碟的GBA音质。\[36\]
 
 本张专辑的产品目录号为SSCX-10083-4\[37\]以及 SQEX-10070-1（再版）。
 
@@ -682,10 +648,7 @@ Advance产生的音质效果](../Page/Game_Boy_Advance.md "wikilink")。第二�
 
 ### 精选辑
 
-以《最终幻想战略版Advance》为主题的音乐专辑还有一张《White: Melodies of Final Fantasy Tactics
-Advance》。这是一张[新世紀音樂](../Page/新世紀音樂.md "wikilink")[曲风的精选集](https://zh.wikipedia.org/wiki/编曲 "wikilink")，曲目全部选自游戏中的音乐；本专辑由山崎燿、佐佐木章和辺见智负责制作，于2003年2月26日由SME
-Visual
-Works（现[Aniplex](../Page/Aniplex.md "wikilink")）发行。本章专辑收录了11首曲目，全长46:10。\[40\]
+以《最终幻想战略版Advance》为主题的音乐专辑还有一张《White: Melodies of Final Fantasy Tactics Advance》。这是一张[新世紀音樂](../Page/新世紀音樂.md "wikilink")[曲风的精选集](https://zh.wikipedia.org/wiki/编曲 "wikilink")，曲目全部选自游戏中的音乐；本专辑由山崎燿、佐佐木章和辺见智负责制作，于2003年2月26日由SME Visual Works（现[Aniplex](../Page/Aniplex.md "wikilink")）发行。本章专辑收录了11首曲目，全长46:10。\[40\]
 
 本张专辑的产品目录号为SVWC-7172。
 
@@ -707,21 +670,15 @@ Works（现[Aniplex](../Page/Aniplex.md "wikilink")）发行。本章专辑收�
 
 ### 周边商品
 
-为了庆祝《最终幻想战略版Advance》在日本地区的发售，史克威尔为当地玩家准备了几种不同的游戏周边纪念品，比如：网络货币充值卡，游戏海报，角色卡片收藏集和一组共20枚的主题徽章等。史克威尔联合任天堂于2003年2月14日配合游戏及新版主机GBA
-SP的发售，还推出了售价为18,300日元的限定版最终幻想战略版Advance主题[Game Boy Advance
-SP游戏主机同捆装](../Page/Game_Boy_Advance_SP.md "wikilink")。\[52\]\[53\]主机采用珍珠白涂色，没有特别的涂装；同捆包装里除了主机和游戏以外还附送了一条主机挂饰和一个黑色的主机收纳袋。
+为了庆祝《最终幻想战略版Advance》在日本地区的发售，史克威尔为当地玩家准备了几种不同的游戏周边纪念品，比如：网络货币充值卡，游戏海报，角色卡片收藏集和一组共20枚的主题徽章等。史克威尔联合任天堂于2003年2月14日配合游戏及新版主机GBA SP的发售，还推出了售价为18,300日元的限定版最终幻想战略版Advance主题[Game Boy Advance SP游戏主机同捆装](../Page/Game_Boy_Advance_SP.md "wikilink")。\[52\]\[53\]主机采用珍珠白涂色，没有特别的涂装；同捆包装里除了主机和游戏以外还附送了一条主机挂饰和一个黑色的主机收纳袋。
 
 ### 广播剧
 
-《最终幻想战略版Advance》还制作了一部仅供日本地区的同名[广播剧](https://zh.wikipedia.org/wiki/广播剧 "wikilink")。剧中故事大部分是游戏的情节，也有部分改动。从2003年1月4日起至3月29日，该剧在[TOKYO
-FM的](https://zh.wikipedia.org/wiki/FM东京 "wikilink")『RADIO MAGAZINE
-WHAT'S
-IN?』节目中首播，大阪FM，FM爱知等其他6家日本电台也有播放。\[54\]该剧集还由[DigiCube](../Page/DigiCube.md "wikilink")推出了CD套装，一共4张CD。\[55\]
+《最终幻想战略版Advance》还制作了一部仅供日本地区的同名[广播剧](https://zh.wikipedia.org/wiki/广播剧 "wikilink")。剧中故事大部分是游戏的情节，也有部分改动。从2003年1月4日起至3月29日，该剧在[TOKYO FM的](https://zh.wikipedia.org/wiki/FM东京 "wikilink")『RADIO MAGAZINE WHAT'S IN?』节目中首播，大阪FM，FM爱知等其他6家日本电台也有播放。\[54\]该剧集还由[DigiCube](../Page/DigiCube.md "wikilink")推出了CD套装，一共4张CD。\[55\]
 
 **声优名单**
 
-  - [今井由香](../Page/今井由香.md "wikilink") 饰 马修·拉德吉（マーシュ・ラディウユ，Marche
-    Radiuju）
+  - [今井由香](../Page/今井由香.md "wikilink") 饰 马修·拉德吉（マーシュ・ラディウユ，Marche Radiuju）
   - [冰青](../Page/冰青.md "wikilink") 饰 梦布兰（モンブラン，Montblanc）
   - [嘉數由美](../Page/嘉數由美.md "wikilink") 饰 丽滋·马卢尔（リッツ・マルール，Ritz Malheur）
   - [神田理江](../Page/神田理江.md "wikilink") 饰 莎拉（シャアラ，Shara）
@@ -729,16 +686,12 @@ IN?』节目中首播，大阪FM，FM爱知等其他6家日本电台也有播放
   - [佐久間紅美](../Page/佐久間紅美.md "wikilink") 饰 巴布兹·斯艾因（バブズ·スエイン，Babus Swain）
   - [城雅子](../Page/城雅子.md "wikilink") 饰 诺诺（ノノ，Nono）
   - [高木涉](../Page/高木涉.md "wikilink") 饰 艾泽尔·巴尔比艾（エゼル·バルビエ，Ezel Berbier）
-  - [加瀬康之](https://zh.wikipedia.org/wiki/加瀬康之 "wikilink") 饰
-    希德·兰德尔（シド·ランデル，Cid Randell）
-  - [石川寛美](https://zh.wikipedia.org/wiki/石川寛美 "wikilink") 饰
-    德奈特·拉德吉（ドネッド・ラディウユ，Doned Radiujuu）
-  - [緑川光](https://zh.wikipedia.org/wiki/緑川光 "wikilink") 饰
-    雷那多·托艾姆（レドナ·トェム，Llednar Twem）
+  - [加瀬康之](https://zh.wikipedia.org/wiki/加瀬康之 "wikilink") 饰 希德·兰德尔（シド·ランデル，Cid Randell）
+  - [石川寛美](https://zh.wikipedia.org/wiki/石川寛美 "wikilink") 饰 德奈特·拉德吉（ドネッド・ラディウユ，Doned Radiujuu）
+  - [緑川光](https://zh.wikipedia.org/wiki/緑川光 "wikilink") 饰 雷那多·托艾姆（レドナ·トェム，Llednar Twem）
   - [榊原良子](../Page/榊原良子.md "wikilink") 饰 雷梦迪女王（女王レメディ，Queen Remedi）
   - [真殿光昭](../Page/真殿光昭.md "wikilink") 饰 范伊夫利特（暗闇の雲ファムフリート，Famfrit）
-  - [幸田夏穂](https://zh.wikipedia.org/wiki/幸田夏穂 "wikilink") 饰
-    奥特玛（堕天使アルテマ，Ultema）
+  - [幸田夏穂](https://zh.wikipedia.org/wiki/幸田夏穂 "wikilink") 饰 奥特玛（堕天使アルテマ，Ultema）
   - [森川智之](../Page/森川智之.md "wikilink") 饰 亚德米勒斯（憤怒の霊帝アドラメレク，Adrammelech）
 
 ## 参考资料
@@ -748,16 +701,9 @@ IN?』节目中首播，大阪FM，FM爱知等其他6家日本电台也有播放
   - [《最终幻想战略版Advance》在史克威爾艾尼克斯美国的官方游戏档案](https://web.archive.org/web/20121031061749/http://na.square-enix.com/finalfantasytacticsadvance)
   - [《最终幻想战略版Advance》在任天堂官网上的页面](https://web.archive.org/web/20081221110013/http://www.nintendo.co.jp/n08/software/afxj/index.html)
   - [《最终幻想战略版Advance》在天幻网的游戏专题](http://ffta.ffsky.cn/)
-  - [《最终幻想战略版Advance》在FF
-    Wikia](http://finalfantasy.wikia.com/wiki/Final_Fantasy_Tactics_Advance)
+  - [《最终幻想战略版Advance》在FF Wikia](http://finalfantasy.wikia.com/wiki/Final_Fantasy_Tactics_Advance)
 
-[Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink")
-[Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink")
-[Category:最终幻想系列衍生作品](https://zh.wikipedia.org/wiki/Category:最终幻想系列衍生作品 "wikilink")
-[Category:战略角色扮演游戏](https://zh.wikipedia.org/wiki/Category:战略角色扮演游戏 "wikilink")
-[Category:Game_Boy_Advance遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance遊戲 "wikilink")
-[Category:Wii_U_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_U_Virtual_Console游戏 "wikilink")
-[Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
+[Category:2003年电子游戏](https://zh.wikipedia.org/wiki/Category:2003年电子游戏 "wikilink") [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink") [Category:最终幻想系列衍生作品](https://zh.wikipedia.org/wiki/Category:最终幻想系列衍生作品 "wikilink") [Category:战略角色扮演游戏](https://zh.wikipedia.org/wiki/Category:战略角色扮演游戏 "wikilink") [Category:Game_Boy_Advance遊戲](https://zh.wikipedia.org/wiki/Category:Game_Boy_Advance遊戲 "wikilink") [Category:Wii_U_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_U_Virtual_Console游戏 "wikilink") [Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
 
 1.  スクウェアのゲームボーイアドバンス用ソフトは『[チョコボランド](https://zh.wikipedia.org/wiki/チョコボランド "wikilink")』と本作の2作のみである。
 
@@ -791,35 +737,17 @@ IN?』节目中首播，大阪FM，FM爱知等其他6家日本电台也有播放
 18.
 19.
 20.
-21. **Marche**: I can't read these letters at all\! Maybe they're some
-    kind of magic spell\! / \[...\] / **Mewt**: .....Alta oron. Sondus
-    kameela...It sure sounds like magic\!
+21. **Marche**: I can't read these letters at all\! Maybe they're some kind of magic spell\! / \[...\] / **Mewt**: .....Alta oron. Sondus kameela...It sure sounds like magic\!
 
-22. **Marche**: Well, it's just...I've seen a bangaa, but in a computer
-    game, not real life\! / **Moogle**: Kupo? / **Marche**: It's called
-    "Final Fantasy." It's not real. Not really. It's like a pretend
-    world, with heroes and monsters... / **Moogle**: So you're saying
-    here is just like your pretend world? / **Marche**: Yeah, come to
-    think of it, it's just like in the game\!
+22. **Marche**: Well, it's just...I've seen a bangaa, but in a computer game, not real life\! / **Moogle**: Kupo? / **Marche**: It's called "Final Fantasy." It's not real. Not really. It's like a pretend world, with heroes and monsters... / **Moogle**: So you're saying here is just like your pretend world? / **Marche**: Yeah, come to think of it, it's just like in the game\!
 
-23. **Marche**: What? You mean you'd rather stay here? / **Ritz**: Yeah.
-    I like this world. Don't you, Marche? / **Marche**: Well, I... /
-    **Ritz**: If you want to turn everything back to normal... Go ahead.
-    But don't expect me to help you.
+23. **Marche**: What? You mean you'd rather stay here? / **Ritz**: Yeah. I like this world. Don't you, Marche? / **Marche**: Well, I... / **Ritz**: If you want to turn everything back to normal... Go ahead. But don't expect me to help you.
 
-24. **Marche**: Mewt? Prince Mewt? "My world"? This world must be a
-    reflection of Mewt's desires\! His mom's still alive, everyone does
-    what he says..... I'm living in Mewt's dream\! So if I change the
-    world back to the way it was... I'm destroying his dream world\! No
-    wonder he doesn't want me here...
+24. **Marche**: Mewt? Prince Mewt? "My world"? This world must be a reflection of Mewt's desires\! His mom's still alive, everyone does what he says..... I'm living in Mewt's dream\! So if I change the world back to the way it was... I'm destroying his dream world\! No wonder he doesn't want me here...
 
-25. **Marche**: I came to destroy that crystal... or World-Thread or
-    whatever you call it. And I'm not leaving until I do\!
+25. **Marche**: I came to destroy that crystal... or World-Thread or whatever you call it. And I'm not leaving until I do\!
 
-26. **Marche**: It's over. / **Cid**: Thank you, Marche. You went above
-    and beyond the call of duty. **Marche**: Not at all\! I was glad I
-    was able to help. / **Cid**: You know... / **Marche**: What? /
-    **Cid**: I would give you my judge sword.
+26. **Marche**: It's over. / **Cid**: Thank you, Marche. You went above and beyond the call of duty. **Marche**: Not at all\! I was glad I was able to help. / **Cid**: You know... / **Marche**: What? / **Cid**: I would give you my judge sword.
 
 27.
 
@@ -841,8 +769,7 @@ IN?』节目中首播，大阪FM，FM爱知等其他6家日本电台也有播放
 36.
 
 37.
-38. (February 19, 2003). *Final Fantasy Tactics Advance Original
-    Soundtrack*. DigiCube Inc. SSCX-10083-4.
+38. (February 19, 2003). *Final Fantasy Tactics Advance Original Soundtrack*. DigiCube Inc. SSCX-10083-4.
 
 39.
 40.

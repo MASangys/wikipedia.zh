@@ -15,8 +15,7 @@
 
 ### 《ODDS\&ENDS／Sky of Beginning》
 
-「**ODDS\&ENDS／Sky of
-Beginning**」（）是[supercell的ryo和じん的合作作品](https://zh.wikipedia.org/wiki/supercell "wikilink")。2012年8月29日SoulTag開始販售。
+「**ODDS\&ENDS／Sky of Beginning**」（）是[supercell的ryo和じん的合作作品](https://zh.wikipedia.org/wiki/supercell "wikilink")。2012年8月29日SoulTag開始販售。
 
   - CD
 
@@ -24,14 +23,9 @@ Beginning**」（）是[supercell的ryo和じん的合作作品](https://zh.wiki
 
 1.  **ODDS\&ENDS** \[5:36\]
       -
-        歌：ryo
-        ([supercell](https://zh.wikipedia.org/wiki/supercell "wikilink"))
-        feat.初音ミク
+        歌：ryo ([supercell](https://zh.wikipedia.org/wiki/supercell "wikilink")) feat.初音ミク
         作詞・作曲・編曲：ryo
-        [PS Vita遊戲](../Page/PlayStation_Vita.md "wikilink")《[初音ミク
-        -Project
-        DIVA-](https://zh.wikipedia.org/wiki/初音ミク_-Project_DIVA- "wikilink")
-        f》OP
+        [PS Vita遊戲](../Page/PlayStation_Vita.md "wikilink")《[初音ミク -Project DIVA-](https://zh.wikipedia.org/wiki/初音ミク_-Project_DIVA- "wikilink") f》OP
 2.  **Sky of Beginning** \[4:42\]
       -
         歌：じん feat.初音ミク
@@ -67,9 +61,6 @@ Beginning**」（）是[supercell的ryo和じん的合作作品](https://zh.wiki
 ## 外部連結
 
   -
-[Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink")
-[Category:日本音樂製作人](https://zh.wikipedia.org/wiki/Category:日本音樂製作人 "wikilink")
-[Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink")
-[Category:日本小說家](https://zh.wikipedia.org/wiki/Category:日本小說家 "wikilink")
+[Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink") [Category:日本音樂製作人](https://zh.wikipedia.org/wiki/Category:日本音樂製作人 "wikilink") [Category:使用Vocaloid的音樂家](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的音樂家 "wikilink") [Category:日本小說家](https://zh.wikipedia.org/wiki/Category:日本小說家 "wikilink")
 
 1.

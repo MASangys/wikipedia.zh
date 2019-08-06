@@ -1,5 +1,4 @@
-《**So
-Close**》是[美国](../Page/美国.md "wikilink")[乡村音乐](../Page/乡村音乐.md "wikilink")女歌手及女演员[詹妮特·麦柯迪的首支单曲](https://zh.wikipedia.org/wiki/詹妮特·麦柯迪 "wikilink")。\[1\]单曲于2009年3月10日通过[iTunes及](https://zh.wikipedia.org/wiki/iTunes "wikilink")[亚马逊发行](https://zh.wikipedia.org/wiki/亚马逊 "wikilink")。\[2\]
+《**So Close**》是[美国](../Page/美国.md "wikilink")[乡村音乐](../Page/乡村音乐.md "wikilink")女歌手及女演员[詹妮特·麦柯迪的首支单曲](https://zh.wikipedia.org/wiki/詹妮特·麦柯迪 "wikilink")。\[1\]单曲于2009年3月10日通过[iTunes及](https://zh.wikipedia.org/wiki/iTunes "wikilink")[亚马逊发行](https://zh.wikipedia.org/wiki/亚马逊 "wikilink")。\[2\]
 
 ## 主题
 
@@ -19,12 +18,9 @@ Close**》是[美国](../Page/美国.md "wikilink")[乡村音乐](../Page/乡村
 
 ## 参考文献
 
-[Category:2009年单曲](https://zh.wikipedia.org/wiki/Category:2009年单曲 "wikilink")
-[Category:詹妮特·麦柯迪歌曲](https://zh.wikipedia.org/wiki/Category:詹妮特·麦柯迪歌曲 "wikilink")
+[Category:2009年单曲](https://zh.wikipedia.org/wiki/Category:2009年单曲 "wikilink") [Category:詹妮特·麦柯迪歌曲](https://zh.wikipedia.org/wiki/Category:詹妮特·麦柯迪歌曲 "wikilink")
 
-1.  ["So Close" - Debut
-    single](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307073658&s=143460)
-    2009-04-15.
+1.  ["So Close" - Debut single](http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307073658&s=143460) 2009-04-15.
 2.
 3.
 4.  <http://blog.cmt.com/2009-03-23/has-icarlys-sam-gone-country/>

@@ -8,8 +8,7 @@ WZ551的改进于1987年开始，研制代号**WZ551A**，为提升高原适应�
 
 ## 设计
 
-ZSL-92装甲输送车采用驾驶舱前置，发动机和传动系统中置，战斗室和乘员舱后置的总体布局方案，底盘采用等轴距
-6×6驱动方式，车体为装甲钢制全封闭式浮壳结构，乘/载员通过后门和侧门进出，车体尾部有2个导管螺旋桨推进装置，可提高水上行动能力。车长和驾驶员各有3具潜望镜，其中驾驶员中间潜望镜可换成红外/微光夜视仪，用于夜间驾驶。
+ZSL-92装甲输送车采用驾驶舱前置，发动机和传动系统中置，战斗室和乘员舱后置的总体布局方案，底盘采用等轴距 6×6驱动方式，车体为装甲钢制全封闭式浮壳结构，乘/载员通过后门和侧门进出，车体尾部有2个导管螺旋桨推进装置，可提高水上行动能力。车长和驾驶员各有3具潜望镜，其中驾驶员中间潜望镜可换成红外/微光夜视仪，用于夜间驾驶。
 
 最初WZ551安装有ZPT-90式25毫米口径机炮的单人炮塔（武器顶置），ZSL-92A標準武器为一门[88式12.7毫米口径高射机枪](../Page/88式车载高射机枪.md "wikilink")，还可依用途不同換裝各種多樣化武器，例如[武警版還加裝非致命武器數門](https://zh.wikipedia.org/wiki/武警 "wikilink")、步兵戰鬥車版可以加裝不同口徑機砲和导弹。
 
@@ -17,32 +16,23 @@ WZ551动力装置使用F8L413F型发动机，WZ551A换装了BF8L413F型增压发
 
 ## 衍生車型
 
-<File:PLA> Hong Kong Garrison ZSL92B.JPG|ZSL-92B装有30mm机炮、红箭-73
-<File:PLA> Hong Kong Garrisons ZZH07 Armoured Command Personnel
-Carriers.JPG|指揮車 <File:Chinese> wheeled APC (2008).jpg|武警WJ-03防暴車
-HJ-9_mounted_on_WZ550.jpg|紅箭-9反坦克飛彈車
+<File:PLA> Hong Kong Garrison ZSL92B.JPG|ZSL-92B装有30mm机炮、红箭-73 <File:PLA> Hong Kong Garrisons ZZH07 Armoured Command Personnel Carriers.JPG|指揮車 <File:Chinese> wheeled APC (2008).jpg|武警WJ-03防暴車 HJ-9_mounted_on_WZ550.jpg|紅箭-9反坦克飛彈車
 
 ### 解放軍自用型号
 
 中国人民解放军陸軍用[量產型](https://zh.wikipedia.org/wiki/量產 "wikilink")：\[4\]
 
-  - ZSL-92 -
-    WZ551基型车改进型，即WZ551A，采用与[ZSD-89履带式装甲输送车通用的](https://zh.wikipedia.org/wiki/ZSD-89履带式装甲输送车 "wikilink")25毫米口径机炮与并列机枪顶置的单人炮塔。战斗全重15.8吨。
-  - ZSL-92A -
-    采用与ZSD-89履带式装甲输送车相同的带防护外罩的[高平两用机枪](../Page/88式车载高射机枪.md "wikilink")。战斗全重14.9吨。1996年设计定型。
-  - ZSL-92B -
-    采用装有30毫米口径机炮、并列機槍外加[红箭-73反坦克导弹的全封闭式炮塔](https://zh.wikipedia.org/wiki/红箭-73 "wikilink")，屬火力較强的版本。
-  - “红箭-9”反坦克导弹發射車 -
-    在WZ551基础上发展为4×4驱动形式的WZ550，裝有4聯裝[红箭-9反坦克导弹](../Page/红箭-9反坦克导弹.md "wikilink")升降式发射装置。
+  - ZSL-92 - WZ551基型车改进型，即WZ551A，采用与[ZSD-89履带式装甲输送车通用的](https://zh.wikipedia.org/wiki/ZSD-89履带式装甲输送车 "wikilink")25毫米口径机炮与并列机枪顶置的单人炮塔。战斗全重15.8吨。
+  - ZSL-92A - 采用与ZSD-89履带式装甲输送车相同的带防护外罩的[高平两用机枪](../Page/88式车载高射机枪.md "wikilink")。战斗全重14.9吨。1996年设计定型。
+  - ZSL-92B - 采用装有30毫米口径机炮、并列機槍外加[红箭-73反坦克导弹的全封闭式炮塔](https://zh.wikipedia.org/wiki/红箭-73 "wikilink")，屬火力較强的版本。
+  - “红箭-9”反坦克导弹發射車 - 在WZ551基础上发展为4×4驱动形式的WZ550，裝有4聯裝[红箭-9反坦克导弹](../Page/红箭-9反坦克导弹.md "wikilink")升降式发射装置。
 
 本車另有装甲抢修車、裝甲通讯指挥车、装甲救護車...等多種各異改型，各地部隊各有不同。还有8×8驱动形式底盘的衍生型。
 
 基于WZ551A底盤，外加较大口径火炮的砲塔，也可視作本車衍生的大幅改型：
 
-  - [PLL-05自行迫榴炮](../Page/PLL-05自行迫榴炮.md "wikilink") -
-    以WZ551A为底盘，安装120毫米口径线膛炮。
-  - [PTL-02轮式突击炮](../Page/PTL-02轮式突击炮.md "wikilink") -
-    以WZ551A为底盘，安装由86式滑膛反坦克炮为基础改进而来的100毫米口径滑膛炮。
+  - [PLL-05自行迫榴炮](../Page/PLL-05自行迫榴炮.md "wikilink") - 以WZ551A为底盘，安装120毫米口径线膛炮。
+  - [PTL-02轮式突击炮](../Page/PTL-02轮式突击炮.md "wikilink") - 以WZ551A为底盘，安装由86式滑膛反坦克炮为基础改进而来的100毫米口径滑膛炮。
 
 ### 武警、特警用型号
 
@@ -58,44 +48,67 @@ HJ-9_mounted_on_WZ550.jpg|紅箭-9反坦克飛彈車
 
   - VN2 - 采用水冷增压柴油机，单人炮塔主要配置机炮以及“红箭”73反坦克导弹。
   - CS/VN4 - 由中国保利公司推出，装有4枚反坦克导弹发射装置。
-  - WMZ系列装甲车 -
-    以WZ551A底盘为基础开发而来，WMZ551B装甲输送车、WMZ551QJ装甲抢救车、WMZ551JH装甲救护车。
+  - WMZ系列装甲车 - 以WZ551A底盘为基础开发而来，WMZ551B装甲输送车、WMZ551QJ装甲抢救车、WMZ551JH装甲救护车。
   - WMA301型105毫米轮式突击炮 - 出口缅甸。
   - “倚天”防空导弹發射車 - 裝有8聯裝“倚天”近程防空导弹武器系统的版本。
 
 ## 使用國（地区）
 
-[缩略图](https://zh.wikipedia.org/wiki/File:WZ551_operators.png "fig:缩略图")
-[缩略图](https://zh.wikipedia.org/wiki/File:Joint_operation_against_ADF_in_Beni_\(13247016334\).jpg "fig:缩略图")
+[缩略图](https://zh.wikipedia.org/wiki/File:WZ551_operators.png "fig:缩略图") [缩略图](https://zh.wikipedia.org/wiki/File:Joint_operation_against_ADF_in_Beni_\(13247016334\).jpg "fig:缩略图")
+
+  - ：装备陆军，数量不详
+
+  - ：10辆WMA-301战斗型，5辆WZ-551运输型，2016年交付
 
   - ：35輛\[6\] WZ551B1 （单价65万美元）
 
-  - ：5 輛
+  - ：波斯尼亚陆军5輛
+
+  - ：缅甸陆军76辆
+
+  - ：布隆迪陆军15輛�WZ-551运输型
+
+  - ：12辆WMA-301战斗型
 
   - ：10輛（每輛售予50萬美金）
+
+  - ：装备陆军，数量不详
+
+  - ：1辆WMA-301战斗型
+
+  - ：装备陆军，数量不详
+
+  - ：装备陆军150辆
 
   - ：35輛
 
   - ：20辆
 
+  - ：数量不详
+
+  - ：肯尼亚陆军35辆
+
+  - ：加纳陆军20辆
+
   - ：20辆
 
-  - ：10辆
-
-  - ：40輛以上
+  - ：巴基斯坦陆军40輛以上
 
   - ：2000輛以上
 
-  - :
-    1輛在[香港警務處](../Page/香港警務處.md "wikilink")[爆炸品處理課](../Page/爆炸品處理課.md "wikilink")，[香港海關](../Page/香港海關.md "wikilink")在1997年8月截獲非法轉運武器\[7\]，此車被法庭批准充公並交由警方使用。
+  - : 1輛在[香港警務處](../Page/香港警務處.md "wikilink")[爆炸品處理課](../Page/爆炸品處理課.md "wikilink")，[香港海關](../Page/香港海關.md "wikilink")在1997年8月截獲从泰国运回的非法轉運武器\[7\]，此車被法庭批准充公並交由警方使用。
 
-  - ：50輛
+  - ：阿曼陆军50輛
 
-  - ：200輛（80輛戰鬥車，120輛運兵車）
+  - ：斯里兰卡陆军200輛（80輛WMA-301戰鬥型，120輛WZ-551运输型）
 
-  - ：500 輛授權組裝
+  - ：500輛授權組裝
 
-  - ：150 輛（IFV）
+  - ：数量不详
+
+  - ：数量不详
+
+  - ：5辆WZ-551B运输型
 
 ## 注释
 
@@ -107,8 +120,7 @@ HJ-9_mounted_on_WZ550.jpg|紅箭-9反坦克飛彈車
   - [SinoDefence](https://web.archive.org/web/20021005030506/http://www.sinodefence.com/army/armour/wz551.asp)
   - [GlobalSecurity.org](http://www.globalsecurity.org/military/world/china/wz-551.htm)
 
-[Category:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:中華人民共和國裝甲戰鬥車輛 "wikilink")
-[Category:裝甲運兵車](https://zh.wikipedia.org/wiki/Category:裝甲運兵車 "wikilink")
+[Category:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:中華人民共和國裝甲戰鬥車輛 "wikilink") [Category:裝甲運兵車](https://zh.wikipedia.org/wiki/Category:裝甲運兵車 "wikilink")
 
 1.  [中国第二代重型军用越野车技术引进](http://mil.news.sina.com.cn/p/2006-10-11/0719403623.html)
 

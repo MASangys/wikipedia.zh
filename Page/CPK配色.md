@@ -1,7 +1,4 @@
-[proline_model.jpg](https://zh.wikipedia.org/wiki/File:proline_model.jpg "fig:proline_model.jpg")[MolyMod](../Page/MolyMod.md "wikilink")[球棒模型](../Page/球棒模型.md "wikilink")。
-這些模型通常遵守CPK配色。\]\]
-[CPK-coloring-periodic-table.svg](https://zh.wikipedia.org/wiki/File:CPK-coloring-periodic-table.svg "fig:CPK-coloring-periodic-table.svg")。\]\]
-在[化學](../Page/化學.md "wikilink")中，**CPK配色**是一種國際通用的[原子](../Page/原子.md "wikilink")或[分子](../Page/分子.md "wikilink")[模型的配色方式](https://zh.wikipedia.org/wiki/模型 "wikilink")，也是最常用、最多人使用的[分子模型上色方式](https://zh.wikipedia.org/wiki/分子模型 "wikilink")，可用於各種[分子模型或](https://zh.wikipedia.org/wiki/分子模型 "wikilink")[元素標示](https://zh.wikipedia.org/wiki/元素 "wikilink")，最常用於[CPK模型](https://zh.wikipedia.org/wiki/CPK模型 "wikilink")、[球棒模型](../Page/球棒模型.md "wikilink")和[空間填充模型](https://zh.wikipedia.org/wiki/空間填充模型 "wikilink")。該配色方式由CPK模型的設計者Corey、Pauling（[萊納斯·鮑林](../Page/萊納斯·鮑林.md "wikilink")）與Koltun提出且改進。
+[proline_model.jpg](https://zh.wikipedia.org/wiki/File:proline_model.jpg "fig:proline_model.jpg")[MolyMod](../Page/MolyMod.md "wikilink")[球棒模型](../Page/球棒模型.md "wikilink")。 這些模型通常遵守CPK配色。\]\] [CPK-coloring-periodic-table.svg](https://zh.wikipedia.org/wiki/File:CPK-coloring-periodic-table.svg "fig:CPK-coloring-periodic-table.svg")。\]\] 在[化學](../Page/化學.md "wikilink")中，**CPK配色**是一種國際通用的[原子](../Page/原子.md "wikilink")或[分子](../Page/分子.md "wikilink")[模型的配色方式](https://zh.wikipedia.org/wiki/模型 "wikilink")，也是最常用、最多人使用的[分子模型上色方式](https://zh.wikipedia.org/wiki/分子模型 "wikilink")，可用於各種[分子模型或](https://zh.wikipedia.org/wiki/分子模型 "wikilink")[元素標示](https://zh.wikipedia.org/wiki/元素 "wikilink")，最常用於[CPK模型](https://zh.wikipedia.org/wiki/CPK模型 "wikilink")、[球棒模型](../Page/球棒模型.md "wikilink")和[空間填充模型](https://zh.wikipedia.org/wiki/空間填充模型 "wikilink")。該配色方式由CPK模型的設計者Corey、Pauling（[萊納斯·鮑林](../Page/萊納斯·鮑林.md "wikilink")）與Koltun提出且改進。
 
 ## 歷史
 
@@ -20,9 +17,7 @@
 
 1965年，Koltun將Corey和鮑林建模技術的改進版本申請專利獲准<ref name=patkol>
 
-` Walter L. Koltun （1965）, `*`Space``   ``filling``   ``atomic``
- ``units``   ``and``   ``connectors``   ``for``   ``molecular``
- ``models`*`.  U. S. Patent 3170246. `
+` Walter L. Koltun （1965）, `*`Space``   ``filling``   ``atomic``   ``units``   ``and``   ``connectors``   ``for``   ``molecular``   ``models`*`.  U. S. Patent 3170246. `
 
 </ref>。在他的專利中，他提到了以下顏色：
 
@@ -98,8 +93,7 @@
 
 ## 典型的配色
 
-[Molymods.jpg](https://zh.wikipedia.org/wiki/File:Molymods.jpg "fig:Molymods.jpg")零件，相同[顏色代表同一種](https://zh.wikipedia.org/wiki/顏色 "wikilink")[元素](https://zh.wikipedia.org/wiki/元素 "wikilink")。\]\]
-典型的CPK配色包括:
+[Molymods.jpg](https://zh.wikipedia.org/wiki/File:Molymods.jpg "fig:Molymods.jpg")零件，相同[顏色代表同一種](https://zh.wikipedia.org/wiki/顏色 "wikilink")[元素](https://zh.wikipedia.org/wiki/元素 "wikilink")。\]\] 典型的CPK配色包括:
 
 |    |                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                          |
 | -- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
@@ -130,13 +124,11 @@
 
 下表顯示了一些流行的軟件分配給每個元素的顏色。C列是原始由Corey和鮑林設定的CPK配色\[3\]，K是Koltun的專利\[4\]，J列是由分子可視化的Jmol使用的配色方案<ref name="jmol">
 
-` `[`Jmol``   ``color``
- ``table`](http://jmol.sourceforge.net/jscolors/)` at sourceforge.net. Accessed on 2010-01-28.`
+` `[`Jmol``   ``color``   ``table`](http://jmol.sourceforge.net/jscolors/)` at sourceforge.net. Accessed on 2010-01-28.`
 
 </ref>，R列是Rasmol使用的配色方案，其顯示兩種顏色，第二種表是2.7.3及以後版本所使用的顏色\[5\]<ref name="rasmol">
 
-` `[`Rasmol``   ``color``
- ``table`](http://www.bio.cmu.edu/Courses/BiochemMols/RasFrames/CPKCLRS.HTM)` `` at bio.cmu.edu. Accessed on 2010-01-28.`
+` `[`Rasmol``   ``color``   ``table`](http://www.bio.cmu.edu/Courses/BiochemMols/RasFrames/CPKCLRS.HTM)` `` at bio.cmu.edu. Accessed on 2010-01-28.`
 
 </ref>。所有的顏色都很相似的，並且可能依賴於顯示硬件和觀看條件。
 
@@ -1035,31 +1027,21 @@
 
 <references/>
 
-1.  Corey, Robert B.、Pauling, Linus、1952年8月25日「Molecular Models of Amino
-    Acids, Peptides, and Proteins」『Review of Scientific
-    Instruments』24巻8号621～627ページ、
+1.  Corey, Robert B.、Pauling, Linus、1952年8月25日「Molecular Models of Amino Acids, Peptides, and Proteins」『Review of Scientific Instruments』24巻8号621～627ページ、
 
-2.  Koltun, Walter L.、1965年2月23日「Space filling atomic units and
-    connectors for molecular models」
+2.  Koltun, Walter L.、1965年2月23日「Space filling atomic units and connectors for molecular models」
 
-3.  [What is the basis for the CPK color scheme? Which colors is used
-    for which
-    atom?](https://web.archive.org/web/20150923190347/http://www.biosino.org/mirror/www.ncbi.nlm.nih.gov/Structure/cn3d/cn3dfaq.html#colorCPK)
+3.  [What is the basis for the CPK color scheme? Which colors is used for which atom?](https://web.archive.org/web/20150923190347/http://www.biosino.org/mirror/www.ncbi.nlm.nih.gov/Structure/cn3d/cn3dfaq.html#colorCPK)
 
-4.  [Physical Molecular
-    Models](https://web.archive.org/web/20070321163853/http://www.netsci.org/Science/Compchem/feature14b.html)
+4.  [Physical Molecular Models](https://web.archive.org/web/20070321163853/http://www.netsci.org/Science/Compchem/feature14b.html)
 
-5.  [Модель Кори-Полинга-Колтуна: стандарт «молекулярного
-    конструктора»](https://web.archive.org/web/20130830022621/http://biomolecula.ru/content/50/#c22)
+5.  [Модель Кори-Полинга-Колтуна: стандарт «молекулярного конструктора»](https://web.archive.org/web/20130830022621/http://biomolecula.ru/content/50/#c22)
 
     </div>
 
-[Category:分子建模](https://zh.wikipedia.org/wiki/Category:分子建模 "wikilink")
-[Category:色彩](https://zh.wikipedia.org/wiki/Category:色彩 "wikilink")
+[Category:分子建模](https://zh.wikipedia.org/wiki/Category:分子建模 "wikilink") [Category:色彩](https://zh.wikipedia.org/wiki/Category:色彩 "wikilink")
 
-1.  Robert B. Corey and Linus Pauling （1953）: Molecular Models of Amino
-    Acids, Peptides, and Proteins. Review of Scientific Instruments,
-    Volume 24, Issue 8, pp. 621-627.
+1.  Robert B. Corey and Linus Pauling （1953）: Molecular Models of Amino Acids, Peptides, and Proteins. Review of Scientific Instruments, Volume 24, Issue 8, pp. 621-627.
 
 2.  軟體[Avogadro](http://avogadro.openmolecules.net/) 描繪的氫鍵
 

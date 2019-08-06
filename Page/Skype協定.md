@@ -13,5 +13,4 @@
   -
   -
   -
-[Category:Skype](https://zh.wikipedia.org/wiki/Category:Skype "wikilink")
-[Category:VoIP協定](https://zh.wikipedia.org/wiki/Category:VoIP協定 "wikilink")
+[Category:Skype](https://zh.wikipedia.org/wiki/Category:Skype "wikilink") [Category:VoIP協定](https://zh.wikipedia.org/wiki/Category:VoIP協定 "wikilink")

@@ -1,27 +1,18 @@
-《**Cinema of
-Love**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的第二張](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於2011年5月26日發行。
+《**Cinema of Love**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作歌手.md "wikilink")[王菀之的第二張](https://zh.wikipedia.org/wiki/王菀之 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，於2011年5月26日發行。
 
 ## 曲目
 
 ## 製作人員名單
 
 出自《Cinema of Love》專輯內頁。\[1\]
-**音樂**
+  **音樂**
 
-  - [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") – 主音
-    <small>(所有歌曲)</small>、作曲 <small>(1-5)</small>、作詞
-    <small>(3-4)</small>、和音 <small>(1、3-7)</small>
-  - [馮翰銘](../Page/馮翰銘.md "wikilink") – 編曲 <small>(所有歌曲)</small>、鋼琴
-    <small>(所有歌曲)</small>、Rhodes鋼琴 <small>(所有歌曲)</small>、模擬合成器
-    <small>(所有歌曲)</small>、電吉他 <small>(所有歌曲)</small>、低音吉他
-    <small>(所有歌曲)</small>、鼓 <small>(所有歌曲)</small>、電腦程式
-    <small>(所有歌曲)</small>、和音 <small>(1, 3-7)</small>
+  - [王菀之](https://zh.wikipedia.org/wiki/王菀之 "wikilink") – 主音 <small>(所有歌曲)</small>、作曲 <small>(1-5)</small>、作詞 <small>(3-4)</small>、和音 <small>(1、3-7)</small>
+  - [馮翰銘](../Page/馮翰銘.md "wikilink") – 編曲 <small>(所有歌曲)</small>、鋼琴 <small>(所有歌曲)</small>、Rhodes鋼琴 <small>(所有歌曲)</small>、模擬合成器 <small>(所有歌曲)</small>、電吉他 <small>(所有歌曲)</small>、低音吉他 <small>(所有歌曲)</small>、鼓 <small>(所有歌曲)</small>、電腦程式 <small>(所有歌曲)</small>、和音 <small>(1, 3-7)</small>
   - [林夕](../Page/林夕.md "wikilink") – 作詞 <small>(1)</small>
-  - [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") – 作詞
-    <small>(2、5)</small>
+  - [黃偉文](https://zh.wikipedia.org/wiki/黃偉文 "wikilink") – 作詞 <small>(2、5)</small>
   - Gwen Boshiwski – 雙簧管 <small>(6-7)</small>
-  - [Alain Boublil](../Page/阿兰·鲍伯利.md "wikilink") – 作詞
-    <small>(7)</small>
+  - [Alain Boublil](../Page/阿兰·鲍伯利.md "wikilink") – 作詞 <small>(7)</small>
   - John Campo – 小號 <small>(所有歌曲)</small>
   - Jose F. – 長號 <small>(1、7)</small>
   - Robert Hampton – 柔音號 <small>(6-7)</small>
@@ -34,8 +25,7 @@ Love**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作�
   - Bill Rosberg – 長笛 <small>(6-7)</small>
   - Alice Rosen – 中提琴 <small>(所有歌曲)</small>
   - Leslie Ryang – 小提琴 <small>(所有歌曲)</small>
-  - [Claude-Michel Schönberg](../Page/克勞德-米歇爾·勳伯格.md "wikilink") – 作曲
-    <small>(7)</small>
+  - [Claude-Michel Schönberg](../Page/克勞德-米歇爾·勳伯格.md "wikilink") – 作曲 <small>(7)</small>
   - Stephen Schwartz – 作詞 <small>(6)</small>
 
 **形像及設計**
@@ -50,9 +40,7 @@ Love**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作�
 **製作**
 
   - 王菀之 – 專輯製作
-  - 馮翰銘 – 監製 <small>(所有歌曲)</small>、專輯製作、弦樂編寫 <small>(所有歌曲)</small>、弦樂指揮
-    <small>(所有歌曲)</small>、錄音 <small>(所有歌曲)</small>、混音
-    <small>(2-3)</small>
+  - 馮翰銘 – 監製 <small>(所有歌曲)</small>、專輯製作、弦樂編寫 <small>(所有歌曲)</small>、弦樂指揮 <small>(所有歌曲)</small>、錄音 <small>(所有歌曲)</small>、混音 <small>(2-3)</small>
   - Frankie Hung – 後期混音製作
   - ray@ray.com.hk – 混音 <small>(1、4、6-7)</small>
 
@@ -170,18 +158,13 @@ Love**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作�
 
   - [2011年度勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink")－第二回得獎金曲
   - [2011年度TVB8金曲榜頒獎典禮](../Page/2011年度TVB8金曲榜頒獎典禮得獎名單.md "wikilink")－全球觀眾最愛粵語歌曲獎
-  - [Yahoo\!
-    搜尋人氣大獎2011](../Page/2011年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")－搜尋十大人氣歌曲2011
+  - [Yahoo\! 搜尋人氣大獎2011](../Page/2011年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")－搜尋十大人氣歌曲2011
   - [新城勁爆頒獎禮2011](../Page/2011年度新城勁爆頒獎禮得獎名單.md "wikilink")－新城勁爆歌曲
   - [2011年度叱咤樂壇流行榜頒獎典禮](../Page/2011年度叱咤樂壇流行榜頒獎典禮得獎名單.md "wikilink")－專業推介．叱咤十大（第六位）
-  - [2011年度SINA
-    Music樂壇民意指數頒獎禮](../Page/2011年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")－SINA
-    Music 最高收聽率二十大歌曲
+  - [2011年度SINA Music樂壇民意指數頒獎禮](../Page/2011年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")－SINA Music 最高收聽率二十大歌曲
   - [第三十四屆十大中文金曲頒獎典禮](../Page/第三十四屆十大中文金曲得獎名單.md "wikilink")－十大中文金曲
-  - [2011
-    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2011_CASH金帆音樂獎 "wikilink")－CASH最佳歌曲大獎（提名）\[3\]
-  - [2011
-    CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2011_CASH金帆音樂獎 "wikilink")－最佳旋律（提名）
+  - [2011 CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2011_CASH金帆音樂獎 "wikilink")－CASH最佳歌曲大獎（提名）\[3\]
+  - [2011 CASH金帆音樂獎](https://zh.wikipedia.org/wiki/2011_CASH金帆音樂獎 "wikilink")－最佳旋律（提名）
 
 ### 歌曲《錯過了地址》
 
@@ -219,11 +202,9 @@ Love**》是[香港](../Page/香港.md "wikilink")[唱作歌手](../Page/創作�
 
 ## 參考文獻
 
-[Category:王菀之音樂專輯](https://zh.wikipedia.org/wiki/Category:王菀之音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
+[Category:王菀之音樂專輯](https://zh.wikipedia.org/wiki/Category:王菀之音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
 
 1.
 2.  [2011年度《香港唱片銷量大獎》](http://www.ifpihk.org/zh/hong-kong-top-sales-music-award-presented-01-11/hong-kong-top-sales-music-award-presented/2011)
-3.  [《2011
-    CASH金帆音樂獎》入圍名單](http://www.cash.org.hk/UserFiles/File/en/press_release/2011%20Golden%20Sail%20Finalists.pdf)
+3.  [《2011 CASH金帆音樂獎》入圍名單](http://www.cash.org.hk/UserFiles/File/en/press_release/2011%20Golden%20Sail%20Finalists.pdf)
 4.

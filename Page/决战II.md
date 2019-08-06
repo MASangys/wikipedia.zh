@@ -1,6 +1,4 @@
-《**决战II**》（，），[PlayStation
-2平台上的](../Page/PlayStation_2.md "wikilink")[决战系列游戏之一](https://zh.wikipedia.org/wiki/决战系列 "wikilink")。决战系列作是由历史游戏大厂[光荣所制作](https://zh.wikipedia.org/wiki/光荣株式会社 "wikilink")，于2001年3月29日在PlayStation
-2上推出，游戏音乐由著名音乐家[小六禮次郎](https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%85%AD%E7%A6%AE%E6%AC%A1%E9%83%8E)负责。《决战II》的主要故事由古代中国的[三国时代为题材](https://zh.wikipedia.org/wiki/三国时代 "wikilink")，主要是描绘三国时代中[蜀汉](../Page/蜀汉.md "wikilink")[刘备](../Page/刘备.md "wikilink")和[魏国](https://zh.wikipedia.org/wiki/魏国 "wikilink")[曹操](../Page/曹操.md "wikilink")的对决故事。
+《**决战II**》（，），[PlayStation 2平台上的](../Page/PlayStation_2.md "wikilink")[决战系列游戏之一](https://zh.wikipedia.org/wiki/决战系列 "wikilink")。决战系列作是由历史游戏大厂[光荣所制作](https://zh.wikipedia.org/wiki/光荣株式会社 "wikilink")，于2001年3月29日在PlayStation 2上推出，游戏音乐由著名音乐家[小六禮次郎](https://ja.wikipedia.org/wiki/%E5%B0%8F%E5%85%AD%E7%A6%AE%E6%AC%A1%E9%83%8E)负责。《决战II》的主要故事由古代中国的[三国时代为题材](https://zh.wikipedia.org/wiki/三国时代 "wikilink")，主要是描绘三国时代中[蜀汉](../Page/蜀汉.md "wikilink")[刘备](../Page/刘备.md "wikilink")和[魏国](https://zh.wikipedia.org/wiki/魏国 "wikilink")[曹操](../Page/曹操.md "wikilink")的对决故事。
 
 ## 故事背景
 
@@ -92,8 +90,4 @@
 
   - [决战2上级心得](http://www.sanguogame.com.cn/emu/emu-ps2-jz2-xd.html)
 
-[Category:2001年电子游戏](https://zh.wikipedia.org/wiki/Category:2001年电子游戏 "wikilink")
-[Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")
-[Category:三國題材電子遊戲](https://zh.wikipedia.org/wiki/Category:三國題材電子遊戲 "wikilink")
-[Category:光荣游戏](https://zh.wikipedia.org/wiki/Category:光荣游戏 "wikilink")
-[Category:即时战术游戏](https://zh.wikipedia.org/wiki/Category:即时战术游戏 "wikilink")
+[Category:2001年电子游戏](https://zh.wikipedia.org/wiki/Category:2001年电子游戏 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:三國題材電子遊戲](https://zh.wikipedia.org/wiki/Category:三國題材電子遊戲 "wikilink") [Category:光荣游戏](https://zh.wikipedia.org/wiki/Category:光荣游戏 "wikilink") [Category:即时战术游戏](https://zh.wikipedia.org/wiki/Category:即时战术游戏 "wikilink")

@@ -56,8 +56,6 @@
 
 ## 參考資料
 
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:楊乃文音樂專輯](https://zh.wikipedia.org/wiki/Category:楊乃文音樂專輯 "wikilink")
+[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:楊乃文音樂專輯](https://zh.wikipedia.org/wiki/Category:楊乃文音樂專輯 "wikilink")
 
 1.  [博客來專輯介紹](http://www.books.com.tw/exep/cdfile.php?item=0020175971)

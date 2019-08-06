@@ -8,8 +8,7 @@
 
 由於2009年賽季新規則的改變，不能使用完整的破風板，賽車尾翼可提高但長度須變窄，以及更寬且低的前翼，旨在減低空氣對賽車的干擾，從而使超車變得更加容易。\[2\]\[3\]自[1998年被禁用後](https://zh.wikipedia.org/wiki/1998年世界一級方程式錦標賽 "wikilink")，再度重返一級方程式。\[4\]這將預期為RB5的輪胎帶來約20%的抓地力。\[5\]
 
-而RB5也可能配有[動能回收系統](https://zh.wikipedia.org/wiki/動能回收系統 "wikilink")（KERS），這在煞車車輪空轉時，讓空轉的車輪驅動發電機回收一些能量，能透過車手方向盤上的一個升壓按鈕在每一圈重新使用。\[6\]這也是2009年賽季新規則所允許的。\[7\]紅牛最初試圖開發他們自己的系統，不過一場起因於電池過熱所造成的工廠大火，導致進展停滯。\[8\]
-之後紅牛在2009年1月宣布他們將會使用與[雷諾車隊相同的KERS系統](https://zh.wikipedia.org/wiki/雷諾車隊 "wikilink")，這也是與該隊在現有的引擎合約外的延伸。\[9\]然而RB5並沒有在比賽中使用KERS。
+而RB5也可能配有[動能回收系統](https://zh.wikipedia.org/wiki/動能回收系統 "wikilink")（KERS），這在煞車車輪空轉時，讓空轉的車輪驅動發電機回收一些能量，能透過車手方向盤上的一個升壓按鈕在每一圈重新使用。\[6\]這也是2009年賽季新規則所允許的。\[7\]紅牛最初試圖開發他們自己的系統，不過一場起因於電池過熱所造成的工廠大火，導致進展停滯。\[8\] 之後紅牛在2009年1月宣布他們將會使用與[雷諾車隊相同的KERS系統](https://zh.wikipedia.org/wiki/雷諾車隊 "wikilink")，這也是與該隊在現有的引擎合約外的延伸。\[9\]然而RB5並沒有在比賽中使用KERS。
 
 ## 2009年賽季
 
@@ -17,8 +16,7 @@
 
 RB5比大多數的對手來的晚推出，這使得他們以較短的測試時間來換取更長的研發時間。\[10\]紅牛期望RB5能比它的前代，在2008年僅有一次[頒獎台成績的](https://zh.wikipedia.org/wiki/领奖台#赛车运动中的运用 "wikilink")更具競爭力。\[11\]維泰爾當被問到這輛車的潛能時表示樂觀：
 
-賽巴斯蒂安·維泰爾（原[紅牛二隊車手](https://zh.wikipedia.org/wiki/紅牛二隊 "wikilink")）依照他的慣例，將他的紅牛RB5命名為「凱特」（Kate），而在[墨爾本的](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")[亞伯公園賽道發生碰撞後](https://zh.wikipedia.org/wiki/亞伯公園賽道 "wikilink")，他將他的新車命名為「凱特不聽話的妹妹」（Kate's
-Dirty Sister）。\[12\]\[13\]
+賽巴斯蒂安·維泰爾（原[紅牛二隊車手](https://zh.wikipedia.org/wiki/紅牛二隊 "wikilink")）依照他的慣例，將他的紅牛RB5命名為「凱特」（Kate），而在[墨爾本的](https://zh.wikipedia.org/wiki/墨爾本 "wikilink")[亞伯公園賽道發生碰撞後](https://zh.wikipedia.org/wiki/亞伯公園賽道 "wikilink")，他將他的新車命名為「凱特不聽話的妹妹」（Kate's Dirty Sister）。\[12\]\[13\]
 
 ### 測試
 
@@ -144,7 +142,7 @@ Dirty Sister）。\[12\]\[13\]
 </table>
 
 車手未完賽，但已完成賽事總里程的90%。
-由於未能完成原定賽程的75%，車手只有一半分數。
+ 由於未能完成原定賽程的75%，車手只有一半分數。
 
 ## 紐維禮物車
 
@@ -154,8 +152,7 @@ Dirty Sister）。\[12\]\[13\]
 
 ## 外部連結
 
-[Category:2009年一級方程式賽季車型](https://zh.wikipedia.org/wiki/Category:2009年一級方程式賽季車型 "wikilink")
-[Category:紅牛一級方程式車型](https://zh.wikipedia.org/wiki/Category:紅牛一級方程式車型 "wikilink")
+[Category:2009年一級方程式賽季車型](https://zh.wikipedia.org/wiki/Category:2009年一級方程式賽季車型 "wikilink") [Category:紅牛一級方程式車型](https://zh.wikipedia.org/wiki/Category:紅牛一級方程式車型 "wikilink")
 
 1.
 

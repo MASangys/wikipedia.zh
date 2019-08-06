@@ -1,7 +1,4 @@
-**APAN Star
-Awards**是於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[大田廣域市舉辦的一個電視節](https://zh.wikipedia.org/wiki/大田廣域市 "wikilink")，其首屆頒獎典禮名稱為「**K-Drama
-Star Awards**」，自第二屆起更名為「**APAN Star
-Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇的一個年度頒獎典禮](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，第一屆於2012年舉行。大田文化產業的院長為演員[李孝正](../Page/李孝正.md "wikilink")。第三屆於2014年11月12日至15日展開。
+**APAN Star Awards**是於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[大田廣域市舉辦的一個電視節](https://zh.wikipedia.org/wiki/大田廣域市 "wikilink")，其首屆頒獎典禮名稱為「**K-Drama Star Awards**」，自第二屆起更名為「**APAN Star Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇的一個年度頒獎典禮](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，第一屆於2012年舉行。大田文化產業的院長為演員[李孝正](../Page/李孝正.md "wikilink")。第三屆於2014年11月12日至15日展開。
 
 ## 歷屆獲獎名單
 

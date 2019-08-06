@@ -1,5 +1,4 @@
-**室女座DT**（**DT Virginis**），或稱為**羅斯458AB**（**Ross 458
-AB**），是一個位於[室女座](../Page/室女座.md "wikilink")的[聯星](../Page/聯星.md "wikilink")系統。該系統擁有一顆以直接攝影方式發現的[系外行星](https://zh.wikipedia.org/wiki/系外行星 "wikilink")。
+**室女座DT**（**DT Virginis**），或稱為**羅斯458AB**（**Ross 458 AB**），是一個位於[室女座](../Page/室女座.md "wikilink")的[聯星](../Page/聯星.md "wikilink")系統。該系統擁有一顆以直接攝影方式發現的[系外行星](https://zh.wikipedia.org/wiki/系外行星 "wikilink")。
 
 ## 行星系統
 
@@ -16,8 +15,4 @@ AB**），是一個位於[室女座](../Page/室女座.md "wikilink")的[聯星]
 
   - [Simbad](http://simbad.u-strasbg.fr/simbad/sim-id?protocol=html&Ident=DT+Vir&NbIdent=1&Radius=2&Radius.unit=arcmin&submit=submit+id)
 
-[Category:室女座](https://zh.wikipedia.org/wiki/Category:室女座 "wikilink")
-[Category:以变星命名法命名的天体](https://zh.wikipedia.org/wiki/Category:以变星命名法命名的天体 "wikilink")
-[Category:羅斯天體](https://zh.wikipedia.org/wiki/Category:羅斯天體 "wikilink")
-[Category:聯星](https://zh.wikipedia.org/wiki/Category:聯星 "wikilink")
-[Category:行星系](https://zh.wikipedia.org/wiki/Category:行星系 "wikilink")
+[Category:室女座](https://zh.wikipedia.org/wiki/Category:室女座 "wikilink") [Category:以变星命名法命名的天体](https://zh.wikipedia.org/wiki/Category:以变星命名法命名的天体 "wikilink") [Category:羅斯天體](https://zh.wikipedia.org/wiki/Category:羅斯天體 "wikilink") [Category:聯星](https://zh.wikipedia.org/wiki/Category:聯星 "wikilink") [Category:行星系](https://zh.wikipedia.org/wiki/Category:行星系 "wikilink")

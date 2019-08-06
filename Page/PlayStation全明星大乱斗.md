@@ -1,7 +1,4 @@
-《**PlayStation全明星大乱斗**》（），，是一款由SuperBot
-Entertainment开发，并由[索尼电脑娱乐发行在](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[PlayStation
-3及](../Page/PlayStation_3.md "wikilink")[PlayStation
-Vita双平台上的乱斗类](../Page/PlayStation_Vita.md "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")。本作将于2012年10月23日在北美发售。本作的形式极其类似于[任天堂明星大亂鬥系列](../Page/任天堂明星大亂鬥系列.md "wikilink")，所以也有将本作称之为“索尼全明星大乱斗”。
+《**PlayStation全明星大乱斗**》（），，是一款由SuperBot Entertainment开发，并由[索尼电脑娱乐发行在](https://zh.wikipedia.org/wiki/索尼电脑娱乐 "wikilink")[PlayStation 3及](../Page/PlayStation_3.md "wikilink")[PlayStation Vita双平台上的乱斗类](../Page/PlayStation_Vita.md "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")。本作将于2012年10月23日在北美发售。本作的形式极其类似于[任天堂明星大亂鬥系列](../Page/任天堂明星大亂鬥系列.md "wikilink")，所以也有将本作称之为“索尼全明星大乱斗”。
 
 ## 登场角色
 
@@ -133,14 +130,6 @@ Vita双平台上的乱斗类](../Page/PlayStation_Vita.md "wikilink")[格鬥遊�
   -
   - [《PlayStation全明星大乱斗》](http://asia.playstation.com/hk/cht/regional/gamedetails?id=14487)在PlayStation的页面
 
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink")
-[Category:索尼互動娛樂遊戲](https://zh.wikipedia.org/wiki/Category:索尼互動娛樂遊戲 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink")
-[Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink")
-[Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
-[Category:美国开发电子游戏](https://zh.wikipedia.org/wiki/Category:美国开发电子游戏 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
+[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink") [Category:索尼互動娛樂遊戲](https://zh.wikipedia.org/wiki/Category:索尼互動娛樂遊戲 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:電子遊戲跨界作品](https://zh.wikipedia.org/wiki/Category:電子遊戲跨界作品 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:美国开发电子游戏](https://zh.wikipedia.org/wiki/Category:美国开发电子游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
 1.

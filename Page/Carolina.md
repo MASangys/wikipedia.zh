@@ -9,20 +9,17 @@
 
   - ，英國至1729年為止的殖民地
 
-  - [卡罗来纳
-    (阿拉巴马州)](https://zh.wikipedia.org/wiki/卡罗来纳_\(阿拉巴马州\) "wikilink")，美國市鎮
+  - [卡罗来纳 (阿拉巴马州)](https://zh.wikipedia.org/wiki/卡罗来纳_\(阿拉巴马州\) "wikilink")，美國市鎮
 
   -
   -
   -
-  - [卡羅利納
-    (波多黎各)](https://zh.wikipedia.org/wiki/卡羅利納_\(波多黎各\) "wikilink")，波多黎各聚居地
+  - [卡羅利納 (波多黎各)](https://zh.wikipedia.org/wiki/卡羅利納_\(波多黎各\) "wikilink")，波多黎各聚居地
 
   -
   - [卡罗利纳 (巴西)](../Page/卡罗利纳_\(巴西\).md "wikilink")，巴西城市
 
-  - [卡羅利納
-    (南非)](https://zh.wikipedia.org/wiki/卡羅利納_\(南非\) "wikilink")，南非市鎮
+  - [卡羅利納 (南非)](https://zh.wikipedia.org/wiki/卡羅利納_\(南非\) "wikilink")，南非市鎮
 
   - ，蘇利南市鎮
 

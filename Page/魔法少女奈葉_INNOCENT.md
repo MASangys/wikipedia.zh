@@ -4,8 +4,7 @@
 
 ## 概要
 
-與以往[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")的其它作品不同，本次故事與原作不同的平行世界，地區城市的研究者開發出了前所未見的全新體感模擬遊戲「Brave
-Duel」（在此簡稱**BD**），襲捲了全世界。私立海聖小學四年級的小學生高町奈葉，與好友亞麗沙·巴寧斯及月村鈴香一同踏入了這個遊戲，開始了與過往系列不同的冒險故事。
+與以往[魔法少女奈葉系列](../Page/魔法少女奈葉系列.md "wikilink")的其它作品不同，本次故事與原作不同的平行世界，地區城市的研究者開發出了前所未見的全新體感模擬遊戲「Brave Duel」（在此簡稱**BD**），襲捲了全世界。私立海聖小學四年級的小學生高町奈葉，與好友亞麗沙·巴寧斯及月村鈴香一同踏入了這個遊戲，開始了與過往系列不同的冒險故事。
 
 ## 登場角色
 
@@ -208,12 +207,10 @@ Duel」（在此簡稱**BD**），襲捲了全世界。私立海聖小學四年�
 ### 未来世界和原作世界
 
   -
-    未来世界的Brave
-    Duel玩家，奈叶的女儿，圣希尔德学院初等科4年级学生，因为斯卡利艾迪的研究所失控系统，她和艾茵哈特被回到过去。杰尔·斯卡利艾迪叫她和艾茵哈特走去八神堂来收集资料。
+    未来世界的Brave Duel玩家，奈叶的女儿，圣希尔德学院初等科4年级学生，因为斯卡利艾迪的研究所失控系统，她和艾茵哈特被回到过去。杰尔·斯卡利艾迪叫她和艾茵哈特走去八神堂来收集资料。
 
   -
-    未来世界的Brave
-    Duel玩家，薇薇欧的好朋友，圣希尔德学院中等科一年级学生，因为斯卡利艾迪的研究所失控系统，她和薇薇欧被回到过去。杰尔·斯卡利艾迪叫她和薇薇欧走去八神堂来收集资料。
+    未来世界的Brave Duel玩家，薇薇欧的好朋友，圣希尔德学院中等科一年级学生，因为斯卡利艾迪的研究所失控系统，她和薇薇欧被回到过去。杰尔·斯卡利艾迪叫她和薇薇欧走去八神堂来收集资料。
 
   -
     未来世界的Brave Duel玩家，薇薇欧和艾茵哈特的好朋友。
@@ -410,9 +407,7 @@ Duel」（在此簡稱**BD**），襲捲了全世界。私立海聖小學四年�
 
 ## 漫畫
 
-由川上修一作畫的漫画于2012年9月號开始在[ASCII Media
-Works的杂志](../Page/ASCII_Media_Works.md "wikilink")《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》上连载，漫画的标题也为《魔法少女リリカルなのはINNOCENT
-》。\[1\]漫画于2013年8月15日\[2\]至10月26日\[3\]发售兩本单行本，並持續連載中。
+由川上修一作畫的漫画于2012年9月號开始在[ASCII Media Works的杂志](../Page/ASCII_Media_Works.md "wikilink")《[月刊Comic電擊大王](../Page/月刊Comic電擊大王.md "wikilink")》上连载，漫画的标题也为《魔法少女リリカルなのはINNOCENT 》。\[1\]漫画于2013年8月15日\[2\]至10月26日\[3\]发售兩本单行本，並持續連載中。
 
 | 卷号  | 发售日期        | ISBN                   |
 | --- | ----------- | ---------------------- |
@@ -434,9 +429,7 @@ Works的杂志](../Page/ASCII_Media_Works.md "wikilink")《[月刊Comic電擊大
 
 [《魔法少女奈葉INNOCENT》官方首頁](http://nanohain.com/)
 
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink")
-[Category:移动电话游戏](https://zh.wikipedia.org/wiki/Category:移动电话游戏 "wikilink")
+[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:月刊Comp_Ace](https://zh.wikipedia.org/wiki/Category:月刊Comp_Ace "wikilink") [Category:移动电话游戏](https://zh.wikipedia.org/wiki/Category:移动电话游戏 "wikilink")
 
 1.
 2.

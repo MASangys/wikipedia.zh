@@ -1,9 +1,4 @@
-**N-SONIC**（），是[韓國六人](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，在2011年出道，成員包括J-Heart、Minkee、Sihoo、Byul、Zion以及
-BongJun，所屬公司為[韓國C](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")2K
-Entertainment及[香港](../Page/香港.md "wikilink")SG
-Music。2011年10月6日正式出道，出道作品為《We are Super
-Boys》。在2013年10月發表的迷你專輯《Into the Light》，主打歌《RUN &
-RUN》數個版本的點擊率亦有15萬，專輯亦積極爭取電視的曝光率。粉絲名為SuperSonic。
+**N-SONIC**（），是[韓國六人](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，在2011年出道，成員包括J-Heart、Minkee、Sihoo、Byul、Zion以及 BongJun，所屬公司為[韓國C](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")2K Entertainment及[香港](../Page/香港.md "wikilink")SG Music。2011年10月6日正式出道，出道作品為《We are Super Boys》。在2013年10月發表的迷你專輯《Into the Light》，主打歌《RUN & RUN》數個版本的點擊率亦有15萬，專輯亦積極爭取電視的曝光率。粉絲名為SuperSonic。
 
 2016年5月23日，C2K娛樂指出團員自5月9日斷絕聯絡，並在17日提出解約，公司會採取法律行動\[1\]\[2\]。
 
@@ -42,25 +37,20 @@ N-SONIC是創新的意思，N 是 Neo 的意思，SONIC 則是音速。
   - 2013年3月 Concert in Tokyo, Japan
   - 2013年5月 2nd single “Lie” released
   - 2013年6月 Concert in Tokyo, Japan
-  - 2013年7月 Malaysia movie "ahbeng 2" cameo appearances scheduled for
-    release in January 2014
+  - 2013年7月 Malaysia movie "ahbeng 2" cameo appearances scheduled for release in January 2014
   - 2013年7月 The 16th Boryeong "Mud Festival" appointed ambassador
   - 2013年9月 Concert in Tokyo, Japan
   - 2013年10月 2nd Mini Album“Into The Light”released
-  - 2013年11月 Child Protection Project "Rainbow Project" appointed
-    ambassador
+  - 2013年11月 Child Protection Project "Rainbow Project" appointed ambassador
   - 2013年12月 Concert in Tokyo, Japan
   - 2014年1月 Concert in Osaka, Japan \[3\]
   - 2014.03 Asian-Pop Music Festival 2014 – BEST STAGE PERFORMANCE AWARD
   - 2014.06 We Love Korea 2014 Dream Concert at Seoul World Cup Stadium
   - 2014.07 1st Chinese album “Reset” released
-  - 2014.08 Metro Radio Mandarin Hits Music Awards Presentation 2014 –
-    Dance Music Award & Asia Buzz Award
-  - 2014.08 Judge and guest of K-POP Cover Dance Festival (HK, India and
-    Korea)
+  - 2014.08 Metro Radio Mandarin Hits Music Awards Presentation 2014 – Dance Music Award & Asia Buzz Award
+  - 2014.08 Judge and guest of K-POP Cover Dance Festival (HK, India and Korea)
   - 2014.11 Won Music Pioneer 2014 “碰碰網網上最佳人氣先鋒組合” Award
-  - 2014.12 Won Metro Radio Hits Music Awards Presentation 2014 “Asian
-    New Talent”及 “Mandarin Song”Awards
+  - 2014.12 Won Metro Radio Hits Music Awards Presentation 2014 “Asian New Talent”及 “Mandarin Song”Awards
   - 2015.03 3rd Mini Album《Another Progress》released
   - 2015.04 Spokesperson of Watsons Water (Greater China Region)
 
@@ -375,18 +365,8 @@ N-SONIC是創新的意思，N 是 Neo 的意思，SONIC 則是音速。
 
 ## 參考資料
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
-[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
-[Category:2016年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年解散的音樂團體 "wikilink")
-[Category:2011年韓國建立](https://zh.wikipedia.org/wiki/Category:2011年韓國建立 "wikilink")
-[Category:2016年韓國廢除](https://zh.wikipedia.org/wiki/Category:2016年韓國廢除 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink") [Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink") [Category:2016年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年解散的音樂團體 "wikilink") [Category:2011年韓國建立](https://zh.wikipedia.org/wiki/Category:2011年韓國建立 "wikilink") [Category:2016年韓國廢除](https://zh.wikipedia.org/wiki/Category:2016年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
-1.  [엔소닉 소속사 측 “멤버 전원 잠적...법적 대응 준비 중”
-    ［공식입장］](http://entertain.naver.com/read?oid=382&aid=0000475369)
-2.  [全員斷絕聯繫！N-SONIC經紀公司：收到單方面解約通報](http://www.vlovekpop.com/20160524-nsonic/)
-    vlovekpop
-3.  [N-SONIC韩流代表火爆日本
-    最新单曲2月发布](http://china.ajunews.com/view/20140110125509142)
+1.  [엔소닉 소속사 측 “멤버 전원 잠적...법적 대응 준비 중” ［공식입장］](http://entertain.naver.com/read?oid=382&aid=0000475369)
+2.  [全員斷絕聯繫！N-SONIC經紀公司：收到單方面解約通報](http://www.vlovekpop.com/20160524-nsonic/) vlovekpop
+3.  [N-SONIC韩流代表火爆日本 最新单曲2月发布](http://china.ajunews.com/view/20140110125509142)

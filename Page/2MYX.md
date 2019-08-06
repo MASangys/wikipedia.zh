@@ -1,11 +1,8 @@
-**《2MYX》**（）是韓國人氣男子組合[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")，於2012年11月19日由[DSP
-Media企劃](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")/CJ E\&M
-Music所發行的首張迷你專輯。
+**《2MYX》**（）是韓國人氣男子組合[A-JAX](https://zh.wikipedia.org/wiki/A-JAX_\(組合\) "wikilink")，於2012年11月19日由[DSP Media企劃](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")/CJ E\&M Music所發行的首張迷你專輯。
 
 ## 發行過程
 
-在正式發行專輯前A-JAX先以張貼著具有刺激性標語的海報在江南、弘大、汝矣島、蠶室等首爾全市內進行宣傳\[1\]。其後通過其官方CAFE在2012年11月12日宣布於11月15日時隔6個月回歸韓國發行名為《2MYX》的首張迷你專輯，並以同名主打歌曲“2MYX”化身90年代末懷舊感的組合，顯現A-JAX不同以往的成長。於發行當日演出[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")「[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」首場的回歸舞台後展開一連串的宣傳行程，同日公開線上音源\[2\]。11月19日實體專輯於各大販售通路上架。
+在正式發行專輯前A-JAX先以張貼著具有刺激性標語的海報在江南、弘大、汝矣島、蠶室等首爾全市內進行宣傳\[1\]。其後通過其官方CAFE在2012年11月12日宣布於11月15日時隔6個月回歸韓國發行名為《2MYX》的首張迷你專輯，並以同名主打歌曲“2MYX”化身90年代末懷舊感的組合，顯現A-JAX不同以往的成長。於發行當日演出[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")「[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」首場的回歸舞台後展開一連串的宣傳行程，同日公開線上音源\[2\]。11月19日實體專輯於各大販售通路上架。
 
 ## 音樂錄影帶
 
@@ -13,9 +10,7 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」首場的回
 
 ## 造型
 
-  - 服裝造型概念分為〈Bad Boy〉和〈Romantic Guy〉兩種形式。**Bad
-    Boy**的概念主要是在舞台上以深色西裝搭配大膽的配件使人聯想到麥克·傑克森的裝扮彰顯七人不同特色的男性美，傳達極具吸引力又可惡的形象。而透過專輯寫真翻轉為清新的**Romantic
-    Guy**形象，成員們身穿開襟的針織外衣就像是可愛親切的男朋友般展現不同的造型元素。
+  - 服裝造型概念分為〈Bad Boy〉和〈Romantic Guy〉兩種形式。**Bad Boy**的概念主要是在舞台上以深色西裝搭配大膽的配件使人聯想到麥克·傑克森的裝扮彰顯七人不同特色的男性美，傳達極具吸引力又可惡的形象。而透過專輯寫真翻轉為清新的**Romantic Guy**形象，成員們身穿開襟的針織外衣就像是可愛親切的男朋友般展現不同的造型元素。
 
 ## 曲目
 
@@ -49,27 +44,15 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」首場的回
 <!-- end list -->
 
 1.  **2MYX**
-      - 作詞：차용운, ZigZag Note；作曲：Kalle Engstrom , John Lundvik , Andreas
-        Oberg
+      - 作詞：차용운, ZigZag Note；作曲：Kalle Engstrom , John Lundvik , Andreas Oberg
     <!-- end list -->
       -
-        主打歌曲，全意：「To. My
-        Ex-Girlfriend」。此曲由曾為[新好男孩製作歌曲](https://zh.wikipedia.org/wiki/新好男孩 "wikilink")"I
-        Want It That
-        Way"與[Nsync](https://zh.wikipedia.org/wiki/Nsync "wikilink")"Bye,
-        Bye, Bye"的作曲家Kalle
-        Engstrom所創作,同時他也是[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")"Run
-        Devil Run"的作曲者 ，因兩首曲目皆由相同的作曲家製作而有了〈2MYX〉應是在"Run Devil
-        Run"中以'魔鬼'的觀點應答的作品。歌曲描述的是“魔鬼”承認自己是一個壞男孩並對心愛的女人背叛自己做出的回答，有某些部分的歌詞完全是與"Run
-        Devil Run"對立\[3\]。此外，歌曲運用了麥克·傑克森的經典旋律，並配合了麥克·傑克森的經典舞步。
+        主打歌曲，全意：「To. My Ex-Girlfriend」。此曲由曾為[新好男孩製作歌曲](https://zh.wikipedia.org/wiki/新好男孩 "wikilink")"I Want It That Way"與[Nsync](https://zh.wikipedia.org/wiki/Nsync "wikilink")"Bye, Bye, Bye"的作曲家Kalle Engstrom所創作,同時他也是[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")"Run Devil Run"的作曲者 ，因兩首曲目皆由相同的作曲家製作而有了〈2MYX〉應是在"Run Devil Run"中以'魔鬼'的觀點應答的作品。歌曲描述的是“魔鬼”承認自己是一個壞男孩並對心愛的女人背叛自己做出的回答，有某些部分的歌詞完全是與"Run Devil Run"對立\[3\]。此外，歌曲運用了麥克·傑克森的經典旋律，並配合了麥克·傑克森的經典舞步。
 2.  **來抓我吧(Catch Me If You Can)**<small>（）</small>
       - 作詞：멜로우 (Mellow)；作曲：Steven Lee , Jimmy Richard ；編曲：Steven Lee
     <!-- end list -->
       -
-        該曲由為A-JAX製作出道單曲[ONE 4 U與](../Page/ONE_4_U.md "wikilink")[HOT
-        GAME的作曲家暨製作人Steven](../Page/HOT_GAME.md "wikilink")
-        Lee和知名作曲者Jimmy
-        Richard共同譜曲的快節奏歌曲。是首混合了club節奏和合成電子樂的原創舞曲。
+        該曲由為A-JAX製作出道單曲[ONE 4 U與](../Page/ONE_4_U.md "wikilink")[HOT GAME的作曲家暨製作人Steven](../Page/HOT_GAME.md "wikilink") Lee和知名作曲者Jimmy Richard共同譜曲的快節奏歌曲。是首混合了club節奏和合成電子樂的原創舞曲。
 3.  **Your Song (你的歌)**<small>（）</small>
       - 作詞／作曲：Steven Lee；編曲：Steven Lee , Charm
     <!-- end list -->
@@ -177,15 +160,11 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」首場的回
 
 ## 外部連結
 
-  - [A-JAX STORY - '2MYX' MV
-    拍攝現場官方短片](http://www.youtube.com/watch?v=HjlsHEm9aPI)
+  - [A-JAX STORY - '2MYX' MV 拍攝現場官方短片](http://www.youtube.com/watch?v=HjlsHEm9aPI)
 
-  - [A-JAX STORY - 2MYX
-    封面拍攝現場官方短片](http://www.youtube.com/watch?v=78fMZgXvfbs)
+  - [A-JAX STORY - 2MYX 封面拍攝現場官方短片](http://www.youtube.com/watch?v=78fMZgXvfbs)
 
-[Category:A-JAX音樂專輯](https://zh.wikipedia.org/wiki/Category:A-JAX音樂專輯 "wikilink")
-[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:A-JAX音樂專輯](https://zh.wikipedia.org/wiki/Category:A-JAX音樂專輯 "wikilink") [Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
 1.
 2.

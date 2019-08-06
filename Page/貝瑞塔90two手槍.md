@@ -1,5 +1,4 @@
-**貝瑞塔90two**（）是一款由[意大利](../Page/意大利.md "wikilink")的槍械製造商[貝瑞塔](../Page/貝瑞塔.md "wikilink")為個人防衛和[執法機關使用而設計和生產的](../Page/警察.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，它在2006年的（美國著名槍展）之中，以[貝瑞塔92的增強版本之名推出](../Page/貝瑞塔92手槍.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、和[.40
-S\&W這三種](../Page/.40_S&W.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+**貝瑞塔90two**（）是一款由[意大利](../Page/意大利.md "wikilink")的槍械製造商[貝瑞塔](../Page/貝瑞塔.md "wikilink")為個人防衛和[執法機關使用而設計和生產的](../Page/警察.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，它在2006年的（美國著名槍展）之中，以[貝瑞塔92的增強版本之名推出](../Page/貝瑞塔92手槍.md "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、和[.40 S\&W這三種](../Page/.40_S&W.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 設計細節
 
@@ -37,8 +36,7 @@ S\&W這三種](../Page/.40_S&W.md "wikilink")[手枪](../Page/手枪.md "wikilin
 
 ### 供彈方式
 
-貝瑞塔90two系列手槍的彈匣由Mec-Gar公司製造。[9×19毫米魯格彈](../Page/9×19mm魯格彈.md "wikilink")[口徑的貝瑞塔](https://zh.wikipedia.org/wiki/口徑 "wikilink")90two的彈匣容量是單排式10發和雙排式15、17、20發（20發需要使用延長彈匣底座）；90two的9×21毫米IMI子彈為雙排式15發；而90two的.40
-S\&W子彈則為雙排式10、12發。托彈簧較短，彈匣托彈板經改進，令壓縮後高度低於92FS，在相同尺寸以下有多裝2發[彈藥的空間](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。[彈匣卡筍的位置仍然設置在扳機護圈和握把的連接部位](https://zh.wikipedia.org/wiki/彈匣卡筍 "wikilink")，不過其形狀變得更易於操作。\[7\]
+貝瑞塔90two系列手槍的彈匣由Mec-Gar公司製造。[9×19毫米魯格彈](../Page/9×19mm魯格彈.md "wikilink")[口徑的貝瑞塔](https://zh.wikipedia.org/wiki/口徑 "wikilink")90two的彈匣容量是單排式10發和雙排式15、17、20發（20發需要使用延長彈匣底座）；90two的9×21毫米IMI子彈為雙排式15發；而90two的.40 S\&W子彈則為雙排式10、12發。托彈簧較短，彈匣托彈板經改進，令壓縮後高度低於92FS，在相同尺寸以下有多裝2發[彈藥的空間](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。[彈匣卡筍的位置仍然設置在扳機護圈和握把的連接部位](https://zh.wikipedia.org/wiki/彈匣卡筍 "wikilink")，不過其形狀變得更易於操作。\[7\]
 
 ### 附件
 
@@ -50,8 +48,7 @@ S\&W子彈則為雙排式10、12發。托彈簧較短，彈匣托彈板經改進
 
 ### 口徑
 
-貝瑞塔90two系列手槍具有[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、和[.40
-S\&W](../Page/.40_S&W.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，並且分為F型、G型或D型型號。型號名稱和編號並不表示口徑。
+貝瑞塔90two系列手槍具有[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")、和[.40 S\&W](../Page/.40_S&W.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")，並且分為F型、G型或D型型號。型號名稱和編號並不表示口徑。
 
 ### 型號
 
@@ -88,79 +85,33 @@ D型型號是貝瑞塔90two系列的純雙動操作扳機（，簡稱：DAO）�
 
 ### 电影
 
-  - 2010年—《[-{zh-cn:赤焰战场; zh-tw:超危險特工;
-    zh-hk:超危險特工;}-](../Page/超危險特工.md "wikilink")》（RED）：被領導CIA的戰術官員（[賈森·溫伯格飾演](https://zh.wikipedia.org/wiki/賈森·溫伯格 "wikilink")）和亞歷山大·鄧寧（Alexander
-    Dunning，[李察·德雷福斯](../Page/李察·德雷福斯.md "wikilink")飾演）所使用。
-  - 2010年—《[-{zh:惡靈古堡4：陰陽界; zh-tw:惡靈古堡4：陰陽界; zh-hk:生化危機3D：戰神再生;
-    zh-cn:生化危机4：战神再生;}-](../Page/生化危機4：陰陽界.md "wikilink")》（Resident
-    Evil:
-    Afterlife）：被[克蕾兒·雷德費爾](https://zh.wikipedia.org/wiki/克蕾兒·雷德費爾 "wikilink")（Claire
-    Redfield，[艾丽·拉特](../Page/艾丽·拉特.md "wikilink")飾演）所使用。
-  - 2011年—《[-{zh-cn:致命黑兰; zh-tw:黑蘭煞;
-    zh-hk:魅影殺機;}-](../Page/黑蘭煞.md "wikilink")》（Colombiana）：被嘉德麗雅（Cataleya，[阿曼達拉·史坦堡飾演](https://zh.wikipedia.org/wiki/阿曼達拉·史坦堡 "wikilink")）和唐路易的部下馬可（Marco，[詹迪·莫拉飾演](https://zh.wikipedia.org/wiki/詹迪·莫拉 "wikilink")）在最後的槍戰中所使用。
-  - 2012年—《[-{zh-cn:全面回忆; zh-tw:攔截記憶碼;
-    zh-hk:新宇宙威龍;}-](../Page/全面回忆_\(2012年电影\).md "wikilink")》（Total
-    Recall
-    2012）：裝上額外[槍口補償器和](https://zh.wikipedia.org/wiki/槍口補償器 "wikilink")[可全自動射擊並且被梅琳娜](../Page/全自動手槍.md "wikilink")（Melina，[-{zh-hans:杰西卡·贝尔;
-    zh-hk:謝茜嘉·比爾;
-    zh-tw:潔西卡·貝兒;}-飾演](../Page/謝茜嘉·比爾.md "wikilink")）、道格·奎德（Douglas
-    "Doug" Quaid，[-{zh-hans:科林·法瑞尔; zh-hk:哥連·費路;
-    zh-tw:柯林·法洛;}-飾演](../Page/科林·法雷尔.md "wikilink")）和哈利（Harry，[帕金斯·伍德拜恩飾演](https://zh.wikipedia.org/wiki/帕金斯·伍德拜恩 "wikilink")）所使用。
-  - 2012年—《[-{zh:即刻救援; zh-cn:飓风营救; zh-tw:即刻救援;
-    zh-hk:救參96小時;}-2](../Page/即刻救援2.md "wikilink")》（Taken
-    2）：被琴·米爾斯（Kim
-    Mills，[瑪姬·葛瑞斯飾演](https://zh.wikipedia.org/wiki/瑪姬·葛瑞斯 "wikilink")）從槍盒裡拿出，另一把亦被布萊恩·米爾斯（Bryan
-    Mills，[-{zh-hans:连姆·尼森; zh-hk:里安納遜;
-    zh-tw:連恩·尼遜;}-飾演](../Page/連恩·尼遜.md "wikilink")）所使用。
+  - 2010年—《[-{zh-cn:赤焰战场; zh-tw:超危險特工; zh-hk:超危險特工;}-](../Page/超危險特工.md "wikilink")》（RED）：被領導CIA的戰術官員（[賈森·溫伯格飾演](https://zh.wikipedia.org/wiki/賈森·溫伯格 "wikilink")）和亞歷山大·鄧寧（Alexander Dunning，[李察·德雷福斯](../Page/李察·德雷福斯.md "wikilink")飾演）所使用。
+  - 2010年—《[-{zh:惡靈古堡4：陰陽界; zh-tw:惡靈古堡4：陰陽界; zh-hk:生化危機3D：戰神再生; zh-cn:生化危机4：战神再生;}-](../Page/生化危機4：陰陽界.md "wikilink")》（Resident Evil: Afterlife）：被[克蕾兒·雷德費爾](https://zh.wikipedia.org/wiki/克蕾兒·雷德費爾 "wikilink")（Claire Redfield，[艾丽·拉特](../Page/艾丽·拉特.md "wikilink")飾演）所使用。
+  - 2011年—《[-{zh-cn:致命黑兰; zh-tw:黑蘭煞; zh-hk:魅影殺機;}-](../Page/黑蘭煞.md "wikilink")》（Colombiana）：被嘉德麗雅（Cataleya，[阿曼達拉·史坦堡飾演](https://zh.wikipedia.org/wiki/阿曼達拉·史坦堡 "wikilink")）和唐路易的部下馬可（Marco，[詹迪·莫拉飾演](https://zh.wikipedia.org/wiki/詹迪·莫拉 "wikilink")）在最後的槍戰中所使用。
+  - 2012年—《[-{zh-cn:全面回忆; zh-tw:攔截記憶碼; zh-hk:新宇宙威龍;}-](../Page/全面回忆_\(2012年电影\).md "wikilink")》（Total Recall 2012）：裝上額外[槍口補償器和](https://zh.wikipedia.org/wiki/槍口補償器 "wikilink")[可全自動射擊並且被梅琳娜](../Page/全自動手槍.md "wikilink")（Melina，[-{zh-hans:杰西卡·贝尔; zh-hk:謝茜嘉·比爾; zh-tw:潔西卡·貝兒;}-飾演](../Page/謝茜嘉·比爾.md "wikilink")）、道格·奎德（Douglas "Doug" Quaid，[-{zh-hans:科林·法瑞尔; zh-hk:哥連·費路; zh-tw:柯林·法洛;}-飾演](../Page/科林·法雷尔.md "wikilink")）和哈利（Harry，[帕金斯·伍德拜恩飾演](https://zh.wikipedia.org/wiki/帕金斯·伍德拜恩 "wikilink")）所使用。
+  - 2012年—《[-{zh:即刻救援; zh-cn:飓风营救; zh-tw:即刻救援; zh-hk:救參96小時;}-2](../Page/即刻救援2.md "wikilink")》（Taken 2）：被琴·米爾斯（Kim Mills，[瑪姬·葛瑞斯飾演](https://zh.wikipedia.org/wiki/瑪姬·葛瑞斯 "wikilink")）從槍盒裡拿出，另一把亦被布萊恩·米爾斯（Bryan Mills，[-{zh-hans:连姆·尼森; zh-hk:里安納遜; zh-tw:連恩·尼遜;}-飾演](../Page/連恩·尼遜.md "wikilink")）所使用。
   - 2014年—《[-{zh:zh:三日杀戮;zh-hk:3日限殺令;zh-tw:特務殺很大;}-](../Page/三日杀戮.md "wikilink")》：被白化（Albino，[托馬·勒瑪奎飾演](https://zh.wikipedia.org/wiki/托馬·勒瑪奎 "wikilink")）和其手下所使用。
-  - 2015年—《[-{zh:即刻救援; zh-cn:飓风营救; zh-tw:即刻救援;
-    zh-hk:救參96小時;}-3](../Page/即刻救援3.md "wikilink")》：裝上延長彈匣，被奧列格·馬蘭卡夫（Oleg
-    Malankov，[山姆·斯普盧爾飾演](https://zh.wikipedia.org/wiki/山姆·斯普盧爾 "wikilink")）所使用。
-  - 2015年—《[復仇者聯盟2：奧創紀元](https://zh.wikipedia.org/wiki/復仇者聯盟2：奧創紀元 "wikilink")》：被尤利西斯·克劳（Ulysses
-    Klaue，[安迪·瑟金斯飾演](https://zh.wikipedia.org/wiki/安迪·瑟金斯 "wikilink")）所使用。
+  - 2015年—《[-{zh:即刻救援; zh-cn:飓风营救; zh-tw:即刻救援; zh-hk:救參96小時;}-3](../Page/即刻救援3.md "wikilink")》：裝上延長彈匣，被奧列格·馬蘭卡夫（Oleg Malankov，[山姆·斯普盧爾飾演](https://zh.wikipedia.org/wiki/山姆·斯普盧爾 "wikilink")）所使用。
+  - 2015年—《[復仇者聯盟2：奧創紀元](https://zh.wikipedia.org/wiki/復仇者聯盟2：奧創紀元 "wikilink")》：被尤利西斯·克劳（Ulysses Klaue，[安迪·瑟金斯飾演](https://zh.wikipedia.org/wiki/安迪·瑟金斯 "wikilink")）所使用。
 
 ### 电视剧
 
-  - 2007年—《[-{zh-cn:超市特工; zh-hk:特務阿七;
-    zh-tw:宅男特務}-](../Page/超市特工.md "wikilink")》（Chuck）：
-      - 2010年10月18日第4季第5集（總集數為第59集）“-{zh-hans:查克; zh-hant:查克; zh-tw:查克;
-        zh-hk:阿七; zh-mo:阿七;}-決戰沙發鎖”（），被-{zh-hans:凱西; zh-hant:凱西;
-        zh-tw:凱西; zh-hk:祈仲禮; zh-mo:祈仲禮;}-的前隊友麥金托什（Mackintosh，飾演）所使用。
-      - 自2010年10月25日第4季第6集（總集數為第60集）“-{zh-hans:查克; zh-hant:查克; zh-tw:查克;
-        zh-hk:阿七; zh-mo:阿七;}-決戰恐怖走道”（）開始，裝上延長彈匣並且被-{zh-hans:查克;
-        zh-hant:查克; zh-tw:查克; zh-hk:鮑阿七; zh-mo:鮑阿七;}-的母親瑪麗·基查克（Mary
-        Bartowski，[-{zh-cn:琳达·汉密尔顿; zh-tw:琳達·漢密爾頓; zh-hk:蓮達·咸美頓;
-        zh-mo:蓮達·咸美頓}-飾演](../Page/琳達·漢密爾頓.md "wikilink")）所使用。
-      - 2012年1月27日第5季第13集（總集數為第91集）“-{zh-hans:查克; zh-hant:查克; zh-tw:查克;
-        zh-hk:阿七; zh-mo:阿七;}-決戰再見”（），裝上延長彈匣並且被-{zh-hans:查克; zh-hant:查克;
-        zh-tw:查克; zh-hk:鮑阿七; zh-mo:鮑阿七;}-的母親瑪麗·基查克（Mary
-        Bartowski，[-{zh-cn:琳达·汉密尔顿; zh-tw:琳達·漢密爾頓; zh-hk:蓮達·咸美頓;
-        zh-mo:蓮達·咸美頓}-飾演](../Page/琳達·漢密爾頓.md "wikilink")）所使用。
+  - 2007年—《[-{zh-cn:超市特工; zh-hk:特務阿七; zh-tw:宅男特務}-](../Page/超市特工.md "wikilink")》（Chuck）：
+      - 2010年10月18日第4季第5集（總集數為第59集）“-{zh-hans:查克; zh-hant:查克; zh-tw:查克; zh-hk:阿七; zh-mo:阿七;}-決戰沙發鎖”（），被-{zh-hans:凱西; zh-hant:凱西; zh-tw:凱西; zh-hk:祈仲禮; zh-mo:祈仲禮;}-的前隊友麥金托什（Mackintosh，飾演）所使用。
+      - 自2010年10月25日第4季第6集（總集數為第60集）“-{zh-hans:查克; zh-hant:查克; zh-tw:查克; zh-hk:阿七; zh-mo:阿七;}-決戰恐怖走道”（）開始，裝上延長彈匣並且被-{zh-hans:查克; zh-hant:查克; zh-tw:查克; zh-hk:鮑阿七; zh-mo:鮑阿七;}-的母親瑪麗·基查克（Mary Bartowski，[-{zh-cn:琳达·汉密尔顿; zh-tw:琳達·漢密爾頓; zh-hk:蓮達·咸美頓; zh-mo:蓮達·咸美頓}-飾演](../Page/琳達·漢密爾頓.md "wikilink")）所使用。
+      - 2012年1月27日第5季第13集（總集數為第91集）“-{zh-hans:查克; zh-hant:查克; zh-tw:查克; zh-hk:阿七; zh-mo:阿七;}-決戰再見”（），裝上延長彈匣並且被-{zh-hans:查克; zh-hant:查克; zh-tw:查克; zh-hk:鮑阿七; zh-mo:鮑阿七;}-的母親瑪麗·基查克（Mary Bartowski，[-{zh-cn:琳达·汉密尔顿; zh-tw:琳達·漢密爾頓; zh-hk:蓮達·咸美頓; zh-mo:蓮達·咸美頓}-飾演](../Page/琳達·漢密爾頓.md "wikilink")）所使用。
 
 ### 电脑游戏
 
-  - 2010年—《[-{zh-cn:暴雨; zh-hk:暴雨殺機;
-    zh-tw:暴雨殺機;}-](../Page/暴雨殺機.md "wikilink")》（Heavy
-    Rain）：被私家偵探史考特·謝爾比（Scott
-    Shelby）、傑登（Jayden）、[SWAT和克萊默的豪宅保鏢作為](../Page/特種武器和戰術部隊.md "wikilink")所使用。
+  - 2010年—《[-{zh-cn:暴雨; zh-hk:暴雨殺機; zh-tw:暴雨殺機;}-](../Page/暴雨殺機.md "wikilink")》（Heavy Rain）：被私家偵探史考特·謝爾比（Scott Shelby）、傑登（Jayden）、[SWAT和克萊默的豪宅保鏢作為](../Page/特種武器和戰術部隊.md "wikilink")所使用。
 
 ### 動漫
 
-  - 2005年—《[聖魔之血](../Page/聖魔之血.md "wikilink")》（トリニティ・ブラッド，Trinity
-    Blood）：裝上[槍口制退器](../Page/砲口制動器.md "wikilink")（射擊會出現[十字架](../Page/十字架.md "wikilink")形）和[復進簧導桿內置式](https://zh.wikipedia.org/wiki/復進簧導桿 "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")，命名為「傑立寇M13神怒之日大型自動手槍」，被稱為「世界上最大型個人手槍」，發射「13毫米512千里馬」[銀](../Page/銀.md "wikilink")子彈，被托雷士‧伊庫斯（Tres
-    Iqus）＝神槍手（Gunslinger）所使用，[雙持](../Page/雙持.md "wikilink")。
+  - 2005年—《[聖魔之血](../Page/聖魔之血.md "wikilink")》（トリニティ・ブラッド，Trinity Blood）：裝上[槍口制退器](../Page/砲口制動器.md "wikilink")（射擊會出現[十字架](../Page/十字架.md "wikilink")形）和[復進簧導桿內置式](https://zh.wikipedia.org/wiki/復進簧導桿 "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")，命名為「傑立寇M13神怒之日大型自動手槍」，被稱為「世界上最大型個人手槍」，發射「13毫米512千里馬」[銀](../Page/銀.md "wikilink")子彈，被托雷士‧伊庫斯（Tres Iqus）＝神槍手（Gunslinger）所使用，[雙持](../Page/雙持.md "wikilink")。
 
 ## 圖集
 
-<File:Beretta90TWO.JPG>|[套筒開放狀態的貝瑞塔](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")90two，並以[MIL-STD-1913式戰術燈安裝導軌裝上](../Page/皮卡汀尼導軌.md "wikilink")[SureFire](https://zh.wikipedia.org/wiki/SureFire "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")。
-<File:Beretta> 90 TWO
-field-stripped.JPG|貝瑞塔90two[不完全分解](https://zh.wikipedia.org/wiki/不完全分解 "wikilink")，與其雙排式17發[彈匣](../Page/彈匣.md "wikilink")。
-<File:Beretta> 90TWO decocking
-lever.JPG|貝瑞塔90two的外露式和[待擊解脫桿](https://zh.wikipedia.org/wiki/待擊解脫桿 "wikilink")。
-<File:Beretta> 90TWO Picatinny
-bottom.JPG|貝瑞塔90two的皮卡汀尼導軌底部，沒有裝上戰術配件或導軌保護套。
-<File:Beretta> 90TWO Picatinny
-side.JPG|貝瑞塔90two的皮卡汀尼導軌側部，沒有裝上戰術配件或導軌保護套。
+<File:Beretta90TWO.JPG>|[套筒開放狀態的貝瑞塔](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")90two，並以[MIL-STD-1913式戰術燈安裝導軌裝上](../Page/皮卡汀尼導軌.md "wikilink")[SureFire](https://zh.wikipedia.org/wiki/SureFire "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")。 <File:Beretta> 90 TWO field-stripped.JPG|貝瑞塔90two[不完全分解](https://zh.wikipedia.org/wiki/不完全分解 "wikilink")，與其雙排式17發[彈匣](../Page/彈匣.md "wikilink")。 <File:Beretta> 90TWO decocking lever.JPG|貝瑞塔90two的外露式和[待擊解脫桿](https://zh.wikipedia.org/wiki/待擊解脫桿 "wikilink")。 <File:Beretta> 90TWO Picatinny bottom.JPG|貝瑞塔90two的皮卡汀尼導軌底部，沒有裝上戰術配件或導軌保護套。 <File:Beretta> 90TWO Picatinny side.JPG|貝瑞塔90two的皮卡汀尼導軌側部，沒有裝上戰術配件或導軌保護套。
 
 ## 參見
 
@@ -189,68 +140,46 @@ side.JPG|貝瑞塔90two的皮卡汀尼導軌側部，沒有裝上戰術配件或
 
   - —[貝瑞塔90two官方網站](http://www.beretta90two.com/)
 
-  - —[貝瑞塔運動武器官方網站—Beretta 90-TWO Type
-    F](https://web.archive.org/web/20120801091740/http://www.berettausa.com/products/90two/)
+  - —[貝瑞塔運動武器官方網站—Beretta 90-TWO Type F](https://web.archive.org/web/20120801091740/http://www.berettausa.com/products/90two/)
 
   - —[貝瑞塔90two手槍說明手冊](http://www.beretta90two.com/dati/ContentManager/files/manuale/90%20two.pdf)
 
   - —PoliceOne—
 
-      - [The
-        Beretta 90-TWO](https://web.archive.org/web/20120910080533/http://www.policeone.com/police-products/firearms/1658767-The-Beretta-90-TWO/)
-      - [Safariland Adds Fits to SLS Line For New Beretta 90two
-        Handgun](http://www.policeone.com/police-products/duty-gear/holsters/press-releases/1188329-Safariland-Adds-Fits-to-SLS-Line-For-New-Beretta-90two-Handgun/)
+      - [The Beretta 90-TWO](https://web.archive.org/web/20120910080533/http://www.policeone.com/police-products/firearms/1658767-The-Beretta-90-TWO/)
+      - [Safariland Adds Fits to SLS Line For New Beretta 90two Handgun](http://www.policeone.com/police-products/duty-gear/holsters/press-releases/1188329-Safariland-Adds-Fits-to-SLS-Line-For-New-Beretta-90two-Handgun/)
 
   - —Tactical-Life.com—
 
-      - [A Tale of Two
-        Berettas](http://www.tactical-life.com/online/full-length-articles/a-tale-of-two-berettas-2/)
-      - [Beretta’s 92 FS, M9A1 &
-        M90-TWO 9mm](http://www.tactical-life.com/online/special-weapons/berettas-92-fs-m9a1-m90-two-9mm/)
+      - [A Tale of Two Berettas](http://www.tactical-life.com/online/full-length-articles/a-tale-of-two-berettas-2/)
+      - [Beretta’s 92 FS, M9A1 & M90-TWO 9mm](http://www.tactical-life.com/online/special-weapons/berettas-92-fs-m9a1-m90-two-9mm/)
 
-  - —[D Boy Gun
-    World（槍炮世界）—90TWO系列](http://firearmsworld.net/italy/beretta/90two/90two.htm)
+  - —[D Boy Gun World（槍炮世界）—90TWO系列](http://firearmsworld.net/italy/beretta/90two/90two.htm)
 
   - —[新浪网—新浪军事—意大利推出最新版伯莱塔90TWO自动手枪](http://jczs.news.sina.com.cn/p/2007-03-15/0846435038.html)
 
   - —[輕兵器—富有独创性的最新伯莱塔90TWO手枪(一)](http://www.qbq.com.cn/a/bencandy.php?fid=35&id=982)
 
-[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink")
-[Category:意大利半自动手枪](https://zh.wikipedia.org/wiki/Category:意大利半自动手枪 "wikilink")
-[Category:貝瑞塔](https://zh.wikipedia.org/wiki/Category:貝瑞塔 "wikilink")
-[Category:貝瑞塔手槍](https://zh.wikipedia.org/wiki/Category:貝瑞塔手槍 "wikilink")
-[Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink")
-[Category:9×21_IMI口徑槍械](https://zh.wikipedia.org/wiki/Category:9×21_IMI口徑槍械 "wikilink")
-[Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink")
+[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:意大利半自动手枪](https://zh.wikipedia.org/wiki/Category:意大利半自动手枪 "wikilink") [Category:貝瑞塔](https://zh.wikipedia.org/wiki/Category:貝瑞塔 "wikilink") [Category:貝瑞塔手槍](https://zh.wikipedia.org/wiki/Category:貝瑞塔手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:9×21_IMI口徑槍械](https://zh.wikipedia.org/wiki/Category:9×21_IMI口徑槍械 "wikilink") [Category:.40_S\&W口徑槍械](https://zh.wikipedia.org/wiki/Category:.40_S&W口徑槍械 "wikilink")
 
-1.  [Beretta 90two—New looks—Newly designed anatomical slide and slide
-    catch](http://www.beretta90two.com/index.aspx?m=53&did=70)
+1.  [Beretta 90two—New looks—Newly designed anatomical slide and slide catch](http://www.beretta90two.com/index.aspx?m=53&did=70)
 
-2.  [Beretta 90two—New looks—The newly designed
-    frame](http://www.beretta90two.com/index.aspx?m=53&did=39)
+2.  [Beretta 90two—New looks—The newly designed frame](http://www.beretta90two.com/index.aspx?m=53&did=39)
 
-3.  [Beretta 90two—New
-    looks—Sights](http://www.beretta90two.com/index.aspx?m=53&did=73)
+3.  [Beretta 90two—New looks—Sights](http://www.beretta90two.com/index.aspx?m=53&did=73)
 
-4.  [Beretta 90two—New looks—Skeletonized
-    hammer](http://www.beretta90two.com/index.aspx?m=53&did=72)
+4.  [Beretta 90two—New looks—Skeletonized hammer](http://www.beretta90two.com/index.aspx?m=53&did=72)
 
-5.  [90-Two 9mm and
-    .40S\&W](http://www.berettaweb.com/armi/90-TWO/Beretta%2090-two.htm).
-    Berettaweb.com.
+5.  [90-Two 9mm and .40S\&W](http://www.berettaweb.com/armi/90-TWO/Beretta%2090-two.htm). Berettaweb.com.
 
-6.  [Beretta 90two—New looks—Ergonomic and modular grip
-    unit](http://www.beretta90two.com/index.aspx?m=53&did=71)
+6.  [Beretta 90two—New looks—Ergonomic and modular grip unit](http://www.beretta90two.com/index.aspx?m=53&did=71)
 
-7.  [Beretta 90two—New looks—Higher capacity
-    magazine](http://www.beretta90two.com/index.aspx?m=53&did=74)
+7.  [Beretta 90two—New looks—Higher capacity magazine](http://www.beretta90two.com/index.aspx?m=53&did=74)
 
-8.  [Beretta 90two—New looks—Integral accessory
-    rail](http://www.beretta90two.com/index.aspx?m=53&did=69)
+8.  [Beretta 90two—New looks—Integral accessory rail](http://www.beretta90two.com/index.aspx?m=53&did=69)
 
 9.  [Beretta 90two—Accessories](http://www.beretta90two.com/index.aspx?m=53&did=42)
 
-10. [Beretta 90two—Safety Feature—90two Type
-    F/G](http://www.beretta90two.com/index.aspx?m=53&did=40)
+10. [Beretta 90two—Safety Feature—90two Type F/G](http://www.beretta90two.com/index.aspx?m=53&did=40)
 
 11.

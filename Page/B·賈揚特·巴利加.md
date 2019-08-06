@@ -40,19 +40,9 @@
 
   - [NCSU biography](http://www.ece.ncsu.edu/people/bjbaliga)
 
-  - [ApnaTriangle.com interview with Dr Jayant
-    Baliga](http://www.apnatriangle.com/Inspirational-Triangle-Indians/drjayanthbaliga)
+  - [ApnaTriangle.com interview with Dr Jayant Baliga](http://www.apnatriangle.com/Inspirational-Triangle-Indians/drjayanthbaliga)
 
-[Category:美國電機工程師](https://zh.wikipedia.org/wiki/Category:美國電機工程師 "wikilink")
-[Category:印度理工學院馬德拉斯校區校友](https://zh.wikipedia.org/wiki/Category:印度理工學院馬德拉斯校區校友 "wikilink")
-[Category:壬色列理工學院校友](https://zh.wikipedia.org/wiki/Category:壬色列理工學院校友 "wikilink")
-[Category:北卡羅來納州立大學教職員](https://zh.wikipedia.org/wiki/Category:北卡羅來納州立大學教職員 "wikilink")
-[Category:移民美國的印度人](https://zh.wikipedia.org/wiki/Category:移民美國的印度人 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:通用電氣人士](https://zh.wikipedia.org/wiki/Category:通用電氣人士 "wikilink")
-[Category:IEEE_Fellow](https://zh.wikipedia.org/wiki/Category:IEEE_Fellow "wikilink")
-[Category:美國國家工程院院士](https://zh.wikipedia.org/wiki/Category:美國國家工程院院士 "wikilink")
-[Category:IEEE榮譽獎章](https://zh.wikipedia.org/wiki/Category:IEEE榮譽獎章 "wikilink")
+[Category:美國電機工程師](https://zh.wikipedia.org/wiki/Category:美國電機工程師 "wikilink") [Category:印度理工學院馬德拉斯校區校友](https://zh.wikipedia.org/wiki/Category:印度理工學院馬德拉斯校區校友 "wikilink") [Category:壬色列理工學院校友](https://zh.wikipedia.org/wiki/Category:壬色列理工學院校友 "wikilink") [Category:北卡羅來納州立大學教職員](https://zh.wikipedia.org/wiki/Category:北卡羅來納州立大學教職員 "wikilink") [Category:移民美國的印度人](https://zh.wikipedia.org/wiki/Category:移民美國的印度人 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:通用電氣人士](https://zh.wikipedia.org/wiki/Category:通用電氣人士 "wikilink") [Category:IEEE_Fellow](https://zh.wikipedia.org/wiki/Category:IEEE_Fellow "wikilink") [Category:美國國家工程院院士](https://zh.wikipedia.org/wiki/Category:美國國家工程院院士 "wikilink") [Category:IEEE榮譽獎章](https://zh.wikipedia.org/wiki/Category:IEEE榮譽獎章 "wikilink")
 
 1.
 
@@ -75,9 +65,6 @@
 12.
 
 13.
-14. [President Obama Honors Nation’s Top Scientists and
-    Innovators](http://www.whitehouse.gov/the-press-office/2011/09/27/president-obama-honors-nation-s-top-scientists-and-innovators),
-    September 27, 2011, The White House, Office of the Press Secretary,
-    whitehouse.gov
+14. [President Obama Honors Nation’s Top Scientists and Innovators](http://www.whitehouse.gov/the-press-office/2011/09/27/president-obama-honors-nation-s-top-scientists-and-innovators), September 27, 2011, The White House, Office of the Press Secretary, whitehouse.gov
 
 15.

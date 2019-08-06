@@ -1,8 +1,6 @@
-**uname**（*unix
-name*的简写）是一个[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix](../Page/类Unix系统.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")上的[程序](../Page/计算机程序.md "wikilink")，可以打印当前计算机和操作系统的名称、版本及其他细节。`uname`系统调用和命令第一次出现在[PWB/UNIX上](https://zh.wikipedia.org/wiki/PWB/UNIX "wikilink")。这两个由[POSIX指定](https://zh.wikipedia.org/wiki/POSIX "wikilink")。\[1\]\[2\]
+**uname**（*unix name*的简写）是一个[Unix和](https://zh.wikipedia.org/wiki/Unix "wikilink")[类Unix](../Page/类Unix系统.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")上的[程序](../Page/计算机程序.md "wikilink")，可以打印当前计算机和操作系统的名称、版本及其他细节。`uname`系统调用和命令第一次出现在[PWB/UNIX上](https://zh.wikipedia.org/wiki/PWB/UNIX "wikilink")。这两个由[POSIX指定](https://zh.wikipedia.org/wiki/POSIX "wikilink")。\[1\]\[2\]
 
-一些Unix变种，如[AT\&T](../Page/AT&T.md "wikilink") [System
-V](https://zh.wikipedia.org/wiki/System_V "wikilink")3.0版，包含了相关的`setname`程序，用来改变uname报告的值。
+一些Unix变种，如[AT\&T](../Page/AT&T.md "wikilink") [System V](https://zh.wikipedia.org/wiki/System_V "wikilink")3.0版，包含了相关的`setname`程序，用来改变uname报告的值。
 
 [GNU](../Page/GNU.md "wikilink")版本的uname包含在“sh-utils”或“coreutils”包中。uname本身不是一个独立的程序。
 
@@ -10,12 +8,9 @@ V](https://zh.wikipedia.org/wiki/System_V "wikilink")3.0版，包含了相关的
 
 在[Darwin系统上](https://zh.wikipedia.org/wiki/Apple_Darwin "wikilink")，带有`-a`[命令行参数运行](../Page/命令行界面.md "wikilink")`uname`的输出结果可能会像这样：
 
-`Darwin Roadrunner.local 10.3.0 Darwin Kernel Version 10.3.0: Fri
-Feb 26 11:58:09 PST 2010; root:xnu-1504.3.12~1/RELEASE_I386 i386`
+`Darwin Roadrunner.local 10.3.0 Darwin Kernel Version 10.3.0: Fri Feb 26 11:58:09 PST 2010; root:xnu-1504.3.12~1/RELEASE_I386 i386`
 
-下表包含了各种版本的`uname`在各种平台上的例子。\[3\]在[bash](https://zh.wikipedia.org/wiki/bash "wikilink")
-shell中，[环境变量](../Page/环境变量.md "wikilink")**OSTYPE**包含一个与`uname
--o`类似（但不完全相同）的值。
+下表包含了各种版本的`uname`在各种平台上的例子。\[3\]在[bash](https://zh.wikipedia.org/wiki/bash "wikilink") shell中，[环境变量](../Page/环境变量.md "wikilink")**OSTYPE**包含一个与`uname -o`类似（但不完全相同）的值。
 
 <table>
 <thead>
@@ -346,10 +341,6 @@ shell中，[环境变量](../Page/环境变量.md "wikilink")**OSTYPE**包含一
   -
 [Category:Unix_SUS2008实用工具](https://zh.wikipedia.org/wiki/Category:Unix_SUS2008实用工具 "wikilink")
 
-1.  [uname](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/uname.html).
-    The Open Group Base Specifications Issue 7/IEEE Std 1003.1, 2013
-    Edition. Specifies the command.
-2.  [uname](http://pubs.opengroup.org/onlinepubs/9699919799/functions/uname.html).
-    The Open Group Base Specifications Issue 7/IEEE Std 1003.1, 2013
-    Edition. Specifies the function/system call.
+1.  [uname](http://pubs.opengroup.org/onlinepubs/9699919799/utilities/uname.html). The Open Group Base Specifications Issue 7/IEEE Std 1003.1, 2013 Edition. Specifies the command.
+2.  [uname](http://pubs.opengroup.org/onlinepubs/9699919799/functions/uname.html). The Open Group Base Specifications Issue 7/IEEE Std 1003.1, 2013 Edition. Specifies the function/system call.
 3.  这些都只是系统的共同代表，实际输出可能取决于硬件类型、操作系统的版本和已安装软件补丁。

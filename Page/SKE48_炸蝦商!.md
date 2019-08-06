@@ -1,7 +1,4 @@
-《**SKE48
-炸蝦商！**》（），簡稱Ebishō，是[日本電視台](../Page/日本電視台.md "wikilink")從2014年7月15日起至9月30日間、每[周二凌晨](https://zh.wikipedia.org/wiki/周二 "wikilink")1:29
--
-1:59（即每[周一深夜](https://zh.wikipedia.org/wiki/周一 "wikilink")）播出的、日本女性偶像團體[SKE48](../Page/SKE48.md "wikilink")的冠名[綜藝節目](../Page/綜藝節目.md "wikilink")\[1\]。
+《**SKE48 炸蝦商！**》（），簡稱Ebishō，是[日本電視台](../Page/日本電視台.md "wikilink")從2014年7月15日起至9月30日間、每[周二凌晨](https://zh.wikipedia.org/wiki/周二 "wikilink")1:29 - 1:59（即每[周一深夜](https://zh.wikipedia.org/wiki/周一 "wikilink")）播出的、日本女性偶像團體[SKE48](../Page/SKE48.md "wikilink")的冠名[綜藝節目](../Page/綜藝節目.md "wikilink")\[1\]。
 
 該節目實質上是此前SKE48與女性[搞笑艺人](https://zh.wikipedia.org/wiki/搞笑艺人 "wikilink")[大久保佳代子](../Page/大久保佳代子.md "wikilink")合作的綜藝節目《[SKE48的炸蝦週五夜](../Page/SKE48的炸蝦週五夜.md "wikilink")》的續集。
 
@@ -11,29 +8,22 @@
 
 每回授課結束後由大久保佳代子選出本期最優秀的成員，並對其進行特別的單獨授課。
 
-該節目與同時期同一電視台播放的[NMB48](../Page/NMB48.md "wikilink")的綜藝節目《[NMB48
-藝人\!\!\!3](../Page/NMB48_藝人！.md "wikilink")》\[2\]中的「私立難波女学院」設定上為姊妹學校，並有在相互的節目中交換留學的計劃。
+該節目與同時期同一電視台播放的[NMB48](../Page/NMB48.md "wikilink")的綜藝節目《[NMB48 藝人\!\!\!3](../Page/NMB48_藝人！.md "wikilink")》\[2\]中的「私立難波女学院」設定上為姊妹學校，並有在相互的節目中交換留學的計劃。
 
 每期節目在電視台播放结束後亦可透過網路、在[Hulu](../Page/Hulu.md "wikilink")或日本電視台的[隨選視訊](../Page/隨選視訊.md "wikilink")上進行付費觀看。\[3\]
 
-從7月29日起至9月30日間，每期節目中均包含一個特別企畫單元「**SKE48
-松村香織和谷真理佳的日本列島搭便車之旅**」，其中未公開的部分僅在Hulu上限定播放。
+從7月29日起至9月30日間，每期節目中均包含一個特別企畫單元「**SKE48 松村香織和谷真理佳的日本列島搭便車之旅**」，其中未公開的部分僅在Hulu上限定播放。
 
-2014年10月12日起，作為《炸蝦商！》後續的冠名綜藝節目《[SKE48
-炸蝦賭場\!](https://zh.wikipedia.org/wiki/SKE48_炸蝦賭場! "wikilink")（）》將於每周日凌晨1:20
-- 1:50（即每周六深夜）開始播出，仍然由大久保擔任主持。\[4\]
+2014年10月12日起，作為《炸蝦商！》後續的冠名綜藝節目《[SKE48 炸蝦賭場\!](https://zh.wikipedia.org/wiki/SKE48_炸蝦賭場! "wikilink")（）》將於每周日凌晨1:20 - 1:50（即每周六深夜）開始播出，仍然由大久保擔任主持。\[4\]
 
 ## 演出人員
 
   - MC（教師）
       - [大久保佳代子](../Page/大久保佳代子.md "wikilink")
   - [SKE48](../Page/SKE48.md "wikilink")
-      - Team
-        S：[東李苑](https://zh.wikipedia.org/wiki/東李苑 "wikilink")、[大矢真那](../Page/大矢真那.md "wikilink")、[北川綾巴](../Page/北川綾巴.md "wikilink")、[佐藤實繪子](../Page/佐藤實繪子.md "wikilink")、[竹内舞](https://zh.wikipedia.org/wiki/竹内舞 "wikilink")、[田中菜津美](../Page/田中菜津美.md "wikilink")、[中西優香](../Page/中西優香.md "wikilink")、[二村春香](https://zh.wikipedia.org/wiki/二村春香 "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")、[矢方美紀](https://zh.wikipedia.org/wiki/矢方美紀 "wikilink")、[山内鈴蘭](https://zh.wikipedia.org/wiki/山内鈴蘭 "wikilink")、[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")
-      - Team
-        KII：[石田安奈](../Page/石田安奈.md "wikilink")、[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[木下有希子](../Page/木下有希子.md "wikilink")、[惣田紗莉渚](../Page/惣田紗莉渚.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[古川愛李](../Page/古川愛李.md "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[山田菜菜](../Page/山田菜菜.md "wikilink")、[山田瑞穗](https://zh.wikipedia.org/wiki/山田瑞穗 "wikilink")
-      - Team
-        E：[磯原杏華](../Page/磯原杏華.md "wikilink")、[市野成美](https://zh.wikipedia.org/wiki/市野成美 "wikilink")、[岩永亞美](https://zh.wikipedia.org/wiki/岩永亞美 "wikilink")、[梅本圓](../Page/梅本圓.md "wikilink")、[木本花音](../Page/木本花音.md "wikilink")、[熊崎晴香](https://zh.wikipedia.org/wiki/熊崎晴香 "wikilink")、[小林亞實](../Page/小林亞實.md "wikilink")、[小石公美子](https://zh.wikipedia.org/wiki/小石公美子 "wikilink")、[齊藤真木子](https://zh.wikipedia.org/wiki/齊藤真木子 "wikilink")、[佐藤堇](../Page/佐藤堇.md "wikilink")、[柴田阿弥](../Page/柴田阿弥.md "wikilink")、[須田亞香里](../Page/須田亞香里.md "wikilink")、[谷真理佳](../Page/谷真理佳.md "wikilink")、[松井玲奈](../Page/松井玲奈.md "wikilink")
+      - Team S：[東李苑](https://zh.wikipedia.org/wiki/東李苑 "wikilink")、[大矢真那](../Page/大矢真那.md "wikilink")、[北川綾巴](../Page/北川綾巴.md "wikilink")、[佐藤實繪子](../Page/佐藤實繪子.md "wikilink")、[竹内舞](https://zh.wikipedia.org/wiki/竹内舞 "wikilink")、[田中菜津美](../Page/田中菜津美.md "wikilink")、[中西優香](../Page/中西優香.md "wikilink")、[二村春香](https://zh.wikipedia.org/wiki/二村春香 "wikilink")、[松井珠理奈](../Page/松井珠理奈.md "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")、[矢方美紀](https://zh.wikipedia.org/wiki/矢方美紀 "wikilink")、[山内鈴蘭](https://zh.wikipedia.org/wiki/山内鈴蘭 "wikilink")、[渡邊美優紀](../Page/渡邊美優紀.md "wikilink")
+      - Team KII：[石田安奈](../Page/石田安奈.md "wikilink")、[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[木下有希子](../Page/木下有希子.md "wikilink")、[惣田紗莉渚](../Page/惣田紗莉渚.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[古川愛李](../Page/古川愛李.md "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[山田菜菜](../Page/山田菜菜.md "wikilink")、[山田瑞穗](https://zh.wikipedia.org/wiki/山田瑞穗 "wikilink")
+      - Team E：[磯原杏華](../Page/磯原杏華.md "wikilink")、[市野成美](https://zh.wikipedia.org/wiki/市野成美 "wikilink")、[岩永亞美](https://zh.wikipedia.org/wiki/岩永亞美 "wikilink")、[梅本圓](../Page/梅本圓.md "wikilink")、[木本花音](../Page/木本花音.md "wikilink")、[熊崎晴香](https://zh.wikipedia.org/wiki/熊崎晴香 "wikilink")、[小林亞實](../Page/小林亞實.md "wikilink")、[小石公美子](https://zh.wikipedia.org/wiki/小石公美子 "wikilink")、[齊藤真木子](https://zh.wikipedia.org/wiki/齊藤真木子 "wikilink")、[佐藤堇](../Page/佐藤堇.md "wikilink")、[柴田阿弥](../Page/柴田阿弥.md "wikilink")、[須田亞香里](../Page/須田亞香里.md "wikilink")、[谷真理佳](../Page/谷真理佳.md "wikilink")、[松井玲奈](../Page/松井玲奈.md "wikilink")
       - 研究生：[松村香織](../Page/松村香織.md "wikilink")
 
 ## 節目內容
@@ -187,16 +177,12 @@ SKE48 谷真理佳和松村香織的日本列島搭便車之旅</p></td>
 
 ## 相關條目
 
-  - [SKE48的炸蝦週五夜](../Page/SKE48的炸蝦週五夜.md "wikilink") -
-    實質的節目前身，SKE48「炸蝦」系列第一部。
-  - [SKE48 炸蝦賭場\!](https://zh.wikipedia.org/wiki/SKE48_炸蝦賭場! "wikilink")
-    - 續集，SKE48「炸蝦」系列第三部。
+  - [SKE48的炸蝦週五夜](../Page/SKE48的炸蝦週五夜.md "wikilink") - 實質的節目前身，SKE48「炸蝦」系列第一部。
+  - [SKE48 炸蝦賭場\!](https://zh.wikipedia.org/wiki/SKE48_炸蝦賭場! "wikilink") - 續集，SKE48「炸蝦」系列第三部。
 
 <!-- end list -->
 
-  - [NMB48
-    藝人\!\!\!3](https://zh.wikipedia.org/wiki/NMB48_艺人！#NMB48_艺人!!!3 "wikilink")
-    - 同一時期同一電視台播放的NMB48的綜藝節目。有合作和交換留學計劃。
+  - [NMB48 藝人\!\!\!3](https://zh.wikipedia.org/wiki/NMB48_艺人！#NMB48_艺人!!!3 "wikilink") - 同一時期同一電視台播放的NMB48的綜藝節目。有合作和交換留學計劃。
 
 ## 參考文獻
 
@@ -205,10 +191,7 @@ SKE48 谷真理佳和松村香織的日本列島搭便車之旅</p></td>
   - [SKE48 炸蝦商\!](http://www.ntv.co.jp/ebisho/)（日本電視台）
   - [SKE48 炸蝦商\! 的Hulu隨選視訊](http://www.hulu.jp/ske48-ebishow)
 
-[Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink")
-[Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink")
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
-[Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
+[Category:日本電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視台綜藝節目 "wikilink") [Category:2014年日本電視節目](https://zh.wikipedia.org/wiki/Category:2014年日本電視節目 "wikilink") [Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:AKB48家族關連電視節目](https://zh.wikipedia.org/wiki/Category:AKB48家族關連電視節目 "wikilink")
 
 1.
 2.  <http://www.ntv.co.jp/geinin/>

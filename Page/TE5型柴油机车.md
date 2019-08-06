@@ -14,9 +14,6 @@ TE5型机车出厂后，首先配属[莫斯科铁路局莫斯科客运机务段�
   -
 ## 外部链接
 
-  - [1520mm.ru: Тепловоз
-    ТЭ5](https://web.archive.org/web/20091106175519/http://www.1520mm.ru/locomotives/diesel/te5.phtml)
+  - [1520mm.ru: Тепловоз ТЭ5](https://web.archive.org/web/20091106175519/http://www.1520mm.ru/locomotives/diesel/te5.phtml)
 
-[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink")
-[Category:哈尔科夫制铁路机车](https://zh.wikipedia.org/wiki/Category:哈尔科夫制铁路机车 "wikilink")
-[Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")
+[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:哈尔科夫制铁路机车](https://zh.wikipedia.org/wiki/Category:哈尔科夫制铁路机车 "wikilink") [Category:Co-Co軸式機車](https://zh.wikipedia.org/wiki/Category:Co-Co軸式機車 "wikilink")

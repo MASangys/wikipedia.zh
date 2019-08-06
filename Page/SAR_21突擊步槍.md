@@ -1,16 +1,10 @@
 [Army.mil-101955-2011-03-16-100334.jpg](https://zh.wikipedia.org/wiki/File:Army.mil-101955-2011-03-16-100334.jpg "fig:Army.mil-101955-2011-03-16-100334.jpg")的新加坡士兵\]\]
 
-**SAR
-21突擊步槍**（，意為：21世紀的新加坡製突擊步槍）是由[新加坡](../Page/新加坡.md "wikilink")國防企業新科動力（全稱：；，簡稱：ST
-Kinetics）自主研發和生產的一枝[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，是[新加坡武裝部隊](../Page/新加坡武裝部隊.md "wikilink")的制式步槍。
+**SAR 21突擊步槍**（，意為：21世紀的新加坡製突擊步槍）是由[新加坡](../Page/新加坡.md "wikilink")國防企業新科動力（全稱：；，簡稱：ST Kinetics）自主研發和生產的一枝[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，是[新加坡武裝部隊](../Page/新加坡武裝部隊.md "wikilink")的制式步槍。
 
 ## 設計細節
 
-SAR
-21和[克罗地亚](../Page/克罗地亚.md "wikilink")的[VHS](https://zh.wikipedia.org/wiki/VHS突击步枪 "wikilink")、[法国的](https://zh.wikipedia.org/wiki/法国 "wikilink")[FAMAS](../Page/FAMAS突擊步槍.md "wikilink")、[英国的](https://zh.wikipedia.org/wiki/英国 "wikilink")[SA80](../Page/SA80突擊步槍.md "wikilink")、[奥地利的](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[斯泰爾AUG](../Page/斯泰爾AUG突擊步槍.md "wikilink")、[伊朗的](https://zh.wikipedia.org/wiki/伊朗 "wikilink")[KH-2002](https://zh.wikipedia.org/wiki/Khaybar_KH2002突擊步槍 "wikilink")、[中国的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[QBZ-95和](../Page/95式自動步槍.md "wikilink")[QBB-95](../Page/95式班用機槍.md "wikilink")、[比利时](../Page/比利时.md "wikilink")的[FN
-F2000和](../Page/FN_F2000突擊步槍.md "wikilink")[FN
-P90一样采用了](../Page/FN_P90衝鋒槍.md "wikilink")[-{zh-hans:无托结构;
-zh-hant:犢牛式;}-设计](../Page/犢牛式_\(槍械\).md "wikilink")，有以下的特點：
+SAR 21和[克罗地亚](../Page/克罗地亚.md "wikilink")的[VHS](https://zh.wikipedia.org/wiki/VHS突击步枪 "wikilink")、[法国的](https://zh.wikipedia.org/wiki/法国 "wikilink")[FAMAS](../Page/FAMAS突擊步槍.md "wikilink")、[英国的](https://zh.wikipedia.org/wiki/英国 "wikilink")[SA80](../Page/SA80突擊步槍.md "wikilink")、[奥地利的](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[斯泰爾AUG](../Page/斯泰爾AUG突擊步槍.md "wikilink")、[伊朗的](https://zh.wikipedia.org/wiki/伊朗 "wikilink")[KH-2002](https://zh.wikipedia.org/wiki/Khaybar_KH2002突擊步槍 "wikilink")、[中国的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[QBZ-95和](../Page/95式自動步槍.md "wikilink")[QBB-95](../Page/95式班用機槍.md "wikilink")、[比利时](../Page/比利时.md "wikilink")的[FN F2000和](../Page/FN_F2000突擊步槍.md "wikilink")[FN P90一样采用了](../Page/FN_P90衝鋒槍.md "wikilink")[-{zh-hans:无托结构; zh-hant:犢牛式;}-设计](../Page/犢牛式_\(槍械\).md "wikilink")，有以下的特點：
 
   - 使用經典的卡拉什尼柯夫/斯通納自動機系統的改進裝置：一個長的卡拉什尼柯夫式的活塞安裝在槍管上方導氣系統中；斯通納整體式裝有擊針的機框，擊針由導柱和機頭定位。這兩種經過實踐的操作系統的統一體應該說非常牢靠，使其擁有更高的可靠性和更低的後座力。
   - 採用了一個已得到專利的安全裝置，以避免射手在炸殼或膛炸等小概率事件中受到傷害。安全系統的第一個組成部分是模鍛的合金鋼板，直接放在臉頰的下方，以保護射手的臉部；的第二部分是在節套上開了一個洩氣孔，在底火爆炸或炸殼事件中，它能導引火藥燃氣從中排出，使其遠離射手臉部。這套系統應該說基本消除了安全隱患。
@@ -82,8 +76,7 @@ zh-hant:犢牛式;}-设计](../Page/犢牛式_\(槍械\).md "wikilink")，有以
 
   - [STANAG彈匣](../Page/STANAG彈匣.md "wikilink")
   - [M203榴彈發射器](../Page/M203榴彈發射器.md "wikilink")
-  - [M16S1突擊步槍](../Page/M16S1突擊步槍.md "wikilink") -
-    [新加坡武裝部隊](../Page/新加坡武裝部隊.md "wikilink")的前任制式步槍。
+  - [M16S1突擊步槍](../Page/M16S1突擊步槍.md "wikilink") - [新加坡武裝部隊](../Page/新加坡武裝部隊.md "wikilink")的前任制式步槍。
   - [SAR 80](../Page/SAR_80突擊步槍.md "wikilink")
   - [SR-88](../Page/SR-88突擊步槍.md "wikilink")
   - [95式自動步槍](../Page/95式自動步槍.md "wikilink")
@@ -93,9 +86,6 @@ zh-hant:犢牛式;}-设计](../Page/犢牛式_\(槍械\).md "wikilink")，有以
 
 <references/>
 
-[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink")
-[Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink")
-[Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink")
-[Category:新加坡槍械](https://zh.wikipedia.org/wiki/Category:新加坡槍械 "wikilink")
+[Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink") [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink") [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink") [Category:新加坡槍械](https://zh.wikipedia.org/wiki/Category:新加坡槍械 "wikilink")
 
 1.

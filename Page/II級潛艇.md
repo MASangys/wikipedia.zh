@@ -180,6 +180,4 @@ II級潛艇當中最大的型號，由於燃料量大增而可以深入大西洋
 
   - [德製IIB級潛艇](https://web.archive.org/web/20120225172231/http://60.250.180.26/ming/2412.html)
 
-[Category:德國潛艦](https://zh.wikipedia.org/wiki/Category:德國潛艦 "wikilink")
-[Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
-[Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")
+[Category:德國潛艦](https://zh.wikipedia.org/wiki/Category:德國潛艦 "wikilink") [Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink") [Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")

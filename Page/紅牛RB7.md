@@ -4,13 +4,11 @@
 
 維泰爾駕駛RB7在[日本奪得](https://zh.wikipedia.org/wiki/2011年日本大獎賽 "wikilink")2011年車手世界冠軍，\[4\]而紅牛車隊在下個周末於[南韓取得世界製造商冠軍](https://zh.wikipedia.org/wiki/2011年韓國大獎賽 "wikilink")。\[5\]這輛車在賽季中共有3次以冠亞軍完賽。
 
-賽巴斯蒂安·維泰爾從在[紅牛二隊時就習慣幫他的賽車命名](https://zh.wikipedia.org/wiki/紅牛二隊 "wikilink")，他將這輛RB8取名為金姬·凱莉（Kinky
-Kylie）。\[6\]
+賽巴斯蒂安·維泰爾從在[紅牛二隊時就習慣幫他的賽車命名](https://zh.wikipedia.org/wiki/紅牛二隊 "wikilink")，他將這輛RB8取名為金姬·凱莉（Kinky Kylie）。\[6\]
 
 ## 一級方程式成績
 
-（[圖例](https://zh.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink")）
-**粗體**表示桿位起跑；*斜體*表示最快圈速
+（[圖例](https://zh.wikipedia.org/wiki/:Template:F1_driver_results_legend_2 "wikilink")） **粗體**表示桿位起跑；*斜體*表示最快圈速
 
 <table>
 <thead>
@@ -135,9 +133,7 @@ Kylie）。\[6\]
 
 ## 外部連結
 
-[Category:紅牛一級方程式車型](https://zh.wikipedia.org/wiki/Category:紅牛一級方程式車型 "wikilink")
-[Category:2011年一級方程式賽季車型](https://zh.wikipedia.org/wiki/Category:2011年一級方程式賽季車型 "wikilink")
-[Category:一級方程式錦標賽冠軍車型](https://zh.wikipedia.org/wiki/Category:一級方程式錦標賽冠軍車型 "wikilink")
+[Category:紅牛一級方程式車型](https://zh.wikipedia.org/wiki/Category:紅牛一級方程式車型 "wikilink") [Category:2011年一級方程式賽季車型](https://zh.wikipedia.org/wiki/Category:2011年一級方程式賽季車型 "wikilink") [Category:一級方程式錦標賽冠軍車型](https://zh.wikipedia.org/wiki/Category:一級方程式錦標賽冠軍車型 "wikilink")
 
 1.
 2.

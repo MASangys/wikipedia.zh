@@ -84,13 +84,4 @@
 
 [奥田民生](../Page/奥田民生.md "wikilink")《まんをじして》（词曲：奥田民生）
 
-[Category:日本電視喜劇](https://zh.wikipedia.org/wiki/Category:日本電視喜劇 "wikilink")
-[Category:2002年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2002年開播的日本電視劇集 "wikilink")
-[Category:共同電視製作電視劇](https://zh.wikipedia.org/wiki/Category:共同電視製作電視劇 "wikilink")
-[Category:三谷幸喜劇本電視劇](https://zh.wikipedia.org/wiki/Category:三谷幸喜劇本電視劇 "wikilink")
-[Category:富士電視台深夜劇集](https://zh.wikipedia.org/wiki/Category:富士電視台深夜劇集 "wikilink")
-[Category:教師主角電視劇](https://zh.wikipedia.org/wiki/Category:教師主角電視劇 "wikilink")
-[Category:校園電視喜劇](https://zh.wikipedia.org/wiki/Category:校園電視喜劇 "wikilink")
-[Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink")
-[Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink")
-[Category:香取慎吾](https://zh.wikipedia.org/wiki/Category:香取慎吾 "wikilink")
+[Category:日本電視喜劇](https://zh.wikipedia.org/wiki/Category:日本電視喜劇 "wikilink") [Category:2002年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2002年開播的日本電視劇集 "wikilink") [Category:共同電視製作電視劇](https://zh.wikipedia.org/wiki/Category:共同電視製作電視劇 "wikilink") [Category:三谷幸喜劇本電視劇](https://zh.wikipedia.org/wiki/Category:三谷幸喜劇本電視劇 "wikilink") [Category:富士電視台深夜劇集](https://zh.wikipedia.org/wiki/Category:富士電視台深夜劇集 "wikilink") [Category:教師主角電視劇](https://zh.wikipedia.org/wiki/Category:教師主角電視劇 "wikilink") [Category:校園電視喜劇](https://zh.wikipedia.org/wiki/Category:校園電視喜劇 "wikilink") [Category:高中背景電視劇](https://zh.wikipedia.org/wiki/Category:高中背景電視劇 "wikilink") [Category:日本校園劇](https://zh.wikipedia.org/wiki/Category:日本校園劇 "wikilink") [Category:香取慎吾](https://zh.wikipedia.org/wiki/Category:香取慎吾 "wikilink")

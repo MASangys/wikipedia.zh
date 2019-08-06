@@ -88,8 +88,7 @@
       - [145系](https://zh.wikipedia.org/wiki/日本國鐵145系電力動車組 "wikilink")
       - [E491系](https://zh.wikipedia.org/wiki/JR東日本E491系電力動車組 "wikilink")
   - **試作車**
-      - [E995系](https://zh.wikipedia.org/wiki/JR東日本E995系電力動車組 "wikilink")（NE
-        Train スマート電池くん）
+      - [E995系](https://zh.wikipedia.org/wiki/JR東日本E995系電力動車組 "wikilink")（NE Train スマート電池くん）
 
 ### 柴油動車組
 
@@ -171,10 +170,8 @@
       - [400系](../Page/新幹線400系電力動車組.md "wikilink")
       - [E1系](../Page/新幹線E1系電力動車組.md "wikilink")
       - [952形・953形](https://zh.wikipedia.org/wiki/新幹線952型・953型電力動車組 "wikilink")（高速試験電車STAR21）
-      - [E954形](../Page/新幹線E954型電力動車組.md "wikilink")（新幹線専用高速試験電車FASTECH
-        360 S）
-      - [E955形](../Page/新幹線E955型電力動車組.md "wikilink")（[新幹線直行特急用高速試験電車FASTECH](https://zh.wikipedia.org/wiki/新幹線直行特急 "wikilink")
-        360 Z）
+      - [E954形](../Page/新幹線E954型電力動車組.md "wikilink")（新幹線専用高速試験電車FASTECH 360 S）
+      - [E955形](../Page/新幹線E955型電力動車組.md "wikilink")（[新幹線直行特急用高速試験電車FASTECH](https://zh.wikipedia.org/wiki/新幹線直行特急 "wikilink") 360 Z）
   - **特急形**
       - [483系](../Page/日本國鐵485系電力動車組.md "wikilink")
       - [489系](../Page/日本國鐵485系電力動車組.md "wikilink")

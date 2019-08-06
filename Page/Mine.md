@@ -42,8 +42,7 @@
 3.  **Enjoy your life \!** \[4:28\]
       -
         （作詞：秋元康、作曲：藤井一德、編曲：）
-        演唱成员:
-        除河西智美之外还有[秋元才加](../Page/秋元才加.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")这些AKB48的二期生。
+        演唱成员: 除河西智美之外还有[秋元才加](../Page/秋元才加.md "wikilink")、[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[大島優子](../Page/大島優子.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[宮澤佐江](../Page/宮澤佐江.md "wikilink")、[大堀惠](../Page/大堀惠.md "wikilink")、[野呂佳代](../Page/野呂佳代.md "wikilink")这些AKB48的二期生。
 4.  Mine off vocal
 5.  Illumination off vocal
 6.  Enjoy your life \! off vocal
@@ -80,8 +79,4 @@
 ## 外部链接
 
   -
-[Category:AKB48家族關連歌曲](https://zh.wikipedia.org/wiki/Category:AKB48家族關連歌曲 "wikilink")
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:Nippon_Crown歌曲](https://zh.wikipedia.org/wiki/Category:Nippon_Crown歌曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
-[Category:東京電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台電視劇主題曲 "wikilink")
+[Category:AKB48家族關連歌曲](https://zh.wikipedia.org/wiki/Category:AKB48家族關連歌曲 "wikilink") [Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:Nippon_Crown歌曲](https://zh.wikipedia.org/wiki/Category:Nippon_Crown歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink") [Category:東京電視台電視劇主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台電視劇主題曲 "wikilink")

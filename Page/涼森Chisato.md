@@ -2,8 +2,7 @@
 
 ## 人物
 
-从1998年开始担任声优工作，活动主要以[日本成人游戏为中心](https://zh.wikipedia.org/wiki/日本成人游戏 "wikilink")\[1\]。初期主要为[Visual
-Art's系等大阪的游戏公司作品配音](../Page/Visual_Art's.md "wikilink")，现在配音作品已经拓展到了很多游戏公司的作品。她配音的角色很广泛，有少女、熟女、動物等，有七色之音的美称。但她本人最喜欢的还是为少年配音。也有很多在同一作品中一人饰演两个角色的情况。
+从1998年开始担任声优工作，活动主要以[日本成人游戏为中心](https://zh.wikipedia.org/wiki/日本成人游戏 "wikilink")\[1\]。初期主要为[Visual Art's系等大阪的游戏公司作品配音](../Page/Visual_Art's.md "wikilink")，现在配音作品已经拓展到了很多游戏公司的作品。她配音的角色很广泛，有少女、熟女、動物等，有七色之音的美称。但她本人最喜欢的还是为少年配音。也有很多在同一作品中一人饰演两个角色的情况。
 
 ## 出演作品
 
@@ -91,8 +90,7 @@ Art's系等大阪的游戏公司作品配音](../Page/Visual_Art's.md "wikilink"
   -
   - （（4个角色））
 
-  - [戀愛CHU\!](../Page/戀愛CHU!.md "wikilink")，*[SAGA
-    PLANETS](../Page/SAGA_PLANETS.md "wikilink")* （月島 野花）
+  - [戀愛CHU\!](../Page/戀愛CHU!.md "wikilink")，*[SAGA PLANETS](../Page/SAGA_PLANETS.md "wikilink")* （月島 野花）
 
 <!-- end list -->
 
@@ -161,8 +159,7 @@ Art's系等大阪的游戏公司作品配音](../Page/Visual_Art's.md "wikilink"
   -
   -
   -
-  - [SNOW PC全语音版](../Page/SNOW.md "wikilink")，*[Studio
-    Mebius](../Page/Visual_Art's.md "wikilink")* （橘 芽依子）
+  - [SNOW PC全语音版](../Page/SNOW.md "wikilink")，*[Studio Mebius](../Page/Visual_Art's.md "wikilink")* （橘 芽依子）
 
   -
   -
@@ -199,9 +196,7 @@ Art's系等大阪的游戏公司作品配音](../Page/Visual_Art's.md "wikilink"
   -
   -
   -
-  - [智代After ～It's a Wonderful
-    Life～](../Page/智代After_～It's_a_Wonderful_Life～.md "wikilink")，''[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")
-    '' （鷹文，河南子（2个角色））
+  - [智代After ～It's a Wonderful Life～](../Page/智代After_～It's_a_Wonderful_Life～.md "wikilink")，''[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink") '' （鷹文，河南子（2个角色））
 
   -
   -
@@ -253,9 +248,7 @@ Art's系等大阪的游戏公司作品配音](../Page/Visual_Art's.md "wikilink"
   -
   -
   -
-  - [Little Busters\!
-    EX](../Page/Little_Busters!.md "wikilink")，*[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")*
-    （**三枝 葉留佳，二木 佳奈多**（2个角色））
+  - [Little Busters\! EX](../Page/Little_Busters!.md "wikilink")，*[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")* （**三枝 葉留佳，二木 佳奈多**（2个角色））
 
 <!-- end list -->
 
@@ -267,8 +260,7 @@ Art's系等大阪的游戏公司作品配音](../Page/Visual_Art's.md "wikilink"
   -
   -
   -
-  - [Flyable Heart](../Page/Flyable_Heart.md "wikilink")，*UNiSONSHIFT:
-    Blossom* （**白鷺 茉百合**）
+  - [Flyable Heart](../Page/Flyable_Heart.md "wikilink")，*UNiSONSHIFT: Blossom* （**白鷺 茉百合**）
 
 <!-- end list -->
 
@@ -276,17 +268,13 @@ Art's系等大阪的游戏公司作品配音](../Page/Visual_Art's.md "wikilink"
 
 <!-- end list -->
 
-  - [曉之護衛](../Page/曉之護衛.md "wikilink")，*[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")*
-    （桜坂 絆）
+  - [曉之護衛](../Page/曉之護衛.md "wikilink")，*[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")* （桜坂 絆）
 
   - ，*[SAGA PLANETS](../Page/SAGA_PLANETS.md "wikilink")* （富良峰 英子）
 
-  - [君之余影静静摇曳](https://zh.wikipedia.org/wiki/君之余影静静摇曳 "wikilink")，*UNiSONSHIFT:
-    Blossom* （**白鷺茉百合**）
+  - [君之余影静静摇曳](https://zh.wikipedia.org/wiki/君之余影静静摇曳 "wikilink")，*UNiSONSHIFT: Blossom* （**白鷺茉百合**）
 
-  - [Kud
-    Wafter](../Page/Kud_Wafter.md "wikilink")，*[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")*
-    （二木 佳奈多）
+  - [Kud Wafter](../Page/Kud_Wafter.md "wikilink")，*[Key](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")* （二木 佳奈多）
 
 <!-- end list -->
 
@@ -294,17 +282,13 @@ Art's系等大阪的游戏公司作品配音](../Page/Visual_Art's.md "wikilink"
 
 <!-- end list -->
 
-  - [紫苑的血族](../Page/紫苑的血族.md "wikilink")，*[catwalk](../Page/Visual_Art's.md "wikilink")*
-    （****）\[2\]
+  - [紫苑的血族](../Page/紫苑的血族.md "wikilink")，*[catwalk](../Page/Visual_Art's.md "wikilink")* （****）\[2\]
 
-  - [隙間櫻花與謊言都市](../Page/隙間櫻花與謊言都市.md "wikilink")，*[Propeller](../Page/Propeller.md "wikilink")*
-    （夕陽）\[3\]
+  - [隙間櫻花與謊言都市](../Page/隙間櫻花與謊言都市.md "wikilink")，*[Propeller](../Page/Propeller.md "wikilink")* （夕陽）\[3\]
 
   - ，*[WHITESOFT](../Page/Purple_software.md "wikilink")* （七枷式子）
 
-  - [Flyable
-    CandyHeart](../Page/Flyable_Heart.md "wikilink")，*UNiSONSHIFT:
-    Blossom* （**白鷺 茉百合**，猫）
+  - [Flyable CandyHeart](../Page/Flyable_Heart.md "wikilink")，*UNiSONSHIFT: Blossom* （**白鷺 茉百合**，猫）
 
   - \[\[戀愛家庭教師露露美|\[4\]
 
@@ -316,8 +300,7 @@ Art's系等大阪的游戏公司作品配音](../Page/Visual_Art's.md "wikilink"
 
   - （桑島 羽鳥）\[5\]
 
-  - Exodus，''[WHITESOFT](../Page/Purple_software.md "wikilink") '' （七枷
-    式子）\[6\]
+  - Exodus，''[WHITESOFT](../Page/Purple_software.md "wikilink") '' （七枷 式子）\[6\]
 
   -
   - \[7\]
@@ -346,8 +329,7 @@ Art's系等大阪的游戏公司作品配音](../Page/Visual_Art's.md "wikilink"
 
 ### CD
 
-  - mignon
-    （2006年12月29日发售，以和[Rita的组合](https://zh.wikipedia.org/wiki/Rita "wikilink")“”名义）
+  - mignon （2006年12月29日发售，以和[Rita的组合](https://zh.wikipedia.org/wiki/Rita "wikilink")“”名义）
   - doll〜歌姫〜vol.4祭（参加了混合专辑中的两曲）
   - macoron （2007年12月29日C73先行发售、2008年1月25日一般发售，以和Rita的组合“”名义）
   - murmur （2009年8月14日C76先行发售、2009年9月18日一般发售，以和Rita的组合“”名义）
@@ -357,13 +339,9 @@ Art's系等大阪的游戏公司作品配音](../Page/Visual_Art's.md "wikilink"
 ## 外部链接
 
   - [个人网站](https://web.archive.org/web/20130306011747/http://www.geocities.jp/chisato_chirps/)
-  - [- C h i f f o n-](http://cure.product.co.jp/chiffon/) -
-    和理多的音乐组合“”的官方网站
+  - [- C h i f f o n-](http://cure.product.co.jp/chiffon/) - 和理多的音乐组合“”的官方网站
 
-[Category:日本女性配音员](https://zh.wikipedia.org/wiki/Category:日本女性配音员 "wikilink")
-[Category:日本成人遊戲配音員](https://zh.wikipedia.org/wiki/Category:日本成人遊戲配音員 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
-[Category:生年不详](https://zh.wikipedia.org/wiki/Category:生年不详 "wikilink")
+[Category:日本女性配音员](https://zh.wikipedia.org/wiki/Category:日本女性配音员 "wikilink") [Category:日本成人遊戲配音員](https://zh.wikipedia.org/wiki/Category:日本成人遊戲配音員 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:生年不详](https://zh.wikipedia.org/wiki/Category:生年不详 "wikilink")
 
 1.
 2.

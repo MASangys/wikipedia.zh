@@ -2,9 +2,6 @@
 
 ## 参考资料
 
-  - [Stadium
-    information](https://archive.is/20130114052455/http://championat.uz/ru/team/112/178)
+  - [Stadium information](https://archive.is/20130114052455/http://championat.uz/ru/team/112/178)
 
-[Category:乌兹别克斯坦体育场地](https://zh.wikipedia.org/wiki/Category:乌兹别克斯坦体育场地 "wikilink")
-[Category:塔什干建筑物](https://zh.wikipedia.org/wiki/Category:塔什干建筑物 "wikilink")
-[Category:1998年完工體育場館](https://zh.wikipedia.org/wiki/Category:1998年完工體育場館 "wikilink")
+[Category:乌兹别克斯坦体育场地](https://zh.wikipedia.org/wiki/Category:乌兹别克斯坦体育场地 "wikilink") [Category:塔什干建筑物](https://zh.wikipedia.org/wiki/Category:塔什干建筑物 "wikilink") [Category:1998年完工體育場館](https://zh.wikipedia.org/wiki/Category:1998年完工體育場館 "wikilink")

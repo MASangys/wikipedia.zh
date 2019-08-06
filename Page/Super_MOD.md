@@ -1,10 +1,4 @@
-[Super_MOD_Logo.jpg](https://zh.wikipedia.org/wiki/File:Super_MOD_Logo.jpg "fig:Super_MOD_Logo.jpg")
-[2013_Taipei_IT_Month_kbro_SuperMOD_20131130.jpg](https://zh.wikipedia.org/wiki/File:2013_Taipei_IT_Month_kbro_SuperMOD_20131130.jpg "fig:2013_Taipei_IT_Month_kbro_SuperMOD_20131130.jpg")展示的Super
-MOD\]\]
-[2013_Taipei_IT_Month_kbro_SuperMOD_STB_20131130.jpg](https://zh.wikipedia.org/wiki/File:2013_Taipei_IT_Month_kbro_SuperMOD_STB_20131130.jpg "fig:2013_Taipei_IT_Month_kbro_SuperMOD_STB_20131130.jpg")\]\]
-[Taipei_IT_Month_kbro_SMOD_remote_20131130.jpg](https://zh.wikipedia.org/wiki/File:Taipei_IT_Month_kbro_SMOD_remote_20131130.jpg "fig:Taipei_IT_Month_kbro_SMOD_remote_20131130.jpg")
-**Super MOD**（Super Multimedia on
-Demand，[縮寫](../Page/縮寫.md "wikilink")：SMOD），是[富邦集團](../Page/富邦集團.md "wikilink")旗下[凱擘大寬頻於](https://zh.wikipedia.org/wiki/凱擘大寬頻 "wikilink")2012年9月5日所推出的一種[多媒體平台](https://zh.wikipedia.org/wiki/多媒體 "wikilink")[IPTV](../Page/IPTV.md "wikilink")服務\[1\]，內容結合了[隨選視訊](../Page/隨選視訊.md "wikilink")、[網路電視和](https://zh.wikipedia.org/wiki/網路電視 "wikilink")[聯網電視](https://zh.wikipedia.org/wiki/聯網電視 "wikilink")，是凱擘為與[中華電信MOD](../Page/中華電信MOD.md "wikilink")抗衡所推出的新服務\[2\]。
+[Super_MOD_Logo.jpg](https://zh.wikipedia.org/wiki/File:Super_MOD_Logo.jpg "fig:Super_MOD_Logo.jpg") [2013_Taipei_IT_Month_kbro_SuperMOD_20131130.jpg](https://zh.wikipedia.org/wiki/File:2013_Taipei_IT_Month_kbro_SuperMOD_20131130.jpg "fig:2013_Taipei_IT_Month_kbro_SuperMOD_20131130.jpg")展示的Super MOD\]\] [2013_Taipei_IT_Month_kbro_SuperMOD_STB_20131130.jpg](https://zh.wikipedia.org/wiki/File:2013_Taipei_IT_Month_kbro_SuperMOD_STB_20131130.jpg "fig:2013_Taipei_IT_Month_kbro_SuperMOD_STB_20131130.jpg")\]\] [Taipei_IT_Month_kbro_SMOD_remote_20131130.jpg](https://zh.wikipedia.org/wiki/File:Taipei_IT_Month_kbro_SMOD_remote_20131130.jpg "fig:Taipei_IT_Month_kbro_SMOD_remote_20131130.jpg") **Super MOD**（Super Multimedia on Demand，[縮寫](../Page/縮寫.md "wikilink")：SMOD），是[富邦集團](../Page/富邦集團.md "wikilink")旗下[凱擘大寬頻於](https://zh.wikipedia.org/wiki/凱擘大寬頻 "wikilink")2012年9月5日所推出的一種[多媒體平台](https://zh.wikipedia.org/wiki/多媒體 "wikilink")[IPTV](../Page/IPTV.md "wikilink")服務\[1\]，內容結合了[隨選視訊](../Page/隨選視訊.md "wikilink")、[網路電視和](https://zh.wikipedia.org/wiki/網路電視 "wikilink")[聯網電視](https://zh.wikipedia.org/wiki/聯網電視 "wikilink")，是凱擘為與[中華電信MOD](../Page/中華電信MOD.md "wikilink")抗衡所推出的新服務\[2\]。
 
 ## 適用對象
 
@@ -24,11 +18,9 @@ Demand，[縮寫](../Page/縮寫.md "wikilink")：SMOD），是[富邦集團](..
 
 ## 外部連結
 
-  - [Super
-    MOD](https://web.archive.org/web/20180807191226/http://supermod.com.tw/)
+  - [Super MOD](https://web.archive.org/web/20180807191226/http://supermod.com.tw/)
 
-[Category:凱擘大寬頻](https://zh.wikipedia.org/wiki/Category:凱擘大寬頻 "wikilink")
-[Category:IPTV](https://zh.wikipedia.org/wiki/Category:IPTV "wikilink")
+[Category:凱擘大寬頻](https://zh.wikipedia.org/wiki/Category:凱擘大寬頻 "wikilink") [Category:IPTV](https://zh.wikipedia.org/wiki/Category:IPTV "wikilink")
 
 1.
 2.

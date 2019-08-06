@@ -2,11 +2,7 @@
 
 ## 研發簡史
 
-[Suspension_Christie_char_GFDL.png](https://zh.wikipedia.org/wiki/File:Suspension_Christie_char_GFDL.png "fig:Suspension_Christie_char_GFDL.png")
-[Bt2.jpg](https://zh.wikipedia.org/wiki/File:Bt2.jpg "fig:Bt2.jpg")
-[БТсправа-ЭкспозицияВоеннойТехники.JPG](https://zh.wikipedia.org/wiki/File:БТсправа-ЭкспозицияВоеннойТехники.JPG "fig:БТсправа-ЭкспозицияВоеннойТехники.JPG")
-[Bt7_3.jpg](https://zh.wikipedia.org/wiki/File:Bt7_3.jpg "fig:Bt7_3.jpg")
-1929年蘇聯派人往美國考察並買了兩輛克里斯迪型坦克，其使用的[克里斯迪式承載系統吸引了蘇聯人的興趣](https://zh.wikipedia.org/wiki/克里斯蒂懸掛 "wikilink")，所謂克里斯迪式承載系統好像是汽車承載系統，用大型彈簧承載各個車輪，此設計對坦克高速行駛有利而且必要時可把坦克變成輪型車輛而不用履帶行走，此設計成了BT坦克的共同特點:
+[Suspension_Christie_char_GFDL.png](https://zh.wikipedia.org/wiki/File:Suspension_Christie_char_GFDL.png "fig:Suspension_Christie_char_GFDL.png") [Bt2.jpg](https://zh.wikipedia.org/wiki/File:Bt2.jpg "fig:Bt2.jpg") [БТсправа-ЭкспозицияВоеннойТехники.JPG](https://zh.wikipedia.org/wiki/File:БТсправа-ЭкспозицияВоеннойТехники.JPG "fig:БТсправа-ЭкспозицияВоеннойТехники.JPG") [Bt7_3.jpg](https://zh.wikipedia.org/wiki/File:Bt7_3.jpg "fig:Bt7_3.jpg") 1929年蘇聯派人往美國考察並買了兩輛克里斯迪型坦克，其使用的[克里斯迪式承載系統吸引了蘇聯人的興趣](https://zh.wikipedia.org/wiki/克里斯蒂懸掛 "wikilink")，所謂克里斯迪式承載系統好像是汽車承載系統，用大型彈簧承載各個車輪，此設計對坦克高速行駛有利而且必要時可把坦克變成輪型車輛而不用履帶行走，此設計成了BT坦克的共同特點:
 
   - 克里斯迪M1931/BT-1
 
@@ -52,27 +48,23 @@ BT坦克的另一種主要參戰型號，車身前裝甲的斜度增加和改用
 
 ### 西班牙內戰
 
-[Bt7_6.jpg](https://zh.wikipedia.org/wiki/File:Bt7_6.jpg "fig:Bt7_6.jpg")
-1936年7月18日，[西班牙內戰爆發](https://zh.wikipedia.org/wiki/西班牙內戰 "wikilink")，德國和意大利支持[佛朗哥將軍的國民軍並派出](https://zh.wikipedia.org/wiki/佛朗哥 "wikilink")[兀鷹軍團到西班牙參戰](https://zh.wikipedia.org/wiki/兀鷹軍團 "wikilink")，另一方面，蘇聯支持共和軍並派出100輛坦克（其中90輛為BT-5，其餘是T-26坦克）和15個戰鬥機隊等人員和武器到西班牙，1937年夏天，共和軍為了打通首都馬德里至巴塞隆納港的交通線，動員了28,000人和49輛BT-5進攻戰略重鎮薩拉哥薩，9月22日早上，40輛BT-5載著步兵進攻作為薩拉哥薩門戶的埃布羅鎮，但由於在BT-5上面並無可以讓步兵握緊的扶手，故當BT-5快速行駛時很多步兵被拋出車外然後再被後方駛來的BT-5當場輾過而死，而當BT-5來到國民軍陣前才發現被陷入甘蔗田當中，動彈不得，結果成為國民軍反坦克炮的目標，經此一役，共和軍損失了19輛BT-5並有超過1/3人員傷亡，雖然都能佔領薩拉哥薩附近的地區但無法扭轉戰局。
+[Bt7_6.jpg](https://zh.wikipedia.org/wiki/File:Bt7_6.jpg "fig:Bt7_6.jpg") 1936年7月18日，[西班牙內戰爆發](https://zh.wikipedia.org/wiki/西班牙內戰 "wikilink")，德國和意大利支持[佛朗哥將軍的國民軍並派出](https://zh.wikipedia.org/wiki/佛朗哥 "wikilink")[兀鷹軍團到西班牙參戰](https://zh.wikipedia.org/wiki/兀鷹軍團 "wikilink")，另一方面，蘇聯支持共和軍並派出100輛坦克（其中90輛為BT-5，其餘是T-26坦克）和15個戰鬥機隊等人員和武器到西班牙，1937年夏天，共和軍為了打通首都馬德里至巴塞隆納港的交通線，動員了28,000人和49輛BT-5進攻戰略重鎮薩拉哥薩，9月22日早上，40輛BT-5載著步兵進攻作為薩拉哥薩門戶的埃布羅鎮，但由於在BT-5上面並無可以讓步兵握緊的扶手，故當BT-5快速行駛時很多步兵被拋出車外然後再被後方駛來的BT-5當場輾過而死，而當BT-5來到國民軍陣前才發現被陷入甘蔗田當中，動彈不得，結果成為國民軍反坦克炮的目標，經此一役，共和軍損失了19輛BT-5並有超過1/3人員傷亡，雖然都能佔領薩拉哥薩附近的地區但無法扭轉戰局。
 
 1937年12月5日，共和軍為了阻止國民軍進攻首都馬德里，故也進攻國民軍守備薄弱（祇有1,500人）的特魯埃衣，共和軍派出10萬大軍和104輛坦克，但共和軍由於在進攻薩拉哥薩時的慘痛經歷而不敢集中BT-5和T-26衝鋒以作為進攻的矛頭，而是作為活動堡壘為步兵開路，但坦克在巷戰當中被國民軍用炸藥包和火炎瓶等反坦克武器伏擊，傷亡慘重，1938年1月7日，共和軍雖攻下特魯埃衣，但因損失太大而無法再有作為，2月20日，共和軍被迫撒退。
 
 ### 張鼓峰戰役
 
-[Battle_of_Lake_Khasan-Camouflaged_soviet_tanks.jpg](https://zh.wikipedia.org/wiki/File:Battle_of_Lake_Khasan-Camouflaged_soviet_tanks.jpg "fig:Battle_of_Lake_Khasan-Camouflaged_soviet_tanks.jpg")
-1938年7月[日本關東軍在中蘇交界的張鼓峰和](https://zh.wikipedia.org/wiki/日本關東軍 "wikilink")[蘇聯紅軍發生武裝衝突](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")，史稱[张鼓峰事件](../Page/张鼓峰事件.md "wikilink")，蘇軍隨即向張鼓峰地區增兵7000多人而當中有285輛BT坦克，日軍也派出關東軍第十九師團但沒有坦克，於是在裝備上蘇軍佔優勢，8月6日，蘇軍在BT坦克開路之下發動進攻，但張鼓峰和哈桑湖一帶地區丘陵和沼澤滿佈，不是裝甲部隊易於行動的地方，日軍對此依靠堅固的防線固守，戰鬥當中以裝備BT-7的蘇軍第1機械化旅進軍最快，推進至沙草峰的日軍防線，但日軍不停用火炮向蘇軍BT-7開火又用重機槍掃射跟隨的蘇軍步兵，蘇軍BT-7也不停用45毫米反坦克炮向日軍炮兵陣地開火並快速衝向重機槍陣地把其推倒，沙草峰最終都被蘇軍攻下並進而攻打張鼓峰，第二日（8月7日），蘇軍繼續進攻張鼓峰但由於山路崎嶇而有多輛BT-7故障，蘇軍唯有推開故障的BT-7繼續進攻，蘇軍第120團進攻東南坡以孤立在張鼓峰的日本守軍，蘇軍BT-7和第118步兵團最終攻上張鼓峰峰頂，雙方步兵展開白刃戰，隨後日軍援兵趕到，蘇軍被趕出峰頂但並未趕出張鼓峰，於是雙方形成對峙局面，在隨後的幾日當中，張鼓峰不停被雙方反覆佔領，但由於日軍要支援[武漢會戰而兵力不繼](https://zh.wikipedia.org/wiki/武漢會戰 "wikilink")，雙方最終在8月11日簽訂停戰協定。
+[Battle_of_Lake_Khasan-Camouflaged_soviet_tanks.jpg](https://zh.wikipedia.org/wiki/File:Battle_of_Lake_Khasan-Camouflaged_soviet_tanks.jpg "fig:Battle_of_Lake_Khasan-Camouflaged_soviet_tanks.jpg") 1938年7月[日本關東軍在中蘇交界的張鼓峰和](https://zh.wikipedia.org/wiki/日本關東軍 "wikilink")[蘇聯紅軍發生武裝衝突](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")，史稱[张鼓峰事件](../Page/张鼓峰事件.md "wikilink")，蘇軍隨即向張鼓峰地區增兵7000多人而當中有285輛BT坦克，日軍也派出關東軍第十九師團但沒有坦克，於是在裝備上蘇軍佔優勢，8月6日，蘇軍在BT坦克開路之下發動進攻，但張鼓峰和哈桑湖一帶地區丘陵和沼澤滿佈，不是裝甲部隊易於行動的地方，日軍對此依靠堅固的防線固守，戰鬥當中以裝備BT-7的蘇軍第1機械化旅進軍最快，推進至沙草峰的日軍防線，但日軍不停用火炮向蘇軍BT-7開火又用重機槍掃射跟隨的蘇軍步兵，蘇軍BT-7也不停用45毫米反坦克炮向日軍炮兵陣地開火並快速衝向重機槍陣地把其推倒，沙草峰最終都被蘇軍攻下並進而攻打張鼓峰，第二日（8月7日），蘇軍繼續進攻張鼓峰但由於山路崎嶇而有多輛BT-7故障，蘇軍唯有推開故障的BT-7繼續進攻，蘇軍第120團進攻東南坡以孤立在張鼓峰的日本守軍，蘇軍BT-7和第118步兵團最終攻上張鼓峰峰頂，雙方步兵展開白刃戰，隨後日軍援兵趕到，蘇軍被趕出峰頂但並未趕出張鼓峰，於是雙方形成對峙局面，在隨後的幾日當中，張鼓峰不停被雙方反覆佔領，但由於日軍要支援[武漢會戰而兵力不繼](https://zh.wikipedia.org/wiki/武漢會戰 "wikilink")，雙方最終在8月11日簽訂停戰協定。
 
 ### 諾門罕戰役
 
-[Soviet_tanks_cross_Khalkhin_Gol_river_1939.jpg](https://zh.wikipedia.org/wiki/File:Soviet_tanks_cross_Khalkhin_Gol_river_1939.jpg "fig:Soviet_tanks_cross_Khalkhin_Gol_river_1939.jpg")
-1939年5月由於蒙古軍和偽滿軍在哈拉哈河畔的諾門罕草原發生衝突而引發了[諾門罕戰役](../Page/諾門罕戰役.md "wikilink")，6月27日，日本關東軍派出飛機炸毀大批蘇軍飛機而令關東軍認為已取得制空權，7月3日，日軍在小松原太郎師團長的帶領下越過哈拉哈河進攻蒙古軍，在蒙古軍的求救之下蘇軍派出400多輛BT-5和BT-7迎戰日軍，日軍由於其[九四式反坦克炮](https://zh.wikipedia.org/wiki/九四式反坦克炮 "wikilink")（37毫米口徑）祇能在近距離才能對BT坦克造成傷害而日軍步兵的[九九式反坦克地雷要用](https://zh.wikipedia.org/wiki/99式地雷 "wikilink")6個才能炸毀一輛BT坦克，即是日軍並無有效的反坦克武器故被打得大敗，急忙退回哈拉哈河東岸，第二日（7月4日），蘇軍BT坦克和[T-26坦克](../Page/T-26坦克.md "wikilink")越過哈拉哈河並在諾門罕草原遇上日軍第一戰車團的[八九式中型坦克和](../Page/八九式中戰車.md "wikilink")[九五式輕型坦克以及少量](../Page/九五式輕戰車.md "wikilink")[九七式中型坦克](../Page/九七式中戰車.md "wikilink")，雙方發生坦克大決戰，但由於日軍坦克不論在攻擊火力（日軍坦克以步兵火力支援為主要任務，炮彈主要是攻擊敵方步兵的榴彈而非坦克決戰用的[穿甲彈或高爆彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")）和裝甲防護（日軍坦克仍以鉚釘接合而蘇軍坦克已採用焊接）方面皆比蘇軍坦克差，日軍坦克大敗，殘餘的日軍祇能靠一陣突然刮起的沙塵暴而逃脫。
+[Soviet_tanks_cross_Khalkhin_Gol_river_1939.jpg](https://zh.wikipedia.org/wiki/File:Soviet_tanks_cross_Khalkhin_Gol_river_1939.jpg "fig:Soviet_tanks_cross_Khalkhin_Gol_river_1939.jpg") 1939年5月由於蒙古軍和偽滿軍在哈拉哈河畔的諾門罕草原發生衝突而引發了[諾門罕戰役](../Page/諾門罕戰役.md "wikilink")，6月27日，日本關東軍派出飛機炸毀大批蘇軍飛機而令關東軍認為已取得制空權，7月3日，日軍在小松原太郎師團長的帶領下越過哈拉哈河進攻蒙古軍，在蒙古軍的求救之下蘇軍派出400多輛BT-5和BT-7迎戰日軍，日軍由於其[九四式反坦克炮](https://zh.wikipedia.org/wiki/九四式反坦克炮 "wikilink")（37毫米口徑）祇能在近距離才能對BT坦克造成傷害而日軍步兵的[九九式反坦克地雷要用](https://zh.wikipedia.org/wiki/99式地雷 "wikilink")6個才能炸毀一輛BT坦克，即是日軍並無有效的反坦克武器故被打得大敗，急忙退回哈拉哈河東岸，第二日（7月4日），蘇軍BT坦克和[T-26坦克](../Page/T-26坦克.md "wikilink")越過哈拉哈河並在諾門罕草原遇上日軍第一戰車團的[八九式中型坦克和](../Page/八九式中戰車.md "wikilink")[九五式輕型坦克以及少量](../Page/九五式輕戰車.md "wikilink")[九七式中型坦克](../Page/九七式中戰車.md "wikilink")，雙方發生坦克大決戰，但由於日軍坦克不論在攻擊火力（日軍坦克以步兵火力支援為主要任務，炮彈主要是攻擊敵方步兵的榴彈而非坦克決戰用的[穿甲彈或高爆彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")）和裝甲防護（日軍坦克仍以鉚釘接合而蘇軍坦克已採用焊接）方面皆比蘇軍坦克差，日軍坦克大敗，殘餘的日軍祇能靠一陣突然刮起的沙塵暴而逃脫。
 
 8月21日，蘇軍指揮官[朱可夫對日軍發動總攻擊](../Page/格奥尔基·康斯坦丁诺维奇·朱可夫.md "wikilink")，蘇軍和蒙古軍在空軍的支援下以BT坦克和T-26坦克作為進攻矛頭之下兵分三路把日軍重重包圍，戰至8月31日，參戰的日軍第二十三師團已幾乎全軍覆沒，日軍祇好向蘇軍求和簽下「日蘇互不攻犯條約」，日軍放棄「北進」。
 
 ### 冬季戰爭
 
-[Bt42_parola_2.jpg](https://zh.wikipedia.org/wiki/File:Bt42_parola_2.jpg "fig:Bt42_parola_2.jpg")
-1939年11月9日，芬蘭拒絕了蘇聯有關交換領土的要求，蘇聯紅軍派出4個集團軍向芬蘭發動進攻，[冬季戰爭爆發](https://zh.wikipedia.org/wiki/冬季戰爭 "wikilink")。
+[Bt42_parola_2.jpg](https://zh.wikipedia.org/wiki/File:Bt42_parola_2.jpg "fig:Bt42_parola_2.jpg") 1939年11月9日，芬蘭拒絕了蘇聯有關交換領土的要求，蘇聯紅軍派出4個集團軍向芬蘭發動進攻，[冬季戰爭爆發](https://zh.wikipedia.org/wiki/冬季戰爭 "wikilink")。
 
 蘇聯第9集團軍旗下的122師和163師發現當攻入芬蘭境內後彼此都被森林分隔，蘇軍車隊祇能在林中的道路上行駛但芬蘭軍早已在此埋下地雷並且有伏兵，每當有蘇軍軍車被地雷炸毀，芬蘭軍伏兵都會向兩側隨行的蘇軍步兵開槍，蘇軍傷亡慘重而緊急派出44師的BT-7裝甲部隊作增援，44師的BT-7最初以兩輛為一組行動，之後更以3至4輛一起行動，蘇軍發現雖然BT坦克以速度快見稱但在冰天雪地的環境之下也是行走困難，芬蘭軍對付BT-7的方法是以伏兵偷偷地在經過的BT-7的車輪之間放入鐵條等障礙物，當蘇軍坦克兵從坦克裡走出來想清除時就以衝鋒槍射殺，當然也有芬蘭軍直接用炸藥包和汽油彈對付蘇軍BT坦克。
 
@@ -128,8 +120,4 @@ BT坦克的另一種主要參戰型號，車身前裝甲的斜度增加和改用
 
 [Category:蘇聯坦克](https://zh.wikipedia.org/wiki/Category:蘇聯坦克 "wikilink")
 
-[Category:两次大战间苏联坦克](https://zh.wikipedia.org/wiki/Category:两次大战间苏联坦克 "wikilink")
-[Category:蘇聯二戰坦克](https://zh.wikipedia.org/wiki/Category:蘇聯二戰坦克 "wikilink")
-[Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")
-[Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink")
-[Category:骑兵坦克](https://zh.wikipedia.org/wiki/Category:骑兵坦克 "wikilink")
+[Category:两次大战间苏联坦克](https://zh.wikipedia.org/wiki/Category:两次大战间苏联坦克 "wikilink") [Category:蘇聯二戰坦克](https://zh.wikipedia.org/wiki/Category:蘇聯二戰坦克 "wikilink") [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink") [Category:抗戰時期中國武器](https://zh.wikipedia.org/wiki/Category:抗戰時期中國武器 "wikilink") [Category:骑兵坦克](https://zh.wikipedia.org/wiki/Category:骑兵坦克 "wikilink")

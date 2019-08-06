@@ -1,8 +1,4 @@
-《**BLEACH 漂靈 劇場版－別處的記憶**》（[劇場版BLEACH MEMORIES OF
-NOBODY](https://zh.wikipedia.org/wiki/劇場版BLEACH_MEMORIES_OF_NOBODY "wikilink")，*Bleach:
-Memories of
-Nobody*）是於2006年改编自日本漫畫家[久保帶人作品](https://zh.wikipedia.org/wiki/久保帶人 "wikilink")《[BLEACH
-漂靈](../Page/BLEACH.md "wikilink")》的[劇場版第](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")1作。
+《**BLEACH 漂靈 劇場版－別處的記憶**》（[劇場版BLEACH MEMORIES OF NOBODY](https://zh.wikipedia.org/wiki/劇場版BLEACH_MEMORIES_OF_NOBODY "wikilink")，*Bleach: Memories of Nobody*）是於2006年改编自日本漫畫家[久保帶人作品](https://zh.wikipedia.org/wiki/久保帶人 "wikilink")《[BLEACH 漂靈](../Page/BLEACH.md "wikilink")》的[劇場版第](https://zh.wikipedia.org/wiki/動畫電影 "wikilink")1作。
 
 ## 故事簡介
 
@@ -212,6 +208,4 @@ Nobody*）是於2006年改编自日本漫畫家[久保帶人作品](https://zh.w
 ## 外部連結
 
   -
-[Category:BLEACH](https://zh.wikipedia.org/wiki/Category:BLEACH "wikilink")
-[Category:2006年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2006年日本劇場動畫 "wikilink")
-[Category:日本電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本電視動畫的電影版 "wikilink")
+[Category:BLEACH](https://zh.wikipedia.org/wiki/Category:BLEACH "wikilink") [Category:2006年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2006年日本劇場動畫 "wikilink") [Category:日本電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本電視動畫的電影版 "wikilink")

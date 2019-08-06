@@ -1,5 +1,4 @@
-《**sweet
-pool**》是[Nitro+CHiRAL](../Page/Nitro+CHiRAL.md "wikilink")於2008年12月19日發售的[BL](https://zh.wikipedia.org/wiki/BL "wikilink")[十八禁冒險遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。通常版於2009年4月10日發售。
+《**sweet pool**》是[Nitro+CHiRAL](../Page/Nitro+CHiRAL.md "wikilink")於2008年12月19日發售的[BL](https://zh.wikipedia.org/wiki/BL "wikilink")[十八禁冒險遊戲](https://zh.wikipedia.org/wiki/十八禁遊戲 "wikilink")。通常版於2009年4月10日發售。
 
 ## 故事背景
 
@@ -71,8 +70,4 @@ pool**》是[Nitro+CHiRAL](../Page/Nitro+CHiRAL.md "wikilink")於2008年12月19�
 
   - [sweet pool 官方網站](http://www.nitrochiral.com/pc/software/sweetpool/)
 
-[Category:Nitro+CHiRAL](https://zh.wikipedia.org/wiki/Category:Nitro+CHiRAL "wikilink")
-[Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:BL遊戲](https://zh.wikipedia.org/wiki/Category:BL遊戲 "wikilink")
-[Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")
+[Category:Nitro+CHiRAL](https://zh.wikipedia.org/wiki/Category:Nitro+CHiRAL "wikilink") [Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:BL遊戲](https://zh.wikipedia.org/wiki/Category:BL遊戲 "wikilink") [Category:廣播劇CD](https://zh.wikipedia.org/wiki/Category:廣播劇CD "wikilink")

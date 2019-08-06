@@ -4,8 +4,7 @@
 
 ## 歷任世界排名第一選手
 
-[Pete_Sampras.jpg](https://zh.wikipedia.org/wiki/File:Pete_Sampras.jpg "fig:Pete_Sampras.jpg")連續6年年終都是世界排名第一，年终世界第一总数与连续次数纪录保持者，世界排名第一总周数286,史上第二。\]\]
-此词条中的数据只在ATP官网正式更新后才上传（一般情况下每周一凌晨更新，只有当重大比赛的决赛推迟时推迟更新。）
+[Pete_Sampras.jpg](https://zh.wikipedia.org/wiki/File:Pete_Sampras.jpg "fig:Pete_Sampras.jpg")連續6年年終都是世界排名第一，年终世界第一总数与连续次数纪录保持者，世界排名第一总周数286,史上第二。\]\] 此词条中的数据只在ATP官网正式更新后才上传（一般情况下每周一凌晨更新，只有当重大比赛的决赛推迟时推迟更新。）
 
 <table>
 <tbody>
@@ -1267,8 +1266,7 @@
 
 ## 外部連結
 
-  - [ATP World Tour
-    website](http://www.atpworldtour.com/tennis/1/en/home/)
+  - [ATP World Tour website](http://www.atpworldtour.com/tennis/1/en/home/)
 
 [Category:網球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:網球紀錄及統計數據 "wikilink")
 

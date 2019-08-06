@@ -55,9 +55,7 @@ auto关键字更适用于类型冗长复杂、变量使用范围专一时，使�
   - 首先，如果初始化表达式是引用，首先去除引用；
   - 上一步后，如果剩下的初始化表达式有顶层的const且/或volatile限定符，去除掉。
 
-这一组规则同于[模板函数的](../Page/模板_\(C++\).md "wikilink")[模板参数推导](../Page/模板参数推导.md "wikilink")（template
-argument
-deduction）时的规则。但auto关键字可以从C++11风格的花括号{与}包围的值列表推导出[std::initializer_list](https://zh.wikipedia.org/wiki/b:C++/Initializer_list "wikilink")；而模板函数的形参推导时不认为这种值列表是一个类型，因此不能由值列表推导出std::initializer_list类型。
+这一组规则同于[模板函数的](../Page/模板_\(C++\).md "wikilink")[模板参数推导](../Page/模板参数推导.md "wikilink")（template argument deduction）时的规则。但auto关键字可以从C++11风格的花括号{与}包围的值列表推导出[std::initializer_list](https://zh.wikipedia.org/wiki/b:C++/Initializer_list "wikilink")；而模板函数的形参推导时不认为这种值列表是一个类型，因此不能由值列表推导出std::initializer_list类型。
 
 因而，使用auto关键字声明变量的类型，不能自动推导出顶层的CV-qualifiers，也不能自动推导出引用类型，需要显式指定。例如：
 
@@ -94,8 +92,7 @@ deduction）时的规则。但auto关键字可以从C++11风格的花括号{与}
 
 ### auto关键字的类型完美转发
 
-C++11使用auto声明变量时，如：`auto&&
-var=initValue;`“auto&&”并不意味着这一定是[右值引用](../Page/右值引用.md "wikilink")类型的变量，而是类似于[模板函数参数的类型推导](../Page/模板参数推导.md "wikilink")，既可能是左值引用，也可能是右值引用。其目的是把初始化表达式的[值分类情况](https://zh.wikipedia.org/wiki/值_\(计算机科学\) "wikilink")，完美转发给由auto声明的变量。也即：
+C++11使用auto声明变量时，如：`auto&& var=initValue;`“auto&&”并不意味着这一定是[右值引用](../Page/右值引用.md "wikilink")类型的变量，而是类似于[模板函数参数的类型推导](../Page/模板参数推导.md "wikilink")，既可能是左值引用，也可能是右值引用。其目的是把初始化表达式的[值分类情况](https://zh.wikipedia.org/wiki/值_\(计算机科学\) "wikilink")，完美转发给由auto声明的变量。也即：
 
   - 如果初始化值（initializer）是类型A的左值，则声明的变量类型为左值引用A&；
   - 如果初始化值是类型A的右值，则声明的变量类型为右值引用A&&。

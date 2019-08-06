@@ -1,5 +1,4 @@
-**snRNA激活蛋白复合体第四亚基**（）是一个由人类[基因](../Page/基因.md "wikilink") *SNAPC4*
-编码的[蛋白质](../Page/蛋白质.md "wikilink")\[1\]\[2\]。
+**snRNA激活蛋白复合体第四亚基**（）是一个由人类[基因](../Page/基因.md "wikilink") *SNAPC4* 编码的[蛋白质](../Page/蛋白质.md "wikilink")\[1\]\[2\]。
 
 ## 相互作用
 

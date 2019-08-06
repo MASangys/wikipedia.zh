@@ -1,5 +1,4 @@
-《**月刊少年Sunday**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2009年5月12日創刊\[1\]。毎月12日發售。
-{{-}}
+《**月刊少年Sunday**》是[小學館](../Page/小學館.md "wikilink")發行的[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2009年5月12日創刊\[1\]。毎月12日發售。 {{-}}
 
 ## 連載漫画
 
@@ -750,10 +749,6 @@
   - [ゲッサンWEB](https://web.archive.org/web/20160509213143/http://gekkansunday.net/top.html)
   - [ゲッサン編集部](http://twitter.com/gessanofficial)オフィシャル[Twitter](../Page/Twitter.md "wikilink")
 
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:少年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少年漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink")
-[Category:月刊少年Sunday](https://zh.wikipedia.org/wiki/Category:月刊少年Sunday "wikilink")
+[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少年漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink") [Category:月刊少年Sunday](https://zh.wikipedia.org/wiki/Category:月刊少年Sunday "wikilink")
 
 1.

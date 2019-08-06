@@ -1,5 +1,4 @@
-《**Sunday扮嘢王**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的「扮嘢」綜藝節目，由[薛家燕](../Page/薛家燕.md "wikilink")、[王祖藍](../Page/王祖藍.md "wikilink")擔任主持。本節目於香港時間2014年7月27日起，逢星期日21:00-22:00於[翡翠台](../Page/翡翠台.md "wikilink")和[高清翡翠台](../Page/高清翡翠台.md "wikilink")播出，並於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。節目於2014年[萬千星輝頒獎典禮](../Page/萬千星輝頒獎典禮.md "wikilink")中獲得**最佳綜藝節目**以及**最佳節目主持**兩項大獎。2014[TVB
-Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
+《**Sunday扮嘢王**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的「扮嘢」綜藝節目，由[薛家燕](../Page/薛家燕.md "wikilink")、[王祖藍](../Page/王祖藍.md "wikilink")擔任主持。本節目於香港時間2014年7月27日起，逢星期日21:00-22:00於[翡翠台](../Page/翡翠台.md "wikilink")和[高清翡翠台](../Page/高清翡翠台.md "wikilink")播出，並於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。節目於2014年[萬千星輝頒獎典禮](../Page/萬千星輝頒獎典禮.md "wikilink")中獲得**最佳綜藝節目**以及**最佳節目主持**兩項大獎。2014[TVB Amazing Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")。
 
 ## 節目簡介
 
@@ -587,17 +586,14 @@ TVB「扮嘢」奇才輩出，歷代「扮嘢王」如「秋官」[鄭少秋](..
 
 ## 外部連結
 
-  - [無綫電視節目網頁 -
-    Sunday扮嘢王](http://programme.tvb.com/variety/walkthewalktalkthetalk)
+  - [無綫電視節目網頁 - Sunday扮嘢王](http://programme.tvb.com/variety/walkthewalktalkthetalk)
 
 ## 電視節目的變遷
 
 無綫電視就[佔領中環事宜之臨時節目調動](../Page/讓愛與和平佔領中環.md "wikilink")
 
-[Category:2014年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2014年無綫電視節目 "wikilink")
-[Category:無綫電視幽默節目](https://zh.wikipedia.org/wiki/Category:無綫電視幽默節目 "wikilink")
+[Category:2014年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2014年無綫電視節目 "wikilink") [Category:無綫電視幽默節目](https://zh.wikipedia.org/wiki/Category:無綫電視幽默節目 "wikilink")
 
 1.  [《Sunday扮嘢王》 演嘢Battle大龍鳳](http://b.tvb.com/whatsnew/?p=15832)
-2.  [欣宜蝦頭
-    扮子珊鬥嘟嘴](https://hk.news.yahoo.com/%E6%AC%A3%E5%AE%9C%E8%9D%A6%E9%A0%AD-%E6%89%AE%E5%AD%90%E7%8F%8A%E9%AC%A5%E5%98%9F%E5%98%B4-223000822.html)
+2.  [欣宜蝦頭 扮子珊鬥嘟嘴](https://hk.news.yahoo.com/%E6%AC%A3%E5%AE%9C%E8%9D%A6%E9%A0%AD-%E6%89%AE%E5%AD%90%E7%8F%8A%E9%AC%A5%E5%98%9F%E5%98%B4-223000822.html)
 3.  [香港收视报告：《Sunday扮嘢王》27点夺冠](http://ent.sina.com.cn/v/h/2014-08-03/18024185418.shtml)

@@ -1,6 +1,4 @@
-《**噬魂者NOT！**》（Soul Eater
-Not\!）是[大久保篤的作品](https://zh.wikipedia.org/wiki/大久保篤 "wikilink")[SOUL
-EATER的](../Page/SOUL_EATER.md "wikilink")[外傳](https://zh.wikipedia.org/wiki/外傳 "wikilink")。2011年1月12日開始連載於《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》。由[BONES製作的](../Page/BONES_\(動畫製作公司\).md "wikilink")[電視動畫由](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")於2014年4月8日首播，北美地區由[Funimation](../Page/Funimation.md "wikilink")進行同步轉播。
+《**噬魂者NOT！**》（Soul Eater Not\!）是[大久保篤的作品](https://zh.wikipedia.org/wiki/大久保篤 "wikilink")[SOUL EATER的](../Page/SOUL_EATER.md "wikilink")[外傳](https://zh.wikipedia.org/wiki/外傳 "wikilink")。2011年1月12日開始連載於《[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")》。由[BONES製作的](../Page/BONES_\(動畫製作公司\).md "wikilink")[電視動畫由](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")於2014年4月8日首播，北美地區由[Funimation](../Page/Funimation.md "wikilink")進行同步轉播。
 
 ## 概要
 
@@ -183,8 +181,7 @@ EATER的](../Page/SOUL_EATER.md "wikilink")[外傳](https://zh.wikipedia.org/wik
 
 ### 電視動畫
 
-《月刊少年GANGAN》2014年1月號中公布動畫化。\[6\]2014年2月12日確定2014年4月於[東京電視台](../Page/東京電視台.md "wikilink")播映電視動畫作品，並由[東京電視台](../Page/東京電視台.md "wikilink")於2014年4月8日首播。\[7\]\[8\]北美地區由[Funimation](../Page/Funimation.md "wikilink")進行同步轉播。\[9\]電視動畫片頭曲是由Dancing
-Dolls演唱\[10\]的《monochrome》；片尾曲是由三名各配音電視動畫角色鶇、美美、阿妮亞的聲優[千菅春香](../Page/千菅春香.md "wikilink")、[悠木碧](../Page/悠木碧.md "wikilink")、[早見沙織](../Page/早見沙織.md "wikilink")演唱\[11\]的《》。
+《月刊少年GANGAN》2014年1月號中公布動畫化。\[6\]2014年2月12日確定2014年4月於[東京電視台](../Page/東京電視台.md "wikilink")播映電視動畫作品，並由[東京電視台](../Page/東京電視台.md "wikilink")於2014年4月8日首播。\[7\]\[8\]北美地區由[Funimation](../Page/Funimation.md "wikilink")進行同步轉播。\[9\]電視動畫片頭曲是由Dancing Dolls演唱\[10\]的《monochrome》；片尾曲是由三名各配音電視動畫角色鶇、美美、阿妮亞的聲優[千菅春香](../Page/千菅春香.md "wikilink")、[悠木碧](../Page/悠木碧.md "wikilink")、[早見沙織](../Page/早見沙織.md "wikilink")演唱\[11\]的《》。
 
 #### 製作人員
 
@@ -195,17 +192,14 @@ Dolls演唱\[10\]的《monochrome》；片尾曲是由三名各配音電視動�
   - 攝影監督：福士亨
   - 音響監督：[若林和弘](../Page/若林和弘.md "wikilink")
   - 音樂：[林友樹](https://zh.wikipedia.org/wiki/林友樹 "wikilink")、橘麻美
-  - 音樂製作：[KADOKAWA](../Page/KADOKAWA.md "wikilink")（[Media
-    Factory](../Page/Media_Factory.md "wikilink")）
+  - 音樂製作：[KADOKAWA](../Page/KADOKAWA.md "wikilink")（[Media Factory](../Page/Media_Factory.md "wikilink")）
   - 動畫製作：[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")
   - 製作：Soul Eater Not\!製作委員會
 
 #### 主題曲
 
   - 片頭曲「monochrome」
-    作詞：[meg
-    rock](https://zh.wikipedia.org/wiki/meg_rock "wikilink")，作曲：kz（livetune），主唱：[Dancing
-    Dolls](https://zh.wikipedia.org/wiki/Dancing_Dolls "wikilink")
+    作詞：[meg rock](https://zh.wikipedia.org/wiki/meg_rock "wikilink")，作曲：kz（livetune），主唱：[Dancing Dolls](https://zh.wikipedia.org/wiki/Dancing_Dolls "wikilink")
   - 片尾曲「」
     作詞：[大森祥子](https://zh.wikipedia.org/wiki/大森祥子 "wikilink")，作曲、編曲：宮崎誠，主唱：鶇（[千菅春香](../Page/千菅春香.md "wikilink")）×美美（[悠木碧](../Page/悠木碧.md "wikilink")）×阿妮亞（[早見沙織](../Page/早見沙織.md "wikilink")）
   - 劇中曲「」（第9話、第12話）
@@ -434,25 +428,14 @@ Dolls演唱\[10\]的《monochrome》；片尾曲是由三名各配音電視動�
 ## 外部連結
 
   - [Soul Eater Not\!公式TV動畫官網](http://www.souleaternot.tv/)
-  - [Soul Eater Not\! 東京電視台TX
-    TV動畫官網](http://www.tv-tokyo.co.jp/anime/souleaternot/)
-  - [Soul Eater Not\! AT-X電視台
-    TV動畫介紹](http://www.at-x.com/program/detail/5373)
-  - [Soul Eater Not\!
-    NICONICO網路直播專題](http://ch.nicovideo.jp/souleaternot)
-  - [Soul Eater Not\!
-    b-ch萬代頻道網路直播專題](http://www.b-ch.com/ttl/index.php?ttl_c=4059)
-  - [Soul Eater Not\!
-    GyaO\!網路直播專題](https://web.archive.org/web/20140412085825/http://gyao.yahoo.co.jp/p/00527/v12071/)
-  - [Soul Eater
-    Not\!](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=12446)漫畫在[動畫新聞網](../Page/動畫新聞網.md "wikilink")百科全書上的資料
+  - [Soul Eater Not\! 東京電視台TX TV動畫官網](http://www.tv-tokyo.co.jp/anime/souleaternot/)
+  - [Soul Eater Not\! AT-X電視台 TV動畫介紹](http://www.at-x.com/program/detail/5373)
+  - [Soul Eater Not\! NICONICO網路直播專題](http://ch.nicovideo.jp/souleaternot)
+  - [Soul Eater Not\! b-ch萬代頻道網路直播專題](http://www.b-ch.com/ttl/index.php?ttl_c=4059)
+  - [Soul Eater Not\! GyaO\!網路直播專題](https://web.archive.org/web/20140412085825/http://gyao.yahoo.co.jp/p/00527/v12071/)
+  - [Soul Eater Not\!](http://www.animenewsnetwork.com/encyclopedia/manga.php?id=12446)漫畫在[動畫新聞網](../Page/動畫新聞網.md "wikilink")百科全書上的資料
 
-[Category:月刊少年GANGAN連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年GANGAN連載作品 "wikilink")
-[Category:死神題材作品](https://zh.wikipedia.org/wiki/Category:死神題材作品 "wikilink")
-[Category:2014年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2014年東京電視網動畫 "wikilink")
-[Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
-[Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink")
-[Category:漫畫衍生作品](https://zh.wikipedia.org/wiki/Category:漫畫衍生作品 "wikilink")
+[Category:月刊少年GANGAN連載作品](https://zh.wikipedia.org/wiki/Category:月刊少年GANGAN連載作品 "wikilink") [Category:死神題材作品](https://zh.wikipedia.org/wiki/Category:死神題材作品 "wikilink") [Category:2014年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2014年東京電視網動畫 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:漫畫改編動畫](https://zh.wikipedia.org/wiki/Category:漫畫改編動畫 "wikilink") [Category:漫畫衍生作品](https://zh.wikipedia.org/wiki/Category:漫畫衍生作品 "wikilink")
 
 1.
 2.

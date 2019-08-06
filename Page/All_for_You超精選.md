@@ -1,6 +1,4 @@
-《***All for You***
-》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥](../Page/羅志祥.md "wikilink")於2011年1月21日推出的第二張國語[精選專輯](https://zh.wikipedia.org/wiki/精選專輯 "wikilink")，收錄了羅志祥在[艾迴音樂時期](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")（2003-2006）所發行的四張專輯的歌曲。這張由艾迴音樂發行的精選輯收錄了36首歌曲，19首音樂錄影帶及1小時*BenQ
-羅志祥Speshow 演唱會 Live 精華版*\[1\]
+《***All for You*** 》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[羅志祥](../Page/羅志祥.md "wikilink")於2011年1月21日推出的第二張國語[精選專輯](https://zh.wikipedia.org/wiki/精選專輯 "wikilink")，收錄了羅志祥在[艾迴音樂時期](https://zh.wikipedia.org/wiki/艾迴音樂 "wikilink")（2003-2006）所發行的四張專輯的歌曲。這張由艾迴音樂發行的精選輯收錄了36首歌曲，19首音樂錄影帶及1小時*BenQ 羅志祥Speshow 演唱會 Live 精華版*\[1\]
 
 ## 曲目
 
@@ -20,8 +18,7 @@
 10. 沒有你
 11. 漫無目的
 12. 一無所有
-13. All for you精華組曲
-    (好朋友+愛\*轉角+戀愛達人+[真命天子](../Page/真命天子_\(羅志祥歌曲\).md "wikilink")+精舞門)
+13. All for you精華組曲 (好朋友+愛\*轉角+戀愛達人+[真命天子](../Page/真命天子_\(羅志祥歌曲\).md "wikilink")+精舞門)
 
 <!-- end list -->
 
@@ -109,31 +106,19 @@
 
   - [羅志祥於艾迴音樂的介紹](http://www.avex.com.tw/show/) (2003–2007)
 
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:羅志祥音樂專輯](https://zh.wikipedia.org/wiki/Category:羅志祥音樂專輯 "wikilink")
-[Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink") [Category:羅志祥音樂專輯](https://zh.wikipedia.org/wiki/Category:羅志祥音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
-1.  yesasia.com上["*All for You*
-    的專輯介紹"](http://www.yesasia.com/global/all-for-you-3cd-2dvd/1023963250-0-0-0-zh_TW/info.html)
+1.  yesasia.com上["*All for You* 的專輯介紹"](http://www.yesasia.com/global/all-for-you-3cd-2dvd/1023963250-0-0-0-zh_TW/info.html)
 
-2.
-    ["G-Music風雲榜（華語榜）"](http://www.g-music.com.tw/GMusicBillboard1.aspx)
-    此連結只顯示本週成績，請在頁面搜尋2011年第4週之榜單成績
+2.   ["G-Music風雲榜（華語榜）"](http://www.g-music.com.tw/GMusicBillboard1.aspx) 此連結只顯示本週成績，請在頁面搜尋2011年第4週之榜單成績
 
-3.
-    ["G-Music風雲榜（華語榜）"](http://www.g-music.com.tw/GMusicBillboard1.aspx)
-    此連結只顯示本週成績，請在頁面搜尋2011年第5週之榜單成績
+3.   ["G-Music風雲榜（華語榜）"](http://www.g-music.com.tw/GMusicBillboard1.aspx) 此連結只顯示本週成績，請在頁面搜尋2011年第5週之榜單成績
 
 4.
-5.
-    ["G-Music風雲榜（綜合榜）"](http://www.g-music.com.tw/GMusicBillboard0.aspx)
-     此連結只顯示本週成績，請在頁面搜尋2011年第4週之榜單成績
+5.   ["G-Music風雲榜（綜合榜）"](http://www.g-music.com.tw/GMusicBillboard0.aspx)  此連結只顯示本週成績，請在頁面搜尋2011年第4週之榜單成績
 
-6.
-    ["五大金榜 2011年第4週之榜單成績"](http://www.5music.com.tw/CDTop.asp?top=1&pWeek=20114&sclass=)
+6.   ["五大金榜 2011年第4週之榜單成績"](http://www.5music.com.tw/CDTop.asp?top=1&pWeek=20114&sclass=)
 
-7.
-    [2011年第5週之榜單成績"](http://www.5music.com.tw/CDTop.asp?top=1&pWeek=20115&sclass=%22五大金榜)
+7.   [2011年第5週之榜單成績"](http://www.5music.com.tw/CDTop.asp?top=1&pWeek=20115&sclass=%22五大金榜)
 
 8.

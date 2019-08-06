@@ -1,5 +1,4 @@
-**新科動力CPW**（，意為：緊湊型個人武器）是一款由[新加坡](../Page/新加坡.md "wikilink")國防企業新科動力（全稱：；，簡稱：ST
-Kinetics）所自主研發和生產的多[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")，同時兼具[冲锋手枪和](../Page/全自動手槍.md "wikilink")[個人防衛武器](../Page/個人防衛武器.md "wikilink")的特點。
+**新科動力CPW**（，意為：緊湊型個人武器）是一款由[新加坡](../Page/新加坡.md "wikilink")國防企業新科動力（全稱：；，簡稱：ST Kinetics）所自主研發和生產的多[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")，同時兼具[冲锋手枪和](../Page/全自動手槍.md "wikilink")[個人防衛武器](../Page/個人防衛武器.md "wikilink")的特點。
 
 ## 設計細節
 
@@ -23,15 +22,9 @@ CPW的[機匣上下整合了共兩條](https://zh.wikipedia.org/wiki/機匣 "wik
 
 ### [电脑游戏](../Page/电脑游戏.md "wikilink")
 
-  - 2007年—《[穿越火线](../Page/穿越火线.md "wikilink")》（Cross
-    Fire）：命名为“动力CPW”，以GP时限武器之姿出现，价格为11700GP/7天或者26000GP/30天。
-  - 2012年—《[-{zh-cn:杀手：赦免;
-    zh-tw:刺客任務：赦免;}-](https://zh.wikipedia.org/wiki/殺手：赦免 "wikilink")》（Hitman:
-    Absolution）：命名為「Dynamics CPW」，30發彈匣，只有情報局衍生型，故事模式中被聖女部隊（The
-    Saints）所使用。
-  - 2013年—《[-{zh-cn:武裝行動3; zh-tw:武裝行動3;
-    zh-hk:武裝行動3;}-](https://zh.wikipedia.org/wiki/武裝突襲3 "wikilink")》（ArmA
-    III）：命名為「PDW2000」，被INDFOR所使用。奇怪地發射9×21毫米子彈。
+  - 2007年—《[穿越火线](../Page/穿越火线.md "wikilink")》（Cross Fire）：命名为“动力CPW”，以GP时限武器之姿出现，价格为11700GP/7天或者26000GP/30天。
+  - 2012年—《[-{zh-cn:杀手：赦免; zh-tw:刺客任務：赦免;}-](https://zh.wikipedia.org/wiki/殺手：赦免 "wikilink")》（Hitman: Absolution）：命名為「Dynamics CPW」，30發彈匣，只有情報局衍生型，故事模式中被聖女部隊（The Saints）所使用。
+  - 2013年—《[-{zh-cn:武裝行動3; zh-tw:武裝行動3; zh-hk:武裝行動3;}-](https://zh.wikipedia.org/wiki/武裝突襲3 "wikilink")》（ArmA III）：命名為「PDW2000」，被INDFOR所使用。奇怪地發射9×21毫米子彈。
 
 ## 參見
 
@@ -65,41 +58,23 @@ CPW的[機匣上下整合了共兩條](https://zh.wikipedia.org/wiki/機匣 "wik
 
 ## 外部連結
 
-  - —[ST Engineering—Official
-    site](https://web.archive.org/web/20081209062121/http://www.stengg.com/CoyCapPro/detail.aspx?pdid=399)
+  - —[ST Engineering—Official site](https://web.archive.org/web/20081209062121/http://www.stengg.com/CoyCapPro/detail.aspx?pdid=399)
 
-  - —[Modern Firearms—STKinetics CPW submachine gun - Compact Personal
-    Weapon](http://world.guns.ru/smg/sing/stk-cpw-e.html)
+  - —[Modern Firearms—STKinetics CPW submachine gun - Compact Personal Weapon](http://world.guns.ru/smg/sing/stk-cpw-e.html)
 
-  - —[Weapon.ge—ST Kinetics
-    CPW](http://georgians.weapon.ge/index.php?sel=1&id=269&man=&coun=&cat=4&l=en)
+  - —[Weapon.ge—ST Kinetics CPW](http://georgians.weapon.ge/index.php?sel=1&id=269&man=&coun=&cat=4&l=en)
 
-  - —[Defense Review - ST Kinetics CPW (Compact Personal Weapon)
-    Submachine
-    Gun/PDW](http://www.defensereview.com/st-kinetics-cpw-compact-personal-weapon-submachine-gunpdw/)
+  - —[Defense Review - ST Kinetics CPW (Compact Personal Weapon) Submachine Gun/PDW](http://www.defensereview.com/st-kinetics-cpw-compact-personal-weapon-submachine-gunpdw/)
 
-  - —[The Firearm Blog.com—ST Kinetics CPW (Compact Personal
-    Weapon)](http://www.thefirearmblog.com/blog/2008/09/04/st-kinetics-cpw-compact-personal-weapon/)
+  - —[The Firearm Blog.com—ST Kinetics CPW (Compact Personal Weapon)](http://www.thefirearmblog.com/blog/2008/09/04/st-kinetics-cpw-compact-personal-weapon/)
 
-  - —[CIS / Military, Security and Civilian Guns and Equipment—ST
-    Kinetics CPW (Compact Personal
-    Weapon)](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=873)
+  - —[CIS / Military, Security and Civilian Guns and Equipment—ST Kinetics CPW (Compact Personal Weapon)](http://www.militaryfactory.com/smallarms/detail.asp?smallarms_id=873)
 
-  - —[DefenseReview.com—ST Kinetics CPW (Compact Personal Weapon)
-    Submachine
-    Gun/PDW](http://www.defensereview.com/st-kinetics-cpw-compact-personal-weapon-submachine-gunpdw/)
+  - —[DefenseReview.com—ST Kinetics CPW (Compact Personal Weapon) Submachine Gun/PDW](http://www.defensereview.com/st-kinetics-cpw-compact-personal-weapon-submachine-gunpdw/)
 
-  - —[Энциклопедия Вооружений－ST Kinetics
-    CPW](http://gunsite.narod.ru/st_kinetics_cpw.htm)
+  - —[Энциклопедия Вооружений－ST Kinetics CPW](http://gunsite.narod.ru/st_kinetics_cpw.htm)
 
-[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink")
-[Category:衝鋒手槍](https://zh.wikipedia.org/wiki/Category:衝鋒手槍 "wikilink")
-[Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink")
-[Category:5.7×28毫米槍械](https://zh.wikipedia.org/wiki/Category:5.7×28毫米槍械 "wikilink")
-[Category:4.6×30毫米槍械](https://zh.wikipedia.org/wiki/Category:4.6×30毫米槍械 "wikilink")
-[Category:新加坡军事](https://zh.wikipedia.org/wiki/Category:新加坡军事 "wikilink")
-[Category:新加坡槍械](https://zh.wikipedia.org/wiki/Category:新加坡槍械 "wikilink")
-[Category:需要圖片的槍械條目](https://zh.wikipedia.org/wiki/Category:需要圖片的槍械條目 "wikilink")
+[Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink") [Category:衝鋒手槍](https://zh.wikipedia.org/wiki/Category:衝鋒手槍 "wikilink") [Category:9毫米魯格彈槍械](https://zh.wikipedia.org/wiki/Category:9毫米魯格彈槍械 "wikilink") [Category:5.7×28毫米槍械](https://zh.wikipedia.org/wiki/Category:5.7×28毫米槍械 "wikilink") [Category:4.6×30毫米槍械](https://zh.wikipedia.org/wiki/Category:4.6×30毫米槍械 "wikilink") [Category:新加坡军事](https://zh.wikipedia.org/wiki/Category:新加坡军事 "wikilink") [Category:新加坡槍械](https://zh.wikipedia.org/wiki/Category:新加坡槍械 "wikilink") [Category:需要圖片的槍械條目](https://zh.wikipedia.org/wiki/Category:需要圖片的槍械條目 "wikilink")
 
 1.
 2.

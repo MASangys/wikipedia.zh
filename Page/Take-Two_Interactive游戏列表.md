@@ -1,15 +1,4 @@
-[Take-Two
-Interactive是美国电子游戏发行商](../Page/Take-Two_Interactive.md "wikilink")，成立于1993年。该公司先前拥有几个发行品牌，包括[Gathering
-of Developers](../Page/Gathering_of_Developers.md "wikilink")、[Global
-Star
-Software](https://zh.wikipedia.org/wiki/Global_Star_Software "wikilink")、[Gotham
-Games](https://zh.wikipedia.org/wiki/Gotham_Games "wikilink")、Take
-2和[TalonSoft](../Page/TalonSoft.md "wikilink")。现在该公司以2K（[Games](../Page/2K_Games.md "wikilink")、[Play](https://zh.wikipedia.org/wiki/2K_Play "wikilink")、[Sports](../Page/2K_Sports.md "wikilink")）和[Rockstar
-Games的名义发行游戏](../Page/Rockstar_Games.md "wikilink")。我们熟知的《[生化奇兵](https://zh.wikipedia.org/wiki/生化奇兵 "wikilink")》、《[无主之地](../Page/无主之地.md "wikilink")》、《[文明帝國](https://zh.wikipedia.org/wiki/文明帝國系列 "wikilink")》、《[侠盗猎车手](https://zh.wikipedia.org/wiki/侠盗猎车手系列 "wikilink")》、《[马克思·佩恩](https://zh.wikipedia.org/wiki/马克思·佩恩 "wikilink")》、《[NBA
-2K](../Page/NBA_2K系列.md "wikilink")》、《[WWE
-2K](https://zh.wikipedia.org/wiki/WWE_2K "wikilink")》、《[-{zh-cn:荒野大镖客;
-zh-tw:碧血狂殺;}-](../Page/荒野大镖客：救赎.md "wikilink")》以及《[XCOM](https://zh.wikipedia.org/wiki/X-COM "wikilink")》系列都是出自该公司。
-{{-}}
+[Take-Two Interactive是美国电子游戏发行商](../Page/Take-Two_Interactive.md "wikilink")，成立于1993年。该公司先前拥有几个发行品牌，包括[Gathering of Developers](../Page/Gathering_of_Developers.md "wikilink")、[Global Star Software](https://zh.wikipedia.org/wiki/Global_Star_Software "wikilink")、[Gotham Games](https://zh.wikipedia.org/wiki/Gotham_Games "wikilink")、Take 2和[TalonSoft](../Page/TalonSoft.md "wikilink")。现在该公司以2K（[Games](../Page/2K_Games.md "wikilink")、[Play](https://zh.wikipedia.org/wiki/2K_Play "wikilink")、[Sports](../Page/2K_Sports.md "wikilink")）和[Rockstar Games的名义发行游戏](../Page/Rockstar_Games.md "wikilink")。我们熟知的《[生化奇兵](https://zh.wikipedia.org/wiki/生化奇兵 "wikilink")》、《[无主之地](../Page/无主之地.md "wikilink")》、《[文明帝國](https://zh.wikipedia.org/wiki/文明帝國系列 "wikilink")》、《[侠盗猎车手](https://zh.wikipedia.org/wiki/侠盗猎车手系列 "wikilink")》、《[马克思·佩恩](https://zh.wikipedia.org/wiki/马克思·佩恩 "wikilink")》、《[NBA 2K](../Page/NBA_2K系列.md "wikilink")》、《[WWE 2K](https://zh.wikipedia.org/wiki/WWE_2K "wikilink")》、《[-{zh-cn:荒野大镖客; zh-tw:碧血狂殺;}-](../Page/荒野大镖客：救赎.md "wikilink")》以及《[XCOM](https://zh.wikipedia.org/wiki/X-COM "wikilink")》系列都是出自该公司。 {{-}}
 
 ## 游戏列表
 

@@ -1,13 +1,6 @@
-《**Selector infected
-WIXOSS**》是[LRIG所作](https://zh.wikipedia.org/wiki/LRIG "wikilink")，由[J.C.STAFF負責動畫製作的](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")[日本電視動畫](../Page/日本電視動畫.md "wikilink")，素材是基于[Takara
-Tomy在](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")2014年4月26日發售的[交換卡片遊戲](../Page/交換卡片遊戲.md "wikilink")，2014年4月3日于[MBS等日本電視台開播](https://zh.wikipedia.org/wiki/MBS "wikilink")，另外有[NICONICO在網路直播放送](https://zh.wikipedia.org/wiki/NICONICO "wikilink")。第二期《**Selector
-spread WIXOSS**》於2014年10月開始放映。劇場版《**Selector destructed
-WIXOSS**》於2016年8月24日放映。
+《**Selector infected WIXOSS**》是[LRIG所作](https://zh.wikipedia.org/wiki/LRIG "wikilink")，由[J.C.STAFF負責動畫製作的](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")[日本電視動畫](../Page/日本電視動畫.md "wikilink")，素材是基于[Takara Tomy在](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")2014年4月26日發售的[交換卡片遊戲](../Page/交換卡片遊戲.md "wikilink")，2014年4月3日于[MBS等日本電視台開播](https://zh.wikipedia.org/wiki/MBS "wikilink")，另外有[NICONICO在網路直播放送](https://zh.wikipedia.org/wiki/NICONICO "wikilink")。第二期《**Selector spread WIXOSS**》於2014年10月開始放映。劇場版《**Selector destructed WIXOSS**》於2016年8月24日放映。
 
-第三期《**[Lostorage incited
-WIXOSS](../Page/Lostorage_incited_WIXOSS.md "wikilink")**》於2016年10月開始放映，有著全新故事和主角，略有提及Selector的故事。第四期《**[Lostorage
-conflated
-WIXOSS](https://zh.wikipedia.org/wiki/Lostorage_conflated_WIXOSS "wikilink")**》於2018年4月開始放映，Selector故事中的主角也會再度登場。
+第三期《**[Lostorage incited WIXOSS](../Page/Lostorage_incited_WIXOSS.md "wikilink")**》於2016年10月開始放映，有著全新故事和主角，略有提及Selector的故事。第四期《**[Lostorage conflated WIXOSS](https://zh.wikipedia.org/wiki/Lostorage_conflated_WIXOSS "wikilink")**》於2018年4月開始放映，Selector故事中的主角也會再度登場。
 
 ## 故事簡介
 
@@ -209,10 +202,7 @@ WIXOSS是由「**Wi**sh A**cross**」縮寫而成，意思為願望的交錯。\
 
 ## 電視動畫
 
-2014年4月3日至6月19日于[每日放送](../Page/每日放送.md "wikilink")、[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[愛知电视台等方式播出](https://zh.wikipedia.org/wiki/愛知电视台 "wikilink")。在第一期《selector
-infected WIXOSS》结束时，宣布第二期標題为《selector spread
-WIXOSS》並在同年10月繼續播放。劇場版《selector destructed
-WIXOSS》於2016年2月13日公開決定，並在同年8月24放映。
+2014年4月3日至6月19日于[每日放送](../Page/每日放送.md "wikilink")、[東京都會電視台](../Page/東京都會電視台.md "wikilink")、[愛知电视台等方式播出](https://zh.wikipedia.org/wiki/愛知电视台 "wikilink")。在第一期《selector infected WIXOSS》结束时，宣布第二期標題为《selector spread WIXOSS》並在同年10月繼續播放。劇場版《selector destructed WIXOSS》於2016年2月13日公開決定，並在同年8月24放映。
 
 ### 制作人員
 
@@ -911,30 +901,21 @@ WIXOSS》於2016年2月13日公開決定，並在同年8月24放映。
   - [《选择扩散者WIXOSS》電視動畫官方网站](http://selector-wixoss.com/)
 
   -
-  - [電視動畫《选择扩散者WIXOSS》 第二期 TOKYO
-    MX介紹官網](http://s.mxtv.jp/selector_wixoss2/)
+  - [電視動畫《选择扩散者WIXOSS》 第二期 TOKYO MX介紹官網](http://s.mxtv.jp/selector_wixoss2/)
 
-  - [電視動畫《选择扩散者WIXOSS》 第二期 BS11
-    介紹官網](https://web.archive.org/web/20141031144209/http://www.bs11.jp/anime/2772/)
+  - [電視動畫《选择扩散者WIXOSS》 第二期 BS11 介紹官網](https://web.archive.org/web/20141031144209/http://www.bs11.jp/anime/2772/)
 
-  - [電視動畫《选择扩散者WIXOSS》 第二期 AT-X
-    介紹官網](http://www.at-x.com/program/detail/5724)
+  - [電視動畫《选择扩散者WIXOSS》 第二期 AT-X 介紹官網](http://www.at-x.com/program/detail/5724)
 
-  - [電視動畫《选择扩散者WIXOSS》第二期 ifun動漫台
-    中文介紹主題](http://www.i-funtv.com.tw/tv-show-info.php?id=414)
+  - [電視動畫《选择扩散者WIXOSS》第二期 ifun動漫台 中文介紹主題](http://www.i-funtv.com.tw/tv-show-info.php?id=414)
 
   - [電視動畫《WIXOSS》第一期 TOKYO MX介紹官網](http://s.mxtv.jp/selector_wixoss/)
 
-  - [電視動畫《WIXOSS》第一期 BS11
-    介紹官網](https://web.archive.org/web/20140417150833/http://www.bs11.jp/anime/2538/)
+  - [電視動畫《WIXOSS》第一期 BS11 介紹官網](https://web.archive.org/web/20140417150833/http://www.bs11.jp/anime/2538/)
 
   - [電視動畫《WIXOSS》第一期 AT-X 介紹官網](http://www.at-x.com/program/detail/5380)
 
-[Category:交換卡片遊戲題材動畫](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材動畫 "wikilink")
-[Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:Takara_Tomy](https://zh.wikipedia.org/wiki/Category:Takara_Tomy "wikilink")
-[Category:Hobby_Japan](https://zh.wikipedia.org/wiki/Category:Hobby_Japan "wikilink")
+[Category:交換卡片遊戲題材動畫](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材動畫 "wikilink") [Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:Takara_Tomy](https://zh.wikipedia.org/wiki/Category:Takara_Tomy "wikilink") [Category:Hobby_Japan](https://zh.wikipedia.org/wiki/Category:Hobby_Japan "wikilink")
 
 1.
 2.  在故事最後與五十嵐留未重逢時，未解除LRIG姿態前同樣擁有淡紅色眼影。

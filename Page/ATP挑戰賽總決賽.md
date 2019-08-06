@@ -68,10 +68,7 @@
 
   - [官方網站](https://web.archive.org/web/20111023000715/http://www.challengerfinals.com.br/)
 
-[Category:ATP世界巡迴賽總決賽](https://zh.wikipedia.org/wiki/Category:ATP世界巡迴賽總決賽 "wikilink")
-[Category:ATP挑戰賽](https://zh.wikipedia.org/wiki/Category:ATP挑戰賽 "wikilink")
-[Category:ATP挑戰賽總決賽](https://zh.wikipedia.org/wiki/Category:ATP挑戰賽總決賽 "wikilink")
+[Category:ATP世界巡迴賽總決賽](https://zh.wikipedia.org/wiki/Category:ATP世界巡迴賽總決賽 "wikilink") [Category:ATP挑戰賽](https://zh.wikipedia.org/wiki/Category:ATP挑戰賽 "wikilink") [Category:ATP挑戰賽總決賽](https://zh.wikipedia.org/wiki/Category:ATP挑戰賽總決賽 "wikilink")
 
 1.
-2.   [Ginásio do
-    Ibirapuera](http://www.sejel.sp.gov.br/constancio/ginasio.htm)
+2.   [Ginásio do Ibirapuera](http://www.sejel.sp.gov.br/constancio/ginasio.htm)

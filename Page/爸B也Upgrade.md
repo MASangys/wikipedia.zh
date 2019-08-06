@@ -25,10 +25,8 @@
 
 ## 外部連結
 
-  - [無綫電視節目網頁 -
-    爸B也Upgrade](http://programme.tvb.com/variety/wherearewegoingdad/)
+  - [無綫電視節目網頁 - 爸B也Upgrade](http://programme.tvb.com/variety/wherearewegoingdad/)
 
 ## 電視節目的變遷
 
-[Category:2013年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2013年無綫電視節目 "wikilink")
-[Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")
+[Category:2013年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2013年無綫電視節目 "wikilink") [Category:真人秀節目](https://zh.wikipedia.org/wiki/Category:真人秀節目 "wikilink")

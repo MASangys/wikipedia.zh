@@ -6,11 +6,9 @@
 
 ## 參考
 
-  - [PGZ-88Self-Propelled Anti-Aircraft
-    Artillery](http://en.valka.cz/viewtopic.php/t/38346)
+  - [PGZ-88Self-Propelled Anti-Aircraft Artillery](http://en.valka.cz/viewtopic.php/t/38346)
   - Jane's Land Based Air Defence 2005-2006
 
 [分類:高射炮](https://zh.wikipedia.org/wiki/分類:高射炮 "wikilink")
 
-[Category:機動防空車](https://zh.wikipedia.org/wiki/Category:機動防空車 "wikilink")
-[Category:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:中華人民共和國裝甲戰鬥車輛 "wikilink")
+[Category:機動防空車](https://zh.wikipedia.org/wiki/Category:機動防空車 "wikilink") [Category:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:中華人民共和國裝甲戰鬥車輛 "wikilink")

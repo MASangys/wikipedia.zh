@@ -1,6 +1,4 @@
-[Antigen_presentation.svg](https://zh.wikipedia.org/wiki/File:Antigen_presentation.svg "fig:Antigen_presentation.svg")或[輔助T細胞](https://zh.wikipedia.org/wiki/輔助T細胞 "wikilink")\]\]
-  **T细胞受体**（**T cell receptor**,
-**TCR**）是[T细胞](../Page/T细胞.md "wikilink")表面的特异性受体\[1\]，负责识别由[主要组织相容性复合体](../Page/主要组织相容性复合体.md "wikilink")（MHC）所呈递的[抗原](../Page/抗原.md "wikilink")，与[B细胞受体不同](https://zh.wikipedia.org/wiki/B细胞受体 "wikilink")，并不能识别游离的抗原。通常情况下，T细胞受体与抗原间拥有较低的[亲和力](https://zh.wikipedia.org/wiki/亲和力 "wikilink")，因而同一抗原可能被不同的T细胞受体所识别，某一受体也可能识别许多种抗原。
+[Antigen_presentation.svg](https://zh.wikipedia.org/wiki/File:Antigen_presentation.svg "fig:Antigen_presentation.svg")或[輔助T細胞](https://zh.wikipedia.org/wiki/輔助T細胞 "wikilink")\]\]   **T细胞受体**（**T cell receptor**, **TCR**）是[T细胞](../Page/T细胞.md "wikilink")表面的特异性受体\[1\]，负责识别由[主要组织相容性复合体](../Page/主要组织相容性复合体.md "wikilink")（MHC）所呈递的[抗原](../Page/抗原.md "wikilink")，与[B细胞受体不同](https://zh.wikipedia.org/wiki/B细胞受体 "wikilink")，并不能识别游离的抗原。通常情况下，T细胞受体与抗原间拥有较低的[亲和力](https://zh.wikipedia.org/wiki/亲和力 "wikilink")，因而同一抗原可能被不同的T细胞受体所识别，某一受体也可能识别许多种抗原。
 
 T细胞受体是[异源二聚体](https://zh.wikipedia.org/wiki/二聚体 "wikilink")，由两个不同的[亚基所构成](https://zh.wikipedia.org/wiki/亚基 "wikilink")。95%的T细胞的受体由α亚基和β亚基构成，另外5%的受体由γ亚基和δ亚基构成。这个比例会因为个体发育或是疾病而变化。
 
@@ -8,13 +6,9 @@ T细胞受体与MHC所呈递的多肽的特异性结合会引发一系列生化�
 
 ## 结构
 
-T细胞受体是一个固定在[细胞膜](../Page/细胞膜.md "wikilink")上的异源二聚体，多数由高度易变的α亚基和β亚基通过[二硫键连结构成](https://zh.wikipedia.org/wiki/二硫键 "wikilink")。这一类T细胞被称为[αβ
-T细胞](../Page/T细胞.md "wikilink")。少数含有γ亚基和δ亚基被称为[γδ
-T细胞](../Page/T细胞.md "wikilink")\[2\]。T细胞受体会与恒定的[CD3分子一起构成T细胞受体复合体](https://zh.wikipedia.org/wiki/CD3 "wikilink")。
+T细胞受体是一个固定在[细胞膜](../Page/细胞膜.md "wikilink")上的异源二聚体，多数由高度易变的α亚基和β亚基通过[二硫键连结构成](https://zh.wikipedia.org/wiki/二硫键 "wikilink")。这一类T细胞被称为[αβ T细胞](../Page/T细胞.md "wikilink")。少数含有γ亚基和δ亚基被称为[γδ T细胞](../Page/T细胞.md "wikilink")\[2\]。T细胞受体会与恒定的[CD3分子一起构成T细胞受体复合体](https://zh.wikipedia.org/wiki/CD3 "wikilink")。
 
-每一个亚基都含有两个细胞外的[结构域](../Page/结构域.md "wikilink")：可变区与恒定区。这些结构域属于[免疫球蛋白超家族](https://zh.wikipedia.org/wiki/免疫球蛋白超家族 "wikilink")，由反向平行的[β折叠所构成](https://zh.wikipedia.org/wiki/β折叠 "wikilink")。恒定区靠近细胞膜，连接着跨膜区和胞内的末端，而可变区负责识别多肽/MHC复合体。每个亚基的可变区都包含三个高度易变的[互补决定区](https://zh.wikipedia.org/wiki/互补决定区 "wikilink")（complementarity
-determining regions,
-CDR）。最重要的CDR3负责直接与MHC所呈递的多肽结合。α亚基和β亚基的CDR1分别作用与多肽的N端和C端。CDR2被认为参与识别MHC。β亚基还有一个额外的CDR4，通常并不参与多肽/MHC复合体的识别，但与[超抗原的作用有关](https://zh.wikipedia.org/wiki/超抗原 "wikilink")。
+每一个亚基都含有两个细胞外的[结构域](../Page/结构域.md "wikilink")：可变区与恒定区。这些结构域属于[免疫球蛋白超家族](https://zh.wikipedia.org/wiki/免疫球蛋白超家族 "wikilink")，由反向平行的[β折叠所构成](https://zh.wikipedia.org/wiki/β折叠 "wikilink")。恒定区靠近细胞膜，连接着跨膜区和胞内的末端，而可变区负责识别多肽/MHC复合体。每个亚基的可变区都包含三个高度易变的[互补决定区](https://zh.wikipedia.org/wiki/互补决定区 "wikilink")（complementarity determining regions, CDR）。最重要的CDR3负责直接与MHC所呈递的多肽结合。α亚基和β亚基的CDR1分别作用与多肽的N端和C端。CDR2被认为参与识别MHC。β亚基还有一个额外的CDR4，通常并不参与多肽/MHC复合体的识别，但与[超抗原的作用有关](https://zh.wikipedia.org/wiki/超抗原 "wikilink")。
 
 ## 多样性
 
@@ -26,10 +20,7 @@ T细胞受体的抗原结合位极为多样化，产生这种多样性的机理�
 
 ## T细胞受体复合体
 
-T细胞受体复合体是一个跨膜的八聚体，由TCR二聚体和负责信号传递的[CD3](https://zh.wikipedia.org/wiki/CD3 "wikilink")
-δ/ε二聚体、CD3
-γ/ε二聚体以及[CD247](https://zh.wikipedia.org/wiki/CD247 "wikilink")
-ζ/ζ或是ζ/η二聚体构成。各个二聚体通过电离的氨基酸残基间的相互作用联系在一起\[7\]。T细胞受体的胞内末端很短，极有可能并不参与信号的传递。整个复合体可以高效地将受体接受到的信号传递到细胞内。
+T细胞受体复合体是一个跨膜的八聚体，由TCR二聚体和负责信号传递的[CD3](https://zh.wikipedia.org/wiki/CD3 "wikilink") δ/ε二聚体、CD3 γ/ε二聚体以及[CD247](https://zh.wikipedia.org/wiki/CD247 "wikilink") ζ/ζ或是ζ/η二聚体构成。各个二聚体通过电离的氨基酸残基间的相互作用联系在一起\[7\]。T细胞受体的胞内末端很短，极有可能并不参与信号的传递。整个复合体可以高效地将受体接受到的信号传递到细胞内。
 
 [Homo_sapiens_CD8_molecule.png](https://zh.wikipedia.org/wiki/File:Homo_sapiens_CD8_molecule.png "fig:Homo_sapiens_CD8_molecule.png")
 
@@ -37,18 +28,14 @@ T细胞受体复合体是一个跨膜的八聚体，由TCR二聚体和负责信�
 
 T细胞受体与特异抗原的结合需要协同受体同时结合到MHC分子上加以强化。总共有两种不同的T细胞协同受体：
 
-  - [辅助型T细胞表面的](https://zh.wikipedia.org/wiki/辅助型T细胞 "wikilink")[CD4分子](https://zh.wikipedia.org/wiki/CD4 "wikilink")，负责识别第二类主要组织相容性复合体（MHC
-    II）
-  - [细胞毒性T细胞](../Page/细胞毒性T细胞.md "wikilink")表面的[CD8分子](https://zh.wikipedia.org/wiki/CD8 "wikilink")，负责识别第一类主要组织相容性复合体（MHC
-    I）
+  - [辅助型T细胞表面的](https://zh.wikipedia.org/wiki/辅助型T细胞 "wikilink")[CD4分子](https://zh.wikipedia.org/wiki/CD4 "wikilink")，负责识别第二类主要组织相容性复合体（MHC II）
+  - [细胞毒性T细胞](../Page/细胞毒性T细胞.md "wikilink")表面的[CD8分子](https://zh.wikipedia.org/wiki/CD8 "wikilink")，负责识别第一类主要组织相容性复合体（MHC I）
 
 协同受体不仅提高了T细胞受体在功能上的特异性，而且延长了T细胞与[抗原呈递细胞的作用时间](https://zh.wikipedia.org/wiki/抗原呈递细胞 "wikilink")，还是细胞内信号通路的一些分子（如[Lck](https://zh.wikipedia.org/wiki/Lck "wikilink")）的附着点。
 
 ## T细胞激活
 
-T细胞受体的主要功能是在识别特异抗原后激活T细胞。T细胞激活的过程属于跨膜信号传递，由众多的分子和生化反应共同完成。细胞内信号传递最常见的方式是由[激酶和](https://zh.wikipedia.org/wiki/激酶 "wikilink")[磷酸酶](../Page/磷酸酶.md "wikilink")所主导的蛋白磷酸化和去磷酸化。CD3和ζ亚基的胞内区域有许多（immunoreceptor
-tyrosine-based activation motifs,
-ITAM）。在T细胞受体被激活后，这些序列中的酪氨酸被[Src激酶家族磷酸化](https://zh.wikipedia.org/wiki/Src "wikilink")\[8\]，从而实现了信号的跨膜传递。
+T细胞受体的主要功能是在识别特异抗原后激活T细胞。T细胞激活的过程属于跨膜信号传递，由众多的分子和生化反应共同完成。细胞内信号传递最常见的方式是由[激酶和](https://zh.wikipedia.org/wiki/激酶 "wikilink")[磷酸酶](../Page/磷酸酶.md "wikilink")所主导的蛋白磷酸化和去磷酸化。CD3和ζ亚基的胞内区域有许多（immunoreceptor tyrosine-based activation motifs, ITAM）。在T细胞受体被激活后，这些序列中的酪氨酸被[Src激酶家族磷酸化](https://zh.wikipedia.org/wiki/Src "wikilink")\[8\]，从而实现了信号的跨膜传递。
 
 早期的胞内信号传递由下列的激酶和磷酸酶共同完成：
 
@@ -67,8 +54,7 @@ LAT是一种[衔接蛋白](https://zh.wikipedia.org/wiki/衔接蛋白 "wikilink"
   - [B细胞受体](https://zh.wikipedia.org/wiki/B细胞受体 "wikilink")
   - [免疫球蛋白](https://zh.wikipedia.org/wiki/免疫球蛋白 "wikilink")
 
-[Category:免疫系统](https://zh.wikipedia.org/wiki/Category:免疫系统 "wikilink")
-[Category:跨膜受体](https://zh.wikipedia.org/wiki/Category:跨膜受体 "wikilink")
+[Category:免疫系统](https://zh.wikipedia.org/wiki/Category:免疫系统 "wikilink") [Category:跨膜受体](https://zh.wikipedia.org/wiki/Category:跨膜受体 "wikilink")
 
 1.
 2.

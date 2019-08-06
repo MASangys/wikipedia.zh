@@ -1,5 +1,4 @@
-《**I Want You （She's So
-Heavy）**》是由英國搖滾樂團[披頭四成員](https://zh.wikipedia.org/wiki/披頭四 "wikilink")[約翰·藍儂創作](https://zh.wikipedia.org/wiki/約翰·藍儂 "wikilink")、收錄於專輯《[艾比路](https://zh.wikipedia.org/wiki/艾比路 "wikilink")》的1969年歌曲。（作品上是以藍儂-麥卡尼「Lennon–McCartney」的名義發表）
+《**I Want You （She's So Heavy）**》是由英國搖滾樂團[披頭四成員](https://zh.wikipedia.org/wiki/披頭四 "wikilink")[約翰·藍儂創作](https://zh.wikipedia.org/wiki/約翰·藍儂 "wikilink")、收錄於專輯《[艾比路](https://zh.wikipedia.org/wiki/艾比路 "wikilink")》的1969年歌曲。（作品上是以藍儂-麥卡尼「Lennon–McCartney」的名義發表）
 
 ## 歌曲概要
 
@@ -18,15 +17,12 @@ Heavy）**》是由英國搖滾樂團[披頭四成員](https://zh.wikipedia.org/
 ## 翻唱者
 
   - [比吉斯](../Page/比吉斯.md "wikilink")：在1978年與披頭四專輯《[比伯軍曹寂寞芳心俱樂部](../Page/比伯軍曹寂寞芳心俱樂部.md "wikilink")》同名的音樂電影裡翻唱。
-  - [莎拉·沃恩](../Page/莎拉·沃恩.md "wikilink")：收錄於1981年專輯《Songs of the
-    Beatles》。
-  - [約翰傳奇](https://zh.wikipedia.org/wiki/約翰傳奇 "wikilink")：收錄於2008年專輯《Live
-    in Philadelphia》。
+  - [莎拉·沃恩](../Page/莎拉·沃恩.md "wikilink")：收錄於1981年專輯《Songs of the Beatles》。
+  - [約翰傳奇](https://zh.wikipedia.org/wiki/約翰傳奇 "wikilink")：收錄於2008年專輯《Live in Philadelphia》。
 
 ## 參考資料
 
-[Category:披頭四歌曲](https://zh.wikipedia.org/wiki/Category:披頭四歌曲 "wikilink")
-[Category:1969年歌曲](https://zh.wikipedia.org/wiki/Category:1969年歌曲 "wikilink")
+[Category:披頭四歌曲](https://zh.wikipedia.org/wiki/Category:披頭四歌曲 "wikilink") [Category:1969年歌曲](https://zh.wikipedia.org/wiki/Category:1969年歌曲 "wikilink")
 
 1.
 2.

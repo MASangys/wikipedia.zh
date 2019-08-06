@@ -2,11 +2,7 @@
 
 ## 概觀
 
-cis符號最早由[威廉·哈密頓](../Page/威廉·哈密頓.md "wikilink")在他於1866出版的《Elements of
-Quaternions》中使用\[1\]，而Irving Stringham在1893出版的《Uniplanar Algebra》
-\[2\]\[3\] 以及James Harkness和Frank Morley在1898出版的《Theory of Analytic
-Functions》中皆沿用了此一符號 \[4\]\[5\]
-，其利用[歐拉公式將三角函數與複平面的指數函數連結起來](https://zh.wikipedia.org/wiki/歐拉公式 "wikilink")。
+cis符號最早由[威廉·哈密頓](../Page/威廉·哈密頓.md "wikilink")在他於1866出版的《Elements of Quaternions》中使用\[1\]，而Irving Stringham在1893出版的《Uniplanar Algebra》 \[2\]\[3\] 以及James Harkness和Frank Morley在1898出版的《Theory of Analytic Functions》中皆沿用了此一符號 \[4\]\[5\] ，其利用[歐拉公式將三角函數與複平面的指數函數連結起來](https://zh.wikipedia.org/wiki/歐拉公式 "wikilink")。
 
 cis函數主要的功能為簡化某些數學表達式，透過cis函數可以使部分數學式能更簡便地表達\[6\]\[7\]\[8\]，例如傅里葉變換和哈特利變換的結合\[9\]\[10\]\[11\]，以及應用在教學上時，因某些因素（如課程安排或課綱需求）因故不能使用指數來表達數學式時，cis函數就能派上用場。
 
@@ -16,37 +12,31 @@ cis函數的定义域是整个[实数集](https://zh.wikipedia.org/wiki/实数�
 
 上述文字稱它以類似三角函數的形式來定義函數的原因是，就如同[三角函數](https://zh.wikipedia.org/wiki/三角函數 "wikilink")，他也算是一種[比值](https://zh.wikipedia.org/wiki/比值 "wikilink")，[複數和其模的比值](https://zh.wikipedia.org/wiki/複數 "wikilink"):
 
-\[\operatorname{cis} \theta  = \frac{z}{\left| z\right|}\]，其中\(z\)是[幅角](../Page/幅角.md "wikilink")為\(\theta\)的[複數](https://zh.wikipedia.org/wiki/複數 "wikilink")
-因此，當一複數的模為1，其反函數就是[幅角](../Page/幅角.md "wikilink")（[arg函數](https://zh.wikipedia.org/wiki/arg函數 "wikilink")）。
+\[\operatorname{cis} \theta  = \frac{z}{\left| z\right|}\]，其中\(z\)是[幅角](../Page/幅角.md "wikilink")為\(\theta\)的[複數](https://zh.wikipedia.org/wiki/複數 "wikilink") 因此，當一複數的模為1，其反函數就是[幅角](../Page/幅角.md "wikilink")（[arg函數](https://zh.wikipedia.org/wiki/arg函數 "wikilink")）。
 
 **\(\operatorname{cis}\)函數**可視為求[單位複數的函數](https://zh.wikipedia.org/wiki/單位複數 "wikilink")
 
-**\(\operatorname{cis}\)**函數的[實數部分和](https://zh.wikipedia.org/wiki/實數 "wikilink")[餘弦函數相同](https://zh.wikipedia.org/wiki/餘弦函數 "wikilink")。
-[Cis_function_coloring_plot_3D.png](https://zh.wikipedia.org/wiki/File:Cis_function_coloring_plot_3D.png "fig:Cis_function_coloring_plot_3D.png")
+**\(\operatorname{cis}\)**函數的[實數部分和](https://zh.wikipedia.org/wiki/實數 "wikilink")[餘弦函數相同](https://zh.wikipedia.org/wiki/餘弦函數 "wikilink")。 [Cis_function_coloring_plot_3D.png](https://zh.wikipedia.org/wiki/File:Cis_function_coloring_plot_3D.png "fig:Cis_function_coloring_plot_3D.png")
 
 ## 命名
 
-由於\(\operatorname{cis}\)函數的值為「[餘弦](../Page/餘弦.md "wikilink")加上[虛數單位](../Page/虛數單位.md "wikilink")倍的[正弦](../Page/正弦.md "wikilink")」，取其英文縮寫<u>c</u>osine
-and <u>i</u>maginary unit <u>s</u>ine，故以\(\operatorname{cis}\)來表示該函數。
+由於\(\operatorname{cis}\)函數的值為「[餘弦](../Page/餘弦.md "wikilink")加上[虛數單位](../Page/虛數單位.md "wikilink")倍的[正弦](../Page/正弦.md "wikilink")」，取其英文縮寫<u>c</u>osine and <u>i</u>maginary unit <u>s</u>ine，故以\(\operatorname{cis}\)來表示該函數。
 
 ## 歐拉公式
 
 在數學上，為了簡化[歐拉公式](https://zh.wikipedia.org/wiki/歐拉公式 "wikilink")\(e^{ix} = \cos x + i\sin x \\)，因此將[歐拉公式以類似三角函數的形式來定義函數](https://zh.wikipedia.org/wiki/歐拉公式 "wikilink")，給出了**cis函數**的定義\[12\]\[13\]\[14\]\[15\]\[16\]\[17\]\[18\]\[19\]：
 
-\[\operatorname{cis} \theta  = \cos \theta + i\;\sin \theta\]
-並且一般[定義域為](https://zh.wikipedia.org/wiki/定義域 "wikilink")\(\theta \in \mathbb{R}\,\)，值域為\(\theta \in \mathbb{C}\,\)。
+\[\operatorname{cis} \theta  = \cos \theta + i\;\sin \theta\] 並且一般[定義域為](https://zh.wikipedia.org/wiki/定義域 "wikilink")\(\theta \in \mathbb{R}\,\)，值域為\(\theta \in \mathbb{C}\,\)。
 
 當\(\theta\)值為複數時，\(\operatorname{cis}\)函數仍然是有效的，所以有些人可利用cis函數將[歐拉公式推廣到更複雜的版本](https://zh.wikipedia.org/wiki/歐拉公式 "wikilink")。\[20\]
 
 ## 指數定義
 
-跟其他三角函數類似，可以用[e的](https://zh.wikipedia.org/wiki/e_\(數學常數\) "wikilink")[指數來表示](https://zh.wikipedia.org/wiki/指數 "wikilink")，依照[歐拉公式給出](https://zh.wikipedia.org/wiki/歐拉公式 "wikilink"):
-\(\operatorname{cis} \theta  = e^{i\theta}\)
+跟其他三角函數類似，可以用[e的](https://zh.wikipedia.org/wiki/e_\(數學常數\) "wikilink")[指數來表示](https://zh.wikipedia.org/wiki/指數 "wikilink")，依照[歐拉公式給出](https://zh.wikipedia.org/wiki/歐拉公式 "wikilink"): \(\operatorname{cis} \theta  = e^{i\theta}\)
 
 ## 反函數
 
-\(\operatorname{cis}\)的反函數:
-\(\operatorname{arccis} x\)，當代入模為1的複數時，所得的值是其輻角
+\(\operatorname{cis}\)的反函數: \(\operatorname{arccis} x\)，當代入模為1的複數時，所得的值是其輻角
 
 類似其他三角函數，\(\operatorname{cis}\)的反函數也可以用[自然對數](../Page/自然對數.md "wikilink")來表示
 
@@ -78,8 +68,7 @@ and <u>i</u>maginary unit <u>s</u>ine，故以\(\operatorname{cis}\)來表示該
 
 ### 餘cis函數
 
-[Cocis_function.png](https://zh.wikipedia.org/wiki/File:Cocis_function.png "fig:Cocis_function.png")
-就如同三角函數，我們可以令：\(\operatorname{cocis} \theta  = \cos \left(\frac{\pi}{2}-\theta\right) + i\;\sin \left(\frac{\pi}{2}-\theta\right) = \sin \theta + i\;\cos \theta\)，其可用於[誘導公式來化簡某些特定的](https://zh.wikipedia.org/wiki/誘導公式 "wikilink")\(\operatorname{cis}\)函數的式子。
+[Cocis_function.png](https://zh.wikipedia.org/wiki/File:Cocis_function.png "fig:Cocis_function.png") 就如同三角函數，我們可以令：\(\operatorname{cocis} \theta  = \cos \left(\frac{\pi}{2}-\theta\right) + i\;\sin \left(\frac{\pi}{2}-\theta\right) = \sin \theta + i\;\cos \theta\)，其可用於[誘導公式來化簡某些特定的](https://zh.wikipedia.org/wiki/誘導公式 "wikilink")\(\operatorname{cis}\)函數的式子。
 
 至於指數定義，經過正弦和餘弦的指數定義得:
 
@@ -117,8 +106,7 @@ and <u>i</u>maginary unit <u>s</u>ine，故以\(\operatorname{cis}\)來表示該
 
 而[雙曲複數](../Page/雙曲複數.md "wikilink")有對應的[歐拉公式](https://zh.wikipedia.org/wiki/歐拉公式 "wikilink")\[e^{j \theta} = \cosh(\theta) + j \sinh(\theta)\]
 
-\[\operatorname{cish} \theta = \cosh(\theta) + j \sinh(\theta)\]
-其中j為[雙曲複數](../Page/雙曲複數.md "wikilink")。
+\[\operatorname{cish} \theta = \cosh(\theta) + j \sinh(\theta)\] 其中j為[雙曲複數](../Page/雙曲複數.md "wikilink")。
 
 因此[雙曲cis函數得到的值為](https://zh.wikipedia.org/wiki/雙曲cis函數 "wikilink")[雙曲複數](../Page/雙曲複數.md "wikilink")，相反的若將其[反函數](../Page/反函數.md "wikilink")帶入模為一的[雙曲複數](../Page/雙曲複數.md "wikilink")可得其[輻角](https://zh.wikipedia.org/wiki/輻角 "wikilink")。
 
@@ -134,11 +122,9 @@ cas函數是一個以類似cis函數的概念定義的一個函數，為於1942�
 
 cas函數存在一些恆等式：
 
-\[2 \operatorname{cas} (a+b) = \operatorname{cas}(a) \operatorname{cas}(b) + \operatorname{cas}(-a) \operatorname{cas}(b) + \operatorname{cas}(a) \operatorname{cas}(-b) - \operatorname{cas}(-a) \operatorname{cas}(-b). \,\]
-角和公式：
+\[2 \operatorname{cas} (a+b) = \operatorname{cas}(a) \operatorname{cas}(b) + \operatorname{cas}(-a) \operatorname{cas}(b) + \operatorname{cas}(a) \operatorname{cas}(-b) - \operatorname{cas}(-a) \operatorname{cas}(-b). \,\] 角和公式：
 
-\[\operatorname{cas} (a+b) = {\cos (a) \operatorname{cas} (b)} + {\sin (a) \operatorname{cas} (-b)} = \cos (b) \operatorname{cas} (a) + \sin (b) \operatorname{cas}(-a) \,\]
-微分：
+\[\operatorname{cas} (a+b) = {\cos (a) \operatorname{cas} (b)} + {\sin (a) \operatorname{cas} (-b)} = \cos (b) \operatorname{cas} (a) + \sin (b) \operatorname{cas}(-a) \,\] 微分：
 
 \[\operatorname{cas}'(a) = \frac{\mathrm{d}}{\mathrm{d}a} \operatorname{cas} (a) = \cos (a) - \sin (a) = \operatorname{cas}(-a).\]
 
@@ -157,14 +143,11 @@ cas函數存在一些恆等式：
 
 [Category:特殊函数](https://zh.wikipedia.org/wiki/Category:特殊函数 "wikilink")
 
-1.
-    ([1](https://archive.org/stream/elementsquaterni00hamirich#page/n0/mode/1up),
-    [2](https://books.google.com/books?id=b2stAAAAYAAJ))
+1.   ([1](https://archive.org/stream/elementsquaterni00hamirich#page/n0/mode/1up), [2](https://books.google.com/books?id=b2stAAAAYAAJ))
 
 2.
 
-3.   (NB. ISBN and link for reprint of 2nd edition by Cosimo, Inc., New
-    York, US, 2013.)
+3.   (NB. ISBN and link for reprint of 2nd edition by Cosimo, Inc., New York, US, 2013.)
 
 4.
 5.   (NB. ISBN for reprint by Kessinger Publishing, 2010.)

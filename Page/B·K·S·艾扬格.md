@@ -1,5 +1,4 @@
-**拜鲁尔·克里希那马查尔·桑达拉拉亚·艾扬格**（，）是一位[印度](../Page/印度.md "wikilink")[瑜伽](../Page/瑜伽.md "wikilink")大师，他是[艾扬格瑜伽的创始人](https://zh.wikipedia.org/wiki/艾扬格瑜伽 "wikilink")，被认为是全球最负盛名的一位瑜伽教师\[1\]\[2\]。他出版了包括《[瑜伽之光](https://zh.wikipedia.org/wiki/瑜伽之光 "wikilink")》在内许多瑜伽练习书籍，在世界各地有许多人学习他创立的瑜伽练习课程。他是现代瑜伽之父——[Tirumalai
-Krishnamacharya最早的一位学生](https://zh.wikipedia.org/wiki/Tirumalai_Krishnamacharya "wikilink")\[3\]。他普及了瑜伽，并将之传播到了全世界\[4\]。他因此被许多人尊称为“尊敬的上师”(guru-ji)\[5\]。
+**拜鲁尔·克里希那马查尔·桑达拉拉亚·艾扬格**（，）是一位[印度](../Page/印度.md "wikilink")[瑜伽](../Page/瑜伽.md "wikilink")大师，他是[艾扬格瑜伽的创始人](https://zh.wikipedia.org/wiki/艾扬格瑜伽 "wikilink")，被认为是全球最负盛名的一位瑜伽教师\[1\]\[2\]。他出版了包括《[瑜伽之光](https://zh.wikipedia.org/wiki/瑜伽之光 "wikilink")》在内许多瑜伽练习书籍，在世界各地有许多人学习他创立的瑜伽练习课程。他是现代瑜伽之父——[Tirumalai Krishnamacharya最早的一位学生](https://zh.wikipedia.org/wiki/Tirumalai_Krishnamacharya "wikilink")\[3\]。他普及了瑜伽，并将之传播到了全世界\[4\]。他因此被许多人尊称为“尊敬的上师”(guru-ji)\[5\]。
 
 1991年艾扬格获得[印度政府](../Page/印度政府.md "wikilink")颁发的[莲花士勋章](../Page/莲花士勋章.md "wikilink")，2002年获得[莲花装勋章](https://zh.wikipedia.org/wiki/莲花装勋章 "wikilink")，2014年获得[莲花赐勋章](https://zh.wikipedia.org/wiki/莲花赐勋章 "wikilink")\[6\]\[7\]。2004年，艾扬格被《[时代杂志](https://zh.wikipedia.org/wiki/时代杂志 "wikilink")》评选为[全球最有影响的一百位名人之一](../Page/时代百大人物.md "wikilink")\[8\]\[9\]。
 
@@ -11,57 +10,29 @@ Krishnamacharya最早的一位学生](https://zh.wikipedia.org/wiki/Tirumalai_Kr
 
 ## 著作
 
-  - 《瑜伽之樹》(The Tree of
-    Yoga*)，2008年，繁體中文版由[心靈工坊](../Page/心靈工坊.md "wikilink")出版，ISBN
-    978-986-678-238-1*
-  - 《艾揚格瑜伽聖經》( Light on Life: The Yoga Journey to Wholeness, Inner
-    Peace, and Ultimate
-    Freedom*)，2011年，繁體中文版由[心靈工坊](../Page/心靈工坊.md "wikilink")出版，ISBN
-    978-986-611-218-8*
-  - Iyengar, B.K.S. (1966; revised ed. 1977). *Light on Yoga.* New York:
-    Schocken.\[12\] ISBN 978-0-8052-1031-6
-  - Iyengar, B.K.S. (1989). *Light on Pranayama: The Yogic Art of
-    Breathing.* New York: Crossroad. ISBN 0-8245-0686-3
-  - Iyengar, B.K.S. (1985). *The Art of Yoga.* Boston: Unwin. ISBN
-    978-0-04-149062-6
-  - Iyengar, B.K.S. (1996). *Light on the Yoga Sutras of Patanjali.*
-    London: Thorsons. ISBN 978-0-00-714516-4
-  - Iyengar, B.K.S. (2007). *Yoga: The Path to Holistic Health*. New
-    York: Dorling Kindersley. ISBN 978-0-7566-3362-2
-  - Iyengar, B.K.S. (8 Vols, 2000–2008). *Astadala Yogamala: Collected
-    Works.* New Delhi: Allied Publishers.
-  - Iyengar, B.K.S. (2009). *Yoga Wisdom and Practice.* New York:
-    Dorling Kindersley. ISBN 0-7566-4283-3
-  - Iyengar, B.K.S. (2010). *Yaugika Manas: Know and Realize the Yogic
-    Mind.* Mumbai: Yog. ISBN 81-87603-14-3
-  - Iyengar, B.K.S. (2012). *Core of the Yoga Sutras: The Definitive
-    Guide to the Philosophy of Yoga.* London: HarperThorsons. ISBN
-    978-0007921263
+  - 《瑜伽之樹》(The Tree of Yoga*)，2008年，繁體中文版由[心靈工坊](../Page/心靈工坊.md "wikilink")出版，ISBN 978-986-678-238-1*
+  - 《艾揚格瑜伽聖經》( Light on Life: The Yoga Journey to Wholeness, Inner Peace, and Ultimate Freedom*)，2011年，繁體中文版由[心靈工坊](../Page/心靈工坊.md "wikilink")出版，ISBN 978-986-611-218-8*
+  - Iyengar, B.K.S. (1966; revised ed. 1977). *Light on Yoga.* New York: Schocken.\[12\] ISBN 978-0-8052-1031-6
+  - Iyengar, B.K.S. (1989). *Light on Pranayama: The Yogic Art of Breathing.* New York: Crossroad. ISBN 0-8245-0686-3
+  - Iyengar, B.K.S. (1985). *The Art of Yoga.* Boston: Unwin. ISBN 978-0-04-149062-6
+  - Iyengar, B.K.S. (1996). *Light on the Yoga Sutras of Patanjali.* London: Thorsons. ISBN 978-0-00-714516-4
+  - Iyengar, B.K.S. (2007). *Yoga: The Path to Holistic Health*. New York: Dorling Kindersley. ISBN 978-0-7566-3362-2
+  - Iyengar, B.K.S. (8 Vols, 2000–2008). *Astadala Yogamala: Collected Works.* New Delhi: Allied Publishers.
+  - Iyengar, B.K.S. (2009). *Yoga Wisdom and Practice.* New York: Dorling Kindersley. ISBN 0-7566-4283-3
+  - Iyengar, B.K.S. (2010). *Yaugika Manas: Know and Realize the Yogic Mind.* Mumbai: Yog. ISBN 81-87603-14-3
+  - Iyengar, B.K.S. (2012). *Core of the Yoga Sutras: The Definitive Guide to the Philosophy of Yoga.* London: HarperThorsons. ISBN 978-0007921263
 
 ## 参考资料
 
 ## 外部链接
 
   - [The official Iyengar website](http://www.bksiyengar.com)
-  - [BBC World Service article and programme by Mark
-    Tully](http://www.bbc.co.uk/worldservice/people/highlights/010116_iyengar.shtml)
-  - [Leap of
-    faith](http://docsonline.tv/?search=Leap%20of%20faith&type=title&docinfo=406)
-    (2008), Trivedi & Makim, Documentary about the life of BKS Iyengar
+  - [BBC World Service article and programme by Mark Tully](http://www.bbc.co.uk/worldservice/people/highlights/010116_iyengar.shtml)
+  - [Leap of faith](http://docsonline.tv/?search=Leap%20of%20faith&type=title&docinfo=406) (2008), Trivedi & Makim, Documentary about the life of BKS Iyengar
 
-[Category:1918年出生](https://zh.wikipedia.org/wiki/Category:1918年出生 "wikilink")
-[Category:2014年逝世](https://zh.wikipedia.org/wiki/Category:2014年逝世 "wikilink")
-[Category:印度人](https://zh.wikipedia.org/wiki/Category:印度人 "wikilink")
-[Category:瑜伽士](https://zh.wikipedia.org/wiki/Category:瑜伽士 "wikilink")
-[Category:印度瑜伽教师](https://zh.wikipedia.org/wiki/Category:印度瑜伽教师 "wikilink")
-[Category:印度作家](https://zh.wikipedia.org/wiki/Category:印度作家 "wikilink")
-[Category:时代百大人物](https://zh.wikipedia.org/wiki/Category:时代百大人物 "wikilink")
-[Category:20世纪人物](https://zh.wikipedia.org/wiki/Category:20世纪人物 "wikilink")
+[Category:1918年出生](https://zh.wikipedia.org/wiki/Category:1918年出生 "wikilink") [Category:2014年逝世](https://zh.wikipedia.org/wiki/Category:2014年逝世 "wikilink") [Category:印度人](https://zh.wikipedia.org/wiki/Category:印度人 "wikilink") [Category:瑜伽士](https://zh.wikipedia.org/wiki/Category:瑜伽士 "wikilink") [Category:印度瑜伽教师](https://zh.wikipedia.org/wiki/Category:印度瑜伽教师 "wikilink") [Category:印度作家](https://zh.wikipedia.org/wiki/Category:印度作家 "wikilink") [Category:时代百大人物](https://zh.wikipedia.org/wiki/Category:时代百大人物 "wikilink") [Category:20世纪人物](https://zh.wikipedia.org/wiki/Category:20世纪人物 "wikilink")
 
-1.  Aubrey, Allison. "Light on life: B.K.S. Iyengar's Yoga insights".
-    *Morning Edition: National Public Radio*, 10 November 1995. [(full
-    text)](http://www.npr.org/templates/story/story.php?storyId=4979052)
-    Accessed 4 July 2007
+1.  Aubrey, Allison. "Light on life: B.K.S. Iyengar's Yoga insights". *Morning Edition: National Public Radio*, 10 November 1995. [(full text)](http://www.npr.org/templates/story/story.php?storyId=4979052) Accessed 4 July 2007
 
 2.
 
@@ -75,9 +46,7 @@ Krishnamacharya最早的一位学生](https://zh.wikipedia.org/wiki/Tirumalai_Kr
 
 7.
 
-8.  [2004 TIME 100 – B.K.S.
-    Iyengar](http://www.time.com/time/subscriber/2004/time100/heroes/100iyengar.html)
-    Heroes & Icons, TIME.
+8.  [2004 TIME 100 – B.K.S. Iyengar](http://www.time.com/time/subscriber/2004/time100/heroes/100iyengar.html) Heroes & Icons, TIME.
 
 9.
 

@@ -1,10 +1,8 @@
-**株式會社SILVER LINK.**為日本動畫製作公司。在多數動畫作品的場合下以“SILVER
-LINK.”或“シルバーリンク”稱呼，中文簡稱銀鏈。
+**株式會社SILVER LINK.**為日本動畫製作公司。在多數動畫作品的場合下以“SILVER LINK.”或“シルバーリンク”稱呼，中文簡稱銀鏈。
 
 ## 概要
 
-SILVER
-LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）的製作本部長，製作人金子逸人分社獨立，剛開始的營運主要是以製作協力為主，替了不少知名的製作公司來做製作協力，主要的合作對象大致上是以[SHAFT](../Page/SHAFT.md "wikilink")、[J.C.STAFF為主](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")。2009年開始獨立製作動畫，2012年轉為自主製作居多，並多以改編動畫為主。後成立子公司，共同製作動畫。
+SILVER LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）的製作本部長，製作人金子逸人分社獨立，剛開始的營運主要是以製作協力為主，替了不少知名的製作公司來做製作協力，主要的合作對象大致上是以[SHAFT](../Page/SHAFT.md "wikilink")、[J.C.STAFF為主](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")。2009年開始獨立製作動畫，2012年轉為自主製作居多，並多以改編動畫為主。後成立子公司，共同製作動畫。
 
 2016年2月1日將旗下子公司BEEP吸收合併。同年，成立了SILVER LINK.海外部。
 
@@ -17,13 +15,11 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 <!-- end list -->
 
   - [魔人偵探腦嚙涅羅](https://zh.wikipedia.org/wiki/魔人偵探腦嚙涅羅 "wikilink")（與[MADHOUSE](../Page/MADHOUSE.md "wikilink")共同製作）
-  - [惡作劇之吻](https://zh.wikipedia.org/wiki/惡作劇之吻 "wikilink")（與[TMS
-    Entertainment共同製作](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")）
+  - [惡作劇之吻](https://zh.wikipedia.org/wiki/惡作劇之吻 "wikilink")（與[TMS Entertainment共同製作](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")）
   - [二十面相少女](../Page/二十面相少女.md "wikilink")（與[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")、共同製作）
   - [西洋骨董洋菓子店](https://zh.wikipedia.org/wiki/西洋骨董洋菓子店 "wikilink")（與[日本動畫公司](../Page/日本動畫公司.md "wikilink")共同製作）
   - [戀姬†無雙](../Page/戀姬†無雙.md "wikilink")（與[動畫工房](../Page/動畫工房.md "wikilink")共同製作）
-  - [ef - a tale of
-    melodies.](https://zh.wikipedia.org/wiki/ef_-_a_tale_of_melodies. "wikilink")（與[SHAFT](../Page/SHAFT.md "wikilink")共同製作）
+  - [ef - a tale of melodies.](https://zh.wikipedia.org/wiki/ef_-_a_tale_of_melodies. "wikilink")（與[SHAFT](../Page/SHAFT.md "wikilink")共同製作）
 
 <!-- end list -->
 
@@ -31,8 +27,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 
 <!-- end list -->
 
-  - [黑神 The
-    Animation](../Page/黑神.md "wikilink")（與[SUNRISE共同製作](https://zh.wikipedia.org/wiki/SUNRISE "wikilink")）
+  - [黑神 The Animation](../Page/黑神.md "wikilink")（與[SUNRISE共同製作](https://zh.wikipedia.org/wiki/SUNRISE "wikilink")）
   - [遊魂 -kiss on my deity-](https://zh.wikipedia.org/wiki/遊魂 "wikilink")
   - [化物語](../Page/化物語.md "wikilink")（與[SHAFT](../Page/SHAFT.md "wikilink")共同製作）
   - [夢色蛋糕師](../Page/夢色蛋糕師.md "wikilink")（與[PIERROT](../Page/PIERROT.md "wikilink")共同製作）
@@ -57,13 +52,10 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
   - [人家一點都不喜歡啦！](../Page/人家一點都不喜歡啦！.md "wikilink")（與[ZEXCS](../Page/ZEXCS.md "wikilink")共同製作）
   - [笨蛋，測驗，召喚獸](../Page/笨蛋，測驗，召喚獸.md "wikilink") 第二季
   - [緋彈的亞莉亞](../Page/緋彈的亞莉亞.md "wikilink")（與[J.C.STAFF共同製作](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")）
-  - [SKET
-    DANCE](../Page/SKET_DANCE.md "wikilink")（與[龍之子Production共同製作](https://zh.wikipedia.org/wiki/龍之子Production "wikilink")）
-  - [白兔玩偶](https://zh.wikipedia.org/wiki/白兔玩偶 "wikilink")（與[Production
-    I.G共同製作](../Page/Production_I.G.md "wikilink")）
+  - [SKET DANCE](../Page/SKET_DANCE.md "wikilink")（與[龍之子Production共同製作](https://zh.wikipedia.org/wiki/龍之子Production "wikilink")）
+  - [白兔玩偶](https://zh.wikipedia.org/wiki/白兔玩偶 "wikilink")（與[Production I.G共同製作](../Page/Production_I.G.md "wikilink")）
   - [C³ -魔幻三次方-](../Page/C³_-魔幻三次方-.md "wikilink")
-  - [迴轉企鵝罐](https://zh.wikipedia.org/wiki/迴轉企鵝罐 "wikilink")（與[Brain's
-    Base共同製作](../Page/Brain's_Base.md "wikilink")）
+  - [迴轉企鵝罐](https://zh.wikipedia.org/wiki/迴轉企鵝罐 "wikilink")（與[Brain's Base共同製作](../Page/Brain's_Base.md "wikilink")）
   - [少年同盟](../Page/少年同盟.md "wikilink")（與[J.C.STAFF共同製作](https://zh.wikipedia.org/wiki/J.C.STAFF "wikilink")）
 
 <!-- end list -->
@@ -85,8 +77,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 <!-- end list -->
 
   - [戀曲寫真](../Page/戀曲寫真.md "wikilink")（與[MADHOUSE](../Page/MADHOUSE.md "wikilink")共同製作）
-  - [Fate/kaleid liner
-    魔法少女☆伊莉雅](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
+  - [Fate/kaleid liner 魔法少女☆伊莉雅](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
   - [我不受歡迎，怎麼想都是你們的錯！](../Page/我不受歡迎，怎麼想都是你們的錯！.md "wikilink")
   - [噬血狂襲](../Page/噬血狂襲.md "wikilink")（與CONNECT共同製作）
   - [悠悠哉哉少女日和](../Page/悠悠哉哉少女日和.md "wikilink")
@@ -98,8 +89,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 <!-- end list -->
 
   - [農林](../Page/農林.md "wikilink")
-  - [Fate/kaleid liner 魔法少女☆伊莉雅
-    2wei](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
+  - [Fate/kaleid liner 魔法少女☆伊莉雅 2wei](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
   - [三坪房間的侵略者！？](../Page/三坪房間的侵略者！？.md "wikilink")
   - [临时女友](../Page/临时女友.md "wikilink")
 
@@ -111,8 +101,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 
   - [百合熊風暴](../Page/百合熊風暴.md "wikilink")
   - [Chaos Dragon 赤龍戰役](../Page/赤龍_\(小說\).md "wikilink")（與CONNECT共同製作）
-  - [Fate/kaleid liner 魔法少女☆伊莉雅 2wei
-    Herz](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
+  - [Fate/kaleid liner 魔法少女☆伊莉雅 2wei Herz](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
   - [悠悠哉哉少女日和 Repeat](../Page/悠悠哉哉少女日和.md "wikilink")
   - [我被抓到貴族女校當「庶民樣本」](../Page/我被綁架到貴族女校當「庶民樣本」.md "wikilink")
   - [對魔導學園35試驗小隊](../Page/對魔導學園35試驗小隊.md "wikilink")
@@ -350,8 +339,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 
   - [笨蛋，測驗，召喚獸](../Page/笨蛋，測驗，召喚獸.md "wikilink")～祭～（2011年）
 
-  - [少女愛上大姊姊 2人的Elder THE
-    ANIMATION](../Page/處女愛上姊姊.md "wikilink")（2012年）
+  - [少女愛上大姊姊 2人的Elder THE ANIMATION](../Page/處女愛上姊姊.md "wikilink")（2012年）
 
   - （2013年）
 
@@ -382,8 +370,4 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 
   - [SILVER LINK.公式網站](http://www.silverlink.co.jp/)
 
-[Category:SILVER_LINK.](https://zh.wikipedia.org/wiki/Category:SILVER_LINK. "wikilink")
-[Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink")
-[Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")
-[Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink")
-[Category:三鷹市公司](https://zh.wikipedia.org/wiki/Category:三鷹市公司 "wikilink")
+[Category:SILVER_LINK.](https://zh.wikipedia.org/wiki/Category:SILVER_LINK. "wikilink") [Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink") [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink") [Category:東京都公司](https://zh.wikipedia.org/wiki/Category:東京都公司 "wikilink") [Category:三鷹市公司](https://zh.wikipedia.org/wiki/Category:三鷹市公司 "wikilink")

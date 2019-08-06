@@ -1,5 +1,4 @@
-《**ER**》是[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第21張單曲，以特殊組合「關八戰隊」的名義發行於2012年7月25日發行，唱片公司為[Imperial
-Records](https://zh.wikipedia.org/wiki/Imperial_Records "wikilink")。
+《**ER**》是[關西傑尼斯8](../Page/關西傑尼斯8.md "wikilink")的第21張單曲，以特殊組合「關八戰隊」的名義發行於2012年7月25日發行，唱片公司為[Imperial Records](https://zh.wikipedia.org/wiki/Imperial_Records "wikilink")。
 
 ## 概要
 
@@ -17,12 +16,6 @@ Records](https://zh.wikipedia.org/wiki/Imperial_Records "wikilink")。
 
 ## 參考資料
 
-[Category:關西傑尼斯8歌曲](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8歌曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink")
-[Category:2012年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink")
-[Category:2012年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2012年Hot_Singles_Sales冠軍單曲 "wikilink")
+[Category:關西傑尼斯8歌曲](https://zh.wikipedia.org/wiki/Category:關西傑尼斯8歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:電影主題曲](https://zh.wikipedia.org/wiki/Category:電影主題曲 "wikilink") [Category:2012年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲月榜冠軍作品 "wikilink") [Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink") [Category:2012年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年Japan_Hot_100冠軍歌曲 "wikilink") [Category:2012年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2012年Hot_Singles_Sales冠軍單曲 "wikilink")
 
 1.

@@ -20,6 +20,4 @@
 | ---- | ---------- | ----------- |
 | 榜上位置 | 8          | 15          |
 
-[Category:梁漢文音樂專輯](https://zh.wikipedia.org/wiki/Category:梁漢文音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:梁漢文音樂專輯](https://zh.wikipedia.org/wiki/Category:梁漢文音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

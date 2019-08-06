@@ -35,9 +35,7 @@ p軌域的「p」是「principal」，其為「主系光譜」之意。
 
 ## 結構
 
-[Es-Orbitales_p.png](https://zh.wikipedia.org/wiki/File:Es-Orbitales_p.png "fig:Es-Orbitales_p.png")
-[P5M0.png](https://zh.wikipedia.org/wiki/File:P5M0.png "fig:P5M0.png")\]\]
-p軌域從第二個殼層開始出現，最小的p軌域是2p軌域，也就是說，當[主量子數](../Page/主量子數.md "wikilink")n=1時，沒有p軌域（1p軌域不存在）。當[角量子數l](https://zh.wikipedia.org/wiki/角量子數 "wikilink")=1時，[磁量子數m會有三種值](https://zh.wikipedia.org/wiki/磁量子數 "wikilink")，分別為1、0、-1，因此，自量子數n=2開始有三種p軌域對應於每一個主量子數，例如，當主量子數n=2時，p軌域分別為2p<sub><small>x</small></sub>、2p<sub><small>y</small></sub>和2p<sub><small>z</small></sub>軌域，每個軌域皆可分成兩葉，帶有不同的「正負性」，這是代表波函數量值的正負。大小則如同s軌域，p軌域的形狀在2p、3p、4p裡都相同，只是大小隨著主量子數的增加而增加。p軌域同樣存在[波節面](https://zh.wikipedia.org/wiki/波節面 "wikilink")，如3p軌域在主要電子出現的兩葉中，有較小而與主葉分離的區域，此處電子出現概率為0，則這個區域即為p軌域的[波節面](https://zh.wikipedia.org/wiki/波節面 "wikilink")，隨著主量子數的增加，[波節的數量也會跟著增加](https://zh.wikipedia.org/wiki/波節 "wikilink")。
+[Es-Orbitales_p.png](https://zh.wikipedia.org/wiki/File:Es-Orbitales_p.png "fig:Es-Orbitales_p.png") [P5M0.png](https://zh.wikipedia.org/wiki/File:P5M0.png "fig:P5M0.png")\]\] p軌域從第二個殼層開始出現，最小的p軌域是2p軌域，也就是說，當[主量子數](../Page/主量子數.md "wikilink")n=1時，沒有p軌域（1p軌域不存在）。當[角量子數l](https://zh.wikipedia.org/wiki/角量子數 "wikilink")=1時，[磁量子數m會有三種值](https://zh.wikipedia.org/wiki/磁量子數 "wikilink")，分別為1、0、-1，因此，自量子數n=2開始有三種p軌域對應於每一個主量子數，例如，當主量子數n=2時，p軌域分別為2p<sub><small>x</small></sub>、2p<sub><small>y</small></sub>和2p<sub><small>z</small></sub>軌域，每個軌域皆可分成兩葉，帶有不同的「正負性」，這是代表波函數量值的正負。大小則如同s軌域，p軌域的形狀在2p、3p、4p裡都相同，只是大小隨著主量子數的增加而增加。p軌域同樣存在[波節面](https://zh.wikipedia.org/wiki/波節面 "wikilink")，如3p軌域在主要電子出現的兩葉中，有較小而與主葉分離的區域，此處電子出現概率為0，則這個區域即為p軌域的[波節面](https://zh.wikipedia.org/wiki/波節面 "wikilink")，隨著主量子數的增加，[波節的數量也會跟著增加](https://zh.wikipedia.org/wiki/波節 "wikilink")。
 
 ## 電子波
 
@@ -47,8 +45,7 @@ p軌域從第二個殼層開始出現，最小的p軌域是2p軌域，也就是�
 
 \[p_x = N_1^c \frac{x}{r} = \frac{1}{\sqrt{2}} \left(Y_1^1 - Y_1^{-1}\right)\]
 
-\[p_y = N_1^c \frac{y}{r} = i\frac{1}{\sqrt{2}} \left(Y_1^1 + Y_1^{-1}\right)\]
-with
+\[p_y = N_1^c \frac{y}{r} = i\frac{1}{\sqrt{2}} \left(Y_1^1 + Y_1^{-1}\right)\] with
 
 \[N_1^c = \left(\frac{3}{4\pi}\right)^{1/2}\]
 
@@ -82,6 +79,4 @@ p區元素是指這些元素中具有最高能量的電子是填在p軌域上的
 
   - 曾國輝《原子結構》建宏出版社 台北市 1999 ISBN 957-724-801-2
 
-[Category:原子物理学](https://zh.wikipedia.org/wiki/Category:原子物理学 "wikilink")
-[Category:原子軌域](https://zh.wikipedia.org/wiki/Category:原子軌域 "wikilink")
-[Category:軌域](https://zh.wikipedia.org/wiki/Category:軌域 "wikilink")
+[Category:原子物理学](https://zh.wikipedia.org/wiki/Category:原子物理学 "wikilink") [Category:原子軌域](https://zh.wikipedia.org/wiki/Category:原子軌域 "wikilink") [Category:軌域](https://zh.wikipedia.org/wiki/Category:軌域 "wikilink")

@@ -1,8 +1,4 @@
-**Bebe Mignon**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：베베
-미뇽），是由Vibe的尹民秀親自培訓和製作的韓國三人女子抒情團體，於2010年出道。
-成員包括[Ben](https://zh.wikipedia.org/wiki/李恩英 "wikilink")、[Hae
-Geum及](https://zh.wikipedia.org/wiki/Hae_Geum "wikilink")[Ga
-Eul](https://zh.wikipedia.org/wiki/Ga_Eul "wikilink")。於出道前曾被稱為女版的[4Men](https://zh.wikipedia.org/wiki/4Men "wikilink")。然而推出第三張專輯後，便沒有團體活動。
+**Bebe Mignon**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：베베 미뇽），是由Vibe的尹民秀親自培訓和製作的韓國三人女子抒情團體，於2010年出道。 成員包括[Ben](https://zh.wikipedia.org/wiki/李恩英 "wikilink")、[Hae Geum及](https://zh.wikipedia.org/wiki/Hae_Geum "wikilink")[Ga Eul](https://zh.wikipedia.org/wiki/Ga_Eul "wikilink")。於出道前曾被稱為女版的[4Men](https://zh.wikipedia.org/wiki/4Men "wikilink")。然而推出第三張專輯後，便沒有團體活動。
 
 2015年12月17日成員Ben在廣播節目上表示"Bebe Mignon現在是已經解散的狀態。" \[1\]
 現時成員以獨立發展形式活動，在各種領域上發展，其中成員Ben更演唱多首劇集單曲\[2\]。
@@ -194,11 +190,7 @@ Eul](https://zh.wikipedia.org/wiki/Ga_Eul "wikilink")。於出道前曾被稱為
   -
 ## 參考資料
 
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
+[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2010年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2010年成立的音樂團體 "wikilink")
 
-1.  ['Cultwo Show' Ben "女團Bebe Mignon
-    出身..已經解散了"](http://star.mt.co.kr/stview.php?no=2015121715331329095&outlink=1&ref=https%3A%2F%2F)
+1.  ['Cultwo Show' Ben "女團Bebe Mignon 出身..已經解散了"](http://star.mt.co.kr/stview.php?no=2015121715331329095&outlink=1&ref=https%3A%2F%2F)
 2.  [樂迷小本本：你愛的韓劇都有她的聲音 韓劇原聲帶女神Ben](http://www.niusnews.com/=P2uppej9)

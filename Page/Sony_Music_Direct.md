@@ -1,5 +1,4 @@
-**Sony Music
-Direct股份有限公司**，是[日本索尼音乐娱乐旗下的一家](https://zh.wikipedia.org/wiki/日本索尼音乐娱乐 "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")。
+**Sony Music Direct股份有限公司**，是[日本索尼音乐娱乐旗下的一家](https://zh.wikipedia.org/wiki/日本索尼音乐娱乐 "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")。
 
 ## 概要
 
@@ -13,7 +12,4 @@ Direct股份有限公司**，是[日本索尼音乐娱乐旗下的一家](https:
   - [HIGH-HOPES](http://www.sonymusic.co.jp/Music/International/Special/high-hopes/index.html)，以欧美音乐为主题的音乐网站。
   - [来福](http://www.sonymusic.co.jp/Music/Info/raifuku/)，以[落语为主题的音乐网站](https://zh.wikipedia.org/wiki/落语 "wikilink")。
 
-[Category:日本索尼音乐娱乐](https://zh.wikipedia.org/wiki/Category:日本索尼音乐娱乐 "wikilink")
-[Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink")
-[Category:千代田区公司](https://zh.wikipedia.org/wiki/Category:千代田区公司 "wikilink")
-[Category:日本艺人经纪公司](https://zh.wikipedia.org/wiki/Category:日本艺人经纪公司 "wikilink")
+[Category:日本索尼音乐娱乐](https://zh.wikipedia.org/wiki/Category:日本索尼音乐娱乐 "wikilink") [Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink") [Category:千代田区公司](https://zh.wikipedia.org/wiki/Category:千代田区公司 "wikilink") [Category:日本艺人经纪公司](https://zh.wikipedia.org/wiki/Category:日本艺人经纪公司 "wikilink")

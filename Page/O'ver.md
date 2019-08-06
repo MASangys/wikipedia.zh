@@ -8,14 +8,11 @@
 ## 收錄歌曲
 
 1.  **O'ver**\[4:58\]
-      - 作詞：SHUN / 作曲：[菊池一仁](../Page/菊池一仁.md "wikilink") /
-        編曲：[長岡成貢](https://zh.wikipedia.org/wiki/長岡成貢 "wikilink")
+      - 作詞：SHUN / 作曲：[菊池一仁](../Page/菊池一仁.md "wikilink") / 編曲：[長岡成貢](https://zh.wikipedia.org/wiki/長岡成貢 "wikilink")
 2.  O'ver（Winter Version）\[3:06\]
       - 作詞：SHUN / 作曲：菊池一仁 / 編曲：岩戸崇
 3.  O'ver（Instrumental）
 
 ## 備註
 
-[Category:放浪兄弟歌曲](https://zh.wikipedia.org/wiki/Category:放浪兄弟歌曲 "wikilink")
-[Category:2003年單曲](https://zh.wikipedia.org/wiki/Category:2003年單曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
+[Category:放浪兄弟歌曲](https://zh.wikipedia.org/wiki/Category:放浪兄弟歌曲 "wikilink") [Category:2003年單曲](https://zh.wikipedia.org/wiki/Category:2003年單曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")

@@ -1,12 +1,10 @@
-《**Frost醫生**》（，，全名《**天才心理學者－Frost醫生**》，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](https://zh.wikipedia.org/wiki/OCN "wikilink")2014年11月23日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original
-Series），改編自同名漫畫。\[1\]
+《**Frost醫生**》（，，全名《**天才心理學者－Frost醫生**》，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](https://zh.wikipedia.org/wiki/OCN "wikilink")2014年11月23日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original Series），改編自同名漫畫。\[1\]
 
 ## 演員陣容
 
 ### 主要人物
 
-  - [宋昶儀](../Page/宋昶儀.md "wikilink") 飾演
-    Dr.Frost/白南峰（粤语配音：[梁皓翔](../Page/梁皓翔.md "wikilink")）
+  - [宋昶儀](../Page/宋昶儀.md "wikilink") 飾演 Dr.Frost/白南峰（粤语配音：[梁皓翔](../Page/梁皓翔.md "wikilink")）
 
 <!-- end list -->
 
@@ -24,8 +22,7 @@ Series），改編自同名漫畫。\[1\]
 
 <!-- end list -->
 
-  - [成智婁](../Page/成智婁.md "wikilink") 飾演
-    南泰峰（粤语配音：[羅偉亮](../Page/羅偉亮.md "wikilink")）
+  - [成智婁](../Page/成智婁.md "wikilink") 飾演 南泰峰（粤语配音：[羅偉亮](../Page/羅偉亮.md "wikilink")）
 
 <!-- end list -->
 
@@ -34,8 +31,7 @@ Series），改編自同名漫畫。\[1\]
 
 <!-- end list -->
 
-  - [李允智](../Page/李允智.md "wikilink") 飾演
-    宋善（粤语配音：[陳凱婷](../Page/陳凱婷.md "wikilink")）
+  - [李允智](../Page/李允智.md "wikilink") 飾演 宋善（粤语配音：[陳凱婷](../Page/陳凱婷.md "wikilink")）
 
 <!-- end list -->
 
@@ -44,8 +40,7 @@ Series），改編自同名漫畫。\[1\]
 
 <!-- end list -->
 
-  - [崔政宇](../Page/崔政宇.md "wikilink") 飾演
-    千尚遠（粤语配音：[黃志成](../Page/黃志成.md "wikilink")）
+  - [崔政宇](../Page/崔政宇.md "wikilink") 飾演 千尚遠（粤语配音：[黃志成](../Page/黃志成.md "wikilink")）
 
 <!-- end list -->
 
@@ -206,19 +201,9 @@ Series），改編自同名漫畫。\[1\]
 ## 外部連結
 
   - [韓國OCN官方網站](http://program.interest.me/ocn/frost)
-  - [LINE
-    Webtoon上的原作漫畫](http://www.webtoons.com/episodeList?titleNo=360)
+  - [LINE Webtoon上的原作漫畫](http://www.webtoons.com/episodeList?titleNo=360)
 
-[Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink")
-[Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink")
-[Category:2014年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年韓國電視劇集 "wikilink")
-[Category:韓國漫畫改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國漫畫改編韓國電視劇 "wikilink")
-[Category:韓國醫學劇](https://zh.wikipedia.org/wiki/Category:韓國醫學劇 "wikilink")
-[Category:虛構醫生](https://zh.wikipedia.org/wiki/Category:虛構醫生 "wikilink")
-[Category:精神病題材電視劇](https://zh.wikipedia.org/wiki/Category:精神病題材電視劇 "wikilink")
-[Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
+[Category:OCN_Original_Series](https://zh.wikipedia.org/wiki/Category:OCN_Original_Series "wikilink") [Category:OCN電視劇](https://zh.wikipedia.org/wiki/Category:OCN電視劇 "wikilink") [Category:2014年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2014年韓國電視劇集 "wikilink") [Category:韓國漫畫改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:韓國漫畫改編韓國電視劇 "wikilink") [Category:韓國醫學劇](https://zh.wikipedia.org/wiki/Category:韓國醫學劇 "wikilink") [Category:虛構醫生](https://zh.wikipedia.org/wiki/Category:虛構醫生 "wikilink") [Category:精神病題材電視劇](https://zh.wikipedia.org/wiki/Category:精神病題材電視劇 "wikilink") [Category:香港有線電視外購劇集](https://zh.wikipedia.org/wiki/Category:香港有線電視外購劇集 "wikilink")
 
-1.  [OCN 오리지널 드라마 "닥터
-    프로스트"](https://www.facebook.com/hashtag/%EB%8B%A5%ED%84%B0%ED%94%84%EB%A1%9C%EC%8A%A4%ED%8A%B8?source=feed_text&story_id=760581587323616)
-2.  [케이블
-    시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)
+1.  [OCN 오리지널 드라마 "닥터 프로스트"](https://www.facebook.com/hashtag/%EB%8B%A5%ED%84%B0%ED%94%84%EB%A1%9C%EC%8A%A4%ED%8A%B8?source=feed_text&story_id=760581587323616)
+2.  [케이블 시청률](http://search.daum.net/search?w=tot&q=%EC%BC%80%EC%9D%B4%EB%B8%94%20%EC%8B%9C%EC%B2%AD%EB%A5%A0&rtmaxcoll=0SP)

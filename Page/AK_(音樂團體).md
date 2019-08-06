@@ -46,14 +46,12 @@
 *' 陳奕*'
 
   - 2004年 [住左邊住右邊](../Page/住左邊住右邊.md "wikilink")（飾演-陳小奕）
-  - 2006年
-    [我的兒子是老大](https://zh.wikipedia.org/wiki/我的兒子是老大 "wikilink")（飾演-許小明）
+  - 2006年 [我的兒子是老大](https://zh.wikipedia.org/wiki/我的兒子是老大 "wikilink")（飾演-許小明）
   - 2007年 [惡女阿楚](../Page/惡女阿楚.md "wikilink")（飾演-桂浩然）
   - 2007年 [愛情兩好三壞](../Page/愛情兩好三壞.md "wikilink")（飾演-李克）
   - 2009年 [搏浪](https://zh.wikipedia.org/wiki/搏浪 "wikilink")（飾演-何浩霆）
   - 2010年 [死神少女](../Page/死神少女.md "wikilink")（飾演-小刀）
-  - 2011年
-    [33故事館之妹妹情人夢](https://zh.wikipedia.org/wiki/33故事館 "wikilink")（飾演-弘毅）
+  - 2011年 [33故事館之妹妹情人夢](https://zh.wikipedia.org/wiki/33故事館 "wikilink")（飾演-弘毅）
   - 2011年 [唐朝浪漫英雄](../Page/唐朝浪漫英雄.md "wikilink")（飾演-哥舒明朗）
   - 2012年 [辣媽俏爸](../Page/辣媽俏爸.md "wikilink")（飾演-黃雀）
   - 2012年 [當我們同在一起](../Page/當我們同在一起.md "wikilink")（飾演-王少鈞）
@@ -62,8 +60,7 @@
   - 2015年 [失去你的那一天](../Page/失去你的那一天.md "wikilink")（飾演-孟澤青）
   - 2015年 [澀世紀傳說](../Page/澀世紀傳說.md "wikilink") (飾演-度天涯)
   - 2015年 [大仙衙門](https://zh.wikipedia.org/wiki/大仙衙門 "wikilink") (飾演-冼風華)
-  - 2017年[噗通噗通我愛你](https://zh.wikipedia.org/wiki/噗通噗通我愛你 "wikilink")(飾演-邢少天
-    )
+  - 2017年[噗通噗通我愛你](https://zh.wikipedia.org/wiki/噗通噗通我愛你 "wikilink")(飾演-邢少天 )
 
 **沈建宏**
 
@@ -73,16 +70,14 @@
   - 2009年 [比賽開始](https://zh.wikipedia.org/wiki/比賽開始 "wikilink")（飾演-林啟義）
   - 2010年 [泡沫之夏](https://zh.wikipedia.org/wiki/泡沫之夏 "wikilink")（飾演-尹澄）
   - 2010年 [死神少女](../Page/死神少女.md "wikilink")（飾演-小唐）
-  - 2011年
-    [33故事館之相戀無罪](https://zh.wikipedia.org/wiki/33故事館 "wikilink")（飾演-志宏）
+  - 2011年 [33故事館之相戀無罪](https://zh.wikipedia.org/wiki/33故事館 "wikilink")（飾演-志宏）
   - 2011年 唐朝浪漫英雄（飾演-李天昊）
   - 2012年 [廉政英雄](https://zh.wikipedia.org/wiki/廉政英雄 "wikilink")（飾演-關家浩）
   - 2013年 [七個朋友](../Page/七個朋友.md "wikilink")（飾演-董結人）
   - 2014年 [蘭陵王妃](../Page/蘭陵王妃.md "wikilink")（飾演-宇文毓）
   - 2015年 [澀世紀傳說](../Page/澀世紀傳說.md "wikilink") (飾演-戰野)
   - 2016年[我喜歡你,你知道嗎？](https://zh.wikipedia.org/wiki/我喜歡你,你知道嗎？ "wikilink")（飾演-忻宥寧）
-  - 2017年[噗通噗通我愛你](https://zh.wikipedia.org/wiki/噗通噗通我愛你 "wikilink")（飾演-
-    李小飛 ）
+  - 2017年[噗通噗通我愛你](https://zh.wikipedia.org/wiki/噗通噗通我愛你 "wikilink")（飾演- 李小飛 ）
 
 ## 音樂作品
 
@@ -196,7 +191,6 @@
 </tbody>
 </table>
 
-[Category:臺灣男子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣男子演唱團體 "wikilink")
-[Category:二人組](https://zh.wikipedia.org/wiki/Category:二人組 "wikilink")
+[Category:臺灣男子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣男子演唱團體 "wikilink") [Category:二人組](https://zh.wikipedia.org/wiki/Category:二人組 "wikilink")
 
 1.

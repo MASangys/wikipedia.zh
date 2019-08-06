@@ -1,14 +1,6 @@
-**HTC
-One**（研發代號M7）是[宏達國際電子](../Page/宏達國際電子.md "wikilink")公司开发、搭载[Android](../Page/Android.md "wikilink")操作系统之高階旗舰[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")。2013年2月，HTC
-One先在台灣被報導\[1\]，並在美国[纽约](../Page/纽约.md "wikilink")和英国[伦敦](../Page/伦敦.md "wikilink")两地同步正式发表\[2\]，次月开售。被外界视为是重振[HTC
-One系列品牌定位](../Page/HTC_One系列.md "wikilink")，企圖与 [Samsung Galaxy S
-4](../Page/三星Galaxy_S4.md "wikilink")、[Sony Xperia
-Z](../Page/Sony_Xperia_Z.md "wikilink") 和 [iPhone
-5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink") 在高階手機市场竞争的機型。
+**HTC One**（研發代號M7）是[宏達國際電子](../Page/宏達國際電子.md "wikilink")公司开发、搭载[Android](../Page/Android.md "wikilink")操作系统之高階旗舰[智慧型手机](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")。2013年2月，HTC One先在台灣被報導\[1\]，並在美国[纽约](../Page/纽约.md "wikilink")和英国[伦敦](../Page/伦敦.md "wikilink")两地同步正式发表\[2\]，次月开售。被外界视为是重振[HTC One系列品牌定位](../Page/HTC_One系列.md "wikilink")，企圖与 [Samsung Galaxy S 4](../Page/三星Galaxy_S4.md "wikilink")、[Sony Xperia Z](../Page/Sony_Xperia_Z.md "wikilink") 和 [iPhone 5](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink") 在高階手機市场竞争的機型。
 
-憑優異的工業設計，2013年的HTC
-One在[MWC獲頒](../Page/世界行動通訊大會.md "wikilink")「最佳新手機、裝置或平板電腦獎項」，2014年2月又獲選為MWC「年度最佳智慧型手機\[3\]
-」， 獲得網評人之讚譽。隨著此款手機供貨開始穩定，使得宏達國際公司營業赤字比預期有所減少。
+憑優異的工業設計，2013年的HTC One在[MWC獲頒](../Page/世界行動通訊大會.md "wikilink")「最佳新手機、裝置或平板電腦獎項」，2014年2月又獲選為MWC「年度最佳智慧型手機\[3\] 」， 獲得網評人之讚譽。隨著此款手機供貨開始穩定，使得宏達國際公司營業赤字比預期有所減少。
 
 ## 版本
 
@@ -33,49 +25,29 @@ HTC One在不同地区发售的32GB和64GB版本在软件和硬件上有所不�
 <!-- end list -->
 
   -
-    开发者版和Google Play版在美国以32GB和64GB版本发行。<ref> PDAdb.net - HTC
-    M7|url=<http://pdadb.net/index.php?m=pdamaster&posted=1&model=HTC%20M7>
+    开发者版和Google Play版在美国以32GB和64GB版本发行。<ref> PDAdb.net - HTC M7|url=<http://pdadb.net/index.php?m=pdamaster&posted=1&model=HTC%20M7>
 
 |work=PDAdb.net|publisher=PDAdb|accessdate=7 November 2013}}</ref>
 
   - 开发者版本
 
-开发者版的64GB HTC One
-于2013年4月19日在HTC网站向美国限量发售。开发者版解除了Bootloader锁定，可以用于开发和安装自定义的ROM。开发者版同时也解除了[T-Mobile](../Page/T-Mobile.md "wikilink")和[AT\&T](../Page/AT&T.md "wikilink")的GSM网络和LTE网络的限制；但是手机不支持T-Mobile的AWS基础的[HSPA+网络](https://zh.wikipedia.org/wiki/HSPA+ "wikilink")。\[4\]\[5\]
+开发者版的64GB HTC One 于2013年4月19日在HTC网站向美国限量发售。开发者版解除了Bootloader锁定，可以用于开发和安装自定义的ROM。开发者版同时也解除了[T-Mobile](../Page/T-Mobile.md "wikilink")和[AT\&T](../Page/AT&T.md "wikilink")的GSM网络和LTE网络的限制；但是手机不支持T-Mobile的AWS基础的[HSPA+网络](https://zh.wikipedia.org/wiki/HSPA+ "wikilink")。\[4\]\[5\]
 
   - Google Play版本
 
-2013年5月30日，HTC宣布[Google
-Play商店会发售不使用HTC](../Page/Google_Play.md "wikilink")
-Sense界面的原生Android操作系统的HTC One（于[Google
-Nexus设备相似](../Page/Google_Nexus.md "wikilink")）。\[6\]\[7\]2013年6月26日与相似版本的[三星Galaxy
-S4在美国发行](../Page/三星Galaxy_S4.md "wikilink")。手机仍支持Beats
-Audio音效，但最初红外線功能并不可用，但更新至Android
-4.3则可以开启。\[8\]
+2013年5月30日，HTC宣布[Google Play商店会发售不使用HTC](../Page/Google_Play.md "wikilink") Sense界面的原生Android操作系统的HTC One（于[Google Nexus设备相似](../Page/Google_Nexus.md "wikilink")）。\[6\]\[7\]2013年6月26日与相似版本的[三星Galaxy S4在美国发行](../Page/三星Galaxy_S4.md "wikilink")。手机仍支持Beats Audio音效，但最初红外線功能并不可用，但更新至Android 4.3则可以开启。\[8\]
 
   - 中国大陸版
 
-HTC
-One的中国大陸版本于2013年4月末发行，[中国联通型号为HTC](https://zh.wikipedia.org/wiki/中国联通 "wikilink")
-TD101 802w，[中国电信型号为HTC](https://zh.wikipedia.org/wiki/中国电信 "wikilink")
-TD101 802d和[中国移动的型号HTC](https://zh.wikipedia.org/wiki/中国移动 "wikilink")
-TD101
-802t。有别于国际版，中国版使用可以开启的后盖，支援[SD卡](../Page/SD卡.md "wikilink")扩充和双SIM卡。除此之外，还有带有[王力宏](../Page/王力宏.md "wikilink")后盖亲笔签名的特殊版发行。\[9\]HTC表示中国版本可以带有SD卡槽是因为无线电硬件空余出了较大的间隔。\[10\]此外，还有[中国联通订制的单SIM卡](https://zh.wikipedia.org/wiki/中国联通 "wikilink")、16GB版HTC
-One 801e发行。
+HTC One的中国大陸版本于2013年4月末发行，[中国联通型号为HTC](https://zh.wikipedia.org/wiki/中国联通 "wikilink") TD101 802w，[中国电信型号为HTC](https://zh.wikipedia.org/wiki/中国电信 "wikilink") TD101 802d和[中国移动的型号HTC](https://zh.wikipedia.org/wiki/中国移动 "wikilink") TD101 802t。有别于国际版，中国版使用可以开启的后盖，支援[SD卡](../Page/SD卡.md "wikilink")扩充和双SIM卡。除此之外，还有带有[王力宏](../Page/王力宏.md "wikilink")后盖亲笔签名的特殊版发行。\[9\]HTC表示中国版本可以带有SD卡槽是因为无线电硬件空余出了较大的间隔。\[10\]此外，还有[中国联通订制的单SIM卡](https://zh.wikipedia.org/wiki/中国联通 "wikilink")、16GB版HTC One 801e发行。
 
   - 台湾版本
 
-在台湾发行的型号为HTC One 801e
-(M7_U)，但[中華電信亦有HTC](https://zh.wikipedia.org/wiki/中華電信 "wikilink")
-One 801s (M7_UL)型号发行。此外，在中国大陆发行的HTC TD101
-802d也在台湾与[亚太电信共同推出](https://zh.wikipedia.org/wiki/亚太电信 "wikilink")，并命名为“HTC
-One Dual”。
+在台湾发行的型号为HTC One 801e (M7_U)，但[中華電信亦有HTC](https://zh.wikipedia.org/wiki/中華電信 "wikilink") One 801s (M7_UL)型号发行。此外，在中国大陆发行的HTC TD101 802d也在台湾与[亚太电信共同推出](https://zh.wikipedia.org/wiki/亚太电信 "wikilink")，并命名为“HTC One Dual”。
 
   - 日本版本
 
-2013年5月，HTC宣布于日本[KDDI](../Page/KDDI.md "wikilink")下属的[au运营商发行HTC](https://zh.wikipedia.org/wiki/au_\(移动电话\) "wikilink")
-J One (HTL22) 或称 One J 。 J
-One与中国大陸版本相似，并且支持[FeliCa](../Page/FeliCa.md "wikilink")支付系统。\[11\]6月1日由金属银开始贩卖，另外还有黑色和红色。
+2013年5月，HTC宣布于日本[KDDI](../Page/KDDI.md "wikilink")下属的[au运营商发行HTC](https://zh.wikipedia.org/wiki/au_\(移动电话\) "wikilink") J One (HTL22) 或称 One J 。 J One与中国大陸版本相似，并且支持[FeliCa](../Page/FeliCa.md "wikilink")支付系统。\[11\]6月1日由金属银开始贩卖，另外还有黑色和红色。
 
 ## 详细规格
 
@@ -255,77 +227,39 @@ TV 紅外線遙控器、電子錢包（Felica）、<a href="../Page/1seg.md" tit
 
 ### 外观
 
-[HTC_One_Rear_View_Top.jpg](https://zh.wikipedia.org/wiki/File:HTC_One_Rear_View_Top.jpg "fig:HTC_One_Rear_View_Top.jpg")
-HTC
-One采用阳极化的[铝合金机身](https://zh.wikipedia.org/wiki/铝合金 "wikilink")、[聚碳酸酯](../Page/聚碳酸酯.md "wikilink")、机面玻璃。铝合金机身做法是将铝金属打磨至可以和聚碳酸酯进行零空间的[注塑](https://zh.wikipedia.org/wiki/注塑 "wikilink")（Zero-gap
-Injection Moulding），聚碳酸酯物料在机侧以包围的形式出现，覆盖了机顶和机底，也在机背造成了分界的效果。HTC
-One是HTC首次採用金屬材質的旗艦機型，為了突破金屬機身造成的訊號遮蔽問題使用了天線[耦合技術](https://zh.wikipedia.org/wiki/耦合_\(電子學\) "wikilink")，即在金屬機身上加入塑料作為信號[天線](https://zh.wikipedia.org/wiki/天線 "wikilink")，比如在攝像頭的上方和下方的聚碳酸酯填充的分割線即為天線。
+[HTC_One_Rear_View_Top.jpg](https://zh.wikipedia.org/wiki/File:HTC_One_Rear_View_Top.jpg "fig:HTC_One_Rear_View_Top.jpg") HTC One采用阳极化的[铝合金机身](https://zh.wikipedia.org/wiki/铝合金 "wikilink")、[聚碳酸酯](../Page/聚碳酸酯.md "wikilink")、机面玻璃。铝合金机身做法是将铝金属打磨至可以和聚碳酸酯进行零空间的[注塑](https://zh.wikipedia.org/wiki/注塑 "wikilink")（Zero-gap Injection Moulding），聚碳酸酯物料在机侧以包围的形式出现，覆盖了机顶和机底，也在机背造成了分界的效果。HTC One是HTC首次採用金屬材質的旗艦機型，為了突破金屬機身造成的訊號遮蔽問題使用了天線[耦合技術](https://zh.wikipedia.org/wiki/耦合_\(電子學\) "wikilink")，即在金屬機身上加入塑料作為信號[天線](https://zh.wikipedia.org/wiki/天線 "wikilink")，比如在攝像頭的上方和下方的聚碳酸酯填充的分割線即為天線。
 
-在正面的机顶和机底都由铝金属覆盖，而中间就是以 Gorilla Glass 3 保护的 4.7 吋 1080p（480ppi）Super LCD
-3 屏幕，其下方各配备了一组扬声器，机顶还配备了亮度 / 距离感应器、LED 提示灯和前置相机。屏幕下方可以看到有 HTC
-的标志，以及两颗触控按键：返回键和主页键。机顶左边有一个黑色的电源键，其内建了一组供预载电视遥控用的红外线发射器。右边是
-3.5mm 耳机孔，而机身右侧就有音量按键；左则有
-[micro-SIM](https://zh.wikipedia.org/wiki/micro-SIM "wikilink") 插槽，而
-[microUSB](https://zh.wikipedia.org/wiki/microUSB "wikilink") /
-[MHL](https://zh.wikipedia.org/wiki/MHL "wikilink") 插口就安放在机底近右方位置。
+在正面的机顶和机底都由铝金属覆盖，而中间就是以 Gorilla Glass 3 保护的 4.7 吋 1080p（480ppi）Super LCD 3 屏幕，其下方各配备了一组扬声器，机顶还配备了亮度 / 距离感应器、LED 提示灯和前置相机。屏幕下方可以看到有 HTC 的标志，以及两颗触控按键：返回键和主页键。机顶左边有一个黑色的电源键，其内建了一组供预载电视遥控用的红外线发射器。右边是 3.5mm 耳机孔，而机身右侧就有音量按键；左则有 [micro-SIM](https://zh.wikipedia.org/wiki/micro-SIM "wikilink") 插槽，而 [microUSB](https://zh.wikipedia.org/wiki/microUSB "wikilink") / [MHL](https://zh.wikipedia.org/wiki/MHL "wikilink") 插口就安放在机底近右方位置。
 
 ### 硬體
 
-HTC One 搭載 Qualcomm Snapdragon 600 1.7GHz 4 核心处理器，2GB DDR2 的
-ram。存储方面根据版本不同有 16GB 和 32GB 和 64GB 选择，部分版本支援 microSD
-卡擴充。无线方面支援 Wi-Fi®：IEEE 802.11 a/ac/b/g/n、蓝牙
-4.0、GPS、aGPS、Glonass、NFC、DLNA。手机分为两个版本，当中的 U 版本支持 GSM 和
-WCDMA，而 UL 版则附加了 LTE。
+HTC One 搭載 Qualcomm Snapdragon 600 1.7GHz 4 核心处理器，2GB DDR2 的 ram。存储方面根据版本不同有 16GB 和 32GB 和 64GB 选择，部分版本支援 microSD 卡擴充。无线方面支援 Wi-Fi®：IEEE 802.11 a/ac/b/g/n、蓝牙 4.0、GPS、aGPS、Glonass、NFC、DLNA。手机分为两个版本，当中的 U 版本支持 GSM 和 WCDMA，而 UL 版则附加了 LTE。
 
-HTC One 配备了一组 2.55V 的耳机[擴大器](../Page/放大器.md "wikilink")，可以选择是否配合 Beats
-Audio 使用，另外配备了 HDR 麦克风，可以录到更多频率的声音及更好的音質。
+HTC One 配备了一组 2.55V 的耳机[擴大器](../Page/放大器.md "wikilink")，可以选择是否配合 Beats Audio 使用，另外配备了 HDR 麦克风，可以录到更多频率的声音及更好的音質。
 
 ### 相机
 
-HTC One 采用自家设计的 **UltraPixel**
-相机，相机讲求“[像素](../Page/像素.md "wikilink")不等于画质”，而非其他厂商不断提升像素的做法，虽然只有
-408 万像素，但在其 1/3 吋的 BSI 背照式感光元件中，使得每个像素可以达到 2µm 的像素大小，使其相较于一般手机的 1.1µm
-像素尺寸，感光效率高出 300%。HTC One 延续同系列相机所使用的 28mm 广角与 f/2.0
-大光圈镜头，并另外采用双轴（左右倾斜与前后仰俯）方向达每秒 2,000
-次的手震补偿能力的光学防手震（OIS）。\[17\]
+HTC One 采用自家设计的 **UltraPixel** 相机，相机讲求“[像素](../Page/像素.md "wikilink")不等于画质”，而非其他厂商不断提升像素的做法，虽然只有 408 万像素，但在其 1/3 吋的 BSI 背照式感光元件中，使得每个像素可以达到 2µm 的像素大小，使其相较于一般手机的 1.1µm 像素尺寸，感光效率高出 300%。HTC One 延续同系列相机所使用的 28mm 广角与 f/2.0 大光圈镜头，并另外采用双轴（左右倾斜与前后仰俯）方向达每秒 2,000 次的手震补偿能力的光学防手震（OIS）。\[17\]
 
-htc One 的 UltraPixel
-鏡頭元件雖然可大幅提高感光度，但早期推出的元件會在長時間拍攝陰暗處時發生紫光現象，並會隨著使用時間而惡化。雖然HTC並未承認問題為缺陷，但對有此問題的手機提供替換(因為幾乎所有有問題的手機都處於保固期之內)。之後出貨的手機由於採用了新的鏡頭元件，已不再有此問題。
+htc One 的 UltraPixel 鏡頭元件雖然可大幅提高感光度，但早期推出的元件會在長時間拍攝陰暗處時發生紫光現象，並會隨著使用時間而惡化。雖然HTC並未承認問題為缺陷，但對有此問題的手機提供替換(因為幾乎所有有問題的手機都處於保固期之內)。之後出貨的手機由於採用了新的鏡頭元件，已不再有此問題。
 
-HTC One 的影像处理核心（ISP）为 **ImageChip 2**，能使相机达到低于 200ms
-自动对焦速度，并且提供即时地影像素质补偿与降噪功能，还具备
-HDR 录影机能，提供 84dB 的动态范围与 1080p/30fps 或 720p/60fps 的规格，也能给予预先 /
-延后快门捕捉的拍摄功能。
+HTC One 的影像处理核心（ISP）为 **ImageChip 2**，能使相机达到低于 200ms 自动对焦速度，并且提供即时地影像素质补偿与降噪功能，还具备 HDR 录影机能，提供 84dB 的动态范围与 1080p/30fps 或 720p/60fps 的规格，也能给予预先 / 延后快门捕捉的拍摄功能。
 
-HTC One 新增了名为 **Zoe**（希腊文为“生命”）的功能。每次按下快门时，相机就会拍下一张 16:9 的 2,688×1,520
-照片和一段三秒长的 1080/30p
-视频来为照片提供背景信息，还能将这些三秒的视频套用预设的主题和背景音乐（各六种）串在一起，可以上传到
-Zoe Share 网站上，提供使用者 30 天的免费存放网址。
+HTC One 新增了名为 **Zoe**（希腊文为“生命”）的功能。每次按下快门时，相机就会拍下一张 16:9 的 2,688×1,520 照片和一段三秒长的 1080/30p 视频来为照片提供背景信息，还能将这些三秒的视频套用预设的主题和背景音乐（各六种）串在一起，可以上传到 Zoe Share 网站上，提供使用者 30 天的免费存放网址。
 
 HTC One 使用 2.1MP、f/2.0 的前镜头，加上双 HDR 麦克风，可以在各种场合下进行视訊聊天。
 
 ### 软體
 
-HTC One 使用 Android 4.4.2 操作系统和 Sense 6 使用者界面。**Sense 6** 除具備舊有特色(使用
-Roboto
-新字型，[虚拟键盘和桌面小工具变得更加简洁](https://zh.wikipedia.org/wiki/虚拟键盘 "wikilink")，音乐播放器有了新的设计，加入了视覺化效果与动态歌词滚动功能。)，並重新加入色彩主題，開放自訂字型樣式，改進BlinkFeed™操作介面，當有來電時拿起手機再移到耳邊便可直接接聽，藉此提供更佳的使用體驗。手机仅提供返回与首页两个功能键，多功能切换键则由点击两次首页键来取代。多功能切换画面也并非显示横向程序卡片，而是以网格的形式列出九个程式卡片，按住向上滑动即可关闭程式，也提供快速清除所有最近使用應用程式的按鈕。
+HTC One 使用 Android 4.4.2 操作系统和 Sense 6 使用者界面。**Sense 6** 除具備舊有特色(使用 Roboto 新字型，[虚拟键盘和桌面小工具变得更加简洁](https://zh.wikipedia.org/wiki/虚拟键盘 "wikilink")，音乐播放器有了新的设计，加入了视覺化效果与动态歌词滚动功能。)，並重新加入色彩主題，開放自訂字型樣式，改進BlinkFeed™操作介面，當有來電時拿起手機再移到耳邊便可直接接聽，藉此提供更佳的使用體驗。手机仅提供返回与首页两个功能键，多功能切换键则由点击两次首页键来取代。多功能切换画面也并非显示横向程序卡片，而是以网格的形式列出九个程式卡片，按住向上滑动即可关闭程式，也提供快速清除所有最近使用應用程式的按鈕。
 
-HTC One 有两个首页面板，分别是 BlinkFeed™ 页面与 Android 传统首页。**BlinkFeed™** 页面是 HTC 与
-Mobiles Republic 设计公司合作开发，类似 Flipboard
-磁砖造型的样式，可以提供多种数字内容与社交应用服务等信息，数据可以依用户喜好加以设定过滤。未来
-HTC 将会发行 SDK，让开发者可以将程序整合进 BlinkFeed™。
+HTC One 有两个首页面板，分别是 BlinkFeed™ 页面与 Android 传统首页。**BlinkFeed™** 页面是 HTC 与 Mobiles Republic 设计公司合作开发，类似 Flipboard 磁砖造型的样式，可以提供多种数字内容与社交应用服务等信息，数据可以依用户喜好加以设定过滤。未来 HTC 将会发行 SDK，让开发者可以将程序整合进 BlinkFeed™。
 
-強調影音的HTC One 加入了电视应用**Sense
-TV™**，支援有线电视等媒体服务，如台灣的數位電視、中華電信MOD及其他有線電視業者，其他上市地区也会搭配多媒体随选列表的服务。手机配备红外線模組，具备大量的[红外线](../Page/红外线.md "wikilink")遥控器代码以及自行學習功能，已支援市面上多数的电视或[機上盒](https://zh.wikipedia.org/wiki/機上盒 "wikilink")。
+強調影音的HTC One 加入了电视应用**Sense TV™**，支援有线电视等媒体服务，如台灣的數位電視、中華電信MOD及其他有線電視業者，其他上市地区也会搭配多媒体随选列表的服务。手机配备红外線模組，具备大量的[红外线](../Page/红外线.md "wikilink")遥控器代码以及自行學習功能，已支援市面上多数的电视或[機上盒](https://zh.wikipedia.org/wiki/機上盒 "wikilink")。
 
-HTC One 有两个软體来帮助使用者设定新手机：分别是 **HTC Get Start** 和强化版的 **HTC Sync
-Manager**，能在電腦上透过网络设定手机，并提供热门新闻频道、應用程式快速安装、铃声设定、书签、桌布与解锁画面设定等功能。手机可以从旧版的
-Sense 或旧 iPhone 及其它旧 Android 设备中复制联络人数据、简讯、书签、照片及一些系统设定。一旦成功转移到 **Sense
-5**或**Sense 6**
-平台上，这些数据就可以选择转存至[網路硬碟中](https://zh.wikipedia.org/wiki/網路硬碟 "wikilink")。
+HTC One 有两个软體来帮助使用者设定新手机：分别是 **HTC Get Start** 和强化版的 **HTC Sync Manager**，能在電腦上透过网络设定手机，并提供热门新闻频道、應用程式快速安装、铃声设定、书签、桌布与解锁画面设定等功能。手机可以从旧版的 Sense 或旧 iPhone 及其它旧 Android 设备中复制联络人数据、简讯、书签、照片及一些系统设定。一旦成功转移到 **Sense 5**或**Sense 6** 平台上，这些数据就可以选择转存至[網路硬碟中](https://zh.wikipedia.org/wiki/網路硬碟 "wikilink")。
 
-在中国大陆版本的HTC One中内建名为 HTC Hidi
-的应用，该应用是一个[智慧型個人助理](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")，在进行部分操作时具有语音功能，集合眾多網路服務，提供機票、酒店、天氣、電影、音樂等查詢，並且擁有聯繫上下文的能力。在對話過程中，還提供多種表情和形象。并支援語音發[微博](../Page/微博.md "wikilink")和[微信](../Page/微信.md "wikilink")等。
+在中国大陆版本的HTC One中内建名为 HTC Hidi 的应用，该应用是一个[智慧型個人助理](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")，在进行部分操作时具有语音功能，集合眾多網路服務，提供機票、酒店、天氣、電影、音樂等查詢，並且擁有聯繫上下文的能力。在對話過程中，還提供多種表情和形象。并支援語音發[微博](../Page/微博.md "wikilink")和[微信](../Page/微信.md "wikilink")等。
 
   - 软件更新
 
@@ -643,73 +577,55 @@ Sense 或旧 iPhone 及其它旧 Android 设备中复制联络人数据、简讯
 ### 零件供應商
 
   - RAM：[爾必達](https://zh.wikipedia.org/wiki/爾必達 "wikilink")\[18\]
-  - 顯示器：[Japan
-    Display](https://zh.wikipedia.org/wiki/Japan_Display "wikilink")、[夏普](https://zh.wikipedia.org/wiki/夏普 "wikilink")
+  - 顯示器：[Japan Display](https://zh.wikipedia.org/wiki/Japan_Display "wikilink")、[夏普](https://zh.wikipedia.org/wiki/夏普 "wikilink")
   - 處理器：[高通](../Page/高通.md "wikilink")
   - 快閃記憶體：[三星電子](../Page/三星電子.md "wikilink")
   - 電源管理 IC 與 4G 通訊晶片：[高通](../Page/高通.md "wikilink")
   - 觸控面板控制 IC：[Synaptics](../Page/Synaptics.md "wikilink")
   - 機殼：[可成科技](../Page/可成科技.md "wikilink")、[比亞迪](https://zh.wikipedia.org/wiki/比亞迪 "wikilink")
-  - 主相机：[意法半導體](../Page/意法半導體.md "wikilink")(後來無合作,
-    改成[豪威科技供料](https://zh.wikipedia.org/wiki/豪威科技 "wikilink"))
+  - 主相机：[意法半導體](../Page/意法半導體.md "wikilink")(後來無合作, 改成[豪威科技供料](https://zh.wikipedia.org/wiki/豪威科技 "wikilink"))
   - 前相機：台灣[豪威科技](https://zh.wikipedia.org/wiki/豪威科技 "wikilink")
   - 電池：[新能源科技](../Page/新能源科技.md "wikilink")、常州上揚光電
 
 ## 獲獎
 
-[GSMA](https://zh.wikipedia.org/wiki/全球行動通訊系統協會 "wikilink") 2013 -
-Global Mobile Awards Best New Mobile Device -2013
-February\[19\]（[全球行動通訊大獎](https://zh.wikipedia.org/wiki/世界移動通信大會 "wikilink")「最佳新手機、裝置或平板電腦獎項」\[20\]）。
+[GSMA](https://zh.wikipedia.org/wiki/全球行動通訊系統協會 "wikilink") 2013 - Global Mobile Awards Best New Mobile Device -2013 February\[19\]（[全球行動通訊大獎](https://zh.wikipedia.org/wiki/世界移動通信大會 "wikilink")「最佳新手機、裝置或平板電腦獎項」\[20\]）。
 
 Tech Radar - MWC 2013 : Best Phone, Best in Show -2013 February
 
 Tech Radar - 20 Best Smartphones in the US : No. 1 -2013 May\[21\]
 
-Computex 2013 - Gold award for design & innovation -2013 June\[22\]
-([台北國際電腦展覽會](../Page/台北國際電腦展覽會.md "wikilink")2013 創新設計獎 金質獎)
+Computex 2013 - Gold award for design & innovation -2013 June\[22\] ([台北國際電腦展覽會](../Page/台北國際電腦展覽會.md "wikilink")2013 創新設計獎 金質獎)
 
-EISA Award - Best Product 2013-2014 : Advanced Smartphone -2013
-August\[23\]
+EISA Award - Best Product 2013-2014 : Advanced Smartphone -2013 August\[23\]
 
-Pocket-lint - Best smartphones 2013: The best phones available to buy
-today -2013 September\[24\]
+Pocket-lint - Best smartphones 2013: The best phones available to buy today -2013 September\[24\]
 
-Tech Radar - 20 best mobile phones in the world today : No. 1 -2013
-October\[25\]
+Tech Radar - 20 best mobile phones in the world today : No. 1 -2013 October\[25\]
 
 Tech Radar - 20 Best Smartphones in the US : No. 1 -2013 October\[26\]
 
-T3 Awards 2013 - T3 Design Award, Phone of the Year, Gadget of the Year
--2013 October\[27\]\[28\]\[29\]
+T3 Awards 2013 - T3 Design Award, Phone of the Year, Gadget of the Year -2013 October\[27\]\[28\]\[29\]
 
-ISO/TS 14067:2013, PAS 2050:2011, ISO 14040:2006, ISO 14044:2006 -2013
-November\[30\]
+ISO/TS 14067:2013, PAS 2050:2011, ISO 14040:2006, ISO 14044:2006 -2013 November\[30\]
 
-Pocket-lint - Gadget Awards 2013 winners - Best mobile phone -2013
-November\[31\]
+Pocket-lint - Gadget Awards 2013 winners - Best mobile phone -2013 November\[31\]
 
-Business Insider - RANKED\#1: The Most Innovative Smartphones Of 2013
--2013 December\[32\]
+Business Insider - RANKED\#1: The Most Innovative Smartphones Of 2013 -2013 December\[32\]
 
-ZDNet - Top 10 smartphones of 2013: There's One that's best - Number 1:
-HTC One -2013 December\[33\]
+ZDNet - Top 10 smartphones of 2013: There's One that's best - Number 1: HTC One -2013 December\[33\]
 
-Android and Me - Reader's Choice: Best Smartphone of 2013 -2013
-December\[34\]
+Android and Me - Reader's Choice: Best Smartphone of 2013 -2013 December\[34\]
 
 Trusted Reviews - Phone of the Year -2013 December\[35\]
 
-[Engadget](../Page/Engadget.md "wikilink") 中文版 2013 旗艦手機篇之最 -2014
-January\[36\]
+[Engadget](../Page/Engadget.md "wikilink") 中文版 2013 旗艦手機篇之最 -2014 January\[36\]
 
-GSMA 2014 - Global Mobile Awards Best Smartphone -2014
-February\[37\](年度最佳智能手機\[38\] )
+GSMA 2014 - Global Mobile Awards Best Smartphone -2014 February\[37\](年度最佳智能手機\[38\] )
 
-iF product design award 2014 - gold - 2014 February\[39\](2014
-[iF產品設計獎金獎](https://zh.wikipedia.org/wiki/iF產品設計獎 "wikilink"))
+iF product design award 2014 - gold - 2014 February\[39\](2014 [iF產品設計獎金獎](https://zh.wikipedia.org/wiki/iF產品設計獎 "wikilink"))
 
-2013 Engadget Awards Readers' Choice - Smartphone of the Year - 2014
-March\[40\]
+2013 Engadget Awards Readers' Choice - Smartphone of the Year - 2014 March\[40\]
 
 ## 相关事件
 
@@ -719,8 +635,7 @@ March\[40\]
 
 ### 相机夜拍泛紫光現象
 
-[MgDR.jpg](https://zh.wikipedia.org/wiki/File:MgDR.jpg "fig:MgDR.jpg")
-2013年8月，多位民眾曾反應在光源較暗下拍攝，手機畫面會呈現紫色畫面，爆料新聞報導，媒體估計案例約40起。引發各論壇網友意論紛紛手機硬體是否不合格，通報故障數並不斷增加。\[42\]2013年9月，官方鬆口表示確有拍照嚴重色偏的瑕疵，查證原因來自於軟體的優化問題，並對程式碼演算法作出緊急修正，用戶將可透過升級Sense更新得到完美改善。\[43\]此後約一個月之後，hTC也開始提供相機永久保固與免費換機服務(已於2015年叫停)，並一併更換了委託生產感光組件的供應商，直到一批新造鏡頭上市後問題才逐漸平息。同樣的問題也出現在蝴蝶S上。
+[MgDR.jpg](https://zh.wikipedia.org/wiki/File:MgDR.jpg "fig:MgDR.jpg") 2013年8月，多位民眾曾反應在光源較暗下拍攝，手機畫面會呈現紫色畫面，爆料新聞報導，媒體估計案例約40起。引發各論壇網友意論紛紛手機硬體是否不合格，通報故障數並不斷增加。\[42\]2013年9月，官方鬆口表示確有拍照嚴重色偏的瑕疵，查證原因來自於軟體的優化問題，並對程式碼演算法作出緊急修正，用戶將可透過升級Sense更新得到完美改善。\[43\]此後約一個月之後，hTC也開始提供相機永久保固與免費換機服務(已於2015年叫停)，並一併更換了委託生產感光組件的供應商，直到一批新造鏡頭上市後問題才逐漸平息。同樣的問題也出現在蝴蝶S上。
 
 ### 感光度自動調整
 
@@ -728,12 +643,7 @@ March\[40\]
 
 ### 專利訴訟
 
-2013 年 11 月，[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink") 在英國被
-[諾基亞](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")
-控告侵權作出判決，英國高等法院作出判決，判定宏達電旗下產品 [HTC
-One](https://zh.wikipedia.org/wiki/HTC_One "wikilink")、[HTC
-Wildfire](../Page/HTC_Wildfire.md "wikilink")
-侵犯諾基亞專利，裁定宏達電敗訴，諾基亞除向宏達電求償，亦同步向法院申請禁售令。具有爭議性的技術主要內建在高通晶片。2014年2月雙方已就所有專利爭訟案件達成和解，並簽定專利與技術合作契約。\[45\]
+2013 年 11 月，[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink") 在英國被 [諾基亞](https://zh.wikipedia.org/wiki/諾基亞 "wikilink") 控告侵權作出判決，英國高等法院作出判決，判定宏達電旗下產品 [HTC One](https://zh.wikipedia.org/wiki/HTC_One "wikilink")、[HTC Wildfire](../Page/HTC_Wildfire.md "wikilink") 侵犯諾基亞專利，裁定宏達電敗訴，諾基亞除向宏達電求償，亦同步向法院申請禁售令。具有爭議性的技術主要內建在高通晶片。2014年2月雙方已就所有專利爭訟案件達成和解，並簽定專利與技術合作契約。\[45\]
 
 ### 對手惡意競爭事件
 
@@ -749,11 +659,7 @@ Wildfire](../Page/HTC_Wildfire.md "wikilink")
 
 ## 参考资料
 
-[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:2013年面世的手機](https://zh.wikipedia.org/wiki/Category:2013年面世的手機 "wikilink")
+[Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:2013年面世的手機](https://zh.wikipedia.org/wiki/Category:2013年面世的手機 "wikilink")
 
 1.
 
@@ -781,8 +687,7 @@ Wildfire](../Page/HTC_Wildfire.md "wikilink")
 
 13.
 
-14. [HTC ONE dual 概觀 規格 使用教學
-    購買地點](http://www.htc.com/tw/smartphones/htc-one-dual-sim/)
+14. [HTC ONE dual 概觀 規格 使用教學 購買地點](http://www.htc.com/tw/smartphones/htc-one-dual-sim/)
 
 15.
 
@@ -792,85 +697,54 @@ Wildfire](../Page/HTC_Wildfire.md "wikilink")
 
 18.
 
-19. [GSMA 2013 - Global Mobile Awards Best New Mobile
-    Device](http://www.globalmobileawards.com/winners-2013/#cat_id23)
+19. [GSMA 2013 - Global Mobile Awards Best New Mobile Device](http://www.globalmobileawards.com/winners-2013/#cat_id23)
 
 20.
-21. [Tech Radar - 20 Best Smartphones in the US :
-    No. 1](http://mylifescoop.com/2013/05/17/20-best-smartphones-in-the-us/)
+21. [Tech Radar - 20 Best Smartphones in the US : No. 1](http://mylifescoop.com/2013/05/17/20-best-smartphones-in-the-us/)
 
+22. [Computex 2013 - Gold award for design & innovation](http://www.computextaipei.com.tw/en_US/news/info.html?id=DF8365444EE2FFBA)
 
-22. [Computex 2013 - Gold award for design &
-    innovation](http://www.computextaipei.com.tw/en_US/news/info.html?id=DF8365444EE2FFBA)
+23. [EISA Award - Best Product 2013-2014 : Advanced Smartphone](http://www.eisa.eu/award/32/european-advanced-smartphone-2013-2014.html)
 
+24. [Pocket-lint - Best smartphones 2013: The best phones available to buy today](http://www.pocket-lint.com/news/120309-best-smartphones-2013-the-best-phones-available-to-buy-today)
 
-23. [EISA Award - Best Product 2013-2014 : Advanced
-    Smartphone](http://www.eisa.eu/award/32/european-advanced-smartphone-2013-2014.html)
+25. [Tech Radar - 20 best mobile phones in the world today : No. 1](http://www.techradar.com/news/phone-and-communications/mobile-phones/20-best-mobile-phones-in-the-world-today-645440#articleContent)
 
+26. [Tech Radar - 20 Best Smartphones in the US : No. 1](http://www.techradar.com/us/news/phone-and-communications/mobile-phones/20-best-mobile-phones-in-the-world-today-645440)
 
-24. [Pocket-lint - Best smartphones 2013: The best phones available to
-    buy
-    today](http://www.pocket-lint.com/news/120309-best-smartphones-2013-the-best-phones-available-to-buy-today)
+27. [T3 Awards 2013 - T3 Design Award](http://awards.t3.com/categories/t3-design-award)
 
-25. [Tech Radar - 20 best mobile phones in the world today :
-    No. 1](http://www.techradar.com/news/phone-and-communications/mobile-phones/20-best-mobile-phones-in-the-world-today-645440#articleContent)
+28. [T3 Awards 2013 - Phone of the Year](http://awards.t3.com/categories/phone-of-the-year)
 
-26. [Tech Radar - 20 Best Smartphones in the US :
-    No. 1](http://www.techradar.com/us/news/phone-and-communications/mobile-phones/20-best-mobile-phones-in-the-world-today-645440)
+29. [T3 Awards 2013 - Gadget of the Year](http://awards.t3.com/categories/gadget-of-the-year)
 
-27. [T3 Awards 2013 - T3 Design
-    Award](http://awards.t3.com/categories/t3-design-award)
+30. [HTC One 取得全球首款智慧型手機 ISO/TS 14067:2013 產品碳足跡查驗證書](http://www.htc.com/tw/csr/sustainability-agenda/sustainable-products/)
 
-28. [T3 Awards 2013 - Phone of the
-    Year](http://awards.t3.com/categories/phone-of-the-year)
+31. [Pocket-lint Gadget Awards 2013 winners announced](http://www.pocket-lint.com/news/125501-pocket-lint-gadget-awards-2013-winners-announced)
 
-29. [T3 Awards 2013 - Gadget of the
-    Year](http://awards.t3.com/categories/gadget-of-the-year)
+32. [Business Insider - RANKED\#1: The Most Innovative Smartphones Of 2013](http://www.businessinsider.com/most-innovative-smartphones-2013-12#1-the-htc-one-proved-android-phones-can-be-beautiful-10)
 
-30. [HTC One 取得全球首款智慧型手機 ISO/TS 14067:2013
-    產品碳足跡查驗證書](http://www.htc.com/tw/csr/sustainability-agenda/sustainable-products/)
+33. [ZDNet - Top 10 smartphones of 2013: There's One that's best - Number 1: HTC One](http://www.zdnet.com/top-10-smartphones-of-2013-theres-one-thats-best-7000024169/)
 
-31. [Pocket-lint Gadget Awards 2013 winners
-    announced](http://www.pocket-lint.com/news/125501-pocket-lint-gadget-awards-2013-winners-announced)
+34. [Android and Me - Reader’s Choice: Best Smartphone of 2013](http://androidandme.com/2013/12/devices/readers-choice-awards-the-best-smartphone-of-2013/)
 
-32. [Business Insider - RANKED\#1: The Most Innovative Smartphones
-    Of 2013](http://www.businessinsider.com/most-innovative-smartphones-2013-12#1-the-htc-one-proved-android-phones-can-be-beautiful-10)
+35. [HTC One crowned 2013 TrustedReviews Phone of the Year](http://www.trustedreviews.com/news/htc-one-crowned-2013-trustedreviews-phone-of-the-year#OczEUfO7ejFAkApH.99)
 
-33. [ZDNet - Top 10 smartphones of 2013: There's One that's best -
-    Number 1: HTC
-    One](http://www.zdnet.com/top-10-smartphones-of-2013-theres-one-thats-best-7000024169/)
+36. [Engadget 中文版 2013 旗艦手機篇之最](http://chinese.engadget.com/2014/01/04/engadget-2013-best-of-flagship-phones/)
 
-34. [Android and Me - Reader’s Choice: Best Smartphone
-    of 2013](http://androidandme.com/2013/12/devices/readers-choice-awards-the-best-smartphone-of-2013/)
-
-35. [HTC One crowned 2013 TrustedReviews Phone of the
-    Year](http://www.trustedreviews.com/news/htc-one-crowned-2013-trustedreviews-phone-of-the-year#OczEUfO7ejFAkApH.99)
-
-36. [Engadget 中文版 2013
-    旗艦手機篇之最](http://chinese.engadget.com/2014/01/04/engadget-2013-best-of-flagship-phones/)
-
-37. [Global Mobile Awards Best
-    Smartphone](http://www.globalmobileawards.com/winners-2014/#cat_id22)
+37. [Global Mobile Awards Best Smartphone](http://www.globalmobileawards.com/winners-2014/#cat_id22)
 
 38.
-39. [iF product design award 2014 -
-    gold](http://exhibition.ifdesign.de/entrydetails_en.html?beitrag_id=125485)
+39. [iF product design award 2014 - gold](http://exhibition.ifdesign.de/entrydetails_en.html?beitrag_id=125485)
 
-
-40. [The winners of the 2013 Engadget Awards -- Readers'
-    Choice](http://www.engadget.com/2014/03/20/winners-2013-engadget-awards-readers-choice/)
+40. [The winners of the 2013 Engadget Awards -- Readers' Choice](http://www.engadget.com/2014/03/20/winners-2013-engadget-awards-readers-choice/)
 
 41. [1](http://www.ifixit.com/Teardown/HTC+One+Teardown/13494)
 
-42. [hTC 旗艦機
-    夜拍竟泛紫光](http://www.appledaily.com.tw/appledaily/article/headline/20130818/35230103/)隨著感光組件的老化，網路上宣布"災情"的數量也直線攀升。
+42. [hTC 旗艦機 夜拍竟泛紫光](http://www.appledaily.com.tw/appledaily/article/headline/20130818/35230103/)隨著感光組件的老化，網路上宣布"災情"的數量也直線攀升。
 
-43. [New HTC One 拍照嚴重色偏 HTC 承認錯誤
-    將提供韌體升級解決](http://www.chinatimes.com/realtimenews/New-HTC-One%E6%8B%8D%E7%85%A7%E5%9A%B4%E9%87%8D%E8%89%B2%E5%81%8F-HTC%E6%89%BF%E8%AA%8D%E9%8C%AF%E8%AA%A4-%E5%B0%87%E6%8F%90%E4%BE%9B%E9%9F%8C%E9%AB%94%E5%8D%87%E7%B4%9A%E8%A7%A3%E6%B1%BA-20130914001911-260412)
+43. [New HTC One 拍照嚴重色偏 HTC 承認錯誤 將提供韌體升級解決](http://www.chinatimes.com/realtimenews/New-HTC-One%E6%8B%8D%E7%85%A7%E5%9A%B4%E9%87%8D%E8%89%B2%E5%81%8F-HTC%E6%89%BF%E8%AA%8D%E9%8C%AF%E8%AA%A4-%E5%B0%87%E6%8F%90%E4%BE%9B%E9%9F%8C%E9%AB%94%E5%8D%87%E7%B4%9A%E8%A7%A3%E6%B1%BA-20130914001911-260412)
 
+44. [手機自選 ISO 值 攏係假](http://www.appledaily.com.tw/appledaily/article/headline/20131103/35410839/%E6%89%8B%E6%A9%9F%E8%87%AA%E9%81%B8ISO%E5%80%BC%E6%94%8F%E4%BF%82%E5%81%87)
 
-44. [手機自選 ISO 值
-    攏係假](http://www.appledaily.com.tw/appledaily/article/headline/20131103/35410839/%E6%89%8B%E6%A9%9F%E8%87%AA%E9%81%B8ISO%E5%80%BC%E6%94%8F%E4%BF%82%E5%81%87)
-
-45. [HTC與Nokia專利訴訟落幕
-    雙方簽合作契約](http://www.nownews.com/n/2014/02/08/1112836)
+45. [HTC與Nokia專利訴訟落幕 雙方簽合作契約](http://www.nownews.com/n/2014/02/08/1112836)

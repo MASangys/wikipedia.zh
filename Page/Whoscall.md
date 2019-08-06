@@ -7,18 +7,14 @@
   - 即時辨識來電者資訊：透過[社群回報與網路搜尋](https://zh.wikipedia.org/wiki/社群 "wikilink")，於來電的第一時間辨識陌生電話背景資訊，亦可事後查詢來電者背景。
   - [封鎖](../Page/封鎖.md "wikilink")惡意來電：立即封鎖惡意電話，減少來自[詐騙集團](../Page/詐騙集團.md "wikilink")電話的騷擾。
   - 超過7億筆全球電話資訊：擁有全球各地[黃頁](../Page/黃頁.md "wikilink")、網頁搜尋、公開資料等全球7億筆電話資訊。
-  - [Whoscall
-    Card](https://card.whoscall.com/zh-TW/)：個人化去電顯示介面與號碼資訊頁面，有手機就能做生意。
+  - [Whoscall Card](https://card.whoscall.com/zh-TW/)：個人化去電顯示介面與號碼資訊頁面，有手機就能做生意。
   - 號碼回報：凝聚[社群力量](https://zh.wikipedia.org/wiki/社群 "wikilink")，共同回報不受歡迎電話。
   - 閃電辨識：離線[資料庫](https://zh.wikipedia.org/wiki/資料庫 "wikilink")，無[網路環境也能迅速辨識](https://zh.wikipedia.org/wiki/網路 "wikilink")。
   - 字詞/號碼[搜尋](https://zh.wikipedia.org/wiki/搜尋 "wikilink")：輸入關鍵字詞或電話號碼，搜尋相關店家資訊頁。
 
 ## Whoscall Card
 
-[Whoscall Card](https://card.whoscall.com/zh-TW/)
-主功能是讓使用者在Whoscall上建立並個人化編輯屬於自己的個人化的去電顯示介面及個人化號碼資訊頁。Whoscall
-Card的使用者在致電時，會呈現個人化的去電顯示介面給致電的對象; 另外，結束通話後，Whoscall
-Card的通話對象只要透過通話後視窗，即可進入個人化號碼資訊頁，查看個人及商家提供之產品與服務資訊。
+[Whoscall Card](https://card.whoscall.com/zh-TW/) 主功能是讓使用者在Whoscall上建立並個人化編輯屬於自己的個人化的去電顯示介面及個人化號碼資訊頁。Whoscall Card的使用者在致電時，會呈現個人化的去電顯示介面給致電的對象; 另外，結束通話後，Whoscall Card的通話對象只要透過通話後視窗，即可進入個人化號碼資訊頁，查看個人及商家提供之產品與服務資訊。
 
 Whoscall Card於 Whoscall Android版 4.3 開始開放使用者進行Beta測試。
 
@@ -44,10 +40,8 @@ Whoscall Card於 Whoscall Android版 4.3 開始開放使用者進行Beta測試�
   - 2013年6月7日：推出iPhone版 過濾電話\[7\]\[8\]\[9\]\[10\]\[11\]
   - 2013年7月3日：在遠傳S市集上架\[12\]\[13\]\[14\]
   - 2013年8月29日：通聯企業市場，與[黑貓宅急便共同合作](https://zh.wikipedia.org/wiki/黑貓宅急便 "wikilink")\[15\]\[16\]
-  - 2013年12月9日：韓國網際網路服務公司[NHN株式會社以新台幣](https://zh.wikipedia.org/wiki/NHN株式會社 "wikilink")5.29億元收購
-    Whoscall 的 Gogolook 團隊\[17\]
-  - 2014年5月15日：與[趨勢科技](../Page/趨勢科技.md "wikilink")合作，結合「[雲端](https://zh.wikipedia.org/wiki/雲端 "wikilink")[網頁](../Page/網頁.md "wikilink")[信譽評等技術](https://zh.wikipedia.org/wiki/信譽 "wikilink")
-    (WRS)」，推出偵測簡訊病毒功能\[18\]\[19\]
+  - 2013年12月9日：韓國網際網路服務公司[NHN株式會社以新台幣](https://zh.wikipedia.org/wiki/NHN株式會社 "wikilink")5.29億元收購 Whoscall 的 Gogolook 團隊\[17\]
+  - 2014年5月15日：與[趨勢科技](../Page/趨勢科技.md "wikilink")合作，結合「[雲端](https://zh.wikipedia.org/wiki/雲端 "wikilink")[網頁](../Page/網頁.md "wikilink")[信譽評等技術](https://zh.wikipedia.org/wiki/信譽 "wikilink") (WRS)」，推出偵測簡訊病毒功能\[18\]\[19\]
   - 2014年7月28日：與[新北市政府警察局合作](https://zh.wikipedia.org/wiki/新北市政府警察局 "wikilink")，導入[新北市警察局提供之最新惡意電話相關資訊](https://zh.wikipedia.org/wiki/新北市警察局 "wikilink")\[20\]
   - 2014年12月24日：iOS版上架。
   - 2015年1月22日：推出支援Android Wear版本。
@@ -59,14 +53,12 @@ Whoscall Card於 Whoscall Android版 4.3 開始開放使用者進行Beta測試�
   - 2015年9月21日：Android版推出字詞搜尋，利用關鍵字查詢相關店家。
   - 2015年11月10日：Android版推出Whoscall精選\[24\]與Whoscall撥號器捷徑。
   - 2015年11月16日：iOS版推出閃電辨識包，提供來電辨識功能。\[25\]
-  - 2015年12月16日：舉行媒體餐敘，宣布升級三大功能：Whoscall
-    Card、行動查號台與Whoscall精選，成為用戶的個人通話管家。\[26\]\[27\]
+  - 2015年12月16日：舉行媒體餐敘，宣布升級三大功能：Whoscall Card、行動查號台與Whoscall精選，成為用戶的個人通話管家。\[26\]\[27\]
   - 2016年7月19日：發布 Whoscall 5.0版本，全新 Whoscall Card 正式上線\[28\]\[29\]
   - 2016年7月26日：與[中華民國](../Page/中華民國.md "wikilink")[內政部](https://zh.wikipedia.org/wiki/中華民國內政部 "wikilink")[警政署](https://zh.wikipedia.org/wiki/警政署 "wikilink")[刑事警察局](https://zh.wikipedia.org/wiki/刑事警察局 "wikilink")165簽訂合作備忘錄，協同165反詐騙專線打擊詐騙電話\[30\]
   - 2016年9月14日：iOS版推出即時來電辨識、新增封鎖功能。\[31\]
   - 2016年11月：全球下載量突破5000萬，每月辨識號碼近億次。
-  - 2016年12月：與[中華電信](https://zh.wikipedia.org/wiki/中華電信 "wikilink")、[是方電訊](../Page/是方電訊.md "wikilink")合作，推廣
-    Whoscall Card。
+  - 2016年12月：與[中華電信](https://zh.wikipedia.org/wiki/中華電信 "wikilink")、[是方電訊](../Page/是方電訊.md "wikilink")合作，推廣 Whoscall Card。
   - 2017年5月4日：與台灣大哥大合作，推廣安心通話管家、阻絕家庭成員遭騙。
   - 2017年7月18日：與韓國金管會簽訂MOU。
   - 2017年8月29日：推出網購詐騙回報系統。\[32\]
@@ -622,39 +614,22 @@ Whoscall Card於 Whoscall Android版 4.3 開始開放使用者進行Beta測試�
 
 ## 更名與品牌正名
 
-  - 2014年11月25號，Whoscall 於 [Android](../Page/Android.md "wikilink")
-    版本的推播通知中發布：「自 2014 年 12 月 16 日起，Whoscall 將結束 LINE
-    發行推廣期，LINE whoscall 將更名為 Whoscall 。」
+  - 2014年11月25號，Whoscall 於 [Android](../Page/Android.md "wikilink") 版本的推播通知中發布：「自 2014 年 12 月 16 日起，Whoscall 將結束 LINE 發行推廣期，LINE whoscall 將更名為 Whoscall 。」
   - Whoscall書寫樣式為「Whoscall」，W大寫，c小寫。\[44\]
 
 ## 爭議
 
 ### Whoscall App更新全面免費事件
 
-Whoscall
-於2014年1月7日將[Android](../Page/Android.md "wikilink")版App改為全面免費，引發原付費購買App的使用者眾多不滿。大量
-Whoscall 付費使用者抱怨後，Whoscall 於1月7日當晚公布退費通知，並針對每則使用者提問詳加回答。[Google
-Play上的](../Page/Google_Play.md "wikilink") Whoscall
-付費租用戶，不限購買時間接受全額退費，並對一開始未將退費範圍擴及所有舊用戶致歉。App
-Store上的 Whoscall 付費租用戶，依循原退費申請管道。《The News
-Lens關鍵評論》評論：「﻿快速的危機處理獲得各方肯定，外界一致好評。」\[45\]
+Whoscall 於2014年1月7日將[Android](../Page/Android.md "wikilink")版App改為全面免費，引發原付費購買App的使用者眾多不滿。大量 Whoscall 付費使用者抱怨後，Whoscall 於1月7日當晚公布退費通知，並針對每則使用者提問詳加回答。[Google Play上的](../Page/Google_Play.md "wikilink") Whoscall 付費租用戶，不限購買時間接受全額退費，並對一開始未將退費範圍擴及所有舊用戶致歉。App Store上的 Whoscall 付費租用戶，依循原退費申請管道。《The News Lens關鍵評論》評論：「﻿快速的危機處理獲得各方肯定，外界一致好評。」\[45\]
 
 ### 疑似個資外洩事件
 
-2014年2月18日媒體報導，有使用者在通話後，發現於 Whoscall
-視窗內出現通話對方的個人資料，包括姓名、住址、身分證號碼，以及工作上擔任的職務，因此使用者質疑
-Whoscall 駭入手機，抓取使用者個人資料，可能有洩漏個資的行為。\[46\]經眾多使用者實測，於 Whoscall 中輸入電話號碼查詢，於
-App
-內[網路搜尋結果欄位即會顯示該電話號碼在網路歷年活動紀錄](https://zh.wikipedia.org/wiki/網路 "wikilink")，上面資料甚至包含他人的手機號碼。[電台主持人](https://zh.wikipedia.org/wiki/電台主持人 "wikilink")[黎明柔](../Page/黎明柔.md "wikilink")、「宅神」[朱學恒](../Page/朱學恒.md "wikilink")等人透過
-Whoscall
-號碼反查，發現個人資料也出現在網路搜尋結果中，但該資料來源為[行政院研考會](https://zh.wikipedia.org/wiki/行政院研考會 "wikilink")「願景2020報告書」企劃案中。\[47\]Whoscall
-的開發團隊表示，[應用程式是透過](https://zh.wikipedia.org/wiki/應用程式 "wikilink")[網路搜尋及](https://zh.wikipedia.org/wiki/網路 "wikilink")[社群回報等資料](https://zh.wikipedia.org/wiki/社群 "wikilink")，在來電時辨識收發話號碼背景資訊並顯示結果。程式本身沒[駭客功能](https://zh.wikipedia.org/wiki/駭客 "wikilink")，若出現的個人資料代表曾在網路留下電話號碼。\[48\]\[49\]\[50\]
+2014年2月18日媒體報導，有使用者在通話後，發現於 Whoscall 視窗內出現通話對方的個人資料，包括姓名、住址、身分證號碼，以及工作上擔任的職務，因此使用者質疑 Whoscall 駭入手機，抓取使用者個人資料，可能有洩漏個資的行為。\[46\]經眾多使用者實測，於 Whoscall 中輸入電話號碼查詢，於 App 內[網路搜尋結果欄位即會顯示該電話號碼在網路歷年活動紀錄](https://zh.wikipedia.org/wiki/網路 "wikilink")，上面資料甚至包含他人的手機號碼。[電台主持人](https://zh.wikipedia.org/wiki/電台主持人 "wikilink")[黎明柔](../Page/黎明柔.md "wikilink")、「宅神」[朱學恒](../Page/朱學恒.md "wikilink")等人透過 Whoscall 號碼反查，發現個人資料也出現在網路搜尋結果中，但該資料來源為[行政院研考會](https://zh.wikipedia.org/wiki/行政院研考會 "wikilink")「願景2020報告書」企劃案中。\[47\]Whoscall 的開發團隊表示，[應用程式是透過](https://zh.wikipedia.org/wiki/應用程式 "wikilink")[網路搜尋及](https://zh.wikipedia.org/wiki/網路 "wikilink")[社群回報等資料](https://zh.wikipedia.org/wiki/社群 "wikilink")，在來電時辨識收發話號碼背景資訊並顯示結果。程式本身沒[駭客功能](https://zh.wikipedia.org/wiki/駭客 "wikilink")，若出現的個人資料代表曾在網路留下電話號碼。\[48\]\[49\]\[50\]
 
 ### Whoscall 爆隱私爭議 會查詢使用者撥出的電話號碼
 
-2015年9月2日於Facebook官方專頁上公布[波多野結衣](../Page/波多野結衣.md "wikilink")[悠遊卡搶購數據](../Page/波多野結衣悠遊卡事件.md "wikilink")。其中包括「總播出次數」、「個人播出次數」、「回報與收藏次數」
-有使用者檢視Whoscall封包資料，發現Whoscall會紀錄用戶的「發話地點」、「時間」、「網路環境」、「手機型號」、「通話是否接通」等詳細資訊。另外也有使用者檢視官網的用戶隱私政策說明，沒有明確說明蒐集撥打電話號碼。
-官方透過公關公司回應並於Facebook粉絲專頁說明，當用戶接聽或撥打非通訊錄的陌生電話時，Whoscall會自動查詢該號碼有無用戶社群標註，將查詢的結果回報給用戶，其目的是避免用戶誤撥陌生來電導致被詐騙；其所分析資料亦無包含用戶的個人資訊，且Whoscall存取資料皆於安裝時取得授權。\[51\]
+2015年9月2日於Facebook官方專頁上公布[波多野結衣](../Page/波多野結衣.md "wikilink")[悠遊卡搶購數據](../Page/波多野結衣悠遊卡事件.md "wikilink")。其中包括「總播出次數」、「個人播出次數」、「回報與收藏次數」 有使用者檢視Whoscall封包資料，發現Whoscall會紀錄用戶的「發話地點」、「時間」、「網路環境」、「手機型號」、「通話是否接通」等詳細資訊。另外也有使用者檢視官網的用戶隱私政策說明，沒有明確說明蒐集撥打電話號碼。 官方透過公關公司回應並於Facebook粉絲專頁說明，當用戶接聽或撥打非通訊錄的陌生電話時，Whoscall會自動查詢該號碼有無用戶社群標註，將查詢的結果回報給用戶，其目的是避免用戶誤撥陌生來電導致被詐騙；其所分析資料亦無包含用戶的個人資訊，且Whoscall存取資料皆於安裝時取得授權。\[51\]
 
 ## 軼事
 
@@ -662,32 +637,15 @@ Whoscall
 
 <!-- end list -->
 
-  - 2012年7月3日，whoscall V3.2.0
-    上架後，下載更新後的whoscall使用者表示，[俄羅斯防毒軟體](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")
-    [Dr.
-    Web](https://zh.wikipedia.org/wiki/Dr._Web "wikilink")[偵測到whoscall有安全疑慮](https://zh.wikipedia.org/wiki/偵測 "wikilink")。當日晚間
-    whoscall 團隊停止更新後的全球對外宣傳，並於隔日凌晨十二點將該APP下架。當天凌晨四點，Dr. Web
-    原廠軟體更新病毒碼，表示此安全疑慮警示為 Dr. Web 誤判，因此該日晚間六點
-    whoscall 重新上架。\[53\]
+  - 2012年7月3日，whoscall V3.2.0 上架後，下載更新後的whoscall使用者表示，[俄羅斯防毒軟體](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink") [Dr. Web](https://zh.wikipedia.org/wiki/Dr._Web "wikilink")[偵測到whoscall有安全疑慮](https://zh.wikipedia.org/wiki/偵測 "wikilink")。當日晚間 whoscall 團隊停止更新後的全球對外宣傳，並於隔日凌晨十二點將該APP下架。當天凌晨四點，Dr. Web 原廠軟體更新病毒碼，表示此安全疑慮警示為 Dr. Web 誤判，因此該日晚間六點 whoscall 重新上架。\[53\]
 
 <!-- end list -->
 
-  - 2012年7月4日，whoscall改版後一個月後，中東地區用戶卸載率高達到150%。判斷原因為新版 whoscall
-    使用新的[Icon圖像](https://zh.wikipedia.org/wiki/Icon "wikilink")，且未支援阿拉伯文，讓中東用戶無法理解
-    whoscall
-    功能；此外，新版新增[電話號碼註冊程序](https://zh.wikipedia.org/wiki/電話號碼 "wikilink")，使得中東用戶感受到隱私威脅。whoscall
-    團隊決定將 Icon 換回舊圖像，調整註冊流程，於新版本中改變為 email
-    註冊，讓[下載率回升](https://zh.wikipedia.org/wiki/下載 "wikilink")。2012年10月14號
-    Google Play 改版，Google Play Console
-    開放新增[阿拉伯語言選項](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")，whoscall
-    團隊一併推出[阿拉伯文案](https://zh.wikipedia.org/wiki/阿拉伯 "wikilink")。此後，中東地區whoscall下載量跟使用量以四倍速成長，並且在商業類App名列Top
-    2。\[54\]
+  - 2012年7月4日，whoscall改版後一個月後，中東地區用戶卸載率高達到150%。判斷原因為新版 whoscall 使用新的[Icon圖像](https://zh.wikipedia.org/wiki/Icon "wikilink")，且未支援阿拉伯文，讓中東用戶無法理解 whoscall 功能；此外，新版新增[電話號碼註冊程序](https://zh.wikipedia.org/wiki/電話號碼 "wikilink")，使得中東用戶感受到隱私威脅。whoscall 團隊決定將 Icon 換回舊圖像，調整註冊流程，於新版本中改變為 email 註冊，讓[下載率回升](https://zh.wikipedia.org/wiki/下載 "wikilink")。2012年10月14號 Google Play 改版，Google Play Console 開放新增[阿拉伯語言選項](https://zh.wikipedia.org/wiki/阿拉伯語 "wikilink")，whoscall 團隊一併推出[阿拉伯文案](https://zh.wikipedia.org/wiki/阿拉伯 "wikilink")。此後，中東地區whoscall下載量跟使用量以四倍速成長，並且在商業類App名列Top 2。\[54\]
 
 <!-- end list -->
 
-  - 2014年5月20日，[馬英九](../Page/馬英九.md "wikilink")總統就職六周年演說中提到：「前年有三位[清大畢業生](../Page/國立清華大學.md "wikilink")，創辦了『走著瞧（Gogolook）』公司，發展出一款叫做『whoscall』的軟體，最近被[LINE的](../Page/LINE_\(公司\).md "wikilink")[韓國母公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-    [NAVER](../Page/NAVER.md "wikilink")
-    收購，收購金額達到新臺幣5.29億元，是公司一年半前成立時資本額（500萬元）的100倍以上。」\[55\]
+  - 2014年5月20日，[馬英九](../Page/馬英九.md "wikilink")總統就職六周年演說中提到：「前年有三位[清大畢業生](../Page/國立清華大學.md "wikilink")，創辦了『走著瞧（Gogolook）』公司，發展出一款叫做『whoscall』的軟體，最近被[LINE的](../Page/LINE_\(公司\).md "wikilink")[韓國母公司](https://zh.wikipedia.org/wiki/韓國 "wikilink") [NAVER](../Page/NAVER.md "wikilink") 收購，收購金額達到新臺幣5.29億元，是公司一年半前成立時資本額（500萬元）的100倍以上。」\[55\]
 
 <!-- end list -->
 
@@ -697,31 +655,22 @@ Whoscall
 
 ## 相關報導
 
-  - [商業週刊](https://zh.wikipedia.org/wiki/商業週刊 "wikilink")/第1252期 ─
-    這支台灣APP，被[埃里克·施密特](../Page/埃里克·施密特.md "wikilink")點名說讚
+  - [商業週刊](https://zh.wikipedia.org/wiki/商業週刊 "wikilink")/第1252期 ─ 這支台灣APP，被[埃里克·施密特](../Page/埃里克·施密特.md "wikilink")點名說讚
     （）
   - CNA/2013年2月16日 ─ "台灣人進入中東市場情況，在地化市場表現上揚"。
-    （[FEATURE: Taiwanese startup breaks into Middle East
-    market](http://focustaiwan.tw/news/aeco/201302160004.aspx/)＿
-  - [30雜誌](../Page/30雜誌.md "wikilink")/2013 9月號/No.109 ─ 連Google都公開讚揚
-    讓全球30個國家都「走著瞧」的台灣APP
+    （[FEATURE: Taiwanese startup breaks into Middle East market](http://focustaiwan.tw/news/aeco/201302160004.aspx/)＿
+  - [30雜誌](../Page/30雜誌.md "wikilink")/2013 9月號/No.109 ─ 連Google都公開讚揚 讓全球30個國家都「走著瞧」的台灣APP
     （）
-  - [財訊雙週刊](https://zh.wikipedia.org/wiki/財訊雙週刊 "wikilink")/第440期 ─
-    台灣缺伯樂　Gogolook風光外嫁的背後
+  - [財訊雙週刊](https://zh.wikipedia.org/wiki/財訊雙週刊 "wikilink")/第440期 ─ 台灣缺伯樂　Gogolook風光外嫁的背後
     （）
-  - [Forbes
-    富比世](https://zh.wikipedia.org/wiki/Forbes_富比世 "wikilink")/2015年3月12日
-    ─ Viral Role Model Emerges In Innovation-Starved Tech Hub Taiwan
+  - [Forbes 富比世](https://zh.wikipedia.org/wiki/Forbes_富比世 "wikilink")/2015年3月12日 ─ Viral Role Model Emerges In Innovation-Starved Tech Hub Taiwan
     （）
 
 ## 外部連結
 
   - [Whoscall官方網站](http://www.whoscall.com/)
 
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
-[Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink")
-[Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink")
-[Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink")
+[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink") [Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink")
 
 1.
 
@@ -734,7 +683,6 @@ Whoscall
 5.  [版本v3.7.0上架](http://www.whoscall.com/tw/share2get100/)
 
 6.  [版本v3.7.4【whoscall-離線版】上架](http://www.whoscall.com/tw/【whoscall-離線版】帥氣上架。離線版讓您沒網路也可以/)
-
 
 7.
 
@@ -780,8 +728,7 @@ Whoscall
 
 28.
 
-29.  ETtoday
-    東森新聞雲|accessdate=2016-08-11|last=新聞雲|first=ETtoday|language=zh-TW}}
+29.  ETtoday 東森新聞雲|accessdate=2016-08-11|last=新聞雲|first=ETtoday|language=zh-TW}}
 
 30.
 
@@ -823,8 +770,7 @@ Whoscall
 
 50.
 
-51. [波卡數據爆隱私爭議　WhosCall解釋是因... 文/劉人豪|Apple
-    Daily](http://www.appledaily.com.tw/realtimenews/article/new/20150905/685384/)
+51. [波卡數據爆隱私爭議　WhosCall解釋是因... 文/劉人豪|Apple Daily](http://www.appledaily.com.tw/realtimenews/article/new/20150905/685384/)
 
 52.
 

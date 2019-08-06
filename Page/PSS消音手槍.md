@@ -1,10 +1,8 @@
-**PSS**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：Пистолет
-самозарядный
-специальный，意為：半自動特種手槍），是由[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")研製的一種特種手槍。
+**PSS**（[俄語](https://zh.wikipedia.org/wiki/俄語 "wikilink")：Пистолет самозарядный специальный，意為：半自動特種手槍），是由[蘇聯](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")研製的一種特種手槍。
 
 ## 歷史
 
-PSS手槍是專門針對[克格勃的](https://zh.wikipedia.org/wiki/克格勃 "wikilink")[特工和](https://zh.wikipedia.org/wiki/特工 "wikilink")[蘇聯陸軍中的](https://zh.wikipedia.org/wiki/蘇聯軍事 "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")而特別研製出來的。該槍於1983年被正式採用，並取代了[MSP手槍和](https://zh.wikipedia.org/wiki/MSP雷霆消聲手槍 "wikilink")兩種過時且火力不足的特種武器。\[1\]
+PSS手槍是專門針對[克格勃的](https://zh.wikipedia.org/wiki/克格勃 "wikilink")[特工和](https://zh.wikipedia.org/wiki/特工 "wikilink")[蘇聯陸軍中的](https://zh.wikipedia.org/wiki/蘇聯軍事 "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")而特別研製出來的。該槍於1983年被正式採用，並取代了[MSP手槍和](../Page/MSP雷霆消聲手槍.md "wikilink")兩種過時且火力不足的特種武器。\[1\]
 
 ## 設計
 
@@ -36,12 +34,8 @@ PSS手槍曾經被[克格勃採用過](https://zh.wikipedia.org/wiki/克格勃 "
 
 ## 外部連結
 
-  - [Modern
-    Firearms](http://world.guns.ru/handguns/hg/rus/pss-silent-e.html)
+  - [Modern Firearms](http://world.guns.ru/handguns/hg/rus/pss-silent-e.html)
 
-[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink")
-[Category:消聲槍械](https://zh.wikipedia.org/wiki/Category:消聲槍械 "wikilink")
-[Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
-[Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
+[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:消聲槍械](https://zh.wikipedia.org/wiki/Category:消聲槍械 "wikilink") [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink") [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
 
 1.  <http://world.guns.ru/handguns/hg/rus/pss-silent-e.html>

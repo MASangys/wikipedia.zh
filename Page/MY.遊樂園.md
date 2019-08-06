@@ -1,5 +1,4 @@
-《**MY.遊樂園**》是[臺灣](../Page/臺灣.md "wikilink")女子團體[BY2的第六張錄音室專輯](https://zh.wikipedia.org/wiki/BY2 "wikilink")\[1\]和第六個音樂作品。
-將於2013年8月30日開始預購，2013年9月18日發行,該專輯在台擁有超過兩萬張的高銷售量。 \[2\]。
+《**MY.遊樂園**》是[臺灣](../Page/臺灣.md "wikilink")女子團體[BY2的第六張錄音室專輯](https://zh.wikipedia.org/wiki/BY2 "wikilink")\[1\]和第六個音樂作品。 將於2013年8月30日開始預購，2013年9月18日發行,該專輯在台擁有超過兩萬張的高銷售量。 \[2\]。
 
 專輯名稱的「MY.遊樂園」是指「M」iko和「Y」umi的「遊樂園」。
 
@@ -145,9 +144,7 @@ KLIMPEL, BERND</p></td>
 |width=14.2% align=center|**第六張專輯
 [Cat and Mouse](../Page/Cat_and_Mouse.md "wikilink")*'
 
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:BY2音樂專輯](https://zh.wikipedia.org/wiki/Category:BY2音樂專輯 "wikilink")
+[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:BY2音樂專輯](https://zh.wikipedia.org/wiki/Category:BY2音樂專輯 "wikilink")
 
 1.  [博客來音樂館](http://www.books.com.tw/exep/cdfile.php?item=0020173700)
-2.  [By2 官方Facebook
-    粉絲頁](https://www.facebook.com/by2fansclub/posts/10151550641636805)
+2.  [By2 官方Facebook 粉絲頁](https://www.facebook.com/by2fansclub/posts/10151550641636805)

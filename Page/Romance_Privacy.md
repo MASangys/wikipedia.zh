@@ -1,12 +1,8 @@
-「**Romance Privacy**」（）是[French
-Kiss的第](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2012年7月18日由[avex
-Entertainment
-Inc.發行](https://zh.wikipedia.org/wiki/avex_Entertainment_Inc. "wikilink")。
+「**Romance Privacy**」（）是[French Kiss的第](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")5張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。於2012年7月18日由[avex Entertainment Inc.發行](https://zh.wikipedia.org/wiki/avex_Entertainment_Inc. "wikilink")。
 
 ## 概要
 
-分為CD+DVD TYPE-A、CD+DVD TYPE-B、CD+DVD
-TYPE-C、劇場盤的4種形式發售。TYPE-A、TYPE-B、TYPE-C附有初回限定特典和成員獨唱3種+集合1種的原創[閃卡其中](https://zh.wikipedia.org/wiki/閃卡 "wikilink")1種隨機封入。集合1種可以有2012年7月舉行小型Live的参加券。還有初回限定盤附有「ワタ鍋会」的参加券，隨機50枚\[1\]。
+分為CD+DVD TYPE-A、CD+DVD TYPE-B、CD+DVD TYPE-C、劇場盤的4種形式發售。TYPE-A、TYPE-B、TYPE-C附有初回限定特典和成員獨唱3種+集合1種的原創[閃卡其中](https://zh.wikipedia.org/wiki/閃卡 "wikilink")1種隨機封入。集合1種可以有2012年7月舉行小型Live的参加券。還有初回限定盤附有「ワタ鍋会」的参加券，隨機50枚\[1\]。
 
 ## 收錄曲
 
@@ -26,9 +22,7 @@ TYPE-C、劇場盤的4種形式發售。TYPE-A、TYPE-B、TYPE-C附有初回限�
       -
         （作詞：秋元康、作曲：青木真一、編曲：五十嵐"IGAO"淳一）
     <!-- end list -->
-      - CM：[伊藤洋華](https://zh.wikipedia.org/wiki/伊藤洋華堂 "wikilink")、[西武・そごう](https://zh.wikipedia.org/wiki/そごう・西武 "wikilink")、[Seven
-        Net
-        Shop](https://zh.wikipedia.org/wiki/Seven_Net_Shop "wikilink")「レインスタイルコレクション」
+      - CM：[伊藤洋華](https://zh.wikipedia.org/wiki/伊藤洋華堂 "wikilink")、[西武・そごう](https://zh.wikipedia.org/wiki/そごう・西武 "wikilink")、[Seven Net Shop](https://zh.wikipedia.org/wiki/Seven_Net_Shop "wikilink")「レインスタイルコレクション」
       - [富士電視台](../Page/富士電視台.md "wikilink")[系列](../Page/富士電視網.md "wikilink")『[ウチくる\!?](https://zh.wikipedia.org/wiki/ウチくる!? "wikilink")』6月&7月結尾曲
 3.  Romance Privacy（instrumental）
 4.  Rainy day （instrumental）
@@ -137,13 +131,9 @@ TYPE-C、劇場盤的4種形式發售。TYPE-A、TYPE-B、TYPE-C附有初回限�
 
 <!-- end list -->
 
-  -   - [French
-        Kiss官方網站内介紹網站](http://mv.avex.jp/french-kiss/discography/)
+  -   - [French Kiss官方網站内介紹網站](http://mv.avex.jp/french-kiss/discography/)
 
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:AKB48家族關連歌曲](https://zh.wikipedia.org/wiki/Category:AKB48家族關連歌曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
-[Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
+[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:AKB48家族關連歌曲](https://zh.wikipedia.org/wiki/Category:AKB48家族關連歌曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:秋元康創作的歌曲](https://zh.wikipedia.org/wiki/Category:秋元康創作的歌曲 "wikilink")
 
 1.
 

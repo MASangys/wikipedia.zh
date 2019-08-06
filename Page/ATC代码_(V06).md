@@ -33,5 +33,4 @@
 
 ## 参考资料
 
-[Category:药物](https://zh.wikipedia.org/wiki/Category:药物 "wikilink")
-[Category:ATC代码](https://zh.wikipedia.org/wiki/Category:ATC代码 "wikilink")
+[Category:药物](https://zh.wikipedia.org/wiki/Category:药物 "wikilink") [Category:ATC代码](https://zh.wikipedia.org/wiki/Category:ATC代码 "wikilink")

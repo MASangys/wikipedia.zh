@@ -27,9 +27,7 @@
 ## 鄰近交通設施
 
   - [豐富繞道](../Page/豐富繞道.md "wikilink")
-    (2) [豐富佐呂別IC](https://zh.wikipedia.org/wiki/豐富佐呂別IC "wikilink") -
-    (3) **豐富幌加IC** - (4)
-    [豐富北IC](https://zh.wikipedia.org/wiki/豐富北IC "wikilink")
+    (2) [豐富佐呂別IC](https://zh.wikipedia.org/wiki/豐富佐呂別IC "wikilink") - (3) **豐富幌加IC** - (4) [豐富北IC](https://zh.wikipedia.org/wiki/豐富北IC "wikilink")
 
 ## 相關條目
 
@@ -40,6 +38,4 @@
   - [豊富町](http://www.town.toyotomi.hokkaido.jp/)
   - [北海道開発局稚内開発建設部](https://web.archive.org/web/20140903105830/http://www.wk.hkd.mlit.go.jp/index.html)
 
-
-[Category:日本交流道_To](https://zh.wikipedia.org/wiki/Category:日本交流道_To "wikilink")
-[Category:北海道交流道](https://zh.wikipedia.org/wiki/Category:北海道交流道 "wikilink")
+[Category:日本交流道_To](https://zh.wikipedia.org/wiki/Category:日本交流道_To "wikilink") [Category:北海道交流道](https://zh.wikipedia.org/wiki/Category:北海道交流道 "wikilink")

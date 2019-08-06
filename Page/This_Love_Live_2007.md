@@ -1,6 +1,4 @@
-《**This Love Live
-2007**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[方大同的首張](https://zh.wikipedia.org/wiki/方大同 "wikilink")[現場專輯](../Page/現場專輯.md "wikilink")，在2007年8月23日推出，收錄了他於2月1日至2月3日在[灣仔](../Page/灣仔.md "wikilink")[香港藝術中心](../Page/香港藝術中心.md "wikilink")壽臣劇院舉行的《This
-Love Live 2007》所錄的曲目，當中包括兩片CD。\[1\]
+《**This Love Live 2007**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[方大同的首張](https://zh.wikipedia.org/wiki/方大同 "wikilink")[現場專輯](../Page/現場專輯.md "wikilink")，在2007年8月23日推出，收錄了他於2月1日至2月3日在[灣仔](../Page/灣仔.md "wikilink")[香港藝術中心](../Page/香港藝術中心.md "wikilink")壽臣劇院舉行的《This Love Live 2007》所錄的曲目，當中包括兩片CD。\[1\]
 
 ## 曲目
 
@@ -206,11 +204,6 @@ Love Live 2007》所錄的曲目，當中包括兩片CD。\[1\]
 
 </div>
 
-[Category:方大同音樂專輯](https://zh.wikipedia.org/wiki/Category:方大同音樂專輯 "wikilink")
-[Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:現場專輯](https://zh.wikipedia.org/wiki/Category:現場專輯 "wikilink")
+[Category:方大同音樂專輯](https://zh.wikipedia.org/wiki/Category:方大同音樂專輯 "wikilink") [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:現場專輯](https://zh.wikipedia.org/wiki/Category:現場專輯 "wikilink")
 
-1.  [YESASIA : 方大同 愛愛愛演唱會 This Love Live 2007 (2CD) 鐳射唱片 - 方大同, 華納唱片
-    (HK)](http://www.yesasia.com/global/%E6%96%B9%E5%A4%A7%E5%90%8C-%E6%84%9B%E6%84%9B%E6%84%9B%E6%BC%94%E5%94%B1%E6%9C%83-this-love-live-2007-2cd/1004981707-0-0-0-zh_TW/info.html)，2012年6月16日
-    (六) 13:00 (UTC+8)查閱
+1.  [YESASIA : 方大同 愛愛愛演唱會 This Love Live 2007 (2CD) 鐳射唱片 - 方大同, 華納唱片 (HK)](http://www.yesasia.com/global/%E6%96%B9%E5%A4%A7%E5%90%8C-%E6%84%9B%E6%84%9B%E6%84%9B%E6%BC%94%E5%94%B1%E6%9C%83-this-love-live-2007-2cd/1004981707-0-0-0-zh_TW/info.html)，2012年6月16日 (六) 13:00 (UTC+8)查閱

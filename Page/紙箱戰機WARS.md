@@ -139,8 +139,7 @@
 <!-- end list -->
 
   -
-    2055年的LBX最新專用裝備，是裝在LBX背部的一種特殊裝備。裝有此裝備的LBX，能藉由將武器組裝變形成不同的形態，來應付各種戰況。在使用多功能武裝背包時，CCM會發出「Set
-    Up XX」的指令（XX為使用多功能武裝背包組裝的武器名稱）。
+    2055年的LBX最新專用裝備，是裝在LBX背部的一種特殊裝備。裝有此裝備的LBX，能藉由將武器組裝變形成不同的形態，來應付各種戰況。在使用多功能武裝背包時，CCM會發出「Set Up XX」的指令（XX為使用多功能武裝背包組裝的武器名稱）。
 
 <!-- end list -->
 
@@ -914,17 +913,7 @@ BS放送</p></td>
 
   - [《紙箱戰機WARS》東京電視台網站](http://www.tv-tokyo.co.jp/anime/lbxwars/index2.html)
 
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:角色扮演电子游戏](https://zh.wikipedia.org/wiki/Category:角色扮演电子游戏 "wikilink")
-[Category:Level-5游戏](https://zh.wikipedia.org/wiki/Category:Level-5游戏 "wikilink")
-[Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink")
-[Category:任天堂3DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS独占游戏 "wikilink")
-[Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink")
-[Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
+[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:角色扮演电子游戏](https://zh.wikipedia.org/wiki/Category:角色扮演电子游戏 "wikilink") [Category:Level-5游戏](https://zh.wikipedia.org/wiki/Category:Level-5游戏 "wikilink") [Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink") [Category:任天堂3DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS独占游戏 "wikilink") [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink") [Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
 
 1.  臺灣[Animax撥出動畫版時譯作](../Page/Animax_Asia.md "wikilink")「俄羅士聯合」。
 

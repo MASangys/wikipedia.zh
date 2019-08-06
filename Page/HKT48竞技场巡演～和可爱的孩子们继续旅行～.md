@@ -1,6 +1,4 @@
-**HKT48竞技场巡演～和可爱的孩子们继续旅行～**（）是[HKT48](../Page/HKT48.md "wikilink")於2014年4月29日
--
-7月13日在[日本](../Page/日本.md "wikilink")的[竞技场](../Page/竞技场.md "wikilink")级别的场所所舉辦的巡回演唱會。
+**HKT48竞技场巡演～和可爱的孩子们继续旅行～**（）是[HKT48](../Page/HKT48.md "wikilink")於2014年4月29日 - 7月13日在[日本](../Page/日本.md "wikilink")的[竞技场](../Page/竞技场.md "wikilink")级别的场所所舉辦的巡回演唱會。
 
 ## 概要
 
@@ -25,42 +23,26 @@
 <!-- end list -->
 
 1.  《overture(HKT48 ver.) 》
-2.  《[青春女孩](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage“青春女孩”#HKT48_Team_H_2nd_Stage“青春女孩”公演 "wikilink")》（）
-    - 全员
-3.  《[HKT48](https://zh.wikipedia.org/wiki/Team_H“博多传奇” "wikilink")》 -
-    全员
+2.  《[青春女孩](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage“青春女孩”#HKT48_Team_H_2nd_Stage“青春女孩”公演 "wikilink")》（） - 全员
+3.  《[HKT48](https://zh.wikipedia.org/wiki/Team_H“博多传奇” "wikilink")》 - 全员
 4.  《[想见你](https://zh.wikipedia.org/wiki/想见你 "wikilink")》（） - 全员
 5.  《[已读无视](../Page/櫻花，大家一起來品嚐.md "wikilink")》（） - Team H
 6.  《[与前男友的哥哥交往这回事](../Page/櫻花，大家一起來品嚐.md "wikilink")》（） - Team KIV
-7.  《[眨眼3次](https://zh.wikipedia.org/wiki/假如在悬铃木的路上对你说“我梦见了你的微笑”，我们的关系会怎么变化，我自己想了几天大概只能得出稍稍让人害羞的结论 "wikilink")》（）
-    - 原曲選拔成員
+7.  《[眨眼3次](https://zh.wikipedia.org/wiki/假如在悬铃木的路上对你说“我梦见了你的微笑”，我们的关系会怎么变化，我自己想了几天大概只能得出稍稍让人害羞的结论 "wikilink")》（） - 原曲選拔成員
 8.  《[櫻花，大家一起來品嚐](../Page/櫻花，大家一起來品嚐.md "wikilink")》（） - 全员
-9.  《[所謂被愛](https://zh.wikipedia.org/wiki/ICE_\(动画\)#主题曲 "wikilink")》（）
-    -
-    [兒玉遙](../Page/兒玉遙.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[田島芽琉](https://zh.wikipedia.org/wiki/田島芽琉 "wikilink")、[朝長美櫻](../Page/朝長美櫻.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")
-10. 《[请你记得](../Page/櫻花，大家一起來品嚐.md "wikilink")》（） - 原曲選拔成員 +
-    [山本茉央](https://zh.wikipedia.org/wiki/山本茉央 "wikilink")
-11. 《[破浪刨冰](../Page/破浪刨冰.md "wikilink")》（） -
-    兒玉、山本、[岡田栞奈](https://zh.wikipedia.org/wiki/岡田栞奈 "wikilink")、朝長
-12. 《》（，原唱为[松任谷由实](https://zh.wikipedia.org/wiki/松任谷由实 "wikilink")） -
-    [熊泽世莉奈](https://zh.wikipedia.org/wiki/熊泽世莉奈 "wikilink")、[村重杏奈](../Page/村重杏奈.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")、[神志那结衣](https://zh.wikipedia.org/wiki/神志那结衣 "wikilink")、[森保圆](https://zh.wikipedia.org/wiki/森保圆 "wikilink")（、同时演奏钢琴）
-13. 《[UFO](https://zh.wikipedia.org/wiki/UFO_\(Pink_Lady单曲\) "wikilink")》（原唱为[Pink
-    Lady](https://zh.wikipedia.org/wiki/Pink_Lady "wikilink")） -
-    [松冈菜摘](https://zh.wikipedia.org/wiki/松冈菜摘 "wikilink")、宮脇
-14. 《[小木偶军团](https://zh.wikipedia.org/wiki/Team_S_3rd_Stage“制服之芽” "wikilink")》（）
-    -
-    指原、[荒巻美咲](https://zh.wikipedia.org/wiki/荒巻美咲 "wikilink")、[栗原纱英](https://zh.wikipedia.org/wiki/栗原纱英 "wikilink")、[坂本爱玲菜](https://zh.wikipedia.org/wiki/坂本爱玲菜 "wikilink")、[筒井莉子](https://zh.wikipedia.org/wiki/筒井莉子 "wikilink")、[外薗叶月](https://zh.wikipedia.org/wiki/外薗叶月 "wikilink")、[山内祐奈](https://zh.wikipedia.org/wiki/山内祐奈 "wikilink")、[山下艾米丽](https://zh.wikipedia.org/wiki/山下艾米丽 "wikilink")（）
-15. 《[Pedicure day](../Page/Pedicure_day.md "wikilink")》（） -
-    [穴井千寻](https://zh.wikipedia.org/wiki/穴井千寻 "wikilink")、田島、[本村碧唯](../Page/本村碧唯.md "wikilink")
+9.  《[所謂被愛](https://zh.wikipedia.org/wiki/ICE_\(动画\)#主题曲 "wikilink")》（） - [兒玉遙](../Page/兒玉遙.md "wikilink")、[指原莉乃](../Page/指原莉乃.md "wikilink")、[田島芽琉](https://zh.wikipedia.org/wiki/田島芽琉 "wikilink")、[朝長美櫻](../Page/朝長美櫻.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")
+10. 《[请你记得](../Page/櫻花，大家一起來品嚐.md "wikilink")》（） - 原曲選拔成員 + [山本茉央](https://zh.wikipedia.org/wiki/山本茉央 "wikilink")
+11. 《[破浪刨冰](../Page/破浪刨冰.md "wikilink")》（） - 兒玉、山本、[岡田栞奈](https://zh.wikipedia.org/wiki/岡田栞奈 "wikilink")、朝長
+12. 《》（，原唱为[松任谷由实](https://zh.wikipedia.org/wiki/松任谷由实 "wikilink")） - [熊泽世莉奈](https://zh.wikipedia.org/wiki/熊泽世莉奈 "wikilink")、[村重杏奈](../Page/村重杏奈.md "wikilink")、[多田愛佳](../Page/多田愛佳.md "wikilink")、[神志那结衣](https://zh.wikipedia.org/wiki/神志那结衣 "wikilink")、[森保圆](https://zh.wikipedia.org/wiki/森保圆 "wikilink")（、同时演奏钢琴）
+13. 《[UFO](https://zh.wikipedia.org/wiki/UFO_\(Pink_Lady单曲\) "wikilink")》（原唱为[Pink Lady](https://zh.wikipedia.org/wiki/Pink_Lady "wikilink")） - [松冈菜摘](https://zh.wikipedia.org/wiki/松冈菜摘 "wikilink")、宮脇
+14. 《[小木偶军团](https://zh.wikipedia.org/wiki/Team_S_3rd_Stage“制服之芽” "wikilink")》（） - 指原、[荒巻美咲](https://zh.wikipedia.org/wiki/荒巻美咲 "wikilink")、[栗原纱英](https://zh.wikipedia.org/wiki/栗原纱英 "wikilink")、[坂本爱玲菜](https://zh.wikipedia.org/wiki/坂本爱玲菜 "wikilink")、[筒井莉子](https://zh.wikipedia.org/wiki/筒井莉子 "wikilink")、[外薗叶月](https://zh.wikipedia.org/wiki/外薗叶月 "wikilink")、[山内祐奈](https://zh.wikipedia.org/wiki/山内祐奈 "wikilink")、[山下艾米丽](https://zh.wikipedia.org/wiki/山下艾米丽 "wikilink")（）
+15. 《[Pedicure day](../Page/Pedicure_day.md "wikilink")》（） - [穴井千寻](https://zh.wikipedia.org/wiki/穴井千寻 "wikilink")、田島、[本村碧唯](../Page/本村碧唯.md "wikilink")
 16. 《[说说漂亮话不也很好吗？](../Page/喜歡！喜歡！小跳步！.md "wikilink")》（） - 原曲選拔成員
       -
         之後插入一段以[白雪公主](../Page/白雪公主.md "wikilink")為主題的[短劇](https://zh.wikipedia.org/wiki/#短劇 "wikilink")
-17. 《[Show fight！](https://zh.wikipedia.org/wiki/格子花纹 "wikilink")》 -
-    [以上短劇演員](https://zh.wikipedia.org/wiki/#角色分配 "wikilink")
+17. 《[Show fight！](https://zh.wikipedia.org/wiki/格子花纹 "wikilink")》 - [以上短劇演員](https://zh.wikipedia.org/wiki/#角色分配 "wikilink")
 18. 《[戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")》（） - 同上
-19. 《[厚臉皮的嘴唇](https://zh.wikipedia.org/wiki/厚臉皮的嘴唇 "wikilink")》（） -
-    [田中美久](https://zh.wikipedia.org/wiki/田中美久_\(歌手\) "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")
-    + 短劇演員
+19. 《[厚臉皮的嘴唇](https://zh.wikipedia.org/wiki/厚臉皮的嘴唇 "wikilink")》（） - [田中美久](https://zh.wikipedia.org/wiki/田中美久_\(歌手\) "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink") + 短劇演員
 20. AKB48 Group歌曲联唱 - 全员
       -
         《[UZA](../Page/UZA.md "wikilink")》
@@ -71,10 +53,8 @@
         《[純情U-19](../Page/純情U-19.md "wikilink")》（）
         《[單戀Finally](../Page/單戀Finally.md "wikilink")》（）
         《[RIVER](../Page/RIVER_\(AKB48單曲\).md "wikilink")》
-21. 《[求求你华伦亭](https://zh.wikipedia.org/wiki/喜欢！喜欢！小跳步！ "wikilink")》（） -
-    樱花选拔成员16人
-22. 《[初恋蝴蝶](https://zh.wikipedia.org/wiki/永远的压力 "wikilink")》（） -
-    樱花选拔成员16人
+21. 《[求求你华伦亭](https://zh.wikipedia.org/wiki/喜欢！喜欢！小跳步！ "wikilink")》（） - 樱花选拔成员16人
+22. 《[初恋蝴蝶](https://zh.wikipedia.org/wiki/永远的压力 "wikilink")》（） - 樱花选拔成员16人
 23. 《[大声钻石](../Page/大声钻石.md "wikilink")》（） - 全员
 24. 《[摇滚吧、人生就是…](../Page/向日葵组_2nd_Stage“不要让梦想死去”.md "wikilink")》（） - 全员
 25. 《[明天會有不一樣的你](../Page/Chocolove_from_AKB48.md "wikilink")》（） - 全员
@@ -85,8 +65,7 @@
 
 <!-- end list -->
 
-1.  《[喜欢！喜欢！小跳步！](https://zh.wikipedia.org/wiki/喜欢！喜欢！小跳步！ "wikilink")》（）
-    - 全员
+1.  《[喜欢！喜欢！小跳步！](https://zh.wikipedia.org/wiki/喜欢！喜欢！小跳步！ "wikilink")》（） - 全员
 2.  《[因为喜欢你 博多方言 ver.](../Page/櫻花，大家一起來品嚐.md "wikilink")》（） - 全员
 3.  《[甜瓜汁](../Page/甜瓜汁_\(HKT48單曲\).md "wikilink")》（） - 全员
 
@@ -110,22 +89,15 @@
 8.  《櫻花，大家一起來品嚐》 - 全员
 9.  《所謂被愛》 - 兒玉、指原、田島、朝長、宮脇
 10. 《请你记得》 - 原曲選拔成員 + 山本
-11. 《》（，原唱为[糖果合唱团](https://zh.wikipedia.org/wiki/糖果合唱团 "wikilink")） -
-    朝長、村重、本村
-12. 《》（，原唱为[早见优](https://zh.wikipedia.org/wiki/早见优 "wikilink")） -
-    穴井、兒玉、[渕上舞](https://zh.wikipedia.org/wiki/淵上舞_\(歌手\) "wikilink")、田島、山本茉
-13. 《[关于你](https://zh.wikipedia.org/wiki/Beginner_\(AKB48单曲\) "wikilink")》（）
-    - 松岡、多田、熊沢、神志那、森保（同时演奏钢琴）
-14. 《[喇叭练习中](https://zh.wikipedia.org/wiki/喇叭练习中 "wikilink")》（） - 宫胁 +
-    荒巻、坂本、山内祐
-15. 《啊ゝ無情》（） 原唱：[Ann
-    Lewis](https://zh.wikipedia.org/wiki/Ann_Lewis "wikilink") -
-    指原（吉他伴奏為）
+11. 《》（，原唱为[糖果合唱团](https://zh.wikipedia.org/wiki/糖果合唱团 "wikilink")） - 朝長、村重、本村
+12. 《》（，原唱为[早见优](https://zh.wikipedia.org/wiki/早见优 "wikilink")） - 穴井、兒玉、[渕上舞](https://zh.wikipedia.org/wiki/淵上舞_\(歌手\) "wikilink")、田島、山本茉
+13. 《[关于你](https://zh.wikipedia.org/wiki/Beginner_\(AKB48单曲\) "wikilink")》（） - 松岡、多田、熊沢、神志那、森保（同时演奏钢琴）
+14. 《[喇叭练习中](https://zh.wikipedia.org/wiki/喇叭练习中 "wikilink")》（） - 宫胁 + 荒巻、坂本、山内祐
+15. 《啊ゝ無情》（） 原唱：[Ann Lewis](https://zh.wikipedia.org/wiki/Ann_Lewis "wikilink") - 指原（吉他伴奏為）
 16. 《说说漂亮话不也很好吗？》 - 原曲選拔成員
       -
         之後插入一段以白雪公主為主題的[短劇](https://zh.wikipedia.org/wiki/#短劇 "wikilink")
-17. 《Show fight！》 -
-    [以上短劇演員](https://zh.wikipedia.org/wiki/#角色分配 "wikilink")
+17. 《Show fight！》 - [以上短劇演員](https://zh.wikipedia.org/wiki/#角色分配 "wikilink")
 18. 《戀愛的幸運餅乾》 - 同上
 19. 《厚臉皮的嘴唇》 - 田中美、矢吹 + 短劇演員
 20. AKB48 Group歌曲联唱 - 全员
@@ -164,8 +136,7 @@
 
   - 举办时间与地点：5月2日，[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")（）
   - 开场/开演时间：17:00/18:00
-  - 由于要出席Team
-    E“[手牵手](https://zh.wikipedia.org/wiki/Team_S_2nd_Stage“手牵手”#SKE48_Team_E_4th_Stage“手牵手”公演 "wikilink")”公演的初日演出，自SKE48兼任的成员[木本花音](../Page/木本花音.md "wikilink")未能参加本场演出。开场时，与曾是AKB48成员的[多田爱佳表示相比于](https://zh.wikipedia.org/wiki/多田爱佳 "wikilink")[柏木由纪更喜欢](https://zh.wikipedia.org/wiki/柏木由纪 "wikilink")[渡边麻友](https://zh.wikipedia.org/wiki/渡边麻友 "wikilink")。在演出中，指原莉乃表示了对吉本新喜剧和[阪神虎](../Page/阪神虎.md "wikilink")的喜爱，并以NMB48成员[山本彩](../Page/山本彩.md "wikilink")在综艺节目《》上的糟糕表现为话题，调动现场观众情绪。
+  - 由于要出席Team E“[手牵手](https://zh.wikipedia.org/wiki/Team_S_2nd_Stage“手牵手”#SKE48_Team_E_4th_Stage“手牵手”公演 "wikilink")”公演的初日演出，自SKE48兼任的成员[木本花音](../Page/木本花音.md "wikilink")未能参加本场演出。开场时，与曾是AKB48成员的[多田爱佳表示相比于](https://zh.wikipedia.org/wiki/多田爱佳 "wikilink")[柏木由纪更喜欢](https://zh.wikipedia.org/wiki/柏木由纪 "wikilink")[渡边麻友](https://zh.wikipedia.org/wiki/渡边麻友 "wikilink")。在演出中，指原莉乃表示了对吉本新喜剧和[阪神虎](../Page/阪神虎.md "wikilink")的喜爱，并以NMB48成员[山本彩](../Page/山本彩.md "wikilink")在综艺节目《》上的糟糕表现为话题，调动现场观众情绪。
 
 ### 曲目
 
@@ -191,8 +162,7 @@
 16. 《说说漂亮话不也很好吗？》 - 原曲選拔成員
       -
         之後插入一段以[白雪公主](../Page/白雪公主.md "wikilink")為主題的[短劇](https://zh.wikipedia.org/wiki/#短劇 "wikilink")
-17. 《Show fight！》 -
-    [以上短劇演員](https://zh.wikipedia.org/wiki/#角色分配 "wikilink")
+17. 《Show fight！》 - [以上短劇演員](https://zh.wikipedia.org/wiki/#角色分配 "wikilink")
 18. 《戀愛的幸運餅乾》 - 同上
 19. 《厚臉皮的嘴唇》 - 田中美、矢吹 + 短劇演員
 20. AKB48 Group歌曲联唱 - 全员
@@ -234,8 +204,7 @@
   - 开场/开演时间：
       - 昼公演：11:00/12:08
       - 夜公演：16:00/17:00
-  - 由于名古屋是HKT48的姐妹组合[SKE48](../Page/SKE48.md "wikilink")的所在地，因此本次演出有许多SKE48的成员前来观看，自SKE48兼任的木本花音也自当日正式开始参加此次巡演。由指原莉乃担任出道单曲制作人的AKB48
-    Group研究生会会长[松村香织更是在晚场演出中登台表演](https://zh.wikipedia.org/wiki/松村香织 "wikilink")《[松村LOVE\!](https://zh.wikipedia.org/wiki/松村LOVE! "wikilink")》（）炒热气氛。
+  - 由于名古屋是HKT48的姐妹组合[SKE48](../Page/SKE48.md "wikilink")的所在地，因此本次演出有许多SKE48的成员前来观看，自SKE48兼任的木本花音也自当日正式开始参加此次巡演。由指原莉乃担任出道单曲制作人的AKB48 Group研究生会会长[松村香织更是在晚场演出中登台表演](https://zh.wikipedia.org/wiki/松村香织 "wikilink")《[松村LOVE\!](https://zh.wikipedia.org/wiki/松村LOVE! "wikilink")》（）炒热气氛。
 
 ### 曲目
 
@@ -263,12 +232,10 @@
 16. 《说说漂亮话不也很好吗？》 - 原曲選拔成員
       -
         之後插入一段以[白雪公主](../Page/白雪公主.md "wikilink")為主題的[短劇](https://zh.wikipedia.org/wiki/#短劇 "wikilink")
-17. 《Show fight！》 -
-    [以上短劇演員](https://zh.wikipedia.org/wiki/#角色分配 "wikilink")
+17. 《Show fight！》 - [以上短劇演員](https://zh.wikipedia.org/wiki/#角色分配 "wikilink")
 18. 《戀愛的幸運餅乾》 - 同上
 19. 《厚臉皮的嘴唇》 - 田中美、矢吹 + 短劇演員
-20. 《[可是…](../Page/Team_A_2nd_Stage“想见你”.md "wikilink")》（） -
-    穴井、多田、田島、松岡、村重、朝長、渕上
+20. 《[可是…](../Page/Team_A_2nd_Stage“想见你”.md "wikilink")》（） - 穴井、多田、田島、松岡、村重、朝長、渕上
 21. AKB48 Group歌曲联唱 - 全员
       -
         《UZA》
@@ -324,12 +291,10 @@
 16. 《说说漂亮话不也很好吗？》 - 原曲選拔成員
       -
         之後插入一段以白雪公主為主題的[短劇](https://zh.wikipedia.org/wiki/#短劇 "wikilink")
-17. 《Show fight！》 -
-    [以上短劇演員](https://zh.wikipedia.org/wiki/#角色分配 "wikilink")
+17. 《Show fight！》 - [以上短劇演員](https://zh.wikipedia.org/wiki/#角色分配 "wikilink")
 18. 《戀愛的幸運餅乾》 - 同上
 19. 《厚臉皮的嘴唇》 - 田中美、矢吹 + 短劇演員
-20. 《[松村LOVE\!](https://zh.wikipedia.org/wiki/松村LOVE! "wikilink")》（） -
-    [松村香织](https://zh.wikipedia.org/wiki/松村香织 "wikilink")
+20. 《[松村LOVE\!](https://zh.wikipedia.org/wiki/松村LOVE! "wikilink")》（） - [松村香织](https://zh.wikipedia.org/wiki/松村香织 "wikilink")
 21. AKB48 Group歌曲联唱 - 全员
       -
         《UZA》
@@ -367,10 +332,7 @@
 
   - 举办时间与地点：7月13日，[福岡县](https://zh.wikipedia.org/wiki/福岡县 "wikilink")[海之中道](../Page/海之中道.md "wikilink")[海濱公園](../Page/海之中道海濱公園.md "wikilink")（）
   - 开场/开演时间：14:00/17:00
-  - 在当日的演唱会上，74岁的摇滚歌手[内田裕也](../Page/内田裕也.md "wikilink")作为惊喜嘉宾登场登场与指原莉乃合作，演唱了他在时隔29年之后发行的新单曲《[Shake
-    It Up,
-    Baby](../Page/Shake_It_Up,_Baby.md "wikilink")》，引起现场观众惊呼。另外，在之前剧场公演中受伤的Team
-    KIV的[岡田栞奈在演出尾端登场加入演唱](https://zh.wikipedia.org/wiki/岡田栞奈 "wikilink")，正式复归舞台。
+  - 在当日的演唱会上，74岁的摇滚歌手[内田裕也](../Page/内田裕也.md "wikilink")作为惊喜嘉宾登场登场与指原莉乃合作，演唱了他在时隔29年之后发行的新单曲《[Shake It Up, Baby](../Page/Shake_It_Up,_Baby.md "wikilink")》，引起现场观众惊呼。另外，在之前剧场公演中受伤的Team KIV的[岡田栞奈在演出尾端登场加入演唱](https://zh.wikipedia.org/wiki/岡田栞奈 "wikilink")，正式复归舞台。
 
 ### 曲目
 
@@ -382,22 +344,16 @@
 2.  《青春女孩》 - 全员
 3.  《HKT48》 - 全员
 4.  《想见你》 - 全员
-5.  《[沙滩鞋](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage“青春女孩”#HKT48_Team_H_2nd_Stage“青春女孩”公演 "wikilink")》（）
-    - Team H
-6.  《[不开心的美人鱼](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage“睡衣兜风”#HKT48向日葵组公演“睡衣兜风” "wikilink")》（）
-    - Team KIV
+5.  《[沙滩鞋](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage“青春女孩”#HKT48_Team_H_2nd_Stage“青春女孩”公演 "wikilink")》（） - Team H
+6.  《[不开心的美人鱼](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage“睡衣兜风”#HKT48向日葵组公演“睡衣兜风” "wikilink")》（） - Team KIV
 7.  《[你与彩虹与太阳](../Page/神曲集.md "wikilink")》（）- 全员
 8.  《櫻花，大家一起來品嚐》 - 全员
 9.  《[西瓜BABY](../Page/西瓜BABY.md "wikilink")》（） - 田島、朝長
-10. 《[泪之湘南](../Page/Team_A_2nd_Stage“想见你”.md "wikilink")》（） -
-    本村、兒玉、坂口、山本茉、駒田
+10. 《[泪之湘南](../Page/Team_A_2nd_Stage“想见你”.md "wikilink")》（） - 本村、兒玉、坂口、山本茉、駒田
 11. 《[很早以前](../Page/很早以前.md "wikilink")》（） - 木本、宮脇、多田
-12. 《[再战](../Page/Team_K_4th_Stage“最终钟声鸣响”.md "wikilink")》（） -
-    森保×穴井、松岡菜×神志那
-13. 《[向日葵](../Page/向日葵组_1st_Stage“我的太阳”.md "wikilink")》（） -
-    岡本、坂口、田島、駒田、植木
-14. 《[Shake It Up, Baby](../Page/Shake_It_Up,_Baby.md "wikilink")》（） -
-    内田裕也 feat. 指原莉乃
+12. 《[再战](../Page/Team_K_4th_Stage“最终钟声鸣响”.md "wikilink")》（） - 森保×穴井、松岡菜×神志那
+13. 《[向日葵](../Page/向日葵组_1st_Stage“我的太阳”.md "wikilink")》（） - 岡本、坂口、田島、駒田、植木
+14. 《[Shake It Up, Baby](../Page/Shake_It_Up,_Baby.md "wikilink")》（） - 内田裕也 feat. 指原莉乃
 15. 《厚臉皮的嘴唇》 - 田中美、矢吹
 16. 《初恋蝴蝶》 - 秋吉、穴井、兒玉、指原、田島、松岡、多田、木本、朝長、渕上、宮脇、村重、本村、森保
 17. 《求求你华伦亭》 - 全員
@@ -410,8 +366,7 @@
 24. 《[Everyday、发箍](https://zh.wikipedia.org/wiki/Everyday、发箍 "wikilink")》（）
       -
         之後插入一段以白雪公主為主題的[短劇](https://zh.wikipedia.org/wiki/#短劇 "wikilink")
-25. 《Show fight！》 -
-    [以上短劇演員](https://zh.wikipedia.org/wiki/#角色分配 "wikilink")
+25. 《Show fight！》 - [以上短劇演員](https://zh.wikipedia.org/wiki/#角色分配 "wikilink")
 26. 《戀愛的幸運餅乾》 - 同上
 27. AKB48 Group歌曲联唱 - 全员
       -
@@ -429,8 +384,7 @@
         《RIVER》
 28. 《请你记得》 - 原曲選拔成員
 29. 《[浪声之八音盒](../Page/甜瓜汁_\(HKT48單曲\).md "wikilink")》（） - 指原、兒玉、宮脇、田島、朝長
-30. 《[我点燃的烟花](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage“青春女孩”#HKT48_Team_H_2nd_Stage“青春女孩”公演 "wikilink")》（）
-    - 全员（包括冈田栞奈）
+30. 《[我点燃的烟花](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage“青春女孩”#HKT48_Team_H_2nd_Stage“青春女孩”公演 "wikilink")》（） - 全员（包括冈田栞奈）
 31. 《[爱之绳](https://zh.wikipedia.org/wiki/爱之绳 "wikilink")》（）
 32. 《[尖端顶点之上！](../Page/尖端顶点之上！.md "wikilink")博多方言 ver.》（）
 33. 《[BINGO\!](../Page/BINGO!.md "wikilink")》

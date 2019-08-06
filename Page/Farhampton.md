@@ -6,10 +6,7 @@
 
 ## 插曲
 
-  - [Band of
-    Horses](https://zh.wikipedia.org/wiki/Band_of_Horses "wikilink") -
-    [The
-    Funeral](https://zh.wikipedia.org/wiki/The_Funeral_\(song\) "wikilink")
+  - [Band of Horses](https://zh.wikipedia.org/wiki/Band_of_Horses "wikilink") - [The Funeral](https://zh.wikipedia.org/wiki/The_Funeral_\(song\) "wikilink")
 
 ## 巴尼的博客
 
@@ -22,8 +19,7 @@
 
 ## 反响
 
-Donna
-Bowman在[影音俱乐部上给这集B的评价](https://zh.wikipedia.org/wiki/影音俱乐部 "wikilink")\[2\]。
+Donna Bowman在[影音俱乐部上给这集B的评价](https://zh.wikipedia.org/wiki/影音俱乐部 "wikilink")\[2\]。
 
 Max Nicholson在[IGN](../Page/IGN.md "wikilink")上给这集评6/10分\[3\]。
 
@@ -37,9 +33,7 @@ TV Fanatic给这集4星的评分，满分5星\[4\]。
   -
 [Category:2012年電視劇集](https://zh.wikipedia.org/wiki/Category:2012年電視劇集 "wikilink")
 
-1.  [BARNEY'S BLOG: PHONE SEX
-    MAD-LIBS](http://www.cbs.com/shows/how_i_met_your_mother/barneys_blog/1000004/)
+1.  [BARNEY'S BLOG: PHONE SEX MAD-LIBS](http://www.cbs.com/shows/how_i_met_your_mother/barneys_blog/1000004/)
 2.
 3.
-4.  [How I Met Your Mother Season 8 Episode 1 - TV
-    Fanatic](http://www.tvfanatic.com/shows/how-i-met-your-mother/episodes/season-8/farhampton/)
+4.  [How I Met Your Mother Season 8 Episode 1 - TV Fanatic](http://www.tvfanatic.com/shows/how-i-met-your-mother/episodes/season-8/farhampton/)

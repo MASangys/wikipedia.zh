@@ -13,10 +13,8 @@
 
 ## 歷史
 
-  - 1982年3月30日 -
-    [山陽自動車道](../Page/山陽自動車道.md "wikilink")龍野西IC至[備前IC之間開通](https://zh.wikipedia.org/wiki/備前IC_\(山陽自動車道\) "wikilink")，此交流道也同時啟用。
-  - 1990年7月31日 -
-    山陽自動車道[山陽姬路西IC](../Page/山陽姬路西IC.md "wikilink")至龍野西IC之間開通。
+  - 1982年3月30日 - [山陽自動車道](../Page/山陽自動車道.md "wikilink")龍野西IC至[備前IC之間開通](https://zh.wikipedia.org/wiki/備前IC_\(山陽自動車道\) "wikilink")，此交流道也同時啟用。
+  - 1990年7月31日 - 山陽自動車道[山陽姬路西IC](../Page/山陽姬路西IC.md "wikilink")至龍野西IC之間開通。
   - 2003年3月29日 - 交流道名稱由龍野西（竜野西）改變為龍野西（龍野西）。
 
 ## 收費站設施
@@ -34,10 +32,7 @@
 ## 鄰近設施
 
   - [山陽自動車道](../Page/山陽自動車道.md "wikilink")
-    (8)[龍野IC](../Page/龍野IC.md "wikilink") -
-    (9)**龍野西IC/[SA](https://zh.wikipedia.org/wiki/龍野西SA "wikilink")**
-    - (9-1)[播磨JCT](https://zh.wikipedia.org/wiki/播磨JCT "wikilink") -
-    (10)[赤穗IC](https://zh.wikipedia.org/wiki/赤穗IC "wikilink")
+    (8)[龍野IC](../Page/龍野IC.md "wikilink") - (9)**龍野西IC/[SA](https://zh.wikipedia.org/wiki/龍野西SA "wikilink")** - (9-1)[播磨JCT](https://zh.wikipedia.org/wiki/播磨JCT "wikilink") - (10)[赤穗IC](https://zh.wikipedia.org/wiki/赤穗IC "wikilink")
 
 ## 相關項目
 
@@ -47,5 +42,4 @@
 
   - [西日本高速道路株式會社](http://www.w-nexco.co.jp/)
 
-[Category:日本交流道_Ta](https://zh.wikipedia.org/wiki/Category:日本交流道_Ta "wikilink")
-[Category:兵庫縣交流道](https://zh.wikipedia.org/wiki/Category:兵庫縣交流道 "wikilink")
+[Category:日本交流道_Ta](https://zh.wikipedia.org/wiki/Category:日本交流道_Ta "wikilink") [Category:兵庫縣交流道](https://zh.wikipedia.org/wiki/Category:兵庫縣交流道 "wikilink")

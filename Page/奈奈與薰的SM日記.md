@@ -1,5 +1,4 @@
-《**奈奈與薰的SM日記**》（）是日本漫畫家的青年漫畫作品，簡稱「」。（白泉社）2008年No.2開始連載。之後移籍至同出版社的[ヤングアニマル](https://zh.wikipedia.org/wiki/ヤングアニマル "wikilink")，2011年時改編為真人電影。描寫奈奈與薰的高中3年級的暑假「奈奈與薰的SM日記
-夏日篇（Black Label）」於2010年No.8開始連載。
+《**奈奈與薰的SM日記**》（）是日本漫畫家的青年漫畫作品，簡稱「」。（白泉社）2008年No.2開始連載。之後移籍至同出版社的[ヤングアニマル](https://zh.wikipedia.org/wiki/ヤングアニマル "wikilink")，2011年時改編為真人電影。描寫奈奈與薰的高中3年級的暑假「奈奈與薰的SM日記 夏日篇（Black Label）」於2010年No.8開始連載。
 
 ## 故事
 
@@ -11,8 +10,7 @@
 
 ### 主角
 
-  - 千草 奈奈（()
-    簡稱「奈奈」，[聲優](../Page/聲優.md "wikilink")：[水原薫](https://zh.wikipedia.org/wiki/水原薫 "wikilink")）
+  - 千草 奈奈（() 簡稱「奈奈」，[聲優](../Page/聲優.md "wikilink")：[水原薫](https://zh.wikipedia.org/wiki/水原薫 "wikilink")）
     17歲，櫻溝高中二年級學生。本作的女主角。
     班級為成績優異的A班，是一位美少女，學生會的副會長並為田徑部的王牌，目標是考上[東京大學並成為律師](https://zh.wikipedia.org/wiki/東京大學 "wikilink")。受到同學及後輩的景仰，有著強烈的正義感，缺點是不懂得拒絕別人的要求，並無形中累積壓力。
     名字的來源是\[2\]。
@@ -36,8 +34,7 @@
   - 睦月 由香里 （(），聲優：[赤崎千夏](../Page/赤崎千夏.md "wikilink")）
     櫻溝高中2年生。學生會的會計。是奈奈的好友並同屬於A班。喜歡矢神浩史，稱男主角「噁心村」並完全看不起他。
     名字的來源是\[5\]。
-  - 矢神 浩史 (（），聲優： （OAD版） / [前野智昭](../Page/前野智昭.md "wikilink")（Drama
-    CD版）
+  - 矢神 浩史 (（），聲優： （OAD版） / [前野智昭](../Page/前野智昭.md "wikilink")（Drama CD版）
     櫻溝高中2年生。學生會的會長。喜歡著女主角奈奈，有一個姊姊。
     對於奈奈與薰的青梅竹馬關係表示厭惡，同時輕視著薰。
     名字的來源是[矢神朧](https://zh.wikipedia.org/wiki/矢神朧 "wikilink")\[6\]。
@@ -60,8 +57,7 @@
   - 千草 忍(（），聲優： )
     奈奈的媽媽。[キャリア組的警察](https://zh.wikipedia.org/wiki/キャリア組 "wikilink")、警備部長。已離婚、一個人養育奈奈，因為工作繁忙而常常不在家。不擅長料理。
   - 橘 満子(（），聲優：[原田瞳](../Page/原田瞳.md "wikilink")）
-    薰常去的性玩具商店「Fun Love」的店長。年齡約30歲。是一位美人、對於SM Play十分熟悉。
-    東京大學文學部畢業、並専攻日本史（專門於明治以後的文化風俗）。實際上是更科的SM夥伴，穿有乳環。
+    薰常去的性玩具商店「Fun Love」的店長。年齡約30歲。是一位美人、對於SM Play十分熟悉。 東京大學文學部畢業、並専攻日本史（專門於明治以後的文化風俗）。實際上是更科的SM夥伴，穿有乳環。
     名字的來源是\[9\]。
   - 更科 修太郎(（）
     SM小說作家，同時也是薰所尊敬的作家，他的著作也是薰對「放鬆」的參考。實際上是橘的的SM夥伴，年齡約50歲。
@@ -97,8 +93,7 @@
 <!-- end list -->
 
   -
-    作詞 -  / 作曲・編曲 - 南利一 / 歌 -
-    [榊原ゆい](https://zh.wikipedia.org/wiki/榊原ゆい "wikilink")
+    作詞 -  / 作曲・編曲 - 南利一 / 歌 - [榊原ゆい](https://zh.wikipedia.org/wiki/榊原ゆい "wikilink")
 
 ## 真人电影
 
@@ -194,11 +189,7 @@
 
   - [东京思春期-「奈奈与薫的SM日记」第二部真人电影确定制作](http://www.hexieshe.com/637328/)
 
-[Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:BDSM題材作品](https://zh.wikipedia.org/wiki/Category:BDSM題材作品 "wikilink")
-[Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink")
-[Category:2011年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2011年日本OVA動畫 "wikilink")
+[Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:BDSM題材作品](https://zh.wikipedia.org/wiki/Category:BDSM題材作品 "wikilink") [Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink") [Category:2011年日本OVA動畫](https://zh.wikipedia.org/wiki/Category:2011年日本OVA動畫 "wikilink")
 
 1.  『』（『』2010年No.24、P358）。
 

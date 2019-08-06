@@ -1,5 +1,4 @@
-**HOOKSOFT**是[日本](../Page/日本.md "wikilink")ロボプランニング公司的遊戲品牌，主要發售[戀愛冒險類型的](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。最早原名為**HOOK**，於2000年4月成立，並在2008年12月2日重整後改為現名\[1\]\[2\]\[3\]。**SMEE**、**ASa
-Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パートナーブランド）的加盟品牌之一。\[4\]
+**HOOKSOFT**是[日本](../Page/日本.md "wikilink")ロボプランニング公司的遊戲品牌，主要發售[戀愛冒險類型的](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。最早原名為**HOOK**，於2000年4月成立，並在2008年12月2日重整後改為現名\[1\]\[2\]\[3\]。**SMEE**、**ASa Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パートナーブランド）的加盟品牌之一。\[4\]
 
 ## 作風
 
@@ -511,10 +510,7 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
       - 桜はんぺん - 外包。《さくらビットマップ》以後的所有HOOKSOFT作品。
       - ひなたもも - 外包。《晴れハレはーれむ》和《ラブラブル》以後的所有SMEE作品。
       - あめとゆき - 外包。《ラブラブル》以後的所有SMEE作品。
-      - らっこ\[17\] - 負責《LikeLife》，「FILM-SOFTWARE」工作
-        ，2010年離職後仍擔任HOOKSOFT的原畫（《Sugirly
-        Wish》、《LOVELY
-        QUEST》）。然而在2013年7月，以「14thProject」的《MeltyMoment》決定和已參與10年的HOOK製作工作中引退。\[18\]\[19\]（這次引退被作為特別企畫並加入到《MeltyMoment》中\[20\]）。雖然從製作工作中引退，但並沒有離開公司。
+      - らっこ\[17\] - 負責《LikeLife》，「FILM-SOFTWARE」工作 ，2010年離職後仍擔任HOOKSOFT的原畫（《Sugirly Wish》、《LOVELY QUEST》）。然而在2013年7月，以「14thProject」的《MeltyMoment》決定和已參與10年的HOOK製作工作中引退。\[18\]\[19\]（這次引退被作為特別企畫並加入到《MeltyMoment》中\[20\]）。雖然從製作工作中引退，但並沒有離開公司。
       - 羽鳥ぴよこ - 外包。《Strawberry Nauts》以後的所有HOOKSOFT作品。
       - 鈴平ひろ - 外包。負責《さくらビットマップ》。
 
@@ -558,10 +554,8 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <!-- end list -->
 
   - 原畫
-      - [武田弘光](../Page/武田弘光.md "wikilink") -
-        創立成員之一。製作《OrangePocket》後離職、外包。
-      - もとみやみつき - 負責《Strawberry
-        Nauts》，與「みつき」是同一人物，並以此名義作畫。於2013年10月下旬離職。
+      - [武田弘光](../Page/武田弘光.md "wikilink") - 創立成員之一。製作《OrangePocket》後離職、外包。
+      - もとみやみつき - 負責《Strawberry Nauts》，與「みつき」是同一人物，並以此名義作畫。於2013年10月下旬離職。
 
 <!-- end list -->
 
@@ -584,8 +578,7 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
   -
   - [TJR](http://www.hook-net.jp/tjr/index.htm)
 
-[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")
-[Category:2000年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2000年開業電子遊戲公司 "wikilink")
+[Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink") [Category:2000年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2000年開業電子遊戲公司 "wikilink")
 
 1.  [2008年12月2日「重要なお知らせ」](http://www.hook-net.jp/htm/news/inews_01.htm)
 
@@ -593,16 +586,13 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 
 3.  [美少女遊戲製作品牌「HOOK」STAFF集體退社創立新品牌「HOOKSOFT」](http://news.aniarc.com/news/778/%E7%BE%8E%E5%B0%91%E5%A5%B3%E9%81%8A%E6%88%B2%E8%A3%BD%E4%BD%9C%E5%93%81%E7%89%8C%E3%80%8Chook%E3%80%8Dstaff%E9%9B%86%E9%AB%94%E9%80%80%E7%A4%BE%E5%89%B5%E7%AB%8B%E6%96%B0%E5%93%81%E7%89%8C%E3%80%8Cho)
 
-
-4.  [パートナーブランド
-    一覧](http://dqpb4416.hotcom-web.com/main/link/link2.html)とーししま総合　'１２
+4.  [パートナーブランド 一覧](http://dqpb4416.hotcom-web.com/main/link/link2.html)とーししま総合　'１２
 
 5.  [TECH GIAN](../Page/TECH_GIAN.md "wikilink")（2008年5月号） pp.146-147.
 
 6.  同人展（[Comic Market](../Page/Comic_Market.md "wikilink")）・廠商限定商品。
 
-7.  [『_summer
-    Life』は、「_summer」、「LikeLife」の合同お返しディスクです。](http://www.hook-net.jp/_summer/od_info.htm)HOOKSOFT
+7.  [『_summer Life』は、「_summer」、「LikeLife」の合同お返しディスクです。](http://www.hook-net.jp/_summer/od_info.htm)HOOKSOFT
 
 8.  『HoneyComing』劇本全部重新描寫，事件CG全部重新描繪且新增大量追加要素
 

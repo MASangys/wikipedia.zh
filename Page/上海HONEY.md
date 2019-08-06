@@ -8,8 +8,6 @@
 
 ## 参考文献
 
-[Category:橘子新樂園歌曲](https://zh.wikipedia.org/wiki/Category:橘子新樂園歌曲 "wikilink")
-[Category:2003年單曲](https://zh.wikipedia.org/wiki/Category:2003年單曲 "wikilink")
-[Category:上海市題材作品](https://zh.wikipedia.org/wiki/Category:上海市題材作品 "wikilink")
+[Category:橘子新樂園歌曲](https://zh.wikipedia.org/wiki/Category:橘子新樂園歌曲 "wikilink") [Category:2003年單曲](https://zh.wikipedia.org/wiki/Category:2003年單曲 "wikilink") [Category:上海市題材作品](https://zh.wikipedia.org/wiki/Category:上海市題材作品 "wikilink")
 
 1.

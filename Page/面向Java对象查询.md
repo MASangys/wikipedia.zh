@@ -1,20 +1,8 @@
-{{ Infobox Software | name = jOOQ | logo = | screenshot = | caption = |
-developer = Data Geekery GmbH | status = Active | latest release version
-= 3.3.0 | latest release date =  | latest preview version = | latest
-preview date = | operating system =
-[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | platform =
-[Java](https://zh.wikipedia.org/wiki/Java平台 "wikilink") | programming
-language = [Java](../Page/Java.md "wikilink") | genre =
-[对象关系映射](../Page/对象关系映射.md "wikilink") | license =
-Dual-licensed: [ASL 2.0](../Page/Apache许可证.md "wikilink") and commercial
-| website = <http://www.jooq.org> }}
-**面向Java对象查询**（，[縮寫](../Page/縮寫.md "wikilink")：**JOOQ**），是一个轻量级的JAVA数据库映射类库。它实现了[Active
-Record](../Page/Active_Record.md "wikilink")，同时面向“关系”和“对象”提供[领域特定语言以构造查询语句](https://zh.wikipedia.org/wiki/领域特定语言 "wikilink")。
+{{ Infobox Software | name = jOOQ | logo = | screenshot = | caption = | developer = Data Geekery GmbH | status = Active | latest release version = 3.3.0 | latest release date =  | latest preview version = | latest preview date = | operating system = [跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink") | platform = [Java](https://zh.wikipedia.org/wiki/Java平台 "wikilink") | programming language = [Java](../Page/Java.md "wikilink") | genre = [对象关系映射](../Page/对象关系映射.md "wikilink") | license = Dual-licensed: [ASL 2.0](../Page/Apache许可证.md "wikilink") and commercial | website = <http://www.jooq.org> }} **面向Java对象查询**（，[縮寫](../Page/縮寫.md "wikilink")：**JOOQ**），是一个轻量级的JAVA数据库映射类库。它实现了[Active Record](../Page/Active_Record.md "wikilink")，同时面向“关系”和“对象”提供[领域特定语言以构造查询语句](https://zh.wikipedia.org/wiki/领域特定语言 "wikilink")。
 
 ## 编程范式
 
-jOOQ主张，在任何数据库集成中，都应首先考虑发挥[SQL](../Page/SQL.md "wikilink")的作用。这样一来，就不必再引入新的查询语言，而只是通过jOOQ对象以及依照数据库架构自动生成的代码来创建普通的SQL。jOOQ通过[JDBC来完成底层的SQL查询](https://zh.wikipedia.org/wiki/JDBC "wikilink")。
-与诸如[Hibernate](../Page/Hibernate.md "wikilink")等通常[ORM类库不同的是](https://zh.wikipedia.org/wiki/ORM "wikilink")，jOOQ并不提供过多的功能，复杂性也不高，它只是提供了JDBC之上更便捷的抽象层封装而已。
+jOOQ主张，在任何数据库集成中，都应首先考虑发挥[SQL](../Page/SQL.md "wikilink")的作用。这样一来，就不必再引入新的查询语言，而只是通过jOOQ对象以及依照数据库架构自动生成的代码来创建普通的SQL。jOOQ通过[JDBC来完成底层的SQL查询](https://zh.wikipedia.org/wiki/JDBC "wikilink")。 与诸如[Hibernate](../Page/Hibernate.md "wikilink")等通常[ORM类库不同的是](https://zh.wikipedia.org/wiki/ORM "wikilink")，jOOQ并不提供过多的功能，复杂性也不高，它只是提供了JDBC之上更便捷的抽象层封装而已。
 
 ## 代码范例
 
@@ -57,5 +45,4 @@ jOOQ主张，在任何数据库集成中，都应首先考虑发挥[SQL](../Page
   - [Quaere](https://web.archive.org/web/20140131202006/http://quaere.codehaus.org/)
   - [QueryDSL](http://www.querydsl.com)
 
-[Category:Java平台](https://zh.wikipedia.org/wiki/Category:Java平台 "wikilink")
-[Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink")
+[Category:Java平台](https://zh.wikipedia.org/wiki/Category:Java平台 "wikilink") [Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink")

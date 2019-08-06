@@ -84,8 +84,7 @@ function z.reasons( frame )
 
 <td title="' .. extractShortDesc( item ) .. '">
 
-' .. item\[3\]:gsub( '%\!%(.-%)%\!', function( m ) return m:sub( 3, -3 )
-end ) .. '
+' .. item\[3\]:gsub( '%\!%(.-%)%\!', function( m ) return m:sub( 3, -3 ) end ) .. '
 
 </td>
 
@@ -152,9 +151,7 @@ function z.input( frame )
 `                   imgtitle = nil`
 `               end`
 `               if imgtitle then`
-`                   deletesuffix = '：`[`:File:'``   ``..``
- ``imgtitle.text``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/:File:'_.._imgtitle.text_.._' "wikilink")`'`
+`                   deletesuffix = '：`[`:File:'``   ``..``   ``imgtitle.text``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:File:'_.._imgtitle.text_.._' "wikilink")`'`
 `               else`
 `                   if check then`
 `                       rowsuffix2 = '`
@@ -189,13 +186,9 @@ function z.input( frame )
 `           cat = args.cat or args.cate or args.category or ''`
 `           if title and title.exists then`
 `               if frame.args.deletelink then`
-`                   table.insert( deletelinks, '`[`CSD`](https://zh.wikipedia.org/wiki/WP:CSD "wikilink")`: `[`:'``
- ``..``   ``arg``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/:'_.._arg_.._' "wikilink")`' )`
+`                   table.insert( deletelinks, '`[`CSD`](https://zh.wikipedia.org/wiki/WP:CSD "wikilink")`: `[`:'``   ``..``   ``arg``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:'_.._arg_.._' "wikilink")`' )`
 `               end`
-`               table.insert( rows, '*`<strong>`' .. cat .. '`[`:'``
- ``..``   ``arg``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/:'_.._arg_.._' "wikilink")</strong>`' )`
+`               table.insert( rows, '*`<strong>`' .. cat .. '`[`:'``   ``..``   ``arg``   ``..``   ``'`](https://zh.wikipedia.org/wiki/:'_.._arg_.._' "wikilink")</strong>`' )`
 `           else`
 `               if frame.args.deletelink then`
 `                   table.insert( deletelinks, arg )`
@@ -226,6 +219,4 @@ end
 
 return z
 
-[Category:快速删除候选](https://zh.wikipedia.org/wiki/Category:快速删除候选 "wikilink")
-[Category:快速删除候选](https://zh.wikipedia.org/wiki/Category:快速删除候选 "wikilink")
-[Category:快速删除候选](https://zh.wikipedia.org/wiki/Category:快速删除候选 "wikilink")
+[Category:快速删除候选](https://zh.wikipedia.org/wiki/Category:快速删除候选 "wikilink") [Category:快速删除候选](https://zh.wikipedia.org/wiki/Category:快速删除候选 "wikilink") [Category:快速删除候选](https://zh.wikipedia.org/wiki/Category:快速删除候选 "wikilink")

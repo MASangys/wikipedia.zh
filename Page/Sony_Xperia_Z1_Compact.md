@@ -1,5 +1,4 @@
-**Sony Xperia Z1
-Compact**是一款由[索尼移动通信](../Page/索尼移动通信.md "wikilink")研制并发售的[Android](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")，是[Z1的迷你版](../Page/Sony_Xperia_Z1.md "wikilink")，也可以稱輕旗艦
+**Sony Xperia Z1 Compact**是一款由[索尼移动通信](../Page/索尼移动通信.md "wikilink")研制并发售的[Android](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")，是[Z1的迷你版](../Page/Sony_Xperia_Z1.md "wikilink")，也可以稱輕旗艦
 
 ## 規格
 
@@ -7,10 +6,8 @@ Compact**是一款由[索尼移动通信](../Page/索尼移动通信.md "wikilin
   - 螢幕規格：4.3 吋 TRILUMINOS TFT 螢幕
   - 作業系統：Android 4.4 KitKat
   - 電池容量：2,300mAh 不可拆換電池
-  - 相機：2070萬畫素主相機 with
-    G镜头（支援[1080p](../Page/1080p.md "wikilink")錄影）、前置鏡頭220萬畫素
-  - 記憶體：內建2GB RAM，16GB
-    ROM，支援外接[microSD至](https://zh.wikipedia.org/wiki/microSD "wikilink")64GB
+  - 相機：2070萬畫素主相機 with G镜头（支援[1080p](../Page/1080p.md "wikilink")錄影）、前置鏡頭220萬畫素
+  - 記憶體：內建2GB RAM，16GB ROM，支援外接[microSD至](https://zh.wikipedia.org/wiki/microSD "wikilink")64GB
   - 特殊功能：降噪、[NFC](https://zh.wikipedia.org/wiki/NFC "wikilink")、IP55/IP58防塵防水認證
   - 尺寸：127mm x 64.9mm x 9.5mm、137公克
   - 2G Network GSM 850 / 900 / 1800 / 1900
@@ -29,7 +26,4 @@ Compact**是一款由[索尼移动通信](../Page/索尼移动通信.md "wikilin
 
 ## 裝置資訊
 
-[Category:2014年面世的手機](https://zh.wikipedia.org/wiki/Category:2014年面世的手機 "wikilink")
-[Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink")
-[Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
-[Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")
+[Category:2014年面世的手機](https://zh.wikipedia.org/wiki/Category:2014年面世的手機 "wikilink") [Category:Android設備](https://zh.wikipedia.org/wiki/Category:Android設備 "wikilink") [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink") [Category:索尼手機](https://zh.wikipedia.org/wiki/Category:索尼手機 "wikilink")

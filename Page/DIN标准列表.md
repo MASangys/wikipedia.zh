@@ -1,8 +1,7 @@
 以下为[德国标准](../Page/德国标准化学会.md "wikilink")（DIN）列表。
 
   - 以下“状态”列表明了该标准最新的已知状态。
-  - **DIN标准**是（[德国标准化学会](../Page/德国标准化学会.md "wikilink")）的缩写，以“DIN
-    V”（**，意为“预发行”）开头的DIN标准，是已经完成标准化工作，但由于内容特定的保留或标准发布过程存在分歧，而没有公开发布的标准。
+  - **DIN标准**是（[德国标准化学会](../Page/德国标准化学会.md "wikilink")）的缩写，以“DIN V”（**，意为“预发行”）开头的DIN标准，是已经完成标准化工作，但由于内容特定的保留或标准发布过程存在分歧，而没有公开发布的标准。
 
 ## DIN 1 至 DIN 999
 
@@ -2707,10 +2706,7 @@ DIN ISO 53438
 
 ## 外部链接
 
-  - [DIN Website, in
-    English](https://web.archive.org/web/20110111174038/http://www.din.de/cmd?level=tpl-home&languageid=en)
-  - [DIN Fasteners in
-    Details](http://www.deepri.com/din_specifications/index.html)
+  - [DIN Website, in English](https://web.archive.org/web/20110111174038/http://www.din.de/cmd?level=tpl-home&languageid=en)
+  - [DIN Fasteners in Details](http://www.deepri.com/din_specifications/index.html)
 
-[Category:DIN_standards](https://zh.wikipedia.org/wiki/Category:DIN_standards "wikilink")
-[Category:DIN](https://zh.wikipedia.org/wiki/Category:DIN "wikilink")
+[Category:DIN_standards](https://zh.wikipedia.org/wiki/Category:DIN_standards "wikilink") [Category:DIN](https://zh.wikipedia.org/wiki/Category:DIN "wikilink")

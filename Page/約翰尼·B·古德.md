@@ -35,12 +35,7 @@
 ## 外部链接
 
   -
-[Category:1958年歌曲](https://zh.wikipedia.org/wiki/Category:1958年歌曲 "wikilink")
-[Category:1969年單曲](https://zh.wikipedia.org/wiki/Category:1969年單曲 "wikilink")
-[Category:1972年單曲](https://zh.wikipedia.org/wiki/Category:1972年單曲 "wikilink")
-[Category:1979年单曲](https://zh.wikipedia.org/wiki/Category:1979年单曲 "wikilink")
-[Category:1988年單曲](https://zh.wikipedia.org/wiki/Category:1988年單曲 "wikilink")
-[Category:埃爾維斯·皮禮士利歌曲](https://zh.wikipedia.org/wiki/Category:埃爾維斯·皮禮士利歌曲 "wikilink")
+[Category:1958年歌曲](https://zh.wikipedia.org/wiki/Category:1958年歌曲 "wikilink") [Category:1969年單曲](https://zh.wikipedia.org/wiki/Category:1969年單曲 "wikilink") [Category:1972年單曲](https://zh.wikipedia.org/wiki/Category:1972年單曲 "wikilink") [Category:1979年单曲](https://zh.wikipedia.org/wiki/Category:1979年单曲 "wikilink") [Category:1988年單曲](https://zh.wikipedia.org/wiki/Category:1988年單曲 "wikilink") [Category:埃爾維斯·皮禮士利歌曲](https://zh.wikipedia.org/wiki/Category:埃爾維斯·皮禮士利歌曲 "wikilink")
 
 1.
 
@@ -54,13 +49,11 @@
 6.
 
 7.
-8.  Miller, James (1999). *Flowers in the Dustbin: The Rise of Rock and
-    Roll, 1947-1977*. Simon & Schuster, 104. ISBN 0-684-80873-0.
+8.  Miller, James (1999). *Flowers in the Dustbin: The Rise of Rock and Roll, 1947-1977*. Simon & Schuster, 104. ISBN 0-684-80873-0.
 
 9.
 
-10. Barker, Derek (2009). Liner notes to *Bruce Springsteen's Jukebox:
-    The Songs that Inspired the Man* \[CD\]. Chrome Dreams.
+10. Barker, Derek (2009). Liner notes to *Bruce Springsteen's Jukebox: The Songs that Inspired the Man* \[CD\]. Chrome Dreams.
 
 11.
 

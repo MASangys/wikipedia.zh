@@ -1,23 +1,14 @@
-《**假面騎士×假面騎士 Wizard & Fourze
-MOVIE大戰Ultimatum**》（），是日本特攝節目《**[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")**》和《**[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")**》聯動劇場版，「MOVIE大戰系列」第4部作品。日本地區於2012年12月8日上映。
+《**假面騎士×假面騎士 Wizard & Fourze MOVIE大戰Ultimatum**》（），是日本特攝節目《**[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")**》和《**[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")**》聯動劇場版，「MOVIE大戰系列」第4部作品。日本地區於2012年12月8日上映。
 
-本作劇場版的口號為「究極的Show
-Time、開幕！」、「Wizard、向未來的約定。Fourze、5年前的約定。為完成那個「約定」、投入決戰之地。」
+本作劇場版的口號為「究極的Show Time、開幕！」、「Wizard、向未來的約定。Fourze、5年前的約定。為完成那個「約定」、投入決戰之地。」
 
 ## 本作特色
 
-繼前作《[假面騎士Fourze THE MOVIE
-大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》加入東映系列的其他特攝作品，假面騎士以外的英雄共同演出後，本作同樣加入了《[閃電人](../Page/闪电人.md "wikilink")》(日原文《イナズマン》)
-、《伏魔三劍俠》(日原文《[アクマイザー3](../Page/伏魔三剑侠.md "wikilink")》)
-和《美少女假面Poitrine》(日原文《[美少女仮面ポワトリン](https://zh.wikipedia.org/wiki/美少女假面 "wikilink")》)三大特攝作品的主角演出。
+繼前作《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》加入東映系列的其他特攝作品，假面騎士以外的英雄共同演出後，本作同樣加入了《[閃電人](../Page/闪电人.md "wikilink")》(日原文《イナズマン》) 、《伏魔三劍俠》(日原文《[アクマイザー3](../Page/伏魔三剑侠.md "wikilink")》) 和《美少女假面Poitrine》(日原文《[美少女仮面ポワトリン](https://zh.wikipedia.org/wiki/美少女假面 "wikilink")》)三大特攝作品的主角演出。
 
-本作把《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》、《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》、《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》中的主角和二號騎士及怪人實行大集結，同時前作《[假面騎士×假面騎士
-Fourze & OOO Movie大戰 Mega
-Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》中登場的假面騎士Nadeshiko亦會回歸。
+本作把《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》、《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》、《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》中的主角和二號騎士及怪人實行大集結，同時前作《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》中登場的假面騎士Nadeshiko亦會回歸。
 
-根据本作Fourze篇结尾与后续剧场版剧情，可以猜测Fourze篇实际发生在《[假面騎士平成Generations FINAL Build &
-EX-AID with
-傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》之后。
+根据本作Fourze篇结尾与后续剧场版剧情，可以猜测Fourze篇实际发生在《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》之后。
 
 ## 故事概要
 
@@ -114,17 +105,14 @@ EX-AID with
 
   -
     **假面騎士Nadeshiko** 的變身者，宇宙生命體SOLU。
-    在劇場版《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega
-    Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》結局中回歸宇宙。
-    在宇宙間遇見前作劇場版《[假面騎士Fourze THE MOVIE
-    大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》登場的人造衞星兵器「XVII」，從其聽說有關如月弦太朗的事情。
+    在劇場版《[假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")》結局中回歸宇宙。
+    在宇宙間遇見前作劇場版《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》登場的人造衞星兵器「XVII」，從其聽說有關如月弦太朗的事情。
     途中因營救遇險中的城島悠木而再次降臨地球，以能量體構築成人類形態，穿上和以前一樣的昴星高中制服出現弦太朗面前。
 
 **Inga‧Blink（）**（[原幹惠](../Page/原幹惠.md "wikilink") 飾）
 
   -
-    劇場版《[假面騎士Fourze The Movie
-    大家的宇宙來了！](../Page/假面騎士Fourze_THE_MOVIE_大家的宇宙來了！.md "wikilink")》中與假面騎士部對峙，直至化敵為友共同作戰。
+    劇場版《[假面騎士Fourze The Movie 大家的宇宙來了！](../Page/假面騎士Fourze_THE_MOVIE_大家的宇宙來了！.md "wikilink")》中與假面騎士部對峙，直至化敵為友共同作戰。
     五年後與朔田流星成為工作伙伴，調查有關超能力士兵的國際犯罪組織。
 
 **大木美代子（）**\[2\]（[足立梨花](../Page/足立梨花.md "wikilink")飾）
@@ -135,8 +123,7 @@ EX-AID with
     對弦太朗亦不忌諱地稱作「小弦」。
     此角色源自《閃電人》漫畫版中的**美代（）**及特攝版的**大木里子（）**。
 
-**風田三郎（）**（[須賀健太](../Page/須賀健太.md "wikilink") /
-[涉谷樹生](https://zh.wikipedia.org/wiki/涉谷樹生 "wikilink")（童年期）飾）
+**風田三郎（）**（[須賀健太](../Page/須賀健太.md "wikilink") / [涉谷樹生](https://zh.wikipedia.org/wiki/涉谷樹生 "wikilink")（童年期）飾）
 
   -
     就讀天之川學園高中，如月弦太朗負責班別 － 1年A班的學生。擁有超能力的青少年。
@@ -153,8 +140,7 @@ EX-AID with
     五年前（《**假面騎士Wizard**篇》）的事件中被綁架的「Gate」之一。
     此角色源自《閃電人》漫畫版中的**盧比（）**。
 
-**近藤大太（）**（[中澤兼利](https://zh.wikipedia.org/wiki/中澤兼利 "wikilink") /
-坂本大河（童年期）飾）
+**近藤大太（）**（[中澤兼利](https://zh.wikipedia.org/wiki/中澤兼利 "wikilink") / 坂本大河（童年期）飾）
 
   -
     就讀天之川學園高中。
@@ -162,8 +148,7 @@ EX-AID with
     五年前（《**假面騎士Wizard**篇》）的事件中被綁架的「Gate」之一。
     此角色源自《閃電人》漫畫版中的**Kong大王（）**。
 
-**根津誓夫（）**（[原勇彌](https://zh.wikipedia.org/wiki/原勇彌 "wikilink") /
-阿久津秀壽（童年期）飾）
+**根津誓夫（）**（[原勇彌](https://zh.wikipedia.org/wiki/原勇彌 "wikilink") / 阿久津秀壽（童年期）飾）
 
   -
     就讀天之川學園高中。
@@ -288,15 +273,9 @@ EX-AID with
   -
 
       -
-        由No.EX Fusion Switch、Meteor Switch及No.N Nadeshiko
-        Switch集合使用後變身而成，綜合戰鬥力達到極致的境界。
-        外觀與前作《[假面騎士Fourze THE MOVIE
-        大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》登場的Meteor
-        Fusion
-        States相似，全身以紫色為主。眼睛為水藍色。雙手添加銀色的強化火箭推進器以及雙腳裝上滑板，使其俱備空中飛行及地上滑行兩者的變幻自在能力。
-        必殺技為發射出雙手的火箭推進器進行遠程一擊的**「Rider (Double) Rocket
-        Missile」（）**及與Rocket States使出的**「Rider Spin
-        Crusher」（）**相似的**「Rider Ultimate Crusher」（）**。
+        由No.EX Fusion Switch、Meteor Switch及No.N Nadeshiko Switch集合使用後變身而成，綜合戰鬥力達到極致的境界。
+        外觀與前作《[假面騎士Fourze THE MOVIE 大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》登場的Meteor Fusion States相似，全身以紫色為主。眼睛為水藍色。雙手添加銀色的強化火箭推進器以及雙腳裝上滑板，使其俱備空中飛行及地上滑行兩者的變幻自在能力。
+        必殺技為發射出雙手的火箭推進器進行遠程一擊的**「Rider (Double) Rocket Missile」（）**及與Rocket States使出的**「Rider Spin Crusher」（）**相似的**「Rider Ultimate Crusher」（）**。
 
 <!-- end list -->
 
@@ -384,8 +363,7 @@ EX-AID with
 
   -
     由上村優在「Underworld」以心目中理想的姿態變身而成。
-    戰鬥技巧如[韻律體操般的優美](https://zh.wikipedia.org/wiki/韻律體操 "wikilink")。以短劍狀武器**「Bell
-    saber」**使出魔法，末端可釋放絲帶。
+    戰鬥技巧如[韻律體操般的優美](https://zh.wikipedia.org/wiki/韻律體操 "wikilink")。以短劍狀武器**「Bell saber」**使出魔法，末端可釋放絲帶。
     台詞為**「只要有愛，就作戰吧。生命、燃燒盡了！」（）**或**「縱然○○允許〜也不能允許\!」（）**
     源自另一特攝作品《[美少女假面Poitrine](https://zh.wikipedia.org/wiki/美少女假面 "wikilink")》中的同名角色。
 
@@ -471,15 +449,13 @@ EX-AID with
         雜兵級多班特。
 
   - \* **[Magma](../Page/岩漿.md "wikilink")‧Dopant（）**
-    \*
-    **[Money](https://zh.wikipedia.org/wiki/金錢 "wikilink")‧Dopant（）**
+    \* **[Money](https://zh.wikipedia.org/wiki/金錢 "wikilink")‧Dopant（）**
     \* **[Anomalocaris](../Page/奇蝦.md "wikilink")‧Dopant（）**
     \* **[Cockroach](../Page/蟑螂.md "wikilink")‧Dopant（）**
     \* **[Virus](../Page/病毒.md "wikilink")‧Dopant（）**
     \* **[Arms](../Page/武器.md "wikilink")‧Dopant（）**
     \* **Bird‧Dopant（）**
-    \*
-    **[Triceratops](https://zh.wikipedia.org/wiki/三角龍 "wikilink")‧Dopant（）**
+    \* **[Triceratops](https://zh.wikipedia.org/wiki/三角龍 "wikilink")‧Dopant（）**
     \* **Liar‧Dopant（）**
     \***Nightmare‧Dopant（）**
     \* **Beast‧Dopant（）**
@@ -508,17 +484,14 @@ EX-AID with
     \* **[鯊魚Yummy](https://zh.wikipedia.org/wiki/鯊魚 "wikilink")（）**
     \* **[暹羅貓Yummy](https://zh.wikipedia.org/wiki/暹羅貓 "wikilink")（）**
     \* **[鍬形蟲](../Page/鍬形蟲.md "wikilink")Yummy（）**
-    \*
-    **[獅子](https://zh.wikipedia.org/wiki/獅子 "wikilink")[水母](../Page/水母.md "wikilink")Yummy（）**
-    \*
-    **[魟魚](https://zh.wikipedia.org/wiki/魟魚 "wikilink")[犀牛](../Page/犀牛.md "wikilink")Yummy（）**
+    \* **[獅子](https://zh.wikipedia.org/wiki/獅子 "wikilink")[水母](../Page/水母.md "wikilink")Yummy（）**
+    \* **[魟魚](https://zh.wikipedia.org/wiki/魟魚 "wikilink")[犀牛](../Page/犀牛.md "wikilink")Yummy（）**
     \* **[鸚鵡Yummy](https://zh.wikipedia.org/wiki/鸚鵡 "wikilink")（）**
     \* **[黑鳳蝶Yummy](https://zh.wikipedia.org/wiki/鳳蝶科 "wikilink")（）**
     \* **[貓頭鷹](../Page/貓頭鷹.md "wikilink")Yummy（）**
     \* **軍雞Yummy（）**
     \* **[獨角獸Yummy](https://zh.wikipedia.org/wiki/獨角獸 "wikilink")（）**
-    \*
-    **[穿山甲](../Page/穿山甲.md "wikilink")[海膽](../Page/海膽.md "wikilink")Yummy（）**
+    \* **[穿山甲](../Page/穿山甲.md "wikilink")[海膽](../Page/海膽.md "wikilink")Yummy（）**
     \* **[甲龍Yummy](https://zh.wikipedia.org/wiki/甲龍 "wikilink")（）**
     \* **[禿鷲](../Page/禿鷲.md "wikilink")Yummy（）**
 
@@ -542,24 +515,16 @@ EX-AID with
         手持重型鐵捧「Tyrant」作武器，叩向地面則可引發衝擊波。
         及能夠召喚星塵忍者作支援。
 
-  - \*
-    **[獵戶座Zodiarts](https://zh.wikipedia.org/wiki/獵戶座 "wikilink")（）**
+  - \* **[獵戶座Zodiarts](https://zh.wikipedia.org/wiki/獵戶座 "wikilink")（）**
     \* **[蝘蜓座](../Page/蝘蜓座.md "wikilink")Zodiarts（）**
-    \*
-    **[天壇座Zodiarts](https://zh.wikipedia.org/wiki/天壇座 "wikilink")（）**
-    \*
-    **[羅盤座Zodiarts](https://zh.wikipedia.org/wiki/羅盤座 "wikilink")（）**
+    \* **[天壇座Zodiarts](https://zh.wikipedia.org/wiki/天壇座 "wikilink")（）**
+    \* **[羅盤座Zodiarts](https://zh.wikipedia.org/wiki/羅盤座 "wikilink")（）**
     \* **[英仙座](../Page/英仙座.md "wikilink")Zodiarts（）**
-    \*
-    **[天貓座Zodiarts](https://zh.wikipedia.org/wiki/天貓座 "wikilink")（）**
-    \*
-    **[天龍座Zodiarts](https://zh.wikipedia.org/wiki/天龍座 "wikilink")（）**
-    \*
-    **[飛馬座Zodiarts](https://zh.wikipedia.org/wiki/飛馬座 "wikilink")（）**
-    \*
-    **[天鵝座Zodiarts](https://zh.wikipedia.org/wiki/天鵝座 "wikilink")（）**
-    \*
-    **[后髮座Zodiarts](https://zh.wikipedia.org/wiki/后髮座 "wikilink")（）**
+    \* **[天貓座Zodiarts](https://zh.wikipedia.org/wiki/天貓座 "wikilink")（）**
+    \* **[天龍座Zodiarts](https://zh.wikipedia.org/wiki/天龍座 "wikilink")（）**
+    \* **[飛馬座Zodiarts](https://zh.wikipedia.org/wiki/飛馬座 "wikilink")（）**
+    \* **[天鵝座Zodiarts](https://zh.wikipedia.org/wiki/天鵝座 "wikilink")（）**
+    \* **[后髮座Zodiarts](https://zh.wikipedia.org/wiki/后髮座 "wikilink")（）**
     \* **[蒼蠅座Zodiarts](https://zh.wikipedia.org/wiki/蒼蠅座 "wikilink")（）**
 
 <!-- end list -->
@@ -575,8 +540,7 @@ EX-AID with
         雜兵級魅影。
 
   - \* **[美杜莎](../Page/美杜莎.md "wikilink")（）**（替身演出：、CV：）
-    \*
-    **[-{菲尼克斯}-](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")（）**（替身演出：、CV：）
+    \* **[-{菲尼克斯}-](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")（）**（替身演出：、CV：）
 
 ## 裝備
 
@@ -741,10 +705,8 @@ EX-AID with
   - Eil - [關智一](../Page/關智一.md "wikilink")
   - Gara - [三ツ矢雄二](https://zh.wikipedia.org/wiki/三ツ矢雄二 "wikilink")
   - 賢者 - [古川登志夫](../Page/古川登志夫.md "wikilink")
-  - 其他假面騎士 -
-    [田丸篤志](../Page/田丸篤志.md "wikilink")、、[間島淳司](../Page/間島淳司.md "wikilink")
-  - 怪人 -
-    、、津留崎明廣、竹内裕美、[中澤匡智](../Page/中澤匡智.md "wikilink")、[山根剛](../Page/山根剛.md "wikilink")、木村大介、前川綾香
+  - 其他假面騎士 - [田丸篤志](../Page/田丸篤志.md "wikilink")、、[間島淳司](../Page/間島淳司.md "wikilink")
+  - 怪人 - 、、津留崎明廣、竹内裕美、[中澤匡智](../Page/中澤匡智.md "wikilink")、[山根剛](../Page/山根剛.md "wikilink")、木村大介、前川綾香
   - 蓋亞記憶體音聲 - [立木文彥](https://zh.wikipedia.org/wiki/立木文彥 "wikilink")
   - 假面騎士OOO聯組音聲 - [串田晃](../Page/串田晃.md "wikilink")
   - 假面騎士Beast（仁藤攻介） - [永瀨匡](../Page/永瀨匡.md "wikilink")\[6\]
@@ -769,23 +731,20 @@ EX-AID with
 
 「**Life is SHOW TIME**」
 
-  - 演唱：[鬼龍院翔](https://zh.wikipedia.org/wiki/鬼龍院翔 "wikilink")（[Golden
-    Bomber](../Page/Golden_Bomber.md "wikilink")）
+  - 演唱：[鬼龍院翔](https://zh.wikipedia.org/wiki/鬼龍院翔 "wikilink")（[Golden Bomber](../Page/Golden_Bomber.md "wikilink")）
   - 作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")
   - 作曲：
 
 ## 製作人員
 
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")
-  - 製片 -
-    ．．高橋一浩（[東映](../Page/東映.md "wikilink")）、（[朝日電視台](../Page/朝日電視台.md "wikilink")）
+  - 製片 - ．．高橋一浩（[東映](../Page/東映.md "wikilink")）、（[朝日電視台](../Page/朝日電視台.md "wikilink")）
   - 編劇 - （Wizard、MOVIE大戰Ultimatum）、（Fourze）
   - 導演/動作指導 - [坂本浩一](../Page/坂本浩一.md "wikilink")
   - 特攝導演 -
   - 配樂 - [中川幸太郎](../Page/中川幸太郎.md "wikilink")、
   - 發行 - [東映](../Page/東映.md "wikilink")
-  - 製作 -
-    劇場版「Wizard・Fourze」製作委員會（[東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、、[萬代](../Page/萬代.md "wikilink")）
+  - 製作 - 劇場版「Wizard・Fourze」製作委員會（[東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、、[萬代](../Page/萬代.md "wikilink")）
 
 ## 参考资料
 
@@ -793,13 +752,7 @@ EX-AID with
 
   - [官方網站](http://www.movie-taisen.com/)
 
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink")
-[Category:2012年日本電影](https://zh.wikipedia.org/wiki/Category:2012年日本電影 "wikilink")
-[Category:坂本浩一電影](https://zh.wikipedia.org/wiki/Category:坂本浩一電影 "wikilink")
-[Category:闪电人](https://zh.wikipedia.org/wiki/Category:闪电人 "wikilink")
-[Category:东映不可思议喜剧系列](https://zh.wikipedia.org/wiki/Category:东映不可思议喜剧系列 "wikilink")
-[Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
+[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:平成假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:平成假面騎士系列跨界作品 "wikilink") [Category:2012年日本電影](https://zh.wikipedia.org/wiki/Category:2012年日本電影 "wikilink") [Category:坂本浩一電影](https://zh.wikipedia.org/wiki/Category:坂本浩一電影 "wikilink") [Category:闪电人](https://zh.wikipedia.org/wiki/Category:闪电人 "wikilink") [Category:东映不可思议喜剧系列](https://zh.wikipedia.org/wiki/Category:东映不可思议喜剧系列 "wikilink") [Category:長條目名](https://zh.wikipedia.org/wiki/Category:長條目名 "wikilink")
 
 1.  本作中沒有明確地顯示二人是否戀愛或情侶關係。
 

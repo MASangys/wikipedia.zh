@@ -1,10 +1,8 @@
-**TÜV南德意志集團**（）是一個優質、安全和可持續發展的專業測試、檢驗、審核、驗證，培訓和知識服務解決方案獨立第三方驗證單位，總部在[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[慕尼黑](../Page/慕尼黑.md "wikilink")，是[TÜV組織](../Page/TÜV組織.md "wikilink")的成員之一。TÜV南德意志集團全球有超過850個據點，員工約24,000人，因此在歐洲、美洲、中東、亞洲和非洲備受盛譽。透過客觀公正的專業知識和寶貴的見解，為企業、消費者和環境增添顯著價值。TÜV
-SÜD旨在透過綜合完善的一站式服務，幫助全球客戶提高生產和營運效率、降低成本、控制風險。
+**TÜV南德意志集團**（）是一個優質、安全和可持續發展的專業測試、檢驗、審核、驗證，培訓和知識服務解決方案獨立第三方驗證單位，總部在[德國的](https://zh.wikipedia.org/wiki/德國 "wikilink")[慕尼黑](../Page/慕尼黑.md "wikilink")，是[TÜV組織](../Page/TÜV組織.md "wikilink")的成員之一。TÜV南德意志集團全球有超過850個據點，員工約24,000人，因此在歐洲、美洲、中東、亞洲和非洲備受盛譽。透過客觀公正的專業知識和寶貴的見解，為企業、消費者和環境增添顯著價值。TÜV SÜD旨在透過綜合完善的一站式服務，幫助全球客戶提高生產和營運效率、降低成本、控制風險。
 
 ## 歷史沿革
 
-1866
-以曼海姆為基地建立的蒸汽鍋爐檢驗協會由21名蒸汽鍋爐操作員和蒸汽鍋爐所有者組成，旨在保護人員、環境和財產，應對由於新興、基本未知的技術形式產生的風險。
+1866 以曼海姆為基地建立的蒸汽鍋爐檢驗協會由21名蒸汽鍋爐操作員和蒸汽鍋爐所有者組成，旨在保護人員、環境和財產，應對由於新興、基本未知的技術形式產生的風險。
 
 1910 首例車輛定期技術檢驗 (PTI)
 
@@ -28,11 +26,9 @@ SÜD旨在透過綜合完善的一站式服務，幫助全球客戶提高生產�
 
 2009 由TÜV SÜD 和兩家土耳其合作夥伴成立的TÜVTURK，在土耳其進行車輛檢驗
 
-2010 收購美國 Global Risk Consultants Corporation (GRC)
-公司，是一家全球領先的風險管理和財產損失諮詢公司
+2010 收購美國 Global Risk Consultants Corporation (GRC) 公司，是一家全球領先的風險管理和財產損失諮詢公司
 
-2011 收購南非領先的服務機構，能源產業（Pro-Tec Boiler Inspection and NDT
-Services）無損材料測試和檢驗服務公司
+2011 收購南非領先的服務機構，能源產業（Pro-Tec Boiler Inspection and NDT Services）無損材料測試和檢驗服務公司
 
 ## 服務領域
 
@@ -45,17 +41,12 @@ Services）無損材料測試和檢驗服務公司
 
 <!-- end list -->
 
-  - 管理系統：品質管理系統（ISO 9001, IATF 16949, ISO 14001, OHSAS 18000, QC
-    080000...等）。
+  - 管理系統：品質管理系統（ISO 9001, IATF 16949, ISO 14001, OHSAS 18000, QC 080000...等）。
   - 其他測試驗證服務：生物相容性、藍光危害、投影機專用燈、EMC電磁相容性、ISO 26262功能安全...等。
 
 ## 驗證標誌
 
-<File:GS> Mark.jpg|thumb|德國GS認證 <File:ENEC>
-safety.jpg|thumb|ENEC歐洲標準電氣認證 <File:IEC> 61730 & IEC
-61215.jpg|thumb|太陽能系統認證
-[File:ISO13485.jpg|thumb|醫療器材ISO](File:ISO13485.jpg%7Cthumb%7C醫療器材ISO)
-13485
+<File:GS> Mark.jpg|thumb|德國GS認證 <File:ENEC> safety.jpg|thumb|ENEC歐洲標準電氣認證 <File:IEC> 61730 & IEC 61215.jpg|thumb|太陽能系統認證 [File:ISO13485.jpg|thumb|醫療器材ISO](File:ISO13485.jpg%7Cthumb%7C醫療器材ISO) 13485
 
 ## 其他連結
 
@@ -65,6 +56,4 @@ safety.jpg|thumb|ENEC歐洲標準電氣認證 <File:IEC> 61730 & IEC
 
 ## 參考
 
-[Category:慕尼黑公司](https://zh.wikipedia.org/wiki/Category:慕尼黑公司 "wikilink")
-[Category:德國公司](https://zh.wikipedia.org/wiki/Category:德國公司 "wikilink")
-[Category:德國品牌](https://zh.wikipedia.org/wiki/Category:德國品牌 "wikilink")
+[Category:慕尼黑公司](https://zh.wikipedia.org/wiki/Category:慕尼黑公司 "wikilink") [Category:德國公司](https://zh.wikipedia.org/wiki/Category:德國公司 "wikilink") [Category:德國品牌](https://zh.wikipedia.org/wiki/Category:德國品牌 "wikilink")

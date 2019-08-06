@@ -7,6 +7,4 @@
   - CD版
   - CD+VCD版
 
-[Category:陳曉東音樂專輯](https://zh.wikipedia.org/wiki/Category:陳曉東音樂專輯 "wikilink")
-[Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:陳曉東音樂專輯](https://zh.wikipedia.org/wiki/Category:陳曉東音樂專輯 "wikilink") [Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

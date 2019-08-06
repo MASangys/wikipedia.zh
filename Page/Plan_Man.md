@@ -1,5 +1,4 @@
-《**Plan
-Man**》（）是一部2014年上映的[韓國電影](../Page/韓國電影.md "wikilink")，由[成時翕執導](https://zh.wikipedia.org/wiki/成時翕 "wikilink")，[鄭在詠](../Page/鄭在詠.md "wikilink")、[韓志旼](../Page/韓志旼.md "wikilink")主演，描寫分秒按照計劃生活的男人遇上計劃以外的女人的故事。
+《**Plan Man**》（）是一部2014年上映的[韓國電影](../Page/韓國電影.md "wikilink")，由[成時翕執導](https://zh.wikipedia.org/wiki/成時翕 "wikilink")，[鄭在詠](../Page/鄭在詠.md "wikilink")、[韓志旼](../Page/韓志旼.md "wikilink")主演，描寫分秒按照計劃生活的男人遇上計劃以外的女人的故事。
 
 ## 劇情介紹
 
@@ -26,10 +25,6 @@ Man**》（）是一部2014年上映的[韓國電影](../Page/韓國電影.md "w
 ## 外部連結
 
   - [DAUM電影](http://movie.daum.net/moviedetail/moviedetailMain.do?movieId=78357&t__nil_upper_main=recentWorks)
-  - [Plan
-    Man韓國官方網站](https://web.archive.org/web/20140110085940/http://www.planman2014.co.kr/?&t__nil_upper_main=homepage)
+  - [Plan Man韓國官方網站](https://web.archive.org/web/20140110085940/http://www.planman2014.co.kr/?&t__nil_upper_main=homepage)
 
-[Category:2014年電影](https://zh.wikipedia.org/wiki/Category:2014年電影 "wikilink")
-[Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")
-[Category:韓國劇情片](https://zh.wikipedia.org/wiki/Category:韓國劇情片 "wikilink")
-[Category:韓國喜劇片](https://zh.wikipedia.org/wiki/Category:韓國喜劇片 "wikilink")
+[Category:2014年電影](https://zh.wikipedia.org/wiki/Category:2014年電影 "wikilink") [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink") [Category:韓國劇情片](https://zh.wikipedia.org/wiki/Category:韓國劇情片 "wikilink") [Category:韓國喜劇片](https://zh.wikipedia.org/wiki/Category:韓國喜劇片 "wikilink")

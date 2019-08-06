@@ -1,13 +1,8 @@
-**NXT
-Arrival**（風格化：）\[1\]，是由[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）的[網路服務](../Page/世界摔角娛樂網路服務.md "wikilink")（WWE
-Network）以網路直播進行的首次活動。
+**NXT Arrival**（風格化：）\[1\]，是由[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）的[網路服務](../Page/世界摔角娛樂網路服務.md "wikilink")（WWE Network）以網路直播進行的首次活動。
 
 ## 概述
 
-NXT Arrival將有的專業摔角比賽，會涉及從[WWE
-NXT存在的爭鬥](../Page/WWE_NXT.md "wikilink")、情節和故事情節，進而決定出場的摔角選手，而出場的摔角選手將會依循他們的一系列事件進行比賽甚至是冠軍頭銜爭奪，使NXT
-Arrival的比賽有著緊張情緒和高潮迭起。 而在活動開始前還有在WWE
-Network進行由[保羅·黑門](../Page/保羅·黑門.md "wikilink")、[布雷特·哈特](../Page/布雷特·哈特.md "wikilink")、和[凱文·奈許](../Page/凱文·奈許.md "wikilink")所組成一個全明星小組預展。
+NXT Arrival將有的專業摔角比賽，會涉及從[WWE NXT存在的爭鬥](../Page/WWE_NXT.md "wikilink")、情節和故事情節，進而決定出場的摔角選手，而出場的摔角選手將會依循他們的一系列事件進行比賽甚至是冠軍頭銜爭奪，使NXT Arrival的比賽有著緊張情緒和高潮迭起。 而在活動開始前還有在WWE Network進行由[保羅·黑門](../Page/保羅·黑門.md "wikilink")、[布雷特·哈特](../Page/布雷特·哈特.md "wikilink")、和[凱文·奈許](../Page/凱文·奈許.md "wikilink")所組成一個全明星小組預展。
 
 ## 列表
 
@@ -80,8 +75,7 @@ Network進行由[保羅·黑門](../Page/保羅·黑門.md "wikilink")、[布雷
 
 ## 參見
 
-  - [NXT
-    Wrestling](https://zh.wikipedia.org/wiki/NXT_Wrestling "wikilink")
+  - [NXT Wrestling](https://zh.wikipedia.org/wiki/NXT_Wrestling "wikilink")
   - [WWE NXT](../Page/WWE_NXT.md "wikilink")
 
 ## 參考資料
@@ -94,6 +88,4 @@ Network進行由[保羅·黑門](../Page/保羅·黑門.md "wikilink")、[布雷
 
 [Category:世界摔角娛樂](https://zh.wikipedia.org/wiki/Category:世界摔角娛樂 "wikilink")
 
-1.  ['Nxt Arrival' is WWE Network's first live event: John Cena and
-    Shawn Michaels scheduled to
-    appear](http://www.imdb.com/news/ni56819814/)
+1.  ['Nxt Arrival' is WWE Network's first live event: John Cena and Shawn Michaels scheduled to appear](http://www.imdb.com/news/ni56819814/)

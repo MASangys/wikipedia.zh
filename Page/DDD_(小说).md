@@ -2,11 +2,9 @@
 
 ## 概要
 
-[成人电子小说作品](https://zh.wikipedia.org/wiki/日本成人游戏 "wikilink")《[月姬](../Page/月姬.md "wikilink")》和《[Fate/stay
-night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》等作品的[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")的[剧本](../Page/剧本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[奈须蘑菇的](https://zh.wikipedia.org/wiki/奈须蘑菇 "wikilink")[传奇小说](https://zh.wikipedia.org/wiki/传奇小说 "wikilink")。[讲谈社](../Page/讲谈社.md "wikilink")出版。《[浮文誌](https://zh.wikipedia.org/wiki/浮文誌 "wikilink")》Vol.3（2004年7月发售）开始不定期连载。角色设计以及插画担当为同社的[小山广和](https://zh.wikipedia.org/wiki/小山广和 "wikilink")。本作是[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")第一次没有[武内崇](../Page/武内崇.md "wikilink")参与的商业作品。
+[成人电子小说作品](https://zh.wikipedia.org/wiki/日本成人游戏 "wikilink")《[月姬](../Page/月姬.md "wikilink")》和《[Fate/stay night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》等作品的[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")的[剧本](../Page/剧本.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")[奈须蘑菇的](https://zh.wikipedia.org/wiki/奈须蘑菇 "wikilink")[传奇小说](https://zh.wikipedia.org/wiki/传奇小说 "wikilink")。[讲谈社](../Page/讲谈社.md "wikilink")出版。《[浮文誌](https://zh.wikipedia.org/wiki/浮文誌 "wikilink")》Vol.3（2004年7月发售）开始不定期连载。角色设计以及插画担当为同社的[小山广和](https://zh.wikipedia.org/wiki/小山广和 "wikilink")。本作是[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")第一次没有[武内崇](../Page/武内崇.md "wikilink")参与的商业作品。
 
-本作品描绘的是“恶魔附身”的故事，尽管有恶魔登场，但是却没有奈须蘑菇作品中常见的[魔法](../Page/魔法.md "wikilink")的概念。因此，《DDD》是与《[月姬](../Page/月姬.md "wikilink")》和《[Fate/stay
-night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》世界观不同的一部作品\[1\]。另外，作品中的年号记法也是一大特征。
+本作品描绘的是“恶魔附身”的故事，尽管有恶魔登场，但是却没有奈须蘑菇作品中常见的[魔法](../Page/魔法.md "wikilink")的概念。因此，《DDD》是与《[月姬](../Page/月姬.md "wikilink")》和《[Fate/stay night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》世界观不同的一部作品\[1\]。另外，作品中的年号记法也是一大特征。
 
 单行本上确认的标题有“Malion in day dream”、“H-RED-B”、“S.Peeping Beauty”、“.D.D.D”。
 
@@ -49,9 +47,7 @@ night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》世界观不�
 ## 出版信息
 
   - DDD1 ISBN 978-4-06-283609-8
-    1.JtheE.（Junk the
-    Eater）（[浮文誌](https://zh.wikipedia.org/wiki/浮文誌 "wikilink")
-    Vol.3）
+    1.JtheE.（Junk the Eater）（[浮文誌](https://zh.wikipedia.org/wiki/浮文誌 "wikilink") Vol.3）
     2.HandS.（R）（hands）（浮文誌 Vol.6 SIDE-A）
     2.HandS.（L）（Hide and Self）（浮文誌 Vol.6 SIDE-B）
     3.formal hunt.（新作）
@@ -72,9 +68,6 @@ night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")》世界观不�
   - [浮文誌](https://web.archive.org/web/20070403052432/http://shop.kodansha.jp/bc/magazines/faust/index.html)（讲谈社BOOK俱乐部）
   - [こやまひろかずラフスケッチ・ギャラリー](https://web.archive.org/web/20070321100954/http://shop.kodansha.jp/bc/kodansha-box/gallery.html)（讲谈社BOOK俱乐部）
 
-[Category:日本轻小说](https://zh.wikipedia.org/wiki/Category:日本轻小说 "wikilink")
-[Category:讲谈社BOX](https://zh.wikipedia.org/wiki/Category:讲谈社BOX "wikilink")
-[Category:TYPE-MOON](https://zh.wikipedia.org/wiki/Category:TYPE-MOON "wikilink")
-[Category:连载中的作品](https://zh.wikipedia.org/wiki/Category:连载中的作品 "wikilink")
+[Category:日本轻小说](https://zh.wikipedia.org/wiki/Category:日本轻小说 "wikilink") [Category:讲谈社BOX](https://zh.wikipedia.org/wiki/Category:讲谈社BOX "wikilink") [Category:TYPE-MOON](https://zh.wikipedia.org/wiki/Category:TYPE-MOON "wikilink") [Category:连载中的作品](https://zh.wikipedia.org/wiki/Category:连载中的作品 "wikilink")
 
 1.  奈须蘑菇2008年9月15日在个人网页上的日记写到，《DDD》和《空之境界》的世界完全没有联系。

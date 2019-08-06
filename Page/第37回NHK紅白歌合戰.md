@@ -49,8 +49,7 @@
 | [石川小百合](../Page/石川小百合.md "wikilink")(9)                     | [越过天城](https://zh.wikipedia.org/wiki/越过天城 "wikilink")     |
 |                                                             |                                                           |
 
-<small>
-演唱歌手後面的(括號)即代表登上[紅白歌合戰的次數](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")。</small>
+<small> 演唱歌手後面的(括號)即代表登上[紅白歌合戰的次數](https://zh.wikipedia.org/wiki/紅白歌合戰 "wikilink")。</small>
 
 ## 其他參予者
 
@@ -58,16 +57,14 @@
 
   - [森光子](../Page/森光子.md "wikilink")（演員）
   - [清原和博](../Page/清原和博.md "wikilink")（[西武獅内野手](https://zh.wikipedia.org/wiki/西武獅 "wikilink")）
-  - [森下洋子](https://zh.wikipedia.org/wiki/森下洋子 "wikilink")
-    ([芭蕾舞蹈家](https://zh.wikipedia.org/wiki/芭蕾 "wikilink"))
+  - [森下洋子](https://zh.wikipedia.org/wiki/森下洋子 "wikilink") ([芭蕾舞蹈家](https://zh.wikipedia.org/wiki/芭蕾 "wikilink"))
   - [雁屋哲](https://zh.wikipedia.org/wiki/雁屋哲 "wikilink")（劇画作家）
   - [黒柳朝](https://zh.wikipedia.org/wiki/黒柳朝 "wikilink")（[散文](../Page/散文.md "wikilink")家)
   - [加藤芳郎](https://zh.wikipedia.org/wiki/加藤芳郎 "wikilink")（[漫畫家](https://zh.wikipedia.org/wiki/漫畫 "wikilink")）
   - [山崎洋子](../Page/山崎洋子.md "wikilink")（作家）
   - [渡邊謙](../Page/渡邊謙.md "wikilink")（演員）
   - 加納みゆき（演員）
-  - [千代之富士貢](../Page/千代之富士貢.md "wikilink")（本名:秋元貢，[相撲](../Page/相撲.md "wikilink")選手
-    - [横綱](https://zh.wikipedia.org/wiki/横綱 "wikilink")）
+  - [千代之富士貢](../Page/千代之富士貢.md "wikilink")（本名:秋元貢，[相撲](../Page/相撲.md "wikilink")選手 - [横綱](https://zh.wikipedia.org/wiki/横綱 "wikilink")）
   - [中野正之](https://zh.wikipedia.org/wiki/中野正之 "wikilink") (NHK番組制作局長)
 
 ## 收視率
@@ -87,9 +84,6 @@
 
   - [NHK紅白歌合戰](http://www.nhk.or.jp/kouhaku/)
 
-[Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink")
-[Category:1986年音樂](https://zh.wikipedia.org/wiki/Category:1986年音樂 "wikilink")
-[Category:1986年日本電視節目](https://zh.wikipedia.org/wiki/Category:1986年日本電視節目 "wikilink")
-[Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink")
+[Category:NHK紅白歌合戰](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰 "wikilink") [Category:1986年音樂](https://zh.wikipedia.org/wiki/Category:1986年音樂 "wikilink") [Category:1986年日本電視節目](https://zh.wikipedia.org/wiki/Category:1986年日本電視節目 "wikilink") [Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink")
 
 1.  《跳駒》與日本影視歌三棲演員——齊藤由貴 中外電視 1987年第06期

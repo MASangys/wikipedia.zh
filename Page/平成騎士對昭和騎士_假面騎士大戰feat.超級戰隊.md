@@ -1,38 +1,22 @@
-《**平成騎士對昭和騎士 假面騎士大戰
-feat.超級戰隊**》（），是日本國內2014年3月29日上映的[東映](../Page/東映.md "wikilink")特攝電影作品；香港地區則於2014年7月17日上映。
+《**平成騎士對昭和騎士 假面騎士大戰 feat.超級戰隊**》（），是日本國內2014年3月29日上映的[東映](../Page/東映.md "wikilink")特攝電影作品；香港地區則於2014年7月17日上映。
 
-本作劇場版的口號為「-{zh-hk:平成 VS 昭和。違反規則的超人對決、了斷！; zh-tw:平成 VS
-昭和。違反規律的騎士對決、了斷！;zh-cn:平成 VS
-昭和。违反规律的骑士对决、了断！;zh-sg:平成 VS
-昭和。违反规律的骑士对决、了断！;zh-hans:平成 VS
-昭和。违反规律的骑士对决、了断！;}-」、「-{zh-hk:幪面超人之道、在這裡終結！;
-zh-tw:騎士之道、即將在這裡作極限！;zh-cn:骑士之道、即将在这里作极限！;zh-sg:骑士之道、即将在这里作极限！;zh-hans:骑士之道、即将在这里作极限！;}-」。
+本作劇場版的口號為「-{zh-hk:平成 VS 昭和。違反規則的超人對決、了斷！; zh-tw:平成 VS 昭和。違反規律的騎士對決、了斷！;zh-cn:平成 VS 昭和。违反规律的骑士对决、了断！;zh-sg:平成 VS 昭和。违反规律的骑士对决、了断！;zh-hans:平成 VS 昭和。违反规律的骑士对决、了断！;}-」、「-{zh-hk:幪面超人之道、在這裡終結！; zh-tw:騎士之道、即將在這裡作極限！;zh-cn:骑士之道、即将在这里作极限！;zh-sg:骑士之道、即将在这里作极限！;zh-hans:骑士之道、即将在这里作极限！;}-」。
 
 ## 本作特色
 
 本作為平成幪面超人系列15部紀念作之一。主要著墨於昭和及平成兩方不同世代的假面騎士之間的爭鬥。
 
-昭和年代系列1971年的首作《[假面騎士](../Page/假面騎士.md "wikilink")》至1976年作品《》後經歷38年以來，飾演史上首位假面騎士變身者**本鄉-{猛}-
-/
-假面騎士一號**的演員再度以該角色的姿態演出。\[1\]\[2\]\[3\]，另外在《[假面騎士X](../Page/假面騎士X.md "wikilink")》飾演**神敬介
-/
-假面騎士X**的演員，及《[10號誕生！假面騎士全員集合！！](../Page/10號誕生！假面騎士全員集合！！.md "wikilink")》飾演**村雨良
-/ 假面騎士ZX**的演員亦會再度以該角色參與。
+昭和年代系列1971年的首作《[假面騎士](../Page/假面騎士.md "wikilink")》至1976年作品《》後經歷38年以來，飾演史上首位假面騎士變身者**本鄉-{猛}- / 假面騎士一號**的演員再度以該角色的姿態演出。\[1\]\[2\]\[3\]，另外在《[假面騎士X](../Page/假面騎士X.md "wikilink")》飾演**神敬介 / 假面騎士X**的演員，及《[10號誕生！假面騎士全員集合！！](../Page/10號誕生！假面騎士全員集合！！.md "wikilink")》飾演**村雨良 / 假面騎士ZX**的演員亦會再度以該角色參與。
 
-平成年代系列作品《[假面騎士555](../Page/假面騎士555.md "wikilink")》過後十年，飾演**乾巧 /
-假面騎士Faiz**的演員[半田健人](../Page/半田健人.md "wikilink")亦再度回歸參演該角色，另外前作《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》，《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》及《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》，分別飾演**門矢士
-/ 假面騎士Decade**，**左翔太郎 / 假面騎士W / 假面騎士Joker**及**操真晴人 /
-假面騎士Wizard**的演員，[井上正大](../Page/井上正大.md "wikilink")，[桐山漣](../Page/桐山漣.md "wikilink")及[白石隼也](../Page/白石隼也.md "wikilink")同樣再次參演。
+平成年代系列作品《[假面騎士555](../Page/假面騎士555.md "wikilink")》過後十年，飾演**乾巧 / 假面騎士Faiz**的演員[半田健人](../Page/半田健人.md "wikilink")亦再度回歸參演該角色，另外前作《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》，《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》及《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》，分別飾演**門矢士 / 假面騎士Decade**，**左翔太郎 / 假面騎士W / 假面騎士Joker**及**操真晴人 / 假面騎士Wizard**的演員，[井上正大](../Page/井上正大.md "wikilink")，[桐山漣](../Page/桐山漣.md "wikilink")及[白石隼也](../Page/白石隼也.md "wikilink")同樣再次參演。
 
 繼《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》後本作於上映前舉辦投票活動的方式，從而在上映日決定播放得票最多的故事結果（昭和系列或平成系列騎士的勝負），結果平成系列騎士最終以得票138萬7041票，以760票之差勝過昭和系列騎士得到的138萬6281票。
 
 ## 故事概要
 
   -
-    葛葉紘汰 / 假面騎士鎧武正在調查存在於地球內部的另一個世界途中，遇上名為柊的少年正被地下帝國巴丹的怪人襲擊，此時被譽為傳說的男人 －
-    本鄉-{猛}-出現並對紘汰作出「像你這樣的菜鳥，我是不會承認你是假面騎士！」的宣言後，變身成為假面騎士1號將怪人擊倒。
-    過後與同樣正要尋找地下帝國巴丹下落的門矢士 / 假面騎士Decade相遇，同時擁有歷代15名平成假面騎士力量的神秘戰士 －
-    假面騎士Fifteen，出現率領著地下帝國巴丹的怪人一眾大肆侵略，為了實行「MEGA・Reverse」的計劃更而擄走了柊。士及紘汰為阻止危機發生而結集歷代一共15名平成假面騎士，相反歷代15名昭和假面騎士卻不明目的出現面前敵對相向。超級戰隊一方的烈車戰隊特急者及獸電戰隊強龍者眼見事態嚴重而決定參戰。
+    葛葉紘汰 / 假面騎士鎧武正在調查存在於地球內部的另一個世界途中，遇上名為柊的少年正被地下帝國巴丹的怪人襲擊，此時被譽為傳說的男人 － 本鄉-{猛}-出現並對紘汰作出「像你這樣的菜鳥，我是不會承認你是假面騎士！」的宣言後，變身成為假面騎士1號將怪人擊倒。
+    過後與同樣正要尋找地下帝國巴丹下落的門矢士 / 假面騎士Decade相遇，同時擁有歷代15名平成假面騎士力量的神秘戰士 － 假面騎士Fifteen，出現率領著地下帝國巴丹的怪人一眾大肆侵略，為了實行「MEGA・Reverse」的計劃更而擄走了柊。士及紘汰為阻止危機發生而結集歷代一共15名平成假面騎士，相反歷代15名昭和假面騎士卻不明目的出現面前敵對相向。超級戰隊一方的烈車戰隊特急者及獸電戰隊強龍者眼見事態嚴重而決定參戰。
 
 ## 登場人物
 
@@ -402,8 +386,7 @@ zh-tw:騎士之道、即將在這裡作極限！;zh-cn:骑士之道、即将在�
 
   - 假面骑士真
 
-**《[假面骑士Black
-RX](https://zh.wikipedia.org/wiki/假面骑士Black_RX "wikilink")》**
+**《[假面骑士Black RX](https://zh.wikipedia.org/wiki/假面骑士Black_RX "wikilink")》**
 
   - 假面骑士Black RX
 
@@ -618,8 +601,7 @@ Wizard鎧甲</p></td>
 <!-- end list -->
 
   -
-    Fourze Arms形態推下戰極驅動器刀狀推桿裝置「Cutting Blade」二次後使出。原屬假面骑士Fourze Elek
-    States形態的必殺技。
+    Fourze Arms形態推下戰極驅動器刀狀推桿裝置「Cutting Blade」二次後使出。原屬假面骑士Fourze Elek States形態的必殺技。
 
 <!-- end list -->
 
@@ -628,8 +610,7 @@ Wizard鎧甲</p></td>
 <!-- end list -->
 
   -
-    Gaim Arms形態推下戰極驅動器刀狀推桿裝置「Cutting Blade」二次後使出。原屬假面骑士鎧武Orange
-    Arms形態的必殺技。
+    Gaim Arms形態推下戰極驅動器刀狀推桿裝置「Cutting Blade」二次後使出。原屬假面骑士鎧武Orange Arms形態的必殺技。
 
 ##### 非官方命名特殊技
 
@@ -652,9 +633,7 @@ Wizard鎧甲</p></td>
 <!-- end list -->
 
   -
-    Decade Arms形態推下戰極驅動器刀狀推桿裝置「Cutting
-    Blade」一次後使出。原屬假面骑士Decade騎士咭「Attack
-    Ride Illusion」的特殊技。
+    Decade Arms形態推下戰極驅動器刀狀推桿裝置「Cutting Blade」一次後使出。原屬假面骑士Decade騎士咭「Attack Ride Illusion」的特殊技。
 
 #### 怪人
 
@@ -832,8 +811,7 @@ Wizard鎧甲</p></td>
 
 「**Dragon・Road 2014**」
 
-  - 演唱：[串田晃](../Page/串田晃.md "wikilink")、[KAMEN RIDER
-    GIRLS](https://zh.wikipedia.org/wiki/KAMEN_RIDER_GIRLS "wikilink")
+  - 演唱：[串田晃](../Page/串田晃.md "wikilink")、[KAMEN RIDER GIRLS](https://zh.wikipedia.org/wiki/KAMEN_RIDER_GIRLS "wikilink")
   - 作詞：[石森章太郎](https://zh.wikipedia.org/wiki/石森章太郎 "wikilink")
   - 作曲：[菊池俊輔](../Page/菊池俊輔.md "wikilink")
   - 編曲：吉村浩二
@@ -842,8 +820,7 @@ Wizard鎧甲</p></td>
 
 ### 映像商品化
 
-  - **《[烈車戰隊特急者VS假面騎士鎧武
-    春假合體特別篇](https://zh.wikipedia.org/wiki/平成騎士對昭和騎士_假面騎士大戰feat.超級戰隊#電視特別篇 "wikilink")》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2014年8月8日發行）
+  - **《[烈車戰隊特急者VS假面騎士鎧武 春假合體特別篇](https://zh.wikipedia.org/wiki/平成騎士對昭和騎士_假面騎士大戰feat.超級戰隊#電視特別篇 "wikilink")》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2014年8月8日發行）
       - 本編
       - 映像特典
           - 合體特別篇座談會
@@ -855,18 +832,14 @@ Wizard鎧甲</p></td>
 
 <!-- end list -->
 
-  - **《-{zh-hk:平成對昭和 幪面超人大戰feat.超級戰隊;zh-tw:平成騎士對昭和騎士
-    假面騎士大戰feat.超級戰隊;zh-hans:平成骑士对昭和骑士
-    假面骑士大战feat.超级战队;}-》**通常版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2014年8月8日發行）
+  - **《-{zh-hk:平成對昭和 幪面超人大戰feat.超級戰隊;zh-tw:平成騎士對昭和騎士 假面騎士大戰feat.超級戰隊;zh-hans:平成骑士对昭和骑士 假面骑士大战feat.超级战队;}-》**通常版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2014年8月8日發行）
       - 電影本編（包含平成或昭和勝利ver.）
       - 映像特典
           - 特報・電影預告編
 
 <!-- end list -->
 
-  - **《-{zh-hk:平成對昭和 幪面超人大戰feat.超級戰隊;zh-tw:平成騎士對昭和騎士
-    假面騎士大戰feat.超級戰隊;zh-hans:平成骑士对昭和骑士
-    假面骑士大战feat.超级战队;}-》**珍藏版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2014年8月8日發行）
+  - **《-{zh-hk:平成對昭和 幪面超人大戰feat.超級戰隊;zh-tw:平成騎士對昭和騎士 假面騎士大戰feat.超級戰隊;zh-hans:平成骑士对昭和骑士 假面骑士大战feat.超级战队;}-》**珍藏版[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2014年8月8日發行）
       - 電影本編（包含平成或昭和勝利ver.）
       - 映像特典
           - 完成披露試映舞台見面會
@@ -881,18 +854,12 @@ Wizard鎧甲</p></td>
 
 ### 映像商品化（日本海外）
 
-  - **《-{zh-hk:平成對昭和 幪面超人大戰feat.超級戰隊;zh-tw:平成對昭和
-    幪面超人大戰feat.超級戰隊;zh-hans:平成对昭和
-    幪面超人大战feat.超级战队;}-》**[VCD](../Page/VCD.md "wikilink")（2014年10月10日香港發行、Neofilms
-    新映影片代理）
+  - **《-{zh-hk:平成對昭和 幪面超人大戰feat.超級戰隊;zh-tw:平成對昭和 幪面超人大戰feat.超級戰隊;zh-hans:平成对昭和 幪面超人大战feat.超级战队;}-》**[VCD](../Page/VCD.md "wikilink")（2014年10月10日香港發行、Neofilms 新映影片代理）
       - 電影本編（粵語、平成勝利ver.）
 
 <!-- end list -->
 
-  - **《-{zh-hk:平成對昭和 幪面超人大戰feat.超級戰隊;zh-tw:平成對昭和
-    幪面超人大戰feat.超級戰隊;zh-hans:平成对昭和
-    幪面超人大战feat.超级战队;}-》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2014年10月10日香港發行、Neofilms
-    新映影片代理）
+  - **《-{zh-hk:平成對昭和 幪面超人大戰feat.超級戰隊;zh-tw:平成對昭和 幪面超人大戰feat.超級戰隊;zh-hans:平成对昭和 幪面超人大战feat.超级战队;}-》**[Blu-ray及](https://zh.wikipedia.org/wiki/Blu-ray "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（2014年10月10日香港發行、Neofilms 新映影片代理）
       - 電影本編（日、粵雙語及中文字幕、包含平成或昭和勝利ver.）
 
 ## 演員
@@ -900,9 +867,7 @@ Wizard鎧甲</p></td>
   - 葛葉紘汰 / 假面騎士鎧武 - [佐野岳](../Page/佐野岳.md "wikilink") 飾/聲
   - 驅紋戒斗 / 假面騎士巴隆 - [小林豐](../Page/小林豐.md "wikilink") 飾/聲
   - 吳島光實 / 假面騎士龍玄 - [高杉真宙](../Page/高杉真宙.md "wikilink") 飾/聲
-  - 吳島貴虎 / 假面騎士斬月．真 -
-    [久保田悠來](https://zh.wikipedia.org/wiki/久保田悠來 "wikilink")
-    飾/聲
+  - 吳島貴虎 / 假面騎士斬月．真 - [久保田悠來](https://zh.wikipedia.org/wiki/久保田悠來 "wikilink") 飾/聲
   - 葵蓮 / 幪面超人Fifteen -  飾/聲
   - 操真晴人 / 假面騎士Wizard - [白石隼也](../Page/白石隼也.md "wikilink") 飾/聲
   - 左翔太郎 / 假面騎士W / 幪面超人Joker - [桐山漣](../Page/桐山漣.md "wikilink") 飾
@@ -930,12 +895,9 @@ Wizard鎧甲</p></td>
 
 ## 聲音演出
 
-  - 假面騎士Fourze、假面騎士BLACK RX、豪豬改造人、其他 -
-    [鈴村健一](../Page/鈴村健一.md "wikilink")
-  - 假面騎士2號、假面騎士Super 1、假面騎士BLACK、假面騎士Kabuto、其他 -
-    [神谷浩史](../Page/神谷浩史.md "wikilink")
-  - 假面騎士V3、假面騎士AMAZON、假面騎士Stronger、機械大元帥、巴丹總統 -
-    [關智一](../Page/關智一.md "wikilink")
+  - 假面騎士Fourze、假面騎士BLACK RX、豪豬改造人、其他 - [鈴村健一](../Page/鈴村健一.md "wikilink")
+  - 假面騎士2號、假面騎士Super 1、假面騎士BLACK、假面騎士Kabuto、其他 - [神谷浩史](../Page/神谷浩史.md "wikilink")
+  - 假面騎士V3、假面騎士AMAZON、假面騎士Stronger、機械大元帥、巴丹總統 - [關智一](../Page/關智一.md "wikilink")
   - 假面騎士J、老虎改造人、操冥使徒 - [稻田徹](../Page/稻田徹.md "wikilink")
   - Sky Rider、影子將軍、傑克將軍、十面鬼 - [石川英郎](../Page/石川英郎.md "wikilink")
   - 假面騎士電王 - [關俊彦](https://zh.wikipedia.org/wiki/關俊彦 "wikilink")
@@ -1225,15 +1187,11 @@ Wizard鎧甲</p></td>
   -
 ## 製作人員
 
-  - 原作 -
-    [石之森章太郎](../Page/石之森章太郎.md "wikilink")、[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")
+  - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")、[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")
   - 劇本 - [米村正二](https://zh.wikipedia.org/wiki/米村正二 "wikilink")
-  - 配樂 -
-    [山下康介](../Page/山下康介.md "wikilink")、[中川幸太郎](../Page/中川幸太郎.md "wikilink")
-  - 製作 -
-    （[東映](../Page/東映.md "wikilink")）、（[朝日電視台](../Page/朝日電視台.md "wikilink")）、日達長夫（）、和田修治（[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")）、松田英史（）、古澤圭亮（[萬代](../Page/萬代.md "wikilink")）、（）
-  - 企劃 - 有川俊（東映）、林雄一郎（朝日電視台）、加藤和夫（TOEI VIDEO）、波多野淳一（旭通廣告）、小川政則（TOEI
-    ADVERTISING,LTD.）、飯塚航也（萬代）、嘉手苅理沙（木下組）
+  - 配樂 - [山下康介](../Page/山下康介.md "wikilink")、[中川幸太郎](../Page/中川幸太郎.md "wikilink")
+  - 製作 - （[東映](../Page/東映.md "wikilink")）、（[朝日電視台](../Page/朝日電視台.md "wikilink")）、日達長夫（）、和田修治（[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")）、松田英史（）、古澤圭亮（[萬代](../Page/萬代.md "wikilink")）、（）
+  - 企劃 - 有川俊（東映）、林雄一郎（朝日電視台）、加藤和夫（TOEI VIDEO）、波多野淳一（旭通廣告）、小川政則（TOEI ADVERTISING,LTD.）、飯塚航也（萬代）、嘉手苅理沙（木下組）
   - 攝影 -
   - 照明 - 斗澤秀
   - 美術 -
@@ -1252,15 +1210,13 @@ Wizard鎧甲</p></td>
   - 協力製作人 - （東映）
   - 監製 - 小野寺章（石森プロ）
   - 執行製作人 - （朝日電視台）、疋田和樹（TOEI ADVERTISING,LTD.）
-  - 製作人 - 、-{zh-hk:;zh-tw:;zh-hans:;}-、（東映）、佐藤現（TOEI
-    VIDEO）、矢田晃一、深田明宏（TOEI ADVERTISING,LTD.）
+  - 製作人 - 、-{zh-hk:;zh-tw:;zh-hans:;}-、（東映）、佐藤現（TOEI VIDEO）、矢田晃一、深田明宏（TOEI ADVERTISING,LTD.）
   - 動作指導 - （[JAE](https://zh.wikipedia.org/wiki/JAE "wikilink")）
   - 動作指導輔佐 - （JAE）、（）
   - 特攝導演 -
   - 製作生產 - TOEI TV Production
   - 發行 - [東映](../Page/東映.md "wikilink")
-  - 製作單位 -
-    「假面騎士大戰」製作委員會（[東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、、[萬代](../Page/萬代.md "wikilink")、）
+  - 製作單位 - 「假面騎士大戰」製作委員會（[東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、、[萬代](../Page/萬代.md "wikilink")、）
   - 導演 -
 
 ## 電視特別篇
@@ -1340,8 +1296,7 @@ Wizard鎧甲</p></td>
 
 ### 特別篇製作人員
 
-  - 原作 -
-    [石之森章太郎](../Page/石之森章太郎.md "wikilink")、[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")
+  - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")、[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")
 
   - 劇本 - [毛利亘宏](../Page/毛利亘宏.md "wikilink")
 
@@ -1365,8 +1320,7 @@ Wizard鎧甲</p></td>
 
   - 音響效果 - 大野義彦、小川廣美
 
-  - 選曲 - 金成謙二（Don
-    Company）、[宮葉勝行](https://zh.wikipedia.org/wiki/Project.R#作詞家／作曲家 "wikilink")
+  - 選曲 - 金成謙二（Don Company）、[宮葉勝行](https://zh.wikipedia.org/wiki/Project.R#作詞家／作曲家 "wikilink")
 
   - 編劇 - 涉谷康子
 
@@ -1400,13 +1354,11 @@ Wizard鎧甲</p></td>
 
   - 監製 - 小野寺章（石森プロ）
 
-  - 製作人 -
-    （[朝日電視台](../Page/朝日電視台.md "wikilink")）、-{zh-hk:;zh-tw:;zh-hans:;}-、、石川啓（[東映](../Page/東映.md "wikilink")）、矢田晃一、深田明宏（）
+  - 製作人 - （[朝日電視台](../Page/朝日電視台.md "wikilink")）、-{zh-hk:;zh-tw:;zh-hans:;}-、、石川啓（[東映](../Page/東映.md "wikilink")）、矢田晃一、深田明宏（）
 
   - 導演 -
 
-  - 製作單位 -
-    [東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")
+  - 製作單位 - [東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")
 
 ### 特別篇樂曲
 
@@ -1428,20 +1380,9 @@ Wizard鎧甲</p></td>
 
 ## 外部連結
 
-  - [平成ライダーVS昭和ライダー
-    仮面ライダー大戦feat.スーパー戦隊](http://www.superhero-movie.com/)
-    朝日官方網站
+  - [平成ライダーVS昭和ライダー 仮面ライダー大戦feat.スーパー戦隊](http://www.superhero-movie.com/) 朝日官方網站
 
-[Category:2014年日本電影](https://zh.wikipedia.org/wiki/Category:2014年日本電影 "wikilink")
-[Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink")
-[Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink")
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink")
-[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
-[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink")
-[Category:柴崎貴行電影](https://zh.wikipedia.org/wiki/Category:柴崎貴行電影 "wikilink")
-[Category:外星生命電影](https://zh.wikipedia.org/wiki/Category:外星生命電影 "wikilink")
-[Category:中國大陸禁片](https://zh.wikipedia.org/wiki/Category:中國大陸禁片 "wikilink")
+[Category:2014年日本電影](https://zh.wikipedia.org/wiki/Category:2014年日本電影 "wikilink") [Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink") [Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink") [Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink") [Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink") [Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink") [Category:柴崎貴行電影](https://zh.wikipedia.org/wiki/Category:柴崎貴行電影 "wikilink") [Category:外星生命電影](https://zh.wikipedia.org/wiki/Category:外星生命電影 "wikilink") [Category:中國大陸禁片](https://zh.wikipedia.org/wiki/Category:中國大陸禁片 "wikilink")
 
 1.
 2.

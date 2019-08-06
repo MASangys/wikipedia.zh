@@ -1,5 +1,4 @@
-《**Produced by Masaharu Fukuyama
-「Galileo<sup>+</sup>」**》為[福山雅治](../Page/福山雅治.md "wikilink")監製的專輯，衍生自其主演的[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《[神探伽利略](../Page/神探伽利略.md "wikilink")》，收錄該劇的片頭曲與主題曲以及由福山親自挑選的各國歌手演繹的各版本主題曲\[1\]\[2\]。
+《**Produced by Masaharu Fukuyama 「Galileo<sup>+</sup>」**》為[福山雅治](../Page/福山雅治.md "wikilink")監製的專輯，衍生自其主演的[日本電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《[神探伽利略](../Page/神探伽利略.md "wikilink")》，收錄該劇的片頭曲與主題曲以及由福山親自挑選的各國歌手演繹的各版本主題曲\[1\]\[2\]。
 
 ## 解說
 
@@ -60,11 +59,9 @@
 
 <references/>
 
-[分類:2013年音樂專輯](https://zh.wikipedia.org/wiki/分類:2013年音樂專輯 "wikilink")
-[分類:福山雅治音樂專輯](https://zh.wikipedia.org/wiki/分類:福山雅治音樂專輯 "wikilink")
+[分類:2013年音樂專輯](https://zh.wikipedia.org/wiki/分類:2013年音樂專輯 "wikilink") [分類:福山雅治音樂專輯](https://zh.wikipedia.org/wiki/分類:福山雅治音樂專輯 "wikilink")
 
-[Category:KOH+](https://zh.wikipedia.org/wiki/Category:KOH+ "wikilink")
-[Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
+[Category:KOH+](https://zh.wikipedia.org/wiki/Category:KOH+ "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
 
 1.  [Galileo<sup>+</sup>福山雅治製作之伽利略特輯CD+DVD](http://www.umusic.com.tw/album.php?id=4848)
 2.

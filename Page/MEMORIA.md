@@ -1,5 +1,4 @@
-**MEMORIA**是[藍井艾露](../Page/藍井艾露.md "wikilink")的出道單曲。2011年10月19日由[SME
-Records發行](../Page/SME_Records.md "wikilink")。
+**MEMORIA**是[藍井艾露](../Page/藍井艾露.md "wikilink")的出道單曲。2011年10月19日由[SME Records發行](../Page/SME_Records.md "wikilink")。
 
 ## 概要
 
@@ -15,8 +14,7 @@ Records發行](../Page/SME_Records.md "wikilink")。
         電視動畫『Fate/Zero』的片尾曲之一
 2.  **Back To Zero**
       -
-        作詞：Eir、[飯濱壯士](https://zh.wikipedia.org/wiki/飯濱壯士 "wikilink"),
-        作曲：安田史生, 編曲：飯濱壯士
+        作詞：Eir、[飯濱壯士](https://zh.wikipedia.org/wiki/飯濱壯士 "wikilink"), 作曲：安田史生, 編曲：飯濱壯士
 3.  **white world**
       -
         作詞、作曲：Eir, 編曲：飯濱壯士
@@ -24,8 +22,7 @@ Records發行](../Page/SME_Records.md "wikilink")。
 
 ### 初回生産限定盤 DVD
 
-1.  **MEMORIA ([Music
-    Video](https://zh.wikipedia.org/wiki/音樂影片 "wikilink"))**
+1.  **MEMORIA ([Music Video](https://zh.wikipedia.org/wiki/音樂影片 "wikilink"))**
 2.  **MEMORIA (TV-CM)**
 
 ### 期間生產限定盤(動畫盤)
@@ -56,8 +53,4 @@ Records發行](../Page/SME_Records.md "wikilink")。
       - [通常盤](https://web.archive.org/web/20130621164859/http://www.sonymusic.co.jp/Music/Arch/SMER/aoieir/SECL-1009/)
       - [期間生産限定盤](https://web.archive.org/web/20130621163135/http://www.sonymusic.co.jp/Music/Arch/SMER/aoieir/SECL-1010/)
 
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
-[Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink")
-[Category:Fate/stay_night](https://zh.wikipedia.org/wiki/Category:Fate/stay_night "wikilink")
-[Category:藍井艾露歌曲](https://zh.wikipedia.org/wiki/Category:藍井艾露歌曲 "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:UHF動畫主題曲](https://zh.wikipedia.org/wiki/Category:UHF動畫主題曲 "wikilink") [Category:Fate/stay_night](https://zh.wikipedia.org/wiki/Category:Fate/stay_night "wikilink") [Category:藍井艾露歌曲](https://zh.wikipedia.org/wiki/Category:藍井艾露歌曲 "wikilink")

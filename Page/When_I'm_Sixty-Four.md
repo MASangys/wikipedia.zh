@@ -1,5 +1,4 @@
-《**When I'm
-Sixty-Four**》是一首[英國樂隊](https://zh.wikipedia.org/wiki/英國 "wikilink")[披頭四的歌曲](https://zh.wikipedia.org/wiki/披頭四 "wikilink")，由[保羅·麥卡尼所寫](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink")，並在1967年收錄於《[佩珀中士的孤獨之心俱樂部樂團](https://zh.wikipedia.org/wiki/佩珀中士的孤獨之心俱樂部樂團 "wikilink")》專輯中。它亦出現於1968年電影《[黃色潛水艇](https://zh.wikipedia.org/wiki/黃色潛水艇_\(電影\) "wikilink")》中。
+《**When I'm Sixty-Four**》是一首[英國樂隊](https://zh.wikipedia.org/wiki/英國 "wikilink")[披頭四的歌曲](https://zh.wikipedia.org/wiki/披頭四 "wikilink")，由[保羅·麥卡尼所寫](https://zh.wikipedia.org/wiki/保羅·麥卡尼 "wikilink")，並在1967年收錄於《[佩珀中士的孤獨之心俱樂部樂團](https://zh.wikipedia.org/wiki/佩珀中士的孤獨之心俱樂部樂團 "wikilink")》專輯中。它亦出現於1968年電影《[黃色潛水艇](https://zh.wikipedia.org/wiki/黃色潛水艇_\(電影\) "wikilink")》中。
 
 ## 創作
 
@@ -44,7 +43,6 @@ Sixty-Four**》是一首[英國樂隊](https://zh.wikipedia.org/wiki/英國 "wik
   -
   -
   -
-[Category:1967年歌曲](https://zh.wikipedia.org/wiki/Category:1967年歌曲 "wikilink")
-[Category:披頭四歌曲](https://zh.wikipedia.org/wiki/Category:披頭四歌曲 "wikilink")
+[Category:1967年歌曲](https://zh.wikipedia.org/wiki/Category:1967年歌曲 "wikilink") [Category:披頭四歌曲](https://zh.wikipedia.org/wiki/Category:披頭四歌曲 "wikilink")
 
 1.

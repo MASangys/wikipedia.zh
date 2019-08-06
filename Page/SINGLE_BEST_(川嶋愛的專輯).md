@@ -1,10 +1,8 @@
-《**SINGLE
-BEST**》是[日本](../Page/日本.md "wikilink")的[創作歌手](../Page/創作歌手.md "wikilink")[川嶋愛](../Page/川嶋愛.md "wikilink")在2008年6月4日發售的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")\[1\]。
+《**SINGLE BEST**》是[日本](../Page/日本.md "wikilink")的[創作歌手](../Page/創作歌手.md "wikilink")[川嶋愛](../Page/川嶋愛.md "wikilink")在2008年6月4日發售的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")\[1\]。
 
 ## 解說
 
-本作為為了紀念出道五周年，和『[COUPLING
-BEST](../Page/COUPLING_BEST_\(川嶋愛的專輯\).md "wikilink")』一起推出的精選輯。
+本作為為了紀念出道五周年，和『[COUPLING BEST](../Page/COUPLING_BEST_\(川嶋愛的專輯\).md "wikilink")』一起推出的精選輯。
 
 收錄了到「[與你･････](../Page/與你......md "wikilink")」為止所有單曲的A面曲，包含了網路下載限定曲及新曲共收錄二十首曲目至兩張CD。初回限定盤附上了特典[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
@@ -32,16 +30,14 @@ BEST](../Page/COUPLING_BEST_\(川嶋愛的專輯\).md "wikilink")』一起推出
     編曲：小澤純
       -
         出自第13張單曲。
-4.  **[天使們的旋律](../Page/天使們的旋律／啟程的早晨.md "wikilink")（5th Anniversary
-    Ver.）**<small>（天使たちのメロディー（5th Anniversary Ver.））</small>
+4.  **[天使們的旋律](../Page/天使們的旋律／啟程的早晨.md "wikilink")（5th Anniversary Ver.）**<small>（天使たちのメロディー（5th Anniversary Ver.））</small>
     編曲：ieP
       -
         出自第1張單曲。重新錄音、編曲也比原曲更為樸素。
 5.  **一秒的光（Single Best Ver.）**<small>（一秒の光（Single Best Ver.））</small>
     編曲：渡邊和紀
       -
-        出自『[Piano
-        Songs～路上集2號～](../Page/Piano_Songs～路上集2號～.md "wikilink")』より。唯一一首從專輯收錄的歌曲。
+        出自『[Piano Songs～路上集2號～](../Page/Piano_Songs～路上集2號～.md "wikilink")』より。唯一一首從專輯收錄的歌曲。
         在本作收錄的為大幅重新編曲後的版本。
 6.  **X'mas快到了**<small>（もうすぐX'mas）</small>
     編曲：長澤孝志
@@ -59,8 +55,7 @@ BEST](../Page/COUPLING_BEST_\(川嶋愛的專輯\).md "wikilink")』一起推出
     編曲：長澤孝志
       -
         出自第10張單曲。
-10. **[12個的季節～第4個春天～](../Page/12個的季節～第4個春天～.md "wikilink")**<small>（12個の季節〜4度目の春〜（New
-    Vocal Ver.））</small>
+10. **[12個的季節～第4個春天～](../Page/12個的季節～第4個春天～.md "wikilink")**<small>（12個の季節〜4度目の春〜（New Vocal Ver.））</small>
     編曲：ieP
       -
         出自第2張單曲。歌聲部分為新錄音的版本。
@@ -80,8 +75,7 @@ BEST](../Page/COUPLING_BEST_\(川嶋愛的專輯\).md "wikilink")』一起推出
       -
         網路付費下載限定曲。從2007年11月28日開始開放下載。
         原為提供給[Mitsuki的歌曲](../Page/高畑充希.md "wikilink")。此為自唱的版本。
-3.  **[絕望和希望](../Page/絕望和希望.md "wikilink")（Single Best
-    Ver.）**<small>（絶望と希望）</small>
+3.  **[絕望和希望](../Page/絕望和希望.md "wikilink")（Single Best Ver.）**<small>（絶望と希望）</small>
     編曲：陶山隼
       -
         出自第6張單曲。重新編曲版本。
@@ -112,8 +106,7 @@ BEST](../Page/COUPLING_BEST_\(川嶋愛的專輯\).md "wikilink")』一起推出
 10. **光**
     編曲：長澤孝志
       -
-        新錄歌曲。原曲為[日本放送](../Page/日本放送.md "wikilink")廣播節目[All
-        Night-NIPPON的企劃中公開的](https://zh.wikipedia.org/wiki/All_Night-NIPPON "wikilink")『深夜中的信（真夜中の手紙）』。
+        新錄歌曲。原曲為[日本放送](../Page/日本放送.md "wikilink")廣播節目[All Night-NIPPON的企劃中公開的](https://zh.wikipedia.org/wiki/All_Night-NIPPON "wikilink")『深夜中的信（真夜中の手紙）』。
 
 ### 初回限定盤
 
@@ -129,8 +122,7 @@ BEST](../Page/COUPLING_BEST_\(川嶋愛的專輯\).md "wikilink")』一起推出
 
 <!-- end list -->
 
-1.  原點和軌跡 -2003.8.20\~2007.8.20-<small>（原点と軌跡
-    -2003.8.20\~2007.8.20-）</small>
+1.  原點和軌跡 -2003.8.20\~2007.8.20-<small>（原点と軌跡 -2003.8.20\~2007.8.20-）</small>
 2.  典藏LIVE影像集<small>（蔵出しLIVE映像集）</small>
 3.  自我評論<small>（セルフコメンタリー）</small>
 
@@ -140,9 +132,6 @@ BEST](../Page/COUPLING_BEST_\(川嶋愛的專輯\).md "wikilink")』一起推出
 
   - [川嶋愛『希望人們能相信自己的感性、目標和夢想並前進下去』](https://web.archive.org/web/20130609141445/http://specialist.oricon.co.jp/special/20080603.html)[oricon](https://zh.wikipedia.org/wiki/oricon "wikilink")。
 
-[Category:川嶋愛音樂專輯](https://zh.wikipedia.org/wiki/Category:川嶋愛音樂專輯 "wikilink")
-[Category:2008年的專輯](https://zh.wikipedia.org/wiki/Category:2008年的專輯 "wikilink")
-[Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
+[Category:川嶋愛音樂專輯](https://zh.wikipedia.org/wiki/Category:川嶋愛音樂專輯 "wikilink") [Category:2008年的專輯](https://zh.wikipedia.org/wiki/Category:2008年的專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
 
-1.  [川嶋あい My Room - DISCOGRAPHY -
-    ALBUM](http://www.kawashimaai.com/discography/album.php)  川嶋愛官方網站
+1.  [川嶋あい My Room - DISCOGRAPHY - ALBUM](http://www.kawashimaai.com/discography/album.php)  川嶋愛官方網站

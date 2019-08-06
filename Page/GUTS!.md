@@ -1,5 +1,4 @@
-《**GUTS\!**》是[嵐](../Page/嵐.md "wikilink")的第43張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2014年4月30日在[日本](../Page/日本.md "wikilink")發行，唱片公司為[J
-Storm](../Page/J_Storm.md "wikilink")，臺灣則於同年5月16日由[愛貝克思發行](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")\[1\]。
+《**GUTS\!**》是[嵐](../Page/嵐.md "wikilink")的第43張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")，於2014年4月30日在[日本](../Page/日本.md "wikilink")發行，唱片公司為[J Storm](../Page/J_Storm.md "wikilink")，臺灣則於同年5月16日由[愛貝克思發行](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")\[1\]。
 
 ## 概要
 
@@ -48,15 +47,7 @@ Storm](../Page/J_Storm.md "wikilink")，臺灣則於同年5月16日由[愛貝克
 
   - 單曲宣傳[街宣車](https://zh.wikipedia.org/wiki/街宣車 "wikilink")
       -
-[Category:嵐歌曲](https://zh.wikipedia.org/wiki/Category:嵐歌曲 "wikilink")
-[Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink")
-[Category:2014年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:2014年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Oricon單曲月榜冠軍作品 "wikilink")
-[Category:2014年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2014年Japan_Hot_100冠軍歌曲 "wikilink")
-[Category:2014年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2014年Hot_Singles_Sales冠軍單曲 "wikilink")
-[Category:日本電視台週六連續劇主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台週六連續劇主題曲 "wikilink")
-[Category:Japan_Hot_100年榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:Japan_Hot_100年榜冠軍歌曲 "wikilink")
-[Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
+[Category:嵐歌曲](https://zh.wikipedia.org/wiki/Category:嵐歌曲 "wikilink") [Category:2014年單曲](https://zh.wikipedia.org/wiki/Category:2014年單曲 "wikilink") [Category:2014年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Oricon單曲週榜冠軍作品 "wikilink") [Category:2014年Oricon單曲月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Oricon單曲月榜冠軍作品 "wikilink") [Category:2014年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2014年Japan_Hot_100冠軍歌曲 "wikilink") [Category:2014年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2014年Hot_Singles_Sales冠軍單曲 "wikilink") [Category:日本電視台週六連續劇主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台週六連續劇主題曲 "wikilink") [Category:Japan_Hot_100年榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:Japan_Hot_100年榜冠軍歌曲 "wikilink") [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
 
 1.
 2.

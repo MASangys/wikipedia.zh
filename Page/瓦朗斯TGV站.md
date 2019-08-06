@@ -4,12 +4,7 @@
 
 ## 地理位置
 
-瓦朗斯TGV站位于法国德龙省（Drôme，26省）[阿利克桑](https://zh.wikipedia.org/wiki/阿利克桑 "wikilink")，该省的省会[瓦朗斯](https://zh.wikipedia.org/wiki/瓦朗斯_\(德龙省\) "wikilink")（Valence）东北部，距离瓦朗斯市区大约12公里。巴黎—马赛高速铁路与瓦朗斯—格勒诺布尔铁路在该站呈十字型交汇，并可以实现巴黎方向与瓦朗斯市区方向的互通。车站北距[里昂机场站](https://zh.wikipedia.org/wiki/里昂圣埃克絮佩里站 "wikilink")（Gare
-de
-Lyon-Saint-Exupéry-TGV）85公里，南距[阿维尼翁TGV站](https://zh.wikipedia.org/wiki/阿维尼翁TGV站 "wikilink")（Gare
-d'Avignon TGV）130公里，东距[格勒诺布尔站](../Page/格勒诺布尔站.md "wikilink")（Gare de
-Grenoble）87公里，西距离[瓦朗斯站](https://zh.wikipedia.org/wiki/瓦朗斯站 "wikilink")（Gare
-de Valence Ville）10公里。
+瓦朗斯TGV站位于法国德龙省（Drôme，26省）[阿利克桑](https://zh.wikipedia.org/wiki/阿利克桑 "wikilink")，该省的省会[瓦朗斯](https://zh.wikipedia.org/wiki/瓦朗斯_\(德龙省\) "wikilink")（Valence）东北部，距离瓦朗斯市区大约12公里。巴黎—马赛高速铁路与瓦朗斯—格勒诺布尔铁路在该站呈十字型交汇，并可以实现巴黎方向与瓦朗斯市区方向的互通。车站北距[里昂机场站](https://zh.wikipedia.org/wiki/里昂圣埃克絮佩里站 "wikilink")（Gare de Lyon-Saint-Exupéry-TGV）85公里，南距[阿维尼翁TGV站](https://zh.wikipedia.org/wiki/阿维尼翁TGV站 "wikilink")（Gare d'Avignon TGV）130公里，东距[格勒诺布尔站](../Page/格勒诺布尔站.md "wikilink")（Gare de Grenoble）87公里，西距离[瓦朗斯站](https://zh.wikipedia.org/wiki/瓦朗斯站 "wikilink")（Gare de Valence Ville）10公里。
 
 ## 停靠线路
 
@@ -162,7 +157,6 @@ de Valence Ville）10公里。
 
 ## 参考文献
 
-[Category:奧弗涅-羅納-阿爾卑斯大區鐵路車站](https://zh.wikipedia.org/wiki/Category:奧弗涅-羅納-阿爾卑斯大區鐵路車站 "wikilink")
-[Category:2001年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2001年啟用的鐵路車站 "wikilink")
+[Category:奧弗涅-羅納-阿爾卑斯大區鐵路車站](https://zh.wikipedia.org/wiki/Category:奧弗涅-羅納-阿爾卑斯大區鐵路車站 "wikilink") [Category:2001年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2001年啟用的鐵路車站 "wikilink")
 
 1.

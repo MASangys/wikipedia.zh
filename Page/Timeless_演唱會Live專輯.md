@@ -1,6 +1,4 @@
-《**Timeless
-演唱會Live專輯**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[方大同的第三張](https://zh.wikipedia.org/wiki/方大同 "wikilink")[現場專輯](../Page/現場專輯.md "wikilink")，在2009年11月27日推出，收錄了他於8月27日至8月29日在[灣仔](../Page/灣仔.md "wikilink")[香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")舉行的《Timeless
-Live In Hong Kong 2009》所錄的曲目，當中包括兩片CD。\[1\]
+《**Timeless 演唱會Live專輯**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[方大同的第三張](https://zh.wikipedia.org/wiki/方大同 "wikilink")[現場專輯](../Page/現場專輯.md "wikilink")，在2009年11月27日推出，收錄了他於8月27日至8月29日在[灣仔](../Page/灣仔.md "wikilink")[香港會議展覽中心](../Page/香港會議展覽中心.md "wikilink")舉行的《Timeless Live In Hong Kong 2009》所錄的曲目，當中包括兩片CD。\[1\]
 
 ## 曲目
 
@@ -55,7 +53,7 @@ Live In Hong Kong 2009》所錄的曲目，當中包括兩片CD。\[1\]
 <td><p>05</p></td>
 <td><p>Remember（記得）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/林俊傑" title="wikilink">林俊傑</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/易家揚" title="wikilink">易家揚</a></p></td>
+<td><p><a href="../Page/易家揚.md" title="wikilink">易家揚</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -277,10 +275,6 @@ Live In Hong Kong 2009》所錄的曲目，當中包括兩片CD。\[1\]
 
 </div>
 
-[Category:方大同音樂專輯](https://zh.wikipedia.org/wiki/Category:方大同音樂專輯 "wikilink")
-[Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:方大同音樂專輯](https://zh.wikipedia.org/wiki/Category:方大同音樂專輯 "wikilink") [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
-1.  [Timeless 演唱會Live專輯 (2CD) (香港版) 鐳射唱片 - 方大同, 華納唱片
-    (HK)](http://www.yesasia.com/global/timeless-%E6%BC%94%E5%94%B1%E6%9C%83live%E5%B0%88%E8%BC%AF-2cd-%E9%A6%99%E6%B8%AF%E7%89%88/1021619923-0-0-0-zh_TW/info.html)，2012年8月28日
-    (一) 14:10 (UTC+8)查閱
+1.  [Timeless 演唱會Live專輯 (2CD) (香港版) 鐳射唱片 - 方大同, 華納唱片 (HK)](http://www.yesasia.com/global/timeless-%E6%BC%94%E5%94%B1%E6%9C%83live%E5%B0%88%E8%BC%AF-2cd-%E9%A6%99%E6%B8%AF%E7%89%88/1021619923-0-0-0-zh_TW/info.html)，2012年8月28日 (一) 14:10 (UTC+8)查閱

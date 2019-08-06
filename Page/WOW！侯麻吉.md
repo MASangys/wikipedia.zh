@@ -346,6 +346,4 @@
 
 [Category:停播台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:停播台灣綜藝節目 "wikilink")
 
-1.  [衛視中文台全新10點綜藝《WOW\!侯麻吉》5月20日歡樂首播 甜心主持侯佩岑+無厘頭麻吉大哥黃立成
-    帶給觀眾全新感受](http://www.fictw.com/scc_news_content.php?id=515)
-    ，衛視中文台於2013年05月16日查閱。
+1.  [衛視中文台全新10點綜藝《WOW\!侯麻吉》5月20日歡樂首播 甜心主持侯佩岑+無厘頭麻吉大哥黃立成 帶給觀眾全新感受](http://www.fictw.com/scc_news_content.php?id=515) ，衛視中文台於2013年05月16日查閱。

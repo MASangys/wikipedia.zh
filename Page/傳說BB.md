@@ -1,12 +1,10 @@
-**傳說BB**（レジェンドBB/LEGEND BB）是[SD
-GUNDAM系列繼](../Page/SD_GUNDAM系列.md "wikilink")[SD高達三國傳後](https://zh.wikipedia.org/wiki/SD高達三國傳 "wikilink")，為慶祝BB戰士誕生25週年推出的模型系列。
+**傳說BB**（レジェンドBB/LEGEND BB）是[SD GUNDAM系列繼](../Page/SD_GUNDAM系列.md "wikilink")[SD高達三國傳後](https://zh.wikipedia.org/wiki/SD高達三國傳 "wikilink")，為慶祝BB戰士誕生25週年推出的模型系列。
 
 ## 系列介紹
 
 本系列與以往最大分別，是模型再次回歸80年代末的內容規格（例如說明書再次連載[今石進](../Page/今石進.md "wikilink")手繪漫畫、除武者系列有獨立連貫劇情，其餘角色均屬單元故事、機動戰士角色被賦予SD版本獨有玩法、以及再次擁有眼珠貼紙。），同時結合SDX系列及從三國傳系列以來不斷提升的可動關節結構，重新詮釋部份SD高達中曾經登場的人氣角色。
 
-「傳說BB」製作班底亦以早期系列主要成員為骨幹，包括長期負責SD模型商品設計[寺島慎也](https://zh.wikipedia.org/wiki/寺島慎也 "wikilink")、有「BB戰士之父」稱號、負責盒面插畫及說明書漫畫作者[今石進](../Page/今石進.md "wikilink")、以及宣傳品插畫、SD
-Cardass系列作者[橫井孝二](../Page/橫井孝二.md "wikilink")。
+「傳說BB」製作班底亦以早期系列主要成員為骨幹，包括長期負責SD模型商品設計[寺島慎也](https://zh.wikipedia.org/wiki/寺島慎也 "wikilink")、有「BB戰士之父」稱號、負責盒面插畫及說明書漫畫作者[今石進](../Page/今石進.md "wikilink")、以及宣傳品插畫、SD Cardass系列作者[橫井孝二](../Page/橫井孝二.md "wikilink")。
 
 本系列從構思到發行，籌備近一年時間，最終定位為類似HGUC系列，以非連貫、人氣度決定作為角色商品化準則。因此亦可視為自「三國傳」以來，單一系列作品的暫時完結。
 
@@ -16,8 +14,7 @@ Cardass系列作者[橫井孝二](../Page/橫井孝二.md "wikilink")。
 
 ### [SD戰國傳](../Page/SD戰國傳_武者七人眾篇.md "wikilink")
 
-以「BB戰士17.武者頑馱無」模型說明書中、武者頑馱無與六人若武者（參見[SD戰國傳
-天下統一篇](../Page/SD戰國傳_天下統一篇.md "wikilink")）登場為時間點，加上以往僅在文字及卡片登場的「武者頑馱無真惡參」，重現「武者八人眾」原貌的新故事。
+以「BB戰士17.武者頑馱無」模型說明書中、武者頑馱無與六人若武者（參見[SD戰國傳 天下統一篇](../Page/SD戰國傳_天下統一篇.md "wikilink")）登場為時間點，加上以往僅在文字及卡片登場的「武者頑馱無真惡參」，重現「武者八人眾」原貌的新故事。
 
 **武者頑馱無**
 
@@ -29,9 +26,7 @@ Cardass系列作者[橫井孝二](../Page/橫井孝二.md "wikilink")。
 
 **殺驅頭**
 
-時隱之國領袖，亦為LGBB系列首個非高達系角色商品化，與舊版同樣可替換闇將軍鎧甲（[SD戰國傳
-武者七人眾篇模型以](../Page/SD戰國傳_武者七人眾篇.md "wikilink")「闇將軍」掛名，內附殺驅頭鎧甲;
-LGBB版則以「殺驅頭」掛名，內附闇將軍鎧甲）
+時隱之國領袖，亦為LGBB系列首個非高達系角色商品化，與舊版同樣可替換闇將軍鎧甲（[SD戰國傳 武者七人眾篇模型以](../Page/SD戰國傳_武者七人眾篇.md "wikilink")「闇將軍」掛名，內附殺驅頭鎧甲; LGBB版則以「殺驅頭」掛名，內附闇將軍鎧甲）
 
 #### 「雷凰頑馱無」篇
 
@@ -47,8 +42,7 @@ LGBB版則以「殺驅頭」掛名，內附闇將軍鎧甲）
 
 **白銀刃(Silver Bullet)**
 
-「地之鎧」擁有者，後來被黑魔神殺害。僅出現在雷凰夢中。([sd戰國傳
-天下統一篇中](https://zh.wikipedia.org/wiki/sd戰國傳_天下統一篇 "wikilink")，頑馱無軍團由於「三武將」缺少「地之鎧」人選致敗，直到荒烈驅主穿越時空，並成為地之鎧擁有者「新荒烈驅主」後，歷史才得以改變。LGBB版本則描寫為三武將已經齊集，可惜仍然戰敗。)
+「地之鎧」擁有者，後來被黑魔神殺害。僅出現在雷凰夢中。([sd戰國傳 天下統一篇中](https://zh.wikipedia.org/wiki/sd戰國傳_天下統一篇 "wikilink")，頑馱無軍團由於「三武將」缺少「地之鎧」人選致敗，直到荒烈驅主穿越時空，並成為地之鎧擁有者「新荒烈驅主」後，歷史才得以改變。LGBB版本則描寫為三武將已經齊集，可惜仍然戰敗。)
 
 使用「新荒烈驅主」與「周倉杜賓狼」零件改造而成。
 
@@ -88,13 +82,11 @@ LGBB版則以「殺驅頭」掛名，內附闇將軍鎧甲）
 
 **武者飛驅鳥**
 
-[新SD戰國傳
-七人之超將軍篇主角](../Page/新SD戰國傳_七人之超將軍篇.md "wikilink")、舞威丸(號斗丸)之兄。模型版本繼續沿用舊版本的粉紅透明部件，支援兵器/裝甲「鋼鐵迦樓羅」構造也大幅改動，呈現舊版本由於技術所限，未有完成的效果。
+[新SD戰國傳 七人之超將軍篇主角](../Page/新SD戰國傳_七人之超將軍篇.md "wikilink")、舞威丸(號斗丸)之兄。模型版本繼續沿用舊版本的粉紅透明部件，支援兵器/裝甲「鋼鐵迦樓羅」構造也大幅改動，呈現舊版本由於技術所限，未有完成的效果。
 
 **劍聖副將軍**
 
-[新SD戰國傳
-傳說之大將軍篇中](../Page/新SD戰國傳_傳說之大將軍篇.md "wikilink")、「三烈神」之一烈空成為副將軍後的新型態，也是飛驅鳥劍術導師。
+[新SD戰國傳 傳說之大將軍篇中](../Page/新SD戰國傳_傳說之大將軍篇.md "wikilink")、「三烈神」之一烈空成為副將軍後的新型態，也是飛驅鳥劍術導師。
 
 原型是以烈空頑馱無加上烈破頑馱無零件改造而成，僅出現在PS遊戲「機動武者大戰」裡，LGBB版本首次加到故事裡。
 
@@ -102,19 +94,15 @@ LGBB版則以「殺驅頭」掛名，內附闇將軍鎧甲）
 
 被飛驅烏拯救的少女，也是飛驅鳥成為大將軍後的妻子、武威凰(武威凰大將軍)、武威之助(新凰)之母。
 
-原本僅在[新SD戰國傳
-武神輝羅鋼篇](https://zh.wikipedia.org/wiki/新SD戰國傳_武神輝羅鋼篇 "wikilink")
-「武威凰大將軍」模型說明書的角色介紹中出現，LGBB版本首次加到故事裡。
+原本僅在[新SD戰國傳 武神輝羅鋼篇](https://zh.wikipedia.org/wiki/新SD戰國傳_武神輝羅鋼篇 "wikilink") 「武威凰大將軍」模型說明書的角色介紹中出現，LGBB版本首次加到故事裡。
 
 **武者號斗丸**
 
-[新SD戰國傳
-超機動大將軍篇](https://zh.wikipedia.org/wiki/新SD戰國傳_超機動大將軍篇 "wikilink")25年來SD武者中最人氣主角、以至於[高達創戰者TRY中](https://zh.wikipedia.org/wiki/高達創戰者 "wikilink")，成為神木世界與阪井湊決戰時使用的高達模型。爆流頑馱無徒弟、鐵機武者鋼丸好友。大幅提升「爆熱之陣」可動性、以及外觀完整度，例如新增透明部件呈現寶石效果。
+[新SD戰國傳 超機動大將軍篇](https://zh.wikipedia.org/wiki/新SD戰國傳_超機動大將軍篇 "wikilink")25年來SD武者中最人氣主角、以至於[高達創戰者TRY中](https://zh.wikipedia.org/wiki/高達創戰者 "wikilink")，成為神木世界與阪井湊決戰時使用的高達模型。爆流頑馱無徒弟、鐵機武者鋼丸好友。大幅提升「爆熱之陣」可動性、以及外觀完整度，例如新增透明部件呈現寶石效果。
 
 **鐵機武者鋼丸**\\
 
-爆流參考機動武者大鋼設計的鐵機武者、號斗丸好友，可變形成巨大武者「鐵機鋼丸型態」。[高達創戰者TRY中](https://zh.wikipedia.org/wiki/高達創戰者 "wikilink")，在星際凱旋高達變成「Real
-Mode」及使出最後必殺時，以幻影姿態出現。
+爆流參考機動武者大鋼設計的鐵機武者、號斗丸好友，可變形成巨大武者「鐵機鋼丸型態」。[高達創戰者TRY中](https://zh.wikipedia.org/wiki/高達創戰者 "wikilink")，在星際凱旋高達變成「Real Mode」及使出最後必殺時，以幻影姿態出現。
 
 ### [SD高達外傳](https://zh.wikipedia.org/wiki/SD高達外傳 "wikilink")
 
@@ -136,8 +124,7 @@ Mode」及使出最後必殺時，以幻影姿態出現。
 
 **魔龍劍士Zero**
 
-[SD高達外傳
-聖龍物語主角](https://zh.wikipedia.org/wiki/SD高達外傳_聖龍物語 "wikilink")。LGBB中首次推出雙鎧甲角色。於[高達創戰者TRY亦有出場](https://zh.wikipedia.org/wiki/高達創戰者 "wikilink")。
+[SD高達外傳 聖龍物語主角](https://zh.wikipedia.org/wiki/SD高達外傳_聖龍物語 "wikilink")。LGBB中首次推出雙鎧甲角色。於[高達創戰者TRY亦有出場](https://zh.wikipedia.org/wiki/高達創戰者 "wikilink")。
 
 ### [SD司令戰記G-Arms](../Page/SD司令戰記G-Arms.md "wikilink")
 
@@ -149,8 +136,7 @@ Mode」及使出最後必殺時，以幻影姿態出現。
 
 #### 翔國
 
-**突擊[劉備高達](https://zh.wikipedia.org/wiki/劉備 "wikilink")**（[GAT-X105
-攻擊鋼彈](https://zh.wikipedia.org/wiki/GAT-X105_攻擊鋼彈 "wikilink")
+**突擊[劉備高達](https://zh.wikipedia.org/wiki/劉備 "wikilink")**（[GAT-X105 攻擊鋼彈](https://zh.wikipedia.org/wiki/GAT-X105_攻擊鋼彈 "wikilink")
 
   -
     翔國國主，當「四凶」[檮杌巴古出現時](https://zh.wikipedia.org/wiki/檮杌 "wikilink")，從小孩手中獲得「光之玉」，並進化成「突擊劉備高達」。除了擁有結合劍裝備、炮裝備的「蒼龍之神器」，更可從曹操借用「炎凰之神器」，結合成「龍凰突擊劉備高達」。
@@ -325,8 +311,7 @@ Mode」及使出最後必殺時，以幻影姿態出現。
 
 #### 機駕
 
-**命運[曹操](../Page/曹操.md "wikilink")高達**（[ZGMF-X42S
-命運鋼彈](../Page/ZGMF-X42S_Destiny.md "wikilink")）
+**命運[曹操](../Page/曹操.md "wikilink")高達**（[ZGMF-X42S 命運鋼彈](../Page/ZGMF-X42S_Destiny.md "wikilink")）
 
   -
     機駕前任國主(現任為兒子[曹丕](../Page/曹丕.md "wikilink"))，獲得光之玉力量後，獲得「炎凰之神器」，後來借予劉備，成為「神器合體型態」。
@@ -346,16 +331,14 @@ Mode」及使出最後必殺時，以幻影姿態出現。
 
 #### 轟國
 
-**異端[孫權高達](https://zh.wikipedia.org/wiki/孫權 "wikilink")**（[MBF-P01
-異端鋼彈](https://zh.wikipedia.org/wiki/MBF-P01_異端鋼彈 "wikilink")）
+**異端[孫權高達](https://zh.wikipedia.org/wiki/孫權 "wikilink")**（[MBF-P01 異端鋼彈](https://zh.wikipedia.org/wiki/MBF-P01_異端鋼彈 "wikilink")）
 
   -
     轟國國主，獲得光之玉力量後進化而成
 
 #### 其他
 
-**天意[呂布高達](https://zh.wikipedia.org/wiki/呂布 "wikilink")**（[ZGMF-X13A
-Providence](https://zh.wikipedia.org/wiki/ZGMF-X13A_Providence "wikilink")+[托爾吉斯III](https://zh.wikipedia.org/wiki/新機動戰記鋼彈_W_機體列表 "wikilink")）
+**天意[呂布高達](https://zh.wikipedia.org/wiki/呂布 "wikilink")**（[ZGMF-X13A Providence](https://zh.wikipedia.org/wiki/ZGMF-X13A_Providence "wikilink")+[托爾吉斯III](https://zh.wikipedia.org/wiki/新機動戰記鋼彈_W_機體列表 "wikilink")）
 
   -
     「戰懍之暴將」呂布，獲得光之玉後進化而成。最初被蚩尤控制，一度與劉備等人對峙。

@@ -14,8 +14,7 @@
 
 ## 外部链接
 
-  - [GeneReviews/NIH/NCBI/UW entry on Methylmalonic
-    Acidemia](http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=mma)
+  - [GeneReviews/NIH/NCBI/UW entry on Methylmalonic Acidemia](http://www.ncbi.nlm.nih.gov/bookshelf/br.fcgi?book=gene&part=mma)
 
   -
 [Category:酶](https://zh.wikipedia.org/wiki/Category:酶 "wikilink")

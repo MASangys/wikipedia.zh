@@ -11,9 +11,6 @@
 
 ## 外部链接
 
-  - [DEVZ: ДСЗ -TYPE A.C. UNIVERSAL ELECTRIC
-    LOCOMOTIVE](https://web.archive.org/web/20070627091853/http://devs.dp.ua/elektrovoz_eng.htm)
+  - [DEVZ: ДСЗ -TYPE A.C. UNIVERSAL ELECTRIC LOCOMOTIVE](https://web.archive.org/web/20070627091853/http://devs.dp.ua/elektrovoz_eng.htm)
 
-[Category:乌克兰电力机车](https://zh.wikipedia.org/wiki/Category:乌克兰电力机车 "wikilink")
-[Category:Bo-Bo+Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo+Bo-Bo軸式機車 "wikilink")
-[Category:3000伏直流电力机车](https://zh.wikipedia.org/wiki/Category:3000伏直流电力机车 "wikilink")
+[Category:乌克兰电力机车](https://zh.wikipedia.org/wiki/Category:乌克兰电力机车 "wikilink") [Category:Bo-Bo+Bo-Bo軸式機車](https://zh.wikipedia.org/wiki/Category:Bo-Bo+Bo-Bo軸式機車 "wikilink") [Category:3000伏直流电力机车](https://zh.wikipedia.org/wiki/Category:3000伏直流电力机车 "wikilink")

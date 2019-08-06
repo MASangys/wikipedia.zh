@@ -2,15 +2,13 @@
 
 ## 歷史
 
-Kovid
-Goyal於2006年10月31日開始開發**libprs500**，那時[索尼](../Page/索尼.md "wikilink")的[PRS-500正好發佈](https://zh.wikipedia.org/wiki/Sony_Reader "wikilink")。當時只是想讓PRS-500能在[Linux](../Page/Linux.md "wikilink")上運行。Goyal在MobileRead論壇的幫助下\[1\]，對PRS-500的專有格式進行[逆向工程](../Page/逆向工程.md "wikilink")。
+Kovid Goyal於2006年10月31日開始開發**libprs500**，那時[索尼](../Page/索尼.md "wikilink")的[PRS-500正好發佈](https://zh.wikipedia.org/wiki/Sony_Reader "wikilink")。當時只是想讓PRS-500能在[Linux](../Page/Linux.md "wikilink")上運行。Goyal在MobileRead論壇的幫助下\[1\]，對PRS-500的專有格式進行[逆向工程](../Page/逆向工程.md "wikilink")。
 
 2008年，軟體的名字改為**calibre**，需注意的是，即使是寫在句子的開頭也是一律小寫\[2\]。
 
 ## 特性
 
-calibre支援許多[檔案格式](../Page/檔案格式.md "wikilink")以及閱讀器。這些電子書格式多數都可以被編輯，如更改字體或字體大小等，並可以加入自動生成的目錄。對於需要購買的電子書，則只能在購買後，移除[DRM的限制才能轉換和編輯](../Page/数字版权管理.md "wikilink")。calibre並非原生支持這個移除的動作，但可以用安裝免費外掛的方式來解決
-\[3\]。
+calibre支援許多[檔案格式](../Page/檔案格式.md "wikilink")以及閱讀器。這些電子書格式多數都可以被編輯，如更改字體或字體大小等，並可以加入自動生成的目錄。對於需要購買的電子書，則只能在購買後，移除[DRM的限制才能轉換和編輯](../Page/数字版权管理.md "wikilink")。calibre並非原生支持這個移除的動作，但可以用安裝免費外掛的方式來解決 \[3\]。
 
 calibre有助於幫使用者組織其電子書庫（使用電子書的[元數據](https://zh.wikipedia.org/wiki/後設資料 "wikilink")）。元數據可以從許多來源獲得（例如、線上書商、免費電子書提供者、以及一些美國或其他國家的期刊，如[古騰堡計劃](https://zh.wikipedia.org/wiki/古騰堡計劃 "wikilink")、[網際網路檔案館以及](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")「Munsey's」；或是一些為讀者提供的社群網路，如[Goodreads](../Page/Goodreads.md "wikilink")以及）。可以在整個書庫裡搜尋作者、標題或是關鍵字，但尚未實現全文搜索\[4\]\[5\]。
 
@@ -22,8 +20,7 @@ calibre也支援轉換外部內容，如[RSS](../Page/RSS.md "wikilink")、[聚�
 
 ## 開發與授權
 
-這個程式是以[Python](../Page/Python.md "wikilink")及[C寫成](https://zh.wikipedia.org/wiki/C語言 "wikilink")。以[GNU
-GPL第三版發佈](https://zh.wikipedia.org/wiki/GNU通用公共授權條款 "wikilink")，使其成為[自由及](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[開放原始碼軟體](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")\[6\]。
+這個程式是以[Python](../Page/Python.md "wikilink")及[C寫成](https://zh.wikipedia.org/wiki/C語言 "wikilink")。以[GNU GPL第三版發佈](https://zh.wikipedia.org/wiki/GNU通用公共授權條款 "wikilink")，使其成為[自由及](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[開放原始碼軟體](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")\[6\]。
 
 ## 相關應用程式
 
@@ -46,22 +43,13 @@ GPL第三版發佈](https://zh.wikipedia.org/wiki/GNU通用公共授權條款 "w
   -
   - [Apprentice Alf](https://apprenticealf.wordpress.com/)
 
-[Category:自由應用軟體](https://zh.wikipedia.org/wiki/Category:自由應用軟體 "wikilink")
-[Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")
-[Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
-[Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink")
-[Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
-[Category:2008年面世](https://zh.wikipedia.org/wiki/Category:2008年面世 "wikilink")
+[Category:自由應用軟體](https://zh.wikipedia.org/wiki/Category:自由應用軟體 "wikilink") [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink") [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink") [Category:用Python編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Python編程的自由軟體 "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink") [Category:2008年面世](https://zh.wikipedia.org/wiki/Category:2008年面世 "wikilink")
 
 1.
-2.  [calibre - About](http://calibre-ebook.com/about#history).
-    Calibre-ebook.com (2006-10-31). Retrieved on 2013-07-29.
+2.  [calibre - About](http://calibre-ebook.com/about#history). Calibre-ebook.com (2006-10-31). Retrieved on 2013-07-29.
 3.
-4.  [User named kovidgoyal on fulltext search in TODO
-    list](http://www.mobileread.mobi/forums/showthread.php?t=68795#post731172),
-    2010-08-01
-5.  [User named Kovid Goyal (kovid) on fulltext search
-    request](https://bugs.launchpad.net/calibre/+bug/787151), 2011-05-23
+4.  [User named kovidgoyal on fulltext search in TODO list](http://www.mobileread.mobi/forums/showthread.php?t=68795#post731172), 2010-08-01
+5.  [User named Kovid Goyal (kovid) on fulltext search request](https://bugs.launchpad.net/calibre/+bug/787151), 2011-05-23
 6.
 7.
 8.

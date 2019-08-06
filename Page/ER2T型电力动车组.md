@@ -33,13 +33,8 @@
 
 ## 外部链接
 
-  - [Электропоезд постоянного тока
-    ЭР2Т](http://www.emupages.narod.ru/trains-er2t.htm)
+  - [Электропоезд постоянного тока ЭР2Т](http://www.emupages.narod.ru/trains-er2t.htm)
 
-[Category:苏联电力动车组](https://zh.wikipedia.org/wiki/Category:苏联电力动车组 "wikilink")
-[Category:俄罗斯电力动车组](https://zh.wikipedia.org/wiki/Category:俄罗斯电力动车组 "wikilink")
-[Category:乌克兰电力动车组](https://zh.wikipedia.org/wiki/Category:乌克兰电力动车组 "wikilink")
-[Category:3000伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:3000伏直流电力动车组 "wikilink")
-[Category:里加製鐵路車輛](https://zh.wikipedia.org/wiki/Category:里加製鐵路車輛 "wikilink")
+[Category:苏联电力动车组](https://zh.wikipedia.org/wiki/Category:苏联电力动车组 "wikilink") [Category:俄罗斯电力动车组](https://zh.wikipedia.org/wiki/Category:俄罗斯电力动车组 "wikilink") [Category:乌克兰电力动车组](https://zh.wikipedia.org/wiki/Category:乌克兰电力动车组 "wikilink") [Category:3000伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:3000伏直流电力动车组 "wikilink") [Category:里加製鐵路車輛](https://zh.wikipedia.org/wiki/Category:里加製鐵路車輛 "wikilink")
 
 1.

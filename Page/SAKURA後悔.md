@@ -1,5 +1,4 @@
-《**SAKURA後悔**》（）是日本女子組合[FLOWER的第](https://zh.wikipedia.org/wiki/Flower_\(組合\) "wikilink")2張單曲，於2012年2月29日由[Sony
-Music Associated Records發行](../Page/日本索尼音樂娛樂.md "wikilink")。
+《**SAKURA後悔**》（）是日本女子組合[FLOWER的第](https://zh.wikipedia.org/wiki/Flower_\(組合\) "wikilink")2張單曲，於2012年2月29日由[Sony Music Associated Records發行](../Page/日本索尼音樂娛樂.md "wikilink")。
 
 ## 概要
 
@@ -57,11 +56,6 @@ Music Associated Records發行](../Page/日本索尼音樂娛樂.md "wikilink")�
   - 官網唱片介紹
 
       - [《SAKURA後悔》【初回生產限定盤】](http://www.flower-ldh.jp/disco/detail.html?id=AICL-2335)
-
       - [《SAKURA後悔》【通常盤】](http://www.flower-ldh.jp/disco/detail.html?id=AICL-2337)
 
-
-[Category:FLOWER歌曲](https://zh.wikipedia.org/wiki/Category:FLOWER歌曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
-[Category:櫻花題材歌曲](https://zh.wikipedia.org/wiki/Category:櫻花題材歌曲 "wikilink")
+[Category:FLOWER歌曲](https://zh.wikipedia.org/wiki/Category:FLOWER歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:櫻花題材歌曲](https://zh.wikipedia.org/wiki/Category:櫻花題材歌曲 "wikilink")

@@ -1,5 +1,4 @@
-**鈴與清水FC女子隊**
-是[日本職業女子足球聯賽](../Page/日本職業女子足球聯賽.md "wikilink")的一支球隊。他創立於1989，但於1999年解散。
+**鈴與清水FC女子隊**  是[日本職業女子足球聯賽](../Page/日本職業女子足球聯賽.md "wikilink")的一支球隊。他創立於1989，但於1999年解散。
 
 ## 榮譽
 
@@ -143,16 +142,8 @@
 
 ## 歷年來隊名
 
-  - **Shimizu F.C.
-    Women**|**[清水FC女士隊](https://zh.wikipedia.org/wiki/清水FC女士隊 "wikilink")**
-    : 1986 - 1988
-  - **Shimizu F.C.
-    Ladies**|**[清水FC女子隊](https://zh.wikipedia.org/wiki/清水FC女子隊 "wikilink")**
-    : 1989
-  - **Suzuyo Shimizu F.C. Lovely
-    Ladies**|**[鈴與清水FC女子隊](../Page/鈴與清水FC女子隊.md "wikilink")**
-    : 1990 - 1999
+  - **Shimizu F.C. Women**|**[清水FC女士隊](https://zh.wikipedia.org/wiki/清水FC女士隊 "wikilink")** : 1986 - 1988
+  - **Shimizu F.C. Ladies**|**[清水FC女子隊](https://zh.wikipedia.org/wiki/清水FC女子隊 "wikilink")** : 1989
+  - **Suzuyo Shimizu F.C. Lovely Ladies**|**[鈴與清水FC女子隊](../Page/鈴與清水FC女子隊.md "wikilink")** : 1990 - 1999
 
-[Category:日本女子足球俱樂部](https://zh.wikipedia.org/wiki/Category:日本女子足球俱樂部 "wikilink")
-[Category:1976年在日本的機構](https://zh.wikipedia.org/wiki/Category:1976年在日本的機構 "wikilink")
-[Category:在靜岡縣體育](https://zh.wikipedia.org/wiki/Category:在靜岡縣體育 "wikilink")
+[Category:日本女子足球俱樂部](https://zh.wikipedia.org/wiki/Category:日本女子足球俱樂部 "wikilink") [Category:1976年在日本的機構](https://zh.wikipedia.org/wiki/Category:1976年在日本的機構 "wikilink") [Category:在靜岡縣體育](https://zh.wikipedia.org/wiki/Category:在靜岡縣體育 "wikilink")

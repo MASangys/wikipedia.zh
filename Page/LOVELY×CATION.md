@@ -1,9 +1,4 @@
-《**LOVELY×CATION**》是[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")旗下品牌曉WORKS-响-（現hibiki
-works）在2011年6月24日发售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2011年7月1日發售通常版。\[2\]2013年5月31日由[DMM.com](../Page/DMM.com.md "wikilink")獨占發售DL版。\[3\]2013年6月28日由hibiki
-works發售包含全部APPEND LIFE的合集版《**LOVELY×CATION
--もうずっと初恋の日々エディション-**》。\[4\]2015年5月21日由5pb.發售[PlayStation
-Vita版](../Page/PlayStation_Vita.md "wikilink")《**LOVELY×CATION
-1&2**》。\[5\]衍生[書籍](https://zh.wikipedia.org/wiki/書籍 "wikilink")、[OVA也陸續推出](https://zh.wikipedia.org/wiki/OVA "wikilink")。
+《**LOVELY×CATION**》是[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")旗下品牌曉WORKS-响-（現hibiki works）在2011年6月24日发售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]2011年7月1日發售通常版。\[2\]2013年5月31日由[DMM.com](../Page/DMM.com.md "wikilink")獨占發售DL版。\[3\]2013年6月28日由hibiki works發售包含全部APPEND LIFE的合集版《**LOVELY×CATION -もうずっと初恋の日々エディション-**》。\[4\]2015年5月21日由5pb.發售[PlayStation Vita版](../Page/PlayStation_Vita.md "wikilink")《**LOVELY×CATION 1&2**》。\[5\]衍生[書籍](https://zh.wikipedia.org/wiki/書籍 "wikilink")、[OVA也陸續推出](https://zh.wikipedia.org/wiki/OVA "wikilink")。
 
 ## 故事
 
@@ -142,8 +137,7 @@ Vita版](../Page/PlayStation_Vita.md "wikilink")《**LOVELY×CATION
 <!-- end list -->
 
   -
-    出版社：[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")　發售日：2013年8月9日　ISBN
-    978-4-04-729104-1
+    出版社：[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")　發售日：2013年8月9日　ISBN 978-4-04-729104-1
 
 <!-- end list -->
 
@@ -152,8 +146,7 @@ Vita版](../Page/PlayStation_Vita.md "wikilink")《**LOVELY×CATION
 <!-- end list -->
 
   -
-    出版社：[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")　發售日：2015年4月30日　ISBN
-    978-4-04-730460-4
+    出版社：[enterbrain](https://zh.wikipedia.org/wiki/enterbrain "wikilink")　發售日：2015年4月30日　ISBN 978-4-04-730460-4
 
 ## 相關條目
 
@@ -174,24 +167,17 @@ Vita版](../Page/PlayStation_Vita.md "wikilink")《**LOVELY×CATION
   - [LOVELY×CATION 1&2](http://5pb.jp/games/lovelycation/index.html)PSV版官方網站
   - [OVA官方網站](http://www.pinkpineapple.co.jp/lovely-cation_anime/index.html)PinkPineapple
 
-[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:2015年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2015年日本成人動畫 "wikilink")
+[Category:2011年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2011年日本成人遊戲 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:2015年日本成人動畫](https://zh.wikipedia.org/wiki/Category:2015年日本成人動畫 "wikilink")
 
 1.
 2.
 3.
 4.
 5.
-6.  [LOVELY×CATION
-    ラブリケーション](http://erogetrailers.com/soft/7429#layout_page)ErogeTrailers
+6.  [LOVELY×CATION ラブリケーション](http://erogetrailers.com/soft/7429#layout_page)ErogeTrailers
 7.
 8.
-9.  [お・や・す・み♥
-    LOVELY×CATION](http://www.differencia.co.jp/entertainment/lovely_cation.html)Differencia
+9.  [お・や・す・み♥ LOVELY×CATION](http://www.differencia.co.jp/entertainment/lovely_cation.html)Differencia
 10.
 11.
 12.

@@ -1,8 +1,6 @@
-《**Super Seisyun Brothers
--超青春姐弟s-**》（，直譯為「超青春姊弟們」），是由慎本真作畫的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於Web漫畫配信網站《COMIC
-Polaris》連載中。略稱為「**SSB**」。於2013年9月13日播放的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
+《**Super Seisyun Brothers -超青春姐弟s-**》（，直譯為「超青春姊弟們」），是由慎本真作畫的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於Web漫畫配信網站《COMIC Polaris》連載中。略稱為「**SSB**」。於2013年9月13日播放的[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
-## 概要
+## 劇情簡介
 
 姊姊們是好友，弟弟們也是好友，本作即是描寫兩對姊弟日常生活的喜劇作品。
 
@@ -44,10 +42,93 @@ Polaris》連載中。略稱為「**SSB**」。於2013年9月13日播放的[電�
     千子的大学同学，同样都是御宅族，有男朋友但平时只在网上交流，一年只有两次外出约会。
     在漫畫表示自己的爺爺是目前就讀的大學的創辦人。
 
-## 單行本
+## 出版書籍
 
-1.  2013年10月15日發售 ISBN 978-4-593-88079-9
-2.  2013年11月15日發售 ISBN 978-4-593-88080-5
+  - SSB -超青春姉弟s-
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/Flex_Comix" title="wikilink">Flex Comix</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2013年10月15日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2013年11月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2014年4月15日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2014年8月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2015年8月15日</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2016年3月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2016年8月15日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2017年3月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2017年8月9日</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2018年3月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2018年10月15日</p></td>
+</tr>
+</tbody>
+</table>
+
+  - 好きです、となりのお兄ちゃん。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p>Flex Comix</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2018年3月15日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2018年11月15日</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 電視動畫
 
@@ -229,19 +310,12 @@ Kim Yeonghun</p></td>
 
 ## 外部連結
 
-  - [Super Seisyun Brothers
-    ―超青春姉弟s―](http://comic-polaris.jp/superseisyun/)（原作揭載頁）
+  - [Super Seisyun Brothers ―超青春姉弟s―](http://comic-polaris.jp/superseisyun/)（原作揭載頁）
 
-  - [TV動畫「Super Seisyun Brothers
-    -超青春姉弟s-」公式網站](https://web.archive.org/web/20130913214352/http://ssb-love.tv/)
+  - [TV動畫「Super Seisyun Brothers -超青春姉弟s-」公式網站](https://web.archive.org/web/20130913214352/http://ssb-love.tv/)
 
-  - [東京電視台 Super Seisyun Brothers
-    -超青春姉弟s-](http://www.tv-tokyo.co.jp/anime/ssb/)
+  - [東京電視台 Super Seisyun Brothers -超青春姉弟s-](http://www.tv-tokyo.co.jp/anime/ssb/)
 
   -
   -
-[Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink")
-[Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
-[Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink")
-[Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink")
-[Category:动画短片](https://zh.wikipedia.org/wiki/Category:动画短片 "wikilink")
+[Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink") [Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink") [Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink") [Category:泡麵番](https://zh.wikipedia.org/wiki/Category:泡麵番 "wikilink") [Category:动画短片](https://zh.wikipedia.org/wiki/Category:动画短片 "wikilink")

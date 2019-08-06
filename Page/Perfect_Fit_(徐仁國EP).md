@@ -1,6 +1,4 @@
-《**Perfect
-Fit**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[徐仁國](../Page/徐仁國.md "wikilink")第四張[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在2012年4月12日由[CJ
-E\&M製作發行](../Page/CJ_E&M.md "wikilink")。EP包括了5首歌，並以《欲擒故縱》（）作主打單曲。
+《**Perfect Fit**》是[韓國男歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[徐仁國](../Page/徐仁國.md "wikilink")第四張[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[EP](https://zh.wikipedia.org/wiki/EP "wikilink")，在2012年4月12日由[CJ E\&M製作發行](../Page/CJ_E&M.md "wikilink")。EP包括了5首歌，並以《欲擒故縱》（）作主打單曲。
 
 ## 曲目
 
@@ -70,9 +68,7 @@ E\&M製作發行](../Page/CJ_E&M.md "wikilink")。EP包括了5首歌，並以《
 ## 外部連結
 
   -
-[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
-[Category:徐仁國音樂專輯](https://zh.wikipedia.org/wiki/Category:徐仁國音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:徐仁國音樂專輯](https://zh.wikipedia.org/wiki/Category:徐仁國音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 2.

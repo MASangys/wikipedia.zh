@@ -47,7 +47,6 @@ KLG的餐點以[炸雞](../Page/炸雞.md "wikilink")、[薯條](https://zh.wiki
 
 ## 參考資料
 
-[Category:速食餐廳](https://zh.wikipedia.org/wiki/Category:速食餐廳 "wikilink")
-[Category:跨國公司](https://zh.wikipedia.org/wiki/Category:跨國公司 "wikilink")
+[Category:速食餐廳](https://zh.wikipedia.org/wiki/Category:速食餐廳 "wikilink") [Category:跨國公司](https://zh.wikipedia.org/wiki/Category:跨國公司 "wikilink")
 
 1.

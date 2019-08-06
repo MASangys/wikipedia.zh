@@ -1,5 +1,4 @@
-**Idea Factory**（）是於1994年10月26日成立的日本遊戲公司。由原[Data
-East職員](../Page/Data_East.md "wikilink")[太田康一和](https://zh.wikipedia.org/wiki/太田康一 "wikilink")[桑名真吾所創設](https://zh.wikipedia.org/wiki/桑名真吾 "wikilink")。
+**Idea Factory**（）是於1994年10月26日成立的日本遊戲公司。由原[Data East職員](../Page/Data_East.md "wikilink")[太田康一和](https://zh.wikipedia.org/wiki/太田康一 "wikilink")[桑名真吾所創設](https://zh.wikipedia.org/wiki/桑名真吾 "wikilink")。
 
 ## 主要作品
 
@@ -275,9 +274,4 @@ East職員](../Page/Data_East.md "wikilink")[太田康一和](https://zh.wikiped
   - [Idea Factory](http://www.ideaf.co.jp/)
   - [オトメイト](http://www.otomate.jp/)
 
-[Category:1994年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1994年開業電子遊戲公司 "wikilink")
-[Category:Idea_Factory](https://zh.wikipedia.org/wiki/Category:Idea_Factory "wikilink")
-[Category:电子游戏开发公司](https://zh.wikipedia.org/wiki/Category:电子游戏开发公司 "wikilink")
-[Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
+[Category:1994年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1994年開業電子遊戲公司 "wikilink") [Category:Idea_Factory](https://zh.wikipedia.org/wiki/Category:Idea_Factory "wikilink") [Category:电子游戏开发公司](https://zh.wikipedia.org/wiki/Category:电子游戏开发公司 "wikilink") [Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")

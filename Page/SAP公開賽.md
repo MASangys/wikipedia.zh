@@ -1901,9 +1901,7 @@
 </tbody>
 </table>
 
-  - From 1948 through 1950, the Pacific Coast Championships were
-    combined with the [U.S. Women's Hardcourt
-    Championships](https://zh.wikipedia.org/wiki/U.S._Women's_Hardcourt_Championships "wikilink").
+  - From 1948 through 1950, the Pacific Coast Championships were combined with the [U.S. Women's Hardcourt Championships](https://zh.wikipedia.org/wiki/U.S._Women's_Hardcourt_Championships "wikilink").
 
 ### 女子双打
 
@@ -2285,9 +2283,7 @@
 
   - [SAP公開賽官方網站](https://web.archive.org/web/20150707061321/http://www.sapopentennis.com/)
 
-[Category:ATP巡迴賽](https://zh.wikipedia.org/wiki/Category:ATP巡迴賽 "wikilink")
-[Category:美國網球賽事](https://zh.wikipedia.org/wiki/Category:美國網球賽事 "wikilink")
-[Category:硬地網球賽事](https://zh.wikipedia.org/wiki/Category:硬地網球賽事 "wikilink")
+[Category:ATP巡迴賽](https://zh.wikipedia.org/wiki/Category:ATP巡迴賽 "wikilink") [Category:美國網球賽事](https://zh.wikipedia.org/wiki/Category:美國網球賽事 "wikilink") [Category:硬地網球賽事](https://zh.wikipedia.org/wiki/Category:硬地網球賽事 "wikilink")
 
 1.
 2.

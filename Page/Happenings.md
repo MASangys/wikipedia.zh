@@ -8,6 +8,4 @@
   - 2CD特別版
   - 錄音帶版
 
-[Category:孫耀威音樂專輯](https://zh.wikipedia.org/wiki/Category:孫耀威音樂專輯 "wikilink")
-[Category:1995年音樂專輯](https://zh.wikipedia.org/wiki/Category:1995年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:孫耀威音樂專輯](https://zh.wikipedia.org/wiki/Category:孫耀威音樂專輯 "wikilink") [Category:1995年音樂專輯](https://zh.wikipedia.org/wiki/Category:1995年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

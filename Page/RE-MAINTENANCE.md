@@ -2,9 +2,7 @@
 
 ## 單曲內容
 
-《RE-MAINTENANCE》由CNBLUE成員[鄭容和](../Page/鄭容和.md "wikilink")創作曲詞、（）和[Ryo共同作曲](https://zh.wikipedia.org/wiki/Ryo "wikilink")；B面第一首歌《Don't
-say good
-bye》也是由容和創作曲詞、[Ryo共同作曲](https://zh.wikipedia.org/wiki/Ryo "wikilink")；第二首歌《kimio》則由CNBLUE另一成員[李宗泫](../Page/李宗泫.md "wikilink")作曲，CUL作詞\[2\]。
+《RE-MAINTENANCE》由CNBLUE成員[鄭容和](../Page/鄭容和.md "wikilink")創作曲詞、（）和[Ryo共同作曲](https://zh.wikipedia.org/wiki/Ryo "wikilink")；B面第一首歌《Don't say good bye》也是由容和創作曲詞、[Ryo共同作曲](https://zh.wikipedia.org/wiki/Ryo "wikilink")；第二首歌《kimio》則由CNBLUE另一成員[李宗泫](../Page/李宗泫.md "wikilink")作曲，CUL作詞\[2\]。
 
 ## 曲目
 
@@ -27,8 +25,7 @@ bye》也是由容和創作曲詞、[Ryo共同作曲](https://zh.wikipedia.org/w
 
 ## 參考資料
 
-[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink")
-[Category:CNBLUE歌曲](https://zh.wikipedia.org/wiki/Category:CNBLUE歌曲 "wikilink")
+[Category:2011年單曲](https://zh.wikipedia.org/wiki/Category:2011年單曲 "wikilink") [Category:CNBLUE歌曲](https://zh.wikipedia.org/wiki/Category:CNBLUE歌曲 "wikilink")
 
 1.
 

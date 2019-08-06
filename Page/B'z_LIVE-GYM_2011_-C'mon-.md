@@ -1,5 +1,4 @@
-《**B'z LIVE-GYM 2011
--C'mon-**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第14張LIVE作品映像化(第12張DVD)。
+《**B'z LIVE-GYM 2011 -C'mon-**》，是日本樂團[B'z](../Page/B'z.md "wikilink")的第14張LIVE作品映像化(第12張DVD)。
 
 ## 簡介
 
@@ -55,7 +54,4 @@
   - [B'z Official Web Site](http://bz-vermillion.com/)
   - [B'z LIVE-GYM.COM](http://www.bz-livegym.com/)
 
-[Category:B'z影像作品](https://zh.wikipedia.org/wiki/Category:B'z影像作品 "wikilink")
-[Category:在日產體育場舉行的演唱會](https://zh.wikipedia.org/wiki/Category:在日產體育場舉行的演唱會 "wikilink")
-[Category:2008年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2008年巡迴演唱會 "wikilink")
-[Category:2009年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2009年音樂相關影像作品 "wikilink")
+[Category:B'z影像作品](https://zh.wikipedia.org/wiki/Category:B'z影像作品 "wikilink") [Category:在日產體育場舉行的演唱會](https://zh.wikipedia.org/wiki/Category:在日產體育場舉行的演唱會 "wikilink") [Category:2008年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2008年巡迴演唱會 "wikilink") [Category:2009年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2009年音樂相關影像作品 "wikilink")

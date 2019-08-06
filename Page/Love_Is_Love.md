@@ -1,6 +1,4 @@
-《**Love Is
-Love**》（意思：愛就是愛）是[鄭秀文](../Page/鄭秀文.md "wikilink")的第35張個人專輯和第26張粵語專輯，於2013年12月23日發行\[1\]
-\[2\]。
+《**Love Is Love**》（意思：愛就是愛）是[鄭秀文](../Page/鄭秀文.md "wikilink")的第35張個人專輯和第26張粵語專輯，於2013年12月23日發行\[1\] \[2\]。
 
 ## 曲目
 
@@ -45,16 +43,12 @@ Love**》（意思：愛就是愛）是[鄭秀文](../Page/鄭秀文.md "wikilin
 
 ## 銷量情況
 
-  - [CD
-    warehouse](https://zh.wikipedia.org/wiki/CD_warehouse "wikilink")
-    銷量冠軍 (連續第三星期)
+  - [CD warehouse](https://zh.wikipedia.org/wiki/CD_warehouse "wikilink") 銷量冠軍 (連續第三星期)
   - [香港唱片](../Page/香港唱片.md "wikilink") 2013年第51周冠軍 (今周第2位)
   - [HMV](../Page/HMV.md "wikilink")全球榜&亞洲榜銷量冠軍 (連續第三星期)
   - [香港唱片商會](../Page/香港唱片商會.md "wikilink")銷量榜 銷量冠軍 (連續第四星期)
-  - [iTunes熱門專輯No](https://zh.wikipedia.org/wiki/iTunes "wikilink").1
-    (2014年1月) (現時第3位)
-  - [Yesasia所有華語音樂暢銷產品](https://zh.wikipedia.org/wiki/Yesasia "wikilink")7
-    日、30 日、60 日、90 日榜第一名 (2013年12月下旬) (現時30日、60日、90日 第1名)
+  - [iTunes熱門專輯No](https://zh.wikipedia.org/wiki/iTunes "wikilink").1 (2014年1月) (現時第3位)
+  - [Yesasia所有華語音樂暢銷產品](https://zh.wikipedia.org/wiki/Yesasia "wikilink")7 日、30 日、60 日、90 日榜第一名 (2013年12月下旬) (現時30日、60日、90日 第1名)
   - [信诺榜](../Page/信诺榜.md "wikilink") 2014年 第18周 第8位
 
 ## 相關獎項及提名
@@ -72,14 +66,10 @@ Love**》（意思：愛就是愛）是[鄭秀文](../Page/鄭秀文.md "wikilin
 
 ## 外部連結
 
-  - [三十過後一個人住：快樂復刻：鄭秀文《Love is
-    Love》](http://alexxbb.mysinablog.com/index.php?op=ViewArticle&articleId=4769628)
-  - [由信而愛：鄭秀文 LOVE is LOVE
-    專輯](http://alanxavier.wordpress.com/2013/12/28/%E7%94%B1%E4%BF%A1%E8%80%8C%E6%84%9B%EF%BC%9A%E9%84%AD%E7%A7%80%E6%96%87-love-is-love-%E5%B0%88%E8%BC%AF)
+  - [三十過後一個人住：快樂復刻：鄭秀文《Love is Love》](http://alexxbb.mysinablog.com/index.php?op=ViewArticle&articleId=4769628)
+  - [由信而愛：鄭秀文 LOVE is LOVE 專輯](http://alanxavier.wordpress.com/2013/12/28/%E7%94%B1%E4%BF%A1%E8%80%8C%E6%84%9B%EF%BC%9A%E9%84%AD%E7%A7%80%E6%96%87-love-is-love-%E5%B0%88%E8%BC%AF)
 
-[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
+[Category:鄭秀文音樂專輯](https://zh.wikipedia.org/wiki/Category:鄭秀文音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
 
 1.
 2.

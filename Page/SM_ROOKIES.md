@@ -1,15 +1,10 @@
-**SM
-ROOKIES**（）是[SM娛樂](../Page/SM娛樂.md "wikilink")於2013年12月3日推出的共同創造計劃，可以預先看到練習生的Pre-Debut
-Team，讓粉絲們能夠共同參與預備藝人成長以及出道的過程。
+**SM ROOKIES**（）是[SM娛樂](../Page/SM娛樂.md "wikilink")於2013年12月3日推出的共同創造計劃，可以預先看到練習生的Pre-Debut Team，讓粉絲們能夠共同參與預備藝人成長以及出道的過程。
 
 ## 簡介
 
-SM ROOKIES是指新概念預備明星平台，通過官方網站及各種官方渠道持續公開在SM接受訓練而預備出道的Pre-Debut
-Team。\[1\]Pre-Debut Team可以編成各式各樣的組合，通計劃向大眾公開成員的練習過程與日常生活。\[2\]
+SM ROOKIES是指新概念預備明星平台，通過官方網站及各種官方渠道持續公開在SM接受訓練而預備出道的Pre-Debut Team。\[1\]Pre-Debut Team可以編成各式各樣的組合，通計劃向大眾公開成員的練習過程與日常生活。\[2\]
 
-SM ROOKIES通過全新演繹名曲的音源及視頻、演出等進行公開，持續展開音源發布、公演、綜藝節目的活動。\[3\]預備出道練習生會透過SM
-ROOKIES正式公開，沒有被SM ROOKIES公開的練習生會以傳統方式出道。\[4\]2014年，部分女成員以女子組合[Red
-Velvet出道](../Page/Red_Velvet.md "wikilink")。2016年至2019年，男成員分批從此平台畢業，以新概念大型男子組合[NCT](../Page/NCT.md "wikilink")出道。
+SM ROOKIES通過全新演繹名曲的音源及視頻、演出等進行公開，持續展開音源發布、公演、綜藝節目的活動。\[3\]預備出道練習生會透過SM ROOKIES正式公開，沒有被SM ROOKIES公開的練習生會以傳統方式出道。\[4\]2014年，部分女成員以女子組合[Red Velvet出道](../Page/Red_Velvet.md "wikilink")。2016年至2019年，男成員分批從此平台畢業，以新概念大型男子組合[NCT](../Page/NCT.md "wikilink")出道。
 
 ## 成員列表
 
@@ -104,8 +99,7 @@ Velvet出道](../Page/Red_Velvet.md "wikilink")。2016年至2019年，男成員�
 **2017年**
 
   - 韓率
-      - 10月28日起参加KBS偶像选秀节目《[The
-        Unit](../Page/The_Unit.md "wikilink")》，确认离开。
+      - 10月28日起参加KBS偶像选秀节目《[The Unit](../Page/The_Unit.md "wikilink")》，确认离开。
 
 <!-- end list -->
 
@@ -125,12 +119,7 @@ Velvet出道](../Page/Red_Velvet.md "wikilink")。2016年至2019年，男成員�
 
 #### 男成员
 
-{{\#tag:timeline| ImageSize = width:1000 height:auto barincrement:24
-PlotArea = left:50 bottom:75 top:10 right:10 Alignbars = justify
-DateFormat = mm/dd/yyyy Period = from:12/04/2013 till:01/01/2020
-TimeAxis = orientation:horizontal format:yyyy Legend =
-orientation:vertical position:bottom columns:3 ScaleMajor =increment:1
-start:2014 ScaleMinor =unit:month increment:1 start:2014
+{{\#tag:timeline| ImageSize = width:1000 height:auto barincrement:24 PlotArea = left:50 bottom:75 top:10 right:10 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:12/04/2013 till:01/01/2020 TimeAxis = orientation:horizontal format:yyyy Legend = orientation:vertical position:bottom columns:3 ScaleMajor =increment:1 start:2014 ScaleMinor =unit:month increment:1 start:2014
 
 Colors =
 
@@ -192,12 +181,7 @@ BackgroundColors = bars:bars
 
 #### 女成员
 
-{{\#tag:timeline| ImageSize = width:1000 height:auto barincrement:24
-PlotArea = left:50 bottom:75 top:10 right:10 Alignbars = justify
-DateFormat = mm/dd/yyyy Period = from:12/04/2013 till:01/01/2020
-TimeAxis = orientation:horizontal format:yyyy Legend =
-orientation:vertical position:bottom columns:3 ScaleMajor =increment:1
-start:2014 ScaleMinor =unit:month increment:1 start:2014
+{{\#tag:timeline| ImageSize = width:1000 height:auto barincrement:24 PlotArea = left:50 bottom:75 top:10 right:10 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:12/04/2013 till:01/01/2020 TimeAxis = orientation:horizontal format:yyyy Legend = orientation:vertical position:bottom columns:3 ScaleMajor =increment:1 start:2014 ScaleMinor =unit:month increment:1 start:2014
 
 Colors =
 
@@ -377,8 +361,7 @@ BackgroundColors = bars:bars
 | Disney Channel | The Mickey Mouse Club                                 | 高恩、Mark、Hina、Jeno、東赫、渽民、志晟、Herin、Lami                   |                                           |
 | 2016年          | [優酷](https://zh.wikipedia.org/wiki/优酷网 "wikilink")    | [My SMT](../Page/My_SMT.md "wikilink")                  | Johnny、藝洋、高恩、Hina、寧寧                      |
 
-影片請看：[EXO 902014
-MV](https://www.youtube.com/playlist?list=PLodoZuJm1S5i4nHwwka91UITIgxRVOH6N)
+影片請看：[EXO 902014 MV](https://www.youtube.com/playlist?list=PLodoZuJm1S5i4nHwwka91UITIgxRVOH6N)
 
 <table>
 <tbody>
@@ -639,16 +622,10 @@ Shinhwa - Yo!</p></td>
   -
 [分類:SM娛樂](https://zh.wikipedia.org/wiki/分類:SM娛樂 "wikilink")
 
-1.  [SM, 프리데뷔팀 ‘SMROOKIES(에스엠루키즈)’
-    런칭\!\!](http://smtown.com/Link/Board/3720489) 2013/12/03 -
-    SMTOWN官方報導
-2.  [SM，推出Pre-Debut
-    Team‘SMROOKIES’！](http://smtown.com/Link/Board/3765411)
-    2013/12/04 - SMTOWN官方報導
-3.  [SM 介紹預備出道的練習生](http://kpopn.com/2013/12/03/202105/)2013/12/03 -
-    Kpopn的Jessica 翻譯撰寫 報導
-4.  [SM娛樂預告將推出新的團體「SMROOKIES」圭賢曾提及的瑟琪也在內](http://www.koreastardaily.com/tc/news/35070)2013/12/03
-    - 韓星網的Hebe 報導
+1.  [SM, 프리데뷔팀 ‘SMROOKIES(에스엠루키즈)’ 런칭\!\!](http://smtown.com/Link/Board/3720489) 2013/12/03 - SMTOWN官方報導
+2.  [SM，推出Pre-Debut Team‘SMROOKIES’！](http://smtown.com/Link/Board/3765411) 2013/12/04 - SMTOWN官方報導
+3.  [SM 介紹預備出道的練習生](http://kpopn.com/2013/12/03/202105/)2013/12/03 - Kpopn的Jessica 翻譯撰寫 報導
+4.  [SM娛樂預告將推出新的團體「SMROOKIES」圭賢曾提及的瑟琪也在內](http://www.koreastardaily.com/tc/news/35070)2013/12/03 - 韓星網的Hebe 報導
 5.
 6.
 7.

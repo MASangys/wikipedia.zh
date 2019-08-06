@@ -1,6 +1,4 @@
-《**ayumi hamasaki COUNTDOWN LIVE 2007-2008 Anniversary**》（濱崎步 2007-2008
-跨年演唱會
-Anniversary）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2007年12月30日、31日在國立代代木競技場第一體育館舉行跨年演唱會，2008年6月18日發行DVD。
+《**ayumi hamasaki COUNTDOWN LIVE 2007-2008 Anniversary**》（濱崎步 2007-2008 跨年演唱會 Anniversary）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2007年12月30日、31日在國立代代木競技場第一體育館舉行跨年演唱會，2008年6月18日發行DVD。
 
 ## 說明
 
@@ -11,17 +9,14 @@ Anniversary）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2007
 ## 曲目
 
 1.  [starting over](../Page/Duty.md "wikilink")
-2.  [talkin' 2
-    myself](https://zh.wikipedia.org/wiki/talkin'_2_myself "wikilink")
-3.  [STEP
-    you](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")
+2.  [talkin' 2 myself](https://zh.wikipedia.org/wiki/talkin'_2_myself "wikilink")
+3.  [STEP you](https://zh.wikipedia.org/wiki/STEP_you/is_this_LOVE? "wikilink")
 4.  [Ladies Night](../Page/\(miss\)understood.md "wikilink")
 5.  [fated](https://zh.wikipedia.org/wiki/glitter/fated "wikilink")
 6.  [Together When...](../Page/Together_When....md "wikilink")
 7.  [decision](https://zh.wikipedia.org/wiki/talkin'_2_myself "wikilink")
 8.  [SURREAL](../Page/SURREAL.md "wikilink")
-9.  [Bold &
-    Delicious](https://zh.wikipedia.org/wiki/Bold_&_Delicious/Pride "wikilink")
+9.  [Bold & Delicious](https://zh.wikipedia.org/wiki/Bold_&_Delicious/Pride "wikilink")
 10. [RAINBOW](../Page/A_BALLADS.md "wikilink")
 11. [evolution](https://zh.wikipedia.org/wiki/evolution_\(濱崎步單曲\) "wikilink")
 12. [Boys & Girls](../Page/Boys_&_Girls.md "wikilink")
@@ -44,5 +39,4 @@ Anniversary）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2007
 
 </small>
 
-[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink")
-[Category:2008年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2008年音樂相關影像作品 "wikilink")
+[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink") [Category:2008年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2008年音樂相關影像作品 "wikilink")

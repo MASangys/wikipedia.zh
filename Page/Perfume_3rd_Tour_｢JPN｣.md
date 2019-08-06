@@ -1,14 +1,10 @@
-**Perfume 3rd
-Tour　｢JPN｣**是[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第](https://zh.wikipedia.org/wiki/Perfume "wikilink")6張演唱會[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（CD附属的DVD除外）。
+**Perfume 3rd Tour　｢JPN｣**是[流行電音組合](https://zh.wikipedia.org/wiki/流行電音 "wikilink")[Perfume第](https://zh.wikipedia.org/wiki/Perfume "wikilink")6張演唱會[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")（CD附属的DVD除外）。
 
 ## 概要
 
-DVD收錄了2012年4月1日在廣島Green Arena進行的『Perfume 3rd
-Tour　「JPN｣』演唱會第二日的影像。這次巡迴演出期間為2012年1月14日-5月26日，共在全國13個城市舉行了21場公演。
+DVD收錄了2012年4月1日在廣島Green Arena進行的『Perfume 3rd Tour　「JPN｣』演唱會第二日的影像。這次巡迴演出期間為2012年1月14日-5月26日，共在全國13個城市舉行了21場公演。
 
-DISC1收錄了全場的曲目，DISC2則收錄了在埼玉Super
-Arena演唱會的Encore影像、『SPICE』的多角度拍攝版本、『時針』的以三位成員角度拍攝的不同版本、將當地觀眾分組的對話及[日本武道館](../Page/日本武道館.md "wikilink")追加公演中的『Spring
-of Life』和『Communication』。
+DISC1收錄了全場的曲目，DISC2則收錄了在埼玉Super Arena演唱會的Encore影像、『SPICE』的多角度拍攝版本、『時針』的以三位成員角度拍攝的不同版本、將當地觀眾分組的對話及[日本武道館](../Page/日本武道館.md "wikilink")追加公演中的『Spring of Life』和『Communication』。
 
 發售首週以7.7萬張的銷量登上Oricon綜合DVD週榜第一位，並蟬聯雙週冠軍，同時也是首次有女性組合連續5作登上第一位，這是自[宇多田光](../Page/宇多田光.md "wikilink")的『traveling』，相隔10年零6個月再有女藝人得到這記錄\[1\]。
 
@@ -60,10 +56,7 @@ of Life』和『Communication』。
 ## 外部連結
 
   -
-[Category:Perfume](https://zh.wikipedia.org/wiki/Category:Perfume "wikilink")
-[Category:2012年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2012年音樂相關影像作品 "wikilink")
+[Category:Perfume](https://zh.wikipedia.org/wiki/Category:Perfume "wikilink") [Category:2012年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2012年音樂相關影像作品 "wikilink")
 
-1.  <http://news.searchina.ne.jp/disp.cgi?y=2012&d=0808&f=entertainment_0808_002.shtml>
-    Ｐｅｒｆｕｍｅ女性グループ史上初のＤＶＤ販売５作連続１位\] サーチナ 2012年8月8日
-2.  專輯『[Perfume～Complete
-    Best～](../Page/Perfume～Complete_Best～.md "wikilink")』的版本。
+1.  <http://news.searchina.ne.jp/disp.cgi?y=2012&d=0808&f=entertainment_0808_002.shtml> Ｐｅｒｆｕｍｅ女性グループ史上初のＤＶＤ販売５作連続１位\] サーチナ 2012年8月8日
+2.  專輯『[Perfume～Complete Best～](../Page/Perfume～Complete_Best～.md "wikilink")』的版本。

@@ -1,13 +1,8 @@
-[缩略图](https://zh.wikipedia.org/wiki/File:Dojima_Axis_Building.JPG "fig:缩略图")
-**Natsume**，原名，與株式會社雅達利合併後現名為（，是一家日本[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")、[手機遊戲開發和發行公司](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，创建於1987年10月20日總部位於[東京都](../Page/東京都.md "wikilink")[新宿区](https://zh.wikipedia.org/wiki/新宿区 "wikilink")[高田馬場](../Page/高田馬場.md "wikilink")2-14-9明芳大樓3樓，現在位於大阪府。其[美國分部仍繼承Natsume這個名稱](https://zh.wikipedia.org/wiki/美國 "wikilink")，全稱為Natsume有限公司（Natsume
-Inc.），現位於[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[伯靈格姆](https://zh.wikipedia.org/wiki/伯靈格姆_\(加利福尼亞州\) "wikilink")\[1\]
-。
+[缩略图](https://zh.wikipedia.org/wiki/File:Dojima_Axis_Building.JPG "fig:缩略图") **Natsume**，原名，與株式會社雅達利合併後現名為（，是一家日本[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")、[手機遊戲開發和發行公司](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，创建於1987年10月20日總部位於[東京都](../Page/東京都.md "wikilink")[新宿区](https://zh.wikipedia.org/wiki/新宿区 "wikilink")[高田馬場](../Page/高田馬場.md "wikilink")2-14-9明芳大樓3樓，現在位於大阪府。其[美國分部仍繼承Natsume這個名稱](https://zh.wikipedia.org/wiki/美國 "wikilink")，全稱為Natsume有限公司（Natsume Inc.），現位於[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[伯靈格姆](https://zh.wikipedia.org/wiki/伯靈格姆_\(加利福尼亞州\) "wikilink")\[1\] 。
 
-在[FC和](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")[SFC時代](https://zh.wikipedia.org/wiki/SFC "wikilink")，Natsume發行了數款知名動作遊戲，如《[S.C.A.T.](https://zh.wikipedia.org/wiki/S.C.A.T.:_Special_Cybernetic_Attack_Team "wikilink")》、《[Wild
-Guns](https://zh.wikipedia.org/wiki/Wild_Guns "wikilink")》和《[赤影戰士](https://zh.wikipedia.org/wiki/赤影戰士 "wikilink")》。
+在[FC和](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")[SFC時代](https://zh.wikipedia.org/wiki/SFC "wikilink")，Natsume發行了數款知名動作遊戲，如《[S.C.A.T.](https://zh.wikipedia.org/wiki/S.C.A.T.:_Special_Cybernetic_Attack_Team "wikilink")》、《[Wild Guns](https://zh.wikipedia.org/wiki/Wild_Guns "wikilink")》和《[赤影戰士](https://zh.wikipedia.org/wiki/赤影戰士 "wikilink")》。
 
-之後，Natsume在[北美發行了由](https://zh.wikipedia.org/wiki/北美 "wikilink")[Marvelous
-Interactive製作的](https://zh.wikipedia.org/wiki/Marvelous_Interactive "wikilink")《[牧場物語](https://zh.wikipedia.org/wiki/牧場物語系列 "wikilink")》系列。
+之後，Natsume在[北美發行了由](https://zh.wikipedia.org/wiki/北美 "wikilink")[Marvelous Interactive製作的](https://zh.wikipedia.org/wiki/Marvelous_Interactive "wikilink")《[牧場物語](https://zh.wikipedia.org/wiki/牧場物語系列 "wikilink")》系列。
 
 ## 遊戲
 
@@ -53,12 +48,7 @@ Interactive製作的](https://zh.wikipedia.org/wiki/Marvelous_Interactive "wikil
 
 ## 註釋
 
-[Category:1987年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1987年開業電子遊戲公司 "wikilink")
-[Category:手机游戏公司](https://zh.wikipedia.org/wiki/Category:手机游戏公司 "wikilink")
-[Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:1987年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1987年開業電子遊戲公司 "wikilink") [Category:手机游戏公司](https://zh.wikipedia.org/wiki/Category:手机游戏公司 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 
 1.
 2.

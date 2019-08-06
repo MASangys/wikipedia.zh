@@ -2,24 +2,18 @@
 
 ## 概要
 
-P族系列引擎均由[雙頂置凸輪軸控制](https://zh.wikipedia.org/wiki/頂置凸輪軸#雙頂置凸輪軸（DOHC） "wikilink")16汽門，其高壓縮比超越一般自然進氣汽油引擎，並採用DISI缸內直噴技術（Direct
-Injection Spark
-Ignition之縮寫），曾獲得2012年度[華德十大最佳汽車引擎](../Page/華德十大最佳汽車引擎.md "wikilink")（Ward's
-10 Best Engines）。高壓縮比的原因，來自進氣門正時調節電機、深凹坑的凸頂活塞以及特殊4-2-1排氣歧管等元件\[1\]。
+P族系列引擎均由[雙頂置凸輪軸控制](https://zh.wikipedia.org/wiki/頂置凸輪軸#雙頂置凸輪軸（DOHC） "wikilink")16汽門，其高壓縮比超越一般自然進氣汽油引擎，並採用DISI缸內直噴技術（Direct Injection Spark Ignition之縮寫），曾獲得2012年度[華德十大最佳汽車引擎](../Page/華德十大最佳汽車引擎.md "wikilink")（Ward's 10 Best Engines）。高壓縮比的原因，來自進氣門正時調節電機、深凹坑的凸頂活塞以及特殊4-2-1排氣歧管等元件\[1\]。
 
 ## 1.3L（P3-VPS型）
 
-排氣量1,298c.c.的**P3-VPS型**引擎之缸徑為71.0mm、衝程82.0mm，壓縮比14.0:1。採用直列四缸、[DOHC](https://zh.wikipedia.org/wiki/頂置凸輪軸#雙頂置凸輪軸（DOHC） "wikilink")、16閥門之設計，最大馬力為84ps
-/ 5,400rpm、扭力峰值為11.4kg・m / 4,000rpm。2014年重新調校後，最大馬力92ps /
-6,000rpm、扭力峰值12.3kg・m / 4,000rpm。車型：
+排氣量1,298c.c.的**P3-VPS型**引擎之缸徑為71.0mm、衝程82.0mm，壓縮比14.0:1。採用直列四缸、[DOHC](https://zh.wikipedia.org/wiki/頂置凸輪軸#雙頂置凸輪軸（DOHC） "wikilink")、16閥門之設計，最大馬力為84ps / 5,400rpm、扭力峰值為11.4kg・m / 4,000rpm。2014年重新調校後，最大馬力92ps / 6,000rpm、扭力峰值12.3kg・m / 4,000rpm。車型：
 
 1.  2011年至2014年：[第三代馬自達2 / Demio](../Page/馬自達2.md "wikilink")（日本）
 2.  2014年迄今：[第四代馬自達2 / Demio](../Page/馬自達2.md "wikilink")（日本）
 
 ## 1.5L（P5-VP（RS）型）
 
-排氣量1,496c.c.的P5-VP\[RS\]型，缸徑74.5mm、衝程85.8mm，壓縮比13.0：1。採取直列四缸DOHC、16閥門之佈局，最大馬力131ps
-/ 7,000rpm、扭力峰值15.3kgf·m / 4,800rpm。車型：
+排氣量1,496c.c.的P5-VP\[RS\]型，缸徑74.5mm、衝程85.8mm，壓縮比13.0：1。採取直列四缸DOHC、16閥門之佈局，最大馬力131ps / 7,000rpm、扭力峰值15.3kgf·m / 4,800rpm。車型：
 
 1.  2015年迄今：[第四代馬自達MX-5](https://zh.wikipedia.org/wiki/馬自達MX-5#第四代ND系（2015年迄今） "wikilink")
 
@@ -43,9 +37,7 @@ P5-VPR\[RS\]型的所有參數與P5-VP\[RS\]型相同，兩者之差異在於前
 
 ## 2.0L（PE-VPS型）
 
-[2012_Mazda3_Skyactiv_engine.jpg](https://zh.wikipedia.org/wiki/File:2012_Mazda3_Skyactiv_engine.jpg "fig:2012_Mazda3_Skyactiv_engine.jpg")
-此具引擎排氣量1,998c.c.，缸徑83.5mm、衝程91.2mm，壓縮比13.0:1，採DOHC、16氣門之設計，並搭配[Dual
-S-VT雙可變氣門正時技術](../Page/S-VT可變氣門正時.md "wikilink")，排氣管的配置也由傳統的4-1改為4-2-1。。根據不同辛烷值的汽油，馬力輸出區分成：
+[2012_Mazda3_Skyactiv_engine.jpg](https://zh.wikipedia.org/wiki/File:2012_Mazda3_Skyactiv_engine.jpg "fig:2012_Mazda3_Skyactiv_engine.jpg") 此具引擎排氣量1,998c.c.，缸徑83.5mm、衝程91.2mm，壓縮比13.0:1，採DOHC、16氣門之設計，並搭配[Dual S-VT雙可變氣門正時技術](../Page/S-VT可變氣門正時.md "wikilink")，排氣管的配置也由傳統的4-1改為4-2-1。。根據不同辛烷值的汽油，馬力輸出區分成：
 
   - 辛烷值RON95：最大馬力165ps / 6,000rpm、最大扭力21.4kgf·m / 4,000rpm。
   - 辛烷值RON91：最大馬力155ps / 6,000rpm、最大扭力20.0kgf·m / 4,000rpm。
@@ -59,8 +51,7 @@ S-VT雙可變氣門正時技術](../Page/S-VT可變氣門正時.md "wikilink")�
 3.  2013年迄今：[第三代馬自達3](../Page/馬自達3.md "wikilink")
 4.  2012年-2016年：[第一代馬自達CX-5](../Page/馬自達CX-5.md "wikilink")
 5.  2012年迄今：[第三代馬自達6](../Page/馬自達6.md "wikilink")
-6.  2013年迄今：[第三代馬自達5(日本小改版後)](../Page/馬自達5.md "wikilink") / 日產Lafesta
-    Highway Star
+6.  2013年迄今：[第三代馬自達5(日本小改版後)](../Page/馬自達5.md "wikilink") / 日產Lafesta Highway Star
 7.  2015年迄今：[第一代馬自達CX-3](../Page/馬自達CX-3.md "wikilink")
 8.  2015年迄今：[第四代馬自達MX-5](../Page/馬自達MX-5.md "wikilink")
 9.  2016年迄今：[第一代馬自達CX-4](../Page/馬自達CX-4.md "wikilink")（[中國](../Page/中國.md "wikilink")）
@@ -81,20 +72,13 @@ S-VT雙可變氣門正時技術](../Page/S-VT可變氣門正時.md "wikilink")�
 
 ## 2.0L（PE-VPH型）
 
-[Mazda_SKYACTIV_HYBRID.jpg](https://zh.wikipedia.org/wiki/File:Mazda_SKYACTIV_HYBRID.jpg "fig:Mazda_SKYACTIV_HYBRID.jpg")
-**PE-VPH型**之排氣量為1,998c.c.，採直列四缸、[DOHC](https://zh.wikipedia.org/wiki/頂置凸輪軸#雙頂置凸輪軸（DOHC） "wikilink")、16閥門之設計，缸徑83.5mm，衝程91.2mm，壓縮比為14.0:1。最大馬力達99ps
-/ 5,200rpm，扭力峰值為14.5kgf·m / 4,000rpm。車型：
+[Mazda_SKYACTIV_HYBRID.jpg](https://zh.wikipedia.org/wiki/File:Mazda_SKYACTIV_HYBRID.jpg "fig:Mazda_SKYACTIV_HYBRID.jpg") **PE-VPH型**之排氣量為1,998c.c.，採直列四缸、[DOHC](https://zh.wikipedia.org/wiki/頂置凸輪軸#雙頂置凸輪軸（DOHC） "wikilink")、16閥門之設計，缸徑83.5mm，衝程91.2mm，壓縮比為14.0:1。最大馬力達99ps / 5,200rpm，扭力峰值為14.5kgf·m / 4,000rpm。車型：
 
 1.  2013年迄今：[馬自達3 Hybrid](../Page/馬自達3.md "wikilink")
 
 ## 2.5L（PY-VPR型）
 
-排氣量2,488c.c.的**PY-VPR型**引擎之缸徑為89.0mm、衝程100.0mm，壓縮比13.0:1。採用直列四缸、[DOHC](https://zh.wikipedia.org/wiki/頂置凸輪軸#雙頂置凸輪軸（DOHC） "wikilink")、16閥門之設計，具[Dual
-S-VT雙可變氣門正時技術](../Page/S-VT可變氣門正時.md "wikilink")。最大馬力188ps /
-5,700rpm、最大扭力25.5kg·m /
-3,250rpm。2017年11月原廠除了降低汽缸內部的阻力，且可在25-50mph的時速間切換成僅靠二汽缸輸出動力。其原理是油壓頂筒單純負責維持汽門間隙，並新設油壓汽門間隙調節器（hydraulic
-lash
-adjuster，縮寫成HLA）。當HLA移開時就讓油壓頂筒處於類似避震器「低阻尼」的狀態，使得搖臂向頂筒方向施力而中斷汽門開啟，如此就能開啟雙缸運轉的模式。原先具備更高的燃油供應壓力以提供霧化混合油氣的效果，後來追加多次噴油功能，特別是在活塞上行開始壓縮時，會再追加一次噴油，大幅提升燃燒效率。
+排氣量2,488c.c.的**PY-VPR型**引擎之缸徑為89.0mm、衝程100.0mm，壓縮比13.0:1。採用直列四缸、[DOHC](https://zh.wikipedia.org/wiki/頂置凸輪軸#雙頂置凸輪軸（DOHC） "wikilink")、16閥門之設計，具[Dual S-VT雙可變氣門正時技術](../Page/S-VT可變氣門正時.md "wikilink")。最大馬力188ps / 5,700rpm、最大扭力25.5kg·m / 3,250rpm。2017年11月原廠除了降低汽缸內部的阻力，且可在25-50mph的時速間切換成僅靠二汽缸輸出動力。其原理是油壓頂筒單純負責維持汽門間隙，並新設油壓汽門間隙調節器（hydraulic lash adjuster，縮寫成HLA）。當HLA移開時就讓油壓頂筒處於類似避震器「低阻尼」的狀態，使得搖臂向頂筒方向施力而中斷汽門開啟，如此就能開啟雙缸運轉的模式。原先具備更高的燃油供應壓力以提供霧化混合油氣的效果，後來追加多次噴油功能，特別是在活塞上行開始壓縮時，會再追加一次噴油，大幅提升燃燒效率。
 
 車型：
 
@@ -117,11 +101,7 @@ adjuster，縮寫成HLA）。當HLA移開時就讓油壓頂筒處於類似避震
 
 ## 2.5L（PY-VPTS型）
 
-一般原廠對外宣稱為「SKYACTIV-G
-2.5T」。排氣量2,488c.c.，缸徑是89.0mm，衝程是100.0mm，壓縮比10.5:1。採用直列四缸、[DOHC](https://zh.wikipedia.org/wiki/頂置凸輪軸#雙頂置凸輪軸（DOHC） "wikilink")、16閥門、[缸內直噴](https://zh.wikipedia.org/wiki/汽油缸内直喷 "wikilink")、VVT[可變氣門正時之設計](https://zh.wikipedia.org/wiki/可變氣門正時 "wikilink")。使用93無鉛汽油可輸出最大馬力250hp
-/ 5,000rpm，扭力峰值310lb-ft / 2,000rpm；若使用87無鉛汽油則馬力下降至227hp /
-5,000rpm\[2\]。其特殊之處在於排氣歧管分成兩個通路進入[渦輪增壓器](../Page/渦輪增壓器.md "wikilink")，口徑較大的具有流量控制截止閥，口徑較小的則無。當引擎轉速低於1,620rpm時閥門關閉，使得排氣通過小口徑歧管的速度增快、壓力增大。受到「噴射器效果（ejector
-effect）」的原理影響，超短的4-3-1設計之歧管使被壓縮的油氣在排氣閥門剛打開時高速流出，並幫助吸出相鄰歧管內的殘存廢氣。此外，原廠導引部分排出氣體通過中冷器，冷卻後的[EGR再回到進氣側](../Page/排氣再循環.md "wikilink")，如此一來降低進氣溫度與創造理想空燃比\[3\]。
+一般原廠對外宣稱為「SKYACTIV-G 2.5T」。排氣量2,488c.c.，缸徑是89.0mm，衝程是100.0mm，壓縮比10.5:1。採用直列四缸、[DOHC](https://zh.wikipedia.org/wiki/頂置凸輪軸#雙頂置凸輪軸（DOHC） "wikilink")、16閥門、[缸內直噴](https://zh.wikipedia.org/wiki/汽油缸内直喷 "wikilink")、VVT[可變氣門正時之設計](https://zh.wikipedia.org/wiki/可變氣門正時 "wikilink")。使用93無鉛汽油可輸出最大馬力250hp / 5,000rpm，扭力峰值310lb-ft / 2,000rpm；若使用87無鉛汽油則馬力下降至227hp / 5,000rpm\[2\]。其特殊之處在於排氣歧管分成兩個通路進入[渦輪增壓器](../Page/渦輪增壓器.md "wikilink")，口徑較大的具有流量控制截止閥，口徑較小的則無。當引擎轉速低於1,620rpm時閥門關閉，使得排氣通過小口徑歧管的速度增快、壓力增大。受到「噴射器效果（ejector effect）」的原理影響，超短的4-3-1設計之歧管使被壓縮的油氣在排氣閥門剛打開時高速流出，並幫助吸出相鄰歧管內的殘存廢氣。此外，原廠導引部分排出氣體通過中冷器，冷卻後的[EGR再回到進氣側](../Page/排氣再循環.md "wikilink")，如此一來降低進氣溫度與創造理想空燃比\[3\]。
 
 車型：
 
@@ -151,11 +131,8 @@ effect）」的原理影響，超短的4-3-1設計之歧管使被壓縮的油氣
 
   - [馬自達引擎代號一覽表](https://web.archive.org/web/20090621053906/http://www.chargespeed.com/english/d-mazda-e1.htm)
 
-[Category:直列四缸引擎](https://zh.wikipedia.org/wiki/Category:直列四缸引擎 "wikilink")
-[Category:馬自達引擎與技術](https://zh.wikipedia.org/wiki/Category:馬自達引擎與技術 "wikilink")
+[Category:直列四缸引擎](https://zh.wikipedia.org/wiki/Category:直列四缸引擎 "wikilink") [Category:馬自達引擎與技術](https://zh.wikipedia.org/wiki/Category:馬自達引擎與技術 "wikilink")
 
 1.  參看[汽車之家：高壓縮比的秘密，拆創馳藍天2.0L發動機](http://www.autohome.com.cn/tech/201410/846663-all.html?pvareaid=101380)。
-2.  [Mazda USA: 2018 Mazda 6 Sports Sedan - Specs &
-    Features](https://www.mazdausa.com/vehicles/mazda6/specs)。
-3.  [MotorTrend: Why the CX-9 Doesn’t Offer Engine Stop-Start, and
-    More](http://www.motortrend.com/news/turbo-tech-2016-mazda-cx-9-taking-closer-look/)。
+2.  [Mazda USA: 2018 Mazda 6 Sports Sedan - Specs & Features](https://www.mazdausa.com/vehicles/mazda6/specs)。
+3.  [MotorTrend: Why the CX-9 Doesn’t Offer Engine Stop-Start, and More](http://www.motortrend.com/news/turbo-tech-2016-mazda-cx-9-taking-closer-look/)。

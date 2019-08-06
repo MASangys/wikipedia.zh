@@ -1,12 +1,9 @@
-《**The Soul Extreme EP
-II**》為[日本](../Page/日本.md "wikilink")歌手[福原美穗](../Page/福原美穗.md "wikilink")於2011年10月12日發行之第3張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
+《**The Soul Extreme EP II**》為[日本](../Page/日本.md "wikilink")歌手[福原美穗](../Page/福原美穗.md "wikilink")於2011年10月12日發行之第3張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。
 
 ## 解說
 
-  - 標題延續上一張的主題《[The Soul Extreme
-    EP](../Page/The_Soul_Extreme_EP.md "wikilink") 》。
-  - 初回限定版收錄〈[O2 featuring AI](../Page/The_Soul_Extreme_EP.md "wikilink")
-    〉的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")及錄音時的影像。
+  - 標題延續上一張的主題《[The Soul Extreme EP](../Page/The_Soul_Extreme_EP.md "wikilink") 》。
+  - 初回限定版收錄〈[O2 featuring AI](../Page/The_Soul_Extreme_EP.md "wikilink") 〉的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")及錄音時的影像。
 
 ## 發行版本
 
@@ -45,5 +42,4 @@ II**》為[日本](../Page/日本.md "wikilink")歌手[福原美穗](../Page/福
 
 ## 外部連結
 
-[Category:2011年迷你專輯](https://zh.wikipedia.org/wiki/Category:2011年迷你專輯 "wikilink")
-[Category:Sony_Music_Records音樂專輯](https://zh.wikipedia.org/wiki/Category:Sony_Music_Records音樂專輯 "wikilink")
+[Category:2011年迷你專輯](https://zh.wikipedia.org/wiki/Category:2011年迷你專輯 "wikilink") [Category:Sony_Music_Records音樂專輯](https://zh.wikipedia.org/wiki/Category:Sony_Music_Records音樂專輯 "wikilink")

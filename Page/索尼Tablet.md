@@ -1,20 +1,13 @@
-**Sony
-Tablet**是[索尼](../Page/索尼.md "wikilink")旗下的[平板電腦](../Page/平板電腦.md "wikilink")品牌，搭載[Android](../Page/Android.md "wikilink")作業系統。\[1\]\[2\]
+**Sony Tablet**是[索尼](../Page/索尼.md "wikilink")旗下的[平板電腦](../Page/平板電腦.md "wikilink")品牌，搭載[Android](../Page/Android.md "wikilink")作業系統。\[1\]\[2\]
 
 ## 歷史
 
-2011年4月26日，索尼宣布開發兩款平板電腦，分別為[S1（Tablet
-S）和](../Page/Sony_Tablet_S.md "wikilink")[S2（Tablet
-P）](../Page/Sony_Tablet_P.md "wikilink")。\[3\]\[4\]
+2011年4月26日，索尼宣布開發兩款平板電腦，分別為[S1（Tablet S）和](../Page/Sony_Tablet_S.md "wikilink")[S2（Tablet P）](../Page/Sony_Tablet_P.md "wikilink")。\[3\]\[4\]
 
 ## 產品
 
-  - [Sony Tablet
-    S](../Page/Sony_Tablet_S.md "wikilink")：索尼首部平板電腦，採用獨特的不對稱、上厚下輕的設計，設計符合[人體工學](https://zh.wikipedia.org/wiki/人體工學 "wikilink")，採用Android
-    3.2。
-  - [Sony Tablet
-    P](../Page/Sony_Tablet_P.md "wikilink")：索尼發佈的一款對摺式雙觸控屏幕顯示的平板電腦，外形與[NDS相似](https://zh.wikipedia.org/wiki/NDS "wikilink")，採用Android
-    3.2。
+  - [Sony Tablet S](../Page/Sony_Tablet_S.md "wikilink")：索尼首部平板電腦，採用獨特的不對稱、上厚下輕的設計，設計符合[人體工學](https://zh.wikipedia.org/wiki/人體工學 "wikilink")，採用Android 3.2。
+  - [Sony Tablet P](../Page/Sony_Tablet_P.md "wikilink")：索尼發佈的一款對摺式雙觸控屏幕顯示的平板電腦，外形與[NDS相似](https://zh.wikipedia.org/wiki/NDS "wikilink")，採用Android 3.2。
 
 ## 規格列表
 
@@ -65,9 +58,7 @@ P）](../Page/Sony_Tablet_P.md "wikilink")。\[3\]\[4\]
 
 ## 參考資料
 
-[Category:索尼移動通信](https://zh.wikipedia.org/wiki/Category:索尼移動通信 "wikilink")
-[Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink")
-[Category:2011年面世的產品](https://zh.wikipedia.org/wiki/Category:2011年面世的產品 "wikilink")
+[Category:索尼移動通信](https://zh.wikipedia.org/wiki/Category:索尼移動通信 "wikilink") [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink") [Category:2011年面世的產品](https://zh.wikipedia.org/wiki/Category:2011年面世的產品 "wikilink")
 
 1.
 2.

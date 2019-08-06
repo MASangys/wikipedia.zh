@@ -6,7 +6,6 @@
 
 ## 参考资料
 
-[Category:镍氰酸盐](https://zh.wikipedia.org/wiki/Category:镍氰酸盐 "wikilink")
-[Category:钾化合物](https://zh.wikipedia.org/wiki/Category:钾化合物 "wikilink")
+[Category:镍氰酸盐](https://zh.wikipedia.org/wiki/Category:镍氰酸盐 "wikilink") [Category:钾化合物](https://zh.wikipedia.org/wiki/Category:钾化合物 "wikilink")
 
 1.  《无机化学丛书》.第九卷 锰分族 铁系 铂系. 科学出版社. P<sub>281</sub>. 3. 络合氰化物和异腈化物

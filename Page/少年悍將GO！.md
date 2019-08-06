@@ -1,5 +1,4 @@
-《**少年悍將GO！**》（）是2013年美國卡通頻道和華納（Warner
-Bros.）製作的卡通電視節目。也是DC系列《[少年悍將](https://zh.wikipedia.org/wiki/少年悍將 "wikilink")》漫畫的改編卡通，跟前作不同點在於，本作畫法以萌系畫風呈現，更大的特點是它著重在喜劇效果上，沒有前作的黑暗、嚴肅氣氛，劇中多圍繞在少年悍將們沒有大人陪同、拯救世界的閒暇之餘的平時生活\[1\]。本作最大的看點是製作組將許多[DC漫畫](../Page/DC漫畫.md "wikilink")的人物做為背景角色呈現。本作含有許多諷刺現實之內容。
+《**少年悍將GO！**》（）是2013年美國卡通頻道和華納（Warner Bros.）製作的卡通電視節目。也是DC系列《[少年悍將](https://zh.wikipedia.org/wiki/少年悍將 "wikilink")》漫畫的改編卡通，跟前作不同點在於，本作畫法以萌系畫風呈現，更大的特點是它著重在喜劇效果上，沒有前作的黑暗、嚴肅氣氛，劇中多圍繞在少年悍將們沒有大人陪同、拯救世界的閒暇之餘的平時生活\[1\]。本作最大的看點是製作組將許多[DC漫畫](../Page/DC漫畫.md "wikilink")的人物做為背景角色呈現。本作含有許多諷刺現實之內容。
 
 台灣的[卡通頻道](../Page/卡通頻道.md "wikilink")於2014年1月6日首播，香港則於年內在TVB即將播出（但香港方面仍然未證實播放日期）。
 
@@ -19,45 +18,35 @@ Bros.）製作的卡通電視節目。也是DC系列《[少年悍將](https://zh
 ### 主要角色
 
   - [羅賓（迪克·格雷森）](../Page/迪克·格雷森.md "wikilink")（Robin）
-    配音：美國→[史考特·門維爾](https://zh.wikipedia.org/wiki/史考特·門維爾 "wikilink")
-    台灣→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
+    配音：美國→[史考特·門維爾](https://zh.wikipedia.org/wiki/史考特·門維爾 "wikilink") 台灣→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
     本名：迪克·格雷森（Dick Grayson）
     少年悍將的隊長，也是蝙蝠俠的繼長子和第一任跟班，未來第四任羅賓[達米安·韋恩](../Page/達米安·韋恩.md "wikilink")的繼哥，完美主義者和控制狂，因為自己沒有超能力所以常常自卑。有一雙如嬰兒般的小手手，時常被其他人嘲笑。不願公開自己面罩下的真面目，面罩拿下後是一個可愛的正太臉，但其中一眼住著寄生兄弟。睡覺時為了矯正牙齒會帶著牙套。戰鬥時會用許多不同的武器。規定星期一出任務時必須騎摩托車(隊伍裡只有他有)，其實是只想給自己表現。喜歡俏嬌娃，也大方表現愛意，但好像不怎麼有用。常常開強制會議。個性和對感情的表達與前作有極大的反差，且與星火的關係也重新改用了[新52](../Page/新52.md "wikilink")的設定。
 
 <!-- end list -->
 
   - [星火](../Page/星火_\(漫畫\).md "wikilink") (Starfire）
-    配音：美國→[辛登·瓦爾希](https://zh.wikipedia.org/wiki/辛登·瓦爾希 "wikilink")
-    台灣→[謝佼娟](../Page/謝佼娟.md "wikilink")
+    配音：美國→[辛登·瓦爾希](https://zh.wikipedia.org/wiki/辛登·瓦爾希 "wikilink") 台灣→[謝佼娟](../Page/謝佼娟.md "wikilink")
     本名：寇莉安（Koriand'r）
     少年悍將成員之一，有明亮的綠色眼睛和淺橘色皮膚，和很長的腋毛。來地球前是澎澎頭造型且只會說外星語，塔馬拉星國王的女兒，熱情娃/黑火的妹妹。攻擊方式是使用眼睛的綠色雷射光（根據此處可知本作的故事發生在前作第二季第七集“蛻變”之後）、雙手的光球以及其巨大的力氣。個性十分熱情、采烈，總是樂於幫助其他人。和羅賓互相有好感，但總是沒有表達出來。平時會用舌頭舔絲絲，幫牠洗澡。愛貓成癡(實際上什麼寵物都愛)，就連羅賓穿上貓裝扮成貓也一樣喜歡。很喜歡姊姊熱情娃，甚至不准別人排擠他，後因被熱情娃陷害入獄決定逃獄復仇。現在的俏嬌娃與前作的形象略有修改：她的鞋底上有一個星星圖案，頭髮變成粉紅色且更厚、更長。個性與前作相比,變得相當情緒化,且有時候會做些令人無法理解的事,例如在馬桶裡煮麻辣鍋,以及喝魚缸的水。
 
 <!-- end list -->
 
   - [酷姬／瑞雯／渡鸦](../Page/渡鸦_\(DC漫画\).md "wikilink")（Raven）
-    配音：美國→[泰拉·史壯](https://zh.wikipedia.org/wiki/泰拉·史壯 "wikilink")
-    台灣→[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")
+    配音：美國→[泰拉·史壯](https://zh.wikipedia.org/wiki/泰拉·史壯 "wikilink") 台灣→[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")
     本名：瑞雯·瑞秋·羅斯（Raven Rachel Roth）
-    少年悍將成員之一，宇宙魔王泰萊剛／特力貢（Trigon）的女兒，有一雙美腿，額頭前有一顆脈輪石。是一個半人半惡魔。擅長使用黑暗魔法以及惡魔化攻擊，攻擊時會念著「Azarath
-    Metrion,
-    zinthos（天地万物听我命令）」的咒語。惡魔化時會多出一雙眼睛，並變有多隻觸手。很喜歡老人。平時很淡定，但在情緒過度憤怒時能力會失控（而且能力絕對會朝著男孩們攻擊，尤其是人皮獸）。多數都待在自己的房間禪坐，但有時候也會和其他成員有互動，甚至比前作瘋狂。心中的黑暗面會使得自己外貌變惡魔。人皮獸愛慕的好感對象，不善於表達心中的想法，總是帶有神秘風格，不敢告訴其他人自己喜歡人皮獸。由於酷姬的配音員同時也為《[小马宝莉](https://zh.wikipedia.org/wiki/彩虹小馬：友情就是魔法 "wikilink")》的女主角紫悅（Twilight
-    Sparkle）配音，再加上兩個角色都能使用魔法，因此本作特別加入了酷姬喜歡 Pretty Pretty Pegasus(漂漂小飛馬)
-    的設定。外觀與前作有些不同，原本深紫色的頭髮現在是黑色且更短，灰色皮膚更接近白色，穿著的連帽斗篷更长且變成是紫羅蘭色的。
+    少年悍將成員之一，宇宙魔王泰萊剛／特力貢（Trigon）的女兒，有一雙美腿，額頭前有一顆脈輪石。是一個半人半惡魔。擅長使用黑暗魔法以及惡魔化攻擊，攻擊時會念著「Azarath Metrion, zinthos（天地万物听我命令）」的咒語。惡魔化時會多出一雙眼睛，並變有多隻觸手。很喜歡老人。平時很淡定，但在情緒過度憤怒時能力會失控（而且能力絕對會朝著男孩們攻擊，尤其是人皮獸）。多數都待在自己的房間禪坐，但有時候也會和其他成員有互動，甚至比前作瘋狂。心中的黑暗面會使得自己外貌變惡魔。人皮獸愛慕的好感對象，不善於表達心中的想法，總是帶有神秘風格，不敢告訴其他人自己喜歡人皮獸。由於酷姬的配音員同時也為《[小马宝莉](https://zh.wikipedia.org/wiki/彩虹小馬：友情就是魔法 "wikilink")》的女主角紫悅（Twilight Sparkle）配音，再加上兩個角色都能使用魔法，因此本作特別加入了酷姬喜歡 Pretty Pretty Pegasus(漂漂小飛馬) 的設定。外觀與前作有些不同，原本深紫色的頭髮現在是黑色且更短，灰色皮膚更接近白色，穿著的連帽斗篷更长且變成是紫羅蘭色的。
 
 <!-- end list -->
 
   - [鋼骨](../Page/鋼骨_\(漫畫\).md "wikilink")（Cyborg）
-    配音：美國→[凱瑞·派頓](https://zh.wikipedia.org/wiki/凱瑞·派頓 "wikilink")
-    台灣→[林谷珍](../Page/林谷珍.md "wikilink")
+    配音：美國→[凱瑞·派頓](https://zh.wikipedia.org/wiki/凱瑞·派頓 "wikilink") 台灣→[林谷珍](../Page/林谷珍.md "wikilink")
     本名：維克多·史東（Victor Stone）
-    少年悍將成員之一，最強壯、飽學知識的隊員。與前作相比變得極為不正經。喜歡偷穿羅賓的緊身褲，身體大多是意外後改裝的機械構成，能透過手中的音波炮和隱藏式武器來攻擊，但現在多了前作沒有的新功能，例如利用噴氣推進系統飛行、身體內置ATM、可以无限伸长的脖子和肉丸烤箱，而且在故障或者失去電能後身體的藍色部分不會失去顏色。喜歡破壞戀愛氣氛。和人皮獸特別要好，一樣喜歡吃披薩和玩電動。個性非常自以為是，總是和人皮獸不考慮事情的後果，而最後都變得不可收拾。最喜歡的歌曲是《The
-    night begins to shine》(當夜晚開始發亮，最新一集改翻譯成夜空綻放光明)。與五人幫的金兒互相喜歡並短暫交往。
+    少年悍將成員之一，最強壯、飽學知識的隊員。與前作相比變得極為不正經。喜歡偷穿羅賓的緊身褲，身體大多是意外後改裝的機械構成，能透過手中的音波炮和隱藏式武器來攻擊，但現在多了前作沒有的新功能，例如利用噴氣推進系統飛行、身體內置ATM、可以无限伸长的脖子和肉丸烤箱，而且在故障或者失去電能後身體的藍色部分不會失去顏色。喜歡破壞戀愛氣氛。和人皮獸特別要好，一樣喜歡吃披薩和玩電動。個性非常自以為是，總是和人皮獸不考慮事情的後果，而最後都變得不可收拾。最喜歡的歌曲是《The night begins to shine》(當夜晚開始發亮，最新一集改翻譯成夜空綻放光明)。與五人幫的金兒互相喜歡並短暫交往。
 
 <!-- end list -->
 
   - [人皮獸](../Page/人皮獸.md "wikilink")（Beast boy）
-    配音：美國→[葛瑞格·塞普斯](https://zh.wikipedia.org/wiki/葛瑞格·塞普斯 "wikilink")
-    台灣→[楊凱凱](../Page/楊凱凱.md "wikilink")
+    配音：美國→[葛瑞格·塞普斯](https://zh.wikipedia.org/wiki/葛瑞格·塞普斯 "wikilink") 台灣→[楊凱凱](../Page/楊凱凱.md "wikilink")
     本名：加菲·馬克·羅根（Garfield Mark "Gar" Logan）
     少年悍將成員，穿著死亡巡邏隊的制服。超能力是可以變成地球上任何的動物，雖然外型還是一樣是綠色。是素食主義者，雖自稱吃全素,但有好幾集都出現他喝牛奶的畫面。也是酷姬的愛慕對象。忌妒阿奎拉與酷姬來往。和鋼骨是好朋友，兩個經常作傻事惹得羅賓生氣。喜歡吃披薩和對悍將們惡作劇。常常說「老兄」這個詞。曾經喜歡過泰拉，但後來卻遭到拒絕。
 
@@ -74,53 +63,19 @@ Bros.）製作的卡通電視節目。也是DC系列《[少年悍將](https://zh
 
 <!-- end list -->
 
-  - [高登局長](https://zh.wikipedia.org/wiki/詹姆斯·高登_\(漫畫\) "wikilink")（Comissioner
-    Gordon）
-    蝙蝠俠的聯絡人兼好友，蝙蝠女孩的父親，在本作時常以背景角色和蝙蝠俠一同出現。
-
-<!-- end list -->
-
-  - [蝙蝠女孩](../Page/蝙蝠女孩.md "wikilink")（Batgirl）
-    本名：芭芭拉·高登（Barbara Gordon）
-    高登警長的女兒，在本作以背景角色登場。曾在《Staring at the future》一集中在未來和成為「夜翼」的羅賓結婚生子。
+  - [高登局長](https://zh.wikipedia.org/wiki/詹姆斯·高登_\(漫畫\) "wikilink")（Comissioner Gordon）
+    蝙蝠俠的聯絡人兼好友，蝙蝠女孩的父親，在本作時常以背景
 
 <!-- end list -->
 
   - [超人](../Page/超人.md "wikilink")（Superman）
     本名：克拉克·肯特（Clack Kent）
-    最知名的超級英雄，蝙蝠俠的同伴。在本作以背景角色登場。
-
-<!-- end list -->
-
-  - 未来蝙蝠侠（Batman Beyond）
-    本名：泰瑞·麦金尼斯（Terry McGinnis）
-    本名泰瑞·麦金尼斯，[蝙蝠侠的续任者](https://zh.wikipedia.org/wiki/蝙蝠侠 "wikilink")。在本作中出現在未來夜翼的家裡的海報中。
+    最知名的超級英雄，蝙蝠俠的同伴。在本作以背景登場
 
 <!-- end list -->
 
   - [特力貢](https://zh.wikipedia.org/wiki/特力貢 "wikilink")（[Trigon](https://zh.wikipedia.org/wiki/Trigon "wikilink")）
-    酷姬的父親，一名來自異次元的惡魔。与前作不同的是，特力貢在地球上的時候經常會變得跟與人類大小一般，且會穿著人類的衣服，性格方面也變得更加溫和，與酷姬關係不好的原因也變成了因兩人的意見經常不合。
-
-<!-- end list -->
-
-  - [羅賓（卡莉·凱利）](https://zh.wikipedia.org/wiki/杰森·托特 "wikilink")（Robin）
-    配音：美國→[史考特·門維爾](https://zh.wikipedia.org/wiki/史考特·門維爾 "wikilink")
-    本名：卡莉·凱利（Carrie Kelley）
-    《黑暗骑士归来》中羅賓的擔任者，在第二季第12集「最佳羅賓」中登場。
-
-<!-- end list -->
-
-  - [第三任羅賓蒂姆·德雷克/紅羅賓](../Page/蒂姆·德雷克.md "wikilink")（Robin）
-    配音：美國→[史考特·門維爾](https://zh.wikipedia.org/wiki/史考特·門維爾 "wikilink")
-    本名：蒂姆·德雷克（Timothy Jackson "Tim" Drake）
-    第三任羅賓擔任者，在第二季第12集「最佳羅賓」中登場。本作中其性格更加冷酷。
-
-<!-- end list -->
-
-  - 熱情娃/[黑火](https://zh.wikipedia.org/wiki/黑火 "wikilink")(Blackfire)
-    配音：美國→[辛登·瓦爾希](https://zh.wikipedia.org/wiki/辛登·瓦爾希 "wikilink")
-    台灣→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
-    塔馬拉星國王的女兒，俏嬌娃／星火的姐姐，是個宇宙罪犯，少年悍將中除了俏嬌娃以外，沒人喜歡她。稱呼羅賓「美臀哥」。從小就對妹妹很不好，時常利用她，五歲時還偷走她的娃娃。登場於前作第一季第二集「姊妹」一集。在本作第二季第一集「巴特先生」中越獄後設計陷害俏嬌娃代替自己入獄服刑，在悍將們的勸說下開始懂得珍惜俏嬌娃，決心彌補過錯，卻被逃獄出來的俏嬌娃打趴。
+    酷姬的父親，一名來自異次元的惡魔。与前作不同的是，特力貢在地球上的時候經常會變得跟與人類大小一般，且會穿著人類的衣服，性格方面也變得更加溫和，與酷姬關係不好的原因也變成了因兩人的意見經常不合
 
 <!-- end list -->
 
@@ -136,16 +91,6 @@ Bros.）製作的卡通電視節目。也是DC系列《[少年悍將](https://zh
   - 红X（Red X）
     罗宾潜入海夫大厦时的虚假身份，跟前作不同的是，罗宾在出发前就已经向其他少年泰坦成员公布了这个身份。
 
-<!-- end list -->
-
-  - 美腿女士（Lady Lagasus）
-    酷姬在自己的連帽斗篷陰陽差錯中被鋼骨套上時發現自己長腿的攻擊力後暫且使用的稱號。
-
-<!-- end list -->
-
-  - 賓羅（Nibor）
-    羅賓的反面形象，所有性格特徵與羅賓完全相反。
-
 ####
 
   - 大黃蜂（Bumblebee）
@@ -154,24 +99,20 @@ Bros.）製作的卡通電視節目。也是DC系列《[少年悍將](https://zh
 <!-- end list -->
 
   - 水少俠／阿奎拉（Aqualad）
-    配音：美國→[Wil
-    Wheaton](https://zh.wikipedia.org/wiki/Wil_Wheaton "wikilink")
-    台灣→[蔣鐵城](../Page/蔣鐵城.md "wikilink")
+    配音：美國→[Wil Wheaton](https://zh.wikipedia.org/wiki/Wil_Wheaton "wikilink") 台灣→[蔣鐵城](../Page/蔣鐵城.md "wikilink")
     [水行俠](../Page/水行俠.md "wikilink")的助手，亞特蘭提斯人，東部悍將成員之一。因住在海裡，被鋼骨認定是海盜。
     曾經與酷姬短暫交往，分手轉為後與泰拉交往，但經過酷姬和人皮男介入他和泰拉的關係後與泰拉分手。
 
 <!-- end list -->
 
   - [快手](../Page/羅伊·哈珀.md "wikilink")（Speedy）
-    配音：美國→[Scott
-    Menville](https://zh.wikipedia.org/wiki/Scott_Menville "wikilink")
+    配音：美國→[Scott Menville](https://zh.wikipedia.org/wiki/Scott_Menville "wikilink")
     [綠箭俠](../Page/綠箭俠.md "wikilink")的弟子，東部悍將成員之一，羅賓討厭的對象之一。
 
 <!-- end list -->
 
   - 瑪斯與梅諾斯（Mas＆Menos）
-    配音：美國→[Freddy
-    Rodriguez](https://zh.wikipedia.org/wiki/Freddy_Rodriguez "wikilink")
+    配音：美國→[Freddy Rodriguez](https://zh.wikipedia.org/wiki/Freddy_Rodriguez "wikilink")
     超能雙胞胎兄弟，兩人在一起才能展現能力，東部悍將成員之一，並且只會講[西班牙語](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")(台版配音為[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink"))。
 
 #### 非人類少年悍將
@@ -187,8 +128,7 @@ Bros.）製作的卡通電視節目。也是DC系列《[少年悍將](https://zh
 <!-- end list -->
 
   - 鳥標（Bird-a-Rang）
-    配音：美國→[史考特·門維爾](https://zh.wikipedia.org/wiki/史考特·門維爾 "wikilink")
-    台灣→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
+    配音：美國→[史考特·門維爾](https://zh.wikipedia.org/wiki/史考特·門維爾 "wikilink") 台灣→[劉傑](https://zh.wikipedia.org/wiki/劉傑_\(配音員\) "wikilink")
     羅賓的一隻飛鏢，和魔音盒一樣是羅賓和鋼骨一起讓它成了精。
 
 <!-- end list -->
@@ -205,17 +145,14 @@ Bros.）製作的卡通電視節目。也是DC系列《[少年悍將](https://zh
 ### 主要反派/中立角色
 
   - 泰拉／土石女（Terra）
-    配音：美國→[Ashley
-    Johnson](https://zh.wikipedia.org/wiki/Ashley_Johnson "wikilink")
-    台灣→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
+    配音：美國→[Ashley Johnson](https://zh.wikipedia.org/wiki/Ashley_Johnson "wikilink") 台灣→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
     擁有控制土壤、石塊的超能力。在前作中跟少年泰坦關係很好（但在本作中反目）。曾為了在少年悍將當臥底而誘惑人皮獸並讓其進入悍將之塔，最後被得知一切的酷姬識破而被送到了一個只有垃圾場的象限
     與人皮獸分手轉為後與阿奎拉(水少俠)交往。和前作不同的是，初次登場時已能控制自己的超能力（但和酷姬一樣會在暴怒時能力朝著男孩們失控），而且结局并没有石化，甚至很反感人皮獸。
 
 <!-- end list -->
 
   - [光博士](https://zh.wikipedia.org/wiki/光博士 "wikilink")（Dr.Light）
-    配音：美國→[Scott
-    Menville](https://zh.wikipedia.org/wiki/Scott_Menville "wikilink")
+    配音：美國→[Scott Menville](https://zh.wikipedia.org/wiki/Scott_Menville "wikilink")
     本名：亞瑟·賴特（Arthur Light）
     少年悍將的敵人，其衣服能控制光能量並以手發射出來。
 
@@ -232,9 +169,7 @@ Bros.）製作的卡通電視節目。也是DC系列《[少年悍將](https://zh
 <!-- end list -->
 
   - 小閃電俠／[閃電小子](../Page/閃電小子.md "wikilink")(Kid Flash)
-    配音: 美國→[Will
-    Friedle](https://zh.wikipedia.org/wiki/Will_Friedle "wikilink")
-    台灣→[何志威](../Page/何志威.md "wikilink")
+    配音: 美國→[Will Friedle](https://zh.wikipedia.org/wiki/Will_Friedle "wikilink") 台灣→[何志威](../Page/何志威.md "wikilink")
     閃電俠的徒弟。在罗宾创立少年泰坦（起初成员为少年泰坦东行小组的成员+还是人类的钢骨+闪电小子）后企图夺走少年泰坦队长的位置，后来罗宾在少年泰坦队员的帮助下打断了闪电小子的小腿并扔下天神大厦后拿回队长席位（第4季第24B/25A集“回忆”）。后来又通过赛跑抢走了少年泰坦队长席位，但最终因再次被罗宾打断小腿而失败（第2季第18B集“多才多艺”）。
 
 <!-- end list -->
@@ -244,62 +179,49 @@ Bros.）製作的卡通電視節目。也是DC系列《[少年悍將](https://zh
 
 <!-- end list -->
 
-  - [瑪拉
-    (漫畫)](https://zh.wikipedia.org/wiki/瑪拉_\(漫畫\) "wikilink")（[Monsieur
-    Mallah](https://zh.wikipedia.org/wiki/Monsieur_Mallah "wikilink")）
+  - [瑪拉 (漫畫)](https://zh.wikipedia.org/wiki/瑪拉_\(漫畫\) "wikilink")（[Monsieur Mallah](https://zh.wikipedia.org/wiki/Monsieur_Mallah "wikilink")）
     魔腦的夥伴，前作中「邪惡兄弟會」的主要成員。
 
 <!-- end list -->
 
-  - [控制狂
-    (漫畫)](https://zh.wikipedia.org/wiki/控制狂_\(漫畫\) "wikilink")（[Control
-    freak](https://zh.wikipedia.org/wiki/Control_freak "wikilink")）
+  - [控制狂 (漫畫)](https://zh.wikipedia.org/wiki/控制狂_\(漫畫\) "wikilink")（[Control freak](https://zh.wikipedia.org/wiki/Control_freak "wikilink")）
     一個喜愛看電視的胖子反派，主要武器是一支高科技遙控器，和酷姬一樣喜愛《漂漂小飞马》。在第三季第5集中表明是他让[前作在第五季完结的](https://zh.wikipedia.org/wiki/少年悍將 "wikilink")。
 
 <!-- end list -->
 
-  - [苛責教授](https://zh.wikipedia.org/wiki/苛責教授 "wikilink")（[Mad
-    mod](https://zh.wikipedia.org/wiki/Mad_mod "wikilink")）
+  - [苛責教授](https://zh.wikipedia.org/wiki/苛責教授 "wikilink")（[Mad mod](https://zh.wikipedia.org/wiki/Mad_mod "wikilink")）
     一名英國來的，相當神經質的反派，在本作「老年泰坦」中把除酷姬外的所有泰坦成員變成了老人（在前作第三季第7集“革命”一集中干过同样的事情）。
 
 <!-- end list -->
 
-  - [魔術師曼波](https://zh.wikipedia.org/wiki/魔術師曼波 "wikilink")（[Mumbo
-    jumbo](https://zh.wikipedia.org/wiki/Mumbo_jumbo "wikilink")）
+  - [魔術師曼波](https://zh.wikipedia.org/wiki/魔術師曼波 "wikilink")（[Mumbo jumbo](https://zh.wikipedia.org/wiki/Mumbo_jumbo "wikilink")）
     一位魔術師，及其神經質。在前作中一檔魔杖摧毀就會恢復原狀（目前在本作中他的魔杖還沒被摧毀過）。本作中他是羅賓沉迷魔術的主要根源。
 
 <!-- end list -->
 
-  - [熱血兄弟](https://zh.wikipedia.org/wiki/熱血兄弟 "wikilink")（[Brother
-    Blood](https://zh.wikipedia.org/wiki/Brother_Blood "wikilink")）
+  - [熱血兄弟](https://zh.wikipedia.org/wiki/熱血兄弟 "wikilink")（[Brother Blood](https://zh.wikipedia.org/wiki/Brother_Blood "wikilink")）
     原海夫學院的校長，海夫五人組的老師。在本作中單獨行動。在「小小手」一集中讓除迪克以外的泰坦成員失憶。與前作不同的是本作中他的服裝多了一雙紅色的靴子。
 
 <!-- end list -->
 
   - [史萊德/喪鐘](../Page/喪鐘_\(漫畫\).md "wikilink")（Slade）
-    前作第一～二季的主要反派。在本作中第一次被提到是在第二季第25集。在2018年的院線電影《[少年悍將GO\!
-    大電影](https://zh.wikipedia.org/wiki/少年悍將GO!_大電影 "wikilink")》中计划控制所有的超级英雄以控制全DC宇宙。
+    前作第一～二季的主要反派。在本作中第一次被提到是在第二季第25集。在2018年的院線電影《[少年悍將GO\! 大電影](https://zh.wikipedia.org/wiki/少年悍將GO!_大電影 "wikilink")》中计划控制所有的超级英雄以控制全DC宇宙。
 
 <!-- end list -->
 
   - 傑德·威爾森（Jade Wilson）
-    史萊德的偽裝，一名超級英雄電影的導演。在2018年的院線電影《[少年悍將GO\!
-    大電影](https://zh.wikipedia.org/wiki/少年悍將GO!_大電影 "wikilink")》中正式登場。
+    史萊德的偽裝，一名超級英雄電影的導演。在2018年的院線電影《[少年悍將GO\! 大電影](https://zh.wikipedia.org/wiki/少年悍將GO!_大電影 "wikilink")》中正式登場。
 
 #### 五人幫/海夫五人組（H.I.V.E Five）
 
   - 急智摩（Gizmo）
-    配音：美國→[Lauren
-    Tom](https://zh.wikipedia.org/wiki/Lauren_Tom "wikilink")
-    台灣→[雷碧文](../Page/雷碧文.md "wikilink")
+    配音：美國→[Lauren Tom](https://zh.wikipedia.org/wiki/Lauren_Tom "wikilink") 台灣→[雷碧文](../Page/雷碧文.md "wikilink")
     海夫5人組的隊長，十分擅長機械上的攻擊。
 
 <!-- end list -->
 
   - 金兒（Jinx）
-    配音：美國→[Lauren
-    Tom](https://zh.wikipedia.org/wiki/Lauren_Tom "wikilink")
-    台灣→[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")
+    配音：美國→[Lauren Tom](https://zh.wikipedia.org/wiki/Lauren_Tom "wikilink") 台灣→[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")
     海夫5人組的成員，樣子與前作相同，名字代表"不幸和災厄"。擅長魔法攻擊，能造成任何不幸的事件。本身與少年悍將們亦敵亦友。很常被痛扁。
 
 <!-- end list -->
@@ -558,11 +480,9 @@ Bros.）製作的卡通電視節目。也是DC系列《[少年悍將](https://zh
 
 ## 交叉集
 
-  - 美國播出「少年悍將GO\! V.S
-    [飛天小女警](../Page/飛天小女警.md "wikilink")」的交叉集，台灣於2016年7月30早上十點首次播出，簡稱「TTG
-    V.S PPG」
-  - 《“少年悍將GO！”大戰“[少年悍將](../Page/少年悍將_\(動畫\).md "wikilink")”》將於2019年直接發售DVD。
+  - 美國播出「少年悍將GO\! V.S [飛天小女警](../Page/飛天小女警.md "wikilink")」的交叉集，台灣於2016年7月30早上十點首次播出，簡稱「TTG V.S PPG」
   - 2018年《[電影少年悍將GO！](../Page/電影少年悍將GO！.md "wikilink")》僅於部分國家發行電影，其他影音形式發行
+  - 2019年《[少年悍將GO！大戰少年悍將](https://zh.wikipedia.org/wiki/少年悍將GO！大戰少年悍將 "wikilink")》直接發售DVD。與[少年悍將的交叉集](../Page/少年悍將_\(動畫\).md "wikilink")
 
 ## 參考文獻
 
@@ -570,15 +490,11 @@ Bros.）製作的卡通電視節目。也是DC系列《[少年悍將](https://zh
 
   -
   -
-  - [How To Draw Teen Titans
-    Go\!](http://www.toonsanimemanga.com/how-to-draw-teen-titans-go/)
+  - [How To Draw Teen Titans Go\!](http://www.toonsanimemanga.com/how-to-draw-teen-titans-go/)
 
   - [少年悍將WIKIA](http://teen-titans-go.wikia.com/wiki/Teen_Titans_Go!_Wiki)
 
-[Category:2010年代美國動畫影集](https://zh.wikipedia.org/wiki/Category:2010年代美國動畫影集 "wikilink")
-[Category:DC漫画动画](https://zh.wikipedia.org/wiki/Category:DC漫画动画 "wikilink")
-[Category:Flash動畫](https://zh.wikipedia.org/wiki/Category:Flash動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
+[Category:2010年代美國動畫影集](https://zh.wikipedia.org/wiki/Category:2010年代美國動畫影集 "wikilink") [Category:DC漫画动画](https://zh.wikipedia.org/wiki/Category:DC漫画动画 "wikilink") [Category:Flash動畫](https://zh.wikipedia.org/wiki/Category:Flash動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 
 1.
 2.

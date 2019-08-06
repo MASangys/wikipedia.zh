@@ -1,24 +1,14 @@
-**Adila
-Sedraïa**（），艺名**Indila**，是一位[法国的](https://zh.wikipedia.org/wiki/法國人 "wikilink")[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")[歌手](../Page/歌手.md "wikilink")及[作词人](https://zh.wikipedia.org/wiki/作词人 "wikilink")。\[1\]
+**Adila Sedraïa**（），艺名**Indila**，是一位[法国的](https://zh.wikipedia.org/wiki/法國人 "wikilink")[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")[歌手](../Page/歌手.md "wikilink")及[作词人](https://zh.wikipedia.org/wiki/作词人 "wikilink")。\[1\]
 
-Indila曾与很多法国歌手合作，例如、[Rohff](https://zh.wikipedia.org/wiki/Rohff "wikilink")、[TLF](https://zh.wikipedia.org/wiki/TLF_\(band\) "wikilink")、[Soprano和](https://zh.wikipedia.org/wiki/Soprano_\(rapper\) "wikilink")[Youssoupha](https://zh.wikipedia.org/wiki/Youssoupha "wikilink")，并且与他们以及[M.
-Pokora](https://zh.wikipedia.org/wiki/M._Pokora "wikilink")、[Admiral
-T](https://zh.wikipedia.org/wiki/Admiral_T "wikilink")、[DJ
-Abdel和](https://zh.wikipedia.org/wiki/DJ_Abdel "wikilink")[Axel
-Tony共同创作](https://zh.wikipedia.org/wiki/Axel_Tony "wikilink")。
+Indila曾与很多法国歌手合作，例如、[Rohff](https://zh.wikipedia.org/wiki/Rohff "wikilink")、[TLF](https://zh.wikipedia.org/wiki/TLF_\(band\) "wikilink")、[Soprano和](https://zh.wikipedia.org/wiki/Soprano_\(rapper\) "wikilink")[Youssoupha](https://zh.wikipedia.org/wiki/Youssoupha "wikilink")，并且与他们以及[M. Pokora](https://zh.wikipedia.org/wiki/M._Pokora "wikilink")、[Admiral T](https://zh.wikipedia.org/wiki/Admiral_T "wikilink")、[DJ Abdel和](https://zh.wikipedia.org/wiki/DJ_Abdel "wikilink")[Axel Tony共同创作](https://zh.wikipedia.org/wiki/Axel_Tony "wikilink")。
 
-"[Dernière
-danse](https://zh.wikipedia.org/wiki/Dernière_danse "wikilink")"于2013年12月发行，在法国的[SNEP达到第二名](https://zh.wikipedia.org/wiki/SNEP "wikilink")。后续的单曲"Tourner
-dans le vide"在法国榜单达到了前十。
+"[Dernière danse](https://zh.wikipedia.org/wiki/Dernière_danse "wikilink")"于2013年12月发行，在法国的[SNEP达到第二名](https://zh.wikipedia.org/wiki/SNEP "wikilink")。后续的单曲"Tourner dans le vide"在法国榜单达到了前十。
 
 ## 个人经历
 
-Indila在[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎](../Page/巴黎.md "wikilink")出生。\[2\]
-她有着[印度](../Page/印度.md "wikilink")、[阿尔及利亚](https://zh.wikipedia.org/wiki/阿尔及利亚 "wikilink")、\[3\][柬埔寨](../Page/柬埔寨.md "wikilink")和[埃及](../Page/埃及.md "wikilink")\[4\]血统。
+Indila在[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")[巴黎](../Page/巴黎.md "wikilink")出生。\[2\] 她有着[印度](../Page/印度.md "wikilink")、[阿尔及利亚](https://zh.wikipedia.org/wiki/阿尔及利亚 "wikilink")、\[3\][柬埔寨](../Page/柬埔寨.md "wikilink")和[埃及](../Page/埃及.md "wikilink")\[4\]血统。
 
-Indila 与唱片制片人、作词人Pascal Koeu结婚，Koeu 以 [DJ
-Skalp](https://zh.wikipedia.org/wiki/Skalp "wikilink") 和 Skalpovic
-兩個名字為人所知。
+Indila 与唱片制片人、作词人Pascal Koeu结婚，Koeu 以 [DJ Skalp](https://zh.wikipedia.org/wiki/Skalp "wikilink") 和 Skalpovic 兩個名字為人所知。
 
 ## 作品
 
@@ -194,27 +184,14 @@ Skalp](https://zh.wikipedia.org/wiki/Skalp "wikilink") 和 Skalpovic
 
 <small>(其中选择包括独立创作以及合作创作的。除特别注明外均表示为 Indila 所创作)</small>
 
-  - 2010: "Poussière d'empire" by
-    [Nessbeal](https://zh.wikipedia.org/wiki/Nessbeal "wikilink") feat.
-    Indila
-  - 2010: "J'ai besoin d'y croire" by [Admiral
-    T](https://zh.wikipedia.org/wiki/Admiral_T "wikilink") feat. Awa
-    Imani
-  - 2010: "Thug mariage" by
-    [Rohff](https://zh.wikipedia.org/wiki/Rohff "wikilink") feat. Indila
-  - 2011: "Bye Bye Sonyé" by [DJ
-    Abdel](https://zh.wikipedia.org/wiki/DJ_Abdel "wikilink") feat.
-    Indila
-  - 2012: "Avec toi" by [Axel
-    Tony](https://zh.wikipedia.org/wiki/Axel_Tony "wikilink") featuring
-    [Tunisiano](https://zh.wikipedia.org/wiki/Tunisiano "wikilink")
-    <small>(credited as Adila Serdaia)</small>
-  - 2012: "Plus haut" by [M.
-    Pokora](https://zh.wikipedia.org/wiki/M._Pokora "wikilink")
+  - 2010: "Poussière d'empire" by [Nessbeal](https://zh.wikipedia.org/wiki/Nessbeal "wikilink") feat. Indila
+  - 2010: "J'ai besoin d'y croire" by [Admiral T](https://zh.wikipedia.org/wiki/Admiral_T "wikilink") feat. Awa Imani
+  - 2010: "Thug mariage" by [Rohff](https://zh.wikipedia.org/wiki/Rohff "wikilink") feat. Indila
+  - 2011: "Bye Bye Sonyé" by [DJ Abdel](https://zh.wikipedia.org/wiki/DJ_Abdel "wikilink") feat. Indila
+  - 2012: "Avec toi" by [Axel Tony](https://zh.wikipedia.org/wiki/Axel_Tony "wikilink") featuring [Tunisiano](https://zh.wikipedia.org/wiki/Tunisiano "wikilink") <small>(credited as Adila Serdaia)</small>
+  - 2012: "Plus haut" by [M. Pokora](https://zh.wikipedia.org/wiki/M._Pokora "wikilink")
   - 2012: "Plus jamais" by Sultan
-  - 2012: "Dreamin'" by
-    [Youssoupha](https://zh.wikipedia.org/wiki/Youssoupha "wikilink")
-    feat. Indila & Skalpovitch
+  - 2012: "Dreamin'" by [Youssoupha](https://zh.wikipedia.org/wiki/Youssoupha "wikilink") feat. Indila & Skalpovitch
   - 2013: "Ma reine" by Axel Tony feat. Admiral T
   - 2013: "Dernière Danse" by Indila
   - 2014: "Tourner dans le vide" by Indila
@@ -224,11 +201,7 @@ Skalp](https://zh.wikipedia.org/wiki/Skalp "wikilink") 和 Skalpovic
 ## 相关链接
 
   -
-[Category:法国女歌手](https://zh.wikipedia.org/wiki/Category:法国女歌手 "wikilink")
-[Category:印度裔法国人](https://zh.wikipedia.org/wiki/Category:印度裔法国人 "wikilink")
-[Category:阿尔及利亚裔法国人](https://zh.wikipedia.org/wiki/Category:阿尔及利亚裔法国人 "wikilink")
-[Category:柬埔寨裔法国人](https://zh.wikipedia.org/wiki/Category:柬埔寨裔法国人 "wikilink")
-[Category:埃及裔法国人](https://zh.wikipedia.org/wiki/Category:埃及裔法国人 "wikilink")
+[Category:法国女歌手](https://zh.wikipedia.org/wiki/Category:法国女歌手 "wikilink") [Category:印度裔法国人](https://zh.wikipedia.org/wiki/Category:印度裔法国人 "wikilink") [Category:阿尔及利亚裔法国人](https://zh.wikipedia.org/wiki/Category:阿尔及利亚裔法国人 "wikilink") [Category:柬埔寨裔法国人](https://zh.wikipedia.org/wiki/Category:柬埔寨裔法国人 "wikilink") [Category:埃及裔法国人](https://zh.wikipedia.org/wiki/Category:埃及裔法国人 "wikilink")
 
 1.
 
@@ -237,14 +210,11 @@ Skalp](https://zh.wikipedia.org/wiki/Skalp "wikilink") 和 Skalpovic
 3.
 4.  <http://www.public.fr/News/Photos/Photos-Indila-5-choses-a-savoir-sur-LA-nouvelle-chanteuse-qui-nous-fait-danser-494700>
 
-5.  [LesCharts.com Indila
-    discography](http://lescharts.com/showinterpret.asp?interpret=Indila)
+5.  [LesCharts.com Indila discography](http://lescharts.com/showinterpret.asp?interpret=Indila)
 
-6.  [Ultratop: Indila
-    discography](http://www.ultratop.be/nl/showinterpret.asp?interpret=Indila)
+6.  [Ultratop: Indila discography](http://www.ultratop.be/nl/showinterpret.asp?interpret=Indila)
 
-7.  [Ultratop: Indila
-    discography](http://www.ultratop.be/fr/showinterpret.asp?interpret=Indila)
+7.  [Ultratop: Indila discography](http://www.ultratop.be/fr/showinterpret.asp?interpret=Indila)
 
 8.
 9.

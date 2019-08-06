@@ -61,28 +61,14 @@ KTM通勤铁路在2016年赚取了1.5亿令吉的营运收入，搭乘量达到4
 
 ## 图片集
 
-<File:KTM> Komuter danger.jpg|A一辆列车经过在站台上的“危险” 标志。 <File:Putra> station
-(Rawang-Seremban & Sentul-Port Klang Line), Kuala
-Lumpur.JPG|[布特拉站](https://zh.wikipedia.org/wiki/布特拉站 "wikilink")
-<File:Mid> Valley station (Rawang-Seremban Line), Kuala
-Lumpur.jpg|[谷中城站](https://zh.wikipedia.org/wiki/谷中城站 "wikilink")
-[File:Klsentral.jpg|吉隆坡中央车站的通勤铁路购票处](File:Klsentral.jpg%7C吉隆坡中央车站的通勤铁路购票处)
-<File:Tanjungmalimrailwaystation1.jpg>|[丹绒马林站](https://zh.wikipedia.org/wiki/丹绒马林站 "wikilink")，中马区最北的通勤车站
-<File:Class> 81 KTM EMU 14 Komuter train, KL sentral Kuala
-Lumpur.jpg|由奥地利出产的[马来亚铁路81型电力动车组](https://zh.wikipedia.org/wiki/马来亚铁路81型电力动车组 "wikilink")
-<File:Class> 82 KTM Komuter train, Kuala
-Lumpur.jpg|已停止使用的南非制[马来亚铁路82型电力动车组](https://zh.wikipedia.org/wiki/马来亚铁路82型电力动车组 "wikilink")
-<File:Class> 83 KTM Komuter train, Kuala
-Lumpur.jpg|[马来亚铁路83型电力动车组](https://zh.wikipedia.org/wiki/马来亚铁路83型电力动车组 "wikilink")，至今仍在北马区投入使用
+<File:KTM> Komuter danger.jpg|A一辆列车经过在站台上的“危险” 标志。 <File:Putra> station (Rawang-Seremban & Sentul-Port Klang Line), Kuala Lumpur.JPG|[布特拉站](https://zh.wikipedia.org/wiki/布特拉站 "wikilink") <File:Mid> Valley station (Rawang-Seremban Line), Kuala Lumpur.jpg|[谷中城站](https://zh.wikipedia.org/wiki/谷中城站 "wikilink") [File:Klsentral.jpg|吉隆坡中央车站的通勤铁路购票处](File:Klsentral.jpg%7C吉隆坡中央车站的通勤铁路购票处) <File:Tanjungmalimrailwaystation1.jpg>|[丹绒马林站](https://zh.wikipedia.org/wiki/丹绒马林站 "wikilink")，中马区最北的通勤车站 <File:Class> 81 KTM EMU 14 Komuter train, KL sentral Kuala Lumpur.jpg|由奥地利出产的[马来亚铁路81型电力动车组](https://zh.wikipedia.org/wiki/马来亚铁路81型电力动车组 "wikilink") <File:Class> 82 KTM Komuter train, Kuala Lumpur.jpg|已停止使用的南非制[马来亚铁路82型电力动车组](https://zh.wikipedia.org/wiki/马来亚铁路82型电力动车组 "wikilink") <File:Class> 83 KTM Komuter train, Kuala Lumpur.jpg|[马来亚铁路83型电力动车组](https://zh.wikipedia.org/wiki/马来亚铁路83型电力动车组 "wikilink")，至今仍在北马区投入使用
 
 ## 参见
 
   - [马来亚铁道公司](https://zh.wikipedia.org/wiki/马来亚铁道公司 "wikilink")
       - [KTM城际铁路](https://zh.wikipedia.org/wiki/KTM城际铁路 "wikilink")
-          - [西海岸线
-            (马来西亚)](https://zh.wikipedia.org/wiki/西海岸线_\(马来西亚\) "wikilink")
-          - [东海岸线
-            (马来西亚)](https://zh.wikipedia.org/wiki/东海岸线_\(马来西亚\) "wikilink")
+          - [西海岸线 (马来西亚)](https://zh.wikipedia.org/wiki/西海岸线_\(马来西亚\) "wikilink")
+          - [东海岸线 (马来西亚)](https://zh.wikipedia.org/wiki/东海岸线_\(马来西亚\) "wikilink")
           - [KTM电动列车服务](https://zh.wikipedia.org/wiki/KTM电动列车服务 "wikilink")
       - '''[KTM通勤铁路](https://zh.wikipedia.org/wiki/KTM通勤铁路 "wikilink")
           - [芙蓉线](../Page/芙蓉线.md "wikilink")
@@ -100,8 +86,7 @@ Lumpur.jpg|[马来亚铁路83型电力动车组](https://zh.wikipedia.org/wiki/�
 
   - [马来亚铁道官方网站](http://www.ktmb.com.my/)
 
-[Category:馬來西亞鐵路](https://zh.wikipedia.org/wiki/Category:馬來西亞鐵路 "wikilink")
-[Category:马来亚铁道通勤铁路](https://zh.wikipedia.org/wiki/Category:马来亚铁道通勤铁路 "wikilink")
+[Category:馬來西亞鐵路](https://zh.wikipedia.org/wiki/Category:馬來西亞鐵路 "wikilink") [Category:马来亚铁道通勤铁路](https://zh.wikipedia.org/wiki/Category:马来亚铁道通勤铁路 "wikilink")
 
 1.
 

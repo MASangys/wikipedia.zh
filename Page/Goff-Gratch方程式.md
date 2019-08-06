@@ -11,18 +11,13 @@
   -
     {|
 
-|- |\(\log\ e^*\ =\)
-|\(-7.90298(T_\mathrm{st}/T-1)\ +\ 5.02808\ \log(T_\mathrm{st}/T)\) |- |
-|\(-\ 1.3816\times10^{-7}(10^{11.344(1-T/T_\mathrm{st})}-1)\) | |- |
-|\(+\ 8.1328\times10^{-3}(10^{-3.49149(T_\mathrm{st}/T-1)}-1)\ +\  \log\ e^*_\mathrm{st}\)
-|}
+|- |\(\log\ e^*\ =\) |\(-7.90298(T_\mathrm{st}/T-1)\ +\ 5.02808\ \log(T_\mathrm{st}/T)\) |- | |\(-\ 1.3816\times10^{-7}(10^{11.344(1-T/T_\mathrm{st})}-1)\) | |- | |\(+\ 8.1328\times10^{-3}(10^{-3.49149(T_\mathrm{st}/T-1)}-1)\ +\  \log\ e^*_\mathrm{st}\) |}
 
 其中:
 
   -
     log 是以10为底的[对数](https://zh.wikipedia.org/wiki/对数 "wikilink")
-    *e*<sup>\*</sup>
-    水的[饱和蒸汽压](https://zh.wikipedia.org/wiki/饱和蒸汽压 "wikilink")([hPa](../Page/帕斯卡.md "wikilink"))
+    *e*<sup>\*</sup> 水的[饱和蒸汽压](https://zh.wikipedia.org/wiki/饱和蒸汽压 "wikilink")([hPa](../Page/帕斯卡.md "wikilink"))
     *T*是以[开尔文](../Page/开尔文.md "wikilink")表示的[绝对温度](https://zh.wikipedia.org/wiki/绝对温度 "wikilink")（[K](../Page/开尔文.md "wikilink")）
     *T<sub>st</sub>*是[沸点](../Page/沸点.md "wikilink")温度(373.15 K)
     *e*<sup>\*</sup><sub>st</sub> 是沸点压力(1 atm = 1013.25 hPa)
@@ -32,15 +27,13 @@
   -
     {|
 
-|- |\(\log\ e^*_i\ =\) |\(-9.09718(T_0/T-1)\ -\ 3.56654\ \log(T_0/T)\)
-|- | |\(+\ 0.876793(1-T/T_0) +\ \log\ e^*_{i0}\) |}
+|- |\(\log\ e^*_i\ =\) |\(-9.09718(T_0/T-1)\ -\ 3.56654\ \log(T_0/T)\) |- | |\(+\ 0.876793(1-T/T_0) +\ \log\ e^*_{i0}\) |}
 
 其中:
 
   -
     log 是以10为底的[对数](https://zh.wikipedia.org/wiki/对数 "wikilink")
-    *e*<sup>\*</sup><sub>i</sub>
-    在冰面上方水的[饱和蒸汽压](https://zh.wikipedia.org/wiki/饱和蒸汽压 "wikilink")(hPa)
+    *e*<sup>\*</sup><sub>i</sub> 在冰面上方水的[饱和蒸汽压](https://zh.wikipedia.org/wiki/饱和蒸汽压 "wikilink")(hPa)
     *T* 是空气温度(K)
     *T*<sub>0</sub> 是冰点温度(273.16 K)
     *e*<sup>\*</sup><sub>i0</sub> 是冰点压力(6.1173 hPa)

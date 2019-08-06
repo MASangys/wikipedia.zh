@@ -1,24 +1,16 @@
-**李浩沅**（，，），藝名**HOYA**，韓國男歌手、演員，曾為男子音樂團體[INFINITE](../Page/INFINITE.md "wikilink")、[INFINITE
-H成員](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")。2012年首次出演電視劇《[請回答1997](../Page/請回答1997.md "wikilink")》。2016年出演電影《Hiya》。
+**李浩沅**（，，），藝名**HOYA**，韓國男歌手、演員，曾為男子音樂團體[INFINITE](../Page/INFINITE.md "wikilink")、[INFINITE H成員](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")。2012年首次出演電視劇《[請回答1997](../Page/請回答1997.md "wikilink")》。2016年出演電影《Hiya》。
 
-粉絲名稱為「Holy (홀리)」。\[1\]
-將「HOYA」的前兩個英文字母「Ho」後面加上「ly」，作為形容詞，有著「浩沅的」、「浩沅做的」、「有李浩沅的感覺的」、「像李浩沅的」等意義。
+粉絲名稱為「Holy (홀리)」。\[1\] 將「HOYA」的前兩個英文字母「Ho」後面加上「ly」，作為形容詞，有著「浩沅的」、「浩沅做的」、「有李浩沅的感覺的」、「像李浩沅的」等意義。
 
 ## 經歷
 
 ### 出道前
 
-2008年曾參加JYP第二期公開試鏡。2009年，參加綜藝節目《[SUPER STAR
-K](../Page/SUPER_STAR_K.md "wikilink")》徵選。\[2\]
-同年7月，通過Woollim娛樂徵選，加入Woollim娛樂，並於8月簽定合約。2010年，在[Epik
-High歌曲](../Page/Epik_High.md "wikilink")《RUN》舞台作樂隊出演。
+2008年曾參加JYP第二期公開試鏡。2009年，參加綜藝節目《[SUPER STAR K](../Page/SUPER_STAR_K.md "wikilink")》徵選。\[2\] 同年7月，通過Woollim娛樂徵選，加入Woollim娛樂，並於8月簽定合約。2010年，在[Epik High歌曲](../Page/Epik_High.md "wikilink")《RUN》舞台作樂隊出演。
 
 ### 2010年：以团体INFINITE出道
 
-4月，以綜藝節目《你是我的哥哥》正式曝光。\[3\]
-6月9日，以男子音樂團體[INFINITE](../Page/INFINITE.md "wikilink")正式出道，發行首張迷你專輯《[First
-Invasion](../Page/First_Invasion.md "wikilink")》，並以主打歌〈再次回來吧〉於綜藝節目《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》表演出道舞台。
+4月，以綜藝節目《你是我的哥哥》正式曝光。\[3\] 6月9日，以男子音樂團體[INFINITE](../Page/INFINITE.md "wikilink")正式出道，發行首張迷你專輯《[First Invasion](../Page/First_Invasion.md "wikilink")》，並以主打歌〈再次回來吧〉於綜藝節目《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》表演出道舞台。
 
 ### 2012年：首次出演電視劇《請回答1997》
 
@@ -26,24 +18,15 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》表演出道
 
 ### 2013年：INFINITE子團体INFINITE H
 
-1月10日，與[INFINITE](../Page/INFINITE.md "wikilink")成員[東雨組成子團体](https://zh.wikipedia.org/wiki/東雨 "wikilink")[INFINITE
-H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")，發行首張迷你專輯《[Fly
-High](../Page/Fly_High.md "wikilink")》展開活動，主打歌為〈Special
-Girl〉。1月18日，成為綜藝節目《不朽的名曲2》的固定嘉賓。10月，客串出演電視劇《[請回答1994](../Page/請回答1994.md "wikilink")》，飾演姜俊熙。
+1月10日，與[INFINITE](../Page/INFINITE.md "wikilink")成員[東雨組成子團体](https://zh.wikipedia.org/wiki/東雨 "wikilink")[INFINITE H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")，發行首張迷你專輯《[Fly High](../Page/Fly_High.md "wikilink")》展開活動，主打歌為〈Special Girl〉。1月18日，成為綜藝節目《不朽的名曲2》的固定嘉賓。10月，客串出演電視劇《[請回答1994](../Page/請回答1994.md "wikilink")》，飾演姜俊熙。
 
 ### 2014年－2016年：電視劇《對我而言可愛的她》、《假面》、電影《Hiya》
 
-2014年9月，出演電視劇《[對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")》，飾演姜來憲。2015年5月，出演電視劇《[假面](../Page/假面_\(電視劇\).md "wikilink")》，飾演卞智赫。\[4\]
-2016年，出演電影《Hiya》，飾演主角Lee Jin Ho，電影於2016年3月10日上映。\[5\]
+2014年9月，出演電視劇《[對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")》，飾演姜來憲。2015年5月，出演電視劇《[假面](../Page/假面_\(電視劇\).md "wikilink")》，飾演卞智赫。\[4\] 2016年，出演電影《Hiya》，飾演主角Lee Jin Ho，電影於2016年3月10日上映。\[5\]
 
 ### 2017年：電視劇《超人家族 2017》、《自體發光辦公室》、《Two Cops》、合約到期，退出INFINITE、签约新公司
 
-2月，出演電視劇《[超人家族 2017](../Page/超人家族_2017.md "wikilink")》，飾演李貴南。\[6\]
-3月，出演電視劇《[自體發光辦公室](../Page/自體發光辦公室.md "wikilink")》，飾演張康昊。\[7\]
-6月9日，與[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")的合約到期，不續約，退出[INFINITE](../Page/INFINITE.md "wikilink")。\[8\]
-9月26日，與Glorious娛樂簽約，以個人歌手、演員的身分重新出發。。\[9\] 11月，出演電視劇《[Two
-Cops](../Page/Two_Cops.md "wikilink")》，飾演獨孤誠赫。\[10\]
-12月，出演音樂劇《沙漏》，飾演白在熙。\[11\]
+2月，出演電視劇《[超人家族 2017](../Page/超人家族_2017.md "wikilink")》，飾演李貴南。\[6\] 3月，出演電視劇《[自體發光辦公室](../Page/自體發光辦公室.md "wikilink")》，飾演張康昊。\[7\] 6月9日，與[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")的合約到期，不續約，退出[INFINITE](../Page/INFINITE.md "wikilink")。\[8\] 9月26日，與Glorious娛樂簽約，以個人歌手、演員的身分重新出發。。\[9\] 11月，出演電視劇《[Two Cops](../Page/Two_Cops.md "wikilink")》，飾演獨孤誠赫。\[10\] 12月，出演音樂劇《沙漏》，飾演白在熙。\[11\]
 
 ### 2018年：以個人歌手身分出道、迷你專輯《Shower》
 
@@ -51,8 +34,7 @@ Cops](../Page/Two_Cops.md "wikilink")》，飾演獨孤誠赫。\[10\]
 
 ### 2019年：日本個人出道、入伍
 
-2018年12月2日，宣佈會在2019年1月23日日本出版首張迷你專輯《Shower -Japanese
-Edition-》在日本出道\[12\]。 2月7日，正式入伍服役。
+2018年12月2日，宣佈會在2019年1月23日日本出版首張迷你專輯《Shower -Japanese Edition-》在日本出道\[12\]。 2月7日，正式入伍服役。
 
 ## 音樂作品
 
@@ -251,8 +233,7 @@ Edition-》在日本出道\[12\]。 2月7日，正式入伍服役。
   -
 <!-- end list -->
 
-  - [YouTube](../Page/YouTube.md "wikilink")上的[REAL
-    HOYA](https://www.youtube.com/channel/UCf7jvi695LehwpjlSxsfhhA)頻道
+  - [YouTube](../Page/YouTube.md "wikilink")上的[REAL HOYA](https://www.youtube.com/channel/UCf7jvi695LehwpjlSxsfhhA)頻道
 
 <!-- end list -->
 
@@ -263,13 +244,7 @@ Edition-》在日本出道\[12\]。 2月7日，正式入伍服役。
   - [Glorious娛樂](http://glorious.co.kr/wp/)官方網站
   - [Glorious娛樂](http://channels.vlive.tv/DE2421/video)在Vapp的頁面
 
-[Category:INFINITE](https://zh.wikipedia.org/wiki/Category:INFINITE "wikilink")
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink")
-[Category:釜山廣域市出身人物](https://zh.wikipedia.org/wiki/Category:釜山廣域市出身人物 "wikilink")
-[Category:李姓](https://zh.wikipedia.org/wiki/Category:李姓 "wikilink")
+[Category:INFINITE](https://zh.wikipedia.org/wiki/Category:INFINITE "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國電視演員](https://zh.wikipedia.org/wiki/Category:韓國電視演員 "wikilink") [Category:釜山廣域市出身人物](https://zh.wikipedia.org/wiki/Category:釜山廣域市出身人物 "wikilink") [Category:李姓](https://zh.wikipedia.org/wiki/Category:李姓 "wikilink")
 
 1.
 2.

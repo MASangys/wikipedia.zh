@@ -1,17 +1,14 @@
-《**我要當歌手**》（）是[臺灣電視公司](../Page/臺灣電視公司.md "wikilink")（台視）[綜藝節目](../Page/綜藝節目.md "wikilink")，是《[紅白紅白我勝利](../Page/紅白紅白我勝利.md "wikilink")》、《[綜藝十八班](../Page/綜藝十八班.md "wikilink")》、《[百萬大明星](../Page/百萬大明星.md "wikilink")》的續作，號稱全台最大格局選秀節目，[友松傳播製作](https://zh.wikipedia.org/wiki/友松傳播 "wikilink")，製作人為[薛聖棻](../Page/薛聖棻.md "wikilink")、陳俊良、黃琳容、翁偉祥、沈丹桂，主持人為「[綜藝教母](https://zh.wikipedia.org/wiki/綜藝 "wikilink")」[張小燕](../Page/張小燕_\(臺灣\).md "wikilink")、[黃子佼](../Page/黃子佼.md "wikilink")，阿毛老師率領Super
-Band伴奏，2013年5月26日起每[週日](https://zh.wikipedia.org/wiki/週日 "wikilink")[晚上](https://zh.wikipedia.org/wiki/晚上 "wikilink")08:00首播。\[1\]
+《**我要當歌手**》（）是[臺灣電視公司](../Page/臺灣電視公司.md "wikilink")（台視）[綜藝節目](../Page/綜藝節目.md "wikilink")，是《[紅白紅白我勝利](../Page/紅白紅白我勝利.md "wikilink")》、《[綜藝十八班](../Page/綜藝十八班.md "wikilink")》、《[百萬大明星](../Page/百萬大明星.md "wikilink")》的續作，號稱全台最大格局選秀節目，[友松傳播製作](https://zh.wikipedia.org/wiki/友松傳播 "wikilink")，製作人為[薛聖棻](../Page/薛聖棻.md "wikilink")、陳俊良、黃琳容、翁偉祥、沈丹桂，主持人為「[綜藝教母](https://zh.wikipedia.org/wiki/綜藝 "wikilink")」[張小燕](../Page/張小燕_\(臺灣\).md "wikilink")、[黃子佼](../Page/黃子佼.md "wikilink")，阿毛老師率領Super Band伴奏，2013年5月26日起每[週日](https://zh.wikipedia.org/wiki/週日 "wikilink")[晚上](https://zh.wikipedia.org/wiki/晚上 "wikilink")08:00首播。\[1\]
 
 2014年5月11日起，本节目在[凤凰卫视](../Page/凤凰卫视.md "wikilink")欧洲台、美洲台和澳洲版播出，根据协议将播出11集，播出至7月20日结束。\[2\]
 
 ## 贊助商冠名
 
-2014年6月1\~15日所播出的節目，美國國際棉花協會（Cotton Council International）以美國棉（Cotton
-USA）冠名贊助，其正式節目名稱變更為《**美國棉Super Star我要當歌手**》。
+2014年6月1\~15日所播出的節目，美國國際棉花協會（Cotton Council International）以美國棉（Cotton USA）冠名贊助，其正式節目名稱變更為《**美國棉Super Star我要當歌手**》。
 
 ## 節目流程
 
-每週在台視週五晚上八點《[金牌麥克風](../Page/金牌麥克風.md "wikilink")》中表現優異的素人歌手，將取得繼續參加《Super
-Star我要當歌手》的比賽資格。第一集號稱打造臺灣選秀最大格局，挑戰五大現場同步錄製（第二集後改為四大現場），首創演唱分數即是高額獎金，累積獎金到達指定金額即可發行個人單曲。
+每週在台視週五晚上八點《[金牌麥克風](../Page/金牌麥克風.md "wikilink")》中表現優異的素人歌手，將取得繼續參加《Super Star我要當歌手》的比賽資格。第一集號稱打造臺灣選秀最大格局，挑戰五大現場同步錄製（第二集後改為四大現場），首創演唱分數即是高額獎金，累積獎金到達指定金額即可發行個人單曲。
 節目現場配置與錄製方式如下：
 
 |         |        |         |         |         |         |
@@ -26,10 +23,7 @@ Star我要當歌手》的比賽資格。第一集號稱打造臺灣選秀最大�
 
 ### 節目進行
 
-[Yangjing_Fan_with_his_fans_01.jpg](https://zh.wikipedia.org/wiki/File:Yangjing_Fan_with_his_fans_01.jpg "fig:Yangjing_Fan_with_his_fans_01.jpg")
-[Siwei_Chen_with_his_fan.jpg](https://zh.wikipedia.org/wiki/File:Siwei_Chen_with_his_fan.jpg "fig:Siwei_Chen_with_his_fan.jpg")
-[Yangjing_Fan_and_Siwei_Chen.jpg](https://zh.wikipedia.org/wiki/File:Yangjing_Fan_and_Siwei_Chen.jpg "fig:Yangjing_Fan_and_Siwei_Chen.jpg")
-一開始會有挑戰者。挑戰者站上舞台，與評審長（張小燕）稍微談過後，評審長會以《[超級大富翁](../Page/超級大富翁.md "wikilink")》的〈機會？命運！〉遊戲方式，要挑戰者選擇「機會」或「命運」的其中一項。製作單位會事先準備好其中一個較強之或較不強之衛冕者，藏身在「機會」與「命運」之後。因為是[電腦亂數決定](https://zh.wikipedia.org/wiki/亂數 "wikilink")，故製作單位也不知道背後是誰。挑戰者選擇好後，與其相互較量。
+[Yangjing_Fan_with_his_fans_01.jpg](https://zh.wikipedia.org/wiki/File:Yangjing_Fan_with_his_fans_01.jpg "fig:Yangjing_Fan_with_his_fans_01.jpg") [Siwei_Chen_with_his_fan.jpg](https://zh.wikipedia.org/wiki/File:Siwei_Chen_with_his_fan.jpg "fig:Siwei_Chen_with_his_fan.jpg") [Yangjing_Fan_and_Siwei_Chen.jpg](https://zh.wikipedia.org/wiki/File:Yangjing_Fan_and_Siwei_Chen.jpg "fig:Yangjing_Fan_and_Siwei_Chen.jpg") 一開始會有挑戰者。挑戰者站上舞台，與評審長（張小燕）稍微談過後，評審長會以《[超級大富翁](../Page/超級大富翁.md "wikilink")》的〈機會？命運！〉遊戲方式，要挑戰者選擇「機會」或「命運」的其中一項。製作單位會事先準備好其中一個較強之或較不強之衛冕者，藏身在「機會」與「命運」之後。因為是[電腦亂數決定](https://zh.wikipedia.org/wiki/亂數 "wikilink")，故製作單位也不知道背後是誰。挑戰者選擇好後，與其相互較量。
 
 參賽者可以自行選擇拿手之曲目一較高下。參賽者唱歌之際，三百位觀眾評審之現場，會有樂隊同步演奏。由於參賽者歌唱的現場就沒有樂隊，參賽者自身必須要注意與拿捏音樂節奏起始。
 
@@ -41,16 +35,13 @@ Star我要當歌手》的比賽資格。第一集號稱打造臺灣選秀最大�
 
 由於節目是強調「多少分就有多少獎金」，故參賽者在比賽之中，由專業評審給予的分數，就能獲得獎金。專業評審給分則是每次以100分為單位，最低可不給分，即以0分計；最高可以給2,000分。故一位參賽者有最高可一次獲得10,000分的機會。
 
-在此節目中，分數是可以換算成[新臺幣](../Page/新臺幣.md "wikilink")的，也就是100分等於新臺幣100圓整計算，故假設五位評審都給予某位參賽者1,600分，則參賽者可獲得1,600
-× 5 =
-8,000分的成績，也可在該集就獲得新臺幣8,000圓整的獎金。當然，因為在實際的比賽中，每位評審不見得都有相同的看法與意見，每一位評審的給分，不一定彼此會有一樣的情形。
+在此節目中，分數是可以換算成[新臺幣](../Page/新臺幣.md "wikilink")的，也就是100分等於新臺幣100圓整計算，故假設五位評審都給予某位參賽者1,600分，則參賽者可獲得1,600 × 5 = 8,000分的成績，也可在該集就獲得新臺幣8,000圓整的獎金。當然，因為在實際的比賽中，每位評審不見得都有相同的看法與意見，每一位評審的給分，不一定彼此會有一樣的情形。
 
 2013年5月26日\~2014年3月30日的節目為止，若參賽者累計到達新臺幣90,000圓整的獎金，除了應有的累計獎金，還可取得透過[唱片公司](../Page/唱片公司.md "wikilink")發行單曲的機會。故若參賽者每集可獲得新臺幣10,000圓整的獎金，最快只要連續在9集節目當中持續衛冕成功，除了可獲得新臺幣90,000圓整的獎金外，再取得透過唱片公司發行單曲的機會。但節目賽制更改之原因，自2014年4月6日播出起，累積獎金到達新臺幣100,000圓整發行單曲。
 
 基於賽制變更，以加強參賽選手的素質，並回應觀眾等理由（如為何不到8,000分仍可晉級下一次比賽，拚到9,000分卻不能晉級下一次比賽等類似意見與疑問），如果參賽者未獲得8,000分以上（包含8,000分），就算贏了對手也必須到失敗區。例如第48集的參賽者劉又榕與[陳曉怡](../Page/菊梓喬.md "wikilink")，劉又榕雖然以7,700分的成績，贏過[陳曉怡的](../Page/菊梓喬.md "wikilink")7,600分的成績，但兩者分數均未滿8,000分，故兩者均必須到失敗區，等待300位觀眾評審救援。
 
-若參賽者為該集成績最高者，則可成為該集的「MVP」（most valuable
-player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，在前三集因成績優異，均在前三集各自獲得了價值新臺幣100,000圓整的獎品，第三次的時候，還被主持人黃子佼開玩笑說「他已經連續三次我們節目當中『搶劫』啦！」
+若參賽者為該集成績最高者，則可成為該集的「MVP」（most valuable player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，在前三集因成績優異，均在前三集各自獲得了價值新臺幣100,000圓整的獎品，第三次的時候，還被主持人黃子佼開玩笑說「他已經連續三次我們節目當中『搶劫』啦！」
 
 特別注意的是，只有衛冕者，取得的積分才能得到真實的獎金，否則落敗者就不能取得獎金。而若累計到某程度的金額而落敗者，落敗的那一次比賽也就不能獲得獎金。而若是被現場觀眾以投票救回的參賽者，自2013年10月13日前的參賽者，取得的分數皆降為6,000分作為獎金計算。自2013年10月20日播出的節目起，被現場觀眾以投票救回的參賽者，無論名次有多少（即包括遞補名次），當週參賽的分數以0分計算，只保留參賽資格。
 
@@ -104,8 +95,7 @@ player），可獨自獲得價值較高之獎品。例如參賽者蕭閎仁，�
 
 ### K歌之王合作賽
 
-此為參賽者正式比賽前的比賽。〈K歌之王合作賽〉則是專業歌手與2位「畢業歌手」進行合作歌曲對決。
-第28集的節目開始，主持人[黃子佼](../Page/黃子佼.md "wikilink")會將空箱子秀給觀眾看時，再請三位畢業選手的名牌投入箱子內，表示箱子確實只有三位歌手的名牌。製作單位如此要求，主要是因為觀眾懷疑箱子只有固定歌手或固定人選，造成其他未抽中者的不公平感。順帶一提，由於箱子是黑色的，而[黃子佼](../Page/黃子佼.md "wikilink")也曾經開玩笑說過這是「黑箱作業」。
+此為參賽者正式比賽前的比賽。〈K歌之王合作賽〉則是專業歌手與2位「畢業歌手」進行合作歌曲對決。 第28集的節目開始，主持人[黃子佼](../Page/黃子佼.md "wikilink")會將空箱子秀給觀眾看時，再請三位畢業選手的名牌投入箱子內，表示箱子確實只有三位歌手的名牌。製作單位如此要求，主要是因為觀眾懷疑箱子只有固定歌手或固定人選，造成其他未抽中者的不公平感。順帶一提，由於箱子是黑色的，而[黃子佼](../Page/黃子佼.md "wikilink")也曾經開玩笑說過這是「黑箱作業」。
 
 ## 每集評審
 
@@ -4078,16 +4068,14 @@ Stephanie (22.5%)<br />
 </tbody>
 </table>
 
-  - <small>**同時段綜藝節目**：[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")《[超級模王大道2](../Page/超級模王大道2.md "wikilink")/[華人星光大道3](../Page/華人星光大道3.md "wikilink")/[最強大國民](../Page/最強大國民.md "wikilink")》、[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")《[POWER
-    SUNDAY星期天](https://zh.wikipedia.org/wiki/POWER星期天 "wikilink")》（2013年6月2日起停播）、[民視](https://zh.wikipedia.org/wiki/民視 "wikilink")《[綜藝大集合](../Page/綜藝大集合.md "wikilink")》
+  - <small>**同時段綜藝節目**：[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")《[超級模王大道2](../Page/超級模王大道2.md "wikilink")/[華人星光大道3](../Page/華人星光大道3.md "wikilink")/[最強大國民](../Page/最強大國民.md "wikilink")》、[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")《[POWER SUNDAY星期天](https://zh.wikipedia.org/wiki/POWER星期天 "wikilink")》（2013年6月2日起停播）、[民視](https://zh.wikipedia.org/wiki/民視 "wikilink")《[綜藝大集合](../Page/綜藝大集合.md "wikilink")》
   - **同時段戲劇節目**：[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")《[我愛幸運七](../Page/我愛幸運七.md "wikilink")/[金牌老爸](../Page/金牌老爸.md "wikilink")/[金牌俏女郎](https://zh.wikipedia.org/wiki/金牌俏女郎 "wikilink")》
   - '''由[AGB尼爾森調查](https://zh.wikipedia.org/wiki/AGB尼爾森 "wikilink")，調查範圍是四歲以上收看電視之觀眾。
   - **資料來源：[凱絡媒體週報](http://twncarat.wordpress.com/%E9%9B%BB%E8%A6%96%E8%A7%80%E5%AF%9F%E7%AA%97/)**</small>
 
 ## 外部連結
 
-  - [台視Super Star
-    我要當歌手官方網站](http://www.ttv.com.tw/drama13/SuperStar/index.htm)
+  - [台視Super Star 我要當歌手官方網站](http://www.ttv.com.tw/drama13/SuperStar/index.htm)
 
 ## 相關報導
 
@@ -4095,14 +4083,7 @@ Stephanie (22.5%)<br />
 
 ## 節目的變遷
 
-[Category:台視電視節目](https://zh.wikipedia.org/wiki/Category:台視電視節目 "wikilink")
-[Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink")
-[Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink")
-[Category:歌唱比賽](https://zh.wikipedia.org/wiki/Category:歌唱比賽 "wikilink")
-[Category:友松傳播製作電視節目](https://zh.wikipedia.org/wiki/Category:友松傳播製作電視節目 "wikilink")
-[Category:凤凰卫视外购节目](https://zh.wikipedia.org/wiki/Category:凤凰卫视外购节目 "wikilink")
-[Category:香港有線電視節目](https://zh.wikipedia.org/wiki/Category:香港有線電視節目 "wikilink")
+[Category:台視電視節目](https://zh.wikipedia.org/wiki/Category:台視電視節目 "wikilink") [Category:台灣綜藝節目](https://zh.wikipedia.org/wiki/Category:台灣綜藝節目 "wikilink") [Category:演藝選拔節目](https://zh.wikipedia.org/wiki/Category:演藝選拔節目 "wikilink") [Category:歌唱比賽](https://zh.wikipedia.org/wiki/Category:歌唱比賽 "wikilink") [Category:友松傳播製作電視節目](https://zh.wikipedia.org/wiki/Category:友松傳播製作電視節目 "wikilink") [Category:凤凰卫视外购节目](https://zh.wikipedia.org/wiki/Category:凤凰卫视外购节目 "wikilink") [Category:香港有線電視節目](https://zh.wikipedia.org/wiki/Category:香港有線電視節目 "wikilink")
 
-1.  [黃子佼《金麥》打底
-    張小燕《我要當歌手》搭圓夢舞台](http://n.yam.com/wownews/entertain/20130518/20130518489782.html)，《[蕃薯藤](../Page/蕃薯藤.md "wikilink")》，2013年5月18日
+1.  [黃子佼《金麥》打底 張小燕《我要當歌手》搭圓夢舞台](http://n.yam.com/wownews/entertain/20130518/20130518489782.html)，《[蕃薯藤](../Page/蕃薯藤.md "wikilink")》，2013年5月18日
 2.  [节目单](http://phtv.ifeng.com/epg/)

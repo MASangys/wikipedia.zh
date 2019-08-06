@@ -11,15 +11,9 @@
 
 ## 参考资料
 
-[Category:中国蒸汽机车](https://zh.wikipedia.org/wiki/Category:中国蒸汽机车 "wikilink")
-[Category:0-8-0輪式機車](https://zh.wikipedia.org/wiki/Category:0-8-0輪式機車 "wikilink")
+[Category:中国蒸汽机车](https://zh.wikipedia.org/wiki/Category:中国蒸汽机车 "wikilink") [Category:0-8-0輪式機車](https://zh.wikipedia.org/wiki/Category:0-8-0輪式機車 "wikilink")
 
-1.  [TKp (T2D,
-    ‘Śląsk’)](http://www.locomotives.com.pl/Freight%20Tank%20Locomotives/TKp.htm)，Kolumna
-    wyrównana do lewej
-2.  [Class Profiles : ET7
-    Class 0-8-0T](http://www.railography.co.uk/info/cn_steam/profiles/et7.htm)，Railography
+1.  [TKp (T2D, ‘Śląsk’)](http://www.locomotives.com.pl/Freight%20Tank%20Locomotives/TKp.htm)，Kolumna wyrównana do lewej
+2.  [Class Profiles : ET7 Class 0-8-0T](http://www.railography.co.uk/info/cn_steam/profiles/et7.htm)，Railography
 3.  [ET7形テンダー蒸気機関車_中国の蒸気機関車](http://www.kurogane-rail.jp/zh2/cloco21.html)_くろがねのみち
-4.  [ET7 401 to
-    ET7 5501](http://www.railography.co.uk/info/cn_steam/lists/locos/et7_0401.htm)_Railography
-    : Chinese Locomotive Lists
+4.  [ET7 401 to ET7 5501](http://www.railography.co.uk/info/cn_steam/lists/locos/et7_0401.htm)_Railography : Chinese Locomotive Lists

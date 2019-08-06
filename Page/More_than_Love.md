@@ -1,13 +1,10 @@
-《**More Than
-Love**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[麥家瑜](../Page/麥家瑜.md "wikilink")的第二張大碟，本定於2013年7月15日推出\[1\]，後順延兩日至7月17日發行。\[2\]
+《**More Than Love**》是[香港](../Page/香港.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")[麥家瑜](../Page/麥家瑜.md "wikilink")的第二張大碟，本定於2013年7月15日推出\[1\]，後順延兩日至7月17日發行。\[2\]
 
 ## 專輯簡介
 
-相隔三年多，麥家瑜推出第二張個人大碟，當中她揚言自己在這段時間，經歷了事業的低潮：沒有任何工作，沒有推出任何個人音樂作品，一度靠家人才能維持生計，更被朋友冷嘲熱諷，令她對自己歌唱事業的發展一度感到焦急和迷失；但同時得到父親與歌迷對其追尋歌手夢的支持和鼓勵，令她感受到人情冷暖，於是她把該大碟命名為《More
-Than Love》（比愛更多），希望大碟除了有十首不同曲風、不同愛情階段的情歌，還包含自己對親情、友情及愛情的愛，並藉此送給他們。\[3\]
+相隔三年多，麥家瑜推出第二張個人大碟，當中她揚言自己在這段時間，經歷了事業的低潮：沒有任何工作，沒有推出任何個人音樂作品，一度靠家人才能維持生計，更被朋友冷嘲熱諷，令她對自己歌唱事業的發展一度感到焦急和迷失；但同時得到父親與歌迷對其追尋歌手夢的支持和鼓勵，令她感受到人情冷暖，於是她把該大碟命名為《More Than Love》（比愛更多），希望大碟除了有十首不同曲風、不同愛情階段的情歌，還包含自己對親情、友情及愛情的愛，並藉此送給他們。\[3\]
 
-與首張大碟《Keeva Mak》相比，《More Than
-Love》是其延續版，仍保持多元曲風的路線，但由於她經歷了事業的起落，令她自言演繹其十首情歌時變得更成熟和豐富。此外，她更參與大碟的製作，例如在唱腔、選歌方面提供了不少意見。\[4\]
+與首張大碟《Keeva Mak》相比，《More Than Love》是其延續版，仍保持多元曲風的路線，但由於她經歷了事業的起落，令她自言演繹其十首情歌時變得更成熟和豐富。此外，她更參與大碟的製作，例如在唱腔、選歌方面提供了不少意見。\[4\]
 
 ## 曲目
 
@@ -76,16 +73,11 @@ Love》是其延續版，仍保持多元曲風的路線，但由於她經歷了�
 
 ## 外部連結
 
-  - [Keeva Mak - More Than
-    Love（官方介紹網站）](http://www.umg.com.hk/minisite/keeva_morethanlove/main.swf)
+  - [Keeva Mak - More Than Love（官方介紹網站）](http://www.umg.com.hk/minisite/keeva_morethanlove/main.swf)
 
-[Category:麥家瑜音樂專輯](https://zh.wikipedia.org/wiki/Category:麥家瑜音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:麥家瑜音樂專輯](https://zh.wikipedia.org/wiki/Category:麥家瑜音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
-1.  [麥家瑜的微博](http://www.weibo.com/keevamak)：「無錯\!我嘅第二張專輯會係7月15號面世！當然要keep
-    fit D la\! Haha（6月16日 17:41）」
+1.  [麥家瑜的微博](http://www.weibo.com/keevamak)：「無錯\!我嘅第二張專輯會係7月15號面世！當然要keep fit D la\! Haha（6月16日 17:41）」
 2.
 3.
 4.

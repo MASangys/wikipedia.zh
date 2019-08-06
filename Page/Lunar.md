@@ -1,5 +1,4 @@
-**Lunar**，是[中国大陆女子偶像音乐团体](https://zh.wikipedia.org/wiki/中国 "wikilink")\[1\]，由10名动漫主题咖啡店打工女生组成，发行首张专辑《Give
-Me》。
+**Lunar**，是[中国大陆女子偶像音乐团体](https://zh.wikipedia.org/wiki/中国 "wikilink")\[1\]，由10名动漫主题咖啡店打工女生组成，发行首张专辑《Give Me》。
 
 ## 主要经历
 
@@ -65,17 +64,12 @@ Me》。
 ## 外部链接
 
   - [Lunar 官方微博](http://weibo.com/lunargirls)
-  - [Lunar
-    官方音乐](https://web.archive.org/web/20170729034344/http://music.baidu.com/artist/18327441)
+  - [Lunar 官方音乐](https://web.archive.org/web/20170729034344/http://music.baidu.com/artist/18327441)
   - [Lunar 官方MV](http://www.yinyuetai.com/fanclub/24658)
 
-[Category:中国女子演唱团体](https://zh.wikipedia.org/wiki/Category:中国女子演唱团体 "wikilink")
-[Category:以上海为据点的女子演唱团体](https://zh.wikipedia.org/wiki/Category:以上海为据点的女子演唱团体 "wikilink")
-[Category:2011年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2011年成立的音乐团体 "wikilink")
-[Category:华语流行音乐团体](https://zh.wikipedia.org/wiki/Category:华语流行音乐团体 "wikilink")
+[Category:中国女子演唱团体](https://zh.wikipedia.org/wiki/Category:中国女子演唱团体 "wikilink") [Category:以上海为据点的女子演唱团体](https://zh.wikipedia.org/wiki/Category:以上海为据点的女子演唱团体 "wikilink") [Category:2011年成立的音乐团体](https://zh.wikipedia.org/wiki/Category:2011年成立的音乐团体 "wikilink") [Category:华语流行音乐团体](https://zh.wikipedia.org/wiki/Category:华语流行音乐团体 "wikilink")
 
-1.  [女子组合ChinaQueen出道
-    推出首张EP](http://ent.sina.com.cn/y/2013-07-30/19383976192.shtml)
+1.  [女子组合ChinaQueen出道 推出首张EP](http://ent.sina.com.cn/y/2013-07-30/19383976192.shtml)
 2.  [新秀偶像团Lunar少女组合登场ChinaJoy](http://game.163.com/13/0724/11/94I0S6V400314K8I.html)
 3.  [女子组合Lunar沪发片 穿萌系制服甜美出道](http://ent.qq.com/a/20130608/001472.htm)
 4.  [完美世界2012CJ超萌女仆团Lunar组合大曝光](http://news.jschina.com.cn/system/2012/07/11/013745714.shtml)

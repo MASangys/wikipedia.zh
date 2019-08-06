@@ -2,8 +2,7 @@
 
 ## 解說
 
-  - 加入了新成員主唱[TAKAHIRO及表演者的](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")[AKIRA](../Page/AKIRA.md "wikilink")的EXILE第二章第三張的單曲。是其第5張專輯《[EXILE
-    EVOLUTION](../Page/EXILE_EVOLUTION.md "wikilink")》的先行發行單曲。
+  - 加入了新成員主唱[TAKAHIRO及表演者的](https://zh.wikipedia.org/wiki/TAKAHIRO "wikilink")[AKIRA](../Page/AKIRA.md "wikilink")的EXILE第二章第三張的單曲。是其第5張專輯《[EXILE EVOLUTION](../Page/EXILE_EVOLUTION.md "wikilink")》的先行發行單曲。
   - 有「CD+DVD」及「CD ONLY」2種形態。2種形態也是完全限定生產發售，封面也不相同並且以紙盒包裝。
   - 以「畢業=出發」為主題的抒情歌歌曲，由除了原版本以外，還有收錄鋼琴版本及混聲三部分的合唱。
   - 據說這首歌的原模型是以戰爭為題材的《Attack No.1》舞台劇。
@@ -24,22 +23,18 @@
 ### CD
 
 1.  **道路**
-      - 作詞：Shogo Kashida / 作曲：miwa furuse / 編曲：華原大輔 / String arrangement
-        ：前嶋康明
+      - 作詞：Shogo Kashida / 作曲：miwa furuse / 編曲：華原大輔 / String arrangement ：前嶋康明
     <!-- end list -->
       -
         music.jp 電視 動畫廣告歌
-        [日本電視台](../Page/日本電視台.md "wikilink")系《[音樂戰士 MUSIC
-        FIGHTER](../Page/音樂戰士_MUSIC_FIGHTER.md "wikilink")》2月開場主題曲
+        [日本電視台](../Page/日本電視台.md "wikilink")系《[音樂戰士 MUSIC FIGHTER](../Page/音樂戰士_MUSIC_FIGHTER.md "wikilink")》2月開場主題曲
         全國卡拉OK經營者協會畢業季節推薦歌
 2.  道路 -Piano Version-
-      - 作詞：Shogo Kashida / 作曲：miwa furuse /
-        編曲：[中野雄太](https://zh.wikipedia.org/wiki/中野雄太 "wikilink")
+      - 作詞：Shogo Kashida / 作曲：miwa furuse / 編曲：[中野雄太](https://zh.wikipedia.org/wiki/中野雄太 "wikilink")
 3.  道路 (Instrumental)
 4.  道路 -Piano Version- (Instrumental)
 5.  合唱 **道路**
-      - 作詞：Shogo Kashida / 作曲：miwa furuse / 編曲：
-        [若松歓](https://zh.wikipedia.org/wiki/若松歓 "wikilink")
+      - 作詞：Shogo Kashida / 作曲：miwa furuse / 編曲： [若松歓](https://zh.wikipedia.org/wiki/若松歓 "wikilink")
     <!-- end list -->
       -
         混聲三部分合唱：[NHK東京兒童合唱團青年級](https://zh.wikipedia.org/wiki/NHK東京兒童合唱團 "wikilink")/栗友會青年唱歌班
@@ -56,18 +51,11 @@
 
   - [EXILE EVOLUTION](../Page/EXILE_EVOLUTION.md "wikilink")（\#1）
   - [EXILE BALLAD BEST](../Page/EXILE_BALLAD_BEST.md "wikilink")（\#1）
-  - [LOVE
-    SIDE](https://zh.wikipedia.org/wiki/EXILE_BEST_HITS_-LOVE_SIDE_/_SOUL_SIDE-#LOVE_SIDE "wikilink")（\#1）
+  - [LOVE SIDE](https://zh.wikipedia.org/wiki/EXILE_BEST_HITS_-LOVE_SIDE_/_SOUL_SIDE-#LOVE_SIDE "wikilink")（\#1）
 
 ## 備註
 
-[Category:放浪兄弟歌曲](https://zh.wikipedia.org/wiki/Category:放浪兄弟歌曲 "wikilink")
-[Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink")
-[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
-[Category:日本電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台節目主題曲 "wikilink")
-[Category:2007年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:RIAJ手機片段下載百萬認證歌曲](https://zh.wikipedia.org/wiki/Category:RIAJ手機片段下載百萬認證歌曲 "wikilink")
-[Category:道路題材樂曲](https://zh.wikipedia.org/wiki/Category:道路題材樂曲 "wikilink")
+[Category:放浪兄弟歌曲](https://zh.wikipedia.org/wiki/Category:放浪兄弟歌曲 "wikilink") [Category:2007年單曲](https://zh.wikipedia.org/wiki/Category:2007年單曲 "wikilink") [Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink") [Category:日本電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台節目主題曲 "wikilink") [Category:2007年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2007年Oricon單曲週榜冠軍作品 "wikilink") [Category:RIAJ手機片段下載百萬認證歌曲](https://zh.wikipedia.org/wiki/Category:RIAJ手機片段下載百萬認證歌曲 "wikilink") [Category:道路題材樂曲](https://zh.wikipedia.org/wiki/Category:道路題材樂曲 "wikilink")
 
 1.  2007年3月19日播映的「[Channel-a](https://zh.wikipedia.org/wiki/Channel-a "wikilink")」
 2.  <http://www.oricon.co.jp/news/music/42515/>

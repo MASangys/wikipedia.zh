@@ -1,7 +1,6 @@
 是[藝電足球](https://zh.wikipedia.org/wiki/藝電 "wikilink")[運動類電子遊戲](https://zh.wikipedia.org/wiki/体育类游戏 "wikilink")[FIFA系列](../Page/FIFA系列.md "wikilink")的第20款，由藝電加拿大開發，[梅西擔任代言人](https://zh.wikipedia.org/wiki/梅西 "wikilink")。
 
-試玩版的FIFA 13
-可試玩[曼城](https://zh.wikipedia.org/wiki/曼徹斯特城足球會 "wikilink")、[阿仙奴](https://zh.wikipedia.org/wiki/阿仙奴 "wikilink")、[AC米蘭](https://zh.wikipedia.org/wiki/AC米蘭 "wikilink")、[祖雲達斯](https://zh.wikipedia.org/wiki/祖雲達斯 "wikilink")、[多蒙特五隊球隊](https://zh.wikipedia.org/wiki/多蒙特足球會 "wikilink")。該場館採用了[曼城的](https://zh.wikipedia.org/wiki/曼徹斯特城足球會 "wikilink")[曼徹斯特市球場](../Page/曼徹斯特市球場.md "wikilink")。該演示提供友誼賽的一半長度的3實時分鐘。
+試玩版的FIFA 13 可試玩[曼城](https://zh.wikipedia.org/wiki/曼徹斯特城足球會 "wikilink")、[阿仙奴](https://zh.wikipedia.org/wiki/阿仙奴 "wikilink")、[AC米蘭](https://zh.wikipedia.org/wiki/AC米蘭 "wikilink")、[祖雲達斯](https://zh.wikipedia.org/wiki/祖雲達斯 "wikilink")、[多蒙特五隊球隊](https://zh.wikipedia.org/wiki/多蒙特足球會 "wikilink")。該場館採用了[曼城的](https://zh.wikipedia.org/wiki/曼徹斯特城足球會 "wikilink")[曼徹斯特市球場](../Page/曼徹斯特市球場.md "wikilink")。該演示提供友誼賽的一半長度的3實時分鐘。
 
 ## 新特色
 
@@ -33,17 +32,13 @@
 
 ### 國際賽模式重回FIFA系列
 
-此為自[FIFA
-2002之後於生涯模式裡重新加入國際賽模式](../Page/FIFA系列.md "wikilink")（[世界盃](../Page/世界盃.md "wikilink")、[洲際盃和](https://zh.wikipedia.org/wiki/洲際盃 "wikilink")[歐洲國家盃](https://zh.wikipedia.org/wiki/歐洲國家盃 "wikilink")）。
+此為自[FIFA 2002之後於生涯模式裡重新加入國際賽模式](../Page/FIFA系列.md "wikilink")（[世界盃](../Page/世界盃.md "wikilink")、[洲際盃和](https://zh.wikipedia.org/wiki/洲際盃 "wikilink")[歐洲國家盃](https://zh.wikipedia.org/wiki/歐洲國家盃 "wikilink")）。
 
 ## 解说
 
-[马丁·泰勒](../Page/马丁·泰勒.md "wikilink")和[阿森纳前球星](https://zh.wikipedia.org/wiki/阿森纳 "wikilink")[阿兰·马丁·史密斯在FIFA](https://zh.wikipedia.org/wiki/阿兰·马丁·史密斯 "wikilink")
-13中再次担当英语解说员，另外还有[克莱夫·泰尔德斯利和](https://zh.wikipedia.org/wiki/克莱夫·泰尔德斯利 "wikilink")[英格兰名将](https://zh.wikipedia.org/wiki/英格兰国家足球队 "wikilink")[安迪·汤森德](https://zh.wikipedia.org/wiki/安迪·汤森德 "wikilink")。除此之外，Geoff
-Shreeves在场边提供伤情报道，Alan McInally带来最新战报（仅限生涯模式和锦标赛模式中）。
+[马丁·泰勒](../Page/马丁·泰勒.md "wikilink")和[阿森纳前球星](https://zh.wikipedia.org/wiki/阿森纳 "wikilink")[阿兰·马丁·史密斯在FIFA](https://zh.wikipedia.org/wiki/阿兰·马丁·史密斯 "wikilink") 13中再次担当英语解说员，另外还有[克莱夫·泰尔德斯利和](https://zh.wikipedia.org/wiki/克莱夫·泰尔德斯利 "wikilink")[英格兰名将](https://zh.wikipedia.org/wiki/英格兰国家足球队 "wikilink")[安迪·汤森德](https://zh.wikipedia.org/wiki/安迪·汤森德 "wikilink")。除此之外，Geoff Shreeves在场边提供伤情报道，Alan McInally带来最新战报（仅限生涯模式和锦标赛模式中）。
 
-另外，[ESPN](../Page/ESPN.md "wikilink")的几位拉丁美洲解说员，萨尔瓦多人费尔南多·帕洛莫、阿根廷退役前锋[-{zh-hans:马里奥·肯佩斯;zh-hk:馬里奧·甘巴斯;zh-tw:馬利歐·肯佩斯}-和墨西哥人Ciro](../Page/马里奥·肯佩斯.md "wikilink")
-Procuna，都将在游戏的拉美版中现声。
+另外，[ESPN](../Page/ESPN.md "wikilink")的几位拉丁美洲解说员，萨尔瓦多人费尔南多·帕洛莫、阿根廷退役前锋[-{zh-hans:马里奥·肯佩斯;zh-hk:馬里奧·甘巴斯;zh-tw:馬利歐·肯佩斯}-和墨西哥人Ciro](../Page/马里奥·肯佩斯.md "wikilink") Procuna，都将在游戏的拉美版中现声。
 
 ## 赛事及球队
 
@@ -138,8 +133,7 @@ Procuna，都将在游戏的拉美版中现声。
 
   - [PAOK](https://zh.wikipedia.org/wiki/P.A.O.K._F.C. "wikilink")
 
-  - [-{zh-hans:阿韦利亚内达竞赛;
-    zh-hk:阿維拉達競賽會;}-](https://zh.wikipedia.org/wiki/阿韦利亚内达竞赛 "wikilink")
+  - [-{zh-hans:阿韦利亚内达竞赛; zh-hk:阿維拉達競賽會;}-](https://zh.wikipedia.org/wiki/阿韦利亚内达竞赛 "wikilink")
 
   - [格拉斯哥流浪者](https://zh.wikipedia.org/wiki/格拉斯哥流浪者 "wikilink")
 
@@ -151,11 +145,7 @@ Procuna，都将在游戏的拉美版中现声。
 
 ### 国家队
 
-据艺电网站确认，FIFA
-13中共有46支国家队。[捷克和](https://zh.wikipedia.org/wiki/捷克国家足球队 "wikilink")[巴拉圭回到了游戏当中](https://zh.wikipedia.org/wiki/巴拉圭国家足球队 "wikilink")，[印度](https://zh.wikipedia.org/wiki/印度国家足球队 "wikilink")、[玻利维亚和](https://zh.wikipedia.org/wiki/玻利维亚国家足球队 "wikilink")[委内瑞拉在自](https://zh.wikipedia.org/wiki/委内瑞拉国家足球队 "wikilink")[FIFA
-Football
-2002以来的](../Page/FIFA系列.md "wikilink")11年间断后也重返主系列。而[克罗地亚则被去掉了](https://zh.wikipedia.org/wiki/克罗地亚国家足球队 "wikilink")。\[2\]
-**粗体**显示的是本版本FIFA的新增球队。
+据艺电网站确认，FIFA 13中共有46支国家队。[捷克和](https://zh.wikipedia.org/wiki/捷克国家足球队 "wikilink")[巴拉圭回到了游戏当中](https://zh.wikipedia.org/wiki/巴拉圭国家足球队 "wikilink")，[印度](https://zh.wikipedia.org/wiki/印度国家足球队 "wikilink")、[玻利维亚和](https://zh.wikipedia.org/wiki/玻利维亚国家足球队 "wikilink")[委内瑞拉在自](https://zh.wikipedia.org/wiki/委内瑞拉国家足球队 "wikilink")[FIFA Football 2002以来的](../Page/FIFA系列.md "wikilink")11年间断后也重返主系列。而[克罗地亚则被去掉了](https://zh.wikipedia.org/wiki/克罗地亚国家足球队 "wikilink")。\[2\] **粗体**显示的是本版本FIFA的新增球队。
 
 <table>
 <tbody>
@@ -232,8 +222,7 @@ Football
 
 ## 球场
 
-FIFA
-13中共包含69座球场，其中包括两座新添加的真实球场：[托特纳姆热刺的主场](https://zh.wikipedia.org/wiki/托特纳姆热刺 "wikilink")[白鹿巷球场和](https://zh.wikipedia.org/wiki/白鹿巷球场 "wikilink")[沙特阿拉伯国家足球队的主场](https://zh.wikipedia.org/wiki/沙特阿拉伯国家足球队 "wikilink")[法赫德国王国际体育场](https://zh.wikipedia.org/wiki/法赫德国王国际体育场 "wikilink")。但是，由于艺电未能与[巴塞罗那足球俱乐部](../Page/巴塞罗那足球俱乐部.md "wikilink")达成许可协议，在之前多个版本中出现的巴塞罗那的主场[诺坎普球场](https://zh.wikipedia.org/wiki/诺坎普球场 "wikilink")，并未出现在本版中。\[3\]以下以**粗体**显示者为本版新加入的球场。
+FIFA 13中共包含69座球场，其中包括两座新添加的真实球场：[托特纳姆热刺的主场](https://zh.wikipedia.org/wiki/托特纳姆热刺 "wikilink")[白鹿巷球场和](https://zh.wikipedia.org/wiki/白鹿巷球场 "wikilink")[沙特阿拉伯国家足球队的主场](https://zh.wikipedia.org/wiki/沙特阿拉伯国家足球队 "wikilink")[法赫德国王国际体育场](https://zh.wikipedia.org/wiki/法赫德国王国际体育场 "wikilink")。但是，由于艺电未能与[巴塞罗那足球俱乐部](../Page/巴塞罗那足球俱乐部.md "wikilink")达成许可协议，在之前多个版本中出现的巴塞罗那的主场[诺坎普球场](https://zh.wikipedia.org/wiki/诺坎普球场 "wikilink")，并未出现在本版中。\[3\]以下以**粗体**显示者为本版新加入的球场。
 
 ### 真实球场
 
@@ -461,18 +450,15 @@ FIFA 13的正式背景音乐于2012年9月6日公布。游戏隆重推出了50�
 
 ## 封面
 
-游戏的全球版封面以[梅西为代言人](https://zh.wikipedia.org/wiki/梅西 "wikilink")，\[5\]背景是[圣詹姆斯公园球场](https://zh.wikipedia.org/wiki/圣詹姆斯公园球场 "wikilink")。除此之外，正如之前几年一样，游戏还使用了其他地区性封面，上面除了梅西还会有另外的当地球员代言；但只有北美例外，只用了梅西作为代言人。\[6\]这是自FIFA
-2003以来北美版本首次使用单个封面球员。
+游戏的全球版封面以[梅西为代言人](https://zh.wikipedia.org/wiki/梅西 "wikilink")，\[5\]背景是[圣詹姆斯公园球场](https://zh.wikipedia.org/wiki/圣詹姆斯公园球场 "wikilink")。除此之外，正如之前几年一样，游戏还使用了其他地区性封面，上面除了梅西还会有另外的当地球员代言；但只有北美例外，只用了梅西作为代言人。\[6\]这是自FIFA 2003以来北美版本首次使用单个封面球员。
 
 各地区版本的当地代言球星如下：
 
   - 奧地利：[大衛·阿拉巴](../Page/大衛·阿拉巴.md "wikilink")
 
-  - 爱尔兰：[马克·奎格利](https://zh.wikipedia.org/wiki/马克·奎格利 "wikilink")（Mark
-    Quigley）\[7\]
+  - 爱尔兰：[马克·奎格利](https://zh.wikipedia.org/wiki/马克·奎格利 "wikilink")（Mark Quigley）\[7\]
 
-  - 英国：[-{zh-cn:亚历克斯·奥克斯雷德-张伯伦;
-    zh-hk:阿歷士·奧斯勒德-張伯倫;}-](../Page/亚历克斯·奥克斯雷德-张伯伦.md "wikilink")、[乔·哈特](../Page/乔·哈特.md "wikilink")\[8\]
+  - 英国：[-{zh-cn:亚历克斯·奥克斯雷德-张伯伦; zh-hk:阿歷士·奧斯勒德-張伯倫;}-](../Page/亚历克斯·奥克斯雷德-张伯伦.md "wikilink")、[乔·哈特](../Page/乔·哈特.md "wikilink")\[8\]
 
   - 西班牙：[羅拔圖·蘇達度](../Page/羅拔圖·蘇達度.md "wikilink")
 
@@ -480,8 +466,7 @@ FIFA 13的正式背景音乐于2012年9月6日公布。游戏隆重推出了50�
 
   - 法国：[卡里姆·本泽马](../Page/卡里姆·本泽马.md "wikilink")\[10\]
 
-  - 中东：[阿卜杜勒阿齐兹·杜萨里](https://zh.wikipedia.org/wiki/阿卜杜勒阿齐兹·杜萨里 "wikilink")（Abdullaziz
-    Al-Dosari）、[乔·哈特](../Page/乔·哈特.md "wikilink")\[11\]
+  - 中东：[阿卜杜勒阿齐兹·杜萨里](https://zh.wikipedia.org/wiki/阿卜杜勒阿齐兹·杜萨里 "wikilink")（Abdullaziz Al-Dosari）、[乔·哈特](../Page/乔·哈特.md "wikilink")\[11\]
 
   - 波兰：[-{zh-hans:雅库布·布瓦什奇科夫斯基;zh-hk:雅庫布·巴錫高夫斯基;zh-tw:雅庫布·布瓦什奇科夫斯基;}-](../Page/雅库布·布瓦什奇科夫斯基.md "wikilink")
 
@@ -494,18 +479,7 @@ FIFA 13的正式背景音乐于2012年9月6日公布。游戏隆重推出了50�
 ## 外部連結
 
   -
-[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink")
-[Category:FIFA系列](https://zh.wikipedia.org/wiki/Category:FIFA系列 "wikilink")
-[Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
-[Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink")
-[Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink")
-[Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink")
-[Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink")
-[Category:加拿大開發電子遊戲](https://zh.wikipedia.org/wiki/Category:加拿大開發電子遊戲 "wikilink")
+[Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:FIFA系列](https://zh.wikipedia.org/wiki/Category:FIFA系列 "wikilink") [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink") [Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:Xbox_360遊戲](https://zh.wikipedia.org/wiki/Category:Xbox_360遊戲 "wikilink") [Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink") [Category:加拿大開發電子遊戲](https://zh.wikipedia.org/wiki/Category:加拿大開發電子遊戲 "wikilink")
 
 1.
 

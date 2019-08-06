@@ -70,20 +70,14 @@
   - [J-one 官方微博](http://weibo.com/joyone1)
   - [J-one 官方音乐](http://music.baidu.com/artist/87916783)
 
-[Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
+[Category:中国男子演唱团体](https://zh.wikipedia.org/wiki/Category:中国男子演唱团体 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
 
-1.  [J-ONE男团首张EP正式发售
-    助力公益环保](http://ent.sina.com.cn/y/2011-11-22/20153487758.shtml)
-2.  [J-ONE男团首张EP
-    大搞Topless](http://www.hunantv.com/c/20111122/1108251494.html)
+1.  [J-ONE男团首张EP正式发售 助力公益环保](http://ent.sina.com.cn/y/2011-11-22/20153487758.shtml)
+2.  [J-ONE男团首张EP 大搞Topless](http://www.hunantv.com/c/20111122/1108251494.html)
 3.  [内地新进组合J-ONE男团首张EP强势发布](http://ent.sina.com.cn/y/2011-11-07/11283473195.shtml)
-4.  [新人组合J-ONE男团
-    《火热》年末势不可挡](http://ent.163.com/11/1231/17/7MKCBES100032PQV.html)
+4.  [新人组合J-ONE男团 《火热》年末势不可挡](http://ent.163.com/11/1231/17/7MKCBES100032PQV.html)
 5.  [J-ONE男团春晚赶场空中飞不停](http://ent.sina.com.cn/s/m/2012-01-22/12093540326.shtml)
-6.  [J-ONE男团年末大出动
-    《火热》现身各台春晚](http://ent.163.com/12/0122/10/7OC9GEAV00032PQV.html)
+6.  [J-ONE男团年末大出动 《火热》现身各台春晚](http://ent.163.com/12/0122/10/7OC9GEAV00032PQV.html)
 7.  [J-ONE献唱《歌声传奇》 阐释歇斯底里的爱情](http://ent.qq.com/a/20111207/000310.htm)
 8.  [《大直播》明星换装再添猛将 J-ONE秀马达臀](http://ent.qq.com/a/20120601/000354.htm)
-9.  [J-ONE男团挑战水下换装
-    穿“蓬蓬裙”英雄救美](http://ent.163.com/12/0604/14/835OLIKN00031GVS.html)
+9.  [J-ONE男团挑战水下换装 穿“蓬蓬裙”英雄救美](http://ent.163.com/12/0604/14/835OLIKN00031GVS.html)

@@ -1,6 +1,4 @@
-C++
-AMP是[微软](../Page/微软.md "wikilink")公司基于[DirectX](../Page/DirectX.md "wikilink")
-11技术实现的一个[并行计算](../Page/并行计算.md "wikilink")库。它建立在[C++](../Page/C++.md "wikilink")的语言规范上，使得程序员可以相对容易地在数据并行硬件（如[显卡](https://zh.wikipedia.org/wiki/显卡 "wikilink")）上编写并执行并行计算程序。
+C++ AMP是[微软](../Page/微软.md "wikilink")公司基于[DirectX](../Page/DirectX.md "wikilink") 11技术实现的一个[并行计算](../Page/并行计算.md "wikilink")库。它建立在[C++](../Page/C++.md "wikilink")的语言规范上，使得程序员可以相对容易地在数据并行硬件（如[显卡](https://zh.wikipedia.org/wiki/显卡 "wikilink")）上编写并执行并行计算程序。
 
 ## 特性
 
@@ -9,8 +7,7 @@ AMP是[微软](../Page/微软.md "wikilink")公司基于[DirectX](../Page/Direct
 
 ## 系统要求
 
-  - 操作系统：Windows 7, Windows 8, Windows Server 2008 R2, 或者Windows Server
-    2012
+  - 操作系统：Windows 7, Windows 8, Windows Server 2008 R2, 或者Windows Server 2012
   - 支持DirectX 11或更新的硬件
 
 ## 示范程序
@@ -50,21 +47,17 @@ void TestCPPAMP() {
 
 ## 历史
 
-C++ AMP的初始版本于2012年发布\[1\]。2013年，微软在添加了一些特性后发布了C++ AMP的[Microsoft Visual
-Studio](../Page/Microsoft_Visual_Studio.md "wikilink") 2013版本\[2\]。
+C++ AMP的初始版本于2012年发布\[1\]。2013年，微软在添加了一些特性后发布了C++ AMP的[Microsoft Visual Studio](../Page/Microsoft_Visual_Studio.md "wikilink") 2013版本\[2\]。
 
 ## 竞争对手
 
-在并行计算领域，C++
-AMP的对手有[NVidia公司的](https://zh.wikipedia.org/wiki/NVidia "wikilink")[CUDA](../Page/CUDA.md "wikilink")技术和开放标准的[OpenCL](../Page/OpenCL.md "wikilink")技术。
+在并行计算领域，C++ AMP的对手有[NVidia公司的](https://zh.wikipedia.org/wiki/NVidia "wikilink")[CUDA](../Page/CUDA.md "wikilink")技术和开放标准的[OpenCL](../Page/OpenCL.md "wikilink")技术。
 
 ## 资料来源
 
 <references />
 
-[Category:GPGPU函式庫](https://zh.wikipedia.org/wiki/Category:GPGPU函式庫 "wikilink")
-[Category:C++函式庫](https://zh.wikipedia.org/wiki/Category:C++函式庫 "wikilink")
-[Category:并行计算](https://zh.wikipedia.org/wiki/Category:并行计算 "wikilink")
+[Category:GPGPU函式庫](https://zh.wikipedia.org/wiki/Category:GPGPU函式庫 "wikilink") [Category:C++函式庫](https://zh.wikipedia.org/wiki/Category:C++函式庫 "wikilink") [Category:并行计算](https://zh.wikipedia.org/wiki/Category:并行计算 "wikilink")
 
 1.  <http://blogs.msdn.com/b/somasegar/archive/2012/02/03/c-amp-open-specification.aspx>
 2.  <http://blogs.msdn.com/b/nativeconcurrency/archive/2013/06/28/what-s-new-for-c-amp-in-visual-studio-2013.aspx?Redirected=true>

@@ -1,12 +1,8 @@
-[PLZ-05_Self-Propelled_Artillery_20170919.jpg](https://zh.wikipedia.org/wiki/File:PLZ-05_Self-Propelled_Artillery_20170919.jpg "fig:PLZ-05_Self-Propelled_Artillery_20170919.jpg")
-**PLZ-05
-155毫米自行加榴炮**是[中國人民解放軍正式装备的首款](https://zh.wikipedia.org/wiki/中國人民解放軍 "wikilink")155毫米履带式[自行火炮](../Page/自行火炮.md "wikilink")，由[PLZ-45自行加榴炮](../Page/PLZ-45自行加榴炮.md "wikilink")发展而来。采用52倍口径身管，用以替代[83式自行加榴炮](../Page/83式152毫米自行加榴炮.md "wikilink")，2005年正式定型量產。到2013年为止,
-解放军至少已装备了288门PLZ05。
+[PLZ-05_Self-Propelled_Artillery_20170919.jpg](https://zh.wikipedia.org/wiki/File:PLZ-05_Self-Propelled_Artillery_20170919.jpg "fig:PLZ-05_Self-Propelled_Artillery_20170919.jpg") **PLZ-05 155毫米自行加榴炮**是[中國人民解放軍正式装备的首款](https://zh.wikipedia.org/wiki/中國人民解放軍 "wikilink")155毫米履带式[自行火炮](../Page/自行火炮.md "wikilink")，由[PLZ-45自行加榴炮](../Page/PLZ-45自行加榴炮.md "wikilink")发展而来。采用52倍口径身管，用以替代[83式自行加榴炮](../Page/83式152毫米自行加榴炮.md "wikilink")，2005年正式定型量產。到2013年为止, 解放军至少已装备了288门PLZ05。
 
 ## 研制
 
-最初的155毫米自行火炮的研制於1980年代中期展開，稱為[PLZ-45型](https://zh.wikipedia.org/wiki/PLZ-45自走砲 "wikilink")（45倍口径火炮），已經達到國際水準，性价比超過美製[M109自走砲](../Page/M109自走砲.md "wikilink")，1997年[科威特](../Page/科威特.md "wikilink")曾订购了总数54辆的外销型[PLZ-45装备](https://zh.wikipedia.org/wiki/PLZ-45 "wikilink")3个炮兵营，\[1\]
-1990年代155毫米自行火炮的技术指标进行了较大调整，身管长度由45倍口径增加到52倍口径，提高弹丸初速与最大射程，改良產物便是PLZ-05自行火炮。
+最初的155毫米自行火炮的研制於1980年代中期展開，稱為[PLZ-45型](https://zh.wikipedia.org/wiki/PLZ-45自走砲 "wikilink")（45倍口径火炮），已經達到國際水準，性价比超過美製[M109自走砲](../Page/M109自走砲.md "wikilink")，1997年[科威特](../Page/科威特.md "wikilink")曾订购了总数54辆的外销型[PLZ-45装备](https://zh.wikipedia.org/wiki/PLZ-45 "wikilink")3个炮兵营，\[1\] 1990年代155毫米自行火炮的技术指标进行了较大调整，身管长度由45倍口径增加到52倍口径，提高弹丸初速与最大射程，改良產物便是PLZ-05自行火炮。
 
 ## 概况
 
@@ -31,8 +27,7 @@ PLZ-05自行加榴炮整个火炮系统还包括营/连指挥车、侦察车、�
 
 ## 参考文献
 
-  - [PLZ05 155MM SELF-PROPELLED GUN-HOWITZER, Sino
-    Defence](https://web.archive.org/web/20100328022917/http://www.sinodefence.com/army/artillery/plz05.asp)
+  - [PLZ05 155MM SELF-PROPELLED GUN-HOWITZER, Sino Defence](https://web.archive.org/web/20100328022917/http://www.sinodefence.com/army/artillery/plz05.asp)
 
 [分類:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/分類:中華人民共和國裝甲戰鬥車輛 "wikilink")
 

@@ -261,13 +261,10 @@
 
 ## 外部連結
 
-  - [無綫電視節目網頁 -
-    食平DD](http://programme.tvb.com/foodandtravel/goodcheapeats2/)
+  - [無綫電視節目網頁 - 食平DD](http://programme.tvb.com/foodandtravel/goodcheapeats2/)
 
 ## 電視節目的變遷
 
-[Category:2014年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2014年無綫電視節目 "wikilink")
-[Category:食平D系列](https://zh.wikipedia.org/wiki/Category:食平D系列 "wikilink")
-[Category:無綫電視飲食節目](https://zh.wikipedia.org/wiki/Category:無綫電視飲食節目 "wikilink")
+[Category:2014年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2014年無綫電視節目 "wikilink") [Category:食平D系列](https://zh.wikipedia.org/wiki/Category:食平D系列 "wikilink") [Category:無綫電視飲食節目](https://zh.wikipedia.org/wiki/Category:無綫電視飲食節目 "wikilink")
 
 1.

@@ -8,8 +8,7 @@
 
   - AKB48・[SKE48](../Page/SKE48.md "wikilink")・[NMB48](../Page/NMB48.md "wikilink")・[HKT48](../Page/HKT48.md "wikilink")（[\#放送日・内容・出演を参照](https://zh.wikipedia.org/wiki/#放送日・内容・出演 "wikilink")）
   - [山寺宏一](../Page/山寺宏一.md "wikilink")
-  - [滑川和男](https://zh.wikipedia.org/wiki/滑川和男 "wikilink")（NHK播音員） -
-    SP1以旁白出演。
+  - [滑川和男](https://zh.wikipedia.org/wiki/滑川和男 "wikilink")（NHK播音員） - SP1以旁白出演。
   - [増田晋](https://zh.wikipedia.org/wiki/増田晋 "wikilink")
 
 ## 播放日・内容・出演
@@ -842,16 +841,11 @@
   - [AKB48の"私たちの物語"](http://www.nhk.or.jp/watamono/top.html)
   - [AKB48の"私たちの物語"（SP1）](https://archive.is/20120907025416/www.nhk.or.jp/mj/tokuban/contents/t_100814.html)
 
-[Category:廣播劇](https://zh.wikipedia.org/wiki/Category:廣播劇 "wikilink")
-[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink")
-[Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink")
-[Category:HKT48](https://zh.wikipedia.org/wiki/Category:HKT48 "wikilink")
+[Category:廣播劇](https://zh.wikipedia.org/wiki/Category:廣播劇 "wikilink") [Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:SKE48](https://zh.wikipedia.org/wiki/Category:SKE48 "wikilink") [Category:NMB48](https://zh.wikipedia.org/wiki/Category:NMB48 "wikilink") [Category:HKT48](https://zh.wikipedia.org/wiki/Category:HKT48 "wikilink")
 
 1.  只限[廣島](../Page/NHK廣島放送局.md "wikilink")，只限2011年度
 
-2.  只在[French
-    Kiss的](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")3人出演
+2.  只在[French Kiss的](https://zh.wikipedia.org/wiki/French_Kiss "wikilink")3人出演
 
 3.  只在[SKE48](../Page/SKE48.md "wikilink")的成員出演
 
@@ -862,8 +856,7 @@
 6.  只在[走廊奔跑隊7出演](https://zh.wikipedia.org/wiki/走廊奔跑隊#走廊奔跑隊7 "wikilink")
 
 7.
-8.  只在出演者全員[TeamK成員](https://zh.wikipedia.org/wiki/AKB48#TeamK "wikilink")。還有「制服レジスタンス」・「ウッホウッホホ」等「RESET」在[TeamK
-    6th「RESET」公演的歌曲](https://zh.wikipedia.org/wiki/teamK_6th_Stage「RESET」 "wikilink")，連續劇部分插入歌和談話部分以BGM使用。
+8.  只在出演者全員[TeamK成員](https://zh.wikipedia.org/wiki/AKB48#TeamK "wikilink")。還有「制服レジスタンス」・「ウッホウッホホ」等「RESET」在[TeamK 6th「RESET」公演的歌曲](https://zh.wikipedia.org/wiki/teamK_6th_Stage「RESET」 "wikilink")，連續劇部分插入歌和談話部分以BGM使用。
 
 9.
 10.
@@ -909,8 +902,7 @@
 
 35. 標題是藤江初次在劇場公演出演時的粉絲呼叫。当時藤江的名不是全部人知道。
 
-36. 標題是「[Team S 3rd
-    Stage「制服之芽」公演](../Page/Team_S_3rd_Stage「制服之芽」.md "wikilink")」的樂曲
+36. 標題是「[Team S 3rd Stage「制服之芽」公演](../Page/Team_S_3rd_Stage「制服之芽」.md "wikilink")」的樂曲
 
 37. 標題是「崇尚麻里子」。星期五21:00 - 22:40的1小時延長SP。
 
@@ -932,7 +924,6 @@
 
 46. 10組の2人芝居行。5組ずつ紅組、白組に分かれてどちらの組のドラマが面白いかを競う。
 
-47. 標題是[NO
-    NAME的單曲](https://zh.wikipedia.org/wiki/NO_NAME_\(組合\) "wikilink")。
+47. 標題是[NO NAME的單曲](https://zh.wikipedia.org/wiki/NO_NAME_\(組合\) "wikilink")。
 
 48. 標題的一部份是引用NMB48的單曲。

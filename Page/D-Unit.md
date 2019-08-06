@@ -1,27 +1,14 @@
-**D-UNIT**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[D-Business娛樂在](https://zh.wikipedia.org/wiki/D-Business娛樂 "wikilink")2012年推出的新人嘻哈女子團體，於2012年8月3日的[M\!
-Countdown出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。
+**D-UNIT**（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[D-Business娛樂在](https://zh.wikipedia.org/wiki/D-Business娛樂 "wikilink")2012年推出的新人嘻哈女子團體，於2012年8月3日的[M\! Countdown出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。
 
 ## 團體形式
 
-有別於[After
-School的畢業制](../Page/After_School.md "wikilink")，D-Unit採用的是替換成員制。以RAM、ZIN和UJin為本團的固定成員，在每一次歌曲宣傳期中都增加或減少成員。2013年3月4日發行的第二張正規專輯《Affirmative
-Chapter 1》中，原[GP
-Basic成員Jaeny加入D](../Page/GP_Basic.md "wikilink")-Unit，並把藝名改成JNEY。但在2013年3月，JNEY退出D-Unit並回到GP
-Basic。而在同年8月，UJin亦從其粉絲團「89LAND」中宣佈自己退出D-Unit，往後以個人歌手身份活動。
+有別於[After School的畢業制](../Page/After_School.md "wikilink")，D-Unit採用的是替換成員制。以RAM、ZIN和UJin為本團的固定成員，在每一次歌曲宣傳期中都增加或減少成員。2013年3月4日發行的第二張正規專輯《Affirmative Chapter 1》中，原[GP Basic成員Jaeny加入D](../Page/GP_Basic.md "wikilink")-Unit，並把藝名改成JNEY。但在2013年3月，JNEY退出D-Unit並回到GP Basic。而在同年8月，UJin亦從其粉絲團「89LAND」中宣佈自己退出D-Unit，往後以個人歌手身份活動。
 
 ## 歷史
 
 ### 2012年：出道、《Luv Me》
 
-在2012年7月2日，D-Unit推出了〈I'm Missin' You〉的成員UJin的預告\[1\]。4日，[D-Business
-Entertainment正式公布了D](https://zh.wikipedia.org/wiki/D-Business_Entertainment "wikilink")-Unit會在[韓國出道前在](https://zh.wikipedia.org/wiki/韓國 "wikilink")[日本](../Page/日本.md "wikilink")舉行首場粉絲見面會\[2\]。10日，D-Unit推出了〈I'm
-Missin' You〉的成員RAM的預告。\[3\]16日，D-Business
-Entertainment宣佈D-Unit的第一個實境節目《Welcome to
-D-Unit》，並在18日進行首播。\[4\]29日，D-Unit推出了〈I'm Missin'
-You〉的全員預告。\[5\]30日，D-Unit推出了〈I'm Missin'
-You〉的全員一分鐘預告。8月1日，D-Unit推出了首張專輯《Welcome To
-Business》和〈I'm Missin' You〉的MV。2日，D-Unit在M\!Countdown出道及推出了〈I'm Missin'
-You〉的舞蹈及其教學影片。
+在2012年7月2日，D-Unit推出了〈I'm Missin' You〉的成員UJin的預告\[1\]。4日，[D-Business Entertainment正式公布了D](https://zh.wikipedia.org/wiki/D-Business_Entertainment "wikilink")-Unit會在[韓國出道前在](https://zh.wikipedia.org/wiki/韓國 "wikilink")[日本](../Page/日本.md "wikilink")舉行首場粉絲見面會\[2\]。10日，D-Unit推出了〈I'm Missin' You〉的成員RAM的預告。\[3\]16日，D-Business Entertainment宣佈D-Unit的第一個實境節目《Welcome to D-Unit》，並在18日進行首播。\[4\]29日，D-Unit推出了〈I'm Missin' You〉的全員預告。\[5\]30日，D-Unit推出了〈I'm Missin' You〉的全員一分鐘預告。8月1日，D-Unit推出了首張專輯《Welcome To Business》和〈I'm Missin' You〉的MV。2日，D-Unit在M\!Countdown出道及推出了〈I'm Missin' You〉的舞蹈及其教學影片。
 
 ### 2016年8月
 
@@ -204,15 +191,7 @@ D-Unit解散後，成員RAM做為新四人樂團FIVE RUN STRIKE一員出道回�
   - [D-UNIT官方YouTube](https://www.youtube.com/DBusinessENT/)
   - [D-Business.ENT Official Blog](http://dbusinessent.tumblr.com/)
 
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2016年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年解散的音樂團體 "wikilink")
-[Category:2012年韓國建立](https://zh.wikipedia.org/wiki/Category:2012年韓國建立 "wikilink")
-[Category:2016年韓國廢除](https://zh.wikipedia.org/wiki/Category:2016年韓國廢除 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
+[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2016年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年解散的音樂團體 "wikilink") [Category:2012年韓國建立](https://zh.wikipedia.org/wiki/Category:2012年韓國建立 "wikilink") [Category:2016年韓國廢除](https://zh.wikipedia.org/wiki/Category:2016年韓國廢除 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.
 2.

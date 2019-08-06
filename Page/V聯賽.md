@@ -112,7 +112,4 @@
 
   - [V聯賽官方網站](http://www.vleague.or.jp/)
 
-[Category:日本排球](https://zh.wikipedia.org/wiki/Category:日本排球 "wikilink")
-[Category:日本體育聯賽](https://zh.wikipedia.org/wiki/Category:日本體育聯賽 "wikilink")
-[Category:國家排球聯賽](https://zh.wikipedia.org/wiki/Category:國家排球聯賽 "wikilink")
-[Category:1994年建立的體育聯賽](https://zh.wikipedia.org/wiki/Category:1994年建立的體育聯賽 "wikilink")
+[Category:日本排球](https://zh.wikipedia.org/wiki/Category:日本排球 "wikilink") [Category:日本體育聯賽](https://zh.wikipedia.org/wiki/Category:日本體育聯賽 "wikilink") [Category:國家排球聯賽](https://zh.wikipedia.org/wiki/Category:國家排球聯賽 "wikilink") [Category:1994年建立的體育聯賽](https://zh.wikipedia.org/wiki/Category:1994年建立的體育聯賽 "wikilink")

@@ -8,11 +8,9 @@
 
 ## 书写
 
-“NIN”（宁）一词是楔形文符号“MUNUS”和“TÚG”的[合字](../Page/合字.md "wikilink")；在古楔形文中，特别是在[汉谟拉比法典](../Page/汉谟拉比法典.md "wikilink")中，“NIN”被写为“MUNUS.TÚG”。在亚述[楔形文中](https://zh.wikipedia.org/wiki/楔形文 "wikilink")，音节“nin”被写成“MUNUS.KA”。MUNUS.KU
-= NIN<sub>9</sub>，意思是“姐姐”​​。
+“NIN”（宁）一词是楔形文符号“MUNUS”和“TÚG”的[合字](../Page/合字.md "wikilink")；在古楔形文中，特别是在[汉谟拉比法典](../Page/汉谟拉比法典.md "wikilink")中，“NIN”被写为“MUNUS.TÚG”。在亚述[楔形文中](https://zh.wikipedia.org/wiki/楔形文 "wikilink")，音节“nin”被写成“MUNUS.KA”。MUNUS.KU = NIN<sub>9</sub>，意思是“姐姐”​​。
 
-<File:MUNUS-SAL-sinnishtu> Cuneiform.svg|楔形文字“宁“的形傍 <File:TUG-subatu-ku>
-Cuneiform.svg|楔形文字“宁”的声傍（读音”库“）
+<File:MUNUS-SAL-sinnishtu> Cuneiform.svg|楔形文字“宁“的形傍 <File:TUG-subatu-ku> Cuneiform.svg|楔形文字“宁”的声傍（读音”库“）
 
 ## 在吉尔伽美什史诗
 
@@ -28,19 +26,13 @@ Cuneiform.svg|楔形文字“宁”的声傍（读音”库“）
   - [Nin-imma](https://zh.wikipedia.org/wiki/Nin-imma "wikilink")
   - [Nin-isina](https://zh.wikipedia.org/wiki/Nin-isina "wikilink")
   - [Nin-Ildu](https://zh.wikipedia.org/wiki/Nin-Ildu "wikilink")
-  - [EN
-    （cuneiform）](https://zh.wikipedia.org/wiki/EN_（cuneiform） "wikilink")
+  - [EN （cuneiform）](https://zh.wikipedia.org/wiki/EN_（cuneiform） "wikilink")
   - [Puabi](../Page/Puabi.md "wikilink")
 
 ## 参考文献
 
   - （Volume 1）原阿卡德楔形文及音译;评论和词汇为英语
 
-[Category:楔形文字](https://zh.wikipedia.org/wiki/Category:楔形文字 "wikilink")
-[Category:美索不达米亚女神](https://zh.wikipedia.org/wiki/Category:美索不达米亚女神 "wikilink")
-[Category:苏美尔称号](https://zh.wikipedia.org/wiki/Category:苏美尔称号 "wikilink")
-[Category:妇女的社会头衔](https://zh.wikipedia.org/wiki/Category:妇女的社会头衔 "wikilink")
+[Category:楔形文字](https://zh.wikipedia.org/wiki/Category:楔形文字 "wikilink") [Category:美索不达米亚女神](https://zh.wikipedia.org/wiki/Category:美索不达米亚女神 "wikilink") [Category:苏美尔称号](https://zh.wikipedia.org/wiki/Category:苏美尔称号 "wikilink") [Category:妇女的社会头衔](https://zh.wikipedia.org/wiki/Category:妇女的社会头衔 "wikilink")
 
-1.  J A Halloran – [Lexicon](http://www.sumerian.org/sumcvc.htm) →
-    [1](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=2466880)
-    Retrieved 2012-06-07 & ISBN 0978642902
+1.  J A Halloran – [Lexicon](http://www.sumerian.org/sumcvc.htm) → [1](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=2466880) Retrieved 2012-06-07 & ISBN 0978642902

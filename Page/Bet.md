@@ -10,8 +10,6 @@ Bet在不同的闪米特语言中都有“房子”的意思，最初来自[原�
 
 ## 参考文献
 
-[Category:腓尼基字母系統](https://zh.wikipedia.org/wiki/Category:腓尼基字母系統 "wikilink")
-[Category:阿拉伯字母](https://zh.wikipedia.org/wiki/Category:阿拉伯字母 "wikilink")
-[Category:希伯来字母](https://zh.wikipedia.org/wiki/Category:希伯来字母 "wikilink")
+[Category:腓尼基字母系統](https://zh.wikipedia.org/wiki/Category:腓尼基字母系統 "wikilink") [Category:阿拉伯字母](https://zh.wikipedia.org/wiki/Category:阿拉伯字母 "wikilink") [Category:希伯来字母](https://zh.wikipedia.org/wiki/Category:希伯来字母 "wikilink")
 
 1.

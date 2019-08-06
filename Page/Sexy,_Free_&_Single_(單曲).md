@@ -1,12 +1,8 @@
-《Sexy, Free & Single》是韓國男子組合[Super
-Junior的第四張日語單曲](../Page/Super_Junior.md "wikilink")。2012年8月22日由Avex
-trax發售。\[1\]
+《Sexy, Free & Single》是韓國男子組合[Super Junior的第四張日語單曲](../Page/Super_Junior.md "wikilink")。2012年8月22日由Avex trax發售。\[1\]
 
 ## 錄製與音樂
 
-《Sexy, Free & Single》是Super Junior第六張正規專輯《[Sexy, Free &
-Single](../Page/Sexy,_Free_&_Single.md "wikilink")》主打曲《Sexy, Free &
-Single》的日語版本。
+《Sexy, Free & Single》是Super Junior第六張正規專輯《[Sexy, Free & Single](../Page/Sexy,_Free_&_Single.md "wikilink")》主打曲《Sexy, Free & Single》的日語版本。
 
 ## 收錄內容
 
@@ -66,10 +62,7 @@ Single》的日語版本。
 
 ## 參考來源
 
-[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:Super_Junior歌曲](https://zh.wikipedia.org/wiki/Category:Super_Junior歌曲 "wikilink")
-[Category:2012年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2012年Hot_Singles_Sales冠軍單曲 "wikilink")
+[Category:Super_Junior](https://zh.wikipedia.org/wiki/Category:Super_Junior "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:Super_Junior歌曲](https://zh.wikipedia.org/wiki/Category:Super_Junior歌曲 "wikilink") [Category:2012年Hot_Singles_Sales冠軍單曲](https://zh.wikipedia.org/wiki/Category:2012年Hot_Singles_Sales冠軍單曲 "wikilink")
 
 1.
 2.

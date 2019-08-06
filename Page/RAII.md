@@ -1,5 +1,4 @@
-**RAII**全称为**R**esource **A**cquisition **I**s
-**I**nitialization，它是在一些[面向对象语言中的一种](https://zh.wikipedia.org/wiki/面向对象语言 "wikilink")。RAII源于[C++](../Page/C++.md "wikilink")，在[Java](../Page/Java.md "wikilink")，[C\#](../Page/C♯.md "wikilink")，[D](https://zh.wikipedia.org/wiki/D语言 "wikilink")，[Ada](../Page/Ada.md "wikilink")，[Vala](../Page/Vala.md "wikilink")和[Rust](../Page/Rust.md "wikilink")中也有应用。1984-1989年期间，[比雅尼·斯特勞斯特魯普和](https://zh.wikipedia.org/wiki/比雅尼·斯特勞斯特魯普 "wikilink")在设计C++异常时，为解决时的性而使用了该用法\[1\]，后来[比雅尼·斯特勞斯特魯普将其称为RAII](https://zh.wikipedia.org/wiki/比雅尼·斯特勞斯特魯普 "wikilink")。
+**RAII**全称为**R**esource **A**cquisition **I**s **I**nitialization，它是在一些[面向对象语言中的一种](https://zh.wikipedia.org/wiki/面向对象语言 "wikilink")。RAII源于[C++](../Page/C++.md "wikilink")，在[Java](../Page/Java.md "wikilink")，[C\#](../Page/C♯.md "wikilink")，[D](https://zh.wikipedia.org/wiki/D语言 "wikilink")，[Ada](../Page/Ada.md "wikilink")，[Vala](../Page/Vala.md "wikilink")和[Rust](../Page/Rust.md "wikilink")中也有应用。1984-1989年期间，[比雅尼·斯特勞斯特魯普和](https://zh.wikipedia.org/wiki/比雅尼·斯特勞斯特魯普 "wikilink")在设计C++异常时，为解决时的性而使用了该用法\[1\]，后来[比雅尼·斯特勞斯特魯普将其称为RAII](https://zh.wikipedia.org/wiki/比雅尼·斯特勞斯特魯普 "wikilink")。
 
 RAII要求，资源的有效期与持有资源的严格绑定，即由对象的[构造函数完成](https://zh.wikipedia.org/wiki/构造函数 "wikilink")（获取），同时由[析构函数完成资源的释放](https://zh.wikipedia.org/wiki/析构函数 "wikilink")。在这种要求下，只要对象能正确地析构，就不会出现问题。
 
@@ -82,8 +81,7 @@ void access_critical_section()
 
 ## RRID
 
-RAII还有另外一种被称为RRID(Resource Release Is
-Destruction)的特殊用法，即在构造时没有“获取”资源，但在析构时释放资源。ScopeGuard\[4\]和[Boost.ScopeExit](http://www.boost.org/doc/libs/1_56_0/libs/scope_exit/doc/html/index.html)就是RRID的典型应用：
+RAII还有另外一种被称为RRID(Resource Release Is Destruction)的特殊用法，即在构造时没有“获取”资源，但在析构时释放资源。ScopeGuard\[4\]和[Boost.ScopeExit](http://www.boost.org/doc/libs/1_56_0/libs/scope_exit/doc/html/index.html)就是RRID的典型应用：
 
 ``` cpp
 #include <functional>
@@ -148,8 +146,7 @@ Resource create()
 
 ## 與finally的比較
 
-虽然RAII和finally都能保证资源管理时的异常安全，但相对来说，使用RAII的代码相对更加简洁。
-如[比雅尼·斯特劳斯特鲁普](../Page/比雅尼·斯特劳斯特鲁普.md "wikilink")所说，“在真实环境中，调用资源释放代码的次数远多于资源类型的个数，所以相对于使用finally来说，使用RAII能减少代码量。”\[5\]
+虽然RAII和finally都能保证资源管理时的异常安全，但相对来说，使用RAII的代码相对更加简洁。 如[比雅尼·斯特劳斯特鲁普](../Page/比雅尼·斯特劳斯特鲁普.md "wikilink")所说，“在真实环境中，调用资源释放代码的次数远多于资源类型的个数，所以相对于使用finally来说，使用RAII能减少代码量。”\[5\]
 
 例如在[Java](../Page/Java.md "wikilink")中使用finally来管理Socket资源
 
@@ -184,18 +181,8 @@ void foo() {
   -
 [Category:面向对象的程序设计](https://zh.wikipedia.org/wiki/Category:面向对象的程序设计 "wikilink")
 
-1.  [Exception Handling for
-    C++](http://www.stroustrup.com/except89.pdf), 5 Handling of
-    Destructors
-2.  C++ FAQ, ["I have too many try blocks; what can I do about
-    it?"](http://www.parashift.com/c++-faq/too-many-trycatch-blocks.html)
-
-3.  C++ FAQ, ["What's the order that local objects are
-    destructed?"](http://www.parashift.com/c++-faq/order-dtors-for-locals.html)
-
-4.  Andrei Alexandrescu, [Change the Way You Write Exception-Safe
-    Code](http://www.drdobbs.com/cpp/generic-change-the-way-you-write-excepti/184403758)
-5.  [Bjarne Stroustrup's C++ Style and Technique
-    FAQ](http://www.stroustrup.com/bs_faq2.html). ["Why doesn't C++
-    provide a "finally"
-    construct?"](http://www.stroustrup.com/bs_faq2.html#finally)
+1.  [Exception Handling for C++](http://www.stroustrup.com/except89.pdf), 5 Handling of Destructors
+2.  C++ FAQ, ["I have too many try blocks; what can I do about it?"](http://www.parashift.com/c++-faq/too-many-trycatch-blocks.html)
+3.  C++ FAQ, ["What's the order that local objects are destructed?"](http://www.parashift.com/c++-faq/order-dtors-for-locals.html)
+4.  Andrei Alexandrescu, [Change the Way You Write Exception-Safe Code](http://www.drdobbs.com/cpp/generic-change-the-way-you-write-excepti/184403758)
+5.  [Bjarne Stroustrup's C++ Style and Technique FAQ](http://www.stroustrup.com/bs_faq2.html). ["Why doesn't C++ provide a "finally" construct?"](http://www.stroustrup.com/bs_faq2.html#finally)

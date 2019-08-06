@@ -77,10 +77,4 @@
   -
   -
   -
-[Category:1980年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1980年代香港電影作品 "wikilink")
-[Category:1980年代动作片](https://zh.wikipedia.org/wiki/Category:1980年代动作片 "wikilink")
-[Category:吴宇森电影](https://zh.wikipedia.org/wiki/Category:吴宇森电影 "wikilink")
-[Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink")
-[Category:枪战片](https://zh.wikipedia.org/wiki/Category:枪战片 "wikilink")
-[Category:新藝城電影](https://zh.wikipedia.org/wiki/Category:新藝城電影 "wikilink")
-[Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink")
+[Category:1980年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1980年代香港電影作品 "wikilink") [Category:1980年代动作片](https://zh.wikipedia.org/wiki/Category:1980年代动作片 "wikilink") [Category:吴宇森电影](https://zh.wikipedia.org/wiki/Category:吴宇森电影 "wikilink") [Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink") [Category:枪战片](https://zh.wikipedia.org/wiki/Category:枪战片 "wikilink") [Category:新藝城電影](https://zh.wikipedia.org/wiki/Category:新藝城電影 "wikilink") [Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink")

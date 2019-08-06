@@ -1,12 +1,8 @@
-**Hudson**是用[Java](../Page/Java.md "wikilink")编写的一个[持续集成](https://zh.wikipedia.org/wiki/持续集成 "wikilink")（CI）工具。它运行在[Servlet容器中](https://zh.wikipedia.org/wiki/Servlet容器 "wikilink")（例如[Apache
-Tomcat](../Page/Apache_Tomcat.md "wikilink")、[GlassFish](https://zh.wikipedia.org/wiki/GlassFish "wikilink")）。它支持[软件配置管理](../Page/软件配置管理.md "wikilink")（SCM）工具（包括[CVS](https://zh.wikipedia.org/wiki/CVS "wikilink")、[Subversion](../Page/Subversion.md "wikilink")、[Git](../Page/Git.md "wikilink")、、和），可以执行基于[Apache
-Ant和](../Page/Apache_Ant.md "wikilink")[Apache
-Maven的项目](../Page/Apache_Maven.md "wikilink")，以及任意的shell脚本和Windows批处理命令。Hudson的主要开发者是川口耕介，开发期间就职于[昇陽電腦](../Page/昇陽電腦.md "wikilink")公司。Hudson是在[MIT许可证下发布的](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")[自由软件](../Page/自由软件.md "wikilink")。
+**Hudson**是用[Java](../Page/Java.md "wikilink")编写的一个[持续集成](https://zh.wikipedia.org/wiki/持续集成 "wikilink")（CI）工具。它运行在[Servlet容器中](https://zh.wikipedia.org/wiki/Servlet容器 "wikilink")（例如[Apache Tomcat](../Page/Apache_Tomcat.md "wikilink")、[GlassFish](https://zh.wikipedia.org/wiki/GlassFish "wikilink")）。它支持[软件配置管理](../Page/软件配置管理.md "wikilink")（SCM）工具（包括[CVS](https://zh.wikipedia.org/wiki/CVS "wikilink")、[Subversion](../Page/Subversion.md "wikilink")、[Git](../Page/Git.md "wikilink")、、和），可以执行基于[Apache Ant和](../Page/Apache_Ant.md "wikilink")[Apache Maven的项目](../Page/Apache_Maven.md "wikilink")，以及任意的shell脚本和Windows批处理命令。Hudson的主要开发者是川口耕介，开发期间就职于[昇陽電腦](../Page/昇陽電腦.md "wikilink")公司。Hudson是在[MIT许可证下发布的](https://zh.wikipedia.org/wiki/MIT许可证 "wikilink")[自由软件](../Page/自由软件.md "wikilink")。
 
 可以通过各种手段触发构建。例如可以通过类似[Cron](../Page/Cron.md "wikilink")的机制调度，可以在其他的构建已经完成时，以及可以通过一个特定的URL进行请求。
 
-Hudson在2008年左右基本取代了和其他开源的构建服务器（Build
-Server）。\[1\]\[2\]在2008年5月的[JavaOne大会上](https://zh.wikipedia.org/wiki/JavaOne "wikilink")，Hudson成为“Duke选择奖”开发人员解决方案分类的得主。\[3\]
+Hudson在2008年左右基本取代了和其他开源的构建服务器（Build Server）。\[1\]\[2\]在2008年5月的[JavaOne大会上](https://zh.wikipedia.org/wiki/JavaOne "wikilink")，Hudson成为“Duke选择奖”开发人员解决方案分类的得主。\[3\]
 
 [甲骨文公司](../Page/甲骨文公司.md "wikilink")收购[昇陽電腦](../Page/昇陽電腦.md "wikilink")时，甲骨文公司宣布其有意把Hudson的名字作为商标，并开始以[商业软件开发](https://zh.wikipedia.org/wiki/商业软件 "wikilink")。2011年初，开发社区中的多数人（包括川口耕介）决定以[Jenkins的名义延续该项目](../Page/Jenkins_\(软件\).md "wikilink")。甲骨文公司坚称Hudson仍在继续开发，而Jenkins是其的[分支](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")；但Jenkins的开发者认为Hudson是其的分支。
 
@@ -14,8 +10,7 @@ Server）。\[1\]\[2\]在2008年5月的[JavaOne大会上](https://zh.wikipedia.o
 
 ## 插件
 
-Hudson可通过一个插件架构进行扩展。许多插件已经公开，扩展了Hudson，使其远远超越了纯粹的Java项目的构建工具。
-对于大多数的版本控制系统和大的数据库，有与Hudson集成的插件可用。许多构建（build）工具都是通过他们各自的插件提供支持。插件还可以改变Jenkins的外观，或添加新的功能。
+Hudson可通过一个插件架构进行扩展。许多插件已经公开，扩展了Hudson，使其远远超越了纯粹的Java项目的构建工具。 对于大多数的版本控制系统和大的数据库，有与Hudson集成的插件可用。许多构建（build）工具都是通过他们各自的插件提供支持。插件还可以改变Jenkins的外观，或添加新的功能。
 
 构建时可以生成各种格式的测试报告（[JUnit](../Page/JUnit.md "wikilink")是内建支持的，别的格式则需通过插件）。Hudson可以显示报表，生成趋势图，并在图形化界面中呈现它们。
 
@@ -25,8 +20,7 @@ Hudson可通过一个插件架构进行扩展。许多插件已经公开，扩�
 
 ## 移交给Eclipse基金会
 
-2011年5月3日，[Eclipse基金会](../Page/Eclipse基金会.md "wikilink")与Hudson的主要提交者、甲骨文公司、和其他的社区支持者发出了正式的提议，将Hudson（包括核心代码和存在问题的商标）转交给Eclipse基金会。\[12\]Hudson的创始人川口耕介表示甲骨文公司此举是在考验Jenkins。“当我们与甲骨文公司的谈判找到一个中间地带时，他们说得很清楚，他们不打算放弃对Hudson商标的控制。但这一举动\[13\]表明他们清楚地认识到甲骨文公司无法使Hudson项目跟上Jenkins项目。”
-\[14\]2012年1月24日，Eclipse宣布把Hudson 3列入Eclipse基金会。\[15\]
+2011年5月3日，[Eclipse基金会](../Page/Eclipse基金会.md "wikilink")与Hudson的主要提交者、甲骨文公司、和其他的社区支持者发出了正式的提议，将Hudson（包括核心代码和存在问题的商标）转交给Eclipse基金会。\[12\]Hudson的创始人川口耕介表示甲骨文公司此举是在考验Jenkins。“当我们与甲骨文公司的谈判找到一个中间地带时，他们说得很清楚，他们不打算放弃对Hudson商标的控制。但这一举动\[13\]表明他们清楚地认识到甲骨文公司无法使Hudson项目跟上Jenkins项目。” \[14\]2012年1月24日，Eclipse宣布把Hudson 3列入Eclipse基金会。\[15\]
 
 ## 参见
 
@@ -43,10 +37,7 @@ Hudson可通过一个插件架构进行扩展。许多插件已经公开，扩�
   - [Hudson和持续集成（CI）相关的文章](https://web.archive.org/web/20140711093451/http://adrian.org.ar/tag/hudson/)
   - [创始人川口耕介的文章《七招优化Jenkins/Hudson》](https://web.archive.org/web/20160304043539/http://di388e0fcqllf.cloudfront.net/whitepapers/7WaysToOptimizeJenkins.pdf?Hudsonwiki)
 
-[Category:編譯工具](https://zh.wikipedia.org/wiki/Category:編譯工具 "wikilink")
-[Category:持续集成](https://zh.wikipedia.org/wiki/Category:持续集成 "wikilink")
-[Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink")
-[Category:Java開發工具](https://zh.wikipedia.org/wiki/Category:Java開發工具 "wikilink")
+[Category:編譯工具](https://zh.wikipedia.org/wiki/Category:編譯工具 "wikilink") [Category:持续集成](https://zh.wikipedia.org/wiki/Category:持续集成 "wikilink") [Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink") [Category:Java開發工具](https://zh.wikipedia.org/wiki/Category:Java開發工具 "wikilink")
 
 1.
 2.

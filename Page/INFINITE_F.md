@@ -1,18 +1,8 @@
-**INFINITE
-F**（），為韓國男子團體[INFINITE](../Page/INFINITE.md "wikilink")的子團體，由INFINITE的[成烈](https://zh.wikipedia.org/wiki/李成烈 "wikilink")、[L](../Page/金明洙.md "wikilink"),
-和[成種](../Page/李成種.md "wikilink")
-三名成員在2014年2月組成。[成烈為](https://zh.wikipedia.org/wiki/李成烈 "wikilink")
-INFINITE F的隊長。
-2014年2月28日至3月1日，[INFINITE](../Page/INFINITE.md "wikilink")於首爾舉行世界巡迴安可場《One
-Great Step Returns》，INFINITE F在演唱會中首次以《心跳》（）舞台作為子團亮相。2014年5月，
-[INFINITE](../Page/INFINITE.md "wikilink")正規二輯《SEASON
-2》中的歌曲《快瘋了》（）為INFINITE F的首支發行歌曲。
-2014年11月19日於日本以單曲專輯《戀愛的預感》(恋のサイン)出道；2014年12月1日於韓國以單曲專輯《青》正式以子團之名出道。
+**INFINITE F**（），為韓國男子團體[INFINITE](../Page/INFINITE.md "wikilink")的子團體，由INFINITE的[成烈](https://zh.wikipedia.org/wiki/李成烈 "wikilink")、[L](../Page/金明洙.md "wikilink"), 和[成種](../Page/李成種.md "wikilink") 三名成員在2014年2月組成。[成烈為](https://zh.wikipedia.org/wiki/李成烈 "wikilink") INFINITE F的隊長。 2014年2月28日至3月1日，[INFINITE](../Page/INFINITE.md "wikilink")於首爾舉行世界巡迴安可場《One Great Step Returns》，INFINITE F在演唱會中首次以《心跳》（）舞台作為子團亮相。2014年5月， [INFINITE](../Page/INFINITE.md "wikilink")正規二輯《SEASON 2》中的歌曲《快瘋了》（）為INFINITE F的首支發行歌曲。 2014年11月19日於日本以單曲專輯《戀愛的預感》(恋のサイン)出道；2014年12月1日於韓國以單曲專輯《青》正式以子團之名出道。
 
 ## 團名由來
 
-本來子團團名是由成員們的名字合起來，叫「명왕성」，但是被要求換掉。 而最後決定的**INFINITE
-F**中的「F」代表Face、Flower、Forever等意思。
+本來子團團名是由成員們的名字合起來，叫「명왕성」，但是被要求換掉。 而最後決定的**INFINITE F**中的「F」代表Face、Flower、Forever等意思。
 
 ## 成員資料
 
@@ -225,16 +215,8 @@ F**中的「F」代表Face、Flower、Forever等意思。
 
 ## 參考資料
 
-  - [INFINITE成員L、成烈、成種　組新分隊11月出擊](http://www.koreastardaily.com/tc/news/49343)(来源：韓星網
-    KoreaStarDaily)
-  - [INFINITE
-    F將於12月1日正式出道](http://www.koreastardaily.com/tc/news/52070)(来源：韓星網
-    KoreaStarDaily)
-  - [Infinite F Debuts with ′Heartthrobs′ in New
-    MV](http://mwave.interest.me/enewsworld/en/article/81918/video-infinite-f-debuts-with-heartthrobs-in-new-mv)(来源：Mwave)
+  - [INFINITE成員L、成烈、成種　組新分隊11月出擊](http://www.koreastardaily.com/tc/news/49343)(来源：韓星網 KoreaStarDaily)
+  - [INFINITE F將於12月1日正式出道](http://www.koreastardaily.com/tc/news/52070)(来源：韓星網 KoreaStarDaily)
+  - [Infinite F Debuts with ′Heartthrobs′ in New MV](http://mwave.interest.me/enewsworld/en/article/81918/video-infinite-f-debuts-with-heartthrobs-in-new-mv)(来源：Mwave)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink")
-[Category:INFINITE子團體](https://zh.wikipedia.org/wiki/Category:INFINITE子團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2014年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2014年成立的音樂團體 "wikilink") [Category:INFINITE子團體](https://zh.wikipedia.org/wiki/Category:INFINITE子團體 "wikilink")

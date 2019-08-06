@@ -1,30 +1,25 @@
-**Twinko**為台灣的娛樂公司[紅元素娛樂旗下的第一個女子團體](https://zh.wikipedia.org/wiki/紅元素娛樂 "wikilink")，團名源自英文「**Twinkle**」，意謂如天上星辰般閃亮之意，由五個來自不同領域的女孩-[星潼](../Page/林星潼.md "wikilink")、[可青](https://zh.wikipedia.org/wiki/曾可青 "wikilink")、[凱希](../Page/徐凱希.md "wikilink")、[泫和](../Page/篠崎泫.md "wikilink")[斯亞所組成](../Page/陳斯亞.md "wikilink")。在經過三年的籌備與訓練後，2013年正式出道。2016年12月14日，[斯亞離開Twinko](../Page/陳斯亞.md "wikilink")，離開紅元素。2017年3月20日，正式宣布[語噥為Twinko的新團員](../Page/張語噥.md "wikilink")，讓Twinko升級成雙主唱；2019年，因團員徐凱希、張語噥紅元素娛樂合約陸續到期，分別加入大藝娛樂、上城娛樂經紀公司。
+**Twinko**為台灣的娛樂公司[紅元素娛樂旗下的第一個女子團體](https://zh.wikipedia.org/wiki/紅元素娛樂 "wikilink")，團名源自英文「**Twinkle**」，意謂如天上星辰般閃亮之意，由五個來自不同領域的女孩-[星潼](../Page/林星潼.md "wikilink")、[可青](https://zh.wikipedia.org/wiki/曾可青 "wikilink")、[凱希](../Page/徐凱希.md "wikilink")、[泫和](../Page/篠崎泫.md "wikilink")[斯亞所組成](../Page/陳斯亞.md "wikilink")。在經過三年的籌備與訓練後，2013年正式出道。2016年12月14日，[斯亞離開Twinko](../Page/陳斯亞.md "wikilink")，離開紅元素。2017年3月20日，正式宣布[語噥為Twinko的新團員](../Page/張語噥.md "wikilink")，讓Twinko升級成雙主唱；2019年，因團員們與紅元素娛樂合約陸續到期，已經確認解散，其中徐凱希、張語噥分別加入大藝娛樂、上城娛樂經紀公司。 2019年7月24日，前團員之一徐凱希接受媒體專訪指控經紀公司老闆積欠團員和公司工作人員薪水，並揭開所有辛酸的內幕。\[1\]
 
 ## 成員
 
-### 現任成員
+### 前任成員
 
 | 成員列表                                                |
 | --------------------------------------------------- |
 | 本名                                                  |
 | [林星潼](../Page/林星潼.md "wikilink")                    |
 | [曾可青](https://zh.wikipedia.org/wiki/曾可青 "wikilink") |
+|                                                     |
+| [徐凱希](../Page/徐凱希.md "wikilink")                    |
+|                                                     |
+| [張語噥](../Page/張語噥.md "wikilink")                    |
+|                                                     |
+| [陳斯亞](../Page/陳斯亞.md "wikilink")                    |
+|                                                     |
 | [篠崎泫](../Page/篠崎泫.md "wikilink")                    |
 |                                                     |
 
-註：**曾可青**舊藝名小可\[1\]，曾參加[超級星光大道
-(第三屆)的百人初選](../Page/超級星光大道_\(第三屆\).md "wikilink")、[我猜我猜我猜猜猜](../Page/我猜我猜我猜猜猜.md "wikilink")和[我愛黑澀會](../Page/我愛黑澀會.md "wikilink")等節目錄影，曾為[黑澀會美眉](../Page/黑澀會美眉.md "wikilink")的其中一位。\[2\]
-
-### 前任成員
-
-| 成員列表                             |
-| -------------------------------- |
-| 本名                               |
-| [陳斯亞](../Page/陳斯亞.md "wikilink") |
-|                                  |
-| [徐凱希](../Page/徐凱希.md "wikilink") |
-|                                  |
-| [張語噥](../Page/張語噥.md "wikilink") |
+註：**曾可青**舊藝名小可\[2\]，曾參加[超級星光大道 (第三屆)的百人初選](../Page/超級星光大道_\(第三屆\).md "wikilink")、[我猜我猜我猜猜猜](../Page/我猜我猜我猜猜猜.md "wikilink")和[我愛黑澀會](../Page/我愛黑澀會.md "wikilink")等節目錄影，曾為[黑澀會美眉](../Page/黑澀會美眉.md "wikilink")的其中一位。\[3\]
 
 ## 節目
 
@@ -108,11 +103,8 @@
 
 **<small>註：成員以團體身份出道前的個人其他歌曲作品請參閱個人條目**</small>
 
-  - 《[暖流](http://www.youtube.com/watch?v=DZrOD2Me4sE)》
-    (**[廖曉彤](../Page/廖曉彤.md "wikilink")**主唱，**Twinko**全員配唱)
-    (暖流計劃一週年主題曲)
-  - 《[AVENUE
-    創意方城市](http://www.youtube.com/watch?v=v6B8plM0fpI)》（**Twinko**與[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Dal★Shabet](../Page/Dal★Shabet.md "wikilink")合作）（《創意方城市》主題曲）
+  - 《[暖流](http://www.youtube.com/watch?v=DZrOD2Me4sE)》 (**[廖曉彤](../Page/廖曉彤.md "wikilink")**主唱，**Twinko**全員配唱) (暖流計劃一週年主題曲)
+  - 《[AVENUE 創意方城市](http://www.youtube.com/watch?v=v6B8plM0fpI)》（**Twinko**與[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Dal★Shabet](../Page/Dal★Shabet.md "wikilink")合作）（《創意方城市》主題曲）
 
 ## MV演出
 
@@ -131,7 +123,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>Twinko</strong></p></td>
-<td><p>Crime Craft[3][4]</p></td>
+<td><p>Crime Craft[4][5]</p></td>
 <td><p><a href="../Page/Twinko_X_Crime_Craft.md" title="wikilink">Twinko X Crime Craft</a></p></td>
 <td><p>2013年12月25日</p></td>
 <td><p>這首歌曲為<strong>Twinko</strong>成軍後推出的首張單曲</p></td>
@@ -357,15 +349,10 @@
   -
   -
   -
-[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
+[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
 
-1.  [魔朵塢MODELWOOD娛樂經紀:
-    曾可青(小可)](http://album.blog.yam.com/MODELWOOD&folder=9438910)
-
-2.  [DHC超萌電視廣告女主角
-    她是誰?](http://www.vogue.com.tw/feature/celebritynews/content-1853.html)2010年10月14日
-    vogue
-3.
+1.  [徐凱希驚爆財務糾紛 淚控前東家欠薪1年揭辛酸內情](https://star.ettoday.net/news/1496763)
+2.  [魔朵塢MODELWOOD娛樂經紀: 曾可青(小可)](http://album.blog.yam.com/MODELWOOD&folder=9438910)
+3.  [DHC超萌電視廣告女主角 她是誰?](http://www.vogue.com.tw/feature/celebritynews/content-1853.html)2010年10月14日 vogue
 4.
+5.

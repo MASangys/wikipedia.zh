@@ -16,35 +16,16 @@ M60-UCD1被認為原本是另一個更巨大的星系的核心，但該星系在
 
 ## 沿伸閱讀
 
-  - Strader, Jay; Seth, Anil C.; Forbes, Duncan A.; Fabbiano,
-    Giuseppina; Romanowsky, Aaron J.; Brodie, Jean P.; Conroy, Charlie;
-    Caldwell, Nelson; Pota, Vincenzo; Usher, Christopher; Arnold, Jacob
-    A.; "The Densest Galaxy", *The Astrophysical Journal Letters*,
-    Volume 775, Issue 1, article id. L6, 6 pp., September 2013;  ;  ;
-  - Seth, Anil; van den Bosch, Remco; Mieske, Steffen; Baumgardt,
-    Holger; den Brok, Mark; Strader, Jay; Neumayer, Nadine;
-    Chilingarian, Igor; Hilker, Michael; McDermid, Richard; Brodie,
-    Jean; Frank, Matthias; Walsh, Jonelle L.; "A Supermassive Black Hole
-    in an Ultracompact Dwarf Galaxy", *Nature*, 513, pages 398–400, 18
-    September 2014;  ;  ;
+  - Strader, Jay; Seth, Anil C.; Forbes, Duncan A.; Fabbiano, Giuseppina; Romanowsky, Aaron J.; Brodie, Jean P.; Conroy, Charlie; Caldwell, Nelson; Pota, Vincenzo; Usher, Christopher; Arnold, Jacob A.; "The Densest Galaxy", *The Astrophysical Journal Letters*, Volume 775, Issue 1, article id. L6, 6 pp., September 2013;  ;  ;
+  - Seth, Anil; van den Bosch, Remco; Mieske, Steffen; Baumgardt, Holger; den Brok, Mark; Strader, Jay; Neumayer, Nadine; Chilingarian, Igor; Hilker, Michael; McDermid, Richard; Brodie, Jean; Frank, Matthias; Walsh, Jonelle L.; "A Supermassive Black Hole in an Ultracompact Dwarf Galaxy", *Nature*, 513, pages 398–400, 18 September 2014;  ;  ;
 
 ## 外部連結
 
-  - Chandra X-Ray Observatory, ["NASA's Hubble and Chandra Find Evidence
-    for Densest Nearby
-    Galaxy"](http://chandra.harvard.edu/press/13_releases/press_092413.html),
-    NASA, 24 September 2013
-  - ScienceDaily, ["Evidence for Densest Nearby
-    Galaxy"](http://www.sciencedaily.com/releases/2013/09/130924141659.htm),
-    24 September 2013
-  - ScienceDaily, ["Astronomers Discover Densest Galaxy
-    Ever"](http://www.sciencedaily.com/releases/2013/09/130924141701.htm),
-    24 September 2013
+  - Chandra X-Ray Observatory, ["NASA's Hubble and Chandra Find Evidence for Densest Nearby Galaxy"](http://chandra.harvard.edu/press/13_releases/press_092413.html), NASA, 24 September 2013
+  - ScienceDaily, ["Evidence for Densest Nearby Galaxy"](http://www.sciencedaily.com/releases/2013/09/130924141659.htm), 24 September 2013
+  - ScienceDaily, ["Astronomers Discover Densest Galaxy Ever"](http://www.sciencedaily.com/releases/2013/09/130924141701.htm), 24 September 2013
 
-[Category:2013年发现的天体](https://zh.wikipedia.org/wiki/Category:2013年发现的天体 "wikilink")
-[Category:矮星系](https://zh.wikipedia.org/wiki/Category:矮星系 "wikilink")
-[Category:室女座](https://zh.wikipedia.org/wiki/Category:室女座 "wikilink")
-[Category:室女座星系團](https://zh.wikipedia.org/wiki/Category:室女座星系團 "wikilink")
+[Category:2013年发现的天体](https://zh.wikipedia.org/wiki/Category:2013年发现的天体 "wikilink") [Category:矮星系](https://zh.wikipedia.org/wiki/Category:矮星系 "wikilink") [Category:室女座](https://zh.wikipedia.org/wiki/Category:室女座 "wikilink") [Category:室女座星系團](https://zh.wikipedia.org/wiki/Category:室女座星系團 "wikilink")
 
 1.
 

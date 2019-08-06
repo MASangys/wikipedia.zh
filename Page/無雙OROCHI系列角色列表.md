@@ -1,9 +1,6 @@
 本條目記載的內容為[光榮特庫摩公司旗下的遊戲作品](https://zh.wikipedia.org/wiki/光榮特庫摩 "wikilink")[無雙OROCHI系列](../Page/無雙OROCHI系列.md "wikilink")的原創角色。關於在本作登場的《[真·三國無雙系列](../Page/真·三國無雙系列.md "wikilink")》角色，請見[真·三國無雙角色列表](https://zh.wikipedia.org/wiki/真·三國無雙角色列表 "wikilink")；《[戰國無雙系列](../Page/戰國無雙系列.md "wikilink")》角色，請見[戰國無雙角色列表](https://zh.wikipedia.org/wiki/戰國無雙角色列表 "wikilink")。
 
-以下記載中，登場作品和武器的括號裡的數字為第幾代作品，以及「MO」表示為《無雙OROCHI》；「再臨」為《無雙OROCHI
-魔王再臨》；「Z」為《無雙OROCHI Z》；「2」為《無雙OROCHI
-2》，「S」為Special（PSP），「H」為Hyper（Wii
-U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
+以下記載中，登場作品和武器的括號裡的數字為第幾代作品，以及「MO」表示為《無雙OROCHI》；「再臨」為《無雙OROCHI 魔王再臨》；「Z」為《無雙OROCHI Z》；「2」為《無雙OROCHI 2》，「S」為Special（PSP），「H」為Hyper（Wii U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
 
 本系列旁白皆由擔任。
 
@@ -2458,7 +2455,7 @@ U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
 
   - 聲優：[小西克幸](../Page/小西克幸.md "wikilink")
   - 武器：巨大[葫蘆](https://zh.wikipedia.org/wiki/葫蘆 "wikilink")
-  - 日本三大妖怪。百鬼中的大頭目，傳說在平安時代被[源賴光及其率領的](https://zh.wikipedia.org/wiki/源賴光 "wikilink")[賴光四天王所討伐](https://zh.wikipedia.org/wiki/賴光四天王 "wikilink")。兼具力量與個性風格，令人有似曾相識之感的巨大男子。自臉上往上延伸的兩支長角，更令人感受到其獨特風采。對於自己的事情，除了名字以外皆無記憶，有著追求自己出身的強烈慾望。肩負著巨大的葫蘆作為武器而踏上戰場。為[遠呂智之分身](../Page/八岐大蛇.md "wikilink")，保存其良心，常被同屬一軍的[蛟所呼來喚去](https://zh.wikipedia.org/wiki/蛟 "wikilink")。
+  - 日本三大妖怪。百鬼中的大頭目，傳說在平安時代被[源賴光](../Page/源賴光.md "wikilink")及其率領的[賴光四天王所討伐](https://zh.wikipedia.org/wiki/賴光四天王 "wikilink")。兼具力量與個性風格，令人有似曾相識之感的巨大男子。自臉上往上延伸的兩支長角，更令人感受到其獨特風采。對於自己的事情，除了名字以外皆無記憶，有著追求自己出身的強烈慾望。肩負著巨大的葫蘆作為武器而踏上戰場。為[遠呂智之分身](../Page/八岐大蛇.md "wikilink")，保存其良心，常被同屬一軍的[蛟所呼來喚去](https://zh.wikipedia.org/wiki/蛟 "wikilink")。
 
 **[伏羲](../Page/伏羲.md "wikilink") （再臨初登場）**
 
@@ -2511,8 +2508,7 @@ U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
 **[應龍](../Page/應龍.md "wikilink")（2U初登場）**
 
   - 聲優：[真殿光昭](../Page/真殿光昭.md "wikilink")
-  - 武器：[雙龍劍](https://zh.wikipedia.org/wiki/龍鳳雙劍 "wikilink")（MO2
-    Ultimate）
+  - 武器：[雙龍劍](https://zh.wikipedia.org/wiki/龍鳳雙劍 "wikilink")（MO2 Ultimate）
   - 活躍於仙界之天兵天將。與伏羲等猛將並肩作戰，於仙界內與魔物之戰中，勞苦而功高。斬殺敵人作戰勇猛之外，週遭的將士中上位者對其有高等的評價，亦於屬下中德高望重。相反地，為了貫徹對同袍戰友純真的信念，卻缺乏了柔軟而彈性的氣節。相信玉藻前的謊言而破壞仙界的神鏡，導致受到大量妖氣而變成遠呂智。
 
 ## 神諭軍（計6人）
@@ -2603,8 +2599,7 @@ U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
 
   - 聲優：[山崎和佳奈](../Page/山崎和佳奈.md "wikilink")
   - 武器：[風舞小太刀](../Page/太刀.md "wikilink")
-  - 以《[生死格鬥系列](../Page/生死格鬥系列.md "wikilink")》的代表人物加入本作，一子相傳忍術‧霧幻天神流祕門「霸神門」之天才女忍者。於聚集各界強者的格鬥大會‧第四次DOA大會結束時，讓大會主辦團體本部所在之超高階大樓TRY
-    TOWER崩壞後，受同流派的脫逃忍者追殺，但是卻掉入突如其來的扭曲時空內，到達異世界。
+  - 以《[生死格鬥系列](../Page/生死格鬥系列.md "wikilink")》的代表人物加入本作，一子相傳忍術‧霧幻天神流祕門「霸神門」之天才女忍者。於聚集各界強者的格鬥大會‧第四次DOA大會結束時，讓大會主辦團體本部所在之超高階大樓TRY TOWER崩壞後，受同流派的脫逃忍者追殺，但是卻掉入突如其來的扭曲時空內，到達異世界。
 
 **[貞德](../Page/聖女貞德.md "wikilink")（2初登場）**
 
@@ -2654,5 +2649,4 @@ U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
   - 武器：劍＋盾
   - 以《[劍魂](https://zh.wikipedia.org/wiki/劍魂 "wikilink")》系列的代表人物加入本作，鍛冶之神·[赫淮斯托斯](../Page/赫淮斯托斯.md "wikilink")所受命的聖戰士，為兩個孩子的母親。為了破壞邪劍投身戰場，在打完後想趕快回家確認家人安全途中，被時空扭曲捲入而來到異世界。
 
-[Category:无双大蛇系列](https://zh.wikipedia.org/wiki/Category:无双大蛇系列 "wikilink")
-[Category:電子遊戲角色列表](https://zh.wikipedia.org/wiki/Category:電子遊戲角色列表 "wikilink")
+[Category:无双大蛇系列](https://zh.wikipedia.org/wiki/Category:无双大蛇系列 "wikilink") [Category:電子遊戲角色列表](https://zh.wikipedia.org/wiki/Category:電子遊戲角色列表 "wikilink")

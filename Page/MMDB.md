@@ -12,8 +12,6 @@
 
   - <http://www.ncbi.nlm.nih.gov/structure>
 
-[Category:生物資訊資料庫](https://zh.wikipedia.org/wiki/Category:生物資訊資料庫 "wikilink")
-[Category:国立卫生研究院](https://zh.wikipedia.org/wiki/Category:国立卫生研究院 "wikilink")
-[Category:蛋白質結構](https://zh.wikipedia.org/wiki/Category:蛋白質結構 "wikilink")
+[Category:生物資訊資料庫](https://zh.wikipedia.org/wiki/Category:生物資訊資料庫 "wikilink") [Category:国立卫生研究院](https://zh.wikipedia.org/wiki/Category:国立卫生研究院 "wikilink") [Category:蛋白質結構](https://zh.wikipedia.org/wiki/Category:蛋白質結構 "wikilink")
 
 1.

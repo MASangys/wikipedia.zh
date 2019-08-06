@@ -1,10 +1,8 @@
-《**渦輪方程式**》（）是一部2013年3D動畫電影，由美國[夢工場公司製作](https://zh.wikipedia.org/wiki/夢工場 "wikilink")，由[加拿大](../Page/加拿大.md "wikilink")籍的[大衛·蘇倫執導](https://zh.wikipedia.org/wiki/大衛·蘇倫 "wikilink")。電影上映之後，一個名叫《》的電視系列也會跟著於2013年12月在[Netflix](../Page/Netflix.md "wikilink")推出，以及在[Cartoon
-Network播映](../Page/卡通頻道.md "wikilink")。
+《**渦輪方程式**》（）是一部2013年3D動畫電影，由美國[夢工場公司製作](https://zh.wikipedia.org/wiki/夢工場 "wikilink")，由[加拿大](../Page/加拿大.md "wikilink")籍的[大衛·蘇倫執導](https://zh.wikipedia.org/wiki/大衛·蘇倫 "wikilink")。電影上映之後，一個名叫《》的電視系列也會跟著於2013年12月在[Netflix](../Page/Netflix.md "wikilink")推出，以及在[Cartoon Network播映](../Page/卡通頻道.md "wikilink")。
 
 ## 劇情
 
-一隻名叫Turbo的蝸牛，一直夢想可以參加[印第安納波利斯500](../Page/印第安納波利斯500.md "wikilink")英里大賽。在一次被吸進汽車引擎的意外之後，车内的[氮氧加速系统](https://zh.wikipedia.org/wiki/氮氧加速系统 "wikilink")
-让它的DNA发生基因突变，让它化身成為一隻有超能力，速度極高的蝸牛。
+一隻名叫Turbo的蝸牛，一直夢想可以參加[印第安納波利斯500](../Page/印第安納波利斯500.md "wikilink")英里大賽。在一次被吸進汽車引擎的意外之後，车内的[氮氧加速系统](https://zh.wikipedia.org/wiki/氮氧加速系统 "wikilink") 让它的DNA发生基因突变，让它化身成為一隻有超能力，速度極高的蝸牛。
 
 ## 角色
 
@@ -105,8 +103,7 @@ Network播映](../Page/卡通頻道.md "wikilink")。
 
 ## 製作
 
-[夢工場動畫跟](https://zh.wikipedia.org/wiki/夢工場動畫 "wikilink")[印第安納波利斯500](../Page/印第安納波利斯500.md "wikilink")的主辦單位[印第賽車](../Page/印第賽車.md "wikilink")合作，在電影中重現[印第安納波利斯賽車場](../Page/印第安納波利斯賽車場.md "wikilink")。四屆印第賽車總冠軍Dario
-Franchitti是電影的技術顧問，提供有關蝸牛Turbo在賽事中的觀點的相關建議。\[22\]
+[夢工場動畫跟](https://zh.wikipedia.org/wiki/夢工場動畫 "wikilink")[印第安納波利斯500](../Page/印第安納波利斯500.md "wikilink")的主辦單位[印第賽車](../Page/印第賽車.md "wikilink")合作，在電影中重現[印第安納波利斯賽車場](../Page/印第安納波利斯賽車場.md "wikilink")。四屆印第賽車總冠軍Dario Franchitti是電影的技術顧問，提供有關蝸牛Turbo在賽事中的觀點的相關建議。\[22\]
 
 ## 评价
 
@@ -132,26 +129,7 @@ Franchitti是電影的技術顧問，提供有關蝸牛Turbo在賽事中的觀�
 
 ぉゔぇ よう の じゃckそn
 
-[Category:2013年電影](https://zh.wikipedia.org/wiki/Category:2013年電影 "wikilink")
-[Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink")
-[Category:IMAX電影](https://zh.wikipedia.org/wiki/Category:IMAX電影 "wikilink")
-[Category:美国3D电影](https://zh.wikipedia.org/wiki/Category:美国3D电影 "wikilink")
-[Category:美國電影作品](https://zh.wikipedia.org/wiki/Category:美國電影作品 "wikilink")
-[Category:導演處女作](https://zh.wikipedia.org/wiki/Category:導演處女作 "wikilink")
-[Category:2013年3D电影](https://zh.wikipedia.org/wiki/Category:2013年3D电影 "wikilink")
-[Category:2013年美国动画电影](https://zh.wikipedia.org/wiki/Category:2013年美国动画电影 "wikilink")
-[Category:2013年電腦動畫電影](https://zh.wikipedia.org/wiki/Category:2013年電腦動畫電影 "wikilink")
-[Category:2010年代喜劇片](https://zh.wikipedia.org/wiki/Category:2010年代喜劇片 "wikilink")
-[Category:2010年代運動片](https://zh.wikipedia.org/wiki/Category:2010年代運動片 "wikilink")
-[Category:美國運動喜劇片](https://zh.wikipedia.org/wiki/Category:美國運動喜劇片 "wikilink")
-[Category:夢工廠電影](https://zh.wikipedia.org/wiki/Category:夢工廠電影 "wikilink")
-[Category:夢工廠動畫公司動畫電影](https://zh.wikipedia.org/wiki/Category:夢工廠動畫公司動畫電影 "wikilink")
-[Category:無脊椎動物電影](https://zh.wikipedia.org/wiki/Category:無脊椎動物電影 "wikilink")
-[Category:励志题材影片](https://zh.wikipedia.org/wiki/Category:励志题材影片 "wikilink")
-[Category:賽車電影](https://zh.wikipedia.org/wiki/Category:賽車電影 "wikilink")
-[Category:軟體動物主角故事](https://zh.wikipedia.org/wiki/Category:軟體動物主角故事 "wikilink")
-[Category:洛杉磯背景電影](https://zh.wikipedia.org/wiki/Category:洛杉磯背景電影 "wikilink")
-[Category:印第安納波利斯背景電影](https://zh.wikipedia.org/wiki/Category:印第安納波利斯背景電影 "wikilink")
+[Category:2013年電影](https://zh.wikipedia.org/wiki/Category:2013年電影 "wikilink") [Category:英語電影](https://zh.wikipedia.org/wiki/Category:英語電影 "wikilink") [Category:IMAX電影](https://zh.wikipedia.org/wiki/Category:IMAX電影 "wikilink") [Category:美国3D电影](https://zh.wikipedia.org/wiki/Category:美国3D电影 "wikilink") [Category:美國電影作品](https://zh.wikipedia.org/wiki/Category:美國電影作品 "wikilink") [Category:導演處女作](https://zh.wikipedia.org/wiki/Category:導演處女作 "wikilink") [Category:2013年3D电影](https://zh.wikipedia.org/wiki/Category:2013年3D电影 "wikilink") [Category:2013年美国动画电影](https://zh.wikipedia.org/wiki/Category:2013年美国动画电影 "wikilink") [Category:2013年電腦動畫電影](https://zh.wikipedia.org/wiki/Category:2013年電腦動畫電影 "wikilink") [Category:2010年代喜劇片](https://zh.wikipedia.org/wiki/Category:2010年代喜劇片 "wikilink") [Category:2010年代運動片](https://zh.wikipedia.org/wiki/Category:2010年代運動片 "wikilink") [Category:美國運動喜劇片](https://zh.wikipedia.org/wiki/Category:美國運動喜劇片 "wikilink") [Category:夢工廠電影](https://zh.wikipedia.org/wiki/Category:夢工廠電影 "wikilink") [Category:夢工廠動畫公司動畫電影](https://zh.wikipedia.org/wiki/Category:夢工廠動畫公司動畫電影 "wikilink") [Category:無脊椎動物電影](https://zh.wikipedia.org/wiki/Category:無脊椎動物電影 "wikilink") [Category:励志题材影片](https://zh.wikipedia.org/wiki/Category:励志题材影片 "wikilink") [Category:賽車電影](https://zh.wikipedia.org/wiki/Category:賽車電影 "wikilink") [Category:軟體動物主角故事](https://zh.wikipedia.org/wiki/Category:軟體動物主角故事 "wikilink") [Category:洛杉磯背景電影](https://zh.wikipedia.org/wiki/Category:洛杉磯背景電影 "wikilink") [Category:印第安納波利斯背景電影](https://zh.wikipedia.org/wiki/Category:印第安納波利斯背景電影 "wikilink")
 
 1.
 

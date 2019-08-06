@@ -9,28 +9,21 @@
 ## 本作特色
 
   -
-    本作是首次以汽車作為元素，全假面騎士系列首次主角假面騎士沒有自己的機車，因此跑車為本作主角騎士最主要的座駕。這亦令本作的主角騎士**Drive**成為繼昭和時代的《[假面騎士Black
-    RX](https://zh.wikipedia.org/wiki/假面騎士Black_RX "wikilink")》之後第二位擁有跑車的假面騎士。
+    本作是首次以汽車作為元素，全假面騎士系列首次主角假面騎士沒有自己的機車，因此跑車為本作主角騎士最主要的座駕。這亦令本作的主角騎士**Drive**成為繼昭和時代的《[假面騎士Black RX](https://zh.wikipedia.org/wiki/假面騎士Black_RX "wikilink")》之後第二位擁有跑車的假面騎士。
     本作故事情節上使用偵查奇異案件方式的[刑事劇作為主要設定](https://zh.wikipedia.org/wiki/刑事 "wikilink")。
     本作再度採用每兩話一篇單元式的劇情架構\[2\]。
     除第1話,最終話/特別篇,本作首次在大多集數取消上集提要和開頭,直接播片頭曲。
-    演唱本作片頭曲的歌手[松岡充](https://zh.wikipedia.org/wiki/松岡充 "wikilink"),曾演劇場版《[假面騎士W
-    Forever A至Z/命運的Gaia
-    Memory](https://zh.wikipedia.org/wiki/假面騎士W_Forever_A至Z/命運的Gaia_Memory "wikilink")》的敵人大道克己/假面騎士Eternal和演唱該劇場版主題曲《W》\[3\],是第二位過去曾先參與平成[假面騎士系列](../Page/假面騎士系列.md "wikilink")角色,後來演唱假面騎士電視版片頭曲的歌手\[4\],亦是首位過去曾演假面騎士變身者的平成[假面騎士系列](../Page/假面騎士系列.md "wikilink")電視版片頭曲主唱\[5\]\[6\]。
+    演唱本作片頭曲的歌手[松岡充](https://zh.wikipedia.org/wiki/松岡充 "wikilink"),曾演劇場版《[假面騎士W Forever A至Z/命運的Gaia Memory](https://zh.wikipedia.org/wiki/假面騎士W_Forever_A至Z/命運的Gaia_Memory "wikilink")》的敵人大道克己/假面騎士Eternal和演唱該劇場版主題曲《W》\[3\],是第二位過去曾先參與平成[假面騎士系列](../Page/假面騎士系列.md "wikilink")角色,後來演唱假面騎士電視版片頭曲的歌手\[4\],亦是首位過去曾演假面騎士變身者的平成[假面騎士系列](../Page/假面騎士系列.md "wikilink")電視版片頭曲主唱\[5\]\[6\]。
     另外是自《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》之後再次於劇中使用**假面騎士**的稱呼，亦繼《[假面騎士KIVA](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")》後第二次變身器擁有人格的演繹。
-    本作世界觀設定與前作《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》\[7\]和後作《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》相連，之後於2017年上映的《[假面騎士平成Generations
-    FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀。\[8\]。
+    本作世界觀設定與前作《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》\[7\]和後作《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》相連，之後於2017年上映的《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀。\[8\]。
     本作是繼《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》後，第四套有播出餘慶的特別篇的系列作品。\[9\]
     本作首次把集數劃分為多個特定的章節。
 
 ## 故事概要
 
   -
-    2014年4月8日的晚上，全世界頻繁爆發令所有的人類和物質變得靜止的怪異現象「鈍拙」，由人工生命體惡路程式（Roidmude）所引發並作出大規模破壞行動，事件後期被稱之為「Global
-    Freeze」。
-    半年後，警視廳內部成立了部門特狀課，負責調查與後期稱之為「重加速」的現象有關特別案件，而特狀課有一位曾經在「Global
-    Freeze」事件中造成了陰霾而變得散慢的-{少}-年刑警泊進之介，偶然與設置於跑車賽特朗內會說話的腰帶相遇。
+    2014年4月8日的晚上，全世界頻繁爆發令所有的人類和物質變得靜止的怪異現象「鈍拙」，由人工生命體惡路程式（Roidmude）所引發並作出大規模破壞行動，事件後期被稱之為「Global Freeze」。
+    半年後，警視廳內部成立了部門特狀課，負責調查與後期稱之為「重加速」的現象有關特別案件，而特狀課有一位曾經在「Global Freeze」事件中造成了陰霾而變得散慢的-{少}-年刑警泊進之介，偶然與設置於跑車賽特朗內會說話的腰帶相遇。
     在發生新一度和「重加速」有關的事件之中，使用腰帶變身成為假面騎士Drive與引發事件的怪物戰鬥。
 
 ## 故事背景
@@ -43,8 +36,7 @@
     警視廳所成立的部門，總部設於久瑠間駕駛執照考場內，專門負責調查與「重加速」有關的特別事件。
     本願寺純主要為協助已成為變身腰帶的克里姆‧施丹伯特能夠秘密行動而成立，能夠獲得據點在底部建設秘密基地「Drive Pit」。
     雖然名義上屬警察部門，但有關調查工作並不太受到警視廳內部重視及認同，被質疑是否曾經發生過所謂「怪異事件」，甚至多次因假面騎士的存在而遭致指摘沒有成效。
-    直至查出原來背後由惡路程式001所擬態的國家防衛局長官真影壯一，及搜查一課課長仁良光秀二人合同暗中在操縱一切，而導致曾經發生「Global
-    Freeze」這大規模事件後警方仍淡然應對。
+    直至查出原來背後由惡路程式001所擬態的國家防衛局長官真影壯一，及搜查一課課長仁良光秀二人合同暗中在操縱一切，而導致曾經發生「Global Freeze」這大規模事件後警方仍淡然應對。
     最終經過惡路程式001被消滅及仁良受到拘捕之後，特狀課正式受到認可昇格成為刑事部。
 
 | 惡路程式撲滅紀錄   |
@@ -214,16 +206,14 @@
     主要分為變身和輪胎交換兩種類別，前者用作轉換軀體主幹的形態，及可作為「腰帶先生」意識的分體方便在Drive驅動器以外的範圍活動；後者則用作轉換具有特定能力的輪胎武裝，並且每輛車都具有自我意識和個性，就如同人類一樣有着感情，當非使用於Drive驅動器的狀態時，亦可發動自身能力作出合適的支援工作。
     同時具有抵抗「重加速」的能力，人類攜帶身上同樣可在此現象中活動正常。
     平時被當作泊進之介的迷你玩具車，有時也會放置於特狀課的搜查室中。
-    （有關移速戰車的種類，請參閱「[移速戰車（Shift
-    Car）](https://zh.wikipedia.org/wiki/假面騎士Drive#移速戰車（Shift_Car） "wikilink")」一欄）
+    （有關移速戰車的種類，請參閱「[移速戰車（Shift Car）](https://zh.wikipedia.org/wiki/假面騎士Drive#移速戰車（Shift_Car） "wikilink")」一欄）
 
 **信號摩托**
 
   -
     原文： / *Signal Bike*
     假面騎士Mach的專用道具，變身和轉換模式用，同樣都具有抵抗「重加速」的能力。
-    （有關信號摩托的種類，請參閱「[信號摩托（Signal
-    Bike）](https://zh.wikipedia.org/wiki/假面騎士Drive#信號摩托（Signal_Bike） "wikilink")」一欄）
+    （有關信號摩托的種類，請參閱「[信號摩托（Signal Bike）](https://zh.wikipedia.org/wiki/假面騎士Drive#信號摩托（Signal_Bike） "wikilink")」一欄）
 
 **病毒核心**
 
@@ -233,8 +223,7 @@
     當惡路程式身體被破壞而處於核心狀態時，可利用病毒核心重新構造身體；當擁有身體的狀態下再次使用時則會異變成巨大化。
     而魔進追跡者專用的病毒核心外表呈銀色，用作於戰鬥時裝備及轉換特定的武器。
     另外外表呈紅色的新種病毒核心，主要作為惡路程式與人類融合的媒介藉以獲得進化。
-    （有關病毒核心的種類，請參閱「[病毒核心（Viral
-    Core）](https://zh.wikipedia.org/wiki/假面騎士Drive#病毒核心（Viral_Core） "wikilink")」一欄）
+    （有關病毒核心的種類，請參閱「[病毒核心（Viral Core）](https://zh.wikipedia.org/wiki/假面騎士Drive#病毒核心（Viral_Core） "wikilink")」一欄）
 
 **惡路程式（Roidmude）**
 
@@ -244,12 +233,10 @@
     十五年前由科學家蠻野天十郎及克里姆‧施丹伯特二人共同開發的機械作業系統，能夠成長及進化的人工生命體。
     主要分為眼鏡蛇型、蜘蛛型及蝙蝠型三種類，特徵是胸口有著不同識別編號，001至009為幹部級別，總數為108具。
     即使身體受到巨大傷害而被消滅，其後仍然會化作數字狀能量體的核心形態存活下來，若核心同樣被消滅時該名惡路程式才算上正式死亡；核心仍然未受到破壞時，亦可利用病毒核心令牠們身體得到重生的機會。
-    對成為人類有著強烈的憧憬，瞄準著世界一齊起義。但經過「Global
-    Freeze」一役大部分惡路程式身體受到破壞後，核心處於網絡內作為「光」一般正在四散著。現在剩下一部分的領導人們，嘗試讓惡路程式再次復活為將來的日子備戰。
+    對成為人類有著強烈的憧憬，瞄準著世界一齊起義。但經過「Global Freeze」一役大部分惡路程式身體受到破壞後，核心處於網絡內作為「光」一般正在四散著。現在剩下一部分的領導人們，嘗試讓惡路程式再次復活為將來的日子備戰。
     另一方面有部分從網絡中復活後，打算單獨潛伏社會內學習人類思想及擬態外型後獲得異能進化；當中甚至與人類共同合謀達成某項目的，其後接收對方負面情緒後從而進化；亦有部分借助新種病毒核心與人類融合後得到進化，進化後和其他以往的分別是有著全身顏色通紅的特徵。
     但亦有個別因行事過火甚至達至犯罪的階段，而引致市井之人出現各種各樣的奇怪事件，領導人們為免暴露行蹤而將這類害群之馬處決後，並保留核心納回在網絡內等待重置形體；但有部份即使接受過重置也會有重蹈覆轍的情況，所以會被視為不良品而將它們連同核心完全消滅。
-    實則開始並非存心與人類為敵，但蠻野對部分惡路程式作出非人道的實驗及植入邪惡意識後，仇恨驅使著Heart帶領惡路程式將蠻野及克里姆二人殺害，亦正因如此為報復人類而觸發了第一次「Global
-    Freeze」。
+    實則開始並非存心與人類為敵，但蠻野對部分惡路程式作出非人道的實驗及植入邪惡意識後，仇恨驅使著Heart帶領惡路程式將蠻野及克里姆二人殺害，亦正因如此為報復人類而觸發了第一次「Global Freeze」。
     當從人類所學習特定的情緒達至極限時，即使本身已經進化，亦能夠再進一步推至「超進化態」的更高層次境界。「超進化態」有著全身變化成金色的特徵，以及力量方面會有幾何級數的提升。
     現時首要目標需要擁有四名「超進化態」惡路程式去達成「約定之數」，從而向世界發動第二次「Global Freeze」。
 
@@ -266,8 +253,7 @@
 
   -
     原文：
-    Gord Drive（蠻野天十郎）為發動第二次「Global
-    Freeze」，命令由惡路程式004所擬態的克里姆‧施丹伯特著手開發的球體機械裝置。
+    Gord Drive（蠻野天十郎）為發動第二次「Global Freeze」，命令由惡路程式004所擬態的克里姆‧施丹伯特著手開發的球體機械裝置。
     利用所注入的四名「超進化態」惡路程式重力引擎能量作為動力源，加上融合特防中心的大廈能源後能夠像有機物般可成長增生，及擁有人工智能意識啟動防衛系統。
     若然能完全成長則會發動強度比平常高出4-5倍，力量足以覆蓋整個地球甚至會達至時間靜止的「重加速」，然後將全人類數據化並加以支配。
 
@@ -966,8 +952,7 @@ type Formula形態時所屬的的騎士踢。移速手鐲按下按鈕「Igniter�
 
 #### 專屬武裝
 
-【「▲▲」代表移速戰車、病毒核心及信號摩托的末字，例如「Shift Speed」會讀作「Speed」、「Max
-Flare」會讀作「Flare」、「Signal Mach」會讀作「Mach」等】
+【「▲▲」代表移速戰車、病毒核心及信號摩托的末字，例如「Shift Speed」會讀作「Speed」、「Max Flare」會讀作「Flare」、「Signal Mach」會讀作「Mach」等】
 
 【「●●」代表輪胎交換用移速戰車全名，例如「Max Flare」、「Funky Spike」等】
 
@@ -978,17 +963,8 @@ Flare」會讀作「Flare」、「Signal Mach」會讀作「Mach」等】
   -
     原文： / *Handle Ken*
     長劍型武器。劍身由稱為「SO-1」的壓縮合金製成。
-    當扭動劍柄正中位置的小型軚盤「Turn Action
-    Handle」並發出音效「Turn！」後，揮動同時劍身亦會因應扭動方向，連帶引力牽動使用者從而發動強力的回旋斬擊；當扭動「Turn
-    Action Handle」至第三次時發出音效「U
-    Turn！」過後，引力會連帶牽動至腳部位置，向目標附近位置發動[飄移式孤度滑行從而發動更強烈的斬擊](https://zh.wikipedia.org/wiki/飄移 "wikilink")；「Turn
-    Action Handle」正中位置帶有響按「Turn Ender」，當扭動「Turn Action
-    Handle」後將之按下，發出音效「Drift
-    Kaiten！（原文「」，漢字為「回轉」）」後則會發動連環式的回旋斬擊。
-    劍柄護手處裝有插槽「Shift Landing
-    Panel」，用作插入移速戰車後發動附加指定屬性的必殺技。先扭動Drive驅動器的「Advanced
-    Ignition」開關，再插入移速戰車並發出音效「Hissatsu！（原文「」，漢字為「必殺」）●●！Full
-    Throttle！」後以作發動必殺技。
+    當扭動劍柄正中位置的小型軚盤「Turn Action Handle」並發出音效「Turn！」後，揮動同時劍身亦會因應扭動方向，連帶引力牽動使用者從而發動強力的回旋斬擊；當扭動「Turn Action Handle」至第三次時發出音效「U Turn！」過後，引力會連帶牽動至腳部位置，向目標附近位置發動[飄移式孤度滑行從而發動更強烈的斬擊](https://zh.wikipedia.org/wiki/飄移 "wikilink")；「Turn Action Handle」正中位置帶有響按「Turn Ender」，當扭動「Turn Action Handle」後將之按下，發出音效「Drift Kaiten！（原文「」，漢字為「回轉」）」後則會發動連環式的回旋斬擊。
+    劍柄護手處裝有插槽「Shift Landing Panel」，用作插入移速戰車後發動附加指定屬性的必殺技。先扭動Drive驅動器的「Advanced Ignition」開關，再插入移速戰車並發出音效「Hissatsu！（原文「」，漢字為「必殺」）●●！Full Throttle！」後以作發動必殺技。
 
 <!-- end list -->
 
@@ -999,14 +975,8 @@ Flare」會讀作「Flare」、「Signal Mach」會讀作「Mach」等】
   -
     原文： / *Door Ju*
     手槍型武器。同樣由「SO-1」的壓縮合金製成。
-    當能量彈彈藥用光後，需要張開槍身左側的小型車門「SO- Door Panel
-    Shield」後再合上，並發出「Charge！」的音效後以作充填彈藥。若「SO-
-    Door Panel Shield」在張開的情況扣下扳機則會發出「Han Door！（）」的音效以作無法使用的警示。除此以外，「SO-
-    Door Panel Shield」亦具有製造出能量護盾的功能以作防禦之用。
-    「SO- Door Panel Shield」內部裝有插槽「Shift Landing
-    Panel」，用作插入移速戰車後發動附加指定屬性的必殺技。先扭動Drive驅動器的「Advanced
-    Ignition」開關，再插入移速戰車並發出音效「Hissatsu！（原文「」，漢字為「必殺」）●●！Full
-    Throttle！」後以作發動必殺技。
+    當能量彈彈藥用光後，需要張開槍身左側的小型車門「SO- Door Panel Shield」後再合上，並發出「Charge！」的音效後以作充填彈藥。若「SO- Door Panel Shield」在張開的情況扣下扳機則會發出「Han Door！（）」的音效以作無法使用的警示。除此以外，「SO- Door Panel Shield」亦具有製造出能量護盾的功能以作防禦之用。
+    「SO- Door Panel Shield」內部裝有插槽「Shift Landing Panel」，用作插入移速戰車後發動附加指定屬性的必殺技。先扭動Drive驅動器的「Advanced Ignition」開關，再插入移速戰車並發出音效「Hissatsu！（原文「」，漢字為「必殺」）●●！Full Throttle！」後以作發動必殺技。
 
 <!-- end list -->
 
@@ -1018,13 +988,8 @@ Flare」會讀作「Flare」、「Signal Mach」會讀作「Mach」等】
     原文： / *Trailer Hou*
     type Formula專用槍炮型武器，type Tridoron同樣可使用。
     平常的「拖車模式」之下，與移速戰車一樣擁有自我意識並猶如車輛般活動，及可携帶其他移速戰車並藏於車庫型容器內。車頭位置藏有能量砲以作連射掩護；另具備雷達裝置可通過人造衛星的導航，搜索最佳路線以能夠在最短時間內到達支援。
-    當拉下車頭位置後作槍炮手把和扳機之用而轉換成為「大砲模式」，槍口頂部裝有插槽「Shift Landing
-    Slot」，插入移速戰車並發出音效「▲▲ Hou！（）」後發動附加指定屬性的射撃。
-    接近槍柄的頂部另具有坑槽「Shutter Gate Panel」，插槽「Shift Landing
-    Slot」接著移速戰車的情況下，再放入兩輛移速戰車會發出音效「Hissatsu！（原文「」，漢字為「必殺」）Full
-    Throttle！」並於槍身的顯示屏會亮起「FULL」的字樣，按下扳機並發出音效「Full Full ▲▲ Dai
-    Hou（）！」後以作發動混合屬性的必殺技；若「Shift Landing Slot」接著「Shift
-    Formula」以外的移速戰車時，按下扳機發動必殺技的音效會變成「Full Full ▲▲ Big Dai Hou（）！」。
+    當拉下車頭位置後作槍炮手把和扳機之用而轉換成為「大砲模式」，槍口頂部裝有插槽「Shift Landing Slot」，插入移速戰車並發出音效「▲▲ Hou！（）」後發動附加指定屬性的射撃。
+    接近槍柄的頂部另具有坑槽「Shutter Gate Panel」，插槽「Shift Landing Slot」接著移速戰車的情況下，再放入兩輛移速戰車會發出音效「Hissatsu！（原文「」，漢字為「必殺」）Full Throttle！」並於槍身的顯示屏會亮起「FULL」的字樣，按下扳機並發出音效「Full Full ▲▲ Dai Hou（）！」後以作發動混合屬性的必殺技；若「Shift Landing Slot」接著「Shift Formula」以外的移速戰車時，按下扳機發動必殺技的音效會變成「Full Full ▲▲ Big Dai Hou（）！」。
     在type Tridoron狀態下發動必殺技完畢後，則會自動轉換成「Shift Landing Slot」所插入的移速戰車的所屬形態。
 
 <!-- end list -->
@@ -1125,8 +1090,7 @@ Flare」會讀作「Flare」、「Signal Mach」會讀作「Mach」等】
 
   -
     原文：
-    使用「Jacky
-    F02」移速戰車後附帶的[千斤頂](../Page/千斤頂.md "wikilink")形狀裝備，可作護手之用及伸縮彈射來攻擊目標。
+    使用「Jacky F02」移速戰車後附帶的[千斤頂](../Page/千斤頂.md "wikilink")形狀裝備，可作護手之用及伸縮彈射來攻擊目標。
 
 <!-- end list -->
 
@@ -1136,8 +1100,7 @@ Flare」會讀作「Flare」、「Signal Mach」會讀作「Mach」等】
 
   -
     原文：
-    使用「Sparner
-    F03」移速戰車後附帶的[扳手](../Page/扳手.md "wikilink")形狀的尖爪武器，主要作近戰之用。
+    使用「Sparner F03」移速戰車後附帶的[扳手](../Page/扳手.md "wikilink")形狀的尖爪武器，主要作近戰之用。
 
 #### 共通系列必殺技
 
@@ -1275,11 +1238,8 @@ Mach驅動炎掀起匣子「Frame Winguard」並將「Signal Chaser」信號摩�
   -
     原文： / *Zenrin Shooter*
     假面骑士Mach專用手槍型武器。
-    扣下扳機時會發出「Shooter！」的音效以提示正在運作槍砲的模式發射能量彈；當轉動位於護手處小型輪胎「Zenrin
-    Striker」時會會發出「Zenrin！（原文「」，漢字為「前輪」）」的音效，輪胎會產生並包圍著能量光束以用作近戰削擊敵人之用。
-    將信號摩托接入柄部護手處插槽「Signal Landing
-    Panel」會發出音效「Hissatsu！（原文「」，漢字為「必殺」）」，再扣下扳機或转动「Zenrin
-    Striker」後發出音效「Full Throttle！」以作發動必殺技。
+    扣下扳機時會發出「Shooter！」的音效以提示正在運作槍砲的模式發射能量彈；當轉動位於護手處小型輪胎「Zenrin Striker」時會會發出「Zenrin！（原文「」，漢字為「前輪」）」的音效，輪胎會產生並包圍著能量光束以用作近戰削擊敵人之用。
+    將信號摩托接入柄部護手處插槽「Signal Landing Panel」會發出音效「Hissatsu！（原文「」，漢字為「必殺」）」，再扣下扳機或转动「Zenrin Striker」後發出音效「Full Throttle！」以作發動必殺技。
 
 ### 假面騎士Protodrive
 
@@ -1382,13 +1342,8 @@ Mach驅動炎掀起匣子「Frame Winguard」並將「Signal Chaser」信號摩�
   -
     原文： / *Shingou-Ax*
     假面騎士Chaser專用斧頭型武器。
-    斧身具有行人專用交通信號燈型的顯示裝置「E-Condition
-    Lamp」，正當使用者發動必殺技的時候，主要用作以燈號提示正在處於積蓄能量的靜止狀態，或可隨時使出必殺技的狀態。
-    將信號摩托接入斧身背部插槽「Signal Landing
-    Panel」會發出音效「Hissatsu！（原文「」，漢字為「必殺」）」，再按下手柄部位的鈕鍵「Shingou
-    Push Button」後會連續發出待機音效「Matteroyo！（原文「，即是「」，意思為「請稍等」）」，期間「E-Condition
-    Lamp」會閃亮紅色燈號顯示，當能量充填完畢後會發出「Itteiyo！（原文「，即是「」，意思為「可步行了」）」的音效及「E-Condition
-    Lamp」會閃亮綠色燈號顯示，揮動後發出音效「Full Throttle！」以作發動必殺技。
+    斧身具有行人專用交通信號燈型的顯示裝置「E-Condition Lamp」，正當使用者發動必殺技的時候，主要用作以燈號提示正在處於積蓄能量的靜止狀態，或可隨時使出必殺技的狀態。
+    將信號摩托接入斧身背部插槽「Signal Landing Panel」會發出音效「Hissatsu！（原文「」，漢字為「必殺」）」，再按下手柄部位的鈕鍵「Shingou Push Button」後會連續發出待機音效「Matteroyo！（原文「，即是「」，意思為「請稍等」）」，期間「E-Condition Lamp」會閃亮紅色燈號顯示，當能量充填完畢後會發出「Itteiyo！（原文「，即是「」，意思為「可步行了」）」的音效及「E-Condition Lamp」會閃亮綠色燈號顯示，揮動後發出音效「Full Throttle！」以作發動必殺技。
 
 <!-- end list -->
 
@@ -1552,8 +1507,7 @@ Tune Chaser Bat形態時，破壞槍手插槽「Viral Landing Panel」接駁「C
 
 #### 專屬武裝
 
-【「▲▲」代表移速戰車、病毒核心及信號摩托的末字，例如「Shift Speed」會讀作「Speed」、「Max
-Flare」會讀作「Flare」、「Signal Mach」會讀作「Mach」等】
+【「▲▲」代表移速戰車、病毒核心及信號摩托的末字，例如「Shift Speed」會讀作「Speed」、「Max Flare」會讀作「Flare」、「Signal Mach」會讀作「Mach」等】
 
 【「●●」代表輪胎交換用移速戰車、病毒核心及信號摩托全名，例如「Max Flare」、「Chaser Spider」等】
 
@@ -1564,16 +1518,9 @@ Flare」會讀作「Flare」、「Signal Mach」會讀作「Mach」等】
   -
     原文： / *Break Gunner*
     魔進追跡者和假面騎士Chaser專用手槍型武器或變身道具。
-    變身魔進追跡者時先將槍口「Destruction Muzzle」壓在掌心後會發出待機音樂，放開掌心及發出「Break
-    Up！」音效後正式啟動變身程序。
-    用掌心輕按「Destruction
-    Muzzle」並發出「Gun！」的音效時會發動「手槍模式」，或用作壓縮內部能量強化子彈速度以進行精準的射擊；輕按「Destruction
-    Muzzle」並發出「Break！」的音效時會發動「破壞模式」，內部能量會分佈於護指處三顆鈍釘「Revenger
-    Pike」中，在近戰時可作為拳套般使用。
-    柄部護手處裝有插槽「Viral Landing
-    Panel」，插入病毒核心後以作裝備相應的武器改變戰鬥形態，同樣可以使用移速戰車來發動專有的屬性攻擊。插入病毒核心轉換形態或使用移速战车時發出音效為「Tune
-    ●●！」；使用必殺技時在「Viral Landing Panel」插著病毒核心的狀態按下「Destruction
-    Muzzle」後發動，發出音效為「Execution！Full Break！▲▲！」
+    變身魔進追跡者時先將槍口「Destruction Muzzle」壓在掌心後會發出待機音樂，放開掌心及發出「Break Up！」音效後正式啟動變身程序。
+    用掌心輕按「Destruction Muzzle」並發出「Gun！」的音效時會發動「手槍模式」，或用作壓縮內部能量強化子彈速度以進行精準的射擊；輕按「Destruction Muzzle」並發出「Break！」的音效時會發動「破壞模式」，內部能量會分佈於護指處三顆鈍釘「Revenger Pike」中，在近戰時可作為拳套般使用。
+    柄部護手處裝有插槽「Viral Landing Panel」，插入病毒核心後以作裝備相應的武器改變戰鬥形態，同樣可以使用移速戰車來發動專有的屬性攻擊。插入病毒核心轉換形態或使用移速战车時發出音效為「Tune ●●！」；使用必殺技時在「Viral Landing Panel」插著病毒核心的狀態按下「Destruction Muzzle」後發動，發出音效為「Execution！Full Break！▲▲！」
 
 <!-- end list -->
 
@@ -1651,17 +1598,13 @@ Flare」會讀作「Flare」、「Signal Mach」會讀作「Mach」等】
 
 ## 輔助工具
 
-【「▲▲」代表移速戰車、病毒核心及信號摩托的末字，例如「Shift Speed」會讀作「Speed」、「Max
-Flare」會讀作「Flare」、「Signal Mach」會讀作「Mach」等】
+【「▲▲」代表移速戰車、病毒核心及信號摩托的末字，例如「Shift Speed」會讀作「Speed」、「Max Flare」會讀作「Flare」、「Signal Mach」會讀作「Mach」等】
 
 【「●●」代表輪胎交換用移速戰車全名，例如「Max Flare」、「Funky Spike」等】
 
-【「××」代表Mach驅動炎「Boost Igniter」按鍵四次時的音效，詳情請見「[信號摩托（Signal
-Bike）](https://zh.wikipedia.org/wiki/假面騎士Drive#信號摩托（Signal_Bike） "wikilink")」或「[移速戰車（Shift
-Car）](https://zh.wikipedia.org/wiki/假面騎士Drive#移速戰車（Shift_Car） "wikilink")」】
+【「××」代表Mach驅動炎「Boost Igniter」按鍵四次時的音效，詳情請見「[信號摩托（Signal Bike）](https://zh.wikipedia.org/wiki/假面騎士Drive#信號摩托（Signal_Bike） "wikilink")」或「[移速戰車（Shift Car）](https://zh.wikipedia.org/wiki/假面騎士Drive#移速戰車（Shift_Car） "wikilink")」】
 
-【「■ ■」代表Mach驅動炎所使用移速戰車的個別音效，詳情請見「[移速戰車（Shift
-Car）](https://zh.wikipedia.org/wiki/假面騎士Drive#移速戰車（Shift_Car） "wikilink")」
+【「■ ■」代表Mach驅動炎所使用移速戰車的個別音效，詳情請見「[移速戰車（Shift Car）](https://zh.wikipedia.org/wiki/假面騎士Drive#移速戰車（Shift_Car） "wikilink")」
 
 ### 變身腰帶
 
@@ -1674,14 +1617,8 @@ Car）](https://zh.wikipedia.org/wiki/假面騎士Drive#移速戰車（Shift_Car
     CV / 音效：Chris Peppler
     假面騎士Drive、Protodrive、Dark Drive、Zerodrive及Heart專用變身腰帶。
     具有像人類般的自我意識及說話能力的人工智能，被泊進之介稱呼為「腰帶先生」。能遙距指示賽特朗作無人駕駛和掩護射擊；可轉移意識至變身專用的移速戰車內，以作為自身的分體於戶外行動；如投影機般具有影像投射的功能。本身亦能夠自行強制驅動變身及更換輪胎。
-    正中圓形顯示板「Central
-    Face」，平常狀態會顯示「腰帶先生」的面部表情圖像以增加與人之間交流方式及表達情緒的作用。使用變身程序則會顯示各個不同的圖形，以表示某項程序正在驅動中的狀態。
-    位於腰帶右上角的車鑰匙狀的轉扭開關「Advanced
-    Ignition」，當準備變身、變換形態、使出特殊技或必殺技時每次必需要先扭動後才啟動候命程序。變身時扭動「Advanced
-    Ignition」發出待機的音效後，正式發動變身程序時發出音效為「Drive！type
-    ▲▲！」；當處於變身狀態作輪胎交換時發出音效則是「Tire
-    Koukan！（原文「」，漢字為「交換」）●●！」；發動特殊技或必殺技時發出音效則是「▲▲！」（視乎推前移速手鐲的手柄次數而決定該音效發出的次數，最大為三次）；發動最大必殺技時音效則是「Hissatsu！（原文「」，漢字為「必殺」）Full
-    Throttle！▲▲！」，解除變身後發出音效為「Nice Drive！」。
+    正中圓形顯示板「Central Face」，平常狀態會顯示「腰帶先生」的面部表情圖像以增加與人之間交流方式及表達情緒的作用。使用變身程序則會顯示各個不同的圖形，以表示某項程序正在驅動中的狀態。
+    位於腰帶右上角的車鑰匙狀的轉扭開關「Advanced Ignition」，當準備變身、變換形態、使出特殊技或必殺技時每次必需要先扭動後才啟動候命程序。變身時扭動「Advanced Ignition」發出待機的音效後，正式發動變身程序時發出音效為「Drive！type ▲▲！」；當處於變身狀態作輪胎交換時發出音效則是「Tire Koukan！（原文「」，漢字為「交換」）●●！」；發動特殊技或必殺技時發出音效則是「▲▲！」（視乎推前移速手鐲的手柄次數而決定該音效發出的次數，最大為三次）；發動最大必殺技時音效則是「Hissatsu！（原文「」，漢字為「必殺」）Full Throttle！▲▲！」，解除變身後發出音效為「Nice Drive！」。
 
 <!-- end list -->
 
@@ -1694,23 +1631,11 @@ Car）](https://zh.wikipedia.org/wiki/假面騎士Drive#移速戰車（Shift_Car
     音效：
     假面騎士Mach、假面騎士Chaser及假面骑士超Dead Heat Drive專用變身腰帶。
     具有與「腰帶先生」近似的人工智能輔助大腦系統。
-    變身時先將設於腰帶右方的匣子「Frame Winguard」向上掀開及發出待機音效時，把信號摩托接入插槽「Signal Landing
-    Panel」後會發出「Signal
-    Bike！」的音效，再將之蓋上並發出音效「Rider！OO！」後正式發動變身程序；如插入信號交換專用的信號摩托時，將「Frame
-    Winguard」蓋合後發出音效則是「Signal Koukan！（原文「」，漢字為「交換」）OO！」。
-    位於正中頂部的按鈕「Boost
-    Igniter」用作推進信號摩托或移速戰車本身的力量或屬性，按下四次則會將效能推至最頂峰。當按下一次時會發出音效「▲▲！／■
-    ■！」；按下四次音效會轉變成「××！▲▲！／■ ■！」，開啟必殺技待機程序需先掀起「Frame Winguard」再按下「Boost
-    Igniter」，並發出「「Hissatsu！（原文「」，漢字為「必殺」）」的音效再將匣子蓋上，其後發出「Full
-    Throttle！▲▲！／■ ■！」音效以完成發動必殺技程序。
-    「Signal Landing Panel」接入移速戰車時會發出音效「Shift Car！」，再蓋上後發出音效則是「Tire
-    Koukan！■ ■！」；「Boost Igniter」按鍵四次音效為「××！■ ■！」。
-    唯獨使用「Shift Dead Heat」移速戰車時則會擁有另類追加音效，開始變身時接入插槽「Signal Landing
-    Panel」後會發出音效則是「Signal Bike！Shift
-    Car！！」；使用該移速戰車及維持其形態發動必殺技時發出則是「Burst！Full
-    Throttle！▲▲！／■ ■！」的音效。
-    將裝上的信號摩托拔出並「Frame
-    Winguard」蓋上後以作解除變身，解除變身後發出音效為「Otsukare！（原文「」，意思為「辛苦了！」）」。
+    變身時先將設於腰帶右方的匣子「Frame Winguard」向上掀開及發出待機音效時，把信號摩托接入插槽「Signal Landing Panel」後會發出「Signal Bike！」的音效，再將之蓋上並發出音效「Rider！OO！」後正式發動變身程序；如插入信號交換專用的信號摩托時，將「Frame Winguard」蓋合後發出音效則是「Signal Koukan！（原文「」，漢字為「交換」）OO！」。
+    位於正中頂部的按鈕「Boost Igniter」用作推進信號摩托或移速戰車本身的力量或屬性，按下四次則會將效能推至最頂峰。當按下一次時會發出音效「▲▲！／■ ■！」；按下四次音效會轉變成「××！▲▲！／■ ■！」，開啟必殺技待機程序需先掀起「Frame Winguard」再按下「Boost Igniter」，並發出「「Hissatsu！（原文「」，漢字為「必殺」）」的音效再將匣子蓋上，其後發出「Full Throttle！▲▲！／■ ■！」音效以完成發動必殺技程序。
+    「Signal Landing Panel」接入移速戰車時會發出音效「Shift Car！」，再蓋上後發出音效則是「Tire Koukan！■ ■！」；「Boost Igniter」按鍵四次音效為「××！■ ■！」。
+    唯獨使用「Shift Dead Heat」移速戰車時則會擁有另類追加音效，開始變身時接入插槽「Signal Landing Panel」後會發出音效則是「Signal Bike！Shift Car！！」；使用該移速戰車及維持其形態發動必殺技時發出則是「Burst！Full Throttle！▲▲！／■ ■！」的音效。
+    將裝上的信號摩托拔出並「Frame Winguard」蓋上後以作解除變身，解除變身後發出音效為「Otsukare！（原文「」，意思為「辛苦了！」）」。
 
 <!-- end list -->
 
@@ -1744,9 +1669,7 @@ Car）](https://zh.wikipedia.org/wiki/假面騎士Drive#移速戰車（Shift_Car
   -
     原文： / *Shift Brace*
     與Drive驅動器連動應用的換檔器型附加道具，用作指令Drive驅動器的系統。
-    最初變身程序要先扭動Drive驅動器的開關「Advanced
-    Ignition」，發出待機的音效後把移速戰車的車頭或車尾關節位置轉動後成為手柄形狀，再插進凹槽「Shift
-    Landing Panel」中並將成為手柄用途的移速戰車推上後發動。
+    最初變身程序要先扭動Drive驅動器的開關「Advanced Ignition」，發出待機的音效後把移速戰車的車頭或車尾關節位置轉動後成為手柄形狀，再插進凹槽「Shift Landing Panel」中並將成為手柄用途的移速戰車推上後發動。
     當處於變身狀態時更換並插入特定的移速戰車，再將其推上之後會作輪胎交換以改變戰鬥能力。如再次將手柄推上一至三次後則會發動該形態的特殊技或必殺技；發動最大必殺技時必先要按下靠右的紅色按鈕「Igniter」，其後將手柄推上才能成功啟動。
     將本身裝上的移速戰車拔出並按下按鈕「Igniter」後以作解除變身。
 
@@ -1778,9 +1701,7 @@ Car）](https://zh.wikipedia.org/wiki/假面騎士Drive#移速戰車（Shift_Car
   -
     原文： / *Tridoron*
     假面骑士Drive的交通工具，現實中原形是本田NSX。
-    正式編號為「TRIDORON-3000」，可與Drive驅動器內藏的人工智能「腰帶先生」連接後進行無人駕駛狀態；內部具有插槽裝置「Rear
-    Shift Gate」还能使用移速战车的力量，加装或組合不同屬性的轮胎对其进行强化并发动必杀，啟動程序時會發出「Tire
-    Fueru！（原文「」，即是「」，意譯「增加」）Go！Tridoron！」的音效；能夠因應不同需要而變換共三種的形態。
+    正式編號為「TRIDORON-3000」，可與Drive驅動器內藏的人工智能「腰帶先生」連接後進行無人駕駛狀態；內部具有插槽裝置「Rear Shift Gate」还能使用移速战车的力量，加装或組合不同屬性的轮胎对其进行强化并发动必杀，啟動程序時會發出「Tire Fueru！（原文「」，即是「」，意譯「增加」）Go！Tridoron！」的音效；能夠因應不同需要而變換共三種的形態。
 
 <table>
 <tbody>
@@ -4105,17 +4026,12 @@ Mach驅動炎按下「Boost Igniter」四次時音效則是「Imasugu！（原�
 
 ### 劇場版
 
-  - 《[假面騎士×假面騎士 Drive & 鎧武 MOVIE大戰 Full
-    Throttle](../Page/假面騎士×假面騎士_Drive_&_鎧武_MOVIE大戰_Full_Throttle.md "wikilink")》
+  - 《[假面騎士×假面騎士 Drive & 鎧武 MOVIE大戰 Full Throttle](../Page/假面騎士×假面騎士_Drive_&_鎧武_MOVIE大戰_Full_Throttle.md "wikilink")》
   - 《[超級英雄大戰GP 假面騎士3號](../Page/超級英雄大戰GP_假面騎士3號.md "wikilink")》
-  - 《[劇場版 假面騎士Drive SURPRISE
-    FUTURE](https://zh.wikipedia.org/wiki/劇場版_假面騎士Drive_SURPRISE_FUTURE "wikilink")》
-  - 《[假面騎士×假面騎士 Ghost & Drive 超MOVIE大戰
-    Genesis](../Page/假面騎士×假面騎士_Ghost_&_Drive_超MOVIE大戰_Genesis.md "wikilink")》
-  - 《[假面騎士平成Generations Dr.Pac-Man對EX-AID\&Ghost with
-    傳說騎士](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》
-  - 《[劇場版 幪面超人ZI-O Over
-    Quartzer](https://zh.wikipedia.org/wiki/劇場版_幪面超人ZI-O_Over_Quartzer "wikilink")》
+  - 《[劇場版 假面騎士Drive SURPRISE FUTURE](https://zh.wikipedia.org/wiki/劇場版_假面騎士Drive_SURPRISE_FUTURE "wikilink")》
+  - 《[假面騎士×假面騎士 Ghost & Drive 超MOVIE大戰 Genesis](../Page/假面騎士×假面騎士_Ghost_&_Drive_超MOVIE大戰_Genesis.md "wikilink")》
+  - 《[假面騎士平成Generations Dr.Pac-Man對EX-AID\&Ghost with 傳說騎士](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》
+  - 《[劇場版 幪面超人ZI-O Over Quartzer](https://zh.wikipedia.org/wiki/劇場版_幪面超人ZI-O_Over_Quartzer "wikilink")》
 
 ### 映像商品化
 
@@ -4178,27 +4094,23 @@ Mach驅動炎按下「Boost Igniter」四次時音效則是「Imasugu！（原�
 
 <!-- end list -->
 
-  - **《[幪面超人Drive 秘密任務 type ZERO 第0話 倒計時to Global
-    Freeze](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Drive_&_鎧武_MOVIE大戰_Full_Throttle#外傳 "wikilink")》**
+  - **《[幪面超人Drive 秘密任務 type ZERO 第0話 倒計時to Global Freeze](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Drive_&_鎧武_MOVIE大戰_Full_Throttle#外傳 "wikilink")》**
 
 <!-- end list -->
 
   -
     （原題：）
-    電影《[假面騎士×假面騎士 Drive & 鎧武 MOVIE大戰 Full
-    Throttle](../Page/假面騎士×假面騎士_Drive_&_鎧武_MOVIE大戰_Full_Throttle.md "wikilink")》上映當日限量派發的特典DVD。
+    電影《[假面騎士×假面騎士 Drive & 鎧武 MOVIE大戰 Full Throttle](../Page/假面騎士×假面騎士_Drive_&_鎧武_MOVIE大戰_Full_Throttle.md "wikilink")》上映當日限量派發的特典DVD。
 
 <!-- end list -->
 
-  - **《[d Video特別篇
-    假面騎士4號](https://zh.wikipedia.org/wiki/超級英雄大戰GP_假面騎士3號#其他相關放映 "wikilink")》**
+  - **《[d Video特別篇 假面騎士4號](https://zh.wikipedia.org/wiki/超級英雄大戰GP_假面騎士3號#其他相關放映 "wikilink")》**
 
 <!-- end list -->
 
   -
     （原題：）
-    電影《[超級英雄大戰GP
-    假面騎士3號](../Page/超級英雄大戰GP_假面騎士3號.md "wikilink")》上映當日限量派發的特典DVD及網上配信劇集。
+    電影《[超級英雄大戰GP 假面騎士3號](../Page/超級英雄大戰GP_假面騎士3號.md "wikilink")》上映當日限量派發的特典DVD及網上配信劇集。
 
 <!-- end list -->
 
@@ -4263,13 +4175,11 @@ Mach驅動炎按下「Boost Igniter」四次時音效則是「Imasugu！（原�
 
   -
     （原題：）
-    與電影《[劇場版 假面騎士Drive SURPRISE
-    FUTURE](https://zh.wikipedia.org/wiki/劇場版_假面騎士Drive_SURPRISE_FUTURE "wikilink")》作出聯動，於第38話起在劇集完畢後一連四集的一分鐘短劇。
+    與電影《[劇場版 假面騎士Drive SURPRISE FUTURE](https://zh.wikipedia.org/wiki/劇場版_假面騎士Drive_SURPRISE_FUTURE "wikilink")》作出聯動，於第38話起在劇集完畢後一連四集的一分鐘短劇。
 
 <!-- end list -->
 
-  - **《[Drive SAGA
-    假面騎士Chaser](https://zh.wikipedia.org/wiki/Drive_SAGA#假面騎士Chaser "wikilink")》**
+  - **《[Drive SAGA 假面騎士Chaser](https://zh.wikipedia.org/wiki/Drive_SAGA#假面騎士Chaser "wikilink")》**
 
 <!-- end list -->
 
@@ -4279,8 +4189,7 @@ Mach驅動炎按下「Boost Igniter」四次時音效則是「Imasugu！（原�
 
 <!-- end list -->
 
-  - **《[Drive SAGA 假面騎士Mach /
-    假面騎士Heart](https://zh.wikipedia.org/wiki/Drive_SAGA#假面騎士Mach_/_假面騎士Heart "wikilink")》**
+  - **《[Drive SAGA 假面騎士Mach / 假面騎士Heart](https://zh.wikipedia.org/wiki/Drive_SAGA#假面騎士Mach_/_假面騎士Heart "wikilink")》**
 
 <!-- end list -->
 
@@ -4318,16 +4227,13 @@ Mach驅動炎按下「Boost Igniter」四次時音效則是「Imasugu！（原�
 
 ### 電視遊戲
 
-  - 《假面騎士Summonride！》（2014年12月4日發行、[PlayStation
-    3](../Page/PlayStation_3.md "wikilink") / [Wii
-    U](../Page/Wii_U.md "wikilink")）
+  - 《假面騎士Summonride！》（2014年12月4日發行、[PlayStation 3](../Page/PlayStation_3.md "wikilink") / [Wii U](../Page/Wii_U.md "wikilink")）
 
 ### 《手里剑战队忍忍者VS假面騎士Drive 春假合體1小時特別篇》
 
   -
     （原題：）
-    继《[烈車戰隊特急者VS假面騎士鎧武
-    春假合體特別篇](https://zh.wikipedia.org/wiki/平成騎士對昭和騎士_假面騎士大戰feat.超級戰隊#電視特別篇 "wikilink")》后假面騎士及超級戰隊第二次跨界合作，於電視版本故事聯動的一小時特別篇。
+    继《[烈車戰隊特急者VS假面騎士鎧武 春假合體特別篇](https://zh.wikipedia.org/wiki/平成騎士對昭和騎士_假面騎士大戰feat.超級戰隊#電視特別篇 "wikilink")》后假面騎士及超級戰隊第二次跨界合作，於電視版本故事聯動的一小時特別篇。
     将於2015年3月29日播放。
 
 ## 曲目
@@ -4356,8 +4262,7 @@ Mach驅動炎按下「Boost Igniter」四次時音效則是「Imasugu！（原�
 
 「**UNLIMITED DRIVE**」
 
-  - 演唱：[KAMEN RIDER
-    GIRLS](https://zh.wikipedia.org/wiki/KAMEN_RIDER_GIRLS "wikilink")
+  - 演唱：[KAMEN RIDER GIRLS](https://zh.wikipedia.org/wiki/KAMEN_RIDER_GIRLS "wikilink")
   - 作詞：藤林聖子
   - 作曲：DJHurryKenn
   - 編曲：
@@ -4372,10 +4277,8 @@ Mach驅動炎按下「Boost Igniter」四次時音效則是「Imasugu！（原�
 
   - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")
   - 監製 -
-  - 製作人 -
-    （[朝日電視台](../Page/朝日電視台.md "wikilink")）、、望月卓（[東映](../Page/東映.md "wikilink")）
-  - 劇本 -
-    [三條陸](../Page/三條陸.md "wikilink")、、[香村純子](../Page/香村純子.md "wikilink")、[毛利亘宏](../Page/毛利亘宏.md "wikilink")
+  - 製作人 - （[朝日電視台](../Page/朝日電視台.md "wikilink")）、、望月卓（[東映](../Page/東映.md "wikilink")）
+  - 劇本 - [三條陸](../Page/三條陸.md "wikilink")、、[香村純子](../Page/香村純子.md "wikilink")、[毛利亘宏](../Page/毛利亘宏.md "wikilink")
   - 導演 - 、、、、、、、
   - 配樂 - 、[中川幸太郎](../Page/中川幸太郎.md "wikilink")
   - 音樂製作 -
@@ -4407,8 +4310,7 @@ Mach驅動炎按下「Boost Igniter」四次時音效則是「Imasugu！（原�
   - 分鏡 - なかの★陽
   - 特攝導演 -
   - 動作指導 - 、（[JAE](https://zh.wikipedia.org/wiki/JAE "wikilink")）
-  - 製作單位 -
-    [東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")
+  - 製作單位 - [東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")
 
 ## 超級英雄時間相關條目
 
@@ -4424,40 +4326,23 @@ Mach驅動炎按下「Boost Igniter」四次時音效則是「Imasugu！（原�
   - [《假面騎士Drive》東映官網](http://www.toei.co.jp/tv/Drive/)
 
   -
-[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink")
-[Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink")
-[Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink")
-[Category:汽车电视节目](https://zh.wikipedia.org/wiki/Category:汽车电视节目 "wikilink")
-[Category:人工智能題材作品](https://zh.wikipedia.org/wiki/Category:人工智能題材作品 "wikilink")
+[Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink") [Category:2014年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年開播的日本電視劇集 "wikilink") [Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink") [Category:汽车电视节目](https://zh.wikipedia.org/wiki/Category:汽车电视节目 "wikilink") [Category:人工智能題材作品](https://zh.wikipedia.org/wiki/Category:人工智能題材作品 "wikilink")
 
 1.  <https://www.facebook.com/luckycomics/posts/1566158083453573>
 
 2.  由《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》開始採用每兩話一篇單元式的劇情。
 
-3.  過去劇場版都有假面騎士變身者兼任主唱其劇場版主題曲,如吉川晃司於[假面騎士×假面騎士 OOO & W feat. Skull
-    Movie大戰
-    Core飾演鳴海莊吉](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_OOO_&_W_feat._Skull_Movie大戰_Core "wikilink")/假面騎士Skull,並於其劇場版與[大黑摩季](../Page/大黑摩季.md "wikilink")合唱主題曲《HEART∞BREAKER》,後來[及川光博](../Page/及川光博.md "wikilink")於[超級英雄大戰GP
-    假面騎士3號演黑井響一郎](../Page/超級英雄大戰GP_假面騎士3號.md "wikilink")/假面騎士3號,;並於其劇場版主唱主題曲《Who's
-    That Guy》。
+3.  過去劇場版都有假面騎士變身者兼任主唱其劇場版主題曲,如吉川晃司於[假面騎士×假面騎士 OOO & W feat. Skull Movie大戰 Core飾演鳴海莊吉](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_OOO_&_W_feat._Skull_Movie大戰_Core "wikilink")/假面騎士Skull,並於其劇場版與[大黑摩季](../Page/大黑摩季.md "wikilink")合唱主題曲《HEART∞BREAKER》,後來[及川光博](../Page/及川光博.md "wikilink")於[超級英雄大戰GP 假面騎士3號演黑井響一郎](../Page/超級英雄大戰GP_假面騎士3號.md "wikilink")/假面騎士3號,;並於其劇場版主唱主題曲《Who's That Guy》。
 
 4.  首位是先後演唱[假面騎士響鬼片尾曲](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")(第1-33話)和第二期片頭曲(第34-47話)的歌手布施明,他曾經先於響鬼的第32-33話客串飾演小暮耕之助。在劇中把裝甲聲刃交給響鬼,以協助響鬼進化成裝甲響鬼。其後次回演唱響鬼第二期主題曲
 
-5.  [假面騎士電王第二期主題曲由變身電王各種形態的四位異魔神的聲優主唱](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink"),雖然至今首個及唯一由劇中聲優演唱假面騎士電視版片頭曲,但因為劇中不是以真人演員演出而不計;特別版如OOO
-    《Anything Goes Special
-    Edit》,其主唱由演火野映司/假面騎士OOO的[渡部秀](../Page/渡部秀.md "wikilink")和[大黑摩季](../Page/大黑摩季.md "wikilink")合唱,但只於劇場版《假面騎士×假面騎士
-    Fourze & OOO Movie大戰 Mega Max》作插曲而不計。
+5.  [假面騎士電王第二期主題曲由變身電王各種形態的四位異魔神的聲優主唱](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink"),雖然至今首個及唯一由劇中聲優演唱假面騎士電視版片頭曲,但因為劇中不是以真人演員演出而不計;特別版如OOO 《Anything Goes Special Edit》,其主唱由演火野映司/假面騎士OOO的[渡部秀](../Page/渡部秀.md "wikilink")和[大黑摩季](../Page/大黑摩季.md "wikilink")合唱,但只於劇場版《假面騎士×假面騎士 Fourze & OOO Movie大戰 Mega Max》作插曲而不計。
 
-6.  過去亦有[假面騎士系列](../Page/假面騎士系列.md "wikilink")電視版片頭曲歌手客串[假面騎士系列](../Page/假面騎士系列.md "wikilink")角色,並非常規角色。如Decade的Gackt----結城
-    丈二(Decade夏季劇場版);W的上木彩矢&淺沼拓也---歌唱比賽裁判 (TV版23-24話);
-    Ghost的氣志團成員--英雄團(Ghost夏季劇場版)
+6.  過去亦有[假面騎士系列](../Page/假面騎士系列.md "wikilink")電視版片頭曲歌手客串[假面騎士系列](../Page/假面騎士系列.md "wikilink")角色,並非常規角色。如Decade的Gackt----結城 丈二(Decade夏季劇場版);W的上木彩矢&淺沼拓也---歌唱比賽裁判 (TV版23-24話); Ghost的氣志團成員--英雄團(Ghost夏季劇場版)
 
-7.  於電影《[假面騎士×假面騎士 Drive & 鎧武 MOVIE大戰 Full
-    Throttle](../Page/假面騎士×假面騎士_Drive_&_鎧武_MOVIE大戰_Full_Throttle.md "wikilink")》中出現風都的特式建築物「風都塔」；及於外傳《[Drive
-    SAGA
-    假面騎士Chaser](https://zh.wikipedia.org/wiki/Drive_SAGA_假面騎士Chaser "wikilink")》中與假面騎士Accel作互動演出。
+7.  於電影《[假面騎士×假面騎士 Drive & 鎧武 MOVIE大戰 Full Throttle](../Page/假面騎士×假面騎士_Drive_&_鎧武_MOVIE大戰_Full_Throttle.md "wikilink")》中出現風都的特式建築物「風都塔」；及於外傳《[Drive SAGA 假面騎士Chaser](https://zh.wikipedia.org/wiki/Drive_SAGA_假面騎士Chaser "wikilink")》中與假面騎士Accel作互動演出。
 
-8.  雖然《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》中沒有《假面騎士Drive》相關角色出場，但是可以從前後作中的世界觀推斷出此結論。
+8.  雖然《[假面騎士平成Generations FINAL Build & EX-AID with 傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》中沒有《假面騎士Drive》相關角色出場，但是可以從前後作中的世界觀推斷出此結論。
 
 9.  簡單說是有新敵方怪人及組織在最終話之後。
 
@@ -4480,8 +4365,7 @@ Mach驅動炎按下「Boost Igniter」四次時音效則是「Imasugu！（原�
 22.
 23. 名字源自手機遊戲《Kamen Rider Rider Bout》
 
-24. 未出現進化前型態，不過根據[官網](http://www.toei.co.jp/tv/Drive/)的Roidmude
-    List顯示：相同原型的惡路程式會使用相同的底色（背景色）判定之
+24. 未出現進化前型態，不過根據[官網](http://www.toei.co.jp/tv/Drive/)的Roidmude List顯示：相同原型的惡路程式會使用相同的底色（背景色）判定之
 
 25.
 26.
@@ -4498,5 +4382,4 @@ Mach驅動炎按下「Boost Igniter」四次時音效則是「Imasugu！（原�
 
 33. 6月21日停播一次
 
-34. 松岡充解釋原樂隊SOPHIA成員因各自理由未能一同參與，於是為了本作品而另外集合樂隊班底後，以Mitsuru Matsuoka
-    EARNEST DRIVE名義演唱主題曲
+34. 松岡充解釋原樂隊SOPHIA成員因各自理由未能一同參與，於是為了本作品而另外集合樂隊班底後，以Mitsuru Matsuoka EARNEST DRIVE名義演唱主題曲

@@ -1,5 +1,4 @@
-**Rihwa**（本名：**朴梨華**，\[1\]）是一位出生於[日本](../Page/日本.md "wikilink")的[韓國籍](https://zh.wikipedia.org/wiki/韓國 "wikilink")[日語女性歌手](https://zh.wikipedia.org/wiki/日語 "wikilink")。所屬經紀公司為[Amuse](../Page/Amuse.md "wikilink")，唱片公司則是[TOY'S
-FACTORY](../Page/TOY'S_FACTORY.md "wikilink")。
+**Rihwa**（本名：**朴梨華**，\[1\]）是一位出生於[日本](../Page/日本.md "wikilink")的[韓國籍](https://zh.wikipedia.org/wiki/韓國 "wikilink")[日語女性歌手](https://zh.wikipedia.org/wiki/日語 "wikilink")。所屬經紀公司為[Amuse](../Page/Amuse.md "wikilink")，唱片公司則是[TOY'S FACTORY](../Page/TOY'S_FACTORY.md "wikilink")。
 
 ## 來歷
 
@@ -100,9 +99,7 @@ FACTORY](../Page/TOY'S_FACTORY.md "wikilink")。
 
 ### 廣播節目
 
-  - [Rihwa Private
-    \#Notes](https://zh.wikipedia.org/wiki/Rihwa_Private_#Notes "wikilink")（、2012年6月2日\[6\]
-    -）
+  - [Rihwa Private \#Notes](https://zh.wikipedia.org/wiki/Rihwa_Private_#Notes "wikilink")（、2012年6月2日\[6\] -）
 
 ## 參考資料
 
@@ -117,18 +114,11 @@ FACTORY](../Page/TOY'S_FACTORY.md "wikilink")。
   -
   - [Amuse介紹](http://artist.amuse.co.jp/artist/rihwa/)
 
-  - [TOY'S
-    FACTORY介紹](https://web.archive.org/web/20120827000852/http://www.toysfactory.co.jp/rihwa/index.html)
-
+  - [TOY'S FACTORY介紹](https://web.archive.org/web/20120827000852/http://www.toysfactory.co.jp/rihwa/index.html)
 
   - [国立公園りふぁぱーく](http://cstory.jp/blog/rihwa/) - 「Cinderella Story」內的博客
 
-[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
-[Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")
-[Category:在日本的韓國人](https://zh.wikipedia.org/wiki/Category:在日本的韓國人 "wikilink")
-[Category:Amuse所屬藝人](https://zh.wikipedia.org/wiki/Category:Amuse所屬藝人 "wikilink")
-[Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink")
-[Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink")
+[Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink") [Category:在日本的韓國人](https://zh.wikipedia.org/wiki/Category:在日本的韓國人 "wikilink") [Category:Amuse所屬藝人](https://zh.wikipedia.org/wiki/Category:Amuse所屬藝人 "wikilink") [Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink") [Category:北海道出身人物](https://zh.wikipedia.org/wiki/Category:北海道出身人物 "wikilink")
 
 1.
 2.

@@ -1,10 +1,8 @@
-Acer TravelMate 8481
-是由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電腦製造商](https://zh.wikipedia.org/wiki/電腦 "wikilink")[宏碁](../Page/宏碁.md "wikilink")開發及生產，採用[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系統的](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[筆記本電腦](https://zh.wikipedia.org/wiki/筆記本電腦 "wikilink")。
+Acer TravelMate 8481 是由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電腦製造商](https://zh.wikipedia.org/wiki/電腦 "wikilink")[宏碁](../Page/宏碁.md "wikilink")開發及生產，採用[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")[操作系統的](https://zh.wikipedia.org/wiki/操作系統 "wikilink")[筆記本電腦](https://zh.wikipedia.org/wiki/筆記本電腦 "wikilink")。
 
 ## 系列產品
 
-Acer TravelMate 8481系列產品有Acer TravelMate 8481，Acer TravelMate 8481T，Acer
-TravelMate 8481TG，它們之間的差別為獨立顯卡和超長電池使用時間。
+Acer TravelMate 8481系列產品有Acer TravelMate 8481，Acer TravelMate 8481T，Acer TravelMate 8481TG，它們之間的差別為獨立顯卡和超長電池使用時間。
 
   - Acer TravelMate 8481
   - Acer TravelMate 8481T
@@ -31,13 +29,9 @@ TravelMate 8481TG，它們之間的差別為獨立顯卡和超長電池使用時
 ## 外部連結
 
   - [官方網站](https://web.archive.org/web/20140307105856/http://www.acer.com.cn/ac/zh/CN/content/professional-model/LX.V4W03.054)
-  - [极致商务
-    宏碁TravelMate 8481TG评测](http://tech.sina.com.cn/n/2011-12-29/15461986110.shtml)
-  - [碳纤维轻薄机身
-    宏碁8481TG商务本评测](http://www.pcpop.com/doc/0/730/730508_1.shtml)
-  - [最强笔记本“伤”得起 宏碁大客户Acer
-    TravelMate8481](http://v.youku.com/v_show/id_XMzAwNTk3ODky.html)
-  - [Acer TravelMate 8481 Crash Test
-    Survivor汽車碾壓8481機器試驗](http://v.youku.com/v_show/id_XNDE5MzU0NTQw.html)
+  - [极致商务 宏碁TravelMate 8481TG评测](http://tech.sina.com.cn/n/2011-12-29/15461986110.shtml)
+  - [碳纤维轻薄机身 宏碁8481TG商务本评测](http://www.pcpop.com/doc/0/730/730508_1.shtml)
+  - [最强笔记本“伤”得起 宏碁大客户Acer TravelMate8481](http://v.youku.com/v_show/id_XMzAwNTk3ODky.html)
+  - [Acer TravelMate 8481 Crash Test Survivor汽車碾壓8481機器試驗](http://v.youku.com/v_show/id_XNDE5MzU0NTQw.html)
 
 [Category:宏碁產品](https://zh.wikipedia.org/wiki/Category:宏碁產品 "wikilink")

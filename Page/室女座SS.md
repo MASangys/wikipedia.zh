@@ -11,9 +11,7 @@
 <!-- end list -->
 
   -
-[Category:室女座](https://zh.wikipedia.org/wiki/Category:室女座 "wikilink")
-[Category:米拉變星](https://zh.wikipedia.org/wiki/Category:米拉變星 "wikilink")
-[Category:C型恆星](https://zh.wikipedia.org/wiki/Category:C型恆星 "wikilink")
+[Category:室女座](https://zh.wikipedia.org/wiki/Category:室女座 "wikilink") [Category:米拉變星](https://zh.wikipedia.org/wiki/Category:米拉變星 "wikilink") [Category:C型恆星](https://zh.wikipedia.org/wiki/Category:C型恆星 "wikilink")
 
 1.
 

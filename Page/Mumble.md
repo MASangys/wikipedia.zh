@@ -12,11 +12,7 @@
 
 ## 遊戲視窗
 
-它在遊戲畫面裡可以顯示小型的通話視窗，而且它可以顯示在頻道上的所有使用者與通話狀態\[5\]。自從它的版本1.0之後，使用者可以上傳[头像](../Page/头像.md "wikilink")，而且可以顯示在遊戲通話視窗，提供更多的個人化設定。自從它的版本1.2之後，在[Microsoft
-Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[OS
-X與](https://zh.wikipedia.org/wiki/OS_X "wikilink")[Linux](../Page/Linux.md "wikilink")上，遊戲通話視窗可以支援更多的[Direct3D
-9/10與](../Page/Direct3D.md "wikilink")[OpenGL](../Page/OpenGL.md "wikilink")的遊戲\[6\]。[DirectX
-11的遊戲支援正處在設計階段](../Page/DirectX.md "wikilink")\[7\] 。
+它在遊戲畫面裡可以顯示小型的通話視窗，而且它可以顯示在頻道上的所有使用者與通話狀態\[5\]。自從它的版本1.0之後，使用者可以上傳[头像](../Page/头像.md "wikilink")，而且可以顯示在遊戲通話視窗，提供更多的個人化設定。自從它的版本1.2之後，在[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[OS X與](https://zh.wikipedia.org/wiki/OS_X "wikilink")[Linux](../Page/Linux.md "wikilink")上，遊戲通話視窗可以支援更多的[Direct3D 9/10與](../Page/Direct3D.md "wikilink")[OpenGL](../Page/OpenGL.md "wikilink")的遊戲\[6\]。[DirectX 11的遊戲支援正處在設計階段](../Page/DirectX.md "wikilink")\[7\] 。
 
 ## 智能手机
 

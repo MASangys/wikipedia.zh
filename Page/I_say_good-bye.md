@@ -1,6 +1,4 @@
-『**I Say
-Good-bye**』是[日本](../Page/日本.md "wikilink")唱作男[歌手](../Page/歌手.md "wikilink")
-[中川晃教](../Page/中川晃教.md "wikilink")，於2001年11月7日所推出的單曲碟。
+『**I Say Good-bye**』是[日本](../Page/日本.md "wikilink")唱作男[歌手](../Page/歌手.md "wikilink") [中川晃教](../Page/中川晃教.md "wikilink")，於2001年11月7日所推出的單曲碟。
 
 ## 概要
 
@@ -12,8 +10,7 @@ Good-bye**』是[日本](../Page/日本.md "wikilink")唱作男[歌手](../Page/
 
 ## 外部連結
 
-  - [Official
-    Discography](https://web.archive.org/web/20100305055850/http://akinori.info/html/_works/_works.html)
+  - [Official Discography](https://web.archive.org/web/20100305055850/http://akinori.info/html/_works/_works.html)
 
 [Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink")
 

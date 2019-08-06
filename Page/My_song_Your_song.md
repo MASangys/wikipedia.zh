@@ -1,10 +1,8 @@
-《**My song Your
-song**》（），[日本](../Page/日本.md "wikilink")音樂團體[生物股長的第](https://zh.wikipedia.org/wiki/生物股長 "wikilink")3張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2008年12月24日發行。
+《**My song Your song**》（），[日本](../Page/日本.md "wikilink")音樂團體[生物股長的第](https://zh.wikipedia.org/wiki/生物股長 "wikilink")3張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。2008年12月24日發行。
 
 ## 簡介
 
-前作《[LIFE
-ALBUM](../Page/LIFE_ALBUM.md "wikilink")》約隔十個月之後發行。初回限定盤附有「24P特別小冊」、「生物卡片010」、「生物應募明信片」。
+前作《[LIFE ALBUM](../Page/LIFE_ALBUM.md "wikilink")》約隔十個月之後發行。初回限定盤附有「24P特別小冊」、「生物卡片010」、「生物應募明信片」。
 
 共收錄了《[想回去了啊](../Page/想回去了啊.md "wikilink")》、《[青鳥](../Page/青鳥_\(生物股長單曲\).md "wikilink")》、《[Planetarium](https://zh.wikipedia.org/wiki/Planetarium "wikilink")》、《[搖擺不定的羅曼蒂克](../Page/搖擺不定的羅曼蒂克.md "wikilink")》四首[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。主唱[吉岡聖惠](../Page/吉岡聖惠.md "wikilink")首次嘗試作詞與作曲的作品也收錄其中。
 
@@ -68,20 +66,12 @@ ALBUM](../Page/LIFE_ALBUM.md "wikilink")》約隔十個月之後發行。初回�
     <!-- end list -->
       -
         第87回[全國高等學校足球選手權大會主題曲](https://zh.wikipedia.org/wiki/全國高等學校足球選手權大會 "wikilink")。
-14. '''[想回去了啊](../Page/想回去了啊.md "wikilink") -acoustic version-
-    '''（）（4:14）
+14. '''[想回去了啊](../Page/想回去了啊.md "wikilink") -acoustic version- '''（）（4:14）
       - 作詞・作曲:水野良樹 / 編曲:
 
 ## 外部連結
 
-  - [My song Your
-    song](http://www.sonymusic.co.jp/Music/Arch/ES/Ikimonogakari/?ESCL-3146)
-    - Sony Music
+  - [My song Your song](http://www.sonymusic.co.jp/Music/Arch/ES/Ikimonogakari/?ESCL-3146) - Sony Music
   - [唱片介紹](https://web.archive.org/web/20100902115050/http://www.ikimonogakari.com/discography_ESCL-3146.html)
 
-
-[Category:生物股長音樂專輯](https://zh.wikipedia.org/wiki/Category:生物股長音樂專輯 "wikilink")
-[Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
-[Category:2009年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:2009年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
+[Category:生物股長音樂專輯](https://zh.wikipedia.org/wiki/Category:生物股長音樂專輯 "wikilink") [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink") [Category:2009年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯月榜冠軍作品 "wikilink") [Category:2009年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2009年Oricon專輯週榜冠軍作品 "wikilink") [Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")

@@ -2,10 +2,7 @@ require('Module:No globals')
 
 local p = {}
 
-\--[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
---[Category
-functions](https://zh.wikipedia.org/wiki/Category_functions "wikilink")
---[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
+\--[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink") --[Category functions](https://zh.wikipedia.org/wiki/Category_functions "wikilink") --[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
 
 function p.getCatForId( id )
 
@@ -23,8 +20,7 @@ function p.getCatForId( id )
 
 end
 
-function p.redCatLink( catName ) --catName == 'Blah', not
-'Category:Blah', not ''
+function p.redCatLink( catName ) --catName == 'Blah', not 'Category:Blah', not ''
 
 `   if catName and catName ~= '' and mw.title.new(catName, 14).exists == false then`
 `       return ''`
@@ -33,10 +29,7 @@ function p.redCatLink( catName ) --catName == 'Blah', not
 
 end
 
-\--[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
---[Property formatting
-functions](https://zh.wikipedia.org/wiki/Property_formatting_functions "wikilink")
---[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
+\--[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink") --[Property formatting functions](https://zh.wikipedia.org/wiki/Property_formatting_functions "wikilink") --[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
 
 function p.iaafLink( id )
 
@@ -302,9 +295,7 @@ function p.mbaLink( id )
 
 end
 
-\--Returns the ISNI check digit isni must be a string where the 15 first
-elements are digits, e.g. 0000000066534145 function p.getIsniCheckDigit(
-isni )
+\--Returns the ISNI check digit isni must be a string where the 15 first elements are digits, e.g. 0000000066534145 function p.getIsniCheckDigit( isni )
 
 `   local total = 0`
 `   for i = 1, 15 do`
@@ -320,10 +311,7 @@ isni )
 
 end
 
-\--Validate ISNI (and ORCID) and retuns it as a 16 characters string or
-returns false if it's invalid --See
-<http://support.orcid.org/knowledgebase/articles/116780-structure-of-the-orcid-identifier>
-function p.validateIsni( id )
+\--Validate ISNI (and ORCID) and retuns it as a 16 characters string or returns false if it's invalid --See <http://support.orcid.org/knowledgebase/articles/116780-structure-of-the-orcid-identifier> function p.validateIsni( id )
 
 `   --P213 (ISNI) format regex: [0-9]{4} [0-9]{4} [0-9]{4} [0-9]{3}[0-9X] (e.g. 0000-0000-6653-4145)`
 `   --P496 (ORCID) format regex: 0000-000(1-[5-9]|2-[0-9]|3-[0-4])\d{3}-\d{3}[\dX] (e.g. 0000-0002-7398-5483)`
@@ -420,9 +408,7 @@ end
 function p.bibsysLink( id )
 
 `   --P1015's format regex: [1-9]\d* or [1-9](\d{0,8}|\d{12}) (e.g. 1234567890123)`
-`   --TODO: follow up @ `[`d:Property``   ``talk:P1015#Discrepancy``
- ``between``   ``the``   ``2``   ``regex``
- ``constraints`](https://zh.wikipedia.org/wiki/d:Property_talk:P1015#Discrepancy_between_the_2_regex_constraints "wikilink")` or escalate/investigate`
+`   --TODO: follow up @ `[`d:Property``   ``talk:P1015#Discrepancy``   ``between``   ``the``   ``2``   ``regex``   ``constraints`](https://zh.wikipedia.org/wiki/d:Property_talk:P1015#Discrepancy_between_the_2_regex_constraints "wikilink")` or escalate/investigate`
 `   if not string.match( id, '^[1-9]%d?%d?%d?%d?%d?%d?%d?%d?$' ) and`
 `      not string.match( id, '^[1-9]%d%d%d%d%d%d%d%d%d%d%d%d$' ) then`
 `       return false`
@@ -669,10 +655,7 @@ function p.atclLink( id )
 
 end
 
-\--[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
---[Wikidata, navigation bar, and documentation
-functions](https://zh.wikipedia.org/wiki/Wikidata,_navigation_bar,_and_documentation_functions "wikilink")
---[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
+\--[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink") --[Wikidata, navigation bar, and documentation functions](https://zh.wikipedia.org/wiki/Wikidata,_navigation_bar,_and_documentation_functions "wikilink") --[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
 
 function p.getIdsFromWikidata( itemId, property )
 
@@ -723,9 +706,7 @@ function p.createRow( id, label, rawValue, link, withUid )
 
 end
 
-\-- Creates a human-readable standalone wikitable version of p.conf, and
-tracking categories with page counts, for use in the documentation
-function p.docConfTable( frame )
+\-- Creates a human-readable standalone wikitable version of p.conf, and tracking categories with page counts, for use in the documentation function p.docConfTable( frame )
 
 `   local wikiTable = '{| class="wikitable sortable"\n' ..`
 `                     '! rowspan=2 | 参数\n' ..`
@@ -760,30 +741,22 @@ function p.docConfTable( frame )
 `                   '||'..link..`
 `                   '||data-sort-value='..pid..'|'..wpl..`
 `                   '||style="text-align: right;"|`[`'..articleCount..'`](https://zh.wikipedia.org/wiki/Category:'..articleCat..' "wikilink")`'..`
-`                   '||style="text-align: right;"|`[`'..``
- ``userCount..'`](https://zh.wikipedia.org/wiki/Category:'.._userCat..' "wikilink")`'..`
-`                   '||style="text-align: right;"|`[`'..``
- ``miscCount..'`](https://zh.wikipedia.org/wiki/Category:'.._miscCat..' "wikilink")`'..`
-`                   '||style="text-align: right;"|`[`'..``
- ``faultyCount..'`](https://zh.wikipedia.org/wiki/Category:'.._faultyCat..' "wikilink")`'`
+`                   '||style="text-align: right;"|`[`'..``   ``userCount..'`](https://zh.wikipedia.org/wiki/Category:'.._userCat..' "wikilink")`'..`
+`                   '||style="text-align: right;"|`[`'..``   ``miscCount..'`](https://zh.wikipedia.org/wiki/Category:'.._miscCat..' "wikilink")`'..`
+`                   '||style="text-align: right;"|`[`'..``   ``faultyCount..'`](https://zh.wikipedia.org/wiki/Category:'.._faultyCat..' "wikilink")`'`
 `   end`
 `   return wikiTable .. '\n|}'`
 
 end
 
-\--[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
---[Main](https://zh.wikipedia.org/wiki/Main "wikilink")
---[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
+\--[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink") --[Main](https://zh.wikipedia.org/wiki/Main "wikilink") --[==========================================================================](https://zh.wikipedia.org/wiki/========================================================================== "wikilink")
 
-\-- Check that the Wikidata item has this property--\>value before
-adding it local reqs = {}
+\-- Check that the Wikidata item has this property--\>value before adding it local reqs = {}
 
-\-- Parameter format: { name of the parameter, label, propertyId in
-Wikidata, formatting function } p.conf = {
+\-- Parameter format: { name of the parameter, label, propertyId in Wikidata, formatting function } p.conf = {
 
 `   { 'AAT', '`[`AAT`](../Page/藝術與建築索引典.md "wikilink")`', 1014, p.aatLink }, `
-`   { 'ACM-DL', '`[`ACM``
- ``DL`](https://zh.wikipedia.org/wiki/计算机协会数字图书馆 "wikilink")`', 864, p.acmLink },`
+`   { 'ACM-DL', '`[`ACM``   ``DL`](https://zh.wikipedia.org/wiki/计算机协会数字图书馆 "wikilink")`', 864, p.acmLink },`
 `   { 'AtCL', '`[`AtCL`](https://zh.wikipedia.org/wiki/d:Q18228305 "wikilink")`', 1564, p.atclLink },   `
 `   { 'autores.uy', '`[`autores.uy`](https://zh.wikipedia.org/wiki/autores.uy "wikilink")`', 2558, p.autoresuyLink },`
 `   { 'BALaT', '`[`BALaT`](https://zh.wikipedia.org/wiki/BALaT "wikilink")`', 3293, p.balatLink },`
@@ -812,8 +785,7 @@ Wikidata, formatting function } p.conf = {
 `   { 'LCCN', '`[`LCCN`](../Page/美国国会图书馆控制号.md "wikilink")`', 244, p.lccnLink },`
 `   { 'LIR', '`[`LIR`](https://zh.wikipedia.org/wiki/Lexicon_Istoric_Retic "wikilink")`', 886, p.lirLink },`
 `   { 'LNB', '`[`LNB`](https://zh.wikipedia.org/wiki/拉托维亚国家图书馆 "wikilink")`', 1368, p.lnbLink },`
-`   { 'Léonore', '`[`Base``
- ``Léonore`](https://zh.wikipedia.org/wiki/Base_Léonore "wikilink")`', 640, p.leonoreLink }, `
+`   { 'Léonore', '`[`Base``   ``Léonore`](https://zh.wikipedia.org/wiki/Base_Léonore "wikilink")`', 640, p.leonoreLink }, `
 `   { 'MBA', '`[`MusicBrainz`](../Page/MusicBrainz.md "wikilink")`', 434, p.mbaLink }, `
 `   { 'MGP', '`[`MGP`](../Page/數學譜系計畫.md "wikilink")`', 549, p.mgpLink },`
 `   { 'NARA', '`[`NARA`](../Page/国家档案和记录管理局.md "wikilink")`', 1225, p.naraLink },`
@@ -830,8 +802,7 @@ Wikidata, formatting function } p.conf = {
 `   { 'PIC', '`[`PIC`](https://zh.wikipedia.org/wiki/:d:Q23892012 "wikilink")`', 2750, p.picLink },`
 `   { 'RID', '`[`ResearcherID`](../Page/ResearcherID.md "wikilink")`', 1053, p.ridLink },`
 `   { 'RKDartists', '`[`RKD`](https://zh.wikipedia.org/wiki/荷兰艺术历史学院 "wikilink")`', 650, p.rkdartistsLink },`
-`   { 'RKDID', '`[`RKDimages``
- ``ID`](https://zh.wikipedia.org/wiki/:d:Q17299580 "wikilink")`', 350, p.rkdidLink },`
+`   { 'RKDID', '`[`RKDimages``   ``ID`](https://zh.wikipedia.org/wiki/:d:Q17299580 "wikilink")`', 350, p.rkdidLink },`
 `   { 'RSL', '`[`RSL`](https://zh.wikipedia.org/wiki/俄罗斯国立图书馆 "wikilink")`', 947, p.rslLink },`
 `   { 'SBN', '`[`ICCU`](https://zh.wikipedia.org/wiki/意大利图书馆联合目录中央研究所 "wikilink")`', 396, p.sbnLink },     `
 `   { 'Scopus', '`[`Scopus`](https://zh.wikipedia.org/wiki/Scopus "wikilink")`', 1153, p.scopusLink },      `
@@ -846,8 +817,7 @@ Wikidata, formatting function } p.conf = {
 
 }
 
-\-- Legitimate aliases to p.conf, for convenience -- Format: { alias,
-parameter name in p.conf } p.aliases = {
+\-- Legitimate aliases to p.conf, for convenience -- Format: { alias, parameter name in p.conf } p.aliases = {
 
 `   { 'RLS', 'RSL' },`
 `   { 'MusicBrainz', 'MBA' },`
@@ -855,9 +825,7 @@ parameter name in p.conf } p.aliases = {
 
 }
 
-\-- Deprecated aliases to p.conf, which also get assigned to a tracking
-cat -- Format: { deprecated parameter name, replacement parameter name
-in p.conf } p.deprecated = {
+\-- Deprecated aliases to p.conf, which also get assigned to a tracking cat -- Format: { deprecated parameter name, replacement parameter name in p.conf } p.deprecated = {
 
 `   { 'GKD', 'GND' },`
 `   { 'PND', 'GND' },`
@@ -987,9 +955,4 @@ end
 
 return p
 
-[Category:'_.._catName_.._'](https://zh.wikipedia.org/wiki/Category:'_.._catName_.._' "wikilink")
-[Category:Blah](https://zh.wikipedia.org/wiki/Category:Blah "wikilink")
-[Category:规范控制分类为红链的页面](https://zh.wikipedia.org/wiki/Category:规范控制分类为红链的页面 "wikilink")
-[Category:'_.._catName_.._'](https://zh.wikipedia.org/wiki/Category:'_.._catName_.._' "wikilink")
-[Category:包含已弃用规范控制信息的维基百科条目](https://zh.wikipedia.org/wiki/Category:包含已弃用规范控制信息的维基百科条目 "wikilink")
-[Category:'_.._catName_.._'](https://zh.wikipedia.org/wiki/Category:'_.._catName_.._' "wikilink")
+[Category:'_.._catName_.._'](https://zh.wikipedia.org/wiki/Category:'_.._catName_.._' "wikilink") [Category:Blah](https://zh.wikipedia.org/wiki/Category:Blah "wikilink") [Category:规范控制分类为红链的页面](https://zh.wikipedia.org/wiki/Category:规范控制分类为红链的页面 "wikilink") [Category:'_.._catName_.._'](https://zh.wikipedia.org/wiki/Category:'_.._catName_.._' "wikilink") [Category:包含已弃用规范控制信息的维基百科条目](https://zh.wikipedia.org/wiki/Category:包含已弃用规范控制信息的维基百科条目 "wikilink") [Category:'_.._catName_.._'](https://zh.wikipedia.org/wiki/Category:'_.._catName_.._' "wikilink")

@@ -1,5 +1,4 @@
-**A.B.C-Z**，是隸屬於日本[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")的五人團體。2008年組成，前身團體為A.B.C。2012年以「Za
-ABC〜5stars〜」正式出道。
+**A.B.C-Z**，是隸屬於日本[傑尼斯事務所](../Page/傑尼斯事務所.md "wikilink")的五人團體。2008年組成，前身團體為A.B.C。2012年以「Za ABC〜5stars〜」正式出道。
 
 ## 團體介紹
 
@@ -277,9 +276,9 @@ ABC〜5stars〜」正式出道。
 <td><p><strong>5</strong></p></td>
 <td><p>2018年5月23日</p></td>
 <td></td>
-<td><p>初回限定盤(CD+DVD)</p></td>
+<td><p>初回限定盤A(CD+DVD)</p></td>
 <td><p>PCCA-04678</p></td>
-<td><p>TBA</p></td>
+<td><p>4位</p></td>
 </tr>
 <tr class="odd">
 <td><p>PCCA-04679</p></td>
@@ -292,6 +291,30 @@ ABC〜5stars〜」正式出道。
 <tr class="even">
 <td><p>通常盤(CD)</p></td>
 <td><p>PCCA-04680</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>6</strong></p></td>
+<td><p>2019年8月7日</p></td>
+<td></td>
+<td><p>初回限定盤A(CD+DVD)</p></td>
+<td><p>PCCA-04813</p></td>
+<td><p>TBA</p></td>
+</tr>
+<tr class="even">
+<td><p>初回限定盤B(CD+DVD)</p></td>
+<td><p>PCCA-04814</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>通常盤(CD)</p></td>
+<td><p>PCCA-04815</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -560,22 +583,17 @@ ABC〜5stars〜」正式出道。
 
   - 裸之少年（2008年～2009年、[朝日電視台](../Page/朝日電視台.md "wikilink")）
   - 少年俱樂部（2008年～、[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")）
-  - 『AtoZ』～史上最強のジャニーズJr.
-    ついにデビュー～（2012年3月28日、[富士電視台](../Page/富士電視台.md "wikilink")）※特別節目
+  - 『AtoZ』～史上最強のジャニーズJr. ついにデビュー～（2012年3月28日、[富士電視台](../Page/富士電視台.md "wikilink")）※特別節目
 
 ### 演唱會
 
 #### 其他
 
   - SUMMARY 2008（2008年8月2日～9月5日、台場・青海J地區特設會場 Johnnys Theater）
-  - KAT-TUN Break the Records
-    東京ドーム10days・京セラドーム大阪3days（2009年5月15日～6月15日、[東京巨蛋](../Page/東京巨蛋.md "wikilink")、[大阪京瓷巨蛋](../Page/大阪巨蛋.md "wikilink")）
-  - 滝様 CONCERT '09 Youも乗っちゃいなよ～Tackey Summer
-    JET（2009年6月27日～7月17日、横濱Arena、名古屋
-    日本ガイシスポーツプラザガイシホール、大阪城Hall）
+  - KAT-TUN Break the Records 東京ドーム10days・京セラドーム大阪3days（2009年5月15日～6月15日、[東京巨蛋](../Page/東京巨蛋.md "wikilink")、[大阪京瓷巨蛋](../Page/大阪巨蛋.md "wikilink")）
+  - 滝様 CONCERT '09 Youも乗っちゃいなよ～Tackey Summer JET（2009年6月27日～7月17日、横濱Arena、名古屋 日本ガイシスポーツプラザガイシホール、大阪城Hall）
   - ファン感謝ライブ in シアタークリエ（2010年5月11日～31日、シアタークリエ）
-  - 年末ヤング東西歌合戦！ 東西Jr.選抜大集合2010！ A.B.C-Z+ジャニーズJr.選抜 VS
-    中山優馬+関西Jr.選抜（2010年11月26～27日、NHK Hall）
+  - 年末ヤング東西歌合戦！ 東西Jr.選抜大集合2010！ A.B.C-Z+ジャニーズJr.選抜 VS 中山優馬+関西Jr.選抜（2010年11月26～27日、NHK Hall）
   - A.B.C-Zプロデュース みんなクリエに来てクリエ！ 2011（2011年4月29日～5月29日、シアタークリエ）
   - ジャニーズ銀座　Youの前にはMeがいる！（2012年5月8日 ‐ 20日、6月1日 - 3日、シアタークリエ）
 
@@ -586,21 +604,17 @@ ABC〜5stars〜」正式出道。
   - 新春 滝沢革命（2010年1月1日～2月5日、帝國劇場）
   - 新春 人生革命（2010年1月8日～2月6日、帝國劇場）
   - 2010年4・5月 滝沢秀明公演 滝沢歌舞伎　-TAKIZAWA KABUKI-（2010年4月4日～5月8日、日生劇場）
-  - PLAYZONE 2010　ROAD TO PLAYZONE（2010年7月9日～8月1日
-    8月14日～22日、東京‧青山劇場、大阪‧梅田藝術劇場 Main
-    Hall）
+  - PLAYZONE 2010　ROAD TO PLAYZONE（2010年7月9日～8月1日 8月14日～22日、東京‧青山劇場、大阪‧梅田藝術劇場 Main Hall）
   - 少年たち ～格子無き牢獄～（2010年9月3日～9月26日、日生劇場）
   - 新春 滝沢革命（2011年1月1日～1月27日、帝國劇場）
-  - PLAYZONE '11 SONG & DANC'N.（2011年7月8日～8月7日 8月19日～8月21日
-    8月28～8月31日、東京‧青山劇場、愛知‧中日劇場、大阪‧梅田藝術劇場 Main Hall）
+  - PLAYZONE '11 SONG & DANC'N.（2011年7月8日～8月7日 8月19日～8月21日 8月28～8月31日、東京‧青山劇場、愛知‧中日劇場、大阪‧梅田藝術劇場 Main Hall）
   - 少年たち 格子無き牢獄（2011年9月5日～9月29日、日生劇場）
   - ABC座 星（スター）劇場（2012年2月4日～2月29日、日生劇場）
   - 少年たち Jail in the Sky （2012年9月4日～9月26日、日生劇場）
 
 ### Event
 
-  - A.B.C-Z出道紀念Event
-    （2012年1月31日、東京・[渋谷](https://zh.wikipedia.org/wiki/渋谷 "wikilink")　[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")）
+  - A.B.C-Z出道紀念Event （2012年1月31日、東京・[渋谷](https://zh.wikipedia.org/wiki/渋谷 "wikilink")　[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")）
   - A.B.C-Z全國公演紀念[握手會](../Page/握手會.md "wikilink")（2012年3月5日～7日、4月3日‧17日‧21日‧26日、5月5日、[大阪](https://zh.wikipedia.org/wiki/大阪 "wikilink")‧[仙台](https://zh.wikipedia.org/wiki/仙台 "wikilink")‧[名古屋](https://zh.wikipedia.org/wiki/名古屋 "wikilink")‧[廣島](https://zh.wikipedia.org/wiki/廣島 "wikilink")‧[福岡](https://zh.wikipedia.org/wiki/福岡 "wikilink")‧[札幌](https://zh.wikipedia.org/wiki/札幌 "wikilink")）
 
 ## A.B.C.
@@ -618,13 +632,10 @@ ABC〜5stars〜」正式出道。
 
 #### 演唱會
 
-  - ジャニーズJr.の大冒険\!（2006年8月15日 -
-    25日、[ホテル・グランパシフィック・メリディアン](https://zh.wikipedia.org/wiki/ホテルグランパシフィック・ル・ダイバ "wikilink")）
+  - ジャニーズJr.の大冒険\!（2006年8月15日 - 25日、[ホテル・グランパシフィック・メリディアン](https://zh.wikipedia.org/wiki/ホテルグランパシフィック・ル・ダイバ "wikilink")）
   - you達の音楽大運動会（2006年9月30日・10月1日、代代木体育館）
   - ジャニーズJr.の大冒険\!'07 @メリディアン（2007年8月15日 - 24日、ホテル・グランパシフィック・メリディアン）
-  - [SUMMARY
-    2008](https://zh.wikipedia.org/wiki/SUMMARY#SUMMARY_2008 "wikilink")（2008年8月2日
-    - 9月5日、Johnnys Theater）
+  - [SUMMARY 2008](https://zh.wikipedia.org/wiki/SUMMARY#SUMMARY_2008 "wikilink")（2008年8月2日 - 9月5日、Johnnys Theater）
 
 ## 外部連結
 
@@ -632,12 +643,9 @@ ABC〜5stars〜」正式出道。
 
 ## 參考資料
 
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink")
-[Category:傑尼斯事務所正式團體](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所正式團體 "wikilink")
-[Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
+[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:傑尼斯事務所正式團體](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所正式團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink")
 
-1.  [PONYCANYON A.B.C-Z Official
-    Site\>Profile](http://abcz.ponycanyon.co.jp/profile.html)
+1.  [PONYCANYON A.B.C-Z Official Site\>Profile](http://abcz.ponycanyon.co.jp/profile.html)
 
 2.
 

@@ -1,5 +1,4 @@
-[HK_Telecom_House_2008.jpg](https://zh.wikipedia.org/wiki/File:HK_Telecom_House_2008.jpg "fig:HK_Telecom_House_2008.jpg")
-**DBC數碼電台**全稱**香港數碼廣播有限公司**（，[縮寫](../Page/縮寫.md "wikilink")：**DBC**），前身為於2008年獲得[香港政府發放](https://zh.wikipedia.org/wiki/香港政府 "wikilink")[AM聲音廣播牌照的](https://zh.wikipedia.org/wiki/AM "wikilink")**雄濤廣播有限公司**（），是[香港](../Page/香港.md "wikilink")的一家[商業廣播](https://zh.wikipedia.org/wiki/商業廣播 "wikilink")[電台](https://zh.wikipedia.org/wiki/電台 "wikilink")，也曾經是[香港數碼聲音廣播](../Page/香港數碼聲音廣播.md "wikilink")最大營辦商。
+[HK_Telecom_House_2008.jpg](https://zh.wikipedia.org/wiki/File:HK_Telecom_House_2008.jpg "fig:HK_Telecom_House_2008.jpg") **DBC數碼電台**全稱**香港數碼廣播有限公司**（，[縮寫](../Page/縮寫.md "wikilink")：**DBC**），前身為於2008年獲得[香港政府發放](https://zh.wikipedia.org/wiki/香港政府 "wikilink")[AM聲音廣播牌照的](https://zh.wikipedia.org/wiki/AM "wikilink")**雄濤廣播有限公司**（），是[香港](../Page/香港.md "wikilink")的一家[商業廣播](https://zh.wikipedia.org/wiki/商業廣播 "wikilink")[電台](https://zh.wikipedia.org/wiki/電台 "wikilink")，也曾經是[香港數碼聲音廣播](../Page/香港數碼聲音廣播.md "wikilink")最大營辦商。
 
 DBC數碼電台最初由[香港](../Page/香港.md "wikilink")[名嘴](../Page/名嘴.md "wikilink")、前[立法會議員](https://zh.wikipedia.org/wiki/立法會議員 "wikilink")[鄭經翰](../Page/鄭經翰.md "wikilink")創辦及兼任台長。現時大股東[港區全國政協委員](https://zh.wikipedia.org/wiki/政協 "wikilink")[黃楚標](../Page/黃楚標.md "wikilink")，董事會主席[李國章](../Page/李國章.md "wikilink")[教授](../Page/教授.md "wikilink")、董事[李少光](../Page/李少光.md "wikilink")、[彭玉榮](https://zh.wikipedia.org/wiki/彭玉榮 "wikilink")，行政總裁[羅燦](https://zh.wikipedia.org/wiki/羅燦 "wikilink")\[1\]。
 
@@ -13,15 +12,14 @@ DBC數碼電台最初由[香港](../Page/香港.md "wikilink")[名嘴](../Page/�
 
 雄濤廣播於2008年1月7日提交聲音廣播牌照的申請。[香港政府於](https://zh.wikipedia.org/wiki/香港政府 "wikilink")2008年7月9日公佈行政長官批准雄濤廣播的聲音廣播牌照申請\[6\]，[行政長官會同行政會議](../Page/行政長官會同行政會議.md "wikilink")原則上批准雄濤廣播有限公司申請設置一條24小時[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")[AM電台頻道](https://zh.wikipedia.org/wiki/調幅 "wikilink")，提供多元化知識型節目，牌照有效期12年。雄濤廣播又主動承諾提供200萬元履約保證金，建立所需的傳輸[網絡](https://zh.wikipedia.org/wiki/網絡 "wikilink")，以及在獲發牌照後2年內開展服務。\[7\]初時預計最快可於2009年第三季啟播\[8\]。該頻道將提供每日24小時[粵語廣播服務](https://zh.wikipedia.org/wiki/粵語 "wikilink")，當中包括每星期30小時時事和財經新聞、20小時時事評論節目、28小時音樂節目，其餘時段會製作一些有關生活趣味及進修的節目。雄濤廣播計劃投資最多1億4千萬港元，初期投入3千9百萬港元建設基礎設施；而經營初期料虧損約6千9百萬港元，預計要在經營3年後才能達致收支平衡。雄濤廣播將使用一條[調幅為AM](https://zh.wikipedia.org/wiki/調幅 "wikilink")810千赫的頻道，覆蓋整個香港。
 
-2008年11月12日，[行政長官會同行政會議](../Page/行政長官會同行政會議.md "wikilink")，正式向[鄭經翰](../Page/鄭經翰.md "wikilink")等政商界人士創立的雄濤廣播有限公司（雄濤廣播）批出有效期為12年的牌照，以採用調幅（AM）810千赫頻率設置和提供一條新的電台頻道。
-\[9\]
+2008年11月12日，[行政長官會同行政會議](../Page/行政長官會同行政會議.md "wikilink")，正式向[鄭經翰](../Page/鄭經翰.md "wikilink")等政商界人士創立的雄濤廣播有限公司（雄濤廣播）批出有效期為12年的牌照，以採用調幅（AM）810千赫頻率設置和提供一條新的電台頻道。 \[9\]
 
 [2009年10月](../Page/2009年10月.md "wikilink")，[鄭經翰](../Page/鄭經翰.md "wikilink")表示雄濤會使用[數碼聲音廣播](../Page/數碼聲音廣播.md "wikilink")技術，會有7個台在11月開始試播，2010年11月可正式啟播。\[10\]同年12月，[鄭經翰](../Page/鄭經翰.md "wikilink")表示準備自家生產數碼收音機及會低價出售，和會送出不多於5000個的數碼廣播收音機給專線小巴或小輪，內容包括流行曲、古典音樂及粵曲等。這僅屬試播，所以暫不會播放任何有主持的新聞或烽煙節目，料最快要到2010年底才能正式投入全面數碼廣播，而雄濤亦已經向老前輩電視台新聞記者挖角，為成立體育財經傳訊頻道作準備。\[11\]
 
 ### 試播
 
 2009年12月11日至2010年7月19日，雄濤廣播使用220.352兆赫試行廣播，設有7條數碼頻道：
-Channel 1 : 數碼中文金曲台 (Hong Kong Legend)
+ Channel 1 : 數碼中文金曲台 (Hong Kong Legend)
 Channel 2 : 數碼天碟台 (Audiophile)
 Channel 3 : 數碼英文金曲台 (Golden Oldies)
 Channel 4 : 數碼古典音樂台 (Classical Music)
@@ -30,7 +28,7 @@ Channel 6 : 數碼亞洲音樂台 (Asian Music)
 Channel 7 : 數碼怡情音樂台 (Easy Listening)
 
 2010年7月23日進入第二期測試階段，測試頻道的數量大幅增加至20條。頻道1為[DAB制式](https://zh.wikipedia.org/wiki/DAB "wikilink")，頻道2至20則為[DAB+制式](https://zh.wikipedia.org/wiki/DAB+ "wikilink")。該測試階段已於[2010年11月15日結束](https://zh.wikipedia.org/wiki/2010年11月15日 "wikilink")。於同月，放棄於2008年獲發牌時批給的AM頻道。
-Channel 1 : Hong Kong Pop Chart 潮播香港 (DAB)
+ Channel 1 : Hong Kong Pop Chart 潮播香港 (DAB)
 Channel 2 : Hong Kong Pop Chart 潮播香港 (DAB+)
 Channel 3 : Hong Kong Legend 中文金曲台 (DAB+)
 Channel 4 : Mandarin Pop 流行中國 (DAB+)
@@ -52,7 +50,7 @@ Channel 19 : Soundtracks 光影留聲 (DAB+)
 Channel 20 : Latin Music 情迷拉丁 (DAB+)
 
 2010年11月29日，香港數碼廣播有限公司恢複數碼廣播技術測試，設有7條數碼頻道，直至2011年正式商業牌照發出後結束：
-Channel 1 : Chinese Picks 中文歌曲精選
+ Channel 1 : Chinese Picks 中文歌曲精選
 Channel 2 : English Picks 英文歌曲精選
 Channel 3 : Kids Learning 兒歌學園
 Channel 4 : Religious 宗教音樂
@@ -60,10 +58,7 @@ Channel 5 : Chinese Opera 梨園笙歌
 Channel 6 : Philippine Beat 菲島浪潮
 Channel 7 : Indonesian Zone 印尼之聲
 
-2011年3月23日，DBC
-香港數碼廣播有限公司開始為期六個月的第三階段聲音廣播技術測試，並由原來的220.352[兆赫轉換到](https://zh.wikipedia.org/wiki/兆赫 "wikilink")222.064[兆赫的](https://zh.wikipedia.org/wiki/兆赫 "wikilink")[Band
-III](https://zh.wikipedia.org/wiki/波段_III "wikilink")
-11D頻道繼續進行測試。\[12\]同年6月8日，香港的數碼聲音廣播籌備工作進入新階段，各電台將選定的頻道之組別編號，其中香港數碼廣播的編號為「0」，預計同年年底正式啟播。\[13\]
+2011年3月23日，DBC 香港數碼廣播有限公司開始為期六個月的第三階段聲音廣播技術測試，並由原來的220.352[兆赫轉換到](https://zh.wikipedia.org/wiki/兆赫 "wikilink")222.064[兆赫的](https://zh.wikipedia.org/wiki/兆赫 "wikilink")[Band III](https://zh.wikipedia.org/wiki/波段_III "wikilink") 11D頻道繼續進行測試。\[12\]同年6月8日，香港的數碼聲音廣播籌備工作進入新階段，各電台將選定的頻道之組別編號，其中香港數碼廣播的編號為「0」，預計同年年底正式啟播。\[13\]
 
 ### 啟播
 
@@ -93,8 +88,7 @@ III](https://zh.wikipedia.org/wiki/波段_III "wikilink")
 
 10月10日，行政總裁何國輝接受商台《在晴朗的一天出發》訪問時補充，曾有其他人士願出價購入黃楚標的股份，但黃的條件是要終止鄭經翰與DBC廣播的全部合約，即台長職位與節目主持兩份合約，雙方因而談不攏。
 
-10月21日，香港數碼廣播之Facebook
-Page張貼出一由[黃世澤上載之錄音](https://zh.wikipedia.org/wiki/黃世澤 "wikilink")\[24\]，於2011年5月的一次會議，當中黃楚標提及中聯辦對[李慧玲](../Page/李慧玲.md "wikilink")之評價，指中聯辦對李慧玲非常反感，所以黃楚標不願意讓李慧玲加盟香港數碼廣播，但鄭經翰指傳媒要有獨立性，如聘請李慧玲，不能控制其言論。黃又指鄭理應知道他不能賣股份之原因。
+10月21日，香港數碼廣播之Facebook Page張貼出一由[黃世澤上載之錄音](https://zh.wikipedia.org/wiki/黃世澤 "wikilink")\[24\]，於2011年5月的一次會議，當中黃楚標提及中聯辦對[李慧玲](../Page/李慧玲.md "wikilink")之評價，指中聯辦對李慧玲非常反感，所以黃楚標不願意讓李慧玲加盟香港數碼廣播，但鄭經翰指傳媒要有獨立性，如聘請李慧玲，不能控制其言論。黃又指鄭理應知道他不能賣股份之原因。
 
 #### 停播及員工義播
 
@@ -120,8 +114,7 @@ Page張貼出一由[黃世澤上載之錄音](https://zh.wikipedia.org/wiki/黃�
 
 股東爭拗解決後，黃楚標成為最大股東，鄭經翰則全面退出自己一手創辦的DBC，而與股東黃楚標成交後即時取回投資DBC的半數本金，餘款在2013年底取回，鄭經翰說有關資金將會投放網台[D100](../Page/D100.md "wikilink")。
 
-2013年1月8日，DBC
-7條頻道恢復大氣廣播信號。新台長麥潤壽指，暫定1月11日復播第一、五、六及七台，後兩者以電腦自動播放金曲為主。麥繼續主持《星空再遇鐵達尼》。麥指尚在物色論政節目主持，「要有自己立場，但一定要中肯」。\[33\]
+2013年1月8日，DBC 7條頻道恢復大氣廣播信號。新台長麥潤壽指，暫定1月11日復播第一、五、六及七台，後兩者以電腦自動播放金曲為主。麥繼續主持《星空再遇鐵達尼》。麥指尚在物色論政節目主持，「要有自己立場，但一定要中肯」。\[33\]
 
 2013年1月11日，DBC 7條頻道開始分別播放不同歌曲及音樂。台長麥潤壽於節目官方專頁表示，一台及五台將於1月28日恢復節目。\[34\]
 
@@ -130,7 +123,7 @@ Page張貼出一由[黃世澤上載之錄音](https://zh.wikipedia.org/wiki/黃�
 DBC電台同日以新口號「一個有心的電台」正式復播，並在復播儀式中公佈節目主持人選。
 
 2013年1月28日，香港數碼廣播有限公司恢復數碼廣播，設有7條數碼頻道：
-DBC 數碼1台: 專業態度 為市民服務
+ DBC 數碼1台: 專業態度 為市民服務
 DBC 數碼2台: 緊貼時事 全程關注
 DBC 數碼3台: 城市清泉 扣動心弦
 DBC 數碼4台: 流行音樂 至新至潮
@@ -146,16 +139,11 @@ DBC 數碼5台 笑融台：民族共融　樂在其中
 DBC 數碼6台 金曲台：忘不了的旋律 停不了的音樂
 DBC 數碼7台 戲曲台：曲藝情濃 戲派萬千
 
-12月20日，7條頻道正式廣播。2014年3月31日，7條頻道重新登陸 [NOW
-TV](https://zh.wikipedia.org/wiki/NOW_TV "wikilink")，並於原有的571-577頻道廣播；同年6月15日，7條頻道亦正式登陸[香港有線電視](../Page/香港有線電視.md "wikilink")501台，和
-NOW
-不同的是，7條頻道被置於7條[聲道中](https://zh.wikipedia.org/wiki/聲道 "wikilink")，用戶以[遙控器揀選對應的聲道](https://zh.wikipedia.org/wiki/遙控器 "wikilink")，便能接收不同頻道的訊號。
+12月20日，7條頻道正式廣播。2014年3月31日，7條頻道重新登陸 [NOW TV](https://zh.wikipedia.org/wiki/NOW_TV "wikilink")，並於原有的571-577頻道廣播；同年6月15日，7條頻道亦正式登陸[香港有線電視](../Page/香港有線電視.md "wikilink")501台，和 NOW 不同的是，7條頻道被置於7條[聲道中](https://zh.wikipedia.org/wiki/聲道 "wikilink")，用戶以[遙控器揀選對應的聲道](https://zh.wikipedia.org/wiki/遙控器 "wikilink")，便能接收不同頻道的訊號。
 
 ### 2014年
 
-9月10日，[旗艦台](../Page/數碼一台.md "wikilink")、[新聞台及](https://zh.wikipedia.org/wiki/數碼二台 "wikilink")[財經台遷至](../Page/數碼三台.md "wikilink")[灣仔](../Page/灣仔.md "wikilink")[電訊大廈](https://zh.wikipedia.org/wiki/電訊大廈 "wikilink")，並耗資近5,000萬元，興建多媒體中心，錄音、錄像及播放設施，質素媲美電視台之製作規格。錄音室的主要指標噪音等級（NR
-RATING）要求一般是NR25或更高，而DBC數碼電台多媒體中心直播室之指標能低至NR20，質素高於其他同業。至於另一技術指標殘響時間（Reverberation
-Time），此多媒體中心亦有效地控制在0.2秒或以下，進一步提升音響的質素。
+9月10日，[旗艦台](../Page/數碼一台.md "wikilink")、[新聞台及](https://zh.wikipedia.org/wiki/數碼二台 "wikilink")[財經台遷至](../Page/數碼三台.md "wikilink")[灣仔](../Page/灣仔.md "wikilink")[電訊大廈](https://zh.wikipedia.org/wiki/電訊大廈 "wikilink")，並耗資近5,000萬元，興建多媒體中心，錄音、錄像及播放設施，質素媲美電視台之製作規格。錄音室的主要指標噪音等級（NR RATING）要求一般是NR25或更高，而DBC數碼電台多媒體中心直播室之指標能低至NR20，質素高於其他同業。至於另一技術指標殘響時間（Reverberation Time），此多媒體中心亦有效地控制在0.2秒或以下，進一步提升音響的質素。
 
 同日，金曲台更名為[音樂台](../Page/數碼六台.md "wikilink")；而[戲曲台亦會於](../Page/數碼七台.md "wikilink")9月14日開始直播賽馬。
 
@@ -169,9 +157,7 @@ Time），此多媒體中心亦有效地控制在0.2秒或以下，進一步提�
 
 DBC數碼電台其餘幾個頻道之直播室將於2015年9月搬到灣仔電訊大廈的另一樓層。
 
-10月21日，宣布精簡架構，並裁減三成員工，將資源集中到數碼1至3台及dbc
-TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報，並終止外勤採訪。
-數碼2台在11月16日起轉型為年輕人潮流資訊頻道。\[36\]
+10月21日，宣布精簡架構，並裁減三成員工，將資源集中到數碼1至3台及dbc TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報，並終止外勤採訪。 數碼2台在11月16日起轉型為年輕人潮流資訊頻道。\[36\]
 
 2015年11月15日起，頻道架構重整，各頻道作出以下更動：
 
@@ -217,20 +203,15 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 ### 管理層
 
   - [行政總裁](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")：[羅燦](https://zh.wikipedia.org/wiki/羅燦 "wikilink")
-      - [DBC旗艦台台長](https://zh.wikipedia.org/wiki/DBC旗艦台 "wikilink"):
-        [楊振耀](../Page/楊振耀.md "wikilink")
+      - [DBC旗艦台台長](https://zh.wikipedia.org/wiki/DBC旗艦台 "wikilink"): [楊振耀](../Page/楊振耀.md "wikilink")
       - 新聞總監: [羅樹基](https://zh.wikipedia.org/wiki/羅樹基 "wikilink")
           - 前任首席主播：[鄧景輝](../Page/鄧景輝.md "wikilink")（已歿）
-      - [DBC
-        me2台長](../Page/DBC_me2.md "wikilink")：[莫鳳儀](../Page/莫鳳儀.md "wikilink")
-        (兼DBC首席顧問)
+      - [DBC me2台長](../Page/DBC_me2.md "wikilink")：[莫鳳儀](../Page/莫鳳儀.md "wikilink") (兼DBC首席顧問)
           - 執行節目監製：[姚秀鈴](../Page/姚秀鈴.md "wikilink")
       - [DBC財經台台長](https://zh.wikipedia.org/wiki/DBC財經台 "wikilink")：[馮淑媚](https://zh.wikipedia.org/wiki/馮淑媚 "wikilink")
           - 副總監：[李鴻彥](https://zh.wikipedia.org/wiki/李鴻彥 "wikilink")
-      - [DBC笑融台台長](https://zh.wikipedia.org/wiki/DBC笑融台 "wikilink")：[練瑞祥](https://zh.wikipedia.org/wiki/練瑞祥 "wikilink")
-        (兼DBC節目及資源主管)
-      - [DBC音樂台及](https://zh.wikipedia.org/wiki/DBC音樂台 "wikilink")[DBC戲曲台台長](https://zh.wikipedia.org/wiki/DBC戲曲台 "wikilink")：何重立
-        (兼DBC節目及音樂總監)
+      - [DBC笑融台台長](https://zh.wikipedia.org/wiki/DBC笑融台 "wikilink")：[練瑞祥](https://zh.wikipedia.org/wiki/練瑞祥 "wikilink") (兼DBC節目及資源主管)
+      - [DBC音樂台及](https://zh.wikipedia.org/wiki/DBC音樂台 "wikilink")[DBC戲曲台台長](https://zh.wikipedia.org/wiki/DBC戲曲台 "wikilink")：何重立 (兼DBC節目及音樂總監)
 
 ## 旗下頻道
 
@@ -246,8 +227,7 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
   - 選台號碼：02
   - [DBC 2](https://web.archive.org/web/20151109210030/http://www.dbc.hk/radio2)
   - 異想天開 青新力量
-  - 90後主場，沸青非常吹水平台！由貼地網絡熱話到堅離地夢想起飛；由潮爆K-Pop 韓風、日語J-Pop放送、到香港新歌串流；由朝朝Good
-    Morning 到每一個晚上，日日空中傳情。貼地聚焦，香港限定，為本地沸青提供一個發光、發聲、發熱平台。
+  - 90後主場，沸青非常吹水平台！由貼地網絡熱話到堅離地夢想起飛；由潮爆K-Pop 韓風、日語J-Pop放送、到香港新歌串流；由朝朝Good Morning 到每一個晚上，日日空中傳情。貼地聚焦，香港限定，為本地沸青提供一個發光、發聲、發熱平台。
 
 ### [數碼三台](../Page/數碼三台.md "wikilink")財經台
 
@@ -287,14 +267,12 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 ### DBC TV1
 
   - 綜合dbc1旗艦台及dbc2 me2 的電視直播頻道，全天候送上時事、娛樂、音樂及生活資訊的視象內容。
-  - [DBC
-    TV1](https://web.archive.org/web/20160619133833/http://www.dbc.hk/home/dbctv/tv1-player.html)
+  - [DBC TV1](https://web.archive.org/web/20160619133833/http://www.dbc.hk/home/dbctv/tv1-player.html)
 
 ### DBC TV3
 
   - 現場直播dbc3財經台的電視頻道，交易日送上即市分析，假日則送上各類音樂及旅遊節目。
-  - [DBC
-    TV3](https://web.archive.org/web/20160613101055/http://www.dbc.hk/home/dbctv/tv3-player.html)
+  - [DBC TV3](https://web.archive.org/web/20160613101055/http://www.dbc.hk/home/dbctv/tv3-player.html)
 
 ## 前任節目主持
 
@@ -1259,8 +1237,7 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 
 ## 參考資料
 
-  - [雄濤申辦電台
-    涉資1.4億](https://web.archive.org/web/20080227183705/http://www.news.gov.hk/tc/category/infrastructureandlogistics/080225/html/080225tc06001.htm)，《香港政府新聞公報》，2008年2月25日。
+  - [雄濤申辦電台 涉資1.4億](https://web.archive.org/web/20080227183705/http://www.news.gov.hk/tc/category/infrastructureandlogistics/080225/html/080225tc06001.htm)，《香港政府新聞公報》，2008年2月25日。
 
 ## 參見
 
@@ -1270,15 +1247,11 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 
   - [DBC數碼電台官方網頁](https://web.archive.org/web/20111222185003/http://www.dbc.hk/)
   - [DBC 數碼電台 Facebook專頁](http://www.facebook.com/dbcbroadcasting)
-  - [香港數碼廣播Google+
-    專頁](http://plus.google.com/u/0/b/115392310386253644549/)
+  - [香港數碼廣播Google+ 專頁](http://plus.google.com/u/0/b/115392310386253644549/)
   - [香港數碼聲音廣播網站](https://web.archive.org/web/20111001154657/http://www.digitalradio.gov.hk/tc/)
   - 《[就雄濤廣播有限公司的聲音廣播牌照申請徵詢公眾意見諮詢文件](http://www.hkba.hk/cn/doc/WaveMediaNotice_c.pdf)》，廣播事務管理局
 
-[Category:香港數碼廣播](https://zh.wikipedia.org/wiki/Category:香港數碼廣播 "wikilink")
-[Category:2008年成立的公司](https://zh.wikipedia.org/wiki/Category:2008年成立的公司 "wikilink")
-[Category:2016年結業公司](https://zh.wikipedia.org/wiki/Category:2016年結業公司 "wikilink")
-[Category:經營問題](https://zh.wikipedia.org/wiki/Category:經營問題 "wikilink")
+[Category:香港數碼廣播](https://zh.wikipedia.org/wiki/Category:香港數碼廣播 "wikilink") [Category:2008年成立的公司](https://zh.wikipedia.org/wiki/Category:2008年成立的公司 "wikilink") [Category:2016年結業公司](https://zh.wikipedia.org/wiki/Category:2016年結業公司 "wikilink") [Category:經營問題](https://zh.wikipedia.org/wiki/Category:經營問題 "wikilink")
 
 1.  \[news.sina.com.hk/news/20131221/-3-3147090/1.html DBC啟播 黃楚標攜妻女現身\]
 
@@ -1287,7 +1260,6 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 3.  [1](http://www.dbc.hk/?about《DBC數碼電台》官方網頁)
 
 4.  [汪明荃支持DBC戲曲台](http://www.singpao.com/yl/mx/201312/t20131221_479508.html)
-
 
 5.  [行會批准終止香港數碼聲音廣播牌照](http://www.info.gov.hk/gia/general/201610/11/P2016101100565.htm)
 
@@ -1299,16 +1271,13 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 
 9.  [大班籌辦雄濤廣播獲批12年牌照](http://www.appleactionews.com/site/art_main.cfm?iss_id=20081111&sec_id=6996647&art_id=11835079)
 
-
-10. [接收更穩定 音質更高 數碼新世代
-    電台大混戰](http://news.hkheadline.com/dailynews/headline_news_detail_columnist.asp?id=91063&section_name=wtt&kw=8)
+10. [接收更穩定 音質更高 數碼新世代 電台大混戰](http://news.hkheadline.com/dailynews/headline_news_detail_columnist.asp?id=91063&section_name=wtt&kw=8)
 
 11. [雄濤廣播最快下月初試播](http://news.hkheadline.com/instantnews/news_content/200911/30/20091130a135336.html)
 
 12. [調教聲音廣播訊技術測至220.352MHz的11D頻道](http://www.facebook.com/photo.php?fbid=209491255732769&set=a.206414166040478.62513.189061147775780)
 
-13. [數碼聲音廣播頻道組別編號選定](http://www.info.gov.hk/gia/general/201106/08/P201106070249.htm)
-    [香港政府一站通](https://zh.wikipedia.org/wiki/香港政府一站通 "wikilink")，2011年6月8日
+13. [數碼聲音廣播頻道組別編號選定](http://www.info.gov.hk/gia/general/201106/08/P201106070249.htm) [香港政府一站通](https://zh.wikipedia.org/wiki/香港政府一站通 "wikilink")，2011年6月8日
 
 14. [DBC歷史性時刻 - 首個節目啟播"正係好音樂"](http://www.facebook.com/271457409536153)
 
@@ -1336,9 +1305,7 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 
 26.
 
-27. [DBC復播
-    大班話冇唔妥](http://hk.apple.nextmedia.com/realtime/news/20121012/51098503)
-    蘋果日報 — 即時新聞，2012年10月12日
+27. [DBC復播 大班話冇唔妥](http://hk.apple.nextmedia.com/realtime/news/20121012/51098503) 蘋果日報 — 即時新聞，2012年10月12日
 
 28.
 
@@ -1355,11 +1322,9 @@ TV業務。新聞部裁減約30人，只餘下9人進行每小時的新聞簡報
 34.
 35.
 
-36. [蘋果日報:
-    dbc數碼電台裁員三成](http://hk.apple.nextmedia.com/news/art/20151021/19341500)
+36. [蘋果日報: dbc數碼電台裁員三成](http://hk.apple.nextmedia.com/news/art/20151021/19341500)
 
-37. [頭條日報: 喁喁語——
-    數碼台七台播放《戲曲一周》](http://news.stheadline.com/dailynews/headline_news_detail_columnist.asp?id=362038&section_name=wtt&kw=116)
+37. [頭條日報: 喁喁語—— 數碼台七台播放《戲曲一周》](http://news.stheadline.com/dailynews/headline_news_detail_columnist.asp?id=362038&section_name=wtt&kw=116)
 
 38. [2](https://www.facebook.com/indiepacks/photos/a.1083836008306614.1073741828.1041605189196363/1089658794391002/?type=3&theater)
 

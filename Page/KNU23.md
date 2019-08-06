@@ -2,8 +2,7 @@
 
 ## 概要
 
-以「**[巨乳](../Page/巨乳.md "wikilink")偶像**」為概念，集合了女性的偶像團體。在2010年6月開始募集・面試開始，2010年8月的簡介攝影中在全国披露目。
-\[1\]。
+以「**[巨乳](../Page/巨乳.md "wikilink")偶像**」為概念，集合了女性的偶像團體。在2010年6月開始募集・面試開始，2010年8月的簡介攝影中在全国披露目。 \[1\]。
 
 ## 成果
 
@@ -71,9 +70,7 @@
 
 ## 電視出演
 
-  - [秋葉系アイドルチャンネル](https://zh.wikipedia.org/wiki/秋葉系アイドルチャンネル "wikilink")
-    \#8
-    (2011年10月28日、[BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink"))
+  - [秋葉系アイドルチャンネル](https://zh.wikipedia.org/wiki/秋葉系アイドルチャンネル "wikilink") \#8 (2011年10月28日、[BS11](https://zh.wikipedia.org/wiki/BS11 "wikilink"))
 
 <!-- end list -->
 
@@ -86,8 +83,6 @@
 
   - [巨乳組合KNU的部落格](http://ameblo.jp/love-love-knu)
 
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:秋葉原](https://zh.wikipedia.org/wiki/Category:秋葉原 "wikilink")
+[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:秋葉原](https://zh.wikipedia.org/wiki/Category:秋葉原 "wikilink")
 
 1.

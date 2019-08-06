@@ -1,6 +1,4 @@
-《**Twins Bling Bling Live
-2008**》，是[香港](../Page/香港.md "wikilink")[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink")
-[Twins第四次舉辦的演唱會](https://zh.wikipedia.org/wiki/Twins "wikilink")。
+《**Twins Bling Bling Live 2008**》，是[香港](../Page/香港.md "wikilink")[女子演唱團體](https://zh.wikipedia.org/wiki/女子演唱團體 "wikilink") [Twins第四次舉辦的演唱會](https://zh.wikipedia.org/wiki/Twins "wikilink")。
 
 原訂從2008年4月12日一連四場於香港[紅磡體育館開始](https://zh.wikipedia.org/wiki/紅磡體育館 "wikilink")，至2008年6月28日於吉隆坡[雲頂高原](../Page/雲頂高原.md "wikilink")[雲星劇場作為最終場结束本次巡演](../Page/雲頂高原.md "wikilink")，而此次巡演場次總共有6場演出。由於成員[鍾欣桐捲入](https://zh.wikipedia.org/wiki/鍾欣桐 "wikilink")[藝人床照事件](https://zh.wikipedia.org/wiki/藝人床照流出事件 "wikilink")，阿嬌暫時退出娛樂圈，演唱會被迫取消，改由同公司的藝人[容祖兒頂替演出](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")。
 
@@ -98,5 +96,4 @@
 
 ## 參考文獻
 
-[Category:Twins](https://zh.wikipedia.org/wiki/Category:Twins "wikilink")
-[Category:Twins巡迴演唱會](https://zh.wikipedia.org/wiki/Category:Twins巡迴演唱會 "wikilink")
+[Category:Twins](https://zh.wikipedia.org/wiki/Category:Twins "wikilink") [Category:Twins巡迴演唱會](https://zh.wikipedia.org/wiki/Category:Twins巡迴演唱會 "wikilink")

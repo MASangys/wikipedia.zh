@@ -1,5 +1,4 @@
-\-{zh-hans:《**MONSTERS**》; zh-tw:《**破案怪獸**》（MONSTERS）;
-zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS電視台.md "wikilink")於2012年10月21日至12月9日播出的連續劇。由香取慎吾、山下智久主演。台灣緯來日本台於2013年6月間引進播出。
+\-{zh-hans:《**MONSTERS**》; zh-tw:《**破案怪獸**》（MONSTERS）; zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS電視台.md "wikilink")於2012年10月21日至12月9日播出的連續劇。由香取慎吾、山下智久主演。台灣緯來日本台於2013年6月間引進播出。
 
 ## 劇情概要
 
@@ -9,17 +8,13 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 ### 主要人物
 
-  - 平塚平八 -
-    [香取慎吾](../Page/香取慎吾.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）（香港配音：[陳卓智](../Page/陳卓智.md "wikilink")）
-  - 西園寺公輔 -
-    [山下智久](../Page/山下智久.md "wikilink")（香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）（嬰兒時期：[田中優誠](https://zh.wikipedia.org/wiki/田中優誠 "wikilink")、幼兒時期：[森田愛蓮](https://zh.wikipedia.org/wiki/森田愛蓮 "wikilink")、少年時期：[佐藤光將](https://zh.wikipedia.org/wiki/佐藤光將 "wikilink")）
+  - 平塚平八 - [香取慎吾](../Page/香取慎吾.md "wikilink")（[SMAP](../Page/SMAP.md "wikilink")）（香港配音：[陳卓智](../Page/陳卓智.md "wikilink")）
+  - 西園寺公輔 - [山下智久](../Page/山下智久.md "wikilink")（香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）（嬰兒時期：[田中優誠](https://zh.wikipedia.org/wiki/田中優誠 "wikilink")、幼兒時期：[森田愛蓮](https://zh.wikipedia.org/wiki/森田愛蓮 "wikilink")、少年時期：[佐藤光將](https://zh.wikipedia.org/wiki/佐藤光將 "wikilink")）
 
 ### 警視廳捜査一課
 
-  - 金田一 -
-    [遠藤憲一](../Page/遠藤憲一.md "wikilink")（香港配音：[葉振聲](../Page/葉振聲.md "wikilink")）
-  - 劍持亘 -
-    [大竹真](https://zh.wikipedia.org/wiki/大竹真 "wikilink")（香港配音：[朱子聰](../Page/朱子聰.md "wikilink")）
+  - 金田一 - [遠藤憲一](../Page/遠藤憲一.md "wikilink")（香港配音：[葉振聲](../Page/葉振聲.md "wikilink")）
+  - 劍持亘 - [大竹真](https://zh.wikipedia.org/wiki/大竹真 "wikilink")（香港配音：[朱子聰](../Page/朱子聰.md "wikilink")）
   - 高倉寛治 - [蕨野友也](../Page/蕨野友也.md "wikilink")
   - 工藤隼人 - [菊田大輔](https://zh.wikipedia.org/wiki/菊田大輔 "wikilink")
   - 藤崎純一 - [肥野龍也](https://zh.wikipedia.org/wiki/肥野龍也 "wikilink")
@@ -28,8 +23,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 ### 其他
 
-  - 高野惠美 -
-    [柳原可奈子](../Page/柳原可奈子.md "wikilink")（香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
+  - 高野惠美 - [柳原可奈子](../Page/柳原可奈子.md "wikilink")（香港配音：[林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")）
 
 <!-- end list -->
 
@@ -40,8 +34,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 #### 第1集
 
-  - 徳平伸一郎 -
-    [岡田義徳](https://zh.wikipedia.org/wiki/岡田義徳 "wikilink")（香港配音：[李鎮然](../Page/李鎮然.md "wikilink")）
+  - 徳平伸一郎 - [岡田義徳](https://zh.wikipedia.org/wiki/岡田義徳 "wikilink")（香港配音：[李鎮然](../Page/李鎮然.md "wikilink")）
 
 <!-- end list -->
 
@@ -50,8 +43,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 徳平麻美 -
-    [加藤夏希](../Page/加藤夏希.md "wikilink")（香港配音：[黃昕瑜](../Page/黃昕瑜.md "wikilink")）
+  - 徳平麻美 - [加藤夏希](../Page/加藤夏希.md "wikilink")（香港配音：[黃昕瑜](../Page/黃昕瑜.md "wikilink")）
 
 <!-- end list -->
 
@@ -60,8 +52,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 德平國男 -
-    [團時朗](https://zh.wikipedia.org/wiki/團時朗 "wikilink")（香港配音：[張炳強](../Page/張炳強.md "wikilink")）
+  - 德平國男 - [團時朗](https://zh.wikipedia.org/wiki/團時朗 "wikilink")（香港配音：[張炳強](../Page/張炳強.md "wikilink")）
 
 <!-- end list -->
 
@@ -70,8 +61,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 内田和枝 -
-    [角替和枝](https://zh.wikipedia.org/wiki/角替和枝 "wikilink")（香港配音：[袁淑珍](../Page/袁淑珍.md "wikilink")）
+  - 内田和枝 - [角替和枝](https://zh.wikipedia.org/wiki/角替和枝 "wikilink")（香港配音：[袁淑珍](../Page/袁淑珍.md "wikilink")）
 
 <!-- end list -->
 
@@ -80,8 +70,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 室岡徹 -
-    [桐山漣](../Page/桐山漣.md "wikilink")（香港配音：[張方正](../Page/張方正.md "wikilink")）
+  - 室岡徹 - [桐山漣](../Page/桐山漣.md "wikilink")（香港配音：[張方正](../Page/張方正.md "wikilink")）
 
 <!-- end list -->
 
@@ -90,8 +79,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 德平洋子 -
-    [高島禮子](../Page/高島禮子.md "wikilink")（香港配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
+  - 德平洋子 - [高島禮子](../Page/高島禮子.md "wikilink")（香港配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
 
 <!-- end list -->
 
@@ -100,8 +88,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 西崎達三 - [武田鐵矢](../Page/武田鐵矢.md "wikilink")
-    （香港配音：[張錦江](../Page/張錦江.md "wikilink")）
+  - 西崎達三 - [武田鐵矢](../Page/武田鐵矢.md "wikilink") （香港配音：[張錦江](../Page/張錦江.md "wikilink")）
 
 <!-- end list -->
 
@@ -114,8 +101,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 #### 第2集
 
-  - 山村省一 -
-    [山本耕史](../Page/山本耕史.md "wikilink")（香港配音：[李震權](../Page/李震權.md "wikilink")）
+  - 山村省一 - [山本耕史](../Page/山本耕史.md "wikilink")（香港配音：[李震權](../Page/李震權.md "wikilink")）
 
 <!-- end list -->
 
@@ -124,8 +110,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 大畑幸三 -
-    [淺野和之](https://zh.wikipedia.org/wiki/淺野和之 "wikilink")（香港配音：[招世亮](../Page/招世亮.md "wikilink")）
+  - 大畑幸三 - [淺野和之](https://zh.wikipedia.org/wiki/淺野和之 "wikilink")（香港配音：[招世亮](../Page/招世亮.md "wikilink")）
 
 <!-- end list -->
 
@@ -134,8 +119,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 鷺沼晉太郎 -
-    [岩松了](../Page/岩松了.md "wikilink")（香港配音：[林保全](../Page/林保全.md "wikilink")）
+  - 鷺沼晉太郎 - [岩松了](../Page/岩松了.md "wikilink")（香港配音：[林保全](../Page/林保全.md "wikilink")）
 
 <!-- end list -->
 
@@ -144,8 +128,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 大畑久美子 -
-    [古川莉佳](https://zh.wikipedia.org/wiki/古川莉佳 "wikilink")（香港配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
+  - 大畑久美子 - [古川莉佳](https://zh.wikipedia.org/wiki/古川莉佳 "wikilink")（香港配音：[謝潔貞](../Page/謝潔貞.md "wikilink")）
 
 <!-- end list -->
 
@@ -154,8 +137,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 丸田恭治 -
-    [森田順平](../Page/森田順平.md "wikilink")（香港配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
+  - 丸田恭治 - [森田順平](../Page/森田順平.md "wikilink")（香港配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
 
 <!-- end list -->
 
@@ -164,8 +146,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 田川一成 -
-    [渡部豪太](https://zh.wikipedia.org/wiki/渡部豪太 "wikilink")（香港配音：[周良鴻](../Page/周良鴻.md "wikilink")）
+  - 田川一成 - [渡部豪太](https://zh.wikipedia.org/wiki/渡部豪太 "wikilink")（香港配音：[周良鴻](../Page/周良鴻.md "wikilink")）
 
 <!-- end list -->
 
@@ -178,8 +159,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 #### 第3集
 
-  - 篠田恭四郎 -
-    [中村橋之助](https://zh.wikipedia.org/wiki/中村橋之助 "wikilink")（香港配音：[朱子聰](../Page/朱子聰.md "wikilink")）
+  - 篠田恭四郎 - [中村橋之助](https://zh.wikipedia.org/wiki/中村橋之助 "wikilink")（香港配音：[朱子聰](../Page/朱子聰.md "wikilink")）
 
 <!-- end list -->
 
@@ -188,8 +168,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 矢崎健吾 -
-    [白井晃](https://zh.wikipedia.org/wiki/白井晃 "wikilink")（香港配音：[張錦江](../Page/張錦江.md "wikilink")）
+  - 矢崎健吾 - [白井晃](https://zh.wikipedia.org/wiki/白井晃 "wikilink")（香港配音：[張錦江](../Page/張錦江.md "wikilink")）
 
 <!-- end list -->
 
@@ -198,8 +177,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 島村勉 -
-    [小林隆](https://zh.wikipedia.org/wiki/小林隆 "wikilink")（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
+  - 島村勉 - [小林隆](https://zh.wikipedia.org/wiki/小林隆 "wikilink")（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
 
 <!-- end list -->
 
@@ -208,8 +186,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 相澤新一 -
-    [内倉憲二](https://zh.wikipedia.org/wiki/内倉憲二 "wikilink")（香港配音：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")）
+  - 相澤新一 - [内倉憲二](https://zh.wikipedia.org/wiki/内倉憲二 "wikilink")（香港配音：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")）
 
 <!-- end list -->
 
@@ -222,8 +199,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 #### 第4集
 
-  - 安東研一 -
-    [吉田榮作](https://zh.wikipedia.org/wiki/吉田榮作 "wikilink")（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
+  - 安東研一 - [吉田榮作](https://zh.wikipedia.org/wiki/吉田榮作 "wikilink")（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
 
 <!-- end list -->
 
@@ -232,8 +208,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 村川英樹 -
-    [佐藤二朗](../Page/佐藤二朗.md "wikilink")（香港配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
+  - 村川英樹 - [佐藤二朗](../Page/佐藤二朗.md "wikilink")（香港配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
 
 <!-- end list -->
 
@@ -242,8 +217,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 門倉俊三 -
-    [佐佐木勝彦](https://zh.wikipedia.org/wiki/佐佐木勝彦 "wikilink")（香港配音：[張炳強](../Page/張炳強.md "wikilink")）
+  - 門倉俊三 - [佐佐木勝彦](https://zh.wikipedia.org/wiki/佐佐木勝彦 "wikilink")（香港配音：[張炳強](../Page/張炳強.md "wikilink")）
 
 <!-- end list -->
 
@@ -252,8 +226,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 土田隆弘 -
-    [尾上寛之](https://zh.wikipedia.org/wiki/尾上寛之 "wikilink")（香港配音：[張方正](../Page/張方正.md "wikilink")）
+  - 土田隆弘 - [尾上寛之](https://zh.wikipedia.org/wiki/尾上寛之 "wikilink")（香港配音：[張方正](../Page/張方正.md "wikilink")）
 
 <!-- end list -->
 
@@ -262,8 +235,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 鈴木佳代 -
-    [波瑠](../Page/波瑠.md "wikilink")（香港配音：[劉惠雲](../Page/劉惠雲.md "wikilink")）
+  - 鈴木佳代 - [波瑠](../Page/波瑠.md "wikilink")（香港配音：[劉惠雲](../Page/劉惠雲.md "wikilink")）
 
 <!-- end list -->
 
@@ -276,8 +248,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 #### 第5集
 
-  - 丸岡龍次郎 -
-    [榎木孝明](https://zh.wikipedia.org/wiki/榎木孝明 "wikilink")（香港配音：[張炳強](../Page/張炳強.md "wikilink")）
+  - 丸岡龍次郎 - [榎木孝明](https://zh.wikipedia.org/wiki/榎木孝明 "wikilink")（香港配音：[張炳強](../Page/張炳強.md "wikilink")）
 
 <!-- end list -->
 
@@ -286,8 +257,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 四條敦彦 -
-    [中村俊介](https://zh.wikipedia.org/wiki/中村俊介 "wikilink")（香港配音：[張錦江](../Page/張錦江.md "wikilink")）
+  - 四條敦彦 - [中村俊介](https://zh.wikipedia.org/wiki/中村俊介 "wikilink")（香港配音：[張錦江](../Page/張錦江.md "wikilink")）
 
 <!-- end list -->
 
@@ -296,8 +266,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 大河原六郎 -
-    [奥田達士](https://zh.wikipedia.org/wiki/奥田達士 "wikilink")（香港配音：[盧國權](../Page/盧國權.md "wikilink")）
+  - 大河原六郎 - [奥田達士](https://zh.wikipedia.org/wiki/奥田達士 "wikilink")（香港配音：[盧國權](../Page/盧國權.md "wikilink")）
 
 <!-- end list -->
 
@@ -306,8 +275,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 大河原美津子 -
-    [生田智子](https://zh.wikipedia.org/wiki/生田智子 "wikilink")（香港配音：[林芷筠](../Page/林芷筠.md "wikilink")）
+  - 大河原美津子 - [生田智子](https://zh.wikipedia.org/wiki/生田智子 "wikilink")（香港配音：[林芷筠](../Page/林芷筠.md "wikilink")）
 
 <!-- end list -->
 
@@ -316,8 +284,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 青山春夫 -
-    [内野謙太](https://zh.wikipedia.org/wiki/内野謙太 "wikilink")（香港配音：[李致林](../Page/李致林.md "wikilink")）
+  - 青山春夫 - [内野謙太](https://zh.wikipedia.org/wiki/内野謙太 "wikilink")（香港配音：[李致林](../Page/李致林.md "wikilink")）
 
 <!-- end list -->
 
@@ -326,8 +293,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 石塚 -
-    [伊藤正之](https://zh.wikipedia.org/wiki/伊藤正之 "wikilink")（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）
+  - 石塚 - [伊藤正之](https://zh.wikipedia.org/wiki/伊藤正之 "wikilink")（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）
 
 <!-- end list -->
 
@@ -341,8 +307,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 #### 第6集
 
-  - 本間實 -
-    [中村獅童](https://zh.wikipedia.org/wiki/中村獅童 "wikilink")（香港配音：[劉奕希](../Page/劉奕希.md "wikilink")）
+  - 本間實 - [中村獅童](https://zh.wikipedia.org/wiki/中村獅童 "wikilink")（香港配音：[劉奕希](../Page/劉奕希.md "wikilink")）
 
 <!-- end list -->
 
@@ -351,8 +316,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 香川修一 -
-    [眞島秀和](https://zh.wikipedia.org/wiki/眞島秀和 "wikilink")（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）
+  - 香川修一 - [眞島秀和](https://zh.wikipedia.org/wiki/眞島秀和 "wikilink")（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）
 
 <!-- end list -->
 
@@ -361,8 +325,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 松原健吉 -
-    [小木茂光](https://zh.wikipedia.org/wiki/小木茂光 "wikilink")（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）
+  - 松原健吉 - [小木茂光](https://zh.wikipedia.org/wiki/小木茂光 "wikilink")（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）
 
 <!-- end list -->
 
@@ -371,8 +334,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 香川敦子 -
-    [遊井亮子](https://zh.wikipedia.org/wiki/遊井亮子 "wikilink")（香港配音：[魏惠娥](../Page/魏惠娥.md "wikilink")）
+  - 香川敦子 - [遊井亮子](https://zh.wikipedia.org/wiki/遊井亮子 "wikilink")（香港配音：[魏惠娥](../Page/魏惠娥.md "wikilink")）
 
 <!-- end list -->
 
@@ -381,8 +343,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 島田昭雄 -
-    [菊池均也](https://zh.wikipedia.org/wiki/菊池均也 "wikilink")（香港配音：[劉昭文](../Page/劉昭文.md "wikilink")）
+  - 島田昭雄 - [菊池均也](https://zh.wikipedia.org/wiki/菊池均也 "wikilink")（香港配音：[劉昭文](../Page/劉昭文.md "wikilink")）
 
 <!-- end list -->
 
@@ -391,8 +352,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 野口秀彦 -
-    [西岡徳馬](https://zh.wikipedia.org/wiki/西岡徳馬 "wikilink")（香港配音：[招世亮](../Page/招世亮.md "wikilink")）
+  - 野口秀彦 - [西岡徳馬](https://zh.wikipedia.org/wiki/西岡徳馬 "wikilink")（香港配音：[招世亮](../Page/招世亮.md "wikilink")）
 
 <!-- end list -->
 
@@ -401,8 +361,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 安岡仁 -
-    [植木紀世彦](https://zh.wikipedia.org/wiki/植木紀世彦 "wikilink")（香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")）
+  - 安岡仁 - [植木紀世彦](https://zh.wikipedia.org/wiki/植木紀世彦 "wikilink")（香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")）
 
 <!-- end list -->
 
@@ -415,8 +374,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 #### 第7集
 
-  - 藤川美紗子-
-    [水野美紀](../Page/水野美紀.md "wikilink")（香港配音：[劉惠雲](../Page/劉惠雲.md "wikilink")）
+  - 藤川美紗子- [水野美紀](../Page/水野美紀.md "wikilink")（香港配音：[劉惠雲](../Page/劉惠雲.md "wikilink")）
 
 <!-- end list -->
 
@@ -425,8 +383,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 澤村誠一 -
-    [大澤健](https://zh.wikipedia.org/wiki/大澤健 "wikilink")（香港配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
+  - 澤村誠一 - [大澤健](https://zh.wikipedia.org/wiki/大澤健 "wikilink")（香港配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）
 
 <!-- end list -->
 
@@ -435,8 +392,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 黑崎正義 -
-    [藤本隆宏](https://zh.wikipedia.org/wiki/藤本隆宏 "wikilink")（香港配音：[周倚天](../Page/周倚天.md "wikilink")）
+  - 黑崎正義 - [藤本隆宏](https://zh.wikipedia.org/wiki/藤本隆宏 "wikilink")（香港配音：[周倚天](../Page/周倚天.md "wikilink")）
 
 <!-- end list -->
 
@@ -445,8 +401,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 二階堂太 -
-    [榊英雄](https://zh.wikipedia.org/wiki/榊英雄 "wikilink")（香港配音：[李鎮然](../Page/李鎮然.md "wikilink")）
+  - 二階堂太 - [榊英雄](https://zh.wikipedia.org/wiki/榊英雄 "wikilink")（香港配音：[李鎮然](../Page/李鎮然.md "wikilink")）
 
 <!-- end list -->
 
@@ -455,8 +410,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 岩淵統吾郎 -
-    [田口主將](https://zh.wikipedia.org/wiki/田口主將 "wikilink")（香港配音：[黃子敬](../Page/黃子敬.md "wikilink")）
+  - 岩淵統吾郎 - [田口主將](https://zh.wikipedia.org/wiki/田口主將 "wikilink")（香港配音：[黃子敬](../Page/黃子敬.md "wikilink")）
 
 <!-- end list -->
 
@@ -465,8 +419,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 小島豐子 -
-    [大谷英子](https://zh.wikipedia.org/wiki/大谷英子 "wikilink")（香港配音：[吳羨婷](../Page/吳羨婷.md "wikilink")）
+  - 小島豐子 - [大谷英子](https://zh.wikipedia.org/wiki/大谷英子 "wikilink")（香港配音：[吳羨婷](../Page/吳羨婷.md "wikilink")）
 
 <!-- end list -->
 
@@ -475,8 +428,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 裁判長 -
-    [山上賢治](https://zh.wikipedia.org/wiki/山上賢治 "wikilink")（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
+  - 裁判長 - [山上賢治](https://zh.wikipedia.org/wiki/山上賢治 "wikilink")（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
 
 <!-- end list -->
 
@@ -489,8 +441,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 #### 第8集（完結篇）
 
-  - 關根純平 -
-    [中村蒼](../Page/中村蒼.md "wikilink")（香港配音：[張方正](../Page/張方正.md "wikilink")）（少年時期：[小山颯](https://zh.wikipedia.org/wiki/小山颯 "wikilink")；香港配音：[伍秀霞](../Page/伍秀霞.md "wikilink")）
+  - 關根純平 - [中村蒼](../Page/中村蒼.md "wikilink")（香港配音：[張方正](../Page/張方正.md "wikilink")）（少年時期：[小山颯](https://zh.wikipedia.org/wiki/小山颯 "wikilink")；香港配音：[伍秀霞](../Page/伍秀霞.md "wikilink")）
 
 <!-- end list -->
 
@@ -499,8 +450,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 高林佳菜 -
-    [佐津川愛美](https://zh.wikipedia.org/wiki/佐津川愛美 "wikilink")（少女時期：[中田舞奈](https://zh.wikipedia.org/wiki/中田舞奈 "wikilink")）（香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
+  - 高林佳菜 - [佐津川愛美](https://zh.wikipedia.org/wiki/佐津川愛美 "wikilink")（少女時期：[中田舞奈](https://zh.wikipedia.org/wiki/中田舞奈 "wikilink")）（香港配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
 
 <!-- end list -->
 
@@ -509,8 +459,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 諏訪敦志 -
-    [西村和彦](https://zh.wikipedia.org/wiki/西村和彦 "wikilink")（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）
+  - 諏訪敦志 - [西村和彦](https://zh.wikipedia.org/wiki/西村和彦 "wikilink")（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）
 
 <!-- end list -->
 
@@ -519,8 +468,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 鎌田吾一 -
-    [六平直政](https://zh.wikipedia.org/wiki/六平直政 "wikilink")（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
+  - 鎌田吾一 - [六平直政](https://zh.wikipedia.org/wiki/六平直政 "wikilink")（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
 
 <!-- end list -->
 
@@ -538,8 +486,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 杉山初子 -
-    [廣岡由里子](https://zh.wikipedia.org/wiki/廣岡由里子 "wikilink")（香港配音：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")）
+  - 杉山初子 - [廣岡由里子](https://zh.wikipedia.org/wiki/廣岡由里子 "wikilink")（香港配音：[林丹鳳](https://zh.wikipedia.org/wiki/林丹鳳 "wikilink")）
 
 <!-- end list -->
 
@@ -548,8 +495,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 小田切龍三 -
-    [芹澤名人](https://zh.wikipedia.org/wiki/芹澤名人 "wikilink")（香港配音：[張錦江](../Page/張錦江.md "wikilink")）
+  - 小田切龍三 - [芹澤名人](https://zh.wikipedia.org/wiki/芹澤名人 "wikilink")（香港配音：[張錦江](../Page/張錦江.md "wikilink")）
 
 <!-- end list -->
 
@@ -558,8 +504,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
 <!-- end list -->
 
-  - 神田民子 -
-    [伊藤麻衣子](https://zh.wikipedia.org/wiki/伊藤麻衣子 "wikilink")（香港配音：[伍秀霞](../Page/伍秀霞.md "wikilink")）
+  - 神田民子 - [伊藤麻衣子](https://zh.wikipedia.org/wiki/伊藤麻衣子 "wikilink")（香港配音：[伍秀霞](../Page/伍秀霞.md "wikilink")）
 
 <!-- end list -->
 
@@ -573,13 +518,10 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 ## 製作群
 
   - 劇本 - [蒔田光治](https://zh.wikipedia.org/wiki/蒔田光治 "wikilink")
-  - 製作人 -
-    [石丸彰彦](https://zh.wikipedia.org/wiki/石丸彰彦 "wikilink")、高橋正尚、阿部謙三
+  - 製作人 - [石丸彰彦](https://zh.wikipedia.org/wiki/石丸彰彦 "wikilink")、高橋正尚、阿部謙三
   - 音樂 - [吉川慶](https://zh.wikipedia.org/wiki/吉川慶 "wikilink")、熊井吾郎
-  - 主題曲 - The
-    -{MONSTERS}-「[-{MONSTERS}-](https://zh.wikipedia.org/wiki/MONSTERS_\(曲\) "wikilink")」
-  - 導演 -
-    [福澤克雄](https://zh.wikipedia.org/wiki/福澤克雄 "wikilink")、[平野俊一](https://zh.wikipedia.org/wiki/平野俊一 "wikilink")、大澤祐樹、[石井康晴](https://zh.wikipedia.org/wiki/石井康晴 "wikilink")
+  - 主題曲 - The -{MONSTERS}-「[-{MONSTERS}-](https://zh.wikipedia.org/wiki/MONSTERS_\(曲\) "wikilink")」
+  - 導演 - [福澤克雄](https://zh.wikipedia.org/wiki/福澤克雄 "wikilink")、[平野俊一](https://zh.wikipedia.org/wiki/平野俊一 "wikilink")、大澤祐樹、[石井康晴](https://zh.wikipedia.org/wiki/石井康晴 "wikilink")
   - 助理製作 - 森嶋正也、齊藤彩奈、毛塚俊太
   - 助理導演 - 棚澤孝義、田中健太、蘆野弘忠、豐田和真、福島宏介、佐久間晃嗣
   - 助理監製 - 棚澤孝義
@@ -592,11 +534,4 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台](../Page/TBS
 
   - [台灣緯來日本台官方網站](http://japan.videoland.com.tw/channel/monsters/index.html)
 
-[Category:2012年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年日本電視劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink")
-[Category:東寶電視劇](https://zh.wikipedia.org/wiki/Category:東寶電視劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:TBS警匪電視劇](https://zh.wikipedia.org/wiki/Category:TBS警匪電視劇 "wikilink")
-[Category:香取慎吾](https://zh.wikipedia.org/wiki/Category:香取慎吾 "wikilink")
+[Category:2012年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年日本電視劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:警視廳背景電視劇](https://zh.wikipedia.org/wiki/Category:警視廳背景電視劇 "wikilink") [Category:東寶電視劇](https://zh.wikipedia.org/wiki/Category:東寶電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:TBS警匪電視劇](https://zh.wikipedia.org/wiki/Category:TBS警匪電視劇 "wikilink") [Category:香取慎吾](https://zh.wikipedia.org/wiki/Category:香取慎吾 "wikilink")

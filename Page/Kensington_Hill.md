@@ -2,16 +2,11 @@
 
 ## 歷史
 
-Kensington
-Hill前身為在[西邊街](../Page/西邊街.md "wikilink")39-45號及[高街](../Page/高街.md "wikilink")92-98號並於1960年建成的九層高[唐樓](../Page/唐樓.md "wikilink")
-——萃華樓，先於2006年[會德豐地產](../Page/會德豐地產.md "wikilink")開始逐個單位[收購](https://zh.wikipedia.org/wiki/收購 "wikilink")，至2011年9月，其集中逾92.647%業權，並申請[強制拍賣](../Page/強制拍賣.md "wikilink")\[1\]，其後於2012年9月完成收購全部業權，而中止強拍程序\[2\]，終以3億4900萬[港元](../Page/港元.md "wikilink")完成收購整個項目\[3\]。
+Kensington Hill前身為在[西邊街](../Page/西邊街.md "wikilink")39-45號及[高街](../Page/高街.md "wikilink")92-98號並於1960年建成的九層高[唐樓](../Page/唐樓.md "wikilink") ——萃華樓，先於2006年[會德豐地產](../Page/會德豐地產.md "wikilink")開始逐個單位[收購](https://zh.wikipedia.org/wiki/收購 "wikilink")，至2011年9月，其集中逾92.647%業權，並申請[強制拍賣](../Page/強制拍賣.md "wikilink")\[1\]，其後於2012年9月完成收購全部業權，而中止強拍程序\[2\]，終以3億4900萬[港元](../Page/港元.md "wikilink")完成收購整個項目\[3\]。
 
-而樓面面積約69,000[平方呎](https://zh.wikipedia.org/wiki/平方呎 "wikilink")\[4\]，終發展為純住宅項目「Kensington
-Hill」。
+而樓面面積約69,000[平方呎](https://zh.wikipedia.org/wiki/平方呎 "wikilink")\[4\]，終發展為純住宅項目「Kensington Hill」。
 
-2018年2月23日土地註冊處資料顯示[梁鳳儀
-(企業家)以](../Page/梁鳳儀_\(企業家\).md "wikilink")9,310.1萬元成交，每呎45,482元，創下該廈成交金額及呎價新高紀錄，購入[Kensington
-Hill](../Page/Kensington_Hill.md "wikilink")35至36樓的B室複式，實用面積2,047方呎，連有214方呎天台及平台
+2018年2月23日土地註冊處資料顯示[梁鳳儀 (企業家)以](../Page/梁鳳儀_\(企業家\).md "wikilink")9,310.1萬元成交，每呎45,482元，創下該廈成交金額及呎價新高紀錄，購入[Kensington Hill](../Page/Kensington_Hill.md "wikilink")35至36樓的B室複式，實用面積2,047方呎，連有214方呎天台及平台
 
 ## 簡介
 
@@ -45,10 +40,7 @@ Hill](../Page/Kensington_Hill.md "wikilink")35至36樓的B室複式，實用面�
 
 ## 工程圖像
 
-Kensington Hill construction site.JPG|準備興建（2014年9月） Kensington Hill
-under construction in January 2015.JPG|建築中（2015年1月） Kensington Hill
-under construction in September 2015.JPG|建築中（2015年9月） Kensington
-Hill.jpg|拆棚中（2016年6月）
+Kensington Hill construction site.JPG|準備興建（2014年9月） Kensington Hill under construction in January 2015.JPG|建築中（2015年1月） Kensington Hill under construction in September 2015.JPG|建築中（2015年9月） Kensington Hill.jpg|拆棚中（2016年6月）
 
 ## 沿途[地標](../Page/地標.md "wikilink")
 
@@ -72,12 +64,9 @@ Hill.jpg|拆棚中（2016年6月）
 
 <references/>
 
-[Category:中西區單幢式住宅_(香港)](https://zh.wikipedia.org/wiki/Category:中西區單幢式住宅_\(香港\) "wikilink")
-[Category:會德豐地產(香港)物業](https://zh.wikipedia.org/wiki/Category:會德豐地產\(香港\)物業 "wikilink")
-[Category:西營盤](https://zh.wikipedia.org/wiki/Category:西營盤 "wikilink")
+[Category:中西區單幢式住宅_(香港)](https://zh.wikipedia.org/wiki/Category:中西區單幢式住宅_\(香港\) "wikilink") [Category:會德豐地產(香港)物業](https://zh.wikipedia.org/wiki/Category:會德豐地產\(香港\)物業 "wikilink") [Category:西營盤](https://zh.wikipedia.org/wiki/Category:西營盤 "wikilink")
 
 1.  [會德豐擴版圖　強拍西環舊樓](http://hk.apple.nextmedia.com/financeestate/art/20110913/15608196)
 2.  [瓏門力撐新盤銷情](http://www.singpao.com/cj/ls/201210/t20121008_392995.html)
-
 3.  [2012會德豐地產業務及財務評議](http://www.wheelockcompany.com/cwheelock/investors/2012/04%20c_Business%20and%20Financial%20Review.pdf)
 4.  [KENSINGTON最快下月開售](http://finance.now.com/news/post.php?id=93174)

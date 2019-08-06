@@ -1,12 +1,10 @@
-**DOES**（），日本三人摇滚乐队，2000年于日本[福岡组成](https://zh.wikipedia.org/wiki/福岡 "wikilink")。2006年9月签约[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下唱片厂牌Ki/oon
-Music Inc.正式出道。\[1\]2016年9月1日宣布，在该月18日起乐队将无限期停止活动。\[2\]
+**DOES**（），日本三人摇滚乐队，2000年于日本[福岡组成](https://zh.wikipedia.org/wiki/福岡 "wikilink")。2006年9月签约[日本索尼音樂娛樂](../Page/日本索尼音樂娛樂.md "wikilink")旗下唱片厂牌Ki/oon Music Inc.正式出道。\[1\]2016年9月1日宣布，在该月18日起乐队将无限期停止活动。\[2\]
 
 ## 成员
 
   - **氏原亘**（，1977年3月4日-）　
 
-:\* 本名氏原亘（うじはら
-わたる），[長崎县](https://zh.wikipedia.org/wiki/長崎县 "wikilink")[南島原市](../Page/南島原市.md "wikilink")出生。
+:\* 本名氏原亘（うじはら わたる），[長崎县](https://zh.wikipedia.org/wiki/長崎县 "wikilink")[南島原市](../Page/南島原市.md "wikilink")出生。
 
 :\* 负责歌曲的作詞、作曲。
 
@@ -14,15 +12,13 @@ Music Inc.正式出道。\[1\]2016年9月1日宣布，在该月18日起乐队将
 
   - **赤塚康志**（，1978年7月6日-）　
 
-:\* 本名（あかつか
-やすし），[宮崎县](https://zh.wikipedia.org/wiki/宮崎县 "wikilink")[西都市](../Page/西都市.md "wikilink")出生。
+:\* 本名（あかつか やすし），[宮崎县](https://zh.wikipedia.org/wiki/宮崎县 "wikilink")[西都市](../Page/西都市.md "wikilink")出生。
 
 :\* 负责乐队电贝司、和声。
 
   - **森田慶作**（，1980年8月27日-）　
 
-:\* 本名（もりた
-けーさ），[鹿儿島县](https://zh.wikipedia.org/wiki/鹿儿島县 "wikilink")[奄美市](../Page/奄美市.md "wikilink")出生。
+:\* 本名（もりた けーさ），[鹿儿島县](https://zh.wikipedia.org/wiki/鹿儿島县 "wikilink")[奄美市](../Page/奄美市.md "wikilink")出生。
 
 :\* 负责乐团鼓手、和声。
 
@@ -30,8 +26,7 @@ Music Inc.正式出道。\[1\]2016年9月1日宣布，在该月18日起乐队将
 
   - **オサム**（おさむ，1980年9月10日-）　
 
-:\*
-本名。[福岡县](https://zh.wikipedia.org/wiki/福岡县 "wikilink")[北九州市](../Page/北九州市.md "wikilink")出生。
+:\* 本名。[福岡县](https://zh.wikipedia.org/wiki/福岡县 "wikilink")[北九州市](../Page/北九州市.md "wikilink")出生。
 
 :\*负责乐队吉他、和声。The Fuzz Picks成员。
 
@@ -39,10 +34,7 @@ Music Inc.正式出道。\[1\]2016年9月1日宣布，在该月18日起乐队将
 
 ## 乐队名称由来
 
-主唱氏原亘喜欢[The
-Breeders的歌曲](https://zh.wikipedia.org/wiki/The_Breeders "wikilink")《DOE》，并很喜欢[The
-Beatles和](https://zh.wikipedia.org/wiki/The_Beatles "wikilink")[The Blue
-Hearts这两个乐队](https://zh.wikipedia.org/wiki/The_Blue_Hearts "wikilink")，而这三个乐队名都是以英文字母“S”为结尾，所以氏原亘将DOE加个S，就决定乐队名为**DOES**。\[3\]
+主唱氏原亘喜欢[The Breeders的歌曲](https://zh.wikipedia.org/wiki/The_Breeders "wikilink")《DOE》，并很喜欢[The Beatles和](https://zh.wikipedia.org/wiki/The_Beatles "wikilink")[The Blue Hearts这两个乐队](https://zh.wikipedia.org/wiki/The_Blue_Hearts "wikilink")，而这三个乐队名都是以英文字母“S”为结尾，所以氏原亘将DOE加个S，就决定乐队名为**DOES**。\[3\]
 
 ## 作品
 
@@ -174,16 +166,11 @@ Hearts这两个乐队](https://zh.wikipedia.org/wiki/The_Blue_Hearts "wikilink")
 ## 外部链接
 
   - [DOES官方网站](http://www.does-net.com/)
-  - [Sony Music Records Inc. -
-    DOES官方网站](http://www.sonymusic.co.jp/Music/Arch/KS/does/)
-  - [DOES
-    官方博客](https://web.archive.org/web/20130513140846/http://6109.jp/does/)
+  - [Sony Music Records Inc. - DOES官方网站](http://www.sonymusic.co.jp/Music/Arch/KS/does/)
+  - [DOES 官方博客](https://web.archive.org/web/20130513140846/http://6109.jp/does/)
 
-[Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink")
-[Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink")
-[Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")
+[Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:日本索尼音樂娛樂旗下藝人](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂旗下藝人 "wikilink") [Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")
 
 1.
-2.  [活動休止のご報告](http://www.does-net.com/info/archive/?472293).DOES
-    OFFICIAL WEBSITE.2016-09-01.\[2016-09-01\].
+2.  [活動休止のご報告](http://www.does-net.com/info/archive/?472293).DOES OFFICIAL WEBSITE.2016-09-01.\[2016-09-01\].
 3.

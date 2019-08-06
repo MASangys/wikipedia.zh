@@ -1657,8 +1657,7 @@
   - [惡魔高校D×D](https://zh.wikipedia.org/wiki/惡魔高校D×D "wikilink")
   - [所羅門七十二柱魔神](../Page/所羅門七十二柱魔神.md "wikilink")
 
-[Category:輕小說角色列表](https://zh.wikipedia.org/wiki/Category:輕小說角色列表 "wikilink")
-[Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
+[Category:輕小說角色列表](https://zh.wikipedia.org/wiki/Category:輕小說角色列表 "wikilink") [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
 
 1.  在短篇《地獄教師阿撒塞勒》中從松田的口中得知是17歲
 2.  作者在小說第17卷中第一次透露

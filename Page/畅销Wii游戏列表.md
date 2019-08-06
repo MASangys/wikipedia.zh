@@ -1,6 +1,5 @@
 [Wii_console.png](https://zh.wikipedia.org/wiki/File:Wii_console.png "fig:Wii_console.png")\]\]
 
-
 这是一个[Wii](../Page/Wii.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")的列表。游戏的销售数量至少超过100万份。游戏按照销售数量排序。至2011年3月，共有103个Wii游戏销售超过100万份。\[1\]
 
 ## 列表
@@ -571,27 +570,17 @@
 
 </onlyinclude>
 
-  - 'a:' Bundled with a popular accessory (e.g. additional Wii-mote,
-    MotionPlus, Wii Zapper, Wii Wheel).</small>
+  - 'a:' Bundled with a popular accessory (e.g. additional Wii-mote, MotionPlus, Wii Zapper, Wii Wheel).</small>
 
-  - 'b:' Bundled with a version of the console. The white console was
-    commonly bundled with Wii Sports at launch; since the release of
-    MotionPlus, the Wii Sports bundle with either the white or black
-    console also includes Wii Sports Resort. In addition, since the
-    launch of the corresponding games, the white console has been
-    commonly bundled with Mario Kart Wii (and the Wii Wheel), and the
-    black console has been commonly bundled with New Super Mario Bros.
-    Wii.
+  - 'b:' Bundled with a version of the console. The white console was commonly bundled with Wii Sports at launch; since the release of MotionPlus, the Wii Sports bundle with either the white or black console also includes Wii Sports Resort. In addition, since the launch of the corresponding games, the white console has been commonly bundled with Mario Kart Wii (and the Wii Wheel), and the black console has been commonly bundled with New Super Mario Bros. Wii.
 
 Total Wii games sold as of June 30, 2013: 872.73 million.\[66\]
 
-Total [Virtual Console](../Page/Virtual_Console.md "wikilink") games
-sold as of December 31, 2007: over 10 million\[67\]
+Total [Virtual Console](../Page/Virtual_Console.md "wikilink") games sold as of December 31, 2007: over 10 million\[67\]
 
 ## 参考
 
-[Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink")
-[Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
+[Category:Wii遊戲](https://zh.wikipedia.org/wiki/Category:Wii遊戲 "wikilink") [Category:最暢銷電子遊戲列表](https://zh.wikipedia.org/wiki/Category:最暢銷電子遊戲列表 "wikilink")
 
 1.
 

@@ -1,5 +1,4 @@
-**Quorum**
-机制，是一种分布式系统中常用的，用来保证数据冗余和最终一致性的投票算法，其主要数学思想来源于[鸽巢原理](https://zh.wikipedia.org/wiki/鸽巢原理 "wikilink")。
+**Quorum** 机制，是一种分布式系统中常用的，用来保证数据冗余和最终一致性的投票算法，其主要数学思想来源于[鸽巢原理](https://zh.wikipedia.org/wiki/鸽巢原理 "wikilink")。
 
 ## 基于Quorum投票的冗余控制算法
 
@@ -7,16 +6,12 @@
 
 该算法可以保证同一份数据对象的多份拷贝不会被超过两个访问对象读写。
 
-算法来源于\[Gifford, 1979\]\[3\]\[1\]。
-分布式系统中的每一份数据拷贝对象都被赋予一票。每一个读操作获得的票数必须大于最小读票数（read
-quorum）（V<sub>r</sub>），每个写操作获得的票数必须大于最小写票数（write
-quorum）(V<sub>w</sub>）才能读或者写。如果系统有V票（意味着一个数据对象有V份冗余拷贝），那么最小读写票数(quorum)应满足如下限制：
+算法来源于\[Gifford, 1979\]\[3\]\[1\]。 分布式系统中的每一份数据拷贝对象都被赋予一票。每一个读操作获得的票数必须大于最小读票数（read quorum）（V<sub>r</sub>），每个写操作获得的票数必须大于最小写票数（write quorum）(V<sub>w</sub>）才能读或者写。如果系统有V票（意味着一个数据对象有V份冗余拷贝），那么最小读写票数(quorum)应满足如下限制：
 
 1.  V<sub>r</sub> + V<sub>w</sub> \> V
 2.  V<sub>w</sub> \> V/2
 
-第一条规则保证了一个数据不会被同时读写。当一个写操作请求过来的时候，它必须要获得V<sub>w</sub>个冗余拷贝的许可。而剩下的数量是V-V<sub>w</sub>
-不够V<sub>r</sub>，因此不能再有读请求过来了。同理，当读请求已经获得了V<sub>r</sub>个冗余拷贝的许可时，写请求就无法获得许可了。
+第一条规则保证了一个数据不会被同时读写。当一个写操作请求过来的时候，它必须要获得V<sub>w</sub>个冗余拷贝的许可。而剩下的数量是V-V<sub>w</sub> 不够V<sub>r</sub>，因此不能再有读请求过来了。同理，当读请求已经获得了V<sub>r</sub>个冗余拷贝的许可时，写请求就无法获得许可了。
 
 第二条规则保证了数据的串行化修改。一份数据的冗余拷贝不可能同时被两个写请求修改。
 
@@ -32,7 +27,6 @@ Quorum的读写最小票数可以用来做为系统在读、写性能方面的�
 
 <references/>
 
-[Category:投票](https://zh.wikipedia.org/wiki/Category:投票 "wikilink")
-[Category:算法](https://zh.wikipedia.org/wiki/Category:算法 "wikilink")
+[Category:投票](https://zh.wikipedia.org/wiki/Category:投票 "wikilink") [Category:算法](https://zh.wikipedia.org/wiki/Category:算法 "wikilink")
 
 1.

@@ -1,6 +1,4 @@
-《**The Next
-Moment**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳柏宇](../Page/陳柏宇.md "wikilink")的第八張大碟，於2013年3月23日推出\[1\]。當中陳柏宇於專輯創作了六首歌曲，包括專輯第一主打，以打仗比喻保護家人的《讓子彈飛》，以及非傳統形式的情歌、第二主打《夭心夭肺》。於2013年5月23日推出Deluxe
-Edition : CD + DVD版，加入五首「陳柏宇 & Friends The Next Moment 音樂會」現場演出及三首MV。
+《**The Next Moment**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[陳柏宇](../Page/陳柏宇.md "wikilink")的第八張大碟，於2013年3月23日推出\[1\]。當中陳柏宇於專輯創作了六首歌曲，包括專輯第一主打，以打仗比喻保護家人的《讓子彈飛》，以及非傳統形式的情歌、第二主打《夭心夭肺》。於2013年5月23日推出Deluxe Edition : CD + DVD版，加入五首「陳柏宇 & Friends The Next Moment 音樂會」現場演出及三首MV。
 
 ## 曲目
 
@@ -113,10 +111,6 @@ Edition : CD + DVD版，加入五首「陳柏宇 & Friends The Next Moment 音�
 
 </div>
 
-[Category:陳柏宇音樂專輯](https://zh.wikipedia.org/wiki/Category:陳柏宇音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
+[Category:陳柏宇音樂專輯](https://zh.wikipedia.org/wiki/Category:陳柏宇音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 
-1.  [陳柏宇Jason全新專輯《The Next Moment》 - Sky
-    Music](http://skymusic.com.hk/?p=37046)，2013年3月15日 (五) 00:55
-    (UTC+8)查閱
+1.  [陳柏宇Jason全新專輯《The Next Moment》 - Sky Music](http://skymusic.com.hk/?p=37046)，2013年3月15日 (五) 00:55 (UTC+8)查閱

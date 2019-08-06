@@ -1,10 +1,8 @@
-**Girls' Generation The 1st Asia Tour - Into The New
-World**是韓國女子組合[少女時代第一次個人亞洲巡迴演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。
+**Girls' Generation The 1st Asia Tour - Into The New World**是韓國女子組合[少女時代第一次個人亞洲巡迴演唱會](https://zh.wikipedia.org/wiki/少女時代 "wikilink")。
 
 ## 概述
 
-[SM娛樂](../Page/SM娛樂.md "wikilink")在2009年11月宣布舉辦這次演唱會。門票銷售從11月19日開始，當中首爾場門票更於開售後三分鐘內全部售罄。\[1\]
-演唱會演出了[少女時代的出道單曲](https://zh.wikipedia.org/wiki/少女時代 "wikilink")（《[再次重逢的世界](../Page/再次重逢的世界.md "wikilink")》）、兩張迷你專輯（《[Gee](https://zh.wikipedia.org/wiki/Gee "wikilink")》、《[Genie](https://zh.wikipedia.org/wiki/Genie "wikilink")》）及兩張專輯（《[少女時代](../Page/少女時代_\(專輯\).md "wikilink")》、《[Oh\!](../Page/Oh!_\(專輯\).md "wikilink")》）的大部分曲目。七場巡迴演唱會在三個城市舉行，以[首爾](../Page/首爾.md "wikilink")為首站拉開序幕，然後是[上海及](https://zh.wikipedia.org/wiki/上海 "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，共動員了五萬五千名粉絲前往入場。
+[SM娛樂](../Page/SM娛樂.md "wikilink")在2009年11月宣布舉辦這次演唱會。門票銷售從11月19日開始，當中首爾場門票更於開售後三分鐘內全部售罄。\[1\] 演唱會演出了[少女時代的出道單曲](https://zh.wikipedia.org/wiki/少女時代 "wikilink")（《[再次重逢的世界](../Page/再次重逢的世界.md "wikilink")》）、兩張迷你專輯（《[Gee](https://zh.wikipedia.org/wiki/Gee "wikilink")》、《[Genie](https://zh.wikipedia.org/wiki/Genie "wikilink")》）及兩張專輯（《[少女時代](../Page/少女時代_\(專輯\).md "wikilink")》、《[Oh\!](../Page/Oh!_\(專輯\).md "wikilink")》）的大部分曲目。七場巡迴演唱會在三個城市舉行，以[首爾](../Page/首爾.md "wikilink")為首站拉開序幕，然後是[上海及](https://zh.wikipedia.org/wiki/上海 "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，共動員了五萬五千名粉絲前往入場。
 
 原定於2010年7月24日在泰國曼谷舉行的演唱會，因當地發生抗議，使公演無限期延期。\[2\]
 
@@ -121,8 +119,7 @@ World**是韓國女子組合[少女時代第一次個人亞洲巡迴演唱會](h
 
 <!-- end list -->
 
-  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")
-    （[太妍](../Page/太妍.md "wikilink")、[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
+  - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink") （[太妍](../Page/太妍.md "wikilink")、[Jessica](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李順圭 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[Yuri](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀英 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
 
 <!-- end list -->
 
@@ -130,9 +127,7 @@ World**是韓國女子組合[少女時代第一次個人亞洲巡迴演唱會](h
 
 <!-- end list -->
 
-  - [SM
-    Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream
-    Maker Entertainment
+  - [SM Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")、Dream Maker Entertainment
 
 <!-- end list -->
 
@@ -163,9 +158,7 @@ World**是韓國女子組合[少女時代第一次個人亞洲巡迴演唱會](h
   -
   -
 
-[Category:2009年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2009年巡迴演唱會 "wikilink")
-[Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink")
-[Category:少女時代巡迴演唱會](https://zh.wikipedia.org/wiki/Category:少女時代巡迴演唱會 "wikilink")
+[Category:2009年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2009年巡迴演唱會 "wikilink") [Category:少女時代](https://zh.wikipedia.org/wiki/Category:少女時代 "wikilink") [Category:少女時代巡迴演唱會](https://zh.wikipedia.org/wiki/Category:少女時代巡迴演唱會 "wikilink")
 
 1.
 2.

@@ -12,160 +12,157 @@
 
 其後，官方確認製作第三季，並於2016年4月以深夜電視動畫形式於日本推出。因應資源調動，本季更換了不少製作人員，並因應前兩季的意見，在設計和佈局上作出多方面的調整。
 
-2017年1月官方透漏出今年迎接美少女戰士自1992年起至今25週年，美少女戰士25週年特設網站於昨日公開，並發表相關項目啟動的企劃。啟動後發布的第一個訊息是動畫《美少女戰士
-Crystal》第四季「死亡月亮篇」決定製作的消息。
+2017年1月官方透漏出今年迎接美少女戰士自1992年起至今25週年，美少女戰士25週年特設網站於昨日公開，並發表相關項目啟動的企劃。啟動後發布的第一個訊息是動畫《美少女戰士 Crystal》第四季「死亡月亮篇」決定製作的消息。
 
 ## 故事簡介
 
-[月野兔](../Page/月野兔.md "wikilink")是一個有點迷糊的愛哭鬼，同時也是活潑開朗的中學二年級學生。
-有一天，她與額頭上有著月牙印的黑貓露娜相遇後，竟變身成一個充滿愛與正義的水手服美少女戰士“水手月亮”！作為正義的戰士，小兔肩負一個使命，那就是跟戰士夥伴們一起找出魔幻銀水晶來保護公主。在周而復始的戰鬥中，
-他們究竟能否成功？
+[月野兔](../Page/月野兔.md "wikilink")是一個有點迷糊的愛哭鬼，同時也是活潑開朗的中學二年級學生。 有一天，她與額頭上有著月牙印的黑貓露娜相遇後，竟變身成一個充滿愛與正義的水手服美少女戰士“水手月亮”！作為正義的戰士，小兔肩負一個使命，那就是跟戰士夥伴們一起找出魔幻銀水晶來保護公主。在周而復始的戰鬥中， 他們究竟能否成功？
 
 ## 登場角色
 
-### 月亮王國
-
-#### 銀千年與地球王國成員
-
-  -
-
-<!-- end list -->
-
-  - 水手月亮（セーラームーン／Sailor Moon）
-  - 希蕾妮蒂公主（プリンセス・セレニティ／Princess Serenity）
-  - 新希蕾妮蒂皇后（ネオ‧クイーン セレニチィ／Neo Queen Serenity）
-  - 配音員：[三石琴乃](../Page/三石琴乃.md "wikilink")（日）；[楊婉潼](../Page/楊婉潼.md "wikilink")（港）；[謝佼娟](../Page/謝佼娟.md "wikilink")（台）
-
-<!-- end list -->
-
-  - [地場衛](../Page/地場衛.md "wikilink")（地場 衛／ちば まもる／Chiba Mamoru）
-
-<!-- end list -->
-
-  - 燕尾服蒙面俠（タキシード仮面／Tuxedo Mask）
-  - 安迪米歐王子（プリンス・エンディミオン／Prince Endymion）
-  - 安迪米歐國王（キング‧エンディミオン／King Endymion）
-  - 配音員：[野島健兒](../Page/野島健兒.md "wikilink")（日）；[嚴鎮華](../Page/嚴鎮華.md "wikilink")（港）；[張騰](https://zh.wikipedia.org/wiki/張騰 "wikilink")／[邱佩轝](../Page/邱佩轝.md "wikilink")(幼年)（台）
-
-<!-- end list -->
-
-  - [小小兔](../Page/豆釘兔.md "wikilink")（ちびうさ／Chibiusa）
-
-<!-- end list -->
-
-  - 黑色淑女（ブラック・レディ／Black Lady）
-  - 水手小月亮（セーラーちびムーン／Sailor Chibi Moon）
-  - 阿兔．小淑女．希蕾妮蒂（スモールレディ．セレニティ／Small Lady．Serenity）
-  - 配音員：[福圓美里](../Page/福圓美里.md "wikilink")（日）；
-    [陳姻岐](../Page/陳姻岐.md "wikilink")（港）；[李昀晴](../Page/李昀晴.md "wikilink")(小小兔)／[黃玉奇](https://zh.wikipedia.org/wiki/黃玉奇 "wikilink")(黑色淑女)（台）
-
-#### 太陽系戰士
-
-  - [水野亞美](../Page/水野亞美.md "wikilink")（水野亜美／みずの あみ／Mizuno Ami）
-
-<!-- end list -->
-
-  - 水手水星（セーラーマーキュリー／Sailor Mercury）
-  - 配音員：[金元壽子](../Page/金元壽子.md "wikilink")（日）；[朱婉雯](https://zh.wikipedia.org/wiki/朱婉雯 "wikilink")（港）；[黃玉奇](https://zh.wikipedia.org/wiki/黃玉奇 "wikilink")（台）
-
-<!-- end list -->
-
-  - [火野麗](https://zh.wikipedia.org/wiki/火野麗 "wikilink")（火野レイ／ひの レイ／Hino
-    Rei）
-
-<!-- end list -->
-
-  - 水手火星（セーラーマーズ／Sailor Mars）
-  - 配音員：[佐藤利奈](../Page/佐藤利奈.md "wikilink")（日）；[黃紫嫻](https://zh.wikipedia.org/wiki/黃紫嫻 "wikilink")（港）；[連思宇](../Page/連思宇.md "wikilink")（台）
-
-<!-- end list -->
-
-  - [木野真琴](../Page/木野真琴.md "wikilink")（木野まこと／きの まこと／Kino Makoto）
-
-<!-- end list -->
-
-  - 水手木星（セーラージュピター／Sailor Jupiter）
-  - 配音員：[小清水亞美](../Page/小清水亞美.md "wikilink")（日）；[石梓晴](../Page/石梓晴.md "wikilink")（港）；[張雅婕](../Page/張雅婕.md "wikilink")（台）
-
-<!-- end list -->
-
-  - [愛野美奈子](https://zh.wikipedia.org/wiki/愛野美奈子 "wikilink")（愛野美奈子／あいの
-    みなこ／Aino Minako）
-
-<!-- end list -->
-
-  - 水手金星（セーラーヴィーナス／Sailor Venus／セーラーV）
-  - 配音員：[伊藤靜](../Page/伊藤靜.md "wikilink")（日）；[劉曉樺](../Page/劉曉樺.md "wikilink")（港）；[李昀晴](../Page/李昀晴.md "wikilink")（台）
-
-#### 月之王國成員
-
-  - 希蕾妮蒂女王（クイーン．セレニティ／Queen Serenity）
-
-<!-- end list -->
-
-  - 配音員：[小山茉美](../Page/小山茉美.md "wikilink")（日）；待查（港）；[謝佼娟](../Page/謝佼娟.md "wikilink")（台）
-
-<!-- end list -->
-
-  - [露娜](https://zh.wikipedia.org/wiki/露娜 "wikilink")（ルナ／Luna）
-
-<!-- end list -->
-
-  - 配音員：[廣橋涼](../Page/廣橋涼.md "wikilink")（日）；[黃鳳英](../Page/黃鳳英.md "wikilink")（港）；[連思宇](../Page/連思宇.md "wikilink")（台）
-
-<!-- end list -->
-
-  - [阿提密斯](https://zh.wikipedia.org/wiki/阿提密斯 "wikilink")（アルテミス／Artemis）
-
-<!-- end list -->
-
-  - 配音員：大林洋平（日）；[黃龍傑](../Page/黃龍傑.md "wikilink")（港）；[吳愷笛](https://zh.wikipedia.org/wiki/吳愷笛 "wikilink")（台）
-
-<!-- end list -->
-
-  - [黛安娜](https://zh.wikipedia.org/wiki/黛安娜 "wikilink")（ダイアナ／Diana）
-
-<!-- end list -->
-
-  - 配音員：[中川翔子](../Page/中川翔子.md "wikilink")（日）；[陳凱婷](../Page/陳凱婷.md "wikilink")（港）；[黃玉奇](https://zh.wikipedia.org/wiki/黃玉奇 "wikilink")（台）
-
-#### 外太陽系戰士
-
-  - [天王遙](../Page/天王遙.md "wikilink")（天王はるか／てんおう はるか／Tenoh Haruka）
-
-<!-- end list -->
-
-  - 水手天王星（セーラーウラヌス／Sailor Uranus）
-  - 配音員：[皆川純子](../Page/皆川純子.md "wikilink")（日）；[羅婉楓](../Page/羅婉楓.md "wikilink")（港）；[邱佩轝](../Page/邱佩轝.md "wikilink")（台）
-
-<!-- end list -->
-
-  - [海王滿](https://zh.wikipedia.org/wiki/海王滿 "wikilink")（海王みちる／かいおう
-    みちる／Kaioh Michiru）
-
-<!-- end list -->
-
-  - 水手海王星（セーラーネプチューン／Sailor Neptune）
-  - 配音員：[大原沙耶香](../Page/大原沙耶香.md "wikilink")（日）；[謝穎茵](../Page/謝穎茵.md "wikilink")（港）；[李昀晴](../Page/李昀晴.md "wikilink")（台）
-
-<!-- end list -->
-
-  - [冥王剎那](https://zh.wikipedia.org/wiki/冥王剎那 "wikilink")（冥王せつな／めいおう
-    せつな／Meioh Setsuna）
-
-<!-- end list -->
-
-  - 水手冥王星（セーラープルート／Sailor Pluto）
-  - 配音員：[前田愛](https://zh.wikipedia.org/wiki/前田愛_\(配音員\) "wikilink")（日）；冼詠儀（港）；[連思宇](../Page/連思宇.md "wikilink")（台）
-
-<!-- end list -->
-
-  - [土萌螢](../Page/土萌螢.md "wikilink")（土萠ほたる／ともえ ほたる／Tomoe Hotaru）
-
-<!-- end list -->
-
-  - 水手土星（セーラーサターン／Sailor Saturn）
-  - 配音員：[藤井幸代](../Page/藤井幸代.md "wikilink")（日）；[姜嘉蕾](../Page/姜嘉蕾.md "wikilink")（港）；[張雅婕](../Page/張雅婕.md "wikilink")（台）
+<table style="width:45%;">
+<colgroup>
+<col style="width: 15%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>角色</p></th>
+<th><p>日語配音</p></th>
+<th><p>粵語配音</p></th>
+<th><p>台語配音</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong><a href="../Page/月野兔.md" title="wikilink">月野兔</a></strong><br />
+（月野うさぎ Tsukino Usagi）<br />
+Sailor Moon（セーラームーン）<br />
+倩妮迪公主（プリンセス・セレニティ Princess Serenity）<br />
+新倩妮迪女王（ネオ‧クイーン セレニチィ Neo Queen Serenity）</p></td>
+<td><p><a href="../Page/三石琴乃.md" title="wikilink">三石琴乃</a></p></td>
+<td><p><a href="../Page/楊婉潼.md" title="wikilink">楊婉潼</a></p></td>
+<td><p><a href="../Page/謝佼娟.md" title="wikilink">謝佼娟</a></p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/地場衛.md" title="wikilink">地場衛</a></strong><br />
+（ちば まもる Chiba Mamoru）<br />
+禮服蒙面俠（タキシード仮面 Tuxedo Mask）<br />
+安迪美奧王子（プリンス・エンディミオン Prince Endymion）<br />
+安迪美奧國王（キング‧エンディミオン King Endymion）</p></td>
+<td><p><a href="../Page/野島健兒.md" title="wikilink">野島健兒</a></p></td>
+<td><p><a href="../Page/嚴鎮華.md" title="wikilink">嚴鎮華</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張騰" title="wikilink">張騰</a><br />
+<a href="../Page/邱佩轝.md" title="wikilink">邱佩轝</a>（幼年）</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="../Page/豆釘兔.md" title="wikilink">豆釘兔</a></strong><br />
+（ちびうさ Chibiusa）<br />
+Black Lady（ブラック・レディ）<br />
+Sailor Chibi Moon（セーラーちびムーン）<br />
+阿兔．小淑女．倩妮迪（スモールレディ．セレニティ Small Lady Serenity）</p></td>
+<td><p><a href="../Page/福圓美里.md" title="wikilink">福圓美里</a></p></td>
+<td><p><a href="../Page/陳姻岐.md" title="wikilink">陳姻岐</a></p></td>
+<td><p><a href="../Page/李昀晴.md" title="wikilink">李昀晴</a>（小小兔）<br />
+<a href="https://zh.wikipedia.org/wiki/黃玉奇" title="wikilink">黃玉奇</a>（黑色淑女）</p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/水野亞美.md" title="wikilink">水野亞美</a></strong><br />
+（水野亜美／みずの あみ／Mizuno Ami）<br />
+Sailor Mercury（セーラーマーキュリー）</p></td>
+<td><p><a href="../Page/金元壽子.md" title="wikilink">金元壽子</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朱婉雯" title="wikilink">朱婉雯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃玉奇" title="wikilink">黃玉奇</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/火野麗" title="wikilink">火野麗</a></strong><br />
+（火野レイ／ひの レイ／Hino Rei）<br />
+Sailor Mars（セーラーマーズ）</p></td>
+<td><p><a href="../Page/佐藤利奈.md" title="wikilink">佐藤利奈</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃紫嫻" title="wikilink">黃紫嫻</a></p></td>
+<td><p><a href="../Page/連思宇.md" title="wikilink">連思宇</a></p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/木野真琴.md" title="wikilink">木野真琴</a></strong><br />
+（木野まこと／きの まこと／Kino Makoto）<br />
+Sailor Jupiter（セーラージュピター）<br />
+</p></td>
+<td><p><a href="../Page/小清水亞美.md" title="wikilink">小清水亞美</a></p></td>
+<td><p><a href="../Page/石梓晴.md" title="wikilink">石梓晴</a></p></td>
+<td><p><a href="../Page/張雅婕.md" title="wikilink">張雅婕</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/愛野美奈子" title="wikilink">愛野美奈子</a></strong><br />
+（愛野美奈子／あいの みなこ／Aino Minako）<br />
+Sailor Venus／Sailor V（セーラーヴィーナス／セーラーV）</p></td>
+<td><p><a href="../Page/伊藤靜.md" title="wikilink">伊藤靜</a></p></td>
+<td><p><a href="../Page/劉曉樺.md" title="wikilink">劉曉樺</a></p></td>
+<td><p><a href="../Page/李昀晴.md" title="wikilink">李昀晴</a></p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/天王遙.md" title="wikilink">天王遙</a></strong><br />
+（天王はるか／てんおう はるか／Tenoh Haruka）<br />
+Sailor Uranus（セーラーウラヌス）</p></td>
+<td><p><a href="../Page/皆川純子.md" title="wikilink">皆川純子</a></p></td>
+<td><p><a href="../Page/羅婉楓.md" title="wikilink">羅婉楓</a></p></td>
+<td><p><a href="../Page/邱佩轝.md" title="wikilink">邱佩轝</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/海王滿" title="wikilink">海王滿</a></strong><br />
+（海王みちる／かいおう みちる／Kaioh Michiru）<br />
+Sailor Neptune（セーラーネプチューン）</p></td>
+<td><p><a href="../Page/大原沙耶香.md" title="wikilink">大原沙耶香</a></p></td>
+<td><p><a href="../Page/謝穎茵.md" title="wikilink">謝穎茵</a></p></td>
+<td><p><a href="../Page/李昀晴.md" title="wikilink">李昀晴</a></p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/冥王剎那" title="wikilink">冥王剎那</a></strong><br />
+（冥王せつな／めいおう せつな／Meioh Setsuna）<br />
+Sailor Pluto（セーラープルート）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/前田愛_(配音員)" title="wikilink">前田愛</a></p></td>
+<td><p>冼詠儀</p></td>
+<td><p><a href="../Page/連思宇.md" title="wikilink">連思宇</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="../Page/土萌螢.md" title="wikilink">土萌螢</a></strong><br />
+（土萠ほたる／ともえ ほたる／Tomoe Hotaru）<br />
+Sailor Saturn（セーラーサターン）</p></td>
+<td><p><a href="../Page/藤井幸代.md" title="wikilink">藤井幸代</a></p></td>
+<td><p><a href="../Page/姜嘉蕾.md" title="wikilink">姜嘉蕾</a></p></td>
+<td><p><a href="../Page/張雅婕.md" title="wikilink">張雅婕</a></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>倩妮迪女王</strong><br />
+（クイーン．セレニティ／Queen Serenity）</p></td>
+<td><p><a href="../Page/小山茉美.md" title="wikilink">小山茉美</a></p></td>
+<td><p>（不詳）</p></td>
+<td><p><a href="../Page/謝佼娟.md" title="wikilink">謝佼娟</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/露娜" title="wikilink">露娜</a></strong><br />
+（ルナ／Luna）</p></td>
+<td><p><a href="../Page/廣橋涼.md" title="wikilink">廣橋涼</a></p></td>
+<td><p><a href="../Page/黃鳳英.md" title="wikilink">黃鳳英</a></p></td>
+<td><p><a href="../Page/連思宇.md" title="wikilink">連思宇</a></p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/阿提密斯" title="wikilink">阿提密斯</a></strong><br />
+（アルテミス／Artemis）</p></td>
+<td><p>大林洋平</p></td>
+<td><p><a href="../Page/黃龍傑.md" title="wikilink">黃龍傑</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳愷笛" title="wikilink">吳愷笛</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/黛安娜" title="wikilink">戴安娜</a></strong><br />
+（ダイアナ／Diana）</p></td>
+<td><p><a href="../Page/中川翔子.md" title="wikilink">中川翔子</a></p></td>
+<td><p><a href="../Page/陳凱婷.md" title="wikilink">陳凱婷</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃玉奇" title="wikilink">黃玉奇</a></p></td>
+</tr>
+</tbody>
+</table>
 
 ### 月野兔的家人
 
@@ -487,8 +484,7 @@ Crystal》第四季「死亡月亮篇」決定製作的消息。
 
 <!-- end list -->
 
-  - 配音員：[高橋智秋](../Page/高橋智秋.md "wikilink")（日）;
-    [黃鳳英](../Page/黃鳳英.md "wikilink")(港)
+  - 配音員：[高橋智秋](../Page/高橋智秋.md "wikilink")（日）; [黃鳳英](../Page/黃鳳英.md "wikilink")(港)
 
 <!-- end list -->
 
@@ -512,8 +508,7 @@ Crystal》第四季「死亡月亮篇」決定製作的消息。
 
 <!-- end list -->
 
-  - 配音員：[大空直美](../Page/大空直美.md "wikilink")（日）;
-    [陳凱婷](../Page/陳凱婷.md "wikilink")(港)
+  - 配音員：[大空直美](../Page/大空直美.md "wikilink")（日）; [陳凱婷](../Page/陳凱婷.md "wikilink")(港)
 
 <!-- end list -->
 
@@ -1513,28 +1508,18 @@ Crystal》第四季「死亡月亮篇」決定製作的消息。
 
   - [NICONICO動畫官方簡體中文頻道](http://ch.nicovideo.jp/sailormoon-Simplified-Chinese)
 
-  - [《美少女戰士Crystal》
-    -台灣電視台HD官方繁體中文官網](http://www.ttv.com.tw/drama16/SailorMoon/default.asp)
+  - [《美少女戰士Crystal》 -台灣電視台HD官方繁體中文官網](http://www.ttv.com.tw/drama16/SailorMoon/default.asp)
 
   -
-  - [ViuTV
-    美少女戰士登場！神級動畫必睇原因大剖析](http://viu.tv/readtv/mei-siu-nui-jin-si-dang-cheung-san-kap-dung-wa-bit-tai-yuen-yan-daai-fau-sik)
+  - [ViuTV 美少女戰士登場！神級動畫必睇原因大剖析](http://viu.tv/readtv/mei-siu-nui-jin-si-dang-cheung-san-kap-dung-wa-bit-tai-yuen-yan-daai-fau-sik)
 
   -
   -
-[Category:美少女戰士](https://zh.wikipedia.org/wiki/Category:美少女戰士 "wikilink")
-[Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink")
-[Category:2014年日本网络动画](https://zh.wikipedia.org/wiki/Category:2014年日本网络动画 "wikilink")
-[Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink")
-[Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
-[Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
-[Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink")
+[Category:美少女戰士](https://zh.wikipedia.org/wiki/Category:美少女戰士 "wikilink") [Category:東映動畫](https://zh.wikipedia.org/wiki/Category:東映動畫 "wikilink") [Category:2014年日本网络动画](https://zh.wikipedia.org/wiki/Category:2014年日本网络动画 "wikilink") [Category:2015年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2015年日本電視動畫 "wikilink") [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink") [Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink") [Category:台視外購動畫](https://zh.wikipedia.org/wiki/Category:台視外購動畫 "wikilink")
 
 1.
 2.
 3.
 4.
-5.  [Super Girls
-    主唱《美少女戰士CRYSTAL》主題曲OP](https://www.facebook.com/ViuTV.hk/videos/1628521407403274/)
-6.  [Super Girls
-    主唱《美少女戰士CRYSTAL》主題曲MV](https://www.facebook.com/ViuTV.hk/videos/1648216398767108/)
+5.  [Super Girls 主唱《美少女戰士CRYSTAL》主題曲OP](https://www.facebook.com/ViuTV.hk/videos/1628521407403274/)
+6.  [Super Girls 主唱《美少女戰士CRYSTAL》主題曲MV](https://www.facebook.com/ViuTV.hk/videos/1648216398767108/)

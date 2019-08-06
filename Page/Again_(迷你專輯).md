@@ -1,6 +1,4 @@
-《**Again**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的第五張韓語迷你專輯](https://zh.wikipedia.org/wiki/T-ara "wikilink")（雖稱為第八張），由[Core
-Contents
-Media於](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")2013年10月10日發佈。
+《**Again**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的第五張韓語迷你專輯](https://zh.wikipedia.org/wiki/T-ara "wikilink")（雖稱為第八張），由[Core Contents Media於](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")2013年10月10日發佈。
 
 2013年12月4日推出重新包裝的第八張迷你專輯《Again 1977》。
 
@@ -10,9 +8,7 @@ Media於](https://zh.wikipedia.org/wiki/Core_Contents_Media "wikilink")2013年10
 
 9月15日，Core Contents Media公佈T-ara將於10月10日回歸\[1\]。
 
-10月6日，決定以雙主打曲回歸，包括〈Number 9〉及〈I Know The
-Feeling〉，於10月10日數碼發佈專輯\[2\]\[3\]。緊隨專輯的發佈，主打曲〈Number
-9〉於幾個實時排行榜排行第一\[4\]。
+10月6日，決定以雙主打曲回歸，包括〈Number 9〉及〈I Know The Feeling〉，於10月10日數碼發佈專輯\[2\]\[3\]。緊隨專輯的發佈，主打曲〈Number 9〉於幾個實時排行榜排行第一\[4\]。
 
 ## 曲目列表
 
@@ -28,11 +24,9 @@ Feeling〉，於10月10日數碼發佈專輯\[2\]\[3\]。緊隨專輯的發佈�
 
 2013年12月3日，CCM公司公布了〈1977 Do you Know me?〉和〈Do you Know me?〉的音樂錄影帶與音源。
 
-2013年12月4日，發行《Again 1977》專輯，並T-ara在[M\!
-Countdown舉行了首場專輯回歸活動](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。
+2013年12月4日，發行《Again 1977》專輯，並T-ara在[M\! Countdown舉行了首場專輯回歸活動](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。
 
-2013年12月14日，發行《T-ara Winter》數位專輯，收錄之前隱藏的曲目〈Hide and seek〉及〈Hide and seek
-(Winter Version)〉。
+2013年12月14日，發行《T-ara Winter》數位專輯，收錄之前隱藏的曲目〈Hide and seek〉及〈Hide and seek (Winter Version)〉。
 
 ## 排行
 
@@ -190,8 +184,7 @@ Countdown舉行了首場專輯回歸活動](https://zh.wikipedia.org/wiki/M!_Cou
 
 ## 參考資料
 
-[Category:T-ara音樂專輯](https://zh.wikipedia.org/wiki/Category:T-ara音樂專輯 "wikilink")
-[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink")
+[Category:T-ara音樂專輯](https://zh.wikipedia.org/wiki/Category:T-ara音樂專輯 "wikilink") [Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink")
 
 1.
 

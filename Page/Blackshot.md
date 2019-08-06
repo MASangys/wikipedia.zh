@@ -1,5 +1,4 @@
-《**Blackshot**》是一款由Vertigo
-Games製作的多人線上[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")。此遊戲在2009年6月18日發行。
+《**Blackshot**》是一款由Vertigo Games製作的多人線上[第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")。此遊戲在2009年6月18日發行。
 
 ## 遊戲模式
 
@@ -28,7 +27,4 @@ Games製作的多人線上[第一人稱射擊遊戲](https://zh.wikipedia.org/wi
 ## 外部連結
 
   -
-[Category:第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:第一人稱射擊遊戲 "wikilink")
-[Category:2009年電子遊戲](https://zh.wikipedia.org/wiki/Category:2009年電子遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink")
+[Category:第一人稱射擊遊戲](https://zh.wikipedia.org/wiki/Category:第一人稱射擊遊戲 "wikilink") [Category:2009年電子遊戲](https://zh.wikipedia.org/wiki/Category:2009年電子遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:多人在线游戏](https://zh.wikipedia.org/wiki/Category:多人在线游戏 "wikilink")

@@ -1,7 +1,4 @@
-《**GO FOR
-IT\!\!**》是[日本](../Page/日本.md "wikilink")的女歌手[西野加奈的第](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")18張單曲，在2012年7月25日由[SME
-Records
-Inc.發售](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
+《**GO FOR IT\!\!**》是[日本](../Page/日本.md "wikilink")的女歌手[西野加奈的第](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")18張單曲，在2012年7月25日由[SME Records Inc.發售](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
 
 ## 概要
 
@@ -20,8 +17,7 @@ Inc.發售](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
 1.  **GO FOR IT\!\!**
     （作詞：Kana Nishino / 作曲：FAST LANE）
 2.  **TALK TO ME**
-    （作詞：Kana Nishino / 作曲：DJ Mass、hiro:n、Kyoko Osako　編曲：DJ
-    Mass、Toshihiro Takita　コーラスアレンジ：Tomoyuki Ogawa）
+    （作詞：Kana Nishino / 作曲：DJ Mass、hiro:n、Kyoko Osako　編曲：DJ Mass、Toshihiro Takita　コーラスアレンジ：Tomoyuki Ogawa）
 3.  **SUMMER TIME**
     （作詞：Kana Nishino / 作曲：SKY BEATZ、Jeff Miyahara、KGB、GJW）
 
@@ -31,7 +27,4 @@ Inc.發售](https://zh.wikipedia.org/wiki/SME_Records_Inc. "wikilink")。
 
 [分類:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/分類:NHK紅白歌合戰演唱歌曲 "wikilink")
 
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
-[Category:西野加奈歌曲](https://zh.wikipedia.org/wiki/Category:西野加奈歌曲 "wikilink")
-[Category:2012年RIAJ付費音樂下載榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年RIAJ付費音樂下載榜冠軍歌曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
+[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink") [Category:西野加奈歌曲](https://zh.wikipedia.org/wiki/Category:西野加奈歌曲 "wikilink") [Category:2012年RIAJ付費音樂下載榜冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2012年RIAJ付費音樂下載榜冠軍歌曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")

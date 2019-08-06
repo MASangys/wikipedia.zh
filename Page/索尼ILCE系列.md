@@ -1,20 +1,14 @@
 **索尼ILCE系列相机**是索尼推出的采用[索尼E接环](../Page/索尼E接环.md "wikilink")的[无反光镜可换镜头数码相机产品](../Page/無反光鏡可換鏡頭相機.md "wikilink")，和之前的[NEX产品完全兼容](../Page/索尼NEX系列.md "wikilink")，但是采用全新的命名方式。在中国大陆继续使用“微单™”为商标\[1\]。
 
-缩写 "ILCE" 代表“**I**nterchangeable **L**ens **C**amera with
-E-mount”（采用E卡口的可交换镜头相机），取代之前使用的"NEX"；而"ILCE"也会取代[SONY
-α中的](https://zh.wikipedia.org/wiki/Sony_α "wikilink")"DSLR"和"[SLT](https://zh.wikipedia.org/wiki/SLT "wikilink")"。\[2\]
+缩写 "ILCE" 代表“**I**nterchangeable **L**ens **C**amera with E-mount”（采用E卡口的可交换镜头相机），取代之前使用的"NEX"；而"ILCE"也会取代[SONY α中的](https://zh.wikipedia.org/wiki/Sony_α "wikilink")"DSLR"和"[SLT](https://zh.wikipedia.org/wiki/SLT "wikilink")"。\[2\]
 
 ## 概述
 
 索尼公司于2010年推出[E卡口系统](../Page/索尼E接环.md "wikilink")，采用18mm法兰距，相关相机产品一直以“NEX”命名。
 
-在2013年8月，索尼推出 ILCE-3000
-型相机\[3\]，同样采用E卡口，配置有[EVF和新式](https://zh.wikipedia.org/wiki/EVF "wikilink")[MI热靴](../Page/MI热靴.md "wikilink")。接下去的10月，推出了同样采用E卡口的[全画幅机型](../Page/135底片.md "wikilink")，共有两款，分别为
-ILCE-7 与 ILCE-7R \[4\]。之后的E卡口机型，也都以ILCE命名。
+在2013年8月，索尼推出 ILCE-3000 型相机\[3\]，同样采用E卡口，配置有[EVF和新式](https://zh.wikipedia.org/wiki/EVF "wikilink")[MI热靴](../Page/MI热靴.md "wikilink")。接下去的10月，推出了同样采用E卡口的[全画幅机型](../Page/135底片.md "wikilink")，共有两款，分别为 ILCE-7 与 ILCE-7R \[4\]。之后的E卡口机型，也都以ILCE命名。
 
-在爱好者中，通常把索尼公司使用[Minolta
-AF兼容卡口的单反和](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")[单电相机称作](https://zh.wikipedia.org/wiki/SLT "wikilink")“A口机”，通常叫做“Axxx”；对应地则称微单为“E口机”，之前叫做“NEX-xx”。而弃用NEX名称启用ILCE编号后，因为如此称呼较为拗口，而机身上亦有[SONY
-α的](https://zh.wikipedia.org/wiki/SONY_α "wikilink")“α”标志，相应的机型，如ILCE-7也被称作“α7”或“A7”（希腊字母中，α的大写即为A）。
+在爱好者中，通常把索尼公司使用[Minolta AF兼容卡口的单反和](https://zh.wikipedia.org/wiki/Minolta_AF "wikilink")[单电相机称作](https://zh.wikipedia.org/wiki/SLT "wikilink")“A口机”，通常叫做“Axxx”；对应地则称微单为“E口机”，之前叫做“NEX-xx”。而弃用NEX名称启用ILCE编号后，因为如此称呼较为拗口，而机身上亦有[SONY α的](https://zh.wikipedia.org/wiki/SONY_α "wikilink")“α”标志，相应的机型，如ILCE-7也被称作“α7”或“A7”（希腊字母中，α的大写即为A）。
 
 ## ILCE系列产品
 

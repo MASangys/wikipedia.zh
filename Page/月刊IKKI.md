@@ -6,14 +6,12 @@
 
   - [I【アイ】](https://zh.wikipedia.org/wiki/I_\(いがらしみきおの漫画\) "wikilink")（[いがらしみきお](https://zh.wikipedia.org/wiki/いがらしみきお "wikilink")）
   - [俺はまだ本気出してないだけ](https://zh.wikipedia.org/wiki/俺はまだ本気出してないだけ "wikilink")（[青野春秋](https://zh.wikipedia.org/wiki/青野春秋 "wikilink")）
-  - [Golondrina
-    ゴロンドリーナ](https://zh.wikipedia.org/wiki/Golondrina_ゴロンドリーナ "wikilink")（[えすとえむ](https://zh.wikipedia.org/wiki/えすとえむ "wikilink")）
+  - [Golondrina ゴロンドリーナ](https://zh.wikipedia.org/wiki/Golondrina_ゴロンドリーナ "wikilink")（[えすとえむ](https://zh.wikipedia.org/wiki/えすとえむ "wikilink")）
   - [金魚屋古書店](https://zh.wikipedia.org/wiki/金魚屋古書店 "wikilink")（[芳崎せいむ](https://zh.wikipedia.org/wiki/芳崎せいむ "wikilink")）
   - [くま夫婦](https://zh.wikipedia.org/wiki/パンチョ近藤#くま夫婦 "wikilink")（[中央ヤンボル](https://zh.wikipedia.org/wiki/パンチョ近藤 "wikilink")）
   - [Sunny](https://zh.wikipedia.org/wiki/Sunny "wikilink")（[松本大洋](https://zh.wikipedia.org/wiki/松本大洋 "wikilink")）
   - [人類衰退之後](../Page/人類衰退之後.md "wikilink")（[見富拓哉](https://zh.wikipedia.org/wiki/見富拓哉 "wikilink")／原案：[田中ロミオ](https://zh.wikipedia.org/wiki/田中ロミオ "wikilink")、キャラクター原案：[戸部淑](https://zh.wikipedia.org/wiki/戸部淑 "wikilink")）※[根雪れい版の再コミカライズ](https://zh.wikipedia.org/wiki/根雪れい "wikilink")
-  - [JUNKIN' GAP
-    CLASH](https://zh.wikipedia.org/wiki/JUNKIN'_GAP_CLASH "wikilink")（[小林じんこ](https://zh.wikipedia.org/wiki/小林じんこ "wikilink")）
+  - [JUNKIN' GAP CLASH](https://zh.wikipedia.org/wiki/JUNKIN'_GAP_CLASH "wikilink")（[小林じんこ](https://zh.wikipedia.org/wiki/小林じんこ "wikilink")）
   - [新・鉄子の旅](https://zh.wikipedia.org/wiki/鉄子の旅 "wikilink")（[ほあしかのこ](https://zh.wikipedia.org/wiki/ほあしかのこ "wikilink")）
   - [ストラト\!](https://zh.wikipedia.org/wiki/ストラト! "wikilink")（[中川いさみ](https://zh.wikipedia.org/wiki/中川いさみ "wikilink")）
   - [すみれファンファーレ](https://zh.wikipedia.org/wiki/すみれファンファーレ "wikilink")（[松島直子](https://zh.wikipedia.org/wiki/松島直子 "wikilink")）
@@ -33,8 +31,7 @@
 ### 単行本書継続作品
 
   - [阿房列車](https://zh.wikipedia.org/wiki/阿房列車 "wikilink")（漫画：[一條裕子](https://zh.wikipedia.org/wiki/一條裕子 "wikilink")、原作：[内田百閒](https://zh.wikipedia.org/wiki/内田百間 "wikilink")）
-  - [ディエンビエンフー](https://zh.wikipedia.org/wiki/ディエンビエンフー_\(漫画\) "wikilink")
-    （[西島大介](https://zh.wikipedia.org/wiki/西島大介 "wikilink")）
+  - [ディエンビエンフー](https://zh.wikipedia.org/wiki/ディエンビエンフー_\(漫画\) "wikilink") （[西島大介](https://zh.wikipedia.org/wiki/西島大介 "wikilink")）
   - [WOMBS](https://zh.wikipedia.org/wiki/WOMBS "wikilink")（[白井弓子](https://zh.wikipedia.org/wiki/白井弓子 "wikilink")）
 
 ### 休載中作品
@@ -44,20 +41,17 @@
   - あいらぶ日和（アキタコウ）
   - 愛い奴（[小野塚カホリ](https://zh.wikipedia.org/wiki/小野塚カホリ "wikilink")）
   - アカシヤの星（[たくまる圭](https://zh.wikipedia.org/wiki/たくまる圭 "wikilink")）
-  - [安住の地](https://zh.wikipedia.org/wiki/安住の地 "wikilink")（[山本直樹](https://zh.wikipedia.org/wiki/山本直樹 "wikilink")）
-    ※増刊時代
+  - [安住の地](https://zh.wikipedia.org/wiki/安住の地 "wikilink")（[山本直樹](https://zh.wikipedia.org/wiki/山本直樹 "wikilink")） ※増刊時代
   - エンゼルマーク（[松永豊和](https://zh.wikipedia.org/wiki/松永豊和 "wikilink")） ※増刊時代
   - [乙女ウイルス](https://zh.wikipedia.org/wiki/乙女ウイルス "wikilink")（[鈴菌カリオ](https://zh.wikipedia.org/wiki/鈴菌カリオ "wikilink")）
   - 富士山（[さそうあきら](https://zh.wikipedia.org/wiki/さそうあきら "wikilink")） ※増刊時代
   - [ガギグゲキッコ](https://zh.wikipedia.org/wiki/ガギグゲキッコ "wikilink")（[土屋雄民](https://zh.wikipedia.org/wiki/土屋雄民 "wikilink")）
   - [カメオドール](https://zh.wikipedia.org/wiki/カメオドール "wikilink")（[田村てまり](https://zh.wikipedia.org/wiki/田村てまり "wikilink")）
-  - ガンズ&ブレイズ（[滝沢聖峰](https://zh.wikipedia.org/wiki/滝沢聖峰 "wikilink")）
-    ※増刊時代
+  - ガンズ&ブレイズ（[滝沢聖峰](https://zh.wikipedia.org/wiki/滝沢聖峰 "wikilink")） ※増刊時代
   - [羣青](https://zh.wikipedia.org/wiki/羣青 "wikilink")（[中村珍](https://zh.wikipedia.org/wiki/中村珍 "wikilink")）
   - 答えは3つ（とんだばやし）
   - 小町風伝（[小野塚カホリ](https://zh.wikipedia.org/wiki/小野塚カホリ "wikilink")）
-  - [さらい屋
-    五葉](https://zh.wikipedia.org/wiki/さらい屋_五葉 "wikilink")（[オノ・ナツメ](https://zh.wikipedia.org/wiki/オノ・ナツメ "wikilink")）
+  - [さらい屋 五葉](https://zh.wikipedia.org/wiki/さらい屋_五葉 "wikilink")（[オノ・ナツメ](https://zh.wikipedia.org/wiki/オノ・ナツメ "wikilink")）
   - [SARU](https://zh.wikipedia.org/wiki/SARU_\(漫画\) "wikilink")（[五十嵐大介](../Page/五十嵐大介.md "wikilink")）
   - [海獣の子供](https://zh.wikipedia.org/wiki/海獣の子供 "wikilink")（[五十嵐大介](../Page/五十嵐大介.md "wikilink")）
   - [土星マンション](https://zh.wikipedia.org/wiki/土星マンション "wikilink")（[岩岡ヒサエ](https://zh.wikipedia.org/wiki/岩岡ヒサエ "wikilink")）
@@ -71,19 +65,15 @@
   - [SWWEEET](https://zh.wikipedia.org/wiki/SWWEEET "wikilink")（[青山景](../Page/青山景.md "wikilink")）
   - スキマスキ（[宇仁田ゆみ](https://zh.wikipedia.org/wiki/宇仁田ゆみ "wikilink")）
   - [青春♂ソバット](https://zh.wikipedia.org/wiki/青春♂ソバット "wikilink")（[黒郷さかき](https://zh.wikipedia.org/wiki/黒郷さかき "wikilink")）
-  - [セクシーボイスアンドロボ](https://zh.wikipedia.org/wiki/セクシーボイスアンドロボ "wikilink")（[黒田硫黄](https://zh.wikipedia.org/wiki/黒田硫黄 "wikilink")）
-    ※増刊時代
+  - [セクシーボイスアンドロボ](https://zh.wikipedia.org/wiki/セクシーボイスアンドロボ "wikilink")（[黒田硫黄](https://zh.wikipedia.org/wiki/黒田硫黄 "wikilink")） ※増刊時代
   - [月館の殺人](https://zh.wikipedia.org/wiki/月館の殺人 "wikilink")（漫画：[佐々木倫子](https://zh.wikipedia.org/wiki/佐々木倫子 "wikilink")、原作：[綾辻行人](../Page/綾辻行人.md "wikilink")）
   - [鉄子の旅](https://zh.wikipedia.org/wiki/鉄子の旅 "wikilink")（漫画：[菊池直恵](https://zh.wikipedia.org/wiki/菊池直恵 "wikilink")、協力：[横見浩彦](https://zh.wikipedia.org/wiki/横見浩彦 "wikilink")）
   - 東京フローチャート（見ル野栄司）
   - [ナツノクモ](https://zh.wikipedia.org/wiki/ナツノクモ "wikilink")（[篠房六郎](https://zh.wikipedia.org/wiki/篠房六郎 "wikilink")）
-  - [ナンバーファイブ
-    吾](https://zh.wikipedia.org/wiki/ナンバーファイブ_吾 "wikilink")（[松本大洋](https://zh.wikipedia.org/wiki/松本大洋 "wikilink")）
-  - ねこやり-Salty
-    Cat-（[黒娜さかき](https://zh.wikipedia.org/wiki/黒娜さかき "wikilink")）
+  - [ナンバーファイブ 吾](https://zh.wikipedia.org/wiki/ナンバーファイブ_吾 "wikilink")（[松本大洋](https://zh.wikipedia.org/wiki/松本大洋 "wikilink")）
+  - ねこやり-Salty Cat-（[黒娜さかき](https://zh.wikipedia.org/wiki/黒娜さかき "wikilink")）
   - [のらみみ](https://zh.wikipedia.org/wiki/のらみみ "wikilink")（[原一雄](../Page/原一雄.md "wikilink")）
-  - 破戒
-    〜ユリ・ゲラーさん、あなたの顔はいいかげん忘れてしまいました〜（作画：山本直樹、原作：[松尾スズキ](https://zh.wikipedia.org/wiki/松尾スズキ "wikilink")）
+  - 破戒 〜ユリ・ゲラーさん、あなたの顔はいいかげん忘れてしまいました〜（作画：山本直樹、原作：[松尾スズキ](https://zh.wikipedia.org/wiki/松尾スズキ "wikilink")）
   - パン★テラ（[ゴツボ×リュウジ](https://zh.wikipedia.org/wiki/ゴツボ×リュウジ "wikilink")）
   - [必要とされなかった話](https://zh.wikipedia.org/wiki/必要とされなかった話 "wikilink")（[三友恒平](https://zh.wikipedia.org/wiki/三友恒平 "wikilink")）
   - フライングガール（[笠辺哲](https://zh.wikipedia.org/wiki/笠辺哲 "wikilink")）
@@ -110,17 +100,9 @@
 
 ## 外部連結
 
-  - [小学館コミック
-    -IKKI公式ホームページ｢イキパラ｣-](https://web.archive.org/web/20170705154441/http://www.ikki-para.com/)
+  - [小学館コミック -IKKI公式ホームページ｢イキパラ｣-](https://web.archive.org/web/20170705154441/http://www.ikki-para.com/)
   - [IKKI](https://web.archive.org/web/20100211021049/http://comics.yahoo.co.jp/magazine/ikki_0001.html)（Yahoo\!コミック）
 
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink")
-[Category:2003年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:2003年創辦的雜誌 "wikilink")
-[Category:2014年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2014年停刊的雜誌 "wikilink")
-[Category:2003年日本建立](https://zh.wikipedia.org/wiki/Category:2003年日本建立 "wikilink")
-[Category:2014年日本廢除](https://zh.wikipedia.org/wiki/Category:2014年日本廢除 "wikilink")
+[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink") [Category:2003年創辦的雜誌](https://zh.wikipedia.org/wiki/Category:2003年創辦的雜誌 "wikilink") [Category:2014年停刊的雜誌](https://zh.wikipedia.org/wiki/Category:2014年停刊的雜誌 "wikilink") [Category:2003年日本建立](https://zh.wikipedia.org/wiki/Category:2003年日本建立 "wikilink") [Category:2014年日本廢除](https://zh.wikipedia.org/wiki/Category:2014年日本廢除 "wikilink")
 
 1.

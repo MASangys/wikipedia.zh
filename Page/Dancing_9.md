@@ -1,9 +1,6 @@
-《**Dancing
-9**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")電視台推出的[韓國國內首個](https://zh.wikipedia.org/wiki/韓國 "wikilink")[舞蹈](../Page/舞蹈.md "wikilink")[真人秀節目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")，節目中不限制舞種、年齡、國籍，由導師將參賽選手分成「RED
-WINGS」與「BLUE EYE」兩隊，在共9个關卡中展開多種形式的對決與較量。
+《**Dancing 9**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")電視台推出的[韓國國內首個](https://zh.wikipedia.org/wiki/韓國 "wikilink")[舞蹈](../Page/舞蹈.md "wikilink")[真人秀節目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")，節目中不限制舞種、年齡、國籍，由導師將參賽選手分成「RED WINGS」與「BLUE EYE」兩隊，在共9个關卡中展開多種形式的對決與較量。
 
-每個關卡皆會淘汰選手，至第8關卡結束時，兩隊導師各自選出9名分別代表「RED WINGS」與「BLUE EYE」的「RED 9」與「BLUE
-9」來參加第9關卡決戰的放送舞台。
+每個關卡皆會淘汰選手，至第8關卡結束時，兩隊導師各自選出9名分別代表「RED WINGS」與「BLUE EYE」的「RED 9」與「BLUE 9」來參加第9關卡決戰的放送舞台。
 
 決戰最終獲勝的隊伍將獲得獎金1億韓元，而且將提供相當于3億韓元的超豪華舞蹈表演的制作經費；而帶領全隊獲勝的MVP（最佳舞者）不僅可以獲得獲勝隊伍的獎品，而且將會提供1億韓元幫助本人實現自己一直想要實現的願望，此為只提供給被評爲MVP舞者的、實現自己願望的特權。
 
@@ -1383,14 +1380,9 @@ WINGS」與「BLUE EYE」兩隊，在共9个關卡中展開多種形式的對決
   -
   -
   -
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink")
-[Category:音樂節目](https://zh.wikipedia.org/wiki/Category:音樂節目 "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink") [Category:音樂節目](https://zh.wikipedia.org/wiki/Category:音樂節目 "wikilink")
 
 1.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)
-2.  [댄싱9 – Daum 통합
-    검색](http://search.daum.net/search?nil_suggest=btn&w=tot&DA=SBC&q=%EB%8C%84%EC%8B%B19)
+2.  [댄싱9 – Daum 통합 검색](http://search.daum.net/search?nil_suggest=btn&w=tot&DA=SBC&q=%EB%8C%84%EC%8B%B19)
 3.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)
-4.  [댄싱9 – Daum 통합
-    검색](http://search.daum.net/search?nil_suggest=btn&w=tot&DA=SBC&q=%EB%8C%84%EC%8B%B19)
+4.  [댄싱9 – Daum 통합 검색](http://search.daum.net/search?nil_suggest=btn&w=tot&DA=SBC&q=%EB%8C%84%EC%8B%B19)

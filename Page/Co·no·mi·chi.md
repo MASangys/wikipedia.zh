@@ -10,8 +10,7 @@
 1.  **co·no·mi·chi**
     （作詞：[三浦徳子](https://zh.wikipedia.org/wiki/三浦徳子 "wikilink")、作曲：[淳君](../Page/淳君.md "wikilink")♂\[3\]、編曲：AKIRASTAR・中山信彦）
       -
-        『[守護甜心\!\!心跳](https://zh.wikipedia.org/wiki/守護甜心! "wikilink")』片尾曲（2009年2月
-        - 3月）
+        『[守護甜心\!\!心跳](https://zh.wikipedia.org/wiki/守護甜心! "wikilink")』片尾曲（2009年2月 - 3月）
 2.  **無敵の∞Power**
     （作詞：川上夏季、作曲：[オオヤギヒロオ](https://zh.wikipedia.org/wiki/オオヤギヒロオ "wikilink")、編曲：木之下慶行）
 3.  co·no·mi·chi (Instrumental)
@@ -22,16 +21,11 @@
 ## 外部連結
 
   -
-  - [レビュー: co・no・mi・chi /
-    Buono\!](https://web.archive.org/web/20160304220157/http://www.hotexpress.co.jp/review/2040/)
-    - hotexpress
+  - [レビュー: co・no・mi・chi / Buono\!](https://web.archive.org/web/20160304220157/http://www.hotexpress.co.jp/review/2040/) - hotexpress
 
   - [Buono\!官方唱片](http://buono-net.com/discography.html)
 
-[Category:Buono\!歌曲](https://zh.wikipedia.org/wiki/Category:Buono!歌曲 "wikilink")
-[Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink")
-[Category:守護甜心！](https://zh.wikipedia.org/wiki/Category:守護甜心！ "wikilink")
-[Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
+[Category:Buono\!歌曲](https://zh.wikipedia.org/wiki/Category:Buono!歌曲 "wikilink") [Category:2009年單曲](https://zh.wikipedia.org/wiki/Category:2009年單曲 "wikilink") [Category:守護甜心！](https://zh.wikipedia.org/wiki/Category:守護甜心！ "wikilink") [Category:東京電視台動畫主題曲](https://zh.wikipedia.org/wiki/Category:東京電視台動畫主題曲 "wikilink")
 
 1.
 2.

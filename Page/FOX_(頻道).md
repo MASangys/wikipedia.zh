@@ -57,5 +57,4 @@
 
   - \- FOX亞洲頻道
 
-[Category:星空傳媒](https://zh.wikipedia.org/wiki/Category:星空傳媒 "wikilink")
-[Category:福斯傳媒集團](https://zh.wikipedia.org/wiki/Category:福斯傳媒集團 "wikilink")
+[Category:星空傳媒](https://zh.wikipedia.org/wiki/Category:星空傳媒 "wikilink") [Category:福斯傳媒集團](https://zh.wikipedia.org/wiki/Category:福斯傳媒集團 "wikilink")

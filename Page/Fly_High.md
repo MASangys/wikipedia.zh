@@ -1,14 +1,10 @@
-《**Fly
-High**》是[韓國的男子音樂組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE
-H的首張迷你專輯](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")，於2013年1月11日發行。唱片公司為[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")。
+《**Fly High**》是[韓國的男子音樂組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[INFINITE H的首張迷你專輯](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")，於2013年1月11日發行。唱片公司為[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")。
 
 ## 概要
 
   - 「Fly High」是Infinite的子團體Infinite H的第1枚迷你專輯。
   - 「Special Girl」為此專輯的主打曲目。
-  - 此專輯由Primary、Zion.T和[Dynamic
-    Duo的Gaeko等多位知名音樂人創作](../Page/Dynamic_Duo.md "wikilink")，以Hip
-    Hop為主的音樂類型。
+  - 此專輯由Primary、Zion.T和[Dynamic Duo的Gaeko等多位知名音樂人創作](../Page/Dynamic_Duo.md "wikilink")，以Hip Hop為主的音樂類型。
 
 ## 收錄內容
 
@@ -200,9 +196,7 @@ H的首張迷你專輯](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")，�
 
 ## 参考文獻
 
-[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink")
-[Category:INFINITE_H音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE_H音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2013年迷你專輯](https://zh.wikipedia.org/wiki/Category:2013年迷你專輯 "wikilink") [Category:INFINITE_H音樂專輯](https://zh.wikipedia.org/wiki/Category:INFINITE_H音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
 1.
 

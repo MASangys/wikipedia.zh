@@ -1,6 +1,4 @@
-《**ALDNOAH
-ZERO**》（，符號化為**ΛLDNOΛH.ZERO**）是2014年7月开始播放的[日本动画](../Page/日本动画.md "wikilink")作品，監督為[青木英](../Page/青木英.md "wikilink")，原案及首三話劇本為[虛淵玄](../Page/虛淵玄.md "wikilink")，動畫製作則是[A-1
-Pictures與TROYCA共同負責](../Page/A-1_Pictures.md "wikilink")。\[1\]
+《**ALDNOAH ZERO**》（，符號化為**ΛLDNOΛH.ZERO**）是2014年7月开始播放的[日本动画](../Page/日本动画.md "wikilink")作品，監督為[青木英](../Page/青木英.md "wikilink")，原案及首三話劇本為[虛淵玄](../Page/虛淵玄.md "wikilink")，動畫製作則是[A-1 Pictures與TROYCA共同負責](../Page/A-1_Pictures.md "wikilink")。\[1\]
 
 本作分为两季播出。第一季於2014年7月播放，共12話。第二季於2015年1月開始播放。
 
@@ -8,19 +6,15 @@ Pictures與TROYCA共同負責](../Page/A-1_Pictures.md "wikilink")。\[1\]
 
 動畫監督青木英表示，本作是以「王道」為目標來製作。故事主角有三人：地球方的界塚伊奈帆、火星方的斯雷因·特洛耶特，以及處在中心點的婭賽蘭·沃斯·艾露西亞，將以這三人的視點構築一齣群像劇。
 
-片頭曲最後一幕出現的英文「*Let justice be done, though the heavens fall.*」，是拉丁文「*Fiat
-justitia ruat caelum*」的翻譯，意為「縱使天塌下來也要伸張正義」，表明正義不容質疑、不容扭曲，但也象徵着正義的無情。
+片頭曲最後一幕出現的英文「*Let justice be done, though the heavens fall.*」，是拉丁文「*Fiat justitia ruat caelum*」的翻譯，意為「縱使天塌下來也要伸張正義」，表明正義不容質疑、不容扭曲，但也象徵着正義的無情。
 
 ## 劇情
 
 ### 序章
 
-1972年，[阿波罗17号](../Page/阿波罗17号.md "wikilink")登月計畫在[月球](../Page/月球.md "wikilink")发现连接[地球](../Page/地球.md "wikilink")与[火星](../Page/火星.md "wikilink")的古代文明遺產「超空间门（）」。随后地球向火星派出了以**雷列加利亚**博士（）为首的调查团。在火星上發現古代火星文明的「Aldnoah
-(古挪亞, ald:古い,
-noah:[挪亞](../Page/挪亞.md "wikilink"))」科技。伴随着火星殖民进程與科技壟斷主張以及雷列加利亞所煽動的反地球行為，火星开拓民与地球之间的摩擦越发扩大。
+1972年，[阿波罗17号](../Page/阿波罗17号.md "wikilink")登月計畫在[月球](../Page/月球.md "wikilink")发现连接[地球](../Page/地球.md "wikilink")与[火星](../Page/火星.md "wikilink")的古代文明遺產「超空间门（）」。随后地球向火星派出了以**雷列加利亚**博士（）为首的调查团。在火星上發現古代火星文明的「Aldnoah (古挪亞, ald:古い, noah:[挪亞](../Page/挪亞.md "wikilink"))」科技。伴随着火星殖民进程與科技壟斷主張以及雷列加利亞所煽動的反地球行為，火星开拓民与地球之间的摩擦越发扩大。
 
-1985年，雷列加利亞博士在火星成立「沃斯帝國」並稱帝。1986年，地球爲對抗火星而組建聯合政府。1999年，雷列加利亞之子，第二任皇帝**基尔泽利亚**（）对地球宣战，卻在侵略期間死於因超空间门失控而摧毀月球的災難「Heaven's
-fall」；臥病的雷列加利亞再度復位。2000年，火星與地球停戰並簽署協議。
+1985年，雷列加利亞博士在火星成立「沃斯帝國」並稱帝。1986年，地球爲對抗火星而組建聯合政府。1999年，雷列加利亞之子，第二任皇帝**基尔泽利亚**（）对地球宣战，卻在侵略期間死於因超空间门失控而摧毀月球的災難「Heaven's fall」；臥病的雷列加利亞再度復位。2000年，火星與地球停戰並簽署協議。
 
 2002年，沃斯帝國的太空船實用化，火星與月球間的運輸路線誕生。部分火星騎士無視自月球軌道撤退的命令，停戰協議因而由火星方面逕自毀約。
 
@@ -32,8 +26,7 @@ fall」；臥病的雷列加利亞再度復位。2000年，火星與地球停戰
 
 在逃難期間，伊奈帆保護了其實未被捲入恐怖攻擊的婭賽蘭，並在不斷擊退來襲的火星騎士的過程中向位在俄羅斯的地球聯合本部前進。另一方面，得知婭賽蘭生還的斯雷因向雷列加利亚皇帝報告此事並要求終止戰爭，但在決心要對皇族復仇的火星騎士**扎茲巴魯姆**（）伯爵暗中作梗下，反而令皇帝正式對地球進行宣戰。之後透過斯雷因的行動了解公主生存事實的扎茲巴魯姆抹殺了同樣知道此事並想中止戰爭的庫魯提歐伯爵，並對地球聯合軍本部發動了襲擊。
 
-在決戰的最後，婭賽蘭成功停止了扎茲巴魯姆登陸城的Aldnoah
-drive，但卻被扎茲巴魯姆開槍擊中而生死未明，而目擊此場景的斯雷因則悲憤的對扎茲巴魯姆開槍將其擊倒。最後，斯雷因對打算前往婭賽蘭身邊的伊奈帆開槍命中其頭部，第一期就在伊奈帆與婭賽蘭生死不明的情況下結束了。
+在決戰的最後，婭賽蘭成功停止了扎茲巴魯姆登陸城的Aldnoah drive，但卻被扎茲巴魯姆開槍擊中而生死未明，而目擊此場景的斯雷因則悲憤的對扎茲巴魯姆開槍將其擊倒。最後，斯雷因對打算前往婭賽蘭身邊的伊奈帆開槍命中其頭部，第一期就在伊奈帆與婭賽蘭生死不明的情況下結束了。
 
 ### 第二期
 
@@ -51,9 +44,7 @@ drive，但卻被扎茲巴魯姆開槍擊中而生死未明，而目擊此場景
 
   -
     地球聯合軍的訓練用機體。似乎利用15年前落在種子島而「天堂殞落」事件受破壞的火星甲冑騎士「DEUCALION」進行逆向工程所製造的機體。機體顏色為橙色，高度為13.5米，動力來源為[燃氣渦輪發動機](../Page/燃氣渦輪發動機.md "wikilink")，而電力來源為[燃料电池](../Page/燃料电池.md "wikilink")。上一代的主力機，現時作為預備機並在高等學校的兵科訓練時使用。
-    使用武裝為75mm[半自動機砲](https://zh.wikipedia.org/wiki/半自動機砲 "wikilink")（連下掛式[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈 "wikilink")）、120mm[反器材步槍](../Page/反器材步槍.md "wikilink")、120mm[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（第六、七話中登場）、203mm[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")（第十三話中登場，由伊奈帆的花式上膛可推斷發射器板機為槓桿式，詳見[M1887](../Page/溫徹斯特M1887槓桿式霰彈槍.md "wikilink")）、75mm近戰用[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")（借用自KG-7
-    AREION）及[格鬥用](https://zh.wikipedia.org/wiki/格鬥 "wikilink")[近战刀](https://zh.wikipedia.org/wiki/近战刀 "wikilink")，武裝可與AREION相互換用。腿部的推進器有裝設用於[滑翔](../Page/滑翔.md "wikilink")飛行的大型安定翼，展開時可以作出短時間的低空飛行，在緊急情況下可以作為護盾使用。裝有彈射逃生裝置，在19话中擁有对扬陆城降落冲击波的耐受能力。另外，還可裝上外裝式“[戰術套裝](../Page/反应装甲.md "wikilink")”、“適形動力輔助系統”（Conformal
-    Power Assist，BAH-1X）及空降用等強化選裝裝備，能在機體的戰術網路中互相分享戰鬥數據。
+    使用武裝為75mm[半自動機砲](https://zh.wikipedia.org/wiki/半自動機砲 "wikilink")（連下掛式[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈 "wikilink")）、120mm[反器材步槍](../Page/反器材步槍.md "wikilink")、120mm[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（第六、七話中登場）、203mm[榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")（第十三話中登場，由伊奈帆的花式上膛可推斷發射器板機為槓桿式，詳見[M1887](../Page/溫徹斯特M1887槓桿式霰彈槍.md "wikilink")）、75mm近戰用[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")（借用自KG-7 AREION）及[格鬥用](https://zh.wikipedia.org/wiki/格鬥 "wikilink")[近战刀](https://zh.wikipedia.org/wiki/近战刀 "wikilink")，武裝可與AREION相互換用。腿部的推進器有裝設用於[滑翔](../Page/滑翔.md "wikilink")飛行的大型安定翼，展開時可以作出短時間的低空飛行，在緊急情況下可以作為護盾使用。裝有彈射逃生裝置，在19话中擁有对扬陆城降落冲击波的耐受能力。另外，還可裝上外裝式“[戰術套裝](../Page/反应装甲.md "wikilink")”、“適形動力輔助系統”（Conformal Power Assist，BAH-1X）及空降用等強化選裝裝備，能在機體的戰術網路中互相分享戰鬥數據。
     開戰後，伊奈帆為了對抗NILOKERAS而從學校中開走三架，在前往種子島的途中為了擊破ARGYRE而損失一架。因為機體重量較AREION輕的緣故，已經習慣駕駛本機的伊奈帆並未換乘AREION。
     第二期開始的機體編號為“00”，能與AREION相互換用的可在宇宙空間中行動及戰鬥的改裝版。這時的使用武裝為步槍型大口徑長管[無後座力炮](https://zh.wikipedia.org/wiki/無後座力炮 "wikilink")，並且增加了能勾住隕石碎片等物體進行擺盪、四束一組的纜繩系統；最終決戰時還在肩部裝上了大量更換式刀片和四束一組的大型展開式防彈盾。
     最終決戰中將斯雷因擊敗後，其機體進入地球軌道，而伊奈帆選擇將機體充當THARSIS的阻力傘，在回到地球時其機體幾乎全毀。
@@ -78,16 +69,14 @@ drive，但卻被扎茲巴魯姆開槍擊中而生死未明，而目擊此場景
 <!-- end list -->
 
   -
-    被收藏在[種子島](../Page/種子島.md "wikilink")隱蔽船塢內的[飛行戰艦](../Page/飛行戰艦.md "wikilink")。15年前襲擊種子島的火星甲冑騎士「DEUCALION」因「天堂殞落」事件而受破壞，地球聯合軍將其回收隱蔽起來，並拆下其Aldnoah
-    Driver，以此為動力機關開發出本艦，艦名亦照樣轉用（艦橋內刻有「DEUCALION」的金屬牌作為裝飾）。由於搭載反重力裝置，其巨大船體能在大氣圈內飛行。
+    被收藏在[種子島](../Page/種子島.md "wikilink")隱蔽船塢內的[飛行戰艦](../Page/飛行戰艦.md "wikilink")。15年前襲擊種子島的火星甲冑騎士「DEUCALION」因「天堂殞落」事件而受破壞，地球聯合軍將其回收隱蔽起來，並拆下其Aldnoah Driver，以此為動力機關開發出本艦，艦名亦照樣轉用（艦橋內刻有「DEUCALION」的金屬牌作為裝飾）。由於搭載反重力裝置，其巨大船體能在大氣圈內飛行。
     武裝為4座3連裝巨炮及複數的飛彈、24門[密集阵近程防御武器系统](https://zh.wikipedia.org/wiki/密集阵近程防御武器系统 "wikilink")，具有作為甲冑騎士的母艦的機能。
     雖然本艦成功建造，但因為始終都不能啟動Aldnoah Driver的緣故而被凍結後續的運用計畫，並半放棄的安置在種子島的隱藏船塢內。
     在第七集海神號乘員在種子島隱藏船塢避難之際，透過婭賽蘭授權Aldnoah因子讓被棄置的DEUCALION正式啟用，其後海神號的所有人員及物資均轉移至DEUCALION。
     第九話因婭賽蘭失去意識，使其Aldnoah Driver停止運轉並迫降。
     第十話婭賽蘭重啟Aldnoah Driver，使其恢復動力，成功抵達位於俄羅斯的地球聯合總部。
     第十一話於平流層空投甲冑騎士隊後被扎茲巴魯姆重創而下墬，艦長馬克芭蕾吉順勢集中引擎動力撞擊扎茲巴魯姆的登陸城後失去動力。
-    第十三話的回憶，因婭賽蘭的血液藉由界塚雪的淚水流入界塚伊奈帆的口中，使他意外獲得Aldnoah的啟動因子，並重新啟動了戰艦的Aldnoah
-    Driver。
+    第十三話的回憶，因婭賽蘭的血液藉由界塚雪的淚水流入界塚伊奈帆的口中，使他意外獲得Aldnoah的啟動因子，並重新啟動了戰艦的Aldnoah Driver。
     在攻陷登陸城的19個月後，升上宇宙前往聯合軍前線的三叉戟基地。
     第十五話攻防戰後，被地球聯合總部要求返回地表進行例行補給。
     縱使戰績豐厚，仍舊被高層因「使用的是敵方的科技而不可全盤信任的理由」編列為游擊單位，支援其他部隊。
@@ -112,8 +101,7 @@ drive，但卻被扎茲巴魯姆開槍擊中而生死未明，而目擊此場景
 
   - [90式戰車](../Page/90式戰車_\(日本\).md "wikilink")
     於第一季的第九集中正式出現。之前只出現在鞠戶大尉的片段記憶之中，在耶賀賴醫生用於治療大尉的[PTSD時使用](https://zh.wikipedia.org/wiki/PTSD "wikilink")。在15年前的種子島前去迎擊降下至那裏的DEUCALION，但砲彈都被其重力控制能力彈開。最後坦克被DEUCALION的重力控制能力拋離地面並墜落而摧毀。
-    因此大尉在前面學生的練習中向雪提及「使用75mm炮開火像是在玩玩具」可能就是源自以前指揮坦克的經驗習慣使用120mm
-    [Rh-120滑膛炮](../Page/Rh-120滑膛炮.md "wikilink")的關係。
+    因此大尉在前面學生的練習中向雪提及「使用75mm炮開火像是在玩玩具」可能就是源自以前指揮坦克的經驗習慣使用120mm [Rh-120滑膛炮](../Page/Rh-120滑膛炮.md "wikilink")的關係。
 
 <!-- end list -->
 
@@ -123,8 +111,7 @@ drive，但卻被扎茲巴魯姆開槍擊中而生死未明，而目擊此場景
 <!-- end list -->
 
   -
-    地球聯合軍的大型運輸載具，主用來運輸KG-6 SLEIPNIR和KG-7
-    AREION。於第一季在第1集中正式出現，第一季的第3集中用來引誘NILOKERAS到伊奈帆所規劃的作戰位置。第二季在第13集中由伊奈帆親自駕駛。
+    地球聯合軍的大型運輸載具，主用來運輸KG-6 SLEIPNIR和KG-7 AREION。於第一季在第1集中正式出現，第一季的第3集中用來引誘NILOKERAS到伊奈帆所規劃的作戰位置。第二季在第13集中由伊奈帆親自駕駛。
 
 <!-- end list -->
 
@@ -144,8 +131,7 @@ drive，但卻被扎茲巴魯姆開槍擊中而生死未明，而目擊此場景
 <!-- end list -->
 
   -
-    地球聯合軍的大型運輸載具，主用來運輸兩台KG-7
-    AREION的太空梭外型船艦，於第二季在第22集中正式出現，由於地球聯合軍要進行代號「月之門」行動的大規模宇宙攻防戰。
+    地球聯合軍的大型運輸載具，主用來運輸兩台KG-7 AREION的太空梭外型船艦，於第二季在第22集中正式出現，由於地球聯合軍要進行代號「月之門」行動的大規模宇宙攻防戰。
 
 ### 火星兵器
 
@@ -166,19 +152,15 @@ drive，但卻被扎茲巴魯姆開槍擊中而生死未明，而目擊此場景
 
   -
     費米安伯爵的專用機。高度為22米。裝備了6隻擁有厚裝甲的巨大手腕，費米安分別以「Botis（[布提斯](../Page/布提斯.md "wikilink")）」、「Marax（[摩拉克斯](../Page/摩拉克斯.md "wikilink")）」、「Ronove（[羅諾比](https://zh.wikipedia.org/wiki/羅諾比 "wikilink")）」、「Halphas（[哈帕斯](https://zh.wikipedia.org/wiki/哈帕斯 "wikilink")）」、「Raum（[勞姆](https://zh.wikipedia.org/wiki/勞姆 "wikilink")）」、「Vine（[拜恩](https://zh.wikipedia.org/wiki/拜恩_\(魔神\) "wikilink")）」（皆是[所羅門七十二柱魔神](../Page/所羅門七十二柱魔神.md "wikilink")、位階伯爵以上的惡魔的名字）來稱呼機體的6隻手臂，並稱其為「」。
-    6隻手腕能夠將其發射出去後以遠程操作來控制並攻擊敵人，機體本身也可變形為衝撞兵器來使用。Aldnoah
-    drive的固有能力為分子的巨大化，其6隻手在保持著鐵拳型態時因分子巨大化增加了裝甲強度以致幾乎無法破壞只能改變其行進方向，但一旦活動手指其分子就會回復原來的分子構造此時可以破壞，或是直接破壞引擎也可將其破壞。
+    6隻手腕能夠將其發射出去後以遠程操作來控制並攻擊敵人，機體本身也可變形為衝撞兵器來使用。Aldnoah drive的固有能力為分子的巨大化，其6隻手在保持著鐵拳型態時因分子巨大化增加了裝甲強度以致幾乎無法破壞只能改變其行進方向，但一旦活動手指其分子就會回復原來的分子構造此時可以破壞，或是直接破壞引擎也可將其破壞。
     其後6隻手腕被伊奈帆、斯雷因、韻子以及雪共同合作下全數遭到擊毀。其機體改變型態為衝撞兵器再次向伊奈帆等人襲來時，被隱藏於種子島的巨大飛行戰艦「杜卡利翁」用飛彈先打偏軌道再被伊奈帆、斯雷因破壞引擎，而後被杜卡利翁其碾壓，令HELLAS嚴重損害，最後被萊艾所搭乘AREION狙擊而擊破。
 
 <!-- end list -->
 
   -
-    15年前的戰爭時降下至種子島的火星製甲冑騎士。Aldnoah
-    drive的固有能力為重力控制。鞠戶稱其為15年前使自己以外的全部友軍（UFE種子島駐軍）陣亡的元兇。
+    15年前的戰爭時降下至種子島的火星製甲冑騎士。Aldnoah drive的固有能力為重力控制。鞠戶稱其為15年前使自己以外的全部友軍（UFE種子島駐軍）陣亡的元兇。
     當年為扎茲巴魯姆伯爵的未婚妻，沃蕾因子爵的專用機。
-    機體在天堂隕落（Heaven's
-    fall）後被地球聯合軍捕獲並安置於種子島的隱蔽船塢，此時機體已處於半毀狀態。為了隱瞞機體殘駭的存在，鞠戶所呈交的種子島報告遭到政府銷毀。機體頭部形狀酷似地球的甲冑騎士，但詳細不明。機體的Aldnoah
-    Driver被取下並移植至同名戰艦「DEUCALION」（名字可能是取自古希臘神話中的[杜卡利翁](https://zh.wikipedia.org/wiki/杜卡利翁 "wikilink")）。
+    機體在天堂隕落（Heaven's fall）後被地球聯合軍捕獲並安置於種子島的隱蔽船塢，此時機體已處於半毀狀態。為了隱瞞機體殘駭的存在，鞠戶所呈交的種子島報告遭到政府銷毀。機體頭部形狀酷似地球的甲冑騎士，但詳細不明。機體的Aldnoah Driver被取下並移植至同名戰艦「DEUCALION」（名字可能是取自古希臘神話中的[杜卡利翁](https://zh.wikipedia.org/wiki/杜卡利翁 "wikilink")）。
 
 <!-- end list -->
 
@@ -193,8 +175,7 @@ drive，但卻被扎茲巴魯姆開槍擊中而生死未明，而目擊此場景
     扎茲巴魯姆伯爵的黑色大型專用機。
     機體具有合體／分離結構，可分離為扎茲巴魯姆駕駛的本機及五部子機。子機中有三台具有單體飛行能力，另外二台搭載獨立戰鬥機能。而其中一台具飛行能力的子機更可作本機的飛行工具，使本機能於空中移動。
     本機的武器為肩上內藏的大量飛彈，搭載獨立戰鬥機能的子機為小型電漿體太刀，具有單體飛行能力子機則只有機槍。
-    合體後能使用複數的Aldnoah
-    drive固有能力。武器有比ARGYRE更大的電漿體太刀、與HELLAS一樣的2隻巨大手腕。防禦有跟NILOKERAS一樣的次元護盾的能量屏障，也必須由散佈在機體附近上空浮游型的監視用攝像機（鷹眼）來確保視覺情報的需要。
+    合體後能使用複數的Aldnoah drive固有能力。武器有比ARGYRE更大的電漿體太刀、與HELLAS一樣的2隻巨大手腕。防禦有跟NILOKERAS一樣的次元護盾的能量屏障，也必須由散佈在機體附近上空浮游型的監視用攝像機（鷹眼）來確保視覺情報的需要。
     此外還有變型為飛行型態、單體突入與衝出大氣層、隱蔽雷達搜索的[匿蹤以及](../Page/低可偵測性技術.md "wikilink")[竊聽](../Page/竊聽.md "wikilink")能力。
     15年前的戰爭時，與DEUCALION一同作為火星的先鋒並降下至種子島，但機體也在天堂隕落中受損。
     第十二話時被伊奈帆找出雖然擁有之前遭遇過的敵機的所持有的特殊武裝，卻也有著同樣的缺點而針對著各個擊破，最後在伊奈帆的SLEIPNIR攻擊下被重創，機體被放棄。可作本機的飛行工具的子機被斯雷因駕駛的THARSIS取用以脫離現場。
@@ -212,18 +193,15 @@ drive，但卻被扎茲巴魯姆開槍擊中而生死未明，而目擊此場景
 
   -
     亞克依姆的專用機。機體顏色為白色。
-    Aldnoah
-    drive的固有能力為「[熵](../Page/熵.md "wikilink")減」，能剝奪所有進入機體所展開的力場（半徑一公里）的物質的分子運動，其缺點是極為耗能，一旦機體跑起來，就相對就要在單位時間內擴大冰凍範圍，因此一旦被近身，就只能任人宰割。
+    Aldnoah drive的固有能力為「[熵](../Page/熵.md "wikilink")減」，能剝奪所有進入機體所展開的力場（半徑一公里）的物質的分子運動，其缺點是極為耗能，一旦機體跑起來，就相對就要在單位時間內擴大冰凍範圍，因此一旦被近身，就只能任人宰割。
     在第十三話伊奈帆以榴彈發射器連續製造爆風抵銷[熵](../Page/熵.md "wikilink")減，成功突進至近距離將之擊破，隨後釋放出所吸收的能量並產生爆炸。
 
 <!-- end list -->
 
   -
     瑪祖魯卡的專用機。機體為顏色為卡其色，雖然有腳狀底座但移動方式不明。
-    Aldnoah
-    drive的固有能力和DEUCALION同為重力控制：Aldnoah由雙臂輸出，啟動時會放出身上的六顆球狀物體並以機體為中心順時針旋轉；影響周邊重力的同時製造出龍捲風屏障。
-    第十六話於[葉門地區降落並與前往攔截的地球聯合軍戰鬥](https://zh.wikipedia.org/wiki/葉門 "wikilink")。部分士兵因為強大的重力壓迫而昏厥，剩下鞠戶大尉和雪准尉兩人持續誘導。由於僅有操縱水平重力的能力，上方不受影響的區域成為全機體的罩門。在誘導到指定地點時被準備返回地球的杜卡利翁戰艦，在伊奈帆測量修正之下自宇宙砲擊、擊斷雙臂後倒下。在地球聯合俘虜回收前被瑪祖魯卡關閉其Aldnoah
-    drive並謊稱因為強力撞擊而造成停擺（但此舉被伊奈帆的左眼識破）。
+    Aldnoah drive的固有能力和DEUCALION同為重力控制：Aldnoah由雙臂輸出，啟動時會放出身上的六顆球狀物體並以機體為中心順時針旋轉；影響周邊重力的同時製造出龍捲風屏障。
+    第十六話於[葉門地區降落並與前往攔截的地球聯合軍戰鬥](https://zh.wikipedia.org/wiki/葉門 "wikilink")。部分士兵因為強大的重力壓迫而昏厥，剩下鞠戶大尉和雪准尉兩人持續誘導。由於僅有操縱水平重力的能力，上方不受影響的區域成為全機體的罩門。在誘導到指定地點時被準備返回地球的杜卡利翁戰艦，在伊奈帆測量修正之下自宇宙砲擊、擊斷雙臂後倒下。在地球聯合俘虜回收前被瑪祖魯卡關閉其Aldnoah drive並謊稱因為強力撞擊而造成停擺（但此舉被伊奈帆的左眼識破）。
 
 <!-- end list -->
 
@@ -271,8 +249,7 @@ drive，但卻被扎茲巴魯姆開槍擊中而生死未明，而目擊此場景
 
   -
     拉斐亞的專用機，有著人馬的外型，移動迅速。
-    Aldnoah
-    drive的固有能力為光學迷彩（但比一般[光學](https://zh.wikipedia.org/wiki/光學 "wikilink")[迷彩的功能還先進](https://zh.wikipedia.org/wiki/迷彩 "wikilink")，因為連[熱成像儀沒反應出機體溫度](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")，就連[影子都沒有](https://zh.wikipedia.org/wiki/影子 "wikilink")），效果可跟與其搭載的火星軍甲冑騎士共享。手持弩弓作為武器。以光學迷彩透明化後，搭配裝置炸藥的箭矢進行奇襲為主。
+    Aldnoah drive的固有能力為光學迷彩（但比一般[光學](https://zh.wikipedia.org/wiki/光學 "wikilink")[迷彩的功能還先進](https://zh.wikipedia.org/wiki/迷彩 "wikilink")，因為連[熱成像儀沒反應出機體溫度](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")，就連[影子都沒有](https://zh.wikipedia.org/wiki/影子 "wikilink")），效果可跟與其搭載的火星軍甲冑騎士共享。手持弩弓作為武器。以光學迷彩透明化後，搭配裝置炸藥的箭矢進行奇襲為主。
     在婭賽蘭（蕾穆莉娜）宣布建國後，與澤布林、沃爾伽聯手向地球聯合軍的部隊發動攻擊並迫使其撤退，期間擊中了丟卡利翁戰艦的儀器。
     在第21話中與澤布林採用合體攻擊聯合軍，被界塚雪以長距離射擊破壞其足，使其無法再支撐ELECTRIS。與ELECTRIS分離後其機體被雪以煙幕支援下發現其行蹤並進行連續射擊擊破。
 
@@ -280,8 +257,7 @@ drive，但卻被扎茲巴魯姆開槍擊中而生死未明，而目擊此場景
 
   -
     沃爾伽的專用機。
-    Aldnoah
-    drive的固有能力為製造多個分身（是【如同[細胞分裂](https://zh.wikipedia.org/wiki/細胞分裂 "wikilink")】般複製本體，所以其分身全都是真的）。以格鬥兵器為主，再利用分身能力進攻。唯一的擊破方法是將全都分身擊破。
+    Aldnoah drive的固有能力為製造多個分身（是【如同[細胞分裂](https://zh.wikipedia.org/wiki/細胞分裂 "wikilink")】般複製本體，所以其分身全都是真的）。以格鬥兵器為主，再利用分身能力進攻。唯一的擊破方法是將全都分身擊破。
     在婭賽蘭（蕾穆莉娜）宣布建國後，與澤布林、拉斐亞聯手向地球聯合軍的部隊發動攻擊並迫使其撤退。
     在第21話中利用ORTYGIA的分身襲擊聯合軍，後來被伊奈帆判定所有機體是真身時，伊奈帆利用機械義眼連接所有甲冑騎士進行火力掃蕩下全數擊破。
 
@@ -303,54 +279,33 @@ drive，但卻被扎茲巴魯姆開槍擊中而生死未明，而目擊此場景
 <!-- end list -->
 
   -
-    沃斯帝國在十九個月的間隔中生產出的量產機體（沃斯帝國的第一世代量產機體），機動性很高但相當脆弱。可以統一授權其Aldnoah
-    drive的操縱權限。由於運輸隊出發時只有七台，操縱斯提克斯的士兵特寫也只有七位，故推測隊長機以外的機體是遙控式。在出擊時是以五機一組的編隊行動。在正式接敵前，隊長機可以和其他四台合體增加行動速度，以及造成對方雷達誤判。其裝備有自衛用機槍、導彈。
+    沃斯帝國在十九個月的間隔中生產出的量產機體（沃斯帝國的第一世代量產機體），機動性很高但相當脆弱。可以統一授權其Aldnoah drive的操縱權限。由於運輸隊出發時只有七台，操縱斯提克斯的士兵特寫也只有七位，故推測隊長機以外的機體是遙控式。在出擊時是以五機一組的編隊行動。在正式接敵前，隊長機可以和其他四台合體增加行動速度，以及造成對方雷達誤判。其裝備有自衛用機槍、導彈。
 
 ## 年代表
 
-  - 1969年
-    －[地球](../Page/地球.md "wikilink")的[阿波羅11號成功登陸](https://zh.wikipedia.org/wiki/阿波羅11號 "wikilink")[月球](../Page/月球.md "wikilink")。
-  - 1972年
-    －[地球](../Page/地球.md "wikilink")的[阿波羅17號在月球上發現了古代火星](https://zh.wikipedia.org/wiki/阿波羅17號 "wikilink")[遺跡](../Page/遺跡.md "wikilink")，並在該遺跡的未知技術中發堀出瞬間移動的裝置，人類開始進行往返[火星](../Page/火星.md "wikilink")之間的行星移動，該裝置命名為**超空間門**。
-  - 1975年
-    －[聯合國主導火星的開發計畫](https://zh.wikipedia.org/wiki/聯合國 "wikilink")，締結火星條約。加盟國連的各國同意禁止利用火星於軍事行動。美蘇[冷戰終結](https://zh.wikipedia.org/wiki/冷戰 "wikilink")，第一次[火星](../Page/火星.md "wikilink")[調查團派](https://zh.wikipedia.org/wiki/調查團 "wikilink")[遺遣團出發](https://zh.wikipedia.org/wiki/遺遣團 "wikilink")，**雷列加利亞**博士（レイレガリア博士）作為觀測隊主任也一併的同行，並在火星上發現古代火星文明所遺留的科技**Aldnoah**。
-  - 1980年
-    －火星開拓局設立，人類移民火星的開拓計畫開始，第一期開拓團民為34萬人，**雷列加利亞**博士（レイレガリア博士經長年累月的工作後成功啟動**Aldnoah**，並被**Aldnoah**認定為繼承者，把Aldnoah的啟動因子與其基因結合。地球的[聯合國認為Aldnoah應該給全](https://zh.wikipedia.org/wiki/聯合國 "wikilink")[人類](../Page/人類.md "wikilink")共享，但是火星殖民地的開拓團民卻想獨佔這門科技，雙方不斷產生衝突與摩擦。
-  - 1982年
-    －**雷列加利亞**博士（レイレガリア博士）博士在火星開拓民中開始煽動反地球，[聯合國為防止暴動擴大而直接對該武裝起義的組織進行](https://zh.wikipedia.org/wiki/聯合國 "wikilink")[武力](https://zh.wikipedia.org/wiki/武力 "wikilink")[鎮壓](https://zh.wikipedia.org/wiki/鎮壓 "wikilink")。(註:由於火星開拓局方並未提供克服惡劣環境的辦法，讓初期移民生活非常悽慘。博士實際上是對於火星開拓的困境及悲慘向地球方[陳情多次無效後走上](https://zh.wikipedia.org/wiki/陳情 "wikilink")[武裝](https://zh.wikipedia.org/wiki/武裝 "wikilink")[暴動一路](https://zh.wikipedia.org/wiki/暴動 "wikilink")。)
-  - 1983年
-    －**雷列加利亞**博士（レイレガリア博士）被依擾亂治安的罪名拘補，但暴徒化的開拓民闖進[拘留所救出博士](https://zh.wikipedia.org/wiki/拘留所 "wikilink")。反地球活動激烈化。
-  - 1985年
-    －**雷列加利亞**博士（レイレガリア博士）在火星上成立了**沃斯帝國**並發表自地球[獨立的](https://zh.wikipedia.org/wiki/獨立 "wikilink")[宣言](../Page/宣言.md "wikilink")，**雷列加利亞**博士成為沃斯帝國第一任[皇帝](../Page/皇帝.md "wikilink")，火星實際上成為[鎖國的狀態](https://zh.wikipedia.org/wiki/鎖國 "wikilink")。(註:事實上斷交非火星一方問題，對地球側來說帝國的國家正統性無定論下根本無法交涉)
-  - 1986年
-    －為防範**沃斯帝國**，地球諸國在[聯合國的主導之下成立](https://zh.wikipedia.org/wiki/聯合國 "wikilink")**地球連合**並和火星進入冷戰的狀態。(註:成立地球聯合是否是為和火星帝國交涉所走的一步?)
-  - 1991年
-    －部份的地球連合軍開始對火星進行軍事的擴充，但針對此事也發現特定的企業之間出現受[贿赂事件](https://zh.wikipedia.org/wiki/贿赂 "wikilink")，发展为了一大[疑案](https://zh.wikipedia.org/wiki/疑案 "wikilink")，征討火星的言論暫時退潮。
-  - 1996年
-    －**地球連合**的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[亞特蘭大](https://zh.wikipedia.org/wiki/亞特蘭大 "wikilink")、[聖保羅](https://zh.wikipedia.org/wiki/聖保羅_\(明尼蘇達州\) "wikilink")、[印度](../Page/印度.md "wikilink")[孟買附近發生死者約](https://zh.wikipedia.org/wiki/孟買 "wikilink")3267名的大規模的[恐怖活動](https://zh.wikipedia.org/wiki/恐怖活動 "wikilink")，自稱為火星人的[恐怖組織出現承認犯行](https://zh.wikipedia.org/wiki/恐怖組織 "wikilink")，地球反火星的言論再度高漲。
+  - 1969年 －[地球](../Page/地球.md "wikilink")的[阿波羅11號成功登陸](https://zh.wikipedia.org/wiki/阿波羅11號 "wikilink")[月球](../Page/月球.md "wikilink")。
+  - 1972年 －[地球](../Page/地球.md "wikilink")的[阿波羅17號在月球上發現了古代火星](https://zh.wikipedia.org/wiki/阿波羅17號 "wikilink")[遺跡](../Page/遺跡.md "wikilink")，並在該遺跡的未知技術中發堀出瞬間移動的裝置，人類開始進行往返[火星](../Page/火星.md "wikilink")之間的行星移動，該裝置命名為**超空間門**。
+  - 1975年 －[聯合國主導火星的開發計畫](https://zh.wikipedia.org/wiki/聯合國 "wikilink")，締結火星條約。加盟國連的各國同意禁止利用火星於軍事行動。美蘇[冷戰終結](https://zh.wikipedia.org/wiki/冷戰 "wikilink")，第一次[火星](../Page/火星.md "wikilink")[調查團派](https://zh.wikipedia.org/wiki/調查團 "wikilink")[遺遣團出發](https://zh.wikipedia.org/wiki/遺遣團 "wikilink")，**雷列加利亞**博士（レイレガリア博士）作為觀測隊主任也一併的同行，並在火星上發現古代火星文明所遺留的科技**Aldnoah**。
+  - 1980年 －火星開拓局設立，人類移民火星的開拓計畫開始，第一期開拓團民為34萬人，**雷列加利亞**博士（レイレガリア博士經長年累月的工作後成功啟動**Aldnoah**，並被**Aldnoah**認定為繼承者，把Aldnoah的啟動因子與其基因結合。地球的[聯合國認為Aldnoah應該給全](https://zh.wikipedia.org/wiki/聯合國 "wikilink")[人類](../Page/人類.md "wikilink")共享，但是火星殖民地的開拓團民卻想獨佔這門科技，雙方不斷產生衝突與摩擦。
+  - 1982年 －**雷列加利亞**博士（レイレガリア博士）博士在火星開拓民中開始煽動反地球，[聯合國為防止暴動擴大而直接對該武裝起義的組織進行](https://zh.wikipedia.org/wiki/聯合國 "wikilink")[武力](https://zh.wikipedia.org/wiki/武力 "wikilink")[鎮壓](https://zh.wikipedia.org/wiki/鎮壓 "wikilink")。(註:由於火星開拓局方並未提供克服惡劣環境的辦法，讓初期移民生活非常悽慘。博士實際上是對於火星開拓的困境及悲慘向地球方[陳情多次無效後走上](https://zh.wikipedia.org/wiki/陳情 "wikilink")[武裝](https://zh.wikipedia.org/wiki/武裝 "wikilink")[暴動一路](https://zh.wikipedia.org/wiki/暴動 "wikilink")。)
+  - 1983年 －**雷列加利亞**博士（レイレガリア博士）被依擾亂治安的罪名拘補，但暴徒化的開拓民闖進[拘留所救出博士](https://zh.wikipedia.org/wiki/拘留所 "wikilink")。反地球活動激烈化。
+  - 1985年 －**雷列加利亞**博士（レイレガリア博士）在火星上成立了**沃斯帝國**並發表自地球[獨立的](https://zh.wikipedia.org/wiki/獨立 "wikilink")[宣言](../Page/宣言.md "wikilink")，**雷列加利亞**博士成為沃斯帝國第一任[皇帝](../Page/皇帝.md "wikilink")，火星實際上成為[鎖國的狀態](https://zh.wikipedia.org/wiki/鎖國 "wikilink")。(註:事實上斷交非火星一方問題，對地球側來說帝國的國家正統性無定論下根本無法交涉)
+  - 1986年 －為防範**沃斯帝國**，地球諸國在[聯合國的主導之下成立](https://zh.wikipedia.org/wiki/聯合國 "wikilink")**地球連合**並和火星進入冷戰的狀態。(註:成立地球聯合是否是為和火星帝國交涉所走的一步?)
+  - 1991年 －部份的地球連合軍開始對火星進行軍事的擴充，但針對此事也發現特定的企業之間出現受[贿赂事件](https://zh.wikipedia.org/wiki/贿赂 "wikilink")，发展为了一大[疑案](https://zh.wikipedia.org/wiki/疑案 "wikilink")，征討火星的言論暫時退潮。
+  - 1996年 －**地球連合**的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[亞特蘭大](https://zh.wikipedia.org/wiki/亞特蘭大 "wikilink")、[聖保羅](https://zh.wikipedia.org/wiki/聖保羅_\(明尼蘇達州\) "wikilink")、[印度](../Page/印度.md "wikilink")[孟買附近發生死者約](https://zh.wikipedia.org/wiki/孟買 "wikilink")3267名的大規模的[恐怖活動](https://zh.wikipedia.org/wiki/恐怖活動 "wikilink")，自稱為火星人的[恐怖組織出現承認犯行](https://zh.wikipedia.org/wiki/恐怖組織 "wikilink")，地球反火星的言論再度高漲。
   - 1997年 －**雷列加利亞**博士因病退位，皇太子**基爾澤利亞**繼位成為沃斯帝國第二任皇帝
-  - 1999年
-    －**雷列加利亞**博士的兒子，沃斯帝國第二任皇帝**基爾澤利亞**（ギルゼリア）對地球[宣戰](../Page/宣戰.md "wikilink")，火星的**甲冑騎士（カタフラクト）**向月球的地球連合軍[軍事基地進軍](https://zh.wikipedia.org/wiki/軍事基地 "wikilink")，兩軍在戰況白熱時由於超空間門的暴走，月球被破壞，月球向地球落下的碎片引發**天堂殞落(Heaven's
-    Fall)**。**天堂殞落(Heaven's
-    Fall)**之後使雙方受到慘烈傷亡，崩壞之後的月球成為了被稱之為「碎隕石衛星帶(Satellite
-    Belt)」的岩石地帶。於月球前線指揮戰鬥的第二代皇帝也戰死。**基爾澤利亞**（ギルゼリア）死亡之後，臥病的**雷列加利亞**再度復位，兩軍一時休戰。**基爾澤利亞**的第一皇女**婭賽蘭**(アセイラム)出生。(註:開戰期間火星騎士是有降落在地球的機會，但是調查結果無在地球交戰紀錄(動畫中提到的種子島事件被隱蔽))。
-  - 2000年
-    －**地球連合**與**沃斯帝國帝國**簽立[休戰條約](https://zh.wikipedia.org/wiki/休戰 "wikilink")，條件為雙方[撤退並定立](https://zh.wikipedia.org/wiki/撤退 "wikilink")[非武裝的](https://zh.wikipedia.org/wiki/非武裝 "wikilink")[中立地帶](https://zh.wikipedia.org/wiki/中立 "wikilink")。
-  - 2002年
-    －**沃斯帝國**的[太空船實用化](https://zh.wikipedia.org/wiki/太空船 "wikilink")，[火星](../Page/火星.md "wikilink")與[月球](../Page/月球.md "wikilink")間的運輸路線誕生。部分火星騎士無視自月球軌道撤退的命令，[停戰協議因而由火星方面逕自毀約](https://zh.wikipedia.org/wiki/停戰協議 "wikilink")。
-  - 2003年 －**天堂殞落(Heaven's
-    Fall)**之後使地球政局不穩，地球連合各地方地區出現了大規模暴動，在第一次行星間戰爭後**地球連合**所開發的**甲冑騎士（カタフラクト）**参与了[暴动](https://zh.wikipedia.org/wiki/暴动 "wikilink")[镇压和](https://zh.wikipedia.org/wiki/镇压 "wikilink")[治安](https://zh.wikipedia.org/wiki/治安 "wikilink")[维护首次行動](https://zh.wikipedia.org/wiki/维护 "wikilink")。
+  - 1999年 －**雷列加利亞**博士的兒子，沃斯帝國第二任皇帝**基爾澤利亞**（ギルゼリア）對地球[宣戰](../Page/宣戰.md "wikilink")，火星的**甲冑騎士（カタフラクト）**向月球的地球連合軍[軍事基地進軍](https://zh.wikipedia.org/wiki/軍事基地 "wikilink")，兩軍在戰況白熱時由於超空間門的暴走，月球被破壞，月球向地球落下的碎片引發**天堂殞落(Heaven's Fall)**。**天堂殞落(Heaven's Fall)**之後使雙方受到慘烈傷亡，崩壞之後的月球成為了被稱之為「碎隕石衛星帶(Satellite Belt)」的岩石地帶。於月球前線指揮戰鬥的第二代皇帝也戰死。**基爾澤利亞**（ギルゼリア）死亡之後，臥病的**雷列加利亞**再度復位，兩軍一時休戰。**基爾澤利亞**的第一皇女**婭賽蘭**(アセイラム)出生。(註:開戰期間火星騎士是有降落在地球的機會，但是調查結果無在地球交戰紀錄(動畫中提到的種子島事件被隱蔽))。
+  - 2000年 －**地球連合**與**沃斯帝國帝國**簽立[休戰條約](https://zh.wikipedia.org/wiki/休戰 "wikilink")，條件為雙方[撤退並定立](https://zh.wikipedia.org/wiki/撤退 "wikilink")[非武裝的](https://zh.wikipedia.org/wiki/非武裝 "wikilink")[中立地帶](https://zh.wikipedia.org/wiki/中立 "wikilink")。
+  - 2002年 －**沃斯帝國**的[太空船實用化](https://zh.wikipedia.org/wiki/太空船 "wikilink")，[火星](../Page/火星.md "wikilink")與[月球](../Page/月球.md "wikilink")間的運輸路線誕生。部分火星騎士無視自月球軌道撤退的命令，[停戰協議因而由火星方面逕自毀約](https://zh.wikipedia.org/wiki/停戰協議 "wikilink")。
+  - 2003年 －**天堂殞落(Heaven's Fall)**之後使地球政局不穩，地球連合各地方地區出現了大規模暴動，在第一次行星間戰爭後**地球連合**所開發的**甲冑騎士（カタフラクト）**参与了[暴动](https://zh.wikipedia.org/wiki/暴动 "wikilink")[镇压和](https://zh.wikipedia.org/wiki/镇压 "wikilink")[治安](https://zh.wikipedia.org/wiki/治安 "wikilink")[维护首次行動](https://zh.wikipedia.org/wiki/维护 "wikilink")。
   - 2007年 －地球連合各國才結束了戰後的處理和維穩工作，情勢趨向安定，逐步恢復元氣。
   - 2010年 －戰後10年，地球連合各國进行了纪念仪式、展開首腦會議，地球與火星雙方陣營開始走向和平。
-  - 2014年
-    －已經休戰十餘年的**地球連合**和**沃斯帝國**的交流增加，和平交涉持續的進行。基於地球與火星可能再戰的假設，[格鬥技與](https://zh.wikipedia.org/wiki/格鬥技 "wikilink")[人形戰鬥兵器先後進入](https://zh.wikipedia.org/wiki/人形戰鬥兵器 "wikilink")[地球](../Page/地球.md "wikilink")的義務教育。
+  - 2014年 －已經休戰十餘年的**地球連合**和**沃斯帝國**的交流增加，和平交涉持續的進行。基於地球與火星可能再戰的假設，[格鬥技與](https://zh.wikipedia.org/wiki/格鬥技 "wikilink")[人形戰鬥兵器先後進入](https://zh.wikipedia.org/wiki/人形戰鬥兵器 "wikilink")[地球](../Page/地球.md "wikilink")的義務教育。
 
 ## 名詞解釋
 
   -
-    地球的統一聯合組織。是為了對抗沃斯帝國，而在1986年成立的，在90年代時地球联合军在月球部署了军事基地。政治上是以各國支部分別統治，軍事上則統一由地球聯合軍（United
-    Forces of
-    Earth，UFE）統合各國軍隊，但在2003年時UFE才有自己的甲冑騎士。在甲冑騎士的開發，特別是Aldnoah相關技術上明顯劣於沃斯帝國許多。其總部位於俄羅斯的[新西伯利亞](https://zh.wikipedia.org/wiki/新西伯利亞 "wikilink")(Novosterisk)。而地球联合军在對登陸城进攻过程中主要采用了数量攻势。
+    地球的統一聯合組織。是為了對抗沃斯帝國，而在1986年成立的，在90年代時地球联合军在月球部署了军事基地。政治上是以各國支部分別統治，軍事上則統一由地球聯合軍（United Forces of Earth，UFE）統合各國軍隊，但在2003年時UFE才有自己的甲冑騎士。在甲冑騎士的開發，特別是Aldnoah相關技術上明顯劣於沃斯帝國許多。其總部位於俄羅斯的[新西伯利亞](https://zh.wikipedia.org/wiki/新西伯利亞 "wikilink")(Novosterisk)。而地球联合军在對登陸城进攻过程中主要采用了数量攻势。
 
 <!-- end list -->
 
@@ -378,8 +333,7 @@ drive，但卻被扎茲巴魯姆開槍擊中而生死未明，而目擊此場景
 <!-- end list -->
 
   -
-    為Accuracy System Image Module for Optimum
-    Velocity的簡稱。地球聯合的甲冑騎士統一使用的[操作介面系統](https://zh.wikipedia.org/wiki/操作介面 "wikilink")。每話標題下都可見到其由幾何符號構成的標誌。
+    為Accuracy System Image Module for Optimum Velocity的簡稱。地球聯合的甲冑騎士統一使用的[操作介面系統](https://zh.wikipedia.org/wiki/操作介面 "wikilink")。每話標題下都可見到其由幾何符號構成的標誌。
     有可將甲冑騎士的操縱權限同時交給單一駕駛操作的功能。
     其名稱可能是向科幻小說泰斗[埃薩克‧艾西莫夫致敬](https://zh.wikipedia.org/wiki/艾西莫夫 "wikilink")。
 
@@ -391,15 +345,12 @@ drive，但卻被扎茲巴魯姆開槍擊中而生死未明，而目擊此場景
 <!-- end list -->
 
   -
-    於月面發現、能於地球圈和火星之間進行互相[瞬間移動](../Page/瞬間移動.md "wikilink")的古代文明遺產。1972年被阿波羅17號的調查所發現。在1999年地球與火星的戰爭中暴走，引發Heaven's
-    fall。
+    於月面發現、能於地球圈和火星之間進行互相[瞬間移動](../Page/瞬間移動.md "wikilink")的古代文明遺產。1972年被阿波羅17號的調查所發現。在1999年地球與火星的戰爭中暴走，引發Heaven's fall。
 
 <!-- end list -->
 
   - 第一次行星间战争
-    1999年，沃斯帝國二代皇帝吉尔泽利亚向地球联合宣战，向月球的地球聯合军的军事基地进军。在戰況白熱時由于超空間門的暴走，月球被破坏，月球向地球落下的碎片引发天堂殞落(Heaven's
-    Fall)，地球受灾严重，各大洲都有不同程度的损伤，其中以美洲和澳洲最為严重，地球的人口在这一年减少了50%。
-    由于沃斯帝國指挥者二代皇帝的死亡及补给线被切断，两军选择休战。而战后地球各国局势因受灾变得混乱，直到2007年，各国才结束了战后的处理和维稳工作，逐步恢复元气。由于有大量战争孤儿，大型[養護設施](https://zh.wikipedia.org/wiki/養護 "wikilink")「home」在世界各地成立，主角之一的伊奈帆在8岁前和姐姐就生活在这样的设施里。2003年，地球聯合有了应对火星甲冑騎士（Cataphract）的甲冑騎士（Cataphract），参与了暴动镇压和治安维护，在火星潜伏地球人员的报告中，曾有对地球大规模生产甲冑騎士能力构成战力的担忧。军事训练普及到高中阶段，作品中伊奈帆的镇定很大程度上是他对现场情况分析和判断的结果。
+    1999年，沃斯帝國二代皇帝吉尔泽利亚向地球联合宣战，向月球的地球聯合军的军事基地进军。在戰況白熱時由于超空間門的暴走，月球被破坏，月球向地球落下的碎片引发天堂殞落(Heaven's Fall)，地球受灾严重，各大洲都有不同程度的损伤，其中以美洲和澳洲最為严重，地球的人口在这一年减少了50%。 由于沃斯帝國指挥者二代皇帝的死亡及补给线被切断，两军选择休战。而战后地球各国局势因受灾变得混乱，直到2007年，各国才结束了战后的处理和维稳工作，逐步恢复元气。由于有大量战争孤儿，大型[養護設施](https://zh.wikipedia.org/wiki/養護 "wikilink")「home」在世界各地成立，主角之一的伊奈帆在8岁前和姐姐就生活在这样的设施里。2003年，地球聯合有了应对火星甲冑騎士（Cataphract）的甲冑騎士（Cataphract），参与了暴动镇压和治安维护，在火星潜伏地球人员的报告中，曾有对地球大规模生产甲冑騎士能力构成战力的担忧。军事训练普及到高中阶段，作品中伊奈帆的镇定很大程度上是他对现场情况分析和判断的结果。
 
 <!-- end list -->
 
@@ -421,11 +372,7 @@ drive，但卻被扎茲巴魯姆開槍擊中而生死未明，而目擊此場景
 <!-- end list -->
 
   -
-    以Aldnoah之力進行驅動的裝置。但已经停止的和新建成的Aldnoah装置似乎必须由皇族初次启动，其后获得授权的人才能再次启动。或者可以说授权是有次数限制的，一次授权可启动一台Aldnoah
-    drive，启动新的Aldnoah drive需要新的授权。要將其發動或停止都必須要有啟動因子，Aldnoah
-    drive停止的方法有两种:是在啟動因子持有者死亡或失去生命跡象的狀況下會造成機能強制停止，还有就是火星皇族具有强制停止Aldnoah
-    drive的能力。最終話時沃斯帝國(火星)以出产Aldnoah drive与地球进行贸易，一般人都能启动Aldnoah
-    drive的研究正在进行中。
+    以Aldnoah之力進行驅動的裝置。但已经停止的和新建成的Aldnoah装置似乎必须由皇族初次启动，其后获得授权的人才能再次启动。或者可以说授权是有次数限制的，一次授权可启动一台Aldnoah drive，启动新的Aldnoah drive需要新的授权。要將其發動或停止都必須要有啟動因子，Aldnoah drive停止的方法有两种:是在啟動因子持有者死亡或失去生命跡象的狀況下會造成機能強制停止，还有就是火星皇族具有强制停止Aldnoah drive的能力。最終話時沃斯帝國(火星)以出产Aldnoah drive与地球进行贸易，一般人都能启动Aldnoah drive的研究正在进行中。
 
 <!-- end list -->
 
@@ -465,17 +412,14 @@ drive，但卻被扎茲巴魯姆開槍擊中而生死未明，而目擊此場景
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
   - 音樂：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink")
   - 音樂製作：[Aniplex](../Page/Aniplex.md "wikilink")
-  - 動畫製作：[A-1
-    Pictures](../Page/A-1_Pictures.md "wikilink")×[TROYCA](../Page/TROYCA.md "wikilink")
-  - 製作：Aniplex、[芳文社](../Page/芳文社.md "wikilink")、[TOKYO
-    MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[日本BS放送](../Page/日本BS放送.md "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[MAGES](https://zh.wikipedia.org/wiki/MAGES "wikilink")、[Nitro+](../Page/Nitro+.md "wikilink")、Movic
+  - 動畫製作：[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")×[TROYCA](../Page/TROYCA.md "wikilink")
+  - 製作：Aniplex、[芳文社](../Page/芳文社.md "wikilink")、[TOKYO MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[日本BS放送](../Page/日本BS放送.md "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[MAGES](https://zh.wikipedia.org/wiki/MAGES "wikilink")、[Nitro+](../Page/Nitro+.md "wikilink")、Movic
 
 ### 主題曲
 
   - 第一季
 
-:; 片頭曲「[heavenly
-blue](https://zh.wikipedia.org/wiki/heavenly_blue "wikilink")」
+:; 片頭曲「[heavenly blue](https://zh.wikipedia.org/wiki/heavenly_blue "wikilink")」
 
   -
 
@@ -513,16 +457,14 @@ blue](https://zh.wikipedia.org/wiki/heavenly_blue "wikilink")」
   -
 
       -
-        作詞：canon，作曲、編曲：澤野弘之，主唱：[小林未郁](../Page/小林未郁.md "wikilink")（Mika
-        Kobayashi）
+        作詞：canon，作曲、編曲：澤野弘之，主唱：[小林未郁](../Page/小林未郁.md "wikilink")（Mika Kobayashi）
 
 ::; 「Keep on keeping on」（第7、11話）
 
   -
 
       -
-        作詞：Benjamin Anderson &
-        mpi，作曲、編曲：澤野弘之，主唱：SawanoHiroyuki\[nZk\]:mizuki
+        作詞：Benjamin Anderson & mpi，作曲、編曲：澤野弘之，主唱：SawanoHiroyuki\[nZk\]:mizuki
 
 <!-- end list -->
 
@@ -566,8 +508,7 @@ blue](https://zh.wikipedia.org/wiki/heavenly_blue "wikilink")」
   -
 
       -
-        作詞：Benjamin Anderson &
-        mpi，作曲、編曲：澤野弘之，主唱：SawanoHiroyuki\[nZk\]:mizuki
+        作詞：Benjamin Anderson & mpi，作曲、編曲：澤野弘之，主唱：SawanoHiroyuki\[nZk\]:mizuki
 
 ::; 「No differences」（第14、21、23話）
 
@@ -912,15 +853,6 @@ kim bongduk</p></td>
 
   - —[TV動畫「ALDNOAH.ZERO」公式網站](http://www.aldnoahzero.com/)
 
-[Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink")
-[Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink")
-[Category:日本深夜動畫](https://zh.wikipedia.org/wiki/Category:日本深夜動畫 "wikilink")
-[Category:火星背景作品](https://zh.wikipedia.org/wiki/Category:火星背景作品 "wikilink")
-[Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink")
-[Category:虛構日本背景動畫](https://zh.wikipedia.org/wiki/Category:虛構日本背景動畫 "wikilink")
-[Category:2015年UHF動畫](https://zh.wikipedia.org/wiki/Category:2015年UHF動畫 "wikilink")
-[Category:A-1_Pictures](https://zh.wikipedia.org/wiki/Category:A-1_Pictures "wikilink")
-[Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink")
-[Category:宇宙戰爭題材作品](https://zh.wikipedia.org/wiki/Category:宇宙戰爭題材作品 "wikilink")
+[Category:2014年UHF動畫](https://zh.wikipedia.org/wiki/Category:2014年UHF動畫 "wikilink") [Category:机器人动画](https://zh.wikipedia.org/wiki/Category:机器人动画 "wikilink") [Category:日本深夜動畫](https://zh.wikipedia.org/wiki/Category:日本深夜動畫 "wikilink") [Category:火星背景作品](https://zh.wikipedia.org/wiki/Category:火星背景作品 "wikilink") [Category:日本原創電視動畫](https://zh.wikipedia.org/wiki/Category:日本原創電視動畫 "wikilink") [Category:虛構日本背景動畫](https://zh.wikipedia.org/wiki/Category:虛構日本背景動畫 "wikilink") [Category:2015年UHF動畫](https://zh.wikipedia.org/wiki/Category:2015年UHF動畫 "wikilink") [Category:A-1_Pictures](https://zh.wikipedia.org/wiki/Category:A-1_Pictures "wikilink") [Category:Aniplex](https://zh.wikipedia.org/wiki/Category:Aniplex "wikilink") [Category:宇宙戰爭題材作品](https://zh.wikipedia.org/wiki/Category:宇宙戰爭題材作品 "wikilink")
 
 1.

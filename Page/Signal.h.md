@@ -1,6 +1,4 @@
-**signal.h**是[C标准函数库中的信号处理部分](https://zh.wikipedia.org/wiki/C标准函数库 "wikilink")，
-定义了程序执行时如何处理不同的[信号](https://zh.wikipedia.org/wiki/信号_\(计算机科学\) "wikilink")。信号用作进程间通信，
-报告异常行为（如除零）、用户的一些按键组合（如同时按下Ctrl与C键，产生信号[SIGINT](https://zh.wikipedia.org/wiki/SIGINT "wikilink")）。
+**signal.h**是[C标准函数库中的信号处理部分](https://zh.wikipedia.org/wiki/C标准函数库 "wikilink")， 定义了程序执行时如何处理不同的[信号](https://zh.wikipedia.org/wiki/信号_\(计算机科学\) "wikilink")。信号用作进程间通信， 报告异常行为（如除零）、用户的一些按键组合（如同时按下Ctrl与C键，产生信号[SIGINT](https://zh.wikipedia.org/wiki/SIGINT "wikilink")）。
 
 [C++](../Page/C++.md "wikilink")中的对应头文件是`csignal`。
 
@@ -15,8 +13,7 @@ C语言标准定义了6个信号。都定义在`signal.h`头文件中\[1\]。
   - `SIGSEGV` - 无效内存访问。
   - `SIGTERM` - 程序的中止请求。
 
-`signal.h`可能还定义了其它信号，这依赖于具体实现。例如，类Unix系统还定义了15个以上的信号\[2\]。[Visual
-C++的C标准库只支持C语言标准规定的](https://zh.wikipedia.org/wiki/Visual_C++ "wikilink")6个信号，即对信号处理只提供最小的支持。
+`signal.h`可能还定义了其它信号，这依赖于具体实现。例如，类Unix系统还定义了15个以上的信号\[2\]。[Visual C++的C标准库只支持C语言标准规定的](https://zh.wikipedia.org/wiki/Visual_C++ "wikilink")6个信号，即对信号处理只提供最小的支持。
 
 ## 信号处理
 
@@ -85,8 +82,7 @@ int main(void) {
 
 ## 外部链接
 
-  - [XGC's manual for
-    signal.h](https://archive.is/20121217223745/http://www.xgc.com/manuals/xgclib/c1632.html)
+  - [XGC's manual for signal.h](https://archive.is/20121217223745/http://www.xgc.com/manuals/xgclib/c1632.html)
 
 [Category:C标准库头文件](https://zh.wikipedia.org/wiki/Category:C标准库头文件 "wikilink")
 

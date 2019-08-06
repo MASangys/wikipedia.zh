@@ -72,8 +72,7 @@ Unix命令[`fortune`](https://zh.wikipedia.org/wiki/fortune_\(Unix\) "wikilink")
 
   - [X Window系统的图形化cowsay](http://www.doof.me.uk/xcowsay/)
 
-  - [Cowsay for
-    Android](https://market.android.com/details?id=ch.fixme.cowsay)
+  - [Cowsay for Android](https://market.android.com/details?id=ch.fixme.cowsay)
 
   -
   - [Pony的cowsay封装](https://github.com/erkin/ponysay)
@@ -84,9 +83,7 @@ Unix命令[`fortune`](https://zh.wikipedia.org/wiki/fortune_\(Unix\) "wikilink")
 
   - [pysay: cowsay in Python](https://github.com/nicolalamacchia/pysay)
 
-[Category:ASCII艺术](https://zh.wikipedia.org/wiki/Category:ASCII艺术 "wikilink")
-[Category:用Perl编程的自由软件](https://zh.wikipedia.org/wiki/Category:用Perl编程的自由软件 "wikilink")
-[Category:自由Android软件](https://zh.wikipedia.org/wiki/Category:自由Android软件 "wikilink")
+[Category:ASCII艺术](https://zh.wikipedia.org/wiki/Category:ASCII艺术 "wikilink") [Category:用Perl编程的自由软件](https://zh.wikipedia.org/wiki/Category:用Perl编程的自由软件 "wikilink") [Category:自由Android软件](https://zh.wikipedia.org/wiki/Category:自由Android软件 "wikilink")
 
 1.
 

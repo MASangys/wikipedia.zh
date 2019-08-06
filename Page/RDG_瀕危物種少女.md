@@ -1,8 +1,6 @@
-《**RDG
-瀕危物種少女**》（）是[日本](../Page/日本.md "wikilink")作家[荻原規子](../Page/荻原規子.md "wikilink")所寫的[奇幻小说系列](https://zh.wikipedia.org/wiki/奇幻小说 "wikilink")，[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")、[角川文庫版的插圖均由](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")負責，[角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")版的插圖則由[岸田梅爾](../Page/岸田梅爾.md "wikilink")負責。2008年7月到2012年11月由[角川書店](../Page/角川書店.md "wikilink")出版發行。
+《**RDG 瀕危物種少女**》（）是[日本](../Page/日本.md "wikilink")作家[荻原規子](../Page/荻原規子.md "wikilink")所寫的[奇幻小说系列](https://zh.wikipedia.org/wiki/奇幻小说 "wikilink")，[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")、[角川文庫版的插圖均由](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")負責，[角川Sneaker文庫](../Page/角川Sneaker文庫.md "wikilink")版的插圖則由[岸田梅爾](../Page/岸田梅爾.md "wikilink")負責。2008年7月到2012年11月由[角川書店](../Page/角川書店.md "wikilink")出版發行。
 
-[電視動畫版角色原案由岸田梅爾負責](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，動畫製作公司為[P.A.
-Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，於2013年4月至6月播放。[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")（[角川書店](../Page/角川書店.md "wikilink")）2012年12月號（2012年10月26日發售）漫畫版連載開始，作畫由負責\[1\]。
+[電視動畫版角色原案由岸田梅爾負責](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，動畫製作公司為[P.A. Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，於2013年4月至6月播放。[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")（[角川書店](../Page/角川書店.md "wikilink")）2012年12月號（2012年10月26日發售）漫畫版連載開始，作畫由負責\[1\]。
 
 ## 故事簡介
 
@@ -521,8 +519,7 @@ Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")，於2013年4月至6
 
 ### 评价
 
-[Anime News
-Network的评论家塞隆](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")·马丁和卡尔·克林格都称赞了动画的各种场景的制作，自然风光如山间景色十分秀丽，泉水子所居住的神社这一人居环境氛围也制作得恰如世外桃源般，其中他们还指出泉水子的几段舞蹈场景也都令他们二人印象深刻\[3\]\[4\]。
+[Anime News Network的评论家塞隆](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink")·马丁和卡尔·克林格都称赞了动画的各种场景的制作，自然风光如山间景色十分秀丽，泉水子所居住的神社这一人居环境氛围也制作得恰如世外桃源般，其中他们还指出泉水子的几段舞蹈场景也都令他们二人印象深刻\[3\]\[4\]。
 
 ### 播放電視台
 
@@ -547,25 +544,17 @@ Network的评论家塞隆](https://zh.wikipedia.org/wiki/Anime_News_Network "wik
 
 ## 外部連結
 
-  - [RDG1-5
-    銀のさじ特集ページ](https://web.archive.org/web/20130312134515/http://gin-no-saji.com/book_1104a/sp.html)
+  - [RDG1-5 銀のさじ特集ページ](https://web.archive.org/web/20130312134515/http://gin-no-saji.com/book_1104a/sp.html)
 
-  - [RDG5
-    銀のさじ特集ページ](https://web.archive.org/web/20130313010150/http://gin-no-saji.com/book_1110a/sp.html)
+  - [RDG5 銀のさじ特集ページ](https://web.archive.org/web/20130313010150/http://gin-no-saji.com/book_1110a/sp.html)
 
-  - [RDG6
-    銀のさじ特集ページ](https://web.archive.org/web/20130208223714/http://gin-no-saji.com/book_1211a/sp.html)
+  - [RDG6 銀のさじ特集ページ](https://web.archive.org/web/20130208223714/http://gin-no-saji.com/book_1211a/sp.html)
 
   - [RDG動畫官網](http://rdg-anime.jp/)
 
   - [RDG瀕危物種少女 新書專頁](http://www.kadokawa.com.tw/event/2013/RDG/)
 
-[Category:月刊少年Ace](https://zh.wikipedia.org/wiki/Category:月刊少年Ace "wikilink")
-[Category:2008年小說](https://zh.wikipedia.org/wiki/Category:2008年小說 "wikilink")
-[Category:日本奇幻小說](https://zh.wikipedia.org/wiki/Category:日本奇幻小說 "wikilink")
-[Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink")
-[Category:2013年UHF動畫](https://zh.wikipedia.org/wiki/Category:2013年UHF動畫 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
+[Category:月刊少年Ace](https://zh.wikipedia.org/wiki/Category:月刊少年Ace "wikilink") [Category:2008年小說](https://zh.wikipedia.org/wiki/Category:2008年小說 "wikilink") [Category:日本奇幻小說](https://zh.wikipedia.org/wiki/Category:日本奇幻小說 "wikilink") [Category:角川Sneaker文庫](https://zh.wikipedia.org/wiki/Category:角川Sneaker文庫 "wikilink") [Category:2013年UHF動畫](https://zh.wikipedia.org/wiki/Category:2013年UHF動畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
 
 1.
 2.

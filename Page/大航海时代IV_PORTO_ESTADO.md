@@ -1,5 +1,4 @@
-《大航海时代IV PORTO
-ESTADO》是由[日本](../Page/日本.md "wikilink")[光荣株式会社于](https://zh.wikipedia.org/wiki/光荣株式会社 "wikilink")1999年在[Windows平台发行的一款角色扮演战略游戏](https://zh.wikipedia.org/wiki/Windows "wikilink")（后来被移植到[任天堂DS](../Page/任天堂DS.md "wikilink")和[PlayStation](../Page/PlayStation.md "wikilink")之上），也是[大航海时代系列的第五作](https://zh.wikipedia.org/wiki/大航海时代系列 "wikilink")（包括《[大航海时代外传](https://zh.wikipedia.org/wiki/大航海时代外传 "wikilink")》）。
+《大航海时代IV PORTO ESTADO》是由[日本](../Page/日本.md "wikilink")[光荣株式会社于](https://zh.wikipedia.org/wiki/光荣株式会社 "wikilink")1999年在[Windows平台发行的一款角色扮演战略游戏](https://zh.wikipedia.org/wiki/Windows "wikilink")（后来被移植到[任天堂DS](../Page/任天堂DS.md "wikilink")和[PlayStation](../Page/PlayStation.md "wikilink")之上），也是[大航海时代系列的第五作](https://zh.wikipedia.org/wiki/大航海时代系列 "wikilink")（包括《[大航海时代外传](https://zh.wikipedia.org/wiki/大航海时代外传 "wikilink")》）。
 
 游戏延续了该系列的特色，在游戏中，玩家扮演一位商会首领，率领一支远航舰队进行[贸易](../Page/贸易.md "wikilink")、[私掠](../Page/私掠.md "wikilink")、[交战](https://zh.wikipedia.org/wiki/海战 "wikilink")、[探险等](https://zh.wikipedia.org/wiki/探险 "wikilink")。可操作的主角人物是4位（威力加强版中又增加了3位），遍布于世界的各个角落，而不再继续以[欧洲](../Page/欧洲.md "wikilink")为世界观的中心。本作大致时间背景为16世纪末至17世纪初，欧洲人在[新大陆](https://zh.wikipedia.org/wiki/新大陆 "wikilink")、[非洲](../Page/非洲.md "wikilink")、[亚洲](../Page/亚洲.md "wikilink")等地开展[殖民和贸易活动](../Page/殖民主义.md "wikilink")，与此同时，原来的海洋霸主[西班牙和](https://zh.wikipedia.org/wiki/西班牙帝国 "wikilink")[葡萄牙正在受到新兴航海国家的挑战](https://zh.wikipedia.org/wiki/葡萄牙帝国 "wikilink")。
 
@@ -200,12 +199,7 @@ NPC势力是指游戏中除主角势力之外的其他势力。这些NPC势力�
 
 ### Windows通常版
 
-最初发行的个人电脑（PC）版本，对应的操作系统为Microsoft Windows从[Windows
-95到](../Page/Windows_95.md "wikilink")[Windows
-Me的各个版本](../Page/Windows_Me.md "wikilink")，但由于该版本无法兼容[Windows
-2000和](../Page/Windows_2000.md "wikilink")[Windows
-XP等](../Page/Windows_XP.md "wikilink")[NT系列操作系统](../Page/Windows_NT.md "wikilink")，使得使用以上系统的玩家可能无法安装和启动游戏，直到此后发行的KOEI
-The Best版和ソースネクスト版才兼容2000和XP系统。
+最初发行的个人电脑（PC）版本，对应的操作系统为Microsoft Windows从[Windows 95到](../Page/Windows_95.md "wikilink")[Windows Me的各个版本](../Page/Windows_Me.md "wikilink")，但由于该版本无法兼容[Windows 2000和](../Page/Windows_2000.md "wikilink")[Windows XP等](../Page/Windows_XP.md "wikilink")[NT系列操作系统](../Page/Windows_NT.md "wikilink")，使得使用以上系统的玩家可能无法安装和启动游戏，直到此后发行的KOEI The Best版和ソースネクスト版才兼容2000和XP系统。
 
 ### PlayStation版
 
@@ -221,15 +215,9 @@ PK版在原有的4个主角的基础上加入了3名新主角人物──亚伯�
 
 ### 大航海时代IV ROTA NOVA
 
-2006年发行的[任天堂DS](../Page/任天堂DS.md "wikilink")（NDS）与[PlayStation
-Portable](../Page/PlayStation_Portable.md "wikilink")（PSP）平台的移植版本，使用了“ROTA
-NOVA”的发行名称。
+2006年发行的[任天堂DS](../Page/任天堂DS.md "wikilink")（NDS）与[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")（PSP）平台的移植版本，使用了“ROTA NOVA”的发行名称。
 
-相比于PC版本，《ROTA
-NOVA》加入了新地图、“黄金航路”系统、联机对战和帆船竞速等内容，而NDS版本则支持[手写笔操作](https://zh.wikipedia.org/wiki/手写笔 "wikilink")。而作为与《[大航海时代Online](../Page/大航海时代Online.md "wikilink")》的联动，在《ROTA
-NOVA》发行期间，《大航海时代Online》的玩家如果在游戏中找到某个特殊的NPC，就可以获得《ROTA
-NOVA》中的24个隐藏村庄的名字和暗号；而在《ROTA
-NOVA》中探索相应的隐藏村庄并输入正确的暗号，可以解锁这个村庄中某种非常赚钱的稀有货物。\[1\]
+相比于PC版本，《ROTA NOVA》加入了新地图、“黄金航路”系统、联机对战和帆船竞速等内容，而NDS版本则支持[手写笔操作](https://zh.wikipedia.org/wiki/手写笔 "wikilink")。而作为与《[大航海时代Online](../Page/大航海时代Online.md "wikilink")》的联动，在《ROTA NOVA》发行期间，《大航海时代Online》的玩家如果在游戏中找到某个特殊的NPC，就可以获得《ROTA NOVA》中的24个隐藏村庄的名字和暗号；而在《ROTA NOVA》中探索相应的隐藏村庄并输入正确的暗号，可以解锁这个村庄中某种非常赚钱的稀有货物。\[1\]
 
 ## 其他轶事
 
@@ -253,16 +241,8 @@ NOVA》中探索相应的隐藏村庄并输入正确的暗号，可以解锁这�
   - [台湾GameCity官网](http://www.gamecity.com.tw/)
   - [中国大陆GameCity官网](https://web.archive.org/web/20080524173719/http://www.gamecity.net.cn/)
 
-[Category:1999年电子游戏](https://zh.wikipedia.org/wiki/Category:1999年电子游戏 "wikilink")
-[Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
-[Category:光荣游戏](https://zh.wikipedia.org/wiki/Category:光荣游戏 "wikilink")
-[Category:模拟游戏](https://zh.wikipedia.org/wiki/Category:模拟游戏 "wikilink")
-[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
-[Category:大航海時代系列](https://zh.wikipedia.org/wiki/Category:大航海時代系列 "wikilink")
+[Category:1999年电子游戏](https://zh.wikipedia.org/wiki/Category:1999年电子游戏 "wikilink") [Category:PlayStation_(游戏机)游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_\(游戏机\)游戏 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:光荣游戏](https://zh.wikipedia.org/wiki/Category:光荣游戏 "wikilink") [Category:模拟游戏](https://zh.wikipedia.org/wiki/Category:模拟游戏 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:大航海時代系列](https://zh.wikipedia.org/wiki/Category:大航海時代系列 "wikilink")
 
 1.  [ROTA NOVA官网](http://www.gamecity.ne.jp/psp/d4/)
 2.  [文章原出处](http://www.militarybbs.cn/viewthread.php?tid=7171)
-3.  [太閤立志伝
-    大航海時代Ⅳのリルやラファエルも出演](http://www.google.com.hk/url?sa=t&rct=j&q=%E5%A4%AA%E9%96%A4%E7%AB%8B%E5%BF%97%E4%BC%9DV+%E3%83%A9%E3%83%95%E3%82%A1%E3%82%A8%E3%83%AB+%E3%83%AA%E3%83%AB&source=web&cd=2&ved=0CCsQFjAB&url=http%3A%2F%2Fwww.nicovideo.jp%2Ftag%2F%25E5%25A4%25AA%25E9%2596%25A4%25E7%25AB%258B%25E5%25BF%2597%25E4%25BC%259D%2B%25E5%25A4%25A7%25E8%2588%25AA%25E6%25B5%25B7%25E6%2599%2582%25E4%25BB%25A3%25E2%2585%25A3%25E3%2581%25AE%25E3%2583%25AA%25E3%2583%25AB%25E3%2582%2584%25E3%2583%25A9%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A8%25E3%2583%25AB%25E3%2582%2582%25E5%2587%25BA%25E6%25BC%2594%3Fsort%3Df&ei=aDdDUNXjBo2jigekgIGYBA&usg=AFQjCNE79y-4jrK7uShgovgT-G-OQ6NeMA&cad=rjt)
+3.  [太閤立志伝 大航海時代Ⅳのリルやラファエルも出演](http://www.google.com.hk/url?sa=t&rct=j&q=%E5%A4%AA%E9%96%A4%E7%AB%8B%E5%BF%97%E4%BC%9DV+%E3%83%A9%E3%83%95%E3%82%A1%E3%82%A8%E3%83%AB+%E3%83%AA%E3%83%AB&source=web&cd=2&ved=0CCsQFjAB&url=http%3A%2F%2Fwww.nicovideo.jp%2Ftag%2F%25E5%25A4%25AA%25E9%2596%25A4%25E7%25AB%258B%25E5%25BF%2597%25E4%25BC%259D%2B%25E5%25A4%25A7%25E8%2588%25AA%25E6%25B5%25B7%25E6%2599%2582%25E4%25BB%25A3%25E2%2585%25A3%25E3%2581%25AE%25E3%2583%25AA%25E3%2583%25AB%25E3%2582%2584%25E3%2583%25A9%25E3%2583%2595%25E3%2582%25A1%25E3%2582%25A8%25E3%2583%25AB%25E3%2582%2582%25E5%2587%25BA%25E6%25BC%2594%3Fsort%3Df&ei=aDdDUNXjBo2jigekgIGYBA&usg=AFQjCNE79y-4jrK7uShgovgT-G-OQ6NeMA&cad=rjt)

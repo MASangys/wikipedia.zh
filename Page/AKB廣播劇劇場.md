@@ -265,8 +265,7 @@
   - [AKBラジオドラマ劇場](http://www.allnightnippon.com/akbd/)
   - [日本放送作家協会](http://www.hosakkyo.jp/)
 
-[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink")
-[Category:廣播劇](https://zh.wikipedia.org/wiki/Category:廣播劇 "wikilink")
+[Category:AKB48](https://zh.wikipedia.org/wiki/Category:AKB48 "wikilink") [Category:廣播劇](https://zh.wikipedia.org/wiki/Category:廣播劇 "wikilink")
 
 1.  主題是AKB48的23rd單曲。
 2.  名稱是、水上運動用語。正確的是「クローズホールド」。

@@ -1,5 +1,4 @@
-《**LOVE
-FANTASTIC**》是[大塚愛的第六張專輯](https://zh.wikipedia.org/wiki/大塚愛 "wikilink")\[1\]。正式發行日期是2014年7月16日\[2\]。
+《**LOVE FANTASTIC**》是[大塚愛的第六張專輯](https://zh.wikipedia.org/wiki/大塚愛 "wikilink")\[1\]。正式發行日期是2014年7月16日\[2\]。
 
 ## 收錄曲目
 
@@ -28,8 +27,7 @@ FANTASTIC**》是[大塚愛的第六張專輯](https://zh.wikipedia.org/wiki/大
 
   - 唱片公司官方Youtube频道上的视频：
       -
-[Category:大塚愛音樂專輯](https://zh.wikipedia.org/wiki/Category:大塚愛音樂專輯 "wikilink")
-[Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
+[Category:大塚愛音樂專輯](https://zh.wikipedia.org/wiki/Category:大塚愛音樂專輯 "wikilink") [Category:2014年音樂專輯](https://zh.wikipedia.org/wiki/Category:2014年音樂專輯 "wikilink")
 
 1.
 2.

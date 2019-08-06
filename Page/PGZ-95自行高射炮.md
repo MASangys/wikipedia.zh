@@ -16,21 +16,14 @@ PGZ-95在北京[1999年國慶閱兵期間首次對外公開亮相](https://zh.wi
 
 ## 流行文化
 
-  - 95式自行高射炮在2013年[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《[-{zh-hans:
-    战地4; zh-hant: 戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
-    4）中以[中国人民解放军](../Page/中国人民解放军.md "wikilink")防空車輛出現，奇怪地使用20毫米機炮（預設）、30毫米機炮（解鎖後）和[祖尼火箭](../Page/祖尼火箭.md "wikilink")（解鎖後），類似的情況亦出現在[9K22「通古斯卡」上](../Page/9K22通古斯卡自行高射炮.md "wikilink")。
+  - 95式自行高射炮在2013年[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《[-{zh-hans: 战地4; zh-hant: 戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield 4）中以[中国人民解放军](../Page/中国人民解放军.md "wikilink")防空車輛出現，奇怪地使用20毫米機炮（預設）、30毫米機炮（解鎖後）和[祖尼火箭](../Page/祖尼火箭.md "wikilink")（解鎖後），類似的情況亦出現在[9K22「通古斯卡」上](../Page/9K22通古斯卡自行高射炮.md "wikilink")。
   - 在FPS系列游戏《闪点行动-龙之崛起》和《闪点行动-红河》中出现，PGZ-95作为中国军队机动防空主力，在游戏中曾经依剧情需要击落过美军AH-1Z“蝮蛇”攻击直升机；在后期的剧情任务以及后来的自定义任务中也出现过PGZ-95使用25mm炮攻击美军地面部队和装甲车辆（LAV-25）。游戏中PGZ-95在自定义任务中可以使用。其25毫米高射炮使用高爆穿甲与曳光弹的混合弹链，攻击效果且音效同美军的M242“大毒蛇”机炮，可能设定为中美中战车计划的衍生产物（同样机关炮装备89式轮式战车）
 
 ## 參考
 
-  - [PGZ95 Self-Propelled Anti-Aircraft Artillery on
-    Sinodefence](https://web.archive.org/web/20090630082550/http://www.sinodefence.com/army/antiaircraft/pgz95.asp)
+  - [PGZ95 Self-Propelled Anti-Aircraft Artillery on Sinodefence](https://web.archive.org/web/20090630082550/http://www.sinodefence.com/army/antiaircraft/pgz95.asp)
   - Jane's Land Based Air Defence 2005-2006
 
-[Category:25毫米口径武器](https://zh.wikipedia.org/wiki/Category:25毫米口径武器 "wikilink")
-[Category:高射炮](https://zh.wikipedia.org/wiki/Category:高射炮 "wikilink")
-[Category:機動防空車](https://zh.wikipedia.org/wiki/Category:機動防空車 "wikilink")
-[Category:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:中華人民共和國裝甲戰鬥車輛 "wikilink")
+[Category:25毫米口径武器](https://zh.wikipedia.org/wiki/Category:25毫米口径武器 "wikilink") [Category:高射炮](https://zh.wikipedia.org/wiki/Category:高射炮 "wikilink") [Category:機動防空車](https://zh.wikipedia.org/wiki/Category:機動防空車 "wikilink") [Category:中華人民共和國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:中華人民共和國裝甲戰鬥車輛 "wikilink")
 
-1.  [PGZ95 (Type 95) 25mm Self-Propelled Anti-Aircraft Artillery (SPAAA)
-    System](https://www.army-technology.com/projects/pgz95-spaaa-system/)
+1.  [PGZ95 (Type 95) 25mm Self-Propelled Anti-Aircraft Artillery (SPAAA) System](https://www.army-technology.com/projects/pgz95-spaaa-system/)

@@ -16,7 +16,4 @@
   - 1998年度第二屆唱片封套設計大賞 - 得獎大碟《Horizons》
   - 動感321頒獎典禮 - 得獎金曲《開放日》
 
-[Category:謝霆鋒音樂專輯](https://zh.wikipedia.org/wiki/Category:謝霆鋒音樂專輯 "wikilink")
-[Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:謝霆鋒](https://zh.wikipedia.org/wiki/Category:謝霆鋒 "wikilink")
+[Category:謝霆鋒音樂專輯](https://zh.wikipedia.org/wiki/Category:謝霆鋒音樂專輯 "wikilink") [Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:謝霆鋒](https://zh.wikipedia.org/wiki/Category:謝霆鋒 "wikilink")

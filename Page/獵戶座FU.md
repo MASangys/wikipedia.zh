@@ -4,16 +4,10 @@
 
 ## 外部連結
 
-  - [AAVSO Variable Star of the Month. FU Ori:
-    February 2002](https://web.archive.org/web/20080704215150/http://www.aavso.org/vstar/vsots/0202.shtml)
-  - [FU Orionis](http://www.nightskyinfo.com/archive/fu_orionis/) at
-    NightSkyInfo.com
+  - [AAVSO Variable Star of the Month. FU Ori: February 2002](https://web.archive.org/web/20080704215150/http://www.aavso.org/vstar/vsots/0202.shtml)
+  - [FU Orionis](http://www.nightskyinfo.com/archive/fu_orionis/) at NightSkyInfo.com
 
-[Category:獵戶座](https://zh.wikipedia.org/wiki/Category:獵戶座 "wikilink")
-[Category:_獵戶型變星](https://zh.wikipedia.org/wiki/Category:_獵戶型變星 "wikilink")
-[Category:_獵戶FU型變星](https://zh.wikipedia.org/wiki/Category:_獵戶FU型變星 "wikilink")
-[Category:G-型超巨星](https://zh.wikipedia.org/wiki/Category:G-型超巨星 "wikilink")
+[Category:獵戶座](https://zh.wikipedia.org/wiki/Category:獵戶座 "wikilink") [Category:_獵戶型變星](https://zh.wikipedia.org/wiki/Category:_獵戶型變星 "wikilink") [Category:_獵戶FU型變星](https://zh.wikipedia.org/wiki/Category:_獵戶FU型變星 "wikilink") [Category:G-型超巨星](https://zh.wikipedia.org/wiki/Category:G-型超巨星 "wikilink")
 
 1.  [AAVSO: FU Orionis](http://www.aavso.org/vstar/vsots/0202.shtml)
-2.  [SIMBAD: V\* FU
-    Ori](http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=FU+Ori&submit=SIMBAD+search)
+2.  [SIMBAD: V\* FU Ori](http://simbad.u-strasbg.fr/simbad/sim-basic?Ident=FU+Ori&submit=SIMBAD+search)

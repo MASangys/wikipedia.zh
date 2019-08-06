@@ -1,10 +1,8 @@
-**LILO** (**LI**nux
-**LO**ader)是[Linux](../Page/Linux.md "wikilink")一个[啟動程式](../Page/啟動程式.md "wikilink")，在流行[loadlin后成为许多](https://zh.wikipedia.org/wiki/loadlin "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")的默认啟動程式。
+**LILO** (**LI**nux **LO**ader)是[Linux](../Page/Linux.md "wikilink")一个[啟動程式](../Page/啟動程式.md "wikilink")，在流行[loadlin后成为许多](https://zh.wikipedia.org/wiki/loadlin "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")的默认啟動程式。
 
 ## 总览
 
-LILO不依赖于一个特定的[文件系统](../Page/文件系统.md "wikilink")，可以启动一个[操作系统](../Page/操作系统.md "wikilink")(例如，从[软盘](../Page/软盘.md "wikilink")和[硬盘](../Page/硬盘.md "wikilink")启动[Linux内核](../Page/Linux内核.md "wikilink")
-\[内核\]镜像)。在启动时有十六种不同的镜像可供选择。各种参数，如根设备参数，可以为每种内核单独设置。LILO可以放在[主引导记录](../Page/主引导记录.md "wikilink")(MBR)或一个分区的[引导扇区中](https://zh.wikipedia.org/wiki/引导扇区 "wikilink")。在后者的情况下，MBR中必须包含加载LILO的代码。
+LILO不依赖于一个特定的[文件系统](../Page/文件系统.md "wikilink")，可以启动一个[操作系统](../Page/操作系统.md "wikilink")(例如，从[软盘](../Page/软盘.md "wikilink")和[硬盘](../Page/硬盘.md "wikilink")启动[Linux内核](../Page/Linux内核.md "wikilink") \[内核\]镜像)。在启动时有十六种不同的镜像可供选择。各种参数，如根设备参数，可以为每种内核单独设置。LILO可以放在[主引导记录](../Page/主引导记录.md "wikilink")(MBR)或一个分区的[引导扇区中](https://zh.wikipedia.org/wiki/引导扇区 "wikilink")。在后者的情况下，MBR中必须包含加载LILO的代码。
 
 在开启系统时，LILO只有通过[BIOS](../Page/BIOS.md "wikilink")[驱动访问硬盘](https://zh.wikipedia.org/wiki/设备驱动程序 "wikilink")。因此，一个很老的BIOS访问范围限定为[柱0到1023的前两个硬盘](https://zh.wikipedia.org/wiki/柱1024 "wikilink")。对于后来的BIOS，LILO可以使用32位的"[逻辑块寻址](https://zh.wikipedia.org/wiki/逻辑块寻址 "wikilink")"(LBA)来获得访问整块硬盘的能力。
 
@@ -16,10 +14,7 @@ lilo
 
 ### /boot/
 
-LILO放置了许多文件在
-[`LILO//boot/`](https://zh.wikipedia.org/wiki/LILO/boot/ "wikilink") –
-具体请见 [`/boot/:`
-LILO](https://zh.wikipedia.org/wiki/LILO/boot/#LILO "wikilink").
+LILO放置了许多文件在 [`LILO//boot/`](https://zh.wikipedia.org/wiki/LILO/boot/ "wikilink") – 具体请见 [`/boot/:` LILO](https://zh.wikipedia.org/wiki/LILO/boot/#LILO "wikilink").
 
 ## 主引导记录
 
@@ -86,8 +81,7 @@ LILO可以在设备上写入主引导记录：
 
 ## 请参阅
 
-  - [Comparison of boot
-    loaders](https://zh.wikipedia.org/wiki/Comparison_of_boot_loaders "wikilink")
+  - [Comparison of boot loaders](https://zh.wikipedia.org/wiki/Comparison_of_boot_loaders "wikilink")
   - [Linux](../Page/Linux.md "wikilink")
   - [Boot loader](https://zh.wikipedia.org/wiki/Boot_loader "wikilink")
   - [GNU GRUB](../Page/GNU_GRUB.md "wikilink")
@@ -98,32 +92,24 @@ LILO可以在设备上写入主引导记录：
 
 ## 注意
 
-  - [LILO installation
-    instructions](https://web.archive.org/web/19970507092324/http://www.acm.uiuc.edu/workshops/linux_install/lilo.html)
+  - [LILO installation instructions](https://web.archive.org/web/19970507092324/http://www.acm.uiuc.edu/workshops/linux_install/lilo.html)
 
   - [LILO mini-HOWTO](http://www.tldp.org/HOWTO/LILO.html)
 
-  - [LILO error
-    messages](https://web.archive.org/web/20130402193858/http://www.wlug.org.nz/LiloErrorCodes)
+  - [LILO error messages](https://web.archive.org/web/20130402193858/http://www.wlug.org.nz/LiloErrorCodes)
 
-  - [LILO and GRUB: Boot Loaders Made Simple by Judith
-    Myerson](http://www.linuxdevcenter.com/pub/a/linux/2008/01/22/lilo-and-grub-boot-loaders-made-simple.html)
+  - [LILO and GRUB: Boot Loaders Made Simple by Judith Myerson](http://www.linuxdevcenter.com/pub/a/linux/2008/01/22/lilo-and-grub-boot-loaders-made-simple.html)
 
-  - [From Lilo to
-    Grub](https://web.archive.org/web/20090202113948/http://grub.enbug.org/FromLiloToGrub)
+  - [From Lilo to Grub](https://web.archive.org/web/20090202113948/http://grub.enbug.org/FromLiloToGrub)
 
-  - [Lilo tips from the Linux Kernel
-    Howto](http://www.linuxdocs.org/HOWTOs/Kernel-HOWTO-2.html)
+  - [Lilo tips from the Linux Kernel Howto](http://www.linuxdocs.org/HOWTOs/Kernel-HOWTO-2.html)
 
   -
   -
   -
 ## 外部链接
 
-  - [Official
-    homepage](https://web.archive.org/web/20130402193858/http://www.wlug.org.nz/LiloErrorCodes)
-  - [Project
-    homepage](https://web.archive.org/web/20100717200244/http://alioth.debian.org/projects/lilo/)
-    on *Alioth*
+  - [Official homepage](https://web.archive.org/web/20130402193858/http://www.wlug.org.nz/LiloErrorCodes)
+  - [Project homepage](https://web.archive.org/web/20100717200244/http://alioth.debian.org/projects/lilo/) on *Alioth*
 
 [Category:引导程序](https://zh.wikipedia.org/wiki/Category:引导程序 "wikilink")

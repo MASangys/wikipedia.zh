@@ -1,17 +1,8 @@
-**Matrix
-Software**（）是位于日本[东京](../Page/东京.md "wikilink")的一家电子游戏开发公司，其由[Climax
-Entertainment和](../Page/Climax_Entertainment.md "wikilink")[日本通訊網路](../Page/日本通訊網路.md "wikilink")的前成员于1994年7月建立，该公司1997年4月开始制作名为《[阿兰多拉](../Page/阿兰多拉.md "wikilink")》的[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。Matrix与[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")和[Chunsoft合作制作一些游戏系列](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")，如[最终幻想和](https://zh.wikipedia.org/wiki/最终幻想 "wikilink")[勇者斗恶龙](https://zh.wikipedia.org/wiki/勇者斗恶龙 "wikilink")，以及其他[动画](../Page/动画.md "wikilink")和[漫画方面](https://zh.wikipedia.org/wiki/漫画 "wikilink")。除游戏机平台外，Matrix
-Software也从2001年开始制作各种日本手机品牌的游戏。
+**Matrix Software**（）是位于日本[东京](../Page/东京.md "wikilink")的一家电子游戏开发公司，其由[Climax Entertainment和](../Page/Climax_Entertainment.md "wikilink")[日本通訊網路](../Page/日本通訊網路.md "wikilink")的前成员于1994年7月建立，该公司1997年4月开始制作名为《[阿兰多拉](../Page/阿兰多拉.md "wikilink")》的[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")。Matrix与[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")和[Chunsoft合作制作一些游戏系列](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")，如[最终幻想和](https://zh.wikipedia.org/wiki/最终幻想 "wikilink")[勇者斗恶龙](https://zh.wikipedia.org/wiki/勇者斗恶龙 "wikilink")，以及其他[动画](../Page/动画.md "wikilink")和[漫画方面](https://zh.wikipedia.org/wiki/漫画 "wikilink")。除游戏机平台外，Matrix Software也从2001年开始制作各种日本手机品牌的游戏。
 
 ## 公司发展
 
-Matrix
-Software由大堀康祐和三个电子游戏行业资深经验的朋友成立于1994年7月。\[1\]总裁大堀在高中时期已经在游戏方面有资深经验，并与来自[Climax
-Entertainment和](../Page/Climax_Entertainment.md "wikilink")[日本通訊網路](../Page/日本通訊網路.md "wikilink")的成员成立了一家他觉得会“给人们带来认真游戏内容”的游戏公司。\[2\]1997年4月，在公司成立三年之际，他们发布了第一款游戏，即[PlayStation](../Page/PlayStation.md "wikilink")平台上的《[阿兰多拉](../Page/阿兰多拉.md "wikilink")》，其受欢迎程度让他们在两年后发行了[续作](https://zh.wikipedia.org/wiki/阿兰多拉_2 "wikilink")。\[3\]1999年9月，Matrix与他们的第一个合作伙伴[Chunsoft制作了知名的](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")[勇者斗恶龙系列游戏](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")《[Torneko:
-The Last
-Hope](https://zh.wikipedia.org/wiki/Torneko:_The_Last_Hope "wikilink")》。\[4\]其后，公司就开始与其他公司合作制作其他游戏系列，如[冨樫義博](../Page/冨樫義博.md "wikilink")的《[幽游白书](https://zh.wikipedia.org/wiki/幽游白书 "wikilink")》，[尾田荣一郎](../Page/尾田荣一郎.md "wikilink")的《[One
-Piece](https://zh.wikipedia.org/wiki/One_Piece "wikilink")》和[Square
-Enix的](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")[最终幻想](https://zh.wikipedia.org/wiki/最终幻想 "wikilink")。\[5\]
+Matrix Software由大堀康祐和三个电子游戏行业资深经验的朋友成立于1994年7月。\[1\]总裁大堀在高中时期已经在游戏方面有资深经验，并与来自[Climax Entertainment和](../Page/Climax_Entertainment.md "wikilink")[日本通訊網路](../Page/日本通訊網路.md "wikilink")的成员成立了一家他觉得会“给人们带来认真游戏内容”的游戏公司。\[2\]1997年4月，在公司成立三年之际，他们发布了第一款游戏，即[PlayStation](../Page/PlayStation.md "wikilink")平台上的《[阿兰多拉](../Page/阿兰多拉.md "wikilink")》，其受欢迎程度让他们在两年后发行了[续作](https://zh.wikipedia.org/wiki/阿兰多拉_2 "wikilink")。\[3\]1999年9月，Matrix与他们的第一个合作伙伴[Chunsoft制作了知名的](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")[勇者斗恶龙系列游戏](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")《[Torneko: The Last Hope](https://zh.wikipedia.org/wiki/Torneko:_The_Last_Hope "wikilink")》。\[4\]其后，公司就开始与其他公司合作制作其他游戏系列，如[冨樫義博](../Page/冨樫義博.md "wikilink")的《[幽游白书](https://zh.wikipedia.org/wiki/幽游白书 "wikilink")》，[尾田荣一郎](../Page/尾田荣一郎.md "wikilink")的《[One Piece](https://zh.wikipedia.org/wiki/One_Piece "wikilink")》和[Square Enix的](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")[最终幻想](https://zh.wikipedia.org/wiki/最终幻想 "wikilink")。\[5\]
 
 ## 游戏列表
 
@@ -236,10 +227,7 @@ Enix的](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")[最终幻想](htt
 
   -
 
-[Category:1994年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1994年開業電子遊戲公司 "wikilink")
-[Category:电子游戏开发公司](https://zh.wikipedia.org/wiki/Category:电子游戏开发公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
+[Category:1994年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1994年開業電子遊戲公司 "wikilink") [Category:电子游戏开发公司](https://zh.wikipedia.org/wiki/Category:电子游戏开发公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
 
 1.
 2.

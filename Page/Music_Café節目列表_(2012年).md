@@ -1,20 +1,10 @@
 <div id="contentSub">
 
-<span class="subpages">**Music
-Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md "wikilink")
-- [2011年](../Page/Music_Café節目列表_\(2011年\).md "wikilink") - 2012年** -
-**[2013年](../Page/Music_Café節目列表_\(2013年\).md "wikilink")** -
-**[2014年](../Page/Music_Café節目列表_\(2014年\).md "wikilink")** -
-**[2015年](../Page/Music_Café節目列表_\(2015年\).md "wikilink")** -
-**[2016年](../Page/Music_Café節目列表_\(2016年\).md "wikilink")** -
-**[2017年](../Page/Music_Café節目列表_\(2017年\).md "wikilink")** -
-**[2018年](../Page/Music_Café節目列表_\(2018年\).md "wikilink")** -
-**[2019年](../Page/Music_Café節目列表_\(2019年\).md "wikilink")**</span>
+<span class="subpages">**Music Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md "wikilink") - [2011年](../Page/Music_Café節目列表_\(2011年\).md "wikilink") - 2012年** - **[2013年](../Page/Music_Café節目列表_\(2013年\).md "wikilink")** - **[2014年](../Page/Music_Café節目列表_\(2014年\).md "wikilink")** - **[2015年](../Page/Music_Café節目列表_\(2015年\).md "wikilink")** - **[2016年](../Page/Music_Café節目列表_\(2016年\).md "wikilink")** - **[2017年](../Page/Music_Café節目列表_\(2017年\).md "wikilink")** - **[2018年](../Page/Music_Café節目列表_\(2018年\).md "wikilink")** - **[2019年](../Page/Music_Café節目列表_\(2019年\).md "wikilink")**</span>
 
 </div>
 
-本列表為《[Music Café](../Page/Music_Café.md "wikilink")》
-2012年的每集節目巨聲幫成員/表演團體及嘉賓列表。
+本列表為《[Music Café](../Page/Music_Café.md "wikilink")》 2012年的每集節目巨聲幫成員/表演團體及嘉賓列表。
 
 ## 1月
 
@@ -245,6 +235,4 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 | 104 | 12月28日 | **[goldEN](https://zh.wikipedia.org/wiki/goldEN_\(組合\) "wikilink")、[鄒文正](../Page/鄒文正.md "wikilink")** | \- |- style="background-color: \#FFFFFF" |                                                                                                                                                                                 |
 |     |        |                                                                                                       |                                                                                                                                                                                                                            |
 
-[Category:無綫電視節目列表](https://zh.wikipedia.org/wiki/Category:無綫電視節目列表 "wikilink")
-[Category:Music_Café](https://zh.wikipedia.org/wiki/Category:Music_Café "wikilink")
-[Category:2012年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2012年無綫電視節目 "wikilink")
+[Category:無綫電視節目列表](https://zh.wikipedia.org/wiki/Category:無綫電視節目列表 "wikilink") [Category:Music_Café](https://zh.wikipedia.org/wiki/Category:Music_Café "wikilink") [Category:2012年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2012年無綫電視節目 "wikilink")

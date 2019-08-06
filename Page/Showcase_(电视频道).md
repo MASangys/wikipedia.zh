@@ -9,5 +9,4 @@
 
   - [Showcase官网](http://www.showcase.ca/)
 
-[Category:1995年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1995年成立的电视台或电视频道 "wikilink")
-[Category:萧氏传媒](https://zh.wikipedia.org/wiki/Category:萧氏传媒 "wikilink")
+[Category:1995年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1995年成立的电视台或电视频道 "wikilink") [Category:萧氏传媒](https://zh.wikipedia.org/wiki/Category:萧氏传媒 "wikilink")

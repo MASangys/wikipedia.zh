@@ -1,6 +1,4 @@
-**昌西号驱逐舰（[舷号DD](../Page/美国海军通用舰船分类符号.md "wikilink")-3)** （最初编号为Destroyer
-No. 3）
-是一艘[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[班布里奇級驅逐艦](../Page/班布里奇級驅逐艦.md "wikilink")，以纪念美国海军[艾萨克·昌西](https://zh.wikipedia.org/wiki/艾萨克·昌西 "wikilink")[准将](https://zh.wikipedia.org/wiki/准将 "wikilink")。
+**昌西号驱逐舰（[舷号DD](../Page/美国海军通用舰船分类符号.md "wikilink")-3)** （最初编号为Destroyer No. 3） 是一艘[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[班布里奇級驅逐艦](../Page/班布里奇級驅逐艦.md "wikilink")，以纪念美国海军[艾萨克·昌西](https://zh.wikipedia.org/wiki/艾萨克·昌西 "wikilink")[准将](https://zh.wikipedia.org/wiki/准将 "wikilink")。
 
 ## 建造
 
@@ -14,24 +12,15 @@ No. 3）
 
 ### 沉没
 
-1917年8月1日，昌西号驶离甲米地，前往东[大西洋](../Page/大西洋.md "wikilink")执行护航任务。在11月19日，当护航船队驶至离[直布罗陀](../Page/直布罗陀.md "wikilink")以西110海里时，昌西号与英国商船罗斯号（SS
-Rose）相撞。当时，两船都处在战时灯火管制状态。3:17分，昌西号沉没于海面下2700米处，随舰21人阵亡，包括舰长[沃尔特·E·雷诺](https://zh.wikipedia.org/wiki/沃尔特·E·雷诺 "wikilink")（Walter
-E. Reno）少校。其余70名幸存者被罗斯号救起，送往就近港口。
+1917年8月1日，昌西号驶离甲米地，前往东[大西洋](../Page/大西洋.md "wikilink")执行护航任务。在11月19日，当护航船队驶至离[直布罗陀](../Page/直布罗陀.md "wikilink")以西110海里时，昌西号与英国商船罗斯号（SS Rose）相撞。当时，两船都处在战时灯火管制状态。3:17分，昌西号沉没于海面下2700米处，随舰21人阵亡，包括舰长[沃尔特·E·雷诺](https://zh.wikipedia.org/wiki/沃尔特·E·雷诺 "wikilink")（Walter E. Reno）少校。其余70名幸存者被罗斯号救起，送往就近港口。
 
 ## 文学中的昌西号
 
-《[黛利拉](https://zh.wikipedia.org/wiki/黛利拉_\(小说\) "wikilink")》的作者马库斯·古德里奇（Marcus
-Goodrich）是昌西号驱逐舰的幸存者，故事以其作为水手在昌西号上服役的经历为原型。
+《[黛利拉](https://zh.wikipedia.org/wiki/黛利拉_\(小说\) "wikilink")》的作者马库斯·古德里奇（Marcus Goodrich）是昌西号驱逐舰的幸存者，故事以其作为水手在昌西号上服役的经历为原型。
 
 ## 注释
 
 ## 参考资料
 
   -
-[Category:班布里奇级驱逐舰](https://zh.wikipedia.org/wiki/Category:班布里奇级驱逐舰 "wikilink")
-[Category:美国一战驱逐舰](https://zh.wikipedia.org/wiki/Category:美国一战驱逐舰 "wikilink")
-[Category:宾夕法尼亚州建造的船只](https://zh.wikipedia.org/wiki/Category:宾夕法尼亚州建造的船只 "wikilink")
-[Category:纳菲尔-利维建造的船只](https://zh.wikipedia.org/wiki/Category:纳菲尔-利维建造的船只 "wikilink")
-[Category:1901年下水的船只](https://zh.wikipedia.org/wiki/Category:1901年下水的船只 "wikilink")
-[Category:1917年的海上事故](https://zh.wikipedia.org/wiki/Category:1917年的海上事故 "wikilink")
-[Category:1903年竣工的船只](https://zh.wikipedia.org/wiki/Category:1903年竣工的船只 "wikilink")
+[Category:班布里奇级驱逐舰](https://zh.wikipedia.org/wiki/Category:班布里奇级驱逐舰 "wikilink") [Category:美国一战驱逐舰](https://zh.wikipedia.org/wiki/Category:美国一战驱逐舰 "wikilink") [Category:宾夕法尼亚州建造的船只](https://zh.wikipedia.org/wiki/Category:宾夕法尼亚州建造的船只 "wikilink") [Category:纳菲尔-利维建造的船只](https://zh.wikipedia.org/wiki/Category:纳菲尔-利维建造的船只 "wikilink") [Category:1901年下水的船只](https://zh.wikipedia.org/wiki/Category:1901年下水的船只 "wikilink") [Category:1917年的海上事故](https://zh.wikipedia.org/wiki/Category:1917年的海上事故 "wikilink") [Category:1903年竣工的船只](https://zh.wikipedia.org/wiki/Category:1903年竣工的船只 "wikilink")

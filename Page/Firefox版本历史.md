@@ -1,5 +1,4 @@
-此條目為[Mozilla
-Firefox發佈紀錄](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")。
+此條目為[Mozilla Firefox發佈紀錄](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")。
 
 ## 正式和未來發佈版本
 
@@ -1884,8 +1883,7 @@ Firefox發佈紀錄](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")�
 </tbody>
 </table>
 
-其開發代號*Three Kings*、*Royal Oak*、*One Tree Hill*、*Mission
-Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.md "wikilink")[奧克蘭市](../Page/奧克蘭市.md "wikilink")内的地名；*Whangamata*是-{zh-tw:紐西蘭;zh-cn:新西兰}-[科羅曼德爾半島一個靠海的城鎮](https://zh.wikipedia.org/wiki/科羅曼德爾半島 "wikilink")。這些名字是由在奧克蘭長大的[本·古德傑](../Page/本·古德傑.md "wikilink")所命名的。其它在[Firefox藍圖](https://web.archive.org/web/20130402204814/http://www.mozilla.org/projects/firefox/roadmap.html)的代名則是在真實地圖上從[加州到](../Page/加利福尼亚州.md "wikilink")[鳳凰城這段路途中找來的](../Page/鳳凰城_\(亞利桑那州\).md "wikilink")。
+其開發代號*Three Kings*、*Royal Oak*、*One Tree Hill*、*Mission Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.md "wikilink")[奧克蘭市](../Page/奧克蘭市.md "wikilink")内的地名；*Whangamata*是-{zh-tw:紐西蘭;zh-cn:新西兰}-[科羅曼德爾半島一個靠海的城鎮](https://zh.wikipedia.org/wiki/科羅曼德爾半島 "wikilink")。這些名字是由在奧克蘭長大的[本·古德傑](../Page/本·古德傑.md "wikilink")所命名的。其它在[Firefox藍圖](https://web.archive.org/web/20130402204814/http://www.mozilla.org/projects/firefox/roadmap.html)的代名則是在真實地圖上從[加州到](../Page/加利福尼亚州.md "wikilink")[鳳凰城這段路途中找來的](../Page/鳳凰城_\(亞利桑那州\).md "wikilink")。
 
 ### 快速釋出週期
 
@@ -11254,6 +11252,34 @@ Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>69.0b7</p></td>
+<td><p><em>Firefox 69.0 Beta 7</em></p></td>
+<td><p>2019年7月23日</p></td>
+<td><p><em>第五個Firefox 69.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>69.0b8</p></td>
+<td><p><em>Firefox 69.0 Beta 8</em></p></td>
+<td><p>2019年7月26日</p></td>
+<td><p><em>第六個Firefox 69.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>69.0b9</p></td>
+<td><p><em>Firefox 69.0 Beta 9</em></p></td>
+<td><p>2019年7月31日</p></td>
+<td><p><em>第七個Firefox 69.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>69.0b10</p></td>
+<td><p><em>Firefox 69.0 Beta 10</em></p></td>
+<td><p>2019年8月2日</p></td>
+<td><p><em>第八個Firefox 69.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>69.0</p></td>
 <td><p><em>Firefox 69.0</em></p></td>
 <td><p>2019年9月3日</p></td>
@@ -11297,13 +11323,11 @@ Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.
 
 ## 相關條目
 
-  - [Mozilla
-    Firefox歷史](https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史 "wikilink")
+  - [Mozilla Firefox歷史](https://zh.wikipedia.org/wiki/Mozilla_Firefox歷史 "wikilink")
 
 ## 參考文獻
 
-[Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink")
-[Category:軟體版本列表](https://zh.wikipedia.org/wiki/Category:軟體版本列表 "wikilink")
+[Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink") [Category:軟體版本列表](https://zh.wikipedia.org/wiki/Category:軟體版本列表 "wikilink")
 
 1.  <https://wiki.mozilla.org/RapidRelease/Calendar#Future_branch_dates>
 
@@ -11929,8 +11953,7 @@ Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.
 
 316.
 
-317. "Version 35.0a2, first offered to Firefox Developer Edition users
-     on November 10, 2014"
+317. "Version 35.0a2, first offered to Firefox Developer Edition users on November 10, 2014"
 
 318.
 

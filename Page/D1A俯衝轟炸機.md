@@ -1,13 +1,10 @@
-D1A俯衝轟炸機可分成早期型的九四式俯衝轟炸機（D1A1）和後期型的九六式俯衝轟炸機（D1A2），D1A是愛知時計電機根據德國[亨克爾](../Page/亨克爾.md "wikilink")He
-50俯衝轟炸機研製而成的海軍艦載俯衝轟炸機，也是日本海軍第一種俯衝轟炸機
+D1A俯衝轟炸機可分成早期型的九四式俯衝轟炸機（D1A1）和後期型的九六式俯衝轟炸機（D1A2），D1A是愛知時計電機根據德國[亨克爾](../Page/亨克爾.md "wikilink")He 50俯衝轟炸機研製而成的海軍艦載俯衝轟炸機，也是日本海軍第一種俯衝轟炸機
 
 ## 研製簡史
 
-1932年[日本帝國海軍要有艦載俯衝轟炸機去裝備其航空母艦飛行隊](https://zh.wikipedia.org/wiki/日本帝國海軍 "wikilink")，愛知時計電機根據德國亨克爾He
-50俯衝轟炸機研製而成了AB-9俯衝轟炸機，1934年產時改名為九四式俯衝轟炸機（日文：九四式艦上爆撃機），採用中島壽二型改或壽三型風冷式發動機（460匹馬力），1936年推出改用中島光一型發動機（730匹馬力）和有整流罩的起落架車輪，改名為九六式俯衝轟炸機（日文：九六式艦上爆撃機）。
+1932年[日本帝國海軍要有艦載俯衝轟炸機去裝備其航空母艦飛行隊](https://zh.wikipedia.org/wiki/日本帝國海軍 "wikilink")，愛知時計電機根據德國亨克爾He 50俯衝轟炸機研製而成了AB-9俯衝轟炸機，1934年產時改名為九四式俯衝轟炸機（日文：九四式艦上爆撃機），採用中島壽二型改或壽三型風冷式發動機（460匹馬力），1936年推出改用中島光一型發動機（730匹馬力）和有整流罩的起落架車輪，改名為九六式俯衝轟炸機（日文：九六式艦上爆撃機）。
 
-九四式/九六式採用鋁合金製骨架，外覆帆布蒙皮，和其前身德國He
-50相比除了改用日本國產發動機還把主翼改為向後掠5度，此機飛行性能良好，當投完彈後甚至能當戰鬥機使用，以至在中國戰場上曾和[中國空軍戰鬥機打空戰](../Page/中華民國空軍.md "wikilink")。
+九四式/九六式採用鋁合金製骨架，外覆帆布蒙皮，和其前身德國He 50相比除了改用日本國產發動機還把主翼改為向後掠5度，此機飛行性能良好，當投完彈後甚至能當戰鬥機使用，以至在中國戰場上曾和[中國空軍戰鬥機打空戰](../Page/中華民國空軍.md "wikilink")。
 
 ## 基本資料（九六式）
 
@@ -38,8 +35,4 @@ D1A俯衝轟炸機可分成早期型的九四式俯衝轟炸機（D1A1）和後�
 
   - 舊日本陸海軍航空母艦全集（第二冊），叢丕，\<<戰艦>\>雜誌社
 
-[Category:日本轟炸機](https://zh.wikipedia.org/wiki/Category:日本轟炸機 "wikilink")
-[Category:艦載機](https://zh.wikipedia.org/wiki/Category:艦載機 "wikilink")
-[Category:大日本帝國海軍航空器](https://zh.wikipedia.org/wiki/Category:大日本帝國海軍航空器 "wikilink")
-[Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink")
-[Category:二戰俯衝轟炸機](https://zh.wikipedia.org/wiki/Category:二戰俯衝轟炸機 "wikilink")
+[Category:日本轟炸機](https://zh.wikipedia.org/wiki/Category:日本轟炸機 "wikilink") [Category:艦載機](https://zh.wikipedia.org/wiki/Category:艦載機 "wikilink") [Category:大日本帝國海軍航空器](https://zh.wikipedia.org/wiki/Category:大日本帝國海軍航空器 "wikilink") [Category:雙翼機](https://zh.wikipedia.org/wiki/Category:雙翼機 "wikilink") [Category:二戰俯衝轟炸機](https://zh.wikipedia.org/wiki/Category:二戰俯衝轟炸機 "wikilink")

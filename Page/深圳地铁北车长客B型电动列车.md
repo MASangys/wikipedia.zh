@@ -1,35 +1,13 @@
-深圳地铁北车长客B型电动列车 |公司色 =  |圖像 = Shenzhen Metro Line 3 2011 B Stock.jpg
-|圖像說明 = 列车在地面段行驶 |產量=43组 |輛數 = 258 |列車編組 = 4M2T |起動加速率 = ≥3.6
-|營運最高速度 = 85 |設計最高速度 = 100 |減速度（正常） = ≥3.6 |減速度（緊急） = ≥4.32 |信号系统 =
-庞巴迪CITYFLO650 |牵引系统 = Rotem |編組載客量 = 1,880 人 (AW3) |載客量 = Tc: 290 人
-(AW3)
+深圳地铁北车长客B型电动列车 |公司色 =  |圖像 = Shenzhen Metro Line 3 2011 B Stock.jpg |圖像說明 = 列车在地面段行驶 |產量=43组 |輛數 = 258 |列車編組 = 4M2T |起動加速率 = ≥3.6 |營運最高速度 = 85 |設計最高速度 = 100 |減速度（正常） = ≥3.6 |減速度（緊急） = ≥4.32 |信号系统 = 庞巴迪CITYFLO650 |牵引系统 = Rotem |編組載客量 = 1,880 人 (AW3) |載客量 = Tc: 290 人 (AW3)
 M: 325 人 (AW3) |編組長度 = 118.28 |全長 = Tc: 19,500 mm
-M: 19,000 |全闊 = 2,792 |全高 = 3,800 |最大尺寸 = |編組總重量 = |車輛重量 = |軌距 = 1,435
-|電化方式 =
-[直流](../Page/直流電.md "wikilink")1,500[V](../Page/伏特.md "wikilink")（[第三轨供电](https://zh.wikipedia.org/wiki/第三轨供电 "wikilink")）
-|受流方式 = 下接触型[集电靴](https://zh.wikipedia.org/wiki/集电靴 "wikilink") |輸出 =
-|電動機輸出 = |編組輸出 = |齒輪比 = |驅動裝置 = |控制裝置 =
-湘電-[現代Rotem](../Page/現代Rotem.md "wikilink")製
-[IGBT](https://zh.wikipedia.org/wiki/IGBT "wikilink")-[VVVF](https://zh.wikipedia.org/wiki/VVVF "wikilink")
-|制動方式 = 单侧双闸瓦踏面制动 |保安裝置 = |車身物料 =
-[不锈钢](https://zh.wikipedia.org/wiki/不锈钢 "wikilink") |轉向架 =
-[長春軌道客車](https://zh.wikipedia.org/wiki/長春軌道客車 "wikilink"):
+M: 19,000 |全闊 = 2,792 |全高 = 3,800 |最大尺寸 = |編組總重量 = |車輛重量 = |軌距 = 1,435 |電化方式 = [直流](../Page/直流電.md "wikilink")1,500[V](../Page/伏特.md "wikilink")（[第三轨供电](https://zh.wikipedia.org/wiki/第三轨供电 "wikilink")） |受流方式 = 下接触型[集电靴](https://zh.wikipedia.org/wiki/集电靴 "wikilink") |輸出 = |電動機輸出 = |編組輸出 = |齒輪比 = |驅動裝置 = |控制裝置 = 湘電-[現代Rotem](../Page/現代Rotem.md "wikilink")製
+[IGBT](https://zh.wikipedia.org/wiki/IGBT "wikilink")-[VVVF](https://zh.wikipedia.org/wiki/VVVF "wikilink") |制動方式 = 单侧双闸瓦踏面制动 |保安裝置 = |車身物料 = [不锈钢](https://zh.wikipedia.org/wiki/不锈钢 "wikilink") |轉向架 = [長春軌道客車](https://zh.wikipedia.org/wiki/長春軌道客車 "wikilink"):
 CW2100型（無動力車廂）/
-CW2100D型（動力車廂） |原產國 =  |傳動方式=直-交 |牽引電動機= |變速段數= |輪徑= 840 (新轮) |軸重= ≤14
-|軸距= 2,200 |用戶=[深圳市地铁三号线投资有限公司](../Page/深圳市地铁三号线投资有限公司.md "wikilink")
-|路線=[3號綫](https://zh.wikipedia.org/wiki/深圳地鐵3號綫 "wikilink") |訂單編號=
-|車輛編號=301-343 |型號 = |類型
-=[B型地铁车辆](https://zh.wikipedia.org/wiki/B型地铁车辆 "wikilink") |設計
-= |衍生自 = |衍生型 = |製造商 =
-[长春轨道客车](https://zh.wikipedia.org/wiki/長春軌道客車股份有限公司 "wikilink")
-|製造年份 = 2009年 |投入服務日期 = 2010年 |備註 = }}
-**深圳地铁北车长客B型电动列车**，是[深圳地铁的一款载客列车](https://zh.wikipedia.org/wiki/深圳地铁 "wikilink")，於[深圳地鐵](https://zh.wikipedia.org/wiki/深圳地鐵 "wikilink")[3號綫行走](https://zh.wikipedia.org/wiki/深圳地鐵3號綫 "wikilink")，列車由[长春轨道客车製造](https://zh.wikipedia.org/wiki/長春軌道客車股份有限公司 "wikilink")。
+CW2100D型（動力車廂） |原產國 =  |傳動方式=直-交 |牽引電動機= |變速段數= |輪徑= 840 (新轮) |軸重= ≤14 |軸距= 2,200 |用戶=[深圳市地铁三号线投资有限公司](../Page/深圳市地铁三号线投资有限公司.md "wikilink") |路線=[3號綫](https://zh.wikipedia.org/wiki/深圳地鐵3號綫 "wikilink") |訂單編號= |車輛編號=301-343 |型號 = |類型 =[B型地铁车辆](https://zh.wikipedia.org/wiki/B型地铁车辆 "wikilink") |設計 = |衍生自 = |衍生型 = |製造商 = [长春轨道客车](https://zh.wikipedia.org/wiki/長春軌道客車股份有限公司 "wikilink") |製造年份 = 2009年 |投入服務日期 = 2010年 |備註 = }} **深圳地铁北车长客B型电动列车**，是[深圳地铁的一款载客列车](https://zh.wikipedia.org/wiki/深圳地铁 "wikilink")，於[深圳地鐵](https://zh.wikipedia.org/wiki/深圳地鐵 "wikilink")[3號綫行走](https://zh.wikipedia.org/wiki/深圳地鐵3號綫 "wikilink")，列車由[长春轨道客车製造](https://zh.wikipedia.org/wiki/長春軌道客車股份有限公司 "wikilink")。
 
 ## 概要
 
-这款动车组由[长春轨道客车生产](https://zh.wikipedia.org/wiki/長春軌道客車股份有限公司 "wikilink")，列车共43组，每组列车由6节车厢组成，合共258节车厢。列车使用了由北京博得交通設備(Beijing
-Bode)生產的[内崁式门](https://zh.wikipedia.org/wiki/内崁式门 "wikilink")，可减低车厢内噪音。转向架为长春轨道客车基于CW2000型研制的CW2100(D)型标准轨距无摇枕弹簧转向架\[1\]。另外，每节列车亦安装了空气净化系统，为全国最先采用，有效降低细菌总数和浓度\[2\]。列车全部配属于[横岗车辆段](https://zh.wikipedia.org/wiki/横岗车辆段 "wikilink")。列车车门上方设有液晶显示屏,显示到站信息等。值得一提的是这批列车车头上印有三号线投资公司的徽标，但随着投资公司被深圳地铁收购，车辆使用权改属深圳地铁，而徽號在後期亦已更改。
-[Train_LCD_20141003_143438.jpg](https://zh.wikipedia.org/wiki/File:Train_LCD_20141003_143438.jpg "fig:Train_LCD_20141003_143438.jpg")
+这款动车组由[长春轨道客车生产](https://zh.wikipedia.org/wiki/長春軌道客車股份有限公司 "wikilink")，列车共43组，每组列车由6节车厢组成，合共258节车厢。列车使用了由北京博得交通設備(Beijing Bode)生產的[内崁式门](https://zh.wikipedia.org/wiki/内崁式门 "wikilink")，可减低车厢内噪音。转向架为长春轨道客车基于CW2000型研制的CW2100(D)型标准轨距无摇枕弹簧转向架\[1\]。另外，每节列车亦安装了空气净化系统，为全国最先采用，有效降低细菌总数和浓度\[2\]。列车全部配属于[横岗车辆段](https://zh.wikipedia.org/wiki/横岗车辆段 "wikilink")。列车车门上方设有液晶显示屏,显示到站信息等。值得一提的是这批列车车头上印有三号线投资公司的徽标，但随着投资公司被深圳地铁收购，车辆使用权改属深圳地铁，而徽號在後期亦已更改。 [Train_LCD_20141003_143438.jpg](https://zh.wikipedia.org/wiki/File:Train_LCD_20141003_143438.jpg "fig:Train_LCD_20141003_143438.jpg")
 
 ## 列车编组
 
@@ -77,8 +55,7 @@ Bode)生產的[内崁式门](https://zh.wikipedia.org/wiki/内崁式门 "wikilin
 
 ### 编组列表
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Car_03333_of_Line_3_Shenzhen_Metro.jpg "fig:缩略图")
-[Inside_the_train_of_Long_Gang_Line.jpg](https://zh.wikipedia.org/wiki/File:Inside_the_train_of_Long_Gang_Line.jpg "fig:Inside_the_train_of_Long_Gang_Line.jpg")
+[缩略图](https://zh.wikipedia.org/wiki/File:Car_03333_of_Line_3_Shenzhen_Metro.jpg "fig:缩略图") [Inside_the_train_of_Long_Gang_Line.jpg](https://zh.wikipedia.org/wiki/File:Inside_the_train_of_Long_Gang_Line.jpg "fig:Inside_the_train_of_Long_Gang_Line.jpg")
 
 |                                                                   |             |                                                                           |
 | :---------------------------------------------------------------- | :---------: | ------------------------------------------------------------------------: |
@@ -142,8 +119,7 @@ Bode)生產的[内崁式门](https://zh.wikipedia.org/wiki/内崁式门 "wikilin
 
 ## 參考資料
 
-[Category:深圳地鐵車輛](https://zh.wikipedia.org/wiki/Category:深圳地鐵車輛 "wikilink")
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
+[Category:深圳地鐵車輛](https://zh.wikipedia.org/wiki/Category:深圳地鐵車輛 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
 
 1.
 2.  [地鐵龍崗線車廂安裝空氣淨化器](http://www.building.hk/cn/view.asp?id=1595)，2011年1月12日，中港澳建造消息

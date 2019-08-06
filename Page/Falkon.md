@@ -13,18 +13,13 @@ Falkon為原本的[QtWebKit加入更多現代網頁標準的支援](../Page/WebK
   - 可外掛下載管理員、[RSS](../Page/RSS.md "wikilink")閱讀器
   - 由SSL憑證管理員把關網頁的安全，在進入提供不安全的憑證的網頁時會提出警告
 
-Falkon支援多種功能，但據報導其所佔用的系統資源少於許多知名的主流[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，如[Mozilla
-Firefox以及](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Google
-Chrome](../Page/Google_Chrome.md "wikilink")。\[3\]
+Falkon支援多種功能，但據報導其所佔用的系統資源少於許多知名的主流[網頁瀏覽器](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，如[Mozilla Firefox以及](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Google Chrome](../Page/Google_Chrome.md "wikilink")。\[3\]
 
 ## 歷史
 
-2010年十二月，David
-Rosca發起了QupZilla研發的計畫。第一個用來預覽成果的成品是由[Python](../Page/Python.md "wikilink")語言攥寫的（即使用[PyQt](../Page/PyQt.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")）並在2010年的12月完成。到了2011年，整個計畫由[C++](../Page/C++.md "wikilink")與[Qt](../Page/Qt.md "wikilink")重寫並確認以跨平台且與[桌面環境有高度整合性的輕量級瀏覽器為目標發展](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")。第一個穩定版本在2011年11月9日釋出。
+2010年十二月，David Rosca發起了QupZilla研發的計畫。第一個用來預覽成果的成品是由[Python](../Page/Python.md "wikilink")語言攥寫的（即使用[PyQt](../Page/PyQt.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")）並在2010年的12月完成。到了2011年，整個計畫由[C++](../Page/C++.md "wikilink")與[Qt](../Page/Qt.md "wikilink")重寫並確認以跨平台且與[桌面環境有高度整合性的輕量級瀏覽器為目標發展](https://zh.wikipedia.org/wiki/桌面環境 "wikilink")。第一個穩定版本在2011年11月9日釋出。
 
-2017年8月10日，QupZilla開發者David
-Rosca在部落格宣佈QupZilla成為[KDE](../Page/KDE.md "wikilink")專案。\[4\]Qupzilla
-2.2釋出之後專案將更名為「Falkon」。\[5\]KDE Falkon 3.0於2018年2月27日釋出。\[6\]
+2017年8月10日，QupZilla開發者David Rosca在部落格宣佈QupZilla成為[KDE](../Page/KDE.md "wikilink")專案。\[4\]Qupzilla 2.2釋出之後專案將更名為「Falkon」。\[5\]KDE Falkon 3.0於2018年2月27日釋出。\[6\]
 
 ## 註釋
 
@@ -38,10 +33,7 @@ Rosca在部落格宣佈QupZilla成為[KDE](../Page/KDE.md "wikilink")專案。\[
 ## 外部連結
 
   -
-[Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink")
-[Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink")
-[Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink")
-[Category:Webkit衍生軟體](https://zh.wikipedia.org/wiki/Category:Webkit衍生軟體 "wikilink")
+[Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink") [Category:软件列表](https://zh.wikipedia.org/wiki/Category:软件列表 "wikilink") [Category:使用Qt的軟體](https://zh.wikipedia.org/wiki/Category:使用Qt的軟體 "wikilink") [Category:Webkit衍生軟體](https://zh.wikipedia.org/wiki/Category:Webkit衍生軟體 "wikilink")
 
 1.
 

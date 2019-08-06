@@ -8,10 +8,7 @@
 
 ## 沿襲
 
-《TOKYO机场～东京机场管制保安部～》的劇情發生在[富士電視台](../Page/富士電視台.md "wikilink")收費頻道播放的劇集《[TOKYO
-CONTROL
-東京航空交通管制部](https://zh.wikipedia.org/wiki/TOKYO_CONTROL_東京航空交通管制部 "wikilink")》之後兩年，但主場景由[東京航空交通管制部](../Page/東京航空交通管制部.md "wikilink")（Tokyo
-Control）轉為羽田機場的管制塔。
+《TOKYO机场～东京机场管制保安部～》的劇情發生在[富士電視台](../Page/富士電視台.md "wikilink")收費頻道播放的劇集《[TOKYO CONTROL 東京航空交通管制部](https://zh.wikipedia.org/wiki/TOKYO_CONTROL_東京航空交通管制部 "wikilink")》之後兩年，但主場景由[東京航空交通管制部](../Page/東京航空交通管制部.md "wikilink")（Tokyo Control）轉為羽田機場的管制塔。
 
 部份前作演員則轉到管制保安部上工作，如[時任三郎](../Page/時任三郎.md "wikilink")飾演的結城昇、[梶原善飾演的矢野元治](https://zh.wikipedia.org/wiki/梶原善 "wikilink")、[野波麻帆飾演的中島晴](https://zh.wikipedia.org/wiki/野波麻帆 "wikilink")、[別所哲也飾演的冰室一生](https://zh.wikipedia.org/wiki/別所哲也 "wikilink")、及[螢雪次朗飾演的田邊明](https://zh.wikipedia.org/wiki/螢雪次朗 "wikilink")。而[野間口徹飾演的敷島貴志](https://zh.wikipedia.org/wiki/野間口徹 "wikilink")，則成為劇中由[小野武彥飾演的橫山博開設的](https://zh.wikipedia.org/wiki/小野武彥 "wikilink")「敷島咖啡」店長。另一主角[川原亞矢子飾演的鈴木真紀](https://zh.wikipedia.org/wiki/川原亞矢子 "wikilink")，則在第十集客串演出，但由東京區域管制中心轉職至[美国联邦航空管理局](../Page/美国联邦航空管理局.md "wikilink")。\[1\]
 
@@ -734,8 +731,7 @@ Control）轉為羽田機場的管制塔。
 
   - 南國天空航空機長（聲音） - 飯野智司（第3－4話）
   - 南國天空航空機長兼空軍一號機長（聲音） - 平床政治（第3－4話）
-  - 特別感謝 -
-    時任三郎、梶原善、深田恭子、佐佐木希、瀨戶朝香、[川原亞史子](https://zh.wikipedia.org/wiki/川原亞史子 "wikilink")（第4話）
+  - 特別感謝 - 時任三郎、梶原善、深田恭子、佐佐木希、瀨戶朝香、[川原亞史子](https://zh.wikipedia.org/wiki/川原亞史子 "wikilink")（第4話）
 
 ## 参考文献
 
@@ -752,14 +748,7 @@ Control）轉為羽田機場的管制塔。
 
 ## 節目的變遷
 
-[Category:航空题材电视剧](https://zh.wikipedia.org/wiki/Category:航空题材电视剧 "wikilink")
-[Category:亚洲航空交通管制](https://zh.wikipedia.org/wiki/Category:亚洲航空交通管制 "wikilink")
-[Category:東京國際機場背景作品](https://zh.wikipedia.org/wiki/Category:東京國際機場背景作品 "wikilink")
-[Category:2012年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年開播的日本電視劇集 "wikilink")
-[Category:電視影集衍生作品](https://zh.wikipedia.org/wiki/Category:電視影集衍生作品 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink")
-[Category:Dramatic_Sunday](https://zh.wikipedia.org/wiki/Category:Dramatic_Sunday "wikilink")
+[Category:航空题材电视剧](https://zh.wikipedia.org/wiki/Category:航空题材电视剧 "wikilink") [Category:亚洲航空交通管制](https://zh.wikipedia.org/wiki/Category:亚洲航空交通管制 "wikilink") [Category:東京國際機場背景作品](https://zh.wikipedia.org/wiki/Category:東京國際機場背景作品 "wikilink") [Category:2012年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年開播的日本電視劇集 "wikilink") [Category:電視影集衍生作品](https://zh.wikipedia.org/wiki/Category:電視影集衍生作品 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:Dramatic_Sunday](https://zh.wikipedia.org/wiki/Category:Dramatic_Sunday "wikilink")
 
 1.
 2.  ACCから空港（もしくはその逆）に異動する場合、または空港から他の空港に異動する場合は必ず一定の訓練を受ける事が義務付けられている。

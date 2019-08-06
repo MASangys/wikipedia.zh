@@ -34,8 +34,7 @@
 《**滬港點評**》（）於港股交易日16:30-17:00在[TVB新聞台](../Page/TVB新聞台.md "wikilink")播出。
 
   - 2012年1月3日前，《港股評述》（）在港股交易日16:30-16:45播出。
-  - 2012年1月3日開始，改在16:30-17:00只於無綫新聞台（現稱[TVB新聞台](../Page/TVB新聞台.md "wikilink")）播出，並改名《**港股點評**》（），於翌日00:30重播。而[TVB
-    Window於](https://zh.wikipedia.org/wiki/TVB_Window "wikilink")2013年6月13日啟播後開始與[TVB新聞台](../Page/TVB新聞台.md "wikilink")聯播。
+  - 2012年1月3日開始，改在16:30-17:00只於無綫新聞台（現稱[TVB新聞台](../Page/TVB新聞台.md "wikilink")）播出，並改名《**港股點評**》（），於翌日00:30重播。而[TVB Window於](https://zh.wikipedia.org/wiki/TVB_Window "wikilink")2013年6月13日啟播後開始與[TVB新聞台](../Page/TVB新聞台.md "wikilink")聯播。
 
 <!-- end list -->
 
@@ -69,5 +68,4 @@
 
 主播由[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[新聞及資訊部財經組記者兼任](https://zh.wikipedia.org/wiki/無綫新聞 "wikilink")，現時擔任主播的有[林小珍](../Page/林小珍.md "wikilink")、[范巧茹](../Page/范巧茹.md "wikilink")、[陳聞賢及](https://zh.wikipedia.org/wiki/陳聞賢 "wikilink")[陳正犖](https://zh.wikipedia.org/wiki/陳正犖 "wikilink")。
 
-[Category:無綫新聞節目](https://zh.wikipedia.org/wiki/Category:無綫新聞節目 "wikilink")
-[Category:財經節目](https://zh.wikipedia.org/wiki/Category:財經節目 "wikilink")
+[Category:無綫新聞節目](https://zh.wikipedia.org/wiki/Category:無綫新聞節目 "wikilink") [Category:財經節目](https://zh.wikipedia.org/wiki/Category:財經節目 "wikilink")

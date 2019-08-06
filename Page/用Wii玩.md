@@ -70,8 +70,7 @@
 ## 外部链接
 
   -
-[Category:Wii](https://zh.wikipedia.org/wiki/Category:Wii "wikilink")
-[Category:用Wii玩](https://zh.wikipedia.org/wiki/Category:用Wii玩 "wikilink")
+[Category:Wii](https://zh.wikipedia.org/wiki/Category:Wii "wikilink") [Category:用Wii玩](https://zh.wikipedia.org/wiki/Category:用Wii玩 "wikilink")
 
 1.
 

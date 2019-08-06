@@ -1384,21 +1384,23 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 | K-Plus                                              | 2017年4月1日                                                                             | KPLUS韩国娱乐频道播出韩国娱乐节目，以及韩国四大台（如[OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")、[JTBC](../Page/JTBC.md "wikilink")等）外的韩国戏剧、综艺、流行音乐节目等。 |
 |                                                     |                                                                                       |                                                                                                                                         |
 
+## 已开播频道
+
+‘爱奇艺 IQIYI HD CH300
+
+(替换Astro 喜悦HD［已停播］)
+
 ## 稍后启播的频道
 
-**即將來臨本地開播頻道**
+**即將來臨開播頻道**
 
-  - ACTV
-  - ACTV 2
-  - ACTV 3
-  - Enjoy TV
-  - NAM TV
-  - Syiok TV
-  - Caya TV
+  - Astro 小太阳 HD
   - RTM BES1 HD
   - RTM HD Sports
+  - Blue Ant Entertainment HD
+  - Blue Ant Extreme HD
 
-**高清頻道即將來臨**
+**高清頻道即將來臨 （预计10月开播）**
 
   - TV1 HD
   - TV2 HD
@@ -1482,8 +1484,6 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 
   - [Astro集團官方網站](http://www.astro.com.my/)
 
-[Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink")
-[Category:馬來西亞電視台](https://zh.wikipedia.org/wiki/Category:馬來西亞電視台 "wikilink")
-[Category:马来西亚相关列表](https://zh.wikipedia.org/wiki/Category:马来西亚相关列表 "wikilink")
+[Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink") [Category:馬來西亞電視台](https://zh.wikipedia.org/wiki/Category:馬來西亞電視台 "wikilink") [Category:马来西亚相关列表](https://zh.wikipedia.org/wiki/Category:马来西亚相关列表 "wikilink")
 
 1.  [Astro频道列表](http://whatson.astro.com.my/channels)

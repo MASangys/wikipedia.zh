@@ -1,27 +1,16 @@
-**小小寵物店**（）是[Hub
-Network的](https://zh.wikipedia.org/wiki/Hub_Network "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。本作描述一名高中女孩**布萊絲**和她的單親爸爸搬家到紐約市中心鎮的一家一樓設有寵物店的公寓頂樓，結果布萊絲無意發現自己聽的懂店中寵物說的話，而且還和牠們成了好朋友。劇中還以大量的音樂穿插在其中為特色。不僅如此，製作團隊因為本作是以流行的概念，所以布萊絲每集登場都以不同服裝亮相，而裁縫、設計服裝布萊絲她本人最大專長和嗜好。
+**小小寵物店**（）是[Hub Network的](https://zh.wikipedia.org/wiki/Hub_Network "wikilink")[動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")。本作描述一名高中女孩**布萊絲**和她的單親爸爸搬家到紐約市中心鎮的一家一樓設有寵物店的公寓頂樓，結果布萊絲無意發現自己聽的懂店中寵物說的話，而且還和牠們成了好朋友。劇中還以大量的音樂穿插在其中為特色。不僅如此，製作團隊因為本作是以流行的概念，所以布萊絲每集登場都以不同服裝亮相，而裁縫、設計服裝布萊絲她本人最大專長和嗜好。
 
-同頻道的節目《[彩虹小馬：友情就是魔法](https://zh.wikipedia.org/wiki/彩虹小馬：友情就是魔法 "wikilink")》的配音員之一艾絮列‧鮑爾([Ashleigh
-Ball](https://zh.wikipedia.org/wiki/Ashleigh_Ball "wikilink"))
-除了幫蘋果嘉兒、雲寳配音以外，她同時身兼本作主角布萊絲的配音。另外，除了她還有妮可‧奧立佛(Nicole
-Oliver)、托比塔‧St‧伽曼(Tabitha St Germain)也分別幫寵物店兩隻動物 -
-平毛尋回犬**柔伊(Zoe)**還有條紋臭鼬**胡椒/皮皮(Pepper)**配聲。
+同頻道的節目《[彩虹小馬：友情就是魔法](https://zh.wikipedia.org/wiki/彩虹小馬：友情就是魔法 "wikilink")》的配音員之一艾絮列‧鮑爾([Ashleigh Ball](https://zh.wikipedia.org/wiki/Ashleigh_Ball "wikilink")) 除了幫蘋果嘉兒、雲寳配音以外，她同時身兼本作主角布萊絲的配音。另外，除了她還有妮可‧奧立佛(Nicole Oliver)、托比塔‧St‧伽曼(Tabitha St Germain)也分別幫寵物店兩隻動物 - 平毛尋回犬**柔伊(Zoe)**還有條紋臭鼬**胡椒/皮皮(Pepper)**配聲。
 
 ## 概要
 
-1972年被孩之寶孩之寶收購的玩具公司Kenner推出一系列不同的布萊絲娃娃系列，特點是娃娃的眼珠不但可以眨，而且眼珠可以變顏色。但最初一年其銷售量不佳，因為造型嚇壞不少小孩的緣故。後來2001年重新銷售，對象以成人為主，卻在該年齡層大獲好評。到了2010年，孩之寶開始了布萊絲娃娃與小小寵物店的混合產品，名為Blythe
-Loves Littlest Pet Shop，成功回歸兒童市場。兩年後動畫Littlest Pet Shop
-(暫釋**小小寵物店**)在The HUB 播放，布萊絲成為主角。
+1972年被孩之寶孩之寶收購的玩具公司Kenner推出一系列不同的布萊絲娃娃系列，特點是娃娃的眼珠不但可以眨，而且眼珠可以變顏色。但最初一年其銷售量不佳，因為造型嚇壞不少小孩的緣故。後來2001年重新銷售，對象以成人為主，卻在該年齡層大獲好評。到了2010年，孩之寶開始了布萊絲娃娃與小小寵物店的混合產品，名為Blythe Loves Littlest Pet Shop，成功回歸兒童市場。兩年後動畫Littlest Pet Shop (暫釋**小小寵物店**)在The HUB 播放，布萊絲成為主角。
 
 雖然本節目是布萊絲首次登場，但在角色群中她卻不是第一個被創作出來的。在本作出現之前，孩之寶釋出的同系列短篇動畫中，布萊絲的設定為正派概念的角色化身。
 
 ## 大綱
 
-本作故事設定在重新造化過的紐約，市中心鎮為背景。主角一名高中女孩**布萊絲‧巴斯特**和她的單親爸爸**羅傑‧巴斯特**搬家到紐約市中心鎮的一家公寓頂樓。而在樓下一樓的地方則有一家名為「小小寵物店」(Littlest
-Pet
-Shop)專賣寵物用品、看護動物的小店，裡面也有各式各樣的寵物。而布萊絲的冒險則在第一天開始，從她發現自己的房間有個類似電梯的繩綁箱子可以通到一樓時，結果布萊絲無意發現自己竟然聽的懂店中寵物說的話，開始時驚魂甫定，後來在寵物們相互自我介紹之後，牠們慢慢和布萊絲成為好朋友。開始的序章是在說寵物店因鎮上新開張一棟名為「最大寵物店」(Largest
-Ever Pet
-Shop)而意外將關門大吉。後來在她安排一場寵物表演會之後，不但解除關門的危機，同時店長**湯柏莉**太太(Mrs.Twombly)也同意她每次放學時可以到店中幫忙。
+本作故事設定在重新造化過的紐約，市中心鎮為背景。主角一名高中女孩**布萊絲‧巴斯特**和她的單親爸爸**羅傑‧巴斯特**搬家到紐約市中心鎮的一家公寓頂樓。而在樓下一樓的地方則有一家名為「小小寵物店」(Littlest Pet Shop)專賣寵物用品、看護動物的小店，裡面也有各式各樣的寵物。而布萊絲的冒險則在第一天開始，從她發現自己的房間有個類似電梯的繩綁箱子可以通到一樓時，結果布萊絲無意發現自己竟然聽的懂店中寵物說的話，開始時驚魂甫定，後來在寵物們相互自我介紹之後，牠們慢慢和布萊絲成為好朋友。開始的序章是在說寵物店因鎮上新開張一棟名為「最大寵物店」(Largest Ever Pet Shop)而意外將關門大吉。後來在她安排一場寵物表演會之後，不但解除關門的危機，同時店長**湯柏莉**太太(Mrs.Twombly)也同意她每次放學時可以到店中幫忙。
 
 後來的故事都以她和寵物們還有班上同學的互動作為主軸。
 
@@ -177,8 +166,4 @@ Shop)而意外將關門大吉。後來在她安排一場寵物表演會之後，
 
 ## 集數列表
 
-[Category:美國動畫影集](https://zh.wikipedia.org/wiki/Category:美國動畫影集 "wikilink")
-[Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:孩之寶工作室電視劇](https://zh.wikipedia.org/wiki/Category:孩之寶工作室電視劇 "wikilink")
-[Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
+[Category:美國動畫影集](https://zh.wikipedia.org/wiki/Category:美國動畫影集 "wikilink") [Category:東森電視外購動畫](https://zh.wikipedia.org/wiki/Category:東森電視外購動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:孩之寶工作室電視劇](https://zh.wikipedia.org/wiki/Category:孩之寶工作室電視劇 "wikilink") [Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")

@@ -1,10 +1,4 @@
-**Hopelessly Romantic
-Collection**是[容祖兒的第](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")5張「新曲+精選」，亦是繼2008年《Love
-Joey Love
-Four》闊別五年的下一隻。此「新曲+精選」共有2[CD](../Page/CD.md "wikilink")+1[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，共收錄了35首[容祖兒由出道至今的](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")**慢歌精選**。碟中收錄了[On
-Call 36小時及](../Page/On_Call_36小時.md "wikilink")[On Call
-36小時II的主題曲](../Page/On_Call_36小時II.md "wikilink") -
-連續劇、續集以及雙子情歌、天窗兩首歌曲的合唱版。
+**Hopelessly Romantic Collection**是[容祖兒的第](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")5張「新曲+精選」，亦是繼2008年《Love Joey Love Four》闊別五年的下一隻。此「新曲+精選」共有2[CD](../Page/CD.md "wikilink")+1[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，共收錄了35首[容祖兒由出道至今的](https://zh.wikipedia.org/wiki/容祖兒 "wikilink")**慢歌精選**。碟中收錄了[On Call 36小時及](../Page/On_Call_36小時.md "wikilink")[On Call 36小時II的主題曲](../Page/On_Call_36小時II.md "wikilink") - 連續劇、續集以及雙子情歌、天窗兩首歌曲的合唱版。
 
 同月推出的《All Delicious Collection》則為**快歌精選**。
 
@@ -39,14 +33,10 @@ Call 36小時及](../Page/On_Call_36小時.md "wikilink")[On Call
 
 ## 參見
 
-  - [All Delicious Collection
-    快歌精選](https://zh.wikipedia.org/wiki/All_Delicious_Collection_快歌精選 "wikilink")
+  - [All Delicious Collection 快歌精選](https://zh.wikipedia.org/wiki/All_Delicious_Collection_快歌精選 "wikilink")
 
 ## 參考資料
 
 ## 外部連結
 
-[Category:容祖兒音樂專輯](https://zh.wikipedia.org/wiki/Category:容祖兒音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:容祖兒音樂專輯](https://zh.wikipedia.org/wiki/Category:容祖兒音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")

@@ -22,9 +22,6 @@ UTM-01是[韩国的第](https://zh.wikipedia.org/wiki/韩国 "wikilink")4款[磁
 
   - [UTM-02](../Page/UTM-02.md "wikilink")
 
-[Category:韩国电力动车组](https://zh.wikipedia.org/wiki/Category:韩国电力动车组 "wikilink")
-[Category:1500伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:1500伏直流电力动车组 "wikilink")
-[Category:磁懸浮列車](https://zh.wikipedia.org/wiki/Category:磁懸浮列車 "wikilink")
+[Category:韩国电力动车组](https://zh.wikipedia.org/wiki/Category:韩国电力动车组 "wikilink") [Category:1500伏直流电力动车组](https://zh.wikipedia.org/wiki/Category:1500伏直流电力动车组 "wikilink") [Category:磁懸浮列車](https://zh.wikipedia.org/wiki/Category:磁懸浮列車 "wikilink")
 
-1.  [韩国磁悬浮列车发展](http://www.chinametro.net/Content/DisplayArticle.aspx?ID=2520)
-     中国城市轨道交通网 2007-3-13
+1.  [韩国磁悬浮列车发展](http://www.chinametro.net/Content/DisplayArticle.aspx?ID=2520)  中国城市轨道交通网 2007-3-13

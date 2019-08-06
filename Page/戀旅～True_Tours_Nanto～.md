@@ -1,10 +1,8 @@
-《**戀旅～True Tours
-Nanto～**》（）是日本的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。2013年4月28日起於[日本](../Page/日本.md "wikilink")[南礪市地區播放](https://zh.wikipedia.org/wiki/南礪市 "wikilink")。
+《**戀旅～True Tours Nanto～**》（）是日本的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。2013年4月28日起於[日本](../Page/日本.md "wikilink")[南礪市地區播放](https://zh.wikipedia.org/wiki/南礪市 "wikilink")。
 
 ## 概要
 
-[P.A.
-Works以南礪市為舞台打造的旅遊宣傳動畫](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")。
+[P.A. Works以南礪市為舞台打造的旅遊宣傳動畫](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")。
 
 2013年4月28日開始在南礪市各地區限定放送。
 
@@ -53,8 +51,7 @@ Works以南礪市為舞台打造的旅遊宣傳動畫](https://zh.wikipedia.org/
   - 2D/特殊效果：加藤千惠
   - 音響監督：[若林和弘](../Page/若林和弘.md "wikilink")
   - 音樂：松田彬人
-  - 動畫制作：[P.A.
-    Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")
+  - 動畫制作：[P.A. Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")
   - 企劃協力：永谷敬之
   - 企劃：南礪市、南礪市觀光協會、戀旅Nanto project、P.A.WORKS、ヨーズマー、富山AR協會、MAKI planning
   - 製作：南礪市

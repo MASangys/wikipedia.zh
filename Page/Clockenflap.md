@@ -4,9 +4,7 @@ Clockenflap曾於2012年舉行中文命名比賽，並得出了「歌＋飛」�
 
 ## 歷史
 
-Clockenflap由原藉英國的Jay Forster、Mike Hill和Justin
-Sweeting於2008年所創辦\[3\]\[4\]。始於2003年，香港[維多利亞公園](../Page/維多利亞公園.md "wikilink")曾每年舉行，但卻因當時受到各方的打壓如噪音投訴，令音樂節最終於2006年結束；而Clockenflap的三位創辦人就是Rockit音樂節的工作團隊之一\[5\]。Clockenflap一名由Jay
-Forster於2005年時起，到了2008年，三人因覺得香港正處於「音樂節真空期」而開始籌辦第一屆Clockenflap音樂節\[6\]；目的要為香港大眾提供一個不只是「單向觀眾表演」，而雙方都會作互動的大型音樂文化節\[7\]。除此以外，他們亦希望音樂節可間接「把香港推進亞洲的當代媒體藝術圈之列」\[8\]。音樂節主要由數個國際大型音樂藝術節，如英國的[格拉斯頓伯里當代表演藝術節](https://zh.wikipedia.org/wiki/格拉斯頓伯里當代表演藝術節 "wikilink")、日本的[富士搖滾音樂祭及美國的](../Page/日本富士搖滾音樂祭.md "wikilink")[西南偏南](../Page/西南偏南.md "wikilink")等所啟發\[9\]。
+Clockenflap由原藉英國的Jay Forster、Mike Hill和Justin Sweeting於2008年所創辦\[3\]\[4\]。始於2003年，香港[維多利亞公園](../Page/維多利亞公園.md "wikilink")曾每年舉行，但卻因當時受到各方的打壓如噪音投訴，令音樂節最終於2006年結束；而Clockenflap的三位創辦人就是Rockit音樂節的工作團隊之一\[5\]。Clockenflap一名由Jay Forster於2005年時起，到了2008年，三人因覺得香港正處於「音樂節真空期」而開始籌辦第一屆Clockenflap音樂節\[6\]；目的要為香港大眾提供一個不只是「單向觀眾表演」，而雙方都會作互動的大型音樂文化節\[7\]。除此以外，他們亦希望音樂節可間接「把香港推進亞洲的當代媒體藝術圈之列」\[8\]。音樂節主要由數個國際大型音樂藝術節，如英國的[格拉斯頓伯里當代表演藝術節](https://zh.wikipedia.org/wiki/格拉斯頓伯里當代表演藝術節 "wikilink")、日本的[富士搖滾音樂祭及美國的](../Page/日本富士搖滾音樂祭.md "wikilink")[西南偏南](../Page/西南偏南.md "wikilink")等所啟發\[9\]。
 
 2008年，Clockenflap在[數碼港](../Page/數碼港.md "wikilink")舉行首屆音樂節，翌年同樣在數碼港舉行，並由一天延長至兩天。可是，主辦方收到了不少的噪音投訴，接下一年的Clockenflap音樂節（2010年）被迫遷至[黃竹坑](../Page/黃竹坑.md "wikilink")的工業大廈內進行，受遨的表演團體亦因此而比前屆的陣容較差，令音樂節險被告終收場\[10\]\[11\]。
 
@@ -40,8 +38,7 @@ Forster於2005年時起，到了2008年，三人因覺得香港正處於「音�
 
   - <big>Clockenflap 2013</big>
 
-第六屆Clockenflap於2013年11月29日至12月1日舉行，是第三年於西九文化區舉行，表演日增至三天。音樂節所邀請的表演單位比過往的更大：共有超過100個表演單位在七個不同的舞台表演，而佔地亦比上屆的多三分一\[24\]。在音樂表演方面，該屆首次邀請了[台灣的樂隊參加表演](https://zh.wikipedia.org/wiki/台灣 "wikilink")；而電影區則會播放由讚助商[英國文化協會](../Page/英國文化協會.md "wikilink")呈獻，經[英國電影協會修復的驚慄大師](https://zh.wikipedia.org/wiki/英國電影協會 "wikilink")[希治閣最後一部](https://zh.wikipedia.org/wiki/希治閣 "wikilink")[默片](https://zh.wikipedia.org/wiki/默片 "wikilink")《[敲詐](https://zh.wikipedia.org/wiki/敲詐_\(電影\) "wikilink")》，並由[史提芬‧漢納](https://zh.wikipedia.org/wiki/史提芬‧漢納 "wikilink")(Stephen
-Horne)加上配樂\[25\]。
+第六屆Clockenflap於2013年11月29日至12月1日舉行，是第三年於西九文化區舉行，表演日增至三天。音樂節所邀請的表演單位比過往的更大：共有超過100個表演單位在七個不同的舞台表演，而佔地亦比上屆的多三分一\[24\]。在音樂表演方面，該屆首次邀請了[台灣的樂隊參加表演](https://zh.wikipedia.org/wiki/台灣 "wikilink")；而電影區則會播放由讚助商[英國文化協會](../Page/英國文化協會.md "wikilink")呈獻，經[英國電影協會修復的驚慄大師](https://zh.wikipedia.org/wiki/英國電影協會 "wikilink")[希治閣最後一部](https://zh.wikipedia.org/wiki/希治閣 "wikilink")[默片](https://zh.wikipedia.org/wiki/默片 "wikilink")《[敲詐](https://zh.wikipedia.org/wiki/敲詐_\(電影\) "wikilink")》，並由[史提芬‧漢納](https://zh.wikipedia.org/wiki/史提芬‧漢納 "wikilink")(Stephen Horne)加上配樂\[25\]。
 
   - <big>Clockenflap 2014</big>
 
@@ -49,13 +46,11 @@ Horne)加上配樂\[25\]。
 
   - <big>Clockenflap 2015</big>
 
-第八屆Clockenflap於2015年11月26日至11月29日舉行，是第五年於西九文化區舉行。大會邀請了超過150個本地及國際表演單位，設立了九個舞台、兒童娛樂區、裝置藝術區、DIY工作坊、巨型吹氣玩意、多功能實驗性大舞臺、電影播放區等。2015年大會與[起動九龍東辦事處](../Page/起動九龍東辦事處.md "wikilink")合作，新設了「Clockenflap
-Pro小型音樂會」於正式的 Clockenflap 前一晚 (11月26日)，於觀塘海濱道122號舉行。\[27\]。
+第八屆Clockenflap於2015年11月26日至11月29日舉行，是第五年於西九文化區舉行。大會邀請了超過150個本地及國際表演單位，設立了九個舞台、兒童娛樂區、裝置藝術區、DIY工作坊、巨型吹氣玩意、多功能實驗性大舞臺、電影播放區等。2015年大會與[起動九龍東辦事處](../Page/起動九龍東辦事處.md "wikilink")合作，新設了「Clockenflap Pro小型音樂會」於正式的 Clockenflap 前一晚 (11月26日)，於觀塘海濱道122號舉行。\[27\]。
 
   - <big>Clockenflap 2016</big>
 
-第九屆Clockenflap於2016年11月25日至11月27日舉行，首次於中環海濱（中西區海濱長廊中環段）舉行。大會邀請了超過100個本地及國際表演單位，設立了三個音樂表演主舞台、一個電子音樂舞台、一個多功能實驗性舞台、劇場表演區、裝置藝術區、Mix
-DJ 工作坊、電影播放區等。\[28\]。
+第九屆Clockenflap於2016年11月25日至11月27日舉行，首次於中環海濱（中西區海濱長廊中環段）舉行。大會邀請了超過100個本地及國際表演單位，設立了三個音樂表演主舞台、一個電子音樂舞台、一個多功能實驗性舞台、劇場表演區、裝置藝術區、Mix DJ 工作坊、電影播放區等。\[28\]。
 
 ## 參考資料
 

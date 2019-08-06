@@ -1,8 +1,6 @@
 **约翰·克里普斯·威克利夫·贝克汉姆**（，）是一位[美国](../Page/美国政治.md "wikilink")[政治家](../Page/政治家.md "wikilink")，曾担任[肯塔基州](../Page/肯塔基州.md "wikilink")[第35任](../Page/肯塔基州州长列表.md "wikilink")[州长和](https://zh.wikipedia.org/wiki/肯塔基州州长 "wikilink")[联邦参议员](https://zh.wikipedia.org/wiki/联邦参议员 "wikilink")。他是该州在[美利坚合众国宪法第十七条修正案](../Page/美利坚合众国宪法第十七条修正案.md "wikilink")通过后经民众直接投票选举的首位联邦参议员。
 
-贝克汉姆出身显赫政治世家，他在[1899年肯塔基州州长选举](../Page/1899年肯塔基州州长选举.md "wikilink")中成为[民主党候选人](../Page/民主党_\(美国\).md "wikilink")[威廉·格贝尔](../Page/威廉·格贝尔.md "wikilink")的竞选搭档，但这时他还没有达到法定的州长任职年龄。格贝尔以微弱劣势不敌[共和党人威廉](https://zh.wikipedia.org/wiki/共和党_\(美国\) "wikilink")··泰勒，但民主党人控制的[肯塔基州议会](../Page/肯塔基州议会.md "wikilink")通过宣布一些支持共和党候选人的选票无效而扭转了选举结果，格贝尔在这场政治角力的过程中遭身份不明刺客枪杀，最终泰勒和贝克汉姆同意-{zh-cn:通过;
-zh-tw:透過;
-zh-hk:通過;}-法律途径来解决选举结果上的争议，官司一直上诉到[联邦最高法院](https://zh.wikipedia.org/wiki/联邦最高法院 "wikilink")，这期间的每一次判决都对贝克汉姆有利，他成功继任州长，而泰勒则因担心受到涉嫌刺杀格贝尔的指控而逃往[另外一个州](../Page/印第安纳州.md "wikilink")。
+贝克汉姆出身显赫政治世家，他在[1899年肯塔基州州长选举](../Page/1899年肯塔基州州长选举.md "wikilink")中成为[民主党候选人](../Page/民主党_\(美国\).md "wikilink")[威廉·格贝尔](../Page/威廉·格贝尔.md "wikilink")的竞选搭档，但这时他还没有达到法定的州长任职年龄。格贝尔以微弱劣势不敌[共和党人威廉](https://zh.wikipedia.org/wiki/共和党_\(美国\) "wikilink")··泰勒，但民主党人控制的[肯塔基州议会](../Page/肯塔基州议会.md "wikilink")通过宣布一些支持共和党候选人的选票无效而扭转了选举结果，格贝尔在这场政治角力的过程中遭身份不明刺客枪杀，最终泰勒和贝克汉姆同意-{zh-cn:通过; zh-tw:透過; zh-hk:通過;}-法律途径来解决选举结果上的争议，官司一直上诉到[联邦最高法院](https://zh.wikipedia.org/wiki/联邦最高法院 "wikilink")，这期间的每一次判决都对贝克汉姆有利，他成功继任州长，而泰勒则因担心受到涉嫌刺杀格贝尔的指控而逃往[另外一个州](../Page/印第安纳州.md "wikilink")。
 
 州长任期结束后，贝克汉姆参选[联邦参议员](https://zh.wikipedia.org/wiki/联邦参议员 "wikilink")，但赞成[禁酒的立场导致连他自己的党派都有四位议员投票反对他](https://zh.wikipedia.org/wiki/禁酒时期 "wikilink")，最终议席也由前共和党州长[威廉·O·布拉德利获得](../Page/威廉·奥康奈尔·布拉德利.md "wikilink")。六年后，贝克汉姆经普选当选联邦参议员，但由于赞成禁酒并且反对[女性参政而未能获得连任](https://zh.wikipedia.org/wiki/女性参政权 "wikilink")。之后的20年里贝克汉姆一直活跃在政坛，但始终未能出任民选公职，1927年参选州长和1936年竞选参议员均以失败告终。1940年1月9日，约翰·克里普斯·威克利夫·贝克汉姆在[路易維爾逝世](../Page/路易維爾_\(肯塔基州\).md "wikilink")，享壽70岁。
 
@@ -32,8 +30,7 @@ zh-hk:通過;}-法律途径来解决选举结果上的争议，官司一直上�
 
 《[肯塔基州宪法](https://zh.wikipedia.org/wiki/肯塔基州宪法 "wikilink")》中禁止州长连任，不过贝克汉姆还是宣布自己将参加1903年的州长选举\[37\]。他的候选人资格受到质疑，但法官裁决指出，贝克汉姆的第一个任期在时间上没有达到完整任期的标准，因此这次仍然有资格参加选举\[38\]。贝克汉姆之前帮助促进了党派内部的团结和与共和党的和解，而且所支持的大多是不存在争议的议题，因此比较顺利地赢得了民主党的提名\[39\]，同时也令普选中的共和党对手莫里斯·B·贝尔纳普（）无法提出任何起到明显作用的竞选议题\[40\]。最终贝克汉姆战胜贝尔纳普及另外三位候选人获得连任\[41\]。
 
-[KY_State_Capitol.jpg](https://zh.wikipedia.org/wiki/File:KY_State_Capitol.jpg "fig:KY_State_Capitol.jpg")
-1904年，贝克汉姆重新向州议会提出统一教科书价格的法案，该法案在他第一个任期里没有获得通过\[42\]。议会这次通过了法案，这也成为1904年立法会议期间通过的为数不多的几个重大改革法案之一\[43\]。此外，这届议会还批准了拨款建设[新议会大厦和已故州长格贝尔的纪念馆](https://zh.wikipedia.org/wiki/肯塔基州议会大厦 "wikilink")\[44\]。
+[KY_State_Capitol.jpg](https://zh.wikipedia.org/wiki/File:KY_State_Capitol.jpg "fig:KY_State_Capitol.jpg") 1904年，贝克汉姆重新向州议会提出统一教科书价格的法案，该法案在他第一个任期里没有获得通过\[42\]。议会这次通过了法案，这也成为1904年立法会议期间通过的为数不多的几个重大改革法案之一\[43\]。此外，这届议会还批准了拨款建设[新议会大厦和已故州长格贝尔的纪念馆](https://zh.wikipedia.org/wiki/肯塔基州议会大厦 "wikilink")\[44\]。
 
 1904年3月，贝克汉姆签署了对州内所有[学校](../Page/学校.md "wikilink")实行强制[种族隔离](../Page/种族隔离.md "wikilink")的法律。位于肯塔基州东部，自19世纪50年代起就已实行种族融合制度的[伯里亚学院](../Page/伯里亚学院.md "wikilink")立即向法院提交诉状，对这条新法律发起挑战。巡回法院和上诉法院都维持了这条法律的实质部分，伯里亚学院之后又向联邦最高法院上诉，最高法院于1908年以8比1作出裁决，支持州法院的裁决，其中唯一的异议仍然是由大法官约翰·马歇尔·哈伦提出的。\[45\]
 
@@ -67,8 +64,7 @@ zh-hk:通過;}-法律途径来解决选举结果上的争议，官司一直上�
 
 贝克汉姆原本期望能在1935年再度获得民主党的州长候选人提名，但1934年底儿子的突然去世令他悲痛欲绝，同时他的[妻子](../Page/妻子.md "wikilink")也反对[丈夫](../Page/丈夫.md "wikilink")再度参选\[82\]。民主党最终选择了[亨德森的](https://zh.wikipedia.org/wiki/亨德森_\(肯塔基州\) "wikilink")[A·B·“哈皮”·钱德勒](../Page/哈皮·钱德勒.md "wikilink")，后者最终也成功当选\[83\]。贝克汉姆支持钱德勒当选，对方也投桃报李，于1936年指派他进入肯塔基州公共服务委员会任职\[84\]。此外，贝克汉姆还曾在商务规例委员会部任职，并担任州政府重组委员会主席\[85\]。
 
-[Wickland_1.JPG](https://zh.wikipedia.org/wiki/File:Wickland_1.JPG "fig:Wickland_1.JPG")。\]\]
-1936年，贝克汉姆再度参选联邦参议员。赛马会头目詹姆斯··布朗（）的银行帝国于1930年倒塌后，他的财富和影响力也烟消云散\[86\]。1933年，贝克汉姆的盟友罗伯特·宾汉姆获得指派成为圣詹姆斯朝廷大使，使贝克汉姆的声望和影响力都有了进一步增长\[87\]，同时他还拥有[美国煤矿工人工会以及路易斯维尔](https://zh.wikipedia.org/wiki/美国煤矿工人工会 "wikilink")[市长](../Page/市长.md "wikilink")内维尔·米勒（）的支持\[88\]。然而，曾担任[肯塔基州众议院议长和联邦众议员的民主党人约翰](https://zh.wikipedia.org/wiki/肯塔基州众议院 "wikilink")··布朗（）加入了竞争，令局面变得复杂起来\[89\]。布朗曾同意支持钱德勒竞选州长以换取后者对他竞选参议员的支持\[90\]，然而钱德勒改变了主意，选择支持贝克汉姆，布朗也无法在没有宾汉姆和贝克汉姆支持的情况下赢得选举。最终他获得了85000票支持，其中大部分都是贝克汉姆的支持者\[91\]\[92\]。共和党在任参议员·洛根（）最终以仅2385票的优势保住了自己的议席\[93\]。
+[Wickland_1.JPG](https://zh.wikipedia.org/wiki/File:Wickland_1.JPG "fig:Wickland_1.JPG")。\]\] 1936年，贝克汉姆再度参选联邦参议员。赛马会头目詹姆斯··布朗（）的银行帝国于1930年倒塌后，他的财富和影响力也烟消云散\[86\]。1933年，贝克汉姆的盟友罗伯特·宾汉姆获得指派成为圣詹姆斯朝廷大使，使贝克汉姆的声望和影响力都有了进一步增长\[87\]，同时他还拥有[美国煤矿工人工会以及路易斯维尔](https://zh.wikipedia.org/wiki/美国煤矿工人工会 "wikilink")[市长](../Page/市长.md "wikilink")内维尔·米勒（）的支持\[88\]。然而，曾担任[肯塔基州众议院议长和联邦众议员的民主党人约翰](https://zh.wikipedia.org/wiki/肯塔基州众议院 "wikilink")··布朗（）加入了竞争，令局面变得复杂起来\[89\]。布朗曾同意支持钱德勒竞选州长以换取后者对他竞选参议员的支持\[90\]，然而钱德勒改变了主意，选择支持贝克汉姆，布朗也无法在没有宾汉姆和贝克汉姆支持的情况下赢得选举。最终他获得了85000票支持，其中大部分都是贝克汉姆的支持者\[91\]\[92\]。共和党在任参议员·洛根（）最终以仅2385票的优势保住了自己的议席\[93\]。
 
 1940年1月9日，约翰·克里普斯·威克利夫·贝克汉姆在路易斯维尔逝世，享年70岁，随后下葬在[法兰克福的](../Page/法兰克福_\(肯塔基州\).md "wikilink")[法兰克福公墓](https://zh.wikipedia.org/wiki/法兰克福公墓 "wikilink")\[94\]。1907年，[俄克拉何马州召开制宪大会](https://zh.wikipedia.org/wiki/俄克拉何马州 "wikilink")，在一位来自肯塔基州代表的建议下，该州的一个县被命名为[贝坎县](https://zh.wikipedia.org/wiki/贝坎县 "wikilink")（）来纪念贝克汉姆\[95\]，他出生的威克兰也于1973年入选[国家史迹名录](https://zh.wikipedia.org/wiki/国家史迹名录 "wikilink")\[96\]。
 
@@ -82,17 +78,7 @@ zh-hk:通過;}-法律途径来解决选举结果上的争议，官司一直上�
 
   - [泰勒诉贝克汉姆案](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=178&invol=610)
 
-[Category:美國長老宗教徒](https://zh.wikipedia.org/wiki/Category:美國長老宗教徒 "wikilink")
-[Category:肯塔基大学校友](https://zh.wikipedia.org/wiki/Category:肯塔基大学校友 "wikilink")
-[Category:肯塔基州州长](https://zh.wikipedia.org/wiki/Category:肯塔基州州长 "wikilink")
-[Category:美国民主党州长](https://zh.wikipedia.org/wiki/Category:美国民主党州长 "wikilink")
-[Category:肯塔基州副州长](https://zh.wikipedia.org/wiki/Category:肯塔基州副州长 "wikilink")
-[Category:肯塔基州众议院议长](https://zh.wikipedia.org/wiki/Category:肯塔基州众议院议长 "wikilink")
-[Category:美国民主党联邦参议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦参议员 "wikilink")
-[Category:肯塔基州民主党人](https://zh.wikipedia.org/wiki/Category:肯塔基州民主党人 "wikilink")
-[Category:肯塔基州眾議員](https://zh.wikipedia.org/wiki/Category:肯塔基州眾議員 "wikilink")
-[Category:葬于法兰克福公墓](https://zh.wikipedia.org/wiki/Category:葬于法兰克福公墓 "wikilink")
-[Category:美国禁酒活动家](https://zh.wikipedia.org/wiki/Category:美国禁酒活动家 "wikilink")
+[Category:美國長老宗教徒](https://zh.wikipedia.org/wiki/Category:美國長老宗教徒 "wikilink") [Category:肯塔基大学校友](https://zh.wikipedia.org/wiki/Category:肯塔基大学校友 "wikilink") [Category:肯塔基州州长](https://zh.wikipedia.org/wiki/Category:肯塔基州州长 "wikilink") [Category:美国民主党州长](https://zh.wikipedia.org/wiki/Category:美国民主党州长 "wikilink") [Category:肯塔基州副州长](https://zh.wikipedia.org/wiki/Category:肯塔基州副州长 "wikilink") [Category:肯塔基州众议院议长](https://zh.wikipedia.org/wiki/Category:肯塔基州众议院议长 "wikilink") [Category:美国民主党联邦参议员](https://zh.wikipedia.org/wiki/Category:美国民主党联邦参议员 "wikilink") [Category:肯塔基州民主党人](https://zh.wikipedia.org/wiki/Category:肯塔基州民主党人 "wikilink") [Category:肯塔基州眾議員](https://zh.wikipedia.org/wiki/Category:肯塔基州眾議員 "wikilink") [Category:葬于法兰克福公墓](https://zh.wikipedia.org/wiki/Category:葬于法兰克福公墓 "wikilink") [Category:美国禁酒活动家](https://zh.wikipedia.org/wiki/Category:美国禁酒活动家 "wikilink")
 
 1.
 

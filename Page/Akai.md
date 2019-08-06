@@ -1,5 +1,4 @@
-**Akai**，即日語「**赤井**」，為過去一家日本電器製造商**赤井電機株式会社**（），以及現今他廠冠名使用的電器[品牌](../Page/品牌.md "wikilink")。赤井電機遭收購後，承繼品牌的法人有**雅佳**、**AKAI
-professional**公司。
+**Akai**，即日語「**赤井**」，為過去一家日本電器製造商**赤井電機株式会社**（），以及現今他廠冠名使用的電器[品牌](../Page/品牌.md "wikilink")。赤井電機遭收購後，承繼品牌的法人有**雅佳**、**AKAI professional**公司。
 
 ## 概要
 
@@ -25,21 +24,13 @@ professional**公司。
 
 ## 雅佳
 
-**善美（環球）有限公司**（Semi-Tech (Global) Company
-Limited）\[7\]收購赤井電機後，將「Akai」品牌命名中文「雅佳」，並於1999年7月29日易名**雅佳控股有限公司**（Akai
-Holdings
-Limited）\[8\]\[9\]，象徵居該品牌的主導地位；終因[亞洲金融風暴](../Page/亞洲金融風暴.md "wikilink")波及而爆出帳目不實、鉅額虧損\[10\]，在2000年8月被強制[清盤](../Page/清盤.md "wikilink")\[11\]，「Akai」（雅佳）相關子公司與[商標](https://zh.wikipedia.org/wiki/商標 "wikilink")、[特許權轉讓給](https://zh.wikipedia.org/wiki/特許權 "wikilink")[嘉域集團](https://zh.wikipedia.org/wiki/嘉域集團 "wikilink")。
+**善美（環球）有限公司**（Semi-Tech (Global) Company Limited）\[7\]收購赤井電機後，將「Akai」品牌命名中文「雅佳」，並於1999年7月29日易名**雅佳控股有限公司**（Akai Holdings Limited）\[8\]\[9\]，象徵居該品牌的主導地位；終因[亞洲金融風暴](../Page/亞洲金融風暴.md "wikilink")波及而爆出帳目不實、鉅額虧損\[10\]，在2000年8月被強制[清盤](../Page/清盤.md "wikilink")\[11\]，「Akai」（雅佳）相關子公司與[商標](https://zh.wikipedia.org/wiki/商標 "wikilink")、[特許權轉讓給](https://zh.wikipedia.org/wiki/特許權 "wikilink")[嘉域集團](https://zh.wikipedia.org/wiki/嘉域集團 "wikilink")。
 
-嘉域集團持有其商標、特許權\[12\]，採行「國際品牌」（實為「品牌傘＝umbrella
-brands」）策略，[授權他廠冠名生產](https://zh.wikipedia.org/wiki/授權 "wikilink")、銷售同品牌電器用品，但並非香港嘉域或日本赤井的關係企業。
+嘉域集團持有其商標、特許權\[12\]，採行「國際品牌」（實為「品牌傘＝umbrella brands」）策略，[授權他廠冠名生產](https://zh.wikipedia.org/wiki/授權 "wikilink")、銷售同品牌電器用品，但並非香港嘉域或日本赤井的關係企業。
 
 ## AKAI professional
 
-1999年12月7日，電子樂器（electronic musical
-instrument，EMI）事業部從赤井電機独立為\[13\]，負責「AKAI
-professional」、「AKAI
-DIGITAL」、「NineteenNinetyseven」品牌製品開發、製造、販賣服務。当初有獲利，但後來跟年輕人的樂器脫節，加上個人電腦音樂合成軟體普及，銷售額减少、經營惡化。2005年12月被法院裁定破產，「AKAI
-professional」和「AKAI DIGITAL」（後剩前者）品牌由美國inMusic Brands Inc.持有。
+1999年12月7日，電子樂器（electronic musical instrument，EMI）事業部從赤井電機独立為\[13\]，負責「AKAI professional」、「AKAI DIGITAL」、「NineteenNinetyseven」品牌製品開發、製造、販賣服務。当初有獲利，但後來跟年輕人的樂器脫節，加上個人電腦音樂合成軟體普及，銷售額减少、經營惡化。2005年12月被法院裁定破產，「AKAI professional」和「AKAI DIGITAL」（後剩前者）品牌由美國inMusic Brands Inc.持有。
 
 ## 註釋
 
@@ -53,12 +44,7 @@ professional」和「AKAI DIGITAL」（後剩前者）品牌由美國inMusic Bra
   - [Akai Professional](http://www.akaipro.com/)
   - Akai Professional→AK NET→APMI、
 
-[Category:1929年建立](https://zh.wikipedia.org/wiki/Category:1929年建立 "wikilink")
-[Category:1946年成立的公司](https://zh.wikipedia.org/wiki/Category:1946年成立的公司 "wikilink")
-[Category:音频器材生产商](https://zh.wikipedia.org/wiki/Category:音频器材生产商 "wikilink")
-[Category:日本電子公司](https://zh.wikipedia.org/wiki/Category:日本電子公司 "wikilink")
-[Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink")
-[Category:東京證券交易所已除牌公司](https://zh.wikipedia.org/wiki/Category:東京證券交易所已除牌公司 "wikilink")
+[Category:1929年建立](https://zh.wikipedia.org/wiki/Category:1929年建立 "wikilink") [Category:1946年成立的公司](https://zh.wikipedia.org/wiki/Category:1946年成立的公司 "wikilink") [Category:音频器材生产商](https://zh.wikipedia.org/wiki/Category:音频器材生产商 "wikilink") [Category:日本電子公司](https://zh.wikipedia.org/wiki/Category:日本電子公司 "wikilink") [Category:澀谷區公司](https://zh.wikipedia.org/wiki/Category:澀谷區公司 "wikilink") [Category:東京證券交易所已除牌公司](https://zh.wikipedia.org/wiki/Category:東京證券交易所已除牌公司 "wikilink")
 
 1.
 2.  [](http://www.bookpark.ne.jp/cm/contentdetail.asp?content_id=KBSP-00138)
@@ -66,16 +52,10 @@ professional」和「AKAI DIGITAL」（後剩前者）品牌由美國inMusic Bra
 4.
 5.
 6.  [](http://www.kabu-toushi.com/investmentmuseum/kabuken/akaidenki.html)
-7.  [SEMI-TECH\<0448\> -
-    公告](http://www.hkexnews.hk/listedco/listconews/sehk/1999/0629/LTN19990629031_C.HTM).
-    HKExnews. 1999-06-29.
-8.  [SEMI-TECH\<0448\> -
-    更改公司名稱](http://www.hkexnews.hk/listedco/listconews/sehk/1999/0729/LTN19990729043_C.HTM).
-    HKExnews. 1999-07-29.
+7.  [SEMI-TECH\<0448\> - 公告](http://www.hkexnews.hk/listedco/listconews/sehk/1999/0629/LTN19990629031_C.HTM). HKExnews. 1999-06-29.
+8.  [SEMI-TECH\<0448\> - 更改公司名稱](http://www.hkexnews.hk/listedco/listconews/sehk/1999/0729/LTN19990729043_C.HTM). HKExnews. 1999-07-29.
 9.  . HKExnews. 2002-11-26.
-10. [丁謂遭申請破產清盤](http://hk.apple.nextmedia.com/financeestate/art/20121125/18079411).
-    香港蘋果日報. 2012-11-25.
-11. [雅佳控股有限公司 對
-    安永（一家香港公司）](http://legalref.judiciary.gov.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=85884&QS=%2B&TP=JU)
+10. [丁謂遭申請破產清盤](http://hk.apple.nextmedia.com/financeestate/art/20121125/18079411). 香港蘋果日報. 2012-11-25.
+11. [雅佳控股有限公司 對 安永（一家香港公司）](http://legalref.judiciary.gov.hk/lrs/common/search/search_result_detail_frame.jsp?DIS=85884&QS=%2B&TP=JU)
 12. ，特許權部份參照報表中〈業務回顧及前景（續）〉一節。
 13.

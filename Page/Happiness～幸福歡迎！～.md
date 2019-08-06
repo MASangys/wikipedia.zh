@@ -1,6 +1,4 @@
-《**Happiness
-～幸福歡迎\!～**》（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第4張[单曲](../Page/单曲.md "wikilink")。2004年8月25日由[PICCOLO
-TOWN发售](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
+《**Happiness ～幸福歡迎\!～**》（）是[日本](../Page/日本.md "wikilink")的女子偶像組合[Berryz工房](../Page/Berryz工房.md "wikilink")的第4張[单曲](../Page/单曲.md "wikilink")。2004年8月25日由[PICCOLO TOWN发售](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
 ## 概要
 
@@ -12,11 +10,9 @@ TOWN发售](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 ## 收錄曲目
 
 1.  **Happiness ～幸福歡迎\!～**
-    （作詞、作曲：[淳君](../Page/淳君.md "wikilink")
-    編曲：[守尾崇](https://zh.wikipedia.org/wiki/守尾崇 "wikilink")）
+    （作詞、作曲：[淳君](../Page/淳君.md "wikilink") 編曲：[守尾崇](https://zh.wikipedia.org/wiki/守尾崇 "wikilink")）
 2.  **友情 純情 oh 青春**
-    （作詞、作曲：[淳君](../Page/淳君.md "wikilink")
-    編曲：[鈴木俊介](https://zh.wikipedia.org/wiki/鈴木俊介 "wikilink")）
+    （作詞、作曲：[淳君](../Page/淳君.md "wikilink") 編曲：[鈴木俊介](https://zh.wikipedia.org/wiki/鈴木俊介 "wikilink")）
 3.  Happiness ～幸福歡迎\! ～（Instrumental）
 
 ## 備註
@@ -25,10 +21,8 @@ TOWN发售](https://zh.wikipedia.org/wiki/PICCOLO_TOWN "wikilink")。
 
   -
   -
-  - [UP-FRONT
-    WORKS唱片](https://web.archive.org/web/20081012144049/http://www.up-front-works.jp/discography/piccolotown/05/s_04/)
+  - [UP-FRONT WORKS唱片](https://web.archive.org/web/20081012144049/http://www.up-front-works.jp/discography/piccolotown/05/s_04/)
 
-[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
-[Category:Berryz工房歌曲](https://zh.wikipedia.org/wiki/Category:Berryz工房歌曲 "wikilink")
+[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink") [Category:Berryz工房歌曲](https://zh.wikipedia.org/wiki/Category:Berryz工房歌曲 "wikilink")
 
 1.

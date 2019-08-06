@@ -1,6 +1,4 @@
-《**EXIT TUNES PRESENTS Vocalogenesis
-feat.初音未來**》是2010年5月19日發布的，藉由[初音未來](../Page/初音未來.md "wikilink")等歌聲合成軟體[VOCALOID](../Page/VOCALOID.md "wikilink")創作的歌曲的[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")。發售元[EXIT
-TUNES](../Page/EXIT_TUNES.md "wikilink")、販售元[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+《**EXIT TUNES PRESENTS Vocalogenesis feat.初音未來**》是2010年5月19日發布的，藉由[初音未來](../Page/初音未來.md "wikilink")等歌聲合成軟體[VOCALOID](../Page/VOCALOID.md "wikilink")創作的歌曲的[合輯](https://zh.wikipedia.org/wiki/合輯 "wikilink")。發售元[EXIT TUNES](../Page/EXIT_TUNES.md "wikilink")、販售元[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
 宣傳標語為「****」。
 
@@ -17,9 +15,7 @@ TUNES](../Page/EXIT_TUNES.md "wikilink")、販售元[波麗佳音](https://zh.wi
 ## 外部連結
 
   -
-[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink")
-[Category:使用Vocaloid的歌曲](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的歌曲 "wikilink")
-[Category:合輯](https://zh.wikipedia.org/wiki/Category:合輯 "wikilink")
+[Category:2010年音樂專輯](https://zh.wikipedia.org/wiki/Category:2010年音樂專輯 "wikilink") [Category:使用Vocaloid的歌曲](https://zh.wikipedia.org/wiki/Category:使用Vocaloid的歌曲 "wikilink") [Category:合輯](https://zh.wikipedia.org/wiki/Category:合輯 "wikilink")
 
 1.
 

@@ -1,8 +1,6 @@
-《**Healing
-Camp**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS由](../Page/SBS_\(韓國\).md "wikilink")2011年7月18日起播放的訪談節目，由[金济东](https://zh.wikipedia.org/wiki/金济东 "wikilink")、[韩惠軫](https://zh.wikipedia.org/wiki/韩惠軫 "wikilink")、[李敬揆](../Page/李敬揆.md "wikilink")三位主持人组成。每期会邀请一位或几位嘉宾，和嘉宾们一起谈论嘉宾们的生活经历等等。节目风格自然清新，让人倍感舒适的同时也不时穿插着一些搞笑亮点。
+《**Healing Camp**》（）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS由](../Page/SBS_\(韓國\).md "wikilink")2011年7月18日起播放的訪談節目，由[金济东](https://zh.wikipedia.org/wiki/金济东 "wikilink")、[韩惠軫](https://zh.wikipedia.org/wiki/韩惠軫 "wikilink")、[李敬揆](../Page/李敬揆.md "wikilink")三位主持人组成。每期会邀请一位或几位嘉宾，和嘉宾们一起谈论嘉宾们的生活经历等等。节目风格自然清新，让人倍感舒适的同时也不时穿插着一些搞笑亮点。
 
-其中[韩惠軫在](https://zh.wikipedia.org/wiki/韩惠軫 "wikilink")2013年8月12日正式下车，由演员[成宥利](../Page/成宥利.md "wikilink")接替主持。2015年7月20日，[李京奎和](https://zh.wikipedia.org/wiki/李京奎 "wikilink")[成宥利](../Page/成宥利.md "wikilink")下車，節目於第194集起改以499位市民及[金济东一起以](https://zh.wikipedia.org/wiki/金济东 "wikilink")「500
-vs 1（嘉賓）」形式主持，節目名稱改為。
+其中[韩惠軫在](https://zh.wikipedia.org/wiki/韩惠軫 "wikilink")2013年8月12日正式下车，由演员[成宥利](../Page/成宥利.md "wikilink")接替主持。2015年7月20日，[李京奎和](https://zh.wikipedia.org/wiki/李京奎 "wikilink")[成宥利](../Page/成宥利.md "wikilink")下車，節目於第194集起改以499位市民及[金济东一起以](https://zh.wikipedia.org/wiki/金济东 "wikilink")「500 vs 1（嘉賓）」形式主持，節目名稱改為。
 
 製作組表示節目於2016年2月1日播出最後一集。\[1\]
 
@@ -1231,8 +1229,7 @@ vs 1（嘉賓）」形式主持，節目名稱改為。
 
 ## 收視率
 
-以下紀錄《**Healing
-Camp**》節目之全國收視，<span style=color:red>**紅色**</span>表示為該年度最高收視率，<span style=color:blue>**藍色**</span>則表示為該年度最低收視率。
+以下紀錄《**Healing Camp**》節目之全國收視，<span style=color:red>**紅色**</span>表示為該年度最高收視率，<span style=color:blue>**藍色**</span>則表示為該年度最低收視率。
 
 ### 2011
 
@@ -1415,20 +1412,15 @@ Camp**》節目之全國收視，<span style=color:red>**紅色**</span>表示�
 
 ## 註釋說明
 
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
+[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
 
 1.
 
 2.  張睿元只參演第187集。
 
-3.   [TNmS Multimedia Ratings
-    Page](http://www.tnms.tv/rating/default.asp?menu=Gi_Daily)
+3.   [TNmS Multimedia Ratings Page](http://www.tnms.tv/rating/default.asp?menu=Gi_Daily)
 
-4.   [AGB Nielsen Media Research Ratings
-    Page](http://www.agbnielsen.co.kr/_hannet/agb/f_rating/rating_01a.asp)
-
+4.   [AGB Nielsen Media Research Ratings Page](http://www.agbnielsen.co.kr/_hannet/agb/f_rating/rating_01a.asp)
 
 5.
 6.

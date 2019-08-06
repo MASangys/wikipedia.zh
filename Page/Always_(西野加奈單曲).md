@@ -2,11 +2,9 @@
 
 ## 解說
 
-  - 與前作《[GO FOR
-    IT\!\!](../Page/GO_FOR_IT!!.md "wikilink")》相隔約5個月的單曲。2012年第4彈單曲。
+  - 與前作《[GO FOR IT\!\!](../Page/GO_FOR_IT!!.md "wikilink")》相隔約5個月的單曲。2012年第4彈單曲。
   - 初回仕様盤封入特別封面及貼紙。
-  - 標題曲〈**Always**〉為本人代言的[SONY頭戴式耳機](https://zh.wikipedia.org/wiki/SONY "wikilink")「MDR-1系列」的廣告曲。B面曲〈**Happy
-    Song**〉則為[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")[Walkman](../Page/Walkman.md "wikilink")F800系列廣告曲。
+  - 標題曲〈**Always**〉為本人代言的[SONY頭戴式耳機](https://zh.wikipedia.org/wiki/SONY "wikilink")「MDR-1系列」的廣告曲。B面曲〈**Happy Song**〉則為[SONY](https://zh.wikipedia.org/wiki/SONY "wikilink")[Walkman](../Page/Walkman.md "wikilink")F800系列廣告曲。
 
 ## 發行版本
 
@@ -29,14 +27,10 @@
       - SONY WALKMAN「F800系列」廣告曲
 3.  **Love you, Miss you** \[4:03\]
       -
-        作曲：DJ Mass(VIVID Neon\*),Hiroshi Yoshida,hiro:n,Kyoko
-        Osaka,ENVIE
+        作曲：DJ Mass(VIVID Neon\*),Hiroshi Yoshida,hiro:n,Kyoko Osaka,ENVIE
 
 ## 外部連結
 
-  - [WALKMAN® 特設網站「Play
-    You.」](https://web.archive.org/web/20130703203714/http://www.sony.jp/walkman/playyou/)
+  - [WALKMAN® 特設網站「Play You.」](https://web.archive.org/web/20130703203714/http://www.sony.jp/walkman/playyou/)
 
-[Category:西野加奈歌曲](https://zh.wikipedia.org/wiki/Category:西野加奈歌曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
+[Category:西野加奈歌曲](https://zh.wikipedia.org/wiki/Category:西野加奈歌曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")

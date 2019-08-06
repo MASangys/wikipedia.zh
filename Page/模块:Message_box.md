@@ -1,20 +1,12 @@
-\-- This is a meta-module for producing message box templates, including
-, , , , ,  and .
+\-- This is a meta-module for producing message box templates, including , , , , ,  and .
 
-\-- Require necessary modules. local getArgs =
-require('Module:Arguments').getArgs local categoryHandler =
-require('Module:Category handler').main local yesno =
-require('Module:Yesno')
+\-- Require necessary modules. local getArgs = require('Module:Arguments').getArgs local categoryHandler = require('Module:Category handler').main local yesno = require('Module:Yesno')
 
-\-- Load the configuration page. local cfgTables =
-mw.loadData('Module:Message box/configuration')
+\-- Load the configuration page. local cfgTables = mw.loadData('Module:Message box/configuration')
 
-\-- Get a language object for formatDate and ucfirst. local lang =
-mw.language.getContentLanguage()
+\-- Get a language object for formatDate and ucfirst. local lang = mw.language.getContentLanguage()
 
-\-- Set aliases for often-used functions to reduce table lookups. local
-format = mw.ustring.format local tinsert = table.insert local tconcat =
-table.concat local trim = mw.text.trim
+\-- Set aliases for often-used functions to reduce table lookups. local format = mw.ustring.format local tinsert = table.insert local tconcat = table.concat local trim = mw.text.trim
 
 -----
 
@@ -505,8 +497,7 @@ function box:setBoxParameters(cfg, args)
 `       self:addCat('all', '錯誤使用替換引用的頁面')`
 `   end`
 
-`   -- Convert category tables to strings and pass them through `[`Module:Category``
- ``handler`](https://zh.wikipedia.org/wiki/Module:Category_handler "wikilink")`.`
+`   -- Convert category tables to strings and pass them through `[`Module:Category``   ``handler`](https://zh.wikipedia.org/wiki/Module:Category_handler "wikilink")`.`
 `   self.categories = categoryHandler{`
 `       main = tconcat(self.mainCats or {}),`
 `       template = tconcat(self.templateCats or {}),`
@@ -676,5 +667,4 @@ end
 
 return p
 
-[Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink")
-[Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink")
+[Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink") [Category:%s](https://zh.wikipedia.org/wiki/Category:%s "wikilink")

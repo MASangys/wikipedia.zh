@@ -30,8 +30,7 @@ TOS-1A系统包括以下部分：\[2\]
 
   - \- 3輛\[8\]
 
-  - \-
-    1輛（[歐洲安全與合作組織](../Page/歐洲安全與合作組織.md "wikilink")於2015年9月份報告指出在烏克蘭東部反叛軍的訓練區內看到[TOS-1](https://zh.wikipedia.org/wiki/TOS-1 "wikilink")）\[9\]
+  - \- 1輛（[歐洲安全與合作組織](../Page/歐洲安全與合作組織.md "wikilink")於2015年9月份報告指出在烏克蘭東部反叛軍的訓練區內看到[TOS-1](https://zh.wikipedia.org/wiki/TOS-1 "wikilink")）\[9\]
 
   - \- 大約15輛\[10\]
 
@@ -53,8 +52,7 @@ TOS-1A系统包括以下部分：\[2\]
 6.
 7.  <http://www.armstrade.org/includes/periodics/news/2016/0921/101037163/detail.shtml>
 8.
-9.  [Ukraine rebels have powerful new Russian-made rockets –
-    OSCE](http://www.bbc.com/news/world-europe-34425454)
+9.  [Ukraine rebels have powerful new Russian-made rockets – OSCE](http://www.bbc.com/news/world-europe-34425454)
 10.
 11. <https://www.rt.com/business/406116-russia-saudi-arabia-s400-delivery/>
 12.

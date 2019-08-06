@@ -2,9 +2,7 @@
 
 ## 劇情簡介
 
-黛真知子（[新垣結衣](../Page/新垣結衣.md "wikilink")
-飾）是一個充滿著正義感、憑著大無畏的精神，一股腦兒向前衝的熱血新進律師。因為一次訴訟而認識法律界神話—古美門研介（[堺雅人](../Page/堺雅人.md "wikilink")
-飾），一位毒舌、傲慢、自大，為了勝訴不擇手段，穿梭在法律灰色地帶但擁有著不敗紀錄的知名律師，此後並開始到古美門律師事務所工作。性格與想法完全地南轅北轍的兩人，在一次又一次的訴訟中不斷發生衝突，但同時又在法庭上攜手戰鬥。一對冤家拍擋緊守各自的信念，衝擊著日本司法界，要在公平與正義之間，還司法制度一個真面目\[1\]。
+黛真知子（[新垣結衣](../Page/新垣結衣.md "wikilink") 飾）是一個充滿著正義感、憑著大無畏的精神，一股腦兒向前衝的熱血新進律師。因為一次訴訟而認識法律界神話—古美門研介（[堺雅人](../Page/堺雅人.md "wikilink") 飾），一位毒舌、傲慢、自大，為了勝訴不擇手段，穿梭在法律灰色地帶但擁有著不敗紀錄的知名律師，此後並開始到古美門律師事務所工作。性格與想法完全地南轅北轍的兩人，在一次又一次的訴訟中不斷發生衝突，但同時又在法庭上攜手戰鬥。一對冤家拍擋緊守各自的信念，衝擊著日本司法界，要在公平與正義之間，還司法制度一個真面目\[1\]。
 
 ## 登場人物
 
@@ -1857,15 +1855,11 @@
 
   - 企劃 - 成河廣明（第1季、第2季）、加藤達也（第1季、特別篇、特別篇2）
   - 劇本及插曲作詞 - [古澤良太](../Page/古澤良太.md "wikilink")
-  - 音樂 - [林友樹](https://zh.wikipedia.org/wiki/林友樹 "wikilink") /
-    [大野雄二](https://zh.wikipedia.org/wiki/大野雄二 "wikilink")（第1季第7話）
-    / [加古隆](https://zh.wikipedia.org/wiki/加古隆 "wikilink")（特別篇2）
-  - 導演 -
-    [石川淳一](https://zh.wikipedia.org/wiki/石川淳一 "wikilink")、菊川誠（第1季、特別篇）、城寶秀則、西坂瑞城、渡部篤史（第2季）
+  - 音樂 - [林友樹](https://zh.wikipedia.org/wiki/林友樹 "wikilink") / [大野雄二](https://zh.wikipedia.org/wiki/大野雄二 "wikilink")（第1季第7話） / [加古隆](https://zh.wikipedia.org/wiki/加古隆 "wikilink")（特別篇2）
+  - 導演 - [石川淳一](https://zh.wikipedia.org/wiki/石川淳一 "wikilink")、菊川誠（第1季、特別篇）、城寶秀則、西坂瑞城、渡部篤史（第2季）
   - 法律監修 - 森田貴英、室谷光一郎
   - 裁判指導 - 萩原惠禮
-  - 小提琴指導 -
-    中田裕一、[皆川真里奈](https://zh.wikipedia.org/wiki/皆川真里奈 "wikilink")（第2季）
+  - 小提琴指導 - 中田裕一、[皆川真里奈](https://zh.wikipedia.org/wiki/皆川真里奈 "wikilink")（第2季）
   - 第1季協力製作
       - 化學監修 - 影本浩
       - 中文指導 - 湯亦晨
@@ -1895,14 +1889,10 @@
   - 操演 - 羽鳥博幸
   - 食品協調者 - 原祐子（第1季）、住川啓子
   - 開場標題 - 山本雅之
-  - 標題背景協力 -
-    [FILM](https://zh.wikipedia.org/wiki/FILM_LLP "wikilink")、[IMAGICA](https://zh.wikipedia.org/wiki/IMAGICA "wikilink")、studio
-    SOLARI（第2季）
+  - 標題背景協力 - [FILM](https://zh.wikipedia.org/wiki/FILM_LLP "wikilink")、[IMAGICA](https://zh.wikipedia.org/wiki/IMAGICA "wikilink")、studio SOLARI（第2季）
   - VFX - 鴫原譲
-  - 映像協力 -
-    [鹿兒島電視台](https://zh.wikipedia.org/wiki/鹿兒島電視台 "wikilink")（第1季第8、最終話）
-  - 執行製作 -
-    [稻田秀樹](https://zh.wikipedia.org/wiki/稻田秀樹 "wikilink")、成河廣明、山崎淳子（第2季）、鈴木里佳子
+  - 映像協力 - [鹿兒島電視台](https://zh.wikipedia.org/wiki/鹿兒島電視台 "wikilink")（第1季第8、最終話）
+  - 執行製作 - [稻田秀樹](https://zh.wikipedia.org/wiki/稻田秀樹 "wikilink")、成河廣明、山崎淳子（第2季）、鈴木里佳子
   - 制作協力 - [共同電視](../Page/共同電視.md "wikilink")（第2期）
   - 製作 - 共同電視（第1季特別篇）、富士電視台
   - 出品 - 共同電視（第1季特別篇）、富士電視台（第2季）
@@ -1937,24 +1927,18 @@
 
 第一季與特別篇
 
-  - 主題曲 - [PES](https://zh.wikipedia.org/wiki/PES "wikilink") from [RIP
-    SLYME](https://zh.wikipedia.org/wiki/RIP_SLYME "wikilink")《女神のKISS》（[unBORDE](../Page/日本華納音樂.md "wikilink")）
-  - 片頭曲 -
-    [小野惠令奈](../Page/小野惠令奈.md "wikilink")《[えれぴょん](https://zh.wikipedia.org/wiki/えれぴょん_\(小野惠令奈單曲\) "wikilink")》（[日本華納音樂](../Page/日本華納音樂.md "wikilink")）
+  - 主題曲 - [PES](https://zh.wikipedia.org/wiki/PES "wikilink") from [RIP SLYME](https://zh.wikipedia.org/wiki/RIP_SLYME "wikilink")《女神のKISS》（[unBORDE](../Page/日本華納音樂.md "wikilink")）
+  - 片頭曲 - [小野惠令奈](../Page/小野惠令奈.md "wikilink")《[えれぴょん](https://zh.wikipedia.org/wiki/えれぴょん_\(小野惠令奈單曲\) "wikilink")》（[日本華納音樂](../Page/日本華納音樂.md "wikilink")）
 
 第二季
 
-  - 主題曲 - [RIP
-    SLYME](https://zh.wikipedia.org/wiki/RIP_SLYME "wikilink")《SLY》（[unBORDE](../Page/日本華納音樂.md "wikilink")）
-  - 片頭曲 -
-    [9nine](../Page/9nine.md "wikilink")《[Re:](https://zh.wikipedia.org/wiki/Re:_\(9nine单曲\) "wikilink")》（[日本華納音樂](../Page/日本華納音樂.md "wikilink")）
+  - 主題曲 - [RIP SLYME](https://zh.wikipedia.org/wiki/RIP_SLYME "wikilink")《SLY》（[unBORDE](../Page/日本華納音樂.md "wikilink")）
+  - 片頭曲 - [9nine](../Page/9nine.md "wikilink")《[Re:](https://zh.wikipedia.org/wiki/Re:_\(9nine单曲\) "wikilink")》（[日本華納音樂](../Page/日本華納音樂.md "wikilink")）
 
 特別篇2
 
-  - 主題曲 -
-    [海莉·薇思特拉](../Page/海莉·薇思特拉.md "wikilink")《[奇異恩典](../Page/奇異恩典.md "wikilink")》（[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")）
-  - 片頭曲 -
-    [加古隆](https://zh.wikipedia.org/wiki/加古隆 "wikilink")《白色巨塔》（[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")）
+  - 主題曲 - [海莉·薇思特拉](../Page/海莉·薇思特拉.md "wikilink")《[奇異恩典](../Page/奇異恩典.md "wikilink")》（[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")）
+  - 片頭曲 - [加古隆](https://zh.wikipedia.org/wiki/加古隆 "wikilink")《白色巨塔》（[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")）
 
 ## 播出日期、收視率
 
@@ -2427,8 +2411,7 @@
 
 ### 王牌大律師
 
-  - [-{Legal
-    high}-](https://web.archive.org/web/20121102094304/http://www.fujitv.co.jp/legal-high/index.html)－富士電視台
+  - [-{Legal high}-](https://web.archive.org/web/20121102094304/http://www.fujitv.co.jp/legal-high/index.html)－富士電視台
 
   - [-{王牌大律師}-](http://japan.videoland.com.tw/channel/1210e/default.htm)－緯來日本台
 
@@ -2443,8 +2426,7 @@
   -
 ### 王牌大律師2
 
-  - [-{Legal
-    high2}-](https://web.archive.org/web/20131227190402/http://www.fujitv.co.jp/legal-high/index.html)－富士電視台
+  - [-{Legal high2}-](https://web.archive.org/web/20131227190402/http://www.fujitv.co.jp/legal-high/index.html)－富士電視台
 
   - [-{王牌大律師2}-](http://japan.videoland.com.tw/channel/20131201/default.asp)－緯來日本台
 
@@ -2460,30 +2442,7 @@
   -
   -
   -
-[Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink")
-[Category:富士電視台週二晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週二晚間九點連續劇 "wikilink")
-[Category:2012年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年開播的日本電視劇集 "wikilink")
-[Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink")
-[Category:共同電視製作電視劇](https://zh.wikipedia.org/wiki/Category:共同電視製作電視劇 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink")
-[Category:日本法律劇](https://zh.wikipedia.org/wiki/Category:日本法律劇 "wikilink")
-[Category:日本電視喜劇](https://zh.wikipedia.org/wiki/Category:日本電視喜劇 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink")
-[Category:2014年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2014年電視特別劇集 "wikilink")
-[Category:週六獎賞](https://zh.wikipedia.org/wiki/Category:週六獎賞 "wikilink")
-[Category:銀河賞選獎獲獎作品](https://zh.wikipedia.org/wiki/Category:銀河賞選獎獲獎作品 "wikilink")
-[Category:2013年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年日本電視劇集 "wikilink")
-[Category:2014年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年日本電視劇集 "wikilink")
-[Category:古澤良太劇本電視劇](https://zh.wikipedia.org/wiki/Category:古澤良太劇本電視劇 "wikilink")
-[Category:東京國際戲劇節優秀連續劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀連續劇獲獎作品 "wikilink")
-[Category:放送文化基金賞本賞](https://zh.wikipedia.org/wiki/Category:放送文化基金賞本賞 "wikilink")
-[Category:堺雅人](https://zh.wikipedia.org/wiki/Category:堺雅人 "wikilink")
-[Category:新垣結衣](https://zh.wikipedia.org/wiki/Category:新垣結衣 "wikilink")
-[Category:廣末涼子](https://zh.wikipedia.org/wiki/Category:廣末涼子 "wikilink")
-[Category:Legal_High](https://zh.wikipedia.org/wiki/Category:Legal_High "wikilink")
+[Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink") [Category:富士電視台週二晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週二晚間九點連續劇 "wikilink") [Category:2012年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年開播的日本電視劇集 "wikilink") [Category:日劇學院賞最佳作品](https://zh.wikipedia.org/wiki/Category:日劇學院賞最佳作品 "wikilink") [Category:共同電視製作電視劇](https://zh.wikipedia.org/wiki/Category:共同電視製作電視劇 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:電視劇集系列](https://zh.wikipedia.org/wiki/Category:電視劇集系列 "wikilink") [Category:日本法律劇](https://zh.wikipedia.org/wiki/Category:日本法律劇 "wikilink") [Category:日本電視喜劇](https://zh.wikipedia.org/wiki/Category:日本電視喜劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink") [Category:2014年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2014年電視特別劇集 "wikilink") [Category:週六獎賞](https://zh.wikipedia.org/wiki/Category:週六獎賞 "wikilink") [Category:銀河賞選獎獲獎作品](https://zh.wikipedia.org/wiki/Category:銀河賞選獎獲獎作品 "wikilink") [Category:2013年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2013年日本電視劇集 "wikilink") [Category:2014年日本電視劇集](https://zh.wikipedia.org/wiki/Category:2014年日本電視劇集 "wikilink") [Category:古澤良太劇本電視劇](https://zh.wikipedia.org/wiki/Category:古澤良太劇本電視劇 "wikilink") [Category:東京國際戲劇節優秀連續劇獲獎作品](https://zh.wikipedia.org/wiki/Category:東京國際戲劇節優秀連續劇獲獎作品 "wikilink") [Category:放送文化基金賞本賞](https://zh.wikipedia.org/wiki/Category:放送文化基金賞本賞 "wikilink") [Category:堺雅人](https://zh.wikipedia.org/wiki/Category:堺雅人 "wikilink") [Category:新垣結衣](https://zh.wikipedia.org/wiki/Category:新垣結衣 "wikilink") [Category:廣末涼子](https://zh.wikipedia.org/wiki/Category:廣末涼子 "wikilink") [Category:Legal_High](https://zh.wikipedia.org/wiki/Category:Legal_High "wikilink")
 
 1.  [纬来日本台](http://japan.videoland.com.tw/channel/1210e/default_002.asp)
 
@@ -2500,6 +2459,4 @@
 
 9.  [](http://blog.television.co.jp/drama/academy/2012/08/16/)
 
-10. [Legal high - Sponichi Annex
-    藝能](http://www.sponichi.co.jp/entertainment/yomimono/drama/2013/10_12/legal_high2/index.html)
-    ，2013年10月9日參照。
+10. [Legal high - Sponichi Annex 藝能](http://www.sponichi.co.jp/entertainment/yomimono/drama/2013/10_12/legal_high2/index.html) ，2013年10月9日參照。

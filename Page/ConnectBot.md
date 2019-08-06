@@ -1,5 +1,4 @@
-**ConnectBot**是一个[Android](../Page/Android.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")上的[开源](../Page/开放源代码.md "wikilink")[Secure
-Shell客户端](../Page/Secure_Shell.md "wikilink")。它可以让用户安全地远程连接到运行着SSH[守护程序的](../Page/守护进程.md "wikilink")[服务器](../Page/服务器.md "wikilink")中。用户可以从Andr​​oid设备输入命令，并在远程服务器上执行，而不是本地Android设备。SSH2的标准加密可以使任何命令和数据在传送中不被窃听。
+**ConnectBot**是一个[Android](../Page/Android.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")上的[开源](../Page/开放源代码.md "wikilink")[Secure Shell客户端](../Page/Secure_Shell.md "wikilink")。它可以让用户安全地远程连接到运行着SSH[守护程序的](../Page/守护进程.md "wikilink")[服务器](../Page/服务器.md "wikilink")中。用户可以从Andr​​oid设备输入命令，并在远程服务器上执行，而不是本地Android设备。SSH2的标准加密可以使任何命令和数据在传送中不被窃听。
 
 ## 功能
 
@@ -12,8 +11,7 @@ Shell客户端](../Page/Secure_Shell.md "wikilink")。它可以让用户安全�
 
 ## 评价
 
-ConnectBot是Android操作系统上最流行的SSH客户端，其在[Google
-Play上的下载次数超过](../Page/Google_Play.md "wikilink")1,000,000次，同时获得了30,000多份的评分\[3\]。
+ConnectBot是Android操作系统上最流行的SSH客户端，其在[Google Play上的下载次数超过](../Page/Google_Play.md "wikilink")1,000,000次，同时获得了30,000多份的评分\[3\]。
 
 ## 参见
 
@@ -24,8 +22,7 @@ Play上的下载次数超过](../Page/Google_Play.md "wikilink")1,000,000次，�
 
 ## 外部链接
 
-  - [ConnectBot at Google
-    Play](https://play.google.com/store/apps/details?id=org.connectbot)
+  - [ConnectBot at Google Play](https://play.google.com/store/apps/details?id=org.connectbot)
   - [源代码库](https://github.com/connectbot/connectbot)
 
 ### 软件评论和教程
@@ -33,13 +30,9 @@ Play上的下载次数超过](../Page/Google_Play.md "wikilink")1,000,000次，�
   - [AppBrain](http://www.appbrain.com/app/connectbot/org.connectbot)
   - [视频教学](http://www.youtube.com/watch?v=3mPNL3dBsns)
   - [Arbi教程](http://www.arbi.se/using-connectbot-for-ssh-with-pubkey-authentication/)
-  - [Android
-    Police教程](http://www.androidpolice.com/2010/05/27/sysadmin-series-connectbot/)
+  - [Android Police教程](http://www.androidpolice.com/2010/05/27/sysadmin-series-connectbot/)
 
-[Category:自由及开放源代码Android软件](https://zh.wikipedia.org/wiki/Category:自由及开放源代码Android软件 "wikilink")
-[Category:Secure_Shell](https://zh.wikipedia.org/wiki/Category:Secure_Shell "wikilink")
-[Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink")
-[Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink")
+[Category:自由及开放源代码Android软件](https://zh.wikipedia.org/wiki/Category:自由及开放源代码Android软件 "wikilink") [Category:Secure_Shell](https://zh.wikipedia.org/wiki/Category:Secure_Shell "wikilink") [Category:使用Apache许可证的软件](https://zh.wikipedia.org/wiki/Category:使用Apache许可证的软件 "wikilink") [Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink")
 
 1.
 2.

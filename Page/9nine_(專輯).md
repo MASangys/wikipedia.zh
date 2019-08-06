@@ -1,5 +1,4 @@
-《**9nine**》是日本女子音樂組合[9nine](../Page/9nine.md "wikilink")的第三張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2012年3月7日經[SME
-Records發行](../Page/SME_Records.md "wikilink")。
+《**9nine**》是日本女子音樂組合[9nine](../Page/9nine.md "wikilink")的第三張[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")，於2012年3月7日經[SME Records發行](../Page/SME_Records.md "wikilink")。
 
 ## 概要
 
@@ -16,8 +15,7 @@ Records發行](../Page/SME_Records.md "wikilink")。
 3.  **[滴答☆2NITE](../Page/滴答☆2NITE.md "wikilink")** \[3:36\]
       -
         作詞、作曲：Yoshihiro Saito，編曲：Kouichiro Takahashi
-4.  **[夏 wanna say love U](../Page/夏_wanna_say_love_U.md "wikilink")**
-    \[4:23\]
+4.  **[夏 wanna say love U](../Page/夏_wanna_say_love_U.md "wikilink")** \[4:23\]
       -
         作詞：tzk，作曲、編曲：Kouichiro Takahashi
 5.  **koizora** \[4:38\]
@@ -37,8 +35,7 @@ Records發行](../Page/SME_Records.md "wikilink")。
         作詞：U-ka，作曲：Tomoyoshi Suzuki，編曲：Kouichiro Takahashi
 10. **Darling、Darling**（） \[4:02\]
       -
-        作詞：Izumi Soratani，作曲、編曲：[Hayato
-        Tanaka](https://zh.wikipedia.org/wiki/田中隼人 "wikilink")
+        作詞：Izumi Soratani，作曲、編曲：[Hayato Tanaka](https://zh.wikipedia.org/wiki/田中隼人 "wikilink")
 11. **\#girls** \[3:59\]
       -
         作詞：tzk，作曲：Rui Tanaka，編曲：Tatsuya Kurauchi
@@ -89,7 +86,6 @@ Records發行](../Page/SME_Records.md "wikilink")。
       - [初回生產限定盤B](http://www.sonymusic.co.jp/Music/Arch/SMER/9nine/SECL-1082)
       - [通常盤](http://www.sonymusic.co.jp/Music/Arch/SMER/9nine/SECL-1083)
 
-[Category:9nine](https://zh.wikipedia.org/wiki/Category:9nine "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
+[Category:9nine](https://zh.wikipedia.org/wiki/Category:9nine "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
 
 1.

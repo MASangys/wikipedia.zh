@@ -430,9 +430,7 @@
 ### 電視
 
   - 《[最好聽的歌](../Page/最好聽的歌.md "wikilink")》
-  - 《[舞力全開](https://zh.wikipedia.org/wiki/舞力全開 "wikilink")》獲得 舞蹈比賽
-    第[八季](https://zh.wikipedia.org/wiki/八 "wikilink") (第三屆第一季)
-    第二名([亞軍](https://zh.wikipedia.org/wiki/亞軍 "wikilink"))
+  - 《[舞力全開](https://zh.wikipedia.org/wiki/舞力全開 "wikilink")》獲得 舞蹈比賽 第[八季](https://zh.wikipedia.org/wiki/八 "wikilink") (第三屆第一季) 第二名([亞軍](https://zh.wikipedia.org/wiki/亞軍 "wikilink"))
   - 《[綜藝大熱門](../Page/綜藝大熱門.md "wikilink")》
   - 《[食尚玩家－歡樂有夠讚](https://zh.wikipedia.org/wiki/食尚玩家－歡樂有夠讚 "wikilink")》
   - 《[我愛冰冰show](https://zh.wikipedia.org/wiki/我愛冰冰show "wikilink")》
@@ -446,10 +444,6 @@
 ## 外部連結
 
   -
-[Category:1996年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1996年成立的音樂團體 "wikilink")
-[Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
-[Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink")
-[Category:華語歌手](https://zh.wikipedia.org/wiki/Category:華語歌手 "wikilink")
-[Category:台语女歌手](https://zh.wikipedia.org/wiki/Category:台语女歌手 "wikilink")
+[Category:1996年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1996年成立的音樂團體 "wikilink") [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink") [Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink") [Category:華語歌手](https://zh.wikipedia.org/wiki/Category:華語歌手 "wikilink") [Category:台语女歌手](https://zh.wikipedia.org/wiki/Category:台语女歌手 "wikilink")
 
 1.  [黄西田V.S櫻桃姐妹](http://www.fuki-world.com/twsongs/singert/dspsong.cgi?a=L0651)

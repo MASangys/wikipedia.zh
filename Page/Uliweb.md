@@ -1,7 +1,4 @@
-**Uliweb**（*UnLimited Web
-Framework*）是一款中型[Python](../Page/Python.md "wikilink")web框架。
-框架采用与[Django](../Page/Django.md "wikilink")相同的MVT模式和的模板，底层基于[Werkzeug](https://zh.wikipedia.org/wiki/Werkzeug "wikilink")，数据库[ORM则对](https://zh.wikipedia.org/wiki/對象關係映射 "wikilink")[SQLAlchemy](../Page/SQLAlchemy.md "wikilink")进行了封装。Uliweb使用BSD授权。
-
+**Uliweb**（*UnLimited Web Framework*）是一款中型[Python](../Page/Python.md "wikilink")web框架。 框架采用与[Django](../Page/Django.md "wikilink")相同的MVT模式和的模板，底层基于[Werkzeug](https://zh.wikipedia.org/wiki/Werkzeug "wikilink")，数据库[ORM则对](https://zh.wikipedia.org/wiki/對象關係映射 "wikilink")[SQLAlchemy](../Page/SQLAlchemy.md "wikilink")进行了封装。Uliweb使用BSD授权。
 
 ## 特性
 
@@ -30,6 +27,4 @@ Framework*）是一款中型[Python](../Page/Python.md "wikilink")web框架。
 
 ## 參考
 
-[Category:Python軟體](https://zh.wikipedia.org/wiki/Category:Python軟體 "wikilink")
-[Category:自由軟件](https://zh.wikipedia.org/wiki/Category:自由軟件 "wikilink")
-[Category:Web應用框架](https://zh.wikipedia.org/wiki/Category:Web應用框架 "wikilink")
+[Category:Python軟體](https://zh.wikipedia.org/wiki/Category:Python軟體 "wikilink") [Category:自由軟件](https://zh.wikipedia.org/wiki/Category:自由軟件 "wikilink") [Category:Web應用框架](https://zh.wikipedia.org/wiki/Category:Web應用框架 "wikilink")

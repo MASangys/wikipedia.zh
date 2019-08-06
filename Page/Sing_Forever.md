@@ -1,5 +1,4 @@
-《**Sing
-Forever**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第32張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2010年10月13日發行。
+《**Sing Forever**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Page/平井堅.md "wikilink")的第32張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2010年10月13日發行。
 
 ## 概要
 
@@ -36,7 +35,4 @@ Forever**》，[日本](../Page/日本.md "wikilink")男歌手[平井堅](../Pag
       - [初回生産限定盤](http://www.sonymusic.co.jp/Music/Arch/DF/KenHirai/DFCL-1686/index.html)
       - [通常盤](http://www.sonymusic.co.jp/Music/Arch/DF/KenHirai/DFCL-1687/index.html)
 
-[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")
-[Category:平井堅歌曲](https://zh.wikipedia.org/wiki/Category:平井堅歌曲 "wikilink")
-[Category:日本電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台節目主題曲 "wikilink")
-[Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
+[Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink") [Category:平井堅歌曲](https://zh.wikipedia.org/wiki/Category:平井堅歌曲 "wikilink") [Category:日本電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台節目主題曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")

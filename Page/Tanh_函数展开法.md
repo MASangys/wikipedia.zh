@@ -1,6 +1,4 @@
-**Tanh 函数展开法**是目前求解非线性偏微分方程行波解的最强劲的和行之有效的方法。1992年数学家 Malfliet 首先应用 tanh
-展开法\[1\]
-运用这个方法要进行的大量繁杂的运算，必须借助[Maple](../Page/Maple.md "wikilink")、[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")、[Matlab等计算机代数系统](https://zh.wikipedia.org/wiki/Matlab "wikilink")。
+**Tanh 函数展开法**是目前求解非线性偏微分方程行波解的最强劲的和行之有效的方法。1992年数学家 Malfliet 首先应用 tanh 展开法\[1\] 运用这个方法要进行的大量繁杂的运算，必须借助[Maple](../Page/Maple.md "wikilink")、[Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")、[Matlab等计算机代数系统](https://zh.wikipedia.org/wiki/Matlab "wikilink")。
 
 设一个非线性偏微分方程可以用下列表述：
 
@@ -34,8 +32,7 @@
 
 依此类推。 设 F(Y)=Σ(a_{i}\*Y^i)
 
-代入 常微分方程
-\(\psi(U(\psi),-kc*\frac{d U}{d \psi},k*\frac{d U}{d \psi},\)\(k^2*c^2*\frac{d^2 U}{d \psi^2}\)\(,k^2*\frac{d^2 U}{d \psi^2},-k^3*c^3*\frac{d^3 U}{d \psi^3},k^3*\frac{d^3 U}{d \psi^3})=0\)
+代入 常微分方程 \(\psi(U(\psi),-kc*\frac{d U}{d \psi},k*\frac{d U}{d \psi},\)\(k^2*c^2*\frac{d^2 U}{d \psi^2}\)\(,k^2*\frac{d^2 U}{d \psi^2},-k^3*c^3*\frac{d^3 U}{d \psi^3},k^3*\frac{d^3 U}{d \psi^3})=0\)
 
 得到Y的多项式。用机械代数法或[吴文俊消元法解多项式](https://zh.wikipedia.org/wiki/吴文俊消元法 "wikilink")，反代入原式，即得偏微分方程的行波解。
 
@@ -53,15 +50,11 @@
 
 对ξ积分，得：
 
-\(-ckU(\xi)+3kU(\xi)^2+k^3\frac{d (U(\xi)}{d^2 \xi^2} = 0\) 令
-\(U(\xi)=F(Y)\)得：
+\(-ckU(\xi)+3kU(\xi)^2+k^3\frac{d (U(\xi)}{d^2 \xi^2} = 0\) 令 \(U(\xi)=F(Y)\)得：
 
 \(-ckF(Y)+3kF(Y)^2+k^3(1-Y^2)(-2Y\frac{d(F(Y)}{dY}+(1-Y^2)\frac{d^2(F(Y)}{d^2Y}) = 0\)
 
-令
-\(U(\xi)=F(Y)= a[0]+a[1]Y+a[2]Y^2+a[3]Y^3+a[4]Y^4+a[5]Y^5+\cdot\cdot\cdot\cdot\cdot+a[M]Y^M+\)……
-得：
-\(-ck(a[0]+a[1]Y+a[2]Y^2+a[3]Y^3+a[4]Y^4+a[5]Y^5+\cdot\cdot\cdot\cdot\cdot+a[M]Y^M)+3k(a[0]+a[1]Y+a[2]Y^2+a[3]Y^3+a[4]Y^4+a[5]Y^5+\cdot\cdot\cdot\cdot\cdot+a[M]Y^M)^2+k^3(1-Y^2)(-2Y(a[1]+2a[2]Y+3a[3]Y^2+4a[4]Y^3+5a[5]Y^4+\cdot\cdot\cdot\cdot\cdot+Ma[M]Y^{M-1})+(1-Y^2)(2a[2]+6a[3]Y+12a[4]Y^2+20a[5]Y^3+30a[6]Y^4))\)
+令 \(U(\xi)=F(Y)= a[0]+a[1]Y+a[2]Y^2+a[3]Y^3+a[4]Y^4+a[5]Y^5+\cdot\cdot\cdot\cdot\cdot+a[M]Y^M+\)…… 得： \(-ck(a[0]+a[1]Y+a[2]Y^2+a[3]Y^3+a[4]Y^4+a[5]Y^5+\cdot\cdot\cdot\cdot\cdot+a[M]Y^M)+3k(a[0]+a[1]Y+a[2]Y^2+a[3]Y^3+a[4]Y^4+a[5]Y^5+\cdot\cdot\cdot\cdot\cdot+a[M]Y^M)^2+k^3(1-Y^2)(-2Y(a[1]+2a[2]Y+3a[3]Y^2+4a[4]Y^3+5a[5]Y^4+\cdot\cdot\cdot\cdot\cdot+Ma[M]Y^{M-1})+(1-Y^2)(2a[2]+6a[3]Y+12a[4]Y^2+20a[5]Y^3+30a[6]Y^4))\)
 
 由此得 M=2;而且：
 
@@ -95,9 +88,7 @@ a\[0\]=(2/3)k^2,a\[1\]=0,a\[2\]=-2k^2,c=-4k^2;
 
 Malfliet 的tanh 函数展开法被后人推广到 三角函数、雅可比橢圓函數、魏爾斯特拉斯橢圓函數。
 
-JacobiCN, JacobiDN, JacobiNC, JacobiND, JacobiNS, JacobiSN,
-WeierstrassP, arcsinh, cos, cosh, cot, coth, csc, csch, exp, ln, sec,
-sech, sin, sinh, tan, tanh 等。
+JacobiCN, JacobiDN, JacobiNC, JacobiND, JacobiNS, JacobiSN, WeierstrassP, arcsinh, cos, cosh, cot, coth, csc, csch, exp, ln, sec, sech, sin, sinh, tan, tanh 等。
 
 ## 软件包
 
@@ -105,17 +96,11 @@ sech, sin, sinh, tan, tanh 等。
 
   - 基本用法
 
-tws:={TWSolutions(pdes,functions = \[arcsinh, cos, cosh, cot, coth, csc,
-csch, exp, identity, ln, sec, sech, sin, sinh, tan, tanh, JacobiCN,
-JacobiDN, JacobiNC, JacobiND, JacobiNS, JacobiSN\])};
+tws:={TWSolutions(pdes,functions = \[arcsinh, cos, cosh, cot, coth, csc, csch, exp, identity, ln, sec, sech, sin, sinh, tan, tanh, JacobiCN, JacobiDN, JacobiNC, JacobiND, JacobiNS, JacobiSN\])};
 
-其中 pdes 代表 非线性偏微分方程，或非线性偏微分方程组；若function=
-列出所有可用的函数集合，常可一下子给出十几个到几十个解如果不写"function="，则只作tanh展开\[4\]。用包括所有可用函数的Tanh
-函数展开法在[Intel Core
-i7](https://zh.wikipedia.org/wiki/Intel_Core_i7 "wikilink")[笔记本电脑计算](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")，一道非线性偏微分方程往往需时几十分以至十几小时。
+其中 pdes 代表 非线性偏微分方程，或非线性偏微分方程组；若function= 列出所有可用的函数集合，常可一下子给出十几个到几十个解如果不写"function="，则只作tanh展开\[4\]。用包括所有可用函数的Tanh 函数展开法在[Intel Core i7](https://zh.wikipedia.org/wiki/Intel_Core_i7 "wikilink")[笔记本电脑计算](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")，一道非线性偏微分方程往往需时几十分以至十几小时。
 
-中国数学家李志斌写了一个名为RATH 的Maple学术软件包，用双曲函数展开法和吴文俊消元解非线性偏微分方程
-\[5\]软件包RATH可以下载\[6\]。
+中国数学家李志斌写了一个名为RATH 的Maple学术软件包，用双曲函数展开法和吴文俊消元解非线性偏微分方程 \[5\]软件包RATH可以下载\[6\]。
 
 ## 参考文献
 
@@ -123,10 +108,8 @@ i7](https://zh.wikipedia.org/wiki/Intel_Core_i7 "wikilink")[笔记本电脑计�
 
 [Category:非线性偏微分方程](https://zh.wikipedia.org/wiki/Category:非线性偏微分方程 "wikilink")
 
-1.  W. Malfliet, Solitary Wave Solution of Nonlinear wave equation, Am
-    J.of Physics 60(7) 1992,650-654
-2.  Graham W Griffiths, William E.Schiesser, Traveling Wave Analysis of
-    Partial Differential Equations p393-396 Academic Press 2012
+1.  W. Malfliet, Solitary Wave Solution of Nonlinear wave equation, Am J.of Physics 60(7) 1992,650-654
+2.  Graham W Griffiths, William E.Schiesser, Traveling Wave Analysis of Partial Differential Equations p393-396 Academic Press 2012
 3.  Graham Griffiths, p436-437 *Maple Built-in Procedure TWSolutions*
 4.  Graham Griffiths, p436-437 *Maple Built-in Procedure TWSolutions*
 5.  李志斌 《非线性数学物理方程的行波解》第119-130

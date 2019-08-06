@@ -1,14 +1,10 @@
-《**Space Ofera
-阿卡魯達**》（）是[梶島正樹](../Page/梶島正樹.md "wikilink")的[日本](../Page/日本.md "wikilink")[成人動畫](../Page/成人動畫.md "wikilink")作品。
+《**Space Ofera 阿卡魯達**》（）是[梶島正樹](../Page/梶島正樹.md "wikilink")的[日本](../Page/日本.md "wikilink")[成人動畫](../Page/成人動畫.md "wikilink")作品。
 
 ## 概要
 
-1998年10月到1999年4月由[AIC製作](../Page/動畫國際公司.md "wikilink")、並由HAPPINET發售全4集的成人向動畫作品。各話約30分。另外1999年4月15日也以《**Space
-Ofera 阿卡魯達
-恐怖的宇宙魔女**》為名製作成[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")，並由menu發售，但故事內容是以動畫版結束後的時代為背景，為完全原創的故事。
+1998年10月到1999年4月由[AIC製作](../Page/動畫國際公司.md "wikilink")、並由HAPPINET發售全4集的成人向動畫作品。各話約30分。另外1999年4月15日也以《**Space Ofera 阿卡魯達 恐怖的宇宙魔女**》為名製作成[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")，並由menu發售，但故事內容是以動畫版結束後的時代為背景，為完全原創的故事。
 
-與《[天地無用\!
-魎皇鬼](https://zh.wikipedia.org/wiki/天地無用! "wikilink")》有同一世界觀、並且是充滿現代劇及科幻要素的18禁動畫。以天地無用約150年過後的未來世界為舞台背景。原本預定製作全6話，但在第4話以後遭中止。
+與《[天地無用\! 魎皇鬼](https://zh.wikipedia.org/wiki/天地無用! "wikilink")》有同一世界觀、並且是充滿現代劇及科幻要素的18禁動畫。以天地無用約150年過後的未來世界為舞台背景。原本預定製作全6話，但在第4話以後遭中止。
 
 ## 故事大綱
 
@@ -54,14 +50,10 @@ Ofera 阿卡魯達
 
 ## 關連書籍
 
-  - 『御先祖賛江 Space Ofera 阿卡魯達 Visual
-    Collection』（[ケイエスエス](https://zh.wikipedia.org/wiki/ケイエスエス "wikilink")、2000年11月發行)
+  - 『御先祖賛江 Space Ofera 阿卡魯達 Visual Collection』（[ケイエスエス](https://zh.wikipedia.org/wiki/ケイエスエス "wikilink")、2000年11月發行)
 
 ## 外部連結
 
   - [梶島18禁動畫世界](https://web.archive.org/web/20140708113502/http://www.tsunam.in.arena.ne.jp/xpx/content/index7-x.html)
 
-[Category:1998年日本成人動畫](https://zh.wikipedia.org/wiki/Category:1998年日本成人動畫 "wikilink")
-[Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink")
-[Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink")
-[Category:宇宙海盜題材作品](https://zh.wikipedia.org/wiki/Category:宇宙海盜題材作品 "wikilink")
+[Category:1998年日本成人動畫](https://zh.wikipedia.org/wiki/Category:1998年日本成人動畫 "wikilink") [Category:科幻動畫](https://zh.wikipedia.org/wiki/Category:科幻動畫 "wikilink") [Category:AIC](https://zh.wikipedia.org/wiki/Category:AIC "wikilink") [Category:宇宙海盜題材作品](https://zh.wikipedia.org/wiki/Category:宇宙海盜題材作品 "wikilink")

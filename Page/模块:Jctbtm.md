@@ -4,8 +4,7 @@ local types = mw.loadData("Module:Road data/RJL types")
 
 local row
 
-local columns = { -- Constants for how many columns different list types
-should have.
+local columns = { -- Constants for how many columns different list types should have.
 
 `   default = 6,    -- default`
 `   exit = 7,       -- default + exit number`

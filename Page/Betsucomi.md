@@ -4,8 +4,7 @@
 
   - [我們的存在](../Page/我們的存在.md "wikilink")（[小畑友紀](https://zh.wikipedia.org/wiki/小畑友紀 "wikilink")）（第50回小学館漫画賞少女向け受賞作品）
   - [電撃デイジー](https://zh.wikipedia.org/wiki/電撃デイジー "wikilink")（[最富キョウスケ](https://zh.wikipedia.org/wiki/最富キョウスケ "wikilink")）
-  - [BLACK
-    BIRD](https://zh.wikipedia.org/wiki/BLACK_BIRD "wikilink")（[櫻小路鹿乃子](../Page/櫻小路鹿乃子.md "wikilink")）（第54回小学館漫画賞少女向け受賞作品）
+  - [BLACK BIRD](https://zh.wikipedia.org/wiki/BLACK_BIRD "wikilink")（[櫻小路鹿乃子](../Page/櫻小路鹿乃子.md "wikilink")）（第54回小学館漫画賞少女向け受賞作品）
   - [女王の花](https://zh.wikipedia.org/wiki/女王の花 "wikilink")（[和泉兼好](https://zh.wikipedia.org/wiki/和泉兼好 "wikilink")）※現在、1年に1回ペースの連載
   - [DEAR\!](https://zh.wikipedia.org/wiki/DEAR! "wikilink")（[みつきかこ](https://zh.wikipedia.org/wiki/みつきかこ "wikilink")）
   - [キミのとなりで青春中。](https://zh.wikipedia.org/wiki/キミのとなりで青春中。 "wikilink")（[藤沢志月](https://zh.wikipedia.org/wiki/藤沢志月 "wikilink")）
@@ -41,8 +40,7 @@
 
 <!-- end list -->
 
-  - [Girls
-    Lesson](https://zh.wikipedia.org/wiki/Girls_Lesson "wikilink")（[芦原妃名子](../Page/芦原妃名子.md "wikilink")）
+  - [Girls Lesson](https://zh.wikipedia.org/wiki/Girls_Lesson "wikilink")（[芦原妃名子](../Page/芦原妃名子.md "wikilink")）
   - 風を追え\!（[小林紀子](https://zh.wikipedia.org/wiki/小林紀子 "wikilink")）
   - 勝手に専科（森園みるく）
   - [彼女がカフェにいる](https://zh.wikipedia.org/wiki/彼女がカフェにいる "wikilink")（惣領冬実）
@@ -87,8 +85,7 @@
 
 <!-- end list -->
 
-  - [Derby
-    Queen](https://zh.wikipedia.org/wiki/Derby_Queen "wikilink")（芦原妃名子）
+  - [Derby Queen](https://zh.wikipedia.org/wiki/Derby_Queen "wikilink")（芦原妃名子）
   - ダイアモンド・ヘッド（水城せとな）
   - [ダウト\!\!](https://zh.wikipedia.org/wiki/ダウト!! "wikilink")（和泉かねよし）
   - だって愛してる\!（彬聖子）
@@ -120,8 +117,7 @@
   - [BASARA](https://zh.wikipedia.org/wiki/BASARA "wikilink")（田村由美）
   - [はじめちゃんが一番\!](https://zh.wikipedia.org/wiki/はじめちゃんが一番! "wikilink")（渡辺多恵子）
   - 裸足の神話（[ありさか邦](https://zh.wikipedia.org/wiki/ありさか邦 "wikilink")）
-  - [BANANA
-    FISH](https://zh.wikipedia.org/wiki/BANANA_FISH "wikilink")（吉田秋生）
+  - [BANANA FISH](https://zh.wikipedia.org/wiki/BANANA_FISH "wikilink")（吉田秋生）
   - 花の美女姫（名香智子）
   - HONEY<sup>2</sup>スキップ（おおや和美）
   - [春行きバス](https://zh.wikipedia.org/wiki/春行きバス "wikilink")（宇佐美真紀）
@@ -154,8 +150,7 @@
 
 <!-- end list -->
 
-  - 勇気\!
-    無限大（香川祐美、原作：[佐々木守](https://zh.wikipedia.org/wiki/佐々木守 "wikilink")）
+  - 勇気\! 無限大（香川祐美、原作：[佐々木守](https://zh.wikipedia.org/wiki/佐々木守 "wikilink")）
   - 螺旋階段をのぼって（香川祐美、原作：[氷室冴子](https://zh.wikipedia.org/wiki/氷室冴子 "wikilink")）
   - [LOVELESS](https://zh.wikipedia.org/wiki/LOVELESS "wikilink")（新井理恵）
   - [龍三郎系列](https://zh.wikipedia.org/wiki/龍三郎系列 "wikilink")（田村由美）
@@ -164,8 +159,4 @@
 
   - [ベツコミホームページ](http://www.betsucomi.shogakukan.co.jp/)（公式サイト）
 
-[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
-[Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink")
-[Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
-[Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink")
-[Category:Sho-Comi](https://zh.wikipedia.org/wiki/Category:Sho-Comi "wikilink")
+[Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink") [Category:少女漫畫雜誌](https://zh.wikipedia.org/wiki/Category:少女漫畫雜誌 "wikilink") [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink") [Category:小學館的漫畫雜誌](https://zh.wikipedia.org/wiki/Category:小學館的漫畫雜誌 "wikilink") [Category:Sho-Comi](https://zh.wikipedia.org/wiki/Category:Sho-Comi "wikilink")

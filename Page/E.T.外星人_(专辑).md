@@ -14,8 +14,7 @@
 
 ## 制作
 
-[MichaelJacksonSnoopyKBFApr1984cropped.jpg](https://zh.wikipedia.org/wiki/File:MichaelJacksonSnoopyKBFApr1984cropped.jpg "fig:MichaelJacksonSnoopyKBFApr1984cropped.jpg")
-杰克逊于1982年6月开始录制《外星人》的有声书，他大约也就是在这个时候开始录制自己的第六张录音室专辑《》。这两个项目都是由昆西·琼斯担任[制作人](../Page/音樂製作人.md "wikilink")，他同时还是有声书的文本作者之一\[16\]\[17\]。杰克逊在录制旁白的过程中对的死感到非常沮丧而哭了起来，琼斯和斯皮尔伯格都认为，即使把这部分再录一遍，这位流行歌手也会有一样的情绪反应，所以他们决定就在最终发行的专辑里保留杰克逊的哭声。杰克逊的传记作者丽莎··坎贝尔（）在书中表示，琼斯是在录制专辑《》中的歌曲《》时得知此事，杰克逊在演唱这首歌时也流下了[眼泪](https://zh.wikipedia.org/wiki/眼泪 "wikilink")。\[18\]
+[MichaelJacksonSnoopyKBFApr1984cropped.jpg](https://zh.wikipedia.org/wiki/File:MichaelJacksonSnoopyKBFApr1984cropped.jpg "fig:MichaelJacksonSnoopyKBFApr1984cropped.jpg") 杰克逊于1982年6月开始录制《外星人》的有声书，他大约也就是在这个时候开始录制自己的第六张录音室专辑《》。这两个项目都是由昆西·琼斯担任[制作人](../Page/音樂製作人.md "wikilink")，他同时还是有声书的文本作者之一\[16\]\[17\]。杰克逊在录制旁白的过程中对的死感到非常沮丧而哭了起来，琼斯和斯皮尔伯格都认为，即使把这部分再录一遍，这位流行歌手也会有一样的情绪反应，所以他们决定就在最终发行的专辑里保留杰克逊的哭声。杰克逊的传记作者丽莎··坎贝尔（）在书中表示，琼斯是在录制专辑《》中的歌曲《》时得知此事，杰克逊在演唱这首歌时也流下了[眼泪](https://zh.wikipedia.org/wiki/眼泪 "wikilink")。\[18\]
 
 多位之前曾参与过杰克逊独唱专辑制作的制作人对《外星人》故事书专辑作出了贡献。为《》和《》创作了多首歌曲的[罗德·坦普顿](https://zh.wikipedia.org/wiki/罗德·坦普顿 "wikilink")（）为歌曲《》作曲。[弗雷迪·德曼](https://zh.wikipedia.org/wiki/弗雷迪·德曼 "wikilink")（）和杰克逊五人组前经理罗恩·韦斯纳（）担任专辑的制作协调员。布鲁斯·斯维顿（）担任工程师，他也是《》和《》的工程师，之后还将在杰克逊的《[Bad](https://zh.wikipedia.org/wiki/Bad_\(迈克尔·杰克逊专辑\) "wikilink")》和《[Dangerous](../Page/Dangerous_\(迈克尔·杰克逊专辑\).md "wikilink")》两张专辑制作中扮演同一角色。迪克·齐默尔曼（）为杰克逊拍摄了《》的专辑封面，还拍摄了《外星人》中的双手搭在杰克逊肩膀上的海报。\[19\]
 
@@ -112,16 +111,13 @@
 
 ## 参考资料
 
-[Category:電影原聲帶](https://zh.wikipedia.org/wiki/Category:電影原聲帶 "wikilink")
-[Category:1982年原聲帶](https://zh.wikipedia.org/wiki/Category:1982年原聲帶 "wikilink")
-[Category:麥可·傑克森音樂專輯](https://zh.wikipedia.org/wiki/Category:麥可·傑克森音樂專輯 "wikilink")
+[Category:電影原聲帶](https://zh.wikipedia.org/wiki/Category:電影原聲帶 "wikilink") [Category:1982年原聲帶](https://zh.wikipedia.org/wiki/Category:1982年原聲帶 "wikilink") [Category:麥可·傑克森音樂專輯](https://zh.wikipedia.org/wiki/Category:麥可·傑克森音樂專輯 "wikilink")
 
 1.
 
 2.
 
-3.  Packaging and liner notes of the *E.T. the Extra-Terrestrial*
-    storybook
+3.  Packaging and liner notes of the *E.T. the Extra-Terrestrial* storybook
 
 4.
 5.

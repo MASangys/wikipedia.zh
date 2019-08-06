@@ -3,12 +3,8 @@
 ## 簡介
 
   - 紀念出道20週年發行的精選輯
-  - 初動量超過100萬，為當時[南方之星](../Page/南方之星.md "wikilink")本身最高的初動記錄，之後被2000年發行的另一張精選輯[民謠3
-    〜the album of
-    LOVE〜](https://zh.wikipedia.org/wiki/民謠3_〜the_album_of_LOVE〜 "wikilink")130萬的初動量超越。
-  - 發行此張精選輯的目的是為了當年於[靜岡縣](../Page/靜岡縣.md "wikilink")[渚園所舉辦的大規模野外演唱會](https://zh.wikipedia.org/wiki/渚園 "wikilink")[SUPER
-    LIVE in 渚園 モロ出し祭り
-    〜過剰サービスに鰻はネットリ父ウットリ〜](https://zh.wikipedia.org/wiki/SUPER_LIVE_in_渚園_モロ出し祭り_〜過剰サービスに鰻はネットリ父ウットリ〜 "wikilink")，此場演唱會主要是演唱過去20年來的人氣歌曲。
+  - 初動量超過100萬，為當時[南方之星](../Page/南方之星.md "wikilink")本身最高的初動記錄，之後被2000年發行的另一張精選輯[民謠3 〜the album of LOVE〜](https://zh.wikipedia.org/wiki/民謠3_〜the_album_of_LOVE〜 "wikilink")130萬的初動量超越。
+  - 發行此張精選輯的目的是為了當年於[靜岡縣](../Page/靜岡縣.md "wikilink")[渚園所舉辦的大規模野外演唱會](https://zh.wikipedia.org/wiki/渚園 "wikilink")[SUPER LIVE in 渚園 モロ出し祭り 〜過剰サービスに鰻はネットリ父ウットリ〜](https://zh.wikipedia.org/wiki/SUPER_LIVE_in_渚園_モロ出し祭り_〜過剰サービスに鰻はネットリ父ウットリ〜 "wikilink")，此場演唱會主要是演唱過去20年來的人氣歌曲。
   - 至2013年，銷售量為3,512,577張，[ORICON歷代專輯排行榜第](https://zh.wikipedia.org/wiki/ORICON "wikilink")11位，為[南方之星](../Page/南方之星.md "wikilink")所有作品裡銷售量最高的。
 
 ## 收錄曲
@@ -53,10 +49,4 @@ DISC-2 〜SUNNY SIDE〜
 
   - [歴代アルバムランキング](https://web.archive.org/web/20120103001458/http://www.musictvprogram.com/corner-ranking-album.html)
 
-[Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink")
-[Category:南方之星](https://zh.wikipedia.org/wiki/Category:南方之星 "wikilink")
-[Category:勝利娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:勝利娛樂音樂專輯 "wikilink")
-[Category:1998年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon專輯月榜冠軍作品 "wikilink")
-[Category:1998年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
-[Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")
+[Category:1998年音樂專輯](https://zh.wikipedia.org/wiki/Category:1998年音樂專輯 "wikilink") [Category:南方之星](https://zh.wikipedia.org/wiki/Category:南方之星 "wikilink") [Category:勝利娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:勝利娛樂音樂專輯 "wikilink") [Category:1998年Oricon專輯月榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon專輯月榜冠軍作品 "wikilink") [Category:1998年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1998年Oricon專輯週榜冠軍作品 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:精選輯](https://zh.wikipedia.org/wiki/Category:精選輯 "wikilink")

@@ -1,10 +1,8 @@
-《KODA KUMI DRIVING HIT'S
-6》（飆速快感混音極選～6）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2014年3月19日發行的第7張[混音](../Page/混音.md "wikilink")專輯。
+《KODA KUMI DRIVING HIT'S 6》（飆速快感混音極選～6）為[日本](../Page/日本.md "wikilink")歌手[倖田來未](../Page/倖田來未.md "wikilink")於2014年3月19日發行的第7張[混音](../Page/混音.md "wikilink")專輯。
 
 ## 簡介
 
-  - 本作主要收錄以專輯《[Bon
-    Voyage](../Page/Bon_Voyage_\(倖田來未專輯\).md "wikilink")》的混音曲再加上舊曲的混音。
+  - 本作主要收錄以專輯《[Bon Voyage](../Page/Bon_Voyage_\(倖田來未專輯\).md "wikilink")》的混音曲再加上舊曲的混音。
   - DVD收錄約30分鐘的倖田來未於台灣的演唱會貼身紀錄片\[1\]。
   - 初回限定附贈封面閃卡。
 
@@ -40,8 +38,7 @@
 
 1.  Documentary Movie「Koda Kumi Taiwan Live 2013」
       -
-        相關條目可參考「[KODA KUMI 2013 TAIWAN
-        LIVE](../Page/KODA_KUMI_2013_TAIWAN_LIVE.md "wikilink")」
+        相關條目可參考「[KODA KUMI 2013 TAIWAN LIVE](../Page/KODA_KUMI_2013_TAIWAN_LIVE.md "wikilink")」
 
 ## 資料來源
 

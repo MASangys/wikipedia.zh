@@ -1,5 +1,4 @@
-《**GREEN**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十二张录音室专辑。2002年7月3日由[VERMILLION
-RECORDS发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
+《**GREEN**》是日本摇滚组合[B'z](../Page/B'z.md "wikilink")的的第十二张录音室专辑。2002年7月3日由[VERMILLION RECORDS发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 最終銷量約113.1萬張，為日本最暢銷專輯第232名。
 
@@ -20,11 +19,6 @@ RECORDS发行](../Page/VERMILLION_RECORDS.md "wikilink")。\[1\]
 
 ## 参考文献
 
-[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink")
-[Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink")
-[Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink")
-[Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink")
-[Category:2002年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2002年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink")
+[Category:B'z音樂專輯](https://zh.wikipedia.org/wiki/Category:B'z音樂專輯 "wikilink") [Category:2002年音樂專輯](https://zh.wikipedia.org/wiki/Category:2002年音樂專輯 "wikilink") [Category:RIAJ百萬認證專輯](https://zh.wikipedia.org/wiki/Category:RIAJ百萬認證專輯 "wikilink") [Category:Oricon百萬銷量達成專輯](https://zh.wikipedia.org/wiki/Category:Oricon百萬銷量達成專輯 "wikilink") [Category:2002年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2002年Oricon專輯週榜冠軍作品 "wikilink") [Category:VERMILLION_RECORDS音乐专辑](https://zh.wikipedia.org/wiki/Category:VERMILLION_RECORDS音乐专辑 "wikilink")
 
 1.

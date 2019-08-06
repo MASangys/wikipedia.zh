@@ -1,7 +1,6 @@
 **here文档**\[1\]，又称作**heredoc**、**hereis**、**here-字串**或**here-脚本**，是一种在命令行shell（如[sh](https://zh.wikipedia.org/wiki/Bourne_Shell "wikilink")、[csh](https://zh.wikipedia.org/wiki/C_shell "wikilink")、[ksh](https://zh.wikipedia.org/wiki/Korn_shell "wikilink")、[bash](https://zh.wikipedia.org/wiki/bash "wikilink")、[PowerShell和](https://zh.wikipedia.org/wiki/PowerShell "wikilink")[zsh](../Page/Z_shell.md "wikilink")）和程序语言（像[Perl](../Page/Perl.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[Python](../Page/Python.md "wikilink")和[Ruby](../Page/Ruby.md "wikilink")）里定义一个[字串的方法](https://zh.wikipedia.org/wiki/字串 "wikilink")。它可以保存文字裡面的换行或是縮排等空白字元。一些语言允许在字串里执行[变量替换和](https://zh.wikipedia.org/wiki/变量 "wikilink")[命令替换](https://zh.wikipedia.org/wiki/命令替换 "wikilink")。
 
-here文档最通用的语法是`<<`紧跟一个标识符，从下一行开始是想要引用的文字，然后再在单独的一行用相同的标识符关闭。在Unix
-shell里，here文档通常用于给命令提供输入内容。
+here文档最通用的语法是`<<`紧跟一个标识符，从下一行开始是想要引用的文字，然后再在单独的一行用相同的标识符关闭。在Unix shell里，here文档通常用于给命令提供输入内容。
 
 ## 实例
 
@@ -22,11 +21,9 @@ shell里，here文档通常用于给命令提供输入内容。
  UNO DOS TRES
 ```
 
-\[2\] `END_TEXT`被用作标识符。它指定了here文档的开始和结束`ONE TWO THREE`和`UNO DOS
-TRES`是执行后`tr`的输出。
+\[2\] `END_TEXT`被用作标识符。它指定了here文档的开始和结束`ONE TWO THREE`和`UNO DOS TRES`是执行后`tr`的输出。
 
-在\<\<后面添加一个减号，可以使TAB字元被忽略。这允许在shell脚本中缩进here文档而不改变它们的值。（注意在命令行上可能会需要输入*Ctrl-v
-TAB*来真正地输入一个制表符。下边的例子用空格模拟制表符；不要复制粘贴。）
+在\<\<后面添加一个减号，可以使TAB字元被忽略。这允许在shell脚本中缩进here文档而不改变它们的值。（注意在命令行上可能会需要输入*Ctrl-v TAB*来真正地输入一个制表符。下边的例子用空格模拟制表符；不要复制粘贴。）
 
 ``` bash
  $ tr a-z A-Z <<-END_TEXT
@@ -102,8 +99,7 @@ C:\>
 
 #### Windows PowerShell
 
-在[Windows
-PowerShell里](../Page/Windows_PowerShell.md "wikilink")，here文档表示的是**here-字串**。一个here-字串是由`@"`或`@'`开始，由独立成行的`"@`或`'@`结束的字串。所有在开始符号和结束符号之间的字符都被当做字面的字串\[3\]。
+在[Windows PowerShell里](../Page/Windows_PowerShell.md "wikilink")，here文档表示的是**here-字串**。一个here-字串是由`@"`或`@'`开始，由独立成行的`"@`或`'@`结束的字串。所有在开始符号和结束符号之间的字符都被当做字面的字串\[3\]。
 
 使用双引号引起来的here-字串允许变量替换，而单引号不行\[4\]。
 
@@ -204,8 +200,7 @@ IDENT";
 
 #### Lua
 
-[Lua](../Page/Lua.md "wikilink")使用`[[`和`|`和`]]`定义字面字串，字面字串中的换行会原样保留，不允许含有转义字符。这不便放置长的注释（`--[[注释|注释]]`）和一些字串（`x
-= a[b[c]]`）。所以在版本5.1时，Lua添加了一个新语法：起始的两个括号中间可以加入任意多的等号，并且只有相同的等号数字才能关闭字串。
+[Lua](../Page/Lua.md "wikilink")使用`[[`和`|`和`]]`定义字面字串，字面字串中的换行会原样保留，不允许含有转义字符。这不便放置长的注释（`--[[注释|注释]]`）和一些字串（`x = a[b[c]]`）。所以在版本5.1时，Lua添加了一个新语法：起始的两个括号中间可以加入任意多的等号，并且只有相同的等号数字才能关闭字串。
 
 ``` Lua
 local ls = [[
@@ -339,8 +334,7 @@ echo $toprint;
 
 包含关闭标识符的行不得包含除了（可选的）分号的任何其他字符。不然它就不会被识别为关闭标识符，PHP就会继续寻找一个。如果没有找到关闭标识符，分析错误会发生在最后一行\[6\]。
 
-在PHP
-5.3和以后的版本中，就像[Perl](../Page/Perl.md "wikilink")一样，可以用单引号包裹标识符阻止变量扩展；这叫作*nowdoc*\[7\]：
+在PHP 5.3和以后的版本中，就像[Perl](../Page/Perl.md "wikilink")一样，可以用单引号包裹标识符阻止变量扩展；这叫作*nowdoc*\[7\]：
 
 ``` php
 $x = <<<'END'
@@ -663,11 +657,9 @@ target3: dependent3
 
 ## 外部链接
 
-  - [Here
-    document](http://rosettacode.org/wiki/Here_document)。超过15种语言里的here文档。
+  - [Here document](http://rosettacode.org/wiki/Here_document)。超过15种语言里的here文档。
 
-[Category:程序架構](https://zh.wikipedia.org/wiki/Category:程序架構 "wikilink")
-[Category:字符串](https://zh.wikipedia.org/wiki/Category:字符串 "wikilink")
+[Category:程序架構](https://zh.wikipedia.org/wiki/Category:程序架構 "wikilink") [Category:字符串](https://zh.wikipedia.org/wiki/Category:字符串 "wikilink")
 
 1.
 

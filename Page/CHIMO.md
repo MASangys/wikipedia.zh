@@ -8,8 +8,7 @@
 
 主要以[大分市](../Page/大分市.md "wikilink")和[別府市](../Page/別府市.md "wikilink")為中心在大分縣内進行活動。
 
-而且，定期進行原創歌曲公演，與鄰近縣[LinQ](../Page/LinQ.md "wikilink")（福岡縣）、[ひめキュン
-フルーツ缶](https://zh.wikipedia.org/wiki/ひめキュン_フルーツ缶 "wikilink")（愛媛縣）共同。
+而且，定期進行原創歌曲公演，與鄰近縣[LinQ](../Page/LinQ.md "wikilink")（福岡縣）、[ひめキュン フルーツ缶](https://zh.wikipedia.org/wiki/ひめキュン_フルーツ缶 "wikilink")（愛媛縣）共同。
 
 ## 成果
 
@@ -245,8 +244,7 @@
 <!-- end list -->
 
   -
-    第1期生。2010年3月畢業。　[Sony Music
-    Artists所屬](../Page/Sony_Music_Artists.md "wikilink")
+    第1期生。2010年3月畢業。　[Sony Music Artists所屬](../Page/Sony_Music_Artists.md "wikilink")
 
 ### 其他
 
@@ -299,11 +297,9 @@
 
 ### 單曲
 
-1.  [We Are CHIMO Yeah\!\!／Best
-    Friend](https://zh.wikipedia.org/wiki/We_Are_CHIMO_Yeah!!／Best_Friend "wikilink")（2009年2月14日）
+1.  [We Are CHIMO Yeah\!\!／Best Friend](https://zh.wikipedia.org/wiki/We_Are_CHIMO_Yeah!!／Best_Friend "wikilink")（2009年2月14日）
 2.  [青春サバイバー／幸せの時間／恋の予感](https://zh.wikipedia.org/wiki/青春サバイバー／幸せの時間／恋の予感 "wikilink")（2010年2月11日）
-3.  [1st アルバム
-    わたしたちちゃいもです](https://zh.wikipedia.org/wiki/1st_アルバム_わたしたちちゃいもです "wikilink")（2011年5月28日）
+3.  [1st アルバム わたしたちちゃいもです](https://zh.wikipedia.org/wiki/1st_アルバム_わたしたちちゃいもです "wikilink")（2011年5月28日）
 4.  [恋のドキ学説明書／1009％Chimode](https://zh.wikipedia.org/wiki/恋のドキ学説明書／1009％Chimode "wikilink")（2012年3月18日）
 
 ## 書籍
@@ -356,22 +352,16 @@
   - [パークプレイス大分](https://zh.wikipedia.org/wiki/パークプレイス大分 "wikilink")（大分市、ショッピングセンター）
   - [別府タワーホール](https://zh.wikipedia.org/wiki/別府タワー "wikilink")（別府市、タワー内ライブハウス）
   - [ゆめタウン別府](https://zh.wikipedia.org/wiki/ゆめタウン別府 "wikilink")（別府市、総合スーパー）
-  - [天神ビブレ](https://zh.wikipedia.org/wiki/天神ビブレ "wikilink")
-    ビブレホール（福岡市中央区、ファッションビル内ホール）
+  - [天神ビブレ](https://zh.wikipedia.org/wiki/天神ビブレ "wikilink") ビブレホール（福岡市中央区、ファッションビル内ホール）
 
 ## 出典
 
 ## 外部連結
 
-  - [OFFICIAL
-    BLOG『CHIME（チャイム）って何?CHIMO（チャイモ）って芋?』](http://ameblo.jp/chime-blog/)
-  - [CHIME
-    MOBILE〜チャイムモバイル〜](https://web.archive.org/web/20121027220332/http://chime.daa.jp/mobile/)
+  - [OFFICIAL BLOG『CHIME（チャイム）って何?CHIMO（チャイモ）って芋?』](http://ameblo.jp/chime-blog/)
+  - [CHIME MOBILE〜チャイムモバイル〜](https://web.archive.org/web/20121027220332/http://chime.daa.jp/mobile/)
 
-[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:日本在地偶像](https://zh.wikipedia.org/wiki/Category:日本在地偶像 "wikilink")
+[Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本在地偶像](https://zh.wikipedia.org/wiki/Category:日本在地偶像 "wikilink")
 
-1.  以節目MC的[倫敦靴子](../Page/倫敦靴子.md "wikilink")[田村淳](../Page/田村淳.md "wikilink")為中心，在47都道府縣選出最可愛女性企劃。AKG47是「Atsushi
-    Kawaii Girl 47」的簡略，借日本的偶像組合[AKB48](../Page/AKB48.md "wikilink")的名字。
+1.  以節目MC的[倫敦靴子](../Page/倫敦靴子.md "wikilink")[田村淳](../Page/田村淳.md "wikilink")為中心，在47都道府縣選出最可愛女性企劃。AKG47是「Atsushi Kawaii Girl 47」的簡略，借日本的偶像組合[AKB48](../Page/AKB48.md "wikilink")的名字。
 2.

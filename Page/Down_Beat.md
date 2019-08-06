@@ -1,13 +1,8 @@
-***Down
-Beat***是一個致力於「[爵士](../Page/爵士.md "wikilink")、[藍調](../Page/藍調.md "wikilink")和超越」（jazz,
-blues and
-beyond）的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，最後一個單詞beyond表示其擴張、「超越」其前一年所獨家報導的爵士領域。該雜誌於1934年誕生於[伊利諾伊州](https://zh.wikipedia.org/wiki/伊利諾伊州 "wikilink")[芝加哥](../Page/芝加哥.md "wikilink")，它以樂曲中第一個節拍（downbeat）命名。
+***Down Beat***是一個致力於「[爵士](../Page/爵士.md "wikilink")、[藍調](../Page/藍調.md "wikilink")和超越」（jazz, blues and beyond）的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，最後一個單詞beyond表示其擴張、「超越」其前一年所獨家報導的爵士領域。該雜誌於1934年誕生於[伊利諾伊州](https://zh.wikipedia.org/wiki/伊利諾伊州 "wikilink")[芝加哥](../Page/芝加哥.md "wikilink")，它以樂曲中第一個節拍（downbeat）命名。
 
-Down Beat雜誌每年都發表讀者及評論家對於各類型音樂中的排行統計。Down Beat爵士樂名人堂（The Down Beat Jazz
-Hall of Fame）獲獎者來自於讀者和評論家的投票。每年讀者的投票結果於十二月發佈，而評論家的統計則在八月發佈。
+Down Beat雜誌每年都發表讀者及評論家對於各類型音樂中的排行統計。Down Beat爵士樂名人堂（The Down Beat Jazz Hall of Fame）獲獎者來自於讀者和評論家的投票。每年讀者的投票結果於十二月發佈，而評論家的統計則在八月發佈。
 
-Down
-Bea雜誌最為出名的是以下特點：爵士評論家使用1星到5星級的評價系統、報導最新發行的專輯、專輯重新錄音和書籍出版的消息、評論音樂家及音樂形式的專文和其著名的「蒙眼測試」：邀請音樂家聆聽其他人的錄音並試圖猜測他們是誰，再讓他們使用5星級的最高評級系統和價格。
+Down Bea雜誌最為出名的是以下特點：爵士評論家使用1星到5星級的評價系統、報導最新發行的專輯、專輯重新錄音和書籍出版的消息、評論音樂家及音樂形式的專文和其著名的「蒙眼測試」：邀請音樂家聆聽其他人的錄音並試圖猜測他們是誰，再讓他們使用5星級的最高評級系統和價格。
 
 1979年4月開始，Down Beat改為每月出刊。
 
@@ -78,17 +73,9 @@ Bea雜誌最為出名的是以下特點：爵士評論家使用1星到5星級的
 ## 外部連結
 
   - [*Down Beat* 網站](http://www.downbeat.com/)
-  - ["About *Down Beat*: A History As Rich As
-    Jazz"](https://web.archive.org/web/20040705094852/http://www.downbeat.com/default.asp?sect=about_04)
-  - The [Jazz Journalists Association](http://www.jazzhouse.org/)
-    Lifetime Achievement Award
-  - [Nesuhi
-    Ertegun](https://zh.wikipedia.org/wiki/Nesuhi_Ertegun "wikilink")
-    [Jazz Hall of Fame](http://www.jalc.org/halloffame/)
-  - [Arts For Art](http://www.visionfestival.org/) Lifetime Achievement
-    Award
+  - ["About *Down Beat*: A History As Rich As Jazz"](https://web.archive.org/web/20040705094852/http://www.downbeat.com/default.asp?sect=about_04)
+  - The [Jazz Journalists Association](http://www.jazzhouse.org/) Lifetime Achievement Award
+  - [Nesuhi Ertegun](https://zh.wikipedia.org/wiki/Nesuhi_Ertegun "wikilink") [Jazz Hall of Fame](http://www.jalc.org/halloffame/)
+  - [Arts For Art](http://www.visionfestival.org/) Lifetime Achievement Award
 
-[Category:美國雜誌](https://zh.wikipedia.org/wiki/Category:美國雜誌 "wikilink")
-[Category:爵士出版物](https://zh.wikipedia.org/wiki/Category:爵士出版物 "wikilink")
-[Category:爵士樂](https://zh.wikipedia.org/wiki/Category:爵士樂 "wikilink")
-[Category:音樂雜誌](https://zh.wikipedia.org/wiki/Category:音樂雜誌 "wikilink")
+[Category:美國雜誌](https://zh.wikipedia.org/wiki/Category:美國雜誌 "wikilink") [Category:爵士出版物](https://zh.wikipedia.org/wiki/Category:爵士出版物 "wikilink") [Category:爵士樂](https://zh.wikipedia.org/wiki/Category:爵士樂 "wikilink") [Category:音樂雜誌](https://zh.wikipedia.org/wiki/Category:音樂雜誌 "wikilink")

@@ -1,7 +1,4 @@
-《**單色小姐 -The
-Animation-**》，是於2013年10月1日至12月25日於[東京電視台](../Page/東京電視台.md "wikilink")播放的5分钟短[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，电视台播放后亦会在NICONICO
-CHANNEL上播放。全13話。电视动画第2季于2015年7月3日由[Tokyo
-MX播放](https://zh.wikipedia.org/wiki/东京都会电视台 "wikilink")\[1\]。
+《**單色小姐 -The Animation-**》，是於2013年10月1日至12月25日於[東京電視台](../Page/東京電視台.md "wikilink")播放的5分钟短[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，电视台播放后亦会在NICONICO CHANNEL上播放。全13話。电视动画第2季于2015年7月3日由[Tokyo MX播放](https://zh.wikipedia.org/wiki/东京都会电视台 "wikilink")\[1\]。
 
 ## 故事簡介
 
@@ -86,8 +83,7 @@ MX播放](https://zh.wikipedia.org/wiki/东京都会电视台 "wikilink")\[1\]�
   - 音樂：大川茂伸
   - 音樂製作：スターチャイルドレコード
   - 動畫製作：[LIDENFILMS](../Page/LIDENFILMS.md "wikilink")、[三次元](../Page/三次元_\(動畫製作公司\).md "wikilink")
-  - 製作：ミス・モノクローム製作委員會（[東京電視台](../Page/東京電視台.md "wikilink")、ガールフレンド（暫）
-    、アメーバ）
+  - 製作：ミス・モノクローム製作委員會（[東京電視台](../Page/東京電視台.md "wikilink")、ガールフレンド（暫） 、アメーバ）
 
 ### 主題曲
 
@@ -105,9 +101,7 @@ MX播放](https://zh.wikipedia.org/wiki/东京都会电视台 "wikilink")\[1\]�
 
       -
         「Endless Seventeen」
-        作詞 - [只野菜摘](https://zh.wikipedia.org/wiki/只野菜摘 "wikilink") / 作曲
-        - バグベア / 編曲 - 川島弘光 / 歌 -
-        KIKUKO（[井上喜久子](../Page/井上喜久子.md "wikilink")）
+        作詞 - [只野菜摘](https://zh.wikipedia.org/wiki/只野菜摘 "wikilink") / 作曲 - バグベア / 編曲 - 川島弘光 / 歌 - KIKUKO（[井上喜久子](../Page/井上喜久子.md "wikilink")）
         第2季也使用。
 
   - 第2季、第3季主題曲
@@ -116,8 +110,7 @@ MX播放](https://zh.wikipedia.org/wiki/东京都会电视台 "wikilink")\[1\]�
 
 ::「Black or White?」（第二季全、第三季1 - 9話）
 
-:: 作詞・作曲・編曲 - [清竜人](https://zh.wikipedia.org/wiki/清竜人 "wikilink") / 歌 -
-ミス・モノクローム（堀江由衣）
+:: 作詞・作曲・編曲 - [清竜人](https://zh.wikipedia.org/wiki/清竜人 "wikilink") / 歌 - ミス・モノクローム（堀江由衣）
 
 ::「ミス・モノクローム体操」（第三季10 - 13話）
 
@@ -129,10 +122,7 @@ MX播放](https://zh.wikipedia.org/wiki/东京都会电视台 "wikilink")\[1\]�
 
       -
         「Step by Step\!」（第二季全、第三季1-8話）
-        作詞 - [川田瑠夏](https://zh.wikipedia.org/wiki/川田瑠夏 "wikilink") /
-        作曲・編曲 -
-        [宮崎誠](https://zh.wikipedia.org/wiki/宮崎誠 "wikilink")
-        / 歌 - ミス・モノクローム（堀江由衣）
+        作詞 - [川田瑠夏](https://zh.wikipedia.org/wiki/川田瑠夏 "wikilink") / 作曲・編曲 - [宮崎誠](https://zh.wikipedia.org/wiki/宮崎誠 "wikilink") / 歌 - ミス・モノクローム（堀江由衣）
         「キミとボク」（第三季9 - 13話）
         作詞・作曲・編曲 - 山崎寛子 / 歌 - ミス・モノクローム（堀江由衣）
 
@@ -525,26 +515,18 @@ MX播放](https://zh.wikipedia.org/wiki/东京都会电视台 "wikilink")\[1\]�
 ## 外部連結
 
   - [StarChild：《單色小姐》](http://starchild.co.jp/artist/miss_monochrome/)
-  - [StarChild：《單色小姐 -The
-    Animation-》](http://starchild.co.jp/special/miss_monochrome_anime/)
+  - [StarChild：《單色小姐 -The Animation-》](http://starchild.co.jp/special/miss_monochrome_anime/)
 
 <!-- end list -->
 
-  - [東京電視台《單色小姐 -The
-    Animation-》](http://www.tv-tokyo.co.jp/anime/miss_monochrome/index2.html)
+  - [東京電視台《單色小姐 -The Animation-》](http://www.tv-tokyo.co.jp/anime/miss_monochrome/index2.html)
 
-
-  - [NICONICO CHANNEL「單色小姐 -The
-    Animation-」](http://ch.nicovideo.jp/miss-monochrome/)
+  - [NICONICO CHANNEL「單色小姐 -The Animation-」](http://ch.nicovideo.jp/miss-monochrome/)
 
   -
 
   -
 
-[Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink")
-[Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink")
-[Category:2015年日本电视动画](https://zh.wikipedia.org/wiki/Category:2015年日本电视动画 "wikilink")
-[Category:动画短片](https://zh.wikipedia.org/wiki/Category:动画短片 "wikilink")
-[Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
+[Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink") [Category:2013年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年東京電視網動畫 "wikilink") [Category:2015年日本电视动画](https://zh.wikipedia.org/wiki/Category:2015年日本电视动画 "wikilink") [Category:动画短片](https://zh.wikipedia.org/wiki/Category:动画短片 "wikilink") [Category:Bilibili外购动画](https://zh.wikipedia.org/wiki/Category:Bilibili外购动画 "wikilink")
 
 1.

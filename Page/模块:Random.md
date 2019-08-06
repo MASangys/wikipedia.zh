@@ -1,5 +1,4 @@
-\-- This module contains a number of functions that make use of random
-numbers.
+\-- This module contains a number of functions that make use of random numbers.
 
 local cfg = {}
 
@@ -9,19 +8,9 @@ local cfg = {}
 
 -----
 
-\-- Set this to true if your wiki has a traffic rate of less than one
-edit every two minutes or so. -- This will prevent the same "random"
-number being generated many times in a row until a new edit is made --
-to the wiki. This setting is only relevant if the |same= parameter is
-set. cfg.lowTraffic = false
+\-- Set this to true if your wiki has a traffic rate of less than one edit every two minutes or so. -- This will prevent the same "random" number being generated many times in a row until a new edit is made -- to the wiki. This setting is only relevant if the |same= parameter is set. cfg.lowTraffic = false
 
-\-- If cfg.lowTraffic is set to true, and the |same= parameter is set,
-this value is used for the refresh rate of the random seed. -- This is
-the number of seconds until the seed is changed. Getting this right is
-tricky. If you set it too high, the same number -- will be returned many
-times in a row. If you set it too low, you may get different random
-numbers appearing on the same page, -- particularly for pages that take
-many seconds to process. cfg.seedRefreshRate = 60
+\-- If cfg.lowTraffic is set to true, and the |same= parameter is set, this value is used for the refresh rate of the random seed. -- This is the number of seconds until the seed is changed. Getting this right is tricky. If you set it too high, the same number -- will be returned many times in a row. If you set it too low, you may get different random numbers appearing on the same page, -- particularly for pages that take many seconds to process. cfg.seedRefreshRate = 60
 
 -----
 
@@ -29,12 +18,9 @@ many seconds to process. cfg.seedRefreshRate = 60
 
 -----
 
-local p = {} -- For functions available from other Lua modules. local l
-= {} -- For functions not available from other Lua modules, but that
-need to be accessed using table keys.
+local p = {} -- For functions available from other Lua modules. local l = {} -- For functions not available from other Lua modules, but that need to be accessed using table keys.
 
-local yesno = require('Module:Yesno') local makeList =
-require('Module:List').makeList
+local yesno = require('Module:Yesno') local makeList = require('Module:List').makeList
 
 -----
 
@@ -385,9 +371,7 @@ end
 
 end
 
-\-- Process arguments for other functions. local otherFuncs = {'number',
-'date', 'item', 'list', 'text_list'} for _, funcName in
-ipairs(otherFuncs) do
+\-- Process arguments for other functions. local otherFuncs = {'number', 'date', 'item', 'list', 'text_list'} for _, funcName in ipairs(otherFuncs) do
 
 `   p[funcName] = makeWrapper(funcName)`
 

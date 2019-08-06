@@ -1,5 +1,4 @@
-**Original Film**
-是由[尼爾·H·摩里茲](../Page/尼爾·H·摩里茲.md "wikilink")创办的美国电影制作公司。
+**Original Film** 是由[尼爾·H·摩里茲](../Page/尼爾·H·摩里茲.md "wikilink")创办的美国电影制作公司。
 
 ## 影片目录
 
@@ -319,5 +318,4 @@
 ## 外部链接
 
   -
-[Category:美國電影公司](https://zh.wikipedia.org/wiki/Category:美國電影公司 "wikilink")
-[Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink")
+[Category:美國電影公司](https://zh.wikipedia.org/wiki/Category:美國電影公司 "wikilink") [Category:1997年成立的公司](https://zh.wikipedia.org/wiki/Category:1997年成立的公司 "wikilink")

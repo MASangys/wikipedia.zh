@@ -10,8 +10,7 @@
 
 女性主義的觀念基礎是認為，現時的社會建立於一個男性被給予了比女性更多特權的[父權](../Page/父權.md "wikilink")體系之上。
 
-現代女性主義理論主要、但並非完全地出自於西方的中產階級學術界。不過，女性主義運動是一個跨越階級與種族界線的草根運動。每個文化下面的女性主義運動各有其獨特性，並且會針對該社會的女性來提出議題，比如[蘇丹的](../Page/苏丹共和国.md "wikilink")[性器割除](https://zh.wikipedia.org/wiki/性器割除 "wikilink")（genital
-mutilation，請見[女性割禮](https://zh.wikipedia.org/wiki/女性割禮 "wikilink")）或[北美的](https://zh.wikipedia.org/wiki/北美 "wikilink")[玻璃天花板效應](https://zh.wikipedia.org/wiki/玻璃天花板效應 "wikilink")。而如[強姦](https://zh.wikipedia.org/wiki/強姦 "wikilink")、[亂倫與](https://zh.wikipedia.org/wiki/亂倫 "wikilink")[母職則是普世性的議題](../Page/母權.md "wikilink")。
+現代女性主義理論主要、但並非完全地出自於西方的中產階級學術界。不過，女性主義運動是一個跨越階級與種族界線的草根運動。每個文化下面的女性主義運動各有其獨特性，並且會針對該社會的女性來提出議題，比如[蘇丹的](../Page/苏丹共和国.md "wikilink")[性器割除](https://zh.wikipedia.org/wiki/性器割除 "wikilink")（genital mutilation，請見[女性割禮](https://zh.wikipedia.org/wiki/女性割禮 "wikilink")）或[北美的](https://zh.wikipedia.org/wiki/北美 "wikilink")[玻璃天花板效應](https://zh.wikipedia.org/wiki/玻璃天花板效應 "wikilink")。而如[強姦](https://zh.wikipedia.org/wiki/強姦 "wikilink")、[亂倫與](https://zh.wikipedia.org/wiki/亂倫 "wikilink")[母職則是普世性的議題](../Page/母權.md "wikilink")。
 
 |                                               |
 | --------------------------------------------- |

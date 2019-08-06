@@ -57,17 +57,9 @@
 
 [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
 
-1.  [新华网:北京：170多退休地铁列车分批拍卖](http://www.xinhuanet.com/chinanews/2007-12/08/content_11885607.htm)
-    2007年12月8日
-2.  [北方网:北京60退役地铁运往四川灾区当宿舍](http://news.enorth.com.cn/system/2008/11/27/003803089.shtml)
-    2009年8月5日
-3.  [人民网:北京地铁“闷罐车”退役
-    多数老车将被拍卖](http://js.people.com.cn/html/2012/04/13/99625.html)
-    2012年4月13日
-4.  [搜狐网:北京地铁1号线老列车开始装空调
-    改造陆续开始](http://news.sohu.com/20100807/n274054629.shtml)
-    2010年8月7日
+1.  [新华网:北京：170多退休地铁列车分批拍卖](http://www.xinhuanet.com/chinanews/2007-12/08/content_11885607.htm) 2007年12月8日
+2.  [北方网:北京60退役地铁运往四川灾区当宿舍](http://news.enorth.com.cn/system/2008/11/27/003803089.shtml) 2009年8月5日
+3.  [人民网:北京地铁“闷罐车”退役 多数老车将被拍卖](http://js.people.com.cn/html/2012/04/13/99625.html) 2012年4月13日
+4.  [搜狐网:北京地铁1号线老列车开始装空调 改造陆续开始](http://news.sohu.com/20100807/n274054629.shtml) 2010年8月7日
 5.
-6.  [搜狐网:创新驱动
-    工业振兴之路大提速(组图)](http://roll.sohu.com/20121217/n360598328.shtml)
-    201212月17日
+6.  [搜狐网:创新驱动 工业振兴之路大提速(组图)](http://roll.sohu.com/20121217/n360598328.shtml) 201212月17日

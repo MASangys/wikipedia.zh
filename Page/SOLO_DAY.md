@@ -1,6 +1,4 @@
-《**SOLO
-DAY**》是韓國男子組合[B1A4](../Page/B1A4.md "wikilink")第五張迷你專輯，在2014年7月14日由[WM娛樂製作](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")，[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")\[1\]，主打曲目為《SOLO
-DAY》。
+《**SOLO DAY**》是韓國男子組合[B1A4](../Page/B1A4.md "wikilink")第五張迷你專輯，在2014年7月14日由[WM娛樂製作](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")，[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")\[1\]，主打曲目為《SOLO DAY》。
 
 ## 曲目
 
@@ -123,10 +121,7 @@ DAY》。
 
 ## 參考資料
 
-[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:B1A4音樂專輯](https://zh.wikipedia.org/wiki/Category:B1A4音樂專輯 "wikilink")
-[Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
+[Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:B1A4音樂專輯](https://zh.wikipedia.org/wiki/Category:B1A4音樂專輯 "wikilink") [Category:2014年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 

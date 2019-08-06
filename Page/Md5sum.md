@@ -1,5 +1,4 @@
-**`md5sum`**是一种[计算机程序](../Page/计算机程序.md "wikilink")，用于计算与校验RFC
-1321所描述的128位[MD5](../Page/MD5.md "wikilink")[哈希值](https://zh.wikipedia.org/wiki/散列函数 "wikilink")，此处MD5散列值（或校验和）作一个文件的数字指纹使用。
+**`md5sum`**是一种[计算机程序](../Page/计算机程序.md "wikilink")，用于计算与校验RFC 1321所描述的128位[MD5](../Page/MD5.md "wikilink")[哈希值](https://zh.wikipedia.org/wiki/散列函数 "wikilink")，此处MD5散列值（或校验和）作一个文件的数字指纹使用。
 
 ## 功能
 
@@ -11,10 +10,7 @@
 
 ## 分布
 
-在多数[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[Linux](../Page/Linux.md "wikilink")与其他[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统](../Page/操作系统.md "wikilink")或[兼容层](../Page/兼容层.md "wikilink")都默认安装了`md5sum`工具，而其他操作系统（包括[Microsoft
-Windows与](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[BSD](../Page/BSD.md "wikilink")的变体[Mac
-OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")）也有相似的工具。在FreeBSD上，有同样功用的工具名为`md5`，但其亦带有额外的特性。
+在多数[Unix](https://zh.wikipedia.org/wiki/Unix "wikilink")、[Linux](../Page/Linux.md "wikilink")与其他[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")[操作系统](../Page/操作系统.md "wikilink")或[兼容层](../Page/兼容层.md "wikilink")都默认安装了`md5sum`工具，而其他操作系统（包括[Microsoft Windows与](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[BSD](../Page/BSD.md "wikilink")的变体[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")）也有相似的工具。在FreeBSD上，有同样功用的工具名为`md5`，但其亦带有额外的特性。
 
 ## 示例
 
@@ -57,8 +53,7 @@ filetohashA.txt: OK
 
 ## 参见
 
-  - [GNU Core
-    Utilities](https://zh.wikipedia.org/wiki/GNU_Core_Utilities "wikilink")
+  - [GNU Core Utilities](https://zh.wikipedia.org/wiki/GNU_Core_Utilities "wikilink")
 
   - [`cksum`](https://zh.wikipedia.org/wiki/cksum "wikilink")
 
@@ -75,8 +70,6 @@ filetohashA.txt: OK
   -
   -
   -
-  - [Microsoft's File Checksum Integrity Verifier
-    Utility](http://support.microsoft.com/kb/841290)
+  - [Microsoft's File Checksum Integrity Verifier Utility](http://support.microsoft.com/kb/841290)
 
-[Category:Unix安全相关软件](https://zh.wikipedia.org/wiki/Category:Unix安全相关软件 "wikilink")
-[Category:Unix文件系统相关软件](https://zh.wikipedia.org/wiki/Category:Unix文件系统相关软件 "wikilink")
+[Category:Unix安全相关软件](https://zh.wikipedia.org/wiki/Category:Unix安全相关软件 "wikilink") [Category:Unix文件系统相关软件](https://zh.wikipedia.org/wiki/Category:Unix文件系统相关软件 "wikilink")

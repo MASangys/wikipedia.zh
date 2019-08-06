@@ -15,8 +15,7 @@
 
 ## 游戏玩法
 
-仙战online将PC端的RPG玩法几乎全部搬在了手机网游上，游戏中法宝祭炼（玩家在到达一定等级后获得法宝，法宝可以赋予玩家各类属性）、装备强化（对装备进行进阶和升品，提升角色属性）、坐骑进阶、天元心法（类似于常见武侠网游中的经脉系统）、鸿钧仙境（单人副本）、世界BOSS、竞技场、仙府寻宝是其官方宣称的八大亮点玩法。\[3\]
-扮演角色不同的等级需到不同级别的地图进行任务修炼：1到10级，新手村；11-30级：昆仑古殿；31级到40级：桃园圣境；51级-60级：万仙峰；61级到70级：幽冥沼泽；71级到80级：南疆古迹；80级到90级：锁妖洞。
+仙战online将PC端的RPG玩法几乎全部搬在了手机网游上，游戏中法宝祭炼（玩家在到达一定等级后获得法宝，法宝可以赋予玩家各类属性）、装备强化（对装备进行进阶和升品，提升角色属性）、坐骑进阶、天元心法（类似于常见武侠网游中的经脉系统）、鸿钧仙境（单人副本）、世界BOSS、竞技场、仙府寻宝是其官方宣称的八大亮点玩法。\[3\] 扮演角色不同的等级需到不同级别的地图进行任务修炼：1到10级，新手村；11-30级：昆仑古殿；31级到40级：桃园圣境；51级-60级：万仙峰；61级到70级：幽冥沼泽；71级到80级：南疆古迹；80级到90级：锁妖洞。
 
 ## 參考來源
 
@@ -26,14 +25,8 @@
 
 </div>
 
-[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
-[Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink")
-[Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink")
-[Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink")
+[Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink") [Category:行動電話遊戲](https://zh.wikipedia.org/wiki/Category:行動電話遊戲 "wikilink") [Category:2013年电子游戏](https://zh.wikipedia.org/wiki/Category:2013年电子游戏 "wikilink") [Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink")
 
-1.  [中青宝冲击3涨停股价已上涨3倍](http://finance.ifeng.com/a/20130627/10027962_0.shtml手游业务受市场青睐)
-    凤凰财经 2013年06月27日
-2.  [1](http://game.163.com/13/0729/09/94UKRAKI00314R23.html飞仙新乐章《仙战》7.31启动终极测试)
-     网易 2013-07-29
-3.  [2](http://www.ptbus.com/xianzhan/94606/八大玩法《仙战》内测游玩攻略) 腾讯
-    2013年08月08
+1.  [中青宝冲击3涨停股价已上涨3倍](http://finance.ifeng.com/a/20130627/10027962_0.shtml手游业务受市场青睐) 凤凰财经 2013年06月27日
+2.  [1](http://game.163.com/13/0729/09/94UKRAKI00314R23.html飞仙新乐章《仙战》7.31启动终极测试)  网易 2013-07-29
+3.  [2](http://www.ptbus.com/xianzhan/94606/八大玩法《仙战》内测游玩攻略) 腾讯 2013年08月08

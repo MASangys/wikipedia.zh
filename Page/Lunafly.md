@@ -17,11 +17,9 @@
 
 ### Sam
 
-**Sam Carter**（全名：**Samuel Imgyu
-Carter**，韓文名：，），藝名**Sam**（），[英](https://zh.wikipedia.org/wiki/英國 "wikilink")[韓混血兒](https://zh.wikipedia.org/wiki/韓國 "wikilink")，是Lunafly的隊長、主Rapper、領唱，亦為隊中的吉他手、小提琴手、作曲擔當。
+**Sam Carter**（全名：**Samuel Imgyu Carter**，韓文名：，），藝名**Sam**（），[英](https://zh.wikipedia.org/wiki/英國 "wikilink")[韓混血兒](https://zh.wikipedia.org/wiki/韓國 "wikilink")，是Lunafly的隊長、主Rapper、領唱，亦為隊中的吉他手、小提琴手、作曲擔當。
 
-小時候學的是古典音樂，7歲時玩小提琴，到15、16歲才開始玩吉他。父親為英國人，母親為韓國人，在英國長大。長大後參加韓國電視台MBC《Star
-audition》The Great Birth(偉大的誕生)選秀節目，才搬來韓國和兩個小弟弟一同做音樂。
+小時候學的是古典音樂，7歲時玩小提琴，到15、16歲才開始玩吉他。父親為英國人，母親為韓國人，在英國長大。長大後參加韓國電視台MBC《Star audition》The Great Birth(偉大的誕生)選秀節目，才搬來韓國和兩個小弟弟一同做音樂。
 
 ### Teo
 
@@ -41,8 +39,7 @@ audition》The Great Birth(偉大的誕生)選秀節目，才搬來韓國和兩�
 
 **韓勝允**（，，），藝名**Yun**（），是Lunafly的主唱、忙內，亦為隊中的鼓手、吉他手、作曲擔當。
 
-國小時候是專門踢足球的，之後受到Eric Clapton、John Mayer、Stevie Ray
-Vaughan的影響，15歲(國一)開始玩吉他。有很長一段時間在街頭做表演。
+國小時候是專門踢足球的，之後受到Eric Clapton、John Mayer、Stevie Ray Vaughan的影響，15歲(國一)開始玩吉他。有很長一段時間在街頭做表演。
 
 Teo曾表示Yun撞球打得不錯。
 
@@ -60,20 +57,15 @@ Teo曾表示Yun撞球打得不錯。
 
 ## 組團契機
 
-一開始Teo和Yun一起當了一年半的練習生，Sam在參與「The Great
-Birth(偉大的誕生)」後，有個機會被叫到錄音室，與他們配唱，製作人覺得不錯，便在2012年2月把Sam留下來加入他們，而組成Lunafly。
+一開始Teo和Yun一起當了一年半的練習生，Sam在參與「The Great Birth(偉大的誕生)」後，有個機會被叫到錄音室，與他們配唱，製作人覺得不錯，便在2012年2月把Sam留下來加入他們，而組成Lunafly。
 
 ## 組合名稱
 
-組合名稱意思為“Anything is
-possible.”，像飛向月亮的人一樣，意指可以做任何事。某次Sam、Teo、Yun在晚上練習結束後仰望天空突然間想到的。他們想要成為月亮的信使，透過音樂給歌迷們傳遞各種各樣的情緒。
+組合名稱意思為“Anything is possible.”，像飛向月亮的人一樣，意指可以做任何事。某次Sam、Teo、Yun在晚上練習結束後仰望天空突然間想到的。他們想要成為月亮的信使，透過音樂給歌迷們傳遞各種各樣的情緒。
 
 ## 粉絲名稱及應援色
 
-官方FAN Club名稱為LUKIE，發音似Rookie，LUKIE有時亦會自稱為LUNAFANS。字面上的解釋為「**LU**NAFLY's
-**K**ingdom **I**s
-**E**ternal」，其實含意為“盡力地保持謙虛以及努力，就像身為音樂業界的新手，維持他們現有的態度，即使日後他們在全世界變得有名又廣為人知”。LUNAFLY曾在2013年5月13日的LUNAFLY
-Shoot\!提及應援色為紫色。
+官方FAN Club名稱為LUKIE，發音似Rookie，LUKIE有時亦會自稱為LUNAFANS。字面上的解釋為「**LU**NAFLY's **K**ingdom **I**s **E**ternal」，其實含意為“盡力地保持謙虛以及努力，就像身為音樂業界的新手，維持他們現有的態度，即使日後他們在全世界變得有名又廣為人知”。LUNAFLY曾在2013年5月13日的LUNAFLY Shoot\!提及應援色為紫色。
 
 ## 影視作品
 
@@ -345,9 +337,7 @@ Shoot\!提及應援色為紫色。
 
 ### 廣播電台
 
-  - 2013年4月8日～2014年2月，Arirang Radio《[Super
-    K-POP](http://www.arirang.co.kr/Radio/Radio_Home.asp?PROG_CODE=RADR0155&MENU_CODE=101730)》
-    SAM 固定主持，全英廣播，台灣時間每天下午3點\~5點。
+  - 2013年4月8日～2014年2月，Arirang Radio《[Super K-POP](http://www.arirang.co.kr/Radio/Radio_Home.asp?PROG_CODE=RADR0155&MENU_CODE=101730)》 SAM 固定主持，全英廣播，台灣時間每天下午3點\~5點。
     Super K-POP有隻鎮台之寶無尾熊娃娃，叫「SuKo」，全名為Super Koala，是SAM的小孩。
 
 每週一LUNAFLY全員固定出席第2小時的“LUNAFLY Shoot\!”單元，接受歌迷提問。
@@ -574,9 +564,7 @@ Shoot\!提及應援色為紫色。
   - [SAM Instagram](https://instagram.com/cartersamsc)
   - [YUN Instagram](https://www.instagram.com/hsy_lfy/)
 
-[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
+[Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
 
 1.  [브룸스틱](http://www.broomstick.co.kr/board/gallery/read.html?no=25&board_no=8)
 2.  [LUNAFLY 新成員：YUB](http://kpopn.niusnews.com/=K1oaanx1)

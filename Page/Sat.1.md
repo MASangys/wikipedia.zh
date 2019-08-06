@@ -2,8 +2,6 @@
 
 ## 注释
 
-[Category:1984年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:1984年成立的電視台或電視頻道 "wikilink")
-[Category:德国电视台](https://zh.wikipedia.org/wiki/Category:德国电视台 "wikilink")
-[Category:德語電視頻道](https://zh.wikipedia.org/wiki/Category:德語電視頻道 "wikilink")
+[Category:1984年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:1984年成立的電視台或電視頻道 "wikilink") [Category:德国电视台](https://zh.wikipedia.org/wiki/Category:德国电视台 "wikilink") [Category:德語電視頻道](https://zh.wikipedia.org/wiki/Category:德語電視頻道 "wikilink")
 
 1.

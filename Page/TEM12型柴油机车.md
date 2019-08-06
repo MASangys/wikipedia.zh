@@ -4,8 +4,7 @@
 
 机车采用底架承载结构罩式[车体](https://zh.wikipedia.org/wiki/车体 "wikilink")，车体各项载荷全部由底架承担，底架和车体重量通过旁承由两台二轴转向架支承，[牵引力](../Page/牵引力.md "wikilink")和制动力通过心盘传递。车体采用外走廊式罩式结构，[司机室位于车体中部](https://zh.wikipedia.org/wiki/司机室 "wikilink")，为司机提供良好的嘹望视野。机车走行部为两台二轴[转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")，[轴箱采用无导框式拉杆定位结构](https://zh.wikipedia.org/wiki/轴箱 "wikilink")。
 
-机车装用一台2-18-ДГ型柴油发电机组，包括了一台ЗА-6Д49型[柴油机及一台ГП](https://zh.wikipedia.org/wiki/柴油机 "wikilink")-319Б型[牵引发电机](../Page/发电机.md "wikilink")。ЗА-6Д49型柴油机（苏联国家标准[GOST型号为](https://zh.wikipedia.org/wiki/GOST "wikilink")8ЧН
-26/26）是Д49型柴油机的系列产品之一，为八气缸、[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")、二级增压带中间冷却的V型中速柴油机，[气缸直径为](https://zh.wikipedia.org/wiki/气缸 "wikilink")260毫米，[活塞](https://zh.wikipedia.org/wiki/活塞 "wikilink")[行程为](https://zh.wikipedia.org/wiki/冲程 "wikilink")260毫米，额定转速为每分钟1000转，装车功率为1200马力，单位燃料消耗量为155克/有效马力·小时。
+机车装用一台2-18-ДГ型柴油发电机组，包括了一台ЗА-6Д49型[柴油机及一台ГП](https://zh.wikipedia.org/wiki/柴油机 "wikilink")-319Б型[牵引发电机](../Page/发电机.md "wikilink")。ЗА-6Д49型柴油机（苏联国家标准[GOST型号为](https://zh.wikipedia.org/wiki/GOST "wikilink")8ЧН 26/26）是Д49型柴油机的系列产品之一，为八气缸、[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")、二级增压带中间冷却的V型中速柴油机，[气缸直径为](https://zh.wikipedia.org/wiki/气缸 "wikilink")260毫米，[活塞](https://zh.wikipedia.org/wiki/活塞 "wikilink")[行程为](https://zh.wikipedia.org/wiki/冲程 "wikilink")260毫米，额定转速为每分钟1000转，装车功率为1200马力，单位燃料消耗量为155克/有效马力·小时。
 
 机车传动装置采用直—直流电传动，柴油机通过[联轴器](../Page/联轴器.md "wikilink")直接驱动一台ГП-319Б型直流牵引发电机，再供给两台[并联的ЭД](../Page/並聯電路.md "wikilink")-121直流[牵引电动机](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")。牵引发电机额定功率为780千瓦，额定转速为每分钟1000转，采用独立励磁及自然通风冷却。ВГТ-275/120型辅助直流发电机和В-600型励磁机安装在同一单元内，即А-706Б型双机组，用来提供牵引发电机励磁电流、[蓄电池充电](https://zh.wikipedia.org/wiki/蓄电池 "wikilink")、控制电源和照明电源。此外，机车并设有一台ВС-652型交流辅助发电机。
 
@@ -21,12 +20,8 @@ TEM12型柴油机车的最大特点，是采用了组合驱动式轮对。每台
 
 ## 外部链接
 
-  - [1520mm.ru: Тепловоз
-    ТЭМ12](http://www.1520mm.ru/locomotives/diesel/shunting/tem12.phtml)
+  - [1520mm.ru: Тепловоз ТЭМ12](http://www.1520mm.ru/locomotives/diesel/shunting/tem12.phtml)
 
-[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink")
-[Category:B-B軸式機車](https://zh.wikipedia.org/wiki/Category:B-B軸式機車 "wikilink")
-[Category:柳季诺沃制铁路机车](https://zh.wikipedia.org/wiki/Category:柳季诺沃制铁路机车 "wikilink")
-[Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")
+[Category:苏联柴油机车](https://zh.wikipedia.org/wiki/Category:苏联柴油机车 "wikilink") [Category:B-B軸式機車](https://zh.wikipedia.org/wiki/Category:B-B軸式機車 "wikilink") [Category:柳季诺沃制铁路机车](https://zh.wikipedia.org/wiki/Category:柳季诺沃制铁路机车 "wikilink") [Category:调车机车](https://zh.wikipedia.org/wiki/Category:调车机车 "wikilink")
 
 1.

@@ -5,8 +5,7 @@
 ## 參看
 
   - [三菱Fighter](https://zh.wikipedia.org/wiki/三菱Fighter "wikilink")
-  - [三菱Super
-    Great](https://zh.wikipedia.org/wiki/三菱Super_Great "wikilink")
+  - [三菱Super Great](https://zh.wikipedia.org/wiki/三菱Super_Great "wikilink")
   - [三菱扶桑卡客車](https://zh.wikipedia.org/wiki/三菱扶桑卡客車 "wikilink")
 
 ## 外部連結

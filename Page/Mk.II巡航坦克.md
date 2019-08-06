@@ -12,8 +12,7 @@ Mk.II巡航坦克是由[約翰·卡登設計的坦克](https://zh.wikipedia.org/
 
 ## 作戰記錄
 
-[Bundesarchiv_Bild_101I-161-0317-26,_Balkan,_Griechenland,_britischer_Panzer.jpg](https://zh.wikipedia.org/wiki/File:Bundesarchiv_Bild_101I-161-0317-26,_Balkan,_Griechenland,_britischer_Panzer.jpg "fig:Bundesarchiv_Bild_101I-161-0317-26,_Balkan,_Griechenland,_britischer_Panzer.jpg")
-一些Mk.II巡航坦克作為遠征軍的一部分參與了[法國戰役](../Page/法國戰役.md "wikilink")。儘管它們的越野能力被發現十分糟糕，但是它們仍然參與了1941年的托布魯克防御戰（[北非戰役的一部分](https://zh.wikipedia.org/wiki/北非戰役 "wikilink")）。在那里，Mk.II巡航坦克因為可靠性高，加之懸掛在沙漠中的表現而受到贊揚。60輛受損的Mk.II被運到希臘并被[第三皇家坦克團裝備](https://zh.wikipedia.org/wiki/第三皇家坦克團 "wikilink")，并參與了抵抗納粹德國的戰鬥。這部分中超過90%的坦克都是因為在戰鬥中出現故障損失的。（主要是履帶出故障）\[6\]\[7\]
+[Bundesarchiv_Bild_101I-161-0317-26,_Balkan,_Griechenland,_britischer_Panzer.jpg](https://zh.wikipedia.org/wiki/File:Bundesarchiv_Bild_101I-161-0317-26,_Balkan,_Griechenland,_britischer_Panzer.jpg "fig:Bundesarchiv_Bild_101I-161-0317-26,_Balkan,_Griechenland,_britischer_Panzer.jpg") 一些Mk.II巡航坦克作為遠征軍的一部分參與了[法國戰役](../Page/法國戰役.md "wikilink")。儘管它們的越野能力被發現十分糟糕，但是它們仍然參與了1941年的托布魯克防御戰（[北非戰役的一部分](https://zh.wikipedia.org/wiki/北非戰役 "wikilink")）。在那里，Mk.II巡航坦克因為可靠性高，加之懸掛在沙漠中的表現而受到贊揚。60輛受損的Mk.II被運到希臘并被[第三皇家坦克團裝備](https://zh.wikipedia.org/wiki/第三皇家坦克團 "wikilink")，并參與了抵抗納粹德國的戰鬥。這部分中超過90%的坦克都是因為在戰鬥中出現故障損失的。（主要是履帶出故障）\[6\]\[7\]
 
 ## 型號/衍生型號
 
@@ -27,13 +26,11 @@ Mk.II巡航坦克是由[約翰·卡登設計的坦克](https://zh.wikipedia.org/
 
 ### Mk.IIA近程支援巡航坦克（Mk.IIA CS）
 
-[Cruiser_MkIIA_CS_1_Bovington.jpg](https://zh.wikipedia.org/wiki/File:Cruiser_MkIIA_CS_1_Bovington.jpg "fig:Cruiser_MkIIA_CS_1_Bovington.jpg")
-安裝了一門[3.7英寸榴彈炮和兩挺](https://zh.wikipedia.org/wiki/3.7英寸榴彈炮 "wikilink")[貝莎機槍](../Page/貝莎機槍.md "wikilink")。\[8\]
+[Cruiser_MkIIA_CS_1_Bovington.jpg](https://zh.wikipedia.org/wiki/File:Cruiser_MkIIA_CS_1_Bovington.jpg "fig:Cruiser_MkIIA_CS_1_Bovington.jpg") 安裝了一門[3.7英寸榴彈炮和兩挺](https://zh.wikipedia.org/wiki/3.7英寸榴彈炮 "wikilink")[貝莎機槍](../Page/貝莎機槍.md "wikilink")。\[8\]
 
 ### 瓦倫丁步兵坦克
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Valentine_II_in_Kubinka.jpg "fig:缩略图")
-[瓦倫丁步兵坦克是以Mk](https://zh.wikipedia.org/wiki/瓦倫丁坦克 "wikilink").II巡航坦克為基礎設計的。\[9\]
+[缩略图](https://zh.wikipedia.org/wiki/File:Valentine_II_in_Kubinka.jpg "fig:缩略图") [瓦倫丁步兵坦克是以Mk](https://zh.wikipedia.org/wiki/瓦倫丁坦克 "wikilink").II巡航坦克為基礎設計的。\[9\]
 
 ## 腳注/來源
 
@@ -44,11 +41,7 @@ Mk.II巡航坦克是由[約翰·卡登設計的坦克](https://zh.wikipedia.org/
 
 ## 外部链接
 
-[Category:英國坦克](https://zh.wikipedia.org/wiki/Category:英國坦克 "wikilink")
-[Category:巡航坦克](https://zh.wikipedia.org/wiki/Category:巡航坦克 "wikilink")
-[Category:二戰坦克](https://zh.wikipedia.org/wiki/Category:二戰坦克 "wikilink")
-[Category:英國二戰坦克](https://zh.wikipedia.org/wiki/Category:英國二戰坦克 "wikilink")
-[Category:輕型坦克](https://zh.wikipedia.org/wiki/Category:輕型坦克 "wikilink")
+[Category:英國坦克](https://zh.wikipedia.org/wiki/Category:英國坦克 "wikilink") [Category:巡航坦克](https://zh.wikipedia.org/wiki/Category:巡航坦克 "wikilink") [Category:二戰坦克](https://zh.wikipedia.org/wiki/Category:二戰坦克 "wikilink") [Category:英國二戰坦克](https://zh.wikipedia.org/wiki/Category:英國二戰坦克 "wikilink") [Category:輕型坦克](https://zh.wikipedia.org/wiki/Category:輕型坦克 "wikilink")
 
 1.
 

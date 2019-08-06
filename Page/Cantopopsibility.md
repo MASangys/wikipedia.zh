@@ -1,5 +1,4 @@
-《**Cantopopsibility**》是[C
-AllStar的第五張音樂專輯](../Page/C_AllStar.md "wikilink")，於2013年10月4日推出。是次專輯採用了多種不同風格的音樂，以展示廣東歌的可塑性，首波主打歌為《音樂殖民地》。
+《**Cantopopsibility**》是[C AllStar的第五張音樂專輯](../Page/C_AllStar.md "wikilink")，於2013年10月4日推出。是次專輯採用了多種不同風格的音樂，以展示廣東歌的可塑性，首波主打歌為《音樂殖民地》。
 
 ## 曲目
 
@@ -125,8 +124,7 @@ AllStar的第五張音樂專輯](../Page/C_AllStar.md "wikilink")，於2013年10
 
 </div>
 
-[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
-[Category:C_AllStar音樂專輯](https://zh.wikipedia.org/wiki/Category:C_AllStar音樂專輯 "wikilink")
+[Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:C_AllStar音樂專輯](https://zh.wikipedia.org/wiki/Category:C_AllStar音樂專輯 "wikilink")
 
 [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
 

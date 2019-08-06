@@ -2,10 +2,8 @@
 
 ## 概要
 
-  - 在演唱會「希望滿席祭
-    贊否兩論」第1天的公演完結時，公佈將會於2010年7月10日至11日在國立代代木競技場第一體育館舉行演唱會\[4\]\[5\]\[6\]。
-  - 演唱會的內容亦於2010年8月18日在[NHK衞星第2頻道](https://zh.wikipedia.org/wiki/NHK衞星第2頻道 "wikilink")（即現在的[NHK
-    BS Premium](../Page/NHK_BS_Premium.md "wikilink")）播放。\[7\]\[8\]
+  - 在演唱會「希望滿席祭 贊否兩論」第1天的公演完結時，公佈將會於2010年7月10日至11日在國立代代木競技場第一體育館舉行演唱會\[4\]\[5\]\[6\]。
+  - 演唱會的內容亦於2010年8月18日在[NHK衞星第2頻道](https://zh.wikipedia.org/wiki/NHK衞星第2頻道 "wikilink")（即現在的[NHK BS Premium](../Page/NHK_BS_Premium.md "wikilink")）播放。\[7\]\[8\]
 
 ## 參加成員
 
@@ -50,34 +48,21 @@
 <!-- end list -->
 
 1.  **overture**
-2.  **[淚中帶笑](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（）-
-    大島
-3.  **[沙灘的櫻桃](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想見你」 "wikilink")**（）
-    - 前田敦（中心）、大場、永尾、橫山
-4.  **[盛夏的聖誕玫瑰](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」 "wikilink")**（）
-    - 篠田、松原、中田、前田亞
-5.  **[制服的抵抗](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） -
-    仁藤、板野、小野惠
-6.  **[睡衣兜風](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（）
-    - 平嶋、渡邊、仲川
-7.  **[Bird](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「為了誰」 "wikilink")**
-    - 指原、高橋、北原
-8.  **[心型病毒](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」 "wikilink")**（）
-    - 高城、小嶋、佐藤堇
-9.  **[口對口的巧克力](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")**（） -
-    多田、柏木、內田
-10. **[奇跡也趕不及合格](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） -
-    野中、宮澤、米澤
-11. **[不只是回憶](../Page/Team_S_3rd_Stage「制服之芽」.md "wikilink")**（） -
-    松井珠、木下、平松
+2.  **[淚中帶笑](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（）- 大島
+3.  **[沙灘的櫻桃](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「想見你」 "wikilink")**（） - 前田敦（中心）、大場、永尾、橫山
+4.  **[盛夏的聖誕玫瑰](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」 "wikilink")**（） - 篠田、松原、中田、前田亞
+5.  **[制服的抵抗](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - 仁藤、板野、小野惠
+6.  **[睡衣兜風](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（） - 平嶋、渡邊、仲川
+7.  **[Bird](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「為了誰」 "wikilink")** - 指原、高橋、北原
+8.  **[心型病毒](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」 "wikilink")**（） - 高城、小嶋、佐藤堇
+9.  **[口對口的巧克力](../Page/Team_B_4th_Stage「偶像的黎明」.md "wikilink")**（） - 多田、柏木、內田
+10. **[奇跡也趕不及合格](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - 野中、宮澤、米澤
+11. **[不只是回憶](../Page/Team_S_3rd_Stage「制服之芽」.md "wikilink")**（） - 松井珠、木下、平松
 12. **[枯葉車站](../Page/Team_S_3rd_Stage「制服之芽」.md "wikilink")**（） - 松井玲
-13. **[來一塊糖果](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） -
-    增田、河西、佐藤亞
+13. **[來一塊糖果](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 增田、河西、佐藤亞
 14. **MC1** - 柏木、高橋、篠田、大島、前田敦、渡邊、小嶋、宮澤
-15. **[抱歉、SUMMER](../Page/抱歉、SUMMER.md "wikilink")**（） -
-    木崎、松井珠、松井玲、矢神、石田安、高柳、向田
-16. **[少女在盛夏會做什麼？](../Page/抱歉、SUMMER.md "wikilink")**（） -
-    小野晴、木下、桑原、須田、高田、齊藤、若林、山田
+15. **[抱歉、SUMMER](../Page/抱歉、SUMMER.md "wikilink")**（） - 木崎、松井珠、松井玲、矢神、石田安、高柳、向田
+16. **[少女在盛夏會做什麼？](../Page/抱歉、SUMMER.md "wikilink")**（） - 小野晴、木下、桑原、須田、高田、齊藤、若林、山田
 17. **[納豆天使](../Page/納豆天使.md "wikilink")**（） - 宮崎、板野、河西
 18. **MC2** - 前半：板野、河西；後半：宮崎、仁藤、佐藤堇、石田晴
 19. **[納豆文](../Page/納豆天使.md "wikilink")**（） - 宮崎、仁藤、佐藤堇、石田晴
@@ -88,22 +73,14 @@
 24. **[心之羽根](../Page/心之羽根.md "wikilink")**（） - 小嶋、高橋、前田敦、板野、大島、柏木、渡邊
 25. **MC5** - 秋元、小野惠、峯岸、宮澤
 26. **[RESET](../Page/Team_K_6th_Stage「RESET」.md "wikilink")** - Team K
-27. **[劇場的女神](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - Team
-    B
-28. **[RUN RUN
-    RUN](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」 "wikilink")**
-    - Team A
+27. **[劇場的女神](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - Team B
+28. **[RUN RUN RUN](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」 "wikilink")** - Team A
 29. **MC6** - Team A、板野
-30. **[驚喜之淚！](https://zh.wikipedia.org/wiki/驚喜之淚！ "wikilink")**（） - Team
-    A
-31. **[想見你](https://zh.wikipedia.org/wiki/想見你_\(AKB48單曲\) "wikilink")**（）
-    - 內田、梅田、田名部、中塚、野中、松井咲、米澤、小林、佐藤夏、鈴木、平嶋、增田、8期研究生、9期研究生、SKE48（松井玲除外）
-32. **[因為喜歡你](../Page/RIVER_\(AKB48單曲\).md "wikilink")**（） -
-    多田、片山、倉持、指原、高城、仲川、前田亞、菊地、仁藤、藤江、石田晴、奧、小森、佐藤亞、佐藤堇、松井玲
-33. **[大聲鑽石](https://zh.wikipedia.org/wiki/大聲鑽石 "wikilink")**（） -
-    小嶋、篠田、高橋、前田敦、秋元、板野、大島、小野惠、峯岸、宮澤、河西、柏木、北原、近野、宮崎、渡邊
-34. **[Maybe是藉口](../Page/Maybe是藉口.md "wikilink")**（） -
-    多田、倉持、小嶋、篠田、高城、高橋、前田敦、秋元、板野、大島、小野惠、峯岸、宮澤、河西、柏木、北原、佐藤亞、宮崎、渡邊、松井珠、松井玲
+30. **[驚喜之淚！](https://zh.wikipedia.org/wiki/驚喜之淚！ "wikilink")**（） - Team A
+31. **[想見你](https://zh.wikipedia.org/wiki/想見你_\(AKB48單曲\) "wikilink")**（） - 內田、梅田、田名部、中塚、野中、松井咲、米澤、小林、佐藤夏、鈴木、平嶋、增田、8期研究生、9期研究生、SKE48（松井玲除外）
+32. **[因為喜歡你](../Page/RIVER_\(AKB48單曲\).md "wikilink")**（） - 多田、片山、倉持、指原、高城、仲川、前田亞、菊地、仁藤、藤江、石田晴、奧、小森、佐藤亞、佐藤堇、松井玲
+33. **[大聲鑽石](https://zh.wikipedia.org/wiki/大聲鑽石 "wikilink")**（） - 小嶋、篠田、高橋、前田敦、秋元、板野、大島、小野惠、峯岸、宮澤、河西、柏木、北原、近野、宮崎、渡邊
+34. **[Maybe是藉口](../Page/Maybe是藉口.md "wikilink")**（） - 多田、倉持、小嶋、篠田、高城、高橋、前田敦、秋元、板野、大島、小野惠、峯岸、宮澤、河西、柏木、北原、佐藤亞、宮崎、渡邊、松井珠、松井玲
 35. **[10年櫻](../Page/10年櫻.md "wikilink")**（） - AKB48、松井珠、松井玲
 36. **[RIVER](../Page/RIVER_\(AKB48單曲\).md "wikilink")** - AKB48
 37. **MC7** - 高橋
@@ -112,10 +89,8 @@
 **安可曲**
 
 1.  **[你和太陽和彩虹](../Page/神曲集.md "wikilink")**（） - AKB48
-2.  **[Lucky Seven](../Page/無限重播.md "wikilink")**（） -
-    小嶋、指原、篠田、高城、高橋、前田敦、板野、大島、峯岸、宮澤、河西、柏木、北原、小森、宮崎、渡邊
-3.  **[我們的紙飛機](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） -
-    全員\[11\]\[12\]
+2.  **[Lucky Seven](../Page/無限重播.md "wikilink")**（） - 小嶋、指原、篠田、高城、高橋、前田敦、板野、大島、峯岸、宮澤、河西、柏木、北原、小森、宮崎、渡邊
+3.  **[我們的紙飛機](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 全員\[11\]\[12\]
 
 <!-- end list -->
 
@@ -129,58 +104,39 @@
 <!-- end list -->
 
 1.  **overture**
-2.  **[蔬菜姊妹](../Page/無限重播.md "wikilink")**（） -
-    多田、倉持、小嶋、指原、篠田、高城、高橋、前田敦、前田亞、秋元、板野、大島、小野、仁藤、峯岸、宮澤、河西、柏木、北原、小森、佐藤堇、宮崎、渡邊、松井珠、松井玲
-3.  **[隔壁的香蕉](https://zh.wikipedia.org/wiki/向日葵組_2nd_Stage「不要讓夢想死去」 "wikilink")**（）
-    - AKB48
-4.  **[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")**
-    - AKB48
+2.  **[蔬菜姊妹](../Page/無限重播.md "wikilink")**（） - 多田、倉持、小嶋、指原、篠田、高城、高橋、前田敦、前田亞、秋元、板野、大島、小野、仁藤、峯岸、宮澤、河西、柏木、北原、小森、佐藤堇、宮崎、渡邊、松井珠、松井玲
+3.  **[隔壁的香蕉](https://zh.wikipedia.org/wiki/向日葵組_2nd_Stage「不要讓夢想死去」 "wikilink")**（） - AKB48
+4.  **[Baby\! Baby\! Baby\!](../Page/Baby!_Baby!_Baby!.md "wikilink")** - AKB48
 5.  **MC1** - AKB48
 6.  **抱歉、SUMMER** - 木崎、松井珠、松井玲、矢神、石田安、高柳、向田
-7.  **[羽豆岬](../Page/抱歉、SUMMER.md "wikilink")** -
-    大矢、中西、平田、平松、內山、小木曾、古川、松本
+7.  **[羽豆岬](../Page/抱歉、SUMMER.md "wikilink")** - 大矢、中西、平田、平松、內山、小木曾、古川、松本
 8.  **MC2** - 大矢、中西、平田、平松、內山、小木曾、古川、松本
-9.  **[真假搖滾](../Page/櫻花印記.md "wikilink")**（） -
-    小嶋、篠田、高橋、前田敦、秋元、板野、大島、小野、柏木、渡邊、松井珠、松井玲
-10. **[馬路須加學園頂尖藍調](../Page/馬尾與髮圈.md "wikilink")**（） -
-    多田、倉持、小嶋、指原、篠田、高城、高橋、前田敦、秋元、板野、大島、小野、仁藤、宮澤、奧、河西、柏木、北原、小森、宮崎、渡邊、松井珠、松井玲、NaChu
+9.  **[真假搖滾](../Page/櫻花印記.md "wikilink")**（） - 小嶋、篠田、高橋、前田敦、秋元、板野、大島、小野、柏木、渡邊、松井珠、松井玲
+10. **[馬路須加學園頂尖藍調](../Page/馬尾與髮圈.md "wikilink")**（） - 多田、倉持、小嶋、指原、篠田、高城、高橋、前田敦、秋元、板野、大島、小野、仁藤、宮澤、奧、河西、柏木、北原、小森、宮崎、渡邊、松井珠、松井玲、NaChu
 11. **MC3** - 高橋、秋元、NaChu
 12. **[夜風的惡作劇](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - 前田敦
-13. **[無望之淚](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（）
-    - 大島、板野
-14. **[I'm sure.](../Page/SDN48_1st_Stage「誘惑的吊襪帶」.md "wikilink")** -
-    小嶋、篠田
-15. **[你是天馬](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（）
-    - 松井珠、松井玲、矢神、大矢
+13. **[無望之淚](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（） - 大島、板野
+14. **[I'm sure.](../Page/SDN48_1st_Stage「誘惑的吊襪帶」.md "wikilink")** - 小嶋、篠田
+15. **[你是天馬](https://zh.wikipedia.org/wiki/Team_K_3rd_Stage「腦內天堂」 "wikilink")**（） - 松井珠、松井玲、矢神、大矢
 16. **[禁忌的2人](../Page/Team_K_2nd_Stage「青春女孩」.md "wikilink")**（） - 高城、指原
-17. **[7點12分的初戀](https://zh.wikipedia.org/wiki/Team_A_4th_Stage「正在戀愛中」 "wikilink")**（）
-    - 多田、小森、前田亞、島崎、山內
+17. **[7點12分的初戀](https://zh.wikipedia.org/wiki/Team_A_4th_Stage「正在戀愛中」 "wikilink")**（） - 多田、小森、前田亞、島崎、山內
 18. **沙灘的櫻桃** - 市川、小林茉、金澤、加藤玲
-19. **[曲終人盡](https://zh.wikipedia.org/wiki/Team_K_5th_Stage「引體後翻」 "wikilink")**（）
-    - 北原、高橋、宮澤、秋元
-20. **[蟲之敘事詩](https://zh.wikipedia.org/wiki/Team_K_5th_Stage「引體後翻」 "wikilink")**（）
-    - 柏木
-21. **[FIRST LOVE](https://zh.wikipedia.org/wiki/驚喜之淚！ "wikilink")** -
-    渡邊
-22. **[鏡中的聖女貞德](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（）
-    - 佐藤亞、倉持、河西、峯岸、仲川
+19. **[曲終人盡](https://zh.wikipedia.org/wiki/Team_K_5th_Stage「引體後翻」 "wikilink")**（） - 北原、高橋、宮澤、秋元
+20. **[蟲之敘事詩](https://zh.wikipedia.org/wiki/Team_K_5th_Stage「引體後翻」 "wikilink")**（） - 柏木
+21. **[FIRST LOVE](https://zh.wikipedia.org/wiki/驚喜之淚！ "wikilink")** - 渡邊
+22. **[鏡中的聖女貞德](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜風」 "wikilink")**（） - 佐藤亞、倉持、河西、峯岸、仲川
 23. **MC4** - 小嶋、高橋、前田敦、板野、大島、渡邊
 24. **心之羽根** - 小嶋、高橋、前田敦、板野、大島、柏木、渡邊
 25. **MC5** - 野呂
 26. **[孤獨的跑者](../Page/SDN48_1st_Stage「誘惑的吊襪帶」.md "wikilink")**（） - SDN48
 27. **[夢之鐘](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - Team K
-28. **[勇氣的鐵鎚](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - Team
-    B
-29. **[Only
-    today](https://zh.wikipedia.org/wiki/Team_A_4th_Stage「正在戀愛中」 "wikilink")**
-    - Team A
+28. **[勇氣的鐵鎚](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - Team B
+29. **[Only today](https://zh.wikipedia.org/wiki/Team_A_4th_Stage「正在戀愛中」 "wikilink")** - Team A
 30. **MC6** - Team A
-31. **想見你** -
-    內田、梅田、田名部、中塚、野中、松井咲、米澤、小林、佐藤夏、鈴木、平嶋、增田、8期研究生、9期研究生、SKE48（松井玲除外）
+31. **想見你** - 內田、梅田、田名部、中塚、野中、松井咲、米澤、小林、佐藤夏、鈴木、平嶋、增田、8期研究生、9期研究生、SKE48（松井玲除外）
 32. **因為喜歡你** - 多田、片山、倉持、指原、高城、仲川、前田亞、菊地、仁藤、藤江、石田晴、奧、小森、佐藤亞、佐藤堇、松井玲
 33. **大聲鑽石** - 小嶋、篠田、高橋、前田敦、秋元、板野、大島、小野惠、峯岸、宮澤、河西、柏木、北原、近野、宮崎、渡邊
-34. **Maybe是藉口** -
-    多田、倉持、小嶋、篠田、高城、高橋、前田敦、秋元、板野、大島、小野惠、峯岸、宮澤、河西、柏木、北原、佐藤亞、宮崎、渡邊、松井珠、松井玲
+34. **Maybe是藉口** - 多田、倉持、小嶋、篠田、高城、高橋、前田敦、秋元、板野、大島、小野惠、峯岸、宮澤、河西、柏木、北原、佐藤亞、宮崎、渡邊、松井珠、松井玲
 35. **10年櫻** - AKB48、松井珠、松井玲
 36. **RIVER** - AKB48
 37. **MC7** - 全員（中心：高橋、秋元、柏木）
@@ -192,8 +148,7 @@
 2.  **你和太陽和彩虹** - AKB48
 3.  **MC9** - 高橋、大島
 4.  **[搬家了](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - AKB48
-5.  **[機尾雲](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」 "wikilink")**（）
-    - 全員\[15\]\[16\]
+5.  **[機尾雲](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「戀愛禁止條例」 "wikilink")**（） - 全員\[15\]\[16\]
 
 <!-- end list -->
 
@@ -207,58 +162,43 @@
 <!-- end list -->
 
 1.  **overture**
-2.  **[蕭邦C小調練習曲《革命》](https://zh.wikipedia.org/wiki/弗雷德里克·蕭邦 "wikilink")**（）-
-    松井咲（鋼琴彈奏）
+2.  **[蕭邦C小調練習曲《革命》](https://zh.wikipedia.org/wiki/弗雷德里克·蕭邦 "wikilink")**（）- 松井咲（鋼琴彈奏）
 3.  **馬尾與髮圈** - 小嶋、篠田、高城、高橋、前田敦、板野、大島、小野、峯岸、宮澤、河西、柏木、北原、宮崎、渡邊、松井珠
-4.  **[被盜了的唇](../Page/馬尾與髮圈.md "wikilink")**（） -
-    岩佐、多田、片山、倉持、指原、前田亞、秋元、菊地、仁藤、藤江、奧、小森、佐藤亞、佐藤堇、松井玲、矢神
-5.  **[我的YELL](../Page/馬尾與髮圈.md "wikilink")**（） -
-    大家、仲川、中田、仲谷、松原、內田、梅田、田名部、中塚、野中、松井咲、米澤、石田、小林香、佐藤夏、鈴木、近野、平嶋、增田、8期研究生、9期研究生
+4.  **[被盜了的唇](../Page/馬尾與髮圈.md "wikilink")**（） - 岩佐、多田、片山、倉持、指原、前田亞、秋元、菊地、仁藤、藤江、奧、小森、佐藤亞、佐藤堇、松井玲、矢神
+5.  **[我的YELL](../Page/馬尾與髮圈.md "wikilink")**（） - 大家、仲川、中田、仲谷、松原、內田、梅田、田名部、中塚、野中、松井咲、米澤、石田、小林香、佐藤夏、鈴木、近野、平嶋、增田、8期研究生、9期研究生
 6.  **抱歉、SUMMER** - 木崎、松井珠、松井玲、矢神、石田安、高柳、向田
 7.  **少女在盛夏會做什麼？** - 小野晴、木下、桑原、須田、高田、齊藤、若林、山田
 8.  **[遠距離海報](../Page/櫻花印記.md "wikilink")**（） - 高城、宮崎、宮澤、多田、柏木、仁藤、前田亞
 9.  **[Choose me\!](../Page/櫻花印記.md "wikilink")** - 北原、河西、倉持、指原、仲川、菊地、峯岸
 10. **[裙襬飄飄](../Page/裙襬飄飄.md "wikilink")**（） - 小嶋、篠田、高橋、前田敦、板野、大島、渡邊
 11. **MC1** - 小嶋、篠田、高橋、前田敦、板野、大島、渡邊
-12. **[誘惑的吊襪帶](../Page/SDN48_1st_Stage「誘惑的吊襪帶」.md "wikilink")**（） -
-    SDN48
-13. **[萬歲暴風雨](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」 "wikilink")**（）
-    - 倉持、小嶋、篠田、高橋、中田、前田敦、松原、秋元、板野、大島、小野、峯岸、宮澤、河西、佐藤夏、增田
-14. **[青春的閃電](https://zh.wikipedia.org/wiki/向日葵組_2nd_Stage「不要讓夢想死去」 "wikilink")**（）
-    - 大家、指原、高城、內田、梅田、田名部、仁藤、藤江、松井咲、北原、小森、佐藤亞、佐藤堇、近野、平嶋、宮崎
+12. **[誘惑的吊襪帶](../Page/SDN48_1st_Stage「誘惑的吊襪帶」.md "wikilink")**（） - SDN48
+13. **[萬歲暴風雨](https://zh.wikipedia.org/wiki/向日葵組_1st_Stage「我的太陽」 "wikilink")**（） - 倉持、小嶋、篠田、高橋、中田、前田敦、松原、秋元、板野、大島、小野、峯岸、宮澤、河西、佐藤夏、增田
+14. **[青春的閃電](https://zh.wikipedia.org/wiki/向日葵組_2nd_Stage「不要讓夢想死去」 "wikilink")**（） - 大家、指原、高城、內田、梅田、田名部、仁藤、藤江、松井咲、北原、小森、佐藤亞、佐藤堇、近野、平嶋、宮崎
 15. **MC2** - 野呂、浦野、加藤雅、穐田、佐藤由、大堀
 16. **心之羽根** - 小嶋、高橋、前田敦、板野、大島、柏木、渡邊
 17. **MC3** - 木崎、松井珠、松井玲、矢神、石田安、高柳、向田
-18. **[推Team B](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） -
-    Team B
-19. **[唔吼大遊行](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - Team
-    K
-20. **[正在戀愛中](https://zh.wikipedia.org/wiki/Team_A_4th_Stage「正在戀愛中」 "wikilink")**（）
-    - Team A
+18. **[推Team B](../Page/Team_B_5th_Stage「劇場的女神」.md "wikilink")**（） - Team B
+19. **[唔吼大遊行](../Page/Team_K_6th_Stage「RESET」.md "wikilink")**（） - Team K
+20. **[正在戀愛中](https://zh.wikipedia.org/wiki/Team_A_4th_Stage「正在戀愛中」 "wikilink")**（） - Team A
 21. **MC4** - Team A
 22. **青春的旗幟** - 平嶋、多田、渡邊、仲川、菊地
 23. **MC5** - 平嶋、多田、仲川、菊地
 24. **Lucky Seven** - 小嶋、指原、篠田、高城、高橋、前田敦、板野、大島、峯岸、宮澤、河西、柏木、北原、小森、宮崎、渡邊
-25. **想見你** -
-    內田、梅田、田名部、中塚、野中、松井咲、米澤、小林、佐藤夏、鈴木、平嶋、增田、8期研究生、9期研究生、SKE48（松井玲除外）
+25. **想見你** - 內田、梅田、田名部、中塚、野中、松井咲、米澤、小林、佐藤夏、鈴木、平嶋、增田、8期研究生、9期研究生、SKE48（松井玲除外）
 26. **因為喜歡你** - 多田、片山、倉持、指原、高城、仲川、前田亞、菊地、仁藤、藤江、石田晴、奧、小森、佐藤亞、佐藤堇、松井玲
 27. **大聲鑽石** - 小嶋、篠田、高橋、前田敦、秋元、板野、大島、小野惠、峯岸、宮澤、河西、柏木、北原、近野、宮崎、渡邊
-28. **Maybe是藉口** -
-    多田、倉持、小嶋、篠田、高城、高橋、前田敦、秋元、板野、大島、小野惠、峯岸、宮澤、河西、柏木、北原、佐藤亞、宮崎、渡邊、松井珠、松井玲
+28. **Maybe是藉口** - 多田、倉持、小嶋、篠田、高城、高橋、前田敦、秋元、板野、大島、小野惠、峯岸、宮澤、河西、柏木、北原、佐藤亞、宮崎、渡邊、松井珠、松井玲
 29. **10年櫻** - AKB48、松井珠、松井玲
 30. **RIVER** - AKB48
 
 **安可曲**
 
-1.  **蔬菜姊妹** -
-    多田、倉持、小嶋、指原、篠田、高城、高橋、前田敦、前田亞、秋元、板野、大島、小野、仁藤、峯岸、宮澤、河西、柏木、北原、小森、佐藤堇、宮崎、渡邊、松井珠、松井玲
+1.  **蔬菜姊妹** - 多田、倉持、小嶋、指原、篠田、高城、高橋、前田敦、前田亞、秋元、板野、大島、小野、仁藤、峯岸、宮澤、河西、柏木、北原、小森、佐藤堇、宮崎、渡邊、松井珠、松井玲
 2.  **MC6**
-3.  **[Seventeen](../Page/SET_LIST～Greatest_Songs～完全盤.md "wikilink")** -
-    小嶋、指原、篠田、高城、高橋、前田敦、板野、大島、小野、峯岸、宮澤、河西、柏木、北原、宮崎、渡邊
-4.  **[淚之Sea Saw Game](../Page/無限重播.md "wikilink")**（ -
-    多田、片山、倉持、松原夏、梅田、仁藤、藤江、米澤、石田、小森、佐藤堇、平嶋、增田、島崎、山內、大矢、矢神、高柳
-5.  **[無限重播](../Page/無限重播.md "wikilink")**（ -
-    小嶋、指原、篠田、高城、高橋、仲川、前田敦、秋元、板野、大島、小野、峯岸、宮澤、河西、柏木、北原、佐藤亞、宮崎、渡邊、松井珠、松井玲
+3.  **[Seventeen](../Page/SET_LIST～Greatest_Songs～完全盤.md "wikilink")** - 小嶋、指原、篠田、高城、高橋、前田敦、板野、大島、小野、峯岸、宮澤、河西、柏木、北原、宮崎、渡邊
+4.  **[淚之Sea Saw Game](../Page/無限重播.md "wikilink")**（ - 多田、片山、倉持、松原夏、梅田、仁藤、藤江、米澤、石田、小森、佐藤堇、平嶋、增田、島崎、山內、大矢、矢神、高柳
+5.  **[無限重播](../Page/無限重播.md "wikilink")**（ - 小嶋、指原、篠田、高城、高橋、仲川、前田敦、秋元、板野、大島、小野、峯岸、宮澤、河西、柏木、北原、佐藤亞、宮崎、渡邊、松井珠、松井玲
 6.  **MC7**
 7.  **馬尾與髮圈** - 全員\[19\]\[20\]
 
@@ -274,16 +214,13 @@
       - 繼SKE48及SDN48後，在[大阪難波成立NMB](https://zh.wikipedia.org/wiki/大阪 "wikilink")48及興建新劇場\[23\]\[24\]\[25\]\[26\]\[27\]。
   - 7月11日\[28\]\[29\]
       - 下午的公演中發表，將會解除SDN48限制18歲以上人士觀賞的禁令\[30\]\[31\]\[32\]。
-      - 而在公演完結後公佈，於舉行的[Team
-        Pigg對戰中勝出的隊伍歌曲將會成為第](https://zh.wikipedia.org/wiki/AKB48#Team_Pigg對戰 "wikilink")18張單曲的B面曲\[33\]\[34\]。
+      - 而在公演完結後公佈，於舉行的[Team Pigg對戰中勝出的隊伍歌曲將會成為第](https://zh.wikipedia.org/wiki/AKB48#Team_Pigg對戰 "wikilink")18張單曲的B面曲\[33\]\[34\]。
       - 晚上的公演完結後，[戶賀崎智信](../Page/戶賀崎智信.md "wikilink")宣佈第19張單曲（《[機會的順序](../Page/機會的順序.md "wikilink")》）將會由猜拳決定選拔成員，而勝出的成員會擔任中心。猜拳大賽會於2010年9月21在日本[武道館舉行](https://zh.wikipedia.org/wiki/武道館 "wikilink")。此外，亦即場進行研究生的淘汰賽及抽籤\[35\]\[36\]\[37\]\[38\]\[39\]\[40\]。
       - 在進行猜拳大賽抽籤時，小野惠令奈宣佈將會在夏季畢業並不參加猜拳大賽\[41\]\[42\]\[43\]\[44\]\[45\]\[46\]\[47\]\[48\]\[49\]\[50\]\[51\]\[52\]。
 
 ## DVD
 
-演唱會的[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS](../Page/AKS.md "wikilink")在2010年10月2日發行。演唱會的演出內容及幕後花絮分別收錄在4枚DVD，並附送1張生寫真及收集卡。此外，亦同時發售同樣收錄了演唱會的演出內容的[microSD及DVD版本](https://zh.wikipedia.org/wiki/microSD "wikilink")，以及Premium
-Box版本。Premium Box共有3個版本，分別是Team A、Team K及Team
-B版本，內容包括4枚DVD、5張生寫真、1張收集卡及128頁的演唱會寫真集\[53\]\[54\]\[55\]。
+演唱會的[DVD由](https://zh.wikipedia.org/wiki/DVD "wikilink")[AKS](../Page/AKS.md "wikilink")在2010年10月2日發行。演唱會的演出內容及幕後花絮分別收錄在4枚DVD，並附送1張生寫真及收集卡。此外，亦同時發售同樣收錄了演唱會的演出內容的[microSD及DVD版本](https://zh.wikipedia.org/wiki/microSD "wikilink")，以及Premium Box版本。Premium Box共有3個版本，分別是Team A、Team K及Team B版本，內容包括4枚DVD、5張生寫真、1張收集卡及128頁的演唱會寫真集\[53\]\[54\]\[55\]。
 
 ## 参考資料
 

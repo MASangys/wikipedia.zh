@@ -1,5 +1,4 @@
-《**A museum ～30th single collection live～**》（A museum
-～出道30張單曲紀念演唱會～）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2003年10月9日-10月31日舉行的巡迴演唱會，2004年9月29日發行DVD。
+《**A museum ～30th single collection live～**》（A museum ～出道30張單曲紀念演唱會～）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")於2003年10月9日-10月31日舉行的巡迴演唱會，2004年9月29日發行DVD。
 
 ## 說明
 
@@ -12,8 +11,7 @@
 1.  [A Song for ××](../Page/A_Song_for_××.md "wikilink")
 2.  [Greatful days](../Page/&_\(濱崎步單曲\).md "wikilink")
 3.  [evolution](../Page/Evolution_\(濱崎步單曲\).md "wikilink")
-4.  [poker
-    face](https://zh.wikipedia.org/wiki/poker_face_\(濱崎步單曲\) "wikilink")
+4.  [poker face](https://zh.wikipedia.org/wiki/poker_face_\(濱崎步單曲\) "wikilink")
 5.  [Trust](../Page/Trust.md "wikilink")
 6.  [Depend on you](../Page/Depend_on_you.md "wikilink")
 7.  [YOU](https://zh.wikipedia.org/wiki/YOU "wikilink")
@@ -43,5 +41,4 @@
 
 </small>
 
-[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink")
-[Category:2004年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2004年音樂相關影像作品 "wikilink")
+[Category:濱崎步影像作品](https://zh.wikipedia.org/wiki/Category:濱崎步影像作品 "wikilink") [Category:2004年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2004年音樂相關影像作品 "wikilink")

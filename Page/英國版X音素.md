@@ -22,7 +22,4 @@
 | 2017年（第十四季） | [Rak-Su](https://zh.wikipedia.org/wiki/Rak-Su "wikilink")                     | [Grace Davies](https://zh.wikipedia.org/wiki/Grace_Davies "wikilink")           |
 | 2018年（第十五季） | [Dalton Harris](https://zh.wikipedia.org/wiki/Dalton_Harris "wikilink")       | [Scarlett Lee](https://zh.wikipedia.org/wiki/Scarlett_Lee "wikilink")           |
 
-[Category:英国电视节目](https://zh.wikipedia.org/wiki/Category:英国电视节目 "wikilink")
-[Category:音樂選秀節目](https://zh.wikipedia.org/wiki/Category:音樂選秀節目 "wikilink")
-[Category:2000年代英国电视剧](https://zh.wikipedia.org/wiki/Category:2000年代英国电视剧 "wikilink")
-[Category:2010年代英國電視劇](https://zh.wikipedia.org/wiki/Category:2010年代英國電視劇 "wikilink")
+[Category:英国电视节目](https://zh.wikipedia.org/wiki/Category:英国电视节目 "wikilink") [Category:音樂選秀節目](https://zh.wikipedia.org/wiki/Category:音樂選秀節目 "wikilink") [Category:2000年代英国电视剧](https://zh.wikipedia.org/wiki/Category:2000年代英国电视剧 "wikilink") [Category:2010年代英國電視劇](https://zh.wikipedia.org/wiki/Category:2010年代英國電視劇 "wikilink")

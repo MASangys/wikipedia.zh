@@ -1,5 +1,4 @@
-《**New
-World**》是[L'Arc〜en〜Ciel的第](https://zh.wikipedia.org/wiki/L'Arc〜en〜Ciel "wikilink")26張單曲。2005年4月6日發行。
+《**New World**》是[L'Arc〜en〜Ciel的第](https://zh.wikipedia.org/wiki/L'Arc〜en〜Ciel "wikilink")26張單曲。2005年4月6日發行。
 
 ## 簡介
 
@@ -13,10 +12,8 @@ L'Arc〜en〜Ciel的2005年第2彈單曲。台灣有發行台壓版
 
 1.  **New World** / L'Arc〜en〜Ciel
       -
-        [日本電視台](../Page/日本電視台.md "wikilink")棒球轉播節目《[1球的緊張感 THE LIVE
-        2005](https://zh.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")》上半期（2005年4月1日－7月23日）主題曲。
-2.  **花葬 平成十七年** /
-    [P'UNK〜EN〜CIEL](https://zh.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")
+        [日本電視台](../Page/日本電視台.md "wikilink")棒球轉播節目《[1球的緊張感 THE LIVE 2005](https://zh.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")》上半期（2005年4月1日－7月23日）主題曲。
+2.  **花葬 平成十七年** / [P'UNK〜EN〜CIEL](https://zh.wikipedia.org/wiki/P'UNK〜EN〜CIEL "wikilink")
 3.  **New World (hydeless version)**
 4.  **花葬 平成十七年 (TETSU P'UNKless version)**
 
@@ -34,12 +31,9 @@ L'Arc〜en〜Ciel的2005年第2彈單曲。台灣有發行台壓版
 
 <!-- end list -->
 
-  - [QUADRINITY 〜MEMBER'S BEST
-    SELECTIONS〜](https://zh.wikipedia.org/wiki/QUADRINITY_〜MEMBER'S_BEST_SELECTIONS〜 "wikilink")
-  - [TWENITY
-    2000-2010](https://zh.wikipedia.org/wiki/TWENITY "wikilink")
-  - [WORLD'S BEST
-    SELECTION](https://zh.wikipedia.org/wiki/WORLD'S_BEST_SELECTION "wikilink")
+  - [QUADRINITY 〜MEMBER'S BEST SELECTIONS〜](https://zh.wikipedia.org/wiki/QUADRINITY_〜MEMBER'S_BEST_SELECTIONS〜 "wikilink")
+  - [TWENITY 2000-2010](https://zh.wikipedia.org/wiki/TWENITY "wikilink")
+  - [WORLD'S BEST SELECTION](https://zh.wikipedia.org/wiki/WORLD'S_BEST_SELECTION "wikilink")
 
 <!-- end list -->
 
@@ -47,10 +41,6 @@ L'Arc〜en〜Ciel的2005年第2彈單曲。台灣有發行台壓版
 
 <!-- end list -->
 
-  - [P'UNK IS NOT
-    DEAD](https://zh.wikipedia.org/wiki/BUTTERFLY_\(原創專輯\)#完全生産限定盤特典CD "wikilink")
+  - [P'UNK IS NOT DEAD](https://zh.wikipedia.org/wiki/BUTTERFLY_\(原創專輯\)#完全生産限定盤特典CD "wikilink")
 
-[Category:L'Arc\~en\~Ciel歌曲](https://zh.wikipedia.org/wiki/Category:L'Arc~en~Ciel歌曲 "wikilink")
-[Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink")
-[Category:日本電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台節目主題曲 "wikilink")
-[Category:2005年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:L'Arc\~en\~Ciel歌曲](https://zh.wikipedia.org/wiki/Category:L'Arc~en~Ciel歌曲 "wikilink") [Category:2005年單曲](https://zh.wikipedia.org/wiki/Category:2005年單曲 "wikilink") [Category:日本電視台節目主題曲](https://zh.wikipedia.org/wiki/Category:日本電視台節目主題曲 "wikilink") [Category:2005年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2005年Oricon單曲週榜冠軍作品 "wikilink")

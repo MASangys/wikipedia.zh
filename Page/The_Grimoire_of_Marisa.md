@@ -1,5 +1,4 @@
-《**The Grimoire of
-Marisa**》（），有時译为**魔理沙的魔导书**，是2009年7月由[一迅社](../Page/一迅社.md "wikilink")发售的一本[东方Project的类资料设定册](https://zh.wikipedia.org/wiki/东方Project "wikilink")，主编为[ZUN](../Page/ZUN.md "wikilink")，封面圖片由啞采弦二（）绘画，插圖则由守姬武士（）负责。
+《**The Grimoire of Marisa**》（），有時译为**魔理沙的魔导书**，是2009年7月由[一迅社](../Page/一迅社.md "wikilink")发售的一本[东方Project的类资料设定册](https://zh.wikipedia.org/wiki/东方Project "wikilink")，主编为[ZUN](../Page/ZUN.md "wikilink")，封面圖片由啞采弦二（）绘画，插圖则由守姬武士（）负责。
 
 ## 概要
 
@@ -16,7 +15,6 @@ Marisa**》（），有時译为**魔理沙的魔导书**，是2009年7月由[�
   - [一迅社](http://www.ichijinsha.co.jp/)
   - [](http://www16.big.or.jp/~zun/)
 
-[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
-[Category:2009年書籍](https://zh.wikipedia.org/wiki/Category:2009年書籍 "wikilink")
+[Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink") [Category:2009年書籍](https://zh.wikipedia.org/wiki/Category:2009年書籍 "wikilink")
 
 1.  见ZUN在书中的后记：

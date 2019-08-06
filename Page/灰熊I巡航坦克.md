@@ -6,8 +6,7 @@
 
 ## 設計
 
-灰熊坦克在旋轉炮塔上安裝了一門75 mm M3 L/40
-坦克炮。同時，安裝了一挺勃朗寧12.7mm機槍用於防空，對付輕裝甲和反步兵。還有一挺0.303英寸同軸機槍和一挺安裝在底盤上的0.303英寸機槍。裝甲最厚的部份達到了2.95英寸。\[4\]
+灰熊坦克在旋轉炮塔上安裝了一門75 mm M3 L/40 坦克炮。同時，安裝了一挺勃朗寧12.7mm機槍用於防空，對付輕裝甲和反步兵。還有一挺0.303英寸同軸機槍和一挺安裝在底盤上的0.303英寸機槍。裝甲最厚的部份達到了2.95英寸。\[4\]
 
 ## 生產/服役
 
@@ -32,22 +31,13 @@
 ## 外部連結/拓展閱讀
 
   - [Canada](http://mailer.fsu.edu/~akirk/tanks/can/Canada.htm)
-  - [Canada's Grizzly Medium
-    Tank:](http://www.wwiivehicles.com/canada/tank-medium/grizzly.asp)
-  - [The Grizzly I Cruiser was nothing more than a slightly modified M4
-    Sherman - though eventual widespread availability of the M4 meant
-    that the Grizzly was delivered in just 188 total
-    examples.](http://www.militaryfactory.com/armor/detail.asp?armor_id=292)
-  - [Canadian-built
-    Tanks](http://www.junobeach.org/e/4/can-tac-arm-can-e.htm)
+  - [Canada's Grizzly Medium Tank:](http://www.wwiivehicles.com/canada/tank-medium/grizzly.asp)
+  - [The Grizzly I Cruiser was nothing more than a slightly modified M4 Sherman - though eventual widespread availability of the M4 meant that the Grizzly was delivered in just 188 total examples.](http://www.militaryfactory.com/armor/detail.asp?armor_id=292)
+  - [Canadian-built Tanks](http://www.junobeach.org/e/4/can-tac-arm-can-e.htm)
 
-[Category:巡航坦克](https://zh.wikipedia.org/wiki/Category:巡航坦克 "wikilink")
-[Category:二戰坦克](https://zh.wikipedia.org/wiki/Category:二戰坦克 "wikilink")
-[Category:加拿大坦克](https://zh.wikipedia.org/wiki/Category:加拿大坦克 "wikilink")
-[Category:中型坦克](https://zh.wikipedia.org/wiki/Category:中型坦克 "wikilink")
+[Category:巡航坦克](https://zh.wikipedia.org/wiki/Category:巡航坦克 "wikilink") [Category:二戰坦克](https://zh.wikipedia.org/wiki/Category:二戰坦克 "wikilink") [Category:加拿大坦克](https://zh.wikipedia.org/wiki/Category:加拿大坦克 "wikilink") [Category:中型坦克](https://zh.wikipedia.org/wiki/Category:中型坦克 "wikilink")
 
-1.  Ironsides: Canadian Armoured Fighting Vehicle Museums and Monuments
-    pp.61
+1.  Ironsides: Canadian Armoured Fighting Vehicle Museums and Monuments pp.61
 
 2.
 
@@ -56,8 +46,7 @@
 4.
 5.  [Canadian Armor](http://mailer.fsu.edu/~akirk/tanks/can/Canada.htm)
 
-6.  Ironsides: Canadian Armoured Fighting Vehicle Museums and Monuments
-    pp.62
+6.  Ironsides: Canadian Armoured Fighting Vehicle Museums and Monuments pp.62
 
 7.
 

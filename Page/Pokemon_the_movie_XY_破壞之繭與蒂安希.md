@@ -49,11 +49,9 @@
 ## 主題曲
 
   - 片頭曲：「超級V（超級伏特）」〈メガV（メガボルト）〉
-      - 作曲：[田中宏和](../Page/田中宏和.md "wikilink") / 編曲： 塩川満己、CHOKKAKU /
-        作詞、歌：[遊助](https://zh.wikipedia.org/wiki/遊助 "wikilink")
+      - 作曲：[田中宏和](../Page/田中宏和.md "wikilink") / 編曲： 塩川満己、CHOKKAKU / 作詞、歌：[遊助](https://zh.wikipedia.org/wiki/遊助 "wikilink")
   - 片尾曲：「夜明的流星雨」〈夜明けの流星群〉
-      - 作詞：TOMOMI、田中秀典 / 作曲：田中秀典 / 編曲：亀田誠治 /
-        歌：[SCANDAL](../Page/SCANDAL_\(日本音樂團體\).md "wikilink")
+      - 作詞：TOMOMI、田中秀典 / 作曲：田中秀典 / 編曲：亀田誠治 / 歌：[SCANDAL](../Page/SCANDAL_\(日本音樂團體\).md "wikilink")
 
 ## 備註
 
@@ -87,6 +85,4 @@
 
   -
   -
-[Category:精靈寶可夢劇場版](https://zh.wikipedia.org/wiki/Category:精靈寶可夢劇場版 "wikilink")
-[Category:2014年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2014年日本劇場動畫 "wikilink")
-[Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
+[Category:精靈寶可夢劇場版](https://zh.wikipedia.org/wiki/Category:精靈寶可夢劇場版 "wikilink") [Category:2014年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2014年日本劇場動畫 "wikilink") [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")

@@ -14,8 +14,7 @@
 
 ## 記錄
 
-[Pat_Patterson_April_2014.jpg](https://zh.wikipedia.org/wiki/File:Pat_Patterson_April_2014.jpg "fig:Pat_Patterson_April_2014.jpg")\]\]
-WWE洲際冠軍的首任冠軍，是1979年獲勝的[派特·派特森](../Page/派特·派特森.md "wikilink")，而曾有72位選手成為WWE洲際冠軍。WWE洲際冠軍的最長連任時間保持人是，其記錄從1987年6月2日到1988年8月29日，共計454天。WWE洲際冠軍總計連任最長時間的保持人是[裴卓·莫蕊爾](../Page/裴卓·莫蕊爾.md "wikilink")，共計619天。WWE洲際冠軍的最短連任時間保持人是，其記錄為10分鐘。WWE洲際冠軍的最年長冠軍王者是56歲的[瑞克·福萊爾](../Page/瑞克·福萊爾.md "wikilink")，最年輕冠軍王者是23歲的[傑夫·哈迪](../Page/傑夫·哈迪.md "wikilink")。WWE洲際冠軍的最多勝利次數保持人是[克里斯·傑利可](../Page/克里斯·傑利可.md "wikilink")，其記錄為9次。
+[Pat_Patterson_April_2014.jpg](https://zh.wikipedia.org/wiki/File:Pat_Patterson_April_2014.jpg "fig:Pat_Patterson_April_2014.jpg")\]\] WWE洲際冠軍的首任冠軍，是1979年獲勝的[派特·派特森](../Page/派特·派特森.md "wikilink")，而曾有72位選手成為WWE洲際冠軍。WWE洲際冠軍的最長連任時間保持人是，其記錄從1987年6月2日到1988年8月29日，共計454天。WWE洲際冠軍總計連任最長時間的保持人是[裴卓·莫蕊爾](../Page/裴卓·莫蕊爾.md "wikilink")，共計619天。WWE洲際冠軍的最短連任時間保持人是，其記錄為10分鐘。WWE洲際冠軍的最年長冠軍王者是56歲的[瑞克·福萊爾](../Page/瑞克·福萊爾.md "wikilink")，最年輕冠軍王者是23歲的[傑夫·哈迪](../Page/傑夫·哈迪.md "wikilink")。WWE洲際冠軍的最多勝利次數保持人是[克里斯·傑利可](../Page/克里斯·傑利可.md "wikilink")，其記錄為9次。
 
 ## 參考文獻
 
@@ -23,11 +22,7 @@ WWE洲際冠軍的首任冠軍，是1979年獲勝的[派特·派特森](../Page/
 
 [Category:世界摔角娛樂](https://zh.wikipedia.org/wiki/Category:世界摔角娛樂 "wikilink")
 
-1.  [1989 WWF events, from
-    TheHistoryOfWWE.com](http://www.thehistoryofwwe.com/89.htm)
-2.  [The 4,181 Intercontinental title matches, from
-    WrestlingData.com](http://wrestlingdata.com/index.php?befehl=titles&aufgabe=matches&titel=3&seite=87)
-3.  [1997 WWF events, from
-    TheHistoryOfWWE.com](http://www.thehistoryofwwe.com/97.htm)
-4.  [2005 WWF events, from
-    TheHistoryOfWWE.com](http://www.thehistoryofwwe.com/05.htm)
+1.  [1989 WWF events, from TheHistoryOfWWE.com](http://www.thehistoryofwwe.com/89.htm)
+2.  [The 4,181 Intercontinental title matches, from WrestlingData.com](http://wrestlingdata.com/index.php?befehl=titles&aufgabe=matches&titel=3&seite=87)
+3.  [1997 WWF events, from TheHistoryOfWWE.com](http://www.thehistoryofwwe.com/97.htm)
+4.  [2005 WWF events, from TheHistoryOfWWE.com](http://www.thehistoryofwwe.com/05.htm)

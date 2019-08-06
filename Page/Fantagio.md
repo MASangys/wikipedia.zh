@@ -1,8 +1,6 @@
 **Fantagio**（）是一家韓國綜合娛樂公司，事業領域包括藝人企劃、唱片製作、海外公演、電影及電視劇製作等。
 
-2008年由韓國 [Sidus HQ](https://zh.wikipedia.org/wiki/Sidus_HQ "wikilink")
-投資成立，原稱「NOA娛樂」（Network Of
-Asia），後來於2011年更名為「Fantagio」，是結合「Fantasy」、「Origin」的意思\[1\]。
+2008年由韓國 [Sidus HQ](https://zh.wikipedia.org/wiki/Sidus_HQ "wikilink") 投資成立，原稱「NOA娛樂」（Network Of Asia），後來於2011年更名為「Fantagio」，是結合「Fantasy」、「Origin」的意思\[1\]。
 
 2017年12月28日，創辦人羅丙俊被持有50.07%股份的最大股東－中國金城集團單方面辭退，執行中方代表理事單獨管理體制。\[2\]\[3\]\[4\]
 
@@ -38,7 +36,7 @@ Asia），後來於2011年更名為「Fantagio」，是結合「Fantasy」、「
 | [邕聖祐](https://zh.wikipedia.org/wiki/邕聖祐 "wikilink")                                                                            |
 | **女演員**                                                                                                                        |
 | 姜海林                                                                                                                            |
-| [蔡周和](../Page/Hello_Venus.md "wikilink")                                                                                       |
+| [蔡㫶華](../Page/Hello_Venus.md "wikilink")                                                                                       |
 | <small>①為組合[5urprise](../Page/5urprise.md "wikilink")成員；②為組合[Surprise U成員](../Page/Surprise_U.md "wikilink")，無上標為個人演員。</small> |
 
 ### 組合
@@ -113,12 +111,9 @@ Asia），後來於2011年更名為「Fantagio」，是結合「Fantasy」、「
   - [延濟旭](../Page/延濟旭.md "wikilink")
   - [尹燦英](https://zh.wikipedia.org/wiki/尹燦英 "wikilink")
   - 金賢鐘（現[ROMEO成員賢敬](../Page/ROMEO_\(韓國組合\).md "wikilink")）
-  - [朴志訓](https://zh.wikipedia.org/wiki/朴志訓 "wikilink") （[PRODUCE 101
-    第二季參與者](../Page/PRODUCE_101_第二季.md "wikilink")、[Wanna
-    One成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")）
+  - [朴志訓](https://zh.wikipedia.org/wiki/朴志訓 "wikilink") （[PRODUCE 101 第二季參與者](../Page/PRODUCE_101_第二季.md "wikilink")、[Wanna One成員](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")）
   - 姜山（[少年24](../Page/少年24.md "wikilink")成員）
-  - 朱元鐸（[PRODUCE 101
-    第二季參與者](../Page/PRODUCE_101_第二季.md "wikilink")、前[Underdog](https://zh.wikipedia.org/wiki/Underdog "wikilink")、[RAINZ](../Page/RAINZ.md "wikilink")成員）
+  - 朱元鐸（[PRODUCE 101 第二季參與者](../Page/PRODUCE_101_第二季.md "wikilink")、前[Underdog](https://zh.wikipedia.org/wiki/Underdog "wikilink")、[RAINZ](../Page/RAINZ.md "wikilink")成員）
 
 <!-- end list -->
 
@@ -145,14 +140,10 @@ Asia），後來於2011年更名為「Fantagio」，是結合「Fantasy」、「
   - [權彩媛](https://zh.wikipedia.org/wiki/權彩媛 "wikilink")（現[DIA成員Eunchae](https://zh.wikipedia.org/wiki/DIA "wikilink")）
   - [廉晶雅](../Page/廉晶雅.md "wikilink")
   - [尹承雅](../Page/尹承雅.md "wikilink")
-  - [李秀敏](../Page/李秀敏_\(1999年\).md "wikilink")（[PRODUCE
-    101](../Page/PRODUCE_101.md "wikilink") 參與者）
-  - [文炫珠](https://zh.wikipedia.org/wiki/文炫珠 "wikilink")（[PRODUCE
-    101](../Page/PRODUCE_101.md "wikilink") 參與者、模特兒）
-  - [Alice](../Page/Alice_\(韓國歌手\).md "wikilink")（[Hello
-    Venus](../Page/Hello_Venus.md "wikilink")）
-  - [娜拉](../Page/權娜拉.md "wikilink")（[Hello
-    Venus](../Page/Hello_Venus.md "wikilink")）
+  - [李秀敏](../Page/李秀敏_\(1999年\).md "wikilink")（[PRODUCE 101](../Page/PRODUCE_101.md "wikilink") 參與者）
+  - [文炫珠](https://zh.wikipedia.org/wiki/文炫珠 "wikilink")（[PRODUCE 101](../Page/PRODUCE_101.md "wikilink") 參與者、模特兒）
+  - [Alice](../Page/Alice_\(韓國歌手\).md "wikilink")（[Hello Venus](../Page/Hello_Venus.md "wikilink")）
+  - [娜拉](../Page/權娜拉.md "wikilink")（[Hello Venus](../Page/Hello_Venus.md "wikilink")）
 
 ## 參考文獻
 
@@ -166,8 +157,7 @@ Asia），後來於2011年更名為「Fantagio」，是結合「Fantasy」、「
 
   - [YouTube](../Page/YouTube.md "wikilink")上的[Fantagio频道](https://www.youtube.com/user/fantagiomusic)
 
-[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")
-[Category:韓國唱片公司](https://zh.wikipedia.org/wiki/Category:韓國唱片公司 "wikilink")
+[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink") [Category:韓國唱片公司](https://zh.wikipedia.org/wiki/Category:韓國唱片公司 "wikilink")
 
 1.
 2.

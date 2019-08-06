@@ -12,15 +12,7 @@
 
 ## 制程
 
-鬼畜玩家所使用的常用软体为[Vegas](https://zh.wikipedia.org/wiki/Vegas "wikilink")；
-音MAD玩家所使用的常用软体为[Vegas](https://zh.wikipedia.org/wiki/Vegas "wikilink")、[REAPER或](https://zh.wikipedia.org/wiki/REAPER "wikilink")[FL
-Studio其中之一](../Page/FL_Studio.md "wikilink")（偶尔使用[UTAU或](https://zh.wikipedia.org/wiki/UTAU "wikilink")[Cubase](../Page/Cubase.md "wikilink")制作人声歌唱部分和[After
-Effects等视频特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")，日系音MAD玩家善于使用[AviUti](https://zh.wikipedia.org/wiki/AviUti "wikilink")、[Vegas以及](https://zh.wikipedia.org/wiki/Vegas "wikilink")[REAPER的组合](https://zh.wikipedia.org/wiki/REAPER "wikilink")）；
-而人力VOCALOID玩家所使用的常用软体为[Vegas或者](https://zh.wikipedia.org/wiki/Vegas "wikilink")[Premiere
-Pro](https://zh.wikipedia.org/wiki/Premiere_Pro "wikilink")（因为人力玩家已经不需要使用非编软件来处理音频）、[UTAU以及](https://zh.wikipedia.org/wiki/UTAU "wikilink")[Audition](https://zh.wikipedia.org/wiki/Audition "wikilink")（偶尔使用[FL
-Studio以及](../Page/FL_Studio.md "wikilink")[Cubase](../Page/Cubase.md "wikilink")等音频宿主和[After
-Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）；
-制作要领详见「[重混](https://zh.wikipedia.org/wiki/重混 "wikilink")」。
+鬼畜玩家所使用的常用软体为[Vegas](https://zh.wikipedia.org/wiki/Vegas "wikilink")； 音MAD玩家所使用的常用软体为[Vegas](https://zh.wikipedia.org/wiki/Vegas "wikilink")、[REAPER或](https://zh.wikipedia.org/wiki/REAPER "wikilink")[FL Studio其中之一](../Page/FL_Studio.md "wikilink")（偶尔使用[UTAU或](https://zh.wikipedia.org/wiki/UTAU "wikilink")[Cubase](../Page/Cubase.md "wikilink")制作人声歌唱部分和[After Effects等视频特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")，日系音MAD玩家善于使用[AviUti](https://zh.wikipedia.org/wiki/AviUti "wikilink")、[Vegas以及](https://zh.wikipedia.org/wiki/Vegas "wikilink")[REAPER的组合](https://zh.wikipedia.org/wiki/REAPER "wikilink")）； 而人力VOCALOID玩家所使用的常用软体为[Vegas或者](https://zh.wikipedia.org/wiki/Vegas "wikilink")[Premiere Pro](https://zh.wikipedia.org/wiki/Premiere_Pro "wikilink")（因为人力玩家已经不需要使用非编软件来处理音频）、[UTAU以及](https://zh.wikipedia.org/wiki/UTAU "wikilink")[Audition](https://zh.wikipedia.org/wiki/Audition "wikilink")（偶尔使用[FL Studio以及](../Page/FL_Studio.md "wikilink")[Cubase](../Page/Cubase.md "wikilink")等音频宿主和[After Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）； 制作要领详见「[重混](https://zh.wikipedia.org/wiki/重混 "wikilink")」。
 
 ## 常用音素材举例
 
@@ -53,8 +45,7 @@ Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）�
   -
   - 日本的各鐵道廣播音效
 
-  - [Werther's
-    Original的廣告](https://zh.wikipedia.org/wiki/Werther's_Original "wikilink")
+  - [Werther's Original的廣告](https://zh.wikipedia.org/wiki/Werther's_Original "wikilink")
 
   - [菊田正太郎](https://zh.wikipedia.org/wiki/菊田正太郎 "wikilink")（目前在[Niconico的相关稿件已被削除](https://zh.wikipedia.org/wiki/Niconico "wikilink")）
 
@@ -74,7 +65,7 @@ Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）�
 
   - カビキラー（日本某清潔劑品牌的廣告）
 
-### 中系\[7\]
+### 中系
 
 又被称为「鬼畜全明星」，该类素材主要于[Acfun及](https://zh.wikipedia.org/wiki/Acfun "wikilink")[bilibili等中国视频网站兴起](https://zh.wikipedia.org/wiki/bilibili "wikilink")。
 
@@ -96,7 +87,7 @@ Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）�
 
 #### 影视作品
 
-  - 《[帝国的毁灭](https://zh.wikipedia.org/wiki/元首的愤怒 "wikilink") 》
+  - 《[帝国的毁灭](https://zh.wikipedia.org/wiki/元首的愤怒 "wikilink")》
       - [希特勒](https://zh.wikipedia.org/wiki/希特勒 "wikilink"):鬼畜素材来源于片中第三帝国即将被攻陷时元首（即纳粹党的领袖阿道夫·希特勒）在[元首地堡](../Page/元首地堡.md "wikilink")内召开的会议，因武装党卫队将领菲利克斯·施坦因纳未能按照命令发动攻势。然后他在片段中气急败坏，暴跳如雷，声嘶力竭的形象给人们留下了深刻的印象。语录有摔铅笔之后的“渣渣”（，译为:「敗類」）、“气死偶咧”（，译为「没有荣誉感」）和“我到河北省來”（，译为「然而我獨自一人」）等。需要注意的是，音MAD作者大多认为鬼畜的不是历史上的希特勒本人，而是电影中元首的扮演者[布鲁诺·冈茨](../Page/布鲁诺·冈茨.md "wikilink")，或者说他的艺术形象。他们不会、不想、也不同意将这个素材扯到政治或历史问题上来。
 
 <!-- end list -->
@@ -152,8 +143,8 @@ Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）�
 <!-- end list -->
 
   - 《[中国梦之声](../Page/中国梦之声.md "wikilink")》
-      - 吴强:在参加《中国梦之声第一季》上海试音时自称是地球上高音最高的男人，并与[李玟](../Page/李玟.md "wikilink")比赛高音演唱。其录像后被作为鬼畜素材，吴强亦获得绰号“高音哥”。
-      - [唐林康](../Page/唐林康.md "wikilink")/波澜哥:在参加《中国梦之声第二季》成都试音会清唱《离不开你》时严重跑调，遭到评委[韩红](../Page/韩红.md "wikilink")嫌弃。其节目录像后被作为鬼畜素材，唐林康亦获得绰号“波澜哥”。\[8\]
+      - 吴强：在参加《中国梦之声第一季》上海试音时自称是地球上高音最高的男人，并与[李玟](../Page/李玟.md "wikilink")比赛高音演唱。其录像后被作为鬼畜素材，吴强亦获得绰号“高音哥”。
+      - [唐林康](../Page/唐林康.md "wikilink")/波澜哥：在参加《中国梦之声第二季》成都试音会清唱《离不开你》时严重跑调，遭到评委[韩红](../Page/韩红.md "wikilink")嫌弃。其节目录像后被作为鬼畜素材，唐林康亦获得绰号“波澜哥”。\[7\]
       - [程书林](../Page/程书林.md "wikilink")/面筋哥：曾经是流浪歌手，也曾经做过卖烤面筋等生意。2013年参加东方卫视中国梦之声，第一轮被淘汰，随后由于其独特的生活经历以及演唱方式被复活进入第二轮，最后还是止步第三轮。在第二轮比赛结束时他接受看看新闻网的采访，演唱了其代表作《面筋歌》，“面筋哥”的称号起源于此时。2018年2月开始，程书林的采访视频及其本人由于在bilibili弹幕网上被二次创作（鬼畜视频等形式）而走红。
 
 <!-- end list -->
@@ -195,13 +186,12 @@ Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）�
 <!-- end list -->
 
   -
-    [小米科技的创始人](https://zh.wikipedia.org/wiki/小米科技 "wikilink")，在2015年4月23日，小米手机在印度新德里召开小米4i发布会，期间雷军用英语问候，因其搞笑的口音和一直提及的一句“Are
-    you OK？”，被Bilibili的用户制作鬼畜视频，如《Are you OK》。
+    [小米科技的创始人](https://zh.wikipedia.org/wiki/小米科技 "wikilink")，在2015年4月23日，小米手机在印度新德里召开小米4i发布会，期间雷军用英语问候，因其搞笑的口音和一直提及的一句“Are you OK？”，被Bilibili的用户制作鬼畜视频，如《Are you OK》。
 
 <!-- end list -->
 
-  - [馬雲](https://zh.wikipedia.org/wiki/馬雲 "wikilink")\[9\]
-  - [庞麦郎](https://zh.wikipedia.org/wiki/約瑟翰·龐麥郎 "wikilink")\[10\]
+  - [馬雲](https://zh.wikipedia.org/wiki/馬雲 "wikilink")\[8\]
+  - [庞麦郎](https://zh.wikipedia.org/wiki/約瑟翰·龐麥郎 "wikilink")\[9\]
   - [马化腾](../Page/马化腾.md "wikilink")
   - [卢本伟](../Page/卢本伟.md "wikilink")
   - [竊格瓦拉](https://zh.wikipedia.org/wiki/竊格瓦拉 "wikilink")
@@ -209,9 +199,10 @@ Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）�
   - [蔡徐坤](../Page/蔡徐坤.md "wikilink")
   - [吴亦凡](https://zh.wikipedia.org/wiki/吴亦凡 "wikilink")（[大碗宽麵](https://zh.wikipedia.org/wiki/大碗宽麵 "wikilink")）
   - [香蕉君](https://zh.wikipedia.org/wiki/香蕉君 "wikilink")
-  - [李彦宏](../Page/李彦宏.md "wikilink")（参见[李彦宏被泼水事件](https://zh.wikipedia.org/wiki/李彦宏被泼水事件 "wikilink")）
+  - [李彦宏](../Page/李彦宏.md "wikilink")（参见[李彦宏被泼水事件](../Page/李彦宏被泼水事件.md "wikilink")）
   - [韩国瑜](https://zh.wikipedia.org/wiki/韩国瑜 "wikilink")
-  - [习近平](../Page/习近平.md "wikilink")（因其“轻关易道，通商宽衣”、“萨格尔王”等口误事件，被部分[YouTube](../Page/YouTube.md "wikilink")的用户制作鬼畜视频）\[11\]
+  - [习近平](../Page/习近平.md "wikilink")（因其“轻关易道，通商宽衣”、“萨格尔王”等口误事件，被部分[YouTube](../Page/YouTube.md "wikilink")的用户制作鬼畜视频）\[10\]
+  - [江泽民](../Page/江泽民.md "wikilink")（参见[膜蛤文化](../Page/膜蛤文化.md "wikilink")）
 
 #### 其它
 
@@ -262,9 +253,7 @@ Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）�
   - [尖叫羊](https://zh.wikipedia.org/wiki/尖叫羊 "wikilink")
   - [查理咬我！](https://zh.wikipedia.org/wiki/查理咬我！ "wikilink")
   - [開心樹朋友](../Page/開心樹朋友.md "wikilink")（因為有著兩面的畫風，每一集都是用非常殘忍或「創新」的手法將該集大量角色殺死。不是大量噴血就是爆出內臟等重度獵奇畫面而常常被作為惡搞題材）
-  - [Yee](../Page/Yee.md "wikilink")（Yee這個詞起源於「revergo」這個YouTube頻道在2012年2月29日上傳的一部同名影片《Yee》。這部影片將德國
-    Dingo Pictures
-    所製作動畫《恐龍的冒險》裡的片段改編後，上傳至YouTube。這部影片在2014年8月20日被分享到Reddit後，開始在網路上爆紅。起初在台灣流行。）
+  - [Yee](../Page/Yee.md "wikilink")（Yee這個詞起源於「revergo」這個YouTube頻道在2012年2月29日上傳的一部同名影片《Yee》。這部影片將德國 Dingo Pictures 所製作動畫《恐龍的冒險》裡的片段改編後，上傳至YouTube。這部影片在2014年8月20日被分享到Reddit後，開始在網路上爆紅。起初在台灣流行。）
 
 其他的素材相对使用频率较低。
 
@@ -276,8 +265,7 @@ Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）�
 
   - 《[かくしん的☆めたまるふぉ〜ぜっ！](https://zh.wikipedia.org/wiki/かくしん的☆めたまるふぉ〜ぜっ！ "wikilink")》（[干物妹！小埋](../Page/干物妹！小埋.md "wikilink")的OP）
   - 《[戀愛循環](https://zh.wikipedia.org/wiki/戀愛循環 "wikilink")》（《[化物语](https://zh.wikipedia.org/wiki/化物语 "wikilink")》主题曲）
-  - 《[Daydream
-    café](https://zh.wikipedia.org/wiki/Daydream_café "wikilink")》（[請問您今天要來點兔子嗎第一季的OP](../Page/請問您今天要來點兔子嗎？.md "wikilink")，這在日本NICONICO上較盛行）
+  - 《[Daydream café](https://zh.wikipedia.org/wiki/Daydream_café "wikilink")》（[請問您今天要來點兔子嗎第一季的OP](../Page/請問您今天要來點兔子嗎？.md "wikilink")，這在日本NICONICO上較盛行）
   - 《[前前前世](../Page/前前前世.md "wikilink")》（日本动漫电影《[你的名字](https://zh.wikipedia.org/wiki/你的名字 "wikilink")》主题曲）
   - 《[目标是神奇宝贝大师](https://zh.wikipedia.org/wiki/目标是神奇宝贝大师 "wikilink")》（[精灵宝可梦](../Page/精灵宝可梦.md "wikilink")主题曲）
   - 《[白金迪斯科](https://zh.wikipedia.org/wiki/白金迪斯科 "wikilink")》（）：动画《[伪物语](https://zh.wikipedia.org/wiki/伪物语 "wikilink")》的片头曲
@@ -304,8 +292,7 @@ Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）�
   - 《[琪露諾的完美算術教室](https://zh.wikipedia.org/wiki/琪露諾的完美算術教室 "wikilink")》
   - 《[魔理沙偷走了重要的東西](https://zh.wikipedia.org/wiki/魔理沙偷走了重要的東西 "wikilink")》
   - 《[天国与地狱序曲](https://zh.wikipedia.org/wiki/天国与地狱序曲 "wikilink")》：歌剧《地狱中的奥菲欧》第二场第二幕的序曲
-  - 《[only my
-    railgun](https://zh.wikipedia.org/wiki/only_my_railgun "wikilink")》
+  - 《[only my railgun](https://zh.wikipedia.org/wiki/only_my_railgun "wikilink")》
   - 《[粉雪](../Page/粉雪_\(Remioromen單曲\).md "wikilink")》
   - 《[七色之NICONICO动画](https://zh.wikipedia.org/wiki/组曲《NICONICO动画》 "wikilink")》(組曲)
   - 《[NICONICO动画流星群](https://zh.wikipedia.org/wiki/组曲《NICONICO动画》 "wikilink")》(組曲)
@@ -319,7 +306,7 @@ Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）�
 
 ## 法律文件
 
-2018年3月，中国[国家新闻出版广电总局办公厅发布](https://zh.wikipedia.org/wiki/国家新闻出版广电总局 "wikilink")《关于进一步规范网络视听节目传播秩序的通知》，通知要求“坚决禁止非法抓取、剪拼改编视听节目的行为”。有人猜测这份通知可能主要针对鬼畜视频，国家广电总局广播电视发展研究中心对此回应称，《通知》作出了清晰明确的要求：一是网络视听节目要符合《[中华人民共和国著作权法](../Page/中华人民共和国著作权法.md "wikilink")》的规定，二是网络视听节目的内容要健康向上[正能量](../Page/正能量.md "wikilink")，三是“鼓励和支持合法合规的网络视听节目业态创新”。\[12\]\[13\]\[14\]
+2018年3月，中国[国家新闻出版广电总局办公厅发布](https://zh.wikipedia.org/wiki/国家新闻出版广电总局 "wikilink")《关于进一步规范网络视听节目传播秩序的通知》，通知要求“坚决禁止非法抓取、剪拼改编视听节目的行为”。有人猜测这份通知可能主要针对鬼畜视频，国家广电总局广播电视发展研究中心对此回应称，《通知》作出了清晰明确的要求：一是网络视听节目要符合《[中华人民共和国著作权法](../Page/中华人民共和国著作权法.md "wikilink")》的规定，二是网络视听节目的内容要健康向上[正能量](../Page/正能量.md "wikilink")，三是“鼓励和支持合法合规的网络视听节目业态创新”。\[11\]\[12\]\[13\]
 
 ## 参见
 
@@ -332,8 +319,7 @@ Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）�
 日站公式WIKI
 
   - [兄貴](http://www10.atwiki.jp/herrington/) - www1.atwiki.jp
-  - [エア本](https://web.archive.org/web/20140304035643/http://www6.atwiki.jp/atamagapan/)
-    - www1.atwiki.jp
+  - [エア本](https://web.archive.org/web/20140304035643/http://www6.atwiki.jp/atamagapan/) - www1.atwiki.jp
   - [松岡修造](http://www1.atwiki.jp/syuzo/) - www1.atwiki.jp
   - [真夏の夜の淫夢](http://wiki.yjsnpi.nu/メインページ) - wiki.yjsnpi.nu
 
@@ -343,26 +329,18 @@ Effects特效软件](https://zh.wikipedia.org/wiki/After_Effects "wikilink")）�
   - [BiliBili的鬼畜区（分为鬼畜调教、音MAD、人力VOCALOID等。）](https://www.bilibili.com/video/kichiku.html)
   - [格雷戈里兄弟（schmoyoho）的Youtube频道](https://www.youtube.com/user/schmoyoho)
 
-[Category:网络文化](https://zh.wikipedia.org/wiki/Category:网络文化 "wikilink")
-[Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
+[Category:网络文化](https://zh.wikipedia.org/wiki/Category:网络文化 "wikilink") [Category:NICONICO動畫](https://zh.wikipedia.org/wiki/Category:NICONICO動畫 "wikilink")
 
 1.  [音系MAD](http://dic.nicovideo.jp/a/音系mad) - 単語記事 - ニコニコ大百科
-2.  [音MAD晒しイベントとは (オトマッドサラシイベントとは) \[単語記事\] -
-    ニコニコ大百科](http://dic.nicovideo.jp/a/%E9%9F%B3mad%E6%99%92%E3%81%97%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88)
+2.  [音MAD晒しイベントとは (オトマッドサラシイベントとは) \[単語記事\] - ニコニコ大百科](http://dic.nicovideo.jp/a/%E9%9F%B3mad%E6%99%92%E3%81%97%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88)
 3.  [裏御三家](http://dic.nicovideo.jp/a/裏御三家) - 単語記事 - ニコニコ大百科
-4.  [ブロリーでおどるポンポコリン by doreiku -
-    ニコニコ動画](http://www.nicovideo.jp/watch/sm9041543?ref=search_key_video&ss_pos=8&ss_id=b095b8ea-edb4-4dac-a9b9-3ec0923eb02a)
+4.  [ブロリーでおどるポンポコリン by doreiku - ニコニコ動画](http://www.nicovideo.jp/watch/sm9041543?ref=search_key_video&ss_pos=8&ss_id=b095b8ea-edb4-4dac-a9b9-3ec0923eb02a)
 5.  [キーワードで動画検索 z会 - ニコニコ動画](http://www.nicovideo.jp/search/z%E4%BC%9A)
-6.  [關鍵字搜尋動畫 バカヤロイド -
-    niconico動畫](http://www.nicovideo.jp/search/%E3%83%90%E3%82%AB%E3%83%A4%E3%83%AD%E3%82%A4%E3%83%89)
-7.  [鬼畜全明星 - 萌娘百科
-    萬物皆可萌的百科全書](https://zh.moegirl.org/zh-hant/%E9%AC%BC%E7%95%9C%E5%85%A8%E6%98%8E%E6%98%9F)
-8.
-9.  [人力VOCALOID - 哔哩哔哩 (゜-゜)つロ
-    干杯\~-bilibili](https://www.bilibili.com/v/kichiku/manual_vocaloid/?spm_id_from=333.334.primary_menu.63#/17332)
-10. [庞麦郎 - 搜索结果 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯\~ -
-    bilibili](https://search.bilibili.com/all?keyword=%E5%BA%9E%E9%BA%A6%E9%83%8E)
+6.  [關鍵字搜尋動畫 バカヤロイド - niconico動畫](http://www.nicovideo.jp/search/%E3%83%90%E3%82%AB%E3%83%A4%E3%83%AD%E3%82%A4%E3%83%89)
+7.
+8.  [人力VOCALOID - 哔哩哔哩 (゜-゜)つロ 干杯\~-bilibili](https://www.bilibili.com/v/kichiku/manual_vocaloid/?spm_id_from=333.334.primary_menu.63#/17332)
+9.  [庞麦郎 - 搜索结果 - 哔哩哔哩弹幕视频网 - ( ゜- ゜)つロ 乾杯\~ - bilibili](https://search.bilibili.com/all?keyword=%E5%BA%9E%E9%BA%A6%E9%83%8E)
+10.
 11.
 12.
 13.
-14.

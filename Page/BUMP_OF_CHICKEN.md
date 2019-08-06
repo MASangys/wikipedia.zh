@@ -1,5 +1,4 @@
-**BUMP OF CHICKEN**（）是日本搖滾樂團，於1994年組成。略稱有「」、「BOC」等。經紀公司為[TOY'S
-FACTORY](../Page/TOY'S_FACTORY.md "wikilink")。團名有「弱者的反擊」之意。
+**BUMP OF CHICKEN**（）是日本搖滾樂團，於1994年組成。略稱有「」、「BOC」等。經紀公司為[TOY'S FACTORY](../Page/TOY'S_FACTORY.md "wikilink")。團名有「弱者的反擊」之意。
 
 ## 所屬成員
 
@@ -625,23 +624,14 @@ GOLD GLIDER TOUR 2012</a></strong></p></td>
 
 ## 外部链接
 
-  - [BUMP OF CHICKEN official website](https://www.bumpofchicken.com/) -
-    官方网站
+  - [BUMP OF CHICKEN official website](https://www.bumpofchicken.com/) - 官方网站
 
-  - [BUMP OF CHICKEN
-    特設サイト](https://web.archive.org/web/20130523055744/http://bump.mu/)
-    - BUMP OF CHICKEN的最新訊息，訊息会随时更新。
+  - [BUMP OF CHICKEN 特設サイト](https://web.archive.org/web/20130523055744/http://bump.mu/) - BUMP OF CHICKEN的最新訊息，訊息会随时更新。
 
-  - [BUMP OF CHICKEN | TOY'S
-    FACTORY](http://www.toysfactory.co.jp/artist/bumpofchicken) -
-    所属唱片公司的艺人页面
+  - [BUMP OF CHICKEN | TOY'S FACTORY](http://www.toysfactory.co.jp/artist/bumpofchicken) - 所属唱片公司的艺人页面
 
   - （「R.I.P.」をはじめ何曲かビデオクリップを公開している。）
 
   - [PONTSUKA\!\!](http://web.bayfm.jp/bump/) - 於主持的廣播节目网站
 
-[Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")
-[Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink")
-[Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink")
-[Category:Oricon動畫單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍獲得者 "wikilink")
-[Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")
+[Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink") [Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink") [Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink") [Category:Oricon動畫單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍獲得者 "wikilink") [Category:NHK紅白歌合戰出场歌手](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰出场歌手 "wikilink")

@@ -2,8 +2,7 @@
 
 ## 行星系
 
-2008年使用[XO望遠鏡](../Page/XO望遠鏡.md "wikilink")以[凌日法發現該恆星旁有一顆](https://zh.wikipedia.org/wiki/凌日法 "wikilink")[熱木星](../Page/熱木星.md "wikilink")
-[XO-5b](../Page/XO-5b.md "wikilink")\[3\]。根據凌日時間變化研究，並無其他行星存在的證據\[4\]。
+2008年使用[XO望遠鏡](../Page/XO望遠鏡.md "wikilink")以[凌日法發現該恆星旁有一顆](https://zh.wikipedia.org/wiki/凌日法 "wikilink")[熱木星](../Page/熱木星.md "wikilink") [XO-5b](../Page/XO-5b.md "wikilink")\[3\]。根據凌日時間變化研究，並無其他行星存在的證據\[4\]。
 
 ## 參見
 
@@ -14,10 +13,7 @@
 ## 外部連結
 
   -
-[Category:黃矮星](https://zh.wikipedia.org/wiki/Category:黃矮星 "wikilink")
-[Category:天貓座](https://zh.wikipedia.org/wiki/Category:天貓座 "wikilink")
-[Category:行星凌變星](https://zh.wikipedia.org/wiki/Category:行星凌變星 "wikilink")
-[Category:行星系](https://zh.wikipedia.org/wiki/Category:行星系 "wikilink")
+[Category:黃矮星](https://zh.wikipedia.org/wiki/Category:黃矮星 "wikilink") [Category:天貓座](https://zh.wikipedia.org/wiki/Category:天貓座 "wikilink") [Category:行星凌變星](https://zh.wikipedia.org/wiki/Category:行星凌變星 "wikilink") [Category:行星系](https://zh.wikipedia.org/wiki/Category:行星系 "wikilink")
 
 1.
 2.

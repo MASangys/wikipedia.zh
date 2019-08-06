@@ -12,8 +12,7 @@
 
 ## 歷史
 
-  - 1971年8月9日 -
-    [東名阪自動車道](../Page/東名阪自動車道.md "wikilink")[桑名IC至](https://zh.wikipedia.org/wiki/桑名IC "wikilink")[四日市IC開通](../Page/四日市IC_\(三重縣\).md "wikilink")，此交流道也同時啟用。
+  - 1971年8月9日 - [東名阪自動車道](../Page/東名阪自動車道.md "wikilink")[桑名IC至](https://zh.wikipedia.org/wiki/桑名IC "wikilink")[四日市IC開通](../Page/四日市IC_\(三重縣\).md "wikilink")，此交流道也同時啟用。
 
 ## 收費站設施
 
@@ -42,11 +41,7 @@
 ## 鄰近設施
 
   - [東名阪自動車道](../Page/東名阪自動車道.md "wikilink")
-    (29)[桑名IC](https://zh.wikipedia.org/wiki/桑名IC "wikilink") -
-    (29-1)[四日市JCT](https://zh.wikipedia.org/wiki/四日市JCT "wikilink")
-    - (30)**四日市東IC** -
-    [御在所SA](https://zh.wikipedia.org/wiki/御在所SA "wikilink")
-    - (31)[四日市IC](../Page/四日市IC_\(三重縣\).md "wikilink")
+    (29)[桑名IC](https://zh.wikipedia.org/wiki/桑名IC "wikilink") - (29-1)[四日市JCT](https://zh.wikipedia.org/wiki/四日市JCT "wikilink") - (30)**四日市東IC** - [御在所SA](https://zh.wikipedia.org/wiki/御在所SA "wikilink") - (31)[四日市IC](../Page/四日市IC_\(三重縣\).md "wikilink")
 
 ## 相關項目
 
@@ -56,5 +51,4 @@
 
   - [中日本高速道路](http://www.c-nexco.co.jp/)
 
-[Category:日本交流道_Yo](https://zh.wikipedia.org/wiki/Category:日本交流道_Yo "wikilink")
-[Category:三重縣交流道](https://zh.wikipedia.org/wiki/Category:三重縣交流道 "wikilink")
+[Category:日本交流道_Yo](https://zh.wikipedia.org/wiki/Category:日本交流道_Yo "wikilink") [Category:三重縣交流道](https://zh.wikipedia.org/wiki/Category:三重縣交流道 "wikilink")

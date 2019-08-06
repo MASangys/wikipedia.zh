@@ -1,7 +1,4 @@
-《**OVER
-DRIVE**》是日本女子樂團[SCANDAL的第](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")17張單曲單曲，2013年9月18日由[Epic
-Records Japan
-Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")\[1\]。
+《**OVER DRIVE**》是日本女子樂團[SCANDAL的第](https://zh.wikipedia.org/wiki/SCANDAL "wikilink")17張單曲單曲，2013年9月18日由[Epic Records Japan Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")\[1\]。
 
 ## 摘要
 
@@ -41,9 +38,7 @@ Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")\[1
 
   - [SCANDAL | 消息](http://www.scandal-4.com/overdrive_standard/)
 
-[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink")
-[Category:SCANDAL歌曲](https://zh.wikipedia.org/wiki/Category:SCANDAL歌曲 "wikilink")
+[Category:2013年單曲](https://zh.wikipedia.org/wiki/Category:2013年單曲 "wikilink") [Category:SCANDAL歌曲](https://zh.wikipedia.org/wiki/Category:SCANDAL歌曲 "wikilink")
 
-1.  參考來源[中田ヤスタカがSCANDAL新曲“OVER DRIVE”をプロデュース
-    -musicニュース：CINRA.NET](http://www.cinra.net/news/2013/08/21/193337.php)
+1.  參考來源[中田ヤスタカがSCANDAL新曲“OVER DRIVE”をプロデュース -musicニュース：CINRA.NET](http://www.cinra.net/news/2013/08/21/193337.php)
 2.  參考於[SCANDAL Official website](http://www.scandal-4.com/)的內容。

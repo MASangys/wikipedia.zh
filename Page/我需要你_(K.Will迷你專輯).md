@@ -74,10 +74,7 @@ EP出版時，由於印刷錯誤，令原有印製的20000張大碟需要丟棄�
 
 ## 參考資料
 
-[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink")
-[Category:K.Will音樂專輯](https://zh.wikipedia.org/wiki/Category:K.Will音樂專輯 "wikilink")
-[Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
-[Category:2012年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon數位下載週榜冠軍作品 "wikilink")
+[Category:2012年迷你專輯](https://zh.wikipedia.org/wiki/Category:2012年迷你專輯 "wikilink") [Category:K.Will音樂專輯](https://zh.wikipedia.org/wiki/Category:K.Will音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2012年Gaon數位下載週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Gaon數位下載週榜冠軍作品 "wikilink")
 
 1.
 

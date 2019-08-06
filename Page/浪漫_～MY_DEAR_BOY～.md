@@ -1,5 +1,4 @@
-《**浪漫 ～MY DEAR
-BOY～**》（）是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第23张[单曲](../Page/单曲.md "wikilink")，於2004年5月12日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+《**浪漫 ～MY DEAR BOY～**》（）是[日本](../Page/日本.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第23张[单曲](../Page/单曲.md "wikilink")，於2004年5月12日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
@@ -12,12 +11,9 @@ BOY～**》（）是[日本](../Page/日本.md "wikilink")[女子音樂組合](h
 ### CD
 
 1.  **浪漫 ～MY DEAR BOY～**
-    （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
-    編曲：[鈴木俊介](https://zh.wikipedia.org/wiki/鈴木俊介 "wikilink")）
+    （作詞・作曲：[淳君](../Page/淳君.md "wikilink") 編曲：[鈴木俊介](https://zh.wikipedia.org/wiki/鈴木俊介 "wikilink")）
 2.  **美好的情感\!**（ファインエモーション\!）
-    （作詞・作曲：[淳君](../Page/淳君.md "wikilink")
-    編曲：[鈴木Daichi秀行](https://zh.wikipedia.org/wiki/鈴木Daichi秀行 "wikilink")）
+    （作詞・作曲：[淳君](../Page/淳君.md "wikilink") 編曲：[鈴木Daichi秀行](https://zh.wikipedia.org/wiki/鈴木Daichi秀行 "wikilink")）
 3.  浪漫 ～MY DEAR BOY～ (仪器的)
 
-[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
-[Category:早安少女組。歌曲](https://zh.wikipedia.org/wiki/Category:早安少女組。歌曲 "wikilink")
+[Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink") [Category:早安少女組。歌曲](https://zh.wikipedia.org/wiki/Category:早安少女組。歌曲 "wikilink")

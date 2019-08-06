@@ -1,5 +1,4 @@
-**Mk.VIII挑戰者巡航坦克**（A30）是一款[英國於](https://zh.wikipedia.org/wiki/英國 "wikilink")[第二次世界大戰時期使用的坦克](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")。在[克倫威爾式巡航坦克的底盤上安裝了一門迴旋式的](../Page/克倫威爾坦克.md "wikilink")[QF
-17磅炮](https://zh.wikipedia.org/wiki/QF17磅炮 "wikilink")，使得它的反坦克能力比一般的克倫威爾式要強。
+**Mk.VIII挑戰者巡航坦克**（A30）是一款[英國於](https://zh.wikipedia.org/wiki/英國 "wikilink")[第二次世界大戰時期使用的坦克](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")。在[克倫威爾式巡航坦克的底盤上安裝了一門迴旋式的](../Page/克倫威爾坦克.md "wikilink")[QF 17磅炮](https://zh.wikipedia.org/wiki/QF17磅炮 "wikilink")，使得它的反坦克能力比一般的克倫威爾式要強。
 
 爲了能夠在克倫威爾坦克的底盤上安裝17磅炮，該款坦克拆除了一些裝甲。後來，因為更加容易生產，且同樣裝備QF17磅炮的的[雪曼螢火蟲坦克](../Page/雪曼螢火蟲坦克.md "wikilink")投入量產，只有200輛挑戰者被生產出來。并在1944-45年期間被有限的使用。\[1\]
 
@@ -11,8 +10,7 @@
 
 ## 設計
 
-挑戰者坦克使用加長加寬的[克倫威爾坦克](../Page/克倫威爾坦克.md "wikilink")底盤並擴大砲塔坐圈直徑，為了安置17磅砲而裝上了與[TOG
-II相同的砲塔](../Page/TOG2_重型戰車.md "wikilink")。且多安裝了一對負重輪。\[5\]其高度超過了9英尺，比克倫威爾坦克還要高1英尺。這使得它很容易成為敵軍火力的靶子。它的最大裝甲達到了101mm，但這也讓其重量比克倫威爾坦克高了5.5噸，自然，功重比的下滑的同時造成機動性降低。它的最大速度為32mph。底盤機槍爲了給火炮留出空間而被取消。\[6\]
+挑戰者坦克使用加長加寬的[克倫威爾坦克](../Page/克倫威爾坦克.md "wikilink")底盤並擴大砲塔坐圈直徑，為了安置17磅砲而裝上了與[TOG II相同的砲塔](../Page/TOG2_重型戰車.md "wikilink")。且多安裝了一對負重輪。\[5\]其高度超過了9英尺，比克倫威爾坦克還要高1英尺。這使得它很容易成為敵軍火力的靶子。它的最大裝甲達到了101mm，但這也讓其重量比克倫威爾坦克高了5.5噸，自然，功重比的下滑的同時造成機動性降低。它的最大速度為32mph。底盤機槍爲了給火炮留出空間而被取消。\[6\]
 
 ## 生產/服役
 
@@ -34,8 +32,7 @@ II相同的砲塔](../Page/TOG2_重型戰車.md "wikilink")。且多安裝了一
 
 ## 現存品
 
-[A30_Challenger2.JPG](https://zh.wikipedia.org/wiki/File:A30_Challenger2.JPG "fig:A30_Challenger2.JPG")
-這種坦克現在還有兩輛。一輛在荷蘭的Overloon博物館，另一輛在英國的懷特島軍事博物館。如果能修好的話，它就會被送往博文頓坦克博物館展出。\[14\]
+[A30_Challenger2.JPG](https://zh.wikipedia.org/wiki/File:A30_Challenger2.JPG "fig:A30_Challenger2.JPG") 這種坦克現在還有兩輛。一輛在荷蘭的Overloon博物館，另一輛在英國的懷特島軍事博物館。如果能修好的話，它就會被送往博文頓坦克博物館展出。\[14\]
 
 ## 腳註/來源
 
@@ -51,14 +48,9 @@ II相同的砲塔](../Page/TOG2_重型戰車.md "wikilink")。且多安裝了一
 ## 外部連結
 
   - [OnWar](http://www.onwar.com/tanks/uk/fchallenger.htm)
-  - [Avenger at
-    ww2photo.mimerswell.com](http://ww2photo.mimerswell.com/tanks/gb/crus/chall/aveng.htm)
+  - [Avenger at ww2photo.mimerswell.com](http://ww2photo.mimerswell.com/tanks/gb/crus/chall/aveng.htm)
 
-[Category:英國坦克](https://zh.wikipedia.org/wiki/Category:英國坦克 "wikilink")
-[Category:巡航坦克](https://zh.wikipedia.org/wiki/Category:巡航坦克 "wikilink")
-[Category:英國二戰坦克](https://zh.wikipedia.org/wiki/Category:英國二戰坦克 "wikilink")
-[Category:中型坦克](https://zh.wikipedia.org/wiki/Category:中型坦克 "wikilink")
-[Category:英國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:英國裝甲戰鬥車輛 "wikilink")
+[Category:英國坦克](https://zh.wikipedia.org/wiki/Category:英國坦克 "wikilink") [Category:巡航坦克](https://zh.wikipedia.org/wiki/Category:巡航坦克 "wikilink") [Category:英國二戰坦克](https://zh.wikipedia.org/wiki/Category:英國二戰坦克 "wikilink") [Category:中型坦克](https://zh.wikipedia.org/wiki/Category:中型坦克 "wikilink") [Category:英國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:英國裝甲戰鬥車輛 "wikilink")
 
 1.
 
@@ -76,7 +68,6 @@ II相同的砲塔](../Page/TOG2_重型戰車.md "wikilink")。且多安裝了一
 
 12.
 
-13. Hayward *The Other Challenger* quoting Six Monthly RAC Progress
-    Reports
+13. Hayward *The Other Challenger* quoting Six Monthly RAC Progress Reports
 
 14.

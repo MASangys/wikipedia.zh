@@ -76,8 +76,7 @@
 
   - [SNH48官方网站的专题页面](http://www.snh48.com/event/s40/)
 
-[Category:2014年EP](https://zh.wikipedia.org/wiki/Category:2014年EP "wikilink")
-[Category:SNH48歌曲](https://zh.wikipedia.org/wiki/Category:SNH48歌曲 "wikilink")
+[Category:2014年EP](https://zh.wikipedia.org/wiki/Category:2014年EP "wikilink") [Category:SNH48歌曲](https://zh.wikipedia.org/wiki/Category:SNH48歌曲 "wikilink")
 
 1.
 

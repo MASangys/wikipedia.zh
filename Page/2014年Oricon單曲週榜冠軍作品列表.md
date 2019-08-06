@@ -394,6 +394,4 @@
 
 ## 參考資料
 
-[Category:2014年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Oricon單曲週榜冠軍作品 "wikilink")
-[Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
-[Category:2014年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2014年音樂排行榜 "wikilink")
+[Category:2014年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Oricon單曲週榜冠軍作品 "wikilink") [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink") [Category:2014年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2014年音樂排行榜 "wikilink")

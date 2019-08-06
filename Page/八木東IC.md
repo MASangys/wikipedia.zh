@@ -23,23 +23,18 @@
 
 ## 歷史
 
-  - 1996年4月27日 -
-    [京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")[千代川IC](../Page/千代川IC.md "wikilink")至[丹波IC之間開通](https://zh.wikipedia.org/wiki/丹波IC "wikilink")，此交流道也同時啟用。
+  - 1996年4月27日 - [京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")[千代川IC](../Page/千代川IC.md "wikilink")至[丹波IC之間開通](https://zh.wikipedia.org/wiki/丹波IC "wikilink")，此交流道也同時啟用。
 
 ## 交流道周邊
 
   - 八木町立八木中學
   - [京都府立丹波支援喻校](https://zh.wikipedia.org/wiki/京都府立丹波支援喻校 "wikilink")
-  - [JR西日本](https://zh.wikipedia.org/wiki/JR西日本 "wikilink")
-    [嵯峨野線](../Page/嵯峨野線.md "wikilink")
-    [八木站](https://zh.wikipedia.org/wiki/八木站 "wikilink")
+  - [JR西日本](https://zh.wikipedia.org/wiki/JR西日本 "wikilink") [嵯峨野線](../Page/嵯峨野線.md "wikilink") [八木站](https://zh.wikipedia.org/wiki/八木站 "wikilink")
 
 ## 鄰近設施
 
   - [京都縱貫自動車道](../Page/京都縱貫自動車道.md "wikilink")
-    [千代川IC](../Page/千代川IC.md "wikilink") - **八木東IC** -
-    [南丹PA](https://zh.wikipedia.org/wiki/南丹PA "wikilink") -
-    [八木中IC](https://zh.wikipedia.org/wiki/八木中IC "wikilink")
+    [千代川IC](../Page/千代川IC.md "wikilink") - **八木東IC** - [南丹PA](https://zh.wikipedia.org/wiki/南丹PA "wikilink") - [八木中IC](https://zh.wikipedia.org/wiki/八木中IC "wikilink")
 
 ## 相關項目
 
@@ -49,6 +44,4 @@
 
   - [西日本高速道路](http://www.w-nexco.co.jp/)
 
-[Category:日本交流道_Ya](https://zh.wikipedia.org/wiki/Category:日本交流道_Ya "wikilink")
-[Category:京都府交流道](https://zh.wikipedia.org/wiki/Category:京都府交流道 "wikilink")
-[Category:南丹市](https://zh.wikipedia.org/wiki/Category:南丹市 "wikilink")
+[Category:日本交流道_Ya](https://zh.wikipedia.org/wiki/Category:日本交流道_Ya "wikilink") [Category:京都府交流道](https://zh.wikipedia.org/wiki/Category:京都府交流道 "wikilink") [Category:南丹市](https://zh.wikipedia.org/wiki/Category:南丹市 "wikilink")

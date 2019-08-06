@@ -1,8 +1,4 @@
-**《I’ll Be
-There》**（）是韓國女子組合[SPICA](../Page/SPICA_\(組合\).md "wikilink")，於2012年9月19日由B2M
-Entertainment企劃，LOEN
-MUSIC所發行的第二張韓文單曲。發行當日即獲得Bugs音源即時排行第2名的成績，而09月20日起於[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")「M\!
-Countdown」演出後正式展開一連串睽違了五個月的宣傳活動。
+**《I’ll Be There》**（）是韓國女子組合[SPICA](../Page/SPICA_\(組合\).md "wikilink")，於2012年9月19日由B2M Entertainment企劃，LOEN MUSIC所發行的第二張韓文單曲。發行當日即獲得Bugs音源即時排行第2名的成績，而09月20日起於[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")「M\! Countdown」演出後正式展開一連串睽違了五個月的宣傳活動。
 
 ## 單曲概述
 
@@ -10,10 +6,7 @@ Countdown」演出後正式展開一連串睽違了五個月的宣傳活動。
 
 ### 音樂錄影帶
 
-  - 透過LOEN MUSIC及B2M
-    Ent.官方Youtube頻道於2012年9月14日18:00公開三十九秒預告版本。畫面從一手撐著紅傘一手拿著手電燈的小女孩搭配悅耳的「I'll
-    be
-    there」背景樂揭開序幕，以給女孩帶來希望加上熱舞的五位成員美妙的組合為概念製作\[3\]\[4\]。並於9月19日正午12時公開完整版本音樂影像\[5\]。
+  - 透過LOEN MUSIC及B2M Ent.官方Youtube頻道於2012年9月14日18:00公開三十九秒預告版本。畫面從一手撐著紅傘一手拿著手電燈的小女孩搭配悅耳的「I'll be there」背景樂揭開序幕，以給女孩帶來希望加上熱舞的五位成員美妙的組合為概念製作\[3\]\[4\]。並於9月19日正午12時公開完整版本音樂影像\[5\]。
   - 音樂影像導演：[12Rounds](http://www.12rounds.co.kr/) 김은유（Eunyou Kim）
 
 ### 造型
@@ -197,8 +190,7 @@ Countdown」演出後正式展開一連串睽違了五個月的宣傳活動。
   - [SPICA官方Cafe](http://cafe.daum.net/spicaofficial/)
   - [SPICA官方Cafe推特](http://twitter.com/MERCURY_STAFF)
 
-[Category:SPICA歌曲](https://zh.wikipedia.org/wiki/Category:SPICA歌曲 "wikilink")
-[Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
+[Category:SPICA歌曲](https://zh.wikipedia.org/wiki/Category:SPICA歌曲 "wikilink") [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
 
 1.
 

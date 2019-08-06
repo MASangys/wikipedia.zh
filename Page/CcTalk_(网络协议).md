@@ -2,15 +2,11 @@
 
 ## 概述
 
-该协议是在一家位于[英格兰](../Page/英格兰.md "wikilink")西北部港市[曼彻斯特](../Page/曼彻斯特.md "wikilink")郊外的名为Coin
-Controls （因此稱coin-controls-talk，該公司后改名为Money Controls，自2010起叫Crane
-Payment Solutions）的公司开发的，主要由工程师William Barson完成。该协议的第一个版本发布于1996年。
+该协议是在一家位于[英格兰](../Page/英格兰.md "wikilink")西北部港市[曼彻斯特](../Page/曼彻斯特.md "wikilink")郊外的名为Coin Controls （因此稱coin-controls-talk，該公司后改名为Money Controls，自2010起叫Crane Payment Solutions）的公司开发的，主要由工程师William Barson完成。该协议的第一个版本发布于1996年。
 
-该协议使用类似[RS232的方式进行字符帧的异步传输](https://zh.wikipedia.org/wiki/RS232 "wikilink")。其主要区别是，它为半双工通信使用单一的[双向通信数据线而非分开的传输和接收线](https://zh.wikipedia.org/wiki/双向通信 "wikilink")。它在[TTL
-voltage下操作](https://zh.wikipedia.org/wiki/TTL_voltage "wikilink")，并且是「multi-drop」的，即外围设备可以连接到一个共同的总线和在逻辑上是由设备地址分离。在ccTalk总线上的每个外设都必须有一个唯一的地址。
+该协议使用类似[RS232的方式进行字符帧的异步传输](https://zh.wikipedia.org/wiki/RS232 "wikilink")。其主要区别是，它为半双工通信使用单一的[双向通信数据线而非分开的传输和接收线](https://zh.wikipedia.org/wiki/双向通信 "wikilink")。它在[TTL voltage下操作](https://zh.wikipedia.org/wiki/TTL_voltage "wikilink")，并且是「multi-drop」的，即外围设备可以连接到一个共同的总线和在逻辑上是由设备地址分离。在ccTalk总线上的每个外设都必须有一个唯一的地址。
 
-初始的协议操作于于4,800[波特后续版本的标准化在](../Page/波特率.md "wikilink")9,600波特。低成本的桥接[芯片现在可以从很多厂家得到](https://zh.wikipedia.org/wiki/芯片 "wikilink")，以允许ccTalk以至少1
-Mbit/s的波特率通过USB接口运行。
+初始的协议操作于于4,800[波特后续版本的标准化在](../Page/波特率.md "wikilink")9,600波特。低成本的桥接[芯片现在可以从很多厂家得到](https://zh.wikipedia.org/wiki/芯片 "wikilink")，以允许ccTalk以至少1 Mbit/s的波特率通过USB接口运行。
 
 ccTalk协议[堆栈](../Page/堆栈.md "wikilink")已经从极小的512[字节](../Page/字节.md "wikilink")的[ROM](https://zh.wikipedia.org/wiki/只读存储器 "wikilink")[微芯片](../Page/集成电路.md "wikilink")[微控制器到强大的](../Page/单片机.md "wikilink")[ARM7](https://zh.wikipedia.org/wiki/ARM7 "wikilink")-32位处理器的范围的设备上实现。
 
@@ -32,8 +28,7 @@ TX data = 002 000 001 245 008 _____
 
 这是从地址1（主机）发至外设地址2以查明其是什么的信息。
 
-RX data = 001 013 002 000 067 111 105 110 032 065 099 099 101 112 116
-111 114 022
+RX data = 001 013 002 000 067 111 105 110 032 065 099 099 101 112 116 111 114 022
 
   - 001 = 目标地址
   - 013 = 13个字节的数据
@@ -50,8 +45,7 @@ RX data = 001 013 002 000 067 111 105 110 032 065 099 099 101 112 116
 
 在ccTalk中一个 a coin有6个字符的标识符。 \<2-字国家代码\>\<3-l字值\>\<1-字版本代码\>
 
-国家代码由[ISO
-3166确定](../Page/ISO_3166.md "wikilink")。发行代码指定到不同的发行日期或相同硬币的特别币种。
+国家代码由[ISO 3166确定](../Page/ISO_3166.md "wikilink")。发行代码指定到不同的发行日期或相同硬币的特别币种。
 
 例：
 

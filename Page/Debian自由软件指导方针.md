@@ -15,8 +15,7 @@
 
 ## 历史
 
-1997年7月，Debian自由软件指导方针连同Debian社群契约首次发布\[3\]。Ean
-Schuessler提出了为[发行版的许可政策提供一个正式保障的设想](../Page/Linux发行版.md "wikilink")。方针的主要作者是[布鲁斯·佩伦斯和当时其他一些Debian开发者](https://zh.wikipedia.org/wiki/布鲁斯·佩伦斯 "wikilink")。
+1997年7月，Debian自由软件指导方针连同Debian社群契约首次发布\[3\]。Ean Schuessler提出了为[发行版的许可政策提供一个正式保障的设想](../Page/Linux发行版.md "wikilink")。方针的主要作者是[布鲁斯·佩伦斯和当时其他一些Debian开发者](https://zh.wikipedia.org/wiki/布鲁斯·佩伦斯 "wikilink")。
 
 不久，以DFSG为蓝本写成。DFSG的出现比[自由软件基金会](../Page/自由软件基金会.md "wikilink")的要晚。在DFSG成为开放源码定义后，自由软件基金会创建人[理查德·斯托曼](../Page/理查德·斯托曼.md "wikilink")感到区分[自由软件](../Page/自由软件.md "wikilink")和[开源软件](../Page/开源软件.md "wikilink")的必要，以推广自由软件定义\[4\]。自由软件定义在1986年首次发布于首个版本的GNU公告\[5\]。值得注意的是，自由软件定义的核心“四大自由”明显产生于DFSG的起草和颁布之前，但DFSG的作者在当时却并不知道它\[6\]。
 
@@ -29,8 +28,7 @@ Debian的常规决议（）2004-003修改了社群契约\[8\]。提案者Andrew 
   -
     “规则是‘这项决议只修改措辞，不修改精神’。对社群契约措辞上的大部分修改更好地反映了它的本意，修正了当初撰写时未考虑的问题。”\[9\]
 
-然而，一句“我们承诺保持Debian
-GNU/Linux发行版是完​​全自由的软件”到“我们承诺Debian系统及其所有组件都是自由的”的改变，导致发布管理者做出了一个实质变化：
+然而，一句“我们承诺保持Debian GNU/Linux发行版是完​​全自由的软件”到“我们承诺Debian系统及其所有组件都是自由的”的改变，导致发布管理者做出了一个实质变化：
 
   -
     “因为不再限于‘软件’，而且这决定是由开发者在讨论我们应该如何处理像文档和固件等非软件的内容过程中作出的，我不再拥护这项政策决议以期能免除文档、固件等内容，虽然社会契约已经修订以涵盖所​​有这些领域。”\[10\]
@@ -45,8 +43,7 @@ GNU/Linux发行版是完​​全自由的软件”到“我们承诺Debian系�
 
 ### 非软件内容
 
-DFSG专注于[软件](../Page/软件.md "wikilink")，但这个词本身的范围是不确定的——一些人将其应用到所有可以被表示为比特流的东西，而少数认为它只能指计算机程序。此外，[PostScript](../Page/PostScript.md "wikilink")的存在、可执行的脚本、源文档等等，极大地搞乱了第二个定义。因此为了打破混乱，2004年6月Debian项目决定将相同的准则明确应用于[软件文档](../Page/软件文档.md "wikilink")、多媒体数据和其他内容。Debian中的非程序内容从Debian
-4.0（发布于2007年4月）开始严格地符合DFSG。
+DFSG专注于[软件](../Page/软件.md "wikilink")，但这个词本身的范围是不确定的——一些人将其应用到所有可以被表示为比特流的东西，而少数认为它只能指计算机程序。此外，[PostScript](../Page/PostScript.md "wikilink")的存在、可执行的脚本、源文档等等，极大地搞乱了第二个定义。因此为了打破混乱，2004年6月Debian项目决定将相同的准则明确应用于[软件文档](../Page/软件文档.md "wikilink")、多媒体数据和其他内容。Debian中的非程序内容从Debian 4.0（发布于2007年4月）开始严格地符合DFSG。
 
 ### GNU自由文档许可证
 
@@ -78,8 +75,7 @@ debian-legal邮件列表的订户们创造了一些测试，以检查许可证�
   - [Debian社群契约和自由软件指导方针](http://www.debian.org/social_contract#guidelines)
   - [现时Debian接受的许可证列表](http://www.debian.org/legal/licenses/)
 
-[Category:Debian](https://zh.wikipedia.org/wiki/Category:Debian "wikilink")
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
+[Category:Debian](https://zh.wikipedia.org/wiki/Category:Debian "wikilink") [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
 
 1.
 
@@ -88,34 +84,20 @@ debian-legal邮件列表的订户们创造了一些测试，以检查许可证�
 3.
 4.
 
-5.  [GNU's Bulletin, First
-    Edition](http://www.gnu.org/bulletins/bull1.txt)
+5.  [GNU's Bulletin, First Edition](http://www.gnu.org/bulletins/bull1.txt)
 
-6.  Bruce Perens: "[when I had to write license guidelines for Debian,
-    the Four Freedoms document was
-    unknown.](http://news.slashdot.org/comments.pl?sid=1129863&cid=26875815)"
+6.  Bruce Perens: "[when I had to write license guidelines for Debian, the Four Freedoms document was unknown.](http://news.slashdot.org/comments.pl?sid=1129863&cid=26875815)"
 
-7.  Ian Jackson: [Draft new
-    DFSG](http://lists.debian.org/debian-devel/1998/11/msg01944.html),
-    debian-devel mailing list
+7.  Ian Jackson: [Draft new DFSG](http://lists.debian.org/debian-devel/1998/11/msg01944.html), debian-devel mailing list
 
-8.  [General Resolution: Editorial amendments to the social
-    contract](http://www.debian.org/vote/2004/vote_003)
+8.  [General Resolution: Editorial amendments to the social contract](http://www.debian.org/vote/2004/vote_003)
 
-9.  Andrew Suffield: [Re: Candidate social contract amendments (part 1:
-    editorial) (3rd
-    draft)](http://lists.debian.org/debian-vote/2004/01/msg00692.html),
-    debian-vote mailing list
+9.  Andrew Suffield: [Re: Candidate social contract amendments (part 1: editorial) (3rd draft)](http://lists.debian.org/debian-vote/2004/01/msg00692.html), debian-vote mailing list
 
-10. Anthony Towns: [Social Contract GR's effect on
-    Sarge](http://lists.debian.org/debian-devel/2004/04/msg01929.html),
-    debian-devel mailing list
+10. Anthony Towns: [Social Contract GR's effect on Sarge](http://lists.debian.org/debian-devel/2004/04/msg01929.html), debian-devel mailing list
 
-11. [General Resolution: Sarge Release Schedule in view of
-    GR 2004-003](http://www.debian.org/vote/2004/vote_004)
+11. [General Resolution: Sarge Release Schedule in view of GR 2004-003](http://www.debian.org/vote/2004/vote_004)
 
-12. [General Resolution: Why the GNU Free Documentation License is not
-    suitable for Debian main](http://www.debian.org/vote/2006/vote_001)
+12. [General Resolution: Why the GNU Free Documentation License is not suitable for Debian main](http://www.debian.org/vote/2006/vote_001)
 
-13. [The Debian Free Software
-    FAQ](http://people.debian.org/~bap/dfsg-faq.html)
+13. [The Debian Free Software FAQ](http://people.debian.org/~bap/dfsg-faq.html)

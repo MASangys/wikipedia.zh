@@ -4,17 +4,12 @@
 
 Also published as
 
-  - [Kresta Class -
-    Project 1134](http://www.fas.org/man/dod-101/sys/ship/row/rus/1134.htm)
-    at [Federation of American
-    Scientists](https://zh.wikipedia.org/wiki/Federation_of_American_Scientists "wikilink")
-    website
+  - [Kresta Class - Project 1134](http://www.fas.org/man/dod-101/sys/ship/row/rus/1134.htm) at [Federation of American Scientists](https://zh.wikipedia.org/wiki/Federation_of_American_Scientists "wikilink") website
 
   - [article in Russian](http://ship.bsu.by/main.asp?id=100600)
 
   - [1](http://kresta-ii.ucoz.ru) \[article in Russian\]
 
-  - [All Russian Kresta II Class Cruisers - Complete Ship
-    List](https://web.archive.org/web/20120410082814/http://russian-ships.info/eng/warships/project_1134a.htm)
+  - [All Russian Kresta II Class Cruisers - Complete Ship List](https://web.archive.org/web/20120410082814/http://russian-ships.info/eng/warships/project_1134a.htm)
 
 [Category:蘇聯巡洋艦](https://zh.wikipedia.org/wiki/Category:蘇聯巡洋艦 "wikilink")

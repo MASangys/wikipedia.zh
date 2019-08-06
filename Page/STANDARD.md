@@ -1,6 +1,4 @@
-《**STANDARD**》是日本女子搖滾樂團[SCANDAL的第](../Page/SCANDAL_\(日本音樂團體\).md "wikilink")5張[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2013年10月2日由[Epic
-Records Japan
-Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
+《**STANDARD**》是日本女子搖滾樂團[SCANDAL的第](../Page/SCANDAL_\(日本音樂團體\).md "wikilink")5張[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2013年10月2日由[Epic Records Japan Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 概要
 
@@ -13,8 +11,7 @@ Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 1.  **Brand new wave** \[3:35\]
       -
         作詞：TOMOMI、山田智和　作曲：山田智和　編曲：川口圭太
-2.  **[OVER DRIVE](../Page/OVER_DRIVE_\(SCANDAL單曲\).md "wikilink")**
-    \[5:03\]
+2.  **[OVER DRIVE](../Page/OVER_DRIVE_\(SCANDAL單曲\).md "wikilink")** \[5:03\]
       -
         作詞・作曲：[中田康貴](../Page/中田康貴.md "wikilink")　編曲：中田康貴、
 3.  **火箭煙火**（） \[4:48\]
@@ -35,16 +32,13 @@ Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 8.  **[應該不會再見了、要保重喔](../Page/應該不會再見了、要保重喔.md "wikilink")** \[4:20\]
       -
         作詞・作曲：[柳澤亮太](../Page/SUPER_BEAVER.md "wikilink")　編曲：川口圭太
-9.  **[下弦月](https://zh.wikipedia.org/wiki/下弦月_\(SCANDAL單曲\) "wikilink")**
-    \[3:34\]
+9.  **[下弦月](https://zh.wikipedia.org/wiki/下弦月_\(SCANDAL單曲\) "wikilink")** \[3:34\]
       -
         作詞・作曲・編曲：山口高始
-10. **戀愛的[完形崩壞](https://zh.wikipedia.org/wiki/完形崩壞 "wikilink")**（）
-    \[4:00\]
+10. **戀愛的[完形崩壞](https://zh.wikipedia.org/wiki/完形崩壞 "wikilink")**（） \[4:00\]
       -
         作詞：RINA　作曲：RINA、　編曲：AxSxE
-11. **[你和未來及完全同期](https://zh.wikipedia.org/wiki/下弦月_\(SCANDAL單曲\) "wikilink")**（）
-    \[4:34\]
+11. **[你和未來及完全同期](https://zh.wikipedia.org/wiki/下弦月_\(SCANDAL單曲\) "wikilink")**（） \[4:34\]
       -
         作詞：TOMOMI　作曲・編曲：篤志
 12. **發光的眼淚**（） \[3:28\]
@@ -66,16 +60,11 @@ Inc.發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
   - [索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")介紹頁
       - [完全生產限定盤](http://www.sonymusic.co.jp/artist/scandal/discography/ESCL-4105)
-
       - [初回生產限定盤](http://www.sonymusic.co.jp/artist/scandal/discography/ESCL-4107)
-
       - [通常盤](http://www.sonymusic.co.jp/artist/scandal/discography/ESCL-4109)
-
   - 相關訪問
       - [BARKS專訪](http://www.barks.jp/news/?id=1000094921)
 
-[Category:SCANDAL音樂專輯](https://zh.wikipedia.org/wiki/Category:SCANDAL音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
-[Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
+[Category:SCANDAL音樂專輯](https://zh.wikipedia.org/wiki/Category:SCANDAL音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink") [Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
 
 1.

@@ -1,12 +1,8 @@
-《**NEWTRAL**》是日本樂隊[生物股長的第](https://zh.wikipedia.org/wiki/生物股長 "wikilink")5張原創專輯，於2012年2月29日由[Epic
-Records
-Japan發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
+《**NEWTRAL**》是日本樂隊[生物股長的第](https://zh.wikipedia.org/wiki/生物股長 "wikilink")5張原創專輯，於2012年2月29日由[Epic Records Japan發行](https://zh.wikipedia.org/wiki/Epic_Records_Japan_Inc. "wikilink")。
 
 ## 概要
 
-本作距離上一張專輯《[生物百科圖鑑～團員精選～](../Page/生物百科圖鑑～團員精選～.md "wikilink")》（[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")）相隔1年4個月發售，距離上一張原創專輯《[啟程之歌](../Page/啟程之歌_\(專輯\).md "wikilink")》則有相隔2年2個月。在《啟程之歌》和《NEWTRAL》兩張專輯之間，[生物股長發行了](https://zh.wikipedia.org/wiki/生物股長 "wikilink")6張單曲。其中《[鄉愁](../Page/鄉愁_\(生物股長單曲\).md "wikilink")》、《[感謝](../Page/感謝_\(生物股長單曲\).md "wikilink")》和《[因為有你](https://zh.wikipedia.org/wiki/因為有你 "wikilink")》因為早已收錄在《生物百科圖鑑～團員精選～》內，並沒有收錄在《NEWTRAL》。這張專輯收錄了接着的3張單曲（《[開心大笑/NEW
-WORLD
-MUSIC](https://zh.wikipedia.org/wiki/開心大笑/NEW_WORLD_MUSIC "wikilink")》、《[向前走](../Page/向前走_\(單曲\).md "wikilink")》和《[總有一天](../Page/總有一天_\(生物股長單曲\).md "wikilink")》）內的4首A面曲，再加上另外8首原創歌曲，合共12首歌。
+本作距離上一張專輯《[生物百科圖鑑～團員精選～](../Page/生物百科圖鑑～團員精選～.md "wikilink")》（[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")）相隔1年4個月發售，距離上一張原創專輯《[啟程之歌](../Page/啟程之歌_\(專輯\).md "wikilink")》則有相隔2年2個月。在《啟程之歌》和《NEWTRAL》兩張專輯之間，[生物股長發行了](https://zh.wikipedia.org/wiki/生物股長 "wikilink")6張單曲。其中《[鄉愁](../Page/鄉愁_\(生物股長單曲\).md "wikilink")》、《[感謝](../Page/感謝_\(生物股長單曲\).md "wikilink")》和《[因為有你](https://zh.wikipedia.org/wiki/因為有你 "wikilink")》因為早已收錄在《生物百科圖鑑～團員精選～》內，並沒有收錄在《NEWTRAL》。這張專輯收錄了接着的3張單曲（《[開心大笑/NEW WORLD MUSIC](https://zh.wikipedia.org/wiki/開心大笑/NEW_WORLD_MUSIC "wikilink")》、《[向前走](../Page/向前走_\(單曲\).md "wikilink")》和《[總有一天](../Page/總有一天_\(生物股長單曲\).md "wikilink")》）內的4首A面曲，再加上另外8首原創歌曲，合共12首歌。
 
 專輯分為兩種形式發售，其中「初回生産限定盤」以三面封口的紙盒和三面包裝，附送「『美術館？』由日本10組設計師及插畫師一同打造為生物股長量身設計明信片12張一組」、「生物卡片028」和「巡迴現場表演2012門票特別抽籤先行指南」，以及收錄了多場演唱會現場音源的CD「聲物百科寶鑑～團員自選現場演唱極精選～\[1\]」。另外，通常盤於[初回期間都會附送](../Page/限定版.md "wikilink")「生物卡片028」和「指南」。
 
@@ -18,16 +14,11 @@ MUSIC](https://zh.wikipedia.org/wiki/開心大笑/NEW_WORLD_MUSIC "wikilink")》
 
 以下為未曾收錄在單曲內的8首歌曲：
 
-  - **KISS KISS BANG
-    BANG：**這張專輯的主打曲，跟《[JOYFUL](https://zh.wikipedia.org/wiki/YELL/JOYFUL "wikilink")》一樣是一首快歌；也是朝日飲料「十六茶」的廣告歌曲。[水野良樹](../Page/水野良樹.md "wikilink")說這首歌是根據[新垣結衣](../Page/新垣結衣.md "wikilink")在該廣告中跟小孩子跳舞的印象而寫的。\[5\]音樂影片（PV）由[大根仁](../Page/大根仁.md "wikilink")執導，內容為[吉岡聖惠](../Page/吉岡聖惠.md "wikilink")於[架空時裝展上穿上](https://zh.wikipedia.org/wiki/架空 "wikilink")6套不同的服裝，在[伸展台步行的畫面](https://zh.wikipedia.org/wiki/T型台 "wikilink")。PV中完全沒有成員演奏歌曲的畫面。\[6\]生物股長於多個音樂節目宣傳專輯時多會演唱這首歌，例如《[MUSIC
-    STATION](../Page/MUSIC_STATION.md "wikilink")》\[7\]、《[MUSIC
-    JAPAN](../Page/MUSIC_JAPAN.md "wikilink")》\[8\]、《[Coming
-    Soon\!\!](../Page/Coming_Soon!!.md "wikilink")》\[9\]等等。
+  - **KISS KISS BANG BANG：**這張專輯的主打曲，跟《[JOYFUL](https://zh.wikipedia.org/wiki/YELL/JOYFUL "wikilink")》一樣是一首快歌；也是朝日飲料「十六茶」的廣告歌曲。[水野良樹](../Page/水野良樹.md "wikilink")說這首歌是根據[新垣結衣](../Page/新垣結衣.md "wikilink")在該廣告中跟小孩子跳舞的印象而寫的。\[5\]音樂影片（PV）由[大根仁](../Page/大根仁.md "wikilink")執導，內容為[吉岡聖惠](../Page/吉岡聖惠.md "wikilink")於[架空時裝展上穿上](https://zh.wikipedia.org/wiki/架空 "wikilink")6套不同的服裝，在[伸展台步行的畫面](https://zh.wikipedia.org/wiki/T型台 "wikilink")。PV中完全沒有成員演奏歌曲的畫面。\[6\]生物股長於多個音樂節目宣傳專輯時多會演唱這首歌，例如《[MUSIC STATION](../Page/MUSIC_STATION.md "wikilink")》\[7\]、《[MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")》\[8\]、《[Coming Soon\!\!](../Page/Coming_Soon!!.md "wikilink")》\[9\]等等。
 
 <!-- end list -->
 
-  - **去見你**（）**：**這首歌跟上一首不同，是一首[敘事曲](https://zh.wikipedia.org/wiki/敘事曲 "wikilink")。小野說他在歌詞寫進了他希望這張專輯，甚至是生物股長本身應該存在的方式。歌詞是小野在節目《》中得以認真思考關於唱歌和製作歌曲的事情，之後完成錄影後寫的。\[10\]生物股長也有在《MUSIC
-    STATION》表演這首歌\[11\]，為組合在該節目表演過的歌曲中唯一沒有作[商業搭配](../Page/商業搭配.md "wikilink")的歌曲。
+  - **去見你**（）**：**這首歌跟上一首不同，是一首[敘事曲](https://zh.wikipedia.org/wiki/敘事曲 "wikilink")。小野說他在歌詞寫進了他希望這張專輯，甚至是生物股長本身應該存在的方式。歌詞是小野在節目《》中得以認真思考關於唱歌和製作歌曲的事情，之後完成錄影後寫的。\[10\]生物股長也有在《MUSIC STATION》表演這首歌\[11\]，為組合在該節目表演過的歌曲中唯一沒有作[商業搭配](../Page/商業搭配.md "wikilink")的歌曲。
 
 <!-- end list -->
 
@@ -39,8 +30,7 @@ MUSIC](https://zh.wikipedia.org/wiki/開心大笑/NEW_WORLD_MUSIC "wikilink")》
 
 <!-- end list -->
 
-  - **白色日記簿**（）**：**由《[My song Your
-    song](../Page/My_song_Your_song.md "wikilink")》起，每張專輯必定會收錄一首由主唱吉岡作曲及填詞的歌曲。旋律早在2011年已經寫好，但決定發行專輯時才開始寫歌詞。由於這次歌詞寫得相當吃力，其他成員少有地給了吉岡一些建議。\[15\]
+  - **白色日記簿**（）**：**由《[My song Your song](../Page/My_song_Your_song.md "wikilink")》起，每張專輯必定會收錄一首由主唱吉岡作曲及填詞的歌曲。旋律早在2011年已經寫好，但決定發行專輯時才開始寫歌詞。由於這次歌詞寫得相當吃力，其他成員少有地給了吉岡一些建議。\[15\]
 
 <!-- end list -->
 
@@ -73,14 +63,10 @@ MUSIC](https://zh.wikipedia.org/wiki/開心大笑/NEW_WORLD_MUSIC "wikilink")》
 ## 外部連結
 
   - [生物股長官方網站](http://ikimonogakari.com/discography/album/escl-3827/)
-  - [Sony
-    Music](http://www.sonymusic.co.jp/Music/Arch/ES/Ikimonogakari/?ESCL-3827)
+  - [Sony Music](http://www.sonymusic.co.jp/Music/Arch/ES/Ikimonogakari/?ESCL-3827)
   - [台灣索尼音樂](https://web.archive.org/web/20120308122632/http://www.sonymusic.com.tw/album_info.php?al_prodno=88691951482)
 
-[Category:生物股長音樂專輯](https://zh.wikipedia.org/wiki/Category:生物股長音樂專輯 "wikilink")
-[Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink")
-[Category:2012年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon專輯週榜冠軍作品 "wikilink")
-[Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
+[Category:生物股長音樂專輯](https://zh.wikipedia.org/wiki/Category:生物股長音樂專輯 "wikilink") [Category:2012年音樂專輯](https://zh.wikipedia.org/wiki/Category:2012年音樂專輯 "wikilink") [Category:2012年Oricon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon專輯週榜冠軍作品 "wikilink") [Category:日本史詩唱片音樂專輯](https://zh.wikipedia.org/wiki/Category:日本史詩唱片音樂專輯 "wikilink")
 
 1.  這是台灣索尼音樂網站上的譯名。CD名稱原文為「」，意思不同，但是也有諧音。
 

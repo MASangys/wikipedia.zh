@@ -6,8 +6,7 @@
 
 ## 年表
 
-  - 2020年（預計） -
-    [東海環狀自動車道](../Page/東海環狀自動車道.md "wikilink")[大垣西IC](../Page/大垣西IC.md "wikilink")至[關廣見IC開通](https://zh.wikipedia.org/wiki/關廣見IC "wikilink")，此交流道也同時啟用\[1\]。
+  - 2020年（預計） - [東海環狀自動車道](../Page/東海環狀自動車道.md "wikilink")[大垣西IC](../Page/大垣西IC.md "wikilink")至[關廣見IC開通](https://zh.wikipedia.org/wiki/關廣見IC "wikilink")，此交流道也同時啟用\[1\]。
 
 ## 交流道周邊
 
@@ -16,8 +15,7 @@
 ## 鄰近設施
 
   - [東海環狀自動車道](../Page/東海環狀自動車道.md "wikilink")
-    *[糸貫IC](../Page/糸貫IC.md "wikilink")*（建設中） - **大野神戶IC**（建設中） -
-    (16)[大垣西IC](../Page/大垣西IC.md "wikilink")
+    *[糸貫IC](../Page/糸貫IC.md "wikilink")*（建設中） - **大野神戶IC**（建設中） - (16)[大垣西IC](../Page/大垣西IC.md "wikilink")
 
 ## 參考資料
 
@@ -29,7 +27,6 @@
 
   - [中日本高速道路](http://www.c-nexco.co.jp/)
 
-[Category:日本交流道_O](https://zh.wikipedia.org/wiki/Category:日本交流道_O "wikilink")
-[Category:岐阜縣交流道](https://zh.wikipedia.org/wiki/Category:岐阜縣交流道 "wikilink")
+[Category:日本交流道_O](https://zh.wikipedia.org/wiki/Category:日本交流道_O "wikilink") [Category:岐阜縣交流道](https://zh.wikipedia.org/wiki/Category:岐阜縣交流道 "wikilink")
 
 1.

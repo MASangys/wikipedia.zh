@@ -75,6 +75,4 @@ VS系列</p></td>
 
 ## 外部連結
 
-[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink")
-[Category:2000年作品](https://zh.wikipedia.org/wiki/Category:2000年作品 "wikilink")
-[Category:人命救助題材作品](https://zh.wikipedia.org/wiki/Category:人命救助題材作品 "wikilink")
+[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink") [Category:2000年作品](https://zh.wikipedia.org/wiki/Category:2000年作品 "wikilink") [Category:人命救助題材作品](https://zh.wikipedia.org/wiki/Category:人命救助題材作品 "wikilink")

@@ -23,18 +23,8 @@ DNA结合位点常常与一类被称为[转录因子](../Page/转录因子.md "w
 <!-- end list -->
 
   -
-  - [ENCODE threads
-    Explorer](http://www.nature.com/encode/#/threads/transcription-factor-motifs)
-    Transcription factor motifs at the [Nature
-    (journal)](https://zh.wikipedia.org/wiki/Nature_\(journal\) "wikilink")
+  - [ENCODE threads Explorer](http://www.nature.com/encode/#/threads/transcription-factor-motifs) Transcription factor motifs at the [Nature (journal)](https://zh.wikipedia.org/wiki/Nature_\(journal\) "wikilink")
 
-[Category:分子生物学](https://zh.wikipedia.org/wiki/Category:分子生物学 "wikilink")
-[Category:分子遺傳學](https://zh.wikipedia.org/wiki/Category:分子遺傳學 "wikilink")
-[Category:生物信息學](https://zh.wikipedia.org/wiki/Category:生物信息學 "wikilink")
-[Category:基因表現](https://zh.wikipedia.org/wiki/Category:基因表現 "wikilink")
-[Category:DNA](https://zh.wikipedia.org/wiki/Category:DNA "wikilink")
-[Category:蛋白质](https://zh.wikipedia.org/wiki/Category:蛋白质 "wikilink")
-[Category:转录因子](https://zh.wikipedia.org/wiki/Category:转录因子 "wikilink")
-[Category:DNA结合物质](https://zh.wikipedia.org/wiki/Category:DNA结合物质 "wikilink")
+[Category:分子生物学](https://zh.wikipedia.org/wiki/Category:分子生物学 "wikilink") [Category:分子遺傳學](https://zh.wikipedia.org/wiki/Category:分子遺傳學 "wikilink") [Category:生物信息學](https://zh.wikipedia.org/wiki/Category:生物信息學 "wikilink") [Category:基因表現](https://zh.wikipedia.org/wiki/Category:基因表現 "wikilink") [Category:DNA](https://zh.wikipedia.org/wiki/Category:DNA "wikilink") [Category:蛋白质](https://zh.wikipedia.org/wiki/Category:蛋白质 "wikilink") [Category:转录因子](https://zh.wikipedia.org/wiki/Category:转录因子 "wikilink") [Category:DNA结合物质](https://zh.wikipedia.org/wiki/Category:DNA结合物质 "wikilink")
 
 1.

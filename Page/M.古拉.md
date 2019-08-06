@@ -2,8 +2,7 @@
 
 ## 经历
 
-古拉在霹雳州[曼绒县](../Page/曼绒县.md "wikilink")[红土坎出生](https://zh.wikipedia.org/wiki/红土坎 "wikilink")，他的家族以割胶维生\[4\]\[5\]。他和家人也需照顾家畜，放学后需要帮忙清理装牛乳的容器\[6\]。
-1982年他被伦敦的[林肯律師學院](../Page/林肯律師學院.md "wikilink")录取为[大律師](../Page/大律師.md "wikilink")\[7\]。
+古拉在霹雳州[曼绒县](../Page/曼绒县.md "wikilink")[红土坎出生](https://zh.wikipedia.org/wiki/红土坎 "wikilink")，他的家族以割胶维生\[4\]\[5\]。他和家人也需照顾家畜，放学后需要帮忙清理装牛乳的容器\[6\]。 1982年他被伦敦的[林肯律師學院](../Page/林肯律師學院.md "wikilink")录取为[大律師](../Page/大律師.md "wikilink")\[7\]。
 
 ## 政治生涯
 
@@ -11,8 +10,7 @@
 
 ### 马来人至上
 
-2009年12月，古拉质疑”[马来人至上](../Page/马来人至上.md "wikilink")“、”[新经济政策](../Page/新经济政策.md "wikilink")“和“[马来西亚下议院对非马来人的歧视](https://zh.wikipedia.org/wiki/马来西亚下议院 "wikilink")”引发了争议：[马来西亚联邦宪法中](https://zh.wikipedia.org/wiki/马来西亚联邦宪法 "wikilink")[第153条并没有阐明马来人至上的概念](../Page/马来西亚宪法第153条.md "wikilink")。2009年12月5日，霹雳马来民族主义者（GMP）主席拿督斯里莫哈末依斯迈博士向怡保行动党办公室提呈抗议备忘录\[9\]
-\[10\]。
+2009年12月，古拉质疑”[马来人至上](../Page/马来人至上.md "wikilink")“、”[新经济政策](../Page/新经济政策.md "wikilink")“和“[马来西亚下议院对非马来人的歧视](https://zh.wikipedia.org/wiki/马来西亚下议院 "wikilink")”引发了争议：[马来西亚联邦宪法中](https://zh.wikipedia.org/wiki/马来西亚联邦宪法 "wikilink")[第153条并没有阐明马来人至上的概念](../Page/马来西亚宪法第153条.md "wikilink")。2009年12月5日，霹雳马来民族主义者（GMP）主席拿督斯里莫哈末依斯迈博士向怡保行动党办公室提呈抗议备忘录\[9\] \[10\]。
 
 ### 印度人权
 
@@ -161,19 +159,9 @@
 
 ## 参考文献
 
-[Category:马来西亚第9届国会议员](https://zh.wikipedia.org/wiki/Category:马来西亚第9届国会议员 "wikilink")
-[Category:马来西亚第11届国会议员](https://zh.wikipedia.org/wiki/Category:马来西亚第11届国会议员 "wikilink")
-[Category:马来西亚第12届国会议员](https://zh.wikipedia.org/wiki/Category:马来西亚第12届国会议员 "wikilink")
-[Category:马来西亚第13届国会议员](https://zh.wikipedia.org/wiki/Category:马来西亚第13届国会议员 "wikilink")
-[Category:马来西亚第14届国会议员](https://zh.wikipedia.org/wiki/Category:马来西亚第14届国会议员 "wikilink")
-[Category:现任马来西亚民主行动党国会下议院议员](https://zh.wikipedia.org/wiki/Category:现任马来西亚民主行动党国会下议院议员 "wikilink")
-[Category:印度裔马来西亚人](https://zh.wikipedia.org/wiki/Category:印度裔马来西亚人 "wikilink")
-[Category:霹雳州人](https://zh.wikipedia.org/wiki/Category:霹雳州人 "wikilink")
-[Category:马来西亚印度教徒](https://zh.wikipedia.org/wiki/Category:马来西亚印度教徒 "wikilink")
+[Category:马来西亚第9届国会议员](https://zh.wikipedia.org/wiki/Category:马来西亚第9届国会议员 "wikilink") [Category:马来西亚第11届国会议员](https://zh.wikipedia.org/wiki/Category:马来西亚第11届国会议员 "wikilink") [Category:马来西亚第12届国会议员](https://zh.wikipedia.org/wiki/Category:马来西亚第12届国会议员 "wikilink") [Category:马来西亚第13届国会议员](https://zh.wikipedia.org/wiki/Category:马来西亚第13届国会议员 "wikilink") [Category:马来西亚第14届国会议员](https://zh.wikipedia.org/wiki/Category:马来西亚第14届国会议员 "wikilink") [Category:现任马来西亚民主行动党国会下议院议员](https://zh.wikipedia.org/wiki/Category:现任马来西亚民主行动党国会下议院议员 "wikilink") [Category:印度裔马来西亚人](https://zh.wikipedia.org/wiki/Category:印度裔马来西亚人 "wikilink") [Category:霹雳州人](https://zh.wikipedia.org/wiki/Category:霹雳州人 "wikilink") [Category:马来西亚印度教徒](https://zh.wikipedia.org/wiki/Category:马来西亚印度教徒 "wikilink")
 
-1.  *[Senarai Ahli Dewan
-    Rakyat](http://www.parlimen.gov.my/index.php?parti=All&p=All&Filter=Lihat&uweb=dr&modload=ahlidewan)*.
-    [Parlimen Malaysia](../Page/马来西亚国会.md "wikilink"), \[2012-7-23\]
+1.  *[Senarai Ahli Dewan Rakyat](http://www.parlimen.gov.my/index.php?parti=All&p=All&Filter=Lihat&uweb=dr&modload=ahlidewan)*. [Parlimen Malaysia](../Page/马来西亚国会.md "wikilink"), \[2012-7-23\]
 
 2.
 
@@ -187,11 +175,9 @@
 7.
 8.
 
-9.  [GMP Kesal Tindakan M.Kulasegaran Soal Isu Ketuanan
-    Melayu](http://www.malaysia-today.net/2009/12/05/gmp-kesal-tindakan-mkulasegaran-soal-isu-ketuanan-melayu/)
+9.  [GMP Kesal Tindakan M.Kulasegaran Soal Isu Ketuanan Melayu](http://www.malaysia-today.net/2009/12/05/gmp-kesal-tindakan-mkulasegaran-soal-isu-ketuanan-melayu/)
 
-10. [Ketuanan Melayu terus dipersoal
-    pembangkang](http://ww1.utusan.com.my/utusan/info.asp?y=2009&dt=1208&pub=Utusan_Malaysia&sec=Politik&pg=po_05.htm)
+10. [Ketuanan Melayu terus dipersoal pembangkang](http://ww1.utusan.com.my/utusan/info.asp?y=2009&dt=1208&pub=Utusan_Malaysia&sec=Politik&pg=po_05.htm)
 
 11.
 

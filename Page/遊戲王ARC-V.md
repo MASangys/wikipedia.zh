@@ -2,11 +2,9 @@
 
 本作為系列中首部原作者[高橋和希](../Page/高橋和希.md "wikilink")僅保留原作之名，無擔任角色原案且不參與制作的遊戲王作品，一改以往的慣例，角色原案則由漫畫版《[遊戲王ZEXAL](https://zh.wikipedia.org/wiki/遊戲王ZEXAL "wikilink")》作畫的三好直人擔任。本作監督為曾經執導《[遊戲王5D's](https://zh.wikipedia.org/wiki/遊戲王5D's "wikilink")》的小野勝巳。角色設計為過去參與作畫監督、客串角色設計的橫田明美擔任。編劇統籌為過去參與遊戲王ZEXAL腳本的上代務擔任。本作在系列史上第一次啟用總作畫監督，由過去參與四代作品作畫監督的[原憲一](../Page/原憲一.md "wikilink")擔任。
 
-特別單篇漫畫由三好直人負責，於《[V
-Jump](https://zh.wikipedia.org/wiki/V_Jump "wikilink")》2014年5月21日出版號刊載。
+特別單篇漫畫由三好直人負責，於《[V Jump](https://zh.wikipedia.org/wiki/V_Jump "wikilink")》2014年5月21日出版號刊載。
 
-電視動畫於2014年4月6日起在日本[東京電視台](../Page/東京電視台.md "wikilink")聯播網播放\[1\]\[2\]
-。台灣[東森幼幼台](../Page/東森幼幼台.md "wikilink")自2016年5月16日、香港[ViuTV](../Page/ViuTV.md "wikilink")自2018年4月17日播放。
+電視動畫於2014年4月6日起在日本[東京電視台](../Page/東京電視台.md "wikilink")聯播網播放\[1\]\[2\] 。台灣[東森幼幼台](../Page/東森幼幼台.md "wikilink")自2016年5月16日、香港[ViuTV](../Page/ViuTV.md "wikilink")自2018年4月17日播放。
 
 ## 故事大綱
 
@@ -1992,8 +1990,7 @@ BS放送</p></td>
 
 ### 故事大綱
 
-時間是近未來。故事舞台是在決鬥技術進步的「舞網市」。
-由於「擁有質量的實體投影」的開發，「動作決鬥」的誕生為世界帶來了意想不到的全新發展，但人們還沒有意識到，未来再次開始搖晃起這破滅的鐘擺……。
+時間是近未來。故事舞台是在決鬥技術進步的「舞網市」。 由於「擁有質量的實體投影」的開發，「動作決鬥」的誕生為世界帶來了意想不到的全新發展，但人們還沒有意識到，未来再次開始搖晃起這破滅的鐘擺……。
 神出鬼沒，擁有四重人格的娛樂決鬥者--「幻影」**榊遊矢**，為了找到能決定世界未來命運的卡片--「**創世終焉龍**」，遭到了「**獅子娛樂集團**」的社長**赤馬零兒**的追捕。
 零兒追捕遊矢的真正目的為何? 決定世界命運的「**創世終焉龍**」又擁有什麼可怕的力量? 傳說中的**鐘擺召喚**又將會為決鬥帶來什麼影響?
 
@@ -2391,13 +2388,7 @@ BS放送</p></td>
   - [動畫官方網站](http://www.tv-tokyo.co.jp/anime/yugioh-arcv)
 
   -
-[Category:遊戲王](https://zh.wikipedia.org/wiki/Category:遊戲王 "wikilink")
-[Category:2014年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2014年東京電視網動畫 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:V_Jump](https://zh.wikipedia.org/wiki/Category:V_Jump "wikilink")
-[Category:交換卡片遊戲題材作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材作品 "wikilink")
-[Category:GALLOP](https://zh.wikipedia.org/wiki/Category:GALLOP "wikilink")
-[Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
+[Category:遊戲王](https://zh.wikipedia.org/wiki/Category:遊戲王 "wikilink") [Category:2014年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2014年東京電視網動畫 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:V_Jump](https://zh.wikipedia.org/wiki/Category:V_Jump "wikilink") [Category:交換卡片遊戲題材作品](https://zh.wikipedia.org/wiki/Category:交換卡片遊戲題材作品 "wikilink") [Category:GALLOP](https://zh.wikipedia.org/wiki/Category:GALLOP "wikilink") [Category:香港電視娛樂外購動畫](https://zh.wikipedia.org/wiki/Category:香港電視娛樂外購動畫 "wikilink")
 
 1.
 2.

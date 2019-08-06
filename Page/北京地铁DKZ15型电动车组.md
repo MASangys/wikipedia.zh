@@ -58,9 +58,7 @@ DKZ15型于2007年生产，车头为天蓝色涂装，侧面为银灰色涂装�
 
 ## 列车图片
 
-Image:北京地铁10号线二期车辆控制台.jpg|列车驾驶室内 Image:Route Map of Beijing Subway Line
-10, 20130813.jpeg|列车闪灯图 Image:Beijing Subway - Line 10 - Shoujingmao
-Station - Platform.JPG|列车在[首经贸站](../Page/首经贸站.md "wikilink")
+Image:北京地铁10号线二期车辆控制台.jpg|列车驾驶室内 Image:Route Map of Beijing Subway Line 10, 20130813.jpeg|列车闪灯图 Image:Beijing Subway - Line 10 - Shoujingmao Station - Platform.JPG|列车在[首经贸站](../Page/首经贸站.md "wikilink")
 
 ## 列车运送过程
 
@@ -79,9 +77,7 @@ Station - Platform.JPG|列车在[首经贸站](../Page/首经贸站.md "wikilink
   - [列车介绍](https://web.archive.org/web/20150508053707/http://www.chinacnr.com/p325.aspx?ProductID=21&ParentID=8)
   - [DKZ15型列车出站视频](http://v.youku.com/v_show/id_XMjg3MzMwNzE2.html)
 
-[Category:北京地铁DKZ系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DKZ系列电动车组 "wikilink")
-[Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink")
-[Category:北京地铁10号线](https://zh.wikipedia.org/wiki/Category:北京地铁10号线 "wikilink")
+[Category:北京地铁DKZ系列电动车组](https://zh.wikipedia.org/wiki/Category:北京地铁DKZ系列电动车组 "wikilink") [Category:中车长客制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车长客制铁路车辆 "wikilink") [Category:北京地铁10号线](https://zh.wikipedia.org/wiki/Category:北京地铁10号线 "wikilink")
 
 1.
 2.

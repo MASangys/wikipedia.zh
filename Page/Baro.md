@@ -1,5 +1,4 @@
-**車善玗**（，）曾為韓國男子團體[B1A4](../Page/B1A4.md "wikilink")组合的成員之一
-。出生於韓國[光州廣域市](../Page/光州廣域市.md "wikilink")，是隊中的Rapper。組合的專輯中也收錄Baro創作歌曲。2016年ShareFakta_Kpop「南韓最帥臉蛋」前100名的男星中，Baro為第57名。
+**車善玗**（，）曾為韓國男子團體[B1A4](../Page/B1A4.md "wikilink")组合的成員之一 。出生於韓國[光州廣域市](../Page/光州廣域市.md "wikilink")，是隊中的Rapper。組合的專輯中也收錄Baro創作歌曲。2016年ShareFakta_Kpop「南韓最帥臉蛋」前100名的男星中，Baro為第57名。
 2018月6月30日，與[WM娛樂合約到期](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")，不續約。同年7月17日，與[HODOO娛樂簽訂專屬合約](https://zh.wikipedia.org/wiki/HODOO娛樂 "wikilink")。
 
 ## 影視作品
@@ -20,7 +19,7 @@
 | 2017                                                        | KBS                                                    | [Manhole：夢遊仙境的奉弼](../Page/Manhole：夢遊仙境的奉弼.md "wikilink")      | 趙錫泰          |
 | 2018                                                        | MBC                                                    | [壞刑警](../Page/壞刑警.md "wikilink")                              | 蔡東允          |
 | 2019                                                        | K LEAGUE                                               | Two Hearts                                                    | 車善玗          |
-| 2019                                                        | [MBN](https://zh.wikipedia.org/wiki/MBN "wikilink")    | [Level Up](https://zh.wikipedia.org/wiki/Level_Up "wikilink") | 郭韓哲          |
+| 2019                                                        | [MBN](https://zh.wikipedia.org/wiki/MBN "wikilink")    | [Level Up](../Page/Level_Up.md "wikilink")                    | 郭韓哲          |
 
 ### 電影
 
@@ -64,8 +63,4 @@
 | 廣告名稱             | 日期    |
 | CROWN Choco Heim | 2015年 |
 
-[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink")
-[Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
-[Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:光州廣域市出身人物](https://zh.wikipedia.org/wiki/Category:光州廣域市出身人物 "wikilink")
-[Category:車姓](https://zh.wikipedia.org/wiki/Category:車姓 "wikilink")
+[Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:光州廣域市出身人物](https://zh.wikipedia.org/wiki/Category:光州廣域市出身人物 "wikilink") [Category:車姓](https://zh.wikipedia.org/wiki/Category:車姓 "wikilink")

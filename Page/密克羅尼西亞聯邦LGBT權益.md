@@ -29,8 +29,7 @@
 
 ## 參考文獻
 
-[Category:密克羅尼西亞聯邦](https://zh.wikipedia.org/wiki/Category:密克羅尼西亞聯邦 "wikilink")
-[Category:大洋洲LGBT權益](https://zh.wikipedia.org/wiki/Category:大洋洲LGBT權益 "wikilink")
+[Category:密克羅尼西亞聯邦](https://zh.wikipedia.org/wiki/Category:密克羅尼西亞聯邦 "wikilink") [Category:大洋洲LGBT權益](https://zh.wikipedia.org/wiki/Category:大洋洲LGBT權益 "wikilink")
 
 1.
 2.

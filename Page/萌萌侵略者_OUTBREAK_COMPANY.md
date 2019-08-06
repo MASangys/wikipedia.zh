@@ -1,5 +1,4 @@
-《**萌萌侵略者 OUTBREAK
-COMPANY**》（）是一系列由[榊一郎](../Page/榊一郎.md "wikilink")所寫的日本[輕小說](../Page/輕小說.md "wikilink")，並由負責插圖。簡稱《**OBC**》。標题的“Outbreak”在本作中意味着具有爆发扩散性的感染力\[1\]。此系列自2011年12月起至今已經在[講談社出版了](https://zh.wikipedia.org/wiki/講談社 "wikilink")12冊，並由[尖端出版](../Page/尖端出版.md "wikilink")發行其中文版。曾獲第一屆《[店員最愛輕小說大賞](../Page/店員最愛輕小說大賞.md "wikilink")》第7位\[2\]。自2012年11月起亦經之手在講談社的雜誌漫畫化連載。2013年10月3日开始在[TBS電視台](../Page/TBS電視台.md "wikilink")播放[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
+《**萌萌侵略者 OUTBREAK COMPANY**》（）是一系列由[榊一郎](../Page/榊一郎.md "wikilink")所寫的日本[輕小說](../Page/輕小說.md "wikilink")，並由負責插圖。簡稱《**OBC**》。標题的“Outbreak”在本作中意味着具有爆发扩散性的感染力\[1\]。此系列自2011年12月起至今已經在[講談社出版了](https://zh.wikipedia.org/wiki/講談社 "wikilink")12冊，並由[尖端出版](../Page/尖端出版.md "wikilink")發行其中文版。曾獲第一屆《[店員最愛輕小說大賞](../Page/店員最愛輕小說大賞.md "wikilink")》第7位\[2\]。自2012年11月起亦經之手在講談社的雜誌漫畫化連載。2013年10月3日开始在[TBS電視台](../Page/TBS電視台.md "wikilink")播放[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
 ## 劇情簡介
 
@@ -316,13 +315,11 @@ COMPANY**》（）是一系列由[榊一郎](../Page/榊一郎.md "wikilink")所
 
 ## 電視動畫
 
-以《**OUTBREAK
-COMPANY**》為標題，2013年10月3日起在[TBS電視台](../Page/TBS電視台.md "wikilink")、[每日放送](../Page/每日放送.md "wikilink")、[中部日本放送](../Page/中部日本放送.md "wikilink")、[BS-TBS](../Page/BS-TBS.md "wikilink")播放。海外方面，台灣2013年10月11日起每周日晚上21:30分在[i-Fun動漫台網路電視播放](https://zh.wikipedia.org/wiki/i-Fun動漫台 "wikilink")（[有繁體中文字幕](http://www.i-funtv.com.tw/news-info.php?id=201)）。中國於2013年10月3日起每周五凌晨04:00分在[搜狐視頻網路電視播放](https://zh.wikipedia.org/wiki/搜狐視頻 "wikilink")（[有簡體中文字幕](http://tv.sohu.com/20131101/n389346605.shtml)）。
+以《**OUTBREAK COMPANY**》為標題，2013年10月3日起在[TBS電視台](../Page/TBS電視台.md "wikilink")、[每日放送](../Page/每日放送.md "wikilink")、[中部日本放送](../Page/中部日本放送.md "wikilink")、[BS-TBS](../Page/BS-TBS.md "wikilink")播放。海外方面，台灣2013年10月11日起每周日晚上21:30分在[i-Fun動漫台網路電視播放](https://zh.wikipedia.org/wiki/i-Fun動漫台 "wikilink")（[有繁體中文字幕](http://www.i-funtv.com.tw/news-info.php?id=201)）。中國於2013年10月3日起每周五凌晨04:00分在[搜狐視頻網路電視播放](https://zh.wikipedia.org/wiki/搜狐視頻 "wikilink")（[有簡體中文字幕](http://tv.sohu.com/20131101/n389346605.shtml)）。
 
 ### 製作人員
 
-  - 原作：[榊一郎](../Page/榊一郎.md "wikilink")「萌萌侵略者 OUTBREAK
-    COMPANY」（[講談社輕小說文庫](../Page/講談社輕小說文庫.md "wikilink")刊）
+  - 原作：[榊一郎](../Page/榊一郎.md "wikilink")「萌萌侵略者 OUTBREAK COMPANY」（[講談社輕小說文庫](../Page/講談社輕小說文庫.md "wikilink")刊）
   - 原作插畫、角色原案：Yuugen
   - 監督：及川啟
   - 系列構成：[荒川稔久](../Page/荒川稔久.md "wikilink")
@@ -635,19 +632,13 @@ COMPANY**》為標題，2013年10月3日起在[TBS電視台](../Page/TBS電視�
 
 ## 外部連結
 
-  - [輕小說文庫｜萌萌侵略者 |
-    作品介紹｜講談社コミックプラス](http://kc.kodansha.co.jp/product/top.php/1234641836)
+  - [輕小說文庫｜萌萌侵略者 | 作品介紹｜講談社コミックプラス](http://kc.kodansha.co.jp/product/top.php/1234641836)
 
-
-  - [good\!アフタヌーン｜萌萌侵略者 |
-    作品介紹｜講談社コミックプラス](http://lanove.kodansha.co.jp/official/moerushinryakusha/)
-
+  - [good\!アフタヌーン｜萌萌侵略者 | 作品介紹｜講談社コミックプラス](http://lanove.kodansha.co.jp/official/moerushinryakusha/)
 
   - [萌萌侵略者 漫畫版試讀｜アフタヌーン官方網站](http://www.moae.jp/comic/outbreakcompany)
 
-  - [萌萌侵略者
-    特設網站](https://web.archive.org/web/20120308014134/http://lanove.kodansha.co.jp/9906/10950.html)
-
+  - [萌萌侵略者 特設網站](https://web.archive.org/web/20120308014134/http://lanove.kodansha.co.jp/9906/10950.html)
 
   - [萌萌侵略者 官方網站｜TBS電視](http://www.tbs.co.jp/anime/obc/)
 
@@ -656,29 +647,11 @@ COMPANY**》為標題，2013年10月3日起在[TBS電視台](../Page/TBS電視�
 
   - [i-Fun動漫台萌萌侵略者介紹](http://www.i-funtv.com.tw/tv-show-info.php?id=194)
 
-
   - [《萌萌侵略者》TVB官方網站](http://programme.tvb.com/animation/outbreakcompany/)
-
 
   - [香港電視大典：萌萌侵略者](http://zh-hk.etvhk.wikia.com/wiki/%E8%90%8C%E8%90%8C%E4%BE%B5%E7%95%A5%E8%80%85)
 
-
-[Category:日本奇幻小說](https://zh.wikipedia.org/wiki/Category:日本奇幻小說 "wikilink")
-[Category:講談社輕小說文庫](https://zh.wikipedia.org/wiki/Category:講談社輕小說文庫 "wikilink")
-[Category:2011年日本小說](https://zh.wikipedia.org/wiki/Category:2011年日本小說 "wikilink")
-[Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
-[Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink")
-[Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink")
-[Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink")
-[Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink")
-[Category:御宅族題材作品](https://zh.wikipedia.org/wiki/Category:御宅族題材作品 "wikilink")
-[Category:2013年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年TBS電視網動畫 "wikilink")
-[Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink")
-[Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink")
-[Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink")
-[Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
-[Category:Feel.](https://zh.wikipedia.org/wiki/Category:Feel. "wikilink")
-[Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
+[Category:日本奇幻小說](https://zh.wikipedia.org/wiki/Category:日本奇幻小說 "wikilink") [Category:講談社輕小說文庫](https://zh.wikipedia.org/wiki/Category:講談社輕小說文庫 "wikilink") [Category:2011年日本小說](https://zh.wikipedia.org/wiki/Category:2011年日本小說 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:講談社](https://zh.wikipedia.org/wiki/Category:講談社 "wikilink") [Category:講談社漫畫](https://zh.wikipedia.org/wiki/Category:講談社漫畫 "wikilink") [Category:奇幻漫畫](https://zh.wikipedia.org/wiki/Category:奇幻漫畫 "wikilink") [Category:青年漫畫](https://zh.wikipedia.org/wiki/Category:青年漫畫 "wikilink") [Category:御宅族題材作品](https://zh.wikipedia.org/wiki/Category:御宅族題材作品 "wikilink") [Category:2013年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2013年TBS電視網動畫 "wikilink") [Category:奇幻動畫](https://zh.wikipedia.org/wiki/Category:奇幻動畫 "wikilink") [Category:輕小說改編漫畫](https://zh.wikipedia.org/wiki/Category:輕小說改編漫畫 "wikilink") [Category:輕小說改編動畫](https://zh.wikipedia.org/wiki/Category:輕小說改編動畫 "wikilink") [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink") [Category:Feel.](https://zh.wikipedia.org/wiki/Category:Feel. "wikilink") [Category:異世界轉生、轉移題材作品](https://zh.wikipedia.org/wiki/Category:異世界轉生、轉移題材作品 "wikilink")
 
 1.  参见小说第2卷第4章。
 2.

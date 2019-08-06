@@ -2,8 +2,7 @@
 
 ## 历史
 
-1945年首飞了在[雅克-3基础上研制雅克](https://zh.wikipedia.org/wiki/雅克-3 "wikilink")－3УТИ。为降低生产成本和训练费用，教练机的发动机换成低功率的风冷活塞发动机。雅克－3УТИ的批生产型被命名为雅克－11。
-　
+1945年首飞了在[雅克-3基础上研制雅克](https://zh.wikipedia.org/wiki/雅克-3 "wikilink")－3УТИ。为降低生产成本和训练费用，教练机的发动机换成低功率的风冷活塞发动机。雅克－3УТИ的批生产型被命名为雅克－11。 　
 
 ## 基本資料
 
@@ -63,25 +62,13 @@
 ## 參考資料
 
   - 國共戰爭時期中國軍用飛機，中國之翼出版社，ISBN 957-8628-02-1
-  - Gordon, Yefim, Dmitry Komissarov and Sergey Komissarov. *OKB
-    Yakovlev: A History of the Design Bureau and its Aircraft*. Hinkley,
-    UK: Midland Publishing, 2005. ISBN 1-85780-203-9.
-  - [Gunston,
-    Bill](https://zh.wikipedia.org/wiki/Bill_Gunston "wikilink"). *The
-    Osprey Encyclopedia of Russian Aircraft 1975–1995*. London, UK:
-    Osprey, 1995. ISBN 1-85532-405-9.
-  - Gunston, Bill and Yefim Gordon. *Yakovlev Aircraft since 1924*.
-    London, UK: Putnam Aeronautical Books, 1997. ISBN 1-55750-978-6.
-  - Thompson, Warren. "Twin Mustang in Korea". *International Air Power
-    Review*. Volume 3, Winter 2001/2002. Norwalk, Connecticut,
-    USA:AIRtime Publishing. ISBN 1-880588-36-6. ISSN 1473-9917.
-    pp. 156–167.
+  - Gordon, Yefim, Dmitry Komissarov and Sergey Komissarov. *OKB Yakovlev: A History of the Design Bureau and its Aircraft*. Hinkley, UK: Midland Publishing, 2005. ISBN 1-85780-203-9.
+  - [Gunston, Bill](https://zh.wikipedia.org/wiki/Bill_Gunston "wikilink"). *The Osprey Encyclopedia of Russian Aircraft 1975–1995*. London, UK: Osprey, 1995. ISBN 1-85532-405-9.
+  - Gunston, Bill and Yefim Gordon. *Yakovlev Aircraft since 1924*. London, UK: Putnam Aeronautical Books, 1997. ISBN 1-55750-978-6.
+  - Thompson, Warren. "Twin Mustang in Korea". *International Air Power Review*. Volume 3, Winter 2001/2002. Norwalk, Connecticut, USA:AIRtime Publishing. ISBN 1-880588-36-6. ISSN 1473-9917. pp. 156–167.
 
 ## 外部連結
 
   - [雅克－11（Yak-11）中級教練機](https://web.archive.org/web/20050206045130/http://cwlam2000.0catch.com/plaaf02.htm)
 
-[Category:軍用教練機](https://zh.wikipedia.org/wiki/Category:軍用教練機 "wikilink")
-[Category:蘇聯教練機](https://zh.wikipedia.org/wiki/Category:蘇聯教練機 "wikilink")
-[Category:中國人民解放軍空軍教練機](https://zh.wikipedia.org/wiki/Category:中國人民解放軍空軍教練機 "wikilink")
-[Category:雅克設計局航空器](https://zh.wikipedia.org/wiki/Category:雅克設計局航空器 "wikilink")
+[Category:軍用教練機](https://zh.wikipedia.org/wiki/Category:軍用教練機 "wikilink") [Category:蘇聯教練機](https://zh.wikipedia.org/wiki/Category:蘇聯教練機 "wikilink") [Category:中國人民解放軍空軍教練機](https://zh.wikipedia.org/wiki/Category:中國人民解放軍空軍教練機 "wikilink") [Category:雅克設計局航空器](https://zh.wikipedia.org/wiki/Category:雅克設計局航空器 "wikilink")

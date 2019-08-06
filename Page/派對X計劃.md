@@ -1,6 +1,4 @@
-《**-{zh-cn:X计划;zh-hk:瘋狂X派對;zh-tw:派對X計劃;}-**》（），2012年的一部[喜劇](../Page/喜劇.md "wikilink")電影，由Nima
-Nourizadeh導演，Michael Bacall和Matt
-Drake編劇，製作人是[陶德·菲利普斯](../Page/陶德·菲利普斯.md "wikilink")。主演有[湯瑪斯·曼恩](../Page/湯瑪斯·曼恩_\(演員\).md "wikilink")、和。被譽為有史以來最偉大的派對電影。在專业影评人中评价较低，但在读者群中评价较高。其配乐和剧情转折堪称完美。
+《**-{zh-cn:X计划;zh-hk:瘋狂X派對;zh-tw:派對X計劃;}-**》（），2012年的一部[喜劇](../Page/喜劇.md "wikilink")電影，由Nima Nourizadeh導演，Michael Bacall和Matt Drake編劇，製作人是[陶德·菲利普斯](../Page/陶德·菲利普斯.md "wikilink")。主演有[湯瑪斯·曼恩](../Page/湯瑪斯·曼恩_\(演員\).md "wikilink")、和。被譽為有史以來最偉大的派對電影。在專业影评人中评价较低，但在读者群中评价较高。其配乐和剧情转折堪称完美。
 
 ## 劇情
 
@@ -23,11 +21,4 @@ Drake編劇，製作人是[陶德·菲利普斯](../Page/陶德·菲利普斯.md
   -
   -
   -
-[Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink")
-[Category:英语電影](https://zh.wikipedia.org/wiki/Category:英语電影 "wikilink")
-[Category:2010年代喜剧片](https://zh.wikipedia.org/wiki/Category:2010年代喜剧片 "wikilink")
-[Category:美国电影作品](https://zh.wikipedia.org/wiki/Category:美国电影作品 "wikilink")
-[Category:美国青少年喜剧片](https://zh.wikipedia.org/wiki/Category:美国青少年喜剧片 "wikilink")
-[Category:导演处女作](https://zh.wikipedia.org/wiki/Category:导演处女作 "wikilink")
-[Category:一天以内背景电影](https://zh.wikipedia.org/wiki/Category:一天以内背景电影 "wikilink")
-[Category:华纳兄弟电影](https://zh.wikipedia.org/wiki/Category:华纳兄弟电影 "wikilink")
+[Category:2012年電影](https://zh.wikipedia.org/wiki/Category:2012年電影 "wikilink") [Category:英语電影](https://zh.wikipedia.org/wiki/Category:英语電影 "wikilink") [Category:2010年代喜剧片](https://zh.wikipedia.org/wiki/Category:2010年代喜剧片 "wikilink") [Category:美国电影作品](https://zh.wikipedia.org/wiki/Category:美国电影作品 "wikilink") [Category:美国青少年喜剧片](https://zh.wikipedia.org/wiki/Category:美国青少年喜剧片 "wikilink") [Category:导演处女作](https://zh.wikipedia.org/wiki/Category:导演处女作 "wikilink") [Category:一天以内背景电影](https://zh.wikipedia.org/wiki/Category:一天以内背景电影 "wikilink") [Category:华纳兄弟电影](https://zh.wikipedia.org/wiki/Category:华纳兄弟电影 "wikilink")

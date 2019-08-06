@@ -11,8 +11,6 @@
 ## 參考書目
 
   -
-[Category:班布里奇级驱逐舰](https://zh.wikipedia.org/wiki/Category:班布里奇级驱逐舰 "wikilink")
-[Category:美国一战驱逐舰](https://zh.wikipedia.org/wiki/Category:美国一战驱逐舰 "wikilink")
-[Category:1902年竣工的船只](https://zh.wikipedia.org/wiki/Category:1902年竣工的船只 "wikilink")
+[Category:班布里奇级驱逐舰](https://zh.wikipedia.org/wiki/Category:班布里奇级驱逐舰 "wikilink") [Category:美国一战驱逐舰](https://zh.wikipedia.org/wiki/Category:美国一战驱逐舰 "wikilink") [Category:1902年竣工的船只](https://zh.wikipedia.org/wiki/Category:1902年竣工的船只 "wikilink")
 
 1.  [美國海軍軍艦字典（DANFS）簡介](http://www.hazegray.org/danfs/destroy/dd5txt.htm)

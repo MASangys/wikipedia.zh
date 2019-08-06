@@ -1,5 +1,4 @@
-《**-{RICH MAN, POOR
-WOMAN}-**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")於2012年7月9日至2012年9月17日播出的[月九連續劇](../Page/富士電視台週一晚間九點連續劇.md "wikilink")，由[小栗旬](../Page/小栗旬.md "wikilink")\[1\]主演。台灣緯來日本台於2012年7月21日同期播出，劇名為《-{多金社長小資女}-》；特別篇於2013年12月11日播出，劇名為《-{多金社長小資女之同居挑戰中}-》。
+《**-{RICH MAN, POOR WOMAN}-**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../Page/富士電視台.md "wikilink")於2012年7月9日至2012年9月17日播出的[月九連續劇](../Page/富士電視台週一晚間九點連續劇.md "wikilink")，由[小栗旬](../Page/小栗旬.md "wikilink")\[1\]主演。台灣緯來日本台於2012年7月21日同期播出，劇名為《-{多金社長小資女}-》；特別篇於2013年12月11日播出，劇名為《-{多金社長小資女之同居挑戰中}-》。
 
 韓國製作公司IHQ於2017年宣布翻拍此作，共16集\[2\]。
 
@@ -112,9 +111,7 @@ WOMAN}-**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../
 
 ## 歌曲
 
-  - 主題曲：[miwa](https://zh.wikipedia.org/wiki/miwa "wikilink")
-    《[向着光](../Page/向着光.md "wikilink")》（[Sony Music
-    Records](../Page/Sony_Music_Records.md "wikilink")）
+  - 主題曲：[miwa](https://zh.wikipedia.org/wiki/miwa "wikilink") 《[向着光](../Page/向着光.md "wikilink")》（[Sony Music Records](../Page/Sony_Music_Records.md "wikilink")）
   - 插曲：miwa《Napa》（Sony Music Records）
 
 ## 收視率
@@ -244,32 +241,14 @@ WOMAN}-**》（）是[日本](../Page/日本.md "wikilink")[富士電視台](../
 
 ## 外部連結
 
-  - [RICH MAN, POOR
-    WOMAN](http://www.fujitv.co.jp/richman-poorwoman/index.html)
-  - [RICH MAN, POOR
-    WOMAN](https://web.archive.org/web/20120627223326/http://www.fujitv.co.jp/cn/drama/future/richman.html)
-
+  - [RICH MAN, POOR WOMAN](http://www.fujitv.co.jp/richman-poorwoman/index.html)
+  - [RICH MAN, POOR WOMAN](https://web.archive.org/web/20120627223326/http://www.fujitv.co.jp/cn/drama/future/richman.html)
   - [多金社長小資女－緯來日本台官方網站](http://japan.videoland.com.tw/channel/1207a/index.html)
   - [多金社長小資女之同居挑戰中－緯來日本台官方網站](http://japan.videoland.com.tw/channel/20131102/default.htm)
 
 ## 節目的變遷
 
-[Category:富士電視台週一晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週一晚間九點連續劇 "wikilink")
-[Category:富士電視台特別劇集](https://zh.wikipedia.org/wiki/Category:富士電視台特別劇集 "wikilink")
-[Category:2012年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年開播的日本電視劇集 "wikilink")
-[Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink")
-[Category:職場戀情連續劇](https://zh.wikipedia.org/wiki/Category:職場戀情連續劇 "wikilink")
-[Category:日本浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:日本浪漫喜劇電視劇 "wikilink")
-[Category:經濟電視劇](https://zh.wikipedia.org/wiki/Category:經濟電視劇 "wikilink")
-[Category:東京背景電視劇](https://zh.wikipedia.org/wiki/Category:東京背景電視劇 "wikilink")
-[Category:紐約市背景電視節目](https://zh.wikipedia.org/wiki/Category:紐約市背景電視節目 "wikilink")
-[Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
-[Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
-[Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
-[Category:安達奈緒子劇本電視劇](https://zh.wikipedia.org/wiki/Category:安達奈緒子劇本電視劇 "wikilink")
-[Category:電腦工作題材電視節目](https://zh.wikipedia.org/wiki/Category:電腦工作題材電視節目 "wikilink")
+[Category:富士電視台週一晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:富士電視台週一晚間九點連續劇 "wikilink") [Category:富士電視台特別劇集](https://zh.wikipedia.org/wiki/Category:富士電視台特別劇集 "wikilink") [Category:2012年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2012年開播的日本電視劇集 "wikilink") [Category:2013年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2013年電視特別劇集 "wikilink") [Category:職場戀情連續劇](https://zh.wikipedia.org/wiki/Category:職場戀情連續劇 "wikilink") [Category:日本浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:日本浪漫喜劇電視劇 "wikilink") [Category:經濟電視劇](https://zh.wikipedia.org/wiki/Category:經濟電視劇 "wikilink") [Category:東京背景電視劇](https://zh.wikipedia.org/wiki/Category:東京背景電視劇 "wikilink") [Category:紐約市背景電視節目](https://zh.wikipedia.org/wiki/Category:紐約市背景電視節目 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink") [Category:安達奈緒子劇本電視劇](https://zh.wikipedia.org/wiki/Category:安達奈緒子劇本電視劇 "wikilink") [Category:電腦工作題材電視節目](https://zh.wikipedia.org/wiki/Category:電腦工作題材電視節目 "wikilink")
 
 1.  [小栗旬、共演２人にデレデレ「俺、おいしい役だな」](http://sankei.jp.msn.com/entertainments/news/120622/ent12062214290019-n1.htm)
-
-2.  [단독 日드라마 '리치맨 푸어우먼', 국내
-    리메이크](http://www.ytn.co.kr/_sn/0117_201706231504249858)
+2.  [단독 日드라마 '리치맨 푸어우먼', 국내 리메이크](http://www.ytn.co.kr/_sn/0117_201706231504249858)

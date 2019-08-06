@@ -1,12 +1,4 @@
-《**初音未来 -歌姬计划- F 2nd**》（，）是一款由[世嘉](../Page/世嘉.md "wikilink")與[Crypton
-Future
-Media為](https://zh.wikipedia.org/wiki/Crypton_Future_Media "wikilink")[PlayStation
-Vita和](../Page/PlayStation_Vita.md "wikilink")[PlayStation
-3平臺開發的](../Page/PlayStation_3.md "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")。這是[初音未来
--歌姬计划-系列的第六款遊戲](../Page/初音未来_-歌姬计划-.md "wikilink")。於2013年12月13日宣布《初音未来
--歌姬计划- f 2nd》於2014年3月6日發佈於PlayStation 3及PlayStation
-Vita平臺。\[1\]\[2\]預計共四十首PV登場之外，還將從前系列作服裝模組中精選備受玩家好評的高人氣服裝模組，並於2014年[台北國際電玩展](../Page/台北國際電玩展.md "wikilink")發布官方繁體中文版的消息。\[3\]
-且已於2014年12月11日於台灣、香港及東南亞等地發售。
+《**初音未来 -歌姬计划- F 2nd**》（，）是一款由[世嘉](../Page/世嘉.md "wikilink")與[Crypton Future Media為](https://zh.wikipedia.org/wiki/Crypton_Future_Media "wikilink")[PlayStation Vita和](../Page/PlayStation_Vita.md "wikilink")[PlayStation 3平臺開發的](../Page/PlayStation_3.md "wikilink")[音樂遊戲](../Page/音樂遊戲.md "wikilink")。這是[初音未来 -歌姬计划-系列的第六款遊戲](../Page/初音未来_-歌姬计划-.md "wikilink")。於2013年12月13日宣布《初音未来 -歌姬计划- f 2nd》於2014年3月6日發佈於PlayStation 3及PlayStation Vita平臺。\[1\]\[2\]預計共四十首PV登場之外，還將從前系列作服裝模組中精選備受玩家好評的高人氣服裝模組，並於2014年[台北國際電玩展](../Page/台北國際電玩展.md "wikilink")發布官方繁體中文版的消息。\[3\] 且已於2014年12月11日於台灣、香港及東南亞等地發售。
 
 ## 新增要素\[4\]
 
@@ -39,8 +31,7 @@ Vita平臺。\[1\]\[2\]預計共四十首PV登場之外，還將從前系列作�
 
 ### 选项
 
-  - 加入了Cross Save 功能，可让PlayStation 3及PlayStation
-    Vita共用一个存档进行游戏（需要登录[索尼娛樂網絡](../Page/索尼娛樂網絡.md "wikilink")）。
+  - 加入了Cross Save 功能，可让PlayStation 3及PlayStation Vita共用一个存档进行游戏（需要登录[索尼娛樂網絡](../Page/索尼娛樂網絡.md "wikilink")）。
   - （限PlayStation Vita版）可以更改刮擦模式为轻推操作杆。
   - （限PlayStation Vita版）增加PS3版「F」中的简单调整按下时机功能。
 
@@ -620,42 +611,26 @@ Paradichlorobenzene</p></td>
 
   -
   -
-  - [《初音未来 -歌姬计划-
-    F 2nd》官網釋出新遊戲要素、歌曲及對應服裝相關情報](http://home.gamer.com.tw/creationDetail.php?sn=2272666)
+  - [《初音未来 -歌姬计划- F 2nd》官網釋出新遊戲要素、歌曲及對應服裝相關情報](http://home.gamer.com.tw/creationDetail.php?sn=2272666)
 
-[Category:2014年電子遊戲](https://zh.wikipedia.org/wiki/Category:2014年電子遊戲 "wikilink")
-[Category:初音未来_-歌姬计划-_系列](https://zh.wikipedia.org/wiki/Category:初音未来_-歌姬计划-_系列 "wikilink")
-[Category:世嘉遊戲](https://zh.wikipedia.org/wiki/Category:世嘉遊戲 "wikilink")
-[Category:PlayStation_3遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_3遊戲 "wikilink")
-[Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink")
-[Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
-[Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")
-[Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
+[Category:2014年電子遊戲](https://zh.wikipedia.org/wiki/Category:2014年電子遊戲 "wikilink") [Category:初音未来_-歌姬计划-_系列](https://zh.wikipedia.org/wiki/Category:初音未来_-歌姬计划-_系列 "wikilink") [Category:世嘉遊戲](https://zh.wikipedia.org/wiki/Category:世嘉遊戲 "wikilink") [Category:PlayStation_3遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_3遊戲 "wikilink") [Category:PlayStation_Vita遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita遊戲 "wikilink") [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
-1.  [『初音ミク -プロジェクト ディーヴァ-
-    F 2nd』ナノウ氏書き下ろし曲ほか、多数の楽曲＆モジュールを公開！　エディットモードなどの詳細も](http://www.famitsu.com/news/201312/13044873.html)
+1.  [『初音ミク -プロジェクト ディーヴァ- F 2nd』ナノウ氏書き下ろし曲ほか、多数の楽曲＆モジュールを公開！　エディットモードなどの詳細も](http://www.famitsu.com/news/201312/13044873.html)
 
-2.  [「初音ミク -Project DIVA-
-    F 2nd」，最大3種類まで掛け合わせることが可能になった「ヘルプ/チャレンジアイテム」の詳細が明らかに。収録楽曲情報なども紹介](http://www.4gamer.net/games/225/G022515/20131209028/)
+2.  [「初音ミク -Project DIVA- F 2nd」，最大3種類まで掛け合わせることが可能になった「ヘルプ/チャレンジアイテム」の詳細が明らかに。収録楽曲情報なども紹介](http://www.4gamer.net/games/225/G022515/20131209028/)
 
 3.  [《初音未來名伶計畫F 2nd》繁體中文版開發中](http://www.gamebase.com.tw/forum/601/topic/97002607/1)
 
-4.  [遊戲介紹｜初音未來 -Project DIVA-
-    F 2nd](http://miku.sega.jp/f2/vita/cht/game.html)
+4.  [遊戲介紹｜初音未來 -Project DIVA- F 2nd](http://miku.sega.jp/f2/vita/cht/game.html)
 
-5.  [DIVA房間・AR｜初音未來 -Project DIVA-
-    F 2nd](http://miku.sega.jp/f2/vita/cht/divaroom_ar.html#divaroom)
+5.  [DIVA房間・AR｜初音未來 -Project DIVA- F 2nd](http://miku.sega.jp/f2/vita/cht/divaroom_ar.html#divaroom)
 
-6.  [DIVA房間・AR｜初音未來 -Project DIVA-
-    F 2nd](http://miku.sega.jp/f2/vita/cht/divaroom_ar.html#ar)
+6.  [DIVA房間・AR｜初音未來 -Project DIVA- F 2nd](http://miku.sega.jp/f2/vita/cht/divaroom_ar.html#ar)
 
-7.  详见[編輯｜初音未來 -Project DIVA-
-    F 2nd](http://miku.sega.jp/f2/vita/cht/edit.html)
+7.  详见[編輯｜初音未來 -Project DIVA- F 2nd](http://miku.sega.jp/f2/vita/cht/edit.html)
 
-8.  [エクストラデータ｜初音ミク -Project DIVA-
-    F 2nd](http://miku.sega.jp/f2/vita/dlc.html)
+8.  [エクストラデータ｜初音ミク -Project DIVA- F 2nd](http://miku.sega.jp/f2/vita/dlc.html)
 
-9.  [EXTRA DATA|初音未來 -Project DIVA-
-    F 2nd](http://miku.sega.jp/f2/vita/cht/dlc.html)
+9.  [EXTRA DATA|初音未來 -Project DIVA- F 2nd](http://miku.sega.jp/f2/vita/cht/dlc.html)
 
 10.

@@ -1,40 +1,26 @@
-[IBEX_35_performance_August_2009.png](https://zh.wikipedia.org/wiki/File:IBEX_35_performance_August_2009.png "fig:IBEX_35_performance_August_2009.png")
-[IBEX_35_21-01-2008_24-01-2008.svg](https://zh.wikipedia.org/wiki/File:IBEX_35_21-01-2008_24-01-2008.svg "fig:IBEX_35_21-01-2008_24-01-2008.svg")
+[IBEX_35_performance_August_2009.png](https://zh.wikipedia.org/wiki/File:IBEX_35_performance_August_2009.png "fig:IBEX_35_performance_August_2009.png") [IBEX_35_21-01-2008_24-01-2008.svg](https://zh.wikipedia.org/wiki/File:IBEX_35_21-01-2008_24-01-2008.svg "fig:IBEX_35_21-01-2008_24-01-2008.svg")
 
-**IBEX 35**（；；IBEX是**Índice Bursatil
-Español**的縮寫，字面意思是西班牙交易指數）是[西班牙](../Page/西班牙.md "wikilink")[馬德里證券交易所的基準](https://zh.wikipedia.org/wiki/馬德里證券交易所 "wikilink")[股市指數](https://zh.wikipedia.org/wiki/股市指數 "wikilink")，於1992年啟用，由[西班牙證券市場公司](../Page/西班牙證券市場公司.md "wikilink")的子公司Sociedad
-de Bolsas計算并管理。IBEX
-35是一種市值加權指數，包含35個在[馬德里證券交易所綜合指數中最具](https://zh.wikipedia.org/wiki/馬德里證券交易所綜合指數 "wikilink")[流動性的西班牙股票](https://zh.wikipedia.org/wiki/市場流動性 "wikilink")，每年調整兩次。\[1\]
-IBEX
-35的[期權](../Page/期權.md "wikilink")和[期貨交易由BME的另一家子公司Mercado](https://zh.wikipedia.org/wiki/期貨 "wikilink")
-Español de Futuros Financieros提供。\[2\]
+**IBEX 35**（；；IBEX是**Índice Bursatil Español**的縮寫，字面意思是西班牙交易指數）是[西班牙](../Page/西班牙.md "wikilink")[馬德里證券交易所的基準](https://zh.wikipedia.org/wiki/馬德里證券交易所 "wikilink")[股市指數](https://zh.wikipedia.org/wiki/股市指數 "wikilink")，於1992年啟用，由[西班牙證券市場公司](../Page/西班牙證券市場公司.md "wikilink")的子公司Sociedad de Bolsas計算并管理。IBEX 35是一種市值加權指數，包含35個在[馬德里證券交易所綜合指數中最具](https://zh.wikipedia.org/wiki/馬德里證券交易所綜合指數 "wikilink")[流動性的西班牙股票](https://zh.wikipedia.org/wiki/市場流動性 "wikilink")，每年調整兩次。\[1\] IBEX 35的[期權](../Page/期權.md "wikilink")和[期貨交易由BME的另一家子公司Mercado](https://zh.wikipedia.org/wiki/期貨 "wikilink") Español de Futuros Financieros提供。\[2\]
 
 ## 歷史
 
 IBEX 35在1992年1月14日公佈，\[3\] 不過其計算值可追溯到1989年12月29日，當時基值為3000。\[4\]
 
-因為本國經濟增長穩定而迅速，\[5\] 2000年至2007年間，該指數高於同期大多數西方國家的同類指數。\[6\]
-2007年11月8日，IBEX 35達到歷史最高值15,945.70點。\[7\]\[8\]
+因為本國經濟增長穩定而迅速，\[5\] 2000年至2007年間，該指數高於同期大多數西方國家的同類指數。\[6\] 2007年11月8日，IBEX 35達到歷史最高值15,945.70點。\[7\]\[8\]
 
-[2008年1月股市崩盤](https://zh.wikipedia.org/wiki/經濟大衰退 "wikilink")，21日閉市時IBEX
-35下跌7.5%，這是自1987年以來西班牙股票市場第二大嚴重下跌，\[9\] 三日之後回升6.95%。\[10\]
+[2008年1月股市崩盤](https://zh.wikipedia.org/wiki/經濟大衰退 "wikilink")，21日閉市時IBEX 35下跌7.5%，這是自1987年以來西班牙股票市場第二大嚴重下跌，\[9\] 三日之後回升6.95%。\[10\]
 
 ## 規則
 
 ### 選擇
 
-IBEX 35的成份每年六月和十二月由技術諮詢委員會調整兩次，\[11\] 任何變動都會影響七月或一月第一個交易日。\[12\]
-一般來說，這35個股票的選擇與否取決於其過去六個月中以[歐元計算的最大交易額](https://zh.wikipedia.org/wiki/歐元 "wikilink")，而其平均自由浮動的市場價值至少要有0.3%。\[13\]
-任何候選股或者在過去六個月中每個交易日成交量為三分之一，\[14\] 或者要排在市值總額前二十名才行。\[15\]
+IBEX 35的成份每年六月和十二月由技術諮詢委員會調整兩次，\[11\] 任何變動都會影響七月或一月第一個交易日。\[12\] 一般來說，這35個股票的選擇與否取決於其過去六個月中以[歐元計算的最大交易額](https://zh.wikipedia.org/wiki/歐元 "wikilink")，而其平均自由浮動的市場價值至少要有0.3%。\[13\] 任何候選股或者在過去六個月中每個交易日成交量為三分之一，\[14\] 或者要排在市值總額前二十名才行。\[15\]
 
 ### 加權
 
 [Palacio_de_la_Bolsa_de_Madrid_-_01.jpg](https://zh.wikipedia.org/wiki/File:Palacio_de_la_Bolsa_de_Madrid_-_01.jpg "fig:Palacio_de_la_Bolsa_de_Madrid_-_01.jpg")
 
-IBEX
-35是一個[市值加權指數](https://zh.wikipedia.org/wiki/市值加權指數 "wikilink")。\[16\]
-計算每個成份的權重時都要用市值乘以一個自由浮動的係數（0.1至1）。\[17\]
-任何有50%或以上股份自由浮動的公司都會被指定乘以1。\[18\]
+IBEX 35是一個[市值加權指數](https://zh.wikipedia.org/wiki/市值加權指數 "wikilink")。\[16\] 計算每個成份的權重時都要用市值乘以一個自由浮動的係數（0.1至1）。\[17\] 任何有50%或以上股份自由浮動的公司都會被指定乘以1。\[18\]
 
 ### 計算
 
@@ -46,10 +32,7 @@ IBEX
 
 ## 成份
 
-[Openbank_BCN.jpg](https://zh.wikipedia.org/wiki/File:Openbank_BCN.jpg "fig:Openbank_BCN.jpg")的分行\]\]
-[Ifc_Zara_20071110.jpg](https://zh.wikipedia.org/wiki/File:Ifc_Zara_20071110.jpg "fig:Ifc_Zara_20071110.jpg")的印地紡的分支Zara\]\]
-[Pastoriza,_Arteixo_Galiza_08b.jpg](https://zh.wikipedia.org/wiki/File:Pastoriza,_Arteixo_Galiza_08b.jpg "fig:Pastoriza,_Arteixo_Galiza_08b.jpg")的精煉廠\]\]
-2018年12月24日IBEX 35成分股如下：\[20\]
+[Openbank_BCN.jpg](https://zh.wikipedia.org/wiki/File:Openbank_BCN.jpg "fig:Openbank_BCN.jpg")的分行\]\] [Ifc_Zara_20071110.jpg](https://zh.wikipedia.org/wiki/File:Ifc_Zara_20071110.jpg "fig:Ifc_Zara_20071110.jpg")的印地紡的分支Zara\]\] [Pastoriza,_Arteixo_Galiza_08b.jpg](https://zh.wikipedia.org/wiki/File:Pastoriza,_Arteixo_Galiza_08b.jpg "fig:Pastoriza,_Arteixo_Galiza_08b.jpg")的精煉廠\]\] 2018年12月24日IBEX 35成分股如下：\[20\]
 
 <table>
 <thead>
@@ -352,16 +335,12 @@ IBEX
 
   - [Aprende a invertir en Bolsa](http://www.bolsawallstreet.com)
   - [Official IBEX 35 information site](http://www.ibex35.com/)
-  - [IBEX 35 composition and prices from the Bolsa de
-    Madrid](https://web.archive.org/web/20080112202202/http://www.bolsamadrid.es/ing/mercados/acciones/accind1_1.htm)
-  - [IBEX 35 profile via
-    Wikinvest](https://zh.wikipedia.org/wiki/Wikinvest:_IBEX_35 "wikilink")
+  - [IBEX 35 composition and prices from the Bolsa de Madrid](https://web.archive.org/web/20080112202202/http://www.bolsamadrid.es/ing/mercados/acciones/accind1_1.htm)
+  - [IBEX 35 profile via Wikinvest](https://zh.wikipedia.org/wiki/Wikinvest:_IBEX_35 "wikilink")
 
-[Category:IBEX-35](https://zh.wikipedia.org/wiki/Category:IBEX-35 "wikilink")
-[Category:1992年西班牙建立](https://zh.wikipedia.org/wiki/Category:1992年西班牙建立 "wikilink")
+[Category:IBEX-35](https://zh.wikipedia.org/wiki/Category:IBEX-35 "wikilink") [Category:1992年西班牙建立](https://zh.wikipedia.org/wiki/Category:1992年西班牙建立 "wikilink")
 
-1.  [IBEX 35 facts via
-    Wikinvest](https://zh.wikipedia.org/wiki/Wikinvest:IBEX_35 "wikilink")
+1.  [IBEX 35 facts via Wikinvest](https://zh.wikipedia.org/wiki/Wikinvest:IBEX_35 "wikilink")
 
 2.
 

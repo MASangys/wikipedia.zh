@@ -173,19 +173,7 @@
   -
   -
   -
-[Category:2014年电影](https://zh.wikipedia.org/wiki/Category:2014年电影 "wikilink")
-[Category:粤语电影](https://zh.wikipedia.org/wiki/Category:粤语电影 "wikilink")
-[Category:香港喜劇片](https://zh.wikipedia.org/wiki/Category:香港喜劇片 "wikilink")
-[Category:性喜剧片](https://zh.wikipedia.org/wiki/Category:性喜剧片 "wikilink")
-[Category:2010年代喜剧片](https://zh.wikipedia.org/wiki/Category:2010年代喜剧片 "wikilink")
-[Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink")
-[Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink")
-[Category:安乐电影](https://zh.wikipedia.org/wiki/Category:安乐电影 "wikilink")
-[Category:香港電影金像獎最佳新演員獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳新演員獲獎電影 "wikilink")
-[Category:香港電影金像獎最佳女配角獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳女配角獲獎電影 "wikilink")
-[Category:卖淫题材电影](https://zh.wikipedia.org/wiki/Category:卖淫题材电影 "wikilink")
-[Category:香港賀歲片](https://zh.wikipedia.org/wiki/Category:香港賀歲片 "wikilink")
-[Category:2014年香港電影](https://zh.wikipedia.org/wiki/Category:2014年香港電影 "wikilink")
+[Category:2014年电影](https://zh.wikipedia.org/wiki/Category:2014年电影 "wikilink") [Category:粤语电影](https://zh.wikipedia.org/wiki/Category:粤语电影 "wikilink") [Category:香港喜劇片](https://zh.wikipedia.org/wiki/Category:香港喜劇片 "wikilink") [Category:性喜剧片](https://zh.wikipedia.org/wiki/Category:性喜剧片 "wikilink") [Category:2010年代喜剧片](https://zh.wikipedia.org/wiki/Category:2010年代喜剧片 "wikilink") [Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink") [Category:2000年代香港電影作品](https://zh.wikipedia.org/wiki/Category:2000年代香港電影作品 "wikilink") [Category:安乐电影](https://zh.wikipedia.org/wiki/Category:安乐电影 "wikilink") [Category:香港電影金像獎最佳新演員獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳新演員獲獎電影 "wikilink") [Category:香港電影金像獎最佳女配角獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳女配角獲獎電影 "wikilink") [Category:卖淫题材电影](https://zh.wikipedia.org/wiki/Category:卖淫题材电影 "wikilink") [Category:香港賀歲片](https://zh.wikipedia.org/wiki/Category:香港賀歲片 "wikilink") [Category:2014年香港電影](https://zh.wikipedia.org/wiki/Category:2014年香港電影 "wikilink")
 
 1.
 
@@ -193,8 +181,7 @@
 3.
 4.
 
-5.  [《金雞sss》大年初一香港上映
-    陳冠希大尺度客串嫖客](http://ent.takungpao.com.hk/movie/q/2014/0123/2236350.html)，大公網，2014年1月23日
+5.  [《金雞sss》大年初一香港上映 陳冠希大尺度客串嫖客](http://ent.takungpao.com.hk/movie/q/2014/0123/2236350.html)，大公網，2014年1月23日
 
 6.  天天迎賓　志偉甩底 吳君如陳可辛爆罵戰 《明報周刊》第2359期，74-76頁，2014年1月25日
 
@@ -204,7 +191,6 @@
 9.
 
 10. [1月27日至2月2日票房紀錄](http://www.hkfilmart.com/boxofficedetail.asp?lang=cn&wbid=989)
-
 
 11.
 

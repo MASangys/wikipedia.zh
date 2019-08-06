@@ -20,14 +20,8 @@
   -
 {{-}}
 
-[Category:SOHO中國物業](https://zh.wikipedia.org/wiki/Category:SOHO中國物業 "wikilink")
-[Category:2014年完工建築物](https://zh.wikipedia.org/wiki/Category:2014年完工建築物 "wikilink")
-[Category:北京市朝阳区建筑物](https://zh.wikipedia.org/wiki/Category:北京市朝阳区建筑物 "wikilink")
-[Category:北京市寫字樓](https://zh.wikipedia.org/wiki/Category:北京市寫字樓 "wikilink")
+[Category:SOHO中國物業](https://zh.wikipedia.org/wiki/Category:SOHO中國物業 "wikilink") [Category:2014年完工建築物](https://zh.wikipedia.org/wiki/Category:2014年完工建築物 "wikilink") [Category:北京市朝阳区建筑物](https://zh.wikipedia.org/wiki/Category:北京市朝阳区建筑物 "wikilink") [Category:北京市寫字樓](https://zh.wikipedia.org/wiki/Category:北京市寫字樓 "wikilink")
 
-1.  [抄袭望京SOHO?
-    重庆美全让潘石屹很愤怒](http://finance.people.com.cn/GB/70846/17889129.html)，[人民网](../Page/人民网.md "wikilink")。
-2.  [Zaha Hadid vs. the Pirates Copycat Architects in China Take Aim at
-    the
-    Stars](http://www.spiegel.de/international/zeitgeist/pirated-copy-of-design-by-star-architect-hadid-being-built-in-china-a-874390.html)，《[明镜](../Page/明镜.md "wikilink")》周刊。
+1.  [抄袭望京SOHO? 重庆美全让潘石屹很愤怒](http://finance.people.com.cn/GB/70846/17889129.html)，[人民网](../Page/人民网.md "wikilink")。
+2.  [Zaha Hadid vs. the Pirates Copycat Architects in China Take Aim at the Stars](http://www.spiegel.de/international/zeitgeist/pirated-copy-of-design-by-star-architect-hadid-being-built-in-china-a-874390.html)，《[明镜](../Page/明镜.md "wikilink")》周刊。
 3.

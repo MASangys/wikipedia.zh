@@ -87,10 +87,6 @@
 
 ## 參考資料
 
-[Category:1994年電子遊戲](https://zh.wikipedia.org/wiki/Category:1994年電子遊戲 "wikilink")
-[Category:超級任天堂遊戲](https://zh.wikipedia.org/wiki/Category:超級任天堂遊戲 "wikilink")
-[Category:养成游戏](https://zh.wikipedia.org/wiki/Category:养成游戏 "wikilink")
-[Category:史克威爾艾尼克斯遊戲](https://zh.wikipedia.org/wiki/Category:史克威爾艾尼克斯遊戲 "wikilink")
-[Category:機器人電子遊戲](https://zh.wikipedia.org/wiki/Category:機器人電子遊戲 "wikilink")
+[Category:1994年電子遊戲](https://zh.wikipedia.org/wiki/Category:1994年電子遊戲 "wikilink") [Category:超級任天堂遊戲](https://zh.wikipedia.org/wiki/Category:超級任天堂遊戲 "wikilink") [Category:养成游戏](https://zh.wikipedia.org/wiki/Category:养成游戏 "wikilink") [Category:史克威爾艾尼克斯遊戲](https://zh.wikipedia.org/wiki/Category:史克威爾艾尼克斯遊戲 "wikilink") [Category:機器人電子遊戲](https://zh.wikipedia.org/wiki/Category:機器人電子遊戲 "wikilink")
 
 1.

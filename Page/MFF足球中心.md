@@ -1,5 +1,4 @@
-[Naadam_archery.jpg](https://zh.wikipedia.org/wiki/File:Naadam_archery.jpg "fig:Naadam_archery.jpg")
-**MFF足球中心**（）是位于[蒙古国](../Page/蒙古国.md "wikilink")首都[乌兰巴托](../Page/乌兰巴托.md "wikilink")的一个体育场。\[1\]
+[Naadam_archery.jpg](https://zh.wikipedia.org/wiki/File:Naadam_archery.jpg "fig:Naadam_archery.jpg") **MFF足球中心**（）是位于[蒙古国](../Page/蒙古国.md "wikilink")首都[乌兰巴托](../Page/乌兰巴托.md "wikilink")的一个体育场。\[1\]
 
 ## 简介
 
@@ -7,8 +6,7 @@
 
 ## 参考文献
 
-[Category:蒙古国体育](https://zh.wikipedia.org/wiki/Category:蒙古国体育 "wikilink")
-[Category:乌兰巴托建筑](https://zh.wikipedia.org/wiki/Category:乌兰巴托建筑 "wikilink")
+[Category:蒙古国体育](https://zh.wikipedia.org/wiki/Category:蒙古国体育 "wikilink") [Category:乌兰巴托建筑](https://zh.wikipedia.org/wiki/Category:乌兰巴托建筑 "wikilink")
 
 1.
 2.

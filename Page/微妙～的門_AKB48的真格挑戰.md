@@ -1,5 +1,4 @@
-《**光TV presents 微妙～的門
-AKB48的真格挑戰**》（）是日本有線[付費電視頻道](https://zh.wikipedia.org/wiki/付費電視 "wikilink")[光TV在](https://zh.wikipedia.org/wiki/光TV "wikilink")2012年6月29日開始提供訂閱的[AKB48](../Page/AKB48.md "wikilink")[綜藝](../Page/綜藝節目.md "wikilink")[紀錄片](../Page/紀錄片.md "wikilink")節目。由於節目全名較長，一般習慣簡稱為**真格挑戰**（）。
+《**光TV presents 微妙～的門 AKB48的真格挑戰**》（）是日本有線[付費電視頻道](https://zh.wikipedia.org/wiki/付費電視 "wikilink")[光TV在](https://zh.wikipedia.org/wiki/光TV "wikilink")2012年6月29日開始提供訂閱的[AKB48](../Page/AKB48.md "wikilink")[綜藝](../Page/綜藝節目.md "wikilink")[紀錄片](../Page/紀錄片.md "wikilink")節目。由於節目全名較長，一般習慣簡稱為**真格挑戰**（）。
 
 ## 概要
 
@@ -547,9 +546,7 @@ AKB48和光TV的大型合作企劃，在2011年9月29日開始2012年2月23日�
   - [ひかりTV](http://48tobira.jp/)
 
   -
-[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink")
-[Category:日本電視綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視綜藝節目 "wikilink")
-[Category:2012年日本電視節目](https://zh.wikipedia.org/wiki/Category:2012年日本電視節目 "wikilink")
+[Category:AKB48電視節目](https://zh.wikipedia.org/wiki/Category:AKB48電視節目 "wikilink") [Category:日本電視綜藝節目](https://zh.wikipedia.org/wiki/Category:日本電視綜藝節目 "wikilink") [Category:2012年日本電視節目](https://zh.wikipedia.org/wiki/Category:2012年日本電視節目 "wikilink")
 
 1.  是岩佐在[AKB48第27張單曲選拔總選舉](../Page/AKB48第27張單曲選拔總選舉.md "wikilink")的排名（33位）。
 2.  大家在AKB48第27張單曲選拔總選舉的排名（59位）。

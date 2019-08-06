@@ -1,6 +1,4 @@
-**Now
-Production**（，又称Nowpro）是开发与发行电子游戏的日本电子游戏公司。公司于1986年建立，并开始为[南梦宫](../Page/南梦宫.md "wikilink")、[Hudson
-Soft](../Page/Hudson_Soft.md "wikilink")、[卡普空](../Page/卡普空.md "wikilink")、[TAITO](https://zh.wikipedia.org/wiki/TAITO "wikilink")、[科乐美](https://zh.wikipedia.org/wiki/科乐美 "wikilink")、[世嘉](../Page/世嘉.md "wikilink")、[任天堂](../Page/任天堂.md "wikilink")等大型日本公司开发各种游戏。
+**Now Production**（，又称Nowpro）是开发与发行电子游戏的日本电子游戏公司。公司于1986年建立，并开始为[南梦宫](../Page/南梦宫.md "wikilink")、[Hudson Soft](../Page/Hudson_Soft.md "wikilink")、[卡普空](../Page/卡普空.md "wikilink")、[TAITO](https://zh.wikipedia.org/wiki/TAITO "wikilink")、[科乐美](https://zh.wikipedia.org/wiki/科乐美 "wikilink")、[世嘉](../Page/世嘉.md "wikilink")、[任天堂](../Page/任天堂.md "wikilink")等大型日本公司开发各种游戏。
 
 Nowpro现在还参与手机软件、在线游戏、弹珠机和老虎机 软硬件的开发。
 
@@ -60,8 +58,7 @@ Nowpro现在还参与手机软件、在线游戏、弹珠机和老虎机 软硬�
 
   - （1991年）
 
-  - [Doraemon: Nobita no Dorabian Night](../Page/哆啦A梦电影作品.md "wikilink")
-    (1991 and 1992)
+  - [Doraemon: Nobita no Dorabian Night](../Page/哆啦A梦电影作品.md "wikilink") (1991 and 1992)
 
   - （1990年）
 
@@ -99,14 +96,11 @@ Nowpro现在还参与手机软件、在线游戏、弹珠机和老虎机 软硬�
 
   - （1993年）
 
-  - [Adventure Island II: Aliens in
-    Paradise](../Page/高桥名人之冒险岛II.md "wikilink")（1993年）
+  - [Adventure Island II: Aliens in Paradise](../Page/高桥名人之冒险岛II.md "wikilink")（1993年）
 
-  - [Momotarou Dengeki: Momotaro
-    Thunderbolt](https://zh.wikipedia.org/wiki/Momotaro_Densetsu "wikilink")（1993年）
+  - [Momotarou Dengeki: Momotaro Thunderbolt](https://zh.wikipedia.org/wiki/Momotaro_Densetsu "wikilink")（1993年）
 
-  - [Momotarou Dengeki
-    2](https://zh.wikipedia.org/wiki/Momotaro_Densetsu "wikilink")（1994年）
+  - [Momotarou Dengeki 2](https://zh.wikipedia.org/wiki/Momotaro_Densetsu "wikilink")（1994年）
 
   - （1994年）
 
@@ -116,8 +110,7 @@ Nowpro现在还参与手机软件、在线游戏、弹珠机和老虎机 软硬�
 
   - （1993年）
 
-  - [King of the Monsters
-    2](https://zh.wikipedia.org/wiki/King_of_the_Monsters_2 "wikilink")（1993年）
+  - [King of the Monsters 2](https://zh.wikipedia.org/wiki/King_of_the_Monsters_2 "wikilink")（1993年）
 
   - [奇蹟女孩](../Page/奇蹟女孩.md "wikilink")（1993年）
 
@@ -139,8 +132,7 @@ Nowpro现在还参与手机软件、在线游戏、弹珠机和老虎机 软硬�
 
 ### PlayStation
 
-  - [Chibi Maruko-chan: Maruko Enikki
-    World](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")（1995年）
+  - [Chibi Maruko-chan: Maruko Enikki World](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")（1995年）
 
   - （1995年）
 
@@ -150,8 +142,7 @@ Nowpro现在还参与手机软件、在线游戏、弹珠机和老虎机 软硬�
 
   - （1998年） known in Europe as Anna Kournikova's Smash Court Tennis
 
-  - [Block
-    Kuzushi](https://zh.wikipedia.org/wiki/Breakout_clone "wikilink")（1999年）
+  - [Block Kuzushi](https://zh.wikipedia.org/wiki/Breakout_clone "wikilink")（1999年）
 
   - （1999年）
 
@@ -223,8 +214,7 @@ Nowpro现在还参与手机软件、在线游戏、弹珠机和老虎机 软硬�
 
 ### GameCube
 
-  - [Sonic Adventure DX: Director's
-    Cut](https://zh.wikipedia.org/wiki/Sonic_Adventure_DX:_Director's_Cut "wikilink")（2003年）
+  - [Sonic Adventure DX: Director's Cut](https://zh.wikipedia.org/wiki/Sonic_Adventure_DX:_Director's_Cut "wikilink")（2003年）
 
   - （2005年）
 
@@ -291,9 +281,4 @@ Nowpro现在还参与手机软件、在线游戏、弹珠机和老虎机 软硬�
 ## 外部链接
 
   -
-[Category:1986年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1986年開業電子遊戲公司 "wikilink")
-[Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink")
-[Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:软件公司](https://zh.wikipedia.org/wiki/Category:软件公司 "wikilink")
-[Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
+[Category:1986年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1986年開業電子遊戲公司 "wikilink") [Category:大阪府公司](https://zh.wikipedia.org/wiki/Category:大阪府公司 "wikilink") [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink") [Category:软件公司](https://zh.wikipedia.org/wiki/Category:软件公司 "wikilink") [Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")

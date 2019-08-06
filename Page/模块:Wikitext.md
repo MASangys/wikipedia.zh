@@ -6,10 +6,7 @@ local z = {
 
 }
 
-\-- This splits a string of name="value" pairs into a table. -- The
-common use of this is to parse a single template argument that specifies
-HTML element attributes all in one lump. function
-z.SplitHTMLElementParams(s)
+\-- This splits a string of name="value" pairs into a table. -- The common use of this is to parse a single template argument that specifies HTML element attributes all in one lump. function z.SplitHTMLElementParams(s)
 
 `   local params = {}`
 `   for name,value in string.gmatch(s, "([%w_]+)=\"([^\"]*)\"%s*") do`
@@ -19,9 +16,7 @@ z.SplitHTMLElementParams(s)
 
 end
 
-\-- This returns a string quoted using quotation marks, using HTML
-character entities for embedded quotation marks and ampersands. function
-z.quote(t)
+\-- This returns a string quoted using quotation marks, using HTML character entities for embedded quotation marks and ampersands. function z.quote(t)
 
 `   local chars = {}`
 `   for i=1,#t do`
@@ -64,15 +59,13 @@ function z.OpenHTMLTag(t)
 
 end
 
-\-- This returns the canonical form of an editor-supplied time, for use
-in cleanup category names. function z.canonicalcleanuptime(t)
+\-- This returns the canonical form of an editor-supplied time, for use in cleanup category names. function z.canonicalcleanuptime(t)
 
 `   return t -- FIXME: This isn't right.`
 
 end
 
-\-- This returns a list formatted into a (intended to be human-readable)
-comma-separated form. function z.oxfordlist(args,separator,ampersand)
+\-- This returns a list formatted into a (intended to be human-readable) comma-separated form. function z.oxfordlist(args,separator,ampersand)
 
 `   local text = ""`
 `   separator = separator or ","`

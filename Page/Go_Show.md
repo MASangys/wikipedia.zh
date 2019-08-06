@@ -1,5 +1,4 @@
-《**Go
-Show**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台的一檔](../Page/SBS_\(韓國\).md "wikilink")[脫口秀](https://zh.wikipedia.org/wiki/脫口秀 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，於2012年4月6日開始，逢[韓國時間星期五晚](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")11:05播放，每集約80分鐘。
+《**Go Show**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS電視台的一檔](../Page/SBS_\(韓國\).md "wikilink")[脫口秀](https://zh.wikipedia.org/wiki/脫口秀 "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，於2012年4月6日開始，逢[韓國時間星期五晚](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")11:05播放，每集約80分鐘。
 
 節目主要為每週設定不同電影主題並模擬徵選電影主角的選秀，進行挖掘徵選者的明星魅力與個性的面試訪談。
 
@@ -28,8 +27,7 @@ Show**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS�
 
 <!-- end list -->
 
-  - 2012年9月28日節目負責人表示「原本預定與SBS方面簽約25集，目前已正式確認獲得續約，Go
-    Show至少會播出到今年年末」。\[1\]
+  - 2012年9月28日節目負責人表示「原本預定與SBS方面簽約25集，目前已正式確認獲得續約，Go Show至少會播出到今年年末」。\[1\]
 
 ## 節目各集簡介
 
@@ -292,7 +290,6 @@ EP026</p></td>
 
   -
 
-[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
-[Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:SBS](https://zh.wikipedia.org/wiki/Category:SBS "wikilink")
 
 1.

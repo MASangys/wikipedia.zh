@@ -1000,17 +1000,13 @@
 
 ## 平面作品
 
-[《性格男 簡宏霖
-玩樂團愛做菜》](http://www.appledaily.com.tw/appledaily/article/supplement/20120219/34034321)
-[《花美男 許豪恩
-有音樂不孤單》](http://www.appledaily.com.tw/appledaily/article/supplement/20120205/34000928)
-[《日系型男Yorke
-熱愛唱歌》](http://www.appledaily.com.tw/appledaily/article/supplement/20120122/33977227)
+[《性格男 簡宏霖 玩樂團愛做菜》](http://www.appledaily.com.tw/appledaily/article/supplement/20120219/34034321)
+[《花美男 許豪恩 有音樂不孤單》](http://www.appledaily.com.tw/appledaily/article/supplement/20120205/34000928)
+[《日系型男Yorke 熱愛唱歌》](http://www.appledaily.com.tw/appledaily/article/supplement/20120122/33977227)
 
 ## 獎項
 
-  - [2012年度TVB8金曲榜頒獎典禮](../Page/2012年度TVB8金曲榜頒獎典禮得獎名單.md "wikilink")
-    TVB8金曲榜最佳新人獎 銀獎
+  - [2012年度TVB8金曲榜頒獎典禮](../Page/2012年度TVB8金曲榜頒獎典禮得獎名單.md "wikilink") TVB8金曲榜最佳新人獎 銀獎
 
 ## 參見
 
@@ -1041,10 +1037,7 @@
       -
       -
       -
-[Category:台灣演唱團體](https://zh.wikipedia.org/wiki/Category:台灣演唱團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:臺灣男子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣男子演唱團體 "wikilink")
+[Category:台灣演唱團體](https://zh.wikipedia.org/wiki/Category:台灣演唱團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:臺灣男子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣男子演唱團體 "wikilink")
 
 1.
-2.  [拿鐵當爸了！分手妹秀超音波照認懷孕3個月](http://www.chinatimes.com/realtimenews/20150917003732-260404),2015.9.17
-    中時
+2.  [拿鐵當爸了！分手妹秀超音波照認懷孕3個月](http://www.chinatimes.com/realtimenews/20150917003732-260404),2015.9.17 中時

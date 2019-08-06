@@ -1,6 +1,4 @@
-《**Different
-Man**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[吳建豪](../Page/吳建豪.md "wikilink")的第八張大碟，第五張國語專輯，在2013年5月20日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，2013年6月7日推出。專輯第一主打是《Different
-Man》，第二主打則是《小婚禮》。
+《**Different Man**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手](../Page/歌手.md "wikilink")[吳建豪](../Page/吳建豪.md "wikilink")的第八張大碟，第五張國語專輯，在2013年5月20日開始[預購](https://zh.wikipedia.org/wiki/預購 "wikilink")\[1\]，2013年6月7日推出。專輯第一主打是《Different Man》，第二主打則是《小婚禮》。
 
 ## 曲目
 
@@ -8,8 +6,7 @@ Man》，第二主打則是《小婚禮》。
 
   - 預購盤，附送視覺L資料夾
   - 發行版
-  - 皇家慶功版，加贈一片DVD，收錄製作特輯和《Different Man》、《小婚禮》、《Love
-    Overtime》、《你怎麼知道》、《讓我更愛我》的音樂錄影帶
+  - 皇家慶功版，加贈一片DVD，收錄製作特輯和《Different Man》、《小婚禮》、《Love Overtime》、《你怎麼知道》、《讓我更愛我》的音樂錄影帶
 
 ## 音樂錄影帶
 
@@ -185,10 +182,6 @@ Man》，第二主打則是《小婚禮》。
 
 ## 参考资料
 
-[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
-[Category:吳建豪音樂專輯](https://zh.wikipedia.org/wiki/Category:吳建豪音樂專輯 "wikilink")
-[Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
+[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink") [Category:吳建豪音樂專輯](https://zh.wikipedia.org/wiki/Category:吳建豪音樂專輯 "wikilink") [Category:2013年音樂專輯](https://zh.wikipedia.org/wiki/Category:2013年音樂專輯 "wikilink")
 
-1.  [YESASIA : Different Man (預購版) 鐳射唱片 - 吳建豪, 環球音樂 (TW) -
-    國語音樂](http://www.yesasia.com/global/different-man-%E9%A0%90%E8%B3%BC%E7%89%88/1033382653-0-0-0-zh_TW/info.html)，2013年6月8日
-    (六) 08:10 (UTC+8)查閱
+1.  [YESASIA : Different Man (預購版) 鐳射唱片 - 吳建豪, 環球音樂 (TW) - 國語音樂](http://www.yesasia.com/global/different-man-%E9%A0%90%E8%B3%BC%E7%89%88/1033382653-0-0-0-zh_TW/info.html)，2013年6月8日 (六) 08:10 (UTC+8)查閱

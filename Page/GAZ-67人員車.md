@@ -2,9 +2,7 @@ GAZ-67和其改良型GAZ-67B是[第二次世界大戰時蘇聯紅軍所使用的
 
 ## 研發簡史和設計特點
 
-在1931年和1932年間，蘇聯人在美國[福特汽車廠的技術合作之下成立](https://zh.wikipedia.org/wiki/福特汽車 "wikilink")[高尔基汽车厂](../Page/高尔基汽车厂.md "wikilink")（Gorkovsky
-Avtmobilny
-Zavod，簡稱：GAZ，即嘎斯），1938年該車廠推出GAZ-61，1941年又推出GAZ-64，其設計已受到美國吉普車的影響，包括也是開篷車設計和[四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")，但GAZ-64由於寬度不夠（1.23米）而經常發生翻車事故，所以，GAZ-64的產量不多，在1941年至1942年間祇有684輛出廠，1943年推出GAZ-67，其車寬增至1.45米，1944年車寬進一步增至1.69米和在司機座位下方加裝燃料箱的GAZ-67B推出，從1943年至1953年間總共有92,843輛GAZ-67/67B出廠。
+在1931年和1932年間，蘇聯人在美國[福特汽車廠的技術合作之下成立](https://zh.wikipedia.org/wiki/福特汽車 "wikilink")[高尔基汽车厂](../Page/高尔基汽车厂.md "wikilink")（Gorkovsky Avtmobilny Zavod，簡稱：GAZ，即嘎斯），1938年該車廠推出GAZ-61，1941年又推出GAZ-64，其設計已受到美國吉普車的影響，包括也是開篷車設計和[四輪驅動](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")，但GAZ-64由於寬度不夠（1.23米）而經常發生翻車事故，所以，GAZ-64的產量不多，在1941年至1942年間祇有684輛出廠，1943年推出GAZ-67，其車寬增至1.45米，1944年車寬進一步增至1.69米和在司機座位下方加裝燃料箱的GAZ-67B推出，從1943年至1953年間總共有92,843輛GAZ-67/67B出廠。
 
 GAZ-67/67B的可越過64度斜坡和以40度下坡，因此蘇聯人宣稱其機動性和美國吉普車相當，但GAZ-67/67B的刹車系統設計不良而且發動機又很耗油，故蘇聯人仍向美國人要吉普車。
 
@@ -43,7 +41,4 @@ GAZ-67/67B首次參戰就是[庫斯克戰役](https://zh.wikipedia.org/wiki/庫�
   - [甲蟲車](../Page/大众甲壳虫.md "wikilink")
   - [九五式小型乘用車](https://zh.wikipedia.org/wiki/九五式小型乘用車 "wikilink")
 
-[Category:二戰軍用車輛](https://zh.wikipedia.org/wiki/Category:二戰軍用車輛 "wikilink")
-[Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")
-[Category:四輪驅動車輛](https://zh.wikipedia.org/wiki/Category:四輪驅動車輛 "wikilink")
-[Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink")
+[Category:二戰軍用車輛](https://zh.wikipedia.org/wiki/Category:二戰軍用車輛 "wikilink") [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink") [Category:四輪驅動車輛](https://zh.wikipedia.org/wiki/Category:四輪驅動車輛 "wikilink") [Category:韓戰武器](https://zh.wikipedia.org/wiki/Category:韓戰武器 "wikilink")

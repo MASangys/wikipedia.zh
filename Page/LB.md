@@ -25,8 +25,7 @@
 
   - [以2為底對數](../Page/以2爲底的對數.md "wikilink"), 。
 
-  - , a class of computational fluid dynamics (CFD) methods for fluid
-    simulation.
+  - , a class of computational fluid dynamics (CFD) methods for fluid simulation.
 
   - , a programming language
 
@@ -44,10 +43,8 @@
 
   - , a Danish railway company
 
-  - (Albanian: *Lëvizja për Bashkim*), a nationalist Albanian political
-    party in Kosovo
+  - (Albanian: *Lëvizja për Bashkim*), a nationalist Albanian political party in Kosovo
 
-  - , a bank named after and based in Ljubljana, Slovenia that operated
-    in SFR Yugoslavia
+  - , a bank named after and based in Ljubljana, Slovenia that operated in SFR Yugoslavia
 
 [Category:二字拉丁字母縮寫消歧義](https://zh.wikipedia.org/wiki/Category:二字拉丁字母縮寫消歧義 "wikilink")

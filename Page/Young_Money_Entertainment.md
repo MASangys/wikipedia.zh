@@ -1,29 +1,16 @@
-**Young Money
-Entertainment**的是由说唱歌手[李尔·韦恩创立的](https://zh.wikipedia.org/wiki/李尔·韦恩 "wikilink")[美国](../Page/美国.md "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")。Young
-Money Entertainment的主席为韦恩的朋友。是[环球音樂旗下](../Page/环球唱片.md "wikilink")[Cash
-Money
-Records厂牌的分支厂牌](https://zh.wikipedia.org/wiki/Cash_Money_Records "wikilink")。该厂牌已发行8张美国冠军专辑：李尔·韦恩的《Tha
-Carter III》、《I Am Not a Human Being》、《Tha Carter
-IV》，[德雷克的](https://zh.wikipedia.org/wiki/德雷克 "wikilink")《Thank
-Me Later》、《Take Care》、《Nothing Was the
-Same》以及[妮琪·米娜的](https://zh.wikipedia.org/wiki/妮琪·米娜 "wikilink")《[粉红星期五](https://zh.wikipedia.org/wiki/粉红星期五 "wikilink")》（英文：Pink
-Fiday）、《[粉红星期五：妖言惑众](https://zh.wikipedia.org/wiki/粉红星期五：妖言惑众 "wikilink")》（英文：Pink
-Friday: Roman Reloaded）。
+**Young Money Entertainment**的是由说唱歌手[李尔·韦恩创立的](https://zh.wikipedia.org/wiki/李尔·韦恩 "wikilink")[美国](../Page/美国.md "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")。Young Money Entertainment的主席为韦恩的朋友。是[环球音樂旗下](../Page/环球唱片.md "wikilink")[Cash Money Records厂牌的分支厂牌](https://zh.wikipedia.org/wiki/Cash_Money_Records "wikilink")。该厂牌已发行8张美国冠军专辑：李尔·韦恩的《Tha Carter III》、《I Am Not a Human Being》、《Tha Carter IV》，[德雷克的](https://zh.wikipedia.org/wiki/德雷克 "wikilink")《Thank Me Later》、《Take Care》、《Nothing Was the Same》以及[妮琪·米娜的](https://zh.wikipedia.org/wiki/妮琪·米娜 "wikilink")《[粉红星期五](https://zh.wikipedia.org/wiki/粉红星期五 "wikilink")》（英文：Pink Fiday）、《[粉红星期五：妖言惑众](https://zh.wikipedia.org/wiki/粉红星期五：妖言惑众 "wikilink")》（英文：Pink Friday: Roman Reloaded）。
 
 目前旗下艺人包括：李尔·韦恩, 德雷克, 妮琪·米娜, Tyga, Mack Maine, Jae Millz和Cory Gunz。
 
-厂牌已发行三张[合集](https://zh.wikipedia.org/wiki/合集 "wikilink")：《We Are Young
-Money》(2009), 《Rich Gang》(2013)和《Young Money: Rise of an Empire》(2014)。
+厂牌已发行三张[合集](https://zh.wikipedia.org/wiki/合集 "wikilink")：《We Are Young Money》(2009), 《Rich Gang》(2013)和《Young Money: Rise of an Empire》(2014)。
 
 ## 旗下艺人
 
-  - [奥斯汀·玛宏](https://zh.wikipedia.org/wiki/奥斯汀·玛宏 "wikilink")（[Austin
-    Mahone](https://zh.wikipedia.org/wiki/Austin_Mahone "wikilink")）\[1\]
+  - [奥斯汀·玛宏](https://zh.wikipedia.org/wiki/奥斯汀·玛宏 "wikilink")（[Austin Mahone](https://zh.wikipedia.org/wiki/Austin_Mahone "wikilink")）\[1\]
 
   - [香奈儿·西海岸](https://zh.wikipedia.org/wiki/香奈儿·西海岸 "wikilink")（）\[2\]
 
-  - [克里斯蒂娜·米莲](https://zh.wikipedia.org/wiki/克里斯蒂娜·米莲 "wikilink")（[Christina
-    Milian](https://zh.wikipedia.org/wiki/Christina_Milian "wikilink")）\[3\]
+  - [克里斯蒂娜·米莲](https://zh.wikipedia.org/wiki/克里斯蒂娜·米莲 "wikilink")（[Christina Milian](https://zh.wikipedia.org/wiki/Christina_Milian "wikilink")）\[3\]
 
   -
   - [德雷克](https://zh.wikipedia.org/wiki/德雷克 "wikilink")（Drake）
@@ -32,8 +19,7 @@ Money》(2009), 《Rich Gang》(2013)和《Young Money: Rise of an Empire》(201
 
   - Flow\[5\]
 
-  - [Gudda
-    Gudda](https://zh.wikipedia.org/wiki/Gudda_Gudda "wikilink")\[6\]
+  - [Gudda Gudda](https://zh.wikipedia.org/wiki/Gudda_Gudda "wikilink")\[6\]
 
   - [Jae Millz](https://zh.wikipedia.org/wiki/Jae_Millz "wikilink")
 
@@ -47,8 +33,7 @@ Money》(2009), 《Rich Gang》(2013)和《Young Money: Rise of an Empire》(201
 
   - [Mack Maine](https://zh.wikipedia.org/wiki/Mack_Maine "wikilink")
 
-  - [妮琪·米娜](https://zh.wikipedia.org/wiki/妮琪·米娜 "wikilink")（[Nicki
-    Minaj](https://zh.wikipedia.org/wiki/Nicki_Minaj "wikilink")）
+  - [妮琪·米娜](https://zh.wikipedia.org/wiki/妮琪·米娜 "wikilink")（[Nicki Minaj](https://zh.wikipedia.org/wiki/Nicki_Minaj "wikilink")）
 
   - [PJ Morton](https://zh.wikipedia.org/wiki/PJ_Morton "wikilink")
 
@@ -520,51 +505,35 @@ Rap</a><br />
 
 ## 即将发行
 
-  - [Tha Carter V](https://en.m.wikipedia.org/wiki/Tha_Carter_V) by Lil
-    Wayne (2018)
+  - [Tha Carter V](https://en.m.wikipedia.org/wiki/Tha_Carter_V) by Lil Wayne (2018)
 
 <!-- end list -->
 
   - *The Gold Album* by Tyga (2014)
-      - First single: "[Wait for a
-        Minute](https://zh.wikipedia.org/wiki/Wait_for_a_Minute "wikilink")"
-        featuring [Justin
-        Bieber](https://zh.wikipedia.org/wiki/Justin_Bieber "wikilink")
+      - First single: "[Wait for a Minute](https://zh.wikipedia.org/wiki/Wait_for_a_Minute "wikilink")" featuring [Justin Bieber](https://zh.wikipedia.org/wiki/Justin_Bieber "wikilink")
 
 <!-- end list -->
 
-  - *[The Pink
-    Print](https://zh.wikipedia.org/wiki/The_Pink_Print "wikilink")* by
-    [Nicki Minaj](https://zh.wikipedia.org/wiki/Nicki_Minaj "wikilink")
-    (2014)\[21\]
+  - *[The Pink Print](https://zh.wikipedia.org/wiki/The_Pink_Print "wikilink")* by [Nicki Minaj](https://zh.wikipedia.org/wiki/Nicki_Minaj "wikilink") (2014)\[21\]
 
 <!-- end list -->
 
   - *Bad Decisions* by Lil Twist (2014)
       - First single: "TBA"
       - Promotional singles
-          - First promotional single: "Little Secrets" featuring [Bow
-            Wow](https://zh.wikipedia.org/wiki/Bow_Wow_\(rapper\) "wikilink")
-          - Second promotional single: "Love Affair" featuring [Lil
-            Wayne](https://zh.wikipedia.org/wiki/Lil_Wayne "wikilink")
-          - Third promotional single: "New Money" featuring
-            [Mishon](https://zh.wikipedia.org/wiki/Mishon_Ratliff "wikilink")
-          - Fourth promotional single: "Turnt Up" featuring [Busta
-            Rhymes](https://zh.wikipedia.org/wiki/Busta_Rhymes "wikilink")
+          - First promotional single: "Little Secrets" featuring [Bow Wow](https://zh.wikipedia.org/wiki/Bow_Wow_\(rapper\) "wikilink")
+          - Second promotional single: "Love Affair" featuring [Lil Wayne](https://zh.wikipedia.org/wiki/Lil_Wayne "wikilink")
+          - Third promotional single: "New Money" featuring [Mishon](https://zh.wikipedia.org/wiki/Mishon_Ratliff "wikilink")
+          - Fourth promotional single: "Turnt Up" featuring [Busta Rhymes](https://zh.wikipedia.org/wiki/Busta_Rhymes "wikilink")
 
 <!-- end list -->
 
-  - *Nothing is Promised* by [Jae
-    Millz](https://zh.wikipedia.org/wiki/Jae_Millz "wikilink")
-    (2014)\[22\]
-      - First single: "Forever Winning" featuring [Lil
-        Wayne](https://zh.wikipedia.org/wiki/Lil_Wayne "wikilink")
+  - *Nothing is Promised* by [Jae Millz](https://zh.wikipedia.org/wiki/Jae_Millz "wikilink") (2014)\[22\]
+      - First single: "Forever Winning" featuring [Lil Wayne](https://zh.wikipedia.org/wiki/Lil_Wayne "wikilink")
 
 <!-- end list -->
 
-  - TBA by [Cory
-    Gunz](https://zh.wikipedia.org/wiki/Cory_Gunz "wikilink")
-    (2014)\[23\]
+  - TBA by [Cory Gunz](https://zh.wikipedia.org/wiki/Cory_Gunz "wikilink") (2014)\[23\]
 
 ## 参考来源
 
@@ -580,9 +549,7 @@ Rap</a><br />
 
 2.
 
-3.  [Christina Milian Signs to Young
-    Money](http://www.rap-up.com/2012/02/12/christina-milian-signs-to-young-money/).
-    Rap-Up.com. Retrieved on 2012-05-20.
+3.  [Christina Milian Signs to Young Money](http://www.rap-up.com/2012/02/12/christina-milian-signs-to-young-money/). Rap-Up.com. Retrieved on 2012-05-20.
 
 4.
 

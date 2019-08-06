@@ -16,8 +16,7 @@
   - [野性战士](../Page/野性战士.md "wikilink")：参与MGame在韩国共同代理，NOWCOM服务端单方停运。
   - [汉字房](../Page/汉字房.md "wikilink")：参与NHN在韩国共同代理，现已停运。
   - [fear](https://zh.wikipedia.org/wiki/fear "wikilink")：
-  - [Metal
-    Guardian](https://zh.wikipedia.org/wiki/Metal_Guardian "wikilink")：IGS开发的游戏，目前只宣布代理尚未公测。
+  - [Metal Guardian](https://zh.wikipedia.org/wiki/Metal_Guardian "wikilink")：IGS开发的游戏，目前只宣布代理尚未公测。
 
 ## 参考文献
 
@@ -25,9 +24,6 @@
 
   - [官方网站](https://web.archive.org/web/20101231153000/http://nowcom.co.kr/)
 
-[Category:1994年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1994年開業電子遊戲公司 "wikilink")
-[Category:韓國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:韓國電子遊戲公司 "wikilink")
-[Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
-[Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
+[Category:1994年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1994年開業電子遊戲公司 "wikilink") [Category:韓國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:韓國電子遊戲公司 "wikilink") [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:電子遊戲發行商](https://zh.wikipedia.org/wiki/Category:電子遊戲發行商 "wikilink")
 
 1.

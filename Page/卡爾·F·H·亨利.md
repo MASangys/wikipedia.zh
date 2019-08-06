@@ -1,42 +1,26 @@
-**卡爾亨利 （**英文：Carl Ferdinand Howard Henry或Carl F. H. Henry，1913年1月22日–
-2003年12月7日），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[福音派](../Page/福音派.md "wikilink")[神學家](https://zh.wikipedia.org/wiki/神學家 "wikilink")，[福樂神學院創辦人之一](https://zh.wikipedia.org/wiki/福樂神學院 "wikilink")、《[今日基督教](../Page/今日基督教.md "wikilink")》首任主編。\[1\]
+**卡爾亨利 （**英文：Carl Ferdinand Howard Henry或Carl F. H. Henry，1913年1月22日– 2003年12月7日），[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[福音派](../Page/福音派.md "wikilink")[神學家](https://zh.wikipedia.org/wiki/神學家 "wikilink")，[福樂神學院創辦人之一](https://zh.wikipedia.org/wiki/福樂神學院 "wikilink")、《[今日基督教](../Page/今日基督教.md "wikilink")》首任主編。\[1\]
 
 ## 生平
 
-卡爾亨利出生於[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，他們家是從[德國移民到](https://zh.wikipedia.org/wiki/德國 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，卡爾亨利是家中長子，後來他們家就搬到[長島](../Page/長島.md "wikilink")。他的父親是糕餅師傅，屬於[信義會](https://zh.wikipedia.org/wiki/信義會 "wikilink")，他的母親則為[天主教徒](https://zh.wikipedia.org/wiki/天主教徒 "wikilink")，但祂的父母對宗教並不關切，所以他孩提時代也很少接觸宗教。青少年時，他在[聖公會受了堅信禮](https://zh.wikipedia.org/wiki/聖公會 "wikilink")，但不久就遠離了[教會](https://zh.wikipedia.org/wiki/教會 "wikilink")。可是透過教會的公禱手冊，他算是對[基督教](../Page/基督教.md "wikilink")有了一些領會，他曾偷愉拿走教堂裡的[聖經](https://zh.wikipedia.org/wiki/聖經 "wikilink")，後來有時他也會翻開閱讀。卡爾亨利年輕時原是一位[記者](../Page/記者.md "wikilink")，在報社認識了一位[衛理公會的年長女士](https://zh.wikipedia.org/wiki/衛理公會 "wikilink")「克麗斯緹媽媽」，她非常敬虔；另外他還認識了幾位注重福音的[牛津](../Page/牛津.md "wikilink")派人士，包括貝德弗（Gene
-Bedford）在內，在這些人的激勵下，再加上他對聖經所記[耶穌](https://zh.wikipedia.org/wiki/耶穌 "wikilink")[復活](../Page/復活.md "wikilink")的好奇，卡爾亨利在1933年6月10日，經歷了[重生](../Page/重生_\(基督教\).md "wikilink")。\[2\]
+卡爾亨利出生於[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")，他們家是從[德國移民到](https://zh.wikipedia.org/wiki/德國 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")，卡爾亨利是家中長子，後來他們家就搬到[長島](../Page/長島.md "wikilink")。他的父親是糕餅師傅，屬於[信義會](https://zh.wikipedia.org/wiki/信義會 "wikilink")，他的母親則為[天主教徒](https://zh.wikipedia.org/wiki/天主教徒 "wikilink")，但祂的父母對宗教並不關切，所以他孩提時代也很少接觸宗教。青少年時，他在[聖公會受了堅信禮](https://zh.wikipedia.org/wiki/聖公會 "wikilink")，但不久就遠離了[教會](https://zh.wikipedia.org/wiki/教會 "wikilink")。可是透過教會的公禱手冊，他算是對[基督教](../Page/基督教.md "wikilink")有了一些領會，他曾偷愉拿走教堂裡的[聖經](https://zh.wikipedia.org/wiki/聖經 "wikilink")，後來有時他也會翻開閱讀。卡爾亨利年輕時原是一位[記者](../Page/記者.md "wikilink")，在報社認識了一位[衛理公會的年長女士](https://zh.wikipedia.org/wiki/衛理公會 "wikilink")「克麗斯緹媽媽」，她非常敬虔；另外他還認識了幾位注重福音的[牛津](../Page/牛津.md "wikilink")派人士，包括貝德弗（Gene Bedford）在內，在這些人的激勵下，再加上他對聖經所記[耶穌](https://zh.wikipedia.org/wiki/耶穌 "wikilink")[復活](../Page/復活.md "wikilink")的好奇，卡爾亨利在1933年6月10日，經歷了[重生](../Page/重生_\(基督教\).md "wikilink")。\[2\]
 
 卡爾亨利的重生與其他許多[福音派](../Page/福音派.md "wikilink")運動中的人相仿，包括作認罪禱告、祈求神進入他的生命中，然後內心有了蒙[上帝赦免的確據](https://zh.wikipedia.org/wiki/上帝 "wikilink")，知道[耶穌基督已經成了他個人的救主](https://zh.wikipedia.org/wiki/耶穌基督 "wikilink")，他願意將一生交託在上帝的手中，願意跟隨上帝的引導，無論到何處，都願意將自己與上帝的這種新關係告訴別人。而他的重生沒有宗派的色彩，是典型[福音派](../Page/福音派.md "wikilink")的特色。後來卡爾亨利回想他會重生的因素有：一本順手牽羊拿走的[聖經](https://zh.wikipedia.org/wiki/聖經 "wikilink")、對[聖公會公禱手冊的片段記憶](https://zh.wikipedia.org/wiki/聖公會 "wikilink")、一位[衛理公會朋友對](https://zh.wikipedia.org/wiki/衛理公會 "wikilink")[重生的堅持](../Page/重生_\(基督教\).md "wikilink")、一群[牛津](../Page/牛津.md "wikilink")人士對生命改變的大膽呼召，聚合起來包圍著當時正在尋求職業方向的我，而由[聖靈](../Page/聖靈.md "wikilink")施恩的工作與內在的確據總其成。\[3\]
 
-在一位[長老會](https://zh.wikipedia.org/wiki/長老會 "wikilink")[牧師](https://zh.wikipedia.org/wiki/牧師 "wikilink")[約書亞](https://zh.wikipedia.org/wiki/約書亞 "wikilink")（英文：Peter
-Joshua）的激勵下，卡爾亨利逐漸離開新聞界，而轉向神學研究，在1935年秋季，他到惠頓學院 （英文：Wheaton
-College）就讀，他會到惠頓學院就讀的原因之一，是因為他聆聽了惠頓校長巴玆偉爾（英文：J. Oliver
-Buswell）的演講。那一場演講使他印象深刻，內容是理性對信仰的重要性，以及[復活](../Page/復活.md "wikilink")的歷史證據。而出身貧寒的他進入惠頓就讀時，經歷到神奇妙的供應。在惠頓求學的期間，卡爾亨利設定了人生以後的方向，其中最重要的是堅固了他與[福音主義](../Page/福音主義.md "wikilink")的關係。在這段時期，他與[葛理翰](https://zh.wikipedia.org/wiki/葛理翰 "wikilink")（英文：Billy
-Graham）、凌賽爾（英文：Harold
-Lindsell）等人成為朋友，他們後來都成為福音派運動中令人尊敬的領袖。惠頓對卡爾亨利最重大的意義，是鞏固了他基本上以理性為中心的[福音派世界觀](https://zh.wikipedia.org/wiki/福音派世界觀 "wikilink")，而學校的哲學教授[克拉克](https://zh.wikipedia.org/wiki/克拉克 "wikilink")（英文：Gordon
-Clark）對卡爾亨利的思想，是最具啟發性影響力的人。卡爾亨利在惠頓認識了後來的妻子[班德](https://zh.wikipedia.org/wiki/班德 "wikilink")（英文：Helga
-Bender），她的父親是德國浸信會差往[喀麥隆](https://zh.wikipedia.org/wiki/喀麥隆 "wikilink")（英文：Cameroon）的[宣教士](https://zh.wikipedia.org/wiki/宣教士 "wikilink")，而他在求學期間也傾向接受[浸信會的特色](https://zh.wikipedia.org/wiki/浸信會 "wikilink")。\[4\]卡爾亨利列出五項浸信會的信條：一、《[聖經](https://zh.wikipedia.org/wiki/聖經 "wikilink")》是人的終極權威，超於一切信條與人間智慧；二、[信徒皆祭司](https://zh.wikipedia.org/wiki/信徒皆祭司 "wikilink")；三、信者受浸；四、堂會自治；五、[政教分離](https://zh.wikipedia.org/wiki/政教分離 "wikilink")。卡爾亨利並不在意這些信條的先後次序，重點是他不會刪去任何一項。他指出這些信條並非[浸信會獨有](https://zh.wikipedia.org/wiki/浸信會 "wikilink")，但集這五項於一身並予以重視，唯獨[浸信會而已](https://zh.wikipedia.org/wiki/浸信會 "wikilink")。\[5\]
+在一位[長老會](https://zh.wikipedia.org/wiki/長老會 "wikilink")[牧師](https://zh.wikipedia.org/wiki/牧師 "wikilink")[約書亞](https://zh.wikipedia.org/wiki/約書亞 "wikilink")（英文：Peter Joshua）的激勵下，卡爾亨利逐漸離開新聞界，而轉向神學研究，在1935年秋季，他到惠頓學院 （英文：Wheaton College）就讀，他會到惠頓學院就讀的原因之一，是因為他聆聽了惠頓校長巴玆偉爾（英文：J. Oliver Buswell）的演講。那一場演講使他印象深刻，內容是理性對信仰的重要性，以及[復活](../Page/復活.md "wikilink")的歷史證據。而出身貧寒的他進入惠頓就讀時，經歷到神奇妙的供應。在惠頓求學的期間，卡爾亨利設定了人生以後的方向，其中最重要的是堅固了他與[福音主義](../Page/福音主義.md "wikilink")的關係。在這段時期，他與[葛理翰](https://zh.wikipedia.org/wiki/葛理翰 "wikilink")（英文：Billy Graham）、凌賽爾（英文：Harold Lindsell）等人成為朋友，他們後來都成為福音派運動中令人尊敬的領袖。惠頓對卡爾亨利最重大的意義，是鞏固了他基本上以理性為中心的[福音派世界觀](https://zh.wikipedia.org/wiki/福音派世界觀 "wikilink")，而學校的哲學教授[克拉克](https://zh.wikipedia.org/wiki/克拉克 "wikilink")（英文：Gordon Clark）對卡爾亨利的思想，是最具啟發性影響力的人。卡爾亨利在惠頓認識了後來的妻子[班德](https://zh.wikipedia.org/wiki/班德 "wikilink")（英文：Helga Bender），她的父親是德國浸信會差往[喀麥隆](https://zh.wikipedia.org/wiki/喀麥隆 "wikilink")（英文：Cameroon）的[宣教士](https://zh.wikipedia.org/wiki/宣教士 "wikilink")，而他在求學期間也傾向接受[浸信會的特色](https://zh.wikipedia.org/wiki/浸信會 "wikilink")。\[4\]卡爾亨利列出五項浸信會的信條：一、《[聖經](https://zh.wikipedia.org/wiki/聖經 "wikilink")》是人的終極權威，超於一切信條與人間智慧；二、[信徒皆祭司](https://zh.wikipedia.org/wiki/信徒皆祭司 "wikilink")；三、信者受浸；四、堂會自治；五、[政教分離](https://zh.wikipedia.org/wiki/政教分離 "wikilink")。卡爾亨利並不在意這些信條的先後次序，重點是他不會刪去任何一項。他指出這些信條並非[浸信會獨有](https://zh.wikipedia.org/wiki/浸信會 "wikilink")，但集這五項於一身並予以重視，唯獨[浸信會而已](https://zh.wikipedia.org/wiki/浸信會 "wikilink")。\[5\]
 
-1938年，卡爾亨利畢業後，又進入惠頓的碩士課程，同時他在附近的北方浸信會神學院（英文：Northern Baptist Theological
-Seminary）開始修課。這間神學院是北方浸信會聯會（現在的美國浸信會）內的[基要派所創辦](https://zh.wikipedia.org/wiki/基要派 "wikilink")，和[芝加哥大学](../Page/芝加哥大学.md "wikilink")神學院的[自由派相對](https://zh.wikipedia.org/wiki/自由派 "wikilink")。卡爾亨利在1940年結婚、在1941年得到碩士學位及北方浸神的學位、1941年在芝加哥的亨勃（英文：Humbolt）浸信會按牧，1942年取得了北方浸神神學博士學位。因著這些資歷，他開始了學術生涯。他首先在北方浸神任教，接著他來到[加州的](https://zh.wikipedia.org/wiki/加州 "wikilink")[帕萨迪纳](../Page/帕萨迪纳_\(加利福尼亚州\).md "wikilink")，因為當時福樂神學院剛剛組成，他受邀擔任教職。在福樂時期，卡爾亨利從波士頓取得第二個博士學位，並寫了九本書。\[6\]
+1938年，卡爾亨利畢業後，又進入惠頓的碩士課程，同時他在附近的北方浸信會神學院（英文：Northern Baptist Theological Seminary）開始修課。這間神學院是北方浸信會聯會（現在的美國浸信會）內的[基要派所創辦](https://zh.wikipedia.org/wiki/基要派 "wikilink")，和[芝加哥大学](../Page/芝加哥大学.md "wikilink")神學院的[自由派相對](https://zh.wikipedia.org/wiki/自由派 "wikilink")。卡爾亨利在1940年結婚、在1941年得到碩士學位及北方浸神的學位、1941年在芝加哥的亨勃（英文：Humbolt）浸信會按牧，1942年取得了北方浸神神學博士學位。因著這些資歷，他開始了學術生涯。他首先在北方浸神任教，接著他來到[加州的](https://zh.wikipedia.org/wiki/加州 "wikilink")[帕萨迪纳](../Page/帕萨迪纳_\(加利福尼亚州\).md "wikilink")，因為當時福樂神學院剛剛組成，他受邀擔任教職。在福樂時期，卡爾亨利從波士頓取得第二個博士學位，並寫了九本書。\[6\]
 
 ## 事業
 
-卡爾亨利對[福音派](../Page/福音派.md "wikilink")最大的貢獻，不是在[神學院](../Page/神學院.md "wikilink")的教室裡，而是在文字工作上。1956年，他到了[華盛頓市](https://zh.wikipedia.org/wiki/華盛頓 "wikilink")，擔任剛發行的福音派雜誌《今日基督教》的創刊編輯。這份刊物代表[保守派的立場](https://zh.wikipedia.org/wiki/保守派 "wikilink")，是出於幾位福音派領袖的構想，想與[自由派發行已久的雜誌](https://zh.wikipedia.org/wiki/自由派 "wikilink")《基督教世紀》（英文：Christian
-Century）抗衡。卡爾亨利在《今日基督教》事奉12年，雖然他的影響力與名聲越來越大，但在1967年因為和幾位領導人對雜誌的方向意見不同而離職。離開雜誌繁重的工作之後，卡爾亨利開始作研究、寫作、到一些福音派神學院任教、並到世界各地旅行，他也出版了許多好書，尤其是1976至1983年間所發行的鉅著《神、啟示、權威》。\[7\]
+卡爾亨利對[福音派](../Page/福音派.md "wikilink")最大的貢獻，不是在[神學院](../Page/神學院.md "wikilink")的教室裡，而是在文字工作上。1956年，他到了[華盛頓市](https://zh.wikipedia.org/wiki/華盛頓 "wikilink")，擔任剛發行的福音派雜誌《今日基督教》的創刊編輯。這份刊物代表[保守派的立場](https://zh.wikipedia.org/wiki/保守派 "wikilink")，是出於幾位福音派領袖的構想，想與[自由派發行已久的雜誌](https://zh.wikipedia.org/wiki/自由派 "wikilink")《基督教世紀》（英文：Christian Century）抗衡。卡爾亨利在《今日基督教》事奉12年，雖然他的影響力與名聲越來越大，但在1967年因為和幾位領導人對雜誌的方向意見不同而離職。離開雜誌繁重的工作之後，卡爾亨利開始作研究、寫作、到一些福音派神學院任教、並到世界各地旅行，他也出版了許多好書，尤其是1976至1983年間所發行的鉅著《神、啟示、權威》。\[7\]
 
 卡爾亨利的工作就是要重拾已經失去的宗教立場，力求回復十九世紀的美國[基督教](../Page/基督教.md "wikilink")正統，當時名為「[福音主義](../Page/福音主義.md "wikilink")」。而「[福音主義](../Page/福音主義.md "wikilink")」認為他們是溯源於[宗教改革](../Page/宗教改革.md "wikilink")時的正統信仰，而[宗教改革](../Page/宗教改革.md "wikilink")正是致力回復教父時代，乃至新約時代的教會信仰，因此福音派的信仰是復原式的基督教正統信仰。\[8\]復原式基督教正統信仰的特色便是高舉《聖經》，摒棄其他的經典和權威，把神的話語凌駕於人的經歷與哲學之上。否認一切善工，深信人性敗壞，堅持「[因信稱義](../Page/因信稱義.md "wikilink")」的教義，個人得救是單單信靠[耶穌基督完成的救恩之功而得](https://zh.wikipedia.org/wiki/耶穌基督 "wikilink")。他們重視重生，教會攜手合作推動[社會福利和差傳事工](https://zh.wikipedia.org/wiki/社會福利 "wikilink")，在十九世紀盛極一時。\[9\]1870年以後，福音運動大受[啟蒙運動餘波影響而沒落](https://zh.wikipedia.org/wiki/啟蒙運動 "wikilink")，基督教[自由派的努力](https://zh.wikipedia.org/wiki/自由派 "wikilink")，反而使[基督教神學](../Page/基督教神學.md "wikilink")因為輕視正統教義而走入歧途。不過[自由派努力參與社會服務](https://zh.wikipedia.org/wiki/自由派 "wikilink")，而堅持正統教義的「[基要派](https://zh.wikipedia.org/wiki/基要派 "wikilink")」卻節節退縮，否定福音的社會意義，視學術研究如同洪水猛獸，最終並做出分離的行動。\[10\]
 
-一樣是[保守派堅守](https://zh.wikipedia.org/wiki/保守派 "wikilink")[聖經信仰的卡爾亨利](https://zh.wikipedia.org/wiki/聖經 "wikilink")，面對[基要派的退縮態度](https://zh.wikipedia.org/wiki/基要派 "wikilink")，決定要來改變，他選擇繼續留在宗派教會內改革，但摒棄[基要派在態度上](https://zh.wikipedia.org/wiki/基要派 "wikilink")、文化觀上的偏差行為。他在1947年寫成《近代基要主義不安的良知》（英文：The
-Uneasy Conscience of Modern
-Fundamentalism），指出[基要主義](https://zh.wikipedia.org/wiki/基要主義 "wikilink")「責人至嚴、毫無愛心、專好紛爭」，這正是[基要主義的致命傷](https://zh.wikipedia.org/wiki/基要主義 "wikilink")。[基要派只看見](https://zh.wikipedia.org/wiki/基要派 "wikilink")[自由派信仰的](https://zh.wikipedia.org/wiki/自由派 "wikilink")[異端](../Page/異端.md "wikilink")信息，卻看不到自己缺乏絲毫愛心。\[11\]卡爾亨利所選的路線跟[基要派完全不同](https://zh.wikipedia.org/wiki/基要派 "wikilink")。他鼓勵[福音派](../Page/福音派.md "wikilink")人士彼此合、共享團契，對小事不要拘泥固執，並從宗派裡面革新。他不贊成「不准這、不准那」的基督教，願意持開放的態度來認識「新派」[自由神學](https://zh.wikipedia.org/wiki/自由神學 "wikilink")，並用愛心對待所有的[基督徒](../Page/基督徒.md "wikilink")。他又提出呼籲，要[福音派](../Page/福音派.md "wikilink")能團結一致，對外廣傳福音，對內教導平信徒認識正統神學。而[福音派](../Page/福音派.md "wikilink")也真的以行動作出響應：他們真誠的與[福音派](../Page/福音派.md "wikilink")以外人士（主要是[自由派](https://zh.wikipedia.org/wiki/自由派 "wikilink")）交往，共同致力學術研究，又與聖潔會、[靈恩派](../Page/靈恩派.md "wikilink")的人合作，並盡力包容不同宗派在[末世論方面的差異](https://zh.wikipedia.org/wiki/末世論 "wikilink")。\[12\]
+一樣是[保守派堅守](https://zh.wikipedia.org/wiki/保守派 "wikilink")[聖經信仰的卡爾亨利](https://zh.wikipedia.org/wiki/聖經 "wikilink")，面對[基要派的退縮態度](https://zh.wikipedia.org/wiki/基要派 "wikilink")，決定要來改變，他選擇繼續留在宗派教會內改革，但摒棄[基要派在態度上](https://zh.wikipedia.org/wiki/基要派 "wikilink")、文化觀上的偏差行為。他在1947年寫成《近代基要主義不安的良知》（英文：The Uneasy Conscience of Modern Fundamentalism），指出[基要主義](https://zh.wikipedia.org/wiki/基要主義 "wikilink")「責人至嚴、毫無愛心、專好紛爭」，這正是[基要主義的致命傷](https://zh.wikipedia.org/wiki/基要主義 "wikilink")。[基要派只看見](https://zh.wikipedia.org/wiki/基要派 "wikilink")[自由派信仰的](https://zh.wikipedia.org/wiki/自由派 "wikilink")[異端](../Page/異端.md "wikilink")信息，卻看不到自己缺乏絲毫愛心。\[11\]卡爾亨利所選的路線跟[基要派完全不同](https://zh.wikipedia.org/wiki/基要派 "wikilink")。他鼓勵[福音派](../Page/福音派.md "wikilink")人士彼此合、共享團契，對小事不要拘泥固執，並從宗派裡面革新。他不贊成「不准這、不准那」的基督教，願意持開放的態度來認識「新派」[自由神學](https://zh.wikipedia.org/wiki/自由神學 "wikilink")，並用愛心對待所有的[基督徒](../Page/基督徒.md "wikilink")。他又提出呼籲，要[福音派](../Page/福音派.md "wikilink")能團結一致，對外廣傳福音，對內教導平信徒認識正統神學。而[福音派](../Page/福音派.md "wikilink")也真的以行動作出響應：他們真誠的與[福音派](../Page/福音派.md "wikilink")以外人士（主要是[自由派](https://zh.wikipedia.org/wiki/自由派 "wikilink")）交往，共同致力學術研究，又與聖潔會、[靈恩派](../Page/靈恩派.md "wikilink")的人合作，並盡力包容不同宗派在[末世論方面的差異](https://zh.wikipedia.org/wiki/末世論 "wikilink")。\[12\]
 
 卡爾亨利也批判[新正統派的偏差](../Page/新正統神學.md "wikilink")，他認為新正統派雖然打垮了[自由派](https://zh.wikipedia.org/wiki/自由派 "wikilink")，卻也有傾向[自由派的危險](https://zh.wikipedia.org/wiki/自由派 "wikilink")，例如像就[巴特主張](https://zh.wikipedia.org/wiki/巴特 "wikilink")《[聖經](https://zh.wikipedia.org/wiki/聖經 "wikilink")》記載並非事事皆準確，如此便削弱了《[聖經](https://zh.wikipedia.org/wiki/聖經 "wikilink")》的可靠性而且會危害《[聖經](https://zh.wikipedia.org/wiki/聖經 "wikilink")》的教義，失去了[基督教](../Page/基督教.md "wikilink")教義的絕對性。對卡爾亨利而言，《[聖經](https://zh.wikipedia.org/wiki/聖經 "wikilink")》不只是神話語的證言，其本身就是神的話語。「神不單在歷史中行動，並且對人說話。」\[13\]基於這個堅持，卡爾亨利常常批評[巴特的神學在默示觀和啟示觀有缺失](https://zh.wikipedia.org/wiki/巴特 "wikilink")。\[14\]
 
-由於卡爾亨利對福音派的貢獻,
-有不少福學院也開設了以他命名的研究中心，例如：[三一福音神学院的卡爾亨利中心](https://zh.wikipedia.org/wiki/三一福音神学院 "wikilink")\[15\]和美南浸信會神學院
-（英文：The Southern Baptist Theological Seminary）的卡爾亨利福音派研究中心（英文：Carl. F.
-H. Henary Institute Evangelical Engagement）。\[16\]
+由於卡爾亨利對福音派的貢獻, 有不少福學院也開設了以他命名的研究中心，例如：[三一福音神学院的卡爾亨利中心](https://zh.wikipedia.org/wiki/三一福音神学院 "wikilink")\[15\]和美南浸信會神學院 （英文：The Southern Baptist Theological Seminary）的卡爾亨利福音派研究中心（英文：Carl. F. H. Henary Institute Evangelical Engagement）。\[16\]
 
 ## 卡爾亨利的護教巨著：《神、啟示、權威》
 
@@ -56,9 +40,7 @@ H. Henary Institute Evangelical Engagement）。\[16\]
 
 ### 關於神論
 
-在《神、啟示、權威》最後兩冊中，卡爾亨利以三項確認來開始論神：
-第一項確認是關乎神的客觀實在，其中他闡述「神存在」乃表明神不需要、也不倚賴世界而存在，世界存在絕非必然，若不是因為神存在，世界不會存在。第二項確認是關乎神的存在、神的臨在、神的永在。聖經中的啟示為－神的存在：神是超越者、是宇宙的源頭；神的臨在：神至高無上卻自願創造、審判、救贖世人；神的永在：神道成肉身為人，成就救恩。
-第三項確認是神永活。祂的生命在祂自己的裡面，從神而來，也靠神維持下去。神是獨一永活的真神，一切虛假都不能存留。\[36\]三個確認完成後，卡爾亨利再談到神的本質就是神的本性、神的實質、和神的存有。他認為神的本質和屬性是息息相關，不可分割，所以知道神是永活的神、是有位格的神，那麼神的屬性不過是神的特徵而已，那些形容神屬性的各樣名詞都構成了神的本質。\[37\]在神論的部分中，卡爾亨利肯定三一神學、預定揀選論、創造論等來反對進程神學和演化說。
+在《神、啟示、權威》最後兩冊中，卡爾亨利以三項確認來開始論神： 第一項確認是關乎神的客觀實在，其中他闡述「神存在」乃表明神不需要、也不倚賴世界而存在，世界存在絕非必然，若不是因為神存在，世界不會存在。第二項確認是關乎神的存在、神的臨在、神的永在。聖經中的啟示為－神的存在：神是超越者、是宇宙的源頭；神的臨在：神至高無上卻自願創造、審判、救贖世人；神的永在：神道成肉身為人，成就救恩。 第三項確認是神永活。祂的生命在祂自己的裡面，從神而來，也靠神維持下去。神是獨一永活的真神，一切虛假都不能存留。\[36\]三個確認完成後，卡爾亨利再談到神的本質就是神的本性、神的實質、和神的存有。他認為神的本質和屬性是息息相關，不可分割，所以知道神是永活的神、是有位格的神，那麼神的屬性不過是神的特徵而已，那些形容神屬性的各樣名詞都構成了神的本質。\[37\]在神論的部分中，卡爾亨利肯定三一神學、預定揀選論、創造論等來反對進程神學和演化說。
 
 在《神、啟示、權威》第六冊中他在論及神國時，特別強調基督徒的個人倫理學，他就個人公義、社會正義的關注，正是他福音信仰的中心。卡爾亨利認為神學不可以只停留在知識的層面，如果神學能更新聖經的權威，就會參與在世界之中。所以，他的興趣不只侷限於神學，在社會倫理方面他也積極探討。卡爾亨利認為，基督教應當在政治、商業和工作等方面，都促進社會改革，不少神學家倡導這些方面都由社會開始行動，但卡爾亨利卻認為社會的改變必須從個人開始，而不是從集體入手。卡爾亨利的理論，使他不見容於二十世紀中期的基要派，而他對重整社會的興趣，也使得他和許多基督教主流派人士的立場不同。\[38\]
 
@@ -69,18 +51,12 @@ H. Henary Institute Evangelical Engagement）。\[16\]
   - The God Who Shows Himself (1966)
   - Evangelicals at the Brink of Crisis (1967)
   - Evangelicals in Search of Identity (1976)
-  - God, Revelation and Authority, Vol. I, God Who Speaks and Shows:
-    Preliminary Considerations (1976)
-  - God, Revelation and Authority, Vol. II, God Who Speaks and Shows:
-    Fifteen Theses, part one (1976)
-  - God, Revelation and Authority, Vol. III, God Who Speaks and Shows:
-    Fifteen Theses, part two (1979)
-  - God, Revelation and Authority, Vol. IV God Who Speaks and Shows:
-    Fifteen Theses, part three (1979)
-  - God, Revelation and Authority, Vol. V God Who Stands and Stays: part
-    one (1982)
-  - God, Revelation and Authority, Vol. V, God Who Stands and Stays:
-    part two (1983)
+  - God, Revelation and Authority, Vol. I, God Who Speaks and Shows: Preliminary Considerations (1976)
+  - God, Revelation and Authority, Vol. II, God Who Speaks and Shows: Fifteen Theses, part one (1976)
+  - God, Revelation and Authority, Vol. III, God Who Speaks and Shows: Fifteen Theses, part two (1979)
+  - God, Revelation and Authority, Vol. IV God Who Speaks and Shows: Fifteen Theses, part three (1979)
+  - God, Revelation and Authority, Vol. V God Who Stands and Stays: part one (1982)
+  - God, Revelation and Authority, Vol. V, God Who Stands and Stays: part two (1983)
 
 ### 其他出版社出版
 
@@ -112,8 +88,7 @@ H. Henary Institute Evangelical Engagement）。\[16\]
   - Basic Christian Doctrines (1962)
   - Christian Faith and Modern Theology (1964)
   - Jesus of Nazareth: Saviour and Lord (1966)
-  - ed. with W. Stanley Mooneyham, One Race, One Gospel, One Task, 2
-    vols. (1967)
+  - ed. with W. Stanley Mooneyham, One Race, One Gospel, One Task, 2 vols. (1967)
   - Fundamentals of the Faith (1969)
   - Baker's Dictionary of Christian Ethics (1973)
   - Horizons of Science (1978)\[39\]
@@ -133,9 +108,7 @@ H. Henary Institute Evangelical Engagement）。\[16\]
 
 </div>
 
-[Category:1913年出生](https://zh.wikipedia.org/wiki/Category:1913年出生 "wikilink")
-[Category:2003年逝世](https://zh.wikipedia.org/wiki/Category:2003年逝世 "wikilink")
-[Category:美國神學家](https://zh.wikipedia.org/wiki/Category:美國神學家 "wikilink")
+[Category:1913年出生](https://zh.wikipedia.org/wiki/Category:1913年出生 "wikilink") [Category:2003年逝世](https://zh.wikipedia.org/wiki/Category:2003年逝世 "wikilink") [Category:美國神學家](https://zh.wikipedia.org/wiki/Category:美國神學家 "wikilink")
 
 1.
 

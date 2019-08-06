@@ -1,11 +1,8 @@
-《**炎龍騎士團II
-黃金城之謎**》是由[漢堂國際資訊公司於](https://zh.wikipedia.org/wiki/漢堂國際資訊 "wikilink")1995年發行的[個人電腦平台](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[回合制](https://zh.wikipedia.org/wiki/回合制策略遊戲 "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，為《[炎龍騎士團](https://zh.wikipedia.org/wiki/炎龍騎士團 "wikilink")》系列的第二作。
+《**炎龍騎士團II 黃金城之謎**》是由[漢堂國際資訊公司於](https://zh.wikipedia.org/wiki/漢堂國際資訊 "wikilink")1995年發行的[個人電腦平台](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")[回合制](https://zh.wikipedia.org/wiki/回合制策略遊戲 "wikilink")[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，為《[炎龍騎士團](https://zh.wikipedia.org/wiki/炎龍騎士團 "wikilink")》系列的第二作。
 
 遊戲在初期發售時，有搭配附贈限量製作的紙雕座鐘、作為促銷手法。\[1\]
 
-2014年由併購漢堂國際的[智冠科技](../Page/智冠科技.md "wikilink")總公司成立專案小組，于2014年7月30號起在行動裝置先後推出
-『 炎龍騎士團II 黃金城之謎』 的iOS與Android版，並命名為『炎龍騎士團2 懷舊板』， 售價60元
-，其中包含簡易攻略,絕版設定集,音樂集等。
+2014年由併購漢堂國際的[智冠科技](../Page/智冠科技.md "wikilink")總公司成立專案小組，于2014年7月30號起在行動裝置先後推出 『 炎龍騎士團II 黃金城之謎』 的iOS與Android版，並命名為『炎龍騎士團2 懷舊板』， 售價60元 ，其中包含簡易攻略,絕版設定集,音樂集等。
 
 ## 作品背景
 
@@ -19,8 +16,7 @@
 
 ### 角色
 
-在遊戲角色種族方面，《炎龍騎士團2》除保留前作《[炎龍騎士團
-邪神之封印](../Page/炎龍騎士團_邪神之封印.md "wikilink")》原先擁有的人類、精靈、魔族外，另多出獸人、豹人、龍人、上古文明機兵等更多樣化的內容。
+在遊戲角色種族方面，《炎龍騎士團2》除保留前作《[炎龍騎士團 邪神之封印](../Page/炎龍騎士團_邪神之封印.md "wikilink")》原先擁有的人類、精靈、魔族外，另多出獸人、豹人、龍人、上古文明機兵等更多樣化的內容。
 
 而在可供玩家操控的人物角色數量方面裡，《炎龍騎士團2》為《炎龍騎士團》單人遊戲版系列中最多數的一款作品。
 
@@ -28,8 +24,7 @@
 
 ## 遊戲方式
 
-玩法與前作《[炎龍騎士團
-邪神之封印](../Page/炎龍騎士團_邪神之封印.md "wikilink")》同為回合制的戰略遊戲，而《炎龍騎士團2》另增加前作所沒有的若符合指定的條件後、便能讓角色使用的隱藏升級職業，以及一些特定角色才能使用的特殊攻擊招式或魔法。
+玩法與前作《[炎龍騎士團 邪神之封印](../Page/炎龍騎士團_邪神之封印.md "wikilink")》同為回合制的戰略遊戲，而《炎龍騎士團2》另增加前作所沒有的若符合指定的條件後、便能讓角色使用的隱藏升級職業，以及一些特定角色才能使用的特殊攻擊招式或魔法。
 
 在各關卡的遊戲地圖中，則新加了可讓玩家去奪取增加財物的寶箱。而在通過關卡後的商店街裡，也追加只要玩家能輸入指定的暗藏密碼、便能去購買較高等級物品的秘密商店。\[4\]
 
@@ -58,24 +53,17 @@
 
 ## 重製版本
 
-1998年10月漢堂國際資訊將《炎龍騎士團II 黃金城之謎》與另一套炎龍系列作品《[炎龍騎士團
-邪神之封印](../Page/炎龍騎士團_邪神之封印.md "wikilink")》，合併成[光碟](../Page/光碟.md "wikilink")版重新發行。
+1998年10月漢堂國際資訊將《炎龍騎士團II 黃金城之謎》與另一套炎龍系列作品《[炎龍騎士團 邪神之封印](../Page/炎龍騎士團_邪神之封印.md "wikilink")》，合併成[光碟](../Page/光碟.md "wikilink")版重新發行。
 
 在該光碟版本中能讓玩家直接在[Windows環境下安裝](https://zh.wikipedia.org/wiki/Windows "wikilink")《炎龍騎士團2》，並且取消先前[軟碟片版中需輸入密碼才可進行遊戲的保護機制](https://zh.wikipedia.org/wiki/軟碟片 "wikilink")。
 
 而光碟版中另挑選《炎龍騎士團2》中四首遊戲配樂、重新編譯錄製成CD音軌，因此可讓購買者直接在一般CD播放器下聆聽。\[7\]
 
-行動裝置版本： 2014年由智冠科技公司在行動裝置上先後推出 『 炎龍騎士團II 黃金城之謎』iOS與Android版，並命名為『炎龍騎士團2
-懷舊板』， 售價60元 ，其中包含簡易攻略 絕版設定集 、音樂集等附加功能。\[8\]
+行動裝置版本： 2014年由智冠科技公司在行動裝置上先後推出 『 炎龍騎士團II 黃金城之謎』iOS與Android版，並命名為『炎龍騎士團2 懷舊板』， 售價60元 ，其中包含簡易攻略 絕版設定集 、音樂集等附加功能。\[8\]
 
 ## 參考資料
 
-[Category:1995年電子遊戲](https://zh.wikipedia.org/wiki/Category:1995年電子遊戲 "wikilink")
-[Category:DOS遊戲](https://zh.wikipedia.org/wiki/Category:DOS遊戲 "wikilink")
-[Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink")
-[Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink")
-[Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink")
-[Category:炎龍騎士團系列](https://zh.wikipedia.org/wiki/Category:炎龍騎士團系列 "wikilink")
+[Category:1995年電子遊戲](https://zh.wikipedia.org/wiki/Category:1995年電子遊戲 "wikilink") [Category:DOS遊戲](https://zh.wikipedia.org/wiki/Category:DOS遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:臺灣開發電子遊戲](https://zh.wikipedia.org/wiki/Category:臺灣開發電子遊戲 "wikilink") [Category:回合制策略遊戲](https://zh.wikipedia.org/wiki/Category:回合制策略遊戲 "wikilink") [Category:炎龍騎士團系列](https://zh.wikipedia.org/wiki/Category:炎龍騎士團系列 "wikilink")
 
 1.
 

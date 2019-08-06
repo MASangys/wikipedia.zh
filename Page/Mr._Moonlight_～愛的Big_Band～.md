@@ -1,15 +1,11 @@
-「**Mr. Moonlight 〜愛的Big
-Band〜**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第13张[单曲](../Page/单曲.md "wikilink")。於2001年10月31日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
+「**Mr. Moonlight 〜愛的Big Band〜**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合「[早安少女組。](../Page/早安少女組。.md "wikilink")」的第13张[单曲](../Page/单曲.md "wikilink")。於2001年10月31日由[zetima发售](https://zh.wikipedia.org/wiki/zetima "wikilink")。
 
 ## 概要
 
-  - 「Mr. Moonlight 〜愛的Big
-    Band〜」是[早安少女組。](../Page/早安少女組。.md "wikilink")五期成員[高橋愛](../Page/高橋愛.md "wikilink")、[紺野朝美](../Page/紺野朝美.md "wikilink")、[小川麻琴](https://zh.wikipedia.org/wiki/小川麻琴 "wikilink")、[新垣里沙](../Page/新垣里沙.md "wikilink")加入後第一張單曲
+  - 「Mr. Moonlight 〜愛的Big Band〜」是[早安少女組。](../Page/早安少女組。.md "wikilink")五期成員[高橋愛](../Page/高橋愛.md "wikilink")、[紺野朝美](../Page/紺野朝美.md "wikilink")、[小川麻琴](https://zh.wikipedia.org/wiki/小川麻琴 "wikilink")、[新垣里沙](../Page/新垣里沙.md "wikilink")加入後第一張單曲
   - 此單曲只有「CD ONLY」1個版本。
   - 在11月12日於公信榜單曲週排行榜取得第1位，是五期成員加入後首張銷量排名第一的單曲，亦成為早安少女組。出道以來第6張公信榜每周銷量排名第一的單曲。
-  - 在第52回[NHK紅白歌合戰以組曲形式演唱](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")（**Mr.
-    Moonlight ～愛的Big Band～** +
-    [The☆Pea～ce\!](https://zh.wikipedia.org/wiki/The☆Pea～ce!_/_充滿愛的大宇宙 "wikilink")）
+  - 在第52回[NHK紅白歌合戰以組曲形式演唱](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")（**Mr. Moonlight ～愛的Big Band～** + [The☆Pea～ce\!](https://zh.wikipedia.org/wiki/The☆Pea～ce!_/_充滿愛的大宇宙 "wikilink")）
 
 ## 收錄內容
 
@@ -21,6 +17,4 @@ Band〜**」（）是[日本](../Page/日本.md "wikilink")的女子偶像組合
     （作詞・作曲：[淳君](../Page/淳君.md "wikilink")　編曲：[河野伸](https://zh.wikipedia.org/wiki/河野伸 "wikilink")）
 3.  Mr. Moonlight 〜愛的Big Band〜(Instrumental)
 
-[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink")
-[Category:早安少女組。歌曲](https://zh.wikipedia.org/wiki/Category:早安少女組。歌曲 "wikilink")
-[Category:2001年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲週榜冠軍作品 "wikilink")
+[Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink") [Category:早安少女組。歌曲](https://zh.wikipedia.org/wiki/Category:早安少女組。歌曲 "wikilink") [Category:2001年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2001年Oricon單曲週榜冠軍作品 "wikilink")

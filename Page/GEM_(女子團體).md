@@ -1,13 +1,8 @@
-**GEM**（）是一個已解散的日本女子偶像團體、歌舞團體，所屬經紀公司為[愛貝克思管理](../Page/愛貝克思管理.md "wikilink")，所屬唱片品牌為[iDOL
-Street](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")，乃iDOL
-Street繼[SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")、[Cheeky
-Parade之後成立的第](../Page/Cheeky_Parade.md "wikilink")3組團體。2012年組成，2018年解散。
+**GEM**（）是一個已解散的日本女子偶像團體、歌舞團體，所屬經紀公司為[愛貝克思管理](../Page/愛貝克思管理.md "wikilink")，所屬唱片品牌為[iDOL Street](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")，乃iDOL Street繼[SUPER☆GiRLS](../Page/SUPER☆GiRLS.md "wikilink")、[Cheeky Parade之後成立的第](../Page/Cheeky_Parade.md "wikilink")3組團體。2012年組成，2018年解散。
 
 ## 概要
 
-由日本avex所設立的偶像專屬唱片品牌與企劃「iDOL
-Street」打造的第三組女子團體，團名「**GEM**」有「**[寶石](../Page/寶石.md "wikilink")**」的意思，代表「在磨練下變成閃亮的寶石」，每位成員都有一個代表的寶石，另外也有「**G**irls
-**E**ntertainment **M**ixture（少女們的娛樂集合體）」之意。
+由日本avex所設立的偶像專屬唱片品牌與企劃「iDOL Street」打造的第三組女子團體，團名「**GEM**」有「**[寶石](../Page/寶石.md "wikilink")**」的意思，代表「在磨練下變成閃亮的寶石」，每位成員都有一個代表的寶石，另外也有「**G**irls **E**ntertainment **M**ixture（少女們的娛樂集合體）」之意。
 
 音樂風格可以分為「**白GEM**」「**黒GEM**」兩個類別。
 
@@ -18,51 +13,39 @@ Street」打造的第三組女子團體，團名「**GEM**」有「**[寶石](..
 
 ### 2012年
 
-  - 1月23日、發表從iDOL Street
-    Street生中組成了GEM及團體的的初始成員：金澤有希、森岡悠、南口奈奈、熊代珠琳、村上来渚、武田舞彩、伊山摩穂、淺川梨奈、內村莉彩、大關凪、坂元葉月。
-  - 12月25日、在『SUPER☆GiRLS EveryBody JUMP\!\! 2012 FINAL 〜X'mas Special〜
-    Vol.1 Vol.2』（中野太陽廣場）發表了團體正式結成。
+  - 1月23日、發表從iDOL Street Street生中組成了GEM及團體的的初始成員：金澤有希、森岡悠、南口奈奈、熊代珠琳、村上来渚、武田舞彩、伊山摩穂、淺川梨奈、內村莉彩、大關凪、坂元葉月。
+  - 12月25日、在『SUPER☆GiRLS EveryBody JUMP\!\! 2012 FINAL 〜X'mas Special〜 Vol.1 Vol.2』（中野太陽廣場）發表了團體正式結成。
 
 ### 2013年
 
-  - 4月1日、iDOL Street Street生的定期公演『ストリーーーーーグ』的最終公演、發表了伊藤 千咲美、小栗 かこ、平野
-    沙羅以追加成員的方式加入。
+  - 4月1日、iDOL Street Street生的定期公演『ストリーーーーーグ』的最終公演、發表了伊藤 千咲美、小栗 かこ、平野 沙羅以追加成員的方式加入。
   - 4月7日、大關凪在這天發表了從iDOL Street畢業的消息，同時離開團體。
-  - 6月11日、在『SUPER☆GiRLS 誕生3周年記念SP アイドルストリートカーニバル 日本武道館
-    〜超絶少女たちの挑戦2013〜』發表了正式成員10名：金澤有希、伊藤千咲美、森岡悠、南口奈奈、熊代珠琳、小栗かこ、村上来渚、武田舞彩、伊山摩穂、平野沙羅（坂元葉月、淺川梨奈及內村莉彩離開團體）。
-  - 10月14日、在『アイドル収穫祭 〜iDOL Street EXPO
-    2013〜』（日本青年館），發表了GEM將在2014年1月1日正式出道。
+  - 6月11日、在『SUPER☆GiRLS 誕生3周年記念SP アイドルストリートカーニバル 日本武道館 〜超絶少女たちの挑戦2013〜』發表了正式成員10名：金澤有希、伊藤千咲美、森岡悠、南口奈奈、熊代珠琳、小栗かこ、村上来渚、武田舞彩、伊山摩穂、平野沙羅（坂元葉月、淺川梨奈及內村莉彩離開團體）。
+  - 10月14日、在『アイドル収穫祭 〜iDOL Street EXPO 2013〜』（日本青年館），發表了GEM將在2014年1月1日正式出道。
   - 11月17日、開設GEM的官方網站。
 
 ### 2014年
 
   - 1月1日、發售正式出道單曲「We're GEM\!」。
   - 6月4日、發售第二張單曲「Do You Believe?」。
-  - 9月13日、舉辦初次的單獨表演『GEM Live Mixture2014 初ワンマン\!\! 〜夢に輝け！Go for
-    it★〜』（新宿BLAZE）。
+  - 9月13日、舉辦初次的單獨表演『GEM Live Mixture2014 初ワンマン\!\! 〜夢に輝け！Go for it★〜』（新宿BLAZE）。
   - 12月17日、發售第三張單曲「Star Shine Story」。
 
 ### 2015年
 
-  - 6月28日、舉辦結成2周年的單獨公演『GEM Live Mixture2015 〜2nd
-    Anniversary〜』（赤坂BLITZ）。發售音樂卡「No Girls No Fun」、「You
-    You You」、「Delightful Days」。
+  - 6月28日、舉辦結成2周年的單獨公演『GEM Live Mixture2015 〜2nd Anniversary〜』（赤坂BLITZ）。發售音樂卡「No Girls No Fun」、「You You You」、「Delightful Days」。
   - 7月6日、伊藤千咲美為了提升自身技能而暫停活動。
   - 9月30日、發售第四張單曲「Baby, Love me\!」（伊藤千咲美未參與）。
   - 10月1日、伊藤千咲美開始繼續活動。
 
 ### 2016年
 
-  - 1月17日、武田舞彩與Cheeky Parade的成員山本真凜、鈴木真梨耶發表將前往LA留學。並將2016年6月25日的「iDOL
-    Street Carnival 2016 6th Anniversary 〜RE:Я|LOAD〜」作為留學前的最後一個舞台。
+  - 1月17日、武田舞彩與Cheeky Parade的成員山本真凜、鈴木真梨耶發表將前往LA留學。並將2016年6月25日的「iDOL Street Carnival 2016 6th Anniversary 〜RE:Я|LOAD〜」作為留學前的最後一個舞台。
   - 3月18日、伊山摩穂為了專心治療貧血而暫停活動。
-  - 3月23日、同時發售第五張單曲「Fine\! 〜fly for the future〜」及第一張專輯『Girls
-    Entertainment Mixture』。
+  - 3月23日、同時發售第五張單曲「Fine\! 〜fly for the future〜」及第一張專輯『Girls Entertainment Mixture』。
   - 4月13日、伊山摩穂開始繼續活動。
-  - 6月11日、舉辦結成3周年紀念活動『GEM Premium Mixture 2016 〜3rd
-    Anniversary〜』（新宿BLAZE）。
-  - 6月25日、在『iDOL Street Carnival 2016 6th Anniversary
-    〜RE:Я|LOAD〜』結束之後，武田舞彩因留學而暫停活動，且在活動中宣布加入兩名新成員：西田ひらり、野口もなみ，團體人數變為11人，開始新體制。
+  - 6月11日、舉辦結成3周年紀念活動『GEM Premium Mixture 2016 〜3rd Anniversary〜』（新宿BLAZE）。
+  - 6月25日、在『iDOL Street Carnival 2016 6th Anniversary 〜RE:Я|LOAD〜』結束之後，武田舞彩因留學而暫停活動，且在活動中宣布加入兩名新成員：西田ひらり、野口もなみ，團體人數變為11人，開始新體制。
   - 7月20日、發售第六張單曲「Spotlight」。
   - 8月31日、野口もなみ為了專注學業，退出團體。
   - 9月、👍監督(GEM浜高校アイドル部)就任為團體的企劃者。
@@ -473,12 +456,7 @@ Diable Winter Collection目錄模特兒<br />
 
   - [GEM官方網站](http://www.girls-entertainment-mixture.jp/)
   - [GEM官方網站（Avex network）](http://avexnet.jp/id/gem/)
-  - [iDOL Street官方YouTube網站包括「GEM
-    now」](http://www.youtube.com/user/iDOLStreetProject)
+  - [iDOL Street官方YouTube網站包括「GEM now」](http://www.youtube.com/user/iDOLStreetProject)
   - [GEM官方日誌](http://ameblo.jp/idolstreet-gem/)
 
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
-[Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
-[Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink")
-[Category:2012年日本建立](https://zh.wikipedia.org/wiki/Category:2012年日本建立 "wikilink")
-[Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:2012年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年成立的音樂團體 "wikilink") [Category:2012年日本建立](https://zh.wikipedia.org/wiki/Category:2012年日本建立 "wikilink") [Category:2018年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年解散的音樂團體 "wikilink")

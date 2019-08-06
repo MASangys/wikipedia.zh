@@ -1,5 +1,4 @@
-『**Buono\! Live Tour 2011 summer ～Rock'n Buono\!
-4～**』（）是[日本](../Page/日本.md "wikilink")的女子偶像組合的Live影像。2011年12月7日以DVD和Blu-ray同日發售\[1\]。
+『**Buono\! Live Tour 2011 summer ～Rock'n Buono\! 4～**』（）是[日本](../Page/日本.md "wikilink")的女子偶像組合的Live影像。2011年12月7日以DVD和Blu-ray同日發售\[1\]。
 
 ## 收錄曲目
 
@@ -11,8 +10,7 @@
 6.  [キアオラ・グラシャス・ありがと](https://zh.wikipedia.org/wiki/partenza_出發 "wikilink")
 7.  MC2
 8.  [Blue-Sky-Blue](../Page/We_are_Buono!.md "wikilink")
-9.  [My alright
-    sky](https://zh.wikipedia.org/wiki/partenza_出發 "wikilink")
+9.  [My alright sky](https://zh.wikipedia.org/wiki/partenza_出發 "wikilink")
 10. MC3
 11. [Kiss\!Kiss\!Kiss\!](../Page/Kiss!Kiss!Kiss!.md "wikilink")
 12. [恋愛{{Unicode](https://zh.wikipedia.org/wiki/戀愛騎士 "wikilink")
@@ -46,13 +44,9 @@
 
 ## 外部連結
 
-  - [Buono\!ライブツアー2011summer〜Rock'n
-    Buono\!4〜](https://web.archive.org/web/20120401210125/http://www.up-front-works.jp/discography/zetima/129/v_06/index.html)(DVD)
-  - [Buono\!ライブツアー2011summer〜Rock'n
-    Buono\!4〜](https://web.archive.org/web/20120401210431/http://www.up-front-works.jp/discography/zetima/129/v_07/index.html)(Blu-ray)
+  - [Buono\!ライブツアー2011summer〜Rock'n Buono\!4〜](https://web.archive.org/web/20120401210125/http://www.up-front-works.jp/discography/zetima/129/v_06/index.html)(DVD)
+  - [Buono\!ライブツアー2011summer〜Rock'n Buono\!4〜](https://web.archive.org/web/20120401210431/http://www.up-front-works.jp/discography/zetima/129/v_07/index.html)(Blu-ray)
 
-[Category:2011年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2011年音樂相關影像作品 "wikilink")
-[Category:Buono\!影像作品](https://zh.wikipedia.org/wiki/Category:Buono!影像作品 "wikilink")
+[Category:2011年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2011年音樂相關影像作品 "wikilink") [Category:Buono\!影像作品](https://zh.wikipedia.org/wiki/Category:Buono!影像作品 "wikilink")
 
-1.  [Sony Music Shop 「Buono\! ライブツアー2011 summer 〜Rock'n
-    Buono\! 4〜(DVD)」](http://www.sonymusicshop.jp/m/item/itemShw.php?site=S&ima=0722&cd=EPBE000005424)
+1.  [Sony Music Shop 「Buono\! ライブツアー2011 summer 〜Rock'n Buono\! 4〜(DVD)」](http://www.sonymusicshop.jp/m/item/itemShw.php?site=S&ima=0722&cd=EPBE000005424)

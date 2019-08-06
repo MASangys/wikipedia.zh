@@ -1,17 +1,11 @@
-\--[This module define the data used by Module:Taxobox
---](https://zh.wikipedia.org/wiki/This_module_define_the_data_used_by_Module:Taxobox_-- "wikilink")
+\--[This module define the data used by Module:Taxobox --](https://zh.wikipedia.org/wiki/This_module_define_the_data_used_by_Module:Taxobox_-- "wikilink")
 
 local p = {}
 
-\--[This table define the conservation system and its status and photo
-to be showed Note: If extinct is defined and is true, Module:Taxobox
-will try to print corresponding argument.
---](https://zh.wikipedia.org/wiki/This_table_define_the_conservation_system_and_its_status_and_photo_to_be_showed_Note:_If_extinct_is_defined_and_is_true,_Module:Taxobox_will_try_to_print_corresponding_argument._-- "wikilink")
-local conservationStatusTable = {
+\--[This table define the conservation system and its status and photo to be showed Note: If extinct is defined and is true, Module:Taxobox will try to print corresponding argument. --](https://zh.wikipedia.org/wiki/This_table_define_the_conservation_system_and_its_status_and_photo_to_be_showed_Note:_If_extinct_is_defined_and_is_true,_Module:Taxobox_will_try_to_print_corresponding_argument._-- "wikilink") local conservationStatusTable = {
 
 `   ['iucn2.3'] = {`
-`       ['introduction'] = '`[`IUCN``
- ``2.3`](https://zh.wikipedia.org/wiki/世界自然保护联盟濒危物种红色名录 "wikilink")`',`
+`       ['introduction'] = '`[`IUCN``   ``2.3`](https://zh.wikipedia.org/wiki/世界自然保护联盟濒危物种红色名录 "wikilink")`',`
 `       ['ex'] = {`
 `           ['name'] = '`[`絕滅`](https://zh.wikipedia.org/wiki/絕滅 "wikilink")`', ['category'] = '世界自然保护联盟濒危物种红色名录绝灭物种', ['extinct'] = true,`
 `           ['photo'] = '-{zh-hans:`[`Status_iucn2.3_EX_zh.svg`](https://zh.wikipedia.org/wiki/File:Status_iucn2.3_EX_zh.svg "fig:Status_iucn2.3_EX_zh.svg")`;zh-hant:`[`Status_iucn2.3_EX_zh-hant.svg`](https://zh.wikipedia.org/wiki/File:Status_iucn2.3_EX_zh-hant.svg "fig:Status_iucn2.3_EX_zh-hant.svg")`}-'`
@@ -42,8 +36,7 @@ local conservationStatusTable = {
 `       },`
 `       ['lr'] = {`
 `           ['name'] = '`[`低危`](https://zh.wikipedia.org/wiki/低危 "wikilink")`', ['category'] = '无效保护状况',`
-`           ['photo'] = '`[<File:Status>`   ``iucn2.3``
- ``blank.svg`](https://zh.wikipedia.org/wiki/File:Status_iucn2.3_blank.svg "fig:File:Status iucn2.3 blank.svg")`'`
+`           ['photo'] = '`[<File:Status>`   ``iucn2.3``   ``blank.svg`](https://zh.wikipedia.org/wiki/File:Status_iucn2.3_blank.svg "fig:File:Status iucn2.3 blank.svg")`'`
 `       },`
 `       ['lr/cd'] = {`
 `           ['name'] = '`[`保护依赖`](https://zh.wikipedia.org/wiki/保护依赖 "wikilink")`', ['category'] = '世界自然保护联盟濒危物种红色名录保护依赖物种',`
@@ -62,8 +55,7 @@ local conservationStatusTable = {
 `       ['lc'] = {['alias'] = 'lr/lc'},`
 `       ['dd'] = {`
 `           ['name'] = '`[`数据缺乏`](https://zh.wikipedia.org/wiki/数据缺乏 "wikilink")`', ['category'] = '世界自然保护联盟濒危物种红色名录数据缺乏物种',`
-`           ['photo'] = '`[<File:Status>`   ``none``
- ``DD.svg`](https://zh.wikipedia.org/wiki/File:Status_none_DD.svg "fig:File:Status none DD.svg")`'`
+`           ['photo'] = '`[<File:Status>`   ``none``   ``DD.svg`](https://zh.wikipedia.org/wiki/File:Status_none_DD.svg "fig:File:Status none DD.svg")`'`
 `       },`
 `       ['ne'] = {['name'] = '未予评估'},`
 `       ['nr'] = {['name'] = '未承认'},`
@@ -77,8 +69,7 @@ local conservationStatusTable = {
 `       }`
 `   },`
 `   ['iucn'] = {`
-`       ['introduction'] = '`[`IUCN``
- ``3.1`](https://zh.wikipedia.org/wiki/世界自然保护联盟濒危物种红色名录 "wikilink")`',`
+`       ['introduction'] = '`[`IUCN``   ``3.1`](https://zh.wikipedia.org/wiki/世界自然保护联盟濒危物种红色名录 "wikilink")`',`
 `       ['ex'] = {`
 `           ['name'] = '`[`绝灭`](https://zh.wikipedia.org/wiki/绝灭 "wikilink")`', ['category'] = '世界自然保护联盟濒危物种红色名录绝灭物种', ['extinct'] = true,`
 `           ['photo'] = '-{zh-hans:`[`Status_iucn3.1_EX_zh.svg`](https://zh.wikipedia.org/wiki/File:Status_iucn3.1_EX_zh.svg "fig:Status_iucn3.1_EX_zh.svg")`;zh-hant:`[`Status_iucn3.1_EX_zh-hant.svg`](https://zh.wikipedia.org/wiki/File:Status_iucn3.1_EX_zh-hant.svg "fig:Status_iucn3.1_EX_zh-hant.svg")`}-'`
@@ -109,8 +100,7 @@ local conservationStatusTable = {
 `       },`
 `       ['dd'] = {`
 `           ['name'] = '`[`数据缺乏`](https://zh.wikipedia.org/wiki/数据缺乏 "wikilink")`', ['category'] = '世界自然保护联盟濒危物种红色名录数据缺乏物种',`
-`           ['photo'] = '`[<File:Status>`   ``none``
- ``DD.svg`](https://zh.wikipedia.org/wiki/File:Status_none_DD.svg "fig:File:Status none DD.svg")`'`
+`           ['photo'] = '`[<File:Status>`   ``none``   ``DD.svg`](https://zh.wikipedia.org/wiki/File:Status_none_DD.svg "fig:File:Status none DD.svg")`'`
 `       },`
 `       ['ne'] = {['name'] = '未予评估'},`
 `       ['nr'] = {['name'] = '未承认'},`
@@ -294,8 +284,7 @@ local conservationStatusTable = {
 `       },`
 `       ['nt'] = {`
 `           ['name'] = '`[`低危`](https://zh.wikipedia.org/wiki/低危 "wikilink")`', ['category'] = '无效保护状况',`
-`           ['photo'] = '`[<File:Status>`   ``iucn2.3``
- ``blank.svg`](https://zh.wikipedia.org/wiki/File:Status_iucn2.3_blank.svg "fig:File:Status iucn2.3 blank.svg")`'`
+`           ['photo'] = '`[<File:Status>`   ``iucn2.3``   ``blank.svg`](https://zh.wikipedia.org/wiki/File:Status_iucn2.3_blank.svg "fig:File:Status iucn2.3 blank.svg")`'`
 `       },`
 `       ['lc'] = {`
 `           ['name'] = '`[`保护依赖`](https://zh.wikipedia.org/wiki/保护依赖 "wikilink")`', ['category'] = '世界自然保护联盟濒危物种红色名录保护依赖物种',`
@@ -392,9 +381,7 @@ local conservationStatusTable = {
 
 }
 
-\--[if the argName == className, just leave argName alone
---](https://zh.wikipedia.org/wiki/if_the_argName_==_className,_just_leave_argName_alone_-- "wikilink")
-local classificationTable = {
+\--[if the argName == className, just leave argName alone --](https://zh.wikipedia.org/wiki/if_the_argName_==_className,_just_leave_argName_alone_-- "wikilink") local classificationTable = {
 
 `   {['argName'] = 'superdomain', ['entryName'] = '總域'},`
 `   {['argName'] = 'domain', ['entryName'] = '域'},`
@@ -463,8 +450,6 @@ local typeSpeciesTable = {
 
 }
 
-p.conservationStatusTable = conservationStatusTable
-p.classificationTable = classificationTable p.typeSpeciesTable =
-typeSpeciesTable
+p.conservationStatusTable = conservationStatusTable p.classificationTable = classificationTable p.typeSpeciesTable = typeSpeciesTable
 
 return p

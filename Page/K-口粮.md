@@ -1,12 +1,10 @@
-[KRation_Breakfast.JPG](https://zh.wikipedia.org/wiki/File:KRation_Breakfast.JPG "fig:KRation_Breakfast.JPG")[KRation_Dinner.JPG](https://zh.wikipedia.org/wiki/File:KRation_Dinner.JPG "fig:KRation_Dinner.JPG")[KRation_Supper.jpg](https://zh.wikipedia.org/wiki/File:KRation_Supper.jpg "fig:KRation_Supper.jpg")
-**K-口粮**（K-ration）是一种单兵军用口粮，完整的一份可满足一名普通士兵一天的消耗。K-口粮在[第二次世界大战](../Page/第二次世界大战.md "wikilink")中由[美国陆军](../Page/美国陆军.md "wikilink")引入。但早期的K-口粮只配发给[空降兵](https://zh.wikipedia.org/wiki/空降兵 "wikilink")、[坦克](../Page/坦克.md "wikilink")部队、摩托化部队等机动部队，供机动部队作为临时性的食物。\[1\]。一份完整的K-口粮包装在三个独立的盒子中，分为[早餐](../Page/早餐.md "wikilink")、[午餐](https://zh.wikipedia.org/wiki/午餐 "wikilink")、[晚餐](../Page/晚餐.md "wikilink")（如右图所示）。
+[KRation_Breakfast.JPG](https://zh.wikipedia.org/wiki/File:KRation_Breakfast.JPG "fig:KRation_Breakfast.JPG")[KRation_Dinner.JPG](https://zh.wikipedia.org/wiki/File:KRation_Dinner.JPG "fig:KRation_Dinner.JPG")[KRation_Supper.jpg](https://zh.wikipedia.org/wiki/File:KRation_Supper.jpg "fig:KRation_Supper.jpg") **K-口粮**（K-ration）是一种单兵军用口粮，完整的一份可满足一名普通士兵一天的消耗。K-口粮在[第二次世界大战](../Page/第二次世界大战.md "wikilink")中由[美国陆军](../Page/美国陆军.md "wikilink")引入。但早期的K-口粮只配发给[空降兵](https://zh.wikipedia.org/wiki/空降兵 "wikilink")、[坦克](../Page/坦克.md "wikilink")部队、摩托化部队等机动部队，供机动部队作为临时性的食物。\[1\]。一份完整的K-口粮包装在三个独立的盒子中，分为[早餐](../Page/早餐.md "wikilink")、[午餐](https://zh.wikipedia.org/wiki/午餐 "wikilink")、[晚餐](../Page/晚餐.md "wikilink")（如右图所示）。
 
 ## 历史
 
 美国陆军在1941年委托明尼苏达大学的教授研发一种不易变质、开袋即食的口粮，并要求口粮能够装入士兵的口袋，作为士兵的短期内临时性单兵口粮。之后，凯斯教授到当地的超市中选购了一些廉价但高热量的食品，其中包括了[硬饼干](https://zh.wikipedia.org/wiki/硬饼干 "wikilink")、[干腊肠](https://zh.wikipedia.org/wiki/腊肠 "wikilink")、硬糖和[条状巧克力](../Page/巧克力.md "wikilink")。之后他便用这些食品搭配了一个871g（合28[盎司](../Page/盎司.md "wikilink")）包含3200[卡路里](../Page/卡路里.md "wikilink")（合13,400[kJ](https://zh.wikipedia.org/wiki/kJ "wikilink")）的套餐，在附近的[军事基地中挑选了](https://zh.wikipedia.org/wiki/军事基地 "wikilink")6名士兵进行试验。这些食物只得到了士兵“味道凑合”和“总比没有强”等评语。虽然味道不佳，但能成功消除士兵饥饿，并提供足够的热量。不过研发之初，K-口粮只是用来满足单兵的短期临时需要，在设想中，士兵最多只要吃15顿K-口粮应付一下，之后就能有相对新鲜、可口的“”或“”吃了。\[2\]K-口粮装备部队以后，很快便获得了“空降兵口粮”的称谓，因为空降部队最早试验性地配发了K-口粮。
 
-之后，真正的K-口粮的原型是后勤研究实验室（Subsistence Research
-Laboratory）应[美国陆军航空兵](../Page/美国陆军航空兵.md "wikilink")的要求研发的一种针对空降兵用能装入口袋的口粮。\[3\]其具有两个原始样品，其中一个版本中包含肉饼饼干、[花生酱](https://zh.wikipedia.org/wiki/花生酱 "wikilink")、[葡萄干和汤包](https://zh.wikipedia.org/wiki/葡萄干 "wikilink")，另一个版本中包含了肉饼饼干、一小块[D-口粮（块状巧克力）](https://zh.wikipedia.org/wiki/D-口粮（块状巧克力） "wikilink")、肉罐头和速溶柠檬粉，而这两个版本的包装是相同的，即早餐、正餐、晚餐都装入同一个包装中，而这两个方案之后被采纳并作为标准。\[4\]军需部改变了其中的一些设计，并将这种口粮命名为**K-口粮**。最终的定型版本中每天的套餐里包含了2830卡路里的热量。\[5\]第一批正式生产的K-口粮在1942年五月出厂。K-口粮"K"字母只是用来区分其它型号的口粮，但有流言说「K」意为它的研发者凯斯教授。
+之后，真正的K-口粮的原型是后勤研究实验室（Subsistence Research Laboratory）应[美国陆军航空兵](../Page/美国陆军航空兵.md "wikilink")的要求研发的一种针对空降兵用能装入口袋的口粮。\[3\]其具有两个原始样品，其中一个版本中包含肉饼饼干、[花生酱](https://zh.wikipedia.org/wiki/花生酱 "wikilink")、[葡萄干和汤包](https://zh.wikipedia.org/wiki/葡萄干 "wikilink")，另一个版本中包含了肉饼饼干、一小块[D-口粮（块状巧克力）](https://zh.wikipedia.org/wiki/D-口粮（块状巧克力） "wikilink")、肉罐头和速溶柠檬粉，而这两个版本的包装是相同的，即早餐、正餐、晚餐都装入同一个包装中，而这两个方案之后被采纳并作为标准。\[4\]军需部改变了其中的一些设计，并将这种口粮命名为**K-口粮**。最终的定型版本中每天的套餐里包含了2830卡路里的热量。\[5\]第一批正式生产的K-口粮在1942年五月出厂。K-口粮"K"字母只是用来区分其它型号的口粮，但有流言说「K」意为它的研发者凯斯教授。
 
 K-口粮最早在1942年被发现已经实验性地装备了空降部队，早期的使用报告还大加赞赏K-口粮丰富的口味种类和便于携带的轻量化设计。但K-口粮在极端恶劣条件下仅仅进行了极为有限的试验，如在[巴拿马](../Page/巴拿马.md "wikilink")丛林中的试验仅仅进行了三天，原计划的行军根本没有完成，而且行军还主要在路况良好的道路上，而非真正的[雨林](../Page/雨林.md "wikilink")中，行军的速度也只有每天11[英里](../Page/英里.md "wikilink")。测试部队中每人携带一份K-口粮、武器、[雨衣](https://zh.wikipedia.org/wiki/雨衣 "wikilink")、半边的双人[帐篷和一](https://zh.wikipedia.org/wiki/帐篷 "wikilink")[夸脱的水壶](https://zh.wikipedia.org/wiki/夸脱 "wikilink")。除此之外，没有对这些士兵进行更多的试验，比如带有大量弹药和水的急行军试验。第三天结束后，对参与试验的士兵进行了称重，并没有检测到异常的体重下降，K-口粮至少看起来是成功通过了测试。而这次试验的结果之后被成为了取消[山地口粮和](https://zh.wikipedia.org/wiki/山地口粮 "wikilink")[雨林口粮研发的依据](https://zh.wikipedia.org/wiki/雨林口粮 "wikilink")。当初K-口粮只是用于最为紧急口粮使用的，但军需部的军官们将当初的设想抛到了一边，直到[战争](../Page/战争.md "wikilink")结束，军需部仍然以当年的巴拿马试验结果为依据，坚持K-口粮可以满足前线士兵的所有食物需求。而紧急口粮的设想之后被完全抛弃，在美国参战后，K-口粮大量进入陆军服役。
 
@@ -26,9 +24,7 @@ K-口粮中的某些成分味道不佳，如肥猪肉条和极酸的柠檬粉，
 
 ## 包装
 
-K-口粮早期包装在以[黑花字体印刷的棕褐色矩形包装盒中](https://zh.wikipedia.org/wiki/黑花字体 "wikilink")。外盒的顶部印有"US
-ARMY FIELD RATION
-K"的字样。在每个餐单元内盒（早餐、午餐、晚餐单元）上印有B、D或S字样。其中B代表早餐，D代表正餐，S代表晚餐。尽管最初设计者期望使用者按照这个顺序食用，但通常情况下，士兵不会按照这个顺序食用。
+K-口粮早期包装在以[黑花字体印刷的棕褐色矩形包装盒中](https://zh.wikipedia.org/wiki/黑花字体 "wikilink")。外盒的顶部印有"US ARMY FIELD RATION K"的字样。在每个餐单元内盒（早餐、午餐、晚餐单元）上印有B、D或S字样。其中B代表早餐，D代表正餐，S代表晚餐。尽管最初设计者期望使用者按照这个顺序食用，但通常情况下，士兵不会按照这个顺序食用。
 
 之后的“士气系列”则有特别的包装设计，可以通过底部的彩色代码来和普通版本相区分。早餐盒为写有「B」字母的棕色盒子，午餐盒为写有「D」的蓝色盒子，晚餐盒为写有「S」的草绿色盒子。最早版本的K-口粮的外盒经过化学方法处理，并具有防水功能，来防止内部的食物受到破坏。而防水处理使用的方法是在纸盒上打[蜡](https://zh.wikipedia.org/wiki/蜡 "wikilink")，这使得纸盒具有[可燃性](https://zh.wikipedia.org/wiki/可燃性 "wikilink")，后来士兵们发现这个性能可以用来生个火煮[咖啡](../Page/咖啡.md "wikilink")。
 
@@ -48,34 +44,17 @@ K"的字样。在每个餐单元内盒（早餐、午餐、晚餐单元）上印
 
 ## 参考资料
 
-[Category:美軍飲食](https://zh.wikipedia.org/wiki/Category:美軍飲食 "wikilink")
-[Category:20世纪美军](https://zh.wikipedia.org/wiki/Category:20世纪美军 "wikilink")
+[Category:美軍飲食](https://zh.wikipedia.org/wiki/Category:美軍飲食 "wikilink") [Category:20世纪美军](https://zh.wikipedia.org/wiki/Category:20世纪美军 "wikilink")
 
-1.  U.S. Army Quartermaster Museum, *RATIONS: The History of Rations*,
-    Conference Notes prepared for the Quartermaster General, The
-    Quartermaster School (January 1949)
+1.  U.S. Army Quartermaster Museum, *RATIONS: The History of Rations*, Conference Notes prepared for the Quartermaster General, The Quartermaster School (January 1949)
 
-2.  Longino, James C. (Col.), *Rations in Review*, The Quartermaster
-    Review, May–June 1946: Col. Longino noted that the K-ration was
-    originally intended to be used for no more than 15 consecutive
-    *meals*.
+2.  Longino, James C. (Col.), *Rations in Review*, The Quartermaster Review, May–June 1946: Col. Longino noted that the K-ration was originally intended to be used for no more than 15 consecutive *meals*.
 
-3.  U.S. Army Quartermaster Museum, *Army Operational Rations -
-    Historical Background*,
+3.  U.S. Army Quartermaster Museum, *Army Operational Rations - Historical Background*,
 
 4.
-5.  Tucker, Todd, *The Great Starvation Experiment: The Heroic Men Who
-    Starved So That Millions Could Live*, Simon and Schuster (2006),
-    ISBN 1-4165-3189-0, ISBN 978-1-4165-3189-0, pp. 30–31.
+5.  Tucker, Todd, *The Great Starvation Experiment: The Heroic Men Who Starved So That Millions Could Live*, Simon and Schuster (2006), ISBN 1-4165-3189-0, ISBN 978-1-4165-3189-0, pp. 30–31.
 
-6.  Hopkins, James (M.D.), Stelling, Henry (M.D.), and Voorhees, Tracy
-    S., "The Marauders and The Microbes: A Record of Righteous
-    Indignation", *Infantry Journal* 64 (March 1949) p. 302:
-    <http://history.amedd.army.mil/booksdocs/wwii/CrisisFleeting/bookfive.htm>
+6.  Hopkins, James (M.D.), Stelling, Henry (M.D.), and Voorhees, Tracy S., "The Marauders and The Microbes: A Record of Righteous Indignation", *Infantry Journal* 64 (March 1949) p. 302: <http://history.amedd.army.mil/booksdocs/wwii/CrisisFleeting/bookfive.htm>
 
-7.  Moran, B., *Dinner Goes to War: The Long Battle for Edible Combat
-    Rations is Finally Being Won*, American Heritage of Invention &
-    Technology, Summer 1998, Vol. 14, No. 1, pp. 10–19: The lemonade
-    powder in the K-ration, the sole source of Vitamin C, was so acidic
-    that soldiers commonly joked that it worked better as a floor
-    cleaner than as a drink.
+7.  Moran, B., *Dinner Goes to War: The Long Battle for Edible Combat Rations is Finally Being Won*, American Heritage of Invention & Technology, Summer 1998, Vol. 14, No. 1, pp. 10–19: The lemonade powder in the K-ration, the sole source of Vitamin C, was so acidic that soldiers commonly joked that it worked better as a floor cleaner than as a drink.

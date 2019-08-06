@@ -78,15 +78,10 @@
 
   - [reborn 官方微博](http://weibo.com/u/1846255910)
 
-[Category:中国女子演唱团体](https://zh.wikipedia.org/wiki/Category:中国女子演唱团体 "wikilink")
-[Category:超级女声参赛选手](https://zh.wikipedia.org/wiki/Category:超级女声参赛选手 "wikilink")
+[Category:中国女子演唱团体](https://zh.wikipedia.org/wiki/Category:中国女子演唱团体 "wikilink") [Category:超级女声参赛选手](https://zh.wikipedia.org/wiki/Category:超级女声参赛选手 "wikilink")
 
 1.  [Reborn姐妹花演绎音乐传奇](http://news.163.com/13/0918/04/991CIGPO00014Q4P.html)
-2.  [2006超级女声总决赛六强诞生
-    韩真真、reborn分获七、八名](http://www.hunantv.com/huodong/2006supergirls/news1929.htm)
-3.  [Reborn《快乐成双》销量告捷
-    首批CD销售一空](http://ent.sina.com.cn/y/2007-07-19/15421644228.shtml)
-4.  [Reborn组合将加盟《隋唐英雄》
-    出演黑白夫人](http://www.hunantv.com/c/20111110/0912449574.html)
-5.  [REBORN变身性感双鱼座
-    《救救我》MV曝光](http://www.hunantv.com/c/20130528/1638491449.html)
+2.  [2006超级女声总决赛六强诞生 韩真真、reborn分获七、八名](http://www.hunantv.com/huodong/2006supergirls/news1929.htm)
+3.  [Reborn《快乐成双》销量告捷 首批CD销售一空](http://ent.sina.com.cn/y/2007-07-19/15421644228.shtml)
+4.  [Reborn组合将加盟《隋唐英雄》 出演黑白夫人](http://www.hunantv.com/c/20111110/0912449574.html)
+5.  [REBORN变身性感双鱼座 《救救我》MV曝光](http://www.hunantv.com/c/20130528/1638491449.html)

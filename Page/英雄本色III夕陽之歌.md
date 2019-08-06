@@ -77,12 +77,4 @@ Mark哥（張志強，[周潤發飾](https://zh.wikipedia.org/wiki/周潤發 "wi
   -
   -
   -
-[Category:1980年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1980年代香港電影作品 "wikilink")
-[Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink")
-[Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink")
-[Category:徐克电影](https://zh.wikipedia.org/wiki/Category:徐克电影 "wikilink")
-[Category:新藝城電影](https://zh.wikipedia.org/wiki/Category:新藝城電影 "wikilink")
-[Category:1974年背景電影](https://zh.wikipedia.org/wiki/Category:1974年背景電影 "wikilink")
-[Category:枪战片](https://zh.wikipedia.org/wiki/Category:枪战片 "wikilink")
-[Category:1975年背景电影](https://zh.wikipedia.org/wiki/Category:1975年背景电影 "wikilink")
-[Category:西貢背景電影](https://zh.wikipedia.org/wiki/Category:西貢背景電影 "wikilink")
+[Category:1980年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1980年代香港電影作品 "wikilink") [Category:香港动作片](https://zh.wikipedia.org/wiki/Category:香港动作片 "wikilink") [Category:香港續集電影](https://zh.wikipedia.org/wiki/Category:香港續集電影 "wikilink") [Category:徐克电影](https://zh.wikipedia.org/wiki/Category:徐克电影 "wikilink") [Category:新藝城電影](https://zh.wikipedia.org/wiki/Category:新藝城電影 "wikilink") [Category:1974年背景電影](https://zh.wikipedia.org/wiki/Category:1974年背景電影 "wikilink") [Category:枪战片](https://zh.wikipedia.org/wiki/Category:枪战片 "wikilink") [Category:1975年背景电影](https://zh.wikipedia.org/wiki/Category:1975年背景电影 "wikilink") [Category:西貢背景電影](https://zh.wikipedia.org/wiki/Category:西貢背景電影 "wikilink")

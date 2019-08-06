@@ -2,8 +2,7 @@
 
 ## 来历
 
-2010年秋，****在音乐学校的定期面试中，以虚幻的歌声和作词能力被制作人[长户大幸赏识](https://zh.wikipedia.org/wiki/长户大幸 "wikilink")，于是就寻找了3名成员汇合，直至结成grram\[1\]。在歌曲《[虽然悲伤
-今天的夕阳很美丽](https://zh.wikipedia.org/wiki/虽然悲伤_今天的夕阳很美丽 "wikilink")》獲起用为[名侦探柯南的片尾曲之后](https://zh.wikipedia.org/wiki/名侦探柯南 "wikilink")，2012年3月21日，收录该歌曲的第一张[迷你专辑](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")《心所指的方向》发售，并以该迷你专辑正式出道\[2\]。
+2010年秋，****在音乐学校的定期面试中，以虚幻的歌声和作词能力被制作人[长户大幸赏识](https://zh.wikipedia.org/wiki/长户大幸 "wikilink")，于是就寻找了3名成员汇合，直至结成grram\[1\]。在歌曲《[虽然悲伤 今天的夕阳很美丽](https://zh.wikipedia.org/wiki/虽然悲伤_今天的夕阳很美丽 "wikilink")》獲起用为[名侦探柯南的片尾曲之后](https://zh.wikipedia.org/wiki/名侦探柯南 "wikilink")，2012年3月21日，收录该歌曲的第一张[迷你专辑](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")《心所指的方向》发售，并以该迷你专辑正式出道\[2\]。
 
 ## 名字由来
 
@@ -210,23 +209,18 @@ grram名字是由[北欧神话](../Page/北欧神话.md "wikilink")中的宝剑[
 ## 外部链接
 
   -
-  - [grram
-    Facebook](http://www.facebook.com/grramofficial)官方[Facebook](../Page/Facebook.md "wikilink")
+  - [grram Facebook](http://www.facebook.com/grramofficial)官方[Facebook](../Page/Facebook.md "wikilink")
 
-  - [grram
-    twitter](https://twitter.com/grram_info)官方[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")
+  - [grram twitter](https://twitter.com/grram_info)官方[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")
 
-  - [grram
-    Youtube](http://www.youtube.com/user/grram)官方[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")
+  - [grram Youtube](http://www.youtube.com/user/grram)官方[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")
 
   - [Nice to Mii You](http://ameblo.jp/mizuki-kugawa)久川实津小寒官方博客
 
-[Category:Being](https://zh.wikipedia.org/wiki/Category:Being "wikilink")
-[Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
+[Category:Being](https://zh.wikipedia.org/wiki/Category:Being "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
 
 1.  [久川实津纪的新人乐队grram结成](http://www.barks.jp/news/?id=1000076506) *BARKS*
 
-2.  [名侦探柯南片尾曲，出道前的新乐队提拔](http://www.hotexpress.co.jp/news/120126_grram/)
-    ''hotexpress
+2.  [名侦探柯南片尾曲，出道前的新乐队提拔](http://www.hotexpress.co.jp/news/120126_grram/) ''hotexpress
 
 3.

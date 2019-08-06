@@ -18,8 +18,7 @@
 
 ## 製作人員
 
-  - 原作：[Takara
-    Tomy](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")
+  - 原作：[Takara Tomy](https://zh.wikipedia.org/wiki/Takara_Tomy "wikilink")
   - 總監督：山口頼房（16話以後）
   - 監督：蒔田浩二（截至15話）→不在
   - 劇本統籌：[白根秀樹](../Page/白根秀樹.md "wikilink")
@@ -64,7 +63,4 @@
   - [官方網站（小學館）](http://www.shopro.co.jp/tv/program/zoids/fuzors/index.html)
   - [官方網站（東京電視台）](http://www.tv-tokyo.co.jp/anime/zoids/)
 
-[Category:索斯機械獸](https://zh.wikipedia.org/wiki/Category:索斯機械獸 "wikilink")
-[Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink")
-[Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink")
-[Category:2004年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2004年日本電視動畫 "wikilink")
+[Category:索斯機械獸](https://zh.wikipedia.org/wiki/Category:索斯機械獸 "wikilink") [Category:東京電視網動畫](https://zh.wikipedia.org/wiki/Category:東京電視網動畫 "wikilink") [Category:亞洲電視外購動畫](https://zh.wikipedia.org/wiki/Category:亞洲電視外購動畫 "wikilink") [Category:2004年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2004年日本電視動畫 "wikilink")

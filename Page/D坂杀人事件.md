@@ -9,8 +9,7 @@
 <!-- end list -->
 
   -
-    [山口譲司著](https://zh.wikipedia.org/wiki/山口譲司 "wikilink")。[集英社](../Page/集英社.md "wikilink")
-    『江戸川亂歩 異人館』全1卷（ISBN 978-4-088-79126-5 ）。
+    [山口譲司著](https://zh.wikipedia.org/wiki/山口譲司 "wikilink")。[集英社](../Page/集英社.md "wikilink") 『江戸川亂歩 異人館』全1卷（ISBN 978-4-088-79126-5 ）。
 
 ## 1998年电影
 
@@ -151,27 +150,11 @@
 
   - 『探偵小説十年』（昭和7年、江戸川乱歩）
   - 『江戸川乱歩傑作編』（新潮文庫）[荒正人による解説](https://zh.wikipedia.org/wiki/荒正人 "wikilink")
-  - 『江戸川乱歩 推理文庫1
-    二銭銅貨』（講談社）[中島河太郎による解説](https://zh.wikipedia.org/wiki/中島河太郎 "wikilink")
+  - 『江戸川乱歩 推理文庫1 二銭銅貨』（講談社）[中島河太郎による解説](https://zh.wikipedia.org/wiki/中島河太郎 "wikilink")
   - 『D坂の殺人事件』（創元推理文庫）[戸川安宣による解説](https://zh.wikipedia.org/wiki/戸川安宣_\(編集者\) "wikilink")
 
 ## 外部参考
 
   -
   -
-[Category:1924年長篇小說](https://zh.wikipedia.org/wiki/Category:1924年長篇小說 "wikilink")
-[Category:1992年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1992年日本電視劇集 "wikilink")
-[Category:1992年電視特別劇集](https://zh.wikipedia.org/wiki/Category:1992年電視特別劇集 "wikilink")
-[Category:1998年电影](https://zh.wikipedia.org/wiki/Category:1998年电影 "wikilink")
-[Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink")
-[Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink")
-[Category:2016年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2016年電視特別劇集 "wikilink")
-[Category:江戶川亂步短篇小說](https://zh.wikipedia.org/wiki/Category:江戶川亂步短篇小說 "wikilink")
-[Category:日本推理小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電視劇 "wikilink")
-[Category:富士電視台特別劇集](https://zh.wikipedia.org/wiki/Category:富士電視台特別劇集 "wikilink")
-[Category:NHK特別劇集](https://zh.wikipedia.org/wiki/Category:NHK特別劇集 "wikilink")
-[Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink")
-[Category:日本懸疑片](https://zh.wikipedia.org/wiki/Category:日本懸疑片 "wikilink")
-[Category:日本推理小說改編電影](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電影 "wikilink")
-[Category:東映電影](https://zh.wikipedia.org/wiki/Category:東映電影 "wikilink")
-[Category:文京區背景作品](https://zh.wikipedia.org/wiki/Category:文京區背景作品 "wikilink")
+[Category:1924年長篇小說](https://zh.wikipedia.org/wiki/Category:1924年長篇小說 "wikilink") [Category:1992年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1992年日本電視劇集 "wikilink") [Category:1992年電視特別劇集](https://zh.wikipedia.org/wiki/Category:1992年電視特別劇集 "wikilink") [Category:1998年电影](https://zh.wikipedia.org/wiki/Category:1998年电影 "wikilink") [Category:2015年日本電影](https://zh.wikipedia.org/wiki/Category:2015年日本電影 "wikilink") [Category:2016年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2016年開播的日本電視劇集 "wikilink") [Category:2016年電視特別劇集](https://zh.wikipedia.org/wiki/Category:2016年電視特別劇集 "wikilink") [Category:江戶川亂步短篇小說](https://zh.wikipedia.org/wiki/Category:江戶川亂步短篇小說 "wikilink") [Category:日本推理小說改編電視劇](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電視劇 "wikilink") [Category:富士電視台特別劇集](https://zh.wikipedia.org/wiki/Category:富士電視台特別劇集 "wikilink") [Category:NHK特別劇集](https://zh.wikipedia.org/wiki/Category:NHK特別劇集 "wikilink") [Category:日語電影](https://zh.wikipedia.org/wiki/Category:日語電影 "wikilink") [Category:日本懸疑片](https://zh.wikipedia.org/wiki/Category:日本懸疑片 "wikilink") [Category:日本推理小說改編電影](https://zh.wikipedia.org/wiki/Category:日本推理小說改編電影 "wikilink") [Category:東映電影](https://zh.wikipedia.org/wiki/Category:東映電影 "wikilink") [Category:文京區背景作品](https://zh.wikipedia.org/wiki/Category:文京區背景作品 "wikilink")

@@ -1,5 +1,4 @@
-**OpenFOAM**（英文 Open Source Field Operation and Manipulation
-的缩写，意为开源的场运算和处理软件）是对[连续介质力学](../Page/连续介质力学.md "wikilink")问题进行[数值计算的](https://zh.wikipedia.org/wiki/数值计算 "wikilink")[C++](../Page/C++.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")工具包，其代码遵守[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")。它可进行数据预处理、后处理和自定义求解器，常用于[计算流体力学](../Page/计算流体力学.md "wikilink")(CFD)领域。该软件由OpenFOAM基金会维护\[1\]（商标**OpenFOAM**的拥有者[硅谷图形公司](../Page/硅谷图形公司.md "wikilink")(SGI)赞助）。
+**OpenFOAM**（英文 Open Source Field Operation and Manipulation 的缩写，意为开源的场运算和处理软件）是对[连续介质力学](../Page/连续介质力学.md "wikilink")问题进行[数值计算的](https://zh.wikipedia.org/wiki/数值计算 "wikilink")[C++](../Page/C++.md "wikilink")[自由软件](../Page/自由软件.md "wikilink")工具包，其代码遵守[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")。它可进行数据预处理、后处理和自定义求解器，常用于[计算流体力学](../Page/计算流体力学.md "wikilink")(CFD)领域。该软件由OpenFOAM基金会维护\[1\]（商标**OpenFOAM**的拥有者[硅谷图形公司](../Page/硅谷图形公司.md "wikilink")(SGI)赞助）。
 
 ## 历史
 
@@ -33,8 +32,7 @@ solve
 
 ### 可扩展性
 
-由于使用了[工厂方法](../Page/工厂方法.md "wikilink")和[基类作为](../Page/类_\(计算机科学\).md "wikilink")[接口](../Page/介面_\(程式設計\).md "wikilink")，OpenFOAM具有很好的可扩展性。使用者在建立定制化的物体或对象（例如[边界条件或湍流模型](https://zh.wikipedia.org/wiki/边界条件 "wikilink")）时，无需修改或是重新编译OpenFOAM软件包，便可在已有的求解器上工作。OpenFOAM称之为*运行时决策(run-time
-selection)*\[5\]
+由于使用了[工厂方法](../Page/工厂方法.md "wikilink")和[基类作为](../Page/类_\(计算机科学\).md "wikilink")[接口](../Page/介面_\(程式設計\).md "wikilink")，OpenFOAM具有很好的可扩展性。使用者在建立定制化的物体或对象（例如[边界条件或湍流模型](https://zh.wikipedia.org/wiki/边界条件 "wikilink")）时，无需修改或是重新编译OpenFOAM软件包，便可在已有的求解器上工作。OpenFOAM称之为*运行时决策(run-time selection)*\[5\]
 
 ## OpenFOAM的架构
 
@@ -66,8 +64,7 @@ OpenFOAM核心功能的实现是由大量的基础库完成的，其中包括：
 
 ## 功能
 
-OpenFOAM的功能含有\[14\]：
-[Screenshot_OpenFOAM_smallPoolFire2D_ParaView_3.12.0.png](https://zh.wikipedia.org/wiki/File:Screenshot_OpenFOAM_smallPoolFire2D_ParaView_3.12.0.png "fig:Screenshot_OpenFOAM_smallPoolFire2D_ParaView_3.12.0.png")在空气中燃烧的模拟。甲烷从底端喷出，同时被点燃。图形界面是[ParaView](https://zh.wikipedia.org/wiki/ParaView "wikilink")。图中底色表示温度，箭头表示气流速度，箭头的颜色表示局部的氧气含量。\]\]
+OpenFOAM的功能含有\[14\]： [Screenshot_OpenFOAM_smallPoolFire2D_ParaView_3.12.0.png](https://zh.wikipedia.org/wiki/File:Screenshot_OpenFOAM_smallPoolFire2D_ParaView_3.12.0.png "fig:Screenshot_OpenFOAM_smallPoolFire2D_ParaView_3.12.0.png")在空气中燃烧的模拟。甲烷从底端喷出，同时被点燃。图形界面是[ParaView](https://zh.wikipedia.org/wiki/ParaView "wikilink")。图中底色表示温度，箭头表示气流速度，箭头的颜色表示局部的氧气含量。\]\]
 
   - 基本的[计算流体力学](../Page/计算流体力学.md "wikilink")求解器
   - 不可压流的[雷诺平均纳维－斯托克斯方程法(RANS)和](../Page/计算流体力学.md "wikilink")[大涡流模拟法(LES)求解](../Page/计算流体力学.md "wikilink")\[15\]
@@ -122,32 +119,23 @@ OpenFOAM是自由软件和开源软件，在[GNU通用公共许可证版本3下�
 
 ### 自由软件
 
-  - **blueCFD** 是改编自**OpenFlow**的运行在
-    [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")
-    上的OpenFOAM[交叉编译版本](https://zh.wikipedia.org/wiki/交叉编译 "wikilink")。该软件包同时也含有一些有用的额外函数和工具。blueCAPE出品。\[26\]
+  - **blueCFD** 是改编自**OpenFlow**的运行在 [Windows](https://zh.wikipedia.org/wiki/Windows "wikilink") 上的OpenFOAM[交叉编译版本](https://zh.wikipedia.org/wiki/交叉编译 "wikilink")。该软件包同时也含有一些有用的额外函数和工具。blueCAPE出品。\[26\]
   - **FreeFOAM**\[27\]为了把OpenFOAM从它对系统的依赖中解脱出来，使其安装更为便携和用户友好而建立的分支。其开发紧跟最新的OpenFOAM发布版，不附带额外的功能，使用[CMake](../Page/CMake.md "wikilink")作为编译系统。
-  - **OpenFlow**
-    是一个OpenFOAM的[Windows平台](https://zh.wikipedia.org/wiki/Windows "wikilink")[交叉编译的源码补丁](https://zh.wikipedia.org/wiki/交叉编译 "wikilink")。blueCFD中OpenFOAM的部分既是由它而来。Symscape出品\[28\]
+  - **OpenFlow** 是一个OpenFOAM的[Windows平台](https://zh.wikipedia.org/wiki/Windows "wikilink")[交叉编译的源码补丁](https://zh.wikipedia.org/wiki/交叉编译 "wikilink")。blueCFD中OpenFOAM的部分既是由它而来。Symscape出品\[28\]
   - **OpenFOAM-extend**\[29\]由Wikki有限公司维护\[30\]。该分支有*社区贡献*的大量内容，并且当中的绝大部分贡献可以装入到OpenFOAM的官方版本中，而只产生最低限度的影响。\[31\]它的开发与官方版OpenFOAM是并列进行的，对最新版OpenFOAM的合并可能要等到一至两年后。
 
 ### 付费软件
 
-  - **Caedium**
-    是**[Symscape](https://zh.wikipedia.org/wiki/Symscape "wikilink")**出品的通用数值模拟环境。其RANS
-    Flow的附加功能\[32\]提供了用于OpenFOAM的模型建立、解操作和后处理的图形用户界面。
-  - **CastNet** DHCAE
-    Tools出品的私有建模和模拟环境。\[33\]其中包含一个OpenFOAM的图形界面前端。FOAM.
-  - **ICON FOAMpro CFD** 由**ICON Process & Consulting
-    Ltd**进行维护。\[34\]与[大众汽车](https://zh.wikipedia.org/wiki/大众汽车 "wikilink")\[35\]和[福特汽车](../Page/福特汽车.md "wikilink")\[36\]合作，主要围绕着汽车应用而开发。该分支既包含*社区贡献*的内容也包含*ICON专有*的开发。
+  - **Caedium** 是**[Symscape](https://zh.wikipedia.org/wiki/Symscape "wikilink")**出品的通用数值模拟环境。其RANS Flow的附加功能\[32\]提供了用于OpenFOAM的模型建立、解操作和后处理的图形用户界面。
+  - **CastNet** DHCAE Tools出品的私有建模和模拟环境。\[33\]其中包含一个OpenFOAM的图形界面前端。FOAM.
+  - **ICON FOAMpro CFD** 由**ICON Process & Consulting Ltd**进行维护。\[34\]与[大众汽车](https://zh.wikipedia.org/wiki/大众汽车 "wikilink")\[35\]和[福特汽车](../Page/福特汽车.md "wikilink")\[36\]合作，主要围绕着汽车应用而开发。该分支既包含*社区贡献*的内容也包含*ICON专有*的开发。
 
 ## 替代软件
 
 ### 开源软件和自由软件
 
   - Stanford University Unstructured (SU<sup>2</sup>)\[37\]
-  - [Code
-    Saturne](https://zh.wikipedia.org/wiki/Code_Saturne "wikilink")
-    (GPL)
+  - [Code Saturne](https://zh.wikipedia.org/wiki/Code_Saturne "wikilink") (GPL)
   - FreeCFD\[38\]
   - [Gerris Flow Solver](../Page/Gerris.md "wikilink")\[39\]
   - OpenFVM\[40\]
@@ -159,8 +147,7 @@ OpenFOAM是自由软件和开源软件，在[GNU通用公共许可证版本3下�
   - [ANSYS](https://zh.wikipedia.org/wiki/ANSYS "wikilink") Fluent
   - [Pumplinx](https://zh.wikipedia.org/wiki/Pumplinx "wikilink")
   - [STAR-CCM+](https://zh.wikipedia.org/wiki/CD-adapco#STAR-CCM.2B "wikilink")
-  - [KIVA
-    (software)](https://zh.wikipedia.org/wiki/KIVA_\(software\) "wikilink")
+  - [KIVA (software)](https://zh.wikipedia.org/wiki/KIVA_\(software\) "wikilink")
   - [RELAP5-3D](https://zh.wikipedia.org/wiki/RELAP5-3D "wikilink")
   - [PowerFlow](https://zh.wikipedia.org/wiki/PowerFlow "wikilink")
   - [FOAMpro](https://zh.wikipedia.org/wiki/FOAMpro "wikilink")
@@ -175,82 +162,50 @@ OpenFOAM是自由软件和开源软件，在[GNU通用公共许可证版本3下�
 
   - [Official OpenFOAM web site](http://www.openfoam.com)
   - [OpenFOAM official documentation](http://www.openfoam.com/docs/)
-  - [OpenFOAM bug-reporting
-    system](http://www.openfoam.com/mantisbt/main_page.php)
+  - [OpenFOAM bug-reporting system](http://www.openfoam.com/mantisbt/main_page.php)
 
 ### 社区资源
 
-  - [OpenFOAM Forum at CFD
-    Online](http://www.cfd-online.com/Forums/openfoam/)
+  - [OpenFOAM Forum at CFD Online](http://www.cfd-online.com/Forums/openfoam/)
   - [OpenFOAM wiki](http://openfoamwiki.net/index.php/Main_Page)
-  - [FOAM CFD web
-    site](https://web.archive.org/web/20120718033629/http://foamcfd.org/),
-    by one of the original developers of the code, who is not associated
-    with OpenCFD.
-  - [A Blog about OpenFOAM in
-    Chinese](http://blog.sina.com.cn/openfoamresearch/)
+  - [FOAM CFD web site](https://web.archive.org/web/20120718033629/http://foamcfd.org/), by one of the original developers of the code, who is not associated with OpenCFD.
+  - [A Blog about OpenFOAM in Chinese](http://blog.sina.com.cn/openfoamresearch/)
   - [OpenFOAM中文爱好者之家网站](http://www.openfoam.cn/)
   - [入门课程](https://web.archive.org/web/20130530144043/http://www.wolfdynamics.com/training/training-with-openfoam%C2%AE.html)
 
-[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
-[Category:计算流体力学](https://zh.wikipedia.org/wiki/Category:计算流体力学 "wikilink")
+[Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink") [Category:计算流体力学](https://zh.wikipedia.org/wiki/Category:计算流体力学 "wikilink")
 
 1.  [The OpenFOAM Foundation homepage](http://www.openfoam.org/)
-2.  [OpenFOAM Release
-    History](http://www.openfoam.org/download/history.php)
+2.  [OpenFOAM Release History](http://www.openfoam.org/download/history.php)
 3.
-4.  [Creating solvers in
-    OpenFOAM](http://www.openfoam.com/features/creating-solvers.php)
-5.  [OpenFOAM's *run-time selection mechanism*
-    explained](http://openfoamwiki.net/index.php/OpenFOAM_guide/runTimeSelection_mechanism)
-6.  [Linear system solvers in
-    OpenFOAM](http://www.openfoam.com/features/linear-solvers.php)
-7.  [Ordinary differential equation solvers in
-    OpenFOAM](http://www.openfoam.com/features/ODE-solvers.php)
-8.  [Dynamic mesh in
-    OpenFOAM](http://www.openfoam.com/features/mesh-motion.php)
-9.  [Rheological models in
-    OpenFOAM](http://www.openfoam.com/features/transport.php)
-10. [Thermophysical models in
-    OpenFOAM](http://www.openfoam.com/features/thermophysical.php)
-11. [Turbulence models in
-    OpenFOAM](http://www.openfoam.com/features/turbulence.php)
-12. [Chemical reactions and kinetics models in
-    OpenFOAM](http://www.openfoam.com/features/reaction-kinetics.php)
-13. [Lagrangian particle tracking in
-    OpenFOAM](http://www.openfoam.com/features/lagrangian.php)
+4.  [Creating solvers in OpenFOAM](http://www.openfoam.com/features/creating-solvers.php)
+5.  [OpenFOAM's *run-time selection mechanism* explained](http://openfoamwiki.net/index.php/OpenFOAM_guide/runTimeSelection_mechanism)
+6.  [Linear system solvers in OpenFOAM](http://www.openfoam.com/features/linear-solvers.php)
+7.  [Ordinary differential equation solvers in OpenFOAM](http://www.openfoam.com/features/ODE-solvers.php)
+8.  [Dynamic mesh in OpenFOAM](http://www.openfoam.com/features/mesh-motion.php)
+9.  [Rheological models in OpenFOAM](http://www.openfoam.com/features/transport.php)
+10. [Thermophysical models in OpenFOAM](http://www.openfoam.com/features/thermophysical.php)
+11. [Turbulence models in OpenFOAM](http://www.openfoam.com/features/turbulence.php)
+12. [Chemical reactions and kinetics models in OpenFOAM](http://www.openfoam.com/features/reaction-kinetics.php)
+13. [Lagrangian particle tracking in OpenFOAM](http://www.openfoam.com/features/lagrangian.php)
 14. [OpenFOAM features](http://www.openfoam.com/features/)
-15. [OpenFOAM incompressible flow
-    solvers](http://www.openfoam.com/features/standard-solvers.php#incompressibleFlowSolvers)
-16. [OpenFOAM Compressible flow
-    solvers](http://www.openfoam.com/features/standard-solvers.php#compressibleFlowSolvers)
-17. [OpenFOAM buoyancy-driven flow
-    solvers](http://www.openfoam.com/features/standard-solvers.php#heatTransferSolvers)
-18. [Multiphase flow
-    solvers](http://www.openfoam.com/features/standard-solvers.php#multiphaseFlowSolvers)
-19. [OpenFOAM solvers for
-    combustion](http://www.openfoam.com/features/standard-solvers.php#combustionSolvers)
-20. [OpenFOAM solvers for conjugate heat
-    transfer](http://www.openfoam.com/features/standard-solvers.php#heatTransferSolvers)
-21. [OpenFOAM molecular dynamics
-    solvers](http://www.openfoam.com/features/standard-solvers.php#MDSolvers)
-22. [OpenFOAM Direct Simulation Monte Carlo
-    solvers](http://www.openfoam.com/features/standard-solvers.php#DSMCSolvers)
-23. [OpenFOAM Electromagnetics
-    solvers](http://www.openfoam.com/features/standard-solvers.php#electromagneticsSolvers)
-24. [OpenFOAM solid dynamics
-    solvers](http://www.openfoam.com/features/standard-solvers.php#stressAnalysisSolvers)
+15. [OpenFOAM incompressible flow solvers](http://www.openfoam.com/features/standard-solvers.php#incompressibleFlowSolvers)
+16. [OpenFOAM Compressible flow solvers](http://www.openfoam.com/features/standard-solvers.php#compressibleFlowSolvers)
+17. [OpenFOAM buoyancy-driven flow solvers](http://www.openfoam.com/features/standard-solvers.php#heatTransferSolvers)
+18. [Multiphase flow solvers](http://www.openfoam.com/features/standard-solvers.php#multiphaseFlowSolvers)
+19. [OpenFOAM solvers for combustion](http://www.openfoam.com/features/standard-solvers.php#combustionSolvers)
+20. [OpenFOAM solvers for conjugate heat transfer](http://www.openfoam.com/features/standard-solvers.php#heatTransferSolvers)
+21. [OpenFOAM molecular dynamics solvers](http://www.openfoam.com/features/standard-solvers.php#MDSolvers)
+22. [OpenFOAM Direct Simulation Monte Carlo solvers](http://www.openfoam.com/features/standard-solvers.php#DSMCSolvers)
+23. [OpenFOAM Electromagnetics solvers](http://www.openfoam.com/features/standard-solvers.php#electromagneticsSolvers)
+24. [OpenFOAM solid dynamics solvers](http://www.openfoam.com/features/standard-solvers.php#stressAnalysisSolvers)
 25. <http://www.openfoam.org/licence.php> OpenFOAM Licensing Page
 26. [blueCAPE's homepage](http://joomla.bluecape.com.pt/)
 27. [FreeFOAM Home Page](http://freefoam.sourceforge.net/)
-28. [OpenFlow source code
-    patch](http://www.symscape.com/openfoam-2-0-x-on-windows-64-mpi)
+28. [OpenFlow source code patch](http://www.symscape.com/openfoam-2-0-x-on-windows-64-mpi)
 29. [OpenFOAM-extend Project Home Page](http://www.extend-project.de/)
 30. [Wikki Ltd](http://www.wikki.co.uk/).
-31. [Solvers](http://openfoamwiki.net/index.php/Main_ContribSolvers),
-    [Utilities](http://openfoamwiki.net/index.php/Main_ContribUtilities),
-    and [Other
-    contributions](http://openfoamwiki.net/index.php/Main_ContribOther)
+31. [Solvers](http://openfoamwiki.net/index.php/Main_ContribSolvers), [Utilities](http://openfoamwiki.net/index.php/Main_ContribUtilities), and [Other contributions](http://openfoamwiki.net/index.php/Main_ContribOther)
 32. [Caedium RANS Flow add-on](http://www.symscape.com/product/rans)
 33. [DHCAE Tools homepage](http://www.dhcae-tools.com/)
 34. [ICON FOAMpro Process](http://www.iconcfd.com/services/foampro)

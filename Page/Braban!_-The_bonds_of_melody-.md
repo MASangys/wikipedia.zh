@@ -1,5 +1,4 @@
-《**Braban\! -The bonds of
-melody-**》（）是[YUZUSOFT](../Page/YUZUSOFT.md "wikilink")在2006年7月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。簡稱「」，日文「」的縮寫，中文是指[管樂隊](https://zh.wikipedia.org/wiki/管樂隊 "wikilink")。
+《**Braban\! -The bonds of melody-**》（）是[YUZUSOFT](../Page/YUZUSOFT.md "wikilink")在2006年7月28日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。簡稱「」，日文「」的縮寫，中文是指[管樂隊](https://zh.wikipedia.org/wiki/管樂隊 "wikilink")。
 
 ## 故事
 
@@ -78,8 +77,7 @@ melody-**》（）是[YUZUSOFT](../Page/YUZUSOFT.md "wikilink")在2006年7月28�
 ## 主題曲
 
   - 片頭曲「Beautiful Harmony」
-    作詞：中山♥マミ，作曲：Famishin，，編曲：Angel
-    Note，歌：[榊原由依](../Page/榊原由依.md "wikilink")
+    作詞：中山♥マミ，作曲：Famishin，，編曲：Angel Note，歌：[榊原由依](../Page/榊原由依.md "wikilink")
   - 片尾曲「My Dear」
     作詞：中山♥マミ，作曲：Famishin，編曲：Angel Note，歌：中山♥マミ
 
@@ -87,12 +85,8 @@ melody-**》（）是[YUZUSOFT](../Page/YUZUSOFT.md "wikilink")在2006年7月28�
 
 ## 外部連結
 
-  - [ぶらばん\! -The bonds of
-    melody-官方網站](http://legacy.yuzu-soft.com/buraban/)
+  - [ぶらばん\! -The bonds of melody-官方網站](http://legacy.yuzu-soft.com/buraban/)
 
-[Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink")
-[Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
-[Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink")
-[Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
+[Category:2006年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2006年日本成人遊戲 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:戀愛冒險遊戲](https://zh.wikipedia.org/wiki/Category:戀愛冒險遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink")
 
 1.  發售後於生日當天在柚子軟體的部落格上發表。以下四人同理。

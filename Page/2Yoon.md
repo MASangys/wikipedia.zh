@@ -1,7 +1,4 @@
-**2YOON**（韓文：투윤），為[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[4minute](../Page/4minute.md "wikilink")的子團體，隸屬[Cube
-Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")，成員包括[許嘉允](../Page/許嘉允.md "wikilink")和[田祉潤](../Page/田祉潤.md "wikilink")。\[1\]於2013年1月17日發行首張迷你專輯《[Harvest
-Moon](../Page/Harvest_Moon.md "wikilink")》，並以主打曲〈24/7〉在[M\!
-Countdown出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。2016年6月16日，官方宣布原團體[4minute](../Page/4minute.md "wikilink")解散而子團體**2YOON**也隨着解散。
+**2YOON**（韓文：투윤），為[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[4minute](../Page/4minute.md "wikilink")的子團體，隸屬[Cube Entertainment](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")，成員包括[許嘉允](../Page/許嘉允.md "wikilink")和[田祉潤](../Page/田祉潤.md "wikilink")。\[1\]於2013年1月17日發行首張迷你專輯《[Harvest Moon](../Page/Harvest_Moon.md "wikilink")》，並以主打曲〈24/7〉在[M\! Countdown出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。2016年6月16日，官方宣布原團體[4minute](../Page/4minute.md "wikilink")解散而子團體**2YOON**也隨着解散。
 
 ## 團名由來
 
@@ -18,11 +15,8 @@ Countdown出道](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。2016�
 
 ## 出道過程
 
-2012年12月25日，[Cube
-Entertainment社長在他的個人](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[Twitter](../Page/Twitter.md "wikilink")上向公眾透露\[2\]，由成員[4minute](../Page/4minute.md "wikilink")成員[許嘉允](../Page/許嘉允.md "wikilink")和[田祉潤](../Page/田祉潤.md "wikilink")組成的限定組合2YOON將於一月出道。而專輯已進入後期製作階段，相信專輯不久就會面世。在2013年1月7日,官方發佈消息指《**2Yoon**》將會於1月17日在網上發佈專輯,及在其後數日發佈概念照，並進行宣傳活動出道。
-**2Yoon**首張迷你專輯《[Harvest
-Moon](../Page/Harvest_Moon.md "wikilink")》於2013年1月17日中午公開發售，MV於當日連同音源公開發佈，是次主打為《[24/7](https://zh.wikipedia.org/wiki/24/7 "wikilink")》。主打曲由[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")、金度勋和李尚浩聯手創作,以[Country
-Pop作為歌曲概念類型](https://zh.wikipedia.org/wiki/Country_Pop "wikilink")。
+2012年12月25日，[Cube Entertainment社長在他的個人](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")[Twitter](../Page/Twitter.md "wikilink")上向公眾透露\[2\]，由成員[4minute](../Page/4minute.md "wikilink")成員[許嘉允](../Page/許嘉允.md "wikilink")和[田祉潤](../Page/田祉潤.md "wikilink")組成的限定組合2YOON將於一月出道。而專輯已進入後期製作階段，相信專輯不久就會面世。在2013年1月7日,官方發佈消息指《**2Yoon**》將會於1月17日在網上發佈專輯,及在其後數日發佈概念照，並進行宣傳活動出道。
+**2Yoon**首張迷你專輯《[Harvest Moon](../Page/Harvest_Moon.md "wikilink")》於2013年1月17日中午公開發售，MV於當日連同音源公開發佈，是次主打為《[24/7](https://zh.wikipedia.org/wiki/24/7 "wikilink")》。主打曲由[新沙洞老虎](../Page/新沙洞老虎.md "wikilink")、金度勋和李尚浩聯手創作,以[Country Pop作為歌曲概念類型](https://zh.wikipedia.org/wiki/Country_Pop "wikilink")。
 
 ## 作品
 
@@ -131,14 +125,7 @@ Pop作為歌曲概念類型](https://zh.wikipedia.org/wiki/Country_Pop "wikilink
   - [嘉允Yozm](https://web.archive.org/web/20120709062618/http://yozm.daum.net/4mgy)
   - [祉潤Yozm](https://web.archive.org/web/20120427040647/http://yozm.daum.net/wldbs445)
 
-[Category:4minute](https://zh.wikipedia.org/wiki/Category:4minute "wikilink")
-[Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink")
-[Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink")
-[Category:2016年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年解散的音樂團體 "wikilink")
-[Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
+[Category:4minute](https://zh.wikipedia.org/wiki/Category:4minute "wikilink") [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink") [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink") [Category:2013年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2013年成立的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:2016年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年解散的音樂團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
 
 1.  [4Minute 的子團「雙允」](http://www.koreastardaily.com/tc/news/24272)
 2.  [社長Twitter公開透露](http://i.discuss.com.hk/d/attachments/day_121226/20121226_59347344f2fdf206405ekAgPGGmGo4ct.jpg)

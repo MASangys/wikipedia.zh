@@ -1,5 +1,4 @@
-《**假面騎士×超級戰隊×宇宙刑事
-超級英雄大戰Z**》（），為2013年東映預定上映的[超級英雄大戰第二作劇場版作品](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")，同時除了《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》和《[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")》外，《[宇宙刑事](../Page/宇宙刑事.md "wikilink")系列》也將共同演出。
+《**假面騎士×超級戰隊×宇宙刑事 超級英雄大戰Z**》（），為2013年東映預定上映的[超級英雄大戰第二作劇場版作品](https://zh.wikipedia.org/wiki/假面騎士x超級戰隊_超級英雄大戰 "wikilink")，同時除了《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》和《[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")》外，《[宇宙刑事](../Page/宇宙刑事.md "wikilink")系列》也將共同演出。
 
 ## 概要
 
@@ -9,8 +8,7 @@
 
   -
     [日本](../Page/日本.md "wikilink")引以為傲的英雄，[假面騎士與](../Page/假面騎士系列.md "wikilink")[超級戰隊](https://zh.wikipedia.org/wiki/超級戰隊 "wikilink")。2013年－－「超級英雄大戰」系列中宇宙刑事們新加入了戰局。
-    曾是祕密結社的[修卡在取得魔法的力量後以](../Page/假面騎士.md "wikilink")「宇宙修卡」之姿復活，全宇宙陷入毀滅危機。[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")、[宇宙刑事卡邦](../Page/宇宙刑事卡邦.md "wikilink")、[特命戰隊Go
-    Busters](../Page/特命戰隊Go_Busters.md "wikilink")，還有最新的英雄[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")陸續參戰，不久後邪惡組織的龐大野心即將明朗化！那些懷念的英雄們也將再次前往最前線。將絕望化為希望，前所未見的英雄神話就此誕生！
+    曾是祕密結社的[修卡在取得魔法的力量後以](../Page/假面騎士.md "wikilink")「宇宙修卡」之姿復活，全宇宙陷入毀滅危機。[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")、[宇宙刑事卡邦](../Page/宇宙刑事卡邦.md "wikilink")、[特命戰隊Go Busters](../Page/特命戰隊Go_Busters.md "wikilink")，還有最新的英雄[獸電戰隊強龍者](../Page/獸電戰隊強龍者.md "wikilink")陸續參戰，不久後邪惡組織的龐大野心即將明朗化！那些懷念的英雄們也將再次前往最前線。將絕望化為希望，前所未見的英雄神話就此誕生！
     2013年，來自日本的嶄新ALL HERO電影在此誕生。\[1\]
 
 ## 登場人物
@@ -161,8 +159,7 @@
 
 <!-- end list -->
 
-  - **森下徹（）**（[高橋直人](https://zh.wikipedia.org/wiki/:ja:高橋直人 "wikilink")
-    飾）
+  - **森下徹（）**（[高橋直人](https://zh.wikipedia.org/wiki/:ja:高橋直人 "wikilink") 飾）
 
 <!-- end list -->
 
@@ -339,8 +336,7 @@
 #### 海賊戰隊豪快者
 
   - 豪快紅（CV：[小澤亮太](../Page/小澤亮太.md "wikilink")）
-      - Draft
-        Redder（《[特搜Exceedraft](../Page/特搜Exceedraft.md "wikilink")》）
+      - Draft Redder（《[特搜Exceedraft](../Page/特搜Exceedraft.md "wikilink")》）
       - 真剑红
       - 魔法红
       - 电磁红
@@ -348,8 +344,7 @@
       - Blue Beet（《[重甲B-Fighter](../Page/重甲B-Fighter.md "wikilink")》）
       - 真剑蓝
   - 豪快黃
-      - B-Fighter Kabuto（《[B-Fighter
-        Kabuto](../Page/B-Fighter_Kabuto.md "wikilink")》）
+      - B-Fighter Kabuto（《[B-Fighter Kabuto](../Page/B-Fighter_Kabuto.md "wikilink")》）
       - 真剑黄
   - 豪快綠
       - 磁雷矢（《[世界忍者戰磁雷矢](../Page/世界忍者戰磁雷矢.md "wikilink")》）
@@ -607,8 +602,7 @@
 <!-- end list -->
 
   -
-    宇宙刑事夏利邦專屬的據點宇宙母艦，搭載武器包括主砲**Plasma Canon（）**、**Birth Beam（）**和**Grand
-    Buster（）**，及可變化成巨大機械人模式**Battle Birth Formation（）**。
+    宇宙刑事夏利邦專屬的據點宇宙母艦，搭載武器包括主砲**Plasma Canon（）**、**Birth Beam（）**和**Grand Buster（）**，及可變化成巨大機械人模式**Battle Birth Formation（）**。
 
 <!-- end list -->
 
@@ -617,8 +611,7 @@
 <!-- end list -->
 
   -
-    宇宙刑事夏依達專屬的據點宇宙母艦，巨大機械模式**Battle Formation（）**可在胸口放出熱光線**Vavilos
-    Fire（）**及變化成巨大槍砲模式**Shooting Formation（）**使出必殺砲擊**Big Magnum（）**。
+    宇宙刑事夏依達專屬的據點宇宙母艦，巨大機械模式**Battle Formation（）**可在胸口放出熱光線**Vavilos Fire（）**及變化成巨大槍砲模式**Shooting Formation（）**使出必殺砲擊**Big Magnum（）**。
 
 <!-- end list -->
 
@@ -636,8 +629,7 @@
 <!-- end list -->
 
   -
-    特命戰隊Go Buster專屬支援機械，昆蟲型**Buddyroid**。陣雅人 / Beet Buster的夥伴及能夠變身成Stag
-    Buster的機械人。
+    特命戰隊Go Buster專屬支援機械，昆蟲型**Buddyroid**。陣雅人 / Beet Buster的夥伴及能夠變身成Stag Buster的機械人。
 
 <!-- end list -->
 
@@ -656,10 +648,8 @@
 
   -
     海賊戰隊豪快者專用金屬英雄版本的**連者之鑰（）**。
-    分別為豪快紅的**Draft Redder之鑰（）**、豪快藍的**Blue Beet之鑰（）**、豪快黃的**B-Fighter
-    Kabuto之鑰（）**、豪快綠的**磁雷矢之鑰（）**、豪快粉紅的**強帕森之鑰（）**及豪快銀的**吉邦之鑰（）**。
-    **豪快帆船迫擊砲**可使用金屬英雄之鑰，當豪快帆船迫擊砲插入金屬英雄之鑰，電子音為**「Special Metal
-    Charge」**，發射時的電子音為**「Metallic Strike」**。
+    分別為豪快紅的**Draft Redder之鑰（）**、豪快藍的**Blue Beet之鑰（）**、豪快黃的**B-Fighter Kabuto之鑰（）**、豪快綠的**磁雷矢之鑰（）**、豪快粉紅的**強帕森之鑰（）**及豪快銀的**吉邦之鑰（）**。
+    **豪快帆船迫擊砲**可使用金屬英雄之鑰，當豪快帆船迫擊砲插入金屬英雄之鑰，電子音為**「Special Metal Charge」**，發射時的電子音為**「Metallic Strike」**。
 
 <!-- end list -->
 
@@ -708,8 +698,7 @@
 
 ### 網路電影
 
-『**網路版 假面騎士×超級戰隊×宇宙刑事
-超級英雄大戰乙！～Heroo！知識～會解決你的煩惱！**』（日語：），是2013年4月12日東映特撮BB的[テレ朝動画的付費配信](https://zh.wikipedia.org/wiki/テレ朝動画 "wikilink")，也可以說是電影本篇外所附帶的特別番外篇。
+『**網路版 假面騎士×超級戰隊×宇宙刑事 超級英雄大戰乙！～Heroo！知識～會解決你的煩惱！**』（日語：），是2013年4月12日東映特撮BB的[テレ朝動画的付費配信](https://zh.wikipedia.org/wiki/テレ朝動画 "wikilink")，也可以說是電影本篇外所附帶的特別番外篇。
 
 #### 網路版製作人員
 
@@ -737,8 +726,7 @@
   - 假面騎士W - **[桐山漣](../Page/桐山漣.md "wikilink")**
   - 特搜戰隊刑事紅 - **[載寧龍二](../Page/載寧龍二.md "wikilink")**
   - 特搜戰隊刑事黃、宇宙鐵人Skydain - **[木下亞由美](../Page/木下亞由美.md "wikilink")**
-  - 假面騎士Stronger、其他 -
-    **[関智一](https://zh.wikipedia.org/wiki/関智一 "wikilink")**
+  - 假面騎士Stronger、其他 - **[関智一](https://zh.wikipedia.org/wiki/関智一 "wikilink")**
   - 黒十字王、其他 - **[稲田徹](https://zh.wikipedia.org/wiki/稲田徹 "wikilink")**
   - 宇宙刑事夏利邦 - **三浦力**
   - **[石川英郎](../Page/石川英郎.md "wikilink")**
@@ -907,19 +895,14 @@
 
 ## 製作人員
 
-  - 原作 -
-    [石之森章太郎](../Page/石之森章太郎.md "wikilink")、[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")
+  - 原作 - [石之森章太郎](../Page/石之森章太郎.md "wikilink")、[八手三郎](https://zh.wikipedia.org/wiki/八手三郎 "wikilink")
   - 編劇 - [米村正二](https://zh.wikipedia.org/wiki/米村正二 "wikilink")
   - 導演 -
-  - 配樂 -
-    [中川幸太郎](../Page/中川幸太郎.md "wikilink")、[山下康介](../Page/山下康介.md "wikilink")
+  - 配樂 - [中川幸太郎](../Page/中川幸太郎.md "wikilink")、[山下康介](../Page/山下康介.md "wikilink")
   - 特攝導演 -
   - 動作指導 -
   - 發行 - [東映](../Page/東映.md "wikilink")
-  - 製作 -
-    劇場版「スーパーヒーロー大戦Z」製作委員會（[東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[TOEI
-    VIDEO](https://zh.wikipedia.org/wiki/:ja:東映ビデオ "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[TOEI
-    ADVERTISING](https://zh.wikipedia.org/wiki/:ja:東映ビデオ "wikilink")、[萬代](../Page/萬代.md "wikilink")）
+  - 製作 - 劇場版「スーパーヒーロー大戦Z」製作委員會（[東映](../Page/東映.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[TOEI VIDEO](https://zh.wikipedia.org/wiki/:ja:東映ビデオ "wikilink")、[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")、[TOEI ADVERTISING](https://zh.wikipedia.org/wiki/:ja:東映ビデオ "wikilink")、[萬代](../Page/萬代.md "wikilink")）
 
 ## 附註
 
@@ -927,24 +910,9 @@
 
 ## 外部連結
 
-  - [仮面ライダー×スーパー戦隊×宇宙刑事
-    スーパーヒーロー大戦Ｚ](https://web.archive.org/web/20130204001423/http://www.toei.co.jp/movie/details/1201114_951.html)
-    東映官方網站
-  - [仮面ライダー×スーパー戦隊×宇宙刑事 スーパーヒーロー大戦Ｚ](http://www.superhero-movie.com/)
-    朝日官方網站
+  - [仮面ライダー×スーパー戦隊×宇宙刑事 スーパーヒーロー大戦Ｚ](https://web.archive.org/web/20130204001423/http://www.toei.co.jp/movie/details/1201114_951.html) 東映官方網站
+  - [仮面ライダー×スーパー戦隊×宇宙刑事 スーパーヒーロー大戦Ｚ](http://www.superhero-movie.com/) 朝日官方網站
 
-[Category:2013年日本電影](https://zh.wikipedia.org/wiki/Category:2013年日本電影 "wikilink")
-[Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink")
-[Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink")
-[Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
-[Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink")
-[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
-[Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink")
-[Category:金田治電影](https://zh.wikipedia.org/wiki/Category:金田治電影 "wikilink")
-[Category:外星生命電影](https://zh.wikipedia.org/wiki/Category:外星生命電影 "wikilink")
-[Category:金属英雄](https://zh.wikipedia.org/wiki/Category:金属英雄 "wikilink")
-[Category:电脑奇侠](https://zh.wikipedia.org/wiki/Category:电脑奇侠 "wikilink")
-[Category:闪电人](https://zh.wikipedia.org/wiki/Category:闪电人 "wikilink")
+[Category:2013年日本電影](https://zh.wikipedia.org/wiki/Category:2013年日本電影 "wikilink") [Category:日本电影作品](https://zh.wikipedia.org/wiki/Category:日本电影作品 "wikilink") [Category:日语电影](https://zh.wikipedia.org/wiki/Category:日语电影 "wikilink") [Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink") [Category:假面騎士系列跨界作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列跨界作品 "wikilink") [Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink") [Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink") [Category:金田治電影](https://zh.wikipedia.org/wiki/Category:金田治電影 "wikilink") [Category:外星生命電影](https://zh.wikipedia.org/wiki/Category:外星生命電影 "wikilink") [Category:金属英雄](https://zh.wikipedia.org/wiki/Category:金属英雄 "wikilink") [Category:电脑奇侠](https://zh.wikipedia.org/wiki/Category:电脑奇侠 "wikilink") [Category:闪电人](https://zh.wikipedia.org/wiki/Category:闪电人 "wikilink")
 
-1.  [仮面ライダー×スーパー戦隊×宇宙刑事
-    スーパーヒーロー大戦Ｚ](http://www.toei.co.jp/movie/details/1201114_951.html)
+1.  [仮面ライダー×スーパー戦隊×宇宙刑事 スーパーヒーロー大戦Ｚ](http://www.toei.co.jp/movie/details/1201114_951.html)

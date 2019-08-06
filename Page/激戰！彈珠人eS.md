@@ -15,9 +15,7 @@
 <!-- end list -->
 
   -
-    本輯主角，性格開朗熱血，運動神經十分發達。故事開始時失去了部分記憶。在遇見彈珠人店店長(事實上是他的父親)後，被引導組裝出爆炎朱雀。他和爆炎朱雀隨後決定以「彈珠人第一名」為目標戰鬥。在相遇時，兩人均有種怪異的熟悉感，但都沒有在意。實際上，火紋正是被革職的南區B-Master/南區彈珠人大師（臺灣）。因為身為彈珠人至尊的兄長龍馬提出了Road
-    Fight/熱鬥彈珠人大會(臺灣)這種「勝者為王」的惡劣比賽，所以作為南區B-Master/南區彈珠人大師（臺灣）發出挑戰，可惜戰敗。此戰亦使爆炎朱雀被破壞，火紋因承受不住失去它的打擊而失去有關彈珠人的所有記憶，包括父親和兄長龍馬的事。後來因為被不知火百虎迫至絕境，身心一度因戰敗於龍馬的恐懼而受黑暗控制，再戰時靠滿和影狼的聲援才清醒；到了龍馬出現在他面前，更是完全墮落，並受龍馬的謎樣力量洗腦。後來龍崎翔與天翼蒼龍挑戰，在青龍和朱雀石板所放出的聖獸力量幫助下，不但脫離洗腦，更和爆炎朱雀一起恢復記憶。目前回到南區B-Master/南區彈珠人大師（臺灣）的位置，和被任命為東區B大師/東區彈珠人大師（臺灣）的龍崎翔一起推廣Cross
-    Fight/激戰彈珠人大會（臺灣）。
+    本輯主角，性格開朗熱血，運動神經十分發達。故事開始時失去了部分記憶。在遇見彈珠人店店長(事實上是他的父親)後，被引導組裝出爆炎朱雀。他和爆炎朱雀隨後決定以「彈珠人第一名」為目標戰鬥。在相遇時，兩人均有種怪異的熟悉感，但都沒有在意。實際上，火紋正是被革職的南區B-Master/南區彈珠人大師（臺灣）。因為身為彈珠人至尊的兄長龍馬提出了Road Fight/熱鬥彈珠人大會(臺灣)這種「勝者為王」的惡劣比賽，所以作為南區B-Master/南區彈珠人大師（臺灣）發出挑戰，可惜戰敗。此戰亦使爆炎朱雀被破壞，火紋因承受不住失去它的打擊而失去有關彈珠人的所有記憶，包括父親和兄長龍馬的事。後來因為被不知火百虎迫至絕境，身心一度因戰敗於龍馬的恐懼而受黑暗控制，再戰時靠滿和影狼的聲援才清醒；到了龍馬出現在他面前，更是完全墮落，並受龍馬的謎樣力量洗腦。後來龍崎翔與天翼蒼龍挑戰，在青龍和朱雀石板所放出的聖獸力量幫助下，不但脫離洗腦，更和爆炎朱雀一起恢復記憶。目前回到南區B-Master/南區彈珠人大師（臺灣）的位置，和被任命為東區B大師/東區彈珠人大師（臺灣）的龍崎翔一起推廣Cross Fight/激戰彈珠人大會（臺灣）。
     **配音**：[內匠靖明](../Page/內匠靖明.md "wikilink")（日本）、[孫誠](https://zh.wikipedia.org/wiki/孫誠 "wikilink")(激戰！彈珠人最終話)→[郭馨雅](../Page/郭馨雅.md "wikilink")（臺灣）、[胡家豪](../Page/胡家豪.md "wikilink")（香港）
     **持有彈珠人：**爆炎朱雀、神翼爆炎朱雀、烈風爆炎朱雀、終極爆炎朱雀（臺灣）
     **超技呼號：**一口氣燃燒吧\!爆炎朱雀、加速燃燒吧\!爆炎朱雀（臺灣）
@@ -947,71 +945,7 @@
 </table>
 
 
-{| class="wikitable" style="font-size:small; margin:0px auto;
-text-align:center;" |-
-\!rowspan="3"|集數\!\!colspan="2"|香港翻譯標題\!\!colspan="2"|臺灣翻譯標題\!\!rowspan="3"|日本首播時間\!\!rowspan="3"|香港首播時間\!\!rowspan="3"|臺灣首播時間
-|- \!雙語\!\!字幕\!\!雙語\!\!字幕 |- |T||F||F||F |-
-|01||colspan=2|熾熱地燃燒吧，爆炎朱雀||colspan=2|-||2012.10.07||rowspan="2"|2013.05.11||rowspan="2"|2013.06.29
-|- |02||colspan=2|狙擊黃蜂||colspan=2|-||2012.10.14 |-
-|03||colspan=2|冷傲旋風來襲！超音白龍！||colspan=2|-||2012.10.21||rowspan="2"|2013.05.18||rowspan="2"|2013.07.06
-|- |04||colspan=2|享受比賽的樂趣 DX Break Bomber 7||colspan=2|-||2012.10.28 |-
-|05||colspan=2|強化彈珠人吧，高精度瞄射管||colspan=2|-||2012.11.04||rowspan="2"|2013.05.25||rowspan="2"|2013.07.13
-|- |06||colspan=2|拿到冠軍吧，Cross Fight||colspan=2|-||2012.11.11 |-
-|07||colspan=2|孤高的野狼，神槍天狼||colspan=2|-||2012.11.18||rowspan="2"|2013.06.01||rowspan="2"|2013.07.20
-|- |08||colspan=2|翱翔獵鷹，來了一個大胃王||colspan=2|-||2012.11.25 |-
-|09||colspan=2| 西部也一起燃燒吧！ Cross
-Fight！||colspan=2|-||2012.12.02||rowspan="2"|2013.06.08||rowspan="2"|2013.07.27
-|- |10||colspan=2|一招定勝負||colspan=2|-||2012.12.09 |- |11||colspan=2|用Road
-Fight決勝負吧
-獵鷹撲擊||colspan=2|-||2012.12.16||rowspan="2"|2013.06.15||rowspan="2"|2013.08.03
-|- |12||colspan=2|強敵出現了 不知火百牙||colspan=2|-||2012.12.23 |-
-|13||colspan=2|終於來到了，暴風腳座||colspan=2|-||rowspan="2"|2012.12.06||rowspan="2"|2013.06.22||rowspan="2"|2013.08.10
-|- |14||colspan=2|守護DX Break Bomber Seven||colspan=2|- |-
-|15||colspan=2|直衝上天吧，Break
-Ball||colspan=2|-||2013.01.13||rowspan="2"|2013.06.29||rowspan="2"|2013.08.17
-|- |16||colspan=2|加入戰團吧，雙霸黑龍||colspan=2|-||2013.01.20 |-
-|17||colspan=2|真沒用，黑淵巴沙拿出場||colspan=2|-||2013.01.21||rowspan="2"|2013.07.06||rowspan="2"|2013.08.24
-|- |18||colspan=2|復仇之戰，不知火百牙||colspan=2|-||2013.02.03 |-
-|19||colspan=2|熾熱起來吧！Meteor
-Bomber||colspan=2|-||2013.02.10||rowspan="2"|2013.07.13||rowspan="2"|2013.08.31
-|- |20||colspan=2|唦唦而來，馬赫毒蠍||colspan=2|-||2013.02.17 |-
-|21||colspan=2|開戰了！B大師爭奪戰！||colspan=2|-||2013.02.24||rowspan="2"|2013.07.20||rowspan="2"|2013.09.07
-|- |22||colspan=2|新生的霹靂青龍||colspan=2|-||2013.03.03 |-
-|23||colspan=2|朱雀對青龍||colspan=2|-||2013.03.10||rowspan="2"|2013.07.27||rowspan="2"|2013.09.14
-|- |24||colspan=2|你才是東部地帶的B大師||colspan=2|-||2013.03.17 |-
-|25||colspan=2|強大的同伴
-麥林雙臂||colspan=2|-||2013.03.24||rowspan="2"|2013.08.03||rowspan="2"|2013.09.21
-|- |26||colspan=2|最終決戰 朱雀對青龍||colspan=2|-||2013.03.31 |-
-|27||colspan=2|很神秘
-桂特蘭的傳說||colspan=2|-||2013.04.07||rowspan="2"|2013.08.17||rowspan="2"|2013.09.28
-|- |28||colspan=2|強襲赤龍出場||colspan=2|-||2013.04.14 |-
-|29||colspan=2|白虎的決鬥！鮮紅色的卑鄙陷阱||colspan=2|-||2013.04.21||rowspan="2"|2013.08.24||rowspan="2"|2013.10.05
-|- |30||colspan=2|白虎甦醒！猛虎覺醒了||colspan=2|-||2013.04.28 |-
-|31||colspan=2|友情的改變模式！強襲赤龍！||colspan=2|-||2013.05.05||rowspan="2"|2013.08.31||rowspan="2"|2013.10.12
-|- |32||colspan=2|再見了！機槍玄武||colspan=2|-||2013.05.12 |-
-|33||colspan=2|機槍玄武
-稱霸所有地帶||colspan=2|-||2013.05.19||rowspan="2"|2013.09.07||rowspan="2"|2013.10.19
-|- |34||colspan=2|我會守護給你看！Cross Fight！||colspan=2|-||2013.05.26 |-
-|35||colspan=2|野性的挑戰
-傲獅對玄武||colspan=2|-||2013.06.02||rowspan="2"|2013.09.14||rowspan="2"|2013.10.26
-|- |36||colspan=2|決戰吧 朱雀對玄武||colspan=2|-||2013.06.09 |-
-|37||colspan=2|不速之客
-重炮三角||colspan=2|-||2013.06.16||rowspan="2"|2013.09.21||rowspan="2"|2013.11.02
-|- |38||colspan=2|究極的敵人 幻影麒麟||colspan=2|-||2013.06.23 |-
-|39||colspan=2|會把你救出來的！至尊鳳凰||colspan=2|-||2013.06.30||rowspan="2"|2013.09.28||rowspan="2"|2013.11.09
-|- |40||colspan=2|終極爆炎朱雀！||colspan=2|-||2013.07.07 |-
-|41||colspan=2|兄弟對決！朱雀對麒麟||colspan=2|-||2013.07.14||rowspan="2"|2013.10.05||rowspan="2"|2013.11.16
-|- |42||colspan=2|徹底粉碎！闇黑特工的野心||colspan=2|-||2013.07.21 |-
-|43||colspan=2|鳳凰錦標賽，開幕了！||colspan=2|-||2013.07.28||rowspan="2"|2013.10.12||rowspan="2"|2013.11.23
-|- |44||colspan=2|終極對決！終極霹靂青龍||colspan=2|-||2013.08.04 |-
-|45||colspan=2|不會逃避！源太對龍馬||colspan=2|-||2013.08.11||rowspan="2"|2013.10.19||rowspan="2"|2013.11.30
-|- |46||colspan=2|不依賴他人的比賽 直哉對百牙||colspan=2|-||2013.08.18 |-
-|47||colspan=2|至尊鳳凰的復活||colspan=2|-||2013.08.25||rowspan="2"|2013.10.26||rowspan="2"|2013.12.07
-|- |48||colspan=2|難以跨越的牆壁！阿昴和白龍||colspan=2|-||2013.09.01 |-
-|49||colspan=2|全新舞台！準決賽開幕！||colspan=2|-||2013.09.08||rowspan="2"|2013.11.02||rowspan="2"|2013.12.13
-|- |50||colspan=2|炎之兄弟對決！終於開始||colspan=2|-||2013.09.15 |-
-|51||colspan=2|最終決戰||colspan=2|-||2013.09.22||rowspan="2"|2013.11.09||rowspan="2"|2013.12.21
-|- |52||colspan=2|終極決戰！火紋對翔仔！||colspan=2|-||2013.09.29 |- |}
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;" |- \!rowspan="3"|集數\!\!colspan="2"|香港翻譯標題\!\!colspan="2"|臺灣翻譯標題\!\!rowspan="3"|日本首播時間\!\!rowspan="3"|香港首播時間\!\!rowspan="3"|臺灣首播時間 |- \!雙語\!\!字幕\!\!雙語\!\!字幕 |- |T||F||F||F |- |01||colspan=2|熾熱地燃燒吧，爆炎朱雀||colspan=2|-||2012.10.07||rowspan="2"|2013.05.11||rowspan="2"|2013.06.29 |- |02||colspan=2|狙擊黃蜂||colspan=2|-||2012.10.14 |- |03||colspan=2|冷傲旋風來襲！超音白龍！||colspan=2|-||2012.10.21||rowspan="2"|2013.05.18||rowspan="2"|2013.07.06 |- |04||colspan=2|享受比賽的樂趣 DX Break Bomber 7||colspan=2|-||2012.10.28 |- |05||colspan=2|強化彈珠人吧，高精度瞄射管||colspan=2|-||2012.11.04||rowspan="2"|2013.05.25||rowspan="2"|2013.07.13 |- |06||colspan=2|拿到冠軍吧，Cross Fight||colspan=2|-||2012.11.11 |- |07||colspan=2|孤高的野狼，神槍天狼||colspan=2|-||2012.11.18||rowspan="2"|2013.06.01||rowspan="2"|2013.07.20 |- |08||colspan=2|翱翔獵鷹，來了一個大胃王||colspan=2|-||2012.11.25 |- |09||colspan=2| 西部也一起燃燒吧！ Cross Fight！||colspan=2|-||2012.12.02||rowspan="2"|2013.06.08||rowspan="2"|2013.07.27 |- |10||colspan=2|一招定勝負||colspan=2|-||2012.12.09 |- |11||colspan=2|用Road Fight決勝負吧 獵鷹撲擊||colspan=2|-||2012.12.16||rowspan="2"|2013.06.15||rowspan="2"|2013.08.03 |- |12||colspan=2|強敵出現了 不知火百牙||colspan=2|-||2012.12.23 |- |13||colspan=2|終於來到了，暴風腳座||colspan=2|-||rowspan="2"|2012.12.06||rowspan="2"|2013.06.22||rowspan="2"|2013.08.10 |- |14||colspan=2|守護DX Break Bomber Seven||colspan=2|- |- |15||colspan=2|直衝上天吧，Break Ball||colspan=2|-||2013.01.13||rowspan="2"|2013.06.29||rowspan="2"|2013.08.17 |- |16||colspan=2|加入戰團吧，雙霸黑龍||colspan=2|-||2013.01.20 |- |17||colspan=2|真沒用，黑淵巴沙拿出場||colspan=2|-||2013.01.21||rowspan="2"|2013.07.06||rowspan="2"|2013.08.24 |- |18||colspan=2|復仇之戰，不知火百牙||colspan=2|-||2013.02.03 |- |19||colspan=2|熾熱起來吧！Meteor Bomber||colspan=2|-||2013.02.10||rowspan="2"|2013.07.13||rowspan="2"|2013.08.31 |- |20||colspan=2|唦唦而來，馬赫毒蠍||colspan=2|-||2013.02.17 |- |21||colspan=2|開戰了！B大師爭奪戰！||colspan=2|-||2013.02.24||rowspan="2"|2013.07.20||rowspan="2"|2013.09.07 |- |22||colspan=2|新生的霹靂青龍||colspan=2|-||2013.03.03 |- |23||colspan=2|朱雀對青龍||colspan=2|-||2013.03.10||rowspan="2"|2013.07.27||rowspan="2"|2013.09.14 |- |24||colspan=2|你才是東部地帶的B大師||colspan=2|-||2013.03.17 |- |25||colspan=2|強大的同伴 麥林雙臂||colspan=2|-||2013.03.24||rowspan="2"|2013.08.03||rowspan="2"|2013.09.21 |- |26||colspan=2|最終決戰 朱雀對青龍||colspan=2|-||2013.03.31 |- |27||colspan=2|很神秘 桂特蘭的傳說||colspan=2|-||2013.04.07||rowspan="2"|2013.08.17||rowspan="2"|2013.09.28 |- |28||colspan=2|強襲赤龍出場||colspan=2|-||2013.04.14 |- |29||colspan=2|白虎的決鬥！鮮紅色的卑鄙陷阱||colspan=2|-||2013.04.21||rowspan="2"|2013.08.24||rowspan="2"|2013.10.05 |- |30||colspan=2|白虎甦醒！猛虎覺醒了||colspan=2|-||2013.04.28 |- |31||colspan=2|友情的改變模式！強襲赤龍！||colspan=2|-||2013.05.05||rowspan="2"|2013.08.31||rowspan="2"|2013.10.12 |- |32||colspan=2|再見了！機槍玄武||colspan=2|-||2013.05.12 |- |33||colspan=2|機槍玄武 稱霸所有地帶||colspan=2|-||2013.05.19||rowspan="2"|2013.09.07||rowspan="2"|2013.10.19 |- |34||colspan=2|我會守護給你看！Cross Fight！||colspan=2|-||2013.05.26 |- |35||colspan=2|野性的挑戰 傲獅對玄武||colspan=2|-||2013.06.02||rowspan="2"|2013.09.14||rowspan="2"|2013.10.26 |- |36||colspan=2|決戰吧 朱雀對玄武||colspan=2|-||2013.06.09 |- |37||colspan=2|不速之客 重炮三角||colspan=2|-||2013.06.16||rowspan="2"|2013.09.21||rowspan="2"|2013.11.02 |- |38||colspan=2|究極的敵人 幻影麒麟||colspan=2|-||2013.06.23 |- |39||colspan=2|會把你救出來的！至尊鳳凰||colspan=2|-||2013.06.30||rowspan="2"|2013.09.28||rowspan="2"|2013.11.09 |- |40||colspan=2|終極爆炎朱雀！||colspan=2|-||2013.07.07 |- |41||colspan=2|兄弟對決！朱雀對麒麟||colspan=2|-||2013.07.14||rowspan="2"|2013.10.05||rowspan="2"|2013.11.16 |- |42||colspan=2|徹底粉碎！闇黑特工的野心||colspan=2|-||2013.07.21 |- |43||colspan=2|鳳凰錦標賽，開幕了！||colspan=2|-||2013.07.28||rowspan="2"|2013.10.12||rowspan="2"|2013.11.23 |- |44||colspan=2|終極對決！終極霹靂青龍||colspan=2|-||2013.08.04 |- |45||colspan=2|不會逃避！源太對龍馬||colspan=2|-||2013.08.11||rowspan="2"|2013.10.19||rowspan="2"|2013.11.30 |- |46||colspan=2|不依賴他人的比賽 直哉對百牙||colspan=2|-||2013.08.18 |- |47||colspan=2|至尊鳳凰的復活||colspan=2|-||2013.08.25||rowspan="2"|2013.10.26||rowspan="2"|2013.12.07 |- |48||colspan=2|難以跨越的牆壁！阿昴和白龍||colspan=2|-||2013.09.01 |- |49||colspan=2|全新舞台！準決賽開幕！||colspan=2|-||2013.09.08||rowspan="2"|2013.11.02||rowspan="2"|2013.12.13 |- |50||colspan=2|炎之兄弟對決！終於開始||colspan=2|-||2013.09.15 |- |51||colspan=2|最終決戰||colspan=2|-||2013.09.22||rowspan="2"|2013.11.09||rowspan="2"|2013.12.21 |- |52||colspan=2|終極決戰！火紋對翔仔！||colspan=2|-||2013.09.29 |- |}
 
 ## 主題曲
 
@@ -1043,13 +977,8 @@ Bomber||colspan=2|-||2013.02.10||rowspan="2"|2013.07.13||rowspan="2"|2013.08.31
 
   - [動畫官網（東京電視台）](http://www.tv-tokyo.co.jp/anime/cf_b-daman/)
 
-  - [玩具官網（Takara
-    Tomy）](https://web.archive.org/web/20120923102458/http://www.takaratomy.co.jp/products/b-daman/)
+  - [玩具官網（Takara Tomy）](https://web.archive.org/web/20120923102458/http://www.takaratomy.co.jp/products/b-daman/)
 
-[Category:Synergy_SP](https://zh.wikipedia.org/wiki/Category:Synergy_SP "wikilink")
-[Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink")
-[Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink")
-[Category:彈珠人](https://zh.wikipedia.org/wiki/Category:彈珠人 "wikilink")
+[Category:Synergy_SP](https://zh.wikipedia.org/wiki/Category:Synergy_SP "wikilink") [Category:2012年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2012年東京電視網動畫 "wikilink") [Category:東京電視台製作動畫](https://zh.wikipedia.org/wiki/Category:東京電視台製作動畫 "wikilink") [Category:彈珠人](https://zh.wikipedia.org/wiki/Category:彈珠人 "wikilink")
 
-1.  作者勝見直人，Amazon：[クロスファイトビーダマン
-    フェニックス伝説1](http://www.amazon.co.jp/dp/4091415652)
+1.  作者勝見直人，Amazon：[クロスファイトビーダマン フェニックス伝説1](http://www.amazon.co.jp/dp/4091415652)

@@ -18,12 +18,9 @@ EPL9T型电力动车组是[动力分散式列车](https://zh.wikipedia.org/wiki/
 
 ## 外部链接
 
-  - [ПАО «Лугансктепловоз»: Электропоезд
-    ЕПЛ9Т](http://www.luganskteplovoz.com/ProdOsnProduct/OnlyOsnProduct/27)
+  - [ПАО «Лугансктепловоз»: Электропоезд ЕПЛ9Т](http://www.luganskteplovoz.com/ProdOsnProduct/OnlyOsnProduct/27)
 
-[Category:25千伏50赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力动车组 "wikilink")
-[Category:乌克兰电力动车组](https://zh.wikipedia.org/wiki/Category:乌克兰电力动车组 "wikilink")
-[Category:盧甘斯克製鐵路車輛](https://zh.wikipedia.org/wiki/Category:盧甘斯克製鐵路車輛 "wikilink")
+[Category:25千伏50赫兹交流电力动车组](https://zh.wikipedia.org/wiki/Category:25千伏50赫兹交流电力动车组 "wikilink") [Category:乌克兰电力动车组](https://zh.wikipedia.org/wiki/Category:乌克兰电力动车组 "wikilink") [Category:盧甘斯克製鐵路車輛](https://zh.wikipedia.org/wiki/Category:盧甘斯克製鐵路車輛 "wikilink")
 
 1.
 2.

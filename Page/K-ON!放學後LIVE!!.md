@@ -6,8 +6,7 @@
 
 遊戲中可變換角色服裝。動畫中梓未出現的哥德蘿莉裝和輕飄飄時間PV的衣服，但是遊戲中[京都動畫](../Page/京都動畫.md "wikilink")有給梓用的專屬服裝。
 
-本作品為《[初音未來
--歌姬計劃-](https://zh.wikipedia.org/wiki/初音未來_-歌姬計劃- "wikilink")》的工作人員擔任。
+本作品為《[初音未來 -歌姬計劃-](https://zh.wikipedia.org/wiki/初音未來_-歌姬計劃- "wikilink")》的工作人員擔任。
 
 ## 登場人物
 
@@ -125,9 +124,4 @@
 
   - [SEGA｜けいおん！ 放課後ライブ！！｜セガ公式-PSP(R)専用ゲームソフト](http://k-on.sega.jp/)
 
-[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink")
-[Category:K-ON\!](https://zh.wikipedia.org/wiki/Category:K-ON! "wikilink")
-[Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")
-[Category:世嘉遊戲](https://zh.wikipedia.org/wiki/Category:世嘉遊戲 "wikilink")
-[Category:動畫改編電子遊戲](https://zh.wikipedia.org/wiki/Category:動畫改編電子遊戲 "wikilink")
+[Category:PlayStation_Portable游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable游戏 "wikilink") [Category:K-ON\!](https://zh.wikipedia.org/wiki/Category:K-ON! "wikilink") [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink") [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink") [Category:世嘉遊戲](https://zh.wikipedia.org/wiki/Category:世嘉遊戲 "wikilink") [Category:動畫改編電子遊戲](https://zh.wikipedia.org/wiki/Category:動畫改編電子遊戲 "wikilink")

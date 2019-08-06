@@ -143,13 +143,10 @@
 
 ## 外部链接
 
-  - [拉丁语短语列表（B字头）](http://www.oai.de/de/45-publikationen/sprichwort/301-b-latein.html)
-    (德国: [东亚学院 (路德维希港)](../Page/东亚学院_\(路德维希港\).md "wikilink"))
+  - [拉丁语短语列表（B字头）](http://www.oai.de/de/45-publikationen/sprichwort/301-b-latein.html) (德国: [东亚学院 (路德维希港)](../Page/东亚学院_\(路德维希港\).md "wikilink"))
 
 [Category:拉丁文單字及片語](https://zh.wikipedia.org/wiki/Category:拉丁文單字及片語 "wikilink")
 
-1.  [Ovidi Nasonis Epistvlae Heroidvm, XIII. Laodamia
-    Protesilao](http://www.thelatinlibrary.com/ovid/ovid.her13.shtml)
+1.  [Ovidi Nasonis Epistvlae Heroidvm, XIII. Laodamia Protesilao](http://www.thelatinlibrary.com/ovid/ovid.her13.shtml)
 2.  \[[http://amasis.com/biblia/\]贫穷人圣经電子版](http://amasis.com/biblia/%5D贫穷人圣经電子版)
-3.  \[[http://www.westonbirt.gloucs.sch.uk/\]Westonbirt](http://www.westonbirt.gloucs.sch.uk/%5DWestonbirt)
-    School
+3.  \[[http://www.westonbirt.gloucs.sch.uk/\]Westonbirt](http://www.westonbirt.gloucs.sch.uk/%5DWestonbirt) School

@@ -2,8 +2,7 @@
 
 ## 人物
 
-  - [恩斯特
-    (奧地利)](https://zh.wikipedia.org/wiki/恩斯特_\(奧地利\) "wikilink")（1027–1075）
+  - [恩斯特 (奧地利)](https://zh.wikipedia.org/wiki/恩斯特_\(奧地利\) "wikilink")（1027–1075）
 
   - （1373–1438）
 
@@ -13,8 +12,7 @@
 
   - [恩斯特·奥古斯特一世](../Page/恩斯特·奥古斯特一世.md "wikilink")（1771–1851），[佐治三世之子](https://zh.wikipedia.org/wiki/佐治三世 "wikilink")
 
-  - [恩斯特二世
-    (萨克森-科堡-哥达公爵)](../Page/恩斯特二世_\(萨克森-科堡-哥达公爵\).md "wikilink")（1818–1893）
+  - [恩斯特二世 (萨克森-科堡-哥达公爵)](../Page/恩斯特二世_\(萨克森-科堡-哥达公爵\).md "wikilink")（1818–1893）
 
   - [恩斯特·奧古斯特二世](../Page/恩斯特·奧古斯特二世.md "wikilink")（1845–1923）
 
@@ -30,8 +28,7 @@
 
   - [喧尼斯·鮑寧](../Page/喧尼斯·鮑寧.md "wikilink")（1917–2012），美國演員
 
-  - [厄尔尼·格雷格里奥](https://zh.wikipedia.org/wiki/厄尔尼·格雷格里奥 "wikilink")（born
-    1951），美國籃球員
+  - [厄尔尼·格雷格里奥](https://zh.wikipedia.org/wiki/厄尔尼·格雷格里奥 "wikilink")（born 1951），美國籃球員
 
   - [厄尼·弗莱彻](https://zh.wikipedia.org/wiki/厄尼·弗莱彻 "wikilink")（1952生），美國醫生、政府家及第60任肯塔基州州長
 
