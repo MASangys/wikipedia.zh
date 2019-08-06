@@ -16,8 +16,6 @@ Copyleft不同於傳統的[公有領域](https://zh.wikipedia.org/wiki/公有領
 
 Copyleft是将一個程式变為自由軟體的通用方法，同時也使得這個程式的修改和擴充版本成為自由軟體。提出並使用Copyleft觀念的是[GNU](../Page/GNU.md "wikilink")計畫，具體的發佈條款包含在[GNU通用公共授權條款](https://zh.wikipedia.org/wiki/GNU通用公共授權條款 "wikilink")、[GNU較寬鬆公共許可證](https://zh.wikipedia.org/wiki/GNU較寬鬆公共許可證 "wikilink")、[GNU自由文件授權條款的條款裡](https://zh.wikipedia.org/wiki/GNU自由文件授權條款 "wikilink")。其他使用copyleft概念的還有[創作共用的](https://zh.wikipedia.org/wiki/創作共用 "wikilink")[姓名標示─相同方式分享](http://creativecommons.org/licenses/by-sa/3.0/tw/)。
 
-大多數軟體授權申明被設計爲剝奪您共用和修改軟體的自由。相反地，GNU通用公共授權力圖保護您分享和修改自由軟體地自由——以確保軟體對所有使用者都是自由的。我們，自由軟體基金會，對我們的大多數軟體使用GNU通用公共授權；本授權同樣適用于任何其作者以這種方式發佈的軟體。您也可以讓您的軟體使用本授權。
-
 ## 標誌
 
 Copyleft的標誌是一個反寫的C套上圓圈（即反轉的[版權標誌](https://zh.wikipedia.org/wiki/版權 "wikilink")©）。這個標誌沒有法律意義。\[7\]2016被提議\[8\]加入到Unicode並獲Unicode技術委員會許可。\[9\]其編碼收錄在Unicode 11。\[10\]\[11\]由於現時多數字型沒有實作，可以由或更常用的加上括號組成「(ɔ)」，或者在程式支援的情況下與組合：「ↄ⃝」。\[12\]

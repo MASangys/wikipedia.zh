@@ -61,12 +61,6 @@ Cookies在某种程度上说已经严重危及用户的[隐私和](https://zh.wi
   - [P3P](https://zh.wikipedia.org/wiki/P3P "wikilink")，用以让用户获得更多控制个人隐私权利的[协议](../Page/网络传输协议.md "wikilink")。在浏览网站时，它类似于Cookie。
   - 在与服务器传输数据时，通过在地址后面添加唯一[查询串](https://zh.wikipedia.org/wiki/查询串 "wikilink")，让服务器识别是否合法用户，也可以避免使用Cookie。
 
-## 外部链接
-
-  - RFC 2109
-  - RFC 2965
-  - RFC 6265
-
 ## 引用
 
 [Category:HTTP](https://zh.wikipedia.org/wiki/Category:HTTP "wikilink")

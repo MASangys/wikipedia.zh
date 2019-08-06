@@ -65,7 +65,7 @@
 
 <!-- end list -->
 
-  - Leopard內建[萬用磁碟格式](https://zh.wikipedia.org/wiki/萬用磁碟格式 "wikilink")（UDF）2.5版驅動程式，是透過第三方光碟機讀取[高清DVD與](https://zh.wikipedia.org/wiki/高清DVD "wikilink")[藍光碟片的必備工具](https://zh.wikipedia.org/wiki/藍光 "wikilink")。然而內含的 DVD 播放器只能播放由DVD Studio Pro製作的高清DVD光碟。\[38\]
+  - Leopard內建[萬用磁碟格式](https://zh.wikipedia.org/wiki/萬用磁碟格式 "wikilink")（UDF）2.5版驅動程式，是透過第三方光碟機讀取[高清DVD與](https://zh.wikipedia.org/wiki/高清DVD "wikilink")[藍光](../Page/藍光.md "wikilink")碟片的必備工具。然而內含的 DVD 播放器只能播放由DVD Studio Pro製作的高清DVD光碟。\[38\]
   - Leopard內建實現了[潛在語意對映](https://zh.wikipedia.org/wiki/潛在語意對映 "wikilink")（latent semantic mapping）框架，對分類資料（例如：[校勘](https://zh.wikipedia.org/wiki/校勘 "wikilink")）相當有用。
   - Leopard獲得UNIX完全相容認證。認證的意義是遵循[簡單UNIX規格](https://zh.wikipedia.org/wiki/簡單UNIX規格 "wikilink")（Single UNIX Specification）開發的軟體可於 Leopard底下編譯並執行而不必修改任何代碼。\[39\] 該認證只有當Leopard於Intel處理器下執行時適用。Leopard同時移除了對[古典應用程式的支援](https://zh.wikipedia.org/wiki/古典_\(Mac_OS_X\) "wikilink")。\[40\]
 

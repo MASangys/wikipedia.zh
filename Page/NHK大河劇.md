@@ -253,7 +253,7 @@
 (Katsu Kaishū)</p></td>
 <td><p>1974年1月6日<br />
 1974年12月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/子母澤寬" title="wikilink">子母澤寬</a></p></td>
+<td><p><a href="../Page/子母澤寬.md" title="wikilink">子母澤寬</a></p></td>
 <td><p><br />
 </p></td>
 <td><p><a href="../Page/富田勳.md" title="wikilink">富田勳</a></p></td>

@@ -786,6 +786,6 @@ w-inds. 10th Anniversary Best Album-We sing for you-</p></td>
 
 ## 外部連結
 
-  - [w-inds.tv](http://www.w-inds.tv)
+  - [w-inds.tv](https://www.w-inds.tv)
 
-[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink") [Category:日本唱片大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎者 "wikilink") [Category:Burning_Production系列所屬藝人](https://zh.wikipedia.org/wiki/Category:Burning_Production系列所屬藝人 "wikilink") [Category:波麗佳音](https://zh.wikipedia.org/wiki/Category:波麗佳音 "wikilink") [Category:VISION_FACTORY](https://zh.wikipedia.org/wiki/Category:VISION_FACTORY "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")
+[Category:日本男子演唱團體](https://zh.wikipedia.org/wiki/Category:日本男子演唱團體 "wikilink") [Category:日本男子偶像團體](https://zh.wikipedia.org/wiki/Category:日本男子偶像團體 "wikilink") [Category:日本唱片大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎者 "wikilink") [Category:Burning_Production系列所屬藝人](https://zh.wikipedia.org/wiki/Category:Burning_Production系列所屬藝人 "wikilink") [Category:RISINGPRO](https://zh.wikipedia.org/wiki/Category:RISINGPRO "wikilink") [Category:波麗佳音](https://zh.wikipedia.org/wiki/Category:波麗佳音 "wikilink") [Category:Mnet亞洲音樂大獎獲得者](https://zh.wikipedia.org/wiki/Category:Mnet亞洲音樂大獎獲得者 "wikilink")

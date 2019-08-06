@@ -10,7 +10,7 @@
 
 ## 人物
 
-  - 阿Q──小说主人公，社會中的小人物，一窮二白，但自尊心很重。每次遭遇到不幸的事，都會找些似是而非的理由為自己安慰。小說中寫明“Q”為“quei”(ㄍㄨㄟˋ)之縮寫，不過如今大多數人已經習慣按英語字母Q的發音來唸。
+  - 阿Q──小说主人公，社會中的小人物，一窮二白，但自尊心很重。每次遭遇到不幸的事，都會找些似是而非的理由為自己安慰。小說中寫明“Q”為“quei”（ㄍㄨㄟˋ）之縮寫，不過如今大多數人已經習慣按英語字母Q的發音來唸。
   - 趙太爺──鄉紳，阿Q的「米飯班主」，對阿Q甚為苛刻。
   - 吳媽──趙太爺家女工，阿Q曾對她出言不遜。
   - 小D──亦为底层人物，帮佣为生，曾与阿Q幹架。D為Don之縮寫，[鲁迅](../Page/鲁迅.md "wikilink")表示小D應讀做「小同」，並认为他“长大后也是另一个阿Q”。\[3\]
@@ -61,7 +61,7 @@
 
 {{-}}
 
-[Category:中國農村題材作品](https://zh.wikipedia.org/wiki/Category:中國農村題材作品 "wikilink") [Category:中华民国大陆时期小说](https://zh.wikipedia.org/wiki/Category:中华民国大陆时期小说 "wikilink") [Category:1921年長篇小說](https://zh.wikipedia.org/wiki/Category:1921年長篇小說 "wikilink") [Category:中文中篇小說](https://zh.wikipedia.org/wiki/Category:中文中篇小說 "wikilink") [Category:鲁迅作品](https://zh.wikipedia.org/wiki/Category:鲁迅作品 "wikilink") [Category:宣統時期背景小說](https://zh.wikipedia.org/wiki/Category:宣統時期背景小說 "wikilink")
+[Category:中國農村題材作品](https://zh.wikipedia.org/wiki/Category:中國農村題材作品 "wikilink") [Category:中华民国大陆时期小说](https://zh.wikipedia.org/wiki/Category:中华民国大陆时期小说 "wikilink") [Category:1921年長篇小說](https://zh.wikipedia.org/wiki/Category:1921年長篇小說 "wikilink") [Category:中文中篇小說](https://zh.wikipedia.org/wiki/Category:中文中篇小說 "wikilink") [Category:鲁迅作品](https://zh.wikipedia.org/wiki/Category:鲁迅作品 "wikilink") [Category:宣統時期背景小說](https://zh.wikipedia.org/wiki/Category:宣統時期背景小說 "wikilink") [Category:辛亥革命题材作品](https://zh.wikipedia.org/wiki/Category:辛亥革命题材作品 "wikilink")
 
 1.  鲁迅《1930年10月13日致王乔春书信》，载《[鲁迅全集](../Page/鲁迅全集.md "wikilink")》，第12卷，第26页
 

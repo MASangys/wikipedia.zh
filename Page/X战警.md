@@ -108,7 +108,7 @@
   - [萬磁王](../Page/萬磁王.md "wikilink")（Magneto）
     原名：艾瑞克·馬格斯·藍歇爾（Erik Magnus Lehnsherr）
     異能：控制磁场，操縱金屬
-    定位：加入『[烏托邦](https://zh.wikipedia.org/wiki/烏托邦 "wikilink")』，成為戰鬥主力之一，任領導層。
+    定位：原為X戰警的主要對手，後加入『[烏托邦](https://zh.wikipedia.org/wiki/烏托邦 "wikilink")』，成為戰鬥主力之一，任領導層。
 
 #### 反派
 
@@ -130,6 +130,31 @@
   - [驚惡先生](../Page/驚惡先生.md "wikilink")（Mister Sinister）
     原名：納撒尼爾·埃塞克斯（Nathaniel Essex）
     異能：超人力量，持久性及耐力，心靈感應，念力，震盪能量，長壽，在分子等級上操縱身體
+
+<!-- end list -->
+
+  - （Proteus）
+    原名：凱文·瑪塔格（Kevin MacTaggert）
+    異能：現實扭曲，身體占有，靈能能量組成
+
+<!-- end list -->
+
+  - [劍齒虎](../Page/劍齒虎_\(漫威漫畫\).md "wikilink")（Sabretooth）
+    原名：維克多·克里德（Victor Creed）
+    異能：超人的感官，力量，速度，耐久性，反應和動物般的屬性，通過再生癒合因子延長壽命，可伸縮的爪子和鋒利的牙齒
+
+<!-- end list -->
+
+  - （Arcade）
+    原名：未知
+    異能：天才智商
+    通過科技: 能源和魔法：力場生成，接近無敵，運動技能控制，念力，物質操縱，能夠用簡單的手勢炸裂任何人
+
+<!-- end list -->
+
+  - （Bastion）
+    原名：無
+    異能：對心靈感應探測和變種能力的免疫力，適應能力，科技病毒組成，能夠將人變成原始哨兵(Prime Sentinels)，命令其他哨兵，能量操縱，隱形傳輸，時間操控，超人的力量和耐久性，飛行
 
 ## 漫畫
 

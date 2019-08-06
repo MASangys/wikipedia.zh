@@ -284,7 +284,7 @@
 <!-- end list -->
 
   -
-[Category:美國海軍航空母艦](https://zh.wikipedia.org/wiki/Category:美國海軍航空母艦 "wikilink") [Category:核動力航空母艦](https://zh.wikipedia.org/wiki/Category:核動力航空母艦 "wikilink") [Category:美国军事的世界之最](https://zh.wikipedia.org/wiki/Category:美国军事的世界之最 "wikilink") [Category:1960年竣工的船只](https://zh.wikipedia.org/wiki/Category:1960年竣工的船只 "wikilink") [Category:1960年下水](https://zh.wikipedia.org/wiki/Category:1960年下水 "wikilink")
+[Category:美國海軍航空母艦](https://zh.wikipedia.org/wiki/Category:美國海軍航空母艦 "wikilink") [Category:核動力航空母艦](https://zh.wikipedia.org/wiki/Category:核動力航空母艦 "wikilink") [Category:美国军事的世界之最](https://zh.wikipedia.org/wiki/Category:美国军事的世界之最 "wikilink") [Category:1960年竣工的船只](https://zh.wikipedia.org/wiki/Category:1960年竣工的船只 "wikilink") [Category:1960年下水](https://zh.wikipedia.org/wiki/Category:1960年下水 "wikilink") [Category:航空母舰火灾](https://zh.wikipedia.org/wiki/Category:航空母舰火灾 "wikilink")
 
 1.  [企業號1958年至1963年服役報告](http://www.history.navy.mil/shiphist/e/cvn-65/1958-63.pdf)
 

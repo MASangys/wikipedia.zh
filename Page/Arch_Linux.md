@@ -89,7 +89,7 @@ AUR被称为Arch的新软件包的发源地，在AUR里用户贡献出他们自�
 官方的Arch安裝程序是基於[CLI命令行界面](https://zh.wikipedia.org/wiki/CLI "wikilink"),對於那些需要[GUI圖形界面安裝環境的用戶](https://zh.wikipedia.org/wiki/GUI "wikilink")，可以選擇這些Live CD:
 
   - [ArchBang](../Page/ArchBang.md "wikilink") - 一个默认使用[OpenBox桌面环境的发行版](../Page/Openbox.md "wikilink")。
-  - [Manjaro Linux](../Page/Manjaro_Linux.md "wikilink") - 一个默认使用[XFCE桌面环境的发行版](../Page/Xfce.md "wikilink")。
+  - [Manjaro Linux](../Page/Manjaro_Linux.md "wikilink") - 一个默认使用[XFCE](../Page/Xfce.md "wikilink")/[KDE](../Page/KDE.md "wikilink")桌面环境的发行版。
   - [Chakra GNU/Linux](https://zh.wikipedia.org/wiki/Chakra_GNU/Linux "wikilink") - Chakra 项目发布的半滚动发行版。
   - [Antergos](../Page/Antergos.md "wikilink") - 一个提供包括GNOME 3（默认）、Cinnamon、Razor-qt、Base、KDE和Xfce多种桌面环境安装的发行版（安装时可选）。
   - [Parabola GNU/Linux-libre](https://zh.wikipedia.org/wiki/Parabola_GNU/Linux-libre "wikilink") - 基于 Arch Linux 的一个完全自由的 GNU/Linux 发行版，被收录在[自由软件基金会的完全自由发行版列表](https://www.gnu.org/distros/free-distros.en.html)中。

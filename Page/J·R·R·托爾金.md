@@ -42,7 +42,7 @@
 
 1911年，英格兰和威尔士的人口普查显示托尔金（职业：学生）与他的弟弟希拉里（职业：五金商人的店员）居住在艾吉巴斯顿的海菲尔德4号。\[37\]
 
-同年，托尔金到[瑞士度过暑假](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，他在1968年的一封信中生动回忆了这次旅行\[38\]，写道[比尔博跨越](../Page/比爾博·巴金斯.md "wikilink")[迷雾山脉的旅途是直接基于他们一行](https://zh.wikipedia.org/wiki/迷雾山脉 "wikilink")12人从[因特拉肯](../Page/因特拉肯.md "wikilink")徒步到[卢达本纳](https://zh.wikipedia.org/wiki/卢达本纳 "wikilink")，最终到[米伦外](https://zh.wikipedia.org/wiki/米伦_\(瑞士\) "wikilink")[冰碛上营地的冒险](https://zh.wikipedia.org/wiki/冰碛 "wikilink")。他们通过“”到[格林德瓦镇](https://zh.wikipedia.org/wiki/格林德瓦 "wikilink")，然后走过到达[迈林根](https://zh.wikipedia.org/wiki/迈林根 "wikilink")。他们接着走过，通过[瓦莱州北部到](https://zh.wikipedia.org/wiki/瓦莱州 "wikilink")[布里格](https://zh.wikipedia.org/wiki/布里格 "wikilink")，到[阿莱奇冰川](../Page/阿莱奇冰川.md "wikilink")和[采尔马特](../Page/采尔马特.md "wikilink")。\[39\]
+同年，托尔金到[瑞士度过暑假](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，他在1968年的一封信中生动回忆了这次旅行\[38\]，写道[比尔博跨越](../Page/比爾博·巴金斯.md "wikilink")[迷雾山脉的旅途是直接基于他们一行](https://zh.wikipedia.org/wiki/迷雾山脉 "wikilink")12人从[因特拉肯](../Page/因特拉肯.md "wikilink")徒步到[卢达本纳](https://zh.wikipedia.org/wiki/卢达本纳 "wikilink")，最终到[米伦外](https://zh.wikipedia.org/wiki/米伦_\(瑞士\) "wikilink")[冰碛上营地的冒险](https://zh.wikipedia.org/wiki/冰碛 "wikilink")。他们通过“”到[格林德瓦](../Page/格林德瓦.md "wikilink")镇，然后走过到达[迈林根](https://zh.wikipedia.org/wiki/迈林根 "wikilink")。他们接着走过，通过[瓦莱州北部到](https://zh.wikipedia.org/wiki/瓦莱州 "wikilink")[布里格](https://zh.wikipedia.org/wiki/布里格 "wikilink")，到[阿莱奇冰川](../Page/阿莱奇冰川.md "wikilink")和[采尔马特](../Page/采尔马特.md "wikilink")。\[39\]
 
 同年10月，托尔金开始在[牛津大学埃克塞特学院](../Page/牛津大学埃克塞特学院.md "wikilink")的学业。他一开始学习[古典学但在](https://zh.wikipedia.org/wiki/西洋古典學 "wikilink")1913年转修英语语言和文学，并于1915年以一等荣誉毕业。\[40\]
 

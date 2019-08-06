@@ -47,7 +47,7 @@ Enviro 500 MK II 車身亦可以安裝在[富豪B9TL](../Page/富豪B9TL.md "wik
 
 ### 九龍巴士
 
-[ATE_staircase.jpg](https://zh.wikipedia.org/wiki/File:ATE_staircase.jpg "fig:ATE_staircase.jpg") [ATE145_KMB_48X_08-02-2018.jpg](https://zh.wikipedia.org/wiki/File:ATE145_KMB_48X_08-02-2018.jpg "fig:ATE145_KMB_48X_08-02-2018.jpg")其中一輛舊款車身的Enviro 500雙層巴士，被巴士迷暱稱「舊直」\]\] [ATE265.jpg](https://zh.wikipedia.org/wiki/File:ATE265.jpg "fig:ATE265.jpg")其中一輛改良車身的Enviro 500雙層巴士。因車頭像微笑，亦被巴士迷暱稱「笑直」\]\] [MJ2927_104.jpg](https://zh.wikipedia.org/wiki/File:MJ2927_104.jpg "fig:MJ2927_104.jpg") [KMB_RE0508_32.jpg](https://zh.wikipedia.org/wiki/File:KMB_RE0508_32.jpg "fig:KMB_RE0508_32.jpg") 九龍巴士擁有全球最多數量的Enviro 500，數量達312輛（包括ATE1-271、ATEU1-36、ATEE1-5）。
+[ATE_staircase.jpg](https://zh.wikipedia.org/wiki/File:ATE_staircase.jpg "fig:ATE_staircase.jpg") [ATE15_at_Kai_Shing_St,_Shing_Kai_Rd_(20190502134042).jpg](https://zh.wikipedia.org/wiki/File:ATE15_at_Kai_Shing_St,_Shing_Kai_Rd_\(20190502134042\).jpg "fig:ATE15_at_Kai_Shing_St,_Shing_Kai_Rd_(20190502134042).jpg")其中一輛舊款車身的Enviro 500雙層巴士，被巴士迷暱稱「舊直」\]\] [ATE267_at_Ta_Kwu_Ling,_Tsung_Yuen_Ha_(20190318154615).jpg](https://zh.wikipedia.org/wiki/File:ATE267_at_Ta_Kwu_Ling,_Tsung_Yuen_Ha_\(20190318154615\).jpg "fig:ATE267_at_Ta_Kwu_Ling,_Tsung_Yuen_Ha_(20190318154615).jpg")其中一輛改良車身的Enviro 500雙層巴士。因車頭像微笑，亦被巴士迷暱稱「笑直」\]\] [MJ2927_104.jpg](https://zh.wikipedia.org/wiki/File:MJ2927_104.jpg "fig:MJ2927_104.jpg") [KMB_RE0508_32.jpg](https://zh.wikipedia.org/wiki/File:KMB_RE0508_32.jpg "fig:KMB_RE0508_32.jpg") 九龍巴士擁有全球最多數量的Enviro 500，數量達312輛（包括ATE1-271、ATEU1-36、ATEE1-5）。
 
 第一代Enviro 500是[九龍巴士](../Page/九龍巴士.md "wikilink")旗下第2代[超低地台巴士的首款車型](https://zh.wikipedia.org/wiki/超低地台巴士 "wikilink")，亦是第一款採用直樓梯的車型，樓梯設計有別於過往香港巴士普遍採用的彎曲樓梯，因此九巴稱之為「**超直巴士**」。新車首次採用[玫瑰](../Page/玫瑰.md "wikilink")花紋椅套的座椅，車身塗裝除了以既定的低地台巴士香檳金色作底色外，同時加以棕色作為車身裙腳，以區別首代超低地台巴士。現時此型巴士多被派往高客量的路線上行走。
 
@@ -95,7 +95,7 @@ ATE180（LN5481）於2008年3月31日天水圍車廠火警中焚毀而退役。
 
 ### 龍運巴士
 
-[ML3941.jpg](https://zh.wikipedia.org/wiki/File:ML3941.jpg "fig:ML3941.jpg") [8416_LWB_E34B_09-03-2018.jpg](https://zh.wikipedia.org/wiki/File:8416_LWB_E34B_09-03-2018.jpg "fig:8416_LWB_E34B_09-03-2018.jpg") [8516_LWB_E33_09-01-2018.jpg](https://zh.wikipedia.org/wiki/File:8516_LWB_E33_09-01-2018.jpg "fig:8516_LWB_E33_09-01-2018.jpg") 為提升其服務網路來配合乘客需求，[龍運巴士](../Page/龍運巴士.md "wikilink")於2005年先後從母公司九巴引入新車，雖然龍運後來轉為載通國際成員，但不少新引入的巴士仍是同出於九巴的新車訂單之內。
+[ML3941.jpg](https://zh.wikipedia.org/wiki/File:ML3941.jpg "fig:ML3941.jpg") [8416_LWB_E34B_09-03-2018.jpg](https://zh.wikipedia.org/wiki/File:8416_LWB_E34B_09-03-2018.jpg "fig:8416_LWB_E34B_09-03-2018.jpg") [NG994-709-R42D.jpg](https://zh.wikipedia.org/wiki/File:NG994-709-R42D.jpg "fig:NG994-709-R42D.jpg") 為提升其服務網路來配合乘客需求，[龍運巴士](../Page/龍運巴士.md "wikilink")於2005年先後從母公司九巴引入新車，雖然龍運後來轉為載通國際成員，但不少新引入的巴士仍是同出於九巴的新車訂單之內。
 
 #### 801-803
 

@@ -2672,7 +2672,11 @@ Fashion First（532頻道）啟播，並以標清16:9制式傳送。
 
 <!-- end list -->
 
-  - 2019年8月1日，[中國新華電視中文台](https://zh.wikipedia.org/wiki/中國新華新聞電視網中文台 "wikilink")（369頻道）及[中國新華電視英文台](https://zh.wikipedia.org/wiki/中國新華新聞電視網英語電視台 "wikilink")（370頻道）停播。
+  - 2019年7月，[珠江頻道](https://zh.wikipedia.org/wiki/珠江頻道 "wikilink")（537頻道）、[深圳衛視](https://zh.wikipedia.org/wiki/深圳衛視 "wikilink")（540頻道）、[澳亞衛視](https://zh.wikipedia.org/wiki/澳亞衛視 "wikilink")（544頻道）、[浙江衛視](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")（555頻道）由標清4:3制式提升為標清16:9制式傳送。
+
+<!-- end list -->
+
+  - 2019年8月1日，[中國新華電視中文台](https://zh.wikipedia.org/wiki/中國新華新聞電視網中文台 "wikilink")（369頻道）及[中國新華電視英文台](https://zh.wikipedia.org/wiki/中國新華新聞電視網英語電視台 "wikilink")（370頻道）停播，同日，[now香港台](https://zh.wikipedia.org/wiki/now香港台 "wikilink")（100頻道）改為預覽[Asian Food Channel](https://zh.wikipedia.org/wiki/w:en:Asian_Food_Channel "wikilink")（527頻道）直至8月30日。
 
 #### 停播[無綫網絡電視頻道組合](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")
 

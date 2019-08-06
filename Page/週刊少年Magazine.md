@@ -218,6 +218,14 @@
 <td><p>2019年29號</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/巨龍戰記" title="wikilink">巨龍戰記</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/本田真吾" title="wikilink">本田真吾</a></p></td>
+<td><p>－</p></td>
+<td><p>2019年35號</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

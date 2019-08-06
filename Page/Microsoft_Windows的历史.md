@@ -178,15 +178,11 @@ Windows Home Server 已於2007年9月29日在日本上市。
 
 ## Windows 7
 
-Windows 7的核心沿用Vista的核心版本号为Windows NT 6.1。 Windows 7是以Vista進行更新，所以從Vista轉7的使用者，可以感覺到性能提升許多。
+Windows 7於2009年10月22日在全球公開發售。
 
-2008年10月28日，Windows 7 Pre-beta（版本號為6801）在PDC2008上向與會者推出。2009年1月9日（美國時間），Windows 7 Beta（版本號7000）向全世界用戶開放下載。
+Windows 7的核心沿用Vista的核心版本号为Windows NT 6.1。
 
-2009年4月30日，Windows 7 Release Candidate（版本編號7100）釋出給[MSDN和](https://zh.wikipedia.org/wiki/MSDN "wikilink")[TechNet](../Page/TechNet.md "wikilink")用戶下載，而在2009年5月5日，則開始供一般用戶下載。
-
-2009年8月6日，太平洋時間6日上午10點，Windows 7 RTM （版本編號7600）正式發佈到 MSDN 與 TechNet 訂閱者下載網站。Windows 7於2009年10月22日在全球公開發售。
-
-Windows 7繼續採用Windows Vista的[Aero特效](https://zh.wikipedia.org/wiki/Aero界面 "wikilink")，但較Windows Vista更為全面。
+Windows 7繼續採用Windows Vista的[Aero特效](https://zh.wikipedia.org/wiki/Aero界面 "wikilink")，但效果略有减弱。
 
 在 Windows 7 中，任务栏已完全经过重新设计，可以将软件“固定”到任务栏上。使用鼠标右键点按还有“JumpList”，快速访问您最常用的项目。
 

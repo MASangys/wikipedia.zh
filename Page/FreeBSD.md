@@ -362,7 +362,7 @@ FreeBSD包含了[GNU通用公共许可证](../Page/GNU通用公共许可证.md "
 
   - [Freenode](../Page/Freenode.md "wikilink")上的\#bsdchat
 
-其他channel可以參考[FreeBSD官方wiki](http://wiki.FreeBSD.org)的[IrcChannels](http://wiki.freebsd.org/IrcChannels)頁面。
+其他channel可以參考[FreeBSD官方wiki](http://wiki.FreeBSD.org)的[IrcChannels](https://web.archive.org/web/20070424190704/http://wiki.freebsd.org/IrcChannels)頁面。
 
 ## 参见
 

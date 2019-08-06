@@ -1,16 +1,16 @@
 [TempEngXslt015.svg](https://zh.wikipedia.org/wiki/File:TempEngXslt015.svg "fig:TempEngXslt015.svg")
 
-在[计算机科学](../Page/计算机科学.md "wikilink")中，**可扩展样式-{表}-转换语言**（，[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")）是一种樣式轉換標記语言，可以將[XML](../Page/XML.md "wikilink")資料檔轉換為另外的XML或其它格式，如HTML網頁，純文字。XSLT最末的T字母表示英语中的“转换”（transformation）。它是[XSL规范中的一部份](https://zh.wikipedia.org/wiki/XSL "wikilink")，目前最新的建議版本為XSL 3.0。
+在[计算机科学](../Page/计算机科学.md "wikilink")中，**可扩展样式-{表}-转换语言**（，[缩写](https://zh.wikipedia.org/wiki/缩写 "wikilink")）是一种樣式轉換標記语言，可以將[XML](../Page/XML.md "wikilink")資料檔轉換為另外的XML或其它格式，如HTML網頁，純文字。XSLT最末的T字母表示英语中的“转换”（transformation）。它是[XSL规范中的一部分](https://zh.wikipedia.org/wiki/XSL "wikilink")，目前最新的建議版本為XSL 3.0。
 
-以XSLT進行格式轉換並不會變動原始的資料文件；而會以現有資料產生新的內容格式。作為輸入的通常是XML資料檔，或者由支援XQuery和XPath的資料模型處理器，其它來源的資料也能被轉換，例如關聯式資料庫表格或地理資訊系統。
+以XSLT進行格式轉換不會變動原始的資料文件；而會以現有資料產生新的內容格式。作為輸入的通常是XML資料檔，或者由支援XQuery和XPath的資料模型處理器，其他來源的資料也能轉換，例如關聯式資料庫表格或地理資訊系統。
 
-XSL规范的另外一部分是XSLF（Formatting Objects，代表格式化物件）,又称XSL-FO或XSLFO，目前已逐漸被CSS 3.0所取代。XSLT是一種[圖靈完備的語言](https://zh.wikipedia.org/wiki/圖靈完備性 "wikilink")，它可以指定計算機能執行的任何計算。
+XSL规范的另一部分是XSLF（Formatting Objects，代表格式化物件）,又称XSL-FO或XSLFO，目前已逐漸被CSS 3.0所取代。XSLT是一種[圖靈完備的語言](https://zh.wikipedia.org/wiki/圖靈完備性 "wikilink")，它可以指定計算機能執行的任何計算。
 
 ## 歷史
 
 XSLT受到函數式編程語言和字串模式匹配語言（如SNOBOL和AWK）的影響。它最直接的前輩是DSSSL，即為[SGML](../Page/SGML.md "wikilink")的文件樣式描述語言。
 
-  - XSLT 1.0版本：XSLT是二十世紀末[全球資訊網協會](../Page/万维网联盟.md "wikilink")（W3C）可擴展樣式表語言（XSL）開發工作的一部份，該專案還產出了XSL-FO和XPath。編訂XSLT規範的委員會成員，包括編輯James Clark，具備DSSSL的工作經驗。W3C於1999年11月推薦發表了XSLT 1.0規範。
+  - XSLT 1.0版本：XSLT是二十世紀末[全球資訊網協會](../Page/万维网联盟.md "wikilink")（W3C）可擴展樣式表語言（XSL）開發工作的一部分，該專案還產出了XSL-FO和XPath。編訂XSLT規範的委員會成員，包括編輯James Clark，具備DSSSL的工作經驗。W3C於1999年11月推薦發表了XSLT 1.0規範。
 
 <!-- end list -->
 
@@ -22,7 +22,7 @@ XSLT受到函數式編程語言和字串模式匹配語言（如SNOBOL和AWK）�
       - 流轉換：在以前版本中，整個輸入資料檔必須在處理之前被讀入記憶體，在處理完成之前無法寫到輸出（儘管Saxon有流擴展）。這個工作草案允許XML流，這對於處理記憶體容納不下的過大資料檔，或者在XML管道中連串變換時，是有用處的。
       - 改進大型樣式表的模組化。
       - 改進動態錯誤的處理，例如`xsl:try`指令。
-      - 函數可以作為其它（高階）函數的參數。
+      - 函數可以作為其他（高階）函數的參數。
 
 ## 設計模型與處理
 
@@ -32,7 +32,7 @@ XSLT處理器會取用一或多個XML源資料檔，加上一或多個XSLT樣式
 
 ## 處理器實作
 
-  - Altova RaptorXML 伺服器：支援XSLT 1.0和2.0的跨平台引擎，大部份XPath 3.0，以及XSLT 3.0工作草案中的一些功能；也有XQuery支援。允許指令列操作以及利用COM，Java和.NET的介面，並且還包括一個內置的HTTP伺服器。
+  - Altova RaptorXML 伺服器：支援XSLT 1.0和2.0的跨平台引擎，大部分XPath 3.0，以及XSLT 3.0工作草案中的一些功能；也有XQuery支援。允許指令列操作以及利用COM，Java和.NET的介面，還包括一個內置的HTTP伺服器。
 
 <!-- end list -->
 
@@ -43,7 +43,7 @@ XSLT處理器會取用一或多個XML源資料檔，加上一或多個XSLT樣式
   - libxslt是根據MIT授權發佈的開放函式庫，可商業化且重複使用。它以libxml為基礎並以C語言實作，有快速的效能和可移植性。它支援XSLT 1.0和EXSLT擴展。
       - 在指令列中可執行`xsltproc`，它包含在macOS和許多Linux版本中，在微軟Windows系統則透過Cygwin使用。
       - Safari瀏覽器的WebKit引擎，和Chrome和Blink佈局引擎，都利用libxslt函式庫進行XSL轉換。
-      - 在Python，Perl，Ruby，PHP，Common Lisp，Tcl和C++等編程語言中也有相對的綁定。
+      - 在Python、Perl、Ruby、PHP、Common Lisp、Tcl和C++等編程語言中也有相對的綁定。
 
 <!-- end list -->
 
@@ -100,9 +100,9 @@ XSLT與XQuery的功能之間有互相重疊的部份，XQuery最初被認為是�
 </code>元素可以設定媒體類型的屬性`media-type`，將結果輸出為該[媒體類型](../Page/互联网媒体类型.md "wikilink")（或[MIME](../Page/多用途互聯網郵件擴展.md "wikilink")），例如：
 `<xsl：output output =“xml”media-type =“application/xml“/>`
 
-長時間以來在網際網路上並沒有XSLT的註冊媒體類型，`text/xsl`為實用上的標準。XSLT 1.0規範建議泛用化的屬性`text/xml`和`application/xml`，但其中沒有指出媒體類型的屬性值應當如何使用。隨著XSLT 2.0的發表，W3C推薦使用MIME媒體類型`application/xslt+xml`，之後這種類型已在[IANA註冊](../Page/互联网号码分配局.md "wikilink")。
+長時間以來在網際網路上沒有XSLT的註冊媒體類型，`text/xsl`為實用上的標準。XSLT 1.0規範建議泛用化的屬性`text/xml`和`application/xml`，但其中沒有指出媒體類型的屬性值應當如何使用。隨著XSLT 2.0的發表，W3C推薦使用MIME媒體類型`application/xslt+xml`，之後這種類型已在[IANA註冊](../Page/互联网号码分配局.md "wikilink")。
 
-1.0之前的XSLT工作草案在範例中使用了`text/xsl`，微軟在Internet Explorer和MSXML產品中採用這一媒體類型，而其它瀏覽器的xml樣式表處理指令也廣泛的認可。所以在實作中，瀏覽器使用者若想以處理指令來轉換XML，應使用這種未註冊的媒體類型。
+1.0之前的XSLT工作草案在範例中使用了`text/xsl`，微軟在Internet Explorer和MSXML產品中採用這一媒體類型，而其他瀏覽器的xml樣式表處理指令也廣泛的認可。所以在實作中，瀏覽器使用者若想以處理指令來轉換XML，應使用這種未註冊的媒體類型。
 
 ## 範例
 

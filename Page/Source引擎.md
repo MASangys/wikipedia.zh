@@ -86,7 +86,7 @@ Valve在2015年3月举办的[游戏开发者大会](../Page/游戏开发者大�
   - （The Lab）
 
   -
-  - [刀塔霸业](https://zh.wikipedia.org/wiki/刀塔霸业 "wikilink")（Dota Underlords）
+  - [刀塔霸业](../Page/刀塔霸业.md "wikilink")（Dota Underlords）
 
 ## 参考文献
 

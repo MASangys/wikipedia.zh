@@ -51,7 +51,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/馬修·波特歷" title="wikilink">馬修·波特歷</a><br />
 （幼年）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/謝孟汝" title="wikilink">謝孟汝</a><br />
+<td><p><a href="../Page/于正昌.md" title="wikilink">于正昌</a><br />
 <a href="https://zh.wikipedia.org/wiki/高德宇" title="wikilink">高德宇</a>（幼年）</p></td>
 </tr>
 <tr class="odd">

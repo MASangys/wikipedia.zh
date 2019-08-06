@@ -34,7 +34,7 @@
 
 2010年5月，據傳是鋸人活動起源地的[北京大学附属中学](../Page/北京大学附属中学.md "wikilink")曾下令禁止此活動。\[7\]
 
-2012年1月，电影《[那些年，我们一起追的女孩](https://zh.wikipedia.org/wiki/那些年，我们一起追的女孩 "wikilink")》的[中国大陆](../Page/中国大陆.md "wikilink")公映版中出现了阿魯巴的场景，而在当地[报章](https://zh.wikipedia.org/wiki/报章 "wikilink")[杂志](../Page/杂志.md "wikilink")和[社交媒体的广泛传播下](https://zh.wikipedia.org/wiki/社交媒体 "wikilink")，阿魯巴文化在大陆的扩散势头更为加剧。
+2012年1月，电影《[那些年，我们一起追的女孩](https://zh.wikipedia.org/wiki/那些年，我们一起追的女孩 "wikilink")》的[中国大陆](../Page/中国大陆.md "wikilink")公映版中出现了阿魯巴的场景，而在当地[报章](https://zh.wikipedia.org/wiki/报章 "wikilink")[杂志](../Page/杂志.md "wikilink")和[社交媒体的广泛传播下](https://zh.wikipedia.org/wiki/社交媒体 "wikilink")，阿魯巴文化在中國大陆的扩散势头更为加剧。
 
 ## 相關條目
 

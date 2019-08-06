@@ -92,7 +92,7 @@ Hello Kitty被给予了英国血统因为当时英国文化很受日本女孩欢
 
 ## Hello Kitty的老公
 
-  - 丹尼爾（Daniel Dear）：Hello Kitty的青梅竹馬兼老公。職業是舞者。
+  - 丹尼爾（Daniel Dear）：Hello Kitty的青梅竹馬兼老公。職業是舞者。其實是姓Star( Daniel Star) ,但在卡通裡都稱Dear,因此被誤解。
 
 ## Hello Kitty的好友們
 

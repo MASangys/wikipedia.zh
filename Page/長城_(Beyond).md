@@ -1,4 +1,4 @@
-《**長城**》是一首由[香港](../Page/香港.md "wikilink")殿堂級搖滾樂隊[Beyond](../Page/Beyond.md "wikilink")創作的歌曲，原曲為[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")，由[黃家駒](../Page/黃家駒.md "wikilink")作曲及擔當主音、[劉卓輝](../Page/劉卓輝.md "wikilink")作詞；日語版由[真名杏樹作詞](https://zh.wikipedia.org/wiki/真名杏樹 "wikilink")，[梁邦彥編曲](https://zh.wikipedia.org/wiki/梁邦彥 "wikilink")；國語版歌詞由[詹德茂改編](https://zh.wikipedia.org/wiki/詹德茂 "wikilink")。粵語版本收錄於[Beyond](../Page/Beyond.md "wikilink")第8張專輯《[繼續革命](../Page/繼續革命.md "wikilink")》，並為該大碟之主打歌；日語版本收錄於《[超越](https://zh.wikipedia.org/wiki/超越 "wikilink")》，國語版本收錄於《[信念](../Page/信念.md "wikilink")》。
+《**長城**》是一首由[香港](../Page/香港.md "wikilink")殿堂級搖滾樂隊[Beyond](../Page/Beyond.md "wikilink")創作的歌曲，原曲為[粵語](https://zh.wikipedia.org/wiki/粵語 "wikilink")，由[黃家駒](../Page/黃家駒.md "wikilink")作曲及擔當主音、[劉卓輝](../Page/劉卓輝.md "wikilink")作詞、Beyond和[梁邦彥共同編曲](https://zh.wikipedia.org/wiki/梁邦彥 "wikilink")、喜多郎創作前奏；日語版由[真名杏樹填詞](https://zh.wikipedia.org/wiki/真名杏樹 "wikilink")；國語版歌詞由[詹德茂改編](https://zh.wikipedia.org/wiki/詹德茂 "wikilink")。粵語版本收錄於[Beyond](../Page/Beyond.md "wikilink")第8張專輯《[繼續革命](../Page/繼續革命.md "wikilink")》，並為該大碟之主打歌；日語版本收錄於《[超越](https://zh.wikipedia.org/wiki/超越 "wikilink")》，國語版本收錄於《[信念](../Page/信念.md "wikilink")》。
 
 ## 意義
 
@@ -8,6 +8,6 @@
 
 ## 參考資料
 
-[Category:1992年歌曲](https://zh.wikipedia.org/wiki/Category:1992年歌曲 "wikilink") [Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink")
+[Category:1992年歌曲](https://zh.wikipedia.org/wiki/Category:1992年歌曲 "wikilink") [Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink") [Category:Beyond歌曲](https://zh.wikipedia.org/wiki/Category:Beyond歌曲 "wikilink")
 
 1.

@@ -88,7 +88,7 @@ Word 97到Word 2003之前的Word文件格式都是[二進制](https://zh.wikiped
 
 跟其它Microsoft Office程式一樣，Word可使用固定[宏语言](https://zh.wikipedia.org/wiki/宏 "wikilink")（巨集語言）来高度定制。（最初是WordBasic，但自从Word 97以来就变成Visual Basic）然而，这种性能也可以在文档中嵌入就像[梅利莎蠕虫的](https://zh.wikipedia.org/wiki/梅利莎蠕虫 "wikilink")[电脑病毒](https://zh.wikipedia.org/wiki/电脑病毒 "wikilink")。这就是电脑用户需要安装[防火墙](../Page/防火墙.md "wikilink")和 [反病毒软件的另一个原因](https://zh.wikipedia.org/wiki/反病毒软件 "wikilink")。[Microsoft's security advice](https://web.archive.org/web/20050701014313/http://www.microsoft.com/security/default.mspx)
 
-人们所知道的第一个感染Microsoft Word文档的病毒叫做概念病毒，一个相对危害很小的病毒，它的出现是为了证明[巨集病毒出现的可能性](https://zh.wikipedia.org/wiki/巨集病毒 "wikilink")。。
+人们所知道的第一个感染Microsoft Word文档的病毒叫做概念病毒，一个相对危害很小的病毒，它的出现是为了证明[巨集病毒出现的可能性](https://zh.wikipedia.org/wiki/巨集病毒 "wikilink")。
 
 ## 版本
 

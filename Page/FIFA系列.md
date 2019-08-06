@@ -249,6 +249,15 @@ FIFA 09是美国EA公司旗下由EA Canada小组负责开发的FIFA系列电子�
 
 《[FIFA 19](../Page/FIFA_19.md "wikilink")》[基斯坦奴·朗拿度](../Page/基斯坦奴·朗拿度.md "wikilink")繼續担任此部作品的代言人。將會在 [Xbox One](../Page/Xbox_One.md "wikilink")、[PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink") 及 PC 平台上繼續採用「Frostbite」寒霜引擎开发 ，而新加入的 [Nintendo Switch](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink") 則採用其他引擎開發。E3 2018展前發佈會就確認傳聞, 正式公佈[歐洲聯賽冠軍盃賽事將會加入](https://zh.wikipedia.org/wiki/歐洲聯賽冠軍盃 "wikilink")《FIFA 19》 , 並同時公开相关宣传片以及推出时间。系列首次加入[中国足球协会超级联赛赛事](https://zh.wikipedia.org/wiki/中国足球协会超级联赛 "wikilink")。
 
+#### *FIFA 20*
+
+  - 发售平台:[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"), [PlayStation 4](../Page/PlayStation_4.md "wikilink"), [Xbox One和](../Page/Xbox_One.md "wikilink")[Nintendo Switch](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink")
+  - 发售日期: 2019年9月27日
+
+封面运动员：[艾登·阿扎尔](https://zh.wikipedia.org/wiki/艾登·阿扎尔 "wikilink")（标准版）和[Virgil van Dijk](https://zh.wikipedia.org/wiki/Virgil_van_Dijk "wikilink")（冠军版）
+
+FIFA 20将包括3v3 Rush（No GK）、4v4 Rush、5v5和专业五人制足球模式。游戏强调技能和独立，而不是战术或团队。玩家还可以自定义自己的球员;除了选择性别之外，玩家还可以选择各种衣服和配饰，从鞋子，衣服到帽子和纹身。传统的11v11模式也发生了变化，鼓励更多的1对1，以及新的点球和任意球机制。[尤文图斯本次将不会参加FIFA](https://zh.wikipedia.org/wiki/尤文图斯 "wikilink") 20，因为他与[PES 2020签署了合作协议](https://zh.wikipedia.org/wiki/PES_2020 "wikilink")，利物浦宣布与国际足联达成“长期”合作关系。
+
 ## 其他版本
 
 ### FIFA网络游戏

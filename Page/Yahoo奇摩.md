@@ -22,15 +22,15 @@
 
 2010年7月，與[愛情公寓合作](../Page/愛情公寓_\(網站\).md "wikilink")，而提供會員檔案移至愛情公寓，並於2010年11月終止交友服務。 2011年4月26日，Yahoo奇摩家族服務終止。\[3\]
 
-2013年1月1日，迷你筆服務中止\[4\]。1月5日，停止提供輸入法服務。同時將輸入法程式原始碼開放至開源碼社群，開發者可以運用與更新技術。\[5\]8月30日，宣佈於2013年12月26日全面終止旗下[部落格與](https://zh.wikipedia.org/wiki/部落格 "wikilink")[無名小站](../Page/無名小站.md "wikilink")服務。12月26日，無名小站與Yahoo奇摩部落格正式停止服務。
+2013年1月1日，迷你筆服務中止\[4\]。1月5日，停止提供輸入法服務。同時將輸入法程式原始碼開放至開源碼社群，開發者可以運用與更新技術。\[5\]8月30日，宣佈於2013年12月26日全面終止旗下[部落格與](https://zh.wikipedia.org/wiki/部落格 "wikilink")[無名小站](../Page/無名小站.md "wikilink")服務。\[6\]\[7\]12月26日，無名小站與Yahoo奇摩部落格正式停止服務。
 
 2014年9月，Yahoo\!奇摩拍賣改版並全面採用輕鬆付。
 
-2015年3月10日，Yahoo奇摩宣布在這天進行改版首頁\[6\]6月15日，[Yahoo\! Maps正式停止服務](../Page/雅虎地圖.md "wikilink")。\[7\]8月30日，宣布Pipes服務中止。\[8\]
+2015年3月10日，Yahoo奇摩宣布在這天進行改版首頁\[8\]6月15日，[Yahoo\! Maps正式停止服務](../Page/雅虎地圖.md "wikilink")。\[9\]8月30日，宣布Pipes服務中止。\[10\]
 
 2016年10月6日，Yahoo\!奇摩拍賣與中國信託合作推出第三方支付平台-易付。
 
-2016年8月9日，推出Yahoo TV服務，主打跨螢[直播和](https://zh.wikipedia.org/wiki/直播 "wikilink")[社群互動](https://zh.wikipedia.org/wiki/社群 "wikilink")，並且自製直播節目\[9\]。
+2016年8月9日，推出Yahoo TV服務，主打跨螢[直播和](https://zh.wikipedia.org/wiki/直播 "wikilink")[社群互動](https://zh.wikipedia.org/wiki/社群 "wikilink")，並且自製直播節目\[11\]。
 
 2017年4月10日，宣布股市大玩咖服務中止。
 
@@ -50,7 +50,6 @@
   - 氣象
   - 房地產
   - 汽機車
-  - [Flickr](../Page/Flickr.md "wikilink")相簿
   - 公益
   - 健康
   - 字典
@@ -59,20 +58,19 @@
 ### 社群通訊
 
   - [信箱](../Page/Yahoo!_Mail.md "wikilink")
-  - [即時通訊](../Page/Yahoo!_Messenger.md "wikilink")
   - 社群遊戲
 
 ### 消費
 
-  - [拍賣](https://tw.bid.yahoo.com/)
+  - 拍賣
   - ATM
   - 輕鬆付
   - 網路行銷
-  - [超級商城](https://tw.mall.yahoo.com/?_co=pME&_co2=pME)
+  - 超級商城
   - 服務+
   - 大團購
   - [關鍵字廣告](../Page/雅虎搜尋行銷.md "wikilink")
-  - [購物中心](https://tw.buy.yahoo.com/?sub=518)\[10\]
+  - 購物中心\[12\]
   - 開店
   - 折扣+
   - 找店+
@@ -91,6 +89,15 @@
 
   - 網路開店（超級商城）
   - 網路行銷
+
+### 已結束服務
+
+  - 個人網頁
+  - 家族
+  - 部落格
+  - [無名小站](../Page/無名小站.md "wikilink")
+  - [Flickr](../Page/Flickr.md "wikilink")相簿
+  - [即時通訊](../Page/Yahoo!_Messenger.md "wikilink")
 
 ## 相關條目
 
@@ -116,12 +123,16 @@
 
 5.
 
-6.
+6.   ETtoday新聞雲 |url=<https://www.ettoday.net/news/20130830/263966.htm> |accessdate=2019-08-01 |work=[ETtoday](https://zh.wikipedia.org/wiki/ETtoday "wikilink") |date=2013年08月30日 |language=zh-Hant}}
 
-7.
+7.   ETtoday新聞雲 |url=<https://www.ettoday.net/news/20130830/263987.htm> |accessdate=2019-08-01 |work=ETtoday |date=2013年08月30日 |language=zh-Hant}}
 
 8.
 
 9.
 
-10. **Yahoo奇摩購物中心**前身為興奇科技，成立於2002年。2008年8月，興奇科技與Yahoo奇摩合併，更名Yahoo奇摩購物中心。
+10.
+
+11.
+
+12. **Yahoo奇摩購物中心**前身為興奇科技，成立於2002年。2008年8月，興奇科技與Yahoo奇摩合併，更名Yahoo奇摩購物中心。

@@ -14,14 +14,16 @@ TOM集團於2004年分拆[TOM Online在香港創業板上市](https://zh.wikiped
 
 ## 主要资产
 
-  - [郵樂控股](https://zh.wikipedia.org/wiki/郵樂控股 "wikilink") 44.24%
+  - [郵樂控股](https://zh.wikipedia.org/wiki/郵樂控股 "wikilink")38.27%
   - [华娱卫视](../Page/华娱卫视.md "wikilink") 99.99%
   - [城邦媒體控股集團](../Page/城邦文化.md "wikilink")
-  - [TOM在線](https://zh.wikipedia.org/wiki/TOM在線 "wikilink")
+  - [痞客邦](../Page/痞客邦.md "wikilink")82.03%
+  - [TOM在線](https://zh.wikipedia.org/wiki/TOM在線 "wikilink")90.002%
   - TOM戶外傳媒集團
-  - [易趣](https://zh.wikipedia.org/wiki/易趣 "wikilink")
+  - [易趣網](https://zh.wikipedia.org/wiki/易趣網 "wikilink")90.002%
   - [電腦報](https://zh.wikipedia.org/wiki/電腦報 "wikilink") 49%
   - [幻劍書盟網站](https://zh.wikipedia.org/wiki/幻劍書盟網站 "wikilink")
+  - [WeLab](https://zh.wikipedia.org/wiki/WeLab "wikilink")6.35%
 
 ## 參考資料
 

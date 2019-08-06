@@ -4,7 +4,7 @@
 
 [Taipei101_by_Sony.JPG](https://zh.wikipedia.org/wiki/File:Taipei101_by_Sony.JPG "fig:Taipei101_by_Sony.JPG") 索尼過去因錯失[液晶](../Page/液晶.md "wikilink")面板技術，使第一品牌陸續被[夏普](https://zh.wikipedia.org/wiki/夏普 "wikilink")、[松下](../Page/松下電器.md "wikilink")、[三星](../Page/三星電子.md "wikilink")、[樂金超越](https://zh.wikipedia.org/wiki/樂金 "wikilink")，電視部門的業績不佳。2005財年第一季度財報顯示，索尼電視部門淨虧損72.6億[日元](https://zh.wikipedia.org/wiki/日元 "wikilink")（約合6,500萬[美元](../Page/美元.md "wikilink")），拖垮了索尼整體的獲利。索尼希望捨棄從[映像管電視時代就使用的](https://zh.wikipedia.org/wiki/映像管 "wikilink")[WEGA品牌](https://zh.wikipedia.org/wiki/WEGA "wikilink")，會象徵其電視事業的躍進。索尼第三號主管伊原直言：「電視是索尼事業核心中的核心，索尼能否翻身，就看索尼能否在電視機市場殺出重圍，全面搶攻成長快速的液晶電視市場，以奪回全球第一大的液晶電視品牌為目標。」
 
-BRAVIA電視品牌最開始是在2005年8月24日發表於中國大陸，2005年9月陸續在美國、日本、台灣發表其最新電視品牌，並將在全球砸下1.4億美元作為BRAVIA行銷。
+BRAVIA電視品牌最開始是在2005年8月24日發表於香港，2005年9月陸續在美國、日本、台灣發表其最新電視品牌，並將在全球砸下1.4億美元作為BRAVIA行銷。
 
 BRAVIA品牌部份機種採用與三星合資的[S-LCD所研發的第七代液晶面板](https://zh.wikipedia.org/wiki/S-LCD "wikilink")，目前將用在所有平面電視，包括[背投影電視](https://zh.wikipedia.org/wiki/背投电视 "wikilink")、[液晶電視](https://zh.wikipedia.org/wiki/液晶電視 "wikilink")。映像管電視則繼續沿用WEGA品牌。之後索尼將以BRAVIA品牌全面取代使用8年之久的WEGA。
 
@@ -299,6 +299,36 @@ FW-55BZ35F
 FW-65BZ35F
 FW-75BZ35F
 FW-85BZ35F
+
+  - 2019
+
+FHD與HD機型
+KDL-32W610G
+KDL-43W660G
+KDL-50W660G
+4K機型
+KD-43X7000G
+KD-49X7000G
+KD-55X7000G
+KD-65X7000G
+KD-43X8000G
+KD-49X8000G
+KD-55X8000G
+KD-65X8000G
+KD-75X8000G
+KD-49X8500G
+KD-55X8500G
+KD-65X8500G
+KD-75X8500G
+KD-55X9500G
+KD-65X9500G
+KD-75X9500G
+KD-85X9500G
+KD-55A8G
+KD-65A8G
+KD-55A9G
+KD-65A9G
+KD-77A9G
 
 ## BRAVIA相關技術
 

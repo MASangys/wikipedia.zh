@@ -291,7 +291,7 @@ SBS7440T於2010年3月7日在宏茂橋巴士總站火警中嚴重焚毀提早退
 
 ## 後繼車型
 
-兩軸版的B9TL已於2014年停產，並由[B5TL取代](../Page/富豪B5TL.md "wikilink")。另外富豪於2016年首次生產[B8L底盤](https://zh.wikipedia.org/wiki/富豪B8L "wikilink")，預定取代三軸版B9TL。
+兩軸版的B9TL已於2014年停產，並由[B5TL取代](../Page/富豪B5TL.md "wikilink")。另外富豪於2016年首次生產[B8L底盤](../Page/富豪B8L.md "wikilink")，預定取代三軸版B9TL。
 
 ## 參見
 

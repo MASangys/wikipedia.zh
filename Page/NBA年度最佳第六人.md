@@ -209,7 +209,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2008-09_NBA赛季.md" title="wikilink">2008-09</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/贾森·特里" title="wikilink">贾森·特里</a></p></td>
+<td><p><a href="../Page/贾森·特里.md" title="wikilink">贾森·特里</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/篮球位置" title="wikilink">后卫</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/达拉斯小牛" title="wikilink">达拉斯小牛</a></p></td>
