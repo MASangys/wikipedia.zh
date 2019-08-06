@@ -34,7 +34,7 @@
     作詞：天咲麗，作曲、編曲：，主唱：solfa feat.[nao](https://zh.wikipedia.org/wiki/nao_\(歌手\) "wikilink")
   - 九鬼瑞穗片尾曲「promise」\[8\]
     作詞：天咲麗，作曲、編曲：橋咲透，主唱：solfa feat.[霜月遙](../Page/霜月遙.md "wikilink")
-  - 艾莉賽片尾曲「」\[9\]\[10\]
+  - 愛麗絲片尾曲「」\[9\]\[10\]
     作詞：Rin，作曲、編曲：，主唱：solfa feat.Rin
 
 ## 參考資料

@@ -2,7 +2,7 @@
 
 </references>
 
-**3Blue1Brown** 是一个由 Grant Sanderson 创建的[YouTube 频道](../Page/YouTube.md "wikilink")。该频道从独特的视觉角度解说高等数学，内容包括[线性代数](../Page/线性代数.md "wikilink")、[微积分](https://zh.wikipedia.org/wiki/微积分 "wikilink")、[神经网络](https://zh.wikipedia.org/wiki/神经网络 "wikilink")、[黎曼猜想](../Page/黎曼猜想.md "wikilink")、[傅里叶变换](../Page/傅里叶变换.md "wikilink")以及[四元数](https://zh.wikipedia.org/wiki/四元数 "wikilink")。
+**3Blue1Brown** 是一个由 Grant Sanderson 创建的[YouTube 频道](../Page/YouTube.md "wikilink")。该频道从独特的视觉角度解说[高等数学](../Page/高等数学.md "wikilink")，内容包括[线性代数](../Page/线性代数.md "wikilink")、[微积分](https://zh.wikipedia.org/wiki/微积分 "wikilink")、[神经网络](https://zh.wikipedia.org/wiki/神经网络 "wikilink")、[黎曼猜想](../Page/黎曼猜想.md "wikilink")、[傅里叶变换](../Page/傅里叶变换.md "wikilink")以及[四元数](https://zh.wikipedia.org/wiki/四元数 "wikilink")。
 
 ## 背景
 

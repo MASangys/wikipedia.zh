@@ -34,7 +34,7 @@ ATFX提供外匯交易平台(MT4)讓有興趣交易外匯、加密貨幣、貴�
 7.  ["ATFX participated in one of the biggest Forex events in Madrid"](https://www.forexpeacearmy.com/community/threads/atfx-participated-in-one-of-the-biggest-forex-events-in-madrid.60734/) *forexpeacearmy.com*,.
 8.  ["ATFX AT LONDON AFFILIATE CONFERENCE"](https://www.forex-awards.com/forex-news/?id=24846) *forex-awards.com*, 18 February 2019.
 9.  ["ATFX Launches CFDs on Major Cryptocurrencies"](https://www.financemagnates.com/cryptocurrency/news/atfx-promotes-mohamed-halim-to-senior-vp-of-mena-region/) *financemagnates.com*,.
-10. ["ATFX‎ تشارك كأحد الرعاة الرئيسيين لمؤتمر"](http://www.arabicbroker.com/forum/showthread.php?p=598956#post598956) *arabicbroker.com*,21 February 2019..
+10. ["ATFX تشارك كأحد الرعاة الرئيسيين لمؤتمر"](http://www.arabicbroker.com/forum/showthread.php?p=598956#post598956) *arabicbroker.com*,21 February 2019..
 11. ["ATFX Review 2019"](https://www.fxempire.com/brokers/atfx) *fxempire.com*,.
 12. ["ة ATFX تقدم عرضًا ناجحًا لأول مرة في مؤتمر شركاء لشبو"](http://ar.fxdailyinfo.com/news/%D8%B4%D8%B1%D9%83%D8%A9-atfx-%D8%AA%D9%82%D8%AF%D9%85) *ar.fxdailyinfo.com*,.
 13. ["ATFX Awarded the “Fastest Growing Forex Broker, Europe 2017"](https://www.financemagnates.com/thought-leadership/atfx-awarded-the-fastest-growing-forex-broker-europe-2017/) *financemagnates.com*,.

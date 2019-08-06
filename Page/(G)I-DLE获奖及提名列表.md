@@ -449,6 +449,7 @@
 <li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=358">2019年4月女团品牌价值排行第21名</a></li>
 <li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=366">2019年5月女团品牌价值排行第11名</a></li>
 <li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=375">2019年6月女团品牌价值排行第28名</a></li>
+<li><a href="http://www.rekorea.net/bbs/board.php?bo_table=repu4&amp;wr_id=385">2019年7月女团品牌价值排行第10名</a></li>
 </ul>
 <p></ref></p></td>
 <td><p>20</p></td>
@@ -457,7 +458,7 @@
 <td><p>21</p></td>
 <td><p>11</p></td>
 <td><p>28</p></td>
-<td></td>
+<td><p>10</p></td>
 <td></td>
 <td></td>
 <td></td>

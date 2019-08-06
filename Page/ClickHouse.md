@@ -1,4 +1,4 @@
-**ClickHouse**是一个用于[線上分析處理](https://zh.wikipedia.org/wiki/線上分析處理 "wikilink")（OLAP）的开源[列式数据库](../Page/列式数据库.md "wikilink")。
+**ClickHouse**是一个用于[線上分析處理](../Page/線上分析處理.md "wikilink")（OLAP）的开源[列式数据库](../Page/列式数据库.md "wikilink")。
 
 ClickHouse是由俄罗斯IT公司[Yandex](../Page/Yandex.md "wikilink")为Yandex.Metrica网络分析服务开发的。\[1\]\[2\]\[3\]\[4\] ClickHouse允许分析实时更新的数据。该系统以高性能为目标。\[5\]
 
@@ -44,7 +44,7 @@ Clickhouse有一些可以被视为缺点的功能：
 
 ## 使用场景
 
-Clickhouse是为[OLAP查询而设计的](https://zh.wikipedia.org/wiki/線上分析處理 "wikilink")。\[20\]
+Clickhouse是为[OLAP查询而设计的](../Page/線上分析處理.md "wikilink")。\[20\]
 
   - 它可以处理少量包含大量字段的表。
   - 查询可以使用从数据库中提取的大量行，但只用一小部分字段。
@@ -61,7 +61,7 @@ ClickHouse还可以用作内部分析师的内部数据仓库。ClickHouse可以
 
 ## 基准测试结果
 
-根据开发人员进行的[基准测试](https://zh.wikipedia.org/wiki/基准测试 "wikilink")，\[21\] 对于[OLAP查询](https://zh.wikipedia.org/wiki/線上分析處理 "wikilink")，ClickHouse的速度比[Hive](https://zh.wikipedia.org/wiki/Apache_Hive "wikilink")（基于Hadoop技术栈的DBMS）或[MySQL](../Page/MySQL.md "wikilink")（通用[RDBMS](../Page/关系数据库.md "wikilink")）快100倍以上。
+根据开发人员进行的[基准测试](https://zh.wikipedia.org/wiki/基准测试 "wikilink")，\[21\] 对于[OLAP查询](../Page/線上分析處理.md "wikilink")，ClickHouse的速度比[Hive](https://zh.wikipedia.org/wiki/Apache_Hive "wikilink")（基于Hadoop技术栈的DBMS）或[MySQL](../Page/MySQL.md "wikilink")（通用[RDBMS](../Page/关系数据库.md "wikilink")）快100倍以上。
 
 ## 参考文献
 

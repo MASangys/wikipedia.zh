@@ -9,10 +9,16 @@ ESP32的功能包括以下內容：
   - 處理器：
       - CPU: Xtensa 雙核心 (或者單核心) 32位元 LX6 微處理器, 工作時脈 160/240 MHz, 運算能力高達 600 DMIPS
   - 記憶體：
-      - 448kB ROM
-      - 520kB SRAM
-      - 16kB RTC SRAM
+      - 448 KB ROM (64KB+384KB)
+      - 520 KB SRAM
+      - 16 KB RTC SRAM,SRAM 分為兩種
+          - 第一部分 8 KB RTC SRAM 為慢速儲存器,可以在 Deep-sleep 模式下被次處理器訪問
+          - 第二部分 8 KB RTC SRAM 為快速儲存器,可以在 Deep-sleep 模式下RTC 啓動時用於數據存儲以及 被主 CPU 訪問。
+      - 1 Kbit 的 eFuse，其中 256 bit 爲系統專用（MAC 位址和晶片設置）；其餘 768 bit 保留給用戶應用，這些 應用包括 Flash 加密和晶片 ID。
       - QSPI 支援多個[快閃記憶體](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")/[SRAM](../Page/静态随机存取存储器.md "wikilink")
+      - 可使用 SPI儲存器 映射到外部記憶體空間，部分儲存器可做為外部儲存器的 Cache
+          - 最大支援 16 MB 外部 SPI Flash
+          - 最大支援 8 MB 外部 SPI SRAM
   - 無線傳輸：
       - [Wi-Fi](../Page/Wi-Fi.md "wikilink"): 802.11 b/g/n
       - [藍芽](https://zh.wikipedia.org/wiki/藍芽 "wikilink"): v4.2 BR/EDR/BLE
@@ -33,6 +39,13 @@ ESP32的功能包括以下內容：
       - 電機 [PWM](../Page/脈衝寬度調變.md "wikilink")
       - [LED](../Page/發光二極管.md "wikilink") [PWM](../Page/脈衝寬度調變.md "wikilink"), 多達16個通道
       - [霍爾感應器](../Page/霍尔效应传感器.md "wikilink")
+  - 定址空間
+      - 對稱定址映射
+      - 資料匯流排與指令匯流排分別可定址到4GB(32bit)
+      - 1296 KB 晶片內存取定址
+      - 19704 KB 外部存取定址
+      - 512 KB 外部位址空間
+      - 部分儲存器可以被資料匯流排存取也可以被指令匯流排存取
   - 安全機制
       - 安全啟動
       - Flash ROM 加密

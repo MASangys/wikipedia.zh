@@ -1,5 +1,23 @@
 **Black ACE**（），是依據[优酷](../Page/优酷.md "wikilink")偶像男團競演養成類真人秀《[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")》的人氣前八名所組成的團體，於2019年3月28日成立，成員包括：[趙品霖](../Page/趙品霖.md "wikilink")、[楊桐](https://zh.wikipedia.org/wiki/楊桐 "wikilink")、[商振博](https://zh.wikipedia.org/wiki/商振博 "wikilink")、[賴煜哲](../Page/賴煜哲.md "wikilink")、[田書臣](https://zh.wikipedia.org/wiki/田書臣 "wikilink")、[王迪](../Page/王迪.md "wikilink")、[陳順](https://zh.wikipedia.org/wiki/陳順 "wikilink")、[龍泓昊](https://zh.wikipedia.org/wiki/龍泓昊 "wikilink")\[1\]，粉絲名為「 桃心 」應援色為「藍寶紅漸變色  」。
 
+## 團隊經歷
+
+**2019年**
+
+03月28日 《[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")》總決賽人氣團體，出道成員依序排名為[趙品霖](../Page/趙品霖.md "wikilink")、[楊桐](https://zh.wikipedia.org/wiki/楊桐 "wikilink")、[商振博](https://zh.wikipedia.org/wiki/商振博 "wikilink")、[賴煜哲](../Page/賴煜哲.md "wikilink")、[田書臣](https://zh.wikipedia.org/wiki/田書臣 "wikilink")、[王迪](../Page/王迪.md "wikilink")、[陳順](https://zh.wikipedia.org/wiki/陳順 "wikilink")、[龍泓昊與](https://zh.wikipedia.org/wiki/龍泓昊 "wikilink")[新風暴](../Page/新風暴.md "wikilink")一同出道。
+
+03月30日 與[新風暴](../Page/新風暴.md "wikilink")一同舉辦以團之名畢業新生見面會。
+
+05月31日 發布[Black ACE首張同名EP](../Page/Black_ACE.md "wikilink")《[Black ACE](../Page/Black_ACE.md "wikilink")》，歌曲分別有《裂變》以及《因你》。
+
+06月25日 宣布《[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")》粉絲見面會[上海站相關訊息](https://zh.wikipedia.org/wiki/上海 "wikilink")，並且於06月28日開始預售票券、07月05日正式售票。
+
+07月14日 《[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")》粉絲見面會[上海站](https://zh.wikipedia.org/wiki/上海 "wikilink")，首次表演EP中歌曲《裂變》以及《因你》。
+
+07月19日 宣布《[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")》巡迴演唱會[武漢站相關訊息](https://zh.wikipedia.org/wiki/武漢 "wikilink") 。07月20日宣布《[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")》巡迴演唱會[南京站相關訊息](https://zh.wikipedia.org/wiki/南京 "wikilink")。
+
+07月25日 宣布《[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")》巡迴演唱會[武漢站](https://zh.wikipedia.org/wiki/武漢 "wikilink")、[南京站](https://zh.wikipedia.org/wiki/南京 "wikilink")，因不可抗力因素全數取消演出。
+
 ## 成員資料
 
 <table>
@@ -170,7 +188,7 @@ VIC</p></td>
 <td><p>首張同名EP《BlackACE》</p>
 <ul>
 <li>發行日期：2019年5月31日</li>
-<li>銷售量：118207 (累計至2019年7月19日)</li>
+<li>銷售量：118443 (累計至2019年08月01日)</li>
 </ul></td>
 <td></td>
 </tr>
@@ -188,7 +206,7 @@ VIC</p></td>
 <tr class="odd">
 <td><p><strong>播出日期</strong></p></td>
 <td><p><strong>節目名稱</strong></p></td>
-<td><p><strong>撥出平台</strong></p></td>
+<td><p><strong>播出平台</strong></p></td>
 <td><p><strong>參與成員</strong></p></td>
 <td><p><strong>備註</strong></p></td>
 </tr>
@@ -227,7 +245,7 @@ VIC</p></td>
 
 ### 演唱會
 
-  - 原定08/10南京、08/24武漢以團之名巡迴演唱會，因不可抗力因素取消演出。
+  - 原定08/10南京、08/24武漢以團之名巡迴演唱會，因不可抗力因素取消演出\[2\]。
 
 ### 見面會
 
@@ -321,6 +339,14 @@ VIC</p></td>
 <li>以團出席成員有朱雲龍、慕星遠。</li>
 </ul></td>
 </tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>08月11日</p></td>
+<td><p>上海</p></td>
+<td><p>AJ、奶茶、王迪、陳順、龍泓昊</p></td>
+<td><p>ELLEClub✖️AJ賴煜哲超級生日會</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -373,10 +399,21 @@ VIC</p></td>
 <td><p>上海展覽中心</p></td>
 <td><ul>
 <li>FASHION ZOO X ELLE時尚嘉年華</li>
-<li>與黃鈞澤表演單曲《Above To The Sky》</li>
 </ul></td>
 </tr>
 <tr class="odd">
+<td><p>2019年</p></td>
+<td><p>06月28日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海</a></p></td>
+<td><p>THE GREAT NIGHT時髦之夜</p></td>
+<td><p>AJ</p></td>
+<td><p>上海展覽中心</p></td>
+<td><ul>
+<li>FASHION ZOO X ELLE時尚嘉年華</li>
+<li>與黃鈞澤表演單曲《Above To The Sky》</li>
+</ul></td>
+</tr>
+<tr class="even">
 <td><p>2019年</p></td>
 <td><p>07月21日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山西" title="wikilink">山西</a><a href="../Page/大同市.md" title="wikilink">大同市</a></p></td>
@@ -399,14 +436,24 @@ VIC</p></td>
 | **年份** | **名稱**   | **拍攝成員** | **備註**    |
 | 2019年  | 菜鳥裹裹躺寄青年 | 楊桐、奶茶、AJ | 阿里巴巴年終狂歡寄 |
 
+### 公益活動
+
+|        |        |           |          |        |
+| ------ | ------ | --------- | -------- | ------ |
+| **年份** | **日期** | **名稱**    | **出席成員** | **備註** |
+| 2019年  | 07月30日 | 葫蘆娃茶杯公益拍賣 | 全體       | 阿里拍賣   |
+
 ### 雜誌拍攝
 
 |        |                       |        |          |        |
 | ------ | --------------------- | ------ | -------- | ------ |
 | **年份** | **名稱**                | **期數** | **拍攝成員** | **備註** |
+| 2019年  | STARBOX YOUNG         | 個人特輯   | 楊桐       | 電子雜誌   |
 | 2019年  | ICON-F時尚畫報 INSNAP潮流街拍 | 第31期   | 全體       | 電子雜誌   |
 | 2019年  | 時尚 YA\!               | 第04期   | 全體       | 電子雜誌   |
 | 2019年  | O\!what 偶像志           | 第04期   | 全體       | 電子雜誌   |
+| 2019年  | 瑞麗伊人風尚                | 生日特輯   | 趙品霖      | 實體雜誌   |
+| 2019年  | JSTYLE精美              | 生日特輯   | 趙品霖      | 電子雜誌   |
 | 2019年  | INNATE本像              | 第05期   | 楊桐       | 電子雜誌   |
 
 ## 參考資料
@@ -433,3 +480,4 @@ VIC</p></td>
 [Category:中國男子演唱團體](https://zh.wikipedia.org/wiki/Category:中國男子演唱團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
 
 1.
+2.

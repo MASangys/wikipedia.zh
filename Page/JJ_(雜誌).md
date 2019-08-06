@@ -9,8 +9,8 @@
 ## 相關項目
 
   - [CLASSY.](https://zh.wikipedia.org/wiki/CLASSY. "wikilink")
+  - [bis](https://zh.wikipedia.org/wiki/bis_\(雜誌\) "wikilink")
 
-  -
 ## 外部鏈結
 
   - [JJnet](http://jj-jj.net/) - 官方網站

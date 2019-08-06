@@ -1,4 +1,4 @@
-**ONE Team Esports** 前身為**Samsung Taiwan Esports (**成立於2017年7月26日)，現況由[國泰金控獨家贊助](https://zh.wikipedia.org/wiki/國泰金控 "wikilink")\[1\]，自2018年7月1日起，正式更名為**ONE Team Esports**。團隊理念：我們相信在傳說戰場上，團結是贏得勝利的關鍵。ONE Team是世界最強，在2019奪得世界冠軍
+**ONE Team Esports** 前身為**Samsung Taiwan Esports (**成立於2017年7月26日)，現況由[國泰金控獨家贊助](https://zh.wikipedia.org/wiki/國泰金控 "wikilink")\[1\]，自2018年7月1日起，正式更名為**ONE Team Esports**。團隊理念：我們相信在傳說戰場上，團結是贏得勝利的關鍵。
 
 ## 傳說對決
 
@@ -9,7 +9,6 @@
   - 2018年傳說對決職業聯盟聯賽(GCS)春季賽第四名。
   - 2018年傳說對決職業聯盟聯賽(GCS)夏季賽第六名。
   - 2019年傳說對決職業聯盟聯賽(GCS)春季賽第三名。
-  - 2019年傳說對決職業聯盟(GCS)AWC資格賽冠軍。
 
 ### 國際賽事出賽紀錄
 
@@ -67,42 +66,36 @@
 <td><p>前S.T中路</p></td>
 </tr>
 <tr class="even">
-<td><p>ONE_Lover</p></td>
-<td><p>凱撒</p></td>
-<td></td>
-<td><p>前S.T凱薩路</p></td>
-</tr>
-<tr class="odd">
 <td><p>ONE_Fanta</p></td>
 <td><p>魔龍輔助</p></td>
 <td></td>
 <td><p>前<a href="https://zh.wikipedia.org/wiki/AHQ" title="wikilink">AHQ打野</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ONE_Yuxiao</p></td>
 <td><p>凱撒、魔龍輔助</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ONE_Xin</p></td>
 <td><p>魔龍輔助、魔龍輸出</p></td>
 <td></td>
 <td><p>前<a href="https://zh.wikipedia.org/wiki/AHQ" title="wikilink">AHQ魔龍輸出</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ONE_Tura</p></td>
 <td><p>打野、凱撒</p></td>
 <td></td>
 <td><p>校園傳說2018 S2冠軍隊伍成員</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ONE_Kid</p></td>
 <td><p>魔龍輸出</p></td>
 <td></td>
 <td><p>前<a href="https://zh.wikipedia.org/wiki/AHQ" title="wikilink">AHQ魔龍輸出</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -172,10 +165,10 @@
 <td><p>前<a href="https://zh.wikipedia.org/wiki/AHQ" title="wikilink">AHQ中路</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>ONE_Lover</p></td>
+<td><p>凱撒</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>前S.T凱薩路</p></td>
 </tr>
 </tbody>
 </table>

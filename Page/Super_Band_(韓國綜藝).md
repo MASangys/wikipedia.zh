@@ -1,4 +1,4 @@
-《**Super Band**》（），為韓國[JTBC](../Page/JTBC.md "wikilink")電視台於2019年推出的綜藝節目\[1\]，由《[隱藏歌手](../Page/隱藏歌手.md "wikilink")》、《》的團隊製作，而由[全炫茂擔任節目MC](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")、[尹鐘信](https://zh.wikipedia.org/wiki/尹鐘信 "wikilink")、、[Joe Hahn](../Page/喬瑟夫·漢恩.md "wikilink")（[Linkin Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")）、[金鐘萬](https://zh.wikipedia.org/wiki/金鐘萬 "wikilink")（）、[李秀賢](https://zh.wikipedia.org/wiki/李秀賢 "wikilink")（[樂童音樂家](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")）等人擔任製作人\[2\]並共同主持，節目主軸為發掘擁有樂器演奏與創作才能的音樂天才們，通過各種形式的任務，來打造全球化超級樂隊\[3\]\[4\]。 通過5個月製作組預選後，121人晉級參加製作人試鏡，53人晉級參與後續比賽。
+《**Super Band**》（），為韓國[JTBC](../Page/JTBC.md "wikilink")電視台於2019年推出的綜藝節目\[1\]，由《[隱藏歌手](../Page/隱藏歌手.md "wikilink")》、《》的團隊製作，而由[全炫茂擔任節目MC](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")、[尹鐘信](https://zh.wikipedia.org/wiki/尹鐘信 "wikilink")、、[Joe Hahn](../Page/喬瑟夫·漢恩.md "wikilink")（[Linkin Park](https://zh.wikipedia.org/wiki/Linkin_Park "wikilink")）、[金鐘萬](https://zh.wikipedia.org/wiki/金鐘萬 "wikilink")（[Nell](../Page/Nell_\(樂團\).md "wikilink")）、[李秀賢](https://zh.wikipedia.org/wiki/李秀賢 "wikilink")（[樂童音樂家](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")）等人擔任製作人\[2\]並共同主持，節目主軸為發掘擁有樂器演奏與創作才能的音樂天才們，通過各種形式的任務，來打造全球化超級樂隊\[3\]\[4\]。 通過5個月製作組預選後，121人晉級參加製作人試鏡，53人晉級參與後續比賽。
 
 ## 內容
 
@@ -50,7 +50,7 @@
 <li>Like a star</li>
 </ul></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/首爾藝高" title="wikilink">首爾藝高實用音樂科</a>2017年入學</li>
+<li><a href="https://zh.wikipedia.org/wiki/翰林藝高" title="wikilink">翰林藝高實用音樂科</a>2017年入學</li>
 <li>2019日本指彈吉他大賽冠軍</li>
 </ul></td>
 <td><ul>
@@ -663,7 +663,7 @@ Mellow Kitchen（薩克斯風、鍵盤）</p></td>
 
 
 
-### 第三回合：「你，出來！」對手指定賽
+### 第三回合：對手指定賽
 
   - 粗體字為**Frontman（領隊）**
 
@@ -943,7 +943,7 @@ DPole（DJ製作人）</p></td>
 
 
 
-### 晉級決選六組隊伍
+### 晉級決選：六組隊伍
 
   - 粗體字為**Frontman（領隊）**
 
@@ -987,7 +987,7 @@ DPole（DJ製作人）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>HoppiPolla</strong></p></td>
+<td><p><strong>Hoppípolla</strong></p></td>
 <td></td>
 <td><p><strong>I'll</strong></p></td>
 </tr>
@@ -1129,7 +1129,7 @@ DPole（DJ製作人）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>1</strong></p></td>
-<td><p><strong>HoppiPolla</strong></p></td>
+<td><p><strong>Hoppípolla</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sigur_Rós" title="wikilink">Sigur Rós</a>《Hoppípolla》</p></td>
 <td></td>
 <td><p>4590</p></td>
@@ -1264,7 +1264,7 @@ DPole（DJ製作人）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>6</strong></p></td>
-<td><p><strong>HoppiPolla</strong></p></td>
+<td><p><strong>Hoppípolla</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Avicii" title="wikilink">Avicii</a>《Wake Me Up》</p></td>
 <td></td>
 <td><p>4690</p></td>
@@ -1288,7 +1288,7 @@ DPole（DJ製作人）</p></td>
 | 組別                       | 第一回合評分 | 第二回合評分 | 兩回合分數合計 | 總排名   | 結果       |
 | ------------------------ | ------ | ------ | ------- | ----- | -------- |
 | **Lucy**                 | 7460   | 7220   | 14680   | **1** | **晉級決賽** |
-| **HoppiPolla**           | 7250   | 7420   | 14670   | **2** |          |
+| **Hoppípolla**           | 7250   | 7420   | 14670   | **2** |          |
 | **Purple Rain**          | 7340   | 7240   | 14580   | **3** |          |
 | **Moné**                 | 7040   | 7400   | 14440   | **4** |          |
 | **People on the Bridge** | 7130   | 6700   | 13830   | **5** | **淘汰**   |
@@ -1329,7 +1329,7 @@ DPole（DJ製作人）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2</strong></p></td>
-<td><p><strong>HoppiPolla</strong></p></td>
+<td><p><strong>Hoppípolla</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Linkin_Park" title="wikilink">Linkin Park</a>《One More Light》</p></td>
 <td><p>14670</p></td>
 <td><p>2958<br />
@@ -1534,13 +1534,7 @@ DPole（DJ製作人）</p></td>
   - [官方網站](http://tv.jtbc.joins.com/jtbcband)
 
   -
-### 成員社交網站
-
-  -
-<!-- end list -->
-
-  -
-[Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink") [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
+[Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink") [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
 
 1.
 2.

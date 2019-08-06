@@ -20,7 +20,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/車銀優.md" title="wikilink">車銀優</a>（<a href="../Page/Astro_(韓國音樂團體).md" title="wikilink">ASTRO</a>）</p></td>
-<td><p>禹妍雨</p></td>
+<td><p>禹延宇</p></td>
 <td><p>S.O.U.L的中心、門面擔當，負責擔當歌唱和舞蹈，即將要解散的組合。喜歡柳銀星。</p></td>
 </tr>
 <tr class="odd">

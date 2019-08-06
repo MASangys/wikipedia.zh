@@ -40,35 +40,35 @@
 </tr>
 <tr class="odd">
 <td><p><strong>iChart</strong></p></td>
-<td><p>*8</p></td>
+<td><p>8</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Melon</strong></p></td>
-<td><p>*10</p></td>
+<td><p>10</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Mnet</strong></p></td>
-<td><p>*17</p></td>
+<td><p>17</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Bugs</strong></p></td>
-<td><p><strong>1</strong></p></td>
+<td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Soribada</strong></p></td>
-<td><p>*5</p></td>
+<td><p>5</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Genie</strong></p></td>
-<td><p>*8</p></td>
+<td><p>8</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Naver</strong></p></td>
-<td><p><strong>1</strong></p></td>
+<td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Flo</strong></p></td>
-<td><p>*26</p></td>
+<td><p>26</p></td>
 </tr>
 <tr class="odd">
 <td><ul>

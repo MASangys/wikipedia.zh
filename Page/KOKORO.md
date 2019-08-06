@@ -1,6 +1,6 @@
 **加藤心**（，；），藝名為**KOKORO**（）。[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Cherry Bullet成員之一](../Page/Cherry_Bullet.md "wikilink")。\[1\]
 
-## 預告照
+## 經歷
 
 ### 2018年：公開預告照
 
@@ -38,7 +38,6 @@
 
   - [Cherry Bullet](https://tw.weibo.com/cherrybullet)的新浪微博
 
-  -
 <!-- end list -->
 
   - FNC娛樂
@@ -53,8 +52,6 @@
   -
   -
   -
-  - [FNC商城](http://www.fncstore.com)
-
   - [FNC Academy](http://fncacademy.com)
 
 [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:Cherry_Bullet](https://zh.wikipedia.org/wiki/Category:Cherry_Bullet "wikilink")

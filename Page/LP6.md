@@ -64,7 +64,7 @@
 
   - [LP6](http://www.lp6.com.hk)
 
-[Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink") [Category:南豐發展物業](https://zh.wikipedia.org/wiki/Category:南豐發展物業 "wikilink") [Category:港鐵公司物業](https://zh.wikipedia.org/wiki/Category:港鐵公司物業 "wikilink") [Category:小赤沙](https://zh.wikipedia.org/wiki/Category:小赤沙 "wikilink") [Category:日出康城](https://zh.wikipedia.org/wiki/Category:日出康城 "wikilink") [Category:200米至249米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:200米至249米高的摩天大樓 "wikilink")
+[Category:日出康城](https://zh.wikipedia.org/wiki/Category:日出康城 "wikilink") [Category:小赤沙](https://zh.wikipedia.org/wiki/Category:小赤沙 "wikilink") [Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink") [Category:西貢區](https://zh.wikipedia.org/wiki/Category:西貢區 "wikilink") [Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink") [Category:南豐發展物業](https://zh.wikipedia.org/wiki/Category:南豐發展物業 "wikilink") [Category:港鐵公司物業](https://zh.wikipedia.org/wiki/Category:港鐵公司物業 "wikilink") [Category:香港私人屋苑](https://zh.wikipedia.org/wiki/Category:香港私人屋苑 "wikilink") [Category:200米至249米高的摩天大樓](https://zh.wikipedia.org/wiki/Category:200米至249米高的摩天大樓 "wikilink")
 
 1.  [劉榮廣伍振民建築師事務所-日出康城第六期](http://www.dln.com.hk/html5/?section=project&lang=zh)
 2.

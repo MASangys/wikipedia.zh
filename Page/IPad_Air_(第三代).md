@@ -56,7 +56,7 @@
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |支援最新的作業系統</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.2</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4</p></td>
 <td></td>
 <td></td>
 </tr>

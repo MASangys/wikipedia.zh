@@ -22,7 +22,7 @@
 
 ## 逸事
 
-二戰期間與泰軍數度交鋒的93師，因國軍在在國共內戰中的失利而流落緬甸北部，為“[泰緬孤軍](../Page/泰緬孤軍.md "wikilink")”的起源。1961年，未撤回臺灣的孤軍第三軍、第五軍，在[李文煥將軍](https://zh.wikipedia.org/wiki/李文煥 "wikilink")、[段希文](../Page/段希文.md "wikilink")將軍的帶領下進入泰北，與二戰老敵人泰國政府合作，與意圖赤化東南亞的[泰共與](https://zh.wikipedia.org/wiki/泰共 "wikilink")[苗共作戰](https://zh.wikipedia.org/wiki/苗共 "wikilink")，但那也已經是歷史的後話了。\[5\]\[6\]
+二戰期間與泰軍數度交鋒的93師，因國軍在在國共內戰中的失利而流落緬甸北部，為“[泰緬孤軍](../Page/泰緬孤軍.md "wikilink")”的起源。1961年，未撤回臺灣的孤軍第三軍、第五軍，在[李文煥](../Page/李文煥.md "wikilink")將軍、[段希文](../Page/段希文.md "wikilink")將軍的帶領下進入泰北，與二戰老敵人泰國政府合作，與意圖赤化東南亞的[泰共與](https://zh.wikipedia.org/wiki/泰共 "wikilink")[苗共作戰](https://zh.wikipedia.org/wiki/苗共 "wikilink")，但那也已經是歷史的後話了。\[5\]\[6\]
 
 ## 參見
 

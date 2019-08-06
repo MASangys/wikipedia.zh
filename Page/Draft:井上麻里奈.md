@@ -290,7 +290,7 @@
   - [多羅羅](../Page/多羅羅.md "wikilink")（須志）
   - 約會大作戰III（**夜刀神十香**<sup>[\[95](https://zh.wikipedia.org/wiki/Special:MobileCite/55183787#cite%20note-104 "wikilink")\]</sup>）
   - [異世界超能魔術師](../Page/異世界超能魔術師.md "wikilink")（女騎士）
-  - [COP CRAFT](https://zh.wikipedia.org/wiki/COP_CRAFT "wikilink")（**卡梅倫·埃斯特凡**<sup>[\[96](https://zh.wikipedia.org/wiki/Special:MobileCite/55183787#cite%20note-105 "wikilink")\]</sup>）
+  - [COP CRAFT](../Page/COP_CRAFT.md "wikilink")（**卡梅倫·埃斯特凡**<sup>[\[96](https://zh.wikipedia.org/wiki/Special:MobileCite/55183787#cite%20note-105 "wikilink")\]</sup>）
 
 ### OVA
 

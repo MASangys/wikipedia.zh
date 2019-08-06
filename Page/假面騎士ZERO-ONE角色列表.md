@@ -5,7 +5,7 @@
 ****（飾）
 
   -
-    **假面騎士ZERO-ONE**的變身者，飛電Intelligence的現任社長。
+    **假面騎士ZERO-ONE**的變身者，22歲，飛電Intelligence的現任社長。
 
 ****（飾）
 

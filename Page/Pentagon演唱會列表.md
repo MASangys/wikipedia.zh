@@ -108,6 +108,8 @@
 | 6月7日        | JAPAN Collection Showcase                                                        | Zepp Osaka Bayside                        |                                                                     |
 | 6月8日        | DMZ P.O.P Concert IN INJI                                                        |                                           |                                                                     |
 | 6月16日       | Star Of Asia 2019 in Kazakhstan                                                  |                                           |                                                                     |
+| 7月22日       | ULSAN SUMMER FESTIVAL                                                            |                                           |                                                                     |
+| 7月27日       | 22nd Boryung Mud Festival K-POP SUPER CONCERT'                                   |                                           |                                                                     |
 | 8月16日       | テレビ朝日・六本木ヒルズ夏祭りSUMMER STATION 音楽LIVE                                             |                                           |                                                                     |
 
 ## 參考資料

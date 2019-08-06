@@ -1,4 +1,4 @@
-**FANATICS**（）為韓國FENT推出的女子音樂組合。目前由允惠、鍍我與台灣成員[家儀](../Page/家儀.md "wikilink")\[1\]\[2\]組成小分隊[FLAVOR](../Page/FLAVOR.md "wikilink")，並在2018年11月26日發行出道曲《MILKSHAKE》率先出道。
+**FANATICS**（）為韓國FENT推出的女子音樂組合。目前由允惠、鍍我與台灣成員[家儀](../Page/家儀.md "wikilink")\[1\]\[2\]組成小分隊[FLAVOR](../Page/FLAVOR.md "wikilink")，並在2018年11月26日發行出道曲《MILKSHAKE》率先出道。 完整體將於2019/8/6出道
 
 ## 歷程
 
@@ -10,7 +10,7 @@
 
 **2019年：正式出道**
 
-  - 7月18日，宣佈團體將於8月份出道\[3\]。
+  - 7月18日，宣佈團體將於8/6出道\[3\]。
 
 ## 成員列表
 
@@ -22,17 +22,22 @@
 | 藝名                                                    |
 | 漢字                                                    |
 | Sika                                                  |
+| Chae lin                                              |
 | [家儀](../Page/李家儀.md "wikilink")                       |
 | **[允惠](https://zh.wikipedia.org/wiki/允惠 "wikilink")** |
 | [鍍我](https://zh.wikipedia.org/wiki/鍍我 "wikilink")     |
-| 度伊                                                    |
-| 彩璘                                                    |
+| [度伊](https://zh.wikipedia.org/wiki/度伊 "wikilink")     |
+|                                                       |
 
 ## 音樂作品
 
 ### FANATICS音樂作品
 
-### 數位單曲
+迷你專輯《The six》
+
+主打歌：Sunday
+
+發行日期：2019/8/6
 
 <table>
 <thead>
@@ -51,6 +56,15 @@
 <li>語言：韓語、國語</li>
 <li>參與成員：鍍我、家儀、允惠</li>
 </ul></td>
+<td><ol>
+<li><strong>MILKSHAKE</strong>（밀크셰이크）（Korean Ver.）</li>
+<li>MILKSHAKE（Chinese Ver.）</li>
+<li>MILKSHAKE (Inst.)</li>
+</ol></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

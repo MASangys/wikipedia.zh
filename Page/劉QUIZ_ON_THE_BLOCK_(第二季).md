@@ -1,4 +1,4 @@
-《**劉QUIZ ON THE BLOCK (第二季)**》(，) 為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN綜藝節目](https://zh.wikipedia.org/wiki/tvN "wikilink")。由[劉在錫](../Page/劉在錫.md "wikilink")、[曹世鎬共同主持](https://zh.wikipedia.org/wiki/曹世鎬 "wikilink")，節目主軸為探訪人們的日常生活，進行簡單談話和突然問答的街頭談話與問答秀。計劃在平凡的舞台街邊把陽光當作照明，用愉快的驚喜給人們疲乏的生活帶來活力，度過特別的一天。\[1\]\[2\]
+《**劉QUIZ ON THE BLOCK 2**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN電視台的綜藝節目](https://zh.wikipedia.org/wiki/tvN "wikilink")。由[劉在錫](../Page/劉在錫.md "wikilink")、[曹世鎬共同主持](https://zh.wikipedia.org/wiki/曹世鎬 "wikilink")，節目主軸為探訪人們的日常生活，進行簡單談話和突然問答的街頭談話與問答秀。計劃在平凡的舞台街邊把陽光當作照明，用愉快的驚喜給人們疲乏的生活帶來活力，度過特別的一天。\[1\]\[2\]
 
 ## 節目形式
 
@@ -13,6 +13,8 @@
   - 關鍵詞背面如有節目logo，若答對不但可獲得100萬韓元獎金，電視台將以挑戰者的名義捐贈100萬韓元給慈善機構。
 
 ## 收視率
+
+<small>以下紀錄《**劉QUIZ ON THE BLOCK 2**》節目收視，收視最低的集數以表示，收視最高的集數以表示，而空格則表示該集的收視沒有相關數據。</small>
 
 <table>
 <thead>
@@ -132,6 +134,18 @@
 <td><p>28</p></td>
 <td><p>16</p></td>
 <td><p>2019/07/30</p></td>
+<td><p>3.257%</p></td>
+</tr>
+<tr class="odd">
+<td><p>29</p></td>
+<td><p>17</p></td>
+<td><p>2019/08/06</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>30</p></td>
+<td><p>18</p></td>
+<td><p>2019/08/13</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
@@ -142,10 +156,6 @@
 </tr>
 </tbody>
 </table>
-
-<small>
-
-  - 收視最低的集數以表示，收視最高的集數以表示，而則表示該集的收視沒有相關數據。</small>
 
 ## 參考資料
 

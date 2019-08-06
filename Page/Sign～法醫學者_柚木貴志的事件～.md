@@ -40,7 +40,7 @@
 <tr class="even">
 <td><p>伊達明義</p></td>
 <td><p><a href="../Page/仲村亨.md" title="wikilink">仲村亨</a></p></td>
-<td><p>在國立大學任教的<a href="https://zh.wikipedia.org/wiki/法醫學" title="wikilink">法醫學教授</a>，與柚木貴志爭鋒相對。<br />
+<td><p>在國立大學任教的<a href="https://zh.wikipedia.org/wiki/法醫學" title="wikilink">法醫學教授</a>，與柚木貴志針鋒相對。<br />
 第一集鬥倒原本日本法醫學研究院的兵藤邦昭院長，而升任為日本<a href="https://zh.wikipedia.org/wiki/法醫學" title="wikilink">法醫學研究院院長</a>。</p></td>
 </tr>
 </tbody>

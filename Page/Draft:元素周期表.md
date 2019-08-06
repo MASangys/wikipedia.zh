@@ -161,15 +161,17 @@
 
 多數元素週期表皆為二維的，\[120\]而三維的元素週期表最早可追溯至1862年（較門得列夫的二維週期表的1869年為早）。較晚出現的三維週期表包含库尔蒂纳的周期表分类(Courtines' Periodic Classification)（1925年）、\[121\] Wringley分层系统(Wringley's Lamina System) （1949年）、\[122\] 的螺旋型周期表(Periodic helix)（1965年）、\[123\]及杜福尔树状周期表(Dufour's Periodic Tree)（1996年）。\[124\]甚至有人曾建立出「四維」的週期表，如斯托（Stowe）的“物理学家的周期表”(Physicist's Periodic Table）（1989年）\[125\]就是一個例子，包含三個空間維度和一個色彩維度。\[126\]
 
-各式週期表可以依照其所強調的性質將他們分類到物理-化學光譜上。\[127\]例如在光譜上化學一端可以找到雷那・崁漢(Rayner Canham)的「不規矩」\[128\] 無機化學家的元素週期表(Inorganic Chemist's Periodic Table) (2002年)，\[129\]強調趨勢與規律，以及元素不尋常的化學關係與性質。接近物理一端則有的左階元素週期表（Left-Step Periodic Table） (1928年)。 其結構清楚顯示了電子填入[電子層](../Page/電子層.md "wikilink")的順序和[量子力学](../Page/量子力学.md "wikilink")性質的緊密關係\[130\]。 隨後，阿爾珀也提出了類似的想法\[131\]，儘管它被批評是忽視了週期表展示物理及化學周期性的要求\[132\]。而最常被使用，且最廣為人知的週期表則算是落在光譜中央的某處。This is regarded as better expressing empirical trends in physical state, electrical and thermal conductivity, and oxidation numbers, and other properties easily inferred from traditional techniques of the chemical laboratory.\[133\] Its popularity is thought to be a result of this layout having a good balance of features in terms of ease of construction and size, and its depiction of atomic order and periodic trends.\[134\]\[135\]
+各式週期表可以依照其所強調的性質將他們分類到物理-化學光譜上。\[127\]例如在光譜上化學一端可以找到雷那・崁漢(Rayner Canham)的「不規矩」\[128\] 無機化學家的元素週期表(Inorganic Chemist's Periodic Table) (2002年)，\[129\]強調趨勢與規律，以及元素不尋常的化學關係與性質。接近物理一端則有的左階元素週期表（Left-Step Periodic Table） (1928年)，其結構清楚顯示了電子填入[電子層](../Page/電子層.md "wikilink")的順序和[量子力学](../Page/量子力学.md "wikilink")性質的緊密關係\[130\]。 隨後，阿爾珀也提出了類似的想法\[131\]，儘管它被批評為「忽視了週期表展示物理及化學周期性的需求」\[132\]。而最常被使用，且最廣為人知的週期表則位於光譜上中間的部分。它被認為能更好的表達各種物理性質的趨勢，如[電導率](../Page/電導率.md "wikilink")和[熱導率](../Page/熱導率.md "wikilink")，以及如[氧化数等其他可以簡單地以實驗室內常用的傳統方法推得的化學性質](https://zh.wikipedia.org/wiki/氧化数 "wikilink")\[133\]而此週期表在各種特色上的平衡，易於建構的大小和形狀，和對原子序及週期性淺顯易懂的描述則被認為是它如此熱門的原因。\[134\]\[135\]
 
 ## 争议与待解决的问题
 
 ### 氢与氦的位置
 
-如果單是按照氢和氦兩者的电子排布來看，氢（电子排布為 1s<sup>1</sup>）和氦 （1s<sup>2</sup>）應分別置於鋰（1s<sup>2</sup>2s<sup>1</sup>）和鈹（1s<sup>2</sup>2s<sup>2</sup>）兩者之上 \[136\]。相對於氢會較常使用這種排列方式，氦的位置卻甚少以此方式排列。原因可以追溯至一九〇〇年代：當[稀有气体](../Page/稀有气体.md "wikilink")（当时称为「惰性气体」）被首次發現時它们被称为「第0族」，反映出當時並無發現這一族元素有任何化學反應。氦之所以會置於該族之上，是因為它確實具有此族元素的極端化學惰性。後來當這一族元素更名為「第18族」元素後，許多authors仍照舊把氦置於氖的上方，其中包括[國際純化學和應用化學聯合會](../Page/國際純化學和應用化學聯合會.md "wikilink")的周期表。\[137\]
+如果單是按照氢和氦兩者的电子排布來看，氢（电子排布為 1s<sup>1</sup>）和氦 （1s<sup>2</sup>）應分別置於鋰（1s<sup>2</sup>2s<sup>1</sup>）和鈹（1s<sup>2</sup>2s<sup>2</sup>）兩者之上 \[136\]。相對於氢會較常使用這種排列方式，氦的位置卻甚少以此方式排列。原因可以追溯至一九〇〇年代：當[稀有气体](../Page/稀有气体.md "wikilink")（当时称为「惰性气体」）被首次發現時它们被称为「第0族」，反映出當時並無發現這一族元素有任何化學反應。氦之所以會置於該族之上，是因為它確實具有此族元素的極端化學惰性。後來當這一族元素更名為「第18族」元素後，許多作者仍照舊把氦置於氖的上方，其中包括[國際純化學和應用化學聯合會](../Page/國際純化學和應用化學聯合會.md "wikilink")的周期表。\[137\]
 
-氫的化學性質與第1族的鹼金屬並不相似。因此有時會把氫置於其他位置，通常也會把其置於第17族之上\[138\] given hydrogen's strictly univalent and largely non-metallic chemistry, and the strictly univalent and non-metallic chemistry of fluorine (the element otherwise at the top of group 17). Sometimes, to show hydrogen has properties corresponding to both those of the alkali metals and the halogens, it is shown at the top of the two columns simultaneously.\[139\] Another suggestion is above carbon in group 14: placed that way, it fits well into the trends of increasing ionization potential values and electron affinity values, and is not too far from the electronegativity trend, even though hydrogen cannot show the  characteristic of the heavier group 14 elements.\[140\] Finally, hydrogen is sometimes placed separately from any group; this is based on how general properties of hydrogen differ from that of any group. The other period 1 element, helium, is sometimes placed separately from any group as well.\[141\] The property that distinguishes helium from the rest of the noble gases (even though the extraordinary inertness of helium is extremely close to that of neon and argon)\[142\] is that in its closed electron shell, helium has only two electrons in the outermost electron orbital, while the rest of the noble gases have eight.
+氫的化學性質與第1族的鹼金屬並不相似，因此有時會把氫置於其他位置。一個常見的位置是在第17族之上\[138\] ，這個作法是考量到氫和其他的[鹵素都傾向於處於](https://zh.wikipedia.org/wiki/鹵素 "wikilink")1價的狀態，並且都具備強烈的非金屬性。有時候，氫會同時被放在第1族及第17族之上，以表示其性質分別與鹼金屬及鹵素相似之處\[139\]。另一個方案是將氫放在第14族之上，也就是碳的正上方，這麼做可以保持週期表中的電離能及電子親合能的遞增性，並且與電負度的趨勢也不致相差太遠，但是此方案的主要問題在於氫無法如其他第14族元素一般存在穩定的4價態\[140\]。最後，有些週期表將氫從各族中分開來獨立放置，因為氫的一般性質與各族都不完全相同。
+
+此外，儘管第1週期的另一個元素氦的極端惰性與氖及氬十分相似\[141\]，有時候氦也會被獨立放置\[142\]，因為氦的表層軌域只有2個電子而其他惰性氣體則有8個。
 
 ###  关于IIIB族与第6、7周期上元素的问题
 
@@ -224,7 +226,7 @@
 
 按照[IUPAC的定义](../Page/國際純化學和應用化學聯合會.md "wikilink")，[过渡金属](../Page/过渡金属.md "wikilink")（即过渡元素）是指其原子或阳离子含未充满的d亚层的元素。 \[170\] 此定义下，第3\~11族的元素是过渡金属，而[第12族的锌](../Page/12族元素.md "wikilink")、镉、汞和鿔不是。
 
-部分化学家认为“[d区元素](https://zh.wikipedia.org/wiki/d区元素 "wikilink")”和“过渡金属”是同义词。按此定义，过渡金属包括3\~12列的所有元素。这时12族的元素就成了过渡金属中的特例——他们的d电子通常并不参与成键。 2007年，有报告称在[四氟化汞](../Page/四氟化汞.md "wikilink") （HgF<sub>4</sub>）中，汞使用其d电子成键，部分人因而认为汞可被视为过渡元素。 \[171\] 也有人，如詹森，认为想HgF<sub>4</sub>这样的化合物只能在极端条件下存在——实际上其存在性尚有争议——因此汞在通常状况下不能被合理地视为过渡元素。. \[172\]
+部分化学家认为“[d区元素](https://zh.wikipedia.org/wiki/d区元素 "wikilink")”和“过渡金属”是同义词。按此定义，过渡金属包括3\~12列的所有元素。这时12族的元素就成了过渡金属中的特例——他们的d电子通常并不参与成键。 2007年，有报告称在[四氟化汞](../Page/四氟化汞.md "wikilink") （HgF<sub>4</sub>）中，汞使用其d电子成键，部分人因而认为汞可被视为过渡元素。 \[171\] 也有人，如詹森，认为想HgF<sub>4</sub>这样的化合物只能在极端条件下存在——实际上其存在性尚有争议——因此汞在通常状况下不能被合理地视为过渡元素。 \[172\]
 
 还有部分化学家将[3族元素](../Page/3族元素.md "wikilink")从过渡金属的定义中排除出去。 其理由是3族元素所形成的阳离子的d亚层是全空的（而典型的过渡金属则是部分填充的），因此3族元素没有表现出过渡金属特有的化学性质。 \[173\] 此时只有4\~11族被视为过渡金属。尽管3族元素的化学性质与典型的过渡金属不尽相同，他们的物理性质却较相似。（因其每个原子上有且仅有1个d电子） \[174\]
 
@@ -236,27 +238,25 @@
 
 <div style="float: right; margin-left: 20px; font-size:85%;">
 
-{{ Periodic table (micro)|number=172|caption=Periodic table with eight rows, extended to element 172 \[177\]。黑框標記的為172號元素的位置。 }}
-
 </div>
 
-目前并不确定第八周期的元素是否会延续现有的周期律。 [西博格预计第八周期的元素会按现有规律](../Page/格倫·西奧多·西博格.md "wikilink")， [119号和](../Page/Uue.md "wikilink")[120号两个元素填充s区](../Page/Ubn.md "wikilink")，接下来的18个元素填充[g区](../Page/扩展元素周期表.md "wikilink")，后面的30个元素填充现有的f区、d区和p区，第八周期结束于下一个稀有气体，168号。 \[178\] 后来，物理学家等人建立了新理论，认为之后的元素不再满足现有的[構造原理](../Page/構造原理.md "wikilink")。 现在对172号内的元素的电子排布有若干种彼此竞争的理论。 不论如何，所有这些理论都预测下一个稀有气体元素并不是168号，而是172号。但所有这些多还只是推测，目前还没有对123号后的元素的详尽计算。 \[179\]
+目前并不确定第八周期的元素是否会延续现有的周期律。 [西博格预计第八周期的元素会按现有规律](../Page/格倫·西奧多·西博格.md "wikilink")， [119号和](../Page/Uue.md "wikilink")[120号两个元素填充s区](../Page/Ubn.md "wikilink")，接下来的18个元素填充[g区](../Page/扩展元素周期表.md "wikilink")，后面的30个元素填充现有的f区、d区和p区，第八周期结束于下一个稀有气体，168号。 \[177\] 后来，物理学家等人建立了新理论，认为之后的元素不再满足现有的[構造原理](../Page/構造原理.md "wikilink")。 现在对172号内的元素的电子排布有若干种彼此竞争的理论。 不论如何，所有这些理论都预测下一个稀有气体元素并不是168号，而是172号。但所有这些多还只是推测，目前还没有对123号后的元素的详尽计算。 \[178\]
 
 ### 原子序数最大的元素
 
-尚不确定所有可能的元素的总数。 早在1911年，亚当斯(Elliot Adams)就基于每个周期中元素的排布给出了一种估计：原子质量在256以上（约相当于原子序数99\~100）的元素无法存在。 \[180\] 后来有了更高的推测：元素周期表可能在[稳定岛](../Page/稳定岛.md "wikilink")后不久结束。 \[181\] （所谓稳定岛是指以[126号元素Ubh为中心的](../Page/扩展元素周期表.md "wikilink")、被质子[滴线和中子滴线所限制的](https://zh.wikipedia.org/wiki/原子核滴线 "wikilink")，周期表和[核素表的扩展](https://zh.wikipedia.org/wiki/核素表 "wikilink")。） \[182\] 其他关于周期表终点的预测包括： 128号（[约翰·埃姆斯利](../Page/约翰·埃姆斯利.md "wikilink")）\[183\]； 137号（[理查德·費曼](../Page/理查德·費曼.md "wikilink")）\[184\]； 146号（Yogendra Gambhir）；\[185\] 155号（艾伯特·卡赞，Albert Khazan）。\[186\]{{\#tag:ref|Karol (2002, p. 63) contends that gravitational effects would become significant when atomic numbers become astronomically large, thereby overcoming other super-massive nuclei instability phenomena, and that [中子星](../Page/中子星.md "wikilink")s (with atomic numbers on the order of 10<sup>21</sup>) can arguably be regarded as representing the heaviest known elements in the universe. See: Karol P. J. (2002). "The Mendeleev–Seaborg periodic table: Through Z=1138 and beyond". *Journal of Chemical Education* **79** (1): 60–63.|group=n}}
+尚不确定所有可能的元素的总数。 早在1911年，亚当斯(Elliot Adams)就基于每个周期中元素的排布给出了一种估计：原子质量在256以上（约相当于原子序数99\~100）的元素无法存在。 \[179\] 后来有了更高的推测：元素周期表可能在[稳定岛](../Page/稳定岛.md "wikilink")后不久结束。 \[180\] （所谓稳定岛是指以[126号元素Ubh为中心的](../Page/扩展元素周期表.md "wikilink")、被质子[滴线和中子滴线所限制的](https://zh.wikipedia.org/wiki/原子核滴线 "wikilink")，周期表和[核素表的扩展](https://zh.wikipedia.org/wiki/核素表 "wikilink")。） \[181\] 其他关于周期表终点的预测包括： 128号（[约翰·埃姆斯利](../Page/约翰·埃姆斯利.md "wikilink")）\[182\]； 137号（[理查德·費曼](../Page/理查德·費曼.md "wikilink")）\[183\]； 146号（Yogendra Gambhir）；\[184\] 155号（艾伯特·卡赞，Albert Khazan）。\[185\]{{\#tag:ref|Karol (2002, p. 63) contends that gravitational effects would become significant when atomic numbers become astronomically large, thereby overcoming other super-massive nuclei instability phenomena, and that [中子星](../Page/中子星.md "wikilink")s (with atomic numbers on the order of 10<sup>21</sup>) can arguably be regarded as representing the heaviest known elements in the universe. See: Karol P. J. (2002). "The Mendeleev–Seaborg periodic table: Through Z=1138 and beyond". *Journal of Chemical Education* **79** (1): 60–63.|group=n}}
 
 #### 玻尔模型
 
-非[相对论性的](../Page/狭义相对论.md "wikilink")[玻尔模型](../Page/玻尔模型.md "wikilink")对137号以上的元素失效，因为此处1s电子的速率超过了[光速](../Page/光速.md "wikilink")。\[187\] 因此波尔模型对这些元素并不准确。
+非[相对论性的](../Page/狭义相对论.md "wikilink")[玻尔模型](../Page/玻尔模型.md "wikilink")对137号以上的元素失效，因为此处1s电子的速率超过了[光速](../Page/光速.md "wikilink")。\[186\] 因此波尔模型对这些元素并不准确。
 
 #### 狄拉克方程
 
-相对论性的狄拉克方程不适用于有多于137个质子的元素。这些元素的基态的波函数震荡（oscillatory）而非[束缚](https://zh.wikipedia.org/wiki/束缚态 "wikilink")，其正负能谱是连续的。这称为。 \[188\] 更精确的、考虑到了原子核尺寸的计算显示结合能在有超过173个质子的原子中超过上限。 如果更重的原子的最内层轨道中没有电子，原子核的电场将从真空中创造出电子，并[发射出正电子](../Page/正电子发射.md "wikilink")。 \[189\] 不过如果1s轨道被电子填充，这就不会发生，因此173号元素不一定是元素周期表的终点。 \[190\]
+相对论性的狄拉克方程不适用于有多于137个质子的元素。这些元素的基态的波函数震荡（oscillatory）而非[束缚](https://zh.wikipedia.org/wiki/束缚态 "wikilink")，其正负能谱是连续的。这称为。 \[187\] 更精确的、考虑到了原子核尺寸的计算显示结合能在有超过173个质子的原子中超过上限。 如果更重的原子的最内层轨道中没有电子，原子核的电场将从真空中创造出电子，并[发射出正电子](../Page/正电子发射.md "wikilink")。 \[188\] 不过如果1s轨道被电子填充，这就不会发生，因此173号元素不一定是元素周期表的终点。 \[189\]
 
 ### 最优排列方式
 
-各种不同格式的周期表使人们产生了以下问题：是否存在一个最理想的或有确切格式的周期表。\[191\] 一般认为，这个问题的答案取决于元素的化学周期性是否基于某种规则，与宇宙的联系是否紧密高效，或者说这些周期性都只是基于人类观察者的环境、信仰和偏好所主观解释的产物。化学周期性的一个客观标准将解决有关氢和氦的位置与III族组成的问题。这种未被证实的理论即使存在也被认为仍未被发现。在其缺失的情况下，各种不同格式的周期表可以看作是化学周期性主题的变化，每一种周期表都探究并强调了这些元素之间特征、性质、属性和关系的不同。{{\#tag:ref|, one of the foremost authorities on the history of the periodic table,\[192\] favoured the concept of an optimal form of periodic table but has recently changed his mind and now supports the value of a plurality of periodic tables.\[193\]|group=n}}
+各种不同格式的周期表使人们产生了以下问题：是否存在一个最理想的或有确切格式的周期表。\[190\] 一般认为，这个问题的答案取决于元素的化学周期性是否基于某种规则，与宇宙的联系是否紧密高效，或者说这些周期性都只是基于人类观察者的环境、信仰和偏好所主观解释的产物。化学周期性的一个客观标准将解决有关氢和氦的位置与III族组成的问题。这种未被证实的理论即使存在也被认为仍未被发现。在其缺失的情况下，各种不同格式的周期表可以看作是化学周期性主题的变化，每一种周期表都探究并强调了这些元素之间特征、性质、属性和关系的不同。{{\#tag:ref|, one of the foremost authorities on the history of the periodic table,\[191\] favoured the concept of an optimal form of periodic table but has recently changed his mind and now supports the value of a plurality of periodic tables.\[192\]|group=n}}
 
 ## 请参阅
 
@@ -579,9 +579,9 @@
 
 140.
 
-141. Greenwood & Earnshaw, throughout the book
+141.
 
-142.
+142. Greenwood & Earnshaw, throughout the book
 
 143.
 
@@ -655,21 +655,19 @@
 181.
 
 182.
-
 183.
 184.
-185.
 
+185.
 186.
+
 187.
 
-188.
+188. , and references therein.
 
-189. , and references therein.
+189.
 
 190.
-
 191.
-192.
 
-193.
+192.

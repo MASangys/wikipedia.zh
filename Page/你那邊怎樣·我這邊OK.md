@@ -7,6 +7,16 @@
 
 分别发生在台湾和新加坡的两条故事线看似毫不相关，却又紧密结合。观众可以选择单看其中一条戏剧线，也可以串联着观看，在另一条戏剧线上得到如解谜般的补充和解释。\[6\]
 
+## 故事大綱
+
+郭豪森為台灣騰昇銀行總裁郭嵩時之子，對酒和陶藝頗有鑽研，平時也會親自授教陶藝課，因哥哥郭耀森意外身亡、爸爸中風倒下，他緊急被董事會召進騰昇銀行接班，首要任務即是擔任騰昇銀行新加坡分行的總經理。騰昇銀行副總裁郭延豐為豪森的叔叔，擁有集團多年來的權力及人脈，與龍航集團、史耐達集團多有合作來往。小白兔闖入大森林，豪森發現了暗藏在各種事件背後的陰謀，為了生存他必須想辦法對抗……
+
+騰昇銀行的長期合作夥伴龍航集團，產業跨足娛樂、鋼鐵、造船、貨運等事業，副總吳品叡與騰昇銀行副總裁郭延豐往來慎密，也與史耐達集團接班人李昊長期互看不順眼，為權力為地位驅使下，在一次談判中，發生了一樁殺人命案。而龍航集團旗下原計畫由台灣出發，預計抵達新加坡的貨船孝親號，莫名失聯，船上所有人、及藏身船上的台灣臥底警察下落不明，種種不尋常的事件引發新加坡警方及台灣刑事警察局關注，並派遣在新加坡放假旅遊的警察羅廷軒，留在當地進行追查……
+
+擁有駭客專長的騰昇銀行新加坡員工Eric，因假冒學歷，被騰昇銀行特助LINDA藉以此由威脅簽訂許多違法文件，為了報復LINDA，ERIC在駭客社團中認識的JUSTIN遊說下，設計了自動吐鈔的駭客程式並賣給黑市。在客戶要求驗收下，ERIC到了台灣執行測試任務，卻讓他成為八千萬ATM盜領案的嫌疑犯，連帶新加坡來台學廚藝的好友葉棟煌也被捲入涉案疑雲，虛擬世界的駭客陰謀、真實世界的通緝追捕，兩人在人地不熟的台灣展開未知的逃亡旅程……
+
+台灣一起ATM盜領案，關聯出人的信任及小人物的無奈，新加坡一樁海上喋血案，牽扯出騰昇銀行背後的權力爭鬥、風起雲湧，究竟我們是遊戲的創造主?還是權力的犧牲者?
+
 ## 播放時間及平台
 
 ### 首播
@@ -22,17 +32,17 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/臺灣電視台.md" title="wikilink">台視主頻</a></p></td>
+<td><p>Toggle</p></td>
 <td></td>
-<td><p>2019年8月30日</p></td>
-<td><p>每週五22:00</p></td>
+<td><p>2019年8月19日</p></td>
+<td><p>优先观看</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/新傳媒8頻道.md" title="wikilink">新傳媒8頻道</a></p></td>
-<td></td>
 <td><p>2019年8月26日</p></td>
 <td><p><strong>新加坡篇（20集）</strong><br />
 週一至週五21:00 - 22:00</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/新傳媒U頻道.md" title="wikilink">新傳媒U頻道</a></p></td>
@@ -42,9 +52,19 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/臺灣電視台.md" title="wikilink">台視主頻</a></p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>2019年8月30日</p></td>
+<td><p><strong>台湾篇（20集）</strong><br />
+每週五22:00 - 23:00</p>
+<hr>
+<p><strong>新加坡篇（20集）</strong><br />
+每週五23:00 - 00:00</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/八大電視.md" title="wikilink">八大電視</a></p></td>
+<td><p>2019年9月1日</p></td>
+<td><p>每週日20:00</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -54,11 +74,11 @@
 
 ### 主要角色
 
-<table style="width:50%;">
+<table style="width:10%;">
 <colgroup>
-<col style="width: 15%" />
-<col style="width: 5%" />
-<col style="width: 30%" />
+<col style="width: 3%" />
+<col style="width: 1%" />
+<col style="width: 6%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -114,11 +134,11 @@
 
 ### 其他角色
 
-<table style="width:50%;">
+<table style="width:10%;">
 <colgroup>
-<col style="width: 15%" />
-<col style="width: 5%" />
-<col style="width: 30%" />
+<col style="width: 3%" />
+<col style="width: 1%" />
+<col style="width: 6%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -167,7 +187,7 @@
 <tr class="even">
 <td><p>-{<a href="https://zh.wikipedia.org/wiki/方偉杰" title="wikilink">方偉杰</a>}-</p></td>
 <td><p>李昊</p></td>
-<td><p><strong>史耐達集團</strong></p></td>
+<td><p><strong>史耐達集團少東</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/郑惠玉.md" title="wikilink">郑惠玉</a></p></td>
@@ -203,8 +223,9 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/金银姬" title="wikilink">金银姬</a></p></td>
-<td></td>
-<td></td>
+<td><p>路老太太</p></td>
+<td><p><strong>餐廳雜工</strong><br />
+路瑞克的奶奶，思想傳統，勤奮節儉的上一代華人，兒子媳婦在一次車禍中過世，她孤身一人帶著孫子相依為命，也好心收養了肇事夫妻遺留下來的兒子蔡富萊，一個會念書、一個夠貼心，雖然辛苦但總想著孫子過得好就行。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/范文芳.md" title="wikilink">范文芳</a></p></td>
@@ -243,8 +264,9 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/張銘杰.md" title="wikilink">張銘-{杰}-</a></p></td>
-<td></td>
-<td></td>
+<td><p>郭延豐</p></td>
+<td><p><strong>騰昇銀行副總裁</strong><br />
+郭豪森的叔叔，擁有集團多年來的權力及人脈，與龍航集團、史耐達集團多有合作來往。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/楊雄_(演員)" title="wikilink">楊雄</a></p></td>
@@ -270,14 +292,13 @@
 
 ## 收視率
 
-### 台視播出收視率（新加坡篇）
+### 台視播出收視率（台灣篇）
 
 <table>
 <thead>
 <tr class="header">
 <th><p>播出日期</p></th>
 <th><p>週數</p></th>
-<th><p>集數</p></th>
 <th><p><a href="../Page/AC尼尔森.md" title="wikilink">AC尼尔森</a><br />
 無線收視率</p></th>
 <th><p>收視排名</p></th>
@@ -286,40 +307,147 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2019年8月－</p></td>
+<td><p>2019年8月30日</p></td>
 <td><p>1</p></td>
-<td><p>1-5</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年8月－</p></td>
+<td><p>2019年9月6日</p></td>
 <td><p>2</p></td>
-<td><p>6-10</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2019年9月－</p></td>
+<td><p>2019年9月13日</p></td>
 <td><p>3</p></td>
-<td><p>11-15</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年9月－</p></td>
+<td><p>2019年9月20日</p></td>
 <td><p>4</p></td>
-<td><p>16-20</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年9月27日</p></td>
+<td><p>5</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年10月4日</p></td>
+<td><p>6</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年10月11日</p></td>
+<td><p>7</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年10月18日</p></td>
+<td><p>8</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年10月25日</p></td>
+<td><p>9</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月1日</p></td>
+<td><p>10</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月8日</p></td>
+<td><p>11</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月15日</p></td>
+<td><p>12</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月22日</p></td>
+<td><p>13</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月29日</p></td>
+<td><p>14</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年12月6日</p></td>
+<td><p>15</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年12月13日</p></td>
+<td><p>16</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年12月20日</p></td>
+<td><p>17</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年12月27日</p></td>
+<td><p>18</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年1月3日</p></td>
+<td><p>19</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年1月10日</p></td>
+<td><p>20</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>平均收視率</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -328,14 +456,13 @@
 </tbody>
 </table>
 
-### 台視播出收視率（台灣篇）
+### 台視播出收視率（新加坡篇）
 
 <table>
 <thead>
 <tr class="header">
 <th><p>播出日期</p></th>
 <th><p>週數</p></th>
-<th><p>集數</p></th>
 <th><p><a href="../Page/AC尼尔森.md" title="wikilink">AC尼尔森</a><br />
 無線收視率</p></th>
 <th><p>收視排名</p></th>
@@ -344,40 +471,147 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2019年8月－</p></td>
+<td><p>2019年8月30日</p></td>
 <td><p>1</p></td>
-<td><p>1-5</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年8月－</p></td>
+<td><p>2019年9月6日</p></td>
 <td><p>2</p></td>
-<td><p>6-10</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2019年9月－</p></td>
+<td><p>2019年9月13日</p></td>
 <td><p>3</p></td>
-<td><p>11-15</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年9月－</p></td>
+<td><p>2019年9月20日</p></td>
 <td><p>4</p></td>
-<td><p>16-20</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年9月27日</p></td>
+<td><p>5</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年10月4日</p></td>
+<td><p>6</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年10月11日</p></td>
+<td><p>7</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年10月18日</p></td>
+<td><p>8</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年10月25日</p></td>
+<td><p>9</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月1日</p></td>
+<td><p>10</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月8日</p></td>
+<td><p>11</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月15日</p></td>
+<td><p>12</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月22日</p></td>
+<td><p>13</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月29日</p></td>
+<td><p>14</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年12月6日</p></td>
+<td><p>15</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年12月13日</p></td>
+<td><p>16</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年12月20日</p></td>
+<td><p>17</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年12月27日</p></td>
+<td><p>18</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年1月3日</p></td>
+<td><p>19</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年1月10日</p></td>
+<td><p>20</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>平均收視率</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -390,26 +624,34 @@
 
 注：此章節不記載重播（包括從其他當地電視台的重播節目）或新聞節目
 
-  - [新傳媒5頻道](https://zh.wikipedia.org/wiki/新傳媒5頻道 "wikilink")：
-  - [新傳媒8頻道](../Page/新傳媒8頻道.md "wikilink")：
-  - [新傳媒U頻道](../Page/新傳媒U頻道.md "wikilink")：
+  - [新傳媒5頻道](https://zh.wikipedia.org/wiki/新傳媒5頻道 "wikilink")：Lion Mums（第三系列）／Fried Rice Paradise／Body and Soul（第七系列）／Talking Point
+  - [新傳媒8頻道](../Page/新傳媒8頻道.md "wikilink")：《[詭探](../Page/詭探.md "wikilink")》／《[健康123](../Page/健康123.md "wikilink") Sr. 3》／《食尚口袋名单》
+  - [新傳媒U頻道](../Page/新傳媒U頻道.md "wikilink")：《北京到莫斯科》／《混口饭吃而已》／《[誰來晚餐](../Page/誰來晚餐.md "wikilink")》／《边缘老人》／《進擊的台灣》
   - [亞洲新聞台](https://zh.wikipedia.org/wiki/亞洲新聞台 "wikilink")：
-  - [HUB娛家戲劇台](https://zh.wikipedia.org/wiki/HUB娛家戲劇台 "wikilink")：
-  - [HUB都會台](../Page/HUB都會台.md "wikilink")：
-  - [佳樂台](https://zh.wikipedia.org/wiki/佳樂台 "wikilink")：
-  - [e樂](https://zh.wikipedia.org/wiki/e樂 "wikilink")：
-  - [HUB娛家戲劇台](https://zh.wikipedia.org/wiki/HUB娛家戲劇台 "wikilink")：
-  - [中視](../Page/中視_\(頻道\).md "wikilink")：
-  - [華視](../Page/華視主頻.md "wikilink")：《[大雲時堂](../Page/大雲時堂.md "wikilink")》
+  - [HUB娛家戲劇台](https://zh.wikipedia.org/wiki/HUB娛家戲劇台 "wikilink")：《[愛·回家之開心速遞](../Page/愛·回家之開心速遞.md "wikilink")》
+  - [HUB都會台](../Page/HUB都會台.md "wikilink")：《[非常完美](../Page/非常完美_\(电视节目\).md "wikilink")》／《地球的慶典》／《[女兒們的戀愛](../Page/女兒們的戀愛.md "wikilink")》／《了不起的孩子》／《勇闖日本秘境》／《[綜藝玩很大](https://zh.wikipedia.org/wiki/綜藝玩很大 "wikilink")》／《[金秘書為何那樣](../Page/金秘書為何那樣.md "wikilink")》／《[種菜女神](../Page/種菜女神.md "wikilink")》／《[這！就是原創](../Page/這就是原創.md "wikilink")》
+  - [佳樂台](https://zh.wikipedia.org/wiki/佳樂台 "wikilink")：《[都挺好](../Page/都挺好.md "wikilink")》／《[白髮](https://zh.wikipedia.org/wiki/白髮 "wikilink")》／《[2019中国好声音](../Page/2019中国好声音.md "wikilink")》
+  - [e樂](https://zh.wikipedia.org/wiki/e樂 "wikilink")：《[2019中国好声音](../Page/2019中国好声音.md "wikilink")》
+  - [華視](../Page/華視主頻.md "wikilink")：《[用九柑仔店](../Page/用九柑仔店.md "wikilink")》
   - [東森戲劇台](../Page/東森戲劇台.md "wikilink")：
-  - [東森綜合台](../Page/東森綜合台.md "wikilink")：
-  - [三立台灣台](../Page/三立台灣台.md "wikilink")：《[炮仔聲](../Page/炮仔聲_\(台灣電視劇\).md "wikilink")》
-  - [三立都會台](../Page/三立都會台.md "wikilink")：《[綜藝大熱門](../Page/綜藝大熱門.md "wikilink")》
-  - [TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")：
-  - [民視](../Page/民視無線台.md "wikilink")：《[大時代](https://zh.wikipedia.org/wiki/大時代_\(2018年電視劇\) "wikilink")》
-  - [八大戲劇台](../Page/八大戲劇台.md "wikilink")：
+  - [東森綜合台](../Page/東森綜合台.md "wikilink")：《[醫師好辣](../Page/醫師好辣.md "wikilink")》／《[閨蜜愛旅行](https://zh.wikipedia.org/wiki/閨蜜愛旅行 "wikilink")》
+  - [三立台灣台](../Page/三立台灣台.md "wikilink")：《[天之蕉子](../Page/天之蕉子.md "wikilink")》
+  - [三立都會台](../Page/三立都會台.md "wikilink")：《[用九柑仔店](../Page/用九柑仔店.md "wikilink")》
+  - [TVBS頻道](https://zh.wikipedia.org/wiki/TVBS頻道 "wikilink")：《[地球黃金線](../Page/地球黃金線.md "wikilink")》
+  - [TVBS歡樂台](../Page/TVBS歡樂台.md "wikilink")：《[女人我最大](../Page/女人我最大.md "wikilink")》
+  - [民視](../Page/民視無線台.md "wikilink")：《[大時代](https://zh.wikipedia.org/wiki/大時代_\(2018年電視劇\) "wikilink")》／《[綜藝新時代](../Page/綜藝新時代.md "wikilink")》
 
 ## 製作團隊
+
+## 取景
+
+  - 錦和派出所
+  - 江翠派出所
+  - 板橋八德公園
+  - 法務部行政執行署新北分署弘道樓
+  - 淡水道路
+  - 三芝民宿
+  - 建國高架停車場
 
 ## 參考
 

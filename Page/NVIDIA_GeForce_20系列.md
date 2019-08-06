@@ -85,98 +85,231 @@ RTX是GeForce 20系列引入的开发平台。RTX的光线追踪示范程序中�
 </tr>
 <tr class="even">
 <td><p>GeForce RTX 2060[10]</p></td>
-<td><p>2019年1月7日</p></td>
-<td><p>TU106-200</p></td>
-<td><p>12 FFN</p></td>
+<td><p>2019年1月15日</p></td>
+<td><p>TU106-200A-KA-A1</p></td>
 <td><p>10.8</p></td>
 <td><p>445</p></td>
-<td><p>PCIe 3.0 x16</p></td>
-<td><p>1920:120:48 (30 SM)</p></td>
+<td><p>1920</p></td>
+<td><p>120</p></td>
+<td><p>48</p></td>
+<td><p>30</p></td>
 <td><p>240</p></td>
 <td><p>30</p></td>
 <td><p>3</p></td>
 <td><p>1365</p></td>
 <td><p>1680</p></td>
 <td><p>14000</p></td>
-<td><p>163.8</p></td>
 <td><p>65.52</p></td>
-<td><p>6</p></td>
+<td><p>163.8</p></td>
 </tr>
 <tr class="odd">
-<td><p>GeForce RTX 2070[11]</p></td>
-<td><p>2018年10月17日</p></td>
-<td><p>TU106-400</p></td>
-<td><p>2304:144:64 (36 SM)</p></td>
-<td><p>288</p></td>
-<td><p>36</p></td>
+<td><p>style="text-align:left; |GeForce RTX 2060 Super[11][12]</p></td>
+<td><p>2019年7月9日</p></td>
+<td><p>TU106-410-A1</p></td>
+<td><p>2176</p></td>
+<td><p>136</p></td>
+<td><p>64</p></td>
+<td><p>34</p></td>
+<td><p>272</p></td>
+<td><p>34</p></td>
 <td><p>4</p></td>
-<td><p>1410</p></td>
-<td><p>1620</p></td>
-<td><p>203.4 (233.28)</p></td>
-<td><p>90.24 (103.68)</p></td>
+<td><p>1407</p></td>
+<td><p>1650</p></td>
+<td><p>90.05</p></td>
+<td><p>191.4</p></td>
 <td><p>8</p></td>
 <td><p>448</p></td>
 <td><p>256</p></td>
-<td><p>6497 (7465)</p></td>
-<td><p>203 (233.3)</p></td>
-<td><p>7.5</p></td>
 </tr>
 <tr class="even">
-<td><p>GeForce RTX 2080[12]</p></td>
-<td><p>2018年9月20日</p></td>
-<td><p>TU104-400</p></td>
+<td><p>GeForce RTX 2070[13]</p></td>
+<td><p>2018年10月17日</p></td>
+<td><p>TU106-400-A1</p></td>
+<td><p>2304</p></td>
+<td><p>144</p></td>
+<td><p>36</p></td>
+<td><p>288</p></td>
+<td><p>36</p></td>
+<td><p>1410</p></td>
+<td><p>1620</p></td>
+<td><p>90.24</p></td>
+<td><p>203.04</p></td>
+<td><p>6497 (7465)</p></td>
+<td><p>203 (233)</p></td>
+<td><p>12994 (14930)</p></td>
+<td><p>45</p></td>
+<td><p>59.7</p></td>
+</tr>
+<tr class="odd">
+<td><p>TU106-410-A1/TU106-400A-A1</p></td>
+<td><p>1620+</p></td>
+<td><p>6497 (7465+)</p></td>
+<td><p>203 (233+)</p></td>
+<td><p>12994 (14930+)</p></td>
+<td><p>$499+</p></td>
+<td><p>$599</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>style="text-align:left; |GeForce RTX 2070 Super[14][15]</p></td>
+<td><p>2019年7月9日</p></td>
+<td><p>TU104-410-A1</p></td>
 <td><p>13.6</p></td>
 <td><p>545</p></td>
-<td><p>2944:184:64 (46 SM)</p></td>
+<td><p>2560</p></td>
+<td><p>160</p></td>
+<td><p>40</p></td>
+<td><p>320</p></td>
+<td><p>40</p></td>
+<td><p>1605</p></td>
+<td><p>1770</p></td>
+<td><p>102.72</p></td>
+<td><p>256.8</p></td>
+<td><p>8218 (9062)</p></td>
+<td><p>257 (283)</p></td>
+<td><p>16435 (18125)</p></td>
+</tr>
+<tr class="odd">
+<td><p>GeForce RTX 2080[16]</p></td>
+<td><p>2018年9月20日</p></td>
+<td><p>TU104-400-A1</p></td>
+<td><p>2944</p></td>
+<td><p>184</p></td>
+<td><p>46</p></td>
 <td><p>368</p></td>
 <td><p>46</p></td>
 <td><p>1515</p></td>
 <td><p>1710</p></td>
-<td><p>278.76 (314.64)</p></td>
-<td><p>96.96 (109.44)</p></td>
+<td><p>96.96</p></td>
+<td><p>278.76</p></td>
 <td><p>8920 (10068)</p></td>
-<td><p>278.8 (314.6)</p></td>
-<td><p>10</p></td>
+<td><p>279 (315)</p></td>
+<td><p>17840 (20137)</p></td>
 <td><p>8</p></td>
 <td><p>60</p></td>
 </tr>
+<tr class="even">
+<td><p>TU104-410-A1/TU104-400A-A1</p></td>
+<td><p>1710+</p></td>
+<td><p>8920 (10068+)</p></td>
+<td><p>279 (315+)</p></td>
+<td><p>17840 (20137+)</p></td>
+<td><p>$699+</p></td>
+<td><p>$799</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="odd">
-<td><p>GeForce RTX 2080 Ti[13]</p></td>
-<td><p>2018年9月27日</p></td>
-<td><p>TU102-300</p></td>
-<td><p>18.6</p></td>
-<td><p>754</p></td>
-<td><p>4352:272:88 (68 SM)</p></td>
-<td><p>544</p></td>
-<td><p>68</p></td>
-<td><p>6</p></td>
-<td><p>1350</p></td>
-<td><p>1545</p></td>
-<td><p>367.2 (420.24)</p></td>
-<td><p>118.8 (135.96)</p></td>
-<td><p>11</p></td>
-<td><p>616</p></td>
-<td><p>352</p></td>
-<td><p>11750 (13448)</p></td>
+<td><p>style="text-align:left; |GeForce RTX 2080 Super[17][18]</p></td>
+<td><p>2019年7月23日</p></td>
+<td><p>TU104-450-A1</p></td>
+<td><p>3072</p></td>
+<td><p>192</p></td>
+<td><p>48</p></td>
+<td><p>384</p></td>
+<td><p>48</p></td>
+<td><p>1650</p></td>
+<td><p>1815</p></td>
+<td><p>15500</p></td>
+<td><p>105.6</p></td>
+<td><p>316.8</p></td>
+<td><p>496</p></td>
+<td><p>10138 (11151)</p></td>
+<td><p>317 (349)</p></td>
+<td><p>20275 (22303)</p></td>
 </tr>
 <tr class="even">
-<td><p>NVIDIA TITAN RTX[14]</p></td>
+<td><p>GeForce RTX 2080 Ti[19]</p></td>
+<td><p>2018年9月27日</p></td>
+<td><p>TU102-300-K1-A1</p></td>
+<td><p>18.6</p></td>
+<td><p>754</p></td>
+<td><p>4352</p></td>
+<td><p>272</p></td>
+<td><p>88</p></td>
+<td><p>68</p></td>
+<td><p>544</p></td>
+<td><p>68</p></td>
+<td><p>5.5</p></td>
+<td><p>1350</p></td>
+<td><p>1545</p></td>
+<td><p>14000</p></td>
+<td><p>118.8</p></td>
+<td><p>367.2</p></td>
+</tr>
+<tr class="odd">
+<td><p>TU102-300A-K1-A1</p></td>
+<td><p>1545+</p></td>
+<td><p>11750 (13448+)</p></td>
+<td><p>367 (421+)</p></td>
+<td><p>23500 (26896+)</p></td>
+<td><p>$999+</p></td>
+<td><p>$1,199</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>NVIDIA TITAN RTX[20]</p></td>
 <td><p>2018年12月18日</p></td>
-<td><p>TU102-400</p></td>
-<td><p>4608:288:96 (72 SM)</p></td>
+<td><p>TU102-400-A1</p></td>
+<td><p>4608</p></td>
+<td><p>288</p></td>
+<td><p>96</p></td>
+<td><p>72</p></td>
 <td><p>576</p></td>
 <td><p>72</p></td>
+<td><p>6</p></td>
 <td><p>1770</p></td>
-<td><p>388.8</p></td>
 <td><p>129.6</p></td>
+<td><p>388.8</p></td>
 <td><p>24</p></td>
 <td><p>672</p></td>
 <td><p>384</p></td>
 <td><p>12442 (16312)</p></td>
-<td><p>389 (510)</p></td>
-<td><p>16</p></td>
-<td><p>11</p></td>
-<td><p>84</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -227,3 +360,9 @@ RTX是GeForce 20系列引入的开发平台。RTX的光线追踪示范程序中�
 12.
 13.
 14.
+15.
+16.
+17.
+18.
+19.
+20.

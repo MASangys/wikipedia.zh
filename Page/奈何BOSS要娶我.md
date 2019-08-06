@@ -1,4 +1,4 @@
-《**奈何BOSS要娶我**》（），[2019年](../Page/中国大陆电视剧列表_\(2019年\).md "wikilink")[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[偶像剧](https://zh.wikipedia.org/wiki/偶像剧 "wikilink")。本剧改编自纯风一度的网络小说《豪門遊戲：私寵甜心寶貝》，由[徐开骋](https://zh.wikipedia.org/wiki/徐开骋 "wikilink")、[王双领衔主演](../Page/王双_\(演员\).md "wikilink")，[搜狐视频](../Page/搜狐视频.md "wikilink")、[芒果TV](../Page/芒果TV.md "wikilink")于2019年1月17日首播。\[1\]\[2\]
+《**奈何BOSS要娶我**》（），[2019年](../Page/中国大陆电视剧列表_\(2019年\).md "wikilink")[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[偶像剧](https://zh.wikipedia.org/wiki/偶像剧 "wikilink")。本剧改编自纯风一度的网络小说《豪門遊戲：私寵甜心寶貝》，由[徐开骋](https://zh.wikipedia.org/wiki/徐开骋 "wikilink")、[王双领衔主演](../Page/王双_\(演员\).md "wikilink")，[搜狐视频](../Page/搜狐视频.md "wikilink")、[芒果TV](../Page/芒果TV.md "wikilink")于2019年1月17日首播，\[1\]\[2\]奈何BOSS要娶我2預計在2020年播出。
 
 ## 播出时间
 

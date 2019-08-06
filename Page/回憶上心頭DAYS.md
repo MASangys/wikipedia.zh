@@ -6,7 +6,7 @@
 
 发表了将自[HKT48](../Page/HKT48.md "wikilink")毕业的[指原莉乃](../Page/指原莉乃.md "wikilink")擔任单曲Center\[3\]。这也是指原初次担任反映[AKB48选拔总选举结果的单曲之外的单曲Center](https://zh.wikipedia.org/wiki/AKB48选拔总选举 "wikilink")\[4\]。
 
-选拔成员人数比前作减少1名，从23人变为22人，[矢作萌夏初次进入选拔名单](https://zh.wikipedia.org/wiki/矢作萌夏 "wikilink")\[5\]，[吉田朱里](../Page/吉田朱里.md "wikilink")（[NMB48](../Page/NMB48.md "wikilink")）自《[感伤列车](https://zh.wikipedia.org/wiki/感伤列车 "wikilink")》后相隔2作、[松井珠理奈](../Page/松井珠理奈.md "wikilink")（[SKE48](../Page/SKE48.md "wikilink")）及[松岡花](../Page/松岡花.md "wikilink")（HKT48）自《[Teacher Teacher](../Page/Teacher_Teacher.md "wikilink")》后相隔3作、[坂口渚沙](../Page/坂口渚沙.md "wikilink")自《[我们不战斗](https://zh.wikipedia.org/wiki/我们不战斗 "wikilink")》后相隔15作再次进入选拔名单。前作选拔成员中，除了专任[IZ\*ONE](../Page/IZ*ONE.md "wikilink")活动中的[本田仁美](../Page/本田仁美.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")以外，另有[倉野尾成美](../Page/倉野尾成美.md "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")（2019年5月6日自AKB48毕业）、[宮崎美穗](../Page/宮崎美穗.md "wikilink")未获选为本作选拔。
+选拔成员人数比前作减少1名，从23人变为22人，[矢作萌夏](../Page/矢作萌夏.md "wikilink")初次进入选拔名单\[5\]，[吉田朱里](../Page/吉田朱里.md "wikilink")（[NMB48](../Page/NMB48.md "wikilink")）自《[感伤列车](https://zh.wikipedia.org/wiki/感伤列车 "wikilink")》后相隔2作、[松井珠理奈](../Page/松井珠理奈.md "wikilink")（[SKE48](../Page/SKE48.md "wikilink")）及[松岡花](../Page/松岡花.md "wikilink")（HKT48）自《[Teacher Teacher](../Page/Teacher_Teacher.md "wikilink")》后相隔3作、[坂口渚沙](../Page/坂口渚沙.md "wikilink")自《[我们不战斗](https://zh.wikipedia.org/wiki/我们不战斗 "wikilink")》后相隔15作再次进入选拔名单。前作选拔成员中，除了专任[IZ\*ONE](../Page/IZ*ONE.md "wikilink")活动中的[本田仁美](../Page/本田仁美.md "wikilink")、[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")以外，另有[倉野尾成美](../Page/倉野尾成美.md "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")（2019年5月6日自AKB48毕业）、[宮崎美穗](../Page/宮崎美穗.md "wikilink")未获选为本作选拔。
 
 單曲的同名標題曲不仅是一首王道的偶像歌曲，也是一首蕴含了离别的寂寞和踏上新的旅程的祝福的信息的歌曲\[6\]。單曲名稱中的「」為[流行語](../Page/流行語.md "wikilink")，是日語「」的簡寫，有「愈來愈有趣」的意思。單曲名稱公布後，指原在個人[Twitter](../Page/Twitter.md "wikilink")上调侃「果然～ 越来越有趣了～ 秋元老师真的越来越有趣～」（）、「秋元老师难道是辣妹吗？」（）\[7\]，秋元指該曲作詞者兼AKB48總製作人[秋元康](../Page/秋元康.md "wikilink")。
 
@@ -51,7 +51,7 @@
 （中心成員：指原莉乃）
 
   - Team A：[橫山由依](../Page/橫山由依.md "wikilink")、[向井地美音](../Page/向井地美音.md "wikilink")
-  - Team K：[矢作萌夏](https://zh.wikipedia.org/wiki/矢作萌夏 "wikilink")
+  - Team K：[矢作萌夏](../Page/矢作萌夏.md "wikilink")
   - Team B：[高橋朱里](../Page/高橋朱里.md "wikilink")
   - Team B／NGT48 Team NIII：[柏木由紀](../Page/柏木由紀.md "wikilink")
   - Team 4：山內瑞葵
@@ -103,7 +103,7 @@
   - STU48：[瀧野由美子](../Page/瀧野由美子.md "wikilink")
   - 乃木坂46：[梅澤美波](../Page/梅澤美波.md "wikilink")、[大園桃子](../Page/大園桃子.md "wikilink")、[久保史緒里](../Page/久保史緒里.md "wikilink")、[山下美月](../Page/山下美月.md "wikilink")、[与田祐希](https://zh.wikipedia.org/wiki/与田祐希 "wikilink")
   - 櫸坂46：[小池美波](../Page/小池美波.md "wikilink")、[小林由依](../Page/小林由依.md "wikilink")、[菅井友香](../Page/菅井友香.md "wikilink")、[鈴本美愉](https://zh.wikipedia.org/wiki/鈴本美愉 "wikilink")、[土生瑞穗](../Page/土生瑞穗.md "wikilink")
-  - 日向坂46：、、、、
+  - 日向坂46：[加藤史帆](../Page/加藤史帆.md "wikilink")、[小坂菜緒](../Page/小坂菜緒.md "wikilink")、[齊藤京子](../Page/齊藤京子.md "wikilink")、[佐佐木美玲](../Page/佐佐木美玲.md "wikilink")、[渡邊美穗](https://zh.wikipedia.org/wiki/渡邊美穗_\(偶像藝人\) "wikilink")
 
 ### 必然性
 

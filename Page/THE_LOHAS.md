@@ -114,7 +114,7 @@ THE LOHAS對開的日出康城5期[MALIBU](../Page/MALIBU.md "wikilink")基座�
 
 ## 参考資料
 
-[Category:小赤沙](https://zh.wikipedia.org/wiki/Category:小赤沙 "wikilink") [Category:港鐵公司物業](https://zh.wikipedia.org/wiki/Category:港鐵公司物業 "wikilink") [Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink") [Category:西貢區商場](https://zh.wikipedia.org/wiki/Category:西貢區商場 "wikilink") [Category:香港溜冰場地](https://zh.wikipedia.org/wiki/Category:香港溜冰場地 "wikilink") [Category:日出康城](https://zh.wikipedia.org/wiki/Category:日出康城 "wikilink")
+[Category:小赤沙](https://zh.wikipedia.org/wiki/Category:小赤沙 "wikilink") [Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink") [Category:西貢區](https://zh.wikipedia.org/wiki/Category:西貢區 "wikilink") [Category:西貢區商場](https://zh.wikipedia.org/wiki/Category:西貢區商場 "wikilink") [Category:港鐵公司物業](https://zh.wikipedia.org/wiki/Category:港鐵公司物業 "wikilink") [Category:香港溜冰場地](https://zh.wikipedia.org/wiki/Category:香港溜冰場地 "wikilink") [Category:日出康城](https://zh.wikipedia.org/wiki/Category:日出康城 "wikilink")
 
 1.
 2.

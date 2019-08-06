@@ -32,11 +32,15 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 
   - 首次专场巡迴演唱会\[EYES ON ME\]、日本巡回演唱会
 
-4月25日，OFF THE RECORD宣布组合即将举行首次的巡回演唱会《IZ\*ONE 1ST CONCERT \[EYES ON ME\]》，并定于6月8，9日起在韩国首尔开唱\[31\]，其后场次则包括了泰国曼谷（6月16日）、新北（6月29日）及香港（7月13日）。在首尔演唱会最终场，由宫脇咲良发表了组合将在8-9月于日本举办巡回演唱会的消息\[32\]
+4月25日，Off The Record娛樂宣布组合即将举行首次的巡回演唱会《IZ\*ONE 1ST CONCERT \[EYES ON ME\]》，并定于6月8，9日起在韩国首尔开唱\[31\]，其后场次则包括了泰国曼谷（6月16日）、新北（6月29日）及香港（7月13日）。在首尔演唱会最终场，由宫脇咲良发表了组合将在8-9月于日本举办巡回演唱会的消息\[32\]
 
   - 日本第二张单曲《[布宜諾斯艾利斯](../Page/布宜諾斯艾利斯_\(單曲\).md "wikilink")》
 
 5月2、3日，组合在日本武道馆举行了粉丝见面会\[33\]，在现场约一万名粉丝的注视下，3日公布了组合将于6月26日发行第二张单曲《[布宜諾斯艾利斯](../Page/布宜諾斯艾利斯_\(單曲\).md "wikilink")》的消息\[34\]。继上张单曲后，本张单曲再次于[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")录得超过20万张的销量，在日本国外艺人中是继[防弹少年团](https://zh.wikipedia.org/wiki/防弹少年团 "wikilink")、[TWICE之后第三组获此成绩](https://zh.wikipedia.org/wiki/TWICE "wikilink")，并凭借21.6万张销量首次夺得Oricon公信榜单曲周榜冠军\[35\]。
+
+  - 出道曲《La Vie en Rose》MV點擊量破億
+
+7月31日 , 出道歌曲MV《La Vie en Rose》於官方[Youtube帳號公開後](https://zh.wikipedia.org/wiki/Youtube "wikilink")9個月突破了1億點擊量 , 此為组合第一支破億MV。
 
 ## 成員列表
 
@@ -353,6 +357,12 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><a href="../Page/突击风暴.md" title="wikilink">突击风暴</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -488,6 +498,8 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 | 2019年4月28日    | SBS[人气歌谣](../Page/人气歌谣.md "wikilink")Super Concert                                          | [光州世界杯竞技场](https://zh.wikipedia.org/wiki/光州世界杯竞技场 "wikilink")                                                            | \[89\]       |
 | 2019年5月17、19日 | [KCON](https://zh.wikipedia.org/wiki/KCON "wikilink") 2019 JAPAN                            | 日本千叶幕张展览馆                                                                                                                | \[90\]\[91\] |
 | 2019年7月6日     | KCON 2019 NY                                                                                | [美国](../Page/美国.md "wikilink")[纽约](https://zh.wikipedia.org/wiki/纽约市 "wikilink")[麦迪逊广场花园](../Page/麦迪逊广场花园.md "wikilink") | \[92\]       |
+| 2019年8月1日     | [M2 X Genie音樂獎](../Page/M2_X_Genie音樂獎.md "wikilink")                                        | [首尔奥林匹克体操竞技场](../Page/首尔奥林匹克体操竞技场.md "wikilink")                                                                         |              |
+| 2019年8月17日    | KCON 2019 USA LA                                                                            | [美国](../Page/美国.md "wikilink")[洛杉矶](../Page/洛杉矶.md "wikilink")[斯台普斯中心](../Page/斯台普斯中心.md "wikilink")                     |              |
 
 ### 公演活動
 
@@ -498,8 +510,8 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 | 2018年12月6日  | 職業棒球年度頒獎禮                                                                     |                                                             | \[95\]       |
 | 2018年12月20日 | Webtoonist Day                                                                |                                                             |              |
 | 2019年7月27日  | [TGC TOYAMA 2019 by TOKYO GIRLS COLLECTION](../Page/東京女孩展演.md "wikilink")     | 富山市综合体育館                                                    | \[96\]       |
-| 2019年9月7日   | [第29届 東京女孩展演 2019 AUTUMN/WINTER](../Page/東京女孩展演.md "wikilink")                | [琦玉超级竞技场](https://zh.wikipedia.org/wiki/琦玉超级竞技场 "wikilink") |              |
-| 2019年7月27日  | [TGC KITAKYUSHU 2019 by TOKYO GIRLS COLLECTION](../Page/東京女孩展演.md "wikilink") | 西日本综合展示場新館                                                  |              |
+| 2019年9月7日   | [第29届 東京女孩展演 2019 AUTUMN/WINTER](../Page/東京女孩展演.md "wikilink")                | [琦玉超级竞技场](https://zh.wikipedia.org/wiki/琦玉超级竞技场 "wikilink") | \[97\]       |
+| 2019年10月5日  | [TGC KITAKYUSHU 2019 by TOKYO GIRLS COLLECTION](../Page/東京女孩展演.md "wikilink") | 西日本综合展示場新館                                                  |              |
 
 ## 獎項
 
@@ -523,20 +535,20 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <td><p>新人獎</p></td>
 <td><p>IZ*ONE</p></td>
 <td></td>
-<td><p>[97]</p></td>
+<td><p>[98]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2018年Mnet亚洲音乐大奖" title="wikilink">第20屆Mnet亞洲音樂大獎</a></p></td>
 <td><p>最佳女子新人奖</p></td>
 <td></td>
-<td><p>[98]</p></td>
+<td><p>[99]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>亞洲新人獎</p></td>
 <td></td>
-<td><p>[99]</p></td>
+<td><p>[100]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -546,14 +558,14 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <td><p>第33届<a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">金唱片獎</a></p></td>
 <td><p>唱片部門新人獎</p></td>
 <td></td>
-<td><p>[100]</p></td>
+<td><p>[101]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>第28届<a href="https://zh.wikipedia.org/wiki/首爾歌謠大賞" title="wikilink">首爾歌謠大賞</a></p></td>
 <td><p>新人賞</p></td>
 <td></td>
-<td><p>[101]</p></td>
+<td><p>[102]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -561,13 +573,13 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <td><p>第8届<a href="../Page/Gaon_Chart_K-POP大獎.md" title="wikilink">Gaon Chart 音樂大獎</a></p></td>
 <td><p>專輯部門年度新人獎</p></td>
 <td></td>
-<td><p>[102]</p></td>
+<td><p>[103]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/M2_X_Genie音樂獎.md" title="wikilink">M2 X Genie音樂獎</a></p></td>
-<td><p>最佳女組合</p></td>
+<td><p>最流行藝人</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -575,6 +587,14 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 </tr>
 <tr class="even">
 <td><p>最佳女子團體舞蹈獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最佳女組合</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -602,13 +622,13 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 <td><p>YouTube Top 10 Rising Stars</p></td>
 <td><p>IZ*ONE</p></td>
 <td></td>
-<td><p>[103]</p></td>
+<td><p>[104]</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>第三屆 <a href="https://zh.wikipedia.org/wiki/东亚日报" title="wikilink">dongA.com's</a> PICK⑦ 玫瑰色花路賞</p></td>
 <td></td>
-<td><p>[104]</p></td>
+<td><p>[105]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -906,3 +926,5 @@ IZ\*ONE是通過2018年6月15日至8月31日在Mnet播出的生存[實境節目]
 103.
 
 104.
+
+105.

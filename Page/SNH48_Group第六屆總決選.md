@@ -8,6 +8,43 @@ SNH48 Group第六屆偶像年度人氣總決選於5月25日启动，并于6月8�
 
 ### 直播平臺
 
+<table>
+<thead>
+<tr class="header">
+<th><p>平臺</p></th>
+<th><p>所在地</p></th>
+<th><p>直播时间</p></th>
+<th><p>备注</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>咪咕音樂</p></td>
+<td></td>
+<td><p>2019年7月27日16:48起</p></td>
+<td><p>互联网直播</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/动感101" title="wikilink">动感101</a></p></td>
+<td><p>电台直播</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
+<td><p>海外</p></td>
+<td><p>海外直播</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### 重播平臺
 
 ## 候選人員
@@ -607,37 +644,814 @@ SNH48 Group第六屆偶像年度人氣總決選於5月25日启动，并于6月8�
 
 ## 開票日演唱會
 
+1.  Overture
+2.  《魔女的诗篇》 - 2018 Top Girls（TOP16）
+3.  《Miss Victoria》 - GNZ48 Team G
+4.  《不完美》 - GNZ48 Team NIII
+5.  《聚裂变》 - GNZ48 Team Z
+6.  《HERO》 - GNZ48
+7.  《亚特兰蒂斯纪念》 - BEJ48 Team E
+8.  《未来主题曲》 - BEJ48 Team J
+9.  《速》 - BEJ48 Team B
+10. 《荣誉勋章》 - BEJ48
+11. 《花之祭》 - SNH48 Team NII
+12. 《命运的X号》 - SNH48 Team X
+13. 《预言》 - SNH48 Team SII+岛村绚沙
+14. 《夜之真理》 - SNH48 Team HII
+15. 《Twinkle Twinkle》 - 2018 Future Girls（TOP66）
+16. 《My Key》 - BlueV
+17. 《狐狸》 - DEMOON
+18. 《笔下之城》 - HO2
+19. 《天空信》 - 2018 Next Girls（TOP48）
+20. 《终无艳》 - 2018 Under Girls（TOP32）
+21. 《7 O'Clock》 - 7SENSES
+22. 《画》 - 冯薪朵
+23. 《暗羽》 - 戴萌、孔肖吟、苏杉杉、段艺璇、张语格
+24. 《粉红狙击手》 - 许佳琪、林思意、谢蕾蕾
+25. 《信念箭羽》 - 陆婷、钱蓓婷、吴哲晗
+26. 《春日》 - 黄婷婷
+27. 《一体同心》 - 莫寒、赵粤
+28. 《无罪无我》 - 李艺彤+岛村绚沙
+29. 《支柱》 - SNH48一期生
+30. 《初日》 - SNH48、BEJ48、GNZ48
+31. 《心的旅程（纪念版）》 - SNH48、BEJ48、GNZ48
+32. 《我和我的祖国》 - SNH48、BEJ48、GNZ48
+33. 《加油女孩》 - 上海观美少儿音乐剧团
+
 ## 最終結果
+
+  - 该届总选的最终结果于2019年7月27日晚间于上海[梅赛德斯-奔驰文化中心](../Page/梅赛德斯-奔驰文化中心.md "wikilink")发布，报告了截至公布日12时排在前48名的成员的姓名及得票数字。\[8\]
+  - 各队伍入选人数分布如下（兼任成员不计入相应的兼任团体及队伍中）：
+      - SNH48：26人
+          - Team SII：10人
+          - Team NII：2人
+          - Team HII：8人
+          - Team X：6人
+      - BEJ48：10人
+          - Team B：5人
+          - Team E：3人
+          - Team J：2人
+      - GNZ48：12人
+          - Team G：5人
+          - Team NIII：5人
+          - Team Z：2人
+      - IDOLS Ft：无
+
+<table>
+<thead>
+<tr class="header">
+<th><p>排位</p></th>
+<th><p>姓名</p></th>
+<th><p>所属团体</p></th>
+<th><p>所属队伍</p></th>
+<th><p>票数</p></th>
+<th><p>与上届票数比较<br />
+[9]</p></th>
+<th><p>中报</p></th>
+<th><p>速报</p></th>
+<th><p>往届排位</p></th>
+<th><p>排位升降</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>票数</p></td>
+<td><p>排名</p></td>
+<td><p>票数</p></td>
+<td><p>排名</p></td>
+<td><p>第五届</p></td>
+<td><p>第四届</p></td>
+<td><p>第三届</p></td>
+<td><p>第二届</p></td>
+<td><p>第一届</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>星光组</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李艺彤" title="wikilink">李艺彤</a></p></td>
+<td><p>SNH48</p></td>
+<td><p>Team HII</p></td>
+<td><p>1483041.5</p></td>
+<td><p>253736.25<br />
+（）</p></td>
+<td><p>489706.5</p></td>
+<td><p>1</p></td>
+<td><p>未入选</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p><a href="../Page/莫寒.md" title="wikilink">莫寒</a></p></td>
+<td><p>SNH48</p></td>
+<td><p>Team SII</p></td>
+<td><p>1222641</p></td>
+<td><p>5980.58<br />
+（）</p></td>
+<td><p>335182</p></td>
+<td><p>4</p></td>
+<td><p>46384.5</p></td>
+<td><p>32</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/段艺璇" title="wikilink">段艺璇</a></p></td>
+<td><p>BEJ48</p></td>
+<td><p>Team B</p></td>
+<td><p>1157528</p></td>
+<td><p>62562.16<br />
+（）</p></td>
+<td><p>331940.5</p></td>
+<td><p>5</p></td>
+<td><p>203846.5</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p><a href="../Page/张语格.md" title="wikilink">张语格</a></p></td>
+<td><p>SNH48</p></td>
+<td><p>Team SII</p></td>
+<td><p>965200</p></td>
+<td><p>44180.06<br />
+（）</p></td>
+<td><p>336307</p></td>
+<td><p>3</p></td>
+<td><p>未入选</p></td>
+<td><p>16</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p><a href="../Page/吴哲晗.md" title="wikilink">吴哲晗</a></p></td>
+<td><p>SNH48</p></td>
+<td><p>Team SII</p></td>
+<td><p>898753</p></td>
+<td><p>30338.16<br />
+（）</p></td>
+<td><p>367612</p></td>
+<td><p>2</p></td>
+<td><p>未入选</p></td>
+<td><p>12</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p><a href="../Page/孔肖吟.md" title="wikilink">孔肖吟</a></p></td>
+<td><p>SNH48</p></td>
+<td><p>Team SII</p></td>
+<td><p>856471</p></td>
+<td><p>29617.2<br />
+（）</p></td>
+<td><p>291855</p></td>
+<td><p>7</p></td>
+<td><p>未入选</p></td>
+<td><p>13</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p><a href="../Page/许佳琪.md" title="wikilink">许佳琪</a></p></td>
+<td><p>SNH48</p></td>
+<td><p>Team SII</p></td>
+<td><p>839586</p></td>
+<td><p>7623.46<br />
+（）</p></td>
+<td><p>265247.5</p></td>
+<td><p>8</p></td>
+<td><p>未入选</p></td>
+<td><p>7</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p><a href="../Page/宋昕冉.md" title="wikilink">宋昕冉</a></p></td>
+<td><p>SNH48</p></td>
+<td><p>Team X</p></td>
+<td><p>748662</p></td>
+<td><p>36203.44<br />
+（）</p></td>
+<td><p>304801.5</p></td>
+<td><p>6</p></td>
+<td><p>55374</p></td>
+<td><p>24</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戴萌" title="wikilink">戴萌</a></p></td>
+<td><p>SNH48</p></td>
+<td><p>Team SII</p></td>
+<td><p>710591.5</p></td>
+<td><p>4127.27<br />
+（）</p></td>
+<td><p>206677</p></td>
+<td><p>19</p></td>
+<td><p>未入选</p></td>
+<td><p>8</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p><a href="../Page/陈珂_(GNZ48).md" title="wikilink">陈珂</a></p></td>
+<td><p>GNZ48</p></td>
+<td><p>Team G</p></td>
+<td><p>660218</p></td>
+<td><p>42278.92<br />
+（）</p></td>
+<td><p>238349.5</p></td>
+<td><p>11</p></td>
+<td><p>165829</p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>唐莉佳</p></td>
+<td><p>GNZ48</p></td>
+<td><p>Team NIII</p></td>
+<td><p>637152</p></td>
+<td><p>40421.48<br />
+（）</p></td>
+<td><p>207463</p></td>
+<td><p>18</p></td>
+<td><p>未入选</p></td>
+<td><p>36</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/刘力菲" title="wikilink">刘力菲</a></p></td>
+<td><p>GNZ48</p></td>
+<td><p>Team NIII</p></td>
+<td><p>579893</p></td>
+<td><p>22412.22<br />
+（）</p></td>
+<td><p>127370.5</p></td>
+<td><p>28</p></td>
+<td><p>73176</p></td>
+<td><p>11</p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p><a href="../Page/孙芮.md" title="wikilink">孙芮</a></p></td>
+<td><p>SNH48</p></td>
+<td><p>Team SII</p></td>
+<td><p>571978</p></td>
+<td><p>9464.66<br />
+（）</p></td>
+<td><p>193357.5</p></td>
+<td><p>20</p></td>
+<td><p>未入选</p></td>
+<td><p>17</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/苏杉杉" title="wikilink">苏杉杉</a></p></td>
+<td><p>BEJ48</p></td>
+<td><p>Team E</p></td>
+<td><p>536758</p></td>
+<td><p>1021.14<br />
+（）</p></td>
+<td><p>240644.5</p></td>
+<td><p>10</p></td>
+<td><p>66619.5</p></td>
+<td><p>16</p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/费沁源" title="wikilink">费沁源</a></p></td>
+<td><p>SNH48</p></td>
+<td><p>Team HII</p></td>
+<td><p>526808</p></td>
+<td><p>25325.56<br />
+（）</p></td>
+<td><p>223566</p></td>
+<td><p>14</p></td>
+<td><p>89246</p></td>
+<td><p>5</p></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p>沈梦瑶</p></td>
+<td><p>SNH48</p></td>
+<td><p>Team HII</p></td>
+<td><p>521075</p></td>
+<td><p>35871.22<br />
+（）</p></td>
+<td><p>228053.5</p></td>
+<td><p>13</p></td>
+<td><p>未入选</p></td>
+<td><p>49</p></td>
+</tr>
+<tr class="odd">
+<td><p>高飞组</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>17</p></td>
+<td><p>钱蓓婷</p></td>
+<td><p>SNH48</p></td>
+<td><p>Team SII</p></td>
+<td><p>507247</p></td>
+<td><p>18314.36<br />
+（）</p></td>
+<td><p>169107</p></td>
+<td><p>23</p></td>
+<td><p>未入选</p></td>
+<td><p>9</p></td>
+</tr>
+<tr class="odd">
+<td><p>18</p></td>
+<td><p>左婧媛</p></td>
+<td><p>GNZ48</p></td>
+<td><p>Team NIII</p></td>
+<td><p>477344.5</p></td>
+<td><p>29262.47<br />
+（）</p></td>
+<td><p>209965.5</p></td>
+<td><p>16</p></td>
+<td><p>未入选</p></td>
+<td><p>42</p></td>
+</tr>
+<tr class="even">
+<td><p>19</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/郑丹妮" title="wikilink">郑丹妮</a></p></td>
+<td><p>GNZ48</p></td>
+<td><p>Team NIII</p></td>
+<td><p>444400.5</p></td>
+<td><p>1641.21<br />
+（）</p></td>
+<td><p>229534</p></td>
+<td><p>12</p></td>
+<td><p>83271</p></td>
+<td><p>6</p></td>
+</tr>
+<tr class="odd">
+<td><p>20</p></td>
+<td><p>张昕</p></td>
+<td><p>SNH48<br />
+GNZ48</p></td>
+<td><p>Team HII<br />
+Team NIII</p></td>
+<td><p>435220.5</p></td>
+<td></td>
+<td><p>157638</p></td>
+<td><p>25</p></td>
+<td><p>68964</p></td>
+<td><p>15</p></td>
+</tr>
+<tr class="even">
+<td><p>21</p></td>
+<td><p>袁一琦</p></td>
+<td><p>SNH48</p></td>
+<td><p>Team HII</p></td>
+<td><p>425376.5</p></td>
+<td></td>
+<td><p>172551</p></td>
+<td><p>21</p></td>
+<td><p>47979.5</p></td>
+<td><p>30</p></td>
+</tr>
+<tr class="odd">
+<td><p>22</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/许杨玉琢" title="wikilink">许杨玉琢</a></p></td>
+<td><p>SNH48</p></td>
+<td><p>Team HII</p></td>
+<td><p>410547.5</p></td>
+<td><p>25724.41<br />
+（）</p></td>
+<td><p>171973.5</p></td>
+<td><p>22</p></td>
+<td><p>79725.5</p></td>
+<td><p>7</p></td>
+</tr>
+<tr class="even">
+<td><p>23</p></td>
+<td><p><a href="../Page/谢蕾蕾.md" title="wikilink">谢蕾蕾</a></p></td>
+<td><p>GNZ48</p></td>
+<td><p>Team G</p></td>
+<td><p>394606.5</p></td>
+<td><p>21655.27<br />
+（）</p></td>
+<td><p>109243.5</p></td>
+<td><p>39</p></td>
+<td><p>未入选</p></td>
+<td><p>11</p></td>
+</tr>
+<tr class="odd">
+<td><p>24</p></td>
+<td><p>冯晓菲</p></td>
+<td><p>SNH48</p></td>
+<td><p>Team X</p></td>
+<td><p>389886</p></td>
+<td></td>
+<td><p>209854.5</p></td>
+<td><p>17</p></td>
+<td><p>65015.5</p></td>
+<td><p>18</p></td>
+</tr>
+<tr class="even">
+<td><p>25</p></td>
+<td><p>张怀瑾</p></td>
+<td><p>BEJ48</p></td>
+<td><p>Team J</p></td>
+<td><p>387488</p></td>
+<td><p>11754.72<br />
+（）</p></td>
+<td><p>123001.5</p></td>
+<td><p>34</p></td>
+<td><p>60826.5</p></td>
+<td><p>20</p></td>
+</tr>
+<tr class="odd">
+<td><p>26</p></td>
+<td><p>刘姝贤</p></td>
+<td><p>BEJ48</p></td>
+<td><p>Team B</p></td>
+<td><p>360189.5</p></td>
+<td><p>21872.63<br />
+（）</p></td>
+<td><p>157801.5</p></td>
+<td><p>24</p></td>
+<td><p>未入选</p></td>
+<td><p>59</p></td>
+</tr>
+<tr class="even">
+<td><p>27</p></td>
+<td><p>周诗雨</p></td>
+<td><p>SNH48</p></td>
+<td><p>Team NII</p></td>
+<td><p>354540.5</p></td>
+<td></td>
+<td><p>252696.5</p></td>
+<td><p>9</p></td>
+<td><p>118612.5</p></td>
+<td><p>3</p></td>
+</tr>
+<tr class="odd">
+<td><p>28</p></td>
+<td><p>胡晓慧</p></td>
+<td><p>BEJ48</p></td>
+<td><p>Team B</p></td>
+<td><p>338298.5</p></td>
+<td><p>13330.97<br />
+（）</p></td>
+<td><p>131558.5</p></td>
+<td><p>26</p></td>
+<td><p>78697.5</p></td>
+<td><p>9</p></td>
+</tr>
+<tr class="even">
+<td><p>29</p></td>
+<td><p>王晓佳</p></td>
+<td><p>SNH48</p></td>
+<td><p>Team X</p></td>
+<td><p>326029.5</p></td>
+<td></td>
+<td><p>123279</p></td>
+<td><p>33</p></td>
+<td><p>42375.5</p></td>
+<td><p>40</p></td>
+</tr>
+<tr class="odd">
+<td><p>30</p></td>
+<td><p>刘增艳</p></td>
+<td><p>SNH48</p></td>
+<td><p>Team SII</p></td>
+<td><p>303280</p></td>
+<td><p>1766.24<br />
+（）</p></td>
+<td><p>124569</p></td>
+<td><p>31</p></td>
+<td><p>47059.5</p></td>
+<td><p>31</p></td>
+</tr>
+<tr class="even">
+<td><p>31</p></td>
+<td><p><a href="../Page/姜杉.md" title="wikilink">姜杉</a></p></td>
+<td><p>SNH48</p></td>
+<td><p>Team HII</p></td>
+<td><p>299090.5</p></td>
+<td><p>102.79<br />
+（）</p></td>
+<td><p>114053</p></td>
+<td><p>37</p></td>
+<td><p>未入选</p></td>
+<td><p>28</p></td>
+</tr>
+<tr class="odd">
+<td><p>32</p></td>
+<td><p>张雨鑫</p></td>
+<td><p>SNH48</p></td>
+<td><p>Team NII</p></td>
+<td><p>294574.5</p></td>
+<td><p>2137.33<br />
+（）</p></td>
+<td><p>122638</p></td>
+<td><p>35</p></td>
+<td><p>未入选</p></td>
+<td><p>27</p></td>
+</tr>
+<tr class="even">
+<td><p>梦想组</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>33</p></td>
+<td><p>杨冰怡</p></td>
+<td><p>SNH48</p></td>
+<td><p>Team X</p></td>
+<td><p>291188.5</p></td>
+<td><p>6022.91<br />
+（）</p></td>
+<td><p>107347.5</p></td>
+<td><p>40</p></td>
+<td><p>未入选</p></td>
+<td><p>23</p></td>
+</tr>
+<tr class="even">
+<td><p>34</p></td>
+<td><p>方琪</p></td>
+<td><p>GNZ48</p></td>
+<td><p>Team Z</p></td>
+<td><p>289940</p></td>
+<td></td>
+<td><p>212594.5</p></td>
+<td><p>15</p></td>
+<td><p>109376.5</p></td>
+<td><p>4</p></td>
+</tr>
+<tr class="odd">
+<td><p>35</p></td>
+<td><p>刘胜男</p></td>
+<td><p>BEJ48</p></td>
+<td><p>Team E</p></td>
+<td><p>275202</p></td>
+<td></td>
+<td><p>93125.5</p></td>
+<td><p>47</p></td>
+<td><p>38227.5</p></td>
+<td><p>44</p></td>
+</tr>
+<tr class="even">
+<td><p>36</p></td>
+<td><p>徐子轩</p></td>
+<td><p>SNH48</p></td>
+<td><p>Team SII</p></td>
+<td><p>274970</p></td>
+<td><p>7690.08<br />
+（）</p></td>
+<td><p>125931.5</p></td>
+<td><p>30</p></td>
+<td><p>未入选</p></td>
+<td><p>22</p></td>
+</tr>
+<tr class="odd">
+<td><p>37</p></td>
+<td><p>曾艾佳</p></td>
+<td><p>GNZ48</p></td>
+<td><p>Team G</p></td>
+<td><p>267467.5</p></td>
+<td></td>
+<td><p>未入选</p></td>
+<td><p>55628.5</p></td>
+<td><p>23</p></td>
+<td><p>未入选</p></td>
+</tr>
+<tr class="even">
+<td><p>38</p></td>
+<td><p><a href="../Page/张琼予.md" title="wikilink">张琼予</a></p></td>
+<td><p>GNZ48<br />
+SNH48</p></td>
+<td><p>Team G<br />
+Team X</p></td>
+<td><p>264607</p></td>
+<td><p>12644.62<br />
+（）</p></td>
+<td><p>124153.5</p></td>
+<td><p>32</p></td>
+<td><p>72342.5</p></td>
+<td><p>13</p></td>
+</tr>
+<tr class="odd">
+<td><p>39</p></td>
+<td><p>沈小爱</p></td>
+<td><p>BEJ48</p></td>
+<td><p>Team B</p></td>
+<td><p>256268</p></td>
+<td></td>
+<td><p>131135.5</p></td>
+<td><p>27</p></td>
+<td><p>57638</p></td>
+<td><p>21</p></td>
+</tr>
+<tr class="even">
+<td><p>40</p></td>
+<td><p>汪佳翎</p></td>
+<td><p>SNH48</p></td>
+<td><p>Team X</p></td>
+<td><p>247931</p></td>
+<td></td>
+<td><p>104665.5</p></td>
+<td><p>41</p></td>
+<td><p>72350</p></td>
+<td><p>12</p></td>
+</tr>
+<tr class="odd">
+<td><p>41</p></td>
+<td><p>黄恩茹</p></td>
+<td><p>BEJ48</p></td>
+<td><p>Team J</p></td>
+<td><p>245999</p></td>
+<td><p>3629.42<br />
+（）</p></td>
+<td><p>112582</p></td>
+<td><p>38</p></td>
+<td><p>未入选</p></td>
+<td><p>38</p></td>
+</tr>
+<tr class="even">
+<td><p>42</p></td>
+<td><p>李星羽</p></td>
+<td><p>SNH48</p></td>
+<td><p>Team X</p></td>
+<td><p>237810.5</p></td>
+<td></td>
+<td><p>104412.5</p></td>
+<td><p>42</p></td>
+<td><p>72117.5</p></td>
+<td><p>14</p></td>
+</tr>
+<tr class="odd">
+<td><p>43</p></td>
+<td><p>宋雨珊</p></td>
+<td><p>SNH48</p></td>
+<td><p>Team HII</p></td>
+<td><p>236681.5</p></td>
+<td></td>
+<td><p>126508</p></td>
+<td><p>29</p></td>
+<td><p>78773</p></td>
+<td><p>8</p></td>
+</tr>
+<tr class="even">
+<td><p>44</p></td>
+<td><p>青钰雯</p></td>
+<td><p>BEJ48</p></td>
+<td><p>Team B</p></td>
+<td><p>203389</p></td>
+<td><p>3677.12<br />
+（）</p></td>
+<td><p>99724.5</p></td>
+<td><p>44</p></td>
+<td><p>56650.5</p></td>
+<td><p>22</p></td>
+</tr>
+<tr class="odd">
+<td><p>45</p></td>
+<td><p>朱怡欣</p></td>
+<td><p>GNZ48</p></td>
+<td><p>Team G</p></td>
+<td><p>184111.5</p></td>
+<td></td>
+<td><p>97753.5</p></td>
+<td><p>45</p></td>
+<td><p>45790</p></td>
+<td><p>34</p></td>
+</tr>
+<tr class="even">
+<td><p>46</p></td>
+<td><p>杨媛媛</p></td>
+<td><p>GNZ48</p></td>
+<td><p>Team Z</p></td>
+<td><p>180939.5</p></td>
+<td></td>
+<td><p>未入选</p></td>
+<td><p>52283.5</p></td>
+<td><p>26</p></td>
+<td><p>未入选</p></td>
+</tr>
+<tr class="odd">
+<td><p>47</p></td>
+<td><p><a href="../Page/卢静_(GNZ48).md" title="wikilink">卢静</a></p></td>
+<td><p>GNZ48</p></td>
+<td><p>Team NIII</p></td>
+<td><p>175805</p></td>
+<td><p>2182.3<br />
+（）</p></td>
+<td><p>未入选</p></td>
+<td><p>51</p></td>
+<td><p>未入选</p></td>
+<td><p>未加入</p></td>
+</tr>
+<tr class="even">
+<td><p>48</p></td>
+<td><p>陈倩楠</p></td>
+<td><p>BEJ48</p></td>
+<td><p>Team E</p></td>
+<td><p>171231</p></td>
+<td><p>4707.28<br />
+（）</p></td>
+<td><p>未入选</p></td>
+<td><p>44808</p></td>
+<td><p>35</p></td>
+<td><p>37</p></td>
+</tr>
+</tbody>
+</table>
+
+  - BEJ48前16名
+
+| BEJ48前16名 |
+| --------- |
+| 排位        |
+| 1         |
+| 2         |
+| 3         |
+| 4         |
+| 5         |
+| 6         |
+| 7         |
+| 8         |
+| 9         |
+| 10        |
+| 11        |
+| 12        |
+| 13        |
+| 14        |
+| 15        |
+| 16        |
+
+  - GNZ48前16名
+
+| GNZ48前16名 |
+| --------- |
+| 排位        |
+| 1         |
+| 2         |
+| 3         |
+| 4         |
+| 5         |
+| 6         |
+| 7         |
+| 8         |
+| 9         |
+| 10        |
+| 11        |
+| 12        |
+| 13        |
+| 14        |
+| 15        |
+| 16        |
 
 ## 汇报与奖励
 
 ### 音樂及MV作品
 
-  - TOP 1：获得第一名的成员将发行个人EP，制作个人MV\[8\]。
-  - TOP 2-3：拍摄个人总选汇报PV作品\[9\]。
-  - 星光組（TOP 1-16）：参与由EP专辑录制，赴海外或亚太地区拍摄总选汇报MV作品\[10\]。
-  - 高飛組（TOP 17-32）：参与由EP专辑录制，赴海外或亚太地区拍摄总选汇报MV作品\[11\]。
-  - 夢想組（TOP 33-48）：参与由EP专辑录制，赴海外或亚太地区拍摄总选汇报MV作品\[12\]。
+  - TOP 1：获得第一名的成员将发行个人EP，制作个人MV\[10\]。
+  - TOP 2-3：拍摄个人总选汇报PV作品\[11\]。
+  - 星光組（TOP 1-16）：参与由EP专辑录制，赴[日本](../Page/日本.md "wikilink")拍摄总选汇报MV作品\[12\]。
+  - 高飛組（TOP 17-32）：参与由EP专辑录制，赴海外或亚太地区拍摄总选汇报MV作品\[13\]。
+  - 夢想組（TOP 33-48）：参与由EP专辑录制，赴海外或亚太地区拍摄总选汇报MV作品\[14\]。
 
 ### TOP 16个人资源
 
-  - TOP 1：对连续两年获得SNH48 Group偶像年度人气总决选第一名的成员，运营商会将该成员划入“[SNH48 Group明星殿堂](https://zh.wikipedia.org/wiki/SNH48#SNH48_Group明星殿堂 "wikilink")”，并设立有关成员的个人工作室\[13\]。
-  - TOP 3：获得TOP 3的成员将在总选后获得大幅展示广告，并为有关成员配置“个人推广资源包”。TOP 3成员将举办个人Fan Meeting，拍摄个人定制时尚大片。而且TOP3成员的个人巨幅照片将在[SNH48星梦剧院内的荣誉墙进行常年展示](https://zh.wikipedia.org/wiki/SNH48星梦剧院 "wikilink")\[14\]。
-  - TOP 4-16：获得TOP 4-16的成员均会举办个人生日会并拍摄个人时尚大片\[15\]。
+  - TOP 1：对连续两年获得SNH48 Group偶像年度人气总决选第一名的成员，运营商会将该成员划入“[SNH48 Group明星殿堂](https://zh.wikipedia.org/wiki/SNH48#SNH48_Group明星殿堂 "wikilink")”，并设立有关成员的个人工作室\[15\]。
+  - TOP 3：获得TOP 3的成员将在总选后获得大幅展示广告，并为有关成员配置“个人推广资源包”。TOP 3成员将举办个人Fan Meeting，拍摄个人定制时尚大片。而且TOP3成员的个人巨幅照片将在[SNH48星梦剧院内的荣誉墙进行常年展示](https://zh.wikipedia.org/wiki/SNH48星梦剧院 "wikilink")\[16\]。
+  - TOP 4-16：获得TOP 4-16的成员均会举办个人生日会并拍摄个人时尚大片\[17\]。
 
 ### 影視、綜藝、代言相關資源
 
-TOP 48成员将优先获得电影、电视剧及网络剧，综艺节目及其他各类推广资源。有关成员将优先参演丝芭影视自制剧集、外部邀请综艺及运营商自制综艺，以及优先获得各类商业品牌的合作和代言资格\[16\]。
+TOP 48成员将优先获得电影、电视剧及网络剧，综艺节目及其他各类推广资源。有关成员将优先参演丝芭影视自制剧集、外部邀请综艺及运营商自制综艺，以及优先获得各类商业品牌的合作和代言资格\[18\]。
 
 ### 各地分团TOP 16资源
 
-各分团的TOP16成员将参与该分团春季单EP主打歌录制，并根据排名参与拍摄MV。进入本届总决选排名的前48名的各分团的成员在获得本届总决选各项相应资源的同时，也将获得各分团的推广资源及分团主办的年度平面时尚大片拍摄等激励\[17\]。
+各分团的TOP16成员将参与该分团春季单EP主打歌录制，并根据排名参与拍摄MV。进入本届总决选排名的前48名的各分团的成员在获得本届总决选各项相应资源的同时，也将获得各分团的推广资源及分团主办的年度平面时尚大片拍摄等激励\[19\]。
 
 ### 「SNH48總決選榜」獎勵
 
 ### 其他激励与回报
 
-TOP 32星光组和高飞组的成员们将有机会参与SNH48海外特别公演、Fan Meeting、握手会等在亚洲落地活动。入选成员将分别在SNH48、BEJ48、GNZ48星梦剧院轮流举行第五届年度偶像人气总决选纪念及答谢公演并同步举行答谢握手会活动\[18\]。
+TOP 32星光组和高飞组的成员们将有机会参与SNH48海外特别公演、Fan Meeting、握手会等在亚洲落地活动。入选成员将分别在SNH48、BEJ48、GNZ48星梦剧院轮流举行第五届年度偶像人气总决选纪念及答谢公演并同步举行答谢握手会活动\[20\]。
 
 ## 註釋說明
 
@@ -667,7 +1481,9 @@ TOP 32星光组和高飞组的成员们将有机会参与SNH48海外特别公演
 8.
 
 9.
+
 10.
+
 11.
 12.
 13.
@@ -676,3 +1492,5 @@ TOP 32星光组和高飞组的成员们将有机会参与SNH48海外特别公演
 16.
 17.
 18.
+19.
+20.

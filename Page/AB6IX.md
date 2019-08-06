@@ -206,10 +206,10 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年7月12日</p></td>
+<td><p>2019年7月12、19日</p></td>
 <td><p>MBC</p></td>
 <td><p>My Little Television(第二季)</p></td>
-<td><p>全員</p></td>
+<td><p>全員(朴佑鎭因傷缺席)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -316,6 +316,9 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 | 2019/07/07 | 美國  | KCON 2019 NY                 |
 | 2019/07/17 | 哈薩克 | KPOP MEGA CONCERT IN ALMATY  |
 | 2019/07/22 | 韓國  | 2019 ULSAN SUMMER FESTIVAL   |
+| 2019/08/09 | 日本  | 2019 Next generation live    |
+| 2019/08/17 | 美國  | KCON 2019 LA                 |
+| 2019/08/23 | 韓國  | 2019 K-World Festa           |
 | 2019/10/19 | 韓國  | 2019 BUSAN ONE ASIA FESTIVAL |
 
 ## 獎項與榮譽
@@ -358,6 +361,36 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 | [Mnet](../Page/Mnet媒體.md "wikilink") |
 | 0                                    |
 | 一位總數：2                               |
+
+### 頒獎典禮獲獎及提名
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>名稱</p></th>
+<th><p>獎項</p></th>
+<th><p>提名項目</p></th>
+<th><p>結果</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p><a href="../Page/M2_X_Genie音樂獎.md" title="wikilink">M2 X Genie音樂獎</a></p></td>
+<td><p>最佳男新人</p></td>
+<td><p>AB6IX</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Genie Music Next Generation Star</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 備註與參考資料
 

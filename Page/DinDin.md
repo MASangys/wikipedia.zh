@@ -35,7 +35,7 @@
   - 《[自討苦吃](../Page/自討苦吃.md "wikilink")2》（2018，JTBC2）
   - 《[看見你的声音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")6》（2019，Mnet）
   - 《[為什麼來我家](../Page/為什麼來我家_\(韓國綜藝\).md "wikilink") 》（2019，Channel A）
-  - 《[玩什麼好呢](https://zh.wikipedia.org/wiki/玩什麼好呢 "wikilink") 》（2019，MBC）
+  - 《[玩什麼好呢](../Page/玩什麼好呢.md "wikilink") 》（2019，MBC）
 
 ## 電視剧
 

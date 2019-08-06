@@ -1,10 +1,10 @@
 -----
 
-TWISTERELLA \[1\]於2008年組成，四位樂隊成員包括Karen Chan (主音及鍵盤)、Hanes Cheung (結他手、Synth 及Programming)、Sammer Wong (低音結他手) 與 Joe Ngan (鼓手)。樂隊於2018年推出首張專輯\[2\]，並以12吋黑膠發行，其後於各大公開演出場合與香港影像藝術家Crystal Bug合作，以影音同步的視覺效果配合其現場表演，為樂隊帶來高度評價，亦為更多觀眾所認識。
+TWISTERELLA \[1\]於2008年組成，四位樂隊成員包括Karen Chan (主音及鍵盤)、Hanes Cheung (結他手、Synth 及Programming)、Sammer Wong (低音結他手) 與 Joe Ngan (鼓手)。樂隊於2018年推出首張專輯\[2\]，並以12吋黑膠發行，其後於各大公開演出場合與香港影像藝術家Crystal Bug合作\[3\]，以影音同步的視覺效果配合其現場表演，為樂隊帶來高度評價，亦為更多觀眾所認識。
 
 樂隊深受 80/90 年代瞪鞋(shoegaze) 及噪音(noisenik) 樂隊影響，故亦取名自著名英國瞪鞋樂隊 RIDE 一經典名曲。TWISTERELLA 的甜美噪音曲風結集夢幻流行 (dream pop)、後龐克 (post punk)、瞪鞋 (shoegaze) 及噪音流行 (noise pop) 元素，曲風賦予沉重氛圍，同時瀰漫漸進爆炸力與夢幻飄浮的意境。
 
-由於名字與另一來自印尼的樂隊名字相同，TWISTERELLA 有時亦寫作TWISTERELLA\*，以茲識別。
+由於名字與另一來自印尼的樂隊名字相同，TWISTERELLA 有時亦寫作TWISTERELLA\*，以茲識別。\[4\]
 
 
 
@@ -53,7 +53,7 @@ TWISTERELLA \[1\]於2008年組成，四位樂隊成員包括Karen Chan (主音�
 <tbody>
 <tr class="odd">
 <td><p>2019-03</p></td>
-<td><p>THAT WE GOT TO SUFFER[3]</p></td>
+<td><p>THAT WE GOT TO SUFFER[5]</p></td>
 <td><p>單曲 (卡式帶)</p></td>
 <td><p><u>Side A:</u> 1. That We Got To Suffer (live)</p>
 <p>2. Forced Disappearance (live)</p>
@@ -64,7 +64,7 @@ TWISTERELLA \[1\]於2008年組成，四位樂隊成員包括Karen Chan (主音�
 </tr>
 <tr class="even">
 <td><p>2018-12</p></td>
-<td><p>SEASONS OVER THE YEARS[4]</p></td>
+<td><p>SEASONS OVER THE YEARS[6]</p></td>
 <td><p>大碟 (12"黑膠)</p></td>
 <td><p><u>Side A:</u> 1. Stay Away 7:13</p>
 <p>2. Stationism 3:40</p>
@@ -79,7 +79,7 @@ TWISTERELLA \[1\]於2008年組成，四位樂隊成員包括Karen Chan (主音�
 </tr>
 <tr class="odd">
 <td><p>2015-04</p></td>
-<td><p>Stay Away[5]</p></td>
+<td><p>Stay Away[7]</p></td>
 <td><p>單曲 (CD)</p></td>
 <td><p>1. Stay Away 4:24 2. Falling 3:47</p></td>
 <td><p>Song Writed by Twisterella* Produced &amp; Recorded by Hanes Cheung</p>
@@ -88,7 +88,7 @@ TWISTERELLA \[1\]於2008年組成，四位樂隊成員包括Karen Chan (主音�
 </tr>
 <tr class="even">
 <td><p>2009-09</p></td>
-<td><p>One[6]</p></td>
+<td><p>One[8]</p></td>
 <td><p>迷你專輯 (CD)</p></td>
 <td><p>1. Paradise 2:53 2. Fairy Play 2:34</p>
 <p>3. Just Friends 4:05</p></td>
@@ -101,19 +101,13 @@ TWISTERELLA \[1\]於2008年組成，四位樂隊成員包括Karen Chan (主音�
 
 ## 參考資料
 
-## 外部連結
 
-[TWISTERELLA Bandcamp](https://twisterella.bandcamp.com/)
-
-[TWISTERELLA YouTube頻道](https://www.youtube.com/channel/UCvp99qgsqiCkel1PWhDcpwA)
-
-[TWISTERELLA Facebook專頁](https://www.facebook.com/twisterella.hk)
-
-[TWISTERELLA Instagram](http://instagram.com/twisterella_hk)
 
 1.
 2.
 3.
 4.
 5.
-6.
+6.   《Seasons Over the Years》Twisterella|url=[https://www.boom-asia.com/zh/on-in-the-month/19-jan-2019-sat-%e3%80%8aseasons-over-the-years%e3%80%8btwisterella/|accessdate=2018-12-25|author=|date=|format=|publisher=BOOM|language=](https://www.boom-asia.com/zh/on-in-the-month/19-jan-2019-sat-%e3%80%8aseasons-over-the-years%e3%80%8btwisterella/%7Caccessdate=2018-12-25%7Cauthor=%7Cdate=%7Cformat=%7Cpublisher=BOOM%7Clanguage=)}}
+7.
+8.

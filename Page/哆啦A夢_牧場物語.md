@@ -22,7 +22,7 @@
 
 ## 外部連結
 
-  - [官方網頁 (日本)](https://bd.bn-ent.net/l)
+  - [官方網頁 (日本)](https://bd.bn-ent.net/)
 
 [Category:2019年電子遊戲](https://zh.wikipedia.org/wiki/Category:2019年電子遊戲 "wikilink") [Category:經營模擬遊戲](https://zh.wikipedia.org/wiki/Category:經營模擬遊戲 "wikilink") [Category:生活模擬遊戲](https://zh.wikipedia.org/wiki/Category:生活模擬遊戲 "wikilink") [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink") [Category:牧場物語系列](https://zh.wikipedia.org/wiki/Category:牧場物語系列 "wikilink") [Category:多啦A夢](https://zh.wikipedia.org/wiki/Category:多啦A夢 "wikilink") [Category:任天堂Switch遊戲](https://zh.wikipedia.org/wiki/Category:任天堂Switch遊戲 "wikilink") [Category:任天堂Switch獨占遊戲](https://zh.wikipedia.org/wiki/Category:任天堂Switch獨占遊戲 "wikilink") [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink") [Category:官方繁体中文化遊戲](https://zh.wikipedia.org/wiki/Category:官方繁体中文化遊戲 "wikilink")
 

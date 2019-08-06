@@ -8,7 +8,7 @@
 
 演唱會以香港為首站演出，於2009年7月16至19日在[香港體育館](../Page/香港體育館.md "wikilink")（俗稱紅磡體育館）舉行《Dream Wedding Leon Live Summer 09》演唱會，合共演出四場\[4\]。演唱會以三面舞台設計\[5\]，入座率接近全場滿座，有不法之徒在首場演唱會舉行期間向警方虛報炸彈，但未有造成影響\[6\]\[7\]。現場觀眾分別來自香港、[中國內地](https://zh.wikipedia.org/wiki/中國內地 "wikilink")、[台灣及](https://zh.wikipedia.org/wiki/台灣 "wikilink")[韓國等地](https://zh.wikipedia.org/wiki/韓國 "wikilink")，同時也有具知度的各界人士前來觀看演唱會，包括當時的[香港特別行政區行政長官](../Page/香港特別行政區行政長官.md "wikilink")[曾蔭權](../Page/曾蔭權.md "wikilink")[爵士](../Page/爵士.md "wikilink")及其他演藝界人士\[8\]。2009年7月18日，[颱風莫拉菲靠近香港](../Page/颱風莫拉菲_\(2009年\).md "wikilink")，[香港天文台](../Page/香港天文台.md "wikilink")發出[三號強風信號](../Page/三號強風信號.md "wikilink")，第三及第四場演唱均在颱風影響下順利順利舉行\[9\]\[10\]。
 
-2009年8月22日，黎明在[廣州體育館舉行](https://zh.wikipedia.org/wiki/廣州體育館 "wikilink")《黎明Dream Wedding世界巡迴演唱會》的廣州站演出，演出內容大致與香港站相同，喇叭及道具等均由香港運到廣州當地\[11\]\[12\]，其後於2009年11月21日在佛山嶺南明珠體育館進行演唱\[13\]。完成佛山站的演唱後，黎明到[美國進行巡迴演唱](https://zh.wikipedia.org/wiki/美國 "wikilink")，分別於2009年12月19日在大西洋城的印度宮殿大賭場體育館及2009年12月26日在拉斯維加斯的[美高梅大酒店](../Page/美高梅大酒店.md "wikilink")花園體育館舉行演唱會\[14\]。2010年1月1日，黎明在澳門的[金光綜藝館](../Page/金光綜藝館.md "wikilink")進行演唱\[15\]，其後於2010年1月9日在深圳體育館進行《黎明Dream Wedding世界巡迴演唱會》的最後一場演唱，作為第七屆《全球通演出季》的閉幕演出\[16\]。
+2009年8月22日，黎明在[廣州體育館舉行](https://zh.wikipedia.org/wiki/廣州體育館 "wikilink")《黎明Dream Wedding世界巡迴演唱會》的廣州站演出\[11\]，演出內容大致與香港站相同，喇叭及道具等均由香港運到廣州當地\[12\]\[13\]，其後於2009年11月21日在佛山嶺南明珠體育館進行演唱\[14\]。完成佛山站的演唱後，黎明到[美國進行巡迴演唱](https://zh.wikipedia.org/wiki/美國 "wikilink")，分別於2009年12月19日在大西洋城的印度宮殿大賭場體育館及2009年12月26日在拉斯維加斯的[美高梅大酒店](../Page/美高梅大酒店.md "wikilink")花園體育館舉行演唱會\[15\]。2010年1月1日，黎明在澳門的[金光綜藝館](../Page/金光綜藝館.md "wikilink")進行演唱\[16\]\[17\]，其後於2010年1月9日在深圳體育館進行《黎明Dream Wedding世界巡迴演唱會》的最後一場演唱，作為第七屆《全球通演出季》的閉幕演出\[18\]。
 
 《黎明Dream Wedding世界巡迴演唱會》的演唱時間表如下：
 
@@ -77,7 +77,7 @@
 
 ## 影碟發行
 
-《Dream Wedding Leon Live Summer 09》演唱會[DVD於](https://zh.wikipedia.org/wiki/DVD "wikilink")2009年8月26日發行，演唱曲目如下\[17\]：
+《Dream Wedding Leon Live Summer 09》演唱會[DVD於](https://zh.wikipedia.org/wiki/DVD "wikilink")2009年8月26日發行，演唱曲目如下\[19\]：
 
 <div style="-moz-column-count:3; column-count:3;">
 
@@ -135,3 +135,5 @@
 15.
 16.
 17.
+18.
+19.

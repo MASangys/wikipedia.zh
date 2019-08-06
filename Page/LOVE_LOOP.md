@@ -23,12 +23,12 @@
 
 ### Oricon公信榜
 
-| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量                           | 總銷量                                   | 參考資料 |
-| ---------------------------------------- | ---- | ----------------------------- | ------------------------------------- | ---- |
-| 專輯日榜                                     |      | style="text-align:center;" "| | style="text-align:center;"rowspan="4| |      |
-| 專輯週榜                                     |      |                               |                                       |      |
-| 專輯月榜                                     |      |                               |                                       |      |
-| 專輯年榜                                     |      |                               |                                       |      |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量                                | 總銷量                                   | 參考資料  |
+| ---------------------------------------- | ---- | ---------------------------------- | ------------------------------------- | ----- |
+| 專輯日榜                                     | \#2  | style="text-align:center;" "|8,393 | style="text-align:center;"rowspan="4| | \[2\] |
+| 專輯週榜                                     |      |                                    |                                       |       |
+| 專輯月榜                                     |      |                                    |                                       |       |
+| 專輯年榜                                     |      |                                    |                                       |       |
 
 ## 參考資料
 
@@ -39,3 +39,4 @@
 [Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink") [Category:GOT7音樂專輯](https://zh.wikipedia.org/wiki/Category:GOT7音樂專輯 "wikilink") [Category:日語音樂專輯](https://zh.wikipedia.org/wiki/Category:日語音樂專輯 "wikilink")
 
 1.
+2.

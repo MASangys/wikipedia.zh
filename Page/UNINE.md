@@ -172,13 +172,13 @@
 
 ### 綜藝節目
 
-|                 |                                                     |                                                                    |      |
-| --------------- | --------------------------------------------------- | ------------------------------------------------------------------ | ---- |
-| 日期              | 播放頻道/平台                                             | 節目名稱                                                               | 備註   |
-| 2019年1月21日-4月6日 | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink") | 《[青春有你](../Page/青春有你.md "wikilink")》                               | 共12期 |
-| 2019年5月9日-6月13日 | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink") | 《[UNINE蹦吧](https://zh.wikipedia.org/wiki/UNINE蹦吧 "wikilink")》\[7\] | 共6期  |
-| 2019年7月4日-      | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink") | 《Vlog營業中》                                                          |      |
-| 2019年7月18日-     | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink") | 《UNINE蹦吧－夏日季》                                                      |      |
+|                 |                                                     |                                                                    |       |
+| --------------- | --------------------------------------------------- | ------------------------------------------------------------------ | ----- |
+| 日期              | 播放頻道/平台                                             | 節目名稱                                                               | 備註    |
+| 2019年1月21日-4月6日 | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink") | 《[青春有你](../Page/青春有你.md "wikilink")》                               | 共12期  |
+| 2019年5月9日-6月13日 | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink") | 《[UNINE蹦吧](https://zh.wikipedia.org/wiki/UNINE蹦吧 "wikilink")》\[7\] | 共6期   |
+| 2019年7月4日-7月11日 | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink") | 《Vlog營業中》                                                          | 第1、2期 |
+| 2019年7月18日-8月1日 | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink") | 《UNINE蹦吧－夏日季》                                                      | 共3期   |
 
 ## 活动
 
@@ -334,26 +334,47 @@
 </tr>
 <tr class="even">
 <td><center>
-<p>2019年</p></td>
+<p>2019年4月11日</p></td>
+<td><center>
+<p><a href="../Page/南方人物周刊.md" title="wikilink">南方人物周刊</a> <a href="../Page/青春有你.md" title="wikilink">青春有你</a>特輯</p></td>
+<td><p><a href="../Page/UNINE.md" title="wikilink">UNINE</a>所有成員</p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p>2019年4月30日</p></td>
 <td><center>
 <p><a href="../Page/时尚芭莎.md" title="wikilink">时尚芭莎</a>BAZAAR电子刊 <a href="../Page/UNINE.md" title="wikilink">UNINE</a>芭莎首封[16]</p></td>
 <td><p><a href="../Page/UNINE.md" title="wikilink">UNINE</a>所有成員</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
-<p>2019年</p></td>
+<p>2019年5月24日</p></td>
 <td><center>
 <p><a href="../Page/UNINE.md" title="wikilink">UNINE</a> POSH 创刊号电子刊[17]</p></td>
 <td><p><a href="../Page/UNINE.md" title="wikilink">UNINE</a>所有成員</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
-<p>2019年</p></td>
+<p>2019年6月12日</p></td>
 <td><center>
 <p>ELLEMEN新青年电子刊[18]</p></td>
 <td><p><a href="../Page/UNINE.md" title="wikilink">UNINE</a>所有成員</p></td>
 </tr>
+<tr class="even">
+<td><center>
+<p>2019年7月18日</p></td>
+<td><center>
+<p>費加羅 mode 8月刊</p></td>
+<td><p>姚明明、李汶翰、胡春楊巴黎男裝周</p></td>
+</tr>
 <tr class="odd">
+<td><center>
+<p>2019年7月25日</p></td>
+<td><center>
+<p>chicteen8月刊</p></td>
+<td><p>陳宥維</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

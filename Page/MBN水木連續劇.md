@@ -135,7 +135,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2019年7月10日－<br />
 2019年8月15日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Level_Up" title="wikilink">Level Up</a><br />
+<td style="text-align: center;"><p><a href="../Page/Level_Up.md" title="wikilink">Level Up</a><br />
 </p></td>
 <td style="text-align: center;"><p>12</p></td>
 <td style="text-align: center;"><p><a href="../Page/成勛.md" title="wikilink">成勛</a>、<a href="../Page/韓寶凜.md" title="wikilink">韓寶凜</a>、<a href="https://zh.wikipedia.org/wiki/車善玗" title="wikilink">車善玗</a>、<a href="../Page/姜星.md" title="wikilink">姜星</a>、<a href="../Page/安信源.md" title="wikilink">安信源</a></p></td>
@@ -146,7 +146,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年8月21日－<br />
 2019年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/優雅的家" title="wikilink">優雅的家</a><br />
+<td style="text-align: center;"><p><a href="../Page/優雅的家.md" title="wikilink">優雅的家</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/林秀香.md" title="wikilink">林秀香</a>、<a href="../Page/李章宇.md" title="wikilink">李章宇</a>、<a href="../Page/李奎翰.md" title="wikilink">李奎翰</a>、<a href="../Page/金鎮祐.md" title="wikilink">金鎮祐</a>、<a href="../Page/孔賢珠.md" title="wikilink">孔賢珠</a></p></td>

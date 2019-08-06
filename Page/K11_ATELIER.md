@@ -19,6 +19,32 @@ K11 ATELIER學院負責向租戶和員工提供課程。
   - [廣州周大福金融中心](../Page/廣州周大福金融中心.md "wikilink")等新世界發展轄下綜合商業項目，亦設有K11 ATELIER系列辦公大樓。
   - [K11 ATELIER King's Road](https://zh.wikipedia.org/wiki/K11_ATELIER_King's_Road "wikilink") - 將於2019年底交付使用。\[8\]
 
+## 途經之公共交通服務
+
+<div class="NavFrame collapsed" style="color: black; background-color: #FFFF00; margin: 0 auto; padding: 0 10px; text-align: left;">
+
+<div class="NavHead" style="background-color: #FFFF00; margin: 0 auto; padding: 0 10px; font-weight:normal;">
+
+**交通路線列表**
+
+</div>
+
+<div class="NavContent" style="background-color: #FFFF00; margin: 0 auto; padding: 0 10px;">
+
+  - [港鐵](../Page/港鐵.md "wikilink")
+
+<!-- end list -->
+
+  - <font color="{{西鐵綫色彩}}">█</font>[西鐵綫](../Page/西鐵綫.md "wikilink")：[尖東站](../Page/尖東站.md "wikilink")J出口
+
+<!-- end list -->
+
+  - [巴士](../Page/香港巴士.md "wikilink")
+
+</div>
+
+</div>
+
 ## 参考資料
 
 <references />

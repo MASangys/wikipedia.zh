@@ -76,7 +76,7 @@ Photography版：內含寫真集（共1款）、CD（共2款）、自拍小卡�
 
 ## 參考資料
 
-[Category:2019年音乐专辑](https://zh.wikipedia.org/wiki/Category:2019年音乐专辑 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink")
+[Category:2019年音乐专辑](https://zh.wikipedia.org/wiki/Category:2019年音乐专辑 "wikilink") [Category:韩国音乐专辑](https://zh.wikipedia.org/wiki/Category:韩国音乐专辑 "wikilink") [Category:Oh_My_Girl音樂專輯](https://zh.wikipedia.org/wiki/Category:Oh_My_Girl音樂專輯 "wikilink")
 
 1.
 2.

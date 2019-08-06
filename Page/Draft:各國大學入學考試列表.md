@@ -1,0 +1,151 @@
+許多國家每年定期舉辦[大學](../Page/大學.md "wikilink")入學考試，作為該國考生（通常是高中三年級學生）進入大學的依據。
+
+部分國家的大學入學考試同時也是該國高中的畢業考（高三最後一次期末考），例如英國、德國等歐洲國家，及深受英國影響的香港。
+
+## 用途
+
+部分國家僅將大學入學考試作為甄選入學成績的一部分，也有部分國家將大學入學考試作為入學的唯一依據。除了上述兩者，部分國家採行多元入學制度（例如[中華民國](../Page/中華民國.md "wikilink")），舉辦數種大學入學管道，提供考生甄選入學、考試分發入學等多種選擇。
+
+部分國家除了舉辦一般性考試，提供本國（地區）考生報考，另外還會舉辦特殊考試或特殊招生管道，提供外國（地區）考生報考。
+
+## 本國（地）生入學考試列表
+
+部分考試會硬性規定考生報考的科目（例如中國大陸的高考要求考生必考語文、數學、外語），部分則完全自由選考（例如臺灣的學測）。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>地區</p></th>
+<th><p>名稱</p></th>
+<th><p>科目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/學科能力測驗" title="wikilink">學科能力測驗</a></p></td>
+<td><p>國文、英文、數學、社會、自然</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/指定科目考試" title="wikilink">指定科目考試</a></p></td>
+<td><p>國文、英文、數學甲、數學乙、地理、歷史、<a href="../Page/公民教育.md" title="wikilink">公民與社會</a>、物理、化學、生物</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="../Page/香港中學文憑考試.md" title="wikilink">香港中學文憑考試</a>（DSE）</p></td>
+<td><p>中國語文、英國語文、數學、<a href="https://zh.wikipedia.org/wiki/通識教育#文憑試通識教育科跨領域學習範圍比較列表" title="wikilink">通識教育</a>、選修科目（中國文學、生物、中國歷史等21科，選考2至3科）[1]</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/普通高等學校招生全國統一考試" title="wikilink">普通高等學校招生全國統一考試</a></p></td>
+<td><p>語文、數學、外語、<a href="https://zh.wikipedia.org/wiki/思想政治" title="wikilink">思想政治</a>、歷史、地理、物理、化學、生物</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/普通法入學考試" title="wikilink">普通法入學考試</a>（CLAT）</p></td>
+<td><p>英文（包括理解）、初等數學、一般知識/時事、邏輯推理、法律推理</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/心理入學考試" title="wikilink">心理入學考試</a>（PET）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/語文推理" title="wikilink">語文推理</a>、數學、英文</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="../Page/大學修學能力試驗.md" title="wikilink">大學修學能力試驗</a></p></td>
+<td><p>國文（韓文）、數學Ga卷（理組數學）、數學Na卷（文組數學）、英文、韓國歷史、探索、第二外國語/漢文（漢字及漢文經典）</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/俄羅斯高考" title="wikilink">統一國家考試</a>（USE）</p></td>
+<td><p>俄語、數學、外語、物理、化學、生物、地理、文學、歷史、社會科學、<a href="https://zh.wikipedia.org/wiki/電腦科學" title="wikilink">電腦科學</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/學術水準測驗考試" title="wikilink">學術水準測驗考試</a>（SAT）</p></td>
+<td><p>實證閱讀及寫作（Evidence-Based Reading and Writing）、寫作及語文、數學、選擇性寫作（Optional Essay）</p></td>
+</tr>
+<tr class="even">
+<td><p>{{}}</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 外國（地）生入學考試列表
+
+<table>
+<thead>
+<tr class="header">
+<th><p>地區</p></th>
+<th><p>名稱</p></th>
+<th><p>科目</p></th>
+<th><p>適用對象</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>{{}}</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>{{}}</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>{{}}</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/港澳臺僑聯招" title="wikilink">港澳臺僑聯招</a></p></td>
+<td><p>中文/英語/數學/歷史/地理/物理/化學</p></td>
+<td><p>香港、澳門、<a href="../Page/臺灣地區.md" title="wikilink">臺灣</a>、華僑學生</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本大學聯合學力測試" title="wikilink">日本大學聯合學力測試</a></p></td>
+<td><p>日語/英語/文科數學/理科數學/理科綜合（物理、化學、生物擇一）[2]</p></td>
+<td><p>各國學生</p></td>
+</tr>
+<tr class="even">
+<td><p>{{}}</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>{{}}</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>{{}}</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>{{}}</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 註釋
+
+## 參考資料
+
+1.
+2.

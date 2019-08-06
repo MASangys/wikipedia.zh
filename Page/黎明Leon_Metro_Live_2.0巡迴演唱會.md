@@ -33,6 +33,13 @@
 <td><p>1場</p></td>
 <td><p>[5]</p></td>
 </tr>
+<tr class="odd">
+<td><p>2019年12月14日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北小巨蛋" title="wikilink">台北小巨蛋</a></p></td>
+<td><p>1場</p></td>
+<td><p>[6]</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -45,3 +52,4 @@
 3.
 4.
 5.
+6.

@@ -139,17 +139,17 @@ can be useful if an episode of rhabdomyolysis is thought to be the result of an 
 
 ### 其他併發症
 
-[Compartment syndrome](../Page/腔室症候群.md "wikilink") is treated with surgery to relieve the pressure inside the muscle compartment and reduce the risk of compression on blood vessels and nerves in that area.  is the incision of the affected compartment. Often, multiple incisions are made and left open until the swelling has reduced. At that point, the incisions are closed, often requiring  (removal of non-viable tissue) and [skin grafting](https://zh.wikipedia.org/wiki/植皮 "wikilink") in the process.\[169\] The need for fasciotomy may be decreased if mannitol is used, as it can relieve muscle swelling directly.\[170\]\[171\]
+[腔室症候群](../Page/腔室症候群.md "wikilink")的患者需執行，釋放肌肉筋膜腔內的壓力，減少血管或神經受壓迫的風險；手術通常會需要製造多個切口，直到腫脹的情形顯著緩解。待腫脹消去需將切口關起時，常需要（移除死掉的組織）和[植皮](https://zh.wikipedia.org/wiki/植皮 "wikilink")\[169\]。若使用甘露醇的話，需要筋膜切開術的機率可能會減少，因為甘露醇能直接緩解肌肉腫脹的情形\[170\]\[171\]。
 
-[Disseminated intravascular coagulation](../Page/弥散性血管内凝血.md "wikilink") generally resolves when the underlying causes are treated, but [supportive measures](https://zh.wikipedia.org/wiki/疗法 "wikilink") are often required. For instance, if the  significantly and there is resultant bleeding, platelets may be administered.\[172\]
+[弥散性血管内凝血](../Page/弥散性血管内凝血.md "wikilink")通常會在原發的病因受到治療後緩解，但支持性療法仍有其必要。例如當患者有嚴重的時會不斷流血，這時就需注射血小板\[172\]。
 
 ## 預後
 
-The prognosis depends on the underlying cause and whether any complications occur. Rhabdomyolysis complicated by acute kidney impairment in patients with traumatic injury may have a [mortality rate](../Page/死亡率.md "wikilink") of 20%.\[173\] Admission to the intensive care unit is associated with a mortality of 22% in the absence of acute kidney injury, and 59% if kidney impairment occurs.\[174\] Most people who have sustained kidney impairment due to rhabdomyolysis fully recover their kidney function.\[175\]
+橫紋肌溶解症的預後取決於原發病因和是否發生併發症。併發急性腎損傷的創傷性橫紋肌溶解症有高達20%的[死亡率](../Page/死亡率.md "wikilink")\[173\]。進到加護病房治療的患者中，沒有急性腎損傷的患者死亡率約22%，腎功能受損的患者死亡率則高達59%\[174\]。因橫紋肌溶解導致持續性腎功能受損的患者，腎功能多能完全恢復\[175\]。
 
 ## 流行病學
 
-The exact number of cases of rhabdomyolysis is difficult to establish, because different definitions have been used.\[176\]\[177\] In 1995, hospitals in the U.S. reported 26,000 cases of rhabdomyolysis.\[178\] Up to 85% of people with major traumatic injuries will experience some degree of rhabdomyolysis.\[179\] Of those with rhabdomyolysis, 10–50% develop acute kidney injury.\[180\]\[181\] The risk is higher in people with a history of illicit drug use, alcohol misuse or trauma when compared to muscle diseases, and it is particularly high if multiple contributing factors occur together.\[182\] Rhabdomyolysis accounts for 7–10% of all cases of acute kidney injury in the U.S.\[183\]\[184\]
+由於橫紋肌溶解症的定義一直沒有統一，因此確切的患者人數很難統計\[176\]\[177\]。1995年，美國的醫院共回報了26,000個案例\[178\]，高達85%的重大創傷患者都會發生程度不等的橫紋肌溶解\[179\]。 Of those with rhabdomyolysis, 10–50% develop acute kidney injury.\[180\]\[181\] The risk is higher in people with a history of illicit drug use, alcohol misuse or trauma when compared to muscle diseases, and it is particularly high if multiple contributing factors occur together.\[182\] Rhabdomyolysis accounts for 7–10% of all cases of acute kidney injury in the U.S.\[183\]\[184\]
 
 Crush injuries are common in major disasters, especially in earthquakes. The aftermath of the [1988 Spitak earthquake](../Page/1988年亞美尼亞大地震.md "wikilink") prompted the establishment, in 1995, of the Renal Disaster Relief Task Force, a working group of the  (a worldwide body of kidney experts). Its volunteer doctors and nurses assisted for the first time in the [1999 İzmit earthquake](../Page/1999年伊茲密特地震.md "wikilink") in [Turkey](../Page/土耳其.md "wikilink"), where 17,480 people died, 5392 were hospitalized and 477 received dialysis, with positive results. Treatment units are generally established outside the immediate disaster area, as [aftershocks](../Page/地震序列.md "wikilink") could potentially injure or kill staff and make equipment unusable.\[185\]\[186\]
 

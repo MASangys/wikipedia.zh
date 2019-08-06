@@ -70,12 +70,12 @@ function func.eatlinks(frame)
 `               if text == target then`
 `                   text = string.sub(text, 2)`
 `               end`
-`               return '`<span style="color:#36b;cursor:pointer;">`' .. text .. '`</span>`'`
+`               return '`<span class="mFakelink_blue2" style="color:#36b;cursor:pointer;">`' .. text .. '`</span>`'`
 `           else`
 `               if (not mw.title.new(target):getContent()) and (not frame.args['nored']) then`
-`                   return '`<span style="color:#ba0000;cursor:pointer;">`' .. text .. '`</span>`'`
+`                   return '`<span class="mFakelink_red" style="color:#ba0000;cursor:pointer;">`' .. text .. '`</span>`'`
 `               else`
-`                   return '`<span style="color:#0645ad;cursor:pointer;">`' .. text .. '`</span>`'`
+`                   return '`<span class="mFakelink_blue" style="color:#0645ad;cursor:pointer;">`' .. text .. '`</span>`'`
 `               end`
 `           end`
 `       else`
@@ -84,7 +84,7 @@ function func.eatlinks(frame)
 `   end))`
 
 `   text = (string.gsub(text, '%[https?://[^\n]- ([^\n]-)%]', function(x)`
-`       return '`<span style="color:#36b;cursor:pointer;">`' .. x .. '`</span>`'`
+`       return '`<span class="mFakelink_blue2" style="color:#36b;cursor:pointer;">`' .. x .. '`</span>`'`
 `   end))`
 
 `   return text`
@@ -104,12 +104,12 @@ function func.eatlinks2(frame)
 `               if text == target then`
 `                   text = string.sub(text, 2)`
 `               end`
-`               return '`[<span style="color:#36b;cursor:pointer;">`'``   ``..``   ``text``   ``..``   ``'`</span>](https://zh.wikipedia.org/wiki/'_.._badtarget_.._' "wikilink")`'`
+`               return '`[<span class="mFakelink_blue2" style="color:#36b;cursor:pointer;">`'``   ``..``   ``text``   ``..``   ``'`</span>](https://zh.wikipedia.org/wiki/'_.._badtarget_.._' "wikilink")`'`
 `           else`
 `               if (not mw.title.new(target):getContent()) and (not frame.args['nored']) then`
-`                   return '`[<span style="color:#ba0000;cursor:pointer;">`'``   ``..``   ``text``   ``..``   ``'`</span>](https://zh.wikipedia.org/wiki/'_.._badtarget_.._' "wikilink")`'`
+`                   return '`[<span class="mFakelink_red" style="color:#ba0000;cursor:pointer;">`'``   ``..``   ``text``   ``..``   ``'`</span>](https://zh.wikipedia.org/wiki/'_.._badtarget_.._' "wikilink")`'`
 `               else`
-`                   return '`[<span style="color:#0645ad;cursor:pointer;">`'``   ``..``   ``text``   ``..``   ``'`</span>](https://zh.wikipedia.org/wiki/'_.._badtarget_.._' "wikilink")`'`
+`                   return '`[<span class="mFakelink_blue" style="color:#0645ad;cursor:pointer;">`'``   ``..``   ``text``   ``..``   ``'`</span>](https://zh.wikipedia.org/wiki/'_.._badtarget_.._' "wikilink")`'`
 `               end`
 `           end`
 `       else`
@@ -118,7 +118,7 @@ function func.eatlinks2(frame)
 `   end))`
 
 `   text = (string.gsub(text, '%[https?://[^\n]- ([^\n]-)%]', function(x)`
-`       return '`[<span style="color:#36b;cursor:pointer;">`'``   ``..``   ``x``   ``..``   ``'`</span>](https://zh.wikipedia.org/wiki/'_.._badtarget_.._' "wikilink")`'`
+`       return '`[<span class="mFakelink_blue2" style="color:#36b;cursor:pointer;">`'``   ``..``   ``x``   ``..``   ``'`</span>](https://zh.wikipedia.org/wiki/'_.._badtarget_.._' "wikilink")`'`
 `   end))`
 
 `   return text`

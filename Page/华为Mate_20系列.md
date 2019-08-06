@@ -7,6 +7,7 @@
 ## 外部链接
 
   - [华为Mate 20 Pro](https://consumer.huawei.com/cn/phones/mate20-pro/specs/)
+  - [华为 Mare 20 X（5G），5G手机，7.2"超大屏手机|华为官网](https://consumer.huawei.com/cn/phones/mate20-x-5g/)
 
 [Category:智能手机](https://zh.wikipedia.org/wiki/Category:智能手机 "wikilink") [Category:Android设备](https://zh.wikipedia.org/wiki/Category:Android设备 "wikilink") [Category:触控手机](https://zh.wikipedia.org/wiki/Category:触控手机 "wikilink") [Category:华为手机](https://zh.wikipedia.org/wiki/Category:华为手机 "wikilink") [Category:全面屏手机](https://zh.wikipedia.org/wiki/Category:全面屏手机 "wikilink") [Category:2018年面世的手机](https://zh.wikipedia.org/wiki/Category:2018年面世的手机 "wikilink")
 

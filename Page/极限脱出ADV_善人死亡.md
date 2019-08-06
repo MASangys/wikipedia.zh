@@ -8,7 +8,7 @@
 
 [Virtue's_Last_Reward_escape_the_room.png](https://zh.wikipedia.org/wiki/File:Virtue's_Last_Reward_escape_the_room.png "fig:Virtue's_Last_Reward_escape_the_room.png") 《极限脱出ADV 善人死亡》的[游戏系统分为](https://zh.wikipedia.org/wiki/游戏性 "wikilink")“小说”和“逃脱”两部分。“小说”部分中，玩家会通过[视觉小说](../Page/视觉小说.md "wikilink")片段和[非玩家角色](../Page/非玩家角色.md "wikilink")互动，推动情节发展。除了阅读屏幕显示的对白和文本，玩家不需要做出太多的互动\[1\]。在这部分中，玩家需要做出影响游戏结果的决定。[囚徒困境](../Page/囚徒困境.md "wikilink")型选项会反复出现，玩家必须选择“结盟”或“背叛”所针对的角色，双方的选择会影响最终结果\[2\]。
 
-夹杂在“小说”部分之间的“脱出”部分，玩家来到一个房间，找到逃脱的方法\[3\]。这部分以[第一人称视角呈现](https://zh.wikipedia.org/wiki/第一人称视角游戏 "wikilink")，玩家必须依照游戏设定好的方向移动\[4\]。玩家经过尋找物品解決谜题的考验，才能逃脱，不禁让人联想到[密室逃脱](../Page/密室逃脱.md "wikilink")游戏\[5\]\[6\]。有时候，玩家需要组合物件，打造解决谜题所需的工具\[7\]。谜题包括和[滑塊類遊戲等](https://zh.wikipedia.org/wiki/滑塊類遊戲 "wikilink")[智力题](https://zh.wikipedia.org/wiki/智力题 "wikilink")\[8\]。每间密室设有一个保险箱，可用两组密码打开。一组密码可解锁房间钥匙，另一组可解锁背景补充内容等咨询的隐藏文件夹\[9\]。游戏角色会给玩家提供解锁谜题的线索，此外，玩家将谜题的难易程度从“困难”改为“简单”，会得到线索\[10\]。
+夹杂在“小说”部分之间的“脱出”部分，玩家来到一个房间，找到逃脱的方法\[3\]。这部分以[第一人称视角呈现](https://zh.wikipedia.org/wiki/第一人称视角游戏 "wikilink")，玩家必须依照游戏设定好的方向移动\[4\]。玩家经过尋找物品解決谜题的考验，才能逃脱，不禁让人联想到[密室逃脱](../Page/密室逃脱.md "wikilink")游戏\[5\]\[6\]。有时候，玩家需要组合物件，打造解决谜题所需的工具\[7\]。谜题包括和[滑塊類遊戲等](https://zh.wikipedia.org/wiki/滑塊類遊戲 "wikilink")[智力题](https://zh.wikipedia.org/wiki/智力题 "wikilink")\[8\]。每间密室设有一个保险箱，可用两组密码打开。一组密码可解锁房间钥匙，另一组可解锁背景补充内容等咨询的隐藏文件夹\[9\]。游戏角色会给玩家提供解锁谜题的线索，另外，如果谜题难度由难变到易，所给的提示会更加直接\[10\]。
 
 玩家造访[流程图](../Page/流程图.md "wikilink")，可以回溯或“跳到”之前完成的“小说”和“逃出”部分，无需从头重新开始游戏\[11\]。这样，玩家可以回到之前的剧情[分支点](https://zh.wikipedia.org/wiki/沙盒类游戏 "wikilink")，作出其他决定，从其他方向引导剧情\[12\]，例如跳到之间的决定中，选择跟对手结盟或是背叛，反之亦然\[13\]。游戏共设24个结局\[14\]，初期许多结局都被鎖定，必须经过事件或了解其他剧情线的信息才能解锁。比方说，如果某一特定剧情线需要的密码没有解开，不能发展，玩家必须跳到其他剧情线，了解到密码，之后才回到原本的剧情线中\[15\]。
 
@@ -42,7 +42,7 @@
 
 鋼太郎開始創作故事大綱，和其他編劇經歷頭腦風暴，找出構思\[36\]\[37\]。投票遊戲環節融入了哲學的意義，邏輯決策會在團體和個人層面傷害到受試者\[38\]。他希望打造一支均衡的配角陣容，各種性別、性格和年齡層都有所體現\[39\]，便參考了[九型人格](../Page/九型人格.md "wikilink")\[40\]。西格瑪的個性不大突出，玩家可以輕易理解\[41\]。鋼太郎將所有配角神秘化，玩家便對他們的背景產生好奇\[42\]。同時，有些角色會故意誤導玩家判斷“真正的壞人”\[43\]。由於月球是遊戲的其中一個主題，零號三世的長相很像兔子，參考了日本民間傳說中的[月兔](../Page/月兔.md "wikilink")\[44\]。
 
-遊戲劇情的初稿也經過變動。有一幕是迪奧將克劳馥和淳平拷到水池裡，阻止他們參加測試。而迪奧原本是要對克劳馥“做出更壞的事情”，Chunsoft出於“道德上的原因”否決了這一幕，要求更改\[45\]。遊戲結束的2029年末，人類消亡，西格瑪改變了未來。後來，鋼太郎認為這個結局會讓人聯想起[2011年日本東北地方太平洋近海地震](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")。他額外加了一個不規範的結局，让凱爾登場緩和情緒\[46\]\[47\]。鋼太郎還想到一些科學和哲學概念，但這些想法最終被放棄，包括[博弈論的](https://zh.wikipedia.org/wiki/博弈論 "wikilink")[蒙提霍爾問題](../Page/蒙提霍爾問題.md "wikilink")，以及[卡普格拉综合征](../Page/卡普格拉综合征.md "wikilink")，以為認識的人被長相相同的人冒名頂替的理論\[48\]。
+遊戲劇情的初稿也經過變動。有一幕是迪奧將克劳馥和淳平拷到水池裡，阻止他們參加測試。而迪奧原本是要對克劳馥“做出更壞的事情”，Chunsoft出於“道德上的原因”否決了這一幕，要求更改\[45\]。遊戲結束的2029年末，人類消亡，西格瑪改變了未來。後來，鋼太郎認為這個結局會讓人聯想起[2011年日本東北地方太平洋近海地震](../Page/2011年日本東北地方太平洋近海地震.md "wikilink")。他額外加了一個不規範的結局，让凱爾登場緩和情緒\[46\]\[47\]。鋼太郎還想到一些科學和哲學概念，但這些想法最終被放棄，包括[博弈論的](https://zh.wikipedia.org/wiki/博弈論 "wikilink")[蒙提霍爾問題](../Page/蒙提霍爾問題.md "wikilink")，以及[卡普格拉综合征](../Page/卡普格拉综合征.md "wikilink")（以為認識的人被長相相同的人冒名頂替的理論）\[48\]。
 
 ### 在地化
 
@@ -62,13 +62,13 @@
 
 ## 评价
 
-根據[汇总媒体](../Page/汇总媒体.md "wikilink")[Metacritic](../Page/Metacritic.md "wikilink")，《善人死亡》兩個平台版本都獲得“普遍好評”\[70\]\[71\]。部分評論家認為遊戲劇情複雜，但吸引人\[72\]\[73\]\[74\]\[75\]：[GameSpot](../Page/GameSpot.md "wikilink")的海蒂·坎普斯（）認為遊戲混合了、[戲劇和](https://zh.wikipedia.org/wiki/戲劇 "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")\[76\]，《[Edge](../Page/Edge_\(杂志\).md "wikilink")》認為遊戲是“引人入勝之作，閃爍著智慧的真正火花”。之後，《Edge》指出遊戲缺乏《9小時9個人9扇門》的衝擊力\[77\]。《[Game Informer](../Page/Game_Informer.md "wikilink")》的金伯利·华莱士（）和“[Destructoid](../Page/Destructoid.md "wikilink")”的托尼·彭斯（）喜歡[大逆轉](../Page/大逆轉.md "wikilink")，但彭斯認為逆轉出現太多，帶來的啟發與其說帶來驚喜，倒不如說讓人困惑\[78\]\[79\]。RPGFan的約翰·邁克卡羅爾（）喜歡從輕鬆幽默變成憂傷再到悲痛的對白\[80\]。批評對白的只有的奧斯汀·博辛格（），說遊戲是“有史以來節奏最慢、劇本最啰嗦的冒險遊戲”\[81\]。
+根據[汇总媒体](../Page/汇总媒体.md "wikilink")[Metacritic](../Page/Metacritic.md "wikilink")，《善人死亡》兩個平台版本都獲得“普遍好評”\[70\]\[71\]。部分評論家認為遊戲劇情複雜，但吸引人\[72\]\[73\]\[74\]\[75\]：[GameSpot](../Page/GameSpot.md "wikilink")的海蒂·坎普斯（）認為遊戲混合了、[戲劇和](https://zh.wikipedia.org/wiki/戲劇 "wikilink")[科幻](https://zh.wikipedia.org/wiki/科幻 "wikilink")\[76\]，《[Edge](../Page/Edge_\(杂志\).md "wikilink")》認為遊戲是“引人入勝之作，閃爍著智慧的真正火花”。不過，《Edge》也指出遊戲缺乏《9小時9個人9扇門》的衝擊力\[77\]。《[Game Informer](../Page/Game_Informer.md "wikilink")》的金伯利·华莱士（）和“[Destructoid](../Page/Destructoid.md "wikilink")”的托尼·彭斯（）喜歡[大逆轉](../Page/大逆轉.md "wikilink")，但彭斯認為逆轉出現太多，帶來的啟發與其說帶來驚喜，倒不如說讓人困惑\[78\]\[79\]。RPGFan的約翰·邁克卡羅爾（）喜歡從輕鬆幽默變成憂傷再到悲痛的對白\[80\]。批評對白的只有的奧斯汀·博辛格（），說遊戲是“有史以來節奏最慢、劇本最啰嗦的冒險遊戲”\[81\]。
 
 角色也獲得好評\[82\]\[83\]\[84\]\[85\]。[1UP.com](../Page/1UP.com.md "wikilink")的鮑勃·麥基（）和《[Eurogamer](../Page/Eurogamer.md "wikilink")》的馬丁·羅賓遜（）表示角色有可信度，玩家很容易感同身受\[86\]\[87\]。[IGN](../Page/IGN.md "wikilink")的盧卡斯·M·托馬斯（）對每個角色的發展很滿意\[88\]，的邁克·曼森（）認為每個角色的動機獨一無二，很有意思\[89\]。相反，博辛格認為角色並沒有被迫，台詞很糟糕，認為直到他們公開身世，玩家沒有什麼關心他們的理由\[90\]。
 
 逃脫部分的觀點兩極分化。《Edge》和華萊士認為這個環節很容易解決\[91\]\[92\]，但羅賓遜沒找到遊玩的樂趣\[93\]。博辛格認為該部分沉闷、平庸，但讚賞他們和遊戲的數學和科學主題緊密貼合\[94\]。幾位評論家認為3DS和Vita的控制糟糕，操作太過敏感\[95\]\[96\]\[97\]\[98\]，《[電子遊戲月刊](https://zh.wikipedia.org/wiki/電子遊戲月刊 "wikilink")》的莫利·L·帕特森（）認為鏡頭運動受限，也很令人失望\[99\]。坎普斯指出[用戶介面相比前作有所改善](https://zh.wikipedia.org/wiki/用戶介面 "wikilink")\[100\]。許多評論家稱讚流程圖未迫使玩家重玩未完成的部分或從頭開始遊戲\[101\]\[102\]\[103\]\[104\]，但博辛格和《Edge》批評這消除了做出錯誤選擇的緊張感\[105\]\[106\]。
 
-遊戲畫面和總體表現受到稱讚\[107\]\[108\]\[109\]。托馬斯認為三維畫面渲染得“很漂亮”，比前作要出色\[110\]。帕特森也這麼認為，一開始她懷疑遊戲截圖展現的畫面效果，玩過遊戲，才改變了觀點\[111\]。邁克卡羅爾認為許多環境看起來相似，經常沒有顏色\[112\]。曼森認為角色模型跟逆真壞境很搭配，但角色動畫太少\[113\]。評論家們很享受配音，托馬斯表示這是“我聽過的遊戲中表現最好的”\[114\]\[115\]\[116\]。
+遊戲畫面和總體表現受到稱讚\[107\]\[108\]\[109\]。托馬斯認為三維畫面渲染得“很漂亮”，比前作要出色\[110\]。帕特森也這麼認為，一開始她懷疑遊戲截圖展現的畫面效果，玩過遊戲，才改變了觀點\[111\]。邁克卡羅爾認為許多環境看起來相似，經常沒有顏色\[112\]。曼森認為角色模型跟拟真環境很搭配，但角色動畫太少\[113\]。評論家們很享受配音，托馬斯表示這是“我聽過的遊戲中表現最好的”\[114\]\[115\]\[116\]。
 
 《極限脫出》獲得多個遊戲媒體大獎，包括GameSpot的年度掌上游戏獎\[117\]、IGN的最佳3DS/DS遊戲劇情獎\[118\]、《Game Informer》最佳掌上遊戲獨佔作品獎\[119\]、RPGFan冒險遊戲最佳劇情和畫面獎\[120\]\[121\]。遊戲還獲得第13屆[游戏开发者选择奖](../Page/游戏开发者选择奖.md "wikilink")最佳劇情獎提名\[122\]、《Kotaku》\[123\]、\[124\]和GameSpot\[125\]年度遊戲獎。[Gamasutra](https://zh.wikipedia.org/wiki/Gamasutra "wikilink")、《》、1UP.com和亞馬遜將遊戲列入他們不排名的2012年最佳遊戲榜單\[126\]\[127\]\[128\]，RPGFan將其列入2010到2015年30款最重要的[角色扮演遊戲榜單](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")\[129\]。
 
@@ -86,6 +86,7 @@
 
   -
   -
+
 [Category:2012年电子游戏](https://zh.wikipedia.org/wiki/Category:2012年电子游戏 "wikilink") [Category:CHUNSOFT游戏](https://zh.wikipedia.org/wiki/Category:CHUNSOFT游戏 "wikilink") [Category:死亡遊戲題材作品](https://zh.wikipedia.org/wiki/Category:死亡遊戲題材作品 "wikilink") [Category:任天堂3DS_eShop游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS_eShop游戏 "wikilink") [Category:任天堂3DS游戏](https://zh.wikipedia.org/wiki/Category:任天堂3DS游戏 "wikilink") [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink") [Category:PlayStation_Vita游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Vita游戏 "wikilink") [Category:Spike_Chunsoft游戏](https://zh.wikipedia.org/wiki/Category:Spike_Chunsoft游戏 "wikilink") [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink") [Category:2020年代背景游戏](https://zh.wikipedia.org/wiki/Category:2020年代背景游戏 "wikilink") [Category:2070年代背景遊戲](https://zh.wikipedia.org/wiki/Category:2070年代背景遊戲 "wikilink") [Category:多重结局电子游戏](https://zh.wikipedia.org/wiki/Category:多重结局电子游戏 "wikilink") [Category:視覺小說](https://zh.wikipedia.org/wiki/Category:視覺小說 "wikilink") [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink") [Category:单人电子游戏](https://zh.wikipedia.org/wiki/Category:单人电子游戏 "wikilink") [Category:极限脱出系列](https://zh.wikipedia.org/wiki/Category:极限脱出系列 "wikilink")
 
 1.

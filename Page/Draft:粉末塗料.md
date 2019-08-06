@@ -1,0 +1,250 @@
+[Pulverbeschichtungsanlage.PNG](https://zh.wikipedia.org/wiki/File:Pulverbeschichtungsanlage.PNG "fig:Pulverbeschichtungsanlage.PNG") [Feuerverzinkte_und_anschließend_pulverveschichtete_Stahlbauteile.jpg](https://zh.wikipedia.org/wiki/File:Feuerverzinkte_und_anschließend_pulverveschichtete_Stahlbauteile.jpg "fig:Feuerverzinkte_und_anschließend_pulverveschichtete_Stahlbauteile.jpg")和粉末塗層的鋼結構建築\]\] [Freitragendes_Schiebetor.jpg](https://zh.wikipedia.org/wiki/File:Freitragendes_Schiebetor.jpg "fig:Freitragendes_Schiebetor.jpg")
+
+Das **Pulverbeschichten** oder die **Pulverlackierung** ist ein [Beschichtungsverfahren](https://zh.wikipedia.org/wiki/Beschichtungsverfahren "wikilink"), bei dem ein elektrisch leitfähiger [Werkstoff](https://zh.wikipedia.org/wiki/Werkstoff "wikilink") mit [Pulverlack](https://zh.wikipedia.org/wiki/Pulverlack "wikilink") beschichtet wird. Eine typische Beschichtungsanlage besteht aus [Oberflächenvorbehandlung](https://zh.wikipedia.org/wiki/Oberflächenvorbehandlung "wikilink") (Reinigung und/oder Aufbringen einer [Konversionsschicht](https://zh.wikipedia.org/wiki/Konversionsschicht "wikilink")), Zwischentrocknung, [elektrostatischer](https://zh.wikipedia.org/wiki/Elektrostatik "wikilink") Beschichtungszone und [Trockner](https://zh.wikipedia.org/wiki/Trockner "wikilink"). Die [Werkstücke](https://zh.wikipedia.org/wiki/Werkstück "wikilink") werden dabei durch ein [Fördersystem](https://zh.wikipedia.org/wiki/Werkstückförderer "wikilink") transportiert.
+
+Weltweit wurden im Jahr 2006 etwa 1.100.000 Tonnen Pulverlack zur [Beschichtung](https://zh.wikipedia.org/wiki/Beschichten "wikilink") eingesetzt. In Europa beträgt der Anteil von Pulverlacken am gesamten Lackmarkt etwa 10 %. Je ein Drittel entfällt auf Europa und Asien, das verbleibende Drittel verteilt sich zur Hälfte auf Nordamerika und den Rest der Welt.\[1\]
+
+Typische [Untergründe](https://zh.wikipedia.org/wiki/Substrat_\(Materialwissenschaft\) "wikilink") für die Pulverlackierung sind [Stahl](https://zh.wikipedia.org/wiki/Stahl "wikilink"), [verzinkter Stahl](https://zh.wikipedia.org/wiki/Verzinkung "wikilink") und [Aluminium](https://zh.wikipedia.org/wiki/Aluminium "wikilink"). Das Hauptanwendungsgebiet ist die allgemeine Metallbeschichtung mit 35 % Anteil, gefolgt von [Haushaltsgeräten](https://zh.wikipedia.org/wiki/Haushaltsgerät "wikilink") (sogenannte *Weiße Ware*, 21 %), [Fassadenbeschichtungen](https://zh.wikipedia.org/wiki/Fassade "wikilink") (20 %), Möbellackierung (13 %) und Automobillackierung (8 %). Heutzutage werden Automobile wie der [Smart](https://zh.wikipedia.org/wiki/Smart_\(Auto\) "wikilink") oder auch temperaturempfindliche Substrate wie [MDF-Platten](https://zh.wikipedia.org/wiki/Mitteldichte_Holzfaserplatte "wikilink") pulverbeschichtet.\[2\]
+
+Die erzeugten Pulverlackschichten haben typischerweise [Schichtdicken](https://zh.wikipedia.org/wiki/Schichtdicke_\(Beschichten\) "wikilink") zwischen 60 und 120 μm. Abhängig von Anwendung und Oberflächenausprägung kann die Schichtdicke jedoch auch ober- oder unterhalb dieses Bereichs liegen.
+
+## Allgemeines
+
+[Pulverlack-Applikation.JPG](https://zh.wikipedia.org/wiki/File:Pulverlack-Applikation.JPG "fig:Pulverlack-Applikation.JPG")
+
+Die zur Pulverbeschichtung verwendeten [Pulverlacke](https://zh.wikipedia.org/wiki/Pulverlack "wikilink") bestehen im Allgemeinen aus trockenen, körnigen Partikeln, die zwischen 1 und 100 [µm](https://zh.wikipedia.org/wiki/Vorsätze_für_Maßeinheiten "wikilink") groß sind. Chemisch basieren diese meist auf [Epoxid-](https://zh.wikipedia.org/wiki/Epoxidharz "wikilink") oder [Polyesterharzen](https://zh.wikipedia.org/wiki/Polyesterharz "wikilink"), für bestimmte Anwendungsfälle auch auf Basis von Polyamid (Nylon), Polyurethan, PVC oder Acryl. Daneben sind Hybridsysteme verbreitet, die sowohl Epoxid- als auch Polyesterharze als [Bindemittel](https://zh.wikipedia.org/wiki/Bindemittel "wikilink") enthalten. Wie sich ein Pulverlack bei der Beschichtung verhält, wird hauptsächlich durch seine mechanischen Eigenschaften wie der Partikelgröße und der [Rieselfähigkeit](https://zh.wikipedia.org/wiki/Rieselfähigkeit "wikilink") bestimmt. In geringerem Maße spielt auch die chemische Zusammensetzung des verwendeten Pulverlackes eine Rolle. Je nach Zusammensetzung neigen die Pulverlackpartikel zum [Ansintern](https://zh.wikipedia.org/wiki/Sintern "wikilink") in der Beschichtungsanlage. Sie sind temperaturempfindlich und beginnen aufzuschmelzen und zu verkleben, wenn die Temperatur 50 °C übersteigt.\[3\]\[4\]
+
+Zur Pulverbeschichtung existieren mehrere [Normen](https://zh.wikipedia.org/wiki/Normung "wikilink"). [DIN](https://zh.wikipedia.org/wiki/DIN-Norm "wikilink") 55633 bezieht sich auf den [Korrosionsschutz](https://zh.wikipedia.org/wiki/Korrosionsschutz "wikilink") und die Bewertung von beschichteten Stahlbauten, eines der Hauptanwendungsgebiete der Pulverbeschichtung.\[5\] [EN](https://zh.wikipedia.org/wiki/Europäische_Norm "wikilink") 15773 bezieht sich auf die Pulverbeschichtung von [feuerverzinkten](https://zh.wikipedia.org/wiki/Feuerverzinken "wikilink") und [sherardisierten](https://zh.wikipedia.org/wiki/Sherardisieren "wikilink") Gegenständen aus Stahl.\[6\] EN 12981 definiert [Sicherheitsanforderungen](https://zh.wikipedia.org/wiki/Sicherheit#Technische_Sicherheit,_Betriebssicherheit "wikilink") an [Spritzkabinen](https://zh.wikipedia.org/wiki/Spritzkabine "wikilink").\[7\]
+
+Weiterhin üblich ist auch die [Zertifizierung](https://zh.wikipedia.org/wiki/Zertifizierung "wikilink") durch Gütegemeinschaften, die sowohl für die beschichtenden Unternehmen als auch für Pulverlacke durchgeführt werden kann. Beschichtende Unternehmen müssen dabei Anforderungen hinsichtlich Fertigungseinrichtung, [Laborausstattung](https://zh.wikipedia.org/wiki/Labor "wikilink"), Eigenüberwachung und [Qualität](https://zh.wikipedia.org/wiki/Qualität "wikilink") der erzielten Oberflächenvorbehandlung und der fertigen Beschichtung erfüllen. Hersteller von Beschichtungspulvern müssen nachweisen, dass die von ihnen hergestellten Pulver die entsprechenden Anforderungen erfüllen, etwa die Erhaltung der [Farbe](https://zh.wikipedia.org/wiki/Farbe "wikilink") und des [Glanzes](https://zh.wikipedia.org/wiki/Glanz "wikilink") des lackierten Objektes bei Auslagerung im Freien über mehrere Jahre.\[8\]\[9\]
+
+## Geschichte
+
+Nach der Entwicklung geeigneter Beschichtungsgeräte wurden in den späten 1960er Jahren erste Beschichtungskabinen gebaut. Zunächst handelte es sich dabei häufig um Umbauten klassischer Lackieranlagen, die ursprünglich für die Beschichtung mit Flüssiglack konzipiert waren.\[10\]
+
+In den frühen 1970er Jahren wurden die heute gebräuchlichen Pistolentypen entwickelt. Die Entwicklung der Korona-Pistole ermöglichte die Zuführung von [Hochspannung](https://zh.wikipedia.org/wiki/Hochspannung "wikilink") innerhalb der [Lackierpistole](https://zh.wikipedia.org/wiki/Spritzpistole "wikilink"), was ein bis dahin übliches zusätzliches Hochspannungskabel überflüssig machte. Diese Technologie ist heute die am meisten verbreitete. 1972 wurde die Tribopistole entwickelt, die sich jedoch erst in den späten 1990er Jahren durchsetzen konnte. Erst zu diesem Zeitpunkt wurden Pulverlacke entwickelt, mit denen die dort verwendete [Aufladung](https://zh.wikipedia.org/wiki/Elektrostatische_Aufladung "wikilink") durch [Reibung](https://zh.wikipedia.org/wiki/Reibung "wikilink") in vollem Umfang genutzt werden konnte.\[11\]
+
+1976 wurden Beschichtungskabinen mit [Bandfilter](https://zh.wikipedia.org/wiki/Bandfilter "wikilink") vorgestellt, die Farbwechselzeiten von unter 20 Minuten ermöglichten. 1978 wurden Beschichtungskabinen mit abgerundeten Ecken vorgestellt, die leichter zu reinigen waren. Kabinen aus [Kunststoff](https://zh.wikipedia.org/wiki/Kunststoff "wikilink"), die die Reinigung durch erschwerte Anhaftung von Pulverpartikeln weiter vereinfachte, wurde 1986 vorgestellt.\[12\]
+
+Die Flachstrahldüse, die heute bei 80 % der Pulverbeschichtungsanlagen im Einsatz ist, wurde 1985 erfunden und löste in der Folge die bis dahin übliche Pralltellerdüse ab. Die sogenannten plattenlosen Düsen, bei denen die Pulverwolke durch Luftdüsen erzeugt wird, wurden kurz danach vorgestellt. Sie konnten sich jedoch nicht in der Industrie durchsetzen. Ebenfalls von geringerer Bedeutung ist die Entwicklung der sogenannten Pulverglocke, einem [Rotationszerstäuber](https://zh.wikipedia.org/wiki/Rotationszerstäuber "wikilink") für Pulverlacke.\[13\]
+
+Ab 1990 werden Pulverlackfördergeräte angeboten, die die Förderung direkt aus Gebinden ermöglicht. Diese Technologie befindet sich heute in breitem Einsatz.\[14\]
+
+## 預處理
+
+Unter dem Begriff Oberflächenvorbehandlung oder Vorbehandlung werden die Schritte zusammengefasst, die vor der Beschichtung mit Pulverlack durchgeführt werden. Diese umfasst neben der Entfernung von Oberflächenrückständen (Lacke, Fette), das Anbringen geeigneter Halterungen, die Reinigung und das Aufbringen von mehreren [Konversionsschichten](https://zh.wikipedia.org/wiki/Konversionsschicht "wikilink"). Diese dienen dazu, eine bessere Abstimmung zwischen Untergrund und Lack zu erzielen. Zur Reinigung dienen bei Zimmertemperatur verdampfende Reinigungsmittel auf Ethanol- oder Acetonbasis, die auf der Oberfläche keine Rückstände zurücklassen. Bei manchen Ausgangsmaterialien muss eventuell eine Vorbehandlung zum Korrosionsschutz folgen.\[15\] Eine unzureichend durchgeführte Oberflächenvorbereitung kann zu Haftungsminderung bis hin zur spontanen Ablösung oder zu [Kratern](https://zh.wikipedia.org/wiki/Krater_\(Lack\) "wikilink") im Lackfilm führen.
+
+Durch die mechanische Vorbehandlung werden grobe Verunreinigungen wie [Rost](https://zh.wikipedia.org/wiki/Rost "wikilink") oder [Zunder](https://zh.wikipedia.org/wiki/Abbrand_\(Metallurgie\) "wikilink") entfernt. Typische bei der Pulverbeschichtung angewendete Verfahren stellen [Schleifen](https://zh.wikipedia.org/wiki/Schleifen_\(Fertigungsverfahren\) "wikilink"), [Bürsten](https://zh.wikipedia.org/wiki/Bürsten "wikilink") und Strahlen dar. Die [Entfettung](https://zh.wikipedia.org/wiki/Entfettung "wikilink") erfolgt meist mit [Lösemitteln](https://zh.wikipedia.org/wiki/Lösemittel "wikilink") oder wässrigen Reinigern. Bei der Reinigung mit wässrigen Reinigern ist die Reinigung der Oberfläche häufig mit der [Phosphatierung](https://zh.wikipedia.org/wiki/Phosphatierung "wikilink") verbunden. Verfahrenstechnisch erfolgt die Reinigung meist durch [Spritzen](https://zh.wikipedia.org/wiki/Spritzreinigung "wikilink") oder [Tauchen](https://zh.wikipedia.org/wiki/Tauchen_\(Verfahren\) "wikilink").\[16\]
+
+Es schließt sich das Aufbringen einer Konversionsschicht an. Die Entfettung reicht zwar für eine reine Oberfläche meist aus, Konversionsschichten vergrößern durch ihre [Rauheit](https://zh.wikipedia.org/wiki/Rauheit "wikilink") zusätzlich die aktive Oberfläche. So verbessert sich die Lackanbindung. Typische Verfahren im Bereich des Pulverbeschichtens sind die [Phosphatierung](https://zh.wikipedia.org/wiki/Phosphatierung "wikilink") auf Stahl, das [Anbeizen](https://zh.wikipedia.org/wiki/Beizen "wikilink") auf verzinktem Stahl, die [Chromatierung](https://zh.wikipedia.org/wiki/Chromatierung "wikilink"), sowie die [Anodisierung](https://zh.wikipedia.org/wiki/Anodisierung "wikilink"), bzw. [Eloxierung](https://zh.wikipedia.org/wiki/Eloxal-Verfahren "wikilink") auf Aluminium. Aufgrund der zunehmenden gesetzlichen Einschränkungen für chromhaltige Schichten werden chromfreie Vorbehandlungsmethoden bedeutender.
+
+Vor der Applikation des Pulverlacks muss die Oberfläche des Werkstücks absolut trocken sein. Der dazu verwendete *Haftwassertrockner* gleicht dem späteren Pulverlacktrockner, ist jedoch meist einfacher ausgeführt. Je nach Qualitätsanforderung kann das Abblasen mit Druckluft ausreichen.
+
+## Applikation
+
+[20090724_Pulverlackierkabine.png](https://zh.wikipedia.org/wiki/File:20090724_Pulverlackierkabine.png "fig:20090724_Pulverlackierkabine.png")與處理\]\]
+
+Der Begriff Applikation bezeichnet den Auftrag des Pulverlacks und die unmittelbar damit verbundenen Prozessschritte. Er beschreibt also den eigentlichen Beschichtungsvorgang.
+
+### Aufbereitung und Förderung des Pulvers
+
+#### Aufbereitung
+
+Damit das zu beschichtende Pulver aufgetragen werden kann, muss es zunächst zur [Lackierpistole](https://zh.wikipedia.org/wiki/Spritzpistole "wikilink") transportiert werden. Typischerweise wird das Pulver vom Frischpulvergebinde in einen Behälter gefördert. Dort wird es, falls mit Rückgewinnung gearbeitet wird, mit aufbereitetem Rückgewinnungspulver gemischt und gelangt von dort zur Pistole. Das nicht auf das Werkstück übertragene Pulver wird zur Aufbereitung transportiert und von dort wieder in den Kreislauf zurückgebracht. Wichtig ist, dass die Förderung schonend ist, so dass die Eigenschaften des Pulvers nicht wesentlich beeinflusst werden.\[17\]
+
+Die Pulverlackpartikel werden bei den meisten Förderverfahren zunächst [fluidisiert](https://zh.wikipedia.org/wiki/Wirbelschicht "wikilink"), so dass der Pulverlack gefördert werden kann. Teilweise werden zusätzlich [Rührwerke](https://zh.wikipedia.org/wiki/Rührwerk "wikilink") oder vibrierende Elemente eingesetzt. Wird das Pulver direkt aus dem Originalgebinde gefördert, so findet nur eine lokale Fluidisierung statt.
+
+Wird eine Rückgewinnung verwendet, so muss das erneut dem Kreislauf zugeführte Pulver zunächst von [Fasern](https://zh.wikipedia.org/wiki/Faser "wikilink"), Grobpartikeln und Schmutz gereinigt werden. Hierzu kommen verschiedene [Siebtypen](https://zh.wikipedia.org/wiki/Sieb "wikilink") zum Einsatz, etwa Rüttel-, Rotations-, Taumel- oder Ultraschallsiebe. Das Rückgewinnungspulver wird dem Frischpulver in einem festzulegenden Verhältnis zugesetzt.\[18\]
+
+#### Förderung
+
+[Injektor2.jpg](https://zh.wikipedia.org/wiki/File:Injektor2.jpg "fig:Injektor2.jpg") [Injektor1.JPG](https://zh.wikipedia.org/wiki/File:Injektor1.JPG "fig:Injektor1.JPG")
+
+Bei der Förderung des Pulvers wird zwischen Präzisionsförderung (50 bis 500 g/min) und Massenförderung (meist mehr als 5 kg/min) unterschieden.
+
+Die Präzisionsförderung dient der Zufuhr des Pulverlacks zur Lackierpistole. Um Fehler und Unregelmäßigkeiten in der Beschichtung zu vermeiden, erfordert dies eine möglichst gleichmäßige, genaue und pulsationsfreie Dosierung. Typische zur Präzisionsförderung eingesetzte Geräte sind [Präzisions-](https://zh.wikipedia.org/wiki/Präzisionsinjektor "wikilink") und [Stabinjektoren](https://zh.wikipedia.org/wiki/Stabinjektor "wikilink"). Präzisionsinjektoren fördern eine definierte Pulvermenge vom Behälter zur Pistole und sorgen dort durch Beimischung von Dosierluft zur Konstanthaltung der gesamten Pulver-Luftmenge. Bei Stabinjektoren wie auch beim Präzisioninjektor ist Fluidisierung notwendig, da die Ansaugung am Boden des Behälters erfolgt und es ohne Zugabe von einer Fluidluft keine konstante Förderung erzeugt. Optimalerweise wird Pulverlack mit einer Fluidisierung und teilweise durch zusätzliche Vibration am Behälter oder Kartongebinde transportfähiger gemacht.\[19\]
+
+Die Massenförderung dient dem Transport des Pulverlacks zwischen zwei Behältern, was eine gleichzeitig wirtschaftliche und für den Pulverlack schonende Förderung erfordert. Bei der Massenförderung gebräuchliche Methoden sind die Schubförderung (auch Pfropfenförderung) und die Saugförderung. Die Saugförderung arbeitet mit einem durch viel Luft erzeugten [Unterdruck](https://zh.wikipedia.org/wiki/Unterdruck "wikilink"), der das Pulver mitreißt. Die notwendige Trennung von Luft und Pulver wird über [Mini- oder Multizyklone](https://zh.wikipedia.org/wiki/Fliehkraftabscheider "wikilink") oder [Filterabscheider](https://zh.wikipedia.org/wiki/Filter_\(Fluidtechnik\) "wikilink") vorgenommen. Bei der Schubförderung wird eine Druckkammer mit zwei Ventilen so geschaltet, dass das Pulver durch im Wechsel eingebrachte Luft vorwärts geschoben wird. Eine Trennung von Luft und Pulver ist nicht nötig.\[20\]
+
+Eine Methode, die sowohl für die Präzisions-, als auch für die Massenförderung eingesetzt werden kann, ist die sogenannte Digitale Dichtstromförderung (DDF), die nach dem Prinzip einer Gegendruckförderung arbeitet. Gegendruckförderung bedeutet das abwechselnde Ansaugen von [Vakuum](https://zh.wikipedia.org/wiki/Vakuum "wikilink") und Pulverlack in zwei Kammern. Bei diesem Verfahren ist keine Fluidisierung notwendig. Gleichzeitig ist wenig Förderluft für eine genaue Dosierung notwendig.
+
+### Aufladung
+
+[Pistolenvergleich.jpg](https://zh.wikipedia.org/wiki/File:Pistolenvergleich.jpg "fig:Pistolenvergleich.jpg") [Automatikpistole_ohne_Ableitring.JPG](https://zh.wikipedia.org/wiki/File:Automatikpistole_ohne_Ableitring.JPG "fig:Automatikpistole_ohne_Ableitring.JPG") [Pulversprühpistole_mit_Ableitring.JPG](https://zh.wikipedia.org/wiki/File:Pulversprühpistole_mit_Ableitring.JPG "fig:Pulversprühpistole_mit_Ableitring.JPG")
+
+Moderne Pulverlacke werden [elektrostatisch](https://zh.wikipedia.org/wiki/Elektrostatik "wikilink") appliziert. Bei der elektrostatischen Pulverbeschichtung wird zunächst eine elektrisch geladene Pulverwolke erzeugt. Die gleichnamig geladenen Partikel werden zur Werkstückoberfläche transportiert. Dort schlagen sie sich nieder, haften dort elektrostatisch und bilden die Pulverlackschicht. Möglich ist eine Aufladung durch [Hochspannung](https://zh.wikipedia.org/wiki/Hochspannung "wikilink") (*Corona-Aufladung* oder *Ionisation*) oder [Reibung](https://zh.wikipedia.org/wiki/Reibung "wikilink") (*triboelektrische* (kurz *Tribo*) oder *elektrokinetische Aufladung*).
+
+#### Aufladungsarten
+
+Bei der triboelektrischen Aufladung erfolgt die Aufladung durch Berührung von Pulverpartikeln und Wandung der Lackierpistole, wodurch [Elektronen](https://zh.wikipedia.org/wiki/Elektron "wikilink") aus dem Beschichtungsstoff gelöst werden. Damit die Berührungsfläche möglichst groß wird, ist der Kanal meist ringspalt- oder spiralartig ausgebildet und innen mit [Teflon](https://zh.wikipedia.org/wiki/Teflon "wikilink") beschichtet. Die Trennung der Pulverlackteilchen von der Lackierpistole erfolgt schneller, als sich die [Ladung](https://zh.wikipedia.org/wiki/Ladung_\(Physik\) "wikilink") wieder verteilen kann. Dadurch bleiben die Pulverpartikel geladen. Zuletzt wird das Pulver an der Düse zerstäubt.\[21\]
+
+Bei der Ionisationsaufladung werden die Pulverlackpartikel an einer Elektrode vorbeigeführt, an der eine [Spannung](https://zh.wikipedia.org/wiki/Elektrische_Spannung "wikilink") von 30 bis 100 kV anliegt. Diese Hochspannung ionisiert die Pulverlackpartikel umgebende Luft. Die Elektrodenspitze weist eine blau-weiße Lichterscheinung, die namensgebende [Corona](https://zh.wikipedia.org/wiki/Koronaentladung "wikilink") auf. Beim Passieren des elektrischen Feldes zwischen Elektrode und geerdetem Werkstück durch die Lackpartikel werden [Luftionen](https://zh.wikipedia.org/wiki/Ion "wikilink") an die Partikeloberfläche angelagert. Es treffen jedoch nur etwa 1 bis 3 % der Luftionen auf Pulverteilchen, also ein sehr geringer Teil. Der Rest wird als Raumladung bezeichnet. Bei der sogenannten ionenarmen Corona-Aufladung befindet sich eine zusätzliche, ringförmige Elektrode an der Spitze der Lackierpistole. Diese nimmt die überschüssigen Luftionen auf und leitet deren Ladung ab.\[22\]
+
+Die wesentlichen Vorteile der Tribo-Beschichtung sind die gute Applizierbarkeit mehrerer Schichten und tendenziell bessere Schichtdickenverteilung. Da [Faradaysche Käfige](https://zh.wikipedia.org/wiki/Faradayscher_Käfig "wikilink") hier fast keine Bedeutung haben, wird eine bessere Eindringtiefe erreicht. Weiterhin zeigen sich eine bessere [Automatisierbarkeit](https://zh.wikipedia.org/wiki/Automatisierung "wikilink") und häufig geringere Anschaffungskosten. Zudem kann die Pistole bei der Handbeschichtung beliebig nahe an die Oberfläche herangeführt werden. Da hier keine ungebundenen Ionen vorliegen, sieht die Oberfläche oft entspannter aus. [Effektlacke](https://zh.wikipedia.org/wiki/Effektlack "wikilink") können dagegen nur selten mit der Tribo-Technik appliziert werden, da das gewünschte Effektbild nicht erreicht wird.\[23\]\[24\]
+
+Die Vorteile der Corona-Applikation liegen im geringeren [Verschleiß](https://zh.wikipedia.org/wiki/Verschleiß "wikilink") der Lackierpistole, dem niedrigeren [Luftverbrauch](https://zh.wikipedia.org/wiki/Druckluft "wikilink") und der universellen Eignung (viele Pulverlacke, darunter die meisten Effektpulverlacke, sind für die Triboaufladung ungeeignet). Zudem ist durch den höheren Pulverdurchsatz oftmals die nötige Anzahl an Pistolen geringer. Der Umgriff, ein Maß für die Bildung einer Schicht auf der Rückseite des Werkstücks, ist ebenfalls bei der Corona-Applikation meist besser. Bei der klassischen Corona-Aufladung gelangen freie Luftionen zum Objekt. Aufgrund der Abstoßung gleichnamiger Ladungen wird der ungestörte Aufbau einer gleichmäßigen Schicht gestört, was sich als sogenannte Orangenhaut, eine sehr wellige Lackoberfläche, zeigt. Durch die Verwendung der ionenarmen Aufladung kann dieser Umstand eingegrenzt werden.\[25\]\[26\]
+
+#### Schichtbildung
+
+Durch die gleichnamige Aufladung der Pulverlackpartikel beziehungsweise der an ihnen anhaftenden Luftionen stoßen sich diese ab und bilden eine gleichmäßige Pulverlackwolke aus. Diese folgt den [Feldlinien](https://zh.wikipedia.org/wiki/Feldlinie "wikilink") des elektrischen Feldes. Somit gelangen Pulverlackpartikel auf die Rückseite des Werkstücks, wodurch dort ebenfalls eine Beschichtung stattfindet. [Hohlräume](https://zh.wikipedia.org/wiki/Hohlraum "wikilink") und hinterzogene Kanten werden dagegen gemäß dem Prinzip des [Faradayschen Käfigs](https://zh.wikipedia.org/wiki/Faradayscher_Käfig "wikilink") nicht oder nur schwach beschichtet. Sehr kleine Partikel werden in die Abluft hineingezogen und der Rückgewinnung zugeführt, wodurch das Rückgewinnungspulver feiner als das Frischpulver wird. Sehr grobe Partikel fallen durch die Schwerkraft nach unten und stehen somit nicht für die Beschichtung zur Verfügung.
+
+Jedes auf das Werkstück auftreffende ionisierte Teilchen erzeugt im Moment des Aufpralls auf das Werkstück eine Gegenladung. Durch die Anziehung zwischen beiden Ladungen haften die Partikel am Werkstück. Durch die gleichnamigen Ladungen ist die Schichtbildung sehr gleichmäßig. Um das Herunterfallen des Pulvers zu verhindern, ist es nötig, dass die elektrische Anziehung ([Coulombsche Kraft](https://zh.wikipedia.org/wiki/Coulombsche_Kraft "wikilink")) zwischen Partikelladung und Gegenladung größer ist als die [Schwerkraft](https://zh.wikipedia.org/wiki/Gewichtskraft "wikilink"). Dies erfordert einen hohen [elektrischen Widerstand](https://zh.wikipedia.org/wiki/Elektrischer_Widerstand "wikilink") des Beschichtungspulvers, da die Entladung sonst zu schnell erfolgt. Die Beschichtung ist bis zu einigen Stunden haftfähig, ehe das Pulver durch allmählichen Ladungsausgleich abfällt.\[27\]
+
+Die Schichtbildung selbst verläuft zunächst linear. Bei weiter wachsender Schichtdicke nimmt die [Feldstärke](https://zh.wikipedia.org/wiki/Elektrische_Feldstärke "wikilink") innerhalb der Pulverschicht zu, so dass ab einer gewissen Schichtdicke die [Durchschlagfestigkeit](https://zh.wikipedia.org/wiki/Durchschlagfestigkeit "wikilink") der Luft überschritten wird. Es kommt zum [Spannungsdurchschlag](https://zh.wikipedia.org/wiki/Spannungsdurchschlag "wikilink") und damit zu einem Gegenstrom geladener Luftionen. In der Sättigungsphase werden nachfolgende Teilchen durch den Gegenstrom so weit entladen, dass sie nicht mehr haften können oder durch die Schwerkraft aus dem Feld fallen. An diesem Punkt erfolgt kein Pulverauftrag mehr, stattdessen zeigen sich durch den Gegenstrom sogenannte Rücksprühkrater, eine Beschichtungsstörung. Aufgrund dieser Selbstbegrenzung der [Schichtdicke](https://zh.wikipedia.org/wiki/Schichtdicke_\(Beschichten\) "wikilink") wird üblicherweise bei einer deutlich niedrigeren Schichtdicke als der maximal erreichbaren Schichtdicke gearbeitet. Diese liegt bei handelsüblichen Pulverlacken bei etwa 150 µm.
+
+Da die Pulverpartikel den Feldlinien folgen und deren Dichte an den Kanten höher ist, ist die Schichtdicke an den Kanten meist höher. Dieser sogenannte Bilderrahmeneffekt ist ein Vorteil beim [Korrosionsschutz](https://zh.wikipedia.org/wiki/Korrosionsschutz "wikilink"), aber ein Nachteil bezüglich der [Passgenauigkeit](https://zh.wikipedia.org/wiki/Passung "wikilink") der beschichteten Werkstücke.
+
+### Düsen
+
+[Pralltellerdüse.jpg](https://zh.wikipedia.org/wiki/File:Pralltellerdüse.jpg "fig:Pralltellerdüse.jpg") [Flachstrahldüse.jpg](https://zh.wikipedia.org/wiki/File:Flachstrahldüse.jpg "fig:Flachstrahldüse.jpg") Die Düse an der Lackierpistole dient der [Zerstäubung](https://zh.wikipedia.org/wiki/Zerstäubung "wikilink") des Pulverlacks und somit der Ausbildung einer homogenen Pulverlackwolke. Zum Einsatz kommen je nach Aufladungsvariante Pralltellerdüsen, Flachstrahldüsen, Fingerdüsen oder Rotationsglocken.
+
+Die älteste Technik ist der Prallteller, der seltener auch als Prallplatte bezeichnet wird. Der stark gebündelte Pulverstrahl trifft auf die Platte und wird dort auseinandergerissen. Dies erzeugt eine langsame, nur bedingt steuerbare Pulverwolke mit geringem Eindringvermögen. Der Prallteller wird daher meist für flache, großflächige Teile verwendet. Flachstrahldüse bezeichnet ein Mundstück mit Schlitz. Die austretende Wolke hat einen ellipsenförmigen Querschnitt, der gut auszurichten ist. Diese Düsenart wird häufig für komplexe Teile mit Vertiefungen verwendet. Die Fingerdüse wird für Werkstücke mit komplizierter Geometrie und geringer [Tiefe](https://zh.wikipedia.org/wiki/Länge_\(Physik\) "wikilink") verwendet. Bei der Verwendung dieser Düsenart können kurze Kabinen und somit eine leichtere Reinigung realisiert werden.\[28\]
+
+Bei der [Rotationszerstäubung](https://zh.wikipedia.org/wiki/Rotationszerstäuber "wikilink"), also der Applikation über Glocken, die bei der Flüssiglackierung zu den Standardverfahren gehört, erfolgt die Aufladung des Pulvers über die Ladekante des rotierenden Glockentellers. So wird ein sehr gleichmäßiger Schichtauftrag bei gleichzeitig hohem Auftragswirkungsgrad erzielt. Der [Durchsatz](https://zh.wikipedia.org/wiki/Massenstrom "wikilink") ist mit 600 bis 700 g/min (gegenüber bis zu 400 g/min bei der Pralltellerdüse) sehr hoch.\[29\]
+
+### Anordnung der Sprühpistolen
+
+Die richtige Anordnung der Sprühpistolen dient der Erzielung einer gleichmäßigen Schichtdicke. Welche Anordnung die passende ist, hängt dabei wesentlich von der Werkstückgeometrie und der verwendeten Düse ab. Variabel ist zunächst der Einsatz von starr angebrachten Pistolen oder [Hubgeräten](https://zh.wikipedia.org/wiki/Hubgerät "wikilink"). Hubgeräte haben die Aufgabe, die Pistolen (einzeln oder gruppenweise) zu bewegen. Die Hubgeräte bewegen die Pistolen üblicherweise vertikal, es sind jedoch mehrachsige Ausführungen möglich. Es sind vertikale, horizontale, diagonale oder rautenförmige Anordnungen der Pistolen üblich.\[30\]
+
+Die Mindestanzahl an Steuergeräten ergibt sich aus der Summe an Pistolen und Hubgeräten, wenn je eine Steuereinheit Verwendung findet. Je höher der [Automatisierungsgrad](https://zh.wikipedia.org/wiki/Automatisierungsgrad "wikilink") ist, desto mehr zusätzliche Module sind zur Abstimmung nötig. Dies beginnt mit einfachen Lichtschranken zur Einschaltung der Pistolen und kann bis zu einer Gesamtanlagensteuerung gehen.\[31\]\[32\]
+
+### Pulversprühkabinen
+
+Als geschlossene Beschichtungskabine wird eine an allen Seiten geschlossene Kabine bezeichnet, die nur Öffnungen für den Ein- und Auslauf der Werkstücke besitzt. Eine teilweise geschlossene Beschichtungskabine hat zusätzlich seitliche Öffnungen für die Sprühvorrichtung oder Handbeschichtungsanlagen.
+
+Pulversprühkabinen werden aus [Metall](https://zh.wikipedia.org/wiki/Metall "wikilink"), [Glas](https://zh.wikipedia.org/wiki/Glas "wikilink") oder Kunststoff gefertigt, wobei letzterer Typ aus einem schwer brennbaren Material gefertigt sein muss und besondere Vorschriften bezüglich [Erdung](https://zh.wikipedia.org/wiki/Erdung "wikilink") einhalten muss. Kunststoffkabinen sind pulverabweisend, so dass die Verschmutzungsneigung geringer und der Erstauftragswirkungsgrad höher ist.
+
+Pulversprühkabinen können zusätzlich mit einem Reinigungsautomat für die Innenreinigung, einem Austrageband oder Abluftkanal am Kabinenboden und einer auslaufseitigen Absaugung ausgestattet sein. Weiterhin können pulverabstoßende Wände und [Rakelsysteme](https://zh.wikipedia.org/wiki/Rakel "wikilink") zum Einsatz kommen. Hinsichtlich der Rückgewinnung kann in Pulverkabinen eine Filterbandrückgewinnung oder Multizyklonrückgewinnung verwendet werden. Spezielle Anforderungen erfordern Rundkabinen (leichte Reinigung) oder Schnellfarbwechselkabinen.
+
+Für höchste Qualitätsanforderungen ist das Umbauen des gesamten Pulverkreislaufes mit einer unter [Überdruck](https://zh.wikipedia.org/wiki/Überdruck "wikilink") betriebenen Umkabine möglich. Um in diesem Fall [Staubeintragungen](https://zh.wikipedia.org/wiki/Staub "wikilink") zu verhindern, besitzt die Umkabine häufig eine [Klimatisierung](https://zh.wikipedia.org/wiki/Klimatisierung "wikilink").\[33\]
+
+### Rückgewinnung
+
+Ob eine Rückgewinnung sinnvoll ist oder nicht, hängt im Wesentlichen vom Verhältnis der Kosten für einen Farbwechsel im Verhältnis zu den Kosten für den andernfalls vergeudeten Anteil des aufgetragenen Pulverlacks ab.
+
+Bei sehr häufigen Farbwechseln und geringen Stückzahlen ist eine Rückgewinnung nicht lukrativ, da die Kosten für die Reinigung höher sind als die Kosten für das vergeudete Pulver. Anlagen mit diesem Anforderungsprofil verzichten daher häufig auf die Möglichkeit der Rückgewinnung. Bei hohen Stückzahlen oder der Verwendung sehr weniger Farbtöne (im Extremfall von nur einem Farbton), ist eine Rückgewinnungseinrichtung sinnvoll. In diesen Anlagen werden Pulverabscheidegrade von bis zu 99 % erreicht, das heißt, dass nur 1 % des verarbeiteten Pulvers als Abfall anfällt. Der [Auftragswirkungsgrad](https://zh.wikipedia.org/wiki/Auftragswirkungsgrad "wikilink") ohne Rückgewinnung, also der Anteil Lack, der bei einmaliger Beschichtung auf die Werkstückoberfläche gelangt, liegt dagegen meist bei nur 30 bis 50 %. Das ist niedriger als bei einer Flüssiglackieranlage.
+
+#### Rückgewinnungstechniken
+
+[Cyclone_Separator.svg](https://zh.wikipedia.org/wiki/File:Cyclone_Separator.svg "fig:Cyclone_Separator.svg") Im Einfarbbetrieb kommen Filterbandanlagen (in Kombination mit [Rakel](https://zh.wikipedia.org/wiki/Rakel "wikilink"), zusätzlichem Nachluftfilter oder [Zyklon](https://zh.wikipedia.org/wiki/Fliehkraftabscheider "wikilink")) zum Einsatz. Die Variante mit Zyklon erlaubt dabei als einzige einen Farbwechsel pro Tag. Reine Filterrückgewinnungssysteme können ausschließlich für den Einfarbenbetrieb verwendet werden.
+
+Bei der Verwendung von Multizyklonen (mit oder ohne Rakel) sind in begrenztem Umfang (mehrmals am Tag) Farbwechsel möglich. Für häufige Farbwechsel ist der Einsatz eines Monozyklons nötig. In Schnellfarbwechselkabinen wird dieser mit einem Vibrationssieb, einem Auslaufkonus und einer Schubförderung kombiniert. Auf diese Weise werden selbst bei häufigen Farbwechseln Pulverabscheidegrade von 95 % erreicht.\[34\]
+
+#### Einfluss der Partikelgröße
+
+Die Partikelgröße ist bei rückgewonnenem Pulver üblicherweise kleiner als bei Frischpulver. Üblicherweise wird beides daher in einem festen Verhältnis gemischt und für die Weiterverwendung aufbereitet. Frischpulversysteme zur genauen Steuerung dieses Verhältnisses sind nötig, wenn der Pulververbrauch hoch ist und gleichzeitig eine konstante Zumischung von Frischpulver zum Erreichen der geforderten Qualität nötig ist.\[35\]
+
+#### Besonderheiten bei der Verarbeitung von Effektpulverlacken
+
+Besonders anspruchsvoll ist die Rückgewinnung, wenn [Effektpigmente](https://zh.wikipedia.org/wiki/Pigment#Effektpigmente "wikilink") in der Pulverlackformulierung verwendet werden. Diese werden je nach Herstellungsart nachträglich zum Pulverlack zugegeben und sind dadurch nicht in die Partikel eingearbeitet. Es liegen also mehrere Arten von Partikeln im Material vor, die verschiedene Teilchenformen und -größen aufweisen. Das kann bei Verwendung einer Rückgewinnungseinheit zur Verarmung an Effektpigmenten in der gesamten Mischung führen. Dadurch verändert sich das Aussehen der Lacke während der Beschichtung einer Serie. Bei Effektpulverlacken, die nach dem [Dry-Blend-Verfahren](https://zh.wikipedia.org/wiki/Dry-Blend "wikilink"), also einer bloßen Mischung von Pulverlack und Effektpigmenten, hergestellt wurden, wird der Effekt durch eine bessere Aufladung der Effektpigmente verstärkt. Diese anwendungstechnische Schwäche wird durch das [Bonding-Verfahren](https://zh.wikipedia.org/wiki/Bonding_\(Lack\) "wikilink"), bei dem Pulverlack- und Effektpigmentpartikel miteinander mechanisch verbunden werden, deutlich verringert.\[36\]
+
+### Sicherheitsaspekte
+
+Aufgrund der elektrischen Aufladung und der gleichzeitig erzeugten Pulverwolke besteht die Gefahr einer [Explosion](https://zh.wikipedia.org/wiki/Explosion "wikilink"), durch die verwendete Hochspannung können [Stromschläge](https://zh.wikipedia.org/wiki/Stromschlag "wikilink") auftreten. Deshalb sind verschiedene Sicherheitsvorkehrungen beim Pulverbeschichten zu treffen.
+
+Die Pulverkonzentration in der Luft muss entweder kleiner als 50 % der unteren [Explosionsgrenze](https://zh.wikipedia.org/wiki/Explosionsgrenze "wikilink") sein oder unterhalb von 10 g/m³ liegen. Die Kabine muss aus nicht brandunterstützenden Werkstoffen bestehen, bei Kunststoffkabinen müssen sehr energiereiche elektrostatische Entladungen verhindert werden. Der Erdableitwiderstand des Werkstückgehänges muss kleiner als 1 MOhm sein, alternativ kann die mögliche Entladeenergie des Werkstücks weniger als 5 MJ betragen. Automatische Pulversprühkabinen müssen eine automatische [Brandmeldeanlage](https://zh.wikipedia.org/wiki/Brandmeldeanlage "wikilink") besitzen, geschlossenen Pulverrückgewinnungsanlagen müssen ein Explosionsschutzsystem besitzen.\[37\]
+
+Zum Schutz der Angestellten sollten spannungsführende Anlagenteile in geschlossenen Beschichtungskabinen angeordnet sein, sowie die Zugänge durch Abschalten und sofortige Erdung bei Betreten gesichert sein. Bei Handbeschichtungsanlagen ist zusätzlich die [Stromstärke](https://zh.wikipedia.org/wiki/Stromstärke "wikilink") oder die Entladungsenergie begrenzt. Eine Flammsperre (CO<sub>2</sub>-Löschanlage) vor dem Zyklon ist ebenfalls nötig.\[38\]
+
+### Alternative Applikationstechniken
+
+Eine alternative Applikationstechnik ist das [Wirbelsintern](https://zh.wikipedia.org/wiki/Wirbelsintern "wikilink"). Dies ist die gebräuchliche Applikationstechnik für die ursprünglichen, [thermoplastischen](https://zh.wikipedia.org/wiki/Thermoplast "wikilink") Pulverlacke, die nicht vernetzen. Die Verwendung für vernetzende Pulverlacke ist ebenfalls möglich. Dabei wird ein erhitztes Werkstück für kurze Zeit in ein mit Hilfe von [Druckluft](https://zh.wikipedia.org/wiki/Druckluft "wikilink") [fluidisiertes](https://zh.wikipedia.org/wiki/Fluidisierung "wikilink") Pulver aus [Kunststoff](https://zh.wikipedia.org/wiki/Kunststoff "wikilink") getaucht. Das Pulver schmilzt durch die hohe [Oberflächentemperatur](https://zh.wikipedia.org/wiki/Oberflächentemperatur_\(Thermodynamik\) "wikilink") des Werkstücks und bildet dort eine Kunststoffschicht. Falls nötig, folgt die Vernetzung in einem Trockner. Das Wirbelsintern wird insbesondere verwendet, wenn eine hohe Schichtdicke gewünscht ist.
+
+Bei Klarlacken für die Automobillackierung ist die Verwendung von Pulverlack als wässrige [Suspension](https://zh.wikipedia.org/wiki/Suspension_\(Chemie\) "wikilink"), die als *Pulverlack-Slurry* bezeichnet wird, bekannt. Dabei wird der Pulverlack in Wasser aufgeschlämmt und wie ein Flüssiglack appliziert. Die Trocknung findet bei diesem Verfahren in zwei Schritten statt. Zunächst wird das Wasser in einem Abdunstschritt aus dem Film entfernt. Im zweiten Schritt wird der Pulverlack wie üblich ausgehärtet.
+
+Eine relativ neue Technik ist die Beschichtung von Pulverlack im [Coil-Coating-Verfahren](https://zh.wikipedia.org/wiki/Coil_Coating "wikilink"), einer Art der Beschichtung, die bei flüssigen Lacken üblich ist. Beim Coil Coating findet die Beschichtung des Stahlbandes direkt bei der [Herstellung](https://zh.wikipedia.org/wiki/Stahlherstellung "wikilink") im [Walzwerk](https://zh.wikipedia.org/wiki/Walzwerk "wikilink") statt. Da die Stahlbänder (*Coils*) sehr hohe Geschwindigkeiten aufweisen, liegt die Hauptschwierigkeit darin, den Pulverlack schnell genug zu vernetzen.
+
+## Vernetzung
+
+Der Vernetzungsvorgang, das sogenannte Einbrennen, beginnt mit dem Aufschmelzen des Pulverlacks im [Trockner](https://zh.wikipedia.org/wiki/Trockner "wikilink"). Dabei nimmt die [Viskosität](https://zh.wikipedia.org/wiki/Viskosität "wikilink") des Systems zunächst ab und durchläuft ein [Minimum](https://zh.wikipedia.org/wiki/Extremwert "wikilink"). Je weiter der Vernetzungsvorgang fortschreitet, desto höher wird die Viskosität wieder. Es hat sich gezeigt, dass der beste Verlauf erzielt wird, wenn dieses Viskositätsminimum schnell erreicht wird. Das Minimum ist in diesem Fall stärker ausgeprägt und die Oberfläche des Lacks wird glatter. Bei Überschreiten der optimalen Einbrennbedingungen des Lacksystems beginnt sich dieses zu zersetzen.
+
+Bei wirtschaftlicher Betrachtung kommt dem Einbrennvorgang eine entscheidende Bedeutung für die Energiekosten zu. Einsparungen an dieser Stelle sind jedoch gefährlich, da die technischen Eigenschaften des Lacksystems bei unvollständiger Vernetzung möglicherweise nicht erreicht werden.
+
+### Einbrennbedingungen
+
+Einbrenntemperaturen für Pulverlacke liegen theoretisch zwischen 110 und 250 °C. Bei industriell verwendeten Einbrennlacken liegen die Einbrenntemperaturen meist zwischen 140 und 200 °C. Systeme, die bei 140 °C vernetzen, werden bereits als Niedrigtemperaturpulverlack angeboten. Bei entsprechend verlängerter Einbrenndauer können Pulverlacke bereits bei unter 120 °C vernetzt werden.\[39\]
+
+Die Haltezeit beträgt 5 bis 30 Minuten. Sie gibt den Zeitraum an, während dessen der Pulverlack auf der Einbrenntemperatur gehalten wird und hängt im Wesentlichen vom Pulverlackmaterial ab. Die Aufheizzeit hängt dagegen im Wesentlichen von der Dicke des Substrates ab. Die Summe beider Zeiten ist die Verweilzeit. Die genaue Einstellung von Ofentemperatur und Verweilzeit hängt vom Werkstückdurchsatz und vom Einbrennfenster des Pulverlackes ab. Dazu kommen trocknerspezifische Einflüsse wie das Aufheizverhalten der Luft, [Wärmeverluste](https://zh.wikipedia.org/wiki/Wärmeverlust "wikilink") und die Aufheizgeschwindigkeit des Förderers.
+
+### Trockner
+
+[Ofen_nach_Einbrennen.JPG](https://zh.wikipedia.org/wiki/File:Ofen_nach_Einbrennen.JPG "fig:Ofen_nach_Einbrennen.JPG") Typische Pulverbeschichtungsanlagen werden mit Durchlauftrocknern ausgerüstet, die getaktet oder kontinuierlich beschickt werden können. Im [Takt](https://zh.wikipedia.org/wiki/Taktzeit "wikilink") gefahrene Anlagen bieten sich für größere Werkstücke und geringe Durchsätze an, da zwischen den Werkstücken die Tore geschlossen werden können. Kontinuierlich beschickte Trockner werden häufig mit sogenannten A-Schleusen gegen Wärmeverluste ausgerüstet, bei denen sich Ein- und Auslauf tiefer als die eigentliche Trocknungseinheit befinden. Dadurch wird der Verlust an aufgeheizter Luft minimiert, da diese aufsteigt und den Trockner nicht verlassen kann.
+
+Kammertrockner können chargenweise beschickt werden und sind nicht an Taktzeiten gebunden. Der Einsatz erfolgt bei variierenden Einbrennbedingungen, die durch verschiedene Materialstärken, unterschiedliche Einbrennzeiten oder die Verwendung unterschiedlicher Pulverlacktypen notwendig werden können. Im Labor- und Technikumsbereich sind Kammertrockner daher üblich. Die Aufheizzeit kann bei diesem Ofentyp verlängert werden, da die Temperatur bei jedem Öffnen der Trocknertür absinkt. Moderne Typen fangen die aufsteigende Luft auf, so dass der Temperaturverlust reduziert werden kann.
+
+Üblich ist die Aufheizung des Trockners durch [Konvektion](https://zh.wikipedia.org/wiki/Konvektion "wikilink"). Das bezeichnet die Energieübertragung durch einen Warmluftstrom, der am Werkstück abkühlt und diesem so die Wärme überträgt. Aufgrund der relativ gleichmäßigen Aufheizung werden solche Trockner häufig verwendet, wenn unterschiedliche Werkstückformen gleichzeitig lackiert werden sollen. Die Beheizung erfolgt indirekt über Wärmetauscher oder direkt durch die Beimischung von Heizgasen (*Gasöfen*). Letzteres stellt jedoch zusätzliche Anforderungen an das Lacksystem (*Gasofenstabilität*), sowie an den [Reinheitsgrad](https://zh.wikipedia.org/wiki/Stoffreinheit "wikilink") des Heizgases. Grund dafür ist die mögliche Reaktion von [Stickoxiden](https://zh.wikipedia.org/wiki/Stickoxid "wikilink") aus dem Heizgas mit Pulverlackbestandteilen, die zu einer intensiven Vergilbung führen können. Meist wird der Pulverlack deshalb mit [Antioxidantien](https://zh.wikipedia.org/wiki/Antioxidanz "wikilink") stabilisiert.
+
+Die Wärmeübertragung durch [IR-Strahlung](https://zh.wikipedia.org/wiki/IR-Strahlung "wikilink") kann bei der Beschichtung von dünnwandigen, flächigen Objekten angewendet werden. Sie erreicht eine schnellere Energieübertragung und ist somit besser zu steuern, schneller betriebsbereit und ermöglicht eine deutliche Platzersparnis. Bei unterschiedlichen, gleichzeitig eingebrannten Objekten oder komplexen Formen wird dagegen eine hohe Temperaturdifferenz an verschiedenen Stellen des Objektes erzeugt, was an der ungleichmäßigen Strahlungsverteilung (Schatten) liegt.
+
+## Fördertechnik
+
+[Werkstückaufhängung_und_Fördertechnik.jpg](https://zh.wikipedia.org/wiki/File:Werkstückaufhängung_und_Fördertechnik.jpg "fig:Werkstückaufhängung_und_Fördertechnik.jpg") Zur Fördertechnik gehört der [Werkstückförderer](https://zh.wikipedia.org/wiki/Werkstückförderer "wikilink") selbst sowie die Art der Gehänge für die Werkstücke. Für die Wiederverwendbarkeit dieser Einrichtung ist die [Entlackung](https://zh.wikipedia.org/wiki/Entlackung "wikilink") von Förderer und Gehänge entscheidend.
+
+Das Gehänge verbindet Werkstück und Förderer während des gesamten Prozesses und wird daher meist mitbeschichtet. Je schlechter die Gehänge lackiert werden können, umso langsamer baut sich die Lackschicht auf dem Gehänge auf. Dies reduziert die Entlackungskosten, da die einzelnen Gehänge häufiger verwendet werden können, bevor eine Entlackung notwendig ist. Zusätzliche Kosten entstehen, wenn das Gewicht (erhöhte Aufheizenergie bei der Vernetzung) oder die Oberfläche (erhöhter Pulverlackverbrauch) des Gehänges zu hoch ist. Von besonderer Bedeutung bei der Pulverbeschichtung sind eine gute Erdung und die Verhinderung einer Beschichtung der Aufhängepunkte, da die Erdung des Werkstücks über die Aufhängepunkte stattfindet. Insbesondere bei der Tribo-Aufladung ist eine gute [Justierung](https://zh.wikipedia.org/wiki/Justierung "wikilink") entscheidend, da sonst Fehlbeschichtungen auftreten.
+
+Der Förderer transportiert die mit dem Gehänge verbundenen Werkstücke durch die Lackierstraße. In Klein- und Technikumsanlagen sind [Handschiebebahnen](https://zh.wikipedia.org/wiki/Handschiebebahn "wikilink") üblich. In typischen Pulverbeschichtungsanlagen werden meist [Power-&-Free](https://zh.wikipedia.org/wiki/Power_&_Free "wikilink")-Förderer genutzt, da durch sie Speicher und Puffer leicht realisiert werden können und die Anlage flexibler wird. [Kreisförderer](https://zh.wikipedia.org/wiki/Kreisförderer "wikilink") sind dagegen kaum noch üblich.\[40\]
+
+Die Entlackung spielt neben der offensichtlichen Anwendung, der Wiederverwendung von Werkstücken, auch bei der Reinigung von Gehängen und Fördererteilen eine große Rolle. Durch die Mitbeschichtung des Gehänges bauen sich im Laufe der Zeit Schichten auf, die die Beschichtung weiterer Werkstücke beeinträchtigen. Da Pulverlacke üblicherweise eine höhere Schichtdicke als Flüssiglacke aufweisen, kommt der Entlackung eine besondere Bedeutung zu. Zur Anwendung kommende Verfahren sind das [Stickstoff-Kälte-Verfahren](https://zh.wikipedia.org/wiki/Stickstoff-Kälte-Verfahren "wikilink") (auch Cryo-Clean-Verfahren), die thermische oder die chemische Entlackung.
+
+## 參考書籍
+
+  -
+  -
+## 參考文獻
+
+[Category:塗裝工藝](https://zh.wikipedia.org/wiki/Category:塗裝工藝 "wikilink")
+
+1.  European Coatings Directory - Special Issue: Powder Coatings; 2008
+
+2.
+3.  B. Müller, U. Poth: *Lackformulierung und Lackrezeptur: Das Lehrbuch für Ausbildung und Praxis.* Vincentz Network, 2006, ISBN 3-87870-170-5.
+
+4.  *[1](http://www.gemapowdercoating.com/)* Gema Switzerland GmbH; Abgerufen am 21. Dezember 2008
+
+5.
+
+6.
+7.
+
+8.
+
+9.
+
+10. H. Mendler: *Die Pulvergeschichte aus der Sicht eines Schweizers - Meilensteine und Flops.* In: *Journal für Oberflächentechnik.* Nr. 7, 2009, S. 20ff.
+
+11.
+12.
+13.
+14.
+15.
+
+16. Hansgeorg Kollek: *Reinigen und Vorbehandeln.* Vincentz Verlag, Hannover 1996, ISBN 3-87870-434-8.
+
+17.
+18.
+19.
+20.
+21.
+22.
+23. R. Rostek: *Profi-Beschichterschulung IGP Pulvertechnik.* Wil 2008.
+
+24.
+25.
+26.
+27. *[2](http://www.gemapowdercoating.com/).* Gema Switzerland GmbH, Abgerufen am 21. Dezember 2008.
+
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36. J. Keller: *Fehlervermeidung - gewusst wie.* In: *Journal für Oberflächen–technik.* Nr. 5, 2009, S. 38–42 ([PDF](http://www.freilacke.de/fileadmin/doc/index/Fachbeitraege/JOT0905_metallic-powder-coatings_DE.pdf), Abgerufen am 11. August 2009).
+
+37.
+38.
+39. H. J. Jüngling: *Aushärtung bei 115 °C.* In: *Journal für Oberflächentechnik.* Nr. 2, 2009, S. 12–16 ([PDF](http://www.rippert.de/fileadmin/media/rippert/Fachb_Oberflaeche/2009-jot-elau.pdf), Abgerufen am 11. August. 2009)
+
+40. *[3](http://www.gemapowdercoating.com/).* Gema Switzerland GmbH, Abgerufen am 21. Dezember 2008.

@@ -1,6 +1,6 @@
 《**Love Live\! Sunshine\!\! 學園偶像電影\~彩虹彼端\~**》\[1\]（）为Project [LoveLive\! Sunshine\!\!的相关动画作品](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!! "wikilink")。制作动画剧场版的决定于2017年12月电视动画第二季播毕时由官方正式公布。本片由[日昇动画制作](https://zh.wikipedia.org/wiki/日昇动画 "wikilink")、并由[松竹](../Page/松竹.md "wikilink")株式会社发行，2019年1月4日开始在[日本](../Page/日本.md "wikilink")全國128館中播映。\[2\]
 
-## 劇情大綱\[3\]
+## 劇情大綱
 
 電影版劇情接續電視動畫第二季結尾內容。
 
@@ -10,7 +10,7 @@
 
 邁向大家的共同目標，閃閃發光的前方！
 
-呈現給所有向未來展翅的人們，最閃亮的Live Entertainment Movie\!
+呈現給所有向未來展翅的人們，最閃亮的Live Entertainment Movie\!\[3\]
 
 ## 配音
 
@@ -19,7 +19,7 @@
 **小原鞠莉的母親**（鞠莉の母，声：[矢島晶子](../Page/矢島晶子.md "wikilink")（日本））
 
   -
-    首次於電影版登場。為了找尋小原鞠莉的位置，請託了Aqours的一年級和二年級，並提供旅途上縮需的資金。
+    首次於電影版登場。為了找尋小原鞠莉的位置，請託了Aqours的一年級和二年級，並提供旅途上所需的資金。
 
 **渡邊月**（渡辺月，声：[黑泽朋世](https://zh.wikipedia.org/wiki/黑泽朋世 "wikilink")（日本））
 

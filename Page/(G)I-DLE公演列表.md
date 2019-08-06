@@ -15,6 +15,7 @@
 | ------ |
 | 演出日期   |
 | 10月22日 |
+| 10月28日 |
 | 11月5日  |
 | 11月13日 |
 
@@ -204,7 +205,7 @@
 <tr class="odd">
 <td><p>5月28日</p></td>
 <td><p>大真大学校庆[11]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/抱川市" title="wikilink">抱川</a><a href="https://zh.wikipedia.org/wiki/大真大学" title="wikilink">大真大学</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/抱川市" title="wikilink">抱川</a><a href="../Page/大真大学.md" title="wikilink">大真大学</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

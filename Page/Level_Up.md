@@ -7,7 +7,7 @@
 |                                   |        |                                                                                          |
 | --------------------------------- | ------ | ---------------------------------------------------------------------------------------- |
 | **演員**                            | **角色** | **介紹**                                                                                   |
-| [成勛](../Page/成勛.md "wikilink")    | 安丹特    | 流星CRC本部長，具備不顯露感情的撲克臉的結構調整專門企業「流星CRC」的王牌，任何將倒閉的企業只要經他調整後都會重新復活。因小時候對遊戲的創傷，說過不會負責遊戲公司相關事務。 |
+| [成勛](../Page/成勛.md "wikilink")    | 安丹泰    | 流星CRC本部長，具備不顯露感情的撲克臉的結構調整專門企業「流星CRC」的王牌，任何將倒閉的企業只要經他調整後都會重新復活。因小時候對遊戲的創傷，說過不會負責遊戲公司相關事務。 |
 | [韓寶凜](../Page/韓寶凜.md "wikilink")  | 沈妍花    | 曾是遊戲公司Joy Buster的3年職員，隨着前輩提早退休，被迅速提升為企劃組長。她將丹特誤解為一個跟蹤狂股東，因而結下了孽緣，看見他成為公司的新任代表理事感到吃驚。     |
 | [車善玗](../Page/Baro.md "wikilink") | 郭韓哲    | 流星CRC新入職職員，比起追求成功，更追求幸福的善良男人。他因家境貧寒而放棄進入大學，幫助爸爸工作，後來才進入就業市場。                             |
 | [姜星](../Page/姜星.md "wikilink")    | 裴夜彩    | Arena Entertainment代表，以前是公司的職員，在丹特成功重整業務離任後，他將代表職位送給她。在獲得成功後，她希望找到方法抓住丹特的心。              |
@@ -29,12 +29,12 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>姜專務</p></td>
+<td><p>姜善久</p></td>
 <td><p>Nex Viper專務，過去被丹特妨礙令他無法購Joy Buster，對他懷恨在心。</p></td>
 </tr>
 <tr class="odd">
 <td><p>李佳元</p></td>
-<td><p>美子</p></td>
+<td><p>吳美子</p></td>
 <td><p>妍華的朋友，個性直率，因與丈夫性格差異而直接蓋章離婚。</p></td>
 </tr>
 <tr class="even">
@@ -114,17 +114,17 @@
 <tr class="even">
 <td><p>5</p></td>
 <td><p>2019/07/24</p></td>
-<td><p>%</p></td>
+<td><p>1.090%</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>2019/07/25</p></td>
-<td><p>%</p></td>
+<td><p>0.716%</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
 <td><p>2019/07/31</p></td>
-<td><p>%</p></td>
+<td><p>0.913%</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
@@ -167,7 +167,7 @@
 
 ## 外部連結
 
-  - [韓國MBN官方網站](http://www.mbn.co.kr/pages/vod/programMain.php?progCode=781)
+  - [韓國MBN官方網站](http://www.mbn.co.kr/pages/vod/programMain.php?progCode=796)
 
 [Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:勵志題材電視劇](https://zh.wikipedia.org/wiki/Category:勵志題材電視劇 "wikilink")
 

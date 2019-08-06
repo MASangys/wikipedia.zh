@@ -18,9 +18,15 @@
 
 ## 算法步驟
 
-此處\(|s\rangle\)代表了所有狀態的均勻態疊加
+[Grovers_algorithm.svg](https://zh.wikipedia.org/wiki/File:Grovers_algorithm.svg "fig:Grovers_algorithm.svg")表示\]\] 下面\(|s\rangle\)代表了所有狀態的均勻態疊加
 
-\[|s\rangle = \frac{1}{\sqrt{N}} \sum_{x=0}^{N-1} |x\rangle.\]
+\[|s\rangle = \frac{1}{\sqrt{N}} \sum_{x=0}^{N-1} |x\rangle\]。 令
+
+\[U_s = 2 |s\rangle \langle s| - I\] 为Grover扩散算子，
+
+\[U_\omega = I - 2|\omega\rangle\langle \omega|\]， 其中 \(\omega\)为使 \(f(x)=1\) 的唯一值。
+
+将 \(U_s \circ U_\omega\) 循环 \(O(\sqrt N)\)次。
 
 ## 参见
 

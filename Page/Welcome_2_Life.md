@@ -1,34 +1,103 @@
-《**Welcome 2 Life**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2019年8月5日起播出的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")，由《[龜巖許浚](../Page/龜巖許浚.md "wikilink")》、《[讓女人哭泣](../Page/讓女人哭泣.md "wikilink")》的[金根洪導演與柳熙京作家合作打造](https://zh.wikipedia.org/wiki/金根洪 "wikilink")。此劇講述為了自己的利益而去幫助那些專走法律漏洞的人的獨行俠律師，因為一次不幸的意外而被吸進另一個平行世界中，變身為剛直的檢察官，度過180度完全不同的人生。\[1\]\[2\]\[3\]
+《**Welcome 2 Life**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2019年8月5日起播出的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")，由《[龜巖許浚](../Page/龜巖許浚.md "wikilink")》、《[讓女人哭泣](../Page/讓女人哭泣.md "wikilink")》的[金根洪導演與柳熙京作家合作打造](https://zh.wikipedia.org/wiki/金根洪 "wikilink")。此劇講述為了自己的利益而去幫助那些專走法律漏洞的人的獨行俠律師，因為一次不幸的意外而被吸進另一個平行世界中，變身為剛直的檢察官，度過180度完全不同的人生的故事。\[1\]\[2\]\[3\]\[4\]
 
-台灣由[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")8/6起每週二三播出。
+台灣由[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")8/6起每週二三播出。[中華電信MOD](../Page/中華電信MOD.md "wikilink")當週同步更新
 
 ## 演員陣容
 
 ### 主要人物
 
-|                                    |        |                                                                                                                                                      |
-| ---------------------------------- | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **演員**                             | **角色** | **介紹**                                                                                                                                               |
-| [Rain](../Page/Rain.md "wikilink") | 李宰尚    | 國內五大律師事務所之一的JK律師事務所的精英律師，為了贏可以由無創造到有，可是他在某一天因為疑門的事故而瞬間被吸進另一個平行世界，變身為剛直的「專業窮相」檢察官，開始了他與之前完全不同的人生，180度不同的人生預告著李在尚的孤軍奮鬥適應記，Rain 會如何以他獨有的狡猾演技詮釋角色令人感到期待。 |
-| [林智妍](../Page/林智妍.md "wikilink")   | 羅詩恩    | 宰尚的前女友，行動比言語快的強力班刑警在她剛強的性格中有著溫暖又單純的天性，與宰尚在十年前分手後，由姻緣演變成惡緣，可是在另一個平行世界中，她是個開朗、充滿積極能量的「職場媽媽」，以愛與信任守護在宰尚身邊的妻子。                                           |
-| [郭時暘](../Page/郭時暘.md "wikilink")   | 具東澤    | 詩恩相信並跟隨的前輩兼搭檔。詩溫所屬的強力班警監，因為個性像火而有著「性火」的別名，但認識他後就會知道他是個多情的人。                                                                                          |
-|                                    |        |                                                                                                                                                      |
+|                                    |        |                                                                                                            |
+| ---------------------------------- | ------ | ---------------------------------------------------------------------------------------------------------- |
+| **演員**                             | **角色** | **介紹**                                                                                                     |
+| [Rain](../Page/Rain.md "wikilink") | 李宰尚    | 國內五大律師事務所之一的JK律師事務所的精英律師，為了贏可以由無創造到有，可是他在某一天因為疑問的事故而瞬間被吸進另一個平行世界，變身為剛直的「專業窮相」檢察官，開始了他與之前完全不同的人生。           |
+| [林智妍](../Page/林智妍.md "wikilink")   | 羅詩溫    | 宰尚的前女友，行動比言語快的強力班刑警在她剛強的性格中有著溫暖又單純的天性，與宰尚在十年前分手後，由姻緣演變成惡緣，可是在另一個平行世界中，她是個開朗、充滿積極能量的「職場媽媽」，以愛與信任守護在宰尚身邊的妻子。 |
+| [郭時暘](../Page/郭時暘.md "wikilink")   | 具東澤    | 詩恩相信並跟隨的前輩兼搭檔。詩溫所屬的強力班警監，因為個性像火而有著「性火」的別名，但認識他後就會知道他是個多情的人。                                                |
+|                                    |        |                                                                                                            |
 
-### 宰尚周邊人物
+### 現實世界
 
-|        |        |        |
-| ------ | ------ | ------ |
-| **演員** | **角色** | **介紹** |
-| 李秀雅    | 李寶娜    | 。      |
-|        |        |        |
+#### 律客律師事務所
 
-### 其他人物
-
-<table style="width:56%;">
+<table style="width:70%;">
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 10%" />
-<col style="width: 35%" />
+<col style="width: 49%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/韓尚進.md" title="wikilink">韓尚進</a></p></td>
+<td><p>姜允基</p></td>
+<td><p>律師事務所代表。明星檢察官出身，在解決多宗備受關注的重大案件後，得到了國內外的大力支持。此後，他只負責調查可以讓自己名聲大噪的大案件。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>文志浩</p></td>
+<td><p>宰尚的法律事務員，曾任警察情報科和刑事部。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 世京警察局
+
+<table style="width:70%;">
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 49%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>河敏熙</p></td>
+<td><p>科學搜查人員，完全不加修飾地只埋頭工作的奇怪女人。以前因丈夫外遇而離婚，所以對愛情非常消極。</p></td>
+</tr>
+<tr class="odd">
+<td><p>林成宰</p></td>
+<td><p>楊高雲</p></td>
+<td><p>剛調到重案組的新任刑警，與代表美麗的名字高雲完全不配，所以一直成為被取笑的對象。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### 世京地檢
+
+|                                                     |        |                                             |
+| --------------------------------------------------- | ------ | ------------------------------------------- |
+| **演員**                                              | **角色** | **介紹**                                      |
+| [崔弼立](../Page/崔弼立.md "wikilink")                    | 閔成鎮    | 刑事3部檢察官，與宰尚自大學起至司法考試間一直為同學關係，視他為競爭對手，非常討厭他。 |
+| [張少妍](https://zh.wikipedia.org/wiki/張少妍 "wikilink") | 方英淑    | 專門負責失蹤綁架的特殊調查組實務官，不斷以忠言勸告上司，令他們難以面對。        |
+|                                                     |        |                                             |
+
+### 平行世界
+
+#### 張道植勢力
+
+<table style="width:70%;">
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 49%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -38,48 +107,18 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/孫炳昊.md" title="wikilink">孫炳昊</a></p></td>
-<td><p>張道寺</p></td>
-<td><p>。</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/張少妍" title="wikilink">張少妍</a></p></td>
-<td><p>方英淑</p></td>
-<td><p>。</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/韓尚進.md" title="wikilink">韓尚進</a></p></td>
-<td><p>姜允基</p></td>
-<td><p>。</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>河敏熙</p></td>
-<td><p>。</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/朴元相.md" title="wikilink">朴元相</a></p></td>
-<td><p>吳錫俊</p></td>
-<td><p>。</p></td>
+<td><p>張道植</p></td>
+<td><p>白金建設代表，擁有龐大勢力的地區財閥。表面上以發展落後地區成為城市，實際上是一個建設流氓，透過各種逃避法律和不正之風成就了現在的財富和權力。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>朴基範</p></td>
-<td><p>。</p></td>
+<td><p>管理松樹福利財團的財團理事長，前黑社會會長出身，因非法長期買賣而入獄。出獄後，以宗教人士身份幫助道植進行各種不法行為。</p></td>
 </tr>
 <tr class="even">
-<td><p>林成宰</p></td>
-<td><p>楊高雲</p></td>
-<td><p>。</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/崔弼立.md" title="wikilink">崔弼立</a></p></td>
-<td><p>閔成鎮</p></td>
-<td><p>。</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>文志浩</p></td>
-<td><p>。</p></td>
+<td><p><a href="../Page/辛載夏.md" title="wikilink">辛載夏</a></p></td>
+<td><p>尹必宇</p></td>
+<td><p>生物製藥公司巴貝爾公司的代表，正進行新藥研究。他選定世京市為公司擴張地點，但都是根據道植指示的計劃。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -89,15 +128,70 @@
 </tbody>
 </table>
 
-### 特別出演
+#### 特別搜查本部
 
-|        |        |        |          |
-| ------ | ------ | ------ | -------- |
-| **演員** | **角色** | **介紹** | **出演集數** |
-|        |        |        | 。        |
-|        |        |        |          |
+<table style="width:70%;">
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 49%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/朴元相.md" title="wikilink">朴元相</a></p></td>
+<td><p>吳錫俊</p></td>
+<td><p>世京地方檢察廳暴力犯罪專門部部長檢察官。他乾脆在地方檢察廳旁邊租了一間房子，作為工作狂生活。雖然和成為檢察官的宰尚吵吵鬧鬧，但是他是宰尚值得學習的對象。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/張少妍" title="wikilink">張少妍</a></p></td>
+<td><p>方英淑</p></td>
+<td><p>同上。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>河敏熙</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>林成宰</p></td>
+<td><p>楊高雲</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>文志浩</p></td>
+<td><p>電腦修理店社長，因以黑客攻擊流出財閥毒品派對片段而被判刑，出獄後以修理電腦為生，勉強維持生計。但是。負責該案件的檢察官宰尚突然找到他，讓他協助宰尚辦事。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-## 原聲帶
+#### 律客律師事務所
+
+|                                  |        |                                                              |
+| -------------------------------- | ------ | ------------------------------------------------------------ |
+| **演員**                           | **角色** | **介紹**                                                       |
+| [韓尚進](../Page/韓尚進.md "wikilink") | 姜允基    | 同上。                                                          |
+| [崔弼立](../Page/崔弼立.md "wikilink") | 閔成鎮    | 律師事務所律師，在平行世界裏因為宰尚而被調查，最終被逼退下至律師事務所。比起現實世界，對宰尚的自卑感和競爭心理更加強烈。 |
+|                                  |        |                                                              |
+
+#### 其他人物
+
+|                                  |        |                                                               |
+| -------------------------------- | ------ | ------------------------------------------------------------- |
+| **演員**                           | **角色** | **介紹**                                                        |
+| [金亨範](../Page/金亨範.md "wikilink") | 安秀浩    | 詩溫同父異母的哥哥，幼年親母病逝後，爸爸和繼母生下詩溫。後來成為醫生，但過了一段時間後放棄財富，投身社會事業協助弱勢人士。 |
+| 李秀雅                              | 李寶娜    | 宰尚和詩溫的女兒。                                                     |
+|                                  |        |                                                               |
 
 ## 收視率
 
@@ -106,26 +200,22 @@
 <tr class="header">
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[4]</p></th>
-<th><p>TNmS收視率[5]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[5]</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>大韓民國（全國）</p></td>
 <td><p>首爾（首都圈）</p></td>
-<td><p>大韓民國（全國）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2019/08/05</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -133,11 +223,9 @@
 <td><p>3</p></td>
 <td><p>2019/08/06</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -145,11 +233,9 @@
 <td><p>5</p></td>
 <td><p>2019/08/12</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -157,11 +243,9 @@
 <td><p>7</p></td>
 <td><p>2019/08/13</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -169,11 +253,9 @@
 <td><p>9</p></td>
 <td><p>2019/08/19</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -181,11 +263,9 @@
 <td><p>11</p></td>
 <td><p>2019/08/20</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -193,11 +273,9 @@
 <td><p>13</p></td>
 <td><p>2019/08/26</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -205,11 +283,9 @@
 <td><p>15</p></td>
 <td><p>2019/08/27</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -217,11 +293,9 @@
 <td><p>17</p></td>
 <td><p>2019/09/02</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -229,11 +303,9 @@
 <td><p>19</p></td>
 <td><p>2019/09/03</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -241,11 +313,9 @@
 <td><p>21</p></td>
 <td><p>2019/09/09</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>22</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -253,11 +323,9 @@
 <td><p>23</p></td>
 <td><p>2019/09/10</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -265,11 +333,9 @@
 <td><p>25</p></td>
 <td><p>2019/09/16</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>26</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -277,11 +343,9 @@
 <td><p>27</p></td>
 <td><p>2019/09/17</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>28</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -289,11 +353,9 @@
 <td><p>29</p></td>
 <td><p>2019/09/23</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>30</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -301,17 +363,14 @@
 <td><p>31</p></td>
 <td><p>2019/09/24</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>32</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>平均收視率</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>

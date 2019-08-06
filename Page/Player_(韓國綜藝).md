@@ -132,14 +132,26 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>7月21日</p></td>
+<td><p>膽量訓練</p></td>
 <td><p><a href="../Page/張東民.md" title="wikilink">張東民</a>、<a href="../Page/徐宥利.md" title="wikilink">徐宥利</a></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>7月28日</p></td>
-<td><p>Player 101</p></td>
-<td><p>、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>(<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>)、<a href="../Page/BewhY.md" title="wikilink">BewhY</a></p></td>
+<td><p>Player 101 + 禁止詞出道記者會</p></td>
+<td><p>、、<a href="../Page/張東民.md" title="wikilink">張東民</a>、<a href="../Page/黃倫碩.md" title="wikilink">煥熙</a>(<a href="../Page/Fly_to_the_Sky.md" title="wikilink">Fly to the Sky</a>)、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>(<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>)、<a href="../Page/BewhY.md" title="wikilink">BewhY</a>、</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>8月4日</p></td>
+<td><p>霸氣物們出道训练 + 第一個行程</p></td>
+<td><p><a href="../Page/張東民.md" title="wikilink">張東民</a>、<a href="../Page/金泰宇.md" title="wikilink">金泰宇</a>(<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a>)、<a href="../Page/李艺真.md" title="wikilink">Ailee</a>、<a href="../Page/朴素賢.md" title="wikilink">朴素賢</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -152,8 +164,8 @@
 | ------ | ----- | --------------------------------------------------------- |
 | 韩国（全国） |       |                                                           |
 | 1      | 7月14日 | 1.2％                                                      |
-| 2      | 7月21日 | ％                                                         |
-| 3      | 7月28日 | ％                                                         |
+| 2      | 7月21日 | 1.0％                                                      |
+| 3      | 7月28日 | 1.1％                                                      |
 | 4      | 8月4日  | ％                                                         |
 | 5      | 8月11日 | ％                                                         |
 | 6      | 8月18日 | ％                                                         |

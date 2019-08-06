@@ -228,6 +228,56 @@
 </tbody>
 </table>
 
+<table>
+<tbody>
+<tr class="odd">
+<td><p>align="center"; width="600px"| {{Hidden begin</p></td>
+<td><p>titlestyle = background:#d8d8d8; text-align:center;</p></td>
+<td><p>title = 歐洲 }} <strong>Opening VCR－Question + SKZ ANTHEM</strong></p>
+<ul>
+<li>Intro</li>
+<li>Hellevator</li>
+<li>Grrr 總量的法則（Grrr 총량의 법칙 / BEWARE）</li>
+<li>NOT! <small>(VCR)</small></li>
+<li>Awaken</li>
+<li>District 9</li>
+</ul>
+<p><strong>Ment 1－Greeting</strong></p>
+<ul>
+<li>Mirror</li>
+<li>WHO? <small>(Dance Performance)</small></li>
+<li>失眠症（불면증／Insomnia）</li>
+<li>Voices</li>
+</ul>
+<p><strong>Ment 2</strong></p>
+<ul>
+<li>My Pace</li>
+<li>YOU. <small>(VCR)</small></li>
+<li>邊（편／My Side）</li>
+</ul>
+<p><strong>Ment 3</strong></p>
+<ul>
+<li>I am YOU</li>
+</ul>
+<p><strong>VCR</strong></p>
+<ul>
+<li>勝戰歌（승전가／Victory Song）</li>
+<li>MIROH</li>
+</ul>
+<p><strong>Ment 4</strong></p>
+<ul>
+<li>副作用（부작용／Side Effects）</li>
+</ul>
+<p><strong>Ment 5－Ending</strong></p>
+<ul>
+<li>沒必要突然冷場吧（갑자기 분위기 싸해질 필요 없잖아요／Awkward Silence）</li>
+<li>Get Cool</li>
+<li>YAYAYA</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
 ## 製作
 
   - 演出成員：
@@ -272,6 +322,10 @@
   - [\[Stray Kids : SKZ-TALKER GO\!(슼즈토커 고\!)\] MELBOURNE](https://www.youtube.com/watch?v=iRUhVkJoyFU)
   - [\[Stray Kids : SKZ-TALKER GO\!(슼즈토커 고\!)\] SYDNEY](https://www.youtube.com/watch?v=BPbiILNohjw)
   - [\[Stray Kids : SKZ-TALKER GO\!(슼즈토커 고\!)\] MANILA](https://www.youtube.com/watch?v=cxt_yYBq694)
+  - [\[Stray Kids : SKZ-TALKER GO\!(슼즈토커 고\!)\] USA](https://www.youtube.com/watch?v=APA8T-4srQg)
+
+<!-- end list -->
+
   - [Stray Kids "UNVEIL TOUR in USA"](https://www.youtube.com/watch?v=alkZGnOFw_g)
 
 [Category:Stray_Kids](https://zh.wikipedia.org/wiki/Category:Stray_Kids "wikilink")

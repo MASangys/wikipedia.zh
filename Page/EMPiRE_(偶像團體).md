@@ -42,7 +42,7 @@
 ### 2019年
 
   - 1月3日 – [赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")舉行「WACKなりの甲子園」，同時宣佈「WACK合宿型徵選2019」的公布，而EMPiRE亦首次一同參與，最後決定由MAYU EMPiRE參加。
-  - 1月29日 – YouTube公開《SUCCESS STORY》音樂錄影帶。同時兩小時候之後YUKA亦宣布她將於3月4日在EMPiRE和[WACK畢業](https://zh.wikipedia.org/wiki/WACK "wikilink")，以便集中學習。
+  - 1月29日 – YouTube公開《SUCCESS STORY》音樂錄影帶。同時兩小時候之後YUKA亦宣布她將於3月4日在EMPiRE和[WACK](../Page/WACK.md "wikilink")畢業，以便集中學習。
   - 2月27日 – 發行首張單曲《ピアス》。
   - 3月3日 –3月4日 – 神奈川・Yokohama Bay Hall 「EMPiRE 24小時派對 EMPiRE presents TWENTY FOUR HOUR PARTY PEOPLE」YUKA正式畢業。
   - 3月4日 – 披露新曲「SELFiSH PEOPLE」新曲「SELFiSH PEOPLE」，並再次成為5人体制。
@@ -186,7 +186,7 @@ Project AW徵選合格者。<br />
 <td></td>
 <td><p>WACK徵選2017合格者。徵選時的名字為「ガミヤサキ」。<br />
 2017年8月23日開始活動。<br />
-2019年於3月4日在EMPiRE和<a href="https://zh.wikipedia.org/wiki/WACK" title="wikilink">WACK畢業</a>。<br />
+2019年於3月4日在EMPiRE和<a href="../Page/WACK.md" title="wikilink">WACK</a>畢業。<br />
 為EMPiRE的（創始成員）<br />
 </p></td>
 <td><p><a href="https://twitter.com/intent/follow?screen_name=YUKA_EMPiRE">YUKA EMPiRE</a></p></td>

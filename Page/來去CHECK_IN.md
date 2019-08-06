@@ -57,6 +57,7 @@
 | 10 | 7月6日  | [台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")                                  | 愛吃的放馬過來　最強吃到飽全攻略     |
 | 11 | 7月13日 | [新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")、[新竹縣](../Page/新竹縣.md "wikilink") | 終結美食沙漠　新竹人大反攻        |
 | 12 | 7月21日 | [花蓮縣](../Page/花蓮縣.md "wikilink")                                                     | 爽玩花蓮有撇步　跟我踩點絕對不NG（上） |
+| 13 | 7月28日 | [花蓮縣](../Page/花蓮縣.md "wikilink")                                                     | 爽玩花蓮有撇步　跟我踩點絕對不NG（下） |
 |    |       |                                                                                      |                      |
 
 ## 參考資料

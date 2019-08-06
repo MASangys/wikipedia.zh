@@ -14,7 +14,7 @@
 
 ## 2019台灣企業甲級聯賽球員名單 \[5\]
 
-<small> 更新日期 ：2019年06月21日 </small>
+<small> 更新日期 ：2019年07月27日 </small>
 
   - 總教練︰莊明諺
 
@@ -24,7 +24,7 @@
 
 {{ Fs mid }}
 
-{{ Fs player | no= 21 | nat = TWN | pos = GK | name = 段 霱 }} {{ Fs player | no= 22 | nat = TWN | pos = | name = 涂光佑 }} {{ Fs player | no= 26 | nat = TWN | pos = | name = 李政運 }} {{ Fs player | no= 27 | nat = TWN | pos = | name = 李凱傑 }} {{ Fs player | no= 28 | nat = GAM | pos = | name = Abdul Wahab Jarjou }} {{ Fs player | no= 29 | nat = TWN | pos = | name = 周靖舜 }} {{ Fs player | no= 30 | nat = TWN | pos = | name = 廖子豪 }} {{ Fs player | no= 31 | nat = TWN | pos = GK | name = [蔡碩哲](../Page/蔡碩哲.md "wikilink") }} {{ Fs player | no= 42 | nat = GAM | pos = | name = Fadera Siaka }} {{ Fs player | no= 45 | nat = TWN | pos = | name = 陳陞洧 }} {{ Fs player | no= 55 | nat = TWN | pos = | name = 王冠儒 }} {{ Fs player | no= 88 | nat = TWN | pos = | name = 林建良 }} {{ Fs player | no= 96 | nat = TWN | pos = FW | name = [李 茂](../Page/李茂_\(足球運動員\).md "wikilink") }}
+{{ Fs player | no= 21 | nat = TWN | pos = GK | name = 段 霱 }} {{ Fs player | no= 22 | nat = TWN | pos = | name = 涂光佑 }} {{ Fs player | no= 26 | nat = TWN | pos = | name = 李政運 }} {{ Fs player | no= 27 | nat = TWN | pos = | name = 李凱傑 }} {{ Fs player | no= 28 | nat = GAM | pos = | name = Abdul Wahab Jarjou }} {{ Fs player | no= 29 | nat = TWN | pos = | name = 周靖舜 }} {{ Fs player | no= 30 | nat = TWN | pos = | name = 廖子豪 }} {{ Fs player | no= 31 | nat = TWN | pos = GK | name = [蔡碩哲](../Page/蔡碩哲.md "wikilink") }} {{ Fs player | no= 42 | nat = GAM | pos = | name = Fadera Siaka }} {{ Fs player | no= 45 | nat = TWN | pos = | name = 陳陞洧 }} {{ Fs player | no= 55 | nat = TWN | pos = | name = 王冠儒 }} {{ Fs player | no= 88 | nat = TWN | pos = | name = 林建良 }} {{ Fs player | no= 96 | nat = TWN | pos = FW | name = [李 茂](../Page/李茂_\(足球運動員\).md "wikilink") }} {{ Fs player | no= | nat = TWN | pos = DF | name = [陳庭揚](../Page/陳庭揚.md "wikilink") }}
 
 {{ Fs end }}
 

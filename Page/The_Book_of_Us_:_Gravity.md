@@ -21,13 +21,13 @@
 
 ## 榜單成績
 
-| 地區   | 榜單      | 類型   | 停留時間 | 最高位置 | 銷量 | 參考資料 | 備註 |
-| ---- | ------- | ---- | ---- | ---- | -- | ---- | -- |
-| 韓國   | Gaon銷售榜 | 專輯週榜 |      | \#   |    |      |    |
-| 專輯月榜 | 2019年7月 | \#   |      |      |    |      |    |
-| 專輯年榜 | 2019年   | \#   |      |      |    |      |    |
-| 台灣   | 5大金榜    | 日韓榜  |      | \#   | %  |      |    |
-|      |         |      |      |      |    |      |    |
+| 地區   | 榜單      | 類型   | 停留時間                  | 最高位置 | 銷量    | 參考資料  | 備註 |
+| ---- | ------- | ---- | --------------------- | ---- | ----- | ----- | -- |
+| 韓國   | Gaon銷售榜 | 專輯週榜 | 2019.07.14-2019.07.20 | \#1  |       | \[3\] |    |
+| 專輯月榜 | 2019年7月 | \#   |                       |      |       |       |    |
+| 專輯年榜 | 2019年   | \#   |                       |      |       |       |    |
+| 台灣   | 5大金榜    | 日韓榜  | 2019/7/12 - 2019/7/18 | \#2  | 6.05% | \[4\] |    |
+|      |         |      |                       |      |       |       |    |
 
 ### 音樂節目榜單排名
 
@@ -59,8 +59,6 @@
 </tbody>
 </table>
 
-## 參考資料
-
 ## 引用來源
 
 ## 外部連結
@@ -68,7 +66,9 @@
   -
   -
   -
-[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink") [Category:DAY6音樂專輯](https://zh.wikipedia.org/wiki/Category:DAY6音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
+[Category:2019年迷你專輯](https://zh.wikipedia.org/wiki/Category:2019年迷你專輯 "wikilink") [Category:DAY6音樂專輯](https://zh.wikipedia.org/wiki/Category:DAY6音樂專輯 "wikilink") [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink") [Category:2019年Gaon專輯週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2019年Gaon專輯週榜冠軍作品 "wikilink")
 
 1.
 2.
+3.
+4.

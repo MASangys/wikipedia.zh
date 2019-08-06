@@ -1,4 +1,4 @@
-**DeSmogBlog**是一个关注[全球变暖](../Page/全球变暖.md "wikilink")相关话题的[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")，成立于2006年1月。DeSmogBlog反对所谓的“资金充足、组织严密的公共关系运动”和[全球暖化否定说](../Page/全球暖化否定說.md "wikilink")，称其正在“毒害”[地球暖化的争议](../Page/地球暖化爭議.md "wikilink")。\[1\]\[2\]该网站由[加拿大](../Page/加拿大.md "wikilink")[不列颠哥伦比亚省](https://zh.wikipedia.org/wiki/不列颠哥伦比亚省 "wikilink")[温哥华一家](https://zh.wikipedia.org/wiki/温哥华 "wikilink")[公关公司的总裁](https://zh.wikipedia.org/wiki/公关 "wikilink")[詹姆斯·霍根联合创办](https://zh.wikipedia.org/wiki/詹姆斯·霍根_\(公共关系专家\) "wikilink")。
+**DeSmogBlog**是一个关注[全球变暖](../Page/全球变暖.md "wikilink")相关话题的[博客](https://zh.wikipedia.org/wiki/博客 "wikilink")，成立于2006年1月。DeSmogBlog反对所谓的“资金充足、组织严密的公共关系运动”和[全球暖化否定说](../Page/全球暖化否定說.md "wikilink")，称其正在“毒害”[地球暖化的争议](../Page/地球暖化爭議.md "wikilink")。\[1\]\[2\]该网站由[加拿大](../Page/加拿大.md "wikilink")[不列颠哥伦比亚省](https://zh.wikipedia.org/wiki/不列颠哥伦比亚省 "wikilink")[温哥华一家](https://zh.wikipedia.org/wiki/温哥华 "wikilink")[公关公司的总裁](https://zh.wikipedia.org/wiki/公关 "wikilink")[詹姆斯·霍根联合创办](../Page/詹姆斯·霍根_\(公共关系专家\).md "wikilink")。
 
 ## 内容
 
@@ -26,7 +26,7 @@ DeSmogBlog批评《金融邮报》编辑兼专栏作家，称他阻碍了加拿�
 
 ## 创始人和员工
 
-该网站的联合创始人[詹姆斯·霍根是温哥华公关公司](https://zh.wikipedia.org/wiki/詹姆斯·霍根_\(公共关系专家\) "wikilink")的总裁、主席、理事。他是2009年出版的《气候变化的掩盖：否认全球变暖的运动》（，）一书的作者，书中批评否认全球变暖的行为和阴谋论。消息人士没有透露该网站的其他联合创始人。\[22\]\[23\]\[24\]\[25\]
+该网站的联合创始人[詹姆斯·霍根是温哥华公关公司](../Page/詹姆斯·霍根_\(公共关系专家\).md "wikilink")的总裁、主席、理事。他是2009年出版的《气候变化的掩盖：否认全球变暖的运动》（，）一书的作者，书中批评否认全球变暖的行为和阴谋论。消息人士没有透露该网站的其他联合创始人。\[22\]\[23\]\[24\]\[25\]
 
 该网站称为其捐赠者。该博客的长期贡献者包括和理查德·利特莫尔（）。后者是一位科学作家，曾供职于《[温哥华太阳报](../Page/溫哥華太陽報.md "wikilink")》。该网站的项目经理曾是[凯文·格兰迪亚](https://zh.wikipedia.org/wiki/凯文·格兰迪亚 "wikilink")（），他离职后成为绿色和平组织（）的网络战略主管。截至2018年，该网站目前由布兰登·德梅尔（）管理。\[26\]
 

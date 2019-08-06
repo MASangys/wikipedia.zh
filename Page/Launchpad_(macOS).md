@@ -1,4 +1,4 @@
-**Launchpad**是從[Mac OS X Lion開始提供的預設應用](../Page/Mac_OS_X_Lion.md "wikilink")，能讓用戶以從類似於iOS的[SpringBoard的界面按一下圖示來啟動應用程式](https://zh.wikipedia.org/wiki/SpringBoard "wikilink")。在Launchpad 推出之前，用戶能以[Dock](../Page/Dock_\(MacOS\).md "wikilink")、[Finder](../Page/Finder.md "wikilink")、[Spotlight或](../Page/Spotlight_\(應用程式\).md "wikilink")[終端啟動應用](https://zh.wikipedia.org/wiki/终端_\(macOS\) "wikilink")。\[1\]
+**Launchpad**是從[Mac OS X Lion開始提供的預設應用](../Page/Mac_OS_X_Lion.md "wikilink")，能讓用戶以從類似於iOS的[SpringBoard](../Page/SpringBoard.md "wikilink")的界面按一下圖示來啟動應用程式。在Launchpad 推出之前，用戶能以[Dock](../Page/Dock_\(MacOS\).md "wikilink")、[Finder](../Page/Finder.md "wikilink")、[Spotlight或](../Page/Spotlight_\(應用程式\).md "wikilink")[終端啟動應用](https://zh.wikipedia.org/wiki/终端_\(macOS\) "wikilink")。\[1\]
 
 ## 界面與使用方法
 

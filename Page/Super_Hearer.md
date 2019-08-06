@@ -20,7 +20,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/張聖圭" title="wikilink">張聖圭</a></p></td>
+<td><p><a href="../Page/張聖圭.md" title="wikilink">張聖圭</a></p></td>
 <td></td>
 <td></td>
 <td><p>第1集至今</p></td>

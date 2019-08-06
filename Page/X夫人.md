@@ -1,4 +1,4 @@
-《**X夫人**》（）是美國歌手[瑪丹娜的第](../Page/麥當娜.md "wikilink")14張錄音室專輯，由[新視鏡唱片](../Page/新視鏡唱片.md "wikilink")於2019年6月14日發行。該專輯在創造性上受到她在2017年夏季開始在[葡萄牙](../Page/葡萄牙.md "wikilink")[里斯本](../Page/里斯本.md "wikilink")的國外生活的影響。瑪丹娜在該專輯與數名音樂人共同創作與製作，包括、與。該專輯亦有[馬路馬](../Page/馬路馬.md "wikilink")、、[斯韦·李與](https://zh.wikipedia.org/wiki/斯韦·李 "wikilink")獻聲。
+《**X夫人**》（）是美國歌手[瑪丹娜的第](../Page/麥當娜.md "wikilink")14張錄音室專輯，由[新視鏡唱片](../Page/新視鏡唱片.md "wikilink")於2019年6月14日發行。該專輯在創造性上受到她在2017年夏季開始在[葡萄牙](../Page/葡萄牙.md "wikilink")[里斯本](../Page/里斯本.md "wikilink")的國外生活的影響。瑪丹娜在該專輯與數名音樂人共同創作與製作，包括、與。該專輯亦有[馬路馬](../Page/馬路馬.md "wikilink")、、[斯韦·李](../Page/斯韦·李.md "wikilink")與獻聲。
 
 瑪丹娜發行單曲《[Medellín](../Page/Medellín_\(歌曲\).md "wikilink")》與《[Crave](../Page/Crave.md "wikilink")》以宣傳該專輯，並在該專輯發行之前發行另外三支宣傳單曲。在北美和歐洲舉辦的全[劇場巡演](../Page/劇場_\(建築\).md "wikilink")「」計劃於2019年9月12日展開。樂評人普遍給予該專輯正面的評價，並稱讚該專輯獨特且兼具試驗性的作曲。該專輯在發行首週在[《告示牌》二百大專輯榜登頂](../Page/公告牌二百强专辑榜.md "wikilink")，成為她第9張在美國登頂的專輯。
 
@@ -10,7 +10,7 @@
 
 她相信「音樂是宇宙的靈魂」，她覺得她收穫了新的影響，所以她決定基於在這座被她形容為「從[安哥拉](../Page/安哥拉.md "wikilink")到[幾內亞比索](../Page/幾內亞比索.md "wikilink")到[西班牙](../Page/西班牙.md "wikilink")到[巴西](../Page/巴西.md "wikilink")到[法國再到](https://zh.wikipedia.org/wiki/法国 "wikilink")[維德角的音樂文化熔爐](../Page/佛得角.md "wikilink")」的葡萄牙城市的音樂經歷來錄製一張專輯\[7\]。
 
-在葡萄牙居住期間，瑪丹娜一直在上傳短片和圖片記錄她製作新專輯的過程。曾參與製作專輯《[音樂聖堂](../Page/音樂聖堂_\(專輯\).md "wikilink")》和《[夢醒美國](../Page/梦醒美国.md "wikilink")》的法國製作人是專輯《X夫人》的製作人之一。曾參與製作專輯《[心叛逆](../Page/心叛逆.md "wikilink")》的也參與了該專輯的製作\[8\]\[9\]。2019年2月，[馬路馬](../Page/馬路馬.md "wikilink")與瑪丹娜在錄音室合作創作\[10\]。在接受義大利《[時尚](https://zh.wikipedia.org/wiki/时尚_\(杂志\) "wikilink")》雜誌採訪時，瑪丹娜透露她的專輯將於2019年發行\[11\]。2019年4月14日，瑪丹娜在她的Instagram帳號上傳了一系列預告片，並透露專輯名為《X夫人》\[12\]。
+在葡萄牙居住期間，瑪丹娜一直在上傳短片和圖片記錄她製作新專輯的過程。曾參與製作專輯《[音樂聖堂](../Page/音樂聖堂_\(專輯\).md "wikilink")》和《[夢醒美國](../Page/梦醒美国.md "wikilink")》的法國製作人是專輯《X夫人》的製作人之一。曾參與製作專輯《[心叛逆](../Page/心叛逆.md "wikilink")》的也參與了該專輯的製作\[8\]\[9\]。2019年2月，[馬路馬](../Page/馬路馬.md "wikilink")與瑪丹娜在錄音室合作創作\[10\]。在接受義大利《[時尚](../Page/时尚_\(杂志\).md "wikilink")》雜誌採訪時，瑪丹娜透露她的專輯將於2019年發行\[11\]。2019年4月14日，瑪丹娜在她的Instagram帳號上傳了一系列預告片，並透露專輯名為《X夫人》\[12\]。
 
 ## 標題、封面與主題
 
@@ -30,7 +30,7 @@
 
 [替代=](https://zh.wikipedia.org/wiki/File:Madonna_on_Medellin_MTV_premiere.png "fig:替代=")的歌曲《[Medellín](../Page/Medellín_\(歌曲\).md "wikilink")》MV首映式。\]\] 該專輯的主打單曲《[Medellín](../Page/Medellín_\(歌曲\).md "wikilink")》於2019年4月17日發行，與此同時該專輯開放預購。該歌曲與哥倫比亞[雷鬼動創作歌手](../Page/雷鬼音樂.md "wikilink")[馬路馬](../Page/馬路馬.md "wikilink")合唱\[17\]。瑪丹娜於2019年4月17日發佈該歌曲MV預告片，該歌曲MV於4月24日於現場直播的與[MTV特別節目中首播](../Page/音樂電視網.md "wikilink")。該歌曲於許多[MTV電視網和數位頻道播出](../Page/音樂電視網.md "wikilink")\[18\]。該歌曲MV由西班牙導演戴安娜·昆斯特和多棲藝術家茂·莫戈執導\[19\]。
 
-與美國饒舌歌手[斯韦·李合唱的歌曲](https://zh.wikipedia.org/wiki/斯韦·李 "wikilink")《[Crave](../Page/Crave.md "wikilink")》作為第二支單曲於5月10日發行\[20\]。該單曲於5月20日於[當代流行電台正式播送](https://zh.wikipedia.org/wiki/當代流行電台 "wikilink")\[21\]。該歌曲MV由Nuno Xico執導並於兩日後發行\[22\]。
+與美國饒舌歌手[斯韦·李](../Page/斯韦·李.md "wikilink")合唱的歌曲《[Crave](../Page/Crave.md "wikilink")》作為第二支單曲於5月10日發行\[20\]。該單曲於5月20日於[當代流行電台正式播送](https://zh.wikipedia.org/wiki/當代流行電台 "wikilink")\[21\]。該歌曲MV由Nuno Xico執導並於兩日後發行\[22\]。
 
 ### 宣傳單曲
 

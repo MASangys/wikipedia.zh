@@ -1,20 +1,40 @@
-|啟用年月日 = 1896年（[明治](../Page/明治.md "wikilink")29年）1月25日 |廢站年月日 = |車站構造 = [地面車站](../Page/地面車站.md "wikilink") |月台配置 = 2面2線 |乘客人數 = 2,762 |上下車人次 = |統計年度 =2017年 |停站路線數 = |所屬路線 = **** [奈良線](../Page/奈良線.md "wikilink") |前一站 = JR-D06 [六地藏](https://zh.wikipedia.org/wiki/六地藏站 "wikilink") |前一站距離 = 1.0 |後一站距離 = 1.4 |後一站 = [黃檗](https://zh.wikipedia.org/wiki/黃檗站 "wikilink") JR-D08 |距離 = 10.6 |起點站 = [京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")（正式起點為[木津站](https://zh.wikipedia.org/wiki/木津站_\(京都府\) "wikilink")） |轉車 = |備註 = [業務委託車站](https://zh.wikipedia.org/wiki/日本鐵路車站#業務委託車站 "wikilink")
-站內設有[綠色窗口](https://zh.wikipedia.org/wiki/綠色窗口 "wikilink") }} **木幡站**（）位於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[宇治市](../Page/宇治市.md "wikilink")木幡大瀬戸，是[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[奈良線](../Page/奈良線.md "wikilink")的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。車站編號是**JR-D07**。
+|啟用年月日 = 1896年（[明治](../Page/明治.md "wikilink")29年）1月25日 |廢站年月日 = |車站構造 = [地面車站](../Page/地面車站.md "wikilink") |月台配置 = 2面2線 |乘客人數 = 2,762 |上下車人次 = |統計年度 =2017年 |停站路線數 = |所屬路線 = **** [奈良線](../Page/奈良線.md "wikilink") |前一站 = JR-D06 [六地藏](https://zh.wikipedia.org/wiki/六地藏站 "wikilink") |前一站距離 = 1.0 |後一站距離 = 1.4 |後一站 = \] JR-D08 |距離 = 10.6 |起點站 = [京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")（正式起點為[木津站](https://zh.wikipedia.org/wiki/木津站_\(京都府\) "wikilink")） |轉車 = |備註 = [業務委託車站](https://zh.wikipedia.org/wiki/日本鐵路車站#業務委託車站 "wikilink")
+站內設有[綠色窗口](https://zh.wikipedia.org/wiki/綠色窗口 "wikilink") }} **木幡站**（）位於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")[宇治市](../Page/宇治市.md "wikilink")木幡大瀨戶，是[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[奈良線](../Page/奈良線.md "wikilink")的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")。車站編號是**JR-D07**。
 
-JR木幡站名的[平假名](../Page/平假名.md "wikilink")是「こ**は**た」（Kohata），但鄰近所屬於[京阪](../Page/京阪電氣鐵道.md "wikilink")[宇治線](https://zh.wikipedia.org/wiki/京阪宇治線 "wikilink")[木幡站的平假名則是](https://zh.wikipedia.org/wiki/木幡站_\(京阪\) "wikilink")「こ**わ**た」（Kowata），讀音有所不同。另外，也有一些地名將木幡讀做「こ**ば**た」（Kobata）。
+JR木幡站名的[平假名](../Page/平假名.md "wikilink")是「こ**は**た」（Kohata），但鄰近所屬於[京阪](../Page/京阪電氣鐵道.md "wikilink")[宇治線](https://zh.wikipedia.org/wiki/京阪宇治線 "wikilink")的平假名則是「こ**わ**た」（Kowata），讀音有所不同。另外，也有一些地名將木幡讀做「こ**ば**た」（Kobata）。
 
 ## 車站構造
 
-站體的月台配置，原為三線二面。站體於2012年4月經過改造後，現在的月台配置為兩面兩線。\[1\]\[2\]。
+站體的月台配置，原為2面3線。站體於2012年4月經過改造後，現在的月台配置為兩面兩線。\[1\]\[2\]。
 
 車站可以使用[IC儲值車票](https://zh.wikipedia.org/wiki/儲值車票 "wikilink")「[ICOCA](../Page/ICOCA.md "wikilink")」\[3\]。
 
 ### 月台配置
 
-| のりば | 路線                                                                                                                | 方向 | 行先                                                   |
-| --- | ----------------------------------------------------------------------------------------------------------------- | -- | ---------------------------------------------------- |
-| 1、2 | **** 奈良線                                                                                                          | 上行 | [京都方面](https://zh.wikipedia.org/wiki/京都站 "wikilink") |
-| 下行  | [宇治](https://zh.wikipedia.org/wiki/宇治站_\(JR西日本\) "wikilink")、[奈良方面](https://zh.wikipedia.org/wiki/奈良站 "wikilink") |    |                                                      |
+<table>
+<thead>
+<tr class="header">
+<th><p>月台</p></th>
+<th><p>路線</p></th>
+<th><p>方向</p></th>
+<th><p>目的地</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1、2</p></td>
+<td><p><strong></strong> 奈良線</p></td>
+<td><p>上行</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/京都站" title="wikilink">京都方向</a></p></td>
+</tr>
+<tr class="even">
+<td><p>下行</p></td>
+<td><p>、<a href="https://zh.wikipedia.org/wiki/奈良站" title="wikilink">奈良方向</a></p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 使用情況
 
@@ -126,7 +146,7 @@ JR木幡站名的[平假名](../Page/平假名.md "wikilink")是「こ**は**た
     **** 奈良線
       -
 
-        [都路快速](https://zh.wikipedia.org/wiki/奈良線#都路快速 "wikilink")、快速、区間快速
+        [都路快速](https://zh.wikipedia.org/wiki/奈良線#都路快速 "wikilink")、快速、區間快速
 
           -
             **通過**
@@ -134,7 +154,7 @@ JR木幡站名的[平假名](../Page/平假名.md "wikilink")是「こ**は**た
         普通
 
           -
-            [六地藏站](https://zh.wikipedia.org/wiki/六地藏站 "wikilink") (JR-D06) - **木幡站 (JR-D07)** - [黃檗站](https://zh.wikipedia.org/wiki/黃檗站 "wikilink") (JR-D08)
+            [六地藏](https://zh.wikipedia.org/wiki/六地藏站 "wikilink")（JR-D06）－**木幡（JR-D07）**－（JR-D08）
 
 ## 參考資料
 
@@ -150,5 +170,5 @@ JR木幡站名的[平假名](../Page/平假名.md "wikilink")是「こ**は**た
 
 1.   - 京都府山城広域振興局（2012年4月22日閲覧） ※事業中の資料。
 2.  [「お客様の声」を活かす取り組み 奈良線木幡踏切の踏切拡幅](http://www.westjr.co.jp/company/action/voice/list.html#l16)
-3.  相互利用可能ICカードは[ICOCA](../Page/ICOCA.md "wikilink")を参照。
+3.  互相可以使用的IC卡參見[ICOCA](../Page/ICOCA.md "wikilink")。
 4.  [キャパシタビジネスユニット](http://panasonic.co.jp/ped/company/cc_02/japan/a6_7_1.html)（会社概要\>事業所等一覧\>日本） - パナソニックエレクトロニックデバイス

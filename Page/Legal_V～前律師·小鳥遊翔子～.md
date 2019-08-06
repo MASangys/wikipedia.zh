@@ -28,7 +28,7 @@
   -
   - [Legal V 不敗律師](https://video.friday.tw/drama/detail/747) - [friDay影音](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")
 
-[Category:朝日電視台週四晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間九點連續劇 "wikilink") [Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink") [Category:日本法律劇](https://zh.wikipedia.org/wiki/Category:日本法律劇 "wikilink") [Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink")
+[Category:朝日電視台週四晚間九點連續劇](https://zh.wikipedia.org/wiki/Category:朝日電視台週四晚間九點連續劇 "wikilink") [Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink") [Category:日本法律劇](https://zh.wikipedia.org/wiki/Category:日本法律劇 "wikilink") [Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
 
 1.
 2.  [木曜ドラマ『リーガルV〜元弁護士・小鳥遊翔子〜』](https://www.tv-asahi.co.jp/legal-v/#/?category=drama)

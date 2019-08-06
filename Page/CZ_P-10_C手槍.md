@@ -55,7 +55,7 @@ CZ P-10 C被評為“2017年度手槍”獎。\[23\]
 
   - [CZ 75手槍](../Page/CZ_75手槍.md "wikilink")
   - [CZ 85手槍](../Page/CZ_85手槍.md "wikilink")
-  - [CZ 75 D緊湊型手槍](https://zh.wikipedia.org/wiki/CZ_75_D緊湊型手槍 "wikilink")
+  - [CZ 75 D緊湊型手槍](../Page/CZ_75_D緊湊型手槍.md "wikilink")
   - [CZ 75 P-01手槍](../Page/CZ_75_P-01手槍.md "wikilink")
   - [CZ 75 P-07手槍](../Page/CZ_75_P-07手槍.md "wikilink")
   - [CZ 75 P-09手槍](../Page/CZ_75_P-09手槍.md "wikilink")

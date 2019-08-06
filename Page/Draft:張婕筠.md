@@ -1,16 +1,4 @@
-**張婕筠**（，），台灣知名兒童節目主持人，曾是[MOMO親子台](../Page/MOMO親子台.md "wikilink")兒童節目主持人，也是[MOMO家族](../Page/MOMO家族.md "wikilink")成員之一的[甜甜姐姐](https://zh.wikipedia.org/wiki/甜甜姐姐 "wikilink")\[1\]。2019年5月與原經紀公司[優視傳播合約到期](https://zh.wikipedia.org/wiki/優視傳播 "wikilink")，改藝名為**粟粟**，並開始在電競實況平台Twitch擔任實況主，同時也轉型為YouTuber。
-
-## 簡歷
-
-## 音樂作品
-
-### 專輯
-
-  - 2014- MOMO歡樂谷8 MOMO飛到歡樂谷（2014年12月9日發行）
-  - 2015- MOMO歡樂谷9 歡樂谷的快樂萬花筒（2015年12月2日發行）
-  - 2016- MOMO歡樂谷10 歡樂谷之夢想出發（2017年1月18日發行）
-  - 2017- MOMO歡樂谷11 歡樂谷快樂的約定（2018年3月30日發行）
-  - 2018- MOMO歡樂谷12 歡樂谷的快樂藏寶圖（2019年1月18日發行）
+**張婕筠**（，），[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[彰化](https://zh.wikipedia.org/wiki/彰化 "wikilink")[員林人](https://zh.wikipedia.org/wiki/員林 "wikilink")，曾是台灣電視台[MOMO親子台](../Page/MOMO親子台.md "wikilink")兒童節目主持人之一，[MOMO家族](../Page/MOMO家族.md "wikilink")成員中的[甜甜姐姐](https://zh.wikipedia.org/wiki/甜甜姐姐 "wikilink")\[1\]。2019年5月宣布與原經紀公司[優視傳播合約到期](https://zh.wikipedia.org/wiki/優視傳播 "wikilink")，改藝名為**粟粟**，並開始在電競實況平台Twitch擔任實況主，同時也轉型為YouTuber。
 
 ## 影視作品
 
@@ -21,6 +9,16 @@
 ### 音樂錄影帶(MV)
 
   - 2019- 張簡君偉《不痛了》 [不痛了- 張簡君偉｜官方版 Official Lyric MV](https://www.youtube.com/watch?v=VMuwc-rhJEo)
+
+## 音樂作品
+
+### 專輯
+
+  - 2014- MOMO歡樂谷8 MOMO飛到歡樂谷（2014年12月9日發行）
+  - 2015- MOMO歡樂谷9 歡樂谷的快樂萬花筒（2015年12月2日發行）
+  - 2016- MOMO歡樂谷10 歡樂谷之夢想出發（2017年1月18日發行）
+  - 2017- MOMO歡樂谷11 歡樂谷快樂的約定（2018年3月30日發行）
+  - 2018- MOMO歡樂谷12 歡樂谷的快樂藏寶圖（2019年1月18日發行）
 
 ## 採訪報導
 

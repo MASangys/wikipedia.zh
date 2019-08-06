@@ -73,7 +73,7 @@ function WSU.bulletin_item( frame )
 `       end`
 `       i = i + 1`
 `   end`
-`   return '`<span class="WSU_bulletin_'..WSU._bulletin_getclass(type)..'"><span class="bulletin-type module.bulletin-type WSUb_'..WSU._bulletin_getclass(type)..'">`[' .. type .. ']`</span>` ' ..`
+`   return '\'\'\'`<span class="WSU_bulletin_'..WSU._bulletin_getclass(type)..'"><span class="bulletin-type module.bulletin-type WSUb_'..WSU._bulletin_getclass(type)..'">`[' .. type .. ']`</span>`\'\'\' ' ..`
 `       '`<span class="bulletin-prefix">`' .. prefix .. "`</span>`" ..`
 `       '`<span class="bulletin-item">`' .. mw.text.listToText(`
 `           items,`

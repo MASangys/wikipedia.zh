@@ -1,6 +1,6 @@
-《**Justice**》（），為韓國[KBS 2TV於](https://zh.wikipedia.org/wiki/KBS_2TV "wikilink")2019年7月17日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由《仲夏夜之夢》的趙雄導演與《[學校2017](../Page/學校2017.md "wikilink")》的鄭燦美作家合作打造。此劇改編自2017年的同名網路小說，講述因不當金權交易而失去家人的律師，和燃起復仇之火像惡魔一樣的男人交易後所展開的故事。\[1\]\[2\]\[3\]
+《**Justice**》（），為韓國[KBS 2TV於](https://zh.wikipedia.org/wiki/KBS_2TV "wikilink")2019年7月17日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由《[我們遇見的奇蹟](../Page/我們遇見的奇蹟.md "wikilink")》的趙雄導演與《[學校2017](../Page/學校2017.md "wikilink")》的鄭燦美作家合作打造。此劇改編自2017年的同名網路小說，講述因不當金權交易而失去家人的律師，和燃起復仇之火像惡魔一樣的男人交易後所展開的故事。\[1\]\[2\]\[3\]
 
-台灣由[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")、[LINE TV](../Page/LINE_TV.md "wikilink")、遠傳friDay影音站 7/18起每週四五播出。
+台灣由[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")、[LINE TV](../Page/LINE_TV.md "wikilink")、遠傳friDay影音站 7/18起每週四五播出。[中華電信MOD](../Page/中華電信MOD.md "wikilink") 7/26起每週五更新4集。
 
 ## 演員陣容
 
@@ -92,97 +92,81 @@
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[4]</p></th>
-<th><p>TNmS收視率[5]</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>大韓民國（全國）</p></td>
 <td><p>首爾（首都圈）</p></td>
-<td><p>大韓民國（全國）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2019/07/17</p></td>
 <td><p>6.1%</p></td>
-<td><p>6.2%</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>6.4%</p></td>
 <td><p>6.5%</p></td>
-<td><p>5.9%</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2019/07/18</p></td>
 <td><p>3.8%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>4.8%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
 <td><p>2019/07/24</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.5%</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>6.3%</p></td>
+<td><p>6.4%</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
 <td><p>2019/07/25</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.2%</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.4%</p></td>
+<td><p>5.8%</p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
 <td><p>2019/07/31</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.3%</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.6%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
 <td><p>2019/08/01</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.4%</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.3%</p></td>
+<td><p>5.5%</p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
 <td><p>2019/08/07</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -190,11 +174,9 @@
 <td><p>15</p></td>
 <td><p>2019/08/08</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -202,11 +184,9 @@
 <td><p>17</p></td>
 <td><p>2019/08/14</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -214,11 +194,9 @@
 <td><p>19</p></td>
 <td><p>2019/08/15</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -226,11 +204,9 @@
 <td><p>21</p></td>
 <td><p>2019/08/21</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>22</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -238,11 +214,9 @@
 <td><p>23</p></td>
 <td><p>2019/08/22</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -250,11 +224,9 @@
 <td><p>25</p></td>
 <td><p>2019/08/28</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>26</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -262,11 +234,9 @@
 <td><p>27</p></td>
 <td><p>2019/08/29</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>28</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -274,11 +244,9 @@
 <td><p>29</p></td>
 <td><p>2019/09/04</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>30</p></td>
-<td><p>%</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
 </tr>
@@ -286,17 +254,14 @@
 <td><p>31</p></td>
 <td><p>2019/09/05</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>32</p></td>
 <td><p>%</p></td>
 <td><p>%</p></td>
-<td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>平均收視率</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -332,4 +297,3 @@
 2.
 3.
 4.
-5.

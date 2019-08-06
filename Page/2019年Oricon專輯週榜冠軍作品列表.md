@@ -257,6 +257,14 @@
 <td><p>精選</p></td>
 <td><p>7.0</p></td>
 </tr>
+<tr class="odd">
+<td><p>8月6日</p></td>
+<td><p>3.4</p></td>
+<td><p>3</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

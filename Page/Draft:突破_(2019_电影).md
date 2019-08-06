@@ -72,7 +72,7 @@ Metz performed "I'll Stand With You" from the film's soundtrack at the  alongsid
 
 ## Release
 
-*Breakthrough* was released in the United States by [Walt Disney Studios Motion Pictures](../Page/華特迪士尼工作室電影.md "wikilink") and co-distributed by [20th Century Fox](../Page/二十世紀福斯.md "wikilink") on April 17, 2019.\[12\] The Easter weekend it was released on was the lowest in box office since 2005, because studios had generally avoided making a major release during that period in order to avoid competing with Disney's release of *[Avengers: Endgame](https://zh.wikipedia.org/wiki/復仇者聯盟：終局之戰 "wikilink")* the following weekend.\[13\]
+*Breakthrough* was released in the United States by [Walt Disney Studios Motion Pictures](../Page/華特迪士尼工作室電影.md "wikilink") and co-distributed by [20th Century Fox](../Page/二十世紀福斯.md "wikilink") on April 17, 2019.\[12\] The Easter weekend it was released on was the lowest in box office since 2005, because studios had generally avoided making a major release during that period in order to avoid competing with Disney's release of *[Avengers: Endgame](../Page/復仇者聯盟：終局之戰.md "wikilink")* the following weekend.\[13\]
 
 ## Reception
 

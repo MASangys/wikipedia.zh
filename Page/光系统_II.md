@@ -51,7 +51,7 @@
   - [P680](../Page/P680.md "wikilink")
   - [光合作用](../Page/光合作用.md "wikilink")
   - [光系统](../Page/光系统.md "wikilink")
-  - [光系统 I](https://zh.wikipedia.org/wiki/光系统_I "wikilink")
+  - [光系统 I](../Page/光系统_I.md "wikilink")
   - [光系统II捕光蛋白](https://zh.wikipedia.org/wiki/光系统II捕光蛋白 "wikilink")
   - [反应中心](https://zh.wikipedia.org/wiki/反应中心 "wikilink")
   - [光抑制](https://zh.wikipedia.org/wiki/光抑制 "wikilink")

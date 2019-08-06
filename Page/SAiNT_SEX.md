@@ -1,23 +1,24 @@
-**SAiNT SEX**是日本的音樂團體、女子偶像組合、是[WACK的洗牌團體](https://zh.wikipedia.org/wiki/WACK "wikilink")\[1\]。2017年結成。隸屬於WACK。唱片公司為Tower Records。
+**SAiNT SEX**是日本的音樂團體、女子偶像組合、是[WACK](../Page/WACK.md "wikilink")的洗牌團體\[1\]。2017年結成。隸屬於WACK。唱片公司為Tower Records。
 
 ## 概要
 
 2017年10月2日，宣布選擇BiS，BiSH和GANG PARADE的成員為WACK的第一個官方洗牌團體，名為SAiNT SEX。他們唯一的單曲，WACK是FXXK，於10月18日作為Tower Records限量版獨家發行。
+雖然解散了，但是亦有多次重聚。
 
 ## 沿革
 
 ### 2017年
 
-  - \- Wack no Fes上作為一個整體首次演出後，Watanabe宣布SAINT SEX將解散。
+  - 在「Wack no Fes」上作為一個首次演出後，宣布SAINT SEX將解散。
 
 ### 2018年
 
-  - 3月4日 - プー・ルイ在BiS和WACK畢業。
-  - 8月 - ，SAiNT SEX在東京偶像節重聚，ゴ・ジーラ取代了3月份畢業於BiS的プー・ルイ。
+  - 3月4日 - プー・ルイ宣布在BiS和WACK畢業。
+  - 8月 - SAiNT SEX在東京偶像節重聚，ゴ・ジーラ取代了3月份畢業於BiS的プー・ルイ，成為SAiNT SEX的新成員。
 
 ### 2019年
 
-  - 2月6日 – SAiNT SEX使用東京偶像節2018陣容向音樂商店發布了重新錄製的WACK FXXK版本。\[2\]。
+  - 2月6日 – SAiNT SEX使用東京偶像節2018的新陣容向音樂商店發布了重新錄製的WACK FXXK版本。\[2\]。
   - 5月11日 –由於解散，ゴ・ジーラ和アヤ・エイトプリンス都離開WACK。目前還不知道SAiNT SEX會否再解散。
 
 ## 成員
@@ -186,6 +187,7 @@
 
 ## 外部連結
 
+  -
 [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
 
 1.  [BiSH、BiS、GANG PARADEメンバーからなるSAiNT SEXが「WACK is FXXK」発売](https://natalie.mu/music/news/251166)

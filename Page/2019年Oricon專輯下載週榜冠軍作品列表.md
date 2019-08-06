@@ -224,6 +224,13 @@
 <td><p>1.2</p></td>
 <td><p>[26]</p></td>
 </tr>
+<tr class="odd">
+<td><p>9月5日</p></td>
+<td><p>1.4</p></td>
+<td><p>[27]</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -262,3 +269,4 @@
 24. [菅田将暉「まちがいさがし」が5週ぶり1位返り咲き 『あなたの番です』手塚翔太の劇中歌が2位【オリコンランキング】](https://www.oricon.co.jp/news/2139683/full/)
 25. [BUMP OF CHICKEN、合算ランキングで1位 CD&デジタル同時1位に【オリコンランキング】](https://www.oricon.co.jp/news/2140267/full/)
 26. [RADWIMPS、デジタルシングル1位、2位独占 映画『天気の子』サントラも1位【オリコンランキング】](https://www.oricon.co.jp/news/2140797/full/)
+27. [RADWIMPSの映画『天気の子』サントラ、2週目で合算アルバム1位【オリコンランキング】](https://www.oricon.co.jp/news/2141290/full/)

@@ -247,7 +247,7 @@ Legal V</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>15/07-<br />
 </p></td>
-<td style="text-align: center;"><p><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/娛樂風雲" title="wikilink">娛樂風雲</a><br />
 Showman's Show</p></td>
 <td style="text-align: center;"><p>100</p></td>
 <td style="text-align: center;"><p><a href="../Page/何啟華.md" title="wikilink">何啟華</a>、、<a href="../Page/李麗珍.md" title="wikilink">李麗珍</a>、<br />
@@ -487,9 +487,9 @@ Limited Education</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/廖啟智.md" title="wikilink">廖啟智</a>、<a href="../Page/陳秀雯.md" title="wikilink">陳秀雯</a>、<a href="../Page/劉俊謙_(香港).md" title="wikilink">劉俊謙</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/朱栢謙" title="wikilink">朱栢謙</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、<br />
-、<a href="../Page/唐浩然.md" title="wikilink">唐浩然</a>、<a href="https://zh.wikipedia.org/wiki/周漢寧" title="wikilink">周漢寧</a>、<br />
+、<a href="../Page/唐浩然.md" title="wikilink">唐浩然</a>、<a href="../Page/周漢寧.md" title="wikilink">周漢寧</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/程仁富" title="wikilink">程仁富</a>、<a href="https://zh.wikipedia.org/wiki/鍾雪瑩" title="wikilink">鍾雪瑩</a>、<a href="https://zh.wikipedia.org/wiki/鄧麗英" title="wikilink">鄧麗英</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/盧蓁宜" title="wikilink">盧蓁宜</a>、<a href="https://zh.wikipedia.org/wiki/麥可怡" title="wikilink">麥可怡</a>、<a href="https://zh.wikipedia.org/wiki/余家溢" title="wikilink">余家溢</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/盧蓁宜" title="wikilink">盧蓁宜</a>、<a href="https://zh.wikipedia.org/wiki/麥可怡" title="wikilink">麥可怡</a>、<a href="../Page/余家溢.md" title="wikilink">余家溢</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/陳志發.md" title="wikilink">陳志發</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/limited-education">網頁</a></p></td>
 <td style="text-align: center;"></td>
@@ -498,7 +498,7 @@ Limited Education</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>08/07-<br />
 02/08</p></td>
-<td style="text-align: center;"><p><br />
+<td style="text-align: center;"><p><a href="../Page/仇老爺爺.md" title="wikilink">仇老爺爺</a><br />
 Haters Gonna Stay</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/盧海鵬.md" title="wikilink">盧海鵬</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、<a href="https://zh.wikipedia.org/wiki/盧巧音" title="wikilink">盧巧音</a>、<br />
@@ -512,7 +512,7 @@ Haters Gonna Stay</p></td>
 <td style="text-align: center;"><p>05/08-<br />
 21/08</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/理想國_(電視劇)" title="wikilink">理想國</a><br />
-</p></td>
+The Republic</p></td>
 <td style="text-align: center;"><p>13</p></td>
 <td style="text-align: center;"><p><a href="../Page/黃秋生.md" title="wikilink">黃秋生</a>、<a href="../Page/楊淇_(香港演員).md" title="wikilink">楊　淇</a>、<a href="../Page/吳綺莉.md" title="wikilink">吳綺莉</a>、<br />
 <a href="../Page/王敏奕.md" title="wikilink">王敏奕</a>、、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<br />
@@ -667,7 +667,7 @@ Psycho Detective</p></td>
 
 ##### 第一線劇集／第二線劇集（4月2日至25日）
 
-[香港時間](../Page/香港時間.md "wikilink")逢星期二至五<small>（星期一至四深夜）</small>01:00-02:30播出；1月8日起改為00:30-02:00播出（4月2日至12日期間改為01:30-02:30播出，4月16日至25日期間改為01:30-03:00播出，5月23日至8月2日期間改為00:30-01:30播出）
+[香港時間](../Page/香港時間.md "wikilink")逢星期二至五<small>（星期一至四深夜）</small>01:00-02:30播出；1月8日起改為00:30-02:00播出（4月2日至12日期間改為01:30-02:30播出，4月16日至25日期間改為01:30-03:00播出）；5月23日起改為00:30-01:30播出
 
 <table style="width:344%;">
 <colgroup>

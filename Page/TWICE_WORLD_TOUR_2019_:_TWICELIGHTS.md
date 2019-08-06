@@ -59,7 +59,7 @@
 <td><p>7月18日</p></td>
 <td><p>洛杉磯站</p></td>
 <td><p><a href="../Page/論壇體育館.md" title="wikilink">論壇體育館</a></p></td>
-<td><p>11,000[5][6] |-</p></td>
+<td><p>12,000[5][6] |-</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -75,7 +75,7 @@
 <td><p>7月22日</p></td>
 <td><p>紐華克站</p></td>
 <td></td>
-<td><p>20,000[8]</p></td>
+<td><p>15,000[8]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -83,7 +83,7 @@
 <td><p>7月24日</p></td>
 <td><p>芝加哥站</p></td>
 <td></td>
-<td></td>
+<td><p>8,000</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -195,6 +195,8 @@
 </table>
 
 ## 参考资料
+
+[Category:TWICE巡迴演唱會](https://zh.wikipedia.org/wiki/Category:TWICE巡迴演唱會 "wikilink")
 
 1.  [TWICE 確定 22 日回歸！世界巡迴演唱會 5 月開跑](https://www.koreastardaily.com/tc/news/115544)
 2.

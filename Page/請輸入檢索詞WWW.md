@@ -6,15 +6,15 @@
 
 ### 主要人物
 
-|                                                     |          |                                         |
-| --------------------------------------------------- | -------- | --------------------------------------- |
-| **演員**                                              | **角色**   | **介紹**                                  |
-| [林秀晶](../Page/林秀晶.md "wikilink")                    | 裴塔美 （塔美） | 業界第一Unicon入口網站企業的前本部長，後跳槽Barro。         |
-| [張基龍](../Page/張基龍.md "wikilink")                    | 朴模建      | 製作遊戲音樂的「密林Sound」公司代表，鄭多仁的初戀。            |
-| [李多熙](../Page/李多熙_\(演員\).md "wikilink")             | 車賢 （史嘉莉） | 業界第二Barro的網站社交部長，因在電梯裡毆打性騷擾犯而有前科，喜歡薛智煥。 |
-| [全慧珍](../Page/全慧珍.md "wikilink")                    | 宋佳京      | Unicon入口網站的理事，與裴塔美之前關係良好，後因理念不合惡化。      |
-| [李在旭](https://zh.wikipedia.org/wiki/李在旭 "wikilink") | 薛智煥      | 「岳母為何那樣」的演員，一次外景中被車賢誤會是嫌犯絆倒後相識。         |
-| [池承炫](../Page/池承炫.md "wikilink")                    | 吳真宇      | JW電影代表，宋佳京政治聯姻的老公，其實深愛著宋佳京。             |
+|                                         |          |                                             |
+| --------------------------------------- | -------- | ------------------------------------------- |
+| **演員**                                  | **角色**   | **介紹**                                      |
+| [林秀晶](../Page/林秀晶.md "wikilink")        | 裴朵美 （塔美） | 業界第一Unicon入口網站企業的前本部長，後跳槽Barro。             |
+| [張基龍](../Page/張基龍.md "wikilink")        | 朴模建      | 製作遊戲音樂的「密林Sound」公司代表，對裴朵美一見鍾情並死心塌地，是鄭多仁的初戀。 |
+| [李多熙](../Page/李多熙_\(演員\).md "wikilink") | 車賢 （史嘉莉） | 業界第二Barro的網站社交部長，因在電梯裡毆打性騷擾犯而有前科，喜歡薛智煥。     |
+| [全慧珍](../Page/全慧珍.md "wikilink")        | 宋佳京      | Unicon入口網站的理事，與裴塔美之前關係良好，後因理念不合惡化。          |
+| [李在旭](../Page/李在旭.md "wikilink")        | 薛智煥      | 「岳母為何那樣」的演員，一次外景中被車賢誤會是嫌犯絆倒後相識。             |
+| [池承炫](../Page/池承炫.md "wikilink")        | 吳真宇      | JW電影代表，宋佳京政治聯姻的老公，其實深愛著宋佳京。                 |
 
 ### Barro
 
@@ -42,7 +42,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>崔奉基</p></td>
+<td><p>崔奉基 （喬瑟夫）</p></td>
 <td><p>Unicon新進組長，總是十分開朗。在塔美離開Unicon時自願和她一起加入Barro。</p></td>
 </tr>
 <tr class="odd">
@@ -148,6 +148,70 @@
 
   - Part.7（發行日期：2019年7月18日）
 
+<!-- end list -->
+
+  - Part.8（發行日期：2019年7月26日）
+
+<!-- end list -->
+
+  - Part.9（發行日期：2019年7月26日）
+
+<!-- end list -->
+
+  - Part.10（發行日期：2019年7月26日）
+
+<!-- end list -->
+
+  - Part.11（發行日期：2019年7月26日）
+
+<!-- end list -->
+
+  - Part.12（發行日期：2019年7月26日）
+
+<!-- end list -->
+
+  - Part.13（發行日期：2019年7月26日）
+
+<!-- end list -->
+
+  - Part.14（發行日期：2019年7月26日）
+
+<!-- end list -->
+
+  - Part.15（發行日期：2019年7月26日）
+
+<!-- end list -->
+
+  - Part.16（發行日期：2019年7月26日）
+
+<!-- end list -->
+
+  - Part.17（發行日期：2019年7月26日）
+
+<!-- end list -->
+
+  - Part.18（發行日期：2019年7月26日）
+
+<!-- end list -->
+
+  - Part.19（發行日期：2019年7月26日）
+
+<!-- end list -->
+
+  - Part.20（發行日期：2019年7月26日）
+
+<!-- end list -->
+
+  - Part.21（發行日期：2019年7月26日）
+
+<!-- end list -->
+
+  - Part.22（發行日期：2019年7月26日）
+
+<!-- end list -->
+
+  - Part.23（發行日期：2019年7月26日）
+
 ## 收視率
 
 <table>
@@ -217,7 +281,7 @@
 <tr class="even">
 <td><p>11</p></td>
 <td><p>2019/07/10</p></td>
-<td></td>
+<td><p>4.003%</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
@@ -237,12 +301,12 @@
 <tr class="even">
 <td><p>15</p></td>
 <td><p>2019/07/24</p></td>
-<td><p>%</p></td>
+<td><p>4.089%</p></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
 <td><p>2019/07/25</p></td>
-<td><p>%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>平均收視率</p></td>
@@ -258,9 +322,9 @@
 
 ## 同時段競爭作品
 
-  - [KBS](../Page/韓國放送公社.md "wikilink") [水木連續劇](../Page/KBS水木連續劇.md "wikilink")：《[僅此一次的愛情](../Page/僅此一次的愛情.md "wikilink")》、《[JUSTICE](https://zh.wikipedia.org/wiki/Justice_\(韓國電視劇\) "wikilink")》
+  - [KBS](../Page/韓國放送公社.md "wikilink") [水木連續劇](../Page/KBS水木連續劇.md "wikilink")：《[僅此一次的愛情](../Page/僅此一次的愛情.md "wikilink")》、《[JUSTICE](../Page/Justice_\(韓國電視劇\).md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink") [水木連續劇](../Page/SBS水木連續劇.md "wikilink")：《[絕對達令](../Page/絕對達令_\(韓國電視劇\).md "wikilink")》、《[偵探醫生](../Page/偵探醫生.md "wikilink")》
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[春夜](../Page/春夜.md "wikilink")》、《[新入史官丘海昤](https://zh.wikipedia.org/wiki/新入史官丘海昤 "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[春夜](../Page/春夜.md "wikilink")》、《[新入史官丘海昤](../Page/新入史官丘海昤.md "wikilink")》
 
 ## 参考資料
 

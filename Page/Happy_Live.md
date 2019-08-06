@@ -1,6 +1,6 @@
 **Happy Live**於2017年3月起成立的網上音樂直播節目。\[1\]由[翟威廉](../Page/翟威廉.md "wikilink")，[周志文](https://zh.wikipedia.org/wiki/周志文 "wikilink")，[周志康創辦](https://zh.wikipedia.org/wiki/周志康 "wikilink")。早期形式是以手機作簡單直播，之後為配合[TVB](https://zh.wikipedia.org/wiki/TVB "wikilink") BigBigChannel的營運方針而轉成多平台的網上音樂[直播](https://zh.wikipedia.org/wiki/直播 "wikilink")。平台包括：BigBigChannel， [Facebook](../Page/Facebook.md "wikilink")， [Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")， [Instagram](../Page/Instagram.md "wikilink")。直播成員4至6 人，每次均由不同的藝人及歌手組成。除唱歌外，出席的隊員亦需要兼任樂器位置，直播時除了隊員及嘉賓想唱的歌曲外，亦會在直播中接受網民的即場點歌。參與人物方面，除了常常出席的中堅隊員外，亦會不時請新嘉賓來一齊Jam歌及玩遊戲。由於藝員及歌手的工作關係，HappyLive直播日子不定，但直播時間都是晚上22:00至23:00左右, 大概一星期2次，而直播預告會在翟威廉Instagram的簡介中看到。\[2\]
 
-經過兩年營運，Happy Live開始以Acoustic Band的形式演出，[Band的名字亦叫](https://zh.wikipedia.org/wiki/Band "wikilink")<Happy Live>。每次表演隊員都是由常見的人物及特別嘉賓組成，以配合不同主題及各人的樂器專長。[Happy Live樂隊的音樂理念以輕鬆開心為主](https://zh.wikipedia.org/wiki/Happy_Live "wikilink")。演出時樂器組合可加可減，以配合隊員的發揮。
+經過兩年營運，Happy Live開始以Acoustic Band的形式演出，[Band的名字亦叫](https://zh.wikipedia.org/wiki/Band "wikilink")<Happy Live>。每次表演隊員都是由常見的人物及特別嘉賓組成，以配合不同主題及各人的樂器專長。[Happy Live樂隊的音樂理念以輕鬆開心為主](../Page/Happy_Live.md "wikilink")。演出時樂器組合可加可減，以配合隊員的發揮。
 
 ## 起源
 

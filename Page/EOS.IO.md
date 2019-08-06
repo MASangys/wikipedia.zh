@@ -33,7 +33,7 @@ EOS.IO平台的目標是提供分散式應用程序托管﹑智能合約功能�
 
 ### 帳户
 
-EOS.IO軟件允許每個帳戶被引用為獨一無二且[人類可讀的](../Page/人类可读介质.md "wikilink")12字符戶名，戶名可以由帳戶創建人選擇。帳戶創建人必順預留足夠的[RAM以儲存新帳戶](https://zh.wikipedia.org/wiki/RAM "wikilink")，直至新帳戶以抵押代幣來為自己預留RAM。\[13\]
+EOS.IO軟件允許每個帳戶被引用為獨一無二且[人類可讀的](../Page/人类可读介质.md "wikilink")12字符戶名，戶名可以由帳戶創建人選擇。帳戶創建人必需預留足夠的[RAM以儲存新帳戶](https://zh.wikipedia.org/wiki/RAM "wikilink")，直至新帳戶以抵押代幣來為自己預留RAM。\[13\]
 
 ### RAM交易
 

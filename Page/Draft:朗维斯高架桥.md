@@ -12,6 +12,6 @@ The rail carriers have a plate beam cross section rigidly connected with the car
 
 此桥完工时，是世界上最长的[铁路桥](https://zh.wikipedia.org/wiki/铁路桥 "wikilink")，也是[特林](https://zh.wikipedia.org/wiki/特林_\(瑞士\) "wikilink")[木匠](https://zh.wikipedia.org/wiki/木匠 "wikilink")的杰作。施工时，共使用了800立方米的[脚手架](../Page/腳手架.md "wikilink")。
 
-[Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink") [Category:瑞士交通](https://zh.wikipedia.org/wiki/Category:瑞士交通 "wikilink") [Category:瑞士桥梁](https://zh.wikipedia.org/wiki/Category:瑞士桥梁 "wikilink") [Category:铁路桥](https://zh.wikipedia.org/wiki/Category:铁路桥 "wikilink")
+[Category:瑞士交通](https://zh.wikipedia.org/wiki/Category:瑞士交通 "wikilink") [Category:瑞士桥梁](https://zh.wikipedia.org/wiki/Category:瑞士桥梁 "wikilink") [Category:铁路桥](https://zh.wikipedia.org/wiki/Category:铁路桥 "wikilink")
 
 1.  [Swiss inventory of cultural property of national and regional significance](http://www.bevoelkerungsschutz.admin.ch/internet/bs/de/home/themen/kgs/kgs_inventar.html)  21.11.2008 version,  accessed 27-Oct-2009

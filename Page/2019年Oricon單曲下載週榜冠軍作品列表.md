@@ -224,6 +224,13 @@
 <td><p>5.4</p></td>
 <td><p>[25]</p></td>
 </tr>
+<tr class="odd">
+<td><p>8月5日</p></td>
+<td><p>7.8</p></td>
+<td><p>[26]</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -261,3 +268,4 @@
 23. [菅田将暉「まちがいさがし」が5週ぶり1位返り咲き 『あなたの番です』手塚翔太の劇中歌が2位【オリコンランキング】](https://www.oricon.co.jp/news/2139683/full/)
 24. [Official髭男dism、初のデジタルシングル1位 ストリーミング8週連続1位【オリコンランキング】](https://www.oricon.co.jp/news/2140269/full/)
 25. [RADWIMPS、デジタルシングル1位、2位独占 映画『天気の子』サントラも1位【オリコンランキング】](https://www.oricon.co.jp/news/2140797/full/)
+26. [RADWIMPS、デジタルシングル2週連続1位2位独占 2週連続4作同時TOP10入り【オリコンランキング】](https://www.oricon.co.jp/news/2141289/full/)

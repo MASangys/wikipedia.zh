@@ -1,4 +1,4 @@
-**廣川茉音**（；），藝名為**MAY**（）。[日本](../Page/日本.md "wikilink")女歌手，是韓國女子組合[Cherry Bullet成員之一](../Page/Cherry_Bullet.md "wikilink")，隊內擔當領舞。
+**廣川茉音**（；），藝名為**MAY**（）。[日本](../Page/日本.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[Cherry Bullet成員之一](../Page/Cherry_Bullet.md "wikilink")，隊內擔當領舞。
 
 ## 預告照
 
@@ -8,9 +8,9 @@
 
 ### 2018年：公開預告照
 
-11月21日，經紀公司於下午12點公開了MAY的出道預告照。
+11月21日，經紀公司於下午12點公開了MAY的預告照。
 
-### 專屬綜藝
+## 專屬綜藝
 
 | 日期                    | 電視台                                                   | 節目名稱                            | 參與成員 | 備註       |
 | --------------------- | ----------------------------------------------------- | ------------------------------- | ---- | -------- |

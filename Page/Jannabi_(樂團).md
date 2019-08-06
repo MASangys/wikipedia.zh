@@ -210,7 +210,7 @@ Jannabi的音樂以復古音樂為主，這不是團體刻意塑造的音樂取�
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/傳說_(Jannabi專輯)" title="wikilink">傳說</a></strong>》</p>
+<td><p>《<strong><a href="../Page/傳說_(Jannabi專輯).md" title="wikilink">傳說</a></strong>》</p>
 <ul>
 <li>發行日期：2019年3月13日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>

@@ -134,6 +134,18 @@ Memoji 新增了更多設計，從頭髮、嘴唇、綠帽、耳環、甚至可�
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>Developer beta 5</p></td>
+<td><p><small>17A5547d</small></p></td>
+<td><p>2019年7月30日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Public beta 4</p></td>
+<td><p>2019年7月31日</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

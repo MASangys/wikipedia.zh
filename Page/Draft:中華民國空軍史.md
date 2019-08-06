@@ -1,0 +1,206 @@
+**中華民國空軍史**是指自1920年[中華民國軍政府成立](https://zh.wikipedia.org/wiki/中華民國軍政府 "wikilink")[航空局起](https://zh.wikipedia.org/wiki/航空局 "wikilink")，至今的[空軍軍史](../Page/中華民國空軍.md "wikilink")。
+
+## 背景
+
+### [清政府時期](https://zh.wikipedia.org/wiki/清政府 "wikilink")，1901年-1913年
+
+在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[萊特兄弟](https://zh.wikipedia.org/wiki/萊特兄弟 "wikilink")1901年發明[現代飛機後](https://zh.wikipedia.org/wiki/飛機 "wikilink")，中國最早出現相關的記載是在1901年出版的《[皇朝經濟文編](https://zh.wikipedia.org/wiki/皇朝經濟文編 "wikilink")》中。\[1\]然而要到[中華民國](../Page/中華民國.md "wikilink")[北洋政府](../Page/北洋政府.md "wikilink")時期，才開始將飛機運用於[軍事用途](https://zh.wikipedia.org/wiki/軍事用途 "wikilink")。在此之前，[航空器的利用大多是使用](https://zh.wikipedia.org/wiki/航空器 "wikilink")[氣球](https://zh.wikipedia.org/wiki/氣球 "wikilink")、[熱氣球等設備作為偵查之用](https://zh.wikipedia.org/wiki/熱氣球 "wikilink")。
+
+1905年，時任[湖廣總督](https://zh.wikipedia.org/wiki/湖廣總督 "wikilink")[張之洞從](https://zh.wikipedia.org/wiki/張之洞 "wikilink")[日本](../Page/日本.md "wikilink")購進[山田式偵查氣球](https://zh.wikipedia.org/wiki/山田式偵查氣球 "wikilink")，開啟了中國武裝力量的航空時代。\[2\]1908年1月2日，[湖北陸軍第8鎮氣球隊成立](https://zh.wikipedia.org/wiki/湖北陸軍第8鎮 "wikilink")，以[工兵營](https://zh.wikipedia.org/wiki/工兵營 "wikilink")[營長](https://zh.wikipedia.org/wiki/營長 "wikilink")[王永泉](../Page/王永泉.md "wikilink")兼任隊長，並聘日籍教練指導操作[山田式氣球](https://zh.wikipedia.org/wiki/山田式氣球 "wikilink")。同年夏季，[江蘇陸軍第9鎮氣球隊](https://zh.wikipedia.org/wiki/江蘇陸軍第9鎮 "wikilink")、[直隸陸軍第4鎮氣球隊相繼成立](https://zh.wikipedia.org/wiki/直隸陸軍第4鎮 "wikilink")。隔年，[清廷正式頒布](https://zh.wikipedia.org/wiki/清廷 "wikilink")《[陸軍氣球預備法](https://zh.wikipedia.org/wiki/陸軍氣球預備法 "wikilink")》，制定了購買氣球、培養人才、各省組織氣球偵察隊等規定。同年2月，[陸軍大學堂編印了](https://zh.wikipedia.org/wiki/陸軍大學堂 "wikilink")《氣球學》，講授氣球原理並教授官兵如何操作。\[3\]
+
+1910年，[清廷在](https://zh.wikipedia.org/wiki/清廷 "wikilink")[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[南范建立航空機構](https://zh.wikipedia.org/wiki/南范 "wikilink")。\[4\]
+
+### [北洋政府時期](../Page/北洋政府時期.md "wikilink")，1913年-1920年
+
+[中華民國](../Page/中華民國.md "wikilink")建立以後，1913年[北洋政府](../Page/北洋政府.md "wikilink")[陸軍部成立](https://zh.wikipedia.org/wiki/陸軍部 "wikilink")[南苑航空學校與](https://zh.wikipedia.org/wiki/南苑航空學校 "wikilink")[航空研究所](https://zh.wikipedia.org/wiki/航空研究所 "wikilink")，並且購置[法国製](https://zh.wikipedia.org/wiki/法国 "wikilink")[高德隆式戰機](https://zh.wikipedia.org/wiki/高德隆式戰機 "wikilink")12架。這可以稱作[中華民國空軍](../Page/中華民國空軍.md "wikilink")的濫觴。\[5\]同年，[中國開始將飛機用於軍事](../Page/中華民國.md "wikilink")。在[蒙古發生動亂時](https://zh.wikipedia.org/wiki/蒙古發生動亂 "wikilink")，[北洋政府](../Page/北洋政府.md "wikilink")派出飛機到[多倫偵察與示威](https://zh.wikipedia.org/wiki/多倫 "wikilink")。\[6\]
+
+1914年4月，[北洋政府](../Page/北洋政府.md "wikilink")的航空部隊展開第一次空襲，鎮壓[白朗起義軍](https://zh.wikipedia.org/wiki/白朗 "wikilink")。時任[南苑航空學校校長](https://zh.wikipedia.org/wiki/南苑航空學校 "wikilink")[秦國鏞率領](https://zh.wikipedia.org/wiki/秦國鏞 "wikilink")4架飛機轟炸[白朗軍](https://zh.wikipedia.org/wiki/白朗軍 "wikilink")。\[7\]到了1917年6月[张勋复辟时](https://zh.wikipedia.org/wiki/张勋复辟 "wikilink")，[段祺瑞](../Page/段祺瑞.md "wikilink")曾经派遣飞机轰炸[紫禁城](https://zh.wikipedia.org/wiki/紫禁城 "wikilink")、[豐台兵營與](https://zh.wikipedia.org/wiki/豐台兵營 "wikilink")[張勳](../Page/張勳.md "wikilink")的宅邸，並開始在各個戰役中出擊。到了1918年，[北洋政府](../Page/北洋政府.md "wikilink")的[陸軍航空部隊已經頗具規模](https://zh.wikipedia.org/wiki/陸軍 "wikilink")；而[海軍部](../Page/海軍部.md "wikilink")則在[福建](https://zh.wikipedia.org/wiki/福建 "wikilink")[馬尾成立](https://zh.wikipedia.org/wiki/馬尾 "wikilink")[飛潛學校](https://zh.wikipedia.org/wiki/飛潛學校 "wikilink")，開始培養相關人才與製造[海軍飛機](https://zh.wikipedia.org/wiki/海軍飛機 "wikilink")。
+
+## 中華民國空軍的成立
+
+### 空軍成立-北伐完成，1920年-1926年
+
+  - 1920年以後，各地军阀纷纷组建自有的航空學校或[航空隊](https://zh.wikipedia.org/wiki/航空隊 "wikilink")，以及軍械或機械班，從而培養人才。
+
+<!-- end list -->
+
+  - 1921年，[中華航空協會成立](https://zh.wikipedia.org/wiki/中華航空協會 "wikilink")。
+
+<!-- end list -->
+
+  - 1922年，[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")[江南造船所建成世界上第一個浮動廠棚](https://zh.wikipedia.org/wiki/江南造船所 "wikilink")（[水上機場](https://zh.wikipedia.org/wiki/水上機場 "wikilink")）。
+
+<!-- end list -->
+
+  - 1923年，[北京航空協會成立](https://zh.wikipedia.org/wiki/北京航空協會 "wikilink")。
+
+<!-- end list -->
+
+  - 1924年，北洋政府[航空署成立](https://zh.wikipedia.org/wiki/航空署 "wikilink")「北京航空學校」。\[8\]
+
+<!-- end list -->
+
+  - 1925年，[廣東航空同志會成立](https://zh.wikipedia.org/wiki/廣東航空同志會 "wikilink")。\[9\]
+
+### 南京政府时期，1926年-1937年
+
+[The_gate_of_the_Central_Aviation_School.jpg](https://zh.wikipedia.org/wiki/File:The_gate_of_the_Central_Aviation_School.jpg "fig:The_gate_of_the_Central_Aviation_School.jpg")校門\]\] [The_Welding_Gang.jpg](https://zh.wikipedia.org/wiki/File:The_Welding_Gang.jpg "fig:The_Welding_Gang.jpg")前留影\]\]
+
+  - 1928年 南京[國民政府](../Page/國民政府.md "wikilink")中央陸軍軍官學校於[南京創立](https://zh.wikipedia.org/wiki/南京 "wikilink")[航空班](https://zh.wikipedia.org/wiki/航空班 "wikilink")。
+
+<!-- end list -->
+
+  - 1931年 [航空班遷至杭州筧橋](https://zh.wikipedia.org/wiki/航空班 "wikilink")，航空班擴編改制為航空學校，並由德籍顧問協助各項飛行訓練工作。
+
+<!-- end list -->
+
+  - 1932年 更名為「**中央航空學校**」，校址定於[杭州](https://zh.wikipedia.org/wiki/杭州 "wikilink")[筧橋](https://zh.wikipedia.org/wiki/筧橋 "wikilink")。
+
+<!-- end list -->
+
+  - 1934年將航空署改組為航空委員會，主責空軍發展。
+
+<!-- end list -->
+
+  - 1936年[清華大學成立](https://zh.wikipedia.org/wiki/清華大學 "wikilink")[航空研究所](https://zh.wikipedia.org/wiki/航空研究所 "wikilink")，中日戰爭中和[西南聯大航空系合併成立](https://zh.wikipedia.org/wiki/西南聯大 "wikilink")[航空研究院](https://zh.wikipedia.org/wiki/航空研究院 "wikilink")。
+
+<!-- end list -->
+
+  - 1937年正式制訂空軍[軍旗樣式](https://zh.wikipedia.org/wiki/軍旗 "wikilink")，原直屬於[陸軍總司令部的空軍自此成為獨立軍種](https://zh.wikipedia.org/wiki/陸軍總司令部 "wikilink")。\[10\]
+
+## 中國抗日戰爭與第二次世界大戰
+
+### 1937年-1945年
+
+  - 1937年[淞沪会战](../Page/淞沪会战.md "wikilink")，中國空軍在時任空軍前敵總司令部防空總臺長[陳一白少将用无线电精确指挥下](https://zh.wikipedia.org/wiki/陳一白 "wikilink")，第一次击落外国战机，称为[八一四空战](../Page/八一四空战.md "wikilink")，以后8月14日被命名为[空军节](https://zh.wikipedia.org/wiki/空军节 "wikilink")。
+
+<!-- end list -->
+
+  - 1937年10月美國人[舒米德](https://zh.wikipedia.org/wiki/舒米德 "wikilink")（）來中國參與中國空軍，陸續有各國飛行員加入，並在[漢口組織編](https://zh.wikipedia.org/wiki/漢口 "wikilink")[空軍第14隊](https://zh.wikipedia.org/wiki/空軍第14隊 "wikilink")。後因該隊的指揮問題，政府於1938年3月裁撤。\[11\]\[12\]
+
+<!-- end list -->
+
+  - 1938年4月政府以半年為期，雇用法籍飛行員組成[空軍第41隊](https://zh.wikipedia.org/wiki/空軍第41隊 "wikilink")，因軍紀及作戰表現於同年10月起解聘。\[13\]
+
+<!-- end list -->
+
+  - [抗戰爆發後遷至](https://zh.wikipedia.org/wiki/中國抗日戰爭 "wikilink")[雲南](https://zh.wikipedia.org/wiki/雲南 "wikilink")[昆明](https://zh.wikipedia.org/wiki/昆明 "wikilink")，並於1938年正式定名為「**空軍軍官學校**」。
+
+<!-- end list -->
+
+  - 抗战中，中國空軍大量接受[苏联](../Page/苏联.md "wikilink")和[美国](../Page/美国.md "wikilink")的军事援助，并且组建了[苏联航空志愿队](../Page/苏联航空志愿队.md "wikilink")和美國志願大隊[飛虎隊](../Page/飛虎隊.md "wikilink")有力的支援了[抗战](https://zh.wikipedia.org/wiki/抗战 "wikilink")。美國志願大隊改制為美軍陸航的第十四航空隊，曾於1943年11月25日以超低空飛行越過台灣海峽，突襲日本陸航新竹基地，摧毀日軍陸航各式戰機達50至60餘架。對日抗战期间，中國空軍出现出一批[王牌飞行员](../Page/王牌飞行员.md "wikilink")包括[高志航](../Page/高志航.md "wikilink")、[李桂丹](https://zh.wikipedia.org/wiki/李桂丹 "wikilink")、[樂以琴](../Page/樂以琴.md "wikilink")、[陳瑞鈿](../Page/陳瑞鈿.md "wikilink")、[刘粹刚](../Page/刘粹刚.md "wikilink")、[柳哲生](../Page/柳哲生.md "wikilink")、[王光复](../Page/王光复.md "wikilink")等。
+
+<!-- end list -->
+
+  - 1938年5月19日下午3时，中國空軍[徐煥升](https://zh.wikipedia.org/wiki/徐煥升 "wikilink")、[佟彦博](../Page/佟彦博.md "wikilink")驾兩架[B-10由漢口起飛](https://zh.wikipedia.org/wiki/B-10 "wikilink")，[陳衣凡](../Page/陳衣凡.md "wikilink")駕僅剩最後一架[He 111A轟炸機擔任後勤支援運輸](../Page/He_111轟炸機.md "wikilink")，向日本[熊本和](https://zh.wikipedia.org/wiki/熊本 "wikilink")[福岡等大城市投下傳單](https://zh.wikipedia.org/wiki/福岡 "wikilink")，向日本國民揭露有關日軍在華侵略，最後三機安全返回。此事不單轟動全中國，也上了英美報紙新聞，美國報章更登出日機在中國狂轟濫炸的相片作為比較。這是中國空軍第一次跨国境任务。
+
+<!-- end list -->
+
+  - 抗戰勝利後「**空軍軍官學校**」遷回筧橋，之後因[國共內戰爆發](https://zh.wikipedia.org/wiki/國共內戰 "wikilink")，「**空軍軍官學校**」於1949年隨國民政府撤退至台灣，並於[高雄縣](https://zh.wikipedia.org/wiki/高雄縣 "wikilink")[岡山鎮](../Page/岡山區.md "wikilink")（今高雄市岡山區）現址復校。
+
+<!-- end list -->
+
+  - 1941年美國宣戰並協助中國空軍作戰以後，曾多次派機轟炸臺灣，並有部分美機在台墜落，飛行員遭日軍逮捕成為俘虜，戰後政府即要求駐台日軍善後連絡部部長[安籐利吉呈報被俘虜的飛行員狀況](https://zh.wikipedia.org/wiki/安籐利吉 "wikilink")。\[14\]
+
+自民國25年蔣中正50歲生日的「五十獻機」全國活動之後，至抗日戰爭開戰前，1937年（民國26年），中華民國空軍編制如下：
+
+空軍前敵總指揮：周至柔 　　 副總指揮：毛邦初 　　 參謀長：石邦藩
+
+第一大隊：輕轟炸機大隊，轄第1中隊、第2中隊，裝備18架諾斯羅普-伽瑪2E輕型轟炸機；大隊長曹文炳；抗戰爆發後諾機移交至二大隊補充 第二大隊：輕轟炸機大隊，轄大隊部、第9、11、14中隊，裝備諾斯羅普-伽瑪2E輕型轟炸機共27架；駐守在杭州及廣德，大隊長張廷孟； 第三大隊：驅逐機大隊，轄大隊部、第7、8、17中隊，裝備美國波音281戰機10架、義大利布瑞達～27戰鬥機2架、菲亞特一32飛機6架、霍克3戰機9架；駐守在南京的句容，大隊長蔣其炎； 第四大隊：驅逐機大隊，轄大隊部、第21、22、23中隊，裝備美國寇蒂斯霍克3戰機28架；駐守在南昌，大隊長高志航，1937年11月高志航戰死後李桂丹接任，李後於隔年武漢會戰戰死，由毛瀛初繼任。四大隊到1945年抗戰勝利前一共經歷13任大隊長更迭 第五大隊：驅逐機大隊，轄大隊部、第24、25、28中隊，裝備美國寇蒂斯霍克3戰機28架；駐地南昌，大隊長丁紀徐； 第六大隊：偵察機大隊，轄大隊部、第3中隊、第4中隊及第5中隊，裝備美國道格拉斯飛行器公司O2MC偵察機45部；駐地南京，大隊長陳棲霞； 第七大隊：偵察機大隊，轄大隊部、第6、12、15、16中隊，編制2架O2MC偵察機、錢斯渥特飛機公司可塞機27架；駐地西安，大隊長陶佐德； 第八大隊：重轟炸機大隊，轄大隊部、第10、19、30中隊，裝備6架義大利Savoia-Marchetti S.72、6架德國He111-A0轟炸機，5架美國馬丁139W轟炸機；駐地南昌，大隊長李懷民； 第九大隊：對地攻擊機大隊，轄大隊部、第26、27中隊，裝備美國A-12攻擊機20架；駐地蚌埠，大隊長劉超然。 此外尚有5支直轄中隊：13中隊​​（7架道格拉斯O2MC）、第18中隊（8架道格拉斯O2MC、3架可塞機）、20中隊（11架可塞機）、29中隊（9架霍克3、3架霍克2）、31中隊（9架O2MC）。 除正規編制外，尚有暫編第32、34、35中隊，由航校教官編成之訓練單位。
+
+總機數為295部，可用機數為234架，餘64架在維修中。
+
+從七七事變到武漢失守，空軍殉國的飛行員約202位，平均年齡不超過23歲。部分殉國官兵如下：
+
+高志航，第4大隊，大隊長，民國26年12月21日於周家口機場殉國，年29歲，被譽為中華民國的空軍「戰神」。 劉粹剛，第24中隊，中隊長，民國26年12月26日於高平迫降時殉國，年25歲，生前擊落敵機11架。 閻海文，第25中隊，飛行員，民國26年8月17日於淞滬會戰中被擊中後落入敵陣自殺殉國，年21歲。 樂以琴，第21中隊，副隊長，民國26年12月3日南京上空殉國，年22歲，淞滬會戰中一個月內擊落敵機9架，被譽為中華民國的空軍「空中四大天王」。 李桂丹，第4大隊，大隊長，民國27年2月18日武漢空戰中殉國，年24歲，在武漢空戰中創12分鐘獨殲敵機3架記錄。 沈崇誨，第9中隊，分隊長，民國26年8月19日淞滬會戰於餘山海面執行轟炸任務，因機件故障駕戰機撞擊敵艦殉國，年26歲，同機飛行員陳錫純。 陳錫純，第9中隊，飛行員，民國26年8月19日淞滬會戰於餘山海面執行轟炸任務，因機件故障駕戰機撞擊敵艦殉國，年23歲。 |}<small>—以上[未簽名的留言由](https://zh.wikipedia.org/wiki/Wikipedia:在對話頁上簽名 "wikilink")[Chitalee](https://zh.wikipedia.org/wiki/User:Chitalee "wikilink")（[對話](https://zh.wikipedia.org/wiki/User_talk:Chitalee "wikilink")｜[貢獻](https://zh.wikipedia.org/wiki/Special:Contributions/Chitalee "wikilink")）於2019年7月25日 (四) 09:49 (UTC)加入。</small>
+
+## 第二次國共內戰
+
+### 1945年-1949年
+
+第二次世界大戰結束後，除了裝備持續接受美國援助全面換裝美式機種外，也接收日軍降機及工廠，組織架構也另外進行調整及改組，1945年9月裁撤了[中美空軍混合團](../Page/中美空軍混合團.md "wikilink")另行成立了-{「}-空軍第一聯隊-{」}-指揮戰爭期間由混合團指揮的一、三、五大隊，原先的航空委員會也正式於1946年6月改組為**空軍總司令部**，下轄5個軍區司令部，總編制人員數為129700人，作戰用飛機共556架。全空軍共編制為8個大隊又1個中隊的作戰單位。 為配合空軍番號整編及機種統一，自1946年6月起，空軍各主要作戰部隊番號及配備機種如下：
+
+  - 第一大隊（漢口）：轟炸機大隊，轄1、3、4、9中隊，操作機種[B-25J](https://zh.wikipedia.org/wiki/B-25米切爾型轟炸機 "wikilink")
+  - 第二大隊（上海）：運輸機大隊，轄2、6、11、30中隊，操作機種C-46D；後配合任務屬性改名為**空軍空運第二大隊**、**第二十大隊**
+  - 第三大隊（徐州）：戰鬥機大隊，轄7、8、28、32中隊，操作機種P-51D/K；32中隊1946年8月1日解編
+  - 第四大隊（北平）：戰鬥機大隊，轄21、22、23、24中隊，操作機種P-51D/K；24中隊1946年8月1日解編
+  - 第五大隊（南京）：戰鬥機大隊，轄17、26、27、29中隊，操作機種P-51D/K；29中隊1946年8月1日解編
+  - 第六大隊（北平）：混編大隊、轄5、18、19中隊，操作機種為日本各型降機，5中隊操作轟炸機，18、19換裝驅逐機，因料件補充困難在1946年6月撤銷編制
+  - 第八大隊（上海）：轟炸機大隊、轄33、34、35中隊，操作機種B-24M
+  - 第十大隊（南京）：運輸機大隊、轄101、102、103、104中隊、操作機種C-46D、C-47B；原名**空軍空運第一大隊**，避免內部編號兩個第一混淆在1948年1月變更代號
+  - 第十一大隊（西安）：戰鬥機大隊、轄41、42、43、44中隊，操作機種P-47D(41、42、43)、P-40N(44)；42中隊因1946年7月換裝新機時發生集體迷航墜毀事件，於該年9月番號正式撤銷
+  - 第十二大隊（南京大校場）：偵照部隊，轄[第12中隊](../Page/中華民國空軍第12戰術偵察機中隊.md "wikilink")，操作機種[F-5E](https://zh.wikipedia.org/wiki/P-38 "wikilink")、[F-10](https://zh.wikipedia.org/wiki/B-25 "wikilink")
+
+除1946年6月解編的六大隊日製戰機，1946年6月整編後空軍編制計有12支戰鬥機中隊、7支轟炸機中隊(4中3重)、8支運輸機中隊、1支偵察機中隊，總規模28中隊
+
+## 冷戰時期
+
+### 1949年-1990年
+
+|          |                   |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| -------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 名稱       | 時間                | 戰果                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 十一五南麂山空戰 | 1955年10月15日       | <small>[孫嗣文擊落敵](https://zh.wikipedia.org/wiki/孫嗣文 "wikilink")[米格機一架](https://zh.wikipedia.org/wiki/米格機 "wikilink")，首創[軍刀機擊落米格機之紀錄](https://zh.wikipedia.org/wiki/軍刀機 "wikilink")。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| 七二一閩海空戰  | 1956年7月21日        | <small>[歐陽漪棻](../Page/歐陽漪棻.md "wikilink")擊落敵米格機二架、擊傷二架。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| 八一四平潭空戰  | 1958年8月14日        | <small>領隊[李忠立少校擊落一架](https://zh.wikipedia.org/wiki/李忠立 "wikilink")，[秦秉均上尉擊落一架](https://zh.wikipedia.org/wiki/秦秉均 "wikilink")，中尉[潘輔德](https://zh.wikipedia.org/wiki/潘輔德 "wikilink")、少尉[尹滿榮可能合力擊落一架](https://zh.wikipedia.org/wiki/尹滿榮 "wikilink")。我七號機[劉光燦於返航時](https://zh.wikipedia.org/wiki/劉光燦 "wikilink")，在平潭附近失事墜海殉職。                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| 九八澄海空戰   | 1958年9月8日         | <small>[劉憲武上尉擊落二架](https://zh.wikipedia.org/wiki/劉憲武 "wikilink")、[餘鐘禔少校](https://zh.wikipedia.org/wiki/餘鐘禔 "wikilink")、[秦秉鈞上尉](https://zh.wikipedia.org/wiki/秦秉鈞 "wikilink")、[梁金中中尉各擊落一架](https://zh.wikipedia.org/wiki/梁金中 "wikilink")、[朱偉明少尉擊落一架](https://zh.wikipedia.org/wiki/朱偉明 "wikilink")、梁金中中尉擊傷一架。五比零紀錄。                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| 九一八金門空戰  | 1958年9月18日        | <small>孫嗣文少校，[劉心業中尉](https://zh.wikipedia.org/wiki/劉心業 "wikilink")，[陸養仲少尉各擊落一架](https://zh.wikipedia.org/wiki/陸養仲 "wikilink")，林文禮上尉擊落二架。總計，兩次戰役戰果豐碩，以五比零擊敗敵機。                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 九二四溫州灣空戰 | 1958年9月24日10時34分  | <small>米格十七型機被[錢奕強擊落兩架](https://zh.wikipedia.org/wiki/錢奕強 "wikilink")，[李叔元](../Page/李叔元.md "wikilink")、[傅純顯](https://zh.wikipedia.org/wiki/傅純顯 "wikilink")、[宋宏焱](https://zh.wikipedia.org/wiki/宋宏焱 "wikilink")、[馬大鵬](https://zh.wikipedia.org/wiki/馬大鵬 "wikilink")、[夏繼藻](https://zh.wikipedia.org/wiki/夏繼藻 "wikilink")、[王淵博各擊落一架](https://zh.wikipedia.org/wiki/王淵博 "wikilink")，[唐積敏](https://zh.wikipedia.org/wiki/唐積敏 "wikilink")、[李載權合力擊落一架](https://zh.wikipedia.org/wiki/李載權 "wikilink")，共計九架。又[劉賡元](https://zh.wikipedia.org/wiki/劉賡元 "wikilink")、[宋宏焱各擊落一架](https://zh.wikipedia.org/wiki/宋宏焱 "wikilink")，[冷培澍擊傷一架](https://zh.wikipedia.org/wiki/冷培澍 "wikilink")，此役前衛分隊一至四號機先後使用[空對空響尾蛇飛彈命中敵機](https://zh.wikipedia.org/wiki/空對空響尾蛇飛彈 "wikilink")，此為全世界首次以響尾蛇飛彈擊落米格十七型飛機之先例。安全飛返基地。 |
+| 雙十馬祖空戰   | 1958年10月10日07時33分 | <small>[路靖少校擊落一架](https://zh.wikipedia.org/wiki/路靖 "wikilink")、[丁定中上尉擊落二架](https://zh.wikipedia.org/wiki/丁定中 "wikilink")、[葉傳煦上尉擊落一架](https://zh.wikipedia.org/wiki/葉傳煦 "wikilink")、[張迺軍少尉與米格機互撞後下落不明](https://zh.wikipedia.org/wiki/張迺軍 "wikilink")，[羅承光](https://zh.wikipedia.org/wiki/羅承光 "wikilink")、[靳大紀各擊傷一架](https://zh.wikipedia.org/wiki/靳大紀 "wikilink")。空軍以五比一獲勝。                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| 一一三空戰    | 1967年1月13日13時02分  | <small>第三大隊中校輔導官[蕭亞民率上尉飛行官](https://zh.wikipedia.org/wiki/蕭亞民 "wikilink")[胡世霖](https://zh.wikipedia.org/wiki/胡世霖 "wikilink")，少校分隊長[楊敬宗上尉](https://zh.wikipedia.org/wiki/楊敬宗 "wikilink")，飛行官[石貝波駕](https://zh.wikipedia.org/wiki/石貝波 "wikilink")[F-104G](https://zh.wikipedia.org/wiki/F-104G "wikilink") 機四架，於十二時五十一分起飛，航向金門東北執行任務。十三時零七分，長機及二號僚機發現解放軍兩架並辨認為米格十九型機，長機發射飛彈一枚未射出，二號機胡世霖上尉同時亦射出飛彈一枚，命中敵機並冒出黑煙，向右下方雲中急墜。十三時零八分四號機石貝波上尉，接敵至四千呎時判明為解放軍米格十九型機後，即發射飛彈一枚，目睹敵機中彈著火墜入雲中，空戰結束後，[楊敬宗上尉失蹤確認殉職](https://zh.wikipedia.org/wiki/楊敬宗 "wikilink")。                                                                                                                                                                                                                                             |
+
+### 飛龍計畫
+
+1962年1月12日，美國[中情局駐臺北代表](https://zh.wikipedia.org/wiki/中情局 "wikilink")向蔣經國表示，將裝有電子反制設備之[C-123運輸機](../Page/C-123運輸機.md "wikilink")予臺灣，便於反攻大陸時特種作戰空投之用，此為中華民國國防部所稱之「飛龍計畫」\[15\]之始。9月時，國軍已有30名飛行員赴[北卡羅萊納州接受C](https://zh.wikipedia.org/wiki/北卡羅萊納州 "wikilink")-123機飛行訓練；1963年2月，美方5架C-123運抵臺灣；7月2日，國軍結訓飛行員駕駛C-123機，在南越執行了首次任務，並在[榮市以西之山區空投了代號為](https://zh.wikipedia.org/wiki/榮市 "wikilink")「巨人」(Giant)之特戰部隊。\[16\]
+
+1964年2月，美方再與蔣經國商議。美方決議加強對越北之敵後作戰情報工作，商請中華民國同意美國徵求選用駕駛該型飛機共9個組的空勤人員，並要求中華民國現役空軍飛行員以退役身分轉任[中華航空公司](https://zh.wikipedia.org/wiki/中華航空公司 "wikilink")，受當時美國支持的[越南航空公司雇用](https://zh.wikipedia.org/wiki/越南航空公司 "wikilink")，由駐越美軍司令部特戰組節制指揮，協助空投南越情報員至越北。\[17\]
+
+此任務一直持續到1968年間結束。
+
+## 現今
+
+  - 1915年，南苑附設修理工廠用外國[發動機設計製造發動機後置型的陸上飛機](https://zh.wikipedia.org/wiki/發動機 "wikilink")。
+
+<!-- end list -->
+
+  - 1918年，北洋政府[海軍部](../Page/海軍部.md "wikilink")於[福州船政局](../Page/福州船政局.md "wikilink")創辦[海軍飛機工程部](https://zh.wikipedia.org/wiki/海軍飛機工程部 "wikilink")，為第一個正規的中國軍用飛機工廠。
+
+[Caudron_G.3_in_Chinese_service.jpg](https://zh.wikipedia.org/wiki/File:Caudron_G.3_in_Chinese_service.jpg "fig:Caudron_G.3_in_Chinese_service.jpg") [The_Rosamonde.jpg](https://zh.wikipedia.org/wiki/File:The_Rosamonde.jpg "fig:The_Rosamonde.jpg")
+
+## 章节标题
+
+\[18\]
+
+## 參考資料
+
+## 外部連結
+
+1.
+
+2.
+
+3.
+
+4.
+5.
+
+6.
+
+7.
+8.
+9.
+
+10.
+11.
+
+12.
+
+13.
+14.
+15. 關於飛龍計畫的解密檔案，可在國史館查到，但國史館目前不開放網上閱覽，需親至觀看；與此相關的諸多特種任務計畫，如南星、快刀、新生、野龍、神龍等計畫，不在此文討論範圍內，故略過。
+
+16. [The Way We Do Things-Black Entry Operations into North Vietnam](http://www.foia.cia.gov/sites/default/files/document_conversions/48/5_THE_WAY_WE_DO_THINGS.pdf)，Thomas L. Ahern（英文）
+
+17. 〈蔣經國與納爾遜會談紀要（四）〉，《蔣經國總統文物》，國史館藏，典藏號：005-010301-00006-007，入藏登錄號：005000000120A。
+
+18. 来源

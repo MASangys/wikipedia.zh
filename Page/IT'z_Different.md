@@ -77,7 +77,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>FLO</strong></p></td>
-<td><p>*3</p></td>
+<td><p>3</p></td>
 </tr>
 <tr class="even">
 <td><ul>

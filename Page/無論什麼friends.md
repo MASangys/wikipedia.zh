@@ -1,4 +1,4 @@
-《**無論什麼friends**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN電視台於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年7月17日播出的綜藝節目。節目名稱由兩個環節名稱：“無論什麼ranking mart”和“味道偵探friends”前後組合而成。節目主軸是用排名的方式瞭解同時代生活的人們所關心的事物，可以帶來有共鳴的愉快笑容。請期待出演者爲了避免花自己的錢而努力推理的樣子。\[1\]\[2\]
+《**無論什麼friends**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN電視台的綜藝節目](https://zh.wikipedia.org/wiki/tvN "wikilink")。節目名稱由兩個環節名稱：“無論什麼ranking mart”和“味道偵探friends”前後組合而成。節目主軸是用排名的方式瞭解同時代生活的人們所關心的事物，可以帶來有共鳴的愉快笑容請期待出演者爲了避免花自己的錢而努力推理的樣子。\[1\]\[2\]\[3\]\[4\]
 
 ## 節目成員
 
@@ -94,7 +94,7 @@
 <tr class="header">
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB尼爾森收視率</a>[3][4]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB尼爾森收視率</a>[5][6]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -118,12 +118,12 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2019/07/24</p></td>
-<td><p>%</p></td>
+<td><p>1.011%</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>2019/07/31</p></td>
-<td><p>%</p></td>
+<td><p>0.939%</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -171,3 +171,5 @@
 2.
 3.
 4.
+5.
+6.

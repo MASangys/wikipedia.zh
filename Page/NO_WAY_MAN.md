@@ -98,7 +98,7 @@
   - Team A：[加藤玲奈](../Page/加藤玲奈_\(AKB48\).md "wikilink")、西川怜
   - Team K：[込山榛香](../Page/込山榛香.md "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")
   - Team B：[大家志津香](../Page/大家志津香.md "wikilink")、[佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")、[谷口惠](../Page/谷口惠.md "wikilink")、山邊步夢
-  - Team 8／Team B：太田奈緒
+  - Team 8／Team B：
 
 ### 一下就被看穿真是對不起
 
@@ -125,13 +125,13 @@
   - Team 4：稻垣香織、[村山彩希](../Page/村山彩希.md "wikilink")
   - Team 8／Team K：
   - Team 8／Team B：佐藤栞
-  - Team 8／Team 4：大西桃香
+  - Team 8／Team 4：[大西桃香](../Page/大西桃香.md "wikilink")
   - SKE48 Team S：[北川綾巴](../Page/北川綾巴.md "wikilink")
-  - SKE48 Team KII：[大場美奈](../Page/大場美奈.md "wikilink")、惣田紗莉渚、古畑奈和
+  - SKE48 Team KII：[大場美奈](../Page/大場美奈.md "wikilink")、[惣田紗莉渚](../Page/惣田紗莉渚.md "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")
   - NMB48 Team M：[澀谷凪咲](../Page/澀谷凪咲.md "wikilink")、[吉田朱里](../Page/吉田朱里.md "wikilink")
   - HKT48 Team KIV：運上弘菜、[森保圓](../Page/森保圓.md "wikilink")
   - NGT48 Team NIII：[西潟茉莉奈](../Page/西潟茉莉奈.md "wikilink")
-  - NGT48 Team G：山口真帆
+  - NGT48 Team G：[山口真帆](../Page/山口真帆.md "wikilink")
   - STU48：田中皓子
 
 ### 早安開啟的世界
@@ -164,7 +164,7 @@
   - Team A：鈴木久留美、田口愛佳
   - Team B：久保怜音
   - Team 8／Team K：山田杏華
-  - 研究生：矢作萌夏
+  - 研究生：[矢作萌夏](../Page/矢作萌夏.md "wikilink")
   - SKE48 Team KII：[小畑優奈](../Page/小畑優奈.md "wikilink")
   - SKE48 Team E：末永櫻花
   - NMB48 Team N：[梅山戀和](https://zh.wikipedia.org/wiki/梅山戀和 "wikilink")、

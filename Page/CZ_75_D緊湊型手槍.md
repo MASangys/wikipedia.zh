@@ -42,7 +42,7 @@ CZ 75 D緊湊型的衍生型：PČR緊湊型（PČR意為：捷克警察）由�
   - [CZ P-10 C手槍](../Page/CZ_P-10_C手槍.md "wikilink")
   - [白頭山手槍](../Page/白頭山手槍.md "wikilink")
   - [布倫十式半自動手槍](../Page/布倫十式半自動手槍.md "wikilink")
-  - [BUL切諾基手槍](https://zh.wikipedia.org/wiki/BUL切諾基手槍 "wikilink")
+  - [BUL切諾基手槍](../Page/BUL切諾基手槍.md "wikilink")
   - [NZ 75手槍](../Page/NZ_75手槍.md "wikilink")
   - [IWI傑里科941手槍](../Page/IWI傑里科941手槍.md "wikilink")
   - [Tanfoglio T95手槍](https://zh.wikipedia.org/wiki/Tanfoglio_T95手槍 "wikilink")

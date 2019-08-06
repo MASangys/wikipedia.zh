@@ -182,6 +182,15 @@ Cat &amp; Dog (Animal ver.)[20]</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>6月5日</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR" title="wikilink">The Dream Chapter: STAR</a>》</p></td>
+<td><p>Nap of a star[22]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -206,223 +215,223 @@ Cat &amp; Dog (Animal ver.)[20]</p></td>
 </tr>
 <tr class="odd">
 <td><p>1月10日</p></td>
-<td><p>Introduction Film - What do you do?[22]</p></td>
+<td><p>Introduction Film - What do you do?[23]</p></td>
 <td><p>YEONJUN</p></td>
 <td><p>DREAMING</p></td>
 </tr>
 <tr class="even">
 <td><p>1月13日</p></td>
-<td><p>Introduction Film - What do you do?[23]</p></td>
+<td><p>Introduction Film - What do you do?[24]</p></td>
 <td><p>SOOBIN</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1月15日</p></td>
-<td><p>Introduction Film - What do you do?[24]</p></td>
+<td><p>Introduction Film - What do you do?[25]</p></td>
 <td><p>HUENINGKAI</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1月17日</p></td>
-<td><p>Introduction Film - What do you do?[25]</p></td>
+<td><p>Introduction Film - What do you do?[26]</p></td>
 <td><p>TAEHYUN</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1月20日</p></td>
-<td><p>Introduction Film - What do you do?[26]</p></td>
+<td><p>Introduction Film - What do you do?[27]</p></td>
 <td><p>BEOMGYU</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1月23日</p></td>
-<td><p>Introduction Film - What do you do?[27]</p></td>
+<td><p>Introduction Film - What do you do?[28]</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1月27日</p></td>
-<td><p>Questioning Film - What do you see?[28]</p></td>
+<td><p>Questioning Film - What do you see?[29]</p></td>
 <td><p>SOOBIN</p></td>
 <td><p>TOMORROW</p></td>
 </tr>
 <tr class="even">
 <td><p>1月28日</p></td>
-<td><p>Questioning Film - What do you see?[29]</p></td>
+<td><p>Questioning Film - What do you see?[30]</p></td>
 <td><p>HUENINGKAI</p></td>
 <td><p>SECRET</p></td>
 </tr>
 <tr class="odd">
 <td><p>1月29日</p></td>
-<td><p>Questioning Film - What do you see?[30]</p></td>
+<td><p>Questioning Film - What do you see?[31]</p></td>
 <td><p>BEOMGYU</p></td>
 <td><p>HOPE</p></td>
 </tr>
 <tr class="even">
 <td><p>1月30日</p></td>
-<td><p>Questioning Film - What do you see?[31]</p></td>
+<td><p>Questioning Film - What do you see?[32]</p></td>
 <td><p>YEONJUN</p></td>
 <td><p>PROMISE</p></td>
 </tr>
 <tr class="odd">
 <td><p>1月31日</p></td>
-<td><p>Questioning Film - What do you see?[32]</p></td>
+<td><p>Questioning Film - What do you see?[33]</p></td>
 <td><p>TAEHYUN</p></td>
 <td><p>CLUE</p></td>
 </tr>
 <tr class="even">
 <td><p>2月17日</p></td>
-<td><p>The Dream Chapter: STAR[33]</p></td>
+<td><p>The Dream Chapter: STAR[34]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Voice Teaser #01[34]</p></td>
+<td><p>Voice Teaser #01[35]</p></td>
 <td><p>TAEHYUN</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2月18日</p></td>
-<td><p>Voice Teaser #02[35]</p></td>
+<td><p>Voice Teaser #02[36]</p></td>
 <td><p>SOOBIN</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2月19日</p></td>
-<td><p>Voice Teaser #03[36]</p></td>
+<td><p>Voice Teaser #03[37]</p></td>
 <td><p>BEOMGYU</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2月20日</p></td>
-<td><p>Voice Teaser #04[37]</p></td>
+<td><p>Voice Teaser #04[38]</p></td>
 <td><p>YEONJUN</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2月21日</p></td>
-<td><p>Voice Teaser #05[38]</p></td>
+<td><p>Voice Teaser #05[39]</p></td>
 <td><p>HUENINGKAI</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2月25日</p></td>
-<td><p>Answer Reveal[39]</p></td>
+<td><p>Answer Reveal[40]</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>어느날 머리에서 뿔이 자랐다 (CROWN) Official Teaser 1[40]</p></td>
+<td><p>어느날 머리에서 뿔이 자랐다 (CROWN) Official Teaser 1[41]</p></td>
 <td><p>CROWN</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2月26日</p></td>
-<td><p>어느날 머리에서 뿔이 자랐다 (CROWN) Official Teaser 2[41]</p></td>
+<td><p>어느날 머리에서 뿔이 자랐다 (CROWN) Official Teaser 2[42]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2月28日</p></td>
-<td><p>ALL ABOUT TOMORROW X TOGETHER![42]</p></td>
+<td><p>ALL ABOUT TOMORROW X TOGETHER![43]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>3月1日</p></td>
-<td><p>The Dream Chapter: STAR Preview[43]</p></td>
+<td><p>The Dream Chapter: STAR Preview[44]</p></td>
 <td><p>CROWN</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3月15日</p></td>
-<td><p>어느날 머리에서 뿔이 자랐다 (CROWN) 接力舞蹈[44]</p></td>
+<td><p>어느날 머리에서 뿔이 자랐다 (CROWN) 接力舞蹈[45]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>3月19日</p></td>
-<td><p>ㅋㅋ DANCE (KK DANCE) Chapter 1[45]</p></td>
+<td><p>ㅋㅋ DANCE (KK DANCE) Chapter 1[46]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>ㅋㅋ DANCE (KK DANCE) Chapter 2[46]</p></td>
+<td><p>ㅋㅋ DANCE (KK DANCE) Chapter 2[47]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4月15日</p></td>
-<td><p>Sketching Film[47]</p></td>
+<td><p>Sketching Film[48]</p></td>
 <td><p>BEOMGYU</p></td>
 <td><p>rowspan="5"</p></td>
 </tr>
 <tr class="odd">
-<td><p>Sketching Film[48]</p></td>
+<td><p>Sketching Film[49]</p></td>
 <td><p>YEONJUN</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Sketching Film[49]</p></td>
+<td><p>Sketching Film[50]</p></td>
 <td><p>TAEHYUN</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Sketching Film[50]</p></td>
+<td><p>Sketching Film[51]</p></td>
 <td><p>HUENINGKAI</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Sketching Film[51]</p></td>
+<td><p>Sketching Film[52]</p></td>
 <td><p>SOOBIN</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>4月22日</p></td>
-<td><p>Cat &amp; Dog Official Teaser (멍 version)[52]</p></td>
+<td><p>Cat &amp; Dog Official Teaser (멍 version)[53]</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4月24日</p></td>
-<td><p>Cat &amp; Dog Official Teaser (냥 version)[53]</p></td>
+<td><p>Cat &amp; Dog Official Teaser (냥 version)[54]</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5月1日</p></td>
-<td><p>Cat &amp; Dog Official Teaser (English ver.)[54]</p></td>
+<td><p>Cat &amp; Dog Official Teaser (English ver.)[55]</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>5月2日</p></td>
-<td><p>M COUNTDOWN Theater with TOMORROW X TOGETHER[55]</p></td>
+<td><p>M COUNTDOWN Theater with TOMORROW X TOGETHER[56]</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5月3日</p></td>
-<td><p>Cat &amp; Dog 接力舞蹈[56]</p></td>
+<td><p>Cat &amp; Dog 接力舞蹈[57]</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>5月4日</p></td>
-<td><p>Cat &amp; Dog High-end Choreography[57]</p></td>
+<td><p>Cat &amp; Dog High-end Choreography[58]</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5月5日</p></td>
-<td><p>TOMORROW X TOGETHER Fan Event [Dance Challenge] [58]</p></td>
+<td><p>TOMORROW X TOGETHER Fan Event [Dance Challenge] [59]</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
@@ -603,3 +612,4 @@ Cat &amp; Dog (Animal ver.)[20]</p></td>
 56.
 57.
 58.
+59.

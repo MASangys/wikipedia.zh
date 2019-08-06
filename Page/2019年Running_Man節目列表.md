@@ -33,7 +33,7 @@
 （2018年
 12月17日）</small> |rowspan=2 |無嘉賓 |大明Vivaldi Park
 <small>（[江原道](https://zh.wikipedia.org/wiki/江原道_\(韓國\) "wikilink")[洪川郡](../Page/洪川郡.md "wikilink")
-[西面](https://zh.wikipedia.org/wiki/:ko:서면_\(홍천군\) "wikilink")）</small> |colspan=2 |<span style=font-size:110%>**第1章－畫中的年糕湯**</span>
+）</small> |colspan=2 |<span style=font-size:110%>**第1章－畫中的年糕湯**</span>
 **個人戰**
 沒有隊伍 |集齊所有材料卡並煮出年糕湯 |池錫辰、金鍾國、李光洙、全昭旻**勝出**
 等級各升一級\[1\]\[2\] | <span style="color:red;">劉在錫 1</span>
@@ -88,7 +88,7 @@
 [勝利](../Page/勝利_\(歌手\).md "wikilink")([BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink"))、
 [智珉](../Page/智珉.md "wikilink")、[珉娥](../Page/珉娥.md "wikilink")([AOA](../Page/AOA.md "wikilink")) |大明Vivaldi Park
 <small>（[江原道](https://zh.wikipedia.org/wiki/江原道_\(韓國\) "wikilink")[洪川郡](../Page/洪川郡.md "wikilink")
-[西面](https://zh.wikipedia.org/wiki/:ko:서면_\(홍천군\) "wikilink")）</small> |colspan="2"|<span style=font-size:110%>**總決賽－逆轉的拍檔**</span>
+）</small> |colspan="2"|<span style=font-size:110%>**總決賽－逆轉的拍檔**</span>
 <span style=color:#00008B>**劉在錫、鄭柔美</span>
 <span style=color:#000000>池錫辰、勝利</span>
 <span style=color:#2200FF>金鐘國、宋智孝</span>
@@ -605,27 +605,29 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 <strong>逃亡者隊</strong><br />
 沒有被獵人淘汰並成功逃生</p></td>
 <td><p>劉在錫、池錫辰、哈哈、李光洙、梁世燦及曹政奭<strong>勝出</strong><br />
-金鍾國、宋智孝、全昭旻及潤娥須分攤所有費用[18]</p></td>
+金鍾國、宋智孝、全昭旻及潤娥須分攤六十四萬六千韓圜good place活動費用[18]</p></td>
 </tr>
 <tr class="even">
 <td><p>394</p></td>
 <td><p>461</p></td>
 <td><p>7月28日<small><br />
 （7月22日）</small></p></td>
-<td><p>、<br />
+<td><p>、、<br />
 <a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">勝熙</a>(<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)、<a href="https://zh.wikipedia.org/wiki/Rothy" title="wikilink">Rothy</a></p></td>
-<td><p><br />
-<small>（<br />
-）</small></p></td>
-<td><p><span style="font-size:110%"></span><br />
-<strong><span style=color:#FF8C00>劉在錫、</strong><br />
+<td><p>三豐游泳場<br />
+<small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/水原市.md" title="wikilink">水原市</a><br />
+<a href="../Page/長安區_(水原市).md" title="wikilink">長安區</a>）</small></p></td>
+<td><p><span style="font-size:110%"><strong>情侶競賽</strong></span><br />
+<strong><span style=color:#FF8C00>劉在錫、張真熙</strong><br />
 <strong><span style=color:#00CED1>池錫辰、全昭旻</strong><br />
 <strong><span style=color:#c0c0c0>金鐘國、宋智孝</strong><br />
 <strong><span style=color:#9400D3>哈哈、宋智仁</strong><br />
 <strong><span style="color:#FF1493">李光洙、Rothy</strong><br />
 <strong><span style=color:#008000>梁世燦、勝熙</strong></p></td>
-<td></td>
-<td><p><strong>勝出</strong></p></td>
+<td><p>通過4輪對決後累積「分配獎品」最多</p></td>
+<td><p>哈哈、宋智仁<strong>勝出</strong><br />
+獲得韓牛禮物套裝兩份<br />
+成為「分配懲罰」最多的梁世燦、勝熙以抽卡的方式選擇與李光洙、Rothy一同接受室內跳傘大懲罰</p></td>
 </tr>
 </tbody>
 </table>
@@ -830,7 +832,7 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 <td><p>461</p></td>
 <td><p>7月28日</p></td>
 <td><p>rowspan=8 </p></td>
-<td><p>%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>462</p></td>

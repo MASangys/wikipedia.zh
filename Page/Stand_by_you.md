@@ -26,31 +26,47 @@
 
 ### Stand by you
 
-  - 荒井優希、[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[小畑優奈](../Page/小畑優奈.md "wikilink")、[鎌田菜月](../Page/鎌田菜月.md "wikilink")、[北川綾巴](../Page/北川綾巴.md "wikilink")、[熊崎晴香](https://zh.wikipedia.org/wiki/熊崎晴香 "wikilink")、[佐藤佳穗](https://zh.wikipedia.org/wiki/佐藤佳穗 "wikilink")、[末永櫻花](https://zh.wikipedia.org/wiki/末永櫻花 "wikilink")、[菅原茉椰](https://zh.wikipedia.org/wiki/菅原茉椰 "wikilink")、[須田亞香里](../Page/須田亞香里.md "wikilink")、[惣田紗莉渚](../Page/惣田紗莉渚.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[竹內彩姫](https://zh.wikipedia.org/wiki/竹內彩姫 "wikilink")、[日高優月](https://zh.wikipedia.org/wiki/日高優月 "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、松井珠理奈
+（Center：松井珠理奈）
 
-### 鄉民們啊
-
-  - 江籠裕奈、大場美奈、小畑優奈、北川綾巴、[北野瑠華](https://zh.wikipedia.org/wiki/北野瑠華 "wikilink")、熊崎晴香、[後藤樂樂](../Page/後藤樂樂.md "wikilink")、菅原茉椰、須田亞香里、惣田紗莉渚、高柳明音、古畑奈和、松井珠理奈
+  - Team S：[北川綾巴](../Page/北川綾巴.md "wikilink")、松井珠理奈
+  - Team KII：荒井優希、[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[小畑優奈](../Page/小畑優奈.md "wikilink")、[惣田紗莉渚](../Page/惣田紗莉渚.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[竹內彩姫](https://zh.wikipedia.org/wiki/竹內彩姫 "wikilink")、[日高優月](https://zh.wikipedia.org/wiki/日高優月 "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")
+  - Team E：[鎌田菜月](../Page/鎌田菜月.md "wikilink")、[熊崎晴香](https://zh.wikipedia.org/wiki/熊崎晴香 "wikilink")、[佐藤佳穗](https://zh.wikipedia.org/wiki/佐藤佳穗 "wikilink")、[末永櫻花](https://zh.wikipedia.org/wiki/末永櫻花 "wikilink")、[菅原茉椰](https://zh.wikipedia.org/wiki/菅原茉椰 "wikilink")、[須田亞香里](../Page/須田亞香里.md "wikilink")、
 
 ### 凍僵之前
 
-  - [石黑友月](https://zh.wikipedia.org/wiki/石黑友月 "wikilink")、[井上瑠夏](https://zh.wikipedia.org/wiki/井上瑠夏 "wikilink")、[大谷悠妃](https://zh.wikipedia.org/wiki/大谷悠妃 "wikilink")、[岡田美紅](https://zh.wikipedia.org/wiki/岡田美紅 "wikilink")、[上村亞柚香](https://zh.wikipedia.org/wiki/上村亞柚香 "wikilink")、[北川愛乃](https://zh.wikipedia.org/wiki/北川愛乃 "wikilink")、北川綾巴、[坂本真凛](https://zh.wikipedia.org/wiki/坂本真凛 "wikilink")、[杉山愛佳](https://zh.wikipedia.org/wiki/杉山愛佳 "wikilink")、[都築里佳](https://zh.wikipedia.org/wiki/都築里佳 "wikilink")、[仲村和泉](https://zh.wikipedia.org/wiki/仲村和泉 "wikilink")、[野島樺乃](https://zh.wikipedia.org/wiki/野島樺乃 "wikilink")、[野村實代](https://zh.wikipedia.org/wiki/野村實代 "wikilink")、松井珠理奈、[松本慈子](https://zh.wikipedia.org/wiki/松本慈子 "wikilink")、[山内鈴蘭](https://zh.wikipedia.org/wiki/山内鈴蘭 "wikilink")、[山田樹奈](https://zh.wikipedia.org/wiki/山田樹奈 "wikilink")
+（Center：松井珠理奈。「Team S」名義）
+
+  - Team S：[石黑友月](https://zh.wikipedia.org/wiki/石黑友月 "wikilink")、[井上瑠夏](https://zh.wikipedia.org/wiki/井上瑠夏 "wikilink")、[大谷悠妃](https://zh.wikipedia.org/wiki/大谷悠妃 "wikilink")、[岡田美紅](https://zh.wikipedia.org/wiki/岡田美紅 "wikilink")、[上村亞柚香](https://zh.wikipedia.org/wiki/上村亞柚香 "wikilink")、[北川愛乃](https://zh.wikipedia.org/wiki/北川愛乃 "wikilink")、北川綾巴、[坂本真凛](https://zh.wikipedia.org/wiki/坂本真凛 "wikilink")、[杉山愛佳](https://zh.wikipedia.org/wiki/杉山愛佳 "wikilink")、[都築里佳](https://zh.wikipedia.org/wiki/都築里佳 "wikilink")、[仲村和泉](https://zh.wikipedia.org/wiki/仲村和泉 "wikilink")、[野島樺乃](https://zh.wikipedia.org/wiki/野島樺乃 "wikilink")、[野村實代](https://zh.wikipedia.org/wiki/野村實代 "wikilink")、松井珠理奈、[松本慈子](https://zh.wikipedia.org/wiki/松本慈子 "wikilink")、[山内鈴蘭](https://zh.wikipedia.org/wiki/山内鈴蘭 "wikilink")、[山田樹奈](https://zh.wikipedia.org/wiki/山田樹奈 "wikilink")
+
+### 鄉民們啊
+
+（Center：松井珠理奈。「爱知丰田选拔」名義）
+
+  - Team S：北川綾巴、松井珠理奈
+  - Team KII：江籠裕奈、大場美奈、小畑優奈、[北野瑠華](https://zh.wikipedia.org/wiki/北野瑠華 "wikilink")、惣田紗莉渚、高柳明音、古畑奈和
+  - Team E：熊崎晴香、[後藤樂樂](../Page/後藤樂樂.md "wikilink")、菅原茉椰、須田亞香里
 
 ### 踢飛之後再給你一吻
 
-  - [青木詩織](https://zh.wikipedia.org/wiki/青木詩織 "wikilink")、荒井優希、[內山命](https://zh.wikipedia.org/wiki/內山命 "wikilink")、江籠裕奈、[大芝凜華](https://zh.wikipedia.org/wiki/大芝凜華 "wikilink")、[太田彩夏](../Page/太田彩夏.md "wikilink")、大場美奈、小畑優奈、[片岡成美](https://zh.wikipedia.org/wiki/片岡成美 "wikilink")、北野瑠華、[白井琴望](https://zh.wikipedia.org/wiki/白井琴望 "wikilink")、惣田紗莉渚、[高木由麻奈](../Page/高木由麻奈.md "wikilink")、高柳明音、竹內彩姫、[中野愛理](https://zh.wikipedia.org/wiki/中野愛理 "wikilink")、日高優月、古畑奈和、[松村香織](../Page/松村香織.md "wikilink")、[水野愛理](https://zh.wikipedia.org/wiki/水野愛理 "wikilink")
+（Center：大場美奈、古畑奈和。「Team KII」名義）
+
+  - Team KII：[青木詩織](https://zh.wikipedia.org/wiki/青木詩織 "wikilink")、荒井優希、[內山命](https://zh.wikipedia.org/wiki/內山命 "wikilink")、江籠裕奈、[大芝凜華](https://zh.wikipedia.org/wiki/大芝凜華 "wikilink")、[太田彩夏](../Page/太田彩夏.md "wikilink")、大場美奈、小畑優奈、[片岡成美](https://zh.wikipedia.org/wiki/片岡成美 "wikilink")、北野瑠華、[白井琴望](https://zh.wikipedia.org/wiki/白井琴望 "wikilink")、惣田紗莉渚、[高木由麻奈](../Page/高木由麻奈.md "wikilink")、高柳明音、竹內彩姫、[中野愛理](https://zh.wikipedia.org/wiki/中野愛理 "wikilink")、日高優月、古畑奈和、[松村香織](../Page/松村香織.md "wikilink")、[水野愛理](https://zh.wikipedia.org/wiki/水野愛理 "wikilink")
 
 ### 入口
 
-  - [相川暖花](https://zh.wikipedia.org/wiki/相川暖花 "wikilink")、[淺井裕華](https://zh.wikipedia.org/wiki/淺井裕華 "wikilink")、[井田玲音名](https://zh.wikipedia.org/wiki/井田玲音名 "wikilink")、鎌田菜月、熊崎晴香、[倉島杏実](https://zh.wikipedia.org/wiki/倉島杏実 "wikilink")、[齊藤真木子](https://zh.wikipedia.org/wiki/齊藤真木子 "wikilink")、佐藤佳穗、[白雪希明](https://zh.wikipedia.org/wiki/白雪希明 "wikilink")、末永櫻花、菅原茉椰、須田亞香里、[高畑結希](https://zh.wikipedia.org/wiki/高畑結希 "wikilink")、[谷真理佳](../Page/谷真理佳.md "wikilink")、[西滿里奈](https://zh.wikipedia.org/wiki/西滿里奈 "wikilink")、[野野垣美希](https://zh.wikipedia.org/wiki/野野垣美希 "wikilink")、[平田詩奈](https://zh.wikipedia.org/wiki/平田詩奈 "wikilink")、[深井願](https://zh.wikipedia.org/wiki/深井願 "wikilink")、[福士奈央](https://zh.wikipedia.org/wiki/福士奈央 "wikilink")
+（Center：須田亞香里。「Team E」名義）
+
+  - Team E：[相川暖花](https://zh.wikipedia.org/wiki/相川暖花 "wikilink")、[淺井裕華](https://zh.wikipedia.org/wiki/淺井裕華 "wikilink")、[井田玲音名](https://zh.wikipedia.org/wiki/井田玲音名 "wikilink")、鎌田菜月、熊崎晴香、[倉島杏実](https://zh.wikipedia.org/wiki/倉島杏実 "wikilink")、[齊藤真木子](https://zh.wikipedia.org/wiki/齊藤真木子 "wikilink")、佐藤佳穗、[白雪希明](https://zh.wikipedia.org/wiki/白雪希明 "wikilink")、末永櫻花、菅原茉椰、須田亞香里、[高畑結希](https://zh.wikipedia.org/wiki/高畑結希 "wikilink")、[谷真理佳](../Page/谷真理佳.md "wikilink")、[西滿里奈](https://zh.wikipedia.org/wiki/西滿里奈 "wikilink")、[野野垣美希](https://zh.wikipedia.org/wiki/野野垣美希 "wikilink")、[平田詩奈](https://zh.wikipedia.org/wiki/平田詩奈 "wikilink")、[深井願](https://zh.wikipedia.org/wiki/深井願 "wikilink")、[福士奈央](https://zh.wikipedia.org/wiki/福士奈央 "wikilink")
 
 ### 不想說謝謝
 
-  - 松村香織
+  - Team KII：松村香織
 
 ### 神不會拋下你
 
-  - 相川暖花、青木詩織、淺井裕華、荒井優希、石黑友月、井田玲音名、井上瑠夏、大谷悠妃、內山命、江籠裕奈、大芝凜華、太田彩夏、大場美奈、岡田美紅、小畑優奈、片岡成美、鎌田菜月、上村亞柚香、北川愛乃、北川綾巴、北野瑠華、熊崎晴香、倉島杏實、後藤樂樂、齊藤真木子、坂本真凛、佐藤佳穗、白井琴望、白雪希明、末永櫻花、菅原茉椰、杉山愛佳、須田亞香里、惣田紗莉渚、高木由麻奈、高畑結希、高柳明音、竹內彩姫、谷真理佳、都築里佳、中野愛理、仲村和泉、西滿里奈、野島樺乃、野野垣美希、野村實代、日高優月、平田詩奈、深井願、福士奈央、古畑奈和、松井珠理奈、松村香織、松本慈子、水野愛理、山內鈴蘭、山田樹奈
+  - Team S：石黑友月、井上瑠夏、大谷悠妃、岡田美紅、上村亞柚香、北川愛乃、北川綾巴、坂本真凛、杉山愛佳、都築里佳、仲村和泉、野島樺乃、野村實代、松井珠理奈、松本慈子、山内鈴蘭、山田樹奈
+  - Team KII：青木詩織、荒井優希、內山命、江籠裕奈、大芝凜華、太田彩夏、大場美奈、小畑優奈、片岡成美、北野瑠華、白井琴望、惣田紗莉渚、高木由麻奈、高柳明音、竹內彩姫、中野愛理、日高優月、古畑奈和、松村香織、水野愛理
+  - Team E：相川暖花、淺井裕華、井田玲音名、鎌田菜月、熊崎晴香、倉島杏実、齊藤真木子、佐藤佳穗、白雪希明、末永櫻花、菅原茉椰、須田亞香里、高畑結希、谷真理佳、西滿里奈、野野垣美希、平田詩奈、深井願、福士奈央
 
 ## 參考資料
 

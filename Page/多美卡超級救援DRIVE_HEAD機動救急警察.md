@@ -757,7 +757,7 @@ LEE DUK HO</p></td>
   - Go\!\!\!
     主唱：EbiSSH
 
-## 參考資料
+## 腳注和參考資料
 
 ## 外部連結
 
@@ -766,7 +766,7 @@ LEE DUK HO</p></td>
   -
 [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink") [Category:2017年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2017年日本電視動畫 "wikilink") [Category:TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:TBS電視網動畫 "wikilink") [Category:機械人動畫](https://zh.wikipedia.org/wiki/Category:機械人動畫 "wikilink") [Category:小學背景動畫](https://zh.wikipedia.org/wiki/Category:小學背景動畫 "wikilink") [Category:人命救助題材作品](https://zh.wikipedia.org/wiki/Category:人命救助題材作品 "wikilink") [Category:車輛題材作品](https://zh.wikipedia.org/wiki/Category:車輛題材作品 "wikilink") [Category:未來題材作品](https://zh.wikipedia.org/wiki/Category:未來題材作品 "wikilink") [Category:2010年代玩具](https://zh.wikipedia.org/wiki/Category:2010年代玩具 "wikilink")
 
-1.  <https://m.facebook.com/Goldenfilmltd/photos/a.2002061603373816.1073741829.1878929335687044/2081875948725714/?type=3>
+1.  <https://facebook.com/Goldenfilmltd/photos/a.2002061603373816.1073741829.1878929335687044/2081875948725714/?type=3>
 
 2.
 3.

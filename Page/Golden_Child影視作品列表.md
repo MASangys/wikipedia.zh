@@ -11,12 +11,12 @@
 
 ## 網路劇
 
-| 年份       | 播放日期                   | 劇名                                                 | 製作公司     | 播放平台                                       | 參演成員 | 角色  | 集數  |
-| -------- | ---------------------- | -------------------------------------------------- | -------- | ------------------------------------------ | ---- | --- | --- |
-| 2019年    | 4月25日-6月30日 (每週四、週日播出) | [A-TEEN 2](../Page/A-TEEN_2_\(電視劇\).md "wikilink") | Playlist | [V LIVE](https://channels.vlive.tv/DEF407) | 普閔   | 柳周河 | 20集 |
-| NAVER TV |                        |                                                    |          |                                            |      |     |     |
-| YouTube  |                        |                                                    |          |                                            |      |     |     |
-| Facebook |                        |                                                    |          |                                            |      |     |     |
+| 年份                                                                                  | 播放日期                   | 劇名                                                 | 製作公司     | 播放平台                                                        | 參演成員 | 角色  | 集數  |
+| ----------------------------------------------------------------------------------- | ---------------------- | -------------------------------------------------- | -------- | ----------------------------------------------------------- | ---- | --- | --- |
+| 2019年                                                                               | 4月25日-6月30日 (每週四、週日播出) | [A-TEEN 2](../Page/A-TEEN_2_\(電視劇\).md "wikilink") | Playlist | [V LIVE](https://www.vlive.tv/video/123952/playlist/123052) | 普閔   | 柳周河 | 20集 |
+| [NAVER TV](https://tv.naver.com/v/5894059/list/332837)                              |                        |                                                    |          |                                                             |      |     |     |
+| [YouTube](https://www.youtube.com/playlist?list=PL920OTfqSyze20ju81kDMeqIh4dB1kS3o) |                        |                                                    |          |                                                             |      |     |     |
+| [Facebook](https://www.facebook.com/pg/TeenPlayList/videos/?ref=page_internal)      |                        |                                                    |          |                                                             |      |     |     |
 
 ## 電影
 
@@ -276,10 +276,10 @@ V LIVE</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>10月22日－2019年4月2日</p></td>
+<td><p>10月22日－</p></td>
 <td><p>V LIVE <a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
 <td><p>《CH.GOL-CHA!》</p></td>
-<td><p>30集</p></td>
+<td><p>12集</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -297,6 +297,13 @@ V LIVE</p></td>
 <td><p>12集</p></td>
 </tr>
 <tr class="odd">
+<td><p>－4月2日</p></td>
+<td><p>V LIVE <a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
+<td><p>《CH.GOL-CHA!》</p></td>
+<td><p>18集</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>7月5日</p></td>
 <td><p><a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
 <td><p>《GolCha的休息日 第三季》</p></td>
@@ -1178,6 +1185,13 @@ Christmas 'WCH 쇼! 명랑음악회' V LIVE</p></td>
 <td><p>Golden Child X CouchTalk - 골든차일드 X 카우치토크</p></td>
 <td><p>全員</p></td>
 </tr>
+<tr class="odd">
+<td><p>7月31日</p></td>
+<td><p>來了來了 我們來啦<br />
+와따와따 우리가 왔드아~~&gt;&lt;🎉</p></td>
+<td><p>Y 周燦 東炫<br />
+(電話連接: 長埈 TAG 勝民)</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1478,10 +1492,17 @@ Christmas 'WCH 쇼! 명랑음악회' V LIVE</p></td>
 <td><p>6月19日</p></td>
 <td><p>CASPER RADIO 周燦的洪心三說</p></td>
 <td><p>VLIVE</p></td>
-<td><p>大烈 長埈 *DJ：周燦</p></td>
+<td><p>大烈 長埈</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>7月31日</p></td>
+<td><p>Y 宰鉉 東炫</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

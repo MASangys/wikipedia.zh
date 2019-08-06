@@ -29,7 +29,7 @@ Riot.im因為能夠透過Matrix將其他通訊橋接至應用程式上而聞名�
   - [IRC](../Page/IRC.md "wikilink")
   - [Matrix (协议)](../Page/Matrix_\(协议\).md "wikilink")
   - [富通讯解决方案](../Page/富通讯解决方案.md "wikilink")
-  - [對話啟動協定](https://zh.wikipedia.org/wiki/對話啟動協定 "wikilink")
+  - [對話啟動協定](../Page/對話啟動協定.md "wikilink")
   - [可扩展消息与存在协议](../Page/可扩展消息与存在协议.md "wikilink")
 
 [Category:通讯软件](https://zh.wikipedia.org/wiki/Category:通讯软件 "wikilink") [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:Linux軟件](https://zh.wikipedia.org/wiki/Category:Linux軟件 "wikilink") [Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink") [Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink")

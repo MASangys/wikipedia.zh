@@ -1,4 +1,4 @@
-**ching chong**、**ching chang chong**是一个[贬义词](https://zh.wikipedia.org/wiki/貶義 "wikilink")，经常被[英语](../Page/英语.md "wikilink")使用者用来嘲弄[汉语](../Page/汉语.md "wikilink")使用者、[华裔甚至其他外貌类似华裔的](../Page/中國人.md "wikilink")[東亞人種](https://zh.wikipedia.org/wiki/東亞人種 "wikilink")。一些评论认为该词语具有侮辱性质，指出有诸多针对东亚人的骚扰、人身恐吓等都伴有种族辱骂和故作模仿中文发音的行为。\[1\]\[2\]
+**ching chong**、**ching chang chong**是一个[贬义词](https://zh.wikipedia.org/wiki/贬义词 "wikilink")，经常被[英文使用者用来嘲弄](https://zh.wikipedia.org/wiki/英文 "wikilink")[華文使用者](https://zh.wikipedia.org/wiki/華文 "wikilink")、[华裔甚至其他外貌类似华裔的](https://zh.wikipedia.org/wiki/华裔 "wikilink")[東亞人](https://zh.wikipedia.org/wiki/東亞人 "wikilink")。一些评论认为该词语具有侮辱性质，指出有诸多针对[东亚人的骚扰](https://zh.wikipedia.org/wiki/东亚人 "wikilink")、人身恐吓等都伴有种族辱骂和故作模仿華文发音的行为。\[1\]\[2\]
 
 ## 词源
 
@@ -16,7 +16,7 @@ And chopped off his tail.（剪掉了他的「尾巴」）
 
 清朝時中國人被騙去建鐵路（這條鐵路也是戰爭的成敗關鍵），當中的ching chong是帶著擬聲詞和讀音的雙關語，與第二句連起便是去美国修铁路的华工，清朝人當時都是留辮子，这也是儿歌中“tail”的意思。
 
-另外亦有與此相關的解釋，這個單詞來源於清朝，那時身在美國的福建、廣東一帶的人用自己的口音稱自己是清朝人，在美國人聽來，就是Ching Chong的發音了。而清朝給外國人的大致印象就是愚昧又落後，特別清朝人腦袋後留的小辮子。
+另外亦有與此相關的解釋，這個單詞來源於清朝，而清朝給外國人的大致印象就是愚昧又落後，特別清朝人腦袋後留的小辮子。
 
 ## 參見
 

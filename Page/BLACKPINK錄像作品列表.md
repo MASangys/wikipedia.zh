@@ -126,7 +126,7 @@ DVD</a></p></td>
 <li>發行日期：2019年3月22日<small>（日本）</small>[33]</li>
 <li>語言：日語</li>
 <li>廠牌：<a href="https://zh.wikipedia.org/wiki/YGEX" title="wikilink">YGEX</a></li>
-<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a>、<a href="https://zh.wikipedia.org/wiki/藍光" title="wikilink">藍光</a></li>
+<li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a>、<a href="../Page/藍光.md" title="wikilink">藍光</a></li>
 </ul></td>
 <td><p>—</p></td>
 <td><p>—</p></td>

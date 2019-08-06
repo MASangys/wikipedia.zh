@@ -58,7 +58,7 @@
 2019年9月7日</p></td>
 <td style="text-align: center;"><p><a href="../Page/醫生約翰.md" title="wikilink">醫生約翰</a><br />
 </p></td>
-<td style="text-align: center;"><p>32</p></td>
+<td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/池晟.md" title="wikilink">池晟</a>、<a href="../Page/李世榮_(韓國).md" title="wikilink">李世榮</a>、<a href="../Page/李奎炯.md" title="wikilink">李奎炯</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/趙秀沅.md" title="wikilink">趙秀沅</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金智允" title="wikilink">金智允</a></p></td>
@@ -77,35 +77,13 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年月日－<br />
-2019年月日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/浪漫醫生金師傅2" title="wikilink">浪漫醫生金師傅2</a><br />
-</p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="../Page/姜銀慶.md" title="wikilink">姜銀慶</a></p></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><p>2019年月日－<br />
-2019年月日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/調查官" title="wikilink">調查官</a><br />
-</p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金賢政" title="wikilink">金賢政</a></p></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><p>2019年月日－<br />
 2020年月日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/誰也不知道_(電視劇)" title="wikilink">誰也不知道</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Stove_League" title="wikilink">Stove League</a><br />
 </p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/南宮珉.md" title="wikilink">南宮珉</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭東允" title="wikilink">鄭東允</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李新華（編劇）" title="wikilink">李新華</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

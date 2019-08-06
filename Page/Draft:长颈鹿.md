@@ -34,7 +34,7 @@ Reticulated and Masai giraffes have the highest mtDNA diversity, which is consis
 
 A 2011 study using detailed analyses of the morphology of giraffes, and application of the [物种](../Page/物种.md "wikilink"), described eight species of living giraffes.\[47\] The eight species are: **, **, **, **, **, *[网纹长颈鹿](../Page/网纹长颈鹿.md "wikilink")*, **, and **.
 
-A 2016 study also concluded that living giraffes consist of multiple species.\[48\] The researchers suggested the existence of four species, which have not exchanged genetic information between each other for 1 million to 2 million years. Those four species are the [努比亚长颈鹿](https://zh.wikipedia.org/wiki/努比亚长颈鹿 "wikilink") (*G. camelopardalis*),  (*G. giraffa*), [网纹长颈鹿](../Page/网纹长颈鹿.md "wikilink") (*G. reticulata*), and  (*G. tippelskirchi*).\[49\] Since then, a response to this publication has been published, highlighting seven problems in data interpretation, and concludes "the conclusions should not be accepted unconditionally".\[50\]
+A 2016 study also concluded that living giraffes consist of multiple species.\[48\] The researchers suggested the existence of four species, which have not exchanged genetic information between each other for 1 million to 2 million years. Those four species are the [努比亚长颈鹿](../Page/努比亚长颈鹿.md "wikilink") (*G. camelopardalis*),  (*G. giraffa*), [网纹长颈鹿](../Page/网纹长颈鹿.md "wikilink") (*G. reticulata*), and  (*G. tippelskirchi*).\[49\] Since then, a response to this publication has been published, highlighting seven problems in data interpretation, and concludes "the conclusions should not be accepted unconditionally".\[50\]
 
 据估计，野生长颈鹿个体约有90,000，目前有1,144只长颈鹿处于被饲养状态（动物园、主题公园）。\[51\]\[52\]
 
@@ -64,14 +64,14 @@ A 2016 study also concluded that living giraffes consist of multiple species.\[4
 <tbody>
 <tr class="odd">
 <td><p><strong>长颈鹿</strong> (G. camelopardalis)[57][58]</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/努比亚长颈鹿" title="wikilink">努比亚长颈鹿</a></strong> (<em>G. camelopardalis</em>)</p></td>
+<td><p><strong><a href="../Page/努比亚长颈鹿.md" title="wikilink">努比亚长颈鹿</a></strong> (<em>G. camelopardalis</em>)</p></td>
 <td><p><strong></strong> (<em>G. antiquorum</em>)<ref>Swainson 1835. Camelopardalis antiquorum. Bagger el Homer,</p>
 <p>Kordofan, about 10° N, 28° E (as fixed by Harper, 1940) </ref></p></td>
 <td><p><strong>科尔多凡长颈鹿</strong>(<em>G. c. antiquorum</em>)分布于<a href="../Page/乍得.md" title="wikilink">乍得</a>南部，<a href="../Page/中非共和國.md" title="wikilink">中非共和国</a>，<a href="../Page/喀麦隆.md" title="wikilink">喀麦隆</a>北部以及<a href="../Page/刚果民主共和国.md" title="wikilink">刚果（金）东北部</a>。之前喀麦隆的种群错误地包括了西非长颈鹿(<em>G. c. peralta</em>)。与努比亚长颈鹿相比，科尔多凡长颈鹿有更小也更不规则的斑点图案，它的斑覆盖肘关节以下以及腿的内侧区域。雄性个体的头部中央会长有一个肿块。人们相信大约有两千只科尔多凡长颈鹿生活在野外，但是科尔多凡长颈鹿和西非长颈鹿在动物园中的数量有相当大的混淆，在2007年所有之前宣称的生存于欧洲动物园中的西非长颈鹿被证明实际上都是科尔多凡长颈鹿(<em>G. c. peralta</em>)，随着这一修正，生活在动物园中的科尔多凡长颈鹿数量达到了大约65只。而之前的亚种刚果长颈鹿则被认为是科尔多凡长颈鹿的一部分。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Giraffa_camelopardalis_antiquorum_(Vincennes_Zoo)_2.jpg" title="fig:Giraffa_camelopardalis_antiquorum_(Vincennes_Zoo)_2.jpg">Giraffa_camelopardalis_antiquorum_(Vincennes_Zoo)_2.jpg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/努比亚长颈鹿" title="wikilink">努比亚长颈鹿</a></strong>(<em>G. camelopardalis</em>)包括<strong><a href="../Page/羅氏長頸鹿.md" title="wikilink">罗氏长颈鹿</a></strong>，也被称作<strong><a href="../Page/巴林戈湖.md" title="wikilink">巴林戈长颈鹿</a></strong>或<strong><a href="../Page/乌干达.md" title="wikilink">乌干达</a>长颈鹿</strong></p></td>
+<td><p><strong><a href="../Page/努比亚长颈鹿.md" title="wikilink">努比亚长颈鹿</a></strong>(<em>G. camelopardalis</em>)包括<strong><a href="../Page/羅氏長頸鹿.md" title="wikilink">罗氏长颈鹿</a></strong>，也被称作<strong><a href="../Page/巴林戈湖.md" title="wikilink">巴林戈长颈鹿</a></strong>或<strong><a href="../Page/乌干达.md" title="wikilink">乌干达</a>长颈鹿</strong></p></td>
 <td><p>The '''{{tsl|en|Nubian giraffe</p></td>
 <td><p>Nubian giraffe}}<em>' (</em>G. c. camelopardalis''), is found in eastern <a href="../Page/南蘇丹.md" title="wikilink">南蘇丹</a> and south-western <a href="../Page/埃塞俄比亚.md" title="wikilink">埃塞俄比亚</a>, in addition to <a href="../Page/肯尼亚.md" title="wikilink">肯尼亚</a> and <a href="../Page/乌干达.md" title="wikilink">乌干达</a>.[59] It has sharply defined chestnut-coloured spots surrounded by mostly white lines, while undersides lack spotting.[60] The median lump is particularly developed in the male.[61] Around 2,150 are thought to remain in the wild, with another 1,500 individuals belonging to the <a href="../Page/羅氏長頸鹿.md" title="wikilink">羅氏長頸鹿</a> {{tsl|en|ecotype</p></td>
 <td><p>ecotype}}.[62] With the addition of <a href="../Page/羅氏長頸鹿.md" title="wikilink">羅氏長頸鹿</a> to the Nubian subspecies, the Nubian giraffe is very common in captivity, although the original phenotype is rare- a group is kept at {{tsl|en|Al Ain Zoo</p></td>

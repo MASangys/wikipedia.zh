@@ -41,6 +41,16 @@
 <td><p>0.8%</p></td>
 </tr>
 <tr class="even">
+<td><p>2</p></td>
+<td><p>2019/7/18</p></td>
+<td><p>0.7%</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>2019/7/25</p></td>
+<td><p>0.7%</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

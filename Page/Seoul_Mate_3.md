@@ -8,7 +8,7 @@
 <th><p>姓名</p></th>
 <th><p>出生日期<br />
 （年齡）</p></th>
-<th><p>職業</p></th>
+<th><p>出演集數</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
@@ -20,40 +20,40 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/金俊昊.md" title="wikilink">金俊昊</a></p></td>
+<td></td>
+<td></td>
+<td><p>第6集至今</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/吳尚津.md" title="wikilink">吳尚津</a></p></td>
 <td></td>
 <td></td>
-<td><p>播音員、主持人、演員</p></td>
+<td><p>第1集至今</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>金素英</p></td>
 <td></td>
 <td></td>
-<td><p>播音員</p></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/李奎翰.md" title="wikilink">李奎翰</a></p></td>
 <td></td>
 <td></td>
-<td><p>演員</p></td>
+<td><p>第1集至今</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Boom_(藝人).md" title="wikilink">Boom</a></p></td>
 <td></td>
 <td></td>
-<td><p>主持人、歌手</p></td>
+<td><p>第1集至今</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Yura.md" title="wikilink">Yura</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day成員</a>、歌手、演員</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>第1集至今</p></td>
 </tr>
 </tbody>
 </table>

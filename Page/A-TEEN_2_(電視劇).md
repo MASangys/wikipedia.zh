@@ -11,24 +11,16 @@
 <td><p><strong>角色</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/辛睿恩.md" title="wikilink">辛睿恩</a></p></td>
-<td><p>都荷娜</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李娜恩" title="wikilink">李娜恩</a> （<a href="https://zh.wikipedia.org/wiki/APRIL" title="wikilink">APRIL</a>）</p></td>
+<td><p><a href="../Page/李娜恩.md" title="wikilink">李娜恩</a> （<a href="https://zh.wikipedia.org/wiki/APRIL" title="wikilink">APRIL</a>）</p></td>
 <td><p>金荷娜 (金昭妍)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/崔普閔" title="wikilink">崔普閔</a>（<a href="../Page/Golden_Child.md" title="wikilink">Golden Child</a>）</p></td>
 <td><p>柳周河</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/金東希.md" title="wikilink">金東希</a></p></td>
 <td><p>河玟</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>南時宇</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/金秀賢_(2000年)" title="wikilink">金秀賢</a></p></td>
@@ -50,6 +42,8 @@
 |                                                                                                                            |        |
 | -------------------------------------------------------------------------------------------------------------------------- | ------ |
 | **演員**                                                                                                                     | **角色** |
+| [辛睿恩](../Page/辛睿恩.md "wikilink")                                                                                           | 都荷娜    |
+| [申承浩](https://zh.wikipedia.org/wiki/申承浩 "wikilink")                                                                        | 南時宇    |
 | [Joshua](https://zh.wikipedia.org/wiki/Joshua "wikilink")（[SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")） | 柳周河朋友  |
 | [金玟周](../Page/金玟周.md "wikilink")（[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）                                                  | 餐飲店店員  |
 | [鉉辰](../Page/鉉辰.md "wikilink")（[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")）                          | 車雅嫻朋友  |
@@ -57,13 +51,20 @@
 
 ## 各集標題
 
+  -
+    <small>依官方V LIVE及NAVER TV上傳或公開時間排序。</small>
+
 ## 原聲帶
 
-  - Part.1（發行日期：2019年5月14日）
+  - Part.1（發行日期：2019年5月9日）
 
 <!-- end list -->
 
-  - Part.2（發行日期：2019年5月5日）
+  - Part.2（發行日期：2019年5月19日）
+
+<!-- end list -->
+
+  - Part.3（發行日期：2019年6月20日）
 
 ## 參考資料
 

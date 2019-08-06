@@ -167,7 +167,7 @@
 <p>川合太一</p></td>
 <td><center>
 <p><a href="../Page/志尊淳.md" title="wikilink">志尊淳</a> [4]</p></td>
-<td><p>「Loin D'ici」助理服務員，之前是見習美容師，並沒有任何在餐廳工作的經驗。</p></td>
+<td><p>「Loin D'ici」助理服務員，很愛笑，之前是見習美容師，並沒有任何在餐廳工作的經驗。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -272,7 +272,7 @@
   - [《Heaven？》 - 小學館官方網站](https://comics.shogakukan.co.jp/book-series?cd=24803)
   - [《餐廳天國》 - TBS官方網站](https://www.tbs.co.jp/Heaven_tbs/)
 
-[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:TBS週二連續劇](https://zh.wikipedia.org/wiki/Category:TBS週二連續劇 "wikilink") [Category:2019年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2019年開播的日本電視劇集 "wikilink") [Category:餐館背景漫畫](https://zh.wikipedia.org/wiki/Category:餐館背景漫畫 "wikilink") [Category:餐館背景電視劇](https://zh.wikipedia.org/wiki/Category:餐館背景電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink")
+[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink") [Category:TBS週二連續劇](https://zh.wikipedia.org/wiki/Category:TBS週二連續劇 "wikilink") [Category:2019年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2019年開播的日本電視劇集 "wikilink") [Category:餐館背景漫畫](https://zh.wikipedia.org/wiki/Category:餐館背景漫畫 "wikilink") [Category:餐館背景電視劇](https://zh.wikipedia.org/wiki/Category:餐館背景電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:緯來電視外購日劇](https://zh.wikipedia.org/wiki/Category:緯來電視外購日劇 "wikilink")
 
 1.
 

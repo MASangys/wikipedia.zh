@@ -1,4 +1,4 @@
-WAgg（ワッグ）是[WACK的實習單位](https://zh.wikipedia.org/wiki/WACK "wikilink")。該單位的目的是培養年輕女孩，最終作為[WACK團體的一部分首次亮相](https://zh.wikipedia.org/wiki/WACK "wikilink")。
+WAgg（ワッグ）是[WACK](../Page/WACK.md "wikilink")的實習單位。該單位的目的是培養年輕女孩，最終作為[WACK](../Page/WACK.md "wikilink")團體的一部分首次亮相。
 2018年結成。隸屬於WACK。他們的粉絲被官方稱為「新米」。
 
 ## 概要
@@ -63,7 +63,7 @@ WAgg（ワッグ）是[WACK的實習單位](https://zh.wikipedia.org/wiki/WACK "
 亦是WACK合同徵選2019參加者並完成7天的合宿。<br />
 是WAgg第二個昇格的成員。<br />
 將於2019年於8月25日在WAgg畢業。[3]<br />
-並於2019年6月19日加入新的<a href="https://zh.wikipedia.org/wiki/WACK" title="wikilink">WACK團體</a>（暫稱）。[4]<br />
+並於2019年6月19日加入新的<a href="../Page/WACK.md" title="wikilink">WACK</a>團體（暫稱）。[4]<br />
 為WAgg的（創始成員）。<br />
 最喜歡的WACK組是<a href="../Page/BiSH.md" title="wikilink">BiSH</a>。</p></td>
 <td><p><a href="https://twitter.com/URUURU_WAgg">ウルウ・ル</a></p></td>

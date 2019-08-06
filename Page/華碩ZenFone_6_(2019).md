@@ -5,14 +5,14 @@
 <table>
 <thead>
 <tr class="header">
-<th><p>型號</p></th>
-<th><p><noinclude><a href="https://zh.wikipedia.org/wiki/&lt;/noinclude&gt;ZenFone_6&lt;noinclude&gt;" title="wikilink"></noinclude>ZenFone 6<noinclude></a></noinclude></p></th>
-<th><p><noinclude><a href="https://zh.wikipedia.org/wiki/&lt;/noinclude&gt;ZenFone_6" title="wikilink">ZenFone 6 Edition 30<noinclude></a></noinclude></p></th>
+<th><p>機種</p></th>
+<th><p><noinclude><a href="https://zh.wikipedia.org/wiki/&lt;/noinclude&gt;ZenFone_6&lt;noinclude&gt;" title="wikilink"></noinclude>ZenFone 6<noinclude></a></p></th>
+<th><p>6 <noinclude><a href="https://zh.wikipedia.org/wiki/&lt;/noinclude&gt;ZenFone" title="wikilink">ZenFone 6 Edition 30<noinclude></a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>機種</p></td>
+<td><p>型號</p></td>
 <td><p>ZS630KL<ref name="ZS630KL">{{cite web</p></td>
 <td><p>url= <a href="http://www.asus.com/Phone/ZenFone-6-ZS630KL/Tech-Specs">http://www.asus.com/Phone/ZenFone-6-ZS630KL/Tech-Specs</a></p></td>
 </tr>
@@ -117,12 +117,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>型號</p></td>
-<td><p><noinclude><a href="https://zh.wikipedia.org/wiki/&lt;/noinclude&gt;ZenFone_6&lt;noinclude&gt;" title="wikilink"></noinclude>ZenFone 6<noinclude></a></noinclude></p></td>
-<td><p><noinclude><a href="https://zh.wikipedia.org/wiki/&lt;/noinclude&gt;ZenFone_6" title="wikilink">ZenFone 6 Edition 30<noinclude></a></noinclude></p></td>
+<td><p>機種</p></td>
+<td><p><noinclude><a href="https://zh.wikipedia.org/wiki/&lt;/noinclude&gt;ZenFone_6&lt;noinclude&gt;" title="wikilink"></noinclude>ZenFone 6<noinclude></a></p></td>
+<td><p>6 <noinclude><a href="https://zh.wikipedia.org/wiki/&lt;/noinclude&gt;ZenFone" title="wikilink">ZenFone 6 Edition 30<noinclude></a></p></td>
 </tr>
 <tr class="odd">
-<td><p>機種</p></td>
+<td><p>型號</p></td>
 <td><p>ZS630KL<ref name="ZS630KL">{{cite web</p></td>
 <td><p>url= <a href="http://www.asus.com/Phone/ZenFone-6-ZS630KL/Tech-Specs">http://www.asus.com/Phone/ZenFone-6-ZS630KL/Tech-Specs</a></p></td>
 </tr>

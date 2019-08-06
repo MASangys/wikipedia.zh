@@ -99,7 +99,7 @@
 
   - [IUSS纪念丹.H.亚阿隆的文章－](http://www.iuss.org/index.php?article_id=662)
 
-[Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink") [Category:捷克斯洛伐克人](https://zh.wikipedia.org/wiki/Category:捷克斯洛伐克人 "wikilink") [Category:以色列科学家](https://zh.wikipedia.org/wiki/Category:以色列科学家 "wikilink") [Category:土壤学家](https://zh.wikipedia.org/wiki/Category:土壤学家 "wikilink") [Category:瑞典農業科學大學校友](https://zh.wikipedia.org/wiki/Category:瑞典農業科學大學校友 "wikilink") [Category:耶路撒冷希伯來大學校友](https://zh.wikipedia.org/wiki/Category:耶路撒冷希伯來大學校友 "wikilink")
+[Category:捷克斯洛伐克人](https://zh.wikipedia.org/wiki/Category:捷克斯洛伐克人 "wikilink") [Category:以色列科学家](https://zh.wikipedia.org/wiki/Category:以色列科学家 "wikilink") [Category:土壤学家](https://zh.wikipedia.org/wiki/Category:土壤学家 "wikilink") [Category:瑞典農業科學大學校友](https://zh.wikipedia.org/wiki/Category:瑞典農業科學大學校友 "wikilink") [Category:耶路撒冷希伯來大學校友](https://zh.wikipedia.org/wiki/Category:耶路撒冷希伯來大學校友 "wikilink")
 
 1.
 

@@ -1,14 +1,14 @@
-**NRS**（，；НРС[全寫](../Page/縮寫.md "wikilink")：**Н**ож **Р**азведчика **С**пециальный，意為：特殊偵察刀；[俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：／）是一款由[前蘇聯](../Page/苏联.md "wikilink")（今[俄罗斯](../Page/俄罗斯.md "wikilink")）为[特种作战人员在敌后执行特殊任务中近距离内歼敌而研製](../Page/俄罗斯特种部队.md "wikilink")、由[圖拉兵工廠](../Page/圖拉兵工廠.md "wikilink")生產、內建單發式击發机构的自卫用途[求生](../Page/求生刀.md "wikilink")[匕首](https://zh.wikipedia.org/wiki/匕首 "wikilink")，击發机构發射蘇聯生产、先後取自[MSP雷霆消聲手槍與](https://zh.wikipedia.org/wiki/MSP雷霆消聲手槍 "wikilink")[PSS消音手槍](../Page/PSS消音手槍.md "wikilink")的（СП-3）與（СП-4）兩款消聲[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
+**NRS**（，；НРС[全寫](../Page/縮寫.md "wikilink")：**Н**ож **Р**азведчика **С**пециальный，意為：特殊偵察刀；[俄罗斯国防部火箭炮兵装备总局](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")代號：／）是一款由[前蘇聯](../Page/苏联.md "wikilink")（今[俄罗斯](../Page/俄罗斯.md "wikilink")）为[特种作战人员在敌后执行特殊任务中近距离内歼敌而研製](../Page/俄罗斯特种部队.md "wikilink")、由[圖拉兵工廠](../Page/圖拉兵工廠.md "wikilink")生產、內建單發式击發机构的自卫用途[求生](../Page/求生刀.md "wikilink")[匕首](https://zh.wikipedia.org/wiki/匕首 "wikilink")，击發机构發射蘇聯生产、先後取自[MSP雷霆消聲手槍](../Page/MSP雷霆消聲手槍.md "wikilink")與[PSS消音手槍](../Page/PSS消音手槍.md "wikilink")的（СП-3）與（СП-4）兩款消聲[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
 
 NRS的設計可用於以刀身刺穿或敵人，或利用其內置式射擊機構向距離達到25公尺的敵方射擊。
 
 ## 歷史
 
-1970年代，前蘇聯中央研究精密機械製造局應俄羅斯內務部和克格勃的要求，研發了這款可說是“裝有手槍子彈發射裝置的刀”的特殊武器。武器的設想是當執行潛行作戰的特種部隊隊員身陷危機時，用以在敵人防不勝防的一瞬間將其射殺。該計劃在曾設計過[MSP雷霆消聲手槍的R](https://zh.wikipedia.org/wiki/MSP雷霆消聲手槍 "wikilink"). D. Hlynin的帶領以下進行。
+1970年代，前蘇聯中央研究精密機械製造局應俄羅斯內務部和克格勃的要求，研發了這款可說是“裝有手槍子彈發射裝置的刀”的特殊武器。武器的設想是當執行潛行作戰的特種部隊隊員身陷危機時，用以在敵人防不勝防的一瞬間將其射殺。該計劃在曾設計過[MSP雷霆消聲手槍](../Page/MSP雷霆消聲手槍.md "wikilink")的R. D. Hlynin的帶領以下進行。
 
 ## 彈藥
 
-NRS匕首槍本身並無機械性消聲功能，射擊時的消聲效果是藉由[MSP「雷霆」與](https://zh.wikipedia.org/wiki/MSP雷霆消聲手槍 "wikilink")兩款消聲手枪所配用的（СП-3）特殊消聲手枪子彈所達成；而該彈藥是在1960年代以[7.62×39毫米蘇聯](../Page/7.62×39mm.md "wikilink")[口徑步槍子彈為藍本所研發](https://zh.wikipedia.org/wiki/口徑 "wikilink")，必要的修改是提供足以推動[彈丸的推力](https://zh.wikipedia.org/wiki/彈丸 "wikilink")，但亦需要限制[噪音](../Page/噪音.md "wikilink")。
+NRS匕首槍本身並無機械性消聲功能，射擊時的消聲效果是藉由[MSP「雷霆」與](../Page/MSP雷霆消聲手槍.md "wikilink")兩款消聲手枪所配用的（СП-3）特殊消聲手枪子彈所達成；而該彈藥是在1960年代以[7.62×39毫米蘇聯](../Page/7.62×39mm.md "wikilink")[口徑步槍子彈為藍本所研發](https://zh.wikipedia.org/wiki/口徑 "wikilink")，必要的修改是提供足以推動[彈丸的推力](https://zh.wikipedia.org/wiki/彈丸 "wikilink")，但亦需要限制[噪音](../Page/噪音.md "wikilink")。
 
 該彈藥與常規槍械所配用的彈藥不同在於[裝藥](../Page/裝藥.md "wikilink")與[彈頭](../Page/彈頭.md "wikilink")之間的活塞型特殊結構，發射時會以彈殼以內膨脹的火藥燃氣推動活塞，通過活塞推動彈頭向前運動；當活塞被彈殼肩部擋住時，火藥燃氣便會被堵塞於彈殼以內；直到彈頭飛出槍口時，活塞以後的火藥燃氣才得以逐漸釋放，並發出微弱的放氣聲。
 
@@ -47,7 +47,7 @@ NRS具有一把多功能的刀身，可以用作切割、鋸切，或鬆緊直�
   - [11式匕首槍](https://zh.wikipedia.org/wiki/11式匕首槍 "wikilink")
 
   -
-  - [MSP雷霆消聲手槍](https://zh.wikipedia.org/wiki/MSP雷霆消聲手槍 "wikilink")
+  - [MSP雷霆消聲手槍](../Page/MSP雷霆消聲手槍.md "wikilink")
 
   -
   - [PSS消音手槍](../Page/PSS消音手槍.md "wikilink")

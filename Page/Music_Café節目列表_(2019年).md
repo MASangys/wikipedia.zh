@@ -69,5 +69,6 @@
 | 428 | 7月6日   | 陳慧敏、廖仲謙　「巨聲幫」集合 | [陳慧敏](../Page/陳慧敏_\(歌手\).md "wikilink")、[廖仲謙](../Page/廖仲謙.md "wikilink") |- style="background-color: \#FFFFFF" |             |
 | 429 | 7月13日  | 黃妍、姜麗文　歌手也有粉絲時  | [黃　妍](../Page/黃妍.md "wikilink")、[姜麗文](../Page/姜麗文.md "wikilink") |- style="background-color: \#FFFFFF" |                     |
 | 430 | 7月20日  | 葉巧琳、鍾達茵　改變就是人生  | [葉巧琳](../Page/樂遊團.md "wikilink")、[鍾達茵](https://zh.wikipedia.org/wiki/鍾達茵 "wikilink") |- style="background-color: \#FFFFFF" | |
+| 431 | 7月27日  | 陳健安、洪嘉豪　毋忘音樂初衷  | [陳健安](../Page/陳健安.md "wikilink")、[洪嘉豪](https://zh.wikipedia.org/wiki/洪嘉豪 "wikilink") |- style="background-color: \#FFFFFF" | |
 
 [Category:無綫電視節目列表](https://zh.wikipedia.org/wiki/Category:無綫電視節目列表 "wikilink") [Category:Music_Café](https://zh.wikipedia.org/wiki/Category:Music_Café "wikilink") [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")

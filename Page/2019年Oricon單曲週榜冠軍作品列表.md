@@ -224,6 +224,13 @@
 <td><p>44.8</p></td>
 <td><p>1</p></td>
 </tr>
+<tr class="odd">
+<td><p>8月5日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/FRUSTRATION" title="wikilink">FRUSTRATION</a></p></td>
+<td><p><a href="../Page/SKE48.md" title="wikilink">SKE48</a></p></td>
+<td><p>32.0</p></td>
+<td><p>1</p></td>
+</tr>
 </tbody>
 </table>
 

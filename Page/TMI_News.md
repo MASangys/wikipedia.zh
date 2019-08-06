@@ -48,6 +48,13 @@
 <td><p>第7集至今</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/秀斌.md" title="wikilink">秀斌</a></p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女成員</a>）</p></td>
+<td><p>第1集至今</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -92,7 +99,7 @@
 <td><p>第1集至第6集</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/DinDin" title="wikilink">DinDin</a></p></td>
+<td><p><a href="../Page/DinDin.md" title="wikilink">DinDin</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/饒舌.md" title="wikilink">饒舌</a>歌手</p></td>
@@ -106,13 +113,6 @@
 <td><p>第1集至第6集</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/秀斌.md" title="wikilink">秀彬</a></p></td>
-<td></td>
-<td></td>
-<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女成員</a>）</p></td>
-<td><p>擔任天氣預報員</p></td>
-</tr>
-<tr class="even">
 <td><p><strong><a href="../Page/Sleepy_(韓國歌手).md" title="wikilink">金成源</a></strong> <a href="../Page/Sleepy_(韓國歌手).md" title="wikilink">（Sleepy）</a></p></td>
 <td><p>김성원</p></td>
 <td></td>

@@ -83,13 +83,14 @@
 
 ## THE LIVE
 
-| 年份    | 日期                           | 參與成員                                                     | 歌曲名稱                                                     |
-| ----- | ---------------------------- | -------------------------------------------------------- | -------------------------------------------------------- |
-| 2018年 | 6月5日                         | 周燦                                                       | 바람 (Wind)\[7\]\[8\]                                      |
-| 7月23日 | 밤편지 (Through the Night)\[9\] |                                                          |                                                          |
-| 9月8日  | Y                            | 너만 괜찮다면 (If only you are fine)\[10\]                     |                                                          |
-| 2019年 | 6月25日                        | 周燦                                                       | [Attention](https://www.youtube.com/watch?v=E7pwAz-GlCM) |
-| 7月16日 | 長埈                           | [Stay Cool](https://www.youtube.com/watch?v=Thp-bOo15RM) |                                                          |
+| 年份    | 日期                           | 參與成員                                                         | 歌曲名稱                                                     |
+| ----- | ---------------------------- | ------------------------------------------------------------ | -------------------------------------------------------- |
+| 2018年 | 6月5日                         | 周燦                                                           | 바람 (Wind)\[7\]\[8\]                                      |
+| 7月23日 | 밤편지 (Through the Night)\[9\] |                                                              |                                                          |
+| 9月8日  | Y                            | 너만 괜찮다면 (If only you are fine)\[10\]                         |                                                          |
+| 2019年 | 6月25日                        | 周燦                                                           | [Attention](https://www.youtube.com/watch?v=E7pwAz-GlCM) |
+| 7月16日 | 長埈                           | [Stay Cool](https://www.youtube.com/watch?v=Thp-bOo15RM)     |                                                          |
+| 7月30日 | TAG                          | [행복(Happiness)](https://www.youtube.com/watch?v=Kqp7bexARG4) |                                                          |
 
 ## 原聲帶
 

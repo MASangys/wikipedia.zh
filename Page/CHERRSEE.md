@@ -76,6 +76,16 @@
 </ul></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><strong>5th</strong></p></td>
+<td><p>《<strong>BiBiDi BaBiDi Boo</strong>》</p>
+<ul>
+<li>發行日期：2019年5月8日</li>
+<li>發行公司：Jay Rock娛樂</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

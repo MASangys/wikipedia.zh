@@ -1,4 +1,6 @@
-《**Perfume**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS 2TV於](https://zh.wikipedia.org/wiki/KBS_2TV "wikilink")2019年6月3日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由《[懲毖錄](../Page/懲毖錄_\(電視劇\).md "wikilink")》、《[人偶之家](../Page/人偶之家.md "wikilink")》的金尚輝導演與新人作家崔賢玉合作打造。此劇講述把整個人生都奉獻給家人，但最後卻家破人亡、陷入絕望的中年女性，和想挑戰愛情卻沒有勇氣，一直畏畏縮縮的男人之間展開「人生第二次」愛情的故事。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\] 香港由[myTV SUPER緊貼韓國點播](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")。
+《**Perfume**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS 2TV於](https://zh.wikipedia.org/wiki/KBS_2TV "wikilink")2019年6月3日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由《[懲毖錄](../Page/懲毖錄_\(電視劇\).md "wikilink")》、《[人偶之家](../Page/人偶之家.md "wikilink")》的金尚輝導演與新人作家崔賢玉合作打造。此劇講述把整個人生都奉獻給家人，但最後卻家破人亡、陷入絕望的中年女性，和想挑戰愛情卻沒有勇氣，一直畏畏縮縮的男人之間展開「人生第二次」愛情的故事。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
+
+香港由[myTV SUPER緊貼韓國點播](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")。
 
 ## 演員陣容
 
@@ -109,7 +111,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/朴俊錦.md" title="wikilink">朴俊錦</a></p></td>
-<td><p>還未得知姓名</p></td>
+<td><p>周熙恩</p></td>
 <td><p>徐伊道/尹民錫的母親</p></td>
 </tr>
 <tr class="odd">
@@ -166,6 +168,26 @@
 <!-- end list -->
 
   - Part.9（發行日期：2019年7月2日）
+
+<!-- end list -->
+
+  - Part.10（發行日期：2019年7月7日）
+
+<!-- end list -->
+
+  - Part.11（發行日期：2019年7月9日）
+
+<!-- end list -->
+
+  - Part.12（發行日期：2019年7月13日）
+
+<!-- end list -->
+
+  - Part.13（發行日期：2019年7月15日）
+
+<!-- end list -->
+
+  - Part.13（發行日期：2019年7月16日）
 
 ## 收視率
 
@@ -396,7 +418,7 @@
 
   - [SBS](../Page/SBS_\(韓國\).md "wikilink") [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[初次見面我愛你](../Page/初次見面我愛你_\(韓國電視劇\).md "wikilink")》
   - [tvN](../Page/TVN.md "wikilink") [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[Abyss](../Page/Abyss.md "wikilink")》、《[60天，指定倖存者](../Page/60天，指定倖存者.md "wikilink")》
-  - [JTBC](../Page/JTBC.md "wikilink") [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[風在吹](https://zh.wikipedia.org/wiki/風在吹_\(電視劇\) "wikilink")》、《[18歲的瞬間](https://zh.wikipedia.org/wiki/18歲的瞬間 "wikilink")》
+  - [JTBC](../Page/JTBC.md "wikilink") [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[風在吹](https://zh.wikipedia.org/wiki/風在吹_\(電視劇\) "wikilink")》、《[18歲的瞬間](../Page/18歲的瞬間.md "wikilink")》
 
 ### 同一劇集時段作品
 

@@ -56,7 +56,7 @@
 
   - Quartzer
     原文： / *Quartzer*
-    本作敵役組織，稱作「時間的管理者」，由假面骑士Barlckxs担任首领。
+    本作敵役組織，稱作「時間的管理者」，由「假面骑士Barlckxs / 常磐SOUGO」担任首领，并且擁有操控多數大魔神跟家臣的能力。
     另外「假面骑士Zonjis / 下弦」、「假面骑士Zamonas / 上弦」以及TV本篇的「假面骑士Woz / 黑Woz」也是該組織的一員，除了首領外所有人服裝與黑Woz的几乎一樣。
 
 ## 登場人物
@@ -92,10 +92,18 @@
 ****（[稻葉友飾](https://zh.wikipedia.org/wiki/稻葉友 "wikilink")）
 
   -
+    **假面騎士Mach**的變身者。
 
 ****（聲）
 
   -
+
+### 《仮面ノリダー》原登場人物
+
+**木梨-{}-猛（）**（[木梨憲武飾](https://zh.wikipedia.org/wiki/木梨憲武 "wikilink")）
+
+  -
+    **仮面ノリダー**的變身者。
 
 ### 本作登場人物
 
@@ -116,7 +124,9 @@
 ****（[ISSA飾](https://zh.wikipedia.org/wiki/ISSA "wikilink")）
 
   -
-    **假面騎士Barlckxs**的變身者。
+    **Quartzer的首領**，**假面騎士Barlckxs**的變身者。
+    為woz真正侍奉的王，小時候常磐莊吾施展時間的力量也是由他所為，為了讓其說服所有平成騎士自願將力量給莊吾帶走，自己最後在統一吸收。
+    最後被假面騎士ZI-O 逢魔形態給擊敗。
 
 ****（[齊藤秀翼](../Page/齊藤秀翼.md "wikilink")飾）
 
@@ -127,11 +137,27 @@
 
   -
     **假面騎士Zonjis**的變身者，Quartzer的成員。
+    最後被假面騎士ZERO-ONE給擊敗。
 
 ****（聲）
 
   -
     **假面騎士ZERO-ONE**的變身者。
+    為開頭莊吾夢中出場，由woz祝福的令和第一位假面騎士，結尾則出現幫忙擊敗了假面騎士Zonjis。
+
+### 本作次要登場英雄
+
+**[假面骑士G](../Page/假面骑士G.md "wikilink")**
+
+**[假面战队五骑士](https://zh.wikipedia.org/wiki/假面战队五骑士 "wikilink")**
+
+**[假面骑士斩月](https://zh.wikipedia.org/wiki/假面骑士鎧武 "wikilink")**
+
+**漫畫版[幪面超人古迦](https://zh.wikipedia.org/wiki/幪面超人古迦 "wikilink")**
+
+**[电脑奇侠01](../Page/电脑奇侠01.md "wikilink")**
+
+**[假面骑士BRAIN](https://zh.wikipedia.org/wiki/Drive_SAGA#假面騎士BRAIN "wikilink")**
 
 ## 本作限定登場假面騎士/形態
 

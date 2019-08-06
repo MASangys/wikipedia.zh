@@ -1,5 +1,6 @@
-BULLY IDOL是日本的音樂團體、女子偶像組合、是WACK的洗牌團體，是用來推廣的新單曲"そして、また、、" \[1\]。
-並模仿他們，設定為是他們的競爭對手。\[2\] 2019年結成。隸屬於WACK。唱片公司為Tower Records。
+**BULLY IDOL**是日本的音樂團體、女子偶像組合、是WACK的洗牌團體，是用來推廣的新單曲"" \[1\]。2019年結成。隸屬於WACK。唱片公司為Tower Records。
+
+模仿他們，設定為是他們的競爭對手。\[2\]
 
 ## 概要
 
@@ -92,9 +93,9 @@ BULLY IDOL是日本的音樂團體、女子偶像組合、是WACK的洗牌團體
   - BULLY IDOL是WACK的第一個洗牌團體。包含有Curry Roux成員的洗牌團體。
 
   -
-## 外部連結
+## 参考文献
 
-## 參考資料
+## 外部連結
 
 [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
 

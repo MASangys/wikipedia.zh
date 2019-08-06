@@ -51,15 +51,17 @@
 ### 韓國年度品牌大賞
 
 <table>
+<thead>
+<tr class="header">
+<th><p>屆數</p></th>
+<th><p>年份</p></th>
+<th><p>獎項</p></th>
+<th><p>提名項目</p></th>
+<th><p>結果</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p>屆數</p></td>
-<td><p>年份</p></td>
-<td><p>獎項</p></td>
-<td><p>提名項目</p></td>
-<td><p>結果</p></td>
-</tr>
-<tr class="even">
 <td><p>第17屆</p></td>
 <td><p>2019年</p></td>
 <td><p>女子新人獎</p></td>
@@ -117,7 +119,7 @@
 | 2019年 | 3月8日 | Dalla Dalla |
 | 3月15日 |      |             |
 
-### [人气歌谣](../Page/人气歌谣.md "wikilink")
+### [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")
 
 | 年份    | 日期    | 歌曲名稱        |
 | ----- | ----- | ----------- |
@@ -127,6 +129,6 @@
 
   - 註：每首歌曲最多只能獲得一位三次，獲獎三次後會自動在候補名單中被剔除。
 
-<!-- end list -->
+## 參考資料
 
 1.

@@ -43,6 +43,27 @@
 </tbody>
 </table>
 
+### 合唱作品
+
+<table>
+<thead>
+<tr class="header">
+<th><p>發行日期</p></th>
+<th><p>歌曲名稱</p></th>
+<th><p>合作歌手</p></th>
+<th><p>備註</p></th>
+<th><p>|- align= "center"</p></th>
+<th></th>
+<th><p>千金</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/萬妮達" title="wikilink">Vinida 萬妮達</a></p></th>
+<th><p>收錄於萬妮達第二張個人專輯《SOLO獨行者》</p></th>
+<th><p>[3] |- align= "center"</p></th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+
 ## 獲獎紀錄
 
 ### [金曲獎](../Page/金曲獎.md "wikilink")
@@ -59,7 +80,7 @@
 <th><p><a href="../Page/最佳新人獎_(金曲獎).md" title="wikilink">最佳新人獎</a></p></th>
 <th></th>
 <th></th>
-<th><p>[3] |- align= "center"</p></th>
+<th><p>[4] |- align= "center"</p></th>
 <th><p><a href="../Page/最佳演唱錄音專輯獎_(金曲獎).md" title="wikilink">最佳演唱錄音專輯獎</a></p></th>
 <th><p>《SHA YAN》</p></th>
 <th><p>|- align= "center"</p></th>
@@ -76,3 +97,4 @@
 1.
 2.
 3.
+4.

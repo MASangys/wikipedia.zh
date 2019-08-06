@@ -43,7 +43,7 @@
 
 ### 編劇
 
-2019年電影《[復仇者聯盟：終局之戰](https://zh.wikipedia.org/wiki/復仇者聯盟：終局之戰 "wikilink")》結尾[史蒂芬·羅傑斯將盾牌以及美國隊長的稱號傳承給](../Page/美國隊長.md "wikilink")[「獵鷹」山姆·威爾遜](https://zh.wikipedia.org/wiki/獵鷹_\(漫畫\) "wikilink")，劇集在此基礎上展開故事\[14\]。
+2019年電影《[復仇者聯盟：終局之戰](../Page/復仇者聯盟：終局之戰.md "wikilink")》結尾[史蒂芬·羅傑斯將盾牌以及美國隊長的稱號傳承給](../Page/美國隊長.md "wikilink")[「獵鷹」山姆·威爾遜](https://zh.wikipedia.org/wiki/獵鷹_\(漫畫\) "wikilink")，劇集在此基礎上展開故事\[14\]。
 
 ### 選角
 

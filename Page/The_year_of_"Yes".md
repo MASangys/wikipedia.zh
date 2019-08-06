@@ -2,7 +2,7 @@
 
 ## 背景及回歸日程
 
-2018年11月26日，JYP娛樂公司透露TWICE將帶着第三張特別專輯於12月回歸，相距上次《[YES or YES](https://zh.wikipedia.org/wiki/YES_or_YES "wikilink")》迷你六輯回歸只隔了一個多月，並指出這次特別三輯是TWICE在年末聖誕時節帶給粉絲的禮物，因此並不會進行宣傳活動。
+2018年11月26日，[JYP娛樂](../Page/JYP娛樂.md "wikilink")透露TWICE將帶著第三張特別專輯於12月回歸，MV也在10月於[蒙古拍攝完畢](https://zh.wikipedia.org/wiki/蒙古 "wikilink")。相距上次《[YES or YES](https://zh.wikipedia.org/wiki/YES_or_YES "wikilink")》迷你六輯回歸只隔了一個多月，並指出這次的專輯是TWICE在年末聖誕節帶給粉絲的禮物，因此並不會進行宣傳活動。
 
 12月2日，逐步釋出團體概念圖、歌單（主打歌，日本正規一輯收錄曲「Be as ONE」的韓文版本及YES or YES七首歌曲）及專輯預覽，宣佈TWICE將於12月12日下午六點回歸。\[3\]
 

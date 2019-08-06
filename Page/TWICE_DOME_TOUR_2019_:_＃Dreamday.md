@@ -23,6 +23,8 @@
 
 ## 参考资料
 
+[Category:TWICE巡迴演唱會](https://zh.wikipedia.org/wiki/Category:TWICE巡迴演唱會 "wikilink")
+
 1.  [「韓國女團的第一次」TWICE 明年登上日本三大巨蛋舉行巡演！](https://www.koreastardaily.com/tc/news/110395)
 2.  [TWICE 2019年ドームツアー開催決定](https://www.youtube.com/watch?time_continue=34&v=uj1cypx5TmM)
 3.  [TWICE DOME TOUR 2019開催決定！](https://www.youtube.com/watch?v=7Og5GMxzO0k)

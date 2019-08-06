@@ -1324,7 +1324,7 @@
 </tr>
 <tr class="even">
 <td><p>FBW</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/电传操纵系统" title="wikilink">电传操纵系统</a></p></td>
+<td><p><a href="../Page/电传操纵系统.md" title="wikilink">电传操纵系统</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

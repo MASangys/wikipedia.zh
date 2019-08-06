@@ -42,6 +42,109 @@
   -
     S級的冒險者，明克的搭檔。總是身著斗蓬。
 
+## 出版書籍
+
+### 輕小說
+
+<table>
+<thead>
+<tr class="header">
+<th><p>卷數</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/雙葉社" title="wikilink">雙葉社</a></p></th>
+<th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2018年10月22日</p></td>
+<td><p>ISBN 978-4-575-24115-0</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2019年2月15日</p></td>
+<td><p>ISBN 978-4-575-24147-1</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2019年5月30日</p></td>
+<td><p>ISBN 978-4-575-24178-5</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2019年8月30日</p></td>
+<td><p>ISBN 978-4-575-24202-7</p></td>
+</tr>
+</tbody>
+</table>
+
+### 文庫版
+
+<table>
+<thead>
+<tr class="header">
+<th><p>卷數</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/雙葉社" title="wikilink">雙葉社</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2017年6月30日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2017年10月30日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2018年3月30日</p></td>
+</tr>
+</tbody>
+</table>
+
+### 漫畫
+
+<table>
+<thead>
+<tr class="header">
+<th><p>卷數</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/雙葉社" title="wikilink">雙葉社</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2018年3月30日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2018年8月30日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2019年1月30日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2019年6月28日</p></td>
+</tr>
+</tbody>
+</table>
+
 ## 電視動畫
 
 於2019年7月3日播出。
@@ -50,7 +153,7 @@
 
   - 原作：神埼黑音
   - 原作插畫：sune
-  - 監督：木村寬
+  - 監督：[木村寬](../Page/木村寬.md "wikilink")
   - 系列構成：谷崎央佳
   - 角色原案：飯野誠
   - 角色設計、道具設計：中山知世
@@ -88,7 +191,7 @@
 <td></td>
 <td><p>魔王降臨</p></td>
 <td><p>谷崎央佳<br />
-木村寬</p></td>
+<a href="../Page/木村寬.md" title="wikilink">木村寬</a></p></td>
 <td><p>木村寬</p></td>
 <td><p>rere、Cerberus<br />
 Suwarin Promjutikanon<br />
@@ -126,6 +229,16 @@ Chotanan Pipobworachai</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>第5話</p></td>
+<td></td>
+<td><p>毫不留情的侵略</p></td>
+<td></td>
+<td><p>上原秀明</p></td>
+<td><p>竹內昭、櫻井拓郎<br />
+</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

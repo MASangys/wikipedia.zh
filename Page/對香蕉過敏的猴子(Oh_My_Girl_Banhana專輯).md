@@ -1,4 +1,4 @@
-對香蕉過敏的猴子(Banana Allergy Monkey)為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[Oh My Girl首組小分隊](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")[Oh My Girl Banhana的Pop](../Page/Oh_My_Girl_Banhana.md "wikilink")-up專輯。由WM娛樂製作，Kakao M發行，於2019年5月8日推出。主打歌曲為〈對香蕉過敏的猴子(Banana Allergy Monkey)〉。
+《**對香蕉過敏的猴子**》（、）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[Oh My Girl首組小分隊](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")[Oh My Girl Banhana的Pop](../Page/Oh_My_Girl_Banhana.md "wikilink")-up專輯。由WM娛樂製作，Kakao M發行，於2018年4月2日推出。主打歌曲為〈對香蕉過敏的猴子(Banana Allergy Monkey)〉。
 
 ## 曲目
 
@@ -35,3 +35,7 @@
 </tr>
 </tbody>
 </table>
+
+## 參考文獻
+
+[Category:韓國音樂專辑](https://zh.wikipedia.org/wiki/Category:韓國音樂專辑 "wikilink") [Category:2018年迷你專輯](https://zh.wikipedia.org/wiki/Category:2018年迷你專輯 "wikilink") [Category:Oh_My_Girl音樂專輯](https://zh.wikipedia.org/wiki/Category:Oh_My_Girl音樂專輯 "wikilink")
