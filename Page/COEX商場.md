@@ -17,7 +17,7 @@
 
 ## 外部連結
 
-  - [COEX商場](https://web.archive.org/web/20060823094913/http://coexmall.com/)
+  - [COEX商場](https://www.starfield.co.kr/coexmall/main.do)
 
 [Category:首爾建築物](https://zh.wikipedia.org/wiki/Category:首爾建築物 "wikilink") [Category:首爾商場](https://zh.wikipedia.org/wiki/Category:首爾商場 "wikilink")
 

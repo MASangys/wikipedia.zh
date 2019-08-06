@@ -46,4 +46,4 @@ W国家公园有典型的苏丹类型的热带稀树草原的动物。公园内�
 
   - [Le Parc du W du Niger (Niger, Burkina Faso, Bénin): Aires protégées Burkina Faso - Niger - Bénin](https://web.archive.org/web/20070627095327/http://www.orleans.ird.fr/UR_US/ur136/site/activites/wniger.htm). Centre IRD d'Orléans Research Summary, University of Orleans (France)
 
-[Category:尼日尔](https://zh.wikipedia.org/wiki/Category:尼日尔 "wikilink") [Category:尼日世界遺產](https://zh.wikipedia.org/wiki/Category:尼日世界遺產 "wikilink")
+[Category:貝南國家公園](https://zh.wikipedia.org/wiki/Category:貝南國家公園 "wikilink") [Category:布吉納法索國家公園](https://zh.wikipedia.org/wiki/Category:布吉納法索國家公園 "wikilink") [Category:尼日國家公園](https://zh.wikipedia.org/wiki/Category:尼日國家公園 "wikilink") [Category:尼日世界遺產](https://zh.wikipedia.org/wiki/Category:尼日世界遺產 "wikilink") [Category:尼日河](https://zh.wikipedia.org/wiki/Category:尼日河 "wikilink") [Category:1954年設立的保護區](https://zh.wikipedia.org/wiki/Category:1954年設立的保護區 "wikilink")

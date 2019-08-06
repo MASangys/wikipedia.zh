@@ -1,6 +1,6 @@
 **MVC模式**（Model–view–controller）是[软件工程](../Page/软件工程.md "wikilink")中的一种[软件架构](../Page/软件架构.md "wikilink")模式，把软件系统分为三个基本部分：模型（Model）、视图（View）和控制器（Controller）。
 
-MVC模式最早由[Trygve Reenskaug在](https://zh.wikipedia.org/wiki/Trygve_Reenskaug "wikilink")1978年提出\[1\]，是[施乐帕罗奥多研究中心](https://zh.wikipedia.org/wiki/帕罗奥多研究中心 "wikilink")（Xerox PARC）在20世纪80年代为程序语言[Smalltalk](../Page/Smalltalk.md "wikilink")发明的一种软件架构。**MVC模式**的目的是实现一种动态的程式设计，使后续对程序的修改和扩展简化，并且使程序某一部分的重复利用成为可能。除此之外，此模式通过对复杂度的简化，使程序结构更加直观。软件系统通过对自身基本部分分离的同时也赋予了各个基本部分应有的功能。专业人员可以通过自身的专长分组：
+MVC模式最早由[Trygve Reenskaug在](https://zh.wikipedia.org/wiki/Trygve_Reenskaug "wikilink")1978年提出\[1\]，是[施乐帕罗奥多研究中心](https://zh.wikipedia.org/wiki/帕罗奥多研究中心 "wikilink")（Xerox PARC）在20世纪80年代为程序语言[Smalltalk](../Page/Smalltalk.md "wikilink")发明的一种软件架构。**MVC模式**的目的是实现一种动态的程式设计，使后续对程序的修改和扩展简化，并且使程序某一部分的重复利用成为可能。除此之外，此模式透过对复杂度的简化，使程序结构更加直观。软件系统透过对自身基本部分分离的同时也赋予了各个基本部分应有的功能。专业人员可以依據自身的专长分组：
 
   - 控制器（Controller）- 负责转发请求，对请求进行处理。
   - 视图（View） - 界面设计人员进行图形界面设计。

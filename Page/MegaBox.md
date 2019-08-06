@@ -231,7 +231,9 @@
 
   - [企業廣場五期](https://web.archive.org/web/20080825153644/http://www.es5.com.hk/)
 
-[Category:香港溜冰場地](https://zh.wikipedia.org/wiki/Category:香港溜冰場地 "wikilink") [Category:香港之最](https://zh.wikipedia.org/wiki/Category:香港之最 "wikilink") [Category:九龍灣](https://zh.wikipedia.org/wiki/Category:九龍灣 "wikilink") [Category:觀塘區商場](https://zh.wikipedia.org/wiki/Category:觀塘區商場 "wikilink") [Category:嘉里建設物業](https://zh.wikipedia.org/wiki/Category:嘉里建設物業 "wikilink") [Category:幻彩詠香江](https://zh.wikipedia.org/wiki/Category:幻彩詠香江 "wikilink")
+[Category:觀塘區](https://zh.wikipedia.org/wiki/Category:觀塘區 "wikilink") [Category:2007年完工建築物](https://zh.wikipedia.org/wiki/Category:2007年完工建築物 "wikilink")
+
+[Category:九龍灣](https://zh.wikipedia.org/wiki/Category:九龍灣 "wikilink") [Category:觀塘區商場](https://zh.wikipedia.org/wiki/Category:觀塘區商場 "wikilink") [Category:嘉里建設物業](https://zh.wikipedia.org/wiki/Category:嘉里建設物業 "wikilink") [Category:香港溜冰場地](https://zh.wikipedia.org/wiki/Category:香港溜冰場地 "wikilink") [Category:香港之最](https://zh.wikipedia.org/wiki/Category:香港之最 "wikilink") [Category:幻彩詠香江](https://zh.wikipedia.org/wiki/Category:幻彩詠香江 "wikilink")
 
 1.  文匯報：MegaBox尚流地帶啟業（2007年6月28日）
 2.

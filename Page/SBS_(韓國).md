@@ -168,16 +168,6 @@
   - 週一：02:16\~04:56
   - 週二至週五：03:00\~05:00
 
-## 股東
-
-  - [泰榮地產建築](http://www.taeyoung.com/english/index.asp) 30.0%
-  - [瑰都啦咪鍋爐](http://www.krb.co.kr/chinese/main/main.html) 13.2%
-  - [大韓投資信託運用](https://web.archive.org/web/20080103023248/http://www.dimco.co.kr/) 9.5%
-      - （[韓亞金控](http://www.hanafn.com/) 49%、[瑞銀](https://zh.wikipedia.org/wiki/UBS "wikilink")51%）
-  - 政府公股（韓國國民退休金管理公團）6.5%
-  - [大韓製粉](https://web.archive.org/web/20080118130202/http://www.dhflour.co.kr/eng/company.htm) 5.6%
-  - Lucy娱乐集团 4%
-
 ## 主播
 
   - （[SBS 8點新聞](https://zh.wikipedia.org/wiki/SBS_8點新聞 "wikilink")（平日）主播，2016年12月19日起）

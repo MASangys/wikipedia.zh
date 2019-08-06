@@ -69,12 +69,12 @@ VIQR 以 `DD` 或 `Dd` 代表越南语字母  和以 `dd` 代表 。如要输入
 
   - [AnGiang 軟體](https://web.archive.org/web/20060213114637/http://xmlunify.com/angiang_ss2.htm)
 
-  -   - [Vietnamese Character Encoding Standardization Report – VISCII and VIQR 1.1 Character Encoding Specifications](http://vietstd.sourceforge.net/report/rep92.htm) (English and Vietnamese)
+  - Help page on inputting Vietnamese text in Vietnamese Wikipedia
+
+      - [Vietnamese Character Encoding Standardization Report – VISCII and VIQR 1.1 Character Encoding Specifications](http://vietstd.sourceforge.net/report/rep92.htm) (English and Vietnamese)
       - [The VIQR Convention](http://vietstd.sourceforge.net/document/viqr.htm)
 
   - [Free Online VIQR to Unicode Converter](http://www.enderminh.com/minh/vnconversions.aspx)
-
-  - [Help page on inputting Vietnamese text in Vietnamese Wikipedia](https://zh.wikipedia.org/wiki/:vi:Wikipedia:Gõ_tiếng_Việt "wikilink")
 
 [Category:越南語輸入法](https://zh.wikipedia.org/wiki/Category:越南語輸入法 "wikilink")
 

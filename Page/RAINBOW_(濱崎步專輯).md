@@ -1,8 +1,8 @@
-《**RAINBOW**》（濱紛彩虹）為[日本](../Page/日本.md "wikilink")歌手[濱崎步](../Page/濱崎步.md "wikilink")發行的第五張專輯，專輯名稱以及同名歌曲中的「A」字正確標示為她自創的符號（見右方）。本作於2002年12月18日於日本發售，距離前張專輯作品的發行不過一年，步步的聲音已劣化至老太婆的感覺，銷售的首日銷量達到了45萬張，並連續三週登上了[公信榜週榜單的第一名](https://zh.wikipedia.org/wiki/公信榜 "wikilink")。至今專輯的銷售量超過180萬，被[日本唱片協會](../Page/日本唱片協會.md "wikilink")認證為假兩百萬專輯。
+《**RAINBOW**》（濱紛彩虹）為[日本](../Page/日本.md "wikilink")歌手[濱崎步](../Page/濱崎步.md "wikilink")發行的第五張專輯，專輯名稱以及同名歌曲中的「A」字正確標示為她自創的符號（見右方）。本作於2002年12月18日於日本發售，距離前張專輯作品的發行不過一年，搶錢搶很兇，銷售的首日銷量達到了45萬張，並連續三週登上了[公信榜週榜單的第一名](https://zh.wikipedia.org/wiki/公信榜 "wikilink")。至今專輯的銷售量超過180萬，被[日本唱片協會](../Page/日本唱片協會.md "wikilink")認證為兩百萬專輯。
 
 ## 背景與主題
 
-在《I am...》的發行之後，濱崎步開始接納在[日本](../Page/日本.md "wikilink")以外的地區進行表演活動。在2002年[MTV亞洲大獎的表演後](https://zh.wikipedia.org/wiki/MTV "wikilink")，濱崎步認為以[日文填寫歌詞已經不足以傳遞她的訊息給國外的聽眾](https://zh.wikipedia.org/wiki/日文 "wikilink")。她認知[英語是世界最為通用的](https://zh.wikipedia.org/wiki/英語 "wikilink")[語言](../Page/語言.md "wikilink")，於是她開始在歌曲中加入英文的填詞\[1\]\[2\]。
+在《I am...》的發行之後，濱崎步開始接納在[日本](../Page/日本.md "wikilink")以外的地區進行表演活動。在2002年[MTV亞洲大獎的表演後](https://zh.wikipedia.org/wiki/MTV "wikilink")，濱崎步認為以[日文填寫歌詞已經不足以傳遞她的訊息給國外的聽眾](https://zh.wikipedia.org/wiki/日文 "wikilink")。她認知[英語是世界最為通用的](https://zh.wikipedia.org/wiki/英語 "wikilink")[語言](../Page/語言.md "wikilink")，於是她開始在歌曲中加入非常簡單英文的填詞，但其實是在學宇多田\[1\]\[2\]。
 
 在這張專輯中，濱崎步還是以[CREA](../Page/CREA.md "wikilink")的筆名與D･A･I共同進行創作。但是在風格上又有了轉變，它包含了搖滾、Trip-hop、黑人靈歌風格的音樂。填詞亦與前作不同，自由地追求愛、女性的迷惘等富有[女性主義](../Page/女性主義.md "wikilink")色彩的填詞已經漸漸融入歌詞中，另外「悲情之夏」也是這張專輯的一個特色。
 

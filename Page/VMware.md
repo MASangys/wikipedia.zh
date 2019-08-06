@@ -68,7 +68,7 @@ VMware国际公司对[数据中心](../Page/数据中心.md "wikilink")应用提
 
 傳統的模擬器，如[Bochs](../Page/Bochs.md "wikilink")，透過調用宿主機上的軟體子程序逐條執行每一道客戶機的CPU指令，以此模擬客戶機的[微處理器](https://zh.wikipedia.org/wiki/微處理器 "wikilink")。這種抽象化的方法，可使宿主機模擬出不同於自身微處理器的環境，讓客戶機運行。然而這類模擬器運行得非常慢。
 
-一种更有效率的方式是在初次执行客户机指令时[动态地重新编译那些机器指令块](../Page/动态重编译.md "wikilink")，以后用到这些指令时直接执行经过翻译的代码。这种方式是由[微软](../Page/微软.md "wikilink")的[Virtual PC](https://zh.wikipedia.org/wiki/Virtual_PC "wikilink") for [Mac OS X产品](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、以及[Fabrice Bellard的](https://zh.wikipedia.org/wiki/Fabrice_Bellard "wikilink")[QEMU](../Page/QEMU.md "wikilink")产品（不含近期的[kqemu附加模块](https://zh.wikipedia.org/wiki/QEMU#lqemu "wikilink")）所使用的方式。
+一种更有效率的方式是在初次执行客户机指令时[动态地重新编译那些机器指令块](../Page/动态重编译.md "wikilink")，以后用到这些指令时直接执行经过翻译的代码。这种方式是由[微软](../Page/微软.md "wikilink")的[Virtual PC](https://zh.wikipedia.org/wiki/Virtual_PC "wikilink") for [Mac OS X产品](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、以及[Fabrice Bellard的](https://zh.wikipedia.org/wiki/Fabrice_Bellard "wikilink")[QEMU](../Page/QEMU.md "wikilink")产品（不含[KVM附加模块](https://zh.wikipedia.org/wiki/Kernel-based_Virtual_Machine "wikilink")）所使用的方式。
 
 和Virtual PC for Windows产品及带有kqemu附加模块的QEMU产品一样，VMware工作站使用了一种更加优化的方式，在尽可能的情况下直接运行程序代码，在x86中这是执行用户模式和[虚拟8086模式的程序代码的情况而言](https://zh.wikipedia.org/wiki/8086仿真模式 "wikilink")。当不能直接运行程序代码时，这几种软件产品会动态地重写代码，这是在执行内核级别和[实模式的程序代码的情况而言](https://zh.wikipedia.org/wiki/实模式 "wikilink")。在VMware中，经过翻译的代码是被放入内存的空闲区域中的，一般是在地址空间的尾部，这个区域可以随即被保护起来并通过分段机制标记为不可见的。由于这些原因，VMware比仿真器显著地快，能以超过在真实硬件上运行速度的80%的速度运行虚拟的客户操作系统。VMware对在运行高强度计算的应用程序时只有小到3%-5%的效能损耗而自豪。
 

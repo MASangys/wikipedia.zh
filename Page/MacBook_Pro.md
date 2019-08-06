@@ -678,7 +678,7 @@ WWDC2012发布了处理器昇級為Ivy Bridge架構的13及15吋第二代MacBook
 <td><p><strong>LED背光鏡面<a href="https://zh.wikipedia.org/wiki/视网膜显示器" title="wikilink">视网膜显示屏</a>(采用<a href="https://zh.wikipedia.org/wiki/IPS_LCD" title="wikilink">IPS技术</a>)</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>15.4”, 2,880 × 1,800 (16:10), 220 ppi 配备 广色域 (P3), 500 尼特亮度 <span style="color:#969696"><em>(15")</em></span></p></td>
+<td><p>15.4", 2,880 × 1,800 (16:10), 220 ppi 配备 广色域 (P3), 500 尼特亮度 <span style="color:#969696"><em>(15")</em></span></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>视频摄像头</strong></p></td>

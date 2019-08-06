@@ -1,4 +1,4 @@
-[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")**运算符**都被[C++语言支持](https://zh.wikipedia.org/wiki/C++语言 "wikilink")。C语言不支持[运算符重载](../Page/运算符重载.md "wikilink")。
+所有的[C语言](https://zh.wikipedia.org/wiki/C语言 "wikilink")**运算符**都被[C++语言支持](https://zh.wikipedia.org/wiki/C++语言 "wikilink")。C语言不支持[运算符重载](../Page/运算符重载.md "wikilink")。
 
 在不重载时，运算符`&&`、`||`、`,`（），在第一个操作数求值之后有一个[顺序点](../Page/顺序点.md "wikilink")。
 

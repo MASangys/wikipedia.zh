@@ -1,6 +1,6 @@
 [Tap.a330-200.cs-toe.arp.jpg](https://zh.wikipedia.org/wiki/File:Tap.a330-200.cs-toe.arp.jpg "fig:Tap.a330-200.cs-toe.arp.jpg")
 
-**TAP葡萄牙航空**（；全稱「」，简称「」，）是[葡萄牙](../Page/葡萄牙.md "wikilink")的[國家航空公司](../Page/國家航空公司.md "wikilink")。该公司為[星空聯盟](../Page/星空聯盟.md "wikilink")的成員之一，以-{[里斯本](../Page/里斯本.md "wikilink")}-為該公司基地，葡萄牙航空的主要業務是經營[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[非洲](../Page/非洲.md "wikilink")、[美洲](../Page/美洲.md "wikilink")的業務。
+**TAP葡萄牙航空**（），中文簡稱**葡航**，是[葡萄牙](../Page/葡萄牙.md "wikilink")的[國家航空公司](../Page/國家航空公司.md "wikilink")。该公司為[星空聯盟](../Page/星空聯盟.md "wikilink")的成員之一，以-{[里斯本](../Page/里斯本.md "wikilink")}-為該公司基地，葡萄牙航空的主要業務是經營[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[非洲](../Page/非洲.md "wikilink")、[美洲](../Page/美洲.md "wikilink")的業務。
 
 ## 歷史
 
@@ -70,9 +70,9 @@ TAP葡萄牙航空曾持有下列航空公司的股份：
 
 </div>
 
-## 相關資料
+## 外部連結
 
-  - [1](https://web.archive.org/web/20070221003849/http://www.flytap.com/USA/en/Company/Fleet/)
+  - [官方網站](https://www.flytap.com/)
 
 [Category:葡萄牙交通](https://zh.wikipedia.org/wiki/Category:葡萄牙交通 "wikilink") [Category:葡萄牙公司](https://zh.wikipedia.org/wiki/Category:葡萄牙公司 "wikilink") [Category:葡萄牙航空公司](https://zh.wikipedia.org/wiki/Category:葡萄牙航空公司 "wikilink") [Category:1945年成立的航空公司](https://zh.wikipedia.org/wiki/Category:1945年成立的航空公司 "wikilink")
 

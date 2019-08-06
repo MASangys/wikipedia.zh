@@ -26,7 +26,7 @@ YouTube早期的[總部位於](https://zh.wikipedia.org/wiki/總部 "wikilink")[
 
 根據"市場調查公司"所公布的統計數據顯示，YouTube在[美國為主要的影片提供網站](https://zh.wikipedia.org/wiki/美國 "wikilink")，其[市場佔有率約](https://zh.wikipedia.org/wiki/市場佔有率 "wikilink")43%，且到2010年5月止有超過140億的影片瀏覽次數。YouTube自家則表示每一分鐘約有合計共24小時的新影片，會被上傳至網站，且其中的四分之三是來自美國以外的國家。在[Alexa的排名上](../Page/Alexa_Internet.md "wikilink")，YouTube在網路上為第三大的網站，僅次於[Google](../Page/Google.md "wikilink")和[Facebook](../Page/Facebook.md "wikilink")。
 
-2006年10月9日，Google宣布以16.5億美元的股票收購YouTube網站，這筆交易最後於同年11月13日定案，這筆交易亦也是當時Google的第二大收購案。YouTube仍由其共同創始人和67名員工在公司內部自行營運，並不直接受到Google的影響。同時Google也與[環球唱片](../Page/环球唱片.md "wikilink")、[SonyBMG及](../Page/索尼音樂娛樂.md "wikilink")[華納音樂及](../Page/華納音樂集團.md "wikilink")[哥倫比亞廣播公司達成內容授權及保護協議](https://zh.wikipedia.org/wiki/哥倫比亞廣播公司 "wikilink")，解除市場對影音內容供應商可能追究[侵權內容而升高](../Page/侵权行为.md "wikilink")[法律](../Page/法律.md "wikilink")行動的疑慮。但2006年11月，由於YouTube網站的域名www.youtube.com與另一個的網站www.utube.com因為名稱相似引發爭議，該網站的所有公司決定向youtube提出法律訴訟，但最後由該公司修改其網站域名為www.utubeonline.com結束此案。合併之後Google並未供YouTube運營成本的詳細數字，在2007年針對YouTube收入的監管文件上標記為「無[審計重要性](https://zh.wikipedia.org/wiki/審計重要性 "wikilink")」。2008年6月，《[富比士](../Page/福布斯.md "wikilink")》雜誌的一篇文章中預估YouTube在2008年的總收入約有2億美元左右，並特別注意其在廣告銷售方面。
+2006年10月9日，[Google](../Page/Google.md "wikilink")宣布以16.5億美元的股票收購YouTube網站，這筆交易最後於同年11月13日定案，這筆交易亦也是當時Google的第二大收購案。YouTube仍由其共同創始人和67名員工在公司內部自行營運，並不直接受到Google的影響。同時Google也與[環球唱片](../Page/环球唱片.md "wikilink")、[SonyBMG及](../Page/索尼音樂娛樂.md "wikilink")[華納音樂及](../Page/華納音樂集團.md "wikilink")[哥倫比亞廣播公司達成內容授權及保護協議](https://zh.wikipedia.org/wiki/哥倫比亞廣播公司 "wikilink")，解除市場對影音內容供應商可能追究[侵權內容而升高](../Page/侵权行为.md "wikilink")[法律](../Page/法律.md "wikilink")行動的疑慮。但2006年11月，由於YouTube網站的域名www.youtube.com與另一個的網站www.utube.com因為名稱相似引發爭議，該網站的所有公司決定向youtube提出法律訴訟，但最後由該公司修改其網站域名為www.utubeonline.com結束此案。合併之後Google並未供YouTube運營成本的詳細數字，在2007年針對YouTube收入的監管文件上標記為「無[審計重要性](https://zh.wikipedia.org/wiki/審計重要性 "wikilink")」。2008年6月，《[富比士](../Page/福布斯.md "wikilink")》雜誌的一篇文章中預估YouTube在2008年的總收入約有2億美元左右，並特別注意其在廣告銷售方面。
 
 2007年10月17日及18日，YouTube分別開放[臺灣](../Page/臺灣.md "wikilink")及[香港](../Page/香港.md "wikilink")兩地的[中文網站](https://zh.wikipedia.org/wiki/中文 "wikilink")。配合YouTube台灣的問世，YouTube與[天下雜誌](../Page/天下雜誌.md "wikilink")、[三立電視](../Page/三立電視.md "wikilink")、[中國電視公司](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")、[公共電視台](../Page/公共電視文化事業基金會.md "wikilink")、[雄獅旅行社](../Page/雄獅旅行社.md "wikilink")等簽訂內容供應合作協議；\[15\] 而配合YouTube香港的面世，YouTube已經與香港多個著名機構簽下內容供應合作協議，包括[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")、[亞洲電視](../Page/亞洲電視.md "wikilink")、[香港旅遊發展局](../Page/香港旅遊發展局.md "wikilink")、[香港電台](../Page/香港電台.md "wikilink")及[天映娛樂](../Page/天映娛樂.md "wikilink")。 [901_Cherry_Avenue.jpg](https://zh.wikipedia.org/wiki/File:901_Cherry_Avenue.jpg "fig:901_Cherry_Avenue.jpg")\]\] 2008年11月，YouTube與[米高梅公司](https://zh.wikipedia.org/wiki/米高梅公司 "wikilink")、[獅門娛樂公司和](https://zh.wikipedia.org/wiki/獅門娛樂公司 "wikilink")[哥倫比亞廣播公司達成協定](https://zh.wikipedia.org/wiki/哥倫比亞廣播公司 "wikilink")，允許在其美國網站內播放完整長度的電影和電視劇集，這舉動是為了能和已經授權而能播放[國家廣播公司](../Page/全国广播公司.md "wikilink")、[福斯廣播公司其影集的](https://zh.wikipedia.org/wiki/福克斯廣播公司 "wikilink")[Hulu](../Page/Hulu.md "wikilink")競爭。2009年11月中，YouTube再次與[英國第四台簽署](https://zh.wikipedia.org/wiki/英國第四台 "wikilink")[合約](../Page/契约.md "wikilink")，英國第四台將把旗下節目完整上傳到YouTube的電視專區《Show》，讓[英國的YouTube的用戶免費且完整觀看英國第四台的節目](https://zh.wikipedia.org/wiki/英国 "wikilink")，總計與超過60家的合作公司上傳約有4000多個完整的影集；英國第四台成為全球第一家提供完整節目給YouTube使用的[大眾媒體](../Page/大眾媒體.md "wikilink")\[16\]。2010年1月，YouTube又提供給美國用戶電影出租服務。
 
@@ -68,7 +68,7 @@ YouTube早期的[總部位於](https://zh.wikipedia.org/wiki/總部 "wikilink")[
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/File:YouTube_localization.svg" title="fig:YouTube_localization.svg">YouTube_localization.svg</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:YouTube_Localisation.svg" title="fig:YouTube_Localisation.svg">YouTube_Localisation.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>國家/地區</p></td>
@@ -416,23 +416,31 @@ YouTube的影片上傳支援大多數常見的[視訊檔案格式](../Page/视�
 
 ## 批評
 
+### 內容審查標準
+
+2019年7月Chad Robichaux這位Might Oaks基金会创始人表示其上傳廣告至 YouTube在審查階段被告知「基督徒」一詞為敏感詞不得出現，該基金會是一個退伍軍人身心理治療組織，這則廣告是宣傳[朝鲜战争](../Page/朝鲜战争.md "wikilink")老将哈罗德鲍尔戰後透過基督教治療自己內心的紀錄片。其反問“如果我们不能使用基督徒这个词，我们作为一个基督教组织要如何运作？”\[30\]2018年就發生過路德教会密苏里州议会Concordia出版社的廣告被禁，因為引用了耶稣和圣经等內容。
+
+YouTube官方推特回复称“我们认为[宗教](../Page/宗教.md "wikilink")信仰是个人的事情，所以我们不允许[广告商根据宗教信仰来定位自己的用户](https://zh.wikipedia.org/wiki/广告 "wikilink")”，然而Robichaux表示他的其他廣告中已經大量使用「基督徒」一詞，光2019年傳播也超過15萬次以上點擊，YouTube要如何自圓其說。之後当他尝试发布相同的广告影片，但关键字故意改成“穆斯林”时，发现没任何问题通過，攻破了官方說詞引起網上議論。似乎內容審查標準充滿隨意性，沒齊一化規則可言，還是比較怕得罪[穆斯林](../Page/穆斯林.md "wikilink")群體但不怕得罪基督徒的嫌疑。
+
+而事件另一面向是更早的[宝洁](../Page/宝洁.md "wikilink")、AT\&T和[Verizon等公司曾主動暫時撤下廣告](https://zh.wikipedia.org/wiki/Verizon "wikilink")，因為發現一些激進意識形態的影片中被伺服器自動運算插入自己的廣告，引發不懂電腦的群眾一種怪異認知好像這些公司支持這些影片，同時更大問題是這些恐怖組織影片為何能上傳播放？\[31\]後續YouTube對此類影片進行了清理，但又引發了另一派人的批判認為其終究不是美國宣稱的言論自由主義主張者，依然是一個意識形態內容審查的網站。
+
 ### 版權
 
-YouTube自成立以來，其[短片曾被不少機構和公司批評為侵犯版權](https://zh.wikipedia.org/wiki/短片 "wikilink")，如《[週末夜現場](https://zh.wikipedia.org/wiki/週末夜現場 "wikilink")》節目、[NBC環球](../Page/NBC環球.md "wikilink")、《[居家男人](https://zh.wikipedia.org/wiki/居家男人 "wikilink")》、《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》影片版權持有者、[Turner Media](https://zh.wikipedia.org/wiki/Turner_Media "wikilink")、[日昇動畫](../Page/日昇動畫.md "wikilink")、SHINEI_ANIMATION等公司機構。YouTube本身並不會在使用者上傳影片前，事先進行審核，而是被指為侵權的短片在[版權持有人要求下](https://zh.wikipedia.org/wiki/版權持有人 "wikilink")，YouTube會將之刪除。使用者在上傳[影片時](https://zh.wikipedia.org/wiki/影片 "wikilink")，YouTube會顯示消息指出「請勿上傳任何[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")、音樂影片、[音樂會](https://zh.wikipedia.org/wiki/音樂會 "wikilink")，或其他未經批准的[廣告](../Page/廣告.md "wikilink")，除非它們的所有內容皆是由你自己所創建」。儘管已有這般建議，但在YouTube上仍有許多未經授權且具有版權內容的影片片段。
+YouTube自成立以來，其[短片曾被不少機構和公司批評為侵犯版權](https://zh.wikipedia.org/wiki/短片 "wikilink")，如《[週末夜現場](https://zh.wikipedia.org/wiki/週末夜現場 "wikilink")》節目、[NBC環球](../Page/NBC環球.md "wikilink")、《[居家男人](https://zh.wikipedia.org/wiki/居家男人 "wikilink")》、《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》影片版權持有者、Turner Media、[日昇動畫](../Page/日昇動畫.md "wikilink")、SHINEI_ANIMATION等公司機構。YouTube本身並不會在使用者上傳影片前，事先進行審核，而是被指為侵權的短片在[版權持有人要求下](https://zh.wikipedia.org/wiki/版權 "wikilink")，YouTube會將之刪除。使用者在上傳[影片時](https://zh.wikipedia.org/wiki/影片 "wikilink")，YouTube會顯示消息指出「請勿上傳任何[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")、音樂影片、[音樂會](https://zh.wikipedia.org/wiki/音樂會 "wikilink")，或其他未經批准的[廣告](../Page/廣告.md "wikilink")，除非它們的所有內容皆是由你自己所創建」。儘管已有這般建議，但在YouTube上仍有許多未經授權且具有版權內容的影片片段。
 
-包括[維亞康姆](../Page/維亞康姆.md "wikilink")在內，[Mediaset](../Page/Mediaset.md "wikilink")和[英格蘭超級足球聯賽也已經提起訴訟反對在YouTube](https://zh.wikipedia.org/wiki/英格兰足球超级联赛 "wikilink")，聲稱YouTube在防止上載有版權的影片防治這方面做得太少。2007年3月，美国媒体公司維亞康姆向法院提交诉状，起诉YouTube及其母公司Google侵犯其作品版权，并要求10亿美元的赔偿。公司負責人指出已發現超過15萬美元價值的未經授權影片，且能直接免費的在YouTube觀看。\[30\]YouTube在此事答覆中說：「協助內容所有者來保護他們自己的作品，已遠遠超出其在法律上所需負責的義務。」目前YouTube已導入修正後的地區化版權控管機制，當地區的代理商提出異議時，則將該地區排除播放，以維護代理商的權利。因此導致即使算是原始的版權持有人所經營的官方頻道，也不是任何地區都能看。提示為「這部影片含有XXX所擁有的內容，您的國家/地區的觀眾已無法再觀看該影片。」此外，YouTube也在網站上加入一名叫影片ID的系統，它對使用者所上傳的影片與儲存有具版權內容影片的[數據庫交互比對](https://zh.wikipedia.org/wiki/數據庫 "wikilink")，以減少與此相關的違法行為。2010年6月23日，維亞康姆的訴訟在[簡易法庭被法官Louis](https://zh.wikipedia.org/wiki/簡易法庭 "wikilink") Stanton駁回。維亞康姆公司宣布他們仍會繼續提起[上訴](https://zh.wikipedia.org/wiki/上訴 "wikilink")。
+包括[維亞康姆](../Page/維亞康姆.md "wikilink")在內，[Mediaset](../Page/Mediaset.md "wikilink")和[英格蘭超級足球聯賽也已經提起訴訟反對在YouTube](https://zh.wikipedia.org/wiki/英格兰足球超级联赛 "wikilink")\[32\]，聲稱YouTube在防止上載有版權的影片防治這方面做得太少。2007年3月，美国媒体公司維亞康姆向法院提交诉状，起诉YouTube及其母公司Google侵犯其作品版权，并要求10亿美元的赔偿。公司負責人指出已發現超過15萬美元價值的未經授權影片，且能直接免費的在YouTube觀看。\[33\]YouTube在此事答覆中說：「協助內容所有者來保護他們自己的作品，已遠遠超出其在法律上所需負責的義務。」目前YouTube已導入修正後的地區化版權控管機制，當地區的代理商提出異議時，則將該地區排除播放，以維護代理商的權利。因此導致即使算是原始的版權持有人所經營的官方頻道，也不是任何地區都能看。提示為「這部影片含有XXX所擁有的內容，您的國家/地區的觀眾已無法再觀看該影片。」此外，YouTube也在網站上加入一名叫影片ID的系統，它對使用者所上傳的影片與儲存有具版權內容影片的[數據庫交互比對](https://zh.wikipedia.org/wiki/數據庫 "wikilink")，以減少與此相關的違法行為。2010年6月23日，維亞康姆的訴訟在[簡易法庭被法官Louis](https://zh.wikipedia.org/wiki/簡易法庭 "wikilink") Stanton駁回。維亞康姆公司宣布他們仍會繼續提起[上訴](https://zh.wikipedia.org/wiki/上訴 "wikilink")。
 
 ### 隱私權
 
-2008年7月，維亞康姆贏得法院的裁決，並要求YouTube交出數據，數據上需詳細附上每個用戶的瀏覽紀錄，以讓公司了解誰在網站上看過這些侵權影片。此舉令有瀏覽習慣的個人用戶擔心，因為可藉由這些紀錄透過組合確定其[IP位址和登錄名](https://zh.wikipedia.org/wiki/IP位址 "wikilink")。[電子前哨基金會批評這次的法院裁決令](https://zh.wikipedia.org/wiki/電子前哨基金會 "wikilink")「隱私權受到侵犯」。美國地方法院法官Louis Stanton認為這是一「投機」行為，駁回這次有隱私權爭議的裁決，並要求YouTube交出約12[TB的相關數據以供判決](https://zh.wikipedia.org/wiki/TB "wikilink")。Louis Stanton亦駁回維亞康姆要求YouTube交出[搜尋引擎的](../Page/搜索引擎.md "wikilink")[原始碼](../Page/源代码.md "wikilink")，且表示說並沒有任何證據表明，YouTube的影片處理侵犯版權。
+2008年7月，維亞康姆贏得法院的裁決，並要求YouTube交出數據，數據上需詳細附上每個用戶的瀏覽紀錄，以讓公司了解誰在網站上看過這些侵權影片。此舉令有瀏覽習慣的個人用戶擔心，因為可藉由這些紀錄透過組合確定其[IP位址和登錄名](https://zh.wikipedia.org/wiki/IP位址 "wikilink")。[電子前哨基金會批評這次的法院裁決令](https://zh.wikipedia.org/wiki/電子前哨基金會 "wikilink")「隱私權受到侵犯」。\[34\]美國地方法院法官Louis Stanton認為這是一「投機」行為，駁回這次有隱私權爭議的裁決，並要求YouTube交出約12[TB的相關數據以供判決](https://zh.wikipedia.org/wiki/TB "wikilink")。Louis Stanton亦駁回維亞康姆要求YouTube交出[搜尋引擎的](../Page/搜索引擎.md "wikilink")[原始碼](../Page/源代码.md "wikilink")，且表示說並沒有任何證據表明，YouTube的影片處理侵犯版權。\[35\]
 
 ### 其他
 
 2006年6月1日，[英國獨立電視台](https://zh.wikipedia.org/wiki/英國獨立電視台 "wikilink")（ITV）批評YouTube及近似的網站鼓吹暴力，因為這些網站上傳由手機拍攝的打鬥影片。雖然YouTube禁止過份暴力和色情的影片，但ITV指與這些網站溝通時有一定困難。
 
-2007年11月7日一位芬蘭高中生在YouTube上預告後犯下[校園槍擊案](https://zh.wikipedia.org/wiki/約凱拉校園槍擊事件 "wikilink")。\[31\]
+2007年11月7日一位芬蘭高中生在YouTube上預告後犯下[校園槍擊案](https://zh.wikipedia.org/wiki/約凱拉校園槍擊事件 "wikilink")。\[36\]
 
-2018年4月3日，[YouTuber](../Page/YouTuber.md "wikilink")纳森·阿格达姆（Nasin Aghdam）认为YouTube封杀她上传到Youtube上的视频，并進到[YouTube总部枪击](../Page/YouTube總部槍擊案.md "wikilink")，在打伤三人后自尽\[32\]\[33\]。
+2018年4月3日，[YouTuber](../Page/YouTuber.md "wikilink")纳森·阿格达姆（Nasin Aghdam）认为YouTube封杀她上传到Youtube上的视频，并進到[YouTube总部枪击](../Page/YouTube總部槍擊案.md "wikilink")，在打伤三人后自尽\[37\]\[38\]。
 
 ## 審查
 
@@ -444,7 +452,7 @@ YouTube表示，平台是許多熱門挑戰和惡作劇的搖籃，因此必須�
 
 YouTube將禁止用戶分享類似「可能導致死亡」的冒險影片，包含矇眼開車、歐美青少年流行的Tide Pod挑戰（吃洗衣粉）和自燃。除了人身安全，「可能導致痛苦」的惡作劇亦不允許，尤其是以孩童為對象的玩笑，例如父母裝死或假裝遺棄孩子，可能留下終生心理陰影。
 
-違反安全政策的影片將被刪除，上傳者帳戶將被停止部分功能90天；這段期間若二次違規，可使用的功能會再度縮限。違規第三次，該帳戶將被停權。\[34\]
+違反安全政策的影片將被刪除，上傳者帳戶將被停止部分功能90天；這段期間若二次違規，可使用的功能會再度縮限。違規第三次，該帳戶將被停權。\[39\]
 
 ## 彩蛋
 
@@ -455,18 +463,18 @@ YouTube自2008年開始，每年都會在網站上發布[愚人節玩笑](../Pag
   - 2008年4月1日：所有在首頁上的特色影片連結都被重新定向到[理察·艾斯利的音樂錄影帶](../Page/理查德·艾斯利.md "wikilink")「Never Gonna Give You Up」。
   - 2009年4月1日：當在首頁點擊一個特色影片時，整個頁面將會顛倒過來。YouTube開玩笑的聲稱說這是一個新的網頁設計。
   - 2010年4月1日：YouTube在此日公布一個叫做「TEXTp」模式，按下後會在影片將改以英文字母、符號拼湊成影片內容，YouTube開玩笑的聲稱這樣做是為了減少成本。
-  - 2011年4月1日：YouTube在此日公布一個叫做「重返1911年」的模式，按下後會在影片將把影片聲音改成牛仔音樂；影片內容變成「懷舊化影片」，YouTube聲稱：「今天，為了慶祝YouTube 100歲生日，讓我們溫故知新，重新回味1911年的第一篇部落格文章。除此之外，今天的YouTube首頁更是特別重現100年前YouTube的模樣來紀念這個里程碑。我們將帶您穿越時光隧道，回到YouTube網站草創之初。」\[35\]
-  - 2012年4月1日和2013年4月1日：YouTube標題旁出現CD圖案，點進去之後會秀出一段影片，告訴你每月可以免費送來你想要的影片DVD多少都可以，根據自己想看的內容，錄製成光碟，還有貨運海運選項，甚至可以燒錄成雷射光碟。不过，這全都是假的，因為當你勾選完選項後，它會顯示說您的貨物將在2045年6月16日送達，這部影片的演員大多是網上名人。\[36\]
-  - 2013年4月1日：YouTube在3月31日指，他們在2005年的成立，其實是為了選出世界上最佳的影片。在2013年3月31日午夜，YouTube將會停止影片上載，截止報名，並利用10年時間，在過去8年上載的影片中選出最佳影片。在未來2年，YouTube每天均利用12個小時時間讀出提名名單。結果將在2023年，YouTube重新上線時公佈。4月1日當日，YouTube於網上直播第一日，長達12小時，製作認真的｢提名公佈典禮｣。\[37\]\[38\]
-  - 2014年4月1日：YouTube在此日宣布，病毒影片發展趨勢已開始，以及用戶被允許提交想法的趨勢或模因\[39\]\[40\]。
+  - 2011年4月1日：YouTube在此日公布一個叫做「重返1911年」的模式，按下後會在影片將把影片聲音改成牛仔音樂；影片內容變成「懷舊化影片」，YouTube聲稱：「今天，為了慶祝YouTube 100歲生日，讓我們溫故知新，重新回味1911年的第一篇部落格文章。除此之外，今天的YouTube首頁更是特別重現100年前YouTube的模樣來紀念這個里程碑。我們將帶您穿越時光隧道，回到YouTube網站草創之初。」\[40\]
+  - 2012年4月1日和2013年4月1日：YouTube標題旁出現CD圖案，點進去之後會秀出一段影片，告訴你每月可以免費送來你想要的影片DVD多少都可以，根據自己想看的內容，錄製成光碟，還有貨運海運選項，甚至可以燒錄成雷射光碟。不过，這全都是假的，因為當你勾選完選項後，它會顯示說您的貨物將在2045年6月16日送達，這部影片的演員大多是網上名人。\[41\]
+  - 2013年4月1日：YouTube在3月31日指，他們在2005年的成立，其實是為了選出世界上最佳的影片。在2013年3月31日午夜，YouTube將會停止影片上載，截止報名，並利用10年時間，在過去8年上載的影片中選出最佳影片。在未來2年，YouTube每天均利用12個小時時間讀出提名名單。結果將在2023年，YouTube重新上線時公佈。4月1日當日，YouTube於網上直播第一日，長達12小時，製作認真的｢提名公佈典禮｣。\[42\]\[43\]
+  - 2014年4月1日：YouTube在此日宣布，病毒影片發展趨勢已開始，以及用戶被允許提交想法的趨勢或模因\[44\]\[45\]。
 
 ### Harlem Shake
 
-使用YouTube搜尋“do the harlem shake”則頁面中的元素搖晃並播放音樂。（新版 Youtube 網頁版無法使用）\[41\]
+使用YouTube搜尋“do the harlem shake”則頁面中的元素搖晃並播放音樂。（新版 Youtube 網頁版無法使用）\[46\]
 
 ## 網站癱瘓
 
-  - YouTube曾於2018年10月17日發生當機事件\[42\]，約09:16（UTC+8）開始，全球各地大量用戶反應YouTube網站當機，電腦版網頁、手機版網頁、手機版APP皆無法連線，並出現[500服务器错误以及维修猴圖案](https://zh.wikipedia.org/wiki/HTTP状态码#5xx服务器错误 "wikilink")\[43\]，最後於當天約10:40（UTC+8）回復正常。當中亦有全似是含有陰謀論，含有多項存疑問題，但YouTube官方堅稱只是系統錯誤\[44\]。
+  - YouTube曾於2018年10月17日發生當機事件\[47\]，約09:16（UTC+8）開始，全球各地大量用戶反應YouTube網站當機，電腦版網頁、手機版網頁、手機版APP皆無法連線，並出現[500服务器错误以及维修猴圖案](https://zh.wikipedia.org/wiki/HTTP状态码#5xx服务器错误 "wikilink")\[48\]，最後於當天約10:40（UTC+8）回復正常。當中亦有全似是含有陰謀論，含有多項存疑問題，但YouTube官方堅稱只是系統錯誤\[49\]。
 
 ## 参見
 
@@ -569,32 +577,42 @@ YouTube自2008年開始，每年都會在網站上發布[愚人節玩笑](../Pag
 
 29.
 
-30.
+30. [YouTube广告规定“基督徒”为敏感词](http://www.guancha.cn/internation/2019_07_26_511102.shtml)
 
-31.
+31. [搜尋恐怖主義的關鍵字](https://www.ettoday.net/news/20170721/971651.htm)
 
-32. [YouTube枪击案嫌犯动机曝光：怨恨平台将其视频降级](http://tech.sina.com.cn/it/2018-04-04/doc-ifysuuya4551165.shtml) .新浪科技.\[2018-04-04\].
+32. [文匯-英超控YouTube侵權](http://paper.wenweipo.com/2007/05/06/GJ0705060017.htm)
 
 33.
 
-34.
+34. [维亚康姆诉YouTube的著作权](https://www.iolaw.org.cn/showNews.asp?id=23205)
 
-35. [YouTube Taiwan Blog：歡慶YouTube 100歲！](http://youtubetwblog.blogspot.com/2011/04/youtube-100.html)
+35. [YouTube運用“避風港”原則勝訴](http://ip.people.com.cn/BIG5/12626580.html)
 
-36. [Youtube Collection](http://www.youtube.com/theyoutubecollection)
+36.
 
-37. [YouTube's ready to select a winner](http://www.youtube.com/watch?v=H542nLTTbu0) ，YouTube
+37. [YouTube枪击案嫌犯动机曝光：怨恨平台将其视频降级](http://tech.sina.com.cn/it/2018-04-04/doc-ifysuuya4551165.shtml) .新浪科技.\[2018-04-04\].
 
-38. [YouTube Announces The Nominees For Best Video (Day 1)](http://www.youtube.com/watch?v=HGeMGqVKD6A) ，YouTube
+38.
 
-39. [YouTube Reveals Its Viral Secrets In April Fools' Day Video](http://www.huffingtonpost.com/2014/04/01/youtube-april-fools_n_5068694.html)
+39.
 
-40. [YouTube Announces Upcoming Viral Video Trends](http://www.youtube.com/watch?v=0YUbYohGMOg)
+40. [YouTube Taiwan Blog：歡慶YouTube 100歲！](http://youtubetwblog.blogspot.com/2011/04/youtube-100.html)
 
-41.
+41. [Youtube Collection](http://www.youtube.com/theyoutubecollection)
 
-42.
+42. [YouTube's ready to select a winner](http://www.youtube.com/watch?v=H542nLTTbu0) ，YouTube
 
-43.
+43. [YouTube Announces The Nominees For Best Video (Day 1)](http://www.youtube.com/watch?v=HGeMGqVKD6A) ，YouTube
 
-44.
+44. [YouTube Reveals Its Viral Secrets In April Fools' Day Video](http://www.huffingtonpost.com/2014/04/01/youtube-april-fools_n_5068694.html)
+
+45. [YouTube Announces Upcoming Viral Video Trends](http://www.youtube.com/watch?v=0YUbYohGMOg)
+
+46.
+
+47.
+
+48.
+
+49.

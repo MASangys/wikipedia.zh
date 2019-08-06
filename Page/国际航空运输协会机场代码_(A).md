@@ -3004,7 +3004,7 @@
 <td><p>ATM</p></td>
 <td><p>SBHT</p></td>
 <td></td>
-<td><p><a href="../Page/帕拉州.md" title="wikilink">帕拉州</a><a href="https://zh.wikipedia.org/wiki/阿爾塔米拉_(帕拉州)" title="wikilink">阿爾塔米拉</a></p></td>
+<td><p><a href="../Page/帕拉州.md" title="wikilink">帕拉州</a><a href="../Page/阿爾塔米拉_(帕拉州).md" title="wikilink">阿爾塔米拉</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

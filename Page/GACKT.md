@@ -2260,7 +2260,7 @@ GACKT本人此五曲擔當。</small></p></td>
 
 ### 广播
 
-  - 1999年4月～1999年9月 Gacktの[ラジオ黄金時代](http://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B8%E3%82%AA%E9%BB%84%E9%87%91%E6%99%82%E4%BB%A3)「喰われた羊羹と齧られた蜜柑」／[JFN](https://zh.wikipedia.org/wiki/JFN "wikilink")
+  - 1999年4月～1999年9月 Gacktの[ラジオ黄金時代](http://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%B8%E3%82%AA%E9%BB%84%E9%87%91%E6%99%82%E4%BB%A3)「喰われた羊羹と齧られた蜜柑」／[JFN](../Page/JFN.md "wikilink")
   - 2002年4月～2003年3月 Gacktの[@llnightnippon.com](http://ja.wikipedia.org/wiki/@llnightnippon.com)／[日本放送](../Page/日本放送.md "wikilink")（ニッポン放送）
   - 2003年4月～2005年3月 [GacktのFURACHIなオトコたち](http://ja.wikipedia.org/wiki/Gackt%E3%81%AEFURACHI%E3%81%AA%E3%82%AA%E3%83%88%E3%82%B3%E3%81%9F%E3%81%A1)／[日本放送](../Page/日本放送.md "wikilink")（ニッポン放送）
 

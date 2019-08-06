@@ -66,7 +66,7 @@
 
 [phpMSAdmin則專用於管理](https://zh.wikipedia.org/wiki/phpMSAdmin "wikilink")[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[SQL Server伺服器](https://zh.wikipedia.org/wiki/SQL_Server "wikilink")。
 
-相較於phpMyAdmin的龐大架構，[Adminer](https://zh.wikipedia.org/wiki/En:Adminer "wikilink") (又稱 phpMinAdmin) 以輕量化設計，用一個160KB的php檔，提供了前者大部份的功能
+相較於phpMyAdmin的龐大架構，[Adminer](https://zh.wikipedia.org/wiki/Adminer "wikilink") (又稱 phpMinAdmin) 以輕量化設計，用一個160KB的php檔，提供了前者大部份的功能。
 
 ## 参考文献
 

@@ -16,20 +16,20 @@
 
 ## 相關條目
 
+  -
   - [藤子不二雄](../Page/藤子不二雄.md "wikilink")
 
   - [藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")
 
   - [藤子不二雄A](https://zh.wikipedia.org/wiki/藤子不二雄A "wikilink")
 
-  -
+  - [麥原伸太郎](https://zh.wikipedia.org/wiki/麥原伸太郎 "wikilink")
+
   - [岡田康則](https://zh.wikipedia.org/wiki/岡田康則 "wikilink")
 
   - [朝日電視台](../Page/朝日電視台.md "wikilink")
 
   - [小學館](../Page/小學館.md "wikilink")
-
-  - [麥原伸太郎](https://zh.wikipedia.org/wiki/麥原伸太郎 "wikilink")
 
   - [哆啦A夢](../Page/哆啦A夢.md "wikilink")
 

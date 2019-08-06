@@ -127,9 +127,11 @@ EF系列鏡頭一共使用這幾種馬達：
 | EF 55-200mm F4.5-5.6 II USM                                | 2003/09                                                         | 310g    | 無     | 否    |                                |
 | 70-200mm                                                   | EF 70-200mm F2.8<font color="red">L</font> USM                  | 1995/03 | 1310g | 無    | 是                              |
 | EF 70-200mm F2.8L IS USM                                   | 2001/09                                                         | 1470g   | 有     | 是    |                                |
-| EF 70-200mm F2.8<font color="red">L</font> IS II USM       | 2010/01                                                         | 1490g   | 有     | 是    |                                |
-| EF 70-200mm F4<font color="red">L</font> USM               | 1999/09                                                         | 705g    | 無     | 是    |                                |
-| EF 70-200mm F4<font color="red">L</font> IS USM            | 2006/11                                                         | 760g    | 有     | 是    |                                |
+| EF 70-200mm F2.8L IS II USM                                | 2010/01                                                         | 1490g   | 有     | 是    |                                |
+| EF 70-200mm F2.8<font color="red">L</font> IS III USM      | 2018                                                            | 1480g   | 有     | 是    |                                |
+| EF 70-200mm F4L USM                                        | 1999/09                                                         | 705g    | 無     | 是    |                                |
+| EF 70-200mm F4L IS USM                                     | 2006/11                                                         | 760g    | 有     | 是    |                                |
+| EF 70-200mm F4<font color="red">L</font> IS II USM         | 2018                                                            | 780g    | 有     | 是    |                                |
 | 70-210mm                                                   | EF 70-210mm F3.5-4.5 USM                                        | 1990/06 | 550g  | 無    | 否                              |
 | EF 70-210mm F4                                             | 1987/05                                                         | 605g    | 無     | 否    |                                |
 | 70-300mm                                                   | EF 70-300mm F4.5-5.6 <font color="green">DO</font> IS USM       | 2004/06 | 720g  | 有    | 否                              |
@@ -161,59 +163,61 @@ EF系列鏡頭一共使用這幾種馬達：
 
 [Canon_EF_50mm_f_1.0L.JPG](https://zh.wikipedia.org/wiki/File:Canon_EF_50mm_f_1.0L.JPG "fig:Canon_EF_50mm_f_1.0L.JPG")
 
-| 焦距                                                  | 型號                                                | 發售日     | 重量(g) | 配有IS | "<font color="red">L</font>"鏡頭 |
-| --------------------------------------------------- | ------------------------------------------------- | ------- | ----- | ---- | ------------------------------ |
-| 14mm                                                | EF 14mm F2.8<font color="red">L</font> II USM     | 2007/09 | 645   | 無    | 是                              |
-| EF 14mm F2.8L USM                                   | 1991/12                                           | 560     | 無     | 是    |                                |
-| 15mm                                                | EF 15mm F2.8 FishEye                              | 1987/04 | 330   | 無    | 否                              |
-| 20mm                                                | EF 20mm F2.8 USM                                  | 1992/06 | 405   | 無    | 否                              |
-| 24mm                                                | EF 24mm F2.8 IS USM                               | 2012/07 | 280   | 有    | 否                              |
-| EF 24mm F1.4<font color="red">L</font> II USM       | 2008/12                                           | 650     | 無     | 是    |                                |
-| EF 24mm F2.8                                        | 1988/11                                           | 270     | 無     | 否    |                                |
-| EF 24mm F1.4L USM                                   | 1997/12                                           | 550     | 無     | 是    |                                |
-| 28mm                                                | EF 28mm F2.8 IS USM                               | 2012/07 | 260   | 有    | 否                              |
-| EF 28mm F1.8 USM                                    | 1995/09                                           | 310     | 無     | 否    |                                |
-| EF 28mm F2.8                                        | 1987/04                                           | 185     | 無     | 否    |                                |
-| 35mm                                                | EF 35mm F2 IS USM                                 | 2012/12 | 335   | 有    | 否                              |
-| EF 35mm F1.4<font color="red">L</font> USM          | 1998/12                                           | 580     | 無     | 是    |                                |
-| EF 35mm F2                                          | 1990/10                                           | 210     | 無     | 否    |                                |
-| 40mm                                                | EF 40mm F2.8 STM                                  | 2012/06 | 130   | 無    | 否                              |
-| 50mm                                                | EF 50mm F1.2<font color="red">L</font> USM        | 2007/01 | 590   | 無    | 是                              |
-| EF 50mm F1.4 USM                                    | 1993/06                                           | 290     | 無     | 否    |                                |
-| EF 50mm F1.8 STM                                    | 2015/5                                            | 160     | 無     | 否    |                                |
-| EF 50mm F1.8 II                                     | 1990/12                                           | 130     | 無     | 否    |                                |
-| EF 50mm F1.0L USM                                   | 1989/09                                           | 985     | 無     | 是    |                                |
-| EF 50mm F1.8                                        | 1987/03                                           | 190     | 無     | 否    |                                |
-| 85mm                                                | EF 85mm F1.2<font color="red">L</font> II USM     | 2006/03 | 1025  | 無    | 是                              |
-| EF 85mm F1.8 USM                                    | 1992/07                                           | 425     | 無     | 否    |                                |
-| EF 85mm F1.2L USM                                   | 1989/09                                           | 1025    | 無     | 是    |                                |
-| 100mm                                               | EF 100mm F2 USM                                   | 1991/10 | 460   | 無    | 否                              |
-| 135mm                                               | EF 135mm F2<font color="red">L</font> USM         | 1996/04 | 750   | 無    | 是                              |
-| EF 135mm F2.8 柔焦                                    | 1987/10                                           | 390     | 無     | 否    |                                |
-| 200mm                                               | EF 200mm F2<font color="red">L</font> IS USM      | 2008/04 | 2520  | 有    | 是                              |
-| EF 200mm F2.8<font color="red">L</font> II USM      | 1996/03                                           | 765     | 無     | 是    |                                |
-| EF 200mm F1.8L USM                                  | 1988/11                                           | 3000    | 無     | 是    |                                |
-| EF 200mm F2.8L USM                                  | 1991/12                                           | 790     | 無     | 是    |                                |
-| 300mm                                               | EF 300mm F2.8<font color="red">L</font> IS II USM | 2010/08 | 2400  | 有    | 是                              |
-| EF 300mm F2.8L IS USM                               | 1999/07                                           | 2550    | 有     | 是    |                                |
-| EF 300mm F4<font color="red">L</font> IS USM        | 1997/03                                           | 1190    | 有     | 是    |                                |
-| EF 300mm F2.8L USM                                  | 1987/11                                           | 2855    | 無     | 是    |                                |
-| EF 300mm F4L USM                                    | 1991/12                                           | 1165    | 無     | 是    |                                |
-| 400mm                                               | EF 400mm F2.8<font color="red">L</font> IS II USM | 2010/08 | 3850  | 有    | 是                              |
-| EF 400mm F2.8L IS USM                               | 1999/09                                           | 5370    | 有     | 是    |                                |
-| EF 400mm F4 <font color="green">DO</font> IS USM    | 2001/12                                           | 1940    | 有     | 否    |                                |
-| EF 400mm F4 <font color="green">DO</font> IS II USM | 2014/11                                           | 1750    | 有     | 否    |                                |
-| EF 400mm F5.6<font color="red">L</font> USM         | 1993/05                                           | 1250    | 無     | 是    |                                |
-| EF 400mm F2.8L USM                                  | 1991/04                                           | 6100    | 無     | 是    |                                |
-| EF 400mm F2.8L II USM                               | 1996/03                                           | 5910    | 無     | 是    |                                |
-| 500mm                                               | EF 500mm F4<font color="red">L</font> IS II USM   | 2012/05 | 3190  | 有    | 是                              |
-| EF 500mm F4L IS USM                                 | 1999/07                                           | 3870    | 有     | 是    |                                |
-| EF 500mm F4.5L USM                                  | 1992/03                                           | 3000    | 無     | 是    |                                |
-| 600mm                                               | EF 600mm F4<font color="red">L</font> IS II USM   | 2012/05 | 3920  | 有    | 是                              |
-| EF 600mm F4L IS USM                                 | 1999/09                                           | 5360    | 有     | 是    |                                |
-| EF 600mm F4L USM                                    | 1988/11                                           | 6000    | 無     | 是    |                                |
-| 800mm                                               | EF 800mm F5.6<font color="red">L</font> IS USM    | 2008/05 | 4500  | 有    | 是                              |
-| 1200mm                                              | EF 1200mm F5.6L USM                               | 1993/07 | 16500 | 無    | 是                              |
+| 焦距                                                  | 型號                                                 | 發售日     | 重量(g) | 配有IS | "<font color="red">L</font>"鏡頭 |
+| --------------------------------------------------- | -------------------------------------------------- | ------- | ----- | ---- | ------------------------------ |
+| 14mm                                                | EF 14mm F2.8<font color="red">L</font> II USM      | 2007/09 | 645   | 無    | 是                              |
+| EF 14mm F2.8L USM                                   | 1991/12                                            | 560     | 無     | 是    |                                |
+| 15mm                                                | EF 15mm F2.8 FishEye                               | 1987/04 | 330   | 無    | 否                              |
+| 20mm                                                | EF 20mm F2.8 USM                                   | 1992/06 | 405   | 無    | 否                              |
+| 24mm                                                | EF 24mm F2.8 IS USM                                | 2012/07 | 280   | 有    | 否                              |
+| EF 24mm F1.4<font color="red">L</font> II USM       | 2008/12                                            | 650     | 無     | 是    |                                |
+| EF 24mm F2.8                                        | 1988/11                                            | 270     | 無     | 否    |                                |
+| EF 24mm F1.4L USM                                   | 1997/12                                            | 550     | 無     | 是    |                                |
+| 28mm                                                | EF 28mm F2.8 IS USM                                | 2012/07 | 260   | 有    | 否                              |
+| EF 28mm F1.8 USM                                    | 1995/09                                            | 310     | 無     | 否    |                                |
+| EF 28mm F2.8                                        | 1987/04                                            | 185     | 無     | 否    |                                |
+| 35mm                                                | EF 35mm F2 IS USM                                  | 2012/12 | 335   | 有    | 否                              |
+| EF 35mm F1.4<font color="red">L</font> USM          | 1998/12                                            | 580     | 無     | 是    |                                |
+| EF 35mm F2                                          | 1990/10                                            | 210     | 無     | 否    |                                |
+| 40mm                                                | EF 40mm F2.8 STM                                   | 2012/06 | 130   | 無    | 否                              |
+| 50mm                                                | EF 50mm F1.2<font color="red">L</font> USM         | 2007/01 | 590   | 無    | 是                              |
+| EF 50mm F1.4 USM                                    | 1993/06                                            | 290     | 無     | 否    |                                |
+| EF 50mm F1.8 STM                                    | 2015/5                                             | 160     | 無     | 否    |                                |
+| EF 50mm F1.8 II                                     | 1990/12                                            | 130     | 無     | 否    |                                |
+| EF 50mm F1.0L USM                                   | 1989/09                                            | 985     | 無     | 是    |                                |
+| EF 50mm F1.8                                        | 1987/03                                            | 190     | 無     | 否    |                                |
+| 85mm                                                | EF 85mm F1.2<font color="red">L</font> II USM      | 2006/03 | 1025  | 無    | 是                              |
+| EF 85mm F1.8 USM                                    | 1992/07                                            | 425     | 無     | 否    |                                |
+| EF 85mm F1.2L USM                                   | 1989/09                                            | 1025    | 無     | 是    |                                |
+| 100mm                                               | EF 100mm F2 USM                                    | 1991/10 | 460   | 無    | 否                              |
+| 135mm                                               | EF 135mm F2<font color="red">L</font> USM          | 1996/04 | 750   | 無    | 是                              |
+| EF 135mm F2.8 柔焦                                    | 1987/10                                            | 390     | 無     | 否    |                                |
+| 200mm                                               | EF 200mm F2<font color="red">L</font> IS USM       | 2008/04 | 2520  | 有    | 是                              |
+| EF 200mm F2.8<font color="red">L</font> II USM      | 1996/03                                            | 765     | 無     | 是    |                                |
+| EF 200mm F1.8L USM                                  | 1988/11                                            | 3000    | 無     | 是    |                                |
+| EF 200mm F2.8L USM                                  | 1991/12                                            | 790     | 無     | 是    |                                |
+| 300mm                                               | EF 300mm F2.8<font color="red">L</font> IS II USM  | 2010/08 | 2400  | 有    | 是                              |
+| EF 300mm F2.8L IS USM                               | 1999/07                                            | 2550    | 有     | 是    |                                |
+| EF 300mm F4<font color="red">L</font> IS USM        | 1997/03                                            | 1190    | 有     | 是    |                                |
+| EF 300mm F2.8L USM                                  | 1987/11                                            | 2855    | 無     | 是    |                                |
+| EF 300mm F4L USM                                    | 1991/12                                            | 1165    | 無     | 是    |                                |
+| 400mm                                               | EF 400mm F2.8<font color="red">L</font> IS III USM | 2019    | 2840  | 有    | 是                              |
+| EF 400mm F2.8L IS II USM                            | 2010/08                                            | 3850    | 有     | 是    |                                |
+| EF 400mm F2.8L IS USM                               | 1999/09                                            | 5370    | 有     | 是    |                                |
+| EF 400mm F4 <font color="green">DO</font> IS USM    | 2001/12                                            | 1940    | 有     | 否    |                                |
+| EF 400mm F4 <font color="green">DO</font> IS II USM | 2014/11                                            | 1750    | 有     | 否    |                                |
+| EF 400mm F5.6<font color="red">L</font> USM         | 1993/05                                            | 1250    | 無     | 是    |                                |
+| EF 400mm F2.8L USM                                  | 1991/04                                            | 6100    | 無     | 是    |                                |
+| EF 400mm F2.8L II USM                               | 1996/03                                            | 5910    | 無     | 是    |                                |
+| 500mm                                               | EF 500mm F4<font color="red">L</font> IS II USM    | 2012/05 | 3190  | 有    | 是                              |
+| EF 500mm F4L IS USM                                 | 1999/07                                            | 3870    | 有     | 是    |                                |
+| EF 500mm F4.5L USM                                  | 1992/03                                            | 3000    | 無     | 是    |                                |
+| 600mm                                               | EF 600mm F4<font color="red">L</font> IS III USM   | 2019    | 3050  | 有    | 是                              |
+| EF 600mm F4L IS II USM                              | 2012/05                                            | 3920    | 有     | 是    |                                |
+| EF 600mm F4L IS USM                                 | 1999/09                                            | 5360    | 有     | 是    |                                |
+| EF 600mm F4L USM                                    | 1988/11                                            | 6000    | 無     | 是    |                                |
+| 800mm                                               | EF 800mm F5.6<font color="red">L</font> IS USM     | 2008/05 | 4500  | 有    | 是                              |
+| 1200mm                                              | EF 1200mm F5.6L USM                                | 1993/07 | 16500 | 無    | 是                              |
 
 ### [微距鏡頭](https://zh.wikipedia.org/wiki/微距鏡頭 "wikilink")
 

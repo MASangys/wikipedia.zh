@@ -109,7 +109,7 @@
 
 ### 夥伴
 
-目前與魯夫同行的夥伴共有9人，通稱「[草帽海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團 "wikilink")」，包括[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink")、[娜美](../Page/娜美.md "wikilink")、[騙人布](../Page/騙人布.md "wikilink")、[賓什莫克·香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink")、[多尼多尼·喬巴](../Page/多尼多尼·喬巴.md "wikilink")、[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")、[佛朗基](../Page/佛朗基.md "wikilink")、[布魯克](../Page/布魯克_\(ONE_PIECE\).md "wikilink")、[吉貝爾](../Page/吉貝爾.md "wikilink")
+目前與魯夫同行的夥伴共有10人，通稱「[草帽海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團 "wikilink")」，包括[羅羅亞·索隆](../Page/羅羅亞·索隆.md "wikilink")、[娜美](../Page/娜美.md "wikilink")、[騙人布](../Page/騙人布.md "wikilink")、[賓什莫克·香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink")、[多尼多尼·喬巴](../Page/多尼多尼·喬巴.md "wikilink")、[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")、[佛朗基](../Page/佛朗基.md "wikilink")、[布魯克](../Page/布魯克_\(ONE_PIECE\).md "wikilink")、[吉貝爾](../Page/吉貝爾.md "wikilink")
 
 ### 家族
 

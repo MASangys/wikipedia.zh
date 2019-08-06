@@ -1,27 +1,4 @@
-**2K11 Krug**（) 中程防空导弹系统，[北約代號](../Page/北約代號.md "wikilink")：**SA-4**远程中高空地对空导弹系统，是[苏联](../Page/苏联.md "wikilink")也是全世界第一种自行[防空导弹](https://zh.wikipedia.org/wiki/防空导弹 "wikilink")，于1958年－1964年由[Lyulev设计局研制](https://zh.wikipedia.org/wiki/Lyulev设计局 "wikilink")。
-
-## 基本数据
-
-|                                                     |                          |
-| --------------------------------------------------- | ------------------------ |
-| [美国](../Page/美国.md "wikilink")代号                    | SA-4                     |
-| [北约命名](https://zh.wikipedia.org/wiki/北约 "wikilink") | “加涅夫-直译”／“飛賊-意译” Ganef   |
-| 苏联编号                                                | 2K11                     |
-| 苏联绰号                                                | 圆圈 Krug("Круг")          |
-| 服役年代                                                | 1967年－现在                 |
-| 所属军种                                                | 陆军                       |
-| 装备数量                                                | 不详                       |
-| 引导方式                                                | 无线电指令与末段半主动雷达导引          |
-| 长度                                                  | 8.8M（SA-4A）, 8.4M(SA-4B) |
-| 彈徑                                                  | 0.86米                    |
-| 翼展                                                  | 2.56米                    |
-| 發射質量                                                | 2450千克                   |
-| [战斗部](https://zh.wikipedia.org/wiki/战斗部 "wikilink") | 135KG 烈性炸药碎片杀伤           |
-| 有效射程                                                | 11至45公里                  |
-| 有效射高                                                | 3，000M—23，500M           |
-| 飞行速度                                                | M = 3.0                  |
-| 目标最大速度                                              | 2880KM/H                 |
-| 制造商                                                 | 莫斯科Efremov/Lyulev        |
+**2K11 Krug**「圆圈」（) 中程防空导弹系统，[北約代號](../Page/北約代號.md "wikilink")：**SA-4**（“加涅夫-直译”／“飛賊-意译” Ganef）远程中高空地对空导弹系统，是[苏联](../Page/苏联.md "wikilink")也是全世界第一种自行[防空导弹](https://zh.wikipedia.org/wiki/防空导弹 "wikilink")，于1958年－1964年由[革新家設計局](https://zh.wikipedia.org/wiki/革新家設計局 "wikilink")（NPO Novator / Lyulev）研制。
 
 ## 弹体
 

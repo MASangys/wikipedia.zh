@@ -54,6 +54,7 @@
   - 《[原諒他77次](https://zh.wikipedia.org/wiki/原諒他77次 "wikilink")》 (2017)
   - 《[棟篤特工](https://zh.wikipedia.org/wiki/棟篤特工 "wikilink")》 (2018)
   - 《[感動她77次](https://zh.wikipedia.org/wiki/感動她77次 "wikilink")》 (2019)
+  - 《[作家的謊言：筆忠誘罪](https://zh.wikipedia.org/wiki/作家的謊言：筆忠誘罪 "wikilink")》 (2019)
 
 ## 配音
 

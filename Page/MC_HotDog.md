@@ -174,7 +174,7 @@ EP+<a href="../Page/VCD.md" title="wikilink">VCD</a></p></td>
 <li>改變</li>
 <li>讓子彈飛</li>
 <li>流星小夜曲</li>
-<li>失眠是一種病</li>
+<li>失眠是一種病 （Feat. <a href="../Page/J.Sheon.md" title="wikilink">J.Sheon</a>）</li>
 <li>厭世吉娃娃</li>
 <li>夢幻照相機</li>
 <li>寂寞の水怪</li>

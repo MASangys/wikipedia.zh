@@ -1,4 +1,4 @@
-**BCS理论**是解释[常规](https://zh.wikipedia.org/wiki/常规 "wikilink")[超导体的](https://zh.wikipedia.org/wiki/超导体 "wikilink")[超导电性的微观理论](https://zh.wikipedia.org/wiki/超导电性 "wikilink")（所以也常意译为**超导的微观理论**）。该理论以其发明者[约翰·巴丁](../Page/约翰·巴丁.md "wikilink")、[利昂·库珀](../Page/利昂·库珀.md "wikilink")和[约翰·施里弗](../Page/约翰·施里弗.md "wikilink")的名字首字母命名。
+**BCS理论**（BCS theory or Bardeen–Cooper–Schrieffer theory）是解释[常规](https://zh.wikipedia.org/wiki/常规 "wikilink")[超导体的](https://zh.wikipedia.org/wiki/超导体 "wikilink")[超导电性的微观理论](https://zh.wikipedia.org/wiki/超导电性 "wikilink")（所以也常意译为**超导的微观理论**）。该理论以其发明者[约翰·巴丁](../Page/约翰·巴丁.md "wikilink")、[利昂·库珀](../Page/利昂·库珀.md "wikilink")和[约翰·施里弗](../Page/约翰·施里弗.md "wikilink")的名字首字母命名。
 
 ## 理論
 

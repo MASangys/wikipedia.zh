@@ -170,6 +170,7 @@ vivo已经在马来西亚建成接近2000家销售点，售后服务中心也达
       - [vivo Z3i](https://zh.wikipedia.org/wiki/vivo_Z3i "wikilink")
       - [vivo Z3i标準版](https://zh.wikipedia.org/wiki/vivo_Z3i标準版 "wikilink")
       - [vivo Z5X](https://zh.wikipedia.org/wiki/vivo_Z5X "wikilink")
+      - [vivo Z5](https://zh.wikipedia.org/wiki/vivo_Z5 "wikilink")
   - U系列
       - [vivo U1](https://zh.wikipedia.org/wiki/vivo_U1 "wikilink")
   - S系列

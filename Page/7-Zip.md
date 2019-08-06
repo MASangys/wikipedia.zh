@@ -6,11 +6,11 @@
 
 ## 7z压缩格式
 
-7-Zip预设的格式是其自行开发的[7z](../Page/7z.md "wikilink")格式，副檔名為`.7z`。7z格式包含多種演算法，最常使用的就是[Bzip2](../Page/Bzip2.md "wikilink")以及作者伊戈尔·帕夫洛夫開發的[LZMA](../Page/LZMA.md "wikilink")。[LZMA](../Page/LZMA.md "wikilink")演算法比起其他常見的傳統壓縮演算法，如Zip、RAR來說相對較新，壓縮率也比較高。7z格式支持[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")，且将其默认用于儲存檔案名稱，可以避免不同系统、语言环境间压缩解压乱码的问题。目前流行的壓縮程式大多支持此功能，如[WinRAR](../Page/WinRAR.md "wikilink")、**7-Zip**、[Peazip](../Page/Peazip.md "wikilink")。\[3\]
+7-Zip预设的格式是其自行开发的[7z](../Page/7z.md "wikilink")格式，副檔名為`.7z`。7z格式包含多種演算法，最常使用的就是[Bzip2](../Page/Bzip2.md "wikilink")以及作者伊戈尔·帕夫洛夫開發的[LZMA](../Page/LZMA.md "wikilink")。[LZMA](../Page/LZMA.md "wikilink")演算法比起其他常見的傳統壓縮演算法，如Zip、RAR來說相對較新，壓縮率也比較高。7z格式支持[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")，且将其默认用于儲存檔案名稱，可以避免不同系统、语言环境间压缩解压乱码的问题。除7-Zip外，目前流行的壓縮程式也大多支持此格式，如[WinRAR](../Page/WinRAR.md "wikilink")、[Peazip](../Page/Peazip.md "wikilink")等。\[3\]
 
 ## 其他支持的格式及運算方式
 
-7-Zip支援眾多的壓縮/未壓縮的檔案格式，包含[ZIP](../Page/ZIP格式.md "wikilink")、[CAB](../Page/CAB.md "wikilink")、[RAR](../Page/RAR.md "wikilink")、[ARJ](https://zh.wikipedia.org/wiki/ARJ "wikilink")、[Z](../Page/Z.md "wikilink")、[gzip](https://zh.wikipedia.org/wiki/gzip "wikilink")、[bzip2](https://zh.wikipedia.org/wiki/bzip2 "wikilink")、[LLHA](https://zh.wikipedia.org/wiki/LLHA "wikilink")、[tar](https://zh.wikipedia.org/wiki/tar_\(计算机科学\) "wikilink")、[cpio](https://zh.wikipedia.org/wiki/cpio "wikilink")、[RPM](https://zh.wikipedia.org/wiki/RPM包管理员 "wikilink")。從4.42版開始支援CD/DVD映像檔格式[ISO](../Page/ISO映像.md "wikilink")，另外因為[版權問題不再支援](https://zh.wikipedia.org/wiki/版權 "wikilink")。從7-Zip 9.14測試版開始，7-Zip可以開啟和解壓縮。
+7-Zip支援眾多的壓縮/未壓縮的檔案格式，包含[ZIP](../Page/ZIP格式.md "wikilink")、[CAB](../Page/CAB.md "wikilink")、[RAR](../Page/RAR.md "wikilink")、[ARJ](https://zh.wikipedia.org/wiki/ARJ "wikilink")、[Z](../Page/Z.md "wikilink")、[gzip](https://zh.wikipedia.org/wiki/gzip "wikilink")、[bzip2](https://zh.wikipedia.org/wiki/bzip2 "wikilink")、[LLHA](https://zh.wikipedia.org/wiki/LLHA "wikilink")、[tar](https://zh.wikipedia.org/wiki/tar_\(计算机科学\) "wikilink")、[cpio](https://zh.wikipedia.org/wiki/cpio "wikilink")、[RPM](https://zh.wikipedia.org/wiki/RPM包管理员 "wikilink")。從4.42版開始支援CD/DVD映像檔格式[ISO](../Page/ISO映像.md "wikilink")，另外因為[版權問題不再支援](https://zh.wikipedia.org/wiki/版權 "wikilink")[ACE](../Page/ACE_\(檔案格式\).md "wikilink")。從7-Zip 9.14測試版開始，7-Zip可以開啟和解壓縮。
 
 ## 特性
 

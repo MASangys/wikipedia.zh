@@ -10,6 +10,10 @@ SD協會在2005年3月14日於2005年度的美國[行動通信暨無線網路年
 
 2014年[世界移动通信大会](https://zh.wikipedia.org/wiki/世界移动通信大会 "wikilink")（MWC）期间，[SanDisk发布了一款容量高达](https://zh.wikipedia.org/wiki/SanDisk "wikilink")128GB的 Micro [SD XC储存卡](../Page/SDXC.md "wikilink")。
 
+2019年2月[世界移动通信大会](https://zh.wikipedia.org/wiki/世界移动通信大会 "wikilink") (MWC) 期间，包括閃迪、鎂光等存儲品牌均发布了容量達1TB的microSD储存卡（TF卡)。
+
+2019年5月16日西數旗下的閃迪存儲1TB TF卡正式開賣。
+
 ## 各式類別
 
   - micro SD : 速度慢，普遍以大卡為主。用途廣，電腦，相機，手機皆可。

@@ -84,7 +84,7 @@ Life by city'super在[靜安區](https://zh.wikipedia.org/wiki/靜安區 "wikili
 
 ### 台灣
 
-c\!ty'super在台灣共有7間分店。[台北市的](https://zh.wikipedia.org/wiki/台北市 "wikilink")[遠企購物中心分店於](../Page/遠企中心辦公大樓.md "wikilink")2004年12月開業，為全台灣第一家分店。[SOGO百貨復興館分店於](https://zh.wikipedia.org/wiki/太平洋SOGO "wikilink")2007年1月開業，並同時併設了台灣第一間的「cooked Deli」。SOGO百貨天母店於2009年5月開業，並設了「superlife culture club」，為台灣第一家設有[廚藝教室之分店](https://zh.wikipedia.org/wiki/廚藝 "wikilink")。[Big City遠東巨城購物中心店於](../Page/Big_City遠東巨城購物中心.md "wikilink")2012年4月開業，並在2016年11月設了LOG-ON台灣首店，為台灣最大店。
+c\!ty'super在台灣共有8間分店。[台北市的](https://zh.wikipedia.org/wiki/台北市 "wikilink")[遠企購物中心分店於](../Page/遠企中心辦公大樓.md "wikilink")2004年12月開業，為全台灣第一家分店。[SOGO百貨復興館分店於](https://zh.wikipedia.org/wiki/太平洋SOGO "wikilink")2007年1月開業，並同時併設了台灣第一間的「cooked Deli」。SOGO百貨天母店於2009年5月開業，並設了「superlife culture club」，為台灣第一家設有[廚藝教室之分店](https://zh.wikipedia.org/wiki/廚藝 "wikilink")。[Big City遠東巨城購物中心店於](../Page/Big_City遠東巨城購物中心.md "wikilink")2012年4月開業，並在2016年11月設了LOG-ON台灣首店，為台灣最大店。
 
 ### 日本
 

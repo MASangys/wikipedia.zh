@@ -8,7 +8,7 @@ CD光碟機起始於1974年，由[荷蘭的](https://zh.wikipedia.org/wiki/荷�
 
 CD原本僅是為了家電、唱片市場所設計，並沒有想到CD將來可以用於[電腦的用途](https://zh.wikipedia.org/wiki/電腦 "wikilink")。當時電腦的資料儲存還在5.25吋的[磁片階段](https://zh.wikipedia.org/wiki/磁片 "wikilink")，包括3.5吋的磁碟亦尚未被發明。
 
-CD技術其後被用作儲存資料，稱為[CD-ROM](../Page/CD-ROM.md "wikilink")546。可錄式光碟隨後面世，包括只可錄寫一次的[CD-R及可重複錄寫的](https://zh.wikipedia.org/wiki/CD-R "wikilink")[CD-RW](https://zh.wikipedia.org/wiki/CD-RW "wikilink")，直至2007年為止，成為[個人電腦業界最為廣泛採用的儲存媒體之一](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。CD及其衍生格式取得極大的成功，2004年，全球Audio CD、CD-ROM、CD-R、CD-RW等的合計總銷量達到300億張。
+CD技術其後被用作儲存資料，稱為[CD-ROM](../Page/CD-ROM.md "wikilink")。可錄式光碟隨後面世，包括只可錄寫一次的[CD-R及可重複錄寫的](https://zh.wikipedia.org/wiki/CD-R "wikilink")[CD-RW](https://zh.wikipedia.org/wiki/CD-RW "wikilink")，直至2007年為止，成為[個人電腦業界最為廣泛採用的儲存媒體之一](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")。CD及其衍生格式取得極大的成功，2004年，全球Audio CD、CD-ROM、CD-R、CD-RW等的合計總銷量達到300億張。
 
 自CD出現在音響市場之後，30公分直徑的模擬制式LP唱片就開始慢慢隱退。以後所有有關CD的同類產品，包括[DVD與](https://zh.wikipedia.org/wiki/DVD "wikilink")[藍光光碟](../Page/藍光光碟.md "wikilink")，均是由此衍生的。
 

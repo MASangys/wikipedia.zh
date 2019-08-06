@@ -574,7 +574,7 @@
                                 [辣木科](../Page/辣木科.md "wikilink") *Moringaceae*
                                 [瘤药树科](../Page/瘤药树科.md "wikilink") *Pentadiplandraceae*
                                 [木犀草科](https://zh.wikipedia.org/wiki/木犀草科 "wikilink") *Resedaceae*
-                                [刺茉莉科](https://zh.wikipedia.org/wiki/刺茉莉科 "wikilink") *Salvadoraceae*
+                                [刺茉莉科](../Page/刺茉莉科.md "wikilink") *Salvadoraceae*
                                 [夷白花菜科](../Page/夷白花菜科.md "wikilink") *Setchellanthaceae*
                                 [烈味三叶草科](https://zh.wikipedia.org/wiki/烈味三叶草科 "wikilink") *Tovariaceae*
                                 [旱金莲科](https://zh.wikipedia.org/wiki/旱金莲科 "wikilink") *Tropaeolaceae*

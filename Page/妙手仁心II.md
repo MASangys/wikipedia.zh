@@ -742,9 +742,14 @@ Johnson之女友</p></td>
 ## 外部連結
 
   - [《妙手仁心II》 GOTV 第1集重溫](https://web.archive.org/web/20140222162421/http://gotv.tvb.com/programme/102369/149336/)
+  - [妙手仁心II - myTV SUPER](https://programme.mytvsuper.com/tc/111145/妙手仁心ii)
   - [《妙手仁心II》 encoreTVB線上看](https://encoretvb.com/cantonese/series/1220-Healing_Hands_II)
 
 ## 電視節目的變遷
+
+### 首播
+
+### 重播
 
 [Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:2000年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2000年無綫電視劇集 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink") [Category:無綫電視醫學劇集](https://zh.wikipedia.org/wiki/Category:無綫電視醫學劇集 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
 

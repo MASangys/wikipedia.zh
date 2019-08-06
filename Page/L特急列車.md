@@ -455,7 +455,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/翼號列車" title="wikilink">翼</a><br />
+<td><p><a href="../Page/翼號列車.md" title="wikilink">翼</a><br />
 （）[3]</p></td>
 <td><p>上野站 - 秋田站</p></td>
 <td><p>奥羽本線</p></td>
@@ -661,7 +661,7 @@ L特急的存在有其時代背景，在當時，日本國內各大城市間的�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/翼號列車" title="wikilink">翼</a><br />
+<td><p><a href="../Page/翼號列車.md" title="wikilink">翼</a><br />
 （）[6]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/福島站_(福島縣)" title="wikilink">福島站</a> - 秋田站</p></td>
 <td><p>奥羽本線</p></td>

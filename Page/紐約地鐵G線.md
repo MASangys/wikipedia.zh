@@ -2,7 +2,7 @@
 
 G線任何時候都營運，來往[長島市](../Page/長島市.md "wikilink")的[法庭廣場與](https://zh.wikipedia.org/wiki/法庭廣場車站_\(IND跨城線\) "wikilink")的[教堂大道](https://zh.wikipedia.org/wiki/教堂大道車站_\(IND卡爾弗線\) "wikilink")，停靠全線所有車站。G線是唯一不停靠[曼哈頓](../Page/曼哈頓.md "wikilink")的非接駁路線。此線經常受到服務干擾、班次較疏、甚少免費轉乘其他路線、載客量低，引致途經的鄰里的居民和政客經常批抨此線。自2000年代起，G線也進行了一定改善工程，包括延長至[布魯克林和全線沿途聽證會以解決G線列車的問題](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")。
 
-G線列車在[皇后區](../Page/皇后區.md "wikilink")停靠兩個車站：都位於長島市的法庭廣場與[21街](https://zh.wikipedia.org/wiki/21街車站_\(IND跨城線\) "wikilink")。2010年以前，G線服務所有法庭廣場至[森林小丘](../Page/森林小丘.md "wikilink")的[71大道的](https://zh.wikipedia.org/wiki/森林小丘-71大道車站_\(IND皇后林蔭路線\) "wikilink")[IND皇后林蔭路線](../Page/IND皇后林蔭路線.md "wikilink")車站。1939年至1940年，G線同時用作現已拆除的以接駁[1939年紐約世界博覽會](https://zh.wikipedia.org/wiki/1939年紐約世界博覽會 "wikilink")。從1976年至2009年，G線在[史密斯-第九街進行](https://zh.wikipedia.org/wiki/史密斯-第九街車站_\(IND卡爾弗線\) "wikilink")。
+G線列車在[皇后區](../Page/皇后區.md "wikilink")停靠兩個車站：都位於長島市的法庭廣場與[21街](https://zh.wikipedia.org/wiki/21街車站_\(IND跨城線\) "wikilink")。2010年以前，G線服務所有法庭廣場至[森林小丘](../Page/森林小丘.md "wikilink")的[71大道的](https://zh.wikipedia.org/wiki/森林小丘-71大道車站_\(IND皇后林蔭路線\) "wikilink")[IND皇后林蔭路線](../Page/IND皇后林蔭路線.md "wikilink")車站。1939年至1940年，G線同時用作現已拆除的以接駁[1939年紐約世界博覽會](../Page/1939年紐約世界博覽會.md "wikilink")。從1976年至2009年，G線在[史密斯-第九街進行](https://zh.wikipedia.org/wiki/史密斯-第九街車站_\(IND卡爾弗線\) "wikilink")。
 
 <div class="thumb tright" style="width:auto;">
 

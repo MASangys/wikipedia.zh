@@ -335,7 +335,7 @@
 
 #### 電車GO\!64
 
-本作是以電車GO\!2 3000番台為藍本，於[任天堂64](../Page/任天堂64.md "wikilink")發售之版本。此作的特點是新增一個名為VRS（音聲辨識系統）的系統，在遊玩時的特定地點（例如列車出發時或是看到訊號燈時）發出對應的聲音（「出發進行」、「注意」等）時會有獎勵秒數。路線方面，完成一定程度的路線時刻之後就會出現[東北新幹線](../Page/東北新幹線.md "wikilink")的單獨時刻（[盛岡](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")—[新花-{卷}-](https://zh.wikipedia.org/wiki/新花卷站 "wikilink")，[200系](https://zh.wikipedia.org/wiki/新幹線200系電力動車組 "wikilink")、[E2系](../Page/新幹線E2系電力動車組.md "wikilink")、[E3系](../Page/新幹線E3系電力動車組.md "wikilink")）。此外[北越急行](../Page/北越急行.md "wikilink")[北北線](../Page/北北線.md "wikilink")的「[白鷹](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")（）」列車的難易度亦有所更改，及於「[小町](https://zh.wikipedia.org/wiki/小町號列車 "wikilink")（）」[大-{曲}-](https://zh.wikipedia.org/wiki/大曲站 "wikilink")—[盛岡段中](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")[盛岡站達成](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")0米停車時可以遊玩連結列車的獎勵遊戲。
+本作是以電車GO\!2 3000番台為藍本，於[任天堂64](../Page/任天堂64.md "wikilink")發售之版本。此作的特點是新增一個名為VRS（音聲辨識系統）的系統，在遊玩時的特定地點（例如列車出發時或是看到訊號燈時）發出對應的聲音（「出發進行」、「注意」等）時會有獎勵秒數。路線方面，完成一定程度的路線時刻之後就會出現[東北新幹線](../Page/東北新幹線.md "wikilink")的單獨時刻（[盛岡](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")—[新花-{卷}-](https://zh.wikipedia.org/wiki/新花卷站 "wikilink")，[200系](https://zh.wikipedia.org/wiki/新幹線200系電力動車組 "wikilink")、[E2系](../Page/新幹線E2系電力動車組.md "wikilink")、[E3系](../Page/新幹線E3系電力動車組.md "wikilink")）。此外[北越急行](../Page/北越急行.md "wikilink")[北北線](../Page/北北線.md "wikilink")的「[白鷹](https://zh.wikipedia.org/wiki/白鷹號列車 "wikilink")（）」列車的難易度亦有所更改，及於「[小町](../Page/小町號列車.md "wikilink")（）」[大-{曲}-](https://zh.wikipedia.org/wiki/大曲站 "wikilink")—[盛岡段中](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")[盛岡站達成](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")0米停車時可以遊玩連結列車的獎勵遊戲。
 
 ### 電車GO\!3通勤編
 

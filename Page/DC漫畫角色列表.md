@@ -577,22 +577,27 @@
 <td><p>Mercury</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/火星小姐" title="wikilink">火星小姐</a></p></td>
+<td><p>梅根·摩絲</p></td>
+<td><p>Miss Martian</p></td>
+</tr>
+<tr class="even">
 <td><p>恐懼先生</p></td>
 <td><p><a href="../Page/恐懼先生_(泰瑞·斯隆).md" title="wikilink">泰瑞·斯隆</a><br />
 麥可·霍特</p></td>
 <td><p>Mister Terrific</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/午夜戰士.md" title="wikilink">午夜戰士</a></p></td>
 <td><p>盧卡斯·泰倫特（冒名）</p></td>
 <td><p>Midnighter</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>瑪拉先生</p></td>
 <td><p>(無)</p></td>
 <td><p>Monsieur Mallah</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/急凍人" title="wikilink">急凍人</a></p></td>
 <td><p>維克多·佛萊斯</p></td>
 <td><p>Mr. Freeze</p></td>
@@ -836,22 +841,27 @@
 <td><p>Sportsmaster</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/鋼人_(DC漫畫).md" title="wikilink">鋼人</a></p></td>
+<td><p>約翰·亨利·艾朗恩</p></td>
+<td><p>Steel</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/荒狼" title="wikilink">荒狼</a></p></td>
 <td><p>荒狼</p></td>
 <td><p>Steppenwolf</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/史提夫·崔佛.md" title="wikilink">史提夫·崔佛</a></p></td>
 <td><p>史提夫·洛克韋爾·崔佛</p></td>
 <td><p>Steve Trevor</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/沼澤異形.md" title="wikilink">沼澤異形</a></p></td>
 <td><p>亞歷克斯·奧爾森<br />
 亞歷克·荷蘭</p></td>
 <td><p>Swamp Thing</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/幽灵_(DC漫画).md" title="wikilink">幽靈</a></p></td>
 <td><p>吉姆·柯瑞根</p></td>
 <td><p>Spectre</p></td>

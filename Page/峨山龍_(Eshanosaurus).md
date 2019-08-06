@@ -16,12 +16,6 @@
 
 ## 參考文獻
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 ## 外部連結
 
   - <https://web.archive.org/web/20090727131406/http://www.thescelosaurus.com/dinosauromorpha.htm>

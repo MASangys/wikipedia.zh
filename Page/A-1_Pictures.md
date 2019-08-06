@@ -284,7 +284,7 @@
 <td><p>原定2017年1月播放</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/情色漫畫老師" title="wikilink">情色漫畫老師</a></p></td>
+<td><p><a href="../Page/情色漫畫老師.md" title="wikilink">情色漫畫老師</a></p></td>
 <td></td>
 <td><p>4月8日－6月25日</p></td>
 <td><p><a href="../Page/竹下良平.md" title="wikilink">竹下良平</a></p></td>

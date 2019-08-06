@@ -7,6 +7,7 @@
 現時Now體育擁有或轉播的頻道包括：
 
   - 第600頻道：**體育推廣頻道**（[南丫島](../Page/南丫島.md "wikilink")除外）
+  - 第611頻道：**Now Sports 4K**
   - 第620頻道：**Premier League TV**（英超官方電視頻道）
   - 第621頻道：**Now 英超1台**（現場直播[英超賽事及滾筒播放英超相關節目](https://zh.wikipedia.org/wiki/英超 "wikilink")）
   - 第622頻道：**Now 英超2台**（分流現場直播[英超同步進行賽事](https://zh.wikipedia.org/wiki/英超 "wikilink")）

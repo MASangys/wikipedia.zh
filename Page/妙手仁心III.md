@@ -508,8 +508,13 @@ Martha之子<br />
 ## 外部連結
 
   - [《妙手仁心III》 GOTV 第1集重溫](https://web.archive.org/web/20140222162458/http://gotv.tvb.com/programme/103200/152704/)
+  - [妙手仁心III - myTV SUPER](https://programme.mytvsuper.com/tc/111572/妙手仁心iii)
 
 ## 電視節目的變遷
+
+### 首播
+
+### 重播
 
 [Category:無綫電視劇集系列](https://zh.wikipedia.org/wiki/Category:無綫電視劇集系列 "wikilink") [Category:2005年無綫電視劇集](https://zh.wikipedia.org/wiki/Category:2005年無綫電視劇集 "wikilink") [Category:無綫電視2000年代背景劇集](https://zh.wikipedia.org/wiki/Category:無綫電視2000年代背景劇集 "wikilink") [Category:無綫電視醫學劇集](https://zh.wikipedia.org/wiki/Category:無綫電視醫學劇集 "wikilink") [Category:電視劇續集](https://zh.wikipedia.org/wiki/Category:電視劇續集 "wikilink")
 

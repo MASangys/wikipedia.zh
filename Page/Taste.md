@@ -6,7 +6,7 @@ Taste部份分店是翻新同一集團旗下百佳超級廣場後，改以新模
 
 ## 分店
 
-香港區共設有14間分店。3間為全新店舖，4間已翻新為新裝修店舖，其他以舊裝修([百佳超級廣場](https://zh.wikipedia.org/wiki/百佳超級廣場 "wikilink"))式店舖。除特別註明外，是翻新[屈臣氏集團](../Page/屈臣氏集團.md "wikilink")旗下[百佳超級廣場](https://zh.wikipedia.org/wiki/百佳超級廣場 "wikilink")。
+香港區共設有14間分店。3間為全新店舖，3間以舊裝修([百佳超級廣場](https://zh.wikipedia.org/wiki/百佳超級廣場 "wikilink"))店舖，其他已翻新為新裝修店舖。除特別註明外，是翻新[屈臣氏集團](../Page/屈臣氏集團.md "wikilink")旗下[百佳超級廣場](https://zh.wikipedia.org/wiki/百佳超級廣場 "wikilink")。
 
   - [香港島](../Page/香港島.md "wikilink")
 
@@ -27,20 +27,21 @@ Taste部份分店是翻新同一集團旗下百佳超級廣場後，改以新模
 
   - [新界](../Page/新界.md "wikilink")
 
-| 分店地址                                                                                                                  | 營業時間            | 店舖設計                             |
-| --------------------------------------------------------------------------------------------------------------------- | --------------- | -------------------------------- |
-| [屯門](../Page/屯門.md "wikilink")[屯門市廣場](../Page/屯門市廣場.md "wikilink")2期2樓全層                                              | 08:00am–10:30pm | 新裝修                              |
-| [青衣](https://zh.wikipedia.org/wiki/青衣 "wikilink")[青衣城](../Page/青衣城.md "wikilink")3樓313號舖                              | 08:00am–10:30pm | 舊裝修                              |
-| [荃灣](../Page/荃灣.md "wikilink")[荃灣站](../Page/荃灣站.md "wikilink")[綠楊坊](../Page/綠楊坊.md "wikilink")                        | 08:00am–10:30pm | 新裝修（原International by PARKnSHOP） |
-| [馬鞍山](https://zh.wikipedia.org/wiki/馬鞍山 "wikilink")[馬鞍山廣場](https://zh.wikipedia.org/wiki/馬鞍山廣場 "wikilink")3樓343-363號舖 | 08:00am–10:00pm | 新裝修                              |
-| [馬鞍山](https://zh.wikipedia.org/wiki/馬鞍山 "wikilink")[WeGoMALL](https://zh.wikipedia.org/wiki/WeGoMALL "wikilink")301室  | 08:00am–10:00pm | 2018年5月11日開幕，全新店舖                |
-| [元朗千色匯](../Page/元朗千色匯.md "wikilink")地庫1樓全層                                                                            | 08:00am–10:00pm | 新裝修                              |
+| 分店地址                                                                                                                            | 營業時間            | 店舖設計                             |
+| ------------------------------------------------------------------------------------------------------------------------------- | --------------- | -------------------------------- |
+| [屯門](../Page/屯門.md "wikilink")[屯門市廣場](../Page/屯門市廣場.md "wikilink")2期2樓全層                                                        | 08:00am–10:30pm | 新裝修                              |
+| [青衣](https://zh.wikipedia.org/wiki/青衣 "wikilink")[青衣城](../Page/青衣城.md "wikilink")3樓313號舖                                        | 08:00am–10:30pm | 舊裝修                              |
+| [荃灣](../Page/荃灣.md "wikilink")[荃灣站](../Page/荃灣站.md "wikilink")[綠楊坊](../Page/綠楊坊.md "wikilink")                                  | 08:00am–10:30pm | 新裝修（原International by PARKnSHOP） |
+| [荃灣](../Page/荃灣.md "wikilink")[荃灣西站](../Page/荃灣西站.md "wikilink")[海之戀商場](https://zh.wikipedia.org/wiki/海之戀商場 "wikilink")3樓3011號舖 |                 | 全新店舖（預計於2019年下旬開幕）               |
+| [馬鞍山](https://zh.wikipedia.org/wiki/馬鞍山 "wikilink")[馬鞍山廣場](https://zh.wikipedia.org/wiki/馬鞍山廣場 "wikilink")3樓343-363號舖           | 08:00am–10:00pm | 新裝修                              |
+| [馬鞍山](https://zh.wikipedia.org/wiki/馬鞍山 "wikilink")[WeGoMALL](https://zh.wikipedia.org/wiki/WeGoMALL "wikilink")301室            | 08:00am–10:00pm | 2018年5月11日開幕，全新店舖                |
+| [元朗千色匯](../Page/元朗千色匯.md "wikilink")地庫1樓全層                                                                                      | 08:00am–10:00pm | 新裝修                              |
 
   - [離島及](https://zh.wikipedia.org/wiki/離島 "wikilink")[大嶼山](../Page/大嶼山.md "wikilink")
 
 | 分店地址                                                                                      | 營業時間            | 店舖設計 |
 | ----------------------------------------------------------------------------------------- | --------------- | ---- |
-| [東涌](https://zh.wikipedia.org/wiki/東涌 "wikilink")[東薈城](../Page/東薈城.md "wikilink")地庫1-10號舖 | 08:00am–10:30pm | 翻新中  |
+| [東涌](https://zh.wikipedia.org/wiki/東涌 "wikilink")[東薈城](../Page/東薈城.md "wikilink")地庫1-10號舖 | 08:00am–10:30pm | 新裝修  |
 
   - [荃灣](../Page/荃灣.md "wikilink")[綠楊坊](../Page/綠楊坊.md "wikilink")的店舖前身為International by ParkNshop
   - [馬鞍山](https://zh.wikipedia.org/wiki/馬鞍山 "wikilink")[馬鞍山廣場的店舖前身為](https://zh.wikipedia.org/wiki/馬鞍山廣場 "wikilink")[八佰伴](../Page/八佰伴.md "wikilink")

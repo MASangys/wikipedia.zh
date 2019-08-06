@@ -54,7 +54,7 @@ AAA自2005年開始，連續參加[愛貝克思夏日聯合國](../Page/愛貝�
 
 2009年，AAA發行了三張單曲，其中從年初發行了的總第二十作《[啟程之歌](../Page/啟程之歌_\(AAA單曲\).md "wikilink")》開始，女成員伊藤千晃首次在全員演唱單曲中得到獨唱段落，升爲第四位主唱。而《[Break Down / Break your name / Summer Revolution](https://zh.wikipedia.org/wiki/Break_Down_/_Break_your_name_/_Summer_Revolution "wikilink")》的《Break Down》則成為AAA第二首[BEST HITS歌謠祭金曲獎作品](https://zh.wikipedia.org/wiki/BEST_HITS歌謠祭 "wikilink")，也是[與真司郎](../Page/與真司郎.md "wikilink")參與電視劇《帝王》的主題歌。
 
-同年2月的時候，AAA發行了第四張原創專輯《[depArture](https://zh.wikipedia.org/wiki/depArture "wikilink")》，排在專輯周榜第四位，團體也開始專注於音樂事業。3月，AAA主持的[JFN電台脫口秀節目](https://zh.wikipedia.org/wiki/JFN "wikilink")《RADIO SESSIONS　AAA TALKING ATTACK\!\!\!》播出最後一期，西島隆弘因拍攝電視劇而缺席，改用電話特別錄製了《Nissy傳說（『ニッシー伝説』）》 。 \[33\]這一年成員西島隆弘參與主演了電影《[愛的曝光](../Page/愛的曝光.md "wikilink")》，并在電影中反串演出，隔年他憑此角色獲得了2009年[體育日本電影格蘭披治最優秀新人獎](https://zh.wikipedia.org/wiki/體育日本 "wikilink")。
+同年2月的時候，AAA發行了第四張原創專輯《[depArture](https://zh.wikipedia.org/wiki/depArture "wikilink")》，排在專輯周榜第四位，團體也開始專注於音樂事業。3月，AAA主持的[JFN](../Page/JFN.md "wikilink")電台脫口秀節目《RADIO SESSIONS　AAA TALKING ATTACK\!\!\!》播出最後一期，西島隆弘因拍攝電視劇而缺席，改用電話特別錄製了《Nissy傳說（『ニッシー伝説』）》 。 \[33\]這一年成員西島隆弘參與主演了電影《[愛的曝光](../Page/愛的曝光.md "wikilink")》，并在電影中反串演出，隔年他憑此角色獲得了2009年[體育日本電影格蘭披治最優秀新人獎](https://zh.wikipedia.org/wiki/體育日本 "wikilink")。
 
 [2009年H1N1流感大流行](../Page/2009年H1N1流感大流行.md "wikilink")期間，AAA也受到該流感病毒影響，例如11月2日的第42回[城西大学高麗祭公演](https://zh.wikipedia.org/wiki/城西大学 "wikilink")，團長[浦田直也](../Page/浦田直也.md "wikilink")因病缺席。\[34\]11月6日的国連之友Music Earthist 2009，當天早上成員們接受了化驗體檢，這次則是主唱[西島隆弘](../Page/西島隆弘.md "wikilink")因結果呈陽性而缺席。\[35\]\[36\]
 

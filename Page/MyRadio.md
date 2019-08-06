@@ -255,7 +255,7 @@ MyUniversity<br />
 <td><p>馬場USB<br />
 毓民射馬<br />
 黎民話事 Layman Says</p></td>
-<td><p>馬評人</p></td>
+<td><p>星島日報撰稿馬評人</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/方智龍" title="wikilink">方智龍</a>（Addie）</p></td>

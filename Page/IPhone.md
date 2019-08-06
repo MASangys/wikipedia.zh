@@ -2,7 +2,7 @@
 
 iPhone运行由蘋果公司研發的iOS作業系统（前身稱為iPhone OS）\[5\]\[6\]\[7\]，它是由[Apple Darwin的核心發展出來的變體](https://zh.wikipedia.org/wiki/Apple_Darwin "wikilink")，程式也可見於[Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，iPhone自带苹果开发的应用程序，并支持通过App Store来下载第三方程序。苹果通过无线或iTunes为iPhone搭载的iOS提供免费更新。\[8\]
 
-iPhone所採用的多點觸控技術和它友好的用戶界面被認為是其成功的決定性因素，同時也對其他製造商的智能手機設計產生了深遠影響。 美國的時代周刊將iPhone作為：“2007年的年度發明”截止到2017年，iPhone的銷量超過了12億。 iPhone的成功有助於蘋果公司成為全球最有價值的[上市公司](../Page/上市公司.md "wikilink")之一。
+iPhone所採用的多點觸控技術和它友好的用戶界面被認為是其成功的決定性因素，同時也對其他製造商的智能手機設計產生了深遠影響。美國的時代周刊將iPhone称為“2007年的年度發明”。截止到2017年，iPhone的銷量超過了12億。 iPhone的成功有助於蘋果公司成為全球最有價值的[上市公司](../Page/上市公司.md "wikilink")之一。
 
 ## 歷史
 
@@ -383,6 +383,16 @@ iPhone 3G與iPhone 3GS使用同一款的Dock連接埠，但跟大部分的手機
 </tr>
 <tr class="even">
 <td><p>iPhone X</p></td>
+<td></td>
+<td></td>
+<td><p>Lightning傳輸線</p></td>
+<td></td>
+<td></td>
+<td><p>附有麥克風的Lightning EarPods</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>iPhone XR</p></td>
 <td></td>
 <td></td>
 <td><p>Lightning傳輸線</p></td>

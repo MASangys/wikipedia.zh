@@ -328,7 +328,7 @@ DAT-TUN：<a href="https://zh.wikipedia.org/wiki/片岡安祐美" title="wikilin
 <tr class="even">
 <td><p>34</p></td>
 <td><p>11月21日</p></td>
-<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/長谷川潤" title="wikilink">長谷川潤</a>、<a href="https://zh.wikipedia.org/wiki/Elii_Rose" title="wikilink">Elii Rose</a>、<a href="https://zh.wikipedia.org/wiki/沙耶" title="wikilink">沙耶</a>（各種各樣Half&amp;Half）</p></td>
+<td><p>100Q：<a href="https://zh.wikipedia.org/wiki/長谷川潤" title="wikilink">長谷川潤</a>、<a href="https://zh.wikipedia.org/wiki/Elii_Rose" title="wikilink">Elii Rose</a>、<a href="../Page/沙耶.md" title="wikilink">沙耶</a>（各種各樣Half&amp;Half）</p></td>
 <td><p>新曲<a href="../Page/Keep_the_faith.md" title="wikilink">Keep the faith披露</a></p></td>
 <td><p>4.9%</p></td>
 <td><p><a href="../Page/Keep_the_faith.md" title="wikilink">Keep the faith</a>(<a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a>)</p></td>

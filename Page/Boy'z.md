@@ -16,9 +16,11 @@
 
 雖然Boy'z在官方上仍未宣佈解散，但自2012年後二人已經分道揚鑣。其中關智斌已轉往中國大陸發展，而張致恆則留守香港並簽約無綫成爲旗下藝員。關智斌於2016年宣布續約英皇娛樂，唯張致恆已於2017年完成合約後離開。
 
-近年開始經常擔任其他歌手演唱會的嘉賓，例如 Twins LOL Live (2016) 及 張敬軒HINSIDEOUT (2018) 演唱會的嘉賓。而[張敬軒於](https://zh.wikipedia.org/wiki/張敬軒 "wikilink") 張敬軒HINSIDEOUT 尾場演唱會更提及 Boy'z 日後會開一場演唱會。\[5\]
+近年開始經常擔任其他歌手演唱會的嘉賓，例如 Twins LOL Live (2016) 及 張敬軒HINSIDEOUT (2018) 演唱會的嘉賓。而[張敬軒於](https://zh.wikipedia.org/wiki/張敬軒 "wikilink") 張敬軒HINSIDEOUT 尾場演唱會更提及BOYZ日後會開一場演唱會。\[5\]
 
-2018年10月16日，BOYZ官方宣佈於九龍灣國際展貿中心匯星 Star Hall舉行《BOYZ The Unboxing Live》演唱會。\[6\]。
+2018年10月16日，BOYZ於九龍灣國際展貿中心匯星 Star Hall舉行《BOYZ The Unboxing Live》演唱會。\[6\]。
+
+2019年7月26日，因成員[張致恆](../Page/張致恆.md "wikilink")被爆醜聞而擱置BOYZ原定9月舉行的首次紅館演唱會。
 
 ## 音樂作品
 

@@ -1,4 +1,4 @@
-[Handycam.svg](https://zh.wikipedia.org/wiki/File:Handycam.svg "fig:Handycam.svg") **Handycam**是[Sony公司的消費性](https://zh.wikipedia.org/wiki/Sony "wikilink")[攝影機](../Page/攝影機.md "wikilink")品牌。Sony自1980年代成功開發出CCD感光元件後，1985年1月，第一台Handycam M8問世以來至今。配合自身在硬體領域上的優異技術與卓越的[CCD感光元件](https://zh.wikipedia.org/wiki/CCD "wikilink")，在數位攝影機市場，目前在全球消費性數位攝影機市场取得占有率第一。
+[替代=](https://zh.wikipedia.org/wiki/File:Handycam.svg "fig:替代=") **Handycam**是[Sony公司的消費性](https://zh.wikipedia.org/wiki/Sony "wikilink")[攝影機](../Page/攝影機.md "wikilink")品牌。Sony自1980年代成功開發出CCD感光元件後，1985年1月，第一台Handycam M8問世以來至今。配合自身在硬體領域上的優異技術與卓越的[CCD感光元件](https://zh.wikipedia.org/wiki/CCD "wikilink")，在數位攝影機市場，目前在全球消費性數位攝影機市场取得占有率第一。
 
 ## Handycam共同特點
 

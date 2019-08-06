@@ -30,6 +30,8 @@ FC磁碟機僅供日版主機使用，並未在北美地區推出。任天堂還
 
 ## 參見
 
+  - [紅白機](https://zh.wikipedia.org/wiki/紅白機 "wikilink")
+
   -
   - [64DD](../Page/64DD.md "wikilink")
 

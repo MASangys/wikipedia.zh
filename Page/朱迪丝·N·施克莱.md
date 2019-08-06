@@ -1,4 +1,4 @@
-**朱迪丝·N·施克莱**（**Judith Nisse Shklar**，1928年9月24日－1992年9月17日）是20世纪[美国](../Page/美国.md "wikilink")著名的[政治学](../Page/政治学.md "wikilink")家、[自由主义](../Page/自由主义.md "wikilink")者。
+**朱迪丝·N·施克莱**（**Judith Nisse Shklar**，）是20世纪[美国](../Page/美国.md "wikilink")著名的[政治学](../Page/政治学.md "wikilink")家、[自由主义](../Page/自由主义.md "wikilink")者。
 
 ## 生平
 
@@ -23,4 +23,4 @@
   - [A Life of Learning by Shklar](http://www.acls.org/op9.htm)
   - ['Putting Cruelty First' by Judith Shklar](https://web.archive.org/web/20060318051630/http://www.democratiya.com/review.asp?reviews_id=24)
 
-[Category:1928年出生](https://zh.wikipedia.org/wiki/Category:1928年出生 "wikilink") [Category:1992年逝世](https://zh.wikipedia.org/wiki/Category:1992年逝世 "wikilink") [Category:美国政治学家](https://zh.wikipedia.org/wiki/Category:美国政治学家 "wikilink") [Category:麥吉爾大學校友](https://zh.wikipedia.org/wiki/Category:麥吉爾大學校友 "wikilink") [Category:哈佛大學校友](https://zh.wikipedia.org/wiki/Category:哈佛大學校友 "wikilink")
+[Category:美国政治学家](https://zh.wikipedia.org/wiki/Category:美国政治学家 "wikilink") [Category:麥吉爾大學校友](https://zh.wikipedia.org/wiki/Category:麥吉爾大學校友 "wikilink") [Category:哈佛大學校友](https://zh.wikipedia.org/wiki/Category:哈佛大學校友 "wikilink") [Category:哈佛大學教授](https://zh.wikipedia.org/wiki/Category:哈佛大學教授 "wikilink") [Category:美國猶太人](https://zh.wikipedia.org/wiki/Category:美國猶太人 "wikilink")
