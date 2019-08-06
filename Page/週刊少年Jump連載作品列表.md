@@ -8,7 +8,7 @@
 
 |  |                             |
 |  | --------------------------- |
-|  | 截至2019年6月24日（2019年30號）連載中作品 |
+|  | 截至2019年7月29日（2019年35號）連載中作品 |
 
 <table>
 <thead>
@@ -6103,11 +6103,11 @@
 </tr>
 <tr class="odd">
 <td><p>628</p></td>
-<td><p><strong><a href="../Page/火之丸相撲.md" title="wikilink">火之丸相撲</a></strong></p></td>
+<td><p><a href="../Page/火之丸相撲.md" title="wikilink">火之丸相撲</a></p></td>
 <td><p>川田</p></td>
 <td><p>－</p></td>
 <td><p>2014.26</p></td>
-<td><p>連載中</p></td>
+<td><p>2019.34</p></td>
 <td></td>
 </tr>
 <tr class="even">

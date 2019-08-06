@@ -1274,7 +1274,7 @@ Rap詞：J.Sheon</p></td>
 <td></td>
 <td><p><a href="../Page/雲頂高原.md" title="wikilink">雲頂高原</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/雲頂雲星劇場" title="wikilink">雲頂雲星劇場</a></p></td>
-<td><p>未公布</p></td>
+<td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="even">

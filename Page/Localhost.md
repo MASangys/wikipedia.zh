@@ -1,16 +1,16 @@
-**localhost**在[计算机网络](../Page/计算机网络.md "wikilink")中是一个[主机名称](https://zh.wikipedia.org/wiki/主机 "wikilink")，意为“本机”，“本地主机”。通过[本地环回网络接口](https://zh.wikipedia.org/wiki/回环网卡 "wikilink")，它被用来访问本机运行的服务。本地环回网络会绕过任何本地网络接口硬件。
+**localhost**是一个在[计算机网络](../Page/计算机网络.md "wikilink")中用于表示“此计算机”的[主机名](https://zh.wikipedia.org/wiki/主机名 "wikilink")。它被用于通过[本地环回网络接口](https://zh.wikipedia.org/wiki/回环网卡 "wikilink")，来访问本机运行的服务，并且将会绕过任何物理网络接口硬件。
 
 ## 本地環迴
 
-運用本地環迴機制，便可在主機上運行網絡服務，期間不須安裝實體網絡介面卡，也無須將該服務開放予主機所在網絡。比方說，在主機內部安裝好網站後，只要在瀏覽器中輸入`http://localhost`這一網址，便可訪問本地網站，顯示其首頁。
+運用本地環迴機制，便可在主機上運行網絡服務，期間不須安裝實體網絡介面卡，也無須將該服務開放予主機所在網絡。例如，在设置好本地安装的網站后，可通过`http://localhost`這一網址，来訪問本地網站。
 
-localhost這个主機名稱一般情况下會[解析爲](../Page/域名系统.md "wikilink")[IPv4](../Page/IPv4.md "wikilink")本地环回地址`127.0.0.1`和[IPv6](../Page/IPv6.md "wikilink")本地环回地址`[::1]`。\[1\]
+localhost這个主機名稱一般會[解析爲](../Page/域名系统.md "wikilink")[IPv4](../Page/IPv4.md "wikilink")本地环回地址`127.0.0.1`和[IPv6](../Page/IPv6.md "wikilink")本地环回地址`[::1]`。\[1\]
 
 ## 名称解析
 
 [IPv4](../Page/IPv4.md "wikilink") 网络标准将整个 127.0.0.0/8 地址块订为[保留地址](https://zh.wikipedia.org/wiki/保留IP地址 "wikilink")，供本地环回使用，整个地址块内有超过1600万个IP地址。所以，发送到这些地址（127.0.0.1 到 127.255.255.255）的所有数据包都会返回本机。 地址 127.0.0.1 是 IPv4 环回的常用标准地址; 其余地址并不是所有的操作系统都支持（多数人也不知道有这些地址）。但是，使用127.0.0.1/8内的不同地址，就可以在本机上设置侦听相同端口的多个服务器。 [IPv6](../Page/IPv6.md "wikilink") 标准只分配了一个本地环回地址:\[::1\]。
 
-要将本地主机名localhost解析到一个或多个 IP 地址，一般是通过在操作系统的 hosts 文件中添加以下代码实现的：
+要将本地主机名localhost解析到一个或多个 IP 地址，可通过在操作系统的 hosts 文件中添加以下代码实现：
 
     127.0.0.1    localhost
     ::1          localhost

@@ -66,7 +66,7 @@
 
   -
   -
-[Category:劇場版美少女戰士](https://zh.wikipedia.org/wiki/Category:劇場版美少女戰士 "wikilink") [Category:1993年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1993年日本劇場動畫 "wikilink") [Category:外星生命題材動畫電影](https://zh.wikipedia.org/wiki/Category:外星生命題材動畫電影 "wikilink") [Category:朝日電視台製作的電影](https://zh.wikipedia.org/wiki/Category:朝日電視台製作的電影 "wikilink")
+[Category:劇場版美少女戰士](https://zh.wikipedia.org/wiki/Category:劇場版美少女戰士 "wikilink") [Category:1993年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1993年日本劇場動畫 "wikilink") [Category:外星生命題材動畫電影](https://zh.wikipedia.org/wiki/Category:外星生命題材動畫電影 "wikilink") [Category:朝日電視台製作的電影](https://zh.wikipedia.org/wiki/Category:朝日電視台製作的電影 "wikilink") [Category:中國大陸禁片](https://zh.wikipedia.org/wiki/Category:中國大陸禁片 "wikilink")
 
 1.
 2.  [呂氏字典](http://www.lexiconer.com/traditional/xenia)xenia之解釋。

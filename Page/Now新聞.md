@@ -140,141 +140,138 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 （主播）</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
 <td style="text-align: center;"><p><strong>港聞組採訪主任／副採訪主任／助理採訪主任</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭麗矜" title="wikilink">鄭麗矜</a><br />
 （總採訪主任）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="../Page/高志輝.md" title="wikilink">高志輝</a><br />
 （副採訪主任）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><strong>港聞組記者</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/簡學悕" title="wikilink">簡學悕</a><br />
 （首席記者）</p></td>
 </tr>
-<tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/蔡泓杰" title="wikilink">蔡泓杰</a><br />
-（高級記者）</p></td>
-</tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃婉晴" title="wikilink">黃婉晴</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/廖康如" title="wikilink">廖康如</a><br />
+（高級記者）</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張汶樂" title="wikilink">張汶樂</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/林亦" title="wikilink">林亦</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/洪泳森" title="wikilink">洪泳森</a></p></td>
 </tr>
 <tr class="even">
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/文雪萍" title="wikilink">文雪萍</a></p></td>
+</tr>
+<tr class="odd">
 <td style="text-align: center;"><p><strong>國際新聞組記者／編輯</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/梁宙然" title="wikilink">梁宙然</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋靜嫻" title="wikilink">宋靜嫻</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/梁銘思" title="wikilink">梁銘思</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/梁尹齡" title="wikilink">梁尹齡</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/廖美兒" title="wikilink">廖美兒</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/王晶_(記者)" title="wikilink">王晶</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><strong>財經組記者</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/潘磊華" title="wikilink">潘磊華</a><br />
 （首席記者）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃思行" title="wikilink">黃思行</a><br />
 （高級記者）</p></td>
 </tr>
+<tr class="odd">
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/周雪君" title="wikilink">周雪君</a></p></td>
+</tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄧嘉蔚" title="wikilink">鄧嘉蔚</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄧雪玲" title="wikilink">鄧雪玲</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃靜妍" title="wikilink">黃靜妍</a></p></td>
-</tr>
-<tr class="even">
 <td style="text-align: center;"><p><strong>體育組</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋貴玲" title="wikilink">宋貴玲</a><br />
 （首席記者）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><strong>實習記者</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭嘉樂" title="wikilink">鄭嘉樂</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><strong>專題組記者／編輯</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="../Page/陳偉利.md" title="wikilink">陳偉利</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳家俊" title="wikilink">陳家俊</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/何綻苗" title="wikilink">何綻苗</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><strong>編導</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/蔡凱珊" title="wikilink">蔡凱珊</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/王佩兒" title="wikilink">王佩兒</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/歐志誠" title="wikilink">歐志誠</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭子韜" title="wikilink">鄭子韜</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/童俊雄" title="wikilink">童俊雄</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/馬立賢" title="wikilink">馬立賢</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳毅恒" title="wikilink">陳毅恒</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><strong>監製</strong></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/蕭世坤" title="wikilink">蕭世坤</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/麥國華" title="wikilink">麥國華</a><br />
 （港股今日睇）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/杜福良" title="wikilink">杜福良</a><br />
 （大鳴大放）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -296,7 +293,7 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/周芷菱" title="wikilink">周芷菱</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳至君" title="wikilink">陳至君</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張曉鳴" title="wikilink">張曉鳴</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>'''近況：轉投<a href="https://zh.wikipedia.org/wiki/有線新聞" title="wikilink">有線新聞</a></p></td>

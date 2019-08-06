@@ -8,11 +8,11 @@ Intel發表的[xHCI已经可以支持USB](https://zh.wikipedia.org/wiki/xHCI "wi
 
 ## 電磁干擾
 
-USB使用[差動訊號進行資料傳輸](../Page/差分信号.md "wikilink")，以USB 2.0爲例，要達成480Mbps的傳輸率，那麼其傳輸的差動訊號運作頻率須為240MHz，USB 3.0需要2.5GHz的差動訊號頻率方能達成5Gbps傳輸率。而爲了降低高運作頻率產生的電磁干擾，USB 3.0引入[展頻時脈](https://zh.wikipedia.org/wiki/展頻 "wikilink")，將原本集中在2.5GHz頻率的能量，USB 3.0以2.5GHz為中心呈現[正弦函數的絕對值分布](https://zh.wikipedia.org/wiki/正弦函數 "wikilink")，降低2.5GHz集中的能量，這樣下次出現能量集中的地方為三次[諧波](https://zh.wikipedia.org/wiki/谐波 "wikilink")7.5GHz（也因這樣所以在USB 3.0線材規範中都有針對7.5GHz制定要求）。\[2\]
+USB使用[差動訊號進行資料傳輸](../Page/差分信号.md "wikilink")，以USB 2.0為例，要達成480Mbps的傳輸率，那麼其傳輸的差動訊號運作頻率須為240MHz，USB 3.0需要2.5GHz的差動訊號頻率方能達成5Gbps傳輸率。而爲了降低高運作頻率產生的電磁干擾，USB 3.0引入[展頻時脈](https://zh.wikipedia.org/wiki/展頻 "wikilink")，將原本集中在2.5GHz頻率的能量，USB 3.0以2.5GHz為中心呈現[正弦函數的絕對值分布](https://zh.wikipedia.org/wiki/正弦函數 "wikilink")，降低2.5GHz集中的能量，這樣下次出現能量集中的地方為三次[諧波](https://zh.wikipedia.org/wiki/谐波 "wikilink")7.5GHz（也因這樣所以在USB 3.0線材規範中都有針對7.5GHz制定要求）。\[2\]
 
 然而，2.5GHz的運作頻率與[ISM頻段](https://zh.wikipedia.org/wiki/ISM頻段 "wikilink")（2.412～2.462GHz）靠得太近，加上展頻時脈技術的緣故，原本單一的2.5GHz訊號的能量會延展成從直流到數GHz的頻寬干擾，令USB 3.0在運作時其電磁波訊號的能量會覆蓋ISM頻段的訊號，也無法使用濾波器過濾訊號。因此同一電路板上USB 3.0無法與[藍牙](../Page/藍牙.md "wikilink")、2.4GHz頻段的WLAN在相鄰不遠的情況下一同運作，而USB論壇針對此一現象，也僅能要求製造商將電磁遮蔽做好，從USB插槽、線材、直到外接裝置端都需要做屏蔽接地的動作，盡量壓低輻射出來的電磁波。\[3\]\[4\]而實測表明USB 3.0與藍牙、2.4GHz的WiFi裝置在靠近的情況下，出現了斷流、連線中斷、傳輸效能明顯下降等情況，而將USB 3.0的連接點做好遮蔽，或者將藍牙、2.4GHz WiFi等裝置使用延長線連接並遠離USB 3.0裝置，同時運作的干擾問題明顯改善。\[5\]
 
-USB 3.0與ISM頻段的電磁相容性問題，也間接令不少行動裝置（如智慧型手機）等沒有考慮對USB 3.0的支援，雖然也有少數智慧型手機支援USB 3.0（如[三星Galaxy Note 3](../Page/三星Galaxy_Note_3.md "wikilink")）。\[6\]
+USB 3.0與ISM頻段的電磁相容性問題，也間接令不少行動裝置（如智慧型手機）等沒有考慮對USB 3.0的支援，雖然也有一些智慧型手機支援USB 3.0（如[三星Galaxy Note 3](../Page/三星Galaxy_Note_3.md "wikilink")）。\[6\]
 
 ## 針腳定義
 

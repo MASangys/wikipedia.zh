@@ -2,7 +2,7 @@
 
 ## 沿革
 
-2017年7月，安全软件厂商 [avast](https://zh.wikipedia.org/wiki/avast "wikilink") 收购 Piriform。\[1\]
+2017年7月，安全软件厂商[avast收购Piriform](https://zh.wikipedia.org/wiki/avast "wikilink")。\[1\]
 
 ## 後門事件
 

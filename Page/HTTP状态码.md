@@ -388,7 +388,7 @@ HTTP状态码的官方注册表由[互联网号码分配局](../Page/互联网�
 <!-- end list -->
 
   - 511 Network Authentication Required （RFC 6585）
-    客户端需要进行身份验证才能获得网络访问权限，旨在限制用户群访问特定网络。（例如连接[WiFi热点时的](https://zh.wikipedia.org/wiki/热点_\(Wi-Fi\) "wikilink")）\[76\]
+    客户端需要进行身份验证才能获得网络访问权限，旨在限制用户群访问特定网络。（例如连接[WiFi热点时的](https://zh.wikipedia.org/wiki/热点_\(Wi-Fi\) "wikilink")[强制网络门户](https://zh.wikipedia.org/wiki/強制門戶 "wikilink")）\[76\]
 
 ## 参见
 

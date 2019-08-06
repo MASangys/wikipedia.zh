@@ -61,7 +61,7 @@
 <tr class="even">
 <td><p>5</p></td>
 <td></td>
-<td><p>動畫《<a href="https://zh.wikipedia.org/wiki/幸運☆星" title="wikilink">幸運☆星</a>》片頭曲</p></td>
+<td><p>動畫《<a href="../Page/幸運☆星.md" title="wikilink">幸運☆星</a>》片頭曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
@@ -214,7 +214,7 @@
 <tr class="even">
 <td><p>19</p></td>
 <td><p><a href="../Page/拿去吧！水手服.md" title="wikilink">もってけ!セーラーふく</a></p></td>
-<td><p>動畫《<a href="https://zh.wikipedia.org/wiki/幸運☆星" title="wikilink">幸運☆星</a>》片頭曲</p></td>
+<td><p>動畫《<a href="../Page/幸運☆星.md" title="wikilink">幸運☆星</a>》片頭曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
@@ -365,7 +365,7 @@
 <tr class="even">
 <td><p>10-1</p></td>
 <td><p><a href="../Page/拿去吧！水手服.md" title="wikilink">もってけ!セーラーふく</a></p></td>
-<td><p>動畫《<a href="https://zh.wikipedia.org/wiki/幸運☆星" title="wikilink">幸運☆星</a>》片頭曲</p></td>
+<td><p>動畫《<a href="../Page/幸運☆星.md" title="wikilink">幸運☆星</a>》片頭曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>10-2【11】</p></td>
@@ -670,7 +670,7 @@
 <tr class="odd">
 <td><p>ED4-2(10)</p></td>
 <td><p><a href="../Page/拿去吧！水手服.md" title="wikilink">もってけ!セーラーふく</a></p></td>
-<td><p>動畫《<a href="https://zh.wikipedia.org/wiki/幸運☆星" title="wikilink">幸運☆星</a>》片頭曲</p></td>
+<td><p>動畫《<a href="../Page/幸運☆星.md" title="wikilink">幸運☆星</a>》片頭曲</p></td>
 </tr>
 <tr class="even">
 <td><p>ED5(56)</p></td>
@@ -708,7 +708,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td></td>
-<td><p>動畫《<a href="https://zh.wikipedia.org/wiki/幸運☆星" title="wikilink">幸運☆星</a>》柊司的角色歌曲</p></td>
+<td><p>動畫《<a href="../Page/幸運☆星.md" title="wikilink">幸運☆星</a>》柊司的角色歌曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>3-1</p></td>
@@ -953,7 +953,7 @@
 <tr class="odd">
 <td><p>ED1-4</p></td>
 <td></td>
-<td><p>動畫《<a href="https://zh.wikipedia.org/wiki/幸運☆星" title="wikilink">幸運☆星</a>》柊司的角色歌曲</p></td>
+<td><p>動畫《<a href="../Page/幸運☆星.md" title="wikilink">幸運☆星</a>》柊司的角色歌曲</p></td>
 </tr>
 <tr class="even">
 <td><p>ED1-5</p></td>
@@ -1111,7 +1111,7 @@
 
 ## 其他
 
-2007年12月26日由[Lantis](../Page/Lantis.md "wikilink")發售的動畫《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》混音曲集「」其中一首「」是為了向組曲《NICONICO動畫》致敬而創作\[8\]。2008年3月5日，同公司再出版同類型歌曲CD「Lantis組曲」。
+2007年12月26日由[Lantis](../Page/Lantis.md "wikilink")發售的動畫《[幸運☆星](../Page/幸運☆星.md "wikilink")》混音曲集「」其中一首「」是為了向組曲《NICONICO動畫》致敬而創作\[8\]。2008年3月5日，同公司再出版同類型歌曲CD「Lantis組曲」。
 
 ## 參見
 

@@ -16,7 +16,7 @@ KKBOX軟體發展至今，已開發支援多種平台版本，目前支援的平
 
 ## 歷史
 
-  - 2004年由時任[台塑集團董事長](https://zh.wikipedia.org/wiki/台塑集團 "wikilink")[王永慶](../Page/王永慶.md "wikilink")之孫，[王雪齡之子](https://zh.wikipedia.org/wiki/王雪齡 "wikilink")[簡民一於](https://zh.wikipedia.org/wiki/簡民一 "wikilink")[台灣創立](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
+  - 2005年由時任[台塑集團董事長](https://zh.wikipedia.org/wiki/台塑集團 "wikilink")[王永慶](../Page/王永慶.md "wikilink")之孫，[王雪齡之子](https://zh.wikipedia.org/wiki/王雪齡 "wikilink")[簡民一於](https://zh.wikipedia.org/wiki/簡民一 "wikilink")[台灣創立](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
   - 2006年2月開始舉辦[KKBOX 線上音樂風雲榜](https://zh.wikipedia.org/wiki/KKBOX_線上音樂風雲榜 "wikilink")。
   - 2007年12月榮獲『e-21金網獎』與『96資訊月傑出資訊應用暨產品獎』兩大獎。
   - 2008年9月KKBOX 4.0 正式登場。
@@ -111,7 +111,7 @@ KKBOX曾經發生數位音樂使用著作權爭議事件，由於傳統唱片市
 
 [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
 
-[Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink") [Category:台灣品牌](https://zh.wikipedia.org/wiki/Category:台灣品牌 "wikilink") [Category:線上音樂商店](https://zh.wikipedia.org/wiki/Category:線上音樂商店 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:2004年台灣建立](https://zh.wikipedia.org/wiki/Category:2004年台灣建立 "wikilink")
+[Category:免費軟體](https://zh.wikipedia.org/wiki/Category:免費軟體 "wikilink") [Category:台灣品牌](https://zh.wikipedia.org/wiki/Category:台灣品牌 "wikilink") [Category:線上音樂商店](https://zh.wikipedia.org/wiki/Category:線上音樂商店 "wikilink") [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink") [Category:IOS软件](https://zh.wikipedia.org/wiki/Category:IOS软件 "wikilink") [Category:2005年台灣建立](https://zh.wikipedia.org/wiki/Category:2005年台灣建立 "wikilink")
 
 1.
 2.

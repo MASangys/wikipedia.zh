@@ -76,12 +76,12 @@
 
 <!-- end list -->
 
-  - **[幸運☆星版](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")**
+  - **[幸運☆星](../Page/幸運☆星.md "wikilink")版**
 
 <!-- end list -->
 
   -
-    2007年由[福原香織](../Page/福原香織.md "wikilink")（柊司）、[遠藤綾](../Page/遠藤綾.md "wikilink")（高良美幸），在第11話的[幸運☆星動畫片尾曲](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")。
+    2007年由[福原香織](../Page/福原香織.md "wikilink")（柊司）、[遠藤綾](../Page/遠藤綾.md "wikilink")（高良美幸），在第11話的[幸運☆星](../Page/幸運☆星.md "wikilink")動畫片尾曲。
 
 <!-- end list -->
 

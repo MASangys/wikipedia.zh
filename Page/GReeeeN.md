@@ -283,6 +283,11 @@
 <td><p>2018年4月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/うれＤ" title="wikilink">うれＤ</a></p></td>
 </tr>
+<tr class="odd">
+<td><p>9th</p></td>
+<td><p>2019年9月25日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第九" title="wikilink">第九</a></p></td>
+</tr>
 </tbody>
 </table>
 

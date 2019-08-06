@@ -1,6 +1,6 @@
 **Hello\! Pro研修生**（****）舊稱Hello\! Pro EGG\[1\]（）。[早安家族](../Page/早安家族.md "wikilink")的成員，為主要成員以外的「研修生」。
 
-目前Hello\! Pro研修生共13人；Hello\! Pro研修生北海道共5人。 在[早安家族](../Page/早安家族.md "wikilink")冬、夏演唱會，或者各團體的演唱會中擔任伴舞。
+目前Hello\! Pro研修生共9人；Hello\! Pro研修生北海道共1人。 在[早安家族](../Page/早安家族.md "wikilink")冬、夏演唱會，或者各團體的演唱會中擔任伴舞。
 
 以「正式出道」為目標，進行一連串歌舞表演的研習及訓練。
 
@@ -30,18 +30,7 @@
 <tr class="odd">
 <td><p>25期</p></td>
 <td></td>
-<td><p>小野琴己</p></td>
-<td><p>おの ことみ</p></td>
-<td><p>東京都</p></td>
-<td></td>
-<td></td>
-<td><p>164</p></td>
-<td><p>B</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>米村姫良々</p></td>
+<td><p>米村 姫良々</p></td>
 <td><p>よねむら きらら</p></td>
 <td><p>愛知縣</p></td>
 <td></td>
@@ -49,11 +38,9 @@
 <td><p>150</p></td>
 <td><p>A</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>研修生unit成員</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>27期</p></td>
 <td></td>
 <td><p>山田 苺</p></td>
@@ -66,7 +53,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>中山 夏月姫</p></td>
 <td><p>なかやま なつめ</p></td>
 <td><p>石川縣</p></td>
@@ -79,7 +66,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>28期</p></td>
 <td></td>
 <td><p>為永 幸音</p></td>
@@ -92,7 +79,7 @@
 <td></td>
 <td><p>前地方偶像</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>窪田 七海</p></td>
 <td><p>くぼた ななみ</p></td>
 <td><p>千葉縣</p></td>
@@ -101,20 +88,7 @@
 <td><p>155</p></td>
 <td><p>A</p></td>
 <td></td>
-<td><p>前地方偶像</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>出頭 杏奈</p></td>
-<td><p>しゅっとう あんな</p></td>
-<td><p>千葉縣</p></td>
-<td></td>
-<td></td>
-<td><p>149</p></td>
-<td><p>O</p></td>
-<td></td>
-<td><p>前讀者模特兒</p></td>
+<td><p>前地方偶像、研修生unit成員</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -127,7 +101,7 @@
 <td><p>157</p></td>
 <td><p>O</p></td>
 <td></td>
-<td><p>前舞台劇演員</p></td>
+<td><p>前舞台劇演員、研修生unit成員</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -155,7 +129,7 @@
 <td></td>
 <td><p>O</p></td>
 <td></td>
-<td></td>
+<td><p>研修生unit成員</p></td>
 </tr>
 <tr class="odd">
 <td><p>小野田 華凛</p></td>
@@ -203,27 +177,17 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>石栗 奏美</p></td>
 <td><p>1期</p></td>
 <td><p>2016年7月</p></td>
-<td><p>佐藤光</p></td>
-<td><p>さとう ひかり</p></td>
-<td></td>
-<td></td>
-<td><p>AB型</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>石栗奏美</p></td>
 <td><p>いしぐり かなみ</p></td>
 <td></td>
 <td></td>
 <td><p>A型</p></td>
-<td><p>2018實力公開診斷審查員賞 2019實力公開診斷歌唱賞</p></td>
-<td></td>
-<td></td>
+<td><p>2018實力公開診斷審查員賞、2019實力公開診斷歌唱賞、研修生unit成員</p></td>
 </tr>
-<tr class="odd">
-<td><p>河野みのり</p></td>
+<tr class="even">
+<td><p>河野 みのり</p></td>
 <td><p>かわの みのり</p></td>
 <td></td>
 <td></td>
@@ -232,7 +196,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -512,6 +476,7 @@
 
   - [野口胡桃](https://zh.wikipedia.org/wiki/野口胡桃 "wikilink")：2001年8月29日生、大阪府，2018年11月研修活動結束。
   - [児玉咲子](https://zh.wikipedia.org/wiki/児玉咲子 "wikilink")：2003年3月29日生、三重縣，2019年1月研修活動結束。
+  - [小野琴己](https://zh.wikipedia.org/wiki/小野琴己 "wikilink")：2002年10月7日生、東京都，2019年7月研修活動結束。
 
 **26期（2016年9月）**
 
@@ -526,14 +491,16 @@
 
   - [後藤咲香](https://zh.wikipedia.org/wiki/後藤咲香 "wikilink")：2003年8月31日生、大分縣，2017年12月研修活動結束。
   - [橋本桃呼](https://zh.wikipedia.org/wiki/橋本桃呼 "wikilink")：2003年6月28日生、山口縣，2018年4月研修活動結束。
+  - [出頭杏奈](https://zh.wikipedia.org/wiki/出頭杏奈 "wikilink")：2005年3月8日生、千葉縣，2019年7月研修活動結束。
 
 **29期（2018年11月）**
 
   - [楠萌生](https://zh.wikipedia.org/wiki/楠萌生 "wikilink")：2004年11月10日生、大阪府，2019年3月研修活動結束。
 
-**Hello\! Pro研修生北海道 1期**
+**研修生北海道 1期(2016年7月)**
 
   - [北川亮](https://zh.wikipedia.org/wiki/北川亮 "wikilink")：2004年6月29日生、北海道，2018年4月研修活動結束。
+  - [佐藤光](https://zh.wikipedia.org/wiki/佐藤光 "wikilink")：2004年4月19日生、北海道，2019年7月研修活動結束。
 
 ### 成為Hello\! Project的正式成員
 

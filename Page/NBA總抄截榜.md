@@ -408,7 +408,7 @@
 </tr>
 <tr class="even">
 <td><p>34</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/贾森·特里" title="wikilink">贾森·特里</a></p></td>
+<td><p><a href="../Page/贾森·特里.md" title="wikilink">贾森·特里</a></p></td>
 <td><p>控球后卫</p></td>
 <td><p><a href="../Page/亚特兰大老鹰.md" title="wikilink">亚特兰大老鹰</a>（<a href="https://zh.wikipedia.org/wiki/1999-00_NBA赛季" title="wikilink">1999-00</a>-<a href="https://zh.wikipedia.org/wiki/2003-04_NBA赛季" title="wikilink">2003-04</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/达拉斯小牛" title="wikilink">达拉斯小牛</a>（<a href="../Page/2004-05_NBA赛季.md" title="wikilink">2004-05</a>-<a href="../Page/2011-12_NBA赛季.md" title="wikilink">2011-12</a>）<br />

@@ -12,7 +12,7 @@
 
 ### 愛思唯爾公司
 
-[Elsevier.gif](https://zh.wikipedia.org/wiki/File:Elsevier.gif "fig:Elsevier.gif")  {{-}}
+{{-}}
 
 ## 旗下出版物
 

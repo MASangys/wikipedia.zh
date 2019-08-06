@@ -16,13 +16,13 @@ Kalafina是2007年[梶浦由記](../Page/梶浦由記.md "wikilink")因製作[�
 
 2019年3月13日，SPACE CRAFT表示因製作人與成員的陸續離開，恢復活動的可能性極低，所以決定解散\[22\]。同日宣佈原Kalafina官方Fans Club（Harmony）會員剩餘有效期限將在4月1日轉移至Wakana個人的Fans Club\[23\]。
 
-2019年3月14日，前製作人梶浦由記、前成員Keiko與Hikaru透過梶浦由記的網站對於SPACE CRAFT解散Kalafina一事發表意見\[24\]，並對於先前未能說明情況表示歉意。
+2019年3月14日，前製作人梶浦由記、前成員Keiko與Hikaru透過梶浦由記的網站對於SPACE CRAFT解散Kalafina一事發表意見\[24\]，並對於先前未能說明情況表示歉意。隔日3月15日，Hikaru與Keiko透過Hikaru的Twitter帳號上表達感謝\[25\]。
 
 ## 名稱
 
-在訪談\[25\]與文件中\[26\]都有提過Kalafina的名字沒有意義，不過[梶浦由記](../Page/梶浦由記.md "wikilink")曾經在2012年3月31日（[愚人節前一日](https://zh.wikipedia.org/wiki/愚人節 "wikilink")）在他自己的[Twitter](../Page/Twitter.md "wikilink")帳號上表示過Kalafina一詞是來自古羅馬尼亞語Anifalak倒過來念，意思是「逆神者」\[27\]。之後刪除了該則Tweet並澄清只是愚人節開的玩笑\[28\]。
+在訪談\[26\]與文件中\[27\]都有提過Kalafina的名字沒有意義，不過[梶浦由記](../Page/梶浦由記.md "wikilink")曾經在2012年3月31日（[愚人節前一日](https://zh.wikipedia.org/wiki/愚人節 "wikilink")）在他自己的[Twitter](../Page/Twitter.md "wikilink")帳號上表示過Kalafina一詞是來自古羅馬尼亞語Anifalak倒過來念，意思是「逆神者」\[28\]。之後刪除了該則Tweet並澄清只是愚人節開的玩笑\[29\]。
 
-天文學家決定將編號40775的小行星命名為Kalafina\[29\]\[30\]。
+天文學家決定將編號40775的小行星命名為Kalafina\[30\]\[31\]。
 
 ## 成員
 
@@ -35,18 +35,19 @@ Kalafina是2007年[梶浦由記](../Page/梶浦由記.md "wikilink")因製作[�
 [Kalafina_Signatures.png](https://zh.wikipedia.org/wiki/File:Kalafina_Signatures.png "fig:Kalafina_Signatures.png")
 
   - 在錄音或是演唱會時合作的樂手大多與[梶浦由記](../Page/梶浦由記.md "wikilink")合作的樂手相同（除了[鍵盤手](https://zh.wikipedia.org/wiki/鍵盤手 "wikilink")）。
-  - 原先沒有獨立的Fans Club，而是掛在FictionJunction Club下進行粉絲相關活動（會報與會員抽票等活動），直到2017年才獨立出自己的Fans Club網站Harmony\[31\]。
+  - 原先沒有獨立的Fans Club，而是掛在FictionJunction Club下進行粉絲相關活動（會報與會員抽票等活動），直到2017年才獨立出自己的Fans Club網站Harmony\[32\]。
 
 ### 演唱會
 
-  - 第一次參加演唱會演出是在2009年4月29日的「Revo＆梶浦由記 Presents 『Dream Port 2008』」\[32\]。
-  - 第一次的演唱會是在2009年5月19日的[Shibuya O-WEST](https://zh.wikipedia.org/wiki/Shibuya_O-WEST "wikilink")（Kalafina Closed Premium Live）\[33\]\[34\]，由購買專輯與單曲者中抽選500名\[35\]。
-  - 第一次海外演出是在2009年5月22日（於美國[波士頓舉辦的](https://zh.wikipedia.org/wiki/波士頓 "wikilink")）\[36\]。
-  - 第一次公開售票的演唱會是在2009年8月26日，地點在[Shibuya O-EAST](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")（Kalafina LIVE 2009 "storia"）\[37\]\[38\]。
-  - 第一次在海外舉辦巡迴演唱會是在2010年2月26日，地點在[臺北市](../Page/臺北市.md "wikilink")的1710 Live Studio（現在的花漾Hana展演空間，Kalafina LIVE TOUR 2010 in Asia）\[39\]\[40\]\[41\]\[42\]。
-  - 第一次踏上[日本武道館](../Page/日本武道館.md "wikilink")舉辦萬人演唱會是在2015年2月28日、3月1日（Kalafina LIVE THE BEST 2015 "Red Day" & "Blue Day"）\[43\]\[44\]\[45\]\[46\]\[47\]。
-  - 從五週年開始到九週年，每年的1月23日固定舉辦週年演唱會，場地都會選在第一次公開演唱會的地點[TSUTAYA O-EAST](../Page/TSUTAYA_O-EAST.md "wikilink")\[48\]（2013年舉辦五週年時當時的場地名為Shibuya O-EAST）。
-  - 2018年1月23日，三度踏上日本武道館，舉辦十週年紀念演唱會（Kalafina 10th Anniversary LIVE 2018）\[49\]。
+  - 第一次參加演唱會演出是在2009年4月29日的「Revo＆梶浦由記 Presents 『Dream Port 2008』」\[33\]。
+  - 第一次的演唱會是在2009年5月19日的（Kalafina Closed Premium Live）\[34\]\[35\]，由購買專輯與單曲者中抽選500名\[36\]。
+  - 第一次海外演出是在2009年5月22日（於美國[波士頓舉辦的](https://zh.wikipedia.org/wiki/波士頓 "wikilink")）\[37\]。
+  - 第一次公開售票的演唱會是在2009年8月26日，地點在[Shibuya O-EAST](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")（Kalafina LIVE 2009 "storia"）\[38\]\[39\]。
+  - 第一次在海外舉辦巡迴演唱會是在2010年2月26日，地點在[臺北市](../Page/臺北市.md "wikilink")的1710 Live Studio（現在的花漾Hana展演空間，Kalafina LIVE TOUR 2010 in Asia）\[40\]\[41\]\[42\]\[43\]。
+  - 第一次踏上[日本武道館](../Page/日本武道館.md "wikilink")舉辦萬人演唱會是在2015年2月28日、3月1日（Kalafina LIVE THE BEST 2015 "Red Day" & "Blue Day"）\[44\]\[45\]\[46\]\[47\]\[48\]。
+  - 從五週年開始到九週年，每年的1月23日固定舉辦週年演唱會，場地都會選在第一次公開演唱會的地點[TSUTAYA O-EAST](../Page/TSUTAYA_O-EAST.md "wikilink")\[49\]（2013年舉辦五週年時當時的場地名為Shibuya O-EAST，於該年12月1日改名為TSUTAYA O-EAST）。
+  - 2018年1月23日，三度踏上日本武道館，舉辦十週年紀念演唱會（Kalafina 10th Anniversary LIVE 2018）\[50\]。
+  - 最後一次參加的演唱會是在2018年3月31日的「」\[51\]\[52\]。
 
 ## 作品
 
@@ -1060,8 +1061,8 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 25.
 
 26.
-27.
 
+27.
 28.
 
 29.
@@ -1071,25 +1072,30 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 31.
 
 32.
-33.
 
+33.
 34.
 
 35.
 
 36.
-37.
 
+37.
 38.
+
 39.
 40.
 41.
 42.
-
 43.
+
 44.
 45.
 46.
 47.
 48.
 49.
+50.
+51.
+
+52. {{Cite web |url=<https://lineblog.me/kalafina/archives/67144365.html> |title=『前へ進む』 |language=ja |accessdate=2019-07-26 |date=2018-03-12}

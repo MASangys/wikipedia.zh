@@ -1395,15 +1395,6 @@ SASUKE節目史上，只有4位選手將所有關卡全破。第一位是在1999
 
 ### 臺灣選手
 
-  - [陳子強](../Page/陳子強.md "wikilink")（出場1回 [演員](../Page/演員.md "wikilink")，台灣藝人[傅天穎丈夫](https://zh.wikipedia.org/wiki/傅天穎 "wikilink")）
-
-<!-- end list -->
-
-  -
-    第17回被派當藝人代表出場，結果在滾圓木落下軟墊時失去平衡而落水（No.23）。
-
-<!-- end list -->
-
   - [李恩至](../Page/李恩至.md "wikilink")（出場12回 職業[攀岩](../Page/攀岩.md "wikilink")家、2009[世運會參賽選手](../Page/世界運動會.md "wikilink")、台灣的英雄）
 
 :\*第17回台灣預選會第一名，被認為是頗具實力的挑戰者。一開始展現過人的實力，後半段雖然露出疲態，但仍留下3.43秒通過第一舞台。但卻在第二舞台於他事前就感到擔心的關卡旋轉鐵鍊落水（No.92）[1](http://tw.youtube.com/watch?v=UCfl5fojNjQ)。
@@ -1435,6 +1426,15 @@ SASUKE節目史上，只有4位選手將所有關卡全破。第一位是在1999
 :\*之後在臉書說明，日本單位要求他世代交替，此後未能再參賽 。
 
 :\*儘管常常過完第一舞台時，所剩的時間都不到5秒（第25和29回大會除外），但第18回大改版以來，連續6屆大會闖過第一舞台（第21\~26回）。
+
+  - [陳子強](../Page/陳子強.md "wikilink")（出場1回 [演員](../Page/演員.md "wikilink")，台灣藝人[傅天穎丈夫](https://zh.wikipedia.org/wiki/傅天穎 "wikilink")）
+
+<!-- end list -->
+
+  -
+    第17回被派當藝人代表出場，結果在滾圓木落下軟墊時失去平衡而落水（No.23）。
+
+<!-- end list -->
 
   - [洪恭芹](https://zh.wikipedia.org/wiki/洪恭芹 "wikilink")（出場3回 英語教師）
 
@@ -3151,7 +3151,7 @@ SASUKE節目史上，只有4位選手將所有關卡全破。第一位是在1999
   - [SASUKEデータサイト](http://www.geocities.jp/r_0308_xyz/s.00sasuke.html)（介紹第1～28回完整賽事）
   - [Sasukepedia](http://sasukepedia.wikia.com/wiki/Sasukepedia_Wiki)（極限體能王的Wikia）
 
-[Category:極限體能王](https://zh.wikipedia.org/wiki/Category:極限體能王 "wikilink") [Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink") [Category:體育競技節目](https://zh.wikipedia.org/wiki/Category:體育競技節目 "wikilink") [Category:1997年日本電視節目](https://zh.wikipedia.org/wiki/Category:1997年日本電視節目 "wikilink")
+[Category:極限體能王](https://zh.wikipedia.org/wiki/Category:極限體能王 "wikilink") [Category:未完結作品](https://zh.wikipedia.org/wiki/Category:未完結作品 "wikilink") [Category:體育競技節目](https://zh.wikipedia.org/wiki/Category:體育競技節目 "wikilink") [Category:TBS電視台綜藝節目](https://zh.wikipedia.org/wiki/Category:TBS電視台綜藝節目 "wikilink") [Category:1997年日本電視節目](https://zh.wikipedia.org/wiki/Category:1997年日本電視節目 "wikilink")
 
 1.
 2.  <https://twitter.com/inuimasato/status/978281922123059200>

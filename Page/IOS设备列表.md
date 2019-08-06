@@ -286,8 +286,8 @@ iPhone6.2</p></td>
 <tr class="even">
 <td><p><strong>3.支援的最新<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></strong></p></td>
 <td><p>iOS 10.3.4</p></td>
+<td><p>iOS 10.3.3</p></td>
 <td><p>iOS 12.4</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -430,9 +430,8 @@ WiFi網頁瀏覽：12<br />
 <td><p>2013年9月10日</p></td>
 <td><p>32 及 16 GB：2014年9月12日<br />
 8 GB：2015年9月10日</p></td>
-<td><p>64 GB：2014年9月12日<br />
-32 及 16 GB：生產中</p></td>
-<td><p>16 、64 及 128 GB : 已停產 32 GB : 部分生產中</p></td>
+<td><p>64 GB：2014年9月12日&lt;br</p></td>
+<td><p>16 、64 及 128 GB : 已停產</p></td>
 <td><p>16 、 64 及 128 GB : 已停產</p></td>
 </tr>
 <tr class="even">
@@ -486,7 +485,7 @@ WiFi網頁瀏覽：12<br />
 </tr>
 <tr class="even">
 <td><p><strong>支援的最新<a href="https://zh.wikipedia.org/wiki/作業系統" title="wikilink">作業系統</a></strong></p></td>
-<td><p>12.4</p></td>
+<td><p>ios 12.4</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -884,7 +883,7 @@ FaceTime</p></td>
 8 GB: 2010年9月1日</p></td>
 <td><p>2010年9月1日</p></td>
 <td><p>2013年9月</p></td>
-<td></td>
+<td><p>2015年7月15日</p></td>
 </tr>
 </tbody>
 </table>
@@ -976,7 +975,7 @@ FaceTime</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>停產日期</strong></p></td>
-<td></td>
+<td><p>2019年5月28日</p></td>
 </tr>
 </tbody>
 </table>
@@ -1373,7 +1372,7 @@ International: 2011年3月25日</p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |支援最新的作業系統</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.0</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a> 12.4</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1575,7 +1574,7 @@ Wi-Fi + 4G model: </p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |支援最新的作業系统</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS 12</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12.4" title="wikilink">iOS 12.4</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1775,7 +1774,7 @@ Wi-Fi + cellular: </p></td>
 </tr>
 <tr class="even">
 <td><p>colspan=2 |支援最新的作業系统</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12" title="wikilink">iOS 12</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iOS_12.4" title="wikilink">iOS 12.4</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1969,8 +1968,8 @@ eSIM</p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |支持的最新操作系統</p></td>
-<td><p>iOS 9.3.5</p></td>
-<td><p>iOS 12.2</p></td>
+<td><p>iOS 9.3.6</p></td>
+<td><p>iOS 12.4</p></td>
 <td></td>
 <td></td>
 <td></td>

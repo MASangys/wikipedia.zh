@@ -171,11 +171,9 @@ Chocoolate The ONE分店職員昨回應指，昨晚會暫停亮燈，有待了�
   -
   -
   -
-{{-}}
+{{-}}   [Category:香港建築之最](https://zh.wikipedia.org/wiki/Category:香港建築之最 "wikilink")
 
-[分類:香港建築之最](https://zh.wikipedia.org/wiki/分類:香港建築之最 "wikilink")
-
-[Category:華人置業物業](https://zh.wikipedia.org/wiki/Category:華人置業物業 "wikilink") [Category:油尖旺區商場](https://zh.wikipedia.org/wiki/Category:油尖旺區商場 "wikilink") [Category:尖沙咀](https://zh.wikipedia.org/wiki/Category:尖沙咀 "wikilink") [Category:彌敦道](https://zh.wikipedia.org/wiki/Category:彌敦道 "wikilink") [Category:幻彩詠香江](https://zh.wikipedia.org/wiki/Category:幻彩詠香江 "wikilink") [Category:2010年完工建築物](https://zh.wikipedia.org/wiki/Category:2010年完工建築物 "wikilink")
+[Category:尖沙咀](https://zh.wikipedia.org/wiki/Category:尖沙咀 "wikilink") [Category:彌敦道](https://zh.wikipedia.org/wiki/Category:彌敦道 "wikilink") [Category:油尖旺區](https://zh.wikipedia.org/wiki/Category:油尖旺區 "wikilink") [Category:油尖旺區商場](https://zh.wikipedia.org/wiki/Category:油尖旺區商場 "wikilink") [Category:2010年完工建築物](https://zh.wikipedia.org/wiki/Category:2010年完工建築物 "wikilink") [Category:華人置業物業](https://zh.wikipedia.org/wiki/Category:華人置業物業 "wikilink") [Category:幻彩詠香江](https://zh.wikipedia.org/wiki/Category:幻彩詠香江 "wikilink")
 
 1.  [尖沙咀The ONE意向呎租50元起](http://www.singtao.com/yesterday/pro/0617ho01.html)，[星島日報](../Page/星島日報.md "wikilink")，2009年6月17日
 

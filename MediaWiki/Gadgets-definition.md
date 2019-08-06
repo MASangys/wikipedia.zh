@@ -32,7 +32,7 @@
   - Edittools-vplus\[ResourceLoader|dependencies=ext.gadget.site-lib,ext.gadget.Edittools-vector\]|Edittools-vplus.js
   - Edittools-vote\[ResourceLoader|dependencies=ext.gadget.Edittools-vector\]|Edittools-vote.js
   - Edittools-delh\[ResourceLoader|dependencies=ext.gadget.site-lib,ext.gadget.Edittools-vector|rights=autoconfirmed\]|Edittools-delh.js
-  - Edittools-refToolbar\[ResourceLoader|dependencies=user.options,mediawiki.legacy.wikibits|default\]|refToolbar.js
+  - Edittools-refToolbar\[ResourceLoader|dependencies=user.options|default\]|refToolbar.js
 
 ## browser
 
@@ -113,7 +113,7 @@
   - SettingsManager \[ResourceLoader|dependencies=mediawiki.user,user.options,user.tokens,mediawiki.api|rights=hidden|hidden\]|SettingsManager.js
   - libJQuery \[ResourceLoader|rights=hidden|hidden\]|libJQuery.js|libJQuery.css
   - css3-mediaqueries-js\[ResourceLoader|rights=hidden|hidden\]|css3-mediaqueries.js
-  - site-lib\[ResourceLoader|dependencies=mediawiki.legacy.wikibits,mediawiki.util|rights=hidden|hidden|targets=desktop,mobile\]|site-lib.js
+  - site-lib\[ResourceLoader|dependencies=mediawiki.util|rights=hidden|hidden|targets=desktop,mobile\]|site-lib.js
   - MoveResizeAbsolute\[ResourceLoader|rights=hidden|hidden\]|MoveResizeAbsolute.js
 
 ## mainpage

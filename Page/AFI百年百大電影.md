@@ -50,7 +50,7 @@
 | 31  | Annie Hall                         | 1977年 | 《[安妮·霍尔](../Page/安妮·霍尔.md "wikilink")》                                                                                                         |
 | 32  | The Godfather Part II              | 1974年 | 《[教父II](https://zh.wikipedia.org/wiki/教父II "wikilink")》                                                                                        |
 | 33  | High Noon                          | 1952年 | 《[正午](https://zh.wikipedia.org/wiki/正午 "wikilink")》                                                                                            |
-| 34  | To Kill a Mockingbird              | 1962年 | 《[怪屋疑雲](../Page/怪屋疑雲.md "wikilink")-{zh-cn:杀死一只知更鸟; zh-sg:杀死一只知更鸟; zh-hk:杀死一只知更鸟; zh-mo:杀死一只知更鸟; zh-tw:杀死一只知更鸟; }-》                            |
+| 34  | To Kill a Mockingbird              | 1962年 | 《[-{zh-cn:杀死一只知更鸟; zh-sg:杀死一只知更鸟; zh-hk:杀死一只知更鸟; zh-mo:杀死一只知更鸟; zh-tw:杀死一只知更鸟; }-](../Page/怪屋疑雲.md "wikilink")》                                |
 | 35  | It Happened One Night              | 1934年 | 《[一夜風流](../Page/一夜風流.md "wikilink")》                                                                                                           |
 | 36  | Midnight Cowboy                    | 1969年 | 《[午夜牛郎](https://zh.wikipedia.org/wiki/午夜牛郎_\(電影\) "wikilink")》                                                                                 |
 | 37  | The Best Years of Our Lives        | 1946年 | 《[黃金時代](https://zh.wikipedia.org/wiki/黃金時代 "wikilink")》                                                                                        |

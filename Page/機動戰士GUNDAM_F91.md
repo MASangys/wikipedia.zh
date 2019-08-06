@@ -51,7 +51,7 @@
 <!-- end list -->
 
   - 雷斯利‧亞諾
-      - 香港，粵語配音：[馮永和](https://zh.wikipedia.org/wiki/馮永和 "wikilink")（安樂院線）
+      - 香港，粵語配音：[馮永和](../Page/馮永和.md "wikilink")（安樂院線）
 
 <!-- end list -->
 

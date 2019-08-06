@@ -1,6 +1,6 @@
-**《Amani》**（和平）是香港搖滾樂隊[Beyond](../Page/Beyond.md "wikilink")的著名歌曲之一\[1\]，於1991年到非洲旅行後創作\[2\]。[黃家駒](../Page/黃家駒.md "wikilink")包辦作曲、主音及粵語版填詞（國語版則由[林夕](../Page/林夕.md "wikilink")填詞）。此曲是指责战火的残酷并憧憬[和平](../Page/和平.md "wikilink")的前景的一首歌曲，貫徹Beyond一向爱好和平的價值觀，并以自己的[音乐](../Page/音乐.md "wikilink")向人们呼唤和争取和平，呼籲人們用[爱驱散世上罪恶的战争](https://zh.wikipedia.org/wiki/爱 "wikilink")。\[3\]
+**《Amani》**（和平），香港搖滾樂隊[Beyond](../Page/Beyond.md "wikilink")的名曲之一\[1\]，是Beyond在1991年的宣明會[肯雅之旅後的創作](https://zh.wikipedia.org/wiki/肯雅 "wikilink")\[2\] \[3\]；由[黃家駒](../Page/黃家駒.md "wikilink")包辦作曲、主音及粵語版的填詞；收錄於[Beyond](../Page/Beyond.md "wikilink")第7張粵語專輯《[猶豫](../Page/猶豫.md "wikilink")》，[林夕](../Page/林夕.md "wikilink")填詞的國語版則見於1998年的專輯《這裡那裡》。
 
-《Amani》收錄於[Beyond](../Page/Beyond.md "wikilink")第7張粵語專輯《[猶豫](../Page/猶豫.md "wikilink")》。
+此曲指责战火的残酷并憧憬[和平](../Page/和平.md "wikilink")的前景，貫徹Beyond一向爱好和平的價值觀，并以自己的[音乐](../Page/音乐.md "wikilink")向人们呼唤和争取和平，呼籲人們用[爱驱散世上罪恶的战争](https://zh.wikipedia.org/wiki/爱 "wikilink")。\[4\]
 
 ## 背景
 
@@ -21,8 +21,9 @@
 
 ## 參考文獻
 
-[Category:1991年歌曲](https://zh.wikipedia.org/wiki/Category:1991年歌曲 "wikilink") [Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink")
+[Category:1991年歌曲](https://zh.wikipedia.org/wiki/Category:1991年歌曲 "wikilink") [Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink") [Category:Beyond歌曲](https://zh.wikipedia.org/wiki/Category:Beyond歌曲 "wikilink")
 
 1.
 2.
 3.
+4.

@@ -31,7 +31,7 @@ Market Place by Jasons走中檔連鎖超級市場的路線，其主要對手有[
   - [中環](../Page/中環.md "wikilink")[怡和大廈](../Page/怡和大廈.md "wikilink")一樓101-109及120號舖，於2014年12月19日開幕
   - [銅鑼灣](../Page/銅鑼灣.md "wikilink")天后廟道4號（前[惠康](../Page/惠康.md "wikilink")超級市場）於2015年12月開幕，24小時營業
   - [半山](https://zh.wikipedia.org/wiki/半山 "wikilink")[西摩道](../Page/西摩道.md "wikilink")（前[惠康](../Page/惠康.md "wikilink")超級市場），於2016年8月26日開幕
-  - [上環](../Page/上環.md "wikilink")[中央大廈](https://zh.wikipedia.org/wiki/中央大廈 "wikilink")（前[惠康](../Page/惠康.md "wikilink")超級市場），於2016年9月開幕
+  - [上環](../Page/上環.md "wikilink")[中央大廈](https://zh.wikipedia.org/wiki/中央大廈 "wikilink")（前[惠康](../Page/惠康.md "wikilink")超級市場），於2016年9月9日開幕
   - [赤柱](../Page/赤柱.md "wikilink")[馬坑邨](../Page/馬坑邨.md "wikilink")[美利樓](../Page/美利樓.md "wikilink")（臨時店，2017年5月-9月）
 
 [九龍](../Page/九龍.md "wikilink")

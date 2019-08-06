@@ -4,7 +4,7 @@
 
 [Chris Edwards](https://zh.wikipedia.org/wiki/Chris_Edwards "wikilink")：[主音](../Page/主音.md "wikilink")及[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")，[澳洲出生](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，[英国国籍](https://zh.wikipedia.org/wiki/英国 "wikilink")，小學初期在[香港](../Page/香港.md "wikilink")就讀，後來移民到[多明尼加](https://zh.wikipedia.org/wiki/多明尼加共和國 "wikilink")
 
-[Terrence Ma](https://zh.wikipedia.org/wiki/Terrence_Ma "wikilink")：[低音吉他手](https://zh.wikipedia.org/wiki/低音吉他手 "wikilink")，[加拿大](../Page/加拿大.md "wikilink")出生
+[Terrence Ma](../Page/T-ma.md "wikilink")：[低音吉他手](https://zh.wikipedia.org/wiki/低音吉他手 "wikilink")，[加拿大](../Page/加拿大.md "wikilink")出生
 
 [Kai-Yuan Neo](https://zh.wikipedia.org/wiki/Kai-Yuan_Neo "wikilink")：[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")，[新加坡](../Page/新加坡.md "wikilink")出生
 

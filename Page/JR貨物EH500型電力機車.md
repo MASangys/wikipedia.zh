@@ -10,7 +10,7 @@
 
 ## 其他
 
-東芝與[中國](../Page/中國.md "wikilink")[大連機車合作研製的](https://zh.wikipedia.org/wiki/大連機車 "wikilink")[HXD3型](https://zh.wikipedia.org/wiki/中国铁路HXD3型电力机车 "wikilink")（原稱DJ3）機車，也使用了EH500型作技術平台\[6\]，但單軸輸出則提升至1,200 kW，外觀設計則改為與歐洲生產的電力機車相似的造型。
+東芝與[中國](../Page/中國.md "wikilink")[大連機車合作研製的](https://zh.wikipedia.org/wiki/大連機車 "wikilink")[HXD3型](https://zh.wikipedia.org/wiki/中国铁路HXD3型电力机车 "wikilink")（原稱DJ3，東芝稱為EL72）機車，也使用了EH500型作技術平台\[6\]，但單軸輸出則提升至1,200 kW，外觀設計則改為與歐洲生產的電力機車相似的造型。
 
 ## 參考資料
 

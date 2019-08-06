@@ -2107,7 +2107,7 @@ Q彈鎮<br />
 
 是[世界政府對犯罪者](https://zh.wikipedia.org/wiki/世界政府_\(ONE_PIECE\) "wikilink")（例如[海賊](../Page/ONE_PIECE海賊列表.md "wikilink")）所進行通緝的賞金。
 
-青雉曾提到，懸賞金額的多寡並不只是代表被懸賞之人有多強悍，同時也代表著那個人對政府造成的「危險度」或「威脅度」有多高。若海賊成為[王下七武海](../Page/王下七武海.md "wikilink")，本人及手下懸賞金額會暫時終止，僅保留舊紀錄，若稱號取消則懸賞金會恢復或增加。吉貝爾曾提到，懸賞金額一旦超過3億，則在一般的狀況下上漲的速度也就會跟著變慢，因此賞金比較不容易上漲。
+[青雉曾提到](../Page/庫山.md "wikilink")，懸賞金額的多寡並不只是代表被懸賞之人有多強悍，同時也代表著那個人對政府造成的「危險度」或「威脅度」有多高。若海賊成為[王下七武海](../Page/王下七武海.md "wikilink")，本人及手下懸賞金額會暫時終止，僅保留舊紀錄，若稱號取消則懸賞金會恢復或增加。吉貝爾曾提到，懸賞金額一旦超過3億，則在一般的狀況下上漲的速度也就會跟著變慢，因此賞金比較不容易上漲。
 
 懸賞單上通常寫著「**DEAD OR ALIVE**（生死不論）」，不過因為世界政府希望對目標進行公開處刑好增加威信的緣故，所以在被懸賞者死亡的情況下，得到的賞金會減少3成。此外，[香吉士曾是](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink")「**ONLY ALIVE**（必需活捉）」的懸賞者。
 
@@ -2137,7 +2137,9 @@ Q彈鎮<br />
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="../Page/馬歇爾·D·汀奇.md" title="wikilink">「黑鬍子」馬歇爾·D·汀奇</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#黑鬍子海賊團" title="wikilink">黑鬍子海賊團</a><br />
+<td><p><s><a href="../Page/白鬍子海賊團.md" title="wikilink">白鬍子海賊團</a></s><br />
+船員<br />
+→<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#黑鬍子海賊團" title="wikilink">黑鬍子海賊團</a><br />
 <em>提督</em></p></td>
 <td><p>22億4,760萬</p></td>
 <td><p>黑暗果實<br />
@@ -2157,10 +2159,10 @@ Q彈鎮<br />
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#QUEEN" title="wikilink">「疫災」QUEEN</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#百獸海賊團" title="wikilink">百獸海賊團</a><br />
-<em>「三災禍之疫災」招牌上將</em></p></td>
+<em>招牌上將</em></p></td>
 <td><p>13億2,000萬</p></td>
 <td><p>龍龍果實</p></td>
-<td><p>動物系古代種腕龍型態</p></td>
+<td><p>動物系古代種腕龍型態、「三大災害」排行老二</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -2175,10 +2177,10 @@ Q彈鎮<br />
 <td><p>5</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#JACK" title="wikilink">「旱禍」JACK</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#百獸海賊團" title="wikilink">百獸海賊團</a><br />
-<em>「三災禍之旱禍」招牌上將</em></p></td>
+<em>招牌上將</em></p></td>
 <td><p>10億</p></td>
 <td><p>象象果實</p></td>
-<td><p>龍膽石斑魚人、動物系古代種長毛象型態</p></td>
+<td><p>龍膽石斑魚人、動物系古代種長毛象型態、「三大災害」排老三</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
@@ -2209,8 +2211,8 @@ Q彈鎮<br />
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/革命軍_(ONE_PIECE)#薩波" title="wikilink">薩波</a></p></td>
-<td><p><a href="../Page/革命軍_(ONE_PIECE).md" title="wikilink">革命軍</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#薩波" title="wikilink">薩波</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#革命軍" title="wikilink">革命軍</a><br />
 <em>參謀總長</em></p></td>
 <td><p>6億200萬</p></td>
 <td><p>燒燒果實</p></td>
@@ -2227,7 +2229,7 @@ Q彈鎮<br />
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#波特卡斯·D·艾斯" title="wikilink">「火拳」波特卡斯·D·艾斯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/白鬍子海賊團#波特卡斯·D·艾斯" title="wikilink">「火拳」波特卡斯·D·艾斯</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#黑桃海賊團" title="wikilink"><s>黑桃海賊團</s></a><br />
 船長→<a href="../Page/白鬍子海賊團.md" title="wikilink">白鬍子海賊團</a><br />
 <em>第二隊隊長</em></p></td>
@@ -2239,8 +2241,8 @@ Q彈鎮<br />
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/白鬍子海賊團#小歐斯Jr." title="wikilink">小歐斯Jr.</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#小小海賊團" title="wikilink">小小海賊團</a><br />
-（隸屬<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#白鬍子海賊團" title="wikilink">白鬍子海賊團</a>）<br />
+<td><p>小小海賊團<br />
+（隸屬<a href="../Page/白鬍子海賊團.md" title="wikilink">白鬍子海賊團</a>）<br />
 <em>船長</em></p></td>
 <td><p>無</p></td>
 <td><p>古代巨人族、「魔人」歐斯的後代</p></td>
@@ -2344,7 +2346,7 @@ Q彈鎮<br />
 <em>船長</em></p></td>
 <td><p>3億3,000萬</p></td>
 <td><p>無</p></td>
-<td><p>4年前超新星</p></td>
+<td><p>四年前超新星</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團#波哥姆斯" title="wikilink">波哥姆斯</a></p></td>
@@ -2415,7 +2417,7 @@ Q彈鎮<br />
 <td><p>24</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/革命軍_(ONE_PIECE)#巴索羅繆·大熊" title="wikilink">「暴君」巴索羅繆·大熊</a></p></td>
 <td><p>無<br />
-（實際身份為<a href="../Page/革命軍_(ONE_PIECE).md" title="wikilink">革命軍幹部</a>）</p></td>
+（實際身份為<a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#革命軍" title="wikilink">革命軍幹部</a>）</p></td>
 <td><p>2億9,600萬<br />
 （任命為七武海前）</p></td>
 <td><p>肉球果實</p></td>
@@ -2453,11 +2455,11 @@ Q彈鎮<br />
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/白鬍子海賊團#史庫亞德" title="wikilink">史庫亞德</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#大漩渦蜘蛛海賊團" title="wikilink">大漩渦蜘蛛海賊團</a><br />
-（隸屬<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#白鬍子海賊團" title="wikilink">白鬍子海賊團</a>）<br />
+<td><p>大漩渦蜘蛛海賊團<br />
+（隸屬<a href="../Page/白鬍子海賊團.md" title="wikilink">白鬍子海賊團</a>）<br />
 <em>船長</em></p></td>
 <td><p>無</p></td>
-<td><p>—</p></td>
+<td><p>新世界海賊</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2503,7 +2505,7 @@ Q彈鎮<br />
 <tr class="odd">
 <td><p>29</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#貝拉密" title="wikilink">「鬣狗」貝拉密</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#貝拉密海賊團" title="wikilink"><s>貝拉密海賊團</s></a>（曾隸屬<a href="https://zh.wikipedia.org/wiki/唐吉訶德家族" title="wikilink">唐吉訶德家族</a>）<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#貝拉密海賊團" title="wikilink"><s>貝拉密海賊團</s></a>（曾隸屬<a href="../Page/唐吉訶德海賊團.md" title="wikilink">唐吉訶德海賊團</a>）<br />
 <em>船長</em></p></td>
 <td><p>1億9,500萬</p></td>
 <td><p>彈簧果實</p></td>
@@ -3609,7 +3611,7 @@ Q彈鎮<br />
 
   -
     歷史本文是分散在世界各地、以古代文字紀錄的特殊歷史文獻，由難以被破壞的不明材質製造；其中有記載著足以毀滅世界的三個古代兵器「冥王」、「海皇」、「天帝」的歷史正文。
-    歷史本文總共有30個，大致分成4個「路標歷史本文」（記載著四個地點，它們之間的交叉點即為拉乎德爾的位置），9個「情報歷史本文」（記載著空白的100年，需引導至拉乎德爾），其餘則是記載需要流傳的其他資訊。
+    歷史本文總共有30個，大致分成4個「路標歷史本文」（記載著四個地點，它們之間的交叉點即為拉乎德爾的位置），9個「情報歷史本文」（記載著空白的100年，需引導至拉乎德爾），其餘則是記載需要流傳的其他資訊。目前可知的是，唯一讀懂歷史本文的是來自考古學之島「歐哈拉」遺孤，[妮可·羅賓](../Page/妮可·羅賓.md "wikilink")。
     記載著歷史本文的石塊是由[和之國中出名的石匠](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#和之國 "wikilink")**光月一族**在800年前親手製作的不滅之書，光月一族也世代傳承古代文字的讀寫之法，但傳承至桃之助的父親光月御田時，因御田被和之國將軍及四皇「百獸」海道殺害而失傳。
 
 | 名稱                                                                              | 簡介                                                                                                              |

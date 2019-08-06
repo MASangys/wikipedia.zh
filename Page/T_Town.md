@@ -122,7 +122,8 @@ HK ChungFuShoppingCentre Interior1.jpg|翻新前頌富商場入口中庭（2008�
 
   - [T Town](http://www.linkhk.com/_layouts/CustomerSite_ShopCentreDetail.aspx?lng=tc&shopping_id=135&type=false)
 
-[Category:香港建築小作品](https://zh.wikipedia.org/wiki/Category:香港建築小作品 "wikilink") [Category:元朗區商場](https://zh.wikipedia.org/wiki/Category:元朗區商場 "wikilink") [Category:天水圍](https://zh.wikipedia.org/wiki/Category:天水圍 "wikilink")
+  -
+[Category:天水圍](https://zh.wikipedia.org/wiki/Category:天水圍 "wikilink") [Category:元朗區商場](https://zh.wikipedia.org/wiki/Category:元朗區商場 "wikilink") [Category:香港建築小作品](https://zh.wikipedia.org/wiki/Category:香港建築小作品 "wikilink")
 
 [Category:領展商場及停車場](https://zh.wikipedia.org/wiki/Category:領展商場及停車場 "wikilink")
 

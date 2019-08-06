@@ -70,7 +70,7 @@ E-Max是Entertainment Maximized的縮寫，「E」字代表娛樂，亦代表活
 
 [EMax_The_Metroplex_201406.jpg](https://zh.wikipedia.org/wiki/File:EMax_The_Metroplex_201406.jpg "fig:EMax_The_Metroplex_201406.jpg")戲院\]\] [EMax_GF_Restaurants_2019.jpg](https://zh.wikipedia.org/wiki/File:EMax_GF_Restaurants_2019.jpg "fig:EMax_GF_Restaurants_2019.jpg")
 
-  - [歡樂天地](../Page/歡樂天地.md "wikilink") (原定2018年末開，預計2019首季開)
+  - [歡樂天地](../Page/歡樂天地.md "wikilink") (2019年7月試業)
   - Timberland Outlet Store （2017年7月19日開業）
   - 星影匯（2014年2月14日開業）
   - 喜善中餐廳
@@ -134,9 +134,9 @@ E-Max於2007年6月26日加入[幻彩詠香江](../Page/幻彩詠香江.md "wiki
   - [九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")
   - [星影匯](../Page/星影匯.md "wikilink")
 
-[分類:香港表演場館](https://zh.wikipedia.org/wiki/分類:香港表演場館 "wikilink")
+[Category:香港表演場館](https://zh.wikipedia.org/wiki/Category:香港表演場館 "wikilink")
 
-[Category:九龍灣](https://zh.wikipedia.org/wiki/Category:九龍灣 "wikilink") [Category:觀塘區商場](https://zh.wikipedia.org/wiki/Category:觀塘區商場 "wikilink") [Category:幻彩詠香江](https://zh.wikipedia.org/wiki/Category:幻彩詠香江 "wikilink") [Category:合和實業物業](https://zh.wikipedia.org/wiki/Category:合和實業物業 "wikilink") [Category:演唱會場地](https://zh.wikipedia.org/wiki/Category:演唱會場地 "wikilink")
+[Category:九龍灣](https://zh.wikipedia.org/wiki/Category:九龍灣 "wikilink") [Category:觀塘區](https://zh.wikipedia.org/wiki/Category:觀塘區 "wikilink") [Category:觀塘區商場](https://zh.wikipedia.org/wiki/Category:觀塘區商場 "wikilink") [Category:合和實業物業](https://zh.wikipedia.org/wiki/Category:合和實業物業 "wikilink") [Category:1998年完工建築物](https://zh.wikipedia.org/wiki/Category:1998年完工建築物 "wikilink") [Category:演唱會場地](https://zh.wikipedia.org/wiki/Category:演唱會場地 "wikilink") [Category:幻彩詠香江](https://zh.wikipedia.org/wiki/Category:幻彩詠香江 "wikilink")
 
 1.
 2.

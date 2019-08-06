@@ -79,12 +79,36 @@ Academi由下列子公司與獨立部門組成如下：
 7.  2007年9月30日，美國的「新聞週刊」報導，伊拉克警方掌握的證據，包括多位目擊證人的證詞，以及一捲錄影帶顯示美國黑水的僱員，於9月16日在巴格達的槍擊事件中，在沒有受到挑釁的情形下開槍濫射。
 8.  2008年11月9日，黑水因未經授權向伊拉克和約旦運輸軍火，可能面臨商務部的刑事指控，和數百萬美元的罰款。
 
+## 参考文献
+
+## 延伸閱讀
+
+### 書籍
+
+  - Singer, P. W. (2003) *Corporate Warriors: The Rise of the Privatized Military Industry* Cornell University Press, Ithaca, New York, .
+  - [Pelton, Robert Young](https://zh.wikipedia.org/wiki/Robert_Young_Pelton "wikilink") (2006) *Licensed to Kill, Hired Guns in the War on Terror* Crown Books, New York, ; Extensive material on Blackwater in Prologue and Chapter 2, "The New Breed," Chapter 5, "The Blackwater Bridge," Chapter 6, "Under Siege," which discusses Blackwater at [An Najaf](https://zh.wikipedia.org/wiki/An_Najaf "wikilink"), Chapter 7, "The Dog Track and the Swamp," which chronicles Pelton's visits to Blackwater training facilities, one of which is a dog track, Chapter 8, running the Gauntlet, and Chapter 11, "The Lord and the Prince," partly about [Erik Prince](https://zh.wikipedia.org/wiki/Erik_Prince "wikilink").
+  - [Scahill, Jeremy](https://zh.wikipedia.org/wiki/Jeremy_Scahill "wikilink") (2007). [Blackwater: The Rise of the World's Most Powerful Mercenary Army](https://zh.wikipedia.org/wiki/Blackwater:_The_Rise_of_the_World's_Most_Powerful_Mercenary_Army "wikilink").
+  - Simons, Suzanne (2009) ''Master of war : Blackwater USA's Erik Prince and the business of war '' New York : Collins. . <http://lccn.loc.gov/2008054005>
+
+### 文章
+
+  - John M. Broder, ["Report Says Firm Sought To Cover Iraq Shootings,"](https://www.nytimes.com/2007/10/02/washington/02blackwater.html) *New York Times,* Oct. 2, 2007.
+  - John M. Broder, ["Chief Of Blackwater Defends His Employees,"](https://www.nytimes.com/2007/10/03/washington/03blackwater.html) *New York Times,* Oct. 3, 2007.
+  - John M. Broder, ["Ex-Paratrooper Is Suspect In Killing Of Iraqi,"](https://www.nytimes.com/2007/10/04/world/middleeast/04contractor.html) *New York Times,* Oct. 4, 2007.
+  - Committee on Oversight and Government Reform, United States House of Representatives, ["Additional Information about Blackwater USA,"](https://web.archive.org/web/20071016121353/http://oversight.house.gov/documents/20071001121609.pdf) Committee memorandum, Oct. 1, 2007.
+  - Karen DeYoung, \[<https://www.washingtonpost.com/wp-dyn/content/article/2007/10/01/AR2007100100882.html>? "Other Killings by Blackwater Staff Detailed,"\] *Washington Post,* Oct. 2, 20007.
+  - James Glanz and Alissa J. Rubin, \[<https://www.nytimes.com/2007/10/03/world/middleeast/03firefight.html>? "From Errand to Fatal Shot to Hail of Fire to 17 Deaths,"\] *New York Times,* Oct. 3, 2007.
+  - Marybeth Laguna, ["My Husband was a Blackwater Hero,"](https://www.washingtonpost.com/wp-dyn/content/article/2008/11/28/AR2008112802283.html) *Washington Post,* Nov. 30, 2008.
+  - Robert Young Pelton, ["Erik Prince, an American Commando in Exile,"](https://web.archive.org/web/20130518044446/http://www.mensjournal.com/magazine/erik-prince-an-american-commando-in-exile-20121016) *Men's Journal,* Nov. 1, 2010.
+  - Ralph Peters, ["Trouble For Hire: The Mercenaries Who Murder In Your Name,"](http://www.nypost.com/seven/09302007/postopinion/opedcolumnists/trouble_for_hire.htm) *New York Post,* Sept. 30, 2007.
+  - Sudarsan Raghavan, ["Tracing The Paths Of 5 Who Died In A Storm Of Gunfire,"](https://www.washingtonpost.com/wp-dyn/content/article/2007/10/03/AR2007100302646.html) *Washington Post,* Oct. 4, 2007.
+  - James Risen, \[<https://www.nytimes.com/2014/06/30/us/before-shooting-in-iraq-warning-on-blackwater.html>? "Before Shooting in Iraq, a Warning on Blackwater,"\] *New York Times,* June 29, 2014.
+  - Eric Schmitt, \[<https://www.nytimes.com/2007/10/02/world/middleeast/02shooting.html>? "Report Details Shooting By Drunken Blackwater Worker,"\] *New York Times,* Oct. 2, 2007.
+
 ## 参见
 
   - [雇佣兵](https://zh.wikipedia.org/wiki/雇佣兵 "wikilink")
   - [私人軍事服務公司](../Page/私人軍事服務公司.md "wikilink")
-
-## 参考文献
 
 ## 外部連結
 

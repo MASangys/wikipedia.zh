@@ -65,8 +65,8 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 | 2019年4月16日  | [Disney Junior](https://zh.wikipedia.org/wiki/w:en:Disney_Junior_\(Asia\) "wikilink")   |      |
 | 2019年5月1日   | [Food Network](https://zh.wikipedia.org/wiki/w:en:Food_Network "wikilink")              |      |
 | 2019年6月1日   | [BLUE ANT Entertainment](../Page/BLUE_ANT_Entertainment.md "wikilink")                  | 2    |
-|             |                                                                                         |      |
 | 2019年7月1日   | [Da Vinci](https://zh.wikipedia.org/wiki/w:en:Da_Vinci_Learning "wikilink")             | 1    |
+| 2019年8月1日   | [Asian Food Channel](https://zh.wikipedia.org/wiki/w:en:Asian_Food_Channel "wikilink")  | 2    |
 |             |                                                                                         |      |
 
 | 預覽頻道號碼 | 預覽頻道                                                                                   | 預覽次數 |
@@ -80,6 +80,7 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 | 510    | [華納電視頻道](../Page/華納電視頻道.md "wikilink")                                                 |      |
 | 512    | [AXN](../Page/AXN.md "wikilink")                                                       |      |
 | 517    | [BLUE ANT Entertainment](../Page/BLUE_ANT_Entertainment.md "wikilink")                 |      |
+| 526    | [Asian Food Network](https://zh.wikipedia.org/wiki/w:en:Asian_Food_Network "wikilink") |      |
 | 117    | [FOX Movies](../Page/FOX_Movies.md "wikilink")                                         | 1    |
 | 118    | [FOX Action Movies](https://zh.wikipedia.org/wiki/福斯動作電影頻道 "wikilink")                 |      |
 | 120    | [FOX Family Movies](https://zh.wikipedia.org/wiki/福斯家庭電影頻道 "wikilink")                 |      |
@@ -103,8 +104,6 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 | 518    | [FOX](../Page/FOX_\(亞洲\).md "wikilink")                                                |      |
 | 521    | [FOX life](../Page/FOX_Life_\(亞洲\).md "wikilink")                                      |      |
 | 525    | [Lifetime](https://zh.wikipedia.org/wiki/w:en:Lifetime_\(TV_network\) "wikilink")      |      |
-| 526    | [Food Network](https://zh.wikipedia.org/wiki/w:en:Food_Network "wikilink")             |      |
-| 527    | [Asian Food Channel](https://zh.wikipedia.org/wiki/w:en:Asian_Food_Channel "wikilink") |      |
 
 ### 稍後預覽頻道
 

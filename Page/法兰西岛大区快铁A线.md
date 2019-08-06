@@ -1,10 +1,10 @@
-**法兰西岛大区快铁A线**（），简称**RER A**，是[法兰西岛](https://zh.wikipedia.org/wiki/法兰西岛 "wikilink")[法兰西岛大区快铁](../Page/法兰西岛大区快铁.md "wikilink")的一条贯通[巴黎](../Page/巴黎.md "wikilink")市郊东西走向的线路，具有多个分支。该线路连接西偏北的[圣日耳曼昂莱站](../Page/圣日耳曼昂莱站.md "wikilink")（Saint-Germain-en-Laye，位於A1分支），[塞尔吉高地站](../Page/塞尔吉高地站.md "wikilink")（Cergy - Le Haut，位於A3分支），[普瓦西站](../Page/普瓦西站.md "wikilink")（Poissy，位於A5分支），以及东偏南的[布瓦西圣雷热站](../Page/布瓦西圣雷热站.md "wikilink")（Boissy-Saint-Léger，位於A2分支），[马恩拉瓦雷-谢西站](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")（Marne-la-Vallée - Chessy，位於A4分支）。通过巴黎市中心，市区每个车站均可转乘[巴黎地铁](https://zh.wikipedia.org/wiki/巴黎地铁 "wikilink")。
+**法兰西岛大区快铁A线**（），简称**RER A**，是[法兰西岛](https://zh.wikipedia.org/wiki/法兰西岛 "wikilink")[法兰西岛大区快铁](../Page/法兰西岛大区快铁.md "wikilink")的一条贯通[巴黎](../Page/巴黎.md "wikilink")市郊东西走向的线路，具有多个分支。该线路连接西偏北的[圣日耳曼昂莱站](../Page/圣日耳曼昂莱站.md "wikilink")（位於A1分支），[塞尔吉高地站](../Page/塞尔吉高地站.md "wikilink")（位於A3分支），[普瓦西站](../Page/普瓦西站.md "wikilink")（位於A5分支），以及东偏南的[布瓦西圣雷热站](../Page/布瓦西圣雷热站.md "wikilink")（位於A2分支），[马恩拉瓦雷-谢西站](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")（位於A4分支）。通过巴黎市中心，市区每个车站均可转乘[巴黎地铁](https://zh.wikipedia.org/wiki/巴黎地铁 "wikilink")。
 
-A线在[楠泰尔省府站](../Page/楠泰尔省府站.md "wikilink")（Nanterre - Préfecture）以西通往A3和A5分支的路段由[法国国家铁路公司](https://zh.wikipedia.org/wiki/法国国家铁路公司 "wikilink")（SNCF）运营，其余路段由[巴黎大众运输公司](https://zh.wikipedia.org/wiki/巴黎大众运输公司 "wikilink")（RATP）运营。列车全归RATP所有。当前A线客流量居各条快铁线路之首。
+A线在[楠泰尔省府站](../Page/楠泰尔省府站.md "wikilink")以西通往A3和A5分支的路段由[法国国家铁路公司](https://zh.wikipedia.org/wiki/法国国家铁路公司 "wikilink")（SNCF）运营，其余路段由[巴黎大众运输公司](https://zh.wikipedia.org/wiki/巴黎大众运输公司 "wikilink")（RATP）运营。列车全归RATP所有。当前A线客流量居各条快铁线路之首。
 
 ## 历史
 
-A线的前身是开往巴黎西郊的（Ligne de Saint-Germain-en-Laye）和开往东郊的（Ligne de Vincennes）。后根据大区快铁的方案，东西两线通过市中心新修的地下铁路合并，成为大区快铁A线，后经多次延伸成为今日的A线。
+A线的前身是开往巴黎西郊的和开往东郊的。后根据大区快铁的方案，东西两线通过市中心新修的地下铁路合并，成为大区快铁A线，后经多次延伸成为今日的A线。
 
 ### 圣日耳曼线
 
@@ -12,9 +12,9 @@ A线的前身是开往巴黎西郊的（Ligne de Saint-Germain-en-Laye）和开�
 
 圣日耳曼线和万塞讷线分别建于19世纪30年代和50年代，其中圣日耳曼线是巴黎最早的郊区铁路，而两条郊铁由于客流量大而最终成为大区快铁东西轴向的首选。
 
-19世纪30年代，法国经济快速发展，铁路运输日渐发达，促成了在巴黎大区修建市郊铁路的计划。其中（Frères Pereire）提议并取得首条线路的经营权，这便是连接巴黎和西郊[圣日耳曼的圣日耳曼线](https://zh.wikipedia.org/wiki/圣日耳曼 "wikilink")，线路亦同时作为巴黎－[鲁昂](../Page/鲁昂.md "wikilink")铁路的第一段。圣日耳曼线的修建几乎没有遇到任何难题，进展十分顺利。1837年，自[圣拉扎尔车站](https://zh.wikipedia.org/wiki/巴黎圣拉扎尔车站 "wikilink")（Saint-Lazare）经[楠泰尔站](../Page/楠泰尔站.md "wikilink")（Nanterre - Ville）到[维西涅－勒贝克站](https://zh.wikipedia.org/wiki/维西涅－勒贝克站 "wikilink")（Le Vésinet - Le Pecq）的路段即投入使用，乘客坐毕全程仅需25分钟，通车首日即有18000人乘坐，大受欢迎。1847年，线路向西延长至[圣日尔曼昂莱市中心的](https://zh.wikipedia.org/wiki/圣日尔曼昂莱 "wikilink")[圣日耳曼昂莱站](../Page/圣日耳曼昂莱站.md "wikilink")。
+19世纪30年代，法国经济快速发展，铁路运输日渐发达，促成了在巴黎大区修建市郊铁路的计划。其中提议并取得首条线路的经营权，这便是连接巴黎和西郊[圣日耳曼的圣日耳曼线](https://zh.wikipedia.org/wiki/圣日耳曼 "wikilink")，线路亦同时作为巴黎－[鲁昂](../Page/鲁昂.md "wikilink")铁路的第一段。圣日耳曼线的修建几乎没有遇到任何难题，进展十分顺利。1837年，自[圣拉扎尔车站经](https://zh.wikipedia.org/wiki/巴黎圣拉扎尔车站 "wikilink")[楠泰尔城站](../Page/楠泰尔城站.md "wikilink")到[维西涅－勒贝克站的路段即投入使用](https://zh.wikipedia.org/wiki/维西涅－勒贝克站 "wikilink")，乘客坐毕全程仅需25分钟，通车首日即有18000人乘坐，大受欢迎。1847年，线路向西延长至[圣日尔曼昂莱市中心的](https://zh.wikipedia.org/wiki/圣日尔曼昂莱 "wikilink")[圣日耳曼昂莱站](../Page/圣日耳曼昂莱站.md "wikilink")。
 
-圣日耳曼线建成后没有进行任何延伸，但圣拉扎尔路网却向其周边郊区开辟多条郊区铁路，巴黎西郊逐渐形成一个发达的铁路网，1855年西部路网联合成立了（Compagnie des chemins de fer de l'Ouest）。
+圣日耳曼线建成后没有进行任何延伸，但圣拉扎尔路网却向其周边郊区开辟多条郊区铁路，巴黎西郊逐渐形成一个发达的铁路网，1855年西部路网联合成立了。
 
 圣日耳曼线亦划归西铁公司管理，采用蒸汽机车牵引。直至19世纪末20世纪初，蒸汽机车在线路效率和运行成本上的弊端促使当局对线路进行电气化改造，工程在1924至1927年之间进行，全线采用650伏特的[第三轨供电](https://zh.wikipedia.org/wiki/轨道供电 "wikilink")，但到1966年考虑到大区快铁的建设问题改为[架空电缆供电](https://zh.wikipedia.org/wiki/接触网供电 "wikilink")，并增加供电电压为1500伏特，即大区快铁RER在RATP路段的电压。
 
@@ -38,65 +38,65 @@ A线的前身是开往巴黎西郊的（Ligne de Saint-Germain-en-Laye）和开�
 
 早在1929年，巴黎城铁公司就提出通过市中心新建地下铁路连接郊区路网的计划，但该计划并未以圣日耳曼线和万塞讷线为首选，而是国玺线。然而，[二战使得该计划被搁置](https://zh.wikipedia.org/wiki/二战 "wikilink")。
 
-1949年，巴黎城铁公司和合并，成立[巴黎大众运输公司](https://zh.wikipedia.org/wiki/巴黎大众运输公司 "wikilink")，即RATP。1956年3月，RATP路网部门经理马克·郎之万 (Marc Langevin) 宣布重启快铁计划，计划包括一个十字形的「东西-南北」路网。而其中东西快铁将以西部的圣日耳曼线和东部的万塞讷线为基础进行构建，途经圣拉扎尔车站和巴士底车站。不过该线路并不绕经当时迅猛发展的[拉德芳斯](../Page/拉德芳斯.md "wikilink")商务区，因此政府对该东西快铁方案犹豫不决。同年RATP开始接手对万塞讷线进行电气化改造。
+1949年，巴黎城铁公司和合并，成立[巴黎大众运输公司](https://zh.wikipedia.org/wiki/巴黎大众运输公司 "wikilink")，即RATP。1956年3月，RATP路网部门经理马克·郎之万宣布重启快铁计划，计划包括一个十字形的「东西-南北」路网。而其中东西快铁将以西部的圣日耳曼线和东部的万塞讷线为基础进行构建，途经圣拉扎尔车站和巴士底车站。不过该线路并不绕经当时迅猛发展的[拉德芳斯](../Page/拉德芳斯.md "wikilink")商务区，因此政府对该东西快铁方案犹豫不决。同年RATP开始接手对万塞讷线进行电气化改造。
 
 1959年12月，RATP和SNCF经过研究后提出了东西快铁的新方案。路線绕经拉德芳斯並避开圣拉扎尔，穿越巴黎市[中轴线和巴士底车站](../Page/历史轴.md "wikilink")，与[地铁1号线平行](https://zh.wikipedia.org/wiki/巴黎地铁1号线 "wikilink")。西部接驳圣日耳曼线和西北部的，东部接驳万塞讷线和巴黎－米卢斯线。1960年3月14日经过一次跨部门会议，当局决定先修建东西快铁的一期路段，即「[拉德芳斯](../Page/拉德芳斯.md "wikilink")-[凯旋门](../Page/巴黎凯旋门.md "wikilink")」路段。1961年2月23日RATP接受了一期路段计划。
 
 ### 一期施工
 
-1961年7月6日一期工程的4.8公里路段开始动工修建。公共施工和交通部部长罗贝尔·比朗（Robert Buron）在打下象征性的一锄作为工程的奠基礼。两个终点站均呈矩形构造，线路大体笔直，只是向北略有弯曲，以避开[讷伊桥](https://zh.wikipedia.org/wiki/讷伊桥 "wikilink")。次年3月2日，线路资讯对公众发布。
+1961年7月6日一期工程的4.8公里路段开始动工修建。公共施工和交通部部长罗贝尔·比朗在打下象征性的一锄作为工程的奠基礼。两个终点站均呈矩形构造，线路大体笔直，只是向北略有弯曲，以避开[讷伊桥](https://zh.wikipedia.org/wiki/讷伊桥 "wikilink")。次年3月2日，线路资讯对公众发布。
 
 [Paris_-_Blick_vom_großen_Triumphbogen.jpg](https://zh.wikipedia.org/wiki/File:Paris_-_Blick_vom_großen_Triumphbogen.jpg "fig:Paris_-_Blick_vom_großen_Triumphbogen.jpg")
 
 1962年初，线路中的拉德芳斯段开始动工兴建，线路采用钻挖法，在拉德芳斯地下23米处用掘进机掘进内径8.7米的隧道，但由于地质原因进展缓慢，1963年仅掘进160米，到1965年6月拉德芳斯段隧道完工，长781米。市区凯旋门段从1965年3月开始钻挖，进度较快但却发生过多起事故，包括3月18日塌方事故导致[地铁1号线中断](https://zh.wikipedia.org/wiki/巴黎地铁1号线 "wikilink")4天，1966年夏压缩空气引燃马约门的地下黄铁矿。1967年10月31日钻挖至西部的[讷伊桥](https://zh.wikipedia.org/wiki/讷伊桥 "wikilink")，距离凯旋门达2752米。由于拉德芳斯段进度太慢，塞纳河河底隧道施工方案改为和巴黎地铁的许多地下过河线路一样改用沉管法，放棄原先的钻挖法。7个沉箱从1966年4月14日开始填入河床，至1968年1月完成。
 
-随着工程的进行，原有的快铁计划也作出相应的变更。1963年5月31日RATP管理层认为既有的线路和圣日耳曼线没有有效接驳，因此将中心路网的走向改到圣拉扎尔终点站附近的欧贝站，靠近[巴黎歌剧院以吸引圣日耳曼线的客流](https://zh.wikipedia.org/wiki/巴黎歌剧院 "wikilink")，待数年后一期路网竣工时，将继续向东延伸直至欧贝站。同年6月6日，巴黎运输联合会（Syndicat des Transports Parisiens）对此表示赞同。而同时，东部路段也得到修改，不再经过巴士底车站而是前往[民族广场站](https://zh.wikipedia.org/wiki/民族广场站_\(巴黎地铁\) "wikilink")，并且线路将向南偏移至[巴黎里昂车站](https://zh.wikipedia.org/wiki/巴黎里昂车站 "wikilink")。11月在拉德芳斯和[楠泰尔](../Page/楠泰尔.md "wikilink")之间的线路接驳又根据即将兴建的地面文化设施有所变更，将修建一条名为"N线"的新路径，包括两个新车站"P站"和"M站"，前者和圣日耳曼线接驳，后者兴建在文化中心的地底。
+随着工程的进行，原有的快铁计划也作出相应的变更。1963年5月31日RATP管理层认为既有的线路和圣日耳曼线没有有效接驳，因此将中心路网的走向改到圣拉扎尔终点站附近的欧贝站，靠近[巴黎歌剧院以吸引圣日耳曼线的客流](https://zh.wikipedia.org/wiki/巴黎歌剧院 "wikilink")，待数年后一期路网竣工时，将继续向东延伸直至欧贝站。同年6月6日，巴黎运输联合会对此表示赞同。而同时，东部路段也得到修改，不再经过巴士底车站而是前往[民族站](https://zh.wikipedia.org/wiki/民族站_\(法蘭西島大區快鐵\) "wikilink")，并且线路将向南偏移至[巴黎里昂车站](https://zh.wikipedia.org/wiki/巴黎里昂车站 "wikilink")。11月在拉德芳斯和[楠泰尔](../Page/楠泰尔.md "wikilink")之间的线路接驳又根据即将兴建的地面文化设施有所变更，将修建一条名为"N线"的新路径，包括两个新车站"P站"和"M站"，前者和圣日耳曼线接驳，后者兴建在文化中心的地底。
 
-1965年，（SDRIF，当时叫做巴黎大区城市化管理规划办）颁布了东西线的走向：将从西边的[楠泰尔](../Page/楠泰尔.md "wikilink")经[拉德芳斯](../Page/拉德芳斯.md "wikilink")、[凯旋门](../Page/巴黎凯旋门.md "wikilink")、圣拉扎尔-巴黎歌剧院商业集中区（三个地铁站中间修一个大站）、市中心、里昂车站、民族广场，最后在[万塞讷接上旧有的万塞讷线](https://zh.wikipedia.org/wiki/万塞讷_\(瓦勒德马恩省\) "wikilink")，并新辟一条分支前往东部的几个城市优先发展区，和[马恩河](../Page/马恩河.md "wikilink")平行。
+1965年，（SDRIF，当时叫做巴黎大区城市化管理规划办）颁布了东西线的走向：将从西边的[楠泰尔](../Page/楠泰尔.md "wikilink")经[拉德芳斯](../Page/拉德芳斯.md "wikilink")、[凯旋门](../Page/巴黎凯旋门.md "wikilink")、圣拉扎尔-巴黎歌剧院商业集中区（三个地铁站中间修一个大站）、市中心、里昂车站、民族广场，最后在[万塞讷](../Page/万塞讷.md "wikilink")接上旧有的万塞讷线，并新辟一条分支前往东部的几个城市优先发展区，和[马恩河](../Page/马恩河.md "wikilink")平行。
 
 [Entrée_Est_Tunnel_RER_A.jpg](https://zh.wikipedia.org/wiki/File:Entrée_Est_Tunnel_RER_A.jpg "fig:Entrée_Est_Tunnel_RER_A.jpg")
 
 1966年万塞讷线的现代化改造亦开始落实。改造工程由SNCF完成，但市区的路段由RATP负责。原有的车站站屋被拆毁，并重建了新的车站大堂，虽然新建的大堂在美学上并无任何考究，但后来很好的发挥了其应有功效，并时常和周边公交车站及停车场接驳。新的车站月台高度被增高到1.1米，月台长度扩充到225米，并新建了防雨棚，地下通道或人行天桥。原有的铁轨也被更换为60kg/m的重质轨，电气化改造给万塞讷线配备了1500伏[直流电](https://zh.wikipedia.org/wiki/高架电缆 "wikilink")，同时信号系统也得到大幅更新。
 
-1969年12月14日起[民族广场站启用](https://zh.wikipedia.org/wiki/民族广场站_\(巴黎地铁\) "wikilink")，新万塞讷线从此连接民族广场和布瓦西圣雷热，成为RER通车的第一部分，而其路网的所有权则由SNCF转交给RATP。随着民族广场车站启用，原来万塞讷线在巴黎市内的路段停用，停用的路轨平台最终被改建成为。万塞讷线的老终点巴士底车站亦同时停用，后于1984年被拆毁，1989年在原址上兴建了[巴士底歌剧院](https://zh.wikipedia.org/wiki/巴士底歌剧院 "wikilink")。同年位于东部近郊的[林畔丰特奈站亦启用](https://zh.wikipedia.org/wiki/林畔丰特奈 "wikilink")。
+1969年12月14日起[民族站启用](https://zh.wikipedia.org/wiki/民族站_\(法蘭西島大區快鐵\) "wikilink")，新万塞讷线从此连接民族广场和布瓦西圣雷热，成为RER通车的第一部分，而其路网的所有权则由SNCF转交给RATP。随着民族广场车站启用，原来万塞讷线在巴黎市内的路段停用，停用的路轨平台最终被改建成为。万塞讷线的老终点巴士底车站亦同时停用，后于1984年被拆毁，1989年在原址上兴建了[巴士底歌剧院](https://zh.wikipedia.org/wiki/巴士底歌剧院 "wikilink")。同年位于东部近郊的[林畔丰特奈站亦启用](https://zh.wikipedia.org/wiki/林畔丰特奈 "wikilink")。
 
-1970年1月19日和2月20日 西段的一期路网随着[夏尔·戴高乐-星形站和](https://zh.wikipedia.org/wiki/夏尔·戴高乐-星形站 "wikilink")[拉德芳斯车站先后启用而完工](https://zh.wikipedia.org/wiki/拉德芳斯车站 "wikilink")。同年[楠泰尔大学车站亦启用](https://zh.wikipedia.org/wiki/楠泰尔大学车站 "wikilink")。至此RER的东西线包括东段的民族广场-布瓦西路段和西段的凯旋门-拉德芳斯路段。
+1970年1月19日和2月20日，西段的一期路网随着[夏尔·戴高乐-星形站和](https://zh.wikipedia.org/wiki/夏尔·戴高乐-星形站_\(RER\) "wikilink")[拉德芳斯站](../Page/拉德芳斯站.md "wikilink")先后启用而完工。同年[楠泰尔大学车站亦启用](https://zh.wikipedia.org/wiki/楠泰尔大学车站 "wikilink")。至此RER的东西线包括东段的民族广场-布瓦西路段和西段的凯旋门-拉德芳斯路段。
 
 ### 中心路网
 
 [Auber-RER-Paris-2005-Platform-1.jpg](https://zh.wikipedia.org/wiki/File:Auber-RER-Paris-2005-Platform-1.jpg "fig:Auber-RER-Paris-2005-Platform-1.jpg")
 
-1971年11月23日, 西段向东延伸一站至[欧贝站](../Page/欧贝站.md "wikilink"), 该站为当时世界上最大也最复杂的地下铁路车站. 1972年10月1日, 经历了5年的施工后, 原圣日耳曼线在楠泰尔大学以西的路段全部并入RER, 原先预计的"P站"最终由楠泰尔大学站替代, 其路网所有权继万塞讷线以后亦由SNCF转交给RATP (不包括楠泰尔大学至圣拉扎尔车站的路段, 其所有权仍属SNCF), 在之前, 圣日耳曼线亦经历了和万塞讷线相似的现代化改造施工. 此时, 东西线线路西段连接圣日耳曼和欧贝站. 1973年10月1日, [楠泰尔行政区车站](https://zh.wikipedia.org/wiki/楠泰尔行政区车站 "wikilink") (Nanterre - Préfecture, 此前计划中的"M站") 启用, 后来成为RATP和SNCF路网的互通点.
+1971年11月23日，西段向东延伸一站至[欧贝站](../Page/欧贝站.md "wikilink")，该站为当时世界上最大也最复杂的地下铁路车站。1972年10月1日，经历了5年的施工后，原圣日耳曼线在楠泰尔大学以西的路段全部并入RER，原先预计的"P站"最终由楠泰尔大学站替代，其路网所有权继万塞讷线以后亦由SNCF转交给RATP（不包括楠泰尔大学至圣拉扎尔车站的路段，其所有权仍属SNCF），在之前，圣日耳曼线亦经历了和万塞讷线相似的现代化改造施工。此时，东西线线路西段连接圣日耳曼和欧贝站。1973年10月1日，[楠泰尔省府站](../Page/楠泰尔省府站.md "wikilink")（此前计划中的"M站"）启用，后来成为RATP和SNCF路网的互通点。
 
-欧贝站和民族广场之间中心路段的修建则引发了诸多争议, 施工成本高, 工程任务繁重, 未来运作方式尚不明了. 甚至有人提议用普通地铁进行联络, 无需再像前面路段那样进行大规模施工. 不过在政府的大力支持下, RATP得以说服公众修建中心路段的必要性. 1972年, 位于巴黎中心地带的[巴黎大堂](../Page/巴黎大堂.md "wikilink")正在进行翻新改造, 刚好可以腾出空间修建一个地下车站以节约修建成本. 1973年, 中心路段正式动工兴建. 工程包括三段隧道, 总长5242米, 和两个宽敞的地底车站, 长度均超过300米. 路线经过不利于施工的含水层和石灰岩下方25米, 以及旧建筑密布的巴黎市中心区, 总耗资50亿法郎. 同年, 根据此前增加新线服务[诺瓦西](https://zh.wikipedia.org/wiki/诺瓦西 "wikilink") (Noisy-le-Grand) 新发展区的计划, A线东部新辟一条分支前往[大诺瓦西-东山站](https://zh.wikipedia.org/wiki/大诺瓦西-东山站 "wikilink") (Noisy-le-Grand - Mont d'Est), 中间兴建了3个新车站, 其中一个可以和[远郊铁路](https://zh.wikipedia.org/wiki/法兰西岛区域铁路 "wikilink") (后来演变成[RER E线](../Page/法兰西岛大区快铁E线.md "wikilink")) 换乘.
+欧贝站和民族广场之间中心路段的修建则引发了诸多争议，施工成本高，工程任务繁重，未来运作方式尚不明了。甚至有人提议用普通地铁进行联络，无需再像前面路段那样进行大规模施工。不过在政府的大力支持下，RATP得以说服公众修建中心路段的必要性。1972年，位于巴黎中心地带的[巴黎大堂](../Page/巴黎大堂.md "wikilink")正在进行翻新改造，刚好可以腾出空间修建一个地下车站以节约修建成本。1973年，中心路段正式动工兴建。工程包括三段隧道，总长5242米，和两个宽敞的地底车站，长度均超过300米。路线经过不利于施工的含水层和石灰岩下方25米，以及旧建筑密布的巴黎市中心区，总耗资50亿法郎。同年，根据此前增加新线服务[诺瓦西新发展区的计划](https://zh.wikipedia.org/wiki/诺瓦西 "wikilink")，A线东部新辟一条分支前往[大诺瓦西-东山站](https://zh.wikipedia.org/wiki/大诺瓦西-东山站 "wikilink")，中间兴建了3个新车站，其中一个可以和[远郊铁路](https://zh.wikipedia.org/wiki/法兰西岛区域铁路 "wikilink")（后来演变成[RER E线](../Page/法兰西岛大区快铁E线.md "wikilink")） 换乘。
 
-1977年12月9日, 欧贝站和民族广场之间的路段竣工, 东西快铁全线通车, 并命名为RER A线. [RER B线也同时通车](../Page/法兰西岛大区快铁B线.md "wikilink"), AB两线在拥有7条路轨, 长310米, 宽79米的[夏特雷-大堂站](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink") (Châtelet - Les Halles) 相交, 成为大区快铁的东西轴向和南北轴向, 当时的法国总统[德斯坦参加了剪彩仪式](../Page/瓦勒里·季斯卡·德斯坦.md "wikilink").
+1977年12月9日，欧贝站和民族广场之间的路段竣工，东西快铁全线通车，并命名为RER A线。[RER B线也同时通车](../Page/法兰西岛大区快铁B线.md "wikilink")，AB两线在拥有7条路轨，长310米，宽79米的[夏特雷-大堂站相交](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink")，成为大区快铁的东西轴向和南北轴向，当时的法国总统[德斯坦参加了剪彩仪式](../Page/瓦勒里·季斯卡·德斯坦.md "wikilink")。
 
-A线全线通车的同日, 诺瓦西分支亦通车, 此时, A线西起圣日耳曼 (A1分支), 在楠泰尔接上拉德芳斯和中心路网, 在丰特奈分叉, 东至布瓦西 (A2分支), 和诺瓦西 (A4分支).
+A线全线通车的同日，诺瓦西分支亦通车，此时，A线西起圣日耳曼（A1分支），在楠泰尔接上拉德芳斯和中心路网，在丰特奈分叉，东至布瓦西（A2分支），和诺瓦西（A4分支）。
 
 [Gare_torcy.jpg](https://zh.wikipedia.org/wiki/File:Gare_torcy.jpg "fig:Gare_torcy.jpg")
 
 ### 马恩河谷延伸线
 
-1980年12月19日, A4分支向东延长8764米至[托尔西站](../Page/托尔西站.md "wikilink") (Torcy, 当时名叫Torcy - Marne-la-Vallée, 一直到1992年), 以服务和. 这段新线包含4个新车站, 最后两站之间还兴建了一座跨越山谷的混凝土高架桥.
+1980年12月19日，A4分支向东延长8764米至[托尔西站](../Page/托尔西站.md "wikilink")（当时名叫Torcy - Marne-la-Vallée，一直到1992年），以服务[巴黎东马恩河谷大学](../Page/巴黎东马恩河谷大学.md "wikilink")和[巴黎东马恩河谷大学](../Page/巴黎东马恩河谷大学.md "wikilink")[马恩拉瓦莱](https://zh.wikipedia.org/wiki/马恩拉瓦莱 "wikilink")。这段新线包含4个新车站，最后两站之间还兴建了一座跨越山谷的混凝土高架桥。
 
-1985年底, 美国[迪士尼公司获准在马恩河谷修建](https://zh.wikipedia.org/wiki/迪士尼公司 "wikilink")[迪士尼乐园](https://zh.wikipedia.org/wiki/巴黎迪士尼乐园 "wikilink"), 公司希望RER A线能延长到此, 但RATP对此持保守态度, 准备仅开通公共巴士服务, 而当局根据长远的经济效应, 批准A线再向东延长11公里至[马恩拉瓦雷-谢西站](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink"), 并且在彼处将新增一个[TGV车站](https://zh.wikipedia.org/wiki/TGV "wikilink"). 工程自1988年9月开工, 托尔西站的东部因此兴建了一个维修车厂和车库. 1992年4月1日迪士尼路段竣工通车, 以配合11天后迪士尼乐园的开业. 相应的, 中间新增两个车站以服务当地的新发展区. 其中, [欧罗巴山谷站](https://zh.wikipedia.org/wiki/欧罗巴山谷站 "wikilink") (Val d'Europe) 至2001年6月10日才启用, 这是迄今为止A线上最新启用的车站. 其周边有10000户居民, 70万平方米的商务区和9万平方米的商业中心, 该站耗资1190万欧元.
+1985年底，美国[迪士尼公司获准在马恩河谷修建](https://zh.wikipedia.org/wiki/迪士尼公司 "wikilink")[迪士尼乐园](https://zh.wikipedia.org/wiki/巴黎迪士尼乐园 "wikilink")，公司希望RER A线能延长到此，但RATP对此持保守态度，准备仅开通公共巴士服务，而当局根据长远的经济效应，批准A线再向东延长11公里至[马恩拉瓦雷-谢西站](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")，并且在彼处将新增一个[TGV车站](https://zh.wikipedia.org/wiki/TGV "wikilink")。工程自1988年9月开工，托尔西站的东部因此兴建了一个维修车厂和车库。1992年4月1日迪士尼路段竣工通车，以配合11天后迪士尼乐园的开业。相应的，中间新增两个车站以服务当地的新发展区。其中，[欧洲谷站](../Page/欧洲谷站.md "wikilink")至2001年6月10日才启用，这是迄今为止A线上最新启用的车站。其周边有10000户居民，70万平方米的商务区和9万平方米的商业中心，该站耗资1190万欧元。
 
 [Cergylehaut_gare.jpg](https://zh.wikipedia.org/wiki/File:Cergylehaut_gare.jpg "fig:Cergylehaut_gare.jpg")
 
 ### 东西互通和延伸
 
-为了改善（）新区的无铁路交通状况, SNCF于1979年开通 (Ligne de Cergy, 从既有的远郊铁路线上新辟) 进行服务, 和A线在楠泰尔大学站转乘. 不过此前当局已于1976年计划将塞尔吉线整合进A线, 1984年4月, 这一决定对公众发布. 相关工程包括从楠泰尔行政区站西部新建路轨和高架桥函接上巴黎-勒阿弗尔铁路线, 以及兴建一个车库以应对RER列车的到来. 1988年5月29日, A线西部新增分支前往[塞尔吉圣克里斯多夫](../Page/塞尔吉圣克里斯多夫站.md "wikilink") (Cergy - Saint-Christophe), 成为A3分支. 一年以后, [普瓦西](../Page/普瓦西.md "wikilink")路段亦被并入A线, 成为A5分支. 1994年8月29日, A3分支延长至[塞尔吉高地](https://zh.wikipedia.org/wiki/:fr:Gare_de_Cergy_-_Le_Haut "wikilink").
+为了改善新区的无铁路交通状况，SNCF于1979年开通（从既有的远郊铁路线上新辟）进行服务，和A线在楠泰尔大学站转乘。不过此前当局已于1976年计划将塞尔吉线整合进A线，1984年4月，这一决定对公众发布。相关工程包括从楠泰尔行政区站西部新建路轨和高架桥函接上巴黎-勒阿弗尔铁路线，以及兴建一个车库以应对RER列车的到来。1988年5月29日，A线西部新增分支前往[塞尔吉圣克里斯多夫](../Page/塞尔吉圣克里斯多夫站.md "wikilink")，成为A3分支。一年以后，[普瓦西](../Page/普瓦西.md "wikilink")路段亦被并入A线，成为A5分支。1994年8月29日，A3分支延长至[塞尔吉高地](../Page/塞尔吉高地站.md "wikilink")。
 
 [Chatelet-Les-Halles_aCRW_1486.jpg](https://zh.wikipedia.org/wiki/File:Chatelet-Les-Halles_aCRW_1486.jpg "fig:Chatelet-Les-Halles_aCRW_1486.jpg")
 
-A线从[楠泰尔行政区向西的A](https://zh.wikipedia.org/wiki/楠泰尔行政区 "wikilink")3和A5分支 (包括分支的共用路段) 由SNCF运营, 而其它三个分支: A1, A2和A4, 以及中心路网由RATP运营. 列车要驶入SNCF路段须在[楠泰尔行政区更换司机](https://zh.wikipedia.org/wiki/楠泰尔行政区 "wikilink"), 反之亦然, 因为列车在此站将从一个铁路网进入另一个铁路网, 这种情形叫做互通 (Interconnexion).
+A线从[楠泰尔行政区向西的A](https://zh.wikipedia.org/wiki/楠泰尔行政区 "wikilink")3和A5分支（包括分支的共用路段） 由SNCF运营，而其它三个分支：A1，A2和A4，以及中心路网由RATP运营。列车要驶入SNCF路段须在[楠泰尔行政区更换司机](https://zh.wikipedia.org/wiki/楠泰尔行政区 "wikilink")，反之亦然，因为列车在此站将从一个铁路网进入另一个铁路网，这种情形叫做互通。
 
 ### 近年发展
 
-2002年9月2日, 为应对高峰时段前后不断增长的客流, 部分列车服务从那以后从托尔西延长至马恩河谷终点. 同时, 早间高峰班次亦进行了一次调整以更好的平衡各班列车的负载量. 而在周末, 通往马恩河谷-迪士尼终点的班次亦明显增多, 尤其是日中的班次. 2005年5月12日, A线通过了 (Norme française, NF).
+2002年9月2日，为应对高峰时段前后不断增长的客流，部分列车服务从那以后从托尔西延长至马恩河谷终点。同时，早间高峰班次亦进行了一次调整以更好的平衡各班列车的负载量。而在周末，通往马恩河谷-迪士尼终点的班次亦明显增多，尤其是日中的班次。2005年5月12日，A线通过了。
 
-2006年12月11日起, 塞尔吉和普瓦西的周末列车频次从原来的30分钟一班增加到20分钟一班. 2008年2月4日起, RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质素, 特别是塞尔吉地区的服务质素, 列车频次从原来的20分钟一班增加到10分钟一班.
+2006年12月11日起，塞尔吉和普瓦西的周末列车频次从原来的30分钟一班增加到20分钟一班。2008年2月4日起，RATP和SNCF大幅修改了A线在非高峰期的运作方式，以改善服务质素，特别是塞尔吉地区的服务质素，列车频次从原来的20分钟一班增加到10分钟一班。
 
 ## 线路走向和车站列表
 
@@ -492,7 +492,7 @@ A线从[楠泰尔行政区向西的A](https://zh.wikipedia.org/wiki/楠泰尔行
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/圣莫尔-克雷泰伊站" title="wikilink">圣莫尔-克雷泰伊站</a><br />
+<td><p><a href="../Page/圣莫尔-克雷泰伊站.md" title="wikilink">圣莫尔-克雷泰伊站</a><br />
 <small>Saint-Maur — Créteil</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/圣莫尔-德福塞" title="wikilink">圣莫尔-德福塞</a></p></td>
@@ -1032,7 +1032,7 @@ RATP还宣称, 在未来几年内, A线在市中心的班次频率将达到每�
 
 [Gare_fontenayRER.jpg](https://zh.wikipedia.org/wiki/File:Gare_fontenayRER.jpg "fig:Gare_fontenayRER.jpg")
 
-由于A线的饱和状况实在严重, RATP在2009年订购了30辆新款的, 已于2011年投入使用, 并彻底逐步取代日渐老化的MI 84列车, 和无法长久运行下去的MS 61列车. 该项目耗资917万欧元, RATP负责2/3, [法兰西岛运输联合会](https://zh.wikipedia.org/wiki/法兰西岛运输联合会 "wikilink") (Syndicat des transports d'Île-de-France, STIF) 负责1/3, 目前已完成.
+由于A线的饱和状况实在严重, RATP在2009年订购了30辆新款的, 已于2011年投入使用, 并彻底逐步取代日渐老化的MI 84列车, 和无法长久运行下去的MS 61列车. 该项目耗资917万欧元, RATP负责2/3, [法兰西岛运输联合会负责](https://zh.wikipedia.org/wiki/法兰西岛运输联合会 "wikilink")1/3, 目前已完成.
 
 A线的中心路网配备了SACEM讯号系统, 可以有效缩短列车时间间隔, 提高发车率, RATP还计划更新该系统, 并将其覆盖范围扩展至东郊的大诺瓦西-东山站。不过在SNCF的西北路段, 其讯号系统已经老旧过时, 于是RATP又计划开发另一个讯号系统——[Next](https://zh.wikipedia.org/wiki/Next "wikilink"), 便于和SNCF兼容, 预计到2020年完成.
 

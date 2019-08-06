@@ -744,7 +744,7 @@
 32. メドレー / [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
     1.  DOGFIGHT（[頭文字D](../Page/頭文字D.md "wikilink") Fourth Stage OP）
     2.  Blazin' Beat（[頭文字D](../Page/頭文字D.md "wikilink") Second Stage OP）
-33. Gravity / [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink") （[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink") 插入曲）
+33. Gravity / [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink") （[幸運☆星](../Page/幸運☆星.md "wikilink") 插入曲）
 34. チェルシーガール / [田村由香里](../Page/田村由香里.md "wikilink")
 35. Tomorrow / [田村由香里](../Page/田村由香里.md "wikilink")
 36. Little Wish ～first step～ / [田村由香里](../Page/田村由香里.md "wikilink") （[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink") 片尾曲）
@@ -3112,7 +3112,7 @@
 
 :\# azurite（電視動畫《[獻給某飛行員的戀歌](../Page/獻給某飛行員的戀歌.md "wikilink")》片頭曲）／petit milady
 
-:\# [もってけ\!セーラーふく](../Page/拿去吧！水手服.md "wikilink")（電視動畫《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》片頭曲）／[唯夏織](../Page/唯夏織.md "wikilink")×petit milady
+:\# [もってけ\!セーラーふく](../Page/拿去吧！水手服.md "wikilink")（電視動畫《[幸運☆星](../Page/幸運☆星.md "wikilink")》片頭曲）／[唯夏織](../Page/唯夏織.md "wikilink")×petit milady
 
 :\# X-encounter（電視動畫《[東京闇鴉](../Page/東京闇鴉.md "wikilink")》片頭曲）／[黑崎真音](../Page/黑崎真音.md "wikilink")
 
@@ -3292,7 +3292,7 @@
 
 :\# [Connect](../Page/Connect.md "wikilink")（電視動畫《[魔法少女小圓](https://zh.wikipedia.org/wiki/魔法少女小圓 "wikilink")》主題曲）／[ClariS](../Page/ClariS.md "wikilink")
 
-:\# （電視動畫《[情色漫畫老師](https://zh.wikipedia.org/wiki/情色漫畫老師 "wikilink")》片頭曲）／ClariS
+:\# （電視動畫《[情色漫畫老師](../Page/情色漫畫老師.md "wikilink")》片頭曲）／ClariS
 
 :\# FLAWLESS（電視動畫《[決鬥大師](../Page/決鬥大師.md "wikilink")VSRF》片尾曲）／[Pyxis](../Page/Pyxis.md "wikilink")
 
@@ -3536,7 +3536,7 @@
 
 :\# （電視動畫《[亞人醬有話要說](../Page/亞人醬有話要說.md "wikilink")》片頭曲）／[TrySail](../Page/TrySail.md "wikilink")
 
-:\# adrenaline\!\!\!（電視動畫《[情色漫畫老師](https://zh.wikipedia.org/wiki/情色漫畫老師 "wikilink")》片尾曲）／TrySail
+:\# adrenaline\!\!\!（電視動畫《[情色漫畫老師](../Page/情色漫畫老師.md "wikilink")》片尾曲）／TrySail
 
 :\# [oath sign](https://zh.wikipedia.org/wiki/oath_sign "wikilink")（電視動畫《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》片頭曲）／LiSA
 
@@ -3826,7 +3826,7 @@
 
 :\# Truth.（電視動畫《[沒有心跳的少女 BEATLESS](../Page/沒有心跳的少女_BEATLESS.md "wikilink")》片頭曲）／TrySail
 
-:\# adrenaline\!\!\!（電視動畫《[情色漫畫老師](https://zh.wikipedia.org/wiki/情色漫畫老師 "wikilink")》片尾曲）／TrySail
+:\# adrenaline\!\!\!（電視動畫《[情色漫畫老師](../Page/情色漫畫老師.md "wikilink")》片尾曲）／TrySail
 
 :\# Los\! Los\! Los\!（電視動畫《[幼女戰記](../Page/幼女戰記.md "wikilink")》片尾曲）／悠木碧（[譚雅·提古雷查夫](../Page/幼女戰記.md "wikilink")）
 

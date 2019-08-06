@@ -12,7 +12,7 @@
 
 ### 計畫中止
 
-然而，鑑於經費需求，以修繕目前現有直升機航空隊中那些老舊的攻擊、偵查機種，因此於2004年2月23日，美軍宣佈他們決定中止卡曼契直升機計畫。另一項因素則是美軍已逐漸使用[無人機](https://zh.wikipedia.org/wiki/無人機 "wikilink")（UAV）做為偵查用途。除了實驗之外，無人機也在[阿富汗戰爭和](https://zh.wikipedia.org/wiki/阿富汗戰爭 "wikilink")[伊拉克戰爭中證明了它的實用性](https://zh.wikipedia.org/wiki/伊拉克戰爭 "wikilink")。截至卡曼契計劃中止，美國軍方已投入了大約80億美元的經費，而且還必須額外支付主要計畫的合作廠商塞考斯基和波音整合防衛系統部門（Boeing Integrated Defense Systems）一筆大約4.5至6.8億美元的合約中止費。
+然而，鑑於經費需求，以修繕目前現有直升機航空隊中那些老舊的攻擊、偵查機種，因此於2004年2月23日，美軍宣佈他們決定中止卡曼契直升機計畫。另一項因素則是美軍已逐漸使用[無人機](../Page/無人機.md "wikilink")（UAV）做為偵查用途。除了實驗之外，無人機也在[阿富汗戰爭和](https://zh.wikipedia.org/wiki/阿富汗戰爭 "wikilink")[伊拉克戰爭中證明了它的實用性](https://zh.wikipedia.org/wiki/伊拉克戰爭 "wikilink")。截至卡曼契計劃中止，美國軍方已投入了大約80億美元的經費，而且還必須額外支付主要計畫的合作廠商塞考斯基和波音整合防衛系統部門（Boeing Integrated Defense Systems）一筆大約4.5至6.8億美元的合約中止費。
 
 因卡曼契而發展出的技術，將會整合進阿帕契以及其他的美軍直升機開發。而它擔任的工作將由現有的武裝偵查直升機－貝爾[ARH-70取代](https://zh.wikipedia.org/wiki/ARH-70 "wikilink")。
 

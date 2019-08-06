@@ -81,7 +81,7 @@
   - [1年777組](../Page/1年777組.md "wikilink")
   - [上海妖魔鬼怪](https://zh.wikipedia.org/wiki/上海妖魔鬼怪 "wikilink")
   - [鐵道娘](https://zh.wikipedia.org/wiki/鐵道娘 "wikilink")
-  - [幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")（動畫化以前發售的廣播劇CD與收錄『[らき☆すた 萌えドリル](https://zh.wikipedia.org/wiki/らき☆すた_萌えドリル "wikilink")』主題歌的[ミニアルバム](https://zh.wikipedia.org/wiki/『らき☆すた』vocal_mini_album "wikilink")）
+  - [幸運☆星](../Page/幸運☆星.md "wikilink")（動畫化以前發售的廣播劇CD與收錄『[らき☆すた 萌えドリル](https://zh.wikipedia.org/wiki/らき☆すた_萌えドリル "wikilink")』主題歌的[ミニアルバム](https://zh.wikipedia.org/wiki/『らき☆すた』vocal_mini_album "wikilink")）
 
 ### 動畫相關CD
 

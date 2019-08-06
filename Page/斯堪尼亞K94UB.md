@@ -1,6 +1,6 @@
 [Scania_K94UB.jpg](https://zh.wikipedia.org/wiki/File:Scania_K94UB.jpg "fig:Scania_K94UB.jpg")\]\] [KJ1502-2800-71.jpg](https://zh.wikipedia.org/wiki/File:KJ1502-2800-71.jpg "fig:KJ1502-2800-71.jpg")唯一一輛斯堪尼亞K94UB在退役前一日行駛罕有地行駛線\]\]
 
-**斯堪尼亞K94UB**（；又稱：****）是[瑞典](../Page/瑞典.md "wikilink")[斯堪尼亞開發的一款低地台](https://zh.wikipedia.org/wiki/斯堪尼亞 "wikilink")[巴士](https://zh.wikipedia.org/wiki/巴士 "wikilink")，是的城市巴士[底盤](https://zh.wikipedia.org/wiki/底盤 "wikilink")，可供安裝單層或雙層巴士的車身，雙層巴士的版本只為[香港](../Page/香港.md "wikilink")[城巴](../Page/城巴.md "wikilink")製造了一輛\[1\]，城巴車隊編號為2800，於2001年投入服務，這輛巴士在2019年7月3日上午行走完特別線後退役，於退役前一日行駛及時亦有很多巴士迷歡送。
+**斯堪尼亞K94UB**（；又稱：****）是[瑞典](../Page/瑞典.md "wikilink")[斯堪尼亞開發的一款低地台](https://zh.wikipedia.org/wiki/斯堪尼亞 "wikilink")[巴士](https://zh.wikipedia.org/wiki/巴士 "wikilink")，是的城市巴士[底盤](https://zh.wikipedia.org/wiki/底盤 "wikilink")，可供安裝單層或雙層巴士的車身，雙層巴士的版本只為[香港](../Page/香港.md "wikilink")[城巴](../Page/城巴.md "wikilink")製造了一輛\[1\]，城巴車隊編號為2800，於2001年投入服務，經歷近18年的應用後，於2019年7月3日從城巴車隊退役。
 
 ## 背景
 
@@ -50,7 +50,7 @@ K94UB的車身由澳洲[Volgren供應](https://zh.wikipedia.org/wiki/Volgren "wi
 
 此車在投入服務初期主要行駛[10](../Page/城巴10線.md "wikilink")，亦有服務[5B](../Page/城巴5B線.md "wikilink")，其後不定期行駛[8X](https://zh.wikipedia.org/wiki/城巴8X線 "wikilink")、[118](../Page/過海隧道巴士118線.md "wikilink")、[681](https://zh.wikipedia.org/wiki/過海隧道巴士681線 "wikilink")、[788和](../Page/城巴788線.md "wikilink")[789等路線](../Page/城巴789線.md "wikilink")。香港在2015年12月31日設立「專營巴士低排放區」，實施範圍包括在中環、銅鑼灣及旺角的部分道路，要求途經低排放區的專營巴士路線，需使用達到歐盟四期以上排放標準的巴士，政府亦撥款資助專利巴士公司為排放水平未達標的巴士加裝[催化還原器](https://zh.wikipedia.org/wiki/催化還原器 "wikilink")，使歐盟二期及三期的巴士排放水平提升至接近歐盟四期的標準。由於安裝催化還原器需要加裝[尿素](../Page/尿素.md "wikilink")貯存槽、注入口及相關管道，涉及對車身的修改，雖然政府願意分擔加裝催化裝置的費用，但香港只有城巴一輛K94UB，與[富豪超級奧林比安和](https://zh.wikipedia.org/wiki/富豪超級奧林比安 "wikilink")[丹尼士三叉戟三型](../Page/丹尼士三叉戟三型.md "wikilink")有大量同型車可批量改裝攤薄成本相比，單獨為一輛K94UB進行改裝並不符合成本效益，所以城巴沒有為此車加裝催化還原器，因此需要撤出途經低排放區的巴士路線。此車在2001年剛加入城巴車隊時憑其歐盟三期規格，成為香港當時最環保巴士之一，但隨著2015年前後，只達歐盟一期及歐盟二期的[富豪奧林比安](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")、[丹尼士巨龍和早期的](https://zh.wikipedia.org/wiki/丹尼士巨龍 "wikilink")[丹尼士三叉戟三型](../Page/丹尼士三叉戟三型.md "wikilink")紛紛退役，此車由2017年上旬起，一度成為城巴專利車隊中唯一不能駛入專營巴士低排放區的巴士。
 
-此車從2016年起，主要不定期行駛[8X](https://zh.wikipedia.org/wiki/城巴8X線 "wikilink")、[606](../Page/過海隧道巴士606線.md "wikilink")、[606X和](../Page/過海隧道巴士606線.md "wikilink")[789](../Page/城巴789線.md "wikilink")。[超強颱風山竹在](../Page/颱風山竹_\(2018年\).md "wikilink")2018年9月16日吹襲香港期間此車在城巴柴灣車廠停泊，車頭擋風玻璃在強風下被吹脫但沒有破裂，經修理後復駛。由於香港專營巴士設有18年的使用年限（經運輸署核准之特殊情況除外），於2001年12月作車輛登記的此車，其使用年限將於2019年年底屆滿，需要退出城巴專利車隊。最後巴士已在2019年7月3日因行車證到期後退出，象徵採用毛紋座椅巴士已經全數退役，以及所有以2千位數字的専利車隊已各自退出營運。
+此車從2016年起，主要不定期行駛[8X](https://zh.wikipedia.org/wiki/城巴8X線 "wikilink")、[606](../Page/過海隧道巴士606線.md "wikilink")、[606X和](../Page/過海隧道巴士606線.md "wikilink")[789](../Page/城巴789線.md "wikilink")。[超強颱風山竹在](../Page/颱風山竹_\(2018年\).md "wikilink")2018年9月16日吹襲香港期間此車在城巴柴灣車廠停泊，車頭擋風玻璃在強風下被吹脫但沒有破裂，經修理後復駛。由於香港專營巴士設有18年的使用年限（經運輸署核准之特殊情況除外），於2001年12月作車輛登記的此車，其使用年限將於2019年年底屆滿，需要退出城巴專利車隊。此車於2019年7月3日因行車證到期，在當日上午行走完特別線後退役，在退役前一天行駛及時亦有很多巴士迷專程歡送。此車的退役象徵城巴採用毛紋座椅的巴士已經全數退役，以及車隊編號以2千位數字開頭的巴士都已退出城巴専利車隊。
 
 ## 後繼車型
 

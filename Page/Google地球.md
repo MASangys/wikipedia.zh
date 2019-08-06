@@ -44,7 +44,7 @@ Google地球使用了[公共領域的圖片](https://zh.wikipedia.org/wiki/公�
 <li><a href="../Page/挪威语.md" title="wikilink">挪威语</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/波兰语" title="wikilink">波兰语</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/葡萄牙语" title="wikilink">葡萄牙语</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/巴西葡萄牙语" title="wikilink">巴西葡萄牙语</a></li>
+<li><a href="../Page/巴西葡萄牙语.md" title="wikilink">巴西葡萄牙语</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/俄语" title="wikilink">俄语</a></li>

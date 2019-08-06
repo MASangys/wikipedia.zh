@@ -1,6 +1,6 @@
 [PopCorn2_Void_201408.jpg](https://zh.wikipedia.org/wiki/File:PopCorn2_Void_201408.jpg "fig:PopCorn2_Void_201408.jpg") [The_Edge_Enterance_Void_2011.jpg](https://zh.wikipedia.org/wiki/File:The_Edge_Enterance_Void_2011.jpg "fig:The_Edge_Enterance_Void_2011.jpg") [CookedDeli_by_citysuper_in_TKO_The_Edge_20130530.jpg](https://zh.wikipedia.org/wiki/File:CookedDeli_by_citysuper_in_TKO_The_Edge_20130530.jpg "fig:CookedDeli_by_citysuper_in_TKO_The_Edge_20130530.jpg") [PopCorn_2.jpg](https://zh.wikipedia.org/wiki/File:PopCorn_2.jpg "fig:PopCorn_2.jpg") [PopCorn_2_Level_1.jpg](https://zh.wikipedia.org/wiki/File:PopCorn_2_Level_1.jpg "fig:PopCorn_2_Level_1.jpg") [The_Edge_Shopping_Arcade_Void_View_2011.jpg](https://zh.wikipedia.org/wiki/File:The_Edge_Shopping_Arcade_Void_View_2011.jpg "fig:The_Edge_Shopping_Arcade_Void_View_2011.jpg") [The_Edge_Level_1_Access_201112.jpg](https://zh.wikipedia.org/wiki/File:The_Edge_Level_1_Access_201112.jpg "fig:The_Edge_Level_1_Access_201112.jpg")
 
-**PopCorn 2**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[西貢區](../Page/西貢區.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")[君傲灣](../Page/君傲灣.md "wikilink")基座，為[PopCorn](../Page/PopCorn.md "wikilink")第2期商場，佔地約18萬呎，提供60多間商舖，於2006年10月開業，由港鐵公司管理。\[1\]商場前稱為**君薈坊**，於2013年6月22日起正式更名為PopCorn 2，並於同年10月進行翻新，工程已在2014年中完成，情況類同[荃灣](../Page/荃灣.md "wikilink")[如心廣場](../Page/如心廣場.md "wikilink")商場及[元朗](../Page/元朗.md "wikilink")[形點](https://zh.wikipedia.org/wiki/形點 "wikilink")。
+**PopCorn 2**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[西貢區](../Page/西貢區.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")[君傲灣](../Page/君傲灣.md "wikilink")基座，為[PopCorn](../Page/PopCorn.md "wikilink")第2期商場，佔地約18萬呎，提供60多間商舖，於2006年10月開業，由港鐵公司管理。\[1\]商場前稱為**君薈坊**（），於2013年6月22日起正式更名為PopCorn 2，並於同年10月進行翻新，工程已在2014年中完成，情況類同[荃灣](../Page/荃灣.md "wikilink")[如心廣場](../Page/如心廣場.md "wikilink")商場及[元朗](../Page/元朗.md "wikilink")[形點](https://zh.wikipedia.org/wiki/形點 "wikilink")。
 
 ## 租戶
 
@@ -47,6 +47,6 @@
   - [PopCorn官方網站](http://www.popcorntko.com.hk)
   - [PopCorn 官方facebook 專頁](http://www.facebook.com/PopCornTKO)
 
-[Category:港鐵公司物業](https://zh.wikipedia.org/wiki/Category:港鐵公司物業 "wikilink") [Category:尚德](https://zh.wikipedia.org/wiki/Category:尚德 "wikilink") [Category:西貢區商場](https://zh.wikipedia.org/wiki/Category:西貢區商場 "wikilink")
+[Category:尚德](https://zh.wikipedia.org/wiki/Category:尚德 "wikilink") [Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink") [Category:西貢區](https://zh.wikipedia.org/wiki/Category:西貢區 "wikilink") [Category:西貢區商場](https://zh.wikipedia.org/wiki/Category:西貢區商場 "wikilink") [Category:2006年完工建築物](https://zh.wikipedia.org/wiki/Category:2006年完工建築物 "wikilink") [Category:港鐵公司物業](https://zh.wikipedia.org/wiki/Category:港鐵公司物業 "wikilink")
 
 1.

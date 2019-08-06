@@ -62,7 +62,7 @@
 | 《[布布恰恰](../Page/布布恰恰.md "wikilink")》                                                                           |
 | 《[今日大魔王](https://zh.wikipedia.org/wiki/魔之系列#電視動畫 "wikilink")》（第一、二季）※雙語播出                                      |
 | 《[洛克人EXE](https://zh.wikipedia.org/wiki/洛克人EXE "wikilink")》                                                    |
-| 《》                                                                                                             |
+| 《[蜜糖邦尼](../Page/蜜糖邦尼.md "wikilink")》                                                                           |
 | 《[Hello Kitty蘋果森林幻想曲](https://zh.wikipedia.org/wiki/Hello_Kitty蘋果森林幻想曲 "wikilink")》                            |
 | 《[愛你寶貝](../Page/愛你寶貝.md "wikilink")》                                                                           |
 | 《[棒球大聯盟](https://zh.wikipedia.org/wiki/棒球大聯盟 "wikilink")》（第一季）                                                 |
@@ -162,7 +162,7 @@
 | 《》                                                                              |
 | 《[小小冒險王](https://zh.wikipedia.org/wiki/小小冒險王 "wikilink")》                       |
 | 《[蟲蟲的異想世界](https://zh.wikipedia.org/wiki/蟲蟲的異想世界 "wikilink")》                   |
-| 《》                                                                              |
+| 《[淘氣三胞胎](https://zh.wikipedia.org/wiki/淘氣三胞胎 "wikilink")》                       |
 | 《》                                                                              |
 | 《[諾弟樂園](https://zh.wikipedia.org/wiki/諾弟樂園 "wikilink")》                         |
 | 《[建築師巴布](../Page/建築師巴布.md "wikilink")》                                          |

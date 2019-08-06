@@ -16,7 +16,7 @@
 <td><p><strong>高彥博</strong></p></td>
 <td><p><strong>Tim Sir、阿博、Tim</strong><br />
 高級化驗師<br />
-楊逸昇、林汀汀、莫淑媛等之上司<br />
+楊逸昇、汀汀、莫淑媛等之上司<br />
 林沛沛之舊情人<br />
 古澤琛之前姊夫<br />
 古澤瑤之前夫<br />
@@ -76,7 +76,7 @@
 林沛沛之妹<br />
 古澤琛之妻<br />
 許立仁之小姨<br />
-於第4集被炸彈炸至重傷，搶救後最終身亡</p></td>
+於第4集与古澤琛结婚 于第11集出国 于第28集回港 于第29集被卓岚杀害</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a></p></td>
@@ -1826,6 +1826,7 @@ David Leung之顧客<br />
 
   - [TVB.com 法證先鋒II](https://web.archive.org/web/20080722032050/http://tvcity.tvb.com/drama/forensicheroes2/)
   - [《法證先鋒II》 GOTV 第1集重溫](https://web.archive.org/web/20140222160321/http://gotv.tvb.com/programme/103131/156477/)
+  - [法證先鋒II - myTV SUPER](https://programme.mytvsuper.com/tc/101416/法證先鋒ii)
 
 ## 電視節目的變遷
 

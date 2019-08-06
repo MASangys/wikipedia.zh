@@ -15,6 +15,7 @@
 ## 虛擬碼
 
 ``` matlab
+//Matlab語言
  function A*(start,goal)
      closedset := the empty set                 //已经被估算的節點集合
      openset := set containing the initial node //將要被估算的節點集合，初始只包含start

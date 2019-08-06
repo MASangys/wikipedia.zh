@@ -320,7 +320,7 @@ Perfume在6月20日的上憑著全球官方網站計劃「Perfume GLOBAL SITE PR
 
 12月31日，Perfume連續第十年登上紅白歌合戰，演唱《TOKYO GIRL》。
 
-### 2018 - 2019年:專輯《Future Pop》及海外巡演
+### 2018 - 2019年:專輯《Future Pop》巡演&海外巡演 及精選輯 《P Cubed》
 
 2018年2月14日- 5月24日，在全國9個地點舉行了11場歌迷俱樂部會員限定巡回演唱会。\[194\]
 
@@ -680,8 +680,8 @@ Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.
 <table>
 <thead>
 <tr class="header">
-<th><p><a href="../Page/商業搭配.md" title="wikilink">商業搭配</a>歌曲名稱</p></th>
-<th><p>搭配商品或節目</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/歌曲名稱" title="wikilink">歌曲名稱</a></p></th>
+<th><p>電視節目 &amp; 廣告曲</p></th>
 <th><p>收錄專輯</p></th>
 </tr>
 </thead>
@@ -968,7 +968,7 @@ Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.
 </tr>
 <tr class="odd">
 <td><p>FLASH</p></td>
-<td><p>電影「<a href="../Page/花牌情緣_(電影).md" title="wikilink">花牌情緣</a> 上之句」及「花牌情緣 下之句」主題曲</p></td>
+<td><p>(2016年 4月 6日)、 電影《<a href="../Page/花牌情緣_(電影).md" title="wikilink">花牌情緣</a> 上之句」及「花牌情緣 下之句」》主題曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -978,7 +978,7 @@ Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.
 </tr>
 <tr class="odd">
 <td><p>TOKYO GIRL</p></td>
-<td><p><a href="../Page/日本電視台週三連續劇.md" title="wikilink">日本電視台週三連續劇</a>《<a href="https://zh.wikipedia.org/wiki/東京妄想女子" title="wikilink">東京妄想女子</a>》主題曲</p></td>
+<td><p>(2017年2月15日)、 電視劇 《<a href="https://zh.wikipedia.org/wiki/東京妄想女子" title="wikilink">東京妄想女子</a>》主題曲 <a href="../Page/日本電視台週三連續劇.md" title="wikilink">日本電視台週三連續劇</a></p></td>
 <td><p><a href="../Page/TOKYO_GIRL.md" title="wikilink">TOKYO GIRL</a></p></td>
 </tr>
 <tr class="even">
@@ -1018,12 +1018,12 @@ Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.
 </tr>
 <tr class="odd">
 <td><p>Tiny Baby</p></td>
-<td><p>電影《<a href="../Page/鬼靈精_(2018年電影).md" title="wikilink">鬼靈精</a>》日版插入曲</p></td>
+<td><p>(2018年) 電影《<a href="../Page/鬼靈精.md" title="wikilink">鬼靈精</a>》日版插入曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ナナナナナイロ</p></td>
-<td><p>肌美精廣告曲</p></td>
+<td><p>(2019年7月6日) .肌美精廣告曲 《台灣取景拍攝 .高雄六合夜市 .平溪天燈 .》</p></td>
 <td></td>
 </tr>
 <tr class="odd">

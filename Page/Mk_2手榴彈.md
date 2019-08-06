@@ -1,4 +1,4 @@
-**Mk 2手榴彈**（或寫作**Mk II**）是一種反人員破片手榴彈，[美軍於](https://zh.wikipedia.org/wiki/美軍 "wikilink")1918年導入，用以取代[Mk 1手榴彈](https://zh.wikipedia.org/wiki/Mk_1手榴彈 "wikilink")，在[二戰](https://zh.wikipedia.org/wiki/二戰 "wikilink")、[韓戰至](https://zh.wikipedia.org/wiki/韓戰 "wikilink")[越戰中所使用](https://zh.wikipedia.org/wiki/越戰 "wikilink")。由於外型相似鳳梨又名**鳳梨手榴彈**，因保险片的形状被称为“鸭嘴手榴弹”，因外观被称为“卵形手榴弹”、“鳳梨手榴弹”或“癞瓜手榴弹”。美軍之後以[M26系列](../Page/M26手榴彈.md "wikilink")（M26/M61/M57）及[M33系列](../Page/M67手榴彈.md "wikilink")（M33/M67）取代Mk 2。
+**Mk 2手榴彈**（或寫作**Mk II**）是一種反人員破片手榴彈，[美軍於](https://zh.wikipedia.org/wiki/美軍 "wikilink")1918年導入，用以取代[Mk 1手榴彈](https://zh.wikipedia.org/wiki/Mk_1手榴彈 "wikilink")，在[二戰](https://zh.wikipedia.org/wiki/二戰 "wikilink")、[韓戰至](https://zh.wikipedia.org/wiki/韓戰 "wikilink")[越戰中所使用](https://zh.wikipedia.org/wiki/越戰 "wikilink")。由於外型相似鳳梨又名**鳳梨手榴彈**或「菠蘿」，因保险片的形状被称为「鸭嘴手榴彈」，因外观被称为「卵形手榴彈」、「鳳梨手榴彈」、「癞瓜手榴彈」或「菠蘿」。美軍之後以[M26系列](../Page/M26手榴彈.md "wikilink")（M26/M61/M57）及[M33系列](../Page/M67手榴彈.md "wikilink")（M33/M67）取代Mk 2。
 
 ## 設計及型號
 

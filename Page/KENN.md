@@ -197,6 +197,8 @@
   - [琴之森 第二季](https://zh.wikipedia.org/wiki/琴之森 "wikilink")（雷弗·席曼諾夫斯基）
   - [JoJo的奇妙冒險 黃金之風](../Page/JoJo的奇妙冒險_\(電視動畫\).md "wikilink")（賽可）
   - [籃球少年王](../Page/籃球少年王.md "wikilink")（**茶木正廣**\[2\]）
+  - [在地下城尋求邂逅是否搞錯了什麼 第二季](https://zh.wikipedia.org/wiki/在地下城尋求邂逅是否搞錯了什麼 "wikilink")（雅辛托斯·克利俄）
+  - [TRY KNIGHTS 達陣騎士](https://zh.wikipedia.org/wiki/TRY_KNIGHTS_達陣騎士 "wikilink")（**狩矢光**）
 
 ### OVA
 
@@ -261,6 +263,12 @@
 <!-- end list -->
 
   - [剧场版 黑執事 Book of the Atlantic](../Page/黑執事.md "wikilink") 豪華客船篇（**羅納德·諾克斯**）
+
+### 網路動畫
+
+**2019年**
+
+  - [SD高达世界 三国创杰传](https://zh.wikipedia.org/wiki/SD高达世界_三国创杰传 "wikilink")（**张飞神高达**）
 
 ### 遊戲
 

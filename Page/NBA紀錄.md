@@ -397,7 +397,7 @@
 <tr class="odd">
 <td><p>最多三分球投射</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/詹姆斯·哈登" title="wikilink">詹姆斯·哈登</a></p></td>
-<td><p>890球</p></td>
+<td><p>956球</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19 NBA賽季</a></p></td>
 </tr>
 <tr class="even">
@@ -586,6 +586,12 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/2015-16_NBA賽季" title="wikilink">2015-16 NBA賽季</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>單一賽季最快達成150顆三分球</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/斯蒂芬·库里" title="wikilink">斯蒂芬·库里</a></p></td>
+<td><p>30場</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19 NBA賽季</a></p></td>
+</tr>
+<tr class="even">
 <td><p>單一賽季中拿下得分王但場均上場時間在35分鐘以下</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/拉塞尔·威斯布鲁克" title="wikilink">拉塞尔·威斯布鲁克</a><br />
 <a href="https://zh.wikipedia.org/wiki/斯蒂芬·库里" title="wikilink">斯蒂芬·库里</a><br />
@@ -597,13 +603,13 @@
 <a href="https://zh.wikipedia.org/wiki/2015-16_NBA賽季" title="wikilink">2015-16 NBA賽季</a><br />
 <a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17 NBA賽季</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>單一賽季同隊最多人單場比賽50分以上</p></td>
 <td><p>洛杉磯湖人 金洲勇士</p></td>
 <td><p><a href="../Page/埃尔金·贝勒.md" title="wikilink">艾爾金·貝勒</a>、<a href="https://zh.wikipedia.org/wiki/杰里·韦斯特" title="wikilink">傑瑞·衛斯特</a>、<a href="../Page/鲁迪·拉鲁索.md" title="wikilink">魯迪·拉魯索</a> <a href="https://zh.wikipedia.org/wiki/斯蒂芬·库里" title="wikilink">斯蒂芬·库里</a>、<a href="../Page/克雷·湯普森.md" title="wikilink">克雷·湯普森</a>、<a href="../Page/凯文·杜兰特.md" title="wikilink">凯文·杜兰特</a></p></td>
 <td><p>1961-62 NBA賽季</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>單一賽季內達成30+的大滿貫</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/詹姆斯·哈登" title="wikilink">詹姆斯·哈登</a></p></td>
 <td><p>29隊</p></td>
@@ -889,6 +895,12 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>最多50分大三元</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹姆士·哈登" title="wikilink">詹姆士·哈登</a></p></td>
+<td><p>5場</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>職業生涯累積分數12500分、7500個助攻和5500個籃板</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/奧斯卡·羅伯特森" title="wikilink">奧斯卡·羅伯特森</a><br />
 <a href="https://zh.wikipedia.org/wiki/魔術強森" title="wikilink">魔術強森</a><br />
@@ -896,19 +908,19 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>職業生涯累積分數12000分、10000個助攻和7500個籃板</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/賈森·基德" title="wikilink">賈森·基德</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>職業生涯累積分數20000分、5000個籃板、8000個助攻和2000次抢断</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/加里·佩頓" title="wikilink">加里·佩頓</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>職業生涯累積分數25000分、10000個籃板、3000個助攻和2000個盖帽</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒·賈巴爾" title="wikilink">卡里姆·阿卜杜勒·賈巴爾</a><br />
 <a href="https://zh.wikipedia.org/wiki/阿基姆·奥拉朱旺" title="wikilink">阿基姆·奥拉朱旺</a><br />
@@ -918,14 +930,14 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>職業生涯累積分數25000分、15000個籃板、4000個助攻、3000個盖帽、1000个抢断</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒·賈巴爾" title="wikilink">卡里姆·阿卜杜勒·賈巴爾</a><br />
 <a href="https://zh.wikipedia.org/wiki/蒂姆·邓肯" title="wikilink">蒂姆·邓肯</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -3055,8 +3067,8 @@
 <tr class="even">
 <td><p>單季最多三分球命中</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休士頓火箭" title="wikilink">休士頓火箭</a></p></td>
-<td><p>1083球（23.1%）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17 NBA賽季</a></p></td>
+<td><p>1256球（23.1%）</p></td>
+<td><p><a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18 NBA賽季</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>單季最多三分球出手</p></td>
@@ -3452,52 +3464,64 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17 NBA賽季</a></p></td>
 </tr>
 <tr class="even">
+<td><p>史上神奇大三雙</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/威爾特·張伯倫" title="wikilink">威爾特·張伯倫</a>，<a href="https://zh.wikipedia.org/wiki/拉塞尔·威斯布鲁克" title="wikilink">拉塞尔·威斯布鲁克</a></p></td>
+<td><p>22分.25籃板.21助攻，20分.21助攻.20籃板</p></td>
+<td><p><a href="../Page/1967-68_NBA賽季.md" title="wikilink">1967-68 NBA賽季</a>，<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19 NBA賽季</a></p></td>
+</tr>
+<tr class="odd">
 <td><p>最大冷門勝率比賽（至少出賽50場）</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a>&amp;<a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a></p></td>
 <td><p>0.917（55勝）vs. 0.190（12勝）--差0.727</p></td>
 <td><p>2016年3月6日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>對戰最高勝率和平均（至少出賽50場）</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a>&amp;<a href="https://zh.wikipedia.org/wiki/聖安東尼奧馬刺" title="wikilink">聖安東尼奧馬刺</a></p></td>
 <td><p>0.912（62勝）vs. 0.853（58勝）--平均0.882</p></td>
 <td><p>2016年3月19日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>對戰最大勝率差（至少出賽50場）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/費城76人" title="wikilink">費城76人</a>&amp;<a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>0.123（9勝）vs. 0.902（65勝）--相差0.779</p></td>
 <td><p>2016年3月27日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>季後賽連續2場都投進7記3分球</p></td>
 <td><p><a href="../Page/克雷·湯普森.md" title="wikilink">克雷·湯普森</a></p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>2016年</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>先發300戰235勝</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/科懷·倫納德" title="wikilink">科懷·倫納德</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聖安東尼奧馬刺" title="wikilink">聖安東尼奧馬刺</a></p></td>
 <td><p>2016年</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NBA.md" title="wikilink">NBA</a>30隊同一天都有比賽(一天有15場比賽)</p></td>
 <td></td>
 <td></td>
 <td><p>2016年11月25日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>總冠軍賽同隊同場比賽同時有兩位球員得分超過40分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/凱里·厄文" title="wikilink">凱里·厄文</a>、<a href="../Page/勒布朗·詹姆斯.md" title="wikilink">勒布朗·詹姆斯</a></p></td>
 <td><p>兩人皆為41分</p></td>
 <td><p>2016年6月14日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>簽約記錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/拉塞尔·威斯布鲁克" title="wikilink">拉塞尔·威斯布鲁克</a></p></td>
 <td><p>5年2億700萬美元(63.8億台幣)</p></td>
 <td><p>2018-2023</p></td>
+</tr>
+<tr class="odd">
+<td><p>單季轟29隊得分逾30分</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹姆斯·哈登" title="wikilink">詹姆斯·哈登</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19 NBA賽季</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

@@ -1,8 +1,8 @@
-**Metacritic**是一個專門收集對於[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")、[音樂專輯](../Page/音樂專輯.md "wikilink")、[遊戲的評論的](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[網站](../Page/網站.md "wikilink")，網站會整合每個評價的分數再做出一個總評分做為這個項目的評分，在項目的多項短評中，從最好的分數到最坏的分數由下排列，最好的評價分數是綠色到最低的評價分數的[黃色](https://zh.wikipedia.org/wiki/黃色 "wikilink")、[紅色排列](https://zh.wikipedia.org/wiki/紅色 "wikilink")。
+**Metacritic**是一個專門收集對於[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")、[音樂專輯](../Page/音樂專輯.md "wikilink")、[遊戲的評論的](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[網站](../Page/網站.md "wikilink")，網站會整合每個評價的分數再做出一個總評分作為這個項目的評分，在項目的多項短評中，從最好的分數到最坏的分數由下排列，最好的評價分數是綠色到最低的評價分數的[黃色](https://zh.wikipedia.org/wiki/黃色 "wikilink")、[紅色排列](https://zh.wikipedia.org/wiki/紅色 "wikilink")。
 
 ## 歷史
 
-Metacritic由馬克·道爾（Marc Doyle）、朱莉·道爾·羅伯茨（Julie Doyle Roberts）和詹森·迪茨（Jason Dietz）花費兩年時間创建，2001年1月上線\[1\]。2005年被[CNET](../Page/CNET.md "wikilink")收购，而現在它與CNET均位於[CBS公司](../Page/CBS公司.md "wikilink")旗下\[2\]。2010年8月網站改版，但受到用戶差評\[3\]\[4\]。
+Metacritic由馬克·道爾（Marc Doyle）、朱莉·道爾·羅伯茨（Julie Doyle Roberts）和詹森·迪茨（Jason Dietz）花費兩年時間创建，2001年1月上線\[1\]。2005年被[CNET](../Page/CNET.md "wikilink")收购，而現在它與CNET均位於[CBS公司](../Page/CBS公司.md "wikilink")旗下\[2\]。2010年8月網站改版。\[3\]\[4\]。
 
 ## 各項高分
 

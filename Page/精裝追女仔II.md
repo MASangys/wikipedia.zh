@@ -10,7 +10,7 @@
 | -------------------------------------------------------- | ----------- | --------------------------------------------------- |
 | [劉德華](../Page/劉德華.md "wikilink")                         | 劉備          | [劉德華](../Page/劉德華.md "wikilink")                    |
 | [陳百祥](../Page/陳百祥.md "wikilink")                         | 交通燈         | 陳百祥                                                 |
-| [曾志偉](../Page/曾志偉.md "wikilink")                         | 吳準少         | [馮永和](https://zh.wikipedia.org/wiki/馮永和 "wikilink") |
+| [曾志偉](../Page/曾志偉.md "wikilink")                         | 吳準少         | [馮永和](../Page/馮永和.md "wikilink")                    |
 | [馮粹帆](https://zh.wikipedia.org/wiki/馮粹帆 "wikilink")      | 劉定堅/陳自堅     | 馮粹帆                                                 |
 | [李美鳳](../Page/李美鳳.md "wikilink")                         | 程寶珠         | [盧素娟](../Page/盧素娟.md "wikilink")                    |
 | [劉嘉玲](https://zh.wikipedia.org/wiki/劉嘉玲 "wikilink")      | 芳芳          | [龍寶鈿](../Page/龍寶鈿.md "wikilink")                    |

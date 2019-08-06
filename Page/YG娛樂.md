@@ -337,10 +337,10 @@ Ella Gross(模特儿）
   - [瑞淵](https://zh.wikipedia.org/wiki/李瑞淵 "wikilink")（[fromis_9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")）
   - [美延](https://zh.wikipedia.org/wiki/曹美延 "wikilink")（[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")）
   - [Jun. K](https://zh.wikipedia.org/wiki/金閔俊 "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）
-  - [周藝軒](../Page/周藝軒.md "wikilink")（[UNIQ](../Page/UNIQ.md "wikilink")、《[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")》、[新風暴](../Page/新風暴.md "wikilink")）
+  - [周藝軒](../Page/周藝軒.md "wikilink")（[UNIQ](../Page/UNIQ.md "wikilink")、[新風暴](../Page/新風暴.md "wikilink")）
   - [金聖柱](../Page/金聖柱.md "wikilink")（[UNIQ](../Page/UNIQ.md "wikilink")）
-  - [李汶翰](../Page/李汶翰.md "wikilink")（[UNIQ](../Page/UNIQ.md "wikilink")、《[青春有你](../Page/青春有你.md "wikilink")》、[UNINE](../Page/UNINE.md "wikilink")）
-  - [曹承衍](../Page/曹承衍.md "wikilink")（[UNIQ](../Page/UNIQ.md "wikilink")、[X1](../Page/X1_\(組合\).md "wikilink")、《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
+  - [李汶翰](../Page/李汶翰.md "wikilink")（[UNIQ](../Page/UNIQ.md "wikilink")、[UNINE](../Page/UNINE.md "wikilink")）
+  - [曹承衍](../Page/曹承衍.md "wikilink")（[UNIQ](../Page/UNIQ.md "wikilink")、[X1](../Page/X1_\(組合\).md "wikilink")）
   - [王一博](https://zh.wikipedia.org/wiki/王一博 "wikilink")（[UNIQ](../Page/UNIQ.md "wikilink")）
   - [洪碩](https://zh.wikipedia.org/wiki/梁洪硕 "wikilink")（[PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")）
   - [Wow](https://zh.wikipedia.org/wiki/金世潤 "wikilink")（[A.C.E](https://zh.wikipedia.org/wiki/A.C.E "wikilink")）
@@ -363,7 +363,7 @@ Ella Gross(模特儿）
   - [柳珠伊](../Page/Cosmic_Girl.md "wikilink")\[50\]
   - [金保亨](../Page/金保亨.md "wikilink")
   - [金常彬](https://zh.wikipedia.org/wiki/金常彬 "wikilink")
-  - YOUNG-G（[2017快乐男声](https://zh.wikipedia.org/wiki/2017快乐男声 "wikilink")）
+  - YOUNG-G（《[2017快乐男声](https://zh.wikipedia.org/wiki/2017快乐男声 "wikilink")》）
 
 <!-- end list -->
 
@@ -396,6 +396,8 @@ Ella Gross(模特儿）
       - 吉道煥
       - Kotaro
       - Keita
+  - 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》
+      - 金施勳
 
 <!-- end list -->
 

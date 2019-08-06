@@ -15,7 +15,7 @@
 | 7      | [Ə ə](../Page/Ə.md "wikilink")                          | ﺋﻪ           | Ä ä    | Ә ә        |
 | 8      | [F f](../Page/F.md "wikilink")                          | ﻑ            | F f    | Ф ф        |
 | 9      | [G g](https://zh.wikipedia.org/wiki/G "wikilink")       | ﮒ            | G g    | Г г (гь)   |
-| 10     | [{{unicode](https://zh.wikipedia.org/wiki/Ƣ "wikilink") | ﻉ            | Ğ ğ    | Г г (гъ)   |
+| 10     | [{{unicode](../Page/Ƣ.md "wikilink")                    | ﻉ            | Ğ ğ    | Г г (гъ)   |
 | 11     | [H h](../Page/H.md "wikilink")                          | ﻩ            | H h    | Һ һ        |
 | 12     | [I i](../Page/I.md "wikilink")                          | ﻴﺋ           | İ i    | И и        |
 | 13     | [J j](../Page/J.md "wikilink")                          | ﻯ            | Y y    | Й й        |

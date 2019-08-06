@@ -209,7 +209,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/久間田琳加" title="wikilink">久間田琳加</a></p></td>
 <td><p>2017年9月號 -</p></td>
-<td><p>0</p></td>
+<td><p>1</p></td>
 <td><p>原為《nicola》專屬模特兒</p></td>
 </tr>
 <tr class="odd">

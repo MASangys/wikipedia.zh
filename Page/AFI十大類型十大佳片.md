@@ -176,7 +176,7 @@
 | 名次 | 電影                                                                 | 年份    |
 | -- | ------------------------------------------------------------------ | ----- |
 | 1  | [阿拉伯的勞倫斯](https://zh.wikipedia.org/wiki/阿拉伯的勞倫斯_\(電影\) "wikilink") | 1962年 |
-| 2  | [賓漢](../Page/賓漢.md "wikilink")                                     | 1959年 |
+| 2  | [宾虚](https://zh.wikipedia.org/wiki/宾虚 "wikilink")                  | 1959年 |
 | 3  | [辛德勒的名單](https://zh.wikipedia.org/wiki/辛德勒的名單 "wikilink")          | 1993年 |
 | 4  | [亂世佳人](https://zh.wikipedia.org/wiki/亂世佳人 "wikilink")              | 1939年 |
 | 5  | [斯巴达克斯](https://zh.wikipedia.org/wiki/斯巴达克斯_\(电影\) "wikilink")     | 1960年 |

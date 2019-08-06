@@ -118,7 +118,7 @@ SAR-MTI系統於X-波段操作並提供以下幾種模式：
 
   - [Global Hawk unmanned aircraft system on google earth](http://imagery-intelligence.com/index.php?p=2_8/)
   - [U-2偵察機](../Page/U-2偵察機.md "wikilink")
-  - [無人機](https://zh.wikipedia.org/wiki/無人機 "wikilink")
+  - [無人機](../Page/無人機.md "wikilink")
   - [神經元無人作戰飛機](https://zh.wikipedia.org/wiki/歐洲無人機 "wikilink")
   - [無人駕駛作戰飛機](https://zh.wikipedia.org/wiki/無人駕駛作戰飛機 "wikilink")（UCAV）
   - [非載人太空船](https://zh.wikipedia.org/wiki/非载人宇宙飛船 "wikilink")（USM）

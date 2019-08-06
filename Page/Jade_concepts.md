@@ -30,8 +30,27 @@
 
 #### 八月花 (Jasmine)
 
-  - [九龍塘](../Page/九龍塘.md "wikilink")[又一城](../Page/又一城.md "wikilink")（可筵開16席）
+  - [九龍塘](../Page/九龍塘.md "wikilink")[又一城](../Page/又一城.md "wikilink")（可筵開18席）
       - 2005年12月，「八月花」開業，為第一間[m.a.x. concepts中菜](https://zh.wikipedia.org/wiki/m.a.x._concepts "wikilink")，由[Hernan Zanghellini以](https://zh.wikipedia.org/wiki/Hernan_Zanghellini "wikilink")「Modern China」為題設計室內空間，不論裝修、食品在香港中菜市場皆耳目一新。
+
+<!-- end list -->
+
+  - [旺角](../Page/旺角.md "wikilink")[朗豪坊](../Page/朗豪坊.md "wikilink")（可筵開25席）
+      - 由八月軒改成。
+
+<!-- end list -->
+
+  - [沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[新城市中央廣場](../Page/新城市中央廣場.md "wikilink")1樓117號舖（可筵開16席）
+      - 由八月改成
+
+<!-- end list -->
+
+  - [屯門](../Page/屯門.md "wikilink")[V city商場MTR層M](../Page/V_city.md "wikilink")-50號舖（可筵開18席）
+      - 由八月改成
+
+<!-- end list -->
+
+  - [東涌](https://zh.wikipedia.org/wiki/東涌 "wikilink")[東薈城](../Page/東薈城.md "wikilink")名店倉2樓及3樓255及301號舖
 
 #### 八月居 (House of Jasmine)
 
@@ -46,19 +65,19 @@
 #### 八月軒 (Jasmine Garden)
 
   - [旺角](../Page/旺角.md "wikilink")[朗豪坊](../Page/朗豪坊.md "wikilink")（可筵開16席）
-      - 2011年5月開業。
+      - 2011年5月開業，改為八月花
 
 [Jasmine_Garden_Tuen_Mun_V_city_201808.jpg](https://zh.wikipedia.org/wiki/File:Jasmine_Garden_Tuen_Mun_V_city_201808.jpg "fig:Jasmine_Garden_Tuen_Mun_V_city_201808.jpg")[V City分店](https://zh.wikipedia.org/wiki/V_City "wikilink")\]\]
 
 #### 八月 (Jasmine Garden)
 
   - [屯門](../Page/屯門.md "wikilink")[V City](https://zh.wikipedia.org/wiki/V_City "wikilink")（可筵開18席）
-      - 2013年8月開業。
+      - 2013年8月開業，改為八月花
 
 <!-- end list -->
 
   - [沙田](https://zh.wikipedia.org/wiki/沙田 "wikilink")[新城市中央廣場](../Page/新城市中央廣場.md "wikilink")（可筵開18席）
-      - 2015年1月開業。
+      - 2014年12月27日開業，改為八月花
 
 #### 八月小品
 

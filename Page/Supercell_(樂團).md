@@ -210,6 +210,16 @@ CD+DVD：SRCL-8812 ～ SRCL-8813</p></td>
 <td><p>SRCL-8814</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Chelly" title="wikilink">Chelly</a></p></td>
 </tr>
+<tr class="odd">
+<td><p>10th</p></td>
+<td><p>2019年9月11日予定</p></td>
+<td><p><strong>#Love</strong></p></td>
+<td><p>完全生産限定盤：SRCL-11270 ～ SRCL-11272<br />
+初回生産限定盤A：SRCL-11273 ～ SRCL-11275<br />
+初回生産限定盤B：SRCL-11276 ～ SRCL-11278</p></td>
+<td><p>SRCL-11279</p></td>
+<td><p>未知</p></td>
+</tr>
 </tbody>
 </table>
 

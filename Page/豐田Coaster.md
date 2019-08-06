@@ -14,13 +14,13 @@
 
 ### 第二代－B20／B30系列（1982年－1992年）
 
-[Toyota_Coaster_003.JPG](https://zh.wikipedia.org/wiki/File:Toyota_Coaster_003.JPG "fig:Toyota_Coaster_003.JPG") 豐田於1982年對Coaster作出大幅度改良，最明顯之處為新車加設空氣調節系統，冷氣從藏於車底的空調系統送出，再經由隱藏管道將冷氣送到車頂兩側的冷氣槽，每列座位之上設有獨立送風口，乘客可自由調校風向及風量，大大提升乘坐舒適度；車身亦經過重新設計，其中車頭燈分別有四盞圓形或方形的設計；車門更可選擇手動或自動驅動模式；此版本亦成為[港澳台地區予以細分的](https://zh.wikipedia.org/wiki/港澳台 "wikilink")「第一型」（圓形頭燈）以及「第二型」（方形頭燈）Coaster。
+[替代=](https://zh.wikipedia.org/wiki/File:ToyotaCoaster_80s_SmallDestinationDisplay.jpg "fig:替代=") 豐田於1982年對Coaster作出大幅度改良，最明顯之處為新車加設空氣調節系統，冷氣從藏於車底的空調系統送出，再經由隱藏管道將冷氣送到車頂兩側的冷氣槽，每列座位之上設有獨立送風口，乘客可自由調校風向及風量，大大提升乘坐舒適度；車身亦經過重新設計，其中車頭燈分別有四盞圓形或方形的設計；車門更可選擇手動或自動驅動模式；此版本亦成為[港澳台地區予以細分的](https://zh.wikipedia.org/wiki/港澳台 "wikilink")「第一型」（圓形頭燈）以及「第二型」（方形頭燈）Coaster。
 
 1985年，豐田Coaster加上[全自動變速系統以及長](https://zh.wikipedia.org/wiki/自動變速器 "wikilink")[軸距版本供用家選擇](https://zh.wikipedia.org/wiki/軸距 "wikilink")。
 
 ### 第三代－B40／B50系列（1992年－2017年）
 
-[New_Territories_Minibus_Route_91.JPG](https://zh.wikipedia.org/wiki/File:New_Territories_Minibus_Route_91.JPG "fig:New_Territories_Minibus_Route_91.JPG") [替代=](https://zh.wikipedia.org/wiki/File:ToyotaCoaster_4th_turbo.jpg "fig:替代=") [替代=](https://zh.wikipedia.org/wiki/File:MinibusLF7527.jpg "fig:替代=") [缩略图](https://zh.wikipedia.org/wiki/File:MinibusLM3356,90M.jpg "fig:缩略图") [替代=](https://zh.wikipedia.org/wiki/File:MinibusDA9137,NT46M\(1\).jpg "fig:替代=")
+[New_Territories_Minibus_Route_91.JPG](https://zh.wikipedia.org/wiki/File:New_Territories_Minibus_Route_91.JPG "fig:New_Territories_Minibus_Route_91.JPG") [替代=](https://zh.wikipedia.org/wiki/File:ToyotaCoaster_4th_turbo.jpg "fig:替代=") [缩略图](https://zh.wikipedia.org/wiki/File:NA5131_Aberdeen_to_Mong_Kok_24-03-2019.jpg "fig:缩略图") [替代=](https://zh.wikipedia.org/wiki/File:MinibusDA9137,NT46M\(1\).jpg "fig:替代=")
 
   - 1992年12月，豐田再推出全新設計的Coaster。新系列分別有標準軸距的3200亳米以及長3935亳米兩種，並有16座位、20座位、26座位以及29座位等多種配搭可供選擇；另外車身亦捨棄以往方正的外觀，改用較圓渾的設計，並附設四盞圓形車頭燈；1997年出廠的16座位Coaster的開門桿設在變速桿左邊，原意是增加司機的活動空間，不過這設計劣評如潮，自此往後的16座位Coaster的開門桿設在變速桿右邊；此版本是為[港澳台地區稱呼的](https://zh.wikipedia.org/wiki/港澳台 "wikilink")「第三型」Coaster。
   - 1998年，豐田對Coaster作出改良，引擎因應平成10年氣體排放法規，更換成更環保的型號，車頭燈亦一併改為兩盞呈梯形的石英頭燈；是為[港澳台地區稱呼的](https://zh.wikipedia.org/wiki/港澳台 "wikilink")「第四型」Coaster。
@@ -33,7 +33,7 @@
 
 ### 第四代－B60／B70系列（2017年－）
 
-[替代=](https://zh.wikipedia.org/wiki/File:MinibusLJ9157,KL75.jpg "fig:替代=") 第四代豐田Coaster於2016年12月首度亮相，於2017年1月23日由日本首次正式發售。此版本是為[港澳台地區稱呼的](https://zh.wikipedia.org/wiki/港澳台 "wikilink")「第七型」Coaster。
+[替代=](https://zh.wikipedia.org/wiki/File:MinibusVG4532,CHRtoWTSroute.jpg "fig:替代=") 第四代豐田Coaster於2016年12月首度亮相，於2017年1月23日由日本首次正式發售。此版本是為[港澳台地區稱呼的](https://zh.wikipedia.org/wiki/港澳台 "wikilink")「第七型」Coaster。
 
 ## 銷售情況
 
@@ -51,7 +51,7 @@
 
 針對香港日益嚴重的空氣污染問題，[環保署與](https://zh.wikipedia.org/wiki/環保署 "wikilink")[運輸署](../Page/運輸署.md "wikilink")合作於2000年間推行「另類燃料小巴測試計劃」，旨在研究另類燃料小巴的可靠程度，從而逐步推行小巴另類燃料化，減低整體碳排放。參與是次計劃的小巴生產商共有四間，共派出15輛另類燃料小巴作為測試，其中包括8輛石油氣版本豐田Coaster。經過一連串測試，最終只有豐田Coaster成功通過所有測試，使其往後的「一哥」地位更為鞏固。
 
-<File:ToyotaCoaster> 80s SmallDestinationDisplay.jpg|1980年代生產的第一代Coaster小巴（BB23），車頭採用較細小的路線牌箱，故俗稱「細牌箱」。最後一輛同款小巴EC7798已於2010年2月退役。 <File:HK> Toyota 90s MiniBus.jpg|1990年至1992年生產的第二代Coaster小巴，改用較為易見的大型路線牌箱，故俗稱「大牌箱」。此款小巴的數目一直減少（2005年起更大量淘汰），最後一輛同款小巴車牌EK9319（於1990年登記）已於2011年11月正式退役。 <File:ToyotaCoaster> 3rd.jpg|豐田第三代Coaster小巴（BB42），1993年至1998年生產（在1995年至1998年推出的版本，改配歐盟一型引擎），車頭採用圓形頭燈設計，故俗稱「圓燈子彈頭」，在1993年至1994年推出的同款小巴數目已全數退役（2006年起更大量淘汰），而在1995年至1998年推出的版本的數目一直減少（2014年起更大量淘汰），最後一輛同款小巴車牌JG3977已於2018年6月除牌 <File:ToyotaCoaster> 4th turbo.jpg|豐田第四代Coaster小巴（BB43），1998年至2002年生產，車頭採用方形頭燈設計，故俗稱「方燈子彈頭」。此款小巴的數目一直減少（2016年起更大量淘汰）。 <File:NTMinibus40> LS9868.jpg|豐田第五代Coaster小巴(車型代號5LS/5LS2)，以石油氣作燃料，2002年至2007年生產，又稱「石仔」或「氣艇」。(1) [File:MinibusLM3356,90M.jpg|豐田第五代Coaster小巴(車型代號5LS/5LS2)，以石油氣作燃料，2002年至2007年生產，又稱「石仔」或「氣艇](File:MinibusLM3356,90M.jpg%7C豐田第五代Coaster小巴\(車型代號5LS/5LS2\)，以石油氣作燃料，2002年至2007年生產，又稱「石仔」或「氣艇)」。(2) [File:NWMinibus040.jpg|長陣版本石油氣Coaster小巴(車型代號5LL)，2003年至2005年及2007年期間生產（在2007年推出的版本，車頭設計經過改良](File:NWMinibus040.jpg%7C長陣版本石油氣Coaster小巴\(車型代號5LL\)，2003年至2005年及2007年期間生產（在2007年推出的版本，車頭設計經過改良)）。 [File:NWMinibus88D.jpg|長陣版本柴油Coaster小巴(車型代號5DL)，2003年至2007年期間生產（在2007年推出的版本，車頭設計經過改良，改配歐盟四型引擎](File:NWMinibus88D.jpg%7C長陣版本柴油Coaster小巴\(車型代號5DL\)，2003年至2007年期間生產（在2007年推出的版本，車頭設計經過改良，改配歐盟四型引擎)） <File:KX2407> Hong Kong Island 69 07-02-2018.jpg|豐田第五代豪華Coaster小巴(車型代號5EL)，車主為[進智公交](../Page/進智公交.md "wikilink")，在2002年期間生產。（此款車型於2018起逐步除牌退役） <File:HKIMinibus13> GU5363.jpg|豐田第六代的石油氣Coaster小巴(車型代號6LS)，頭幅設計經過改良，2007年起生產。此車車頭防撞杆為後期換上。 [File:MinibusRJ4617,CHRtoWTSroute.jpg|豐田第六代的柴油Coaster小巴(車型代號6DS)，頭幅設計經過改良，2007年起生產。此車車頭防撞杆為後期換上](File:MinibusRJ4617,CHRtoWTSroute.jpg%7C豐田第六代的柴油Coaster小巴\(車型代號6DS\)，頭幅設計經過改良，2007年起生產。此車車頭防撞杆為後期換上)。（在2010年底起推出的版本，改配歐盟五型引擎） <File:NTMinibus44A> UG0706.jpg|2015年起投入服務的豐田第6代柴油小巴(車型代號6DL)，採用較豪華的客車規格，車門是採用電動外趟門而非手動摺門，車窗方面採用黑色窗框，座椅亦較豪華，亦採用自動波箱。 [File:MinibusHZ5471,93A.jpg|2016年起投入服務的豐田第6代石油氣小巴(車型代號6LL)，採用較豪華的座椅](File:MinibusHZ5471,93A.jpg%7C2016年起投入服務的豐田第6代石油氣小巴\(車型代號6LL\)，採用較豪華的座椅)。 [File:MinibusVS7113,KL76B.jpg|2017年起投入服務的豐田第7代石油氣小巴(車型代號7LL)，設有19個座位及使用電子路線顯示器](File:MinibusVS7113,KL76B.jpg%7C2017年起投入服務的豐田第7代石油氣小巴\(車型代號7LL\)，設有19個座位及使用電子路線顯示器)。 [File:MinibusWF5752,NT313.jpg|2019年起投入服務的豐田第7代柴油小巴(車型代號7DL)，設有19個座位,裝上原廠座椅以及使用電子路線顯示器](File:MinibusWF5752,NT313.jpg%7C2019年起投入服務的豐田第7代柴油小巴\(車型代號7DL\)，設有19個座位,裝上原廠座椅以及使用電子路線顯示器)。
+<File:ToyotaCoaster> 80s SmallDestinationDisplay.jpg|1980年代生產的第一代Coaster小巴（BB23），車頭採用較細小的路線牌箱，故俗稱「細牌箱」。最後一輛同款小巴EC7798已於2010年2月退役。 <File:HK> Toyota 90s MiniBus.jpg|1990年至1992年生產的第二代Coaster小巴，改用較為易見的大型路線牌箱，故俗稱「大牌箱」。此款小巴的數目一直減少（2005年起更大量淘汰），最後一輛同款小巴車牌EK9319（於1990年登記）已於2011年11月正式退役。 <File:ToyotaCoaster> 3rd.jpg|豐田第三代Coaster小巴（BB42），1993年至1998年生產（在1995年至1998年推出的版本，改配歐盟一型引擎），車頭採用圓形頭燈設計，故俗稱「圓燈子彈頭」，在1993年至1994年推出的同款小巴數目已全數退役（2006年起更大量淘汰），而在1995年至1998年推出的版本的數目一直減少（2014年起更大量淘汰），最後一輛同款小巴車牌JG3977已於2018年6月除牌 <File:ToyotaCoaster> 4th turbo.jpg|豐田第四代Coaster小巴（BB43），1998年至2002年生產，車頭採用方形頭燈設計，故俗稱「方燈子彈頭」。此款小巴的數目一直減少（2016年起更大量淘汰）最後一輛同款小巴為速昇19M線的JU1613，於2018年11月7日除牌。 <File:NTMinibus40> LS9868.jpg|豐田第五代Coaster小巴(車型代號5LS/5LS2)，以石油氣作燃料，2002年至2007年生產，又稱「石仔」或「氣艇」。(1) [File:MinibusLM3356,90M.jpg|豐田第五代Coaster小巴(車型代號5LS/5LS2)，以石油氣作燃料，2002年至2007年生產，又稱「石仔」或「氣艇](File:MinibusLM3356,90M.jpg%7C豐田第五代Coaster小巴\(車型代號5LS/5LS2\)，以石油氣作燃料，2002年至2007年生產，又稱「石仔」或「氣艇)」。(2) [File:NWMinibus040.jpg|長陣版本石油氣Coaster小巴(車型代號5LL)，2003年至2005年及2007年期間生產（在2007年推出的版本，車頭設計經過改良](File:NWMinibus040.jpg%7C長陣版本石油氣Coaster小巴\(車型代號5LL\)，2003年至2005年及2007年期間生產（在2007年推出的版本，車頭設計經過改良)）。 [File:NWMinibus88D.jpg|長陣版本柴油Coaster小巴(車型代號5DL)，2003年至2007年期間生產（在2007年推出的版本，車頭設計經過改良，改配歐盟四型引擎](File:NWMinibus88D.jpg%7C長陣版本柴油Coaster小巴\(車型代號5DL\)，2003年至2007年期間生產（在2007年推出的版本，車頭設計經過改良，改配歐盟四型引擎)） <File:KX2407> Hong Kong Island 69 07-02-2018.jpg|豐田第五代豪華Coaster小巴(車型代號5EL)，車主為[進智公交](../Page/進智公交.md "wikilink")，在2002年期間生產。（此款車型於2018起逐步除牌退役） <File:HKIMinibus13> GU5363.jpg|豐田第六代的石油氣Coaster小巴(車型代號6LS)，頭幅設計經過改良，2007年起生產。此車車頭防撞杆為後期換上。 [File:MinibusRJ4617,CHRtoWTSroute.jpg|豐田第六代的柴油Coaster小巴(車型代號6DS)，頭幅設計經過改良，2007年起生產。此車車頭防撞杆為後期換上](File:MinibusRJ4617,CHRtoWTSroute.jpg%7C豐田第六代的柴油Coaster小巴\(車型代號6DS\)，頭幅設計經過改良，2007年起生產。此車車頭防撞杆為後期換上)。（在2010年底起推出的版本，改配歐盟五型引擎） <File:NTMinibus44A> UG0706.jpg|2015年起投入服務的豐田第6代柴油小巴(車型代號6DL)，採用較豪華的客車規格，車門是採用電動外趟門而非手動摺門，車窗方面採用黑色窗框，座椅亦較豪華，亦採用自動波箱。 [File:MinibusHZ5471,93A.jpg|2016年起投入服務的豐田第6代石油氣小巴(車型代號6LL)，採用較豪華的Vegaseat座椅](File:MinibusHZ5471,93A.jpg%7C2016年起投入服務的豐田第6代石油氣小巴\(車型代號6LL\)，採用較豪華的Vegaseat座椅)。 [File:MinibusVS7113,KL76B.jpg|2017年起投入服務的豐田第7代石油氣小巴(車型代號7LL)，設有19個座位及使用電子路線顯示器](File:MinibusVS7113,KL76B.jpg%7C2017年起投入服務的豐田第7代石油氣小巴\(車型代號7LL\)，設有19個座位及使用電子路線顯示器)。 [File:MinibusWF5752,NT313.jpg|2019年起投入服務的豐田第7代柴油小巴(車型代號7DL)，設有19個座位,採用原廠三點式高背座椅以及使用電子路線顯示器](File:MinibusWF5752,NT313.jpg%7C2019年起投入服務的豐田第7代柴油小巴\(車型代號7DL\)，設有19個座位,採用原廠三點式高背座椅以及使用電子路線顯示器)。
 
 #### 巴士公司
 
@@ -65,9 +65,7 @@
 
 #### 警察機動部隊
 
-[Police_Midibus_AM6752.JPG](https://zh.wikipedia.org/wiki/File:Police_Midibus_AM6752.JPG "fig:Police_Midibus_AM6752.JPG")專用的新款警察運兵車，俗稱**子彈頭**，於2008年投入服務。\]\]
-
-於2008年年中，[香港警務處](../Page/香港警務處.md "wikilink")率先引入32輛豐田Coaster予[警察機動部隊](../Page/警察機動部隊.md "wikilink")作新運兵車，一輛新運兵車連同改裝費用，約40萬港元，期後將來陸續引入更多。新警車乃經過豐田Coaster超長陣標準29座改裝成為18座，車尾後座位置轉成裝備存放間。新警車採用更先進、省油以及環保的歐盟四型廢氣排放標準的引擎。新車內籠較為寬闊，車窗面積同為更大，能夠充份擴闊視野；與此同時，為求達至[保安](../Page/保安.md "wikilink")關係，所有車窗皆使用了防爆玻璃及裝設了防暴網。此外，新車運行時寧靜，坐位亦設計寬敞\[1\]。
+[替代=](https://zh.wikipedia.org/wiki/File:ToyotacoasterAM3075.jpg "fig:替代=")專用的新款警察運兵車，俗稱**子彈頭**，於2008年投入服務。\]\] 於2008年年中，[香港警務處](../Page/香港警務處.md "wikilink")率先引入32輛豐田Coaster予[警察機動部隊](../Page/警察機動部隊.md "wikilink")作新運兵車，一輛新運兵車連同改裝費用，約40萬港元，期後將來陸續引入更多。新警車乃經過豐田Coaster超長陣標準29座改裝成為18座，車尾後座位置轉成裝備存放間。新警車採用更先進、省油以及環保的歐盟四/五型廢氣排放標準的引擎。新車內籠較為寬闊，車窗面積同為更大，能夠充份擴闊視野；與此同時，為求達至[保安](../Page/保安.md "wikilink")關係，所有車窗皆使用了防爆玻璃及裝設了防暴網。此外，新車運行時寧靜，坐位亦設計寬敞\[1\]。
 
 ### 澳門
 
@@ -97,7 +95,7 @@
 
 ## 圖片
 
-<File:Toyota> Coaster in the Aeropuerto Internacional del Caribe Santiago Mariño.jpg|在[委內瑞拉](../Page/委內瑞拉.md "wikilink")[瑪格麗塔島的豐田Coaster](https://zh.wikipedia.org/wiki/瑪格麗塔島 "wikilink")，車尾不設太平門（台灣稱安全門）。
+<File:Toyota> Coaster in the Aeropuerto Internacional del Caribe Santiago Mariño.jpg|在[委內瑞拉](../Page/委內瑞拉.md "wikilink")[瑪格麗塔島的豐田Coaster](https://zh.wikipedia.org/wiki/瑪格麗塔島 "wikilink")，車尾不設太平門（台灣稱安全門）。 [File:MinibusUL8939,KLtoMFroute.jpg|香港石油氣公共coaster小巴](File:MinibusUL8939,KLtoMFroute.jpg%7C香港石油氣公共coaster小巴)。
 
 ## 生產工廠
 

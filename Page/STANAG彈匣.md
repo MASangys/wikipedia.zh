@@ -76,7 +76,6 @@ STANAG彈匣採用的是“直—彎—直”型的設計，即中間有一處�
   - [斯通納86](../Page/斯通納輕機槍.md "wikilink")
   - [T2 MK5](https://zh.wikipedia.org/wiki/T2_MK5 "wikilink")
   - [XT97突擊步槍](../Page/XT-97突擊步槍.md "wikilink")／[T75班用機槍](../Page/T75班用機槍.md "wikilink")
-  - [T91戰鬥步槍](https://zh.wikipedia.org/wiki/T91戰鬥步槍 "wikilink")
   - [VB Berapi LP06](https://zh.wikipedia.org/wiki/VB_Berapi_LP06 "wikilink")
   - [HS Produkt VHS](../Page/VHS突擊步槍.md "wikilink")（初期型）
   - [XM29 OICW](../Page/XM29_OICW.md "wikilink")（步槍部份）

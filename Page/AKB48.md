@@ -315,6 +315,28 @@ AKB48的分組曾歷經過兩次大規模的異動（稱為「組閣」與「再
 <td><p>-</p></td>
 </tr>
 <tr class="even">
+<td><p>岡田梨奈</p></td>
+<td></td>
+<td></td>
+<td><p>選秀<br />
+3期</p></td>
+<td><p>AKS</p></td>
+<td><p>2019年7月27日</p></td>
+<td><p>第三屆選秀會議Team K第五輪指名</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>小林蘭</p></td>
+<td></td>
+<td></td>
+<td><p>選秀<br />
+3期</p></td>
+<td><p>AKS</p></td>
+<td><p>2019年7月27日</p></td>
+<td><p>第三屆選秀會議Team K第四輪指名</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
 <td><p><strong><a href="../Page/込山榛香.md" title="wikilink">込山榛香</a></strong></p></td>
 <td></td>
 <td></td>
@@ -1482,32 +1504,14 @@ AKB48最年少</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>岡田梨奈</p></td>
+<td><p>末永祐月</p></td>
 <td></td>
 <td></td>
 <td><p>選秀<br />
 3期</p></td>
 <td><p>AKS</p></td>
-<td><p>第三屆選秀會議Team K第五輪指名</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p>小林蘭</p></td>
-<td></td>
-<td></td>
-<td><p>第三屆選秀會議Team K第四輪指名</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>末永祐月</p></td>
-<td></td>
-<td></td>
 <td><p>第三屆選秀會議Team K第二輪指名</p></td>
 <td><p>-</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>永野惠</p></td>

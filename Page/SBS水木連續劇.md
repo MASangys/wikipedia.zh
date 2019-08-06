@@ -2427,12 +2427,12 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年月日－<br />
-2019年月日</p></td>
+2019年11月日</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>-{<a href="https://zh.wikipedia.org/wiki/Miss_Casting" title="wikilink">Miss Casting</a>}-<br />
 </p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="../Page/崔江姬.md" title="wikilink">崔江姬</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/崔江姬.md" title="wikilink">崔江姬</a>、<a href="https://zh.wikipedia.org/wiki/金智英" title="wikilink">金智英</a>、<a href="../Page/柳仁英.md" title="wikilink">柳仁英</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔英勳" title="wikilink">崔英勳</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴智河" title="wikilink">朴智河</a></p></td>
 <td style="text-align: center;"></td>
