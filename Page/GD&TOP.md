@@ -143,12 +143,12 @@
 
 ### 音樂節目獎項
 
-| 年份    | 日期     | 電視台                                                   | 節目名稱                                                                   | 獲獎歌曲      | 排名                |
-| ----- | ------ | ----------------------------------------------------- | ---------------------------------------------------------------------- | --------- | ----------------- |
-| 2010年 | 12月30日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Oh Yeah   | 1位                |
-| 2011年 | 1月6日   | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | High High | 1位                |
-| 2011年 | 1月9日   | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | High High | 1位 (Mutizen Song) |
-| 2015年 | 8月20日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Zutter    | 1位                |
+| 年份    | 日期     | 電視台                                                 | 節目名稱                                                                   | 獲獎歌曲      | 排名                |
+| ----- | ------ | --------------------------------------------------- | ---------------------------------------------------------------------- | --------- | ----------------- |
+| 2010年 | 12月30日 | [Mnet](../Page/Mnet.md "wikilink")                  | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Oh Yeah   | 1位                |
+| 2011年 | 1月6日   | [Mnet](../Page/Mnet.md "wikilink")                  | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | High High | 1位                |
+| 2011年 | 1月9日   | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | High High | 1位 (Mutizen Song) |
+| 2015年 | 8月20日  | [Mnet](../Page/Mnet.md "wikilink")                  | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Zutter    | 1位                |
 
 ## 外部連結
 

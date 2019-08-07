@@ -159,16 +159,6 @@ Team J在2012年12月23日成立。
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>Cinvia／Yupi</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td><p>2013年6月25日</p></td>
-<td><p>前Team KIII（初代→Viviyona）<br />
-預定於2019年7月27日畢業[19]</p></td>
-<td><p>1</p></td>
-</tr>
-<tr class="even">
-<td></td>
 <td><p>Diani</p></td>
 <td></td>
 <td><p>5期</p></td>
@@ -176,7 +166,7 @@ Team J在2012年12月23日成立。
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Eve</p></td>
 <td></td>
@@ -184,11 +174,11 @@ Team J在2012年12月23日成立。
 <td><p>2019年4月8日<br />
 （再次昇格）</p></td>
 <td><p>姊姊為Ariella Calista Ichwan<br />
-2018年11月7日降格[20]<br />
+2018年11月7日降格[19]<br />
 前Team T（Melody、Ayana）</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Feni</p></td>
 <td></td>
@@ -197,7 +187,7 @@ Team J在2012年12月23日成立。
 <td><p>前Team T</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Sisca</p></td>
 <td></td>
@@ -207,7 +197,7 @@ Team J在2012年12月23日成立。
 前Team KIII（Ratu、Viviyona）</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Frieska</p></td>
 <td></td>
@@ -218,7 +208,7 @@ Team J在2012年12月23日成立。
 前Team KIII（Ratu、Viviyona）</p></td>
 <td><p>12</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong></strong></p></td>
 <td><p><strong>Gaby</strong></p></td>
 <td></td>
@@ -227,7 +217,7 @@ Team J在2012年12月23日成立。
 <td><p><strong>Team J隊長（第4任）</strong></p></td>
 <td><p>13</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Michelle</p></td>
 <td></td>
@@ -236,7 +226,7 @@ Team J在2012年12月23日成立。
 <td><p>前Team T</p></td>
 <td><p>12</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Nadila</p></td>
 <td></td>
@@ -245,7 +235,7 @@ Team J在2012年12月23日成立。
 <td><p>前Team KIII（初代→Viviyona）</p></td>
 <td><p>20</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Aurel</p></td>
 <td></td>
@@ -255,7 +245,7 @@ Team J在2012年12月23日成立。
 前Team KIII（Ratu、Viviyona）</p></td>
 <td><p>27</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Riska Amelia Putri</p></td>
 <td><p>Amel</p></td>
 <td></td>
@@ -264,7 +254,7 @@ Team J在2012年12月23日成立。
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Ayen</p></td>
 <td></td>
@@ -273,7 +263,7 @@ Team J在2012年12月23日成立。
 <td><p>前Team KIII（初代→Viviyona）</p></td>
 <td><p>11</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Julie</p></td>
 <td></td>
@@ -282,7 +272,7 @@ Team J在2012年12月23日成立。
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Sinka</p></td>
 <td></td>
@@ -293,7 +283,7 @@ Team J在2012年12月23日成立。
 預定畢業</p></td>
 <td><p>17</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -332,7 +322,7 @@ Team KIII在2013年6月25日成立。
 <td></td>
 <td><p>2期</p></td>
 <td><p>2013年6月25日</p></td>
-<td><p>預定畢業</p></td>
+<td><p>預定於2019年8月4日畢業[20]</p></td>
 <td><p>29</p></td>
 </tr>
 <tr class="even">
@@ -841,7 +831,7 @@ Kyla</p></td>
 <td></td>
 <td><p>7期</p></td>
 <td><p>2018年10月28日</p></td>
-<td><p>-</p></td>
+<td><p>預定於2019年8月5日昇格至Team KIII</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -886,7 +876,7 @@ Kyla</p></td>
 <td></td>
 <td><p>7期</p></td>
 <td><p>2018年10月28日</p></td>
-<td><p>-</p></td>
+<td><p>預定於2019年8月5日昇格至Team KIII</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1499,7 +1489,7 @@ Kyla</p></td>
 選秀1期</p></td>
 <td><p>T</p></td>
 <td><p>2018年10月19日</p></td>
-<td><p>2018年9月15日起自AKB48 Team 4進行1個月的短期交換留學[44][45]</p></td>
+<td><p>2018年9月15日起自AKB48 Team 4短期交換留學[44][45]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1604,6 +1594,16 @@ Kyla</p></td>
 <td><p>24</p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td><p>2期</p></td>
+<td><p>J</p></td>
+<td><p>2019年7月27日</p></td>
+<td><p>前Team KIII（初代→Viviyona）<br />
+畢業[55]</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1716,7 +1716,7 @@ Kyla</p></td>
 <td></td>
 <td><p>2期</p></td>
 <td><p>2013年11月30日</p></td>
-<td><p>[55]</p></td>
+<td><p>[56]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1724,7 +1724,7 @@ Kyla</p></td>
 <td></td>
 <td><p>2期</p></td>
 <td><p>2013年11月30日</p></td>
-<td><p>[56]</p></td>
+<td><p>[57]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1732,7 +1732,7 @@ Kyla</p></td>
 <td></td>
 <td><p>3期</p></td>
 <td><p>2014年3月24日</p></td>
-<td><p>[57]</p></td>
+<td><p>[58]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1740,7 +1740,7 @@ Kyla</p></td>
 <td></td>
 <td><p>3期</p></td>
 <td><p>2014年8月11日</p></td>
-<td><p>[58]</p></td>
+<td><p>[59]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1748,14 +1748,14 @@ Kyla</p></td>
 <td></td>
 <td><p>3期</p></td>
 <td><p>2014年11月22日</p></td>
-<td><p>[59]</p></td>
+<td><p>[60]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>3期</p></td>
-<td><p>[60]</p></td>
+<td><p>[61]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1764,7 +1764,7 @@ Kyla</p></td>
 <td></td>
 <td><p>3期</p></td>
 <td><p>2014年12月26日</p></td>
-<td><p>[61]</p></td>
+<td><p>[62]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1772,14 +1772,14 @@ Kyla</p></td>
 <td></td>
 <td><p>3期</p></td>
 <td><p>2015年3月23日</p></td>
-<td><p>[62]</p></td>
+<td><p>[63]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>3期</p></td>
-<td><p>[63]</p></td>
+<td><p>[64]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1804,18 +1804,10 @@ Kyla</p></td>
 <td></td>
 <td><p>3期</p></td>
 <td><p>2016年2月1日</p></td>
-<td><p>[64]</p></td>
+<td><p>[65]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td><p>3期</p></td>
-<td><p>[65]</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td></td>
 <td></td>
 <td><p>3期</p></td>
@@ -1823,7 +1815,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>3期</p></td>
@@ -1831,11 +1823,19 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>3期</p></td>
 <td><p>[68]</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>3期</p></td>
+<td><p>[69]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1907,7 +1907,7 @@ Kyla</p></td>
 <td><p>6期</p></td>
 <td><p>Class B</p></td>
 <td><p>2018年4月21日</p></td>
-<td><p>請辭[69]</p></td>
+<td><p>請辭[70]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1915,7 +1915,7 @@ Kyla</p></td>
 <td></td>
 <td><p>Class A</p></td>
 <td><p>2018年8月21日</p></td>
-<td><p>請辭[70]</p></td>
+<td><p>請辭[71]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1925,7 +1925,7 @@ Kyla</p></td>
 <td><p>7期</p></td>
 <td><p>Class B</p></td>
 <td><p>2018年10月6日</p></td>
-<td><p>入学前請辭[71]</p></td>
+<td><p>入学前請辭[72]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1934,14 +1934,14 @@ Kyla</p></td>
 <td><p>6期</p></td>
 <td><p>Class A</p></td>
 <td><p>2018年11月1日</p></td>
-<td><p>退學[72]</p></td>
+<td><p>退學[73]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
 <td><p>Amanda Priscella</p></td>
 <td></td>
 <td><p>2018年12月12日</p></td>
-<td><p>請辭[73]</p></td>
+<td><p>請辭[74]</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1950,7 +1950,7 @@ Kyla</p></td>
 <td><p>Erika Sintia</p></td>
 <td></td>
 <td><p>2019年1月24日</p></td>
-<td><p>請辭[74]</p></td>
+<td><p>請辭[75]</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1970,7 +1970,7 @@ Kyla</p></td>
 <td><p>6期</p></td>
 <td><p>Class A</p></td>
 <td><p>2019年6月15日</p></td>
-<td><p>請辭[75]</p></td>
+<td><p>請辭[76]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -2191,7 +2191,7 @@ Kyla</p></td>
 </tr>
 <tr class="even">
 <td><p>2月23日</p></td>
-<td><p>研究生Jennifer Rachel Natasya、Thalia Ivanka Elizabeth升格至Team J[76]</p></td>
+<td><p>研究生Jennifer Rachel Natasya、Thalia Ivanka Elizabeth升格至Team J[77]</p></td>
 <td></td>
 <td><p>42</p></td>
 <td><p>37</p></td>
@@ -2250,7 +2250,7 @@ Priscillia Sari Dewi、Saktia Oktapyani升格至Team KIII</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月22日</p></td>
-<td><p>研究生 Kezia Putri Andinta、Milenia Christien Glory Goenawan 辞退[77]</p></td>
+<td><p>研究生 Kezia Putri Andinta、Milenia Christien Glory Goenawan 辞退[78]</p></td>
 <td><p>-2</p></td>
 <td><p>69</p></td>
 <td><p>41</p></td>
@@ -2266,7 +2266,7 @@ Priscillia Sari Dewi、Saktia Oktapyani升格至Team KIII</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月26日</p></td>
-<td><p>研究生Zebi Magnolia Fawwaz 辞退[78]</p></td>
+<td><p>研究生Zebi Magnolia Fawwaz 辞退[79]</p></td>
 <td><p>-1</p></td>
 <td><p>67</p></td>
 <td><p>40</p></td>
@@ -3011,6 +3011,22 @@ Class A Gabriel Angelina、Nabila Fitriana昇格至Team T</p></td>
 <td><p>47</p></td>
 <td><p>16</p></td>
 </tr>
+<tr class="odd">
+<td><p>7月21日</p></td>
+<td><p>Team J Cindy Yuvia畢業</p></td>
+<td><p>-1</p></td>
+<td><p>80</p></td>
+<td><p>46</p></td>
+<td><p>15</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -3683,7 +3699,7 @@ Music Card</p></td>
 
 **日本**
 
-  - 《[警部补 矢部谦三2](https://zh.wikipedia.org/wiki/警部补_矢部谦三#第二季（2013年） "wikilink")》（2013年7月5日 - 8月30日、[朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")） - Nabilah\[79\]
+  - 《[警部补 矢部谦三2](https://zh.wikipedia.org/wiki/警部补_矢部谦三#第二季（2013年） "wikilink")》（2013年7月5日 - 8月30日、[朝日电视台](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")） - Nabilah\[80\]
 
 ### CM
 
@@ -3817,8 +3833,8 @@ Music Card</p></td>
 #### Team J
 
 1.  [恋愛禁止条例](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「恋愛禁止条例」#JKT48_Team_J_1st_Stage“恋爱禁止条例”公演 "wikilink")（Aturan Anti Cinta）：2012年12月26日 - 2013年12月28日（132公演）
-2.  [为了谁](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「为了谁」#JKT48_Team_J_2nd_Stage“为了谁”公演 "wikilink")（Demi Seseorang）：2014年1月18日\[80\] - 2015年4月26日\[81\]（117公演）
-3.  [剧场的女神](https://zh.wikipedia.org/wiki/Team_B_5th_Stage「剧场的女神」#JKT48_Team_J_3rd_Stage「剧场的女神」公演 "wikilink")（Dewi Theater）：2015年5月17日\[82\] - 2016年11月27日
+2.  [为了谁](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「为了谁」#JKT48_Team_J_2nd_Stage“为了谁”公演 "wikilink")（Demi Seseorang）：2014年1月18日\[81\] - 2015年4月26日\[82\]（117公演）
+3.  [剧场的女神](https://zh.wikipedia.org/wiki/Team_B_5th_Stage「剧场的女神」#JKT48_Team_J_3rd_Stage「剧场的女神」公演 "wikilink")（Dewi Theater）：2015年5月17日\[83\] - 2016年11月27日
 4.  B•E•L•I•E•V•E：2016年12月9日 - 2017年5月14日
 5.  [正在恋爱中](../Page/Team_A_4th_Stage“正在恋爱中”.md "wikilink")（Sekarang Sedang Jatuh Cinta）：2017年5月19日 -
 
@@ -3833,8 +3849,8 @@ Music Card</p></td>
 
 #### Team KIII
 
-1.  [我的太阳](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#JKT48_Team_KIII_1st_Stage“我的太阳”公演 "wikilink")（Matahari Milikku）：2013年6月28日 - 2014年2月22日\[83\]（107公演）
-2.  [青春女孩](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage「青春女孩」#JKT48_Team_KIII_2nd_Stage「青春女孩」 "wikilink")（Gadis-Gadis Remaja）：2014年3月8日\[84\] - 2015年3月14日\[85\]（113公演）
+1.  [我的太阳](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#JKT48_Team_KIII_1st_Stage“我的太阳”公演 "wikilink")（Matahari Milikku）：2013年6月28日 - 2014年2月22日\[84\]（107公演）
+2.  [青春女孩](https://zh.wikipedia.org/wiki/Team_K_2nd_Stage「青春女孩」#JKT48_Team_KIII_2nd_Stage「青春女孩」 "wikilink")（Gadis-Gadis Remaja）：2014年3月8日\[85\] - 2015年3月14日\[86\]（113公演）
 3.  [最终钟声鸣响](https://zh.wikipedia.org/wiki/Team_K_4th_Stage「最终钟声鸣响」#JKT48_Team_KIII_3rd_Stage「最终钟声鸣响」公演 "wikilink")（Bel Terakhir Berbunyi）：2015年8月1日 - 2016年11月27日
 4.  B•E•L•I•E•V•E：2016年12月8日 - 2018年2月27日（130公演）
 5.  [引体后翻](../Page/Team_K_5th_Stage“引体后翻”.md "wikilink")（Saka Agari）：2018年3月4日 -
@@ -3845,15 +3861,15 @@ Music Card</p></td>
 
 <!-- end list -->
 
-1.  [恋愛禁止条例](https://zh.wikipedia.org/wiki/TeamA_5th_Stage「恋愛禁止条例」#JKT48_TeamKIII「恋愛禁止条例」公演 "wikilink")（Aturan Anti Cinta）\[86\]：2013年12月26日 - 28日（3公演）
+1.  [恋愛禁止条例](https://zh.wikipedia.org/wiki/TeamA_5th_Stage「恋愛禁止条例」#JKT48_TeamKIII「恋愛禁止条例」公演 "wikilink")（Aturan Anti Cinta）\[87\]：2013年12月26日 - 28日（3公演）
 2.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」 "wikilink")（Pajama Drive）
       - 2014年9月2日、4日（2公演）
       - 2015年3月31日 - 4月29日（10公演）
 
 #### Team T
 
-1.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#Team_T "wikilink")（Pajama Drive）：2015年1月31日 - 2015年3月6日\[87\]（9公演）
-2.  [手牵手](https://zh.wikipedia.org/wiki/Team_S_2nd_Stage「手牵手」#JKT48_Team_T_2nd_Stage「手牵手」 "wikilink")（Sambil Menggenggam Erat Tanganku）：2015年3月15日\[88\] - 2016年11月26日
+1.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#Team_T "wikilink")（Pajama Drive）：2015年1月31日 - 2015年3月6日\[88\]（9公演）
+2.  [手牵手](https://zh.wikipedia.org/wiki/Team_S_2nd_Stage「手牵手」#JKT48_Team_T_2nd_Stage「手牵手」 "wikilink")（Sambil Menggenggam Erat Tanganku）：2015年3月15日\[89\] - 2016年11月26日
 3.  [恋愛禁止条例](https://zh.wikipedia.org/wiki/Team_A_5th_Stage「恋愛禁止条例」 "wikilink")（Aturan Anti Cinta）：2016年12月7日 - 2017年5月22日
 4.  [我的太阳](../Page/向日葵组_1st_Stage“我的太阳”.md "wikilink")（Matahari Milikku）：2017年7月8日 - 12月9日
 5.  [为了谁](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage「为了谁」 "wikilink")（Demi Seseorang）：2017年12月10日 - 2018年4月18日
@@ -3864,7 +3880,7 @@ Music Card</p></td>
 1.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#1期生 "wikilink")（Pajama Drive、1期生）：2012年9月8日 - 12月13日（67公演）
 2.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#2期生 "wikilink")（Pajama Drive、2期生）：2013年1月11日 - 5月12日（69公演）
 3.  [我的太阳](https://zh.wikipedia.org/wiki/向日葵组_1st_Stage“我的太阳”#JKT48_研究生公演“我的太阳” "wikilink")（Matahari Milikku）：2013年5月17日 - 6月25日（27公演）
-4.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#3期生 "wikilink")（Pajama Drive、3期生）：2014年5月24日\[89\] - 2015年1月17日（延续为Team T继续表演）（88公演）
+4.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#3期生 "wikilink")（Pajama Drive、3期生）：2014年5月24日\[90\] - 2015年1月17日（延续为Team T继续表演）（88公演）
 5.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」 "wikilink")（Pajama Drive、4期生+5期生）：2016年8月7日 - 10月19日
 
 #### 特別公演
@@ -4104,25 +4120,25 @@ Music Card</p></td>
 55.
 
 56.
-57.
 
+57.
 58.
 
 59.
 
 60.
-61.
 
+61.
 62.
 
 63.
+
 64.
 65.
 66.
 67.
 68.
 69.
-
 70.
 
 71.
@@ -4138,10 +4154,10 @@ Music Card</p></td>
 76.
 
 77.
-78.
-79. 作为剧中人物[秋葉 原人所推成员以照片形式登场](../Page/圈套_\(電視劇\).md "wikilink")。剧中也使用了其他JKT48相关物品。
 
-80.
+78.
+79.
+80. 作为剧中人物[秋葉 原人所推成员以照片形式登场](../Page/圈套_\(電視劇\).md "wikilink")。剧中也使用了其他JKT48相关物品。
 
 81.
 
@@ -4160,3 +4176,5 @@ Music Card</p></td>
 88.
 
 89.
+
+90.

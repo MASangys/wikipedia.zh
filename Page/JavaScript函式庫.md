@@ -17,7 +17,7 @@
   - [Ext](https://zh.wikipedia.org/wiki/Ext "wikilink")
   - [Flot](https://zh.wikipedia.org/wiki/Flot "wikilink")
   - [FUEL](https://zh.wikipedia.org/wiki/FUEL "wikilink")
-  - [Glow](https://zh.wikipedia.org/wiki/Glow_\(JavaScript函式庫\) "wikilink")
+  - [Glow](../Page/Glow_\(JavaScript函式庫\).md "wikilink")
   - [Google Closure Library](https://zh.wikipedia.org/wiki/Google_Closure_Library "wikilink")
   - [Google Web Toolkit](https://zh.wikipedia.org/wiki/Google_Web_Toolkit "wikilink")
   - [Himle](https://zh.wikipedia.org/wiki/Himle "wikilink")

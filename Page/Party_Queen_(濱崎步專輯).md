@@ -1,8 +1,8 @@
 \-{T|Party Queen}-
 
-《**Party Queen**》（淫亂女王）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的第13張原創專輯，實體專輯於2012年3月21日發行，但由於假日，實際上在發行日前已經於通路販售，[iTunes Store更提早於](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")3月14日開放全專輯線上付費下載。
+《**Party Queen**》（派對女王）是日本歌手[濱崎步](../Page/濱崎步.md "wikilink")的第13張原創專輯，實體專輯於2012年3月21日發行，但由於假日，實際上在發行日前已經於通路販售，[iTunes Store更提早於](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")3月14日開放全專輯線上付費下載。
 
-2011年的跨年演唱會《[ayumi hamasaki COUNTDOWN LIVE 2011-2012 A ～HOTEL Love songs～](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2011-2012_A_～HOTEL_Love_songs～ "wikilink")》[DVD收錄本作且不另作單獨發售](https://zh.wikipedia.org/wiki/DVD "wikilink")，特別盒裝組合則搭配《[ayumi hamasaki ～POWER of MUSIC～ 2011 A LIMITED EDITION](https://zh.wikipedia.org/wiki/ayumi_hamasaki_～POWER_of_MUSIC～_2011_A_LIMITED_EDITION "wikilink")》DVD或[保險套一起販售](https://zh.wikipedia.org/wiki/保險套 "wikilink")。
+2011年的跨年演唱會《[ayumi hamasaki COUNTDOWN LIVE 2011-2012 A ～HOTEL Love songs～](https://zh.wikipedia.org/wiki/ayumi_hamasaki_COUNTDOWN_LIVE_2011-2012_A_～HOTEL_Love_songs～ "wikilink")》[DVD收錄本作且不另作單獨發售](https://zh.wikipedia.org/wiki/DVD "wikilink")，特別盒裝組合則搭配《[ayumi hamasaki ～POWER of MUSIC～ 2011 A LIMITED EDITION](https://zh.wikipedia.org/wiki/ayumi_hamasaki_～POWER_of_MUSIC～_2011_A_LIMITED_EDITION "wikilink")》DVD或[藍光光碟](../Page/藍光光碟.md "wikilink")一起販售。
 
 ## 背景與主題
 

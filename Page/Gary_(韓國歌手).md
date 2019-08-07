@@ -865,6 +865,11 @@ Gary所寫的歌詞常常是19禁，因歌詞有許多對於「性」的淺白�
 <td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a> </p></td>
 <td><p>Dal.Komm Coffee新加坡新店開幕</p></td>
 </tr>
+<tr class="even">
+<td><p>2019年7月27日</p></td>
+<td><p><a href="../Page/香港.md" title="wikilink">香港</a> <a href="../Page/香港會議展覽中心.md" title="wikilink">會議展覽中心</a></p></td>
+<td><p>香港電競音樂節 - 電音派對</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -941,7 +946,7 @@ Gary曾低調地進行慈善活動，如捐贈衣服予[非洲](../Page/非洲.m
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a><br />
+<td><p><small><a href="../Page/Mnet.md" title="wikilink">Mnet</a><br />
 《<a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a>》</small></p></td>
 <td><p><small><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a><br />
 《<a href="https://zh.wikipedia.org/wiki/KBS音樂銀行" title="wikilink">Music Bank</a>》</small></p></td>

@@ -470,10 +470,10 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年7月22日 - 2019年9月10日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/18歲的瞬間" title="wikilink">18歲的瞬間</a><br />
+<td style="text-align: center;"><p><a href="../Page/18歲的瞬間.md" title="wikilink">18歲的瞬間</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/邕聖祐" title="wikilink">邕聖祐</a>、<a href="../Page/金香起.md" title="wikilink">金香起</a>、<a href="https://zh.wikipedia.org/wiki/申承浩" title="wikilink">申承浩</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/邕聖祐" title="wikilink">邕聖祐</a>、<a href="../Page/金香起.md" title="wikilink">金香起</a>、<a href="../Page/申承浩.md" title="wikilink">申承浩</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/沈娜妍" title="wikilink">沈娜妍</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹景雅" title="wikilink">尹景雅</a></p></td>
 <td style="text-align: center;"></td>

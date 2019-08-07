@@ -8,8 +8,6 @@ NL263甫出頭便贏得1999歐洲最佳巴士的美譽。
 
 ## 猛獅NL262
 
-市區版本    機場版本
-
 猛獅NL262（A10或A27、[NL202(2)](https://zh.wikipedia.org/wiki/猛獅NL系列巴士#猛獅NL262 "wikilink")）巴士配[Sütrak的空調系統](https://zh.wikipedia.org/wiki/Sütrak "wikilink")，引擎為MAN自家的D2866LUH-22引擎，擁有260匹強大馬力，不過波箱卻採用Voith DIWA851.3波箱，實為罕有的配置，由於引擎輸出可觀，此型號原裝波箱只有DNR三個波掣，後來城巴自行加上鎖波掣。另外，由於引擎是縱置臥式的關係，尾跨距也較長，臥式引擎在香港較為罕見，如[九巴的](../Page/九龍巴士.md "wikilink")[Benz O305](https://zh.wikipedia.org/wiki/平治O305巴士 "wikilink")、[丹尼士獵鷹](../Page/丹尼士獵鷹巴士.md "wikilink")、[Neoplan Centroliner](../Page/Neoplan_Centroliner.md "wikilink") A34（APM1），便屬此類。車體都是採用德國車種常見的[無大樑設計](https://zh.wikipedia.org/wiki/無大樑 "wikilink")，以減輕車身的重量。由於後置水箱的關係，所以後排座位是3座位。
 
 ### NL262在香港

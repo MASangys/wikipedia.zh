@@ -147,7 +147,6 @@
   - [渡邊友裕](https://zh.wikipedia.org/wiki/渡邊友裕 "wikilink")
   - [河井佑樹](https://zh.wikipedia.org/wiki/河井佑樹 "wikilink")
   - [鳶野恭平](https://zh.wikipedia.org/wiki/鳶野恭平 "wikilink")
-  - [增田俊樹](../Page/增田俊樹.md "wikilink")
   - [平井慎之介](https://zh.wikipedia.org/wiki/平井慎之介 "wikilink")
 
 #### Maecenas

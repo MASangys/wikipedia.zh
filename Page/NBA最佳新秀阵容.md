@@ -1020,7 +1020,7 @@
 <tr class="even">
 <td><p><a href="../Page/沃利·斯泽比亚克.md" title="wikilink">沃利·斯泽比亚克</a></p></td>
 <td><p><a href="../Page/明尼苏达森林狼.md" title="wikilink">明尼苏达森林狼</a> (7)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/贾森·特里" title="wikilink">贾森·特里</a>^</p></td>
+<td><p><a href="../Page/贾森·特里.md" title="wikilink">贾森·特里</a>^</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/安德烈·米勒.md" title="wikilink">安德烈·米勒</a>^</p></td>

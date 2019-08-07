@@ -117,7 +117,7 @@ Subin<br />
 | 2014年                                               | [JTBC](../Page/JTBC.md "wikilink")                              | 《[12年後的重逢：山蒜醬湯](../Page/12年後的重逢：山蒜醬湯.md "wikilink")》                | 朴武熙    | 雅英   |
 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[更夫日誌](../Page/更夫日誌.md "wikilink")》                            | 洪楚姬                                                                 |        |      |
 | MBC every1                                          | 《[愛情頻率37.2](https://zh.wikipedia.org/wiki/愛情頻率37.2 "wikilink")》 | 鄭善姬                                                                 |        |      |
-| 2015年                                               | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")           | 《[七顛八起具海拉](../Page/七顛八起具海拉.md "wikilink")》                          | 客串     | 優熙   |
+| 2015年                                               | [Mnet](../Page/Mnet.md "wikilink")                              | 《[七顛八起具海拉](../Page/七顛八起具海拉.md "wikilink")》                          | 客串     | 優熙   |
 | 《[The Lover](../Page/The_Lover.md "wikilink")》      |                                                                 |                                                                     |        |      |
 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《[愛你的時間](../Page/愛你的時間.md "wikilink")》                          | 洪恩靜                                                                 |        |      |
 | 2016年                                               | 網絡劇                                                             | 《[每天都換男朋友](https://zh.wikipedia.org/wiki/每天都換男朋友 "wikilink")》       | 瑟菲     |      |

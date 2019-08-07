@@ -12,7 +12,7 @@
 
 <references/>
 
-[Category:香港記者](https://zh.wikipedia.org/wiki/Category:香港記者 "wikilink") [Category:前亞洲電視新聞報導員](https://zh.wikipedia.org/wiki/Category:前亞洲電視新聞報導員 "wikilink")
+[Category:香港記者](https://zh.wikipedia.org/wiki/Category:香港記者 "wikilink") [Category:前亞洲電視新聞報導員](https://zh.wikipedia.org/wiki/Category:前亞洲電視新聞報導員 "wikilink") [Category:香港新聞報導員](https://zh.wikipedia.org/wiki/Category:香港新聞報導員 "wikilink")
 
 1.  SCMP [Not the Darjeeling Limited: The story of a post-colonial mess](https://www.scmp.com/comment/insight-opinion/article/1878217/not-darjeeling-limited-story-post-colonial-mess)
 2.

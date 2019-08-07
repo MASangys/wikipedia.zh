@@ -1,8 +1,8 @@
-**bilibili**（），全称为**哔哩哔哩弹幕网**，亦称**哔哩哔哩**、**bilibili弹幕网**，或简称为**B站**，是中国大陸一个[ACG](../Page/ACG.md "wikilink")相关的[弹幕视频分享网站](https://zh.wikipedia.org/wiki/视频弹幕网站 "wikilink")，其前身为视频分享网站Mikufans。该网站由网友“⑨bishi”（[徐逸](../Page/徐逸.md "wikilink")）\[1\]于2009年6月26日创建。Mikufans建站的初衷是为用户提供一个稳定的弹幕视频分享网站。网站于2010年1月24日更名为bilibili。
+**bilibili**（），全称为**哔哩哔哩弹幕网**，亦称**哔哩哔哩**、**bilibili弹幕网**，或简称为**B站**。是中国大陸一个[ACG](../Page/ACG.md "wikilink")相关的[弹幕视频分享网站](https://zh.wikipedia.org/wiki/视频弹幕网站 "wikilink")，其前身为视频分享网站Mikufans，该网站由网友“⑨bishi”（[徐逸](../Page/徐逸.md "wikilink")）\[1\]于2009年6月26日创建。Mikufans建站的初衷是为用户提供一个稳定的弹幕视频分享网站，网站于2010年1月24日更名为bilibili。
 
-哔哩哔哩的视频区主要分为bilibili[直播](../Page/網路直播.md "wikilink")、[动画](../Page/动画.md "wikilink")、[番剧](../Page/動畫劇集.md "wikilink")、[音乐](../Page/音乐.md "wikilink")、[舞蹈](../Page/舞蹈.md "wikilink")、[游戏](../Page/游戏.md "wikilink")、[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")、[广告](https://zh.wikipedia.org/wiki/广告 "wikilink")、[娱乐](https://zh.wikipedia.org/wiki/娱乐 "wikilink")、[鬼畜](https://zh.wikipedia.org/wiki/鬼畜_\(网络视频\) "wikilink")、[影视](https://zh.wikipedia.org/wiki/影视 "wikilink")、[放映厅](../Page/電影院.md "wikilink")、[时尚](https://zh.wikipedia.org/wiki/时尚 "wikilink")，除此之外，首页有直播、排行榜、画室、游戏中心（特指由哔哩哔哩代理登陆接口的游戏发布平台）、周边、[RSS](../Page/RSS.md "wikilink")订阅链接等\[2\]。除了视频外B站还运营有 《[命运/冠位指定](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")》 《[崩坏学园2](../Page/崩坏学园2.md "wikilink")》等多部游戏\[3\]。
+哔哩哔哩的主要频道分为[番剧](../Page/動畫劇集.md "wikilink")、[国创](../Page/中国动画.md "wikilink")、[放映厅](../Page/電影院.md "wikilink")、[纪录片](https://zh.wikipedia.org/wiki/纪录片 "wikilink")、[漫画](https://zh.wikipedia.org/wiki/漫画 "wikilink")、[专栏](https://zh.wikipedia.org/wiki/专栏 "wikilink")、[直播](../Page/網路直播.md "wikilink")、[音频](https://zh.wikipedia.org/wiki/音频 "wikilink")、[动画](../Page/动画.md "wikilink")、[音乐](../Page/音乐.md "wikilink")、[舞蹈](../Page/舞蹈.md "wikilink")、[游戏](../Page/游戏.md "wikilink")、[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")、[数码](https://zh.wikipedia.org/wiki/数码 "wikilink")、[生活](https://zh.wikipedia.org/wiki/生活 "wikilink")、[VLOG](https://zh.wikipedia.org/wiki/VLOG "wikilink")、[鬼畜](../Page/音MAD.md "wikilink")、[时尚](https://zh.wikipedia.org/wiki/时尚 "wikilink")、[广告](https://zh.wikipedia.org/wiki/广告 "wikilink")、[娱乐](https://zh.wikipedia.org/wiki/娱乐 "wikilink")、[影视](https://zh.wikipedia.org/wiki/影视 "wikilink")、[电影](../Page/电影.md "wikilink")、[电视剧](../Page/电视剧.md "wikilink")、[小视频](../Page/视频.md "wikilink")、-{[相簿](https://zh.wikipedia.org/wiki/相簿 "wikilink")}-，除此之外亦有会员购、话题中心、全区排行榜、原创排行榜、活动中心、小黑屋、游戏中心（特指由哔哩哔哩代理登陆接口的游戏发布平台）、游戏赛事的区域\[2\]。除了视频外哔哩哔哩还运营有 《[命运/冠位指定](https://zh.wikipedia.org/wiki/Fate/Grand_Order "wikilink")》 《[崩坏学园2](../Page/崩坏学园2.md "wikilink")》等多部游戏\[3\]。
 
-哔哩哔哩在不同季度时会更换LOGO及主题，亦拥有虚拟[看板娘](https://zh.wikipedia.org/wiki/看板娘 "wikilink")“22娘”和“33娘”。而现在网站标题中含有“( ゜- ゜)つロ 乾杯\~”的[颜文字](../Page/颜文字.md "wikilink")以做宣传。截至2017年3月1日，bilibili已拥有1亿名注册用户\[4\]，75%的用户年龄在24岁以下\[5\]。网站最早的视频是id为bishi（徐逸的b站账号）的人2009年上传的《绿坝绿坝★河蟹你全家\!》\[6\]\[7\]后来此视频所在网址改成公告\[8\]，现在视频所在网址报废\[9\]
+哔哩哔哩在不同季度时会更换[标志](../Page/标志.md "wikilink")及主题，亦拥有虚拟[看板娘](https://zh.wikipedia.org/wiki/看板娘 "wikilink")“22娘”和“33娘”。而现在网站标题中含有“( ゜- ゜)つロ 乾杯\~”的[颜文字](../Page/颜文字.md "wikilink")以做宣传。截至2017年3月1日，bilibili已拥有1亿名注册用户\[4\]，75%的用户年龄在24岁以下\[5\]。网站最早的视频是id为bishi（徐逸的b站账号）的人2009年上传的《绿坝绿坝★河蟹你全家\!》\[6\]\[7\]后来此视频所在网址改成公告\[8\]，现在视频所在网址报废\[9\]。
 
 ## 历史
 
@@ -164,7 +164,7 @@ B站内一部分视频来源于[日本](../Page/日本.md "wikilink")各[电视�
 
 ### 青少年模式
 
-2019年5月28日，B站宣布 bilibili APP上线“[青少年模式](https://zh.wikipedia.org/wiki/青少年模式 "wikilink")”功能。用户每日首次打开APP时，可根据弹窗提示选择开启“青少年模式”。在“青少年模式”下，用户浏览的内容由bilibili青少年模式内容团队精选呈现。“青少年模式”下，用户每日的累计浏览时间限定为40分钟，从每日22时至次日6时无法浏览APP。用户在“青少年模式”下无法使用直播打赏功能。\[100\]
+2019年5月28日，B站宣布 bilibili APP上线“青少年模式”功能。用户每日首次打开APP时，可根据弹窗提示选择开启“青少年模式”。在“青少年模式”下，用户浏览的内容由bilibili青少年模式内容团队精选呈现。“青少年模式”下，用户每日的累计浏览时间限定为40分钟，从每日22时至次日6时无法浏览APP。用户在“青少年模式”下无法使用直播打赏功能。\[100\]
 
 ## 收入
 
@@ -194,13 +194,15 @@ B站内一部分视频来源于[日本](../Page/日本.md "wikilink")各[电视�
 
 ### 实名制和审查
 
-自从2017年开始每逢敏感时期，哔哩哔哩同其他中国大陆社交媒体都会不同程度的进行“系统升级”意在防止有害、不适宜信息出现：中国以外的用户在不使用大陆IP地址代理的情况下无法正常发送任何评论和弹幕，而中国大陆用户此功能正常（2019年5月底至6月初这一敏感时期除外，中国大陆亦因“系统升级”无法发弹幕\[115\] ）。如2017年6月4日前后的[六四事件](../Page/六四事件.md "wikilink")周年\[116\]、以及2017年10月开始的中共[十九大期间](https://zh.wikipedia.org/wiki/十九大 "wikilink")\[117\]。
+自从2017年开始每逢敏感时期，哔哩哔哩同其他中国大陆社交媒体都会不同程度的进行“系统升级”意在防止有害、不适宜信息出现：中国以外的用户在不使用大陆IP地址代理的情况下无法正常发送任何评论和弹幕，而中国大陆用户此功能正常。如2017年6月4日前后的[六四事件](../Page/六四事件.md "wikilink")周年\[115\]、以及2017年10月开始的中共[十九大期间](https://zh.wikipedia.org/wiki/十九大 "wikilink")\[116\]。
+
+但是在2019年5月底至6月初这一敏感时间段期间，哔哩哔哩和多家中国大陆视频网站亦因“系统升级”等原因而关闭弹幕系统\[117\]。
 
 2017年2月10日，bilibili发布了《关于加强对时政类视频内容管理的公告》\[118\]，公告.称为响应上级有关部门的指示，进一步营造健康有序的网络环境，将根据国家相关法律法规政策，加强对时政类视频内容的管理，即日起暂停个人上传时政类内容；同时，时政类内容将由站内认证的持证新闻机构发布，首批认证机构为：[共青团中央](https://zh.wikipedia.org/wiki/共青团中央 "wikilink")、[央视纪录](https://zh.wikipedia.org/wiki/中央电视台纪录频道 "wikilink")、[环球时报](../Page/环球时报.md "wikilink")、环球时报英文北京版、[看看新闻SMG](https://zh.wikipedia.org/wiki/上海文广集团 "wikilink")、[观察者网](../Page/观察者网.md "wikilink")等官媒或有关的机构。有评论称，B站此次突然暂停个人用户上传时政类视频可能与此前有用户发布了在日华人反[APA酒店游行实录引发亲日](https://zh.wikipedia.org/wiki/APA酒店 "wikilink")、仇日双方网民在视频评论区的激烈骂战被“查水表”有关。\[119\]
 
 2017年6月25日，bilibili发布公告称从7月5日开始，UP主起上传视频内容（包括新增，编辑，换源等）都需要实名认证。中国大陆内可绑定中国大陆手机号验证，中国以外需要上传有效身份证件\[120\]\[121\]。同年9月22日官方发布《关于推进账号实名制的公告》以进一步推进实名制度，公告声明从2017年9月29日起未进行手机号绑定的账号将无法投稿，同时无法发弹幕和评论。\[122\]
 
-2017年7月12日晚，该网站同[AcFun](../Page/AcFun.md "wikilink")等网站一道将其网站上的[日剧](../Page/日本电视剧.md "wikilink")、[泰剧](https://zh.wikipedia.org/wiki/泰国电视剧 "wikilink")、[英剧](https://zh.wikipedia.org/wiki/英国电视剧 "wikilink")、[挪威剧等各类境外电视剧全部下架](https://zh.wikipedia.org/wiki/挪威电视剧 "wikilink")，显示为“视频已失效”。\[123\]据报有字幕组透露称，其早先已经无法在A站正常投稿上传影视剧内容，而之前上传到B站的影视剧作品均被退稿。\[124\]2017年7月13日，bilibili在微博上回应称为维护网站内容的规范性，对网站内的影视剧内容进行审查工作，审查期间部分影视剧可能出现无法访问的情况。审查结束后，不符合规范的影视剧将被下架处理，符合规范的影视剧将逐步恢复上线。\[125\]2017年7月23日，B站董事长陈睿称“国家目前对互联网上的影视内容提出了一些规范性要求，我觉得B站的发展已经到了一定的阶段，需要对内容进行一些清查。”“至少还要一两个月，通过审查的内容会陆续上线，没有通过的，就永远不会恢复了。”“在这次清查的过程中，我们也发现一些内容被误伤了，目前已经陆续恢复上线。”\[126\]
+2017年7月12日晚，该网站同[AcFun](../Page/AcFun.md "wikilink")等网站一道将其网站上的[日剧](../Page/日本电视剧.md "wikilink")、[泰剧](https://zh.wikipedia.org/wiki/泰国电视剧 "wikilink")、[英剧](https://zh.wikipedia.org/wiki/英国电视剧 "wikilink")、[挪威剧等各类境外电视剧全部下架](https://zh.wikipedia.org/wiki/挪威电视剧 "wikilink")，显示为“视频已失效”。\[123\]据报有字幕组透露称，其早先已经无法在A站正常投稿上传影视剧内容，而之前上传到B站的影视剧作品均被退稿。\[124\]2017年7月13日，bilibili在微博上回应称为维护网站内容的规范性，对网站内的影视剧内容进行审查工作，审查期间部分影视剧可能出现无法访问的情况。审查结束后，不符合规范的影视剧将被下架处理，符合规范的影视剧将逐步恢复上线。\[125\]2017年7月23日，B站董事长陈睿称“国家目前对互联网上的影视内容提出了一些规范性要求：“我觉得B站的发展已经到了一定的阶段，需要对内容进行一些清查。”，“至少还要一两个月，通过审查的内容会陆续上线，没有通过的，就永远不会恢复了。”，“在这次清查的过程中，我们也发现一些内容被误伤了，目前已经陆续恢复上线。”\[126\]
 
 2018年7月20日，正值[国家版权局](../Page/国家版权局.md "wikilink")、[国家互联网信息办公室](../Page/中央网络安全和信息化委员会办公室.md "wikilink")、[工业和信息化部](../Page/中华人民共和国工业和信息化部.md "wikilink")、[公安部](../Page/中华人民共和国公安部.md "wikilink")16日在北京联合启动打击网络侵权盗版「[剑网2018](https://zh.wikipedia.org/wiki/剑网2018 "wikilink")」专项行动，央视新闻报道B站存在涉及兄妹恋的[乱伦等](https://zh.wikipedia.org/wiki/亂倫 "wikilink")“低俗内容”，不少作品直接挂在首页超级推荐栏目\[127\]。报道发出后，B站迅速对问题视频作下架处理，并在公告表示会加强用户举报反馈机制，对工作人员进行问责，全面清查站内内容。\[128\]\[129\]
 
@@ -216,7 +218,7 @@ B站内一部分视频来源于[日本](../Page/日本.md "wikilink")各[电视�
 
 ### 吳織亞切大忽悠事件
 
-bilibili簽約主播[吳織亞切大忽悠被曝出曾對](https://zh.wikipedia.org/wiki/吳織亞切大忽悠 "wikilink")13歲少女[性騷擾](https://zh.wikipedia.org/wiki/性騷擾 "wikilink")，随后主播粉丝与对立用户在网站上展开对峙，据指站方对评论和弹幕进行了有利于主播一方的管制，并导致大量持反对意见的账户遭到封禁。这一怀疑在随后的[后台代码泄露事件中得到侧面证实](https://zh.wikipedia.org/wiki/Bilibili#后台代码泄露事件 "wikilink")，站方将人工完成上述操作的接口硬编码到了后台中。
+bilibili簽約主播吳織亞切大忽悠被曝出曾對13歲少女[性騷擾](https://zh.wikipedia.org/wiki/性騷擾 "wikilink")，随后主播粉丝与对立用户在网站上展开对峙，据指站方对评论和弹幕进行了有利于主播一方的管制，并导致大量持反对意见的账户遭到封禁。这一怀疑在随后的[后台代码泄露事件中得到侧面证实](https://zh.wikipedia.org/wiki/Bilibili#后台代码泄露事件 "wikilink")，站方将人工完成上述操作的接口硬编码到了后台中。
 
 2018年12月6日，B站发布公告，称已经啟動未成年人保護機制，决定移交公安机关並要求該主播暫停直播服務。\[138\]次日，B站发布《关于规范“主播吴织亚切大忽悠事件”相关言论、信息发布的公告》，以“当年的当事人已被网络舆论波及，个人隐私受到侵犯”为由，陆续清除了部份用户的相关评论，并限制用户仅可在该公告下的评论区进行讨论，且该公告并未在公告栏刊出，仅凭链接方可访问。\[139\]1月21日，站方封禁了吴织亚切大忽悠的B站账号与直播间并取消该主播在B站的所有“历史荣誉”。\[140\]
 
@@ -479,11 +481,11 @@ bilibili簽約主播[吳織亞切大忽悠被曝出曾對](https://zh.wikipedia.
 
 114.
 
-115. [B站、A站、斗鱼、虎牙暂停弹幕功能](http://www.sohu.com/a/317632722_115865)
+115.
 
 116.
 
-117.
+117. [B站、A站、斗鱼、虎牙暂停弹幕功能](http://www.sohu.com/a/317632722_115865)
 
 118.
 

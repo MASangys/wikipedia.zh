@@ -132,7 +132,7 @@
       - [多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")
       - [馬德里](https://zh.wikipedia.org/wiki/馬德里 "wikilink")、[錫切斯](https://zh.wikipedia.org/wiki/錫切斯 "wikilink")
       - [柏林](../Page/柏林.md "wikilink")[舍嫩贝格](https://zh.wikipedia.org/wiki/舍嫩贝格 "wikilink")
-      - [巴黎](../Page/巴黎.md "wikilink")[玛莱区](https://zh.wikipedia.org/wiki/玛莱区 "wikilink")
+      - [巴黎](../Page/巴黎.md "wikilink")[玛莱区](../Page/玛莱区.md "wikilink")
   - [拉美](https://zh.wikipedia.org/wiki/拉美 "wikilink")、[非洲](../Page/非洲.md "wikilink")
       - [里約熱內盧](https://zh.wikipedia.org/wiki/里約熱內盧 "wikilink")、[聖保羅](../Page/聖保羅_\(巴西\).md "wikilink")
       - [約翰尼斯堡](https://zh.wikipedia.org/wiki/約翰尼斯堡 "wikilink")

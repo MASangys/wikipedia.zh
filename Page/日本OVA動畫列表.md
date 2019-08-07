@@ -1203,7 +1203,7 @@
 ### 日本製OVAら行
 
   - [RIDING BEAN](https://zh.wikipedia.org/wiki/:ja:ガンスミスキャッツ#ライディングビーン "wikilink") - [貓眼女槍手](https://zh.wikipedia.org/wiki/貓眼女槍手 "wikilink")（東立）
-  - \-{[らき☆すたOVA（オリジナルなビジュアルとアニメーション）](https://zh.wikipedia.org/wiki/:ja:らき☆すた_\(アニメ\)#OVA "wikilink")}- - [幸運☆星 OVA](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")
+  - \-{[らき☆すたOVA（オリジナルなビジュアルとアニメーション）](https://zh.wikipedia.org/wiki/:ja:らき☆すた_\(アニメ\)#OVA "wikilink")}- - [幸運☆星 OVA](../Page/幸運☆星.md "wikilink")
   - \-{[:ja:楽勝\!ハイパードール](https://zh.wikipedia.org/wiki/:ja:楽勝!ハイパードール "wikilink")}- - [樂勝Hyper Doll](https://zh.wikipedia.org/wiki/樂勝Hyper_Doll "wikilink")
   - \-{[ラブひな Again](https://zh.wikipedia.org/wiki/:ja:ラブひな "wikilink")}- - [純情房東俏房客](../Page/純情房東俏房客.md "wikilink") Again
   - \-{[ランジェリー戦士パピヨンローゼ](https://zh.wikipedia.org/wiki/:ja:パピヨンローゼ "wikilink")}-

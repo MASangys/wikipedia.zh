@@ -16,7 +16,7 @@
 
 ### 发售后
 
-2007年9月5日，苹果公司很罕见的降低了8GB版本的价格，并停止生产4GB版本\[14\]。五天后，苹果公司宣布已卖出100万部iPhone\[15\]。在iPhone降价后，上百名以原价购买iPhone的消费者发送邮件至苹果公司，表达了自己的不满，这迫使[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")举办新闻发布会，在发布会上向这些消费者致歉，并补偿这些消费者100美元App Store代金券\[16\]。2008年2月5日，苹果公司放出iPhone16GB版本\[17\]，并在2008年3月6日宣布将会支持[软件开发工具包](../Page/软件开发工具包.md "wikilink")，允许第三方为iPhone开发应用程序。2008年6月9日，苹果公司发布了新一代的iPhone 3G，并于同年7月11日正式发售\[18\]，第一代iPhone则在iPhone 3G上市后彻底停产；第一代iPhone共计售出了6,124,000部\[19\]\[20\]。
+2007年9月5日，苹果公司很罕见的降低了8GB版本的价格，并停止生产4GB版本\[14\]。五天后，苹果公司宣布已卖出100万部iPhone\[15\]。在iPhone降价后，上百名以原价购买iPhone的消费者发送邮件至苹果公司，表达了自己的不满，这迫使[史蒂夫·乔布斯](../Page/史蒂夫·乔布斯.md "wikilink")举办新闻发布会，在发布会上向这些消费者致歉，并补偿这些消费者100美元Apple Store代金券\[16\]。2008年2月5日，苹果公司放出iPhone的16GB版本\[17\]，并在2008年3月6日宣布将会支持[软件开发工具包](../Page/软件开发工具包.md "wikilink")，允许第三方为iPhone开发应用程序。2008年6月9日，苹果公司发布了新一代的iPhone 3G，并于同年7月11日正式发售\[18\]，第一代iPhone则在iPhone 3G上市后彻底停产；第一代iPhone共计售出了6,124,000部\[19\]\[20\]。
 
 ## 设计
 
@@ -28,7 +28,7 @@ iPhone是一部4频段[GSM](../Page/GSM.md "wikilink")制式的智能電話，�
 
 ## 软件
 
-在iPhone发行过程中，iPhone的操作系统曾被命名为“iPhone OS”，但在之后的升级版本中，苹果公司将系统名称改为“[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")”。尽管苹果公司已经停止对第一代iPhone进行升级更高版本iOS的支持，但用户可通过[iOS越狱来进行升级](https://zh.wikipedia.org/wiki/iOS越狱 "wikilink")。甚至有黑客曾将[Android](../Page/Android.md "wikilink")系统安装到iPhone中\[23\]。第一代iPhone发售时支持虚拟语音信箱、HTML电子邮件、Safari网页浏览器、YouTube等功能，但并没有剪切、复制和粘贴功能。但在2009年6月17日放出的iPhone OS 3.0版本升级中，iPhone开始支持这些功能\[24\]。
+在iPhone发行过程中，iPhone的操作系统曾被命名为“iPhone OS”，但自第四个重大版本开始 (iOS 4)，苹果公司将系统名称改为“[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")”。尽管苹果公司已经停止对第一代iPhone进行升级更高版本iOS的支持，但用户可通过[iOS越狱来进行升级](https://zh.wikipedia.org/wiki/iOS越狱 "wikilink")。甚至有黑客曾将[Android](../Page/Android.md "wikilink")系统安装到iPhone中\[23\]。第一代iPhone发售时支持虚拟语音信箱、HTML电子邮件、Safari网页浏览器、YouTube等功能，但并没有剪切、复制和粘贴功能。但在2009年6月17日放出的iPhone OS 3.0版本升级中，iPhone开始支持这些功能\[24\]。
 
 ## 评价
 

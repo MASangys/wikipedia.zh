@@ -81,7 +81,7 @@ ZE:A在出道前，成員們均有演繹經驗，曾經為同門組合出演多�
 </tr>
 <tr class="even">
 <td><p>2007年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>花美男的危機</p></td>
 <td></td>
 <td></td>
@@ -318,7 +318,7 @@ ZE:A在出道前，成員們均有演繹經驗，曾經為同門組合出演多�
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>、<a href="../Page/TVN.md" title="wikilink">tvN</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a>、<a href="../Page/TVN.md" title="wikilink">tvN</a></p></td>
 <td><p><a href="../Page/七顛八起具海拉.md" title="wikilink">七顛八起具海拉</a></p></td>
 <td><p>炯植</p></td>
 <td><p>車達峰</p></td>
@@ -1219,7 +1219,7 @@ ZE:A在出道前，成員們均有演繹經驗，曾經為同門組合出演多�
 <td><p><a href="https://zh.wikipedia.org/wiki/Leap_For_Detonation" title="wikilink">Leap For Detonation</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Level_Up" title="wikilink">Level Up</a></p></td>
+<td><p><a href="../Page/Level_Up.md" title="wikilink">Level Up</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2011年</p></td>

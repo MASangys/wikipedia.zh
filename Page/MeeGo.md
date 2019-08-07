@@ -46,7 +46,7 @@ Jolla公司由Mer專案中，分支出[Sailfish OS](../Page/Sailfish_OS.md "wiki
 
 ## 系統需求
 
-[meego-handset-launcher.png](https://zh.wikipedia.org/wiki/File:meego-handset-launcher.png "fig:meego-handset-launcher.png") [MeeGo_Tablet_Computex_2010.png](https://zh.wikipedia.org/wiki/File:MeeGo_Tablet_Computex_2010.png "fig:MeeGo_Tablet_Computex_2010.png") [Meego-ivi-1.1-home.png](https://zh.wikipedia.org/wiki/File:Meego-ivi-1.1-home.png "fig:Meego-ivi-1.1-home.png") MeeGo同時支援[ARM和](https://zh.wikipedia.org/wiki/ARM "wikilink")[x86處理器](https://zh.wikipedia.org/wiki/x86 "wikilink")，支持[SSSE3](../Page/SSSE3.md "wikilink")指令集\[17\]。並且使用[btrfs作為預設的](https://zh.wikipedia.org/wiki/btrfs "wikilink")[檔案系統](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")。\[18\]
+[meego-handset-launcher.png](https://zh.wikipedia.org/wiki/File:meego-handset-launcher.png "fig:meego-handset-launcher.png")\]\] [MeeGo_Tablet_Computex_2010.png](https://zh.wikipedia.org/wiki/File:MeeGo_Tablet_Computex_2010.png "fig:MeeGo_Tablet_Computex_2010.png")\]\] [Meego-ivi-1.1-home.png](https://zh.wikipedia.org/wiki/File:Meego-ivi-1.1-home.png "fig:Meego-ivi-1.1-home.png")\]\] MeeGo同時支援[ARM和](https://zh.wikipedia.org/wiki/ARM "wikilink")[x86處理器](https://zh.wikipedia.org/wiki/x86 "wikilink")，支持[SSSE3](../Page/SSSE3.md "wikilink")指令集\[17\]。並且使用[btrfs作為預設的](https://zh.wikipedia.org/wiki/btrfs "wikilink")[檔案系統](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")。\[18\]
 
 ## 使用者界面
 

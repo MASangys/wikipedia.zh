@@ -7,7 +7,7 @@
   - [青文出版社](../Page/青文出版社.md "wikilink")小說《[數學少女](../Page/數學少女.md "wikilink")》台灣版封面設計與插畫
   - [極致行動科技遊戲原畫](https://zh.wikipedia.org/wiki/極致行動科技 "wikilink")
   - [魔技科的劍士與召喚魔王](../Page/魔技科的劍士與召喚魔王.md "wikilink")漫畫版（1-10連載中）
-  - [我的女友老師](https://zh.wikipedia.org/wiki/我的女友老師 "wikilink")（僕のカノジョ先生）漫畫版（[MF文庫J](../Page/MF文庫J.md "wikilink")連載。原作：鏡遊、原繪：おりょう、漫畫：孟倫&星河蟹）
+  - [我的女友是老師](https://zh.wikipedia.org/wiki/我的女友是老師 "wikilink")（僕のカノジョ先生）漫畫版（[MF文庫J](../Page/MF文庫J.md "wikilink")連載。原作：鏡遊、原繪：おりょう、漫畫：孟倫&星河蟹）
 
 ## 參考文獻
 

@@ -139,6 +139,7 @@ IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "
   - [菲尔兹奖](../Page/菲尔兹奖.md "wikilink")
   - [阿贝尔奖](../Page/阿贝尔奖.md "wikilink")
   - [沃尔夫奖](../Page/沃尔夫奖.md "wikilink")
+  - [克劳德·E·香农奖](../Page/克劳德·E·香农奖.md "wikilink")
   - [图灵奖](../Page/图灵奖.md "wikilink")
   - [日本國際獎](https://zh.wikipedia.org/wiki/日本國際獎 "wikilink")
   - [高松宮殿下紀念世界文化獎](../Page/高松宮殿下紀念世界文化獎.md "wikilink")

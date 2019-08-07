@@ -4,7 +4,7 @@
 
   - 此單曲是新主音[南條愛乃](../Page/南條愛乃.md "wikilink")加入fripSide後發行的首張單曲。
   - 初回限定盤（GNCA-0151）及通常盤（GNCA-0152）2種版本。初回限定盤付收录有《Only My Railgun》PV的DVD。
-  - 与本传的[魔法禁書目錄使用同一世界观](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")，南條愛乃在PV中以学生装登场。
+  - 為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[科學超電磁砲](../Page/科學超電磁砲.md "wikilink")》片頭曲，南條愛乃在[PV中以学生装登场](https://zh.wikipedia.org/wiki/PV "wikilink")。
   - 2009年11月16日获得Oricon周排行榜第3位的排位，同时获得自身在Oricon排行榜的最高排位及发售首日售出数量的最高记录\[1\]  </ref>\[2\]，发售后第一周销量是2万6000份\[3\]。
   - 截至2010年1月，總銷量已超過6萬張。
   - 截至2010年3月底，總銷量突破75000張。

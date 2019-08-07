@@ -265,8 +265,6 @@
 
 ## 資料來源
 
-<references/>
-
 [Category:HKRIA版權風波](https://zh.wikipedia.org/wiki/Category:HKRIA版權風波 "wikilink") [Category:香港音樂](https://zh.wikipedia.org/wiki/Category:香港音樂 "wikilink") [Category:版权](https://zh.wikipedia.org/wiki/Category:版权 "wikilink") [Category:無綫電視](https://zh.wikipedia.org/wiki/Category:無綫電視 "wikilink") [Category:亞洲電視](https://zh.wikipedia.org/wiki/Category:亞洲電視 "wikilink") [Category:香港有線電視](https://zh.wikipedia.org/wiki/Category:香港有線電視 "wikilink") [Category:Now_TV](https://zh.wikipedia.org/wiki/Category:Now_TV "wikilink")
 
 1.  [無綫與五大唱片商版權爭議解決 商業電台11月19日](http://hk.news.yahoo.com/%E7%84%A1%E7%B6%AB%E8%88%87%E4%BA%94%E5%A4%A7%E5%94%B1%E7%89%87%E5%95%86%E7%89%88%E6%AC%8A%E7%88%AD%E8%AD%B0%E8%A7%A3%E6%B1%BA-015600958.html)
@@ -278,9 +276,9 @@
 7.  [無綫僵持 拒播港台叱吒 2010年12月31日 新報報導](http://www.hkdailynews.com.hk/enews.php?id=140483)
 8.  [鄭伊健亮相無線拍外景 欲邀好友古巨基任嘉賓](http://dailynews.sina.com/bg/ent/hktwstar/sinacn/20110110/17462149627.html)
 9.  [2011年1月28日 新浪香港報導](http://news.sina.com.hk/news/15/1/1/1998427/1.html)
-10. <http://orientaldaily.on.cc/cnt/entertainment/20110727/00282_017.html>
-11. <http://paper.wenweipo.com/2011/09/10/EN1109100018.htm>
-12. <http://hk.apple.nextmedia.com/realtime/art_main.php?&iss_id=20110911&sec_id=7018882&art_id=50037788>
+10.
+11.
+12.
 13. [商業電台11月19日](http://hk.news.yahoo.com/%E7%84%A1%E7%B6%AB%E8%88%87%E4%BA%94%E5%A4%A7%E5%94%B1%E7%89%87%E5%95%86%E7%89%88%E6%AC%8A%E7%88%AD%E8%AD%B0%E8%A7%A3%E6%B1%BA-015600958.html)
 14. [蘋果日報即時新聞報導](http://hk.apple.nextmedia.com/realtime/art_main.php?iss_id=20120224&sec_id=7018882&art_id=50067632)
 15.

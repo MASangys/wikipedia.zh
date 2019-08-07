@@ -13,16 +13,7 @@ Facebook遊戲泛指必須透過[Facebook](../Page/Facebook.md "wikilink")平台
 | Despicable Me                                                               | 神偷奶爸：奔跑小小兵 |    | [1](https://www.facebook.com/games/despicablememr/) |      | 手機遊戲 |
 |                                                                             |            |    |                                                     |      |      |
 
-### 虛擬種菜類
-
-| 遊戲名稱(英)                                                               | 遊戲名稱(中)                            | 簡介                                              | 遊戲介面                                                                                       | 送禮功能            | 備註                            |
-| --------------------------------------------------------------------- | ---------------------------------- | ----------------------------------------------- | ------------------------------------------------------------------------------------------ | --------------- | ----------------------------- |
-| [FarmVille](../Page/FarmVille.md "wikilink")                          |                                    |                                                 | [英文](http://apps.facebook.com/onthefarm)、中文                                                | |有              | 早期中文匿名在遊戲中顯示異常，直至多國語言支援補丁釋出為止 |
-| [FarmVille中文版](https://zh.wikipedia.org/wiki/FarmVille中文版 "wikilink") |                                    | [中文](http://apps.facebook.com/onthefarmChinesr) | 有                                                                                          | 與英文版本相若，但系統並不相通 |                               |
-| Happy Farm                                                            | [開心農場](../Page/開心農場.md "wikilink") |                                                 | [中文](https://web.archive.org/web/20111123100616/http://apps.facebook.com/happyfarm_tw/)    |                 |                               |
-| FarmVille 2                                                           |                                    |                                                 | [中文](http://apps.facebook.com/farmville-two/)                                              | 有               |                               |
-| CastleVille                                                           |                                    |                                                 | [中文](https://web.archive.org/web/20111210130132/http://apps.facebook.com/playcastleville/) | 有               |                               |
-| [開心農民](../Page/開心農民.md "wikilink")                                    | [開心農民](../Page/開心農民.md "wikilink") |                                                 | 中文                                                                                         |                 |                               |
+它非常好玩
 
 ### 經營類
 

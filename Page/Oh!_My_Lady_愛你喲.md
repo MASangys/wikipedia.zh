@@ -5,14 +5,14 @@
   - **[蔡　琳](../Page/蔡琳.md "wikilink")** 飾演 **尹開花**(35歲)（台灣配音：[許淑嬪](../Page/許淑嬪.md "wikilink")、香港配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
   - **[崔始源](../Page/崔始源.md "wikilink")** 飾演 **成敏宇**(28歲)（台灣配音：[李世揚](../Page/李世揚.md "wikilink")、香港配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）
   - **[李賢宇](https://zh.wikipedia.org/wiki/李賢宇 "wikilink")** 飾演 **柳始俊**（台灣配音：[魏伯勤](../Page/魏伯勤.md "wikilink")、香港配音：[翟耀輝](../Page/翟耀輝.md "wikilink")）
-  - [朴寒別](https://zh.wikipedia.org/wiki/朴寒別 "wikilink") 飾演 洪友蘿（台灣配音：[馮嘉德](../Page/馮嘉德.md "wikilink")、香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink"))
+  - [朴寒別](https://zh.wikipedia.org/wiki/朴寒別 "wikilink") 飾演 洪友蘿（台灣配音：[馮嘉德](../Page/馮嘉德.md "wikilink")、香港配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
   - [文晶熙](../Page/文晶熙.md "wikilink") 飾演 韓正雅（台灣配音：[杜素真](../Page/杜素真.md "wikilink")）
-  - [俞泰雄](../Page/俞泰雄.md "wikilink") 飾演 金炳學（台灣配音：[黃天佑](../Page/黃天佑.md "wikilink")）
+  - [俞泰雄](../Page/俞泰雄.md "wikilink") 飾演 金炳學（台灣配音：[黃天佑](../Page/黃天佑.md "wikilink")、香港配音：[雷霆](../Page/雷霆.md "wikilink")）
   - [金希沅](../Page/金希沅.md "wikilink") 飾演 鄭倫錫（台灣配音：[曹冀魯](../Page/曹冀魯.md "wikilink")）
   - [金幼彬](../Page/金幼彬.md "wikilink") 飾演 藝　恩（台灣配音：[馮嘉德](../Page/馮嘉德.md "wikilink")）
   - [洪宗玄](../Page/洪宗玄.md "wikilink") 飾演 朴鎮浩（台灣配音：[黃天佑](../Page/黃天佑.md "wikilink")）
   - [金光奎](../Page/金光奎.md "wikilink") 飾演 韓民光
-  - [許俊碩](../Page/許俊碩.md "wikilink") 飾演 崔泰玖（台灣配音：[魏伯勤](../Page/魏伯勤.md "wikilink")）
+  - [許俊碩](../Page/許俊碩.md "wikilink") 飾演 崔泰玖（台灣配音：[魏伯勤](../Page/魏伯勤.md "wikilink")、香港配音：[李致林](../Page/李致林.md "wikilink")）
   - [李對淵](../Page/李對淵.md "wikilink") 飾演 嚴大龍（台灣配音：[李世揚](../Page/李世揚.md "wikilink")）
   - [方俊書](https://zh.wikipedia.org/wiki/方俊書 "wikilink") 飾演 金敏芝（台灣配音：[馮嘉德](../Page/馮嘉德.md "wikilink")）
 

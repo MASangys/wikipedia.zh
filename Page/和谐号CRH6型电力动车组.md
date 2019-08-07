@@ -245,7 +245,7 @@ ZE xxxx00</p></td>
 
 ### CRH6A-A（200km/h）
 
-[Chengdu-Ya’an_Railway_EMU_Train.jpeg](https://zh.wikipedia.org/wiki/File:Chengdu-Ya’an_Railway_EMU_Train.jpeg "fig:Chengdu-Ya’an_Railway_EMU_Train.jpeg")上的CRH6A-A于[雅安站](../Page/雅安站.md "wikilink")\]\] CRH6A-A车型为CRH6A的4辆小编组版本，最大载客量达688人。该车型针对城际铁路站间距小的特点，提升了加减速能力，能够像地铁列车一样“快起快停”。列车还采用大宽度的双开塞拉门，并增加车门数量，保障乘客可以快速上下车，缩短了停站时间。车厢连接处贯通道的宽度达到1.1米，而且座椅采用“2+2”布置，可以使车内的通行空间更加宽敞。此外，CRH6A-A还设有[Wi-Fi](../Page/Wi-Fi.md "wikilink")接入。该车型既可实现4辆编组单独运营，也可实现8辆编组重联运行\[10\]。
+[Chengdu-Ya’an_Railway_EMU_Train.jpeg](https://zh.wikipedia.org/wiki/File:Chengdu-Ya’an_Railway_EMU_Train.jpeg "fig:Chengdu-Ya’an_Railway_EMU_Train.jpeg")上的CRH6A-A于[雅安站](../Page/雅安站.md "wikilink")\]\] CRH6A-A车型为CRH6A的4辆小编组版本，最大载客量达688人。该车型针对城际铁路站间距小的特点，提升了加减速能力，能够像地铁列车一样“快起快停”。列车还采用大宽度的双开塞拉门，并增加车门数量，保障乘客可以快速上下车，缩短了停站时间。车厢连接处贯通道的宽度达到1.1米，而且座椅采用“2+2”布置，可以使车内的通行空间更加宽敞。此外，CRH6A-A还设有[Wi-Fi](../Page/Wi-Fi.md "wikilink")接入。该车型既可4辆编组单独运营，也可8辆编组重联运行\[10\]。
 
 <File:201907> Interior of CRH6A-A-0442.jpg|CRH6A-A车厢内部 <File:CRH6A-A> Handler.jpg|车厢内的扶手 <File:CRH6A-A> PIDS.jpg|车厢内乘客信息显示系统 <File:CRH6A-A> Luggage Handler.jpg|车厢内行李架
 
@@ -542,7 +542,7 @@ ZE xxxx00</p></td>
 
 ### 市域动车组（140km/h）
 
-[WZMTR_S1_Train_with_CRH380B.jpg](https://zh.wikipedia.org/wiki/File:WZMTR_S1_Train_with_CRH380B.jpg "fig:WZMTR_S1_Train_with_CRH380B.jpg")市域动车组列车于[动车南站](../Page/动车南站_\(温州市\).md "wikilink")\]\] 基于Cinova城际列车平台衍生的市域动车组时速140千米/每小时，定员载客量达765人，（包括座席及站席，按每平方米站立4人计算），超员载客量达1322人，座椅為一般城市軌道交通設計；列车在5号车厢设残疾人乘坐空间，列车不设洗手间，目前投入至[温州市域铁路S1线](../Page/温州市域铁路S1线.md "wikilink")的运营。
+[WZMTR_S1_Train_with_CRH380B.jpg](https://zh.wikipedia.org/wiki/File:WZMTR_S1_Train_with_CRH380B.jpg "fig:WZMTR_S1_Train_with_CRH380B.jpg")市域动车组列车于[动车南站](../Page/动车南站_\(温州市\).md "wikilink")\]\] 基于Cinova城际列车平台衍生的市域动车组时速140千米/每小时，定员载客量达765人，（包括座席及站席，按每平方米站立4人计算），超员载客量达1322人，採用城市軌道交通座椅佈局；列车在5号车厢设残疾人乘坐空间，列车不设洗手间，目前投入至[温州市域铁路S1线](../Page/温州市域铁路S1线.md "wikilink")的运营。
 
 ## 运用
 

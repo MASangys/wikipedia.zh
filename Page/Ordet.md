@@ -2,7 +2,7 @@
 
 ## 概要
 
-Ordet起初以分包商的性質營運。2007年8月，由[京都動畫](../Page/京都動畫.md "wikilink")數位映像開發室在籍擔任導演一職的[山本寬](../Page/山本寬.md "wikilink")從子公司Animation Do退出並將電視動畫《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》製作完成之後，與社內的數名社員（含演出家一職的吉岡忍、動畫師門脇聰），共同創立Ordet，成立時營運資金為3百萬日圓。未搬遷至現有辦工室前，製作室設於A-1 Pictures附近。
+Ordet起初以分包商的性質營運。2007年8月，由[京都動畫](../Page/京都動畫.md "wikilink")數位映像開發室在籍擔任導演一職的[山本寬](../Page/山本寬.md "wikilink")從子公司Animation Do退出並將電視動畫《[幸運☆星](../Page/幸運☆星.md "wikilink")》製作完成之後，與社內的數名社員（含演出家一職的吉岡忍、動畫師門脇聰），共同創立Ordet，成立時營運資金為3百萬日圓。未搬遷至現有辦工室前，製作室設於A-1 Pictures附近。
 
 成立之後立即向總承包商[HAL FILM MAKER的](https://zh.wikipedia.org/wiki/HAL_FILM_MAKER "wikilink")《[Sketch book 〜full color's〜](../Page/Sketch_book～素描簿～.md "wikilink")》的分工製作。2008年才與[A-1 Pictures合作首次參與製作熱門電視動畫](../Page/A-1_Pictures.md "wikilink")，並由山本寬擔任《[神薙](../Page/神薙.md "wikilink")》的導演。2010年才首次獨力制作單集動畫《[BLACK★ROCK SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》。
 

@@ -3032,6 +3032,12 @@ MV[60]</p></td>
 <td><p><a href="../Page/吳崇銘.md" title="wikilink">吳崇銘</a></p></td>
 <td><p>Suzy Wong</p></td>
 </tr>
+<tr class="odd">
+<td><p>2019年7月27日</p></td>
+<td><p>《香港電競音樂節》</p></td>
+<td><p><a href="../Page/吳崇銘.md" title="wikilink">吳崇銘</a></p></td>
+<td><p><a href="../Page/香港會議展覽中心.md" title="wikilink">香港會議展覽中心</a></p></td>
+</tr>
 </tbody>
 </table>
 

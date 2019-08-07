@@ -131,7 +131,7 @@
 <tr class="odd">
 <td><p>四哥</p></td>
 <td><p><a href="../Page/黎漢持.md" title="wikilink">黎漢持</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馮永和" title="wikilink">馮永和</a></p></td>
+<td><p><a href="../Page/馮永和.md" title="wikilink">馮永和</a></p></td>
 <td><p>狄雲的同事<br />
 原型：<a href="../Page/謝賢.md" title="wikilink">謝賢</a></p></td>
 </tr>

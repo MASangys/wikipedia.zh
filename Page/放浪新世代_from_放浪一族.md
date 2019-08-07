@@ -948,7 +948,7 @@
 
 ### 廣播
 
-  - GENERATIONSのGENETALK（[JFN](https://zh.wikipedia.org/wiki/JFN "wikilink")、2013年4月 - ）
+  - GENERATIONSのGENETALK（[JFN](../Page/JFN.md "wikilink")、2013年4月 - ）
 
 ### 現場演唱會
 

@@ -102,7 +102,7 @@
 
   - 4月23日，發行出道以來的第一張專輯《[already](https://zh.wikipedia.org/wiki/already "wikilink")》\[11\]，並且成功奪得Oricon專輯週榜冠軍。包含單曲在內，Not yet目前共有5部作品得到首周冠軍，與過去女子團體衍生組合的冠軍數目紀錄持平，而之前的紀錄是同樣由秋元康擔任監督的[小貓俱樂部](../Page/小貓俱樂部.md "wikilink")衍生組合[指指點點組所保持](https://zh.wikipedia.org/wiki/指指點點組 "wikilink")，是繼1987年3月2日以來、相隔27年又2個月後，再次有衍生組合達成此項紀錄\[12\]。
   - 5月10日，於有明競技場舉行「Not yet 1st Album《already》發售紀念SPECIAL LIVE。」
-  - 10月15日，發行「Not yet "already" 2014.5.10 1st LIVE」演唱會影音作品，其中[藍光版本在首週拿下](https://zh.wikipedia.org/wiki/藍光 "wikilink")1.1萬的銷售佳績，創下由2008年7月藍光榜發布後，首次有偶像衍生團體拿下銷量冠軍的紀錄，也打破過去由[走廊奔跑隊所創下的藍光影音作品銷量紀錄](https://zh.wikipedia.org/wiki/走廊奔跑隊 "wikilink")，而DVD版本銷量也拿下首週DVD榜第2名的佳績\[13\]。
+  - 10月15日，發行「Not yet "already" 2014.5.10 1st LIVE」演唱會影音作品，其中[藍光](../Page/藍光.md "wikilink")版本在首週拿下1.1萬的銷售佳績，創下由2008年7月藍光榜發布後，首次有偶像衍生團體拿下銷量冠軍的紀錄，也打破過去由[走廊奔跑隊所創下的藍光影音作品銷量紀錄](https://zh.wikipedia.org/wiki/走廊奔跑隊 "wikilink")，而DVD版本銷量也拿下首週DVD榜第2名的佳績\[13\]。
 
 ## 音樂作品
 

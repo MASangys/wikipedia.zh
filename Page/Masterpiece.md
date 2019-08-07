@@ -1,4 +1,4 @@
-《**masterpiece**》（）是[川田真美](../Page/川田真美.md "wikilink")的第7張單曲。於2009年2月4日由Geneon Universal Entertainment Japan, LLC.發行。
+《**masterpiece**》是[川田真美](../Page/川田真美.md "wikilink")的第7張單曲。於2009年2月4日由Geneon Universal Entertainment Japan, LLC.發行。
 
 ## 收錄曲
 

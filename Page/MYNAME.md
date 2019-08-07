@@ -487,36 +487,36 @@ MYNAME是由R\&B組合[Fly to the Sky成員](../Page/Fly_to_the_Sky.md "wikilink
 
 ## 音樂現場
 
-|                                                                       |                                                       |                     |
-| --------------------------------------------------------------------- | ----------------------------------------------------- | ------------------- |
-| 名稱                                                                    | 頻道                                                    | 日期                  |
-| Message                                                               |                                                       |                     |
-| \[M\! Countdown\]\]                                                   | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 10月27日、11月10日       |
-| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 11月25日              |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")    | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 11月5日、11月12日、11月19日 |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | 10月30日、11月20日、12月4日 |
-| [MUSIC ON TOP](https://zh.wikipedia.org/wiki/MUSIC_ON_TOP "wikilink") | [JTBC](../Page/JTBC.md "wikilink")                    | 12月8日               |
+|                                                                       |                                                     |                     |
+| --------------------------------------------------------------------- | --------------------------------------------------- | ------------------- |
+| 名稱                                                                    | 頻道                                                  | 日期                  |
+| Message                                                               |                                                     |                     |
+| \[M\! Countdown\]\]                                                   | [Mnet](../Page/Mnet.md "wikilink")                  | 10月27日、11月10日       |
+| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 11月25日              |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")    | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 11月5日、11月12日、11月19日 |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 10月30日、11月20日、12月4日 |
+| [MUSIC ON TOP](https://zh.wikipedia.org/wiki/MUSIC_ON_TOP "wikilink") | [JTBC](../Page/JTBC.md "wikilink")                  | 12月8日               |
 
-|                                                                        |                                                       |                        |
-| ---------------------------------------------------------------------- | ----------------------------------------------------- | ---------------------- |
-| 名稱                                                                     | 頻道                                                    | 日期                     |
-| Hello & Goodbye                                                        |                                                       |                        |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 6月7日、6月21日             |
-| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | 6月1日、6月15日、6月22日、7月13日 |
-| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 6月2日、6月16日、6月30日、7月21日 |
-| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | 6月3日、6月10日、6月24日       |
-| [Show Champion](../Page/Show_Champion.md "wikilink")                   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | 6月13日                  |
+|                                                                        |                                                     |                        |
+| ---------------------------------------------------------------------- | --------------------------------------------------- | ---------------------- |
+| 名稱                                                                     | 頻道                                                  | 日期                     |
+| Hello & Goodbye                                                        |                                                     |                        |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](../Page/Mnet.md "wikilink")                  | 6月7日、6月21日             |
+| [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 6月1日、6月15日、6月22日、7月13日 |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 6月2日、6月16日、6月30日、7月21日 |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 6月3日、6月10日、6月24日       |
+| [Show Champion](../Page/Show_Champion.md "wikilink")                   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 6月13日                  |
 
 |                                                                        |                                                                   |                            |
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------- | -------------------------- |
 | 名稱                                                                     | 頻道                                                                | 日期                         |
 | Just That Little Thing                                                 |                                                                   |                            |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")             | 2月7日、2月14日                 |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](../Page/Mnet.md "wikilink")                                | 2月7日、2月14日                 |
 | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 2月22日                      |
 | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")               | 2月3日、2月10日                 |
 | [Show Champion](../Page/Show_Champion.md "wikilink")                   | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 2月6日、2月13日、3月6日            |
 | Baby I'm sorry                                                         |                                                                   |                            |
-| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")             | 7月4日                       |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | [Mnet](../Page/Mnet.md "wikilink")                                | 7月4日                       |
 | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 7月19日                      |
 | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 7月6日、7月13日、7月20日           |
 | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")               | 7月21日                      |

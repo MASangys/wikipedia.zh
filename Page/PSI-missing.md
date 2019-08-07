@@ -1,4 +1,4 @@
-《**PSI-missing**》（サイ・ミッシング）是[川田真美](../Page/川田真美.md "wikilink")的第6張單曲。於2008年10月29日由Geneon Universal Entertainment Japan, LLC.發行。
+《**PSI-missing**》是[川田真美](../Page/川田真美.md "wikilink")的第6張單曲。於2008年10月29日由Geneon Universal Entertainment Japan, LLC.發行。
 
 ## 收錄曲
 

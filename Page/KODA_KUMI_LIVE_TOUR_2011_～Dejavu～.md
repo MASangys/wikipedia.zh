@@ -2,7 +2,7 @@
 
 ## 解說
 
-  - 本次發行「[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")」、「[藍光](https://zh.wikipedia.org/wiki/藍光 "wikilink")」二版本，各兩片裝。
+  - 本次發行「[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")」、「[藍光](../Page/藍光.md "wikilink")」二版本，各兩片裝。
   - 初回限定盤特典為「塑膠盒裝」、「倖田來未周邊商品應募券」。
   - 本次的巡迴演唱會是睽違4年以「HALL」的場地舉辦，動員約全國15萬人次，本作收錄「長野ホクト文化ホール」場次的影像。
   - DISC 2更收錄了長達83分鐘的特典影片，詳細記錄全59場公演的幕後特輯以及其他特典影像。

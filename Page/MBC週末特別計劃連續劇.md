@@ -1038,7 +1038,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年7月20日－<br />
 2019年9月21日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃金庭院" title="wikilink">黃金庭院</a><br />
+<td style="text-align: center;"><p><a href="../Page/黃金庭院.md" title="wikilink">黃金庭院</a><br />
 </p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><a href="../Page/韓智慧.md" title="wikilink">韓智慧</a>、<a href="../Page/李尚禹.md" title="wikilink">李尚禹</a>、<a href="../Page/吳知恩.md" title="wikilink">吳知恩</a>、<a href="../Page/李太成.md" title="wikilink">李太成</a></p></td>

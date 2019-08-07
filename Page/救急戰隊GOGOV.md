@@ -168,7 +168,7 @@
 <td><p>替身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/坂口望二香" title="wikilink"><font color="White">坂口望二香</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/坂口望二香" title="wikilink"><font color="Black">坂口望二香</font></a></p></td>
 <td><p>巽祭</p></td>
 <td><p>小妹</p></td>
 <td><p>Go Pink</p></td>

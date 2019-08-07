@@ -215,7 +215,7 @@ CheyTac M200干預型狙擊步槍同時出現在[电影](../Page/电影.md "wiki
   - [雷明登MSR](../Page/雷明登MSR狙擊步槍.md "wikilink")
   - [儒格M77](../Page/儒格M77步槍.md "wikilink")
   - [薩科蒂卡T3](../Page/薩科蒂卡T3步槍.md "wikilink")
-  - [薩科TRG-21／22／41／42](https://zh.wikipedia.org/wiki/薩科TRG狙擊步槍 "wikilink")
+  - [薩科TRG-21／22／41／42](../Page/薩科TRG狙擊步槍.md "wikilink")
   - [薩科TRG M10](https://zh.wikipedia.org/wiki/薩科TRG_M10狙擊步槍 "wikilink")
   - [薩維奇10FP](https://zh.wikipedia.org/wiki/薩維奇10FP狙擊步槍 "wikilink")
   - [薩維奇110BA](https://zh.wikipedia.org/wiki/薩維奇110BA狙擊步槍 "wikilink")

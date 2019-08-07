@@ -4,7 +4,7 @@
 
 最初他以Hip Hop歌手身份出道，他在2006年發表個人首張單曲"Boom Up"，以及在2007年發表第二張單曲《질러》。他原是Nu Clear樂隊的一員。
 
-漸漸地他透過出演一些著名綜藝節目而獲得人氣，例如[X-Man以及情書](https://zh.wikipedia.org/wiki/X-Man "wikilink")。接著他開始主持一些節目包括[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《School Of Rock》，以及著名綜藝節目《偶像軍團的紅了！她》、《Star King》以及《香檳》。之後，他成為Boom學院院長，帶領一班偶像進行搞笑情節，成員包括[Super Junior的](../Page/Super_Junior.md "wikilink")[利特](../Page/利特.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")和[神童](../Page/神童.md "wikilink")。
+漸漸地他透過出演一些著名綜藝節目而獲得人氣，例如[X-Man以及情書](https://zh.wikipedia.org/wiki/X-Man "wikilink")。接著他開始主持一些節目包括[Mnet](../Page/Mnet.md "wikilink")《School Of Rock》，以及著名綜藝節目《偶像軍團的紅了！她》、《Star King》以及《香檳》。之後，他成為Boom學院院長，帶領一班偶像進行搞笑情節，成員包括[Super Junior的](../Page/Super_Junior.md "wikilink")[利特](../Page/利特.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")和[神童](../Page/神童.md "wikilink")。
 
 Boom于2009年10月29日正式入伍，其於国防部勤务支持团宣传志愿队中以演艺兵的身份服役22個月後，於2011年8月22日正式退伍。
 

@@ -37,12 +37,12 @@ Nana出道前曾去參加2009年亞洲超級模特兒大賽（參賽編號為26�
 
 ### 電視劇
 
-| 年份                                                    | 電視台                                                                   | 劇名                                                                      | 角色       | 備註  |
-| ----------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------------------------------- | -------- | --- |
-| 2015年                                                 | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")                 | [相爱穿梭千年](../Page/相爱穿梭千年.md "wikilink")                                  | 趙娜娜      | 配角  |
-| 2016年                                                 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")                   | [The Good Wife](https://zh.wikipedia.org/wiki/The_Good_Wife "wikilink") | 金丹\[21\] | 配角  |
-| 2019年                                                 | [OCN](../Page/OCN_\(頻道\).md "wikilink")                               | [Kill It](../Page/Kill_It.md "wikilink")                                | 都賢真      | 女主角 |
-| [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [JUSTICE](https://zh.wikipedia.org/wiki/Justice_\(韓國電視劇\) "wikilink") | 徐妍雅                                                                     | 女主角      |     |
+| 年份                                                    | 電視台                                                   | 劇名                                                                      | 角色       | 備註  |
+| ----------------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------------------------------- | -------- | --- |
+| 2015年                                                 | [湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink") | [相爱穿梭千年](../Page/相爱穿梭千年.md "wikilink")                                  | 趙娜娜      | 配角  |
+| 2016年                                                 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [The Good Wife](https://zh.wikipedia.org/wiki/The_Good_Wife "wikilink") | 金丹\[21\] | 配角  |
+| 2019年                                                 | [OCN](../Page/OCN_\(頻道\).md "wikilink")               | [Kill It](../Page/Kill_It.md "wikilink")                                | 都賢真      | 女主角 |
+| [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [JUSTICE](../Page/Justice_\(韓國電視劇\).md "wikilink")    | 徐妍雅                                                                     | 女主角      |     |
 
 ### 網絡劇
 

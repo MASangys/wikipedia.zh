@@ -1,4 +1,4 @@
-**BOYFRIEND**（，），為[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，於2011年5月24日在[Mnet節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!Pick](https://zh.wikipedia.org/wiki/M!Pick "wikilink")》首次亮相，並於同年5月26日在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。團體由[東玄](../Page/金東玄.md "wikilink")、賢星、正珉、榮旻、光旻以及珉玗六位成員所組成，所屬公司為[STARSHIP娱乐](../Page/STARSHIP娛樂.md "wikilink")。 \[1\]No Yun Ho跟TNT雖是原先公佈的成員之一，但在出道前成員更換成賢星和正珉。
+**BOYFRIEND**（，），為[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")，於2011年5月24日在[Mnet](../Page/Mnet.md "wikilink")節目《[M\!Pick](https://zh.wikipedia.org/wiki/M!Pick "wikilink")》首次亮相，並於同年5月26日在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。團體由[東玄](../Page/金東玄.md "wikilink")、賢星、正珉、榮旻、光旻以及珉玗六位成員所組成，所屬公司為[STARSHIP娱乐](../Page/STARSHIP娛樂.md "wikilink")。 \[1\]No Yun Ho跟TNT雖是原先公佈的成員之一，但在出道前成員更換成賢星和正珉。
 
 Boyfriend的韓國歌迷名稱為Best friend（）。 Best就是指無論何時何地都在Boyfriend的身邊，成為一個堅不可摧、最棒的支持者；而Friend是隨著Boyfriend的「Friend」所決定的，有著永遠成為Boyfriend的好朋友的意思。同時，這亦意味著Best Friend無論在何時都會守護在Boyfriend的身邊，成為他們最好的朋友。**Boyfriend的日本歌迷名稱為Dear friend，但不常使用。**
 
@@ -12,7 +12,7 @@ Boyfriend的韓國歌迷名稱為Best friend（）。 Best就是指無論何時�
 
 ### 2011年：首张單曲《Boyfriend》、韩国出道
 
-由经纪公司[STARSHIP娱乐](../Page/STARSHIP娛樂.md "wikilink")，推出的第一男子团体。5月20日，公开《Boyfriend》预告。5月24日，在[Mnet節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!Pick](https://zh.wikipedia.org/wiki/M!Pick "wikilink")》首次亮相。5月26日，發行首張同名單曲《Boyfriend》，在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。10月6日，發行第二張單曲《Don't touch my girl》。12月8日，發行第三張單曲《I'll be there》。
+由经纪公司[STARSHIP娱乐](../Page/STARSHIP娛樂.md "wikilink")，推出的第一男子团体。5月20日，公开《Boyfriend》预告。5月24日，在[Mnet](../Page/Mnet.md "wikilink")節目《[M\!Pick](https://zh.wikipedia.org/wiki/M!Pick "wikilink")》首次亮相。5月26日，發行首張同名單曲《Boyfriend》，在《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道。10月6日，發行第二張單曲《Don't touch my girl》。12月8日，發行第三張單曲《I'll be there》。
 
 ### 2012年：榮獲新人獎、日本出道、發行首張迷你專輯及首張正規專輯
 
@@ -168,13 +168,13 @@ Boyfriend的韓國歌迷名稱為Best friend（）。 Best就是指無論何時�
 </tr>
 <tr class="even">
 <td><p><strong>2011</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><strong>M! Pick</strong></p></td>
 <td><p>Ep. 1-5 {{hidden</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2012</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><strong>Boyfriend's W Academy</strong></p></td>
 <td><p>Ep. 1-8 {{hidden</p></td>
 </tr>

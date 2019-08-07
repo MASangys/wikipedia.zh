@@ -2357,6 +2357,15 @@ Team 4选秀研究生 多田京加昇格至所属队伍</p></td>
 <td><p>23<br />
 (5/2/3)</p></td>
 </tr>
+<tr class="even">
+<td><p>7月27日</p></td>
+<td><p>Team K选秀研究生 岡田梨奈、小林蘭昇格为正式成员</p></td>
+<td></td>
+<td><p>102</p></td>
+<td><p>89</p></td>
+<td><p>23<br />
+(5/2/3)</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -3218,6 +3227,27 @@ Team 4选秀研究生 多田京加昇格至所属队伍</p></td>
 <td><p>黒須遥香</p></td>
 <td><p>16期</p></td>
 <td><p>4</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>7月27日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>岡田梨奈</p></td>
+<td><p>選秀3期</p></td>
+<td><p>K</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>小林蘭</p></td>
+<td><p>選秀3期</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

@@ -57,7 +57,7 @@
 <tr class="even">
 <td><p>2015</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL</a></p></td>
-<td><p><a href="../Page/彩暻.md" title="wikilink">彩暻</a>、 <a href="https://zh.wikipedia.org/wiki/金採媛" title="wikilink">採媛</a>、<a href="https://zh.wikipedia.org/wiki/李娜恩" title="wikilink">娜恩</a>、<a href="https://zh.wikipedia.org/wiki/梁睿娜" title="wikilink">睿娜</a>、Rachel、<a href="https://zh.wikipedia.org/wiki/李真率" title="wikilink">真率</a></p></td>
+<td><p><a href="../Page/彩暻.md" title="wikilink">彩暻</a>、 <a href="https://zh.wikipedia.org/wiki/金採媛" title="wikilink">採媛</a>、<a href="../Page/李娜恩.md" title="wikilink">娜恩</a>、<a href="https://zh.wikipedia.org/wiki/梁睿娜" title="wikilink">睿娜</a>、Rachel、<a href="https://zh.wikipedia.org/wiki/李真率" title="wikilink">真率</a></p></td>
 <td><p><a href="../Page/彩暻.md" title="wikilink">彩暻</a>（非官方）</p></td>
 <td><p>FINEAPPLE</p></td>
 <td><p>未公佈</p></td>

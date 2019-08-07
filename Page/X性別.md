@@ -30,7 +30,7 @@ X性別中存在一些不同[性別認同](../Page/性別認同.md "wikilink")�
 
 ## [生物性別與社會的關係](https://zh.wikipedia.org/wiki/生物性別 "wikilink")
 
-至少在在20世纪70年代以来，人类学家在一些文化中發現了[性别范畴](../Page/性别角色.md "wikilink")，但他们无法用两性框架来充分解释性别范畴。\[15\]与此同时，[女性主义者开始区分](https://zh.wikipedia.org/wiki/女性主义 "wikilink")（生物）性别（sex）和（社会/心理）性别（gender），认为社会的性别概念是由社会文化所影响，打破及消除[性别定型是不少女性主义者的目标](https://zh.wikipedia.org/wiki/性别定型 "wikilink")。当代性别理论家通常认为，两性既不是先天的也不是普遍的。只承认两性的社会规范体系被称为“[順性別](../Page/順性別.md "wikilink")[异性恋主義者](https://zh.wikipedia.org/wiki/异性恋 "wikilink")”，但因绝大部分人（逾95%）均为[順性別](../Page/順性別.md "wikilink")[异性恋](https://zh.wikipedia.org/wiki/异性恋 "wikilink")，有关用词被批评为[政治正确](https://zh.wikipedia.org/wiki/政治正确 "wikilink")。
+至少在在20世纪70年代以来，人类学家在一些文化中發現了[性别范畴](../Page/性别角色.md "wikilink")，但他们无法用两性框架来充分解释性别范畴。\[15\]与此同时，[女性主义者开始区分](https://zh.wikipedia.org/wiki/女性主义 "wikilink")（生物）性别（sex）和（社会/心理）性别（gender），认为社会的性别概念是由社会文化所影响，打破及消除[性别定型是不少女性主义者的目标](https://zh.wikipedia.org/wiki/性别定型 "wikilink")。当代性别理论家通常认为，两性既不是先天的也不是普遍的。只承认两性的社会规范体系被称为“[順性別](../Page/順性別.md "wikilink")[异性恋](../Page/异性恋.md "wikilink")主義者”，但因绝大部分人（逾95%）均为[順性別](../Page/順性別.md "wikilink")[异性恋](../Page/异性恋.md "wikilink")，有关用词被批评为[政治正确](https://zh.wikipedia.org/wiki/政治正确 "wikilink")。
 
 人类学家Michael G. Peletz认为，有关于不同性别的種類（包括对性別的态度）的观念深深地影响着我们的生活，并反映了我们在社会中的价值观。 在Peletz的着作“现代亚洲的生物性别，性别角色和政治”一书中，他描述道：\[16\]
 

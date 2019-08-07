@@ -107,7 +107,7 @@ SPEC本身其實是人類已經擁有的能力，由於不懂運用而處於沉�
 <!-- end list -->
 
   -
-    40歲，搜查一課管理官，早年曾跟隨野野村光太郎，時常暗中幫助未詳。出勤時經常與鹿濱步、豬俣宗次兩人共同行動，被當麻合稱叫「馬鹿豬」（取三人姓名的漢字首字）或「雜魚角色」（此為動漫用語，諷刺三人僅具[陪襯功能](https://zh.wikipedia.org/wiki/嘍囉 "wikilink")）。
+    40歲，搜查一課管理官，早年曾跟隨野野村光太郎，時常暗中幫助未詳。出勤時經常與鹿濱步、豬俣宗次兩人共同行動，被當麻合稱叫「馬鹿豬」（取三人姓名的漢字首字）或「雜魚角色」（；此為動漫用語，諷刺三人僅具[陪襯功能](https://zh.wikipedia.org/wiki/嘍囉 "wikilink")）。
 
 <!-- end list -->
 
@@ -689,7 +689,7 @@ director edition長2小時</p></td>
   - [TBS週五連續劇](../Page/TBS週五連續劇.md "wikilink")
   - [繼續](../Page/繼續.md "wikilink")（SPEC系列前作）
   - [ATARU](../Page/ATARU.md "wikilink")（SPEC部分角色亂入該劇）
-  - [SICK'S ～內閣情報調查室特務專項專從係事件簿～](https://zh.wikipedia.org/wiki/SICK'S_～內閣情報調查室特務專項專從係事件簿～ "wikilink")（SPEC系列續作）
+  - [SICK'S ～內閣情報調查室特務專項專從係事件簿～](../Page/SICK'S_～內閣情報調查室特務專項專從係事件簿～.md "wikilink")（SPEC系列續作）
 
 ## 參考文獻
 

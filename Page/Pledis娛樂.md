@@ -116,6 +116,8 @@
 
 ## 練習生
 
+  - 許允真（[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")）
+
 ## 昔日練習生
 
   - 男

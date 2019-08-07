@@ -36,4 +36,4 @@
 
   -
   -
-[Category:劇場版美少女戰士](https://zh.wikipedia.org/wiki/Category:劇場版美少女戰士 "wikilink") [Category:1995年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1995年日本劇場動畫 "wikilink") [Category:芝田浩樹電影](https://zh.wikipedia.org/wiki/Category:芝田浩樹電影 "wikilink") [Category:朝日電視台製作的電影](https://zh.wikipedia.org/wiki/Category:朝日電視台製作的電影 "wikilink") [Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink")
+[Category:劇場版美少女戰士](https://zh.wikipedia.org/wiki/Category:劇場版美少女戰士 "wikilink") [Category:1995年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:1995年日本劇場動畫 "wikilink") [Category:芝田浩樹電影](https://zh.wikipedia.org/wiki/Category:芝田浩樹電影 "wikilink") [Category:朝日電視台製作的電影](https://zh.wikipedia.org/wiki/Category:朝日電視台製作的電影 "wikilink") [Category:魔女题材作品](https://zh.wikipedia.org/wiki/Category:魔女题材作品 "wikilink") [Category:中國大陸禁片](https://zh.wikipedia.org/wiki/Category:中國大陸禁片 "wikilink")

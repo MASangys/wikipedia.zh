@@ -1,8 +1,8 @@
-**INFINITE**（）[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")，現任成員有[聖圭](https://zh.wikipedia.org/wiki/聖圭 "wikilink")、[東雨](https://zh.wikipedia.org/wiki/東雨 "wikilink")、[優鉉](https://zh.wikipedia.org/wiki/優鉉 "wikilink")、[成烈](https://zh.wikipedia.org/wiki/成烈 "wikilink")、[L和](../Page/金明洙.md "wikilink")[成種](https://zh.wikipedia.org/wiki/成種 "wikilink")。所屬公司為[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")，出道前由韓國嘻哈團體[Epik High成員](../Page/Epik_High.md "wikilink")[Tablo培訓](https://zh.wikipedia.org/wiki/Tablo "wikilink")。於2010年6月9日以歌曲〈再次回來吧〉正式出道。 2017年8月30日，成員[Hoya](../Page/Hoya.md "wikilink")不續約退出團體，組合改以六人形式繼續活動。
+**INFINITE**（）[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")，現任成員有[聖圭](https://zh.wikipedia.org/wiki/聖圭 "wikilink")、[東雨](https://zh.wikipedia.org/wiki/東雨 "wikilink")、[優鉉](https://zh.wikipedia.org/wiki/優鉉 "wikilink")、[成烈](https://zh.wikipedia.org/wiki/成烈 "wikilink")、[L和](../Page/金明洙.md "wikilink")[成鍾](https://zh.wikipedia.org/wiki/成鍾 "wikilink")。所屬公司為[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")，出道前由韓國嘻哈團體[Epik High成員](../Page/Epik_High.md "wikilink")[Tablo培訓](https://zh.wikipedia.org/wiki/Tablo "wikilink")。於2010年6月9日以歌曲〈再次回來吧〉正式出道。 2017年8月30日，成員[Hoya](../Page/Hoya.md "wikilink")不續約退出團體，組合改以六人形式繼續活動。
 
 團名的含義是希望團體和成員在音樂或其他方面均具有無界限的可能性。團體標誌為代表無限大的符號「∞」，會隨著每次專輯和活動概念而更換視覺設計。官方歌迷名稱為「INSPIRIT」（）於2011年1月20日由粉絲投票誕生。有激勵、鼓勵的意思，且其中的「IN」代表INFINITE，「SPIRIT」意指活力、心靈 。應援色為珍珠金屬金色（Pearl Metal Gold），官方應援手燈被成員和粉絲命名為「老婆棒」。INSPIRIT Fanclub於2011年8月17日成立。
 
-2012年，成員[聖圭以個人歌手身份出道](https://zh.wikipedia.org/wiki/聖圭 "wikilink")。2013年，成員[東雨與](https://zh.wikipedia.org/wiki/東雨 "wikilink")[Hoya](../Page/Hoya.md "wikilink")組成分隊[INFINITE H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")（現已解散）。2014年，成員[優鉉與](https://zh.wikipedia.org/wiki/優鉉 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的[Key組成特別企劃組合](https://zh.wikipedia.org/wiki/Key "wikilink")[Toheart](../Page/Toheart.md "wikilink")。同年，成員[成烈](https://zh.wikipedia.org/wiki/成烈 "wikilink")、[L與](../Page/金明洙.md "wikilink")[成種組成分隊](https://zh.wikipedia.org/wiki/成種 "wikilink")[INFINITE F](../Page/INFINITE_F.md "wikilink")。2016年，成員[優鉉以個人歌手身份出道](https://zh.wikipedia.org/wiki/優鉉 "wikilink")。
+2012年，成員[聖圭以個人歌手身份出道](https://zh.wikipedia.org/wiki/聖圭 "wikilink")。2013年，成員[東雨與](https://zh.wikipedia.org/wiki/東雨 "wikilink")[Hoya](../Page/Hoya.md "wikilink")組成分隊[INFINITE H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")（現已解散）。2014年，成員[優鉉與](https://zh.wikipedia.org/wiki/優鉉 "wikilink")[SHINee](../Page/SHINee.md "wikilink")的[Key組成特別企劃組合](https://zh.wikipedia.org/wiki/Key "wikilink")[Toheart](../Page/Toheart.md "wikilink")。同年，成員[成烈](https://zh.wikipedia.org/wiki/成烈 "wikilink")、[L與](../Page/金明洙.md "wikilink")[成鍾組成分隊](https://zh.wikipedia.org/wiki/成鍾 "wikilink")[INFINITE F](../Page/INFINITE_F.md "wikilink")。2016年，成員[優鉉以個人歌手身份出道](https://zh.wikipedia.org/wiki/優鉉 "wikilink")。
 
 ## 歷程
 
@@ -138,6 +138,8 @@
 
 5月8日，[優鉉發行個人第三張迷你專輯](https://zh.wikipedia.org/wiki/優鉉 "wikilink")《A NEW JOURNEY》以主打歌〈Hold On Me〉活動。
 
+7月22日，[成鍾現役入伍](https://zh.wikipedia.org/wiki/成種 "wikilink")
+
 ## 成員列表
 
 | 成員列表                                               |
@@ -150,13 +152,13 @@
 | [優鉉](../Page/南優賢.md "wikilink")                    |
 | [成烈](https://zh.wikipedia.org/wiki/李成烈 "wikilink") |
 | [L](../Page/金明洙.md "wikilink")                     |
-| [成種](../Page/李成種.md "wikilink")                    |
+| [成鍾](../Page/李成種.md "wikilink")                    |
 | 已離隊成員                                              |
 | [Hoya](../Page/Hoya.md "wikilink")                 |
 
 ### 成員變遷時序表
 
-<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2010 till:2020 TimeAxis = orientation:horizontal format:mm/yyyy
+<timeline> ImageSize = width:650 height:350 PlotArea = width:500 height:300 left:125 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:2010 till:2022 TimeAxis = orientation:horizontal format:mm/yyyy
 
 Colors =
 
@@ -175,7 +177,7 @@ BarData =
 ` bar:Hoya text:Hoya`
 ` bar:SungYeol text:成烈`
 ` bar:L text:L`
-` bar:SungJong text:成種`
+` bar:SungJong text:成鍾`
 
 PlotData =
 
@@ -200,6 +202,8 @@ PlotData =
 ` bar:L from:06/09/2010 till:end`
 ` color:yellow width:10 textcolor:black align:left anchor:from`
 ` bar:SungJong from:06/09/2010 till:end`
+` color:grey width:10 textcolor:black align:left anchor:from`
+` bar: SungJong from:07/22/2019 till:05/08/2021`
 
 </timeline> **注：**
 

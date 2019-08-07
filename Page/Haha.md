@@ -108,7 +108,7 @@ Haha出身於嘻哈組合，2001年以《A/K/A Check Up》出道。
 </tr>
 <tr class="odd">
 <td><p>2015年1月5日－6月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/Yaman_TV.md" title="wikilink">Yaman TV</a>》</p></td>
 </tr>
 <tr class="even">
@@ -123,7 +123,7 @@ Haha出身於嘻哈組合，2001年以《A/K/A Check Up》出道。
 </tr>
 <tr class="even">
 <td><p>2017年2月10日-3月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/高等Rapper.md" title="wikilink">高等Rapper</a>》</p></td>
 </tr>
 <tr class="odd">

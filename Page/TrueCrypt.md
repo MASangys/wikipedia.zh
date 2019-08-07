@@ -12,6 +12,14 @@ TrueCrypt的支持独立算法有[AES](https://zh.wikipedia.org/wiki/AES "wikili
 
 2014年5月28日，TrueCrypt將其網站轉址回SourceForge，並在其頁面警告該軟體可能包含未修復的安全性問題，且TrueCrypt的開發已在2014年5月微軟終止Windows XP支援後結束。該站亦提供一個新版的TrueCrypt（7.2）下載，此版本僅有解密功能。\[2\]
 
+#### CipherShed
+
+截至2014年6月，还有一个名为CipherShed的软件分支，\[3\]`truecrypt.ch`提供资助，\[4\]\[5\]`CipherShed.org`进行开发，并由众筹安全审计团队审核\[6\]，最新版本的CipherShed是0.7.4.0，发布于。\[7\]
+
+#### VeraCrypt
+
+[VeraCrypt](../Page/VeraCrypt.md "wikilink")是TrueCrypt的一个分支，并实现了一些安全性改进。
+
 ## 参考和注释
 
 ## 外部链接
@@ -23,3 +31,8 @@ TrueCrypt的支持独立算法有[AES](https://zh.wikipedia.org/wiki/AES "wikili
 
 1.
 2.
+3.
+4.
+5.
+6.
+7.  <https://www.ciphershed.org/0-7-4-0-released/>

@@ -63,7 +63,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/1947-48_BAA赛季" title="wikilink">1947-48</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/霍伊·达尔玛" title="wikilink">霍伊·达尔玛</a></p></td>
 <td></td>
-<td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/费城勇士" title="wikilink">费城勇士</a></p></td>
 <td><p>48</p></td>
 <td><p>120</p></td>
 <td><p>2.50</p></td>
@@ -93,7 +93,7 @@
 <td><p><a href="../Page/1950-51_NBA赛季.md" title="wikilink">1950-51</a></p></td>
 <td><p><a href="../Page/安迪·菲利普.md" title="wikilink">安迪·菲利普</a>*</p></td>
 <td><p>/</p></td>
-<td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/费城勇士" title="wikilink">费城勇士</a></p></td>
 <td><p>66</p></td>
 <td><p>414</p></td>
 <td><p>6.27</p></td>
@@ -103,7 +103,7 @@
 <td><p><a href="../Page/1951-52_NBA赛季.md" title="wikilink">1951-52</a></p></td>
 <td><p><a href="../Page/安迪·菲利普.md" title="wikilink">安迪·菲利普</a>*（2）</p></td>
 <td><p>/</p></td>
-<td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/费城勇士" title="wikilink">费城勇士</a></p></td>
 <td><p>66</p></td>
 <td><p>539</p></td>
 <td><p>8.17</p></td>

@@ -1,4 +1,4 @@
-在[計算複雜度理論內](https://zh.wikipedia.org/wiki/計算複雜度理論 "wikilink")，[複雜度類](https://zh.wikipedia.org/wiki/複雜度類 "wikilink")**PH**代表所有在[多項式譜系裡面的複雜度類聯集](https://zh.wikipedia.org/wiki/多項式譜系 "wikilink")，亦即：
+在[計算複雜度理論內](https://zh.wikipedia.org/wiki/計算複雜度理論 "wikilink")，[複雜度類](https://zh.wikipedia.org/wiki/複雜度類 "wikilink")**PH**代表所有在[多項式譜系](../Page/多項式譜系.md "wikilink")裡面的複雜度類聯集，亦即：
 
 \[\mbox{PH} = \bigcup_{k\in\mathbb{N}} \Delta_k\mbox{P}\]
 

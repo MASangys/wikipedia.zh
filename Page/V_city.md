@@ -32,7 +32,7 @@
 
 ### L1
 
-[V_City_Level_1_20130801.jpg](https://zh.wikipedia.org/wiki/File:V_City_Level_1_20130801.jpg "fig:V_City_Level_1_20130801.jpg") L1層設美食街「FOOD SPOT食‧點」，設18間食肆，租戶包括八百善、紅椒力量、家得路健康食品店、手作の店、紅螞蟻、BUGIS @叻沙‧海南雞飯、御前上茶、上海婆婆、羅麥記、Pizza Express、牛角、俺流塩らーめん、芽莊Canteen、小王牛肉麵、[奇華餅家](../Page/奇華餅家.md "wikilink")、涼果店「上海-{么}-鳳」、Italian Tomato及Beard PaPa's & coco frans及Pig Pig Candy。
+[V_City_Level_1_20130801.jpg](https://zh.wikipedia.org/wiki/File:V_City_Level_1_20130801.jpg "fig:V_City_Level_1_20130801.jpg") L1層設美食街「FOOD SPOT食‧點」，截至2019年7月30日，設有13間食肆，租戶包括八百善、手作の店、BUGIS @叻沙‧海南雞飯、上海婆婆、羅麥記、Pizza Express、牛角、俺流塩らーめん、本高砂屋、芽莊Canteen、小王牛肉麵、[奇華餅家](../Page/奇華餅家.md "wikilink")、涼果店「上海-{么}-鳳」及Italian Tomato。
 
 該層亦引入集團同系商場新城市廣場已採用的「搵食易」遙距電子訂枱智能系統，覆蓋場內所有餐廳。顧客只需透過智能手機，就能一次過搜索商場所有餐廳及即時遙距領取食肆的輪候票據，並得悉輪候時間。但該層所有食肆不設座位等候區供食客等候。
 
@@ -42,7 +42,7 @@
 
 [V_City_MTR_Level_View1_201311.jpg](https://zh.wikipedia.org/wiki/File:V_City_MTR_Level_View1_201311.jpg "fig:V_City_MTR_Level_View1_201311.jpg")店面採用高樓底設計\]\] [V_City_MTR_level_South_View1_20130801.jpg](https://zh.wikipedia.org/wiki/File:V_City_MTR_level_South_View1_20130801.jpg "fig:V_City_MTR_level_South_View1_20130801.jpg") [V_City_MTR_level_Shops_201308.jpg](https://zh.wikipedia.org/wiki/File:V_City_MTR_level_Shops_201308.jpg "fig:V_City_MTR_level_Shops_201308.jpg") MTR層設多元化租戶，鐘錶珠寶主要集中於商場MTR層，鐘錶珠寶配飾店有16間（佔整體18%），比例接近兩成；面積最大的[太子珠寶鐘錶](../Page/太子珠寶鐘錶.md "wikilink")鋪位面積更達3500平方呎。主要租戶包括City Chain Primo、[周生生](../Page/周生生.md "wikilink")、[周大福](https://zh.wikipedia.org/wiki/周大福 "wikilink")、[六福珠寶](https://zh.wikipedia.org/wiki/六福珠寶 "wikilink")、鎮金店、SOLVIL ET TITUS、Galtiscopio（卡比奧）、日本飾品店THE KISS等。化妝品及美容產品店有23間，比例達四分之一。
 
-商場近屯門市中心方向以本地鐘錶珠寶店為主，租戶包括[周生生](../Page/周生生.md "wikilink")、[周大福](https://zh.wikipedia.org/wiki/周大福 "wikilink")、[六福珠寶](https://zh.wikipedia.org/wiki/六福珠寶 "wikilink")、City Chain Primo及Watch Station International。其他租戶包括agnès b. VOYAGE、Crabtree & Evelyn、日本服飾Global Work、[UNIQLO](https://zh.wikipedia.org/wiki/UNIQLO "wikilink")、美國服飾[GAP](https://zh.wikipedia.org/wiki/GAP "wikilink")、h2o+、niko and日本家品時裝店、手袋店mousse及[資生堂](../Page/資生堂.md "wikilink")。近屯門站C3出口設多間時裝店，包括ceu & Ki.La.Ra、initial、[Levi's](../Page/Levi's.md "wikilink")、KOYO。其他租戶包括[眼鏡88](../Page/眼鏡88.md "wikilink")、[米蘭站](../Page/米蘭站.md "wikilink")；美容護理店terre d’Oc、[SK-II](../Page/SK-II.md "wikilink")、[L'Occitane](https://zh.wikipedia.org/wiki/L'Occitane "wikilink")；蘋果產品專賣店Raakee；日本時裝品牌Titicaca、SPORT B.、Giordano Ladies及Zara姊妹品牌Stradivarius。
+商場近屯門市中心方向以本地鐘錶珠寶店為主，租戶包括[周生生](../Page/周生生.md "wikilink")、[周大福](https://zh.wikipedia.org/wiki/周大福 "wikilink")、[六福珠寶](https://zh.wikipedia.org/wiki/六福珠寶 "wikilink")、City Chain Primo及Watch Station International。其他租戶包括agnès b. VOYAGE、Crabtree & Evelyn、日本服飾Global Work、[UNIQLO](https://zh.wikipedia.org/wiki/UNIQLO "wikilink")、美國服飾[GAP](https://zh.wikipedia.org/wiki/GAP "wikilink")、h2o+、niko and日本家品時裝店、手袋店mousse及[資生堂](../Page/資生堂.md "wikilink")。近屯門站C3出口設多間時裝店，包括ceu & Ki.La.Ra、initial、[Levi's](../Page/Levi's.md "wikilink")、KOYO。其他租戶包括[眼鏡88](../Page/眼鏡88.md "wikilink")、[米蘭站](../Page/米蘭站.md "wikilink")；美容護理店terre d’Oc、[SK-II](../Page/SK-II.md "wikilink")、[L'Occitane](https://zh.wikipedia.org/wiki/L'Occitane "wikilink")；蘋果產品專賣店Raakee；日本時裝品牌Titicaca、SPORT B.、Giordano Ladies及Zara姊妹品牌Stradivarius。亦設影音家電店[電訊數碼](../Page/電訊數碼.md "wikilink")、[csl以及台式飲品店](https://zh.wikipedia.org/wiki/csl "wikilink")[老虎堂](https://zh.wikipedia.org/wiki/老虎堂 "wikilink")。
 
 該處位置設佔地4,000多平方呎的I 'm Bella Beauty Zone美容專區，為12個美容化妝品牌集中地。租戶包括[Anna Sui](https://zh.wikipedia.org/wiki/Anna_Sui "wikilink")、amika:、ettusais、L'ORÉAL PARIS、M.A.C、Make Up For Ever、PAUL & JOE BEAUTE、Beyond Organic、everyBody Labo及韓國美妍護膚品牌Mioggi。
 
@@ -52,7 +52,7 @@
 
 主中庭位置以鞋店為主，租戶包括[Clarks](https://zh.wikipedia.org/wiki/Clarks "wikilink")、[ecco](https://zh.wikipedia.org/wiki/ecco "wikilink")、[New Balance](https://zh.wikipedia.org/wiki/New_Balance "wikilink")、le saunda、Rabbit、[GEOX](https://zh.wikipedia.org/wiki/GEOX "wikilink")、Scoops；運動服裝店W by wan kee、[adidas](https://zh.wikipedia.org/wiki/adidas "wikilink")；女士服飾Salad、Rococo；潮流服飾Tough Jeansmith。其他租戶包括[無印良品](../Page/無印良品.md "wikilink")、韓國美容護理店too cool for school及Häagen-Dazs。近E出口以電器店為主，包括[豐澤及](https://zh.wikipedia.org/wiki/豐澤 "wikilink")[衛訊](https://zh.wikipedia.org/wiki/衛訊 "wikilink")。其他租戶包括CD Warehouse及[美心食品](../Page/美心食品.md "wikilink")旗下的中式食肆[八月](https://zh.wikipedia.org/wiki/jade_concepts "wikilink")。
 
-商場近新墟方向盡頭以本地品牌為主，租戶包括[adlib](https://zh.wikipedia.org/wiki/adlib "wikilink")、[BSX](https://zh.wikipedia.org/wiki/BSX "wikilink")、Double Step、[Giordano](https://zh.wikipedia.org/wiki/Giordano "wikilink")、PIT、pe:tite、mastermind production、DR. KONG健康鞋專門店、SILVER'N GRACE首飾店、YMK。其他租戶包括[亮視點](../Page/亮視點.md "wikilink")、Kipling、Lee、[Timberland及](https://zh.wikipedia.org/wiki/Timberland "wikilink")[GODIVA巧克力店](https://zh.wikipedia.org/wiki/GODIVA "wikilink")。食肆為峰壽司及首次進駐香港的沖繩馳名居酒屋「目利きの銀次」。
+商場近新墟方向盡頭以本地品牌為主，租戶包括[adlib](https://zh.wikipedia.org/wiki/adlib "wikilink")、[BSX](https://zh.wikipedia.org/wiki/BSX "wikilink")、Double Step、[Giordano](https://zh.wikipedia.org/wiki/Giordano "wikilink")、PIT、pe:tite、mastermind production、DR. KONG健康鞋專門店、SILVER'N GRACE首飾店、YMK。其他租戶包括[亮視點](../Page/亮視點.md "wikilink")、Kipling、Lee、[Timberland及](https://zh.wikipedia.org/wiki/Timberland "wikilink")[GODIVA巧克力店](https://zh.wikipedia.org/wiki/GODIVA "wikilink")。食肆為峰壽司、[居食屋「和民」](https://zh.wikipedia.org/wiki/居食屋「和民」 "wikilink")、中式酒家[八月花](https://zh.wikipedia.org/wiki/八月花 "wikilink")、利小館及料理番の銀次。
 
 到2015年，多間本地品牌時裝店結業，新租戶以蔘茸藥材店及藥房為主。
 
@@ -68,7 +68,7 @@
 
 商場1樓美食街「FOOD SPOT食‧點」，並引入集團同系商場[新城市廣場](../Page/新城市廣場.md "wikilink")已採用的「揾食易」遙距電子訂枱智能系統，覆蓋場內所有餐廳。顧客只需透過智能手機，就能一次過搜索商場所有餐廳及即時遙距領取食肆的輪候票據，並得悉輪候時間。
 
-<File:V> City niko and 20130801.jpg|niko and... <File:V> City Shop M-95a 20130801.jpg|發展商亦盡用商場中庭欄河旁位置作為零售商店 <File:V> City Brand off 20130801.jpg|Brand off <File:V> City L1 Restaurnts 201403.jpg|商場1樓美食街「FOOD SPOT食‧點」食肆外不設座位等候區供食客等候
+<File:V> City niko and 20130801.jpg|niko and... <File:V> City Shop M-95a 20130801.jpg|發展商亦盡用商場中庭欄河旁位置作為零售商店 <File:V> City Brand off 20130801.jpg|Brand off <File:V> City L1 Restaurnts 201403.jpg|商場1樓美食街「FOOD SPOT食‧點」食肆外，現時此處設有座位等候區供食客等候
 
 ## 交通
 

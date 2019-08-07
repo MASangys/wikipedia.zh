@@ -77,15 +77,13 @@
 
   - [街角魔族](../Page/街角魔族.md "wikilink") - 2019年7月 - 播放中
 
-  - \- 2019年4月號公布動畫化消息，播放時期未定。
+  - \- 2019年4月號公布動畫化消息，預定於2020年1月起播放。
 
   - [满溢的水果-{zh-hans:挞;zh-hk:撻;zh-tw:塔}-](../Page/滿溢的水果塔.md "wikilink") - 2019年5月號公布動畫化消息，播放時期未定。
 
 ## 連載的主要作品
 
   - [向陽素描](../Page/向陽素描.md "wikilink") （[蒼樹梅](../Page/蒼樹梅.md "wikilink")、VOL.4～VOL.15（増刊最終号）、2005年11月号（独立創刊号） - ）
-
-  - [春美领域](../Page/春美领域.md "wikilink") （、2008年2月号 - 2019年8月号）
 
   - [愛殺寶貝](../Page/愛殺寶貝.md "wikilink") （[Kaduho](../Page/Kaduho.md "wikilink")、2008年7月号 - ）
 
@@ -120,6 +118,8 @@
   - （、2019年1月号 - 2月号客串連載、5月号 - ）
 
   - （、2019年7月号 - ）
+
+  - （GAGAGA、2019年9月号 - ）
 
 ## 休載中的作品
 
@@ -215,6 +215,8 @@
   - [たまごなま](https://zh.wikipedia.org/wiki/たまごなま "wikilink") （[あぼしまこ](https://zh.wikipedia.org/wiki/あぼしまこ "wikilink")、2007年8月号 - 2008年8月号）
 
   - （、2008年1月号 - 2011年12月号）
+
+  - [春美领域](../Page/春美领域.md "wikilink") （、2008年2月号 - 2019年8月号）
 
   - [うらがアルッ\!](https://zh.wikipedia.org/wiki/うらがアルッ! "wikilink") （[もんちぃ](https://zh.wikipedia.org/wiki/もんちぃ "wikilink")、2008年3月号 - 2009年9月号）
 

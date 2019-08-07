@@ -263,7 +263,7 @@
 | ---------------------- | ----------------------------------------------------------- | ------------------------------------------------------ | -------------------------------- | -- |
 | 播放日期                   | 電視台                                                         | 節目名稱                                                   | 參與成員                             | 集數 |
 | 2013年11月28日－2014年2月13日 | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [EXO's SHOWTIME](../Page/EXO's_SHOWTIME.md "wikilink") | [EXO](../Page/EXO.md "wikilink") | 12 |
-| 2014年5月9日－30日          | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | 熾熱的瞬間 XOXO EXO                                         | 4                                |    |
+| 2014年5月9日－30日          | [Mnet](../Page/Mnet.md "wikilink")                          | 熾熱的瞬間 XOXO EXO                                         | 4                                |    |
 | 2014年8月15日－10月24日      | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | EXO 90:2014                                            | 11                               |    |
 |                        |                                                             |                                                        |                                  |    |
 
@@ -277,11 +277,11 @@
 
 ### 固定綜藝
 
-|             |                                                       |                                                                |      |    |
-| ----------- | ----------------------------------------------------- | -------------------------------------------------------------- | ---- | -- |
-| 日期          | 電視台                                                   | 節目名稱                                                           | 參與成員 | 集數 |
-| 2014年9月12日－ | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink") 所羅門群島篇 | Tao  |    |
-|             |                                                       |                                                                |      |    |
+|             |                                    |                                                                |      |    |
+| ----------- | ---------------------------------- | -------------------------------------------------------------- | ---- | -- |
+| 日期          | 電視台                                | 節目名稱                                                           | 參與成員 | 集數 |
+| 2014年9月12日－ | [Mnet](../Page/Mnet.md "wikilink") | [叢林的法則](https://zh.wikipedia.org/wiki/叢林的法則 "wikilink") 所羅門群島篇 | Tao  |    |
+|             |                                    |                                                                |      |    |
 
 ### 主持
 
@@ -582,29 +582,29 @@
 | 2013年8月16日           | [KBS 2](../Page/KBS第2频道.md "wikilink")                      | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Growl                | 1位      |       |
 | 2013年8月18日           | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                      |         |       |
 | 2013年8月21日           | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")           | [Show Champion](../Page/Show_Champion.md "wikilink")                   | 1位（Champion Song）    |         |       |
-| 2013年8月22日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1位                   |         |       |
+| 2013年8月22日           | [Mnet](../Page/Mnet.md "wikilink")                          | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1位                   |         |       |
 | 2013年8月23日           | [KBS 2](../Page/KBS第2频道.md "wikilink")                      | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      |                      |         |       |
 | 2013年8月24日           | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                      |         |       |
 | 2013年8月25日           | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                      |         |       |
 | 2013年8月28日           | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")           | [Show Champion](../Page/Show_Champion.md "wikilink")                   | 1位（Champion Song）    |         |       |
-| 2013年8月29日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1位                   |         |       |
+| 2013年8月29日           | [Mnet](../Page/Mnet.md "wikilink")                          | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1位                   |         |       |
 | 2013年8月31日           | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                      |         |       |
 | 2013年9月1日            | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                      |         |       |
 | 2013年9月4日            | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")           | [Show Champion](../Page/Show_Champion.md "wikilink")                   | 1位（Champion Song）    |         |       |
-| 2013年9月5日            | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1位                   |         |       |
+| 2013年9月5日            | [Mnet](../Page/Mnet.md "wikilink")                          | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1位                   |         |       |
 | 2013年9月7日            | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     | 1位                   |         |       |
 | 2013年12月14日          | Miracles in December                                        |                                                                        |                      |         |       |
 | 2013年12月15日          | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | 1位                   |         |       |
 | 2013年12月18日          | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")           | [Show Champion](../Page/Show_Champion.md "wikilink")                   | 1位（Champion Song）    |         |       |
-| 2013年12月19日          | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1位                   |         |       |
+| 2013年12月19日          | [Mnet](../Page/Mnet.md "wikilink")                          | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 1位                   |         |       |
 | 2013年12月20日          | [KBS 2](../Page/KBS第2频道.md "wikilink")                      | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Growl                | 年終結算：5位 |       |
 | Wolf                 | 年終結算：50位                                                    |                                                                        |                      |         |       |
 | Miracles in December | 1位                                                          |                                                                        |                      |         |       |
 | 2013年12月21日          | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                      |         |       |
 | 2013年12月22日          | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                      |         |       |
-| 2013年12月26日          | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                      |         |       |
+| 2013年12月26日          | [Mnet](../Page/Mnet.md "wikilink")                          | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                      |         |       |
 | 2013年12月27日          | [KBS 2](../Page/KBS第2频道.md "wikilink")                      | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      |                      |         |       |
-| 2014年1月2日            | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                      |         |       |
+| 2014年1月2日            | [Mnet](../Page/Mnet.md "wikilink")                          | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                      |         |       |
 | 2014年5月10日           | [CCTV 15](../Page/中国中央电视台音乐频道.md "wikilink")                | [全球中文音樂榜上榜](../Page/全球中文音乐榜上榜.md "wikilink")                           | 上癮（Overdose）         | 1位      | EXO-M |
 | 2014年5月17日           |                                                             |                                                                        |                      |         |       |
 | 2014年6月27日           | [KBS 2](../Page/KBS第2频道.md "wikilink")                      | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Miracles in December | 年中結算：5位 | EXO   |

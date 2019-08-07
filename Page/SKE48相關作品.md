@@ -408,10 +408,10 @@ CD</p></td>
 <tr class="odd">
 <td><p>25</p></td>
 <td><p>2019年7月24日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/FRUSTRATION" title="wikilink">FRUSTRATION</a></strong></p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><strong><a href="../Page/FRUSTRATION.md" title="wikilink">FRUSTRATION</a></strong></p></td>
+<td><p>1</p></td>
+<td><p>320,614張</p></td>
+<td><p>1</p></td>
 <td></td>
 <td></td>
 </tr>

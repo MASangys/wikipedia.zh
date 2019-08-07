@@ -117,7 +117,9 @@ AKB48台灣研究生（簡稱台研）由2015年舉行的AKB48台灣徵選活動
 
 4月13日，參與「第一屆台日紅白歌合戰」演出，日籍成員阿部瑪利亞将参与主持\[93\]。4月14日，將出席「2019台北國際連鎖加盟大展」廠商宣傳活動\[94\]。4月20日，将參與「2019 SUPER BAND 團團轉演唱會」演出\[95\]。
 
-5月20日，於[浪Live](../Page/浪Live.md "wikilink")直播中公布第二張單曲的12位選拔成員\[96\]，同时宣布将于6月15日举办“AKB48 Team TP Fan Meeting～夏日祭典～”\[97\]。在6月15日举办的“AKB48 Team TP Fan Meeting～夏日祭典～”中，研究生刘晓晴及林于馨获宣布升格为正式成员\[98\]。7月2日，公布第二張單曲主打歌为《TTP Festival》，中心成員由林于馨擔任\[99\]\[100\]。
+5月20日，於[浪Live](../Page/浪Live.md "wikilink")直播中公布第二張單曲的12位選拔成員\[96\]，同时宣布将于6月15日举办“AKB48 Team TP Fan Meeting～夏日祭典～”\[97\]。在6月15日举办的“AKB48 Team TP Fan Meeting～夏日祭典～”中，研究生刘晓晴及林于馨获宣布升格为正式成员\[98\]。7月2日，公布第二張單曲主打歌为《TTP Festival》，中心成員由林于馨擔任\[99\]\[100\]。单曲于7月26日正式发行。
+
+7月31日，二期生徵選活動相關訊息於官方網站公布，8月1日起開放線上報名\[101\]。
 
 ## 成員
 
@@ -212,7 +214,7 @@ Abe Maria</p></td>
 <td><p><a href="../Page/邱品涵.md" title="wikilink">邱品涵</a></p></td>
 <td><p>Chiu Pin-han</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a>[101]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a>[102]</p></td>
 <td><p>AKB48台灣徵選活動</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -251,7 +253,7 @@ Abe Maria</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a></p></td>
 <td><p>AKB48台灣徵選活動</p></td>
 <td><p>-</p></td>
-<td><p>2018年12月20日起因学业因素暫停活動[102]</p></td>
+<td><p>2018年12月20日起因学业因素暫停活動[103]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/張羽翎" title="wikilink">張羽翎</a></p></td>
@@ -271,7 +273,7 @@ Honda Yuzuka</p></td>
 <td><p>1期</p></td>
 <td><p>-</p></td>
 <td><p>擁有二分之一日本血統，父親為日本人<br />
-2018年12月9日起因健康因素暫停活動[103]</p></td>
+2018年12月9日起因健康因素暫停活動[104]</p></td>
 </tr>
 </tbody>
 </table>
@@ -304,7 +306,7 @@ Honda Yuzuka</p></td>
 Fujii Mayu</p></td>
 <td></td>
 <td><p>日本<a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
-<td><p>目前于台北留學[104]<br />
+<td><p>目前于台北留學[105]<br />
 </p></td>
 <td></td>
 </tr>
@@ -313,7 +315,7 @@ Fujii Mayu</p></td>
 <td><p>Chia I-chen</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新竹市" title="wikilink">新竹市</a></p></td>
-<td><p>2019年6月6日起因健康因素暫停活動[105]</p></td>
+<td><p>2019年6月6日起因健康因素暫停活動[106]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -345,7 +347,7 @@ Fujii Mayu</p></td>
 <td><p>Lin Chia-ying</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新北市" title="wikilink">新北市</a></p></td>
-<td><p>2019年5月13日起因健康因素暂停活动[106]</p></td>
+<td><p>2019年5月13日起因健康因素暂停活动[107]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -402,7 +404,7 @@ Fujii Mayu</p></td>
 Oyama Mirei</p></td>
 <td></td>
 <td><p>日本<a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
-<td><p>祖母為台灣人，擁有四分之一台灣血統[107]</p></td>
+<td><p>祖母為台灣人，擁有四分之一台灣血統[108]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -426,7 +428,7 @@ Oyama Mirei</p></td>
 <td><p>Tung Zih-syuan</p></td>
 <td></td>
 <td><p>台北市</p></td>
-<td><p>将于2019年8月1日起因個人學業規劃暫停活動[108]</p></td>
+<td><p>2019年8月1日起因個人學業規劃暫停活動[109]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -499,7 +501,7 @@ Oyama Mirei</p></td>
 <td><p>2018年8月25日之前</p></td>
 <td><p>正</p></td>
 <td><p>與成员陳詩雅為雙胞胎姊妹<br />
-現為组合<a href="https://zh.wikipedia.org/wiki/5TEAM" title="wikilink">5TEAM队长</a>[109]</p></td>
+現為组合<a href="https://zh.wikipedia.org/wiki/5TEAM" title="wikilink">5TEAM队长</a>[110]</p></td>
 </tr>
 <tr class="odd">
 <td><p>李晨熙</p></td>
@@ -548,7 +550,7 @@ Oyama Mirei</p></td>
 
 ### TPE48一期生
 
-  - 徵選資格\[110\]：
+  - 徵選資格\[111\]：
 
 <!-- end list -->
 
@@ -570,9 +572,31 @@ Oyama Mirei</p></td>
 
 <!-- end list -->
 
-  - 最終審查合格名單\[111\]
+  - 最終審查合格名單\[112\]
     （總計45人；標示**粗體字**為AKB48 Team TP於2018年8月26日首次公開亮相时之在籍成员）
     黃子晴、**張法法**、**潘姿怡**、**李佳俐**、**劉語晴**、**王逸嘉**、**林易沄**、**蔡亞恩**、陳暐、**賈宜蓁**、**小山美玲**、**周佳郁**、李晨熙、李恩妘、**邱品涵**、翁立霏、**林倢**、**林于馨**、**劉曉晴**、**蔡伊柔**、**冼迪琦**、陳嘉希、**柏靈**、**李孟純**、張競、**藤井麻由**、**高云珏**、**張羽翎**、**林潔心**、**國興瑀**、**鄭妤葳**、**董子瑄**、**劉潔明**、**陳詩雅**、溫晨君、**曾詩羽**、陳詩媛、**李采潔**、**鄭佳郁**、**羅瑞婷**、**本田柚萱**、陳琳、**高硯晨**、**林家瑩**、劉姸廷
+
+### 二期生
+
+  - 徵選資格\[113\]：
+
+<!-- end list -->
+
+1.  經驗不拘。
+2.  足歲滿12～24歲女性（未滿20歲者須經監護人同意）。外國籍報名者限足歲滿16～24歲的女性方可報名。
+3.  合格後可與AKB48 Team TP營運方簽訂專屬經紀合約，並長期在台北進行演藝活動者。報名者若已有經紀約，須於報名表註明經紀公司名稱及經紀約類型。
+
+<!-- end list -->
+
+  - 徵選期間：2019年8月1日－9月30日
+  - 徵選過程：
+
+<!-- end list -->
+
+1.  一次審査／書面審查
+2.  二次審査／面試\<\!--
+3.  三次審査／舞蹈歌唱、自我展現人氣
+4.  最終審査／結果發表--\>
 
 ## 成員變化
 
@@ -606,7 +630,7 @@ Oyama Mirei</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月1日</p></td>
-<td><p>阿部瑪利亞正式移籍至TPE48[112]</p></td>
+<td><p>阿部瑪利亞正式移籍至TPE48[114]</p></td>
 <td><p>+1</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -621,7 +645,7 @@ Oyama Mirei</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月10日</p></td>
-<td><p>TPE48活動開始[113]</p></td>
+<td><p>TPE48活動開始[115]</p></td>
 <td><p>+38</p></td>
 <td><p>39</p></td>
 <td><p>13</p></td>
@@ -685,6 +709,13 @@ Oyama Mirei</p></td>
 <td><p>35</p></td>
 <td><p>14</p></td>
 </tr>
+<tr class="even">
+<td><p>8月1日</p></td>
+<td><p>二期生徵選活動開始</p></td>
+<td></td>
+<td><p>35</p></td>
+<td><p>14</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -736,7 +767,7 @@ Oyama Mirei</p></td>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2019年7月26日</p></td>
-<td><p>TTP Festival<br />
+<td><p><a href="../Page/TTP_Festival.md" title="wikilink">TTP Festival</a><br />
 （Team Surprise《<a href="https://zh.wikipedia.org/wiki/CR柏青哥AKB48#重力共鳴公演" title="wikilink">AKB Festival</a>》中文版）</p></td>
 <td><p>CD+DVD</p></td>
 <td><p>EMCD1906</p></td>
@@ -784,15 +815,16 @@ Oyama Mirei</p></td>
 | 公开时间          | 歌曲                                                            | 导演        | 备注                         |
 | ------------- | ------------------------------------------------------------- | --------- | -------------------------- |
 | TPE48         |                                                               |           |                            |
-| 2017年9月       | 《[恋爱的幸运饼干](https://zh.wikipedia.org/wiki/恋爱的幸运饼干 "wikilink")》 |           | 林倢、邱品涵\[114\]              |
-| 2018年1月       | 《[向前走](../Page/向前走.md "wikilink")》                            | 黃原 Circle | 阿部瑪利亞、TPE48第1期甄选参加者\[115\] |
+| 2017年9月       | 《[恋爱的幸运饼干](https://zh.wikipedia.org/wiki/恋爱的幸运饼干 "wikilink")》 |           | 林倢、邱品涵\[116\]              |
+| 2018年1月       | 《[向前走](../Page/向前走.md "wikilink")》                            | 黃原 Circle | 阿部瑪利亞、TPE48第1期甄选参加者\[117\] |
 | AKB48 Team TP |                                                               |           |                            |
-| 2018          | 《[勇往直前](../Page/勇往直前_\(AKB48_Team_TP單曲\).md "wikilink")》      | 黃原 Circle |                            |
-| 2019          | 《[櫻花瓣](../Page/勇往直前_\(AKB48_Team_TP單曲\).md "wikilink")》       | 黃原        |                            |
+| 2018年12月25日   | 《[勇往直前](../Page/勇往直前_\(AKB48_Team_TP單曲\).md "wikilink")》      | 黃原 Circle |                            |
+| 2019年1月6日     | 《[櫻花瓣](../Page/勇往直前_\(AKB48_Team_TP單曲\).md "wikilink")》       | 黃原        |                            |
+| 2019年7月25日    | 《[TTP Festival](../Page/TTP_Festival.md "wikilink")》          | 黃原        |                            |
 
 ## 媒体出演
 
-  - 《Team TP青春週記》（2019年3月14日－4月3日，每周四，[KKBOX](../Page/KKBOX.md "wikilink") 速爆音樂台）\[116\]
+  - 《Team TP青春週記》（2019年3月14日－4月3日，每周四，[KKBOX](../Page/KKBOX.md "wikilink") 速爆音樂台）\[118\]
 
 ## 活動
 
@@ -823,7 +855,7 @@ Presented by SHANDA GAMES</p></td>
 <td><p>泰國曼谷Impact Arena</p></td>
 <td><p>陳詩雅、劉語晴、邱品涵、阿部瑪利亞、潘姿怡、<br />
 曾詩羽、劉潔明、林于馨、冼迪琦、李孟純</p></td>
-<td><p>[117]</p></td>
+<td><p>[119]</p></td>
 </tr>
 <tr class="odd">
 <td><p>AKB48 Group Asia Festival 2019 in SHANGHAI</p></td>
@@ -831,14 +863,14 @@ Presented by SHANDA GAMES</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/国家会展中心_(上海)" title="wikilink">上海國家會展中心</a></p></td>
 <td><p>邱品涵、冼迪琦、阿部瑪利亞、陳詩雅、<br />
 劉語晴、林于馨、劉潔明、劉曉晴</p></td>
-<td><p>[118][119][120]</p></td>
+<td><p>[120][121][122]</p></td>
 </tr>
 <tr class="even">
 <td><p>AKB48 in Taipei 2019～Are You Ready For It?</p></td>
 <td><p>2019年10月19日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北小巨蛋" title="wikilink">台北小巨蛋</a></p></td>
 <td><p>待定</p></td>
-<td><p>特別嘉賓[121]</p></td>
+<td><p>特別嘉賓[123]</p></td>
 </tr>
 <tr class="odd">
 <td><p>其他演唱會</p></td>
@@ -852,7 +884,7 @@ Presented by SHANDA GAMES</p></td>
 <td><p>2018年12月8日</p></td>
 <td><p>台北<a href="../Page/圓山大飯店.md" title="wikilink">圓山大飯店</a></p></td>
 <td><p>《勇往直前》选拔组</p></td>
-<td><p>[122]</p></td>
+<td><p>[124]</p></td>
 </tr>
 <tr class="odd">
 <td><p>第一屆台日紅白歌合戰</p></td>
@@ -860,7 +892,7 @@ Presented by SHANDA GAMES</p></td>
 <td><p>台北<a href="https://zh.wikipedia.org/wiki/PIPE_Live_Music" title="wikilink">PIPE Live Music</a></p></td>
 <td><p>阿部瑪利亞、陳詩雅、劉語晴、邱品涵、潘姿怡、林于馨</p></td>
 <td><p>阿部瑪利亞同时担任主持<br />
-[123]</p></td>
+[125]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019 SUPER BAND 團團轉演唱會</p></td>
@@ -868,7 +900,7 @@ Presented by SHANDA GAMES</p></td>
 <td><p><a href="../Page/台北國際會議中心.md" title="wikilink">台北國際會議中心</a>大會堂</p></td>
 <td><p>陳詩雅、劉語晴、邱品涵、阿部瑪利亞、潘姿怡、曾詩羽、<br />
 張羽翎、劉潔明、林于馨、劉曉晴、李佳俐、柏靈</p></td>
-<td><p>[124]</p></td>
+<td><p>[126]</p></td>
 </tr>
 </tbody>
 </table>
@@ -914,19 +946,19 @@ AKB48 Team TP 首次表演活動 真的好想見你</p></td>
 <td><p>2019年5月19日</p></td>
 <td><p>台北TAV Cafe藝術村餐坊</p></td>
 <td><p>《綠草地上的奇蹟》选拔成员</p></td>
-<td><p>[125]</p></td>
+<td><p>[127]</p></td>
 </tr>
 <tr class="odd">
 <td><p>AKB48 Team TP Fan Meeting～夏日祭典～</p></td>
 <td><p>2019年6月15日</p></td>
 <td><p>台北市<a href="../Page/松山文化創意園區.md" title="wikilink">松山文化創意園區</a>二樓多功能展演廳</p></td>
 <td><p>全員</p></td>
-<td><p>[126]</p></td>
+<td><p>[128]</p></td>
 </tr>
 <tr class="even">
 <td><p>第二張單曲《TTP Festival》握手會</p></td>
 <td><p>2019年9月29日</p></td>
-<td><p>[127]</p></td>
+<td><p>[129]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1032,21 +1064,21 @@ AKB48 Team TP 首次表演活動 真的好想見你</p></td>
 <td><p>2019年4月14日</p></td>
 <td><p>台北世貿一館A區大會舞台</p></td>
 <td><p>陳詩雅、邱品涵、劉語晴、阿部瑪利亞、潘姿怡、劉潔明</p></td>
-<td><p>[128]</p></td>
+<td><p>[130]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019海峡两岸电竞文化节暨上海电竞嘉年华</p></td>
 <td><p>2019年7月3日</p></td>
 <td><p><a href="../Page/上海光大会展中心.md" title="wikilink">上海光大会展中心</a></p></td>
 <td><p>陳詩雅、邱品涵、劉語晴</p></td>
-<td><p>[129][130]</p></td>
+<td><p>[131][132]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Guild Friends ULTRA LIVE Vol.1 in TAIPEI</p></td>
 <td><p>2019年8月18日</p></td>
 <td><p>台北三創生活園區</p></td>
 <td><p>陳詩雅、冼迪琦、邱品涵、阿部瑪利亞、劉語晴、劉潔明</p></td>
-<td><p>[131]</p></td>
+<td><p>[133]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1060,9 +1092,9 @@ AKB48 Team TP 首次表演活動 真的好想見你</p></td>
 
 ## 廣告代言
 
-  - 2018年台灣無國界醫院展－劉語晴、邱品涵、陳詩雅\[132\]
-  - 「[Aikatsu！偶像學園](../Page/Aikatsu！偶像活動！.md "wikilink")」－阿部瑪利亞、冼迪琦、邱品涵、本田柚萱、張羽翎、潘姿怡\[133\]
-  - [微风南山](../Page/微風廣場.md "wikilink")「HIGH X Breeze微風南山」（2019年2月）\[134\]－阿部瑪利亞、劉語晴、冼迪琦、林倢、林易沄、劉曉晴、陳詩雅、賈宜蓁、劉潔明、邱品涵、潘姿怡、張羽翎、曾詩羽、林于馨、李孟純、董子瑄、蔡伊柔、周佳郁、高云珏、李佳俐、李采潔、蔡亞恩、柏靈、張法法
+  - 2018年台灣無國界醫院展－劉語晴、邱品涵、陳詩雅\[134\]
+  - 「[Aikatsu！偶像學園](../Page/Aikatsu！偶像活動！.md "wikilink")」－阿部瑪利亞、冼迪琦、邱品涵、本田柚萱、張羽翎、潘姿怡\[135\]
+  - [微风南山](../Page/微風廣場.md "wikilink")「HIGH X Breeze微風南山」（2019年2月）\[136\]－阿部瑪利亞、劉語晴、冼迪琦、林倢、林易沄、劉曉晴、陳詩雅、賈宜蓁、劉潔明、邱品涵、潘姿怡、張羽翎、曾詩羽、林于馨、李孟純、董子瑄、蔡伊柔、周佳郁、高云珏、李佳俐、李采潔、蔡亞恩、柏靈、張法法
   - [新北市一日女警](https://zh.wikipedia.org/wiki/新北市政府警察局 "wikilink")（2019年5月31日）－劉語晴、劉潔明
 
 ## 註釋與參考文獻
@@ -1289,9 +1321,9 @@ AKB48 Team TP 首次表演活動 真的好想見你</p></td>
 
 100.
 
-101. 出身地為[基隆市](../Page/基隆市.md "wikilink")。
+101.
 
-102.
+102. 出身地為[基隆市](../Page/基隆市.md "wikilink")。
 
 103.
 
@@ -1308,41 +1340,40 @@ AKB48 Team TP 首次表演活動 真的好想見你</p></td>
 109.
 
 110.
+
 111.
-
 112.
-113. 正式成員及研究生個人資料稍後於3月12日在官方網站公布。
 
+113.
 114.
-
-115.
+115. 正式成員及研究生個人資料稍後於3月12日在官方網站公布。
 
 116.
 
 117.
+
 118.
 
 119.
-
 120.
 
 121.
 
-122. [「COOL JAPAN FEST 2018」盛大展開AKB48 Team TP首度參戰](https://atctwn.com/2018/12/08/26678/)－ATC Taiwan 2018.12.08
+122.
 
 123.
-124.
+
+124. [「COOL JAPAN FEST 2018」盛大展開AKB48 Team TP首度參戰](https://atctwn.com/2018/12/08/26678/)－ATC Taiwan 2018.12.08
+
 125.
-
 126.
-
 127.
 
 128.
+
 129.
 
 130.
-
 131.
 
 132.
@@ -1350,3 +1381,7 @@ AKB48 Team TP 首次表演活動 真的好想見你</p></td>
 133.
 
 134.
+
+135.
+
+136.

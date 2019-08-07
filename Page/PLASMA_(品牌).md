@@ -21,7 +21,7 @@
   - **[2Dto](https://zh.wikipedia.org/wiki/2D "wikilink")[3D轉換技術](https://zh.wikipedia.org/wiki/3D "wikilink")**：以單一畫素單位擷取整個螢幕的資料，並為每個場景事先設定最佳化的深度。再以「亮度」及「色彩」設定詳細的深度資訊達成2D到3D的轉換。
   - **環保長壽命面板**：長壽命十萬小時，可持續使用近30年，並可以回收。
   - **Infinite Black Pro純黑艷彩技術**：NeoPlasma面板技術的革新帶來黑色層次終極表現能力。大幅改善對比。黑色漸層表現的擴展。
-  - **Colour Remaster**：[Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink") 好萊塢實驗所的技術累積及訣竅，實現將[藍光或](https://zh.wikipedia.org/wiki/藍光 "wikilink")[DVD片中預先壓縮的色域能夠擴展重現原本的色域](https://zh.wikipedia.org/wiki/DVD片 "wikilink")，能呈現更自然逼真的色彩。
+  - **Colour Remaster**：[Panasonic](https://zh.wikipedia.org/wiki/Panasonic "wikilink") 好萊塢實驗所的技術累積及訣竅，實現將[藍光](../Page/藍光.md "wikilink")或[DVD片中預先壓縮的色域能夠擴展重現原本的色域](https://zh.wikipedia.org/wiki/DVD片 "wikilink")，能呈現更自然逼真的色彩。
   - **VIERA Connect**：VIERA Connect 是一個讓人們很舒適地在客廳中，輕易的從[YouTube](../Page/YouTube.md "wikilink")搜尋並觀賞線上影片，或透過[Skype](../Page/Skype.md "wikilink")提供免費的線上影音通訊服務的使用界面。
   - **Gentle on the Eyes**：Gentle on the Eyes 愛眼技術，運用自然的影像與精細的調校使得畫面圖像對眼睛柔和不刺激且長時間觀看也較不疲勞。
 

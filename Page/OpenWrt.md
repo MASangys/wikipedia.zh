@@ -291,7 +291,7 @@ glibc</p></td>
 
 OpenWrt遵循著[市集](../Page/大教堂和市集.md "wikilink")-哲學而且已知有著豐富的選項。功能如下：
 
-  - 可寫的[根目录](https://zh.wikipedia.org/wiki/根目录 "wikilink")，讓使用者自行新增，移除或修改任何檔案。SquashFS与JFFS2文件系统的整合形成的overlayfs机制\[23\]形成重疊\[24\]。squashfs是一种只读的压缩文件系统，压缩率和gzip差不多。jffs2是一种日志类型的文件系统，专为NorFlash设计。
+  - 可寫的[根目录](../Page/根目录.md "wikilink")，讓使用者自行新增，移除或修改任何檔案。SquashFS与JFFS2文件系统的整合形成的overlayfs机制\[23\]形成重疊\[24\]。squashfs是一种只读的压缩文件系统，压缩率和gzip差不多。jffs2是一种日志类型的文件系统，专为NorFlash设计。
   - 包管理員*opkg*，類似[dpkg](https://zh.wikipedia.org/wiki/dpkg "wikilink")，可讓使用者新增或移除軟體。软件仓库大約有3500個包。是一个可以从本地或遠端软件下载并安装OpenWrt包的轻量型实用工具。
   - UCI (unified configuration interface) 腳本支持\[25\]
   - 完整的硬體驅動程式支持。例如: 內建[網路交換器](../Page/網路交換器.md "wikilink")及其[VLAN](https://zh.wikipedia.org/wiki/VLAN "wikilink")-相容, s, [DSL modems](https://zh.wikipedia.org/wiki/DSL_modem "wikilink"), 等。

@@ -150,7 +150,7 @@ Battle Spirits裡面有5種卡。這些卡都可以在遊戲從卡組抽牌所�
 <!-- end list -->
 
   - 等級
-    分為LV1\~LV5，能透過放置更多的Core而提升等級。
+    分為LV1\~LV6，能透過放置更多的Core而提升等級。
 
 <!-- end list -->
 

@@ -1,11 +1,13 @@
-**B.L.**（，為Bad Luck的縮寫），為[台灣男性](https://zh.wikipedia.org/wiki/台灣 "wikilink")[配音員](../Page/配音員.md "wikilink")、[輕小說](../Page/輕小說.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")，本名**徐偉翔**，射手座，桃園人，[國立交通大學](../Page/國立交通大學.md "wikilink")[資訊工程學系畢業](https://zh.wikipedia.org/wiki/資訊工程學系 "wikilink")。
+**B.L.**（，為Bad Luck的縮寫），為[台灣男性](https://zh.wikipedia.org/wiki/台灣 "wikilink")[配音員](../Page/配音員.md "wikilink")兼[輕小說](../Page/輕小說.md "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")，本名**徐偉翔**，射手座，桃園人，[國立交通大學](../Page/國立交通大學.md "wikilink")[資訊工程學系畢業](https://zh.wikipedia.org/wiki/資訊工程學系 "wikilink")。
 
 出道作是獲得第三屆[台灣角川輕小說暨插畫大賞銀賞的](https://zh.wikipedia.org/wiki/角川华文轻小说暨插画大赏 "wikilink")《[謝謝你\!壞運](https://zh.wikipedia.org/wiki/謝謝你!壞運 "wikilink")》\[1\]\[2\]，同時亦為[台灣角川](../Page/台灣角川.md "wikilink")三屆輕小說比賽以來最年輕的得獎者。作品幽默逗趣、角色鮮明、設定嚴謹、感人肺腑為其創作最大特色。
 
+曾言道:「B.L.是Bad Luck的縮寫，想歪的人給我出去罰站！」
+
+## 早年生活
+
 於就學期間創作兩年即得獎，間中仍維持優秀在校成績，作品甫一上市便空前熱賣，在[蛙蛙書店排行榜高掛逾三週之久](https://zh.wikipedia.org/wiki/蛙蛙書店 "wikilink")，名次遠勝其他同期作者，被譽為「2011年出道輕小說作者中最閃亮的新星」。又因為同時參加[尖端出版](../Page/尖端出版.md "wikilink")舉辦的第四屆[浮文字新人獎](../Page/浮文字新人獎.md "wikilink")亦打入決選，成為「[尖端十聖](https://zh.wikipedia.org/wiki/尖端十聖 "wikilink")」\[3\]（該比賽中，參賽者前十強的統稱）。
 他自言大學二年級時接觸了第一部輕小說《[涼宮春日的憂鬱](../Page/涼宮春日的憂鬱.md "wikilink")》，人生就此改寫，投入轻小说创作者一列。看完原作和動畫，還成為了[長門有希](../Page/長門有希.md "wikilink")的配音聲優[茅原實里](../Page/茅原實里.md "wikilink")的Fans\[4\]，並參加了茅原實里2008年在台灣舉辦的演唱會。在深深受到感動的同時，形成一個想法──「我也要寫出暢銷到足以改編成動畫的輕小說，然後請她（茅原實里）來幫我的作品配音。」\[5\]。
-
-曾道「B.L.是Bad Luck的縮寫，想歪的人給我出去罰站！」
 
 ## 出版作品
 
@@ -120,25 +122,55 @@
 <tr class="odd">
 <td><p>2013</p></td>
 <td><p><a href="../Page/宇宙小奇兵.md" title="wikilink">宇宙小奇兵</a></p></td>
-<td><p>憤世魔王</p></td>
+<td><p><strong>憤世魔王</strong></p></td>
 <td><p><a href="../Page/迪士尼頻道.md" title="wikilink">迪士尼頻道</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
 <td><p><a href="../Page/七寶_(動畫).md" title="wikilink">七寶</a></p></td>
-<td><p>史塔區大人</p></td>
+<td><p><strong>史塔區大人</strong><br />
+金格罕摩博士</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://en.wikipedia.org/wiki/Penn_Zero:_Part-Time_Hero">Penn Zero：太空英雄</a></p></td>
+<td><p><strong>胖胖</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2015</p></td>
+<td><p><a href="../Page/公主闖天關.md" title="wikilink">公主闖天關</a></p></td>
+<td><p><strong>魯多</strong><br />
+蒼蠅頭</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
 <td><p><a href="../Page/魔髮奇緣_(電視影集).md" title="wikilink">魔髮奇緣</a></p></td>
-<td><p>費瑞安<br />
+<td><p><strong>菲瑞安</strong><br />
+帕克<br />
 史坦<br />
 奈吉爾<br />
-鉤腳</p></td>
+<strong>鉤腳</strong><br />
+崔弗國王<br />
+威索<br />
+赫克托<br />
+老公<br />
+Constable Lumph<br />
+狄馬尼勳爵</p></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019</p></td>
+<td><p><a href="../Page/馴龍高手_(電視影集).md" title="wikilink">馴龍高手(電視影集)</a></p></td>
+<td><p>大剋</p></td>
+<td><p><a href="../Page/東森幼幼台.md" title="wikilink">東森幼幼台</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -155,8 +187,10 @@
 
 ### 歐美劇
 
-  - 《[小潔的保姆日記](../Page/小潔的保姆日記.md "wikilink")》：**東尼**
-  - 《[奧斯汀與艾莉](../Page/奧斯汀與艾莉.md "wikilink")》：**奧斯汀**
+  - 《[小潔的保姆日記](../Page/小潔的保姆日記.md "wikilink")》：**東尼·奇克里尼**
+  - 《[奧斯汀與艾莉](../Page/奧斯汀與艾莉.md "wikilink")》：**奧斯汀·穆爾**
+  - 《[小查與寇弟的頂級遊輪生活](../Page/小查與寇弟的頂級遊輪生活.md "wikilink")》第三季：**寇弟·馬丁**(接替[林美秀](../Page/林美秀_\(配音員\).md "wikilink"))
+  - 《[舞動青春](../Page/舞動青春.md "wikilink")》第二季：**馬丁「杜斯」·馬丁尼**
 
 ### 歐美動畫電影
 
@@ -166,7 +200,9 @@
 
 ### 海外電影
 
-  - 《[青春海灘](https://zh.wikipedia.org/wiki/青春海灘 "wikilink")》
+  - 《青春海灘》系列
+      - 《[青春海灘](https://zh.wikipedia.org/wiki/青春海灘 "wikilink")》：**布萊迪**
+      - 《[青春海灘2](https://zh.wikipedia.org/wiki/青春海灘2 "wikilink")》：**布萊迪**
 
 ## 腳注
 

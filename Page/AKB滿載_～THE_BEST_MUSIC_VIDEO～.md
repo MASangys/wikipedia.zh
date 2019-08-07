@@ -2,7 +2,7 @@
 
 ## 概要
 
-音樂影片集分別推出[DVD和](https://zh.wikipedia.org/wiki/DVD "wikilink")[藍光的格式](https://zh.wikipedia.org/wiki/藍光 "wikilink")，版本則分為初期版和普通版。初期版附有寫真集和一張[生寫真](https://zh.wikipedia.org/wiki/生寫真 "wikilink")，普通版則附有抽獎券，有機會額外獲得DVD影像和海報，名額分別是40,000和8,000人。在[TSUTAYA RECORDS所有和部分](../Page/Culture_Convenience_Club.md "wikilink")[TOWER RECORDS](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")、[HMV](../Page/HMV.md "wikilink")、、和店舖購買音樂影片集的話將會贈送墊板，在日本其他唱片店購買的話則贈送文件夾，在AKB48的專門店購買則額外贈送一張生寫真\[1\]。由2011年6月20日至28日，AKB48在[109百貨](../Page/109百貨.md "wikilink")的牆身輪流展示各成員在音樂影片集的造型\[2\]。6月24日，AKB48在舉行發售紀念記者會\[3\]。
+音樂影片集分別推出[DVD和](https://zh.wikipedia.org/wiki/DVD "wikilink")[藍光](../Page/藍光.md "wikilink")的格式，版本則分為初期版和普通版。初期版附有寫真集和一張[生寫真](https://zh.wikipedia.org/wiki/生寫真 "wikilink")，普通版則附有抽獎券，有機會額外獲得DVD影像和海報，名額分別是40,000和8,000人。在[TSUTAYA RECORDS所有和部分](../Page/Culture_Convenience_Club.md "wikilink")[TOWER RECORDS](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")、[HMV](../Page/HMV.md "wikilink")、、和店舖購買音樂影片集的話將會贈送墊板，在日本其他唱片店購買的話則贈送文件夾，在AKB48的專門店購買則額外贈送一張生寫真\[1\]。由2011年6月20日至28日，AKB48在[109百貨](../Page/109百貨.md "wikilink")的牆身輪流展示各成員在音樂影片集的造型\[2\]。6月24日，AKB48在舉行發售紀念記者會\[3\]。
 
 ## 反應
 

@@ -345,7 +345,7 @@ Agetec（欧美）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/御伽〜百鬼討伐繪卷〜" title="wikilink">御伽〜百鬼討伐繪卷〜</a><br />
+<td><p><a href="../Page/御伽〜百鬼討伐繪卷〜.md" title="wikilink">御伽〜百鬼討伐繪卷〜</a><br />
 <em>Otogi 2: Immortal Warriors</em></p></td>
 <td><p><a href="../Page/Xbox.md" title="wikilink">Xbox</a></p></td>
 <td><p>From Software（日本）<br />

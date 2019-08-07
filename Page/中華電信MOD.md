@@ -192,15 +192,15 @@
 
   - 2010年5月14日，[日本](../Page/日本.md "wikilink")[AV片商](https://zh.wikipedia.org/wiki/AV片商 "wikilink")[Waap Entertainment](https://zh.wikipedia.org/wiki/Waap_Entertainment "wikilink")、[Soft On Demand等](../Page/Soft_On_Demand.md "wikilink")8家公司委任[律師](../Page/律師.md "wikilink")指控，中華電信讓MOD內容供應商（[新視紀媒體科技](https://zh.wikipedia.org/wiki/新視紀媒體科技 "wikilink")、台灣互動電視公司）任意播放、或讓民眾以[手機下載未經授權的AV](https://zh.wikipedia.org/wiki/手機 "wikilink")；這8家公司不僅對內容供應商提出告訴，也向中華電信求償\[44\]。
   - 2010年11月中旬，中華電信設於[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")[中山區長春路與](../Page/中山區_\(臺北市\).md "wikilink")[林森北路](../Page/林森北路.md "wikilink")口的電視牆播放促銷中華電信MOD[限制級內容區塊](https://zh.wikipedia.org/wiki/限制級 "wikilink")「成人專區」的廣告，長度約3分鐘，內容有學生妹任由身旁兩男搓揉胸部、穿性感睡衣的[AV女優](../Page/AV女優.md "wikilink")趴跪在床上露出[乳溝](../Page/乳溝.md "wikilink")、AV女優隔著褲子替[AV男優](https://zh.wikipedia.org/wiki/AV男優 "wikilink")[口交](../Page/口交.md "wikilink")，播出3日後又延遲3日才被撤除，遭民眾向行政院新聞局投訴。中華電信表示，電視牆排播系統誤播成人互動遊戲，在接獲通知後已立即撤除；行政院新聞局廣播電視事業處表示，中華電信MOD及其播放內容都是屬於NCC管理業務，新聞局已函請NCC處理。一位不願具名的多媒體業者說，中華電信無法在第一時間處理本案，是因為「MOD系統技術受限於[華電聯網](https://zh.wikipedia.org/wiki/華電聯網 "wikilink")」；一位不願具名的頻道商說，中華電信MOD頻道專案實因「內神通外鬼」，縱容台灣互動電視公司、[靖天傳播](../Page/靖天傳播.md "wikilink")、新視紀媒體科技與[愛爾達電視](../Page/愛爾達電視.md "wikilink")等少數業者壟斷頻道達70%，使得其他公司難以申請\[45\]。
-  - 2011年9月23日，立法院施政總質詢，[中國國民黨](../Page/中國國民黨.md "wikilink")[立法委員](https://zh.wikipedia.org/wiki/立法委員 "wikilink")[蔡正元](../Page/蔡正元.md "wikilink")指出：
+  - 2011年9月23日，立法院施政總質詢，[中國國民黨](../Page/中國國民黨.md "wikilink")[立法委員](https://zh.wikipedia.org/wiki/立法委員 "wikilink")[蔡正元](../Page/蔡正元.md "wikilink")指出\[46\]：
 
 <!-- end list -->
 
-1.  [陳水扁政府](../Page/陳水扁政府.md "wikilink")執政時，民主進步黨利用中華電信MOD不適用黨政軍退出媒體條款，以台灣互動電視公司為主的集團（台灣互動電視公司、亞洲衛星電視、博斯數-{}-位、[隆華數-{}-位科技](https://zh.wikipedia.org/wiki/隆華數位科技 "wikilink")）在2008年5月20日[馬英九政府](../Page/馬英九政府.md "wikilink")上任前共取得74張衛星電視頻道執照，佔中華電信MOD總頻道數131張執照的56.5%，中華電信每年要付給該集團新臺幣14億元。
-2.  2007年12月27日，NCC委員會議一天之內查核通過亞洲衛星電視、博斯數-{}-位、隆華數-{}-位科技與共18張衛星電視頻道執照，原因是吳乃仁打電話給NCC主任秘書吳嘉輝\[46\]。
+1.  [陳水扁政府](../Page/陳水扁政府.md "wikilink")執政時，民主進步黨利用中華電信MOD不適用黨政軍退出媒體條款，以台灣互動電視公司為主的集團（台灣互動電視公司、亞洲衛星電視、博斯數位、[隆華數位科技](https://zh.wikipedia.org/wiki/隆華數位科技 "wikilink")）在2008年5月20日[馬英九政府](../Page/馬英九政府.md "wikilink")上任前共取得74張衛星電視頻道執照，佔中華電信MOD總頻道數131張執照的56.5%，中華電信每年要付給該集團新臺幣14億元。
+2.  2007年12月27日，NCC委員會議一天之內查核通過亞洲衛星電視、博斯數位、隆華數位科技與共18張衛星電視頻道執照，原因是吳乃仁打電話給NCC主任秘書吳嘉輝。
 3.  台灣互動電視公司與中華電信MOD的合約為期4年，契約總值新臺幣56億元，根據[臺灣銀行](../Page/臺灣銀行.md "wikilink")和中華電信所簽訂的供應商開口融資合約，此契約價值可有8成貸款額度，本案供應商合約現金價值新臺幣45億元，民主進步黨人士可透過吳乃仁、經由台灣互動電視公司從中華電信手中取得周轉資金新臺幣45億元，中華電信已是民主進步黨的[金庫](https://zh.wikipedia.org/wiki/金庫 "wikilink")。
-4.  台灣互動電視公司募資負責人[顏萬進](../Page/顏萬進.md "wikilink")是吳乃仁的親信，正在以Skyasia Media Inc.為主體進行16億[美元](../Page/美元.md "wikilink")的募資計畫，總金額新臺幣480億元。
-5.  台灣互動電視公司、博斯數-{}-位、隆華數-{}-位科技與Skyasia Media Inc.的總部都設於臺北市中山區八德路二段232號7樓，即[中國國民黨中央委員會](../Page/中國國民黨中央委員會.md "wikilink")現址（臺北市中山區八德路二段232號1至5樓）樓上。
+4.  台灣互動電視公司募資負責人[顏萬進](../Page/顏萬進.md "wikilink")是吳乃仁的親信，正在以Skyasia Media Inc. (Mauritius) 為主體進行16億[美元](../Page/美元.md "wikilink")的募資計畫，總金額新臺幣480億元。
+5.  台灣互動電視公司、博斯數位、隆華數位科技與Skyasia Media Inc. (Mauritius) 的總部都設於臺北市中山區八德路二段232號7樓，即[中國國民黨中央委員會](../Page/中國國民黨中央委員會.md "wikilink")現址樓上。
 
 ## 機上盒型號
 

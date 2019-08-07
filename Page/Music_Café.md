@@ -493,6 +493,7 @@
 | 428 | 7月6日   | 陳慧敏、廖仲謙　「巨聲幫」集合            | [陳慧敏](../Page/陳慧敏_\(歌手\).md "wikilink")、[廖仲謙](../Page/廖仲謙.md "wikilink")                                                                                 |
 | 429 | 7月13日  | 黃妍、姜麗文　歌手也有粉絲時             | [黃妍](../Page/黃妍.md "wikilink")、[姜麗文](../Page/姜麗文.md "wikilink")                                                                                          |
 | 430 | 7月20日  | 葉巧琳、鍾達茵　改變就是人生             | [葉巧琳](https://zh.wikipedia.org/wiki/葉巧琳 "wikilink")、[鍾達茵](https://zh.wikipedia.org/wiki/鍾達茵 "wikilink")                                                  |
+| 431 | 7月27日  | 陳健安、洪嘉豪　毋忘音樂初衷             | [陳健安](../Page/陳健安.md "wikilink")、[洪嘉豪](https://zh.wikipedia.org/wiki/洪嘉豪 "wikilink")                                                                     |
 
 ## 記事
 

@@ -64,9 +64,7 @@ Amuse 與 [HORIPRO](../Page/Horipro.md "wikilink") 同為演藝界少數[上市�
   - [高橋優](https://zh.wikipedia.org/wiki/高橋優 "wikilink")
   - [高槻加奈子](../Page/高槻加奈子.md "wikilink")
   - [TEAM NACS](https://zh.wikipedia.org/wiki/TEAM_NACS "wikilink")
-  - [寺田拓哉](../Page/寺田拓哉.md "wikilink")
   - [寺脇康文](../Page/寺脇康文.md "wikilink")
-  - [戶谷公人](../Page/戶谷公人.md "wikilink")
   - [藤岡靛](../Page/藤岡靛.md "wikilink")(DEAN FUJIOKA)
 
 <!-- end list -->

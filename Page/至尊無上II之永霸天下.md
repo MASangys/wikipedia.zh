@@ -16,23 +16,23 @@
 
 ## 角色
 
-|                                                          |        |                                                           |                                   |
-| -------------------------------------------------------- | ------ | --------------------------------------------------------- | --------------------------------- |
-| **演員**                                                   | **角色** | **粵語配音**                                                  | **備註**                            |
-| [王傑](https://zh.wikipedia.org/wiki/王傑_\(歌手\) "wikilink") | 仇杰     | [鄧榮銾](../Page/鄧榮銾.md "wikilink")                          | 范叔的徒弟，亚洲第一快手 片末遭老楊部下槍擊，命喪其舊情人的車廂內 |
-| [劉德華](../Page/劉德華.md "wikilink")                         | 雞翼     | [黃志成](../Page/黃志成.md "wikilink")                          | 范叔的徒弟                             |
-| [吴倩莲](https://zh.wikipedia.org/wiki/吴倩莲 "wikilink")      | 小妹     | [吳小藝](../Page/吳小藝.md "wikilink")                          | 雞翼女友                              |
-| [陈法蓉](https://zh.wikipedia.org/wiki/陈法蓉 "wikilink")      |        | [龍寶鈿](../Page/龍寶鈿.md "wikilink")                          | 阿杰的旧情人                            |
-| [刘兆铭](https://zh.wikipedia.org/wiki/刘兆铭 "wikilink")      | 范叔     | [黃子敬](../Page/黃子敬.md "wikilink")                          | 被迫跳海自杀                            |
-| [王霄](../Page/王霄_\(演員\).md "wikilink")                    | 詹永飛    | [梁政平](../Page/梁政平.md "wikilink")                          | 曾是范叔的徒弟，后背叛了范叔 賽後被誤以為故意假賭，被老楊部下擊斃 |
-| [黄秋生](https://zh.wikipedia.org/wiki/黄秋生 "wikilink")      | 炮哥     | [黄秋生](https://zh.wikipedia.org/wiki/黄秋生 "wikilink")       | 詹永飛的手下，被小妹开车撞死                    |
-| [陈卓欣](https://zh.wikipedia.org/wiki/陈卓欣 "wikilink")      | 欣欣     |                                                           | 阿杰的女儿                             |
-| [李兆基](../Page/李兆基_\(演員\).md "wikilink")                  | 阿基     | [盧雄](../Page/盧雄.md "wikilink")                            | 范叔的手下，被炮哥吊死                       |
-| [楊群](../Page/楊群.md "wikilink")                           | 老楊     | [陸頌愚](../Page/陸頌愚.md "wikilink")                          | 赌场老板                              |
-| [刘洵](https://zh.wikipedia.org/wiki/刘洵 "wikilink")        | 山本太郎   | [陸頌愚](../Page/陸頌愚.md "wikilink")                          | 被詹永飛刺殺的日本赌徒                       |
-| [黃一飛](../Page/黃一飛.md "wikilink")                         |        | [黃志明](../Page/黃志明_\(香港\).md "wikilink")                   | 仇杰的表哥                             |
-| [吳浣儀](../Page/吳浣儀.md "wikilink")                         |        | [黃鳳英](../Page/黃鳳英.md "wikilink")                          | 仇杰的表嫂                             |
-| [黃新](../Page/黃新.md "wikilink")                           |        | [金剛](https://zh.wikipedia.org/wiki/金剛_\(播音員\) "wikilink") | 賭局公証人                             |
+|                                                          |        |                                                     |                                   |
+| -------------------------------------------------------- | ------ | --------------------------------------------------- | --------------------------------- |
+| **演員**                                                   | **角色** | **粵語配音**                                            | **備註**                            |
+| [王傑](https://zh.wikipedia.org/wiki/王傑_\(歌手\) "wikilink") | 仇杰     | [鄧榮銾](../Page/鄧榮銾.md "wikilink")                    | 范叔的徒弟，亚洲第一快手 片末遭老楊部下槍擊，命喪其舊情人的車廂內 |
+| [劉德華](../Page/劉德華.md "wikilink")                         | 雞翼     | [黃志成](../Page/黃志成.md "wikilink")                    | 范叔的徒弟                             |
+| [吴倩莲](https://zh.wikipedia.org/wiki/吴倩莲 "wikilink")      | 小妹     | [吳小藝](../Page/吳小藝.md "wikilink")                    | 雞翼女友                              |
+| [陈法蓉](https://zh.wikipedia.org/wiki/陈法蓉 "wikilink")      |        | [龍寶鈿](../Page/龍寶鈿.md "wikilink")                    | 阿杰的旧情人                            |
+| [刘兆铭](https://zh.wikipedia.org/wiki/刘兆铭 "wikilink")      | 范叔     | [黃子敬](../Page/黃子敬.md "wikilink")                    | 被迫跳海自杀                            |
+| [王霄](../Page/王霄_\(演員\).md "wikilink")                    | 詹永飛    | [梁政平](../Page/梁政平.md "wikilink")                    | 曾是范叔的徒弟，后背叛了范叔 賽後被誤以為故意假賭，被老楊部下擊斃 |
+| [黄秋生](https://zh.wikipedia.org/wiki/黄秋生 "wikilink")      | 炮哥     | [黄秋生](https://zh.wikipedia.org/wiki/黄秋生 "wikilink") | 詹永飛的手下，被小妹开车撞死                    |
+| [陈卓欣](https://zh.wikipedia.org/wiki/陈卓欣 "wikilink")      | 欣欣     |                                                     | 阿杰的女儿                             |
+| [李兆基](../Page/李兆基_\(演員\).md "wikilink")                  | 阿基     | [盧雄](../Page/盧雄.md "wikilink")                      | 范叔的手下，被炮哥吊死                       |
+| [楊群](../Page/楊群.md "wikilink")                           | 老楊     | [陸頌愚](../Page/陸頌愚.md "wikilink")                    | 赌场老板                              |
+| [刘洵](https://zh.wikipedia.org/wiki/刘洵 "wikilink")        | 山本太郎   | [陸頌愚](../Page/陸頌愚.md "wikilink")                    | 被詹永飛刺殺的日本赌徒                       |
+| [黃一飛](../Page/黃一飛.md "wikilink")                         |        | [黃志明](../Page/黃志明_\(香港\).md "wikilink")             | 仇杰的表哥                             |
+| [吳浣儀](../Page/吳浣儀.md "wikilink")                         |        | [黃鳳英](../Page/黃鳳英.md "wikilink")                    | 仇杰的表嫂                             |
+| [黃新](../Page/黃新.md "wikilink")                           |        | [金剛](../Page/金剛_\(播音員\).md "wikilink")              | 賭局公証人                             |
 
 ## 主创
 

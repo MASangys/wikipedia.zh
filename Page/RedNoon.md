@@ -1,6 +1,6 @@
 [HK_Sai_Ying_Pun_Dr_Sun_Yat-sen_Memorial_Park_night_Band_RedNoon_on_stage_Dec-2012.JPG](https://zh.wikipedia.org/wiki/File:HK_Sai_Ying_Pun_Dr_Sun_Yat-sen_Memorial_Park_night_Band_RedNoon_on_stage_Dec-2012.JPG "fig:HK_Sai_Ying_Pun_Dr_Sun_Yat-sen_Memorial_Park_night_Band_RedNoon_on_stage_Dec-2012.JPG") **RedNoon**是[香港](../Page/香港.md "wikilink")一支四人樂團，成立於2000年，由主音兼結他手馬仔、主音結他手阿康、低音結他手阿豐及鼓手阿偉組成。
 
-2013年3月25日，紅星娛樂宣布陳永康、姚榮豐及陳仲偉違約退團，另組樂團[After10](../Page/After10.md "wikilink")，樂團亦終告解散。
+2013年3月25日，紅星娛樂宣布陳永康、姚榮豐及陳仲偉違約退團，另組樂團[After10](../Page/After10.md "wikilink")，Rednoon終告解散。
 
 ## 名字由來
 

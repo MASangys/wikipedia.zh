@@ -41,6 +41,7 @@
 ## 外部連結
 
   -
+  -
 [Category:S.E.S.](https://zh.wikipedia.org/wiki/Category:S.E.S. "wikilink") [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink") [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink") [Category:韓國女歌手](https://zh.wikipedia.org/wiki/Category:韓國女歌手 "wikilink") [Category:韓國音樂劇演員](https://zh.wikipedia.org/wiki/Category:韓國音樂劇演員 "wikilink") [Category:韓國天主教徒](https://zh.wikipedia.org/wiki/Category:韓國天主教徒 "wikilink") [Category:檀國大學校友](https://zh.wikipedia.org/wiki/Category:檀國大學校友 "wikilink") [Category:京畿道出身人物](https://zh.wikipedia.org/wiki/Category:京畿道出身人物 "wikilink") [Category:富川市出身人物](https://zh.wikipedia.org/wiki/Category:富川市出身人物 "wikilink") [Category:崔姓](https://zh.wikipedia.org/wiki/Category:崔姓 "wikilink")
 
 1.  [元祖妖精偶像結婚啦　3月嫁小9歲企業家](http://www.appledaily.com.tw/realtimenews/article/new/20170112/1033474/)，蘋果日報，2017年01月12日。

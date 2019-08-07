@@ -50,7 +50,7 @@
   - 2015年6月29日，宣佈與資深演員[文熙景](../Page/文熙景.md "wikilink")簽約。
   - 2015年7月6日，[High Brow出道](../Page/High_Brow.md "wikilink")。
   - 2015年9月14日，[DIA正式出道](https://zh.wikipedia.org/wiki/DIA "wikilink")。
-  - 2015年12月17日，前[T-ara N4成員](../Page/T-ara_N4.md "wikilink")[Dani](../Page/金岱妮.md "wikilink")、[DIA成員Cathy](https://zh.wikipedia.org/wiki/DIA "wikilink")（以本名[熙賢](../Page/奇熙賢.md "wikilink")）和[彩娟](../Page/彩娟.md "wikilink")參與[Mnet製作的企劃女團節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，DIA改為五人體制進行活動。
+  - 2015年12月17日，前[T-ara N4成員](../Page/T-ara_N4.md "wikilink")[Dani](../Page/金岱妮.md "wikilink")、[DIA成員Cathy](https://zh.wikipedia.org/wiki/DIA "wikilink")（以本名[熙賢](../Page/奇熙賢.md "wikilink")）和[彩娟](../Page/彩娟.md "wikilink")參與[Mnet](../Page/Mnet.md "wikilink")製作的企劃女團節目《[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")》，DIA改為五人體制進行活動。
 
 ### 2016
 
@@ -80,7 +80,7 @@
 
 ### 2019
 
-  - 2019年5月3日，[道賢](../Page/南道賢.md "wikilink")、[IM66](../Page/IM66.md "wikilink")成員[翰潔和志鎬](../Page/李翰潔.md "wikilink")（以本名**金永尚**）參與[Mnet製作的企劃男團節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》。
+  - 2019年5月3日，[道賢](../Page/南道賢.md "wikilink")、[IM66](../Page/IM66.md "wikilink")成員[翰潔和志鎬](../Page/李翰潔.md "wikilink")（以本名**金永尚**）參與[Mnet](../Page/Mnet.md "wikilink")製作的企劃男團節目《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》。
 
 <!-- end list -->
 
@@ -511,14 +511,21 @@ L.U.B</p></td>
 <td><p>2018年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/SPEED_(韓國音樂團體).md" title="wikilink">SPEED</a><br />
-<a href="../Page/IM66.md" title="wikilink">IM66</a></p></td>
-<td><p>男</p></td>
-<td><p>KI-O</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李素律" title="wikilink">再妮</a></p></td>
+<td><p>2019年</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/SPEED_(韓國音樂團體).md" title="wikilink">SPEED</a><br />
+<a href="../Page/IM66.md" title="wikilink">IM66</a></p></td>
+<td><p>男</p></td>
+<td><p>KI-O</p></td>
+<td><p>2018年</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2017年</p></td>
 <td><p><a href="../Page/IM66.md" title="wikilink">IM66</a><br />
 IM</p></td>
@@ -526,14 +533,14 @@ IM</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年</p></td>
 <td><p><a href="../Page/UNB.md" title="wikilink">UNB</a></p></td>
 <td><p><a href="../Page/李宜縝.md" title="wikilink">宜縝</a>、、<a href="https://zh.wikipedia.org/wiki/MADTOWN" title="wikilink">大元</a>、Marco、<a href="../Page/HOTSHOT.md" title="wikilink">鎬廷</a>、<a href="../Page/NewKidd.md" title="wikilink">韓率</a>、<a href="../Page/李濬榮.md" title="wikilink">Jun</a>、<a href="https://zh.wikipedia.org/wiki/A.C.E" title="wikilink">Chan</a>、<a href="../Page/IM66.md" title="wikilink">基重</a></p></td>
 <td><p>2019年</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/UNI.T.md" title="wikilink">UNI.T</a></p></td>
 <td><p>女</p></td>
 <td><p><a href="../Page/楊知元.md" title="wikilink">知元</a>、<a href="../Page/優熙.md" title="wikilink">優熙</a>、<a href="../Page/慎胤祖.md" title="wikilink">胤祖</a>、<a href="../Page/ZN_(LABOUM).md" title="wikilink">ZN</a>、<a href="../Page/NC.A.md" title="wikilink">NC.A</a>、<a href="../Page/宜珍_(SONAMOO).md" title="wikilink">宜珍</a>、<a href="../Page/白豫彬.md" title="wikilink">豫彬</a>、<a href="../Page/李玹珠.md" title="wikilink">玹珠</a>、<a href="https://zh.wikipedia.org/wiki/李繡至" title="wikilink">繡至</a></p></td>

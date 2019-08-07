@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - [TEMU1000型太魯閣號](https://zh.wikipedia.org/wiki/太魯閣列車 "wikilink")（2011年在臺灣上市，日本未發售）
+  - [TEMU1000型太魯閣號](../Page/太魯閣列車.md "wikilink")（2011年在臺灣上市，日本未發售）
   - [TEMU2000型普悠瑪號](../Page/普悠瑪列車.md "wikilink")（2013年在臺灣上市，日本未發售）
   - [新太魯閣 Hello Kitty號 彩繪列車](https://zh.wikipedia.org/wiki/新太魯閣_Hello_Kitty號_彩繪列車 "wikilink")（2016年在臺灣上市，日本未發售）
 

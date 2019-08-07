@@ -456,10 +456,34 @@
 <td><p>未加入</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/矢作萌夏" title="wikilink">矢作萌夏</a></p></td>
+<td><p><a href="../Page/矢作萌夏.md" title="wikilink">矢作萌夏</a></p></td>
 <td><p>选秀 3期</p></td>
 <td><p><a href="../Page/NO_WAY_MAN.md" title="wikilink">NO WAY MAN</a></p></td>
 <td><p>2</p></td>
+<td><p>未加入</p></td>
+<td><p>未加入</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年7月27日自研究生升格</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/岡田梨奈" title="wikilink">岡田梨奈</a></p></td>
+<td><p>選秀3期</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>未加入</p></td>
+<td><p>未加入</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/小林蘭" title="wikilink">小林蘭</a></p></td>
+<td><p>選秀3期</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
@@ -1624,7 +1648,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>岡田梨奈</p></td>
+<td><p>末永祐月</p></td>
 <td><p>選秀<br />
 3期</p></td>
 <td><p>-</p></td>
@@ -1632,24 +1656,6 @@
 <td><p>未加入</p></td>
 <td><p>圈外</p></td>
 <td><p>AKS</p></td>
-</tr>
-<tr class="even">
-<td><p>小林蘭</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>未加入</p></td>
-<td><p>圈外</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>末永祐月</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>未加入</p></td>
-<td><p>圈外</p></td>
-<td><p>-</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>永野惠</p></td>

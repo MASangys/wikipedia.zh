@@ -242,7 +242,7 @@
 <a href="../Page/蔡康永.md" title="wikilink">蔡康永</a><br />
 <a href="../Page/小嫻.md" title="wikilink">小嫻</a><br />
 <a href="https://zh.wikipedia.org/wiki/艾莉絲" title="wikilink">艾莉絲</a></p></td>
-<td><p><a href="../Page/中天電視.md" title="wikilink">中天电视股份有限公司</a></p></td>
+<td><p><a href="../Page/中天電視.md" title="wikilink">中天电视股份有限公司</a>（<a href="https://zh.wikipedia.org/wiki/旺旺中時集團" title="wikilink">旺旺中時集團</a>）</p></td>
 <td><p><a href="../Page/中天娛樂台.md" title="wikilink">中天娛樂台</a><br />
 <a href="https://zh.wikipedia.org/wiki/飛碟聯播網" title="wikilink">飛碟聯播網</a></p></td>
 <td><p>2005年12月31日19:00～2006年1月1日01:00</p></td>
@@ -446,7 +446,7 @@ viki</p></td>
 <td><p><a href="../Page/陳建州.md" title="wikilink">陳建州</a><br />
 <a href="../Page/天心_(藝人).md" title="wikilink">天心</a><br />
 <a href="../Page/海裕芬.md" title="wikilink">海裕芬</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中華電視股份有限公司" title="wikilink">中華電視股份有限公司</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中華電視股份有限公司" title="wikilink">中華電視股份有限公司</a>（<a href="https://zh.wikipedia.org/wiki/台灣公廣集團" title="wikilink">台灣公廣集團</a>）</p></td>
 <td><p><a href="../Page/華視主頻.md" title="wikilink">華視主頻</a><br />
 <a href="../Page/華視新聞資訊台.md" title="wikilink">華視新聞資訊台</a><br />
 <a href="../Page/公視主頻.md" title="wikilink">公視主頻</a><br />
@@ -464,10 +464,22 @@ Dailymotion</p></td>
 <tr class="odd">
 <td><p>《2020臺北最HIGH新年城・这里我们混大的》</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中華電視股份有限公司" title="wikilink">中華電視股份有限公司</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/中華電視股份有限公司" title="wikilink">中華電視股份有限公司</a>（<a href="https://zh.wikipedia.org/wiki/台灣公廣集團" title="wikilink">台灣公廣集團</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/必應創造股份有限公司" title="wikilink">必應創造股份有限公司</a></p></td>
-<td><p><a href="../Page/華視主頻.md" title="wikilink">華視主頻</a></p></td>
+<td><p><a href="../Page/華視主頻.md" title="wikilink">華視主頻</a><br />
+<a href="../Page/華視新聞資訊台.md" title="wikilink">華視新聞資訊台</a><br />
+<a href="../Page/公視主頻.md" title="wikilink">公視主頻</a><br />
+<a href="../Page/公視3台.md" title="wikilink">公視3台</a><br />
+</p></td>
 <td><p>2019年12月31日19:00～2020年1月1日01:00</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>《2021臺北最HIGH新年城》</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>2020年12月31日19:00～2021年1月1日01:00</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -476,8 +488,6 @@ Dailymotion</p></td>
 ## 參考來源
 
 ## 外部連結
-
-  - [2019臺北最HIGH新年城](https://www.newyear2019.taipei/)
 
   - [臺北旅遊網](https://www.travel.taipei/zh-tw)
 

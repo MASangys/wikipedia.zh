@@ -820,7 +820,7 @@ CD盤</p>
       - [Fairies 官方部落格](http://gree.jp/fairies) - [GREE](https://zh.wikipedia.org/wiki/GREE "wikilink")（2011年8月3日 - 2013年8月18日）
 
       -
-[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:RISINGPRO](https://zh.wikipedia.org/wiki/Category:RISINGPRO "wikilink") [Category:VISION_FACTORY](https://zh.wikipedia.org/wiki/Category:VISION_FACTORY "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:日本唱片大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎者 "wikilink")
+[Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink") [Category:RISINGPRO](https://zh.wikipedia.org/wiki/Category:RISINGPRO "wikilink") [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink") [Category:日本唱片大獎最優秀新人獎獲獎者](https://zh.wikipedia.org/wiki/Category:日本唱片大獎最優秀新人獎獲獎者 "wikilink")
 
 1.  [](http://yuumeijininfo.blog52.fc2.com/blog-entry-18.html)
 

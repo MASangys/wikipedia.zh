@@ -1,4 +1,4 @@
-**BBC威爾士**（**BBC Cymru Wales**也被稱作****或****）是[英國廣播公司的](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")[威爾士](../Page/威爾士.md "wikilink")部分，三大国家级直播中心之一。位於[卡迪夫](https://zh.wikipedia.org/wiki/卡迪夫 "wikilink")[蘭達夫的](https://zh.wikipedia.org/wiki/蘭達夫 "wikilink")，直接雇傭超過1200人，製作[威尔士語和](https://zh.wikipedia.org/wiki/威尔士語 "wikilink")[英語的眾多](https://zh.wikipedia.org/wiki/英語 "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")、[廣播和](https://zh.wikipedia.org/wiki/廣播 "wikilink")[在線服務](https://zh.wikipedia.org/wiki/在線服務 "wikilink")。\[1\]
+**BBC威爾士**（，'''）是[英國廣播公司的](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")[威爾士](../Page/威爾士.md "wikilink")分公司，三大国家级直播中心之一。位於[卡迪夫](https://zh.wikipedia.org/wiki/卡迪夫 "wikilink")[蘭達夫的](https://zh.wikipedia.org/wiki/蘭達夫 "wikilink")，直接雇傭超過1200人，製作[威尔士語和](https://zh.wikipedia.org/wiki/威尔士語 "wikilink")[英語的眾多](https://zh.wikipedia.org/wiki/英語 "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")、[廣播和](https://zh.wikipedia.org/wiki/廣播 "wikilink")[在線服務](https://zh.wikipedia.org/wiki/在線服務 "wikilink")。\[1\]
 
 部分由於它也為和威尔士語電視台[S4C製作節目](https://zh.wikipedia.org/wiki/威爾斯第四台 "wikilink")，BBC威尔士是BBC倫敦以外最大的製作中心。
 

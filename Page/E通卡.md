@@ -1,4 +1,4 @@
-**e通卡**是通用于[闽南地区的非接触式小额](https://zh.wikipedia.org/wiki/闽南地区 "wikilink")[电子支付](https://zh.wikipedia.org/wiki/电子支付 "wikilink")[智能卡](https://zh.wikipedia.org/wiki/智能卡 "wikilink")，由**厦门易通卡责任运营有限公司**发行。该卡可以用于[厦门](https://zh.wikipedia.org/wiki/厦门 "wikilink")、[漳州](https://zh.wikipedia.org/wiki/漳州 "wikilink")、[泉州](https://zh.wikipedia.org/wiki/泉州 "wikilink")、[龙岩等地的](https://zh.wikipedia.org/wiki/龙岩 "wikilink")[公交](https://zh.wikipedia.org/wiki/公交 "wikilink")、[轮渡以及部分](https://zh.wikipedia.org/wiki/轮渡 "wikilink")[出租车付费](https://zh.wikipedia.org/wiki/出租车 "wikilink")， 以及在厦门市的部分餐饮店（如[麦当劳](../Page/麦当劳.md "wikilink")等）、大型超市、[便利店](https://zh.wikipedia.org/wiki/便利店 "wikilink")、[面包店](https://zh.wikipedia.org/wiki/面包店 "wikilink")、[停车场](https://zh.wikipedia.org/wiki/停车场 "wikilink")、[KTV及](https://zh.wikipedia.org/wiki/KTV "wikilink")[电影院等进行小额支付](https://zh.wikipedia.org/wiki/电影院 "wikilink")。除了由该公司独立发行外，还有和厦门市的[中学](../Page/中学.md "wikilink")、[大学联合发行的带有e通卡支付功能的](https://zh.wikipedia.org/wiki/大学 "wikilink")[校园卡](https://zh.wikipedia.org/wiki/校园卡 "wikilink")，以及和[厦门银行](../Page/厦门银行.md "wikilink")联合发行的“银鹭─e通”[联名卡](https://zh.wikipedia.org/wiki/联名卡 "wikilink")（该卡已停止发行）。
+**e通卡**是通用于[闽南地区的非接触式小额](https://zh.wikipedia.org/wiki/闽南地区 "wikilink")[电子支付](https://zh.wikipedia.org/wiki/电子支付 "wikilink")[智能卡](https://zh.wikipedia.org/wiki/智能卡 "wikilink")，由**厦门易通卡责任运营有限公司**发行。该卡可以用于[厦门](https://zh.wikipedia.org/wiki/厦门 "wikilink")、[漳州](https://zh.wikipedia.org/wiki/漳州 "wikilink")、[泉州](https://zh.wikipedia.org/wiki/泉州 "wikilink")、[龙岩等地的](https://zh.wikipedia.org/wiki/龙岩 "wikilink")[公交](https://zh.wikipedia.org/wiki/公交 "wikilink")、[轮渡以及部分](https://zh.wikipedia.org/wiki/轮渡 "wikilink")[出租车付费](https://zh.wikipedia.org/wiki/出租车 "wikilink")， 以及在厦门市的部分餐饮店（如[麦当劳](../Page/麦当劳.md "wikilink")等）、大型超市、[便利店](https://zh.wikipedia.org/wiki/便利店 "wikilink")、[面包店](https://zh.wikipedia.org/wiki/面包店 "wikilink")、[停车场](https://zh.wikipedia.org/wiki/停车场 "wikilink")、[KTV及](https://zh.wikipedia.org/wiki/KTV "wikilink")[电影院等进行小额支付](https://zh.wikipedia.org/wiki/电影院 "wikilink")。除了由该公司独立发行外，还有和厦门市的[小学](../Page/小学.md "wikilink")、[中学](../Page/中学.md "wikilink")、[大学联合发行的带有e通卡支付功能的](https://zh.wikipedia.org/wiki/大学 "wikilink")[校园卡](https://zh.wikipedia.org/wiki/校园卡 "wikilink")，以及和[厦门银行](../Page/厦门银行.md "wikilink")联合发行的“银鹭─e通”[联名卡](https://zh.wikipedia.org/wiki/联名卡 "wikilink")（该卡已停止发行）。
 
 ## 发行历史
 
@@ -10,63 +10,90 @@ e通卡系统曾于2005年获得厦门市科技进步二等奖\[10\]。
 
 ## 卡片种类
 
-### 普通卡（租用）
+  - **普通卡**
 
 普通卡押金30元，不记名不挂失，适用于任何年龄人士。卡片不再使用时可退卡，可退还押金。
 
-### 纪念卡
+  - **纪念卡**
 
 纪念卡在购卡时支付卡片费35～50元，**不记名不挂失不可退**
 
-### 异形卡
+  - 异形卡
 
 异形卡在购卡时支付卡片费30～35元，**不记名不挂失不可退**
 
-### 优惠卡
+  - **手机发行版本**
 
-  - 学生卡
-  - 敬老卡
-  - 劳模卡
-  - 烈属卡
-  - 保障卡
+现支持的厂商有[华为](../Page/华为支付.md "wikilink")、[小米](../Page/小米支付.md "wikilink")、[三星](https://zh.wikipedia.org/wiki/三星智付 "wikilink")、[oppo](https://zh.wikipedia.org/wiki/oppo支付 "wikilink")、[vivo](https://zh.wikipedia.org/wiki/vivo支付 "wikilink")
 
-### 企业联名卡
-
-### 移动易通卡
-
-开卡费用25元[人民币](../Page/人民币.md "wikilink")+10～100余额
-
-现支持的手机厂商
-
-  - [华为](../Page/华为支付.md "wikilink")
-  - [三星](https://zh.wikipedia.org/wiki/三星智付 "wikilink")
-  - [小米](../Page/小米支付.md "wikilink")
-  - OPPO
-  - VIVO
-
-### 异地卡
+  - **异地卡**
 
 目前发行的异地卡有:龙岩市普通卡/学生卡,漳州市普通卡/学生卡,南安市普通卡/学生卡。
 
-### 交通联合发行版本（福路通·易通卡）
+  - **交通联合发行版本（福路通·易通卡）**
 
 作为纪念版发行，30元购买费，**不记名不挂失不可退**
 
 关于该卡支持的城市请参照[全国交通一卡通互联互通](../Page/全国交通一卡通互联互通.md "wikilink")
+
+  - 企业联名卡
+
+### 优惠卡
+
+  - **学生卡**
+
+九年义务教育及以上教育的学生持学校证明（市级教育机构认可的）、身份证/户口本到营业网点办理，工本费15元。
+
+  - **敬老卡**
+
+年满65岁以上的老人持有效身份证件（本地户籍：户口簿/身份证；台胞：[台胞证](https://zh.wikipedia.org/wiki/台胞证 "wikilink")；外地户籍：厦门市居住证+身份证）办理，免首次办理工本费，补卡15一张。
+
+  - 劳模卡
+  - 烈属卡
+  - 保障卡
+
+来源\[11\]
 
 ## 使用范围
 
 ### 交通
 
   - 厦门公交集团（2003年11月—）
+
+<!-- end list -->
+
   - 漳州市公交公司（2004年11月—）
+
+<!-- end list -->
+
   - 厦门市轮渡公司(厦鼓轮渡客运)（2005年2月—）
-  - 龙岩市公共交通公司（2005年5月—2013年10月，目前已撤出\[11\]）
+
+<!-- end list -->
+
+  - 龙岩市公共交通公司（2005年5月—2013年10月，目前已撤出\[12\]）
+
+<!-- end list -->
+
   - 厦门海峡出租车公司（2007年1月—）
+
+<!-- end list -->
+
   - 泉州安溪恒兴客运有限公司(安溪公交)（2007年12月—）
+
+<!-- end list -->
+
   - 南安市公共交通公司（2008年4月—）
+
+<!-- end list -->
+
   - 厦门快速公交场站有限公司(BRT快速公交)（2008年9月—）
-  - 晋江市公共交通有限公司（2008年6月—\[12\]）
+
+<!-- end list -->
+
+  - 晋江市公共交通有限公司（2008年6月—\[13\]）
+
+<!-- end list -->
+
   - 厦门轨道交通集团有限公司（2017年12月—）
 
 <!-- end list -->
@@ -182,5 +209,6 @@ e通卡系统曾于2005年获得厦门市科技进步二等奖\[10\]。
 8.
 9.
 10.
-11. <http://fj.sohu.com/20130706/n380873923.shtml>
-12. <http://news.sina.com.cn/c/2008-06-26/012115816760.shtml?qq-pf-to=pcqq.group>
+11.
+12. <http://fj.sohu.com/20130706/n380873923.shtml>
+13. <http://news.sina.com.cn/c/2008-06-26/012115816760.shtml?qq-pf-to=pcqq.group>

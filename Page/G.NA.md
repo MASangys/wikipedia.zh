@@ -345,17 +345,17 @@ G. NA在8月16日發布了她的迷你專輯“TOP Girl”宣传照片。她通�
 
 ### 音樂節目獎項
 
-| 年份    | 日期     | 電視台                                                   | 節目名稱                                                                   | 獲獎歌曲          | 排名               |
-| ----- | ------ | ----------------------------------------------------- | ---------------------------------------------------------------------- | ------------- | ---------------- |
-| 2010年 | 8月12日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 我會離開 你就好好過吧   | 1位               |
-| 2011年 | 2月17日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Black & White | 1位               |
-| 2011年 | 2月24日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Black & White | 1位               |
-| 2011年 | 2月25日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [音乐银行](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")                  | Black & White | 1位               |
-| 2011年 | 2月27日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Black & White | 1位(Mutizen Song) |
-| 2011年 | 12月23日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [音乐银行](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")                  | Black & White | 年終結算:第15位        |
-| 2012年 | 6月8日   | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [音乐银行](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")                  | 2HOT          | 1位               |
-| 2012年 | 12月21日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [音乐银行](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")                  | 2HOT          | 年終結算:第33位        |
-| 2013年 | 3月29日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [音乐银行](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")                  | Oops\!        | 1位               |
+| 年份    | 日期     | 電視台                                                 | 節目名稱                                                                   | 獲獎歌曲          | 排名               |
+| ----- | ------ | --------------------------------------------------- | ---------------------------------------------------------------------- | ------------- | ---------------- |
+| 2010年 | 8月12日  | [Mnet](../Page/Mnet.md "wikilink")                  | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 我會離開 你就好好過吧   | 1位               |
+| 2011年 | 2月17日  | [Mnet](../Page/Mnet.md "wikilink")                  | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Black & White | 1位               |
+| 2011年 | 2月24日  | [Mnet](../Page/Mnet.md "wikilink")                  | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Black & White | 1位               |
+| 2011年 | 2月25日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [音乐银行](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")                  | Black & White | 1位               |
+| 2011年 | 2月27日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Black & White | 1位(Mutizen Song) |
+| 2011年 | 12月23日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [音乐银行](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")                  | Black & White | 年終結算:第15位        |
+| 2012年 | 6月8日   | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [音乐银行](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")                  | 2HOT          | 1位               |
+| 2012年 | 12月21日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [音乐银行](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")                  | 2HOT          | 年終結算:第33位        |
+| 2013年 | 3月29日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [音乐银行](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")                  | Oops\!        | 1位               |
 
 ## 主要音樂節目榜單排名
 

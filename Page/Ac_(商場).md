@@ -142,6 +142,7 @@
   - [德興小廚](https://zh.wikipedia.org/wiki/德興小廚 "wikilink")
   - [龍門冰室](https://zh.wikipedia.org/wiki/龍門冰室 "wikilink")
   - [榮記車仔麵](https://zh.wikipedia.org/wiki/榮記車仔麵 "wikilink")
+  - [香港仔鄰里咖啡](https://zh.wikipedia.org/wiki/香港仔鄰里咖啡 "wikilink")
 
 ` 周邊娛樂`
 

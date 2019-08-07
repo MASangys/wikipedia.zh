@@ -50,7 +50,7 @@
 
 ### 2014年
 
-1月21日，Uwants及[香港討論區](../Page/香港討論區.md "wikilink")疑安全漏洞危害用戶，令人擔心私隱外洩。[Google Chrome](../Page/Google_Chrome.md "wikilink")、[Firefox](../Page/Firefox.md "wikilink")等多個用戶被警告有危險，指*該網站發佈惡意程式*。《[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink")》報導，該公司承認要搶修系統，但最終沒有回應其他問題。[香港高登的](https://zh.wikipedia.org/wiki/香港高登 "wikilink")[林祖舜批評Uwants公司效率差](https://zh.wikipedia.org/wiki/林祖舜 "wikilink")，他稱為大型網站癱瘓近一天屬罕見問題。\[23\][香港互聯網協會](../Page/香港互聯網協會.md "wikilink")網絡保安及私隱小組召集人楊和生先生指，Uwants討論區及[香港討論區](../Page/香港討論區.md "wikilink")的設計有問題。他直言這種程式的漏洞可被[駭客利用作殖入惡意](https://zh.wikipedia.org/wiki/駭客 "wikilink")[程式碼](https://zh.wikipedia.org/wiki/程式碼 "wikilink")，用戶會是受害者。\[24\]
+1月21日，Uwants及[香港討論區](../Page/香港討論區.md "wikilink")疑安全漏洞危害用戶，令人擔心私隱外洩。[Google Chrome](../Page/Google_Chrome.md "wikilink")、[Firefox](../Page/Firefox.md "wikilink")等多個用戶被警告有危險，指*該網站發佈惡意程式*。《[蘋果日報](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink")》報導，該公司承認要搶修系統，但最終沒有回應其他問題。[香港高登的](https://zh.wikipedia.org/wiki/香港高登 "wikilink")[林祖舜](../Page/林祖舜.md "wikilink")批評Uwants公司效率差，他稱為大型網站癱瘓近一天屬罕見問題。\[23\][香港互聯網協會](../Page/香港互聯網協會.md "wikilink")網絡保安及私隱小組召集人楊和生先生指，Uwants討論區及[香港討論區](../Page/香港討論區.md "wikilink")的設計有問題。他直言這種程式的漏洞可被[駭客利用作殖入惡意](https://zh.wikipedia.org/wiki/駭客 "wikilink")[程式碼](https://zh.wikipedia.org/wiki/程式碼 "wikilink")，用戶會是受害者。\[24\]
 
 ### 2015年
 

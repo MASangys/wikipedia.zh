@@ -295,20 +295,6 @@ HKT48原與[AKB48集團](../Page/AKB48集團.md "wikilink")其他團體一樣擁
 <td><p>90</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/植木南央.md" title="wikilink">植木南央</a></p></td>
-<td></td>
-<td></td>
-<td><p>1期</p></td>
-<td><p>2012年3月4日</p></td>
-<td><p>AKS</p></td>
-<td><p>原Team H<br />
-獲得<a href="../Page/唐津市_(日本).md" title="wikilink">唐津青少年音楽祭</a>2009的<br />
-<a href="https://zh.wikipedia.org/wiki/西尾芳彦" title="wikilink">西尾芳彦音乐奖</a>[66]<br />
-預定於2019年7月31日畢業[67]<br />
-當日畢業公演[68]</p></td>
-<td><p>54</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/運上弘菜" title="wikilink">運上弘菜</a></p></td>
 <td></td>
 <td></td>
@@ -318,7 +304,7 @@ HKT48原與[AKB48集團](../Page/AKB48集團.md "wikilink")其他團體一樣擁
 <td></td>
 <td><p>84</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/熊澤世莉奈" title="wikilink">熊澤世莉奈</a></p></td>
 <td></td>
 <td></td>
@@ -326,10 +312,10 @@ HKT48原與[AKB48集團](../Page/AKB48集團.md "wikilink")其他團體一樣擁
 <td><p>2012年3月4日</p></td>
 <td><p>AKS</p></td>
 <td><p>原Team H<br />
-DANCE SCHOOL S.S.M出身[69]</p></td>
+DANCE SCHOOL S.S.M出身[66]</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/下野由貴.md" title="wikilink">下野由貴</a></p></td>
 <td></td>
 <td></td>
@@ -339,7 +325,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>原Team H</p></td>
 <td><p>85</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/地頭江音音" title="wikilink">地頭江音音</a></p></td>
 <td></td>
 <td></td>
@@ -349,7 +335,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td></td>
 <td><p>117</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/朝長美櫻.md" title="wikilink">朝長美櫻</a></p></td>
 <td></td>
 <td></td>
@@ -359,7 +345,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>曾兼任AKB48 Team 4</p></td>
 <td><p>21</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/馬場彩華" title="wikilink">馬場彩華</a></p></td>
 <td></td>
 <td></td>
@@ -370,7 +356,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>第三屆選秀會議Team KIV第一輪指名</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/深川舞子" title="wikilink">深川舞子</a></p></td>
 <td></td>
 <td></td>
@@ -380,7 +366,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td></td>
 <td><p>91</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/渕上舞_(歌手)" title="wikilink">渕上舞</a></p></td>
 <td></td>
 <td></td>
@@ -390,7 +376,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td></td>
 <td><p>31</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/村重杏奈.md" title="wikilink">村重杏奈</a></p></td>
 <td></td>
 <td></td>
@@ -402,7 +388,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 第25期生</p></td>
 <td><p>67</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong><a href="../Page/本村碧唯.md" title="wikilink">本村碧唯</a></strong></p></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -413,7 +399,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 隊長</p></td>
 <td><p>36</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/森保圓.md" title="wikilink">森保圓</a><br />
 （）</p></td>
 <td></td>
@@ -424,7 +410,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>原Team H</p></td>
 <td><p>25</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -590,7 +576,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>4期</p></td>
 <td><p>2017年11月26日</p></td>
 <td><p>AKS</p></td>
-<td><p>妹妹為<a href="../Page/SUPER☆GiRLS.md" title="wikilink">SUPER☆GiRLS</a>成員松本愛花[70]</p></td>
+<td><p>妹妹為<a href="../Page/SUPER☆GiRLS.md" title="wikilink">SUPER☆GiRLS</a>成員松本愛花[67]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -788,7 +774,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 
 ### IZ\*ONE專任成員
 
-2018年10月29日起專任[IZ\*ONE](../Page/IZ*ONE.md "wikilink")成員\[71\]。
+2018年10月29日起專任[IZ\*ONE](../Page/IZ*ONE.md "wikilink")成員\[68\]。
 
 <table>
 <thead>
@@ -875,7 +861,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>H</p></td>
 <td><p>2012年8月18日</p></td>
 <td><p>City娛樂<a href="https://web.archive.org/web/20150701032406/https://aruaru-enter.com/%E3%82%A2%E3%83%BC%E3%83%86%E3%82%A3%E3%82%B9%E3%83%88/">1</a></p></td>
-<td><p>請辭[72]</p></td>
+<td><p>請辭[69]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -905,10 +891,10 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td></td>
 <td></td>
 <td><p>2期</p></td>
-<td><p>无[73]</p></td>
+<td><p>无[70]</p></td>
 <td><p>2014年4月22日</p></td>
 <td></td>
-<td><p>移籍到SKE48 Team E[74]</p></td>
+<td><p>移籍到SKE48 Team E[71]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -919,7 +905,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>H</p></td>
 <td><p>2014年4月22日</p></td>
 <td><p>AKS</p></td>
-<td><p>移籍到AKB48 Team A[75]</p></td>
+<td><p>移籍到AKB48 Team A[72]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -930,7 +916,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>KIV</p></td>
 <td><p>2015年4月30日</p></td>
 <td><p>-</p></td>
-<td><p>畢業[76]</p></td>
+<td><p>畢業[73]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -955,7 +941,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>KIV</p></td>
 <td><p>2015年10月31日</p></td>
 <td><p>-</p></td>
-<td><p>畢業[77][78]</p></td>
+<td><p>畢業[74][75]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -966,7 +952,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>H</p></td>
 <td><p>2015年12月31日</p></td>
 <td><p>-</p></td>
-<td><p>畢業[79]</p></td>
+<td><p>畢業[76]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -999,7 +985,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>H</p></td>
 <td><p>2016年8月1日</p></td>
 <td><p>-</p></td>
-<td><p>畢業[80]<br />
+<td><p>畢業[77]<br />
 曾為Team H隊長</p></td>
 <td><p>33</p></td>
 </tr>
@@ -1039,7 +1025,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>H</p></td>
 <td><p>2017年5月8日</p></td>
 <td></td>
-<td><p>當日畢業公演[81]</p></td>
+<td><p>當日畢業公演[78]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1050,7 +1036,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>TII</p></td>
 <td><p>2017年5月29日</p></td>
 <td><p>-</p></td>
-<td><p>當日畢業公演[82][83]</p></td>
+<td><p>當日畢業公演[79][80]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1061,7 +1047,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>H</p></td>
 <td><p>2017年6月12日</p></td>
 <td><p>-</p></td>
-<td><p>當日畢業公演[84]</p></td>
+<td><p>當日畢業公演[81]</p></td>
 <td><p>48</p></td>
 </tr>
 <tr class="even">
@@ -1072,7 +1058,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>KIV</p></td>
 <td><p>2018年2月27日</p></td>
 <td><p>-</p></td>
-<td><p>|當日畢業公演[85][86]</p></td>
+<td><p>|當日畢業公演[82][83]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1083,7 +1069,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>H</p></td>
 <td><p>2018年3月21日</p></td>
 <td><p>-</p></td>
-<td><p>當日畢業公演[87]</p></td>
+<td><p>當日畢業公演[84]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1094,7 +1080,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>H</p></td>
 <td><p>2018年4月19日</p></td>
 <td></td>
-<td><p>當日畢業公演[88][89]</p></td>
+<td><p>當日畢業公演[85][86]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1106,7 +1092,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>H</p></td>
 <td><p>2018年5月21日</p></td>
 <td><p>-</p></td>
-<td><p>當日畢業公演[90]</p></td>
+<td><p>當日畢業公演[87]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1119,7 +1105,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>2018年12月27日</p></td>
 <td><p>-</p></td>
 <td><p>第三屆選秀會議Team TII第一輪指名<br />
-請辭[91]</p></td>
+請辭[88]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1130,7 +1116,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>KIV</p></td>
 <td><p>2019年3月30日</p></td>
 <td><p>-</p></td>
-<td><p>當日畢業公演[92]</p></td>
+<td><p>當日畢業公演[89]</p></td>
 <td><p>38</p></td>
 </tr>
 <tr class="even">
@@ -1147,7 +1133,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 原AKB48 Team B（初代）<br />
 原AKB48 Team A（高橋）<br />
 2012年6月16日移籍<br />
-當日畢業演唱会[93]</p></td>
+當日畢業演唱会[90]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
@@ -1159,8 +1145,8 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>2019年6月9日</p></td>
 <td><p>-</p></td>
 <td><p>曾兼任<a href="../Page/AKB48.md" title="wikilink">AKB48</a> Team K<br />
-2017年12月27日起暫停活動[94]<br />
-畢業[95]</p></td>
+2017年12月27日起暫停活動[91]<br />
+畢業[92]</p></td>
 <td><p>9</p></td>
 </tr>
 <tr class="even">
@@ -1171,7 +1157,7 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>H</p></td>
 <td><p>2019年6月17日</p></td>
 <td><p>-</p></td>
-<td><p>當日畢業公演[96][97][98]</p></td>
+<td><p>當日畢業公演[93][94][95]</p></td>
 <td><p>60</p></td>
 </tr>
 <tr class="odd">
@@ -1182,8 +1168,33 @@ DANCE SCHOOL S.S.M出身[69]</p></td>
 <td><p>KIV</p></td>
 <td><p>2019年6月21日</p></td>
 <td><p>-</p></td>
-<td><p>當日畢業公演[99][100]</p></td>
+<td><p>當日畢業公演[96][97]</p></td>
 <td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/植木南央.md" title="wikilink">植木南央</a></p></td>
+<td></td>
+<td></td>
+<td><p>1期</p></td>
+<td><p>KIV</p></td>
+<td><p>2019年7月31日</p></td>
+<td><p>-</p></td>
+<td><p>原Team H<br />
+獲得<a href="../Page/唐津市_(日本).md" title="wikilink">唐津青少年音楽祭</a>2009的<br />
+<a href="https://zh.wikipedia.org/wiki/西尾芳彦" title="wikilink">西尾芳彦音乐奖</a>[98]<br />
+當日畢業公演[99][100]</p></td>
+<td><p>54</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1707,6 +1718,14 @@ Team H中西智代梨移籍至AKB48 Team A<br />
 <td><p>11</p></td>
 </tr>
 <tr class="odd">
+<td><p>7月31日</p></td>
+<td><p>Team KIV植木南央畢業</p></td>
+<td><p>-1</p></td>
+<td><p>56</p></td>
+<td><p>40</p></td>
+<td><p>11</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1748,7 +1767,8 @@ Team H中西智代梨移籍至AKB48 Team A<br />
 植木南央、熊澤世莉奈、下野由貴、宮脇咲良、村重杏奈、本村碧唯、森保圆在2014年4月23日异动至Team KIV。<br />
 中西智代梨在2014年4月23日移籍至AKB48。<br />
 若田部遙於2017年2月5日畢業。<br />
-兒玉遙於2019年6月9日畢業。</p></td>
+兒玉遙於2019年6月9日畢業。<br />
+植木南央於2019年7月31日畢業。</p></td>
 </tr>
 <tr class="odd">
 <td><p>植木南央</p></td>
@@ -3373,24 +3393,24 @@ HKT48劇場設於福岡市中央區地行濱的（Hawks Town Mall）內，於201
 64.
 
 65.
-66. [唐津ジュニア音楽祭 ２８組が熱唱―「たんこぶちん」グランプリ 佐賀新聞 2009年02月23日](http://www.saga-s.co.jp/news/machi-wadai.0.1188234.article.html)
+66. [「HKT48 熊沢 世莉奈 をよろしくお願いいたします！」さおブロ 2011年11月30日](http://ameblo.jp/dance-ssm/entry-11094069130.html)
 
 67.
 
 68.
 
-69. [「HKT48 熊沢 世莉奈 をよろしくお願いいたします！」さおブロ 2011年11月30日](http://ameblo.jp/dance-ssm/entry-11094069130.html)
+69. [【お知らせ】](http://ameblo.jp/hkt48/entry-11331501203.html) - HKT48 オフィシャルブログ 2012年8月18日
 
-70.
+70. 升格后原定配属至Team KIV，但在之后被宣布移籍至SKE48，因此未成为Team KIV正式成员
 
 71.
-
-72. [【お知らせ】](http://ameblo.jp/hkt48/entry-11331501203.html) - HKT48 オフィシャルブログ 2012年8月18日
-
-73. 升格后原定配属至Team KIV，但在之后被宣布移籍至SKE48，因此未成为Team KIV正式成员
+72.
+73.
 
 74.
+
 75.
+
 76.
 
 77.
@@ -3420,12 +3440,12 @@ HKT48劇場設於福岡市中央區地行濱的（Hawks Town Mall）內，於201
 89.
 
 90.
-
 91.
 
 92.
 
 93.
+
 94.
 
 95.
@@ -3434,7 +3454,7 @@ HKT48劇場設於福岡市中央區地行濱的（Hawks Town Mall）內，於201
 
 97.
 
-98.
+98. [唐津ジュニア音楽祭 ２８組が熱唱―「たんこぶちん」グランプリ 佐賀新聞 2009年02月23日](http://www.saga-s.co.jp/news/machi-wadai.0.1188234.article.html)
 
 99.
 

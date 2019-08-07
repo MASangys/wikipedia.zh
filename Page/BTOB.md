@@ -1,6 +1,6 @@
 **BTOB**（，），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，由[Cube娛樂](../Page/Cube娛樂.md "wikilink")於2012年成立。成員包括[徐恩光](../Page/徐恩光.md "wikilink")、[李旼赫](../Page/李旼赫.md "wikilink")、[李昌燮](../Page/李昌燮.md "wikilink")、[任炫植](../Page/任炫植.md "wikilink")、[Peniel](../Page/辛東根.md "wikilink")、[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")、[陸星材](../Page/陸星材.md "wikilink")。BTOB的名稱代表著「**Born To Beat**」，意思指「包含音樂抱負，希望和決心，為Beat而生」。以「Beat」的意思為節拍、伴奏、背景、衝擊，也分為「為新的音樂和舞台而生」和「用音樂給全世界聽眾帶來衝擊而生」兩個主題。\[1\]\[2\] 7名成員中擁有4名Vocalists及3名Rapper，均具有堅強的現場演唱實力以及創作能力。
 
-2012年3月21日，以首張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")《[Born To Beat](../Page/Born_to_Beat_\(BTOB迷你專輯\).md "wikilink")》於韓國正式出道，並於次日在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》公開出道初舞台。2014年11月12日，以首張[日語單曲](https://zh.wikipedia.org/wiki/日語 "wikilink")《[WOW（JPN ver.）](../Page/WOW（JPN_ver.）.md "wikilink")》於日本正式出道。2016年9月19日，Vocalists成員恩光、昌燮、炫植、星材組成子團[BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")，以首張數位單曲《[留在我身邊](../Page/留在我身邊_\(BTOB－BLUE單曲\).md "wikilink")》正式出道。
+2012年3月21日，以首張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")《[Born To Beat](../Page/Born_to_Beat_\(BTOB迷你專輯\).md "wikilink")》於韓國正式出道，並於次日在[Mnet](../Page/Mnet.md "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》公開出道初舞台。2014年11月12日，以首張[日語單曲](https://zh.wikipedia.org/wiki/日語 "wikilink")《[WOW（JPN ver.）](../Page/WOW（JPN_ver.）.md "wikilink")》於日本正式出道。2016年9月19日，Vocalists成員恩光、昌燮、炫植、星材組成子團[BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")，以首張數位單曲《[留在我身邊](../Page/留在我身邊_\(BTOB－BLUE單曲\).md "wikilink")》正式出道。
 
 2015年6月29日，以抒情曲《[沒關係](../Page/Complete_\(BTOB專輯\).md "wikilink")》首次獲得各大音源榜一位。2015年10月21日，以《[回家的路](../Page/I_mean.md "wikilink")》於[MBC Music](../Page/MBC_Plus_Media.md "wikilink")《[Show Champion](../Page/Show_Champion.md "wikilink")》獲得出道3年7個月以來首個音樂放送一位 。2016年4月8日，以《[春天的記憶](../Page/Remember_That.md "wikilink")》在出道1,480天後於[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲得無線電視臺初一位，打歌期間共榮獲「三冠王」 。2017年10月憑藉《[想念](../Page/Brother_Act._\(BTOB專輯\).md "wikilink")》榮獲音樂放送「七冠王」。自2015年起連續以「抒情三部曲」回歸展現歌唱與舞台實力，以逐年充實的音樂實力步入大眾市場，被稱作「大器晚成的偶像」。
 
@@ -52,7 +52,7 @@
 
 ### 2012年：正式出道
 
-2012年3月21日，下午2時舉行出道發表會，初次公開首張迷你專輯《[Born To Beat](../Page/Born_to_Beat_\(BTOB迷你專輯\).md "wikilink")》的雙主打歌曲《Insane》\[25\] 和《Imagine》。3月22日，在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》展示舞台，正式出道。5月3日，公開了單曲《父親（아버지）》\[26\]\[27\]，並配合於5月8日的父母節 \[28\] 於官方Youtube頻道上載了父母節特別節目。5月15日，官方Facebook粉絲頁公佈BTOB的官方Fanclub名稱為「Melody」。5月23日，公開《奪走那雙唇（그 입술을 뺏었어）》MV \[29\]。
+2012年3月21日，下午2時舉行出道發表會，初次公開首張迷你專輯《[Born To Beat](../Page/Born_to_Beat_\(BTOB迷你專輯\).md "wikilink")》的雙主打歌曲《Insane》\[25\] 和《Imagine》。3月22日，在[Mnet](../Page/Mnet.md "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》展示舞台，正式出道。5月3日，公開了單曲《父親（아버지）》\[26\]\[27\]，並配合於5月8日的父母節 \[28\] 於官方Youtube頻道上載了父母節特別節目。5月15日，官方Facebook粉絲頁公佈BTOB的官方Fanclub名稱為「Melody」。5月23日，公開《奪走那雙唇（그 입술을 뺏었어）》MV \[29\]。
 
 2012年9月4日，所屬公司透過官方Facebook公開迷你二輯《[Press Play](../Page/Press_Play_\(BTOB迷你專輯\).md "wikilink")》回歸預告照 \[30\]。9月7日，公開新曲《WOW》MV預告 \[31\]，並於9月12日公開MV \[32\]\[33\]\[34\]。10月23日，公開《我只知道愛（사랑밖에 난 몰라）》MV \[35\]。
 
@@ -100,13 +100,13 @@
 
 [BtoB_at_2016_KBS_Youth_Concert.jpg](https://zh.wikipedia.org/wiki/File:BtoB_at_2016_KBS_Youth_Concert.jpg "fig:BtoB_at_2016_KBS_Youth_Concert.jpg")青少年音樂會。\]\]
 
-2016年2月24日，發行第四張日文單曲《[Dear Bride](https://zh.wikipedia.org/wiki/Dear_Bride_\(BTOB日文單曲\) "wikilink")》\[60\]，發行一週即獲日本[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")週榜二位、唱片行「TOWER RECORDS」2月份月榜銷售一位，一週總銷量近十萬張 \[61\]。
+2016年2月24日，發行第四張日文單曲《[Dear Bride](../Page/Dear_Bride_\(BTOB日文單曲\).md "wikilink")》\[60\]，發行一週即獲日本[Oricon公信榜](../Page/Oricon公信榜.md "wikilink")週榜二位、唱片行「TOWER RECORDS」2月份月榜銷售一位，一週總銷量近十萬張 \[61\]。
 
 2016年3月14日，旼赫主演的iHQ網路劇《[噩夢老師](../Page/噩夢老師.md "wikilink")》首播，與[金所泫](../Page/金所泫.md "wikilink")搭檔，飾演男主角新聞部高中生徐尚宇 \[62\]\[63\]。
 
 2016年3月26、27日，於[韓國首爾蠶室室內體育館舉行安可場演唱會](../Page/首爾綜合運動場.md "wikilink")《[Born To Beat Time \~ Encore \~](../Page/Born_To_Beat_Time.md "wikilink")》。
 
-2016年3月28日，迷你八輯《[Remember That](../Page/Remember_That.md "wikilink")》正式發行，主打曲《春天的記憶（봄날의 기억）》\[64\] 及第二主打曲《So Pretty》於26、27日舉行的單獨演唱會上先行公開首唱；音源公開即空降Mnet、Genie、Naver2位、Melon3位、Olleh4位、Bugs12位等，專輯其他非主打曲也均位於榜單內。4月6日，於[MBC Music](../Page/MBC_Plus_Media.md "wikilink")《[Show Champion](../Page/Show_Champion.md "wikilink")》首次以7人完整體獲得一位 \[65\]；7日，獲得[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》初一位；8日，在出道1,480天後，獲得[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》無線電視臺初一位 \[66\]\[67\]。
+2016年3月28日，迷你八輯《[Remember That](../Page/Remember_That.md "wikilink")》正式發行，主打曲《春天的記憶（봄날의 기억）》\[64\] 及第二主打曲《So Pretty》於26、27日舉行的單獨演唱會上先行公開首唱；音源公開即空降Mnet、Genie、Naver2位、Melon3位、Olleh4位、Bugs12位等，專輯其他非主打曲也均位於榜單內。4月6日，於[MBC Music](../Page/MBC_Plus_Media.md "wikilink")《[Show Champion](../Page/Show_Champion.md "wikilink")》首次以7人完整體獲得一位 \[65\]；7日，獲得[Mnet](../Page/Mnet.md "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》初一位；8日，在出道1,480天後，獲得[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》無線電視臺初一位 \[66\]\[67\]。
 
 2016年4月16日，在《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》500集特輯中，與女團[Mamamoo](../Page/Mamamoo.md "wikilink")交換舞臺，重新演繹她們的歌曲《你 is 完美》\[68\]，MAMAMOO則演唱BTOB的《沒關係》，兩團充分顯現現場實力的特別表演受到許多讚賞與熱議；由於當日為「[韓國世越號沉船事件](https://zh.wikipedia.org/wiki/世越號沉沒事故 "wikilink")」兩週年，BTOB戴上黃絲帶在舞臺上表演以悼念死難者。
 
@@ -136,7 +136,7 @@
 
 2017年8月30日，發行第七張日文單曲《[Brand new days ～怎樣的未來～](../Page/Brand_new_days_～怎樣的未來～.md "wikilink")》\[102\]，發行當日即獲Oricon公信榜日榜2位，發行日起連續三天獲得唱片行「TOWER RECORDS」全店綜合專輯日榜1位、全店綜合專輯周榜1位、8月全店月榜1位 \[103\]\[104\]\[105\]，以及[Billboard Japan](https://zh.wikipedia.org/wiki/Billboard_Japan "wikilink") Top Singles Sales 2位，銷量為88,668張 \[106\]。
 
-2017年10月16日，正式發行正規二輯《[Brother Act.](../Page/Brother_Act._\(BTOB專輯\).md "wikilink")》及主打曲《想念（그리워하다）》\[107\]，音源公開即空降音源實時榜 Naver Music2位、Genie、Bugs、MelOn3位、Soribada13位、Mnet18位。特別是MelOn、Soribada、Naver Music、Genie、Bugs五榜中，其餘十一首收錄歌曲均佔據榜單上游位置，而後主打曲於韓國時間21時在MelOn、Genie、Bugs、Naver Music、Monkey3、Olleh等六榜上升至1位 \[108\]。Genie、Bugs、Olleh三榜自韓國時間16日21時起至17日15時為止，連續20小時位於榜單1位；而MelOn於韓國時間16日20時起至20日11時連續86小時蟬聯1位，打破自身紀錄。\[109\]\[110\] 10月25、26、27日，分別於[MBC Music](../Page/MBC_Plus_Media.md "wikilink")《[Show Champion](../Page/Show_Champion.md "wikilink")》、[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》、[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲得一位；10月29日，獲得[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》初一位 \[111\]；11月1、2、5日，分別於《Show Champion》、《M Countdown》、《人氣歌謠》連續兩周獲得一位 \[112\]\[113\]；BTOB以《想念》連續獲得一位成為七冠王，本次活動獲得的一位也超過5年來所有回歸獲得的加總冠軍數（截自2015年10月出道初一位至2017年3月止，共五冠）。
+2017年10月16日，正式發行正規二輯《[Brother Act.](../Page/Brother_Act._\(BTOB專輯\).md "wikilink")》及主打曲《想念（그리워하다）》\[107\]，音源公開即空降音源實時榜 Naver Music2位、Genie、Bugs、MelOn3位、Soribada13位、Mnet18位。特別是MelOn、Soribada、Naver Music、Genie、Bugs五榜中，其餘十一首收錄歌曲均佔據榜單上游位置，而後主打曲於韓國時間21時在MelOn、Genie、Bugs、Naver Music、Monkey3、Olleh等六榜上升至1位 \[108\]。Genie、Bugs、Olleh三榜自韓國時間16日21時起至17日15時為止，連續20小時位於榜單1位；而MelOn於韓國時間16日20時起至20日11時連續86小時蟬聯1位，打破自身紀錄。\[109\]\[110\] 10月25、26、27日，分別於[MBC Music](../Page/MBC_Plus_Media.md "wikilink")《[Show Champion](../Page/Show_Champion.md "wikilink")》、[Mnet](../Page/Mnet.md "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》、[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲得一位；10月29日，獲得[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")》初一位 \[111\]；11月1、2、5日，分別於《Show Champion》、《M Countdown》、《人氣歌謠》連續兩周獲得一位 \[112\]\[113\]；BTOB以《想念》連續獲得一位成為七冠王，本次活動獲得的一位也超過5年來所有回歸獲得的加總冠軍數（截自2015年10月出道初一位至2017年3月止，共五冠）。
 
 2017年11月21日，BTOB捐款5000萬韓元幫助[南韓浦項地震當地災民](../Page/2017年浦項地震.md "wikilink") \[114\]。
 
@@ -200,7 +200,7 @@
 
 2019年5月13日，Peniel發行首張個人數位單曲《B.O.D》，由Peniel的姊夫、作曲家KAIROS製作、Peniel參與填詞。\[156\]\[157\]
 
-2019年7月31日，Peniel發行第二張個人數位單曲《FLY23》。\[158\]
+2019年7月31日，Peniel發行第二張個人數位單曲《FLY23》，由KAIROS作曲製作、Peniel參與填詞。\[158\]\[159\]
 
 ## 音樂作品
 
@@ -326,7 +326,7 @@ BTOB 出道至今參與許多綜藝，在節目中展現搞笑本能及過人獨
 
 ## 獎項
 
-2013年1月15日，BTOB於第27屆韓國[金唱片獎獲得](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")「Next Generation獎」。 2016年1月14日，於第30屆韓國金唱片獎獲得「唱片部門最佳歌唱獎（Best Vocal Group）」。2016年1月21日，於第25屆[首爾歌謠大賞獲得](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")「最佳抒情歌曲獎（R\&B／Balled）」。 2017年11月3日，於[韓國大眾文化藝術獎](../Page/韓國大眾文化藝術獎.md "wikilink")獲得「文化體育觀光部長官表彰」殊榮 \[159\]。 2018年1月10日，於第32屆韓國金唱片獎獲得「音源部門最佳男子團體獎（Best Male Group）」。 2018年1月25日，於第27屆首爾歌謠大賞獲得「本賞」。 2018年12月1日，於[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")首次獲得「TOP10」。\[160\] 2018年12月10日，於第1屆[韓國大眾音樂獎](../Page/韓國大眾音樂獎.md "wikilink")獲得「本賞」及「Ballad獎」。
+2013年1月15日，BTOB於第27屆韓國[金唱片獎獲得](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")「Next Generation獎」。 2016年1月14日，於第30屆韓國金唱片獎獲得「唱片部門最佳歌唱獎（Best Vocal Group）」。2016年1月21日，於第25屆[首爾歌謠大賞獲得](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")「最佳抒情歌曲獎（R\&B／Balled）」。 2017年11月3日，於[韓國大眾文化藝術獎](../Page/韓國大眾文化藝術獎.md "wikilink")獲得「文化體育觀光部長官表彰」殊榮 \[160\]。 2018年1月10日，於第32屆韓國金唱片獎獲得「音源部門最佳男子團體獎（Best Male Group）」。 2018年1月25日，於第27屆首爾歌謠大賞獲得「本賞」。 2018年12月1日，於[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")首次獲得「TOP10」。\[161\] 2018年12月10日，於第1屆[韓國大眾音樂獎](../Page/韓國大眾音樂獎.md "wikilink")獲得「本賞」及「Ballad獎」。
 
 ### 主要音樂節目榜單排名
 
@@ -645,5 +645,6 @@ BTOB 出道至今參與許多綜藝，在節目中展現搞笑本能及過人獨
 156.
 157.
 158.
-159. [EXO、BTOB、朴寶劍等出席《大眾文化藝術賞》，得獎名單公開](https://www.kpopn.com/2017/11/04/exo%e3%80%81btob%e3%80%81%e6%9c%b4%e5%af%b6%e5%8a%8d%e7%ad%89%e5%87%ba%e5%b8%ad%e3%80%8a%e5%a4%a7%e7%9c%be%e6%96%87%e5%8c%96%e8%97%9d%e8%a1%93%e8%b3%9e%e3%80%8b%ef%bc%8c%e5%be%97%e7%8d%8e%e5%90%8d%e5%96%ae%e5%85%ac%e9%96%8b/)  2017-11-07 KPOPN
-160. [MMA／BTOB「把恩光寫在臉上」走紅毯　C位留給隊長逼哭粉](https://star.ettoday.net/news/1320700) 2018-12-02 ETtoday
+159.
+160. [EXO、BTOB、朴寶劍等出席《大眾文化藝術賞》，得獎名單公開](https://www.kpopn.com/2017/11/04/exo%e3%80%81btob%e3%80%81%e6%9c%b4%e5%af%b6%e5%8a%8d%e7%ad%89%e5%87%ba%e5%b8%ad%e3%80%8a%e5%a4%a7%e7%9c%be%e6%96%87%e5%8c%96%e8%97%9d%e8%a1%93%e8%b3%9e%e3%80%8b%ef%bc%8c%e5%be%97%e7%8d%8e%e5%90%8d%e5%96%ae%e5%85%ac%e9%96%8b/)  2017-11-07 KPOPN
+161. [MMA／BTOB「把恩光寫在臉上」走紅毯　C位留給隊長逼哭粉](https://star.ettoday.net/news/1320700) 2018-12-02 ETtoday

@@ -341,84 +341,84 @@
 <td><p><strong>Sexy Zone競技場演唱會2012</strong><br />
 [23]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD類第一名</a>[24]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藍光" title="wikilink">藍光類第二名</a>[25]</p></td>
+<td><p><a href="../Page/藍光.md" title="wikilink">藍光</a>類第二名[25]</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2013年2月13日</p></td>
 <td><p><strong></strong>[26]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD類第二名</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藍光" title="wikilink">藍光類第一名</a></p></td>
+<td><p><a href="../Page/藍光.md" title="wikilink">藍光</a>類第一名</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>2013年8月28日</p></td>
 <td><p><strong>Sexy Zone Japan Tour 2013</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD類第一名</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藍光" title="wikilink">藍光類第四名</a></p></td>
+<td><p><a href="../Page/藍光.md" title="wikilink">藍光</a>類第四名</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2014年8月12日</p></td>
 <td><p><strong>Sexy Zone Spring Tour Sexy Second</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD類第一名</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藍光" title="wikilink">藍光類第一名</a></p></td>
+<td><p><a href="../Page/藍光.md" title="wikilink">藍光</a>類第一名</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>2015年1月4日</p></td>
 <td><p><strong>Sexy Zone summer concert 2014</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD類第二名</a>[27]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藍光" title="wikilink">藍光類第二名</a>[28]</p></td>
+<td><p><a href="../Page/藍光.md" title="wikilink">藍光</a>類第二名[28]</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
 <td><p>2015年9月9日</p></td>
 <td><p><strong>Sexy Zone Sexy Power Tour</strong>[29]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD類第一名</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藍光" title="wikilink">藍光類第二名</a></p></td>
+<td><p><a href="../Page/藍光.md" title="wikilink">藍光</a>類第二名</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>2016年1月13日</p></td>
 <td><p><strong>Sexy Zone Summer Paradise in TDC</strong>[30]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD類第一名</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藍光" title="wikilink">藍光類第二名</a></p></td>
+<td><p><a href="../Page/藍光.md" title="wikilink">藍光</a>類第二名</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
 <td><p>2016年9月7日</p></td>
 <td><p><strong>Welcome to Sexy Zone Tour</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD類第一名</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藍光" title="wikilink">藍光類第二名</a></p></td>
+<td><p><a href="../Page/藍光.md" title="wikilink">藍光</a>類第二名</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>2017年1月25日</p></td>
 <td><p><em>' Johnnys' Summer Paradise 2016</em>'</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD類第一名</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藍光" title="wikilink">藍光類第三名</a></p></td>
+<td><p><a href="../Page/藍光.md" title="wikilink">藍光</a>類第三名</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
 <td><p>2017年9月6日</p></td>
 <td><p><em>' Sexy Zone presents Sexy Tour 2017 ～ STAGE</em>'</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD類第一名</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藍光" title="wikilink">藍光類第一名</a></p></td>
+<td><p><a href="../Page/藍光.md" title="wikilink">藍光</a>類第一名</p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>2018年7月18日</p></td>
 <td><p><em>' Summer Paradise 2017</em>'</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD類第一名</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藍光" title="wikilink">藍光類第一名</a></p></td>
+<td><p><a href="../Page/藍光.md" title="wikilink">藍光</a>類第一名</p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
 <td><p>2019年1月9日</p></td>
 <td><p><em>' SEXY ZONE repainting Tour 2018</em>'</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD類第一名</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藍光" title="wikilink">藍光類第一名</a></p></td>
+<td><p><a href="../Page/藍光.md" title="wikilink">藍光</a>類第一名</p></td>
 </tr>
 </tbody>
 </table>

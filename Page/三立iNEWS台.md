@@ -30,7 +30,7 @@
   - 2019年1月21日，停播《[iNEWS最政新聞](https://zh.wikipedia.org/wiki/iNEWS最政新聞 "wikilink")》，改播《[iNEWS21知識線](https://zh.wikipedia.org/wiki/iNEWS21知識線 "wikilink")》
   - 2019年1月25日起，推出『全民金融通』（已停播）。
   - 2019年6月2日起，推出『爆賺公社』。
-  - 2019年7月1日起在YouTube網絡直播訊號版本右上角台標為「三立iNEWS」。
+  - 2019年7月1日起在YouTube網路直播訊號版本右上角台標為「三立iNEWS」。
 
 ## 三立iNEWS主播群
 

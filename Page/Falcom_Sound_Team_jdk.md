@@ -4,7 +4,7 @@ Falcom Sound Team jdk成立于[古代祐三退社之后](https://zh.wikipedia.or
 
 成立之后，[Falcom游戏全部配乐作曲与编曲皆以](../Page/日本Falcom.md "wikilink")“Falcom Sound Team jdk(J.D.K.)”名义发表，不再公开单个曲目创作者的署名，许多[Falcom社团的粉丝都对此抱有成见](../Page/日本Falcom.md "wikilink")\[1\]
 
-需要注意的是，Falcom Sound Team jdk与1990年成立的[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")[J.D.K.BAND是两个不同的团队](https://zh.wikipedia.org/wiki/J.D.K.BAND "wikilink")，后者的活动以提供专辑和参加音乐公演为主，其乐队成员并非[Falcom社员](../Page/日本Falcom.md "wikilink")，也不参与任何[Falcom游戏音乐作曲](../Page/日本Falcom.md "wikilink")。
+需要注意的是，Falcom Sound Team jdk与1990年成立的[乐队](https://zh.wikipedia.org/wiki/乐队 "wikilink")[J.D.K.BAND](../Page/J.D.K.BAND.md "wikilink")是两个不同的团队，后者的活动以提供专辑和参加音乐公演为主，其乐队成员并非[Falcom社员](../Page/日本Falcom.md "wikilink")，也不参与任何[Falcom游戏音乐作曲](../Page/日本Falcom.md "wikilink")。
 
 ## 历代成员
 

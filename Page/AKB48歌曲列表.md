@@ -8,7 +8,7 @@
 
 ## 單曲
 
-### [AKB48](../Page/AKB48.md "wikilink")（55）
+### [AKB48](../Page/AKB48.md "wikilink")（56）
 
 <table>
 <thead>
@@ -666,6 +666,17 @@ JAPAN</a><br />
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>56</p></td>
+<td><p>2019年9月18日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sustainable" title="wikilink">Sustainable</a></p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

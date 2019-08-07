@@ -2261,7 +2261,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2019年7月17日－<br />
 2019年9月19日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/新入史官丘海昤" title="wikilink">新入史官丘海昤</a><br />
+<td style="text-align: center;"><p><a href="../Page/新入史官丘海昤.md" title="wikilink">新入史官丘海昤</a><br />
 </p></td>
 <td style="text-align: center;"><p>40</p></td>
 <td style="text-align: center;"><p><a href="../Page/申世景.md" title="wikilink">申世景</a>、<a href="../Page/車銀優.md" title="wikilink">車銀優</a>、<a href="../Page/朴基雄.md" title="wikilink">朴基雄</a></p></td>
@@ -2275,7 +2275,7 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/偶然發現的一天" title="wikilink">偶然發現的一天</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="../Page/金惠允.md" title="wikilink">金惠允</a>、<a href="https://zh.wikipedia.org/wiki/金路雲" title="wikilink">金路雲</a>、<a href="https://zh.wikipedia.org/wiki/李在旭" title="wikilink">李在旭</a>、<a href="https://zh.wikipedia.org/wiki/李娜恩" title="wikilink">李娜恩</a>、<a href="../Page/鄭乾柱.md" title="wikilink">鄭乾柱</a>、<a href="../Page/李泰利.md" title="wikilink">李泰利</a>、<a href="https://zh.wikipedia.org/wiki/金永大" title="wikilink">金永大</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金惠允.md" title="wikilink">金惠允</a>、<a href="https://zh.wikipedia.org/wiki/金路雲" title="wikilink">金路雲</a>、<a href="../Page/李在旭.md" title="wikilink">李在旭</a>、<a href="../Page/李娜恩.md" title="wikilink">李娜恩</a>、<a href="../Page/鄭乾柱.md" title="wikilink">鄭乾柱</a>、<a href="../Page/李泰利.md" title="wikilink">李泰利</a>、<a href="https://zh.wikipedia.org/wiki/金永大" title="wikilink">金永大</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金尚葉" title="wikilink">金尚葉</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/印智慧" title="wikilink">印智慧</a>、<a href="https://zh.wikipedia.org/wiki/宋荷英" title="wikilink">宋荷英</a></p></td>
 <td style="text-align: center;"></td>

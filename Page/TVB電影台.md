@@ -179,7 +179,7 @@
   - [七月十三之龍婆](https://zh.wikipedia.org/wiki/七月十三之龍婆 "wikilink")
   - [倩女幽魂](https://zh.wikipedia.org/wiki/倩女幽魂 "wikilink")
   - [倩女幽魂II人間道](https://zh.wikipedia.org/wiki/倩女幽魂II人間道 "wikilink")
-  - [陰陽路4與鬼同行](https://zh.wikipedia.org/wiki/陰陽路4與鬼同行 "wikilink")
+  - [陰陽路4與鬼同行](../Page/陰陽路4與鬼同行.md "wikilink")
   - [倩女幽魂II人間道](https://zh.wikipedia.org/wiki/倩女幽魂II人間道 "wikilink")
   - [烈火戰車2極速傳說](../Page/烈火戰車2極速傳說.md "wikilink")
   - [古惑仔3之隻手遮天](../Page/古惑仔3之隻手遮天.md "wikilink")

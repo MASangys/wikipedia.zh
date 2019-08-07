@@ -191,17 +191,4 @@
 
   - Baby V.O.X. 2000（2000年）
 
-## 獲獎
-
-  - 1998年SBS音樂獎'年度最佳新人'
-  - 1999 'Top Excellency Award' at Seoul Music Awards
-  - Awards from the music awards in three broadcasting companies (KBS,MBC,SBS) from 1998 to 2003
-  - 2004年首爾音樂獎'世界大使獎'
-
-## 參考資料
-
-## 外部連結
-
-  - [ファンサイト](http://www.beautifulvoices.net/)
-
 [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink") [Category:1997年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1997年成立的音樂團體 "wikilink") [Category:2006年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2006年解散的音樂團體 "wikilink") [Category:已解散的女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的女子演唱團體 "wikilink") [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink") [Category:1997年韓國建立](https://zh.wikipedia.org/wiki/Category:1997年韓國建立 "wikilink")

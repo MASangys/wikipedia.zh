@@ -85,12 +85,12 @@
   - 2014年 KBS2《[Happy Together 3](../Page/歡樂在一起.md "wikilink")》（2014年1月30日）
   - 2014年 [SBS](../Page/SBS_\(韓國\).md "wikilink")《Star Face Off》（2014年1月31日）
   - 2014年 SBS《Star King》（2014年3月1日）
-  - 2014年 [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《100秒戰》（2014年5月20日）
+  - 2014年 [Mnet](../Page/Mnet.md "wikilink")《100秒戰》（2014年5月20日）
   - 2014年 MBC《[我們結婚了 國際版第二季](https://zh.wikipedia.org/wiki/我們結婚了_世界版 "wikilink")》（2014年5月20日）
   - 2014年 SBS《I GOT7》（2014年7月15日、7月22日）
   - 2015年 [JTBC](../Page/JTBC.md "wikilink")《百人百曲-走到最後》（2015年4月7日、4月14日）
   - 2015年 MBC《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》（2015年5月31日）
-  - 2016年 [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》 (2016年9月21日)
+  - 2016年 [Mnet](../Page/Mnet.md "wikilink")《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》 (2016年9月21日)
 
 ## 廣播節目
 

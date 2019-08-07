@@ -613,7 +613,7 @@ LineData =
 <tr class="header">
 <th><p>專輯</p></th>
 <th><p>歌曲</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a><br />
+<th><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a><br />
 <small>《<a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a>》</small></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a><br />
 <small>《<a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a>》</small></p></th>

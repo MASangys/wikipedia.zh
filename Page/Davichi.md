@@ -941,6 +941,7 @@ That's my fault</p></td>
 <td><p>2019</p></td>
 <td><ul>
 <li>2019年3月1日 KBS <a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳熙烈的寫生簿</a>（珉炅）</li>
+<li>2019年7月26日 KBS <a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳熙烈的寫生簿</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -1528,10 +1529,10 @@ That's my fault</p></td>
 <tr class="even">
 <td><p>2009年</p></td>
 <td><p>3月15日</p></td>
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p>8282</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>1位（Mutizen Song）</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月20日</p></td>
@@ -1561,7 +1562,7 @@ That's my fault</p></td>
 <td><p>4月3日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
-<td></td>
+<td><p>1位</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1569,7 +1570,7 @@ That's my fault</p></td>
 <td><p>4月30日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td></td>
+<td><p>1位</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1582,9 +1583,9 @@ That's my fault</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>12月25日</p></td>
 <td><p>女性時代</p></td>
 <td><p>年終結算:第17位</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1592,10 +1593,10 @@ That's my fault</p></td>
 <tr class="even">
 <td><p>2010年</p></td>
 <td><p>12月17日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td><p>時間啊 停止吧</p></td>
 <td><p>年終結算:第19位</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2011年</p></td>
@@ -1607,9 +1608,9 @@ That's my fault</p></td>
 </tr>
 <tr class="even">
 <td><p>10月2日</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
+<td><p>1位（Mutizen Song）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1623,17 +1624,17 @@ That's my fault</p></td>
 </tr>
 <tr class="even">
 <td><p>10月14日</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
+<td><p>1位</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>12月23日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 <td><p>年終結算:第10位</p></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1678,9 +1679,9 @@ That's my fault</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>12月20日</p></td>
 <td><p>烏龜</p></td>
 <td><p>年終結算:第9位</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

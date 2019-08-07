@@ -342,7 +342,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2019年7月31日－<br />
 2019年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/當惡魔呼喊你的名字時" title="wikilink">當惡魔呼喊你的名字時</a><br />
+<td style="text-align: center;"><p><a href="../Page/當惡魔呼喊你的名字時.md" title="wikilink">當惡魔呼喊你的名字時</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/鄭敬淏.md" title="wikilink">鄭敬淏</a>、<a href="https://zh.wikipedia.org/wiki/朴星雄" title="wikilink">朴星雄</a>、<a href="../Page/李雪.md" title="wikilink">李雪</a>、<a href="../Page/李伊.md" title="wikilink">李伊</a></p></td>

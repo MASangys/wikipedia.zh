@@ -1,4 +1,4 @@
-**chroot**是在unix系统的一个操作，針對正在運作的軟體行程和它的[子进程](../Page/子进程.md "wikilink")，改变它外顯的[根目录](https://zh.wikipedia.org/wiki/根目录 "wikilink")。一個運行在這個環境下，經由chroot設定根目錄的程式，它不能夠對這個指定根目錄之外的檔案進行存取動作，不能讀取，也不能更改它的內容。chroot这一特殊表达可能指`chroot(2)`系统调用或`chroot(8)`前端程序。
+**chroot**是在unix系统的一个操作，針對正在運作的軟體行程和它的[子进程](../Page/子进程.md "wikilink")，改变它外顯的[根目录](../Page/根目录.md "wikilink")。一個運行在這個環境下，經由chroot設定根目錄的程式，它不能夠對這個指定根目錄之外的檔案進行存取動作，不能讀取，也不能更改它的內容。chroot这一特殊表达可能指`chroot(2)`系统调用或`chroot(8)`前端程序。
 
 由chroot創造出的那个根目录，叫做“chroot监狱”（chroot jail，或chroot prison）。
 

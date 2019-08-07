@@ -54,7 +54,7 @@
 
 ### 第六代(2006-)
 
-[ISUZU_ELF,_6th_Gen,_NITTSU_KEIBI.jpg](https://zh.wikipedia.org/wiki/File:ISUZU_ELF,_6th_Gen,_NITTSU_KEIBI.jpg "fig:ISUZU_ELF,_6th_Gen,_NITTSU_KEIBI.jpg") 第六代ELF破天荒地把打開車門的拉門柄改為直線，有別於過去橫線設計。車頭燈則設有四個，但以直線排列。
+[ISUZU_ELF,_6th_Gen,_NITTSU_KEIBI.jpg](https://zh.wikipedia.org/wiki/File:ISUZU_ELF,_6th_Gen,_NITTSU_KEIBI.jpg "fig:ISUZU_ELF,_6th_Gen,_NITTSU_KEIBI.jpg") [Chaozhou,_Guangdong,_China_-_ISUZU_ELF_Fire_Propaganda_Vchicle.jpg](https://zh.wikipedia.org/wiki/File:Chaozhou,_Guangdong,_China_-_ISUZU_ELF_Fire_Propaganda_Vchicle.jpg "fig:Chaozhou,_Guangdong,_China_-_ISUZU_ELF_Fire_Propaganda_Vchicle.jpg")[潮州市](../Page/潮州市.md "wikilink")消防宣传车\]\] 第六代ELF破天荒地把打開車門的拉門柄改為直線，有別於過去橫線設計。車頭燈則設有四個，但以直線排列。
 
 ## 參見
 

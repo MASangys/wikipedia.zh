@@ -56,7 +56,7 @@
 
   - [请问您今天要来点兔子吗？？](https://zh.wikipedia.org/wiki/请问您今天要来点兔子吗？ "wikilink") － 动画重播版第9话・片尾插画
 
-  - [情色漫畫老師](https://zh.wikipedia.org/wiki/情色漫畫老師 "wikilink") － 負責動畫劇中繪師『情色漫畫老師』所繪之插圖
+  - [情色漫畫老師](../Page/情色漫畫老師.md "wikilink") － 負責動畫劇中繪師『情色漫畫老師』所繪之插圖
 
   - [寄宿學校的茱麗葉](../Page/寄宿學校的茱麗葉.md "wikilink") － 動畫第7話·片尾插畫
 

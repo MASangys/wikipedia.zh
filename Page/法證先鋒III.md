@@ -1884,6 +1884,7 @@ Oscar之孿生弟弟，後反目<br />
 
   - [TVB.com - 法證先鋒III](http://programme.tvb.com/drama/forensicheroes3/)
   - [《法證先鋒III》 GOTV 第1集重溫](https://web.archive.org/web/20151120062950/http://gotv.tvb.com/programme/102417/150810)
+  - [法證先鋒III - myTV SUPER](https://programme.mytvsuper.com/tc/110908/法證先鋒iii)
 
 ## 電視節目的變遷
 

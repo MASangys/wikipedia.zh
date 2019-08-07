@@ -6,7 +6,7 @@
 
 **東區**
 
-  - [岩手大公牛](https://zh.wikipedia.org/wiki/岩手大公牛 "wikilink") ([岩手縣](https://zh.wikipedia.org/wiki/岩手縣 "wikilink") - [盛岡市](../Page/盛岡市.md "wikilink")) 主場：岩手縣營體育館 (加入年 2011)
+  - [岩手大公牛](../Page/岩手大公牛.md "wikilink") ([岩手縣](https://zh.wikipedia.org/wiki/岩手縣 "wikilink") - [盛岡市](../Page/盛岡市.md "wikilink")) 主場：岩手縣營體育館 (加入年 2011)
   - [秋田北部喜悅](../Page/秋田北部喜悅.md "wikilink") ([秋田縣](https://zh.wikipedia.org/wiki/秋田縣 "wikilink") - [秋田市](../Page/秋田市.md "wikilink")) 主場：秋田縣立體育館 (加入年 2010)
   - [仙台89人](https://zh.wikipedia.org/wiki/仙台89人 "wikilink") ([宮城縣](../Page/宮城縣.md "wikilink") - [仙台市](../Page/仙台市.md "wikilink")) 主場：仙台市體育館 (加入年 2005) \[註：隊名來自於1889年(仙台區改制市)及1989年(仙台市被列為政令指定都市)兩個與根據地仙台重大變革有關的"89"年\]
   - [新潟天鵝王者BB](https://zh.wikipedia.org/wiki/新潟天鵝王者BB "wikilink") ([新潟縣](https://zh.wikipedia.org/wiki/新潟縣 "wikilink") - [新潟市](../Page/新潟市.md "wikilink")) 主場：新潟市東綜合體育中心 (加入年 2005)
@@ -44,7 +44,7 @@
 
 **2013-2014年球季 預計加入**
 
-  - [青森熱力](https://zh.wikipedia.org/wiki/青森熱力 "wikilink") ([青森縣](../Page/青森縣.md "wikilink") - [青森市](../Page/青森市.md "wikilink"))
+  - [青森熱力](../Page/青森熱力.md "wikilink") ([青森縣](../Page/青森縣.md "wikilink") - [青森市](../Page/青森市.md "wikilink"))
   - [奈良縣](https://zh.wikipedia.org/wiki/奈良縣 "wikilink") 隊名募集中
 
 **2014-2015年球季 目標加入**

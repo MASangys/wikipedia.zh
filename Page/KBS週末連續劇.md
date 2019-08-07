@@ -1310,7 +1310,7 @@ KBS週末劇時段是該電視台的「王牌時段」，歷年曾播出不少�
 2019年月日</p></td>
 <td style="text-align: center;"><p><a href="../Page/我世上最漂亮的女兒.md" title="wikilink">我世上最漂亮的女兒</a><br />
 </p></td>
-<td style="text-align: center;"><p>100</p></td>
+<td style="text-align: center;"><p>108</p></td>
 <td style="text-align: center;"><p><a href="../Page/金海淑.md" title="wikilink">金海淑</a>、<a href="../Page/金素妍.md" title="wikilink">金素妍</a>、<a href="../Page/洪宗玄.md" title="wikilink">洪宗玄</a>、<a href="../Page/裕善.md" title="wikilink">裕善</a>、金荷京</p></td>
 <td style="text-align: center;"><p>金鍾昌</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/趙正善" title="wikilink">趙正善</a></p></td>

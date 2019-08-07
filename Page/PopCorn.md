@@ -201,7 +201,7 @@ L1
   - [PopCorn官方網站](http://www.popcorntko.com.hk)
   - [PopCorn 官方facebook 專頁](http://www.facebook.com/PopCornTKO)
 
-[Category:港鐵公司物業](https://zh.wikipedia.org/wiki/Category:港鐵公司物業 "wikilink") [Category:尚德](https://zh.wikipedia.org/wiki/Category:尚德 "wikilink") [Category:西貢區商場](https://zh.wikipedia.org/wiki/Category:西貢區商場 "wikilink")
+[Category:尚德](https://zh.wikipedia.org/wiki/Category:尚德 "wikilink") [Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink") [Category:西貢區](https://zh.wikipedia.org/wiki/Category:西貢區 "wikilink") [Category:西貢區商場](https://zh.wikipedia.org/wiki/Category:西貢區商場 "wikilink") [Category:2012年完工建築物](https://zh.wikipedia.org/wiki/Category:2012年完工建築物 "wikilink") [Category:港鐵公司物業](https://zh.wikipedia.org/wiki/Category:港鐵公司物業 "wikilink")
 
 1.  [PopCorn@TKO facebook專頁](https://www.facebook.com/PopCornTKO/posts/465724280105544)
 2.  [STAR Cinema 豐德麗控股有限公司](http://www.esun.com/esun-holdings/zh-HK/Businesses/detail/star_cinema)

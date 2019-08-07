@@ -359,6 +359,13 @@
 
   -
 
+### 巴伐利亞光明结社殘黨
+
+第五期登場，亞當死亡後由各國竄逃的結社成員所組成。
+
+  -
+
+
 ### 其他
 
   -
@@ -605,7 +612,7 @@
 
   -
     約2年前的事情，雙翼公演中被認定特別災害Noise大量發生的一件事。
-    會場中，觀眾及有關人員約超過10萬人，死者及失蹤者的總數12874人，成為了史上的大悲慘事件。（但由Noise殺死的死者是全部的1/3左右，餘下由逃走中的一個壓一個地倒下的壓死，是由競爭避難路的確保的末了的暴行的過失殺人犯，後續因媒體煽動，倖存者遭到社會輿論嚴重攻擊）
+    會場中，觀眾及有關人員約超過10萬人，死者及失蹤者的總數12874人，成為了史上的大悲慘事件。（但由Noise殺死的死者佔總死亡人數的1/3左右，其他皆是在逃離現場時遭踩踏而亡，後續因媒體煽動，倖存者以過失殺人的罪名遭到社會輿論嚴重攻擊）
     死者包括「雙翼」成员之一的天羽奏，因此雙翼也就此解散。
     直到如今仍在許多人的心裡留下傷痕。
     其實這個演唱會，是特別災害對策機動部二課的指揮秘密進行的實驗。
@@ -669,12 +676,14 @@
 <th><p>第2期</p></th>
 <th><p>第3期</p></th>
 <th><p>第4期</p></th>
+<th><p>第5期</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>原作</p></td>
 <td><p><a href="../Page/上松範康.md" title="wikilink">上松範康</a>、<a href="https://zh.wikipedia.org/wiki/金子彰史" title="wikilink">金子彰史</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -685,10 +694,12 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>系列構成、劇本</p></td>
 <td><p>金子彰史</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -699,6 +710,7 @@
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>角色設計</p></td>
@@ -706,11 +718,13 @@
 <td><p>藤本悟</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>怪物原案</p></td>
 <td></td>
-<td><p>colspan="3" </p></td>
+<td><p>colspan="4" </p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -722,6 +736,7 @@
 杉江敏治</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>機械設計</p></td>
@@ -729,12 +744,14 @@
 <td><p>大河廣行、川原智弘</p></td>
 <td><p>大河廣行</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>道具設計</p></td>
 <td><p>吉川美貴（小物、衣裝）</p></td>
 <td><p>森岡賢一</p></td>
 <td><p>吉川美貴</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -746,6 +763,11 @@ Yann Le Gall</p></td>
 Stanislas Brunet<br />
 </p></td>
 <td></td>
+<td><p>ニエム・ヴィンセント<br />
+ロキャテリ・ロイック<br />
+ルガル・ヤン<br />
+ギヨーム・ジョアナ<br />
+小山真由子</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -754,11 +776,13 @@ Stanislas Brunet<br />
 <td><p>西村隆</p></td>
 <td><p>市倉敬</p></td>
 <td><p>松本浩樹</p></td>
+<td><p>渡辺幸浩、菊地明子</p></td>
 </tr>
 <tr class="even">
 <td><p>色彩設計</p></td>
 <td><p>齋藤麻由</p></td>
 <td><p>篠原愛子</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -768,6 +792,7 @@ Stanislas Brunet<br />
 <td><p>岩崎敦</p></td>
 <td><p>志村豪</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2D監控</p></td>
@@ -775,16 +800,19 @@ Stanislas Brunet<br />
 <td><p>影山慈郎</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>編輯</p></td>
 <td><p>定松剛</p></td>
+<td><p>兼重涼子</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>音響監督</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -802,10 +830,12 @@ Stanislas Brunet<br />
 （藤田淳平、藤間仁<br />
 Evan Call）</p></td>
 <td><p>Elements Garden</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>音樂製作人</p></td>
 <td><p>上松範康</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -818,6 +848,7 @@ Evan Call）</p></td>
 <td><p>SATELIGHT</p></td>
 <td></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>製作</p></td>
@@ -825,8 +856,10 @@ Evan Call）</p></td>
 <td><p>Project SYMPHOGEAR G</p></td>
 <td><p>Project SYMPHOGEAR GX</p></td>
 <td><p>Project SYMPHOGEAR AXZ</p></td>
+<td><p>Project SYMPHOGEAR XV</p></td>
 </tr>
 <tr class="odd">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -989,20 +1022,29 @@ Evan Call）</p></td>
 </tr>
 <tr class="even">
 <td><p>片頭曲</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><strong>METANOIA</strong></p></td>
+<td><p>上松範康</p></td>
+<td><p>藤永龍太郎</p></td>
+<td><p>水樹奈奈</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>片尾曲</p></td>
+<td><p><strong>Lasting Song</strong></p></td>
+<td><p>高垣彩陽</p></td>
+<td><p>藤田淳平</p></td>
+<td><p>高垣彩陽</p></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+</tr>
+<tr class="even">
+<td><p>插曲</p></td>
+<td><p><strong>FINAL COMMANDER</strong></p></td>
+<td><p>しほり</p></td>
+<td><p>上松範康</p></td>
+<td><p>菊田大介</p></td>
+<td><p>水樹奈奈</p></td>
 <td></td>
 </tr>
 </tbody>

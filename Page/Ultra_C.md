@@ -1,4 +1,4 @@
-《**Ultra C**》（，*Ultra C*）是[東京事變](../Page/東京事變.md "wikilink")的第八張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，於2010年8月27日與第七張DVD《[Spa & Treatment](../Page/Spa_&_Treatment.md "wikilink")》一同發售。值得一提的是本次演唱會首度的[藍光化](https://zh.wikipedia.org/wiki/藍光 "wikilink")，提供歌迷更棒的享受。DVD發行當週即賣出2.3萬張，總計銷售額3.8萬張，名列2010年年度銷售榜第48位。首次發行的藍光版本，總計銷售額為0.7萬張，名列2010年年度銷售榜第7位。
+《**Ultra C**》（，*Ultra C*）是[東京事變](../Page/東京事變.md "wikilink")的第八張[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，於2010年8月27日與第七張DVD《[Spa & Treatment](../Page/Spa_&_Treatment.md "wikilink")》一同發售。值得一提的是本次演唱會首度的[藍光](../Page/藍光.md "wikilink")化，提供歌迷更棒的享受。DVD發行當週即賣出2.3萬張，總計銷售額3.8萬張，名列2010年年度銷售榜第48位。首次發行的藍光版本，總計銷售額為0.7萬張，名列2010年年度銷售榜第7位。
 
 ## 簡介
 

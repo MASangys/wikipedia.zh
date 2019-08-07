@@ -50,7 +50,7 @@ iPhone Dev Team发布了一系列的越狱工具。2008年7月，PwnageTool提�
 
 ## 法律地位
 
-越狱iOS系统的法律地位受到不同国家的法律的影响，例如：保护数字版权管理（DRM）机制的法律。但许多国家并没有这样的法律。除此之外国际性的条约影响到越狱法律的发展，例如：1996 年世界知识产权组织（知识产权组织）版权条约要求条约的国家缔约国颁布有关规避DRM规则的法律。美国的实施是“ 数字千年版权法案”（DMCA），其中包括为违法侵权目的豁免程序，包括越狱。 虽然[苹果公司不赞同用户自行越狱](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，但越狱社区一般也没有受到苹果公司的法律威胁。目前至少有两名杰出的越狱者在苹果公司获得职位。有时候苹果公司也经常（半开玩笑的）感谢越狱社区帮助iOS系统检测安全[漏洞](https://zh.wikipedia.org/wiki/漏洞 "wikilink")。 苹果公司发布对于越狱iOS系统的的支持文章中声称：“拒绝为已经越狱的iPhone、iPad或iPod touch提供保修服务”。
+越狱iOS系统的法律地位受到不同国家的法律的影响，例如：保护数字版权管理（DRM）机制的法律。但许多国家并没有这样的法律。除此之外国际性的条约影响到越狱法律的发展，例如：1996 年世界知识产权组织（知识产权组织）版权条约要求条约的国家缔约国颁布有关规避DRM规则的法律。美国的实施是“ 数字千年版权法案”（DMCA），其中包括为违法侵权目的豁免程序，包括越狱。 虽然[苹果公司不赞同用户自行越狱](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，但越狱社区一般也没有受到苹果公司的法律威胁。目前至少有两名杰出的越狱者在苹果公司获得职位。有时候苹果公司也经常（半开玩笑的）感谢越狱社区帮助iOS系统检测安全[漏洞](https://zh.wikipedia.org/wiki/漏洞 "wikilink")。 苹果公司发布对于越狱iOS系统的的支持文章中声称：“拒绝为已经越狱的iPhone、iPad或iPod touch提供保修服务”，不過實際越獄並不會導致失去保固，可藉由重刷 iOS 設備即可獲得保固\[30\]。
 
 ### 澳大利亚
 
@@ -91,7 +91,7 @@ iPhone Dev Team发布了一系列的越狱工具。2008年7月，PwnageTool提�
 <td><p>第一代iPhone/iPhone OS 1.0</p></td>
 <td><p>11</p></td>
 <td><p>无名字</p></td>
-<td><p>iPhone Dev Team[30]</p></td>
+<td><p>iPhone Dev Team[31]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/iPhone_3G" title="wikilink">iPhone 3G</a>/iPhone OS 2.0</p></td>
@@ -422,14 +422,18 @@ Jakeashacks</p></td>
 <tr class="odd">
 <td><p>iOS 12 - iOS 12.1.2</p></td>
 <td><p>-</p></td>
-<td><p>RootlessJB<br />
-unc0ver<br />
-Chimera (支援A12機種)</p></td>
-<td><p>Jakeashacks<br />
-pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom<br />
-CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas, aesign</p></td>
+<td><p>RootlessJB</p></td>
+<td><p>Jakeashacks</p></td>
 </tr>
 <tr class="even">
+<td><p>iOS 12 - iOS 12.2</p></td>
+<td><p>-</p></td>
+<td><p>unc0ver<br />
+Chimera (支援A12機種)</p></td>
+<td><p>pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom<br />
+CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas, aesign</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -456,10 +460,10 @@ CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas,
 <td><p><a href="https://zh.wikipedia.org/wiki/iPhone_(第一代)" title="wikilink">iPhone</a><br />
 </p></td>
 <td><p>2007年6月29日</p></td>
-<td><p>2007年10月10日[31]</p></td>
+<td><p>2007年10月10日[32]</p></td>
 <td><p>3.1.3</p></td>
 <td><ul>
-<li>redsn0w 0.9.4[32]</li>
+<li>redsn0w 0.9.4[33]</li>
 <li>Spirit</li>
 <li>Jailbreakme 2.0</li>
 <li>Sn0wbreeze 2.0.2</li>
@@ -472,7 +476,7 @@ CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas,
 <td><p><a href="https://zh.wikipedia.org/wiki/iPhone_3G" title="wikilink">iPhone 3G</a><br />
 </p></td>
 <td><p>2008年7月11日</p></td>
-<td><p>2008年7月20日[33]</p></td>
+<td><p>2008年7月20日[34]</p></td>
 <td><p>4.2.1</p></td>
 <td><ul>
 <li>redsn0w 0.9.6rc18</li>
@@ -487,10 +491,10 @@ CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas,
 <td><p><a href="https://zh.wikipedia.org/wiki/IPod_touch#%E7%AC%AC%E4%B8%80%E4%BB%A3" title="wikilink">iPod touch</a><br />
 </p></td>
 <td><p>2007年9月5日</p></td>
-<td><p>2007年10月10日[34]</p></td>
+<td><p>2007年10月10日[35]</p></td>
 <td><p>3.1.3</p></td>
 <td><ul>
-<li>redsn0w 0.9.4[35]</li>
+<li>redsn0w 0.9.4[36]</li>
 <li>Spirit</li>
 <li>Jailbreakme 2.0</li>
 <li>Sn0wbreeze 2.0.2</li>
@@ -505,7 +509,7 @@ CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas,
 <small>MB Model</small><br />
 </p></td>
 <td><p>2008年9月9日</p></td>
-<td><p>2009年3月11日[36]</p></td>
+<td><p>2009年3月11日[37]</p></td>
 <td><p>4.2.1</p></td>
 <td><ul>
 <li>redsn0w 0.9.6rc18</li>
@@ -723,10 +727,10 @@ CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas,
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>12.1.2</p></td>
+<td><p>12.2</p></td>
 <td><p>unc0ver<br />
 Chimera</p></td>
-<td><p>IOS 12 - iOS 12.1.2</p></td>
+<td><p>IOS 12 - iOS 12.2</p></td>
 <td><p>unc0ver<br />
 Chimera</p></td>
 <td><p>需要引导启动（不完美越狱）</p></td>
@@ -777,8 +781,9 @@ Chimera</p></td>
 29.
 30.
 31.
-32. <http://www.redmondpie.com/jailbreak-iphone-os-3.1.3-firmware-with-redsn0w-0.9.4/>
-33.
+32.
+33. <http://www.redmondpie.com/jailbreak-iphone-os-3.1.3-firmware-with-redsn0w-0.9.4/>
 34.
-35. <http://www.redmondpie.com/jailbreak-iphone-os-3.1.3-firmware-with-redsn0w-0.9.4/>
-36.
+35.
+36. <http://www.redmondpie.com/jailbreak-iphone-os-3.1.3-firmware-with-redsn0w-0.9.4/>
+37.

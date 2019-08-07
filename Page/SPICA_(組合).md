@@ -21,7 +21,7 @@ SPICA**全員亦為主唱**，多張專輯製作成員均參與其中。其中[�
 
   - 2月2日，[B2M娛樂](../Page/B2M娛樂.md "wikilink")於官方Youtube頻道公開迷你一輯《[Russian Roulette](../Page/Russian_Roulette.md "wikilink")》MV預告\[9\]。
   - 2月8日，發布線上音源以及公開完整版MV，並開通官方網站。
-  - 2月9日，實體CD上架販售，並於[Mnet音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")「[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」進行出道舞台，當晚錄製出道後第一個通告行程[MBC標準FM](https://zh.wikipedia.org/wiki/MBC "wikilink")《神童的深深打破》。
+  - 2月9日，實體CD上架販售，並於[Mnet](../Page/Mnet.md "wikilink")音樂節目「[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")」進行出道舞台，當晚錄製出道後第一個通告行程[MBC標準FM](https://zh.wikipedia.org/wiki/MBC "wikilink")《神童的深深打破》。
   - 2月14日，宣布代言MK流行運動休閒品牌〔NBA〕，畫報拍攝早於2月1日結束\[10\]。
   - 2月19日，隊長[金甫娥](../Page/金甫娥.md "wikilink")公開出席 [KARA](https://zh.wikipedia.org/wiki/KARA "wikilink") 1st亞洲巡迴演唱會（KARA The Asia Tour－KARASIA）。
   - 2月26日，結束[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》音樂現場後舉行首場迷你FANS見面會。

@@ -739,7 +739,7 @@
 <td><p>插曲</p></td>
 <td><p>同類（改編曲）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/張棟樑" title="wikilink">張棟樑</a>、<a href="../Page/蔡黃汝.md" title="wikilink">豆花妹</a>、<a href="../Page/范逸臣.md" title="wikilink">范逸臣</a>、<a href="../Page/許慧欣.md" title="wikilink">許慧欣</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/易家揚" title="wikilink">易家揚</a></p></td>
+<td><p><a href="../Page/易家揚.md" title="wikilink">易家揚</a></p></td>
 <td><p><a href="../Page/李偲菘.md" title="wikilink">李偲菘</a></p></td>
 <td><p>原唱：<a href="https://zh.wikipedia.org/wiki/孫燕姿" title="wikilink">孫燕姿</a><br />
 第4集</p></td>
@@ -958,7 +958,7 @@ Pete Barringer、Douglas Shawe</p></td>
 <td><p>插曲</p></td>
 <td><p>飛行部落（改編曲）</p></td>
 <td><p>超有種</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/F.I.R" title="wikilink">F.I.R</a>、<a href="https://zh.wikipedia.org/wiki/易家揚" title="wikilink">易家揚</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/F.I.R" title="wikilink">F.I.R</a>、<a href="../Page/易家揚.md" title="wikilink">易家揚</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/F.I.R" title="wikilink">F.I.R</a></p></td>
 <td><p>原唱：<a href="https://zh.wikipedia.org/wiki/F.I.R" title="wikilink">F.I.R</a><br />
 第12、13集</p></td>
