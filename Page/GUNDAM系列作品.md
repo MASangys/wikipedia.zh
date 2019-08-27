@@ -415,6 +415,7 @@ E.S.F.(地球联邦)</p></td>
   - [GUNDAM無雙](../Page/GUNDAM無雙.md "wikilink")
   - [宇宙世紀GUNDAM ONLINE](https://zh.wikipedia.org/wiki/宇宙世紀GUNDAM_ONLINE "wikilink")
   - [SD GUNDAM Online](../Page/SD_GUNDAM_Online.md "wikilink")
+  - [高達創壞者MOBILE](https://zh.wikipedia.org/wiki/高達創壞者MOBILE "wikilink")
 
 <!-- end list -->
 

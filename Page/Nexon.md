@@ -184,6 +184,7 @@
   - [Nexon日本官方网站](http://www.nexon.co.jp/)
   - [Nexon北美官方网站](http://www.nexon.net/)
   - [Nexon泰国官方网站](https://th.nexon.com/home/th/)
+  - [Nexon东南亚官方网站](https://sea.nexon.com/main/en)
   - [Nexon台湾官方网站](https://tw.nexon.com/main/zh)
   - [nxc韓國官方网站](http://nxc.com/)
 

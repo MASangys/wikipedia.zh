@@ -11,6 +11,7 @@
   - 支持多重視窗同步編輯
   - 支援以[正則表達式查找和替換字詞](https://zh.wikipedia.org/wiki/正則表達式 "wikilink")
   - 支持拖曳功能
+  - 預設每7秒備份一次暫存檔，不易丟失文件內容
   - 內部[視窗](../Page/視窗.md "wikilink")位置可任意移動
   - 自動偵測開啟[檔案](../Page/檔案.md "wikilink")狀態
   - 放大與縮小功能
@@ -18,7 +19,7 @@
   - 支持[書籤](../Page/書籤.md "wikilink")
   - 高亮度括號及縮排輔助
   - 支持[巨集](../Page/巨集.md "wikilink")
-  - [語法高亮度顯示及](https://zh.wikipedia.org/wiki/語法高亮度顯示 "wikilink")[語法摺疊](../Page/語法摺疊.md "wikilink")功能，支援的[程序設計語言如下](https://zh.wikipedia.org/wiki/程序設計語言 "wikilink")：
+  - [語法高亮度顯示](https://zh.wikipedia.org/wiki/語法高亮度顯示 "wikilink")（可於GUI界面做調整）及[語法摺疊](../Page/語法摺疊.md "wikilink")功能，支援的[程序設計語言如下](https://zh.wikipedia.org/wiki/程序設計語言 "wikilink")：
 
 | 支援語言                                                      |
 | --------------------------------------------------------- |

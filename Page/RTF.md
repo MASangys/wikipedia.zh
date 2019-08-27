@@ -24,7 +24,7 @@ RTF 的標準握在微軟公司手裏。最新版本為2008年的 1.9.1 版，�
 
 現時可供下載的各個RTF版本標準文件如下：
 
-  - [RTF 1.9.1 specification](http://www.microsoft.com/downloads/details.aspx?familyid=DD422B8D-FF06-4207-B476-6B5396A18A2B&displaylang=en) (March 2008)
+  - [RTF 1.9.1 specification](https://interoperability.blob.core.windows.net/files/Archive_References/%5BMSFT-RTF%5D.pdf) (March 2008)
   - [RTF 1.8 specification](http://www.microsoft.com/downloads/details.aspx?FamilyID=ac57de32-17f0-4b46-9e4e-467ef9bc5540&displaylang=en) (April 2004)
   - [RTF 1.6 specification](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/dnrtfspec/html/rtfspec.asp) (May 1999)
   - [RTF 1.5 specification](http://www.biblioscape.com/rtf15_spec.htm) (April 1997)

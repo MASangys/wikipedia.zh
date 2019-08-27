@@ -32,7 +32,7 @@ Palm OS的应用程序主要通过C和C++开发，官方的编译器有两个:�
 
 ## 參見
 
-  - [Graffiti 英文手寫輸入法](../Page/Graffiti_英文手寫輸入法.md "wikilink")
+  - [Graffiti (Palm OS)](../Page/Graffiti_\(Palm_OS\).md "wikilink")
 
 ## 外部連結
 

@@ -71,7 +71,7 @@ RLC电路的组成结构一般有两种：分別是串联型及并联型。
 
 \[i(t) = B_1 e^{-\alpha t} \cos (\omega_d t) + B_2 e^{-\alpha t} \sin (\omega_d t) \,\]
 
-通过[三角恒等式](https://zh.wikipedia.org/wiki/三角恒等式#线性组合 "wikilink")，这两个三角函数可用一个有[相位的](https://zh.wikipedia.org/wiki/相位 "wikilink")[正弦函数表达](https://zh.wikipedia.org/wiki/正弦函数 "wikilink")：\[6\]
+通过[三角恒等式](https://zh.wikipedia.org/wiki/三角恒等式#线性组合 "wikilink")，这两个三角函数可用一个有[相位](../Page/相位.md "wikilink")的[正弦函数表达](https://zh.wikipedia.org/wiki/正弦函数 "wikilink")：\[6\]
 
 \[i(t) = B_3 e^{-\alpha t} \sin (\omega_d t + \varphi) \,\]
 

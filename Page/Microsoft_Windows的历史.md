@@ -253,6 +253,8 @@ Windows 8基於Windows 7核心上，仍包含了許多的新功能：
 
 Windows 10是續已發行的Windows 8、Windows 8.1、Windows Phone 8、Windows Phone 8.1、Xbox One系統、Windows Server 2012 R2後的新版作業系統。2014年9月30日，微軟正式發行技術預覽版，在2015年7月29日正式發行。
 
+與此前不同的是，擁有 Windows 7 和 Windows 8 正版授權的用戶可以在2016年7月29日前（台灣時間），利用Windows 10 免費升級方案免費升級至 Windows 10\[13\]。
+
 ## Windows Server 2016
 
 2014年10月1日，微軟推出「Windows Server Technical Preview」，這是Windows Server 2016（當時仍稱vNext）的第一個測試版本，這一版本的目標使用者為企業使用者。第一個技術預覽版本原定於2015年4月15日發布，但後來微軟推出了一個工具導致該版本發布日期延期，直至2015年5月4日第二個技術預覽版本推出。2015年8月19日，Windows Server 2016的第三個預覽版本發布。2015年11月19日，Windows Server 2016的第四個預覽版本發布。2016年4月27日，微軟發布Windows Server 2016的第五個預覽版本。
@@ -388,3 +390,4 @@ Windows Server 2016於2016年9月26日正式推出，於同年10月12日正式�
 10. [Microsoft 保證 Windows 8 將會有「強力的」USB 3.0 支援](http://chinese.engadget.com/2011/08/24/microsoft-promises-robust-usb-3-0-support-in-windows-8/)ENGADGET 中文版 2011-8-24
 11. [外媒稱Windows Blue或明年發布 非Win9](http://software.it168.com/a2012/0814/1384/000001384488.shtml)
 12. [Windows 8.1正式放布](http://news.e-works.net.cn/category10/news52652.htm)
+13.

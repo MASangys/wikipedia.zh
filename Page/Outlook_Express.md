@@ -1,18 +1,49 @@
-**Outlook Express**，简称为**OE**，是[微软公司出品的一款](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[电子邮件客户端](https://zh.wikipedia.org/wiki/电子邮件客户端 "wikilink")，也是一个基于[NNTP协议的](https://zh.wikipedia.org/wiki/NNTP "wikilink")[Usenet客户端](https://zh.wikipedia.org/wiki/Usenet客户端 "wikilink")。[微软](../Page/微软.md "wikilink")将这个软件与[操作系统](../Page/操作系统.md "wikilink")以及[Internet Explorer](../Page/Internet_Explorer.md "wikilink")[网页浏览器](../Page/网页浏览器.md "wikilink")捆绑在一起。同时，对于[苹果公司](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")「经典」版的[麦金塔电脑提供该软件的免费下载](https://zh.wikipedia.org/wiki/麦金塔 "wikilink")（微软不对新版本的[Mac OS X操作系统提供该软件](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，在OS X上微软对应的软件是[Microsoft Entourage](../Page/Microsoft_Entourage.md "wikilink")，Microsoft Entourage是专有商用软件[Microsoft Office套装的一部分](../Page/Microsoft_Office.md "wikilink")）。
+**Outlook Express**的前身为曾内置于[Internet Explorer](../Page/Internet_Explorer.md "wikilink") [3.0](https://zh.wikipedia.org/wiki/IE3 "wikilink") - [6.0的](https://zh.wikipedia.org/wiki/IE6 "wikilink")**Microsoft Internet Mail and News**，是一个已停止更新的电子邮件和Usenet客户端。它被内置于从Windows 98到Windows Server 2003在内的多个Windows版本，此外还可以运行于[Windows 3.x](../Page/Windows_3.x.md "wikilink")、[Windows NT 3.51](https://zh.wikipedia.org/wiki/Windows_NT_3.51 "wikilink")、[Windows 95](../Page/Windows_95.md "wikilink")、[Mac System 7](https://zh.wikipedia.org/wiki/Mac_System_7 "wikilink")、[Mac OS 8](../Page/Mac_OS_8.md "wikilink")、[Mac OS 9](../Page/Mac_OS_9.md "wikilink")。在[Windows Vista中](../Page/Windows_Vista.md "wikilink")，Outlook Express已被[Windows Live Mail取代](../Page/Windows_Live_Mail.md "wikilink")。
 
-Office软件内的**[Outlook](https://zh.wikipedia.org/wiki/Outlook "wikilink")**与**Outlook Express**是两个完全不同的软件平台，他们之间没有共用代码，但是这两个软件的设计理念是共通的。他们之间如此相似的名字使得很多人以为**Outlook Express**是**Outlook**软件的「精简版」。不過Outlook Express並不像Outlook那樣可以和[Microsoft Exchange Server相互搭配而有](../Page/Microsoft_Exchange_Server.md "wikilink")[群組軟體的功能](https://zh.wikipedia.org/wiki/群組軟體 "wikilink")。Outlook Express目前实际上一直是Internet Explorer的一部分，将来似乎也不太可能存在剥离版的OE。微软承诺「将来的安全扩展」的结果将会是发布新版本的Internet Explorer（当然就包括了OE）。这个新版的IE/OE将运行在新的「安全」操作平台－[Windows Longhorn上](https://zh.wikipedia.org/wiki/Windows_Longhorn "wikilink")。
+Office软件内的**[Outlook](https://zh.wikipedia.org/wiki/Outlook "wikilink")**与**Outlook Express**是两个完全不同的软件平台，他们之间没有共用代码，但是这两个软件的设计理念是共通的。\[1\]他们之间如此相似的名字使得很多人以为**Outlook Express**是**Outlook**软件的「精简版」。
 
-在[Windows 95上就已经包括了名为Internet](../Page/Windows_95.md "wikilink") Mail and News的软件，这是Outlook Express的雏形。Internet Mail and News只處理纯文本邮件（没有[HTML](../Page/HTML.md "wikilink")邮件），所以该软件没有Outlook已知的安全漏洞。令人惊奇的，微软当年的这个软件没有提供备份地址簿这项基本功能—这让用户在使用中非常不方便。
+Outlook Express使用存储联系信息并与其紧密集成。在Windows XP上，它还与[Windows Messenger集成](../Page/Windows_Messenger.md "wikilink")。
 
-[OESlash.jpg](https://zh.wikipedia.org/wiki/File:OESlash.jpg "fig:OESlash.jpg") 随着Outlook Express产品的不断成熟，微软开始整合网络应用于浏览器与电邮客户端中的计划。使两者完全支持[脚本运行](https://zh.wikipedia.org/wiki/程序脚本 "wikilink")。无论如何，这项举动使得良性邮件／可信应用程序与远端网页的界线变得模糊起来。OE软件可以方便的执行[JavaScript](../Page/JavaScript.md "wikilink")脚本并在本地显示远端图片，但与此同时这也为之後爆发的安全和隐私危急埋下了祸根。
+## 历史
 
-在Outlook与Outlook Express的「欢迎邮件」中，微软承认新的HTML电邮可能存在安全风险。进一步的，微软还描述了它阻止安全问题发生的计划。Outlook Express以及Internet Explorer共享相同的安全区域—这是一个不可能也没有必要在其他类似产品上发现的功能。IE的安全区域默认情况下分为局域网、互联网、信任网点和限制站点四类。互联网类别是对不属于其他区域站点的默认分类。信任站点在默认情况下可以做任何事情而不必得到用户允许，这对管理员无值守更新非常有用。[AOL会把其](https://zh.wikipedia.org/wiki/AOL "wikilink")[free.aol.com](http://free.aol.com)站点加入该区域以便用户在下载其网站上的服务时不会弹出一个是否信任[ActiveX](../Page/ActiveX.md "wikilink")证书的[对话框](../Page/对话框.md "wikilink")。因为这个对话框上使用的严厉措辞有可能把潜在的客户吓跑。安全区域如果像预期设计的那样工作就不会发生Internet Explorer[骇客行为了](https://zh.wikipedia.org/wiki/骇客 "wikilink")。安全区域应当能够被用户所控制。
+1996年，*Microsoft Internet Mail and News* 1.0发布，集成于Internet Explorer 3。\[2\]此附加组件先于[Windows 95中捆绑的](../Page/Windows_95.md "wikilink")[Microsoft Exchange](https://zh.wikipedia.org/wiki/Microsoft_Exchange "wikilink") 4.0 中的*Internet Mail*。
 
-[OutlookExpressMacintosh.Png](https://zh.wikipedia.org/wiki/File:OutlookExpressMacintosh.Png "fig:OutlookExpressMacintosh.Png")版Outlook Express介面\]\] 微软Microsoft为贯彻其计划还另外设计了一个限制区域。但事实上这个「限制」的安全区域并未被很好的限制。比如附件中的脚本有可能会自动执行（因为设计者试图让无害的邮件附件如图像能够自动执行以便在预览中查看，但该特性被恶意[利用](https://zh.wikipedia.org/wiki/利用 "wikilink")）。该漏洞最终被修复，在最新版本的OE中，文件名中字符必须在最後一个「.」号後才能成为[扩展名](https://zh.wikipedia.org/wiki/扩展名 "wikilink")—Windows[文件系统](../Page/文件系统.md "wikilink")倚靠扩展名决定相应行为。没打补丁的OE在打开或预览[电子邮件](../Page/电子邮件.md "wikilink")时有可能在用户不知情的情况下执行代码。目前许多广泛传播的病毒即是利用该弱点。参见Outlook和[可信计算](../Page/可信计算.md "wikilink")条目了解微软公司对此作出的反应。
+1996年底，2.0版发布。目前仅能处理[纯文本和](https://zh.wikipedia.org/wiki/纯文本 "wikilink")[富文本电子邮件](https://zh.wikipedia.org/wiki/富文本 "wikilink")，缺少处理[HTML邮件的能力](https://zh.wikipedia.org/wiki/HTML邮件 "wikilink")。
 
-Outlook Express目前的使用率使其成为**实际上的**电邮客户端标准。并且。OE也是**实际上的**[蠕虫和](https://zh.wikipedia.org/wiki/电脑蠕虫 "wikilink")[病毒的首选传播目标](https://zh.wikipedia.org/wiki/电脑病毒 "wikilink")。OE的Macintosh版因为已经停止开发，所以较少受到攻击。
+1997年，该应用程序被重命名为*Outlook Express*并与[Internet Explorer 4捆绑在一起](../Page/Internet_Explorer_4.md "wikilink")。Outlook Express的Windows可执行文件*msimn.exe*是Internet Mail and News时代的延续。与Internet Explorer一样，Outlook Express 4可以在Mac System 7，OS 8和OS 9上运行。
 
-最後一点，微软已经停止继续开发Outlook Express。无论如何，OE已知漏洞的补丁可能需要相比其他微软产品较长的时间才能发布（参见下方**外部链接**中Secunia网站连接）。这使得人们对该产品仍然有[安全担忧](../Page/计算机安全.md "wikilink")。
+有一次，在Outlook Express 5的后续测试版中，Outlook Express包含一个复杂的自适应[垃圾邮件](https://zh.wikipedia.org/wiki/垃圾邮件 "wikilink")系统; 但是这个功能在发布前不久被删除了。当时在各种网站和新闻组中推测，该功能对于大众市场来说不够稳定。近两年后，使用类似的自适应过滤方法的类似系统作为Microsoft Outlook的一项功能出现。
+
+[Internet Explorer 5需要Outlook](../Page/Internet_Explorer_5.md "wikilink") Express 5来保存Web存档文件。\[3\]
+
+Outlook Express 6是以Outlook命名的最后一个版本，包含在Windows XP中。它具有与Outlook Express 5类似的布局。
+
+## 适用于Windows的版本
+
+[OESlash.jpg](https://zh.wikipedia.org/wiki/File:OESlash.jpg "fig:OESlash.jpg")
+
+  - Microsoft Internet Mail and News 1.0于1996年与Internet Explorer 3一起发布。
+  - Microsoft Internet Mail and News 2.0于1996年晚些时候发布。
+  - Outlook Express 4.0，包含在Windows 98（1998年6月）中并与Internet Explorer 4集成，将消息存储在\* .mbx文件中（类似于基于Unix的系统中使用的Mbox格式）
+  - Outlook Express 5.0，包含在Windows 98 Second Edition（SE）（1999年6月）中并与Internet Explorer 5集成，切换到\* .dbx文件，每个邮箱文件夹都有一个单独的文件
+  - Outlook Express 5.01包含在Windows 2000（2000 年 2月）中，并与Internet Explorer 5.01集成。
+  - Outlook Express 5.5包含在Windows Me（2000年6月）中，并与Internet Explorer 5.5集成。
+  - Outlook Express 6.0包含在Windows XP（2001年10月）中，并与Internet Explorer 6集成
+
+## 适用于Mac的版本
+
+[OutlookExpressMacintosh.Png](https://zh.wikipedia.org/wiki/File:OutlookExpressMacintosh.Png "fig:OutlookExpressMacintosh.Png")版Outlook Express介面\]\]
+
+  - Outlook Express 4.0包含在Microsoft Office 98 Macintosh Edition中。
+  - Outlook Express 5.01已与Internet Explorer 5集成。
+  - Outlook Express 5.01与Internet Explorer 5.01捆绑在一起。
+  - Outlook Express 5.5与Internet Explorer 5.5捆绑在一起。
+
+## 替代
+
+在[Windows Vista的早期开发版本Windows](../Page/Windows_Vista.md "wikilink") Longhorn中出现了“Outlook Express 7”的构建版本。\[4\] 它依靠WinFS来管理和存储联系人和其他数据。\[5\]
+
+Vista的最终版本包括Outlook Express的继任者，即[Windows Live Mail](../Page/Windows_Live_Mail.md "wikilink")。\[6\]
 
 ## 相關产品
 
@@ -37,3 +68,10 @@ Outlook Express目前的使用率使其成为**实际上的**电邮客户端标�
 {{-}}
 
 [Category:微软软件](https://zh.wikipedia.org/wiki/Category:微软软件 "wikilink") [Category:电子邮件客户端](https://zh.wikipedia.org/wiki/Category:电子邮件客户端 "wikilink") [Category:Usenet客户端](https://zh.wikipedia.org/wiki/Category:Usenet客户端 "wikilink")
+
+1.
+2.
+3.
+4.
+5.
+6.

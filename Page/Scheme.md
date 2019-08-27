@@ -20,7 +20,7 @@ Scheme的靈感來自[麻省理工學院的Carl](https://zh.wikipedia.org/wiki/�
 
 ### λ論文集
 
-「λ論文集」是Scheme的發明人史提爾與薩斯曼所撰寫的關於程式語言設計的一系列論文，最早作為[麻省理工學院的內部](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")[備忘錄發表](https://zh.wikipedia.org/wiki/備忘錄 "wikilink")。Scheme的功能很大一部分是由這些論文確立的。 通常認為λ論文集包括：
+「λ論文集」是Scheme的發明人史提爾與薩斯曼所撰寫的關於程式語言設計的一系列論文，最早作為[麻省理工學院的內部](https://zh.wikipedia.org/wiki/麻省理工學院 "wikilink")[備忘錄](../Page/備忘錄.md "wikilink")發表。Scheme的功能很大一部分是由這些論文確立的。 通常認為λ論文集包括：
 
 ## 語言標準
 

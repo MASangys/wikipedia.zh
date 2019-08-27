@@ -1,7 +1,5 @@
 **C++**是一种被广泛使用的计算机程序设计语言。它是一种通用[程序設計語言](https://zh.wikipedia.org/wiki/程式設計語言 "wikilink")，支援[多重编程模式](https://zh.wikipedia.org/wiki/多重编程范式 "wikilink")，例如[程序化程序設計](https://zh.wikipedia.org/wiki/程序化程式設計 "wikilink")、[数据抽象](../Page/抽象化_\(計算機科學\).md "wikilink")、[面向对象程序設計](https://zh.wikipedia.org/wiki/物件導向程式設計 "wikilink")、[泛型程序設計和](https://zh.wikipedia.org/wiki/泛型程式設計 "wikilink")[设计模式等](../Page/设计模式_\(计算机\).md "wikilink")。
 
-**C++**是一种获广泛使用的计算机编程语言。它是一种通用[编程语言](../Page/编程语言.md "wikilink")，支援[多重编程模式](https://zh.wikipedia.org/wiki/多重编程范式 "wikilink")，例如[程序化程序設計](https://zh.wikipedia.org/wiki/程序化程式設計 "wikilink")、[数据抽象](../Page/抽象化_\(計算機科學\).md "wikilink")、[面向对象程序設計](https://zh.wikipedia.org/wiki/物件導向程式設計 "wikilink")、[泛型程序設計和](https://zh.wikipedia.org/wiki/泛型程式設計 "wikilink")[设计模式等](../Page/设计模式_\(计算机\).md "wikilink")。
-
 [比雅尼·斯特勞斯特魯普博士在](https://zh.wikipedia.org/wiki/比雅尼·斯特勞斯特魯普 "wikilink")[贝尔实验室](../Page/贝尔实验室.md "wikilink")工作期间在20世紀80年代發明並實現了C++。起初，這種語言被稱作“”（“包含‘[類](../Page/类_\(计算机科学\).md "wikilink")’的C語言”），作為[C語言的增強版出現](https://zh.wikipedia.org/wiki/C語言 "wikilink")。随后，C++不斷增加新特性。[虚函数](../Page/虚函数.md "wikilink")（）、[运算符重载](../Page/运算符重载.md "wikilink")（）、[多繼承](../Page/多重继承.md "wikilink")（）、[标准模板库](../Page/标准模板库.md "wikilink")（, ）、[异常处理](../Page/异常处理.md "wikilink")（）、[运行时类型信息](https://zh.wikipedia.org/wiki/RTTI "wikilink")（）、[命名空間](../Page/命名空间.md "wikilink")（）等概念逐漸納入標準。1998年，[國際標準組織](https://zh.wikipedia.org/wiki/国际标准化组织 "wikilink")（）頒布了C++程序設計語言的第一個國際標準ISO/IEC 14882:1998，目前最新标准为ISO/IEC 14882:2017。根據《C++編-{}-程思想》（）一書，C++與C的代码执行效率往往相差在±5%之間\[1\]。
 
 ## 发展历史

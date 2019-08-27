@@ -39,6 +39,7 @@ Debian GNU / Linux是一種強調使用自由軟件的发行版。它支持多�
           - [Start OS](https://zh.wikipedia.org/wiki/Start_OS "wikilink")：原名Ylmf OS，基于Ubuntu发行版，已停止维护。
           - [Ubuntu GNOME](../Page/Ubuntu_GNOME.md "wikilink")：基於Ubuntu是Linux發行版，但使用的是桌面環境是[Gnome](https://zh.wikipedia.org/wiki/Gnome "wikilink")。
           - [Zorin OS](../Page/Zorin_OS.md "wikilink")：基于Ubuntu的Linux发行版，目的是尽可能的模拟[Windows及操作习惯](https://zh.wikipedia.org/wiki/Windows "wikilink")。
+          - [NOI Linux](../Page/NOI_Linux.md "wikilink")：一套专门用于[NOI竞赛的操作系统](https://zh.wikipedia.org/wiki/NOI "wikilink")。
 
 ### 基于RPM（Red Hat系）
 

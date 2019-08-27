@@ -95,6 +95,8 @@ SteamOS包括了Linux的架构以及为大屏幕模式设计的游戏体验。St
 
 ## 中国大陆的封锁
 
+2014年11月，Steam商店页面曾被短暂封锁。
+
 2017年12月16日开始， 因疑似被[防火长城](../Page/防火长城.md "wikilink")[封锁steamcommunity](../Page/中华人民共和国被封锁网站列表.md "wikilink").com域名下的steam社区内容，导致在中国大陆的用户除了商店外无法访问其他任何功能，需要修改[hosts或使用加速器等相关工具才能绕过封锁](https://zh.wikipedia.org/wiki/hosts "wikilink")。\[43\]
 
 ## 默认启用https链接

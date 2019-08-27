@@ -101,7 +101,7 @@ IPv6中有些位址是有特殊含义的：
 
 <!-- end list -->
 
-  - `::1/128`－是一種單播[繞回位址](https://zh.wikipedia.org/wiki/繞回 "wikilink")。如果一個應用程式將封包送到此位址，IPv6堆疊會轉送這些封包繞回到同樣的虛擬介面（相當於IPv4中的[127.0.0.1/8](https://zh.wikipedia.org/wiki/127.0.0.1 "wikilink")）。
+  - `::1/128`－是一種單播[繞回位址](https://zh.wikipedia.org/wiki/回环 "wikilink")。如果一個應用程式將封包送到此位址，IPv6堆疊會轉送這些封包繞回到同樣的虛擬介面（相當於IPv4中的[127.0.0.1/8](https://zh.wikipedia.org/wiki/127.0.0.1 "wikilink")）。
   - `fe80::/10`－這些链路本地位址指明，這些位址只在區域連線中是合法的，這有點類似於IPv4中的`169.254.0.0/16`。
 
 <!-- end list -->
@@ -165,13 +165,15 @@ IPv6中有些位址是有特殊含义的：
 
 ## IPv6封包
 
-[IPv6_header_rv1.png](https://zh.wikipedia.org/wiki/File:IPv6_header_rv1.png "fig:IPv6_header_rv1.png") IPv6封包由两个主要部分组成：头部和负载。
+[IPv6_header_rv1.svg](https://zh.wikipedia.org/wiki/File:IPv6_header_rv1.svg "fig:IPv6_header_rv1.svg") IPv6封包由两个主要部分组成：头部和负载。
 
-包头是包的前64比特并且包含有源和目的地址，协议版本，通信类别（8位元，包优先级），流标记（20位元，[QoS服务质量控制](https://zh.wikipedia.org/wiki/QoS "wikilink")），分组长度（16位），下一个头部（用于入栈解码，类似IPv4中的协议号），和跳段数限制（8位元，生存时间，相当于IPv4中的TTL）。后面是负载。MTU至少1280字节长，在常见的以太网环境中为1500字节。负载在标准模式下最大可为65535字节，如果扩展报头设置了"jumbo payload"选项，则长度值被置为0。
+包头是包的前64比特，并且包含有源和目的地址，协议版本，通信类别（8位元，包优先级），流标记（20位元，[QoS服务质量控制](https://zh.wikipedia.org/wiki/QoS "wikilink")），分组长度（16位），下一个头部（用于入栈解码，类似IPv4中的协议号），和跳段数限制（8位元，生存时间，相当于IPv4中的TTL）。后面是负载。MTU至少1280字节长，在常见的以太网环境中为1500字节。负载在标准模式下最大可为65535字节，如果扩展报头设置了"jumbo payload"选项，则长度值被置为0。
 
-IPv6曾有两个有着细微差别的版本；在RFC 1883中定义的原始版本（现在废弃）和RFC 2460中描述的现在提议的标准版本。两者主要在通信类别这个选项上有所不同，它的位数由4位变为了8位。其他的区别都是微不足道的。
+IPv6曾有两个有着细微差别的版本；在 RFC 1883 中定义的原始版本（现在废弃）和 RFC 2460 中描述的现在提议的标准版本。两者主要在通信类别这个选项上有所不同，它的位数由4位变为了8位。其他的区别都是微不足道的。
 
-分段（Fragmentation）只在IPv6的主机中处理。在IPv6中，可选项都被从标准头部中移出并在协议字段中指定，类似于IPv4的协议字段功能。
+由于[分片](https://zh.wikipedia.org/wiki/IP分片 "wikilink")（Fragmentation）只在IPv6的主机中处理，而IPv6也要求实现“MTU路径发现”来避免数据包需要被中间设备分片，所以IPv4头涉及分片的字段从IPv6基本头移出至专用的分片扩展报头中。
+
+在IPv6中，可选项都被从标准头部中移出并在协议字段中指定，类似于IPv4的协议字段功能。
 
 ## IPv6和域名系统
 
@@ -211,26 +213,18 @@ AAAA模式只是IPv6域名系统的简单概括，A6模式使域名系统中检�
 
 [网际网络安全协议](../Page/IPsec.md "wikilink")（Internet Protocol Security，即IPsec）原本为IPv6开发，但是在IPv4中已经大量部署。IPsec最初是IPv6协议的强制要求\[14\]，但后来改为可选项。\[15\]
 
-## IPv6行动计划
-
-2017年11月，中共中央办公厅、国务院办公厅印发了《推进互联网协议第六版（IPv6）规模部署行动计划》，并发出通知，要求各地区各部门结合实际认真贯彻落实。\[16\]
-
-## IPv6测试
-
-全球IPv6测试中心成立于2008年，是IPv6 Ready Logo 委员会核心成员，与其他IPv6 Forum实验室成员单位一起策划，开发并启动了IPv6 Ready Logo 认证计划；IPv6 测试中心也是IPv6 Enabled Logo认证计划的始创单位，在2009年自主设计并建立全球IPv6 Enabled服务认证系统。 \[17\]
-
 ## 轉換機制
 
-在IPv6完全取代IPv4前，需要一些轉換機制\[18\]使得只支援IPv6的主機可以連絡IPv4服務，並且允許孤立的IPv6主機及網路可以藉由IPv4設施連絡IPv6網際網路。
+在IPv6完全取代IPv4前，需要一些轉換機制\[16\]使得只支援IPv6的主機可以連絡IPv4服務，並且允許孤立的IPv6主機及網路可以藉由IPv4設施連絡IPv6網際網路。
 
-在IPv6主機和路由器與IPv4系統共存的時期時，[RFC2893](http://tools.ietf.org/html/rfc2893)和[RFC2185](http://tools.ietf.org/html/rfc2185)定義了轉換機制。這些技術，有時一起稱作**簡單網際網路轉換**（SIT，Simple Internet Transition）。\[19\]包含：
+在IPv6主機和路由器與IPv4系統共存的時期時，[RFC2893](http://tools.ietf.org/html/rfc2893)和[RFC2185](http://tools.ietf.org/html/rfc2185)定義了轉換機制。這些技術，有時一起稱作**簡單網際網路轉換**（SIT，Simple Internet Transition）。\[17\]包含：
 
   - 運作於主機和路由器之間的雙堆疊IP實作
   - 將IPv4嵌入IPv6位址
   - IPv6立於IPv4之上的隧道機制
   - IPv4/IPv6报头轉換
 
-许多转换机制使用隧道来把IPv6交通包封在IPv4网络中。这个解决方案并不完美，可能会增加延时以及引起**路径最大传输单元发现**（Path MTU Discovery）的问题，\[20\]它并不总能运行，因为过时的网络设备可能不支持IPv6。有线电视基础上的Internet访问就是一个例子。在现代的有线电视网络中，光纤同轴混合网（HFC）的核心（比如大型核心路由器）是有可能支持IPv6的。然而，其他网络设备（比如一个[线缆调制解调器终端系统](https://zh.wikipedia.org/wiki/线缆调制解调器终端系统 "wikilink")（CMTS）)以及用户设备（如[线缆调制解调器](https://zh.wikipedia.org/wiki/线缆调制解调器 "wikilink")）会需要软件更新或硬件更新来支持IPv6。这意味着线缆网络运营商必须调整适应隧道直至主干设备支持内部雙堆疊。
+许多转换机制使用隧道来把IPv6交通包封在IPv4网络中。这个解决方案并不完美，可能会增加延时以及引起**路径最大传输单元发现**（Path MTU Discovery）的问题，\[18\]它并不总能运行，因为过时的网络设备可能不支持IPv6。有线电视基础上的Internet访问就是一个例子。在现代的有线电视网络中，光纤同轴混合网（HFC）的核心（比如大型核心路由器）是有可能支持IPv6的。然而，其他网络设备（比如一个[线缆调制解调器终端系统](https://zh.wikipedia.org/wiki/线缆调制解调器终端系统 "wikilink")（CMTS）)以及用户设备（如[线缆调制解调器](https://zh.wikipedia.org/wiki/线缆调制解调器 "wikilink")）会需要软件更新或硬件更新来支持IPv6。这意味着线缆网络运营商必须调整适应隧道直至主干设备支持内部雙堆疊。
 
 ### 雙堆疊
 
@@ -246,15 +240,15 @@ IP協議號碼的41號用來標示將IPv6資料訊框直接裝入IPv4封包。IP
 
 #### 自動隧道
 
-自動隧道（Automatic tunneling）指路由設施自動決定隧道端點的技術。RFC 3056建議使用[6to4](../Page/6to4.md "wikilink")穿隧技術來自動隧道，其會使用41協議來封裝。\[21\] 隧道端點是由遠端知名的IPv4任播位址所決定，並在本地端嵌入IPv4位址資訊到IPv6中。現今6to4是廣泛佈署的。
+自動隧道（Automatic tunneling）指路由設施自動決定隧道端點的技術。RFC 3056建議使用[6to4](../Page/6to4.md "wikilink")穿隧技術來自動隧道，其會使用41協議來封裝。\[19\] 隧道端點是由遠端知名的IPv4任播位址所決定，並在本地端嵌入IPv4位址資訊到IPv6中。現今6to4是廣泛佈署的。
 
-[Teredo是使用UDP封裝的隧道技術](https://zh.wikipedia.org/wiki/Teredo "wikilink")，據稱可跨越多個NAT設備。\[22\]Teredo並非廣泛用於佈署的，但一個實驗性版本的Teredo已安裝於Windows XP SP2 IPv6堆疊中。IPv6，包含6to4隧道和Teredo隧道，在[Windows Vista中預設是啟動的](../Page/Windows_Vista.md "wikilink")。\[23\]許多Unix系統只支援原生的6to4，但Teredo可由如Miredoo的第三方軟體來提供。
+[Teredo是使用UDP封裝的隧道技術](https://zh.wikipedia.org/wiki/Teredo "wikilink")，據稱可跨越多個NAT設備。\[20\]Teredo並非廣泛用於佈署的，但一個實驗性版本的Teredo已安裝於Windows XP SP2 IPv6堆疊中。IPv6，包含6to4隧道和Teredo隧道，在[Windows Vista中預設是啟動的](../Page/Windows_Vista.md "wikilink")。\[21\]許多Unix系統只支援原生的6to4，但Teredo可由如Miredoo的第三方軟體來提供。
 
-[ISATAP](../Page/ISATAP.md "wikilink")\[24\]藉由將IPv4位址對應到IPv6的链路本地位址，從而將IPv4網路視為一種虛擬的IPv6區域連線。不像6to4和Teredo是*站點間*的隧道機制，ISATAP是一種*站點內*機制，意味著它是用來設計提供在一個組織內節點之間的IPv6連接性。
+[ISATAP](../Page/ISATAP.md "wikilink")\[22\]藉由將IPv4位址對應到IPv6的链路本地位址，從而將IPv4網路視為一種虛擬的IPv6區域連線。不像6to4和Teredo是*站點間*的隧道機制，ISATAP是一種*站點內*機制，意味著它是用來設計提供在一個組織內節點之間的IPv6連接性。
 
 #### 組態隧道（6in4）
 
-在*組態隧道*中，如[6in4](../Page/6in4.md "wikilink")隧道隧，隧道端點是要明確組態過的，可以是藉由管理員手動或作業系統的組態機制，或者藉由如tunnel broker等的自動服務。\[25\]組態隧道通常比自動隧道更容易去除錯，故建議用於大型且良好管理的網路。
+在*組態隧道*中，如[6in4](../Page/6in4.md "wikilink")隧道隧，隧道端點是要明確組態過的，可以是藉由管理員手動或作業系統的組態機制，或者藉由如tunnel broker等的自動服務。\[23\]組態隧道通常比自動隧道更容易去除錯，故建議用於大型且良好管理的網路。
 
 組態隧道在IPv4隧道上，使用[網際協議中號碼的](https://zh.wikipedia.org/wiki/網際協議 "wikilink")41號。
 
@@ -270,8 +264,8 @@ IP協議號碼的41號用來標示將IPv6資料訊框直接裝入IPv4封包。IP
 
   - 在2003年，[日本經濟新聞](../Page/日本經濟新聞.md "wikilink")（在2003年被CNET亚洲机构引用）报告中说日本、中国和韩国声称已经决定要在网络技术中寻求领先，将部分参与IPv6的开发并在2005年开始全面采用IPv6。
   - [ICANN在](https://zh.wikipedia.org/wiki/ICANN "wikilink")2004年7月20日发表声明，称[DNS根服务器已经建立对应日本](https://zh.wikipedia.org/wiki/網域名稱系統 "wikilink")（[.jp](../Page/.jp.md "wikilink")）和韩国（[.kr](https://zh.wikipedia.org/wiki/.kr "wikilink")）的顶级域名服务器的AAAA记录，序列号为2004072000。对应法国的（[.fr](https://zh.wikipedia.org/wiki/.fr "wikilink")）IPv6记录会再晚一点时间加入。
-  - 2011年[互联网协会](../Page/互联网协会.md "wikilink")将6月8日定为[世界IPv6日](../Page/世界IPv6日.md "wikilink")。包括Google、Facebook和雅虎在内的参与者将在当天对他们的主要服务启用IPv6，以推进互联网工业加速部署全面IPv6支持\[26\]。
-  - 2017年11月26日，[中共中央办公厅](../Page/中共中央办公厅.md "wikilink")、[国务院办公厅印发](https://zh.wikipedia.org/wiki/国务院办公厅 "wikilink")《推进互联网协议第六版（IPv6）规模部署行动计划》，要求各地各部门贯彻落实。其中主要目标包括：到2018年末，IPv6活跃用户数达2亿，互联网用户中占比不低于20%；到2020年末，IPv6活跃用户数超过5亿，互联网用户中占比超过50%，新增网络地址不再使用私有IPv4地址；到2025年末，中国IPv6网络规模、用户规模、流量规模位居世界第一，网络、应用、终端全面支持IPv6\[27\]。
+  - 2011年[互联网协会](../Page/互联网协会.md "wikilink")将6月8日定为[世界IPv6日](../Page/世界IPv6日.md "wikilink")。包括Google、Facebook和雅虎在内的参与者将在当天对他们的主要服务启用IPv6，以推进互联网工业加速部署全面IPv6支持\[24\]。
+  - 2017年11月26日，[中共中央办公厅](../Page/中共中央办公厅.md "wikilink")、[国务院办公厅印发](https://zh.wikipedia.org/wiki/国务院办公厅 "wikilink")《推进互联网协议第六版（IPv6）规模部署行动计划》，要求各地各部门贯彻落实。其中主要目标包括：到2018年末，IPv6活跃用户数达2亿，互联网用户中占比不低于20%；到2020年末，IPv6活跃用户数超过5亿，互联网用户中占比超过50%，新增网络地址不再使用私有IPv4地址；到2025年末，中国IPv6网络规模、用户规模、流量规模位居世界第一，网络、应用、终端全面支持IPv6\[25\]。
 
 ## 参見
 
@@ -341,15 +335,13 @@ IP協議號碼的41號用來標示將IPv6資料訊框直接裝入IPv4封包。IP
 13.
 14. RFC 4301, ''IPv6 Node Requirements", J. Loughney (April 2006)
 15. RFC 6434, "IPv6 Node Requirements", E. Jankiewicz, J. Loughney, T. Narten (December 2011)
-16.
+16. [IPv6 Transition Mechanism / Tunneling Comparison](http://www.sixxs.net/faq/connectivity/?faq=comparison)
 17.
-18. [IPv6 Transition Mechanism / Tunneling Comparison](http://www.sixxs.net/faq/connectivity/?faq=comparison)
-19.
-20.
-21. RFC 3056: Connection of IPv6 Domains via IPv4 Clouds
-22. RFC 4380: Teredo: Tunneling IPv6 over UDP through Network Address Translations (NATs)
-23. [The Windows Vista Developer Story: Application Compatibility Cookbook](http://msdn2.microsoft.com/en-us/library/aa480152.aspx)
-24. RFC 4214: Intra-Site Automatic Tunnel Addressing Protocol (ISATAP)
-25. RFC 3053: IPv6 Tunnel Broker
-26.
-27.
+18.
+19. RFC 3056: Connection of IPv6 Domains via IPv4 Clouds
+20. RFC 4380: Teredo: Tunneling IPv6 over UDP through Network Address Translations (NATs)
+21. [The Windows Vista Developer Story: Application Compatibility Cookbook](http://msdn2.microsoft.com/en-us/library/aa480152.aspx)
+22. RFC 4214: Intra-Site Automatic Tunnel Addressing Protocol (ISATAP)
+23. RFC 3053: IPv6 Tunnel Broker
+24.
+25.

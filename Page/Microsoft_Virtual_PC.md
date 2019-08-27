@@ -18,7 +18,7 @@ Virtual PC在使用[PowerPC](../Page/PowerPC.md "wikilink")處理器的[Mac OS X
 
 ## 版本歷史
 
-第一代的Virtual PC是為蘋果電腦而在1997年6月推出的。四年後，即2001年6月，第一代Windows版本的Virtual PC，版本4.0也推出了。 目前的最新版本是2007 SP1。Microsoft Virtual PC将被预计内置于[Windows 7的](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[Windows Virtual PC取代](../Page/Windows_Virtual_PC.md "wikilink")。
+第一代的Virtual PC是為蘋果電腦而在1997年6月推出的。四年後，即2001年6月，第一代Windows版本的Virtual PC，版本4.0也推出了。 目前的最新版本是2007 SP1。Microsoft Virtual PC被内置于[Windows 7部分版本的](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")[Windows Virtual PC取代](../Page/Windows_Virtual_PC.md "wikilink")。
 
 ## 基于Intel的苹果机支持
 

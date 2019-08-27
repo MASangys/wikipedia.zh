@@ -41,7 +41,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Biáng.svg" title="fig:Biáng.svg">Biáng.svg</a></p></td>
 <td><p>57画</p></td>
 <td><p>⿺⻍⿳⿱宀八⿲月⿱⿲幺言幺⿲-{馬}--{長}--{長}-刂心</p></td>
-<td><p>一点飞上天，<a href="../Page/黄河.md" title="wikilink">黄河</a>两道弯，八字大张口，言字往里走；左一扭，右一扭；左一长，右一长；中间夹个马大王。心字底，月字旁，留个钩搭掛麻糖，推个车车逛<a href="../Page/咸阳市.md" title="wikilink">咸阳</a>。[8][9]</p></td>
+<td><p>一点飞上天，<a href="../Page/黄河.md" title="wikilink">黄河</a>两边弯，八字大张口，言字往里走；左一弯，右一弯；左一长，右一长；中间夹个马大王。月字旁，心字底，留个钩搭掛麻糖，推个车车进<a href="../Page/咸阳市.md" title="wikilink">咸阳</a>。[8][9]</p></td>
 <td><p>较为常见</p></td>
 </tr>
 <tr class="even">

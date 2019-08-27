@@ -1,4 +1,4 @@
-**Cinemax**，又稱**Max**，是一個專門播放[電影的](https://zh.wikipedia.org/wiki/電影 "wikilink")[有線電視網絡](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，客戶需訂購才可收看。Cinemax為[HBO](../Page/HBO.md "wikilink")集團（由[華納媒體](../Page/華納媒體.md "wikilink")所擁有）的max系列的其中一個頻道，從[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[三藩市傳送播放](https://zh.wikipedia.org/wiki/三藩市 "wikilink")。Cinemax在美國還會在深夜播放[色情](../Page/色情.md "wikilink")節目，所以也被人稱作"skin-a-max"（露出最多肌膚）。
+**Cinemax**，又稱**Max**，是一個專門播放[電影的](https://zh.wikipedia.org/wiki/電影 "wikilink")[有線電視網](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，客戶需訂購才可收看。Cinemax為[HBO](../Page/HBO.md "wikilink")集團（由[華納媒體](../Page/華納媒體.md "wikilink")所擁有）的max系列的其中一個頻道，從[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[三藩市傳送播放](https://zh.wikipedia.org/wiki/三藩市 "wikilink")。Cinemax在美國還會在深夜播放[色情](../Page/色情.md "wikilink")節目，所以也被人稱作"skin-a-max"（露出最多肌膚）。
 
 ## 歷史
 
@@ -6,7 +6,7 @@
 
 Cinemax在早期非常成功，原因是客戶只需在約三十個頻道上追加此頻道便可以了。電影是有線電視訂戶最想收看的頻道，而Cinemax播放沒有廣告、沒有剪接的經典電影也吸引[HBO](../Page/HBO.md "wikilink")訂戶再訂講Cinemax。事實上，有線電視供應商不會供非[HBO](../Page/HBO.md "wikilink")用戶訂購Cinemax，這兩條頻道以套餐形式銷售，若訂購兩條通常會有折扣。在1980年代初，HBO大約一個月美金13元，而Cinemax則需再加美金7-10元一個月。
 
-由於在美國本土的電影頻道增加，Cinemax為求留住客戶，所以改變節目定位，最初決定播放更多暴力的電影（[HBO](../Page/HBO.md "wikilink")只在深夜播放此類電影），之後再加入成人電影。現在美國的Cinemax仍會播放[成人電影](https://zh.wikipedia.org/wiki/成人電影 "wikilink")，特別是為成人電視網絡提供的，也因此為Cinemax帶來很多別名，如"Skin-a-max"， "Sinamax" 和 "Climax"等。
+由於在美國本土的電影頻道增加，Cinemax為求留住客戶，所以改變節目定位，最初決定播放更多暴力的電影（[HBO](../Page/HBO.md "wikilink")只在深夜播放此類電影），之後再加入成人電影。現在美國的Cinemax仍會播放[成人電影](https://zh.wikipedia.org/wiki/成人電影 "wikilink")，特別是為成人電視網提供的，也因此為Cinemax帶來很多別名，如"Skin-a-max"， "Sinamax" 和 "Climax"等。
 
 ## Max系列頻道
 

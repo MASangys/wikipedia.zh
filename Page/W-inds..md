@@ -79,6 +79,7 @@
 | 38th | 2017/01/11 | We Don't Need To Talk Anymore                       | 日本電視台《[バズリズム](https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%BA%E3%83%AA%E3%82%BA%E3%83%A0#.E5.87.BA.E6.BC.94)》主題曲（2017年1月）                                           |
 | 39th | 2017/09/27 | Time Has Gone                                       | TBS電視台《CDTV》片頭曲（2017年8月及9月）                                                                                                                                          |
 | 40th | 2018/03/14 | Dirty Talk                                          | 日本電視台《\[\[スッキリ                                                                                                                                                       |
+| 41th | 2019/07/31 | Get Down                                            |                                                                                                                                                                      |
 |      |            |                                                     |                                                                                                                                                                      |
 
 ### 專輯

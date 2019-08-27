@@ -106,7 +106,7 @@
 
   - [Remembering our Dead](https://web.archive.org/web/20130919195456/http://gender.org/remember/about/core.html) - 一個紀念因跨性別而遭受暴力身亡者的網站
 
-[Category:恐同](https://zh.wikipedia.org/wiki/Category:恐同 "wikilink") [Category:恐跨](https://zh.wikipedia.org/wiki/Category:恐跨 "wikilink") [Category:LGBT權利](https://zh.wikipedia.org/wiki/Category:LGBT權利 "wikilink") [Category:性取向和社会](https://zh.wikipedia.org/wiki/Category:性取向和社会 "wikilink") [Category:反LGBT仇恨罪行受害人](https://zh.wikipedia.org/wiki/Category:反LGBT仇恨罪行受害人 "wikilink") [Category:针对LGBT人士的暴力行径](https://zh.wikipedia.org/wiki/Category:针对LGBT人士的暴力行径 "wikilink") [Category:针对LGBT人士的迫害](https://zh.wikipedia.org/wiki/Category:针对LGBT人士的迫害 "wikilink") [Category:基于性别的暴力行径](https://zh.wikipedia.org/wiki/Category:基于性别的暴力行径 "wikilink")
+[Category:同性恋恐惧症](https://zh.wikipedia.org/wiki/Category:同性恋恐惧症 "wikilink") [Category:跨性别恐惧症](https://zh.wikipedia.org/wiki/Category:跨性别恐惧症 "wikilink") [Category:LGBT權利](https://zh.wikipedia.org/wiki/Category:LGBT權利 "wikilink") [Category:性取向和社会](https://zh.wikipedia.org/wiki/Category:性取向和社会 "wikilink") [Category:反LGBT仇恨罪行受害人](https://zh.wikipedia.org/wiki/Category:反LGBT仇恨罪行受害人 "wikilink") [Category:针对LGBT人士的暴力行径](https://zh.wikipedia.org/wiki/Category:针对LGBT人士的暴力行径 "wikilink") [Category:针对LGBT人士的迫害](https://zh.wikipedia.org/wiki/Category:针对LGBT人士的迫害 "wikilink") [Category:基于性别的暴力行径](https://zh.wikipedia.org/wiki/Category:基于性别的暴力行径 "wikilink")
 
 1.  [北卡新法歧視「跨性別」 人權團體喊廢](http://www.worldjournal.com/3880087/article-%E5%8C%97%E5%8D%A1%E6%96%B0%E6%B3%95%E6%AD%A7%E8%A6%96%E3%80%8C%E8%B7%A8%E6%80%A7%E5%88%A5%E3%80%8D-%E4%BA%BA%E6%AC%8A%E5%9C%98%E9%AB%94%E5%96%8A%E5%BB%A2/)
 2.

@@ -115,7 +115,7 @@ AVBWU1-290已於2012年5月投入服務，主要行走途經彌敦道、過海�
 
 ###### 方梯版本
 
-[AVBWU291_at_Cross_Harbour_Tunnel_Toll_Plaza_(20190119120523).jpg](https://zh.wikipedia.org/wiki/File:AVBWU291_at_Cross_Harbour_Tunnel_Toll_Plaza_\(20190119120523\).jpg "fig:AVBWU291_at_Cross_Harbour_Tunnel_Toll_Plaza_(20190119120523).jpg") [AVBWU317_at_West_Kowloon_Station_Bus_Terminus_(20180921124645).jpg](https://zh.wikipedia.org/wiki/File:AVBWU317_at_West_Kowloon_Station_Bus_Terminus_\(20180921124645\).jpg "fig:AVBWU317_at_West_Kowloon_Station_Bus_Terminus_(20180921124645).jpg") [AVBWU399_KMB_30X_21-02-2018.jpg](https://zh.wikipedia.org/wiki/File:AVBWU399_KMB_30X_21-02-2018.jpg "fig:AVBWU399_KMB_30X_21-02-2018.jpg") [VJ8412-AVBWU786-104.jpg](https://zh.wikipedia.org/wiki/File:VJ8412-AVBWU786-104.jpg "fig:VJ8412-AVBWU786-104.jpg") 2012年8月，九巴加訂50輛B9TL巴士，車隊編號為AVBWU291-337、339、342、345。此批新車機械配備跟前批車輛大致相同，惟為迎合九巴要求，車廂內的樓梯改為方梯以增加載客量，油缸移至樓梯底部，容量減至350升，座位由上一批使用的Vogelsitze System 400/6轉為Vogel Revo S 400、Vogel Revo S 440 及 Vogel Revo S 480，並採用上海凱倫電子的新型自動報站系統。此舉令全車淨重得以降低700公斤並能盡用車廂空間。首輛由英國組裝的樣版巴士AVBWU291已於2013年4月10日抵港，並於2013年6月26日首次到土瓜灣驗車中心驗車。樣版車原本設計於下層梯間設有小窗，惟此設計不合規格，在封閉車窗後再次於7月8日驗車，並於2013年8月9日正式出牌並入籍荔枝角車廠，車牌號碼為SD 9537，翌日首航行走[104線](https://zh.wikipedia.org/wiki/過海隧道巴士104線 "wikilink")。此批車的載客量改為90個座位和48個企位，載客量為138人，比12米版本[富豪奧林匹克及](../Page/富豪奧林匹克巴士.md "wikilink")[E50D的載客量還要多一名](https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_500#ATENU "wikilink")，為目前載客量最多的12米雙層巴士。除了首輛巴士於英國原廠組裝車身和採用Hanover LED橙色路線顯示器外，其餘車輛均由珠海廣通客車負責組裝車身和採用Gorba LED橙色路線顯示器，下層梯間的車廂組件也不再配備小窗。除了首輛巴士外，其餘新車於2013-2014年運抵本港，並於2013年8月9日至2014年8月29日全數出牌及投入服務，全數車尾四盞LED燈於2016年底陸續拆除，2017年2月，九巴把其中兩部量產版B9TL（AVBWU297、326）更換為Hanover LED橙色路線顯示器。同年11月，九巴把其中一部量產版B9TL (AVBWU301)更換為Hanover綠色磁翻版路線顯示器。
+[AVBWU291_at_Cross_Harbour_Tunnel_Toll_Plaza_(20190119120523).jpg](https://zh.wikipedia.org/wiki/File:AVBWU291_at_Cross_Harbour_Tunnel_Toll_Plaza_\(20190119120523\).jpg "fig:AVBWU291_at_Cross_Harbour_Tunnel_Toll_Plaza_(20190119120523).jpg") [AVBWU317_at_West_Kowloon_Station_Bus_Terminus_(20180921124645).jpg](https://zh.wikipedia.org/wiki/File:AVBWU317_at_West_Kowloon_Station_Bus_Terminus_\(20180921124645\).jpg "fig:AVBWU317_at_West_Kowloon_Station_Bus_Terminus_(20180921124645).jpg") [AVBWU399_KMB_30X_21-02-2018.jpg](https://zh.wikipedia.org/wiki/File:AVBWU399_KMB_30X_21-02-2018.jpg "fig:AVBWU399_KMB_30X_21-02-2018.jpg") [AVBWU797_at_Central_Market,_Queen_Victoria_St_(20190225102005).jpg](https://zh.wikipedia.org/wiki/File:AVBWU797_at_Central_Market,_Queen_Victoria_St_\(20190225102005\).jpg "fig:AVBWU797_at_Central_Market,_Queen_Victoria_St_(20190225102005).jpg") 2012年8月，九巴加訂50輛B9TL巴士，車隊編號為AVBWU291-337、339、342、345。此批新車機械配備跟前批車輛大致相同，惟為迎合九巴要求，車廂內的樓梯改為方梯以增加載客量，油缸移至樓梯底部，容量減至350升，座位由上一批使用的Vogelsitze System 400/6轉為Vogel Revo S 400、Vogel Revo S 440 及 Vogel Revo S 480，並採用上海凱倫電子的新型自動報站系統。此舉令全車淨重得以降低700公斤並能盡用車廂空間。首輛由英國組裝的樣版巴士AVBWU291已於2013年4月10日抵港，並於2013年6月26日首次到土瓜灣驗車中心驗車。樣版車原本設計於下層梯間設有小窗，惟此設計不合規格，在封閉車窗後再次於7月8日驗車，並於2013年8月9日正式出牌並入籍荔枝角車廠，車牌號碼為SD 9537，翌日首航行走[104線](https://zh.wikipedia.org/wiki/過海隧道巴士104線 "wikilink")。此批車的載客量改為90個座位和48個企位，載客量為138人，比12米版本[富豪奧林匹克及](../Page/富豪奧林匹克巴士.md "wikilink")[E50D的載客量還要多一名](https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_500#ATENU "wikilink")，為目前載客量最多的12米雙層巴士。除了首輛巴士於英國原廠組裝車身和採用Hanover LED橙色路線顯示器外，其餘車輛均由珠海廣通客車負責組裝車身和採用Gorba LED橙色路線顯示器，下層梯間的車廂組件也不再配備小窗。除了首輛巴士外，其餘新車於2013-2014年運抵本港，並於2013年8月9日至2014年8月29日全數出牌及投入服務，全數車尾四盞LED燈於2016年底陸續拆除，2017年2月，九巴把其中兩部量產版B9TL（AVBWU297、326）更換為Hanover LED橙色路線顯示器。同年11月，九巴把其中一部量產版B9TL (AVBWU301)更換為Hanover綠色磁翻版路線顯示器。
 
 2013年8月，九巴訂購了60部B9TL新巴士，其中58部屬12米版本（車隊編號為AVBWU338，340，341，343，344，346-389，391-398，401），餘下兩輛為12.8米版本。由珠海廣通客車負責組裝車身。此批新車恢復使用Hanover橙色路線顯示器，車頭燈組件改以L型設計，車頭大燈下方裝有LED[日行燈](https://zh.wikipedia.org/wiki/日行燈 "wikilink")，其餘規格跟AVBWU上一批巴士相近，全數車尾四盞LED燈於2016年底陸續拆除。
 
@@ -133,7 +133,7 @@ AVBWU1-290已於2012年5月投入服務，主要行走途經彌敦道、過海�
 
 AVBWU734於2018年7月原Hanover橙色LED電子牌更換為同款白色LED電子牌。
 
-AVBWU449-797於2019年4月全數加設電子路線圖。
+AVBWU449-797於2019年4月全數陸續加設電子路線圖。
 
 ##### 3AVBWU
 
@@ -167,7 +167,7 @@ AVG1 at Mong Kok East Station (20190314132228).jpg|投入運營首日的九巴Ge
 
 #### 龍運巴士
 
-[LWB_MX4719.jpg](https://zh.wikipedia.org/wiki/File:LWB_MX4719.jpg "fig:LWB_MX4719.jpg") 在2007年中載通國際引入45輛B9TL巴士之中，其中10輛提供給[龍運巴士](../Page/龍運巴士.md "wikilink")，除了全數使用Gorba電子路線顯示屏、 配用ZF 6HP592C波箱、使用Lazzerini座椅及下層並配置行李架之外，其他規格與[九巴的巴士相同](https://zh.wikipedia.org/wiki/九巴 "wikilink")，同樣由九巴屯門車廠負責組裝車身，全數已於2007年夏季至2008年春季投入服務，普通版車隊編號為701-709，半客車版為401（設有絲絨座椅）。2016年，龍運把401改為玫瑰花紋座椅皮套。
+[NG994-709-R42D.jpg](https://zh.wikipedia.org/wiki/File:NG994-709-R42D.jpg "fig:NG994-709-R42D.jpg") 在2007年中載通國際引入45輛B9TL巴士之中，其中10輛提供給[龍運巴士](../Page/龍運巴士.md "wikilink")，除了全數使用Gorba電子路線顯示屏、 配用ZF 6HP592C波箱、使用Lazzerini座椅及下層並配置行李架之外，其他規格與[九巴的巴士相同](https://zh.wikipedia.org/wiki/九巴 "wikilink")，同樣由九巴屯門車廠負責組裝車身，全數已於2007年夏季至2008年春季投入服務，普通版車隊編號為701-709，半客車版為401（設有絲絨座椅）。2016年，龍運把401改為玫瑰花紋座椅皮套。
 
 401、701-707服役初期貼有"2007"字樣（全部已於2009年除下），而708、709則貼有"2008"字樣（全部已於2010年除下）。
 

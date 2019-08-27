@@ -1,4 +1,4 @@
-'''Wolfram Mathematica '''（简称：Mathematica）是一款符号计算软件，有时候也被称为计算机代数系统，广泛使用于科学、工程、数学、计算等领域。
+'''Wolfram Mathematica '''（简称：Mathematica）是一款科学计算软件，有时候也被称为计算机代数系统，广泛使用于科学、工程、数学、计算等领域。
 
 它是由[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[科学家](https://zh.wikipedia.org/wiki/科学家 "wikilink")[斯蒂芬·沃尔夫勒姆提出构想](https://zh.wikipedia.org/wiki/斯蒂芬·沃尔夫勒姆 "wikilink")，并且由他所领导的[沃尔夫勒姆研究公司](../Page/沃尔夫勒姆研究公司.md "wikilink")（位于美国伊利诺伊州香槟市）开发的一款广泛使用的科学计算软件\[1\]\[2\]。它拥有强大的数值计算和符号运算能力，是目前为止使用最广泛的[数学软件之一](https://zh.wikipedia.org/wiki/数学软件 "wikilink")。
 

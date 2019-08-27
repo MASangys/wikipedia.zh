@@ -255,6 +255,21 @@ docomo共有**約7,536萬**用戶，在日本國內手機市場的市場佔有�
   - 2012年3月：6000萬用戶
   - 2016年2月：7000萬用戶
 
+#### LTE頻段
+
+  - FDD-LTE 2100MHz(Band 1)
+  - FDD-LTE 1800MHz(Band 3)
+  - FDD-LTE 800MHz(Band 19)
+  - FDD-LTE 1500MHz(Band 21)
+  - FDD-LTE 700MHz(Band 28)
+  - TDD-LTE 3400MHz～3600MHz(Band 42)
+
+#### WCDMA頻段
+
+  - FDD-UMTS 2100MHz(Band 1)
+  - FDD-UMTS 800MHz(Band 6)
+  - FDD-UMTS 800MHz(Band 19)
+
 #### 郵件和i mode服務
 
 docomo於1997年12月開始提供「10元郵件」（）服務（2008年2月結束），1999年2月開始提供「[i mode](../Page/I-mode.md "wikilink")」服務\[16\]。這兩項服務廣受好評，提高了docomo的市場佔有率。

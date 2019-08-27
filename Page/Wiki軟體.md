@@ -12,7 +12,7 @@
       -
         [IIS](https://zh.wikipedia.org/wiki/Internet_Information_Services "wikilink") + PHP + MySQL亦可執行，但是部份源碼的的參數需要修改（參見[meta的說明](https://zh.wikipedia.org/wiki/:meta:Installing_MediaWiki_on_Windows_Server_2003_SP1#9._Fix_the_script_error "wikilink")）
     <!-- end list -->
-      - 最新版本：1.30.0
+      - 最新版本：1.33.0
   - [SushiWiki](https://zh.wikipedia.org/wiki/SushiWiki "wikilink")：用[C\#開發的WikiClone](../Page/C♯.md "wikilink")，中文支持較好。
       - 安裝需求：IIS + [ASP.Net](https://zh.wikipedia.org/wiki/ASP.Net "wikilink") +（可選的數據庫伺服器）
       - 最新版本：V1 RC2
@@ -24,7 +24,7 @@
       - 安裝需求：IIS + [ASP](../Page/Active_Server_Pages.md "wikilink") 不需要數據庫
   - [JspWiki](https://zh.wikipedia.org/wiki/JspWiki "wikilink") 是一套非常容易安裝的系統，支持JSP腳本
       - 安裝需求：JDK + [tomcat](../Page/Apache_Tomcat.md "wikilink")
-  - [OpenWiki 2004是一款非常出色的WIKI引擎](https://zh.wikipedia.org/wiki/OpenWiki_2004 "wikilink")，基於ASP開發，而目前ASP的WIKI引擎數量稀少，因此OpenWiki無疑是基於IIS+ASP的伺服器的首選。支持中文（一般）。
+  - [OpenWiki 2004是一款非常出色的WIKI引擎](https://zh.wikipedia.org/wiki/OpenWiki_2004 "wikilink")，基於ASP開發。支持中文（一般）。
       - 安裝需求：IIS + ASP + ODBC
   - [WikkiTikkiTavi](https://zh.wikipedia.org/wiki/WikkiTikkiTavi "wikilink")：小巧輕快的 Tavi 系統
       - 安裝需求：PHP + MySQL

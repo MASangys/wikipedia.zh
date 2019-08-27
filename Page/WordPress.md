@@ -393,7 +393,7 @@ WordPress也由社群开发，他们中包括了測試者。测试者测试[每�
 
 {{-}}
 
-[Category:內容管理系統](https://zh.wikipedia.org/wiki/Category:內容管理系統 "wikilink") [Category:網誌軟體](https://zh.wikipedia.org/wiki/Category:網誌軟體 "wikilink") [Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink")
+[Category:Automattic](https://zh.wikipedia.org/wiki/Category:Automattic "wikilink") [Category:內容管理系統](https://zh.wikipedia.org/wiki/Category:內容管理系統 "wikilink") [Category:網誌軟體](https://zh.wikipedia.org/wiki/Category:網誌軟體 "wikilink") [Category:PHP](https://zh.wikipedia.org/wiki/Category:PHP "wikilink")
 
 1.
 

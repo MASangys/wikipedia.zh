@@ -2627,11 +2627,11 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
-<td><p>SMAP'92「やってきましたお正月</p></td>
-<td><p>」</p></td>
+<td><p>SMAP'92「过年了！」</p></td>
 <td><p>巡回演唱会</p></td>
 <td><p>1月1日 - <a href="../Page/1月7日.md" title="wikilink">1月7日</a></p></td>
 <td><p>3个场地、公演数不明</p></td>
+<td><p>CD出道後的第一次巡迴演唱會。</p></td>
 </tr>
 <tr class="even">
 <td><p>日本武道馆、、</p></td>
@@ -2646,11 +2646,11 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 <td><p>巡回演唱会</p></td>
 <td><p><a href="../Page/3月21日.md" title="wikilink">3月21日</a> - <a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></td>
 <td><p>6个场地、公演数不明</p></td>
-<td><p>第一次於<a href="https://zh.wikipedia.org/wiki/東京、名古屋、大阪" title="wikilink">東京、名古屋、大阪以外的地方公演</a><a href="https://zh.wikipedia.org/wiki/巡迴演唱會" title="wikilink">巡迴演唱會</a>。<a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京的公演為緊急追加之公演</a>。</p></td>
+<td><p>第一次於<a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京</a>、<a href="https://zh.wikipedia.org/wiki/名古屋" title="wikilink">名古屋</a>、<a href="https://zh.wikipedia.org/wiki/大阪" title="wikilink">大阪以外的地方公演</a><a href="https://zh.wikipedia.org/wiki/巡迴演唱會" title="wikilink">巡迴演唱會</a>。<a href="https://zh.wikipedia.org/wiki/東京" title="wikilink">東京的公演為緊急追加之公演</a>。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>、<a href="https://zh.wikipedia.org/wiki/宫城県民会馆" title="wikilink">宫城県民会馆</a>、<a href="https://zh.wikipedia.org/wiki/かつしかシンフォニーヒルズ" title="wikilink">かつしかシンフォニーヒルズ</a>、<a href="https://zh.wikipedia.org/wiki/京都会馆" title="wikilink">京都会馆</a>、<a href="https://zh.wikipedia.org/wiki/アステールプラザ" title="wikilink">広岛アステールプラザ</a>、<a href="https://zh.wikipedia.org/wiki/福冈市民会馆" title="wikilink">福冈市民会馆</a></p></td>
+<td><p>、<a href="https://zh.wikipedia.org/wiki/宫城県民会馆" title="wikilink">宫城県民会馆</a>、葛飾区文化会館、<a href="https://zh.wikipedia.org/wiki/京都会馆" title="wikilink">京都会馆</a>、JMS Aster Plaza、<a href="https://zh.wikipedia.org/wiki/福冈市民会馆" title="wikilink">福冈市民会馆</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2658,7 +2658,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>SMAP'92 SUMMER CONCERT "负けるなBaby!"</p></td>
+<td><p>SMAP'92 SUMMER CONCERT "不要放棄Baby!"</p></td>
 <td><p>巡回演唱会</p></td>
 <td><p><a href="../Page/8月26日.md" title="wikilink">8月26日</a> - <a href="../Page/8月31日.md" title="wikilink">8月31日</a></p></td>
 <td><p>3个场地、公演数不明</p></td>
@@ -2666,7 +2666,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 <td></td>
 </tr>
 <tr class="even">
-<td><p>日本武道馆、<a href="https://zh.wikipedia.org/wiki/名古屋レインボーホール" title="wikilink">名古屋レインボーホール</a>、<a href="https://zh.wikipedia.org/wiki/大阪城ホール" title="wikilink">大阪城ホール</a></p></td>
+<td><p>日本武道馆、、<a href="https://zh.wikipedia.org/wiki/大阪城展演廳" title="wikilink">大阪城展演廳</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2706,11 +2706,11 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>梦がMORI MORI Spring Concert</p></td>
-<td><p>イベント</p></td>
+<td><p>夢MORI MORI Spring Concert</p></td>
+<td><p>特別演唱會</p></td>
 <td><p><a href="../Page/3月5日.md" title="wikilink">3月5日</a></p></td>
 <td><p>1个场地1公演</p></td>
-<td><p>因企劃『<a href="https://zh.wikipedia.org/wiki/梦がMORI_MORI" title="wikilink">梦がMORI MORI</a>』而舉行的特別公演。同電視節目組的<a href="../Page/森口博子.md" title="wikilink">森口博子</a>、<a href="https://zh.wikipedia.org/wiki/森胁健児" title="wikilink">森胁健児也參與演出</a>。</p></td>
+<td><p>因企劃『<a href="https://zh.wikipedia.org/wiki/夢MORI_MORI" title="wikilink">夢MORI MORI</a>』而舉行的特別公演。同電視節目組的<a href="../Page/森口博子.md" title="wikilink">森口博子</a>、<a href="https://zh.wikipedia.org/wiki/森胁健児" title="wikilink">森胁健児也參與演出</a>。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2730,7 +2730,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 <td></td>
 </tr>
 <tr class="even">
-<td><p>、<a href="https://zh.wikipedia.org/wiki/仙台サンプラザ" title="wikilink">仙台サンプラザ</a>、<a href="https://zh.wikipedia.org/wiki/大宫ソニックシティ" title="wikilink">大宫ソニックシティ</a>、<a href="https://zh.wikipedia.org/wiki/神奈川県民ホール" title="wikilink">神奈川県民ホール</a>、<a href="https://zh.wikipedia.org/wiki/静冈市民文化会馆" title="wikilink">静冈市民文化会馆</a>、京都会馆、<a href="https://zh.wikipedia.org/wiki/神戸国际会馆" title="wikilink">神戸国际会馆</a>、広岛アステールプラザ、<a href="https://zh.wikipedia.org/wiki/福冈サンパレス" title="wikilink">福冈サンパレス</a></p></td>
+<td><p>、<a href="https://zh.wikipedia.org/wiki/仙台太陽廣場" title="wikilink">仙台太陽廣場</a>、<a href="https://zh.wikipedia.org/wiki/SONIC_CITY" title="wikilink">SONIC CITY</a>、<a href="https://zh.wikipedia.org/wiki/神奈川縣民音樂廳" title="wikilink">神奈川縣民音樂廳</a>、<a href="https://zh.wikipedia.org/wiki/静冈市民文化会馆" title="wikilink">静冈市民文化会馆</a>、京都会馆、<a href="https://zh.wikipedia.org/wiki/神戸国际会馆" title="wikilink">神戸国际会馆</a>、JMS Aster Plaza、<a href="https://zh.wikipedia.org/wiki/福岡太陽宮" title="wikilink">福岡太陽宮</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2746,7 +2746,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 <td><p>於1天內在東京舉行了6次公演。大阪城展演廳則為追加的公演。</p></td>
 </tr>
 <tr class="even">
-<td><p>日本武道馆、爱知厚生年金会馆、大阪城ホール、大阪厚生年金会馆</p></td>
+<td><p>日本武道馆、爱知厚生年金会馆、大阪城展演廳、大阪厚生年金会馆</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2754,11 +2754,11 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>梦がMORI MORI Spring Concert'94</p></td>
-<td><p>イベント</p></td>
+<td><p>夢MORI MORI Spring Concert'94</p></td>
+<td><p>特別演唱會</p></td>
 <td><p><a href="../Page/3月9日.md" title="wikilink">3月9日</a></p></td>
 <td><p>1个场地1公演</p></td>
-<td><p>因企劃『梦がMORI MORI』而舉辦的第2彈特別演唱會。森口博子、森胁健児也和前次一樣參與演出。</p></td>
+<td><p>因企劃『夢MORI MORI』而舉辦的第2彈特別演唱會。森口博子、森胁健児也和前次一樣參與演出。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2770,7 +2770,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>SPRING CONCERT 1994 "Hey Hey おおきに毎度あり"</p></td>
+<td><p>SPRING CONCERT 1994 "Hey Hey 謝謝光臨"</p></td>
 <td><p>巡回演唱会</p></td>
 <td><p><a href="../Page/4月30日.md" title="wikilink">4月30日</a> - <a href="../Page/5月8日.md" title="wikilink">5月8日</a></p></td>
 <td><p>4个场地、公演数不明</p></td>
@@ -2778,7 +2778,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/东京厚生年金会馆" title="wikilink">东京厚生年金会馆</a>、<a href="https://zh.wikipedia.org/wiki/横滨体育馆" title="wikilink">横滨体育馆</a>、爱知厚生年金会馆、<a href="https://zh.wikipedia.org/wiki/万博记念公园#かつて存在した施设" title="wikilink">大阪万博ホール</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/东京厚生年金会馆" title="wikilink">东京厚生年金会馆</a>、<a href="https://zh.wikipedia.org/wiki/横滨体育馆" title="wikilink">横滨体育馆</a>、爱知厚生年金会馆、<a href="https://zh.wikipedia.org/wiki/萬博紀念公園" title="wikilink">萬博紀念公園</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2790,11 +2790,11 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 <td><p>巡回演唱会</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/7月24日" title="wikilink">7月24日</a> - <a href="../Page/8月30日.md" title="wikilink">8月30日</a></p></td>
 <td><p>13个场地64公演</p></td>
-<td><p>初の<a href="https://zh.wikipedia.org/wiki/东名阪" title="wikilink">东名阪を交えた本格的な全国巡回演唱会</a>。</p></td>
+<td><p>首次在東京、名古屋及大阪举行真正的全国巡回演唱会。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>北海道厚生年金会馆、仙台サンプラザ、<a href="https://zh.wikipedia.org/wiki/群马県民会馆" title="wikilink">群马県民会馆</a>、日本武道馆、<a href="https://zh.wikipedia.org/wiki/新潟テルサ" title="wikilink">新潟テルサ</a>、<a href="https://zh.wikipedia.org/wiki/北陆电力会馆_本多の森ホール" title="wikilink">石川厚生年金会馆</a>、<a href="https://zh.wikipedia.org/wiki/名古屋市公会堂" title="wikilink">名古屋市公会堂</a>、<a href="https://zh.wikipedia.org/wiki/南座" title="wikilink">京都南座</a>、大阪厚生年金会馆、<a href="https://zh.wikipedia.org/wiki/広岛県立文化芸术ホール" title="wikilink">広岛メルパルクホール</a>、福冈サンパレス、<a href="https://zh.wikipedia.org/wiki/长崎市公会堂" title="wikilink">长崎市公会堂</a>、<a href="https://zh.wikipedia.org/wiki/鹿児岛県文化センター" title="wikilink">鹿児岛県文化センター</a></p></td>
+<td><p>北海道厚生年金会馆、仙台太陽廣場、群馬縣立館、日本武道館、新潟Tersa、石川Kosei養老館，名古屋市公共館，京都南座，大阪養生館，廣島Merparque館，福岡太陽宮，長崎市公共館，鹿兒島縣文化中心</p></td>
 <td></td>
 <td></td>
 <td></td>

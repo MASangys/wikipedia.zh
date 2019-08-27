@@ -2,7 +2,7 @@
 
 ## 歷史
 
-**Palm**在1993年由[傑夫·霍金](https://zh.wikipedia.org/wiki/傑夫·霍金 "wikilink")（Jeff Hawkins）和Donna Dubinsky共同创立。1994年，Jeff Hawkins发明了一种称为“[fitfitchocolate](../Page/Graffiti_英文手寫輸入法.md "wikilink")”的[手写输入方法](https://zh.wikipedia.org/wiki/手写输入方法 "wikilink")，只需简单的学习，人们就能很快掌握书写规则，在掌上电脑上可以达到几乎和正常手写一样的识别速度和识别正确率，这样便有效的解决了掌上电脑上的手写识别问题（比如[Apple Newton](../Page/Apple_Newton.md "wikilink")），因此Graffiti在Newton用户中很受欢迎。
+**Palm**在1993年由[傑夫·霍金](https://zh.wikipedia.org/wiki/傑夫·霍金 "wikilink")（Jeff Hawkins）和Donna Dubinsky共同创立。1994年，Jeff Hawkins发明了一种称为“[fitfitchocolate](../Page/Graffiti_\(Palm_OS\).md "wikilink")”的[手写输入方法](https://zh.wikipedia.org/wiki/手写输入 "wikilink")，只需简单的学习，人们就能很快掌握书写规则，在掌上电脑上可以达到几乎和正常手写一样的识别速度和识别正确率，这样便有效的解决了掌上电脑上的手写识别问题（比如[Apple Newton](../Page/Apple_Newton.md "wikilink")），因此Graffiti在Newton用户中很受欢迎。
 
 同年，Hawkins开始了他第一部掌上电脑的设计构想，其实那个时候他的设想只是一个简单的电子助理－[Organizer](https://zh.wikipedia.org/wiki/Organizer "wikilink")。在他的构想中，这样一部电子助理应该具备以下几个特点：
 
@@ -17,9 +17,7 @@
 
 第一代Palm 中文系統由[香港人](../Page/香港人.md "wikilink")（Water Lou）編寫，解決Palm不能閱讀中文的問題，系統開始在港台、以至中國大陸流行。在中国大陆，Palm的中文系统主要由[杜永涛编写的](https://zh.wikipedia.org/wiki/杜永涛 "wikilink")[CJKOS覆盖](https://zh.wikipedia.org/wiki/CJKOS "wikilink")。在台湾，则是[掌龙中文](https://zh.wikipedia.org/wiki/掌龙中文 "wikilink")。
 
-同年，[3Com](../Page/3Com.md "wikilink")收购了US Robotics公司。Jeff Hawkins和Donna Dubinsky感到發展受局限，於是離巢自組公司[HandSpring](https://zh.wikipedia.org/wiki/HandSpring "wikilink")，開發掌上電腦。
-
-1997年底，Palm开始授权Palm OS给[IBM](../Page/IBM.md "wikilink")、HandSpring及[Sony等公司](https://zh.wikipedia.org/wiki/Sony "wikilink")，生產採用Palm OS的產品，但後期不少廠商，例如IBM及Sony因掌上電腦前景未如理想，放棄繼續授權。
+同年，[3Com](../Page/3Com.md "wikilink")收购了US Robotics公司。Jeff Hawkins和Donna Dubinsky感到發展受局限，於是離巢自組公司[HandSpring](https://zh.wikipedia.org/wiki/HandSpring "wikilink")，開發掌上電腦。 =IT 1997年底，Palm开始授权Palm OS给[IBM](../Page/IBM.md "wikilink")、HandSpring及[Sony等公司](https://zh.wikipedia.org/wiki/Sony "wikilink")，生產採用Palm OS的產品，但後期不少廠商，例如IBM及Sony因掌上電腦前景未如理想，放棄繼續授權。
 
 此後數年，掌上電腦經歷了一段高增長期，但由於其他數碼產品，例如[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")、[多媒體播放器及](https://zh.wikipedia.org/wiki/多媒體播放器 "wikilink")[手提遊戲機的競爭](https://zh.wikipedia.org/wiki/手提遊戲機 "wikilink")，掌上電腦的受歡迎程度開始下降。
 
@@ -43,7 +41,7 @@ Palm一拆為二後，PalmOne在純掌上電腦的產品銷量、市場佔有率
 
 ## 硬件發展
 
-早期Palm硬件十分簡單，顯示屏只有黑白，並全部採用[摩托羅拉龍珠處理器](https://zh.wikipedia.org/wiki/摩托羅拉龍珠處理器 "wikilink")。後來Palm的型號已不再採用龍珠處理器，而是採用與[PPC相同的](https://zh.wikipedia.org/wiki/PPC "wikilink")[RISC處理器](https://zh.wikipedia.org/wiki/RISC "wikilink")。採用的處理器廠商包括[德州儀器及](https://zh.wikipedia.org/wiki/德州儀器 "wikilink")[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")。其擴充能力亦大為增強，[紅外線與](https://zh.wikipedia.org/wiki/紅外線 "wikilink")[藍芽成為基本配備](https://zh.wikipedia.org/wiki/藍芽 "wikilink")，大部分型號採用彩色顯示屏，並設有[SD卡擴充槽](https://zh.wikipedia.org/wiki/SD "wikilink")，後期推出用[Windows Mobile作業系統的](../Page/Windows_Mobile.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[Treo Pro](https://zh.wikipedia.org/wiki/Treo_Pro "wikilink") 更有[AGPS及](https://zh.wikipedia.org/wiki/AGPS "wikilink")[Wifi](https://zh.wikipedia.org/wiki/Wifi "wikilink")。
+早期Palm硬件十分簡單，顯示器只有黑白，並全部採用[摩托羅拉龍珠處理器](https://zh.wikipedia.org/wiki/摩托羅拉龍珠處理器 "wikilink")。後來Palm的型號已不再採用龍珠處理器，而是採用與[PPC相同的](https://zh.wikipedia.org/wiki/PPC "wikilink")[RISC處理器](https://zh.wikipedia.org/wiki/RISC "wikilink")。採用的處理器廠商包括[德州儀器及](https://zh.wikipedia.org/wiki/德州儀器 "wikilink")[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")。其擴充能力亦大為增強，[紅外線與](https://zh.wikipedia.org/wiki/紅外線 "wikilink")[藍芽成為基本配備](https://zh.wikipedia.org/wiki/藍芽 "wikilink")，大部分型號採用彩色顯示器，並設有[SD卡擴充槽](https://zh.wikipedia.org/wiki/SD "wikilink")，後期推出用[Windows Mobile作業系統的](../Page/Windows_Mobile.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")[Treo Pro](https://zh.wikipedia.org/wiki/Treo_Pro "wikilink") 更有[AGPS及](https://zh.wikipedia.org/wiki/AGPS "wikilink")[Wifi](https://zh.wikipedia.org/wiki/Wifi "wikilink")。
 
 2004年11月2日 PalmOne发布Tungsten T5 掌上电脑，拥有256M[快閃記憶體](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")，是當時市场上存储量最大的掌上电脑的两倍。
 
@@ -57,11 +55,15 @@ Palm一拆為二後，PalmOne在純掌上電腦的產品銷量、市場佔有率
 
 2009年1月9日 Palm於[CES公佈其新一代作業系統](https://zh.wikipedia.org/wiki/CES "wikilink")[webOS](https://zh.wikipedia.org/wiki/webOS "wikilink")（之前代號Nova）及新機[Palm Pre](../Page/Palm_Pre.md "wikilink")。
 
-2010年4月 Palm智能手机市场在受[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink"), [Android](../Page/Android.md "wikilink")和[RIM的冲击下极具萎缩](https://zh.wikipedia.org/wiki/Research_In_Motion "wikilink")，严重缺乏资金，不得已宣布出售其所有公司业务。最终惠普（HP）以12亿美元的巨资购得Palm。
+2010年4月 Palm智能手机市场在受[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink"), [Android](../Page/Android.md "wikilink")和[RIM的冲击下极具萎缩](https://zh.wikipedia.org/wiki/Research_In_Motion "wikilink")，严重缺乏资金，不得已宣布出售其所有公司业务。最终[惠普](../Page/惠普.md "wikilink")以12亿美元的巨资购得Palm。
+
+2014年10月，惠普公司将Palm品牌出售给中国的[TCL集团](../Page/TCL集团.md "wikilink")。
+
+2018年10月，[TCL集团](../Page/TCL集团.md "wikilink")将Palm品牌授权给前三星设计副总裁Dennis Miloseski和Howard Nuk，在他们的主导下聯合[威瑞森推出搭载Android](https://zh.wikipedia.org/wiki/威瑞森 "wikilink") 8.1，屏幕只有3.3寸的全新Palm智能手机。
 
 ## Palm所推出產品
 
-（Windows Mobile手機多由[HTC代工](https://zh.wikipedia.org/wiki/HTC "wikilink")）
+（[Windows Mobile手機多由](../Page/Windows_Mobile.md "wikilink")[HTC代工](https://zh.wikipedia.org/wiki/HTC "wikilink")）
 
 |             |                                                                                                                       |                                                         |
 | ----------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
@@ -107,7 +109,7 @@ Palm一拆為二後，PalmOne在純掌上電腦的產品銷量、市場佔有率
 
 ## 參見
 
-  - [Graffiti 英文手寫輸入法](../Page/Graffiti_英文手寫輸入法.md "wikilink")
+  - [Graffiti (Palm OS)](../Page/Graffiti_\(Palm_OS\).md "wikilink")
   - [掌上电脑](https://zh.wikipedia.org/wiki/掌上电脑 "wikilink")
   - [Apple Newton](../Page/Apple_Newton.md "wikilink")
   - [Android](../Page/Android.md "wikilink")

@@ -34,7 +34,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/嗣永桃子.md" title="wikilink">嗣永桃子</a></p></td>
-<td><p>つぐなが ももち</p></td>
+<td><p>つぐなが ももこ</p></td>
 <td></td>
 <td></td>
 <td><p>O型</p></td>
@@ -159,7 +159,7 @@
 
 ### 2014年
 
-  - 4月2日 - Berryz工房受邀出演[Mnet音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")[M\! Countdown於日本](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")[橫濱體育館](../Page/橫濱體育館.md "wikilink")舉行的大型韓流演唱會《M\!Countdown No.1 Artist of Spring 2014》，與多位人氣歌手如[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")、[4minute](../Page/4minute.md "wikilink")、[MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")、[Girl's Day](../Page/Girl's_Day.md "wikilink")、[Block B](../Page/Block_B.md "wikilink")、[鄭奇高同場演出](https://zh.wikipedia.org/wiki/鄭奇高 "wikilink")。
+  - 4月2日 - Berryz工房受邀出演[Mnet](../Page/Mnet.md "wikilink")音樂節目[M\! Countdown於日本](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")[橫濱體育館](../Page/橫濱體育館.md "wikilink")舉行的大型韓流演唱會《M\!Countdown No.1 Artist of Spring 2014》，與多位人氣歌手如[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")、[4minute](../Page/4minute.md "wikilink")、[MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")、[Girl's Day](../Page/Girl's_Day.md "wikilink")、[Block B](../Page/Block_B.md "wikilink")、[鄭奇高同場演出](https://zh.wikipedia.org/wiki/鄭奇高 "wikilink")。
   - 8月2日 - 在[中野太陽廣場](../Page/中野太陽廣場.md "wikilink")舉辦的夏季音樂會「Hello\! Project 2014 SUMMER ～KOREZO\!～」宣布，自2015春季開始將無限期停止活動。\[4\]Berryz工房的官方網站發出公告，因團員將踏上各自的未來，所以團體活動將劃下句點，該團的監督淳君表示，這是與團員討論後的結果。\[5\]
 
 ### 2015年

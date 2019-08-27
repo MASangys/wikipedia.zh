@@ -1,4 +1,4 @@
-**亞歷山大丹尼士Enviro 500**（**Alexander Dennis Enviro 500**，前稱**TransBus Enviro 500**）是一款由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[亞歷山大丹尼士](../Page/亞歷山大丹尼士.md "wikilink")（及其前身TransBus International）生產的3軸雙層巴士，它也是亞歷山大丹尼士製造的其中一款Enviro系列巴士。基於生產底盤的丹尼士與生產車身的亞歷山大已經合併，Enviro 500被作為[丹尼士三叉戟三型](../Page/丹尼士三叉戟三型.md "wikilink")的後繼產品，Enviro 500是根據英國政府和[歐洲汽車尾氣排放標準製造](https://zh.wikipedia.org/wiki/歐洲汽車尾氣排放標準 "wikilink")，並按照[香港](../Page/香港.md "wikilink")使用三叉戟型的經驗進行改良，本型巴士後來被進一步發展為[亞歷山大丹尼士Enviro 500 MMC](../Page/亞歷山大丹尼士Enviro_500_MMC.md "wikilink")。
+**亞歷山大丹尼士Enviro 500**（**英語：Alexander Dennis Enviro 500**，前稱**TransBus Enviro 500**）是一款由[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[亞歷山大丹尼士](../Page/亞歷山大丹尼士.md "wikilink")（及其前身TransBus International）生產的3軸雙層巴士，它也是亞歷山大丹尼士製造的其中一款Enviro系列巴士。基於生產底盤的丹尼士與生產車身的亞歷山大已經合併，Enviro 500被作為[丹尼士三叉戟三型](../Page/丹尼士三叉戟三型.md "wikilink")的後繼產品，Enviro 500是根據英國政府和[歐洲汽車尾氣排放標準製造](https://zh.wikipedia.org/wiki/歐洲汽車尾氣排放標準 "wikilink")，並按照[香港](../Page/香港.md "wikilink")使用三叉戟型的經驗進行改良。本型巴士後來被進一步發展為[亞歷山大丹尼士Enviro 500 MMC](../Page/亞歷山大丹尼士Enviro_500_MMC.md "wikilink")。
 
 ## 設計
 
@@ -47,7 +47,7 @@ Enviro 500 MK II 車身亦可以安裝在[富豪B9TL](../Page/富豪B9TL.md "wik
 
 ### 九龍巴士
 
-[ATE_staircase.jpg](https://zh.wikipedia.org/wiki/File:ATE_staircase.jpg "fig:ATE_staircase.jpg") [ATE15_at_Kai_Shing_St,_Shing_Kai_Rd_(20190502134042).jpg](https://zh.wikipedia.org/wiki/File:ATE15_at_Kai_Shing_St,_Shing_Kai_Rd_\(20190502134042\).jpg "fig:ATE15_at_Kai_Shing_St,_Shing_Kai_Rd_(20190502134042).jpg")其中一輛舊款車身的Enviro 500雙層巴士，被巴士迷暱稱「舊直」\]\] [ATE267_at_Ta_Kwu_Ling,_Tsung_Yuen_Ha_(20190318154615).jpg](https://zh.wikipedia.org/wiki/File:ATE267_at_Ta_Kwu_Ling,_Tsung_Yuen_Ha_\(20190318154615\).jpg "fig:ATE267_at_Ta_Kwu_Ling,_Tsung_Yuen_Ha_(20190318154615).jpg")其中一輛改良車身的Enviro 500雙層巴士。因車頭像微笑，亦被巴士迷暱稱「笑直」\]\] [MJ2927_104.jpg](https://zh.wikipedia.org/wiki/File:MJ2927_104.jpg "fig:MJ2927_104.jpg") [KMB_RE0508_32.jpg](https://zh.wikipedia.org/wiki/File:KMB_RE0508_32.jpg "fig:KMB_RE0508_32.jpg") 九龍巴士擁有全球最多數量的Enviro 500，數量達312輛（包括ATE1-271、ATEU1-36、ATEE1-5）。
+[ATE_staircase.jpg](https://zh.wikipedia.org/wiki/File:ATE_staircase.jpg "fig:ATE_staircase.jpg") [ATE15_at_Kai_Shing_St,_Shing_Kai_Rd_(20190502134042).jpg](https://zh.wikipedia.org/wiki/File:ATE15_at_Kai_Shing_St,_Shing_Kai_Rd_\(20190502134042\).jpg "fig:ATE15_at_Kai_Shing_St,_Shing_Kai_Rd_(20190502134042).jpg")其中一輛舊款車身的Enviro 500雙層巴士，被巴士迷暱稱「舊直」\]\] [ATE267_at_Ta_Kwu_Ling,_Tsung_Yuen_Ha_(20190318154615).jpg](https://zh.wikipedia.org/wiki/File:ATE267_at_Ta_Kwu_Ling,_Tsung_Yuen_Ha_\(20190318154615\).jpg "fig:ATE267_at_Ta_Kwu_Ling,_Tsung_Yuen_Ha_(20190318154615).jpg")其中一輛改良車身的Enviro 500雙層巴士。因車頭像微笑，亦被巴士迷暱稱「笑直」\]\] [MM2535-ATE258-299X.jpg](https://zh.wikipedia.org/wiki/File:MM2535-ATE258-299X.jpg "fig:MM2535-ATE258-299X.jpg") [KMB_RE0508_32.jpg](https://zh.wikipedia.org/wiki/File:KMB_RE0508_32.jpg "fig:KMB_RE0508_32.jpg") 九龍巴士擁有全球最多數量的Enviro 500，數量達312輛（包括ATE1-271、ATEU1-36、ATEE1-5）。
 
 第一代Enviro 500是[九龍巴士](../Page/九龍巴士.md "wikilink")旗下第2代[超低地台巴士的首款車型](https://zh.wikipedia.org/wiki/超低地台巴士 "wikilink")，亦是第一款採用直樓梯的車型，樓梯設計有別於過往香港巴士普遍採用的彎曲樓梯，因此九巴稱之為「**超直巴士**」。新車首次採用[玫瑰](../Page/玫瑰.md "wikilink")花紋椅套的座椅，車身塗裝除了以既定的低地台巴士香檳金色作底色外，同時加以棕色作為車身裙腳，以區別首代超低地台巴士。現時此型巴士多被派往高客量的路線上行走。
 
@@ -195,7 +195,7 @@ ATE180（LN5481）於2008年3月31日天水圍車廠火警中焚毀而退役。
 
 #### 4020-4039
 
-2009年6月，新創建集團為新巴購買20輛歐盟5型引擎的Enviro 500巴士，同樣是屬於較短的11.3米版本。巴士車隊編號定為4020-4039，規格與4000-4019大致相同，惟波箱改為ZF 6HP604C，並加裝Topodyn節能程式。車輛沿用曲梯設計及兩個油缸，但上層車頭改用新款路訊通顯示器組件，下層電視屏幕預留更大空間，而下層輪椅位置新增一條扶手。外觀方面，油缸及[AdBlue入口不設掩蓋](https://zh.wikipedia.org/wiki/AdBlue "wikilink")。這批巴士繼續由深圳五洲龍汽車負責組裝車身，並於2010年3月中至4月底全數出牌並投入服務，用以取代其中8部因年事已高而退役的[丹尼士禿鷹](https://zh.wikipedia.org/wiki/丹尼士巨龍/禿鷹巴士 "wikilink")（DA37-40、46、50、52、54）巴士，另填補因開辦[人力車觀光巴士](../Page/人力車觀光巴士.md "wikilink")而改裝的[富豪奧林比安](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")（VA51-55）巴士而流失的車源。該批巴士投入服務初期主要行走2、2A、8、23、109、722、8P、113、904、641線，直至2012年下旬才擴展至南區路線行走。
+2009年6月，新創建集團為新巴購買20輛歐盟5型引擎的Enviro 500巴士，同樣是屬於較短的11.3米版本。巴士車隊編號定為4020-4039，規格與4000-4019大致相同，惟波箱改為ZF 6HP604C，並加裝Topodyn節能程式。車輛沿用曲梯設計及兩個油缸，但上層車頭改用新款路訊通顯示器組件，下層電視屏幕預留更大空間，而下層輪椅位置新增一條扶手。外觀方面，油缸及[AdBlue入口不設掩蓋](https://zh.wikipedia.org/wiki/AdBlue "wikilink")。這批巴士繼續由深圳五洲龍汽車負責組裝車身，並於2010年3月中至4月底全數出牌並投入服務，用以取代其中8部因年事已高而退役的[丹尼士禿鷹](https://zh.wikipedia.org/wiki/丹尼士巨龍/禿鷹巴士 "wikilink")（DA37-40、46、50、52、54）巴士，另填補因開辦[人力車觀光巴士](../Page/人力車觀光巴士.md "wikilink")而改裝的[富豪奧林比安](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")（VA51-55）巴士而流失的車源。該批巴士投入服務初期主要行走2、2A、8、23、109、722、8P、113、904、641線，直至2012年下半年才擴展至南區路線行走。
 
 4020-4039於2015年7月全數加設電子路線圖。
 

@@ -260,6 +260,13 @@
 <td><p>data-sort-value="2019.24" | 2019年24号</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>沦落者之夜</p></td>
+<td></td>
+<td><p>星野真</p></td>
+<td><p>data-sort-value="2019.36" | 2019年36・37合并号</p></td>
+<td><p>&lt;!--|-</p></td>
+</tr>
 </tbody>
 </table>
 

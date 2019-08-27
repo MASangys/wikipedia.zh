@@ -20,7 +20,7 @@ PSP原本打算同时在使用[PAL制式](../Page/PAL制式.md "wikilink")的区
 
 ## 硬件
 
-[Psp-1000.jpg](https://zh.wikipedia.org/wiki/File:Psp-1000.jpg "fig:Psp-1000.jpg")
+[Sony-PSP-1000-Body.jpg](https://zh.wikipedia.org/wiki/File:Sony-PSP-1000-Body.jpg "fig:Sony-PSP-1000-Body.jpg")
 
 PlayStation Portable使用常见的“[条形](../Page/手機規格.md "wikilink")”外形。最初的1000型号尺寸约为170×74×23毫米，重280克。机器正面有一块液晶屏幕，屏幕具有480×272像素的显示分辨率，并能够显示[24位真彩色](../Page/色彩深度.md "wikilink")，屏幕的显示效果优于任天堂DS。在机器的前面还有四个动作按钮（[三角形](https://zh.wikipedia.org/wiki/File:PlayStationTriangle.svg "fig:三角形"), [圆形](https://zh.wikipedia.org/wiki/File:PlayStationCircle.svg "fig:圆形"), [叉形](https://zh.wikipedia.org/wiki/File:PlayStationX.svg "fig:叉形"), [方向](https://zh.wikipedia.org/wiki/File:PlayStationSquare.svg "fig:方向")），一个方向按键，类比滑垫和其他几个按钮。机器顶部还有两个肩部按键及一个[USB 2.0 mini-B端口](../Page/USB.md "wikilink")，底部拥有[WLAN开关和电源线插口](../Page/无线局域网.md "wikilink")。PSP的背面配有一个只读的通用媒体光盘（UMD）驱动器，用于读取电影和游戏光盘，机身侧边还有一个支持索尼[Memory Stick PRO Duo](https://zh.wikipedia.org/wiki/Memory_Stick "wikilink")[存储卡的存储卡插槽](https://zh.wikipedia.org/wiki/存储卡 "wikilink")。PSP-1000拥有一个支持[IrDA的红外端口和一个两针电源接口](../Page/红外通讯技术.md "wikilink")（PSP-2000及更高型号已取消），内置立体声扬声器和耳机端口，还支持[IEEE 802.11b](../Page/IEEE_802.11b-1999.md "wikilink") [Wi-Fi](../Page/Wi-Fi.md "wikilink")，用于访问互联网，进行ad-hoc本地多人游戏和数据传输。\[34\]
 

@@ -1,8 +1,8 @@
-《**頭文字D**》（英語：**INITIAL D**，假名：**イニシャル・ディー** ）是一部以[山道](https://zh.wikipedia.org/wiki/山道 "wikilink")[競速為題材的](https://zh.wikipedia.org/wiki/競速 "wikilink")[日本](../Page/日本.md "wikilink")[青年漫畫](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，以及以[漫畫改編的](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[動畫系列](https://zh.wikipedia.org/wiki/動畫 "wikilink")（包含[電視版](https://zh.wikipedia.org/wiki/電視 "wikilink")、[OVA與](https://zh.wikipedia.org/wiki/OVA "wikilink")[電影版](https://zh.wikipedia.org/wiki/電影 "wikilink")）。漫畫作者為，自1995年起開始在[講談社的](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊Young Magazine](../Page/週刊Young_Magazine.md "wikilink")》上連載，連載至2013年7月結束，單行本全48卷，還有多本探討[汽車駕駛技巧的周邊專書](https://zh.wikipedia.org/wiki/汽車 "wikilink")。
+《**頭文字D**》（）是一部以[山道](https://zh.wikipedia.org/wiki/山道 "wikilink")[競速為題材的](https://zh.wikipedia.org/wiki/競速 "wikilink")[日本](../Page/日本.md "wikilink")[青年漫畫](https://zh.wikipedia.org/wiki/青年漫畫 "wikilink")，以及以[漫畫改編的](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[動畫系列](https://zh.wikipedia.org/wiki/動畫 "wikilink")（包含[電視版](https://zh.wikipedia.org/wiki/電視 "wikilink")、[OVA與](https://zh.wikipedia.org/wiki/OVA "wikilink")[電影版](https://zh.wikipedia.org/wiki/電影 "wikilink")）。漫畫作者為，自1995年起開始在[講談社的](https://zh.wikipedia.org/wiki/講談社 "wikilink")《[週刊Young Magazine](../Page/週刊Young_Magazine.md "wikilink")》上連載，連載至2013年7月結束，單行本全48卷，還有多本探討[汽車駕駛技巧的周邊專書](https://zh.wikipedia.org/wiki/汽車 "wikilink")。
 
 作者重野秀一決定結束在《周刊Young Magazine》上的連載，于2014年5月17日推出最後一話，為這部經典作品劃上句點。截至2013年，全系列漫畫單行本累積發行量約為4800萬本，相關CD為700,000張，DVD為500,000片\[1\]。
 
-漫畫《[MF GHOST](../Page/MF_GHOST.md "wikilink")》為重野秀一在2013年完結《頭文字D》時隔4年後於《周刊Young Magazine》上再度連載的新賽車作品\[2\]。
+《[MF GHOST](../Page/MF_GHOST.md "wikilink")》為重野秀一在2013年《頭文字D》完結時隔4年後於《周刊Young Magazine》上再度連載的新賽車作品\[2\]。
 
 ## 概要
 
@@ -160,6 +160,291 @@
 
 在下坡時，盡不踩[油門和](https://zh.wikipedia.org/wiki/油門 "wikilink")[煞車](../Page/煞車.md "wikilink")，靠[重力來](https://zh.wikipedia.org/wiki/重力 "wikilink")[加速](https://zh.wikipedia.org/wiki/加速 "wikilink")。這是響尾蛇車隊的年輕天才車手乾信司獨特的駕駛技術。
 
+## 出版書籍
+
+<table>
+<thead>
+<tr class="header">
+<th><p>卷數</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/尖端出版社" title="wikilink">尖端出版社</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>1995年11月2日</p></td>
+<td><p>ISBN 978-4-06-323567-8</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>1996年2月3日</p></td>
+<td><p>ISBN 978-4-06-323583-8</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>1996年5月2日</p></td>
+<td><p>ISBN 978-4-06-323598-2</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>1996年8月3日</p></td>
+<td><p>ISBN 978-4-06-336613-6</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>1996年12月4日</p></td>
+<td><p>ISBN 978-4-06-336637-2</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>1997年2月4日</p></td>
+<td><p>ISBN 978-4-06-336650-1</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>1997年6月4日</p></td>
+<td><p>ISBN 978-4-06-336670-9</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>1997年9月3日</p></td>
+<td><p>ISBN 978-4-06-336686-0</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>1997年12月3日</p></td>
+<td><p>ISBN 978-4-06-336706-5</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>1998年2月4日</p></td>
+<td><p>ISBN 978-4-06-336718-8</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>1998年4月30日</p></td>
+<td><p>ISBN 978-4-06-336736-2</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>1998年8月4日</p></td>
+<td><p>ISBN 978-4-06-336751-5</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>1998年11月4日</p></td>
+<td><p>ISBN 978-4-06-336765-2</p></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>1999年3月3日</p></td>
+<td><p>ISBN 978-4-06-336786-7</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>1999年5月1日</p></td>
+<td><p>ISBN 978-4-06-336799-7</p></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+<td><p>1999年8月4日</p></td>
+<td><p>ISBN 978-4-06-336818-5</p></td>
+</tr>
+<tr class="even">
+<td><p>17</p></td>
+<td><p>1999年12月17日</p></td>
+<td><p>ISBN 978-4-06-336840-6</p></td>
+</tr>
+<tr class="odd">
+<td><p>18</p></td>
+<td><p>2000年4月4日</p></td>
+<td><p>ISBN 978-4-06-336860-4</p></td>
+</tr>
+<tr class="even">
+<td><p>19</p></td>
+<td><p>2000年8月2日</p></td>
+<td><p>ISBN 978-4-06-336887-1</p></td>
+</tr>
+<tr class="odd">
+<td><p>20</p></td>
+<td><p>2000年12月22日</p></td>
+<td><p>ISBN 978-4-06-336919-9</p></td>
+</tr>
+<tr class="even">
+<td><p>21</p></td>
+<td><p>2001年4月25日</p></td>
+<td><p>ISBN 978-4-06-336948-9</p></td>
+</tr>
+<tr class="odd">
+<td><p>22</p></td>
+<td><p>2001年9月3日</p></td>
+<td><p>ISBN 978-4-06-336969-4</p></td>
+</tr>
+<tr class="even">
+<td><p>23</p></td>
+<td><p>2001年12月26日</p></td>
+<td><p>ISBN 978-4-06-361012-3</p></td>
+</tr>
+<tr class="odd">
+<td><p>24</p></td>
+<td><p>2002年6月3日</p></td>
+<td><p>ISBN 978-4-06-361043-7</p></td>
+</tr>
+<tr class="even">
+<td><p>25</p></td>
+<td><p>2002年10月31日</p></td>
+<td><p>ISBN 978-4-06-361073-4</p></td>
+</tr>
+<tr class="odd">
+<td><p>26</p></td>
+<td><p>2003年3月3日</p></td>
+<td><p>ISBN 978-4-06-361118-2</p></td>
+</tr>
+<tr class="even">
+<td><p>27</p></td>
+<td><p>2003年9月4日</p></td>
+<td><p>ISBN 978-4-06-361145-8</p></td>
+</tr>
+<tr class="odd">
+<td><p>28</p></td>
+<td><p>2004年3月4日</p></td>
+<td><p>ISBN 978-4-06-361209-7</p></td>
+</tr>
+<tr class="even">
+<td><p>29</p></td>
+<td><p>2004年8月5日</p></td>
+<td><p>ISBN 978-4-06-361253-0</p></td>
+</tr>
+<tr class="odd">
+<td><p>30</p></td>
+<td><p>2004年11月27日</p></td>
+<td><p>ISBN 978-4-06-361283-7</p></td>
+</tr>
+<tr class="even">
+<td><p>31</p></td>
+<td><p>2005年6月4日</p></td>
+<td><p>ISBN 978-4-06-361327-8</p></td>
+</tr>
+<tr class="odd">
+<td><p>32</p></td>
+<td><p>2005年11月20日</p></td>
+<td><p>ISBN 978-4-06-361381-0</p></td>
+</tr>
+<tr class="even">
+<td><p>33</p></td>
+<td><p>2006年8月4日</p></td>
+<td><p>ISBN 978-4-06-361462-6</p></td>
+</tr>
+<tr class="odd">
+<td><p>34</p></td>
+<td><p>2006年11月27日</p></td>
+<td><p>ISBN 978-4-06-361488-6</p></td>
+</tr>
+<tr class="even">
+<td><p>35</p></td>
+<td><p>2007年5月2日</p></td>
+<td><p>ISBN 978-4-06-361552-4</p></td>
+</tr>
+<tr class="odd">
+<td><p>36</p></td>
+<td><p>2007年10月5日</p></td>
+<td><p>ISBN 978-4-06-361598-2</p></td>
+</tr>
+<tr class="even">
+<td><p>37</p></td>
+<td><p>2008年4月28日</p></td>
+<td><p>ISBN 978-4-06-361664-4</p></td>
+</tr>
+<tr class="odd">
+<td><p>38</p></td>
+<td><p>2008年12月26日</p></td>
+<td><p>ISBN 978-4-06-361723-8</p></td>
+</tr>
+<tr class="even">
+<td><p>39</p></td>
+<td><p>2009年7月6日</p></td>
+<td><p>ISBN 978-4-06-361822-8</p></td>
+</tr>
+<tr class="odd">
+<td><p>40</p></td>
+<td><p>2009年12月26日</p></td>
+<td><p>ISBN 978-4-06-361854-9</p></td>
+</tr>
+<tr class="even">
+<td><p>41</p></td>
+<td><p>2010年8月6日</p></td>
+<td><p>ISBN 978-4-06-361918-8</p></td>
+</tr>
+<tr class="odd">
+<td><p>42</p></td>
+<td><p>2011年1月6日</p></td>
+<td><p>ISBN 978-4-06-361980-5</p></td>
+</tr>
+<tr class="even">
+<td><p>43</p></td>
+<td><p>2011年7月6日</p></td>
+<td><p>ISBN 978-4-06-382048-5</p></td>
+</tr>
+<tr class="odd">
+<td><p>44</p></td>
+<td><p>2012年1月6日</p></td>
+<td><p>ISBN 978-4-06-382123-9</p></td>
+</tr>
+<tr class="even">
+<td><p>45</p></td>
+<td><p>2012年6月6日</p></td>
+<td><p>ISBN 978-4-06-382181-9</p></td>
+</tr>
+<tr class="odd">
+<td><p>46</p></td>
+<td><p>2013年1月4日</p></td>
+<td><p>ISBN 978-4-06-382256-4</p></td>
+</tr>
+<tr class="even">
+<td><p>47</p></td>
+<td><p>2013年8月6日</p></td>
+<td><p>ISBN 978-4-06-382344-8</p></td>
+</tr>
+<tr class="odd">
+<td><p>48</p></td>
+<td><p>2013年11月6日</p></td>
+<td><p>ISBN 978-4-06-382377-6</p></td>
+</tr>
+</tbody>
+</table>
+
+### 相關書籍
+
+  - 《》 1996年08月03日、ISBN 978-4-06-319723-5
+  - 《》 1997年06月27日、ISBN 978-4-06-319820-1
+  - 《》1997年08月05日、ISBN 978-4-06-319834-8
+  - 《》 1998年11月20日、ISBN 978-4-06-333996-3
+  - 《》1999年07月19日、ISBN 978-4-06-334230-7
+  - 《》1999年08月20日、ISBN 978-4-06-334219-2
+  - 《》2000年04月19日、ISBN 978-4-06-334292-5
+  - 《》2001年07月25日、ISBN 4-06-330120-6
+  - 《》2004年03月05日、ISBN 978-4-06-334847-7
+  - 《》2005年09月12日、ISBN 978-4-06-346534-1
+  - 《》 2006年08月04日、ISBN 978-4-06-372165-2
+  - 《》2009年07月06日、ISBN 978-4-06-375742-2
+
+<!-- end list -->
+
+  - 拾遺集
+
+<!-- end list -->
+
+  - 《》2014年08月06日、ISBN 978-4-06-377066-7
+      - 卷頭和單行本未收錄番外篇，一併收錄在《Young Magazine》2000年第5・6合併號〈〉的短篇。
+  - 《》2015年05月23日、ISBN 978-4-06-377186-2
+      - 卷頭和單行本未收錄番外篇，一併收錄在《Young Magazine》2001年第7號、8號、9號〈〉的短篇。
+
 ## 電視動畫
 
 ### 製作團隊
@@ -179,13 +464,6 @@
   - 《頭文字D Second Stage》（第二部）
       - 「Blazin' Beat」（片頭曲）：演唱 - [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
       - 「有妳存在」（片尾曲）：演唱 - [Galla](../Page/Galla.md "wikilink")
-
-<!-- end list -->
-
-  - 電影《劇場版 頭文字D Third Stage》（第三部）
-      - 「Gamble Rumble」（主題曲）：演唱 - [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
-      - 「Jirenma」（片尾曲）：演唱 - [Every Little Thing](https://zh.wikipedia.org/wiki/Every_Little_Thing "wikilink")
-      - 「The Race Is Over」（謝幕曲）：演唱 - Dave Rodgers
 
 <!-- end list -->
 
@@ -209,34 +487,185 @@
       - 「Gamble Rumble」（片尾曲，1話～3話）：演唱 - [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
       - 「Rage Your Dream」（片尾曲，4話）：演唱 - [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
 
-<!-- end list -->
-
-  - OVA《頭文字D Extra Stage》（番外篇第一集）
-      - 「Get It All Right」：演唱 - [Chilu](https://zh.wikipedia.org/wiki/Chilu "wikilink")
-      - 「NEXT」：演唱 - [根谷美智子](../Page/根谷美智子.md "wikilink")與[嘉數由美](../Page/嘉數由美.md "wikilink")（）
-
-<!-- end list -->
-
-  - OVA《頭文字D Extra Stage2》（番外篇第二集）
-      - 「<span lang="ja">蒼穹のflight</span>」：演唱 - [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
-      - 「Key Ring」：演唱 - [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
-
-<!-- end list -->
-
-  - 電影《新劇場版 頭文字D Legend1 -覺醒-》（傳說篇第一集）
-      - 「Never Fear」：演唱 - 河村隆一
-
-<!-- end list -->
-
-  - 電影《新劇場版 頭文字D Legend2 -闘走-》（傳說篇第二集）
-      - 「Resurrection」：演唱 - BACK-ON
-
-<!-- end list -->
-
-  - 電影《新劇場版 頭文字D Legend3 -夢現-》（傳說篇第三集）
-      - 「Chase for Dream」：演唱 - 小林竜之
-
 ### 各話列表
+
+## 劇場版
+
+### 頭文字D劇場版 Third Stage
+
+  -
+    第三部，劇場版全1集，片長約1小時44分，[東映](../Page/東映.md "wikilink")出版，2001年1月13日上映。動畫製作由[STUDIO DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。
+
+<!-- end list -->
+
+  - 工作人員
+
+<table>
+<thead>
+<tr class="header">
+<th><p>劇本</p></th>
+<th><p>分鏡</p></th>
+<th><p>演出</p></th>
+<th><p>作畫監督</p></th>
+<th><p>首映日期</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>戸田博史、岸間信明</p></td>
+<td><p><a href="../Page/影山楙倫.md" title="wikilink">影山楙倫</a></p></td>
+<td><p><a href="../Page/渡邊浩.md" title="wikilink">渡邊浩</a></p></td>
+<td><p>香月邦夫、河南正昭、</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - 主題曲
+
+<!-- end list -->
+
+  -   - 「Gamble Rumble」（主題曲）：演唱 - [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
+      - 「Jirenma」（片尾曲）：演唱 - [Every Little Thing](https://zh.wikipedia.org/wiki/Every_Little_Thing "wikilink")
+      - 「The Race Is Over」（謝幕曲）：演唱 - Dave Rodgers
+
+### 頭文字D新劇場版
+
+  -
+    配合所屬[講談社雜誌](https://zh.wikipedia.org/wiki/講談社 "wikilink")「週刊ヤングマガジン」創刊35週年紀念計畫做成三部曲長篇作。
+
+<!-- end list -->
+
+  - 首部曲《頭文字D Legend1 -覺醒-》：2014年8月23日上映，片長62分鐘。
+  - 二部曲《頭文字D Legend2 -闘走-》：2015年5月23日上映，片長62分鐘。
+  - 三部曲《頭文字D Legend3 -夢現-》：2016年2月6日上映，片長65分鐘。
+
+導演為[日高政光](https://zh.wikipedia.org/wiki/日高政光 "wikilink")，動畫製作由[LIDENFILMS](../Page/LIDENFILMS.md "wikilink")與[SANZIGEN共同製作](https://zh.wikipedia.org/wiki/SANZIGEN "wikilink")。
+
+  - 主題曲
+
+<!-- end list -->
+
+  - 《新劇場版 頭文字D Legend1 -覺醒-》「Never Fear」：演唱 - 河村隆一
+  - 《新劇場版 頭文字D Legend2 -闘走-》「Resurrection」：演唱 - BACK-ON
+  - 《新劇場版 頭文字D Legend3 -夢現-》「Chase for Dream」：演唱 - 小林竜之
+
+## OVA
+
+### 頭文字D Extra Stage
+
+  -
+    番外篇，目前共兩集。動畫製作由A.C.G.T製作。
+
+<!-- end list -->
+
+  - Extra Stage
+    [Avex trax發售](../Page/Avex_trax.md "wikilink")，片長54分鐘。由佐藤真子、沙雪、庄司慎吾和中里毅主演，時間為第二部第二集和第三部聖誕節之間。
+      - 主題曲
+
+<!-- end list -->
+
+  - 「Get It All Right」：演唱 - [Chilu](https://zh.wikipedia.org/wiki/Chilu "wikilink")
+  - 「NEXT」：演唱 - [根谷美智子](../Page/根谷美智子.md "wikilink")與[嘉數由美](../Page/嘉數由美.md "wikilink")（）
+
+:;各話標題
+
+<table>
+<thead>
+<tr class="header">
+<th><p>日文標題</p></th>
+<th><p>中文標題</p></th>
+<th><p>劇本</p></th>
+<th><p>分鏡</p></th>
+<th><p>演出</p></th>
+<th><p>作畫監督</p></th>
+<th><p>首映日期</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>インパクトブルーの彼方に…</p></td>
+<td><p>飛躍之藍</p></td>
+<td><p>戸田博史</p></td>
+<td><p>田中穣<br />
+長尾聡浩</p></td>
+<td><p>安田賢司</p></td>
+<td><p>田中穣</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>センチメンタルホワイト</p></td>
+<td><p>白雪中的情人</p></td>
+<td><p>清水恵蔵<br />
+小林ゆかり</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - Extra Stage 2
+    [愛貝克思娛樂](../Page/愛貝克思娛樂.md "wikilink")發售，片長55分鐘。由佐滕真子、沙雪和池谷浩一郎主演，時間為第四部第二集及第三集之間。
+      - 主題曲
+
+<!-- end list -->
+
+  - 「<span lang="ja">蒼穹のflight</span>」：演唱 - [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
+  - 「Key Ring」：演唱 - [m.o.v.e](https://zh.wikipedia.org/wiki/m.o.v.e "wikilink")
+
+:;各話標題
+
+<table>
+<thead>
+<tr class="header">
+<th><p>日文標題</p></th>
+<th><p>中文標題</p></th>
+<th><p>劇本</p></th>
+<th><p>分鏡</p></th>
+<th><p>演出</p></th>
+<th><p>作畫監督</p></th>
+<th><p>首映日期</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>旅立ちのグリーン</p></td>
+<td><p>啟程之綠</p></td>
+<td><p>岸間信明</p></td>
+<td><p>冨永恒雄</p></td>
+<td><p>久原謙一<br />
+木村寛</p></td>
+<td><p>羽田浩二、村上直樹<br />
+横井秀章</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 頭文字D Battle Stage
+
+  -
+    競賽畫面總匯，目前共兩集。
+
+<!-- end list -->
+
+  - Battle Stage
+    2002年5月15日由愛貝克思娛樂發售，片長73分鐘。
+    First Stage至Third Stage的競賽畫面總匯，其中First Stage的賽車畫面，在Battle Stage中以Third Stage所使用的軟體重新製作，3D構圖更為精良，而Second Stage和Third Stage部份則是直接剪入，並多出了原作漫畫和動畫皆未提及的啟介與清次於赤城山的賽事，以及漫畫未收錄、動畫未完整呈現的拓海與涼介的賽事。
+
+<!-- end list -->
+
+  - Battle Stage2
+    2007年5月30日由愛貝克思娛樂發售，片長78分鐘。
+    Fourth Stage的競賽畫面總匯，並完整播出動畫略過的啟介與川井淳郎還有微笑酒井的比賽。另外路面表現也有若干異動。
+
+### 頭文字D to the Next Stage 〜計畫D的猜測〜
+
+  -
+    2004年發售，片長85分鐘。也收錄於2007年發售的Fourth Stage DVD BOX。
+    Fourth Stage播映前頭文字D的介紹節目，又稱總集編，主要內容為第一季至第三季的劇情節要，另包含對土屋圭市、宇佐美廉等幕後人員的訪問及製作片段。
 
 ## 改編電影
 
@@ -274,15 +703,11 @@
   - 《頭文字D Extreme Stage》（[Playstation 3](https://zh.wikipedia.org/wiki/Playstation_3 "wikilink")）
       - 本作屬於Arcade Stage Ver.4的家用版。
 
-## 相關條目
-
-  - [重野秀一](../Page/重野秀一.md "wikilink")
-  - [土屋圭市](../Page/土屋圭市.md "wikilink")
-  - [頭文字D (電影)](https://zh.wikipedia.org/wiki/頭文字D_\(電影\) "wikilink")
-
 ## 參考來源
 
-<references/>
+### 注釋
+
+<references group="註" />
 
 ## 外部連結
 

@@ -62,7 +62,7 @@ Channel \[V\]國際頻道是主要的頻道。1992年至2002年，Channel \[V\]�
 
 該頻道主要對象為中國大陸的年輕觀眾，該頻道以音樂為主，頻道包裝用字為[简体中文](https://zh.wikipedia.org/wiki/简体中文 "wikilink")。播出過的主要節目有《劲爆点》、《周末星派对》、《\[V\] Niche》、《\[V\] ROCK》、《\[V\] Classic》、《\[V\] OST原声大碟》、《\[V\] LIVE》、《特别献礼》、《音樂飆榜》、《国际酷》、《台湾通》、《日韩流》、《神州热》、《偶像派》、《流行速递》，《劲爆舞曲》等。此外，還一度提供中國內地觀眾透過[手機下載純音樂節目所播歌曲的铃声](https://zh.wikipedia.org/wiki/手機 "wikilink")。
 
-Channel \[V\]中國大陸頻道還播放過來自「Channel \[V\]娛樂台（台灣）」節目，例如「\[V\]接客」、「特別獻禮」等。中國大陸頻道曾經的主持人有[李晨_(主持人)](../Page/李晨_\(主持人\).md "wikilink")、[吳大維](https://zh.wikipedia.org/wiki/吳大維 "wikilink")、[周瑛琦及](https://zh.wikipedia.org/wiki/周瑛琦 "wikilink")[丁嘵鋒等](https://zh.wikipedia.org/wiki/丁嘵鋒 "wikilink")。
+Channel \[V\]中國大陸頻道還播放過來自「Channel \[V\]娛樂台（台灣）」節目，例如「\[V\]接客」、「特別獻禮」等。中國大陸頻道曾經的主持人有[李晨](../Page/李晨_\(主持人\).md "wikilink")、[吳大維](https://zh.wikipedia.org/wiki/吳大維 "wikilink")、[周瑛琦及](https://zh.wikipedia.org/wiki/周瑛琦 "wikilink")[丁嘵鋒等](https://zh.wikipedia.org/wiki/丁嘵鋒 "wikilink")。
 
 目前，中国大陆部分地区的[有线](../Page/有线电视.md "wikilink")[数字电视](../Page/数字电视.md "wikilink")用户可以收看到此频道，但一些地区的运营商将此频道设为收费加密。例如[湖北楚天数字电视](https://zh.wikipedia.org/wiki/湖北楚天数字电视 "wikilink")、[浙江杭州数字电视](https://zh.wikipedia.org/wiki/浙江杭州数字电视 "wikilink")，需用户付费后，才能开通此频道的信号。
 

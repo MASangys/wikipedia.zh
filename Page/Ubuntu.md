@@ -382,7 +382,7 @@ Ubuntu每6個月發佈一個新版，每個版本都有代號和版本號。版�
 
 長期支援版本（LTS），更新維護的時間比較長，約2年會推出一個LTS版本。LTS針對企業用戶，有別於一般版本的9個月支援。代號「Dapper Drake」的Ubuntu 6.06 LTS是第一個獲得長期支援的版本，Canonical公司計劃對6.06的桌面系列版本提供3年的更新及付費技術支援服務，對伺服器版則提供5年的支援。Ubuntu 6.06 LTS包括[GNOME](../Page/GNOME.md "wikilink") 2.14、[Mozilla Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink") 1.5.0.3、[OpenOffice.org](../Page/OpenOffice.org.md "wikilink") 2.0.2、[Xorg](https://zh.wikipedia.org/wiki/X.Org服务器 "wikilink")7.0、[GCC](../Page/GCC.md "wikilink") 4.0.3以及2.6.15版的[Linux核心](https://zh.wikipedia.org/wiki/Linux核心 "wikilink")，2006年8月10日發佈的首個維護更新版本6.06.1。\[66\]因為其較長的支援週期，Canonical宣佈將繼續為Dapper Drake提供送達（Shipping）服務，但不支援隨後發佈的Edgy Eft。不過，隨著Feisty Fawn版的發布，送達（Shipping）服務再次啟動，但是，Natty Narwhal（11.04）发布前，送達（Shipping）服務再次停止。\[67\]
 
-最新的長期支援版本為2019年2月15日发布的18.04.2 LTS。
+最新的長期支援版本為2019年8月8日发布的18.04.3 LTS。
 
 ### 其它分支
 

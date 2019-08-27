@@ -473,7 +473,7 @@ KEY社官方對CLANNAD的描述為「」\[12\]（「從平凡的學園生活開�
 <td><p>流淚之後再來一次</p></td>
 <td><p>0</p></td>
 <td><p>坂本一也</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/木上益治" title="wikilink">三好一郎</a></p></td>
+<td><p><a href="../Page/木上益治.md" title="wikilink">三好一郎</a></p></td>
 <td><p>植野千世子</p></td>
 </tr>
 <tr class="even">

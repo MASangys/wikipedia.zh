@@ -110,7 +110,9 @@ Windows Vista通过持久卷影副本实现[系统还原和](https://zh.wikipedi
 
 ### 加密
 
-[加密文件系统](../Page/加密文件系统.md "wikilink")（EFS）提供对NTFS卷上任意文件和文件夹的用户透明的强保护。加密文件系统需要与EFS服务、Microsoft的[加密应用程序接口（CryptoAPI）以及EFS](https://zh.wikipedia.org/wiki/加密应用程序接口 "wikilink") [文件运行时库](https://zh.wikipedia.org/wiki/文件运行时库 "wikilink")（FSRTL）联合工作。 EFS使用[对称密钥](https://zh.wikipedia.org/wiki/对称密钥算法 "wikilink")（也被称为“文件加密密钥（FEK）”）加密文件，这比起使用[非对称密钥加密在加密和解密大量数据时消耗的时间较少](https://zh.wikipedia.org/wiki/非对称密钥算法 "wikilink")。该对称密钥使用一个和请求加密文件的用户相关的[公钥加密文件的内容](https://zh.wikipedia.org/wiki/公钥加密 "wikilink")，加密后的数据储存在被加密文件的可选数据流中。当需要解密文件时，文件系统使用用户的密钥解密储存在文件头中的对称密钥，然后使用该对称密钥解密文件。这些操作在文件系统级别完成，因此对用户来说是透明的。\[31\]为了处理用户丢失密钥的情况，加密文件系统中还支持多个附加解密密钥，因此除用户外，授权过的[恢复代理也能访问数据](https://zh.wikipedia.org/wiki/恢复代理 "wikilink")。NTFS提供的加密和压缩功能是互相排斥的——如果同时希望加密和压缩，则NTFS文件系统级别只能打开其中一种功能，另一种功能需要使用其它第三方工具完成。
+[加密文件系统](../Page/加密文件系统.md "wikilink")（EFS）提供对NTFS卷上任意文件和文件夹的用户透明的强保护。加密文件系统需要与EFS服务、Microsoft的[加密应用程序接口](https://zh.wikipedia.org/wiki/加密应用程序接口 "wikilink")（CryptoAPI）以及EFS [文件运行时库](https://zh.wikipedia.org/wiki/文件运行时库 "wikilink")（FSRTL）联合工作。
+
+EFS使用[对称密钥](https://zh.wikipedia.org/wiki/对称密钥算法 "wikilink")（也被称为“文件加密密钥（FEK）”）加密文件，这比起使用[非对称密钥加密在加密和解密大量数据时消耗的时间较少](https://zh.wikipedia.org/wiki/非对称密钥算法 "wikilink")。该对称密钥使用一个和请求加密文件的用户相关的[公钥加密文件的内容](https://zh.wikipedia.org/wiki/公钥加密 "wikilink")，加密后的数据储存在被加密文件的可选数据流中。当需要解密文件时，文件系统使用用户的密钥解密储存在文件头中的对称密钥，然后使用该对称密钥解密文件。这些操作在文件系统级别完成，因此对用户来说是透明的。\[31\]为了处理用户丢失密钥的情况，加密文件系统中还支持多个附加解密密钥，因此除用户外，授权过的[恢复代理也能访问数据](https://zh.wikipedia.org/wiki/恢复代理 "wikilink")。NTFS提供的加密和压缩功能是互相排斥的——如果同时希望加密和压缩，则NTFS文件系统级别只能打开其中一种功能，另一种功能需要使用其它第三方工具完成。
 
 Basic、Home和MediaCenter版本的Windows上不支持EFS功能。要使用这个功能，必须安装Professional、Ultimate或者服务器版本的Windows，或者使用Windows域中的企业部署工具进行部署。
 

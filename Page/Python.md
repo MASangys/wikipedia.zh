@@ -704,6 +704,8 @@ Python是一门跨平台的脚本语言，Python规定了一个Python语法规�
   -
   - [Python的歷史（Guido van Rossum的博客）](http://python-history.blogspot.co.uk/)
 
+  - [Python Awesome](https://pythonawesome.com/)
+
   -
 ## 参见
 

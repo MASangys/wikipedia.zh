@@ -31,8 +31,8 @@ KDDI另有2G的系統服務（[PDC](../Page/PDC.md "wikilink")），並使用品
   - FDD-LTE 1800MHz(Band 3)
   - FDD-LTE 1500Mhz(Band 11)
   - FDD-LTE 800Mhz (Band 18)
-  - FDD-LTE 850MHz(Band1 26)
-  - FDD-LTE 700MHz(Band1 28)
+  - FDD-LTE 850MHz(Band 26)
+  - FDD-LTE 700MHz(Band 28)
   - TDD-LTE 3400MHz～3600MHz(Band42) 撥給 WiMAX 2.1
 
 ## 海外事業

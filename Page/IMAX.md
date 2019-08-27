@@ -78,9 +78,9 @@ IMAX繼續發展，出現了新的表現手法，例如立體影像及每秒高�
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/新宿.md" title="wikilink">新宿</a>-TOHO Cinemas Shinjuku</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年4月17日</p></td>
-<td><p>19.5</p></td>
-<td><p>10.9</p></td>
-<td><p>212.55</p></td>
+<td><p>19.44</p></td>
+<td><p>10.91</p></td>
+<td><p>212.0904</p></td>
 <td><p>311</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
@@ -88,9 +88,9 @@ IMAX繼續發展，出現了新的表現手法，例如立體影像及每秒高�
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/世田谷區.md" title="wikilink">世田谷區</a>-109 Cinemas Futakotamagawa</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2015年4月24日</p></td>
-<td><p>18.5</p></td>
-<td><p>9.9</p></td>
-<td><p>183.15</p></td>
+<td><p>18.47</p></td>
+<td><p>9.90</p></td>
+<td><p>182.853</p></td>
 <td><p>224</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
@@ -140,19 +140,19 @@ IMAX香港第一家IMAX数码 12聲道音響系統影院</p></td>
 IMAX中國第一家IMAX数字 12聲道音響系統影院</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a>-Shaw Theatres Lido IMAX</p></td>
+<td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a> - Shaw Theatres Lido IMAX</p></td>
 <td><p>IMAX数字</p></td>
 <td><p>2018年1月24日</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>18.98</p></td>
+<td><p>8.99</p></td>
+<td><p>170.6302</p></td>
 <td></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://zh.wikipedia.org/wiki/千代田区" title="wikilink">千代田区</a>-TOHOシネマズ日比谷</p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="https://zh.wikipedia.org/wiki/千代田区" title="wikilink">千代田区</a>- Chiyodaku Hibiya Toho</p></td>
 <td><p>IMAX数字</p></td>
-<td><p>2018年3月29日</p></td>
+<td><p>2018年3月27日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -189,7 +189,7 @@ IMAX中國第一家IMAX数字 12聲道音響系統影院</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>迪拜-VOX Cinemas &amp; IMAX</p></td>
+<td><p>迪拜 - VOX Cinemas &amp; IMAX</p></td>
 <td><p>IMAX激光</p></td>
 <td><p>2015年9月28日</p></td>
 <td><p>23.86</p></td>
@@ -238,9 +238,9 @@ IMAX中國旗下第9家IMAX影院</p></td>
 <td><p>IMAX激光</p></td>
 <td><p>2015年4月29日（IMAX GT）<br />
 2016年3月12日（IMAX激光）</p></td>
-<td><p>29</p></td>
-<td><p>22</p></td>
-<td><p>638</p></td>
+<td><p>28.98</p></td>
+<td><p>22.00</p></td>
+<td><p>637.56</p></td>
 <td><p>596</p></td>
 <td><p>12聲道音響系統<br />
 （停止放映IMAX科普影片，现放映IMAX激光版本科普影片）</p></td>
@@ -298,9 +298,9 @@ IMAX中國旗下第9家IMAX影院</p></td>
 <td><p>IMAX GT<br />
 IMAX激光</p></td>
 <td><p>2017年10月23日</p></td>
-<td><p>20</p></td>
-<td><p>14.8</p></td>
-<td><p>296</p></td>
+<td><p>19.99</p></td>
+<td><p>14.75</p></td>
+<td><p>294.8525</p></td>
 <td></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
@@ -385,9 +385,9 @@ IMAX激光</p></td>
 為中國第一家新一代IMAX激光放映系统影院[3]</p></td>
 </tr>
 <tr class="even">
-<td><p>巴科奧爾Vista Cinemas at Evia Lifestyle Center</p></td>
+<td><p>巴科奧爾 Vista Cinemas at Evia Lifestyle Center</p></td>
 <td><p>新一代IMAX激光</p></td>
-<td><p>2018年11月22日[4]</p></td>
+<td><p>2018年11月19日[4]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -610,7 +610,7 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>309</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="even">
@@ -622,6 +622,52 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>11.76</p></td>
 <td><p>260.9544</p></td>
 <td><p>354</p></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="odd">
+<td><p>沈阳万达影城(奥体万达广场店)</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>2013年7月26日-2019年8月4日(IMAX数字)<br />
+预计2019年8月16日</p></td>
+<td><p>22.19</p></td>
+<td><p>11.61</p></td>
+<td><p>257.6259</p></td>
+<td><p>405</p></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="even">
+<td><p>昆明万达影城(西山万达广场店)</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>2014年10月31日-2019年8月10日(IMAX数字)<br />
+预计2019年8月23日</p></td>
+<td><p>21.3<br />
+22.13</p></td>
+<td><p>11.91<br />
+11.66</p></td>
+<td><p>253.683<br />
+258.0358</p></td>
+<td><p>352</p></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="odd">
+<td><p>哈尔滨万达影城(哈西万达广场店)</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>2013年9月13日-2019年8月8日(IMAX数字)<br />
+预计2019年8月25日</p></td>
+<td><p>20.54</p></td>
+<td><p>11.49</p></td>
+<td><p>236.0046</p></td>
+<td><p>404</p></td>
+<td><p>12聲道音響系統</p></td>
+</tr>
+<tr class="even">
+<td><p>深圳CGV影城(One Avenue卓悦中心店)</p></td>
+<td><p>新一代IMAX激光</p></td>
+<td><p>预计2019年9月12日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="odd">
@@ -765,28 +811,6 @@ IMAX中國第8家IMAX影院</p></td>
 <td><p>141.4554</p></td>
 <td><p>359<br />
 328</p></td>
-<td><p>12聲道音響系統</p></td>
-</tr>
-<tr class="odd">
-<td><p>昆明万达影城(西山万达广场店)</p></td>
-<td><p>新一代IMAX激光</p></td>
-<td><p>2014年10月31日<br />
-预计2019年</p></td>
-<td><p>21.3</p></td>
-<td><p>11.91</p></td>
-<td><p>253.683</p></td>
-<td><p>352</p></td>
-<td><p>12聲道音響系統</p></td>
-</tr>
-<tr class="even">
-<td><p>沈阳万达影城(奥体万达广场店)</p></td>
-<td><p>新一代IMAX激光</p></td>
-<td><p>2013年7月26日<br />
-预计2019年</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>405</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="odd">
@@ -957,29 +981,17 @@ IMAX在各种基础技术和屏幕尺寸方面坚持“IMAX体验”的统一品
 
 ## 著名的IMAX影廳
 
-  - CINESPHERE：位於加拿大安大略省多倫多,首家IMAX影院，1971年5月31日落成（银幕高18.3米，宽24.4米）目前是加拿大唯一IMAX放映系统跟IMAX激光放映系统共有影城。IMAX公司全球第1家IMAX影院
-
-  - ：位於[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[聖地牙哥](../Page/聖地牙哥_\(加利福尼亞州\).md "wikilink") ，首家IMAX球幕影院，1973年落成（银幕直径23.2米）。IMAX公司全球第2家IMAX影院
-
-  - [洛克希德马丁IMAX影院](https://zh.wikipedia.org/wiki/洛克希德马丁 "wikilink")：位於[华盛顿特区](https://zh.wikipedia.org/wiki/华盛顿特区 "wikilink")[美国国家航空航天博物馆](../Page/美国国家航空航天博物馆.md "wikilink")，主要放映[科技和](https://zh.wikipedia.org/wiki/科技 "wikilink")[太空旅行类的影片](https://zh.wikipedia.org/wiki/太空旅行 "wikilink")（银幕高14米，宽23米）。IMAX公司全球第3家IMAX影院
-
-  - ：位於[新泽西州](../Page/新泽西州.md "wikilink")[澤西城](https://zh.wikipedia.org/wiki/澤西城 "wikilink")，有世界上最大的IMAX球幕银幕（银幕直径27米）。
-
-  - Samuel J. & Ethel LeFrak IMAX Theater：位於史密斯索宁协会的[美國自然史博物館](../Page/美國自然史博物館.md "wikilink")，主要放映[自然](../Page/自然.md "wikilink")和[历史](../Page/历史.md "wikilink")类影片（银幕高12.2米，宽18.3米）
-
-  - [明尼苏达科学博物馆Omni](https://zh.wikipedia.org/wiki/明尼苏达科学博物馆 "wikilink") Theater：拥有一个双银幕系统，可以放映IMAX影片，和一个可旋转穹顶，放下后可放映全天域电影（银幕高20.1米，宽27.4米）。
-
-  - [波士顿科技博物馆的](../Page/科学博物馆_\(波士顿\).md "wikilink")[Mugar Omni Theater](https://zh.wikipedia.org/wiki/Mugar_Omni_Theater "wikilink")：（银幕直径21.9米）
-
+  - CINESPHERE：位於加拿大安大略省多倫多,首家IMAX影院，1971年5月31日落成（银幕高18.28米，宽23.77米）目前是加拿大唯一IMAX放映系统跟IMAX激光放映系统共有影城。IMAX公司全球第1家IMAX影院
+  - Fleet Science Center：位於[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[聖地牙哥](../Page/聖地牙哥_\(加利福尼亞州\).md "wikilink") ，首家IMAX球幕影院，1973年3月10日（银幕直径23.16米）。IMAX公司全球第2家IMAX影院
+  - [洛克希德马丁IMAX影院](https://zh.wikipedia.org/wiki/洛克希德马丁 "wikilink")：位於[华盛顿特区](https://zh.wikipedia.org/wiki/华盛顿特区 "wikilink")[美国国家航空航天博物馆](../Page/美国国家航空航天博物馆.md "wikilink")，主要放映[科技和](https://zh.wikipedia.org/wiki/科技 "wikilink")[太空旅行类的影片](https://zh.wikipedia.org/wiki/太空旅行 "wikilink")（IMAX激光，银幕高14.02米，宽23.01米）。IMAX公司全球第3家IMAX影院
+  - Samuel J. & Ethel LeFrak IMAX Theater：位於史密斯索宁协会的[美國自然史博物館](../Page/美國自然史博物館.md "wikilink")，主要放映[自然](../Page/自然.md "wikilink")和[历史](../Page/历史.md "wikilink")类影片（IMAX激光和IMAX数字，银幕高12.19米，宽18.28米）
+  - [明尼苏达科学博物馆Omni](https://zh.wikipedia.org/wiki/明尼苏达科学博物馆 "wikilink") Theater：拥有一个双银幕系统，可以放映IMAX影片，和一个可旋转穹顶，放下后可放映全天域电影（银幕高20.11米，宽27.43米）。
+  - [波士顿科技博物馆的](../Page/科学博物馆_\(波士顿\).md "wikilink")[Mugar Omni Theater](https://zh.wikipedia.org/wiki/Mugar_Omni_Theater "wikilink")：（IMAX球幕，银幕直径21.94米）
   - IMAX Theatre Sydney：位于澳大利亚[悉尼](../Page/悉尼.md "wikilink")[达令港](https://zh.wikipedia.org/wiki/达令港 "wikilink")，（银幕高29.57米，宽35.72米）（已经停止胶片IMAX系统放映，已经拆除即将在2019年重新改造为IMAX激光放映系统）。
-
-  - [中國科學技术館](https://zh.wikipedia.org/wiki/中國科學技术館 "wikilink")：位于[北京市](../Page/北京市.md "wikilink")[朝阳区](https://zh.wikipedia.org/wiki/朝阳区 "wikilink")[北辰东路](../Page/北辰东路.md "wikilink")5号，拥有70mm IMAX巨幕影院（银幕高21.93米，宽29.58米）
-
-  - [國立海洋科技博物館](../Page/國立海洋科技博物館.md "wikilink")：位於[基隆市](../Page/基隆市.md "wikilink")[中正區](../Page/中正區_\(基隆市\).md "wikilink")[北寧路](https://zh.wikipedia.org/wiki/北寧路 "wikilink")（银幕高22米，宽29米）。
-
-  - [美麗華大直影城](../Page/美麗華影城.md "wikilink")：位於[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")[中山區敬業三路](https://zh.wikipedia.org/wiki/中山區_\(台北市\) "wikilink"),（銀幕高21.16米，寬28.8米）截至2015年為東亞區唯一運行之商業70mm IMAX影廳。2016年3月24日正式启用雷射數位IMAX放映機。
-
-  - [TCL中國戲院](../Page/中國戲院.md "wikilink")：位於[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[好莱坞](../Page/好莱坞.md "wikilink")[好莱坞大道](../Page/好莱坞大道.md "wikilink")6925号，（银幕高14米，宽28.7米）\[11\]2013年原影廳改建為數位IMAX規格，2014年增加70mm IMAX放映機，2015年4月1日正式启用雷射數位IMAX放映機。
+  - [中國科學技术館](https://zh.wikipedia.org/wiki/中國科學技术館 "wikilink")：位于[北京市](../Page/北京市.md "wikilink")[朝阳区](https://zh.wikipedia.org/wiki/朝阳区 "wikilink")[北辰东路](../Page/北辰东路.md "wikilink")5号，拥有70mm IMAX巨幕影院（IMAX GT，银幕高21.93米，宽29.58米）
+  - [國立海洋科技博物館](../Page/國立海洋科技博物館.md "wikilink")：位於[基隆市](../Page/基隆市.md "wikilink")[中正區](../Page/中正區_\(基隆市\).md "wikilink")[北寧路](https://zh.wikipedia.org/wiki/北寧路 "wikilink")（IMAX GT，银幕高22米，宽28.4米）。
+  - [美麗華大直影城](../Page/美麗華影城.md "wikilink")：位於[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")[中山區敬業三路](https://zh.wikipedia.org/wiki/中山區_\(台北市\) "wikilink"),（IMAX GT Lsaer，銀幕高21.16米，寬28.8米）2016年3月24日正式启用雷射數位IMAX放映機。
+  - [TCL中國戲院](../Page/中國戲院.md "wikilink")：位於[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[好莱坞](../Page/好莱坞.md "wikilink")[好莱坞大道](../Page/好莱坞大道.md "wikilink")6925号，（银幕高14.02米，宽28.65米）\[11\]2013年原影廳改建為數位IMAX規格，2014年增加70mm IMAX放映機，2015年4月1日正式启用雷射數位IMAX放映機。
 
 ## IMAX全球临时影院
 

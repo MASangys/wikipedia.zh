@@ -1,6 +1,4 @@
-**女性色情片演員**，是指在表現[裸體](https://zh.wikipedia.org/wiki/裸體 "wikilink")、[性器官](https://zh.wikipedia.org/wiki/性器官 "wikilink")、[性交](../Page/性交.md "wikilink")的相片中，或影片中表演的[女性](../Page/女性.md "wikilink")[色情演員](../Page/色情演員.md "wikilink")。
-
-受日本[色情界影響](../Page/色情片.md "wikilink")，華人社會也把「女性色情片演員」叫做「**AV女優**\[1\]」（**AV**是的縮寫\[2\]）。英語則稱“AV Idol”，強調在[色情](../Page/色情.md "wikilink")影片之中当一種[性感](../Page/性感.md "wikilink")[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")、亮麗外表的形式
+**AV女優**（），為日本對於[成人视频](https://zh.wikipedia.org/wiki/成人视频 "wikilink")（\[1\]）[女演員的名稱](https://zh.wikipedia.org/wiki/女性色情演員 "wikilink")\[2\]。英語則稱“AV Idol”，強調在[色情](../Page/色情.md "wikilink")录像之中当作一種[性感](../Page/性感.md "wikilink")[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")、亮麗外表的形式。
 
 ## 概要
 
@@ -321,11 +319,11 @@ AV女優同時在演藝界活躍的包括：（主持人）[Rio](../Page/Rio_\(A
   - 永澤光雄《AV女優》（ビレッジセンター出版局1996年ISBN 4-89436-025-X ISBN 4-16-749302-0）
   - 永澤光雄《AV女優2：おんなのこ》（[コアマガジン](https://zh.wikipedia.org/wiki/コアマガジン "wikilink")1999年ISBN 4-87734-269-9 ISBN 4-16-749303-9）
 
-[Category:色情](https://zh.wikipedia.org/wiki/Category:色情 "wikilink") [Category:女性色情演員](https://zh.wikipedia.org/wiki/Category:女性色情演員 "wikilink")
+[Category:色情](https://zh.wikipedia.org/wiki/Category:色情 "wikilink") [Category:日本AV女優](https://zh.wikipedia.org/wiki/Category:日本AV女優 "wikilink")
 
-1.  在[日语](../Page/日语.md "wikilink")[漢字詞彙中](https://zh.wikipedia.org/wiki/漢字詞 "wikilink")，“優”意即“演員”，引用了[中文古書以](../Page/漢字史.md "wikilink")「優伶」一詞表示[戲子（演員）的意思](../Page/演員.md "wikilink")。“男優”即為“男演員”，“女優”即為“女演員”。
+1.  日本語“”，，縮寫[AV](https://zh.wikipedia.org/wiki/AV "wikilink") 。意即[色情录像帶](../Page/色情片.md "wikilink")。
 
-2.  日本語“”，，縮寫 。意即[成人影片](https://zh.wikipedia.org/wiki/色情片#日本成人視訊 "wikilink")。
+2.  在[日语](../Page/日语.md "wikilink")[漢字詞彙中](https://zh.wikipedia.org/wiki/漢字詞 "wikilink")，“優”意即“演員”，引用了[中文古書以優伶一詞表示](../Page/漢字史.md "wikilink")[戲子 (演員)的意思](../Page/演員.md "wikilink")。“女優”即為“女演員”。
 
 3.  片商會建議AV女優服用[避孕藥物](https://zh.wikipedia.org/wiki/避孕藥物 "wikilink")、使用[避孕器](https://zh.wikipedia.org/wiki/避孕器 "wikilink")。另見
 

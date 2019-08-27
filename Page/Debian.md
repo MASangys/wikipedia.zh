@@ -74,7 +74,7 @@ Debian另外曾有基于[NetBSD](../Page/NetBSD.md "wikilink")内核的计划，
 
 Debian主要分三个版本：稳定版本（stable）、测试版本（testing）、不稳定版本（unstable）。
 
-目前的稳定版本为Debian Buster，上一个稳定版本是 Stretch，不稳定版本永远为[Debian sid](https://zh.wikipedia.org/wiki/Debian_sid "wikilink")。到目前為止所有開發代號均出自[Pixar的電影](https://zh.wikipedia.org/wiki/Pixar "wikilink")[-{zh-hans:玩具总动员;zh-hk:反斗奇兵;zh-tw:玩具總動員;}-](../Page/玩具总动员.md "wikilink")。
+目前的稳定版本为Debian Buster，上一个稳定版本是Stretch，不稳定版本永远为[Debian sid](https://zh.wikipedia.org/wiki/Debian_sid "wikilink")。到目前為止所有開發代號均出自[Pixar的電影](https://zh.wikipedia.org/wiki/Pixar "wikilink")[-{zh-hans:玩具总动员;zh-hk:反斗奇兵;zh-tw:玩具總動員;}-](../Page/玩具总动员.md "wikilink")。
 
 |  |
 |  |

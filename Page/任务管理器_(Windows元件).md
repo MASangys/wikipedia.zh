@@ -144,7 +144,7 @@ Windows 8中引入了“ 应用历史记录”选项卡，并显示了被称为�
 
 <references />
 
-[Category:操作系统](https://zh.wikipedia.org/wiki/Category:操作系统 "wikilink")
+[Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
 
 1.
 

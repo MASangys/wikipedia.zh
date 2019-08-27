@@ -1001,6 +1001,16 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p>1,500萬歐元</p></td>
 </tr>
 <tr class="even">
+<td><p><strong>-</strong></p></td>
+<td></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/:en:Léo_Duarte" title="wikilink">-{zh-hans:杜阿尔特 ;zh-hk:杜亞迪;zh-tw:杜阿爾特;}-</a>（Léo Duarte）</p></td>
+<td><p>中后卫</p></td>
+<td></td>
+<td><p>2019年</p></td>
+<td><p><a href="../Page/法林明高競賽會.md" title="wikilink">-{zh:法林明高;zh-hans:弗拉门戈;zh-hk:法林明高;zh-tw:佛朗明哥;}-</a></p></td>
+<td><p>1,100萬歐元</p></td>
+</tr>
+<tr class="odd">
 <td><p><font color="#FF0000">'''中 場 '''</p></td>
 <td></td>
 <td></td>
@@ -1010,7 +1020,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>5</strong></p></td>
 <td></td>
 <td><p><a href="../Page/賈科莫·博納文圖拉.md" title="wikilink">-{zh-hans:博纳文图拉; zh-hk:邦拿雲度拉;zh-tw:博納文圖拉;}-</a>（Giacomo Bonaventura）</p></td>
@@ -1020,7 +1030,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p><a href="../Page/亞特蘭大足球俱樂部.md" title="wikilink">亞特蘭大</a></p></td>
 <td><p>700萬歐元</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>10</strong></p></td>
 <td></td>
 <td><p><a href="../Page/哈坎·恰尔汗奥卢.md" title="wikilink">-{zh-hans:恰尔汗奥卢;zh-hk:查漢奴古;}-</a>（Hakan Çalhanoğlu）</p></td>
@@ -1030,7 +1040,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p><a href="https://zh.wikipedia.org/wiki/勒沃库森足球俱乐部" title="wikilink">勒沃库森</a></p></td>
 <td><p>2,200萬歐元</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>20</strong></p></td>
 <td></td>
 <td><p><a href="../Page/卢卡斯·比格利亚.md" title="wikilink">-{zh-hans:比格利亚;zh-hk:碧基亞;zh-tw:比格利亞}-</a>（Lucas Biglia）</p></td>
@@ -1040,7 +1050,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p><a href="https://zh.wikipedia.org/wiki/拉齐奥足球俱乐部" title="wikilink">拉齐奥</a></p></td>
 <td><p>1,700萬歐元</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>33</strong></p></td>
 <td></td>
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/:en:Rade_Krunic" title="wikilink">-{zh-hans:克鲁尼奇 ;zh-hk:高歷;zh-tw:克鲁尼奇;}-</a>（Rade Krunic）</p></td>
@@ -1050,7 +1060,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p><a href="../Page/恩波利足球俱乐部.md" title="wikilink">-{zh-hans:恩波利;zh-hk:安玻里;zh-tw:恩波利}-</a></p></td>
 <td><p>800萬歐元</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>39</strong></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:Lucas_Paquetá" title="wikilink">-{zh-hans:帕克塔 ;zh-hk:柏基達;zh-tw:帕克塔;}-</a>（Lucas Paquetá）</p></td>
@@ -1060,7 +1070,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p><a href="../Page/法林明高競賽會.md" title="wikilink">-{zh:法林明高;zh-hans:弗拉门戈;zh-hk:法林明高;zh-tw:佛朗明哥;}-</a></p></td>
 <td><p>3,500萬歐元</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>79</strong></p></td>
 <td></td>
 <td><p><a href="../Page/弗兰克·凯西.md" title="wikilink">-{zh-hans:凯西; zh-hk:基斯爾;}-</a>（Franck Kessié）</p></td>
@@ -1070,7 +1080,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p><a href="../Page/亞特蘭大足球俱樂部.md" title="wikilink">亞特蘭大</a></p></td>
 <td><p>2,400萬歐元</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1080,7 +1090,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>93</strong></p></td>
 <td></td>
 <td><p><a href="../Page/迭戈·拉克索爾特.md" title="wikilink">-{zh-hans:拉克索尔特;zh-hk:拿索特;zh-tw:拉克索爾特}-</a>（Diego Laxalt）</p></td>
@@ -1089,6 +1099,16 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p>2018年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/热那亚板球与足球俱樂部" title="wikilink">-{zh-hans:热那亚;zh-hk:熱拿亞;zh-tw:熱那亞}-</a></p></td>
 <td><p>1,400萬歐元</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>-</strong></p></td>
+<td></td>
+<td><p>'''<a href="../Page/伊斯美·賓拿沙.md" title="wikilink">-{zh-hans:本内瑟;zh-hk:賓拿沙;zh-tw:本内瑟;;}-</a>（Ismaël Bennacer）</p></td>
+<td><p>中場</p></td>
+<td></td>
+<td><p>2019年</p></td>
+<td><p><a href="../Page/恩波利足球俱乐部.md" title="wikilink">-{zh-hans:恩波利;zh-hk:安玻里;zh-tw:恩波利}-</a></p></td>
+<td><p>1,600萬歐元</p></td>
 </tr>
 <tr class="odd">
 <td><p><font color="#FF0000"><strong>前 鋒</strong></p></td>
@@ -1141,17 +1161,7 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p>550萬歐元</p></td>
 </tr>
 <tr class="even">
-<td><p><strong>-</strong></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安德烈·席尔瓦" title="wikilink">-{zh-hans:安德烈·席尔瓦;zh-hk:安達·施華}-</a>（André Silva）</p></td>
-<td><p>中鋒</p></td>
-<td></td>
-<td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/波爾圖足球俱樂部" title="wikilink">-{zh-hans:波爾圖;zh-hk:波圖;}-</a></p></td>
-<td><p>3,800萬歐元</p></td>
-</tr>
-<tr class="odd">
-<td><p><strong>-</strong></p></td>
+<td><p><strong>17</strong></p></td>
 <td></td>
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/:en:Rafael_Leão" title="wikilink">-{zh-hans:莱奥;zh-hk:利亞奧;zh-tw:萊奧}-</a>（Rafael Leão）</p></td>
 <td><p>中鋒</p></td>
@@ -1159,6 +1169,16 @@ AC米蘭進球 \![600px_Nero_e_azzurro_strisciato_con_stella.png](https://zh.wik
 <td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/里爾足球俱樂部" title="wikilink">里爾</a></p></td>
 <td><p>3,000萬歐元</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>27</strong></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安德烈·席尔瓦" title="wikilink">-{zh-hans:安德烈·席尔瓦;zh-hk:安達·施華}-</a>（André Silva）</p></td>
+<td><p>中鋒</p></td>
+<td></td>
+<td><p>2017年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/波爾圖足球俱樂部" title="wikilink">-{zh-hans:波爾圖;zh-hk:波圖;}-</a></p></td>
+<td><p>3,800萬歐元</p></td>
 </tr>
 </tbody>
 </table>

@@ -201,6 +201,10 @@ SHA<sub>d</sub>-256(m)=SHA-256(SHA-256(m))。它會克服有關*延伸長度*攻
   - [密码学](../Page/密码学.md "wikilink")
   - [加密技术](https://zh.wikipedia.org/wiki/加密技术 "wikilink")
   - [演算法](https://zh.wikipedia.org/wiki/演算法 "wikilink")
+  - [图灵机](../Page/图灵机.md "wikilink")
+  - [图灵归约](https://zh.wikipedia.org/wiki/图灵归约 "wikilink")
+  - [交互式证明系统](../Page/交互式证明系统.md "wikilink")
+  - [隨機預言機](../Page/隨機預言機.md "wikilink")
 
 [Category:密码散列函数](https://zh.wikipedia.org/wiki/Category:密码散列函数 "wikilink")
 

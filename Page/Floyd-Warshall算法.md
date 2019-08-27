@@ -45,6 +45,13 @@
   - [图论最短路](https://zh.wikipedia.org/wiki/图论最短路 "wikilink")
   - [Dijkstra算法](https://zh.wikipedia.org/wiki/Dijkstra算法 "wikilink")
   - [Bellman-Ford算法](https://zh.wikipedia.org/wiki/Bellman-Ford算法 "wikilink")
+  - [抽象機器](https://zh.wikipedia.org/wiki/抽象機器 "wikilink")
+  - [垃圾进，垃圾出](../Page/垃圾进，垃圾出.md "wikilink")
+  - [算法导论](../Page/算法导论.md "wikilink")
+  - [计算理论](../Page/计算理论.md "wikilink")
+      - [可计算性理论](../Page/可计算性理论.md "wikilink")
+      - [計算複雜性理論](../Page/計算複雜性理論.md "wikilink")
+  - [高级综合](../Page/高级综合.md "wikilink")
 
 [Category:图算法](https://zh.wikipedia.org/wiki/Category:图算法 "wikilink") [Category:多项式时间问题](https://zh.wikipedia.org/wiki/Category:多项式时间问题 "wikilink")
 

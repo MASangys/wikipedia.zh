@@ -218,7 +218,7 @@ kellyjackie是眾多親[政府藝人之一](../Page/香港特別行政區政府.
 
 </center>
 
-[Category:瑪利諾修院學校校友](https://zh.wikipedia.org/wiki/Category:瑪利諾修院學校校友 "wikilink") [Category:香港女歌手](https://zh.wikipedia.org/wiki/Category:香港女歌手 "wikilink") [Category:網絡歌手](https://zh.wikipedia.org/wiki/Category:網絡歌手 "wikilink") [Category:陳姓](https://zh.wikipedia.org/wiki/Category:陳姓 "wikilink") [Category:保良局第一張永慶中學校友](https://zh.wikipedia.org/wiki/Category:保良局第一張永慶中學校友 "wikilink") [Category:保良局莊啟程預科書院校友](https://zh.wikipedia.org/wiki/Category:保良局莊啟程預科書院校友 "wikilink") [Category:香港理工大學校友](https://zh.wikipedia.org/wiki/Category:香港理工大學校友 "wikilink") [Category:香港建制派人士](https://zh.wikipedia.org/wiki/Category:香港建制派人士 "wikilink")
+[Category:瑪利諾修院學校校友](https://zh.wikipedia.org/wiki/Category:瑪利諾修院學校校友 "wikilink") [Category:香港女歌手](https://zh.wikipedia.org/wiki/Category:香港女歌手 "wikilink") [Category:網絡歌手](https://zh.wikipedia.org/wiki/Category:網絡歌手 "wikilink") [Category:陳姓](https://zh.wikipedia.org/wiki/Category:陳姓 "wikilink") [Category:保良局第一張永慶中學校友](https://zh.wikipedia.org/wiki/Category:保良局第一張永慶中學校友 "wikilink") [Category:保良局莊啟程預科書院校友](https://zh.wikipedia.org/wiki/Category:保良局莊啟程預科書院校友 "wikilink") [Category:香港理工大學校友](https://zh.wikipedia.org/wiki/Category:香港理工大學校友 "wikilink")
 
 1.   感激米雪義助解困 Kellyjackie哭訴合約糾紛
 2.  [Kellyjackie感激米雪雪中送炭](http://news.sina.com.hk/news/15/1/1/2340262/1.html)  明報

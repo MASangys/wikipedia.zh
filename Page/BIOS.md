@@ -70,7 +70,7 @@ CMOS的內容在斷電會消失。所以，把[主機板的電池拆出](https:/
 
 ## 供應商
 
-目前全球只有四家獨立BIOS供應商（IBV），曾經的[Award Software與](https://zh.wikipedia.org/wiki/Award_Software "wikilink")[General Software均被](https://zh.wikipedia.org/wiki/General_Software "wikilink")[Phoenix Technologies收購](https://zh.wikipedia.org/wiki/Phoenix_Technologies "wikilink")，[Microid Research被](https://zh.wikipedia.org/wiki/Microid_Research "wikilink")[Unicore Software收購](https://zh.wikipedia.org/wiki/Unicore_Software "wikilink")，[SystemSoft被](https://zh.wikipedia.org/wiki/SystemSoft "wikilink")[Insyde Software收購](https://zh.wikipedia.org/wiki/Insyde_Software "wikilink")。
+目前全球只有四家獨立BIOS供應商（IBV），曾經的[Award Software與](https://zh.wikipedia.org/wiki/Award_Software "wikilink")[General Software](https://zh.wikipedia.org/wiki/General_Software "wikilink")、[Microid Research均被](https://zh.wikipedia.org/wiki/Microid_Research "wikilink")[Phoenix Technologies收購](https://zh.wikipedia.org/wiki/Phoenix_Technologies "wikilink")，[SystemSoft被](https://zh.wikipedia.org/wiki/SystemSoft "wikilink")[Insyde Software收購](https://zh.wikipedia.org/wiki/Insyde_Software "wikilink")。
 
   - ，[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[鳳凰科技](https://zh.wikipedia.org/wiki/鳳凰科技 "wikilink")。
 

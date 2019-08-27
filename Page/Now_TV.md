@@ -159,6 +159,14 @@ now寬頻電視2005年的客戶數目目標是50萬戶（已在2005年11月達�
 
   - 2019年5月8日，Now TV宣佈取得2020年歐洲國家盃決賽周的香港獨家播放權，自2008年後，Now TV已連續4屆播放歐洲國家盃。
 
+<!-- end list -->
+
+  - 2019年8月，Now TV體育頻道重整，Now Sports，Now Sports英超，Now Golf更換台徽。650頻道因應bein sports取得Rugby World Cup 2019播映權，頻道名稱由Now Sports 650更名為bein sports Rugby。680頻道名稱由Now Sports 680更名為Now Sports Plus。681頻道名稱繼續維持Now Sports 681。
+
+<!-- end list -->
+
+  - 2019年8月10日，Now TV全港首次以4K直播英超，Now Sports 4K（611頻道）啟播，只需要是Now TV已購英超直播的用戶（包括現有或新申請6星級體育組合、星級體育組合或足球組合之用戶），配置Now One 機頂盒、支援4K解像度的電視加上光纖網絡接駁，便可以收看英超4K直播，不另收費。每個星期大約會有2場英超賽事作4K直播，全季合共76場。首場英超4K直播賽事是8月10日03:00 利物浦主場對諾域治。除了英超4K直播，Now Sports 4K（611頻道）更會精選西甲賽事作4K直播。8月16日，巴塞羅那作客對畢爾包成為首場西甲4K直播賽事。
+
 ## 收費
 
 此外，now寬頻電視使用逐台／套餐收費模式，除免費頻道外，其他頻道均為逐台／套餐收費，另外亦有優惠月費的自選多頻道組合以供選擇。
@@ -2677,6 +2685,10 @@ Fashion First（532頻道）啟播，並以標清16:9制式傳送。
 <!-- end list -->
 
   - 2019年8月1日，[中國新華電視中文台](https://zh.wikipedia.org/wiki/中國新華新聞電視網中文台 "wikilink")（369頻道）及[中國新華電視英文台](https://zh.wikipedia.org/wiki/中國新華新聞電視網英語電視台 "wikilink")（370頻道）停播，同日，[now香港台](https://zh.wikipedia.org/wiki/now香港台 "wikilink")（100頻道）改為預覽[Asian Food Channel](https://zh.wikipedia.org/wiki/w:en:Asian_Food_Channel "wikilink")（527頻道）直至8月30日。
+
+<!-- end list -->
+
+  - 2019年8月，[Now Sports 4K](https://zh.wikipedia.org/wiki/Now_Sports_4K "wikilink")（611頻道）啟播，同日Now Sports系列頻道和Now Golf更換台徽。650頻道因應beIN SPORTS取得[2019年世界盃橄欖球賽播映權](https://zh.wikipedia.org/wiki/2019年世界盃橄欖球賽 "wikilink")，頻道名稱由Now Sports 650更名為beIN SPORTS Rugby。680頻道名稱由Now Sports 680更名為Now Sports Plus。681頻道名稱繼續維持Now Sports 681。
 
 #### 停播[無綫網絡電視頻道組合](https://zh.wikipedia.org/wiki/無綫網絡電視 "wikilink")
 

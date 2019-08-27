@@ -1,14 +1,14 @@
-**MUD**（），原指**多使用者迷宮**（Multi-User Dungeon），後又被稱為**多使用者空間**（Multi-User Dimension）與**多使用者領土**（Multi-User Domain），台灣使用者通常直接稱呼為MUD。通常將縮寫字直譯為「網路泥巴」或是簡稱「泥巴」（英文mud的意思為泥巴）。MUD是一款多人即時的虛擬世界，通常以文字描述為基礎。MUD結合了[角色扮演](../Page/角色扮演游戏.md "wikilink")、[砍殺](../Page/砍殺遊戲.md "wikilink")、[玩家與玩家對戰](../Page/玩家對戰.md "wikilink")、[互動小說與](https://zh.wikipedia.org/wiki/文字冒险游戏 "wikilink")[線上聊天等元素](https://zh.wikipedia.org/wiki/网络聊天 "wikilink")，玩家可以閱讀或檢視房間、物品、其他玩家、非玩家角色的描述，並在虛擬世界中做特定動作。玩家通常會透過輸入類似自然語言的指令來與虛擬世界中的其他玩家互動。
+**MUD**（），原指**多使用者迷宮**（Multi-User Dungeon），後又被称为**多使用者空間**（Multi-User Dimension）或**多使用者領土**（Multi-User Domain）。**MUD**是多人即時虛擬类游戏，通常以文字描述為基礎。**MUD**結合了[角色扮演](../Page/角色扮演游戏.md "wikilink")、[砍殺](../Page/砍殺遊戲.md "wikilink")、[玩家與玩家對戰](../Page/玩家對戰.md "wikilink")、[互動小說與](https://zh.wikipedia.org/wiki/文字冒险游戏 "wikilink")[線上聊天等元素](https://zh.wikipedia.org/wiki/网络聊天 "wikilink")，玩家可以閱讀或檢視房間、物品与其他玩家、非玩家角色的描述，並在虛擬世界中做出特定行为。玩家通常會通过輸入類似自然語言的指令來與虛擬世界中的其他玩家、[NPC互動](https://zh.wikipedia.org/wiki/NPC "wikilink")。
+
+
+
+## 概念
 
 傳統的MUD實現了一個在幻想的世界居住著虛構的種族與怪物的角色扮演遊戲，玩家可以選擇職業來獲得特定的技能或力量。這種遊戲的目標是要殺死怪物、探索幻想的世界、完成任務、去冒險、透過角色扮演來構成故事並升級已建立的角色。許多MUD採用了[龍與地下城系列遊戲的職骰規則做為決定人物屬性的基礎](../Page/龙与地下城.md "wikilink")。
 
 MUD通常使用幻想的背景設定，許多人使用了科幻小說的背景設定或以熱門的書籍、電影、動畫、歷史、居住者擬人化動物的世界等等的題材。 並非所有的MUD都是遊戲，有一部份MUD是設計做為教育用途的、有些則為純聊天的環境，並由於MUD伺服器彈性的特色使得MUD偶爾也使用者在計算機科學、地理資訊、醫療資訊、分析化學等領域。MUD吸引了來自各個領域的學術學者包含通訊、社會學、法律與經濟。同時美國的軍隊也對使用MUD來做電話會議感到興趣。
 
 大多數的MUD都是有興趣的人士所經營並可免費遊玩，有部份會接受捐贈或允許玩家購買虛擬物品，其餘的部份則會收取月費。MUD可以透過標準的 [telnet](https://zh.wikipedia.org/wiki/telnet "wikilink") 用戶端程式來連線，或使用為了提升使用者體驗所特別設計的MUD用戶端程式。在許多網站的入口都可以取得MUD遊戲的清單，如: The Mud Connector。
-
-現代大型多人線上角色扮演遊戲（MMORPGs）如 "[無盡的任務](../Page/无尽的任务.md "wikilink")"、"[網路創世紀](../Page/网络创世纪.md "wikilink")" 及虛擬世界相關的遊戲，如社交虛擬世界 "[第二人生](../Page/第二人生_\(互聯網\).md "wikilink")"，都可往前追溯到MUD時代。確實，在發明 MMORPG這個名詞之前，這些風格的遊戲其實就被簡單稱呼為圖型化MUD。有許多具影響力的 MMORPG設計師也都源自於MUD的開發者或者玩家（如Raph Koster, Brad McQuaid, Matt Firor與Brian Green）或者參與早期的MUD（如Mark Jacobs與 J. Todd Coleman）。
-
-## 概念
 
 狹義的MUD指的是類似於1978年的MUD1遊戲，直接使用[終端機模擬程式](https://zh.wikipedia.org/wiki/終端機 "wikilink")（如[telnet](https://zh.wikipedia.org/wiki/telnet "wikilink")）即可進行的連線遊戲，主要利用文字敘述的方式呈現。玩家扮演[虛擬世界中的角色](https://zh.wikipedia.org/wiki/虛擬世界 "wikilink")，系統會輸出一段簡短文字描述玩家所處位置的場景，而玩家也藉由輸入英文單字（或縮寫）組成的命令與之互動。以中文MUD常見的LPMud系統為例，系統顯示：
 
@@ -25,7 +25,11 @@ MUD系統主要由一個[伺服器負責處理所有虛擬世界的相關運算]
 
 由於這種允許多位使用者各自操縱虛擬角色，並且在相同的虛擬世界中進行互動（戰鬥）的概念，直接促成了二十世紀90年代末期以圖形顯示介面為訴求的[線上遊戲商業營運模式](https://zh.wikipedia.org/wiki/線上遊戲 "wikilink")（如：Meridian59, EverQuest, Dark Age of Camelot），因此線上遊戲可視為廣義的MUD其中一種，而MUD則為現代線上遊戲的始祖與雛形。
 
+
+
 ## 發展
+
+現代大型多人線上角色扮演遊戲（MMORPGs）如 "[無盡的任務](../Page/无尽的任务.md "wikilink")"、"[網路創世紀](../Page/网络创世纪.md "wikilink")" 及虛擬世界相關的遊戲，如社交虛擬世界 "[第二人生](../Page/第二人生_\(互聯網\).md "wikilink")"，都可往前追溯到MUD時代。確實，在發明 MMORPG這個名詞之前，這些風格的遊戲其實就被簡單稱呼為圖型化MUD。有許多具影響力的 MMORPG設計師也都源自於MUD的開發者或者玩家（如Raph Koster, Brad McQuaid, Matt Firor與Brian Green）或者參與早期的MUD（如Mark Jacobs與 J. Todd Coleman）。
 
 ### AberMUD
 

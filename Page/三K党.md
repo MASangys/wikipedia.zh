@@ -82,7 +82,7 @@
 
 [美国公民自由联盟](https://zh.wikipedia.org/wiki/美国公民自由联盟 "wikilink")（ACLU）也为三K党的各种组织提供法律援助，以保证他们受[美国宪法第一修正案](../Page/美国宪法第一修正案.md "wikilink")所规定的[言论自由的保护](https://zh.wikipedia.org/wiki/言论自由 "wikilink")。
 
-2016年3月，[三K黨前領袖戴维](https://zh.wikipedia.org/wiki/三K黨 "wikilink")·杜克頻頻在各種場合表示對特朗普的支持，但是[特朗普卻沒有即時和杜克劃清界線](https://zh.wikipedia.org/wiki/唐納德·川普 "wikilink")。這種模稜的態度，讓這位候選人與三K黨的關係，顯得更加地撲朔迷離。戴维·杜克在2016年8月稱要角逐[美國參議院](https://zh.wikipedia.org/wiki/美國參議院 "wikilink")，但共和黨表達不歡迎態度，與這名種族主義者劃清界限。
+2016年3月，[三K黨前領袖](https://zh.wikipedia.org/wiki/三K黨 "wikilink")[大衛·杜克](../Page/大衛·杜克.md "wikilink")頻頻在各種場合表示對特朗普的支持，但是[特朗普卻沒有即時和杜克劃清界線](https://zh.wikipedia.org/wiki/唐納德·川普 "wikilink")。這種模稜的態度，讓這位候選人與三K黨的關係，顯得更加地撲朔迷離。大衛·杜克在2016年8月稱要角逐[美國參議院](https://zh.wikipedia.org/wiki/美國參議院 "wikilink")，但共和黨表達不歡迎態度，與這名種族主義者劃清界限。
 
 2016年11月，[特朗普勝選後](https://zh.wikipedia.org/wiki/唐納德·川普 "wikilink")，該團體也宣布要舉辦勝利遊行。
 

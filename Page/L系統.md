@@ -107,6 +107,10 @@ Lindenmayer研究海藻生长模式时提出的最早的L-系统：
   - [-{A](../Page/分形.md "wikilink")
   - [迭代函數系統](https://zh.wikipedia.org/wiki/迭代函數系統 "wikilink")
   - [希爾伯特曲線](https://zh.wikipedia.org/wiki/希爾伯特曲線 "wikilink")
+  - [图灵机](../Page/图灵机.md "wikilink")
+  - [图灵归约](https://zh.wikipedia.org/wiki/图灵归约 "wikilink")
+  - [交互式证明系统](../Page/交互式证明系统.md "wikilink")
+  - [隨機預言機](../Page/隨機預言機.md "wikilink")
 
 {{-}}
 

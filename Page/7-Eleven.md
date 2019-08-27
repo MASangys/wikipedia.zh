@@ -28,15 +28,15 @@
 
 ## 全球分佈及店數
 
-[7eleven_map.svg](https://zh.wikipedia.org/wiki/File:7eleven_map.svg "fig:7eleven_map.svg") [7-Eleven長虹門市.jpg](https://zh.wikipedia.org/wiki/File:7-Eleven長虹門市.jpg "fig:7-Eleven長虹門市.jpg") 至2017年12月末的統計，7-Eleven的全球分店總數為64,319余家，其經營市場分別由下列地區所組成\[4\]：
+[7eleven_map.svg](https://zh.wikipedia.org/wiki/File:7eleven_map.svg "fig:7eleven_map.svg") [7-Eleven長虹門市.jpg](https://zh.wikipedia.org/wiki/File:7-Eleven長虹門市.jpg "fig:7-Eleven長虹門市.jpg") 至2019年3月末的統計，7-Eleven的全球分店總數為68,236余家，其經營市場分別由下列地區所組成\[4\]：
 
   - 7-Eleven INC（全球7-Eleven總部，[7\&I控股](../Page/7&I控股.md "wikilink")子公司）所屬：
 
       - 2009年的營業額171億美元
 
-          - 8,378家
+          - 9,40家
 
-          - 504家
+          - 626家
 
       - 區域授權經營：413家
 
@@ -49,39 +49,39 @@
 
   - [日本](../Page/日本.md "wikilink")7-Eleven（[7\&I控股](../Page/7&I控股.md "wikilink")子公司）所屬：
 
-      - 20,337家 经营总面积2,439,550平方米
+      - 20,904家 经营总面积2,439,550平方米
 
-  - 7-Eleven（[卜蜂集團](https://zh.wikipedia.org/wiki/卜蜂集團 "wikilink")）10,268家
+  - 7-Eleven（[卜蜂集團](https://zh.wikipedia.org/wiki/卜蜂集團 "wikilink")）11,229家
 
-  - 7-Eleven（[樂天集團](../Page/樂天_\(Lotte\).md "wikilink")）9,231家
+  - 7-Eleven（[樂天集團](../Page/樂天_\(Lotte\).md "wikilink")）9,485家
 
-  - （含、）2,599家
+  - （含、）2,892家
 
       - 7-Eleven（[牛奶公司](https://zh.wikipedia.org/wiki/牛奶國際有限公司 "wikilink")）933家
 
       - 7-Eleven（[牛奶公司](https://zh.wikipedia.org/wiki/牛奶國際有限公司 "wikilink")）47家
 
-  - 7-Eleven（[成功零售有限公司](https://zh.wikipedia.org/wiki/成功零售有限公司 "wikilink")（Berjaya Retail Bhd）持有57%股份7-11大马控股）2,225家
+  - 7-Eleven（[成功零售有限公司](https://zh.wikipedia.org/wiki/成功零售有限公司 "wikilink")（Berjaya Retail Bhd）持有57%股份7-11大马控股）2,311家
 
-  - 1,835家
+  - 1,801家
 
-  - 183家
+  - 170家
 
-  - 7-Eleven（[牛奶公司](https://zh.wikipedia.org/wiki/牛奶國際有限公司 "wikilink")）393家
+  - 7-Eleven（[牛奶公司](https://zh.wikipedia.org/wiki/牛奶國際有限公司 "wikilink")）398家
 
-  - 7-Eleven（[統一超商](https://zh.wikipedia.org/wiki/統一超商股份有限公司 "wikilink")）5,221家\[5\]
+  - 7-Eleven（[統一超商](https://zh.wikipedia.org/wiki/統一超商股份有限公司 "wikilink")）5,443家\[5\]
 
-  - 7-Eleven（[統一超商持股](https://zh.wikipedia.org/wiki/統一超商股份有限公司 "wikilink")51.56％）2,561家
+  - 7-Eleven（[統一超商持股](https://zh.wikipedia.org/wiki/統一超商股份有限公司 "wikilink")51.56％）2,593家
 
-  - 675家
+  - 696家
 
-  - 187家
+  - 84家
 
-  - 153家
+  - 152家
 
-  - （[7\&I控股](../Page/7&I控股.md "wikilink")）11家
+  - （[7\&I控股](../Page/7&I控股.md "wikilink")）28家
 
-  - 13家
+  - 14家
 
 ## 經營特色
 
@@ -92,7 +92,7 @@
   - [重量杯](https://zh.wikipedia.org/wiki/重量杯 "wikilink")（Big Gulp）：[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[廣東及](https://zh.wikipedia.org/wiki/廣東 "wikilink")[港](../Page/香港.md "wikilink")[澳称](../Page/澳門.md "wikilink")[自由斟](https://zh.wikipedia.org/wiki/自由斟 "wikilink")。[台灣曾有一段](https://zh.wikipedia.org/wiki/台灣 "wikilink")[時期](https://zh.wikipedia.org/wiki/時期 "wikilink")[流行過](https://zh.wikipedia.org/wiki/流行 "wikilink")，但現在只有少數門市有販售。分為[大](https://zh.wikipedia.org/wiki/大 "wikilink")、[中](https://zh.wikipedia.org/wiki/中 "wikilink")、-{zh-cn:[小](https://zh.wikipedia.org/wiki/小 "wikilink"); zh-tw:[小](https://zh.wikipedia.org/wiki/小 "wikilink"); zh-hk:[細](https://zh.wikipedia.org/wiki/小 "wikilink");}-[杯](https://zh.wikipedia.org/wiki/杯 "wikilink")。
   - [大亨堡](https://zh.wikipedia.org/wiki/大亨堡 "wikilink")（Big Bite）
   - Coffee-to-go（與臺灣的「[City Cafe](https://zh.wikipedia.org/wiki/City_Cafe "wikilink")」及香港的「[Daily Cafe](https://zh.wikipedia.org/wiki/Daily_Cafe "wikilink")」略有不同）
-  - [思樂冰](../Page/思樂冰.md "wikilink")（Slurpee）：一種[冷凍為](https://zh.wikipedia.org/wiki/冷凍 "wikilink")[冰沙](../Page/冰沙.md "wikilink")狀的[碳酸飲料](https://zh.wikipedia.org/wiki/碳酸飲料 "wikilink")，7-Eleven獨家販售，[美國為主要銷售區域](https://zh.wikipedia.org/wiki/美國 "wikilink")，[中國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[廣東](https://zh.wikipedia.org/wiki/廣東 "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[马来西亚](../Page/马来西亚.md "wikilink")有販售、[台灣曾有一段時期流行過](https://zh.wikipedia.org/wiki/台灣 "wikilink")，但現在僅有少數門市有販售。。
+  - [思樂冰](../Page/思樂冰.md "wikilink")（Slurpee）：一種[冷凍為](https://zh.wikipedia.org/wiki/冷凍 "wikilink")[冰沙](../Page/冰沙.md "wikilink")狀的[碳酸飲料](https://zh.wikipedia.org/wiki/碳酸飲料 "wikilink")，7-Eleven獨家販售，[美國為主要銷售區域](https://zh.wikipedia.org/wiki/美國 "wikilink")，[中國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[廣東](https://zh.wikipedia.org/wiki/廣東 "wikilink")、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門](../Page/澳門.md "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[马来西亚](../Page/马来西亚.md "wikilink")有販售、[台灣曾有一段時期流行過](https://zh.wikipedia.org/wiki/台灣 "wikilink")，但現在僅有少數門市有販售。
 
 ### 國際製販同盟
 
@@ -243,7 +243,7 @@
 
 山东省7-Eleven曾在部分店铺销售思乐冰饮品，该机器由可口可乐方提供，但由于机器维修零件完全依赖进口，且山东本地无可维修该机器的师傅，因而总公司决定在2018年农历年后将该产品停售并取消。
 
-至2019年2月末，7-Eleven山東展店數目：青島71間\[25\]。（共計71店）
+至2019年8月中，7-Eleven山東展店數目：青島87間\[25\]。（共計87店）
 
 #### 重庆市
 
@@ -255,7 +255,7 @@
 
 [杭州与](https://zh.wikipedia.org/wiki/杭州 "wikilink")[宁波的](https://zh.wikipedia.org/wiki/宁波 "wikilink")7-Eleven首店分别于2017年6月29日和2017年7月6日开出，由统一超商（浙江）便利店有限公司独资经营。
 
-至2018年10月末，7-Eleven浙江展店數目：杭州12間\[27\]，寧波14間\[28\]。（共計26店）
+至2019年8月中，7-Eleven浙江展店數目：杭州14間\[27\]，寧波14間\[28\]。（共計28店）
 
 #### 江蘇省
 
@@ -275,11 +275,15 @@
 
 #### 陕西省
 
-2018年12月18日晚间，柒一拾壹（中国）投资有限公司与[陕西赛文提客便利连锁有限公司合作](https://zh.wikipedia.org/wiki/陕西赛文提客便利连锁有限公司 "wikilink")，并授权该公司在[陕西省](../Page/陕西省.md "wikilink")内的7-ELEVEn特许经营权\[34\]，此授权具有唯一性，该公司注册在西咸新区内。陕西赛文提客便利连锁有限公司是陕西提客商贸有限公司的全资子公司，由陕西省实业发展集团和陕西高川实业集团共同出资注册，从事便利店的连锁运营和管理业务，并将从[西安](https://zh.wikipedia.org/wiki/西安 "wikilink")、[咸阳两市开始进行全省便利店的布点](https://zh.wikipedia.org/wiki/咸阳 "wikilink")。
+2018年12月18日晚间，柒一拾壹（中国）投资有限公司与[陕西赛文提客便利连锁有限公司合作](https://zh.wikipedia.org/wiki/陕西赛文提客便利连锁有限公司 "wikilink")，并授权该公司在[陕西省](../Page/陕西省.md "wikilink")内的7-ELEVEn特许经营权\[34\]，此授权具有唯一性，该公司注册在西咸新区内。陕西赛文提客便利连锁有限公司是陕西提客商贸有限公司的全资子公司，由陕西省实业发展集团和陕西高川实业集团共同出资注册，从事便利店的连锁运营和管理业务，并将从[西安](https://zh.wikipedia.org/wiki/西安 "wikilink")、[咸阳两市开始进行全省便利店的布点](https://zh.wikipedia.org/wiki/咸阳 "wikilink")。预计2019年8月22日，陕西省首家店铺将在西安高新区开出。
 
 #### 福建省
 
 2019年4月11日，福建榕宁便利店管理有限公司与柒一拾壹（中国）投资有限公司签订福建省特许经营合同\[35\]，获得[中国大陆](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[福建省](../Page/福建省.md "wikilink")境内的7-ELEVEn特许经营权。7-ELEVEn福建门店初期将立足[福州](../Page/福州市.md "wikilink")，并在未来向[厦门](../Page/厦门市.md "wikilink")、[泉州等城市扩张](../Page/泉州市.md "wikilink")。\[36\]。
+
+#### 河北省
+
+2019年8月，唐山金匙集团、北京庄典集团与日本7-ELEVEn连锁便利店集团共同签订了唐山市7-ELEVEn的特许经营合同。预计2019年年内开业。
 
 ### 新加坡和马来西亚
 

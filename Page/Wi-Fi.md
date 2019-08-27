@@ -12,7 +12,7 @@ Wi-Fi這個術語被人們普遍誤以為是指-{zh-cn:无线保真;zh-tw:無線
 
 [IEEE 802.11第一个版本发表于](../Page/IEEE_802.11.md "wikilink")1997年，其中定义了[-{zh-cn:介质访问接入控制层;zh-tw:媒體存取控制;}-和](../Page/介质访问控制.md "wikilink")[物理层](../Page/物理层.md "wikilink")。物理层定义了在2.4GHz的[ISM频段](../Page/ISM频段.md "wikilink")上的两种无线调频方式和一种红外線传输的方式，总数据传输速率设计为2Mbit/s。两个设备之间的通信可以自由直接（[ad hoc](https://zh.wikipedia.org/wiki/Ad_hoc網路 "wikilink")）的方式进行，也可以在基站（Base Station，BS）或者访问点（Access Point，AP）的协调下进行。1999年加上了两个补充版本：802.11a定义了一个在5GHz ISM频段上的数据传输速率可达54Mbit/s的物理层，802.11b定义了一个在2.4GHz的ISM频段上但数据传输速率高达11Mbit/s的物理层。
 
-2.4GHz的[ISM频段](../Page/ISM频段.md "wikilink")为世界上绝大多数国家通用，因此802.11b得到了最为广泛的应用。[苹果公司把自己开发的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")802.11标准起名叫[AirPort](../Page/AirPort.md "wikilink")。1999年工业界成立了[Wi-Fi联盟](../Page/Wi-Fi联盟.md "wikilink")，致力解决符合802.11标准的产品的生产和设备兼容性问题。Wi-Fi為制定802.11無線網路的組織，並非代表[無線網路](https://zh.wikipedia.org/wiki/無線網路 "wikilink")。F
+2.4GHz的[ISM频段](../Page/ISM频段.md "wikilink")为世界上绝大多数国家通用，因此802.11b得到了最为广泛的应用。[苹果公司把自己开发的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")802.11标准起名叫[AirPort](../Page/AirPort.md "wikilink")。1999年工业界成立了[Wi-Fi联盟](../Page/Wi-Fi联盟.md "wikilink")，致力解决符合802.11标准的产品的生产和设备兼容性问题。Wi-Fi為制定802.11無線網路的組織，並非代表[無線網路](https://zh.wikipedia.org/wiki/無線網路 "wikilink")。
 
 ### 802.11标准和补充
 

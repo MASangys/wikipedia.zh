@@ -94,8 +94,8 @@ Linux发行版的多样性是由于不同用户和厂商的技术、哲学和用
 
 #### 基于其他包格式
 
-  - [ArchLinux](https://zh.wikipedia.org/wiki/ArchLinux "wikilink")，一个基于[KISS](https://zh.wikipedia.org/wiki/KISS "wikilink")（Keep It Simple and Stupid）的[滾動更新的操作系统](https://zh.wikipedia.org/wiki/滾動更新 "wikilink")。
-  - [Chakra](https://zh.wikipedia.org/wiki/Chakra_GNU/Linux "wikilink")，一個從[ArchLinux衍生出來](https://zh.wikipedia.org/wiki/ArchLinux "wikilink")，只使用KDE桌面的[半滾動更新發行版](https://zh.wikipedia.org/wiki/滾動更新 "wikilink")。
+  - [ArchLinux](https://zh.wikipedia.org/wiki/ArchLinux "wikilink")，一个基于[KISS](../Page/KISS原则.md "wikilink")（Keep It Simple and Stupid）的滾動更新的操作系统。
+  - [Chakra](https://zh.wikipedia.org/wiki/Chakra_GNU/Linux "wikilink")，一個從[ArchLinux衍生出來](https://zh.wikipedia.org/wiki/ArchLinux "wikilink")，只使用KDE桌面的半滾動更新發行版。
   - [Gentoo](../Page/Gentoo_Linux.md "wikilink")，一个面向高级用户的发行版，所有软件的源代码需要自行编译。
   - [Slackware](../Page/Slackware.md "wikilink")，最早的发行版之一，1993年建立，由[Patrick J. Volkerding维护](https://zh.wikipedia.org/wiki/Patrick_J._Volkerding "wikilink")。
 

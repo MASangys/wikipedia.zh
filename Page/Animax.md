@@ -1,8 +1,8 @@
 **Animax**（）為[索尼](../Page/索尼.md "wikilink")集團旗下專門播放[動畫的](https://zh.wikipedia.org/wiki/動畫 "wikilink")[電視頻道](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")。[日本](../Page/日本.md "wikilink")Animax是由[索尼影業與](https://zh.wikipedia.org/wiki/索尼影業 "wikilink")[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")、[日昇動畫](../Page/日昇動畫.md "wikilink")、[TMS Entertainment及](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")[NAS](../Page/日本AD_SYSTEMS.md "wikilink")（Nihon Animation Development Systems）合資成立，公司全名「」（Animax Broadcast Japan Inc.），1998年7月1日於[SKY PerfecTV\!啟播](../Page/SKY_PerfecTV!.md "wikilink")。
 
-另外，Animax也是日本以外地區第一個全日24小時放送的動畫專屬頻道（日本地區首個動畫專屬頻道為[Kids Station](../Page/Kids_Station.md "wikilink")），海外經營由[美國索尼影業所屬](https://zh.wikipedia.org/wiki/美國 "wikilink")[索尼影视电视](../Page/索尼影视电视.md "wikilink")（SPT）統籌，實質上與日本Animax並無直接關聯。
+另外，[Animax](../Page/Animax.md "wikilink")也是[日本](../Page/日本.md "wikilink")以外地區第一個全日24小時[放送的](https://zh.wikipedia.org/wiki/放送 "wikilink")[動畫專屬頻道](https://zh.wikipedia.org/wiki/動畫 "wikilink")（日本地區首個動畫專屬頻道為[Kids Station](../Page/Kids_Station.md "wikilink")），海外經營由[美國索尼影業所屬](https://zh.wikipedia.org/wiki/美國 "wikilink")[索尼影视电视](../Page/索尼影视电视.md "wikilink")（SPT）統籌，實質上與日本[Animax](../Page/Animax.md "wikilink")並無直接關聯。
 
-2017年2月23日，日本索尼影業與[三井物產](../Page/三井物產.md "wikilink")共同宣布於同年3月31日設立、簡稱AKH，前者持有過半股份，將各自的Animax、Kids Station納入該[控股公司](../Page/控股公司.md "wikilink")旗下管理，由索尼影業也是Animax社長瀧山正夫兼任AKH及Kids Station社長<ref>AKH相關資訊：
+2017年2月23日，日本索尼影業與[三井物產](../Page/三井物產.md "wikilink")共同宣布於同年3月31日設立、簡稱AKH，前者持有過半股份，將各自的Animax、Kids Station納入該[控股公司](../Page/控股公司.md "wikilink")旗下管理，由[索尼影業也是Animax社長](https://zh.wikipedia.org/wiki/索尼影業 "wikilink")[瀧山正夫兼任AKH及Kids](https://zh.wikipedia.org/wiki/瀧山正夫 "wikilink") Station社長<ref>AKH相關資訊：
 
   -
   -

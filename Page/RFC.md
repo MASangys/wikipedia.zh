@@ -1,4 +1,4 @@
-**请求意见稿**（，縮寫：**RFC**）是由[互联网工程任务组](../Page/互联网工程任务组.md "wikilink")（IETF）发布的一系列[備忘錄](https://zh.wikipedia.org/wiki/備忘錄 "wikilink")。文件收集了有關[網際網路相關資訊](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，以及[UNIX](../Page/UNIX.md "wikilink")和網際網路[社群的軟體文件](https://zh.wikipedia.org/wiki/社群 "wikilink")，以編號排定。目前RFC文件是由[網際網路協會](https://zh.wikipedia.org/wiki/網際網路協會 "wikilink")（ISOC）[贊助發行](https://zh.wikipedia.org/wiki/贊助 "wikilink")。
+**请求意见稿**（，縮寫：**RFC**）是由[互联网工程任务组](../Page/互联网工程任务组.md "wikilink")（IETF）发布的一系列[備忘錄](../Page/備忘錄.md "wikilink")。文件收集了有關[網際網路相關資訊](https://zh.wikipedia.org/wiki/網際網路 "wikilink")，以及[UNIX](../Page/UNIX.md "wikilink")和網際網路[社群的軟體文件](https://zh.wikipedia.org/wiki/社群 "wikilink")，以編號排定。目前RFC文件是由[網際網路協會](https://zh.wikipedia.org/wiki/網際網路協會 "wikilink")（ISOC）[贊助發行](https://zh.wikipedia.org/wiki/贊助 "wikilink")。
 
 RFC始于1969年，由當時就讀加州大学洛杉矶分校（UCLA）的[斯蒂芬·克罗克](../Page/斯蒂芬·克罗克.md "wikilink")（Stephen D. Crocker）用来记录有关[ARPANET](../Page/ARPANET.md "wikilink")开发的非正式文档，他是第一份RFC文档的撰寫者。最终演变为用来记录互联网规范、协议、过程等的标准文件。基本的網際網路通訊協定都有在RFC文件內詳細說明。RFC文件還額外加入許多的論題在標準內，例如對於網際網路新開發的協定及發展中所有的記錄。
 
@@ -51,6 +51,7 @@ RFC文件是由Internet Society審核後給定編號並發行。雖然經過審�
   - [RTP](https://zh.wikipedia.org/wiki/RTP "wikilink")：3550
   - [RADIUS](https://zh.wikipedia.org/wiki/RADIUS "wikilink")：3575，3576，3579，3580
   - [L2TP](https://zh.wikipedia.org/wiki/L2TP "wikilink")：3931
+  - [Segment Routing](https://zh.wikipedia.org/wiki/Segment_Routing "wikilink")：8402
 
 ## 参考文献
 
