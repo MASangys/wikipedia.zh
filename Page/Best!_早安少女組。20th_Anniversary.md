@@ -8,7 +8,7 @@
   - 初回A盤中收錄了於2018年8月12日所舉辦的「rockin'on presents ROCK IN JAPAN FESTIVAL 2018」及「I surrender 愛されど愛」的藍光影像。
   - 初回B盤中收錄了已發行單曲「[我什麼都不明白](../Page/⑮_Thank_you,_too.md "wikilink")」、[凜冽寒風與單相思](https://zh.wikipedia.org/wiki/凜冽寒風與單相思_/_ENDLESS_SKY_/_One_and_Only "wikilink")、[自由國度以及](https://zh.wikipedia.org/wiki/自由銀座/自由國度 "wikilink")2018年9月26日以[ハロプロ・オールスターズ名義發行的](../Page/早安家族.md "wikilink")[嚮往的Stress-free其他演唱版本](https://zh.wikipedia.org/wiki/YEAH_YEAH_YEAH/嚮往的Stress-free/花、最盛開之時 "wikilink")。
   - 原訂於3月13日發行，由於製作上的問題延後一個禮拜3月20日發行。
-  - 3月20日於公信榜專輯週排行榜取得第1名，是自2003年3月推出原創專輯No. 5以來睽違整整十六年再度拿下週冠。
+  - 3月20日於公信榜專輯週排行榜取得第1名，是自2003年3月推出原創專輯No. 5以來睽違十六年再度拿下週冠。
 
 ## 收錄內容
 

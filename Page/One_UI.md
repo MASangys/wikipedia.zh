@@ -1,4 +1,4 @@
-**One UI**（前身：[Samsung Experience或](../Page/Samsung_Experience.md "wikilink")[TouchWiz](../Page/TouchWiz.md "wikilink")）是[Samsung在](https://zh.wikipedia.org/wiki/Samsung "wikilink")2018年11月22日的Samsung開發者大會發佈的全新[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")。用以接替上一版本的 Samsung Experience \[1\] ，作為[三星電子](../Page/三星電子.md "wikilink")旗下的[三星Galaxy](../Page/三星Galaxy.md "wikilink")系列手機的[使用者界面](https://zh.wikipedia.org/wiki/使用者界面 "wikilink")。
+**One UI**（前身：[Samsung Experience](../Page/Samsung_Experience.md "wikilink")、[TouchWiz](../Page/TouchWiz.md "wikilink")）是[Samsung在](https://zh.wikipedia.org/wiki/Samsung "wikilink")2018年11月22日的Samsung開發者大會發佈的全新[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")。用以接替上一版本的 Samsung Experience \[1\] ，作為[三星電子](../Page/三星電子.md "wikilink")旗下的[三星Galaxy](../Page/三星Galaxy.md "wikilink")系列手機的[使用者界面](https://zh.wikipedia.org/wiki/使用者界面 "wikilink")。
 
 手机端和平板电脑端的One UI基於[Android 9.0開發](../Page/Android_Pie.md "wikilink")。\[2\]，而智能手表端则基于[Tizen](../Page/Tizen.md "wikilink")开发。根據Samsung的說明，該使用者界面正在逐步更新至其他更舊的裝置，\[3\]並預載於2019年2月發佈的Galaxy S10系列。\[4\]
 
@@ -91,62 +91,69 @@ OneUI中也去除了以下的功能:
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_10" title="wikilink">Samsung Galaxy Note10/10+/10 5G/10+ 5G</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/三星Galaxy_A系列.md" title="wikilink">Samsung Galaxy A系列</a></p></td>
 <td><p><a href="../Page/三星Galaxy_A70.md" title="wikilink">Samsung Galaxy A70</a></p></td>
 <td><p>1.1</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A50" title="wikilink">Samsung Galaxy A50</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A20" title="wikilink">Samsung Galaxy A20</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/三星Galaxy_A9_(2018).md" title="wikilink">Samsung Galaxy A9 (2018)</a></p></td>
 <td><p>1.0</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A8+_(2018)" title="wikilink">Samsung Galaxy A8+ (2018)</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/三星Galaxy_A7_(2018).md" title="wikilink">Samsung Galaxy A7 (2018)</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/三星Galaxy_A8s.md" title="wikilink">Samsung Galaxy A8s</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/三星Galaxy_J系列" title="wikilink">Samsung Galaxy J系列</a></p></td>
 <td><p><a href="../Page/三星Galaxy_J6_(2018).md" title="wikilink">Samsung Galaxy J6</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_J4+" title="wikilink">Samsung Galaxy J4+</a></p></td>
 <td></td>
 <td></td>

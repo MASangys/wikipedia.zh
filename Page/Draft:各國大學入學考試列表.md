@@ -6,9 +6,7 @@
 
 部分國家僅將大學入學考試作為甄選入學成績的一部分，也有部分國家將大學入學考試作為入學的唯一依據。除了上述兩者，部分國家採行多元入學制度（例如[中華民國](../Page/中華民國.md "wikilink")），舉辦數種大學入學管道，提供考生甄選入學、考試分發入學等多種選擇。
 
-部分國家除了舉辦一般性考試，提供本國（地區）考生報考，另外還會舉辦特殊考試或特殊招生管道，提供外國（地區）考生報考。
-
-## 本國（地）生入學考試列表
+## 列表
 
 部分考試會硬性規定考生報考的科目（例如中國大陸的高考要求考生必考語文、數學、外語），部分則完全自由選考（例如臺灣的學測）。
 
@@ -62,19 +60,21 @@
 <td><p>俄語、數學、外語、物理、化學、生物、地理、文學、歷史、社會科學、<a href="https://zh.wikipedia.org/wiki/電腦科學" title="wikilink">電腦科學</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/美國大學測驗" title="wikilink">美國大學測驗</a>（ACT）</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/學術水準測驗考試" title="wikilink">學術水準測驗考試</a>（SAT）</p></td>
 <td><p>實證閱讀及寫作（Evidence-Based Reading and Writing）、寫作及語文、數學、選擇性寫作（Optional Essay）</p></td>
-</tr>
-<tr class="even">
-<td><p>{{}}</p></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
 
 ## 外國（地）生入學考試列表
+
+部分國家除了舉辦一般性考試，提供本地考生報考，另外還會舉辦特殊考試或特殊招生管道，提供嚮往在本地就讀大學的外地考生報考。
 
 <table>
 <thead>

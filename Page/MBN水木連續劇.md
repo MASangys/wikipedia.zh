@@ -1,51 +1,26 @@
-**MBN水木連續劇**（），是逢星期三、四韓國晚間在[MBN電視台播映的電視劇](https://zh.wikipedia.org/wiki/MBN "wikilink")。
+**MBN水木迷你連續劇**（），是逢星期三、四韓國晚間在[MBN電視台播映的電視劇](https://zh.wikipedia.org/wiki/MBN "wikilink")。
 
 ## 時間
 
-<table>
-<thead>
-<tr class="header">
-<th><p>播出日期</p></th>
-<th><p>播出時間<br />
-（<a href="https://zh.wikipedia.org/wiki/KST" title="wikilink">KST</a>）</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2018年1月10日－</p></td>
-<td><p>23:00 - 00:15</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 播出日期          | 播出時間（[KST](https://zh.wikipedia.org/wiki/KST "wikilink")） |
+| ------------- | --------------------------------------------------------- |
+| 2018年1月10日－至今 | 23:00－00:15                                               |
+|               |                                                           |
 
 ## 電視劇列表
 
 ### 2018年
 
-<table style="width:326%;">
-<colgroup>
-<col style="width: 60%" />
-<col style="width: 17%" />
-<col style="width: 50%" />
-<col style="width: 24%" />
-<col style="width: 90%" />
-<col style="width: 70%" />
-<col style="width: 15%" />
-</colgroup>
+<table>
 <thead>
 <tr class="header">
-<th style="text-align: center;"><p>播放<br />
-日期</p></th>
+<th style="text-align: center;"><p>播放日期</p></th>
 <th style="text-align: center;"><p>電視劇集名稱</p></th>
 <th style="text-align: center;"><p>集數</p></th>
 <th style="text-align: center;"><p>主演</p></th>
 <th style="text-align: center;"><p>导演</p></th>
 <th style="text-align: center;"><p>编剧</p></th>
-<th style="text-align: center;"><p>備注</p></th>
+<th style="text-align: center;"><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -98,26 +73,16 @@
 
 ### 2019年
 
-<table style="width:326%;">
-<colgroup>
-<col style="width: 60%" />
-<col style="width: 17%" />
-<col style="width: 50%" />
-<col style="width: 24%" />
-<col style="width: 90%" />
-<col style="width: 70%" />
-<col style="width: 15%" />
-</colgroup>
+<table>
 <thead>
 <tr class="header">
-<th style="text-align: center;"><p>播放<br />
-日期</p></th>
+<th style="text-align: center;"><p>播放日期</p></th>
 <th style="text-align: center;"><p>電視劇集名稱</p></th>
 <th style="text-align: center;"><p>集數</p></th>
 <th style="text-align: center;"><p>主演</p></th>
 <th style="text-align: center;"><p>导演</p></th>
 <th style="text-align: center;"><p>编剧</p></th>
-<th style="text-align: center;"><p>備注</p></th>
+<th style="text-align: center;"><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -165,4 +130,4 @@
   - [JTBC水木迷你連續劇](../Page/JTBC水木迷你連續劇.md "wikilink")
   - [KBS水木連續劇](../Page/KBS水木連續劇.md "wikilink")
 
-[Category:MBN水木連續劇](https://zh.wikipedia.org/wiki/Category:MBN水木連續劇 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
+[Category:MBN水木迷你連續劇](https://zh.wikipedia.org/wiki/Category:MBN水木迷你連續劇 "wikilink") [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink") [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink") [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

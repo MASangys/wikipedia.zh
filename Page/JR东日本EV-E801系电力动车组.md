@@ -50,8 +50,7 @@ Mc车配备了一具单臂[受电弓](https://zh.wikipedia.org/wiki/受电弓 "w
 
 ## 外部链接
 
-  - [JR东日本发布于2015年11月20日的新闻稿](http://www.jreast.co.jp/akita/press/pdf/20151120-1.pdf)
-
+  -
 [Category:東日本旅客鐵道](https://zh.wikipedia.org/wiki/Category:東日本旅客鐵道 "wikilink") [Category:日本電力動車組](https://zh.wikipedia.org/wiki/Category:日本電力動車組 "wikilink") [Category:含有日語的條目](https://zh.wikipedia.org/wiki/Category:含有日語的條目 "wikilink")
 
 1.

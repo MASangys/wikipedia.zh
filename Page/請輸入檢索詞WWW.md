@@ -1,20 +1,18 @@
 《**請輸入檢索詞WWW**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年6月5日起播出的[水木連續劇](../Page/TvN水木連續劇.md "wikilink")，由《[陽光先生](../Page/陽光先生.md "wikilink")》的鄭志賢導演與曾擔任[金銀淑](../Page/金銀淑.md "wikilink")作家助理的權度恩作家合作打造。此劇以入口網站業界的激烈競爭為背景，講述沒有選擇成為妻子或母親的當今女性的真實生活和成功故事。\[1\]\[2\]\[3\]\[4\]\[5\]
 
-台灣6/6起每周四五[愛奇藝台灣站全網獨播](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")。
-
 ## 演員陣容
 
 ### 主要人物
 
-|                                         |          |                                             |
-| --------------------------------------- | -------- | ------------------------------------------- |
-| **演員**                                  | **角色**   | **介紹**                                      |
-| [林秀晶](../Page/林秀晶.md "wikilink")        | 裴朵美 （塔美） | 業界第一Unicon入口網站企業的前本部長，後跳槽Barro。             |
-| [張基龍](../Page/張基龍.md "wikilink")        | 朴模建      | 製作遊戲音樂的「密林Sound」公司代表，對裴朵美一見鍾情並死心塌地，是鄭多仁的初戀。 |
-| [李多熙](../Page/李多熙_\(演員\).md "wikilink") | 車賢 （史嘉莉） | 業界第二Barro的網站社交部長，因在電梯裡毆打性騷擾犯而有前科，喜歡薛智煥。     |
-| [全慧珍](../Page/全慧珍.md "wikilink")        | 宋佳京      | Unicon入口網站的理事，與裴塔美之前關係良好，後因理念不合惡化。          |
-| [李在旭](../Page/李在旭.md "wikilink")        | 薛智煥      | 「岳母為何那樣」的演員，一次外景中被車賢誤會是嫌犯絆倒後相識。             |
-| [池承炫](../Page/池承炫.md "wikilink")        | 吳真宇      | JW電影代表，宋佳京政治聯姻的老公，其實深愛著宋佳京。                 |
+|                                         |        |                                                                                    |
+| --------------------------------------- | ------ | ---------------------------------------------------------------------------------- |
+| **演員**                                  | **角色** | **介紹**                                                                             |
+| [林秀晶](../Page/林秀晶.md "wikilink")        | 裴朵美    | 業界第一Unicon入口網站企業的前本部長，被惡意解雇後跳槽Barro，英文名塔美(Tami)。38歲。                               |
+| [張基龍](../Page/張基龍.md "wikilink")        | 朴模建    | 製作遊戲音樂的「密林Sound」公司代表，對裴塔美一見鍾情並死心塌地，是鄭多仁的初戀。28歳。                                    |
+| [李多熙](../Page/李多熙_\(演員\).md "wikilink") | 車賢     | 業界第二Barro的網站社交部長，英文名史嘉莉(Scarlett)，因在電梯裡毆打性騷擾犯而有前科，其實骨子裡是一個很有正義感、有義氣的女漢子，喜歡薛智煥。37歲。 |
+| [全慧珍](../Page/全慧珍.md "wikilink")        | 宋佳京    | Unicon入口網站的理事，與裴塔美之前關係良好，後因理念不合惡化。39歲。                                             |
+| [李在旭](../Page/李在旭.md "wikilink")        | 薛智煥    | 「岳母為何那樣」的演員，一次外景中被車賢誤會是嫌犯絆倒後相識。30歲。                                                |
+| [池承炫](../Page/池承炫.md "wikilink")        | 吳真宇    | JW電影代表，宋佳京政治聯姻的老公，其實深愛著宋佳京。40歲。                                                    |
 
 ### Barro
 
@@ -32,33 +30,33 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/權海驍.md" title="wikilink">權海驍</a></p></td>
-<td><p>閔洪柱 （布萊恩）</p></td>
-<td><p>Barro入口網站代表。</p></td>
+<td><p>閔洪柱</p></td>
+<td><p>Barro入口網站代表，英文名布萊恩(Brian)。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>表俊秀 (馬修)</p></td>
-<td><p>Barro遊戲事業本部長，塔美的前男友。後來又腳踏車賢與直播主東周兩條船。</p></td>
+<td><p>表俊秀</p></td>
+<td><p>Barro遊戲事業本部長，英文名馬修(Matthew)，塔美的前男友。後來又腳踏車賢與直播主東珠兩條船。</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>崔奉基 （喬瑟夫）</p></td>
-<td><p>Unicon新進組長，總是十分開朗。在塔美離開Unicon時自願和她一起加入Barro。</p></td>
+<td><p>崔奉基</p></td>
+<td><p>Unicon新進組長，總是十分開朗。英文名喬瑟夫在塔美離開Unicon時自願和她一起加入Barro。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>趙雅羅（Ailee）</p></td>
-<td><p>Unicon咖啡店店員，深受塔美賞識，塔美離開Unicon時也將她帶進了Barro。</p></td>
+<td><p>趙雅羅</p></td>
+<td><p>Unicon咖啡店店員，深受塔美賞識，塔美離開Unicon時也將她帶進了Barro。英文名Ailee。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/河勝理.md" title="wikilink">河勝理</a></p></td>
-<td><p>洪宥珍(Jennie)</p></td>
-<td><p>原Barro開發組組長，擅長程式語言。 高中時期曾為了和喜歡的男同學相處久一點，駭入交通系統造成交通癱瘓(前科)，最喜歡的事物: 男人。</p></td>
+<td><p>洪宥珍</p></td>
+<td><p>原Barro開發組組長，英文名珍妮(Jennie)，擅長程式語言。高中時期曾為了和喜歡的男同學相處久一點，駭入交通系統造成交通癱瘓(前科)，最喜歡的事物: 男人。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>崔正勳 (Alex)</p></td>
-<td><p>原Barro行銷組組長，差點被挖腳到Unicon，但被裴塔美及時挽回。</p></td>
+<td><p>崔正勳</p></td>
+<td><p>原Barro行銷組組長，英文名艾力克斯(Alex)，差點被挖腳到Unicon，但被裴朵美及時挽回。</p></td>
 </tr>
 </tbody>
 </table>
@@ -79,7 +77,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/柳瑞真.md" title="wikilink">柳瑞真</a></p></td>
-<td><p>羅仁慶</p></td>
+<td><p>羅仁京</p></td>
 <td><p>Unicon的代表。</p></td>
 </tr>
 <tr class="odd">
@@ -93,19 +91,29 @@
 <td><p>與裴塔美燒肉店相遇後成為裴塔美的鋼琴老師，初戀是朴模建。</p></td>
 </tr>
 <tr class="odd">
-<td><p>趙慧珠</p></td>
-<td><p>尹東周</p></td>
+<td></td>
+<td><p>尹東珠</p></td>
 <td><p>BJ直播主，表俊秀的正宮。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/藝秀晶.md" title="wikilink">藝秀晶</a></p></td>
 <td><p>張熙恩</p></td>
-<td><p>KU集團會長。</p></td>
+<td><p>KU集團會長，宋佳京婆婆。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>韓敏圭</p></td>
-<td></td>
+<td><p>當紅明星</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/孫鐘鶴.md" title="wikilink">孫鐘鶴</a></p></td>
+<td><p>徐明浩</p></td>
+<td><p>總統。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/崔鎮鎬.md" title="wikilink">崔鎮鎬</a></p></td>
+<td><p>周勝泰</p></td>
+<td><p>議員。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李泰利.md" title="wikilink">李泰利</a></p></td>
@@ -116,6 +124,11 @@
 <td><p><a href="../Page/李棟旭.md" title="wikilink">李棟旭</a></p></td>
 <td></td>
 <td><p>裴塔美的前男友(客串)</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/李多寅_(演員).md" title="wikilink">李多寅</a></p></td>
+<td></td>
+<td><p>柔道社社員(第6集客串)</p></td>
 </tr>
 </tbody>
 </table>
@@ -333,7 +346,7 @@
   - [韓國tvN官方網站](http://program.tving.com/tvn/searchwww/)
   - [請輸入檢索詞WWW-NAVER](https://m.entertain.naver.com/tvBrand/9043178)
 
-[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:電腦工作題材電視節目](https://zh.wikipedia.org/wiki/Category:電腦工作題材電視節目 "wikilink") [Category:網路題材作品](https://zh.wikipedia.org/wiki/Category:網路題材作品 "wikilink")
+[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:電腦工作題材電視節目](https://zh.wikipedia.org/wiki/Category:電腦工作題材電視節目 "wikilink") [Category:網路題材作品](https://zh.wikipedia.org/wiki/Category:網路題材作品 "wikilink") [Category:姊弟戀題材電視劇](https://zh.wikipedia.org/wiki/Category:姊弟戀題材電視劇 "wikilink")
 
 1.
 2.

@@ -268,8 +268,8 @@ EXO於2015和2016年的[韓國福布斯名人榜上均排名第一](../Page/韩�
 <!-- end list -->
 
   - 2013－2014：[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[EXO's SHOWTIME](../Page/EXO's_SHOWTIME.md "wikilink")》
-  - 2014：[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[火熱的瞬間 XOXO EXO](https://zh.wikipedia.org/wiki/EXO影視作品列表#專屬電視節目 "wikilink")》
-  - 2014：[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[EXO 90:2014](https://zh.wikipedia.org/wiki/EXO影視作品列表#專屬電視節目 "wikilink")》
+  - 2014：[Mnet](../Page/Mnet.md "wikilink")《[火熱的瞬間 XOXO EXO](https://zh.wikipedia.org/wiki/EXO影視作品列表#專屬電視節目 "wikilink")》
+  - 2014：[Mnet](../Page/Mnet.md "wikilink")《[EXO 90:2014](https://zh.wikipedia.org/wiki/EXO影視作品列表#專屬電視節目 "wikilink")》
   - 2015：[LINE](https://zh.wikipedia.org/wiki/LINE_\(應用程式\) "wikilink")《EXO's Special Camping》
   - 2015：[東京電視台](../Page/東京電視台.md "wikilink")《EXO Channel》
   - 2016：V LIVE+《EXOMENTARY LIVE》

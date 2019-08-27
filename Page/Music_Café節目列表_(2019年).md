@@ -71,4 +71,12 @@
 | 430 | 7月20日  | 葉巧琳、鍾達茵　改變就是人生  | [葉巧琳](../Page/樂遊團.md "wikilink")、[鍾達茵](https://zh.wikipedia.org/wiki/鍾達茵 "wikilink") |- style="background-color: \#FFFFFF" | |
 | 431 | 7月27日  | 陳健安、洪嘉豪　毋忘音樂初衷  | [陳健安](../Page/陳健安.md "wikilink")、[洪嘉豪](https://zh.wikipedia.org/wiki/洪嘉豪 "wikilink") |- style="background-color: \#FFFFFF" | |
 
+## 8月
+
+| 集數  | J2首播日期 | 主題                 | 嘉賓                                                                                                                                                                                      |
+| --- | ------ | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 432 | 8月3日   | 古家峯、黃進林、鄺星宇　小鮮肉闖樂壇 | [古家峯](../Page/古家峯.md "wikilink")、[黃進林](https://zh.wikipedia.org/wiki/黃進林 "wikilink")、[鄺星宇](https://zh.wikipedia.org/wiki/鄺星宇_\(歌手\) "wikilink") |- style="background-color: \#FFFFFF" | |
+| 433 | 8月10日  | 享樂團、黎曉陽　創作分享會      | [享樂團](../Page/享樂團.md "wikilink")、[黎曉陽](https://zh.wikipedia.org/wiki/黎曉陽 "wikilink") |- style="background-color: \#FFFFFF" |                                                            |
+| 434 | 8月17日  | 何雁詩、戴祖儀、古家峯　樂壇幸運兒  | [何雁詩](https://zh.wikipedia.org/wiki/何雁詩 "wikilink")、[戴祖儀](../Page/戴祖儀.md "wikilink")、[古家峯](../Page/古家峯.md "wikilink") |- style="background-color: \#FFFFFF" |                           |
+
 [Category:無綫電視節目列表](https://zh.wikipedia.org/wiki/Category:無綫電視節目列表 "wikilink") [Category:Music_Café](https://zh.wikipedia.org/wiki/Category:Music_Café "wikilink") [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")

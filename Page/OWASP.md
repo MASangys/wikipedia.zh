@@ -1,4 +1,4 @@
-**开放式Web应用程序安全项目**（**OWASP**）是一个在线社区，在[Web应用程序安全性领域提供免费的文章](https://zh.wikipedia.org/wiki/Web应用程序安全性 "wikilink")，方法，文档，工具和技术。\[1\]\[2\]
+**开放式Web应用程序安全项目**（**OWASP**）是一个在线社区，在领域提供免费的文章，方法，文档，工具和技术。\[1\]\[2\]
 
 ## 历史
 
@@ -8,9 +8,9 @@ OWASP基金会是一家成立于2004年的501(c)(3)非营利组织（美国）�
 
 ## 出版物及资源
 
-  - OWASP Top Ten：2003年首次出版的“Top Ten”会定期更新。\[6\] 它旨在通过识别组织面临的一些最重要的风险来提高对应用程序安全性的认识。\[7\]\[8\]\[9\] 许多标准，书籍，工具和组织参考了Top 10项目，包括MITRE，[PCI DSS](https://zh.wikipedia.org/wiki/PCI_DSS "wikilink"),\[10\] [国防信息系统局](https://zh.wikipedia.org/wiki/国防信息系统局 "wikilink")（[DISA-STIG](https://zh.wikipedia.org/wiki/DISA-STIG "wikilink")），美国[聯邦貿易委員會](../Page/聯邦貿易委員會.md "wikilink")（FTC），<ref>
+  - OWASP Top Ten：2003年首次出版的“Top Ten”会定期更新。\[6\] 它旨在通过识别组织面临的一些最重要的风险来提高对应用程序安全性的认识。\[7\]\[8\]\[9\] 许多标准，书籍，工具和组织参考了Top 10项目，包括MITRE、、\[10\]（）、美国[聯邦貿易委員會](../Page/聯邦貿易委員會.md "wikilink")（FTC）。<ref>
 
-</ref> 等等更多。
+</ref>
 
   - OWASP软件保障成熟度模型：软件保障成熟度模型（SAMM）项目致力于构建可用的框架，以帮助组织制定和实施针对组织面临的特定业务风险量身定制的应用程序安全性策略。
   - OWASP开发指南：“开发指南”提供了实用指南，包括J2EE，ASP.NET和PHP代码示例。“开发指南”涵盖了广泛的应用程序级安全问题，从SQL注入到现代问题，如网络钓鱼，信用卡处理，会话固定，跨站请求伪造，合规性和隐私问题。
@@ -40,7 +40,7 @@ OWASP组织获得2014年[SC杂志编辑选择奖](https://zh.wikipedia.org/wiki/
 ## 外部链接
 
   -
-[Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink") [Category:Web_security_exploits](https://zh.wikipedia.org/wiki/Category:Web_security_exploits "wikilink") [Category:Computer_security_organizations](https://zh.wikipedia.org/wiki/Category:Computer_security_organizations "wikilink") [Category:计算机标准](https://zh.wikipedia.org/wiki/Category:计算机标准 "wikilink") [Category:501(c)(3)_nonprofit_organizations](https://zh.wikipedia.org/wiki/Category:501\(c\)\(3\)_nonprofit_organizations "wikilink") [Category:Non-profit_organisations_based_in_Belgium](https://zh.wikipedia.org/wiki/Category:Non-profit_organisations_based_in_Belgium "wikilink") [Category:2001年建立的組織](https://zh.wikipedia.org/wiki/Category:2001年建立的組織 "wikilink") [Category:2001_establishments_in_Belgium](https://zh.wikipedia.org/wiki/Category:2001_establishments_in_Belgium "wikilink")
+[Category:网络安全](https://zh.wikipedia.org/wiki/Category:网络安全 "wikilink") [Category:Web安全漏洞](https://zh.wikipedia.org/wiki/Category:Web安全漏洞 "wikilink") [Category:计算机安全组织](https://zh.wikipedia.org/wiki/Category:计算机安全组织 "wikilink") [Category:计算机标准](https://zh.wikipedia.org/wiki/Category:计算机标准 "wikilink") [Category:501(c)(3)_nonprofit_organizations](https://zh.wikipedia.org/wiki/Category:501\(c\)\(3\)_nonprofit_organizations "wikilink") [Category:Non-profit_organisations_based_in_Belgium](https://zh.wikipedia.org/wiki/Category:Non-profit_organisations_based_in_Belgium "wikilink") [Category:2001年建立的組織](https://zh.wikipedia.org/wiki/Category:2001年建立的組織 "wikilink") [Category:2001_establishments_in_Belgium](https://zh.wikipedia.org/wiki/Category:2001_establishments_in_Belgium "wikilink")
 
 1.
 

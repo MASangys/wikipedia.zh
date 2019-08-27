@@ -72,7 +72,7 @@
 </tr>
 <tr class="odd">
 <td><p>3月4日</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/床之間正坐女孩" title="wikilink">床之間正坐女孩</a></p></td>
 <td><p><a href="../Page/NMB48.md" title="wikilink">NMB48</a></p></td>
 <td><p>19.6</p></td>
 <td><p>1</p></td>
@@ -226,9 +226,23 @@
 </tr>
 <tr class="odd">
 <td><p>8月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FRUSTRATION" title="wikilink">FRUSTRATION</a></p></td>
+<td><p><a href="../Page/FRUSTRATION.md" title="wikilink">FRUSTRATION</a></p></td>
 <td><p><a href="../Page/SKE48.md" title="wikilink">SKE48</a></p></td>
 <td><p>32.0</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>8月12日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/最喜歡的人" title="wikilink">最喜歡的人</a></p></td>
+<td><p>STU48</p></td>
+<td><p>25.4</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月19日</p></td>
+<td></td>
+<td><p><a href="../Page/BEYOOOOONDS.md" title="wikilink">BEYOOOOONDS</a></p></td>
+<td><p>9.9</p></td>
 <td><p>1</p></td>
 </tr>
 </tbody>

@@ -4,12 +4,12 @@
 
 ## 音樂節目
 
-| 2018年音樂節目現場                                           |
-| ----------------------------------------------------- |
-| 電視台                                                   |
-| 한걸음（Follow Your Dreams）                               |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") |
-| [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   |
+| 2018年音樂節目現場                                         |
+| --------------------------------------------------- |
+| 電視台                                                 |
+| 한걸음（Follow Your Dreams）                             |
+| [Mnet](../Page/Mnet.md "wikilink")                  |
+| [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") |
 
 ## 發行歷史
 

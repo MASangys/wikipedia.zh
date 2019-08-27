@@ -6,10 +6,15 @@
 
 ## 與[任天堂Switch](../Page/任天堂Switch.md "wikilink")的不同之處
 
-像[任天堂DS Lite](../Page/任天堂DS_Lite.md "wikilink")，Lite的意思是輕。根據任天堂宣稱的那樣，控制台的開發是為了補充基本型號，並提供一種更便宜的替代品，即使只是便攜式。而因為任天堂Switch Lite是任天堂Switch的平價機種，所以功能也會有所閹割，例如：
+像[任天堂DS Lite](../Page/任天堂DS_Lite.md "wikilink")，Lite的意思是輕。根據任天堂宣稱的那樣，開發是為了提供主機玩家買來做為第二台主機以補充在便攜性與續航方面的不足，並對於特定的遊戲客群，Lite的定位也成為一種更便宜且更親民的替換選擇。而因為任天堂Switch Lite是任天堂Switch的平價機種，加上戶外攜帶性設計的考慮，所以功能與主機也會有所區別，例如：
 
-  - 控制器與主體合成，左邊上/下/左/右按鈕變為[十字揵](https://zh.wikipedia.org/wiki/十字键 "wikilink")。 Joy-Con中的 IR紅外攝像機 和 HD振動功能 也會移除，因此如果您想玩一款使用這些功能的遊戲，您將需要購買一個單獨的[Joy-Con](../Page/Joy-Con.md "wikilink")/Switch Pro控制器。\[3\]
-  - 與Nintendo Switch Dock不兼容，並且將禁用通過擴展塢的功能，例如輸出到外部監視器以及使用[USB插口使用外圍設備](https://zh.wikipedia.org/wiki/USB接口 "wikilink")。\[4\]
+  - 因一體性的便攜設計的緣故，所以[Joy-Con](../Page/Joy-Con.md "wikilink")控制器與手把將不會包含在盒裝內。\[3\]如果沒有購買或擁有Joy-Con，Switch Lite 無法運行以下遊戲：\[4\]
+      - [超級瑪利歐派對](https://zh.wikipedia.org/wiki/超級瑪利歐派對 "wikilink")、[Just Dance 2019等體感運動類遊戲](https://zh.wikipedia.org/wiki/Just_Dance_2019 "wikilink")
+      - [1-2-Switch](../Page/1-2-Switch.md "wikilink")的吃漢堡
+      - [任天堂Labo](../Page/任天堂Labo.md "wikilink")系列遊戲
+      - [瑪利歐賽車8 豪華版的一機多人模式](../Page/瑪利歐賽車8.md "wikilink")
+  - 控制器與合成，左邊上/下/左/右按鈕變為單一的[十字揵](https://zh.wikipedia.org/wiki/十字键 "wikilink")，不再是分離的按鍵。Joy-Con中的 IR紅外攝像機 和 HD振動功能 也會移除，因此如果您想玩一款使用這些功能的遊戲，您將需要購買一個單獨的Joy-Con+充電握把\[5\]/Switch Pro控制器。\[6\]
+  - 沒有隨機附送任天堂Switch底座，因為Switch Lite與現有的 任天堂Switch底座 不兼容，並且通過擴展塢來[HDMI](../Page/HDMI.md "wikilink")輸出到外部監視器以及使用[USB插口來連接外圍的其他遊戲設備](https://zh.wikipedia.org/wiki/USB接口 "wikilink")。\[7\]
 
 ## 軟件
 
@@ -26,7 +31,7 @@
   - [任天堂Switch](../Page/任天堂Switch.md "wikilink")
   - [任天堂3DS](../Page/任天堂3DS.md "wikilink")
 
-## 參考資料
+## 腳註及參考文獻
 
 <references />
 
@@ -39,4 +44,9 @@
 
 2.
 3.
-4.
+4.  <https://www.nintendo.com.hk/hardware/switch/compare/>
+
+5.  如果沒有購買充電握把，就無法為Joy-Con充電。
+
+6.
+7.

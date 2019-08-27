@@ -9,8 +9,8 @@
 | 成員        |
 | 藝名        |
 | 羅馬拼音      |
-| Saebyeok  |
 | Cheongeum |
+| Saebyeok  |
 | Heejoo    |
 | Haru      |
 | Dany      |

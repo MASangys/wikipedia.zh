@@ -64,7 +64,7 @@
 
   -
 
-[Category:臺灣YouTuber](https://zh.wikipedia.org/wiki/Category:臺灣YouTuber "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:國立臺北藝術大學校友](https://zh.wikipedia.org/wiki/Category:國立臺北藝術大學校友 "wikilink") [Category:張姓](https://zh.wikipedia.org/wiki/Category:張姓 "wikilink")
+[Category:臺灣YouTuber](https://zh.wikipedia.org/wiki/Category:臺灣YouTuber "wikilink") [Category:YouTube頻道](https://zh.wikipedia.org/wiki/Category:YouTube頻道 "wikilink") [Category:國立成功大學校友](https://zh.wikipedia.org/wiki/Category:國立成功大學校友 "wikilink") [Category:張姓](https://zh.wikipedia.org/wiki/Category:張姓 "wikilink")
 
 1.
 2.

@@ -54,6 +54,8 @@ SKZ-TALKER GO\!（韓語：슼즈토커 고\!）於2019年2月23日起不定時�
 | 5月19日 | 《[Clé 1 : MIROH](../Page/Clé_1_:_MIROH.md "wikilink")》粉絲簽名會 in BUSAN              |
 | 5月26日 | 《2019 K-POP BIG5 CONCERT》 in DUSSELDORF                                           |
 | 7月26日 | 《[UNVEIL TOUR](../Page/Stray_Kids_UNVEIL_TOUR_'I_am…'.md "wikilink")》in USA       |
+| 8月9日  | 《Jeddah Season Festival K-POP Night》in JEDDAH                                     |
+| 8月16日 |                                                                                   |
 |       |                                                                                   |
 
 ## 註釋與參考資料

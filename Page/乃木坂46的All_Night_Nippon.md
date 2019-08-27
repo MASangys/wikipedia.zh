@@ -15,6 +15,7 @@
           - 2019年5月30日（29日深夜） - [高山一實](../Page/高山一實.md "wikilink")、[與田祐希](../Page/與田祐希.md "wikilink")
           - 2019年6月13日（12日深夜） - [櫻井玲香](../Page/櫻井玲香.md "wikilink")、[佐藤楓](https://zh.wikipedia.org/wiki/佐藤楓 "wikilink")
           - 2019年7月4日（3日深夜） - [和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")
+          - 2019年8月15日（14日深夜） - 秋元真夏
 
 ## 主要环节
 

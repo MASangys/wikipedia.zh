@@ -146,7 +146,7 @@ VERIVERY於2019年3月26日透過V Live宣佈粉絲官方名稱為「**VERRER**�
 <ul>
 <li>發行日期：2019年7月31日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>銷量：</li>
+<li>銷量：5,384+[21]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -276,7 +276,7 @@ VERIVERY於2019年3月26日透過V Live宣佈粉絲官方名稱為「**VERRER**�
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>9月21日～11月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/NOW_VERIVERY.md" title="wikilink">NOW VERIVERY</a>》</p></td>
 <td><p>8</p></td>
 <td></td>
@@ -398,3 +398,5 @@ VERIVERY於2019年3月26日透過V Live宣佈粉絲官方名稱為「**VERRER**�
 19. [2019年GAON 2月專輯榜33位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=02&hitYear=2019&termGbn=month)
 
 20. [2019年6月GAON專輯榜68位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&termGbn=month)
+
+21. [2019年7月GAON專輯榜52位](http://mobile.gaonchart.co.kr/musicAlbum.gaon?nationGbn=T&serviceGbn=&termGbn=month)

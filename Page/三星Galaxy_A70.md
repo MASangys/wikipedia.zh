@@ -6,17 +6,31 @@ Galaxy A70是第一款採用Infinity-U顯示技術的手機
 
 ## 手機規格
 
-S675 Soc
+  - S675 Soc
 
-6 / 8 GB RAM
+<!-- end list -->
 
-32 + 5 + 8 MP 後置三攝鏡頭
+  - 6 / 8 GB RAM
 
-32MP 前置鏡頭
+<!-- end list -->
 
-128GB ROM
+  - 32 + 5 + 8 MP 後置三攝鏡頭
 
-6.7" Infinity-U Super AMOLED FHD+
+<!-- end list -->
+
+  - 32MP 前置鏡頭
+
+<!-- end list -->
+
+  - 128GB ROM
+
+<!-- end list -->
+
+  - 6.7" Infinity-U Super AMOLED FHD+
+
+## 參見
+
+  - [三星Galaxy A系列](../Page/三星Galaxy_A系列.md "wikilink")
 
 ## 參考資料
 

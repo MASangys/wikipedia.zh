@@ -1,4 +1,4 @@
-《**The Kkondae Live**》（），為[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[Mnet於](https://zh.wikipedia.org/wiki/Mnet "wikilink")2018年推出的綜藝節目，由[李敬揆](../Page/李敬揆.md "wikilink")、[韓惠珍](../Page/韓惠珍_\(模特兒\).md "wikilink")、[柳炳宰](../Page/柳炳宰.md "wikilink")、[REN](../Page/崔珉起.md "wikilink")（[NU'EST](../Page/NU'EST.md "wikilink")）、等人共同主持\[1\]\[2\]，節目主軸為在日常生活中發現我們體內擁有的老人DNA，並以多方面的觀點進行討論的[韓國國內最初的老人情感綜藝節目](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")\[3\]\[4\]。節目播出期間為2018年9月28日至2018年11月2日\[5\]。
+《**The Kkondae Live**》（），為[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[Mnet](../Page/Mnet.md "wikilink")於2018年推出的綜藝節目，由[李敬揆](../Page/李敬揆.md "wikilink")、[韓惠珍](../Page/韓惠珍_\(模特兒\).md "wikilink")、[柳炳宰](../Page/柳炳宰.md "wikilink")、[REN](../Page/崔珉起.md "wikilink")（[NU'EST](../Page/NU'EST.md "wikilink")）、等人共同主持\[1\]\[2\]，節目主軸為在日常生活中發現我們體內擁有的老人DNA，並以多方面的觀點進行討論的[韓國國內最初的老人情感綜藝節目](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")\[3\]\[4\]。節目播出期間為2018年9月28日至2018年11月2日\[5\]。
 
 ## 節目成員
 

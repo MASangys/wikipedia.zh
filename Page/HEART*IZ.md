@@ -4,7 +4,7 @@
 
 2019年2月25日，[韓國日報報導](https://zh.wikipedia.org/wiki/韓國日報 "wikilink")[IZ\*ONE](../Page/IZ*ONE.md "wikilink")將於2019年4月回歸\[1\]。之後官方也正式發布IZ\*ONE將於4月1日發行第二張迷你專輯《HEART\*IZ》\[2\]。從3月23日開始，陸續釋出新專輯的預告影片\[3\]、團體成員的概念照與專輯的試聽\[4\]\[5\]\[6\]。
 
-4月1日，韓國時間下午6時，公開以《Violeta》为主打的第二張迷你專輯《HEART\*IZ》全輯音源，並於同日舉行回歸Showcase\[7\]。除了舉行Showcase來宣傳本次的新專輯，還與[Mnet推出專屬節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")「HEART TO」\[8\]。
+4月1日，韓國時間下午6時，公開以《Violeta》为主打的第二張迷你專輯《HEART\*IZ》全輯音源，並於同日舉行回歸Showcase\[7\]。除了舉行Showcase來宣傳本次的新專輯，還與[Mnet](../Page/Mnet.md "wikilink")推出專屬節目「HEART TO」\[8\]。
 
 ## 製作
 
@@ -14,7 +14,7 @@
 
 ## 成績
 
-專輯主打歌《Violeta》分別於韓國音源平台[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、Bugs、Soribada以及Naver上成為實時榜冠軍\[18\]\[19\]\[20\]\[21\]，Melon和[Genie分別獲得實時榜第](https://zh.wikipedia.org/wiki/Genie "wikilink")6與第3\[22\]\[23\]。還成為韓國[Gaon串流媒體榜當週第](../Page/2019年Gaon流媒體冠軍作品列表.md "wikilink")19名與[Gaon下載榜第](../Page/2019年Gaon數位下載冠軍作品列表.md "wikilink")5名\[24\]\[25\]。歌曲在宣傳期間共獲得七個音樂節目冠軍\[26\]。
+專輯主打歌《Violeta》分別於韓國音源平台[Mnet](../Page/Mnet.md "wikilink")、Bugs、Soribada以及Naver上成為實時榜冠軍\[18\]\[19\]\[20\]\[21\]，Melon和[Genie分別獲得實時榜第](https://zh.wikipedia.org/wiki/Genie "wikilink")6與第3\[22\]\[23\]。還成為韓國[Gaon串流媒體榜當週第](../Page/2019年Gaon流媒體冠軍作品列表.md "wikilink")19名與[Gaon下載榜第](../Page/2019年Gaon數位下載冠軍作品列表.md "wikilink")5名\[24\]\[25\]。歌曲在宣傳期間共獲得七個音樂節目冠軍\[26\]。
 
 ### 銷售
 
@@ -56,7 +56,7 @@
 | 〈Violeta〉音源成績（2019年）                                        | 峰值       |
 | ----------------------------------------------------------- | -------- |
 | 韓國[Melon](../Page/Melon.md "wikilink")週榜                    | 22\[34\] |
-| 韓國[Mnet週榜](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | 5\[35\]  |
+| 韓國[Mnet](../Page/Mnet.md "wikilink")週榜                      | 5\[35\]  |
 | 韓國Bugs週榜                                                    | 6\[36\]  |
 | 韓國Soribada週榜                                                | 9\[37\]  |
 | 韓國[Genie週榜](https://zh.wikipedia.org/wiki/Genie "wikilink") | 18\[38\] |
@@ -86,7 +86,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Gaon音樂榜" title="wikilink">Gaon音樂榜</a></p></td>
-<td><p>244,160份</p></td>
+<td><p>246,864份</p></td>
 <td><p>[47]</p></td>
 </tr>
 </tbody>

@@ -32,6 +32,7 @@ Anoice
   - **Out of Season** (2008)
   - **The Black Rain** (2012)
   - **into the shadows** (2015)
+  - **Ghost in the Clocks** (2019)
 
 Takahiro Kido
 
@@ -78,12 +79,28 @@ Takahiro Kido
   - **Walking in the Rhythm** (2006)
   - **Inside-Out Tokyo** (2016)
 
+Yuki Murata
+
+  - **Piano Fantasia+** (2006)
+
 RiLF
 
   - **era.ep** (2010)
   - **Three Stories for Numbers** (2018)
 
 ### 單曲
+
+Anoice
+
+  - **nothing there** (2019)
+  - **missing** (2019)
+  - **unknown error** (2019)
+  - **it** (2019)
+
+Yuki Murata
+
+  - **red owl** (2018)
+  - **bird sings a lullaby** (2018)
 
 mizu amane
 
@@ -107,33 +124,6 @@ Anoice
 Takahiro Kido
 
   - **Selected Works** (2016)
-
-### 合輯（包含其他藝人）
-
-  - **IMPREC100** (2006)
-  - **The Silent Ballet Volume 9** (2008)
-  - **Variations of Silence** (2009)
-  - **Honokaa-Boy** (2009)
-  - **Music for Wine** (2009)
-  - **Variations of Shade** (2011)
-  - **Piano is Beautiful** (2011)
-  - **HOPE** (2011)
-  - **Hope for Japan** (2011)
-  - **Artist Action** (2011)
-  - **More Hope for Japan** (2011)
-  - **ArtLism.JP vol.4** (2011)
-  - **Festive Greetings** (2011)
-  - **Bezdna Radio Essential 026** (2012)
-  - **Play for Japan 2012 vol.9** (2012)
-  - **Hidden Landscapes 2** (2012)
-  - **Elements 1** (2012)
-  - **Velvet Ears 2** (2012)
-  - **Velvet Ears 5** (2012)
-  - **TRUST** (2012)
-  - **...and darkness came** (2012)
-  - **Wild Combination EP Three** (2014)
-  - **Being A Light To The World \#2** (2015)
-  - **ONE MINUTE OLDER** (2015)
 
 外部链接
 

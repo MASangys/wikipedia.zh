@@ -1,0 +1,13 @@
+[缩略图](https://zh.wikipedia.org/wiki/File:Root_beer_in_glass_mug.jpg "fig:缩略图") 根汁汽水，（Root beer，或稱**根啤，**[台灣](../Page/臺灣.md "wikilink")[金車公司](../Page/金車公司.md "wikilink")的[麥根沙士取名由來就是](https://zh.wikipedia.org/wiki/金車麥根沙士 "wikilink")[根汁汽水](https://zh.wikipedia.org/wiki/根汁汽水 "wikilink"))是一種在北美洲流行的含糖[汽水飲料](../Page/軟性飲料.md "wikilink")，傳統上，使用*[北美檫樹](../Page/北美檫樹.md "wikilink")*的樹根皮或[墨西哥菝葜](../Page/墨西哥菝葜.md "wikilink")的藤蔓作為根汁汽水的主要味道。根汁汽水可以製作成[酒](../Page/酒.md "wikilink")精性或[非酒精性](../Page/軟性飲料.md "wikilink") ，而大多數都是非酒精性的。它天然而不含[咖啡因](../Page/咖啡因.md "wikilink")，但也可以額外添加咖啡因，並且可以製作成[碳酸化或非碳酸化](https://zh.wikipedia.org/wiki/碳酸化 "wikilink")。傾注至杯子時，杯子的頂部通常會呈現厚厚的泡沫狀。到了現代，普遍商業化的根汁汽水生產時，一般是甜的、泡沫狀的、碳酸的、非酒精性，並且使用人工擦木調味料調味。 雖然傳統的根汁汽水仍然用擦木樹根做為調味，但由於其成分[黄樟素具有](../Page/黃樟素.md "wikilink")[致癌性](../Page/致癌物質.md "wikilink")，擦木被[美國食品藥物管理局禁用](../Page/美国食品药品监督管理局.md "wikilink")，因此大多數的廠商不使用擦木做為成分。 \[1\] \[2\]一些廠商所販售的根汁汽水，使用不含黄樟素的黄樟腦萃取物。 \[3\]主要的製造商包括A＆W Root Beer ， Barq's ， Dad's Root Beer ， Hires Root Beer和Mug Root Beer 。
+
+## 歷史
+
+在[歐洲人到達北美之前](../Page/美洲殖民.md "wikilink")，擦木樹根的飲料被[美洲原住民](../Page/美洲原住民.md "wikilink")作為烹飪和醫藥用途，自16世紀以來，類似於根汁氣水且基於擦木樹製成的傳統飲料，就已經在歐洲烹飪技術中被應用。自西元1840年，根汁汽水已經在糖果店中銷售，到了西元1860，根汁汽水的食譜在文獻中被記載。在1850年的早期，商店出售的根汁汽水通常以糖漿而非現成的飲料出售，顧客再將糖漿與蘇打水结合在一起。 \[4\]釀造根汁汽水的傳統被認為是從其他[小型啤酒的傳統中演變而來的](https://zh.wikipedia.org/wiki/小啤酒 "wikilink")，小型啤酒釀造時產生的酒精含量極低，並被認為比飲用水更健康，因為飲用水可能摻雜當地的汙染來源，除此之外，藉由藥用及營養品成分所改良，也是勝於飲用水的原因。除了芳香的特性之外，擦樹的藥用價值對於美洲原住民和歐洲人來說都是眾所周知的，藥劑師開始根據其藥用特性來銷售根汁汽水。 \[5\] [替代=Drawing of a boy holding an empty glass asking for more root beer, evidenced by bad contrast superimposed text](https://zh.wikipedia.org/wiki/File:All_gone_Could_I_have_another_glass_of_that_Hires'_Rootbeer.jpg "fig:替代=Drawing of a boy holding an empty glass asking for more root beer, evidenced by bad contrast superimposed text")
+
+[Category:飲料](https://zh.wikipedia.org/wiki/Category:飲料 "wikilink") [Category:美式飲料](https://zh.wikipedia.org/wiki/Category:美式飲料 "wikilink") [Category:非木材林產品](https://zh.wikipedia.org/wiki/Category:非木材林產品 "wikilink") [Category:沙士](https://zh.wikipedia.org/wiki/Category:沙士 "wikilink") [Category:汽水](https://zh.wikipedia.org/wiki/Category:汽水 "wikilink") [Category:軟性飲料](https://zh.wikipedia.org/wiki/Category:軟性飲料 "wikilink")
+
+1.
+2.
+3.
+4.
+5.

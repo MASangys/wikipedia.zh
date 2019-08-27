@@ -10,26 +10,31 @@
 
 6月28日，官方社群帳號宣布，將在 iTunes Bundle-Only Track 中額外收錄《HANN (Alone)》日語版。\[5\]
 
-6月30日，正式成立日本官方俱樂部。7月1日，陸續公開了個人及團體概念照。
+6月30日，正式成立日本官方俱樂部。7月1日，陸續公開了個人、團體概念照及MV預告。\[6\]
+
+7月23日，在日本東京[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")舉行出道Showcase。\[7\]
 
 ### 正式發行
+
+7月29日，先行公開日本首張迷你專輯《LATATA》全輯音源，並於7月31正式發售實體專輯。\[8\]
 
 ## 曲目
 
 ## 音樂錄影帶
 
-| 歌曲                                                    | 發表日期       | 媒體                                                                    | 備註  |
-| ----------------------------------------------------- | ---------- | --------------------------------------------------------------------- | --- |
-| [LATATA](https://www.youtube.com/watch?v=ypNJMDlJvY4) | 2019年7月11日 | [GIDLEVEVO](https://www.youtube.com/channel/UCt4CKlPRZbIvGekILWHjM_A) | 日語版 |
-|                                                       |            |                                                                       |     |
+| 歌曲                                                    | 發表日期       | 媒體                                                                                | 備註            |
+| ----------------------------------------------------- | ---------- | --------------------------------------------------------------------------------- | ------------- |
+| [LATATA](https://www.youtube.com/watch?v=ypNJMDlJvY4) | 2019年7月11日 | [GIDLEVEVO](https://www.youtube.com/channel/UCt4CKlPRZbIvGekILWHjM_A)             | 日語版           |
+| [LATATA](https://www.youtube.com/watch?v=bju1EGowkKo) | 2019年8月19日 | [UNIVERSAL MUSIC JAPAN](https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw) | KATE×(G)I-DLE |
+|                                                       |            |                                                                                   |               |
 
-## 榜單成績
+## 銷售榜單成績
 
-## 銷售及認證
-
-| style="background: color:black |排行榜 | 專輯名稱 | 銷量 | 來源 |
-| ----------------------------------- | ---- | -- | -- |
-|                                     |      |    |    |
+| [Oricon](../Page/Oricon.md "wikilink")榜單 | 最高位置 | 銷售量    | 總銷量   | 停留時間 | 來源 |-| | style="text-align:center;""|專輯日榜 | \#4 | — |  | 2週 | <ref>{{cite web|title=デイリー　アルバムランキング|url=[https://www.oricon.co.jp/rank/ja/d/2019-08-03/|accessdate=|author=|date=|format=|publisher=Oricon|language=ja](https://www.oricon.co.jp/rank/ja/d/2019-08-03/%7Caccessdate=%7Cauthor=%7Cdate=%7Cformat=%7Cpublisher=Oricon%7Clanguage=ja) | script-title=}}</ref> |
+| ---------------------------------------- | ---- | ------ | ----- | ---- | ------ | -------------------------------- | --- | - |  | -- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
+| 專輯週榜                                     | \#5  | 8,229+ | \[9\] |      |        |                                  |     |   |  |    |                                                                                                                                                                                                                                                                                     |                       |
+| style="text-align:center;""|專輯月榜         | \#   |        |       |      |        |                                  |     |   |  |    |                                                                                                                                                                                                                                                                                     |                       |
+| 專輯年榜                                     | \#   |        |       |      |        |                                  |     |   |  |    |                                                                                                                                                                                                                                                                                     |                       |
 
 ## 發行歷史
 
@@ -43,13 +48,21 @@
 
 ## 外部連結
 
-  - [(G)I-DLE](http://cafe.daum.net/cube-g-i-dle) 的Daum Cafe
+**(G)I-DLE 韓國**
 
   -
   -
   -
-  - [(G)I-DLE](http://channels.vlive.tv/CE2621)的V頻道
+  - [(G)I-DLE](http://cafe.daum.net/cube-g-i-dle)的Daum Cafe
 
+  -
+  - [(G)I-DLE](http://channels.vlive.tv/CE2621)的V LIVE頻道
+
+**(G)I-DLE 日本**
+
+  - 的日本官方網站
+
+  -
   -
 {{(G)I-DLE}}
 
@@ -60,3 +73,7 @@
 3.
 4.
 5.
+6.
+7.
+8.
+9.

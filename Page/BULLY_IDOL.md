@@ -4,16 +4,16 @@
 
 ## 概要
 
-2019年1月30日BILLIEIDLE®︎在他們官方\[Youtube\]頻道發佈了そして、また、、的單曲MV，在結尾中突然出現了分別是選擇GANG PARADE的カミヤサキ、BiSH的アイナ・ジ・エンド和アユニ・D、BiS（當時）的パン・ルナリーフィ和EMPiRE的MAHO EMPiRE就幾天後BILLIEIDLE®︎在他們官方[Youtube頻道發佈了一叧視頻名為BULLY](https://zh.wikipedia.org/wiki/Youtube "wikilink") IDOL "そして、また、、(リミックス) "。\[3\]。
+2019年1月30日BILLIEIDLE®︎在他們官方[Youtube頻道發佈了そして](https://zh.wikipedia.org/wiki/Youtube "wikilink")、また、、的單曲MV，在結尾中出現了分別是GANG PARADE的カミヤサキ、BiSH的アイナ・ジ・エンド和アユニ・D、BiS的パン・ルナリーフィ和EMPiRE的MAHO EMPiRE明日之後BILLIEIDLE®︎在他們官方[Youtube頻道發佈了一叧視頻名為BULLY](https://zh.wikipedia.org/wiki/Youtube "wikilink") IDOL "そして、また、、(リミックス) "。\[3\]。
 
 ## 沿革
 
 ### 2019年
 
   - 4月10日 – 發行首張單曲。《 "そして、また、、(リミックス) "》
-  - 5月11日 – 由於BiS解散，但是パン・ルナリーフィ決定留在WACK。
+  - 5月11日 – 由於BiS解散，パン・ルナリーフィ決定留在WACK。
   - 5月31日 – 首次亮相，パン・ルナリーフィ並以個人身份亮相，與BILLIEIDLE®一起在Tower Records的店舗表演。
-  - 6月19日 – パン・ルナリーフィ宣布她將加入一個臨時名稱為Curry Roux的新團體。
+  - 6月19日 – パン・ルナリーフィ並宣布她將加入一個臨時名稱為Curry Roux的新團體。
 
 ### 現任成員
 
@@ -30,7 +30,7 @@
 <tbody>
 <tr class="odd">
 <td><p>カミヤサキ</p></td>
-<td></td>
+<td><p>9月27日</p></td>
 <td><p>是GANG PARADE的成員。<br />
 </p></td>
 <td><p>プー・ルイ</p></td>
@@ -38,7 +38,7 @@
 </tr>
 <tr class="even">
 <td><p>アイナ・ジ・エンド</p></td>
-<td></td>
+<td><p>12月27日</p></td>
 <td><p>是BiSH的成員。<br />
 </p></td>
 <td><p>ヒラノノゾミ</p></td>
@@ -46,7 +46,7 @@
 </tr>
 <tr class="odd">
 <td><p>アユニ・D</p></td>
-<td></td>
+<td><p>10月12日</p></td>
 <td><p>是BiSH的成員。<br />
 </p></td>
 <td><p>モモセモモ</p></td>
@@ -63,13 +63,13 @@
 <td><p>パン・ルナリーフィ</p></td>
 <td><p>8月18日</p></td>
 <td><p>是Curry Roux的成員。<br />
-是前BiSH的成員。</p></td>
+是前BiS的成員。</p></td>
 <td><p>ファーストサマーウイカ</p></td>
 <td><p><a href="https://twitter.com/PANLUNA___">パン・ルナリーフィ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>MAHO EMPiRE</p></td>
-<td></td>
+<td><p>6月1日</p></td>
 <td><p>是EMPiRE的成員。<br />
 </p></td>
 <td><p>アキラ</p></td>
@@ -88,11 +88,8 @@
 
 ## 瑣事
 
-  - パン・ルナリーフィ是BULLY IDOL的唯一成員，不屬於WACK的其他洗牌團體（カミヤサキ、アイナ・ジ・エンド和アユニ・D是[SAiNT SEX的成員](../Page/SAiNT_SEX.md "wikilink")，而MAHO EMPiRE是[HOLY SHiTS的成員](../Page/HOLY_SHiTS.md "wikilink")）。
-
   - BULLY IDOL是WACK的第一個洗牌團體。包含有Curry Roux成員的洗牌團體。
 
-  -
 ## 参考文献
 
 ## 外部連結

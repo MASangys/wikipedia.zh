@@ -1,8 +1,8 @@
 **Burning Sun門事件**（）简称**胜利门**，是指2019年一起發生在[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[娱乐圈事件](https://zh.wikipedia.org/wiki/娛樂圈 "wikilink")。\[1\]\[2\]\[3\]\[4\]其中涉及一些名人，包括韓國偶像流行韓流團體，官員和警察。它震驚了整個韓國民間，成為[K-pop行業中涉案程度最大的一個案件](https://zh.wikipedia.org/wiki/K-pop "wikilink")。\[5\]\[6\]\[7\]醜聞包含[警察腐敗](../Page/警察腐敗.md "wikilink")等問題。包含[強姦和](https://zh.wikipedia.org/wiki/強姦 "wikilink")[針孔攝影機的指控](https://zh.wikipedia.org/wiki/針孔攝影機 "wikilink")、聊天室的不法訊息等問題。
 
-本案件開始於：2019年1月28日，當時MBC Newsdesk報導了2018年11月一名工作人員在江南一家著名的夜總會 - Burning Sun中襲擊男性俱樂部的人。
+本案件開始於：2019年1月28日，當時MBC Newsdesk報導了2018年11月一名工作人員在江南一家著名的夜總會 - Burning Sun中襲擊男性俱樂部的人。涉案人大部分退出了所有的電視節目演出。
 
-這場醜聞導致2019年3月8日的[國際婦女節在江南街頭抗議Burning](https://zh.wikipedia.org/wiki/國際婦女節 "wikilink") Sun和其他酒店，要求結束抗議者所謂的將女性視為性對象的文化。儘管成千上萬的女性在2018年類似集會也同樣反對非法拍攝和分享，但對流行偶像負面形象的指控仍令公眾感到驚訝。.\[8\]\[9\] 本次醜聞的嚴重性引發了[韓國政府下令徹底調查](../Page/韓國中央行政機關.md "wikilink")。\[10\]\[11\]
+這場醜聞導致2019年3月8日的[國際婦女節在江南街頭抗議Burning](https://zh.wikipedia.org/wiki/國際婦女節 "wikilink") Sun和其他酒店，要求結束抗議者所謂的將女性視為性對象的文化。儘管成千上萬的女性在2018年類似集會也同樣反對非法拍攝和分享，但對流行偶像負面形象的指控仍令公眾感到驚訝。\[8\]\[9\] 本次醜聞的嚴重性引發了[韓國政府下令徹底調查](../Page/韓國中央行政機關.md "wikilink")。\[10\]\[11\]
 
 ## Burning Sun夜店
 
@@ -126,7 +126,7 @@ Burning Sun夜店（）\[12\] 於2018年2月23日在江南區驛三洞首爾[艾
 
 ## 調查報告
 
-SBS調查記者檢查了KakaoTalk聊天消息，該消息是由舉報人發送到電視台SBS funE的，是Kang Kyung-yoon。
+SBS調查記者檢查了KakaoTalk聊天消息，該消息是由舉報人發送到電視台SBS funE的，是Kang Kyung-yoon。她以前的工作包括報導與前總統朴槿惠有關的腐敗案件。
 
 ## 婦女權益與抗議事件
 

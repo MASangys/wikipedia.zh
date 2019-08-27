@@ -219,15 +219,29 @@
 </tr>
 <tr class="even">
 <td><p>7月29日</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天气之子_(专辑)" title="wikilink">天氣之子</a></p></td>
 <td><p><a href="../Page/RADWIMPS.md" title="wikilink">RADWIMPS</a></p></td>
 <td><p>1.2</p></td>
 <td><p>[26]</p></td>
 </tr>
 <tr class="odd">
-<td><p>9月5日</p></td>
+<td><p>8月5日</p></td>
 <td><p>1.4</p></td>
 <td><p>[27]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月12日</p></td>
+<td><p>0.6</p></td>
+<td><p>[28]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8月19日</p></td>
+<td><p>0.4</p></td>
+<td><p>[29]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -270,3 +284,5 @@
 25. [BUMP OF CHICKEN、合算ランキングで1位 CD&デジタル同時1位に【オリコンランキング】](https://www.oricon.co.jp/news/2140267/full/)
 26. [RADWIMPS、デジタルシングル1位、2位独占 映画『天気の子』サントラも1位【オリコンランキング】](https://www.oricon.co.jp/news/2140797/full/)
 27. [RADWIMPSの映画『天気の子』サントラ、2週目で合算アルバム1位【オリコンランキング】](https://www.oricon.co.jp/news/2141290/full/)
+28. [RADWIMPS、初のデジタルSG・AL3週連続同時1位 「3作以上同時TOP10入り連続週数」歴代1位【オリコンランキング】](https://www.oricon.co.jp/news/2141810/full/)
+29. [RADWIMPS、デジタルSg\&Alが4週連続同時1位【オリコンランキング】](https://www.oricon.co.jp/news/2142255/full/)

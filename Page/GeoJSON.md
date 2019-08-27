@@ -1,6 +1,10 @@
-**GeoJSON**是一种基于[JSON](../Page/JSON.md "wikilink")的[开源标准](../Page/开源标准.md "wikilink")格式，用来表示地理信息。
+**GeoJSON**是一种基于[JSON](../Page/JSON.md "wikilink")的地理空间数据交换格式，它定义了几种类型JSON对象以及它们组合在一起的方法，以表示有关地理要素、属性和它们的空间范围的数据。
 
-功能有点（表示地理位置）、（表示街道、公路、边界）、[多边形](../Page/多边形.md "wikilink")（表示国家、省、领土），以及由以上类型组合成的复合几何图形。
+2015年，互联网工程任务组（[IETF](../Page/互联网工程任务组.md "wikilink")）与原始规范作者组建了一个GeoJSON工作组，一起规范GeoJSON标准。在2016年8月，推出了最新的GeoJSON数据格式标准规范(RFC 7946)。
+
+GeoJSON使用唯一地理坐标参考系统WGS1984和十进制度单位，一个GeoJSON对象可以是Geometry, Feature或者FeatureCollection.
+
+其几何对象包括有点（表示地理位置）、线（表示街道、公路、边界）、[多边形](../Page/多边形.md "wikilink")（表示国家、省、领土），以及由以上类型组合成的复合几何图形。
 
 基于GeoJSON作了扩展，使得文件更小。
 

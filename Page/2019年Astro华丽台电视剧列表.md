@@ -151,6 +151,19 @@ Curse of the Royal Harem</p></td>
 插：天造地設（<a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a>）</p></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>）</p></td>
 </tr>
+<tr class="odd">
+<td style="text-align: center;"><p>23/08-<br />
+04/10</p></td>
+<td style="text-align: center;"><p><a href="../Page/情逆三世緣.md" title="wikilink">情逆三世緣</a><br />
+Always And Ever</p></td>
+<td style="text-align: center;"><p>31</p></td>
+<td style="text-align: center;"><p>|<a href="../Page/歐陽震華.md" title="wikilink">歐陽震華</a>、<a href="../Page/關詠荷.md" title="wikilink">關詠荷</a>、<a href="../Page/敖嘉年.md" title="wikilink">敖嘉年</a>、<br />
+<a href="../Page/黃智雯.md" title="wikilink">黃智雯</a>、<a href="../Page/黃智賢_(香港).md" title="wikilink">黃智賢</a>、<a href="../Page/郭政鴻.md" title="wikilink">郭政鴻</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/莊偉建.md" title="wikilink">莊偉建</a></p></td>
+<td style="text-align: center;"><p>主：實屬巧合（<a href="../Page/關淑怡.md" title="wikilink">關淑怡</a>）<br />
+插：意想不到（<a href="../Page/敖嘉年.md" title="wikilink">敖嘉年</a>）</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>）</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -322,6 +335,18 @@ Stealing Seconds</p></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>）</p></td>
 </tr>
 <tr class="even">
+<td style="text-align: center;"><p>16/08-<br />
+12/09</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/翻生武林" title="wikilink">翻生武林</a><br />
+Birth Of A Hero</p></td>
+<td style="text-align: center;"><p>20</p></td>
+<td style="text-align: center;"><p><a href="../Page/蕭正楠.md" title="wikilink">蕭正楠</a>、<a href="../Page/黃智賢_(香港).md" title="wikilink">黃智賢</a>、<a href="https://zh.wikipedia.org/wiki/陳凱琳" title="wikilink">陳凱琳</a>、<br />
+<a href="../Page/姜大衛.md" title="wikilink">姜大衞</a>、<a href="../Page/湯洛雯.md" title="wikilink">湯洛雯</a>、<a href="../Page/簡慕華.md" title="wikilink">簡慕華</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/歐耀興.md" title="wikilink">歐耀興</a></p></td>
+<td style="text-align: center;"><p>主：愛是無盡（<a href="https://zh.wikipedia.org/wiki/林師傑" title="wikilink">林師傑</a>）</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>）</p></td>
+</tr>
+<tr class="odd">
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -432,6 +457,23 @@ Daddy Cool</p></td>
 <td style="text-align: center;"><p>主：逆天（<a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a>）</p></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>）</p></td>
 </tr>
+<tr class="even">
+<td style="text-align: center;"><p>07/08-<br />
+17/09</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/飛虎之潛行極戰" title="wikilink">飛虎之潛行極戰</a><br />
+Flying Tiger</p></td>
+<td style="text-align: center;"><p>30</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/苗僑偉" title="wikilink">苗僑偉</a>、<a href="https://zh.wikipedia.org/wiki/黃宗澤" title="wikilink">黃宗澤</a>、<a href="../Page/吳卓羲.md" title="wikilink">吳卓羲</a>、<br />
+<a href="../Page/張兆輝.md" title="wikilink">張兆輝</a>、<a href="../Page/王敏德.md" title="wikilink">王敏德</a>、<a href="../Page/吳岱融.md" title="wikilink">吳岱融</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯</a>、<a href="../Page/黃子恆.md" title="wikilink">黃子恆</a>、<a href="../Page/陳山聰.md" title="wikilink">陳山聰</a>、<br />
+<a href="../Page/伍詠薇.md" title="wikilink">伍詠薇</a>、<a href="../Page/龔慈恩.md" title="wikilink">龔慈恩</a>、<a href="../Page/劉美娟.md" title="wikilink">劉美娟</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/樂易玲.md" title="wikilink">樂易玲</a><br />
+<a href="../Page/李惠民.md" title="wikilink">李惠民</a></p></td>
+<td style="text-align: center;"><p>主：Reunion（<a href="https://zh.wikipedia.org/wiki/林峯" title="wikilink">林峯</a>、<a href="../Page/歐陽靖_(饒舌者).md" title="wikilink">歐陽靖</a>）<br />
+尾：雖然…這個世界（<a href="https://zh.wikipedia.org/wiki/黃宗澤" title="wikilink">黃宗澤</a>、<a href="../Page/吳卓羲.md" title="wikilink">吳卓羲</a>）</p></td>
+<td style="text-align: center;"><p>中港合拍網絡劇<br />
+外購劇（<a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a>、<a href="../Page/邵氏兄弟.md" title="wikilink">邵氏兄弟</a>國際影業有限公司）</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -530,7 +572,7 @@ Story of Yanxi Palace</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳謹言" title="wikilink">吳謹言</a>、<a href="https://zh.wikipedia.org/wiki/佘詩曼" title="wikilink">佘詩曼</a>、<a href="../Page/秦嵐.md" title="wikilink">秦　嵐</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/于正.md" title="wikilink">于　正</a></p></td>
 <td style="text-align: center;"><p>主：無常春秋（<a href="../Page/吳若希.md" title="wikilink">吳若希</a>）</p></td>
-<td style="text-align: center;"><p>外購劇（<a href="../Page/中國.md" title="wikilink">中國</a><a href="https://zh.wikipedia.org/wiki/歡娛影視" title="wikilink">歡娛影視</a>），第70集（大結局）於3月31日16:00-19:00播出（只播放一集）</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/中國.md" title="wikilink">中國</a><a href="https://zh.wikipedia.org/wiki/歡娛影視" title="wikilink">歡娛影視</a>），第70集（大結局）於3月31日16:00-17:00播出（只播放一集）</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>06/04-<br />
@@ -575,6 +617,19 @@ Apple-Colada</p></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>）</p></td>
 </tr>
 <tr class="even">
+<td style="text-align: center;"><p>27/07-<br />
+24/08</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/特技人" title="wikilink">特技人</a><br />
+The Stunt</p></td>
+<td style="text-align: center;"><p>25</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/譚俊彦" title="wikilink">譚俊彦</a>、<a href="https://zh.wikipedia.org/wiki/朱晨麗" title="wikilink">朱晨麗</a>、<a href="../Page/關楚耀.md" title="wikilink">關楚耀</a>、<br />
+<a href="../Page/傅嘉莉.md" title="wikilink">傅嘉莉</a>、<a href="../Page/胡諾言.md" title="wikilink">胡諾言</a>、<a href="../Page/沈卓盈.md" title="wikilink">沈卓盈</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/王偉仁.md" title="wikilink">王偉仁</a></p></td>
+<td style="text-align: center;"><p>主：信念（<a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a>）<br />
+插：Lonely（<a href="../Page/譚嘉儀.md" title="wikilink">譚嘉儀</a>）</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/電視廣播有限公司.md" title="wikilink">TVB</a>），第25集（大結局）於8月24日16:00-17:00播出（只播放一集）</p></td>
+</tr>
+<tr class="odd">
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

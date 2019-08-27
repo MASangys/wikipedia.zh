@@ -359,10 +359,10 @@
 全昭旻 | 金知碩、河錫辰、李伊庚<br />
 <strong>Running Man隊</strong><br />
 劉在錫、池錫辰、金鐘國、哈哈、宋智孝、李光洙、梁世燦</p></td>
-<td><p><span style=font-size:110%><strong>最終任務</strong></span><br />
+<td><p><span style=font-size:110%><strong>最終任務－春天走了</strong></span><br />
 <strong>任務隊</strong><br />
 全昭旻、河錫辰<br />
-<strong>Running Man隊</strong> | <strong>追擊者隊</strong><br />
+<strong>Running Man</strong> | <strong>追擊者隊</strong><br />
 劉在錫、池錫辰、金鐘國、哈哈、宋智孝、李光洙、梁世燦 | 金知碩、李伊庚</p></td>
 <td><p><strong>任務隊</strong><br />
 完成所有約會清單及避開Running Man及追擊者隊的追捕<br />
@@ -487,7 +487,7 @@
 ### Running Man 9週年特輯－RM國內粉絲見面會 Running區（9）計劃（5月至7月）
 
 Running Man 成立9週年計劃，所有成員以進行任務的方式與製作組進行對決選擇在粉絲見面會內表演的舞蹈和歌曲，所有成員如果任務成功的話可以自由選擇，失敗的話則由製作組選擇。
-名字概念來自[Mnet舞蹈真人秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[Dancing 9](../Page/Dancing_9.md "wikilink")》。
+名字概念來自[Mnet](../Page/Mnet.md "wikilink")舞蹈真人秀節目《[Dancing 9](../Page/Dancing_9.md "wikilink")》。
 {| class="wikitable" width="100%" style="text-align:center;font-size:90%" \!width=3.5%|次數\!\!width=3.5%|集數\!\!width=7%|播放日期
 <small>（錄影日期）</small>\!\!width=14%|嘉賓\!\!width=12%|最終地點\!\! colspan="2" width="30%" |隊伍\!\!width=9.5%|勝利條件\!\!結果及備註 |- \!386 \!452 |5月19日<small>
 （5月7日）</small> | 無嘉賓 |Heyri藝術村
@@ -495,18 +495,20 @@ Running Man 成立9週年計劃，所有成員以進行任務的方式與製作�
 ）</small> | colspan="2" |<span style="font-size:110%">**第1章－義氣擔保競賽**</span>
 **<span style="color:#EECC00">Running Man</span>
 VS
-<span style=color:#FF0000>製作組</span>** |於五小時內完成三項任務 |Running Man**勝出**
+<span style=color:#FF0000>製作組</span>** |於五小時內完成三項任務
+或
+不獲三張失敗貼紙 |Running Man**勝出**
 成員可以自由選擇在粉絲見面會時表演的舞蹈，舞蹈選擇於454集公開 |- \!387 \!453 |5月26日<small>
 （5月13日）</small> |[李相燁](../Page/李相燁.md "wikilink")、[林秀香](../Page/林秀香.md "wikilink") |金浦藝術村
 <small>（[京畿道](../Page/京畿道.md "wikilink")[金浦市](https://zh.wikipedia.org/wiki/金浦市 "wikilink")
-）</small> | colspan="2" |<span style="font-size:110%">**第2章－選定情侶演出者「2人」**</span>
+）</small> | colspan="2" |<span style="font-size:110%">**第2章－家族之間為何這樣**</span>
 **假孫子 | 假貨隊**
 哈哈 | 李相燁、林秀香
 **最愛孫子 | 真孫子隊**
 李光洙 | 劉在錫、池錫辰、金鍾國、宋智孝、全昭旻、梁世燦 |**假孫子及假貨隊**
 隱藏身份並擊敗最愛孫子或三名真孫子隊成員
 **最愛孫子及真孫子隊**
-擊敗假孫子及假貨隊 |最愛孫子及真孫子隊**勝出**
+擊敗假孫子 |最愛孫子及真孫子隊**勝出**
 假孫子及假貨隊須接受水炸彈懲罰
 同時經抽卡抽選後由劉在錫與自動當選情侶公演的哈哈成為見面會第一對表演搭檔\[14\] |- \!rowspan=2|388 \!454 |6月2日<small>
 （5月20日及21日）</small> | rowspan=4|無嘉賓 | rowspan=2|[SBS三稜鏡大樓](../Page/SBS_\(韓國\).md "wikilink")
@@ -558,7 +560,7 @@ Gummy、金鍾國、哈哈
 Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 （同上及25日）</small> |}
 
-### 常规节目（7月）
+### 常规节目（7月至）
 
 <table style="width:10%;">
 <colgroup>
@@ -623,11 +625,110 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 <strong><span style=color:#c0c0c0>金鐘國、宋智孝</strong><br />
 <strong><span style=color:#9400D3>哈哈、宋智仁</strong><br />
 <strong><span style="color:#FF1493">李光洙、Rothy</strong><br />
-<strong><span style=color:#008000>梁世燦、勝熙</strong></p></td>
+<strong><span style="color:#EECC00">梁世燦、勝熙</strong></p></td>
 <td><p>通過4輪對決後累積「分配獎品」最多</p></td>
 <td><p>哈哈、宋智仁<strong>勝出</strong><br />
 獲得韓牛禮物套裝兩份<br />
 成為「分配懲罰」最多的梁世燦、勝熙以抽卡的方式選擇與李光洙、Rothy一同接受室內跳傘大懲罰</p></td>
+</tr>
+<tr class="odd">
+<td><p>395</p></td>
+<td><p>462</p></td>
+<td><p>8月4日<small><br />
+（7月23及29日）</small></p></td>
+<td><p>無嘉賓</p></td>
+<td><p>京畿道創意中心<br />
+<small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/安山市.md" title="wikilink">安山市</a><br />
+<a href="https://zh.wikipedia.org/wiki/檀園區" title="wikilink">檀園區</a>）</small></p></td>
+<td><p><span style="font-size:110%"><strong>為甚麼不能吃</strong></span><br />
+<strong>個人戰</strong><br />
+沒有隊伍</p></td>
+<td><p>三小時內在特别任務中獲勝</p></td>
+<td><p>哈哈<strong>勝出</strong><br />
+哈哈選擇與宋智孝一同享受三分鐘吃飯<br />
+其他成員經抽卡抽選後由池錫辰接受在見面會內當嘉賓出演時進行裝扮懲罰[19]</p></td>
+</tr>
+<tr class="even">
+<td><p>396</p></td>
+<td><p>463</p></td>
+<td><p>8月11日<small><br />
+（7月30日）</small></p></td>
+<td><p><a href="../Page/成東鎰.md" title="wikilink">成東鎰</a>、<a href="https://zh.wikipedia.org/wiki/裴晟佑" title="wikilink">裴晟佑</a>、<br />
+<a href="../Page/金慧峻.md" title="wikilink">金慧峻</a>、<a href="../Page/趙怡賢.md" title="wikilink">趙怡賢</a></p></td>
+<td><p><br />
+<small>（<br />
+）</small></p></td>
+<td><p><span style="font-size:110%"><strong>神們的戰爭－變身競賽</strong></span><br />
+<strong>黑帝斯</strong><br />
+金鐘國<br />
+<strong>兄弟神(宙斯、波塞頓) | 人類隊</strong><br />
+劉在錫、宋智孝 | 池錫辰、哈哈、李光洙、全昭旻、梁世燦、成東鎰、裴晟佑、金慧俊、趙怡賢</p></td>
+<td><p><strong>黑帝斯</strong><br />
+隱藏身份並擊敗宙斯及波塞頓<br />
+<strong>兄弟神(宙斯及波塞頓)</strong><br />
+隱藏身份並不被黑帝斯淘汰出局<br />
+<strong>人類隊</strong><br />
+尋找可以擊敗黑帝斯的木椅並貼上小名牌及放在焚燒桶內</p></td>
+<td><p>兄弟神及人類隊<strong>勝出</strong><br />
+獲得高級營養劑產品[20]</p></td>
+</tr>
+<tr class="odd">
+<td><p>397</p></td>
+<td><p>464</p></td>
+<td><p>8月18日<small><br />
+（8月5日）</small></p></td>
+<td><p>無嘉賓</p></td>
+<td><p><a href="../Page/淑明女子大學.md" title="wikilink">淑明女子大學</a><br />
+<small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="https://zh.wikipedia.org/wiki/龍山區" title="wikilink">龍山區</a><a href="../Page/青坡洞.md" title="wikilink">青坡洞</a>）</small></p></td>
+<td><p><span style="font-size:110%"><strong>光復節特輯－消失的儲備金競賽</strong></span><br />
+<strong>爸爸</strong><br />
+池錫辰<br />
+<strong>異鄉人</strong><br />
+梁世燦<br />
+<strong>子女隊（個人戰）</strong><br />
+劉在錫、金鐘國、哈哈、宋智孝、李光洙、全昭旻</p></td>
+<td><p><strong>爸爸</strong><br />
+隱藏身份並破解電腦的密碼或令異鄉人及子女隊全數被淘汰出局<br />
+<strong>異鄉人</strong><br />
+隱藏身份並擊敗爸爸及子女隊<br />
+<strong>子女隊</strong><br />
+<em>個人勝出</em><br />
+成為同時擊敗爸爸及異鄉人的成員<br />
+<em>團體勝出</em><br />
+擊敗爸爸及異鄉人</p></td>
+<td><p>池錫辰<strong>勝出</strong><br />
+獲得600萬韓圜獎金，以池錫辰的名義捐贈</p></td>
+</tr>
+<tr class="even">
+<td><p>398</p></td>
+<td><p>465</p></td>
+<td><p>8月25日<small><br />
+（8月12日）</small></p></td>
+<td><p><a href="../Page/崔有華.md" title="wikilink">崔有華</a>、<a href="../Page/朴正民.md" title="wikilink">朴正民</a>、<br />
+<a href="../Page/林智妍.md" title="wikilink">林智妍</a></p></td>
+<td><p><br />
+<small>（<br />
+）</small></p></td>
+<td><p><span style="font-size:110%"><strong>勝負之神－誰也別信</strong></span><br />
+</p></td>
+<td></td>
+<td><p><strong>勝出</strong>[21]</p></td>
+</tr>
+<tr class="odd">
+<td><p>399</p></td>
+<td><p>466</p></td>
+<td><p>9月1日<small><br />
+（8月20日）</small></p></td>
+<td><p><a href="../Page/金叡園.md" title="wikilink">金叡園</a>、、<a href="https://zh.wikipedia.org/wiki/宣美" title="wikilink">宣美</a>、<br />
+<a href="../Page/Sunny_(少女時代).md" title="wikilink">Sunny</a>(<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>)</p></td>
+<td><p><br />
+<small>（<br />
+）</small></p></td>
+<td><p><span style="font-size:110%"></span><br />
+</p></td>
+<td></td>
+<td><p><strong>勝出</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -642,9 +743,9 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 <th><p>集數</p></th>
 <th><p>播放日期</p></th>
 <th><p>TNmS全國<br />
-收視率[19]</p></th>
+收視率[22]</p></th>
 <th><p>AGB全國<br />
-收視率[20]</p></th>
+收視率[23]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -832,25 +933,25 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 <td><p>461</p></td>
 <td><p>7月28日</p></td>
 <td><p>rowspan=8 </p></td>
-<td></td>
+<td><p>rowspan=4 </p></td>
 </tr>
 <tr class="even">
 <td><p>462</p></td>
-<td><p>8月4日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>8月4日  </p></td>
+<td><p>4.2%</p></td>
+<td><p>5.7%</p></td>
 </tr>
 <tr class="odd">
 <td><p>463</p></td>
 <td><p>8月11日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.3%</p></td>
+<td><p>6.2%</p></td>
 </tr>
 <tr class="even">
 <td><p>464</p></td>
 <td><p>8月18日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.2%</p></td>
+<td><p>6.1%</p></td>
 </tr>
 <tr class="odd">
 <td><p>465</p></td>
@@ -895,12 +996,15 @@ Nucksal、Code Kunst、宋智孝、梁世燦 |- \!459 |7月14日<small>
 9.  姜世娜、金鎮雄及J Black & Mmary特別出演。
 10. [王嘉爾](../Page/王嘉爾.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）特別出演，[柳賢振](../Page/柳賢振.md "wikilink")聲音出演。
 11. 結果於第450集公佈。
-12. [申河均](../Page/申河均.md "wikilink")特別出演，宣傳電影《-{zh-tw:完美搭檔;zh-cn:我的特级兄弟}-》。
-13. 宣傳電影《小委託人》。
+12. [申河均](../Page/申河均.md "wikilink")特別出演，宣傳電影《-{zh-tw:完美搭檔;zh-cn:我的特级兄弟}}-》。
+13. 宣傳電影《》。
 14. 本集末段，製作組以文字形式為第449集的內容抄襲網路漫畫《金錢遊戲》一事向原作者致歉。
 15. 本集第二部分的遊戲內容於下一集公開並提前播放下一集相關內容。
 16. 相片拍攝當日在遊戲中勝出的劉在錫飾演[美國隊長](../Page/美國隊長.md "wikilink")，池錫辰飾演[弓裔](../Page/弓裔.md "wikilink")，金鍾國飾演[-{zh-hk:變形俠醫;zh-tw:浩克;zh-cn:绿巨人}-](../Page/浩克_\(漫畫\).md "wikilink")，哈哈飾演[-{zh-hk:蟻俠; zh-tw:蟻人; zh-cn:蚁人}-](../Page/蟻人.md "wikilink")，宋智孝飾演[-{zh-tw:葛摩菈;zh-hk:嘉魔娜;zh-cn:卡魔拉}-](../Page/葛摩菈.md "wikilink")，李光洙飾演[樹人](../Page/格鲁特.md "wikilink")，全昭旻飾演[勇度](../Page/勇度.md "wikilink")，梁世燦飾演[火箭浣熊](../Page/火箭浣熊.md "wikilink")。設計概念來自電影《[復仇者聯盟4：終局之戰](https://zh.wikipedia.org/wiki/復仇者聯盟4：終局之戰 "wikilink")》
 17. [1MILLION DANCE STUDIO創辦人](../Page/1MILLION_DANCE_STUDIO.md "wikilink")特別出演。
 18. 宣傳電影《[-{zh-tw:極限逃生;zh-cn:EXIT}-](../Page/EXIT_\(電影\).md "wikilink")》。
-19. [Naver: TNmS 收視數據表](https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&query=TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&oquery=05%EC%9B%9413%EC%9D%BC++TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&tqi=TYBhglpVuowssuf%2BZewsssssscC-394882)
-20. [AGB Nielsen Media Research 收視數據表](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=1_1&area=00)
+19. 、選手崔秀仁特別出演。
+20. 宣傳電影《變身》。
+21. 宣傳電影《老千3：獨眼傑克》。
+22. [Naver: TNmS 收視數據表](https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&query=TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&oquery=05%EC%9B%9413%EC%9D%BC++TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&tqi=TYBhglpVuowssuf%2BZewsssssscC-394882)
+23. [AGB Nielsen Media Research 收視數據表](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=1_1&area=00)

@@ -8,7 +8,7 @@
 
   - －特別報告的官方網頁
 
-[Category:全球暖化](https://zh.wikipedia.org/wiki/Category:全球暖化 "wikilink") [Category:氣候變遷政策](https://zh.wikipedia.org/wiki/Category:氣候變遷政策 "wikilink") [Category:2018年環境](https://zh.wikipedia.org/wiki/Category:2018年環境 "wikilink")
+[Category:政府間氣候變化專門委員會](https://zh.wikipedia.org/wiki/Category:政府間氣候變化專門委員會 "wikilink") [Category:環境報告](https://zh.wikipedia.org/wiki/Category:環境報告 "wikilink") [Category:2018年環境](https://zh.wikipedia.org/wiki/Category:2018年環境 "wikilink") [Category:2018年文件](https://zh.wikipedia.org/wiki/Category:2018年文件 "wikilink")
 
 1.
 2.

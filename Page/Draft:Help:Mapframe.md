@@ -1,6 +1,6 @@
 本页面将演示如何使用\<mapframe/\></code>和\<maplink/\>标签显示地图。
 
-## 如何开始
+## 开始使用
 
 <mapframe text="旧金山市区" width="250" height="250" zoom="13" longitude="-122.3988" latitude="37.8013" lang="zh"/>
 

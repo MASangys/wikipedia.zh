@@ -16,12 +16,12 @@
 
 ## 相關條目
 
-  - [遠東集團](https://zh.wikipedia.org/wiki/遠東集團 "wikilink")
+  - [遠東集團](../Page/遠東集團_\(臺灣\).md "wikilink")
 
 ## 參考資料
 
 ## 外部連結
 
-[Category:台灣未來建設](https://zh.wikipedia.org/wiki/Category:台灣未來建設 "wikilink") [Category:遠東集團](https://zh.wikipedia.org/wiki/Category:遠東集團 "wikilink") [Category:2015年成立的公司](https://zh.wikipedia.org/wiki/Category:2015年成立的公司 "wikilink") [Category:台灣購物商場](https://zh.wikipedia.org/wiki/Category:台灣購物商場 "wikilink") [Category:新竹縣商場](https://zh.wikipedia.org/wiki/Category:新竹縣商場 "wikilink") [Category:竹北市](https://zh.wikipedia.org/wiki/Category:竹北市 "wikilink")
+[Category:遠東集團](https://zh.wikipedia.org/wiki/Category:遠東集團 "wikilink") [Category:2015年成立的公司](https://zh.wikipedia.org/wiki/Category:2015年成立的公司 "wikilink") [Category:台灣購物商場](https://zh.wikipedia.org/wiki/Category:台灣購物商場 "wikilink") [Category:新竹縣商場](https://zh.wikipedia.org/wiki/Category:新竹縣商場 "wikilink") [Category:竹北市](https://zh.wikipedia.org/wiki/Category:竹北市 "wikilink")
 
 1.  沈培華，[《百貨股》遠百拓點，竹北購物中心109年營運](https://www.chinatimes.com/realtimenews/20170622004509-260410?chdtv)，中時電子報，2017-06-22

@@ -7,7 +7,7 @@
 <tr class="header">
 <th><p>機種</p></th>
 <th><p><noinclude><a href="https://zh.wikipedia.org/wiki/&lt;/noinclude&gt;ZenFone_6&lt;noinclude&gt;" title="wikilink"></noinclude>ZenFone 6<noinclude></a></p></th>
-<th><p>6 <noinclude><a href="https://zh.wikipedia.org/wiki/&lt;/noinclude&gt;ZenFone" title="wikilink">ZenFone 6 Edition 30<noinclude></a></p></th>
+<th><p><noinclude><a href="https://zh.wikipedia.org/wiki/&lt;/noinclude&gt;ZenFone" title="wikilink">ZenFone 6 Edition 30<noinclude></a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -119,7 +119,7 @@
 <tr class="even">
 <td><p>機種</p></td>
 <td><p><noinclude><a href="https://zh.wikipedia.org/wiki/&lt;/noinclude&gt;ZenFone_6&lt;noinclude&gt;" title="wikilink"></noinclude>ZenFone 6<noinclude></a></p></td>
-<td><p>6 <noinclude><a href="https://zh.wikipedia.org/wiki/&lt;/noinclude&gt;ZenFone" title="wikilink">ZenFone 6 Edition 30<noinclude></a></p></td>
+<td><p><noinclude><a href="https://zh.wikipedia.org/wiki/&lt;/noinclude&gt;ZenFone" title="wikilink">ZenFone 6 Edition 30<noinclude></a></p></td>
 </tr>
 <tr class="odd">
 <td><p>型號</p></td>

@@ -12,6 +12,8 @@ Curry Roux（カレールーず）（暫稱）\[1\]是日本的音樂團體、[�
 ### 2019年
 
   - 6月19日 – 渡辺淳之介在[Twitter](../Page/Twitter.md "wikilink")宣布新偶像團體計畫‘**Curry Roux**’。
+  - 8月4日 – パン・ルナリーフィ和YUiNA EMPiRE以Curry Roux的名義參與「TOKYO IDOL FESTIVAL 2019」。並宣布パン・ルナリーフィ加入洗牌團體[SAiNT SEX](../Page/SAiNT_SEX.md "wikilink")。
+  - 8月26日 – ウルウ・ル正式成為‘**Curry Roux**’的成員。
 
 ### 2020年
 
@@ -34,17 +36,17 @@ Curry Roux（カレールーず）（暫稱）\[1\]是日本的音樂團體、[�
 <tr class="odd">
 <td><p>パン・ルナリーフィ</p></td>
 <td><p>8月18日</p></td>
-<td><p>是WACK徵選2017合格者。徵選時的名字為「オオショージメグミ」。<br />
+<td><p>是WACK徵選2017合格者和2018参加者。徵選時的名字為「オオショージメグミ」。<br />
 2019年秋季開始活動。<br />
 是前的成員<br />
-亦是的成員。<br />
+亦是<a href="../Page/SAiNT_SEX.md" title="wikilink">SAiNT SEX和</a>的成員。<br />
 為Curry Roux的（創始成員）</p></td>
 <td><p><a href="https://twitter.com/PANLUNA___">パン・ルナリーフィ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>YUiNA EMPiRE</p></td>
 <td></td>
-<td><p>是WACK徵選2017最終審査参加者。徵選時的名字為「リソリソ」。<br />
+<td><p>是WACK徵選2017最終審査参加者和2019参加者。徵選時的名字為「リソリソ」。<br />
 2019年秋季開始活動。<br />
 是前<a href="../Page/EMPiRE_(偶像團體).md" title="wikilink">EMPiRE和</a>的成員<br />
 亦曾經是的創始成員和隊長。<br />
@@ -55,9 +57,10 @@ Curry Roux（カレールーず）（暫稱）\[1\]是日本的音樂團體、[�
 <tr class="odd">
 <td><p>ウルウ・ル</p></td>
 <td><p>2月7日</p></td>
-<td><p>是WACK徵選2019參加者並完成7天的合宿。<br />
+<td><p>是WACK徵選2019參加者。<br />
 2019年秋季開始活動。<br />
-是前<a href="../Page/WAgg.md" title="wikilink">WAgg</a>成員[4]<br />
+是前<a href="../Page/WAgg.md" title="wikilink">WAgg</a>成員<br />
+亦是<a href="../Page/HOLY_SHiTS.md" title="wikilink">HOLY SHiTS的成員</a>。[4]<br />
 為Curry Roux的（創始成員）</p></td>
 <td><p><a href="https://twitter.com/URUURU_WAgg">ウルウ・ル</a></p></td>
 </tr>
@@ -124,11 +127,9 @@ Curry Roux（カレールーず）（暫稱）\[1\]是日本的音樂團體、[�
 ## 瑣事
 
   - YUiNA EMPiRE和ウルウ・ル都是2月7日同一天生日。
-  - パン・ルナリーフィ與YUiNA EMPiRE都是WACK徵選2017最終審査參加者。
-  - パン・ルナリーフィ與YUiNA EMPiRE都是前的成員。
+  - パン・ルナリーフィ和YUiNA EMPiRE都是WACK徵選2017最終審査參加者。
+  - パン・ルナリーフィ和YUiNA EMPiRE都是前的成員。
   - パン・ルナリーフィ是暫時唯一不是2月7日出生的Curry Roux的成員。
-
-## 相關條目
 
 ## 外部連結
 

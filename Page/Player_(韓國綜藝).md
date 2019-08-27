@@ -31,7 +31,7 @@
 </tbody>
 </table>
 
-《**Player》**是在[tvN上播出的](../Page/TVN.md "wikilink")[电视节目](../Page/电视节目.md "wikilink") 。
+《**Player》**（）是在[tvN上播出的](../Page/TVN.md "wikilink")[电视节目](../Page/电视节目.md "wikilink")，玩家們需忍笑並履行各自任務的節目 \[1\]。
 
 ## 節目概要
 
@@ -71,19 +71,19 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃帝聖" title="wikilink">黃帝聖</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李陳鎬" title="wikilink">李陳鎬</a></p></td>
 <td><p>骨子裹就是搞笑藝人</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李龍眞" title="wikilink">李龍眞</a></p></td>
 <td><p>相信而看的藝能大勢</p></td>
 <td></td>
 <td></td>
@@ -144,10 +144,28 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p>8月4日</p></td>
-<td><p>霸氣物們出道训练 + 第一個行程</p></td>
-<td><p><a href="../Page/張東民.md" title="wikilink">張東民</a>、<a href="../Page/金泰宇.md" title="wikilink">金泰宇</a>(<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a>)、<a href="../Page/李艺真.md" title="wikilink">Ailee</a>、<a href="../Page/朴素賢.md" title="wikilink">朴素賢</a></p></td>
+<td><p>霸氣物們出道训练</p></td>
+<td><p><a href="../Page/張東民.md" title="wikilink">張東民</a>、<a href="../Page/金泰宇.md" title="wikilink">金泰宇</a>(<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a>)、<a href="../Page/李艺真.md" title="wikilink">Ailee</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>5</p></td>
+<td><p>8月11日</p></td>
+<td><p>第一個行程 + 春川文學社團MT + 妈咪手味道食堂</p></td>
+<td><p><a href="../Page/朴素賢.md" title="wikilink">朴素賢</a>、<a href="../Page/劉憲華.md" title="wikilink">Henry</a>(實習Player)、<a href="../Page/張東民.md" title="wikilink">張東民</a>、Jonathan Thona、<a href="../Page/林湖.md" title="wikilink">林湖</a>、、、、<a href="../Page/洪允和.md" title="wikilink">洪允和</a>、<a href="../Page/率滨.md" title="wikilink">率滨</a>(<a href="../Page/LABOUM.md" title="wikilink">LABOUM</a>)、<a href="../Page/金素慧.md" title="wikilink">金素慧</a></p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>8月18日</p></td>
+<td><p>辯論對決 + 熾熱兄弟之操縱相親 (Part 1)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳重權" title="wikilink">陳重權</a>、<a href="../Page/張東民.md" title="wikilink">張東民</a>、<a href="../Page/劉憲華.md" title="wikilink">Henry</a>(實習Player)、</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>8月25日</p></td>
+<td><p>熾熱兄弟之操縱相親 (Part 2) + 作戰名爸爸的挑戰 + 不要笑家族娛樂館</p></td>
+<td><p>、、<a href="../Page/吳英實.md" title="wikilink">吳英實</a>、<a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a>(<a href="../Page/Apink.md" title="wikilink">Apink</a>)、<a href="../Page/秀斌.md" title="wikilink">秀斌</a>(<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>)</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -160,20 +178,116 @@
 
 ### 2019年
 
-| 集數     | 播出日期  | [AGB尼爾森](https://zh.wikipedia.org/wiki/AGB尼爾森 "wikilink") |
-| ------ | ----- | --------------------------------------------------------- |
-| 韩国（全国） |       |                                                           |
-| 1      | 7月14日 | 1.2％                                                      |
-| 2      | 7月21日 | 1.0％                                                      |
-| 3      | 7月28日 | 1.1％                                                      |
-| 4      | 8月4日  | ％                                                         |
-| 5      | 8月11日 | ％                                                         |
-| 6      | 8月18日 | ％                                                         |
-| 7      | 8月25日 | ％                                                         |
-| 8      | 9月1日  | ％                                                         |
-| 9      | 9月8日  | ％                                                         |
-| 10     | 9月15日 | ％                                                         |
-|        |       |                                                           |
+<table>
+<thead>
+<tr class="header">
+<th><p>集數</p></th>
+<th><p>播出日期</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AGB尼爾森" title="wikilink">AGB尼爾森</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>韩国（全国）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><center>
+<p>2019年7月14日</p>
+</center></td>
+<td><center>
+<p>1.2%</p>
+</center></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><center>
+<p>2019年7月21日</p>
+</center></td>
+<td><center>
+</center></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><center>
+<p>2019年7月28日</p>
+</center></td>
+<td><center>
+<p>1.1%</p>
+</center></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><center>
+<p>2019年8月4日</p>
+</center></td>
+<td><center>
+</center></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><center>
+<p>2019年8月11日</p>
+</center></td>
+<td><center>
+</center></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><center>
+<p>2019年8月18日</p>
+</center></td>
+<td><center>
+<p>1.2%</p>
+</center></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><center>
+<p>2019年8月25日</p>
+</center></td>
+<td><center>
+<p>%</p>
+</center></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><center>
+<p>2019年9月1日</p>
+</center></td>
+<td><center>
+<p>%</p>
+</center></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><center>
+<p>2019年9月8日</p>
+</center></td>
+<td><center>
+<p>%</p>
+</center></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><center>
+<p>2019年9月15日</p>
+</center></td>
+<td><center>
+<p>%</p>
+</center></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<small>\*收視最低的集數以表示，收視最高的集數以表示。</small>
 
 ## 外部連接
 
@@ -181,4 +295,8 @@
   - [Player Naver TV](https://tv.naver.com/cjenm.player7)
   - [Player KaoKao TV](https://tv.kakao.com/channel/3332347/video)
 
+## 參考資料
+
 [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
+
+1.

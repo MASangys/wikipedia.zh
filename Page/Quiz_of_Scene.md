@@ -1,7 +1,9 @@
-《**Quiz of Scene**》（），為韓國[tvN電視台於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年推出的綜藝節目\[1\]，由[柳炳宰](../Page/柳炳宰.md "wikilink")、[張東民](../Page/張東民.md "wikilink")、[許卿煥](../Page/許卿煥.md "wikilink")、[梁世燦](../Page/梁世燦.md "wikilink")、、[金秦禹](../Page/金秦禹.md "wikilink")（[WINNER](../Page/WINNER.md "wikilink")）\[2\]共同主持，節目主軸為是主持6人無法獨自絕對無法解開的腦力問題的解謎遊戲，彼此需要共享收到的視頻情報，一起合作找出一個答案的新風格解謎遊戲秀\[3\]\[4\]。
+《**Quiz of Scene**》（），為韓國[tvN電視台於](https://zh.wikipedia.org/wiki/tvN "wikilink")2019年推出的綜藝節目\[1\]，由[柳炳宰](../Page/柳炳宰.md "wikilink")、[張東民](../Page/張東民.md "wikilink")、[許卿煥](../Page/許卿煥.md "wikilink")、[梁世燦](../Page/梁世燦.md "wikilink")、[金峻鉉](https://zh.wikipedia.org/wiki/金峻鉉 "wikilink")、[金秦禹](../Page/金秦禹.md "wikilink")（[WINNER](../Page/WINNER.md "wikilink")）\[2\]共同主持，節目主軸為是主持6人絕對無法獨自解開的腦力問題的解謎遊戲，彼此需要共享收到的影像情報，一起合作找出答案的新風格解謎遊戲秀\[3\]\[4\]。
 
 ## 各集內容
 
+|  |
+|  |
 |  |
 |  |
 |  |
@@ -49,6 +51,16 @@
 <td><p>3</p></td>
 <td><p>2019/7/25</p></td>
 <td><p>0.7%</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>2019/8/1</p></td>
+<td><p>0.8%</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>2019/8/8</p></td>
+<td><p>0.6%</p></td>
 </tr>
 <tr class="even">
 <td></td>

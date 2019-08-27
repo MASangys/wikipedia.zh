@@ -13,8 +13,6 @@ LUCENTE是拉丁語及英語結合而成的，意思是『像星星一樣閃耀�
   - 朴河曾為男子團體「Nu'Bility」的成員，曾經參加《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》和《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》。
   - 太俊曾是[DSP媒體](../Page/DSP媒體.md "wikilink")的練習生。
 
-**出道后**
-
 ### 2018年
 
   - 9月9日，官方YouTube推出出道歌曲《Your Difference》的Teaser\[2\]。
@@ -73,7 +71,7 @@ LUCENTE是拉丁語及英語結合而成的，意思是『像星星一樣閃耀�
 <td><p>-</p></td>
 <td><p>바오</p></td>
 <td><p>Bae Seong Yeop</p></td>
-<td><p>-</p></td>
+<td><p>裴成烨</p></td>
 <td><p>배성엽</p></td>
 <td></td>
 </tr>
@@ -92,10 +90,10 @@ LUCENTE是拉丁語及英語結合而成的，意思是『像星星一樣閃耀�
 <td><p>Kogun</p></td>
 <td><p>-</p></td>
 <td><p>고건</p></td>
-<td><p>-</p></td>
+<td><p>Ko Geon</p></td>
+<td><p>高建</p></td>
+<td><p>고건</p></td>
 <td></td>
-<td><p>A</p></td>
-<td><p>主唱</p></td>
 </tr>
 <tr class="odd">
 <td><p>β</p></td>
@@ -165,176 +163,40 @@ LUCENTE是拉丁語及英語結合而成的，意思是『像星星一樣閃耀�
 
 ### 音樂節目
 
-<table>
-<thead>
-<tr class="header">
-<th><p>年份</p></th>
-<th><p>日期</p></th>
-<th><p>電視台</p></th>
-<th><p>節目名稱</p></th>
-<th><p>歌曲</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2018年</p></td>
-<td><p>9月19日</p></td>
-<td></td>
-<td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
-<td><p>Your Difference</p></td>
-</tr>
-<tr class="even">
-<td><p>9月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>9月25日</p></td>
-<td><p>SBS MTV</p></td>
-<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>9月28日</p></td>
-<td><p><a href="../Page/阿里郎电视台.md" title="wikilink">arirang</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/音乐银行" title="wikilink">音乐银行</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>9月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>9 月</p>
-<p>30日</p></td>
-<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人气歌谣.md" title="wikilink">人气歌谣</a>(SBS Inkigayo)</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10月2日</p></td>
-<td></td>
-<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10月3日</p></td>
-<td><p>MBC MUSIC</p></td>
-<td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10月4日</p></td>
-<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10月5日</p></td>
-<td><p><a href="../Page/KBS第2频道.md" title="wikilink">KBS 2</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/音乐银行" title="wikilink">音乐银行</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10月7日</p></td>
-<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="../Page/人气歌谣.md" title="wikilink">人气歌谣</a>(SBS Inkigayo)</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> MUSIC</p></td>
-<td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Arirang_TV" title="wikilink">Arirang</a></p></td>
-<td><p>Simply K-Pop</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/音乐银行" title="wikilink">音乐银行</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10月16日</p></td>
-<td><p>SBS MTV</p></td>
-<td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> MUSIC</p></td>
-<td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10月18日</p></td>
-<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>10月21日</p></td>
-<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a>(SBS Inkigayo)</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>10月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Arirang_TV" title="wikilink">Arirang</a></p></td>
-<td><p>Simply K-Pop</p></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+|                                                       |
+| ----------------------------------------------------- |
+| Your Difference                                       |
+| 年份                                                    |
+| 2018年                                                 |
+| 9月22日                                                 |
+| 9月25日                                                 |
+| 9月28日                                                 |
+| [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") |
+| 9月29日                                                 |
+| 9月30日                                                 |
+| 10月2日                                                 |
+| 10月3日                                                 |
+| 10月4日                                                 |
+| 10月5日                                                 |
+| 10月7日                                                 |
+| 10月10日                                                |
+| 10月12日                                                |
+| [KBS 2](../Page/KBS第2频道.md "wikilink")                |
+| 10月13日                                                |
+| 10月16日                                                |
+| 10月17日                                                |
+| 10月18日                                                |
+| 10月21日                                                |
+| 10月26日                                                |
 
 ### 電視/網路節目
 
-| 年份      | 日期                                           | 電視台/頻道                     | 節目名稱                     | 參與成員 |
-| ------- | -------------------------------------------- | -------------------------- | ------------------------ | ---- |
-| 2018    | 10月 4日                                       | Arirang K-POP              | Pops in Seoul            | 全體   |
-| 10月 5日  | [KBS World](../Page/KBS_World.md "wikilink") | K-rush S3 EP. 30           | Hero, Bao, Z. Hoo, Kogun |      |
-| 10月 11日 | V LIVE-Zenith Media Contents                 | 나는 가사다 (My Lyrics)         | 全體                       |      |
-| 10月 26日 | MBC ALL THE K-POP                            | Show Champion Curtain Talk | 全體                       |      |
+| 年份     | 日期                                           | 電視台/頻道                     | 節目名稱                     | 參與成員 |
+| ------ | -------------------------------------------- | -------------------------- | ------------------------ | ---- |
+| 2018   | 10月4日                                        | Arirang K-POP              | Pops in Seoul            | 全體   |
+| 10月5日  | [KBS World](../Page/KBS_World.md "wikilink") | K-rush S3 EP. 30           | Hero, Bao, Z. Hoo, Kogun |      |
+| 10月11日 | V LIVE-Zenith Media Contents                 | 나는 가사다 (My Lyrics)         | 全體                       |      |
+| 10月26日 | MBC ALL THE K-POP                            | Show Champion Curtain Talk |                          |      |
 
 ### 電台節目
 

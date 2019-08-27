@@ -62,19 +62,31 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金九拉" title="wikilink">金九拉</a></p></td>
-<td></td>
-<td></td>
-<td><p>第1集至今</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/朴俊炯.md" title="wikilink">朴俊炯</a></p></td>
 <td></td>
 <td></td>
 <td><p>第1集至今</p></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/金九拉" title="wikilink">金九拉</a></p></td>
+<td></td>
+<td></td>
+<td><p>第1集至今</p></td>
+</tr>
 <tr class="odd">
-<td><p>黄帝聖</p></td>
+<td><p><a href="../Page/Boom_(藝人).md" title="wikilink">Boom</a></p></td>
+<td></td>
+<td></td>
+<td><p>第1集至今</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/黃帝聖" title="wikilink">黃帝聖</a></p></td>
+<td></td>
+<td></td>
+<td><p>第1集至今</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/嚴賢璟.md" title="wikilink">嚴賢璟</a></p></td>
 <td></td>
 <td></td>
 <td><p>第1集至今</p></td>
@@ -138,22 +150,6 @@
 <tr class="odd">
 <td><p>8</p></td>
 <td><p>2019/08/04</p></td>
-</tr>
-<tr class="even">
-<td><p>9</p></td>
-<td><p>2019/08/11</p></td>
-</tr>
-<tr class="odd">
-<td><p>10</p></td>
-<td><p>2019/08/18</p></td>
-</tr>
-<tr class="even">
-<td><p>11</p></td>
-<td><p>2019/08/25</p></td>
-</tr>
-<tr class="odd">
-<td><p>12</p></td>
-<td><p>2019/09/01</p></td>
 </tr>
 <tr class="even">
 <td></td>

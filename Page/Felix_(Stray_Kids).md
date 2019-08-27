@@ -21,11 +21,11 @@
 
 ### 主持
 
-| 年份      | 日期                                                                | 電視台                                                   | 節目名稱                                                                     | 共同參與團員   | 備註         |
-| ------- | ----------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------ | -------- | ---------- |
-| 2018年   | 10月25日                                                            | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 昇玟       | Special MC |
-| 2019年   | 3月28日                                                             |                                                       |                                                                          |          |            |
-| 7月1日－至今 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[Pops in Seoul](../Page/韓國音樂流行榜.md "wikilink")》      |                                                                          | **固定MC** |            |
+| 年份      | 日期                                                                | 電視台                                              | 節目名稱                                                                     | 共同參與團員   | 備註         |
+| ------- | ----------------------------------------------------------------- | ------------------------------------------------ | ------------------------------------------------------------------------ | -------- | ---------- |
+| 2018年   | 10月25日                                                            | [Mnet](../Page/Mnet.md "wikilink")               | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 昇玟       | Special MC |
+| 2019年   | 3月28日                                                             |                                                  |                                                                          |          |            |
+| 7月1日－至今 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[Pops in Seoul](../Page/韓國音樂流行榜.md "wikilink")》 |                                                                          | **固定MC** |            |
 
 ### 綜藝節目
 

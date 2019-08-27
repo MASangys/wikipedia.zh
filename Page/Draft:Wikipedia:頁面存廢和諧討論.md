@@ -22,21 +22,9 @@ __NOINDEX__
 
 假装自己是管理員的你現在可處理{{\#time:Y年4月1日 (星期D) 00:00|-365 days}} (UTC)前發起且已有共識的討論。
 
-| [頁面存廢和諧討論](https://zh.wikipedia.org/wiki/Wikipedia:頁面存廢和諧討論 "wikilink") | **** - <small>[積壓投票](https://zh.wikipedia.org/wiki/Wikipedia:頁面存廢和諧討論#積壓投票 "wikilink")·[綜合](https://zh.wikipedia.org/wiki/Wikipedia:頁面存廢和諧討論#积压投票 "wikilink") - [記錄全集](https://zh.wikipedia.org/wiki/Special:PrefixIndex/Wikipedia:頁面存廢和諧討論#記錄 "wikilink")<span style="color:#C0C0C0;">（2008年8月12日以前）</span> - </small>                                                                                                                                                                                                                                                    |
-| ----------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 按世紀                                                                     | <span title="是世紀沒有任何頁面被提出存廢和諧討論" style="color:#C0C0C0; font-weight: normal;">19世紀</span> - <span title="是世紀沒有任何頁面被提出存廢和諧討論" style="color:#C0C0C0; font-weight: normal;">20世紀</span> - **21世紀** - <span title="是世紀沒有任何頁面被提出存廢和諧討論" style="color:#C0C0C0; font-weight: normal;">22世紀</span> - <span title="是世紀沒有任何頁面被提出存廢和諧討論" style="color:#C0C0C0; font-weight: normal;">23世紀</span> - <span title="是世紀沒有任何頁面被提出存廢和諧討論" style="color:#C0C0C0; font-weight: normal;">24世紀</span> - <span title="是世紀沒有任何頁面被提出存廢和諧討論" style="color:#C0C0C0; font-weight: normal;">25世紀</span> |
-| 十四年前                                                                    | <span title="是年沒有任何頁面被提出存廢和諧討論" style="color:#C0C0C0; font-weight: normal;">2006年</span>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 七年前                                                                     | **[2013年](https://zh.wikipedia.org/wiki/Wikipedia:頁面存廢討論/記錄/2013/04/01 "wikilink")（混杂）**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-
 <inputbox> type=fulltext prefix=Wikipedia:頁面存廢和諧討論/記錄/ break=no searchbuttonlabel=搜尋過往存廢討論 </inputbox>
 
 ## 论述
-
-## 各年存廢
-
-  - [2017年愚人節存廢記錄](https://zh.wikipedia.org/wiki/Wikipedia:頁面存廢和諧討論/記錄/2017/04/01 "wikilink")
-  - [2018年愚人節存廢記錄](https://zh.wikipedia.org/wiki/Wikipedia:頁面存廢和諧討論/記錄/2018/04/01 "wikilink")
-  - [2019年愚人節存廢記錄](https://zh.wikipedia.org/wiki/Wikipedia:頁面存廢和諧討論/記錄/2019/04/01 "wikilink")
 
 ## 參與討論
 

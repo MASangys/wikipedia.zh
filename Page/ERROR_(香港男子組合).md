@@ -45,24 +45,26 @@
 
 ### 綜藝節目（ViuTV）
 
-| style="background: \#000000; color: white;|年份 | style="background: \#000000; color: white;|節目名稱       | style="background: \#000000; color: white;|參與成員 | style="background: \#000000; color: white;|備註 |
-| --------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
-| 2019年                                         | [Interviu](../Page/Interviu.md "wikilink")            | 全體                                              | 訪問嘉賓                                          |
-| 2019年                                         | [花姐ERROR遊](../Page/花姐ERROR遊.md "wikilink")            | 全體                                              |                                               |
-| 2019年                                         | ERROR金豬賀歲暨花姐巡遊                                        | 全體                                              |                                               |
-| 2019年                                         | 見習女神                                                  | 肥仔                                              |                                               |
-| 2019年                                         | Cooking Gigi 台灣篇                                      | 肥仔、保錡                                           |                                               |
-| 2019年                                         | [估你唔到](https://zh.wikipedia.org/wiki/估你唔到 "wikilink") | 肥仔、保錡、193                                       | 第1-2集嘉賓                                       |
+| style="background: \#000000; color: white;|年份 | style="background: \#000000; color: white;|節目名稱 | style="background: \#000000; color: white;|參與成員 | style="background: \#000000; color: white;|備註 |
+| --------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
+| 2019年                                         | [Interviu](../Page/Interviu.md "wikilink")      | 全體                                              | 訪問嘉賓                                          |
+| 2019年                                         | [花姐ERROR遊](../Page/花姐ERROR遊.md "wikilink")      | 全體                                              |                                               |
+| 2019年                                         | ERROR金豬賀歲暨花姐巡遊                                  | 全體                                              |                                               |
+| 2019年                                         | 見習女神                                            | 肥仔                                              |                                               |
+| 2019年                                         | Cooking Gigi 台灣篇                                | 肥仔、保錡                                           |                                               |
+| 2019年                                         | [估你唔到](../Page/估你唔到.md "wikilink")              | 肥仔、保錡、193                                       | 第1-2集嘉賓                                       |
+| 2019年                                         | [花姐ERROR遊 2](../Page/花姐ERROR遊.md "wikilink")    | 全體                                              |                                               |
 
 ### 劇集（ViuTV）
 
-| style="background: \#000000; color: white;|年份 | style="background: \#000000; color: white;|劇集名稱       | style="background: \#000000; color: white;|參與成員 | style="background: \#000000; color: white;|備註 |
-| --------------------------------------------- | ----------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
-| 2018年                                         | [做演藝嘅](https://zh.wikipedia.org/wiki/做演藝嘅 "wikilink") | 全體                                              |                                               |
-| 2019年                                         | [退休女皇](https://zh.wikipedia.org/wiki/退休女皇 "wikilink") | 肥仔、保錡                                           |                                               |
-| 2019年                                         | [仇老爺爺](../Page/仇老爺爺.md "wikilink")                    | Dee                                             |                                               |
-| 2019年                                         | Reboot                                                | Dee                                             |                                               |
-| 2019年                                         | [娛樂風雲](https://zh.wikipedia.org/wiki/娛樂風雲 "wikilink") | 全體                                              |                                               |
+| style="background: \#000000; color: white;|年份 | style="background: \#000000; color: white;|劇集名稱             | style="background: \#000000; color: white;|參與成員 | style="background: \#000000; color: white;|備註 |
+| --------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------- | --------------------------------------------- |
+| 2018年                                         | [做演藝嘅](https://zh.wikipedia.org/wiki/做演藝嘅 "wikilink")       | 全體                                              |                                               |
+| 2019年                                         | [退休女皇](https://zh.wikipedia.org/wiki/退休女皇 "wikilink")       | 肥仔、保錡                                           |                                               |
+| 2019年                                         | [仇老爺爺](../Page/仇老爺爺.md "wikilink")                          | Dee                                             |                                               |
+| 2019年                                         | Reboot                                                      | Dee                                             |                                               |
+| 2019年                                         | [娛樂風雲](https://zh.wikipedia.org/wiki/娛樂風雲 "wikilink")       | 全體                                              |                                               |
+| 2019年                                         | [理想國](https://zh.wikipedia.org/wiki/理想國_\(電視劇\) "wikilink") | 肥仔                                              | 第9集                                           |
 
 ### MV
 
@@ -123,6 +125,11 @@
 <td><p>主持</p></td>
 </tr>
 <tr class="odd">
+<td><p>2019年8月11日</p></td>
+<td><p>ViuTV《花姐ERROR遊 2》記者會</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

@@ -28,10 +28,9 @@ Zameen.com与合作，举办了2013年巴基斯坦房地产博览会（）\[20\]
 
 ## 评价及荣誉
 
-  - 房地产网站研究机构——房地产门户网站观察（）在2015年和2016年，分别将Zameen.com评为“全球五大房地产门户网站之一”和“全球八大房地产门户网站之一”。\[35\]\[36\]
-  - 巴基斯坦主要英文报纸《[喀拉蚩新聞報](https://zh.wikipedia.org/wiki/喀拉蚩新聞報 "wikilink")》称，Zameen.com“彻底改变了巴基斯坦的在线房地产行业”\[37\]。
-  - Zameen.com在2008年[美国](../Page/美国.md "wikilink")[全国广播公司](../Page/全国广播公司.md "wikilink")财经频道的国际房地产大奖(International Property Awards)中获得了“全球最佳房地产门户网站奖”(Best Property Portal in the World Award)。\[38\]
+Zameen.com在2008年[美国](../Page/美国.md "wikilink")[全国广播公司](../Page/全国广播公司.md "wikilink")财经频道的国际房地产大奖(International Property Awards)中获得了“全球最佳房地产门户网站奖”(Best Property Portal in the World Award)。\[35\] 房地产网站研究机构——房地产门户网站观察（）则在2015年和2016年，分别将Zameen.com评为“全球五大房地产门户网站之一”和“全球八大房地产门户网站之一”。\[36\]\[37\]此外，巴基斯坦主要英文报纸《[喀拉蚩新聞報](https://zh.wikipedia.org/wiki/喀拉蚩新聞報 "wikilink")》称，Zameen.com“彻底改变了巴基斯坦的在线房地产行业”\[38\]。
 
+  -
 ## 另见
 
   -
@@ -70,9 +69,9 @@ Zameen.com与合作，举办了2013年巴基斯坦房地产博览会（）\[20\]
 26.
 27.
 28.
-29.  Flare|author=Team|first=Flare|date=2018-03-07|work=Flare|accessdate=2018-06-13|language=en-US}}
+29.  Flare|author=Team|first=Flare|date=2018-03-07|work=Flare|accessdate=2018-06-13|language=en-US|archive-url=[https://web.archive.org/web/20180613160343/https://www.flare.pk/zameen-expo-becomes-pakistans-trusted-real-estate-exhibitions-brand/|archive-date=2018-06-13|dead-url=no](https://web.archive.org/web/20180613160343/https://www.flare.pk/zameen-expo-becomes-pakistans-trusted-real-estate-exhibitions-brand/%7Carchive-date=2018-06-13%7Cdead-url=no)}}
 30.
-31.  Breaking News Pakistan|work=breakingnewspak.com|language=en-US|accessdate=2018-06-13}}
+31.  Breaking News Pakistan|work=breakingnewspak.com|language=en-US|accessdate=2018-06-13|archive-url=[https://web.archive.org/web/20180613161922/https://breakingnewspak.com/pakistan-property-show-taking-pakistani-real-estate-industry-global/|archive-date=2018-06-13|dead-url=no](https://web.archive.org/web/20180613161922/https://breakingnewspak.com/pakistan-property-show-taking-pakistani-real-estate-industry-global/%7Carchive-date=2018-06-13%7Cdead-url=no)}}
 32.
 33.
 34.

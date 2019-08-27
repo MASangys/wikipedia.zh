@@ -56,13 +56,13 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年7月19日－<br />
 2019年9月7日</p></td>
-<td style="text-align: center;"><p><a href="../Page/醫生約翰.md" title="wikilink">醫生約翰</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/醫生耀漢" title="wikilink">醫生耀漢</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/池晟.md" title="wikilink">池晟</a>、<a href="../Page/李世榮_(韓國).md" title="wikilink">李世榮</a>、<a href="../Page/李奎炯.md" title="wikilink">李奎炯</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/趙秀沅.md" title="wikilink">趙秀沅</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金智允" title="wikilink">金智允</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>原作：<a href="https://zh.wikipedia.org/wiki/久坂部羊" title="wikilink">久坂部羊</a>《<a href="https://zh.wikipedia.org/wiki/神之手" title="wikilink">神之手</a>》</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019年9月27日－<br />
@@ -84,6 +84,56 @@
 <td style="text-align: center;"><p><a href="../Page/南宮珉.md" title="wikilink">南宮珉</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭東允" title="wikilink">鄭東允</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李新華（編劇）" title="wikilink">李新華</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+</tbody>
+</table>
+
+### 2020年
+
+<table style="width:326%;">
+<colgroup>
+<col style="width: 60%" />
+<col style="width: 17%" />
+<col style="width: 50%" />
+<col style="width: 24%" />
+<col style="width: 90%" />
+<col style="width: 70%" />
+<col style="width: 15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><p>播放<br />
+日期</p></th>
+<th style="text-align: center;"><p>電視劇集名稱</p></th>
+<th style="text-align: center;"><p>集數</p></th>
+<th style="text-align: center;"><p>主演</p></th>
+<th style="text-align: center;"><p>导演</p></th>
+<th style="text-align: center;"><p>编剧</p></th>
+<th style="text-align: center;"><p>備注</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p>2020年月日－<br />
+2020年月日</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/浪漫醫生金師傅2" title="wikilink">浪漫醫生金師傅2</a><br />
+</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/韓石圭.md" title="wikilink">韓石圭</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/劉仁植.md" title="wikilink">劉仁植</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/姜銀慶.md" title="wikilink">姜銀慶</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2020年月日－<br />
+2020年月日</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/The_King：永遠的君主" title="wikilink">The King：永遠的君主</a><br />
+</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李敏鎬" title="wikilink">李敏鎬</a>、<a href="../Page/金高銀.md" title="wikilink">金高銀</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/白尚勳" title="wikilink">白尚勳</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金銀淑.md" title="wikilink">金銀淑</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

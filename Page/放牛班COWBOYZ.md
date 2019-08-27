@@ -10,6 +10,7 @@
 ### 2019年
 
   - 1月25日發表 路上MY WAY
+  - 7月30日發表 SEASON GIRLS
 
 ## 成員
 
@@ -34,12 +35,13 @@
 
 ### 單曲
 
-| 曲名                                                 | 發行日期        | 唱片公司    |
-| -------------------------------------------------- | ----------- | ------- |
-| [醉大漢](https://www.youtube.com/watch?v=GMR8Z-u0ZV0) | 2018年8月10日  | 瑞耳蓋斯工作室 |
-| [妳](https://www.youtube.com/watch?v=CAaSb3maRsk)   | 2018年11月10日 | 瑞耳蓋斯工作室 |
-| [路上](https://www.youtube.com/watch?v=pvdUt7v-4z8)  | 2019年1月25日  | 瑞耳蓋斯工作室 |
-|                                                    |             |         |
+| 曲名                                                                     | 發行日期        | 唱片公司    |
+| ---------------------------------------------------------------------- | ----------- | ------- |
+| [醉大漢](https://www.youtube.com/watch?v=GMR8Z-u0ZV0)                     | 2018年8月10日  | 瑞耳蓋斯工作室 |
+| [妳](https://www.youtube.com/watch?v=CAaSb3maRsk)                       | 2018年11月10日 | 瑞耳蓋斯工作室 |
+| [路上](https://www.youtube.com/watch?v=pvdUt7v-4z8)                      | 2019年1月25日  | 瑞耳蓋斯工作室 |
+| [SEASON GIRLS](https://www.youtube.com/watch?v=6DmHsiHTYeE)ft. JILU DG | 2019年7月30日  | 瑞耳蓋斯工作室 |
+|                                                                        |             |         |
 
 ### MV演出
 
@@ -51,9 +53,10 @@
 
 **2019年**
 
-| **首播日期** | **歌曲**                                            | **歌手**      | **出演成員**    |
-| -------- | ------------------------------------------------- | ----------- | ----------- |
-| 2月12日    | [路上](https://www.youtube.com/watch?v=pvdUt7v-4z8) | |放牛班COWBOYZ | |放牛班COWBOYZ |
+| **首播日期** | **歌曲**                                                                 | **歌手**      | **出演成員**            |
+| -------- | ---------------------------------------------------------------------- | ----------- | ------------------- |
+| 2月12日    | [路上](https://www.youtube.com/watch?v=pvdUt7v-4z8)                      | |放牛班COWBOYZ | |放牛班COWBOYZ         |
+| 8月7日     | [SEASON GIRLS](https://www.youtube.com/watch?v=6DmHsiHTYeE)ft. JILU DG | |放牛班COWBOYZ | |放牛班COWBOYZ JILU DG |
 
 ## 參考資料
 

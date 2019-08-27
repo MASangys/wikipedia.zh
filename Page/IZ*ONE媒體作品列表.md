@@ -17,7 +17,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2018年10月25日－11月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="../Page/IZ*ONE_CHU.md" title="wikilink">IZ*ONE CHU</a>》</p></td>
 <td><p>全員</p></td>
 <td><p>出道综艺</p></td>
@@ -336,6 +336,14 @@
 <td><p>日本电视台</p></td>
 <td><p>《BUZZ RHYTHM 02》</p></td>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8月19日</p></td>
+<td><p>日本电视台</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/闲聊007" title="wikilink">闲聊007</a>》</p></td>
 <td></td>
 <td></td>
 <td></td>

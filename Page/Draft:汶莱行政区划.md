@@ -1,86 +1,42 @@
-The **administrative divisions of Brunei** mainly consist of *daerah*
-([districts](https://zh.wikipedia.org/wiki/區域 "wikilink")), *mukim* ()
-and *kampung* or *kampong* ([villages](../Page/村.md "wikilink")). They
-are organised hierarchically, with *daerah* being the first level and
-*kampong* the third level.
+The **administrative divisions of Brunei** mainly consist of *daerah* ([districts](https://zh.wikipedia.org/wiki/區域 "wikilink")), *mukim* () and *kampung* or *kampong* ([villages](../Page/村.md "wikilink")). They are organised hierarchically, with *daerah* being the first level and *kampong* the third level.
 
-There are also a few municipal divisions: [Bandar Seri
-Begawan](../Page/斯里巴加湾市.md "wikilink") and a few district towns. They
-are considered to be outside the hierarchy of the main administrative
-division.
+There are also a few municipal divisions: [Bandar Seri Begawan](../Page/斯里巴加湾市.md "wikilink") and a few district towns. They are considered to be outside the hierarchy of the main administrative division.
 
-All the administrative divisions are under direct governance of the
-government through the Ministry of Home Affairs. Generally, the
-administrative divisions serve for population census. The administrative
-areas have limited to no autonomy, and is more pronounced towards the
-lowest administrative level. The major socio-political aspects such as
-education and law are centralised and managed through separate
-government ministries or departments.
+All the administrative divisions are under direct governance of the government through the Ministry of Home Affairs. Generally, the administrative divisions serve for population census. The administrative areas have limited to no autonomy, and is more pronounced towards the lowest administrative level. The major socio-political aspects such as education and law are centralised and managed through separate government ministries or departments.
 
 ## Districts
 
-There are four districts in Brunei:
-[Brunei-Muara](https://zh.wikipedia.org/wiki/汶萊摩拉縣 "wikilink"),
-[Belait](https://zh.wikipedia.org/wiki/馬來奕縣 "wikilink"),
-[Tutong](https://zh.wikipedia.org/wiki/都東縣 "wikilink") and
-[Temburong](../Page/淡武廊縣.md "wikilink"). Brunei-Muara is the smallest
-district but has the most population.\[1\] Belait is the largest
-district and the centre for the production of oil and gas.\[2\]
+There are four districts in Brunei: [Brunei-Muara](https://zh.wikipedia.org/wiki/汶萊摩拉縣 "wikilink"), [Belait](https://zh.wikipedia.org/wiki/馬來奕縣 "wikilink"), [Tutong](https://zh.wikipedia.org/wiki/都東縣 "wikilink") and [Temburong](../Page/淡武廊縣.md "wikilink"). Brunei-Muara is the smallest district but has the most population.\[1\] Belait is the largest district and the centre for the production of oil and gas.\[2\]
 
-A district is headed by a *Pegawai Daerah* or District Officer and
-assisted by an Assistant District Officer.
+A district is headed by a *Pegawai Daerah* or District Officer and assisted by an Assistant District Officer.
 
 ## Mukims
 
-The administrative level of *mukim* lies below the district. At present,
-there are 38 mukims, with 17 in Brunei-Muara,\[3\] 8 in Tutong,\[4\] 8
-in Belait\[5\] and 5 in Temburong District.\[6\] A *mukim* is headed by
-a *penghulu.*
+The administrative level of *mukim* lies below the district. At present, there are 38 mukims, with 17 in Brunei-Muara,\[3\] 8 in Tutong,\[4\] 8 in Belait\[5\] and 5 in Temburong District.\[6\] A *mukim* is headed by a *penghulu.*
 
 ## Villages
 
-A village ( or **) is the lowest administrative level in Brunei and
-headed by a *ketua kampong* or . Its population varies from a few
-hundreds to units of thousands.
+A village ( or **) is the lowest administrative level in Brunei and headed by a *ketua kampong* or . Its population varies from a few hundreds to units of thousands.
 
-[Kampong Ayer](../Page/甘榜亞逸.md "wikilink") is not considered a *kampong*
-administrative division. It is simply a common term in referring to the
-whole of the cluster of settlements on the Brunei River. However,
-Kampong Ayer is a large area which consists of a few *mukim* and a
-number of *kampong*.\[7\]
+[Kampong Ayer](../Page/甘榜亞逸.md "wikilink") is not considered a *kampong* administrative division. It is simply a common term in referring to the whole of the cluster of settlements on the Brunei River. However, Kampong Ayer is a large area which consists of a few *mukim* and a number of *kampong*.\[7\]
 
 ## Municipalities
 
-There are four areas of population which are considered to be *bandaran*
-or municipality, namely:
+There are four areas of population which are considered to be *bandaran* or municipality, namely:
 
-  - [Bandar Seri Begawan](../Page/斯里巴加湾市.md "wikilink"), the country's
-    capital; also the capital of Brunei-Muara District;
+  - [Bandar Seri Begawan](../Page/斯里巴加湾市.md "wikilink"), the country's capital; also the capital of Brunei-Muara District;
 
-  - [Kuala Belait](../Page/马来奕.md "wikilink"), the administrative town
-    for Belait District;
+  - [Kuala Belait](../Page/马来奕.md "wikilink"), the administrative town for Belait District;
 
   - , a town in Belait District; and
 
   - , the administrative town for Tutong District.
 
-The municipalities are considered outside the hierarchy of the main
-administrative division, as their spatial jurisdiction do not
-necessarily fit to any of the levels, as well as their sizes are not
-consistent — Bandar Seri Begawan comprises several mukims but other
-towns comprise only a few villages. Also, the municipalities are
-governed under different departments from that which administer the
-districts and their subdivisions, although still within the same
-ministry.\[8\]
+The municipalities are considered outside the hierarchy of the main administrative division, as their spatial jurisdiction do not necessarily fit to any of the levels, as well as their sizes are not consistent — Bandar Seri Begawan comprises several mukims but other towns comprise only a few villages. Also, the municipalities are governed under different departments from that which administer the districts and their subdivisions, although still within the same ministry.\[8\]
 
-The municipalities are headed by *Pengerusi Lembaga Bandaran* or Town
-Board Chairman.
+The municipalities are headed by *Pengerusi Lembaga Bandaran* or Town Board Chairman.
 
-While [Bangar](../Page/邦阿.md "wikilink") is the focal town of Temburong,
-it is yet to have a municipal status. Although the official name for
-Bangar is  (literally translates as 'Bangar Town'), it is a village
-subdivision. Similarly,  () is a port town in Brunei-Muara District but
-it is also administered as a village under the mukim of .
+While [Bangar](../Page/邦阿.md "wikilink") is the focal town of Temburong, it is yet to have a municipal status. Although the official name for Bangar is  (literally translates as 'Bangar Town'), it is a village subdivision. Similarly,  () is a port town in Brunei-Muara District but it is also administered as a village under the mukim of .
 
 ## 参考
 

@@ -12,7 +12,7 @@
 
 做为全版本共通的B面曲，单曲收录了指原莉乃的毕业曲《我也是偶像\!》\[8\]。Type A收录了AKB48 B面选拔的歌曲《Generation Change》，Type B收录了[AKB48集团与](https://zh.wikipedia.org/wiki/AKB48集团 "wikilink")[坂道系列](../Page/坂道系列.md "wikilink")的合作企划“坂道AKB”第3弹的歌曲《初恋之门》\[9\]，Type C则收录了2018年12月于《[2018 FNS歌謡祭 第2夜](https://zh.wikipedia.org/wiki/FNS歌謡祭 "wikilink")》初次表演的由AKB48、[乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")、[櫸坂46](../Page/櫸坂46.md "wikilink")、IZ\*ONE的合作分队“IZ4648”演唱的歌曲《必然性》\[10\]，另外劇場盤则收录了自AKB48集团选拔的新小分队「Sucheese」（）的歌曲《從屋顶呼喊》\[11\]。
 
-## 封面
+## 封面寫真
 
 宣传照及单曲封面由参与[淘儿唱片](https://zh.wikipedia.org/wiki/淘儿唱片 "wikilink")「NO MUSIC, NO LIFE.」促销宣传等的负责\[12\]。
 
@@ -74,7 +74,7 @@
 
 ### Generation Change
 
-  - 「AKB48副歌選拔」（）名義
+  - 「AKB48 B面选拔」（）名義
 
 （中心成員：西川怜）
 

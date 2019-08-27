@@ -34,7 +34,7 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 
 [林煐岷](../Page/林煐岷.md "wikilink")曾在[RBW娛樂當過練習生](../Page/Rainbow_Bridge_World.md "wikilink")。後參加ALL IN ONE聯合選秀，於3500人中獲得第一名，Musicwands、[Brand New Music](../Page/Brand_New_Music.md "wikilink")、[樂華娱乐和](https://zh.wikipedia.org/wiki/樂華娱乐 "wikilink")[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")最終合格，並於2016年10月選擇簽約[Brand New Music成為旗下練習生](../Page/Brand_New_Music.md "wikilink")。
 
-2017年，[林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")、[朴佑鎭](../Page/朴佑鎮.md "wikilink")、[李大輝](../Page/李大輝.md "wikilink")出演[Mnet選秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，最後[李大輝](../Page/李大輝.md "wikilink")以第三名、[朴佑鎭以第六名進入](../Page/朴佑鎮.md "wikilink")[Wanna One出道](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")，[林煐岷](../Page/林煐岷.md "wikilink")獲得十五名、[金東賢](../Page/金東賢.md "wikilink")則是二十八名遺憾未進入出道組。
+2017年，[林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")、[朴佑鎭](../Page/朴佑鎮.md "wikilink")、[李大輝](../Page/李大輝.md "wikilink")出演[Mnet](../Page/Mnet.md "wikilink")選秀節目《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，最後[李大輝](../Page/李大輝.md "wikilink")以第三名、[朴佑鎭以第六名進入](../Page/朴佑鎮.md "wikilink")[Wanna One出道](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")，[林煐岷](../Page/林煐岷.md "wikilink")獲得十五名、[金東賢](../Page/金東賢.md "wikilink")則是二十八名遺憾未進入出道組。
 
 2017年8月7日，[朴佑鎭](../Page/朴佑鎮.md "wikilink")、[李大輝](../Page/李大輝.md "wikilink")以[Wanna One成員出道](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")。\[6\]
 
@@ -84,7 +84,7 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 <li>發行日期 ：2019年5月22日</li>
 <li>語言：韓語</li>
 <li>類型：Ballad, Dance</li>
-<li>銷量：151,724+[20]</li>
+<li>銷量：163,466+[20]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -95,11 +95,11 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 
 ### 專屬綜藝節目
 
-| 日期               | |頻道                                                   | |節目名稱                                              | |集數        | 出演成員 |
-| ---------------- | ----------------------------------------------------- | -------------------------------------------------- | ---------- | ---- |
-| 2019年4月18日-6月13日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [BRANDNEWBOYS](../Page/BRANDNEWBOYS.md "wikilink") | 共8集 \[21\] | 全員   |
-| 2019年6月1日-7月9日   | Dingo                                                 | 義氣遊戲                                               | 共6集        | 全員   |
-|                  |                                                       |                                                    |            |      |
+| 日期               | |頻道                                | |節目名稱                                              | |集數        | 出演成員 |
+| ---------------- | ---------------------------------- | -------------------------------------------------- | ---------- | ---- |
+| 2019年4月18日-6月13日 | [Mnet](../Page/Mnet.md "wikilink") | [BRANDNEWBOYS](../Page/BRANDNEWBOYS.md "wikilink") | 共8集 \[21\] | 全員   |
+| 2019年6月1日-7月9日   | Dingo                              | 義氣遊戲                                               | 共6集        | 全員   |
+|                  |                                    |                                                    |            |      |
 
 ### 出演綜藝節目
 
@@ -130,7 +130,7 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 </tr>
 <tr class="odd">
 <td><p>2019年5月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="../Page/TMI_News.md" title="wikilink">TMI News</a></p></td>
 <td><p>全員</p></td>
 <td><p>EP05</p></td>
@@ -318,7 +318,7 @@ AB6IX的打招呼方式為一邊講「Salute\!大家好\!我們是AB6IX\!」（�
 | 2019/07/22 | 韓國  | 2019 ULSAN SUMMER FESTIVAL   |
 | 2019/08/09 | 日本  | 2019 Next generation live    |
 | 2019/08/17 | 美國  | KCON 2019 LA                 |
-| 2019/08/23 | 韓國  | 2019 K-World Festa           |
+| 2019/08/23 | 韓國  | 2019 SOBA AWARDS             |
 | 2019/10/19 | 韓國  | 2019 BUSAN ONE ASIA FESTIVAL |
 
 ## 獎項與榮譽

@@ -4,7 +4,7 @@
 
 Wrightbus於2014年推出StreetDeck，採用一體化車身設計，車身設計與Wright Gemini 3同出一轍（新加坡SBS Transit及九巴部份的富豪B8L採用該車身）。StreetDeck最大特色是車廂樓梯設有貫通上下層車窗的透明玻璃，使乘客上落梯級期間亦可欣賞車外景色。
 
-與英國傳統慣用的車尾橫置引擎雙層巴士（例如Enviro400、富豪B9TL、VDL DB300）不同，StreetDeck採用縱置引擎佈局，省去橫置引擎所必須的轉彎齒輪（angle drive），減少動力損耗及減輕重量，以降低耗油量。引擎方面，英國版本配備228匹馬力、5.1公升排氣量的梅斯特斯平治OM934LA歐盟六型四氣缸引擎，惟上斜能力欠佳。本港首輛低地台小巴Optare Solo SR亦採用該款引擎，但馬力僅為154匹。至於九巴的StreetDeck樣辦車則採用排氣量為7.7公升的OM936LA 295匹歐盟六型六氣缸引擎，以應付推動空調機組及爬坡的需求，故其尾跨較英國版為長。此為九巴車隊自梅斯特斯平治O305（ME）於2002年全數退役後首輛採用平治引擎的巴士。
+與英國傳統慣用的車尾橫置引擎雙層巴士（例如Enviro400、富豪B9TL、VDL DB300）不同，StreetDeck採用縱置引擎佈局，省去橫置引擎所必須的轉彎齒輪（angle drive），減少動力損耗及減輕重量，以降低耗油量。引擎方面，英國版本配備228匹馬力、5.1公升排氣量的梅斯特斯平治OM934LA歐盟六型四氣缸引擎，惟上斜能力欠佳。低地台中型巴士Optare Solo SR亦採用該款引擎，但馬力僅為154匹。至於九巴的StreetDeck樣辦車則採用排氣量為7.7公升的OM936LA 295匹歐盟六型六氣缸引擎，以應付推動空調機組及爬坡的需求，故其尾跨較英國版為長。此為九巴車隊自梅斯特斯平治O305（ME）於2002年全數退役後首輛採用平治引擎的巴士。
 
 Wright StreetDeck至今在英國本土已售出逾300輛，主要用家為第一集團（FirstGroup）和前進巴士集團（Go-Ahead）旗下各分公司。
 
@@ -24,7 +24,7 @@ Wright StreetDeck至今在英國本土已售出逾300輛，主要用家為第一
 
 2019年5月29日，一部疑似是尚未交付九巴的 Wright Streetdeck 兩軸新巴士，於英國 Hinckley 發生意外翻車。據當地網友描述，巴士當時因故障，需要由拖車進行「後拖」拖走，但因不明原因，巴士在一間酒吧外向行人路翻車，酒吧外的人幸好及時走避未有受傷。根據當地消防部門最新消息透露，故障在當地傍晚約7:45發生，巴士因液壓系統故障而翻側 (相信是指拖車的液壓系統)，及後需召喚專業拖車公司處理，約一個半小時後道路恢復通車。
 
-### 競爭車型
+## 競爭車型
 
   - [富豪B5TL](../Page/富豪B5TL.md "wikilink")
   - [富豪B9TL](../Page/富豪B9TL.md "wikilink")
@@ -33,7 +33,7 @@ Wright StreetDeck至今在英國本土已售出逾300輛，主要用家為第一
 
 ## 參考文獻
 
-[Category:巴士型號](https://zh.wikipedia.org/wiki/Category:巴士型號 "wikilink") [Category:雙層巴士](https://zh.wikipedia.org/wiki/Category:雙層巴士 "wikilink") [Category:特低地台巴士](https://zh.wikipedia.org/wiki/Category:特低地台巴士 "wikilink") [Category:2014年面世的交通工具](https://zh.wikipedia.org/wiki/Category:2014年面世的交通工具 "wikilink")
+[Category:巴士型號](https://zh.wikipedia.org/wiki/Category:巴士型號 "wikilink") [Category:雙層巴士](https://zh.wikipedia.org/wiki/Category:雙層巴士 "wikilink") [Category:香港雙層巴士](https://zh.wikipedia.org/wiki/Category:香港雙層巴士 "wikilink") [Category:特低地台巴士](https://zh.wikipedia.org/wiki/Category:特低地台巴士 "wikilink") [Category:2014年面世的交通工具](https://zh.wikipedia.org/wiki/Category:2014年面世的交通工具 "wikilink")
 
 1.
 2.

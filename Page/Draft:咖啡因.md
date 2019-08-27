@@ -1,5 +1,3 @@
------
-
 **咖啡因 Garphine Liu**（） [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[編劇](../Page/編劇.md "wikilink")、[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")，本名劉以飛，筆名咖啡因，亦曾使用過珈琲因為筆名。 兩性作家背景，出版過《男人都是詐騙集團》等十多本書，後將創作舞台延伸到編劇領域，代表作有《[姊的時代](../Page/姊的時代.md "wikilink")》、《[微笑PASTA](../Page/微笑PASTA.md "wikilink")》、《[愛情回來了](https://zh.wikipedia.org/wiki/愛情回來了 "wikilink")》、《[誰來坐大位](https://zh.wikipedia.org/wiki/誰來坐大位 "wikilink")》（公視，入圍98年度金鐘獎迷你劇集編劇）等，目前活躍於兩岸編劇圈。作品涵蓋偶像劇、古裝、民初戲、推理、親子、動畫、武俠、奇幻、文藝各類型。
 
 ## 簡歷

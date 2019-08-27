@@ -40,7 +40,7 @@
 <td><p>喜劇演員</p></td>
 </tr>
 <tr class="odd">
-<td><p>黄帝聖</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃帝聖" title="wikilink">黃帝聖</a></p></td>
 <td></td>
 <td></td>
 <td><p>喜劇演員</p></td>
@@ -128,12 +128,12 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2019/08/07</p></td>
-<td><p>%</p></td>
+<td><p>0.698%</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>2019/08/14</p></td>
-<td><p>%</p></td>
+<td><p>0.725%</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>

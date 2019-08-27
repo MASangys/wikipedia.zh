@@ -20,7 +20,9 @@ Etika经历了几个月的[心理疾病和](https://zh.wikipedia.org/wiki/心理
 
 6月20日，[紐約市警察局](https://zh.wikipedia.org/wiki/紐約市警察局 "wikilink")（NYPD）對外發佈尋人啟示，稱阿莫法已失蹤多時\[39\]。兩天後，他的個人財物被發現在[曼哈頓大橋](../Page/曼哈頓大橋.md "wikilink")的人行道上，其中包括背包、錢包、手提電腦袋、手提電話、更換衣服和Nintendo Switch主機\[40\]\[41\]。在阿莫法失蹤後，多位實況主和他的粉絲試圖聯繫他以給予他們的幫助\<ref name=''CNN"\></ref>。同月24日下午，[东河盡頭的](../Page/東河_\(紐約市\).md "wikilink")[南街海港](../Page/南街海港.md "wikilink")第16號碼頭對開（距個人物品發現地約800米）據報發現一具屍體\[42\]，經紐約警方搜證後確認為已失蹤近一星期的阿莫法，並在隔天早上公佈其死訊\[43\]，同時宣布將會對其死因進行調查，後來證實為溺斃\[44\]。
 
-在阿莫法的死訊傳開後，許多YouTuber和實況主都紛紛表達哀悼，包括[PewDiePie](../Page/PewDiePie.md "wikilink")\[45\]、[Jacksepticeye](../Page/Jacksepticeye.md "wikilink")\[46\]、[KSI](../Page/KSIOlajideBT.md "wikilink")\[47\]和[Pokimane](../Page/Pokimane.md "wikilink")\[48\]等，而YouTube官方亦透過YouTube Creator的Twitter帳號表示社群失去了一個受粉絲喜愛的人物\[49\]。一些粉絲請求YouTube重新上傳阿莫法的最後一部影片以讓他們紀念\[50\]，同時還有人在[Change.org](../Page/Change.org.md "wikilink")請願，要求恢復阿莫法的原頻道，以保留他的遺產\[51\]。截止2019年6月29日，該請願已有超過38萬人簽署\[52\]。另外亦有數萬人-{支持}-讓阿莫法在位於[聖布魯諾的YouTube總部安葬的聯署](https://zh.wikipedia.org/wiki/聖布魯諾_\(加利福尼亞州\) "wikilink")\[53\]。
+在阿莫法的死訊傳開後，許多YouTuber和實況主都紛紛表達哀悼，包括[PewDiePie](../Page/PewDiePie.md "wikilink")\[45\]、[Jacksepticeye](../Page/Jacksepticeye.md "wikilink")\[46\]、[KSI](../Page/KSIOlajideBT.md "wikilink")\[47\]和[Pokimane](../Page/Pokimane.md "wikilink")\[48\]等，而YouTube官方亦透過YouTube Creator的Twitter帳號表示社群失去了一個受粉絲喜愛的人物\[49\]。一些粉絲請求YouTube重新上傳阿莫法的最後一部影片以讓他們紀念\[50\]，同時還有人在[Change.org](../Page/Change.org.md "wikilink")請願，要求恢復阿莫法的原頻道，以保留他的遺產\[51\]。截止2019年6月29日，該請願已有超過38萬人簽署\[52\]。另外亦有數萬人-{支持}-讓阿莫法在位於[聖布魯諾的YouTube總部安葬的聯署](https://zh.wikipedia.org/wiki/聖布魯諾_\(加利福尼亞州\) "wikilink")\[53\]。後來亦有粉絲在被認為是阿莫法跳河的地點，即曼哈頓大橋的人行道上豎立了紀念碑，並在那留下信件、[粉絲繪圖](../Page/粉絲繪圖.md "wikilink")、、[Joy-Con](../Page/Joy-Con.md "wikilink")控制器和其他任天堂相關的產品或紀念品\[54\]。
+
+2019年7月21日，PewDiePie和美國演員[傑克·布萊克](../Page/傑克·布萊克.md "wikilink")以阿莫法的死為由，在上開設了一個為（NAMI）眾籌的網站。他們在兩天後一起玩《[當個創世神](https://zh.wikipedia.org/wiki/當個創世神 "wikilink")》以為活動籌款。PewDiePie向籌款網站捐贈了10,000美元，同時亦為NAMI籌集30,000多美元\[55\]。全數款項會捐獻給阿莫法的個人網站──etikaworldnetwork.myshopify.com，另外也會給NAMI的籌款以他的名義捐贈\[56\]。
 
 ## 参考资料
 
@@ -114,3 +116,9 @@ Etika经历了几个月的[心理疾病和](https://zh.wikipedia.org/wiki/心理
 52.
 
 53.
+
+54.
+
+55.
+
+56.

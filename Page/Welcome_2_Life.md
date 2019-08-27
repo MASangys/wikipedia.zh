@@ -1,6 +1,6 @@
-《**Welcome 2 Life**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2019年8月5日起播出的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")，由《[龜巖許浚](../Page/龜巖許浚.md "wikilink")》、《[讓女人哭泣](../Page/讓女人哭泣.md "wikilink")》的[金根洪導演與柳熙京作家合作打造](https://zh.wikipedia.org/wiki/金根洪 "wikilink")。此劇講述為了自己的利益而去幫助那些專走法律漏洞的人的獨行俠律師，因為一次不幸的意外而被吸進另一個平行世界中，變身為剛直的檢察官，度過180度完全不同的人生的故事。\[1\]\[2\]\[3\]\[4\]
+《**Welcome 2 Life**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2019年8月5日起播出的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")，由《[龜巖許浚](../Page/龜巖許浚.md "wikilink")》、《[讓女人哭泣](../Page/讓女人哭泣.md "wikilink")》的[金根洪導演與](https://zh.wikipedia.org/wiki/金根洪 "wikilink")《[為純情著迷](../Page/為純情著迷.md "wikilink")》的柳熙京作家合作打造。此劇講述為了自己的利益而去幫助那些專走法律漏洞的人的獨行俠律師，因為一次不幸的意外而被吸進另一個平行世界中，變身為剛直的檢察官，度過180度完全不同的人生的故事。\[1\]\[2\]\[3\]\[4\]
 
-台灣由[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")8/6起每週二三播出。[中華電信MOD](../Page/中華電信MOD.md "wikilink")當週同步更新
+台灣由[LINE TV](../Page/LINE_TV.md "wikilink")[、愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")、[friDay影音](https://zh.wikipedia.org/wiki/friDay影音 "wikilink")8/6起每週二三播出。[中華電信MOD](../Page/中華電信MOD.md "wikilink")當週同步更新
 
 ## 演員陣容
 
@@ -11,7 +11,7 @@
 | **演員**                             | **角色** | **介紹**                                                                                                     |
 | [Rain](../Page/Rain.md "wikilink") | 李宰尚    | 國內五大律師事務所之一的JK律師事務所的精英律師，為了贏可以由無創造到有，可是他在某一天因為疑問的事故而瞬間被吸進另一個平行世界，變身為剛直的「專業窮相」檢察官，開始了他與之前完全不同的人生。           |
 | [林智妍](../Page/林智妍.md "wikilink")   | 羅詩溫    | 宰尚的前女友，行動比言語快的強力班刑警在她剛強的性格中有著溫暖又單純的天性，與宰尚在十年前分手後，由姻緣演變成惡緣，可是在另一個平行世界中，她是個開朗、充滿積極能量的「職場媽媽」，以愛與信任守護在宰尚身邊的妻子。 |
-| [郭時暘](../Page/郭時暘.md "wikilink")   | 具東澤    | 詩恩相信並跟隨的前輩兼搭檔。詩溫所屬的強力班警監，因為個性像火而有著「性火」的別名，但認識他後就會知道他是個多情的人。                                                |
+| [郭時暘](../Page/郭時暘.md "wikilink")   | 具東澤    | 詩溫相信並跟隨的前輩兼搭檔。詩溫所屬的強力班警監，因為個性像火而有著「性火」的別名，但認識他後就會知道他是個多情的人。                                                |
 |                                    |        |                                                                                                            |
 
 ### 現實世界
@@ -41,6 +41,11 @@
 <td><p>宰尚的法律事務員，曾任警察情報科和刑事部。</p></td>
 </tr>
 <tr class="even">
+<td></td>
+<td><p>柳真熙</p></td>
+<td><p>宏宇食品秘書室室長；徐會長的真正情婦</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -165,7 +170,7 @@
 <tr class="even">
 <td></td>
 <td><p>文志浩</p></td>
-<td><p>電腦修理店社長，因以黑客攻擊流出財閥毒品派對片段而被判刑，出獄後以修理電腦為生，勉強維持生計。但是。負責該案件的檢察官宰尚突然找到他，讓他協助宰尚辦事。</p></td>
+<td><p>電腦修理店社長，曾經是警察，但因以黑客攻擊流出財閥毒品派對片段而被判刑，出獄後以修理電腦為生，勉強維持生計。但是。負責該案件的檢察官宰尚突然找到他，讓他協助宰尚辦事。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -186,12 +191,58 @@
 
 #### 其他人物
 
-|                                  |        |                                                               |
-| -------------------------------- | ------ | ------------------------------------------------------------- |
-| **演員**                           | **角色** | **介紹**                                                        |
-| [金亨範](../Page/金亨範.md "wikilink") | 安秀浩    | 詩溫同父異母的哥哥，幼年親母病逝後，爸爸和繼母生下詩溫。後來成為醫生，但過了一段時間後放棄財富，投身社會事業協助弱勢人士。 |
-| 李秀雅                              | 李寶娜    | 宰尚和詩溫的女兒。                                                     |
-|                                  |        |                                                               |
+<table style="width:70%;">
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 49%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/金亨範.md" title="wikilink">金亨範</a></p></td>
+<td><p>安秀浩</p></td>
+<td><p>詩溫同父異母的哥哥，幼年親母病逝後，爸爸和繼母生下詩溫。後來成為醫生，但過了一段時間後放棄財富，投身社會事業協助弱勢人士。</p></td>
+</tr>
+<tr class="odd">
+<td><p>李秀雅</p></td>
+<td><p>李寶娜</p></td>
+<td><p>宰尚和詩溫的女兒。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>盧秀燦</p></td>
+<td><p>盧英美的父親，失明者</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/徐智慧_(1996年).md" title="wikilink">徐智慧</a></p></td>
+<td><p>盧英美</p></td>
+<td><p>第三集失蹤人口，外號沈青</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/金賢珠_(1995年)" title="wikilink">金賢珠</a></p></td>
+<td><p>朴那恩</p></td>
+<td><p>盧英美的朋友</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 原聲帶
+
+  - Part.1（發行日期：2019年8月6日）
+
+<!-- end list -->
+
+  - Part.2（發行日期：2019年8月13日）
 
 ## 收視率
 
@@ -212,52 +263,52 @@
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2019/08/05</p></td>
-<td><p>%</p></td>
+<td><p>4.5%</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>6.3%</p></td>
+<td><p>7.0%</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2019/08/06</p></td>
-<td><p>%</p></td>
+<td><p>5.3%</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>6.8%</p></td>
+<td><p>7.1%</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
 <td><p>2019/08/12</p></td>
-<td><p>%</p></td>
+<td><p>4.4%</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.6%</p></td>
+<td><p>6.4%</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
 <td><p>2019/08/13</p></td>
-<td><p>%</p></td>
+<td><p>4.2%</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.0%</p></td>
+<td><p>5.6%</p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
 <td><p>2019/08/19</p></td>
-<td><p>%</p></td>
+<td><p>3.9%</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.0%</p></td>
+<td><p>5.8%</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
@@ -266,8 +317,8 @@
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.5%</p></td>
+<td><p>4.7%</p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
@@ -385,7 +436,7 @@
 
 ### 同時段競爭作品
 
-  - [tvN](../Page/TVN.md "wikilink") [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[60天，指定倖存者](../Page/60天，指定倖存者.md "wikilink")》、《[抓住幽靈](../Page/抓住幽靈.md "wikilink")》
+  - [tvN](../Page/TVN.md "wikilink") [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[60天，指定倖存者](../Page/60天，指定倖存者.md "wikilink")》、《[偉大的Show](https://zh.wikipedia.org/wiki/偉大的Show "wikilink")》
   - [JTBC](../Page/JTBC.md "wikilink") [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[18歲的瞬間](../Page/18歲的瞬間.md "wikilink")》、《[花黨：朝鮮婚姻介紹所](https://zh.wikipedia.org/wiki/花黨：朝鮮婚姻介紹所 "wikilink")》
 
 ### 同一劇集時段作品
@@ -397,6 +448,7 @@
 ## 外部連結
 
   - [韓國MBC官方網站](http://www.imbc.com/broad/tv/drama/welcome2life/)
+  - [韓國MBC官方網站](http://content.mbc.co.kr/program/drama/3422142_64286.html)
   - [Welcome 2 Life-NAVER](https://m.entertain.naver.com/tvBrand/9712936)
 
 [Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:韓國愛情劇‎](https://zh.wikipedia.org/wiki/Category:韓國愛情劇‎ "wikilink") [Category:平行世界題材電視劇](https://zh.wikipedia.org/wiki/Category:平行世界題材電視劇 "wikilink") [Category:檢察官題材電視劇](https://zh.wikipedia.org/wiki/Category:檢察官題材電視劇 "wikilink")

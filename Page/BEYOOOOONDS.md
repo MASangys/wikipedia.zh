@@ -267,6 +267,7 @@
 <th><p>單曲</p></th>
 <th><p>中譯標題</p></th>
 <th><p>週間單曲榜</p></th>
+<th><p>首日銷量</p></th>
 <th><p>累計銷量</p></th>
 <th><p>概要</p></th>
 <th><p>所屬專輯</p></th>
@@ -277,13 +278,15 @@
 <td><p>1st</p></td>
 <td><p>2019年8月7日</p></td>
 <td></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/戴眼鏡的男子/日本D・N・A！/Go_Waist" title="wikilink">戴眼鏡的男子/日本D・N・A！/Go Waist</a></p></td>
+<td><p>1</p></td>
+<td><p>80,087</p></td>
+<td><p>105,949</p></td>
 <td><p>主流出道單曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
 <td></td>
 <td></td>
 <td></td>

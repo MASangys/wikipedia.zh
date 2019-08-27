@@ -14,9 +14,9 @@ Sto-Con[核桃](../Page/核桃.md "wikilink")木製[槍托](../Page/槍托.md "w
 
 ## 使用國
 
-  - ：被智利[特種警察行動小組所採用](https://zh.wikipedia.org/wiki/特種警察 "wikilink")。
+  -   - [特種警察行動小組](https://zh.wikipedia.org/wiki/特種警察 "wikilink")
 
-  - ：被多個警察部隊所採用。\[1\]
+  -   - 多個警察部隊\[1\]
 
   - ：\[2\]
 

@@ -23,18 +23,64 @@
 
 音乐作品（专辑）
 
-| 时间         | 名称                | 歌手                                                                               |
-| ---------- | ----------------- | -------------------------------------------------------------------------------- |
-| 2011-10-25 | 《听一首歌》\[13\]      | [蛋堡](../Page/蛋堡_\(音樂人\).md "wikilink")/Matzka玛斯卡                                 |
-| 2012-10-11 | 《封王》\[14\]        | [MATZKA乐团](../Page/MATZKA_\(樂團\).md "wikilink")                                  |
-| 2013-11-27 | 《玛纪》\[15\]        | 纪佳松/Matzka玛斯卡                                                                    |
-| 2014-03-25 | 《金银岛》\[16\]       | [韦礼安](../Page/韋禮安.md "wikilink")/[MATZKA乐团](../Page/MATZKA_\(樂團\).md "wikilink") |
-| 2015-02-11 | 《A Li Yang》\[17\] | Matzka玛斯卡                                                                        |
-| 2016-04-22 | 《超猛》\[18\]        | [草蜢](../Page/草蜢_\(組合\).md "wikilink")/Matzka玛斯卡                                  |
-| 2016-11-30 | 《迷些路》\[19\]       | [孙盛希](https://zh.wikipedia.org/wiki/孫盛希 "wikilink")/Matzka玛斯卡                    |
-| 2018-07-20 | 《今天不回家》\[20\]     | [周蕙](https://zh.wikipedia.org/wiki/周蕙 "wikilink")/Matzka玛斯卡                      |
-
-音乐作品（单曲）
+<table>
+<caption>音乐作品（单曲）</caption>
+<thead>
+<tr class="header">
+<th><p>时间</p></th>
+<th><p>名称</p></th>
+<th><p>歌手</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2011-10-25</p></td>
+<td><p>《听一首歌》[13]</p></td>
+<td><p><a href="../Page/蛋堡_(音樂人).md" title="wikilink">蛋堡</a>/Matzka玛斯卡</p></td>
+</tr>
+<tr class="even">
+<td><p>2012-10-11</p></td>
+<td><p>《封王》[14]</p></td>
+<td><p><a href="../Page/MATZKA_(樂團).md" title="wikilink">MATZKA乐团</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2013-11-27</p></td>
+<td><p>《玛纪》[15]</p></td>
+<td><p>纪佳松/Matzka玛斯卡</p></td>
+</tr>
+<tr class="even">
+<td><p>2014-03-25</p></td>
+<td><p>《金银岛》[16]</p></td>
+<td><p><a href="../Page/韋禮安.md" title="wikilink">韦礼安</a>/<a href="../Page/MATZKA_(樂團).md" title="wikilink">MATZKA乐团</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2015-02-11</p></td>
+<td><p>《A Li Yang》[17]</p></td>
+<td><p>Matzka玛斯卡</p></td>
+</tr>
+<tr class="even">
+<td><p>2016-04-22</p></td>
+<td><p>《超猛》[18]</p></td>
+<td><p><a href="../Page/草蜢_(組合).md" title="wikilink">草蜢</a>/Matzka玛斯卡</p></td>
+</tr>
+<tr class="odd">
+<td><p>2016-11-30</p></td>
+<td><p>《迷些路》[19]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孙盛希</a>/Matzka玛斯卡</p></td>
+</tr>
+<tr class="even">
+<td><p>2018-07-20</p></td>
+<td><p>《今天不回家》[20]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/周蕙" title="wikilink">周蕙</a>/Matzka玛斯卡</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p>《現在開始做朋友》</p></td>
+<td><p><a href="../Page/徐佳瑩.md" title="wikilink">徐佳瑩</a>、<a href="https://zh.wikipedia.org/wiki/艾怡良" title="wikilink">艾怡良</a>、<a href="../Page/彭佳慧.md" title="wikilink">彭佳慧</a>、<a href="../Page/楊乃文.md" title="wikilink">楊乃文</a>、<a href="../Page/蕭煌奇.md" title="wikilink">蕭煌奇</a>、<a href="../Page/伍思凱.md" title="wikilink">伍思凱</a>、<a href="../Page/黃子佼.md" title="wikilink">黃子佼</a>、<a href="https://zh.wikipedia.org/wiki/陶晶瑩" title="wikilink">陶晶瑩</a>、<a href="../Page/光良.md" title="wikilink">光良</a>、<a href="https://zh.wikipedia.org/wiki/MATZKA" title="wikilink">MATZKA</a>、<br />
+<a href="../Page/魏如萱.md" title="wikilink">魏如萱</a>、<a href="../Page/柯智棠.md" title="wikilink">柯智棠</a>、<a href="../Page/Hush_(歌手).md" title="wikilink">HUSH</a>、<a href="../Page/A-Lin.md" title="wikilink">A-Lin</a>、<a href="../Page/萬芳.md" title="wikilink">萬芳</a>、<a href="../Page/江美琪.md" title="wikilink">江美琪</a>、<a href="../Page/紀曉君.md" title="wikilink">紀曉君</a>、<a href="../Page/戴愛玲.md" title="wikilink">戴愛玲</a>、<a href="../Page/桑布伊.md" title="wikilink">桑布伊</a></p></td>
+</tr>
+</tbody>
+</table>
 
 | 时间         | 名称                          | 歌手                                                            | 类型 | 备注     |
 | ---------- | --------------------------- | ------------------------------------------------------------- | -- | ------ |

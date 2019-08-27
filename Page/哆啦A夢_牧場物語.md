@@ -18,6 +18,12 @@
 
 《牧場物語》系列作的開發商[Marvelous](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")，發行商為[萬代南夢宮娛樂](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")。
 
+## 榮譽
+
+  - [Media Create一週銷售排行榜第一位](../Page/Media_Create.md "wikilink")（2019年6月10日～16日）\[6\]
+  - [Fami通](../Page/Fami通.md "wikilink")日本每周游戏软件销量排行榜第一位（2019年6月10日～16日）\[7\]
+  - 臺灣遊戲銷售排行榜第一位（2019年7月22～28日）\[8\]
+
 ## 参考资料
 
 ## 外部連結
@@ -31,3 +37,6 @@
 3.  [スイッチの牧場物語の新作はドラえもんだけではない？](http://neta7.com/7970.html)
 4.  [牧場物語の新作Switchはドラえもん！？牧場物語の恋愛はあるの？](https://konannews.com/%E7%89%A7%E5%A0%B4%E7%89%A9%E8%AA%9E%E3%81%AE%E6%96%B0%E4%BD%9Cswitch%E3%81%AF%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%EF%BC%81%EF%BC%9F%E7%89%A7%E5%A0%B4%E7%89%A9%E8%AA%9E%E3%81%AE%E6%81%8B/)
 5.  [Nintendo Switch新作『ドラえもん のび太の牧場物語』](https://news.denfaminicogamer.jp/news/190402c)
+6.  [MediaCreate 6 月 10 日～6 月 16 日一週銷售排行榜 《哆啦 A 夢 牧場物語》拿下日本榜首](https://m.gamer.com.tw/gnn/detail.php?sn=181535)
+7.  [Fami通日本每周销量排行 《哆啦A梦：牧场物语》无悬念登顶](https://m.3dmgame.com/news/201906/3764683.html)
+8.  [2019年7月22日至28日臺灣遊戲銷售排行榜](https://gamelife.tw/thread-47992-1-1.html)

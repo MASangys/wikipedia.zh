@@ -80,7 +80,7 @@
 <td><p><a href="../Page/胡春楊.md" title="wikilink">胡春楊</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/河北" title="wikilink">河北</a></p></td>
 <td></td>
-<td><p>178公分</p></td>
+<td><p>180公分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/樂華娛樂" title="wikilink">樂華娛樂</a></p></td>
 <td><p>6</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/水瓶座" title="wikilink">水瓶座</a></p></td>
@@ -98,7 +98,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/雙子座" title="wikilink">雙子座</a></p></td>
 <td><p>主唱</p></td>
 <td><p>狼妹</p></td>
-<td><p>哈士奇</p></td>
+<td><p>阿拉斯加</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/陳宥維.md" title="wikilink">陳宥維</a></p></td>
@@ -110,7 +110,7 @@
 <td><p><a href="../Page/巨蟹座.md" title="wikilink">巨蟹座</a></p></td>
 <td><p>Rap、形象</p></td>
 <td><p>柚子</p></td>
-<td><p>小豬</p></td>
+<td><p>小香豬</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/何昶希.md" title="wikilink">何昶希</a></p></td>
@@ -225,6 +225,12 @@
 <td><p><a href="../Page/UNINE.md" title="wikilink">UNINE</a>西安SKP，<a href="https://zh.wikipedia.org/wiki/Gentle_Monster" title="wikilink">Gentle Monster旗舰店品牌開幕活动</a>[11]</p></td>
 <td><p><a href="../Page/UNINE.md" title="wikilink">UNINE</a>所有成员</p></td>
 </tr>
+<tr class="odd">
+<td><p>2019年8月4日</p></td>
+<td><p>北京凱迪拉克中心</p></td>
+<td><p><a href="https://tw.iqiyi.com/v_19rtiirgrg.html">愛奇藝尖叫之夜演唱會</a></p></td>
+<td><p><a href="../Page/UNINE.md" title="wikilink">UNINE</a>所有成員</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -316,6 +322,13 @@
 <td><p><a href="../Page/UNINE.md" title="wikilink">UNINE</a>所有成員</p></td>
 </tr>
 <tr class="even">
+<td><center>
+<p>2019年</p></td>
+<td><center>
+<p>三草兩木代言人[16]</p></td>
+<td><p><a href="../Page/UNINE.md" title="wikilink">UNINE</a>所有成員</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -343,21 +356,21 @@
 <td><center>
 <p>2019年4月30日</p></td>
 <td><center>
-<p><a href="../Page/时尚芭莎.md" title="wikilink">时尚芭莎</a>BAZAAR电子刊 <a href="../Page/UNINE.md" title="wikilink">UNINE</a>芭莎首封[16]</p></td>
+<p><a href="../Page/时尚芭莎.md" title="wikilink">时尚芭莎</a>BAZAAR电子刊 <a href="../Page/UNINE.md" title="wikilink">UNINE</a>芭莎首封[17]</p></td>
 <td><p><a href="../Page/UNINE.md" title="wikilink">UNINE</a>所有成員</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p>2019年5月24日</p></td>
 <td><center>
-<p><a href="../Page/UNINE.md" title="wikilink">UNINE</a> POSH 创刊号电子刊[17]</p></td>
+<p><a href="../Page/UNINE.md" title="wikilink">UNINE</a> POSH 创刊号电子刊[18]</p></td>
 <td><p><a href="../Page/UNINE.md" title="wikilink">UNINE</a>所有成員</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p>2019年6月12日</p></td>
 <td><center>
-<p>ELLEMEN新青年电子刊[18]</p></td>
+<p>ELLEMEN新青年电子刊[19]</p></td>
 <td><p><a href="../Page/UNINE.md" title="wikilink">UNINE</a>所有成員</p></td>
 </tr>
 <tr class="even">
@@ -375,9 +388,24 @@
 <td><p>陳宥維</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
+<td><p>2019年</p></td>
+<td><p>城市畫報No.422 8月刊</p></td>
+<td><p><a href="../Page/UNINE.md" title="wikilink">UNINE</a>所有成員 長隆樂園</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年7月26日</p></td>
+<td><p>男人风尚LEON Young Vol.13 8月刊</p></td>
+<td><p><a href="../Page/UNINE.md" title="wikilink">UNINE</a>所有成員</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年8月2日</p></td>
+<td><p>InStyle優家畫報電子刊</p></td>
+<td><p>李汶翰</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月12日</p></td>
+<td><p>新漫潮New Romantics電子刊創刊號</p></td>
+<td><p>管櫟</p></td>
 </tr>
 </tbody>
 </table>
@@ -424,3 +452,4 @@
 16.
 17.
 18.
+19.

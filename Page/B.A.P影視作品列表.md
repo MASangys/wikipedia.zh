@@ -58,7 +58,7 @@
 </tr>
 <tr class="odd">
 <td><p>10月10日～10月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>B.A.P's Killing Camp</p></td>
 <td><p>全3集</p></td>
 <td></td>
@@ -180,7 +180,7 @@
 <tr class="odd">
 <td><p>2012年</p></td>
 <td><p>9月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>Wide Entertainment News</p></td>
 <td><p>力燦、永才</p></td>
 <td><p>特別MC</p></td>
@@ -379,7 +379,7 @@
 </tr>
 <tr class="even">
 <td><p>9月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown</a></p></td>
 <td><p>大賢、永才</p></td>
 <td></td>
@@ -456,7 +456,7 @@
 </tr>
 <tr class="even">
 <td><p>2月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>Wide Entertainment News</p></td>
 <td></td>
 <td></td>
@@ -498,7 +498,7 @@
 </tr>
 <tr class="even">
 <td><p>3月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>Wide Entertainment News Open Studio</p></td>
 <td></td>
 <td></td>
@@ -512,7 +512,7 @@
 </tr>
 <tr class="even">
 <td><p>5月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>Wide Entertainment News</p></td>
 <td></td>
 <td></td>
@@ -526,7 +526,7 @@
 </tr>
 <tr class="even">
 <td><p>5月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>Wide Entertainment News Open Studio</p></td>
 <td></td>
 <td></td>
@@ -554,7 +554,7 @@
 </tr>
 <tr class="even">
 <td><p>8月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>Wide Entertainment News</p></td>
 <td></td>
 <td></td>
@@ -624,7 +624,7 @@
 </tr>
 <tr class="even">
 <td><p>10月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>Wide Entertainment News</p></td>
 <td></td>
 <td></td>
@@ -701,7 +701,7 @@
 </tr>
 <tr class="odd">
 <td><p>2月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>Wide Entertainment News</p></td>
 <td></td>
 <td></td>
@@ -834,7 +834,7 @@
 </tr>
 <tr class="even">
 <td><p>8月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>Wide Entertainment News</p></td>
 <td></td>
 <td></td>
@@ -848,7 +848,7 @@
 </tr>
 <tr class="even">
 <td><p>8月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>Wide Entertainment News Open Studio</p></td>
 <td></td>
 <td></td>
@@ -862,7 +862,7 @@
 </tr>
 <tr class="even">
 <td><p>9年2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>Beatles Code 2</p></td>
 <td><p>B.A.P全體</p></td>
 <td></td>
@@ -883,7 +883,7 @@
 </tr>
 <tr class="odd">
 <td><p>9月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>Wide Entertainment News</p></td>
 <td><p>B.A.P全體</p></td>
 <td></td>
@@ -1507,7 +1507,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>Today's Room</p></td>
 <td></td>
 <td></td>
@@ -1585,7 +1585,7 @@
 </tr>
 <tr class="odd">
 <td><p>2月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>M! Countdown Hangout Chat</p></td>
 <td></td>
 <td></td>
@@ -1599,7 +1599,7 @@
 </tr>
 <tr class="odd">
 <td><p>3月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>MV Commentary</p></td>
 <td></td>
 <td></td>
@@ -1668,27 +1668,34 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>4月9日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音悅Tai" title="wikilink">音悅Tai</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/飯心攻略偶像TV_160409(B.A.P)" title="wikilink">飯心攻略偶像TV 160409(B.A.P)</a></p></td>
+<td><p>B.A.P全體</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>6月16日</p></td>
 <td><p>Line Live</p></td>
 <td><p>B.A.P Kstyle Live[20]</p></td>
 <td><p>B.A.P全體</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7月14日</p></td>
 <td><p>niconico Live</p></td>
 <td><p>B.A.P Japan 5th Single「Feel So Good」發售紀念Release★Party[21]</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>8月9日</p></td>
 <td><p>1theK</p></td>
 <td><p>Waiting Room Live</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10月14日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/二重唱歌謠祭" title="wikilink">二重唱歌謠祭</a></p></td>
@@ -1696,7 +1703,7 @@
 <td><p><a href="../Page/Mamamoo.md" title="wikilink">Mamamoo</a> - You're The Best<br />
 第一輪得分372</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10月28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金健模" title="wikilink">金健模</a> - Beautiful Goodbye<br />
 兩輪總得分762</p></td>
@@ -1704,63 +1711,63 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10月28日</p></td>
 <td><p>iMBC</p></td>
 <td><p><a href="../Page/偶像的私生活.md" title="wikilink">偶像的私生活</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月4日</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月11日</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月18日</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2</a></p></td>
 <td><p><a href="../Page/大國民脫口秀-你好.md" title="wikilink">大國民脫口秀 Hello</a></p></td>
 <td><p>力燦、永才</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月9日</p></td>
 <td><p>MV Bank Stardust</p></td>
 <td><p>B.A.P全體</p></td>
 <td><p>容國因病缺席</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月22日</p></td>
 <td><p>Arirang TV</p></td>
 <td><p>After School Club</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月27日</p></td>
 <td><p>V Cookie</p></td>
 <td><p>B.A.P DaeHyun's LieV - B.A.P大賢的躺放Live!</p></td>
 <td><p>大賢</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月29日<br />
 ～12月27日</p></td>
 <td><p>MBig TV</p></td>
@@ -1768,70 +1775,70 @@
 <td><p>永才</p></td>
 <td><p>第12季</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12月2日</p></td>
 <td><p><a href="../Page/KBS_World.md" title="wikilink">KBS World</a></p></td>
 <td><p>Idol Battle Likes S2</p></td>
 <td><p>B.A.P全體</p></td>
 <td><p>容國因病缺席</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12月6日</p></td>
 <td><p>BSスカパー!</p></td>
 <td><p>韓流ザップ</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12月7日</p></td>
 <td><p>niconico Live</p></td>
 <td><p>B.A.P New Single「Fly High」Release紀念★Party[22]</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12月8日</p></td>
 <td><p>AbemaFRESH! Studio</p></td>
 <td><p>KpopStarz by AWA</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/二重唱歌謠祭" title="wikilink">二重唱歌謠祭</a></p></td>
 <td><p>大賢、永才</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12月12日</p></td>
 <td><p>MTV Taiwan</p></td>
 <td><p>我愛偶像－Play J's 偶像週報</p></td>
 <td><p>B.A.P全體</p></td>
 <td><p>容國因病缺席</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12月19日</p></td>
 <td><p>Mwave</p></td>
 <td><p>Meet &amp; Greet</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2017年</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1月10日</p></td>
 <td></td>
 <td><p><a href="../Page/Video_Star.md" title="wikilink">Video Star</a></p></td>
 <td><p>大賢</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1月23日<br />
 ～2月20日</p></td>
 <td><p>Mobidic TV</p></td>
@@ -1839,14 +1846,14 @@
 <td><p>力燦、永才、鐘業</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1月30日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td></td>
 <td><p>B.A.P全體</p></td>
 <td><p>容國因病缺席</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2月14日<br />
 ～2月28日</p></td>
 <td><p>Nimdle</p></td>
@@ -1854,147 +1861,147 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3月2日</p></td>
 <td></td>
 <td><p><a href="../Page/宋智孝的Beauty_View.md" title="wikilink">宋智孝's Beauty View</a></p></td>
 <td><p>力燦、永才</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月8日</p></td>
 <td></td>
 <td><p>Grazia Korea Facebook Live</p></td>
 <td><p>力燦、大賢</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3月10日</p></td>
 <td><p><a href="../Page/KBS_World.md" title="wikilink">KBS World</a></p></td>
 <td><p>K-Rush</p></td>
 <td><p>B.A.P全體</p></td>
 <td><p>容國因病缺席</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月12日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>Section TV 演藝通信</p></td>
 <td><p>B.A.P全體</p></td>
 <td><p>3月回歸的偶像</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>V Cookie</p></td>
 <td><p>B.A.P YoungJae's LieV - B.A.P永才的躺放Live!</p></td>
 <td><p>永才</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月15日</p></td>
 <td><p>1theK</p></td>
 <td><p>Idol Arcade (待機室隔壁的遊戲室)</p></td>
 <td><p>B.A.P全體</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3月16日</p></td>
 <td><p>Mnet</p></td>
 <td><p>MV Commentary</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月17日</p></td>
 <td><p><a href="../Page/KBS_World.md" title="wikilink">KBS World</a></p></td>
 <td><p>K-Rush</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3月27日</p></td>
 <td><p>Line Live</p></td>
 <td><p>B.A.P Line Live from Seoul</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月28日</p></td>
 <td><p>V Live</p></td>
 <td><p>秀雄Road (副題: 라멘탐구는 다음에)</p></td>
 <td><p>大賢</p></td>
 <td><p>第4集</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月4日</p></td>
 <td><p>MOMO X</p></td>
 <td><p>[존잘러] B.A.P永才篇 (Zone! Zealous!: The Gang of Pretty Boys)</p></td>
 <td><p>永才</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4月27日</p></td>
 <td><p>Line Live</p></td>
 <td><p>B.A.P、博多で夜の男子会！～ベッドルームをのぞき見～[23]</p></td>
 <td><p>B.A.P全體</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5月16日</p></td>
 <td><p>Mwave</p></td>
 <td><p>Meet &amp; Greet</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月27日</p></td>
 <td><p>niconico Live</p></td>
 <td><p>B.A.P Album「Unlimited」Release紀念★Party[24]</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月29日</p></td>
 <td><p>Line Live</p></td>
 <td><p>B.A.Pの〇〇に挑戦！？都内から生配信[25]</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月30日</p></td>
 <td><p>B.A.Pフリーライブ緊急生中継 at サンシャインシティ[26]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月4日</p></td>
 <td><p>MOHAE</p></td>
 <td><p>[ME and ME] B.A.P大賢篇!</p></td>
 <td><p>大賢</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月12日</p></td>
 <td><p>Arirang TV</p></td>
 <td><p>After School Club</p></td>
 <td><p>B.A.P全體</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月18日</p></td>
 <td><p>Mwave</p></td>
 <td><p>Meet &amp; Greet</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月29日</p></td>
 <td><p>niconico Live</p></td>
 <td><p>B.A.P Single『Honeymoon』Release紀念節目[27]</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p><a href="../Page/神秘音樂秀：蒙面歌王.md" title="wikilink">神秘音樂秀：蒙面歌王</a></p></td>
@@ -2002,56 +2009,56 @@
 <td><p><a href="../Page/李笛.md" title="wikilink">李笛</a> - Rain<br />
 以38比61敗<strong>綠色媽媽會</strong>，第一輪落敗</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12月27日</p></td>
 <td><p>Mwave</p></td>
 <td><p>Meet &amp; Greet</p></td>
 <td><p>B.A.P全體</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12月28日</p></td>
 <td><p>Celuv.TV</p></td>
 <td><p>刀群舞, Performance! 跟B.A.P一起Hands Up!</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12月29日</p></td>
 <td><p><a href="../Page/KBS_World.md" title="wikilink">KBS World</a></p></td>
 <td><p>K-Rush</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1月5日</p></td>
 <td><p>niconico Live</p></td>
 <td><p>B.A.P 9th Single「Hands Up」Release紀念特別節目[28]</p></td>
 <td><p>B.A.P全體</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Line Live</p></td>
 <td><p>B.A.P 新年の男子会！～夢までHands Up～[29]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8月1日、8月8日</p></td>
 <td><p>MTV Taiwan</p></td>
 <td><p>我爱偶像</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>8月9日、8月16日</p></td>
 <td><p>神童的Kick Service</p></td>
 <td><p>K-TIGERS ZERO DEBUT PROJECT SHOW</p></td>

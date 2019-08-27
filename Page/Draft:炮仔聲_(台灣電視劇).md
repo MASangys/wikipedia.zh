@@ -1,3 +1,5 @@
+<noinclude></noinclude>
+
 <div style="display:none">
 
 </div>
@@ -165,26 +167,14 @@
 <td><p>第1集-第58集、第60集至今</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/丁國琳" title="wikilink">丁國琳</a></p></td>
-<td><p>朱麗蘭</p></td>
-<td><p>林至明之高中老師<br />
-第3集遇到林至明，覺得很面熟<br />
-慢慢想起來林至明是我的高中學生，第5集出國，第8集回國，遇到林至明的家長，第16集疑似生病了，第18集在外面昏倒，被送到醫院，得到腦瘤，第22集得知必須要動開顱手術，第26集動腦瘤手術。第27集手術順利，修養中。第28集出院，第46集開車，不小心衝向山崖，因此爆炸，受重傷，手術順利，休養中，第53集出院，第55集出國環島旅行。</p></td>
-<td><p>第1集～第5集、第8集<br />
-第12集～第18集、第22集<br />
-第26集～第28集、第40集～第41集<br />
-第44集～第50集<br />
-第53集～第55集</p></td>
-</tr>
-<tr class="even">
-<td><p>|吳家璇</p></td>
+<td><p><a href="../Page/陳珮騏.md" title="wikilink">陳珮騏</a></p></td>
+<td><p>吳家璇</p></td>
 <td><p>吳國輝、曾美茹之女<br />
 李啟明之妻，吳家雯、吳家芸、吳家琇、吳家龍之姐<br />
 目前在大陸陪丈夫發展事業，育有一子，精明能幹一手帶大家中的弟妹</p></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/江宏恩.md" title="wikilink">江宏恩</a></p></td>
 <td><p>江宏傑</p></td>
 <td><p>營運長<br />
@@ -194,14 +184,14 @@
 第57集～第59集<br />
 第61集</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/謝承均.md" title="wikilink">謝承均</a></p></td>
 <td><p>李啟明</p></td>
 <td><p>吳家璇之夫<br />
 目前在大陸發展事業</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -263,6 +253,15 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td><p>吳家琇</p></td>
+<td><p>吳國輝、曾美茹之女<br />
+吳家璇、吳家雯、吳家芸之妹<br />
+吳家龍之姐<br />
+提及碩士即將畢業回歸</p></td>
+<td><p>即將登場</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/吳東諺.md" title="wikilink">吳東諺</a></p></td>
 <td><p>吳家龍</p></td>
 <td><p>雅樂軒飯店甜點部蛋糕師傅<br />

@@ -40,7 +40,8 @@
 <p>2019-04-01</p></td>
 <td><center>
 <p><a href="https://m.youtube.com/watch?v=ZWcmGnbs2lQ">我們不像我們</a></p></td>
-<td><center></td>
+<td><center>
+<p>徐筠軒</p></td>
 <td><p>特別演出：<a href="../Page/胡宇威.md" title="wikilink">胡宇威</a></p></td>
 </tr>
 <tr class="odd">
@@ -61,7 +62,8 @@
 <p>2019-05-16</p></td>
 <td><center>
 <p><a href="https://m.youtube.com/watch?v=NRg04n0Gjz0">海的顏色</a></p></td>
-<td><center></td>
+<td><center>
+<p>ERERCHUAN</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -75,6 +77,16 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><center>
+<p>6</p></td>
+<td><center>
+<p>2019-08-07</p></td>
+<td><center>
+<p><a href="https://m.youtube.com/watch?v=JDuGOVyjMCU">都是月老惹的禍</a></p></td>
+<td><center></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

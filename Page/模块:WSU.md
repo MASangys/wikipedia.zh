@@ -1,8 +1,17 @@
-local WSU = {} --\[=\[ 回傳成員人數 \]=\]-- function WSU.Member(frame)
+local WSU = {} --\[=\[ 回傳成員人數 \]=\]-- function WSU.member(frame)
 
 `   local page = frame:expandTemplate{title = "Wikipedia:維基學生會/成員"}`
 `   local count = 0`
 `   for i in string.gmatch(page, "%*") do`
+`       count = count + 1`
+`   end`
+`   return count`
+
+end --\[=\[ 回傳委員人數 找不到蛤好用，先用管理員admin了 \]=\]-- function WSU.admin(frame)
+
+`   local page = frame:expandTemplate{title = "Wikipedia:維基學生會/成員"}`
+`   local count = 0`
+`   for i in string.gmatch(page, "class=\"wsu_admin\"") do`
 `       count = count + 1`
 `   end`
 `   return count`
@@ -73,7 +82,7 @@ function WSU.bulletin_item( frame )
 `       end`
 `       i = i + 1`
 `   end`
-`   return '\'\'\'`<span class="WSU_bulletin_'..WSU._bulletin_getclass(type)..'"><span class="bulletin-type module.bulletin-type WSUb_'..WSU._bulletin_getclass(type)..'">`[' .. type .. ']`</span>`\'\'\' ' ..`
+`   return '`<span class="WSU_bulletin_'..WSU._bulletin_getclass(type)..'">`\'\'\'`<span class="bulletin-type module.bulletin-type WSUb_'..WSU._bulletin_getclass(type)..'">`[' .. type .. ']`</span>`\'\'\' ' ..`
 `       '`<span class="bulletin-prefix">`' .. prefix .. "`</span>`" ..`
 `       '`<span class="bulletin-item">`' .. mw.text.listToText(`
 `           items,`

@@ -9,7 +9,7 @@
   -
   - [妖怪世界](https://youkai-world.com/)
 
-[Category:妖怪手錶系列](https://zh.wikipedia.org/wiki/Category:妖怪手錶系列 "wikilink") [Category:日本電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本電視動畫的電影版 "wikilink") [Category:東寶電影](https://zh.wikipedia.org/wiki/Category:東寶電影 "wikilink") [Category:東京電視台製作的電影](https://zh.wikipedia.org/wiki/Category:東京電視台製作的電影 "wikilink") [Category:妖怪動畫電影](https://zh.wikipedia.org/wiki/Category:妖怪動畫電影 "wikilink") [Category:動畫衍生作品](https://zh.wikipedia.org/wiki/Category:動畫衍生作品 "wikilink")
+[Category:妖怪手錶系列](https://zh.wikipedia.org/wiki/Category:妖怪手錶系列 "wikilink") [Category:日本電視動畫的電影版](https://zh.wikipedia.org/wiki/Category:日本電視動畫的電影版 "wikilink") [Category:東寶電影](https://zh.wikipedia.org/wiki/Category:東寶電影 "wikilink") [Category:東京電視台製作的電影](https://zh.wikipedia.org/wiki/Category:東京電視台製作的電影 "wikilink") [Category:妖怪動畫電影](https://zh.wikipedia.org/wiki/Category:妖怪動畫電影 "wikilink") [Category:動畫衍生作品](https://zh.wikipedia.org/wiki/Category:動畫衍生作品 "wikilink") [Category:2019年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2019年日本劇場動畫 "wikilink") [Category:OLM](https://zh.wikipedia.org/wiki/Category:OLM "wikilink")
 
 1.
 2.

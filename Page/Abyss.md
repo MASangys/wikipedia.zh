@@ -22,7 +22,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/朴寶英" title="wikilink">朴寶英</a><br />
 （）（年青：<a href="https://zh.wikipedia.org/wiki/李垂珉" title="wikilink">李垂珉</a>）</p></td>
 <td><p>高世妍</p></td>
-<td><p>中央地方檢察廳的美貌檢察官，有「中央地檢女神」的稱號，人生如同行駛在德國高速公路上的跑車般暢通無阻。但天不如人願，高世妍遭遇變故離世，依靠Abyss以另一張面孔重生，誰知重生後美貌不再，成了容貌普通的女孩。</p></td>
+<td><p>的美貌檢察官，有「中央地檢女神」的稱號，人生如同行駛在無限速<a href="../Page/德國高速公路.md" title="wikilink">德國高速公路</a>上的跑車般暢通無阻。但天不如人願，高世妍遭遇變故離世，依靠Abyss以另一張面孔重生，誰知重生後美貌不再，成了容貌普通的女孩。</p></td>
 </tr>
 <tr class="odd">
 <td><p>李美島</p></td>
@@ -33,11 +33,11 @@
 <td><p><a href="../Page/安孝燮.md" title="wikilink">安孝燮</a><br />
 （）（年青：）</p></td>
 <td><p>車敏</p></td>
-<td><p>原本是化妝品業排名第一企業的繼承人，後來以律師事務所的花美男事務長身份復活。從小成績優異的他，卻有著醜陋外表。當他有了Abyss後，開始體驗到做夢都沒想到過的美貌前1%的人生。</p></td>
+<td><p>原本是化妝品業排名第一企業的繼承人，後來以律師事務所的花美男事務長身份復活。從小成績優異的他，卻有著醜陋外表。當他有了Abyss後，開始體驗到做夢都沒想到過的、前1%美貌的人生。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李成宰.md" title="wikilink">李成宰</a></p></td>
-<td><p>吳英哲</p></td>
+<td><p>吳英鐵</p></td>
 <td><p>天才外科醫生，也是連續殺人魔。</p></td>
 </tr>
 <tr class="even">
@@ -46,9 +46,9 @@
 <td><p>重案組刑警，李美島前男友，高世妍的助手。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/韓素希" title="wikilink">韓素希</a></p></td>
+<td><p><a href="../Page/韓素希.md" title="wikilink">韓素希</a></p></td>
 <td><p>張熙貞/吳秀珍</p></td>
-<td><p>車敏的未婚妻，擁有閃閃發光外貌，在婚禮當天神秘消失。吳英哲的繼女。</p></td>
+<td><p>車敏的未婚妻，擁有閃閃發光外貌，在婚禮當天神秘消失。吳英鐵的繼女。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -75,7 +75,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/權秀賢" title="wikilink">權秀賢</a></p></td>
 <td><p>徐智旭/吳太真</p></td>
-<td><p>高世妍的同事，檢察官。吳英哲的親生兒子。</p></td>
+<td><p>高世妍的同事，檢察官。吳英鐵的親生兒子。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -95,7 +95,7 @@
 <tr class="even">
 <td><p><a href="../Page/李對淵.md" title="wikilink">李對淵</a></p></td>
 <td><p>徐燦植</p></td>
-<td><p>法官，徐智旭的父親。</p></td>
+<td><p>法官，徐智旭的法定父親。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -272,7 +272,7 @@
   - [韓國tvN官方網站](http://program.tving.com/tvn/abyss)
   - [Abyss-NAVER](https://m.entertain.naver.com/tvBrand/8692982)
 
-[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:變身題材作品](https://zh.wikipedia.org/wiki/Category:變身題材作品 "wikilink") [Category:虛構物品](https://zh.wikipedia.org/wiki/Category:虛構物品 "wikilink")
+[Category:2019年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2019年韓國電視劇集 "wikilink") [Category:韓國奇幻劇](https://zh.wikipedia.org/wiki/Category:韓國奇幻劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:Now寬頻電視外購劇集](https://zh.wikipedia.org/wiki/Category:Now寬頻電視外購劇集 "wikilink") [Category:變身題材作品](https://zh.wikipedia.org/wiki/Category:變身題材作品 "wikilink") [Category:虛構物品](https://zh.wikipedia.org/wiki/Category:虛構物品 "wikilink") [Category:人與外星生物接觸題材電視劇](https://zh.wikipedia.org/wiki/Category:人與外星生物接觸題材電視劇 "wikilink") [Category:檢察官題材電視劇](https://zh.wikipedia.org/wiki/Category:檢察官題材電視劇 "wikilink")
 
 1.
 2.

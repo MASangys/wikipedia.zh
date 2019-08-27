@@ -87,7 +87,7 @@ RTX是GeForce 20系列引入的开发平台。RTX的光线追踪示范程序中�
 <td><p>GeForce RTX 2060[10]</p></td>
 <td><p>2019年1月15日</p></td>
 <td><p>TU106-200A-KA-A1</p></td>
-<td><p>10.8</p></td>
+<td><p>10</p></td>
 <td><p>445</p></td>
 <td><p>1920</p></td>
 <td><p>120</p></td>
@@ -163,7 +163,7 @@ RTX是GeForce 20系列引入的开发平台。RTX的光线追踪示范程序中�
 <td><p>style="text-align:left; |GeForce RTX 2070 Super[14][15]</p></td>
 <td><p>2019年7月9日</p></td>
 <td><p>TU104-410-A1</p></td>
-<td><p>13.6</p></td>
+<td><p>12</p></td>
 <td><p>545</p></td>
 <td><p>2560</p></td>
 <td><p>160</p></td>
@@ -239,7 +239,7 @@ RTX是GeForce 20系列引入的开发平台。RTX的光线追踪示范程序中�
 <td><p>GeForce RTX 2080 Ti[19]</p></td>
 <td><p>2018年9月27日</p></td>
 <td><p>TU102-300-K1-A1</p></td>
-<td><p>18.6</p></td>
+<td><p>12</p></td>
 <td><p>754</p></td>
 <td><p>4352</p></td>
 <td><p>272</p></td>

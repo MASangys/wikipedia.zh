@@ -1,4 +1,4 @@
-**Elizabeth Marry**（，；），本名 **Elizabeth Rabone**，是[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")的女演員及編舞師。
+**Elizabeth Marry**（，；），本名 **Elizabeth Rabone**，是出身於[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")的女演員及編舞師。
 
 ## 簡歷
 
@@ -1833,6 +1833,14 @@ Elizabeth Marry 自小仰慕大表姊 [Becky](../Page/Becky.md "wikilink") 且�
 地點：池袋 Theater Kassai</p></td>
 </tr>
 <tr class="even">
+<td><center>
+<p>2019年9月14 - 16日</p>
+<center></td>
+<td><p>A 舞動故事</p></td>
+<td><p>擔任助手<br />
+地點：<a href="https://zh.wikipedia.org/wiki/德島縣" title="wikilink">德島縣鄉土文化會館</a></p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -2072,7 +2080,7 @@ Elizabeth Marry 自小仰慕大表姊 [Becky](../Page/Becky.md "wikilink") 且�
 <p>2015年</p>
 <center></td>
 <td><p>KALISOME</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/虹色幻想曲_〜Prism・Fantasia〜" title="wikilink">虹色幻想曲 〜Prism・Fantasia〜</a></p></td>
+<td><p>虹色幻想曲 〜Prism・Fantasia〜</p></td>
 </tr>
 <tr class="even">
 <td><p>浪漫派幻想曲〜Romantic Fantasia〜</p></td>
@@ -2088,7 +2096,7 @@ Elizabeth Marry 自小仰慕大表姊 [Becky](../Page/Becky.md "wikilink") 且�
 </tr>
 <tr class="even">
 <td><p>最強純情DNA</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/夢幻可憐基因" title="wikilink">夢幻可憐基因</a></p></td>
+<td><p>夢幻可憐基因</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2103,7 +2111,7 @@ Elizabeth Marry 自小仰慕大表姊 [Becky](../Page/Becky.md "wikilink") 且�
 </tr>
 <tr class="odd">
 <td><p>戀愛 = 心動 + 魔法</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PrincessGarden-姫庭-" title="wikilink">PrincessGarden-姫庭-</a></p></td>
+<td><p>PrincessGarden-姫庭-</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2111,7 +2119,7 @@ Elizabeth Marry 自小仰慕大表姊 [Becky](../Page/Becky.md "wikilink") 且�
 <p>2017年</p>
 <center></td>
 <td><p>ωe are the HERO！！</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NωA" title="wikilink">NωA</a></p></td>
+<td><p>NωA</p></td>
 </tr>
 <tr class="odd">
 <td><p>向星星祈禱</p></td>
@@ -2138,13 +2146,23 @@ Elizabeth Marry 自小仰慕大表姊 [Becky](../Page/Becky.md "wikilink") 且�
 <p>2018年</p>
 <center></td>
 <td><p>一如黑天鵝般</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藍色星群" title="wikilink">藍色星群</a></p></td>
+<td><p>藍色星群</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p>2019年</p>
 <center></td>
 <td><p>愛昧Me</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/螢石" title="wikilink">螢石恨</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/太陽系" title="wikilink">太陽系</a><a href="../Page/灰姑娘.md" title="wikilink">灰姑娘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/範式" title="wikilink">範式多變</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

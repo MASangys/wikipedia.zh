@@ -73,9 +73,9 @@
 
 ### 綜藝節目
 
-| 年份    | 日期         | 電視台                                                   | 節目名稱                                                   | 集數   | 備註     |
-| ----- | ---------- | ----------------------------------------------------- | ------------------------------------------------------ | ---- | ------ |
-| 2019年 | 5月3日-7月19日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》 | 1-12 | 以第十名出道 |
+| 年份    | 日期         | 電視台                                | 節目名稱                                                   | 集數   | 備註     |
+| ----- | ---------- | ---------------------------------- | ------------------------------------------------------ | ---- | ------ |
+| 2019年 | 5月3日-7月19日 | [Mnet](../Page/Mnet.md "wikilink") | 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》 | 1-12 | 以第十名出道 |
 
 ## 外部連結
 
@@ -109,4 +109,4 @@
   - [Starship](https://www.instagram.com/officialstarship/)官方Instagram
   - [Starship](https://www.youtube.com/user/starshipTV)官方Youtube
 
-[Category:X1_(組合)](https://zh.wikipedia.org/wiki/Category:X1_\(組合\) "wikilink")
+[:Category:X1 (組合)](https://zh.wikipedia.org/wiki/Category:X1_\(組合\) "wikilink")

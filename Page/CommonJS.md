@@ -26,32 +26,38 @@ require是一个函数，require函数接受一个模块标识符，require返�
 
 <!-- end list -->
 
-    exports.add = function() {
-        var sum = 0, i = 0, args = arguments, l = args.length;
-        while (i < l) {
-            sum += args[i++];
-        }
-        return sum;
-    };
+``` javascript
+exports.add = function() {
+    var sum = 0, i = 0, args = arguments, l = args.length;
+    while (i < l) {
+        sum += args[i++];
+    }
+    return sum;
+};
+```
 
   - increment.js:
 
 <!-- end list -->
 
-    var add = require('math').add;
-    exports.increment = function(val) {
-        return add(val, 1);
-    };
+``` javascript
+var add = require('math').add;
+exports.increment = function(val) {
+    return add(val, 1);
+};
+```
 
   - program.js:
 
 <!-- end list -->
 
-    var inc = require('increment').increment;
-    var a = 1;
-    inc(a); // 2
+``` javascript
+var inc = require('increment').increment;
+var a = 1;
+inc(a); // 2
 
-    module.id == "program";
+module.id == "program";
+```
 
 ## 实现
 

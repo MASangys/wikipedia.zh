@@ -1,6 +1,6 @@
 **`netstat`**是一个基于[命令行界面](../Page/命令行界面.md "wikilink")的[网络](../Page/计算机网络.md "wikilink")[实用工具](../Page/实用程序.md "wikilink")，可显示当前的网络状态，包括[传输控制协议](../Page/传输控制协议.md "wikilink")层的连线状况、[路由表](../Page/路由表.md "wikilink")、[网络接口状态和](https://zh.wikipedia.org/wiki/网络接口 "wikilink")[网络协议的统计信息等](https://zh.wikipedia.org/wiki/网络协议 "wikilink")。\[1\]`netstat`命令适用于[类Unix系统](../Page/类Unix系统.md "wikilink")（如[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Linux](../Page/Linux.md "wikilink")、[Solaris](../Page/Solaris.md "wikilink")和[BSD](../Page/BSD.md "wikilink")）、[IBM OS/2和](https://zh.wikipedia.org/wiki/IBM_OS/2 "wikilink")[Windows NT操作系统家族](../Page/Windows_NT.md "wikilink")（如[Windows XP](../Page/Windows_XP.md "wikilink")、[Windows Vista](../Page/Windows_Vista.md "wikilink")、[Windows 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows 8和](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[Windows 10](../Page/Windows_10.md "wikilink")）。\[2\]\[3\]
 
-`netstat`可用于查找网络中的问题，并可通过计算[网络流量来度量网络性能](https://zh.wikipedia.org/wiki/网络流量 "wikilink")。\[4\]\[5\]尽管该工具仍然被包含在许多[Linux发行版](../Page/Linux发行版.md "wikilink")中，但版本大多已经陈旧。\[6\]\[7\]\[8\]\[9\]
+`netstat`可用于查找网络中的问题，并可通过计算[网络流量来度量网络性能](https://zh.wikipedia.org/wiki/网络流量 "wikilink")。\[4\]\[5\]尽管该工具仍然被包含在许多[Linux发行版](../Page/Linux发行版.md "wikilink")中，但基本都被看作过时、应被替代的工具。\[6\]\[7\]\[8\]\[9\]
 
 在[Linux](../Page/Linux.md "wikilink")上，推荐使用`ss`替代`netstat`，使用`ip route`替代`netstat -r`，使用`ip -s link`替代`netstat -i`，使用`ip maddr`替代`netstat -g`。\[10\]\[11\]\[12\]\[13\]
 
@@ -21,7 +21,7 @@
 <th><p><a href="../Page/FreeBSD.md" title="wikilink">FreeBSD</a>[24]</p></th>
 <th><p><a href="../Page/Linux.md" title="wikilink">Linux</a>[25][26][27]</p></th>
 <th><p><a href="../Page/Solaris.md" title="wikilink">Solaris</a>[28]</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/OS/2" title="wikilink">OS/2</a>[29]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/OS/2" title="wikilink">OS/2</a>[29][30]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -329,23 +329,23 @@
 
 ## 统计信息
 
-  - ：[网络协议](https://zh.wikipedia.org/wiki/网络协议 "wikilink")，包括[传输控制协议](../Page/传输控制协议.md "wikilink")（）和[用户数据报协议](../Page/用户数据报协议.md "wikilink")（）。\[30\]
+  - ：[网络协议](https://zh.wikipedia.org/wiki/网络协议 "wikilink")，包括[传输控制协议](../Page/传输控制协议.md "wikilink")（）和[用户数据报协议](../Page/用户数据报协议.md "wikilink")（）。\[31\]
 
-  - ：本地计算机的[IP地址](../Page/IP地址.md "wikilink")和正在使用的[端口号](https://zh.wikipedia.org/wiki/通讯埠 "wikilink")。除非使用**-n**参数，否则将显示与IP地址和端口对应的[主机名称](https://zh.wikipedia.org/wiki/主机名称 "wikilink")。如果主机正在侦听所有端口，则以主机以[星号](https://zh.wikipedia.org/wiki/星号 "wikilink")（\*）标示。如果端口尚未建立，则端口号显示为星号。\[31\]
+  - ：本地计算机的[IP地址](../Page/IP地址.md "wikilink")和正在使用的[端口号](https://zh.wikipedia.org/wiki/通讯埠 "wikilink")。除非使用**-n**参数，否则将显示与IP地址和端口对应的[主机名称](https://zh.wikipedia.org/wiki/主机名称 "wikilink")。如果主机正在侦听所有端口，则主机名显示为[星号](https://zh.wikipedia.org/wiki/星号 "wikilink")（\*）。如果端口尚未建立，则端口号显示为星号。\[32\]
 
-  - ：远程计算机的IP地址和正在使用的端口号。除非指定了**-n**参数，否则将显示与IP地址和端口对应的主机名称。如果端口尚未建立，则端口号显示为星号（\*）。\[32\]
+  - ：远程计算机的IP地址和正在使用的端口号。除非指定了**-n**参数，否则将显示与IP地址和端口对应的主机名称。如果端口尚未建立，则端口号显示为星号（\*）。\[33\]
 
-  - ：TCP连接的状态，可能的状态包括、、、、、、、、和。\[33\]
+  - ：TCP连接的状态，可能的状态包括、、、、、、、、和。\[34\]
 
 ## 命令范例
 
-要仅显示TCP或UDP协议的统计信息，请键入以下命令之一\[34\]：
+要仅显示TCP或UDP协议的统计信息，请键入以下命令之一\[35\]：
 
 > `netstat -sp tcp`
 
 > `netstat -sp udp`
 
-[类Unix系统](../Page/类Unix系统.md "wikilink")\[35\]\[36\]\[37\]\[38\]：
+[类Unix系统](../Page/类Unix系统.md "wikilink")\[36\]\[37\]\[38\]\[39\]\[40\]：
 
   -
     显示[进程ID](../Page/进程ID.md "wikilink")为“pid”的进程打开的所有端口：
@@ -357,7 +357,7 @@
 
 > `sudo netstat -nutpacw`
 
-[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[39\]：
+[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")\[41\]：
 
   -
     显示活动的TCP连接和关联的进程ID，每5秒为一个更新周期（仅适用于基于[Windows NT的操作系统或装有修补程序的](../Page/Windows_NT.md "wikilink")[Windows 2000](../Page/Windows_2000.md "wikilink")）：
@@ -371,7 +371,7 @@
 
 ## 应用（类UNIX系统）
 
-| 命令                           | 说明\[40\]\[41\]                                                                               |
+| 命令                           | 说明\[42\]\[43\]                                                                               |
 | ---------------------------- | -------------------------------------------------------------------------------------------- |
 | `netstat -a`                 | 显示所有端口（无论被监听或不被监听）、所有网络协议的连接。                                                                |
 | `netstat -at`                | 仅显示TCP连接。                                                                                    |
@@ -390,7 +390,7 @@
 
 ### 通配符
 
-在`netstat`命令的输出结果中，[星号](https://zh.wikipedia.org/wiki/星号 "wikilink")（\*）为通配符，表示“所有”。\[42\]
+在`netstat`命令的输出结果中，[星号](https://zh.wikipedia.org/wiki/星号 "wikilink")（\*）为通配符，表示“所有”。\[44\]\[45\]
 
 例如：
 
@@ -399,7 +399,7 @@
 ... *:smtp          *:*   LISTEN
 ```
 
-在输出结果中，`*:smtp`表示该进程正在本地计算机的所有[网络接口上监听所有](https://zh.wikipedia.org/wiki/网络接口 "wikilink")[映射为](https://zh.wikipedia.org/wiki/端口映射 "wikilink")[SMTP的端口](https://zh.wikipedia.org/wiki/SMTP "wikilink")，此处的星号有时会被代替，意义不改变。`*:*`中的第一个星号表示连接可以来自任何[IP地址](../Page/IP地址.md "wikilink")，第二个星号表示连接可以来自远程计算机上的任何端口。\[43\]\[44\]
+在输出结果中，`*:smtp`表示该进程正在本地计算机的所有[网络接口上监听所有](https://zh.wikipedia.org/wiki/网络接口 "wikilink")[映射为](https://zh.wikipedia.org/wiki/端口映射 "wikilink")[SMTP的端口](https://zh.wikipedia.org/wiki/SMTP "wikilink")，此处的星号有时会被代替，意义不改变。`*:*`中的第一个星号表示连接可以来自任何[IP地址](../Page/IP地址.md "wikilink")，第二个星号表示连接可以来自远程计算机上的任何端口。\[46\]\[47\]\[48\]\[49\]
 
 ## 参考文献
 
@@ -476,14 +476,22 @@
 34.
 
 35.
+
 36.
 37.
 38.
-
 39.
+
 40.
+
 41.
 42.
-
 43.
 44.
+
+45.
+
+46.
+47.
+48.
+49.

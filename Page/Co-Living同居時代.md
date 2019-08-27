@@ -1,6 +1,8 @@
-《**Co-Living同居時代**》（），是[隨身遊戲股份有限公司製作播出的網路](https://zh.wikipedia.org/wiki/隨身遊戲股份有限公司 "wikilink")[實境節目](https://zh.wikipedia.org/wiki/實境節目 "wikilink")，由[苗可麗](../Page/苗可麗.md "wikilink")、[許孟哲](../Page/許孟哲.md "wikilink")、[阿民](../Page/安安边缘子.md "wikilink")、[阿憲領銜主持](../Page/安安边缘子.md "wikilink")。節目由6位不同年齡層及不同生活圈的男女青年（石嘉睿、陳韋安、洪立成、林雅群、洪思語、-{R|袁子筑}-），一同住在一個屋簷下，激盪出不一樣的火花。\[1\][麥卡貝網路電視](../Page/麥卡貝網路電視.md "wikilink")於2019年3月11日首播。
+《**Co-Living同居時代**》（），是[隨身遊戲股份有限公司製作播出的網路](https://zh.wikipedia.org/wiki/隨身遊戲股份有限公司 "wikilink")[實境節目](https://zh.wikipedia.org/wiki/實境節目 "wikilink")，由[苗可麗](../Page/苗可麗.md "wikilink")、[許孟哲](../Page/許孟哲.md "wikilink")、[阿民](../Page/安安边缘子.md "wikilink")、[阿憲領銜主持](../Page/安安边缘子.md "wikilink")。節目由6位不同年齡層及不同生活圈的男女青年（石嘉睿、陳韋安、洪立成、林雅群、洪思語、-{R|袁子筑}-），一同住在一個屋簷下，激盪出不一樣的火花。\[1\][麥卡貝網路電視](../Page/麥卡貝網路電視.md "wikilink")第一季於2019年3月11日首播，第二季將於2019年8月26日首播。
 
-## 播出時間
+## 第一季
+
+### 播出時間
 
 <table>
 <thead>
@@ -38,8 +40,6 @@
 </tr>
 </tbody>
 </table>
-
-## 第一季
 
 ### 同居小夥伴
 
@@ -86,10 +86,63 @@
 | 2019年5月27日 | 花絮（畢業前一天、路跑活動）、同居時代估價王、遊戲（5秒談話）                             | [阿民](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、[阿憲](https://zh.wikipedia.org/wiki/安安邊緣子 "wikilink")、六位小夥伴                                                                   |
 |            |                                                             |                                                                                                                                                                                   |
 
-### 主題曲
+### 第一季歌曲
 
-  -
-    「[香味](https://www.youtube.com/watch?v=kXVuq5M9-FM)」（演唱者：[丘與樂](../Page/丘與樂.md "wikilink")）
+## 第二季
+
+### 播出時間
+
+<table>
+<thead>
+<tr class="header">
+<th><p>頻道</p></th>
+<th><p>所在地</p></th>
+<th><p>播映日期</p></th>
+<th><p>播出時間</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/麥卡貝網路電視.md" title="wikilink">麥卡貝網路電視</a></p></td>
+<td></td>
+<td><p>2019年8月26日</p></td>
+<td><p>每週一 20:00－21:00</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Youtube" title="wikilink">Youtube</a></p></td>
+<td></td>
+<td><p>2019年8月26日</p></td>
+<td><p>每週一 22:30－23:30</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 同居小夥伴
+
+| 暱稱 | 本名 | 星座 |
+| -- | -- | -- |
+|    |    |    |
+|    |    |    |
+|    |    |    |
+|    |    |    |
+|    |    |    |
+|    |    |    |
+|    |    |    |
+
+### 節目內容
+
+| 正片集數 | 播放日期 | 名稱 | 晚餐來賓 |
+| ---- | ---- | -- | ---- |
+| EP1  |      |    |      |
+|      |      |    |      |
+
+### 第二季歌曲
 
 ## 參考資料
 

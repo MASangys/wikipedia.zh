@@ -82,7 +82,7 @@
 <ul>
 <li>發行日期：2019年7月11日</li>
 <li>語言：韓語</li>
-<li>銷量：</li>
+<li>銷量：4,953+[7]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -112,6 +112,8 @@
 | 2019年4月12日               | TBS           | FACT IN STAR      | 全體       |
 | 2019年4月30日               | ARIRANG K-POP | After School Club | 全體       |
 | 2019年5月17日               | EBS1          | 照顧貓咪 第三季          | 全體       |
+| 2019年9月7日                | JTBC2         | RUN.wav           | 全體       |
+| 2019年9月                  | MBC           | 中秋偶像明星運動會         | 帝現、政勳    |
 
 ### 專屬節目
 
@@ -129,7 +131,7 @@
 | 2019年4月15日 | ARIRANG RADIO | Super K-Pop | 全體   |
 | 2019年7月15日 | ARIRANG RADIO | Super K-Pop | 全體   |
 | 2019年7月21日 | SBS POWER FM  | Cultwo Show | 全體   |
-| 2019年7月30日 | MBC RADIO     | IDOL RADIO  |      |
+| 2019年7月30日 | MBC RADIO     | IDOL RADIO  | 全體   |
 
 ## 公演活動
 
@@ -141,9 +143,10 @@
 
 ### 其他公演
 
-| 演出日期       | 演出名稱                    | 地點      | 備註 |
-| ---------- | ----------------------- | ------- | -- |
-| 2019年5月25日 | K-STAR LIVE POWER MUSIC | 東豆川體育中心 |    |
+| 演出日期       | 演出名稱                            | 地點                | 備註 |
+| ---------- | ------------------------------- | ----------------- | -- |
+| 2019年5月25日 | K-STAR LIVE POWER MUSIC         | 東豆川體育中心           |    |
+| 2019年8月8日  | 2019 Popket Asia Music Festival | 仁川 Wangsan Marina |    |
 
 ## 獎項與榮譽
 
@@ -172,3 +175,4 @@
 4.
 5.
 6.
+7.  [2019.07](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2019&termGbn=month)

@@ -261,7 +261,6 @@ WACK EXHiBiTiON是一個由[WACK](../Page/WACK.md "wikilink")舉辨的大型活�
 
 ### BiS
 
-  - マナコ・チー・マナコ
   - チャントモンキー
   - ネオ・トゥリーズ
   - トギー

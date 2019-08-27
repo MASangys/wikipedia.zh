@@ -2,6 +2,10 @@
 
 但A60取消了3.5mm耳機孔。同時也取消了Always on Display功能。Galaxy A60 使用Infinity - O螢幕技術
 
+## 參見
+
+[三星Galaxy A 系列](../Page/三星Galaxy_A系列.md "wikilink")
+
 ## 參考連結
 
 <https://www.samsung.com/cn/smartphones/galaxy-a60/SM-A6060ZKGCHC/>

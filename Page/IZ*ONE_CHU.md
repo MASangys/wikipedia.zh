@@ -1,4 +1,4 @@
-《**IZ\*ONE CHU**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet播放的綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink") \[1\]\[2\]，由女團[IZ\*ONE](../Page/IZ*ONE.md "wikilink")全體成員主持與出演 \[3\]，節目主軸為[IZ\*ONE](../Page/IZ*ONE.md "wikilink")日常工作與合宿生活為主題的團綜，記錄12位成員的宿舍趣事、製作專輯、片頭宣傳片、逆應援報恩活動的幕後花絮。\[4\]\[5\]第二季主軸也包括回歸準備。节目第一季于2018年11月6日首播，第二季于2019年3月21日播出
+《**IZ\*ONE CHU**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](../Page/Mnet.md "wikilink")播放的綜藝節目 \[1\]\[2\]，由女團[IZ\*ONE](../Page/IZ*ONE.md "wikilink")全體成員主持與出演 \[3\]，節目主軸為[IZ\*ONE](../Page/IZ*ONE.md "wikilink")日常工作與合宿生活為主題的團綜，記錄12位成員的宿舍趣事、製作專輯、片頭宣傳片、逆應援報恩活動的幕後花絮。\[4\]\[5\]第二季主軸也包括回歸準備。节目第一季于2018年11月6日首播，第二季于2019年3月21日播出
 
 ## 第一季
 

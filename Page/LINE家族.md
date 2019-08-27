@@ -1,8 +1,40 @@
-[LINE_Friend_Store_in_Hysan_Place_201510.jpg](https://zh.wikipedia.org/wiki/File:LINE_Friend_Store_in_Hysan_Place_201510.jpg "fig:LINE_Friend_Store_in_Hysan_Place_201510.jpg")[希慎廣場](../Page/希慎廣場.md "wikilink")LINE Friend Store\]\] [LINE_Character_MOON_Nuigurumi.jpg](https://zh.wikipedia.org/wiki/File:LINE_Character_MOON_Nuigurumi.jpg "fig:LINE_Character_MOON_Nuigurumi.jpg") LINE家族（）是[即時通訊軟體](https://zh.wikipedia.org/wiki/即時通訊軟體 "wikilink")[LINE](../Page/LINE.md "wikilink")的官方[貼圖](../Page/貼圖.md "wikilink")人物。因為很多廠商選擇和LINE家族合作打廣告，吸金超多而被戲稱為「亞洲搶錢天團」。\[1\]
+[30224523_at_Hangtianqiao_(20180710173453).jpg](https://zh.wikipedia.org/wiki/File:30224523_at_Hangtianqiao_\(20180710173453\).jpg "fig:30224523_at_Hangtianqiao_(20180710173453).jpg") **LINE家族**（）是[即時通訊軟體](https://zh.wikipedia.org/wiki/即時通訊軟體 "wikilink")[LINE](../Page/LINE.md "wikilink")的官方[貼圖](../Page/貼圖.md "wikilink")人物。因為很多廠商選擇和LINE家族合作打廣告，吸金超多而被戲稱為「**亞洲搶錢天團**」。\[1\]
 
 目前LINE家族一共有11個卡通角色，沉默溫和的**熊大**、開朗時髦的**兔兔**、自戀的**詹姆士**、隨心所欲的**饅頭人**、愛漂亮的**潔西卡**、常常幫大家解決事情的**莎莉雞**、古板又充滿中年男子氣息的**大叔**、害羞內向的**雷納德**、聰明又敏銳的**愛德華**、還有熊大時尚漂亮的妹妹**熊美**、熊美的男朋友**胖友**。
 
-## LINE家族卡通角色介紹
+## 动画剧集
+
+### LINE OFFLINE 上班族
+
+《LINE OFFLINE 上班族》（）是从2013年1月7日开始在[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")播放的5分鐘[泡麵番短片動畫](https://zh.wikipedia.org/wiki/泡麵番 "wikilink")\[2\]。描述了各个登场人物在公司中的日常生活。
+
+### LINE TOWN 麻吉樂園
+
+《LINE TOWN 麻吉樂園》是从2013年4月开始在日本TX Network播放的[動畫劇集](../Page/動畫劇集.md "wikilink")，和《-{LINE OFFLINE}- 上班族》是不同的動畫公司，但人物設定一致。前作為上班族动画，而本作為儿童动画。\[3\]
+
+## 成立独立品牌公司
+
+2015年1月，為更加提升角色品牌價值，成立獨立事業-{LINE FRIENDS}-國際卡通形象品牌公司，隸屬於NAVER旗下子公司。LINE家族至今已在5,000多種角色商品、動畫、遊戲、咖啡廳、飯店及主題樂園等各種領域中，與全球各地的國際品牌攜手推出各類合作商品，並在紐約、東京、上海、北京、香港、曼谷、台北、首爾、印尼等地開設實體店。
+
+除了LINE貼圖目前所擁有的11個人氣角色外，-{LINE FRIENDS}-最新計畫「FRIENDS CREATORS」，與韓國偶像團體[防彈少年團](../Page/防彈少年團.md "wikilink")及中國偶像[王源](../Page/王源_\(艺人\).md "wikilink")，共同推出全新的系列卡通形象，此項計畫目標是與全球藝人共創智慧財產。目前有BT21\[4\]及[ROY6](https://www.linefriends.com/roy6)\[5\]\[6\]兩個系列卡通人物。
+
+## 卡通人物详细资料
+
+| 《LINE家族》各人物不同地区的称呼 |
+| :----------------: |
+|         譯名         |
+|        中國大陆        |
+|    布-{}-朗-{}-熊     |
+|    可-{}-妮-{}-兔     |
+|        詹姆士         |
+|        馒头人         |
+|        洁西卡         |
+|         莎莉         |
+|         大叔         |
+|        雷纳德         |
+|        爱德华         |
+|    丘-{}-可-{}-熊     |
+|         胖友         |
 
   -
     個性謹慎，溫和，雖然話不多，總是面無表情，但生起氣來十分可怕。
@@ -107,23 +139,16 @@
     溫柔體貼，愛好發明。
     雖然充滿創意，熱衷於發明，但是只要熊美出現就會把一切都拋在腦後。
 
-### 衍生動畫
-
-#### LINE OFFLINE 上班族
-
-《LINE OFFLINE 上班族》（）是从2013年1月7日开始在[日本](../Page/日本.md "wikilink")[東京電視台](../Page/東京電視台.md "wikilink")播放的5分鐘[泡麵番短片動畫](https://zh.wikipedia.org/wiki/泡麵番 "wikilink")\[2\]。描述了各个登场人物在公司中的日常生活。
-
-#### LINE TOWN
-
-《[LINE TOWN](../Page/LINE_TOWN.md "wikilink")》是从2013年4月开始在日本[TX Network播放的動畫](https://zh.wikipedia.org/wiki/TX_Network "wikilink")，和《》是不同的動畫公司，但人物設定一致。前作為成人向动画，而本作為儿童向。\[3\]
-
 ## 参考文献
 
 ## 外部連結
 
   -
-[Category:虛構角色](https://zh.wikipedia.org/wiki/Category:虛構角色 "wikilink") [Category:韓國品牌](https://zh.wikipedia.org/wiki/Category:韓國品牌 "wikilink") [Category:Naver](https://zh.wikipedia.org/wiki/Category:Naver "wikilink") [Category:LINE](https://zh.wikipedia.org/wiki/Category:LINE "wikilink")
+[Category:虛構角色](https://zh.wikipedia.org/wiki/Category:虛構角色 "wikilink") [Category:贴图角色](https://zh.wikipedia.org/wiki/Category:贴图角色 "wikilink") [Category:韓國品牌](https://zh.wikipedia.org/wiki/Category:韓國品牌 "wikilink") [Category:Naver](https://zh.wikipedia.org/wiki/Category:Naver "wikilink") [Category:LINE](https://zh.wikipedia.org/wiki/Category:LINE "wikilink")
 
-1.  亞洲第一搶錢天團Line friends！ 搜狐 [1](https://m.sohu.com/a/129492900_571692/?pvid=000115_3w_a)
+1.  [亞洲第一搶錢天團Line friends！ 搜狐](https://m.sohu.com/a/129492900_571692/?pvid=000115_3w_a)
 2.
 3.
+4.
+5.
+6.

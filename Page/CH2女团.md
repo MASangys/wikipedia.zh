@@ -55,86 +55,9 @@
 | 2018    | 《听雪恋歌》                                                 | [bilibili](https://www.bilibili.com/video/av40534021/) |
 |         |                                                        |                                                        |
 
-### 综艺节目
+### 固定节目
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>日期</p></td>
-<td><p>播出平台</p></td>
-<td><p>节目</p></td>
-<td><p>期数</p></td>
-<td><p>成员</p></td>
-</tr>
-<tr class="even">
-<td><p>2017年6月1日</p></td>
-<td><p><a href="../Page/腾讯视频.md" title="wikilink">腾讯视频</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/约吧！大明星" title="wikilink">约吧！大明星</a> 第二季第8期</p></td>
-<td><p>1</p></td>
-<td><p>全员为龙套<a href="https://zh.wikipedia.org/wiki/啦啦队" title="wikilink">啦啦队</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>2017年9月18日</p></td>
-<td><p>上海<a href="https://zh.wikipedia.org/wiki/星尚频道" title="wikilink">星尚频道</a><br />
-<a href="../Page/爱奇艺.md" title="wikilink">爱奇艺</a><br />
-<a href="../Page/优酷.md" title="wikilink">优酷</a></p></td>
-<td><p>时尚先锋-时尚厨房单元</p></td>
-<td><p>可乐鸡翅</p></td>
-<td><p>杨美琪、杨美玲</p></td>
-</tr>
-<tr class="even">
-<td><p>2017年9月19日</p></td>
-<td><p>番茄炒蛋</p></td>
-<td><p>关丹、范悦</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2017年9月20日</p></td>
-<td><p>胡萝卜小炒肉</p></td>
-<td><p>杨超越、唐艳茹</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2017年9月21日</p></td>
-<td><p>剁椒酸菜鱼</p></td>
-<td><p>刘雪丽、胡婉莹</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2017年9月22日</p></td>
-<td><p>红烧冬瓜</p></td>
-<td><p>杨美玲、杨美琪</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年4月21日 - 2018年6月23日</p></td>
-<td><p><a href="../Page/腾讯视频.md" title="wikilink">腾讯视频</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/创造101" title="wikilink">创造101</a></p></td>
-<td><p>全期数</p></td>
-<td><p>杨超越（全期数）<br />
-杨美玲、杨美琪（第四期淘汰）<br />
-赵羚（第二期淘汰）</p></td>
-</tr>
-<tr class="odd">
-<td><p>2018年7月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/哔哩哔哩" title="wikilink">哔哩哔哩</a></p></td>
-<td><p>直播访谈</p></td>
-<td><p>1</p></td>
-<td><p>杨美玲、杨美琪</p></td>
-</tr>
-<tr class="even">
-<td><p>2018年10月21日-11月25日</p></td>
-<td><p><a href="../Page/中国梦之声·下一站传奇.md" title="wikilink">中国梦之声·下一站传奇</a></p></td>
-<td><p><a href="../Page/东方卫视.md" title="wikilink">东方卫视</a></p></td>
-<td><p>第6期上场评级</p></td>
-<td><p>杨美玲、杨美琪</p></td>
-</tr>
-</tbody>
-</table>
+  - 2018年4月21日 - 2018年6月23日《[创造101](https://zh.wikipedia.org/wiki/创造101 "wikilink")》參賽者
 
 ### 教学视频
 
@@ -145,7 +68,7 @@
 | 德州扑克荷官教学 从小白到大赛荷官 | 10                                                            | 全员 |    |
 |                   |                                                               |    |    |
 
-## 商业活动
+## 代言
 
 |            |
 | ---------- |
@@ -155,21 +78,6 @@
 | 2017年      |
 | 2017年      |
 | 2018年      |
-
-|                |
-| -------------- |
-| 商业活动           |
-| 日期             |
-| 2017年5月2日      |
-| 2017年7月8日      |
-| 2017年7月14日     |
-| 2017年7月28日-29日 |
-| 2017年8月8日      |
-| 2017年10月8日     |
-| 2017年11月25日    |
-| 2017月12月28日    |
-| 2018年7月20日-22日 |
-| 2018年8月26日     |
 
 ## 赛事
 

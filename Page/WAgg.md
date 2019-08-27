@@ -12,11 +12,7 @@ WAgg（ワッグ）是[WACK](../Page/WACK.md "wikilink")的實習單位。該單
 
   - 5月28日 – WACK宣布為偶像培訓項目的發表。
   - 8月14日 – WAgg成員開設個人的[Twitter](../Page/Twitter.md "wikilink")賬戶。
-  - 9月9日 - 在常規表演「WAgg the beginning」中亮相。並宣布同公演以下「WAgg 4條款」。
-    1.  WAgg粉絲的通用名稱是“新米”
-    2.  攝影還可以。視頻錄製，禁止錄製
-    3.  禁止潛水升降衝浪等危險行為
-    4.  剩下的就是免費的
+  - 9月9日 - 在常規表演「WAgg the beginning」中亮相。並宣布同公演以下「WAgg 4條款」,WAgg粉絲的通用名稱是“新米”－表演中可拍攝、不能錄影錄音、禁止Lift, Dive, surf等危險行為, 剩下的就是免費的。
   - 10月9日～12月28日 - 與WACK的前輩EMPiRE一起參加單獨巡遊公演“與EMPiRE一起慶祝WACK新的里程”。
   - 12月16日 - 與WACK的前輩BiS一起參加單獨一天公演“與BiS一起慶祝WACK新的里程”。
   - 12月25日 - 夏之魔物 2018 in AOMORI出演。
@@ -50,37 +46,24 @@ WAgg（ワッグ）是[WACK](../Page/WACK.md "wikilink")的實習單位。該單
 <th><p>名字</p></th>
 <th><p>生日</p></th>
 <th><p>出身地</p></th>
-<th><p>個人簡介</p></th>
+<th><p>備註</p></th>
 <th><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>ウルウ・ル</p></td>
-<td><p>2月7日</p></td>
-<td></td>
-<td><p>於2018年9月9日開始活動<br />
-亦是WACK合同徵選2019參加者並完成7天的合宿。<br />
-是WAgg第二個昇格的成員。<br />
-將於2019年於8月25日在WAgg畢業。[3]<br />
-並於2019年6月19日加入新的<a href="../Page/WACK.md" title="wikilink">WACK</a>團體（暫稱）。[4]<br />
-為WAgg的（創始成員）。<br />
-最喜歡的WACK組是<a href="../Page/BiSH.md" title="wikilink">BiSH</a>。</p></td>
-<td><p><a href="https://twitter.com/URUURU_WAgg">ウルウ・ル</a></p></td>
-</tr>
-<tr class="even">
 <td><p>ア・アンズピア</p></td>
+<td><p>5月23日</p></td>
 <td></td>
-<td><p>富山縣</p></td>
 <td><p>於2018年9月9日開始活動<br />
-亦是WACK合同徵選2019參加者並完成7天的合宿。<br />
-是WAgg第一個被懲罰的成員。<br />
+亦是WACK合同徵選2019參加者。<br />
 為WAgg的（創始成員）。<br />
+亦是的成員。<br />
 亦曾經是的成員。<br />
 最喜歡的WACK組是<a href="../Page/BiSH.md" title="wikilink">BiSH</a>。</p></td>
 <td><p><a href="https://twitter.com/ANZU_WAgg">ア・アンズピア</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ウタウウタ</p></td>
 <td><p>6月3日</p></td>
 <td></td>
@@ -92,7 +75,7 @@ WAgg（ワッグ）是[WACK](../Page/WACK.md "wikilink")的實習單位。該單
 最喜歡的WACK組是。</p></td>
 <td><p><a href="https://twitter.com/UTA_WAgg">ウタウウタ</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>愛</p></td>
 <td><p>8月14日</p></td>
 <td></td>
@@ -102,7 +85,7 @@ WAgg（ワッグ）是[WACK](../Page/WACK.md "wikilink")的實習單位。該單
 最喜歡的WACK組是<a href="../Page/BiSH.md" title="wikilink">BiSH</a>。</p></td>
 <td><p><a href="https://twitter.com/L0VE_WAgg">愛</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>サアヤイト</p></td>
 <td><p>7月16日</p></td>
 <td></td>
@@ -112,7 +95,7 @@ WAgg（ワッグ）是[WACK](../Page/WACK.md "wikilink")的實習單位。該單
 最喜歡的WACK組是<a href="../Page/EMPiRE_(偶像團體).md" title="wikilink">EMPiRE</a>。</p></td>
 <td><p><a href="https://twitter.com/SAYA_WAgg">サアヤイト</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ハナエモンスター</p></td>
 <td><p>12月28日</p></td>
 <td></td>
@@ -122,7 +105,7 @@ WAgg（ワッグ）是[WACK](../Page/WACK.md "wikilink")的實習單位。該單
 最喜歡的WACK組是<a href="../Page/BiSH.md" title="wikilink">BiSH</a>。</p></td>
 <td><p><a href="https://twitter.com/HANAEMON_WAgg">ハナエモンスター</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ナアユ</p></td>
 <td><p>4月30日</p></td>
 <td></td>
@@ -143,7 +126,7 @@ WAgg（ワッグ）是[WACK](../Page/WACK.md "wikilink")的實習單位。該單
 <th><p>名字</p></th>
 <th><p>生日</p></th>
 <th><p>出身地</p></th>
-<th><p>個人簡介</p></th>
+<th><p>備註</p></th>
 <th><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></th>
 </tr>
 </thead>
@@ -168,10 +151,24 @@ WAgg（ワッグ）是[WACK](../Page/WACK.md "wikilink")的實習單位。該單
 <td><p>於2018年9月9日開始活動<br />
 亦是WACK合同徵選2019參加者。<br />
 是WAgg第一個離開的成員。<br />
-2019年6月16日畢業。[5]<br />
+2019年6月16日畢業。[3]<br />
 為WAgg的（創始成員）。<br />
 最喜歡的WACK組是。</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>ウルウ・ル</p></td>
+<td><p>2月7日</p></td>
+<td></td>
+<td><p>於2018年9月9日開始活動<br />
+亦是WACK合同徵選2019參加者。<br />
+是WAgg第二個昇格的成員。<br />
+2019年8月25日畢業。[4]<br />
+並於2019年8月26日正式加入（暫稱）。[5]<br />
+為WAgg的（創始成員）。<br />
+亦是的成員。<br />
+最喜歡的WACK組是<a href="../Page/BiSH.md" title="wikilink">BiSH</a>。</p></td>
+<td><p><a href="https://twitter.com/URUURU_WAgg">ウルウ・ル</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -256,6 +253,11 @@ WAgg（ワッグ）是[WACK](../Page/WACK.md "wikilink")的實習單位。該單
 | 2019年8月12日 | 廣島・CAVE-BE              |                  |        |
 | 2019年8月18日 | 澀谷・TUTAYA O-Crest       |                  |        |
 | 2019年8月25日 | 名古屋・RAD HALL            | ウルウ・ル畢業公演\[9\]   |        |
+| 2019年9月1日  | 大阪・寺田町 Fire loop        |                  |        |
+| 2019年9月8日  | 静岡・Sunash               |                  |        |
+| 2019年9月15日 | 渋谷・TUTAYA O-Crest       |                  |        |
+| 2019年9月22日 | 名古屋・3STAR IMAIKE        |                  |        |
+| 2019年9月29日 | 北海道・BESSIE HALL         |                  |        |
 
 ## 活動
 
@@ -271,7 +273,6 @@ WAgg（ワッグ）是[WACK](../Page/WACK.md "wikilink")的實習單位。該單
 ## 瑣事
 
   - ナルハワールド是第一個WAgg昇格為正規團體的WAgg成員。
-  - ア・アンズピア是現時唯一WAgg成員中公開了真實年齡和出生地及真實姓名的WAgg成員。
 
 ## 外部連結
 
@@ -284,9 +285,9 @@ WAgg（ワッグ）是[WACK](../Page/WACK.md "wikilink")的實習單位。該單
 
 1.  [WACK、即戦力アーティストを育てる新プロジェクト「WAgg」立ち上げ](https://natalie.mu/music/news/284127)
 2.  [WACK新アイドル・WAggメンバー決定、お披露目ライブは9月開催](https://natalie.mu/music/news/295304)
-3.  [ウルウ・ル畢業公演日程決定！](https://twitter.com/WAggidol/status/1147753358255480832)
-4.  [WACK新グループ（カレールーず（仮称））結成オーディション開催のお知らせ](https://www.wack.jp/posts/6461965H)
-5.  [WAggからマリン・バ脱退](https://natalie.mu/music/news/335045)
+3.  [WAggからマリン・バ脱退](https://natalie.mu/music/news/335045)
+4.  [ウルウ・ル畢業公演日程決定！](https://twitter.com/WAggidol/status/1147753358255480832)
+5.  [WACK新グループ（カレールーず（仮称））結成オーディション開催のお知らせ](https://www.wack.jp/posts/6461965H)
 6.  [WAggナルハワールド移籍GANG PARADE](https://natalie.mu/music/news/332041)
 7.  [新生WAggナアユ披露公演，宣言「想讓WAgg成為最強！」](https://natalie.mu/music/news/335045)
 8.  [WAggからマリン・バ脱退](https://natalie.mu/music/news/335045)

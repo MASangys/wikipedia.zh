@@ -85,6 +85,16 @@
 
 指出该EP收录的同名歌曲的歌词涉嫌抄袭《[黄色大门](https://zh.wikipedia.org/wiki/Close_Up_\(容祖儿专辑\) "wikilink")》及《[红屋顶](../Page/What_Really_Matters.md "wikilink")》，对此，甘世佳在回应中指出此举为“融梗”\[10\]，引致一些网友表示“不能接受”。但亦有评论指出，《笔下之城》歌词除致敬以上两个对象之外，并无与上述对象的明显相似之处，应将其类比于论文的“改述”\[11\]。
 
+## DeMOON
+
+### DEMOON
+
+《**DEMOON**》是SNH48旗下小组合DeMOON的同名兼第一张EP，于2019年8月30日发行。
+
+#### 概要
+
+#### 曲目
+
 ## 注解
 
 ## 参考资料
@@ -101,6 +111,7 @@
   - [《SWAN》专题页](http://www.snh48.com/event/s259/wx/)
   - [BlueV组合及《MAMI》专题页](http://www.bluevgirls.com/)
   - [HO2组合及《笔下之城》专题页](http://www.ho2girls.com/)
+  - [DeMOON组合及同名专辑专题页](http://demoon.snh48.com/)
 
 [Category:SNH48](https://zh.wikipedia.org/wiki/Category:SNH48 "wikilink") [Category:7SENSES](https://zh.wikipedia.org/wiki/Category:7SENSES "wikilink") [Category:BlueV](https://zh.wikipedia.org/wiki/Category:BlueV "wikilink") [Category:HO2](https://zh.wikipedia.org/wiki/Category:HO2 "wikilink")
 

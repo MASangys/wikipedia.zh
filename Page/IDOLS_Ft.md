@@ -487,7 +487,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td><p>10月18日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/河北" title="wikilink">河北</a></p></td>
 <td><p>SHY48 3期</p></td>
-<td></td>
+<td><p>代役GNZ48 Team Z</p></td>
 <td><p>SHY48第13名</p></td>
 <td></td>
 </tr>
@@ -586,7 +586,7 @@ IDOLS Ft为[SNH48 Group的运营公司](https://zh.wikipedia.org/wiki/SNH48#SNH4
 <td><p>9月6日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/河南" title="wikilink">河南</a></p></td>
 <td><p>SHY48 4期</p></td>
-<td></td>
+<td><p>代役GNZ48 Team Z</p></td>
 <td></td>
 <td></td>
 </tr>

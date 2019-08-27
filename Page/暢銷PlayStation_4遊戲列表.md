@@ -2,13 +2,13 @@
 
 ## 列表
 
-*\*带粗体字游戏为独占游戏。*
+*\*带粗体字的游戏名字为PS4平台独占游戏。*
 
   - [俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")（1870万）
 
 <!-- end list -->
 
-  - ***[碧血狂殺2](../Page/碧血狂殺2.md "wikilink")（620万）***
+  - [碧血狂殺2](../Page/碧血狂殺2.md "wikilink")（620万）
 
 <!-- end list -->
 
@@ -16,19 +16,19 @@
 
 <!-- end list -->
 
-  - ***[最後生還者](../Page/最後生還者.md "wikilink")（1000万）***
+  - [最後生還者](../Page/最後生還者.md "wikilink")（1000万）
 
 <!-- end list -->
 
-  - ***[血源詛咒](https://zh.wikipedia.org/wiki/血源詛咒 "wikilink")（299万）***
+  - ***[血源詛咒](https://zh.wikipedia.org/wiki/血源詛咒 "wikilink")***（299万）
 
 <!-- end list -->
 
-  - ***[惡名昭彰：第二之子](../Page/惡名昭彰：第二之子.md "wikilink")（290万）***
+  - ***[惡名昭彰：第二之子](../Page/惡名昭彰：第二之子.md "wikilink")***（290万）
 
 <!-- end list -->
 
-  - ***[跑車浪漫旅競速(GTS)](../Page/跑車浪漫旅系列.md "wikilink")（365万）***
+  - ***[跑車浪漫旅競速(GTS)](../Page/跑車浪漫旅系列.md "wikilink")***（365万）
 
 <!-- end list -->
 
@@ -112,10 +112,6 @@
 
 <!-- end list -->
 
-  - ''' *[神秘海域4：盜賊末路](https://zh.wikipedia.org/wiki/神秘海域4：盜賊末路 "wikilink")（1500万）*'''
-
-<!-- end list -->
-
   - [星球大戰 前線 (2015年遊戲)](https://zh.wikipedia.org/wiki/星球大戰_前線_\(2015年遊戲\) "wikilink")（810万）
 
 <!-- end list -->
@@ -148,15 +144,27 @@
 
 <!-- end list -->
 
-  - [FIFA 16](https://zh.wikipedia.org/wiki/FIFA_16 "wikilink")（830万）
+  - [FIFA 16](../Page/FIFA系列.md "wikilink")（830万）
 
 <!-- end list -->
 
-  - [FIFA 15](../Page/FIFA_15.md "wikilink")（640万）
+  - [FIFA 15](../Page/FIFA系列.md "wikilink")（640万）
 
 <!-- end list -->
 
-  - [FIFA 14](../Page/FIFA_14.md "wikilink")（362万）
+  - [FIFA 14](../Page/FIFA系列.md "wikilink")（362万）
+
+<!-- end list -->
+
+  - [NBA 2K18](../Page/NBA_2K18.md "wikilink")（350万）
+
+<!-- end list -->
+
+  - [NBA 2K17](../Page/NBA_2K17.md "wikilink")（370万）
+
+<!-- end list -->
+
+  - [NBA 2K16](https://zh.wikipedia.org/wiki/NBA_2K16 "wikilink")（422万）
 
 <!-- end list -->
 
@@ -176,35 +184,27 @@
 
 <!-- end list -->
 
-  - ***殺戮地帶：暗影墜落（307万）***
+  - ***殺戮地帶：暗影墜落***（307万）
 
 <!-- end list -->
 
-  - ***[戰神 (2018年遊戲)](../Page/戰神_\(2018年遊戲\).md "wikilink")（1000万）***
+  - ***[地平線 黎明時分](../Page/地平線_黎明時分.md "wikilink")***（1000万）
 
 <!-- end list -->
 
-  - ***[蜘蛛俠 (2018年遊戲)](../Page/蜘蛛俠_\(2018年遊戲\).md "wikilink")（1000万）***
+  - ***[戰神 (2018年遊戲)](../Page/戰神_\(2018年遊戲\).md "wikilink")***（1000万）
 
 <!-- end list -->
 
-  - ***[秘境探險：奈森‧德瑞克合輯](https://zh.wikipedia.org/wiki/神秘海域系列#秘境探險：奈森德瑞克合集 "wikilink")（565万）***
+  - ***[蜘蛛俠 (2018年遊戲)](../Page/蜘蛛俠_\(2018年遊戲\).md "wikilink")***（1000万）
 
 <!-- end list -->
 
-  - ***[地平線 黎明時分](../Page/地平線_黎明時分.md "wikilink")（1000万）***
+  - ***[秘境探險：奈森‧德瑞克合輯](https://zh.wikipedia.org/wiki/神秘海域系列#秘境探險：奈森德瑞克合集 "wikilink")***（565万）
 
 <!-- end list -->
 
-  - [NBA 2K18](../Page/NBA_2K18.md "wikilink")（350万）
-
-<!-- end list -->
-
-  - [NBA 2K17](../Page/NBA_2K17.md "wikilink")（370万）
-
-<!-- end list -->
-
-  - [NBA 2K16](https://zh.wikipedia.org/wiki/NBA_2K16 "wikilink")（422万）
+  - ''' *[神秘海域4：盜賊末路](https://zh.wikipedia.org/wiki/神秘海域4：盜賊末路 "wikilink")*'''（1500万）
 
 <!-- end list -->
 
@@ -216,11 +216,11 @@
 
 <!-- end list -->
 
-  - ***麥登橄欖球17（348万）***
+  - 麥登橄欖球17（348万）
 
 <!-- end list -->
 
-  - ***麥登橄欖球16（352万）***
+  - 麥登橄欖球16（352万）
 
 <!-- end list -->
 

@@ -2,12 +2,12 @@
 
 ## 專屬節目
 
-|             |                |                                                       |                                                                |    |                 |                  |
-| ----------- | -------------- | ----------------------------------------------------- | -------------------------------------------------------------- | -- | --------------- | ---------------- |
-| 年份          | 日期             | 頻道                                                    | 節目名稱                                                           | 集數 | 拍攝地點            | 備註               |
-| 2019年       | 3月4日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《TOMORROW X TOGETHER Debut Celebration Show presented by Mnet》 | 1  | 韓國              | 慶祝出道節目\[1\]\[2\] |
-| 3月11日－3月12日 | YouTube、V LIVE | 《[TALK X TODAY](../Page/TALK_X_TODAY.md "wikilink")》  | 6                                                              | 韓國 | 日常真人秀\[3\]\[4\] |                  |
-| 6月27日－8月15日 | Mnet           | 《ONE DREAM. TXT》                                      | 8                                                              | 美國 | 美國巡迴ShowCase記錄  |                  |
+|             |                |                                                      |                                                                |    |                 |                  |
+| ----------- | -------------- | ---------------------------------------------------- | -------------------------------------------------------------- | -- | --------------- | ---------------- |
+| 年份          | 日期             | 頻道                                                   | 節目名稱                                                           | 集數 | 拍攝地點            | 備註               |
+| 2019年       | 3月4日           | [Mnet](../Page/Mnet.md "wikilink")                   | 《TOMORROW X TOGETHER Debut Celebration Show presented by Mnet》 | 1  | 韓國              | 慶祝出道節目\[1\]\[2\] |
+| 3月11日－3月12日 | YouTube、V LIVE | 《[TALK X TODAY](../Page/TALK_X_TODAY.md "wikilink")》 | 6                                                              | 韓國 | 日常真人秀\[3\]\[4\] |                  |
+| 6月27日－8月15日 | Mnet           | 《ONE DREAM. TXT》                                     | 8                                                              | 美國 | 美國巡迴ShowCase記錄  |                  |
 
 ## 官方頻道單元
 
@@ -50,7 +50,7 @@
 </tr>
 <tr class="even">
 <td><p>3月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a>》</p></td>
 <td><p>YEONJUN、SOOBIN</p></td>
 <td></td>

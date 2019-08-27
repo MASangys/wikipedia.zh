@@ -1,10 +1,16 @@
-《**Gamedolympic**》（）為[韓國OGN](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[1\]於2018年推出的綜藝節目，節目主軸為[韓國國內最大藝人電競大賽](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[2\]\[3\]。
+《**Gamedolympic**》（）為[韓國OGN](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[1\]於2018年推出的綜藝節目，節目主軸為[韓國國內最大藝人電競大賽](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[2\]\[3\]。2019年續辦第二屆。
 
-## MC與評論員
+## MC
 
-  - 主要MC：[安勝浩](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")
-  - 助理MC：이동진、김의중、[Luda](../Page/Luda.md "wikilink")（宇宙少女）
-  - 評論員：金正珉、하광석、고수진、정준、裵宰民
+|        |                                                                                                                   |                                                                                                           |
+| ------ | ----------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| **屆數** | **主MC**                                                                                                           | **備註**                                                                                                    |
+| 1      | [安勝浩](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")                                                               | 該屆有助理MC：이동진、김의중、[Luda](../Page/Luda.md "wikilink")（[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")） |
+| 2      | [神童](../Page/神童.md "wikilink")、[希澈](../Page/希澈.md "wikilink")（[Super Junior](../Page/Super_Junior.md "wikilink")） | 本屆改為由由兩位MC分別領軍對抗。                                                                                         |
+
+## 評論員
+
+第一屆：金正珉、하광석、고수진、정준、裵宰民
 
 ## 電競遊戲項目
 

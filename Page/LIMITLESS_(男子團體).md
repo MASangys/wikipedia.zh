@@ -20,7 +20,7 @@
 
 2010年7月，Jmvok參與《[Super Star K](https://zh.wikipedia.org/wiki/Super_Star_K "wikilink")》第二季。
 
-2017年4月，Jmvok（ONO娛樂練習生）、熙錫（[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")練習生）、A.M（THEVIBE LABLE練習生）參與《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，最終排名分別為第27名、第46名及第61名，未能透過節目出道。
+2017年4月，Jmvok（ONO娛樂練習生）、熙錫（[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")練習生）、A.M（THEVIBE LABLE練習生）參與《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》，并曾于组合对抗评价中于另三名练习生表演[EXO](../Page/EXO.md "wikilink")之[CALL ME BABY](https://www.youtube.com/watch?v=TgObcTb-IPs&t=15s)。最終三人排名分別為第27名、第46名及第61名，未能透過節目出道。
 
 2017年10月，Raychan參與由[YG娛樂](../Page/YG娛樂.md "wikilink")投資的《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，唯未能通過初選。
 
@@ -36,10 +36,12 @@
 
 ### 綜藝節目
 
-| 日期              | 频道   | 名稱                                                          | 參與成員     | 備註 |
-| --------------- | ---- | ----------------------------------------------------------- | -------- | -- |
-| 2017年4月7日－6月16日 | Mnet | [PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")    | 文福、玹祐、熙錫 |    |
-| 2017年10月29日     | JTBC | [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink") | 輝燦       |    |
+| 日期              | 频道   | 名稱                                                          | 參與成員     | 備註            |
+| --------------- | ---- | ----------------------------------------------------------- | -------- | ------------- |
+| 2017年4月7日－6月16日 | Mnet | [PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")    | 文福、玹祐、熙錫 | 组合对抗评价中同组     |
+| 2017年10月29日     | JTBC | [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink") | 輝燦       |               |
+| 2019年8月11日      | MBC  | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")              | 文福       | \[10\] \[11\] |
+| 2019年9月日(待播)    | MBC  | [偶像明星運動會](../Page/偶像明星運動會.md "wikilink")                    | 文福、熙錫    |               |
 
 ## 參考資料
 
@@ -74,3 +76,5 @@
 7.
 8.
 9.
+10.
+11.

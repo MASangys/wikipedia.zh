@@ -19,7 +19,8 @@
 ### 2019年
 
   - 2月6日 – SAiNT SEX使用東京偶像節2018的新陣容向音樂商店發布了重新錄製的WACK FXXK版本。\[2\]。
-  - 5月11日 –由於解散，ゴ・ジーラ和アヤ・エイトプリンス都離開WACK。目前還不知道SAiNT SEX會否再解散。
+  - 5月11日 –由於解散，ゴ・ジーラ和アヤ・エイトプリンス離開WACK。
+  - 8月4日 – 在「TOKYO IDOL FESTIVAL 2019」宣布，[EMPiRE和](../Page/EMPiRE_\(偶像團體\).md "wikilink")[Curry Roux的成員加入並進行現場表演](../Page/Curry_Roux.md "wikilink")。分別是パン・ルナリーフィ和NOW EMPiRE。
 
 ## 成員
 
@@ -30,29 +31,28 @@
 <tr class="header">
 <th><p>名字</p></th>
 <th><p>生日</p></th>
-<th><p>個人簡介</p></th>
+<th><p>備註</p></th>
 <th><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>カミヤサキ</p></td>
-<td></td>
+<td><p>9月27日</p></td>
 <td><p>是GANG PARADE的成員。<br />
-入團前為BiS的成員<br />
 </p></td>
 <td><p><a href="https://twitter.com/kamiya_GANG">カミヤサキ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>アイナ・ジ・エンド</p></td>
-<td></td>
+<td><p>12月27日</p></td>
 <td><p>是BiSH的成員。<br />
 </p></td>
 <td><p><a href="https://twitter.com/aina_BiSH">アイナ・ジ・エンド</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>アユニ・D</p></td>
-<td></td>
+<td><p>10月12日</p></td>
 <td><p>是BiSH的成員。<br />
 </p></td>
 <td><p><a href="https://twitter.com/AYUNiD_BiSH">アユニ・D</a></p></td>
@@ -72,6 +72,20 @@
 <td><p><a href="https://twitter.com/yua_GANG">ユメノユア</a></p></td>
 </tr>
 <tr class="even">
+<td><p>パン・ルナリーフィ</p></td>
+<td><p>8月18日</p></td>
+<td><p>是Curry Roux的成員。<br />
+</p></td>
+<td><p><a href="https://twitter.com/PANLUNA___">パン・ルナリーフィ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>NOW EMPiRE</p></td>
+<td><p>7月28日</p></td>
+<td><p>是EMPiRE的成員。<br />
+</p></td>
+<td><p><a href="https://twitter.com/NOW_EMPiRE">NOW EMPiRE</a></p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -87,30 +101,29 @@
 <tr class="header">
 <th><p>名字</p></th>
 <th><p>生日</p></th>
-<th><p>個人簡介</p></th>
+<th><p>備註</p></th>
 <th><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>プー·ルイ</p></td>
-<td></td>
+<td><p>8月20日</p></td>
 <td><p>是BiS的成員。<br />
 2018年3月4日宣布在BiS和WACK畢業。</p></td>
 <td><p><a href="https://twitter.com/pour_lui">プー·ルイ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>アヤ・エイトプリンス</p></td>
-<td></td>
+<td><p>5月2日</p></td>
 <td><p>是BiS的成員。<br />
-入團前為GANG PARADE的成員<br />
 2019年5月11日解散。<br />
 並在5月31日宣布在WACK畢業。</p></td>
 <td><p><a href="https://twitter.com/AYAPRi_">アヤ・エイトプリンス</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ゴ·ジーラ</p></td>
-<td></td>
+<td><p>8月26日</p></td>
 <td><p>是BiS的成員。<br />
 在2018年8月加入並接替在3月4日BiS和WACK畢業的プー·ルイ的位置。<br />
 2019年5月11日解散。<br />
@@ -130,12 +143,13 @@
 
 在列表中、▲代表加入、▼代表離開・畢業
 
-| 期間                     | 成員                                                    | 備註 |
-| ---------------------- | ----------------------------------------------------- | -- |
-| 2017年10月2日 - 2018年3月3日 | ▼プー・ルイ、カミヤサキ、アイナ・ジ・エンド、アユニ・D、アヤ・エイトプリンス、ヤママチミキ、ユメノユア  |    |
-| 2018年8月 日 - 2019年2月6日  | カミヤサキ、アイナ・ジ・エンド、アユニ・D、アヤ・エイトプリンス、ヤママチミキ、ユメノユア、▲ゴ・ジーラ  |    |
-| 2019年2月6日 - 2019年5月11日 | カミヤサキ、アイナ・ジ・エンド、アユニ・D、▼アヤ・エイトプリンス、ヤママチミキ、ユメノユア、▼ゴ・ジーラ |    |
-| 2019年5月12日 -           | カミヤサキ、アイナ・ジ・エンド、アユニ・D、ヤママチミキ、ユメノユア                    |    |
+| 期間                     | 成員                                                        | 備註 |
+| ---------------------- | --------------------------------------------------------- | -- |
+| 2017年10月2日 - 2018年3月3日 | ▼プー・ルイ、カミヤサキ、アイナ・ジ・エンド、アユニ・D、アヤ・エイトプリンス、ヤママチミキ、ユメノユア      |    |
+| 2018年8月 日 - 2019年2月6日  | カミヤサキ、アイナ・ジ・エンド、アユニ・D、アヤ・エイトプリンス、ヤママチミキ、ユメノユア、▲ゴ・ジーラ      |    |
+| 2019年2月6日 - 2019年5月11日 | カミヤサキ、アイナ・ジ・エンド、アユニ・D、▼アヤ・エイトプリンス、ヤママチミキ、ユメノユア、▼ゴ・ジーラ     |    |
+| 2019年5月12日 - 2019年8月3日 | カミヤサキ、アイナ・ジ・エンド、アユニ・D、ヤママチミキ、ユメノユア                        |    |
+| 2019年8月4日 -            | カミヤサキ、アイナ・ジ・エンド、アユニ・D、ヤママチミキ、ユメノユア、▲パン・ルナリーフィ、▲NOW EMPiRE |    |
 
 ## 作品
 

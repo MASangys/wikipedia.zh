@@ -14,7 +14,7 @@
   - [Green Line B Branch Consolidation](https://www.mbta.com/projects/green-line-b-branch-consolidation)
   - [Station from Google Maps Street View](https://www.google.com/maps/@42.3511198,-71.1158036,3a,90y,278.86h,94.9t/data=!3m6!1e1!3m4!1sXbyKyf3LNu6RJ8JrTDFsjQ!2e0!7i13312!8i6656)
 
-[Category:波士顿轻轨绿线车站](https://zh.wikipedia.org/wiki/Category:波士顿轻轨绿线车站 "wikilink") [Category:波士顿地铁车站](https://zh.wikipedia.org/wiki/Category:波士顿地铁车站 "wikilink")
+[Category:波士顿轻轨绿线车站](https://zh.wikipedia.org/wiki/Category:波士顿轻轨绿线车站 "wikilink")
 
 1.
 2.

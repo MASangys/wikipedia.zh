@@ -1,6 +1,6 @@
 **NOW VERIVERY**（韓語：**지금부터 베리베리 해**），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink") [Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")旗下[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink") [VERIVERY](../Page/VERIVERY.md "wikilink") 的出道實境秀。
 
-自2018年9月21日開始至2018年11月9日共八集，韓國時間每週五下午6:30於[Mnet播出](https://zh.wikipedia.org/wiki/Mnet "wikilink")。
+自2018年9月21日開始至2018年11月9日共八集，韓國時間每週五下午6:30於[Mnet](../Page/Mnet.md "wikilink")播出。
 
 ## 節目集數
 

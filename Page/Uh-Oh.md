@@ -248,7 +248,8 @@
 <td><p>—</p></td>
 <td><p><ref>下載量排名《Uh-Oh》</p>
 <ul>
-<li></li>
+<li><a href="http://www.gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&amp;serviceGbn=S1020&amp;targetTime=06&amp;hitYear=2019&amp;termGbn=month">2019年GAON6月Download Chart109位</a></li>
+<li><a href="http://www.gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&amp;serviceGbn=S1020&amp;targetTime=07&amp;hitYear=2019&amp;termGbn=month">2019年GAON7月Download Chart43位</a></li>
 </ul>
 <p></ref></p></td>
 </tr>

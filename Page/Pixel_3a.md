@@ -4,7 +4,7 @@
 
 ### 设计
 
-Pixel 3a及Pixel 3a XL各有三种颜色的版本：全黑、纯白（电源按钮为橙色）和淡紫（电源按钮为黄色）。两款机型外观均与Pixel 3相像。由于Pixel 3 XL的[浏海设计备受批评](https://zh.wikipedia.org/wiki/浏海 "wikilink")，Pixel 3a系列并无浏海设计。两款机型的背部材质均为[聚碳酸酯](../Page/聚碳酸酯.md "wikilink")，屏幕玻璃并非其他大多数智能手机所使用的[康寧](../Page/康寧公司.md "wikilink")[大猩猩玻璃](../Page/大猩猩玻璃.md "wikilink")，而是[旭硝子](../Page/旭硝子.md "wikilink")生产的Dragontrail。\[3\]
+Pixel 3a及Pixel 3a XL各有三种颜色的版本：全黑、纯白（电源按钮为橙色）和淡紫（电源按钮为黄色）。两款机型外观均与Pixel 3相像。由于Pixel 3 XL的浏海设计备受批评，Pixel 3a系列并无浏海设计。两款机型的背部材质均为[聚碳酸酯](../Page/聚碳酸酯.md "wikilink")，屏幕玻璃并非其他大多数智能手机所使用的[康寧](../Page/康寧公司.md "wikilink")[大猩猩玻璃](../Page/大猩猩玻璃.md "wikilink")，而是[旭硝子](../Page/旭硝子.md "wikilink")生产的Dragontrail。\[3\]
 
 ### 硬件
 

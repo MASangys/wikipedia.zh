@@ -1,4 +1,4 @@
-**共和國之家**（[加泰隆尼亞語](https://zh.wikipedia.org/wiki/加泰隆尼亞語 "wikilink")：Casa de la República，），是[2017－2018年西班牙憲政危機](../Page/2017－2018年西班牙憲政危機.md "wikilink")後[加泰羅尼亞共和國流亡](https://zh.wikipedia.org/wiki/加泰羅尼亞共和國_\(2017年\) "wikilink")的居所，及[流亡政府](../Page/流亡政府.md "wikilink")[共和國委員會](../Page/共和國委員會.md "wikilink")所在地。地址為比利時瓦隆-布拉班特省滑鐵盧律師大道40號\[1\]。
+**共和國之家**（[加泰隆尼亞語](https://zh.wikipedia.org/wiki/加泰隆尼亞語 "wikilink")：Casa de la República，），全稱是**加泰羅尼亞共和國之家**（[加泰隆尼亞語](https://zh.wikipedia.org/wiki/加泰隆尼亞語 "wikilink")：Casa de la República Catalana，），為[2017－2018年西班牙憲政危機](../Page/2017－2018年西班牙憲政危機.md "wikilink")後[加泰羅尼亞共和國流亡](https://zh.wikipedia.org/wiki/加泰羅尼亞共和國_\(2017年\) "wikilink")的居所，及[流亡政府](../Page/流亡政府.md "wikilink")[共和國委員會](../Page/共和國委員會.md "wikilink")所在地。地址為比利時瓦隆-布拉班特省滑鐵盧律師大道40號\[1\]。
 
 此建築物平日一般會懸掛[加泰羅尼亞共和國國旗及](../Page/令旗_\(旗幟\).md "wikilink")[歐洲旗](../Page/歐洲旗.md "wikilink")。
 
@@ -7,6 +7,10 @@ La **Casa de la República** és la seu del [Consell per la República](../Page/
 En aquest edifici de dues plantes, a quatre vents, hi ha a la planta baixa diferents estances habilitades per facilitar les trobades del M.H.P. i del mateix executiu del Consell per la República amb personalitats, entitats i ciutadans de Catalunya, Europa o el Món.\[3\]
 
 Així mateix, l'espai no edificat davant la Casa de la República ha estat aprofitat per esdeveniments de caràcter mediàtic \[4\] i fotografies col·lectives. A Waterloo l'oficina de turisme \[5\] constata setmanalment entre 15 i 25 peticions d'informació per trobar la Casa de la República, car aquesta ha esdevingut un reclam turístic important.
+
+## 被普伊格德蒙特政府成員租賃
+
+## 象徵意義
 
 ## 圖集
 

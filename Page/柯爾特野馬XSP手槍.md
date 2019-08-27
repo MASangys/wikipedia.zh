@@ -55,7 +55,7 @@
 
   - —[Personal Defense World.com—Gun Review: Colt Mustang XSP – A Lightweight Defender](https://www.personaldefenseworld.com/2014/10/gun-review-colt-mustang-xsp-lightweight-defender/)
 
-[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:美國半自動手槍](https://zh.wikipedia.org/wiki/Category:美國半自動手槍 "wikilink") [Category:.380_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.380_ACP口徑槍械 "wikilink")
+[Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink") [Category:美國半自動手槍](https://zh.wikipedia.org/wiki/Category:美國半自動手槍 "wikilink") [Category:.380_ACP口徑槍械](https://zh.wikipedia.org/wiki/Category:.380_ACP口徑槍械 "wikilink") [Category:M1911衍生型](https://zh.wikipedia.org/wiki/Category:M1911衍生型 "wikilink")
 
 1.  [Gunblast.com—The Return of the Colt Mustang PocketLite 380 Semi-Auto Pocket Pistol](http://www.gunblast.com/Colt-MustangPocketLite.htm)
 2.  [Catalog](http://www.colt.com/Catalog/Pistols/380Mustang%C2%AE.aspx)

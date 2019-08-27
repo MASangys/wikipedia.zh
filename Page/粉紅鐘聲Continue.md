@@ -111,8 +111,8 @@
 
 ## 外部連結
 
-  - [ぱすてるチャイムContinue官方網站](http://www.alicesoft.com/pastel2/index.html)（IP鎖區）
-  - [ぱすてるチャイムC++官方網站](https://web.archive.org/web/20090221080052/http://www.alicesoft.com/pastelccplus/index.html)（IP鎖區）
+  - [ぱすてるチャイムContinue官方網站](http://www.alicesoft.com/pastel2/index.html)
+  - [ぱすてるチャイムC++官方網站](http://www.alicesoft.com/pastelccplus/index.html)
   - [PSP版官方網站](http://5pb.jp/games/pascha/)
 
 [Category:2005年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2005年日本成人遊戲 "wikilink") [Category:2010年電子遊戲](https://zh.wikipedia.org/wiki/Category:2010年電子遊戲 "wikilink") [Category:美少女遊戲](https://zh.wikipedia.org/wiki/Category:美少女遊戲 "wikilink") [Category:角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:角色扮演遊戲 "wikilink") [Category:Windows遊戲](https://zh.wikipedia.org/wiki/Category:Windows遊戲 "wikilink") [Category:PlayStation_Portable遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_Portable遊戲 "wikilink") [Category:奇幻電子遊戲](https://zh.wikipedia.org/wiki/Category:奇幻電子遊戲 "wikilink") [Category:學校背景遊戲](https://zh.wikipedia.org/wiki/Category:學校背景遊戲 "wikilink")

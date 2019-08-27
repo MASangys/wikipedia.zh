@@ -340,43 +340,43 @@
 | 韩胜宇                                                         |
 |                                                             |
 
-| **等級評價未播出部分**                                                                                   |
-| ----------------------------------------------------------------------------------------------- |
-| 經紀公司/所属组合                                                                                       |
-| A story                                                                                         |
-| 許真浩                                                                                             |
-| [C9娛樂](../Page/C9娱乐.md "wikilink")                                                              |
-| 琴東賢                                                                                             |
-| DS                                                                                              |
-| ENFANT TERRIBLE                                                                                 |
-| [Fantagio](../Page/Fantagio.md "wikilink")                                                      |
-| Gost Agency                                                                                     |
-| 李常顥                                                                                             |
-| [Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink")                                              |
-| iMe KOREA                                                                                       |
-| [JYP娛樂](../Page/JYP娛樂.md "wikilink")                                                            |
-| Kiwi Media Group                                                                                |
-| 林多勳                                                                                             |
-| 金亨敏                                                                                             |
-| Krazy娛樂                                                                                         |
-| Million Market                                                                                  |
-| NEST娛樂                                                                                          |
-| 吳峯                                                                                              |
-| SF                                                                                              |
-| [Stone Music Entertainment](https://zh.wikipedia.org/wiki/Stone_Music_Entertainment "wikilink") |
-| [THE SOUTH](https://zh.wikipedia.org/wiki/THE_SOUTH "wikilink")                                 |
-| Thinkabout娛樂                                                                                    |
-| Urban Works                                                                                     |
-| 邊成泰                                                                                             |
-| 金東逵                                                                                             |
-| 金珉諝                                                                                             |
-| Vine娛樂                                                                                          |
-| [WM娛樂](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")                                           |
-| WUZO娛樂                                                                                          |
-| 個人練習生                                                                                           |
-| 朴真烈                                                                                             |
-| 李協                                                                                              |
-| 金成淵                                                                                             |
+| **等級評價未播出部分**                                                                |
+| ---------------------------------------------------------------------------- |
+| 經紀公司/所属组合                                                                    |
+| A story                                                                      |
+| 許真浩                                                                          |
+| [C9娛樂](../Page/C9娱乐.md "wikilink")                                           |
+| 琴東賢                                                                          |
+| DS                                                                           |
+| ENFANT TERRIBLE                                                              |
+| [Fantagio](../Page/Fantagio.md "wikilink")                                   |
+| Gost Agency                                                                  |
+| 李常顥                                                                          |
+| [Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink")                           |
+| iMe KOREA                                                                    |
+| [JYP娛樂](../Page/JYP娛樂.md "wikilink")                                         |
+| Kiwi Media Group                                                             |
+| 林多勳                                                                          |
+| 金亨敏                                                                          |
+| Krazy娛樂                                                                      |
+| Million Market                                                               |
+| NEST娛樂                                                                       |
+| 吳峯                                                                           |
+| SF                                                                           |
+| [Stone Music Entertainment](../Page/Stone_Music_Entertainment.md "wikilink") |
+| [THE SOUTH](https://zh.wikipedia.org/wiki/THE_SOUTH "wikilink")              |
+| Thinkabout娛樂                                                                 |
+| Urban Works                                                                  |
+| 邊成泰                                                                          |
+| 金東逵                                                                          |
+| 金珉諝                                                                          |
+| Vine娛樂                                                                       |
+| [WM娛樂](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")                        |
+| WUZO娛樂                                                                       |
+| 個人練習生                                                                        |
+| 朴真烈                                                                          |
+| 李協                                                                           |
+| 金成淵                                                                          |
 
 | 第二集排名                 |
 | --------------------- |
@@ -541,7 +541,7 @@
 <td><p>李洗賑</p></td>
 </tr>
 <tr class="odd">
-<td><p>金宇碩（C）</p></td>
+<td><p>金宇碩(C）</p></td>
 </tr>
 <tr class="even">
 <td><p>琴東賢</p></td>
@@ -2129,7 +2129,7 @@ Poptime</p></td>
 | 金東玧                                                 |
 | 李協                                                  |
 | [朴宣浩](../Page/朴宣浩.md "wikilink")                    |
-| 姜賢秀                                                 |
+| [姜賢秀](https://zh.wikipedia.org/wiki/姜賢秀 "wikilink") |
 | [金施勲](https://zh.wikipedia.org/wiki/金施勲 "wikilink") |
 | 崔壽桓                                                 |
 | 周昌煜                                                 |
@@ -2273,29 +2273,14 @@ Poptime</p></td>
   - 尹书彬：因未成年喝酒抽烟，而被JYP开除以及退赛。\[7\]\[8\]\[9\]
   - 崔秉燦：因健康問題（慢性[阿基里斯腱炎](../Page/跟腱.md "wikilink")）而退出。\[10\]
 
-## 後續消息
+## 後續發展
 
-<small>**主要是記錄本季練習生在節目結束后的情況，包含轉投新公司、出道等。**</small>
-
-<table>
-<thead>
-<tr class="header">
-<th><p>日期</p></th>
-<th><p>練習生</p></th>
-<th><p>事項</p></th>
-<th><p>備註</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2019年7月29日</p></td>
-<td><p>李協</p></td>
-<td><p>正式加入Woollim娛樂成為練習生</p></td>
-<td><p>個人練習生9位→<strong>8位</strong><br />
-Woollim娛樂6位→<strong>7位</strong></p></td>
-</tr>
-</tbody>
-</table>
+| 日期         | 練習生 | 事項                   | 來源    | 備註               |
+| ---------- | --- | -------------------- | ----- | ---------------- |
+| 2019年6月21日 | 鄭榮彬 | 加入DS練習               | 經官方宣佈 | DS練習生增至2位        |
+| 2019年7月29日 | 李協  | 加入Woollim娛樂練習        | 經官方宣佈 | Woollim娛樂練習生增至7位 |
+| 2019年8月7日  | 文俊號 | 離開Woollim娛樂，開設個人社交賬號 | 經粉絲確認 | 個人練習生增至8位        |
+| 2019年8月20日 | 姜碩華 | 加入OUI練習              | 經官方宣佈 | OUI練習生增至2位       |
 
 ## 其他演出
 
@@ -2316,7 +2301,7 @@ Woollim娛樂6位→<strong>7位</strong></p></td>
 <td><p>1</p></td>
 <td><p>2019年3月21日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p>不要_ (_지마 / X1-MA)[11]</p></td>
+<td><p>不要_ (_지마 / X1-MA)</p></td>
 <td><p>全員</p></td>
 </tr>
 <tr class="even">
@@ -2324,26 +2309,51 @@ Woollim娛樂6位→<strong>7位</strong></p></td>
 <td><p>2019年5月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>不要_ (_지마 / X1-MA)</p></td>
-<td><p>全A等级练习生</p></td>
+<td><p>孫東杓、姜賢秀、崔秉燦、韓勝宇、崔壽桓、<br />
+金國憲、宋有彬、金施勲、金宇碩、李鎭赫、<br />
+李埈赫、朴潤率、文賢彬、咸元真、金炫彬</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>2019年6月6日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>No More Dream</p></td>
-<td><p>P.T.S</p></td>
+<td><p>金炫彬、洪成鉉、史蒂芬·金、元鉉植、金成淵、李常顥</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2019年7月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p>Super Special Girl<br />
-Pretty Girl<br />
-Monday to Sunday<br />
-U GOT IT<br />
-MOVE</p></td>
-<td><p>全概念評價练习生<br />
-(除MOVE组崔秉燦)</p></td>
+<td><p>Super Special Girl</p></td>
+<td><p>金施勲、朴宣浩、宋有彬、姜賢秀、崔壽桓、琴東賢</p></td>
+</tr>
+<tr class="odd">
+<td><p>Pretty Girl</p></td>
+<td><p>孫東杓、咸元真、姜敏熙、具正模、宋亨俊、李津宇</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Monday to Sunday</p></td>
+<td><p>余景天、李洗賑、李協、金旻奎、金東玧、南到賢、周昌煜</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>U GOT IT</p></td>
+<td><p>金宇碩、黃允省、韓勝宇、車俊昊、金曜漢、李垠尚</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>MOVE</p></td>
+<td><p>曹承衍、金炫彬、李鎭赫、金國憲、李翰潔</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -2471,4 +2481,3 @@ MOVE</p></td>
 8.  [尹書彬被JYP解約 《PRODUCE X 101》將刪出鏡片段](https://www.msn.com/zh-hk/entertainment/news/%E5%B0%B9%E6%9B%B8%E5%BD%AC%E8%A2%ABjyp%E8%A7%A3%E7%B4%84-%E3%80%8Aproduce-x-101%E3%80%8B%E5%B0%87%E5%88%AA%E5%87%BA%E9%8F%A1%E7%89%87%E6%AE%B5/ar-AAB4lpV)
 9.  [前JYP練習生尹書彬 解約後正物色新公司](https://hk.celebrity.yahoo.com/%E5%89%8Djyp%E7%B7%B4%E7%BF%92%E7%94%9F%E5%B0%B9%E6%9B%B8%E5%BD%AC-%E8%A7%A3%E7%B4%84%E5%BE%8C%E6%AD%A3%E7%89%A9%E8%89%B2%E6%96%B0%E5%85%AC%E5%8F%B8-085633305.html)
 10. [遺憾！VICTON 崔秉燦因健康問題退出《Produce X 101》](https://www.koreastardaily.com/tc/news/118293)
-11.

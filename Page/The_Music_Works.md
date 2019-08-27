@@ -12,18 +12,15 @@
   -
 ### 組合
 
-  - ：、
+  - （ & ）
 
-  - [MYTEEN](../Page/MYTEEN.md "wikilink")：恩洙、天真、[國憲](../Page/金國憲.md "wikilink")、準燮、、漢瑟
-
-### 演員
-
-  - [李泰彬](../Page/MYTEEN.md "wikilink")\[2\]
+  - [國憲](../Page/金國憲.md "wikilink") &
 
 ## 離開藝人
 
   - [白智榮](../Page/白智榮.md "wikilink")（2014年至2019年）
   - [金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")（2015年至2019年）
+  - [MYTEEN](../Page/MYTEEN.md "wikilink")：泰彬、恩洙、天真、準燮、漢瑟（2017年至2019年）\[2\]\[3\]
 
 ## 參考文獻
 
@@ -45,3 +42,4 @@
 
 1.
 2.
+3.

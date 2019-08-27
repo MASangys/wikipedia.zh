@@ -47,24 +47,24 @@ Pol III的起始分为三类，分别对应于5S rRNA、tRNA和U6 snRNA的起始
 
 ### 终止
 
-聚合酶三在小polyTs结构域（5-6）（small polyTs stretch (5-6)）处终止转录。
+RNA聚合酶III在小polyTs结构域（5-6）（small polyTs stretch (5-6)）处终止转录。RNA聚合酶III的终止与细菌的内源性终止极为相似。有研究表明，多个胸腺嘧啶的终止信号引起RNA聚合酶III的失活，从而使延伸终止并将酶转运至最近的RNA二级结构，进而促进酶的释放\[4\]。
 
 ## 由RNA聚合酶III转录的RNA
 
 从RNA聚合酶III转录的RNA包括：
 
-  - [tRNA](../Page/转运核糖核酸.md "wikilink") \[4\]
-  - [5S核糖体RNA](../Page/5S_核糖体RNA.md "wikilink") \[5\]
-  - U6剪接体RNA \[6\]
-  - [RNase P和RNase](../Page/核糖核酸酶P.md "wikilink") MRP RNA \[7\]
-  - 7SL RNA （ [信号识别粒子的RNA组分](../Page/信号识别颗粒.md "wikilink")） \[8\]
-  - [Vault RNAs](../Page/穹窿体RNA.md "wikilink") \[9\]
-  - [Y RNA](../Page/Y_RNA.md "wikilink") \[10\]
-  - [SINE](../Page/反转录转座子.md "wikilink") （短散布的重复元素） \[11\]
-  - 7SK RNA \[12\]
-  - 部分[microRNAs](../Page/小分子核糖核酸.md "wikilink") \[13\]
-  - 部分[小核仁RNA](https://zh.wikipedia.org/wiki/核仁小核糖核酸 "wikilink") \[14\]
-  - 部分调控[反义RNA的基因](../Page/反義RNA.md "wikilink") \[15\]
+  - [tRNA](../Page/转运核糖核酸.md "wikilink") \[5\]
+  - [5S核糖体RNA](../Page/5S_核糖体RNA.md "wikilink") \[6\]
+  - U6剪接体RNA \[7\]
+  - [RNase P和RNase](../Page/核糖核酸酶P.md "wikilink") MRP RNA \[8\]
+  - 7SL RNA （ [信号识别粒子的RNA组分](../Page/信号识别颗粒.md "wikilink")） \[9\]
+  - [Vault RNAs](../Page/穹窿体RNA.md "wikilink") \[10\]
+  - [Y RNA](../Page/Y_RNA.md "wikilink") \[11\]
+  - [SINE](../Page/反转录转座子.md "wikilink") （短散布的重复元素） \[12\]
+  - 7SK RNA \[13\]
+  - 部分[microRNAs](../Page/小分子核糖核酸.md "wikilink") \[14\]
+  - 部分[小核仁RNA](https://zh.wikipedia.org/wiki/核仁小核糖核酸 "wikilink") \[15\]
+  - 部分调控[反义RNA的基因](../Page/反義RNA.md "wikilink") \[16\]
 
 ## 参见
 
@@ -83,6 +83,7 @@ Pol III的起始分为三类，分别对应于5S rRNA、tRNA和U6 snRNA的起始
 4.
 
 5.
+
 6.
 7.
 8.
@@ -93,3 +94,4 @@ Pol III的起始分为三类，分别对应于5S rRNA、tRNA和U6 snRNA的起始
 13.
 14.
 15.
+16.

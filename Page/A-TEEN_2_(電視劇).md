@@ -43,7 +43,7 @@
 | -------------------------------------------------------------------------------------------------------------------------- | ------ |
 | **演員**                                                                                                                     | **角色** |
 | [辛睿恩](../Page/辛睿恩.md "wikilink")                                                                                           | 都荷娜    |
-| [申承浩](https://zh.wikipedia.org/wiki/申承浩 "wikilink")                                                                        | 南時宇    |
+| [申承浩](../Page/申承浩.md "wikilink")                                                                                           | 南時宇    |
 | [Joshua](https://zh.wikipedia.org/wiki/Joshua "wikilink")（[SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")） | 柳周河朋友  |
 | [金玟周](../Page/金玟周.md "wikilink")（[IZ\*ONE](../Page/IZ*ONE.md "wikilink")）                                                  | 餐飲店店員  |
 | [鉉辰](../Page/鉉辰.md "wikilink")（[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")）                          | 車雅嫻朋友  |

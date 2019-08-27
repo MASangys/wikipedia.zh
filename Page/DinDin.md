@@ -4,7 +4,7 @@
 
   - 《[Show Me The Money](../Page/Show_Me_The_Money.md "wikilink")2》（2013，Mnet）
   - 《Catch Music If You Can》（2015，MBC Music）
-  - 《[真的漢子](../Page/真的漢子.md "wikilink")》（2015，MBC）
+  - 《[真正的男人](../Page/真正的男人.md "wikilink")》（2015，MBC）
   - 《我的资金合作伙伴：隔壁的CEO們》（2015，MBC）
   - 《One Night Food Trip》（2016，OLIVE）
   - 《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")3》（2016，Mnet）
@@ -16,7 +16,7 @@
   - 《》（2016，TV朝鮮）
   - 《JukeBus》（2016，sky Drama）
   - 《[把便利店掏空吧](../Page/把便利店掏空吧.md "wikilink")》（2017，tvN）
-  - 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》（2016，2017 MBC）（参賽者）
+  - 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》（2016，2017 MBC）（参賽者） \[1\]
   - 《[My Little Television](../Page/My_Little_Television.md "wikilink")》（2017，MBC）
   - 《[隐秘而伟大](../Page/隐秘而伟大_\(综艺节目\).md "wikilink")》（2017，MBC）
   - 《[Fantastic Duo 2](../Page/Fantastic_Duo.md "wikilink")》（2017，SBS）
@@ -31,11 +31,13 @@
   - 《出現差異的課堂》（2017，JTBC）
   - 《[TV动物农场](../Page/TV動物農場.md "wikilink")》（2018，SBS）
   - 《[Video Star](../Page/Video_Star.md "wikilink")》（2018，MBC every1）7月10日
-  - 《[Dunia](https://zh.wikipedia.org/wiki/Dunia "wikilink")》（2018，MBC）
+  - 《[Dunia](https://zh.wikipedia.org/wiki/Dunia "wikilink")》（2018，MBC） \[2\]
   - 《[自討苦吃](../Page/自討苦吃.md "wikilink")2》（2018，JTBC2）
   - 《[看見你的声音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")6》（2019，Mnet）
   - 《[為什麼來我家](../Page/為什麼來我家_\(韓國綜藝\).md "wikilink") 》（2019，Channel A）
   - 《[玩什麼好呢](../Page/玩什麼好呢.md "wikilink") 》（2019，MBC）
+  - 《[The Call](../Page/The_Call.md "wikilink") 》第二季（2019，Mnet，tvN）
+  - 《[不是你所認識的我V2](https://zh.wikipedia.org/wiki/不是你所認識的我V2 "wikilink")》 （2019，Mnet）
 
 ## 電視剧
 
@@ -90,7 +92,7 @@
   - “[Lady Jane](../Page/Lady_Jane.md "wikilink") - Farewell Warning”（2016）
   - “[朴明洙](../Page/朴明洙.md "wikilink") - [無限挑戰 偉大的遺產](https://zh.wikipedia.org/wiki/無限挑戰_偉大的遺產 "wikilink")”（2017）
 
-## 注脚
+## 參考資料
 
 ## 外部連結
 
@@ -98,3 +100,6 @@
   -
   -
 [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:1991年出生](https://zh.wikipedia.org/wiki/Category:1991年出生 "wikilink")
+
+1.
+2.

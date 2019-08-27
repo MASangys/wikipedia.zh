@@ -130,8 +130,54 @@
 | [李漢偉](../Page/李漢偉.md "wikilink") | 趙春奧    | 民錫經紀人公司的代表。   |
 | [延敏智](../Page/延敏智.md "wikilink") | 宋珉熙    | 泰俊的公司部下兼情婦。   |
 | 趙惠元                              | 趙秀妍    | 珍京的朋友、民錫的私生飯。 |
-| [韓尚進](../Page/韓尚進.md "wikilink") |        | 韓智娜前夫。        |
 |                                  |        |               |
+
+### 特別出演
+
+<table style="width:56%;">
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 35%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>宋靜雅</p></td>
+<td><p>頂級模特兒。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/張光孝" title="wikilink">張光孝</a>（）</p></td>
+<td><p>張光孝</p></td>
+<td><p>設計師。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>李賢伊</p></td>
+<td><p>頂級模特兒。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/張允柱.md" title="wikilink">張允柱</a></p></td>
+<td><p>張允柱</p></td>
+<td><p>頂級模特兒。</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/韓尚進.md" title="wikilink">韓尚進</a></p></td>
+<td></td>
+<td><p>韓智娜前夫。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 原聲帶
 

@@ -1,4 +1,4 @@
-**賈西·德韦恩·里卡多·昂弗莱**（英文：Jahseh Dwayne Ricardo Onfroy，），藝名**XXXTentacion**（\[1\]，通常被簡稱為**X**），[美国](../Page/美国.md "wikilink")[饒舌](../Page/饒舌.md "wikilink")歌手和[詞曲作家](../Page/詞曲作家.md "wikilink")。昂弗莱是嘻哈行業裡其中一位備受爭議的人物，他因其對年輕粉絲群的影響以及他在短暫職業生涯中的受歡迎程度而被認為留下了“巨大的音樂足跡”\[2\]。昂弗莱出生於[佛羅里達州](../Page/佛罗里达州.md "wikilink")[種植園](../Page/种植园_\(佛罗里达州\).md "wikilink")，大部分時間都在[劳德希尔](../Page/劳德希尔.md "wikilink")度過。他從青少年拘留中心獲釋後開始创作音樂\[3\]，並於2013年6月在[SoundCloud](../Page/SoundCloud.md "wikilink")上發布了他的第一首歌曲\[4\]“News/Flock”，不久后成为了SoundCloud说唱—— 一種採用低保真音樂和粗糙、刺耳的808鼓机曲風元素的[陷阱音樂](../Page/陷阱音樂.md "wikilink") —— 的圈子中的一個受歡迎的人物\[5\]\[6\]\[7\] 。
+**賈西·德韦恩·里卡多·昂弗莱**（英文：Jahseh Dwayne Ricardo Onfroy，），藝名**XXXTentacion**（\[1\]，通常被簡稱為**X**），[美国](../Page/美国.md "wikilink")[饒舌](../Page/饒舌.md "wikilink")歌手和[詞曲作家](../Page/詞曲作家.md "wikilink")。昂弗莱是嘻哈行業裡其中一位備受爭議的人物，他因其對年輕粉絲群的影響以及他在短暫職業生涯中的受歡迎程度而被認為留下了“巨大的音樂足跡”\[2\]。昂弗莱出生於[佛羅里達州](../Page/佛罗里达州.md "wikilink")[種植園](../Page/种植园_\(佛罗里达州\).md "wikilink")，大部分時間都在[劳德希尔](../Page/劳德希尔.md "wikilink")度過。他從青少年拘留中心獲釋後開始创作音樂\[3\]，並於2013年6月在[SoundCloud](../Page/SoundCloud.md "wikilink")上發布了他的第一首歌曲\[4\]“News/Flock”，不久后成为了SoundCloud说唱的圈子中的一個受歡迎的人物\[5\]\[6\]\[7\] 。
 
 隨著他的歌曲“Look At Me\!”的發行，昂弗莱聲名鵲起\[8\]。他於2017年8月25日發布了他的首張專輯《17》。這張專輯在美國[Billboard二百强专辑榜上排名第二](../Page/公告牌二百强专辑榜.md "wikilink")，首周銷售了86000張。这张专辑得到了评论家们的正面回应，其中一些人赞扬了这张专辑的个人叙事和多元化的音乐风格。該專輯於2018年8月15日獲得[美國唱片業協會](../Page/美國唱片業協會.md "wikilink")（RIAA）的白金認證。昂弗莱的第二張專輯《》於2018年3月16日發行。它在[Billboard二百强专辑榜上排名第一](../Page/公告牌二百强专辑榜.md "wikilink")，其單曲“SAD\!”、“changes”和“Moonlight”都進入了[Billboard百强单曲榜的前](../Page/告示牌百强单曲榜.md "wikilink")20名。該專輯同樣於2018年8月7日由美國唱片業協會（RIAA）認證為“白金唱片”。
 
@@ -12,7 +12,7 @@
 
 ## 死亡
 
-[XXXTentacion_Memorial_1.png](https://zh.wikipedia.org/wiki/File:XXXTentacion_Memorial_1.png "fig:XXXTentacion_Memorial_1.png") 2018年6月18日，昂弗莱離開位於[佛罗里达州](../Page/佛罗里达州.md "wikilink")[迪尔菲尔德比奇](../Page/迪尔菲尔德比奇.md "wikilink")的Riva Motorsports摩托車經銷店，大約下午3點55分，昂弗莱被一輛黑色SUV擋出停車場.\[23\]。當其中兩名持槍兇徒坐在駕駛座上時，另外兩名持槍兇徒離開了SUV並接近昂弗莱，發生了短暫的扭打。其中一名持槍兇徒進入昂弗莱的車內偷了一個小路易威登包，並多次射擊昂弗莱。槍手們其後立刻登上他們的黑色SUV中逃離現場，昂弗莱被醫護人員運送到迪尔菲尔德比奇附近的布勞沃德健康醫院北院（Broward Health North），並在那裡被宣布死亡\[24\]。而[布劳沃德县警察辦公室於下午](https://zh.wikipedia.org/wiki/布劳沃德县 "wikilink")5:30左右正式宣布昂弗莱的死亡\[25\]\[26\]。
+[XXXTentacion_Memorial_1.png](https://zh.wikipedia.org/wiki/File:XXXTentacion_Memorial_1.png "fig:XXXTentacion_Memorial_1.png") 2018年6月18日，昂弗莱離開位於[佛罗里达州](../Page/佛罗里达州.md "wikilink")[迪尔菲尔德比奇](../Page/迪尔菲尔德比奇.md "wikilink")的Riva Motorsports摩托車經銷店，大約下午3點55分，昂弗莱上車準備離開時，遭一輛黑色SUV攔在車前。\[23\]其中兩名持槍兇徒坐在駕駛座上，另外兩名持槍兇徒離開了SUV並接近昂弗莱，發生了短暫的扭打。其中一名持槍兇徒進入昂弗莱的車內偷了一個小路易威登包，並多次射擊昂弗莱。槍手們其後立刻登上他們的黑色SUV中逃離現場，昂弗莱被醫護人員運送到迪尔菲尔德比奇附近的布勞沃德健康醫院北院（Broward Health North），並在那裡被宣布死亡\[24\]。而[布劳沃德县警察辦公室於下午](https://zh.wikipedia.org/wiki/布劳沃德县 "wikilink")5:30左右正式宣布昂弗莱的死亡\[25\]\[26\]。
 
 犯案嫌疑​​人戴德里克·德文谢·威廉斯（Dedrick Devonshay Williams）在槍擊案發生两天後的晚上7點之前被捕\[27\]。在布勞沃德縣監獄裡，他被指控犯有沒有預謀的一級謀殺罪。在幾週內，其餘三名槍手亦相繼被捕，其中包括槍殺昂弗莱的麥可·博特赖特（Michael Boatwright）\[28\]。
 

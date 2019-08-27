@@ -87,7 +87,7 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td><p><a href="../Page/呂士軒.md" title="wikilink">呂士軒</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a>｜<a href="../Page/吳卓源.md" title="wikilink">吳卓源</a>｜<a href="../Page/熊仔.md" title="wikilink">熊仔</a>｜<br />
 B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a></p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/米奇林" title="wikilink">米奇林</a>，<a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a></p></td>
 <td><p><a href="../Page/中華音樂人交流協會.md" title="wikilink">中華音樂人交流協會</a><br />
 2017年度十大單曲之一</p></td>
 </tr>
@@ -96,11 +96,20 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td><p>曖</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a>｜<a href="https://zh.wikipedia.org/wiki/米奇林" title="wikilink">米奇林</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
-<td><p>米奇林</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/米奇林" title="wikilink">米奇林</a></p></td>
 <td><p>李欣芸</p></td>
 <td><p>收錄於 <a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a> 的第四張個人專輯 <a href="../Page/希遊記.md" title="wikilink">希遊記</a> 之中</p></td>
 </tr>
 <tr class="odd">
+<td><p>2018年</p></td>
+<td><p>枷鎖</p></td>
+<td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
+<td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a>｜<a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/翻牆的記憶.md" title="wikilink">翻牆的記憶</a> 插曲</p></td>
+</tr>
+<tr class="even">
 <td><p>2019年4月</p></td>
 <td><p>No Joke</p></td>
 <td><p><a href="../Page/羅志祥.md" title="wikilink">羅志祥</a>｜<a href="https://zh.wikipedia.org/wiki/Tipsy_Kao" title="wikilink">Tipsy Kao</a></p></td>
@@ -109,12 +118,12 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 <td><p>陳星翰</p></td>
 <td><p>收錄於 <a href="../Page/羅志祥.md" title="wikilink">羅志祥</a> 的第十二張個人專輯 <a href="../Page/No_Idea.md" title="wikilink">No Idea</a> 之中</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年7月</p></td>
 <td><p>House party 好事派對</p></td>
 <td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
 <td><p><a href="../Page/ØZI.md" title="wikilink">ØZI</a></p></td>
-<td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a></p></td>
+<td><p><a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a>,<a href="https://zh.wikipedia.org/wiki/米奇林" title="wikilink">米奇林</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -196,24 +205,24 @@ B.C.W｜Barry｜<a href="../Page/大支.md" title="wikilink">大支</a></p></td>
 
 ### MV
 
-| 首播日期        | 歌名                                         | 歌手/備註                                                                                   |
-| ----------- | ------------------------------------------ | --------------------------------------------------------------------------------------- |
-| 2015年6月21日  | HARD TO GET (Explicit)                     | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2016年2月15日  | NO MIND (Explicit)                         | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2016年4月18日  | LOVE YOU RIGHT                             | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2017年1月16日  | LIQUID FLOWS 醉慾の流動 (ft. DEE)               | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2017年4月5日   | 頭銜                                         | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2017年7月24日  | ME INSTEAD 奪愛 \[LYRICAL VISUAL\]           | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2017年9月28日  | WINGS 翅膀 (ØZI at RedBull Studios Tokyo)    | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2017年10月24日 | PARADISE ISLAND 天堂島                        | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2017年11月14日 | 走到飛                                        | [ØZI](../Page/ØZI.md "wikilink"). Trout Fresh. Julia Wu. Kumachan. B.C.W. Barry. Dwagie |
-| 2018年6月1日   | INTRO: OZYMANDIAS 奧西曼德斯 \[ØZI: The Album\] | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2018年6月11日  | DIAMOND 鑽石                                 | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2018年7月5日   | B.O.feat. 9m88                             | ØZI feat. 9m88                                                                          |
-| 2018年8月2日   | WE OUT HERE                                | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-| 2018年10月19日 | W.I.L.D.                                   | ØZI x The North Face: Urban Exploration                                                 |
-| 2018年12月29日 | PREY 掠食                                    | [ØZI](../Page/ØZI.md "wikilink")                                                        |
-|             |                                            |                                                                                         |
+| 首播日期        | 歌名                                                              | 歌手/備註                                                                                   |
+| ----------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| 2015年6月21日  | HARD TO GET (Explicit)                                          | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2016年2月15日  | NO MIND (Explicit)                                              | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2016年4月18日  | LOVE YOU RIGHT                                                  | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2017年1月16日  | LIQUID FLOWS 醉慾の流動 (ft. DEE)                                    | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2017年4月5日   | 頭銜                                                              | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2017年7月24日  | ME INSTEAD 奪愛 \[LYRICAL VISUAL\]                                | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2017年9月28日  | WINGS 翅膀 (ØZI at RedBull Studios Tokyo)                         | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2017年10月24日 | PARADISE ISLAND 天堂島                                             | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2017年11月14日 | 走到飛                                                             | [ØZI](../Page/ØZI.md "wikilink"). Trout Fresh. Julia Wu. Kumachan. B.C.W. Barry. Dwagie |
+| 2018年6月1日   | INTRO: OZYMANDIAS 奧西曼德斯 \[ØZI: The Album\]                      | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2018年6月11日  | DIAMOND 鑽石                                                      | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2018年7月5日   | B.O.feat. [9m88](https://zh.wikipedia.org/wiki/9m88 "wikilink") | ØZI feat. [9m88](https://zh.wikipedia.org/wiki/9m88 "wikilink")                         |
+| 2018年8月2日   | WE OUT HERE                                                     | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+| 2018年10月19日 | W.I.L.D.                                                        | ØZI x The North Face: Urban Exploration                                                 |
+| 2018年12月29日 | PREY 掠食                                                         | [ØZI](../Page/ØZI.md "wikilink")                                                        |
+|             |                                                                 |                                                                                         |
 
 ### MV導演作品
 

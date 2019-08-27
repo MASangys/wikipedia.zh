@@ -738,7 +738,7 @@ end
 `       end`
 `       --例外處理 : 不是數字的東西，直接告知錯誤`
 `       if number == nil then `
-`           return require("Module:Error").error({[1]="錯誤：\'" .. (args[1] or args['1'] or args['start'] or args['end']) .. '\' '`
+`           return require("Module:Error").error({[1]="錯誤：「" .. (args[1] or args['1'] or args['start'] or args['end']) .. '」'`
 `               .. '不是一個數-{}-字。'`
 `           })`
 `       end`
@@ -747,7 +747,7 @@ end
 `   --超出可處理範圍`
 `   if p.PrimeTable.table_max == nil then p.PrimeTable = require('Module:Factorization') end`
 `   if (number or 0) > p.PrimeTable.limit or -(number or 0) > p.PrimeTable.limit then `
-`           return require("Module:Error").error({[1]="錯誤：無法處理數-{}-字 \'" .. (args[1] or args['1'] or args['start'] or args['end']) .. '\' ，'`
+`           return require("Module:Error").error({[1]="錯誤：無法處理數-{}-字「" .. (args[1] or args['1'] or args['start'] or args['end']) .. '」，'`
 `               .. '其`[`絕對值已超出支援的處理範圍`](https://zh.wikipedia.org/wiki/絕對值 "wikilink")`（35184372088831）。'`
 `           })`
 `   end`

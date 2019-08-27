@@ -140,12 +140,24 @@
 <td><p>29</p></td>
 <td><p>17</p></td>
 <td><p>2019/08/06</p></td>
-<td><p>%</p></td>
+<td><p>2.700%</p></td>
 </tr>
 <tr class="even">
 <td><p>30</p></td>
 <td><p>18</p></td>
 <td><p>2019/08/13</p></td>
+<td><p>2.272%</p></td>
+</tr>
+<tr class="odd">
+<td><p>31</p></td>
+<td><p>19</p></td>
+<td><p>2019/08/20</p></td>
+<td><p>2.346%</p></td>
+</tr>
+<tr class="even">
+<td><p>32</p></td>
+<td><p>20</p></td>
+<td><p>2019/08/27</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">

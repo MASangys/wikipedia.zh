@@ -115,32 +115,32 @@
 <td><p>廣域搜查隊刑警。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/？" title="wikilink">？</a></p></td>
+<td></td>
 <td><p>信宇</p></td>
 <td><p>16年前野草天使院戴著鴨帽的小朋友，在夢想國度葬身火窟。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/？" title="wikilink">？</a></p></td>
+<td></td>
 <td><p>世恩</p></td>
 <td><p>野草天使院的小朋友。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/？" title="wikilink">？</a></p></td>
+<td></td>
 <td><p>趙觀</p></td>
 <td><p>趙世皇之父。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/？" title="wikilink">？</a></p></td>
+<td></td>
 <td><p>高大修</p></td>
 <td><p>跟方學在是好兄弟，撿回收，曾擁有過神祕道具手鍊。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/？" title="wikilink">？</a></p></td>
+<td></td>
 <td><p>金泰九</p></td>
 <td><p>姜坤（舊名為金聖圭）之父，曾被認為是夢想國度的犯人，其實犯人是另有其人。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/？" title="wikilink">？</a></p></td>
+<td></td>
 <td><p>慧智</p></td>
 <td><p>最後一集登場，耀漢之女友。</p></td>
 </tr>
@@ -150,7 +150,7 @@
 <td><p>刑警影像分析官。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李珠彬.md" title="wikilink">李珠彬</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李主儐" title="wikilink">李主儐</a></p></td>
 <td></td>
 <td><p>會變身的女殺手。</p></td>
 </tr>

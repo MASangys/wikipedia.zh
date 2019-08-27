@@ -1,4 +1,4 @@
-**周子瑜**（，/ **주자유**；），藝名**子瑜**（，，），是在[韓國發展的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[中華民國](../Page/中華民國.md "wikilink")[臺灣](../Page/臺灣.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")、[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")，出生於[中華民國](../Page/中華民國.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市_\(省轄市\) "wikilink")[東區](https://zh.wikipedia.org/wiki/東區_\(臺南市\) "wikilink")\[1\]\[2\]，現為[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下[女子組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE成員之一](https://zh.wikipedia.org/wiki/TWICE "wikilink")。2012年，在[臺南市美思表演藝術中心的成果展被JYP娛樂發掘](https://zh.wikipedia.org/wiki/臺南市 "wikilink")，於2012年11月前往韓國試鏡2次，而成為JYP娛樂的練習生。2015年，參加[Mnet與](https://zh.wikipedia.org/wiki/Mnet "wikilink")[JYP娛樂](../Page/JYP娛樂.md "wikilink")合作播出的實境節目《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》，於最後一集雖遭淘汰，卻因在節目中實力增長最多而成為最終追加成員，因此正式作為[TWICE中的一員出道](https://zh.wikipedia.org/wiki/TWICE "wikilink")。
+**周子瑜**（，/ **주자유**；），藝名**子瑜**（，，），是在[韓國發展的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[中華民國](../Page/中華民國.md "wikilink")[臺灣](../Page/臺灣.md "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")、[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")，出生於[中華民國](../Page/中華民國.md "wikilink")[臺南市](https://zh.wikipedia.org/wiki/臺南市_\(省轄市\) "wikilink")[東區](https://zh.wikipedia.org/wiki/東區_\(臺南市\) "wikilink")\[1\]\[2\]，現為[JYP娛樂](../Page/JYP娛樂.md "wikilink")旗下[女子組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE成員之一](https://zh.wikipedia.org/wiki/TWICE "wikilink")。2012年，在[臺南市美思表演藝術中心的成果展被JYP娛樂發掘](https://zh.wikipedia.org/wiki/臺南市 "wikilink")，於2012年11月前往韓國試鏡2次，而成為JYP娛樂的練習生。2015年，參加[Mnet](../Page/Mnet.md "wikilink")與[JYP娛樂](../Page/JYP娛樂.md "wikilink")合作播出的實境節目《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》，於最後一集雖遭淘汰，卻因在節目中實力增長最多而成為最終追加成員，因此正式作為[TWICE中的一員出道](https://zh.wikipedia.org/wiki/TWICE "wikilink")。
 
 ## 早年生活及教育
 
@@ -111,11 +111,11 @@
 | 7月2日   |                                                                         |                                                                                    |                                                                   |                |
 | 2018年  | 4月9日                                                                    | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                              | 《[大国民脱口秀-你好](https://zh.wikipedia.org/wiki/大国民脱口秀-你好 "wikilink")》 | 定延、Sana        |
 | 7月10日  | Naver V app                                                             | 《Celuv TV》                                                                         | 彩瑛                                                                |                |
-| 2019年  | 1月24日                                                                   | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                              | 《[超級實習生](../Page/超級實習生.md "wikilink")》                            |                |
+| 2019年  | 1月24日                                                                   | [Mnet](../Page/Mnet.md "wikilink")                                                 | 《[超級實習生](../Page/超級實習生.md "wikilink")》                            |                |
 | 1月31日  | 定延、Momo、Sana、志效、Mina、多賢                                                 |                                                                                    |                                                                   |                |
 | 5月11日  | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                   | 《[Battle Trip](https://zh.wikipedia.org/wiki/Battle_Trip "wikilink")》              | 多賢、彩瑛                                                             |                |
 | 5月18日  |                                                                         |                                                                                    |                                                                   |                |
-| 6月日    | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                   | 《[不是你所认识的我2](https://zh.wikipedia.org/wiki/不是你所认识的我 "wikilink")》                   |                                                                   |                |
+| 6月日    | [Mnet](../Page/Mnet.md "wikilink")                                      | 《[不是你所认识的我2](https://zh.wikipedia.org/wiki/不是你所认识的我 "wikilink")》                   |                                                                   |                |
 
 ### 廣播電台
 
@@ -135,7 +135,7 @@
 | 2016年3月5日   | [SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink")  | 《白鍾元的3大天王》                                                             | 多賢     | Special MC |
 | 2016年5月13日  | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") | 《[Music Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》       | 娜璉     |            |
 | 2016年6月5日   | [SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink")  | 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》                |        |            |
-| 2018年4月12日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")    | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 娜琏、彩瑛  |            |
+| 2018年4月12日  | [Mnet](../Page/Mnet.md "wikilink")                       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | 娜琏、彩瑛  |            |
 | 2018年11月15日 | 定延、志效                                                    |                                                                        |        |            |
 
 ### 廣告代言

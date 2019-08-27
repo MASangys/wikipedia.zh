@@ -312,12 +312,13 @@ function p.articlePeriodicTable(frame)
 `   if (args['celltext'] and args['celltext'] ~= '') then celltext = string.gsub(args['celltext'] , "%s$", "") end`
 `   option.celltext = celltext`
 `   local number = tonumber(arg1)`
-`   `
-`   if yesno(option.textimage) == true then`
-`       ele117img = frame:expandTemplate{ title = '缺字', args = { 'tian2', '1', 'Ts' } }`
-`       ele118imghans = frame:expandTemplate{ title = '缺字', args = { 'ao4', '3', 'Og' } }`
-`       ele118imghant = frame:expandTemplate{ title = '缺字', args = { 'ao4', '2', 'Og' } }`
-`   end`
+
+`   -- 改用全局僻字woff技术，已不需要“缺字”`
+`   --if yesno(option.textimage) == true then`
+`   --  ele117img = frame:expandTemplate{ title = '缺字', args = { 'tian2', '1', 'Ts' } }`
+`   --  ele118imghans = frame:expandTemplate{ title = '缺字', args = { 'ao4', '3', 'Og' } }`
+`   --  ele118imghant = frame:expandTemplate{ title = '缺字', args = { 'ao4', '2', 'Og' } }`
+`   --end`
 `   return p.renderArticlePeriodicTable(number, mark, mw.text.split(markele,','), rtype, pmodel, option)`
 
 end
@@ -1656,11 +1657,11 @@ function p.renderArticlePeriodicTableElementCell(element,span,styleclass,otherat
 `       eleargs.NameWithLink =  element.name`
 `   end`
 `   `
-`   if yesno(option.textimage) == true then`
-`       if  element.Z == 117 then eleargs.NameWithLink = "`[`鿬`](../Page/鿬.md "wikilink")`（".. ele117img ..'）'`
-`       elseif element.Z == 118 then eleargs.NameWithLink = "`[`鿫`](../Page/鿫.md "wikilink")`（-{zh-hans:" .. `
-`           ele118imghans .. ";zh-hant:" .. ele118imghant .. "}-"..'）' end`
-`   end`
+`   --if yesno(option.textimage) == true then`
+`   --  if  element.Z == 117 then eleargs.NameWithLink = "`[`鿬`](../Page/鿬.md "wikilink")`（".. ele117img ..'）'`
+`   --  elseif element.Z == 118 then eleargs.NameWithLink = "`[`鿫`](../Page/鿫.md "wikilink")`（-{zh-hans:" .. `
+`   --      ele118imghans .. ";zh-hant:" .. ele118imghant .. "}-"..'）' end`
+`   --end`
 `   `
 `   local PhaseStyleClasses = {["gas"] = "Yuansuzhouqibiao_gas", ["solid"] = "", ["liquid"] = "Yuansuzhouqibiao_liquid"}`
 `   if not(type(element.Z)==type("0")) then`

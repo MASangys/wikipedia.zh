@@ -16,27 +16,27 @@
 <tr class="odd">
 <td><p><a href="../Page/安孝燮.md" title="wikilink">安孝燮</a></p></td>
 <td><p>玄秀勇</p></td>
-<td><p>S.O.U.L的新成員。原為蒙古的網路創作歌手，後懷抱著夢想來到韓國，YouTube創作明星。喜歡柳銀星。</p></td>
+<td><p>S.O.U.L的新成員。原為蒙古的網路創作歌手，後懷抱著夢想來到韓國，YouTube創作明星。喜歡柳恩星。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/車銀優.md" title="wikilink">車銀優</a>（<a href="../Page/Astro_(韓國音樂團體).md" title="wikilink">ASTRO</a>）</p></td>
 <td><p>禹延宇</p></td>
-<td><p>S.O.U.L的中心、門面擔當，負責擔當歌唱和舞蹈，即將要解散的組合。喜歡柳銀星。</p></td>
+<td><p>S.O.U.L的中心、門面擔當，負責擔當歌唱和舞蹈，即將要解散的組合。喜歡柳恩星。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/徐恩秀.md" title="wikilink">徐恩秀</a></p></td>
-<td><p>柳銀星</p></td>
+<td><p>柳恩星</p></td>
 <td><p>原本夢想當idol但一直沒有機會出道，在機緣巧合下，當了原本已經要解散的偶像「S.O.U.L」的經紀人。<br />
 她擁有著特殊能力可以看到未來，放棄了原本當idol的夢想。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/鄭惟安.md" title="wikilink">鄭惟安</a></p></td>
-<td><p>金泰吳</p></td>
+<td><p>金泰奧</p></td>
 <td><p>S.O.U.L的隊長，負責擔當歌唱、舞蹈，即將要解散的組合。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/房載民" title="wikilink">房載民</a></p></td>
-<td><p>張李利</p></td>
+<td><p>張以立</p></td>
 <td><p>S.O.U.L的成員，負責擔當饒舌，即將要解散的組合。</p></td>
 </tr>
 </tbody>

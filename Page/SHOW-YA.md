@@ -1,4 +1,4 @@
-是一支[日本](../Page/日本.md "wikilink")全女子[重金属](../Page/重金属音乐.md "wikilink")/[硬摇滚乐队](../Page/硬式搖滾.md "wikilink")，其组建于1981年。组合于1998年解散，但在2005年她们首次出道20周年时重组。SHOW-YA的音乐根植于经典摇滚，而其在专辑、LIVE里也翻唱了[甲壳虫乐队](../Page/披頭四樂隊.md "wikilink")、[門戶樂團](../Page/門戶樂團.md "wikilink")、[雏鸟乐队](../Page/雏鸟乐队.md "wikilink")、[齐柏林飞艇乐队](../Page/齐柏林飞船_\(乐团\).md "wikilink"), [深紫](../Page/深紫.md "wikilink")乐队及[AC/DC乐队的歌曲](https://zh.wikipedia.org/wiki/AC/DC "wikilink")。她们的音乐从最开始组建时的流行摇滚转变为了其更擅长的重金属风格，如专辑《》及《》。
+是一支[日本](../Page/日本.md "wikilink")全女子[重金属](../Page/重金属音乐.md "wikilink")/[硬摇滚乐队](../Page/硬式搖滾.md "wikilink")，其组建于1981年。组合于1998年解散，但在2005年她们首次出道20周年时重组。SHOW-YA的音乐根植于经典摇滚，而其在专辑、LIVE里也翻唱了[披頭四樂隊](../Page/披頭四樂隊.md "wikilink")、[門戶樂團](../Page/門戶樂團.md "wikilink")、[雏鸟乐队](../Page/雏鸟乐队.md "wikilink")、[齐柏林飞艇乐队](../Page/齐柏林飞船_\(乐团\).md "wikilink")、[深紫](../Page/深紫.md "wikilink")乐队及[AC/DC乐队的歌曲](https://zh.wikipedia.org/wiki/AC/DC "wikilink")。她们的音乐从最开始组建时的流行摇滚转变为了其更擅长的重金属风格，如专辑《》及《》。
 
 ## 成员
 

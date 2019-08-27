@@ -399,7 +399,7 @@
   - 伊朗安全警察 （PAVA）
   - 伊朗警察情报保护组织 （SAHEFANAJA）
 
-**[国防部和武装部队后勤部](https://zh.wikipedia.org/wiki/伊朗国防和武装部队后勤部 "wikilink")** ：
+**[国防部和武装部队后勤部](../Page/伊朗国防和武装部队后勤部.md "wikilink")** ：
 
   - 国防部情报保护组织 （SAHEFAVEDJA）
 

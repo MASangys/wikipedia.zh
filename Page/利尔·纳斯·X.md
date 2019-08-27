@@ -21,11 +21,13 @@
 <th><p>名称</p></th>
 <th><p>信息</p></th>
 <th><p>榜单最高位置</p></th>
+<th><p>销量</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/告示牌百强单曲榜.md" title="wikilink">US</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奧地利Ö3四十強音樂榜" title="wikilink">AUT</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/澳大利亚唱片业协会榜" title="wikilink">AUS</a></p></td>
 <td><p><a href="../Page/加拿大百强单曲榜.md" title="wikilink">CAN</a></p></td>
 </tr>
@@ -37,6 +39,7 @@
 <li>形式: <a href="../Page/數位音樂下載.md" title="wikilink">数字下载</a>、<a href="../Page/流媒体.md" title="wikilink">流媒体</a></li>
 </ul></td>
 <td><p>2</p></td>
+<td><p>72</p></td>
 </tr>
 </tbody>
 </table>
@@ -71,6 +74,7 @@
 <th><p>名称</p></th>
 <th><p>年份</p></th>
 <th><p>榜单最高排名</p></th>
+<th><p>销量</p></th>
 <th><p><a href="../Page/音乐唱片销售认证列表.md" title="wikilink">认证</a></p></th>
 <th><p>专辑</p></th>
 </tr>
@@ -87,11 +91,14 @@
 [17]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:en:Hitlisten" title="wikilink">DEN</a><br />
 [18]</p></td>
+<td><p><a href="../Page/愛爾蘭唱片音樂協會.md" title="wikilink">IRE</a><br />
+[19]</p></td>
 </tr>
 <tr class="even">
 <td><p>"Old Town Road"<br />
 <span style="font-size:85%;">(独唱及<a href="../Page/比利·雷·赛勒斯.md" title="wikilink">比利·雷·赛勒斯</a>客串版本)</span></p></td>
 <td><p>2018</p></td>
+<td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
@@ -102,6 +109,7 @@
 <td><p>16</p></td>
 <td><p>9</p></td>
 <td><p>15</p></td>
+<td><p>12</p></td>
 </tr>
 </tbody>
 </table>
@@ -127,7 +135,6 @@
 <th><p>奖项</p></th>
 <th><p>获提名作品/人</p></th>
 <th><p>结果</p></th>
-<th><p>参考</p></th>
 </tr>
 </thead>
 <tbody>
@@ -136,12 +143,10 @@
 <td><p>青少年选择奖 (Teen Choice Awards)</p></td>
 <td><p>获选男艺人 (Choice Male Artist)</p></td>
 <td><p>本人</p></td>
-<td><p>待定</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>获选突破性艺人 (Choice Breakout Artist)</p></td>
-<td><p>待定</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -150,24 +155,78 @@
 <tr class="odd">
 <td><p>获选歌曲：男艺人 (Choice Song: Male Artist)</p></td>
 <td><p>单曲"Old Town Road"</p></td>
-<td><p>待定</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>获选合作作品 (Choice Collaboration)</p></td>
-<td><p>"Old Town Road (Remix)"<br />
+<td><p>单曲"Old Town Road (Remix)"<br />
 <span style="font-size:85%;">(由<a href="../Page/比利·雷·赛勒斯.md" title="wikilink">比利·雷·赛勒斯</a>客串)</span></p></td>
-<td><p>待定</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>获选R&amp;B嘻哈歌曲 (Choice R&amp;B Hip-Hop Song)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2019年MTV音樂錄影帶大獎.md" title="wikilink">MTV音樂錄影帶大獎</a></p></td>
+<td><p>最佳新艺人 (Best New Artist)</p></td>
+<td><p>本人</p></td>
 <td><p>待定</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>年度最佳音乐视频 (Video of the Year)</p></td>
+<td><p>单曲"Old Town Road (Remix)"<br />
+<span style="font-size:85%;">(由<a href="../Page/比利·雷·赛勒斯.md" title="wikilink">比利·雷·赛勒斯</a>客串)</span></p></td>
+<td><p>待定</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>年度最佳歌曲 (Song of the Year)</p></td>
+<td><p>待定</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最佳合作作品 (Best Collaboration)</p></td>
+<td><p>待定</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>最佳嘻哈音乐视频 (Best Hip-Hop Video)</p></td>
+<td><p>待定</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最佳指导 (Best Direction)</p></td>
+<td><p>待定</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>最佳剪辑 (Best Editing)</p></td>
+<td><p>待定</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最佳艺术指导 (Best Art Direction)</p></td>
+<td><p>待定</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -213,3 +272,5 @@
 17.
 
 18.
+
+19.

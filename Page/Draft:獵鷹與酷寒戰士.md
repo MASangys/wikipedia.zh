@@ -2,7 +2,7 @@
 
 [安東尼·麥凱和](https://zh.wikipedia.org/wiki/安東尼·麥凱 "wikilink")[賽巴斯汀·斯坦](../Page/賽巴斯汀·斯坦.md "wikilink")繼續分別飾演在漫威電影宇宙系列電影中的角色。2018年9月，報道稱[漫威影業將開發幾個限定劇集](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")，以漫威電影宇宙中的「二級核心」人物為主角，並爭取啟用在電影中出演相應角色的演員。10月，貝爾曼確定擔任節目統籌。2019年4月，劇集正式確定製作，麥凱和斯坦確認領銜出演。5月，斯考格蘭德確認擔當導演。劇集於2019年10月開機拍攝。
 
-《獵鷹與酷寒戰士》計劃於2020年8月首播。
+《獵鷹與酷寒戰士》計劃於2020年秋季首播。
 
 ## 演員與角色
 
@@ -37,7 +37,7 @@
 
 ### 開發
 
-2017年11月，迪士尼宣佈為其旗下即將在2019年底正式運行的在線流媒體平台[迪士尼+](../Page/迪士尼+.md "wikilink")開發漫威系列電視劇\[4\]。2018年9月，報道稱[漫威影業正在為該平台開發幾個限定劇集](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")，以[漫威電影宇宙中的](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")「二級核心」人物為主角，因為漫威不太可能製作以他們為主角的個人電影。在限定劇集中將爭取啟用在電影中出演相應角色的演員。劇本故事仍在創作中，每個系列預計製作六至八集，並且有比肩大製作項目的足夠預算。劇集將由[漫威影業而非](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")[漫威電視製作](https://zh.wikipedia.org/wiki/漫威電視 "wikilink")，漫威影業總裁[凱文·費吉](../Page/凱文·費吉.md "wikilink")也將親自參與每部劇集的開發\[5\]，專注於劇集與電影之間的「故事連續性」，以及「協調」電影中的演員能夠出演相應的劇集\[6\]。
+[Sebastian_Stan_&_Anthony_Mackie_(48469219356).jpg](https://zh.wikipedia.org/wiki/File:Sebastian_Stan_&_Anthony_Mackie_\(48469219356\).jpg "fig:Sebastian_Stan_&_Anthony_Mackie_(48469219356).jpg")和[安東尼·麥凱在](https://zh.wikipedia.org/wiki/安東尼·麥凱 "wikilink")2019年[聖地牙哥國際漫畫展](https://zh.wikipedia.org/wiki/聖地牙哥國際漫畫展 "wikilink")\]\] 2017年11月，迪士尼宣佈為其旗下即將在2019年底正式運行的在線流媒體平台[迪士尼+](../Page/迪士尼+.md "wikilink")開發漫威系列電視劇\[4\]。2018年9月，報道稱[漫威影業正在為該平台開發幾個限定劇集](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")，以[漫威電影宇宙中的](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")「二級核心」人物為主角，因為漫威不太可能製作以他們為主角的個人電影。在限定劇集中將爭取啟用在電影中出演相應角色的演員。劇本故事仍在創作中，每個系列預計製作六至八集，並且有比肩大製作項目的足夠預算。劇集將由[漫威影業而非](https://zh.wikipedia.org/wiki/漫威影業 "wikilink")[漫威電視製作](https://zh.wikipedia.org/wiki/漫威電視 "wikilink")，漫威影業總裁[凱文·費吉](../Page/凱文·費吉.md "wikilink")也將親自參與每部劇集的開發\[5\]，專注於劇集與電影之間的「故事連續性」，以及「協調」電影中的演員能夠出演相應的劇集\[6\]。
 
 2018年10月底，麥爾坎斯·貝爾曼被聘為編劇為以[「獵鷹」山姆·威爾遜和](https://zh.wikipedia.org/wiki/獵鷹_\(漫畫\) "wikilink")[「酷寒戰士」巴基·巴恩斯為主角的限定劇集撰寫劇本](https://zh.wikipedia.org/wiki/巴奇_\(漫威漫畫\) "wikilink")\[7\]\[8\]。[安東尼·麥凱和](https://zh.wikipedia.org/wiki/安東尼·麥凱 "wikilink")[賽巴斯汀·斯坦](../Page/賽巴斯汀·斯坦.md "wikilink")之前曾表示有興趣一起主演一部關於[漫威電影宇宙的衍生電影](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")\[9\]。2019年4月，劇集公佈正式片名為《獵鷹與酷寒戰士》（*The Falcon and the Winter Soldier*），安東尼·麥凱和賽巴斯汀·斯坦確認領銜主演，劇集將在[迪士尼+](../Page/迪士尼+.md "wikilink")正式運行後的一年內播出\[10\]\[11\]。5月，確認執導全部六集\[12\]。2019年7月11日，成為劇集編劇之一\[13\]。
 
@@ -51,11 +51,11 @@
 
 ### 拍攝
 
-劇集計劃於2019年8月12日在美國[佐治亞州](https://zh.wikipedia.org/wiki/佐治亞州 "wikilink")[亞特蘭大開機拍攝](https://zh.wikipedia.org/wiki/亞特蘭大 "wikilink")，[工作標題為](https://zh.wikipedia.org/wiki/暫定名稱 "wikilink")「標籤團隊」（Tag Team）\[18\]\[19\]，擔當導演\[20\]。
+劇集原計劃於2019年8月12日在美國[佐治亞州](https://zh.wikipedia.org/wiki/佐治亞州 "wikilink")[亞特蘭大開機拍攝](https://zh.wikipedia.org/wiki/亞特蘭大 "wikilink")\[18\]，[工作標題為](https://zh.wikipedia.org/wiki/暫定名稱 "wikilink")「搭檔」（Tag Team）\[19\]。其後開機日期預計推遲至2019年10月22日\[20\]\[21\]。擔當導演\[22\]。
 
 ## 宣傳與發行
 
-《獵鷹與酷寒戰士》預定於2020年8月在[串流媒體平台](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")[迪士尼+](../Page/迪士尼+.md "wikilink")首播\[21\]。
+在2019年[聖地牙哥國際漫畫展上](https://zh.wikipedia.org/wiki/聖地牙哥國際漫畫展 "wikilink")，漫威宣佈《獵鷹與酷寒戰士》預定於2020年秋季在[串流媒體平台](https://zh.wikipedia.org/wiki/串流媒體 "wikilink")[迪士尼+](../Page/迪士尼+.md "wikilink")首播\[23\]。
 
 ## 資料來源
 
@@ -80,3 +80,5 @@
 19.
 20.
 21.
+22.
+23.

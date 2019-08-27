@@ -1,4 +1,4 @@
-**Jupyter项目**（）是一个[非营利组织](https://zh.wikipedia.org/wiki/非营利组织 "wikilink")，旨在“为数十种编程语言的[交互式计算开发](https://zh.wikipedia.org/wiki/交互式计算 "wikilink")[开源软件](../Page/开源软件.md "wikilink")，开放标准和服务”。2014年由Fernando Pérez从[IPython中衍生出来](https://zh.wikipedia.org/wiki/IPython "wikilink")，Jupyter项目支持几十种语言的执行环境。Jupyter项目的名称是对Jupyter支持的三种核心编程语言的引用，这三种语言是[Julia](../Page/Julia_\(编程语言\).md "wikilink")、[Python](../Page/Python.md "wikilink")和[R](../Page/R语言.md "wikilink")，也是对[伽利略记录发现](https://zh.wikipedia.org/wiki/伽利略 "wikilink")[木星的卫星](../Page/木星的卫星.md "wikilink")的笔记本的致敬。Jupyter项目开发并支持交互式计算产品Jupyter Notebook、JupyterHub和JupyterLab，这是Jupyter Notebook的下一代版本。
+**Jupyter项目**（）是一个[非营利组织](https://zh.wikipedia.org/wiki/非营利组织 "wikilink")，旨在“为数十种编程语言的[交互式计算开发](https://zh.wikipedia.org/wiki/交互式计算 "wikilink")[开源软件](../Page/开源软件.md "wikilink")，开放标准和服务”。2014年由Fernando Pérez从[IPython](../Page/IPython.md "wikilink")中衍生出来，Jupyter项目支持几十种语言的执行环境。Jupyter项目的名称是对Jupyter支持的三种核心编程语言的引用，这三种语言是[Julia](../Page/Julia_\(编程语言\).md "wikilink")、[Python](../Page/Python.md "wikilink")和[R](../Page/R语言.md "wikilink")，也是对[伽利略记录发现](https://zh.wikipedia.org/wiki/伽利略 "wikilink")[木星的卫星](../Page/木星的卫星.md "wikilink")的笔记本的致敬。Jupyter项目开发并支持交互式计算产品Jupyter Notebook、JupyterHub和JupyterLab，这是Jupyter Notebook的下一代版本。
 
 ## 历史
 
@@ -20,7 +20,7 @@ Jupyter Notebook文档可以通过Web界面中的“Download As”，通过[nbco
 
 为了简化Jupyter Notebook文档在Web上的可视化，nbconvert库是通过[nbviewer](https://nbviewer.org/)提供的一项服务，它可以获取任何公开可用的Notebook文档的URL，将其动态转换为HTML并显示给用户。 [缩略图](https://zh.wikipedia.org/wiki/File:IPython-notebook.png "fig:缩略图") Jupyter Notebook提供了一个基于浏览器的[REPL](https://zh.wikipedia.org/wiki/REPL "wikilink")，它建立在一些流行的开源库之上:
 
-  - [IPython](https://zh.wikipedia.org/wiki/IPython "wikilink")
+  - [IPython](../Page/IPython.md "wikilink")
   - [ØMQ](../Page/ØMQ.md "wikilink")
   - [Tornado](../Page/Tornado.md "wikilink")（Web服务器）
   - [jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink")
@@ -90,7 +90,7 @@ Colaboratory（也称为Colab）是一个免费的Jupyter Notebook环境，它�
 ## 另请参阅
 
   - [GNU Octave](../Page/GNU_Octave.md "wikilink")
-  - [IPython](https://zh.wikipedia.org/wiki/IPython "wikilink")
+  - [IPython](../Page/IPython.md "wikilink")
   - [RStudio](../Page/RStudio.md "wikilink")
   - [Sage](../Page/Sage.md "wikilink")Math
   - [Scilab](../Page/Scilab.md "wikilink")

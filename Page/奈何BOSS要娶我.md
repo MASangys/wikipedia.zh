@@ -151,7 +151,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/蔡光秦" title="wikilink">蔡光秦</a></p></td>
 <td><p>趙嘉言</p></td>
-<td><p>夏林的男朋友，跟秦婧在一起</p></td>
+<td><p>夏林的前男友，跟秦婧在一起</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/禇旭" title="wikilink">禇旭</a></p></td>

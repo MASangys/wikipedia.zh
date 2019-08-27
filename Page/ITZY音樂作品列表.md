@@ -38,7 +38,9 @@
 <li>發行日期：2019年2月12日</li>
 <li>唱片公司：JYP Entertainment</li>
 <li>發行公司：iRiver</li>
-</ul></td>
+<li>專輯銷量: 77,109+<ref><a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=07&amp;hitYear=2019&amp;termGbn=month">2019.07</a></li>
+</ul>
+<p><code>           </code></ref><code>32,416 (HANTEO榜)</code></p></td>
 <td><p>2</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>

@@ -265,6 +265,22 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>8月12日</p></td>
+<td></td>
+<td><p><a href="../Page/KAT-TUN.md" title="wikilink">KAT-TUN</a></p></td>
+<td><p>原創</p></td>
+<td><p>10.4</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月19日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Churu_Sama!" title="wikilink">Churu Sama!</a></p></td>
+<td></td>
+<td><p>原創</p></td>
+<td><p>3.6</p></td>
+<td><p>1</p></td>
+</tr>
 </tbody>
 </table>
 

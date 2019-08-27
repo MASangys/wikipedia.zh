@@ -2,7 +2,7 @@
 
 ## 概要
 
-Samsung Galaxy J8操作系統使用[Android 8.0 Oreo](../Page/Android.md "wikilink")，採用了[高通](../Page/高通.md "wikilink")[骁龙](https://zh.wikipedia.org/wiki/高通骁龙 "wikilink")[450](https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_450 "wikilink")8核心處理器和[Adreno 560图像处理器](../Page/Adreno.md "wikilink")。
+Samsung Galaxy J8操作系統使用[Android 8.0 Oreo](../Page/Android.md "wikilink")，採用了[高通](../Page/高通.md "wikilink")[骁龙](https://zh.wikipedia.org/wiki/高通骁龙 "wikilink")[450八核心處理器和](https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_450 "wikilink")[Adreno 506图像处理器](../Page/Adreno.md "wikilink")。
 
 显示屏方面，Samsung Galaxy J8採用6.0英寸1440p Super AMOLED顯示屏，寬高比為18.5：9，同时搭载三星的Infinity Display。
 

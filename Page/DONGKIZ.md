@@ -7,10 +7,10 @@
 | 成員列表 |
 | 藝名   |
 | 漢字   |
-| 遠大   |
-| 敬允   |
-|      |
-| 在燦   |
+| 元大   |
+| 庚潤   |
+| 汶益   |
+| 宰燦   |
 | 鐘亨   |
 
 ## 音樂作品
@@ -34,6 +34,16 @@
 </ul></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><strong>2nd</strong></p></td>
+<td><p><strong>《BlockBuster》</strong></p>
+<ul>
+<li>發行日期：2019年7月22日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>銷量：</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -45,7 +55,9 @@
 
 ### 正式出道
 
-2019年4月24日，以歌曲《NOM》正式出道，在音樂節目進行舞台表演。
+2019年4月24日，以單曲《NOM》正式出道，在音樂節目進行舞台表演。
+
+2019年7月22日，推出第二首單曲《Blockbuster》。
 
 ## 參考文獻
 

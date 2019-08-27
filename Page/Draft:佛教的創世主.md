@@ -28,13 +28,13 @@ According to Harvey, "\[a\]fter a long period, the [three lowest form heavens](h
 
 公元5世紀的印度佛教論師[世亲](../Page/世亲.md "wikilink")著論書《[阿毗达磨俱舍论](../Page/阿毗达磨俱舍论.md "wikilink")》，而在其中，他認為創世主的獨特身份與他創造的世界是不相容的。
 
-中國唐朝僧人[玄奘](../Page/玄奘.md "wikilink")（602年－664年）曾於公元7世紀時在印度[那烂陀寺](../Page/那烂陀寺.md "wikilink")研修佛學。There, he studied the [Yogacara](https://zh.wikipedia.org/wiki/Yogacara "wikilink") teachings passed down from [Asanga](https://zh.wikipedia.org/wiki/Asanga "wikilink") and Vasubandhu and taught to him by the abbot [Śīlabhadra](https://zh.wikipedia.org/wiki/Śīlabhadra "wikilink"). In his work *[Cheng Weishi Lun](https://zh.wikipedia.org/wiki/Cheng_Weishi_Lun "wikilink")* (Skt. *Vijñāptimātratāsiddhi śāstra*), Xuanzang refutes a "Great Lord" or Great Brahmā doctrine:\[3\]
+中國唐朝僧人[玄奘](../Page/玄奘.md "wikilink")曾於公元7世紀時在印度[那烂陀寺](../Page/那烂陀寺.md "wikilink")研修佛學。There, he studied the [Yogacara](https://zh.wikipedia.org/wiki/Yogacara "wikilink") teachings passed down from [Asanga](https://zh.wikipedia.org/wiki/Asanga "wikilink") and Vasubandhu and taught to him by the abbot [Śīlabhadra](https://zh.wikipedia.org/wiki/Śīlabhadra "wikilink"). In his work *[Cheng Weishi Lun](https://zh.wikipedia.org/wiki/Cheng_Weishi_Lun "wikilink")* (Skt. *Vijñāptimātratāsiddhi śāstra*), Xuanzang refutes a "Great Lord" or Great Brahmā doctrine:
 
 ### 其他
 
 公元七世紀印度佛學家[法稱在其所著的](https://zh.wikipedia.org/wiki/法稱 "wikilink")《[釋量論](../Page/釋量論.md "wikilink")》中advances a number of arguments against the existence of a creator god in his *Pramāṇavārtika*, following in the footsteps of Vasubandhu. Later Mahayana scholars such as Śāntarakṣita and Kamalaśīla continued this tradition.
 
-The 11th-century Buddhist philosopher [Ratnakīrti](https://zh.wikipedia.org/wiki/Ratnakīrti "wikilink") at the then university at Vikramashila (now Bhagalpur, [Bihar](https://zh.wikipedia.org/wiki/Bihar "wikilink")) criticized the arguments for the existence of God-like being called [Isvara](https://zh.wikipedia.org/wiki/Ishvara "wikilink"), that emerged in the [Navya-Nyaya sub-school of Hinduism](https://zh.wikipedia.org/wiki/Nyaya#Nyaya_on_God_and_salvation "wikilink"), in his “Refutation of Arguments Establishing Īśvara” (Īśvara-sādhana-dūṣaṇa). These arguments are similar to those used by other sub-schools of Hinduism and Jainism that questioned the Navya-Nyaya theory of dualistic creator.\[4\]
+The 11th-century Buddhist philosopher [Ratnakīrti](https://zh.wikipedia.org/wiki/Ratnakīrti "wikilink") at the then university at Vikramashila (now Bhagalpur, [Bihar](https://zh.wikipedia.org/wiki/Bihar "wikilink")) criticized the arguments for the existence of God-like being called [Isvara](https://zh.wikipedia.org/wiki/Ishvara "wikilink"), that emerged in the [Navya-Nyaya sub-school of Hinduism](https://zh.wikipedia.org/wiki/Nyaya#Nyaya_on_God_and_salvation "wikilink"), in his “Refutation of Arguments Establishing Īśvara” (Īśvara-sādhana-dūṣaṇa). These arguments are similar to those used by other sub-schools of Hinduism and Jainism that questioned the Navya-Nyaya theory of dualistic creator.\[3\]
 
 ## 參見
 
@@ -59,9 +59,9 @@ The 11th-century Buddhist philosopher [Ratnakīrti](https://zh.wikipedia.org/wik
   -
   -
   -
+  -
 <!-- end list -->
 
 1.
 2.
-3.  Cook, Francis, Chʿeng Wei Shih Lun (*Three Texts on Consciousness Only*), Numata Center, Berkeley, 1999, , pp. 20-21.
-4.  Parimal G. Patil. Against a Hindu God: Buddhist Philosophy of Religion in India. New York: Columbia University Press, 2009. pp. 3-4, 61-66 with footnotes, .
+3.  Parimal G. Patil. Against a Hindu God: Buddhist Philosophy of Religion in India. New York: Columbia University Press, 2009. pp. 3-4, 61-66 with footnotes, .

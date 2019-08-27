@@ -14,7 +14,7 @@ SRSS經歷了三次修正版本，最新的版本稱為第四代SRSS（4rd gener
 
 SRSS鬥牛犬762嚴格而言並非衍生自M14自動步槍的犢牛式步槍整體，而是將M14轉變為犢牛式佈局的槍托底盤型轉換／改裝套件。SRSS藉由其底盤，將M14的[機匣置於後托](https://zh.wikipedia.org/wiki/機匣 "wikilink")，而[槍管](../Page/槍管.md "wikilink")與[活塞式導氣管則是手槍握把與前](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")[護木以內](https://zh.wikipedia.org/wiki/護木 "wikilink")，從而在相同的槍管長度、有效射程和彈道特性以下縮短槍械整體長度。
 
-SRSS有[黑色](../Page/黑色.md "wikilink")、[橄榄绿](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")（軍綠色）、棕[褐色和鋁色四種顏色可選](https://zh.wikipedia.org/wiki/褐色 "wikilink")。該槍托配備了符合[人體工程學](https://zh.wikipedia.org/wiki/生物力學 "wikilink")、裝在左側的追加型拉機柄以及位於右側、改進自原型M14設於機匣一側的圓柱形旋鈕式拉機柄，使得左右兩側都可拉動[槍機](https://zh.wikipedia.org/wiki/槍機 "wikilink")。與部分同樣以聚合物製成，可與[M16用的握把](../Page/M16突擊步槍.md "wikilink")（例如A2型）可互換。後托頂部可兼作托腮板，尾部則裝上橡膠緩衝墊以減少射手可感受到的[後座力](../Page/後座力.md "wikilink")。
+SRSS有[黑色](../Page/黑色.md "wikilink")、[橄榄绿](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")（軍綠色）、棕[褐色和鋁色四種顏色可選](https://zh.wikipedia.org/wiki/褐色 "wikilink")。該槍托配備了符合[人體工程學](https://zh.wikipedia.org/wiki/生物力學 "wikilink")、裝在左側的追加型拉機柄以及位於右側、改進自原型M14設於機匣一側的圓柱形旋鈕式拉機柄，使得左右兩側都可拉動[槍機](https://zh.wikipedia.org/wiki/槍機 "wikilink")。與部分同樣以聚合物製成，可與[M16用的握把](../Page/M16突擊步槍.md "wikilink")（例如A2型）可互換。後托頂部可兼作托腮板，尾部則裝上[橡膠](../Page/橡膠.md "wikilink")製以減少射手可感受到的[後座力](../Page/後座力.md "wikilink")。
 
 同時亦在上[護木的頂部](https://zh.wikipedia.org/wiki/護木 "wikilink")、下護木的左右兩側與底部各裝上一條、共四條的[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")。頂部導軌用以裝上從[機械瞄具](../Page/機械瞄具.md "wikilink")到日間／夜間[光學瞄準／狙擊鏡和](../Page/瞄准镜.md "wikilink")／或[夜視鏡](../Page/夜視鏡.md "wikilink")等光學、電子瞄準具；而兩側與底部導軌則是裝上[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器與](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[輔助握把](https://zh.wikipedia.org/wiki/前握把 "wikilink")、[兩腳架的位置](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")。
 

@@ -204,7 +204,7 @@ COMEBACK V LIVE</a></p></td>
 | ----------------------------------------------------------------- |
 | 電視台                                                               |
 | colspan=6 style="background:\#9be6ff | 아름답고도 아프구나（Beautiful Pain） |
-| [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")             |
+| [Mnet](../Page/Mnet.md "wikilink")                                |
 | 最高名次：                                                             |
 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               |
 | 11月23日                                                            |

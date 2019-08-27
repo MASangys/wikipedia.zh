@@ -16,7 +16,7 @@ Stadia 將分為免費標準版和月費專業版訂閱。專業版月費約為1
 
 Stadia 專用之[遊戲手柄以](../Page/手柄.md "wikilink")$69美元發售，形態與 [Xbox One](../Page/Xbox_One.md "wikilink") 控制器和 [DualShock 4](../Page/DualShock.md "wikilink") 類似，並帶有錄製和 [Google Assistant](../Page/Google助理.md "wikilink") 按鈕。手柄可經[無線網絡與伺服器直接連線](../Page/Wi-Fi.md "wikilink")。發售之時，手柄將有四種顏色選擇。\[16\]
 
-Stadia 預計於2019年9月初步上線，屆時玩家可以約$130美元購買 Stadia 之「創始人版本」，包含 Chromecast Ultra、手柄，及三個月專業版訂閱。\[17\]
+Stadia 預計於2019年9月初步上線，屆時玩家可以約$130美元購買 Stadia 之「開發者版本」，包含 Chromecast Ultra、手柄，及三個月專業版訂閱。\[17\]
 
 ## 軟件
 

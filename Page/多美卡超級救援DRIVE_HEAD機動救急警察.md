@@ -17,7 +17,7 @@
     配音員：[國立幸](../Page/國立幸.md "wikilink")（日本）；[連思宇](../Page/連思宇.md "wikilink")\[2\]（台灣）
     Drive Head 二號烈焰克星、Drive Head 二號MKII勇氣烈焰克星、Drive Head 二號MKIII大師烈焰克星（暫譯）的駕駛員。
   -
-    配音員：[三澤紗千香](../Page/三澤紗千香.md "wikilink")（日本）；[張乃文](https://zh.wikipedia.org/wiki/張乃文 "wikilink")\[3\]（台灣）
+    配音員：[三澤紗千香](../Page/三澤紗千香.md "wikilink")（日本）；[張乃文](../Page/張乃文_\(配音員\).md "wikilink")\[3\]（台灣）
     Drive Head 三號白色希望、Drive Head 三號MKII白色水晶希望的駕駛員之一。於《DRIVE HEAD 2018》第6話起駕駛Drive Head 三號MKII白色珍珠希望。
   -
     配音員：[真堂圭](../Page/真堂圭.md "wikilink")（日本）；[穆宣名](../Page/穆宣名.md "wikilink")\[4\]（台灣）

@@ -32,7 +32,7 @@
 
   - 4月11日 - 發行首張原創專輯《THE EMPiRE STRiKES START\!\!》\[21\]。
   - 5月1日 - 東京Mynavi BLITZ赤坂舉醒首場單獨演唱會「THE EMPiRE STRiKES START\!\!」。宣布7月啟動巡迴表演「EMPiRE NEXT EDiTiON TOUR」，9月發行迷你專輯\[22\]。
-  - 7月26日 -
+  - 7月26日 - 宣布成立[HOLY SHiTS](../Page/HOLY_SHiTS.md "wikilink")，這是繼[SAiNT SEX之後的第二個洗牌團體](../Page/SAiNT_SEX.md "wikilink")。成員包括BiSH的セントチヒロ・チッチ，BiS的ペリ・ウブ，トリアエズ・ハナ，ムロパナコ，GANG PARADE的キャン・GP・マイカ和EMPiRE的MAHO EMPiRE。在同一天，歌曲“WACK is SHiT”以免費下載的型式發布，MV發布。
   - 8月4日 - 演出\[23\]。
   - 8月29日 -
   - 9月5日 - 發行《EMPiRE originals》。
@@ -52,7 +52,8 @@
   - 6月9日 – YouTube公開《SUCCESS STORY》音樂錄影帶。
   - 7月11日 - 「NEW EMPiRE TOUR」追加公演，命名為「NEW EMPiRE TOUR "EVOLUTiONS"」並於[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")舉行。是第三度在赤坂舉行演唱會亦是NOW EMPiRE首場赤坂赤坂BLITZ的演唱會。也是EMPiRE最後在赤坂BLITZ的舉行演唱會。
   - 7月17日 - 發行第二張單曲《SUCCESS STORY》。
-  - 10月 日 - 發行第三張單曲。
+  - 8月4日 – 在「TOKYO IDOL FESTIVAL 2019」宣布，EMPiRE的NOW EMPiRE加入SAiNT SEX並進行現場表演。
+  - 10月16日 - 發行第三張單曲。
   - 12月 日 - 發行第二張專輯。
 
 ### 2020年
@@ -71,7 +72,7 @@
 <th><p>暱稱</p></th>
 <th><p>生日</p></th>
 <th><p>出身地</p></th>
-<th><p>個人簡介</p></th>
+<th><p>備註</p></th>
 <th><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></th>
 </tr>
 </thead>
@@ -136,6 +137,7 @@ Project AW徵選合格者。<br />
 <td></td>
 <td><p>WACK合同徵選2019合格者。徵選時的名字為「テラヤマユフ」。<br />
 2019年4月21開始活動。<br />
+亦是<a href="../Page/SAiNT_SEX.md" title="wikilink">SAiNT SEX的成員</a>。<br />
 亦曾經是SakuranbomBom創始成員和隊長。</p></td>
 <td><p><a href="https://twitter.com/NOW_EMPiRE">NOW EMPiRE</a></p></td>
 </tr>
@@ -159,7 +161,7 @@ Project AW徵選合格者。<br />
 <th><p>暱稱</p></th>
 <th><p>生日</p></th>
 <th><p>出身地</p></th>
-<th><p>個人簡介</p></th>
+<th><p>備註</p></th>
 <th><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></th>
 </tr>
 </thead>

@@ -232,7 +232,7 @@ CIS SGL</small></p></td>
 
   - 波蘭
 
-<File:Defilada> 15 sierpnia 2007 (14).jpg|KTO Rosomak歩兵戰車 <File:Polish> Rosomak in Afghanistan.jpg|[アフガニスタン](https://zh.wikipedia.org/wiki/アフガニスタン "wikilink") <File:VI> zmiana PKW Afganistan (29).jpg|於阿富汗巡邏的Rosomak [File:MSPO2007-56.jpg|ロソマク-M3にイスラエル](File:MSPO2007-56.jpg%7Cロソマク-M3にイスラエル)・的的[試作車](../Page/原型_\(工程\).md "wikilink")，未量產。
+<File:Defilada> 15 sierpnia 2007 (14).jpg|KTO Rosomak歩兵戰車 <File:Polish> Rosomak in Afghanistan.jpg|[アフガニスタン](https://zh.wikipedia.org/wiki/アフガニスタン "wikilink") <File:VI> zmiana PKW Afganistan (29).jpg|於阿富汗巡邏的Rosomak [File:MSPO2007-56.jpg|ロソマク-M3にイスラエル](File:MSPO2007-56.jpg%7Cロソマク-M3にイスラエル)・的[參孫遙控武器系統的](../Page/拉斐爾參孫遙控武器站.md "wikilink")[試作車](../Page/原型_\(工程\).md "wikilink")，未量產。
 
 ## 參見
 

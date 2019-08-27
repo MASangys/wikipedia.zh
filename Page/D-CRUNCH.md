@@ -94,43 +94,71 @@ D-CRUNCH全員皆為出身於[Girl's Day的經紀公司](../Page/Girl's_Day.md "
 
 ### **D-CRUNCH**（**디크런치**）
 
+### 單曲專輯
+
 <table>
 <thead>
 <tr class="header">
-<th><p>年份</p></th>
-<th><p>日期</p></th>
-<th><p>專輯</p></th>
-<th><p>曲目</p></th>
+<th><p><strong>單曲 #</strong></p></th>
+<th><p><strong>專輯資料</strong></p></th>
+<th><p><strong>曲目</strong></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2018</p></td>
-<td><p>8月6日</p></td>
-<td><p>首張單曲<br />
-《0806》</p></td>
-<td><p>1. Palace 2. I want</p></td>
+<td><p>1st</p></td>
+<td><p><strong>《0806》</strong></p>
+<ul>
+<li>發行日期 ：2018年8月6日</li>
+<li>語言：韓語</li>
+<li>銷量：1,105+<ref></li>
+</ul>
+<p><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=08&amp;hitYear=2018&amp;termGbn=month">2018年8月GAON專輯榜89位</a></ref></p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>11月12日</p></td>
-<td><p>迷你一輯<br />
-《M1112(4colors)》</p></td>
-<td><p>1.보고싶게 (I miss you) 2.STEALER</p>
-<p>3.I'm OK</p>
-<p>4.지금 (now)</p>
-<p>5.STEALER (Inst.)</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 迷你專輯
+
+<table>
+<thead>
+<tr class="header">
+<th><p><strong>專輯 #</strong></p></th>
+<th><p><strong>專輯資料</strong></p></th>
+<th><p><strong>曲目</strong></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1st</p></td>
+<td><p><strong>《M1112(4colors)》</strong></p>
+<ul>
+<li>發行日期 ：2018年11月12日</li>
+<li>語言：韓語</li>
+<li>銷量：1,487+[6]</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p><strong>《M0527》</strong></p>
+<ul>
+<li>發行日期 ：2019年5月27日</li>
+<li>語言：韓語</li>
+<li>銷量：</li>
+</ul></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2019</p></td>
-<td><p>5月27日</p></td>
-<td><p>迷你二輯<br />
-《M0527》</p></td>
-<td><p>1. Panorama</p>
-<p>2. 작당모의 (Are you ready?)</p>
-<p>3. Loverace</p>
-<p>4. 행복한데 (Love letter)</p>
-<p>5. 작당모의 (Are you ready?)(Inst.)</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -265,7 +293,7 @@ D-CRUNCH全員皆為出身於[Girl's Day的經紀公司](../Page/Girl's_Day.md "
 
 | 年份   | 播放平台 | 劇名                                      | 集數  | 成員 | 角色  | 性質           |
 | ---- | ---- | --------------------------------------- | --- | -- | --- | ------------ |
-| 2018 | OCN  | [Voice 2](../Page/Voice2.md "wikilink") | 第7集 | 全體 | NT7 | 客串\[6\]\[7\] |
+| 2018 | OCN  | [Voice 2](../Page/Voice2.md "wikilink") | 第7集 | 全體 | NT7 | 客串\[7\]\[8\] |
 
 ## 備註與參考資料
 
@@ -289,5 +317,6 @@ D-CRUNCH全員皆為出身於[Girl's Day的經紀公司](../Page/Girl's_Day.md "
 3.  [현오 “디크런치 데뷔일은 내 두 번째 생일” \[M+사소한인터뷰-디크런치 편⑤\]](https://m.entertain.naver.com/read?oid=057&aid=0001303850)
 4.  [찬영 “팬들과 소통하면서 스트레스 풀어요” \[M+사소한인터뷰-디크런치 편④\]](https://m.entertain.naver.com/read?oid=057&aid=0001303633)
 5.  [정승 “제 강점은 매서운 눈매예요” \[M+사소한인터뷰-디크런치 편⑥\]](https://m.entertain.naver.com/read?oid=057&aid=0001303983)
-6.
+6.  [2018年11月GAON專輯榜80位](http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=11&hitYear=2018&termGbn=month)
 7.
+8.

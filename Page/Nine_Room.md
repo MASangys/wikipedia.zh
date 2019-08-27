@@ -8,27 +8,32 @@
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 10%" />
-<col style="width: 49%" />
+<col style="width: 38%" />
+<col style="width: 10%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金喜善.md" title="wikilink">金喜善</a></p></td>
 <td><p>乙智海伊</p></td>
 <td><p>能夠改變命運的律師，對有權有勢的人極盡巴結，對沒有勢力的人就相當冷漠，是個不擇手段、勝訴率100%的律師。</p></td>
+<td><p><a href="../Page/程文意.md" title="wikilink">程文意</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金英光.md" title="wikilink">金英光</a></p></td>
 <td><p>奇有鎮</p></td>
 <td><p>名義上為奇世雄的私生子，實為奇山的兒子。乙智海伊的戀人，山海醫院家庭醫學專科的醫生，聰明又溫柔體貼。</p></td>
+<td><p><a href="../Page/羅偉傑.md" title="wikilink">羅偉傑</a></p></td>
 </tr>
 <tr class="even">
 <td><p>奇山</p></td>
 <td><p>真正的奇山，奇世雄的長子。34年前因發現秋榮培偷取金庫現金，在追逐過程從樓梯跌下而死。後被偽裝成秋榮培，嫁禍張華娑成為殺死他的兇手。</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -36,6 +41,7 @@
 <small>（青年：<a href="../Page/鄭侑敏.md" title="wikilink">鄭侑敏</a>）</p></td>
 <td><p>張華娑</p></td>
 <td><p>以「張華娑毒品殺人案」鬧的全國沸沸揚揚，被判死刑的死囚惡女。正當她放棄生命的時候，獲得了美貌與智慧兼具的「乙智海伊」身份活下去的機會。</p></td>
+<td><p><a href="../Page/姜嘉蕾.md" title="wikilink">姜嘉蕾</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -46,28 +52,33 @@
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 10%" />
-<col style="width: 49%" />
+<col style="width: 38%" />
+<col style="width: 10%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/姜信日.md" title="wikilink">姜信日</a></p></td>
 <td><p>乙智成</p></td>
 <td><p>乙智海伊的父親，前檢察官。</p></td>
+<td><p><a href="../Page/楊啟健.md" title="wikilink">楊啟健</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄭石勇.md" title="wikilink">鄭石勇</a></p></td>
 <td><p>姜誠泰</p></td>
 <td><p>實現社會正義律師聚會的律師。</p></td>
+<td><p><a href="../Page/鄧肇基.md" title="wikilink">鄧肇基</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>吳奉森</p></td>
 <td><p>警察。</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -78,18 +89,21 @@
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 10%" />
-<col style="width: 49%" />
+<col style="width: 38%" />
+<col style="width: 10%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>蘇英哲</p></td>
 <td><p>獄醫，奇有鎮的醫大前輩。</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -100,18 +114,21 @@
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 10%" />
-<col style="width: 49%" />
+<col style="width: 38%" />
+<col style="width: 10%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>甘美蘭</p></td>
 <td><p>張華娑在監獄中認識的妹妹，出獄後幫忙照顧張華娑的母親。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃紫嫻" title="wikilink">黃紫嫻</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -122,45 +139,53 @@
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 10%" />
-<col style="width: 49%" />
+<col style="width: 38%" />
+<col style="width: 10%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李璟榮.md" title="wikilink">李璟榮</a><br />
 <small>（青年：<a href="../Page/尹博.md" title="wikilink">尹博</a>）</p></td>
 <td><p>奇山/秋榮培</p></td>
 <td><p>假的奇山，真實身分為秋榮培，為奇世雄私生子，奇山同父異母的弟弟。利用張華娑獲得新人生後就將她完美驅逐，知悉並隱藏過去秘密生活著的反社會人格會長。</p></td>
+<td><p><a href="../Page/黎家希.md" title="wikilink">黎家希</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭帝元" title="wikilink">鄭帝元</a></p></td>
 <td><p>奇燦星</p></td>
 <td><p>秋榮培的兒子，0.01％的天才，但無法控制自己的情緒，擁有父親無限厚愛的「Papa Boy」，是集團唯一的繼承人。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><br />
 <small>（青年：）</p></td>
 <td><p>金惠善</p></td>
 <td><p>秋榮培的妻子，金鐘秀的妹妹。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>朴哲順</p></td>
 <td><p>SHC集團的理事，1984年為安企部對共搜查官，是張華莎案件最初發現人。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/孫炳昊.md" title="wikilink">孫炳昊</a></p></td>
 <td><p>金鐘秀</p></td>
 <td><p>釜山檢查廳長，曾為鍾路警署的強力班班長，1984年為張華莎案件的負責人。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/安奭奐.md" title="wikilink">安奭奐</a></p></td>
 <td><p>奉司達</p></td>
 <td><p>SHC集團旗下山海醫院院長，曾為國科搜的驗屍官，1984年負責解剖秋榮培的屍體。</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -171,39 +196,44 @@
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 10%" />
-<col style="width: 49%" />
+<col style="width: 38%" />
+<col style="width: 10%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>馬賢哲</p></td>
 <td><p>圍牆律師事務所的代表，1984年為負責張華娑一案的國選辯護律師。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/林元熙.md" title="wikilink">林元熙</a></p></td>
 <td><p>方尚秀</p></td>
 <td><p>乙智海伊的助理。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/郑妍周" title="wikilink">郑妍周</a></p></td>
 <td></td>
 <td><p>乙智海伊的助理。</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
 ### 特別出演
 
-|                                                     |        |               |          |
-| --------------------------------------------------- | ------ | ------------- | -------- |
-| **演員**                                              | **角色** | **介紹**        | **出演集數** |
-| [洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink") | 洪錫天    | 餐廳老闆，幫乙智海伊做菜。 | 1、4      |
-| [宋玧妸](../Page/宋玧妸.md "wikilink")                    | 朴妍靜    | 死囚            | 16       |
+|                                                     |        |               |          |                                  |
+| --------------------------------------------------- | ------ | ------------- | -------- | -------------------------------- |
+| **演員**                                              | **角色** | **介紹**        | **出演集數** | **香港配音**                         |
+| [洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink") | 洪錫天    | 餐廳老闆，幫乙智海伊做菜。 | 1、4      | [黎家希](../Page/黎家希.md "wikilink") |
+| [宋玧妸](../Page/宋玧妸.md "wikilink")                    | 朴妍靜    | 死囚            | 16       |                                  |
 
 ## 原聲帶
 

@@ -90,7 +90,7 @@ Toarey</p></td>
 <td><p>4</p></td>
 <td><p><big><strong><a href="../Page/賴煜哲.md" title="wikilink">賴煜哲</a></strong></big><br />
 AJ</p></td>
-<td><p>Lai Yu-zhe</p></td>
+<td><p>Lai Yuzhe</p></td>
 <td><p><a href="../Page/臺北.md" title="wikilink">臺北</a><br />
 </p></td>
 <td><p>180 cm</p></td>
@@ -188,7 +188,7 @@ VIC</p></td>
 <td><p>首張同名EP《BlackACE》</p>
 <ul>
 <li>發行日期：2019年5月31日</li>
-<li>銷售量：118443 (累計至2019年08月01日)</li>
+<li>銷售量：118993 (累計至2019年08月12日)</li>
 </ul></td>
 <td></td>
 </tr>
@@ -211,7 +211,7 @@ VIC</p></td>
 <td><p><strong>備註</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>2019年5月25日</p></td>
+<td><p>2019年5月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/我是大美人" title="wikilink">我是大美人</a></p></td>
 <td><p>芒果TV <a href="../Page/湖南卫视.md" title="wikilink">湖南衛視</a></p></td>
 <td><p>奶茶、AJ、王迪、陳順、龍泓昊</p>
@@ -232,11 +232,31 @@ VIC</p></td>
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>2019年</p></td>
+<td><p>2019年8月6日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/花花萬物2" title="wikilink">花花萬物2</a></p></td>
 <td><p><a href="../Page/优酷.md" title="wikilink">优酷</a></p></td>
 <td><p>全體</p></td>
-<td></td>
+<td><ul>
+<li>固定助理主持為奶茶，另有一名不定期成員共同擔任助理主持。</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月9日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/脫貧攻堅戰星光行動" title="wikilink">脫貧攻堅戰星光行動</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/CCTV-6電影頻道" title="wikilink">CCTV-6電影頻道</a></p></td>
+<td><p>楊桐、奶茶、田書臣、王迪、陳順、龍泓昊</p></td>
+<td><ul>
+<li>趙品霖、AJ未參與節目錄製。</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/超新星全運會" title="wikilink">超新星全運會</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
+<td><p>趙品霖</p></td>
+<td><ul>
+<li>楊桐、奶茶、AJ、田書臣、王迪、陳順、龍泓昊未參與節目錄製。</li>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -263,7 +283,7 @@ VIC</p></td>
 <tr class="even">
 <td><p>2019年</p></td>
 <td><p>03月30日</p></td>
-<td><p>北京</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京</a></p></td>
 <td><p>全體</p></td>
 <td><p>太古里美嘉歡樂影城</p></td>
 <td></td>
@@ -274,7 +294,7 @@ VIC</p></td>
 <tr class="odd">
 <td><p>2019年</p></td>
 <td><p>05月18日</p></td>
-<td><p>蘇州</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/蘇州" title="wikilink">蘇州</a></p></td>
 <td><p>趙品霖</p></td>
 <td></td>
 <td></td>
@@ -285,7 +305,7 @@ VIC</p></td>
 <tr class="even">
 <td><p>2019年</p></td>
 <td><p>07月13日</p></td>
-<td><p>上海</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海</a></p></td>
 <td><p>全體</p></td>
 <td><p>上海國家會展中心虹館EH</p></td>
 <td></td>
@@ -314,7 +334,7 @@ VIC</p></td>
 <tr class="even">
 <td><p>2019年</p></td>
 <td><p>06月8日</p></td>
-<td><p>上海</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海</a></p></td>
 <td><p>AJ、王迪、陳順</p></td>
 <td><p>星空奶茶 奶茶商振博主題生日會</p></td>
 <td><ul>
@@ -328,7 +348,7 @@ VIC</p></td>
 <tr class="odd">
 <td><p>2019年</p></td>
 <td><p>06月29日</p></td>
-<td><p>上海</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海</a></p></td>
 <td></td>
 <td><p>霖聽 趙品霖生日會</p></td>
 <td><ul>
@@ -342,10 +362,12 @@ VIC</p></td>
 <tr class="even">
 <td><p>2019年</p></td>
 <td><p>08月11日</p></td>
-<td><p>上海</p></td>
-<td><p>AJ、奶茶、王迪、陳順、龍泓昊</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海</a></p></td>
+<td><p>奶茶、王迪、陳順、龍泓昊</p></td>
 <td><p>ELLEClub✖️AJ賴煜哲超級生日會</p></td>
-<td></td>
+<td><ul>
+<li>以團出席成員有C-JAY黃鈞澤</li>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -445,16 +467,38 @@ VIC</p></td>
 
 ### 雜誌拍攝
 
-|        |                       |        |          |        |
-| ------ | --------------------- | ------ | -------- | ------ |
-| **年份** | **名稱**                | **期數** | **拍攝成員** | **備註** |
-| 2019年  | STARBOX YOUNG         | 個人特輯   | 楊桐       | 電子雜誌   |
-| 2019年  | ICON-F時尚畫報 INSNAP潮流街拍 | 第31期   | 全體       | 電子雜誌   |
-| 2019年  | 時尚 YA\!               | 第04期   | 全體       | 電子雜誌   |
-| 2019年  | O\!what 偶像志           | 第04期   | 全體       | 電子雜誌   |
-| 2019年  | 瑞麗伊人風尚                | 生日特輯   | 趙品霖      | 實體雜誌   |
-| 2019年  | JSTYLE精美              | 生日特輯   | 趙品霖      | 電子雜誌   |
-| 2019年  | INNATE本像              | 第05期   | 楊桐       | 電子雜誌   |
+|        |                       |         |              |        |
+| ------ | --------------------- | ------- | ------------ | ------ |
+| **年份** | **名稱**                | **期數**  | **拍攝成員**     | **備註** |
+| 2019年  | STARBOX YOUNG         | 個人特輯    | 楊桐           | 電子雜誌   |
+| 2019年  | ICON-F時尚畫報 INSNAP潮流街拍 | 第31期    | 全體           | 電子雜誌   |
+| 2019年  | 時尚 YA\!               | 第04期    | 全體           | 電子雜誌   |
+| 2019年  | O\!what 偶像志           | 第04期    | 全體           | 電子雜誌   |
+| 2019年  | 瑞麗伊人風尚                | 生日特輯    | 趙品霖          | 實體雜誌   |
+| 2019年  | JSTYLE精美              | 生日特輯    | 趙品霖          | 電子雜誌   |
+| 2019年  | INNATE本像              | 第05期    | 楊桐           | 電子雜誌   |
+| 2019年  | K\!ND                 | 夏季刊（副刊） | 趙品霖、楊桐、奶茶、AJ | 電子雜誌   |
+
+## 獎項紀錄
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>年份</strong></p></td>
+<td><p><strong>典禮</strong></p></td>
+<td><p><strong>獎項</strong></p></td>
+<td><p><strong>成員</strong></p></td>
+<td><p><strong>結果</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>華語音樂頒獎盛典</p></td>
+<td><p>草原金雕獎 內地人氣偶像</p></td>
+<td><p>田書臣</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考資料
 

@@ -14,6 +14,8 @@
 
 2019年6月5日公布7月28日[倫敦](https://zh.wikipedia.org/wiki/倫敦 "wikilink")、7月30日[巴黎](../Page/巴黎.md "wikilink")、8月2日[柏林](../Page/柏林.md "wikilink")及8月4日[莫斯科](../Page/莫斯科.md "wikilink")場次。
 
+2019年8月7日公布9月27日[日本](../Page/日本.md "wikilink")場次。
+
 ## 巡迴時間表
 
 <table>
@@ -32,7 +34,7 @@
 <td><p><a href="../Page/曼谷.md" title="wikilink">曼谷</a></p></td>
 <td></td>
 <td></td>
-<td><p>4000+[3]</p></td>
+<td><p>4,000+[3]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年1月26日</p></td>
@@ -60,7 +62,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/馬尼拉" title="wikilink">馬尼拉</a></p></td>
 <td></td>
 <td><p> </p></td>
-<td><p>7000+[4]</p></td>
+<td><p>7,000+[4]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年5月14日</p></td>
@@ -95,7 +97,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/倫敦" title="wikilink">倫敦</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/O2布里克斯頓學院" title="wikilink">O2布里克斯頓學院</a></p></td>
-<td></td>
+<td><p>19,000+[5]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年7月30日</p></td>
@@ -119,10 +121,10 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2019年9月27日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/橫濱" title="wikilink">橫濱</a></p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/橫濱國際平和會議場.md" title="wikilink">橫濱國際平和會議場</a>國立大廳</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -233,7 +235,7 @@
 <tr class="odd">
 <td><p>align="center"; width="600px"| {{Hidden begin</p></td>
 <td><p>titlestyle = background:#d8d8d8; text-align:center;</p></td>
-<td><p>title = 歐洲 }} <strong>Opening VCR－Question + SKZ ANTHEM</strong></p>
+<td><p>title = 歐洲（倫敦、巴黎、柏林、莫斯科） }} <strong>Opening VCR－Question + SKZ ANTHEM</strong></p>
 <ul>
 <li>Intro</li>
 <li>Hellevator</li>
@@ -306,6 +308,7 @@
   - 馬尼拉－PULP Live World、韓亞航空、Ticketnet
   - 美國－SubKulture Entertainment
   - 歐洲－MyMusicTaste
+  - 日本－DISK GARAGE、[ファミリーマート](../Page/FamilyMart.md "wikilink")
 
 ## 註釋與參考資料
 
@@ -334,3 +337,4 @@
 2.
 3.
 4.
+5.

@@ -8,7 +8,7 @@
 
 ## 出演者
 
-  - （、）
+  - （[中岡創一](https://zh.wikipedia.org/wiki/中岡創一 "wikilink")、）
 
   - [NGT48](../Page/NGT48.md "wikilink")
 

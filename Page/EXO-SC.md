@@ -8,6 +8,8 @@
 
 7月22日，EXO-SC發行了首張迷你專輯《What A Life》。發行當天，專輯登上了46個國家的iTunes Top Albums Charts第一名，亦在中國的QQ音樂專輯榜拿下第一名，在南韓國内的HOTTRACKS、Synnara、Yes24等代表性網站上也同樣榮登當日銷量冠軍寶座\[4\]。同日，EXO-SC也在首爾麻浦區MUV HALL舉行了出道Showcase\[5\]。
 
+8月2日在[音樂銀行上以](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")《What A Life》一曲獲得EXO-SC出道第一個一位。
+
 ## 成員列表
 
 | 成員列表\[6\]                                    |
@@ -22,18 +24,21 @@
 ### 迷你專輯
 
 <table>
+<thead>
+<tr class="header">
+<th><p>專輯</p></th>
+<th><p>專輯資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
 <tbody>
 <tr class="odd">
-<td><p>專輯</p></td>
-<td><p>專輯資料</p></td>
-<td><p>曲目</p></td>
-</tr>
-<tr class="even">
-<td><p><strong>1st</strong></p></td>
+<td><p>1st</p></td>
 <td><p>《<strong>What A Life</strong>》</p>
 <ul>
 <li>發行日期：2019年7月22日</li>
 <li>語言：韓語</li>
+<li>專輯銷量: 364,589+[7]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -44,21 +49,67 @@
 
 ### 音樂錄影帶
 
-|       |               |                        |               |
-| ----- | ------------- | ---------------------- | ------------- |
 | 年份    | 發佈日期          | 歌曲名稱                   | 專輯            |
+| ----- | ------------- | ---------------------- | ------------- |
 | 2019年 | 7月19日         | Just Us 2 (feat.Gaeko) | 《What A Life》 |
 | 7月22日 | What a life   |                        |               |
 | 7月25日 | Closer to you |                        |               |
+
+## 影音作品
+
+### 寫真雜誌
+
+| 期數              | 雜誌名稱      | 備註 |
+| --------------- | --------- | -- |
+| 2019年Fall Issue | SuperELLE | 封面 |
 
 ## 演唱會
 
   - EXO-SC出道Showcase
 
-|            |     |               |
-| ---------- | --- | ------------- |
 | 日期         | 場次  | 地點            |
+| ---------- | --- | ------------- |
 | 2019年7月22日 | 首爾站 | 首爾麻浦區MUV HALL |
+
+## 獎項
+
+### 音樂節目獎項
+
+| 年份    | 日期   | 電視臺                                                      | 節目名稱                                                              | 獲獎歌曲        | 排名 |
+| ----- | ---- | -------------------------------------------------------- | ----------------------------------------------------------------- | ----------- | -- |
+| 2019年 | 8月2日 | [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink") | What A Life | 1位 |
+
+### 主要音樂節目榜單排名
+
+<table>
+<thead>
+<tr class="header">
+<th><p>主打歌曲成績</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>專輯</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+</tr>
+<tr class="odd">
+<td><p>What A Life</p></td>
+</tr>
+<tr class="even">
+<td><ul>
+<li>「/」表示未有相關資料</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+| 各台冠軍歌曲獎座統計                           |
+| ------------------------------------ |
+| [Mnet](../Page/Mnet媒體.md "wikilink") |
+| 0                                    |
+| 一位總數：1                               |
 
 ## 參考資料
 
@@ -72,3 +123,4 @@
 4.
 5.
 6.
+7.  [2019.07](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2019&termGbn=month)

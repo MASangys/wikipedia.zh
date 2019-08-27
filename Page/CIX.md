@@ -1,4 +1,4 @@
-**CIX**（韓語：**씨아이엑스**），為韓國[C9娛樂旗下的五人男子團體](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")。成員包括[BX](../Page/李炳坤.md "wikilink")、[昇勳](../Page/金昇勳.md "wikilink")、[龍熙](https://zh.wikipedia.org/wiki/金龍熙 "wikilink")、[珍映及炫晳](https://zh.wikipedia.org/wiki/裴珍映 "wikilink")。2019年7月23日以第一張迷你專輯《HELLO》主打曲《Movie Star》正式出道。
+**CIX**（韓語：**씨아이엑스**），為韓國[C9娛樂旗下的五人男子團體](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")。成員包括[BX](../Page/李炳坤.md "wikilink")、[昇勳](../Page/金昇勳.md "wikilink")、[龍熙](https://zh.wikipedia.org/wiki/金龍熙 "wikilink")、[珍映及](https://zh.wikipedia.org/wiki/裴珍映 "wikilink")[炫晳](https://zh.wikipedia.org/wiki/尹炫晳 "wikilink")。2019年7月23日以第一張迷你專輯《HELLO》主打曲《Movie Star》正式出道。
 
 團體口號為：「In X\!大家好，我們是CIX。」
 
@@ -7,10 +7,6 @@
 團名CIX，全名「**C**omplete **I**n **X**」，代表五名充滿未知的少年走到一起才成為一個整體，即「未知數的完成」。
 
 ## 成員資料
-
-### 成員列表
-
-  - 粗體字為隊長。
 
 | 成員列表                                |
 | ----------------------------------- |
@@ -21,7 +17,7 @@
 | 龍熙                                  |
 | [珍映](../Page/裵珍映.md "wikilink")     |
 | 炫晳                                  |
-| 世訓                                  |
+|                                     |
 
 ## 活動經歷
 
@@ -35,7 +31,7 @@
 
 ### 出道前
 
-2019年2月26日起，公告團體暫名及成員，順序如下：裵珍映、昇勳、炫晳、金世訓、龍熙、BX。
+2019年2月26日起，公告團體暫名及成員，順序如下：珍映、昇勳、炫晳、世訓、龍熙、BX。
 
 2019年4月4日，C9娛樂回應網上傳聞，確認金世訓高中二年級時，在學校曾有不當行為，但亦指出有部分誇大不實，由於事件具有爭議性，金世訓自願退出組合。\[4\]\[5\]
 
@@ -69,7 +65,7 @@
 <li>發行日期 ：2019年7月23日</li>
 <li>語言：韓語</li>
 <li>類型：K-POP</li>
-<li>銷量：</li>
+<li>銷量：43,408+ [8]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -87,18 +83,89 @@
 
 ### 綜藝節目
 
-| 日期                      | 频道                                                                | 名稱                                                                         | 參與成員                                                                                                    | 備註       |
-| ----------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- | -------- |
-| 出道前                     |                                                                   |                                                                            |                                                                                                         |          |
-| 2017年4月7日－2017年6月16日    | Mnet                                                              | [PRODUCE 101](../Page/PRODUCE_101_第二季.md "wikilink")                       | [珍映](https://zh.wikipedia.org/wiki/:裵珍映 "wikilink")                                                     | EP1-EP11 |
-| 2017年11月21日－2017年11月28日 | Mnet                                                              | [Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink") | [昇勳](https://zh.wikipedia.org/wiki/:金昇勳 "wikilink")                                                     | EP6\~7   |
-| 2017年10月29日－2018年1月26日  | JTBC                                                              | [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")                | [BX](https://zh.wikipedia.org/wiki/:李炳坤 "wikilink")                                                     |          |
-| 2018年11月6日－2019年1月18日   | Vlive、[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink") | [YG寶石盒](../Page/YG寶石盒.md "wikilink")                                       | [BX](https://zh.wikipedia.org/wiki/:李炳坤 "wikilink")、[昇勳](https://zh.wikipedia.org/wiki/:金昇勳 "wikilink") |          |
-| 出道後                     |                                                                   |                                                                            |                                                                                                         |          |
-| 2019年7月24日              | [MBC every1](https://zh.wikipedia.org/wiki/MBC_every1 "wikilink") | [一週的偶像](https://zh.wikipedia.org/wiki/一週的偶像 "wikilink")                    | 全員                                                                                                      |          |
-| 2019年7月28日              | [Channel A](../Page/Channel_A.md "wikilink")                      | [為什麼來我家 (韓國綜藝)](../Page/為什麼來我家_\(韓國綜藝\).md "wikilink")                     | 全員                                                                                                      |          |
-| 2019年7月29日              | Vlive X OSEN                                                      | [Star Road](https://zh.wikipedia.org/wiki/Star_Road "wikilink")            | 全員                                                                                                      |          |
-| 2019年7月30日              | STARK                                                             | [IDOL LEAGUE](https://zh.wikipedia.org/wiki/IDOL_LEAGUE "wikilink")        | 全員                                                                                                      |          |
+<table>
+<thead>
+<tr class="header">
+<th><p>日期</p></th>
+<th><p>频道</p></th>
+<th><p>名稱</p></th>
+<th><p>參與成員</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>出道前</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年4月7日－2017年6月16日</p></td>
+<td><p>Mnet</p></td>
+<td><p><a href="../Page/PRODUCE_101_第二季.md" title="wikilink">PRODUCE 101</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:裵珍映" title="wikilink">珍映</a></p></td>
+<td><p>EP1-EP11</p></td>
+</tr>
+<tr class="odd">
+<td><p>2017年11月21日－2017年11月28日</p></td>
+<td><p>Mnet</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Stray_Kids_(電視節目)" title="wikilink">Stray Kids</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:金昇勳" title="wikilink">昇勳</a></p></td>
+<td><p>EP6~7</p></td>
+</tr>
+<tr class="even">
+<td><p>2017年10月29日－2018年1月26日</p></td>
+<td><p>JTBC</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MIXNINE" title="wikilink">MIXNINE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:李炳坤" title="wikilink">BX</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年11月6日－2019年1月18日</p></td>
+<td><p>Vlive、<a href="https://zh.wikipedia.org/wiki/Youtube" title="wikilink">Youtube</a></p></td>
+<td><p><a href="../Page/YG寶石盒.md" title="wikilink">YG寶石盒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/:李炳坤" title="wikilink">BX</a>、<a href="https://zh.wikipedia.org/wiki/:金昇勳" title="wikilink">昇勳</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>出道後</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年7月24日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/一週的偶像" title="wikilink">一週的偶像</a></p></td>
+<td><p>全員</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年7月28日</p></td>
+<td><p><a href="../Page/Channel_A.md" title="wikilink">Channel A</a></p></td>
+<td><p><a href="../Page/為什麼來我家_(韓國綜藝).md" title="wikilink">為什麼來我家 (韓國綜藝)</a></p></td>
+<td><p>全員</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年7月29日</p></td>
+<td><p>Vlive X OSEN</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Star_Road" title="wikilink">Star Road</a></p></td>
+<td><p>全員</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年7月30日</p></td>
+<td><p>STARK</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/IDOL_LEAGUE" title="wikilink">IDOL LEAGUE</a></p></td>
+<td><p>全員</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 電台
 
@@ -125,8 +192,8 @@
 
 | 年份    | |作品名稱                   | |期數 |
 | ----- | ----------------------- | --- |
-| 2019年 | 《Ｗ Korea magazine》\[8\] | 7月號 |
-| 2019年 | 《Arena Homme+》\[9\]     | 8月號 |
+| 2019年 | 《Ｗ Korea magazine》\[9\] | 7月號 |
+| 2019年 | 《Arena Homme+》\[10\]    | 8月號 |
 
 ## 獎項
 
@@ -198,3 +265,4 @@
 7.
 8.
 9.
+10.

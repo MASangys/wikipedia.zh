@@ -79,6 +79,7 @@ Google相机应用程序最初为开放安卓生态使用，之后随Pixel系列
 | [Pixel & Pixel XL](../Page/Pixel_\(智能手机\).md "wikilink") | 2016-10 | Snapdragon 821 |
 | [Pixel 2 & Pixel 2 XL](../Page/Pixel_2.md "wikilink")    | 2017-10 | Snapdragon 835 |
 | [Pixel 3 & Pixel 3 XL](../Page/Pixel_3.md "wikilink")    | 2018-10 | Snapdragon 845 |
+| [Pixel 3a & Pixel 3a XL](../Page/Pixel_3a.md "wikilink") | 2019-5  | Snapdragon 670 |
 
 Google Camera支持机型\[22\]
 

@@ -37,7 +37,7 @@
 <td><p>中國戰俘，體型肥胖，稍一動作就氣喘如牛，想藉練舞減肥。</p></td>
 </tr>
 <tr class="even">
-<td><p>Jared Grimes</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賈里德·格里米斯" title="wikilink">賈里德·格里米斯</a></p></td>
 <td><p>Jackson</p></td>
 <td><p>教導戰俘踢踏舞的美國黑人士官。派駐日本時交了一位日本女友，心心念念想再到日本去娶她。</p></td>
 </tr>

@@ -1,16 +1,16 @@
 《**FANCY YOU**》是由[JYP娛樂](../Page/JYP娛樂.md "wikilink")製作，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE於](https://zh.wikipedia.org/wiki/TWICE "wikilink")2019年4月22日推出的第七張韓語迷你專輯\[1\]\[2\]，主打歌〈FANCY〉由先前創作〈[Like OOH-AHH](https://zh.wikipedia.org/wiki/The_Story_Begins "wikilink")〉和〈[CHEER UP](https://zh.wikipedia.org/wiki/Page_Two_\(TWICE迷你專輯\) "wikilink")〉的[黑眼必勝](../Page/黑眼必勝.md "wikilink")製作，除了黑眼必勝，和[查莉·XCX](../Page/查莉·XCX.md "wikilink")也參與了專輯製作\[3\]\[4\]。
 
-《FANCY YOU》在商業上取得相當亮眼的成績，在韓國首週銷量超過15萬份，是第一個有此紀錄的韓國女子團體\[5\]\[6\]。
+《FANCY YOU》在商業上取得相當亮眼的成績，在韓國首週銷量超過15萬份，是首個有此紀錄的韓國女子團體\[5\]\[6\]。
 
 ## 背景
 
-2019年2月中旬，Mydaily報導[TWICE於近日拍攝完音樂錄影帶](https://zh.wikipedia.org/wiki/TWICE "wikilink")，團隊正在製作4月的回歸專輯\[7\]。2019年4月，[JYP娛樂](../Page/JYP娛樂.md "wikilink")發佈第七張韓語迷你專輯《FANCY YOU》將在4月22日推出，以及TWICE會在5月於9个城市展開世界巡演\[8\]\[9\]。
+2019年2月中旬，Mydaily報導[TWICE於近日拍攝完音樂錄影帶](https://zh.wikipedia.org/wiki/TWICE "wikilink")，團隊正在製作4月的回歸專輯\[7\]。2019年4月，[JYP娛樂](../Page/JYP娛樂.md "wikilink")發佈第七張韓語迷你專輯《FANCY YOU》將在4月22日推出，以及TWICE會在5月開始於9個城市展開世界巡演\[8\]\[9\]。
 
 ## 製作
 
 專輯收錄6首歌曲\[10\]。主打歌〈FANCY〉由[黑眼必勝](../Page/黑眼必勝.md "wikilink")製作，是一首有著浪漫情調的流行樂曲\[11\]，成員的演唱部分在錄製過程中經歷多次大幅度的更動\[12\]。〈FANCY〉與先前的主打不同，展現成員從未有過充滿魅惑和成熟帥氣的面貌，也有表達「TWICE也能展現這樣的樣貌」的涵義\[13\]。
 
-成員[志效](../Page/志效.md "wikilink")為第三首收錄曲〈GIRLS LIKE US〉填詞，而[MOMO](https://zh.wikipedia.org/wiki/平井桃 "wikilink")、[Sana](https://zh.wikipedia.org/wiki/湊崎紗夏 "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink")也分別參與〈HOT〉、〈TURN IT UP〉以及〈STRAWBERRY〉的填詞工作\[14\]\[15\]。志效曾透露自己創作的〈GIRLS LIKE US〉，是希望能夠給「在逐夢過程中想要放棄」的人們鼓勵\[16\]。〈TURN IT UP〉是Sana想著粉絲完成歌詞創作\[17\]。
+成員[志效](../Page/志效.md "wikilink")為第三首收錄曲〈GIRLS LIKE US〉填詞，而[MOMO](https://zh.wikipedia.org/wiki/平井桃 "wikilink")、[SANA](https://zh.wikipedia.org/wiki/湊崎紗夏 "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink")也分別參與〈HOT〉、〈TURN IT UP〉以及〈STRAWBERRY〉的填詞工作\[14\]\[15\]。志效曾透露自己創作的〈GIRLS LIKE US〉，是希望能夠給「在逐夢過程中想要放棄」的人們鼓勵\[16\]。〈TURN IT UP〉是SANA想著粉絲完成歌詞創作\[17\]。
 
 ## 發行
 
@@ -140,7 +140,7 @@
 | -------------------------------------------- | -------- | ------------ |
 | 總計                                           |          |              |
 | [Oricon公信榜](../Page/Oricon公信榜.md "wikilink") | 99,848份  | \[57\]\[58\] |
-| [Gaon音乐榜](../Page/Gaon音乐榜.md "wikilink")     | 353,883份 | \[59\]       |
+| [Gaon音乐榜](../Page/Gaon音乐榜.md "wikilink")     | 371,089份 | \[59\]       |
 
 ## 備註
 

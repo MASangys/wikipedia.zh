@@ -8,6 +8,12 @@
 
 三星於4月26日宣佈旗下最新旗艦智慧手機Galaxy S10在[南韓銷量已突破](https://zh.wikipedia.org/wiki/南韓 "wikilink")100萬，Galaxy S10成為最快達到這個里程碑的Galaxy裝置。\[9\]
 
+## 意外事故
+
+2019年5月1日，根據外媒消息，一位李姓的[韓國用戶上載了數張](https://zh.wikipedia.org/wiki/韓國 "wikilink") Galaxy S10 5G 爆炸後的圖片，並宣稱這部手機在放到桌面上無故自燃，這使得手機的正與背面都有燃燒過的痕跡，而玻璃機身也碎了。根據當事人描述，當他拿起手機後因手機太燙而將它跌到地面。時候這位受害者將這部手機交給官方調查，而三星在調查後拒絕賠償，認為這起事故是人為所致。根據 Samsung 官方發文，他們已對這部被稱為"自燃" 的手機進行了外部檢查以及 X-ray 掃描，並發現外部受損的痕跡相當明顯，而官方也找不到產品自身的缺陷，最終判定這起意外是受到外來因素所造成的\[10\]。
+
+2019年6月29日，根據微博老回的爆料，在5月26日，有一位中國消費者在京東自營渠道購買了 Samsung Galaxy S10，但是根據該消費者的說法，該手機剛用了一天就無法充電，最後就冒煙炸裂了。雖然事後手機殘骸被 Samsung 售後收走後，等待一個多月，卻沒有任何關於官方的消息，最終選擇了網絡曝光\[11\]。
+
 ## 參考資料
 
 [Category:三星Galaxy](https://zh.wikipedia.org/wiki/Category:三星Galaxy "wikilink") [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink") [Category:平板手機](https://zh.wikipedia.org/wiki/Category:平板手機 "wikilink") [Category:全螢幕手機](https://zh.wikipedia.org/wiki/Category:全螢幕手機 "wikilink") [Category:2019年面世的手機](https://zh.wikipedia.org/wiki/Category:2019年面世的手機 "wikilink")
@@ -21,3 +27,5 @@
 7.
 8.
 9.  [史上最賣　三星S10銷量不到2個月破百萬](https://tw.appledaily.com/new/realtime/20190426/1557132/)2019/04/26 台灣蘋果日報
+10. [揮不去的陰影？ Samsung Galaxy S10 5G 在韓國發生首宗爆炸案例；官方調查後稱是外力所致！](http://www.vtechgraphy.com/android/%E6%8F%AE%E4%B8%8D%E5%8E%BB%E7%9A%84%E9%99%B0%E5%BD%B1%EF%BC%9F-samsung-galaxy-s10-5g-%E5%9C%A8%E9%9F%93%E5%9C%8B%E7%99%BC%E7%94%9F%E9%A6%96%E5%AE%97%E7%88%86%E7%82%B8%E6%A1%88%E4%BE%8B%EF%BC%9B/)
+11. [Galaxy S10 慘烈爆炸，官方收走手機就不回應了](https://tw.news.yahoo.com/galaxy-s10-%E6%85%98%E7%83%88%E7%88%86%E7%82%B8-%E5%AE%98%E6%96%B9%E6%94%B6%E8%B5%B0%E6%89%8B%E6%A9%9F%E5%B0%B1%E4%B8%8D%E5%9B%9E%E6%87%89%E4%BA%86-045856944.html)

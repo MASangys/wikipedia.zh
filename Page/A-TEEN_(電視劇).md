@@ -27,7 +27,7 @@
 <td><p>河玟</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/申承浩" title="wikilink">申承浩</a></p></td>
+<td><p><a href="../Page/申承浩.md" title="wikilink">申承浩</a></p></td>
 <td><p>南時宇</p></td>
 </tr>
 <tr class="odd">

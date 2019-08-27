@@ -10,7 +10,7 @@
 
 该频道视频的一个常见主题是[鸡蛋及相关的破坏](https://zh.wikipedia.org/wiki/鸡蛋 "wikilink")，因此该频道及系列视频也被网友称之为“鸡蛋狂魔”。频道的许多视频中包含一个常用的通常出现在故事结尾的，一个男人在镜头面前[竖起大拇指](https://zh.wikipedia.org/wiki/拇指 "wikilink")（有时则是[手指槍](../Page/手指槍.md "wikilink")或[豎中指](../Page/豎中指.md "wikilink")），同时镜头对准其所创造的混乱场面。
 
-2018年3月24日，HowToBasic发布了一个看似“露脸”的视频。不过，这个视频实际是[戲仿流行的YouTuber声称自己是该频道创作者的一个汇编](https://zh.wikipedia.org/wiki/戲仿 "wikilink")，并继续维持了创作者的匿名性。该视频中的客串人物超过80人，包括[Vsauce](../Page/Vsauce.md "wikilink")的[麥可·史蒂文斯](../Page/麥可·史蒂文斯.md "wikilink")，[Markiplier](../Page/Markiplier.md "wikilink")、[凱西·奈斯塔特](../Page/凱西·奈斯塔特.md "wikilink")、[杰克·道格拉斯](../Page/杰克·道格拉斯.md "wikilink")、、和[波斯特·马龙](../Page/波斯特·马龙.md "wikilink")。 \[5\] \[6\]
+2018年3月24日，HowToBasic发布了一个看似“露脸”的视频。不过，这个视频实际是[戲仿流行的YouTuber声称自己是该频道创作者的一个汇编](https://zh.wikipedia.org/wiki/戲仿 "wikilink")，并继续维持了创作者的匿名性。该视频中的客串人物超过80人，包括[Vsauce](../Page/Vsauce.md "wikilink")的[麥可·史蒂文斯](../Page/麥可·史蒂文斯.md "wikilink")、[Maxmoefoe](https://zh.wikipedia.org/wiki/Maxmoefoe "wikilink")、[Markiplier](../Page/Markiplier.md "wikilink")、[凱西·奈斯塔特](../Page/凱西·奈斯塔特.md "wikilink")、[杰克·道格拉斯](../Page/杰克·道格拉斯.md "wikilink")、、和[波斯特·马龙](../Page/波斯特·马龙.md "wikilink")。 \[5\] \[6\]
 
 ## 流行文化
 

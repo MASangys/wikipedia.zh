@@ -98,7 +98,7 @@
 <tr class="odd">
 <td><p>新田康介</p></td>
 <td><p>森永悠希</p></td>
-<td><p>森下葵葵的男朋友，職業是國中老師。有連續強姦的前科，常常強姦女人後將視頻分享到網路上供人觀賞。</p></td>
+<td><p>森下葵的男朋友，職業是國中老師，表面上看起來文弱書生且怕生。實際上有連續強姦的前科，常常強姦女人時錄製影片或直播，且之後將影片分享到網路上供人觀賞。</p></td>
 </tr>
 </tbody>
 </table>
@@ -109,8 +109,85 @@
 | ------ | ------ | --------------------------------------------------- |
 | **角色** | **演員** | **介紹**                                              |
 | 田丸     | 後藤剛範   | 協助新田棄屍的男性。                                          |
-| 野沢     | 池田一真   |                                                     |
+| 野沢     | 池田一真   | 曾經因犯罪而被捕，告知樋口彰吾在高速公路旁，有一條可以避開收費站和收費站監視器的「密道」。       |
 | 大森茂之   | 森廉     | 以森下葵私密的DV影片引誘並綁架森下葵，但後來被同夥殺害後布置成燒炭自殺，但被樋口彰吾一眼識破是他殺。 |
+
+### 第4集
+
+<table style="width:60%;">
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 15%" />
+<col style="width: 32%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>小牧</p></td>
+<td><p>大地洋輔<br />
+（）</p></td>
+<td><p>過去曾違反無線電相關法令而入獄，目前則是幫助樋口彰吾反竊聽新田康介的無線電頻道。</p></td>
+</tr>
+</tbody>
+</table>
+
+### 第5集
+
+<table style="width:60%;">
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 36%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>一ノ瀬歩</p></td>
+<td><p>正垣湊都</p></td>
+<td><p>被收養的男孩；因為被收養所以不知道原本的姓氏。</p></td>
+</tr>
+<tr class="odd">
+<td><p>一ノ瀬奈央</p></td>
+<td><p>ソニン</p></td>
+<td><p>港區中央住宅區G棟502號房的住戶，一ノ瀬歩的<a href="https://zh.wikipedia.org/wiki/養母" title="wikilink">養母</a>。<br />
+由於自己常受到<a href="https://zh.wikipedia.org/wiki/養父" title="wikilink">養父荒木真司的虐待</a>，讓她心理產生陰影而每天都虐待一ノ瀬歩。</p></td>
+</tr>
+<tr class="even">
+<td><p>一ノ瀬悟</p></td>
+<td><p>山本佳志</p></td>
+<td><p>一ノ瀬奈央的丈夫，同時也是一ノ瀬歩的<a href="https://zh.wikipedia.org/wiki/養父" title="wikilink">養父</a>。<br />
+在案發前一個月失蹤，但實際上是被荒木信二殺害。</p></td>
+</tr>
+<tr class="odd">
+<td><p>荒木信二</p></td>
+<td><p>諏訪太朗</p></td>
+<td><p>港區中央住宅區的警衛；一ノ瀬奈央的<a href="https://zh.wikipedia.org/wiki/養父" title="wikilink">養父</a>。住在G棟503號房。在請樋口彰吾喝的麥茶中加入<a href="../Page/肌肉鬆弛劑.md" title="wikilink">肌肉鬆弛劑</a>，並計畫引導樋口彰吾至機房後殺害，但未能成功而被逮捕。</p></td>
+</tr>
+<tr class="even">
+<td><p>瀬戸</p></td>
+<td><p>水澤紳吾</p></td>
+<td><p>幫助樋口彰吾得到各種情報的人物。</p></td>
+</tr>
+<tr class="odd">
+<td><p>鈴本友恵</p></td>
+<td><p>宮田ともか</p></td>
+<td><p>港區中央住宅區A棟303號房的家庭主婦。最初被懷疑是虐童案嫌疑人。</p></td>
+</tr>
+<tr class="even">
+<td><p>鈴本康太</p></td>
+<td><p>齋藤潤</p></td>
+<td><p>鈴本友恵的兒子。</p></td>
+</tr>
+</tbody>
+</table>
 
 ### 其他角色
 

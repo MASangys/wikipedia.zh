@@ -1,4 +1,4 @@
-**ONE Team Esports** 前身為**Samsung Taiwan Esports (**成立於2017年7月26日)，現況由[國泰金控獨家贊助](https://zh.wikipedia.org/wiki/國泰金控 "wikilink")\[1\]，自2018年7月1日起，正式更名為**ONE Team Esports**。團隊理念：我們相信在傳說戰場上，團結是贏得勝利的關鍵。
+**ONE Team Esports** 前身為**Samsung Taiwan Esports (**成立於2017年7月26日)，現況由[國泰金控獨家贊助](https://zh.wikipedia.org/wiki/國泰金控 "wikilink")\[1\]，自2018年7月1日起，正式更名為**ONE Team Esports**。團隊理念：我們相信在傳說戰場上，團結是贏得勝利的關鍵。 ONE眾一心，Team身而出 ONE Team我挺
 
 ## 傳說對決
 
@@ -30,7 +30,7 @@
 
   - 2019 AWC世界大賽（Arena of Valor World Cup）臺灣外卡隊
       - 教練：ONE_Ting
-      - 選手：ONE_Kid (凱薩)、ONE_XianYo (打野)、ONE_Hualin (中路)、ONE_Tura (魔龍)、ONE_Fanta (輔助)、ONE_YuXiao (凱薩)
+      - 選手：ONE_KID (凱薩)、ONE_XianYo (打野)、ONE_Hualin (中路)、ONE_Tura (魔龍)、ONE_Fanta (輔助)、ONE_YuXiao (凱薩)
       - 成果：八強
 
 ### 隊伍名單
@@ -54,44 +54,44 @@
 <td><p>前S.T魔龍輸出</p></td>
 </tr>
 <tr class="even">
+<td><p>ONE_Xin</p></td>
+<td><p>分析師</p></td>
+<td></td>
+<td><p>前<a href="https://zh.wikipedia.org/wiki/AHQ" title="wikilink">AHQ魔龍輸出</a></p></td>
+</tr>
+<tr class="odd">
 <td><p>ONE_XianYo</p></td>
-<td><p>打野、魔龍輸出</p></td>
+<td><p>打野、凱薩</p></td>
 <td></td>
 <td><p>前S.T打野</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>ONE_HuaLin</p></td>
-<td><p>中路、打野、凱撒</p></td>
+<td><p>中路、魔龍輸出</p></td>
 <td></td>
 <td><p>前S.T中路</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ONE_Fanta</p></td>
 <td><p>魔龍輔助</p></td>
 <td></td>
 <td><p>前<a href="https://zh.wikipedia.org/wiki/AHQ" title="wikilink">AHQ打野</a></p></td>
 </tr>
-<tr class="odd">
-<td><p>ONE_Yuxiao</p></td>
-<td><p>凱撒、魔龍輔助</p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
-<td><p>ONE_Xin</p></td>
-<td><p>魔龍輔助、魔龍輸出</p></td>
+<td><p>ONE_YuXiao</p></td>
+<td><p>打野、魔龍輸出</p></td>
 <td></td>
-<td><p>前<a href="https://zh.wikipedia.org/wiki/AHQ" title="wikilink">AHQ魔龍輸出</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>ONE_Tura</p></td>
-<td><p>打野、凱撒</p></td>
+<td><p>打野、凱薩、中路、魔龍輸出</p></td>
 <td></td>
 <td><p>校園傳說2018 S2冠軍隊伍成員</p></td>
 </tr>
 <tr class="even">
-<td><p>ONE_Kid</p></td>
-<td><p>魔龍輸出</p></td>
+<td><p>ONE_KID</p></td>
+<td><p>凱薩、魔龍輸出</p></td>
 <td></td>
 <td><p>前<a href="https://zh.wikipedia.org/wiki/AHQ" title="wikilink">AHQ魔龍輸出</a></p></td>
 </tr>
@@ -120,13 +120,13 @@
 <td><p>S.T Ray</p></td>
 <td><p>魔龍輔助、打野</p></td>
 <td></td>
-<td></td>
+<td><p>現<a href="../Page/SMG戰隊.md" title="wikilink">SMG戰隊</a>魔龍輔助</p></td>
 </tr>
 <tr class="even">
 <td><p>S.T Scott</p></td>
 <td><p>魔龍輔助</p></td>
 <td></td>
-<td></td>
+<td><p>前S.T輔助</p></td>
 </tr>
 <tr class="odd">
 <td><p>S.T Ben</p></td>
@@ -150,7 +150,7 @@
 <td><p>ONE_DinDin</p></td>
 <td><p>魔龍輸出</p></td>
 <td></td>
-<td><p>前<a href="../Page/SMG戰隊.md" title="wikilink">SMG戰隊</a>魔龍輸出選手</p></td>
+<td><p>前<a href="../Page/SMG戰隊.md" title="wikilink">SMG戰隊</a>魔龍輸出</p></td>
 </tr>
 <tr class="odd">
 <td><p>ONE_Aydan</p></td>
@@ -166,14 +166,14 @@
 </tr>
 <tr class="odd">
 <td><p>ONE_Lover</p></td>
-<td><p>凱撒</p></td>
+<td><p>凱蕯</p></td>
 <td></td>
-<td><p>前S.T凱薩路</p></td>
+<td><p>前S.T凱薩</p></td>
 </tr>
 </tbody>
 </table>
 
-## 參考資料
+## 參考來源
 
 [Category:台湾电子竞技团队](https://zh.wikipedia.org/wiki/Category:台湾电子竞技团队 "wikilink")
 

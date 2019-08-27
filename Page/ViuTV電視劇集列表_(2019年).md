@@ -176,6 +176,21 @@ Cross</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
+<tr class="odd">
+<td style="text-align: center;"><p>13/09-<br />
+11/10</p></td>
+<td style="text-align: center;"><p><a href="../Page/Misty.md" title="wikilink">謎霧殺機</a><br />
+Misty</p></td>
+<td style="text-align: center;"><p>20</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/now劇集台" title="wikilink">now劇集台播出時名為</a>《Misty》<br />
+外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
 
@@ -418,6 +433,20 @@ Encounter</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
+<tr class="even">
+<td style="text-align: center;"><p>02/09-<br />
+30/09</p></td>
+<td style="text-align: center;"><p><a href="../Page/我的ID是江南美人.md" title="wikilink">我的ID是江南美人</a><br />
+My ID is Gangnam Beauty</p></td>
+<td style="text-align: center;"><p>21</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2019年).md" title="wikilink">2019年now劇集台劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
 
@@ -517,8 +546,9 @@ The Republic</p></td>
 <td style="text-align: center;"><p><a href="../Page/黃秋生.md" title="wikilink">黃秋生</a>、<a href="../Page/楊淇_(香港演員).md" title="wikilink">楊　淇</a>、<a href="../Page/吳綺莉.md" title="wikilink">吳綺莉</a>、<br />
 <a href="../Page/王敏奕.md" title="wikilink">王敏奕</a>、、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<br />
 <a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、<a href="../Page/麥芷誼.md" title="wikilink">麥芷誼</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳翹英" title="wikilink">陳翹英</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳翹英" title="wikilink">陳翹英</a><br />
+<a href="https://zh.wikipedia.org/wiki/譚惠貞" title="wikilink">譚惠貞</a></p></td>
+<td style="text-align: center;"><p><a href="http://viu.tv/encore/the-republic">網頁</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -531,7 +561,12 @@ Sky Castle</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2019年).md" title="wikilink">2019年now劇集台劇集</a></span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>）</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>）<br />
+8月22日至9月6日期間每集播映前，將會播映由ViuTV製作的前奏節目《貼地城堡》<br />
+（主演：<br />
+<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="../Page/唐浩然.md" title="wikilink">唐浩然</a>、<a href="../Page/周漢寧.md" title="wikilink">周漢寧</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/程仁富" title="wikilink">程仁富</a>、<a href="https://zh.wikipedia.org/wiki/鍾雪瑩" title="wikilink">鍾雪瑩</a>、<a href="https://zh.wikipedia.org/wiki/鄧麗英" title="wikilink">鄧麗英</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/盧蓁宜" title="wikilink">盧蓁宜</a>、<a href="https://zh.wikipedia.org/wiki/麥可怡" title="wikilink">麥可怡</a>、<a href="../Page/余家溢.md" title="wikilink">余家溢</a>）</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -794,6 +829,20 @@ Uncontrollably Fond</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
+<tr class="even">
+<td style="text-align: center;"><p>18/09-<br />
+08/10</p></td>
+<td style="text-align: center;"><p><a href="../Page/Single_Wife.md" title="wikilink">單親妻</a><br />
+Single Wife</p></td>
+<td style="text-align: center;"><p>12</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">2018年ViuTV劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a>）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
 
@@ -902,12 +951,10 @@ Gu Family</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：2013年now 101台劇集</span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>），2月2日暫停播映 &lt;!--|-</p></td>
-<td style="text-align: center;"><p>25/05-<br />
-10/08</p></td>
-<td style="text-align: center;"><p><a href="../Page/Single_Wife.md" title="wikilink">單親妻</a><br />
-Single Wife</p></td>
-<td style="text-align: center;"><p>12</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>），2月2日暫停播映</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -1231,6 +1278,19 @@ Tokyo Sentimental Special</p></td>
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">2018年ViuTV劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>），播映時間為04:30-05:45</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>31/08</p></td>
+<td style="text-align: center;"><p><a href="../Page/大叔的愛.md" title="wikilink">大叔的愛 特別篇</a><br />
+Ossan's Love 2016</p></td>
+<td style="text-align: center;"><p>1</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>），播映時間為20:30-21:30</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

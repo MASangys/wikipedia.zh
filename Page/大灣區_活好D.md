@@ -30,7 +30,7 @@
 <td><p><strong>集數</strong></p></td>
 <td><p><strong>播映日期</strong></p></td>
 <td><p><strong>主題</strong></p></td>
-<td><p><strong>主要拍攝地</strong></p></td>
+<td><p><strong>拍攝地</strong></p></td>
 <td><p><strong>主持</strong></p></td>
 </tr>
 <tr class="even">

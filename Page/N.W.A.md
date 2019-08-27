@@ -1,10 +1,10 @@
-**N.W.A**（為**Niggaz Wit Attitudes**的縮寫）\[1\]\[2\]\[3\]是來自美國[加州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[洛杉磯的](../Page/洛杉矶.md "wikilink")[嘻哈團體](../Page/嘻哈音樂.md "wikilink")。他們是流派最早、最重要的的推手和極具爭議性的人物，一般被廣泛認為是嘻哈音樂史上最偉大且最有影響力的團體之一。\[4\]
+**N.W.A**（為**Niggaz Wit Attitudes**的縮寫）\[1\]\[2\]\[3\]，無官方譯名，[華人世界通常翻譯為](https://zh.wikipedia.org/wiki/華人世界 "wikilink")「[尼哥有態度](../Page/黑鬼.md "wikilink")」\[4\]\[5\]或「有態度的黑人」\[6\]\[7\]，是來自美國[加州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[洛杉磯的](../Page/洛杉矶.md "wikilink")[嘻哈團體](../Page/嘻哈音樂.md "wikilink")。他們是流派最早、最重要的的推手和極具爭議性的人物，一般被廣泛認為是嘻哈音樂史上最偉大且最有影響力的團體之一。\[8\]
 
-自1986年成立至1991年解散期間，N.W.A因其露骨的歌詞而屢受爭議，這些歌詞被認為不尊重女性，以及對毒品和犯罪的美化，也因此其音樂被許多美國主流廣播電台禁播。\[5\]儘管如此，僅只算在美國的銷量，N.W.A也已售出超過1000萬張唱片。憑藉他們自己受到的種族歧視和警方過度執法，奠定了團體音樂涉及政治的本質。\[6\]他們因對警政系統的深仇大恨而聞名，而這也引起了雙方的爭端不斷。
+自1986年成立至1991年解散期間，N.W.A因其露骨的歌詞而屢受爭議，這些歌詞被認為不尊重女性，以及對毒品和犯罪的美化，也因此其音樂被許多美國主流廣播電台禁播。\[9\]儘管如此，僅只算在美國的銷量，N.W.A也已售出超過1000萬張唱片。憑藉他們自己受到的種族歧視和警方過度執法，奠定了團體音樂涉及政治的本質。\[10\]他們因對警政系統的深仇大恨而聞名，而這也引起了雙方的爭端不斷。
 
-1986年成立時的原陣容有、[Dr. Dre](../Page/Dr._Dre.md "wikilink")、和[冰塊酷巴](../Page/艾斯·库伯.md "wikilink")，和是後來才加入的。1988年，在發行了他們的首張錄音室專輯《》後不久，Arabian Prince便退出團體，而冰塊酷巴也對此事於隔年12月提起訴訟。Eazy-E、冰塊酷巴、MC Ren和Dr. Dre的個人作品在1990年代都獲得了[白金銷量認證](../Page/音乐唱片销售认证.md "wikilink")。《衝出康普頓》象徵著新幫派饒舌時代的開始，其歌詞的創作及社會批判意涵對於此流派帶來革命性的發展。N.W.A的第二張錄音室專輯《》是第一張在[《告示牌》二百大專輯榜上排名第一的](../Page/公告牌二百强专辑榜.md "wikilink")專輯。\[7\]
+1986年成立時的原陣容有、[Dr. Dre](../Page/Dr._Dre.md "wikilink")、和[冰塊酷巴](../Page/艾斯·库伯.md "wikilink")，和是後來才加入的。1988年，在發行了他們的首張錄音室專輯《》後不久，Arabian Prince便退出團體，而冰塊酷巴也對此事於隔年12月提起訴訟。Eazy-E、冰塊酷巴、MC Ren和Dr. Dre的個人作品在1990年代都獲得了[白金銷量認證](../Page/音乐唱片销售认证.md "wikilink")。《衝出康普頓》象徵著新幫派饒舌時代的開始，其歌詞的創作及社會批判意涵對於此流派帶來革命性的發展。N.W.A的第二張錄音室專輯《》是第一張在[《告示牌》二百大專輯榜上排名第一的](../Page/公告牌二百强专辑榜.md "wikilink")專輯。\[11\]
 
-《*[滾石雜誌](../Page/滾石_\(雜誌\).md "wikilink")*》將他們名列於的第83名。\[8\]在經過三次提名後，N.W.A在2016年入選[搖滾名人堂](https://zh.wikipedia.org/wiki/搖滾名人堂 "wikilink")。
+《*[滾石雜誌](../Page/滾石_\(雜誌\).md "wikilink")*》將他們名列於的第83名。\[12\]在經過三次提名後，N.W.A在2016年入選[搖滾名人堂](https://zh.wikipedia.org/wiki/搖滾名人堂 "wikilink")。
 
 ## 成員列表
 
@@ -91,11 +91,19 @@ PlotData =
 
 3.
 
-4.
+4.  [这些经典嘻哈歌曲是美国33位说唱大佬选出来的，你听过哪些？](http://sh.qihoo.com/mob/transcoding?url=9b6ed512a61397100&sign=look&uid=999ba77a932f889df20f0e361ec41c83&tj_url=9b6ed512a61397100)
 
-5.
+5.  [他是西海岸最有才華的說唱og之一，跨界做喜劇電影演員大獲成功](http://gogonews.cc/article/3802810.html)
 
-6.  ["Straight Outta Compton and the Social Burdens of Hip-Hop"](https://www.theatlantic.com/entertainment/archive/2015/08/straight-outta-compton-nwa/401279/). The Atlantic. Retrieved August 20, 2017
+6.  [Dammi專欄 / 《衝出康普頓》：道不同不相為謀](https://www.hypesphere.com/news/8931)
 
-7.
-8.  ["100 Greatest Artists of All Time"](https://web.archive.org/web/20061017054537/http://www.rollingstone.com/news/coverstory/the_immortals), *[Rolling Stone](https://zh.wikipedia.org/wiki/Rolling_Stone "wikilink")*.
+7.  [《衝出康普頓》兄弟情深締造傳奇](http://app2.atmovies.com.tw/eweekly/XE1603019628/)
+
+8.
+
+9.
+
+10. ["Straight Outta Compton and the Social Burdens of Hip-Hop"](https://www.theatlantic.com/entertainment/archive/2015/08/straight-outta-compton-nwa/401279/). The Atlantic. Retrieved August 20, 2017
+
+11.
+12. ["100 Greatest Artists of All Time"](https://web.archive.org/web/20061017054537/http://www.rollingstone.com/news/coverstory/the_immortals), *[Rolling Stone](https://zh.wikipedia.org/wiki/Rolling_Stone "wikilink")*.

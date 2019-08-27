@@ -219,7 +219,7 @@
 </tr>
 <tr class="even">
 <td><p>7月29日</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天气之子_(专辑)" title="wikilink">還有愛能做到的事嗎</a></p></td>
 <td><p><a href="../Page/RADWIMPS.md" title="wikilink">RADWIMPS</a></p></td>
 <td><p>5.4</p></td>
 <td><p>[25]</p></td>
@@ -228,6 +228,20 @@
 <td><p>8月5日</p></td>
 <td><p>7.8</p></td>
 <td><p>[26]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>8月12日</p></td>
+<td><p>4.4</p></td>
+<td><p>[27]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8月19日</p></td>
+<td><p>3.7</p></td>
+<td><p>[28]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -269,3 +283,5 @@
 24. [Official髭男dism、初のデジタルシングル1位 ストリーミング8週連続1位【オリコンランキング】](https://www.oricon.co.jp/news/2140269/full/)
 25. [RADWIMPS、デジタルシングル1位、2位独占 映画『天気の子』サントラも1位【オリコンランキング】](https://www.oricon.co.jp/news/2140797/full/)
 26. [RADWIMPS、デジタルシングル2週連続1位2位独占 2週連続4作同時TOP10入り【オリコンランキング】](https://www.oricon.co.jp/news/2141289/full/)
+27. [RADWIMPS、初のデジタルSG・AL3週連続同時1位 「3作以上同時TOP10入り連続週数」歴代1位【オリコンランキング】](https://www.oricon.co.jp/news/2141810/full/)
+28. [RADWIMPS、デジタルSg\&Alが4週連続同時1位【オリコンランキング】](https://www.oricon.co.jp/news/2142255/full/)

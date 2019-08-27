@@ -1,13 +1,10 @@
-
-
-
 **國際音標**（，[縮寫](../Page/縮寫.md "wikilink")：），早期又稱**萬國音標**，是一套用來[標音的系統](https://zh.wikipedia.org/wiki/標音 "wikilink")，以[拉丁字母](../Page/拉丁字母.md "wikilink")為基礎，由[國際語音學學會設計來作為口語聲音的標準化標示方法](https://zh.wikipedia.org/wiki/國際語音學學會 "wikilink")。\[1\]國際音標的使-{}-用者有[語言學家](https://zh.wikipedia.org/wiki/語言學 "wikilink")、[言語治療](../Page/言語治療.md "wikilink")學家、[人工語言](../Page/人工語言.md "wikilink")創造者、[外語教師](https://zh.wikipedia.org/wiki/外語 "wikilink")、[歌手](../Page/歌手.md "wikilink")、[辭書學家和](https://zh.wikipedia.org/wiki/辭書學 "wikilink")[翻譯學家等人](https://zh.wikipedia.org/wiki/翻譯 "wikilink")。\[2\]\[3\]
 
-按照國際音標的設計，它只可以分辨出[口語裡下列音質的對立成分](https://zh.wikipedia.org/wiki/口語 "wikilink")：[語音](../Page/語音.md "wikilink")、[音位](../Page/音位.md "wikilink")、[語調](../Page/語調.md "wikilink")以及[詞語和](https://zh.wikipedia.org/wiki/詞語 "wikilink")[音節的分隔](https://zh.wikipedia.org/wiki/音節 "wikilink")。\[4\]若要表示諸如咬牙、咬舌和由[唇顎裂](../Page/唇顎裂.md "wikilink")所發出聲音的音質，則有另一套[國際音標擴展](../Page/國際音標擴展.md "wikilink")系統（extIPA）可以補充。\[5\]
+按照國際音標的設計，它只可以分辨出[口語裡](https://zh.wikipedia.org/wiki/口語 "wikilink")[語音](../Page/語音.md "wikilink")、[音位](../Page/音位.md "wikilink")、[語調](../Page/語調.md "wikilink")間的對立，以及[詞語和](https://zh.wikipedia.org/wiki/詞語 "wikilink")[音節的分隔](https://zh.wikipedia.org/wiki/音節 "wikilink")。\[4\]若要表示諸如咬牙、咬舌和由[唇顎裂](../Page/唇顎裂.md "wikilink")所發出聲音的音值，則有另一套[國際音標擴展](../Page/國際音標擴展.md "wikilink")系統（extIPA）可以補充。\[5\]
 
-國際音標中的字符主要可以分為兩類：[字母](../Page/字母.md "wikilink")和[變音符號](https://zh.wikipedia.org/wiki/變音符號 "wikilink")。例如，[英語字母](../Page/英文字母.md "wikilink")在不同詞組中，其發音在國際音標中可能轉寫為單一字母，或是一個字母加上一個變音符號。通常，以兩斜線夾注的音標為**寬式標音**，標記時較為模糊；相對地，以兩方括號夾注的音標為**嚴式標音**，標音則較為明確。如在不同情形下，可能指的是或，其準確的發音取決於上下文和語言環境。
+國際音標中的字符主要可以分為兩類：[字母](../Page/字母.md "wikilink")和[變音符號](https://zh.wikipedia.org/wiki/變音符號 "wikilink")。例如，[英語字母](../Page/英文字母.md "wikilink")在不同詞組中，其發音在國際音標中可能轉寫為單一字母，或是一個字母加上一個變音符號。通常，以兩斜線夾注的音標為寬式標音，標記時較為模糊；相對地，以兩方括號夾注的音標為嚴式標音，標音則較為明確。如在不同情形下，可能指的是或，其準確的發音取決於上下文和語言環境。
 
-有時國際語音學學會會增加、修改或刪除音標2005年最新一次的更改，\[6\] 國際音標共有107個單獨字母、52個[變音符號和](https://zh.wikipedia.org/wiki/變音符號 "wikilink")4個[超音段成分符號](https://zh.wikipedia.org/wiki/超音段成分 "wikilink")。完整的符號表在條目下方給出，亦可參見[國際音標表或國際語音學學會](https://zh.wikipedia.org/wiki/國際音標表 "wikilink")。\[7\]
+有時國際語音學學會會增加、修改或刪除音標2005年最新一次的更改，\[6\] 國際音標共有107個單獨字母、52個[變音符號和](https://zh.wikipedia.org/wiki/變音符號 "wikilink")4個[超音段成分符號](https://zh.wikipedia.org/wiki/超音段成分 "wikilink")。完整的符號表在條目下方給出，亦可參見[國際音標表或國際語音學學會出版的資料](https://zh.wikipedia.org/wiki/國際音標表 "wikilink")。\[7\]
 
 ## 歷史背景
 
@@ -49,7 +46,7 @@ Typical examples of archiphonemic use of capital letters are  for the Turkish ha
 
 ### 排版和象似性
 
-國際音標以拉丁字母為基礎，並盡可能地減少使用非拉丁字母。\[26\]協會希望國際音標中大多數拉丁字母的[輔音音值可以對應到](https://zh.wikipedia.org/wiki/輔音 "wikilink")「國際使用」。\[27\] 因此，國際音標輔音字母、、、、、、、、、、、、、、和英語中對應字母的音值相同；[元音](../Page/元音.md "wikilink")字母（、、、、）和拉丁語中對應字母的音值相同。其他字母的音值可能和英語、拉丁語不同，但仍可對應到其他歐洲語言字母的音值，如 、、等等。
+國際音標以拉丁字母為基礎，並盡可能地減少使用非拉丁字母。\[26\]協會希望國際音標中大多數拉丁字母的[輔音音值可以對應到](https://zh.wikipedia.org/wiki/輔音 "wikilink")「國際使用」。\[27\]因此，國際音標輔音字母、、、、、、、、、、、、、、和英語中對應字母的音值相同；[元音](../Page/元音.md "wikilink")字母（、、、、）和拉丁語中對應字母的音值相同。其他字母的音值可能和英語、拉丁語不同，但仍可對應到其他歐洲語言字母的音值，如 、、等等。
 
 這套系統可透過使用[小型大写字母](../Page/小型大写字母.md "wikilink")、草寫字母、翻轉字母、加上變音符號使符號和可表示的音值增加。還有一些符號源自希臘字母，如，但它在希臘語裡是元音，在國際音標中則是輔音。 對於這類型的字母，即、、、、、和，國際音標都已經為其設計了較能和其他拉丁字母匹配的字形，且在[Unicode中有獨立的](https://zh.wikipedia.org/wiki/Unicode "wikilink")[碼位](https://zh.wikipedia.org/wiki/碼位 "wikilink")；唯一的例外是直接使用希臘字母的。此外，希臘字母和也常常直接用來代替音標和。\[28\]
 
@@ -83,19 +80,19 @@ Beyond the letters themselves, there are a variety of secondary symbols which ai
 
 [LowercaseG.svg](https://zh.wikipedia.org/wiki/File:LowercaseG.svg "fig:LowercaseG.svg") 早期的字母表中，字母「g」的兩種印刷體－開尾的([Opentail_g.svg](https://zh.wikipedia.org/wiki/File:Opentail_g.svg "fig:Opentail_g.svg"))和環尾的([Looptail_g.svg](https://zh.wikipedia.org/wiki/File:Looptail_g.svg "fig:Looptail_g.svg"))－分別表示不同音值，但現在它們代表的發音是相同的。開尾的([Opentail_g.svg](https://zh.wikipedia.org/wiki/File:Opentail_g.svg "fig:Opentail_g.svg"))一直以來都表示[濁軟顎塞音](../Page/濁軟顎塞音.md "wikilink")，而環尾的在1895年至1900年間曾代表[濁軟顎擦音](../Page/濁軟顎擦音.md "wikilink")。\[32\]\[33\]1900年後，濁軟顎擦音改用加了一橫線的開尾表示，直到1931年被取代。\[34\]
 
-1948年，[國際語音學學會認定](https://zh.wikipedia.org/wiki/國際語音學學會 "wikilink")和相等\[35\]，此決定在1993年又被再次重申。\[36\]雖然 1949年出版的《國際語音學學會原則》（Principles of the International Phonetic Association）推薦使用作為  for an advanced one for languages where it is preferable to distinguish the two, such as Russian,\[37\] this practice never caught on.\[38\]1999年出版的《國際語音學學會手冊》（Handbook of the International Phonetic Association）取代了《原則》，其中明確地廢棄了這項建議，並承認這兩種印刷體都是可接受的變體。
+1948年，[國際語音學學會認定](https://zh.wikipedia.org/wiki/國際語音學學會 "wikilink")和相等\[35\]，此決定在1993年又被再次重申。\[36\]雖然 1949年出版的《國際語音學學會原則》（Principles of the International Phonetic Association）推薦使用作為軟顎塞音的音標，但在這兩個字母有所區別時（例如使用[西里爾字母的俄語環境](https://zh.wikipedia.org/wiki/西里爾字母 "wikilink")）則應優先使用。\[37\]然而，這種做法從未真正實施過。\[38\]1999年出版的《國際語音學學會手冊》（Handbook of the International Phonetic Association）取代了《原則》，其中明確地廢棄了這項建議，並承認這兩種印刷體都是可接受的變體。
 
 ## 國際音標表的修改
 
-[Extended_IPA_chart_2005.png](https://zh.wikipedia.org/wiki/File:Extended_IPA_chart_2005.png "fig:Extended_IPA_chart_2005.png")。\]\] 國際語音學學會偶爾會修改國際音標。After each modification, the Association provides an updated simplified presentation of the alphabet in the form of a chart. (See [History of the IPA](https://zh.wikipedia.org/wiki/History_of_the_International_Phonetic_Alphabet "wikilink").) Not all aspects of the alphabet can be accommodated in a chart of the size published by the IPA. The [alveolo-palatal](https://zh.wikipedia.org/wiki/alveolo-palatal_consonant "wikilink") and [epiglottal](https://zh.wikipedia.org/wiki/epiglottal_consonant "wikilink") consonants, for example, are not included in the consonant chart for reasons of space rather than of theory (two additional columns would be required, one between the retroflex and palatal columns and the other between the pharyngeal and glottal columns), and the [lateral flap](https://zh.wikipedia.org/wiki/lateral_flap "wikilink") would require an additional row for that single consonant, so they are listed instead under the catchall block of "other symbols".\[39\] The indefinitely large number of [tone letters](https://zh.wikipedia.org/wiki/Chao_tone_letter "wikilink") would make a full accounting impractical even on a larger page, and only a few examples are shown.
+[Extended_IPA_chart_2005.png](https://zh.wikipedia.org/wiki/File:Extended_IPA_chart_2005.png "fig:Extended_IPA_chart_2005.png")。\]\] 國際語音學學會偶爾會修改國際音標。每次修改後，協會都會以圖表的形式釋出新的字母表。（參見[國際音標歷史](https://zh.wikipedia.org/wiki/國際音標歷史 "wikilink")。）並非所有國際音標字母都會被放入字母表中，如[齦齶音](https://zh.wikipedia.org/wiki/齦齶音 "wikilink")、[會厭音](../Page/會厭音.md "wikilink")和[邊閃音由於排版因素](https://zh.wikipedia.org/wiki/邊閃音 "wikilink")（而非出於理論需要），而被放置在字母表下方「其他符號」的位置。\[39\]另外，由於國際音標用於標示聲調的[五度標記法可以系統地製造出大量的聲調符號](https://zh.wikipedia.org/wiki/五度標記法 "wikilink")，因此也僅列出了數個符號作為示例。
 
-The procedure for modifying the alphabet or the chart is to propose the change in the *[Journal of the IPA](https://zh.wikipedia.org/wiki/Journal_of_the_International_Phonetic_Association "wikilink").* (See, for example, August 2008 on an [open central unrounded vowel](https://zh.wikipedia.org/wiki/open_central_unrounded_vowel "wikilink") and August 2011 on central approximants.)\[40\] Reactions to the proposal may be published in the same or subsequent issues of the Journal (as in August 2009 on the open central vowel).\[41\] A formal proposal is then put to the Council of the IPA\[42\] – which is elected by the membership\[43\] – for further discussion and a formal vote.\[44\]\[45\]
+若要修改音標或字母表，可在《》中提出申請。如2008年8月和2011年8月分別有針對[開央不圓唇元音](../Page/開央不圓唇元音.md "wikilink")和[中央近音的提案](https://zh.wikipedia.org/wiki/近音#中央近音 "wikilink")。\[40\]協會對該提案的回應可以在同期或後續的期刊中找到（如上述關於開央元音的提案於2009年8月得到回覆）。\[41\]之後，正式的提案將提交給由學會成員選出的評議會\[42\]\[43\]，以進行進一步討論和正式投票。\[44\]\[45\]
 
-Only changes to the alphabet or chart that have been approved by the Council can be considered part of the official IPA. Nonetheless, many users of the alphabet, including the leadership of the Association itself, make personal changes or additions in their own practice, either for convenience in working on a particular language (see "Illustrations of the IPA" for individual languages in the *Handbook*, which for example may use  for ),\[46\] or because they object to some aspect of the official version.
+字母或圖表的更改只有在經過評議會批准後，才能被視為正式國際音標的一部分。儘管如此，許多國際音標的用戶在使用國際音標時，都會配合自己的需求對其進行修改。\[46\]
 
 ## 使用
 
-儘管IPA提供了超過160個符號，轉寫任何一種語言通常只會用到其中的一小部分。記錄語句時的精確程度也因情況而有所不同。A precise phonetic transcription, in which sounds are described in a great deal of detail, is known as a *narrow transcription*. A coarser transcription which ignores some of this detail is called a *broad transcription.* Both are relative terms, and both are generally enclosed in square brackets.\[47\] Broad phonetic transcriptions may restrict themselves to easily heard details, or only to details that are relevant to the discussion at hand, and may differ little if at all from phonemic transcriptions, but they make no theoretical claim that all the distinctions transcribed are necessarily meaningful in the language. [RPGA_international.svg](https://zh.wikipedia.org/wiki/File:RPGA_international.svg "fig:RPGA_international.svg")s\]\]
+儘管IPA提供了超過160個符號，轉寫任何一種語言通常只會用到其中的一小部分。記錄語句時的精確程度也因情況而有所不同。A precise phonetic transcription, in which sounds are described in a great deal of detail, is known as a *narrow transcription*. A coarser transcription which ignores some of this detail is called a *broad transcription.* Both are relative terms, and both are generally enclosed in square brackets.\[47\]Broad phonetic transcriptions may restrict themselves to easily heard details, or only to details that are relevant to the discussion at hand, and may differ little if at all from phonemic transcriptions, but they make no theoretical claim that all the distinctions transcribed are necessarily meaningful in the language. [RPGA_international.svg](https://zh.wikipedia.org/wiki/File:RPGA_international.svg "fig:RPGA_international.svg")s\]\]
 
 For example, the English word *little* may be transcribed broadly using the IPA as , and this broad (imprecise) transcription is a more or less accurate description of many pronunciations. A narrower transcription may focus on individual or dialectical details:  in [General American](https://zh.wikipedia.org/wiki/General_American "wikilink"),  in [Cockney](https://zh.wikipedia.org/wiki/Cockney "wikilink"), or  in Southern US English.
 
@@ -103,7 +100,7 @@ It is customary to use simpler letters, without many diacritics, in phonemic tra
 
 ### 語言學
 
-Although IPA is popular for transcription by linguists, American linguists often alternate use of the IPA with [Americanist phonetic notation](https://zh.wikipedia.org/wiki/Americanist_phonetic_notation "wikilink") or use the IPA together with some [nonstandard symbols](https://zh.wikipedia.org/wiki/Obsolete_and_nonstandard_symbols_in_the_International_Phonetic_Alphabet "wikilink"), for reasons including reducing the error rate on reading handwritten transcriptions or avoiding perceived awkwardness of IPA in some situations. 實際情況可能會因為不同語言或不同研究者的習慣而有所不同 so authors are generally encouraged to include a chart or other explanation of their choices.\[48\]
+雖然國際音標在語言學界被廣泛使用，但美國的語言學家常常將國際音標和混用，或著加入其他，其原因可能包括降低閱讀手寫音標的錯誤率、使用某些音標容易造成誤會等等。由於不同語言或不同研究者的習慣會導致使用的音標有所不同，因此作者通常會給出他們所選用的音標系統以減少歧義。\[48\]
 
 ### 語言學習
 
@@ -161,13 +158,13 @@ The vowels are similarly manageable by using diacritics for raising, lowering, f
 
 ## 符號名稱
 
-An IPA symbol is often distinguished from the sound it is intended to represent, since there is not necessarily a one-to-one correspondence between letter and sound in broad transcription, making articulatory descriptions such as 'mid front rounded vowel' or 'voiced velar stop' unreliable. While the *Handbook of the International Phonetic Association* states that no official names exist for its symbols, it admits the presence of one or two common names for each.\[65\] The symbols also have [nonce names](https://zh.wikipedia.org/wiki/Nonce_word "wikilink") in the [Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink") standard. In some cases, the Unicode names and the IPA names do not agree. For example, IPA calls  "epsilon", but Unicode calls it "small letter open E".
+由於在寬式標音中字母和音值之間不一定是一對一的對應關係，從而導致音標的實際發音和其原先預設的發音可能有所不同，「中前圓唇元音」或「濁軟顎塞音」等發音描述也不見得可靠。雖然《國際語音學學會手冊》指出其符號不存在正式名稱，但它也承認每個符號都有一個或兩個通用名稱。\[65\]這些符號被[Unicode收錄時也會被賦予名稱](https://zh.wikipedia.org/wiki/Unicode "wikilink")，但可能和國際音標的通用名稱不同。例如，國際音標稱呼為「epsilon」，但Unicode則稱其為「小寫字母開E」（small letter open E）。
 
 The traditional names of the Latin and Greek letters are usually used for unmodified letters. Letters which are not directly derived from these alphabets, such as , may have a variety of names, sometimes based on the appearance of the symbol or on the sound that \>it represents. In Unicode, some of the letters of Greek origin have Latin forms for use in IPA; the others use the letters from the Greek section.
 
-For diacritics, there are two methods of naming. For traditional diacritics, the IPA notes the name in a well known language; for example,  is *[acute](https://zh.wikipedia.org/wiki/Acute_accent "wikilink")*, based on the name of the diacritic in English and French. Non-traditional diacritics are often named after objects they resemble, so  is called *bridge*.
+對於變音符號，有兩種命名方法。傳統的變音符號直接使用既有的名稱，如為「尖音符」（acute accent），源於法語和英語對此符號的稱呼。非傳統的變音符號則通常以和音標相似的形狀命名，如被稱作「橋型符號」（bridge）。
 
-[Geoffrey Pullum](https://zh.wikipedia.org/wiki/Geoffrey_Pullum "wikilink") and [William Ladusaw](https://zh.wikipedia.org/wiki/William_Ladusaw "wikilink") list a variety of names in use for IPA symbols, both current and retired, in addition to names of many other non-IPA phonetic symbols in their *[Phonetic Symbol Guide](https://zh.wikipedia.org/wiki/Phonetic_Symbol_Guide "wikilink")*.\[66\]
+和威廉·拉多索（William Ladusa）在他們出版的《》中列出了各種音標符號的名稱，其中包括了所有在用和已棄用的國際音標，以及其他非國際音標符號。\[66\]
 
 ## 字體
 
@@ -251,8 +248,7 @@ Online IPA keyboard utilities\[67\] are available, and they cover the complete r
 
 [Category:國際音標](https://zh.wikipedia.org/wiki/Category:國際音標 "wikilink") [Category:音標](https://zh.wikipedia.org/wiki/Category:音標 "wikilink") [Category:語音學](https://zh.wikipedia.org/wiki/Category:語音學 "wikilink") [Category:Unicode](https://zh.wikipedia.org/wiki/Category:Unicode "wikilink")
 
-1.  International Phonetic Association (IPA), *Handbook*.
-
+1.
 2.
 
 3.
@@ -263,7 +259,7 @@ Online IPA keyboard utilities\[67\] are available, and they cover the complete r
 
 7.
 
-8.  International Phonetic Association, *Handbook*, pp. 194–196
+8.
 
 9.  "Originally, the aim was to make available a set of phonetic symbols which would be given *different* articulatory values, if necessary, in different languages." (International Phonetic Association, *Handbook*, pp. 195–196)
 
@@ -279,8 +275,7 @@ Online IPA keyboard utilities\[67\] are available, and they cover the complete r
 16.
 
 17.
-18. International Phonetic Association, *Handbook*, p. 186
-
+18.
 19. "From its earliest days \[...\] the International Phonetic Association has aimed to provide 'a separate sign for each distinctive sound; that is, for each sound which, being used instead of another, in the same language, can change the meaning of a word'." (International Phonetic Association, *Handbook*, p. 27)
 
 20.

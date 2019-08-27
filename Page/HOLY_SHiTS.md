@@ -14,8 +14,9 @@ HOLY SHiTS是日本的音樂團體、女子偶像組合、是WACK的洗牌團體
 ### 2019年
 
   - 1月8日 – 正式向音樂商店發布了「WACK is SHiT」的單曲。\[3\]。
-  - 5月11日 – 由於解散，ペリ・ウブ和トリアエズ・ハナ都離開WACK。目前還不知道SAiNT SEX會否解散。
-  - 6月24日 – 由於早期決定留下來的ムロパナコ突然宣布決定退出WACK。目前尚不知道HOLY SHiTS是否已解散，或者未來是否會加入三名新成員。
+  - 5月11日 – 由於解散，ペリ・ウブ和トリアエズ・ハナ離開WACK。
+  - 6月24日 – 由於早期決定留下來的ムロパナコ宣布決定退出WACK。
+  - 8月4日 – 在「TOKYO IDOL FESTIVAL 2019」宣布，[WAgg](../Page/WAgg.md "wikilink")的兩位成員加入並進行現場表演。分別是ウルウ・ル和ア・アンズピア。
 
 ### 現任成員
 
@@ -24,31 +25,45 @@ HOLY SHiTS是日本的音樂團體、女子偶像組合、是WACK的洗牌團體
 <tr class="header">
 <th><p>名字</p></th>
 <th><p>生日</p></th>
-<th><p>個人簡介</p></th>
+<th><p>備註</p></th>
 <th><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>セントチヒロ・チッチ</p></td>
-<td></td>
+<td><p>5月8日</p></td>
 <td><p>是BiSH的成員。<br />
 </p></td>
 <td><p><a href="https://twitter.com/Chittiii_BiSH">セントチヒロ・チッチ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>キャン・GP・マイカ</p></td>
-<td></td>
+<td><p>10月6日</p></td>
 <td><p>是GANG PARADE的成員。<br />
 </p></td>
 <td><p><a href="https://twitter.com/maika_GANG">キャン・GP・マイカ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>MAHO EMPiRE</p></td>
-<td></td>
+<td><p>6月1日</p></td>
 <td><p>是EMPiRE的成員。<br />
 </p></td>
 <td><p><a href="https://twitter.com/maho_empire">MAHO EMPiRE</a></p></td>
+</tr>
+<tr class="even">
+<td><p>ウルウ・ル</p></td>
+<td><p>2月7日</p></td>
+<td><p>是Curry Roux和WAgg的成員。<br />
+</p></td>
+<td><p><a href="https://twitter.com/URUURU_WAgg">ウルウ・ル</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>ア・アンズピア</p></td>
+<td><p>5月23日</p></td>
+<td><p>是WAgg的成員。<br />
+</p></td>
+<td><p><a href="https://twitter.com/ANZU_WAgg">ア・アンズピア</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -60,14 +75,14 @@ HOLY SHiTS是日本的音樂團體、女子偶像組合、是WACK的洗牌團體
 <tr class="header">
 <th><p>名字</p></th>
 <th><p>生日</p></th>
-<th><p>個人簡介</p></th>
+<th><p>備註</p></th>
 <th><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>ペリ・ウブ</p></td>
-<td></td>
+<td><p>10月5日</p></td>
 <td><p>是BiS的成員。<br />
 2019年5月11日解散。<br />
 並在5月31日宣布在WACK畢業。</p></td>
@@ -76,19 +91,19 @@ HOLY SHiTS是日本的音樂團體、女子偶像組合、是WACK的洗牌團體
 </tr>
 <tr class="even">
 <td><p>トリアエズ・ハナ</p></td>
-<td></td>
+<td><p>9月25日</p></td>
 <td><p>是BiS的成員。<br />
 2019年5月11日解散。<br />
-並在5月31日宣布</p></td>
+並在5月31日宣布在WACK畢業。</p></td>
 <td><p><a href="https://twitter.com/TORiAEZ__">トリアエズ・ハナ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>ムロパナコ</p></td>
-<td></td>
+<td><p>9月12日</p></td>
 <td><p>是BiS的成員。<br />
 2019年5月11日解散。<br />
 宣布將留在WACK<br />
-直到6月24日突然宣布離開WACK，並在WACK畢業。</p></td>
+直到6月24日宣布離開WACK，並在WACK畢業。</p></td>
 <td><p><a href="https://twitter.com/hnknic">ムロパナコ</a></p></td>
 </tr>
 <tr class="even">
@@ -108,7 +123,8 @@ HOLY SHiTS是日本的音樂團體、女子偶像組合、是WACK的洗牌團體
 | ----------------------- | -------------------------------------------------------- | -- |
 | 2018年7月26日 - 2019年5月10日 | セントチヒロ・チッチ、キャン・GP・マイカ、ペリ・ウブ、MAHO EMPiRE、トリアエズ・ハナ、ムロパナコ   |    |
 | 2019年5月11日 - 2019年6月23日 | セントチヒロ・チッチ、キャン・GP・マイカ、▼ペリ・ウブ、MAHO EMPiRE、▼トリアエズ・ハナ、ムロパナコ |    |
-| 2019年6月24日 -            | セントチヒロ・チッチ、キャン・GP・マイカ、MAHO EMPiRE、▼ムロパナコ                 |    |
+| 2019年6月24日 - 2019年8月3日  | セントチヒロ・チッチ、キャン・GP・マイカ、MAHO EMPiRE、▼ムロパナコ                 |    |
+| 2019年8月4日 -             | セントチヒロ・チッチ、キャン・GP・マイカ、MAHO EMPiRE、▲ウルウ・ル、▲ア・アンズピア        |    |
 
 ## 作品
 
@@ -155,10 +171,9 @@ HOLY SHiTS是日本的音樂團體、女子偶像組合、是WACK的洗牌團體
 ## 瑣事
 
   - HOLY SHiTS是WACK的第一個洗牌團體。包含有EMPiRE成員的洗牌團體。
-
   - 除セントチヒロ・チッチ之外其他成員都是「WACK EXHiBiTiON 2018」的參加者。
+  - HOLY SHiTS是WACK的第一個洗牌團體。包含有WAgg成員的洗牌團體。
 
-  -
 ## 外部連結
 
 ## 參考資料

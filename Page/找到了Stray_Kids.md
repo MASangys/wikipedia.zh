@@ -1,4 +1,4 @@
-《**找到了Stray Kids**》（；；）是一部由[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Stray Kids出演的](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。2019年3月20日於韓國[Mnet頻道首播](https://zh.wikipedia.org/wiki/Mnet "wikilink")\[1\]，同時間也於日本網路電視台[AbemaTV](../Page/AbemaTV.md "wikilink")同步播出\[2\]。
+《**找到了Stray Kids**》（；；）是一部由[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Stray Kids出演的](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。2019年3月20日於韓國[Mnet](../Page/Mnet.md "wikilink")頻道首播\[1\]，同時間也於日本網路電視台[AbemaTV](../Page/AbemaTV.md "wikilink")同步播出\[2\]。
 
 ## 播出時間
 
@@ -17,7 +17,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td></td>
 <td><p>2019年3月20日－2019年5月1日</p></td>
 <td><p>每周三 20:00－21:00</p></td>

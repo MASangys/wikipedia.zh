@@ -2,7 +2,7 @@
 
 ## 生涯
 
-Kyla出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[印第安納州](https://zh.wikipedia.org/wiki/印第安納州 "wikilink")，在[洛杉磯長大](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，2014年搬到[首爾](../Page/首爾.md "wikilink")居住。
+Kyla的母親是[韓國人](https://zh.wikipedia.org/wiki/韓國人 "wikilink")，父親則是[美國人](../Page/美國人.md "wikilink")，家裡還有一個哥哥。Kyla出生於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[印第安納州](https://zh.wikipedia.org/wiki/印第安納州 "wikilink")，在[洛杉磯長大](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，2014年搬到[首爾](../Page/首爾.md "wikilink")居住。
 
 ## 出道前
 

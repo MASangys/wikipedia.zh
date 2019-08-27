@@ -6,7 +6,7 @@
 
 ### 練習生時期
 
-  - 2014年11月參與[STARSHIP娱乐](../Page/STARSHIP娛樂.md "wikilink")&有線電視[Mnet新偶像團真人選秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[NO.MERCY](../Page/NO.MERCY.md "wikilink")》\[7\]，於2015年2月順利取得最後名額獲選，以[MONSTA X成功出道](https://zh.wikipedia.org/wiki/Monsta_X "wikilink")\[8\]。
+  - 2014年11月參與[STARSHIP娱乐](../Page/STARSHIP娛樂.md "wikilink")&有線電視[Mnet](../Page/Mnet.md "wikilink")新偶像團真人選秀節目《[NO.MERCY](../Page/NO.MERCY.md "wikilink")》\[7\]，於2015年2月順利取得最後名額獲選，以[MONSTA X成功出道](https://zh.wikipedia.org/wiki/Monsta_X "wikilink")\[8\]。
 
 ### 2015年至今
 

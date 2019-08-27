@@ -8,8 +8,6 @@
 
 ## 曲目
 
-粗體字為主打歌
-
 ## 音樂節目
 
 <table>
@@ -41,99 +39,102 @@
 <td><p>4月18日</p></td>
 </tr>
 <tr class="even">
-<td><p>最高名次： 5</p></td>
+<td><p>4月25日</p></td>
 </tr>
 <tr class="odd">
+<td><p>最高名次： 4</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月28日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月5日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4月12日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月19日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>最高名次： 未入榜</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月30日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月6日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4月13日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>最高名次： 未入榜</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月7日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4月14日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月21日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>最高名次： 未入榜</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4月2日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月9日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4月16日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>最高名次： 2</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月3日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4月10日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月17日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>最高名次： 10</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>《Moon》</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 </tr>
 </tbody>
 </table>
 
-## 參考
+## 參考資料
 
 [Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink") [Category:EVERGLOW](https://zh.wikipedia.org/wiki/Category:EVERGLOW "wikilink")
 

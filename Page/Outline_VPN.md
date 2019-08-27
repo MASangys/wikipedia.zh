@@ -14,15 +14,15 @@ Outline由3個主要的部分組成：\[4\]
 
 Outline使用[Shadowsocks](../Page/Shadowsocks.md "wikilink")協議在客戶端和伺服器之間的通信，對流量使用[IETF](../Page/互联网工程任务组.md "wikilink") [ChaCha20](https://zh.wikipedia.org/wiki/Salsa20#ChaCha20 "wikilink")[流密码](../Page/流密码.md "wikilink")（[密鑰](../Page/公开密钥加密.md "wikilink")）\[5\]進行加密，並使用[IETF](../Page/互联网工程任务组.md "wikilink") [Poly1305](../Page/Poly1305.md "wikilink")身份驗證器進行身份驗證。\[6\]
 
-Outline是[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")，根據[Apache许可证](../Page/Apache许可证.md "wikilink") 2.0許可，並由Radically Open Security審核，聲稱\[7\]\[8\]不會[記錄用戶的](../Page/日志文件.md "wikilink")[網絡流量](https://zh.wikipedia.org/wiki/網站流量 "wikilink")。Outline Server支持無人值守升級。
+Outline是[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")，根據[Apache许可证](../Page/Apache许可证.md "wikilink") 2.0許可，並由Radically Open Security審核，同時也聲稱不會[記錄用戶的](../Page/日志文件.md "wikilink")[網絡流量](https://zh.wikipedia.org/wiki/網站流量 "wikilink")\[7\]\[8\]。Outline Server支持無人值守升級。
 
 Outline不是一個[匿名](../Page/匿名.md "wikilink")工具，它沒有提供與[Tor](../Page/Tor.md "wikilink")相同程度的匿名保護（[Tor](../Page/Tor.md "wikilink")通過三個而不僅僅是一個[路由](../Page/路由.md "wikilink")流量，並且還可以防止[瀏覽器指紋識別等攻擊](../Page/裝置指紋.md "wikilink")）。
+
+從版本1.2開始，Outline的[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Chrome OS](../Page/Chrome_OS.md "wikilink")、[Android](../Page/Android.md "wikilink")以及[iOS客戶端界面上出現了](https://zh.wikipedia.org/wiki/iOS "wikilink")'Beta'的字樣，有效地開始加密來自設備的所有流量。
 
 ## 評價
 
 2018年3月，的Max Eddy表示，Outline VPN的預覽版本“非常容易使用（*startlingly easy to use*）”以及“消除了與VPN公司相關的隱私問題（*removes privacy concerns associated with VPN companies*）”。然而，Eddy批評該軟件沒有加密[Windows上的所有流量](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，並警告用戶“與大型VPN公司相比，個人使用可能缺乏一些匿名性（*individual use may lack some anonymity compared \[to\] large VPN companies*）”。\[9\]
-
-從版本1.2開始，Outline的[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")、[Chrome OS](../Page/Chrome_OS.md "wikilink")、[Android](../Page/Android.md "wikilink")以及[iOS客戶端界面上出現了](https://zh.wikipedia.org/wiki/iOS "wikilink")'Beta'的字樣，有效地開始加密來自設備的所有流量。
 
 ## 參見
 

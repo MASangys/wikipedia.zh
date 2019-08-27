@@ -99,7 +99,7 @@ DREAM SHOW時練了特技表演，完成了高難度的後空翻，擁有天才�
 
 ## 參考資料
 
-[Category:NCT](https://zh.wikipedia.org/wiki/Category:NCT "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:2000年出生](https://zh.wikipedia.org/wiki/Category:2000年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:仁川廣域市出身人物](https://zh.wikipedia.org/wiki/Category:仁川廣域市出身人物 "wikilink")
+[Category:NCT](https://zh.wikipedia.org/wiki/Category:NCT "wikilink") [Category:SM娛樂](https://zh.wikipedia.org/wiki/Category:SM娛樂 "wikilink") [Category:韓國男歌手](https://zh.wikipedia.org/wiki/Category:韓國男歌手 "wikilink") [Category:2000年出生](https://zh.wikipedia.org/wiki/Category:2000年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink") [Category:仁川廣域市出身人物](https://zh.wikipedia.org/wiki/Category:仁川廣域市出身人物 "wikilink") [Category:李姓](https://zh.wikipedia.org/wiki/Category:李姓 "wikilink")
 
 1.
 2.   JENO VS JAEMIN|url=[https://www.youtube.com/watch?v=SffxWg9wHz8|accessdate=2019-01-10](https://www.youtube.com/watch?v=SffxWg9wHz8%7Caccessdate=2019-01-10)}}

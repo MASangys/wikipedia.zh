@@ -460,12 +460,20 @@
 <tr class="even">
 <td><p>56th</p></td>
 <td><p>2019年1月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/笑臉的循環" title="wikilink">笑臉的循環</a></p></td>
-<td><p>-</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/笑容無限" title="wikilink">笑容無限</a></p></td>
+<td><p>2</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>57th</p></td>
+<td><p>2019年10月23日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BAD_LOVE" title="wikilink">BAD LOVE</a></p></td>
+<td><p>-</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

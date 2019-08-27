@@ -60,7 +60,7 @@
 
 期間，有警察在未有警告、沒有受到威脅的情況下開槍，[橡膠子彈](../Page/橡膠子彈.md "wikilink")擊中示威者右眼，該名示威者並無作出任何攻擊行為\[38\]。[香港電台](../Page/香港電台.md "wikilink")發言人伍曼儀稱該台一名外判司機在下車時疑被警察催淚彈擊中，一度心臟停頓；在接受其他傳媒司機急救後，獲送上救護車載往[瑪麗醫院](../Page/瑪麗醫院.md "wikilink")，現時情況穩定及清醒\[39\]。
 
-Tamar Park after Police Force clear 20190612.jpg|防暴警察在[添馬公園](../Page/添馬公園.md "wikilink")施放催淚彈清場後，在該處戎備 Rodney Street tear smoke 20190612.jpg|警方在[樂禮街](../Page/樂禮街.md "wikilink")施放催淚彈 Protester back to Queensway 20190612.jpg|示威者撤至[金鐘道](../Page/金鐘道.md "wikilink") Police force in Admiralty Station Bus Terminal 20190612.png|防暴警察在[金鐘（東）巴士總站](../Page/金鐘（東）巴士總站.md "wikilink") Queensway tear smoke 20190612.png|下午6時36分，防暴警察在[金鐘道](../Page/金鐘道.md "wikilink")施放催淚彈
+Tamar Park after Police Force clear 20190612.jpg|防暴警察在[添馬公園](../Page/添馬公園.md "wikilink")施放催淚彈清場後，在該處戎備 Rodney Street tear smoke 20190612.jpg|警方在[樂禮街](../Page/樂禮街.md "wikilink")施放催淚彈 Protester back to Queensway 20190612.jpg|示威者撤至[金鐘道](../Page/金鐘道.md "wikilink") Police force in Admiralty Station Bus Terminal 20190612.png|防暴警察在[金鐘（東）巴士總站](../Page/金鐘（東）巴士總站.md "wikilink")
 
 ### 中信圍困事件
 
@@ -130,7 +130,9 @@ Tamar Park after Police Force clear 20190612.jpg|防暴警察在[添馬公園](.
 
 ### 6月13日
 
-[香港各界譴責警方暴力驅趕反送中示威者_03.jpg](https://zh.wikipedia.org/wiki/File:香港各界譴責警方暴力驅趕反送中示威者_03.jpg "fig:香港各界譴責警方暴力驅趕反送中示威者_03.jpg") [Sing_Hallelujah_to_the_Lord_in_Citic_Tower_Bridge_20190613.png](https://zh.wikipedia.org/wiki/File:Sing_Hallelujah_to_the_Lord_in_Citic_Tower_Bridge_20190613.png "fig:Sing_Hallelujah_to_the_Lord_in_Citic_Tower_Bridge_20190613.png") 佔領行動結束後，隨即有網民組織發起不合作活動，目的是癱瘓香港交通及經濟，以迫使政府撤回修例。
+[香港各界譴責警方暴力驅趕反送中示威者_03.jpg](https://zh.wikipedia.org/wiki/File:香港各界譴責警方暴力驅趕反送中示威者_03.jpg "fig:香港各界譴責警方暴力驅趕反送中示威者_03.jpg")
+
+佔領行動結束後，隨即有網民組織發起不合作活動，目的是癱瘓香港交通及經濟，以迫使政府撤回修例。
 
 6月13日早上，有乘客在港鐵[觀塘線部分車站不適暈倒](https://zh.wikipedia.org/wiki/觀塘線 "wikilink")，需按動緊急求助按鈕；亦有乘客「差錯腳」（不慎踏空），一隻腳卡在月台與車廂間之空隙，使車門運作受阻，列車未能順利開出\[79\]\[80\]。
 
@@ -147,8 +149,6 @@ Tamar Park after Police Force clear 20190612.jpg|防暴警察在[添馬公園](.
 當晚約8時，一群反對修訂《逃犯條例》的母親穿上黑衣，響應在中環[遮打花園](../Page/遮打花園.md "wikilink")發起「香港媽媽反送中集氣大會」的集會，大會表示有6000人參加。警方表示最高峰時有980人參與。\[87\]
 
 ### 6月15日
-
-[缩略图](https://zh.wikipedia.org/wiki/File:Man_protesting_Hong_Kong's_extradition_law_in_Pacific_Place_20190615.png "fig:缩略图")高位危坐，雨衣背寫「林鄭殺港 黑警冷血」，並掛起「反送中 No Extradition To China」的橫額。該男子當晚突然爬出棚架，最終墮地重傷，送院後不治。\]\]
 
 因應網上號召，中午時分，數十人在[香港國際機場](../Page/香港國際機場.md "wikilink")參與「行下坐下接下機」行動，舉起反對修例標語、報章和有關示威活動的自製旅遊指南。警方和[機場管理局等派人戒備](../Page/香港機場管理局.md "wikilink")。有機管局人員上前警告行為可能違反機管局附例。有回港市民認為行為破壞香港形象。參與者則希望行動引起社會關注修例。機場秩序未有受阻。\[88\]\[89\]
 
@@ -267,8 +267,6 @@ Tamar Park after Police Force clear 20190612.jpg|防暴警察在[添馬公園](.
 到6月13日傍晚，教育局局長[楊潤雄](../Page/楊潤雄.md "wikilink")向全港的校監及校長發信，以《緊守崗位　守護學生》為題，指學校作為僱主，應按相關條例處理罷課教師。\[175\]教協表示有關做法會對學校造成壓力及製造白色恐怖，指師生有權利表達意見，要求政府「撤回」《逃犯條例》修訂。\[176\]教協亦同時發起教育界聯署譴責楊潤雄，要求教育局收回信件，並就事件向全港教育界道歉。截至6月17日，已有1,139人參與聯署。\[177\]
 
 ### 傳媒界
-
-[Press_conference_for_Hong_Kong_Police_Force_20190613.png](https://zh.wikipedia.org/wiki/File:Press_conference_for_Hong_Kong_Police_Force_20190613.png "fig:Press_conference_for_Hong_Kong_Police_Force_20190613.png")
 
 因佔領期間某些警察的行為威脅記者人身安全及損害新聞自由﹙如向記者施放催淚彈﹚，約40名記者響應[香港記者協會](../Page/香港記者協會.md "wikilink")的呼籲，在6月13日警察記者招待會上穿著反光衣及戴上頭盔，以抗議警察處事方式不當\[178\]。記者協會亦收集到17宗記者遭受警方不合理對待的個案，懷疑有警察針對記者，表示日後會向監警會投訴\[179\]。
 

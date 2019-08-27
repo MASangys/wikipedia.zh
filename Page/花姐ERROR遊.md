@@ -1,8 +1,10 @@
-《**花姐ERROR遊**》是《[Good Night Show 全民造星](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》衍生的男子組合[ERROR首個冠名節目](https://zh.wikipedia.org/wiki/ERROR_\(香港男子组合\) "wikilink")，主持為梁業（肥仔）、[何啟華](../Page/何啟華.md "wikilink")（Dee）、[郭嘉駿](../Page/郭嘉駿.md "wikilink")（193）、吳保錡（保錡）及黃慧君（花姐），花姐亦為《全民造星》監製。五人到日本探索古靈精怪鬼馬事物，[ERROR及花姐亦不斷接受挑戰](https://zh.wikipedia.org/wiki/ERROR_\(香港男子组合\) "wikilink")，輸家需接受大懲罰，旨於打破長輩與年輕一輩的隔膜。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
+《**花姐ERROR遊**》是《[Good Night Show 全民造星](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》衍生的男子組合[ERROR首個冠名節目](https://zh.wikipedia.org/wiki/ERROR_\(香港男子组合\) "wikilink")，主持為梁業（肥仔）、[何啟華](../Page/何啟華.md "wikilink")（Dee）、[郭嘉駿](../Page/郭嘉駿.md "wikilink")（193）、吳保錡（保錡）及黃慧君（花姐），花姐亦為《全民造星》監製。五人到日本探索古靈精怪鬼馬事物，[ERROR及花姐亦不斷接受挑戰](https://zh.wikipedia.org/wiki/ERROR_\(香港男子组合\) "wikilink")，輸家需接受大懲罰，旨於打破長輩與年輕一輩的隔膜。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]
 
 ## 主要內容
 
 每集都有不同主題，花姐和ERROR成員要接受不同挑戰，每周輸家要接受大懲罰。每個測試會由「測試專員」測試項目的安全。
+
+### 第一季
 
 |        |          |                                    |                                                               |                                        |
 | ------ | -------- | ---------------------------------- | ------------------------------------------------------------- | -------------------------------------- |
@@ -16,6 +18,8 @@
 | 7      | 2月12日    | 到富士急遊樂場了解日本遊樂場的刺激設施                | 各項機動遊戲挑戰                                                      | ERROR                                  |
 | 8      | 2月13日    | 參觀河口湖，拍攝MV、鬼故挑戰                    | 193及保錡進入富士山樹海（又稱自殺森林）成功讀稿及自拍                                  | /                                      |
 | 9      | 2月14日    | 了解日本筋肉組合                           | 成功令花姐做出指定動作，挑戰昆蟲料理                                            | 花姐                                     |
+
+### 第二季
 
 ## 參考資料
 
@@ -34,3 +38,4 @@
 4.  [飛到日本拍節目！ERROR搵AV天王清水健搞啲乜？](http://www.orangenews.hk/officelady/system/2019/01/10/010107617.shtml)，橙新聞，2019-01-10
 5.  [孖花姐日本拍真人騷 ﻿ERROR﻿﻿爆MIRROR快go home](http://hd.stheadline.com/life/ent/daily/732073/)，頭條日報，2019-01-11
 6.  [ERROR呻窮 望接廣告掙錢](https://ol.mingpao.com/ldy/showbiz/news/20190213/1549996804518/error%E5%91%BB%E7%AA%AE-%E6%9C%9B%E6%8E%A5%E5%BB%A3%E5%91%8A%E6%8E%99%E9%8C%A2)，明報OL，2019-02-13
+7.  [開拍第二季《花姐ERROR遊》　監製花姐︰節目組唔肯同我講玩咩](https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/336011/%E9%96%8B%E6%8B%8D%E7%AC%AC%E4%BA%8C%E5%AD%A3-%E8%8A%B1%E5%A7%90error%E9%81%8A-%E7%9B%A3%E8%A3%BD%E8%8A%B1%E5%A7%90-%E7%AF%80%E7%9B%AE%E7%B5%84%E5%94%94%E8%82%AF%E5%90%8C%E6%88%91%E8%AC%9B%E7%8E%A9%E5%92%A9)，香港01，2019-06-03

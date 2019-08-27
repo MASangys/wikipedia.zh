@@ -1,4 +1,4 @@
-**台南Josh**（），本名鄭毓倫，成大材料所畢業，本職是[南科工程師](../Page/南部科學工業園區.md "wikilink")\[1\]，副職為[台灣一位以介紹](https://zh.wikipedia.org/wiki/台灣 "wikilink")[MLB棒球數據而知名的](https://zh.wikipedia.org/wiki/MLB "wikilink")[Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")，本人為美國職棒[波士頓紅襪](../Page/波士頓紅襪.md "wikilink")隊球迷，[中華職棒則支持](https://zh.wikipedia.org/wiki/中華職業棒球大聯盟 "wikilink")[統一獅](../Page/統一獅.md "wikilink")隊。由於球員被介紹後，大多會出現表現下滑或受傷的情況，而被台灣球迷廣泛討論注意，甚至調侃這是東方神秘力量\[2\]。頻道開場白是「嗨嗨，我是Josh」，因此出現某某球員被嗨嗨了的台灣棒球迷流行詞。
+**台南Josh**（），本名鄭毓倫，高中台南一中畢業，大學與碩士皆為成大材料所畢業，本職是[南科工程師](../Page/南部科學工業園區.md "wikilink")\[1\]，副職為[台灣一位以介紹](https://zh.wikipedia.org/wiki/台灣 "wikilink")[MLB棒球數據而知名的](https://zh.wikipedia.org/wiki/MLB "wikilink")[Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")，本人為美國職棒[波士頓紅襪](../Page/波士頓紅襪.md "wikilink")隊球迷，[中華職棒則支持](https://zh.wikipedia.org/wiki/中華職業棒球大聯盟 "wikilink")[統一獅](../Page/統一獅.md "wikilink")隊。由於球員被介紹後，大多會出現表現下滑或受傷的情況，而被台灣球迷廣泛討論注意，甚至調侃這是東方神秘力量\[2\]。頻道開場白是「嗨嗨，我是Josh」，因此出現某某球員被嗨嗨了的台灣棒球迷流行詞。
 
 ## 生平
 

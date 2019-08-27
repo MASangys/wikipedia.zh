@@ -3,21 +3,21 @@
 ## 本作特色
 
   - 本作為令和假面騎士系列的第一部作品。
-      - 为了回归原点，本作主角骑士——「假面骑士ZERO-ONE」的名称来源直译为「01」，「令和」日文讀音為，Zero的漢字讀音為「零」（）就跟「令」同音，而One（）頭一個字「」就跟「和」同音，所以有「令和」之意。
+      - 因本作回歸假面騎士系列的原點，使得本作主角騎士——「假面骑士ZERO-ONE」的名稱亦可讀做「01」，又加上「令和」日文讀音為，Zero的漢字讀音為「零」（）與「令」同音，而One（）首字「」與「和」同音，所以有著「令和」之意。
       - 另外「0」和「1」亦代表了[二進位的數碼世界](https://zh.wikipedia.org/wiki/二進位 "wikilink")，所以本作以人工智能作為設計概念。
   - 本作首次以[人工智能](../Page/人工智能.md "wikilink")（AI）作為設計概念。
   - 本作继《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》后，再次採用生物造型為主題\[1\]，並且可切換自身的形態。
   - 本作继《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》、《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》和《[假面騎士ZI-O](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")》後，骑士之間可互換變身道具。
   - 本作假面骑士的變身道具主要採用了鑰匙卡，而且每支鑰匙卡都寄存着一種生物的力量。
   - 本作出現史上假面騎士系列首位最早於電視版登場和參與戰鬥的女性假面騎士——假面騎士Valkyrie。
-  - 本作繼《[假面騎士BLACK RX](../Page/假面騎士BLACK_RX.md "wikilink")》後，時隔多年再次以[蝗蟲](../Page/蝗蟲.md "wikilink")作為主角騎士的基本型態造型\[2\]。
+  - 本作繼《[假面騎士BLACK RX](../Page/假面騎士BLACK_RX.md "wikilink")》後，暌違整整30年再次以[蝗蟲](../Page/蝗蟲.md "wikilink")作為主角騎士的基本型態造型\[2\]。
   - 本作繼《[假面騎士Stronger](../Page/假面騎士Stronger.md "wikilink")》後，主角的基本型態為電屬性。
   - 本作繼《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的西瓜鎧甲再次出現主角騎士可裝備的大型戰鬥機甲。
   - 本作繼《[假面騎士DECADE](https://zh.wikipedia.org/wiki/假面騎士DECADE "wikilink")》和《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》後再次出現使用槍枝變身的騎士。
   - 本作自《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》起連續六套均有使用「假面騎士」的稱呼\[3\]。
   - 本作繼《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》、《[假面騎士劍](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")》、《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》和《[假面骑士DECADE](https://zh.wikipedia.org/wiki/假面骑士DECADE "wikilink")》後再次出現主角騎士和2號騎士都使用卡片類型的道具進行變身。
   - 本作自《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》以來沒有選用[JUNON SUPER BOY大獎得主為假面騎士](../Page/JUNON_SUPER_BOY.md "wikilink")\[4\]。
-  - 本作繼《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》後，再次由高橋悠也擔任編劇。
+  - 本作繼《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》後，再次由高橋悠也擔任主編劇\[5\]。
 
 ## 故事概要
 
@@ -49,8 +49,13 @@
 
   - 滅亡迅雷.net
     原文：
-    本作中唯恐天下不乱的恶役组织，专把Humagear骇入魔化，并安插到民众群里作乱，引起恐慌。
+    本作中唯恐天下不亂的恶役组织，专把Humagear骇入魔化，并安插到民众群里作乱，引起恐慌。
     由「假面骑士灭」担任首领，「假面骑士迅」为行动实行长。
+
+<!-- end list -->
+
+  - 嘻笑夢幻樂園
+    原文：
 
 ## 故事用語
 
@@ -79,7 +84,7 @@
 ### 假面騎士ZERO-ONE
 
   -
-    變身者：飛電或人（替身演員：、CV：高橋文哉）
+    變身者：飛電或人（替身演員：縄田雄哉、CV：高橋文哉）
     原文： / *Kamen Rider ZERO-ONE*
 
 #### 形態
@@ -161,7 +166,7 @@
 <td><p>原文：<br />
 </p></td>
 <td><p>全身以黃、藍、黑、紅色為主</p></td>
-<td><p>閃耀蝗蟲搭配突擊野狼的部份配件的進化形態。</p></td>
+<td><p>閃耀蝗蟲搭配突擊野狼的突擊扳機配件進化形態。</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -320,6 +325,7 @@
 
   -
     原文： / *Hiden ZERO-ONE Driver*
+    音效：Maynard Plant、Blaise Plant（[猴子把戲](../Page/猴子把戲.md "wikilink")）\[6\]
     假面騎士ZERO-ONE所使用的變身腰帶。
     右邊的插槽是用來插入Progrise Key，將Progrise Key放於裝置上感應後再將Progrise Key展開並插入驅動器即可變身。
     感應的音效為「Authorize\!」；變身的音效為「Progrise\! ■■」；發動必殺技的音效為「■■\! Impact\!」，使用另一個Progrise Key感應後來發動必殺技的音效為「Teraraizu\! ■■\! Tera Impact\!」。
@@ -443,28 +449,6 @@ A Jump to the sky turns to a rider kick.」<br />
 （日文：「<ruby>飛<rp>(</rp><rt>と</rt><rp>)</rp></ruby>び<ruby>上<rp>(</rp><rt>あ</rt><rp>)</rp></ruby>がライズ！ライジングホッパー！」）</p></td>
 </tr>
 <tr class="even">
-<td><p>Shooting Wolf</p></td>
-<td><p>シューティングウルフ</p></td>
-<td><p>射擊野狼</p></td>
-<td></td>
-<td><p>以<a href="../Page/狼.md" title="wikilink">狼</a>為原型，變身或轉換形態成<strong>射擊野狼</strong>。<br />
-啓動音效為「Bullet」（日文：「ブレット」）<br />
-變身音效為「Shot rise! Shooting Wolf!<br />
-The elevation increases as the bullet is fired.」<br />
-（日文：「ショットライズ！シューティングウルフ！」）</p></td>
-</tr>
-<tr class="odd">
-<td><p>Rushing Cheetah</p></td>
-<td><p>ラッシングチーター</p></td>
-<td><p>疾馳獵豹</p></td>
-<td></td>
-<td><p>以<a href="https://zh.wikipedia.org/wiki/獵豹" title="wikilink">獵豹為原型</a>，變身或轉換形態成<strong>疾馳獵豹</strong>。<br />
-啓動音效為「Dash」（日文：「ダッシュ」）<br />
-變身音效為「Speedy Nander! Rushing Cheetah!<br />
-Try to outrun this demon to get left in the dust.」<br />
-（日文：「スピーディーナンダー！ラッシングチーター！」）</p></td>
-</tr>
-<tr class="even">
 <td><p>Flying Falcon</p></td>
 <td><p>フライングファルコン</p></td>
 <td><p>飛翔獵鷹</p></td>
@@ -474,6 +458,28 @@ Try to outrun this demon to get left in the dust.」<br />
 變身音效為「Fly to the sky! Flying Falcon!<br />
 Spread your wings and prepare for a force.」<br />
 （日文：「フライ．トー．ザー．スカイ！フライングファルコン！」）</p></td>
+</tr>
+<tr class="odd">
+<td><p>Shooting Wolf</p></td>
+<td><p>シューティングウルフ</p></td>
+<td><p>射擊野狼</p></td>
+<td></td>
+<td><p>以<a href="../Page/狼.md" title="wikilink">狼</a>為原型，變身或轉換形態成<strong>射擊野狼</strong>。<br />
+啓動音效為「Bullet」（日文：「バレット」）<br />
+變身音效為「Shot rise! Shooting Wolf!<br />
+The elevation increases as the bullet is fired.」<br />
+（日文：「ショットライズ！シューティングウルフ！」）</p></td>
+</tr>
+<tr class="even">
+<td><p>Rushing Cheetah</p></td>
+<td><p>ラッシングチーター</p></td>
+<td><p>疾馳獵豹</p></td>
+<td></td>
+<td><p>以<a href="https://zh.wikipedia.org/wiki/獵豹" title="wikilink">獵豹為原型</a>，變身或轉換形態成<strong>疾馳獵豹</strong>。<br />
+啓動音效為「Dash」（日文：「ダッシュ」）<br />
+變身音效為「Speedy Nander! Rushing Cheetah!<br />
+Try to outrun this demon to get left in the dust.」<br />
+（日文：「スピーディーナンダー！ラッシングチーター！」）</p></td>
 </tr>
 <tr class="odd">
 <td><p>Biting Shark</p></td>
@@ -529,7 +535,7 @@ Spread your wings and prepare for a force.」<br />
 <td><p>刺針天蠍</p></td>
 <td></td>
 <td><p>以<a href="../Page/蠍子.md" title="wikilink">蠍子</a>為原型，變身或轉換形態成<strong>刺針天蠍</strong>。<br />
-啓動音效為「Poison」（日文：「ポイソン」）<br />
+啓動音效為「Poison」（日文：「ポイズン」）<br />
 變身音效為「Force rise! Sting Scorpion!<br />
 」<br />
 （日文：「フォースライズ！　スティングスコーピオン！」）</p></td>
@@ -548,7 +554,7 @@ Spread your wings and prepare for a force.」<br />
 <td><p>閃耀蝗蟲</p></td>
 <td></td>
 <td><p>變身或轉換形態成<strong>閃耀蝗蟲</strong>，為<strong>假面騎士ZERO-ONE</strong>的進化形態。<br />
-搭配突擊野狼的扳機配件可合成<strong>閃耀突擊蝗蟲</strong>。</p></td>
+搭配突擊野狼的突擊扳機配件可合成<strong>閃耀突擊蝗蟲</strong>。</p></td>
 </tr>
 <tr class="even">
 <td><p>Assault Wolf</p></td>
@@ -570,6 +576,11 @@ Spread your wings and prepare for a force.」<br />
 ## 本作登場怪人
 
 <small>有關參考：[用語](https://zh.wikipedia.org/wiki/假面騎士ZERO-ONE#用語 "wikilink")</small>
+
+### 戰鬥員Magia
+
+  -
+    原文：
 
 ### Magia
 
@@ -630,11 +641,6 @@ Spread your wings and prepare for a force.」<br />
 </tbody>
 </table>
 
-### 戰鬥員Magia
-
-  -
-    原文：
-
 ## 播放列表
 
 以下時間以當地時間（[日本時間](../Page/國家標準時間.md "wikilink")）為準
@@ -647,7 +653,7 @@ Spread your wings and prepare for a force.」<br />
 <th><p>日本原文標題</p></th>
 <th><p>中文標題</p></th>
 <th><p>登場敵方怪人</p></th>
-<th><p>關東收視率[5]</p></th>
+<th><p>關東收視率[7]</p></th>
 <th><p>編劇</p></th>
 <th><p>導演</p></th>
 </tr>
@@ -655,15 +661,25 @@ Spread your wings and prepare for a force.」<br />
 <tbody>
 <tr class="odd">
 <td><p>2019/09/01</p></td>
+<td><p>01</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>我是社長假面騎士</p></td>
 <td></td>
 <td><p>%</p></td>
 <td><p>高橋悠也</p></td>
 <td><p>杉原輝昭</p></td>
 </tr>
 <tr class="even">
+<td><p>2019/09/08</p></td>
+<td><p>02</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>%</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -680,12 +696,19 @@ Spread your wings and prepare for a force.」<br />
 
 ### 劇場版
 
-  - 《[劇場版 假面騎士ZI-O Over Quartzer](../Page/劇場版_假面騎士ZI-O_Over_Quartzer.md "wikilink")》（2019年7月26日上映）\[6\]
-  - 《[假面騎士 NEXT GENERATIONS 2020](https://zh.wikipedia.org/wiki/假面騎士_NEXT_GENERATIONS_2020 "wikilink")》（2019年12月上映）
+  - 《[劇場版 假面騎士ZI-O Over Quartzer](../Page/劇場版_假面騎士ZI-O_Over_Quartzer.md "wikilink")》（2019年7月26日上映）\[8\]
+  - 《[假面騎士 令和 The First Generation](https://zh.wikipedia.org/wiki/假面騎士_令和_The_First_Generation "wikilink")》（2019年12月上映）
 
 ## 樂曲
 
 ### 主題曲
+
+「**REAL×EYEZ**」\[9\]
+
+  - 演唱：J×Takanori Nishikawa
+  - 作曲：J
+  - 作詞：
+  - 編曲：DJ'TEKINA//SOMETHING
 
 ## 製作人員
 
@@ -712,5 +735,8 @@ Spread your wings and prepare for a force.」<br />
 2.  蝗蟲為基本造型原先只有昭和時期的假面騎士才有，而平成時期的基本型態不再以蝗蟲為主，而是對應作品的主題而出現各式各樣的造型，如今再次回歸原點。
 3.  而且今次亦是最特别的一次，因为本作的主角骑士是被称作为「社长骑士」
 4.  飾演天空寺尊的[西銘駿](../Page/西銘駿.md "wikilink")（第27屆）、飾演寶生永夢的[飯島寬騎](../Page/飯島寬騎.md "wikilink")（第28屆），以及飾演桐生戰兔的[犬飼貴丈](../Page/犬飼貴丈.md "wikilink")（第25屆）為主角騎士，飾演詩島剛的[稻葉友](https://zh.wikipedia.org/wiki/稻葉友 "wikilink")（第22屆）以及飾演明光院月津的（第29屆）為二騎，飾演Chase的[上遠野太洸](../Page/上遠野太洸.md "wikilink")（第23屆）為三騎。
-5.  日本關東地區平均收視率。
-6.  [「劇場版 仮面ライダージオウ Over Quartzer」奥野壮×押田岳×大幡しえり×渡邊圭祐インタビュー - 映画ナタリー 特集・インタビュー](https://natalie.mu/eiga/pp/zi-o_ryusoul)
+5.  與《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》高橋悠也一人執筆不同，本作由高橋悠也等人共同執筆。
+6.
+7.  日本關東地區平均收視率。
+8.  [「劇場版 仮面ライダージオウ Over Quartzer」奥野壮×押田岳×大幡しえり×渡邊圭祐インタビュー - 映画ナタリー 特集・インタビュー](https://natalie.mu/eiga/pp/zi-o_ryusoul)
+9.  [「仮面ライダーゼロワン」西川貴教＆LUNA SEA・Jが主題歌アーティストに決定！](https://news.livedoor.com/article/detail/16943413/?fbclid=IwAR23cRolnyRlSCksU-FNW6BEOWg_WufdbU-Kf4SEyCJHMlldjXA2ic9HyFs)

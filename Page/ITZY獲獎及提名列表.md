@@ -86,11 +86,12 @@
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2</p></td>
+<td><p>3</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong>一位總數：9</strong><br />
-<strong>四台冠軍歌曲：1</strong></p></td>
+<td><p><strong>一位總數：15</strong><br />
+<strong>四台冠軍歌曲：1</strong><br />
+<strong>五台冠軍歌曲：1</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -101,6 +102,7 @@
 | ----- | ----- | ----------- |
 | 2019年 | 2月21日 | Dalla Dalla |
 | 3月7日  |       |             |
+| 8月8日  | ICY   |             |
 
   - 註：每首歌曲最多只能獲得一位三次，獲獎三次後會自動在候補名單中被剔除。
 
@@ -111,6 +113,7 @@
 |       |       |             |
 | 2019年 | 2月23日 | Dalla Dalla |
 | 3月9日  |       |             |
+| 8月10日 | ICY   |             |
 
 ### [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")
 
@@ -118,6 +121,7 @@
 | ----- | ---- | ----------- |
 | 2019年 | 3月8日 | Dalla Dalla |
 | 3月15日 |      |             |
+| 8月16日 | ICY  |             |
 
 ### [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")
 
@@ -126,6 +130,16 @@
 | 2019年 | 2月24日 | Dalla Dalla |
 | 3月3日  |       |             |
 | 3月10日 |       |             |
+| 8月11日 | ICY   |             |
+
+  - 註：每首歌曲最多只能獲得一位三次，獲獎三次後會自動在候補名單中被剔除
+
+### [Show Champion](../Page/Show_Champion.md "wikilink")
+
+| 年份    | 日期   | 歌曲名稱 |
+| ----- | ---- | ---- |
+| 2019年 | 8月7日 | ICY  |
+| 8月14日 |      |      |
 
   - 註：每首歌曲最多只能獲得一位三次，獲獎三次後會自動在候補名單中被剔除。
 

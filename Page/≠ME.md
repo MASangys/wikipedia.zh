@@ -1,15 +1,15 @@
-**≠ME**（，簡稱「」）是2019年成立的日本女子[聲優](../Page/聲優.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，為[=LOVE](../Page/=LOVE.md "wikilink")的姐妹團，與=LOVE同樣由[指原莉乃](../Page/指原莉乃.md "wikilink")擔任總製作人。團名有「希望體驗到與現在為止不同的自己」的含義\[1\]。
+**≠ME**（，簡稱「」）是2019年成立的日本女子[聲優](../Page/聲優.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，為[=LOVE](../Page/=LOVE.md "wikilink")的姐妹團，與=LOVE同樣由[指原莉乃](../Page/指原莉乃.md "wikilink")擔任總製作人。團名以英文讀做「Not Equal Me」（不等於我），有著「希望體驗到與現在為止不同的自己」的含義\[1\]。
 
 ## 歷史
 
 **2018年**
 
-  - 11月12日，指原莉乃在個人[Twitter](../Page/Twitter.md "wikilink")發表聲優偶像「[=LOVE](../Page/=LOVE.md "wikilink")」的姐妹團甄選活動\[2\]。
+  - 11月12日，指原莉乃在個人[Twitter](../Page/Twitter.md "wikilink")發表聲優偶像「[=LOVE](../Page/=LOVE.md "wikilink")」的姐妹團甄選活動\[2\]。指原表示曾經考慮是否要為=LOVE招收「2期生」，但最後決定改採另立新團體的方式進行新成員募集\[3\]（指原本人當時所屬的[AKB48集團](../Page/AKB48集團.md "wikilink")，旗下各團就是以「○○期生」的名義分梯招募新成員）。
 
 **2019年**
 
-  - 2月24日，成員正式披露，同時發表團體名稱為「≠ME」\[3\]。其中一名成員因學業因素缺席而未公布姓名。
-  - 4月8日，先前未公布姓名的成員於官方Twitter發表\[4\]。
+  - 2月24日，成員正式披露，同時發表團體名稱為「≠ME」\[4\]。其中一名成員因學業因素缺席而未公布姓名。
+  - 4月8日，先前未公布姓名的成員於官方Twitter發表\[5\]。
 
 ## 成員
 
@@ -136,6 +136,8 @@
 
   -
   -
+
+  -
 [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本配音員團體](https://zh.wikipedia.org/wiki/Category:日本配音員團體 "wikilink") [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink") [Category:指原莉乃](https://zh.wikipedia.org/wiki/Category:指原莉乃 "wikilink") [Category:代代木动画学院](https://zh.wikipedia.org/wiki/Category:代代木动画学院 "wikilink")
 
 1.
@@ -144,3 +146,4 @@
 
 3.
 4.
+5.

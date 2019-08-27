@@ -24,27 +24,26 @@
 
 ## 成員
 
-**主唱**
-
-  - RIKU ( 1994年 [8月10日](../Page/8月10日.md "wikilink") -)
-  - 川村壱馬 (KAWAMURA KAZUMA，1997年 [1月7日](../Page/1月7日.md "wikilink") -)
-  - 吉野北人 (YOSHINO HOKUTO，1997年 [3月6日](../Page/3月6日.md "wikilink") -)
-
-**表演者**
-
-  - LIKIYA (1990年 [11月28日](../Page/11月28日.md "wikilink") -) 隊長
-  - 陣 (ZIN，1994年 [4月28日](../Page/4月28日.md "wikilink") -) 隊長
-  - 神谷健太 (KAMIYA KENTA 1995年 [5月27日](../Page/5月27日.md "wikilink") -)
-  - 与那嶺瑠唯 (YONAMINE RUI，1995年 [8月16日](../Page/8月16日.md "wikilink") -)
-  - 山本彰吾 (YAMAMOTO SHOGO，1995年 [10月6日](../Page/10月6日.md "wikilink") -)
-  - 岩谷翔吾 (IWAYA SHOGO，1997年 [3月11日](../Page/3月11日.md "wikilink") -)
-  - 浦川翔平 (URAKAWA SHOHEI，1997年 [5月23日](../Page/5月23日.md "wikilink") -)
-  - 藤原樹 (FUJIWARA ITSUKI，1997年 [10月20日](../Page/10月20日.md "wikilink") -)
-  - 武知海青 (TAKECHI KAISEI， 1998年 [2月4日](../Page/2月4日.md "wikilink") -)
-  - 長谷川慎 (HASEGAWA MAKOTO，1998年 [7月29日](https://zh.wikipedia.org/wiki/7月29日 "wikilink") -)
-  - 龍 (RYU，1998年 [9月9日](../Page/9月9日.md "wikilink") -)
-  - 鈴木昂秀 (SUZUKI TAKAHIDE，1998年 [10月3日](../Page/10月3日.md "wikilink") -)
-  - 後藤拓磨 ( GOTO TAKUMA，1998年 [12月4日](../Page/12月4日.md "wikilink") -)
+| 成員列表   |
+| ------ |
+| 名字     |
+| LIKIYA |
+| 陣      |
+| RIKU   |
+| 神谷健太   |
+| 與那嶺瑠唯  |
+| 山本彰吾   |
+| 川村壱馬   |
+| 吉野北人   |
+| 岩谷翔吾   |
+| 浦川翔平   |
+| 藤原樹    |
+| 武知海青   |
+| 長谷川慎   |
+| 龍      |
+| 鈴木昂秀   |
+| 後藤拓磨   |
+|        |
 
 ## 作品
 

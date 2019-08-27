@@ -1,4 +1,4 @@
-《**Queendom**》（），為韓國[Mnet電視台於](https://zh.wikipedia.org/wiki/Mnet "wikilink")2019年8月推出的綜藝節目\[1\]，由[李多熙主持](../Page/李多熙_\(演員\).md "wikilink")\[2\]，節目主軸為同時發行新單曲的6組K-POP大勢女團（[MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")、[AOA](../Page/AOA.md "wikilink")、[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")、[OHMYGIRL](https://zh.wikipedia.org/wiki/OHMYGIRL "wikilink")、[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")、[朴春](../Page/朴春.md "wikilink")）回歸大戰\[3\]\[4\]。
+《**Queendom**》（），為韓國[Mnet](../Page/Mnet.md "wikilink")電視台於2019年8月推出的綜藝節目\[1\]，由[李多熙及](../Page/李多熙_\(演員\).md "wikilink")[張聖圭](../Page/張聖圭.md "wikilink")主持\[2\]，節目主軸為同時發行新單曲的6組K-POP大勢女團（[朴春](../Page/朴春.md "wikilink")、[AOA](../Page/AOA.md "wikilink")、[MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")、[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")、[Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")、[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")）回歸大戰\[3\]\[4\]。
 
 ## 各集內容
 
@@ -35,7 +35,7 @@
 </tr>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p>2019/8/</p></td>
+<td><p>2019/8/29</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">

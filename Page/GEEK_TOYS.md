@@ -27,7 +27,7 @@
 <tr class="even">
 <td><p><a href="../Page/只要長得可愛，即使是變態你也喜歡嗎？.md" title="wikilink">只要長得可愛，即使是變態你也喜歡嗎？</a></p></td>
 <td></td>
-<td><p>2019年7月8日－</p></td>
+<td><p>2019年7月8日－播放中</p></td>
 <td><p>轻小说</p></td>
 <td><p>12</p></td>
 <td></td>
@@ -35,7 +35,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/掠夺者_(漫画)" title="wikilink">掠夺者</a></p></td>
 <td></td>
-<td><p>2020年1月</p></td>
+<td><p>2020年1月－（預定）</p></td>
 <td><p>漫画</p></td>
 <td></td>
 <td></td>

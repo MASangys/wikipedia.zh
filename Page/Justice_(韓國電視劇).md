@@ -46,11 +46,11 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金熙燦.md" title="wikilink">金熙燦</a></p></td>
-<td></td>
-<td><p>。</p></td>
+<td><p>宋大鎮</p></td>
+<td><p>宋佑榮會長的兒子。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金玟錫" title="wikilink">金玟錫</a></p></td>
+<td><p>金玟錫</p></td>
 <td><p>李東日</p></td>
 <td><p>張娛樂所屬經紀人。</p></td>
 </tr>
@@ -107,13 +107,13 @@
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>6.4%</p></td>
-<td><p>6.5%</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2019/07/18</p></td>
-<td><p>3.8%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
@@ -163,42 +163,42 @@
 <tr class="even">
 <td><p>13</p></td>
 <td><p>2019/08/07</p></td>
-<td><p>%</p></td>
+<td><p>4.2%</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.1%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
 <td><p>2019/08/08</p></td>
-<td><p>%</p></td>
+<td><p>4.3%</p></td>
 </tr>
 <tr class="odd">
 <td><p>16</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.0%</p></td>
+<td><p>4.9%</p></td>
 </tr>
 <tr class="even">
 <td><p>17</p></td>
 <td><p>2019/08/14</p></td>
-<td><p>%</p></td>
+<td><p>4.2%</p></td>
 </tr>
 <tr class="odd">
 <td><p>18</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.7%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>19</p></td>
 <td><p>2019/08/15</p></td>
-<td><p>%</p></td>
+<td><p>4.7%</p></td>
 </tr>
 <tr class="odd">
 <td><p>20</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.4%</p></td>
+<td><p>5.8%</p></td>
 </tr>
 <tr class="even">
 <td><p>21</p></td>

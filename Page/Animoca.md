@@ -3,6 +3,7 @@
 ## 外部連結
 
   - <https://www.animocabrands.com>
+  - <https://www.zeroth.ai/>
 
 ## 引用
 

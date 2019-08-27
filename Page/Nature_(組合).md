@@ -156,8 +156,9 @@
 <ul>
 <li>發行日期 ：2019年7月10日</li>
 <li>語言：韓語</li>
-<li>銷量：</li>
-</ul></td>
+<li>銷量：7,951+<sup>(Gaon)</sup>[11]</li>
+</ul>
+<p>、6,787+<sup>(Hanteo)</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -181,7 +182,9 @@
 
 | 日期         | 電視台  | 節目名稱        | 參與成員       |
 | ---------- | ---- | ----------- | ---------- |
-| 2019年7月16日 | JTBC | 《Idol Room》 | 全員(Gaga除外) |
+| 2019年7月13日 | SBS  | 《叢林的法則》     | Saebom     |
+|            |      |             |            |
+| 2019年7月16日 | JTBC | 《Idol Room》 | 全員(Gaga缺席) |
 |            |      |             |            |
 
 ## 獎項
@@ -295,3 +298,4 @@
 8.
 9.  <https://www.youtube.com/watch?v=-7N-dRhXuko>
 10. <https://www.youtube.com/watch?v=HxvAiEcy_oM>
+11. [2019年7月GAON專輯榜40位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2019&termGbn=month)

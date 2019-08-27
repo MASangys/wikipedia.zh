@@ -25,6 +25,8 @@
   -
   -
   -
+{{=LOVE}}
+
 [Category:2018年单曲](https://zh.wikipedia.org/wiki/Category:2018年单曲 "wikilink") [Category:=LOVE歌曲](https://zh.wikipedia.org/wiki/Category:=LOVE歌曲 "wikilink") [Category:日本索尼音樂娛樂歌曲](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂歌曲 "wikilink")
 
 1.

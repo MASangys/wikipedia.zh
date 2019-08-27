@@ -24,7 +24,7 @@
 
 政府公佈決定後，馬來穆斯林社群出現顯著聲音反對簽署公約，反對理由包括簽署公約讓政府有機會廢除[土著](../Page/馬來西亞土著.md "wikilink")（馬來人與原住民）的特別權力，及腐蝕[伊斯蘭的神聖性](https://zh.wikipedia.org/wiki/伊斯蘭 "wikilink")\[19\]，並影響[伊斯蘭教作為聯邦宗教的地位](https://zh.wikipedia.org/wiki/馬來西亞回教 "wikilink")\[20\]。
 
-前[馬來西亞青年及體育部部長](https://zh.wikipedia.org/wiki/馬來西亞青年及體育部 "wikilink")、也是前巫統青年團團長的[凱里首先在](https://zh.wikipedia.org/wiki/凱里·嘉馬魯丁 "wikilink")[國會質疑簽署公約有可能違憲](https://zh.wikipedia.org/wiki/馬來西亞國會 "wikilink")，影響[馬來西亞憲法中保護馬來人與土著權利的第](https://zh.wikipedia.org/wiki/馬來西亞憲法 "wikilink")153條文。對此，[捍衛自由律師團顧問](https://zh.wikipedia.org/wiki/捍衛自由律師團 "wikilink")稱凱里錯誤詮釋，並指出馬來西亞可以對與聯邦憲法153條文相抵觸的《消除一切形式種族歧視國際公約》第2.2條提出保留\[21\]。  10月31日，約百名穆斯林非政府組織成員在國會前抬棺抗議，並呼籲馬來穆斯林團結一致，拒絕任何威脅種族與宗教主權的舉措。他們隨後也獲伊斯蘭黨主席[哈迪阿旺](../Page/哈迪阿旺.md "wikilink")與該黨其他高層所接待，陪同進入國會提呈[備忘錄給政府](https://zh.wikipedia.org/wiki/備忘錄 "wikilink")\[22\]。
+前[馬來西亞青年及體育部部長](https://zh.wikipedia.org/wiki/馬來西亞青年及體育部 "wikilink")、也是前巫統青年團團長的[凱里首先在](https://zh.wikipedia.org/wiki/凱里·嘉馬魯丁 "wikilink")[國會質疑簽署公約有可能違憲](https://zh.wikipedia.org/wiki/馬來西亞國會 "wikilink")，影響[馬來西亞憲法中保護馬來人與土著權利的第](https://zh.wikipedia.org/wiki/馬來西亞憲法 "wikilink")153條文。對此，[捍衛自由律師團顧問](https://zh.wikipedia.org/wiki/捍衛自由律師團 "wikilink")稱凱里錯誤詮釋，並指出馬來西亞可以對與聯邦憲法153條文相抵觸的《消除一切形式種族歧視國際公約》第2.2條提出保留\[21\]。  10月31日，約百名穆斯林非政府組織成員在國會前抬棺抗議，並呼籲馬來穆斯林團結一致，拒絕任何威脅種族與宗教主權的舉措。他們隨後也獲伊斯蘭黨主席[哈迪阿旺](../Page/哈迪阿旺.md "wikilink")與該黨其他高層所接待，陪同進入國會提呈[備忘錄](../Page/備忘錄.md "wikilink")給政府\[22\]。
 
 前[馬來西亞聯邦法院首席大法官](https://zh.wikipedia.org/wiki/馬來西亞聯邦法院 "wikilink")亦在《[馬來西亞前鋒報](https://zh.wikipedia.org/wiki/馬來前鋒報 "wikilink")》發表社論，表示一旦政府簽署公約，聯邦憲法第153條文將被迫廢除\[23\]。此說法遭首相署部長瓦達穆迪駁斥，他強調簽署公約是希望聯盟的競選宣言之一\[24\]，且並不會對153條文有任何影響\[25\]。
 

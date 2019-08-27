@@ -52,15 +52,15 @@
 
 ### 沖繩篇
 
-上原家除了已成年的大姊洋子獨留東京之外，舉家搬到西表島，生活在環境極為簡陋的森林小木屋，素來懶散的一郎竟然拿起鋤頭耕田，自給自足，母親阿櫻也露出樂在其中的表情，令二郎和桃子非常不適應，但抱怨歸抱怨，兩兄妹還是常常騎著腳踏車四處在島上探險，還因此結識了在島上生活大半年的加拿大人班尼。
+上原家除了已成年的大姊洋子獨留東京之外，舉家搬到西表島，生活在環境極為簡陋的森林小木屋，素來懶散的一郎竟然拿起鋤頭耕田起來，母親阿櫻也露出樂在其中的表情，令二郎和桃子非常不適應，但抱怨歸抱怨，兩兄妹還是常常騎著腳踏車四處在島上探險，還因此結識了在島上生活大半年的加拿大人班尼。
 
 一陣子後，原本在東京的姊姊洋子結束一場不倫戀，也搬來西表島上居住，竟然馬上吸引起派出所巡查新垣深情的愛慕。洋子順手帶來一封二郎班導南愛子的道歉信，信中說「校長果真有收回扣」，「我身為大人卻不敢提出質疑反抗，感到十分羞愧」，「你有個值得你驕傲的父親」云云，大大扭轉二郎對父親一郎的看法。然後也多虧洋子的到來，二郎和桃子才順利進入全校僅有六人的南風小學就讀。
 
-後來，一郎開著阿明叔送給二郎的船，帶一家人四處捕魚遊玩，二郎覺得姊姊和父親的關係莫名拉近了，正當一家人漸漸習慣在西表島上自由自在的生活後，村議員兼建商社長座間進行開發案的消息傳來，將怪手開進森林，揚言要拆除上原家的木屋，打破了這地方的寧靜生活。
+後來，一郎開著阿明叔送給二郎的船，帶一家人四處捕魚遊玩，二郎覺得姊姊和父親的關係莫名拉近了，正當一家人漸漸習慣在西表島上無拘無束的生活之後，村議員兼建商社長座間進行開發案的消息傳來，將怪手開進森林，揚言要拆除上原家的木屋，打破了這地方的寧靜生活。
 
 二郎六年級唯一的同學，白井七惠的阿姨來到上原家，商請曾有從事社會運動豐富經驗的一郎來領導他們展開抗議，卻被一郎嚴正拒絕，他對此表示他不願意屬於任何組織，只想一個人行動，這樣強硬的作法又得罪白井七惠阿姨，還有她身邊的村民。
 
-一郎依然故我，後來和班尼聯手破壞座間社長的推土機與怪手等器具，導致一郎夫妻都被扭送至警局，但在拘留派出所的夜晚，趁著大風大浪，這對夫妻居然偷偷溜走了！上原夫婦在臨走之前，將二郎和桃子託付給長女洋子，便灑脫地開船揚長而去。
+一郎依然故我，後來和班尼聯手破壞座間社長的推土機與怪手等器具，導致一郎夫妻都被扭送至警局，但在拘留派出所的夜晚，趁著大風大浪及無人注意時，這對夫妻居然偷偷溜走了！上原夫婦在臨走之前，將二郎和桃子託付給長女洋子，便灑脫地駕著船揚長而去。
 
 「那是我的船，要記得還我喔！」二郎望著父母漸行漸遠的背影，如是放聲吶喊。\[5\]
 
@@ -73,7 +73,7 @@
 
 ## 參考資料
 
-[Category:奧田英朗](https://zh.wikipedia.org/wiki/Category:奧田英朗 "wikilink") [Category:2005年小说](https://zh.wikipedia.org/wiki/Category:2005年小说 "wikilink") [Category:2000年代背景作品](https://zh.wikipedia.org/wiki/Category:2000年代背景作品 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink") [Category:沖繩縣背景作品](https://zh.wikipedia.org/wiki/Category:沖繩縣背景作品 "wikilink") [Category:直木三十五獎](https://zh.wikipedia.org/wiki/Category:直木三十五獎 "wikilink") [Category:书店大奖获奖作品](https://zh.wikipedia.org/wiki/Category:书店大奖获奖作品 "wikilink") [Category:2007年电影](https://zh.wikipedia.org/wiki/Category:2007年电影 "wikilink") [Category:小說改編電影](https://zh.wikipedia.org/wiki/Category:小說改編電影 "wikilink") [Category:角川電影](https://zh.wikipedia.org/wiki/Category:角川電影 "wikilink") [Category:改編成電影的日本小說](https://zh.wikipedia.org/wiki/Category:改編成電影的日本小說 "wikilink") [Category:日本劇情片](https://zh.wikipedia.org/wiki/Category:日本劇情片 "wikilink")
+[Category:奧田英朗](https://zh.wikipedia.org/wiki/Category:奧田英朗 "wikilink") [Category:2005年小说](https://zh.wikipedia.org/wiki/Category:2005年小说 "wikilink") [Category:2000年代背景作品](https://zh.wikipedia.org/wiki/Category:2000年代背景作品 "wikilink") [Category:東京都背景作品](https://zh.wikipedia.org/wiki/Category:東京都背景作品 "wikilink") [Category:沖繩縣背景作品](https://zh.wikipedia.org/wiki/Category:沖繩縣背景作品 "wikilink") [Category:直木三十五獎](https://zh.wikipedia.org/wiki/Category:直木三十五獎 "wikilink") [Category:2007年电影](https://zh.wikipedia.org/wiki/Category:2007年电影 "wikilink") [Category:小說改編電影](https://zh.wikipedia.org/wiki/Category:小說改編電影 "wikilink") [Category:角川電影](https://zh.wikipedia.org/wiki/Category:角川電影 "wikilink") [Category:改編成電影的日本小說](https://zh.wikipedia.org/wiki/Category:改編成電影的日本小說 "wikilink") [Category:日本劇情片](https://zh.wikipedia.org/wiki/Category:日本劇情片 "wikilink")
 
 1.
 

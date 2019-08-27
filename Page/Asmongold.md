@@ -6,7 +6,7 @@
 
 2010年，Asmongold建立了自己的[YouTube](../Page/YouTube.md "wikilink")頻道，在2018年已擁有超過三十萬的訂閱人數。
 
-2016年，Asmongold開始在Twitch實況遊玩魔獸世界，並漸漸成為擁有最多觀看人數的魔獸世界實況主之一，擁有超過五十萬的追蹤人數。平時實況約有兩萬觀看人次。\[1\] 用「Never Stop Being Big Dick」的遊戲精神影響了不少魔獸世界玩家。
+2016年，Asmongold開始在Twitch實況遊玩魔獸世界，並漸漸成為擁有最多觀看人數的魔獸世界實況主之一，擁有超過五十萬的追蹤人數。平時實況約有兩萬觀看人次。\[1\] 用「Never Stop Going Big Dick」的遊戲精神影響了不少魔獸世界玩家。
 
 ## 魔獸世界
 

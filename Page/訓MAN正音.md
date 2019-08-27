@@ -82,7 +82,7 @@
 <td><p>E01－E12</p></td>
 </tr>
 <tr class="even">
-<td><p>（）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Austin_Kang" title="wikilink">Austin Kang</a>（）</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/廚師.md" title="wikilink">廚師</a>、<a href="../Page/模特兒.md" title="wikilink">模特兒</a></p></td>
@@ -189,6 +189,8 @@ E05－E12</p></td>
 </tr>
 </tbody>
 </table>
+
+## 註釋
 
 ## 參考資料
 

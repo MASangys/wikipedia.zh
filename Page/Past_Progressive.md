@@ -4,6 +4,6 @@
 
 ## 参考文献
 
-[Category:中國大陸音樂專輯](https://zh.wikipedia.org/wiki/Category:中國大陸音樂專輯 "wikilink")
+[Category:张靓颖音乐专辑](https://zh.wikipedia.org/wiki/Category:张靓颖音乐专辑 "wikilink") [Category:2019年音乐专辑](https://zh.wikipedia.org/wiki/Category:2019年音乐专辑 "wikilink")
 
 1.   新浪网 [张靓颖接受BBC采访谈新曲 英文专辑制作中](https://ent.sina.cn/music/yneidi/2016-12-22/detail-ifxyxusa4785105.d.html?from=wap) 2016年12月22日.

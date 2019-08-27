@@ -1429,9 +1429,9 @@ Team X</p></td>
 
   - TOP 1：获得第一名的成员将发行个人EP，制作个人MV\[10\]。
   - TOP 2-3：拍摄个人总选汇报PV作品\[11\]。
-  - 星光組（TOP 1-16）：参与由EP专辑录制，赴[日本](../Page/日本.md "wikilink")拍摄总选汇报MV作品\[12\]。
-  - 高飛組（TOP 17-32）：参与由EP专辑录制，赴海外或亚太地区拍摄总选汇报MV作品\[13\]。
-  - 夢想組（TOP 33-48）：参与由EP专辑录制，赴海外或亚太地区拍摄总选汇报MV作品\[14\]。
+  - 星光組（TOP 1-16）：参与由EP专辑录制，于[日本](../Page/日本.md "wikilink")[札幌拍摄总选汇报MV作品](https://zh.wikipedia.org/wiki/札幌 "wikilink")\[12\]。
+  - 高飛組（TOP 17-32）：参与由EP专辑录制，于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首尔拍摄总选汇报MV作品](https://zh.wikipedia.org/wiki/首尔 "wikilink")\[13\]。
+  - 夢想組（TOP 33-48）：参与由EP专辑录制，于[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[北京拍摄总选汇报MV作品](https://zh.wikipedia.org/wiki/北京 "wikilink")\[14\]。
 
 ### TOP 16个人资源
 
@@ -1451,7 +1451,7 @@ TOP 48成员将优先获得电影、电视剧及网络剧，综艺节目及其�
 
 ### 其他激励与回报
 
-TOP 32星光组和高飞组的成员们将有机会参与SNH48海外特别公演、Fan Meeting、握手会等在亚洲落地活动。入选成员将分别在SNH48、BEJ48、GNZ48星梦剧院轮流举行第五届年度偶像人气总决选纪念及答谢公演并同步举行答谢握手会活动\[20\]。
+TOP 32星光组和高飞组的成员们将有机会参与SNH48海外特别公演、Fan Meeting、握手会等在亚洲各地活动。入选成员将分别在SNH48、BEJ48、GNZ48星梦剧院轮流举行第五届年度偶像人气总决选纪念及答谢公演并同步举行答谢握手会活动\[20\]。
 
 ## 註釋說明
 

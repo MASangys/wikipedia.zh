@@ -2,4 +2,4 @@
 
 ## 參考資料
 
-[Category:布朗大學校友](https://zh.wikipedia.org/wiki/Category:布朗大學校友 "wikilink") [Category:牛津大學貝利奧爾學院校友](https://zh.wikipedia.org/wiki/Category:牛津大學貝利奧爾學院校友 "wikilink") [Category:耶魯大學教授](https://zh.wikipedia.org/wiki/Category:耶魯大學教授 "wikilink") [Category:美國歷史學家](https://zh.wikipedia.org/wiki/Category:美國歷史學家 "wikilink")
+[Category:布朗大學校友](https://zh.wikipedia.org/wiki/Category:布朗大學校友 "wikilink") [Category:牛津大學貝利奧爾學院校友](https://zh.wikipedia.org/wiki/Category:牛津大學貝利奧爾學院校友 "wikilink") [Category:耶魯大學教授](https://zh.wikipedia.org/wiki/Category:耶魯大學教授 "wikilink") [Category:美國歷史學家](https://zh.wikipedia.org/wiki/Category:美國歷史學家 "wikilink") [Category:研究纳粹主义的历史学家](https://zh.wikipedia.org/wiki/Category:研究纳粹主义的历史学家 "wikilink") [Category:马歇尔计划学者](https://zh.wikipedia.org/wiki/Category:马歇尔计划学者 "wikilink")
