@@ -1,6 +1,6 @@
 **李知恩**（；），藝名**IU**（ ），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[创作歌手](../Page/創作歌手.md "wikilink")、[女演员](https://zh.wikipedia.org/wiki/女演员 "wikilink")。[韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")登記編號為10000992。
 
-上中学时，IU为实现成为歌手的梦想，参加许多经纪公司的选拔。她于2007与[LOEN娛樂签约成为練習生](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，15岁时推出首张迷你专辑《[Lost and Found](../Page/Lost_and_Found_\(IU迷你专辑\).md "wikilink")》，开始歌手生涯。之后发行的专辑《[Growing Up](../Page/Growing_Up_\(IU专辑\).md "wikilink")》和《[IU...IM](../Page/IU...IM.md "wikilink")》使IU的知名度上涨。真正让IU在韩国全国走红的是她在2010年发布的专辑《[Real](../Page/Real_\(IU迷你专辑\).md "wikilink")》的主打歌《好日子》（）。《好日子》连续五周位居韩国[Gaon数位榜榜首](https://zh.wikipedia.org/wiki/Gaon数位榜 "wikilink")，与[PSY](../Page/PSY.md "wikilink")的-{《[江南Style](../Page/江南Style.md "wikilink")》}-共同保持着维持一位周数最长的记录<ref>Gaon Digital Chart references for "Good Day":
+她於2007年与[LOEN娛樂签约成为練習生](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，15岁时推出首张迷你专辑《[Lost and Found](../Page/Lost_and_Found_\(IU迷你专辑\).md "wikilink")》，开始歌手生涯。之后发行的专辑《[Growing Up](../Page/Growing_Up_\(IU专辑\).md "wikilink")》和《[IU...IM](../Page/IU...IM.md "wikilink")》使IU的知名度上涨。真正让IU在韩国全国走红的是她在2010年发布的专辑《[Real](../Page/Real_\(IU迷你专辑\).md "wikilink")》的主打歌《好日子》（）。《好日子》连续五周位居韩国[Gaon数位榜榜首](https://zh.wikipedia.org/wiki/Gaon数位榜 "wikilink")，与[PSY](../Page/PSY.md "wikilink")的-{《[江南Style](../Page/江南Style.md "wikilink")》}-共同保持着维持一位周数最长的记录<ref>Gaon Digital Chart references for "Good Day":
 
   -
   -
@@ -8,7 +8,7 @@
   -
   - </ref>。在2011年发行的专辑《[Real+](../Page/Real+.md "wikilink")》和《[Last Fantasy](../Page/Last_Fantasy.md "wikilink")》相继取得成功后，IU在韩国的音乐排行榜确立强势地位，并进一步巩固邻家女孩的形象，得到“国民妹妹”的稱號\[1\]\[2\]。IU在2013年发行的第3张正规专辑《[Modern Times](../Page/Modern_Times_\(IU专辑\).md "wikilink")》展现成熟风格，与之前树立的少女形象不同。IU后来发行的专辑《[花書籤](https://zh.wikipedia.org/wiki/花書籤 "wikilink")》和《[CHAT-SHIRE](../Page/CHAT-SHIRE.md "wikilink")》都与韩国的主流音乐风格背离，卻没有動搖她在音乐排行榜的主导地位\[3\]\[4\]\[5\]。
 
-IU共发布4张[录音室专辑和](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")9张[迷你专辑](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")，在[Gaon榜有](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")2张专辑和14首歌曲获得第一名。在以[男](../Page/男子音乐组合.md "wikilink")[女团体为主的韩国流行音乐产业中](../Page/女子音乐组合.md "wikilink")\[6\]，IU是最畅销的独唱艺人之一。自2012年起一直位列《[福布斯](../Page/福布斯.md "wikilink")》杂志的年度[韩国名人权力榜40强之一](../Page/韩国福布斯名人榜.md "wikilink")，2012年达到最高的第3名\[7\]\[8\]\[9\]。《[Billboard](../Page/告示牌_\(雜誌\).md "wikilink")》将IU认可为的领跑者，她拥有最多的冠军歌曲并且是维持第一位置周数最长的艺人\[10\]。 IU粉絲名為「UAENA」（）。
+IU共发布4张[录音室专辑和](https://zh.wikipedia.org/wiki/录音室专辑 "wikilink")9张[迷你专辑](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")，在[Gaon榜有](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")2张专辑和14首歌曲获得第一名。在以[男](../Page/男子音乐组合.md "wikilink")[女团体为主的韩国流行音乐产业中](../Page/女子音乐组合.md "wikilink")\[6\]，IU是最畅销的独唱艺人之一。自2012年起一直位列《[福布斯](../Page/福布斯.md "wikilink")》杂志的年度[韩国名人权力榜40强之一](../Page/韩国福布斯名人榜.md "wikilink")，2012年达到最高的第3名\[7\]\[8\]\[9\]。《[Billboard](../Page/告示牌_\(雜誌\).md "wikilink")》将IU认可为的领跑者，她拥有最多的冠军歌曲并且是维持第一位置周数最长的艺人\[10\]。粉絲名為「UAENA」（）。
 
 ## 早年生活
 

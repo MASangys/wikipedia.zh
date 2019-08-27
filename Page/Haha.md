@@ -1,4 +1,4 @@
-**Haha**（；），本名**河東勳**（），[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[雷鬼](https://zh.wikipedia.org/wiki/雷鬼 "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員](../Page/演員.md "wikilink")及[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")，現多半以節目主持身份活躍於演藝界。Haha為其英文名兼暱稱，因為他的姓氏「河」在韓語中讀作ha，故演藝圈稱其為「河河」，也叫「哈哈」。
+**Haha**（；），本名**河東勳**（），[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[雷鬼](https://zh.wikipedia.org/wiki/雷鬼 "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員](../Page/演員.md "wikilink")及[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")，現多半以節目主持身份活躍於演藝界。Haha為其英文名兼暱稱，因為他的姓氏「河」在韓語中讀作ha，故演藝圈稱其為「河河」，也叫「哈哈」, Running Man成員。
 
 ## 經歷
 

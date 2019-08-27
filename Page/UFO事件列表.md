@@ -389,7 +389,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/佩恩次维UFO事件/与火车相撞" title="wikilink">佩恩次维UFO事件/与火车相撞</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/佩恩次维" title="wikilink">佩恩次维</a>，<a href="../Page/肯塔基州.md" title="wikilink">肯塔基州</a></p></td>
 <td><p>美国</p></td>
-<td><p>一辆列车撞上了悬停在铁轨上的UFO。列车被严重损毁，还包括2列有轨电车。</p></td>
+<td><p>一辆辆列车撞上了悬停在铁轨上的UFO。列车被严重损毁，还包括2列有轨电车。</p></td>
 <td><p>1</p></td>
 <td><p>[46]</p></td>
 </tr>

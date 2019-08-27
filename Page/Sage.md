@@ -11,7 +11,7 @@ Sage通常被称为**sagemath**，因为*sage*在英语中是一个常见词。
 Sage的功能包括\[1\]
 
   - 一个用于回顾及重新使用以前的输入和输出及加入图形和文本注释的记事本文档接口，可在通用的网页浏览器如[Firefox](../Page/Firefox.md "wikilink")、[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")、[Konqueror](../Page/Konqueror.md "wikilink")和[Safari](../Page/Safari.md "wikilink")中使用。在安全和保密要求高的情况下可通过HTTPS与记事本连接，Sage可同时在本地和远程使用。
-  - 一个使用[IPython的基于文本的命令行界面](https://zh.wikipedia.org/wiki/IPython "wikilink")
+  - 一个使用[IPython](../Page/IPython.md "wikilink")的基于文本的命令行界面
   - [Python](../Page/Python.md "wikilink")编程语言，支持[函数化编程和](https://zh.wikipedia.org/wiki/函數程式語言 "wikilink")[面向对象的结构](../Page/面向对象程序设计.md "wikilink")。
   - 支持多核处理器，[多处理器](https://zh.wikipedia.org/wiki/多处理器 "wikilink")，及在[并行计算](../Page/并行计算.md "wikilink")。
   - 使用[Maxima](../Page/Maxima.md "wikilink")和[SymPy](../Page/SymPy.md "wikilink")进行微积分计算。
@@ -79,7 +79,7 @@ Sage中包含的数学软件包
 
 |         |                                                                                                                                                                                                                                            |
 | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 命令行     | [IPython](https://zh.wikipedia.org/wiki/IPython "wikilink")                                                                                                                                                                                |
+| 命令行     | [IPython](../Page/IPython.md "wikilink")                                                                                                                                                                                                   |
 | 数据库     | [ZODB](https://zh.wikipedia.org/wiki/ZODB "wikilink")， [Python Pickles](https://zh.wikipedia.org/wiki/Python_Pickles "wikilink")，[SQLite](../Page/SQLite.md "wikilink")                                                                    |
 | 图形界面    | Sage Notebook， [jsmath](https://zh.wikipedia.org/wiki/jsmath "wikilink")                                                                                                                                                                   |
 | 图像      | [Matplotlib](https://zh.wikipedia.org/wiki/Matplotlib "wikilink")，[Tachyon3d](https://zh.wikipedia.org/wiki/Tachyon3d "wikilink")，[GD](https://zh.wikipedia.org/wiki/GD "wikilink"), [Jmol](https://zh.wikipedia.org/wiki/Jmol "wikilink") |

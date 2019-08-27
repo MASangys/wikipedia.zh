@@ -30,7 +30,7 @@
 <td><p>《<a href="../Page/刺客信条III.md" title="wikilink">刺客信条III</a>》</p></td>
 <td><p><em>Assassin's Creed III</em></p></td>
 <td><p><a href="../Page/育碧魁北克.md" title="wikilink">Ubisoft Quebec</a></p></td>
-<td><p>Ubisoft</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft" title="wikilink">Ubisoft</a></p></td>
 <td><p>2012年12月8日</p></td>
 <td><p>2012年11月18日</p></td>
 <td><p>2012年11月30日</p></td>
@@ -39,7 +39,7 @@
 <td><p>《<a href="../Page/刺客教條IV：黑旗.md" title="wikilink">刺客教條IV：黑旗</a>》</p></td>
 <td><p><em>Assassin's Creed IV: Black Flag</em></p></td>
 <td><p><a href="../Page/育碧魁北克.md" title="wikilink">Ubisoft Quebec</a></p></td>
-<td><p>Ubisoft</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft" title="wikilink">Ubisoft</a></p></td>
 <td><p>2013年11月28日</p></td>
 <td><p>2013年10月29日</p></td>
 <td><p>2013年11月22日</p></td>
@@ -48,7 +48,7 @@
 <td><p>《<a href="../Page/蝙蝠侠：阿卡姆之城.md" title="wikilink">蝙蝠俠：阿卡漢城市 全副武装版</a>》[1]</p></td>
 <td><p><em>Batman: Arkham City Armored Edition</em></p></td>
 <td><p><a href="../Page/Rocksteady_Studios.md" title="wikilink">Rocksteady Studios</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/華納兄弟互動" title="wikilink">華納兄弟互動</a></p></td>
+<td><p><a href="../Page/華納兄弟互動娛樂.md" title="wikilink">華納兄弟互動娛樂</a></p></td>
 <td><p>2012年12月8日</p></td>
 <td><p>2012年11月18日</p></td>
 <td><p>2012年11月30日</p></td>
@@ -57,7 +57,7 @@
 <td><p>《<a href="https://zh.wikipedia.org/wiki/猎天使魔女2" title="wikilink">猎天使魔女2</a>》</p></td>
 <td><p><em>Bayonetta 2</em></p></td>
 <td><p><a href="../Page/白金工作室.md" title="wikilink">白金工作室</a></p></td>
-<td><p>任天堂</p></td>
+<td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p>2014</p></td>
 <td><p>2014</p></td>
 <td><p>2014</p></td>
@@ -75,7 +75,7 @@
 <td><p>《<a href="../Page/勇者斗恶龙X_觉醒的五种族_Online.md" title="wikilink">勇者鬥惡龍X 覺醒的五個種族 Online</a>》[3]</p></td>
 <td><p>ドラゴンクエストX 目覚めし五つの種族 オンライン</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></td>
-<td><p>史克威尔艾尼克斯</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></td>
 <td><p>2013年3月30日</p></td>
 <td><p>无发售</p></td>
 <td><p>无发售</p></td>
@@ -84,7 +84,7 @@
 <td><p>《<a href="../Page/FIFA_13.md" title="wikilink">FIFA足球 13</a>》</p></td>
 <td><p><em>FIFA Soccer 13</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Electronic_Arts_Inc" title="wikilink">Electronic Arts Inc</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/美商藝電" title="wikilink">美商藝電</a></p></td>
 <td><p>2012年12月8日</p></td>
 <td><p>2012年11月18日</p></td>
 <td><p>2012年11月30日</p></td>
@@ -101,8 +101,8 @@
 <tr class="even">
 <td><p>《<a href="../Page/忍者外傳系列.md" title="wikilink">忍者龙剑传3：刀尖之边缘</a>》</p></td>
 <td><p>Ninja Gaiden 3: Razor's Edge</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Tecmo_Koei" title="wikilink">Team Ninja</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Tecmo_Koei" title="wikilink">Tecmo Koei</a></p></td>
+<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/光榮特庫摩" title="wikilink">光榮特庫摩</a></p></td>
 <td><p>2012年12月8日</p></td>
 <td><p>2012年11月18日</p></td>
 <td><p>2013年1月11日</p></td>
@@ -117,34 +117,25 @@
 <td><p>2013年7月26日</p></td>
 </tr>
 <tr class="even">
-<td><p>《汽車計劃》[6]</p></td>
-<td><p><em>Project Cars</em></p></td>
-<td><p>Slightly Mad Studio</p></td>
-<td><p>Slightly Mad Studio</p></td>
-<td><p>2014</p></td>
-<td><p>2014</p></td>
-<td><p>2014</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/X.md" title="wikilink">X</a>[7]</p></td>
-<td><p><a href="../Page/X.md" title="wikilink">X</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/異域神劍X" title="wikilink">異度神劍X</a>》</p></td>
+<td><p>Xenoblade Chronicles X</p></td>
 <td><p><a href="../Page/Monolith_Soft.md" title="wikilink">Monolith Soft</a></p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
-<td><p>2014</p></td>
-<td><p>2014</p></td>
-<td><p>2014</p></td>
+<td><p>2015年4月29日</p></td>
+<td><p>2015年12月4日</p></td>
+<td><p>2015年12月4日</p></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/大金刚回归：热带寒流" title="wikilink">大金刚回归：热带寒流</a></p></td>
+<tr class="odd">
+<td><p>《<a href="https://zh.wikipedia.org/wiki/大金剛_熱帶急凍" title="wikilink">大金剛 熱帶急凍</a>》</p></td>
 <td><p>Donkey Kong Country: Tropical Freeze</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Retro_Studio" title="wikilink">Retro Studio</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Retro_Studios" title="wikilink">Retro Studios</a></p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p>2014年2月13日</p></td>
 <td><p>2014年2月21日</p></td>
 <td><p>2014年2月21日</p></td>
 </tr>
-<tr class="odd">
-<td><p>《<a href="../Page/新超级马里奥兄弟U.md" title="wikilink">新超级马力欧兄弟U</a>》[8]</p></td>
+<tr class="even">
+<td><p>《<a href="../Page/新超级马里奥兄弟U.md" title="wikilink">新超级瑪利歐兄弟U</a>》[6]</p></td>
 <td><p>New Super Mario Bros. U</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
@@ -152,25 +143,25 @@
 <td><p>2012年11月18日</p></td>
 <td><p>2012年11月30日</p></td>
 </tr>
-<tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/任天堂明星大亂鬥_Wii_U" title="wikilink">任天堂明星大亂鬥 Wii U</a>》 [9]</p></td>
+<tr class="odd">
+<td><p>《<a href="https://zh.wikipedia.org/wiki/任天堂明星大亂鬥_Wii_U" title="wikilink">任天堂明星大亂鬥 Wii U</a>》 [7]</p></td>
 <td><p>Super Smash Bros. for Wii U</p></td>
-<td><p>Namco Bandai Games</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Bandai_Games" title="wikilink">Namco Bandai Games</a>、<a href="https://zh.wikipedia.org/wiki/Sora" title="wikilink">Sora</a></p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p>2014年12月6日</p></td>
 <td><p>2014年11月21日</p></td>
 <td><p>2014年11月28日</p></td>
 </tr>
-<tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/鐵拳_TT2：Wii_U版" title="wikilink">鐵拳 TT2：Wii U版</a>》[10]</p></td>
+<tr class="even">
+<td><p>《<a href="https://zh.wikipedia.org/wiki/鐵拳_TT2：Wii_U版" title="wikilink">鐵拳 TT2：Wii U版</a>》[8]</p></td>
 <td><p><em>Tekken Tag Tournament 2</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Namco_Bandai_Games" title="wikilink">Namco Bandai Games</a></p></td>
-<td><p>Namco Bandai Games</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Namco_Bandai_Games" title="wikilink">Namco Bandai Games</a></p></td>
 <td><p>2012年12月8日</p></td>
 <td><p>2012年11月18日</p></td>
 <td><p>2012年11月30日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/细胞分裂：黑名单" title="wikilink">细胞分裂：黑名单</a>》</p></td>
 <td><p><em>Tom Clancy's Splinter Cell: Blacklist</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft" title="wikilink">Ubisoft</a></p></td>
@@ -179,17 +170,17 @@
 <td><p>2013年8月20日</p></td>
 <td><p>2013年8月22日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/瘋狂兔子_乐园" title="wikilink">瘋狂兔子 乐园</a>》</p></td>
 <td><p><em>Rabbids Land</em></p></td>
-<td><p>育碧</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft" title="wikilink">Ubisoft</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft" title="wikilink">Ubisoft</a></p></td>
 <td><p>2013年6月6日</p></td>
 <td><p>2012年11月18日</p></td>
 <td><p>2012年11月30日</p></td>
 </tr>
-<tr class="even">
-<td><p>《<a href="../Page/塞尔达传说_旷野之息.md" title="wikilink">塞尔达传说 旷野之息</a>》[11]</p></td>
+<tr class="odd">
+<td><p>《<a href="../Page/塞尔达传说_旷野之息.md" title="wikilink">塞尔达传说 旷野之息</a>》[9]</p></td>
 <td><p>The Legend of Zelda: Breath of the Wild</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
@@ -197,8 +188,8 @@
 <td><p>2017年3月3日</p></td>
 <td><p>2017年3月3日</p></td>
 </tr>
-<tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/薩爾達傳說：風的律動" title="wikilink">薩爾達傳說：風的律動HD</a>》[12]</p></td>
+<tr class="even">
+<td><p>《<a href="https://zh.wikipedia.org/wiki/薩爾達傳說：風之律動" title="wikilink">薩爾達傳說 風之律動HD</a>》[10]</p></td>
 <td><p>The Legend of Zelda: The Wind Waker HD</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
@@ -206,8 +197,8 @@
 <td><p>2013年10月4日</p></td>
 <td><p>2013年10月4日</p></td>
 </tr>
-<tr class="even">
-<td><p>《<a href="../Page/薩爾達傳說_黃昏公主.md" title="wikilink">薩爾達傳說 曙光公主HD</a>》</p></td>
+<tr class="odd">
+<td><p>《<a href="../Page/薩爾達傳說_黃昏公主.md" title="wikilink">薩爾達傳說 黃昏公主HD</a>》</p></td>
 <td><p>The Legend of Zelda: Twilight Princess HD</p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
@@ -215,61 +206,61 @@
 <td><p>2016年3月4日</p></td>
 <td><p>2016年3月4日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>《<a href="../Page/质量效应3.md" title="wikilink">质量效应3</a>：特别版》</p></td>
 <td><p><em>Mass Effect 3: Special Edition</em></p></td>
 <td><p><a href="../Page/BioWare.md" title="wikilink">BioWare</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/EA" title="wikilink">EA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/美商藝電" title="wikilink">美商藝電</a></p></td>
 <td><p>2012年12月8日</p></td>
 <td><p>2012年11月18日</p></td>
 <td><p>2012年11月30日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/Wii_Fit_U" title="wikilink">Wii Fit U</a>》</p></td>
 <td><p><em>Wii Fit U</em></p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
-<td><p>任天堂</p></td>
+<td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p>2014年2月1日</p></td>
 <td><p>2014年1月10日</p></td>
 <td><p>2013年12月13日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/任天堂乐园" title="wikilink">任天堂乐园</a>》</p></td>
 <td><p><em>Nintendo Land</em></p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
-<td><p>任天堂</p></td>
+<td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p>2012年12月8日</p></td>
 <td><p>2012年11月18日</p></td>
 <td><p>2012年11月30日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/Just_Dance_4" title="wikilink">Just Dance 4</a>》</p></td>
 <td><p><em>Just Dance 4</em></p></td>
-<td><p><a href="../Page/育碧.md" title="wikilink">育碧</a></p></td>
-<td><p>育碧</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft" title="wikilink">Ubisoft</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft" title="wikilink">Ubisoft</a></p></td>
 <td><p>无发售</p></td>
 <td><p>2012年11月18日</p></td>
 <td><p>2012年11月30日</p></td>
 </tr>
-<tr class="odd">
-<td><p>《<a href="../Page/怪物猎人3G.md" title="wikilink">怪物猎人3G HD/怪物猎人3 终极版</a>》[13]</p></td>
+<tr class="even">
+<td><p>《<a href="../Page/怪物猎人3G.md" title="wikilink">怪物猎人3G HD/怪物猎人3 终极版</a>》[11]</p></td>
 <td><p><em>Monster Hunter 3 tri-G HD ver./Monster Hunter 3 Ultimate</em></p></td>
 <td><p><a href="../Page/卡普空.md" title="wikilink">卡普空</a></p></td>
-<td><p>卡普空</p></td>
+<td><p><a href="../Page/卡普空.md" title="wikilink">卡普空</a></p></td>
 <td><p>2012年12月8日</p></td>
 <td><p>2013年3月19日</p></td>
 <td><p>2013年3月22日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/使命召唤：黑色行动2" title="wikilink">使命召唤：黑色行动2</a>》</p></td>
 <td><p><em>Call of Duty: Black Ops II</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/美国动视" title="wikilink">美国动视</a></p></td>
-<td><p>美国动视</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/美国动视" title="wikilink">美国动视</a></p></td>
 <td><p>2012年12月20日</p></td>
 <td><p>2012年11月18日</p></td>
 <td><p>2012年11月30日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>《<a href="../Page/神奇101.md" title="wikilink">神奇101</a>》</p></td>
 <td><p><em>The Wonderful 101</em></p></td>
 <td><p><a href="../Page/白金工作室.md" title="wikilink">白金工作室</a></p></td>
@@ -278,16 +269,16 @@
 <td><p>2013年9月15日</p></td>
 <td><p>2013年8月23日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/SiNG_PARTY" title="wikilink">SiNG PARTY</a>》</p></td>
 <td><p><em>SiNG PARTY</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FreeStyleGames" title="wikilink">FreeStyleGames</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/育碧利明頓" title="wikilink">FreeStyleGames</a></p></td>
 <td><p><a href="../Page/任天堂.md" title="wikilink">任天堂</a></p></td>
 <td><p>无发售</p></td>
 <td><p>2012年11月18日</p></td>
 <td><p>2013年1月18日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/NBA_2K13" title="wikilink">NBA 2K13</a>》</p></td>
 <td><p><em>NBA 2K13</em></p></td>
 <td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a></p></td>
@@ -296,7 +287,7 @@
 <td><p>2012年11月18日</p></td>
 <td><p>2012年12月28日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/索尼克和全明星赛车：变形" title="wikilink">索尼克和全明星赛车：变形</a>》</p></td>
 <td><p><em>Sonic &amp; All-Stars Racing Transformed</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SUMO_Digital" title="wikilink">SUMO Digital</a></p></td>
@@ -305,21 +296,21 @@
 <td><p>2012年11月18日</p></td>
 <td><p>2012年11月30日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/麦登橄榄球_13" title="wikilink">麦登橄榄球 13</a>》</p></td>
 <td><p><em>MADDEN NFL 13</em></p></td>
 <td><p><a href="../Page/EA_Tiburon.md" title="wikilink">EA Tiburon</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Electronic_Arts_Inc" title="wikilink">Electronic Arts Inc</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/美商藝電" title="wikilink">美商藝電</a></p></td>
 <td><p>无发售</p></td>
 <td><p>2012年11月18日</p></td>
 <td><p>无发售</p></td>
 </tr>
-<tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/ZombiU" title="wikilink">ZombiU</a>》原<異種殺手>[14]</p></td>
+<tr class="odd">
+<td><p>《<a href="https://zh.wikipedia.org/wiki/ZombiU" title="wikilink">ZombiU</a>》（異種殺手）[12]</p></td>
 <td><p><em>ZombiU</em><br />
 原<em>Killer Freaks from Outer Space</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montpellier" title="wikilink">Ubisoft Montpellier</a></p></td>
-<td><p>Ubisoft</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft" title="wikilink">Ubisoft</a></p></td>
 <td><p>2012年12月8日</p></td>
 <td><p>2012年11月18日</p></td>
 <td><p>2012年11月30日</p></td>
@@ -381,11 +372,10 @@
 
 ## 另見
 
-### 當前遊戲主機世代
+### 同世代主機遊戲
 
   - [Xbox One遊戲列表](../Page/Xbox_One遊戲列表.md "wikilink")
   - [PlayStation 4遊戲列表](https://zh.wikipedia.org/wiki/PlayStation_4遊戲列表 "wikilink")
-  - [任天堂Switch遊戲列表](https://zh.wikipedia.org/wiki/任天堂Switch遊戲列表 "wikilink")
 
 ## 資料來源
 
@@ -402,12 +392,10 @@
 3.  <http://www.eurogamer.net/articles/2011-09-05-dragon-quest-x-confirmed-for-wii-u>
 4.  <http://e3.nintendo.com/games/#/wiiu/lego-city-undercover>
 5.
-6.  <http://www.eurogamer.net/articles/2011-11-24-project-cars-preview>
-7.  <http://www.monolithsoft.co.jp/>
-8.  <http://e3.nintendo.com/games/#/wiiu/new-super-mario-bros-u/>
+6.  <http://e3.nintendo.com/games/#/wiiu/new-super-mario-bros-u/>
+7.
+8.  <http://spong.com/article/24606/Tekken-Wii-U-Details-Undecided>
 9.
-10. <http://spong.com/article/24606/Tekken-Wii-U-Details-Undecided>
+10. <http://www.ign.com/articles/2013/01/23/zelda-wind-waker-getting-wii-u-remake>
 11.
-12. <http://www.ign.com/articles/2013/01/23/zelda-wind-waker-getting-wii-u-remake>
-13.
-14.
+12.

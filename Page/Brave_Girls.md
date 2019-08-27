@@ -1,4 +1,4 @@
-**Brave Girls**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Brave娛樂](../Page/Brave娛樂.md "wikilink")在2011年推出的女子團體，最初由恩英、殊雅、藝眞、裕眞、蕙蘭組成，現任成員有玟瑩、侑廷、恩智、裕那、夏昀。
+**Brave Girls**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Brave娛樂](../Page/Brave娛樂.md "wikilink")在2011年推出的女子團體，最初由恩英、殊雅、藝眞、裕眞、蕙蘭組成，現任成員有玟瑩、侑廷、恩智、裕那。
 
 2011年4月8日發行首張單曲《The Difference》，並於音樂銀行正式出道。
 
@@ -32,7 +32,6 @@ Brave Girls是由韓國著名音樂人[勇敢兄弟](../Page/勇敢兄弟.md "wi
 | 侑廷      |
 | 恩智      |
 | 裕那      |
-| 夏昀      |
 | 已退出成員列表 |
 | 藝名      |
 | 藝名      |
@@ -41,6 +40,7 @@ Brave Girls是由韓國著名音樂人[勇敢兄弟](../Page/勇敢兄弟.md "wi
 | 藝眞      |
 | 裕眞      |
 | 蕙蘭      |
+| 夏昀      |
 
 ### 成員變動時間表
 
@@ -55,11 +55,11 @@ BarData =
 `bar:Yejin text:藝眞`
 `bar:Yoojin text:裕眞`
 `bar:Hyeran text:蕙蘭`
+`bar:Hayun text:夏昀`
 `bar:Minyoung text:玟瑩`
 `bar:Yujeong text:侑廷`
 `bar:Eunji text:恩智`
 `bar:Yuna text:裕那`
-`bar:Hayun text:夏昀`
 
 PlotData =
 
@@ -69,12 +69,12 @@ PlotData =
 `bar:Yejin   from:start till:02/02/2013 `
 `bar:Yoojin   from:start till:01/13/2017 `
 `bar:Hyeran   from:start till:01/13/2017`
+`bar:Hayun   from:02/02/2016 till:08/11/2018`
 `color:magenta width:7 textcolor:black align:left anchor:from`
 `bar:Minyoung   from:02/02/2016 till:end `
 `bar:Yujeong  from:02/02/2016 till:end `
 `bar:Eunji   from:02/02/2016 till:end `
 `bar:Yuna   from:02/02/2016 till:end `
-`bar:Hayun   from:02/02/2016 till:end `
 
 </timeline>
 

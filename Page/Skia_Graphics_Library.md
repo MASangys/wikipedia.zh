@@ -15,7 +15,7 @@ Skia主要的類別是SkCanvas，所有的繪圖功能都是實作於此類別�
 
 ## “绿化”缺陷
 
-为了提高运行的效率，Google在Android的Skia实现中，对JPG压缩处理算法改写来代替调用libjpeg-turbo，实现了一个低精度的[YUV](../Page/YUV.md "wikilink")转换为[RGB的算法](https://zh.wikipedia.org/wiki/RGB "wikilink")，但该改写算法中除法取整的方式不合理，不仅每次压缩后画质劣化更严重，随着误差逐步累积，还会导致图片会越来越偏向绿色。最终该缺陷在2016年4月得到修复，修改回直接使用libjpeg-turbo的调用。\[2\]而作为Android基础库的一部分，该修复也被认为预计于[Android 7中修复](https://zh.wikipedia.org/wiki/Android_7 "wikilink")。\[3\]
+为了提高运行的效率，Google在Android的Skia实现中，对JPG压缩处理算法改写来代替调用libjpeg-turbo，实现了一个低精度的[YUV](../Page/YUV.md "wikilink")转换为[RGB的算法](https://zh.wikipedia.org/wiki/RGB "wikilink")，但该改写算法中除法取整的方式不合理，不仅每次压缩后画质劣化更严重，随着误差逐步累积，还会导致图片会越来越偏向绿色。最终该缺陷在2016年4月得到修复，修改回直接使用libjpeg-turbo的调用。\[2\]而作为Android基础库的一部分，该修复也被认为预计于[Android 7中修复](https://zh.wikipedia.org/wiki/Android_7 "wikilink")。
 
 ## 参见
 
@@ -39,4 +39,3 @@ Skia主要的類別是SkCanvas，所有的繪圖功能都是實作於此類別�
 
 1.  [android 的图形引擎 skia](http://www.linuxgraphics.cn/android/skia.html)
 2.
-3.

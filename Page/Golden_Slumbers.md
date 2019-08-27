@@ -51,7 +51,7 @@
 
 預計於2010年1月30日上映。伊坂的原作電影以前曾在仙台市拍攝部分片段，但這次是全程在仙台市拍攝。
 
-原作的舞台在仙台市各處，2009年上旬開始外景拍攝工作。並與[仙台·宮城電影委員會與](https://zh.wikipedia.org/wiki/仙台·宮城電影委員會 "wikilink")[宮城縣警合作](https://zh.wikipedia.org/wiki/宮城縣警察 "wikilink")，於同年7月殺青。第二部 [仙台電影認定作品](https://zh.wikipedia.org/wiki/仙台電影認定制度 "wikilink")。
+原作的舞台在仙台市各處，2009年上半年開始外景拍攝工作。並與[仙台·宮城電影委員會與](https://zh.wikipedia.org/wiki/仙台·宮城電影委員會 "wikilink")[宮城縣警合作](https://zh.wikipedia.org/wiki/宮城縣警察 "wikilink")，於同年7月殺青。第二部 [仙台電影認定作品](https://zh.wikipedia.org/wiki/仙台電影認定制度 "wikilink")。
 
 ### 工作人員
 

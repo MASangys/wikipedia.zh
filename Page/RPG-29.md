@@ -64,17 +64,11 @@ RPG-29是俄羅斯反坦克火箭發射器其中較不尋常的，在於它取�
   -
   -
   -
-  - ：被[政府軍與](../Page/敘利亞武裝部隊.md "wikilink")[自由叙利亚军](../Page/自由叙利亚军.md "wikilink")雙方所採用。\[22\]
+  - \[22\]
 
   -
   -
   -
-  - [真愛爾蘭共和軍](https://zh.wikipedia.org/wiki/真愛爾蘭共和軍 "wikilink")／[傳承愛爾蘭共和軍](https://zh.wikipedia.org/wiki/傳承愛爾蘭共和軍 "wikilink")
-
-  - [真主党](../Page/真主党.md "wikilink")：在[2006年以黎衝突](../Page/2006年以黎衝突.md "wikilink")之中使用。\[23\]
-
-  - [Flag_of_the_Islamic_State_of_Iraq_and_the_Levant2.svg](https://zh.wikipedia.org/wiki/File:Flag_of_the_Islamic_State_of_Iraq_and_the_Levant2.svg "fig:Flag_of_the_Islamic_State_of_Iraq_and_the_Levant2.svg") [伊拉克和沙姆伊斯蘭國](../Page/伊斯兰国.md "wikilink")\[24\]
-
 ### 過去的使用國
 
   -
@@ -84,7 +78,13 @@ RPG-29是俄羅斯反坦克火箭發射器其中較不尋常的，在於它取�
   - [罗马尼亚社会主义共和国](../Page/罗马尼亚社会主义共和国.md "wikilink")
 
   -
+### 非國家團體
+
   - [臨時愛爾蘭共和軍](../Page/爱尔兰共和军.md "wikilink")
+  - [真愛爾蘭共和軍](https://zh.wikipedia.org/wiki/真愛爾蘭共和軍 "wikilink")／[傳承愛爾蘭共和軍](https://zh.wikipedia.org/wiki/傳承愛爾蘭共和軍 "wikilink")
+  - [Flag_of_the_Islamic_State_of_Iraq_and_the_Levant2.svg](https://zh.wikipedia.org/wiki/File:Flag_of_the_Islamic_State_of_Iraq_and_the_Levant2.svg "fig:Flag_of_the_Islamic_State_of_Iraq_and_the_Levant2.svg") [伊拉克和沙姆伊斯蘭國](../Page/伊斯兰国.md "wikilink")\[23\]
+  - [真主党](../Page/真主党.md "wikilink")：被發現在[2006年以黎衝突](../Page/2006年以黎衝突.md "wikilink")之中使用。\[24\]
+  - [自由叙利亚军](../Page/自由叙利亚军.md "wikilink")
 
 ## 參見
 
@@ -102,8 +102,8 @@ RPG-29是俄羅斯反坦克火箭發射器其中較不尋常的，在於它取�
       - [RPG-30](../Page/RPG-30.md "wikilink")
       - [RPG-32](../Page/RPG-32.md "wikilink")
   - [RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")
-  - [LRAC F1](https://zh.wikipedia.org/wiki/LRAC_F1 "wikilink")
-  - [Panzerfaust 3](../Page/Panzerfaust_3反坦克榴彈.md "wikilink")
+  - [LRAC F1反坦克火箭筒](https://zh.wikipedia.org/wiki/LRAC_F1反坦克火箭筒 "wikilink")
+  - [Panzerfaust 3反坦克榴彈](../Page/Panzerfaust_3反坦克榴彈.md "wikilink")
   - [Mk 153 SMAW](../Page/肩射多用途攻擊武器.md "wikilink")
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")
 

@@ -1,4 +1,4 @@
-**BTOB**（，），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，由[Cube娛樂](../Page/Cube娛樂.md "wikilink")於2012年成立。成員包括[徐恩光](../Page/徐恩光.md "wikilink")、[李旼赫](../Page/李旼赫.md "wikilink")、[李昌燮](../Page/李昌燮.md "wikilink")、[任炫植](../Page/任炫植.md "wikilink")、[Peniel](../Page/辛東根.md "wikilink")、[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")、[陸星材](../Page/陸星材.md "wikilink")。BTOB的名稱代表著「**Born To Beat**」，意思指「包含音樂抱負，希望和決心，為Beat而生」。以「Beat」的意思為節拍、伴奏、背景、衝擊，也分為「為新的音樂和舞台而生」和「用音樂給全世界聽眾帶來衝擊而生」兩個主題。\[1\]\[2\] 7名成員中擁有4名Vocalists及3名Rapper，均具有堅強的現場演唱實力以及創作能力。
+**BTOB**（， <sup>*Bīto\~ūbī*</sup>），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，由[Cube娛樂](../Page/Cube娛樂.md "wikilink")於2012年成立。成員包括[徐恩光](../Page/徐恩光.md "wikilink")、[李旼赫](../Page/李旼赫.md "wikilink")、[李昌燮](../Page/李昌燮.md "wikilink")、[任炫植](../Page/任炫植.md "wikilink")、[Peniel](../Page/辛東根.md "wikilink")、[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")、[陸星材](../Page/陸星材.md "wikilink")。BTOB的名稱代表著「**Born To Beat**」，意思指「包含音樂抱負，希望和決心，為Beat而生」。以「Beat」的意思為節拍、伴奏、背景、衝擊，也分為「為新的音樂和舞台而生」和「用音樂給全世界聽眾帶來衝擊而生」兩個主題。\[1\]\[2\] 7名成員中擁有4名Vocalists及3名Rapper，均具有堅強的現場演唱實力以及創作能力。
 
 2012年3月21日，以首張[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")《[Born To Beat](../Page/Born_to_Beat_\(BTOB迷你專輯\).md "wikilink")》於韓國正式出道，並於次日在[Mnet](../Page/Mnet.md "wikilink")《[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》公開出道初舞台。2014年11月12日，以首張[日語單曲](https://zh.wikipedia.org/wiki/日語 "wikilink")《[WOW（JPN ver.）](../Page/WOW（JPN_ver.）.md "wikilink")》於日本正式出道。2016年9月19日，Vocalists成員恩光、昌燮、炫植、星材組成子團[BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")，以首張數位單曲《[留在我身邊](../Page/留在我身邊_\(BTOB－BLUE單曲\).md "wikilink")》正式出道。
 
@@ -16,7 +16,7 @@
 
 ### 問候語
 
-成員統一舉起右手（或慣用手）打出響指，同時喊出團名全稱「Born To Beat」，並自我介紹「大家好（），我們是BTOB（，）」。
+成員統一舉起右手（或慣用手）打出響指，同時喊出團名全稱「Born To Beat」，並自我介紹「大家好（），我們是BTOB（， <sup>*Bīto\~ūbī*</sup> です）」。
 
 ### 音樂風格
 
@@ -200,7 +200,7 @@
 
 2019年5月13日，Peniel發行首張個人數位單曲《B.O.D》，由Peniel的姊夫、作曲家KAIROS製作、Peniel參與填詞。\[156\]\[157\]
 
-2019年7月31日，Peniel發行第二張個人數位單曲《FLY23》，由KAIROS作曲製作、Peniel參與填詞。\[158\]\[159\]
+2019年7月31日，Peniel發行第二張個人數位單曲《FLY23》，由KAIROS作曲製作、Peniel參與填詞。\[158\]\[159\] 同年8月27日，Peniel發表第三張個人數位單曲《Flip》，由饒舌歌手參與Featuring。
 
 ## 音樂作品
 

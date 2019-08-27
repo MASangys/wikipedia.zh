@@ -23,6 +23,7 @@
   - 2002年 - Songs, Ideas We Forgot
   - 2006年 - New Sentimentality
   - 2012年 - The Future Is Now
+  - 2018年 - That's Another Story
   - 2018年 - Our Latest Number
 
 ### 合輯

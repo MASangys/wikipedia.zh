@@ -12,7 +12,7 @@
 
 ## 曲風與曲的內容
 
-這是一張實驗性質的專輯．鼓手[Danny Carey在一支銅管裡吹氣](https://zh.wikipedia.org/wiki/Danny_Carey "wikilink")，來達到和尚們念經的效果，而將這樣品放在“[拋物線](https://zh.wikipedia.org/wiki/拋物線 "wikilink")”這首歌裡．同時他也利用鼓棒敲打[鋼琴玹做為樣本](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")，放在“反射”這首曲裡．“神之語”(Faaip de Oiad)是模擬了１９９７年一個電台因收訊不佳而雜音不斷的廣播效果． [側內基（肌）-思考](https://zh.wikipedia.org/wiki/側內基（肌）-思考 "wikilink")，包含了[黃金比例的成份](https://zh.wikipedia.org/wiki/黃金比例 "wikilink")．舉例來說，一首歌歌詞的音節隨著黃金比例１，１，２，３，５，８而行，然副歌部份的[記拍符號則是以](https://zh.wikipedia.org/wiki/記拍符號 "wikilink")９／８，８／８，及７／８為主軸，因９８７是[黃金比例的第十七個數字](https://zh.wikipedia.org/wiki/黃金比例 "wikilink")．這首歌主體是強調人們對於發掘知識，探索[宇宙](../Page/宇宙.md "wikilink")奧妙，以及了解更深一層自我反省的概念． “萬古憂鬱啟示錄”這條音軌是吉它手[Adam Jones所作](https://zh.wikipedia.org/wiki/Adam_Jones "wikilink")，為了紀念他那隻名叫萬古，死於骨癌的大丹狗． “怨恨”則反映出經典小說Scarlet Letter的情境． 音軌“西藏真言”則是Maynard用延緩技術的錄音技巧，所錄出抓玩他的貓所發出嗚－嗚的樣本．
+這是一張實驗性質的專輯．鼓手[Danny Carey在一支銅管裡吹氣](https://zh.wikipedia.org/wiki/Danny_Carey "wikilink")，來達到和尚們念經的效果，而將這樣品放在“[拋物線](https://zh.wikipedia.org/wiki/拋物線 "wikilink")”這首歌裡．同時他也利用鼓棒敲打鋼琴弦做為樣本，放在“反射”這首曲裡．“神之語”(Faaip de Oiad)是模擬了１９９７年一個電台因收訊不佳而雜音不斷的廣播效果． [側內基（肌）-思考](https://zh.wikipedia.org/wiki/側內基（肌）-思考 "wikilink")，包含了[黃金比例的成份](https://zh.wikipedia.org/wiki/黃金比例 "wikilink")．舉例來說，一首歌歌詞的音節隨著黃金比例１，１，２，３，５，８而行，然副歌部份的[記拍符號則是以](https://zh.wikipedia.org/wiki/記拍符號 "wikilink")９／８，８／８，及７／８為主軸，因９８７是[黃金比例的第十七個數字](https://zh.wikipedia.org/wiki/黃金比例 "wikilink")．這首歌主體是強調人們對於發掘知識，探索[宇宙](../Page/宇宙.md "wikilink")奧妙，以及了解更深一層自我反省的概念． “萬古憂鬱啟示錄”這條音軌是吉它手[Adam Jones所作](https://zh.wikipedia.org/wiki/Adam_Jones "wikilink")，為了紀念他那隻名叫萬古，死於骨癌的大丹狗． “怨恨”則反映出經典小說Scarlet Letter的情境． 音軌“西藏真言”則是Maynard用延緩技術的錄音技巧，所錄出抓玩他的貓所發出嗚－嗚的樣本．
 
 ## 專輯藝術作品
 

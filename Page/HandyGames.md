@@ -46,9 +46,7 @@ HandyGames已经获得了超过100个国际奖项，以下为部分：
 
 ## 参考资料
 
-## 外部链接
-
-  - [Official webpage](http://www.handy-games.com)
+## 外部連結
 
 [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink") [Category:德國電子遊戲公司](https://zh.wikipedia.org/wiki/Category:德國電子遊戲公司 "wikilink")
 

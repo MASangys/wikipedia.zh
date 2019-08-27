@@ -4,56 +4,56 @@
 
 ### 主要角色
 
-|                                                     |        |                                                       |
-| --------------------------------------------------- | ------ | ----------------------------------------------------- |
-| **演員**                                              | **角色** | [TVB配音](https://zh.wikipedia.org/wiki/TVB "wikilink") |
-| [孔曉振](../Page/孔曉振.md "wikilink")                    | 徐宥京    | [陳琴雲](../Page/陳琴雲.md "wikilink")                      |
-| [李善均](../Page/李善均.md "wikilink")                    | 崔賢旭    | [雷霆](../Page/雷霆.md "wikilink")                        |
-| [李荷妮](https://zh.wikipedia.org/wiki/李荷妮 "wikilink") | 吳世英    | [黃玉娟](../Page/黃玉娟.md "wikilink")                      |
-| [秋憲坤](../Page/秋憲坤.md "wikilink")                    | 金山     | [何承駿](../Page/何承駿.md "wikilink")                      |
+|                                                     |        |                                                       |                                                                             |
+| --------------------------------------------------- | ------ | ----------------------------------------------------- | --------------------------------------------------------------------------- |
+| **演員**                                              | **角色** | [TVB配音](https://zh.wikipedia.org/wiki/TVB "wikilink") | [東森綜合台](../Page/東森綜合台.md "wikilink")、[東森戲劇台](../Page/東森戲劇台.md "wikilink")配音 |
+| [孔曉振](../Page/孔曉振.md "wikilink")                    | 徐宥京    | [陳琴雲](../Page/陳琴雲.md "wikilink")                      | [王瑞芹](../Page/王瑞芹.md "wikilink")                                            |
+| [李善均](../Page/李善均.md "wikilink")                    | 崔賢旭    | [雷霆](../Page/雷霆.md "wikilink")                        | [吳文民](../Page/吳文民.md "wikilink")                                            |
+| [李荷妮](https://zh.wikipedia.org/wiki/李荷妮 "wikilink") | 吳世英    | [黃玉娟](../Page/黃玉娟.md "wikilink")                      |                                                                             |
+| [秋憲坤](../Page/秋憲坤.md "wikilink")                    | 金山     | [何承駿](../Page/何承駿.md "wikilink")                      |                                                                             |
 
 ### La sfera廚師（Chefs）
 
 #### 國內派
 
-|                                  |        |                                                       |
-| -------------------------------- | ------ | ----------------------------------------------------- |
-| **演員**                           | **角色** | [TVB配音](https://zh.wikipedia.org/wiki/TVB "wikilink") |
-| [李亨哲](../Page/李亨哲.md "wikilink") | 琴錫浩    | [翟耀輝](../Page/翟耀輝.md "wikilink")                      |
-| [趙相紀](../Page/趙相紀.md "wikilink") | 鄭浩南    | [葉振聲](../Page/葉振聲.md "wikilink")                      |
-| [白奉基](../Page/白奉基.md "wikilink") | 閔承在    | [劉昭文](../Page/劉昭文.md "wikilink")                      |
-| [許泰熙](../Page/許泰熙.md "wikilink") | 韓尚植    | [陳廷軒](../Page/陳廷軒.md "wikilink")                      |
+|                                  |        |                                                       |                                                                             |
+| -------------------------------- | ------ | ----------------------------------------------------- | --------------------------------------------------------------------------- |
+| **演員**                           | **角色** | [TVB配音](https://zh.wikipedia.org/wiki/TVB "wikilink") | [東森綜合台](../Page/東森綜合台.md "wikilink")、[東森戲劇台](../Page/東森戲劇台.md "wikilink")配音 |
+| [李亨哲](../Page/李亨哲.md "wikilink") | 琴錫浩    | [翟耀輝](../Page/翟耀輝.md "wikilink")                      |                                                                             |
+| [趙相紀](../Page/趙相紀.md "wikilink") | 鄭浩南    | [葉振聲](../Page/葉振聲.md "wikilink")                      |                                                                             |
+| [白奉基](../Page/白奉基.md "wikilink") | 閔承在    | [劉昭文](../Page/劉昭文.md "wikilink")                      |                                                                             |
+| [許泰熙](../Page/許泰熙.md "wikilink") | 韓尚植    | [陳廷軒](../Page/陳廷軒.md "wikilink")                      |                                                                             |
 
 #### 義大利派
 
-|                                                     |         |                                                       |
-| --------------------------------------------------- | ------- | ----------------------------------------------------- |
-| **演員**                                              | **角色**  | [TVB配音](https://zh.wikipedia.org/wiki/TVB "wikilink") |
-| [崔真赫](https://zh.wikipedia.org/wiki/崔真赫 "wikilink") | 鮮-{于}-德 | [黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")   |
-| [魯敏宇](https://zh.wikipedia.org/wiki/魯敏宇 "wikilink") | Philip  | [梁偉德](../Page/梁偉德.md "wikilink")                      |
-| [顯　祐](../Page/顯祐.md "wikilink")                     | 李智勳     | [曹啟謙](../Page/曹啟謙.md "wikilink")                      |
-| [崔在煥](../Page/崔在煥.md "wikilink")                    | 鄭銀修     | [馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")   |
+|                                                     |         |                                                       |                                                                             |
+| --------------------------------------------------- | ------- | ----------------------------------------------------- | --------------------------------------------------------------------------- |
+| **演員**                                              | **角色**  | [TVB配音](https://zh.wikipedia.org/wiki/TVB "wikilink") | [東森綜合台](../Page/東森綜合台.md "wikilink")、[東森戲劇台](../Page/東森戲劇台.md "wikilink")配音 |
+| [崔真赫](https://zh.wikipedia.org/wiki/崔真赫 "wikilink") | 鮮-{于}-德 | [黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink")   |                                                                             |
+| [魯敏宇](https://zh.wikipedia.org/wiki/魯敏宇 "wikilink") | Philip  | [梁偉德](../Page/梁偉德.md "wikilink")                      |                                                                             |
+| [顯　祐](../Page/顯祐.md "wikilink")                     | 李智勳     | [曹啟謙](../Page/曹啟謙.md "wikilink")                      |                                                                             |
+| [崔在煥](../Page/崔在煥.md "wikilink")                    | 鄭銀修     | [馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")   |                                                                             |
 
 #### 退出派
 
-|                                                     |        |                                                       |
-| --------------------------------------------------- | ------ | ----------------------------------------------------- |
-| **演員**                                              | **角色** | [TVB配音](https://zh.wikipedia.org/wiki/TVB "wikilink") |
-| [河在淑](../Page/河在淑.md "wikilink")                    | 李喜珠    | [黃鳳英](../Page/黃鳳英.md "wikilink")                      |
-| [鄭多惠](https://zh.wikipedia.org/wiki/鄭多惠 "wikilink") | 朴美熙    | [朱妙蘭](../Page/朱妙蘭.md "wikilink")                      |
-| [孫星允](../Page/孫星允.md "wikilink")                    | 朴燦熙    | [林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")   |
+|                                                     |        |                                                       |                                                                             |
+| --------------------------------------------------- | ------ | ----------------------------------------------------- | --------------------------------------------------------------------------- |
+| **演員**                                              | **角色** | [TVB配音](https://zh.wikipedia.org/wiki/TVB "wikilink") | [東森綜合台](../Page/東森綜合台.md "wikilink")、[東森戲劇台](../Page/東森戲劇台.md "wikilink")配音 |
+| [河在淑](../Page/河在淑.md "wikilink")                    | 李喜珠    | [黃鳳英](../Page/黃鳳英.md "wikilink")                      |                                                                             |
+| [鄭多惠](https://zh.wikipedia.org/wiki/鄭多惠 "wikilink") | 朴美熙    | [朱妙蘭](../Page/朱妙蘭.md "wikilink")                      |                                                                             |
+| [孫星允](../Page/孫星允.md "wikilink")                    | 朴燦熙    | [林元春](https://zh.wikipedia.org/wiki/林元春 "wikilink")   |                                                                             |
 
 ### 其他角色
 
-|                                                     |        |                                                       |
-| --------------------------------------------------- | ------ | ----------------------------------------------------- |
-| **演員**                                              | **角色** | [TVB配音](https://zh.wikipedia.org/wiki/TVB "wikilink") |
-| [李聖旻](../Page/李聖旻.md "wikilink")                    | 薛俊錫    | [張炳強](../Page/張炳強.md "wikilink")                      |
-| [卞貞秀](../Page/卞貞秀.md "wikilink")                    | 金江     | [許盈](../Page/許盈.md "wikilink")                        |
-| [張　勇](../Page/張勇_\(演員\).md "wikilink")              | 徐宗具    | [譚炳文](../Page/譚炳文.md "wikilink")                      |
-| [金東熙](https://zh.wikipedia.org/wiki/金東熙 "wikilink") | 徐有植    | [張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")   |
-| [尹容賢](../Page/尹容賢.md "wikilink")                    | 光泰     | [古明華](../Page/古明華.md "wikilink")                      |
-| [崔珉](../Page/崔珉.md "wikilink")成                     | 四角     |                                                       |
+|                                                     |        |                                                       |                                                                             |
+| --------------------------------------------------- | ------ | ----------------------------------------------------- | --------------------------------------------------------------------------- |
+| **演員**                                              | **角色** | [TVB配音](https://zh.wikipedia.org/wiki/TVB "wikilink") | [東森綜合台](../Page/東森綜合台.md "wikilink")、[東森戲劇台](../Page/東森戲劇台.md "wikilink")配音 |
+| [李聖旻](../Page/李聖旻.md "wikilink")                    | 薛俊錫    | [張炳強](../Page/張炳強.md "wikilink")                      |                                                                             |
+| [卞貞秀](../Page/卞貞秀.md "wikilink")                    | 金江     | [許盈](../Page/許盈.md "wikilink")                        |                                                                             |
+| [張　勇](../Page/張勇_\(演員\).md "wikilink")              | 徐宗具    | [譚炳文](../Page/譚炳文.md "wikilink")                      |                                                                             |
+| [金東熙](https://zh.wikipedia.org/wiki/金東熙 "wikilink") | 徐有植    | [張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")   |                                                                             |
+| [尹容賢](../Page/尹容賢.md "wikilink")                    | 光泰     | [古明華](../Page/古明華.md "wikilink")                      |                                                                             |
+| [崔珉](../Page/崔珉.md "wikilink")成                     | 四角     |                                                       |                                                                             |
 
 ## 收視率
 

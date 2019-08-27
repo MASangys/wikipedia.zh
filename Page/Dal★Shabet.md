@@ -1,4 +1,4 @@
-**Dal★Shabet**（）是[Happy Face娛樂在](../Page/Happy_Face娛樂.md "wikilink")2011年推出的女子團體，出道時成員包括、[世理](../Page/世理.md "wikilink")、[雅英](../Page/雅英.md "wikilink")、、[佳恩](../Page/佳恩_\(1992年出生\).md "wikilink")、[秀彬](../Page/秀彬.md "wikilink")。粉絲名稱為「Darling」。
+**Dal★Shabet**（）是[Happy Face娛樂在](../Page/Happy_Face娛樂.md "wikilink")2011年推出的女子團體，出道時成員包括、[世理](../Page/世理.md "wikilink")、[雅英](../Page/雅英.md "wikilink")、、[佳恩](../Page/佳恩_\(1992年出生\).md "wikilink")、[秀彬](../Page/秀彬.md "wikilink")。粉絲名稱為「Darling」。目前雖然[Happy Face娛樂未公開宣佈](../Page/Happy_Face娛樂.md "wikilink")**Dal★Shabet**解散，但該組合所有成員均離開[Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink")。
 
 ## 摘要
 
@@ -61,7 +61,7 @@ Dal★Shabet所屬公司Happy Face Entertainment在3月26日宣佈確定於4月1
 <table>
 <thead>
 <tr class="header">
-<th><p>已離開成員列表</p></th>
+<th><p>已離開Happy Face娛樂但未退團</p></th>
 </tr>
 </thead>
 <tbody>
@@ -69,33 +69,36 @@ Dal★Shabet所屬公司Happy Face Entertainment在3月26日宣佈確定於4月1
 <td><p>藝名</p></td>
 </tr>
 <tr class="even">
-<td><p><strong></strong></p></td>
+<td><p><a href="../Page/秀彬.md" title="wikilink">秀彬</a><br />
+Subin<br />
+수빈</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/世理.md" title="wikilink">世理</a><br />
-Serri<br />
-세리</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/雅英.md" title="wikilink">雅英</a><br />
-Ayoung<br />
-아영</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/優熙.md" title="wikilink">優熙</a><br />
 Woohee<br />
 우희</p></td>
 </tr>
+<tr class="even">
+<td><p><strong><a href="../Page/世理.md" title="wikilink">世理</a><br />
+Serri<br />
+세리</strong></p></td>
+</tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="../Page/雅英.md" title="wikilink">雅英</a><br />
+Ayoung<br />
+아영</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/秀彬.md" title="wikilink">秀彬</a><br />
-Subin<br />
-수빈</p></td>
+<td><p>已離開成員</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong></strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
 </tr>
 </tbody>
 </table>

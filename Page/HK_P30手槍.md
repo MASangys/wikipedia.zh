@@ -224,6 +224,7 @@ P30的另一個選擇是可以明顯地看見的[空彈匣指示器](https://zh.
 
 ### 電子遊戲
 
+  - 2013年－《[劫薪日2](../Page/劫薪日2.md "wikilink")》
   - 2019年－《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》
 
 ## 參見

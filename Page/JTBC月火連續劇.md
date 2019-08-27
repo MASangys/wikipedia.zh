@@ -480,7 +480,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年9月 - 2019年</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朝鮮婚姻介紹所：花黨" title="wikilink">朝鮮婚姻介紹所：花黨</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/花黨：朝鮮婚姻介紹所" title="wikilink">花黨：朝鮮婚姻介紹所</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/金旻載.md" title="wikilink">金旻載</a>、<a href="../Page/孔升妍.md" title="wikilink">孔升妍</a>、<a href="../Page/徐志焄.md" title="wikilink">徐志焄</a>、<a href="https://zh.wikipedia.org/wiki/朴志訓" title="wikilink">朴志訓</a>、<a href="https://zh.wikipedia.org/wiki/卞宇錫" title="wikilink">卞宇錫</a>、<a href="../Page/高媛熙.md" title="wikilink">高媛熙</a></p></td>
@@ -547,7 +547,7 @@
 
 ## 相關連結
 
-  - [TvN月火連續劇](../Page/TvN月火連續劇.md "wikilink")
+  - [tvN月火連續劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink")
   - [MBC月火連續劇](../Page/MBC月火連續劇.md "wikilink")
   - [SBS月火連續劇](../Page/SBS月火連續劇.md "wikilink")
   - [KBS月火連續劇](../Page/KBS月火連續劇.md "wikilink")

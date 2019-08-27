@@ -34,7 +34,7 @@ RPG-22採用簡易[機械瞄具](../Page/機械瞄具.md "wikilink")。前瞄準
 
   -
   -
-  - ：被[格魯吉亞軍隊所採用](https://zh.wikipedia.org/wiki/格魯吉亞軍隊 "wikilink")。\[6\]
+  -   - [格魯吉亞武裝部隊](https://zh.wikipedia.org/wiki/格魯吉亞軍 "wikilink")\[6\]
 
   -
   -
@@ -42,14 +42,16 @@ RPG-22採用簡易[機械瞄具](../Page/機械瞄具.md "wikilink")。前瞄準
   -
   - \[7\]
 
-  - ：被[自由叙利亚军](../Page/自由叙利亚军.md "wikilink")所採用。\[8\]
-
   -
   -
   -
 ### 過去的使用國
 
   -
+### 非國家團體
+
+  - [自由叙利亚军](../Page/自由叙利亚军.md "wikilink")\[8\]
+
 ## 圖集
 
 <File:2011>. День защиты детей в Донецке 046.jpg|[RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")、RPG-22、[RPG-26](../Page/RPG-26.md "wikilink")和[RPG-18](../Page/RPG-18.md "wikilink") <File:2011>. День защиты детей в Донецке 047.jpg|

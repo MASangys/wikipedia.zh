@@ -110,7 +110,7 @@
   - [Motion City Soundtrack](https://zh.wikipedia.org/wiki/Motion_City_Soundtrack "wikilink")
   - [New Bomb Turks](https://zh.wikipedia.org/wiki/New_Bomb_Turks "wikilink")
   - [NOFX](https://zh.wikipedia.org/wiki/NOFX "wikilink")
-  - [The Offspring](https://zh.wikipedia.org/wiki/The_Offspring "wikilink")
+  - [The Offspring](../Page/The_Offspring.md "wikilink")
   - [Osker](https://zh.wikipedia.org/wiki/Osker "wikilink")
   - [Pete Philly and Perquisite](https://zh.wikipedia.org/wiki/Pete_Philly_and_Perquisite "wikilink")
   - [The Pietasters](https://zh.wikipedia.org/wiki/The_Pietasters "wikilink")

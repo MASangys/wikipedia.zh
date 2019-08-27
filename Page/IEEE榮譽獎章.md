@@ -66,7 +66,7 @@ IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "
   - 1963年：
   - 1964年：
   - 1965年：无获奖人
-  - 1966年：[克勞德·夏農](https://zh.wikipedia.org/wiki/克勞德·夏農 "wikilink")
+  - 1966年：[克劳德·艾尔伍德·香农](https://zh.wikipedia.org/wiki/克劳德·艾尔伍德·香农 "wikilink")
   - 1967年：[查爾斯·湯斯](https://zh.wikipedia.org/wiki/查爾斯·湯斯 "wikilink") [Nobel_prize_medal.svg](https://zh.wikipedia.org/wiki/File:Nobel_prize_medal.svg "fig:Nobel_prize_medal.svg")1964年
 
 <!-- end list -->

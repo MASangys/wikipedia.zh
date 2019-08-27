@@ -317,15 +317,6 @@ Team KIII在2013年6月25日成立。
 </thead>
 <tbody>
 <tr class="odd">
-<td></td>
-<td><p>Acha</p></td>
-<td></td>
-<td><p>2期</p></td>
-<td><p>2013年6月25日</p></td>
-<td><p>預定於2019年8月4日畢業[20]</p></td>
-<td><p>29</p></td>
-</tr>
-<tr class="even">
 <td><p>Anastasya Narwastu Tety Handuran</p></td>
 <td><p>Tasya</p></td>
 <td></td>
@@ -334,7 +325,7 @@ Team KIII在2013年6月25日成立。
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Angelina Christy</p></td>
 <td><p>Christy</p></td>
 <td></td>
@@ -343,7 +334,7 @@ Team KIII在2013年6月25日成立。
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Anin</p></td>
 <td></td>
@@ -353,7 +344,7 @@ Team KIII在2013年6月25日成立。
 <strong>兼任Team T</strong></p></td>
 <td><p>10</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Beby</p></td>
 <td></td>
@@ -363,12 +354,21 @@ Team KIII在2013年6月25日成立。
 <strong>JKT48總隊長（第3任）</strong></p></td>
 <td><p>5</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Gita Sekar Andarini</p></td>
 <td><p>Gita</p></td>
 <td></td>
 <td><p>6期</p></td>
 <td><p>2019年7月21日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Helisma Putri</p></td>
+<td><p>Eli</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2019年8月5日</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -400,6 +400,15 @@ Team KIII在2013年6月25日成立。
 <td><p>21</p></td>
 </tr>
 <tr class="even">
+<td><p>Mutiara Azzahra</p></td>
+<td><p>Muthe</p></td>
+<td></td>
+<td><p>7期</p></td>
+<td><p>2019年8月5日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td><p>Aya</p></td>
 <td></td>
@@ -409,7 +418,7 @@ Team KIII在2013年6月25日成立。
 前Team J（Shania→Gabriela）</p></td>
 <td><p>26</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Viny</p></td>
 <td></td>
@@ -422,7 +431,7 @@ Team KIII在2013年6月25日成立。
 預定畢業</p></td>
 <td><p>7</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Shani</p></td>
 <td></td>
@@ -431,7 +440,7 @@ Team KIII在2013年6月25日成立。
 <td><p>前Team T</p></td>
 <td><p>1</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Gracia</p></td>
 <td></td>
@@ -440,7 +449,7 @@ Team KIII在2013年6月25日成立。
 <td><p>前Team T</p></td>
 <td><p>4</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong></strong></p></td>
 <td><p><strong>Yona</strong></p></td>
 <td></td>
@@ -451,7 +460,7 @@ Team KIII在2013年6月25日成立。
 JKT48最年長</p></td>
 <td><p>10</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Yessica Tamara</p></td>
 <td><p>Chika</p></td>
 <td></td>
@@ -460,7 +469,7 @@ JKT48最年長</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -736,6 +745,15 @@ Kyla</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
+<td><p>Cindy Nugroho</p></td>
+<td><p>Nunu</p></td>
+<td></td>
+<td><p>8期</p></td>
+<td><p>2019年8月3日</p></td>
+<td><p>AKB48集團最年少</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
 <td><p>Cornelia Vanisa</p></td>
 <td><p>Oniel</p></td>
 <td></td>
@@ -744,7 +762,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Devytha Maharani</p></td>
 <td><p>Devytha</p></td>
 <td></td>
@@ -753,7 +771,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Dhea Angelia</p></td>
 <td><p>Dey</p></td>
 <td></td>
@@ -762,7 +780,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Eriena Kartika</p></td>
 <td><p>Erichan</p></td>
 <td></td>
@@ -771,7 +789,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Febi Komaril</p></td>
 <td><p>Febi</p></td>
 <td></td>
@@ -780,7 +798,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Febrina Diponegoro</p></td>
 <td><p>Bri</p></td>
 <td></td>
@@ -789,7 +807,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Febriola Sinambela</p></td>
 <td><p>Olla</p></td>
 <td></td>
@@ -798,12 +816,21 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Fiony Alveria</p></td>
 <td><p>Fiony</p></td>
 <td></td>
 <td><p>8期</p></td>
 <td><p>2019年6月30日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>Flora Shafiq</p></td>
+<td><p>Flora</p></td>
+<td></td>
+<td><p>8期</p></td>
+<td><p>2019年8月3日</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -826,15 +853,6 @@ Kyla</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p>Helisma Putri</p></td>
-<td><p>Eli</p></td>
-<td></td>
-<td><p>7期</p></td>
-<td><p>2018年10月28日</p></td>
-<td><p>預定於2019年8月5日昇格至Team KIII</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
 <td><p>Jessica Chandra</p></td>
 <td><p>Jessi</p></td>
 <td></td>
@@ -843,7 +861,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Jesslyn Callista</p></td>
 <td><p>Jesslyn</p></td>
 <td></td>
@@ -852,7 +870,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Keisya Ramadhani</p></td>
 <td><p>Keisya</p></td>
 <td></td>
@@ -861,7 +879,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Lulu Salsabila</p></td>
 <td><p>Lulu</p></td>
 <td></td>
@@ -870,16 +888,16 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
-<td><p>Mutiara Azzahra</p></td>
-<td><p>Muthe</p></td>
+<tr class="even">
+<td><p>Nyimas Ratu Rafa</p></td>
+<td><p>Ratu</p></td>
 <td></td>
-<td><p>7期</p></td>
-<td><p>2018年10月28日</p></td>
-<td><p>預定於2019年8月5日昇格至Team KIII</p></td>
+<td><p>8期</p></td>
+<td><p>2019年8月3日</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Pamela Krysanthe</p></td>
 <td><p>Pamela</p></td>
 <td></td>
@@ -888,7 +906,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Reva Adriana</p></td>
 <td><p>Reva</p></td>
 <td></td>
@@ -897,7 +915,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Reva Fidela</p></td>
 <td><p>Adel</p></td>
 <td></td>
@@ -906,7 +924,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Rifa Fatmasari</p></td>
 <td><p>Rifa</p></td>
 <td></td>
@@ -915,7 +933,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Salma Annisa</p></td>
 <td><p>Alma</p></td>
 <td></td>
@@ -924,7 +942,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Shalza Grasita</p></td>
 <td><p>Shalza</p></td>
 <td></td>
@@ -933,7 +951,7 @@ Kyla</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Stefi</p></td>
 <td></td>
@@ -941,9 +959,18 @@ Kyla</p></td>
 <td><p>2015年8月1日</p></td>
 <td><p>前Team T（初代）<br />
 前Team KIII（Ratu）<br />
-2018年9月17日－10月15日至AKB48進行1個月短期交換留學[21][22]<br />
+2018年9月17日－10月15日至AKB48進行1個月短期交換留學[20][21]<br />
 前Team J（Shania→Gabriela）<br />
-2019年4月12日降格[23]</p></td>
+2019年4月12日降格[22]</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Umega Maulana</p></td>
+<td><p>Ume</p></td>
+<td></td>
+<td><p>8期</p></td>
+<td><p>2019年8月3日</p></td>
+<td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -963,65 +990,6 @@ Kyla</p></td>
 <td><p>2019年5月26日</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-</tr>
-</tbody>
-</table>
-
-#### Class B
-
-<table>
-<thead>
-<tr class="header">
-<th><p>姓名</p></th>
-<th><p>暱稱</p></th>
-<th><p>出生日期</p></th>
-<th><p>加入<br />
-期別</p></th>
-<th><p>備註</p></th>
-<th><p>總選舉<br />
-最高排名</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Cindy Nugroho</p></td>
-<td><p>Nunu</p></td>
-<td></td>
-<td><p>8期</p></td>
-<td><p>AKB48集團最年少</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p>Flora Shafiq</p></td>
-<td><p>Flora</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Nyimas Ratu Rafa</p></td>
-<td><p>Ratu</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Umega Maulana</p></td>
-<td><p>Ume</p></td>
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -1068,14 +1036,14 @@ Kyla</p></td>
 <td><p>1期</p></td>
 <td><p>J</p></td>
 <td><p>2013年12月22日</p></td>
-<td><p>[24]</p></td>
+<td><p>[23]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p><br />
 （Sonya Pandarmawan）</p></td>
 <td></td>
-<td><p>[25]<br />
+<td><p>[24]<br />
 印尼和台湾人混血兒<br />
 </p></td>
 <td><p>-</p></td>
@@ -1087,7 +1055,7 @@ Kyla</p></td>
 <td></td>
 <td></td>
 <td><p>2013年12月28日</p></td>
-<td><p>[26]</p></td>
+<td><p>[25]</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1098,7 +1066,7 @@ Kyla</p></td>
 <td><p>2期</p></td>
 <td><p>KIII</p></td>
 <td><p>2014年1月23日</p></td>
-<td><p>[27]</p></td>
+<td><p>[26]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1107,7 +1075,7 @@ Kyla</p></td>
 <td><p>1期</p></td>
 <td><p>J</p></td>
 <td><p>2014年2月16日</p></td>
-<td><p>[28]</p></td>
+<td><p>[27]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1128,7 +1096,7 @@ Kyla</p></td>
 （Rena Nozawa）</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>擁有日本國籍[29]<br />
+<td><p>擁有日本國籍[28]<br />
 现AKB48 Team 4<br />
 解除兼任</p></td>
 <td><p>-</p></td>
@@ -1149,7 +1117,7 @@ Kyla</p></td>
 <td></td>
 <td><p>2期</p></td>
 <td><p>KIII</p></td>
-<td><p>2015年2月27日[30]</p></td>
+<td><p>2015年2月27日[29]</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -1184,7 +1152,7 @@ Kyla</p></td>
 <td><p>Nina Hamidah</p></td>
 <td></td>
 <td><p>2016年2月1日</p></td>
-<td><p>[31]</p></td>
+<td><p>[30]</p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -1195,7 +1163,7 @@ Kyla</p></td>
 <td><p>1期</p></td>
 <td><p>J</p></td>
 <td><p>2016年3月18日</p></td>
-<td><p>[32]</p></td>
+<td><p>[31]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1203,7 +1171,7 @@ Kyla</p></td>
 <td></td>
 <td><p>3期</p></td>
 <td><p>2016年4月3日</p></td>
-<td><p>[33]</p></td>
+<td><p>[32]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1212,7 +1180,7 @@ Kyla</p></td>
 <td></td>
 <td><p>T</p></td>
 <td><p>2016年4月22日</p></td>
-<td><p>[34]</p></td>
+<td><p>[33]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -1258,7 +1226,7 @@ Kyla</p></td>
 <td><p>3期</p></td>
 <td><p>J</p></td>
 <td><p>2016年11月20日</p></td>
-<td><p>48集團首位撤回畢業宣言的成員[35]</p></td>
+<td><p>48集團首位撤回畢業宣言的成員[34]</p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="even">
@@ -1325,7 +1293,7 @@ Kyla</p></td>
 <td></td>
 <td><p>4期</p></td>
 <td><p>T</p></td>
-<td><p>2017年10月21日[36]</p></td>
+<td><p>2017年10月21日[35]</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -1335,7 +1303,7 @@ Kyla</p></td>
 <td><p>1期</p></td>
 <td><p>J</p></td>
 <td><p>2017年10月31日</p></td>
-<td><p>[37]</p></td>
+<td><p>[36]</p></td>
 <td><p>6</p></td>
 </tr>
 <tr class="even">
@@ -1344,7 +1312,7 @@ Kyla</p></td>
 <td><p>5期</p></td>
 <td><p>T</p></td>
 <td><p>2017年11月1日</p></td>
-<td><p>解雇[38]</p></td>
+<td><p>解雇[37]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1353,7 +1321,7 @@ Kyla</p></td>
 <td><p>4期</p></td>
 <td><p>研究生</p></td>
 <td><p>2017年12月7日</p></td>
-<td><p>[39]<br />
+<td><p>[38]<br />
 前Team T（Melody）</p></td>
 <td><p>-</p></td>
 </tr>
@@ -1373,7 +1341,7 @@ Kyla</p></td>
 <td><p>AKB48<br />
 5期</p></td>
 <td><p>KIII</p></td>
-<td><p>2018年3月25日[40][41]</p></td>
+<td><p>2018年3月25日[39][40]</p></td>
 <td><p><a href="../Page/伊藤公司.md" title="wikilink">伊藤公司</a>所屬<br />
 前AKB48 Team K（初代）<br />
 前AKB48 Team B（柏木）<br />
@@ -1465,7 +1433,7 @@ Kyla</p></td>
 <td><p>2期</p></td>
 <td><p>Class A</p></td>
 <td><p>2018年7月31日</p></td>
-<td><p>2018年6月7日降格[42]<br />
+<td><p>2018年6月7日降格[41]<br />
 前Team KIII<br />
 前Team J隊長（第3任）<br />
 請辭</p></td>
@@ -1478,7 +1446,7 @@ Kyla</p></td>
 <td><p>J</p></td>
 <td><p>2018年9月30日</p></td>
 <td><p>前Team KIII<br />
-當日畢業公演[43]</p></td>
+當日畢業公演[42]</p></td>
 <td><p>15</p></td>
 </tr>
 <tr class="even">
@@ -1489,7 +1457,7 @@ Kyla</p></td>
 選秀1期</p></td>
 <td><p>T</p></td>
 <td><p>2018年10月19日</p></td>
-<td><p>2018年9月15日起自AKB48 Team 4短期交換留學[44][45]</p></td>
+<td><p>2018年9月15日起自AKB48 Team 4短期交換留學[43][44]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
@@ -1498,7 +1466,7 @@ Kyla</p></td>
 <td><p>2期</p></td>
 <td><p>KIII</p></td>
 <td><p>2018年10月27日</p></td>
-<td><p>當日畢業公演[46]</p></td>
+<td><p>當日畢業公演[45]</p></td>
 <td><p>30</p></td>
 </tr>
 <tr class="even">
@@ -1507,7 +1475,7 @@ Kyla</p></td>
 <td><p>4期</p></td>
 <td><p>T</p></td>
 <td><p>2018年12月27日</p></td>
-<td><p>畢業[47]</p></td>
+<td><p>畢業[46]</p></td>
 <td><p>7</p></td>
 </tr>
 <tr class="odd">
@@ -1517,7 +1485,7 @@ Kyla</p></td>
 <td><p>J</p></td>
 <td><p>2018年12月29日</p></td>
 <td><p>前Team KIII<br />
-畢業[48]</p></td>
+畢業[47]</p></td>
 <td><p>11</p></td>
 </tr>
 <tr class="even">
@@ -1528,7 +1496,7 @@ Kyla</p></td>
 <td><p>妹妹是Sinka Juliani<br />
 前Team KIII队长（初代）<br />
 前Team J<br />
-畢業[49]</p></td>
+畢業[48]</p></td>
 <td><p>23</p></td>
 <td></td>
 </tr>
@@ -1539,7 +1507,7 @@ Kyla</p></td>
 <td><p>KIII</p></td>
 <td><p>2019年2月9日</p></td>
 <td><p>擁有日本血統<br />
-請辭[50]</p></td>
+請辭[49]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -1549,14 +1517,14 @@ Kyla</p></td>
 <td><p>J</p></td>
 <td><p>2019年3月31日</p></td>
 <td><p>前Team KIII<br />
-畢業[51]</p></td>
+畢業[50]</p></td>
 <td><p>27</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>前Team KIII<br />
-畢業[52]</p></td>
+畢業[51]</p></td>
 <td><p>9</p></td>
 <td></td>
 <td></td>
@@ -1570,7 +1538,7 @@ Kyla</p></td>
 <td><p>2019年4月23日</p></td>
 <td><p>2017年12月1日降格<br />
 前Team KIII（Ratu）<br />
-請辭[53]</p></td>
+請辭[52]</p></td>
 <td><p>17</p></td>
 </tr>
 <tr class="odd">
@@ -1581,7 +1549,7 @@ Kyla</p></td>
 <td><p>2019年4月28日</p></td>
 <td><p>前Team J 隊長（第2任）<br />
 前JKT48總隊長（第2任）<br />
-畢業[54]</p></td>
+畢業[53]</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="even">
@@ -1600,10 +1568,19 @@ Kyla</p></td>
 <td><p>J</p></td>
 <td><p>2019年7月27日</p></td>
 <td><p>前Team KIII（初代→Viviyona）<br />
-畢業[55]</p></td>
+畢業[54]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td><p>2期</p></td>
+<td><p>KIII</p></td>
+<td><p>2019年8月4日</p></td>
+<td><p>當日畢業公演[55]</p></td>
+<td><p>29</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -3020,12 +2997,28 @@ Class A Gabriel Angelina、Nabila Fitriana昇格至Team T</p></td>
 <td><p>15</p></td>
 </tr>
 <tr class="even">
+<td><p>8月3日</p></td>
+<td><p>Class B的4名成員晉級至Class A</p></td>
 <td></td>
+<td><p>80</p></td>
+<td><p>46</p></td>
+<td><p>15</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月4日</p></td>
+<td><p>Team KIII Alicia Chanzia畢業</p></td>
+<td><p>-1</p></td>
+<td><p>79</p></td>
+<td><p>45</p></td>
+<td><p>15</p></td>
+</tr>
+<tr class="even">
+<td><p>8月5日</p></td>
+<td><p>Class A Helisma Putri、Mutiara Azzahra昇格至Team KIII</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>79</p></td>
+<td><p>47</p></td>
+<td><p>15</p></td>
 </tr>
 </tbody>
 </table>
@@ -4055,21 +4048,21 @@ Music Card</p></td>
 19.
 
 20.
-
 21.
+
 22.
 
 23.
 
 24.
-
 25.
 26.
+
 27.
 
-28.
+28. [海外初ＡＫＢ姉妹グループ1期生28人合格](http://www.sanspo.com/geino/news/111103/gnj1111030501003-n1.htm) （サンケイスポーツ、2011年11月3日）2011年11月3日閲覧。
 
-29. [海外初ＡＫＢ姉妹グループ1期生28人合格](http://www.sanspo.com/geino/news/111103/gnj1111030501003-n1.htm) （サンケイスポーツ、2011年11月3日）2011年11月3日閲覧。
+29.
 
 30.
 
@@ -4079,9 +4072,9 @@ Music Card</p></td>
 
 33.
 
-34.
+34. 曾於2012年宣布畢業，但在宣布後數日即撤回宣言。
 
-35. 曾於2012年宣布畢業，但在宣布後數日即撤回宣言。
+35.
 
 36.
 
@@ -4098,21 +4091,21 @@ Music Card</p></td>
 42.
 
 43.
-
 44.
+
 45.
 
 46.
-
 47.
-48.
 
+48.
 49.
+
 50.
 
 51.
-
 52.
+
 53.
 
 54.

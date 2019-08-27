@@ -25,7 +25,7 @@ RPG-18發射的是64 毫米[口徑的](https://zh.wikipedia.org/wiki/口徑 "wik
   -
   -
   -
-  - ：被[格魯吉亞軍隊所採用](https://zh.wikipedia.org/wiki/格魯吉亞軍隊 "wikilink")。\[2\]
+  -   - [格魯吉亞武裝部隊](https://zh.wikipedia.org/wiki/格魯吉亞軍 "wikilink")\[2\]
 
   -
   -
@@ -37,7 +37,7 @@ RPG-18發射的是64 毫米[口徑的](https://zh.wikipedia.org/wiki/口徑 "wik
   -
   -
   -
-  - ：被[政府軍和](https://zh.wikipedia.org/wiki/叙利亚武装力量 "wikilink")[自由叙利亚军](../Page/自由叙利亚军.md "wikilink")兩方所採用。
+  -   - [叙利亚阿拉伯軍隊](https://zh.wikipedia.org/wiki/叙利亚武装力量 "wikilink")
 
   -
   -
@@ -48,6 +48,10 @@ RPG-18發射的是64 毫米[口徑的](https://zh.wikipedia.org/wiki/口徑 "wik
 
   -
   -
+### 非國家團體
+
+  - [自由叙利亚军](../Page/自由叙利亚军.md "wikilink")
+
 ## 圖集
 
 <File:2011>. День защиты детей в Донецке 046.jpg|[RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")、[RPG-22](../Page/RPG-22.md "wikilink")、[RPG-26](../Page/RPG-26.md "wikilink")和RPG-18 <File:2011>. День защиты детей в Донецке 047.jpg| <File:Tula> State Museum of Weapons (79-58).jpg|在圖拉國家武器博物館上展出的RPG-18、[RPG-26](../Page/RPG-26.md "wikilink")、[RPG-27](../Page/RPG-27.md "wikilink")、[RPG-29](../Page/RPG-29.md "wikilink")和[RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink") <File:Tula> State Museum of Weapons (79-59).jpg|在圖拉國家武器博物館上展出的RPG-18和[RPG-26](../Page/RPG-26.md "wikilink")

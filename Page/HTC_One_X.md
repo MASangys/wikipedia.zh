@@ -90,9 +90,9 @@
 </tr>
 <tr class="odd">
 <td><p>操作系統</p></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a> 4.1 with <a href="../Page/HTC_Sense.md" title="wikilink">HTC Sense</a> 4+</p></td>
-<td><p>Android 4.1 with HTC Sense 4+</p></td>
-<td><p>Android 4.1 with HTC Sense 4+</p></td>
+<td><p>可更新至Android 4.2.2 with HTC Sense 5</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -106,9 +106,9 @@
 </tr>
 <tr class="odd">
 <td><p>CPU</p></td>
-<td><p>1.5 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A9" title="wikilink">ARM Cortex-A9</a></p></td>
-<td><p>1.5 GHz dual-core <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="../Page/Krait_(CPU).md" title="wikilink">Krait</a></p></td>
-<td><p>1.7 GHz quad-core <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A9" title="wikilink">ARM Cortex-A9</a></p></td>
+<td><p>1.5 GHz 四核心 <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A9" title="wikilink">ARM Cortex-A9</a></p></td>
+<td><p>1.5 GHz 雙核心 <a href="https://zh.wikipedia.org/wiki/Qualcomm" title="wikilink">Qualcomm</a> <a href="../Page/Krait_(CPU).md" title="wikilink">Krait</a></p></td>
+<td><p>1.7 GHz 四核心 <a href="https://zh.wikipedia.org/wiki/ARM_Cortex-A9" title="wikilink">ARM Cortex-A9</a></p></td>
 <td></td>
 <td></td>
 </tr>

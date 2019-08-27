@@ -57,6 +57,8 @@
 
 2018年改款，[欣欣客運](https://zh.wikipedia.org/wiki/欣欣客運 "wikilink")12輛大巴行駛臺北聯營66路線。
 
+2019年，[南台灣客運](https://zh.wikipedia.org/wiki/南台灣客運 "wikilink")14輛2018年式改款大巴行駛輕軌綠1路線。
+
 ## 圖片集
 
 [File:臺中市公車EAA-602.JPG|全航客運臺中市公車11路](File:臺中市公車EAA-602.JPG%7C全航客運臺中市公車11路) [File:高雄客運電動低地板公車122-FV.jpg|高雄客運旗美國道快捷EAA-602](File:高雄客運電動低地板公車122-FV.jpg%7C高雄客運旗美國道快捷EAA-602)

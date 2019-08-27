@@ -1,4 +1,4 @@
-《**IRIS**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2009年10月14日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由韓國名導演[姜帝圭](../Page/姜帝圭.md "wikilink")企劃，[李炳憲](../Page/李炳憲.md "wikilink")、[金泰希](../Page/金泰希.md "wikilink")等人演出。既是韩国首部諜報動作劇，又为首部由[電影製作公司所製作的韓劇](https://zh.wikipedia.org/wiki/電影 "wikilink")，斥資200億韓圓製作，先後前往[匈牙利](../Page/匈牙利.md "wikilink")、[日本](../Page/日本.md "wikilink")、[中國](../Page/中國.md "wikilink")等地大規模取景拍攝，2009年11月29日在[首爾](../Page/首爾.md "wikilink")[光化門](../Page/光化門.md "wikilink")获准封街12小時拍攝，这也是史上首遭。在韓國開播前已高價外銷，每集以約2.7億韓圓售往日本。2010年獲[第46屆百想藝術大賞最佳電視劇作品獎](https://zh.wikipedia.org/wiki/第46屆百想藝術大賞 "wikilink")。
+《**IRIS**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2009年10月14日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由韓國名導演[姜帝圭](../Page/姜帝圭.md "wikilink")企劃，[李炳憲](../Page/李炳憲.md "wikilink")、[金泰希](../Page/金泰希.md "wikilink")等人演出。既是韩国首部諜報動作劇，又为首部由[電影製作公司所製作的韓劇](https://zh.wikipedia.org/wiki/電影 "wikilink")，斥資200億韓圓製作，先後前往[匈牙利](../Page/匈牙利.md "wikilink")、[日本](../Page/日本.md "wikilink")、[中國](../Page/中國.md "wikilink")等地大規模取景拍攝，2009年11月29日在[首爾](../Page/首爾.md "wikilink")[光化門](../Page/光化門.md "wikilink")获准封街12小時拍攝，这也是史上首遭。在韓國開播前已高價外銷，每集以約2.7億韓圓售往日本。2010年獲[第46屆百想藝術大獎最佳電視劇作品獎](https://zh.wikipedia.org/wiki/第46屆百想藝術大獎 "wikilink")。
 
 ## 登場人物
 
@@ -19,7 +19,7 @@
 <p><a href="../Page/李炳憲.md" title="wikilink">李炳憲</a></p></td>
 <td><center>
 <p><a href="../Page/翟耀輝.md" title="wikilink">翟耀輝</a></p></td>
-<td><p>擁有過目不忘的記憶能力，冷靜且果斷的行動力。從707特戰隊被NSS徵召後，成為NSS反恐部最精銳的要員，代號TK1。父母為科學家， 7歲時候父母意外身亡，並導致失去意外前記憶。成為孤兒後，被安排在孤兒院長大成人。與NSS的組長崔勝熙展開了一段命運般的愛情故事。後來被IRIS陷害，陷入了一場陰謀與背叛的風波。</p></td>
+<td><p>擁有過目不忘的記憶能力，冷靜且果斷的行動力。從<a href="https://zh.wikipedia.org/wiki/韓國陸軍" title="wikilink">韓國陸軍</a><a href="https://zh.wikipedia.org/wiki/第707特殊任務營" title="wikilink">第707特殊任務營被NSS徵召後</a>，成為NSS反恐部最精銳的要員，代號TK1。父母為科學家， 7歲時候父母意外身亡，並導致失去意外前記憶。成為孤兒後，被安排在孤兒院長大成人。與NSS的組長崔勝熙展開了一段命運般的愛情故事。後來被IRIS陷害，陷入了一場陰謀與背叛的風波。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -214,7 +214,7 @@
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/金民燦" title="wikilink">金民燦</a></p></td>
 <td><center></td>
-<td><p>恐怖分子成員，駭客專家。</p></td>
+<td><p>恐怖分子，駭客專家。</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -222,7 +222,7 @@
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/李言廷" title="wikilink">李言廷</a></p></td>
 <td><center></td>
-<td><p>恐怖分子成員。</p></td>
+<td><p>恐怖分子。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -230,7 +230,7 @@
 <td><center>
 <p><a href="../Page/余鎬民.md" title="wikilink">余鎬民</a></p></td>
 <td><center></td>
-<td><p>恐怖分子成員。</p></td>
+<td><p>恐怖分子。</p></td>
 </tr>
 </tbody>
 </table>
@@ -312,7 +312,7 @@
 <td><center>
 <p><a href="../Page/笛木優子.md" title="wikilink">笛木優子</a></p></td>
 <td><center></td>
-<td><p>日本人，<a href="../Page/内阁情报调查室.md" title="wikilink">内阁情报调查室</a>國際部成員。</p></td>
+<td><p>日本人，<a href="../Page/内阁情报调查室.md" title="wikilink">内阁情报调查室</a>國際部員。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -394,10 +394,10 @@
   - [臺灣東森電視](http://tvshow.ebc.net.tw/UD2010001)
   - [香港無綫電視](http://programme.tvb.com/drama/iris/)
 
-## 作品的變遷
+## 作品變遷
 
 ## 参考文献
 
 {{-}}
 
-[Category:KBS水木連續劇](https://zh.wikipedia.org/wiki/Category:KBS水木連續劇 "wikilink") [Category:2009年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2009年韓國電視劇集 "wikilink") [Category:虛構犯罪組織](https://zh.wikipedia.org/wiki/Category:虛構犯罪組織 "wikilink") [Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink") [Category:首爾特別市背景電視劇](https://zh.wikipedia.org/wiki/Category:首爾特別市背景電視劇 "wikilink") [Category:秋田縣背景作品](https://zh.wikipedia.org/wiki/Category:秋田縣背景作品 "wikilink") [Category:上海市背景电视剧](https://zh.wikipedia.org/wiki/Category:上海市背景电视剧 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:孤兒題材電視劇](https://zh.wikipedia.org/wiki/Category:孤兒題材電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:匈牙利背景作品](https://zh.wikipedia.org/wiki/Category:匈牙利背景作品 "wikilink")
+[Category:KBS水木連續劇](https://zh.wikipedia.org/wiki/Category:KBS水木連續劇 "wikilink") [Category:2009年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2009年韓國電視劇集 "wikilink") [Category:虛構犯罪組織](https://zh.wikipedia.org/wiki/Category:虛構犯罪組織 "wikilink") [Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink") [Category:首爾特別市背景電視劇](https://zh.wikipedia.org/wiki/Category:首爾特別市背景電視劇 "wikilink") [Category:秋田縣背景作品](https://zh.wikipedia.org/wiki/Category:秋田縣背景作品 "wikilink") [Category:上海市背景电视剧](https://zh.wikipedia.org/wiki/Category:上海市背景电视剧 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:孤兒題材電視劇](https://zh.wikipedia.org/wiki/Category:孤兒題材電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:匈牙利背景作品](https://zh.wikipedia.org/wiki/Category:匈牙利背景作品 "wikilink") [Category:韓國國家情報院題材作品](https://zh.wikipedia.org/wiki/Category:韓國國家情報院題材作品 "wikilink")

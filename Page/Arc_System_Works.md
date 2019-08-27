@@ -4,7 +4,7 @@
 
 1988年成立。自《聖騎士之戰》系列以來就以推出華麗動畫風格的2D格鬥遊戲稱著。
 
-製作過原[TECHNŌS JAPAN的](https://zh.wikipedia.org/wiki/TECHNŌS_JAPAN "wikilink")[熱血系列](../Page/熱血系列.md "wikilink")及[雙截龍系列](../Page/雙截龍系列.md "wikilink")的續作，2015年6月12日承讓Million持有的TECHNŌS JAPAN遊戲的版權。\[1\]
+製作過原[Technōs Japan的](../Page/Technōs_Japan.md "wikilink")[熱血系列](../Page/熱血系列.md "wikilink")及[雙截龍系列](../Page/雙截龍系列.md "wikilink")的續作，2015年6月12日承讓Million持有的Technōs Japan遊戲的版權。\[1\]
 
 ## 遊戲作品
 

@@ -2,6 +2,8 @@
 
 2018年4月27日Square公司以3.65億美元收購網站製作平台Weebly。
 
+2019年8月2日總部位於美國加州的餐飲配送服務公司[DoorDash以](https://zh.wikipedia.org/wiki/DoorDash "wikilink")4.1億美元收購Square旗下的餐飲配送服務Caviar
+
 ## 参考资料
 
 ## 相关条目

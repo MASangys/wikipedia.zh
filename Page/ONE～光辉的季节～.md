@@ -2,7 +2,7 @@
 
 ## 概要
 
-《ONE～光辉的季节～》是一款[浪漫](https://zh.wikipedia.org/wiki/浪漫 "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")，[玩家](../Page/玩家.md "wikilink")扮演角色折原浩平。玩家在遊玩《ONE～光辉的季节～》時將會花費大多數時間觀看出現在螢幕上的文字[敘述](https://zh.wikipedia.org/wiki/叙事 "wikilink")、人物[對話以及角色心理等](https://zh.wikipedia.org/wiki/对话 "wikilink")，藉由這樣的方式除了讓故事獲得進展外，也可以與遊戲角色對話進行交流。在每次閱讀故事發展以及與其他角色對話後，玩家便有機會能夠在與角色互動時從遊戲提供的數個選項中挑選其中一項，此時遊戲會暫停一會兒以提供玩家依據先前的對話作出決定。遊戲中會有折原浩平與其中一名女主角[性愛的](https://zh.wikipedia.org/wiki/性愛 "wikilink")[色情](https://zh.wikipedia.org/wiki/變態_\(日語\) "wikilink")[場景](https://zh.wikipedia.org/wiki/計算機圖形 "wikilink")\[2\]，不過NEXTON公司之後推出適合無色情內容的「全年齡向」版本。
+《ONE～光辉的季节～》是一款[浪漫](https://zh.wikipedia.org/wiki/浪漫 "wikilink")[視覺小說](https://zh.wikipedia.org/wiki/視覺小說 "wikilink")，[玩家](../Page/玩家.md "wikilink")扮演角色折原浩平。玩家在遊玩《ONE～光辉的季节～》時將會花費大多數時間觀看出現在螢幕上的文字[敘述](https://zh.wikipedia.org/wiki/叙事 "wikilink")、人物[對話以及角色心理等](https://zh.wikipedia.org/wiki/对话 "wikilink")，藉由這樣的方式除了讓故事獲得進展外，也可以與遊戲角色對話進行交流。在每次閱讀故事發展以及與其他角色對話後，玩家便有機會能夠在與角色互動時從遊戲提供的數個選項中挑選其中一項，此時遊戲會暫停一會兒以提供玩家依據先前的對話作出決定。遊戲中會有折原浩平與其中一名女主角[性愛的](https://zh.wikipedia.org/wiki/性愛 "wikilink")[色情](https://zh.wikipedia.org/wiki/變態_\(日語\) "wikilink")[場景](https://zh.wikipedia.org/wiki/計算機圖形 "wikilink")\[2\]，不過NEXTON公司之後推出無色情內容的「面向全年齡」版本。
 
 主人公在一天又一天的学园生活之中，由于怀疑自己终将失去这平淡的日常，而被逐渐吸引到被称作“永恒的世界”的另一个精神世界中去。本作是一部以已经逝去的思念和为了生存下去的羁绊为主题的寓言式的作品。用朦胧的恋爱场景吸引玩家的感情，之后用戏剧性的离别和再会的场景将玩家感动得热泪盈眶，本作的这种套路成为之后恋爱冒险游戏的一种模式。正因为如此，本作也被认为是开创“泣系”GAL的作品之一\[3\]。元长征木曾评论说，ONE的存在自身就是个奇迹，没有可以代替ONE的作品\[4\]。另外，NEXTON的另一品牌[BaseSon](../Page/BaseSon.md "wikilink")发售继承“永恒的世界”的设定的姐妹作[ONE2～永远的约定～](https://zh.wikipedia.org/wiki/ONE2～永远的约定～ "wikilink")。
 
@@ -166,7 +166,7 @@
       - ONE 〜輝く季節へ〜 第3巻 雪の章 みさき・澪（发售日：2002年2月22日）\[17\]
       - ONE 〜輝く季節へ〜 第4巻 桜の章 瑞佳・繭（发售日：2002年5月24日）\[18\]
 
-### 成人向版
+### 成人版
 
   - 企划：なべぞう・大石孝次
   - 監督：ふくもとかん
@@ -269,7 +269,7 @@
       - ONE～光辉的季节～triplet story（发售日：2001年11月22日）\[26\]
       - ONE～光辉的季节～miniature（发售日：2002年7月26日）\[27\]
 
-### 成人向版OVA相关
+### 成人版OVA相关
 
 #### 原声集
 

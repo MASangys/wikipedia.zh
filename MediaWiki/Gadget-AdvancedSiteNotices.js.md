@@ -112,7 +112,9 @@
 `               }, only_for = function( userlang ) {`
 `                   return userlang === mw.config.get('wgUserLanguage');`
 `               };`
-`               return eval( criteria );`
+`              // FIXME: This shouldn't be using eval on data entered in wikitext. If that data is malformed it will throw an exception e.g. criteria = "(false))"`
+`               try {`
+`                 return eval( criteria ); } catch ( e ) { return false; }`
 `           };`
 `           cache = testCriteria();`
 `           nt.data( 'asn-cache', cache );`

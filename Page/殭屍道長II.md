@@ -13,7 +13,7 @@
 
   - [林正英](../Page/林正英.md "wikilink")（配音：[周永光](../Page/周永光.md "wikilink")） 飾 毛小方
   - [孟　海](../Page/孟海.md "wikilink") 飾 小　海
-  - [林文龍](../Page/林文龍.md "wikilink") 飾 郁達初
+  - [林文龍](../Page/林文龍.md "wikilink") 飾 郁達初（阿初）
   - [程　東](../Page/程東.md "wikilink") 飾 雷　罡
   - [文頌嫻](../Page/文頌嫻.md "wikilink") 飾 雷　秀
   - [商天娥](../Page/商天娥.md "wikilink") 飾 玫　瑰
@@ -31,7 +31,7 @@
   - [陳麗雲](../Page/陳麗雲.md "wikilink") 飾 張　媽
   - [陳　東](https://zh.wikipedia.org/wiki/陳東_\(演員\) "wikilink") 飾 張　伯
   - [佘文炳](https://zh.wikipedia.org/wiki/佘文炳 "wikilink") 飾 牛大叔
-  - [饒芷昀](https://zh.wikipedia.org/wiki/饒芷昀 "wikilink") 飾 牛大媽
+  - [饒芷筠](https://zh.wikipedia.org/wiki/饒芷筠 "wikilink") 飾 牛大媽
   - [陳　銳](https://zh.wikipedia.org/wiki/陳銳_\(演員\) "wikilink") 飾 阿　忠
   - [李俊德](../Page/李俊德.md "wikilink") 飾 阿　邦
   - [黃清河](https://zh.wikipedia.org/wiki/黃清河 "wikilink") 飾 父　老

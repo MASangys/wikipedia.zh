@@ -17,16 +17,4 @@
 |  <small>非凡</small>  |        \-         |         \-          |
 |  <small>鳥籠</small>  |         8         |          5          |
 
-## 其他
-
-MV現有7首，當中《平凡.明星》、《我們不是公主》、《鳥籠》、《非凡》及《乾燥花》的MV皆沒有放入該唱片內。
-
-  - [平凡.明星](http://www.youtube.com/watch?v=yYDnnp0VCVI/)
-  - [我們不是公主](http://www.youtube.com/watch?v=V9XAkFmgqZw/)
-  - [洗澡](http://www.youtube.com/watch?v=91HP2KizbyY/)
-  - [鳥籠](http://www.youtube.com/watch?v=iaucN8nF_3k/)
-  - [Take Me Through](http://www.youtube.com/watch?v=2mIEipS1W28/)
-  - [非凡](http://www.youtube.com/watch?v=L8aokWNSNSk/)
-  - [乾燥花](http://www.youtube.com/watch?v=buLzNlOwjko/)
-
 [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink") [Category:2011年音樂專輯](https://zh.wikipedia.org/wiki/Category:2011年音樂專輯 "wikilink") [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink") [Category:林欣彤音樂專輯](https://zh.wikipedia.org/wiki/Category:林欣彤音樂專輯 "wikilink")

@@ -40,7 +40,7 @@ PSV採用与[东芝](../Page/东芝.md "wikilink")和[IBM](../Page/IBM.md "wikil
 
 ### 硬體（PCH-2000）
 
-[Taipei_IT_Month_SCET_PCH-2007_20131203.jpg](https://zh.wikipedia.org/wiki/File:Taipei_IT_Month_SCET_PCH-2007_20131203.jpg "fig:Taipei_IT_Month_SCET_PCH-2007_20131203.jpg")
+[PlayStation-Vita-2001-FL.jpg](https://zh.wikipedia.org/wiki/File:PlayStation-Vita-2001-FL.jpg "fig:PlayStation-Vita-2001-FL.jpg")
 
   - 型號：PCH-2000
   - 中央處理器：ARM Cortex-A9四核心處理器

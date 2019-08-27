@@ -1,4 +1,4 @@
-《**機動戰士鋼彈戰記 Lost War Chronicles**》（，[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：*Mobile Suit Gundam: Lost War Chronicles*）是在[PlayStation 2上發售的第三人稱動作及射擊遊戲](../Page/PlayStation_2.md "wikilink")。在遊戲中，玩家扮演一名「[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")(Mobile Suit，簡稱MS)」小隊隊長，帶領屬下的一個小隊執行各種任務。和遊戲相關的作品，有和遊戲同名、由夏元雅人所畫的漫畫故事，漫畫曾在《[Gundam Ace](https://zh.wikipedia.org/wiki/Gundam_Ace "wikilink")》上連載。另外，亦有和遊戲同名、由林譲治所寫的小說故事。
+是在[PlayStation 2上發售的第三人稱動作及射擊遊戲](../Page/PlayStation_2.md "wikilink")。在遊戲中，玩家扮演一名「[機動戰士](https://zh.wikipedia.org/wiki/機動戰士 "wikilink")(Mobile Suit，簡稱MS)」小隊隊長，帶領屬下的一個小隊執行各種任務。和遊戲相關的作品，有和遊戲同名、由夏元雅人所畫的漫畫故事，漫畫曾在《[Gundam Ace](https://zh.wikipedia.org/wiki/Gundam_Ace "wikilink")》上連載。另外，亦有和遊戲同名、由林譲治所寫的小說故事。本作被收录在2014年5月发售的[PlayStation 3游戏](../Page/PlayStation_3.md "wikilink")《[机动战士GUNDAM SIDE STORIES](../Page/机动战士GUNDAM_SIDE_STORIES.md "wikilink")》中，该作亦推出繁体中文版。
 
 ## 故事背景
 
@@ -16,7 +16,9 @@ U.C.0079年，宇宙殖民衛星群「[吉翁公國](../Page/吉翁公國.md "wi
 
 ### 地球聯邦軍
 
-MS特殊部隊第三小隊，是在「一年戰爭」中期，聯邦軍成功開發MS後，由於沒有相應的MS運用知識及戰術，因此而成立的「實驗部隊」之一。把MS以三機為一小隊的編制，投入各種危險及不可預測的環境以收集運用數據。部隊直屬約翰·高文(日文：ジョン・コーウェン，英文：John Kowen)准將指揮。
+#### MS特殊部队第3小队（试验部队/Delta Team）
+
+MS特殊部隊第三小隊，是在「一年戰爭」中期，聯邦軍成功開發MS後，由於沒有相應的MS運用知識及戰術，因此而成立的「實驗部隊」之一。把MS以三機為一小隊的編制，投入各種危險及不可預測的環境以收集運用數據。部隊直屬約翰·高文准將指揮。
 
   -
     軍階為中尉，MS特殊部隊第三小隊的隊長。
@@ -45,12 +47,22 @@ MS特殊部隊第三小隊，是在「一年戰爭」中期，聯邦軍成功開
   -
     軍階為上等兵，MS特殊部隊第三小隊的整備員。非洲裔美國人。
     在遊戲中，會出現在戰鬥後的過場動畫中，並對作戰成果作出總結。
-    在漫畫版中，故事開始時就已經是第三小隊的成員，負責機體在戰鬥前的整備工作，在戰鬥時會在指揮車中協助諾爾。
+    在漫畫版中，故事開始時就已經是第三小隊的成員，負責機體在戰鬥前的整備工作，在戰鬥時會在指揮車中協助-{zh-cn:诺埃尔;zh-hant:諾爾;}-。
     在小說版中，曾記述和馬特在MS機師培訓班時認識，馬特常向她請教技術問題，之後被調到第三小隊，後來因馬特成為了第三小隊隊長而再次相遇。
+  -
+    特殊部队司令。准将军衔，54岁。
+  -
+    约翰·高文准将的副官兼补给部队指挥官。中尉军衔。28岁。
+
+#### 其他部队
+
+  -
 
 ### 吉翁公國軍
 
-MS特務遊擊隊，是在「一年戰爭」中，道格拉斯．羅德(日文：ダグラス・ローデン，英文：Douglas Rodin)上校建立的「特別義勇軍部隊」中的核心部隊，吉翁軍內部稱之為「外人部隊」。部隊成員大多不是吉翁公國的居民，而是來自其他宇宙殖民衛星群的宇宙居民，當中部份不是軍人而是一般的平民，亦有部份是遭受吉翁公國當權派系薩比家打壓的反對派系成員。由於部隊成員在政見和身份方面和正規軍有分歧，因此常受到正規軍排擠和厭惡。部隊主要負責支援正規軍作戰或是負責正規軍不願意做的工作，例如在主軍撤退中負責殿後之類。
+#### MS特务游击队（外人部队/Red Team）
+
+MS特務遊擊隊，是在「一年戰爭」中，-{zh-cn:道格拉斯·洛登;zh-hant:道格拉斯·羅汀;}-上校建立的「特別義勇軍部隊」中的核心部隊，吉翁軍內部稱之為「外人部隊」。部隊成員大多不是吉翁公國的居民，而是來自其他宇宙殖民衛星群的宇宙居民，當中部份不是軍人而是一般的平民，亦有部份是遭受吉翁公國當權派系薩比家打壓的反對派系成員。由於部隊成員在政見和身份方面和正規軍有分歧，因此常受到正規軍排擠和厭惡。部隊主要負責支援正規軍作戰或是負責正規軍不願意做的工作，例如在主軍撤退中負責殿後之類。
 
   -
     軍階為少尉，MS特務遊擊隊的隊長。
@@ -74,11 +86,28 @@ MS特務遊擊隊，是在「一年戰爭」中，道格拉斯．羅德(日文�
     據小說版所述，原本是宇宙殖民地群Side 2的居民，但在Side 3(吉翁公國)旅行時，Side 2因吉翁公國對地球聯邦政府宣戰，及吉翁軍突襲當地的聯邦軍駐軍，而在戰鬥中完全被毀滅，因而流落Side 3，為了逃避孤獨而加入了「外人部隊」。平常在由整備班的氣墊車改造而成的移動管制室協助小隊作戰。
     隊中代號是「紅色0號」。
   -
-    民間人仕，MS特務遊擊隊的整備人員。出身於吉翁公國內的名門卡溫家族，由於家族的政見和當權的薩比家不合，因此被當成異見者而被監視，但得羅德上校收留並作出保護。
+    民間人仕，MS特務遊擊隊的整備人員。出身於吉翁公國內的名門卡溫家族，由於家族的政見和當權的薩比家不合，因此被當成異見者而被監視，但得-{zh-cn:洛登;zh-hant:羅汀;}-上校收留並作出保護。
     在遊戲中，會出現在戰鬥後的過場動畫中，並對作戰成果作出總結。
     在漫畫版中，原本是作為特派員負責新型MS MS-09 Dom的整備而來到地球，後來才加入MS特務遊擊隊。
     據小說版所述，是只有14歲的少女，但是在MS開發及整備方面是天才，作為替吉翁軍開發MS的吉翁尼克公司的特派員，協助MS特務遊擊隊的MS整備工作。
     在隊中的代號是「黑寡婦」。
+  -
+    游击队司令。大佐军衔。45岁。
+    虽然立下很多战功，当由于是戴肯派，所以遭到扎比家的疏远。因为和梅·卡温的父亲同是戴肯派，为了避免梅成为扎比家手中的人质，所以收留了梅。
+  -
+    \-{zh-cn:洛登;zh-hant:羅汀;}-大佐的秘书官。大尉军衔。25岁。
+    虽然是-{zh-cn:洛登;zh-hant:羅汀;}-大佐的秘书，实际是扎比家派来监视-{zh-cn:洛登;zh-hant:羅汀;}-的人。
+
+#### 食尸鬼队
+
+基西莉娅·扎比的私人部队。在本作小说版和[SIDE STORIES中登场](../Page/机动战士GUNDAM_SIDE_STORIES.md "wikilink")。
+
+  -
+    食尸鬼队的队长。中尉军衔。座机为陆战型格鲁古古。
+  -
+    少尉军衔。
+  -
+    曹长军衔。
 
 ## 登場機體
 
@@ -134,4 +163,4 @@ MS特務遊擊隊，是在「一年戰爭」中，道格拉斯．羅德(日文�
 
   - [PS2機動戰士GUNDAM戰記 官方網站](http://www.gundam.channel.or.jp/videogame/gsenki/)
 
-[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink") [Category:GUNDAM系列電子遊戲](https://zh.wikipedia.org/wiki/Category:GUNDAM系列電子遊戲 "wikilink") [Category:PlayStation_2独占游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2独占游戏 "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:GUNDAM系列小說](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說 "wikilink") [Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
+[Category:2002年电子游戏](https://zh.wikipedia.org/wiki/Category:2002年电子游戏 "wikilink") [Category:GUNDAM系列電子遊戲](https://zh.wikipedia.org/wiki/Category:GUNDAM系列電子遊戲 "wikilink") [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink") [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink") [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink") [Category:宇宙世紀](https://zh.wikipedia.org/wiki/Category:宇宙世紀 "wikilink") [Category:GUNDAM系列小說](https://zh.wikipedia.org/wiki/Category:GUNDAM系列小說 "wikilink") [Category:GUNDAM_ACE](https://zh.wikipedia.org/wiki/Category:GUNDAM_ACE "wikilink") [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")

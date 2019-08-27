@@ -170,13 +170,13 @@
 <td><p>替身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/伍代参平" title="wikilink"><font color="Black">伍代参平</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伍代参平" title="wikilink"><font color="White">伍代参平</font></a></p></td>
 <td><p>風鏡黃</p></td>
 <td><p>黃島太</p></td>
-<td><p><a href="../Page/蛋白石.md" title="wikilink"><font color="Black">蛋白石</font></a>／<a href="../Page/復活節島.md" title="wikilink"><font color="Black">復活節島</font></a></p></td>
+<td><p><a href="../Page/蛋白石.md" title="wikilink"><font color="White">蛋白石</font></a>／<a href="../Page/復活節島.md" title="wikilink"><font color="White">復活節島</font></a></p></td>
 <td><p>黃體操球 → 黃蛋白石百萬噸鐵球／黃色鐵槌</p></td>
 <td><p>黃色鑽地</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/伊藤勝功" title="wikilink"><font color="Black">伊藤勝功</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊藤勝功" title="wikilink"><font color="White">伊藤勝功</font></a></p></td>
 </tr>
 <tr class="even">
 <td><p>原為<a href="https://zh.wikipedia.org/wiki/礦山師" title="wikilink">礦山師</a>（礦產調查專家），巡迴全日本後於遊樂場擔任動物管理員。</p>
@@ -214,14 +214,14 @@
 <td><p>替身</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/大川惠" title="wikilink"><font color="black">大川惠</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大川惠" title="wikilink"><font color="White">大川惠</font></a></p></td>
 <td><p>風鏡桃</p></td>
 <td><p>桃園美樹</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鑽石" title="wikilink"><font color="black">鑽石</font></a>／<a href="https://zh.wikipedia.org/wiki/馬雅" title="wikilink"><font color="black">馬雅</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鑽石" title="wikilink"><font color="White">鑽石</font></a>／<a href="https://zh.wikipedia.org/wiki/馬雅" title="wikilink"><font color="White">馬雅</font></a></p></td>
 <td><p>粉紅體操彩帶 → 粉紅鑽石指揮棒／粉紅鏡</p></td>
 <td><p>粉紅愛心閃光</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/竹田道弘" title="wikilink"><font color="black">竹田道弘</font></a><br />
-<a href="https://zh.wikipedia.org/wiki/志村忍" title="wikilink"><font color="black">志村忍</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/竹田道弘" title="wikilink"><font color="White">竹田道弘</font></a><br />
+<a href="https://zh.wikipedia.org/wiki/志村忍" title="wikilink"><font color="White">志村忍</font></a></p></td>
 </tr>
 <tr class="even">
 <td><p>經常面帶微笑且溫柔的體操選手，意志堅強。平時於遊樂園作廣播員。</p>

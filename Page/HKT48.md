@@ -116,7 +116,7 @@ HKT48原與[AKB48集團](../Page/AKB48集團.md "wikilink")其他團體一樣擁
 
 ### 2020年
 
-  - HKT48劇場「福岡新劇場」（暫定名稱）預定春季於福岡市中央區「E・ZO FUKUOKA」7樓開幕\[62\]\[63\]。
+  - HKT48劇場（「新劇場」）預定春季於福岡市中央區「E・ZO FUKUOKA」7樓開幕\[62\]\[63\]。
 
 ## 成員
 
@@ -3263,11 +3263,13 @@ HKT48劇場設於福岡市中央區地行濱的（Hawks Town Mall）內，於201
   - [Universal Music Japan 唱片公司](http://www.universal-music.co.jp/hkt48/)
 
   -
+  -
+  -
   - [AKB48 Now on Google+](http://www.google.com/intl/ja/+/project48/)
 
       - [HKT48 - Google+](https://plus.google.com/102988890725022311407/)
 
-[Category:HKT48](https://zh.wikipedia.org/wiki/Category:HKT48 "wikilink") [Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink") [Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink") [Category:福岡市](https://zh.wikipedia.org/wiki/Category:福岡市 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本在地偶像](https://zh.wikipedia.org/wiki/Category:日本在地偶像 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
+[Category:HKT48](https://zh.wikipedia.org/wiki/Category:HKT48 "wikilink") [Category:AKB48家族](https://zh.wikipedia.org/wiki/Category:AKB48家族 "wikilink") [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink") [Category:日本在地偶像](https://zh.wikipedia.org/wiki/Category:日本在地偶像 "wikilink") [Category:秋元康](https://zh.wikipedia.org/wiki/Category:秋元康 "wikilink") [Category:福岡市](https://zh.wikipedia.org/wiki/Category:福岡市 "wikilink") [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
 
 1.  「HKT48」正式上採英文發音方式，讀作「H.K.T. Forty-eight」。
 

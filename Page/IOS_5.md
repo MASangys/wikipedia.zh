@@ -109,12 +109,12 @@ iOS 5更新造成部分裝置SIM卡無法使用，還造成部分iPhone 4S通話
 
 ### iPod touch
 
-  - [iPod touch (第三代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第三代\) "wikilink")
+  - [iPod touch (第三代)](https://zh.wikipedia.org/wiki/iPod_touch_\(第三代\) "wikilink") （此iOS版本為最後一個支援此裝置的版本）
   - [IPod touch (第四代)](../Page/IPod_touch_\(第四代\).md "wikilink")
 
 ### iPad
 
-  - [iPad (第一代)](https://zh.wikipedia.org/wiki/iPad_\(第一代\) "wikilink")
+  - [iPad (第一代)](https://zh.wikipedia.org/wiki/iPad_\(第一代\) "wikilink") （此iOS版本為最後一個支援此裝置的版本）
   - [iPad 2](https://zh.wikipedia.org/wiki/iPad_2 "wikilink")
   - [iPad (第三代)](https://zh.wikipedia.org/wiki/iPad_\(第三代\) "wikilink")
 

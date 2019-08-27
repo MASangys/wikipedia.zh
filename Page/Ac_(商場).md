@@ -4,7 +4,7 @@
 
 ## 簡介
 
-香港仔中心在未改建時，前身為船塢，期後船塢撤出並於1960年進行填海，重建為現時的香港仔中心，**香港仔中心商場**隨即落成。\[2\]商場分為5期，第1期任於香港仔中心的北面，有百佳等商舖進進駐。第2期位於香港仔中心的西面，擁有[美國冒險樂園](../Page/美國冒險樂園.md "wikilink")、[759阿信屋](../Page/759阿信屋.md "wikilink")等商舖。第3期位於香港仔中心的南面，有兩間酒樓、[元氣壽司](../Page/元氣壽司.md "wikilink")、[大家樂](../Page/大家樂.md "wikilink")、[馬會等商舖](https://zh.wikipedia.org/wiki/馬會 "wikilink")。第4期位於香港仔中心的東面，在2014年，位於一樓的[嘉年華海鮮酒家結業後進行大規模翻新](https://zh.wikipedia.org/wiki/嘉年華海鮮酒家 "wikilink")，重新裝修，加入時尚的室內設計，引入不同類型的食肆及特色零售商戶，當中包括首次進駐港島南區的太興燒味、靠得住粥麵小館、mee lemongrass 馬來喇沙.海南雞飯專門店 、 菜菜鍋 、牛角日本燒肉專門店、Triumph、Wacoal及天仁茗茶等。第5期位於1-4期商場中央，有[恆生銀行](https://zh.wikipedia.org/wiki/恆生銀行 "wikilink")、[百份百.意樂大師即造烘焙餐廳](https://zh.wikipedia.org/wiki/百份百.意樂大師即造烘焙餐廳 "wikilink")、[南小館等商舖進進駐](https://zh.wikipedia.org/wiki/南小館 "wikilink")。商場於2015年3月易名為《ac》\[3\]
+香港仔中心在未改建時，前身為船塢，期後船塢撤出並於1960年進行填海，重建為現時的香港仔中心，**香港仔中心商場**隨即落成。\[2\]商場分為5期，第1期任於香港仔中心的北面，有百佳等商舖進進駐。第2期位於香港仔中心的西面，擁有[美國冒險樂園](../Page/美國冒險樂園.md "wikilink")、[759阿信屋](../Page/759阿信屋.md "wikilink")等商舖。第3期位於香港仔中心的南面，有兩間酒樓、[元氣壽司](../Page/元氣壽司.md "wikilink")、[大家樂](../Page/大家樂.md "wikilink")、[馬會等商舖](https://zh.wikipedia.org/wiki/馬會 "wikilink")。第4期位於香港仔中心的東面，在2014年，位於一樓的[嘉年華海鮮酒家結業後進行大規模翻新](https://zh.wikipedia.org/wiki/嘉年華海鮮酒家 "wikilink")，重新裝修，加入時尚的室內設計，引入不同類型的食肆及特色零售商戶，當中包括首次進駐港島南區的太興燒味、靠得住粥麵小館、mee lemongrass 馬來喇沙.海南雞飯專門店 、 菜菜鍋 、牛角日本燒肉專門店、Triumph、Wacoal及天仁茗茶等。第5期位於1-4期商場中央，有[恆生銀行](https://zh.wikipedia.org/wiki/恆生銀行 "wikilink")、[百份百.意樂大師即造烘焙餐廳](https://zh.wikipedia.org/wiki/百份百.意樂大師即造烘焙餐廳 "wikilink")、[南小館](https://zh.wikipedia.org/wiki/南小館 "wikilink")、[南駅等商舖進進駐](https://zh.wikipedia.org/wiki/南駅 "wikilink")。商場於2015年3月易名為《ac》\[3\]
 
 ## 租戶
 
@@ -19,8 +19,8 @@
       - [百味王火鍋酒家](https://zh.wikipedia.org/wiki/百味王火鍋酒家 "wikilink")
   - 第3期商場 ac3
       - [元氣壽司](../Page/元氣壽司.md "wikilink")
-      - [新光酒樓](https://zh.wikipedia.org/wiki/新光酒樓 "wikilink")
       - [富臨漁港](../Page/富臨集團.md "wikilink")
+      - [新光酒樓](https://zh.wikipedia.org/wiki/新光酒樓 "wikilink")
       - [大家樂](../Page/大家樂.md "wikilink")
 
 <!-- end list -->
@@ -46,7 +46,7 @@
       - [吉野家](../Page/吉野家.md "wikilink")
       - [譚仔三哥](https://zh.wikipedia.org/wiki/譚仔三哥 "wikilink")
       - [八方雲集](../Page/八方雲集.md "wikilink")
-      - [裝修中](https://zh.wikipedia.org/wiki/裝修中 "wikilink")
+      - [南駅](https://zh.wikipedia.org/wiki/南駅 "wikilink")
       - [茶木](https://zh.wikipedia.org/wiki/茶木 "wikilink")
       - [肇順名匯河鮮專門店](https://zh.wikipedia.org/wiki/肇順名匯河鮮專門店 "wikilink")
 

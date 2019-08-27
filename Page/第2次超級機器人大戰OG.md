@@ -16,15 +16,15 @@
 
 ## 封面登場機體
 
-  - [超軍神](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#超能將軍守護神 "wikilink")（第2次超級機械人大戰α/第3次超級機械人大戰α 終焉的銀河）
-  - [奧瑟賽達（Bufelt Mode）](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#超能將軍守護神 "wikilink")（超級機械人大戰ORIGINAL GENERATION2）
-  - [雷鳳](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#超能將軍守護神 "wikilink")（第3次超級機械人大戰α 終焉的銀河）
+  - [超軍神](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#超動力將軍守護神 "wikilink")（第2次超級機械人大戰α）
+  - [奧瑟賽達（駿馬模式）](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#超動力將軍守護神 "wikilink")（超級機械人大戰ORIGINAL GENERATION2）
+  - [雷鳳](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#超動力將軍守護神 "wikilink")（第3次超級機械人大戰α 終焉的銀河）
   - 賽貝拉斯（超級機械人大戰MX）
   - 繼魂者（REAL ROBOT REGIMENT）
   - 空之騎士（超級機械人大戰D）
   - 賽巴斯塔（魔装機神 THE LORD OF ELEMENTAL）
-  - [古鐵巨人](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#ATX計劃 "wikilink")（超級機械人大戰COMPACT2/超級機械人大戰IMPACT）
-  - [純白騎士](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#ATX計劃 "wikilink")（超級機械人大戰COMPACT2/超級機械人大戰IMPACT）
+  - [古鐵巨人](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#ATX計劃 "wikilink")（超級機械人大戰COMPACT2）
+  - [純白騎士](https://zh.wikipedia.org/wiki/超級機械人大戰OG機動兵器列表#ATX計劃 "wikilink")（超級機械人大戰COMPACT2）
 
 ## 註解
 

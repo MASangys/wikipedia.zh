@@ -14,7 +14,7 @@
 
 ### 第二代（1990–2000）
 
-[P4130563.JPG](https://zh.wikipedia.org/wiki/File:P4130563.JPG "fig:P4130563.JPG") 依維柯Daily於1990年轉換第二代。第二代的主要改動，除了車頭燈由圓形改為四方形外，引擎容量也有所加大，為2.8升，103匹馬力。也在這時候開始，車頭廠徽已全數統一「Iveco」，名稱為「Iveco Daliy」。
+[Iveco_Daily_van.jpg](https://zh.wikipedia.org/wiki/File:Iveco_Daily_van.jpg "fig:Iveco_Daily_van.jpg") 依維柯Daily於1990年轉換第二代。第二代的主要改動，除了車頭燈由圓形改為四方形外，引擎容量也有所加大，為2.8升，103匹馬力。也在這時候開始，車頭廠徽已全數統一「Iveco」，名稱為「Iveco Daliy」。
 
 第二代依維柯Daily同時也是依維柯進軍中國時，被率先引進之車型。由1996年成立[南京依維柯起](https://zh.wikipedia.org/wiki/南京依維柯 "wikilink")，即開始推出此版本車型，一直至2004年為止。而這款車型在中國，市場佔有率還與競爭對手[福特全順平起平坐](https://zh.wikipedia.org/wiki/福特全順 "wikilink")。
 

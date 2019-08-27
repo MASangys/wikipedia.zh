@@ -56,7 +56,7 @@
 
 <!-- end list -->
 
-  - 2018年10月25日，與好好文化傳媒有限公司(好好榜樣 Hot Idol)簽約，管理部份歌手的海外活動。
+  - 2018年10月25日，與好好文化(好好榜樣)簽約合作。
 
 <!-- end list -->
 
@@ -160,7 +160,7 @@
 ### 合作作曲家
 
   - 쥰，[徐俊植](https://zh.wikipedia.org/wiki/徐俊植 "wikilink")，Seo Jun Sik，서준식，2018 - ，Cube作曲家。
-  - 후디니，[Houdini](https://zh.wikipedia.org/wiki/Houdini_\(作曲家\) "wikilink")，2018 - ，Cube作曲家。\[85\]\[86\]
+  - 후디니，[FCM Houdini(후디니)](https://zh.wikipedia.org/wiki/FCMHoudini "wikilink")，2018 - ，Cube作曲家。\[85\]\[86\]
   - Shin Jae Bin ，Record and Mix engineer。\[87\]
   - 趙雅英 ，조아영，Compose/Midi Trainer。\[88\]
   - [徐在宇](https://zh.wikipedia.org/wiki/徐在宇 "wikilink")，서재우，Seo Jae Woo，作曲家，2011 - 2018，現為[Tenten Producing Team成員](https://zh.wikipedia.org/wiki/Tenten_Producing_Team "wikilink")。\[89\]
@@ -219,6 +219,7 @@
   - [李宗元](https://zh.wikipedia.org/wiki/李宗元_\(歌手\) "wikilink")（04年，童星，公開練習生，[Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")）\[102\]
   - Oscar，OSC（公開練習生）\[103\]
   - 權山 권산（99年，公開練習生）\[104\]\[105\]\[106\]
+  - Jo Sebin（公開練習生）\[107\]
   - JWC
   - KMS
 
@@ -228,8 +229,8 @@
 
 <!-- end list -->
 
-  - 李珠賢（04年，已簽專屬合約，[The Unit](../Page/The_Unit.md "wikilink")）
-  - 韓初媛（02年，童星，公開練習生\[107\]，[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")）
+  - 李珠賢（04年，已簽專屬合約練習生，[The Unit](../Page/The_Unit.md "wikilink")）
+  - 韓初媛（02年，已簽專屬合約練習生，[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")，童星）
   - 劉佳乙（04年，DEF SCHOOL）\[108\]\[109\]\[110\]
   - 姜娜允
   - 金彩玄
@@ -300,7 +301,7 @@
   - [李昌宣](../Page/THE_LEGEND.md "wikilink")（[THE LEGEND](../Page/THE_LEGEND.md "wikilink")）
   - [金昇勳](../Page/金昇勳.md "wikilink")（《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》、[CIX](../Page/CIX.md "wikilink")）
   - [崔連準](../Page/崔延俊.md "wikilink")（[TXT](../Page/TXT_\(組合\).md "wikilink")）
-  - [李希侃](../Page/李希侃.md "wikilink")（公開練習生、《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）\[125\]
+  - [李希侃](../Page/李希侃.md "wikilink")（《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）\[125\]
   - \-{余}-明君（《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）\[126\]\[127\]
   - 朴泰正（《[看見你的聲音 第4季](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》）\[128\]
   - 李演成
@@ -575,21 +576,12 @@ CUBE TV，節目有[BTOB](../Page/BTOB.md "wikilink")的《BTOB SHOW》、[CLC](
 
   -
   -
-  - [Cube娛樂](http://tw.weibo.com/cubeent)的新浪微博
-
-  -
   - [Cube娛樂](https://channels.vlive.tv/FD933/home)的VLive頻道
 
   -
-  -
-<!-- end list -->
-
-  - CUBE娛樂 日本
-
-<!-- end list -->
-
   - 的官方網站
 
+  -
   -
 <!-- end list -->
 
@@ -602,9 +594,6 @@ CUBE TV，節目有[BTOB](../Page/BTOB.md "wikilink")的《BTOB SHOW》、[CLC](
   -
   - 的官方網站
 
-  - [Cube Audition](http://tw.weibo.com/cubeaudition)的新浪微博
-
-  -
 <!-- end list -->
 
   - MUSIC CUBE
@@ -749,7 +738,7 @@ CUBE TV，節目有[BTOB](../Page/BTOB.md "wikilink")的《BTOB SHOW》、[CLC](
 104. [Cube Tree 官方練習生IG 연습생갠G](https://www.instagram.com/addxcubetree/p/BvbnGH4B3XP)2019年3月26日
 105. [충원고의 인기스타\! 권산\!](https://m.facebook.com/story.php?story_fbid=539797942810829&id=486569171467040)2017年6月8日
 106. [일소라 일반인 고등학생이 부른 '손끝에 닿을 만큼만' (소울맨) cover](https://www.youtube.com/watch?v=VbTPWBmkpg4)2017年9月15日
-107. [Cube Tree 官方練習生IG HCW](https://www.instagram.com/p/BZGy21QgDbU/)2017年9月16日
+107. [Cube Tree 官方練習生IG 같이,,,, 게임할래,,,?](https://twitter.com/ADDxCUBETREE/status/1160552840181571585)2019年8月11日
 108. [유가을('04) 큐브 엔터테인먼트 오디션 최종 합격\!](http://www.defcompany.com/gnuboard4/bbs/board.php?bo_table=auditionfinal_final&wr_id=641)2018年8月30日
 109. [30초PR 유가을(15, 여, 걸스힙합) - 댄싱하이](https://www.youtube.com/watch?v=koQbLe7XPPo)2018年9月17日
 110. [댄싱하이 무편집 풀영상 유가을(15, 여, 걸시힙합) Dancinghigh @KBS2 Fri 11:10 PM](https://www.youtube.com/watch?v=-HL1NfbRT9M)2018年9月17日

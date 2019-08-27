@@ -65,8 +65,8 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p>|《<a href="https://zh.wikipedia.org/wiki/打CALL天團" title="wikilink">打CALL天團</a>》</p></td>
-<td><p>若曦</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>

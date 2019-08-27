@@ -8,23 +8,27 @@
 
 [Cydia_on_ios11.png](https://zh.wikipedia.org/wiki/File:Cydia_on_ios11.png "fig:Cydia_on_ios11.png")
 
-目前对越狱的完美程度，业界开发人员给出了三种定义\[3\]：
+目前对越狱的完美程度，业界开发人员给出了四個類別\[3\]\[4\]：
 
-  - **引导式越狱**（Tethered Jailbreak），指的是，当处于此状态的iOS设备开机重启后，之前进行的越狱程序就会失效，用户将失去Root权限，需要將設備连接电脑来使用（如：红雪（redsn0w））等越狱软件进行引导开机以後，才可再次使用越狱程序。否则设备將无法正常開機。
-
-<!-- end list -->
-
-  - **不完美越狱**（Semi-tethered Jailbreak）設備在重啟後，將遺失越獄狀態，並恢復成未越獄狀態。而若想要再获得Root权限，则需再次進行越狱。
+  - **不完美越狱**（Tethered Jailbreak），指的是，当处于此状态的iOS设备开机重启后，之前进行的越狱程序就会失效，用户将失去Root权限，需要將設備连接电脑来使用（如特定版本下的红雪（redsn0w））等越狱软件进行引导开机以後，才可再次使用越狱程序。否则设备將无法正常開機。
 
 <!-- end list -->
 
   - **完美越狱**（Untethered Jailbreak），指设备在進行重啟後，越獄狀態仍被完整保留。
 
+<!-- end list -->
+
+  - **半不完美越狱**（Semi-tethered Jailbreak），指設備在重啟後，將遺失越獄狀態，並恢復成未越獄狀態。如果想要恢復越獄環境，必須連接計算機並在越獄工具的引導下啟動來恢復越獄狀態。
+
+<!-- end list -->
+
+  - **半完美越獄**（Semi-untethered Jailbreak），指設備在重啟後，將遺失越獄狀態；而若想要再恢復越獄環境，只需在設備上進行某些操作即可恢復越狱。
+
 ## 用途
 
-  - **使用第三方软件：**越狱的主要原因之一是可以扩展苹果App Store的有限的应用程序。\[4\]苹果会检查即将发布在App Store中的应用程序是否符合iOS开发者许可协议，然后再将其发布在App Store上。越狱后可以下载并安装苹果不允许出现在App Store上的应用程序\[5\]\[6\]。Cydia上的应用程序并不需要完全按照App Store上的指导方针和要求，其中不少是适用于iOS或其他应用程序的扩展和定制。用户安装这些应用程序,更多被称作“插件”（Tweaks） 。这些插件可以达到个性化的目的，定制用户界面和字体，为iOS设备添加新功能等（苹果公司近几年的iOS系统更新所添加的新功能有很多都是从越狱插件中借鉴的）\[7\] 。并且可以访问文件系统和安装命令行工具，使得在iOS设备上的开发工作更加容易\[8\]\[9\] 。在允许安装第三方输入法的**[iOS 8](https://zh.wikipedia.org/wiki/iOS_8 "wikilink")**发布之前，很多中国的iOS用户也因为安装第三方的中文输入法而越狱iOS设备，因为它们比原生输入法更容易使用\[10\]。在[中国大陆](../Page/中国大陆.md "wikilink")，通过越狱获取的[root权限被某些软件用于安装](https://zh.wikipedia.org/wiki/root "wikilink")[盗版](../Page/盗版.md "wikilink")软件，\[11\]并造成了部分人存在越狱等于盗版的误解。\[12\]\[13\]
-  - **解除限制：**越狱也可以非正式地解开运营商对iPhone的锁定，使得能够使用其它运营商提供的服务\[14\]。基于软件的解锁，每一个不同的基带版本都对应了一个不同的解锁工具\[15\]。
-  - **修复漏洞：**2011年7月15日，越狱工具[JailbreakMe](../Page/JailbreakMe.md "wikilink") 3.0利用了一个[Safari](../Page/Safari.md "wikilink")浏览器在显示PDF文档时达到越狱的目的。这也就意味着iOS用户可能在不知不觉中丢失自己的个人信息或者被安装恶意软件\[16\]。在苹果发布4.3.4更新修补该漏洞之前，越狱开发者comex就已经先行修补了这个漏洞。
+  - **使用第三方软件：**越狱的主要原因之一是可以扩展苹果App Store的有限的应用程序。\[5\]苹果会检查即将发布在App Store中的应用程序是否符合iOS开发者许可协议，然后再将其发布在App Store上。越狱后可以下载并安装苹果不允许出现在App Store上的应用程序\[6\]\[7\]。Cydia上的应用程序并不需要完全按照App Store上的指导方针和要求，其中不少是适用于iOS或其他应用程序的扩展和定制。用户安装这些应用程序,更多被称作“插件”（Tweaks） 。这些插件可以达到个性化的目的，定制用户界面和字体，为iOS设备添加新功能等（苹果公司近几年的iOS系统更新所添加的新功能有很多都是从越狱插件中借鉴的）\[8\] 。并且可以访问文件系统和安装命令行工具，使得在iOS设备上的开发工作更加容易\[9\]\[10\] 。在允许安装第三方输入法的**[iOS 8](https://zh.wikipedia.org/wiki/iOS_8 "wikilink")**发布之前，很多中国的iOS用户也因为安装第三方的中文输入法而越狱iOS设备，因为它们比原生输入法更容易使用\[11\]。在[中国大陆](../Page/中国大陆.md "wikilink")，通过越狱获取的[root权限被某些软件用于安装](https://zh.wikipedia.org/wiki/root "wikilink")[盗版](../Page/盗版.md "wikilink")软件，\[12\]并造成了部分人存在越狱等于盗版的误解。\[13\]\[14\]
+  - **解除限制：**越狱也可以非正式地解开运营商对iPhone的锁定，使得能够使用其它运营商提供的服务\[15\]。基于软件的解锁，每一个不同的基带版本都对应了一个不同的解锁工具\[16\]。
+  - **修复漏洞：**2011年7月15日，越狱工具[JailbreakMe](../Page/JailbreakMe.md "wikilink") 3.0利用了一个[Safari](../Page/Safari.md "wikilink")浏览器在显示PDF文档时达到越狱的目的。这也就意味着iOS用户可能在不知不觉中丢失自己的个人信息或者被安装恶意软件\[17\]。在苹果发布4.3.4更新修补该漏洞之前，越狱开发者comex就已经先行修补了这个漏洞。
 
 ## 动机
 
@@ -34,15 +38,15 @@
 
 ## 历史
 
-仅仅在iPhone上市的几天后的2007年7月，开发人员就发布了第一个越狱工具\[17\]，并且很快，一个仅支持越狱后iPhone的游戏应用就发布了\[18\]。2007年10月，[JailbreakMe](../Page/JailbreakMe.md "wikilink") 1.0（也被称为AppSnapp）就正式开始提供iPhone OS 1.1.1的iPhone和iPod touch越狱了\[19\]\[20\] 。2008年2月，Zibri发布了ZiPhone，可以越狱iPhone OS 1.1.3和1.1.4的工具\[21\]。
+仅仅在iPhone上市的几天后的2007年7月，开发人员就发布了第一个越狱工具\[18\]，并且很快，一个仅支持越狱后iPhone的游戏应用就发布了\[19\]。2007年10月，[JailbreakMe](../Page/JailbreakMe.md "wikilink") 1.0（也被称为AppSnapp）就正式开始提供iPhone OS 1.1.1的iPhone和iPod touch越狱了\[20\]\[21\] 。2008年2月，Zibri发布了ZiPhone，可以越狱iPhone OS 1.1.3和1.1.4的工具\[22\]。
 
-iPhone Dev Team发布了一系列的越狱工具。2008年7月，PwnageTool提供针对iPhone OS 2.0的[iPhone 3G和iPod](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink") touch的越狱\[22\]，更新包括作为越狱软件中主要的第三方安装程序[Cydia](../Page/Cydia.md "wikilink")\[23\]；QuickPwn可以用来越狱iPhone OS 2.2版本的设备\[24\]；在苹果推出iPhone OS 3.0时，Dev Team发布了一个更简单的针对于Windows和Mac的越狱工具[redsn0w](https://zh.wikipedia.org/wiki/redsn0w "wikilink")，并继续更新PwnageTool\[25\]。更新版本的redsn0w也可以越狱iOS 4和iOS 5的版本。
+iPhone Dev Team发布了一系列的越狱工具。2008年7月，PwnageTool提供针对iPhone OS 2.0的[iPhone 3G和iPod](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink") touch的越狱\[23\]，更新包括作为越狱软件中主要的第三方安装程序[Cydia](../Page/Cydia.md "wikilink")\[24\]；QuickPwn可以用来越狱iPhone OS 2.2版本的设备\[25\]；在苹果推出iPhone OS 3.0时，Dev Team发布了一个更简单的针对于Windows和Mac的越狱工具[redsn0w](https://zh.wikipedia.org/wiki/redsn0w "wikilink")，并继续更新PwnageTool\[26\]。更新版本的redsn0w也可以越狱iOS 4和iOS 5的版本。
 
 ## 安全
 
-2009年11月，21岁的澳大利亚学生编寫第一个iPhone蠕虫iKee。在其接受媒体採訪時表示，他之所以编写出iOS蠕虫病毒，是為提升人们对安全问题的重视。同時，也表示越狱后iOS裝置可使用[SSH協議進行通訊](https://zh.wikipedia.org/wiki/SSH "wikilink")\[26\] \[27\]\[28\]。
+2009年11月，21岁的澳大利亚学生编寫第一个iPhone蠕虫iKee。在其接受媒体採訪時表示，他之所以编写出iOS蠕虫病毒，是為提升人们对安全问题的重视。同時，也表示越狱后iOS裝置可使用[SSH協議進行通訊](https://zh.wikipedia.org/wiki/SSH "wikilink")\[27\] \[28\]\[29\]。
 
-2011年7月15日，[苹果公司封锁了一个被](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[JailbreakMe](../Page/JailbreakMe.md "wikilink") 3.0利用的漏洞。德国联邦信息安全办公室称，已发现JailbreakMe 3.0可利用的[PDF显示方面的漏洞](https://zh.wikipedia.org/wiki/PDF "wikilink")，會使iOS用户的個人信息在不知不覺的情況下被盗取或是被控制下载恶意软體\[29\]。
+2011年7月15日，[苹果公司封锁了一个被](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[JailbreakMe](../Page/JailbreakMe.md "wikilink") 3.0利用的漏洞。德国联邦信息安全办公室称，已发现JailbreakMe 3.0可利用的[PDF显示方面的漏洞](https://zh.wikipedia.org/wiki/PDF "wikilink")，會使iOS用户的個人信息在不知不覺的情況下被盗取或是被控制下载恶意软體\[30\]。
 
 部分[黑客](../Page/黑客.md "wikilink")可远程控制已越狱iOS裝置，以便其安装恶意软件或竊取用戶資料。
 
@@ -50,7 +54,7 @@ iPhone Dev Team发布了一系列的越狱工具。2008年7月，PwnageTool提�
 
 ## 法律地位
 
-越狱iOS系统的法律地位受到不同国家的法律的影响，例如：保护数字版权管理（DRM）机制的法律。但许多国家并没有这样的法律。除此之外国际性的条约影响到越狱法律的发展，例如：1996 年世界知识产权组织（知识产权组织）版权条约要求条约的国家缔约国颁布有关规避DRM规则的法律。美国的实施是“ 数字千年版权法案”（DMCA），其中包括为违法侵权目的豁免程序，包括越狱。 虽然[苹果公司不赞同用户自行越狱](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，但越狱社区一般也没有受到苹果公司的法律威胁。目前至少有两名杰出的越狱者在苹果公司获得职位。有时候苹果公司也经常（半开玩笑的）感谢越狱社区帮助iOS系统检测安全[漏洞](https://zh.wikipedia.org/wiki/漏洞 "wikilink")。 苹果公司发布对于越狱iOS系统的的支持文章中声称：“拒绝为已经越狱的iPhone、iPad或iPod touch提供保修服务”，不過實際越獄並不會導致失去保固，可藉由重刷 iOS 設備即可獲得保固\[30\]。
+越狱iOS系统的法律地位受到不同国家的法律的影响，例如：保护数字版权管理（DRM）机制的法律。但许多国家并没有这样的法律。除此之外国际性的条约影响到越狱法律的发展，例如：1996 年世界知识产权组织（知识产权组织）版权条约要求条约的国家缔约国颁布有关规避DRM规则的法律。美国的实施是“ 数字千年版权法案”（DMCA），其中包括为违法侵权目的豁免程序，包括越狱。 虽然[苹果公司不赞同用户自行越狱](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")，但越狱社区一般也没有受到苹果公司的法律威胁。目前至少有两名杰出的越狱者在苹果公司获得职位。有时候苹果公司也经常（半开玩笑的）感谢越狱社区帮助iOS系统检测安全[漏洞](https://zh.wikipedia.org/wiki/漏洞 "wikilink")。 苹果公司发布对于越狱iOS系统的的支持文章中声称：“拒绝为已经越狱的iPhone、iPad或iPod touch提供保修服务”，不過實際越獄並不會導致失去保固，可藉由重刷 iOS 設備即可獲得保固\[31\]。
 
 ### 澳大利亚
 
@@ -91,7 +95,7 @@ iPhone Dev Team发布了一系列的越狱工具。2008年7月，PwnageTool提�
 <td><p>第一代iPhone/iPhone OS 1.0</p></td>
 <td><p>11</p></td>
 <td><p>无名字</p></td>
-<td><p>iPhone Dev Team[31]</p></td>
+<td><p>iPhone Dev Team[32]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/iPhone_3G" title="wikilink">iPhone 3G</a>/iPhone OS 2.0</p></td>
@@ -434,6 +438,14 @@ Chimera (支援A12機種)</p></td>
 CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas, aesign</p></td>
 </tr>
 <tr class="odd">
+<td><p>iOS 12.4</p></td>
+<td><p>-</p></td>
+<td><p>unc0ver<br />
+Chimera (<strong>不支援</strong>A12機種)</p></td>
+<td><p>pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom<br />
+CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas, aesign</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -460,10 +472,10 @@ CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas,
 <td><p><a href="https://zh.wikipedia.org/wiki/iPhone_(第一代)" title="wikilink">iPhone</a><br />
 </p></td>
 <td><p>2007年6月29日</p></td>
-<td><p>2007年10月10日[32]</p></td>
+<td><p>2007年10月10日[33]</p></td>
 <td><p>3.1.3</p></td>
 <td><ul>
-<li>redsn0w 0.9.4[33]</li>
+<li>redsn0w 0.9.4[34]</li>
 <li>Spirit</li>
 <li>Jailbreakme 2.0</li>
 <li>Sn0wbreeze 2.0.2</li>
@@ -476,7 +488,7 @@ CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas,
 <td><p><a href="https://zh.wikipedia.org/wiki/iPhone_3G" title="wikilink">iPhone 3G</a><br />
 </p></td>
 <td><p>2008年7月11日</p></td>
-<td><p>2008年7月20日[34]</p></td>
+<td><p>2008年7月20日[35]</p></td>
 <td><p>4.2.1</p></td>
 <td><ul>
 <li>redsn0w 0.9.6rc18</li>
@@ -491,10 +503,10 @@ CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas,
 <td><p><a href="https://zh.wikipedia.org/wiki/IPod_touch#%E7%AC%AC%E4%B8%80%E4%BB%A3" title="wikilink">iPod touch</a><br />
 </p></td>
 <td><p>2007年9月5日</p></td>
-<td><p>2007年10月10日[35]</p></td>
+<td><p>2007年10月10日[36]</p></td>
 <td><p>3.1.3</p></td>
 <td><ul>
-<li>redsn0w 0.9.4[36]</li>
+<li>redsn0w 0.9.4[37]</li>
 <li>Spirit</li>
 <li>Jailbreakme 2.0</li>
 <li>Sn0wbreeze 2.0.2</li>
@@ -509,7 +521,7 @@ CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas,
 <small>MB Model</small><br />
 </p></td>
 <td><p>2008年9月9日</p></td>
-<td><p>2009年3月11日[37]</p></td>
+<td><p>2009年3月11日[38]</p></td>
 <td><p>4.2.1</p></td>
 <td><ul>
 <li>redsn0w 0.9.6rc18</li>
@@ -635,7 +647,7 @@ CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas,
 <td><ul>
 <li>Phoenix</li>
 </ul></td>
-<td><p>需要引导启动（不完美越狱）</p></td>
+<td><p>需要引导启动（半完美越狱）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第二代)" title="wikilink">iPad 2</a><br />
@@ -646,7 +658,7 @@ CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas,
 <td><ul>
 <li>Phoenix</li>
 </ul></td>
-<td><p>需要引导启动（不完美越狱）</p></td>
+<td><p>需要引导启动（半完美越狱）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/iPad_(第三代)" title="wikilink">iPad 3</a><br />
@@ -657,7 +669,7 @@ CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas,
 <td><ul>
 <li>Phoenix</li>
 </ul></td>
-<td><p>需要引导启动（不完美越狱）</p></td>
+<td><p>需要引导启动（半完美越狱）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/iPad_4" title="wikilink">iPad 4</a></p></td>
@@ -667,7 +679,7 @@ CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas,
 <td><ul>
 <li>h3lix</li>
 </ul></td>
-<td><p>需要引导启动（不完美越狱）</p></td>
+<td><p>需要引导启动（半完美越狱）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/iPhone_5" title="wikilink">iPhone 5</a></p></td>
@@ -677,7 +689,7 @@ CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas,
 <td><ul>
 <li>h3lix</li>
 </ul></td>
-<td><p>需要引导启动（不完美越狱）</p></td>
+<td><p>需要引导启动（半完美越狱）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/iPad_mini" title="wikilink">iPad mini</a><br />
@@ -688,7 +700,7 @@ CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas,
 <td><ul>
 <li>Phoenix</li>
 </ul></td>
-<td><p>需要引导启动（不完美越狱）</p></td>
+<td><p>需要引导启动（半完美越狱）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/iPod_touch" title="wikilink">iPod touch</a> 5</p></td>
@@ -698,7 +710,7 @@ CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas,
 <td><ul>
 <li>Phoenix</li>
 </ul></td>
-<td><p>需要引导启动（不完美越狱）</p></td>
+<td><p>需要引导启动（半完美越狱）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/iPhone_5C" title="wikilink">iPhone 5C</a></p></td>
@@ -708,7 +720,7 @@ CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas,
 <td><ul>
 <li>h3lix</li>
 </ul></td>
-<td><p>需要引导启动（不完美越狱）</p></td>
+<td><p>需要引导启动（半完美越狱）</p></td>
 </tr>
 </tbody>
 </table>
@@ -727,13 +739,13 @@ CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas,
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>12.2</p></td>
+<td><p>12.4</p></td>
 <td><p>unc0ver<br />
 Chimera</p></td>
-<td><p>IOS 12 - iOS 12.2</p></td>
+<td><p>iOS 12 - iOS 12.2; iOS 12.4</p></td>
 <td><p>unc0ver<br />
 Chimera</p></td>
-<td><p>需要引导启动（不完美越狱）</p></td>
+<td><p>需要引导启动（半完美越狱）</p></td>
 </tr>
 </tbody>
 </table>
@@ -755,8 +767,8 @@ Chimera</p></td>
 3.
 4.
 5.
-6.  [FoxNews](http://www.foxnews.com/tech/2010/07/26/apple-iphone-jailbreak-unapproved-apps/)
-7.
+6.
+7.  [FoxNews](http://www.foxnews.com/tech/2010/07/26/apple-iphone-jailbreak-unapproved-apps/)
 8.
 9.
 10.
@@ -782,8 +794,9 @@ Chimera</p></td>
 30.
 31.
 32.
-33. <http://www.redmondpie.com/jailbreak-iphone-os-3.1.3-firmware-with-redsn0w-0.9.4/>
-34.
+33.
+34. <http://www.redmondpie.com/jailbreak-iphone-os-3.1.3-firmware-with-redsn0w-0.9.4/>
 35.
-36. <http://www.redmondpie.com/jailbreak-iphone-os-3.1.3-firmware-with-redsn0w-0.9.4/>
-37.
+36.
+37. <http://www.redmondpie.com/jailbreak-iphone-os-3.1.3-firmware-with-redsn0w-0.9.4/>
+38.

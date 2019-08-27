@@ -11,11 +11,11 @@
 
   - 支援GSM四頻以及3.5G的收訊系統
 
-  - 採用[高通](../Page/高通.md "wikilink")Qualcomm Snapdragon MSM8260 Dual Core 1.2GHz雙核心處理器
+  - 採用[高通](../Page/高通.md "wikilink")Qualcomm Snapdragon MSM8260 1.2GHz雙核心處理器
 
   - 3.5mm耳機插孔
 
-  - 採用4.3吋[索尼](../Page/索尼.md "wikilink")或[友达生產的Super](https://zh.wikipedia.org/wiki/友达 "wikilink") LCD qHD螢幕，解析度：960\*540
+  - 採用4.3吋[索尼](../Page/索尼.md "wikilink")或[友达生產的Super](https://zh.wikipedia.org/wiki/友达 "wikilink") LCD螢幕，解析度：960\*540
 
   - 支援WI-FI以及藍芽無線通訊技術
 
@@ -29,7 +29,7 @@
 
   - 支援GSM四頻以及3.5G的收訊系統
 
-  - 採用[高通](../Page/高通.md "wikilink")出產的Qualcomm Snapdragon MSM8260 1.5GHz雙核心處理器
+  - 採用[高通](../Page/高通.md "wikilink")Qualcomm Snapdragon MSM8260 1.5GHz雙核心處理器
 
   - 3.5mm耳機插孔，搭配[Beats by Dr. Dre技術](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")
 
@@ -45,7 +45,7 @@
 
   - 支援GSM四頻以及3.5G的收訊系統
 
-  - 採用[高通](../Page/高通.md "wikilink")出產的Qualcomm Snapdragon MSM8255 1.5GHz單核心處理器
+  - 採用[高通](../Page/高通.md "wikilink")Qualcomm Snapdragon MSM8255 1.5GHz單核心處理器
 
   - 3.5mm耳機插孔，搭配[Beats by Dr. Dre技術](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")
 
@@ -63,7 +63,7 @@
 
   - 支援GSM四頻以及4G HSPA+的收訊系統
 
-  - 採用[高通](../Page/高通.md "wikilink")出產的Snapdragon MSM8260 1.5GHz雙核心處理器，內置了Adreno 220 GPU
+  - 採用[高通](../Page/高通.md "wikilink")Qualcomm Snapdragon MSM8260 1.5GHz雙核心處理器
 
   - 3.5mm耳機插孔
 
@@ -83,11 +83,11 @@
 
   - 支援GSM四頻以及HSPA/WCDMA 900/2100 的收訊系統
 
-  - 採用[高通](../Page/高通.md "wikilink")出產的Qualcomm Snapdragon MSM8260 1.5GHz雙核心處理器
+  - 採用[高通](../Page/高通.md "wikilink")Qualcomm Snapdragon MSM8260 1.5GHz雙核心處理器
 
   - 3.5mm耳機插孔，搭配[Beats by Dr. Dre技術](https://zh.wikipedia.org/wiki/Beats_by_Dr._Dre "wikilink")
 
-  - 採用4.3吋[索尼](../Page/索尼.md "wikilink")生產的Super LCD 螢幕，解析度：960\*540
+  - 採用4.3吋[索尼](../Page/索尼.md "wikilink")生產的Super LCD螢幕，解析度：960\*540
 
   - 支援WI-FI以及藍芽無線通訊技術
 

@@ -956,6 +956,14 @@
 <td><p><a href="http://www.thechinfamily.hk/web/tc/"><strong>錢家有道</strong></a>主題曲</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
+<td><p><strong>《<a href="https://www.youtube.com/watch?v=OGjsUNkWuHM">沒有剩你一個</a>》</strong></p></td>
+<td><p><strong><a href="../Page/叱咤903.md" title="wikilink">叱咤903</a></strong><br />
+<strong>「風雨中抱緊你」</strong>活動歌曲<br />
+此為休團後首次以C AllStar 名義推出的新歌<ref><a href="https://www.hk01.com/眾樂迷/348664/">https://www.hk01.com/眾樂迷/348664/</a></p>
+<p><code>C AllStar守時代紀錄者責任]</code></ref></p></td>
+</tr>
 </tbody>
 </table>
 

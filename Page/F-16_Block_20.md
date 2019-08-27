@@ -12,9 +12,9 @@
 
 和平鳳凰計劃雖為中華民國戰機提供即時雨，但當時的中華民國空軍估計需要450架左右規模的先進戰機，先後購入的三款機型總數仍不到這個門檻，因此還有大約一個聯隊左右，在1980年代末期製造的[F-5E/F C構型機仍在服役](../Page/F-5戰鬥機.md "wikilink")；這批戰機服役20年後，約自2005年起[陳水扁政府](../Page/陳水扁政府.md "wikilink")執政時中華民國空軍開始向美國爭取採購至少66架的F-16C/D取代F-5機隊，但美國基於中國大陸抗議又顧及廣大大陸市場的經濟貿易下的美國國家利益及諸多理由加總下F-16增購計畫美方並未允諾。
 
-面對[中國人民解放軍空軍第四代戰機自製成功](https://zh.wikipedia.org/wiki/中國人民解放軍空軍 "wikilink")，海峽雙方空中戰力落差逐漸彌平甚至不利的狀態，2011年9月22日美國政府通知馬英九政府允許一批對臺軍售，當中包括了F-16機隊升級計畫。美國方面釋出的清單包括換裝[主動電子掃描陣列雷達](../Page/電子掃描陣列雷達.md "wikilink")、[聯合頭盔瞄準系統](https://zh.wikipedia.org/wiki/JHMCS "wikilink")、[AIM-9X響尾蛇空對空飛彈](../Page/AIM-9響尾蛇飛彈.md "wikilink")、AN/ALQ-213電子戰管理系統、[聯合直接攻擊彈藥](../Page/聯合直接攻擊彈藥.md "wikilink")、Have Glass II 電磁波吸附塗層，以及計畫研究換裝[F100-PW-229發動機等](https://zh.wikipedia.org/wiki/F100渦輪扇發動機 "wikilink")。而美國部分參議員與眾議員則希望歐巴馬當局批准F-16C/D對台軍售案，一方面可以滿足中華民國的要求，二方面可以讓即將關閉的F-16生產線延長一段時間，解決美國嚴重的失業率；後來就美國官方的說法，美方並未排除日後售台F-16C/D的可能性，此一說法就是先將國軍F-16A/B增強某種程度的戰力，儘量達到平衡解放軍威脅的程度。
+面對[中國人民解放軍空軍第四代戰機自製成功](https://zh.wikipedia.org/wiki/中國人民解放軍空軍 "wikilink")，海峽雙方空中戰力落差逐漸彌平甚至不利的狀態，2011年9月22日美國政府通知馬英九政府允許一批對臺軍售，當中包括了F-16機隊升級計畫。美國方面釋出的清單包括換裝[主動電子掃描陣列雷達](../Page/電子掃描陣列雷達.md "wikilink")、[聯合頭盔瞄準系統](https://zh.wikipedia.org/wiki/JHMCS "wikilink")、[AIM-9X響尾蛇空對空飛彈](../Page/AIM-9響尾蛇飛彈.md "wikilink")、AN/ALQ-213電子戰管理系統、[聯合直接攻擊彈藥](../Page/聯合直接攻擊彈藥.md "wikilink")、Have Glass II 電磁波吸附匿蹤塗層，以及計畫研究換裝[F100-PW-229發動機等](https://zh.wikipedia.org/wiki/F100渦輪扇發動機 "wikilink")。而美國部分參議員與眾議員則希望歐巴馬當局批准F-16C/D對台軍售案，一方面可以滿足中華民國的要求，二方面可以讓即將關閉的F-16生產線延長一段時間，解決美國嚴重的失業率；後來就美國官方的說法，美方並未排除日後售台F-16C/D的可能性，此一說法就是先將國軍F-16A/B增強某種程度的戰力，儘量達到平衡解放軍威脅的程度。
 
-2012年10月洛馬公司贏得美國政府價值18.5億美元的合同，為中華民國145架F-16A/B戰鬥機升級航電系統。洛馬公司稱，升級包括安裝主動電子掃描陣列雷達，嵌入式全球定位系統，升級電子戰和其他航電系統\[2\]。在雷達來源部分，中華民國空軍決定交由洛馬選擇與美軍同樣的雷達款式，2013年8月1日，洛克希德馬丁宣布由諾斯羅普格魯曼的SABR雷達贏得競標\[3\]，升級工程除了前2架在美國實施外，大部分改裝業務由[漢翔工業在台灣進行](https://zh.wikipedia.org/wiki/漢翔工業 "wikilink")，2016年至2021年完成作業\[4\]。
+2012年10月洛馬公司贏得美國政府價值18.5億美元的合約，為中華民國145架F-16A/B戰鬥機升級航電系統。洛馬公司稱，升級包括安裝主動電子掃描陣列雷達，嵌入式全球定位系統，升級電子戰和其他航電系統\[2\]。在雷達來源部分，中華民國空軍決定交由洛馬選擇與美軍同樣的雷達款式，2013年8月1日，洛克希德馬丁宣布由諾斯羅普格魯曼的SABR雷達贏得競標\[3\]，升級工程除了前2架在美國實施外，大部分改裝業務由[漢翔工業在台灣進行](https://zh.wikipedia.org/wiki/漢翔工業 "wikilink")，2016年至2021年完成作業\[4\]。
 
 2015年10月21日，洛克希德馬丁公司在公司官網上宣布，換裝主動電子掃描陣列雷達（AESA）等設備的F-16V，已於16日在德州沃斯堡（Fort Worth）基地完成首度試飛。該架完成性能提升的F-16A戰機隸屬中華民國空軍(美軍序號93-0702，國軍序號6601)，這也是全球首架F-16V型戰機完成試飛，另一架由雙座機改裝（美軍序號93-0822)。在中華民國空軍服役的F-16機隊首批升級在2016年1月16日進廠\[5\]。
 
@@ -87,7 +87,7 @@
       - DRFM電戰莢艙
       - MTC任務訓練中心
       - SNIPER目標標定莢艙
-      - BUR-57複式炸彈架
+      - BRU-57複式炸彈架
       - NVG夜視鏡
       - AN/ARC-210跳頻無線電
       - [AGM-154聯合戰區外武器](https://zh.wikipedia.org/wiki/AGM-154聯合戰區外武器 "wikilink")
@@ -95,7 +95,7 @@
 
 <!-- end list -->
 
-  - 國防部2018年8月15日通過，F-16增加106億元預算，加購精準彈藥與自動防撞地系統(AGCAS)\[6\]。
+  - 國防部在2018年8月15日通過增加106億元預算加購F-16的精準彈藥與自動防撞地系統(AGCAS)\[6\]。
 
 ## 失事紀錄
 
@@ -130,9 +130,9 @@
 
   - [F-16.Net - F-16 Block 20](http://www.f-16.net/f-16_users_article19.html)
 
-[en:General_Dynamics_F-16_Fighting_Falcon_variants\#F-16A.2FB_Block_20](https://zh.wikipedia.org/wiki/en:General_Dynamics_F-16_Fighting_Falcon_variants#F-16A.2FB_Block_20 "wikilink") [分類:美國售台軍事裝備](https://zh.wikipedia.org/wiki/分類:美國售台軍事裝備 "wikilink")
+[en:General_Dynamics_F-16_Fighting_Falcon_variants\#F-16A.2FB_Block_20](https://zh.wikipedia.org/wiki/en:General_Dynamics_F-16_Fighting_Falcon_variants#F-16A.2FB_Block_20 "wikilink")
 
-[Category:中華民國空軍戰鬥機](https://zh.wikipedia.org/wiki/Category:中華民國空軍戰鬥機 "wikilink") [Category:洛克希德飞机](https://zh.wikipedia.org/wiki/Category:洛克希德飞机 "wikilink")
+[Category:中華民國空軍戰鬥機](https://zh.wikipedia.org/wiki/Category:中華民國空軍戰鬥機 "wikilink") [Category:洛克希德飞机](https://zh.wikipedia.org/wiki/Category:洛克希德飞机 "wikilink") [Category:美國售台軍事裝備](https://zh.wikipedia.org/wiki/Category:美國售台軍事裝備 "wikilink")
 
 1.
 2.

@@ -32,7 +32,7 @@
 
 2015年1月8日，朴軫永在推特上表示成立新的子公司Studio J，首位旗下藝人為1月9日出道的[G.Soul](../Page/G.Soul.md "wikilink")，該子公司的音樂類型會更深層且多樣化。1月份和[JOO](../Page/JOO.md "wikilink")的合約結束，其將另尋經紀公司\[30\]。3月26日，[2AM](../Page/2AM.md "wikilink")三位成員選擇離開公司，僅[趙權](../Page/趙權.md "wikilink")續約，JYP娛樂表示尊重他們的選擇，但2AM並不會解散\[31\]。
 
-4月10日，JYP娛樂表示將和[Mnet推出新女團選秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》，節目於5月5日開始播出\[32\]；7月7日最終先選拔出7位成員，而朴軫永表示為了使TWICE成為更加完美的團體，決定追加兩名成員，組成新女團「[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")」，預計2015年下半年出道。\[33\]7月20日JYP娛樂發表官方聲明，確認[昭熙與](../Page/安昭熙.md "wikilink")[先藝退出](https://zh.wikipedia.org/wiki/閔先藝 "wikilink")[Wonder Girls](../Page/Wonder_Girls.md "wikilink")\[34\]。9月7日推出首支6人男子樂團[DAY6](../Page/DAY6.md "wikilink")，以首張迷你專輯《[The Day](../Page/The_Day_\(DAY6迷你專輯\).md "wikilink")》正式出道\[35\]。10月20日，[TWICE發行首張迷你專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")《[THE STORY BEGINS](https://zh.wikipedia.org/wiki/THE_STORY_BEGINS_\(TWICE迷你專輯\) "wikilink")》，出道主打歌曲為〈Like OOH-AHH〉。
+4月10日，JYP娛樂表示將和[Mnet](../Page/Mnet.md "wikilink")推出新女團選秀節目《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》，節目於5月5日開始播出\[32\]；7月7日最終先選拔出7位成員，而朴軫永表示為了使TWICE成為更加完美的團體，決定追加兩名成員，組成新女團「[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")」，預計2015年下半年出道。\[33\]7月20日JYP娛樂發表官方聲明，確認[昭熙與](../Page/安昭熙.md "wikilink")[先藝退出](https://zh.wikipedia.org/wiki/閔先藝 "wikilink")[Wonder Girls](../Page/Wonder_Girls.md "wikilink")\[34\]。9月7日推出首支6人男子樂團[DAY6](../Page/DAY6.md "wikilink")，以首張迷你專輯《[The Day](../Page/The_Day_\(DAY6迷你專輯\).md "wikilink")》正式出道\[35\]。10月20日，[TWICE發行首張迷你專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")《[THE STORY BEGINS](https://zh.wikipedia.org/wiki/THE_STORY_BEGINS_\(TWICE迷你專輯\) "wikilink")》，出道主打歌曲為〈Like OOH-AHH〉。
 
 5月17日與總公司位於香港的椰子製品企業“Jax Coco”攜手進軍韓國市場。JYP和Jax Coco計劃在韓國主要百貨商店和高級超市推出椰子油、椰子片等相關産品。
 
@@ -66,7 +66,7 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 
 3月31日，[秀智](../Page/秀智.md "wikilink")9年合约期满未续约。4月，女演員[宋昰昀](https://zh.wikipedia.org/wiki/宋昰昀 "wikilink")6年合约期满未续约。
 
-9月1日起，JYP娛樂旗下演員部門的[尹博](../Page/尹博.md "wikilink")、[辛睿恩](../Page/辛睿恩.md "wikilink")、[申银秀](https://zh.wikipedia.org/wiki/申银秀 "wikilink")、[姜勋](https://zh.wikipedia.org/wiki/姜勋 "wikilink")、[金东希和](https://zh.wikipedia.org/wiki/金东希 "wikilink")[李灿善將轉移到副社長表锺禄新成立的演员企划](https://zh.wikipedia.org/wiki/李灿善 "wikilink")、电视剧、电影制作公司，NPIO娛樂，其餘演員可可以自行寻找新经纪公司。
+9月1日起，演員部門的[尹博](../Page/尹博.md "wikilink")、[辛睿恩](../Page/辛睿恩.md "wikilink")、[申银秀](https://zh.wikipedia.org/wiki/申银秀 "wikilink")、[姜勋](https://zh.wikipedia.org/wiki/姜勋 "wikilink")、[金东希和](https://zh.wikipedia.org/wiki/金东希 "wikilink")[李灿善將轉移到副社長表锺禄新成立的演員企劃](https://zh.wikipedia.org/wiki/李灿善 "wikilink")、電視劇及電影製作公司[NPIO娛樂](https://zh.wikipedia.org/wiki/NPIO娛樂 "wikilink")，其他演員可自行尋覓新公司。
 
 ## 子公司、附屬公司
 
@@ -164,15 +164,6 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td><p>二本部</p></td>
 </tr>
 <tr class="odd">
-<td><p>2012年10月5日</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/15&amp;" title="wikilink">15&amp;</a></p></td>
-<td><p>女</p></td>
-<td><p><strong><a href="../Page/朴智敏.md" title="wikilink">智敏</a></strong>{{•}}<a href="https://zh.wikipedia.org/wiki/白藝潾" title="wikilink">藝潾</a></p></td>
-<td><p>{{N/A|—</p></td>
-<td><p>N/A|—</p></td>
-</tr>
-<tr class="even">
 <td><p>2014年1月16日</p></td>
 <td><p>2014年10月22日</p></td>
 <td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a></p></td>
@@ -182,7 +173,7 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td><p>I GOT7</p></td>
 <td><p>綠色</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年9月7日</p></td>
 <td><p>2018年3月14日</p></td>
 <td><p><a href="../Page/DAY6.md" title="wikilink">DAY6</a></p></td>
@@ -191,7 +182,7 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td><p>MYDAY</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2015年10月20日</p></td>
 <td><p>2017年6月28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
@@ -202,7 +193,7 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td><p>杏桃黃<br />
 霓洋紅</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年3月25日</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Stray_Kids" title="wikilink">Stray Kids</a></p></td>
@@ -212,7 +203,7 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td><p>STAY</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年2月12日</p></td>
 <td></td>
 <td><p><a href="../Page/ITZY.md" title="wikilink">ITZY</a></p></td>
@@ -221,7 +212,7 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td><p>MIDZY</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -335,14 +326,14 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td><p>2018年6月5日</p></td>
 <td><p><a href="../Page/Wonder_Girls.md" title="wikilink">Wonder Girls</a></p></td>
 <td><p>WonderFul</p></td>
-<td><p>二本部</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/惠林.md" title="wikilink">禹惠林</a><br />
 </p></td>
 <td></td>
-<td><p>二本部</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -366,7 +357,7 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 </p></td>
 <td><p>2018年12月19日<br />
  2019年2月18日</p></td>
-<td><p>一本部</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -377,7 +368,7 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td></td>
 <td><p>2012年7月8日<br />
 2015年3月4日</p></td>
-<td><p>一本部</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -387,7 +378,7 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 </p></td>
 <td><p>2013年7月24日<br />
 2015年9月14日</p></td>
-<td><p>一本部</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -397,7 +388,7 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td><p><a href="../Page/黃燦盛.md" title="wikilink">黃燦盛</a><br />
 </p></td>
 <td><p>2018年5月23日</p></td>
-<td><p>一本部</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -415,42 +406,32 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/朴智敏.md" title="wikilink">朴智敏</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/白藝潾" title="wikilink">白藝潾</a><br />
 </p></td>
 <td></td>
 <td><p>女</p></td>
-<td><p>2016年4月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/15&amp;" title="wikilink">15&amp;</a></p></td>
-<td><p>rowspan="4"</p></td>
+<td><p>2015年11月30日</p></td>
+<td></td>
+<td></td>
 <td><p>Studio J</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/白藝潾" title="wikilink">白藝潾</a><br />
+<td><p><a href="../Page/白娥娟.md" title="wikilink">白娥娟</a><br />
 </p></td>
-<td><p>2015年11月30日</p></td>
-<td><p>Studio J</p></td>
+<td><p>2012年9月10日</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/白娥娟.md" title="wikilink">白娥娟</a><br />
-</p></td>
-<td><p>2012年9月10日</p></td>
-<td><p>rowspan="2"</p></td>
-<td><p>Studio J</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/Bernard_Park.md" title="wikilink">NakJoon</a><br />
 </p></td>
 <td></td>
 <td><p>男</p></td>
 <td><p>2014年10月6日</p></td>
-<td><p>Studio J</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -470,7 +451,7 @@ JYP娛樂於2月1日獲第2屆演藝製作人協會大賞獲頒「製作人獎�
 <td><p><a href="../Page/尹博.md" title="wikilink">尹博</a></p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姜勛" title="wikilink">姜勛</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -631,6 +612,10 @@ Han Shin Young</p></td>
 
   - [Rain](../Page/Rain.md "wikilink")（2002 - 2007）
 
+  -   - [宋虎范](https://zh.wikipedia.org/wiki/宋虎范 "wikilink")（2003 - 2008）
+
+      - （2003 - 2008）
+
   - [2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")
 
       - [朴載範](../Page/朴載範.md "wikilink")（2008 - 2010）
@@ -665,7 +650,9 @@ Han Shin Young</p></td>
       - [李昶旻](../Page/李昶旻.md "wikilink")（2008 - 2015）
       - [任瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")（2008 - 2015）
       - [鄭珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")（2008 - 2015）
-      - [趙權](../Page/趙權.md "wikilink")（2008 - 2017）
+      - [趙權](../Page/趙權.md "wikilink")（2008 - 2017)
+  - [15&](https://zh.wikipedia.org/wiki/15& "wikilink")(2012 - 2019，15&解散。)
+      - [朴智敏](../Page/朴智敏.md "wikilink")（2012 - 2019）
   - [全昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")（2017 - 2018）
 
 <!-- end list -->
@@ -684,6 +671,8 @@ Han Shin Young</p></td>
   - [金叡園](../Page/金叡園.md "wikilink")（2015 - 2018）
   - [崔宇植](../Page/崔宇植.md "wikilink")（2012 - 2018）
   - [宋昰昀](https://zh.wikipedia.org/wiki/宋昰昀 "wikilink")（2013 - 2019）
+  - [趙怡賢](../Page/趙怡賢.md "wikilink")（2017 - 2019）
+  - [鄭乾柱](../Page/鄭乾柱.md "wikilink")（2017 - 2019）
 
 <!-- end list -->
 
@@ -738,7 +727,7 @@ Han Shin Young</p></td>
       - 鄭棋釋
       - 文太垠
   - [KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")
-      - 朴栖含
+      - 朴\-{栖}-含
   - [MADTOWN](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")
       - [宋在淏](https://zh.wikipedia.org/wiki/宋在淏 "wikilink")
   - [Monsta X](https://zh.wikipedia.org/wiki/Monsta_X "wikilink")
@@ -858,7 +847,11 @@ Han Shin Young</p></td>
 
       - 鄭知妍
 
-Z-girls Mashiro
+  - [Z-girls](../Page/Z-girls.md "wikilink")
+
+      - [川村真洋](../Page/川村真洋.md "wikilink")
+
+<!-- end list -->
 
   - 未知去向
 
@@ -889,7 +882,7 @@ Z-girls Mashiro
   - [金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")
 
   -
-  - [刘维](../Page/刘维.md "wikilink")
+  - [姚偉濤](https://zh.wikipedia.org/wiki/姚偉濤 "wikilink")
 
 <!-- end list -->
 
@@ -917,8 +910,6 @@ Z-girls Mashiro
   - [宋妍霏](../Page/宋妍霏.md "wikilink")
 
   -
-  - [姚偉濤](https://zh.wikipedia.org/wiki/姚偉濤 "wikilink")
-
 <!-- end list -->
 
   - 節目
@@ -999,15 +990,15 @@ Z-girls Mashiro
   - 2018年：JYP PICTURES官方Youtube頻道《四方旅行：西澳洲篇》（演出：裴智煥(攝影師)、金明勛(歌手Ulala Session)、Kebee(歌手Eluphant)、[朴珪瑛](../Page/朴珪瑛.md "wikilink")(演員)、[鄭乾柱](../Page/鄭乾柱.md "wikilink")(演員)）
   - 2018年：JYP PICTURES官方Youtube頻道《四方旅行夏日休假：智異山篇》（演出：裴智煥(攝影師)、俞彩蓮(模特)、[柳承秀](../Page/柳承秀.md "wikilink")(演員)、[鄭乾柱](../Page/鄭乾柱.md "wikilink")(演員)）
   - 2018年：JYP PICTURES官方Youtube頻道《四方旅行：新加坡篇》（演出：裴智煥(攝影師)、[李廷鎮](../Page/李廷鎮.md "wikilink")(演員)、[柳承秀](../Page/柳承秀.md "wikilink")(演員)、[Eluphant](https://zh.wikipedia.org/wiki/Eluphant "wikilink")、李歐艾琳(李惠敏，[Nine Muses前成員E](https://zh.wikipedia.org/wiki/Nine_Muses "wikilink") U Erine)、[姜勛](https://zh.wikipedia.org/wiki/姜勛 "wikilink")(演員)）
-  - 2019年：[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[超級實習生](../Page/超級實習生.md "wikilink")》
+  - 2019年：[Mnet](../Page/Mnet.md "wikilink")《[超級實習生](../Page/超級實習生.md "wikilink")》
   - 2019年：JYP PICTURES官方Youtube頻道《四方旅行：南法篇》（演出：[朴珪瑛](../Page/朴珪瑛.md "wikilink")(演員)、[金志珉](../Page/金志珉.md "wikilink")(演員)）
   - 2019年：JYP PICTURES官方Youtube頻道《四方旅行：西班牙篇》（演出：[尹博](../Page/尹博.md "wikilink")(演員)、[辛睿恩](../Page/辛睿恩.md "wikilink")(演員)、[姜勛](https://zh.wikipedia.org/wiki/姜勛 "wikilink")(演員)）
 
 ### 出道實境節目
 
-  - 2008年：[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《熱血男兒》（男團[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")、[2AM](../Page/2AM.md "wikilink")）
-  - 2015年：[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》（女團[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）
-  - 2017年：[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》（男團[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")）
+  - 2008年：[Mnet](../Page/Mnet.md "wikilink")《熱血男兒》（男團[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")、[2AM](../Page/2AM.md "wikilink")）
+  - 2015年：[Mnet](../Page/Mnet.md "wikilink")《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》（女團[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）
+  - 2017年：[Mnet](../Page/Mnet.md "wikilink")《[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》（男團[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")）
 
 ### 遊戲
 

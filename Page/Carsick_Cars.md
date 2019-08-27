@@ -2,6 +2,8 @@ Carsick Cars是[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wik
 
 ## 历史
 
+2005年3月，三位来自[北京理工大学](../Page/北京理工大学.md "wikilink")的乐手，吉他手[张守望](https://zh.wikipedia.org/wiki/张守望 "wikilink")、贝斯手[李维思和鼓手](https://zh.wikipedia.org/wiki/李维思 "wikilink")[李青在校园组建了乐队](https://zh.wikipedia.org/wiki/李青 "wikilink")。
+
 2007年8月25日，26日和31日。乐队参加了分别在捷克布拉格 Archa Theatre，奥地利维也纳 Openair at Arena，英国伦敦 Roundhouse举办的"Open for Sonic Youth"演出。
 
 2007年9月，乐队被《That's Beijing》杂志列为中国最优秀的乐队之一。

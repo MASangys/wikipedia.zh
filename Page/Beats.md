@@ -12,7 +12,7 @@ Beats的原有生產線聯同AV設備公司[魔聲](https://zh.wikipedia.org/wik
 
 [Dr._Dre_at_Coachella_2012_cropped.jpg](https://zh.wikipedia.org/wiki/File:Dr._Dre_at_Coachella_2012_cropped.jpg "fig:Dr._Dre_at_Coachella_2012_cropped.jpg")，Beats的創辦人之一。（攝於2012年）\]\]
 
-Beats正式於2006年成立\[5\]，當時艾欧文察覺到音樂行業的兩個關鍵問題：盜版對音樂的銷售的影響，及[蘋果公司的塑膠耳機](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[音質不佳](https://zh.wikipedia.org/wiki/音質 "wikilink")。艾欧文後來回憶德瑞對他說：「伙計，一個問題是人們在偷我的音樂，另一個問題就是它摧毀我工作的感覺。」在早期發展階段，他力求音樂人關於「很有味道」的意見，如[M.I.A.](../Page/M.I.A..md "wikilink")、[菲瑞·威廉斯](https://zh.wikipedia.org/wiki/菲瑞·威廉斯 "wikilink")、[will.i.am及](https://zh.wikipedia.org/wiki/will.i.am "wikilink")[關·史蒂芬妮](../Page/關·史蒂芬妮.md "wikilink")。該公司最初與[魔聲合作](https://zh.wikipedia.org/wiki/魔聲 "wikilink")，那是一個音頻和視頻組件生產商，其總部設於[布里斯班](../Page/布里斯班.md "wikilink")，他們負責製造和開發的第一款Beats自家品牌的產品，名為*Beats by Dr. Dre Studio*耳飾，於2008年下旬推出。
+Beats正式於2006年成立\[5\]，當時艾欧文察覺到音樂行業的兩個關鍵問題：盜版對音樂的銷售的影響，及[蘋果公司的塑膠耳機](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[音質不佳](https://zh.wikipedia.org/wiki/音質 "wikilink")。艾欧文後來回憶德瑞對他說：「伙計，一個問題是人們在偷我的音樂，另一個問題就是它摧毀我工作的感覺。」在早期發展階段，他力求音樂人關於「很有味道」的意見，如[M.I.A.](../Page/M.I.A..md "wikilink")、[菲瑞·威廉斯](https://zh.wikipedia.org/wiki/菲瑞·威廉斯 "wikilink")、[will.i.am及](https://zh.wikipedia.org/wiki/will.i.am "wikilink")[關·史蒂芬妮](../Page/關·史蒂芬妮.md "wikilink")。該公司最初與[魔聲合作](https://zh.wikipedia.org/wiki/魔聲 "wikilink")，那是一個音頻和視頻組件生產商，其總部設於[布里斯班](../Page/布里斯班.md "wikilink")，他們負責製造和開發的第一款Beats自家品牌的產品，名為*Beats by Dr. Dre Studio*耳飾，於2008年下半年推出。
 
 為了推廣其產品，Beats主要倚靠[流行音樂與](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")[嘻哈音樂](../Page/嘻哈音樂.md "wikilink")的歌手，包括[置入性營銷及](https://zh.wikipedia.org/wiki/置入性營銷 "wikilink")[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，以及跟音樂人等名人合作開發聯合品牌的產品\[6\]\[7\]\[8\]\[9\]。
 

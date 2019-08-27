@@ -2,7 +2,7 @@
 
 每集節目皆定有主題，主要以來賓訪談的方式進行，但是有時也穿插特別活動，例如棚外錄影。常見的主題包括有世界各國文化差異、[文化衝擊](https://zh.wikipedia.org/wiki/文化衝擊 "wikilink")、異國風俗、語言學習經驗、婚姻生活等。
 
-八大綜合台在於目前所播出時間為每週一到週四晚間十一點到十二點首播。[TVBS-Asia](../Page/TVBS-Asia.md "wikilink")、[愛爾達綜合台亦有重播較早之前的集數](../Page/愛爾達電視.md "wikilink")。
+八大綜合台在於目前所播出時間為每週一至週四晚間十一點到十二點播出。[TVBS-Asia](../Page/TVBS-Asia.md "wikilink")、[愛爾達綜合台亦有重播較早之前的集數](../Page/愛爾達電視.md "wikilink")。
 
 ## 歷任主持人
 
@@ -529,7 +529,7 @@
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/profile.php?id=100014248602394">Facebook</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安徽" title="wikilink">安徽人</a>，本名︰黃鸝。2016-03-29</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安徽" title="wikilink">安徽人</a>，本名︰黃鸝。2016-03-29、2016-05-02</p></td>
 </tr>
 <tr class="even">
 <td><p>敏敏</p></td>
@@ -846,7 +846,7 @@
 <td><p>女</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馬來西亞華裔" title="wikilink">馬來西亞華裔</a><a href="https://zh.wikipedia.org/wiki/客家人" title="wikilink">客家人</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬來西亞華人" title="wikilink">馬來西亞華人</a><a href="https://zh.wikipedia.org/wiki/客家人" title="wikilink">客家人</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>小潔</p></td>
@@ -1661,7 +1661,7 @@
 <td><p>女</p></td>
 <td></td>
 <td></td>
-<td><p>2019-03-11、2019-04-09</p></td>
+<td><p>2019-03-11、2019-04-09、2019-08-14</p></td>
 </tr>
 <tr class="odd">
 <td><p>林志玲</p></td>
@@ -1711,7 +1711,7 @@
 <td></td>
 <td><p><a href="https://www.facebook.com/guohui.xiong">Facebook</a><br />
 <a href="https://instagram.com/hui242608?utm_source=ig_profile_share&amp;igshid=qnjeut8lvh52">Instagram</a></p></td>
-<td><p>本名熊國惠，泰國<a href="https://zh.wikipedia.org/wiki/華僑" title="wikilink">華僑</a>。</p></td>
+<td><p>本名熊國惠，泰國<a href="https://zh.wikipedia.org/wiki/華人" title="wikilink">華人</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>Kriz</p></td>
@@ -1775,7 +1775,7 @@
 <td></td>
 <td><p><a href="https://instagram.com/aiying.chang.7?utm_source=ig_profile_share&amp;igshid=1c1wbaqy7gev3">Instagram</a><br />
 <a href="https://www.facebook.com/aiying.chang.7">Facebook</a></p></td>
-<td><p>Miko的姐姐，爸爸是緬甸<a href="https://zh.wikipedia.org/wiki/華僑" title="wikilink">華僑</a>、媽媽是泰國<a href="https://zh.wikipedia.org/wiki/華僑" title="wikilink">華僑</a>。因長居<a href="../Page/清邁.md" title="wikilink">清邁</a>，所以多分享泰北的故事，且同時精通中、泰、緬三國的語言。 老公來自<a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國</a><a href="../Page/俄亥俄州.md" title="wikilink">俄亥俄州</a>的巴伯頓，思思的媽媽從小就夢想將來生一個混血兒洋娃娃，而思思已幫媽媽實現。</p></td>
+<td><p>Miko的姐姐，爸爸是緬甸<a href="https://zh.wikipedia.org/wiki/華人" title="wikilink">華人</a>、媽媽是泰國<a href="https://zh.wikipedia.org/wiki/華人" title="wikilink">華人</a>。因長居<a href="../Page/清邁.md" title="wikilink">清邁</a>，所以多分享泰北的故事，且同時精通中、泰、緬三國的語言。 老公來自<a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國</a><a href="../Page/俄亥俄州.md" title="wikilink">俄亥俄州</a>的巴伯頓，思思的媽媽從小就夢想將來生一個混血兒洋娃娃，而思思已幫媽媽實現。</p></td>
 </tr>
 <tr class="odd">
 <td><p>Miko（張愛星）</p></td>
@@ -1812,35 +1812,35 @@
 <td><p>女</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/印尼華人" title="wikilink">印尼華人</a>，本名：李美美，2017-12-05。</p></td>
+<td><p>印尼<a href="https://zh.wikipedia.org/wiki/華人" title="wikilink">華人</a>，本名：李美美，2017-12-05。</p></td>
 </tr>
 <tr class="even">
 <td><p>萍萍</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/印尼華人" title="wikilink">印尼華人</a>。</p></td>
+<td><p>印尼<a href="https://zh.wikipedia.org/wiki/華人" title="wikilink">華人</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>卡蜜兒</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/印尼華人" title="wikilink">印尼華人</a>。</p></td>
+<td><p>印尼<a href="https://zh.wikipedia.org/wiki/華人" title="wikilink">華人</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>Grace</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/印尼華人" title="wikilink">印尼華人</a>。</p></td>
+<td><p>印尼<a href="https://zh.wikipedia.org/wiki/華人" title="wikilink">華人</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>LENA</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/印尼華人" title="wikilink">印尼華人</a>。2017-11-23</p></td>
+<td><p>印尼<a href="https://zh.wikipedia.org/wiki/華人" title="wikilink">華人</a>。2017-11-23</p></td>
 </tr>
 <tr class="even">
 <td><p>史蒂芬妮</p></td>
@@ -1911,7 +1911,7 @@
 <td><p>女</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>2004年11月4日生</p></td>
 </tr>
 <tr class="even">
 <td><p>Helene</p></td>
@@ -2602,7 +2602,7 @@
 <td><p>男</p></td>
 <td></td>
 <td></td>
-<td><p>2019-05-20</p></td>
+<td><p>2019-05-20、2019-08-20</p></td>
 </tr>
 <tr class="even">
 <td><p>Lawrence</p></td>
@@ -2996,7 +2996,7 @@
 <td><p>小林賢伍</p></td>
 <td><p>男</p></td>
 <td></td>
-<td><p><a href="https://www.facebook.com/kkprepare/">Facebook</a><br />
+<td><p><a href="https://www.facebook.com/kengokobayashijp/">Facebook 粉絲專頁</a><br />
 <a href="https://www.instagram.com/iamnotkengo">Instagram</a></p></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a>人，攝影師。2018-05-08</p></td>
 </tr>
@@ -3041,7 +3041,7 @@
 <td></td>
 <td><p><a href="https://www.facebook.com/阿福-1498409153759006">Facebook</a><br />
 <a href="https://www.instagram.com/afu_tv">Instagram</a></p></td>
-<td><p>年輕時曾旅居各國，學識淵博、擅於模仿，為節目固定班底。女兒棠棠亦為八大《同學！搞什麼鬼》的來賓。</p></td>
+<td><p>來自<a href="https://zh.wikipedia.org/wiki/特里爾" title="wikilink">特里爾</a>，年輕時曾旅居各國，學識淵博、擅於模仿，為節目固定班底。 女兒棠棠亦為八大《<a href="../Page/WTO姐妹會.md" title="wikilink">WTO姐妹會</a>》及《同學！搞什麼鬼》的來賓，現已赴<a href="https://zh.wikipedia.org/wiki/荷蘭" title="wikilink">荷蘭就讀大學</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>賀少俠</p></td>
@@ -3724,7 +3724,7 @@
 <td></td>
 <td><p><a href="https://www.facebook.com/martinfermofficial">Facebook</a><br />
 <a href="https://www.instagram.com/martinfermtw">Instagram</a></p></td>
-<td><p>哥特堡人。曾演出八點檔《嫁妝》。現轉投友台節目《<a href="../Page/二分之一強.md" title="wikilink">二分之一強</a>》。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/哥特堡" title="wikilink">哥特堡人</a>。曾演出八點檔《嫁妝》。現轉投友台節目《<a href="../Page/二分之一強.md" title="wikilink">二分之一強</a>》。</p></td>
 </tr>
 <tr class="even">
 <td><p>艾瑞森</p></td>

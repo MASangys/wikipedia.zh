@@ -6,7 +6,7 @@
 
 ### 2004\~2006
 
-2004年下旬開始，[EXILE成員各自實行短期的單飛活動](https://zh.wikipedia.org/wiki/EXILE "wikilink")。主唱[ATSUSHI](../Page/ATSUSHI.md "wikilink")一直都希望組成以黑人音樂為主軸的合唱團體，給歌迷傳達比音樂更高的訊息——於是以[ATSUSHI](../Page/ATSUSHI.md "wikilink")為中心、連同於同一音樂專門學校就讀的KIKURI、YORK、以及TAKA，四人組成了一個歌唱團體。\[5\]
+2004年下半年開始，[EXILE成員各自實行短期的單飛活動](https://zh.wikipedia.org/wiki/EXILE "wikilink")。主唱[ATSUSHI](../Page/ATSUSHI.md "wikilink")一直都希望組成以黑人音樂為主軸的合唱團體，給歌迷傳達比音樂更高的訊息——於是以[ATSUSHI](../Page/ATSUSHI.md "wikilink")為中心、連同於同一音樂專門學校就讀的KIKURI、YORK、以及TAKA，四人組成了一個歌唱團體。\[5\]
 
 2004年2月25日，[久保田利伸](../Page/久保田利伸.md "wikilink")TRIBUTE ALBUM「」發行，並收錄了「Cymbals (ATSUSHI from EXILE)」。這是初代COLOR四位成員同時初次出現於發行音樂裡的歌曲，只是名義上還沒有出現「COLOR」的隊名。
 

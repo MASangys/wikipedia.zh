@@ -487,7 +487,7 @@ PlotData =
 | 2012年5月18日           | 《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》                                                                                                  |      |
 | 2012年7月25日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[偶像運動大會](https://zh.wikipedia.org/wiki/偶像運動大會 "wikilink")》上部                                               |      |
 | 2012年7月26日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[偶像運動大會](https://zh.wikipedia.org/wiki/偶像運動大會 "wikilink")》下部                                               |      |
-| 2012年9月24日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[Batlescode 2](https://zh.wikipedia.org/wiki/Batlescode_2 "wikilink")》                                   |      |
+| 2012年9月24日           | [Mnet](../Page/Mnet.md "wikilink")《[Batlescode 2](https://zh.wikipedia.org/wiki/Batlescode_2 "wikilink")》                                                      |      |
 | 2012年9月26日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Weekly Idol 一周偶像](https://zh.wikipedia.org/wiki/Weekly_Idol_一周偶像 "wikilink")》                             |      |
 | 2012年10月2日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Weekly Idol 一周偶像](https://zh.wikipedia.org/wiki/Weekly_Idol_一周偶像 "wikilink")》                             |      |
 | 2012年11月18日          | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[出发梦之队2](../Page/出发梦之队2.md "wikilink")》                                                                    |      |
@@ -688,17 +688,17 @@ PlotData =
 
 ### 音樂節目獎項
 
-| 年份    | 日期     | 電視台                                                   | 節目名稱                                                                   | 獲獎歌曲    | 排名\[11\]\[12\] |
-| ----- | ------ | ----------------------------------------------------- | ---------------------------------------------------------------------- | ------- | -------------- |
-| 2011年 | 1月13日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Shy Boy | 1位             |
-| 2011年 | 2月4日   | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Shy Boy | 1位             |
-| 2011年 | 2月11日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Shy Boy | 1位             |
-| 2011年 | 2月18日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Shy Boy | 1位             |
-| 2011年 | 2月20日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Shy Boy | 1位             |
-| 2011年 | 6月19日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | 星光月光    | 1位             |
-| 2011年 | 12月23日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | 星光月光    | 全年總結: 第6位      |
-| 2011年 | 12月23日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Shy Boy | 全年總結: 第3位      |
-| 2013年 | 12月20日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | YooHoo  | 全年總結: 第29位     |
+| 年份    | 日期     | 電視台                                                 | 節目名稱                                                                   | 獲獎歌曲    | 排名\[11\]\[12\] |
+| ----- | ------ | --------------------------------------------------- | ---------------------------------------------------------------------- | ------- | -------------- |
+| 2011年 | 1月13日  | [Mnet](../Page/Mnet.md "wikilink")                  | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Shy Boy | 1位             |
+| 2011年 | 2月4日   | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Shy Boy | 1位             |
+| 2011年 | 2月11日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Shy Boy | 1位             |
+| 2011年 | 2月18日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Shy Boy | 1位             |
+| 2011年 | 2月20日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Shy Boy | 1位             |
+| 2011年 | 6月19日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | 星光月光    | 1位             |
+| 2011年 | 12月23日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | 星光月光    | 全年總結: 第6位      |
+| 2011年 | 12月23日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | Shy Boy | 全年總結: 第3位      |
+| 2013年 | 12月20日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | YooHoo  | 全年總結: 第29位     |
 
 ## 參考資料
 

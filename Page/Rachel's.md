@@ -14,7 +14,7 @@
 
 ### 樂團簡史
 
-Jason Noble和Christian Fredericksen在1989年相見，並在1994年正式成立Rachel's。\[2\]Rachel's的名字來自Noble給予他[豐田卡羅拉汽車的暱稱](https://zh.wikipedia.org/wiki/豐田卡羅拉 "wikilink")，與該團隨後加入的Rachel Grimes無關。\[3\]Noble在2012年8月4日因滑液肉瘤在美國[馬里蘭州](https://zh.wikipedia.org/wiki/馬里蘭州 "wikilink")[貝塞斯達](https://zh.wikipedia.org/wiki/貝塞斯達 "wikilink")[國立衛生研究院逝世](../Page/國立衛生研究院_\(美國\).md "wikilink")。\[4\]
+Jason Noble和Christian Fredericksen在1989年相見，並在1994年正式成立Rachel's。\[2\]Rachel's的名字來自Noble給予他[豐田卡羅拉汽車的暱稱](https://zh.wikipedia.org/wiki/豐田卡羅拉 "wikilink")，與該團隨後加入的Rachel Grimes無關。\[3\]Noble在2012年8月4日因滑液肉瘤在美國[馬里蘭州](https://zh.wikipedia.org/wiki/馬里蘭州 "wikilink")[貝塞斯達](https://zh.wikipedia.org/wiki/貝塞斯達_\(馬里蘭州\) "wikilink")[國立衛生研究院逝世](../Page/國立衛生研究院_\(美國\).md "wikilink")。\[4\]
 
 ## 音樂作品
 

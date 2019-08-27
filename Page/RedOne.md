@@ -49,4 +49,4 @@
 
   - [2101 Foundation Official Website](http://www.2101foundation.org/)
 
-[Category:摩洛哥裔瑞典人](https://zh.wikipedia.org/wiki/Category:摩洛哥裔瑞典人 "wikilink") [Category:在美國的瑞典人](https://zh.wikipedia.org/wiki/Category:在美國的瑞典人 "wikilink") [Category:葛莱美奖获得者](https://zh.wikipedia.org/wiki/Category:葛莱美奖获得者 "wikilink") [Category:美國音樂製作人](https://zh.wikipedia.org/wiki/Category:美國音樂製作人 "wikilink")
+[Category:摩洛哥裔瑞典人](https://zh.wikipedia.org/wiki/Category:摩洛哥裔瑞典人 "wikilink") [Category:黎巴嫩裔瑞典人](https://zh.wikipedia.org/wiki/Category:黎巴嫩裔瑞典人 "wikilink") [Category:敘利亞裔瑞典人](https://zh.wikipedia.org/wiki/Category:敘利亞裔瑞典人 "wikilink") [Category:在美國的瑞典人](https://zh.wikipedia.org/wiki/Category:在美國的瑞典人 "wikilink") [Category:葛莱美奖获得者](https://zh.wikipedia.org/wiki/Category:葛莱美奖获得者 "wikilink") [Category:美國音樂製作人](https://zh.wikipedia.org/wiki/Category:美國音樂製作人 "wikilink")

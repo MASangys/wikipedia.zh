@@ -1,4 +1,4 @@
-'''GINO '''（），本名蔡東威（原名蔡尚甫）\[1\]，出生於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[嘉義縣](../Page/嘉義縣.md "wikilink")[布袋鎮](https://zh.wikipedia.org/wiki/布袋鎮 "wikilink")\[2\]，曾是台灣[大國翼星經紀有限公司著名舞蹈團體](https://zh.wikipedia.org/wiki/大國翼星經紀有限公司 "wikilink")[K ONE團長](../Page/K_ONE.md "wikilink")。曾經兩次獲得全國舞蹈大賽冠軍，並兩次受邀到[日本](../Page/日本.md "wikilink")表演。
+'''GINO '''（），本名 '''蔡東威 '''（原名蔡尚甫）\[1\]，台灣男藝人，出生於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[嘉義縣](../Page/嘉義縣.md "wikilink")[布袋鎮](https://zh.wikipedia.org/wiki/布袋鎮 "wikilink")\[2\]，曾是台灣[大國翼星經紀有限公司著名舞蹈團體](https://zh.wikipedia.org/wiki/大國翼星經紀有限公司 "wikilink")[K ONE團長](../Page/K_ONE.md "wikilink")。曾經兩次獲得全國舞蹈大賽冠軍，並兩次受邀到[日本](../Page/日本.md "wikilink")表演。
 
 ## 個人經歷
 

@@ -16,7 +16,7 @@
 
 ### 生涯發展
 
-2007年11月5日，蒂芬妮跟[金彗星](../Page/金彗星.md "wikilink")在[Mnet電視台共同主持](https://zh.wikipedia.org/wiki/Mnet "wikilink")《少男少女歌謠百首（소년소녀 가요백서）》節目，一直到2008年6月13日蒂芬妮才正式離開該節目\[4\]。
+2007年11月5日，蒂芬妮跟[金彗星](../Page/金彗星.md "wikilink")在[Mnet](../Page/Mnet.md "wikilink")電視台共同主持《少男少女歌謠百首（소년소녀 가요백서）》節目，一直到2008年6月13日蒂芬妮才正式離開該節目\[4\]。
 
 2008年1月8日，蒂芬妮跟同為[少女時代成員的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[潔西卡](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[徐玄三人一起為](../Page/徐朱玄.md "wikilink")[Nexon](../Page/Nexon.md "wikilink")公司的網路線上遊戲「[瑪奇](https://zh.wikipedia.org/wiki/瑪奇 "wikilink")（Mabinogi）」合唱兩首歌曲。第一首《壞男孩（오빠 나빠 ）》為遊戲的插入曲；另一首《太神奇了（It's Fantastic\!）》則為此遊戲的主題曲\[5\]。
 
@@ -49,6 +49,8 @@
 2018年11月30日，Tiffany推出第三支個人單曲《Peppermint》，並參與作曲和作詞。這是她先前答應送給粉絲們的聖誕禮物。
 
 2019年2月22日，Tiffany在美國推出首張迷你專輯《Lips On Lips》，並參與作曲與作詞，其中更收錄了先前推出的單曲《Born Again》及《Lips On Lips》和三首新曲，該專輯在[iTunes的專輯總榜](https://zh.wikipedia.org/wiki/iTunes "wikilink")、專輯Pop榜和K-Pop榜上皆有優越成績。專輯方面，在告示牌上拿下發燒專輯榜（Heatseekers Albums Chart）第九名的好成績。爾後，「Lips On Lips」一星期之內在韓國獲得了白金唱片的殊榮。
+
+2019年8月2日，Tiffany推出第四支個人單曲《Magnetic Moon》，並參與做詞。而她本人也於8月3日韓國首爾Open Hearts Eve演唱會上首次現場演唱。
 
 ## 爭議事件
 
@@ -165,6 +167,17 @@
 </ul></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><strong>6th</strong></p></td>
+<td><p>第六張英語單曲《<strong>Magnetic Moon</strong>》</p>
+<ul>
+<li>發行日期：2019年8月2日</li>
+<li>唱片公司：Transparent Arts</li>
+<li>發行公司：環球音樂</li>
+<li>語言：英語</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -211,10 +224,10 @@
 <td><p><strong>1st</strong></p></td>
 <td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Lips_On_Lips" title="wikilink">Lips On Lips</a></strong>》</p>
 <ul>
-<li>發行日期：2019年3月15日</li>
+<li>發行日期：2019年2月22日（數位）、3月15日（實體）</li>
 <li>唱片公司：Transparent Arts</li>
 <li>發行公司：環球音樂</li>
-<li>銷量：10,564+</li>
+<li>銷量：10,564+（韓國地區銷量）</li>
 <li>語言：英語</li>
 </ul></td>
 <td></td>
@@ -232,7 +245,7 @@
 <td><p>歌手</p></td>
 <td><p>作曲</p></td>
 <td><p>填詞</p></td>
-<td><p>專輯</p></td>
+<td><p>專輯 / 單曲</p></td>
 <td><p>備註</p></td>
 </tr>
 <tr class="even">
@@ -335,11 +348,11 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2019年2月22日</p></td>
-<td><p>Not Barbie</p></td>
+<td><p>2019年8月2日</p></td>
+<td><p>Magnetic Moon</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>Magnetic Moon</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -619,7 +632,7 @@
 | 日期         | 演唱會站次 | 舉行地點           |
 | 2016年5月10日 | 首爾    | SMTOWN THEATRE |
 
-  - LIPS ON LIPS MINI SHOWCASE TOUR 2019
+  - [LIPS ON LIPS MINI SHOWCASE TOUR 2019](../Page/Lips_On_Lips_North_American_Mini_Showcase_Tour.md "wikilink")
 
 <table>
 <tbody>
@@ -848,7 +861,7 @@
 </tr>
 <tr class="even">
 <td><p>2007年10月22－24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>Bling Bling Pop</p></td>
 <td></td>
 </tr>
@@ -902,7 +915,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015年4月24日－08月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>Heart A Tag</p></td>
 <td><p><a href="../Page/李哲宇.md" title="wikilink">李哲宇</a></p></td>
 </tr>
@@ -921,7 +934,7 @@
 </tr>
 <tr class="even">
 <td><p>2007年11月5日-2008年6月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>少男少女歌謠百首</p></td>
 <td><p><a href="../Page/金彗星.md" title="wikilink">金彗星</a></p></td>
 </tr>
@@ -1011,7 +1024,7 @@
 </tr>
 <tr class="odd">
 <td><p>2014年8月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>KCON 2014 <a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 </tr>
@@ -1035,7 +1048,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016年7月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p>KCON 2016 <a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 </tr>

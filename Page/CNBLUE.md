@@ -2851,7 +2851,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </tr>
 <tr class="odd">
 <td><p>2月18日－8月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>姜敏赫</p></td>
 <td><p>固定ＭＣ(與<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM的</a><a href="../Page/Nichkhun.md" title="wikilink">Nichkhun</a>和<a href="https://zh.wikipedia.org/wiki/李俊昊" title="wikilink">俊昊和</a><a href="../Page/黃燦盛.md" title="wikilink">燦盛</a> 、<a href="https://zh.wikipedia.org/wiki/MBLAQ" title="wikilink">MBLAQ的</a><a href="../Page/G.O.md" title="wikilink">G.O</a>、<a href="../Page/李準_(歌手).md" title="wikilink">李準</a>、<a href="../Page/2AM.md" title="wikilink">2AM</a>的<a href="../Page/趙權.md" title="wikilink">趙權</a>和<a href="https://zh.wikipedia.org/wiki/鄭珍雲" title="wikilink">鄭珍雲</a>)</p></td>
@@ -2914,7 +2914,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </tr>
 <tr class="even">
 <td><p>3月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>李正信</p></td>
 <td><p>Special MC</p></td>
@@ -3072,7 +3072,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 <tr class="even">
 <td><p>3月19日－<br />
 2016年9月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>李正信</p></td>
 <td><p>固定ＭＣ(與<a href="../Page/SHINee.md" title="wikilink">SHINee</a>的<a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a>、<a href="../Page/GOT7.md" title="wikilink">GOT7</a>的<a href="../Page/BamBam.md" title="wikilink">BamBam</a>和<a href="../Page/朴珍榮.md" title="wikilink">Jr.</a>)</p></td>
@@ -3153,19 +3153,19 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 
 ### 特輯節目
 
-|                       |                                                       |                                                       |         |
-| --------------------- | ----------------------------------------------------- | ----------------------------------------------------- | ------- |
-| 日期                    | 電視台/頻道                                                | 節目名稱                                                  | 參與集數/備註 |
-| 2010年1月27日－2010年2月24日 | GOMTV                                                 | Making The Artist                                     | 5       |
-| 2010年2月10日－2010年3月10日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | CNBLUETORY                                            |         |
-| 2012年7月28日            | O'LIVE TV                                             | 《CNBLUE的Love on Party》                                | 1       |
-| 2013年11月21日－2014年1月9日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [清潭洞111](../Page/清潭洞111.md "wikilink")                | 8       |
-| 2014年3月2日             | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | GO\! CNBLUE                                           | 1       |
-| 2014年3月2日             | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | 《CNBLUE回歸 Can't Stop》                                 |         |
-| 2014年3月14日－2014年4月11日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [清潭洞111](../Page/清潭洞111.md "wikilink")-N.Flying邁向明星之路 | 5       |
-| 2015年1月22日－2月12日      | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 鄭容和的Hologram                                          | 4       |
-| 2015年8月11日            | NAVER V app                                           | FNC夜游會                                                | 1       |
-|                       |                                                       |                                                       |         |
+|                       |                                                     |                                                       |         |
+| --------------------- | --------------------------------------------------- | ----------------------------------------------------- | ------- |
+| 日期                    | 電視台/頻道                                              | 節目名稱                                                  | 參與集數/備註 |
+| 2010年1月27日－2010年2月24日 | GOMTV                                               | Making The Artist                                     | 5       |
+| 2010年2月10日－2010年3月10日 | [Mnet](../Page/Mnet.md "wikilink")                  | CNBLUETORY                                            |         |
+| 2012年7月28日            | O'LIVE TV                                           | 《CNBLUE的Love on Party》                                | 1       |
+| 2013年11月21日－2014年1月9日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | [清潭洞111](../Page/清潭洞111.md "wikilink")                | 8       |
+| 2014年3月2日             | [Mnet](../Page/Mnet.md "wikilink")                  | GO\! CNBLUE                                           | 1       |
+| 2014年3月2日             | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | 《CNBLUE回歸 Can't Stop》                                 |         |
+| 2014年3月14日－2014年4月11日 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | [清潭洞111](../Page/清潭洞111.md "wikilink")-N.Flying邁向明星之路 | 5       |
+| 2015年1月22日－2月12日      | [Mnet](../Page/Mnet.md "wikilink")                  | 鄭容和的Hologram                                          | 4       |
+| 2015年8月11日            | NAVER V app                                         | FNC夜游會                                                | 1       |
+|                       |                                                     |                                                       |         |
 
 ### 其他ＭＶ演出
 
@@ -4161,7 +4161,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </tr>
 <tr class="odd">
 <td><p>6月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>LOVE</p></td>
 <td><p>1位</p></td>
@@ -4177,7 +4177,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </tr>
 <tr class="odd">
 <td><p>7月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位</p></td>
 <td></td>
@@ -4210,7 +4210,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 <tr class="odd">
 <td><p>2011年</p></td>
 <td><p>3月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>直感</p></td>
 <td><p>1位</p></td>
@@ -4225,7 +4225,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </tr>
 <tr class="odd">
 <td><p>4月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>
@@ -4249,7 +4249,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </tr>
 <tr class="even">
 <td><p>4月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位</p></td>
 <td></td>
@@ -4274,7 +4274,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 <tr class="odd">
 <td><p>2012年</p></td>
 <td><p>4月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>HEY YOU</p></td>
 <td><p>1位</p></td>
@@ -4425,7 +4425,7 @@ CNBLUE於2009年被[FNC娛樂](../Page/FNC娛樂.md "wikilink")公司派往[日�
 </tr>
 <tr class="even">
 <td><p>4月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位</p></td>
 <td></td>

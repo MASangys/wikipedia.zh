@@ -52,9 +52,9 @@ Poppers的主要成分为亚硝酸酯（[化合物](../Page/化合物.md "wikili
 
 亚硝酸的[有机化合物](../Page/有机化合物.md "wikilink")可通过[醇](../Page/醇.md "wikilink")与[亚硝酸钠](../Page/亚硝酸钠.md "wikilink")在[硫酸](../Page/硫酸.md "wikilink")中反应制备。反应会缓慢生成[氮氧化物](../Page/氮氧化物.md "wikilink")，水，醇类和[醛](../Page/醛.md "wikilink")的[聚合物](https://zh.wikipedia.org/wiki/聚合 "wikilink")。
 
-**物理和化学性质**（Sutton, 1963年：亚硝酸丁酯、异亚硝酸盐和亚硝酸异戊酯）：
+**物理和化学性质**（Sutton, 1963年）：
 
-|                          | 异丙基亚硝酸盐 (2-propyl nitrite)        | 异亚硝酸盐 (2-methylpropyl nitrite)                  | 亚硝酸异戊酯(isoamyl nitrite, isopentyl nitrite)                    | 亚硝酸丁酯                                                       |
+|                          | 亚硝酸异丙基酯                           | 亚硝酸-2-甲基丙酯                                      | 亚硝酸异戊酯                                                        | 亚硝酸丁酯                                                       |
 | ------------------------ | --------------------------------- | ----------------------------------------------- | ------------------------------------------------------------- | ----------------------------------------------------------- |
 | 化学式                      | (CH<sub>3</sub>)<sub>2</sub>CHONO | (CH<sub>3</sub>)<sub>2</sub>CHCH<sub>2</sub>ONO | (CH<sub>3</sub>)<sub>2</sub>CHCH<sub>2</sub>CH<sub>2</sub>ONO | CH<sub>3</sub>(CH<sub>2</sub>)<sub>2</sub>CH<sub>2</sub>ONO |
 | 分子量 (g·mol<sup>−1</sup>) | 89.09                             | 103.12                                          | 117.15                                                        | 103.12                                                      |

@@ -292,7 +292,7 @@
   - [保護知識產權法案](https://zh.wikipedia.org/wiki/保護知識產權法案 "wikilink")，簡稱PIPA法案
   - [美国网络审查](../Page/美国网络审查.md "wikilink")
 
-[Category:美国联邦立法建议](https://zh.wikipedia.org/wiki/Category:美国联邦立法建议 "wikilink") [Category:互聯網訪問](https://zh.wikipedia.org/wiki/Category:互聯網訪問 "wikilink") [Category:域名](https://zh.wikipedia.org/wiki/Category:域名 "wikilink") [Category:动态列表](https://zh.wikipedia.org/wiki/Category:动态列表 "wikilink")
+[Category:美国联邦立法提案](https://zh.wikipedia.org/wiki/Category:美国联邦立法提案 "wikilink") [Category:互聯網訪問](https://zh.wikipedia.org/wiki/Category:互聯網訪問 "wikilink") [Category:域名](https://zh.wikipedia.org/wiki/Category:域名 "wikilink") [Category:动态列表](https://zh.wikipedia.org/wiki/Category:动态列表 "wikilink")
 
 1.
 

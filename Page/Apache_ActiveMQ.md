@@ -6,7 +6,7 @@
   - [Spring Framework](../Page/Spring_Framework.md "wikilink")
   - 集群 (Clustering)
   - 支援的[程式語言包括](https://zh.wikipedia.org/wiki/程式語言 "wikilink")：[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")、[C++](../Page/C++.md "wikilink")、[C\#](https://zh.wikipedia.org/wiki/C_Sharp "wikilink")、[Delphi](../Page/Delphi.md "wikilink")、[Erlang](../Page/Erlang.md "wikilink")、[Adobe Flash](../Page/Adobe_Flash.md "wikilink")、[Haskell](../Page/Haskell.md "wikilink")、[Java](../Page/Java.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[PHP](../Page/PHP.md "wikilink")、[Pike](../Page/Pike.md "wikilink")、[Python](../Page/Python.md "wikilink")和[Ruby](../Page/Ruby.md "wikilink") \[1\]
-  - 協定支援包括：OpenWire、[REST](https://zh.wikipedia.org/wiki/REST "wikilink")、STOMP、WS-Notification、MQTT、[XMPP以及AMQP](https://zh.wikipedia.org/wiki/XMPP "wikilink")
+  - 協定支援包括：OpenWire、[REST](https://zh.wikipedia.org/wiki/REST "wikilink")、STOMP、WS-Notification、[MQTT](../Page/MQTT.md "wikilink")、[XMPP以及AMQP](https://zh.wikipedia.org/wiki/XMPP "wikilink")
 
 ## 參見
 

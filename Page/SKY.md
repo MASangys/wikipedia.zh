@@ -1,4 +1,4 @@
-**SKY** 是韩国[首尔大学](https://zh.wikipedia.org/wiki/首尔大学 "wikilink")（**S**eoul National University）、[高丽大学](https://zh.wikipedia.org/wiki/高丽大学 "wikilink")（**K**orea University）和[延世大学](https://zh.wikipedia.org/wiki/延世大学 "wikilink")（**Y**onsei University）三所著名大學的简称。\[1\] SKY一词在[韩国广泛使用](https://zh.wikipedia.org/wiki/韩国 "wikilink")，SKY在韩国也很有影响，被称为韩国大学一片天。\[2\]\[3\] 许多韩国政要都是SKY大学的校友。其中高麗大學與延世大學固定舉辦「[延高戰](../Page/延高戰.md "wikilink")」的體育賽事。
+**SKY** 是韩国[首尔大学](https://zh.wikipedia.org/wiki/首尔大学 "wikilink")（**S**eoul National University）、[高丽大学](https://zh.wikipedia.org/wiki/高丽大学 "wikilink")（**K**orea University）和[延世大学](https://zh.wikipedia.org/wiki/延世大学 "wikilink")（**Y**onsei University）三所著名大學的简称\[1\]。SKY一词在[韩国广泛使用](https://zh.wikipedia.org/wiki/韩国 "wikilink")，SKY在韩国也很有影响，被称为「韩国大学一片天」\[2\]\[3\]。许多韩国政要都是SKY大学的校友。其中高麗大學與延世大學固定舉辦「[延高戰](../Page/延高戰.md "wikilink")」的體育賽事。
 
 ## 成员
 
@@ -63,7 +63,7 @@ Freedom, Justice, Truth<br />
 
 {{-}}
 
-[Category:韩国大学](https://zh.wikipedia.org/wiki/Category:韩国大学 "wikilink") [Category:韓國社會](https://zh.wikipedia.org/wiki/Category:韓國社會 "wikilink")
+[Category:韩国大学](https://zh.wikipedia.org/wiki/Category:韩国大学 "wikilink") [Category:韓國社會](https://zh.wikipedia.org/wiki/Category:韓國社會 "wikilink") [Category:高等院校合稱](https://zh.wikipedia.org/wiki/Category:高等院校合稱 "wikilink")
 
 1.  [Asia Times Online :: Korea News and Korean Business and Economy, Pyongyang News](http://www.atimes.com/atimes/Korea/GK30Dg01.html)
 

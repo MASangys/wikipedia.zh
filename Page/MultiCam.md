@@ -94,6 +94,8 @@ MultiCam使用七種色調，因應不同環境、季節、海拔和亮度變化
 
   -   - 約丹聯合特種作戰指揮部
 
+  -   - 特種部隊單位
+
   -   - 立陶宛武裝部隊特種部隊單位
 
   -   - 馬爾代夫國防軍特種部隊單位
@@ -122,6 +124,8 @@ MultiCam使用七種色調，因應不同環境、季節、海拔和亮度變化
   -   - 波蘭特種部隊
 
   -   - [葡萄牙武裝部隊特種部隊單位](https://zh.wikipedia.org/wiki/葡萄牙軍事 "wikilink")
+
+  -   - 特別反恐單位
 
   -   - [俄羅斯聯邦安全局](https://zh.wikipedia.org/wiki/俄羅斯聯邦安全局 "wikilink")
 
@@ -166,6 +170,8 @@ MultiCam使用七種色調，因應不同環境、季節、海拔和亮度變化
           - [美國菸酒槍炮及爆裂物管理局](../Page/美國菸酒槍炮及爆裂物管理局.md "wikilink")
           - [美國法警局](https://zh.wikipedia.org/wiki/美國法警局 "wikilink")
       - 部份地方警察局及執法單位
+
+  -   - 特種部隊單位
 
 [File:Multicam标签.JPG|Multicam标签](File:Multicam标签.JPG%7CMulticam标签) [File:MultiCam-trans.jpg|配發駐阿富汗美国陆军的OCP](File:MultiCam-trans.jpg%7C配發駐阿富汗美国陆军的OCP)
 

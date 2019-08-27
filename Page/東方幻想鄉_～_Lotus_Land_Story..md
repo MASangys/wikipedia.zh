@@ -179,7 +179,7 @@
 21. ****（译名：阿爾卡笛亞的夢 ） - 制作人员名单BGM
 22. ****（译名：幻想的住人 ）- 登记玩家名字BGM
 
-收录于音乐专辑**「[幺樂団の歴史1 〜 Akyu's Untouched Score vol.1](https://zh.wikipedia.org/wiki/上海愛莉絲幻樂團#幺乐団の历史_〜_Akyu's_Untouched_Score_系列 "wikilink")」**和以重编的方式收录于[东方怪绮谈　～ Mystic Square.的音乐屋](https://zh.wikipedia.org/wiki/东方怪绮谈_～_Mystic_Square. "wikilink")。
+收录于音乐专辑**「[幺樂団の歴史1 〜 Akyu's Untouched Score vol.1](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團#幺乐団の历史_〜_Akyu's_Untouched_Score_系列 "wikilink")」**和以重编的方式收录于[东方怪绮谈　～ Mystic Square.的音乐屋](https://zh.wikipedia.org/wiki/东方怪绮谈_～_Mystic_Square. "wikilink")。
 
 除外，[东方怪绮谈　～ Mystic Square.还收录了本作没被使用的曲目并说明原来使用的场景](https://zh.wikipedia.org/wiki/东方怪绮谈_～_Mystic_Square. "wikilink")：
 
@@ -190,7 +190,7 @@
 5.  **** - 未使用曲（EXTRA关卡BGM）
 6.  **** - 未使用曲（制作人员BGM）
 
-而**「[幺樂団の歴史1 〜 Akyu's Untouched Score vol.1](https://zh.wikipedia.org/wiki/上海愛莉絲幻樂團#幺乐団の历史_〜_Akyu's_Untouched_Score_系列 "wikilink")」**还收录了以下两首也没被使用的2首曲目：
+而**「[幺樂団の歴史1 〜 Akyu's Untouched Score vol.1](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團#幺乐団の历史_〜_Akyu's_Untouched_Score_系列 "wikilink")」**还收录了以下两首也没被使用的2首曲目：
 
 1.  ****（未使用版本） - 未使用曲
 2.  ****（未使用版本） - 未使用曲

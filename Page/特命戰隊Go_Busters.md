@@ -90,7 +90,7 @@
 <p>在13年前的事件中失去了父母，跟相差七歲的姐姐梨香同居。</p>
 <p>個性是有話就直說，而且說得很明白，一針見血，也因為這樣有時會被尼克責罵，也令陽子不滿（因為對方老是把自己當成小孩子看）。</p>
 <p>意外的，他還有過於自信這個令人討厭的一面存在。</p>
-<p>在<strong>疫苗程式</strong>的影響下獲得了<strong>瞬間加速</strong>能力，但弱點是一看到公雞（不論實物還是相片）就會呈現五分鐘的<strong>「<a href="https://zh.wikipedia.org/wiki/死機" title="wikilink">當機</a>」</strong>狀態，但是視線沒有離開公雞狀況下會一直維持不知何時（當聽到「公雞」兩字和看到卡通圖案時，整個人會行動緩慢起來），但是根據Mission 38內容表示，小時候因為被反鎖在雞舍所造成的後遺症，因此實際引發弱點的關鍵不明；Mission 47內容表示，最後破解的方法就在開始當機時讓他人攻擊自己。</p>
+<p>在<strong>疫苗程式</strong>的影響下獲得了<strong>瞬間加速</strong>能力，但弱點是一看到公雞（不論實物還是相片）就會呈現五分鐘的<strong>「<a href="https://zh.wikipedia.org/wiki/死機" title="wikilink">當機</a>」</strong>狀態，但是視線沒有離開公雞狀況下會一直維持不知何時（當聽到「公雞」兩字和看到卡通圖案時，整個人會行動緩慢起來），但是根據Mission 38內容表示，小時候因為被反鎖在雞舍所造成的後遺症，因此實際引發弱點的關鍵不明；Mission 47內容表示，最後破解的方法就在開始當機時讓他人攻擊自己。跟陽子互有好感。</p>
 <p>於Mission 48揭露其體內被闇特（在Mission 33時）植入了Messiah Card 13，並被闇特當作是備用資料庫，不只是艾斯凱貝跟過去被摧毀的彌賽亞所蒐集的資料，連Go Buster的資料都被儲存在其內部。</p>
 <p>於Final Mission通过数据化将体内卡片转移到陣雅人，但後果令陣雅人的本尊消失。</p>
 <p>鈴木勝大後參演2019年平成假面騎士第20作《<a href="https://zh.wikipedia.org/wiki/假面騎士ZI-O" title="wikilink">假面騎士ZI-O</a>》飾演<strong>假面騎士Quiz/堂安主水</strong>。</p></td>
@@ -139,7 +139,7 @@
 <td><p>第一人稱為「<strong>俺</strong>」。在特命部的ID為<strong>222・458・804</strong>。</p>
 <p>生於新西曆1984年1月15日。O型，28歲→29歲。在成員中為最年長（當陣雅人加入應被其取代，但因其外表年齡27歲關係又推回給自己），具隊長身分。是位坦率兼努力型的戰士。</p>
 <p>因為對比起其他兩人較遲接受訓練，為了彌補這個差距所以每天都在自主訓練。所以肌肉是十分結實的。</p>
-<p>在<strong>疫苗程式</strong>的影響下獲得了<strong>臂力強化</strong>能力，發動時肌肉（胸、腹和手臂）都會馬上變得非常非常的強壯，但弱點是一旦身體過熱或在高溫的地方時間過長就會發生<strong>「<a href="../Page/熱失控.md" title="wikilink">熱失控</a>」</strong>反應（所以在每次戰鬥完後都需要猩崎幫其敷冰袋令自己降溫）。這時侯性格會變得凶暴好戰，戰鬥起來時更敵我不分的攻擊起來，但是有時候龍次會故意引發熱失控以增強自己的戰鬥力，熱失控過後就會微笑地躺在地上。</p>
+<p>在<strong>疫苗程式</strong>的影響下獲得了<strong>臂力強化</strong>能力，發動時肌肉（胸、腹和手臂）都會馬上變得非常非常的強壯，但弱點是一旦身體過熱或在高溫的地方時間過長就會發生<strong>「<a href="../Page/熱失控.md" title="wikilink">熱失控</a>」</strong>反應（所以在每次戰鬥完後都需要猩崎幫其敷冰袋令自己降溫）。這時侯性格會變得凶暴好戰，戰鬥起來時更敵我不分的攻擊起來，但是有時候龍次會故意引發熱失控以增強自己的戰鬥力，熱失控過後就會微笑地躺在地上。因為從小與陽子長大的關係，變成GO Busters之後把陽子當成親生妹妹看待。</p>
 <p>在弘加入後則經常調解弘和陽子之間的爭執。</p>
 <p>其後當陣雅人出現其間不斷給予教導，並推薦技術書（但是要自己付款）。</p>
 <p>於Final Mission於能源管理局擔任的工程師。</p>
@@ -192,7 +192,7 @@
 <p>但偶然她還是有脆弱的一面，當她第一次遇上熱失控的龍司便哭了起來，但是之後令自己更加堅強起來。</p>
 <p>在<strong>疫苗程式</strong>的影響下獲得了<strong>腿力強化</strong>能力，但弱點是要是不吃甜食就會進入<strong>「<a href="https://zh.wikipedia.org/wiki/電荷量" title="wikilink">電量不足</a>」</strong>模式，無氣力正常活動。</p>
 <p>最初從夥伴機器人Usata口中聽到有關弘的事情，而誤會弘的弱點是變成只會跟姐姐撒嬌。</p>
-<p>後來回想起13年前弘對著哭泣的自己許下「<strong>一定會變回原狀</strong>」的約定，並知道他是為了守護這「約定」才加入Go Busters而對他改觀。</p>
+<p>後來回想起13年前弘對著哭泣的自己許下「<strong>一定會變回原狀</strong>」的約定，並知道他是為了守護這「約定」才加入Go Busters而對他改觀。跟弘互有好感。</p>
 <p>但對於弘的一針見血的話還是不滿（儘管自己的確有疏忽）。</p>
 <p>於Final Mission正式回到學校繼續念書。</p>
 <p>小宮有紗後參演「<a href="../Page/假面騎士Ghost.md" title="wikilink">假面騎士Ghost</a>」第29、30、46話飾演<strong>白井有希，哈利・胡迪尼（附身時）</strong>及於2017年第41支<a href="https://zh.wikipedia.org/wiki/宇宙戰隊九連者" title="wikilink">宇宙戰隊九連者中擔任</a><strong>副將軍-Akyanba</strong>的聲優</p></td>
@@ -279,15 +279,15 @@
 <td><p>香港配音員</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/中村悠一.md" title="wikilink"><font color="#082567">中村悠一</font></a></p></td>
+<td><p><a href="../Page/中村悠一.md" title="wikilink"><font color="black">中村悠一</font></a></p></td>
 <td><p>1980/2/20</p></td>
 <td><p>香川縣</p></td>
 <td><p>彼得·J·阿角</p></td>
 <td><p>Stag Buster</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/佐藤太輔" title="wikilink"><font color="#082567">佐藤太輔</font></a></p></td>
-<td><p><a href="../Page/夏治世.md" title="wikilink"><font color="#082567">夏治世</font></a>（本篇）<br />
-<a href="../Page/陳彥鈞.md" title="wikilink"><font color="#082567">陳彥鈞</font></a>（VS豪快者、VS強龍者）</p></td>
-<td><p><a href="../Page/林筠翔.md" title="wikilink"><font color="#082567">林筠翔</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐藤太輔" title="wikilink"><font color="black">佐藤太輔</font></a></p></td>
+<td><p><a href="../Page/夏治世.md" title="wikilink"><font color="Black">夏治世</font></a>（本篇）<br />
+<a href="../Page/陳彥鈞.md" title="wikilink"><font color="Black">陳彥鈞</font></a>（VS豪快者、VS強龍者）</p></td>
+<td><p><a href="../Page/林筠翔.md" title="wikilink"><font color="Black">林筠翔</font></a></p></td>
 </tr>
 <tr class="even">
 <td><p>第一人稱為「<strong>俺</strong>」。</p>
@@ -1329,11 +1329,11 @@
 <tr class="odd">
 <td><p>比特·J·史達克（港譯）／彼得·J·阿角（台譯）／Beet・J・Stag／</p></td>
 <td><p>Stag Buster</p></td>
-<td><p><a href="../Page/中村悠一.md" title="wikilink"><font color="black">中村悠一</font></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/佐藤太輔" title="wikilink"><font color="black">佐藤太輔</font></a></p></td>
-<td><p><a href="../Page/夏治世.md" title="wikilink"><font color="black">夏治世</font></a>(本篇)<br />
-<a href="../Page/陳彥鈞.md" title="wikilink"><font color="black">陳彥鈞</font></a>(VS豪快者、VS強龍者)</p></td>
-<td><p><a href="../Page/林筠翔.md" title="wikilink"><font color="black">林筠翔</font></a></p></td>
+<td><p><a href="../Page/中村悠一.md" title="wikilink"><font color="Gold">中村悠一</font></a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐藤太輔" title="wikilink"><font color="Gold">佐藤太輔</font></a></p></td>
+<td><p><a href="../Page/夏治世.md" title="wikilink"><font color="Gold">夏治世</font></a>(本篇)<br />
+<a href="../Page/陳彥鈞.md" title="wikilink"><font color="Gold">陳彥鈞</font></a>(VS豪快者、VS強龍者)</p></td>
+<td><p><a href="../Page/林筠翔.md" title="wikilink"><font color="Gold">林筠翔</font></a></p></td>
 </tr>
 </tbody>
 </table>

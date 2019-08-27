@@ -2366,6 +2366,24 @@ Team 4选秀研究生 多田京加昇格至所属队伍</p></td>
 <td><p>23<br />
 (5/2/3)</p></td>
 </tr>
+<tr class="odd">
+<td><p>8月12日</p></td>
+<td><p>Team 8 伊藤星彩畢業</p></td>
+<td><p>-1</p></td>
+<td><p>101</p></td>
+<td><p>88</p></td>
+<td><p>23<br />
+(5/2/3)</p></td>
+</tr>
+<tr class="even">
+<td><p>8月13日</p></td>
+<td><p>Team A 後藤萌咲畢業</p></td>
+<td><p>-1</p></td>
+<td><p>100</p></td>
+<td><p>87</p></td>
+<td><p>22<br />
+(5/2/3)</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -3231,19 +3249,12 @@ Team 4选秀研究生 多田京加昇格至所属队伍</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月27日</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>岡田梨奈</p></td>
 <td><p>選秀3期</p></td>
 <td><p>K</p></td>
 <td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>小林蘭</p></td>
 <td><p>選秀3期</p></td>
 <td></td>
@@ -3754,6 +3765,12 @@ PV的center是前田敦子。</p></td>
 <td><p><a href="../Page/指原莉乃.md" title="wikilink">指原莉乃</a></p></td>
 <td><p><a href="../Page/指原莉乃.md" title="wikilink">指原莉乃</a>最後一次擔任Center</p></td>
 </tr>
+<tr class="even">
+<td><p>56</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sustainable" title="wikilink">Sustainable</a></p></td>
+<td><p><a href="../Page/矢作萌夏.md" title="wikilink">矢作萌夏</a></p></td>
+<td><p><a href="../Page/矢作萌夏.md" title="wikilink">矢作萌夏</a>首次擔任Center</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -3916,6 +3933,15 @@ PV的center是前田敦子。</p></td>
 <td><p>16</p></td>
 <td><p><a href="../Page/小栗有以.md" title="wikilink">小栗有以</a></p></td>
 <td><p><a href="../Page/Teacher_Teacher.md" title="wikilink">Teacher Teacher</a></p></td>
+<td></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+<td><p><a href="../Page/矢作萌夏.md" title="wikilink">矢作萌夏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sustainable" title="wikilink">Sustainable</a></p></td>
 <td></td>
 <td><p>1</p></td>
 <td><p>1</p></td>

@@ -9,7 +9,7 @@
 
   - 台灣標題以台灣電視台（簡稱 台視）為主。
 
-## 生存之海 超新星篇〔第一部〕【上】
+## 生存之海 超新星篇 【第一部 上】
 
 ### 1st 東海篇
 
@@ -469,7 +469,7 @@
 </tbody>
 </table>
 
-### 2nd 偉大的航路突入篇
+### 2nd 進入偉大的航路篇
 
 <table>
 <thead>
@@ -623,7 +623,7 @@
 </tbody>
 </table>
 
-### 3rd 喬巴登場·冬島篇
+### 3rd 冬島篇
 
 | 話數 | 中文標題                | 日文標題               | 製作人員  | 日本首播日期 | 對應原作 |
 | -- | ------------------- | ------------------ | ----- | ------ | ---- |
@@ -819,29 +819,6 @@
 <td><p>井上榮作</p></td>
 <td><p>佐南友理</p></td>
 </tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-<tr class="header">
-<th><p>話數</p></th>
-<th><p>中文標題</p></th>
-<th><p>日文標題</p></th>
-<th><p>製作人員</p></th>
-<th><p>日本首播日期</p></th>
-<th><p>對應原作</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>劇本</p></td>
-<td><p>演出</p></td>
-<td><p>作畫監督</p></td>
-<td><p>美術指導</p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
 <td><p>111</p></td>
 <td><p>奔向奇蹟-阿拉巴斯坦動物軍團</p></td>
@@ -1019,7 +996,7 @@
 </tbody>
 </table>
 
-### 5th 電視動畫原創
+### 5th [電視動畫原創篇](../Page/日本電視動畫.md "wikilink")
 
 <table>
 <thead>
@@ -1158,7 +1135,7 @@
 </tbody>
 </table>
 
-## 生存之海 超新星篇〔第一部〕【中】
+## 生存之海 超新星篇 【第一部 中】
 
 ### 6th 空島篇
 
@@ -1439,29 +1416,6 @@
 <td><p>武上純希</p></td>
 <td><p>宇田鋼之介</p></td>
 <td><p>高木雅之</p></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-<tr class="header">
-<th><p>話數</p></th>
-<th><p>中文標題</p></th>
-<th><p>日文標題</p></th>
-<th><p>製作人員</p></th>
-<th><p>日本首播日期</p></th>
-<th><p>對應原作</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>劇本</p></td>
-<td><p>演出</p></td>
-<td><p>作畫監督</p></td>
-<td><p>美術指導</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>174</p></td>
@@ -2173,7 +2127,7 @@
 </tbody>
 </table>
 
-### 9th 司法岛篇
+### 9th 艾尼愛斯大廳篇
 
 <table>
 <thead>
@@ -2729,7 +2683,7 @@
 </tbody>
 </table>
 
-## 生存之海 超新星篇〔第一部〕【下】
+## 生存之海 超新星篇 【第一部 下】
 
 ### 10th 恐怖三桅帆船篇
 
@@ -3402,7 +3356,7 @@
 </tbody>
 </table>
 
-### 13th 海底大監獄篇
+### 13th 推進城篇
 
 <table>
 <thead>
@@ -4143,7 +4097,7 @@
 </tbody>
 </table>
 
-## 最後之海 新世界篇〔第二部〕【上】
+## 最後之海 新世界篇 【第二部 上】
 
 ### 15th 魚人島篇
 
@@ -5959,11 +5913,12 @@
 </tbody>
 </table>
 
-## 最後之海 新世界篇〔第二部〕【中】
+## 最後之海 新世界篇 【第二部 中】
 
 ### 18th 佐烏篇
 
   - 台灣台視為“航海王第22季的中後半部分”
+  - 台灣衛視為“航海王第16季”
 
 <table>
 <thead>
@@ -6192,56 +6147,27 @@
 藤田健太郎</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-<tr class="header">
-<th><p>話數</p></th>
-<th><p>各話標題</p></th>
-<th><p>製作人員</p></th>
-<th><p>首播日期</p></th>
-<th><p>對應原作</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>中文</p></td>
-<td><p>日文</p></td>
-<td><p>劇本</p></td>
-<td><p>(分鏡)<br />
-演出</p></td>
-<td><p>作畫監督</p></td>
-</tr>
-<tr class="even">
 <td><p>780</p></td>
 <td><p><strong>空腹戰線 魯夫與海軍超新星</strong></p></td>
 <td></td>
 <td><p>上坂浩彦</p></td>
 <td><p>伊藤聡伺</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>781</p></td>
 <td><p><strong>執著的三人 草帽小子一行人大追擊戰</strong></p></td>
 <td></td>
 <td><p>中山-{}-智博</p></td>
 <td><p>上田芳裕</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>782</p></td>
 <td><p><strong>惡魔之拳 決戰！魯夫VS格朗特</strong></p></td>
 <td></td>
@@ -6249,13 +6175,6 @@
 <td><p>(伊藤聡伺)<br />
 (遠藤徹哉)<br />
 伊藤聡伺</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -6269,7 +6188,8 @@
 
 ### 19th 圓蛋糕島篇
 
-  - 台灣台視為“航海王第23季\[8\]～第24季前半\[9\]”
+  - 台灣台視為「航海王第23季」\[8\]～「第25季前半」\[9\]
+  - 台灣衛視為「航海王第17季」
 
 <table>
 <thead>
@@ -6982,10 +6902,6 @@
 </tbody>
 </table>
 
-### 20th 世界會議篇
-
-  - 台灣台視為“航海王第24季後半\[10\]～第25季前半\[11\]”
-
 <table>
 <thead>
 <tr class="header">
@@ -7077,7 +6993,7 @@
 </tr>
 <tr class="even">
 <td><p>888</p></td>
-<td><p>薩波激怒 革命軍幹部大熊的悲劇</p></td>
+<td><p>薩波震怒 革命軍幹部大熊的悲劇</p></td>
 <td></td>
 <td><p>中山-{}-智博</p></td>
 <td><p>所勝美</p></td>
@@ -7091,14 +7007,14 @@
 </tr>
 <tr class="even">
 <td><p>890</p></td>
-<td><p>馬可！白鬍子遺留之物的守護者</p></td>
+<td><p>馬可 白鬍子遺物的守護者</p></td>
 <td></td>
 <td><p>冨岡淳広</p></td>
 <td><p>鈴木裕介</p></td>
 </tr>
 <tr class="odd">
 <td><p>891</p></td>
-<td><p>登上瀑布！和之國海域的大航海！</p></td>
+<td><p>登上瀑布 和之國海域大航海</p></td>
 <td></td>
 <td><p>中山-{}-智博</p></td>
 <td><p>深澤敏則</p></td>
@@ -7106,9 +7022,10 @@
 </tbody>
 </table>
 
-## 最後之海 新世界篇〔第二部〕【下】
+### 20th 和之國篇
 
-### 21st 和之國篇
+  - 第895、896話為電影《[STAMPEDE](https://zh.wikipedia.org/wiki/航海王：奪寶爭霸戰 "wikilink")》連動特別篇。
+  - 台灣台視為「航海王第25季後半」\[10\]。
 
 <table>
 <thead>
@@ -7159,7 +7076,7 @@
 </tr>
 <tr class="even">
 <td><p>896</p></td>
-<td><p>特別篇 魯夫VS碳酸王</p></td>
+<td><p>特別篇 決戰 魯夫VS碳酸王</p></td>
 <td></td>
 <td><p>佐藤宏幸</p></td>
 <td><p>新垣重文</p></td>
@@ -7168,13 +7085,48 @@
 <td><p>897</p></td>
 <td><p>拯救玉兒 草帽小子穿越荒野</p></td>
 <td></td>
+<td><p>中山-{}-智博</p></td>
+<td><p>伊藤聡伺</p></td>
+</tr>
+<tr class="even">
+<td><p>898</p></td>
+<td><p>首席戰士 魔術師霍金斯登場</p></td>
+<td></td>
+<td><p>藤田伸三</p></td>
+<td><p>小山保德</p></td>
+</tr>
+<tr class="odd">
+<td><p>899</p></td>
+<td><p>確定敗北 稻草人的猛攻</p></td>
+<td></td>
+<td><p>井上亜樹子</p></td>
+<td><p>鈴木裕介</p></td>
+</tr>
+<tr class="even">
+<td><p>900</p></td>
+<td><p>最棒的一天 玉兒第一次吃甜湯</p></td>
+<td></td>
+<td><p>米村正二</p></td>
+<td><p>小牧文</p></td>
+</tr>
+<tr class="odd">
+<td><p>901</p></td>
+<td><p>潛入敵陣 官員侵擾的博羅鎮</p></td>
+<td></td>
+<td><p>田中仁</p></td>
+<td><p>伊藤聡伺</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-## 特別篇
+## 電視特別篇
 
 <table>
 <thead>
@@ -7195,44 +7147,11 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>TVSP1</p></td>
-<td><p>─</p></td>
-<td><p><br />
-<small>魯夫墜落</p></td>
-<td><p>秘境・海上肚臍大冒險</small></p></td>
-<td><p>橋本裕志</p></td>
-</tr>
-<tr class="odd">
-<td><p>TVSP2</p></td>
-<td><p>─</p></td>
-<td><p><br />
-<small>在遼闊的海洋上馳騁！父親偉大的夢想</small></p></td>
-<td><p>菅良幸</p></td>
-<td><p>境宗久</p></td>
-</tr>
-<tr class="even">
-<td><p>TVSP3</p></td>
-<td><p>─</p></td>
-<td><p><br />
-<small>堅守！最後的大舞台</small></p></td>
-<td><p>島田滿</p></td>
-<td><p>志水淳兒</p></td>
-</tr>
-<tr class="odd">
-<td><p>TVSP4</p></td>
-<td><p>海賊時代劇</p></td>
-<td><p>年底特別企畫！草帽小子魯夫的捕頭傳</p></td>
-<td><p>菅良幸</p></td>
-<td><p>宇田鋼之介<br />
-境宗久</p></td>
-</tr>
-<tr class="even">
 <td><p>291</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_海賊時代劇" title="wikilink">海賊時代劇</a></p></td>
 <td><p>魯夫捕頭再登場！是夢境還是現實！彩票大騷動</p></td>
+<td><p>菅良幸</p></td>
 <td><p>境宗久</p></td>
-<td><p>久田和也</p></td>
-<td><p>白石美穗<br />
-川崎美千代</p></td>
 </tr>
 <tr class="odd">
 <td><p>292</p></td>
@@ -7257,7 +7176,7 @@
 </tr>
 <tr class="even">
 <td><p>406</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_海賊時代劇" title="wikilink">海賊時代劇</a></p></td>
+<td><p>海賊時代劇</p></td>
 <td><p>時代劇特別篇 魯夫捕頭再次登場！</p></td>
 <td><p>田中仁</p></td>
 <td></td>
@@ -7271,8 +7190,8 @@
 </tr>
 <tr class="even">
 <td><p>426</p></td>
-<td><p><a href="../Page/ONE_PIECE_FILM_強者天下.md" title="wikilink">Strong World</a><br />
-電影連動特別篇</p></td>
+<td><p><a href="../Page/ONE_PIECE_FILM_強者天下.md" title="wikilink">強者天下</a><br />
+電影特別篇</p></td>
 <td><p>電影連動特別篇 金獅子蠢蠢欲動的野心！</p></td>
 <td><p>上坂浩彥</p></td>
 <td><p>宮元宏彰</p></td>
@@ -7304,29 +7223,26 @@
 </tr>
 <tr class="even">
 <td><p>492</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_3D_草帽追逐戰" title="wikilink">草帽追逐戰</a><br />
-電影連動<br />
-特別篇</p></td>
-<td><p>前編 登陸美食島！美食獵人特瑞科現身<br />
-後編 最強標記！奮鬥，魯夫＆特瑞科</p></td>
+<td><p>合作特別篇</p></td>
+<td><p>前篇 登陸美食島！美食獵人特瑞科現身<br />
+後篇 最強標記！奮鬥，魯夫＆特瑞科</p></td>
 <td><p>村山功</p></td>
 <td><p>伊藤尚往</p></td>
 </tr>
 <tr class="odd">
 <td><p>542</p></td>
-<td><p>電視連動<br />
-特別篇</p></td>
-<td><p>前編 重逢！特瑞科與魯夫！尋找海鮮之實<br />
-後編 組成團隊！拯救喬巴</p></td>
+<td><p>前篇 重逢！特瑞科與魯夫！尋找海鮮之實<br />
+後篇 組成團隊！拯救喬巴</p></td>
 <td><p><br />
 中島豐</p></td>
 <td><p>館直樹<br />
 横山健次</p></td>
+<td><p>2012-04-08</p></td>
 </tr>
 <tr class="even">
 <td><p>575</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_Z" title="wikilink">FILM Z</a><br />
-電影連動特別篇</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_Z" title="wikilink">Z</a><br />
+電影特別篇</p></td>
 <td><p>Z的野心篇 小小巨人莉莉</p></td>
 <td><p>上坂浩彥</p></td>
 <td><p>小牧文</p></td>
@@ -7370,7 +7286,7 @@
 <tr class="even">
 <td><p>747</p></td>
 <td><p><a href="../Page/ONE_PIECE_FILM_GOLD.md" title="wikilink">GOLD</a><br />
-電影連動特別篇</p></td>
+電影特別篇</p></td>
 <td><p>銀之要塞 魯夫和巴特大冒險</p></td>
 <td><p>田中仁</p></td>
 <td><p>上田芳裕</p></td>
@@ -7398,9 +7314,8 @@
 </tr>
 <tr class="even">
 <td><p>807</p></td>
-<td><p>秋季一小時特別篇</p></td>
-<td><p>悲傷的決鬥 魯夫VS香吉士<br />
-<small></small></p></td>
+<td><p>秋季特別篇</p></td>
+<td><p>悲傷的決鬥 魯夫VS香吉士</p></td>
 <td><p>米村正二</p></td>
 <td><p>(小山保徳)<br />
 大塚隆史</p></td>
@@ -7416,16 +7331,14 @@
 <tr class="even">
 <td><p>895</p></td>
 <td><p><a href="../Page/ONE_PIECE_STAMPEDE.md" title="wikilink">奪寶爭霸戰</a><br />
-電影連動特別篇</p></td>
-<td><p>特別篇 最強的賞金獵人西德爾<br />
-<small></small></p></td>
+電影特別篇</p></td>
+<td><p>特別篇 最強的賞金獵人西德爾</p></td>
 <td><p>冨岡淳広</p></td>
 <td><p>中島豊</p></td>
 </tr>
 <tr class="odd">
 <td><p>896</p></td>
-<td><p>特別篇 魯夫VS碳酸王<br />
-<small></small></p></td>
+<td><p>特別篇 決戰 魯夫VS碳酸王</p></td>
 <td><p>佐藤宏幸</p></td>
 <td><p>新垣重文</p></td>
 <td><p>白石美穂</p></td>
@@ -7459,15 +7372,47 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>SP2012夏</p></td>
-<td><p>週六PREMIUM 特別篇</p></td>
+<td><p>#01</p></td>
+<td><p>─</p></td>
+<td><p><br />
+<small>魯夫墜落</p></td>
+<td><p>秘境・海上肚臍大冒險</small></p></td>
+<td><p>橋本裕志</p></td>
+</tr>
+<tr class="odd">
+<td><p>#02</p></td>
+<td><p>─</p></td>
+<td><p><br />
+<small>在遼闊的海洋上馳騁！父親偉大的夢想</small></p></td>
+<td><p>菅良幸</p></td>
+<td><p>境宗久</p></td>
+</tr>
+<tr class="even">
+<td><p>#03</p></td>
+<td><p>─</p></td>
+<td><p><br />
+<small>堅守！最後的大舞台</small></p></td>
+<td><p>島田滿</p></td>
+<td><p>志水淳兒</p></td>
+</tr>
+<tr class="odd">
+<td><p>#04</p></td>
+<td><p>海賊時代劇</p></td>
+<td><p>年底特別企畫！草帽小子魯夫的捕頭傳</p></td>
+<td><p>菅良幸</p></td>
+<td><p>宇田鋼之介<br />
+境宗久</p></td>
+</tr>
+<tr class="even">
+<td><p>#05</p></td>
+<td><p>週六PREMIUM</p></td>
 <td><p><br />
 <small><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_娜美特別篇〜領航員之淚與夥伴的羈絆〜" title="wikilink">娜美特別篇〜領航員之淚與夥伴的羈絆〜</a></small></p></td>
 <td><p>上坂浩彦</p></td>
 <td><p>上坂浩彦</p></td>
 </tr>
 <tr class="odd">
-<td><p>SP2012冬</p></td>
+<td><p>#06</p></td>
 <td><p><br />
 <small><a href="../Page/ONE_PIECE_魯夫特別篇〜手掌島的冒險〜.md" title="wikilink">魯夫特別篇〜手掌島的冒險〜</a></small></p></td>
 <td><p>堤泰之</p></td>
@@ -7475,7 +7420,7 @@
 <td><p>清水洋</p></td>
 </tr>
 <tr class="even">
-<td><p>SP2013夏</p></td>
+<td><p>#07</p></td>
 <td><p><br />
 <small><a href="../Page/ONE_PIECE_梅利特別篇〜另一位夥伴的故事〜.md" title="wikilink">梅利特別篇〜另一位夥伴的故事〜</a></small></p></td>
 <td><p>上坂浩彦</p></td>
@@ -7483,7 +7428,7 @@
 <td><p>井上榮作</p></td>
 </tr>
 <tr class="odd">
-<td><p>SP2014夏</p></td>
+<td><p>#08</p></td>
 <td><p><br />
 <small><a href="../Page/ONE_PIECE_“3D2Y”_跨越艾斯之死!_魯夫與夥伴的誓言.md" title="wikilink">“3D2Y” 跨越艾斯之死! 魯夫與夥伴的誓言</a></small></p></td>
 <td><p>上坂浩彦<br />
@@ -7494,7 +7439,7 @@
 <td><p>渡辺巧大</p></td>
 </tr>
 <tr class="even">
-<td><p>SP2015夏</p></td>
+<td><p>#09</p></td>
 <td><p><br />
 <small><a href="../Page/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜.md" title="wikilink">薩波特別篇 〜三兄弟的羈絆 奇跡的再會和被繼承的意志〜</a></small></p></td>
 <td><p>上坂浩彦</p></td>
@@ -7504,7 +7449,7 @@
 <td><p>市川慶一</p></td>
 </tr>
 <tr class="odd">
-<td><p>SP2015冬</p></td>
+<td><p>#10</p></td>
 <td><p><br />
 <small><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_特別篇_〜霧之島的冒險〜" title="wikilink">特別篇 〜迷霧島大冒險〜</a></small></p></td>
 <td><p>冨岡淳広</p></td>
@@ -7514,176 +7459,39 @@
 <td><p>高木雅之</p></td>
 </tr>
 <tr class="even">
-<td><p>SP2016夏<br />
-連動電影版</p></td>
+<td><p>#11</p></td>
+<td><p>劇情回顧<br />
+角色解說</p></td>
+<td><p><br />
+<small>ONE PIECE 角色日誌</small></p></td>
+<td><p>2016.06.19</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>#12</p></td>
+<td><p>電影特別篇</p></td>
 <td><p><br />
 <small><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_GOLD#黃金之心" title="wikilink">特別篇 ～黃金之心～</a></small></p></td>
 <td><p>黒岩勉</p></td>
 <td><p>山口暁生<br />
 鈴木裕介<br />
 田中智也</p></td>
-<td><p>市川慶一</p></td>
 </tr>
-<tr class="odd">
-<td><p>SP2017夏</p></td>
+<tr class="even">
+<td><p>#13</p></td>
+<td><p>週六PREMIUM</p></td>
 <td><p>{{lang|ja|エピソードオブ東の海 〜ルフィと4人の仲間の大冒険</p></td>
 <td><p>〜}}<br />
-<small><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_東海特別篇_〜魯夫與4名伙伴的大冒險〜" title="wikilink">東海特別篇 ～魯夫與4名伙伴的大冒險～</a></small></p></td>
+<small><a href="../Page/ONE_PIECE特別篇.md" title="wikilink">東海特別篇 ～魯夫與4名伙伴的大冒險～</a></small></p></td>
 <td><p>中山-{}-智博</p></td>
-<td><p>大塚隆史<br />
-佐藤宏幸</p></td>
 </tr>
-<tr class="even">
-<td><p>SP2018夏</p></td>
+<tr class="odd">
+<td><p>#14</p></td>
 <td><p><br />
-<small><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_空島特別篇" title="wikilink">空島特別篇</a></small></p></td>
+<small><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_特別篇" title="wikilink">空島特別篇</a></small></p></td>
 <td><p>-</p></td>
 <td><p>五十内裕輔</p></td>
-<td><p>2018-08-25</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-## 其他作品
-
-<table>
-<thead>
-<tr class="header">
-<th><p>話數</p></th>
-<th><p>系列</p></th>
-<th><p>標題</p></th>
-<th><p>製作人員</p></th>
-<th><p>日本首播日期</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>劇本</p></td>
-<td><p>演出</p></td>
-<td><p>作畫監督</p></td>
-<td><p>美術指導</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Jump Festa 1998</p></td>
-<td><p>─</p></td>
-<td><p><br />
-<small><a href="../Page/ONE_PIECE_打倒！海賊強薩克！.md" title="wikilink">打倒！海賊強薩克</a><small></p></td>
-<td><p>北嶋博明</p></td>
-<td><p>スドウウラオ</p></td>
-</tr>
-<tr class="odd">
-<td><p>Jump Festa 2008</p></td>
-<td><p>─</p></td>
-<td><p><br />
-<small><a href="../Page/ONE_PIECE_ROMANCE_DAWN_STORY.md" title="wikilink">ROMANCE DAWN STORY</a><small></p></td>
-<td><p>櫻井剛</p></td>
-<td><p>浅間陽介</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-<tr class="header">
-<th><p>話數</p></th>
-<th><p>系列</p></th>
-<th><p>標題</p></th>
-<th><p>製作人員</p></th>
-<th><p>日本出版日期</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>劇本</p></td>
-<td><p>演出</p></td>
-<td><p>作畫監督</p></td>
-<td><p>美術指導</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>OVA</p></td>
-<td><p>─</p></td>
-<td><p>FILM STRONG WORLD EPISODE:0<br />
-<small>強者世界前傳第0話</small></p></td>
-<td><p>田中仁</p></td>
-<td><p>上坂浩彦</p></td>
-</tr>
-<tr class="odd">
-<td><p>OVA</p></td>
-<td><p>─</p></td>
-<td><p>Glorious Island<br />
-<small>Z前傳</small></p></td>
-<td><p>N/A</p></td>
-<td><p>N/A</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<thead>
-<tr class="header">
-<th><p>話數</p></th>
-<th><p>系列</p></th>
-<th><p>標題</p></th>
-<th><p>製作人員</p></th>
-<th><p>日本開放日期</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>劇本</p></td>
-<td><p>演出</p></td>
-<td><p>作畫監督</p></td>
-<td><p>美術指導</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>宇宙劇場</p></td>
-<td><p>天文館<br />
-限定上映</p></td>
-<td><p><br />
-</p></td>
-<td><p>N/A</p></td>
-<td><p>N/A</p></td>
-</tr>
-<tr class="odd">
-<td><p>宇宙劇場</p></td>
-<td><p>天文館<br />
-限定上映</p></td>
-<td><p><br />
-（One Piece the Planetarium）<br />
-<small>航海王 星空下的偉大航道</p></td>
-<td><p>N/A</p></td>
-<td><p>N/A</p></td>
+<td><p>2018.08.25</p></td>
 </tr>
 </tbody>
 </table>
@@ -7702,6 +7510,5 @@
 6.  台灣的台視為“航海王第20季”，衛視中文台為“航海王第14季”與“航海王第15季”
 7.  台灣的台視為“航海王第21季”與“航海王第22季前面一部分”，衛視中文台為“航海王第15季”
 8.  航海王第23季集數為第783～834話。
-9.  航海王第24季前半集數為第835～877話。
-10. 航海王第24季集數為第878～886話。
-11. 航海王第25季前半集數為第887話至今。
+9.  航海王第24季集數為第835～886話；第25季前半集數為第887\~891話。
+10. 航海王第25季後半集數為第892話至今。

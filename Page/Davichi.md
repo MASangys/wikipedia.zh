@@ -942,6 +942,7 @@ That's my fault</p></td>
 <td><ul>
 <li>2019年3月1日 KBS <a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳熙烈的寫生簿</a>（珉炅）</li>
 <li>2019年7月26日 KBS <a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳熙烈的寫生簿</a></li>
+<li>2019年8月9日 KBS <a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳熙烈的寫生簿</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -1293,15 +1294,18 @@ That's my fault</p></td>
 
 ### 廣播電台
 
-| 日期            | 節目                                                                   |           |
-| ------------- | -------------------------------------------------------------------- | --------- |
-| 2014年8月29日    | KBS COOL FM 劉寅娜的提高音量 유인나의 볼륨을 높여요                                    | 特別DJ      |
-| 2014年8月30日    | KBS COOL FM 劉寅娜的提高音量 유인나의 볼륨을 높여요                                    | 特別DJ      |
-| 2014年8月31日    | KBS COOL FM 劉寅娜的提高音量 유인나의 볼륨을 높여요                                    | 特別DJ      |
-| 2018年9月3日     | SBS Power FM Cultwo Show 두시탈출 컬투쇼                                    | 特別DJ（珉炅）  |
-| 2018年10月4日    | SBS Power FM Cultwo Show 두시탈출 컬투쇼                                    | 特別DJ（珉炅）  |
-| 2018年11月13日   | MBC 標準FM [燦多星光燦爛的夜晚](https://zh.wikipedia.org/wiki/燦多 "wikilink")    | 特別DJ（珉炅）  |
-| 2019年3月11－17日 | SBS Power FM [John Park的Music](../Page/John_Park.md "wikilink") High | 特別DJ （珉炅） |
+| 日期            | 節目                                                                       |           |
+| ------------- | ------------------------------------------------------------------------ | --------- |
+| 2014年8月29日    | KBS COOL FM 劉寅娜的提高音量 유인나의 볼륨을 높여요                                        | 特別DJ      |
+| 2014年8月30日    | KBS COOL FM 劉寅娜的提高音量 유인나의 볼륨을 높여요                                        | 特別DJ      |
+| 2014年8月31日    | KBS COOL FM 劉寅娜的提高音量 유인나의 볼륨을 높여요                                        | 特別DJ      |
+| 2018年9月3日     | SBS Power FM Cultwo Show 두시탈출 컬투쇼                                        | 特別DJ（珉炅）  |
+| 2018年10月4日    | SBS Power FM Cultwo Show 두시탈출 컬투쇼                                        | 特別DJ（珉炅）  |
+| 2018年11月13日   | MBC 標準FM [燦多星光燦爛的夜晚](https://zh.wikipedia.org/wiki/燦多 "wikilink")        | 特別DJ（珉炅）  |
+| 2019年3月11－17日 | SBS Power FM [John Park的Music](../Page/John_Park.md "wikilink") High     | 特別DJ （珉炅） |
+| 2019年8月19     | SBS Power FM [金永哲的](../Page/金永哲_\(藝人\).md "wikilink") Power FM 김영철의 파워FM | 特別DJ      |
+| 2019年8月21     | SBS Power FM [金永哲的](../Page/金永哲_\(藝人\).md "wikilink") Power FM 김영철의 파워FM | 特別DJ      |
+| 2019年8月23     | SBS Power FM [金永哲的](../Page/金永哲_\(藝人\).md "wikilink") Power FM 김영철의 파워FM | 特別DJ      |
 
 ### 主持
 
@@ -1552,7 +1556,7 @@ That's my fault</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位</p></td>
 <td></td>
@@ -1568,7 +1572,7 @@ That's my fault</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位</p></td>
 <td></td>
@@ -1649,7 +1653,7 @@ That's my fault</p></td>
 <tr class="odd">
 <td><p>2013年</p></td>
 <td><p>3月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>兩個人喝一杯</p></td>
 <td><p>1位</p></td>
@@ -1696,7 +1700,7 @@ That's my fault</p></td>
 </tr>
 <tr class="odd">
 <td><p>2月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>

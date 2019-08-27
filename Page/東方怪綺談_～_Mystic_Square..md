@@ -68,9 +68,9 @@
       - 霊天 〜 Spiritual Heaven（『怪綺談』）
     第2关卡头目，想去人类世界的恶魔之一，虽然口里说"不是"……
 
-### 爱莉丝
+### 爱丽丝
 
-<span id="爱莉丝"></span>**，Alice**
+<span id="爱丽丝"></span>**，Alice**
 
   -
     **種族**：神\[3\]
@@ -90,7 +90,7 @@
       - プラスチックマインド（『怪綺談』）
       - the Grimoire of Alice（『怪綺談』）
     在魔界的魔法使，玩家在魔界的黑暗城市遇见其并与其战斗起来，擅长使用人偶战斗，第3关卡使用人偶战斗，而Extra关卡就使用手上记述着究极魔法的魔导书《》和玩家战斗。
-    被认为与Windows平台的**爱莉丝·玛嘉特罗伊德**为同一人。神綺的女兒\[5\]。
+    被认为与Windows平台的**爱丽丝·玛格特洛伊德**为同一人。神綺的女兒\[5\]。
 
 ### 雪，舞
 
@@ -198,7 +198,7 @@
 22. ****（译名：Peaceful Romancer ） - Extra结局BGM
 23. ****（译名：魂的休息地 ） - 登记玩家名称BGM
 
-收录于音乐专辑'''「[幺乐团的历史 ～ Akyu's Untouched Score vol.2](https://zh.wikipedia.org/wiki/上海愛莉絲幻樂團#幺乐団の历史_〜_Akyu's_Untouched_Score_系列 "wikilink")」 '''
+收录于音乐专辑'''「[幺乐团的历史 ～ Akyu's Untouched Score vol.2](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團#幺乐団の历史_〜_Akyu's_Untouched_Score_系列 "wikilink")」 '''
 
 ## 附注
 

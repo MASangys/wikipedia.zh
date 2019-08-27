@@ -41,6 +41,8 @@ DXVA定義了運動補償DDI，屬於[iDCT動作介面](https://zh.wikipedia.org
   - [Splash Lite](https://zh.wikipedia.org/wiki/Splash_Lite "wikilink")
   - [Splash PRO](https://zh.wikipedia.org/wiki/Splash_PRO "wikilink")
   - [Splash PRO EX](https://zh.wikipedia.org/wiki/Splash_PRO_EX "wikilink")
+  - [PotPlayer](../Page/PotPlayer.md "wikilink")
+  - [KMPlayer](../Page/KMPlayer.md "wikilink")
 
 ## 注釋
 

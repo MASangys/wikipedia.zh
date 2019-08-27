@@ -1,4 +1,4 @@
-《**天才Bang\!Bang\!Bang\!**》（）是[中國電視公司](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")（中視）星期五[綜藝節目](../Page/綜藝節目.md "wikilink")，製作單位是[全紅傳播](https://zh.wikipedia.org/wiki/全紅傳播 "wikilink")，製作人是[禚宏順](https://zh.wikipedia.org/wiki/禚宏順 "wikilink")，主持人是[胡瓜](../Page/胡瓜.md "wikilink")、[吳宗憲](../Page/吳宗憲.md "wikilink")，首播時間為每星期五21:00～22:30（1998年3月中旬改版後曾數度延長為120分鐘，即21:00-23:00之時段）。整個節目可分為前後兩期，兩期的佈景與單元都不相同。
+《**天才Bang\!Bang\!Bang\!**》（）是[中國電視公司](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")（中視）星期五[綜藝節目](../Page/綜藝節目.md "wikilink")，製作單位是[全紅傳播](https://zh.wikipedia.org/wiki/全紅傳播 "wikilink")，製作人是[禚宏順](https://zh.wikipedia.org/wiki/禚宏順 "wikilink")，主持人是[胡瓜](../Page/胡瓜.md "wikilink")、[吳宗憲](../Page/吳宗憲.md "wikilink")，伴奏樂隊是[頂尖拍檔](https://zh.wikipedia.org/wiki/頂尖拍檔 "wikilink")，首播時間為每星期五21:00～22:30（1998年3月中旬改版後曾數度延長為120分鐘，即21:00-23:00之時段）。整個節目可分為前後兩期，兩期的佈景與單元都不相同。
 
 禚宏順製作的綜藝節目如《[天生贏家](../Page/天生贏家.md "wikilink")》、《[超級星期天](../Page/超級星期天.md "wikilink")》都有[跳槽紀錄](https://zh.wikipedia.org/wiki/跳槽 "wikilink")，故當時禚宏順在台灣電視節目製作業界有「跳槽大王」之稱；但《天才Bang\!Bang\!Bang\!》不曾跳槽。
 
@@ -74,7 +74,7 @@
 
 ## 後期單元
 
-1998年3月13日，該節目大幅度更動布景，並聘請[頂尖拍檔擔任伴奏樂隊](https://zh.wikipedia.org/wiki/頂尖拍檔 "wikilink")，呈現綜藝節目的風格，單元內容則以遊戲為主。
+1998年3月13日，該節目大幅度更動布景，呈現綜藝節目的風格，單元內容則以遊戲為主。
 
   - 〈火車大作戰〉
     舞台中央擺設一組電動火車玩具組，火車持續行駛於軌道上，軌道上有一個障礙物。參賽者一邊完成指定的任務，一邊維持玩具火車正常行駛於軌道上，但不得把障礙物移出軌道。

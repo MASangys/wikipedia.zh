@@ -22,7 +22,7 @@ Nana出道前曾去參加2009年亞洲超級模特兒大賽（參賽編號為26�
 
 2018年8月，Pledis娛樂宣佈已透過合法途徑跟《[四子](../Page/四子.md "wikilink")》的製作公司Victory Contents解除合約，並辭演 。\[19\]
 
-2019年3月，Nana出演OCN動作驚悚劇《[Kill It](../Page/Kill_It.md "wikilink")》的女主角。同年4月，確認出演KBS2的新水木劇《[Justice](https://zh.wikipedia.org/wiki/Justice "wikilink")》，這也是Nana第二部擔任女主角的劇。
+2019年3月，Nana出演OCN動作驚悚劇《[Kill It](../Page/Kill_It.md "wikilink")》的女主角。同年4月，確認出演KBS2的新水木劇《[JUSTICE](../Page/Justice_\(韓國電視劇\).md "wikilink")》，這也是Nana第二部擔任女主角的劇。
 
 ## 影視作品
 

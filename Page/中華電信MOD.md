@@ -1,4 +1,4 @@
-**中華電信多媒體內容傳輸平台**（簡稱**中華電信MOD**；；Multimedia On Demand of Chunghwa Telecom），是[中華電信推出的一種](https://zh.wikipedia.org/wiki/中華電信 "wikilink")[隨選視訊](../Page/隨選視訊.md "wikilink")的[多媒體平台](https://zh.wikipedia.org/wiki/多媒體 "wikilink")（[IPTV](../Page/IPTV.md "wikilink")服務），開台時名稱為**中華電信大電視**。該服務是透過雙向的[寬頻](../Page/寬頻.md "wikilink")網路將各種影音資訊傳至[機上盒](https://zh.wikipedia.org/wiki/機上盒 "wikilink")，再呈現在電視機上。目前提供207個頻道（包含[高畫質電視頻道](https://zh.wikipedia.org/wiki/高畫質電視 "wikilink")180個以上）\[1\]。依據NCC通過的「MOD營運規章修正案」，2019年8月起可自行選擇頻道組合\[2\]。
+**中華電信多媒體內容傳輸平台**（簡稱**中華電信MOD**；；Multimedia On Demand of Chunghwa Telecom），是[中華電信推出的一種](https://zh.wikipedia.org/wiki/中華電信 "wikilink")[隨選視訊](../Page/隨選視訊.md "wikilink")的[多媒體平台](https://zh.wikipedia.org/wiki/多媒體 "wikilink")（[IPTV](../Page/IPTV.md "wikilink")服務），開台時名稱為**中華電信大電視**。該服務是透過雙向的[寬頻](../Page/寬頻.md "wikilink")網路將各種影音資訊傳至[機上盒](https://zh.wikipedia.org/wiki/機上盒 "wikilink")，再呈現在電視機上。目前提供208個頻道（包含[高畫質電視和](https://zh.wikipedia.org/wiki/高畫質電視 "wikilink")[4K解析度](../Page/4K解析度.md "wikilink")頻道190個以上）\[1\]。依據NCC通過的「MOD營運規章修正案」，2019年8月起可自行選擇頻道組合\[2\]。
 
 目前中華電信MOD的適用法律是《電信法》與《固定通-{}-信業務管理規則》，故中華電信MOD不適用《[有線廣播電視法](https://zh.wikipedia.org/wiki/有線廣播電視法 "wikilink")》有關台灣[地面電視](../Page/地面電視.md "wikilink")五大台（[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")、[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")、[華視](https://zh.wikipedia.org/wiki/華視 "wikilink")、[民視](../Page/民間全民電視公司.md "wikilink")、[公視](../Page/公共電視文化事業基金會.md "wikilink")）節目[強制授權的規定](https://zh.wikipedia.org/wiki/強制授權 "wikilink")；2009年上半年起至今的中華電信MOD蓋台事件，即與此有關\[3\]。
 
@@ -6,26 +6,52 @@
 
 ### 服務對象
 
-凡[ISP為](https://zh.wikipedia.org/wiki/ISP "wikilink")[中華電信](https://zh.wikipedia.org/wiki/中華電信 "wikilink")（[HiNet是其品牌](https://zh.wikipedia.org/wiki/HiNet "wikilink")）[ADSL](../Page/ADSL.md "wikilink")、[FTTB或](https://zh.wikipedia.org/wiki/FTTB "wikilink")[FTTH](../Page/FTTH.md "wikilink")的線路用戶，可以向中華電信申請租用隨選視訊服務。但如果是不需[PPPoE](../Page/PPPoE.md "wikilink")撥接而設定固定[IP位址的固定制線路](https://zh.wikipedia.org/wiki/IP位址 "wikilink")，因為[EtherType等因素無法同時申租MOD](https://zh.wikipedia.org/wiki/以太類型 "wikilink")，需另申請不上網的電路以安裝MOD。如果ISP為[台灣碩網者](https://zh.wikipedia.org/wiki/台灣碩網 "wikilink")，亦可單獨向中華電信申請租用MOD\[4\]。
+凡[網際網路服務供應商](https://zh.wikipedia.org/wiki/網際網路服務供應商 "wikilink")（ISP）為[中華電信](https://zh.wikipedia.org/wiki/中華電信 "wikilink")（即[HiNet品牌](https://zh.wikipedia.org/wiki/HiNet "wikilink")）[ADSL](../Page/ADSL.md "wikilink")、[FTTB或](https://zh.wikipedia.org/wiki/FTTB "wikilink")[FTTH](../Page/FTTH.md "wikilink")的線路用戶，可向中華電信申請MOD服務。但如是不需[PPPoE](../Page/PPPoE.md "wikilink")撥接而使用固定[IP位址的固定制線路](https://zh.wikipedia.org/wiki/IP位址 "wikilink")，因[以太類型](https://zh.wikipedia.org/wiki/以太類型 "wikilink")（EtherType）等因素無法同時申租MOD。而無上網需求用申請MOD服務，需同時租用中華電信無寬頻上網電路。如果ISP為[台灣碩網](https://zh.wikipedia.org/wiki/台灣碩網 "wikilink")（So-net）者，亦可單獨向中華電信申請租用MOD\[4\]。
 
 ### 服務內容
 
-  - 主要提供以下三大類型服務\[5\]：
+主要提供三大類型服務\[5\]：
 
-1\. 電視頻道：已有超過200個頻道，其中有180台為HD頻道，內容較有線電視第四台頻道多元，除了無線頻道外，頻道類型超過10種亦囊括闔家、綜合、戲劇、新聞、電影、體育、知識、兒少、音樂、購物、宗教、外語等各類型頻道，目前為全台提供最多高畫質影音內容的娛樂平台。此外，更提供[電子節目指南以取得完整的頻道內容](https://zh.wikipedia.org/wiki/電子節目指南 "wikilink")、節目播出時間等資訊。
-
-2\. 隨選影片(VOD, Video On Demand)：打破傳統訂購模式，提供單頻訂閱頻道數超過160個與超過10,000小時的SD和HD影片，將收視自主權還給觀眾，訂戶可依照自己的需求組合想看的頻道。用戶可在指定時間內無限次數觀看，並可自由播放、暫停與快倒轉。
-
-3\. 互動應用服務：
+\*;電視頻道
 
   -
-    (1)歡唱坊：提供五大歌廳數千首歌曲，歌曲隨點隨唱，熱門歌單每月即時更新，單點或包月任選。
-    (2)家庭櫃員機：24小時隨時服務，機上盒插卡就能使用多項費用繳款服務。
-    (3)生活娛樂：服務包含台鐵/高鐵時刻表、統一發票及彩券兌獎、星座運勢、心靈開運、[Xuite日誌](https://zh.wikipedia.org/wiki/Xuite日誌 "wikilink")、雲端資料櫃、[KKTV](../Page/KKTV.md "wikilink")等，即時掌握生活情報。
-    (4)遊戲：提供多款遊戲暢玩、連線、對戰。
-    (5)購物：提供分類的購物影片與資訊，電視上購物也很輕鬆便利。
-    (6)多螢服務：結合電視、電腦、平板電腦、手機的跨平台服務「Hami+多螢」，利用雲端架構整合多螢幕並串連多終端設備，用戶可透過不同的螢幕收看相同內容，亦可透過同一螢幕接收跨網多平台內容。
-    (7)數位相框：提供隨插即看的操作模式，讓使用在最快的時間內，就可以瀏覽照片並分享。
+    已有超過200個頻道，其中有190台為HD和4K頻道，內容較有線電視第四台頻道多元，除了無線頻道外，頻道類型超過10種亦囊括闔家、綜合、戲劇、新聞、電影、體育、知識、兒少、音樂、購物、宗教、外語等各類型頻道，目前為全台提供最多高畫質影音內容的娛樂平台。此外，更提供[電子節目指南以取得完整的頻道內容](https://zh.wikipedia.org/wiki/電子節目指南 "wikilink")、節目播出時間等資訊。
+
+\*;隨選影片（VOD, Video On Demand）
+
+  -
+    打破傳統訂購模式，提供單頻訂閱頻道數超過160個與超過10,000小時的SD和HD影片，將收視自主權還給觀眾，訂戶可依照自己的需求組合想看的頻道。用戶可在指定時間內無限次數觀看，並可自由播放、暫停與快倒轉。
+
+\*;加值服務
+
+  -
+    歡唱坊
+      -
+        提供五大歌廳數千首歌曲，歌曲隨點隨唱，熱門歌單每月即時更新，單點或包月任選。
+    家庭櫃員機
+      -
+        提供24小時費用繳款和轉帳服務。
+    生活娛樂
+      -
+        服務包含各大交通時刻表、統一發票及彩券兌獎、星座運勢、心靈開運、[Xuite日誌](https://zh.wikipedia.org/wiki/Xuite日誌 "wikilink")、雲端資料櫃等。
+    遊戲城
+      -
+        提供多款遊戲暢玩、連線、對戰。
+    購物
+      -
+        提供分類的購物資訊及電視購物。
+    多螢服務
+      -
+        結合電視、電腦、平板電腦、手機的跨平台服務「Hami+多螢」，利用雲端架構整合多螢幕並串連多終端設備，用戶可透過不同的螢幕收看相同內容或接收跨網多平台內容。
+    數位相框
+      -
+        提供照片隨插即看的操作模式。
+    TV APP
+      -
+        服務包含[Netflix](../Page/Netflix.md "wikilink")、[KKTV](../Page/KKTV.md "wikilink")、[KKBOX](../Page/KKBOX.md "wikilink")、親子199。
+    聲控助理
+      -
+        聲控尋找頻道和影片名稱。
 
 ### 服務細節
 
@@ -89,7 +115,7 @@
 
 ### 用戶數
 
-2012年9月18日，中華電信啟動第二平台（MOD2）。據當時的中華電信總經理[李炎松表示](https://zh.wikipedia.org/wiki/李炎松 "wikilink")，使用第一平台（MOD1）服務的用戶約有100萬戶。當時只有約16萬戶使用第二平台（MOD2）的服務，而總用戶數只有約116萬戶，那代表使用MOD2服務的用戶只有約12萬戶。另外，中華電信也承諾將提供免費機上盒，讓既有MOD1用戶升級使用MOD2服務。（註：MOD2採用愛立信的開放平台，提供上網服務是其與MOD1採用[阿爾卡特朗訊](../Page/阿爾卡特朗訊.md "wikilink")封閉式平台的最大不同處）\[6\]。
+2012年9月18日，中華電信啟動第二平台（MOD2）。據當時的中華電信總經理李炎松表示，使用第一平台（MOD1）服務的用戶約有100萬戶。當時只有約16萬戶使用第二平台（MOD2）的服務，而總用戶數只有約116萬戶，那代表使用MOD2服務的用戶只有約12萬戶。另外，中華電信也承諾將提供免費機上盒，讓既有MOD1用戶升級使用MOD2服務。（註：MOD2採用愛立信的開放平台，提供上網服務是其與MOD1採用[阿爾卡特朗訊](../Page/阿爾卡特朗訊.md "wikilink")封閉式平台的最大不同處）\[6\]。
 
 2018年9月25日，中華電信MOD用戶數正式突破190萬\[7\]。
 
@@ -107,23 +133,23 @@
 
   - 2003年1月，中華電信向[行政院新聞局](../Page/行政院新聞局.md "wikilink")申請經營IPTV業務。2003年11月底，中華電信經行政院新聞局核准推出IPTV業務，定名為「中華電信MOD」\[9\]。
   - 2004年2月，行政院新聞局發給中華電信IPTV營運執照，但因中華電信官股（政府持有的股權）將近40%，行政院新聞局發函要求中華電信必須遵守「[黨政軍退出媒體](https://zh.wikipedia.org/wiki/黨政軍退出媒體 "wikilink")」條款\[10\]。
-  - 2004年3月3日，中華電信舉辦MOD開台[記者會](https://zh.wikipedia.org/wiki/記者會 "wikilink")，中華電信董事長[賀陳旦](../Page/賀陳旦.md "wikilink")宣示：「MOD今年用戶衝十萬戶，三年一百萬！」。不久，[台灣有線視訊寬頻網路發展協進會](https://zh.wikipedia.org/wiki/台灣有線視訊寬頻網路發展協進會 "wikilink")（ACBN）行文[行政院公平交易委員會指控](https://zh.wikipedia.org/wiki/行政院公平交易委員會 "wikilink")，中華電信挾電信獨占事業利潤交叉促銷中華電信MOD，並免收中華電信MOD裝機費與基本頻道收視費，涉嫌違反《公平交易法》\[11\]。
-  - 2005年8月18日，中華電信MOD改名為「中華電信大電視」開播，強調[互動電視與](https://zh.wikipedia.org/wiki/互動電視 "wikilink")[隨選視訊](../Page/隨選視訊.md "wikilink")功能，口號為「咱ㄟ電視台，豐富又精采」\[12\]。
+  - 2004年3月3日，中華電信舉辦MOD開台[記者會](https://zh.wikipedia.org/wiki/記者會 "wikilink")，中華電信董事長[賀陳旦](../Page/賀陳旦.md "wikilink")宣示：「MOD今年用戶衝十萬戶，三年一百萬！」。不久，台灣有線視訊寬頻網路發展協進會（ACBN）行文[行政院公平交易委員會指控](https://zh.wikipedia.org/wiki/行政院公平交易委員會 "wikilink")，中華電信挾電信獨占事業利潤交叉促銷中華電信MOD，並免收中華電信MOD裝機費與基本頻道收視費，涉嫌違反《公平交易法》\[11\]。
+  - 2005年8月18日，中華電信MOD改名為「中華電信大電視」開播，強調[互動電視與隨選視訊功能](https://zh.wikipedia.org/wiki/互動電視 "wikilink")，口號為「咱ㄟ電視台，豐富又精采」\[12\]。
 
 ### 多媒體內容傳輸平台
 
   - 2006年，中華電信大電視改名為「中華電信多媒體內容傳輸平台」，仍簡稱「中華電信MOD」。
   - 2006年10月，[國家通訊傳播委員會](https://zh.wikipedia.org/wiki/國家通訊傳播委員會 "wikilink")（以下簡稱NCC）核准中華電信MOD的經營，但聲明中華電信必須是「開放平台」，並表示中華電信MOD不屬於媒體，必須遵守黨政軍退出媒體條款。
-  - 2007年1月30日，NCC核定中華電信MOD轉型為開放性平台，稱其不再是[有線電視系統](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，也不適用黨政軍退出媒體條款。四個月後的5月30日，NCC與中華電信正式簽定行政契約，宣告中華電信MOD轉型為開放性平台；但[台灣有線寬頻產業協會](https://zh.wikipedia.org/wiki/台灣有線寬頻產業協會 "wikilink")（CBIT）理事長陳繼業表示，NCC認為中華電信MOD已完成改造、轉型為開放性平台，但中華電信MOD實際上仍是有線電視系統，”看不出來改造前後有什麼不同”。其中，[華人衛星電視傳播機構](../Page/華人衛星電視傳播機構.md "wikilink")創辦人王志隆在[民主進步黨](../Page/民主進步黨.md "wikilink")[新潮流系](../Page/新潮流系.md "wikilink")大老[吳乃仁](../Page/吳乃仁.md "wikilink")協助下成為中華電信MOD最大代理商，業界傳說當年NCC一天內曾經發27張頻道執照給王志隆\[13\]。
+  - 2007年1月30日，NCC核定中華電信MOD轉型為開放性平台，稱其不再是[有線電視系統](https://zh.wikipedia.org/wiki/有線電視 "wikilink")，也不適用黨政軍退出媒體條款。四個月後的5月30日，NCC與中華電信正式簽定行政契約，宣告中華電信MOD轉型為開放性平台；但台灣有線寬頻產業協會（CBIT）理事長陳繼業表示，NCC認為中華電信MOD已完成改造、轉型為開放性平台，但中華電信MOD實際上仍是有線電視系統，”看不出來改造前後有什麼不同”。其中，[華人衛星電視傳播機構](../Page/華人衛星電視傳播機構.md "wikilink")創辦人王志隆在[民主進步黨](../Page/民主進步黨.md "wikilink")[新潮流系](../Page/新潮流系.md "wikilink")大老[吳乃仁](../Page/吳乃仁.md "wikilink")協助下成為中華電信MOD最大代理商，業界傳說當年NCC一天內曾經發27張頻道執照給王志隆\[13\]。
   - 2007年12月，[中華民國電視學會](../Page/中華民國電視學會.md "wikilink")主張，由於NCC核定中華電信MOD為適用《電信法》規定之多媒體內容傳輸平台服務，中華電信MOD不應再免費使用中華民國電視學會各會員[電視台](https://zh.wikipedia.org/wiki/電視台 "wikilink")（台視、中視、華視、民視、公視）的頻道，各會員電視台應要求中華電信不得將各自的[無線數位電視頻道載入中華電信MOD的免費頻道群中](../Page/臺灣數位無線電視.md "wikilink")；同時建議各會員電視台，去函中華電信以要求取消頻道承載，並各自與中華電信MOD之頻道商洽談版權授權事宜\[14\]。
 
 ### 開播HDTV
 
-  - 2008年3月7日，中華電信MOD正式開播[HDTV節目](https://zh.wikipedia.org/wiki/HDTV "wikilink")（[2008年北京奧運棒球](https://zh.wikipedia.org/wiki/2008年北京奧運 "wikilink")[「8搶3」資格賽僅限](../Page/2008年夏季奧運棒球最終資格排名賽.md "wikilink")3月7日至3月14日）。但收視戶必須先安裝「中華電信[光世代](https://zh.wikipedia.org/wiki/光世代 "wikilink")」（[FTTx](../Page/FTTx.md "wikilink")）下行10Mbps、上行2Mbps，使用的[機上盒型號必須是MOD](https://zh.wikipedia.org/wiki/機上盒 "wikilink")205，機上盒遙控器型號必須是MRC25，建議使用支援[1080p](../Page/1080p.md "wikilink")或[1080i節目訊號的](https://zh.wikipedia.org/wiki/1080i "wikilink")[電視機](https://zh.wikipedia.org/wiki/電視機 "wikilink")，同時必須使用[HDMI](../Page/HDMI.md "wikilink")連接電視機（若使用[色差端子](../Page/色差端子.md "wikilink")，則必須請工程師更新機上盒軔體）；符合上列條件的收視戶，不需申請，即可在MOD的「HD高畫質」專區直接點選、收看各HDTV節目。
-  - 2009年，中華電信裁撤「數-{}-位內容處」，中華電信MOD業務由總公司移轉至台灣北區電信分公司（北區分公司）負責\[15\]。
+  - 2008年3月7日，中華電信MOD正式開播[HDTV節目](https://zh.wikipedia.org/wiki/HDTV "wikilink")（[2008年北京奧運棒球](https://zh.wikipedia.org/wiki/2008年北京奧運 "wikilink")[「8搶3」資格賽僅限](../Page/2008年夏季奧運棒球最終資格排名賽.md "wikilink")3月7日至3月14日）。但收視戶必須先安裝「中華電信光世代」（[FTTx](../Page/FTTx.md "wikilink")）下行10Mbps、上行2Mbps，使用的[機上盒型號必須是MOD](https://zh.wikipedia.org/wiki/機上盒 "wikilink")205，機上盒遙控器型號必須是MRC25，建議使用支援[1080p](../Page/1080p.md "wikilink")或[1080i節目訊號的](https://zh.wikipedia.org/wiki/1080i "wikilink")[電視機](https://zh.wikipedia.org/wiki/電視機 "wikilink")，同時必須使用[HDMI](../Page/HDMI.md "wikilink")連接電視機（若使用[色差端子](../Page/色差端子.md "wikilink")，則必須請工程師更新機上盒軔體）；符合上列條件的收視戶，不需申請，即可在MOD的「HD高畫質」專區直接點選、收看各HDTV節目。
+  - 2009年，中華電信裁撤「數-{}-位內容處」，中華電信MOD業務由總公司移轉至台灣北區電信分公司負責\[15\]。
   - 2011年6月15日，中華電信MOD系統升級，將同一執照之[SDTV頻道與HDTV頻道整合為單一頻道](https://zh.wikipedia.org/wiki/SDTV "wikilink")。若收視戶同時是光世代用戶，MOD系統將自動傳送HDTV訊號給收視戶；但若收視戶收看HDTV頻道時感覺畫面失真，可使用機上盒遙控器切換為SDTV訊號。
   - 2011年8月24日，中華電信公告，將推出MOD第二平台，由[愛立信](../Page/愛立信.md "wikilink")取得標案，採用愛立信提供的IPTV平台「IAP」（IPTV Application Platform），總金額為新台幣10.67億元\[16\]。
-  - 2012年8月30日，中華電信舉辦[法人說明會](https://zh.wikipedia.org/wiki/法人說明會 "wikilink")，董事長呂學錦表示，[固網寬頻用戶數的目標值從](https://zh.wikipedia.org/wiki/固網 "wikilink")500萬下修為475萬，MOD用戶數的目標值因MOD第二平台審核延後而從150萬下修為130萬\[17\]。
+  - 2012年8月30日，中華電信舉辦法人說明會，董事長呂學錦表示，[固網寬頻用戶數的目標值從](https://zh.wikipedia.org/wiki/固網 "wikilink")500萬下修為475萬，MOD用戶數的目標值因MOD第二平台審核延後而從150萬下修為130萬\[17\]。
 
 ### 網路影音串流OTT服務
 
@@ -140,23 +166,26 @@
   - 在台灣民間有不錯收視率的聯意製作股份有限公司（[TVBS](https://zh.wikipedia.org/wiki/TVBS "wikilink")）於2013年7月8日正式在中華電信MOD提供服務，推出[TVB8台灣版](../Page/TVB8_\(台灣版\).md "wikilink")，頻位為CH40，讓TVBS成為第二家在MOD提供服務的衛星電視頻道商。
   - 2015年1月20日，[緯來電視網](../Page/緯來電視網.md "wikilink")旗下[緯來精采台](../Page/緯來精采台.md "wikilink")於中華電信MOD上架，頻位為CH140；[八大電視](../Page/八大電視.md "wikilink")於MOD開播八大HD戲劇台，頻位為CH143\[24\]；這兩個頻道的上架，讓緯來與八大成為第三、四家（依照頻道編號排序）在MOD提供服務的有線電視台。同日，有線電視次主流頻道[CNN International於MOD上架](https://zh.wikipedia.org/wiki/CNN_International "wikilink")，頻位為CH150；[Animax HD於MOD開播](../Page/Animax_Asia.md "wikilink")，頻位為CH132，為第一個高畫質電視頻道。以上四個頻道的上架，讓許多人對MOD有更實質的肯定。
   - 2019年1月25日，Netflix於MOD正式上架\[25\]，將透過中華電信機上盒MOD503提供服務，分為兩種版本：標準(HD)、高級(HD/4K)\[26\]。
+  - 2019年7月1日，CH262 fyi頻道下架。
+  - 2019年8月1日，CH321八大優頻道及CH158 CMusic頻道新上架提供收視。
+  - 2019年8月20日，CH397 ITV Choice頻道下架終止收視服務。
 
 ## 已下架服務
 
 ### MOD雲遊戲
 
-2016年7月1日，中華電信MOD針對使用機上盒型號為MOD307、MOD308之客戶，與全球[雲端遊戲](../Page/雲端遊戲.md "wikilink")解決方案技術領導廠商[優必達](https://zh.wikipedia.org/wiki/優必達 "wikilink")（Ubitus）聯手推出「MOD雲遊戲」包月服務，提供用戶影片觀賞以外的頂級遊戲體驗，使MOD具備數位家庭娛樂雲的完整功能，大幅提升家庭娛樂品質。此服務僅限上述機上盒客戶之客戶租用\[27\]\[28\]。然而，MOD雲遊戲於2017年6月7日終止服務並下架。
+2016年7月1日，中華電信MOD針對使用機上盒型號為MOD307、MOD308之客戶，與全球[雲端遊戲](../Page/雲端遊戲.md "wikilink")解決方案技術領導廠商優必達（Ubitus）聯手推出「MOD雲遊戲」包月服務，提供用戶影片觀賞以外的頂級遊戲體驗，使MOD具備數位家庭娛樂雲的完整功能，大幅提升家庭娛樂品質。此服務僅限上述機上盒客戶之客戶租用\[27\]\[28\]。然而，MOD雲遊戲於2017年6月7日終止服務並下架。
 
 ## 爭議事件
 
 ### 蓋台爭議
 
-  - 2009年上半年，[台灣互動電視公司提供中華電信MOD播出的台灣地面電視五大台各頻道陸續發生部分節目因授權問題被迫以其他同類節目覆蓋原節目內容](https://zh.wikipedia.org/wiki/台灣互動電視公司 "wikilink")（台灣稱為「蓋台」），[偶像劇](../Page/偶像劇.md "wikilink")、[韓劇被覆蓋的情形尤其顯著](https://zh.wikipedia.org/wiki/韓劇 "wikilink")，也有[綜藝節目](../Page/綜藝節目.md "wikilink")、[日本動畫被覆蓋的](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。此類事件至今仍未被完全解決。中華電信與台灣互動電視公司的處理態度消極，不購買被覆蓋節目的播映權，只在覆蓋時打出滾動字幕希望NCC讓中華電信MOD適用《有線廣播電視法》強制授權條款。而中華電信MOD的廣告以比有線電視系統業者低廉的費率為主要訴求，未曾向擬申裝中華電信MOD的消費者告知：此類事件使中華電信MOD無法提供完整的基本服務給消費者。
+  - 2009年上半年，台灣互動電視公司提供中華電信MOD播出的台灣地面電視五大台各頻道陸續發生部分節目因授權問題被迫以其他同類節目覆蓋原節目內容（台灣稱為「蓋台」），[偶像劇](../Page/偶像劇.md "wikilink")、[韓劇被覆蓋的情形尤其顯著](https://zh.wikipedia.org/wiki/韓劇 "wikilink")，也有[綜藝節目](../Page/綜藝節目.md "wikilink")、[日本動畫被覆蓋的](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")。此類事件至今仍未被完全解決。中華電信與台灣互動電視公司的處理態度消極，不購買被覆蓋節目的播映權，只在覆蓋時打出滾動字幕希望NCC讓中華電信MOD適用《有線廣播電視法》強制授權條款。而中華電信MOD的廣告以比有線電視系統業者低廉的費率為主要訴求，未曾向擬申裝中華電信MOD的消費者告知：此類事件使中華電信MOD無法提供完整的基本服務給消費者。
   - 2009年3月8日，中華電信MOD官方網站討論區發布〈關於台灣互動蓋台之原因說明〉，說明為何台灣互動電視公司提供的台灣地面電視五大台各頻道有部分節目被覆蓋。
   - 2009年7月13日，針對中華電信MOD用戶無法收看中視全部節目，中視答覆：「MOD因有營利行為，中視便不能私底下將非中視所有的戲劇播放版權發放給MOD；必須請MOD業者向該劇版權所有者購買『網路播映權』，如此方可於MOD平台播出。中視不會要求MOD覆蓋節目等等惡質行為，戲劇的播放版權流程一切依據合約，目前只能請觀眾向MOD業者申訴。造成中視觀眾收看的困擾，我們致上深深的歉意。建議觀眾，可以利用非經MOD的網路傳輸方式來收看中視（節目），例如：購買[數位機上盒](https://zh.wikipedia.org/wiki/數位視訊轉換盒 "wikilink")、或利用傳統方式安裝[天線](https://zh.wikipedia.org/wiki/天線 "wikilink")、或向當地[第四台業者安裝有線電視](https://zh.wikipedia.org/wiki/有線電視 "wikilink")。」\[29\]。
   - 2013年6月5日，針對中華電信MOD用戶無法收看公視《[沒有名字的甜點店](https://zh.wikipedia.org/wiki/沒有名字的甜點店 "wikilink")》，公視答覆：「《沒有名字的甜點店》節目，因MOD並未取得授權，故無法收視。建議您可使用一般無線數-{}-位機上盒收看。若您仍有節目著作權相關問題，建議您可洽MOD客服詢問。造成您的不便，敬請見諒！」\[30\]
   - 2014年5月29日，民視各頻道未授權中華電信MOD播出的節目改由民視公告以其他節目覆蓋，不再由台灣互動電視公司覆蓋。2014年6月3日，台灣互動電視公司結束代理民視各頻道，民視各頻道改由民視繼續提供中華電信MOD播出。2014年6月11日，中視各頻道未授權中華電信MOD播出的節目改由中視公告以其他節目覆蓋，不再由台灣互動電視公司覆蓋。2014年6月24日，台灣互動電視公司結束代理中視各頻道，中視各頻道改由中視繼續提供中華電信MOD播出。
-  - 2016年7月17日，針對中華電信MOD用戶無法收看台視《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》，台視答覆：「《太陽的後裔》節目，因MOD並未取得授權，故無法收視。建議您可使用一般無線數-{}-位機上盒收看。若您仍有節目著作權相關問題，建議您可洽MOD客服詢問。造成您的不便，敬請見諒！」
+  - 2016年7月17日，針對中華電信MOD用戶無法收看台視《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》，台視答覆：「太陽的後裔節目，因MOD並未取得授權，故無法收視。建議您可使用一般無線數-{}-位機上盒收看。若您仍有節目著作權相關問題，建議您可洽MOD客服詢問。造成您的不便，敬請見諒！」
   - 2017年7月15日，中華電信MOD系統公告，[台視綜合台](../Page/台視綜合台.md "wikilink")、[台視新聞台](../Page/台視新聞台.md "wikilink")、[台視財經台](../Page/台視財經台.md "wikilink")改由[壹電視](../Page/壹電視.md "wikilink")繼續提供中華電信MOD播出。
   - 2018年8月10日，中華電信MOD系統公告，由台視、華視、中視、民視、公視播送的共計25個節目，因授權問題暫停播出，並改以同質性或其他節目播出。\[31\]
 
@@ -170,9 +199,9 @@
 
 [Chunghwa_Telecom_MOD_family_combo_channels_recovered_20170722.jpg](https://zh.wikipedia.org/wiki/File:Chunghwa_Telecom_MOD_family_combo_channels_recovered_20170722.jpg "fig:Chunghwa_Telecom_MOD_family_combo_channels_recovered_20170722.jpg")
 
-  - 2017年7月1日，中華電信北區分公司總經理[陳明仕說](https://zh.wikipedia.org/wiki/陳明仕 "wikilink")，中華電信MOD的頻道合約規定，客戶繳費後，20%歸中華電信、80%歸頻道營運商；但頻道營運商之間的遊戲規則由頻道營運商自己談，中華電信只提供相關資料協助頻道營運商擬訂合理定價\[33\]。
+  - 2017年7月1日，中華電信北區分公司總經理陳明仕說，中華電信MOD的頻道合約規定，客戶繳費後，20%歸中華電信、80%歸頻道營運商；但頻道營運商之間的遊戲規則由頻道營運商自己談，中華電信只提供相關資料協助頻道營運商擬訂合理定價\[33\]。
   - 2017年7月2日，NCC表示，中華電信MOD為開放平台，個別頻道之上架、下架與授權契約係由頻道供應商與中華電信協商決定，組合套餐則由套餐內所有頻道供應商協商決定；此機制之程序與有線電視系統業者之頻道上下架時必須報請NCC許可或備查之程序規定有所不同，但NCC在要求中華電信與有線電視系統業者維護消費者權益之作法則是完全一致\[34\]。
-  - 2017年7月4日，跨黨派[立法委員](https://zh.wikipedia.org/wiki/立法委員 "wikilink")[邱志偉](https://zh.wikipedia.org/wiki/邱志偉 "wikilink")、[許智傑](../Page/許智傑.md "wikilink")、[陳學聖](../Page/陳學聖.md "wikilink")、[高志鵬](../Page/高志鵬.md "wikilink")、[鄭天財](../Page/鄭天財.md "wikilink")、[蔡適應](../Page/蔡適應.md "wikilink")、[蘇震清](../Page/蘇震清.md "wikilink")等在[立法院](../Page/立法院.md "wikilink")請願接待室舉行聯合記者會，他們認為，中華電信董事長[鄭優](../Page/鄭優.md "wikilink")為政府指派任命，執行決策時卻不溝通、不協調，將業者之間商業糾紛的衍生問題轉嫁給消費者承擔。中華電信北區分公司副總經理[張義豐說](https://zh.wikipedia.org/wiki/張義豐 "wikilink")，中華電信MOD的頻道合約是用戶與頻道商之間的合約，中華電信只是平台提供者。[中華電信工會](../Page/中華電信工會.md "wikilink")在立法院外聚集，拉起抗議布條批評台灣互動電視公司貪婪，呼籲NCC秉公處理\[35\]。
+  - 2017年7月4日，跨黨派[立法委員](https://zh.wikipedia.org/wiki/立法委員 "wikilink")[邱志偉](https://zh.wikipedia.org/wiki/邱志偉 "wikilink")、[許智傑](../Page/許智傑.md "wikilink")、[陳學聖](../Page/陳學聖.md "wikilink")、[高志鵬](../Page/高志鵬.md "wikilink")、[鄭天財](../Page/鄭天財.md "wikilink")、[蔡適應](../Page/蔡適應.md "wikilink")、[蘇震清](../Page/蘇震清.md "wikilink")等在[立法院](../Page/立法院.md "wikilink")請願接待室舉行聯合記者會，他們認為，中華電信董事長[鄭優](../Page/鄭優.md "wikilink")為政府指派任命，執行決策時卻不溝通、不協調，將業者之間商業糾紛的衍生問題轉嫁給消費者承擔。中華電信北區分公司副總經理張義豐說，中華電信MOD的頻道合約是用戶與頻道商之間的合約，中華電信只是平台提供者。[中華電信工會](../Page/中華電信工會.md "wikilink")在立法院外聚集，拉起抗議布條批評台灣互動電視公司貪婪，呼籲NCC秉公處理\[35\]。
   - 2017年7月3日，[國立臺灣藝術大學廣播電視學系](../Page/國立臺灣藝術大學廣播電視學系.md "wikilink")教授[賴祥蔚](../Page/賴祥蔚.md "wikilink")說，鄭優推動中華電信MOD實施頻道分潤制度，但頻道代理商不滿意頻道分潤制度，雙方談判破裂引發中華電信MOD豪華套餐頻道數目腰斬事件，「MOD改革勢在必行，代理商的不願接受也無可厚非；只是中華電信對這起事件的處理太過輕忽，因此成為[危機管理](../Page/危機管理.md "wikilink")的負面案例」。賴祥蔚認為，中華電信連續犯下三大失誤：
 
 <!-- end list -->
@@ -184,14 +213,14 @@
 <!-- end list -->
 
   - 2017年7月5日，中華電信官網發出公告，主打本月1日起「寬頻+MOD數位匯流套裝方案」各套餐用戶優惠減價，原本希望能挽回現有用戶的心。2017年7月6日，網友揭發，中華電信已經將公告日期7月5日改為6月5日：網友比對[Google搜尋的](https://zh.wikipedia.org/wiki/Google搜尋 "wikilink")[快取網頁](https://zh.wikipedia.org/wiki/快取 "wikilink")，標示公告日期為7月5日；但中華電信重新上架讓快取強制更新，使公告日期變成6月5日，製造出已經於一個月前公告的假象\[37\]。
-  - 2017年7月13日，中華電信、台灣互動電視公司、[友量娛樂科技與](https://zh.wikipedia.org/wiki/友量娛樂科技 "wikilink")[中華超聯多媒體簽妥合約](https://zh.wikipedia.org/wiki/中華超聯多媒體 "wikilink")，中華電信MOD家庭套餐於本月15日恢復播出上列三家公司代理之頻道\[38\]。
+  - 2017年7月13日，中華電信、台灣互動電視公司、友量娛樂科技與中華超聯多媒體簽妥合約，中華電信MOD家庭套餐於本月15日恢復播出上列三家公司代理之頻道\[38\]。
   - 2017年7月14日，台灣互動電視公司、友量娛樂科技與中華超聯多媒體發布聯合聲明，上列三家公司已經與中華電信達成共同協議，中華電信MOD「家庭豪華餐」、「家庭超值餐」、「家庭精選B餐」及「家庭優質餐」的48個頻道於本月15日恢復播出\[39\]。同日，鄭優發給中華電信員工的公開信表示，中華電信MOD頻道商已經完全依照中華電信所提條件，中華電信所推動的合理分潤制度及尊重用戶選擇喜愛頻道的權利已經獲得各界高度認同；只要中華電信堅持下去，繼續強化頻道內容、優化服務，中華電信MOD用戶增至200萬的目標很快可以達成，MOD反虧為盈的時間也不遠了\[40\]。
-  - 2017年11月16日，[凱擘宣布](https://zh.wikipedia.org/wiki/凱擘 "wikilink")，由於頻道商「對於頻道上下架洽談，已具備高度自主能力」，凱擘決定2018年結束頻道代理業務\[41\]。2017年11月20日，鄭優說，凱擘此舉有望刺激頻道商與中華電信接洽的意願，中華電信歡迎且希望所有頻道商都能自由選擇上架平台\[42\]。2017年12月21日，鄭優說，中華電信堅持推動合理分潤制度，委託[中華電信研究院建立中華電信MOD收視率調查機制](https://zh.wikipedia.org/wiki/中華電信研究院 "wikilink")，希望以此機制為頻道商合理分潤的參考\[43\]。
+  - 2017年11月16日，[凱擘宣布](https://zh.wikipedia.org/wiki/凱擘 "wikilink")，由於頻道商「對於頻道上下架洽談，已具備高度自主能力」，凱擘決定2018年結束頻道代理業務\[41\]。2017年11月20日，鄭優說，凱擘此舉有望刺激頻道商與中華電信接洽的意願，中華電信歡迎且希望所有頻道商都能自由選擇上架平台\[42\]。2017年12月21日，鄭優說，中華電信堅持推動合理分潤制度，委託中華電信研究院建立中華電信MOD收視率調查機制，希望以此機制為頻道商合理分潤的參考\[43\]。
 
 ### 其他
 
-  - 2010年5月14日，[日本](../Page/日本.md "wikilink")[AV片商](https://zh.wikipedia.org/wiki/AV片商 "wikilink")[Waap Entertainment](https://zh.wikipedia.org/wiki/Waap_Entertainment "wikilink")、[Soft On Demand等](../Page/Soft_On_Demand.md "wikilink")8家公司委任[律師](../Page/律師.md "wikilink")指控，中華電信讓MOD內容供應商（[新視紀媒體科技](https://zh.wikipedia.org/wiki/新視紀媒體科技 "wikilink")、台灣互動電視公司）任意播放、或讓民眾以[手機下載未經授權的AV](https://zh.wikipedia.org/wiki/手機 "wikilink")；這8家公司不僅對內容供應商提出告訴，也向中華電信求償\[44\]。
-  - 2010年11月中旬，中華電信設於[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")[中山區長春路與](../Page/中山區_\(臺北市\).md "wikilink")[林森北路](../Page/林森北路.md "wikilink")口的電視牆播放促銷中華電信MOD[限制級內容區塊](https://zh.wikipedia.org/wiki/限制級 "wikilink")「成人專區」的廣告，長度約3分鐘，內容有學生妹任由身旁兩男搓揉胸部、穿性感睡衣的[AV女優](../Page/AV女優.md "wikilink")趴跪在床上露出[乳溝](../Page/乳溝.md "wikilink")、AV女優隔著褲子替[AV男優](https://zh.wikipedia.org/wiki/AV男優 "wikilink")[口交](../Page/口交.md "wikilink")，播出3日後又延遲3日才被撤除，遭民眾向行政院新聞局投訴。中華電信表示，電視牆排播系統誤播成人互動遊戲，在接獲通知後已立即撤除；行政院新聞局廣播電視事業處表示，中華電信MOD及其播放內容都是屬於NCC管理業務，新聞局已函請NCC處理。一位不願具名的多媒體業者說，中華電信無法在第一時間處理本案，是因為「MOD系統技術受限於[華電聯網](https://zh.wikipedia.org/wiki/華電聯網 "wikilink")」；一位不願具名的頻道商說，中華電信MOD頻道專案實因「內神通外鬼」，縱容台灣互動電視公司、[靖天傳播](../Page/靖天傳播.md "wikilink")、新視紀媒體科技與[愛爾達電視](../Page/愛爾達電視.md "wikilink")等少數業者壟斷頻道達70%，使得其他公司難以申請\[45\]。
+  - 2010年5月14日，[日本](../Page/日本.md "wikilink")[AV片商](https://zh.wikipedia.org/wiki/AV片商 "wikilink")[Waap Entertainment](https://zh.wikipedia.org/wiki/Waap_Entertainment "wikilink")、[Soft On Demand等](../Page/Soft_On_Demand.md "wikilink")8家公司委任[律師](../Page/律師.md "wikilink")指控，中華電信讓MOD內容供應商（新視紀媒體科技、台灣互動電視公司）任意播放、或讓民眾以[手機下載未經授權的AV](https://zh.wikipedia.org/wiki/手機 "wikilink")；這8家公司不僅對內容供應商提出告訴，也向中華電信求償\[44\]。
+  - 2010年11月中旬，中華電信設於[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")[中山區長春路與](../Page/中山區_\(臺北市\).md "wikilink")[林森北路](../Page/林森北路.md "wikilink")口的電視牆播放促銷中華電信MOD[限制級內容區塊](https://zh.wikipedia.org/wiki/限制級 "wikilink")「成人專區」的廣告，長度約3分鐘，內容有學生妹任由身旁兩男搓揉胸部、穿性感睡衣的[AV女優](../Page/AV女優.md "wikilink")趴跪在床上露出[乳溝](../Page/乳溝.md "wikilink")、AV女優隔著褲子替[AV男優](https://zh.wikipedia.org/wiki/AV男優 "wikilink")[口交](../Page/口交.md "wikilink")，播出3日後又延遲3日才被撤除，遭民眾向行政院新聞局投訴。中華電信表示，電視牆排播系統誤播成人互動遊戲，在接獲通知後已立即撤除；行政院新聞局廣播電視事業處表示，中華電信MOD及其播放內容都是屬於NCC管理業務，新聞局已函請NCC處理。一位不願具名的多媒體業者說，中華電信無法在第一時間處理本案，是因為「MOD系統技術受限於華電聯網」；一位不願具名的頻道商說，中華電信MOD頻道專案實因「內神通外鬼」，縱容台灣互動電視公司、[靖天傳播](../Page/靖天傳播.md "wikilink")、新視紀媒體科技與[愛爾達電視](../Page/愛爾達電視.md "wikilink")等少數業者壟斷頻道達70%，使得其他公司難以申請\[45\]。
   - 2011年9月23日，立法院施政總質詢，[中國國民黨](../Page/中國國民黨.md "wikilink")[立法委員](https://zh.wikipedia.org/wiki/立法委員 "wikilink")[蔡正元](../Page/蔡正元.md "wikilink")指出\[46\]：
 
 <!-- end list -->

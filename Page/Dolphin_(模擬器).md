@@ -1,6 +1,6 @@
 **Dolphin**是一個能執行於[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Android](../Page/Android.md "wikilink")[作業系統的](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")與[Wii](../Page/Wii.md "wikilink")的[開源](https://zh.wikipedia.org/wiki/开源 "wikilink")[模擬器](https://zh.wikipedia.org/wiki/仿真器 "wikilink")。\[1\]\[2\]\[3\]它是歷史上第一個可完美執行[任天堂GameCube](../Page/任天堂GameCube.md "wikilink")與[Wii](../Page/Wii.md "wikilink")遊戲的模擬器。程式的名稱來源於GameCube的研發代號。\[4\]
 
-## 历史
+## 歷史
 
 ### 诞生（2003-2007）
 
@@ -46,7 +46,7 @@
 
 2015年5月25日，Dolphin成功将代码从“GPLv2”重新授权为“GPLv2+”许可，改进了与其他[自由及开放源代码软件](../Page/自由及开放源代码软件.md "wikilink")项目的[许可证兼容性](../Page/许可证兼容性.md "wikilink")，以便共享交换代码。\[31\]
 
-2016年6月24日，5.0版本发布。修复了一些错误以及更新了一些内容。\[32\]
+2016年6月24日，5.0版本发布。加入 [Vulkan](https://zh.wikipedia.org/wiki/Vulkan "wikilink") , 修复了一些错误以及更新了一些内容。\[32\]
 
 ### 5.0版后的发展（进行中）
 

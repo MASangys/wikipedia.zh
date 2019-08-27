@@ -1,4 +1,4 @@
-**Gary**（，），本名為**姜熙建**（，），是[韓國男子二人饒舌組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Leessang](../Page/Leessang.md "wikilink")。[SBS綜藝節目](../Page/SBS_\(韓國\).md "wikilink")《[Running Man](../Page/Running_Man.md "wikilink")》前成員，與節目成員[宋智孝](../Page/宋智孝.md "wikilink")的「週一情侶」感情線備受歡迎。於2017年4月5日宣布已與圈外人登記結婚，妻子為小10歲、當時為LeeSSang Company公司的5年年資職員。
+**Gary**（，），本名為**姜熙建**（，），是[韓國男子雙人饒舌組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Leessang](../Page/Leessang.md "wikilink")和[SBS綜藝節目](../Page/SBS_\(韓國\).md "wikilink")《[Running Man](../Page/Running_Man.md "wikilink")》前成員，與節目成員[宋智孝](../Page/宋智孝.md "wikilink")的「週一情侶」感情線備受歡迎。於2017年4月5日宣布已與圈外人登記結婚，妻子為小10歲、當時為LeeSSang Company公司的5年年資職員。
 
 ## 個人生活
 

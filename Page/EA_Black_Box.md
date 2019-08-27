@@ -1,8 +1,14 @@
 **EA Black Box**（前身為**Black Box Games**）是一家總部位於[加拿大](../Page/加拿大.md "wikilink")[卑詩省](https://zh.wikipedia.org/wiki/卑詩省 "wikilink")[本那比](https://zh.wikipedia.org/wiki/本那比 "wikilink")\[1\]的[電子及](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")[電腦遊戲開發商](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")。於1998年由[Radical Entertainment的一伙前員工成立](../Page/Radical_Entertainment.md "wikilink")。
 
-Black Box在之前曾為[世嘉](https://zh.wikipedia.org/wiki/世嘉公司 "wikilink")、[Midway Games及](https://zh.wikipedia.org/wiki/Midway_Games "wikilink")[美商藝電等](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")[遊戲發行商開發遊戲](https://zh.wikipedia.org/wiki/遊戲發行商 "wikilink")。2002年6月，Black Box正式被收購，收購後由[EA Canada全權擁有Black](https://zh.wikipedia.org/wiki/EA_Canada "wikilink") Box公司。\[2\]
+Black Box在之前曾為[世嘉](https://zh.wikipedia.org/wiki/世嘉公司 "wikilink")、[Midway Games及](https://zh.wikipedia.org/wiki/Midway_Games "wikilink")[美商藝電等](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")[遊戲發行商開發遊戲](https://zh.wikipedia.org/wiki/遊戲發行商 "wikilink")。2002年6月，Black Box正式被收購，收購後由[EA Canada全權擁有Black](https://zh.wikipedia.org/wiki/EA_Canada "wikilink") Box公司。\[2\]該工作室以製作[極速快感系列及Skate系列聞名](https://zh.wikipedia.org/wiki/極速快感系列 "wikilink")。尤其是[極速快感系列](https://zh.wikipedia.org/wiki/極速快感系列 "wikilink")，該系列最經典的一款遊戲《[極速快感：全民公敵](../Page/極速快感：全民公敵.md "wikilink")》就是出自於其工作室之手。
 
 2008年12月19日，EA Black Box宣佈將會停止並關閉它們於[溫哥華](../Page/溫哥華.md "wikilink")的工作室，並且會將工作室搬遷至EA Canada為於本那比的設施中；此舉是為配合美商藝電的全球合併鞏固計畫。\[3\]
+
+由於2008年推出的《[極速快感：臥底風雲](https://zh.wikipedia.org/wiki/極速快感：臥底風雲 "wikilink")》和2011年推出的《[極速快感：亡命天涯](../Page/極速快感：亡命天涯.md "wikilink")》在口碑和銷量上都非常失敗，因此，EA在2012年決定由[Criterion Games取代EA](../Page/Criterion_Games.md "wikilink") Black Box成為[极品飞车系列](../Page/极品飞车系列.md "wikilink")的開發商。而《[極速快感：亡命天涯](../Page/極速快感：亡命天涯.md "wikilink")》也成為EA Black Box工作室製作的最後一款遊戲。
+
+2012年7月，EA Black Box工作室正式更名為**Quicklime Games**，而在經過一系列的重組過後於2013年4月正式關閉。
+
+在工作室關閉之後，一些員工參與了由[育碧](../Page/育碧.md "wikilink")推出的競速遊戲《[飆酷車神](../Page/飆酷車神.md "wikilink")》的開發。
 
 ## 遊戲開發年表
 
@@ -57,7 +63,7 @@ Black Box在之前曾為[世嘉](https://zh.wikipedia.org/wiki/世嘉公司 "wik
 **2010年：**
 
   - [Skate 3](https://zh.wikipedia.org/wiki/Skate_3 "wikilink")（PlayStation 3、Xbox 360）
-  - 《[極速快感Online](https://zh.wikipedia.org/wiki/極速快感Online "wikilink")》（*Need for Speed: World*）（Windows）
+  - 《[極速快感：世界](../Page/極速快感：世界.md "wikilink")》（*Need for Speed: World*）（Windows）
 
 **2011年：**
 

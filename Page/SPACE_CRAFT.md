@@ -97,7 +97,8 @@
 
   - [南里侑香](../Page/南里侑香.md "wikilink")
 
-  -
+  - [野村香菜子](../Page/野村香菜子.md "wikilink")
+
   - [上坂堇](../Page/上坂堇.md "wikilink")
 
   - [三澤紗千香](../Page/三澤紗千香.md "wikilink")

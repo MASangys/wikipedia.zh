@@ -4,13 +4,9 @@
 
 ## 参考资料
 
-<references group="n" />
-
 ## 外部链接
 
   -
-  - [《勇者斗恶龙IX》官方网站](http://www.dqix.jp/top.html)
-
 [Category:勇者鬥惡龍系列電子遊戲](https://zh.wikipedia.org/wiki/Category:勇者鬥惡龍系列電子遊戲 "wikilink") [Category:2009年电子游戏](https://zh.wikipedia.org/wiki/Category:2009年电子游戏 "wikilink") [Category:电子角色扮演游戏](https://zh.wikipedia.org/wiki/Category:电子角色扮演游戏 "wikilink") [Category:Level-5游戏](https://zh.wikipedia.org/wiki/Category:Level-5游戏 "wikilink") [Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink") [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink") [Category:天使题材电子游戏](https://zh.wikipedia.org/wiki/Category:天使题材电子游戏 "wikilink") [Category:任天堂Wi-Fi连接游戏](https://zh.wikipedia.org/wiki/Category:任天堂Wi-Fi连接游戏 "wikilink")
 
 1.

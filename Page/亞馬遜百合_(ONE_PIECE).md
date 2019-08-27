@@ -4,7 +4,7 @@
 
 作者[尾田榮一郎表示](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")，在創作本篇的時候很想把亞馬遜百合這個「女兒國」設定成有很高文化水平的地方，故建築物及風景等都參照了[中國](../Page/中國.md "wikilink")為原型。島上人物（例如：漢考克）的衣著不少也加入了旗袍的造型<small>\[1\]</small>。
 
-此外，「[-{亞馬遜百合}-](https://zh.wikipedia.org/wiki/亞馬遜百合 "wikilink")」為[百合花的一個品種](https://zh.wikipedia.org/wiki/百合花 "wikilink")；而島上人物的名字，亦大多與[植物](../Page/植物.md "wikilink")或[花卉相關](https://zh.wikipedia.org/wiki/花卉 "wikilink")。
+此外，「[-{亞馬遜百合}-](../Page/亞馬遜百合.md "wikilink")」為[百合花的一個品種](https://zh.wikipedia.org/wiki/百合花 "wikilink")；而島上人物的名字，亦大多與[植物](../Page/植物.md "wikilink")或[花卉相關](https://zh.wikipedia.org/wiki/花卉 "wikilink")。
 
 ## 島嶼概要
 
@@ -82,13 +82,14 @@
 
   - 波雅·漢考克
     聲優：[三石琴乃](../Page/三石琴乃.md "wikilink")（日本）；[錢欣郁](../Page/錢欣郁.md "wikilink")（台灣）；[鄭家蕙](../Page/鄭家蕙.md "wikilink")（香港）
+    年齡：(第一部)29歲→(第二部)31歲/生日：9月2日/星座：處女座/身高：191公分/血型：S型/出身地：女人島「亞馬遜•百合」/喜歡的食物：[火鍋](../Page/火鍋.md "wikilink")/霸氣：[霸王色、見聞色、武裝色](https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#霸氣 "wikilink")。
     九蛇海賊團船長，蛇髮魔女三姐妹的老大，亞馬遜百合的現任皇帝<small>\[22\]</small>。
 
 [OP_BoaSandersonia.jpg](https://zh.wikipedia.org/wiki/File:OP_BoaSandersonia.jpg "fig:OP_BoaSandersonia.jpg")
 
   - <span id="波雅·桑塔索妮雅"></span>
     聲優：[齋藤千和](https://zh.wikipedia.org/wiki/齋藤千和 "wikilink")、[金田朋子](../Page/金田朋子.md "wikilink")〔幼年時期〕（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）；[陳雪瑩](https://zh.wikipedia.org/wiki/陳雪瑩 "wikilink")（香港）
-    年齡：(第一部)28歲→(第二部)30歲/生日：9月3日/星座：處女座/身高：453公分/血型：S型/出身地：女人島「亞馬遜•百合」/喜歡的食物：[小籠包](../Page/小籠包.md "wikilink")/霸氣：[見聞色霸氣、武裝色霸氣](https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#霸氣 "wikilink")。
+    年齡：(第一部)28歲→(第二部)30歲/生日：9月3日/星座：處女座/身高：453公分/血型：S型/出身地：女人島「亞馬遜•百合」/喜歡的食物：[小籠包](../Page/小籠包.md "wikilink")/霸氣：[見聞色、武裝色](https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#霸氣 "wikilink")。
     九蛇海賊團戰鬥員，蛇髮魔女三姐妹老二。特徵是一頭綠色長髮，以及足足比身體大一倍的頭部。寵物是[黑豹芭秋菈](https://zh.wikipedia.org/wiki/黑豹 "wikilink")。\[23\]</small>。懸賞金額：4,000萬貝里（在漢考克成為七武海前）。
     年幼時期的桑塔索妮雅曾在前傳零話裡短暫登場<small>\[24\]</small>。在淪為奴隸的期間，桑塔索妮雅因為天龍人的一時興起而被迫吃下惡魔果實，成為動物系「[蛇蛇果實 蟒蛇型態](../Page/惡魔果實.md "wikilink")」能力者，蟒蛇人，蟒蛇的身體可以纏住對手，再利用強大的勁力絞殺。
     魯夫誤闖女人島，以及用無禮言語冒犯漢考克，被下令處以「武武」極刑；她與妹妹瑪莉哥德因而被派上鬥技場對魯夫公開處刑。戰鬥初期，兩姐妹憑著霸氣和惡魔果實能力佔得壓倒性優勢；桑塔索妮雅多次以見聞色霸氣預視魯夫的下一步動作，使他陷於苦戰<small>\[25\]</small>；後來她還用尾巴捲起了被「石化」的雛菊，試圖摔碎她來威懾魯夫，可是此舉卻激發他展現出「[霸王色霸氣](https://zh.wikipedia.org/wiki/霸氣_\(ONE_PIECE\) "wikilink")」<small>\[26\]</small>。此後，魯夫使出了「二檔」令桑塔索妮雅無法再防範他的動作，最後還被他以「橡膠JET槍亂打」擊敗，頭髮和衣服也燒著了；就在她快要在群眾面前露出背部烙印之際，魯夫攀附到她的背後，以身體掩蓋她的背部；魯夫此舉令三姐妹深深感動<small>\[27\]</small>。
@@ -106,7 +107,7 @@
 
   - <span id="波雅·瑪莉哥德"></span>
     聲優：[齊藤貴美子](https://zh.wikipedia.org/wiki/齊藤貴美子 "wikilink")、[佐藤聰美](../Page/佐藤聰美.md "wikilink")〔幼年時期〕（日本）；[汪世瑋](../Page/汪世瑋.md "wikilink")（台灣）；[朱碧怡](../Page/朱碧怡.md "wikilink")（香港）
-    年齡：(第一部)26歲→(第二部)28歲/生日：9月5日/身高：432公分/星座：處女座/血型：S型/出身地：女人島「亞馬遜•百合」/喜歡的食物：海王類[東坡肉](https://zh.wikipedia.org/wiki/東坡肉 "wikilink")/霸氣：[見聞色霸氣、武裝色霸氣](https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#霸氣 "wikilink")。
+    年齡：(第一部)26歲→(第二部)28歲/生日：9月5日/身高：432公分/星座：處女座/血型：S型/出身地：女人島「亞馬遜•百合」/喜歡的食物：海王類[東坡肉](https://zh.wikipedia.org/wiki/東坡肉 "wikilink")/霸氣：[見聞色、武裝色](https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#霸氣 "wikilink")。
     九蛇海賊團戰鬥員，蛇髮魔女三姐妹老三。特徵是一頭橘髮，以及肥胖的身形。據作者[尾田榮一郎表示](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")，她在脫離天龍人的控制後，為了變強而不斷吃[相撲火鍋兼練肌肉](https://zh.wikipedia.org/wiki/相撲火鍋 "wikilink")，所以和她以前苗條的樣子完全不同\[28\]。使用武器為[關刀](https://zh.wikipedia.org/wiki/關刀 "wikilink")，寵物是[鷹](https://zh.wikipedia.org/wiki/鷹 "wikilink")。懸賞金額：4,000萬貝里（在漢考克成為七武海前）。
     年幼時期的瑪莉哥德曾在前傳零話裡短暫登場\[29\]。在淪為奴隸的期間，瑪莉哥德因為天龍人的一時興起而被迫吃下惡魔果實，是動物系「[蛇蛇果實 眼鏡王蛇型態](../Page/惡魔果實.md "wikilink")」能力者，眼鏡蛇人，可以變成半人半眼鏡蛇的形態，頸部可以跟眼鏡蛇一樣向外膨起抵擋對手攻擊，也可以從口中放出劇毒。
     魯夫誤闖女人島，以及用無禮言語冒犯漢考克，被下令處以「武武」極刑；她與二姐桑塔索妮雅因而被派上鬥技場對魯夫公開處刑。戰鬥初期，兩姐妹憑著霸氣和惡魔果實能力佔得壓倒性優勢；瑪莉哥德多次憑武裝色霸氣擋下了魯夫的攻擊，使他陷於苦戰\[30\]。此後，魯夫使出了「二檔」擊破瑪莉哥德的防禦，最後還被他以「橡膠JET槍亂打」擊敗\[31\]。

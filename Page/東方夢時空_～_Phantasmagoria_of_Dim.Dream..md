@@ -1,4 +1,4 @@
-[Phantasmagoria_of_Dim.Dream.png](https://zh.wikipedia.org/wiki/File:Phantasmagoria_of_Dim.Dream.png "fig:Phantasmagoria_of_Dim.Dream.png") 是[东方Project的第三部作品](https://zh.wikipedia.org/wiki/东方Project "wikilink")，虽然也是[弹幕射击游戏](https://zh.wikipedia.org/wiki/弹幕射击游戏 "wikilink")，但其他不同的是，它是对战模式——也就是双人参加或电脑以第二玩家参与本游戏。这也是在该系列中唯一的不同。本作由[上海愛莉絲幻樂團](../Page/上海愛莉絲幻樂團.md "wikilink")的前身ZUN Soft开发，发布于[Comic Market](../Page/Comic_Market.md "wikilink")53。本作第一次允许挑选自机角色，[魔理沙和魅魔在本作中也可以被选用](../Page/霧雨魔理沙.md "wikilink")。
+[Phantasmagoria_of_Dim.Dream.png](https://zh.wikipedia.org/wiki/File:Phantasmagoria_of_Dim.Dream.png "fig:Phantasmagoria_of_Dim.Dream.png") 是[东方Project的第三部作品](https://zh.wikipedia.org/wiki/东方Project "wikilink")，虽然也是[弹幕射击游戏](https://zh.wikipedia.org/wiki/弹幕射击游戏 "wikilink")，但其他不同的是，它是对战模式——也就是双人参加或电脑以第二玩家参与本游戏。这也是在该系列中唯一的不同。本作由[上海愛麗絲幻樂團的前身ZUN](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團 "wikilink") Soft开发，发布于[Comic Market](../Page/Comic_Market.md "wikilink")53。本作第一次允许挑选自机角色，[魔理沙和魅魔在本作中也可以被选用](../Page/霧雨魔理沙.md "wikilink")。
 
 ## 游戏玩法
 
@@ -90,7 +90,7 @@
 20. ****（译名：勝利組 ） - 游戏胜利曲
 21. ****（译名：Game Over ） - 游戏失败曲
 
-收录于音乐专辑**「[幺乐团的历史 ～ Akyu's Untouched Score vol.4](https://zh.wikipedia.org/wiki/上海愛莉絲幻樂團#幺乐団の历史_〜_Akyu's_Untouched_Score_系列 "wikilink")」**和以重编的方式收录[东方怪绮谈 ～ Mystic Square.的音乐屋中](https://zh.wikipedia.org/wiki/东方怪绮谈_～_Mystic_Square. "wikilink")
+收录于音乐专辑**「[幺乐团的历史 ～ Akyu's Untouched Score vol.4](https://zh.wikipedia.org/wiki/上海愛麗絲幻樂團#幺乐団の历史_〜_Akyu's_Untouched_Score_系列 "wikilink")」**和以重编的方式收录[东方怪绮谈 ～ Mystic Square.的音乐屋中](https://zh.wikipedia.org/wiki/东方怪绮谈_～_Mystic_Square. "wikilink")
 
 除外，[东方怪绮谈 ～ Mystic Square.还包括了一些没在本作使用的曲目](https://zh.wikipedia.org/wiki/东方怪绮谈_～_Mystic_Square. "wikilink")：
 

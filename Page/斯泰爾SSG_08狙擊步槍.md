@@ -74,7 +74,7 @@ SBS槍機前方設有特殊安全套管，它在向後拉動帶動槍機向後�
 
 SSG 08具有三個可調節處。第一個是槍托上帶有（高度調整，有高度標記指示），不需要使用工具就可以調節高度，調節範圍在0—380[毫米](../Page/毫米.md "wikilink")（0—14.96[英吋](https://zh.wikipedia.org/wiki/英寸 "wikilink")）之內。槍托右側刻有1—10的刻度，方便使用者記住其適合高度。托腮板還可以調節其傾斜度，可以利用[扳手](../Page/扳手.md "wikilink")調節托腮板向右傾斜還是向左傾斜。
 
-第二個是槍托尾部的[橡膠](../Page/橡膠.md "wikilink")製緩衝墊狀[槍托底板](https://zh.wikipedia.org/wiki/槍托底板 "wikilink")（，高度調整），它可以進行上下調節，這樣使用者可以調整其抵肩高度。調節時只需要手動旋轉右側的旋鈕，就可以進行上下調節。槍托底板還可以更換以縮短或是增加槍托（以及全槍）的長度。
+第二個是槍托尾部的[橡膠](../Page/橡膠.md "wikilink")製狀[槍托底板](https://zh.wikipedia.org/wiki/槍托底板 "wikilink")（，高度調整），它可以進行上下調節，這樣使用者可以調整其抵肩高度。調節時只需要手動旋轉右側的旋鈕，就可以進行上下調節。槍托底板還可以更換以縮短或是增加槍托（以及全槍）的長度。
 
 第三個是槍托底板下方的伸縮式[後腳架](https://zh.wikipedia.org/wiki/後腳架 "wikilink")，可作為狙擊步槍的[駐鋤](https://zh.wikipedia.org/wiki/駐鋤 "wikilink")。後腳架與前端的[兩腳架相配合](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，可以讓SSG 08自行穩定在射擊位置上，這樣使用者可在執行觀察任務時充分休息，無需時時刻刻端著狙擊步槍，有助於保存體力。
 
@@ -235,7 +235,7 @@ SSG 08緊湊型（，意為：08式緊湊型狙擊步槍）是SSG 08的縮短型
 
   - —[輕兵器—系出名门续写辉煌——斯太尔SSG08高精度狙击步枪（一）](http://www.qbq.com.cn/a/bencandy.php?fid=35&id=1453)
 
-[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:.338_Lapua_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.338_Lapua_Magnum口徑槍械 "wikilink") [Category:.300_Winchester_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.300_Winchester_Magnum口徑槍械 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:.243_Winchester口徑槍械](https://zh.wikipedia.org/wiki/Category:.243_Winchester口徑槍械 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink")
+[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:.338_Lapua_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.338_Lapua_Magnum口徑槍械 "wikilink") [Category:.300_Winchester_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.300_Winchester_Magnum口徑槍械 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:.243溫徹斯特口徑槍械](https://zh.wikipedia.org/wiki/Category:.243溫徹斯特口徑槍械 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink")
 
 1.
 2.

@@ -2,9 +2,8 @@
 
 ## 簡介
 
-1978年10月16日，於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[澀谷](../Page/澀谷.md "wikilink")創立 Amuse，擁有員工198人（集團員工數264人）。
-創始人大里洋吉原為**渡邊事務所**之經紀人，因為路線的對立而獨立出來，憑借擁有[南方之星](../Page/南方之星.md "wikilink")等藝人，而開始培養女演員。
-在Amuse大股東中，個人持股數第一名是創始人**大里洋吉**、第四名大裡久仁子、第七名是前會長宮下昌之，第十位則是CCC（TSUTAYA）會長増田宗昭。
+1978年10月16日，於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[澀谷](../Page/澀谷.md "wikilink")創立Amuse。大里洋吉原為[渡邊事務所之經紀人](https://zh.wikipedia.org/wiki/渡邊事務所 "wikilink")，因為路線的對立而獨立創業，憑借擁有[南方之星](../Page/南方之星.md "wikilink")等藝人，而開始培養女演員。
+在Amuse大股東中，個人持股數第一名是創始人大里洋吉、第四名是大里久仁子、第七名是前會長宮下昌之，第十位則是CCC（TSUTAYA）會長增田宗昭。
 Amuse 與 [HORIPRO](../Page/Horipro.md "wikilink") 同為演藝界少數[上市的事務所](../Page/上市公司.md "wikilink")。以作為上市公司的 Amuse 為主體，還包括專門製作音樂軟體的  及製作、銷售影像軟體的 Amuse Entertainment。
 2014年9月，與 [Lantis](../Page/Lantis.md "wikilink") 和 [BANDAI NAMCO Live Creative](../Page/萬代影視.md "wikilink") 兩家公司就**動畫相關內容的海外發展**發表締結業務合作聲明\[1\]。海外拓展的內容包含了 **Lantis 旗下藝人**之演唱會及**動漫相關活動**（例如 [Lantis Festival](../Page/Lantis_Festival.md "wikilink") 和 [**Anisong World Matsuri**](http://www.anime-expo.org/anisong-world-matsuri-2017/)）的主辦權、且公開販售 Lantis 和 BANDAI NAMCO Live Creative 所有版權的動漫歌曲等（於 ASMART 上架，台灣地區由Yahoo奇摩超級商城代理）。
 2016年1月，再與 Lantis 合資設立 [AmuseLantis Europe S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink") ，同年4月啟用\[2\]，以拓展至[歐洲市場](https://zh.wikipedia.org/wiki/歐洲 "wikilink")。

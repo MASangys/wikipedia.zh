@@ -7,8 +7,6 @@
   -
     "The **atan2**() function calculates the [arc tangent](https://zh.wikipedia.org/wiki/arc_tangent "wikilink") of the two variables ***y*** and ***x***. It is similar to calculating the arc tangent of ***y*** / ***x***, except that the [signs](https://zh.wikipedia.org/wiki/positive_and_negative_numbers "wikilink") of both arguments are used to determine the [quadrant](https://zh.wikipedia.org/wiki/Cartesian_coordinate_system "wikilink") of the result."</ref>。
 
-## 工作原理
-
 ## 函数定义
 
 基于值域为 \(\left ( -\frac{\pi}{2}, \frac{\pi}{2} \right )\) 的[反正切](../Page/反正切.md "wikilink")函数，该函数定义如下：
@@ -27,6 +25,22 @@
   - 该函数的值域为\(\left ( -\pi,\pi \right ]\)，可以通过对负数结果加\(\pi\)的方法，将函数的结果映射到\(\left [ 0,2\pi\right )\)范围内。
 
 ## 其他软件中的变形
+
+vb6:
+
+atan2(x,y)
+
+# (x\<
+
+0)\*sgn(x)\*4\*Atn(1)\*sgn(y)^sgn(y)
+
+\-(x=0)\*sgn(y)\*2\*Atn(1)
+
+\-(x\<\>0)\*Atn(y\*x^(x\<\>0))
+
+adodb.connect.execute:
+
+SELECT (x\<=0)\*sgn(x)\*4\*Atn(1)\*sgn(y)^sgn(y)-(x=0)\*sgn(y)\*2\*Atn(1)-(x\<\>0)\*Atn(y\*x^(x\<\>0)) AS AT_ FROM (SELECT Col1 AS x,Col2 AS y) T_
 
 ## 有关图片
 

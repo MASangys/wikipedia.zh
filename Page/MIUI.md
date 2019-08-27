@@ -65,11 +65,10 @@
   - [小米MIX 2](../Page/小米MIX_2.md "wikilink")
   - [小米MIX 2S](../Page/小米MIX_2S.md "wikilink")
   - [小米MIX 3](../Page/小米MIX_3.md "wikilink")
-  - [小米Pocophone F1](https://zh.wikipedia.org/wiki/小米Pocophone_F1 "wikilink")
   - [小米Play](https://zh.wikipedia.org/wiki/小米Play "wikilink")
   - [小米CC9](https://zh.wikipedia.org/wiki/小米CC9 "wikilink")
   - [小米CC9e](https://zh.wikipedia.org/wiki/小米CC9e "wikilink")
-  - \[\[小米CC9（小仙女）］］
+  - [小米CC9 美图定制版](https://zh.wikipedia.org/wiki/小米CC9_美图定制版 "wikilink")
 
 #### 红米(Redmi)
 

@@ -470,6 +470,7 @@ Dailymotion</p></td>
 <a href="../Page/華視新聞資訊台.md" title="wikilink">華視新聞資訊台</a><br />
 <a href="../Page/公視主頻.md" title="wikilink">公視主頻</a><br />
 <a href="../Page/公視3台.md" title="wikilink">公視3台</a><br />
+<a href="../Page/YouTube.md" title="wikilink">YouTube</a><br />
 </p></td>
 <td><p>2019年12月31日19:00～2020年1月1日01:00</p></td>
 <td></td>
@@ -478,7 +479,8 @@ Dailymotion</p></td>
 <td><p>《2021臺北最HIGH新年城》</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p><a href="../Page/YouTube.md" title="wikilink">YouTube</a><br />
+</p></td>
 <td><p>2020年12月31日19:00～2021年1月1日01:00</p></td>
 <td></td>
 </tr>

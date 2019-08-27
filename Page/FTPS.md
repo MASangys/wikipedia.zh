@@ -16,13 +16,15 @@ SSL最終被應用到FTP，[RFC](../Page/RFC.md "wikilink")草案發表在1996�
 
 ## 使用模式
 
-有兩種使用模式被開發出來，顯式或隱式。顯式是兼顧相容的作法。隱式則必需在用戶端與伺服器端都開啟設定。
-
-### 顯式（Explicit）
+有兩種不同模式被開發出來，隱式和顯式。
 
 ### 隱式（Implicit）
 
-伺服器端在三向交握之後預設會使用與傳統 21 port 不同的 990 port 進行 SSL 加密傳輸。
+隐式模式FTPS下不支持协商是否使用加密，所有的连接数据均为加密。客户端必须先使用TLS Client Hello消息向FTPS服务器进行握手来建立加密连接。如果FTPS服务器未收到此类消息，则服务器应断开连接。 为了保持与现有的非FTPS感知客户端的兼容性，隐式FTPS默认在IANA规定的端口990/TCP上监听FTPS控制通道，并在端口989/TCP上监听FTPS数据通道\[5\]。这使得管理员可以保留端口(控制通道21/TCP与数据通道20/TCP)以兼容原始的FTP。 RFC4217中未定义隐式模式。因此，它被认为是FTP协商TLS/SSL中过时的早期方法。
+
+### 顯式（Explicit）
+
+显式模式（也称为FTPES），FTPS客户端先与服务器建立明文连接，然后从控制通道明确请求服务端升级为加密连接（Cmd: AUTH TLS）。 控制通道与数据通道默认端口与原始FTP一样。控制通道始终加密，而数据通道是否加密则为可选项。 同时若服务器未限制明文连接，也可以使用未加密的原始FTP进行连接，也就是说服务器在相同的端口上同时提供FTP与FTPS服务。
 
 ## 參考資料
 
@@ -32,3 +34,4 @@ SSL最終被應用到FTP，[RFC](../Page/RFC.md "wikilink")草案發表在1996�
 2.  [The SSL Protocol, Feb. 9th, 1995](http://www.mozilla.org/projects/security/pki/nss/ssl/draft02.html)
 3.  [RFC draft, Secure FTP Over SSL, revision 1996-11-26](http://tools.ietf.org/id/draft-murray-auth-ftp-ssl-00.txt)
 4.  [RFC-4217: Securing FTP with TLS](http://tools.ietf.org/html/rfc4217)
+5.

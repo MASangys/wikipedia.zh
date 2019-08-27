@@ -1,4 +1,4 @@
-**IEEE 802.1Q**以及**VLAN Tagging**屬於[網際網路下](https://zh.wikipedia.org/wiki/計算機網路 "wikilink")[IEEE 802.1的標準規範](https://zh.wikipedia.org/wiki/IEEE_802.1 "wikilink")，允許多個[网桥(Bridge)在信息不被外洩的情況下公開的共用同一個實體網路](https://zh.wikipedia.org/wiki/网桥 "wikilink")。IEEE 802.1Q -英文縮寫寫為dot1q，經常在實現[乙太網路](https://zh.wikipedia.org/wiki/乙太網 "wikilink")[封裝協議的架構下被提及](https://zh.wikipedia.org/wiki/封裝協議 "wikilink")。
+**IEEE 802.1Q**以及**VLAN Tagging**屬於[網際網路下](https://zh.wikipedia.org/wiki/計算機網路 "wikilink")[IEEE 802.1的標準規範](https://zh.wikipedia.org/wiki/IEEE_802.1 "wikilink")，允許多個[网桥在信息不被外洩的情況下公開的共用同一個實體網路](https://zh.wikipedia.org/wiki/网桥 "wikilink")。IEEE 802.1Q -英文縮寫寫為dot1q，經常在實現[乙太網路](https://zh.wikipedia.org/wiki/乙太網 "wikilink")[封裝協議的架構下被提及](https://zh.wikipedia.org/wiki/封裝協議 "wikilink")。
 
 IEEE 802.1Q定義一個關於[VLAN連接](https://zh.wikipedia.org/wiki/虛擬局域網 "wikilink")[介質訪問控制層和](../Page/数据链路层.md "wikilink")[IEEE 802.1D](https://zh.wikipedia.org/wiki/IEEE_802.1D "wikilink")[生成樹協議的具體概念模型](https://zh.wikipedia.org/wiki/生成樹協議 "wikilink")。這個模型允許各個獨立的VLAN以[以太网交换机的](https://zh.wikipedia.org/wiki/以太网交换机 "wikilink")[数据链路层](../Page/数据链路层.md "wikilink")或[路由器](../Page/路由器.md "wikilink")互相連接。
 

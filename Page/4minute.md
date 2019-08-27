@@ -10,7 +10,7 @@
 
 ### 2009年：以首張單曲出道、首张迷你专辑《For Muzik》
 
-5月14日，[Cube Entertainment公開新人女子團體](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")—4Minute。亦公佈了成員有隊長[智賢和前](https://zh.wikipedia.org/wiki/南智賢 "wikilink")[Wonder Girls成員](../Page/Wonder_Girls.md "wikilink")[泫雅](https://zh.wikipedia.org/wiki/泫雅 "wikilink")。6月13日，於網上公開了出道單曲《[Hot Issue](../Page/For_Muzik.md "wikilink")》的30秒音樂影像預告。其後6月15日公開《Hot Issue》的MV，成為搜索排行榜的第一名。6月18日，以出道曲《Hot Issue》在[Mnet的音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》進行首次登台演出，宣布正式出道，之後在8月初結束此次單曲的宣傳。8月20日，4Minute公開了首張韓語迷你專輯《[For Muzik](../Page/For_Muzik.md "wikilink")》，主打歌《Muzik》分別於出道的第101天，9月27日的《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》獲得了第一個1位及10月1日《M\! Countdown》第二個1位。專輯公開一星期後的8月27日，[KBS電視台對](https://zh.wikipedia.org/wiki/KBS "wikilink")《For Muzik》中收錄的《안줄래 (Won't Give You)》進行了評估，後被評為附有色情詞句的歌曲，在電視台禁播。其後10月18日，她們以後續曲《What A Girl Want》進行了短暫的宣傳。12月2日，4Minute公開與同門師兄[Mario合作錄製的聖誕數位單曲](https://zh.wikipedia.org/wiki/Mario "wikilink")《Jingle Jingle》，歌曲MV則在翌日公開。
+5月14日，[Cube Entertainment公開新人女子團體](https://zh.wikipedia.org/wiki/Cube_Entertainment "wikilink")—4Minute。亦公佈了成員有隊長[智賢和前](https://zh.wikipedia.org/wiki/南智賢 "wikilink")[Wonder Girls成員](../Page/Wonder_Girls.md "wikilink")[泫雅](https://zh.wikipedia.org/wiki/泫雅 "wikilink")。6月13日，於網上公開了出道單曲《[Hot Issue](../Page/For_Muzik.md "wikilink")》的30秒音樂影像預告。其後6月15日公開《Hot Issue》的MV，成為搜索排行榜的第一名。6月18日，以出道曲《Hot Issue》在[Mnet](../Page/Mnet.md "wikilink")的音樂節目《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》進行首次登台演出，宣布正式出道，之後在8月初結束此次單曲的宣傳。8月20日，4Minute公開了首張韓語迷你專輯《[For Muzik](../Page/For_Muzik.md "wikilink")》，主打歌《Muzik》分別於出道的第101天，9月27日的《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》獲得了第一個1位及10月1日《M\! Countdown》第二個1位。專輯公開一星期後的8月27日，[KBS電視台對](https://zh.wikipedia.org/wiki/KBS "wikilink")《For Muzik》中收錄的《안줄래 (Won't Give You)》進行了評估，後被評為附有色情詞句的歌曲，在電視台禁播。其後10月18日，她們以後續曲《What A Girl Want》進行了短暫的宣傳。12月2日，4Minute公開與同門師兄[Mario合作錄製的聖誕數位單曲](https://zh.wikipedia.org/wiki/Mario "wikilink")《Jingle Jingle》，歌曲MV則在翌日公開。
 
 ### 2010年：泫雅Solo出道、第二張迷你專輯《Hit Your Heart》
 
@@ -918,31 +918,31 @@
 | 年份    | 日期     | 電視台                                                     | 節目名稱                                                                   | 獲獎歌曲                | 排名 |
 | ----- | ------ | ------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------- | -- |
 | 2009年 | 9月27日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")                 | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Muzik               | 1位 |
-| 2009年 | 10月1日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
-| 2010年 | 6月17日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Huh                 | 1位 |
-| 2011年 | 4月21日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Mirror Mirror       | 1位 |
+| 2009年 | 10月1日  | [Mnet](../Page/Mnet.md "wikilink")                      | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
+| 2010年 | 6月17日  | [Mnet](../Page/Mnet.md "wikilink")                      | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Huh                 | 1位 |
+| 2011年 | 4月21日  | [Mnet](../Page/Mnet.md "wikilink")                      | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Mirror Mirror       | 1位 |
 | 2011年 | 12月23日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")     | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | 年終結算:第21位           |    |
 | 2012年 | 4月17日  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")       | [Show Champion](../Page/Show_Champion.md "wikilink")                   | Volume Up           | 1位 |
 | 2012年 | 4月24日  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")       | [Show Champion](../Page/Show_Champion.md "wikilink")                   |                     |    |
-| 2012年 | 5月3日   | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
+| 2012年 | 5月3日   | [Mnet](../Page/Mnet.md "wikilink")                      | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
 | 2012年 | 12月21日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")     | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | 年終結算:第20位           |    |
 | 2013年 | 5月8日   | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")       | [Show Champion](../Page/Show_Champion.md "wikilink")                   | What's Your Name?   | 1位 |
-| 2013年 | 5月9日   | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
+| 2013年 | 5月9日   | [Mnet](../Page/Mnet.md "wikilink")                      | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
 | 2013年 | 5月15日  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")       | [Show Champion](../Page/Show_Champion.md "wikilink")                   |                     |    |
-| 2013年 | 5月16日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
+| 2013年 | 5月16日  | [Mnet](../Page/Mnet.md "wikilink")                      | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
 | 2013年 | 5月19日  | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                     |    |
 | 2013年 | 5月22日  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")       | [Show Champion](../Page/Show_Champion.md "wikilink")                   |                     |    |
 | 2013年 | 5月26日  | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                     |    |
 | 2013年 | 7月14日  | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink") | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | 上半年結算:第1位           |    |
 | 2013年 | 12月20日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")     | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      | 年終結算:第6位            |    |
 | 2014年 | 3月30日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")                 | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Whatcha Doin' Today | 1位 |
-| 2014年 | 4月3日   | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
+| 2014年 | 4月3日   | [Mnet](../Page/Mnet.md "wikilink")                      | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
 | 2015年 | 2月18日  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")       | [Show Champion](../Page/Show_Champion.md "wikilink")                   | Crazy               | 1位 |
-| 2015年 | 2月19日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
+| 2015年 | 2月19日  | [Mnet](../Page/Mnet.md "wikilink")                      | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
 | 2015年 | 2月21日  | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")     | [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |                     |    |
 | 2015年 | 2月22日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")                 | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                     |    |
 | 2015年 | 2月25日  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")       | [Show Champion](../Page/Show_Champion.md "wikilink")                   |                     |    |
-| 2015年 | 2月26日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
+| 2015年 | 2月26日  | [Mnet](../Page/Mnet.md "wikilink")                      | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |                     |    |
 | 2015年 | 3月1日   | [SBS](../Page/SBS_\(韓國\).md "wikilink")                 | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |                     |    |
 |       |        |                                                         |                                                                        |                     |    |
 

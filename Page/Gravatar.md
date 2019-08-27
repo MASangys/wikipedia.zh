@@ -16,7 +16,7 @@
 
 [de:Avatar (Internet)\#Gravatar](https://zh.wikipedia.org/wiki/de:Avatar_\(Internet\)#Gravatar "wikilink")
 
-[Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:网站](https://zh.wikipedia.org/wiki/Category:网站 "wikilink")
+[Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink") [Category:Automattic](https://zh.wikipedia.org/wiki/Category:Automattic "wikilink")
 
 1.
 2.

@@ -1,4 +1,4 @@
- {{·}}[光熙](../Page/黃光熙.md "wikilink"){{·}}[時完](../Page/時完.md "wikilink"){{·}}[泰憲](https://zh.wikipedia.org/wiki/ZE:A#成員資料 "wikilink"){{·}}[熹哲](../Page/熹哲.md "wikilink"){{·}}[旼佑](../Page/旼佑.md "wikilink"){{·}}[炯植](../Page/朴炯植.md "wikilink"){{·}}[桐俊](../Page/金桐俊.md "wikilink") }}
+[光熙](../Page/黃光熙.md "wikilink"){{·}}[時完](../Page/時完.md "wikilink"){{•}}[李厚](../Page/李厚.md "wikilink"){{·}}[泰憲](https://zh.wikipedia.org/wiki/ZE:A#成員資料 "wikilink"){{·}}[熹哲](../Page/熹哲.md "wikilink"){{·}}[旼佑](../Page/旼佑.md "wikilink"){{·}}[炯植](../Page/朴炯植.md "wikilink"){{·}}[桐俊](../Page/金桐俊.md "wikilink") }}
 
 **ZE:A**（；），[韓國男子偶像團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")；於2010年1月15日正式出道，隸屬於[Star Empire Entertainment](../Page/明星帝國娛樂.md "wikilink")。
 
@@ -36,16 +36,16 @@ ZE:A在出道前，成員們均有演繹經驗，曾經為同門組合出演多�
 <td><p>漢字[5]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/李厚.md" title="wikilink">李厚</a></p></td>
-</tr>
-<tr class="even">
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/黃光熙.md" title="wikilink">光熙</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/時完.md" title="wikilink">時完</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/李厚.md" title="wikilink">李厚</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/ZE:A#成員資料" title="wikilink">泰憲</a></p></td>

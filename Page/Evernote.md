@@ -43,21 +43,96 @@ Evernote在线服务还允许用户选定笔记的共享与编辑功能，并可
 
 |url = <https://evernote.com/intl/zh-tw/pricing/> |title = 取得免費的 Evernote 入門版或升級到進階及專業版 | Evernote |accessdate = 2015-10-07 |author = |date = |publisher = evernote}}</ref>：
 
-|                                            | 入門版  | 進階版 | 專業版  |
-| ------------------------------------------ | ---- | --- | ---- |
-| 每月-{zh-tw:上傳限額; zh-cn:上传流量;}-              | 60MB | 1GB | 10GB |
-| 一键保存网页                                     | ✓    | ✓   | ✓    |
-| \-{zh-tw:在Evernote 分享討論; zh-cn:高效共享协作;}-   | ✓    | ✓   | ✓    |
-| \-{zh-tw:手機、平板、電腦全面同步; zh-cn:同步所有设备;}-     | ✓    | ✓   | ✓    |
-| \-{zh-tw:行動裝置上離線讀取筆記; zh-cn:离线访问笔记;}-      |      | ✓   | ✓    |
-| \-{zh-tw:設定行動裝置密碼鎖; zh-cn:手机密码锁定;}-        |      | ✓   | ✓    |
-| \-{zh-tw:將電子郵件存到Evernote; zh-cn:轻松保存邮件;}-  |      | ✓   | ✓    |
-| \-{zh-tw:搜尋Office 文件與附加檔案; zh-cn:文档深度搜索;}- |      |     | ✓    |
-| \-{zh-tw:化筆記為精美簡報; zh-cn:一键演示笔记;}-         |      |     | ✓    |
-| \-{zh-tw:標註PDF 檔; zh-cn:标注PDF文档;}-         |      |     | ✓    |
-| 智能名片扫描                                     |      |     | ✓    |
-| 笔记历史版本                                     |      |     | ✓    |
-| \-{zh-tw:推薦的延伸內容; zh-cn:推荐相关内容;}-          |      |     | ✓    |
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>入門版</p></th>
+<th><p>進階版</p></th>
+<th><p>專業版</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>每月-{zh-tw:上傳限額; zh-cn:上传流量;}-</p></td>
+<td><p>60MB</p></td>
+<td><p>1GB</p></td>
+<td><p>10GB</p></td>
+</tr>
+<tr class="even">
+<td><p>一键保存网页</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>-{zh-tw:在Evernote 分享討論; zh-cn:高效共享协作;}-</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>-{zh-tw:手機、平板、電腦全面同步; zh-cn:同步所有设备;}-</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>-{zh-tw:行動裝置上離線讀取筆記; zh-cn:离线访问笔记;}-</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>-{zh-tw:設定行動裝置密碼鎖; zh-cn:手机密码锁定;}-</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>-{zh-tw:將電子郵件存到Evernote; zh-cn:轻松保存邮件;}-</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>-{zh-tw:搜尋Office 文件與附加檔案; zh-cn:文档深度搜索;}-</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>-{zh-tw:化筆記為精美簡報; zh-cn:一键演示笔记;}-</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>-{zh-tw:標註PDF 檔; zh-cn:标注PDF文档;}-</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>智能名片扫描</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>笔记历史版本</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>-{zh-tw:推薦的延伸內容; zh-cn:推荐相关内容;}-</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 注：
 

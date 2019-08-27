@@ -10,7 +10,7 @@
   - 《微雨撲巴黎》的國語版本為《我只是個不擅等待的情人》。
   - 《夜生活》是改編自Karyn White主唱的《The Way You Love Me》。國語版本為《我的夜生活》。
   - 《前塵》是改編自[黃鶯鶯](../Page/黃鶯鶯.md "wikilink")主唱的《Paradise In My Heart》。國語版本為同名歌曲。
-  - 《怱怱》是改編自The Cover Girls主唱的《No One In This World》。國語版本為同名歌曲。
+  - 《匆匆》是改編自The Cover Girls主唱的《No One In This World》。國語版本為同名歌曲。
   - 《都市心》的國語版本為《誰是我的唯一》。
   - 《再不在乎》是改編自Michael Franks主唱的《On My Way Home to You》。
 

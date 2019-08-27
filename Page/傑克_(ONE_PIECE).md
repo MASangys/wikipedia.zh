@@ -1,4 +1,4 @@
-**香克斯**是[日本動漫作品](https://zh.wikipedia.org/wiki/日本動漫 "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》裡的其中一個角色。外號。「[四皇](https://zh.wikipedia.org/wiki/四皇 "wikilink")」之一。[紅髮海賊團的船長](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#紅髮海賊團 "wikilink")，亦是故事主角[「草帽小子」蒙其·D·魯夫從小就崇拜的偶像](../Page/蒙其·D·魯夫.md "wikilink")。在第221話的SBS專欄中，作者更是間接透露香克斯是他最喜歡的角色。特別是在每集單行本人物介紹都有他。
+**傑克**是[日本動漫作品](https://zh.wikipedia.org/wiki/日本動漫 "wikilink")《[ONE PIECE](../Page/ONE_PIECE.md "wikilink")》裡的其中一個角色。外號。「[四皇](https://zh.wikipedia.org/wiki/四皇 "wikilink")」之一。
 
 ## 人物
 
@@ -17,6 +17,10 @@
 
   -
     傑克性格豪爽，為人隨和，喜歡惡作劇（曾對幼年魯夫灌酒），凡事都向前看，樂觀程度極度嚴重，但是絕不允許自己的夥伴被任何人傷害。喜歡到處開派對，極愛喝酒，重視程度僅次於夥伴。
+
+<!-- end list -->
+
+  - [紅髮海賊團的船長](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#紅髮海賊團 "wikilink")，亦是故事主角[「草帽小子」蒙其·D·魯夫從小就崇拜的偶像](../Page/蒙其·D·魯夫.md "wikilink")。在第221話的SBS專欄中，作者更是間接透露傑克是他最喜歡的角色。特別是在每集單行本人物介紹都有他。
 
 <!-- end list -->
 

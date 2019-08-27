@@ -140,7 +140,7 @@
 </tr>
 <tr class="even">
 <td><p>2008年1月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/熱血男兒" title="wikilink">熱血男兒</a></p></td>
 <td><p>EP1-10（共10集）</p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>、<a href="../Page/2AM.md" title="wikilink">2AM</a>全體演出</p></td>
@@ -161,7 +161,7 @@
 </tr>
 <tr class="odd">
 <td><p>2009年6月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/It&#39;s_Time" title="wikilink">It's Time</a></p></td>
 <td><p>EP7（共7集）</p></td>
 <td></td>

@@ -1,4 +1,4 @@
-**SIG SSG 3000**是一枝由[西格輕武器公司](https://zh.wikipedia.org/wiki/SIG_Arms "wikilink")（現在是[西格&紹爾](../Page/西格&紹爾.md "wikilink")）以為藍本設計及制造的[旋轉後拉式槍機](../Page/手動槍機.md "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")，主要發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")／[.308 Winchester](../Page/.308_Winchester.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子弹](https://zh.wikipedia.org/wiki/子弹 "wikilink")。
+**SIG SSG 3000**是一款由[西格輕武器公司](https://zh.wikipedia.org/wiki/SIG_Arms "wikilink")（現在是[西格&紹爾](../Page/西格&紹爾.md "wikilink")）以為藍本設計及制造的[旋轉後拉式槍機](../Page/手動槍機.md "wikilink")[狙击步枪](https://zh.wikipedia.org/wiki/狙击步枪 "wikilink")，主要發射[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")／[.308 Winchester](../Page/.308_Winchester.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子弹](https://zh.wikipedia.org/wiki/子弹 "wikilink")。
 
 ## 歷史
 

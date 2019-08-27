@@ -1,6 +1,6 @@
 [AKB48_20090703_Japan_Expo_52.jpg](https://zh.wikipedia.org/wiki/File:AKB48_20090703_Japan_Expo_52.jpg "fig:AKB48_20090703_Japan_Expo_52.jpg")[日本博覽會](../Page/日本博覽會.md "wikilink")上表演的AKB48成員們。第一排左起為秋元才加、河西智美、大堀惠。\]\]
 
-本條目收錄**[AKB48](../Page/AKB48.md "wikilink")**的**成員**名單，包含現役成員與離隊成員，後者包括移籍姊妹團體者。AKB48現有5個分隊，分別為Team A、Team K、Team B、Team 4、Team 8與研究生，人數分別為20人、23人、23人、25人、46人與24人，成員總數為120人。AKB48還曾有6個正式的衍生團體，分別是[Chocolove from AKB48](../Page/Chocolove_from_AKB48.md "wikilink")、[no3b](https://zh.wikipedia.org/wiki/no3b "wikilink")、[走廊奔跑隊](https://zh.wikipedia.org/wiki/走廊奔跑隊 "wikilink")、[French Kiss](https://zh.wikipedia.org/wiki/French_Kiss_\(音樂團體\) "wikilink")、[Not yet和](../Page/Not_yet.md "wikilink")[DiVA](../Page/DiVA.md "wikilink")。
+本條目收錄**[AKB48](../Page/AKB48.md "wikilink")**的**成員**名單，包含現役成員與離隊成員，後者包括移籍姊妹團體者。AKB48現有5個分隊，分別為Team A、Team K、Team B、Team 4、Team 8與研究生，人數分別為17人、21人、21人、24人、37人與13人，成員總數為100人。AKB48還有过6個正式的衍生團體，分別是[Chocolove from AKB48](../Page/Chocolove_from_AKB48.md "wikilink")、[no3b](https://zh.wikipedia.org/wiki/no3b "wikilink")、[走廊奔跑隊](https://zh.wikipedia.org/wiki/走廊奔跑隊 "wikilink")、[French Kiss](https://zh.wikipedia.org/wiki/French_Kiss_\(音樂團體\) "wikilink")、[Not yet和](../Page/Not_yet.md "wikilink")[DiVA](../Page/DiVA.md "wikilink")。
 
 ## 現任成員
 
@@ -8,7 +8,7 @@
   - 选拔次数不计算AKB48在独立制作时期的《[櫻花花瓣](https://zh.wikipedia.org/wiki/櫻花花瓣 "wikilink")》和《[裙襬飄飄](../Page/裙襬飄飄.md "wikilink")》两张单曲。
   - 名單排列順序：先以前屬隊伍分類，再依加入AKB48的期數或48集團的時間排列，最後再依日文的50音排列，兼任成員則以加入48集團的時間排列。
 
-### 岡部Team A（18）
+### 岡部Team A（17）
 
 现編制的Team A經常會冠上隊長岡部麟的名義，而稱為「岡部Team A」，為第六代Team A，之前各代Team A也常冠以队长姓氏称呼，而分隊創立時的第一代Team A則會稱作「元Team A」（）或初代Team A。隊伍代表色為「粉紅色」。
 
@@ -107,14 +107,6 @@
 <td><p>未加入</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/後藤萌咲.md" title="wikilink">後藤萌咲</a></p></td>
-<td><p>選秀1期</p></td>
-<td><p>拉布拉多獵犬</p></td>
-<td><p>-</p></td>
-<td><p>未加入</p></td>
-<td><p>未加入</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/西川怜" title="wikilink">西川怜</a></p></td>
 <td><p>選秀2期</p></td>
 <td><p>11月的腳鏈</p></td>
@@ -122,7 +114,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -130,7 +122,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>高橋Team 4成員</p></td>
 <td></td>
 <td></td>
@@ -138,7 +130,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/千葉惠里" title="wikilink">千葉惠里</a></p></td>
 <td><p>選秀2期</p></td>
 <td><p><a href="../Page/Shoot_Sign.md" title="wikilink">Shoot Sign</a></p></td>
@@ -146,7 +138,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Team 8兼任成員</p></td>
 <td></td>
 <td></td>
@@ -154,7 +146,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/冈部麟" title="wikilink">冈部麟</a></strong></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
@@ -162,7 +154,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/小栗有以.md" title="wikilink">小栗有以</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
@@ -170,7 +162,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/下尾美羽" title="wikilink">下尾美羽</a></p></td>
 <td><p>2014年4月3日</p></td>
 <td><p>心意告示牌</p></td>
@@ -178,7 +170,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/吉田華恋" title="wikilink">吉田華恋</a></p></td>
 <td><p>2015年4月3日</p></td>
 <td><p>紅唇Be My Baby</p></td>
@@ -186,7 +178,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/奥本陽菜" title="wikilink">奥本陽菜</a></p></td>
 <td><p>2017年9月2日</p></td>
 <td><p><a href="../Page/Teacher_Teacher.md" title="wikilink">Teacher Teacher</a></p></td>
@@ -194,7 +186,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>组阁时自研究生升格</p></td>
 <td></td>
 <td></td>
@@ -202,7 +194,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/鈴木久留美" title="wikilink">鈴木久留美</a></p></td>
 <td><p>16期</p></td>
 <td><p>＃就是喜歡你</p></td>
@@ -210,7 +202,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/田口愛佳" title="wikilink">田口愛佳</a></p></td>
 <td><p>16期</p></td>
 <td><p>＃就是喜歡你</p></td>
@@ -218,7 +210,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/前田彩佳" title="wikilink">前田彩佳</a></p></td>
 <td><p>16期</p></td>
 <td><p>＃就是喜歡你</p></td>
@@ -226,7 +218,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年12月8日自研究生升格</p></td>
 <td></td>
 <td></td>
@@ -234,7 +226,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/山根涼羽" title="wikilink">山根涼羽</a></p></td>
 <td><p>16期</p></td>
 <td><p>＃就是喜歡你</p></td>
@@ -245,7 +237,7 @@
 </tbody>
 </table>
 
-### 込山Team K（19）
+### 込山Team K（21）
 
 现編制的Team K經常會冠上隊長込山榛香的名義，而稱為「込山Team K」，為第六代Team K，之前各代Team K也常冠以队长姓氏称呼，而由二期生組成、創隊時的第一代Team K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為「綠色」。
 
@@ -1012,7 +1004,7 @@
 </tbody>
 </table>
 
-### Team 8（38）
+### Team 8（37）
 
 「Team 8」於2014年4月3日正式披露，成員是由日本47個[都道府縣中各選出一名代表所組成](../Page/日本行政區劃.md "wikilink")，故成員满编时為47人，是AKB48的第5組分隊，合作企業為[TOYOTA](../Page/丰田汽车.md "wikilink")，是AKB48首組有企業[贊助的分隊](https://zh.wikipedia.org/wiki/贊助 "wikilink")\[1\]\[2\]。2014年5月起正式在日本全國20個地方活動，之後在同年8月5日首次在[AKB48劇場](../Page/AKB48劇場.md "wikilink")舉行公演\[3\]。隊伍代表色為「深藍色」，全員的經紀公司皆隸屬於AKS。當有Team 8成員畢業時，將會在該都道府縣舉辦徵選以補上缺額。此外，Team 8也是AKB48唯一沒有隊長制度的分隊。
 
@@ -1067,6 +1059,15 @@
 <td><p>圈外</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/秋田縣" title="wikilink">秋田</a></p></td>
+<td><p>（徵選中）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/岩手縣" title="wikilink">岩手</a></p></td>
 <td><p><a href="../Page/佐藤七海.md" title="wikilink">佐藤七海</a></p></td>
 <td><p>2014年4月3日</p></td>
@@ -1075,7 +1076,7 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/山形縣" title="wikilink">山形</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/御供茉白" title="wikilink">御供茉白</a></p></td>
 <td><p>2018年8月8日[4]</p></td>
@@ -1084,7 +1085,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/宫城縣" title="wikilink">宫城</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/佐藤朱_(AKB48)" title="wikilink">佐藤朱</a></p></td>
 <td><p>2014年4月3日</p></td>
@@ -1093,26 +1094,25 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/福岛縣" title="wikilink">福島</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/伊藤星彩" title="wikilink">伊藤星彩</a><br />
-（）</p></td>
-<td><p>2018年4月29日</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>未加入</p></td>
-<td><p>未加入</p></td>
+<td><p>（徵選中）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/關東地方.md" title="wikilink">關東</a></p></td>
 <td></td>
 <td></td>
@@ -1121,7 +1121,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/茨城縣.md" title="wikilink">茨城</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/冈部麟" title="wikilink">冈部麟</a></p></td>
 <td><p>2014年4月3日</p></td>
@@ -1130,7 +1130,7 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/栃木縣.md" title="wikilink">栃木</a></p></td>
 <td><p><a href="../Page/本田仁美.md" title="wikilink">本田仁美</a></p></td>
 <td><p>2014年4月3日</p></td>
@@ -1139,7 +1139,7 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/群马縣" title="wikilink">群馬</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/清水麻璃亚" title="wikilink">清水麻璃亚</a></p></td>
 <td><p>2014年4月3日</p></td>
@@ -1148,7 +1148,7 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/埼玉縣.md" title="wikilink">埼玉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/高桥彩音" title="wikilink">高桥彩音</a></p></td>
 <td><p>2014年4月3日</p></td>
@@ -1157,7 +1157,7 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/千叶縣" title="wikilink">千葉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吉川七瀨" title="wikilink">吉川七瀨</a></p></td>
 <td><p>2014年4月3日</p></td>
@@ -1166,7 +1166,7 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/東京都.md" title="wikilink">東京</a></p></td>
 <td><p><a href="../Page/小栗有以.md" title="wikilink">小栗有以</a></p></td>
 <td><p>2014年4月3日</p></td>
@@ -1175,7 +1175,7 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/神奈川縣.md" title="wikilink">神奈川</a></p></td>
 <td><p><br />
 （）</p></td>
@@ -1185,7 +1185,7 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/新潟縣" title="wikilink">新潟</a></p></td>
 <td><p>（徵選中）</p></td>
 <td></td>
@@ -1194,7 +1194,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/山梨縣" title="wikilink">山梨</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/左伴彩佳" title="wikilink">左伴彩佳</a></p></td>
 <td><p>2014年4月3日</p></td>
@@ -1203,7 +1203,7 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1212,7 +1212,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/中部地方.md" title="wikilink">中部</a></p></td>
 <td></td>
 <td></td>
@@ -1221,7 +1221,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/爱知縣" title="wikilink">愛知</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/歌田初夏" title="wikilink">歌田初夏</a></p></td>
 <td><p>2016年6月25日</p></td>
@@ -1230,7 +1230,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/静冈縣" title="wikilink">靜岡</a></p></td>
 <td><p>（徵選中）</p></td>
 <td></td>
@@ -1239,7 +1239,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/岐阜縣" title="wikilink">岐阜</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/服部有菜" title="wikilink">服部有菜</a></p></td>
 <td><p>2014年7月27日</p></td>
@@ -1248,7 +1248,7 @@
 <td><p>未加入</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/三重縣" title="wikilink">三重</a></p></td>
 <td><p>（徵選中）</p></td>
 <td></td>
@@ -1257,7 +1257,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/富山縣.md" title="wikilink">富山</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/桥本阳菜" title="wikilink">桥本阳菜</a></p></td>
 <td><p>2014年4月3日</p></td>
@@ -1266,7 +1266,7 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/石川縣.md" title="wikilink">石川</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/平野光" title="wikilink">平野光</a><br />
 （）</p></td>
@@ -1276,7 +1276,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/福井縣.md" title="wikilink">福井</a></p></td>
 <td><p>（徵選中）</p></td>
 <td></td>
@@ -1285,7 +1285,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/长野縣" title="wikilink">長野</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/高橋彩香" title="wikilink">高橋彩香</a></p></td>
 <td><p>2016年12月9日</p></td>
@@ -1294,7 +1294,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1303,7 +1303,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/關西地方" title="wikilink">關西</a></p></td>
 <td></td>
 <td></td>
@@ -1312,7 +1312,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/永野芹佳" title="wikilink">永野芹佳</a></p></td>
 <td><p>2014年4月3日</p></td>
@@ -1321,7 +1321,7 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/京都府" title="wikilink">京都</a></p></td>
 <td></td>
 <td><p>2014年4月3日</p></td>
@@ -1330,16 +1330,16 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/兵库縣" title="wikilink">兵庫</a></p></td>
-<td><p><a href="../Page/山田菜菜美.md" title="wikilink">山田菜菜美</a></p></td>
-<td><p>2014年4月3日</p></td>
-<td><p>心意告示牌</p></td>
-<td><p>1</p></td>
-<td><p>圈外</p></td>
-<td><p>圈外</p></td>
-</tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/兵库縣" title="wikilink">兵庫</a></p></td>
+<td><p>（徵選中）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/和歌山縣" title="wikilink">和歌山</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山本瑠香" title="wikilink">山本瑠香</a></p></td>
 <td><p>2014年4月3日</p></td>
@@ -1348,7 +1348,7 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/奈良縣" title="wikilink">奈良</a></p></td>
 <td><p><a href="../Page/大西桃香.md" title="wikilink">大西桃香</a></p></td>
 <td><p>2014年4月3日</p></td>
@@ -1357,7 +1357,7 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/滋贺縣" title="wikilink">滋賀</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/滨咲友菜" title="wikilink">滨咲友菜</a></p></td>
 <td><p>2014年4月3日</p></td>
@@ -1366,7 +1366,7 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1375,7 +1375,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/中国地方.md" title="wikilink">中國</a>、<a href="https://zh.wikipedia.org/wiki/四国地方" title="wikilink">四國</a></p></td>
 <td></td>
 <td></td>
@@ -1384,16 +1384,16 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鸟取縣" title="wikilink">鳥取</a></p></td>
-<td><p><a href="../Page/中野郁海.md" title="wikilink">中野郁海</a></p></td>
-<td><p>2014年4月3日</p></td>
-<td><p>心意告示牌</p></td>
-<td><p>2</p></td>
-<td><p>圈外</p></td>
-<td><p>圈外</p></td>
-</tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/鸟取縣" title="wikilink">鳥取</a></p></td>
+<td><p>（徵選中）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/岛根縣" title="wikilink">島根</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/奧原妃奈子" title="wikilink">奧原妃奈子</a><br />
 （）</p></td>
@@ -1403,7 +1403,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/冈山縣" title="wikilink">岡山</a></p></td>
 <td><p>（徵選中）</p></td>
 <td></td>
@@ -1412,7 +1412,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/廣島縣.md" title="wikilink">廣島</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/奧本陽菜" title="wikilink">奧本陽菜</a><br />
 （）</p></td>
@@ -1422,7 +1422,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/山口縣" title="wikilink">山口</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/下尾美羽" title="wikilink">下尾美羽</a><br />
 （）</p></td>
@@ -1432,7 +1432,7 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/德島縣" title="wikilink">德島</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/春本由紀" title="wikilink">春本由紀</a><br />
 （）</p></td>
@@ -1442,7 +1442,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/香川縣" title="wikilink">香川</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/行天优莉奈" title="wikilink">行天优莉奈</a></p></td>
 <td><p>2014年4月3日</p></td>
@@ -1451,7 +1451,7 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/爱媛縣" title="wikilink">愛媛</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/高冈薫" title="wikilink">高冈薫</a></p></td>
 <td><p>2014年4月3日</p></td>
@@ -1460,7 +1460,7 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/高知縣" title="wikilink">高知</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/立仙愛理" title="wikilink">立仙愛理</a></p></td>
 <td><p>2018年4月29日</p></td>
@@ -1469,7 +1469,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1478,7 +1478,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/九州_(日本).md" title="wikilink">九州</a>、<a href="https://zh.wikipedia.org/wiki/沖繩" title="wikilink">沖繩</a></p></td>
 <td></td>
 <td></td>
@@ -1487,7 +1487,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/福冈縣" title="wikilink">福岡</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吉田華恋" title="wikilink">吉田華恋</a></p></td>
 <td><p>2015年4月3日</p></td>
@@ -1496,7 +1496,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/佐贺縣" title="wikilink">佐賀</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/川原美咲" title="wikilink">川原美咲</a></p></td>
 <td><p>2017年8月8日</p></td>
@@ -1505,7 +1505,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/长崎縣" title="wikilink">長崎</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/寺田美咲" title="wikilink">寺田美咲</a></p></td>
 <td><p>2016年6月25日</p></td>
@@ -1514,7 +1514,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/熊本縣.md" title="wikilink">熊本</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/仓野尾成美" title="wikilink">仓野尾成美</a></p></td>
 <td><p>2014年4月3日</p></td>
@@ -1523,7 +1523,7 @@
 <td><p>圈外</p></td>
 <td><p>圈外</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/大分縣" title="wikilink">大分</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山田杏華" title="wikilink">山田杏華</a></p></td>
 <td><p>2017年3月20日</p></td>
@@ -1532,7 +1532,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/宫崎縣" title="wikilink">宮崎</a></p></td>
 <td><p>（征选中）</p></td>
 <td></td>
@@ -1541,7 +1541,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/鹿兒島縣" title="wikilink">鹿兒島</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/藤園麗" title="wikilink">藤園麗</a></p></td>
 <td><p>2018年10月20日</p></td>
@@ -1550,7 +1550,7 @@
 <td><p>未加入</p></td>
 <td><p>未加入</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/沖繩縣.md" title="wikilink">沖繩</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/宫里莉罗" title="wikilink">宫里莉罗</a></p></td>
 <td><p>2014年4月3日</p></td>
@@ -1577,7 +1577,7 @@
 | Team 4                                                |      |        |      |                  |      |    |
 | [本間麻衣](https://zh.wikipedia.org/wiki/本間麻衣 "wikilink") | 16期  | ＃就是喜歡你 | \-   | 未加入              | 圈外   | 圈外 |
 
-  - 選秀研究生（13）
+  - 選秀研究生（10人）
 
 <table>
 <thead>
@@ -2074,7 +2074,7 @@ AKB48各隊創隊後至第一次組閣前，雖未正式設立隊長職位，但
   - 只要有參加選拔單曲，選拔次數便會計入，其中包含移籍姐妹组合之成員、終止兼任AKB48之成員與已畢業成員（期間限定加入之成員除外）。
   - 关于2015年招募的AKB48台湾研究生，请参考[TPE48\#AKB48台湾研究生一节](https://zh.wikipedia.org/wiki/TPE48#AKB48台湾研究生 "wikilink")。
 
-### Team A（43）
+### Team A（44）
 
 <table>
 <thead>
@@ -2735,14 +2735,14 @@ Team A第一、四任隊長<br />
 <td><p>-</p></td>
 <td><p>圈外</p></td>
 <td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>畢業（預定）</p></td>
-<td><p>[121]</p></td>
+<td><p>8月13日</p></td>
+<td><p>畢業</p></td>
+<td><p>[121][122]</p></td>
 </tr>
 </tbody>
 </table>
 
-### Team K（34）
+### Team K（36）
 
 <table>
 <thead>
@@ -2782,7 +2782,7 @@ Team A第一、四任隊長<br />
 <td><p>office48</p></td>
 <td><p>6月17日</p></td>
 <td><p>退出</p></td>
-<td><p>[122]</p></td>
+<td><p>[123]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007年</p></td>
@@ -2804,7 +2804,7 @@ Team A第一、四任隊長<br />
 <td><p>office48</p></td>
 <td><p>6月22日</p></td>
 <td><p>畢業</p></td>
-<td><p>[123]</p></td>
+<td><p>[124]</p></td>
 </tr>
 <tr class="odd">
 <td><p>高田彩奈</p></td>
@@ -2837,14 +2837,14 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>4月26日</p></td>
 <td><p>畢業</p></td>
-<td><p>[124]</p></td>
+<td><p>[125]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/成瀨理沙.md" title="wikilink">成瀨理沙</a></p></td>
 <td><p>4期</p></td>
 <td><p><a href="../Page/妳正在看著夕陽嗎？.md" title="wikilink">妳正在看著夕陽嗎？</a></p></td>
 <td><p>5月24日</p></td>
-<td><p>[125]</p></td>
+<td><p>[126]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2870,8 +2870,8 @@ Team A第一、四任隊長<br />
 <td><p>太田製作</p></td>
 <td><p>2月21日</p></td>
 <td><p>移籍SDN48</p></td>
-<td><p>[126]<br />
-2012年3月31日，SDN48全體畢業[127]</p></td>
+<td><p>[127]<br />
+2012年3月31日，SDN48全體畢業[128]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/大堀惠.md" title="wikilink">大堀惠</a></p></td>
@@ -2892,9 +2892,9 @@ Team A第一、四任隊長<br />
 <td><p>太田製作</p></td>
 <td><p>9月27日</p></td>
 <td><p>畢業</p></td>
-<td><p>[128]<br />
-之後加入<a href="../Page/LesPros娛樂.md" title="wikilink">LesPros娛樂</a>復出演藝圈[129]<br />
-2014年7月15日自演藝圈引退[130]</p></td>
+<td><p>[129]<br />
+之後加入<a href="../Page/LesPros娛樂.md" title="wikilink">LesPros娛樂</a>復出演藝圈[130]<br />
+2014年7月15日自演藝圈引退[131]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2917,7 +2917,7 @@ Team A第一、四任隊長<br />
 <td><p>Artist-house Pyramid</p></td>
 <td><p>2月5日</p></td>
 <td><p>请辞</p></td>
-<td><p>[131][132]</p></td>
+<td><p>[132][133]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/光宗薰.md" title="wikilink">光宗薰</a></p></td>
@@ -2929,7 +2929,7 @@ Team A第一、四任隊長<br />
 <td><p>10月24日</p></td>
 <td><p>請辭</p></td>
 <td><p>原定升格至Team K，於配屬前離團<br />
-[133]</p></td>
+[134]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/增田有華.md" title="wikilink">增田有華</a></p></td>
@@ -2940,7 +2940,7 @@ Team A第一、四任隊長<br />
 <td><p>office48</p></td>
 <td><p>12月17日</p></td>
 <td><p>畢業</p></td>
-<td><p>[134]</p></td>
+<td><p>[135]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年</p></td>
@@ -2962,7 +2962,7 @@ Team A第一、四任隊長<br />
 <td><p>Mousa</p></td>
 <td><p>3月6日</p></td>
 <td><p>畢業</p></td>
-<td><p>[135][136]</p></td>
+<td><p>[136][137]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/宮澤佐江.md" title="wikilink">宮澤佐江</a></p></td>
@@ -2973,7 +2973,7 @@ Team A第一、四任隊長<br />
 <td><p>office48</p></td>
 <td><p>6月24日</p></td>
 <td><p>解除兼任</p></td>
-<td><p>SKE48 Team S第三任隊長[137]<br />
+<td><p>SKE48 Team S第三任隊長[138]<br />
 </p></td>
 </tr>
 <tr class="even">
@@ -2983,7 +2983,7 @@ Team A第一、四任隊長<br />
 <td><p>尾木製作</p></td>
 <td><p>7月7日</p></td>
 <td><p>畢業</p></td>
-<td><p>[138]</p></td>
+<td><p>[139]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2995,7 +2995,7 @@ Team A第一、四任隊長<br />
 <td><p>4</p></td>
 <td><p>Horipro</p></td>
 <td><p>8月27日</p></td>
-<td><p>[139]</p></td>
+<td><p>[140]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3007,7 +3007,7 @@ Team A第一、四任隊長<br />
 <td><p>FLAVE ENTERTAINMENT</p></td>
 <td><p>8月28日</p></td>
 <td><p>Team K第一任隊長<br />
-[140]</p></td>
+[141]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3030,8 +3030,8 @@ Team A第一、四任隊長<br />
 <td><p><a href="../Page/伊藤公司.md" title="wikilink">伊藤公司</a></p></td>
 <td><p>4月16日</p></td>
 <td><p>移籍JKT48</p></td>
-<td><p>[141]<br />
-2018年3月25日自JKT48畢業[142]</p></td>
+<td><p>[142]<br />
+2018年3月25日自JKT48畢業[143]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/大島優子.md" title="wikilink">大島優子</a></p></td>
@@ -3043,7 +3043,7 @@ Team A第一、四任隊長<br />
 <td><p>6月9日</p></td>
 <td><p>畢業</p></td>
 <td><p>Team K第二任隊長<br />
-[143][144]</p></td>
+[144][145]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/佐藤亞美菜.md" title="wikilink">佐藤亞美菜</a></p></td>
@@ -3076,7 +3076,7 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>5月30日</p></td>
 <td><p>畢業</p></td>
-<td><p>[145]</p></td>
+<td><p>[146]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/北原里英.md" title="wikilink">北原里英</a></p></td>
@@ -3087,8 +3087,8 @@ Team A第一、四任隊長<br />
 <td><p>太田製作</p></td>
 <td><p>8月26日</p></td>
 <td><p>移籍<a href="../Page/NGT48.md" title="wikilink">NGT48</a></p></td>
-<td><p>NGT48 Team NIII第一任隊長[146]<br />
-2018年4月18日自NGT48畢業[147]</p></td>
+<td><p>NGT48 Team NIII第一任隊長[147]<br />
+2018年4月18日自NGT48畢業[148]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/松井珠理奈.md" title="wikilink">松井珠理奈</a></p></td>
@@ -3099,7 +3099,7 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>12月24日</p></td>
 <td><p>解除兼任</p></td>
-<td><p>[148]</p></td>
+<td><p>[149]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3122,7 +3122,7 @@ Team A第一、四任隊長<br />
 <td></td>
 <td><p>5月1日</p></td>
 <td><p>畢業</p></td>
-<td><p>[149]</p></td>
+<td><p>[150]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/永尾瑪利亞.md" title="wikilink">永尾瑪利亞</a></p></td>
@@ -3131,7 +3131,7 @@ Team A第一、四任隊長<br />
 <td><p>1</p></td>
 <td><p>35</p></td>
 <td></td>
-<td><p>[150]</p></td>
+<td><p>[151]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3145,7 +3145,7 @@ Team A第一、四任隊長<br />
 <td><p>京樂吉本</p></td>
 <td><p>5月26日</p></td>
 <td><p>解除兼任</p></td>
-<td><p>[151]</p></td>
+<td><p>[152]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/石田晴香.md" title="wikilink">石田晴香</a></p></td>
@@ -3156,7 +3156,7 @@ Team A第一、四任隊長<br />
 <td><p>Horipro</p></td>
 <td><p>6月5日</p></td>
 <td><p>畢業</p></td>
-<td><p>[152]</p></td>
+<td><p>[153]</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
@@ -3178,7 +3178,7 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>3月21日</p></td>
 <td><p>畢業</p></td>
-<td><p>[153]</p></td>
+<td><p>[154]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/中田千智.md" title="wikilink">中田千智</a></p></td>
@@ -3187,7 +3187,7 @@ Team A第一、四任隊長<br />
 <td><p>1</p></td>
 <td><p>AKS</p></td>
 <td><p>4月24日</p></td>
-<td><p>[154]</p></td>
+<td><p>[155]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3198,7 +3198,7 @@ Team A第一、四任隊長<br />
 <td><p>-</p></td>
 <td><p>FLAVE ENTERTAINMENT</p></td>
 <td><p>6月10日</p></td>
-<td><p>[155]</p></td>
+<td><p>[156]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3210,7 +3210,7 @@ Team A第一、四任隊長<br />
 <td><p>FLAVE ENTERTAINMENT</p></td>
 <td><p>11月13日</p></td>
 <td><p>Team K第二任副隊長<br />
-[156]</p></td>
+[157]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3222,7 +3222,7 @@ Team A第一、四任隊長<br />
 <td><p><a href="../Page/日本音樂娛樂.md" title="wikilink">日本音樂娛樂</a></p></td>
 <td><p>11月30日</p></td>
 <td><p>移籍<a href="https://zh.wikipedia.org/wiki/TPE48" title="wikilink">TPE48</a></p></td>
-<td><p>[157][158]</p></td>
+<td><p>[158][159]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3257,7 +3257,7 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>8月12日</p></td>
 <td><p>畢業</p></td>
-<td><p>[159]</p></td>
+<td><p>[160]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
@@ -3279,7 +3279,7 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>1月7日</p></td>
 <td><p>畢業</p></td>
-<td><p>[160][161]</p></td>
+<td><p>[161][162]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/野澤玲奈.md" title="wikilink">野澤玲奈</a></p></td>
@@ -3290,7 +3290,7 @@ Team A第一、四任隊長<br />
 <td><p>圈外</p></td>
 <td><p>AKS</p></td>
 <td><p>5月6日</p></td>
-<td><p>[162]</p></td>
+<td><p>[163]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3301,7 +3301,7 @@ Team A第一、四任隊長<br />
 <td><p>19</p></td>
 <td></td>
 <td><p>5月12日</p></td>
-<td><p>[163][164]</p></td>
+<td><p>[164][165]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -3347,7 +3347,7 @@ Team A第一、四任隊長<br />
 <td><p>office48</p></td>
 <td><p>10月2日</p></td>
 <td><p>畢業</p></td>
-<td><p>[165]</p></td>
+<td><p>[166]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2008年</p></td>
@@ -3369,7 +3369,7 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>9月29日</p></td>
 <td><p>畢業</p></td>
-<td><p>[166]</p></td>
+<td><p>[167]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2009年</p></td>
@@ -3391,11 +3391,11 @@ Team A第一、四任隊長<br />
 <td><p>AKS</p></td>
 <td><p>2月1日</p></td>
 <td><p>畢業</p></td>
-<td><p>[167]</p></td>
+<td><p>[168]</p></td>
 </tr>
 <tr class="odd">
 <td><p>松岡由紀</p></td>
-<td><p>[168]</p></td>
+<td><p>[169]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3409,7 +3409,7 @@ Team A第一、四任隊長<br />
 <td><p>4期</p></td>
 <td><p>圈外</p></td>
 <td><p>8月23日</p></td>
-<td><p>[169]<br />
+<td><p>[170]<br />
 </p></td>
 <td></td>
 <td></td>
@@ -3436,8 +3436,8 @@ Team A第一、四任隊長<br />
 <td><p>尾木製作</p></td>
 <td><p>4月16日</p></td>
 <td><p>移籍SDN48</p></td>
-<td><p>[170][171]<br />
-2012年3月31日，SDN48全體畢業[172]</p></td>
+<td><p>[171][172]<br />
+2012年3月31日，SDN48全體畢業[173]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/小原春香.md" title="wikilink">小原春香</a></p></td>
@@ -3470,7 +3470,7 @@ Team A第一、四任隊長<br />
 <td><p>office48</p></td>
 <td><p>6月19日</p></td>
 <td><p>畢業</p></td>
-<td><p>[173]</p></td>
+<td><p>[174]</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年</p></td>
@@ -3492,7 +3492,7 @@ Team A第一、四任隊長<br />
 <td><p>尾木制作</p></td>
 <td><p>2月5日</p></td>
 <td><p>请辞</p></td>
-<td><p>[174][175]</p></td>
+<td><p>[175][176]</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
@@ -3526,7 +3526,7 @@ Team A第一、四任隊長<br />
 <td><p>尾木製作</p></td>
 <td><p>7月7日</p></td>
 <td><p>畢業</p></td>
-<td><p>[176][177]</p></td>
+<td><p>[177][178]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
@@ -3549,8 +3549,8 @@ Team A第一、四任隊長<br />
 <td><p>4月23日</p></td>
 <td><p>移籍<a href="../Page/NMB48.md" title="wikilink">NMB48</a></p></td>
 <td><p>Team B第二任隊長<br />
-NMB48 Team BII第一任副隊長[178]<br />
-2016年3月31日自NMB48畢業[179]</p></td>
+NMB48 Team BII第一任副隊長[179]<br />
+2016年3月31日自NMB48畢業[180]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/藤江麗奈.md" title="wikilink">藤江麗奈</a></p></td>
@@ -3559,8 +3559,8 @@ NMB48 Team BII第一任副隊長[178]<br />
 <td><p>5</p></td>
 <td><p>32</p></td>
 <td><p>伊藤公司</p></td>
-<td><p>NMB48 Team M第三任隊長[180]<br />
-2017年5月27日自NMB48畢業[181]</p></td>
+<td><p>NMB48 Team M第三任隊長[181]<br />
+2017年5月27日自NMB48畢業[182]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3573,8 +3573,8 @@ NMB48 Team BII第一任副隊長[178]<br />
 <td><p><a href="../Page/日本音樂娛樂.md" title="wikilink">日本音樂娛樂</a></p></td>
 <td><p>移籍SKE48</p></td>
 <td><p>Team 4第一任隊長<br />
-SKE48 Team KII第一任副隊長[182]<br />
-現為SKE48 Team KII第三任隊長[183]</p></td>
+SKE48 Team KII第一任副隊長[183]<br />
+現為SKE48 Team KII第三任隊長[184]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3584,7 +3584,7 @@ SKE48 Team KII第一任副隊長[182]<br />
 <td><p>2</p></td>
 <td><p>36</p></td>
 <td><p>Horipro</p></td>
-<td><p>現為SKE48 Team S成員[184]</p></td>
+<td><p>現為SKE48 Team S成員[185]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3596,8 +3596,8 @@ SKE48 Team KII第一任副隊長[182]<br />
 <td><p>39</p></td>
 <td><p>尾木製作</p></td>
 <td><p>移籍NMB48</p></td>
-<td><p>2014年4月23日移籍[185]<br />
-2018年5月1日自NMB48畢業[186][187]</p></td>
+<td><p>2014年4月23日移籍[186]<br />
+2018年5月1日自NMB48畢業[187][188]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3609,7 +3609,7 @@ SKE48 Team KII第一任副隊長[182]<br />
 <td><p>尾木製作</p></td>
 <td><p>9月23日</p></td>
 <td><p>畢業</p></td>
-<td><p>[188]</p></td>
+<td><p>[189]</p></td>
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
@@ -3632,9 +3632,9 @@ SKE48 Team KII第一任副隊長[182]<br />
 <td><p>乃木坂46 LLC</p></td>
 <td><p>5月14日</p></td>
 <td><p>解除兼任</p></td>
-<td><p>[189]<br />
-[190]<br />
-2018年5月6日自乃木坂46畢業[191]</p></td>
+<td><p>[190]<br />
+[191]<br />
+2018年5月6日自乃木坂46畢業[192]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/橋本耀.md" title="wikilink">橋本耀</a></p></td>
@@ -3645,7 +3645,7 @@ SKE48 Team KII第一任副隊長[182]<br />
 <td><p>AKS</p></td>
 <td><p>8月9日</p></td>
 <td><p>畢業</p></td>
-<td><p>[192]</p></td>
+<td><p>[193]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/倉持明日香.md" title="wikilink">倉持明日香</a></p></td>
@@ -3656,7 +3656,7 @@ SKE48 Team KII第一任副隊長[182]<br />
 <td></td>
 <td><p>8月17日</p></td>
 <td><p>Team B第三任隊長<br />
-[193][194]</p></td>
+[194][195]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3667,7 +3667,7 @@ SKE48 Team KII第一任副隊長[182]<br />
 <td><p>圈外</p></td>
 <td><p>AKS</p></td>
 <td><p>10月25日</p></td>
-<td><p>[195]</p></td>
+<td><p>[196]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3690,7 +3690,7 @@ SKE48 Team KII第一任副隊長[182]<br />
 <td><p>AKS</p></td>
 <td><p>2月21日</p></td>
 <td><p>畢業</p></td>
-<td><p>[196]</p></td>
+<td><p>[197]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/小林香菜.md" title="wikilink">小林香菜</a></p></td>
@@ -3700,7 +3700,7 @@ SKE48 Team KII第一任副隊長[182]<br />
 <td><p>圈外</p></td>
 <td><p>FLAVE ENTERTAINMENT</p></td>
 <td><p>3月31日</p></td>
-<td><p>[197]</p></td>
+<td><p>[198]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3711,7 +3711,7 @@ SKE48 Team KII第一任副隊長[182]<br />
 <td><p>33</p></td>
 <td><p><a href="../Page/長良製作.md" title="wikilink">長良製作</a></p></td>
 <td><p>5月21日</p></td>
-<td><p>[198]</p></td>
+<td><p>[199]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3747,7 +3747,7 @@ SKE48 Team KII第一任副隊長[182]<br />
 <td><p>AKS</p></td>
 <td><p>3月22日</p></td>
 <td><p>畢業</p></td>
-<td><p>[199]</p></td>
+<td><p>[200]</p></td>
 </tr>
 <tr class="even">
 <td><p>橫島亞衿</p></td>
@@ -3757,7 +3757,7 @@ SKE48 Team KII第一任副隊長[182]<br />
 <td><p>-</p></td>
 <td><p>圈外</p></td>
 <td><p>6月5日</p></td>
-<td><p>[200]</p></td>
+<td><p>[201]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3769,7 +3769,7 @@ SKE48 Team KII第一任副隊長[182]<br />
 <td><p>32</p></td>
 <td><p>6月8日</p></td>
 <td><p>Team B第二任副隊長<br />
-[201]</p></td>
+[202]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3780,7 +3780,7 @@ SKE48 Team KII第一任副隊長[182]<br />
 <td><p>1</p></td>
 <td><p>71</p></td>
 <td><p>7月23日</p></td>
-<td><p>[202]</p></td>
+<td><p>[203]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3793,7 +3793,7 @@ SKE48 Team KII第一任副隊長[182]<br />
 <td><p>22</p></td>
 <td><p>9月30日</p></td>
 <td><p>Team B第四任隊長<br />
-[203][204][205]</p></td>
+[204][205][206]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -3805,7 +3805,7 @@ SKE48 Team KII第一任副隊長[182]<br />
 <td><p>1</p></td>
 <td><p>尾木製作</p></td>
 <td><p>12月31日</p></td>
-<td><p>[206]</p></td>
+<td><p>[207]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3851,7 +3851,7 @@ SKE48 Team KII第一任副隊長[182]<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/Mystic_Story" title="wikilink">Mystic Story</a></p></td>
 <td><p>5月6日</p></td>
 <td><p>畢業</p></td>
-<td><p>[207][208]</p></td>
+<td><p>[208][209]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/高橋朱里.md" title="wikilink">高橋朱里</a></p></td>
@@ -3862,14 +3862,14 @@ SKE48 Team KII第一任副隊長[182]<br />
 <td><p>AKS</p></td>
 <td><p>Team 4第四任隊長<br />
 Team B第五任隊長<br />
-將加入韓國<a href="../Page/Woollim娛樂.md" title="wikilink">Woollim娛樂</a>，以女團成員身分出道[209][210]</p></td>
+后加入韓國<a href="../Page/Woollim娛樂.md" title="wikilink">Woollim娛樂</a>，以<a href="../Page/Rocket_Punch.md" title="wikilink">Rocket Punch成員身分出道</a>[210][211]</p></td>
 <td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-### Team 4（15）
+### Team 4（16）
 
 <table>
 <thead>
@@ -3909,7 +3909,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>9月2日</p></td>
 <td><p>請辭</p></td>
-<td><p>[211]</p></td>
+<td><p>[212]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
@@ -3931,7 +3931,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>12月27日</p></td>
 <td><p>畢業</p></td>
-<td><p>[212]</p></td>
+<td><p>[213]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
@@ -3965,7 +3965,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>8月9日</p></td>
 <td><p>畢業</p></td>
-<td><p>[213]</p></td>
+<td><p>[214]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/土保瑞希.md" title="wikilink">土保瑞希</a></p></td>
@@ -3983,7 +3983,7 @@ Team B第五任隊長<br />
 <td><p>10期</p></td>
 <td><p>變成櫻花樹</p></td>
 <td><p>1</p></td>
-<td><p>[214]</p></td>
+<td><p>[215]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4009,7 +4009,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>2月14日</p></td>
 <td><p>畢業</p></td>
-<td><p>|[215]</p></td>
+<td><p>|[216]</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
@@ -4031,7 +4031,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>3月27日</p></td>
 <td><p>畢業</p></td>
-<td><p>[216]</p></td>
+<td><p>[217]</p></td>
 </tr>
 <tr class="even">
 <td><p>岡田彩花</p></td>
@@ -4040,7 +4040,7 @@ Team B第五任隊長<br />
 <td><p>-</p></td>
 <td><p>57</p></td>
 <td><p>6月22日</p></td>
-<td><p>[217]</p></td>
+<td><p>[218]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -4052,7 +4052,7 @@ Team B第五任隊長<br />
 <td><p>圈外</p></td>
 <td><p>7月2日</p></td>
 <td><p>移籍<a href="../Page/BNK48.md" title="wikilink">BNK48</a></p></td>
-<td><p>[218][219]</p></td>
+<td><p>[219][220]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -4075,7 +4075,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>1月22日</p></td>
 <td><p>畢業</p></td>
-<td><p>[220][221]</p></td>
+<td><p>[221][222]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/朝長美櫻.md" title="wikilink">朝長美櫻</a></p></td>
@@ -4122,7 +4122,7 @@ Team B第五任隊長<br />
 <td><p>-</p></td>
 <td><p>12月3日</p></td>
 <td><p>畢業</p></td>
-<td><p>[222]</p></td>
+<td><p>[223]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
@@ -4144,7 +4144,7 @@ Team B第五任隊長<br />
 <td><p>-</p></td>
 <td><p>4月7日</p></td>
 <td><p>畢業</p></td>
-<td><p>[223]</p></td>
+<td><p>[224]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -4160,7 +4160,7 @@ Team B第五任隊長<br />
 </tbody>
 </table>
 
-### Team 8（17）
+### Team 8（28）
 
 <table>
 <thead>
@@ -4202,7 +4202,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>6月18日</p></td>
 <td><p>請辭</p></td>
-<td><p>[224]</p></td>
+<td><p>[225]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
@@ -4226,7 +4226,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>1月26日</p></td>
 <td><p>請辭</p></td>
-<td><p>[225]</p></td>
+<td><p>[226]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年</p></td>
@@ -4250,7 +4250,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>4月3日</p></td>
 <td><p>畢業</p></td>
-<td><p>[226]</p></td>
+<td><p>[227]</p></td>
 </tr>
 <tr class="odd">
 <td><p>長崎</p></td>
@@ -4269,7 +4269,7 @@ Team B第五任隊長<br />
 <td><p>山本亞依</p></td>
 <td><p>-</p></td>
 <td><p>5月7日</p></td>
-<td><p>[227]</p></td>
+<td><p>[228]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4281,7 +4281,7 @@ Team B第五任隊長<br />
 <td><p>北玲名</p></td>
 <td><p>-</p></td>
 <td><p>10月8日</p></td>
-<td><p>[228]</p></td>
+<td><p>[229]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4322,14 +4322,14 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>1月29日</p></td>
 <td><p>畢業</p></td>
-<td><p>[229]</p></td>
+<td><p>[230]</p></td>
 </tr>
 <tr class="odd">
 <td><p>佐賀</p></td>
 <td><p>福地禮奈</p></td>
 <td><p>-</p></td>
 <td><p>5月13日</p></td>
-<td><p>[230]</p></td>
+<td><p>[231]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4341,7 +4341,7 @@ Team B第五任隊長<br />
 <td><p>谷優里</p></td>
 <td><p>-</p></td>
 <td><p>6月24日</p></td>
-<td><p>[231]</p></td>
+<td><p>[232]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4353,7 +4353,7 @@ Team B第五任隊長<br />
 <td><p>濱松里緒菜</p></td>
 <td><p>-</p></td>
 <td><p>7月2日</p></td>
-<td><p>[232]</p></td>
+<td><p>[233]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4365,7 +4365,7 @@ Team B第五任隊長<br />
 <td><p>阿部芽唯</p></td>
 <td><p>-</p></td>
 <td><p>8月20日</p></td>
-<td><p>[233]</p></td>
+<td><p>[234]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4394,14 +4394,14 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>2月18日</p></td>
 <td><p>畢業</p></td>
-<td><p>[234][235]</p></td>
+<td><p>[235][236]</p></td>
 </tr>
 <tr class="odd">
 <td><p>高知</p></td>
 <td><p>廣瀨夏樹</p></td>
 <td><p>-</p></td>
 <td><p>3月4日</p></td>
-<td><p>[236][237]</p></td>
+<td><p>[237][238]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4413,7 +4413,7 @@ Team B第五任隊長<br />
 <td><p><a href="../Page/早坂紬.md" title="wikilink">早坂紬</a></p></td>
 <td><p>-</p></td>
 <td><p>4月20日</p></td>
-<td><p>毕业前兼任Team A[238][239]</p></td>
+<td><p>毕业前兼任Team A[239][240]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4425,7 +4425,7 @@ Team B第五任隊長<br />
 <td><p>下青木香鈴</p></td>
 <td><p>-</p></td>
 <td><p>8月10日</p></td>
-<td><p>毕业前兼任Team A[240][241][242]</p></td>
+<td><p>毕业前兼任Team A[241][242][243]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4437,7 +4437,7 @@ Team B第五任隊長<br />
 <td><p>谷口萌香</p></td>
 <td><p>-</p></td>
 <td><p>11月4日</p></td>
-<td><p>畢業前兼任Team K[243][244]</p></td>
+<td><p>畢業前兼任Team K[244][245]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4463,10 +4463,10 @@ Team B第五任隊長<br />
 <td><p>心意告示牌</p></td>
 <td><p>-</p></td>
 <td><p>圈外</p></td>
-<td><p>rowspan="9|AKS</p></td>
+<td><p>rowspan="11|AKS</p></td>
 <td><p>2月2日</p></td>
-<td><p>rowspan="8|畢業</p></td>
-<td><p>畢業前兼任Team A[245][246]</p></td>
+<td><p>畢業</p></td>
+<td><p>畢業前兼任Team A[246][247]</p></td>
 </tr>
 <tr class="odd">
 <td><p>三重</p></td>
@@ -4475,7 +4475,7 @@ Team B第五任隊長<br />
 <td><p>High Tension</p></td>
 <td><p>-</p></td>
 <td><p>5月5日</p></td>
-<td><p>畢業前兼任Team 4[247]</p></td>
+<td><p>畢業前兼任Team 4[248]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4483,11 +4483,11 @@ Team B第五任隊長<br />
 <tr class="even">
 <td><p>靜岡</p></td>
 <td><p>橫道侑里</p></td>
-<td><p>rowspan="6|2014年4月3日</p></td>
-<td><p>rowspan="6|心意告示牌</p></td>
+<td><p>2014年4月3日</p></td>
+<td><p>心意告示牌</p></td>
 <td><p>-</p></td>
 <td><p>5月18日</p></td>
-<td><p>畢業前兼任Team K[248][249]</p></td>
+<td><p>畢業前兼任Team K[249][250]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4497,7 +4497,7 @@ Team B第五任隊長<br />
 <td><p>人見古都音</p></td>
 <td><p>-</p></td>
 <td><p>5月20日</p></td>
-<td><p>畢業前兼任Team A[250]</p></td>
+<td><p>畢業前兼任Team A[251]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4506,11 +4506,11 @@ Team B第五任隊長<br />
 </tr>
 <tr class="even">
 <td><p>鳥取</p></td>
-<td><p>中野郁海</p></td>
-<td><p>-</p></td>
+<td><p><a href="../Page/中野郁海.md" title="wikilink">中野郁海</a></p></td>
+<td><p>2</p></td>
+<td><p>85</p></td>
 <td><p>5月30日</p></td>
-<td><p>畢業前兼任Team K[251]</p></td>
-<td></td>
+<td><p>畢業前兼任Team K[252]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4518,11 +4518,11 @@ Team B第五任隊長<br />
 </tr>
 <tr class="odd">
 <td><p>秋田</p></td>
-<td><p>谷川聖</p></td>
+<td><p><a href="../Page/谷川聖.md" title="wikilink">谷川聖</a></p></td>
 <td><p>-</p></td>
+<td><p>96</p></td>
 <td><p>5月31日</p></td>
-<td><p>畢業前兼任Team A[252]</p></td>
-<td></td>
+<td><p>畢業前兼任Team A[253]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4532,9 +4532,9 @@ Team B第五任隊長<br />
 <td><p>新潟</p></td>
 <td><p>佐藤栞</p></td>
 <td><p>-</p></td>
+<td><p>圈外</p></td>
 <td><p>6月8日</p></td>
-<td><p>畢業前兼任Team B[253]</p></td>
-<td></td>
+<td><p>畢業前兼任Team B[254]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4542,13 +4542,37 @@ Team B第五任隊長<br />
 </tr>
 <tr class="odd">
 <td><p>兵庫</p></td>
-<td><p>山田菜菜美</p></td>
-<td><p>-</p></td>
+<td><p><a href="../Page/山田菜菜美.md" title="wikilink">山田菜菜美</a></p></td>
+<td><p>1</p></td>
+<td><p>95</p></td>
 <td><p>6月22日</p></td>
-<td><p>畢業前兼任Team K[254]</p></td>
+<td><p>畢業前兼任Team K[255]</p></td>
 <td></td>
 <td></td>
 <td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>福島</p></td>
+<td><p>伊藤星彩</p></td>
+<td><p>2018年4月29日</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>圈外</p></td>
+<td><p>8月12日</p></td>
+<td><p>当日毕业[256]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>岩手</p></td>
+<td><p>佐藤七海</p></td>
+<td><p>2014年4月3日</p></td>
+<td><p>心意告示牌</p></td>
+<td><p>-</p></td>
+<td><p>9月30日</p></td>
+<td><p>rowspan="2|畢業（預定）</p></td>
+<td><p>畢業前兼任Team 4[257][258]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -4559,15 +4583,15 @@ Team B第五任隊長<br />
 <td><p>High Tension</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>畢業（預定）</p></td>
-<td><p>畢業前兼任Team K[255]</p></td>
+<td><p>畢業前兼任Team K[259]</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
-### 研究生（66）
+### 研究生（68）
 
 <table>
 <thead>
@@ -4607,7 +4631,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>12月19日</p></td>
 <td><p>請辭</p></td>
-<td><p>[256]</p></td>
+<td><p>[260]</p></td>
 </tr>
 <tr class="odd">
 <td><p>大塚亞季</p></td>
@@ -4674,7 +4698,7 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>11月15日以前</p></td>
 <td><p>請辭</p></td>
-<td><p>[257]</p></td>
+<td><p>[261]</p></td>
 </tr>
 <tr class="odd">
 <td><p>金子智美</p></td>
@@ -4725,9 +4749,9 @@ Team B第五任隊長<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/妳正在看着夕陽嗎？" title="wikilink">妳正在看着夕陽嗎？</a></p></td>
 <td><p>11月26日</p></td>
 <td><p>畢業</p></td>
-<td><p>[258]<br />
-之後成為SKE48 Team S成員[259]<br />
-於2014年4月29日畢業[260]</p></td>
+<td><p>[262]<br />
+之後成為SKE48 Team S成員[263]<br />
+於2014年4月29日畢業[264]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4765,17 +4789,17 @@ Team B第五任隊長<br />
 <td><p>AKS</p></td>
 <td><p>7月31日</p></td>
 <td><p>請辭</p></td>
-<td><p>[261]</p></td>
+<td><p>[265]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/中西優香.md" title="wikilink">中西優香</a></p></td>
 <td><p>4期</p></td>
 <td><p>8月26日</p></td>
 <td><p>移籍SKE48</p></td>
-<td><p>[262]<br />
-SKE48第一任總隊長[263]<br />
-SKE48 Team S第二任隊長[264]<br />
-2015年4月12日自Team S畢業[265]</p></td>
+<td><p>[266]<br />
+SKE48第一任總隊長[267]<br />
+SKE48 Team S第二任隊長[268]<br />
+2015年4月12日自Team S畢業[269]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4786,7 +4810,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>6期</p></td>
 <td><p>8月31日</p></td>
 <td><p>請辭</p></td>
-<td><p>[266]</p></td>
+<td><p>[270]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4812,14 +4836,14 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>AKS</p></td>
 <td><p>1月16日</p></td>
 <td><p>畢業</p></td>
-<td><p>[267]</p></td>
+<td><p>[271]</p></td>
 </tr>
 <tr class="odd">
 <td><p>有馬優茄</p></td>
 <td><p>5期</p></td>
 <td><p>大聲鑽石</p></td>
 <td><p>1月19日</p></td>
-<td><p>甄選審査不合格[268]</p></td>
+<td><p>甄選審査不合格[272]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4863,7 +4887,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>3期</p></td>
 <td><p>Baby! Baby! Baby!</p></td>
 <td><p>4月18日</p></td>
-<td><p>[269]</p></td>
+<td><p>[273]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4874,7 +4898,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>4期</p></td>
 <td><p>大聲鑽石</p></td>
 <td><p>4月26日</p></td>
-<td><p>[270]</p></td>
+<td><p>[274]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4885,7 +4909,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>7期</p></td>
 <td><p>-</p></td>
 <td><p>6月9日</p></td>
-<td><p>[271]</p></td>
+<td><p>[275]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4897,7 +4921,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>未參加</p></td>
 <td><p>7月14日</p></td>
 <td><p>請辭</p></td>
-<td><p>[272]</p></td>
+<td><p>[276]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4907,7 +4931,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>7期</p></td>
 <td><p>圈外</p></td>
 <td><p>7月18日</p></td>
-<td><p>[273]</p></td>
+<td><p>[277]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4919,9 +4943,9 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>未參加</p></td>
 <td><p>7月25日</p></td>
 <td><p>解僱</p></td>
-<td><p>[274]<br />
+<td><p>[278]<br />
 後來成為<a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46的研究生</a><br />
-於2014年3月22日結束活動[275]</p></td>
+於2014年3月22日結束活動[279]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5058,13 +5082,13 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>AKS</p></td>
 <td><p>1月6日</p></td>
 <td><p>請辭</p></td>
-<td><p>[276]</p></td>
+<td><p>[280]</p></td>
 </tr>
 <tr class="odd">
 <td><p>今井悠理枝</p></td>
 <td><p>8期</p></td>
 <td><p>2月1日</p></td>
-<td><p>[277]</p></td>
+<td><p>[281]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5079,7 +5103,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>6月20日</p></td>
 <td><p>畢業</p></td>
 <td><p>甄選審査不合格，<br />
-高松惠理退出[278]</p></td>
+高松惠理退出[282]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -5121,7 +5145,7 @@ SKE48 Team S第二任隊長[264]<br />
 （）</p></td>
 <td><p>8期</p></td>
 <td><p>7月6日</p></td>
-<td><p>[279]</p></td>
+<td><p>[283]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5135,7 +5159,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>未參加</p></td>
 <td><p>10月5日</p></td>
 <td><p>畢業</p></td>
-<td><p>甄選審査不合格[280]</p></td>
+<td><p>甄選審査不合格[284]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -5157,7 +5181,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>未參加</p></td>
 <td><p>10月23日</p></td>
 <td><p>請辭</p></td>
-<td><p>[281]</p></td>
+<td><p>[285]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -5165,7 +5189,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>岡崎千波<br />
 （）</p></td>
 <td><p>10月27日</p></td>
-<td><p>[282]</p></td>
+<td><p>[286]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5176,7 +5200,7 @@ SKE48 Team S第二任隊長[264]<br />
 <tr class="odd">
 <td><p>川上麻里奈</p></td>
 <td><p>12月3日</p></td>
-<td><p>[283]</p></td>
+<td><p>[287]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5204,8 +5228,8 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>AKS</p></td>
 <td><p>2月20日</p></td>
 <td><p>請辭</p></td>
-<td><p>[284]<br />
-後成為<a href="../Page/GEM_(女子團體).md" title="wikilink">GEM隊長</a>，現為<a href="../Page/SUPER☆GiRLS.md" title="wikilink">SUPER☆GiRLS</a>成員[285]</p></td>
+<td><p>[288]<br />
+後成為<a href="../Page/GEM_(女子團體).md" title="wikilink">GEM隊長</a>，現為<a href="../Page/SUPER☆GiRLS.md" title="wikilink">SUPER☆GiRLS</a>成員[289]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/牛窪紗良.md" title="wikilink">牛窪紗良</a></p></td>
@@ -5213,7 +5237,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>變成櫻花樹</p></td>
 <td><p>退選</p></td>
 <td><p>6月19日</p></td>
-<td><p>[286]</p></td>
+<td><p>[290]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5249,7 +5273,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>AKS</p></td>
 <td><p>3月31日</p></td>
 <td><p>請辭</p></td>
-<td><p>[287]</p></td>
+<td><p>[291]</p></td>
 </tr>
 <tr class="even">
 <td><p>雨宫舞夏</p></td>
@@ -5258,7 +5282,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>圈外</p></td>
 <td><p>8月5日</p></td>
 <td><p>畢業</p></td>
-<td><p>甄選審査不合格[288][289]</p></td>
+<td><p>甄選審査不合格[292][293]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -5314,7 +5338,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>风正在吹</p></td>
 <td><p>10月7日</p></td>
 <td><p>請辭</p></td>
-<td><p>[290]</p></td>
+<td><p>[294]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5340,7 +5364,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>5月8日</p></td>
 <td><p>毕业</p></td>
 <td><p>虛擬偶像<br />
-从组合官方网站删除[291]</p></td>
+从组合官方网站删除[295]</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
@@ -5362,7 +5386,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>AKS</p></td>
 <td><p>3月31日</p></td>
 <td><p>請辭</p></td>
-<td><p>[292]</p></td>
+<td><p>[296]</p></td>
 </tr>
 <tr class="even">
 <td><p>高橋希良</p></td>
@@ -5375,8 +5399,8 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>畢業</p></td>
 <td><p>元打工AKB成員<br />
 選秀隊伍為Team B<br />
-[293]<br />
-目前以藝名「高橋希來」從事演藝活動[294]</p></td>
+[297]<br />
+目前以藝名「高橋希來」從事演藝活動[298]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -5389,7 +5413,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>8月13日</p></td>
 <td><p>選秀隊伍為Team K<br />
 妹妹為SKE48成員野村實代<br />
-[295]</p></td>
+[299]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -5415,7 +5439,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>8月22日</p></td>
 <td><p>請辭</p></td>
 <td><p>選秀隊伍為Team 4<br />
-[296]</p></td>
+[300]</p></td>
 </tr>
 <tr class="even">
 <td><p>神山莉穗</p></td>
@@ -5423,7 +5447,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>-</p></td>
 <td><p>10月20日</p></td>
 <td><p>選秀隊伍為Team B<br />
-[297][298]</p></td>
+[301][302]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5437,7 +5461,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>-</p></td>
 <td><p>11月4日</p></td>
 <td><p>畢業</p></td>
-<td><p>所属队伍为Team A[299][300]</p></td>
+<td><p>所属队伍为Team A[303][304]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -5447,7 +5471,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>-</p></td>
 <td><p>11月25日</p></td>
 <td><p>請辭</p></td>
-<td><p>所屬隊伍為Team B[301]</p></td>
+<td><p>所屬隊伍為Team B[305]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5472,7 +5496,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>-</p></td>
 <td><p>5月11日</p></td>
 <td><p>請辭</p></td>
-<td><p>所屬隊伍為Team B[302]</p></td>
+<td><p>所屬隊伍為Team B[306]</p></td>
 </tr>
 <tr class="odd">
 <td><p>勝又彩央里</p></td>
@@ -5482,7 +5506,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>未參加</p></td>
 <td><p>-</p></td>
 <td><p>6月28日</p></td>
-<td><p>所屬隊伍為Team K[303][304]</p></td>
+<td><p>所屬隊伍為Team K[307][308]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -5529,8 +5553,8 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>9月1日</p></td>
 <td><p>畢業</p></td>
 <td><p>與<a href="../Page/江崎固力果.md" title="wikilink">江崎固力果</a>合作的「大人AKB」企劃出道，<br />
-企劃結束時畢業[305]<br />
-[306]</p></td>
+企劃結束時畢業[309]<br />
+[310]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
@@ -5553,56 +5577,12 @@ SKE48 Team S第二任隊長[264]<br />
 <td><p>2月28日</p></td>
 <td><p>打工AKB企劃<br />
 的活動契約結束</p></td>
-<td><p>[307]<br />
+<td><p>[311]<br />
 曾入選第二屆AKB48集團選秀會議候選者，<br />
 最終未能入選成為第2期選秀生</p></td>
 </tr>
 <tr class="odd">
 <td><p>阿部葉夢</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>[308]</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>荒木實波</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>[309]</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>荒木琳袈</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>[310]</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>飯倉早織</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>[311]</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>生田優香</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -5613,7 +5593,7 @@ SKE48 Team S第二任隊長[264]<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>伊田有紀</p></td>
+<td><p>荒木實波</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -5624,11 +5604,55 @@ SKE48 Team S第二任隊長[264]<br />
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>荒木琳袈</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>[314]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>飯倉早織</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>[315]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>生田優香</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>[316]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>伊田有紀</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>[317]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/一色嶺奈" title="wikilink">一色嶺奈</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[314]<br />
+<td><p>[318]<br />
 AKB48集團第2期選秀生<br />
 後成為SKE48 Team S成員，2018年12月28日畢業</p></td>
 <td></td>
@@ -5641,7 +5665,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[315]</p></td>
+<td><p>[319]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5652,7 +5676,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[316]</p></td>
+<td><p>[320]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5663,7 +5687,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[317]</p></td>
+<td><p>[321]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5674,7 +5698,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[318]</p></td>
+<td><p>[322]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5685,9 +5709,9 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[319]<br />
+<td><p>[323]<br />
 AKB48集團第2期選秀生<br />
-現為NGT48 Team NIII副隊長[320]</p></td>
+現為NGT48 Team NIII副隊長[324]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5699,7 +5723,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[321]</p></td>
+<td><p>[325]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5710,7 +5734,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[322]</p></td>
+<td><p>[326]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5721,7 +5745,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[323]</p></td>
+<td><p>[327]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5732,7 +5756,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[324]<br />
+<td><p>[328]<br />
 曾入選第二屆AKB48集團選秀會議候選者，<br />
 最終未能入選成為第2期選秀生</p></td>
 <td></td>
@@ -5745,7 +5769,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[325]</p></td>
+<td><p>[329]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5756,7 +5780,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[326]</p></td>
+<td><p>[330]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5767,7 +5791,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[327]</p></td>
+<td><p>[331]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5778,7 +5802,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[328]</p></td>
+<td><p>[332]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5789,7 +5813,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[329]<br />
+<td><p>[333]<br />
 曾入選第二屆AKB48集團選秀會議候選者，<br />
 最終未能入選成為第2期選秀生<br />
 現為NGT48 Team G成員</p></td>
@@ -5803,7 +5827,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[330]</p></td>
+<td><p>[334]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5814,7 +5838,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[331]</p></td>
+<td><p>[335]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5825,7 +5849,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[332]</p></td>
+<td><p>[336]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5836,7 +5860,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[333]</p></td>
+<td><p>[337]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5858,7 +5882,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[334]<br />
+<td><p>[338]<br />
 現為偶像團體Dream Ability成員</p></td>
 <td></td>
 <td></td>
@@ -5870,9 +5894,9 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[335]<br />
+<td><p>[339]<br />
 曾為AKB48集團第2期選秀生<br />
-後成為NMB48研究生，2016年5月3日畢業[336]</p></td>
+後成為NMB48研究生，2016年5月3日畢業[340]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5883,7 +5907,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[337]</p></td>
+<td><p>[341]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5894,7 +5918,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[338]<br />
+<td><p>[342]<br />
 曾入選第二屆AKB48集團選秀會議候選者，<br />
 最終未能入選成為第2期選秀生<br />
 現為NGT48 Team NIII成員</p></td>
@@ -5908,7 +5932,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[339]</p></td>
+<td><p>[343]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5919,7 +5943,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[340]</p></td>
+<td><p>[344]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5930,50 +5954,6 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[341]</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>[342]</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>中川里菜</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>[343]</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>中村優香</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>[344]</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>長坂亞利沙</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
 <td><p>[345]</p></td>
 <td></td>
 <td></td>
@@ -5981,7 +5961,7 @@ AKB48集團第2期選秀生<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>成松美沙</p></td>
+<td></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -5992,11 +5972,55 @@ AKB48集團第2期選秀生<br />
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>中川里菜</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>[347]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>中村優香</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>[348]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>長坂亞利沙</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>[349]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>成松美沙</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>[350]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/西潟茉莉奈.md" title="wikilink">西潟茉莉奈</a></p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[347]<br />
+<td><p>[351]<br />
 AKB48集團第2期選秀生<br />
 現為NGT48 Team NIII成員</p></td>
 <td></td>
@@ -6009,7 +6033,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[348]<br />
+<td><p>[352]<br />
 現為偶像團體Re：Girl's成員</p></td>
 <td></td>
 <td></td>
@@ -6021,7 +6045,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[349]</p></td>
+<td><p>[353]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6032,7 +6056,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[350]</p></td>
+<td><p>[354]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6044,7 +6068,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[351]<br />
+<td><p>[355]<br />
 AKB48集團第2期選秀生<br />
 現為HKT48 Team TII成員</p></td>
 <td></td>
@@ -6057,7 +6081,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[352]</p></td>
+<td><p>[356]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6068,7 +6092,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[353]</p></td>
+<td><p>[357]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6079,7 +6103,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[354]<br />
+<td><p>[358]<br />
 曾入選第二屆AKB48集團選秀會議候選者，<br />
 最終未能入選成為第2期選秀生</p></td>
 <td></td>
@@ -6092,7 +6116,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[355]</p></td>
+<td><p>[359]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6103,7 +6127,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>[356]</p></td>
+<td><p>[360]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6131,14 +6155,14 @@ AKB48集團第2期選秀生<br />
 <td><p>打工AKB企劃<br />
 （Paruru選拔）<br />
 的活動契約結束</p></td>
-<td><p>[357]</p></td>
+<td><p>[361]</p></td>
 </tr>
 <tr class="odd">
 <td><p>日出有香</p></td>
 <td><p>-</p></td>
 <td><p>LOVE TRIP/分享幸福</p></td>
 <td><p>-</p></td>
-<td><p>[358]</p></td>
+<td><p>[362]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6164,7 +6188,7 @@ AKB48集團第2期選秀生<br />
 <td><p>JKT48 Project</p></td>
 <td><p>10月15日</p></td>
 <td><p>短期留學結束</p></td>
-<td><p>[359]<br />
+<td><p>[363]<br />
 時為JKT48 Team J成员</p></td>
 </tr>
 <tr class="even">
@@ -6173,7 +6197,7 @@ AKB48集團第2期選秀生<br />
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td><p>BNK48 Office</p></td>
-<td><p>[360]<br />
+<td><p>[364]<br />
 時為BNK48 Team BIII成员</p></td>
 <td></td>
 <td></td>
@@ -6399,9 +6423,9 @@ AKB48集團第2期選秀生<br />
 125.
 
 126.
+
 127.
 128.
-
 129.
 
 130.
@@ -6419,13 +6443,13 @@ AKB48集團第2期選秀生<br />
 136.
 
 137.
-138.
 
+138.
 139.
+
 140.
 141.
 142.
-
 143.
 
 144.
@@ -6433,8 +6457,8 @@ AKB48集團第2期選秀生<br />
 145.
 
 146.
-147.
 
+147.
 148.
 
 149.
@@ -6446,8 +6470,8 @@ AKB48集團第2期選秀生<br />
 152.
 
 153.
-154.
 
+154.
 155.
 
 156.
@@ -6479,30 +6503,30 @@ AKB48集團第2期選秀生<br />
 169.
 
 170.
+
 171.
-
 172.
-173.
 
+173.
 174.
+
 175.
 176.
-
 177.
 
 178.
-179.
 
+179.
 180.
 
 181.
 
 182.
+
 183.
-
 184.
-185.
 
+185.
 186.
 
 187.
@@ -6510,8 +6534,8 @@ AKB48集團第2期選秀生<br />
 188.
 
 189.
-190.
 
+190.
 191.
 
 192.
@@ -6525,10 +6549,10 @@ AKB48集團第2期選秀生<br />
 196.
 
 197.
+
 198.
 199.
 200.
-
 201.
 
 202.
@@ -6556,14 +6580,14 @@ AKB48集團第2期選秀生<br />
 213.
 
 214.
+
 215.
-
 216.
+
 217.
-
 218.
-219.
 
+219.
 220.
 
 221.
@@ -6597,8 +6621,8 @@ AKB48集團第2期選秀生<br />
 235.
 
 236.
-237.
 
+237.
 238.
 
 239.
@@ -6646,14 +6670,16 @@ AKB48集團第2期選秀生<br />
 260.
 
 261.
+
 262.
 
 263.
 
 264.
-265.
 
+265.
 266.
+
 267.
 
 268.
@@ -6663,11 +6689,9 @@ AKB48集團第2期選秀生<br />
 271.
 
 272.
-
 273.
 
 274.
-
 275.
 
 276.
@@ -6733,9 +6757,13 @@ AKB48集團第2期選秀生<br />
 306.
 
 307.
+
 308.
+
 309.
+
 310.
+
 311.
 312.
 313.
@@ -6746,11 +6774,11 @@ AKB48集團第2期選秀生<br />
 318.
 319.
 320.
-
 321.
 322.
 323.
 324.
+
 325.
 326.
 327.
@@ -6763,11 +6791,11 @@ AKB48集團第2期選秀生<br />
 334.
 335.
 336.
-
 337.
 338.
 339.
 340.
+
 341.
 342.
 343.
@@ -6785,8 +6813,12 @@ AKB48集團第2期選秀生<br />
 355.
 356.
 357.
-
 358.
 359.
-
 360.
+361.
+
+362.
+363.
+
+364.

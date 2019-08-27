@@ -48,9 +48,11 @@ SSG 04 A1是SSG 04的專業改進型。它將SSG 04的[機匣頂部配備的](ht
 
 ## 使用國
 
-  - ：SSG 04被[愛爾蘭警察](https://zh.wikipedia.org/wiki/愛爾蘭警察 "wikilink")[加爾達緊急應變小組](https://zh.wikipedia.org/wiki/加爾達緊急應變小組 "wikilink")（）所採用。
+  -   - [愛爾蘭和平衛隊](../Page/愛爾蘭和平衛隊.md "wikilink")緊急應變單位（SSG 04）
 
-  - ：30 枝或以上的SSG 04 A1被[俄罗斯海军](https://zh.wikipedia.org/wiki/俄罗斯海军 "wikilink")[空降](../Page/傘兵.md "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")所採用。\[1\]
+  -   - 特別反恐單位（SSG 04 A1）
+
+  -   - [俄罗斯空降軍](https://zh.wikipedia.org/wiki/俄罗斯空降軍 "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")\[1\]（30枝或以上的SSG 04 A1）
 
 ## 參見
 
@@ -94,6 +96,6 @@ SSG 04 A1是SSG 04的專業改進型。它將SSG 04的[機匣頂部配備的](ht
 
   - —[铁血网—［原创］奥地利重狙 STEYR SSG 04](http://bbs.tiexue.net/post2_7114493_1.html)
 
-[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:.300_Winchester_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.300_Winchester_Magnum口徑槍械 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:.243_Winchester口徑槍械](https://zh.wikipedia.org/wiki/Category:.243_Winchester口徑槍械 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink")
+[Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink") [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink") [Category:.300_Winchester_Magnum口徑槍械](https://zh.wikipedia.org/wiki/Category:.300_Winchester_Magnum口徑槍械 "wikilink") [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink") [Category:.243溫徹斯特口徑槍械](https://zh.wikipedia.org/wiki/Category:.243溫徹斯特口徑槍械 "wikilink") [Category:奧地利槍械](https://zh.wikipedia.org/wiki/Category:奧地利槍械 "wikilink")
 
 1.  [Lenta.ru: Оружие: Спецназ ВДВ получил австрийские винтовки](http://lenta.ru/news/2011/12/09/mannlicher/)

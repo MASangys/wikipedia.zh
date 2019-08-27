@@ -1,4 +1,4 @@
-**Ameba**（；或直譯為**變形蟲**）是由[日本](../Page/日本.md "wikilink")所推出的[社交網路服務](../Page/社交網路服務.md "wikilink")。包含網誌「**Ameba 部落格**（）」、社群遊戲「**Ameba Pigg**（）」等服務。
+**Ameba**（；或直譯為**變形蟲**）是由[日本](../Page/日本.md "wikilink")[CyberAgent](../Page/CyberAgent.md "wikilink")所推出的[社交網路服務](../Page/社交網路服務.md "wikilink")。包含網誌「**Ameba 部落格**（）」、社群遊戲「**Ameba Pigg**（）」等服務。
 
 ## 概要
 

@@ -24,4 +24,4 @@
   -
   -
   -
-[Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink") [Category:香港续集電影](https://zh.wikipedia.org/wiki/Category:香港续集電影 "wikilink") [Category:香港喜剧动作片](https://zh.wikipedia.org/wiki/Category:香港喜剧动作片 "wikilink") [Category:1990年代喜剧动作片](https://zh.wikipedia.org/wiki/Category:1990年代喜剧动作片 "wikilink") [Category:中华民国大陆时期背景電影](https://zh.wikipedia.org/wiki/Category:中华民国大陆时期背景電影 "wikilink") [Category:1910年代背景電影](https://zh.wikipedia.org/wiki/Category:1910年代背景電影 "wikilink") [Category:劉家良電影](https://zh.wikipedia.org/wiki/Category:劉家良電影 "wikilink")
+[Category:1990年代香港電影作品](https://zh.wikipedia.org/wiki/Category:1990年代香港電影作品 "wikilink") [Category:香港喜剧动作片](https://zh.wikipedia.org/wiki/Category:香港喜剧动作片 "wikilink") [Category:1990年代喜剧动作片](https://zh.wikipedia.org/wiki/Category:1990年代喜剧动作片 "wikilink") [Category:中华民国大陆时期背景電影](https://zh.wikipedia.org/wiki/Category:中华民国大陆时期背景電影 "wikilink") [Category:1910年代背景電影](https://zh.wikipedia.org/wiki/Category:1910年代背景電影 "wikilink") [Category:劉家良電影](https://zh.wikipedia.org/wiki/Category:劉家良電影 "wikilink")

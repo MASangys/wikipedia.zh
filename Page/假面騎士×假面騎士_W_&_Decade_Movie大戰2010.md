@@ -1,4 +1,4 @@
-《**假面騎士×假面騎士 W & Decade Movie大戰 2010**》，是日本特攝節目《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》和《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》聯動劇場版，「Movie大戰系列」首部作品。日本地區於2009年12月12日上映。
+《**假面騎士×假面騎士 W & Decade Movie大戰 2010**》，是日本特攝節目《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》和《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》聯動劇場版，「Movie大戰系列」首部作品。日本於2009年12月12日上映，中國[騰訊視頻于](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")2019年8月21日上架。
 
 ## 本作特色
 

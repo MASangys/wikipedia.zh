@@ -395,7 +395,8 @@ Cortex-A53 (big.LITTLE with GTS)<br />
 Exynos M2<br />
 (Exynos 8895)[74]</p></td>
 <td><p>10 nm<br />
-FinFET LPE</p></td>
+FinFET<br />
+LPE</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ARM_architecture#ARMv8-A" title="wikilink">ARMv8-A</a></p></td>
 <td><p>Exynos M2 +Cortex-A53</p></td>
 <td><p>4+4</p></td>
@@ -415,10 +416,18 @@ FinFET LPP</p></td>
 <tr class="even">
 <td><p>Exynos 9 Series 9820[78]</p></td>
 <td><p>8nm LPP</p></td>
-<td><p>ARMv8.2-A</p></td>
 <td><p>Exynos M4 (2 Cores) + Cortex-A75 (2 Cores) + Cortex-A55 (4 Cores)</p></td>
 <td><p>2+2+4</p></td>
 <td><p>2.7-1.9[79][80]</p></td>
+<td><p>Mali-G76 MP12 @ 702 Mhz</p></td>
+</tr>
+<tr class="odd">
+<td><p>Exynos 9 Series 9825[81]</p></td>
+<td><p><a href="../Page/7纳米制程.md" title="wikilink">7nm</a> LPP <a href="../Page/极紫外光刻.md" title="wikilink">EUV</a></p></td>
+<td><p>2.7-1.9[82]</p></td>
+<td><p>Mali-G76 MP12 @ 754 Mhz[83]</p></td>
+<td><p>2019年Q3</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三星Galaxy_Note_10/10+" title="wikilink">三星Galaxy Note 10/10+</a>（韓國和國際版本,5G版本）</p></td>
 </tr>
 </tbody>
 </table>
@@ -587,3 +596,9 @@ FinFET LPP</p></td>
 79.
 
 80.
+
+81.  Samsung Exynos|url=[https://www.samsung.com/semiconductor/minisite/exynos/products/mobileprocessor/exynos-9825/|accessdate=2019-08-07|work=Samsung](https://www.samsung.com/semiconductor/minisite/exynos/products/mobileprocessor/exynos-9825/%7Caccessdate=2019-08-07%7Cwork=Samsung) Semiconductor|language=en}}
+
+82.
+
+83.  Samsung Exynos|website=Samsung Semiconductor|language=en|access-date=2019-08-07}}

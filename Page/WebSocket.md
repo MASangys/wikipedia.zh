@@ -1,4 +1,4 @@
-**WebSocket**是一种[通信协议](../Page/网络传输协议.md "wikilink")，可在单个[TCP连接上进行](../Page/传输控制协议.md "wikilink")[全双工通信](https://zh.wikipedia.org/wiki/全双工 "wikilink")。WebSocket协议在2011年由[IETF标准化为](../Page/互联网工程任务组.md "wikilink")-{}-RFC 6455，后由-{}-RFC 7936-{}-补充规范。中的WebSocket API由[W3C标准化](../Page/万维网联盟.md "wikilink")。
+**WebSocket**是一种[网络传输协议](../Page/网络传输协议.md "wikilink")，可在单个[TCP连接上进行](../Page/传输控制协议.md "wikilink")[全双工通信](https://zh.wikipedia.org/wiki/全双工 "wikilink")，位于[OSI模型](../Page/OSI模型.md "wikilink")的[应用层](https://zh.wikipedia.org/wiki/应用层 "wikilink")。WebSocket协议在2011年由[IETF标准化为](../Page/互联网工程任务组.md "wikilink")-{}-RFC 6455，后由-{}-RFC 7936-{}-补充规范。中的WebSocket API由[W3C标准化](../Page/万维网联盟.md "wikilink")。
 
 WebSocket使得客户端和服务器之间的数据交换变得更加简单，允许服务端主动向客户端推送数据。在WebSocket API中，浏览器和服务器只需要完成一次握手，两者之间就可以建立持久性的连接，并进行双向数据传输。
 

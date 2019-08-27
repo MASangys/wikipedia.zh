@@ -58,7 +58,7 @@ figma（）是[Max Factory企劃及開發](https://zh.wikipedia.org/wiki/Max_Fac
 
       - ()
 
-      - ()
+      - [TRIGGER Inc.](../Page/TRIGGER.md "wikilink") ()
 
       - ()
 

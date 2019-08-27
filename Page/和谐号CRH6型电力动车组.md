@@ -546,7 +546,7 @@ ZE xxxx00</p></td>
 
 ## 运用
 
-第一列CRH6A（CRH6A-4001）于2012年11月交付试运行，试运里程为30万公里。\[12\]4001、4002在铁科院进行试验后，于2013年3月被[SS8牵引到](https://zh.wikipedia.org/wiki/SS8 "wikilink")[广州铁路集团广州南动车基地](https://zh.wikipedia.org/wiki/广州铁路集团 "wikilink")，在[广珠城际铁路](../Page/广珠城际铁路.md "wikilink")进行试运营一直持续至12月。其中CRH6A-4002于2013年6月6日抵达成都东动车运用所，进行重载测试。并于2014年春运期间投入载客试运营\[13\]。2013年5月6日，第三列CRH6A（CRH6A-4501）在[南京浦镇车辆有限公司正式下线](https://zh.wikipedia.org/wiki/南京浦镇车辆有限公司 "wikilink")。\[14\]而在新会南车基地生产的CRH6A则于2013年5月28日正式下线。\[15\]\[16\]2017年9月9日，首列4辆编组的CRH6A-A和CRH6F-A完成厂内动态调试，在中车四方公司下线\[17\]。
+第一列CRH6A（CRH6A-4001）于2012年11月交付试运行，试运里程为30万公里。\[12\]4001、4002在铁科院进行试验后，于2013年3月被[SS8牵引到](https://zh.wikipedia.org/wiki/SS8 "wikilink")[广州局集团广州南动车基地](https://zh.wikipedia.org/wiki/广州局集团 "wikilink")，在[广珠城际铁路](../Page/广珠城际铁路.md "wikilink")进行试运营一直持续至12月。其中CRH6A-4002于2013年6月6日抵达成都东动车运用所，进行重载测试。并于2014年春运期间投入载客试运营\[13\]。2013年5月6日，第三列CRH6A（CRH6A-4501）在[南京浦镇车辆有限公司正式下线](https://zh.wikipedia.org/wiki/南京浦镇车辆有限公司 "wikilink")。\[14\]而在新会南车基地生产的CRH6A则于2013年5月28日正式下线。\[15\]\[16\]2017年9月9日，首列4辆编组的CRH6A-A和CRH6F-A完成厂内动态调试，在中车四方公司下线\[17\]。
 
 首列时速为160公里的CRH6F（CRH6F-4003）于2013年7月3日在南车青岛四方机车车辆股份有限公司竣工下线\[18\]，已完成静态调试阶段，在昆明铁路局进行30万公里测试。
 
@@ -574,7 +574,7 @@ ZE xxxx00</p></td>
 
 2019年1月23日，基于Cinova城际列车平台衍生的市域动车组在[温州市域铁路S1线](../Page/温州市域铁路S1线.md "wikilink")投入试运营。\[32\]
 
-2019年6月27日，為[海南東環鐵路提供的首四列CRH](https://zh.wikipedia.org/wiki/海南東環鐵路 "wikilink")6F市域動車組，以[甲種運送及](https://zh.wikipedia.org/wiki/車輛運送#甲種運送/無火回送 "wikilink")[四車重聯方式交付](../Page/機車重聯.md "wikilink")（本務為濟局濟段的[HXD3C](https://zh.wikipedia.org/wiki/和諧3C型電力機車 "wikilink")、鄭局鄭段的[SS8-0102](https://zh.wikipedia.org/wiki/韶山8型電力機車 "wikilink")、武局南段的[HXD1D](https://zh.wikipedia.org/wiki/和諧1D型電力機車 "wikilink")、廣鐵廣段的[DF11-0018及](../Page/東風11型柴油機車.md "wikilink")[DF4B-2315](../Page/東風4B型柴油機車.md "wikilink")），並於兩日後抵達海南島。
+2019年6月27日，為[海南東環鐵路提供的首四列CRH](https://zh.wikipedia.org/wiki/海南東環鐵路 "wikilink")6F市域動車組，以无火回送方式交付（本務為濟局濟段的[HXD3C](https://zh.wikipedia.org/wiki/和諧3C型電力機車 "wikilink")、鄭局鄭段的[SS8-0102](https://zh.wikipedia.org/wiki/韶山8型電力機車 "wikilink")、武局南段的[HXD1D](https://zh.wikipedia.org/wiki/和諧1D型電力機車 "wikilink")、廣鐵廣段的[DF11-0018及](../Page/東風11型柴油機車.md "wikilink")[DF4B-2315](../Page/東風4B型柴油機車.md "wikilink")），並於兩日後抵達海南島。
 
 <File:CRH6A-0439@LXI> (20180630070543).jpg|用于[北京市郊铁路城市副中心线](../Page/北京市郊铁路城市副中心线.md "wikilink")的CRH6A型动车组通过[良乡站](../Page/良乡站.md "wikilink") <File:201806> CRH6A-0420 operates as C3660 enters into Shanghainan Station.jpg|[金山铁路使用的CRH](https://zh.wikipedia.org/wiki/金山铁路 "wikilink")6A于[上海南站](https://zh.wikipedia.org/wiki/上海南站 "wikilink") <File:CRH6A-0427> at JZU, 20180221 105208.jpg|[郑焦城际铁路使用的CRH](https://zh.wikipedia.org/wiki/郑焦城际铁路 "wikilink")6A停靠在[焦作站](https://zh.wikipedia.org/wiki/焦作站 "wikilink") <File:CRH6A(GSR> Custom) at Guangzhou-Shenzhen Rail Line 2019 04.jpg|为[广深动车组列车](../Page/广深动车组列车.md "wikilink")定制的CRH6A列车运行在广州市区 <File:CRH6A-0403> EMU at Guangzhou Railway Station.jpg|[广佛肇城际铁路使用CRH](https://zh.wikipedia.org/wiki/广佛肇城际铁路 "wikilink")6A在[广州站](../Page/广州站.md "wikilink")9号站台准备发车 <File:CRH6F-0418> entering Ningbo Railway Station, 2017-06-11 03.jpg|thumb|right|[宁波至余姚城际铁路使用的CRH](https://zh.wikipedia.org/wiki/宁波至余姚城际铁路 "wikilink")6F停靠在[宁波站](../Page/宁波站.md "wikilink") <File:201907> CRH6A-A-0442 at Qianqing Station.jpg|[绍兴风情旅游新干线使用的CRH](https://zh.wikipedia.org/wiki/绍兴风情旅游新干线 "wikilink")6F-A型动车组 <File:CRH6A-A> at Dujiangyan Station.jpg|[成灌铁路](../Page/成灌铁路.md "wikilink")使用CRH6A-A停靠在[都江堰站](../Page/都江堰站.md "wikilink")
 
@@ -656,7 +656,7 @@ ZE xxxx00</p></td>
 <td><p>8</p></td>
 <td><p>0422～0429</p></td>
 <td><p>郑州</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/郑焦城际铁路" title="wikilink">郑焦城际铁路</a>、<a href="https://zh.wikipedia.org/wiki/郑开城际铁路" title="wikilink">郑开城际铁路</a>、<a href="https://zh.wikipedia.org/wiki/郑机城际铁路" title="wikilink">郑机城际铁路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/郑焦城际铁路" title="wikilink">郑焦城际铁路</a>、<a href="https://zh.wikipedia.org/wiki/郑开城际铁路" title="wikilink">郑开城际铁路</a>、<a href="../Page/郑机城际铁路.md" title="wikilink">郑机城际铁路</a></p></td>
 <td><p>车身为橙色色带</p></td>
 </tr>
 <tr class="odd">

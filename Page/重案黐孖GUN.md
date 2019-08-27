@@ -17,6 +17,7 @@
   - [卓韻芝](../Page/卓韻芝.md "wikilink") 飾 阿美
   - [梁慧恩](../Page/梁慧恩.md "wikilink") 飾 阿珊
   - [袁偉豪](../Page/袁偉豪.md "wikilink") 飾 信仔
+  - [林雲中](../Page/林雲中.md "wikilink") 飾 陸安同
   - [林子博](../Page/林子博.md "wikilink") 飾 小高
   - [許紹雄](../Page/許紹雄.md "wikilink") 飾 霍先生
   - [廖碧兒](../Page/廖碧兒.md "wikilink") 飾 Macy

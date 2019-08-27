@@ -14,7 +14,7 @@ Boom在2011年9月正式回歸《[強心臟](https://zh.wikipedia.org/wiki/強�
 
 ## 賭博風波
 
-2013年11月10至11日，與[李壽根](../Page/李壽根.md "wikilink")、、[Tony An](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")、[Andy](../Page/李先鎬.md "wikilink")、[梁世炯](../Page/梁世炯.md "wikilink")等演藝名人相繼被揭發曾參與非法-{zh:網上;zh-tw:線上}-體育博彩遭檢方傳喚，其投注金額達3300萬韓元。\[1\]\[2\]對此，Boom於11日開始退出一切演藝工作\[3\]。14日，首爾中央支檢通報將正式起訴金勇萬、孔啟卓、李壽根、卓在勳、Tony An、Andy、Boom、梁世炯共計8名藝人。28日，首爾中央地區法院判處Boom、Andy罰款500萬韓元\[4\]，涉案金額較少的梁世炯罰款300萬韓元，10億元以上的李壽根、卓在勳及4億元的Tony An被不拘留起訴\[5\]。
+2013年11月10至11日，與[李壽根](../Page/李壽根.md "wikilink")、[卓在勳](../Page/卓在勳.md "wikilink")、[Tony An](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")、[Andy](../Page/李先鎬.md "wikilink")、[梁世炯](../Page/梁世炯.md "wikilink")等演藝名人相繼被揭發曾參與非法-{zh:網上;zh-tw:線上}-體育博彩遭檢方傳喚，其投注金額達3300萬韓元。\[1\]\[2\]對此，Boom於11日開始退出一切演藝工作\[3\]。14日，首爾中央支檢通報將正式起訴金勇萬、孔啟卓、李壽根、卓在勳、Tony An、Andy、Boom、梁世炯共計8名藝人。28日，首爾中央地區法院判處Boom、Andy罰款500萬韓元\[4\]，涉案金額較少的梁世炯罰款300萬韓元，10億元以上的李壽根、卓在勳及4億元的Tony An被不拘留起訴\[5\]。
 
 ## 電視出演
 
@@ -37,7 +37,7 @@ Boom在2011年9月正式回歸《[強心臟](https://zh.wikipedia.org/wiki/強�
   - [家族的誕生](../Page/家族的誕生_\(電視劇\).md "wikilink")
   - [寄宿房的女兒們](../Page/寄宿房的女兒們.md "wikilink")
   - Cart Show
-  - [驚人的週六](https://zh.wikipedia.org/wiki/驚人的週六 "wikilink")
+  - [驚人的星期六](../Page/驚人的星期六.md "wikilink")
   - Wanna one go s3
 
 ## 其他出演

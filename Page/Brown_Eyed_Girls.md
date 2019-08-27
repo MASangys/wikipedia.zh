@@ -739,23 +739,23 @@ Brown Eyed Girls的歌迷官方稱為「Everlasting」，意思是「永恒的�
 
 ### 音樂節目獎項
 
-| 年份    | 日期     | 電視台                                                   | 節目名稱                                                                   | 獲獎歌曲        | 排名               |
-| ----- | ------ | ----------------------------------------------------- | ---------------------------------------------------------------------- | ----------- | ---------------- |
-| 2008年 | 2月22日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | L.O.V.E     | 1位               |
-| 2008年 | 3月2日   | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | L.O.V.E     | 1位(Mutizen Song) |
-| 2008年 | 3月9日   | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | L.O.V.E     | 1位(Mutizen Song) |
-| 2008年 | 7月4日   | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | L.O.V.E     | 上半年結算1位          |
-| 2009年 | 8月16日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Abracadabra | 1位(Mutizen Song) |
-| 2009年 | 8月20日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Abracadabra | 1位               |
-| 2009年 | 8月21日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | Abracadabra | 1位               |
-| 2009年 | 8月23日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Abracadabra | 1位(Mutizen Song) |
-| 2009年 | 9月3日   | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Abracadabra | 1位               |
-| 2009年 | 12月25日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | Abracadabra | 全年結算5位           |
-| 2011年 | 10月6日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Sixth Sense | 1位               |
-| 2011年 | 10月16日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Sixth Sense | 1位(Mutizen Song) |
-| 2011年 | 10月20日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Sixth Sense | 1位               |
-| 2011年 | 10月23日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")               | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Sixth Sense | 1位(Mutizen Song) |
-| 2011年 | 12月23日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")   | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | Sixth Sense | 全年結算36位          |
+| 年份    | 日期     | 電視台                                                 | 節目名稱                                                                   | 獲獎歌曲        | 排名               |
+| ----- | ------ | --------------------------------------------------- | ---------------------------------------------------------------------- | ----------- | ---------------- |
+| 2008年 | 2月22日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | L.O.V.E     | 1位               |
+| 2008年 | 3月2日   | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | L.O.V.E     | 1位(Mutizen Song) |
+| 2008年 | 3月9日   | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | L.O.V.E     | 1位(Mutizen Song) |
+| 2008年 | 7月4日   | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | L.O.V.E     | 上半年結算1位          |
+| 2009年 | 8月16日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Abracadabra | 1位(Mutizen Song) |
+| 2009年 | 8月20日  | [Mnet](../Page/Mnet.md "wikilink")                  | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Abracadabra | 1位               |
+| 2009年 | 8月21日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | Abracadabra | 1位               |
+| 2009年 | 8月23日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Abracadabra | 1位(Mutizen Song) |
+| 2009年 | 9月3日   | [Mnet](../Page/Mnet.md "wikilink")                  | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Abracadabra | 1位               |
+| 2009年 | 12月25日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | Abracadabra | 全年結算5位           |
+| 2011年 | 10月6日  | [Mnet](../Page/Mnet.md "wikilink")                  | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Sixth Sense | 1位               |
+| 2011年 | 10月16日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Sixth Sense | 1位(Mutizen Song) |
+| 2011年 | 10月20日 | [Mnet](../Page/Mnet.md "wikilink")                  | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | Sixth Sense | 1位               |
+| 2011年 | 10月23日 | [SBS](../Page/SBS_\(韓國\).md "wikilink")             | [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  | Sixth Sense | 1位(Mutizen Song) |
+| 2011年 | 12月23日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")                  | Sixth Sense | 全年結算36位          |
 
 ## 演唱會\[14\]
 

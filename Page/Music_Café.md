@@ -492,8 +492,11 @@
 | 427 | 6月29日  | 羅凱鈴、鄒旻諾　Busker闖樂壇          | [羅凱鈴](https://zh.wikipedia.org/wiki/羅凱鈴 "wikilink")、[鄒旻諾](https://zh.wikipedia.org/wiki/鄒旻諾 "wikilink")                                                  |
 | 428 | 7月6日   | 陳慧敏、廖仲謙　「巨聲幫」集合            | [陳慧敏](../Page/陳慧敏_\(歌手\).md "wikilink")、[廖仲謙](../Page/廖仲謙.md "wikilink")                                                                                 |
 | 429 | 7月13日  | 黃妍、姜麗文　歌手也有粉絲時             | [黃妍](../Page/黃妍.md "wikilink")、[姜麗文](../Page/姜麗文.md "wikilink")                                                                                          |
-| 430 | 7月20日  | 葉巧琳、鍾達茵　改變就是人生             | [葉巧琳](https://zh.wikipedia.org/wiki/葉巧琳 "wikilink")、[鍾達茵](https://zh.wikipedia.org/wiki/鍾達茵 "wikilink")                                                  |
+| 430 | 7月20日  | 葉巧琳、鍾達茵　改變就是人生             | [葉巧琳](../Page/樂遊團.md "wikilink")、[鍾達茵](https://zh.wikipedia.org/wiki/鍾達茵 "wikilink")                                                                     |
 | 431 | 7月27日  | 陳健安、洪嘉豪　毋忘音樂初衷             | [陳健安](../Page/陳健安.md "wikilink")、[洪嘉豪](https://zh.wikipedia.org/wiki/洪嘉豪 "wikilink")                                                                     |
+| 432 | 8月3日   | 古家峯、黃進林、鄺星宇　小鮮肉闖樂壇         | [古家峯](../Page/古家峯.md "wikilink")、[黃進林](https://zh.wikipedia.org/wiki/黃進林 "wikilink")、[鄺星宇](https://zh.wikipedia.org/wiki/鄺星宇_\(歌手\) "wikilink")          |
+| 433 | 8月10日  | 享樂團、黎曉陽　創作分享會              | [享樂團](../Page/享樂團.md "wikilink")、[黎曉陽](https://zh.wikipedia.org/wiki/黎曉陽 "wikilink")                                                                     |
+| 434 | 8月17日  | 何雁詩、戴祖儀、古家峯　樂壇幸運兒          | [何雁詩](https://zh.wikipedia.org/wiki/何雁詩 "wikilink")、[戴祖儀](../Page/戴祖儀.md "wikilink")、[古家峯](../Page/古家峯.md "wikilink")                                    |
 
 ## 記事
 

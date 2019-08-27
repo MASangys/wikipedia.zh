@@ -1,4 +1,4 @@
-**AKS**是[日本](../Page/日本.md "wikilink")一家[人才派遣公司](https://zh.wikipedia.org/wiki/人才派遣 "wikilink")，為[AKB48](../Page/AKB48.md "wikilink")及其姊妹團體[HKT48](../Page/HKT48.md "wikilink")、[NGT48](../Page/NGT48.md "wikilink")的營運單位、以及[AKB48集團](../Page/AKB48集團.md "wikilink")的統籌營運單位，同時持有[商標等相關](https://zh.wikipedia.org/wiki/商標 "wikilink")[版權](https://zh.wikipedia.org/wiki/版權 "wikilink")。總部設在[唐吉訶德](../Page/唐吉訶德_\(企業\).md "wikilink")[秋葉原](../Page/秋葉原.md "wikilink")店8樓，與[AKB48劇場](../Page/AKB48劇場.md "wikilink")同一樓層。除了[經紀公司](../Page/經紀公司.md "wikilink")的功能外，也經營[唱片製作](../Page/唱片公司.md "wikilink")、[出版發行](https://zh.wikipedia.org/wiki/出版 "wikilink")、[電影企畫等](https://zh.wikipedia.org/wiki/電影 "wikilink")[演藝業務](https://zh.wikipedia.org/wiki/演藝 "wikilink")。
+**AKS**是[日本](../Page/日本.md "wikilink")一家[演藝事業公司](../Page/演藝界.md "wikilink")，為[AKB48](../Page/AKB48.md "wikilink")及其姊妹團體[HKT48](../Page/HKT48.md "wikilink")、[NGT48](../Page/NGT48.md "wikilink")的營運單位，以及[AKB48集團](../Page/AKB48集團.md "wikilink")的統籌營運單位，同時持有[商標等相關](https://zh.wikipedia.org/wiki/商標 "wikilink")[版權](https://zh.wikipedia.org/wiki/版權 "wikilink")。除了[經紀公司](../Page/經紀公司.md "wikilink")的功能外，也經營[唱片製作](../Page/唱片公司.md "wikilink")、[出版發行](https://zh.wikipedia.org/wiki/出版 "wikilink")、[電影企畫等演藝業務](https://zh.wikipedia.org/wiki/電影 "wikilink")。
 
 ## 概要
 
@@ -8,7 +8,7 @@
 
 AKS是AKB48、HKT48、NGT48的營運者及經紀公司，但並非個別成員所屬的經紀公司。因此做為一個[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")，這些團體的成員如果沒有以個人身份與其他經紀公司簽約，實際上等同是[自由職業](../Page/自由職業.md "wikilink")。
 
-目前AKB48集團旗下日本國內各團中，[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")和[STU48](../Page/STU48.md "wikilink")不由AKS直營，三團的營運單位（[特許經營](https://zh.wikipedia.org/wiki/特許經營 "wikilink")）分別為株式会社SKE、[吉本興業](../Page/吉本興業.md "wikilink")子公司、以及株式會社STU。
+目前AKB48集團旗下日本國內各團中，[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")和[STU48](../Page/STU48.md "wikilink")不由AKS直營，三團的營運單位（[特許經營](https://zh.wikipedia.org/wiki/特許經營 "wikilink")）分別為子公司Zest、[吉本興業](../Page/吉本興業.md "wikilink")子公司、以及。
 
 ## 歷史
 

@@ -40,6 +40,8 @@ RPG-32於2005年至2012年之間，由俄羅斯國有企業“Bazalt”在約旦
   -
   -
   -
+  -
+  -
   - \[6\]
 
 ## 流行文化
@@ -64,7 +66,7 @@ RPG-32於2005年至2012年之間，由俄羅斯國有企業“Bazalt”在約旦
       - [RPG-29](../Page/RPG-29.md "wikilink")
       - [RPG-30](../Page/RPG-30.md "wikilink")
   - [RPO-A大黃蜂火箭筒](../Page/RPO-A大黃蜂火箭筒.md "wikilink")
-  - [LRAC F1](https://zh.wikipedia.org/wiki/LRAC_F1 "wikilink")
+  - [LRAC F1反坦克火箭筒](https://zh.wikipedia.org/wiki/LRAC_F1反坦克火箭筒 "wikilink")
   - [Panzerfaust 3反坦克榴彈](../Page/Panzerfaust_3反坦克榴彈.md "wikilink")
   - [Mk 153 SMAW](../Page/肩射多用途攻擊武器.md "wikilink")
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")

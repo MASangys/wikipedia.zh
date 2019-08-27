@@ -6,7 +6,7 @@
 
 [Mnet最初是](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")[MBC旗下的一個音樂頻道](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")，2005年與同為以娛樂音樂為主的電視頻道KM合併，Mnet KM音樂錄影帶節（）是其自1999年起共同舉辦的音樂頒獎禮。
 
-2009年10月20日，Mnet KM音樂錄影帶節於官方網頁公告該年之Mnet KM音樂錄影帶節取消。同年11月，典禮正式由Mnet KM音樂錄影帶節更名為Mnet亞洲音樂大獎（；），並由[Mnet Media獨立舉辦](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")。更名標誌著觀念和處理形式的新變化，大眾可自行投選心儀的藝人使其贏得各大獎項。本屆典禮除韓國本土外，亦通過[Channel V國際頻道在](https://zh.wikipedia.org/wiki/Channel_V國際頻道 "wikilink")[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[香港](../Page/香港.md "wikilink")、[日本](../Page/日本.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[泰國及](https://zh.wikipedia.org/wiki/泰國 "wikilink")[東南亞其他地區播出](https://zh.wikipedia.org/wiki/東南亞 "wikilink")，更特別地頒發了「全球藝術家獎」。此外，本年也新增頒發了音樂類型獎的[韓國演歌獎及其他流行音樂獎項](https://zh.wikipedia.org/wiki/韓國演歌 "wikilink")。自此，作為韓國音樂界的一個重要活動，許多知名藝人和樂隊均相繼出席典禮。
+2009年10月20日，Mnet KM音樂錄影帶節從官方網頁公告該年之Mnet KM音樂錄影帶節取消。同年度11月，典禮正式由Mnet KM音樂錄影帶節更名為Mnet亞洲音樂大獎（；），並由[Mnet Media獨立舉辦](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")。更名標誌著觀念和處理形式的新變化，大眾可自行投選心儀的藝人使其贏得各大獎項。本屆典禮除韓國本土外，亦通過[Channel V國際頻道在](https://zh.wikipedia.org/wiki/Channel_V國際頻道 "wikilink")[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[香港](../Page/香港.md "wikilink")、[日本](../Page/日本.md "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[泰國及](https://zh.wikipedia.org/wiki/泰國 "wikilink")[東南亞其他地區播出](https://zh.wikipedia.org/wiki/東南亞 "wikilink")，更特別地頒發了「全球藝術家獎」。此外，本年也新增頒發了音樂類型獎的[韓國演歌獎及其他流行音樂獎項](https://zh.wikipedia.org/wiki/韓國演歌 "wikilink")。自此，作為韓國音樂界的一個重要活動，許多知名藝人和樂隊均相繼出席典禮。
 
 2010年，典禮首次在韓國以外的地區（[中國澳門](https://zh.wikipedia.org/wiki/中國澳門 "wikilink")）舉辦，在澳門及[中國大陸等廣泛地區直播](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，影響力日益擴大。
 

@@ -32,7 +32,7 @@
 
 ## 参考文献
 
-[Category:2009年音乐专辑](https://zh.wikipedia.org/wiki/Category:2009年音乐专辑 "wikilink") [Category:流行音乐专辑](https://zh.wikipedia.org/wiki/Category:流行音乐专辑 "wikilink") [Category:中国大陆音乐专辑](https://zh.wikipedia.org/wiki/Category:中国大陆音乐专辑 "wikilink")
+[Category:2009年音乐专辑](https://zh.wikipedia.org/wiki/Category:2009年音乐专辑 "wikilink") [Category:曾轶可音乐专辑](https://zh.wikipedia.org/wiki/Category:曾轶可音乐专辑 "wikilink")
 
 1.
 2.

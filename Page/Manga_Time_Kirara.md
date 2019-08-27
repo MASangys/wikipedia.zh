@@ -143,7 +143,7 @@
 <td></td>
 <td></td>
 <td><p>2014年11月号</p></td>
-<td></td>
+<td><p>2019年9月号结束</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -160,7 +160,7 @@
 <td><p>阿部</p></td>
 <td><p>2017年2、5月号</p></td>
 <td><p>2017年8月号</p></td>
-<td></td>
+<td><p>2019年9月号结束</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/城下町的蒲公英.md" title="wikilink">城下町的蒲公英</a></p></td>
@@ -339,7 +339,6 @@
 ## 過去連載的主要作品
 
   - [隠密☆少女](https://zh.wikipedia.org/wiki/隠密☆少女 "wikilink") （[関根亮子](https://zh.wikipedia.org/wiki/関根亮子 "wikilink")、創刊号 - 2005年2月号）
-  - [LOVE ME DO](https://zh.wikipedia.org/wiki/LOVE_ME_DO_\(漫画\) "wikilink") （[新条るる](https://zh.wikipedia.org/wiki/新条るる "wikilink")、創刊号 - 2005年9月号）
   - [ちょこパフェ](https://zh.wikipedia.org/wiki/ちょこパフェ "wikilink") （[いずみ](https://zh.wikipedia.org/wiki/かずといずみ "wikilink")、2002年12月号 - 2005年4月号。『まんがタイム』と並行連載）
   - [ハイリスクみらくる](https://zh.wikipedia.org/wiki/ハイリスクみらくる "wikilink") （[吉谷やしよ](https://zh.wikipedia.org/wiki/吉谷やしよ "wikilink")、2003年1月号 - 2004年10月号）
 
@@ -375,7 +374,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p>rowspan=10 </p></td>
+<td><p>rowspan=11 </p></td>
 <td><p>Vol. 1</p></td>
 <td><p>2005年2月号</p></td>
 <td><p>曾同时连载于姐妹杂志</p></td>
@@ -464,14 +463,41 @@
 </tr>
 <tr class="odd">
 <td></td>
+<td></td>
+<td><p>2005年9月号</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>Pocket</p></td>
+<td></td>
+<td><p>rowspan=3 </p></td>
+<td><p>Vol. 2</p></td>
+<td><p>2005年11月号</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td><p>2005年5月号</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
 <td><p>{{lang|ja|こちら☆世界征服同好会</p></td>
 <td><p>!}}</p></td>
 <td><p>上原甲斐</p></td>
-<td></td>
-<td><p>Vol. 2</p></td>
 <td><p>2005年12月号</p></td>
+<td></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -480,7 +506,7 @@
 <td><p>2006年1月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -489,7 +515,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1年777組.md" title="wikilink">1年777組</a></p></td>
 <td></td>
 <td></td>
@@ -498,7 +524,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/三者三葉.md" title="wikilink">三者三葉</a></p></td>
 <td></td>
 <td><p><a href="../Page/荒井切利.md" title="wikilink">荒井切利</a></p></td>
@@ -507,7 +533,7 @@
 <td><p>2019年1月号</p></td>
 <td><p>曾同时连载于姐妹杂志</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>星河</p></td>
@@ -516,7 +542,7 @@
 <td><p>2005年12月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/姊妹的方程式.md" title="wikilink">姊妹的方程式</a></p></td>
 <td></td>
 <td></td>
@@ -525,7 +551,7 @@
 <td><p>2007年12月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/恶魔美眉救救我" title="wikilink">恶魔美眉救救我</a></p></td>
 <td></td>
 <td></td>
@@ -534,7 +560,7 @@
 <td><p>2006年5月号</p></td>
 <td><p>曾同时连载于姐妹杂志</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>桑原笑笑笑</p></td>
@@ -543,7 +569,7 @@
 <td><p>2009年6月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p><a href="../Page/三宅大志.md" title="wikilink">三宅大志</a></p></td>
@@ -555,14 +581,23 @@
 后转移至《<a href="../Page/Dragon_Age_Pure.md" title="wikilink">Dragon Age Pure</a>》<br />
 收录于《绯红圣战》单行本</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>{{lang|ja|ビジュアル探偵明智クン</p></td>
 <td><p>}}</p></td>
 <td></td>
-<td><p>rowspan=3 </p></td>
+<td><p>rowspan=4 </p></td>
 <td><p>2003年12月号</p></td>
 <td><p>2006年11月号</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td><p>2005年6月号</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -584,6 +619,15 @@
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td><p>里美</p></td>
+<td></td>
+<td><p>2004年4月号</p></td>
+<td><p>2005年7月号</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/ROM-LESS_虛擬女僕貓餐館.md" title="wikilink">ROM-LESS 虛擬女僕貓餐館</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/白雪诗音" title="wikilink">白雪诗音</a></p></td>
@@ -593,7 +637,7 @@
 <td><p>2007年2月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/今井神" title="wikilink">今井神</a></p></td>
@@ -602,7 +646,7 @@
 <td><p>2011年7月号</p></td>
 <td><p>迁移自姐妹杂志</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p><a href="../Page/季遊月聰子.md" title="wikilink">季遊月聰子</a></p></td>
@@ -612,7 +656,7 @@
 <td><p>曾长期休载<br />
 外传特别刊载于2018年9月号和11月号以及《<a href="../Page/Manga_Time_Kirara_Forward.md" title="wikilink">Manga Time Kirara Forward</a>》2019年1月号和2月号》</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -621,7 +665,7 @@
 <td><p>2008年6月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>澤野明</p></td>
@@ -630,7 +674,7 @@
 <td><p>2006年2月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>京堂</p></td>
@@ -639,7 +683,7 @@
 <td><p>2006年2月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>TW<sup>2</sup></p></td>
 <td></td>
@@ -648,7 +692,7 @@
 <td><p>2007年9月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -657,7 +701,7 @@
 <td><p>2007年7月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>真未</p></td>
@@ -666,7 +710,7 @@
 <td><p>曾长期休载</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -675,7 +719,7 @@
 <td><p>2006年6月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -684,7 +728,7 @@
 <td><p>2007年9月号</p></td>
 <td><p>单行本由<a href="../Page/一迅社.md" title="wikilink">一迅社</a>出版</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>音木</p></td>
@@ -693,7 +737,7 @@
 <td><p>2007年12月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>凪庵</p></td>
@@ -702,7 +746,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -711,7 +755,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>世界末日-{zh-tw:症候群;zh-cn:综合征;zh-hk:綜合症}-</p></td>
 <td></td>
 <td></td>
@@ -720,7 +764,7 @@
 <td><p>2008年7月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -729,7 +773,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/造梦同人志" title="wikilink">造梦同人志</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/自称清纯派" title="wikilink">Hiroyuki</a></p></td>
@@ -739,7 +783,7 @@
 <td><p>包括本篇与番外篇<br />
 曾同时连载于姐妹杂志</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -748,7 +792,7 @@
 <td><p>2006年10月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p><a href="../Page/里好.md" title="wikilink">里好</a></p></td>
@@ -759,7 +803,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -768,7 +812,7 @@
 <td><p>2006年12月号</p></td>
 <td><p>收录于出版的《大祭》</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p><a href="../Page/Naphthalene水嶋.md" title="wikilink">Naphthalene水嶋</a></p></td>
@@ -777,7 +821,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -786,7 +830,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -798,7 +842,7 @@
 完结篇连载于《》<br />
 单行本由<a href="https://zh.wikipedia.org/wiki/enterbrain" title="wikilink">enterbrain出版</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -807,7 +851,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>小林哲哉</p></td>
@@ -818,7 +862,7 @@
 <td><p>2010年7月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -827,7 +871,7 @@
 <td><p>2010年2月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/白雪诗音" title="wikilink">白雪诗音</a></p></td>
@@ -836,7 +880,7 @@
 <td><p>2009年5月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/K-ON!" title="wikilink">K-ON!</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/kakifly" title="wikilink">kakifly</a></p></td>
@@ -845,7 +889,7 @@
 <td><p>2010年10月号</p></td>
 <td><p>曾同时连载于姐妹杂志</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>便弁郎</p></td>
@@ -854,7 +898,7 @@
 <td><p>2009年11月号</p></td>
 <td><p>曾长期休载</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>娘太丸</p></td>
@@ -863,7 +907,7 @@
 <td><p>2009年12月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -872,7 +916,7 @@
 <td><p>2009年10月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>七松建司</p></td>
@@ -881,7 +925,7 @@
 <td><p>2008年7月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/花嫁三次方.md" title="wikilink">花嫁三次方</a></p></td>
 <td></td>
 <td></td>
@@ -890,7 +934,7 @@
 <td><p>2010年8月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -899,7 +943,7 @@
 <td><p>2013年6月号</p></td>
 <td><p>因作者住院而终止连载</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/超萌！高校生同居日记" title="wikilink">超萌！高校生同居日记</a></p></td>
 <td><p>Sweet Home</p></td>
 <td></td>
@@ -908,7 +952,7 @@
 <td><p>2010年12月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -917,7 +961,7 @@
 <td><p>2010年10月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>鳥取砂丘</p></td>
@@ -926,7 +970,7 @@
 <td><p>2011年2月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>ms/hirahira.net</p></td>
@@ -935,7 +979,7 @@
 <td><p>2010年1月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/加奈日记" title="wikilink">加奈日记</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/石见翔子" title="wikilink">石见翔子</a></p></td>
@@ -945,7 +989,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>源五郎</p></td>
@@ -954,7 +998,7 @@
 <td><p>2011年10月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -963,7 +1007,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -972,7 +1016,7 @@
 <td><p>2014年5月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>娘太丸</p></td>
@@ -981,7 +1025,7 @@
 <td><p>2012年4月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>ms</p></td>
@@ -990,7 +1034,7 @@
 <td><p>2012年10月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/樱桃花开了.md" title="wikilink">樱桃花开了</a></p></td>
 <td></td>
 <td></td>
@@ -999,7 +1043,7 @@
 <td><p>2016年7月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>|BeLL</p></td>
 <td></td>
@@ -1008,7 +1052,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>片吹直理</p></td>
@@ -1017,7 +1061,7 @@
 <td><p>2012年2月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1026,7 +1070,7 @@
 <td><p>2014年5月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1035,7 +1079,7 @@
 <td><p>未出版单行本</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1044,7 +1088,7 @@
 <td><p>2014年1月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1053,7 +1097,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/K-ON!" title="wikilink">-{zh-cn:轻音少女; zh-tw:K-ON！輕音部; zh-hk:K-ON！輕音少女; zh-sg:K-ON!}- college</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/kakifly" title="wikilink">kakifly</a></p></td>
@@ -1062,7 +1106,7 @@
 <td><p>2012年7月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1071,7 +1115,7 @@
 <td><p>2017年7月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>伍長</p></td>
@@ -1080,7 +1124,7 @@
 <td><p>未出版单行本</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1089,7 +1133,7 @@
 <td><p>2014年3月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1098,7 +1142,7 @@
 <td><p>2014年4月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1107,7 +1151,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>JOB&amp;JOY</p></td>
 <td><p>井上</p></td>
@@ -1116,7 +1160,7 @@
 <td><p>2014年3月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1125,7 +1169,7 @@
 <td><p>2014年10月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1134,7 +1178,7 @@
 <td><p>2013年6月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1143,7 +1187,7 @@
 <td><p>2014年9月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>女大学生生活样式</p></td>
 <td></td>
 <td></td>
@@ -1153,7 +1197,7 @@
 <td><p>2014年8月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1162,7 +1206,7 @@
 <td><p>未出版单行本</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1171,7 +1215,7 @@
 <td><p>未出版单行本</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p><a href="../Page/牛乳乃澪.md" title="wikilink">牛乳乃澪</a></p></td>
@@ -1180,7 +1224,7 @@
 <td><p>未出版单行本</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1189,7 +1233,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>ms</p></td>
@@ -1198,7 +1242,7 @@
 <td><p>未出版单行本</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1207,7 +1251,7 @@
 <td><p>2015年7月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1216,7 +1260,7 @@
 <td><p>2016年2月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1225,7 +1269,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1234,7 +1278,7 @@
 <td><p>2014年12月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1243,7 +1287,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1252,7 +1296,7 @@
 <td><p>2015年9月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1261,7 +1305,7 @@
 <td><p>2016年6月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>大正浪漫咖啡谭<br />
 少女们的乐园S</p></td>
 <td></td>
@@ -1271,7 +1315,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>文月</p></td>
@@ -1280,7 +1324,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1289,7 +1333,7 @@
 <td><p>2016年12月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>花咲</p></td>
@@ -1298,7 +1342,7 @@
 <td><p>2016年11月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1307,7 +1351,7 @@
 <td><p>未出版单行本</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1316,7 +1360,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>微微悸动的心该怎么办才好</p></td>
 <td></td>
 <td><p>悠理</p></td>
@@ -1325,7 +1369,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>邻家</p></td>
 <td></td>
 <td></td>
@@ -1334,7 +1378,7 @@
 <td><p>2016年8月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Shiny☆Studȳ～绝对合格宣言～</p></td>
 <td></td>
 <td></td>
@@ -1343,7 +1387,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>我的S系女王責編</p></td>
 <td></td>
 <td></td>
@@ -1352,7 +1396,7 @@
 <td><p>2017年9月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1361,7 +1405,7 @@
 <td><p>2017年4月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1370,7 +1414,7 @@
 <td><p>2017年3月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>爱哭鬼策略</p></td>
 <td></td>
 <td><p>西巳</p></td>
@@ -1379,7 +1423,7 @@
 <td><p>2017年11月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1388,7 +1432,7 @@
 <td><p>2018年8月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>魅魔少女</p></td>
 <td></td>
 <td></td>
@@ -1397,7 +1441,7 @@
 <td><p>2018年11月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>我想待在你身边撒娇的日子</p></td>
 <td></td>
 <td><p><a href="../Page/川井真琴.md" title="wikilink">川井真琴</a></p></td>
@@ -1406,7 +1450,7 @@
 <td><p>2019年5月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1415,7 +1459,7 @@
 <td><p>2017年12月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1424,7 +1468,7 @@
 <td><p>2018年1月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1433,7 +1477,7 @@
 <td><p>2018年9月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>深月遊</p></td>
@@ -1442,7 +1486,7 @@
 <td><p>2018年5月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>葵蓝兔</p></td>
@@ -1451,7 +1495,7 @@
 <td><p>2018年12月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>鸿巢觉</p></td>
@@ -1460,7 +1504,7 @@
 <td><p>2019年7月号</p></td>
 <td><p>迁移自姐妹杂志</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/乌菈菈迷路帖" title="wikilink">乌菈菈迷路帖</a></p></td>
 <td></td>
 <td><p><a href="../Page/Harikamo.md" title="wikilink">Harikamo</a></p></td>

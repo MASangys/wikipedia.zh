@@ -136,7 +136,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://en.wikipedia.org/wiki/Penn_Zero:_Part-Time_Hero">Penn Zero：太空英雄</a></p></td>
-<td><p><strong>胖胖</strong></p></td>
+<td><p><strong>胖胖</strong><br />
+亞當湯姆貿白德威</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -145,7 +146,9 @@
 <td><p>2015</p></td>
 <td><p><a href="../Page/公主闖天關.md" title="wikilink">公主闖天關</a></p></td>
 <td><p><strong>魯多</strong><br />
-蒼蠅頭</p></td>
+蒼蠅頭<br />
+普林斯頓<br />
+亂說靈</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -153,14 +156,16 @@
 <td><p>2017</p></td>
 <td><p><a href="../Page/魔髮奇緣_(電視影集).md" title="wikilink">魔髮奇緣</a></p></td>
 <td><p><strong>菲瑞安</strong><br />
+<strong>鉤腳</strong><br />
 帕克<br />
 史坦<br />
 奈吉爾<br />
-<strong>鉤腳</strong><br />
-崔弗國王<br />
+崔佛國王<br />
 威索<br />
 赫克托<br />
 老公<br />
+尖塔守護者<br />
+光天化日小偷-威廉<br />
 Constable Lumph<br />
 狄馬尼勳爵</p></td>
 <td></td>
@@ -168,7 +173,7 @@ Constable Lumph<br />
 </tr>
 <tr class="even">
 <td><p>2019</p></td>
-<td><p><a href="../Page/馴龍高手_(電視影集).md" title="wikilink">馴龍高手(電視影集)</a></p></td>
+<td><p><a href="../Page/馴龍高手_(電視影集).md" title="wikilink">馴龍高手：比賽直到盡頭</a></p></td>
 <td><p>大剋</p></td>
 <td><p><a href="../Page/東森幼幼台.md" title="wikilink">東森幼幼台</a></p></td>
 <td></td>

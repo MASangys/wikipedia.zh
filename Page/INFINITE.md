@@ -1,4 +1,4 @@
-**INFINITE**（）[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")，現任成員有[聖圭](https://zh.wikipedia.org/wiki/聖圭 "wikilink")、[東雨](https://zh.wikipedia.org/wiki/東雨 "wikilink")、[優鉉](https://zh.wikipedia.org/wiki/優鉉 "wikilink")、[成烈](https://zh.wikipedia.org/wiki/成烈 "wikilink")、[L和](../Page/金明洙.md "wikilink")[成鍾](https://zh.wikipedia.org/wiki/成鍾 "wikilink")。所屬公司為[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")，出道前由韓國嘻哈團體[Epik High成員](../Page/Epik_High.md "wikilink")[Tablo培訓](https://zh.wikipedia.org/wiki/Tablo "wikilink")。於2010年6月9日以歌曲〈再次回來吧〉正式出道。 2017年8月30日，成員[Hoya](../Page/Hoya.md "wikilink")不續約退出團體，組合改以六人形式繼續活動。
+**INFINITE**（）[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[男子音樂團體](https://zh.wikipedia.org/wiki/男子音樂團體 "wikilink")，現任成員有[聖圭](https://zh.wikipedia.org/wiki/聖圭 "wikilink")、[東雨](https://zh.wikipedia.org/wiki/東雨 "wikilink")、[優鉉](https://zh.wikipedia.org/wiki/優鉉 "wikilink")、[成烈](https://zh.wikipedia.org/wiki/成烈 "wikilink")、[L和](../Page/金明洙.md "wikilink")[成鍾](https://zh.wikipedia.org/wiki/成鍾 "wikilink")。所屬公司為[Woollim娛樂](../Page/Woollim娛樂.md "wikilink")，出道前由韓國嘻哈團體[Epik High成員](../Page/Epik_High.md "wikilink")[Tablo培訓](https://zh.wikipedia.org/wiki/Tablo "wikilink")。於2010年6月9日以歌曲〈再次回來吧〉正式出道。 2017年8月30日，成員[Hoya](../Page/Hoya.md "wikilink")不續約退出團體，組合改以六人形式繼續活動。2019年8月19日，成員[L不續約](https://zh.wikipedia.org/wiki/L "wikilink")，但仍為團體成員。
 
 團名的含義是希望團體和成員在音樂或其他方面均具有無界限的可能性。團體標誌為代表無限大的符號「∞」，會隨著每次專輯和活動概念而更換視覺設計。官方歌迷名稱為「INSPIRIT」（）於2011年1月20日由粉絲投票誕生。有激勵、鼓勵的意思，且其中的「IN」代表INFINITE，「SPIRIT」意指活力、心靈 。應援色為珍珠金屬金色（Pearl Metal Gold），官方應援手燈被成員和粉絲命名為「老婆棒」。INSPIRIT Fanclub於2011年8月17日成立。
 
@@ -128,7 +128,7 @@
 
 10月27日，LOVEY DOVEY X INFINITE限定版聯名香水上市。\[40\]
 
-### 2019年：數位單曲《CLOCK》、東雨solo出道、成烈與東雨入伍、優鉉迷你三輯
+### 2019年：數位單曲《CLOCK》、東雨solo出道、成烈、東雨與成種入伍、優鉉迷你三輯、L合約到期不續約
 
 2月13日，發行數位單曲《CLOCK》。
 
@@ -139,6 +139,8 @@
 5月8日，[優鉉發行個人第三張迷你專輯](https://zh.wikipedia.org/wiki/優鉉 "wikilink")《A NEW JOURNEY》以主打歌〈Hold On Me〉活動。
 
 7月22日，[成鍾現役入伍](https://zh.wikipedia.org/wiki/成種 "wikilink")
+
+8月18日，[L表示與經紀公司Woollim的合約到期而決定不續約](../Page/金明洙.md "wikilink")，打算自己闖蕩演藝圈。
 
 ## 成員列表
 
@@ -199,7 +201,7 @@ PlotData =
 ` color:grey width:10 textcolor:black align:left anchor:from`
 ` bar:SungYeol from:03/26/2019 till:10/27/2020`
 ` color:black width:10 textcolor:black align:left anchor:from`
-` bar:L from:06/09/2010 till:end`
+` bar:L from:06/09/2010 till:08/18/2019`
 ` color:yellow width:10 textcolor:black align:left anchor:from`
 ` bar:SungJong from:06/09/2010 till:end`
 ` color:grey width:10 textcolor:black align:left anchor:from`

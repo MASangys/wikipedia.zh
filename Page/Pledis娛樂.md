@@ -6,7 +6,7 @@
 
 2014年7月31日宣布Pledis與Fantagio透過Tricell Media一起經營[Hello Venus的企劃已結束](../Page/Hello_Venus.md "wikilink")，雙方公司協議終止此項計劃，Pledis的所屬成員[柳娥羅](../Page/柳娥羅.md "wikilink")與[慎胤祖](../Page/慎胤祖.md "wikilink")也因此退出組合。\[2\]
 
-2018年9月21日與CJ E\&M合資成立公司Off The Record娱乐，正式接管[IZ\*ONE](../Page/IZ*ONE.md "wikilink")和[fromis_9的一切活动](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")。
+2018年9月21日與[CJ E\&M合資成立公司Off](../Page/CJ_E&M.md "wikilink") The Record娱乐，正式接管[IZ\*ONE](../Page/IZ*ONE.md "wikilink")和[fromis_9的一切活动](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")。
 
 2018年11月在中国成立分公司星灿盛世。
 

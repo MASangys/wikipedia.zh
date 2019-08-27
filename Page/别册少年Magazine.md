@@ -1,4 +1,4 @@
-《**別冊少年Magazine**》（原名：）是[日本](../Page/日本.md "wikilink")[講談社出版的](https://zh.wikipedia.org/wiki/講談社 "wikilink")[少年漫畫雜誌](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，每月9日發售，定價500日圓，於2009年9月9日創刊（2009年10月號）。創刊時的理念是要收錄奇幻系的作品為主\[1\]。
+《**別冊少年Magazine**》（）是[日本](../Page/日本.md "wikilink")[講談社出版的](https://zh.wikipedia.org/wiki/講談社 "wikilink")[少年漫畫雜誌](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，每月9日發售，定價500日圓，於2009年9月9日創刊（2009年10月號）。創刊時的理念是要收錄奇幻系的作品為主\[1\]。
 
 ## 連載中作品
 
@@ -9,8 +9,7 @@
 <tr class="header">
 <th><p>作品名稱（中文）</p></th>
 <th><p>作品名稱（日文）</p></th>
-<th><p>作者（作畫）</p></th>
-<th><p>原作</p></th>
+<th><p>作者</p></th>
 <th><p>起載號</p></th>
 <th><p>備註</p></th>
 </tr>
@@ -20,7 +19,6 @@
 <td><p><a href="../Page/進擊的巨人.md" title="wikilink">進擊的巨人</a></p></td>
 <td></td>
 <td><p><a href="../Page/諫山創.md" title="wikilink">諫山創</a></p></td>
-<td></td>
 <td><p>2009年10月號<br />
 </p></td>
 <td></td>
@@ -29,12 +27,10 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/飛翔的魔女" title="wikilink">飛翔的魔女</a></p></td>
 <td></td>
 <td><p><a href="../Page/石塚千尋.md" title="wikilink">石塚千尋</a></p></td>
-<td></td>
 <td><p>2012年9月號</p></td>
 <td><p>隔月連載</p></td>
 </tr>
 <tr class="odd">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -44,22 +40,21 @@
 <tr class="even">
 <td><p><a href="../Page/亞爾斯蘭戰記.md" title="wikilink">亞爾斯蘭戰記</a></p></td>
 <td></td>
-<td><p><a href="../Page/荒川弘.md" title="wikilink">荒川弘</a></p></td>
-<td><p><a href="../Page/田中芳樹.md" title="wikilink">田中芳樹</a></p></td>
+<td><p><a href="../Page/荒川弘.md" title="wikilink">荒川弘</a><br />
+<a href="../Page/田中芳樹.md" title="wikilink">田中芳樹</a></p></td>
 <td><p>2013年8月號</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/朋友遊戲.md" title="wikilink">朋友遊戲</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/佐藤友生" title="wikilink">佐藤友生</a></p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐藤友生" title="wikilink">佐藤友生</a><br />
+</p></td>
 <td><p>2014年1月號</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+<td><p><a href="../Page/獵獸神兵.md" title="wikilink">獵獸神兵</a></p></td>
 <td></td>
 <td></td>
 <td><p>2014年7月號</p></td>
@@ -70,22 +65,20 @@
 <td><p>HAPPINESS}}</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/押見修造" title="wikilink">押見修造</a></p></td>
-<td></td>
 <td><p>2015年3月號</p></td>
 </tr>
 <tr class="even">
 <td><p>29歳独身中堅冒險者的日常</p></td>
 <td></td>
 <td><p>奈良一平</p></td>
-<td></td>
 <td><p>2016年2月號</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>我立於百萬生命之上</p></td>
 <td></td>
-<td><p><a href="../Page/奈央晃德.md" title="wikilink">奈央晃德</a></p></td>
-<td><p>山川直輝</p></td>
+<td><p><a href="../Page/奈央晃德.md" title="wikilink">奈央晃德</a><br />
+山川直輝</p></td>
 <td><p>2016年7月號</p></td>
 <td></td>
 </tr>
@@ -93,7 +86,6 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/UQ_HOLDER！悠久持有者！" title="wikilink">UQ HOLDER！悠久持有者！</a></p></td>
 <td></td>
 <td><p><a href="../Page/赤松健.md" title="wikilink">赤松健</a></p></td>
-<td></td>
 <td><p>2016年11月號</p></td>
 <td><p>從《<a href="../Page/週刊少年Magazine.md" title="wikilink">週刊少年Magazine</a>》移籍</p></td>
 </tr>
@@ -101,47 +93,45 @@
 <td></td>
 <td></td>
 <td><p>長門知大</p></td>
-<td></td>
 <td><p>2016年11月號</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/騷亂時節的少女們.md" title="wikilink">騷亂時節的少女們</a></p></td>
 <td></td>
-<td></td>
-<td><p>絵本奈央</p></td>
-<td><p><a href="../Page/岡田麿里.md" title="wikilink">岡田麿里</a></p></td>
+<td><p>絵本奈央<br />
+<a href="../Page/岡田麿里.md" title="wikilink">岡田麿里</a></p></td>
 <td><p>2017年1月號</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>青春奇人傳！240學園</p></td>
 <td></td>
-<td></td>
-<td><p><a href="../Page/西尾維新.md" title="wikilink">西尾維新</a></p></td>
+<td><p><br />
+<a href="../Page/西尾維新.md" title="wikilink">西尾維新</a></p></td>
 <td><p>2017年3月號</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/世界還是女友難以抉擇" title="wikilink">世界還是女友難以抉擇</a></p></td>
+<td><p><a href="../Page/世界與女友難以抉擇.md" title="wikilink">世界與女友難以抉擇</a></p></td>
 <td></td>
 <td><p>内山敦司</p></td>
-<td></td>
 <td><p>2017年5月號</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>我的女友棒極啦！</p></td>
 <td></td>
-<td></td>
-<td><p>伊織</p></td>
+<td><p><br />
+伊織</p></td>
 <td><p>2017年7月號</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Fate/Grand_Order#書籍" title="wikilink">Fate/Grand Order -turas réalta-</a></p></td>
 <td></td>
-<td></td>
-<td><p><a href="../Page/TYPE-MOON.md" title="wikilink">TYPE-MOON</a></p></td>
+<td><p><br />
+<a href="../Page/TYPE-MOON.md" title="wikilink">TYPE-MOON</a></p></td>
 <td><p>2017年9月號</p></td>
 <td></td>
 </tr>
@@ -149,13 +139,11 @@
 <td><p>天授之國</p></td>
 <td></td>
 <td><p>泉一聞</p></td>
-<td></td>
 <td><p>2017年11月號</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>丹澤巢立就在這裡！</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td><p>2018年5月號</p></td>
@@ -165,13 +153,11 @@
 <td><p>純與薰</p></td>
 <td></td>
 <td></td>
-<td></td>
 <td><p>2018年6月號</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>水奔流向海</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td><p>2018年9月號</p></td>
@@ -181,29 +167,27 @@
 <td><p>赫之魔典</p></td>
 <td></td>
 <td><p>A-10</p></td>
-<td></td>
 <td><p>2018年10月號</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>伊具貝爾～為動力而生的1000科學</p></td>
 <td></td>
-<td><p>高田桂</p></td>
-<td><p>biki</p></td>
+<td><p>高田桂<br />
+biki</p></td>
 <td><p>2018年12月號</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>下腳痕偵探</p></td>
 <td></td>
-<td><p>百井一途</p></td>
-<td><p>花林</p></td>
+<td><p>百井一途<br />
+</p></td>
 <td><p>2018年12月號</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>魔王大人的突擊地下城視察</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td><p>2019年1月號</p></td>
@@ -213,13 +197,11 @@
 <td><p>哥哥的弟弟</p></td>
 <td></td>
 <td><p><a href="../Page/櫻場小春.md" title="wikilink">櫻場小春</a></p></td>
-<td></td>
 <td><p>2019年1月號</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>東京傭兵株式会社</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td><p>2019年1月號</p></td>
@@ -228,7 +210,7 @@
 </tbody>
 </table>
 
-## 過去連載過作品
+## 過去連載作品
 
   - ポチ（亜桜まる）創刊號～2010年4月號
 
@@ -280,9 +262,9 @@
 
   - 一路平安！（[小林尽](../Page/小林尽.md "wikilink")）2011年6月號～2012年6月號
 
-  - [進撃！巨人中學校](../Page/進擊的巨人.md "wikilink")（原作：諫山創、漫畫：中川沙樹）2012年5月號～2016年8月號
+  - [進擊！巨人中學校](../Page/進擊！巨人中學校.md "wikilink")（原作：諫山創、漫畫：中川沙樹）2012年5月號～2016年8月號
 
-  - [自新世界](https://zh.wikipedia.org/wiki/自新世界 "wikilink")（原作：[貴志祐介](../Page/貴志祐介.md "wikilink")、漫画：及川徹）2012年6月號～2014年7月號
+  - [來自新世界](../Page/來自新世界.md "wikilink")（原作：[貴志祐介](../Page/貴志祐介.md "wikilink")、漫画：及川徹）2012年6月號～2014年7月號
 
   - [Real Account](../Page/Real_Account.md "wikilink")（原作：億章、漫畫：[渡邊靜](../Page/渡邊靜.md "wikilink")）2014年2月號～2014年10月號 ※移籍至 [週刊少年Magazine](../Page/週刊少年Magazine.md "wikilink")
 

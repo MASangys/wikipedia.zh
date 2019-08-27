@@ -13,15 +13,15 @@ VA液晶的开发要追溯到20世纪70年代。那时候被称为DAP方式（De
 ### 優點
 
   - 對比度較高。
-  - 漏光程度較[IPS低](https://zh.wikipedia.org/wiki/IPS廣視角LCD "wikilink")。
+  - 漏光程度較[IPS低](../Page/橫向電場效應顯示技術.md "wikilink")。
   - 色溫較溫和，色彩表現較為豔麗。
-  - 可視角提升到178度，有改善[TN版面失色的問題](https://zh.wikipedia.org/wiki/TN液晶 "wikilink")。
+  - 可視角可達178度，有改善[TN版面失色的問題](https://zh.wikipedia.org/wiki/TN液晶 "wikilink")。
 
 ### 缺點
 
-  - 雖然有跟[IPS一樣的](https://zh.wikipedia.org/wiki/IPS廣視角LCD "wikilink")178度可視角，但左右看螢幕會有偏白的情況。
-  - 色彩還原真實度較[IPS低](https://zh.wikipedia.org/wiki/IPS廣視角LCD "wikilink")。
-  - 不如新一代[IPS螢幕省電](https://zh.wikipedia.org/wiki/IPS廣視角LCD "wikilink")。
+  - 雖然有廣視角的優點，但左右看螢幕會有偏白的情況，較[IPS稍差](../Page/橫向電場效應顯示技術.md "wikilink")。
+  - 色彩還原真實度較[IPS低](../Page/橫向電場效應顯示技術.md "wikilink")。
+  - 不如新一代[IPS螢幕省電](../Page/橫向電場效應顯示技術.md "wikilink")。
 
 ## 外部链接
 

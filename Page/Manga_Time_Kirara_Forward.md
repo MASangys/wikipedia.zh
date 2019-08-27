@@ -46,7 +46,7 @@
   - [Anne Happy♪](../Page/Anne_Happy_♪.md "wikilink") - 2016年4月-6月播放
   - [摇曳露营△](https://zh.wikipedia.org/wiki/摇曳露营△ "wikilink") - 2018年1月-3月播放
   - [遥的接球](https://zh.wikipedia.org/wiki/遥的接球 "wikilink") - 2018年7月-9月播放
-  - [球詠](https://zh.wikipedia.org/wiki/球詠 "wikilink") - 2019年8月號公布動畫化消息，播放時期未定。
+  - [球詠](https://zh.wikipedia.org/wiki/球詠 "wikilink") - 2019年8月號公布動畫化消息，預定於2020年春季播放。
 
 ### Motion Comic化作品
 

@@ -660,6 +660,7 @@ NU'EST W首先與tvN熱門戲劇《[陽光先生](../Page/陽光先生.md "wikil
   - [JR Instagram](https://www.instagram.com/pockyjr/)
   - [旼炫 Instagram](https://www.instagram.com/optimushwang/)
   - [Aron Instagram](https://www.instagram.com/nuestaron/)
+  - [Ren Twitter](https://twitter.com/ChoiGoRen/)
 
 <!-- end list -->
 

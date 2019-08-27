@@ -24,7 +24,7 @@
   - [WordPress.com首页](https://wordpress.com/)
   - [WordPress.com 官方統計資料](https://en.wordpress.com/stats/)
 
-[Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink") [Category:網誌](https://zh.wikipedia.org/wiki/Category:網誌 "wikilink")
+[Category:Automattic](https://zh.wikipedia.org/wiki/Category:Automattic "wikilink") [Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink") [Category:網誌](https://zh.wikipedia.org/wiki/Category:網誌 "wikilink")
 
 1.  [WordPress.com vs. WordPress.org](http://en.support.wordpress.com/com-vs-org/) from the company's website
 2.

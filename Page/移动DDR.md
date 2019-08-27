@@ -1,6 +1,6 @@
 [Tolino_shine_-_controller_board_-_Samsung_K4X2G323PD-8GD8-1997.jpg](https://zh.wikipedia.org/wiki/File:Tolino_shine_-_controller_board_-_Samsung_K4X2G323PD-8GD8-1997.jpg "fig:Tolino_shine_-_controller_board_-_Samsung_K4X2G323PD-8GD8-1997.jpg")
 
-**Mobile DDR**（也称**MDDR**、**Low Power DDR**或**LPDDR**）是[DDR SDRAM的一種](../Page/DDR_SDRAM.md "wikilink")，專門用於[移動式電子產品](../Page/移动设备.md "wikilink")，例如[手机等](https://zh.wikipedia.org/wiki/手机 "wikilink")。
+**移动DDR**（英文：**Mobile DDR**）（也称**MDDR**、**Low Power DDR**或**LPDDR**）是[DDR SDRAM的一種](../Page/DDR_SDRAM.md "wikilink")，專門用於[移動式電子產品](../Page/移动设备.md "wikilink")，例如[手机等](https://zh.wikipedia.org/wiki/手机 "wikilink")。
 
 [DDR内存从](https://zh.wikipedia.org/wiki/DDR "wikilink")[DDR](../Page/DDR_SDRAM.md "wikilink")、[DDR2](../Page/DDR2_SDRAM.md "wikilink")[、DDR3发展到](../Page/DDR3_SDRAM.md "wikilink")[DDR4](../Page/DDR4_SDRAM.md "wikilink")，频率更高、电压更低的同时卻也讓反應時間不断变大，改变着内存子系统。而[DDR4最重要的使命是提高频率和带宽](../Page/DDR4_SDRAM.md "wikilink")，每个针脚都可以提供2Gbps(256MB/s)的带宽，拥有高达4266MHz的频率，内存容量最大可达到128GB，运行电压正常可降低到1.1V\~1.2V。
 

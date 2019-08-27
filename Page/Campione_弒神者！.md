@@ -739,35 +739,30 @@
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th><p>标题</p></th>
-<th><p><a href="../Page/集英社.md" title="wikilink">集英社</a></p></th>
-<th><p><a href="../Page/青文出版社.md" title="wikilink">青文出版社</a></p></th>
+<th><p>集英社</p></th>
+<th><p>青文出版社</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>日文</p></td>
-<td><p>中文</p></td>
-<td><p>初版發售日期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td></td>
-<td><p>Campione弒神者！ I</p></td>
 <td><p>2013年6月4日</p></td>
+<td><p>ISBN 978-4-08-703291-8</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td></td>
-<td><p>Campione弒神者！ II</p></td>
 <td><p>2013年5月24日</p></td>
+<td><p>ISBN 978-4-0878-2600-5</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td></td>
-<td><p>Campione弒神者！ III</p></td>
 <td><p>2013年10月25日</p></td>
+<td><p>ISBN 978-4-0878-2715-6</p></td>
 </tr>
 </tbody>
 </table>

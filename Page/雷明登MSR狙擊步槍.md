@@ -57,12 +57,12 @@
 ## 使用國
 
   -
-  - ：被[城市反恐特種部隊小組](https://zh.wikipedia.org/wiki/城市反恐特種部隊小組 "wikilink")（，簡稱：AFEUR）所使用。\[12\]
+  -   - [城市反恐特種部隊小組](https://zh.wikipedia.org/wiki/城市反恐特種部隊小組 "wikilink")\[12\]
 
-  - ：被[馬來西亞海軍](https://zh.wikipedia.org/wiki/馬來西亞海軍 "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")（[馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")：Pasukan Khas Laut，簡稱：PASKAL）所採用。
+  -   - [馬來西亞海軍](https://zh.wikipedia.org/wiki/馬來西亞海軍 "wikilink")[特種作戰部隊](https://zh.wikipedia.org/wiki/海軍特種作戰部隊 "wikilink")
 
   -
-  - ：在[美國特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")（簡稱：PSR）計劃的招標中中標，被美國特種作戰司令部所採用。\[13\]
+  -   - [美國特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")：雷明登MSR在（簡稱：PSR）計劃的招標中中標，獲美軍特種作戰部隊所採用，並命名為“Mk 21 Mod 0”。\[13\]
 
 ## 流行文化
 

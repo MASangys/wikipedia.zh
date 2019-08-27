@@ -2,7 +2,7 @@
 
 ## 概要
 
-  - 活動中止約1年9個月的[絢香](../Page/絢香.md "wikilink")，於2011年10月宣布成立個人唱片廠牌[A stAtion](https://zh.wikipedia.org/wiki/A_stAtion "wikilink")，同年11月發表約於明年上旬發行新專輯。
+  - 活動中止約1年9個月的[絢香](../Page/絢香.md "wikilink")，於2011年10月宣布成立個人唱片廠牌[A stAtion](https://zh.wikipedia.org/wiki/A_stAtion "wikilink")，同年11月發表約於明年上半年發行新專輯。
   - 此專輯為絢香首次嘗試「自主製作」的專輯。
   - 絢香生涯的第二樂章再開。
 

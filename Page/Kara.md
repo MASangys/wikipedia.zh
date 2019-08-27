@@ -6,7 +6,7 @@
 
 ## 團名由來
 
-團體名稱**KARA**取自[希臘語chara](https://zh.wikipedia.org/wiki/希臘語 "wikilink")（）為喜樂之意，意味著這個團體希望用美妙的聲音把喜悅帶給大家。\[5\]**KARA**的官方應援顏色為珍珠桃色（近似皮膚上的肉色），歌迷的官方名稱為「KAMILIA」，意思為：KARA + FAMILIA ，FAMILIA亦是取自希臘語，意思是FAMILY（家庭），把兩字合併稱作KAMILIA即為KARA跟KARA的FAMILIY，代表著「KARA和歌迷是一體」之意。官方應援物為珍珠桃色氣球。
+團體名稱**KARA**取自[希臘語chara](https://zh.wikipedia.org/wiki/希臘語 "wikilink")（）為喜樂之意，意味著這個團體希望用美妙的聲音把喜悅帶給大家。\[5\]**KARA**的官方應援顏色為珍珠桃色（近似皮膚上的肉色）\[6\]，歌迷的官方名稱為「KAMILIA」，意思為：KARA + FAMILIA ，FAMILIA亦是取自希臘語，意思是FAMILY（家庭），把兩字合併稱作KAMILIA即為KARA跟KARA的FAMILIY，代表著「KARA和歌迷是一體」之意。官方應援物為珍珠桃色氣球。
 
 ## 成員資料
 
@@ -33,7 +33,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/具荷拉" title="wikilink">荷拉</a>[6]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/具荷拉" title="wikilink">荷拉</a>[7]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/鄭龍珠.md" title="wikilink">妮可</a></p></td>
@@ -160,10 +160,10 @@ PlotData =
 
 **成員退出、重組**
 
-  - 1月14日，DSP經紀公司發表聲明[妮可正式宣布退出](../Page/鄭龍珠.md "wikilink")**Kara**。\[7\]
-  - 4月5日，DSP經紀公司發表聲明[知英正式宣布退出](https://zh.wikipedia.org/wiki/姜知英 "wikilink")**Kara**。\[8\]
-  - 7月1日，DSP經紀公司發表聲明[齡智正式宣佈加入](../Page/許齡智.md "wikilink")**Kara**。\[9\]
-  - 7月11日，DSP經紀公司發表聲明重新整合的4人女团KARA将于8月回归韩国乐坛。\[10\]
+  - 1月14日，DSP經紀公司發表聲明[妮可正式宣布退出](../Page/鄭龍珠.md "wikilink")**Kara**。\[8\]
+  - 4月5日，DSP經紀公司發表聲明[知英正式宣布退出](https://zh.wikipedia.org/wiki/姜知英 "wikilink")**Kara**。\[9\]
+  - 7月1日，DSP經紀公司發表聲明[齡智正式宣佈加入](../Page/許齡智.md "wikilink")**Kara**。\[10\]
+  - 7月11日，DSP經紀公司發表聲明重新整合的4人女团KARA将于8月回归韩国乐坛。\[11\]
   - 7月24日，根據韓國DSP經紀公司消息，Kara加入新成員[齡智後將於](../Page/許齡智.md "wikilink")8月18日帶著第六張迷你專輯\<\<Day & Night\>\>回歸。
   - 7月23日，KARA官方facebook網頁公開第六張迷你專輯的名稱《Day & Night》。
   - 7月25日，KARA官方facebook網頁公開第六張迷你專輯回歸日子，定於 8月18日。
@@ -178,20 +178,20 @@ PlotData =
 
 #### 2015年
 
-  - 4月14日，經紀公司 DSP Media 透露，繼去年8月6日發表的第六張迷你專輯《Day & Night》後，時隔歌壇9個月的 KARA，預計五月推出第七張迷你專輯回歸\[11\]。
-  - 5月14日，睽違9個月的時間，KARA 將於5月26日推出第七張迷你專輯《IN LOVE》回歸！專輯預告照14日透過官方臉書公開\[12\]。
-  - 5月15日，KARA 透過官方臉書、推特等社群平台公開第七張迷你專輯《IN LOVE》的封面照片\[13\]。
-  - 5月18日，KARA 齡智《CUPID》預告公開\[14\]。
-  - 5月19日，KARA 奎利《CUPID》預告公開\[15\]。
-  - 5月20日，KARA 昇延《CUPID》預告公開\[16\]。
-  - 5月21日，KARA 荷拉《CUPID》預告公開\[17\]。
-  - 5月22日，KARA 迷你七輯《IN LOVE》曲目、音源試聽公開，專輯當中總共收錄六首歌曲\[18\]。並在同日釋出 KARA《CUPID》團體預告。另外，KARA 將會參加5月23日在首爾世界盃競技場舉行的《[Dream Concert](../Page/夢想演唱會.md "wikilink")》，並且表演新歌《CUPID》，接著專輯發行當日(5月26日) 晚上八點 (韓國時間)，她們會在 Blue Squre Samsung Card Hall 舉辦迷你七輯回歸 SHOWCASE\[19\]。
-  - 5月26日，KARA 透過官方 YouTube 頻道公開主打歌《CUPID》的 MV 。《CUPID》是作曲家 e.one 與 EJ.SHOW 為 KARA 量身打造的歌曲，並於同日公開 MV 和概念照拍攝花絮\[20\]。
-  - 6月4日，KARA 於6月2日透過官方 YouTube 頻道公開第七張迷你專輯《IN LOVE》主打歌《CUPID》的練習室版 MV\[21\]。
+  - 4月14日，經紀公司 DSP Media 透露，繼去年8月6日發表的第六張迷你專輯《Day & Night》後，時隔歌壇9個月的 KARA，預計五月推出第七張迷你專輯回歸\[12\]。
+  - 5月14日，睽違9個月的時間，KARA 將於5月26日推出第七張迷你專輯《IN LOVE》回歸！專輯預告照14日透過官方臉書公開\[13\]。
+  - 5月15日，KARA 透過官方臉書、推特等社群平台公開第七張迷你專輯《IN LOVE》的封面照片\[14\]。
+  - 5月18日，KARA 齡智《CUPID》預告公開\[15\]。
+  - 5月19日，KARA 奎利《CUPID》預告公開\[16\]。
+  - 5月20日，KARA 昇延《CUPID》預告公開\[17\]。
+  - 5月21日，KARA 荷拉《CUPID》預告公開\[18\]。
+  - 5月22日，KARA 迷你七輯《IN LOVE》曲目、音源試聽公開，專輯當中總共收錄六首歌曲\[19\]。並在同日釋出 KARA《CUPID》團體預告。另外，KARA 將會參加5月23日在首爾世界盃競技場舉行的《[Dream Concert](../Page/夢想演唱會.md "wikilink")》，並且表演新歌《CUPID》，接著專輯發行當日(5月26日) 晚上八點 (韓國時間)，她們會在 Blue Squre Samsung Card Hall 舉辦迷你七輯回歸 SHOWCASE\[20\]。
+  - 5月26日，KARA 透過官方 YouTube 頻道公開主打歌《CUPID》的 MV 。《CUPID》是作曲家 e.one 與 EJ.SHOW 為 KARA 量身打造的歌曲，並於同日公開 MV 和概念照拍攝花絮\[21\]。
+  - 6月4日，KARA 於6月2日透過官方 YouTube 頻道公開第七張迷你專輯《IN LOVE》主打歌《CUPID》的練習室版 MV\[22\]。
 
 #### 2016年
 
-  - 1月15日，原始成員奎利、昇延、荷拉於月底約滿，三人皆不續約，只有齡智因為尚有合約，仍然留在DSP Media，不過齡智現時仍為DSP旗下藝人、目前组合已经解散、虽然队长奎利已经提到了有望复出的可能性，但截至到至今尚未有任何KARA复出的消息。\[22\]\[23\]
+  - 1月15日，原始成員奎利、昇延、荷拉於月底約滿，三人皆不續約，只有齡智因為尚有合約，仍然留在DSP Media，不過齡智現時仍為DSP旗下藝人、目前组合已经解散、虽然队长奎利已经提到了有望复出的可能性，但截至到至今尚未有任何KARA复出的消息。\[23\]\[24\]
 
 ### 日本
 
@@ -200,18 +200,19 @@ PlotData =
   - 4月28日，首次限量发行Kara特别专辑《PREMIUM BOX FOR JAPAN》。
   - 5月9日，在横滨港未来大厅举行官方粉丝俱乐部的粉丝见面会。
   - 8月以〈Mr.〉日文版正式在日本出道。
+  - 8月11日，原定於日本東京澀谷109大廈外舉行30分鐘的游擊音樂會公演，卻因約3000名的粉絲聚集，基於安全上的考量，改為3分鐘結束。
   - 8月14日，新木场STUDIO COAST举行单曲〈Mr.〉的签唱会。
   - 9月29日，〈KARA BEST2007-2010〉销售。
   - 11月10日，日本第二单“Jumping”開始發行。
   - 11月24日，發行首張日文專輯《[Girl's Talk](../Page/Girl's_Talk.md "wikilink")》發行首周銷量突破十萬張，前次日本國內除外的亞洲女子團體的專輯首週銷售突破10萬張的專輯是[女子十二樂坊](../Page/女子十二樂坊.md "wikilink")的「輝煌～Shining Energy～」(首週銷售11.8萬張)，相隔6年9個月，初週10万枚突破。
   - 在2010年11月發行的首張日文專輯，在2011年連續五週(1/17\~2/14)保持在Oricon專輯排行榜前五位，這是自2005年羅馬尼亞三人男子團體 O-Zone 以來第一個達成如此成績的海外團體。並且銷售額突破30萬張，來到31.3萬。上次專輯唱片銷售突破30萬張的海外女子團體是[天命真女](../Page/天命真女.md "wikilink")的精選輯《\#1'S》。
 
-#### 2011年
+#### 2011年：各種史上第一次的紀錄
 
   - 2011年度 Oricon Top 100排名，Kara於排行榜中分別以[GO GO Summer\!](https://zh.wikipedia.org/wiki/GO_GO_Summer! "wikilink") (總銷售量: 230,082)獲得第25位、[Jet Coaster Love](../Page/Jet_Coaster_Love.md "wikilink") (總銷售量: 225,175)獲得第26位及Winter Magic獲得第64位。
   - 1月23日，發行MV精選輯DVD《KARA BEST CLIPS》，發行首周銷量達到13.2萬張，拿下Oricon DVD 綜合排行榜的週榜冠軍，成為第一個拿下日本公信榜DVD綜合排行榜冠軍的海外女性藝人，而首周銷量也打破女性藝人非現場演出類的DVD銷量紀錄（原紀錄為2000年[倉木麻衣](../Page/倉木麻衣.md "wikilink")《FIRST CUT》9.9萬張）。
   - 3月，Kara出道後僅八個月在日本發行的影音產品總銷售量即突破100萬張。成為繼[BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")、[東方神起](../Page/東方神起.md "wikilink")後第三位達到此銷售量的韓國藝人。
-  - 4月，Kara在日本推出第三張單曲《[Jet Coaster Love](../Page/Jet_Coaster_Love.md "wikilink")》，發行僅一週即賣出超過10萬張，並獲得日本ORICON公信榜單曲周榜冠軍，此為海外女子團體發行首周即奪得單曲周榜冠軍的首次。
+  - 4月，Kara在日本推出第三張單曲《[Jet Coaster Love](../Page/Jet_Coaster_Love.md "wikilink")》，發行僅一週即賣出超過10萬張，並獲得日本ORICON公信榜單曲周榜冠軍，此為日本ORICON史上第一次海外女子團體發行首周即奪得單曲周榜冠軍。
   - 11月, Kara首張日文專輯《Girl's Talk》銷量突破50萬張。去年12月推出的首張日文專輯《Girl's Talk》截止至2011年11月18日纍計銷售大50萬1999張，《Girl's Talk》上市僅一週銷量過10萬並因此獲得日本金唱片獎。
   - 12月31日, 第62回NHK紅白歌合戰, 首次登場。
 
@@ -226,14 +227,14 @@ PlotData =
 
 #### 2013年
 
-  - 1月6日，Kara在日本東京巨蛋舉行了「KARASIA 2013 HAPPY NEW YEAR in Tokyo Dome」演唱會，是韓國女藝人史上首次在東京巨蛋開唱。
+  - 1月6日，Kara在日本東京巨蛋舉行了「KARASIA 2013 HAPPY NEW YEAR in Tokyo Dome」演唱會，是韓國女藝人史上首次在東京巨蛋開唱，也是繼2003年[t.A.T.u.後第一個於東蛋舉行演唱會的海外女子團體](https://zh.wikipedia.org/wiki/t.A.T.u. "wikilink")。
   - 3月1日至3日，一套專為Kara繪製﹐並由各成員親自配音的動畫《KARA THE ANIMATION》於日本手機電視平台「NOTTV」播放。預告片在Kara2013年日本東京巨蛋演唱會中首次披露。動畫一共有 5 集﹐每集均由一位Kara成員作主人翁。
   - 3月27日，Kara推出第8張日文單曲《[Bye Bye Happy Days\!](../Page/Bye_Bye_Happy_Days!.md "wikilink")》，及年初於日本東京巨蛋舉行之「KARASIA 2013 HAPPY NEW YEAR in Tokyo Dome」演唱會 DVD 和 Bluray 影碟。
   - 8月28日，Kara推出第4張日文專輯《[Fantastic Girls](../Page/Fantastic_Girls.md "wikilink")》，發行當日就在公信榜奪下Top2的佳績，並接著連續4天穩坐單曲榜亞軍的寶座，並收入「再見 美好時光」及「謝謝 夏之戀」。
   - 10月8日至11月24日，横滨体育馆为开端，在福冈、大阪、名古屋、福井、琦玉市，神户约14万人动员「KARA 2nd JAPAN TOUR 2013 KARASIA」日本第二次巡回演唱会。
   - 11月27日，KARA推出第10張日文單曲《[French Kiss](../Page/French_Kiss_\(Kara單曲\).md "wikilink")》與首張日文+韓文精選《Best Girls》，發行當天就上了各榜TOP4，同時也是Nicole和知英退團前最後一張單曲。
 
-#### 2014年
+#### 2014年：成員重組
 
   - 3月19日，“KARA 2nd JAPAN TOUR 2013 KARASIA”演唱会 DVD 和 Blu-ray Disc影碟发售，登上Oricon日排行榜单DVD部分中第4位。
   - 6月1日，在日本武道館举行“KARA FAN MEETING 2014 ～Join Us\! KAMILIA ADVENTURE～”歌迷会。
@@ -243,9 +244,9 @@ PlotData =
 #### 2015年
 
   - 2月14日，在新高輪王子飯店舉行粉絲情人節派對。
-  - 3月23日，KARA 第十二張日文單曲發行確定。為迎接在日本出道五周年，KARA 選在5月5日推出共有三首主打歌的第十二張日文單曲《サマー☆ジック / Sunshine Miracle / SUNNY DAYS》。\[24\]
-  - 3月26日，KARA 第12張日文單曲封面照公開。\[25\]
-  - 4月5日，KARA 第12張日文單曲主打歌之一《SUMMER☆GIC (サマー☆ジック) 》MV 公開。\[26\]
+  - 3月23日，KARA 第十二張日文單曲發行確定。為迎接在日本出道五周年，KARA 選在5月5日推出共有三首主打歌的第十二張日文單曲《サマー☆ジック / Sunshine Miracle / SUNNY DAYS》。\[25\]
+  - 3月26日，KARA 第12張日文單曲封面照公開。\[26\]
+  - 4月5日，KARA 第12張日文單曲主打歌之一《SUMMER☆GIC (サマー☆ジック) 》MV 公開。\[27\]
 
 ## 音樂作品
 
@@ -269,6 +270,8 @@ PlotData =
   - 2012年：[PANDORA](../Page/PANDORA_\(Kara迷你專輯\).md "wikilink")
   - 2014年：[Day & Night](https://zh.wikipedia.org/wiki/Day_&_Night_\(Kara迷你專輯\) "wikilink")
   - 2015年：[IN LOVE](../Page/IN_LOVE_\(Kara迷你專輯\).md "wikilink")
+
+<small>備註：Sweetune音樂團隊曾為KARA寫下好幾首熱門歌曲《Rock U》、《Pretty Girl》、《Lupin》、《Jumping》、《Step》、《Pandora》等大熱專輯(KARA 2.0時期的眾多熱門曲)，也曾經公開聲明只會替5人的KARA作詞曲\[28\]，因此在2014年後Sweetune就再也沒有替KARA 3.0作詞曲。但Sweetune與妮可(2014年離開KARA後發行第一張solo專輯《First Romance》)、昇延(直至2016年，奎利、昇延、荷拉三人與Dsp解約後，Sweetune才又與昇延合作，《那孩子是我》、《過得好嗎Do you remember?》)有個人合作。 </small>
 
 ### 日語
 
@@ -434,21 +437,21 @@ PlotData =
 <li>韓國文化體育觀光部－韓流傳播貢獻獎</li>
 <li>Mnet 20′s Choice－韓流明星獎、校園女神得獎(具荷拉)</li>
 <li>日本Bestdresser頒獎禮－Bestdresser獎</li>
-<li>第53屆日本唱片大獎－优秀作品赏《Go Go Summer》</li>
+<li>第53屆日本唱片大獎－優秀作品賞《Go Go Summer》</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
 <td><ul>
-<li>第26屆韓國金唱片大獎－最佳韓流明星獎、</li>
-<li>第26屆韓國金唱片大獎－唱片本獎《STEP》</li>
+<li>第26屆韓國金唱片大獎－最佳韓流明星獎</li>
+<li>第26屆韓國金唱片大獎－唱片本賞《STEP》</li>
 <li>第7屆亞洲模特獎頒獎典禮－亞洲明星獎</li>
 <li>第21屆HIGH1首爾歌謠大賞－本獎、韓流特別獎</li>
-<li>第26屆日本金唱片大獎－亞洲區最佳藝人</li>
-<li>第26屆日本金唱片大獎－亞洲區三大專輯獎《Girl's Talk》</li>
+<li>第26屆日本金唱片大獎－最佳亞洲藝人獎</li>
+<li>第26屆日本金唱片大獎－亞洲區三大最佳專輯獎《Girl's Talk》</li>
 <li>第26屆日本金唱片大獎－亞洲區最佳音樂錄影帶獎《KARA BEST CLIPS》</li>
 <li>第26屆日本金唱片大獎－最佳下載歌曲獎《Jumping》</li>
-<li>第26屆日本金唱片大獎－亞洲區最佳下載歌曲獎《Jumping》</li>
+<li>第26屆日本金唱片大獎－亞洲區年度最佳下載歌曲獎《Jumping》</li>
 <li>韓國觀光之星頒獎典禮－功勞者部門獎</li>
 <li>第14屆Mnet Asian Music Awards－全球最佳女子團體獎</li>
 </ul></td>
@@ -457,11 +460,11 @@ PlotData =
 <td><p>2013</p></td>
 <td><ul>
 <li>All K-pop Awards－最佳女子團體獎</li>
+<li>第27屆日本金唱片大獎－亞洲區最佳藝人</li>
+<li>第27屆日本金唱片大獎－亞洲區年度最佳專輯獎《Super Girl》</li>
+<li>第27屆日本金唱片大賞－亞洲區三大專輯獎《Super Girl》</li>
 <li>第27屆韓國金唱片大賞－唱片本賞《Pandora》</li>
 <li>第27屆韓國金唱片大賞－馬來西亞最受歡迎明星賞</li>
-<li>第27屆韓國金唱片大賞－亞洲區最佳藝人獎</li>
-<li>第27屆韓國金唱片大賞－亞洲區年度最佳專輯獎《Super Girl》</li>
-<li>第27屆韓國金唱片大賞－亞洲區三大專輯獎《Super Girl》</li>
 <li>第24回日本東京國際珠寶展－最佳珠寶佩戴獎</li>
 <li>第17屆全球華語榜中榜－最受歡迎國際團體獎</li>
 </ul></td>
@@ -469,6 +472,7 @@ PlotData =
 <tr class="even">
 <td><p>2015</p></td>
 <td><ul>
+<li>2014 SBS MTV Best of the Best－最佳女團MV《Mamma Mia》</li>
 <li>第4屆Gaon Chart K-POP Awards－K-POP World 韓流明星獎</li>
 </ul></td>
 </tr>
@@ -681,43 +685,47 @@ PlotData =
 
 5.
 
-6.  **하라**為純韓文，但為了讓中國粉絲能用漢字稱呼**하라**，所以負責代理的[華納音樂為](../Page/華納音樂_\(台灣\).md "wikilink")**Kara**正名時，便將**하라**譯為**荷拉**。
+6.  <http://karaboard.com/data/cheditor4/1211/788f08ff126ea63ac90a55b02fb9b10f_eslN7i2OS22uLn3dp3SjWjjxsfDqa1jR.jpg>
 
-7.
+7.  **하라**為純韓文，但為了讓中國粉絲能用漢字稱呼**하라**，所以負責代理的[華納音樂為](../Page/華納音樂_\(台灣\).md "wikilink")**Kara**正名時，便將**하라**譯為**荷拉**。
 
 8.
 
 9.
 
 10.
-11. [KARA 預計五月回歸](http://kpopn.com/2015/04/14/270576/) 2015年4月14日
 
-12. [KARA 5/26 回歸！](http://kpopn.com/2015/05/14/275533/) 2015年5月14日
+11.
+12. [KARA 預計五月回歸](http://kpopn.com/2015/04/14/270576/) 2015年4月14日
 
-13. [KARA 迷你七輯封面,概念照](http://kpopn.com/2015/05/15/275741/) 2015年5月15日
+13. [KARA 5/26 回歸！](http://kpopn.com/2015/05/14/275533/) 2015年5月14日
 
-14. [KARA 新曲預告：齡智](http://kpopn.com/2015/05/18/276133/) 2015年5月18日
+14. [KARA 迷你七輯封面,概念照](http://kpopn.com/2015/05/15/275741/) 2015年5月15日
 
-15. [KARA 回歸預告：奎利](http://kpopn.com/2015/05/19/276277/) 2015年5月19日
+15. [KARA 新曲預告：齡智](http://kpopn.com/2015/05/18/276133/) 2015年5月18日
 
-16. [KARA 回歸預告：昇延](http://kpopn.com/2015/05/20/276480/) 2015年5月20日
+16. [KARA 回歸預告：奎利](http://kpopn.com/2015/05/19/276277/) 2015年5月19日
 
-17. [KARA 新曲預告：荷拉](http://kpopn.com/2015/05/21/276786/) 2015年5月21日
+17. [KARA 回歸預告：昇延](http://kpopn.com/2015/05/20/276480/) 2015年5月20日
 
-18. [KARA 新輯曲目、試聽](http://kpopn.com/2015/05/22/276907/) 2015年5月22日
+18. [KARA 新曲預告：荷拉](http://kpopn.com/2015/05/21/276786/) 2015年5月21日
 
-19. [KARA《CUPID》團體預告](http://kpopn.com/2015/05/22/276991/) 2015年5月22日
+19. [KARA 新輯曲目、試聽](http://kpopn.com/2015/05/22/276907/) 2015年5月22日
 
-20. [KARA《CUPID》MV](http://kpopn.com/2015/05/26/277543/) 2015年5月26日
+20. [KARA《CUPID》團體預告](http://kpopn.com/2015/05/22/276991/) 2015年5月22日
 
-21. [KARA《CUPID》練習室版](http://kpopn.com/2015/06/04/278797/) 2015年6月4日
+21. [KARA《CUPID》MV](http://kpopn.com/2015/05/26/277543/) 2015年5月26日
 
-22. [KARA正式宣布解散！　「具荷拉等3人各自活動」](http://star.ettoday.net/news/631225) 2016年1月15日
+22. [KARA《CUPID》練習室版](http://kpopn.com/2015/06/04/278797/) 2015年6月4日
 
-23. [KARA复出有望？奎利「我们并非解散」](https://www.koreastardaily.com/sc/news/76790) 2016年4月14日
+23. [KARA正式宣布解散！　「具荷拉等3人各自活動」](http://star.ettoday.net/news/631225) 2016年1月15日
 
-24. [KARA 5/5 推出新日單](http://kpopn.com/2015/03/23/267073/) 2015年3月23日
+24. [KARA复出有望？奎利「我们并非解散」](https://www.koreastardaily.com/sc/news/76790) 2016年4月14日
 
-25. [KARA 第12張日單封面照](http://kpopn.com/2015/03/26/267793/) 2015年3月26日
+25. [KARA 5/5 推出新日單](http://kpopn.com/2015/03/23/267073/) 2015年3月23日
 
-26. [KARA 新日單 MV 公開](http://kpopn.com/2015/04/05/269219/) 2015年4月5日
+26. [KARA 第12張日單封面照](http://kpopn.com/2015/03/26/267793/) 2015年3月26日
+
+27. [KARA 新日單 MV 公開](http://kpopn.com/2015/04/05/269219/) 2015年4月5日
+
+28. <https://namu.wiki/w/Sweetune#s-2.4>

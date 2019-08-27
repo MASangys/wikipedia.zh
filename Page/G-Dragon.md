@@ -1,4 +1,4 @@
-**權志龍**（，，，），韓國歌手、[饒舌](../Page/饒舌.md "wikilink")者及詞曲作者。他以藝名**G-DRAGON**（，）為人熟知，為[YG娛樂](../Page/YG娛樂.md "wikilink")旗下男子團體[BIGBANG之隊長](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")。2006年，18歲時以新人[Hip-hop偶像组合](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")[BIGBANG的隊長正式出道](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，並於團體中擔任主[Rapper和副唱](../Page/饒舌.md "wikilink")。
+**權志龍**（，，，），韓國歌手、[饒舌](../Page/饒舌.md "wikilink")者及詞曲作者。他以藝名**G-DRAGON**（，）為人熟知，是[YG娛樂](../Page/YG娛樂.md "wikilink")旗下男子團體[BIGBANG之隊長](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")。2006年，18歲時以新人[Hip-hop偶像组合](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")[BIGBANG的隊長正式出道](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，並於團體中擔任主[Rapper和副主唱](../Page/饒舌.md "wikilink")。
 
 現今的他為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[YG娛樂](../Page/YG娛樂.md "wikilink")主要製作人之一。2012年時韓國某家媒體曾計算過如果G-Dragon一年不工作，他仍會有幾千萬的版稅收入，現今仍是韓國演藝圈每年最多歌曲版稅收入的第一位。韓國音樂著作權家協會登記編號為W0726200。
 

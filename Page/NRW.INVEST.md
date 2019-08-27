@@ -16,9 +16,9 @@
 
 ## 在北萊茵-威斯特法倫州的國際直接投資
 
-[Foreign_direct_investments_in_Germany_2015.png](https://zh.wikipedia.org/wiki/File:Foreign_direct_investments_in_Germany_2015.png "fig:Foreign_direct_investments_in_Germany_2015.png") [北萊茵-威斯特法倫州吸引著國內外企業](https://zh.wikipedia.org/wiki/北萊茵-威斯特法倫州 "wikilink")，全[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")50大企業裡 ，北萊茵-威斯特法倫州吸引著國內外企業，全德國50大企業裡 ，有14 家的總部設在德國最西部的北威州，這其中有領先德國的大企業， E.ON (能源)、 德國電信 (電話通訊)、 德國郵政快遞DHL (物流運輸)、 [汉高公司](../Page/汉高公司.md "wikilink")、 麦德龙股份公司 (食品)、 蒂森克虏伯股份公司 (汽車零件供應)、 RWE (能源) 或Rewe集團(零售業)。在全德國的比較裡，北萊茵-威斯特法倫州的直接投資最多\[23\] 以2013年為例，北萊茵-威斯特法倫州的外資佔全德國的百分之29,9（投資金額一千九百六十六億），是德國16個州裡遙遙領先的一州。
+[北萊茵-威斯特法倫州吸引著國內外企業](https://zh.wikipedia.org/wiki/北萊茵-威斯特法倫州 "wikilink")，全[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")50大企業裡 ，北萊茵-威斯特法倫州吸引著國內外企業，全德國50大企業裡 ，有14 家的總部設在德國最西部的北威州，這其中有領先德國的大企業， E.ON (能源)、 德國電信 (電話通訊)、 德國郵政快遞DHL (物流運輸)、 [汉高公司](../Page/汉高公司.md "wikilink")、 麦德龙股份公司 (食品)、 蒂森克虏伯股份公司 (汽車零件供應)、 RWE (能源) 或Rewe集團(零售業)。在全德國的比較裡，北萊茵-威斯特法倫州的直接投資最多\[23\] 以2017年為例，北萊茵-威斯特法倫州的外資佔全德國的百分之23,3（投資金額一千九百六十六億），是德國16個州裡遙遙領先的一州。
 
-超过19.000家來自重要工業國家的外國企業以北萊茵-威斯特法倫州為基地操控它們的德國或歐洲行動， 也就是全德國的外商企業裡有將進四分之一的公司立足於北萊茵-威斯特法倫邦，這其中也有國際知名的大公司，例如 [英國石油](https://zh.wikipedia.org/wiki/英國石油 "wikilink")、 [3M公司](../Page/3M公司.md "wikilink")、 [愛立信](../Page/愛立信.md "wikilink")、 [福特汽车](../Page/福特汽车.md "wikilink")、 [富士通](../Page/富士通.md "wikilink")、 [华为](../Page/华为.md "wikilink")、 QVC、[丰田汽车](../Page/丰田汽车.md "wikilink")、[联合包裹服务](../Page/联合包裹服务.md "wikilink") 和[沃达丰](https://zh.wikipedia.org/wiki/沃达丰 "wikilink")， 這些企業總共雇用了1.000.000 多位員工。
+超过20.000家來自重要工業國家的外國企業以北萊茵-威斯特法倫州為基地操控它們的德國或歐洲行動， 也就是全德國的外商企業裡有將進四分之一的公司立足於北萊茵-威斯特法倫邦，這其中也有國際知名的大公司，例如 [英國石油](https://zh.wikipedia.org/wiki/英國石油 "wikilink")、 [3M公司](../Page/3M公司.md "wikilink")、 [愛立信](../Page/愛立信.md "wikilink")、 [福特汽车](../Page/福特汽车.md "wikilink")、 [富士通](../Page/富士通.md "wikilink")、 [华为](../Page/华为.md "wikilink")、 QVC、[丰田汽车](../Page/丰田汽车.md "wikilink")、[联合包裹服务](../Page/联合包裹服务.md "wikilink") 和[沃达丰](https://zh.wikipedia.org/wiki/沃达丰 "wikilink")， 這些企業總共雇用了1.000.000 多位員工。
 
 ## 網頁鏈結
 

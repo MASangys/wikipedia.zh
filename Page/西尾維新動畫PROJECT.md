@@ -4,7 +4,7 @@
 
 [西尾維新](../Page/西尾維新.md "wikilink")在[講談社BOX](../Page/講談社BOX.md "wikilink")旗下的作品為數不少，大部分有製成動畫的潛力，但其寫作風格亦令改编遇上不少的挑戰。製作人岩上敦宏和[講談社編輯太田克史隨後決定](https://zh.wikipedia.org/wiki/講談社 "wikilink")，要把整個動畫化歷程歸納於一個計劃中。計劃方便日後宣傳的同時，亦可紀念動畫業界為改编付出的莫大精神和努力。\[1\]
 
-2008年9月3日，[講談社和](https://zh.wikipedia.org/wiki/講談社 "wikilink")[Aniplex](../Page/Aniplex.md "wikilink")決定把旗下的《[化物語](../Page/化物語.md "wikilink")》動畫化，另於2009年上旬再決定把《[刀語](https://zh.wikipedia.org/wiki/刀語 "wikilink")》動畫化。這個時候《**西尾維新動畫PROJECT**》的正式公佈，兩部作品按動畫化的順序標記為第一和第二個項目。
+2008年9月3日，[講談社和](https://zh.wikipedia.org/wiki/講談社 "wikilink")[Aniplex](../Page/Aniplex.md "wikilink")決定把旗下的《[化物語](../Page/化物語.md "wikilink")》動畫化，另於2009年上半年再決定把《[刀語](https://zh.wikipedia.org/wiki/刀語 "wikilink")》動畫化。這個時候《**西尾維新動畫PROJECT**》的正式公佈，兩部作品按動畫化的順序標記為第一和第二個項目。
 
 2010年7月26日，在《[化物語](../Page/化物語.md "wikilink")》影碟最終卷播放完畢後，宣佈第三個項目是其前傳《[傷物語](../Page/傷物語.md "wikilink")》。
 

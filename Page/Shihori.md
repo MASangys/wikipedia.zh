@@ -1,8 +1,8 @@
 **Shihori**（\[1\]）是一名出身於[愛知縣](../Page/愛知縣.md "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")\[2\]的日本人，是一名職業以及同人的[創作歌手](../Page/創作歌手.md "wikilink")。
 
-參加同人活動（[A-one等](https://zh.wikipedia.org/wiki/A-one "wikilink")）時使用**Shihori**的名義，其他場合則使用****的名義。本名****\[3\]。
+參加同人活動（[A-one等](https://zh.wikipedia.org/wiki/A-one "wikilink")）時使用Shihori的名義，其他場合則使用的名義。本名****\[3\]。
 
-在2007年同時以[瀨名](https://zh.wikipedia.org/wiki/瀨名 "wikilink")（）的藝名在[Lantis](../Page/Lantis.md "wikilink")作為主要登場，同時繼續使用**Shihori**的名義活動。2011年以瀨名名義的活動結束，統一使用**Shihori**作為音樂活動的藝名。
+在2007年同時以[瀨名](https://zh.wikipedia.org/wiki/瀨名 "wikilink")（）的藝名在[Lantis](../Page/Lantis.md "wikilink")作為主要登場，同時繼續使用Shihori的名義活動。2011年以瀨名名義的活動結束，統一使用Shihori作為音樂活動的藝名。
 
 ## 簡歷
 

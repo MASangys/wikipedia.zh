@@ -8,7 +8,7 @@ ER9型电力动车组的车体结构和[转向架等机械部分与](https://zh.
 
 1950年代中期，苏联开始研制适用于[交流](../Page/交流電.md "wikilink")[电气化铁路的市郊通勤电力动车组](https://zh.wikipedia.org/wiki/电气化铁路 "wikilink")。1961年，[里加车辆制造厂](../Page/里加车辆制造厂.md "wikilink")在[ER1型电力动车组](../Page/ER1型电力动车组.md "wikilink")的基础上，开发研制了首列[ER7型电力动车组](../Page/ER7型电力动车组.md "wikilink")，适用于供电制式为25千伏工频[单相交流电的电气化铁路](https://zh.wikipedia.org/wiki/单相交流电 "wikilink")，采用变压器高压侧调压和[引燃管](https://zh.wikipedia.org/wiki/引燃管 "wikilink")[整流器](../Page/整流器.md "wikilink")。然而，在试验过程中发现引燃管整流器可靠性很差，因此苏联铁道部门决定以[硅](../Page/硅.md "wikilink")整流器取代性能落后的引燃管整流器。
 
-1961年底，里加车辆制造厂试制了两节采用硅整流器的控制单元车辆（一辆控制拖车和一辆中间动车），并定型为ER9型电力动车组。1962年初，ER9-01号列车在[全苏铁道运输科学研究院的环形铁道进行了性能试验](https://zh.wikipedia.org/wiki/全苏铁道运输科学研究院 "wikilink")，经过试验显示其性能状态良好。同年下旬，ER9型电力动车组开始投入批量生产，其中里加车辆制造厂负责制造动车和列车总组装，[加里宁车辆制造厂负责制造拖车](https://zh.wikipedia.org/wiki/加里宁车辆制造厂 "wikilink")，[牵引电动机和部分电气设备由](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")[里加电机制造厂提供](https://zh.wikipedia.org/wiki/里加电机制造厂 "wikilink")，牵引变压器和整流装置由[塔林电气工厂](https://zh.wikipedia.org/wiki/塔林电气工厂 "wikilink")、[乌拉尔电器工厂等单位提供](https://zh.wikipedia.org/wiki/乌拉尔电器工厂 "wikilink")\[1\]。1962年至1964年间，累计生产了45组（450辆）ER9型电力动车组。
+1961年底，里加车辆制造厂试制了两节采用硅整流器的控制单元车辆（一辆控制拖车和一辆中间动车），并定型为ER9型电力动车组。1962年初，ER9-01号列车在[全苏铁道运输科学研究院的环形铁道进行了性能试验](https://zh.wikipedia.org/wiki/全苏铁道运输科学研究院 "wikilink")，经过试验显示其性能状态良好。同年下半年，ER9型电力动车组开始投入批量生产，其中里加车辆制造厂负责制造动车和列车总组装，[加里宁车辆制造厂负责制造拖车](https://zh.wikipedia.org/wiki/加里宁车辆制造厂 "wikilink")，[牵引电动机和部分电气设备由](https://zh.wikipedia.org/wiki/牵引电动机 "wikilink")[里加电机制造厂提供](https://zh.wikipedia.org/wiki/里加电机制造厂 "wikilink")，牵引变压器和整流装置由[塔林电气工厂](https://zh.wikipedia.org/wiki/塔林电气工厂 "wikilink")、[乌拉尔电器工厂等单位提供](https://zh.wikipedia.org/wiki/乌拉尔电器工厂 "wikilink")\[1\]。1962年至1964年间，累计生产了45组（450辆）ER9型电力动车组。
 
 ### 改进型
 

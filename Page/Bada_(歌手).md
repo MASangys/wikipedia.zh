@@ -32,7 +32,7 @@
   - 2016年：MBC《[二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink")》（2016年6月10日、17日、24日）
   - 2016年：SBS《[Fantastic Duo](../Page/Fantastic_Duo.md "wikilink")》（2016年8月）
   - 2016年：SBS《[Running Man](../Page/Running_Man.md "wikilink")》（2016年8月14日）
-  - 2017年：[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》固定音樂教師
+  - 2017年：[Mnet](../Page/Mnet.md "wikilink")《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》固定音樂教師
   - 2017年：[朴軫永的Party People](https://zh.wikipedia.org/wiki/朴軫永的Party_People "wikilink")(2017年9月30日)
   - 2017年：SBS《[Fantastic Duo 2](../Page/Fantastic_Duo_2.md "wikilink")》（固定嘉賓，2017年3月\~12月）
 

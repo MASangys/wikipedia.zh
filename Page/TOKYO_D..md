@@ -8,7 +8,7 @@
 
   - **[BOSS](../Page/上山博樹.md "wikilink")**（團長）
       -
-        本名：上山博樹（HIROKI KAMIYAMA、1962年10月7日生）。千葉縣出身。目前在台灣從事日本食品貿易商。
+        本名：上山博樹（HIROKI KAMIYAMA、1962年10月7日生）。千葉縣出身。目前在台灣從事日本食品貿易商。\[1\]
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@
 
   - **[ARI](../Page/有川貞臣.md "wikilink")**
       -
-        本名：有川貞臣（SADAOMI ARIKAWA、1969年6月16日生）。福岡縣出身。目前在台灣教舞。2010年在台灣發行新專輯。
+        本名：有川貞臣（SADAOMI ARIKAWA、1969年6月16日生）。福岡縣出身。目前在台灣教舞。2010年在台灣發行新專輯。\[2\]
 
 <!-- end list -->
 
@@ -74,3 +74,6 @@
   - [豐華唱片YouTube專屬頻道](http://www.youtube.com/playlist?list=PLD649B40685C37887)
 
 [Category:日本演唱團體](https://zh.wikipedia.org/wiki/Category:日本演唱團體 "wikilink")
+
+1.   娛樂星聞 {{\!}} 三立新聞網 SETN.COM |url=<https://www.setn.com/News.aspx?NewsID=89324> |accessdate=2019-08-11 |work=www.setn.com |date=2015-08-10 |language=zh-Hant-TW}}
+2.

@@ -1,12 +1,4 @@
-**Mnet Media**全稱**CJ Mnet 媒體公司**，是一間[韓國娛樂公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")，隸屬於[CJ集團](https://zh.wikipedia.org/wiki/CJ集團 "wikilink")，總部設在[首爾](../Page/首爾.md "wikilink")，現併入 CJ E\&M Music and Live (CJ E\&M Music·Live)，娛樂公司經營範圍廣泛，包括[電視頻道與](https://zh.wikipedia.org/wiki/電視頻道 "wikilink")[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")、音樂提供商及舉辦頒獎典禮等。目前旗下相關公司有 Good Entertainment、1877 Entertainment、Music Works、Stone Music、MMO Entertainment、SWING娛樂、Off The Record娛樂等。許多知名藝人如[李孝利](../Page/李孝利.md "wikilink")、[SG Wannabe](../Page/SG_Wannabe.md "wikilink")、[SeeYa](../Page/SeeYa.md "wikilink")等都曾是 Mnet Media 的一員。
-
-## 業務
-
-  - 音樂：娛樂管理（音樂策劃、開發、生產、銷售以及音樂會...等）
-  - 電視頻道：綜藝節目製作、旗下有兩個頻道，分別是與KMTV。
-  - 在線音樂內容：Mnet.com運營（音樂內容銷售業務）
-  - ASP：Naver 與LG電信公司移動音樂內容提供商
-  - 藝人經紀管理：藝人經紀管理及支援
+**Mnet**是**[CJ E\&M](../Page/CJ_E&M.md "wikilink")**旗下的一個，總部設在[首爾](../Page/首爾.md "wikilink")，製作的著名節目有[M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")、[Show Me The Money](../Page/Show_Me_The_Money.md "wikilink")、[PRODUCE 101](../Page/PRODUCE_101.md "wikilink")（第一季和第二季）、[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")、[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")、[PRODUCE X 101等](../Page/PRODUCE_X_101.md "wikilink")。
 
 ## 電視節目
 
@@ -54,60 +46,13 @@
   - [NU'EST ROAD](https://zh.wikipedia.org/wiki/NU'EST_ROAD "wikilink")
   - [PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")
 
-## 相關公司
-
-### 子公司
-
-[CJ E\&M音乐表演部](../Page/Mnet媒體.md "wikilink")（Mnet媒體）旗下：
-
-  - [Stone Music Entertainment](https://zh.wikipedia.org/wiki/:en:Stone_Music_Entertainment "wikilink")(100%)
-  - [MMO Entertainment](https://zh.wikipedia.org/wiki/MMO_Entertainment "wikilink")(100%)
-  - [SWING娛樂](https://zh.wikipedia.org/wiki/SWING娛樂 "wikilink")(51%)（與[YMC娛樂](../Page/YMC娛樂.md "wikilink")相關）
-  - [Off The Record娛樂](https://zh.wikipedia.org/wiki/Off_The_Record娛樂 "wikilink") （與[Pledis娛樂](../Page/Pledis娛樂.md "wikilink")相關）
-  - [BELIFT LAB](https://zh.wikipedia.org/wiki/BELIFT_LAB "wikilink")(52%)（與[Big Hit娛樂合作](../Page/Big_Hit娛樂.md "wikilink")）
-  - [Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")(51%)
-  - [Ameoba Culture](https://zh.wikipedia.org/wiki/:en:Ameoba_Culture "wikilink")(60%)
-  - [AOMG](https://zh.wikipedia.org/wiki/:en:AOMG "wikilink")(51%)
-  - [Hi-Lite Records](https://zh.wikipedia.org/wiki/:en:Hi-Lite_Records "wikilink")(51.10%)
-  - [H1GHR MUSIC](https://zh.wikipedia.org/wiki/:en:H1GHR_MUSIC "wikilink")(51%)
-  - [B2M娛樂](../Page/B2M娛樂.md "wikilink")
-  - [LM Entertainment](https://zh.wikipedia.org/wiki/LM_Entertainment "wikilink")
-
-### 相關公司
-
-  - [三星電子](../Page/三星電子.md "wikilink")
-  - [CJ E\&M](../Page/CJ_E&M.md "wikilink")
-  - CJ CGV
-  - [DSP Media](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")
-  - [FNC Entertainment](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")
-  - [Woollim Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")
-  - [YG Entertainment](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")
-  - H2 Entertainment
-  - IS Entermedia Group
-  - [J.Tune Camp](https://zh.wikipedia.org/wiki/J.Tune_Camp "wikilink")
-  - [Epik High](../Page/Epik_High.md "wikilink")
-  - POP-UP 娛樂
-
-<!-- end list -->
-
-  - Masterplan Production
-  - Music Farm
-  - Good Concert
-  - gretech
-  - 세중DMS
-  - [tvN Asia](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")
-
 ## 參考資料
 
 <references />
 
 ## 外部連結
 
-  - CJ E\&M
-
-<!-- end list -->
-
   -
 
   -
-[Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink") [Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink") [Category:2006年成立的公司](https://zh.wikipedia.org/wiki/Category:2006年成立的公司 "wikilink")
+[Category:Mnet](https://zh.wikipedia.org/wiki/Category:Mnet "wikilink")

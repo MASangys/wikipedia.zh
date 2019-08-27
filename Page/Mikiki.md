@@ -70,7 +70,8 @@ Mikiki總面積逾20萬平方呎，硬件連裝修總投資額達1.6億元。商
 
   - [啟德發展區](../Page/啟德發展計劃.md "wikilink")
   - [新蒲崗廣場](https://zh.wikipedia.org/wiki/新蒲崗廣場 "wikilink")
-  - [越秀廣場](https://zh.wikipedia.org/wiki/越秀廣場 "wikilink")
+
+[越秀廣場](https://zh.wikipedia.org/wiki/越秀廣場 "wikilink")
 
 ## 交通
 

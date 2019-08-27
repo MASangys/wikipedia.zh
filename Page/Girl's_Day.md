@@ -1222,7 +1222,7 @@ PlotData =
 | ------------------ | --------------------------------------------------- | --------------------------------------------------------- | ------- | -- |
 | 日期                 | 電視台                                                 | 節目名稱                                                      | 成員      | 角色 |
 | 2018年2月17日 ─ 2月23日 | KBS2                                                | [戰鬥旅行](../Page/戰鬥旅行.md "wikilink")                        | Yura、珉雅 | 嘉賓 |
-| 2018年10月13日        | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[驚人的週六](https://zh.wikipedia.org/wiki/驚人的週六 "wikilink")》 |         |    |
+| 2018年10月13日        | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[驚人的週六](https://zh.wikipedia.org/wiki/驚人的週六 "wikilink")》 | 素珍、Yura |    |
 
 ## 廣告作品
 

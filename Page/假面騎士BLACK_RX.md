@@ -45,7 +45,7 @@
   - 佐原俊吉（台譯：凱凱）（[赤塚真人饰](https://zh.wikipedia.org/wiki/赤塚真人 "wikilink")）（香港配音：[陳永信](../Page/陳永信.md "wikilink")）
   - 唄子（[鶴間エリ饰](https://zh.wikipedia.org/wiki/鶴間エリ "wikilink")） （香港配音：[龍寶鈿](../Page/龍寶鈿.md "wikilink")）
   - 佐原茂（[井上豪饰](https://zh.wikipedia.org/wiki/井上豪 "wikilink")） （香港配音：[曾秀清](../Page/曾秀清.md "wikilink")）
-  - 佐原ひとみ（港譯：佐原小美）（[井村翔子饰](https://zh.wikipedia.org/wiki/井村翔子 "wikilink")）（香港配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
+  - 佐原瞳（港譯：佐原小美）（[井村翔子饰](https://zh.wikipedia.org/wiki/井村翔子 "wikilink")）（香港配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）
 
 ### 其他
 
@@ -140,12 +140,12 @@ Black RX 在前往-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克�
 ## 專用機車
 
   -
-    **特異蝗蟲**(粵語版名稱：超能電子車)/台譯：閃電機車
+    **特異蝗蟲**(粵語版名稱：鐳射超音車)/台譯：閃電機車
 
 <!-- end list -->
 
   -
-    RX復活後被陽光透過RX腰帶折射，前作中被破壞的戰鬥蝗蟲經過沐浴陽光後再度進化而成，再次成為RX的座駕。
+    RX復活後被陽光透過RX腰帶折射，前作中自爆的戰鬥蝗蟲經過沐浴陽光後再度進化而成，再次成為RX的座駕。
     會說人語並且在RX有危機時會自動出來幫手；也能通過頭上的天線告訴RX敵人的位置與將要靠近的時間；擁有自主思維
       - 最高時速：750km
       - 最高出力：530馬力
@@ -154,7 +154,7 @@ Black RX 在前往-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克�
 <!-- end list -->
 
   -
-    **莱多隆**(粵語版名稱：百變電子車）/台譯：超光速飛車
+    **萊多隆**(粵語版名稱：百變電子車）/台譯：超光速飛車
 
 <!-- end list -->
 
@@ -326,9 +326,9 @@ Black RX 在前往-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克�
 <th><p>Title = 爸爸和妈妈的秘密 }} {{Episode list</p></th>
 <th><p>EpisodeNumber = 9</p></th>
 <th><p>Title = 玛丽巴茏的妖术 }} {{Episode list</p></th>
-<th><p>EpisodeNumber = 10</p></th>
+<th><p>EpisodeNumber = 10[1]</p></th>
 <th><p>Title = 令人吃惊的冒牌货 }} {{Episode list</p></th>
-<th><p>EpisodeNumber = 11</p></th>
+<th><p>EpisodeNumber = 11[2]</p></th>
 <th><p>Title = 垃圾的暴動 }} {{Episode list</p></th>
 <th><p>EpisodeNumber = 12</p></th>
 <th><p>Title = 梦中的暗杀者 }} {{Episode list</p></th>
@@ -421,7 +421,7 @@ Black RX 在前往-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克�
 
 ### 香港
 
-在[香港](../Page/香港.md "wikilink")，本劇集在[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台](../Page/本港台.md "wikilink")播放。首播日期為1991年7月1日至8月1日，亞視隨後在1991年8月2日至9月6日重播《假面騎士BLACK》，並將兩劇合稱《-{幪面超人1991}-》。\[1\]\[2\]1992年6月14日至1993年1月10日第一次重播，名稱改為《-{幪面超人RX}-》，播放時間為逢[星期六](../Page/星期六.md "wikilink")晚或逢[星期日](../Page/星期日.md "wikilink")晚。在1993年1月10日（星期日）晚播放大結局，改稱為《-{幪面超人RX終極之戰}-》。由於當時收視甚高，之後安排多次重播直至2002年3月31日為止，節目名稱仍然為《-{幪面超人RX}-》，播放時間為逢[星期日](../Page/星期日.md "wikilink")早上7:00，因此本節目輾轉地共播放5次，重播4次，前後共11年。相反，由於前作《假面騎士BLACK》在香港的收視比本作遜色，因此[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台](../Page/本港台.md "wikilink")並無再次安排重播《假面騎士BLACK》。但在香港[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")首播《[幪面超人帝騎](https://zh.wikipedia.org/wiki/幪面超人帝騎 "wikilink")》時則按日本原譯為**幪面超人BLACK RX**。
+在[香港](../Page/香港.md "wikilink")，本劇集在[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台](../Page/本港台.md "wikilink")播放。首播日期為1991年7月1日至8月1日，亞視隨後在1991年8月2日至9月6日重播《假面騎士BLACK》，並將兩劇合稱《-{幪面超人1991}-》。\[3\]\[4\]1992年6月14日至1993年1月10日第一次重播，名稱改為《-{幪面超人RX}-》，播放時間為逢[星期六](../Page/星期六.md "wikilink")晚或逢[星期日](../Page/星期日.md "wikilink")晚。在1993年1月10日（星期日）晚播放大結局，改稱為《-{幪面超人RX終極之戰}-》。由於當時收視甚高，之後安排多次重播直至2002年3月31日為止，節目名稱仍然為《-{幪面超人RX}-》，播放時間為逢[星期日](../Page/星期日.md "wikilink")早上7:00，因此本節目輾轉地共播放5次，重播4次，前後共11年。相反，由於前作《假面騎士BLACK》在香港的收視比本作遜色，因此[亞洲電視](../Page/亞洲電視.md "wikilink")[本港台](../Page/本港台.md "wikilink")並無再次安排重播《假面騎士BLACK》。但在香港[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")首播《[幪面超人帝騎](https://zh.wikipedia.org/wiki/幪面超人帝騎 "wikilink")》時則按日本原譯為**幪面超人BLACK RX**。
 
 ## 註解
 
@@ -431,5 +431,7 @@ Black RX 在前往-{zh-hans:克莱西斯帝国;zh-hk:古萊斯帝國;zh-tw:克�
 
 [Category:TBS電視劇](https://zh.wikipedia.org/wiki/Category:TBS電視劇 "wikilink") [Category:1988年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1988年日本電視劇集 "wikilink") [Category:假面騎士](https://zh.wikipedia.org/wiki/Category:假面騎士 "wikilink") [Category:亞洲電視外購劇集](https://zh.wikipedia.org/wiki/Category:亞洲電視外購劇集 "wikilink") [Category:日語電視劇](https://zh.wikipedia.org/wiki/Category:日語電視劇 "wikilink")
 
-1.  <http://www.oldcake.net/viewthread.php?tid=18231&extra=page%3D1> 1991年香港亞視出版的Black RX特刊照片集，足以證明亞視當年最初也將Black RX節目名稱譯為《-{幪面超人}-1991》
-2.  <https://www.youtube.com/watch?v=wvprnfWVN9o> 1991年香港亞視重播Black片段，證明亞視當年重Black時節目名稱改為《-{幪面超人}-1991》
+1.  本話為假面騎士系列在昭和時代播放的最終話。
+2.  本話為假面騎士系列在平成時代播放的第一話。
+3.  <http://www.oldcake.net/viewthread.php?tid=18231&extra=page%3D1> 1991年香港亞視出版的Black RX特刊照片集，足以證明亞視當年最初也將Black RX節目名稱譯為《-{幪面超人}-1991》
+4.  <https://www.youtube.com/watch?v=wvprnfWVN9o> 1991年香港亞視重播Black片段，證明亞視當年重Black時節目名稱改為《-{幪面超人}-1991》
