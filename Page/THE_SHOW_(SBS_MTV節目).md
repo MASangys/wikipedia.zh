@@ -117,6 +117,7 @@
 | 2018年11月13日          | [金相均](../Page/金相均.md "wikilink")                                                                                                                                          |                                                                                                                            |                                      |
 | 2018年11月20日、27日      | [普閔](https://zh.wikipedia.org/wiki/崔普閔 "wikilink")                                                                                                                        |                                                                                                                            |                                      |
 | 2018年12月4日           | [道英](../Page/道英.md "wikilink")、[在玹](../Page/在玹.md "wikilink")                                                                                                             |                                                                                                                            |                                      |
+| 2019年8月20日           | [崔秉燦](https://zh.wikipedia.org/wiki/崔秉燦 "wikilink")                                                                                                                       |                                                                                                                            |                                      |
 
 ## 評定基準
 
@@ -841,6 +842,16 @@
   - 07.23 - 停播
   - 07.30 - [CIX](../Page/CIX.md "wikilink")<sup>1st</sup> - Movie Star<sup>1st</sup> \[8,290分\]
 
+<!-- end list -->
+
+  - 八月
+
+<!-- end list -->
+
+  - 08.06 - [NCT Dream](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink")<sup>4th</sup> - Boom<sup>1st</sup> \[9,600分\]
+  - 08.13 - [Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")<sup>4th</sup> - Bungee<sup>1st</sup> \[8,421分\]
+  - 08.20 - [NCT Dream](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink")<sup>5th</sup> - Boom<sup>2nd</sup> \[8,020分\]
+
 ## 藝人成就
 
 ### 獲獎最多的歌手
@@ -858,19 +869,19 @@
 | [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")       | 2014                                                              |     |      |
 | 5th                                                               | [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")   | 6次  | 2017 |
 | 6th                                                               | [防彈少年團](../Page/防彈少年團.md "wikilink")                              | 5次  | 2013 |
+| [NCT Dream](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink")   | 2016                                                              |     |      |
 | 7th                                                               | [CNBLUE](../Page/CNBLUE.md "wikilink")                            | 4次  | 2010 |
 | [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")     | 2015                                                              |     |      |
 | [IZ\*ONE](../Page/IZ*ONE.md "wikilink")                           | 2018                                                              |     |      |
 | [(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")                      | 2018                                                              |     |      |
+| [Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink") | 2015                                                              |     |      |
 | 8th                                                               | [鐘鉉](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")         | 3次  | 2015 |
 | [FTIsland](../Page/FTIsland.md "wikilink")                        | 2007                                                              |     |      |
 | [B.A.P](../Page/B.A.P.md "wikilink")                              | 2012                                                              |     |      |
 | [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")       | 2014                                                              |     |      |
-| [NCT Dream](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink")   | 2016                                                              |     |      |
 | [SHINee](../Page/SHINee.md "wikilink")                            | 2008                                                              |     |      |
 | [NCT 127](https://zh.wikipedia.org/wiki/NCT_127 "wikilink")       | 2016                                                              |     |      |
 | [MOMOLAND](../Page/MOMOLAND.md "wikilink")                        | 2016                                                              |     |      |
-| [Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink") | 2015                                                              |     |      |
 | [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")             | 2016                                                              |     |      |
 | 9th                                                               | [INFINITE H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink") | 2次  | 2013 |
 | [BOYFRIEND](../Page/Boyfriend_\(男子团体\).md "wikilink")             | 2011                                                              |     |      |
@@ -891,22 +902,22 @@
 
   - 只列出前十名
 
-| 等級                                                              | 歌手                                                            | 歌曲                      | 分數     | 日期         |
-| --------------------------------------------------------------- | ------------------------------------------------------------- | ----------------------- | ------ | ---------- |
-| 1st                                                             | [防彈少年團](../Page/防彈少年團.md "wikilink")                          | DNA                     | 10,000 | 2017/09/26 |
-| [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink") | Boomerang                                                     | 2018/04/03              |        |            |
-| Light                                                           | 2018/06/12                                                    |                         |        |            |
-| Spring Breeze                                                   | 2018/11/27                                                    |                         |        |            |
-| 2nd                                                             | [VIXX](../Page/VIXX.md "wikilink")                            | Error                   | 9,850  | 2014/10/28 |
-| 3rd                                                             | [GFRIEND](../Page/GFRIEND.md "wikilink")                      | Summer Rain             | 9,750  | 2017/09/19 |
-| 4th                                                             | [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")   | Starry Night            | 9,700  | 2018/03/20 |
-| 5th                                                             | [IZ\*ONE](../Page/IZ*ONE.md "wikilink")                       | Violeta                 | 9,646  | 2019/04/09 |
-| 6th                                                             | [GFRIEND](../Page/GFRIEND.md "wikilink")                      | Time For The Moon Night | 9,630  | 2018/05/08 |
-| [SHINee](../Page/SHINee.md "wikilink")                          | Good Evening                                                  | 2018/06/05              |        |            |
-| 7th                                                             | [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")   | Egotistic               | 9,500  | 2018/07/24 |
-| 8th                                                             | [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink") | Alligator               | 9,480  | 2019/02/26 |
-| 9th                                                             | [VIXX LR](../Page/VIXX_LR.md "wikilink")                      | Beautiful Liar          | 9,464  | 2015/09/21 |
-| 10th                                                            | [VIXX](../Page/VIXX.md "wikilink")                            | Scentist                | 9,430  | 2018/04/24 |
+| 等級                                                              | 歌手                                                              | 歌曲                      | 分數     | 日期         |
+| --------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------- | ------ | ---------- |
+| 1st                                                             | [防彈少年團](../Page/防彈少年團.md "wikilink")                            | DNA                     | 10,000 | 2017/09/26 |
+| [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink") | Boomerang                                                       | 2018/04/03              |        |            |
+| Light                                                           | 2018/06/12                                                      |                         |        |            |
+| Spring Breeze                                                   | 2018/11/27                                                      |                         |        |            |
+| 2nd                                                             | [VIXX](../Page/VIXX.md "wikilink")                              | Error                   | 9,850  | 2014/10/28 |
+| 3rd                                                             | [GFRIEND](../Page/GFRIEND.md "wikilink")                        | Summer Rain             | 9,750  | 2017/09/19 |
+| 4th                                                             | [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")     | Starry Night            | 9,700  | 2018/03/20 |
+| 5th                                                             | [IZ\*ONE](../Page/IZ*ONE.md "wikilink")                         | Violeta                 | 9,646  | 2019/04/09 |
+| 6th                                                             | [GFRIEND](../Page/GFRIEND.md "wikilink")                        | Time For The Moon Night | 9,630  | 2018/05/08 |
+| [SHINee](../Page/SHINee.md "wikilink")                          | Good Evening                                                    | 2018/06/05              |        |            |
+| 7th                                                             | [NCT Dream](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink") | Boom                    | 9,600  | 2019/08/06 |
+| 8th                                                             | [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")     | Egotistic               | 9,500  | 2018/07/24 |
+| 9th                                                             | [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")   | Alligator               | 9,480  | 2019/02/26 |
+| 10th                                                            | [VIXX LR](../Page/VIXX_LR.md "wikilink")                        | Beautiful Liar          | 9,464  | 2015/09/21 |
 
 ### 獲得三冠王最多的歌手
 

@@ -380,6 +380,14 @@
 <td><p>-</p></td>
 </tr>
 <tr class="even">
+<td><p>2nd</p></td>
+<td><p>2019年10月2日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/辛夷第二幕" title="wikilink">辛夷第二幕</a></p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

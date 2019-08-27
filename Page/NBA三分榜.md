@@ -76,7 +76,7 @@
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/贾森·特里" title="wikilink">贾森·特里</a></p></td>
+<td><p><a href="../Page/贾森·特里.md" title="wikilink">贾森·特里</a></p></td>
 <td><p>控球後衛/ 得分後衛</p></td>
 <td></td>
 <td><p>2282</p></td>
@@ -1103,7 +1103,7 @@
 <tr class="even">
 <td><p>2014-15</p></td>
 <td><p>286</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/贾森·特里" title="wikilink">贾森·特里</a>^<small><a href="https://zh.wikipedia.org/wiki/休斯顿火箭" title="wikilink">火箭</a></small><br />
+<td><p><a href="../Page/贾森·特里.md" title="wikilink">贾森·特里</a>^<small><a href="https://zh.wikipedia.org/wiki/休斯顿火箭" title="wikilink">火箭</a></small><br />
 <small><a href="../Page/密尔沃基雄鹿.md" title="wikilink">雄鹿</a><small></p></td>
 <td><p>2,076</p></td>
 <td><p>286</p></td>

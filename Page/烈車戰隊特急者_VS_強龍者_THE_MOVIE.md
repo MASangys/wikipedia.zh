@@ -287,35 +287,35 @@
 ## 演員
 
   - 來斗（鈴樹來斗） / 特急1號（聲） - [志尊淳](../Page/志尊淳.md "wikilink") / 馬渕誉（孩童時期）（台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
-  - 十勝（渡嘉敷晴） / 特急2號（聲） - [平牧仁](../Page/平牧仁.md "wikilink") / 永瀬圭志朗（孩童時期）（台灣配音：）
+  - 十勝（渡嘉敷晴） / 特急2號（聲） - [平牧仁](../Page/平牧仁.md "wikilink") / 永瀬圭志朗（孩童時期）（台灣配音：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")）
   - 美緒（夏目美緒） / 特急3號（聲） - [小島梨里杏](../Page/小島梨里杏.md "wikilink") / 石井薫子（孩童時期）（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
-  - 洸（野野村洸） / 特急4號（聲） - [橫濱流星](../Page/橫濱流星.md "wikilink") / 山崎光（孩童時期）（台灣配音：）
+  - 洸（野野村洸） / 特急4號（聲） - [橫濱流星](../Page/橫濱流星.md "wikilink") / 山崎光（孩童時期）（台灣配音：[胡鎮璽](https://zh.wikipedia.org/wiki/胡鎮璽 "wikilink")）
   - 神樂（泉神樂） / 特急5號（聲） - [森高愛](../Page/森高愛.md "wikilink") / 清水羅羅（孩童時期）（台灣配音：[連思宇](../Page/連思宇.md "wikilink")）
   - 虹野明 / 特急6號（聲） - [長濱慎](../Page/長濱慎.md "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
-  - 闇黑皇帝Ｚ / 怪人型態（聲） - [大口兼悟](https://zh.wikipedia.org/wiki/大口兼悟 "wikilink")（台灣配音：）
-  - 車掌 - [關根勤](../Page/關根勤.md "wikilink")（台灣配音：）
+  - 闇黑皇帝Ｚ / 怪人型態（聲） - [大口兼悟](https://zh.wikipedia.org/wiki/大口兼悟 "wikilink")（台灣配音：[胡鎮璽](https://zh.wikipedia.org/wiki/胡鎮璽 "wikilink")）
+  - 車掌 - [關根勤](../Page/關根勤.md "wikilink")（台灣配音：[胡鎮璽](https://zh.wikipedia.org/wiki/胡鎮璽 "wikilink")）
   - 桐生大吾 / 強龍紅（聲） - [龍星涼](../Page/龍星涼.md "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
   - 伊恩・尤克蘭 / 強龍黑（聲） - [齊藤秀翼](../Page/齊藤秀翼.md "wikilink")（台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
-  - 有働伸治 / 強龍藍（聲） - [金城大和](../Page/金城大和.md "wikilink")（台灣配音：）
-  - 立風館總司 / 強龍綠（聲） - [塩野瑛久](https://zh.wikipedia.org/wiki/鹽野瑛久 "wikilink")（台灣配音：）
+  - 有働伸治 / 強龍藍（聲） - [金城大和](../Page/金城大和.md "wikilink")（台灣配音：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")）
+  - 立風館總司 / 強龍綠（聲） - [塩野瑛久](https://zh.wikipedia.org/wiki/鹽野瑛久 "wikilink")（台灣配音：[胡鎮璽](https://zh.wikipedia.org/wiki/胡鎮璽 "wikilink")）
   - 艾美結月 / 強龍粉紅（聲） - [今野鮎莉](../Page/今野鮎莉.md "wikilink")（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
-  - 空蟬丸 / 強龍金（聲） - [丸山敦史](../Page/丸山敦史.md "wikilink")（台灣配音：）
+  - 空蟬丸 / 強龍金（聲） - [丸山敦史](../Page/丸山敦史.md "wikilink")（台灣配音：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")）
 
 ### 配音演出
 
   - 強龍青 - [木下亞由美](../Page/木下亞由美.md "wikilink")（台灣配音：[連思宇](../Page/連思宇.md "wikilink")）
-  - 強龍灰 - [出合正幸](../Page/出合正幸.md "wikilink")（台灣配音：）
+  - 強龍灰 - [出合正幸](../Page/出合正幸.md "wikilink")（台灣配音：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")）
   - 強龍紫 - [飯豐萬理江](../Page/飯豐萬理江.md "wikilink")（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
-  - 強龍銀 - [山下真司](../Page/山下真司.md "wikilink")（台灣配音：）
+  - 強龍銀 - [山下真司](../Page/山下真司.md "wikilink")（台灣配音：[胡鎮璽](https://zh.wikipedia.org/wiki/胡鎮璽 "wikilink")）
   - 賢神多林 - [森川智之](../Page/森川智之.md "wikilink")（台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
   - 強龍者各種電子音 - [千葉繁](../Page/千葉繁.md "wikilink")
   - 喜之戰騎嘉黎拉 - [戶松遙](../Page/戶松遙.md "wikilink")（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
   - 樂之密探拉丘洛 - [折笠愛](../Page/折笠愛.md "wikilink")（台灣配音：[連思宇](../Page/連思宇.md "wikilink")）
   - 剪票手 / 特急者各種電子音 - [山口勝平](../Page/山口勝平.md "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
-  - 彩虹路線總裁 - [鳥海浩輔](../Page/鳥海浩輔.md "wikilink")（台灣配音：）
-  - 紅蓮神官薩拉馬茲 - （台灣配音：）
+  - 彩虹路線總裁 - [鳥海浩輔](../Page/鳥海浩輔.md "wikilink")（台灣配音：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")）
+  - 紅蓮神官薩拉馬茲 - （台灣配音：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")）
   - 創造主德比烏絲 - [寺杣昌紀](../Page/寺杣昌紀.md "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
-  - 時鐘暗影 - [小野坂昌也](../Page/小野坂昌也.md "wikilink")（台灣配音：）
+  - 時鐘暗影 - [小野坂昌也](../Page/小野坂昌也.md "wikilink")（台灣配音：[胡鎮璽](https://zh.wikipedia.org/wiki/胡鎮璽 "wikilink")）
 
 ## 工作人員
 

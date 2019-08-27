@@ -1,4 +1,4 @@
-《**The Lover**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet於](https://zh.wikipedia.org/wiki/Mnet "wikilink")2015年4月2日起播出的木曜劇，講述四對20\~30歲的情侶，以「共同生活」為主題真實呈現男女一起生活時可能發生情況的的迷你戲劇故事。\[1\]\[2\]
+《**The Lover**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](../Page/Mnet.md "wikilink")於2015年4月2日起播出的木曜劇，講述四對20\~30歲的情侶，以「共同生活」為主題真實呈現男女一起生活時可能發生情況的的迷你戲劇故事。\[1\]\[2\]
 
 ## 節目公告
 

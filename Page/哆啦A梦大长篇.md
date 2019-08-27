@@ -56,6 +56,6 @@
 
 <references/>
 
-[Category:哆啦A夢衍生作品](https://zh.wikipedia.org/wiki/Category:哆啦A夢衍生作品 "wikilink")
+[Category:哆啦A夢衍生作品](https://zh.wikipedia.org/wiki/Category:哆啦A夢衍生作品 "wikilink") [Category:1980年首次發行的漫畫](https://zh.wikipedia.org/wiki/Category:1980年首次發行的漫畫 "wikilink")
 
 1.  [電影先還是漫畫先? - 藤子逝世後叮噹製作模式解說](http://talk.doracity.com/viewtopic.php?f=5&t=15861#p127170)

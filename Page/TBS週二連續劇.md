@@ -228,7 +228,7 @@
 
 <!-- end list -->
 
-  - 7月9日－：**[Heaven？](../Page/Heaven？.md "wikilink")**（）
+  - 7月9日－9月：**[Heaven？](../Page/Heaven？.md "wikilink")**（）
 
 <!-- end list -->
 

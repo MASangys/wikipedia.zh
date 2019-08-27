@@ -149,6 +149,7 @@
 
   - IS〈Infinite Stratos〉 Encore 渴望恋爱的六重奏（，2011年）
   - IS〈Infinite Stratos〉 世界清除篇（，2014年）
+  - [前进吧！登山少女：回忆的礼物](../Page/前進吧！登山少女.md "wikilink")（OVA：ヤマノススメ おもいでプレゼント，2018年）
 
 #### 剧场动画
 

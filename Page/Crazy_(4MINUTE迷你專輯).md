@@ -80,7 +80,7 @@
 <tr class="even">
 <td><p>2015年</p></td>
 <td><p>2月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>미쳐(Crazy)</p></td>
 <td><p>1位</p></td>
@@ -112,7 +112,7 @@
 <tr class="even">
 <td><p>2015年</p></td>
 <td><p>2月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>미쳐(Crazy)</p></td>
 <td><p>1位</p></td>

@@ -121,15 +121,24 @@
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="../Page/火星生活_(韓國電視劇).md" title="wikilink">火星生活</a></p></td>
-<td><p>16</p></td>
-<td><p><strong>5.851%</strong></p></td>
+<td><p><a href="../Page/Watcher.md" title="wikilink">Watcher</a></p></td>
+<td><p>12</p></td>
+<td><p><strong>6.094%</strong></p></td>
 <td></td>
-<td><p>2018/08/05</p></td>
+<td><p>2019/08/11</p></td>
 <td><p>週末</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
+<td><p><a href="../Page/火星生活_(韓國電視劇).md" title="wikilink">火星生活</a></p></td>
+<td><p>16</p></td>
+<td><p>5.851%</p></td>
+<td></td>
+<td><p>2018/08/05</p></td>
+<td><p>週末</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
 <td><p><a href="../Page/Player_(韓國電視劇).md" title="wikilink">Player</a></p></td>
 <td><p>14</p></td>
 <td><p>5.803%</p></td>
@@ -137,8 +146,8 @@
 <td><p>2018/11/11</p></td>
 <td><p>週末</p></td>
 </tr>
-<tr class="odd">
-<td><p>5</p></td>
+<tr class="even">
+<td><p>6</p></td>
 <td><p><a href="../Page/Voice3.md" title="wikilink">Voice3</a></p></td>
 <td><p>16</p></td>
 <td><p>5.517%</p></td>
@@ -146,22 +155,13 @@
 <td><p>2019/06/30</p></td>
 <td><p>週末</p></td>
 </tr>
-<tr class="even">
-<td><p>6</p></td>
+<tr class="odd">
+<td><p>7</p></td>
 <td><p><a href="../Page/Voice_(韓國電視劇).md" title="wikilink">Voice</a></p></td>
 <td><p>3</p></td>
 <td><p>5.406%</p></td>
 <td></td>
 <td><p>2017/01/21</p></td>
-<td><p>週末</p></td>
-</tr>
-<tr class="odd">
-<td><p>7</p></td>
-<td><p><a href="../Page/Watcher.md" title="wikilink">Watcher</a></p></td>
-<td><p>6</p></td>
-<td><p>5.405%</p></td>
-<td></td>
-<td><p>2019/07/21</p></td>
 <td><p>週末</p></td>
 </tr>
 <tr class="even">

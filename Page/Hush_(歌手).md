@@ -14,6 +14,8 @@ HUSH在2017年12月23日在五月天[人生無限公司巡迴演唱會](../Page/
 
 根據2015年4月的《[聯合報](https://zh.wikipedia.org/wiki/聯合報 "wikilink")》報導，HUSH與另一半分手，使得他不斷透過私人臉書抒發滿腔苦痛，甚至留下情緒字眼，「4:25醉醺醺地回到家，一邊冷血地書寫自己，一邊重播大哭時嚷嚷著為什麼他可以說斷就斷」，隔沒多久又說，「足不出戶，心也是\[11\]。」以及吞[安眠藥無效](https://zh.wikipedia.org/wiki/安眠藥 "wikilink")、在夜深人靜時痛哭等等，引來不少朋友關切，希望他能早日走過情傷\[12\]。
 
+據2019年05月24日據《[中時電子報](../Page/中國時報.md "wikilink")》報導，在「同婚專法」上路前一天，傳訊息向雙親出櫃。
+
 ## 音樂作品
 
 ### 專輯
@@ -377,9 +379,31 @@ HUSH在2017年12月23日在五月天[人生無限公司巡迴演唱會](../Page/
 
 ### 合唱
 
-| 發行年份  | 合作歌手                                         | 歌曲名稱 | 收錄專輯        |
-| ----- | -------------------------------------------- | ---- | ----------- |
-| 2015年 | [Easy Shen](../Page/Easy_Shen.md "wikilink") | 事後   | 『如果身體全部開放了』 |
+<table>
+<thead>
+<tr class="header">
+<th><p>發行年份</p></th>
+<th><p>合作歌手</p></th>
+<th><p>歌曲名稱</p></th>
+<th><p>收錄專輯</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2015年</p></td>
+<td><p><a href="../Page/Easy_Shen.md" title="wikilink">Easy Shen</a></p></td>
+<td><p>事後</p></td>
+<td><p>『如果身體全部開放了』</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><a href="../Page/徐佳瑩.md" title="wikilink">徐佳瑩</a>、<a href="../Page/彭佳慧.md" title="wikilink">彭佳慧</a>、<a href="../Page/楊乃文.md" title="wikilink">楊乃文</a>，<a href="../Page/蕭煌奇.md" title="wikilink">蕭煌奇</a>、<a href="../Page/伍思凱.md" title="wikilink">伍思凱</a>、<a href="../Page/黃子佼.md" title="wikilink">黃子佼</a>、<a href="https://zh.wikipedia.org/wiki/陶晶瑩" title="wikilink">陶晶瑩</a>、<a href="../Page/光良.md" title="wikilink">光良</a>、<a href="https://zh.wikipedia.org/wiki/MATZKA" title="wikilink">MATZKA</a>、<br />
+<a href="../Page/魏如萱.md" title="wikilink">魏如萱</a>、<a href="../Page/柯智棠.md" title="wikilink">柯智棠</a>、<a href="https://zh.wikipedia.org/wiki/艾怡良" title="wikilink">艾怡良</a>、<a href="../Page/A-Lin.md" title="wikilink">A-Lin</a>、<a href="../Page/萬芳.md" title="wikilink">萬芳</a>、<a href="../Page/江美琪.md" title="wikilink">江美琪</a>、<a href="../Page/紀曉君.md" title="wikilink">紀曉君</a>、<a href="../Page/戴愛玲.md" title="wikilink">戴愛玲</a>、<a href="../Page/桑布伊.md" title="wikilink">桑布伊</a></p></td>
+<td><p>現在開始做朋友</p></td>
+<td><p>第二屆「愛之日常」音樂節主題曲</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 獲獎名單
 

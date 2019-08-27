@@ -736,8 +736,11 @@
 ## 外部連結
 
   - [韓國MBC官方網站](http://www.imbc.com/broad/tv/drama/kmhm/)
+
   - [香港無綫電視官方網站](http://programme.tvb.com/drama/killmehealme)
 
+  -
+  -
 [Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:多重人格題材電視劇](https://zh.wikipedia.org/wiki/Category:多重人格題材電視劇 "wikilink") [Category:無綫電視外購劇集](https://zh.wikipedia.org/wiki/Category:無綫電視外購劇集 "wikilink") [Category:韓國推理劇](https://zh.wikipedia.org/wiki/Category:韓國推理劇 "wikilink") [Category:韓國電視喜劇](https://zh.wikipedia.org/wiki/Category:韓國電視喜劇 "wikilink") [Category:韓國愛情劇](https://zh.wikipedia.org/wiki/Category:韓國愛情劇 "wikilink") [Category:韓國科幻劇](https://zh.wikipedia.org/wiki/Category:韓國科幻劇 "wikilink") [Category:星空傳媒(台灣)電視外購韓劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購韓劇 "wikilink")
 
 1.  [熱門韓劇《Kill Me Heal Me》 於七年前就完成的作品？](http://www.koreastardaily.com/tc/news/58060)

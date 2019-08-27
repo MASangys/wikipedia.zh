@@ -425,8 +425,8 @@
 <tr class="header">
 <th><p>集數</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/史克威爾艾尼克斯" title="wikilink">史克威爾艾尼克斯</a></p></th>
-<th><p><a href="../Page/文化傳信.md" title="wikilink">文化傳信</a></p></th>
 <th><p><a href="../Page/長鴻出版社.md" title="wikilink">長鴻出版社</a></p></th>
+<th><p><a href="../Page/文化傳信.md" title="wikilink">文化傳信</a></p></th>
 </tr>
 </thead>
 <tbody>
@@ -434,97 +434,97 @@
 <td><p>發售日期</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
 <td><p>發售日期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EAN" title="wikilink">EAN</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2012年4月25日</p></td>
 <td><p>ISBN 978-4-7575-3575-6</p></td>
-<td><p>2014年1月1日</p></td>
+<td><p>2013年12月12日</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2012年7月25日</p></td>
 <td><p>ISBN 978-4-7575-3676-0</p></td>
-<td><p>2014年3月21日</p></td>
+<td><p>2014年4月18日</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2013年1月25日</p></td>
 <td><p>ISBN 978-4-7575-3866-5</p></td>
-<td><p>2014年4月25日</p></td>
+<td><p>2014年6月11日</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>2013年7月25日</p></td>
 <td><p>ISBN 978-4-7575-3991-4</p></td>
-<td><p>2014年7月26日</p></td>
+<td><p>2014年9月18日</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
 <td><p>2014年1月25日</p></td>
 <td><p>ISBN 978-4-7575-4211-2</p></td>
-<td><p>2014年11月13日</p></td>
+<td><p>2016年1月6日</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>2014年7月25日</p></td>
 <td><p>ISBN 978-4-7575-4365-2</p></td>
-<td><p>2015年1月30日</p></td>
+<td><p>2016年5月10日</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
 <td><p>2014年11月25日</p></td>
 <td><p>ISBN 978-4-7575-4479-6</p></td>
-<td><p>2015年5月29日</p></td>
+<td><p>2016年6月16日</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
 <td><p>2015年7月10日</p></td>
 <td><p>ISBN 978-4-7575-4700-1</p></td>
-<td></td>
+<td><p>2016年7月13日</p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
 <td><p>2015年12月25日</p></td>
 <td><p>ISBN 978-4-7575-4842-8</p></td>
-<td></td>
+<td><p>2016年8月9日</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
 <td><p>2016年3月25日</p></td>
 <td><p>ISBN 978-4-7575-4922-7</p></td>
-<td></td>
+<td><p>2016年12月6日</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
 <td><p>2016年9月24日</p></td>
 <td><p>ISBN 978-4-7575-5106-0</p></td>
-<td></td>
+<td><p>2017年3月23日</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
 <td><p>2017年4月25日</p></td>
 <td><p>ISBN 978-4-7575-5335-4</p></td>
-<td></td>
+<td><p>2017年9月23日</p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
 <td><p>2017年10月25日</p></td>
 <td><p>ISBN 978-4-7575-5507-5</p></td>
-<td></td>
+<td><p>2018年3月9日</p></td>
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
 <td><p>2018年4月25日</p></td>
 <td><p>ISBN 978-4-7575-5701-7</p></td>
-<td></td>
+<td><p>2018年10月3日</p></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
 <td><p>2018年11月24日</p></td>
 <td><p>ISBN 978-4-7575-5924-0</p></td>
-<td></td>
+<td><p>2019年6月12日</p></td>
 </tr>
 </tbody>
 </table>

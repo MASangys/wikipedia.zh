@@ -381,24 +381,33 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/OCN" title="wikilink">OCN</a></p></td>
+<td><p><a href="../Page/Watcher.md" title="wikilink">Watcher</a></p></td>
+<td><p><a href="../Page/徐康俊.md" title="wikilink">徐康俊</a></p></td>
+<td><p>金永軍</p></td>
+<td><p>主要角色</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>JTBC</p></td>
-<td><p><a href="../Page/Melo體質.md" title="wikilink">Melo體質</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/浪漫的體質" title="wikilink">浪漫的體質</a></p></td>
 <td><p><a href="../Page/孔明_(藝人).md" title="wikilink">孔明</a></p></td>
 <td><p>秋宰勳</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>KBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朝鮮浪漫喜劇-綠豆傳" title="wikilink">朝鮮浪漫喜劇-綠豆傳</a></p></td>
+<td><p><a href="../Page/朝鮮浪漫喜劇–綠豆傳.md" title="wikilink">朝鮮浪漫喜劇–綠豆傳</a></p></td>
 <td><p><a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a></p></td>
-<td></td>
+<td><p>車律武</p></td>
 <td><p>第二男主角</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>待定</strong></p></td>
 <td><p>待定</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/我們的關係" title="wikilink">我們的關係</a></p></td>
@@ -407,7 +416,7 @@
 <td><p>男主角</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>待播</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/望夫成龍" title="wikilink">望夫成龍</a></p></td>

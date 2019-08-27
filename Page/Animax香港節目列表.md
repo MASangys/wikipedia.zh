@@ -3466,7 +3466,8 @@ HELLO！！黃金拼圖</a></p></td>
 <tr class="even">
 <td><p><a href="../Page/JoJo的奇妙冒險_(電視動畫).md" title="wikilink">JoJo的奇妙冒險：不滅鑽石<br />
 JoJo的奇妙冒險<br />
-JoJo的奇妙冒險：星塵遠征軍</a></p></td>
+JoJo的奇妙冒險：星塵遠征軍<br />
+JoJo的奇妙冒險: 黃金之風</a></p></td>
 <td><p>5月26日</p></td>
 <td><p>第三季</p></td>
 <td><p>39</p></td>
@@ -3478,6 +3479,20 @@ JoJo的奇妙冒險：星塵遠征軍</a></p></td>
 <td><p>第一季</p></td>
 <td><p>26</p></td>
 <td><p>星期三至五 22:00－23:00</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>9月8日</p></td>
+<td><p>第二季</p></td>
+<td><p>48</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8月19日</p></td>
+<td><p>第四季</p></td>
+<td><p>39</p></td>
+<td><p>星期一至二 22:00－23:00</p></td>
 <td></td>
 </tr>
 <tr class="even">

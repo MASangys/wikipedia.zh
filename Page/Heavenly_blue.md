@@ -6,7 +6,7 @@
 
 ## 單曲釋出
 
-2014年7月16日，精選專輯《THE BEST 「Red」》《THE BEST 「Blue」》在日本由SME Records發售，本曲作為Blue盤的新曲收錄在內。約20天後，SME Records於8月6日發售了單曲版本。
+2014年7月16日，精選專輯《[THE BEST 「Red」](../Page/THE_BEST_「Red」.md "wikilink")》《[THE BEST 「Blue」](../Page/THE_BEST_「Blue」.md "wikilink")》在日本由SME Records發售，本曲作為Blue盤的新曲收錄在內。約20天後，SME Records於8月6日發售了單曲版本。
 
 販賣形式為期間限定生産盤（SECL-1545），僅1種釋出類型、封面為『[ALDNOAH.ZERO](../Page/ALDNOAH.ZERO.md "wikilink")』男主人公界塚伊奈帆搭乘的橘色機體，捆绑片头曲的分镜小冊子。
 

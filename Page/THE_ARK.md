@@ -191,7 +191,7 @@ THE ARK 粉絲名為「**SHIELD（실드）**」，意為「盾牌」，也表�
 </tr>
 <tr class="even">
 <td><p>2011年8月12日至9月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a><br />
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a><br />
 KMTV Asia</p></td>
 <td><p>《Superstar K3》</p></td>
 <td><p>Yuna Kim</p></td>

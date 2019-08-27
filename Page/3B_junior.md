@@ -93,7 +93,7 @@
 <td></td>
 <td><p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a></p></td>
 <td><p>れいちぇる</p></td>
-<td><p>隊長，離開後退出星塵傳播並將藝名改為，後加入偶像團體「GUN'g' BUBBLE」</p></td>
+<td><p>隊長，離開後退出星塵傳播並將藝名改為，後加入偶像團體「GUN'g' BUBBLE」，2019年8月宣布退出</p></td>
 </tr>
 <tr class="odd">
 <td></td>

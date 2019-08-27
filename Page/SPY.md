@@ -360,7 +360,7 @@
 
   - [tvN](../Page/TVN.md "wikilink")：《[Heart to Heart](../Page/Heart_to_Heart.md "wikilink")》（20:30 - 21:50）
   - [JTBC](../Page/JTBC.md "wikilink")：《[下女們](../Page/下女們.md "wikilink")》（21:45 - 23:00）
-  - [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")：《[七顛八起具海拉](../Page/七顛八起具海拉.md "wikilink")》（23:00 - 24:30；僅第一、二集）
+  - [Mnet](../Page/Mnet.md "wikilink")：《[七顛八起具海拉](../Page/七顛八起具海拉.md "wikilink")》（23:00 - 24:30；僅第一、二集）
 
 ## 參考資料
 
@@ -368,7 +368,7 @@
 
   - [韓國KBS官方網站](http://www.kbs.co.kr/drama/spy/teaser.html)
 
-[Category:KBS電視劇](https://zh.wikipedia.org/wiki/Category:KBS電視劇 "wikilink") [Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:間諜題材電視劇](https://zh.wikipedia.org/wiki/Category:間諜題材電視劇 "wikilink") [Category:朝鮮半島背景作品](https://zh.wikipedia.org/wiki/Category:朝鮮半島背景作品 "wikilink") [Category:翻拍電視劇](https://zh.wikipedia.org/wiki/Category:翻拍電視劇 "wikilink") [Category:星空傳媒(台灣)電視外購韓劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購韓劇 "wikilink")
+[Category:KBS電視劇](https://zh.wikipedia.org/wiki/Category:KBS電視劇 "wikilink") [Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink") [Category:間諜題材電視劇](https://zh.wikipedia.org/wiki/Category:間諜題材電視劇 "wikilink") [Category:朝鮮半島背景作品](https://zh.wikipedia.org/wiki/Category:朝鮮半島背景作品 "wikilink") [Category:翻拍電視劇](https://zh.wikipedia.org/wiki/Category:翻拍電視劇 "wikilink") [Category:星空傳媒(台灣)電視外購韓劇](https://zh.wikipedia.org/wiki/Category:星空傳媒\(台灣\)電視外購韓劇 "wikilink") [Category:韓國國家情報院題材作品](https://zh.wikipedia.org/wiki/Category:韓國國家情報院題材作品 "wikilink")
 
 1.  [김재중 스파이 출연 확정...'어떤 역할 맡았나?'](http://wowstar.wowtv.co.kr/news/view.asp?newsid=48361)  한국경제TV
 2.  [배종옥-유오성, KBS ‘스파이’ 출연확정..명품배우 라인업](http://www.newsen.com/news_view.php?uid=201411250953097410) Newsen

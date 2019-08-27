@@ -386,7 +386,7 @@
 
 <!-- end list -->
 
-  - 1月 3日 [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《WIDE_OPEN_STUDIO》與[蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[潔西卡](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[徐玄](../Page/徐朱玄.md "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")、[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[潤娥共同出演](https://zh.wikipedia.org/wiki/林潤妸 "wikilink")
+  - 1月 3日 [Mnet](../Page/Mnet.md "wikilink")《WIDE_OPEN_STUDIO》與[蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[潔西卡](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[徐玄](../Page/徐朱玄.md "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")、[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[潤娥共同出演](https://zh.wikipedia.org/wiki/林潤妸 "wikilink")
   - 1月14日 [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《大國民脫口秀Hello！》與[蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[潔西卡](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[潤娥共同出演](https://zh.wikipedia.org/wiki/林潤妸 "wikilink")
   - 2月10日、2月17日 [JTBC](../Page/JTBC.md "wikilink")《[神話放送](../Page/神話放送.md "wikilink")》與[俞利](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")、[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[潤娥](https://zh.wikipedia.org/wiki/林潤妸 "wikilink")、[秀英共同出演](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")
   - 8月12日 [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[無限女孩](https://zh.wikipedia.org/wiki/無限女孩 "wikilink")》邀請嘉賓(拒絕出席)
@@ -396,7 +396,7 @@
 <!-- end list -->
 
   - 3月12日 [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《黄金渔场》与[俞利](https://zh.wikipedia.org/wiki/權俞利 "wikilink")、[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[潔西卡共同出演](https://zh.wikipedia.org/wiki/鄭秀妍 "wikilink")
-  - 3月18日 [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《披头士密码3D》与[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵共同演出](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")
+  - 3月18日 [Mnet](../Page/Mnet.md "wikilink")《披头士密码3D》与[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[孝淵共同演出](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")
   - 3月23日 [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《家族的品格》与[孝淵共同演出](https://zh.wikipedia.org/wiki/金孝淵 "wikilink")
   - 3月30日 [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《超人回來了》与[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")、[蒂芬妮](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[秀英](https://zh.wikipedia.org/wiki/崔秀榮 "wikilink")、[潤娥共同演出](https://zh.wikipedia.org/wiki/林潤妸 "wikilink")
   - 7月31日 [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《向星葵》
@@ -452,6 +452,10 @@
   - 8月30日 [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") 《[公司食堂](https://zh.wikipedia.org/wiki/公司食堂 "wikilink")》
   - 11月17日 Lifetime 《[睡衣朋友](../Page/睡衣朋友.md "wikilink")》代班主持
   - 11月24日 Lifetime 《[睡衣朋友](../Page/睡衣朋友.md "wikilink")》代班主持
+
+<!-- end list -->
+
+  - 8月10日 [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") 《[驚人的星期六](../Page/驚人的星期六.md "wikilink")》與[太妍](../Page/太妍.md "wikilink")共同出演
 
 ### 旁白配音
 

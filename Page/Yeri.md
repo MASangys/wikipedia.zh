@@ -10,7 +10,7 @@
 
 ### 出道前
 
-**金藝琳**是在2011年經由選秀被選入SM娛樂。
+**金藝琳**是在2010年經由選秀被選入SM娛樂。
 
 2014年8月1日，以[SM ROOKIES身份與Lami](../Page/SM_ROOKIES.md "wikilink")、Herin、Hina、Koeun出演[Red Velvet的出道單曲](../Page/Red_Velvet.md "wikilink")《Happiness》。10月，在SMTOWN Live第四次世界巡迴演唱會的首爾場上，以[SM ROOKIES的身份表演](../Page/SM_ROOKIES.md "wikilink")《Violet Fragrance (보랏빛 향기)》與《No No No No No》等歌曲。
 
@@ -153,7 +153,7 @@ Yeri 首张翻唱数码单曲《Yeri's》</p></td>
 <td></td>
 <td></td>
 <td><p>Close To Me (Red Velvet Remix)</p></td>
-<td><p>首次为所属团体Red Velvet歌曲填词，和成员Wendy一起填词</p></td>
+<td><p>首次為所屬團體Red Velvet歌曲填詞，和成員Wendy一起填词</p></td>
 </tr>
 </tbody>
 </table>
@@ -194,11 +194,11 @@ Yeri 首张翻唱数码单曲《Yeri's》</p></td>
 
 ### 固定出演
 
-| **放送日期**           | **電視臺**                                               | **節目名稱**                             | **備註**                                                   |
-| ------------------ | ----------------------------------------------------- | ------------------------------------ | -------------------------------------------------------- |
-| 2018年5月4日 - 5月25日  | [JTBC](../Page/JTBC.md "wikilink")4                   | 《[秘密姐姐](../Page/秘密姐姐.md "wikilink")》 | [韩彩英為秘密姐姐](https://zh.wikipedia.org/wiki/韩彩英 "wikilink") |
-| 2018年6月29日 - 7月20日 | [塞班島特輯](https://zh.wikipedia.org/wiki/塞班島 "wikilink") |                                      |                                                          |
-|                    |                                                       |                                      |                                                          |
+| **放送日期**           | **電視臺**                                               | **節目名稱**                             | **備註**                                |
+| ------------------ | ----------------------------------------------------- | ------------------------------------ | ------------------------------------- |
+| 2018年5月4日 - 5月25日  | [JTBC](../Page/JTBC.md "wikilink")4                   | 《[秘密姐姐](../Page/秘密姐姐.md "wikilink")》 | [韓彩英](../Page/韓彩英.md "wikilink")為秘密姐姐 |
+| 2018年6月29日 - 7月20日 | [塞班島特輯](https://zh.wikipedia.org/wiki/塞班島 "wikilink") |                                      |                                       |
+|                    |                                                       |                                      |                                       |
 
 ## 其他作品
 
@@ -215,7 +215,7 @@ Yeri 首张翻唱数码单曲《Yeri's》</p></td>
 | 2015年4月11日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")    | 《[Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》     | 一日MC(與[珉豪](../Page/珉豪.md "wikilink")、[Chen](https://zh.wikipedia.org/wiki/金鐘大 "wikilink"))                                               |
 | 2015年5月9日至11月14日 | 固定MC                                                   |                                                                          |                                                                                                                                          |
 | 2016年5月11日至19日   | [NAVER](../Page/NAVER.md "wikilink") V LIVE            | 《[看得見的SM](../Page/看得見的SM.md "wikilink")》                                 | 與[Super Junior](../Page/Super_Junior.md "wikilink") [利特](../Page/利特.md "wikilink")、[TRAX](https://zh.wikipedia.org/wiki/TRAX "wikilink") |
-| 2017年2月9日        | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")  | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 一日MC(與[Seulgi](../Page/瑟琪.md "wikilink"))                                                                                                |
+| 2017年2月9日        | [Mnet](../Page/Mnet.md "wikilink")                     | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 一日MC(與[Seulgi](../Page/瑟琪.md "wikilink"))                                                                                                |
 | 2017年7月13日       | 一日MC(與[Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")) |                                                                          |                                                                                                                                          |
 | 2018年2月3日        | MBC                                                    | 《Show\! 音樂中心》                                                            | 一日MC(與[B.I](../Page/B.I.md "wikilink")、[Bobby](../Page/金知元_\(饒舌者\).md "wikilink"))                                                       |
 

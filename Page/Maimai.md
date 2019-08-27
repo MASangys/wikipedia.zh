@@ -215,11 +215,11 @@ MiLK PLUS 时期的 SURVIVAL COURSE 进行了调整：
   - 某些 MASTER 曲目会限时开放，以 S 以上评价完成可以直接解禁。
   - S 以上的评价等级追加了 "+" 评价等级： S+ （98% 以上），SS+（99.50% 以上），SSS+（达成 ALL PERFECT且BREAK项为满分）。
 
-### maimai FiNALE (2018 年 12 月 13 日 - )
+### maimai FiNALE (2018 年 12 月 13 日 - 2019 年 8 月 31 日)
 
   - 2018 年 12 月 13 日 开始更新。
   - 伙伴角色新增 Shama （しゃま） 和 Milk （みるく）。
-  - 段位认定模式改名为 FiNALE COURSE，通过后也会使 Rating 上升。
+  - 段位认定模式改名为 FiNALE COURSE，且使用了新的段位（表段位和里段位）通过后也会使 Rating 上升。
   - 新增 PANDORA BOXXX 模式，规则和 Challenge Track 相似。
   - EXPERT新增☆×12+难度，MASTER/Re : MASTER新增☆×13+/☆×14难度
 

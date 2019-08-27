@@ -1,6 +1,6 @@
 **ICE短跑手**（，最初也称为**Shuttle-ICE**\[1\]）是[德国铁路股份公司在](https://zh.wikipedia.org/wiki/德国铁路股份公司 "wikilink")[德国](../Page/德国.md "wikilink")各[大都市](../Page/大都市.md "wikilink")之间开行，但只设少数经停站的[城际快车](https://zh.wikipedia.org/wiki/城际快车 "wikilink")（）班次。
 
-这些班次通常于早晨（6时后不久出发），部分也于傍晚（18时后不久出发），在[柏林](../Page/柏林.md "wikilink")、[法兰克福](https://zh.wikipedia.org/wiki/法兰克福 "wikilink")、[汉堡](../Page/汉堡.md "wikilink")和[科隆](../Page/科隆.md "wikilink")之间的五条[路线中运行](https://zh.wikipedia.org/wiki/运行系统 "wikilink")。列车运行途中不设或只有很少经停站，且计划行车时间约为三个半小时，比相应的ICE节省约半小时。它们与常规ICE班次受到同样的速度限制。个别停靠的经停站分别为[杜塞尔多夫](../Page/杜塞尔多夫.md "wikilink")、[杜伊斯堡](../Page/杜伊斯堡.md "wikilink")、[埃森](../Page/埃森.md "wikilink")及[汉诺威](../Page/汉诺威.md "wikilink")。部分替代ICE短跑手的ICE钟面运行图班次每小时开行1班。
+这些班次通常于早晨（6时后不久出发），部分也于傍晚（18时后不久出发），在[柏林](../Page/柏林.md "wikilink")、[法兰克福](https://zh.wikipedia.org/wiki/法兰克福 "wikilink")、[汉堡](../Page/汉堡.md "wikilink")和[科隆](../Page/科隆.md "wikilink")之间的五条[路线中运行](https://zh.wikipedia.org/wiki/运行系统 "wikilink")。列车运行途中不设或只有很少经停站，且计划行车时间约为三个半小时，比相应的ICE节省约半小时。它们与常规ICE班次受到同样的速度限制。个别停靠的经停站分别为[杜塞尔多夫](https://zh.wikipedia.org/wiki/杜塞道夫火車總站 "wikilink")、[杜伊斯堡](https://zh.wikipedia.org/wiki/杜伊斯堡火車總站 "wikilink")、[埃森及](https://zh.wikipedia.org/wiki/埃森火車總站 "wikilink")[汉诺威](https://zh.wikipedia.org/wiki/漢諾威火車總站 "wikilink")。部分替代ICE短跑手的ICE钟面运行图班次每小时开行1班。
 
 2015年12月12日之前，这些班次需要收取预订附加费（11.50欧元），票价也包含了派发[日报的费用](https://zh.wikipedia.org/wiki/日报 "wikilink")。它们有时会在开行前或开行后继续担当常规的ICE列车班次。\[2\]
 

@@ -456,7 +456,7 @@ EuiJin，2014年曾加入團體[A.cian](../Page/A.cian.md "wikilink")，當時�
 | 2017年3月23日             | KStyle TV                                                         | The Immigration                                                   | 全體                    |                           |
 | 2017年10月28日-2018年2月10日 | KBS                                                               | [The Unit](../Page/The_Unit.md "wikilink")                        | Euijin LEX            |                           |
 | 2018年10月2日-2018年10月29日 | 1THEK                                                             | DANCE WAR                                                         | EuiJin                | ROUND 1-3                 |
-| 2018年11月23日-           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")             | [Somebody](https://zh.wikipedia.org/wiki/Somebody "wikilink")     | EuiJin                |                           |
+| 2018年11月23日-           | [Mnet](../Page/Mnet.md "wikilink")                                | [Somebody](https://zh.wikipedia.org/wiki/Somebody "wikilink")     | EuiJin                |                           |
 | 2019年1月1日              | MBC every1                                                        | [Video Star](../Page/Video_Star.md "wikilink")                    | EuiJin RON            | EP125                     |
 
 ## 電台節目

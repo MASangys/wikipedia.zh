@@ -734,7 +734,7 @@
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[媽媽](../Page/媽媽_\(2015年電視劇\).md "wikilink")》、《[家和萬事成](../Page/家和萬事成.md "wikilink")》
   - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")：《[對，就是那樣](../Page/對，就是那樣.md "wikilink")》
 
-## 提名&獲獎列表
+## 獎項
 
 <table>
 <tbody>

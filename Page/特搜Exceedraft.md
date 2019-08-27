@@ -34,6 +34,7 @@
 
 ## 放送局
 
+  - 臺灣 [霹靂台灣台](../Page/霹靂台灣台.md "wikilink")
   - 東京都、關東廣域圏 ANB〔現:EX〕 **[朝日電視台](../Page/朝日電視台.md "wikilink")**
   - 北海道 HTB [北海道電視台](../Page/北海道電視台.md "wikilink")
   - 青森縣 RAB [青森放送](https://zh.wikipedia.org/wiki/青森放送 "wikilink")

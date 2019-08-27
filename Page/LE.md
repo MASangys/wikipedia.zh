@@ -873,7 +873,7 @@
 <tr class="even">
 <td><p>2013年</p></td>
 <td><p>6月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SHOW_ME_THE_MONEY" title="wikilink">Show Me the Money 2</a></p></td>
 <td></td>
 </tr>

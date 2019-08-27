@@ -2,6 +2,6 @@
 
 ## 參考資料
 
-[Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink") [Category:2007年美國建立](https://zh.wikipedia.org/wiki/Category:2007年美國建立 "wikilink") [Category:在线请愿](https://zh.wikipedia.org/wiki/Category:在线请愿 "wikilink")
+[Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink") [Category:2007年美國建立](https://zh.wikipedia.org/wiki/Category:2007年美國建立 "wikilink") [Category:在线请愿](https://zh.wikipedia.org/wiki/Category:在线请愿 "wikilink") [Category:政治博客](https://zh.wikipedia.org/wiki/Category:政治博客 "wikilink")
 
 1.  [網路時代的公益參與－你想改變什麼？](http://netivism.com.tw/article/204)

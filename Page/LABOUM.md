@@ -78,6 +78,8 @@
 
 4月24日，首張日本專輯《Love Pop Wow\!\!》正式发布，並於4月24日至5月6日期間舉行發售活動。
 
+8月13日，官方公開一張MV拍攝現場照，並寫上「coming soon 2019. 09 Realese」，預告將於9月回歸。
+
 ## 成員資料
 
 |            |
@@ -406,6 +408,7 @@ PlotData =
 | 2018年                                                         | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                   | 《[善良魔女傳](../Page/善良魔女傳.md "wikilink")》             | 奉千智  |           |     |     |
 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")           | 《一閃一閃聽見的》                                                             | 李秀雅                                                | 女主角  | 關愛殘疾人士電視劇 |     |     |
 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")           | 《[江南醜聞](../Page/江南醜聞.md "wikilink")》                                  | 海仁                                                 | 殷素淡  | 女配角       |     |     |
+| 2019年                                                         | NAVER TV & YouTube                                                    | 《My Brother Ghost》                                 | ZN   | 朴惠珍       | 女主角 | 網路劇 |
 |                                                               |                                                                       |                                                    |      |           |     |     |
 
 ### 音樂錄影帶
@@ -679,7 +682,7 @@ PlotData =
 | 《Pops in Seoul》                                    |                                                                     |                                                                     |               |            |
 | 11月30日                                             | KBS2                                                                | 《出發夢之隊》                                                             | ZN、律喜、率濱      |            |
 | 2015年                                              |                                                                     |                                                                     |               |            |
-| 1月5日                                               | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")               | 《[Yaman TV](../Page/Yaman_TV.md "wikilink")》                        | 全員            |            |
+| 1月5日                                               | [Mnet](../Page/Mnet.md "wikilink")                                  | 《[Yaman TV](../Page/Yaman_TV.md "wikilink")》                        | 全員            |            |
 | 3月29日                                              | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")               | 《出發夢之隊 2》                                                           | ZN、律喜         |            |
 | 4月22日                                              | ARIRANG TV                                                          | 《Pops in Seoul》                                                     | 全員            |            |
 | 6月19日－9月4日                                         | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                 | 《[秘密武器 她](../Page/秘密武器_她.md "wikilink")》                            | 率濱            | 固定出演       |
@@ -827,9 +830,9 @@ PlotData =
 | 2016年12月2日－2017年3月10日 | TRENDY                                                | 《Make-Up BOX》                                                            | 海仁   | 固定MC       |
 | 2016年11月21日－2017年3月7日 | [TV朝鮮](../Page/TV朝鮮.md "wikilink")                    | 《偶像宴會》                                                                   | 率濱   |            |
 | 2016年7月1日－2018年6月8日   | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | 《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》                  |      |            |
-| 2016年12月15日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | ZN   | Special MC |
+| 2016年12月15日           | [Mnet](../Page/Mnet.md "wikilink")                    | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | ZN   | Special MC |
 | 2017年5月11日－2017年6月8日  | 동아TV                                                  | 《BEAUTY & LOVELY》                                                        | 海仁   | 固定MC       |
-| 2018年8月9日             | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 率濱   | Special MC |
+| 2018年8月9日             | [Mnet](../Page/Mnet.md "wikilink")                    | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 率濱   | Special MC |
 | 2019年4月2日－2019年4月23日  | Olive                                                 | 《One Pick Road》                                                          | 固定MC |            |
 | 2019年4月8日－2019年6月10日  | JTBC4                                                 | 《Beauty Room》                                                            |      |            |
 

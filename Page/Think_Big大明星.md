@@ -19,6 +19,40 @@
 
 ## 主持
 
+<timeline> ImageSize = width:800 height:auto barincrement:19 PlotArea = left:100 bottom:30 top:20 right:50 Alignbars = justify DateFormat = mm/dd/yyyy Period = from:01/01/2015 till:09/01/2019 TimeAxis = orientation:horizontal format:mm/dd/yyyy
+
+Colors =
+
+` id:1 value:skyblue`
+` id:2 value:purple`
+` id:3 value:yellow`
+` id:4 value:magenta`
+` id:5 value:green`
+` id:6 value:red`
+
+ScaleMajor = unit:year grid:black increment:1 start:01/01/2015
+
+BarData =
+
+` bar:1 text:"余德丞"`
+` bar:2 text:"林希靈"`
+` bar:3 text:"黃愷怡"`
+` bar:4 text:"黃碧蓮"`
+` bar:5 text:"李雯希"`
+` bar:6 text:"阮浩棕"`
+
+PlotData =
+
+` width:10 textcolor:black align:left anchor:from shift:(10,-4)`
+` bar:1 from: 01/17/2015 till:10/17/2015 color:1 `
+` bar:2 from: 01/17/2015 till:10/17/2015 color:2 `
+` bar:3 from: 01/17/2015 till:10/17/2015 color:3 `
+` bar:4 from: 01/17/2015 till:10/17/2015 color:4 `
+` bar:5 from: 06/06/2015 till:10/17/2015 color:5 `
+` bar:6 from: 08/29/2015 till:10/17/2015 color:6 `
+
+</timeline> Note: 上述日期只計算正式任期，並非以嘉賓身分登場之日期
+
 <table>
 <thead>
 <tr class="header">

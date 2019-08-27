@@ -1,10 +1,10 @@
-**-{zh-cn:Duang; zh-tw:ㄉㄨㄤ; zh-hk:Duang;}-**（-{zh-cn:[注音](https://zh.wikipedia.org/wiki/注音 "wikilink")：ㄉㄨㄤ; zh-tw:[拼音](https://zh.wikipedia.org/wiki/拼音 "wikilink")：Duang; zh-hk:[注音](https://zh.wikipedia.org/wiki/注音 "wikilink")：ㄉㄨㄤ;}-；IPA：）是一个[拟声词](https://zh.wikipedia.org/wiki/拟声词 "wikilink")，[香港](../Page/香港.md "wikilink")稱為**動L**（粵音為dong<sup>6</sup>l；[IPA](https://zh.wikipedia.org/wiki/IPA "wikilink")：[\[{{IPA](https://zh.wikipedia.org/wiki/Help:广州话国际音标 "wikilink")\]）\[1\]，出自对香港影星[成龙代言的](https://zh.wikipedia.org/wiki/成龙 "wikilink")[霸王](https://zh.wikipedia.org/wiki/霸王国际 "wikilink")[洗发水广告的](https://zh.wikipedia.org/wiki/洗发水 "wikilink")[恶搞](https://zh.wikipedia.org/wiki/恶搞 "wikilink")，用来形容某个动作效果、模仿某种特效配音，多指一瞬间达到的特殊效果。\[2\]\[3\]
+**-{zh-cn:Duang;zh-tw:ㄉㄨㄤ;zh-hk:動L;}-**（-{zh-cn:[注音](https://zh.wikipedia.org/wiki/注音 "wikilink")：ㄉㄨㄤ；IPA：; zh-tw:[拼音](https://zh.wikipedia.org/wiki/拼音 "wikilink")：Duang；IPA：; zh-hk:粵音：Dong<sup>6</sup> L；[IPA](https://zh.wikipedia.org/wiki/IPA "wikilink")：[\[{{IPA](https://zh.wikipedia.org/wiki/Help:广州话国际音标 "wikilink")\]\[1\];}-）是一个[拟声词](https://zh.wikipedia.org/wiki/拟声词 "wikilink")，出自对香港影星[成龙代言的](https://zh.wikipedia.org/wiki/成龙 "wikilink")[霸王](https://zh.wikipedia.org/wiki/霸王国际 "wikilink")[洗发水广告的](https://zh.wikipedia.org/wiki/洗发水 "wikilink")[恶搞](https://zh.wikipedia.org/wiki/恶搞 "wikilink")，用来形容某个动作效果、模仿某种特效配音，多指一瞬间达到的特殊效果。\[2\]\[3\]
 
 ## 词语来源
 
-[Duang.jpg](https://zh.wikipedia.org/wiki/File:Duang.jpg "fig:Duang.jpg")  2004年，成龙代言了“霸王洗发水”的广告，在广告中，他称：
+2004年，成龙代言了“霸王洗发水”的广告，在广告中，他称：
 
-其中，原话并未直接使用“duang”或“动L”。广告推出之后，有香港网民通过[空耳](../Page/空耳.md "wikilink")，将“动啊”恶搞为“动L”，用来形容头发生动的样子。其后在中国大陆的视频恶搞里面，将“动啊”一词写成“duang”，从而再次走红。
+其中，原话并未直接使用“duang”。广告推出之后，有香港网民通过[空耳](../Page/空耳.md "wikilink")，将“动啊”恶搞为“动-{}-L”，用来形容头发生动的样子。其后在中国大陆的视频恶搞里面，将“动啊”一词写成“-{duang}-”，从而再次走红。
 
 2010年，有媒体爆出霸王洗发水含有致癌物[二噁烷](https://zh.wikipedia.org/wiki/二噁烷 "wikilink")（霸王方面对此予以否认）\[4\]\[5\]，而霸王两款产品又因虚假宣传被中国大陆药监部门调查\[6\]。之后引发了网络上对广告词的恶搞\[7\]。之后到了2015年初，有一用户名为“绯色toy”的弹幕视频网站[哔哩哔哩动画用户再次将广告视频挖出并进行恶搞](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink")，将其和中国艺人[约瑟翰·庞麦郎](../Page/约瑟翰·庞麦郎.md "wikilink")的歌曲《[我的滑板鞋](../Page/我的滑板鞋.md "wikilink")》重新混音制作，这个“duang”声不断的恶搞版顿时被网友大量转发。\[8\]
 

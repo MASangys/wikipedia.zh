@@ -98,7 +98,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a><br />
+<td><p><small><a href="../Page/Mnet.md" title="wikilink">Mnet</a><br />
 《<a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a>》</small></p></td>
 <td><p><small><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a><br />
 《<a href="https://zh.wikipedia.org/wiki/KBS音樂銀行" title="wikilink">Music Bank</a>》</small></p></td>

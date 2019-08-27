@@ -98,7 +98,7 @@
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
-<td><p>JoJo的奇妙冒險 星塵鬥士</p></td>
+<td><p><a href="../Page/JoJo的奇妙冒險_(電視動畫).md" title="wikilink">JoJo的奇妙冒險 星塵鬥士</a></p></td>
 <td></td>
 <td><p>前半：4月－9月<br />
 後半：2015年1月－6月</p></td>
@@ -108,7 +108,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016年</p></td>
-<td><p>JoJo的奇妙冒險 不滅鑽石</p></td>
+<td><p><a href="../Page/JoJo的奇妙冒險_(電視動畫).md" title="wikilink">JoJo的奇妙冒險 不滅鑽石</a></p></td>
 <td></td>
 <td><p>4月－12月</p></td>
 <td></td>
@@ -152,9 +152,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>JoJo的奇妙冒險 黃金之風</p></td>
+<td><p><a href="../Page/JoJo的奇妙冒險_(電視動畫).md" title="wikilink">JoJo的奇妙冒險 黃金之風</a></p></td>
 <td></td>
-<td><p>10月－<strong>播放中</strong></p></td>
+<td><p>10月－2019年7月</p></td>
 <td><p>津田尚克（總導演）<br />
 <a href="../Page/木村泰大.md" title="wikilink">木村泰大</a>、高橋秀彌</p></td>
 <td></td>

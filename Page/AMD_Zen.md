@@ -93,6 +93,8 @@ Zen+微架構的處理器使用了[GlobalFoundries的](https://zh.wikipedia.org/
 
 配套的晶片組更新至[400系列](https://zh.wikipedia.org/wiki/AMD_Fusion_Controller_Hub#400系列 "wikilink")，不過原先300系列的通過AGESA EFI韌體更新後（若廠商提供）也可以使用基於Zen+的處理器。
 
+## Zen 2
+
 ## 相關
 
   - [AMD Zen+架構](https://zh.wikipedia.org/wiki/AMD_Zen+架構 "wikilink")

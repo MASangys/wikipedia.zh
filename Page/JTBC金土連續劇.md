@@ -505,7 +505,7 @@
 <tr class="even">
 <td style="text-align: center;"><p>2019年8月9日–<br />
 2019年9月28日</p></td>
-<td style="text-align: center;"><p><a href="../Page/Melo體質.md" title="wikilink">Melo體質</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/浪漫的體質" title="wikilink">浪漫的體質</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/千玗嬉.md" title="wikilink">千玗嬉</a>、、<a href="../Page/韓智恩.md" title="wikilink">韓智恩</a>、<a href="../Page/安宰弘.md" title="wikilink">安宰弘</a>、<a href="../Page/孔明_(藝人).md" title="wikilink">孔明</a></p></td>

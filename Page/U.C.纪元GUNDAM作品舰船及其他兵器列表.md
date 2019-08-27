@@ -242,7 +242,7 @@
 <!-- end list -->
 
   -
-:\*[约顿海姆](https://zh.wikipedia.org/wiki/約頓海姆 "wikilink")
+:\*[-{zh-cn:约通海姆; zh-tw:約頓海姆;}-](https://zh.wikipedia.org/wiki/約頓海姆 "wikilink")
 
 ::《机动战士GUNDAM MS IGLOO》中的主角舰，吉翁公国军第603技术试验部队的母舰。因外形奇特而被莫妮卡·凯迪拉克称为“铅笔盒”\[2\]。
 

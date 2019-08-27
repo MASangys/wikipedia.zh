@@ -66,7 +66,7 @@
 | 愛奇藝、騰訊視頻                                                                                                    | 《[黄金瞳](../Page/黄金瞳.md "wikilink")》                                  | Lay                                                       | 莊睿                                        | 主角        |               |        |
 | 待播中                                                                                                         | [NAVER TV Cast](../Page/NAVER.md "wikilink")                        | 《HOW ARE U BREAD》\[31\]                                   | Suho                                      | 韓道宇       | 主角            | 網絡劇    |
 | 待播中                                                                                                         | 檸萌影業、樂漾影視                                                           | 《親愛的阿基米德》\[32\]                                           | Sehun                                     | 言溯        |               |        |
-| 待播中                                                                                                         |                                                                     | 《大明皇妃孫若微傳》                                                | Lay                                       | 朱祁鎮       |               |        |
+| 待播中                                                                                                         |                                                                     | 《[大明風華](../Page/大明風華.md "wikilink")》                      | Lay                                       | 朱祁鎮       |               |        |
 
 ## 動畫電影配音
 
@@ -91,7 +91,7 @@
 | 年份               | 日期                                                               | 電視台                                                                                | 節目名稱                   | 參與成員                          | 集數/備註 |
 | 2013             | 8月20日                                                            | [Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") Starcast                   | EXO LIVE\! 仲夏夜之咆哮      | 全部成員                          | 1     |
 | 11月28日－2月13日     | [MBC every1](../Page/MBC_Plus_Media.md "wikilink")               | [EXO's SHOWTIME](../Page/EXO's_SHOWTIME.md "wikilink")                             | 12                     |                               |       |
-| 2014             | 5月9日－30日                                                         | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                              | 熾熱的瞬間 XOXO EXO         | 4                             |       |
+| 2014             | 5月9日－30日                                                         | [Mnet](../Page/Mnet.md "wikilink")                                                 | 熾熱的瞬間 XOXO EXO         | 4                             |       |
 | 8月15日－10月31日     | EXO 90:2014                                                      | 11                                                                                 |                        |                               |       |
 | 2015             | 1月16日、17日、23日                                                    | [LINE](../Page/LINE.md "wikilink") TV                                              | SurpLINEs EXO篇\[35\]   | Xiumin、Chanyeol、Tao、Kai、Sehun | 3     |
 | 4月6日             | [Naver](https://zh.wikipedia.org/wiki/Naver "wikilink") Starcast | EXOCAST \#ONAIR \[36\]                                                             | 全部成員（Lay、Tao缺席）        | 1                             |       |
@@ -128,7 +128,7 @@
 | 5月26日 - 6月30日     | [tvN](../Page/TVN.md "wikilink")                               | [心酸旅行](https://zh.wikipedia.org/wiki/窮遊 "wikilink")\[43\]          | Chanyeol                                                        | 25-30                                            |            |
 | 12月1日 - 2019年2月9日 | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")          | [即刻電音](https://zh.wikipedia.org/wiki/即刻電音 "wikilink")\[44\]        | Lay                                                             | 全輯                                               |            |
 | 2019              | 1月21日 - 4月6日                                                   | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")                | [青春有你](../Page/青春有你.md "wikilink")                              | 全輯／青春製作人代表                                       |            |
-| 5月12日 -           | 東方衛視                                                           | [極限挑戰第五季](https://zh.wikipedia.org/wiki/極限挑戰 "wikilink")           |                                                                 |                                                  |            |
+| 5月12日 - 8月4日      | 東方衛視                                                           | [極限挑戰第五季](https://zh.wikipedia.org/wiki/極限挑戰 "wikilink")           |                                                                 |                                                  |            |
 | 6月21日 -           | KBS2                                                           | 加油吧曼蘇爾                                                             | Kai                                                             |                                                  |            |
 
 ## 綜藝節目
@@ -799,30 +799,39 @@
 <td><p>11月2日</p></td>
 </tr>
 <tr class="odd">
+<td><p>11月3日</p></td>
+</tr>
+<tr class="even">
+<td><p>11月5日</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
 <td><p>11月8日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月9日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月14日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月18日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12月22日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12月23日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>MBC</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12月26日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12月30日</p></td>
 </tr>
 </tbody>
@@ -913,6 +922,9 @@
 </tr>
 <tr class="even">
 <td><p>7月26日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8月2日</p></td>
 </tr>
 </tbody>
 </table>
@@ -1663,7 +1675,7 @@ Chen、Kai</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>Chanyeol</p></td>
 <td><p>Special MC</p></td>
@@ -1903,7 +1915,7 @@ Chen、Kai</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td></td>
 <td></td>

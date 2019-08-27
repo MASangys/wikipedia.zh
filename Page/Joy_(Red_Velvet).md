@@ -21,13 +21,13 @@
 
 2016年4月16日，與陸星材以夫婦名義推出合作單曲《稚愛（어린애）》，並參與歌曲填詞 \[11\]\[12\]。5月7日，與陸星材從《我們結婚了S4》中下車，結束長達11個月的夫妻假想生活\[13\]\[14\]\[15\]。11月3日，與[2AM](../Page/2AM.md "wikilink")前輩[瑟雍合作推出](https://zh.wikipedia.org/wiki/瑟雍 "wikilink")[SM STATION的第](../Page/SM_STATION.md "wikilink")39週單曲《Always In My Heart》\[16\]\[17\]。12月18日，與[NCT](../Page/NCT.md "wikilink")的[道英](../Page/道英.md "wikilink")在[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》演繹《First Christmas》，為人氣歌謠特別企劃。
 
-2017年3月，在個人處女作《[她愛上了我的謊](../Page/她愛上了我的謊_\(韓國電視劇\).md "wikilink")》中 飾演女主角**尹素琳**，搭檔[李玹雨](../Page/李玹雨.md "wikilink")，正式作爲演員出道\[18\]\[19\]\[20\]。
+2017年3月，在個人處女作《[她愛上了我的謊](../Page/她愛上了我的謊_\(韓國電視劇\).md "wikilink")》中飾演女主角**尹素琳**，搭檔[李玹雨](../Page/李玹雨.md "wikilink")，正式作爲演員出道\[18\]\[19\]\[20\]。《[她愛上了我的謊](../Page/她愛上了我的謊_\(韓國電視劇\).md "wikilink")》改編自同名的日本漫畫，此劇亦登上網路溫度計百大口碑韓劇榜網路聲量排行第8名，好評影響力排行第4名。\[21\]她的演出獲得觀眾一致好評。
 
 2018年1月7日，擔任[JTBC](../Page/JTBC.md "wikilink")《[Two Yoo Project - Sugar Man S2](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》固定主持之一。
 
-2018年1月，出演[MBC月火連續劇](../Page/MBC月火連續劇.md "wikilink")《[偉大的誘惑者](../Page/偉大的誘惑者.md "wikilink")》，飾演女主角殷泰熙，搭檔[禹棹煥](../Page/禹棹煥.md "wikilink")\[21\]。
+2018年1月，出演[MBC月火連續劇](../Page/MBC月火連續劇.md "wikilink")《[偉大的誘惑者](../Page/偉大的誘惑者.md "wikilink")》，飾演女主角殷泰熙，搭檔[禹棹煥](../Page/禹棹煥.md "wikilink")\[22\]。
 
-2018年9月15日，與[張允珠](https://zh.wikipedia.org/wiki/張允珠 "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")、[程瀟作為固定成員共同出演Lifetime綜藝節目](https://zh.wikipedia.org/wiki/程瀟 "wikilink")《[睡衣朋友](../Page/睡衣朋友.md "wikilink")》\[22\]。
+2018年9月15日，與[張允珠](https://zh.wikipedia.org/wiki/張允珠 "wikilink")、[宋智孝](../Page/宋智孝.md "wikilink")、[程瀟作為固定成員共同出演Lifetime綜藝節目](https://zh.wikipedia.org/wiki/程瀟 "wikilink")《[睡衣朋友](../Page/睡衣朋友.md "wikilink")》\[23\]。
 
 2019年4月5日，擔任[On Style](https://zh.wikipedia.org/wiki/On_Style "wikilink")《[Get it beauty](../Page/Get_it_beauty.md "wikilink")》固定主持之一。
 
@@ -57,20 +57,20 @@
 <td><p>2017年</p></td>
 <td><p>3月20日</p></td>
 <td><p>《<a href="../Page/她愛上了我的謊_(韓國電視劇).md" title="wikilink">她愛上了我的謊OST</a> Part.1》</p></td>
-<td><p>女雨夜（여우야）</p></td>
+<td><p>女雨夜 (Yeowooya)（여우야）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3月27日</p></td>
 <td><p>《<a href="../Page/她愛上了我的謊_(韓國電視劇).md" title="wikilink">她愛上了我的謊OST</a> Part.2》</p></td>
-<td><p>我沒關係（괜찮아, 난）</p></td>
+<td><p>我沒關係 (I'm OK)（괜찮아, 난）</p></td>
 <td><p>feat. <a href="../Page/李玹雨.md" title="wikilink">李玹雨</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4月11日</p></td>
 <td><p>《<a href="../Page/她愛上了我的謊_(韓國電視劇).md" title="wikilink">她愛上了我的謊OST</a> Part.4》</p></td>
-<td><p>最近的你呀（요즘 너 말야）</p></td>
+<td><p>最近的你啊 (Your Days)（요즘 너 말야）</p></td>
 <td><p>rowspan=5 </p></td>
 <td></td>
 </tr>
@@ -84,14 +84,14 @@
 <tr class="even">
 <td><p>5月1日</p></td>
 <td><p>《<a href="../Page/她愛上了我的謊_(韓國電視劇).md" title="wikilink">她愛上了我的謊OST</a> Part.8》</p></td>
-<td><p>等待你的方法（너를 기다리는 법 ）</p></td>
+<td><p>等待你的方法 (Waiting For You)（너를 기다리는 법 ）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5月8日</p></td>
 <td><p>《<a href="../Page/她愛上了我的謊_(韓國電視劇).md" title="wikilink">她愛上了我的謊OST</a> Part.9》</p></td>
-<td><p>走向我的路（내게 오는 길）</p></td>
+<td><p>走向我的路 (The Way To Me)（내게 오는 길）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -99,9 +99,9 @@
 <td><p>2018年</p></td>
 <td><p>3月27日</p></td>
 <td><p>《<a href="../Page/偉大的誘惑者.md" title="wikilink">偉大的誘惑者</a>OST Part.2》</p></td>
-<td><p>不像話(OMG</p></td>
-<td><p>Happing to me)<br />
-（말도 안돼(OMG</p></td>
+<td><p>不像話 (OMG!)<br />
+（말도 안돼 (OMG!)）[24]</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>10月18日</p></td>
@@ -239,6 +239,24 @@
 <td><p>與<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a></p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p>6月22日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a> 《<a href="../Page/傻瓜們的監獄生活.md" title="wikilink">傻瓜們的監獄生活</a>》</p></td>
+<td><p>與<a href="../Page/瑟琪.md" title="wikilink">Seulgi</a></p></td>
+</tr>
+<tr class="even">
+<td><p>6月29日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -250,7 +268,7 @@
 | ---------- | ------------------------------------------------------- | ------------------------------------------------------------------------ | --------------- |
 | **日期**     | **電視臺**                                                 | **節目名稱**                                                                 | **備註**          |
 | 2014年8月15日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")     | 《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》                  | 與Seulgi為待機室特別MC |
-| 2016年9月29日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 與Seulgi為特別MC    |
+| 2016年9月29日 | [Mnet](../Page/Mnet.md "wikilink")                      | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 與Seulgi為特別MC    |
 | 2017年7月13日 | 與Yeri為特別MC                                              |                                                                          |                 |
 | 2017年9月3日  | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink") | 《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》                  | 特別MC            |
 
@@ -468,5 +486,7 @@
 18.
 19.
 20.
-21.
+21. [網路溫度計／精神糧食不可少　網友熱門韓劇榜登場！](http://www.setn.com/News.aspx?NewsID=263969)
 22.
+23.
+24.

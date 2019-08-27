@@ -33,7 +33,7 @@ function p._main(args)
 `   local bracketArr, temp = {}`
 
 `   if args[1] then`
-`       if args[2] then table.insert(bracketArr, label(args, '日语', ja(args[2]))) end`
+`       if args[2] then table.insert(bracketArr, label(args, '`[`日语`](../Page/日语.md "wikilink")`', ja(args[2]))) end`
 `       if args['romaji'] then table.insert(bracketArr, label(args, '`[`罗马字`](../Page/平文式罗马字.md "wikilink")`', romaji(args['romaji']))) end`
 `       if args[3] then table.insert(bracketArr, args[3]) end`
 `       if args[4] then table.insert(bracketArr, args[4]) end`
@@ -44,7 +44,7 @@ function p._main(args)
 `   end`
 `   `
 `   if args['romaji'] then `
-`       if args[2] then table.insert(bracketArr, label(args, '日语', ja(args[2]))) end`
+`       if args[2] then table.insert(bracketArr, label(args, '`[`日语`](../Page/日语.md "wikilink")`', ja(args[2]))) end`
 `       if args[3] then table.insert(bracketArr, args[3]) end`
 `       if args[4] then table.insert(bracketArr, args[4]) end`
 `       if #bracketArr > 0 then temp = '（' .. table.concat(bracketArr, '，') .. '）' end`
@@ -54,7 +54,7 @@ function p._main(args)
 `   end`
 `   `
 `   if args[3] then `
-`       if args[2] then table.insert(bracketArr, label(args, '日语', ja(args[2]))) end`
+`       if args[2] then table.insert(bracketArr, label(args, '`[`日语`](../Page/日语.md "wikilink")`', ja(args[2]))) end`
 `       if args[4] then table.insert(bracketArr, args[4]) end`
 `       if #bracketArr > 0 then temp = '（' .. table.concat(bracketArr, '，') .. '）' end`
 `       if args[5] then temp = temp and (temp .. '　' .. args[5]) or ('　' .. args[5]) end`

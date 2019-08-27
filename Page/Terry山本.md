@@ -24,15 +24,17 @@ Terry山本於學生時代的志向是進入[甲子園](https://zh.wikipedia.org
 
   - （原作：[山崎十三](https://zh.wikipedia.org/wiki/山崎十三 "wikilink")，連載於《Big Comic Original》，全1冊）
 
-  - 職業·高校野球監督（原作：市田實，連載於《Big Comic Original》，已發行7冊／2018年4月）
+  - 職業·高校野球監督（原作：市田實，連載於《Big Comic Original》，全7冊）
+
+  - [](https://www.ebigcomic4.jp/title/534269)（原作：野球漫畫製作工房，）
 
 ## 腳註
 
 ### 注釋
 
-### 來源
+### 參考來源
 
-[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink") [Category:1966年出生](https://zh.wikipedia.org/wiki/Category:1966年出生 "wikilink") [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:日本漫畫家](https://zh.wikipedia.org/wiki/Category:日本漫畫家 "wikilink")
 
 1.
 2.
