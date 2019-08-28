@@ -1,4 +1,4 @@
-**SM娱乐**（；）是由歌手出身的[李秀滿于](https://zh.wikipedia.org/wiki/李秀滿 "wikilink")1995年创办的一间[韩国大型娛樂公司](https://zh.wikipedia.org/wiki/韩国 "wikilink")，其名稱是由「**Star Museum**」縮寫而來，与[YG娱乐](https://zh.wikipedia.org/wiki/YG娱乐 "wikilink")、[JYP娱乐并称为](https://zh.wikipedia.org/wiki/JYP娱乐 "wikilink")**韩国三大娱乐公司，**是韓國最大規模的經紀公司。
+**SM娱乐**（；）是由歌手出身的[李秀滿于](https://zh.wikipedia.org/wiki/李秀滿 "wikilink")1995年创办的一间[韩国大型娛樂公司](https://zh.wikipedia.org/wiki/韩国 "wikilink")，其名稱是由「**Star Museum**」縮寫而來，与[JYP娱乐](https://zh.wikipedia.org/wiki/JYP娱乐 "wikilink")、[YG娱乐并称为](https://zh.wikipedia.org/wiki/YG娱乐 "wikilink")**韩国三大娱乐公司，**是韓國最大規模的經紀公司。
 
 公司最初的重點是娛樂管理業務，現在新的附屬公司業務領域不斷擴大，旗下組合及業務成功打入了國際市場。《[福布斯](../Page/福布斯.md "wikilink")雜誌》更形容韩国SM娱乐有限公司為[K-pop的創造者](https://zh.wikipedia.org/wiki/K-pop "wikilink")\[1\]，可見其在[韩国娛樂圈的地位](https://zh.wikipedia.org/wiki/韩国 "wikilink")。2016年3月21日，旗下公司[SM C\&C正式宣佈將於](https://zh.wikipedia.org/wiki/SM_C&C "wikilink")6月设立全资子公司[Woollim Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")\[2\]。
 
@@ -220,6 +220,8 @@
   - [S.M. The Performance](../Page/S.M._The_Performance.md "wikilink")
 
   - [Toheart](../Page/Toheart.md "wikilink")
+
+  - [SuperM](https://zh.wikipedia.org/wiki/SuperM "wikilink")
 
 <!-- end list -->
 
@@ -525,7 +527,7 @@
       - 李在元<small>（1996-2001）</small>
       - [Tony An](https://zh.wikipedia.org/wiki/安勝浩 "wikilink")<small>（1996-2001）</small>
       - [張佑赫](https://zh.wikipedia.org/wiki/張佑赫 "wikilink")<small>（1996-2001）</small>
-  - [S.E.S.](https://zh.wikipedia.org/wiki/S.E.S. "wikilink")<small>（1997-2002）</small>
+  - [S.E.S.](https://zh.wikipedia.org/wiki/S.E.S._\(组合\) "wikilink")<small>（1997-2002）</small>
   - [神話](https://zh.wikipedia.org/wiki/神話_\(組合\) "wikilink")<small>（1998-2003）</small>
   - [Fly to the Sky](../Page/Fly_to_the_Sky.md "wikilink")<small>（1999-2004）</small>
   - [張娜拉](../Page/張娜拉.md "wikilink")<small>（2001-2008）</small>
@@ -617,7 +619,6 @@
   - 李長埈（[Golden Child](../Page/Golden_Child.md "wikilink")）
   - [李成烈](https://zh.wikipedia.org/wiki/李成烈 "wikilink")（[INFINITE](../Page/INFINITE.md "wikilink")）
   - [朴志訓](https://zh.wikipedia.org/wiki/朴志訓 "wikilink")
-  - [禹智皓](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")（藝名為**Zico**）
 
 <small>**參賽者**</small>
 

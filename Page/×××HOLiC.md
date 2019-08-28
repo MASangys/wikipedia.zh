@@ -1,4 +1,4 @@
-《**×××HOLiC**》（）[CLAMP](../Page/CLAMP.md "wikilink")所創作的[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")。與同期連載的《[TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")》是相同的[平行世界觀](https://zh.wikipedia.org/wiki/平行世界 "wikilink")，劇情相互交錯。2005年劇場版上映，於2006年、2008年二度動畫化，港台電視台皆取得動畫版權。
+《**×××HOLiC**》（）是[日本漫畫家團體](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[CLAMP](../Page/CLAMP.md "wikilink")創作的[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。與同期連載的《[TSUBASA翼](https://zh.wikipedia.org/wiki/TSUBASA翼 "wikilink")》是相同的[平行世界觀](https://zh.wikipedia.org/wiki/平行世界 "wikilink")，劇情互相交錯。在2005年劇場版上映，於2006年、2008年二度作成動畫，港台電視都取得動畫的版權。
 
 ## 故事簡介
 
@@ -354,6 +354,8 @@
 
 ## 出版書籍
 
+  - ×××HOLiC
+
 <table>
 <thead>
 <tr class="header">
@@ -471,7 +473,7 @@ ISBN 978-4-06-358337-3（限定版）</p></td>
 </tbody>
 </table>
 
-### ×××HOLiC·戻
+  - ×××HOLiC·戻
 
 <table>
 <thead>

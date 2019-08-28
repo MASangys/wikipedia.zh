@@ -138,4 +138,4 @@ AIM-7分成四個主要區段：導引段、彈頭、控制器、火箭引擎（
 
   - [F-16.net 網站對 AIM-7 的介紹（英文）](http://www.f-16.net/f-16_armament_article10.html)
 
-[Category:空對空飛彈](https://zh.wikipedia.org/wiki/Category:空對空飛彈 "wikilink") [Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink")
+[Category:空對空飛彈](https://zh.wikipedia.org/wiki/Category:空對空飛彈 "wikilink") [Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink") [Category:美國售台軍事裝備](https://zh.wikipedia.org/wiki/Category:美國售台軍事裝備 "wikilink")

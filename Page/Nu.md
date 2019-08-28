@@ -28,7 +28,7 @@
   - [北方橄欖球聯合會](https://zh.wikipedia.org/wiki/北方橄欖球聯合會 "wikilink")（Northern Union，NU），橄欖球聯盟的前稱。
   - [伊斯蘭教士聯合會](https://zh.wikipedia.org/wiki/伊斯蘭教士聯合會 "wikilink")（Nahdlatul Ulama，NU），印尼的一個伊斯蘭群眾組織。
   - [努塞尔数](https://zh.wikipedia.org/wiki/努塞尔数 "wikilink")（Nusselt number，Nu），一個無量綱的熱傳導比值。
-  - [泊松比](https://zh.wikipedia.org/wiki/泊松比 "wikilink")，定義為材料變形時其橫向變形量與縱向變形量的比值，是一個無量綱量。一般以希臘字母ν（）記之。
+  - [泊松比](../Page/泊松比.md "wikilink")，定義為材料變形時其橫向變形量與縱向變形量的比值，是一個無量綱量。一般以希臘字母ν（）記之。
   - [珠心胚现象](https://zh.wikipedia.org/wiki/珠心胚现象 "wikilink")（Nucellar embryony，Nu+），在一些植物物種出現的種子繁殖形式。
   - [不丹努尔特鲁姆](../Page/不丹努尔特鲁姆.md "wikilink")（Nu.），不丹的貨幣。
   - [東北公用事業](https://zh.wikipedia.org/wiki/東北公用事業 "wikilink")（Northeast Utilities，NU），美國東北部的一家電力和天然氣公司。現改名為能源方案。

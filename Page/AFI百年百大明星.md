@@ -59,7 +59,7 @@
 <li><a href="../Page/费雯·丽.md" title="wikilink">-{zh-hans:费雯·丽;zh-hk:慧雲李;zh-tw:費雯·麗;}-</a>（Vivien Leigh）</li>
 <li><a href="https://zh.wikipedia.org/wiki/莉莲·吉许" title="wikilink">-{zh-cn:莉莲·吉许; zh-tw:莉蓮·吉許; zh-hk:莉莉安姬雪;}-</a>（Lillian Gish）</li>
 <li><a href="../Page/秀兰·邓波儿.md" title="wikilink">-{zh-cn:秀兰·邓波儿; zh-tw:秀蘭·鄧波兒; zh-hk:莎利譚寶;}-</a>（Shirley Temple）</li>
-<li><a href="https://zh.wikipedia.org/wiki/丽塔·海华斯" title="wikilink">-{zh-cn:丽塔·海华斯; zh-tw:麗泰·海華斯; zh-hk:烈打希和芙;}-</a>（Rita Hayworth）</li>
+<li><a href="https://zh.wikipedia.org/wiki/丽塔·海华丝" title="wikilink">-{zh-cn:丽塔·海华丝; zh-tw:麗泰·海華斯; zh-hk:烈打希和芙;}-</a>（Rita Hayworth）</li>
 <li><a href="https://zh.wikipedia.org/wiki/洛琳·白考兒" title="wikilink">-{zh-cn:洛琳·白考儿; zh-tw:洛琳·白考兒; zh-hk:羅蘭比歌;}-</a>（Lauren Bacall）</li>
 <li><a href="https://zh.wikipedia.org/wiki/索非婭·羅蘭" title="wikilink">-{zh-cn:索菲亚·罗兰; zh-tw:蘇菲亞·羅蘭; zh-hk:蘇菲亞羅蘭;}-</a>（Sophia Loren）</li>
 <li><a href="https://zh.wikipedia.org/wiki/珍·哈露" title="wikilink">-{zh-cn:珍·哈露; zh-tw:珍·哈露; zh-hk:珍哈露;}-</a>（Jean Harlow）</li>

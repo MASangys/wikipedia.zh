@@ -1,4 +1,4 @@
-**TVB新聞台**（，英文全稱為）為[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")旗下之新聞頻道，於2004年2月18日於[無綫收費電視平台開始播放](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")，由[無綫新聞部製作](https://zh.wikipedia.org/wiki/無綫新聞 "wikilink")，是[香港](../Page/香港.md "wikilink")其中一條24小時新聞財經頻道。本頻道除了台徽、廣告之别，節目播放安排基本與[無綫新聞台](../Page/無綫新聞台.md "wikilink")無異。
+**TVB新聞台**（，英文全稱為）為[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")旗下之新聞頻道，於[2004年](../Page/2004年.md "wikilink")[2月18日](../Page/2月18日.md "wikilink")於[無綫收費電視平台開始播放](https://zh.wikipedia.org/wiki/無綫收費電視 "wikilink")，由[無綫新聞部製作](https://zh.wikipedia.org/wiki/無綫新聞 "wikilink")，是[香港](../Page/香港.md "wikilink")其中一條24小時新聞財經頻道。本頻道除了台徽、廣告之别，節目播放安排基本與[無綫新聞台](../Page/無綫新聞台.md "wikilink")無異。
 
 該頻道的主要競爭對手為[香港有線電視](../Page/香港有線電視.md "wikilink")擁有的[有線新聞台](../Page/有線新聞台.md "wikilink")及[now寬頻電視擁有的](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")。
 
@@ -249,11 +249,16 @@ TVB新聞台的[新聞報道每半小時一節](../Page/無綫電視新聞報道
 ### 已轉職主播
 
   - [李穎琳](https://zh.wikipedia.org/wiki/李穎琳 "wikilink")（財經組記者及主播）
-  - [李朗怡](../Page/李朗怡.md "wikilink")（專題節目組記者及主播）
-  - [簡惠宜](https://zh.wikipedia.org/wiki/簡惠宜 "wikilink")（港聞組記者）
-  - [黃德藍](https://zh.wikipedia.org/wiki/黃德藍 "wikilink")（港聞組記者）
+
+  - [簡惠宜](https://zh.wikipedia.org/wiki/簡惠宜 "wikilink")（港聞組記者及主播）
+
   - [黃珊](../Page/黃珊.md "wikilink")（專題節目組記者及主播）
+
   - [梁凱寧](../Page/梁凱寧.md "wikilink")（港聞組記者及主播）
+
+  - [李慧怡](https://zh.wikipedia.org/wiki/李慧怡 "wikilink")（財經組記者及主播）
+
+  - （國際新聞組記者及編輯）
 
 ### 已離職主播
 
@@ -358,7 +363,13 @@ TVB新聞台的[新聞報道每半小時一節](../Page/無綫電視新聞報道
   -
   - [嚴俏婷](https://zh.wikipedia.org/wiki/嚴俏婷 "wikilink")（[有線新聞財經記者及主持](https://zh.wikipedia.org/wiki/香港有線電視新聞 "wikilink")）
 
+  - [李朗怡](../Page/李朗怡.md "wikilink")（[香港電台](../Page/香港電台.md "wikilink")）
+
   -
+  - [黃德藍](https://zh.wikipedia.org/wiki/黃德藍 "wikilink")
+
+  - [金盈](../Page/金盈.md "wikilink")
+
 ## 注釋
 
 <references group="註" />

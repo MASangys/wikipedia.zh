@@ -239,7 +239,7 @@ F-35B<br />
 <td><p>116→50</p></td>
 <td><p>F-35A</p></td>
 <td><p>2014</p></td>
-<td><p>削減一半</p></td>
+<td><p>暂停计划</p></td>
 </tr>
 <tr class="even">
 <td><p><br />
@@ -268,7 +268,7 @@ F-35B</p></td>
 </tbody>
 </table>
 
-### 英國
+###
 
 [英國計劃為](https://zh.wikipedia.org/wiki/英國 "wikilink")[英國皇家空軍](../Page/英國皇家空軍.md "wikilink")和[英國皇家海軍](../Page/英國皇家海軍.md "wikilink")採買各型F-35。
 
@@ -282,7 +282,7 @@ BAE系統[總裁](https://zh.wikipedia.org/wiki/總裁 "wikilink")[麥可·透�
 
 2016年6月29日，歸屬[英國編號為BK](https://zh.wikipedia.org/wiki/英國 "wikilink")-3的F-35B與另兩架[美國海軍陸戰隊的F](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")-35B護航下，飛行十個小時橫越[大西洋](../Page/大西洋.md "wikilink")飛抵[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[費爾福德空軍基地](https://zh.wikipedia.org/wiki/費爾福德空軍基地 "wikilink")，並將於2018年編入[英國皇家空軍](../Page/英國皇家空軍.md "wikilink")和[英國皇家海軍](../Page/英國皇家海軍.md "wikilink")服役\[56\]\[57\]\[58\]。
 
-### 義大利
+###
 
 [義大利原先計畫為](https://zh.wikipedia.org/wiki/義大利 "wikilink")[義大利空軍購買](https://zh.wikipedia.org/wiki/義大利空軍 "wikilink")109架F-35A，並為[義大利海軍購買](https://zh.wikipedia.org/wiki/義大利海軍 "wikilink")22架F-35B以部署於[加富爾號航空母艦](https://zh.wikipedia.org/wiki/加富爾號航空母艦 "wikilink")，取代[龍捲風戰鬥轟炸機](../Page/龍捲風戰鬥轟炸機.md "wikilink")、[AMX](https://zh.wikipedia.org/wiki/AMX "wikilink")、[AV-8](https://zh.wikipedia.org/wiki/AV-8 "wikilink")。\[59\] 最終義大利決定購買共90架F-35，包括空軍60架F-35A、15架F-35B及[義大利海軍](https://zh.wikipedia.org/wiki/義大利海軍 "wikilink")15架F-35B。\[60\]
 
@@ -294,13 +294,13 @@ BAE系統[總裁](https://zh.wikipedia.org/wiki/總裁 "wikilink")[麥可·透�
 
 2017年5月5日，意大利首架由卡梅F-35最終組裝廠組裝的F-35B舉行出廠儀式，該架F-35B將於2017年8月底進行首飛，該機亦是美國本土以外首架組裝完工的F-35B\[68\]。
 
-### 荷蘭
+###
 
 [荷蘭計畫为](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[荷蘭皇家空軍](../Page/荷蘭皇家空軍.md "wikilink")购买85架F-35A，用于取代老化中的[F-16AM機群](../Page/F-16戰隼戰鬥機.md "wikilink")，荷蘭政府預計這將包括55億歐元的采购预算和91億歐元的30年使用预算。\[69\]
 
 2016年5月23日，兩架歸屬[荷蘭皇家空軍](../Page/荷蘭皇家空軍.md "wikilink")編號分別為AN-1及AN-2的F-35A，飛抵[荷蘭本土](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")\[70\]\[71\]\[72\]。
 
-### 澳大利亚
+###
 
 [Brendan_Nelson_signing_the_JSF_Production,_Sustainment_and_Follow-on_Development_Memorandum_of_Understanding_for_Australia.jpg](https://zh.wikipedia.org/wiki/File:Brendan_Nelson_signing_the_JSF_Production,_Sustainment_and_Follow-on_Development_Memorandum_of_Understanding_for_Australia.jpg "fig:Brendan_Nelson_signing_the_JSF_Production,_Sustainment_and_Follow-on_Development_Memorandum_of_Understanding_for_Australia.jpg")國防部部長[布蘭登·尼爾森](https://zh.wikipedia.org/wiki/布蘭登·尼爾森 "wikilink")（Brendan Nelson）正在簽署JSF生產，維修和後續研發瞭解備忘錄。\]\] 在2005年5月，澳大利亚政府宣佈它將購買JSF的決定由2006年延至2008年，因而超過當時政府的任期。澳大利亚和英国一样，堅持它必須能取得所有修改和修理飛機所需的軟體。[澳洲皇家空軍做的研究顯示F](https://zh.wikipedia.org/wiki/澳洲皇家空軍 "wikilink")-35是「最適合澳洲所需的飛機」。\[73\]
 
@@ -314,29 +314,27 @@ BAE系統[總裁](https://zh.wikipedia.org/wiki/總裁 "wikilink")[麥可·透�
 
 2014年4月30日，澳洲總理[托尼·阿博特](../Page/托尼·阿博特.md "wikilink")正式宣佈該國將購買72架F-35。採購计划总成本为124亿澳元（或约116亿美元，或人民币717.8亿元），是澳洲有史以来最大規模的軍備采购之一，預計前14架將於2018年交付并于2020年时投入裝備\[81\]。
 
-### 土耳其
+###
 
 在2002年7月12日，土耳其成為JSF計畫第七個國際合夥人，加入英國、意大利、荷蘭、加拿大、丹麥和挪威。在2007年1月25日，土耳其簽署關於F-35生產的瞭解備忘錄，據報導土耳其預計花費110億美元訂購100架F-35A「CTOL／空軍版」\[82\]。
 
 土耳其航空工業公司（TAI）和美國承包商[諾格公司在](../Page/诺斯洛普·格鲁门.md "wikilink")2007年2月6日簽署購買意向書，根據此購買意向書，TAI將成為F-35低速初期生產（LRIP）兩階段時期中央機身的第二來源，自LRIP-1開始生產，並在LRIP-2生產最少400個中央機身。\[83\]在2007年12月10日，開始為兩架F-35製造零組件，即合成元件和飛機出入口，這將用在F-35中央機身，諾格公司在洛馬領導下為此飛機生產的重要部分。\[84\] 本型戰機預計取代[F-4](https://zh.wikipedia.org/wiki/F-4 "wikilink")、[F-5等老舊機種](https://zh.wikipedia.org/wiki/F-5 "wikilink")。
 
-然而土耳其卻在[2017年](../Page/2017年.md "wikilink")向[俄羅斯訂購](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[S-400防空飛彈](../Page/S-400导弹.md "wikilink")，此舉引發美國政府不滿，美方認為俄羅斯很可能利用土耳其的S-400來偵測出F-35的雷達頻率，藉此得以開發突破匿蹤科技的飛彈系統，這將威脅美軍優勢。因此[2018年](../Page/2018年.md "wikilink")[6月參議院便欲中止土耳其](https://zh.wikipedia.org/wiki/6月 "wikilink")100架F-35A的訂單來要求土耳其停止S-400的採購計畫，但土耳其仍堅持採購S-400，並於[2019年](../Page/2019年.md "wikilink")[7月12日受付第一批飛彈](https://zh.wikipedia.org/wiki/7月12日 "wikilink")，因此美國總統[川普](../Page/川普.md "wikilink")在[7月17日正式宣布暫停F](https://zh.wikipedia.org/wiki/7月17日 "wikilink")-35出口土耳其的計畫。\[85\]
+然而土耳其卻在2017年向[俄羅斯訂購](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[S-400防空飛彈](../Page/S-400导弹.md "wikilink")，此舉引發美國政府不滿，美方認為俄羅斯很可能利用土耳其的S-400來偵測出F-35的雷達頻率，藉此得以開發突破匿蹤科技的飛彈系統，這將威脅美軍優勢。因此2018年6月參議院便欲中止土耳其100架F-35A的訂單來要求土耳其停止S-400的採購計畫，但土耳其仍堅持採購S-400，並於2019年7月12日受付第一批飛彈，因此美國總統川普在7月17日正式宣布暫停F-35出口土耳其的計畫。\[85\]
 
-### 加拿大
+###
 
 [加拿大國防部](../Page/加拿大國防部.md "wikilink")尋求在2020年前替換老化中的[CF-18機群並對F](https://zh.wikipedia.org/wiki/F/A-18 "wikilink")-35抱持很大興趣，國防部官員表示預架生產80架將花費38億美元，但此數額未包括訓練、維修和任何後續費用。加拿大可待2012年再決定是否購買F-35，不過他們已投資一億五千萬美元在JSF計畫。\[86\] [缩略图](https://zh.wikipedia.org/wiki/File:An_F-35_Lightning_II_completes_a_flyover_of_USS_Zumwalt_\(DDG_1000\)._\(29774535153\).jpg "fig:缩略图")\]\] 在2010年7月16日，加拿大国防部长[彼得·麦凯](../Page/彼得·麦凯.md "wikilink")宣布，加拿大政府决定斥资90亿加元（约合86亿美元）购买65架美国生产的第五代F－35闪电2型联合攻击战斗机。\[87\]
 
 加拿大政府在2012年12月12日宣布，决定停购美国洛克希德·马丁公司生产的F-35战机，重新启动采购程序，招标时将考虑所有货源，寻找新的替代战机。
 
-### 其他國家
-
-#### 以色列
+###
 
 在2003年，以色列簽署價值近2千萬美元的同意書，正式做為「安全合作成員」加入F-35系統研發和驗證\[88\]。[以色列空軍在](https://zh.wikipedia.org/wiki/以色列空軍 "wikilink")2006年表示F-35是IAF重整計畫的關鍵部份，並且以色列計畫花費50億美元購買超過100架F-35A戰機替換他們的F-16戰機\[89\]。在對中國軍售喊停後，以色列在2006年7月31日暫時回復F-35發展夥伴的身份。\[90\]
 
 在2007年9月3日，[以色列國防軍](../Page/以色列國防軍.md "wikilink")參謀總長Gabi Ashkenazi中將宣佈購買一中隊F-35並將在2014年開始陸續接收，不過，美國國防官員後來同意讓以色列最早在2012年開始接收\[91\]。每架F-35預計高達五千到六千萬美元。\[92\]2008年9月美國政府同意向以色列出售25架的F-35A，日後並追加50架的F-35A或是F-35B。2016年12月12日，美國國防部長卡特訪問以色列，共同慶祝第一批兩架F-35I戰機運抵以色列。2017年1月16日晚上兩架僅接收後一個月的F-35I執行首次夜間飛行任務，為[以色列空軍所有機型當中最快執行夜間飛行任務的機種](https://zh.wikipedia.org/wiki/以色列空軍 "wikilink")\[93\]。2017年4月23日第二批次共三架F-35I戰機飛抵位於[內蓋夫沙漠的](https://zh.wikipedia.org/wiki/內蓋夫沙漠 "wikilink")，連同第一批共5架F-35I編入別稱金鷹中隊的，2019年7月15日以色列國防部宣布再接收2架F-35I，使F-35戰機總數量為16架。\[94\]。
 
-#### 日本
+###
 
 日本原本希望獲得[F-22戰機](https://zh.wikipedia.org/wiki/F-22 "wikilink")，曾向美國提出過購買意向。但是美國政府為避免技術外洩為由1998年立法規定F-22禁止出口，日本只能退而求其次選擇F-35。[日本防衛省在於](https://zh.wikipedia.org/wiki/日本防衛省 "wikilink")2012年初召開機型選定委員會，F-35即使延遲交機，但仍將是[航空自衛隊](../Page/航空自衛隊.md "wikilink")下一代戰機的首選，2012年5月4日新聞，美國國防部日前向國會提交報告稱，日本計劃購買的42架F-35戰機總價預計將高達到100億美元，以汰換掉老舊的F-4J機隊\[95\]。
 
@@ -352,41 +350,41 @@ BAE系統[總裁](https://zh.wikipedia.org/wiki/總裁 "wikilink")[麥可·透�
 
 2017年6月5日，在位於[愛知縣](../Page/愛知縣.md "wikilink")[豐山町的](https://zh.wikipedia.org/wiki/豐山町 "wikilink")[三菱重工業公司小牧南工廠舉行首架在日本組裝的F](https://zh.wikipedia.org/wiki/三菱重工業公司 "wikilink")-35A出廠儀式，該工廠負責生產F-35的引擎等部分零部件、最終組裝及性能檢測\[102\]\[103\]。
 
-#### 韓國
+###
 
 [韓國空軍正在研製下一代戰機](https://zh.wikipedia.org/wiki/韓國空軍 "wikilink")[KF-X計畫](https://zh.wikipedia.org/wiki/KF-X "wikilink")，受到日本採購F-35以及中國研發中的[殲-20戰機的影響](https://zh.wikipedia.org/wiki/殲-20 "wikilink")，在對[北韓的軍事保有優勢之下](https://zh.wikipedia.org/wiki/北韓 "wikilink")，目前招標採購60架先進戰機，具備隱形能力，也有可能採購F-35或是波音公司[F-15SE沉默鷹](https://zh.wikipedia.org/wiki/F-15SE "wikilink")，也是F-35的潛在客戶，預估為108億美元。\[104\]\[105\]\[106\]\[107\]此型戰機預計取代類似用途的[F-4](https://zh.wikipedia.org/wiki/F-4 "wikilink")、[F-5戰鬥機](https://zh.wikipedia.org/wiki/F-5 "wikilink")。美國國防部也已同意讓[洛克希德·馬丁公司的F](https://zh.wikipedia.org/wiki/洛克希德·馬丁 "wikilink")-35匿蹤戰鬥機，或[波音](../Page/波音.md "wikilink")的[F-15SE](https://zh.wikipedia.org/wiki/F-15SE "wikilink")「沉默鷹」戰鬥機出售給韓方，最後F-15SE出局，韓國採購40架F-35同時將繼續自行研發該國五代機。 大韓民國計畫採購40架F-35，2021年交付完成\[108\]。2018年3月28日韓國空軍接收了首批2架跟美國訂購的F-35A型戰鬥機\[109\]。
 
-#### 丹麥
+###
 
 2016年6月9日，[丹麥政府宣佈將採購](https://zh.wikipedia.org/wiki/丹麥 "wikilink")27架F-35A戰機，取代現行服役的F-16戰機\[110\]\[111\]\[112\]。
 
-#### 挪威
+###
 
 挪威政府探購的52架F-35A，依照計劃將於2017年接收6架，當中3架將首先交付至美國[亞利桑那州](../Page/亞利桑那州.md "wikilink")[路克空軍基地](../Page/路克空軍基地.md "wikilink")作為培訓之用，其餘3架會於2017年11月初抵達挪威本土。2018年其後交付的F-35A將以每年6架的速度接收，並將直接飛抵挪威本土。[挪威皇家空軍預計於](https://zh.wikipedia.org/wiki/挪威皇家空軍 "wikilink")2019年宣布已交付的F-35A具備作戰能力，並於2021年底取代現役的F-16機隊\[113\]\[114\]。
 
-### 新加坡
+###
 
 2019年3月2日新加坡宣布展開採購程序，預期先採購4架，保留8架選擇權。\[115\]
 
 ## 潛在客戶
 
-### [印度](../Page/印度.md "wikilink")
+###
 
 截至2007年7月F-35也是印度空軍的潛在選擇，這被理解成向IAF販賣F-16多用途戰機策略的一部份。\[116\]
 
-### [中華民國](../Page/中華民國.md "wikilink")
+###
 
-雖然不具發展夥伴身分，但[中華民國政府](../Page/中華民國政府.md "wikilink")曾多次於不同場合向美國表達對F-35B的高度興趣，並有意借鑒其部分功能為其下一代戰機研發計畫的發展要點——尤其是短場起降、匿蹤、垂直起降、超視距作戰等優異性能。雖然國際軍評專家均認為以其現況及未來衡量，非常適合布署F-35B以應付目前逐漸向[中國人民解放軍傾斜的空優](https://zh.wikipedia.org/wiki/中國人民解放軍 "wikilink")，以及解放軍對台湾大量佈署短程彈道飛彈摧毀其機場跑道，美方建議[台灣採購F](https://zh.wikipedia.org/wiki/台灣 "wikilink")-35B垂直起降型戰機；但是對於是否能在未來順利取得或轉移F-35B技術以取代其現役的[F-16等主力戰機](https://zh.wikipedia.org/wiki/F-16 "wikilink")，因牽涉到[中華民國與美國關係](../Page/中華民國與美國關係.md "wikilink")、《[台灣關係法](https://zh.wikipedia.org/wiki/台灣關係法 "wikilink")》、台海軍力平衡、[中美關係](https://zh.wikipedia.org/wiki/中美關係 "wikilink")、及[兩岸關係發展等](https://zh.wikipedia.org/wiki/兩岸關係 "wikilink")，而尙無定論。 \[117\]\[118\]\[119\]\[120\]
+雖然不具發展夥伴身分，但中華民國政府曾多次於不同場合向美國表達對F-35B的高度興趣，並有意借鑒其部分功能為其下一代戰機研發計畫的發展要點——尤其是短場起降、匿蹤、垂直起降、超視距作戰等優異性能。雖然國際軍評專家均認為以其現況及未來衡量，非常適合布署F-35B以應付目前逐漸向[中國人民解放軍傾斜的空優](https://zh.wikipedia.org/wiki/中國人民解放軍 "wikilink")，以及解放軍對台湾地區大量佈署短程彈道飛彈摧毀其機場跑道，美方建議中華民國政府採購F-35B垂直起降型戰機；但是對於是否能在未來順利取得或轉移F-35B技術以取代其現役的[F-16等主力戰機](https://zh.wikipedia.org/wiki/F-16 "wikilink")，因牽涉到[中華民國與美國關係](../Page/中華民國與美國關係.md "wikilink")、《[台灣關係法](https://zh.wikipedia.org/wiki/台灣關係法 "wikilink")》、台海軍力平衡、[中美關係](https://zh.wikipedia.org/wiki/中美關係 "wikilink")、及[兩岸關係發展等](https://zh.wikipedia.org/wiki/兩岸關係 "wikilink")，而尙無定論。 \[117\]\[118\]\[119\]\[120\]
 
-2018年3月15日，國防部長[嚴德發](../Page/嚴德發.md "wikilink")上午在立法院外交及國防委員會證實，[中華民國國防部確實在](https://zh.wikipedia.org/wiki/中華民國國防部 "wikilink")2018年對美軍購清單上，對美國政府提出採購F-35戰機的需求。 \[121\] \[122\]
+2018年3月15日，中華民國國防部長[嚴德發](../Page/嚴德發.md "wikilink")上午在立法院外交及國防委員會證實，[中華民國國防部確實在](https://zh.wikipedia.org/wiki/中華民國國防部 "wikilink")2018年對美軍購清單上，對美國政府提出採購F-35戰機的需求。 \[121\] \[122\]
 
-### [希臘](https://zh.wikipedia.org/wiki/希臘 "wikilink")
+###
 
 2019年希臘國防部長阿波斯托拉基斯（Evangelos Apostolakis）表示考慮採購F-35替換老一批F-16，強化其抵禦土耳其。\[123\]
 
-### [波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")
+###
 
-2019年5月28日波蘭國防部長布拉斯扎克（Mariusz Blaszczak）推特宣布，「我們已向美國遞交請求報價單（request for quotation），擬採購32架最新型F-35A戰機。取代蘇聯時期[Su-22](https://zh.wikipedia.org/wiki/Su-17戰鬥機 "wikilink")、[米格29](../Page/米格-29戰鬥機.md "wikilink")\[124\]
+2019年5月28日波蘭國防部長布拉斯扎克（Mariusz Blaszczak）推特宣布，「我們已向美國遞交請求報價單（request for quotation），擬採購32架最新型F-35A戰機。取代冷战時期[Su-22](https://zh.wikipedia.org/wiki/Su-17攻击机 "wikilink")、[米格29](../Page/米格-29戰鬥機.md "wikilink")\[124\]
 
 ## 事故
 
@@ -428,7 +426,7 @@ BAE系統[總裁](https://zh.wikipedia.org/wiki/總裁 "wikilink")[麥可·透�
   - [F-22](../Page/F-22猛禽戰鬥機.md "wikilink")
   - [J-20](https://zh.wikipedia.org/wiki/殲-20 "wikilink")
   - [J-31](https://zh.wikipedia.org/wiki/殲-31 "wikilink")
-  - [T-50](https://zh.wikipedia.org/wiki/T-50 "wikilink")
+  - [Su-57](../Page/苏-57战斗机.md "wikilink")
   - [ATD-X](https://zh.wikipedia.org/wiki/ATD-X "wikilink")
 
 ## 外部链接

@@ -100,6 +100,7 @@ Avex Trax的首位簽約藝人是樂團[TRF](../Page/TRF.md "wikilink")，由於
   - [SKE48](../Page/SKE48.md "wikilink")（[日本クラウン移籍至此](https://zh.wikipedia.org/wiki/日本クラウン "wikilink")）
   - [SHINee](../Page/SHINee.md "wikilink")\[4\]
   - [SHU-I](../Page/SHU-I.md "wikilink")
+  - [Snow Man](../Page/Snow_Man.md "wikilink") (預定2020年發行)
   - [SOULHEAD](https://zh.wikipedia.org/wiki/SOULHEAD "wikilink")
   - [Super Junior](../Page/Super_Junior.md "wikilink")\[5\]
   - [the pillows](https://zh.wikipedia.org/wiki/the_pillows "wikilink")

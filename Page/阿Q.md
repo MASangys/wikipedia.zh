@@ -10,4 +10,4 @@
   - [精神胜利法](https://zh.wikipedia.org/wiki/精神胜利法 "wikilink")
   - 未庄的传说
 
-[Category:文学角色](https://zh.wikipedia.org/wiki/Category:文学角色 "wikilink")
+[Category:文学角色](https://zh.wikipedia.org/wiki/Category:文学角色 "wikilink") [Category:鲁迅](https://zh.wikipedia.org/wiki/Category:鲁迅 "wikilink")

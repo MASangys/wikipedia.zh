@@ -24,7 +24,7 @@
   - 宮古工廠（[岩手縣](https://zh.wikipedia.org/wiki/岩手縣 "wikilink")[宮古市](../Page/宮古市.md "wikilink")）
   - 三本木工廠（[宮城縣](../Page/宮城縣.md "wikilink")[大崎市](https://zh.wikipedia.org/wiki/大崎市 "wikilink")）
   - 仙台工廠（宮城縣[岩沼市](../Page/岩沼市.md "wikilink")）
-  - 伊勢崎工廠（[群馬縣](../Page/群馬縣.md "wikilink")[伊勢崎市](https://zh.wikipedia.org/wiki/伊勢崎市 "wikilink")）
+  - 伊勢崎工廠（[群馬縣](../Page/群馬縣.md "wikilink")[伊勢崎市](../Page/伊勢崎市.md "wikilink")）
   - 野田工廠（[千葉縣](../Page/千葉縣.md "wikilink")[野田市](../Page/野田市.md "wikilink")）
   - 大阪工廠（[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[大正區](../Page/大正區.md "wikilink")）
   - 羽犬塚工廠（[福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")[筑後市](../Page/筑後市.md "wikilink")）

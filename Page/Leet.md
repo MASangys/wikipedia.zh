@@ -335,6 +335,14 @@ Do you know what I am writing? 你知道我在写什么吗？
 
 Now is the time
 
+（四）
+
+原文：\[)311 4 |v|3
+
+翻译：
+
+Dell for me
+
 ## 中文的leet
 
 中文的網絡語言中，也有類似leet的寫法。利用部分[漢字由組件合成的特性](https://zh.wikipedia.org/wiki/漢字 "wikilink")，一個漢字被分拆成兩個或以上的組件，主要是左右拆分，讓個別的字看起來拉長了，如將-{zh-hans:“頭”字（“头”的繁体字形）; zh-hant:「頭」字;}-拆成「-{豆頁}-」。很多時組件本身是單獨漢字。中國簡體繁體會有一定差別，但實質差不多。例子：

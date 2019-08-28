@@ -67,33 +67,23 @@
 <thead>
 <tr class="header">
 <th><p>節目名稱</p></th>
-<th><p>播出時間</p></th>
 <th><p>主持人</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><center>
-<p>《<a href="../Page/健康好生活.md" title="wikilink">健康好生活</a>》</p></td>
-<td><p>週一至週五 18:00 ~ 19:00</p></td>
-<td><p><a href="../Page/陳凝觀.md" title="wikilink">陳凝觀</a></p></td>
+<p>《<a href="https://zh.wikipedia.org/wiki/荳荳快樂學堂" title="wikilink">荳荳快樂學堂</a>》</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><center>
-<p>《<a href="https://zh.wikipedia.org/wiki/荳荳快樂學堂" title="wikilink">荳荳快樂學堂</a>》</p></td>
-<td><p>週六、日 09:00 ~ 09:30</p></td>
-<td></td>
+<p>《<a href="../Page/健康好生活.md" title="wikilink">健康好生活</a>》</p></td>
+<td><p><a href="../Page/陳凝觀.md" title="wikilink">陳凝觀</a></p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p>《動物方城市》</p></td>
-<td><p>週六18:00 ~ 19:00</p></td>
-<td><p>|<a href="../Page/李李仁.md" title="wikilink">李李仁</a>、<a href="../Page/朱蕾安.md" title="wikilink">朱蕾安</a></p></td>
-</tr>
-<tr class="even">
-<td><center>
 <p>《<a href="../Page/MUCH金點秀.md" title="wikilink">MUCH金點秀</a>》</p></td>
-<td><p>週一至週五 21:00 ~ 22:00</p></td>
 <td><p><a href="../Page/張秀卿.md" title="wikilink">張秀卿</a>、<a href="https://zh.wikipedia.org/wiki/邵大倫" title="wikilink">邵大倫</a></p></td>
 </tr>
 </tbody>
@@ -107,18 +97,12 @@
 <thead>
 <tr class="header">
 <th><p>中國大陸名稱</p></th>
-<th><p>播出時間</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><center>
-<p>《新上海灘》</p></td>
-<td><p>週一至週五 20：00~21：00</p></td>
+<p>《老有所依》</p></td>
 </tr>
 </tbody>
 </table>

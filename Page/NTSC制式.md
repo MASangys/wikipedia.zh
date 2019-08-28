@@ -14,7 +14,7 @@
 
 在彩色電視[標準還沒有統一時](https://zh.wikipedia.org/wiki/標準 "wikilink")，当時美國本土的電視台，電器公司都有各自各的標準。其中一種制式為[哥倫比亞廣播公司使用的制式](https://zh.wikipedia.org/wiki/哥倫比亞廣播公司 "wikilink")。這標準不能與[黑白電視相容](https://zh.wikipedia.org/wiki/黑白電視 "wikilink")，它使用彩色旋轉輪，因為技術所限，掃描線由官方標準525線下降至405線，但[場頻則由每秒](https://zh.wikipedia.org/wiki/場頻 "wikilink")60幀大幅提升至每秒144幀（恰巧為24幀等效倍數值）。1951年，由於韓戰，美國國防動員辦公室（ODM）限制廣播，間接使各自的自家制式相繼放棄，而RCA公司歸功於[法律訴訟成功](https://zh.wikipedia.org/wiki/法律訴訟 "wikilink")，可以繼續使用自家制式廣播直至1951年6月。而哥倫比亞廣播公司自家制式亦在1953年3月廢止，同年12月17日由聯邦通訊管理委員會的NTSC制式取代。世界上第一套使用NTSC彩色系統廣播的電視節目為一齣[美國國家廣播公司的電視劇](https://zh.wikipedia.org/wiki/美國國家廣播公司 "wikilink")[Kukla, Franand Ollie](https://zh.wikipedia.org/wiki/Kukla,_Franand_Ollie "wikilink")，於1953年8月30日播映，但僅限於該電視台總部大樓內收看。而真正的第一套全國[大氣](https://zh.wikipedia.org/wiki/大氣 "wikilink")[廣播的NTSC制式節目](https://zh.wikipedia.org/wiki/廣播 "wikilink")，為1954年[元旦](../Page/元旦.md "wikilink")播映的[Tournament of Roses Parade](https://zh.wikipedia.org/wiki/Tournament_of_Roses_Parade "wikilink")，能在当時的實驗性試產電視上收看。
 
-世界上第一台NTSC制式彩色電視[攝影機](../Page/攝影機.md "wikilink")，為RCA公司於1953[試產的TK](https://zh.wikipedia.org/wiki/試產 "wikilink")-40型号，其改良版TK-40A亦在1954年3月推出，是当時第一台商用彩色電視攝影機。同年下旬，改良型TK-41推出，成為廣播業界標準攝影機，直至六十年代仍有電視台使用。
+世界上第一台NTSC制式彩色電視[攝影機](../Page/攝影機.md "wikilink")，為RCA公司於1953[試產的TK](https://zh.wikipedia.org/wiki/試產 "wikilink")-40型号，其改良版TK-40A亦在1954年3月推出，是当時第一台商用彩色電視攝影機。同年下半年，改良型TK-41推出，成為廣播業界標準攝影機，直至六十年代仍有電視台使用。
 
 NTSC彩色電視標準後來被其他國家採用，包括眾多[美洲](../Page/美洲.md "wikilink")國家以及[日本](../Page/日本.md "wikilink")。在[數位電視廣播大行其道的今天](https://zh.wikipedia.org/wiki/數位電視 "wikilink")，傳統NTSC廣播制式將會逐漸淡出歷史。自2009年開始，美國電視已經完全實施[數位化](https://zh.wikipedia.org/wiki/數位化 "wikilink")，再也沒有[電視節目使用NTSC制式播出](https://zh.wikipedia.org/wiki/電視節目 "wikilink")。
 

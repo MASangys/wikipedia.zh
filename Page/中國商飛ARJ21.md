@@ -102,27 +102,27 @@ ARJ21使用了1960年代[麦克唐纳·道格拉斯轉移的](https://zh.wikiped
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/成都航空.md" title="wikilink">成都航空</a></p></td>
-<td><p>2019-05-09</p></td>
-<td><p>11</p></td>
+<td><p>2019-08-08</p></td>
+<td><p>12</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>11[51]</p></td>
+<td><p>12</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/天骄航空.md" title="wikilink">天骄航空</a></p></td>
-<td><p>2019-05-09</p></td>
+<td><p>2019-08-08</p></td>
 <td><p>2</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p>2[52]</p></td>
+<td><p>2[51]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/烏魯木齊航空.md" title="wikilink">乌鲁木齐航空</a></p></td>
-<td><p>2019-05-09</p></td>
+<td><p>2019-08-08</p></td>
 <td><p>1</p></td>
 <td></td>
 <td></td>
@@ -262,7 +262,7 @@ ARJ21使用了1960年代[麦克唐纳·道格拉斯轉移的](https://zh.wikiped
 </table>
 
   - *參見：* 數據僅供參考. STD = 标准航程版, ER = 延程版
-  - *來源：* ARJ21 Series\[53\]
+  - *來源：* ARJ21 Series\[52\]
 
 ## 参見
 
@@ -380,5 +380,3 @@ ARJ21使用了1960年代[麦克唐纳·道格拉斯轉移的](https://zh.wikiped
 51.
 
 52.
-
-53.

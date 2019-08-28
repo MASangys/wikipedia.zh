@@ -26,6 +26,7 @@
 ## 參考條目
 
   - [索尼爱立信](https://zh.wikipedia.org/wiki/索尼爱立信 "wikilink")
+  - [Sony Ericsson W800i](../Page/Sony_Ericsson_W800i.md "wikilink")
 
 ## 外部連結
 

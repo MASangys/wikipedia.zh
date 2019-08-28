@@ -13,7 +13,7 @@
 
   - \(K_{\nu}(x)\): [第二类修正貝塞爾函數](../Page/贝塞尔函数.md "wikilink")
 
-}} 在[概率论和](https://zh.wikipedia.org/wiki/概率论 "wikilink")[统计学](../Page/统计学.md "wikilink")中，**学生*t*-分布**（Student's *t*-distribution）可简称为***t*分布**，用于根据小样本来估計呈[正态分布](../Page/正态分布.md "wikilink")且[方差](../Page/方差.md "wikilink")未知的总体的[均值](https://zh.wikipedia.org/wiki/均值 "wikilink")。如果总体方差已知（例如在样本数量足够多时），则应该用正态分布来估计总体均值。
+}} 在[概率论和](https://zh.wikipedia.org/wiki/概率论 "wikilink")[统计学](../Page/统计学.md "wikilink")中，**学生*t*-分布**（Student's *t*-distribution）可简称为***t*分布**，用于根据小样本来估計呈[常態分布且](https://zh.wikipedia.org/wiki/常態分布 "wikilink")[變異數未知的总体的](https://zh.wikipedia.org/wiki/變異數 "wikilink")[平均值](https://zh.wikipedia.org/wiki/平均值 "wikilink")。如果總體變異數已知（例如在样本数量足够多时），则应该用常態分布来估计总体均值。
 
 它是对两个样本均值差异进行[显著性测试的](../Page/显著性差异.md "wikilink")[学生*t*檢定的基础](https://zh.wikipedia.org/wiki/学生t测定 "wikilink")。学生*t*檢定改進了[Z檢定](https://zh.wikipedia.org/wiki/Z检验 "wikilink")（），因為Z檢定以母體[標準差](../Page/標準差.md "wikilink")已知為前提。雖然在樣本數量大（超過30個）時，可以應用Z檢定來求得近似值，但Z檢定用在小樣本會產生很大的誤差，因此必須改用学生*t*檢定以求準確。
 

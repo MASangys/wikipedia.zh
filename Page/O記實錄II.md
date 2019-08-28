@@ -355,7 +355,7 @@ Mary之外孫、方世賢之女，方小芳之妹，與伍立光是同事，暗�
 <tr class="even">
 <td><p><a href="../Page/金興賢.md" title="wikilink">金興賢</a></p></td>
 <td><p>楊達榮</p></td>
-<td><p>表面為商人，實為軍火<a href="https://zh.wikipedia.org/wiki/走私" title="wikilink">走私集團首腦</a><br />
+<td><p>表面為商人，實為軍火<a href="../Page/走私.md" title="wikilink">走私</a>集團首腦<br />
 楊燕萍親父<br />
 於1985年在楊燕萍面前，殺害前妻，並埋屍。<br />
 Michelle之夫<br />

@@ -10,7 +10,7 @@ NSV在1971年推出，用於取代[蘇聯紅軍的](https://zh.wikipedia.org/wik
 
   - NSVT
 
-NSVT是裝在車輛射架上的NSV改裝版本，如[主戰坦克及](https://zh.wikipedia.org/wiki/主戰坦克 "wikilink")[裝甲運兵車](https://zh.wikipedia.org/wiki/裝甲運兵車 "wikilink")，[塞爾維亞的](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")亦特許生產NSVT，名為M87，並裝備當時的[南斯拉夫軍隊](https://zh.wikipedia.org/wiki/南斯拉夫 "wikilink")。
+NSVT是裝在車輛射架上的NSV改裝版本，如[主戰坦克及](https://zh.wikipedia.org/wiki/主戰坦克 "wikilink")[裝甲運兵車](https://zh.wikipedia.org/wiki/裝甲運兵車 "wikilink")，[塞爾維亞的](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")亦特許生產NSVT，名為[M87](../Page/扎斯塔瓦M87重機槍.md "wikilink")，並裝備當時的[南斯拉夫軍隊](https://zh.wikipedia.org/wiki/南斯拉夫 "wikilink")。
 
   - WKM-B
 
@@ -63,7 +63,7 @@ NSVT是裝在車輛射架上的NSV改裝版本，如[主戰坦克及](https://zh
   -
   -
   -
-  - ：名為**Zastava M87**\[2\]
+  - ：名為**[扎斯塔瓦M87](../Page/扎斯塔瓦M87重機槍.md "wikilink")**\[2\]
 
   -
   -

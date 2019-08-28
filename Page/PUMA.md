@@ -24,7 +24,7 @@
 
 ## 赞助
 
-PUMA赞助不少[足球](../Page/足球.md "wikilink")俱樂部，如有 [曼城](../Page/曼彻斯特城足球俱乐部.md "wikilink")、[水晶宫](../Page/水晶宫足球俱乐部.md "wikilink")、[纽卡斯尔联](../Page/纽卡斯尔联足球俱乐部.md "wikilink")、[AC米蘭](https://zh.wikipedia.org/wiki/AC米蘭足球俱乐部 "wikilink")、[多特蒙德](https://zh.wikipedia.org/wiki/多特蒙德足球俱乐部 "wikilink")、[马赛](https://zh.wikipedia.org/wiki/马赛足球俱乐部 "wikilink")、[斯图加特](https://zh.wikipedia.org/wiki/斯图加特足球俱乐部 "wikilink")、[波尔多等](../Page/波尔多足球俱乐部.md "wikilink")。
+PUMA赞助不少[足球](../Page/足球.md "wikilink")俱樂部，如有 [曼城](../Page/曼彻斯特城足球俱乐部.md "wikilink")、[水晶宫](../Page/水晶宫足球俱乐部.md "wikilink")、[纽卡斯尔联](../Page/纽卡斯尔联足球俱乐部.md "wikilink")、[AC米蘭](https://zh.wikipedia.org/wiki/AC米蘭足球俱乐部 "wikilink")、[多特蒙德](https://zh.wikipedia.org/wiki/多特蒙德足球俱乐部 "wikilink")、[马赛](https://zh.wikipedia.org/wiki/马赛足球俱乐部 "wikilink")、[巴伦西亚](../Page/巴伦西亚足球俱乐部.md "wikilink")、[波尔多等](../Page/波尔多足球俱乐部.md "wikilink")。
 
 PUMA亦为多队国家足球队制作球衣，例如[意大利](https://zh.wikipedia.org/wiki/意大利国家足球队 "wikilink")、[捷克](https://zh.wikipedia.org/wiki/捷克国家足球队 "wikilink")、[瑞士](https://zh.wikipedia.org/wiki/瑞士国家足球队 "wikilink")、[乌拉圭](https://zh.wikipedia.org/wiki/乌拉圭国家足球队 "wikilink")、[智利](https://zh.wikipedia.org/wiki/智利国家足球队 "wikilink")、[科特迪瓦](https://zh.wikipedia.org/wiki/科特迪瓦国家足球队 "wikilink")、及[加纳等](https://zh.wikipedia.org/wiki/加纳国家足球队 "wikilink")。
 

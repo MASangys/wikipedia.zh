@@ -61,7 +61,7 @@ ABAP Workbench有几个不同的工具用于编辑容器对象。这些工具可
   - [SAP Help Portal](http://help.sap.com)
   - [ABAP](http://arquivo.pt/wayback/20081022110438/https%3A//www.sdn.sap.com/irj/sdn/abap) in the [SAP Developer Network](http://www.sdn.sap.com)
   - [Useful SAP articles](http://theblogwhichsaysall.blogspot.com/search/label/SAP)
-  - [SAP Tutorials](http://www.sapbrain.com)
+  - [SAP Tutorials](https://sapbrainsonline.com)
   - [ABAP Objects](http://help.sap.com/saphelp_nw2004s/helpdata/en/ce/b518b6513611d194a50000e8353423/frameset.htm)
 
 [Category:SAP公司产品](https://zh.wikipedia.org/wiki/Category:SAP公司产品 "wikilink") [Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink")

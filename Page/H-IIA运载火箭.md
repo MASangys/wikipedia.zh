@@ -533,7 +533,6 @@ LEO</p></td>
 
   - [H-II運載火箭](https://zh.wikipedia.org/wiki/H-II運載火箭 "wikilink")
   - [H-IIB運載火箭](../Page/H-IIB運載火箭.md "wikilink")
-  - [長征三號乙運載火箭](https://zh.wikipedia.org/wiki/長征三號乙運載火箭 "wikilink")
 
 ## 參考文獻
 

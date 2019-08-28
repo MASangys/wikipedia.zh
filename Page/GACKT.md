@@ -2155,7 +2155,7 @@ GACKT本人此五曲擔當。</small></p></td>
   - 2015年10月 [「踊る大宣伝会議、(略)」 Season2](https://web.archive.org/web/20151018010424/http://nestle.jp/brand/nescafe/cinema/) － GACKT 役
   - 2017年 日文配音版 金剛:骷髏島 － ジェームズ・コンラッド (James Conrad) 役
   - 2018年3月10日 カーラヌカン － 大山光 役
-  - 2019年2月22日 [翔んで埼玉](https://ja.wikipedia.org/wiki/%E7%BF%94%E3%82%93%E3%81%A7%E5%9F%BC%E7%8E%89) － 麻実麗 役
+  - 2019年2月22日  － 麻実麗 役
 
 ### 電視劇
 

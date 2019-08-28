@@ -176,6 +176,7 @@ AMD APU於2015年6月推出第四代APU Refresh版，核心代號Godavari，採�
 
 ### [AMD Ryzen](../Page/AMD_Ryzen.md "wikilink") 系列
 
+  - [Ryzen 9](../Page/AMD_Ryzen.md "wikilink") ( Matisse ) (Jun,2019)
   - [Ryzen 7](../Page/AMD_Ryzen.md "wikilink") ( Summit Ridge ) (Feb,2017)
   - [Ryzen 5](../Page/AMD_Ryzen.md "wikilink") ( Summit Ridge ) (Api,2017)
   - [Ryzen 3](../Page/AMD_Ryzen.md "wikilink") ( Summit Ridge ) (Jul,2017)

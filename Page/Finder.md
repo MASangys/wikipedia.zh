@@ -60,7 +60,7 @@ Finder在[Leopard系統中進行了更新](https://zh.wikipedia.org/wiki/Mac_OS_
 
 ## Finder的譯名
 
-蘋果於macOS 10.13.2 之後的版本正式將“Finder”翻譯為“訪達”（僅限服務[簡體中文使用者](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")，蘋果公司並未花資源替[繁體中文使用者進行](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")[本地化](https://zh.wikipedia.org/wiki/本地化 "wikilink")）
+蘋果於macOS 10.13.2 之後的版本正式將“Finder”翻譯為“訪達”（僅限服務[簡體中文版本](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")，正體中文版沿用原本Finder的名稱。）
 
 ## 关于Macintosh Finder的一些批评
 

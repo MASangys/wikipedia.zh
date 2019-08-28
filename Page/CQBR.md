@@ -23,7 +23,7 @@ CQBR以改進[M16](../Page/M16突擊步槍.md "wikilink")／[AR-15令其達到](
 
 ## 圖片
 
-<File:NavalSpecialWarfare3.jpg>|[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[海豹部队進行VBSS搜捕任務](https://zh.wikipedia.org/wiki/海豹部队 "wikilink")，圖中的CQBR裝有標準M4枪托。 [File:NavalSpecialWarfare2.jpg|Crane枪托、Lewis](File:NavalSpecialWarfare2.jpg%7CCrane枪托、Lewis) Machine & Tools後備照門的CQBR。 [File:NavalSpecialWarfare1.jpg|兩名海豹队員在沙漠地區演習，圖中的CQBR裝有空包彈助退器](File:NavalSpecialWarfare1.jpg%7C兩名海豹队員在沙漠地區演習，圖中的CQBR裝有空包彈助退器)。 <File:060128-N-4374S-001.jpg>|[機匣加印上](https://zh.wikipedia.org/wiki/機匣 "wikilink")「MK18 MOD0 CARBINE」的版本。 <File:A> U.S. Special Operations Marine provides security as Afghan Local Police members collect their first payments in Helmand province, Afghanistan, April 9, 2013 130409-M-BO337-033.jpg|[美國海軍陸戰隊特戰團幹員使用CQBR](../Page/美國海軍陸戰隊關鍵技能幹員.md "wikilink") <File:SEAL> Team Six operator stands guard while on Close Protection duty in Afghanistan.jpg|在[阿富汗](../Page/阿富汗.md "wikilink")擔任保鏢的[美國海軍特種作戰開發組](../Page/美國海軍特種作戰開發組.md "wikilink")幹員\]\]
+<File:NavalSpecialWarfare3.jpg>|[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[海豹部队進行VBSS搜捕任務](https://zh.wikipedia.org/wiki/海豹部队 "wikilink")，圖中的CQBR裝有標準M4枪托。 [File:NavalSpecialWarfare2.jpg|Crane枪托、Lewis](File:NavalSpecialWarfare2.jpg%7CCrane枪托、Lewis) Machine & Tools後備照門的CQBR。 [File:NavalSpecialWarfare1.jpg|兩名海豹队員在沙漠地區演習，圖中的CQBR裝有空包彈助退器](File:NavalSpecialWarfare1.jpg%7C兩名海豹队員在沙漠地區演習，圖中的CQBR裝有空包彈助退器)。 <File:060128-N-4374S-001.jpg>|[機匣加印上](https://zh.wikipedia.org/wiki/機匣 "wikilink")「MK18 MOD0 CARBINE」的版本。 <File:A> U.S. Special Operations Marine provides security as Afghan Local Police members collect their first payments in Helmand province, Afghanistan, April 9, 2013 130409-M-BO337-033.jpg|[美國海軍陸戰隊特戰團幹員使用CQBR](../Page/美國海軍陸戰隊關鍵技能幹員.md "wikilink") <File:SEAL> Team Six operator stands guard while on Close Protection duty in Afghanistan.jpg|在[阿富汗](../Page/阿富汗.md "wikilink")擔任保鏢的[美國海軍特種作戰開發組](../Page/美國海軍特種作戰開發組.md "wikilink")幹員 <File:USCG> MSRT.JPG|[美國海岸防衛隊](https://zh.wikipedia.org/wiki/美國海岸防衛隊 "wikilink")[海上保安應變隊](../Page/海上保安應變隊.md "wikilink")幹員手持CQBR
 
 ## 使用國
 
@@ -33,8 +33,8 @@ CQBR以改進[M16](../Page/M16突擊步槍.md "wikilink")／[AR-15令其達到](
       - [以色列國境警察特勤隊](../Page/以色列國境警察特勤隊.md "wikilink")
 
   -   - [美國特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")
-      - [美國海軍](../Page/美國海軍.md "wikilink")
       - [美國海軍陸戰隊](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")
+      - [美國海軍](../Page/美國海軍.md "wikilink")
       - [美國海岸警衛隊](https://zh.wikipedia.org/wiki/美國海岸警衛隊 "wikilink")
       - [聯邦調查局](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")[人質拯救隊](../Page/人質拯救隊.md "wikilink")
       - 部份地方警察局的[特種武器和戰術部隊](../Page/特種武器和戰術部隊.md "wikilink")

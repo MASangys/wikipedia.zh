@@ -1,8 +1,8 @@
-**Google分析**（Google Analytics）是一個由[Google所提供的](https://zh.wikipedia.org/wiki/Google公司 "wikilink")[網站](../Page/網站.md "wikilink")流量[統計服務](https://zh.wikipedia.org/wiki/統計 "wikilink")。Google 分析（Analytics）现在是互联网上使用最广泛的网络分析服务.Google Analytics还提供了一个SDK，允许从iOS和Android应用程序收集使用数据，称为Google Analytics for Mobile Apps。\[1\]
+**Google分析**（Google Analytics）是一個由[Google所提供的](https://zh.wikipedia.org/wiki/Google公司 "wikilink")[網站](../Page/網站.md "wikilink")流量[統計服務](https://zh.wikipedia.org/wiki/統計 "wikilink")。Google 分析（Analytics）现在是互联网上使用最广泛的网络分析服务。Google Analytics还提供了一个SDK，允许从iOS和Android应用程序收集使用数据，称为Google Analytics for Mobile Apps。\[1\]
 
 ## 概要
 
-**Google Analytics**原為**Urchin**所營運的付費網站流量統計服務，在2005年4月時，Google宣佈購併Urchin公司並將原本需要付費的服務開放免費使用。其基本版本是免费使用，高级版本需要额外费用。\[2\]
+**Google Analytics**原為**Urchin**所營運的付費網站流量統計服務，2005年4月，Google宣佈購併Urchin公司，並將原本需要付費的服務開放免費使用，基本版本供免费使用，但高级版本需要付費。\[2\]
 
 ## 技術
 
@@ -11,7 +11,7 @@
 ### 缺点
 
 1.  當使用者使用Firefox，並啟用如NOScript或是Adblock等附加元件時，GA的JS代碼將無法運行，也就無法傳送相關資料。
-2.  若使用者啟用如[tor的隱私保護軟體時](https://zh.wikipedia.org/wiki/tor "wikilink")，所傳送的資料亦可能因被隱蔽而不準確。
+2.  若使用者啟用如[tor的隱私保護軟體時](https://zh.wikipedia.org/wiki/tor "wikilink")，所傳送的資料也可能因被隱蔽而不準確。
 
 ## 参见
 

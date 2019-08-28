@@ -11,7 +11,7 @@
 
 ## 中国大陆访问
 
-很长一段时间里，Google网上论坛不论是明文HTTP访问还是加密[SSL访问](https://zh.wikipedia.org/wiki/SSL "wikilink")，均会遭到中国官方的防火长城以连接R重置的技术手段屏蔽。但在2013年，中国用户可以较为顺畅地通过HTTPS访问该网站。
+很长一段时间里，Google网上论坛不论是明文HTTP访问还是加密[SSL访问](https://zh.wikipedia.org/wiki/SSL "wikilink")，均会遭到中国官方的防火长城以连接重置的技术手段屏蔽。但在2013年，中国用户可以较为顺畅地通过HTTPS访问该网站。
 
 ## 參考資料
 

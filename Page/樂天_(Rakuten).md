@@ -22,17 +22,28 @@
 
 2017年底，樂天株式會社出售旗下Ebates中國站業務給55海淘\[5\]，2018年2月1日，Ebates中國站正式宣佈全面被收購\[6\]。
 
+2018年1月30日樂天 (Rakuten)以每股作價2,664日圓，斥資450億日圓(約4.14億美元)全購[野村控股](../Page/野村控股.md "wikilink")旗下之朝日火災海上保險，並將成為樂天之子公司，交易將於3月底完成，2018年7月更名为樂天損害保険株式会社
+
 ## 主要投資
 
   - Carousell（旋轉拍賣）29.6％
   - [來福車](https://zh.wikipedia.org/wiki/來福車 "wikilink")13.05%
-  - [台灣樂天市場](../Page/台灣樂天市場.md "wikilink")51%
-  - Kobo（2012年3.15億美元）
-  - Ebates（2014年10億美元）
-  - Overdrive（2015年4.1億美元）
-  - Viki（2013年2億美元）
-  - Viber（2014年9億美元）
-  - 神戶勝利船
+  - [台灣樂天市場](../Page/台灣樂天市場.md "wikilink")100%
+  - [Kobo](https://zh.wikipedia.org/wiki/Kobo "wikilink")(2012年3.15億美元）
+  - [Ebates](https://zh.wikipedia.org/wiki/Ebates "wikilink")(2014年10億美元）
+  - [Overdrive](https://zh.wikipedia.org/wiki/Overdrive "wikilink")(2015年4.1億美元）
+  - [Viki](https://zh.wikipedia.org/wiki/Viki "wikilink")(2013年2億美元）
+  - [Viber](../Page/Viber.md "wikilink")(2014年9億美元）
+  - [神戶勝利船](../Page/神戶勝利船.md "wikilink")
+  - [樂天醫療](https://zh.wikipedia.org/wiki/樂天醫療 "wikilink")(Rakuten Medical)22.5%
+  - [樂天移動](https://zh.wikipedia.org/wiki/樂天移動 "wikilink")(Rakuten Mobile)
+  - [樂天銀行](../Page/樂天銀行.md "wikilink")
+  - [樂天証劵](https://zh.wikipedia.org/wiki/樂天証劵 "wikilink")
+  - [樂天信用卡](https://zh.wikipedia.org/wiki/樂天信用卡 "wikilink")
+  - [樂天生命保険](https://zh.wikipedia.org/wiki/樂天生命保険 "wikilink")
+  - [樂天損害保険株式会社](https://zh.wikipedia.org/wiki/樂天損害保険株式会社 "wikilink")
+  - [Edy](https://zh.wikipedia.org/wiki/Edy "wikilink")
+  - Rakuten H Collective Studio
 
 ## 引用文獻
 

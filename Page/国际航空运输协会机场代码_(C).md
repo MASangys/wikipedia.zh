@@ -239,7 +239,7 @@
 <td><p>CBF</p></td>
 <td><p>KCBF</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/康瑟尔布拉夫斯_(艾奥瓦州)" title="wikilink">康瑟爾布拉夫斯</a>，<a href="https://zh.wikipedia.org/wiki/艾奧瓦州" title="wikilink">艾奧瓦州</a></p></td>
+<td><p><a href="../Page/康瑟尔布拉夫斯_(艾奥瓦州).md" title="wikilink">康瑟爾布拉夫斯</a>，<a href="https://zh.wikipedia.org/wiki/艾奧瓦州" title="wikilink">艾奧瓦州</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

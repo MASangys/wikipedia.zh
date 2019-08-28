@@ -44,7 +44,7 @@ CRH2A在中国高铁列车里最先应用的纯平窗台、采用前后分隔的
 
 [缩略图](https://zh.wikipedia.org/wiki/File:CRH2B型电力动车组行驶在萧甬铁路上.jpg "fig:缩略图") [CRH2-090C_at_xian.jpg](https://zh.wikipedia.org/wiki/File:CRH2-090C_at_xian.jpg "fig:CRH2-090C_at_xian.jpg")\]\] [CRH2-126E_in_Ningbo_Railway_Station.JPG](https://zh.wikipedia.org/wiki/File:CRH2-126E_in_Ningbo_Railway_Station.JPG "fig:CRH2-126E_in_Ningbo_Railway_Station.JPG")\]\] 在国产化之后，CRH2系列亦衍生了多组类别车型，如长大编组型、高速型以及卧鋪型等系列。后来又在CRH2系列上研制了新型高速动车组及通勤列车。
 
-2005年6月至9月，原中华人民共和国铁道部展開時速300公里級別的第二輪高速動車組招標，这一次招标形式与第一次时速200公里级别动车组招标明显不同，当时中国大陆刚刚发生了广泛的[反日示威活动](../Page/2005年中国反日示威活动.md "wikilink")，为避免引起反日情绪，原中华人民共和国铁道部和其代理中技国际招标公司并未发布招标公告，而是采用了“竞争性谈判”（政府采购方式的一种，即小范围内地展开报价和谈判）的方式；铁道部更一度否认与日本进行订购谈判，中国南车青岛四方机车车辆股份有限公司与日本川崎重工也没有公开明确表态\[14\]。结果继德国[西门子及](https://zh.wikipedia.org/wiki/西门子 "wikilink")[唐山軌道客車联合中标后](https://zh.wikipedia.org/wiki/唐山軌道客車 "wikilink")，[四方机车车辆股份有限公司和](https://zh.wikipedia.org/wiki/中国南车集团 "wikilink")“日本企业联合体”再次联合成功中标。\[15\] 并获得60列**CRH2C型**动车组的订单，其中包括了**CRH2C第一阶段**和**CRH2C第二阶段**，合同金额总值95亿元人民币。根据合同要求，CRH2C（第一阶段）的设计指标为：持续运营时速为275公里，最高营运时速为300公里（实际最高营运速度为350公里），最高实验时速350公里，标称时速300公里，列车装有两副[集電弓](../Page/集電弓.md "wikilink")。运用于新建的[高速城际铁路及客运专线](https://zh.wikipedia.org/wiki/中國高速鐵路 "wikilink")。
+2005年6月至9月，原中华人民共和国铁道部展開時速300公里級別的第二輪高速動車組招標，这一次招标形式与第一次时速200公里级别动车组招标明显不同，当时中国大陆刚刚发生了广泛的[反日示威活动](../Page/2005年中国反日示威活动.md "wikilink")，为避免引起反日情绪，原中华人民共和国铁道部和其代理中技国际招标公司并未发布招标公告，而是采用了“竞争性谈判”（政府采购方式的一种，即小范围内地展开报价和谈判）的方式；铁道部更一度否认与日本进行订购谈判，中国南车青岛四方机车车辆股份有限公司与日本川崎重工也没有公开明确表态\[14\]。结果继德国[西门子及](https://zh.wikipedia.org/wiki/西门子 "wikilink")[唐山軌道客車联合中标后](https://zh.wikipedia.org/wiki/唐山軌道客車 "wikilink")，[四方机车车辆股份有限公司和](https://zh.wikipedia.org/wiki/中国南车集团 "wikilink")“日本企业联合体”再次联合成功中标。\[15\] 并获得60列**CRH2C型**动车组的订单，其中包括了**CRH2C第一阶段**和**CRH2C第二阶段**，合同金额总值95亿元人民币。根据合同要求，CRH2C（第一阶段）的设计指标为：持续运营时速280公里，最高营运时速为300公里（实际最高营运速度为350公里），最高实验时速350公里，标称时速300公里，列车装有两副[集電弓](../Page/集電弓.md "wikilink")。运用于新建的[高速城际铁路及客运专线](https://zh.wikipedia.org/wiki/中國高速鐵路 "wikilink")。
 
 首列CRH2C动车组（CRH2C-2061）于2007年12月22日出厂\[16\]\[17\]，随后南车四方股份和[中国铁道科学研究院](../Page/中国铁道科学研究院.md "wikilink")对动车组进行了为期7个月的试验测试和试运营考验，由2008年初到同年6月底，相继完成了[环行线](../Page/中国国家铁道试验中心（东郊分院）.md "wikilink")、[秦沈线及](../Page/秦沈客运专线.md "wikilink")[京津城际线的各项性能试验](../Page/京津城际铁路.md "wikilink")、型式试验、线路试验，试验期间共进行了涵盖牵引性能、动力学性能、弓网受流、空气动力学等17大项近200余个试验项目。2008年1月，CRH2C-2061和CRH2C-2062由四方厂开往[北京环铁进行运行测试](https://zh.wikipedia.org/wiki/北京环铁 "wikilink")。\[18\]\[19\]2008年4月24日，CRH2C-2061在[京津城际铁路](../Page/京津城际铁路.md "wikilink")上进行高速测试，其最高时速达到近370公里\[20\]，打破了「[中华之星](https://zh.wikipedia.org/wiki/中国铁路DJJ2型电力动车组 "wikilink")」创造的321.5公里时速纪录。
 
@@ -966,7 +966,7 @@ ZE 2xxx00</p></td>
 <td><p>11</p></td>
 <td><p>2091～2096、2145～2149</p></td>
 <td><p>西安北</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/郑西高速铁路" title="wikilink">郑西高速铁路</a>、<a href="https://zh.wikipedia.org/wiki/武广高速铁路" title="wikilink">武广高速铁路</a>、<a href="https://zh.wikipedia.org/wiki/广深港高速铁路" title="wikilink">广深港高速铁路</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/郑西高速铁路" title="wikilink">郑西高速铁路</a>、<a href="../Page/京广高速铁路.md" title="wikilink">京广高速铁路</a>、<a href="https://zh.wikipedia.org/wiki/广深港高速铁路" title="wikilink">广深港高速铁路</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

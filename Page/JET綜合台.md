@@ -214,6 +214,8 @@ JET日本台的[日劇時段](https://zh.wikipedia.org/wiki/日本電視劇 "wik
 
 ### 動畫
 
+※標\*者表示此以原音播出
+
   - 《卡通館》時段
 
 | 卡通名稱                                                        |
@@ -229,27 +231,29 @@ JET日本台的[日劇時段](https://zh.wikipedia.org/wiki/日本電視劇 "wik
 
   - 《美少女動畫館》時段
 
-| 卡通名稱                                                            |
-| --------------------------------------------------------------- |
-| [青出於藍](../Page/青出於藍_\(漫畫\).md "wikilink")                       |
-| [D.C. ～戀愛學園～](../Page/初音島.md "wikilink")                        |
-| [圓盤皇女](../Page/圓盤皇女.md "wikilink")                              |
-| [迷糊天使](../Page/迷糊天使.md "wikilink")                              |
-| [愛的魔法](https://zh.wikipedia.org/wiki/愛的魔法 "wikilink")           |
-| [宇宙學園](../Page/宇宙學園.md "wikilink")                              |
-| [瓶詰妖精](https://zh.wikipedia.org/wiki/瓶詰妖精 "wikilink")           |
-| [銀河天使](../Page/銀河天使.md "wikilink")                              |
-| [真實夢境](https://zh.wikipedia.org/wiki/真實夢境 "wikilink")           |
-| [爆彈小新娘](https://zh.wikipedia.org/wiki/爆彈小新娘 "wikilink")         |
-| [成惠的世界](../Page/成惠的世界.md "wikilink")                            |
-| [魔力女管家](../Page/魔力女管家.md "wikilink")                            |
-| [星空的邂逅](https://zh.wikipedia.org/wiki/星空的邂逅 "wikilink")         |
-| [星空的邂逅2](https://zh.wikipedia.org/wiki/星空的邂逅2 "wikilink")       |
-| [青春草莓蛋](../Page/青春草莓蛋.md "wikilink")                            |
-| [奇鋼仙女樓蘭](https://zh.wikipedia.org/wiki/奇鋼仙女樓蘭 "wikilink")       |
-| [袖珍女侍小梅](../Page/袖珍女侍小梅.md "wikilink")                          |
-| [純情房東俏房客](../Page/純情房東俏房客_\(動畫\).md "wikilink")                 |
-| [G-on少女騎士團](https://zh.wikipedia.org/wiki/G-on少女騎士團 "wikilink") |
+| 卡通名稱                                                              |
+| ----------------------------------------------------------------- |
+| \*[青出於藍](../Page/青出於藍_\(漫畫\).md "wikilink")                       |
+| [D.C. ～戀愛學園～](../Page/初音島.md "wikilink")                          |
+| [圓盤皇女](../Page/圓盤皇女.md "wikilink")                                |
+| [迷糊天使](../Page/迷糊天使.md "wikilink")                                |
+| [愛的魔法](https://zh.wikipedia.org/wiki/愛的魔法 "wikilink")             |
+| [宇宙學園](../Page/宇宙學園.md "wikilink")                                |
+| [瓶詰妖精](https://zh.wikipedia.org/wiki/瓶詰妖精 "wikilink")             |
+| [銀河天使](../Page/銀河天使.md "wikilink")                                |
+| [真實夢境](https://zh.wikipedia.org/wiki/真實夢境 "wikilink")             |
+| [爆彈小新娘](https://zh.wikipedia.org/wiki/爆彈小新娘 "wikilink")           |
+| [成惠的世界](../Page/成惠的世界.md "wikilink")                              |
+| [魔力女管家](../Page/魔力女管家.md "wikilink")                              |
+| [星空的邂逅](https://zh.wikipedia.org/wiki/星空的邂逅 "wikilink")           |
+| [星空的邂逅2](https://zh.wikipedia.org/wiki/星空的邂逅2 "wikilink")         |
+| [青春草莓蛋](../Page/青春草莓蛋.md "wikilink")                              |
+| [奇鋼仙女樓蘭](https://zh.wikipedia.org/wiki/奇鋼仙女樓蘭 "wikilink")         |
+| [袖珍女侍小梅](../Page/袖珍女侍小梅.md "wikilink")                            |
+| [純情房東俏房客](../Page/純情房東俏房客_\(動畫\).md "wikilink")                   |
+| \*[阿爾卑斯玫瑰](../Page/阿爾卑斯玫瑰_\(漫畫\).md "wikilink")                   |
+| \*[新體操少女傳說](../Page/光之傳說.md "wikilink")                           |
+| \*[G-on少女騎士團](https://zh.wikipedia.org/wiki/G-on少女騎士團 "wikilink") |
 
 ### 台灣情報節目
 

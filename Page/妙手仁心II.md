@@ -739,12 +739,6 @@ Johnson之女友</p></td>
 
 ## 參考資料
 
-## 外部連結
-
-  - [《妙手仁心II》 GOTV 第1集重溫](https://web.archive.org/web/20140222162421/http://gotv.tvb.com/programme/102369/149336/)
-  - [妙手仁心II - myTV SUPER](https://programme.mytvsuper.com/tc/111145/妙手仁心ii)
-  - [《妙手仁心II》 encoreTVB線上看](https://encoretvb.com/cantonese/series/1220-Healing_Hands_II)
-
 ## 電視節目的變遷
 
 ### 首播

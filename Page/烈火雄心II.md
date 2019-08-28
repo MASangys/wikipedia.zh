@@ -1,8 +1,8 @@
-《**烈火雄心II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共35集，由[王喜](https://zh.wikipedia.org/wiki/王喜 "wikilink")、[方中信](../Page/方中信.md "wikilink")、[張可頤](https://zh.wikipedia.org/wiki/張可頤 "wikilink")、[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")、[陳慧珊](../Page/陳慧珊.md "wikilink")、[歐錦棠](../Page/歐錦棠.md "wikilink")及[文頌嫻](../Page/文頌嫻.md "wikilink")領銜主演，由[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[元華](../Page/元華.md "wikilink")、[蔣志光](../Page/蔣志光.md "wikilink")、[蔡子健](../Page/蔡子健.md "wikilink")、[成珈瑩](../Page/成珈瑩.md "wikilink")及[唐寧聯合主演](../Page/唐寧_\(香港\).md "wikilink")，並由[宣萱](../Page/宣萱.md "wikilink")特別演出，監製[王心慰](../Page/王心慰.md "wikilink")。此劇為《[烈火雄心](https://zh.wikipedia.org/wiki/烈火雄心 "wikilink")》系列作，但在劇情上與上輯完全沒有關連。
+《**烈火雄心II**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")製作的時裝[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，全劇共35集，由[王喜](../Page/王喜.md "wikilink")、[方中信](../Page/方中信.md "wikilink")、[張可頤](https://zh.wikipedia.org/wiki/張可頤 "wikilink")、[蒙嘉慧](../Page/蒙嘉慧.md "wikilink")、[陳慧珊](../Page/陳慧珊.md "wikilink")、[歐錦棠](../Page/歐錦棠.md "wikilink")及[文頌嫻](../Page/文頌嫻.md "wikilink")領銜主演，由[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")、[元華](../Page/元華.md "wikilink")、[蔣志光](../Page/蔣志光.md "wikilink")、[蔡子健](../Page/蔡子健.md "wikilink")、[成珈瑩](../Page/成珈瑩.md "wikilink")及[唐寧聯合主演](../Page/唐寧_\(香港\).md "wikilink")，並由[宣萱](../Page/宣萱.md "wikilink")特別演出，監製[王心慰](../Page/王心慰.md "wikilink")。此劇為《[烈火雄心](https://zh.wikipedia.org/wiki/烈火雄心 "wikilink")》系列作，但在劇情上與上輯完全沒有關連。
 
 ## 劇情大綱
 
-紀德田（[王喜飾](https://zh.wikipedia.org/wiki/王喜 "wikilink")）加入消防員多年，也不曾升職，表面上，消防員對紀德田來說，只是一份工作，平日的紀德田，凡事不認真，常愛打侃嬉笑渡日，其實的紀德田毅力非凡，應變能力極高，只是從不外露，也不爭功，這與他的背景有極的大關係。
+紀德田（[王喜](../Page/王喜.md "wikilink")飾）加入消防員多年，也不曾升職，表面上，消防員對紀德田來說，只是一份工作，平日的紀德田，凡事不認真，常愛打侃嬉笑渡日，其實的紀德田毅力非凡，應變能力極高，只是從不外露，也不爭功，這與他的背景有極的大關係。
 
 紀德田有一弟弟紀興田（[鄭嘉穎](../Page/鄭嘉穎.md "wikilink")飾），性格與紀德田大相逕庭。紀興田天生好勝，自小無論學業、運動均成績彪炳，大學畢業後，考進消防隊當起消防隊長，但是，當一個消防員對紀興田來說，只能夠滿足自己的英雄感，因此紀興田甫出班便力求表現，要成為消防隊中的明星。
 
@@ -24,7 +24,7 @@
 <td><p><strong>暱稱／關係</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/王喜" title="wikilink">王　喜</a></strong></p></td>
+<td><p><strong><a href="../Page/王喜.md" title="wikilink">王　喜</a></strong></p></td>
 <td><p><strong>紀德田</strong></p></td>
 <td><p><strong>紀德、Peter</strong><br />
 消防員，後為消防隊目<br />
@@ -83,7 +83,7 @@
 <tr class="even">
 <td><p><a href="../Page/林韋辰.md" title="wikilink">林韋辰</a></p></td>
 <td><p>唐　偉</p></td>
-<td><p><strong>Kelvin</strong><br />
+<td><p><strong>Kelvin、老大</strong><br />
 唐明之兄<br />
 江逸雅之大伯<br />
 <a href="../Page/同性戀.md" title="wikilink">同性戀</a>者<br />
@@ -202,7 +202,7 @@
 陳小蘭之父</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/王喜" title="wikilink">王　喜</a></strong></p></td>
+<td><p><strong><a href="../Page/王喜.md" title="wikilink">王　喜</a></strong></p></td>
 <td><p><strong>紀德田</strong></p></td>
 <td><p><strong>紀德</strong><br />
 消防隊目<br />
@@ -299,7 +299,7 @@
 原名<strong>關穎恩</strong><br />
 一級文員<br />
 關安蔭、康珊之幼女<br />
-因小時候其父關安蔭沒有從火場先救出哥哥東東，令其傷重不治，後被康珊帶去日本<br />
+因小時候其父關安蔭沒有從火場先救出哥哥東東，東東被塌下的牆壁擊中頭部傷重不治，後被康珊帶去日本<br />
 為了讓關安蔭和康珊復合，從日本回港進入與關安蔭同間消防局工作</p></td>
 </tr>
 </tbody>
@@ -446,7 +446,7 @@
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/張可頤" title="wikilink">張可頤</a></strong></p></td>
 <td><p><strong>鍾茵怡</strong></p></td>
-<td><p><strong>Chris</strong><br />
+<td><p><strong>Chris、白雪雪姐姐（紀瑤專稱）</strong><br />
 救護隊目，後為救護總隊目<br />
 鍾廣成之女<br />
 紀德田之女友<br />
@@ -487,7 +487,7 @@
 <tr class="odd">
 <td><p>楊主任</p></td>
 <td><p>達通貿易主任<br />
-蔡南豐七姨之子 （第26集）</p></td>
+蔡南豐七姨之子（第26集）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -649,6 +649,7 @@
 <td><p><strong>何寶琳</strong></p></td>
 <td><p><strong>Michelle</strong><br />
 於第5集出場<br />
+政府新聞處主任<br />
 公關公司老闆娘<br />
 唐明前女友<br />
 江逸雅之上司兼好友<br />
@@ -741,13 +742,13 @@ Gary之前女友<br />
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/李岡龍" title="wikilink">李岡龍</a></p></td>
-<td><p>劉　Sir</p></td>
+<td><p>劉Sir</p></td>
 <td><p>高級消防區長</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/楊瑞麟.md" title="wikilink">楊瑞麟</a></p></td>
-<td><p>何　Sir</p></td>
+<td><p>何Sir</p></td>
 <td></td>
 <td></td>
 </tr>

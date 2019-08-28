@@ -128,7 +128,7 @@
 
 :\*Q65 [生物热学](https://zh.wikipedia.org/wiki/生物热学 "wikilink")
 
-:\*Q66 [生物力学](https://zh.wikipedia.org/wiki/生物力学 "wikilink")
+:\*Q66 [生物力学](../Page/生物力学.md "wikilink")
 
 :\*Q67 [物体化学生物学](https://zh.wikipedia.org/wiki/物体化学生物学 "wikilink")
 
@@ -154,7 +154,7 @@
 
 :\*Q78 [基因工程](../Page/基因工程.md "wikilink")（[遗传工程](https://zh.wikipedia.org/wiki/遗传工程 "wikilink")）
 
-:\*Q81 [生物工程学](https://zh.wikipedia.org/wiki/生物工程学 "wikilink")
+:\*Q81 [生物工程学](../Page/生物工程学.md "wikilink")
 
 ::\*Q811 [仿生学](../Page/仿生学.md "wikilink")
 

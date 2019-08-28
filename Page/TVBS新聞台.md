@@ -47,7 +47,7 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
 ### 突發事件或重大事件
 
   - 1999年9月：[九二一大地震特別報導](https://zh.wikipedia.org/wiki/九二一大地震 "wikilink")。
-  - 2000年：[斐濟千禧第一道曙光](https://zh.wikipedia.org/wiki/斐濟 "wikilink")、同年的[總統大選](https://zh.wikipedia.org/wiki/2000年中華民國總統選舉 "wikilink")。
+  - 2000年：[斐濟](../Page/斐濟.md "wikilink")千禧第一道曙光、同年的[總統大選](https://zh.wikipedia.org/wiki/2000年中華民國總統選舉 "wikilink")。
   - 2001年：迎接二十一世紀。
   - 2001年9月：[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[九一一事件特別報導](https://zh.wikipedia.org/wiki/九一一 "wikilink")。
   - 2001年11月：[美阿戰爭](https://zh.wikipedia.org/wiki/美阿戰爭 "wikilink")。
@@ -114,7 +114,7 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
 
 ## 前任TVBS新聞部人員
 
-  - [李四端](../Page/李四端.md "wikilink")（現職[東森新聞台](../Page/東森新聞台.md "wikilink")《李四端的雲端世界》節目主持人）
+  - [李四端](../Page/李四端.md "wikilink")（現職[東森新聞台](../Page/東森新聞台.md "wikilink")《李四端的雲端世界》節目主持人）及MOMOTV董事長
   - [何啟聖](../Page/何啟聖.md "wikilink")（現職1111人力銀行副總）
   - [王浩](../Page/王浩_\(台灣主播\).md "wikilink")（現任[台北市議員](https://zh.wikipedia.org/wiki/台北市議員 "wikilink")）
   - [姚崑崙](https://zh.wikipedia.org/wiki/姚崑崙 "wikilink")（曾任[中天新聞台](../Page/中天新聞台.md "wikilink")主播，現任LV中山旗艦店經理）
@@ -133,7 +133,7 @@ TVBS新聞部位於TVBS「[內湖大樓](../Page/TVBS企業總部.md "wikilink")
   - [薩文](https://zh.wikipedia.org/wiki/薩文 "wikilink")（前[鳳凰衛視主播](https://zh.wikipedia.org/wiki/鳳凰衛視 "wikilink")）
   - [李登文](https://zh.wikipedia.org/wiki/李登文 "wikilink")（現職[華視新聞](../Page/華視新聞.md "wikilink")國際中心）
   - [許甫](../Page/許甫.md "wikilink")（現[中天新聞台](../Page/中天新聞台.md "wikilink")主播）
-  - 邱顯辰
+  - 邱顯辰（現任[大愛電視](../Page/大愛電視.md "wikilink")《全球視野》主持人）
   - [王博麟](https://zh.wikipedia.org/wiki/王博麟 "wikilink")（前[FOX體育台](../Page/FOX體育台.md "wikilink")主播）
   - 蔡祐吉（現任亞泥公關經理）
 

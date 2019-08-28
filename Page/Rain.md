@@ -881,7 +881,7 @@ Rain的影視事業開始於2003年，當年憑藉電視劇《[小爸爸上學�
 <tr class="odd">
 <td><p>2004年</p></td>
 <td><p>10月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>It's Raining</p></td>
 <td><p>1位</p></td>
@@ -904,7 +904,7 @@ Rain的影視事業開始於2003年，當年憑藉電視劇《[小爸爸上學�
 </tr>
 <tr class="even">
 <td><p>11月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位</p></td>
 <td></td>
@@ -960,7 +960,7 @@ Rain的影視事業開始於2003年，當年憑藉電視劇《[小爸爸上學�
 </tr>
 <tr class="odd">
 <td><p>11月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位</p></td>
 <td></td>
@@ -984,7 +984,7 @@ Rain的影視事業開始於2003年，當年憑藉電視劇《[小爸爸上學�
 </tr>
 <tr class="even">
 <td><p>11月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>1位(11月 Only One Song)</p></td>
 <td></td>
@@ -1041,7 +1041,7 @@ Rain的影視事業開始於2003年，當年憑藉電視劇《[小爸爸上學�
 <tr class="odd">
 <td><p>2014年</p></td>
 <td><p>1月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>30 SEXY</p></td>
 <td></td>

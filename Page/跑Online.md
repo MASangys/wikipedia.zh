@@ -372,23 +372,24 @@
 
 ###
 
-  - 2006年︰ [DnD](https://zh.wikipedia.org/wiki/DnD "wikilink") - 非常非常美麗和夢幻的王國（韓語︰매우매우아름답고환상적인나라）
+  - 2006年︰ [DnD Project](https://zh.wikipedia.org/wiki/DnD_Project "wikilink") - Fantasy Tale / 非常非常美麗和夢幻的王國（韓語︰디앤디프로젝트 - Fantasy Tale / 매우매우아름답고환상적인나라）
+  - 2006年︰ [DnD Project](https://zh.wikipedia.org/wiki/DnD_Project "wikilink") - DnD Party
   - 2007年︰ Knuckle Joe - Tales Runner
-  - 2007年︰ Lee Hoo - Heavenly Love
-  - 2018年︰ [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink") 彩娟×主恩 - 非常非常美麗和夢幻的王國（韓語︰정채연X주은 of DIA - 매우매우아름답고환상적인나라）
-  - 2018年︰ LaLa - 成為風 （[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink"): 라라 - 바람이 되어）
-  - 2018年︰ LaLa - Dear My Friend （[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink"): 라라 - Dear My Friend）
-  - 2019年︰ LaLa - LALLA （[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink"): 라라 - LALLA）
+  - 2007年︰ Lee Ho - Heavenly Love (上天的緣份)
+  - 2018年︰ [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink") 彩娟×主恩 - 非常非常美麗和夢幻的王國（韓語︰정채연X주은 of DIA - 매우매우아름답고환상적인나라）\[7\]
+  - 2018年︰ LaLa - 成為風 （[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink"): 라라 - 바람이 되어）\[8\]
+  - 2018年︰ LaLa - Dear My Friend （[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink"): 라라 - Dear My Friend）\[9\]
+  - 2019年︰ LaLa - LALLA （[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink"): 라라 - LALLA）\[10\]
 
 ###
 
   - 2007年︰ [鄧麗欣](../Page/鄧麗欣.md "wikilink") - Fantasy Tale
   - 2008年︰ [張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink") - 雪花抄
   - 2010年︰ [野仔](https://zh.wikipedia.org/wiki/野仔 "wikilink") - 繼續向前
-  - 2011年︰ [糖兄妹](../Page/糖兄妹.md "wikilink") - 跑出天際
+  - 2011年︰ [糖兄妹](../Page/糖兄妹.md "wikilink") - 跑出天際\[11\]
   - 2012年︰ [王梓軒](../Page/王梓軒.md "wikilink") - 魅影世紀
-  - 2013年︰ [曾翠如](https://zh.wikipedia.org/wiki/曾翠如 "wikilink") - 跑足全程\[7\]
-  - 2019年︰ LaLa ([樂瞳](https://zh.wikipedia.org/wiki/樂瞳 "wikilink") 飾) - Fantasy Tale (yr. 2019)\[8\]
+  - 2013年︰ [曾翠如](https://zh.wikipedia.org/wiki/曾翠如 "wikilink") - 跑足全程\[12\]
+  - 2019年︰ LaLa ([樂瞳](https://zh.wikipedia.org/wiki/樂瞳 "wikilink") 飾) - Fantasy Tale (yr. 2019)\[13\]
 
 ###
 
@@ -585,3 +586,8 @@ Android</p></td>
 6.  [오,나의 기사님\! 겨울방학 업데이트 홍보영상 (with 정채연)](https://www.youtube.com/watch?v=Mvclis6d18k)
 7.
 8.
+9.
+10.
+11.
+12.
+13.

@@ -8,7 +8,7 @@
 
 社長是擔任鍵盤手與音樂製作的**井上俊次**，董事是原的音樂監製**伊藤善之**與詞曲家**伊藤真澄**夫婦。
 
-2002年時，將陷入經營不善的舊 Group Corporation（現）關係企業的[動畫歌曲](../Page/動畫歌曲.md "wikilink")専門唱片公司 Art Bank 予以合併（大久保薫等人隨此加入專屬artist）。
+2002年時，將陷入經營不善的舊 Group Corporation（現）關係企業的[動畫歌曲](../Page/動畫歌曲.md "wikilink")専門唱片公司 Art Bank予以合併（[大久保薰](../Page/大久保薰.md "wikilink")等人隨此加入專屬artist）。
 
 另於2004年7月與[Geneon Entertainment共同設立新公司](https://zh.wikipedia.org/wiki/Geneon "wikilink")**On The Run**（『MellowHead』廠牌），（在2006年8月31日被母公司的Lantis吸收合併。『MellowHead』成為該公司旗下廠牌之一）。
 
@@ -19,7 +19,7 @@
     Lantis、BANDAI NAMCO Live Creative 所有版權的**動漫歌曲**（於 [ASMART](https://www.asmart.jp/) 上架）、
     動漫相關活動（如 **[Lantis Festival](../Page/Lantis_Festival.md "wikilink")** 和 [**Anisong World Matsuri**](http://www.anime-expo.org/anisong-world-matsuri-2017/)）。
 
-為拓展至[歐洲市場](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，於2016年1月再與 Amuse 合資設立 [AmuseLantis Europe S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]，並於同年4月正式啟用\[5\]。
+為拓展[歐洲市場](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，於2016年1月再與 Amuse 合資設立 [AmuseLantis Europe S.A.S.](https://zh.wikipedia.org/wiki/AmuseLantis_Europe_S.A.S. "wikilink")\[4\]，並於同年4月正式啟用\[5\]。
 
 2018年4月1日，與[萬代影視](../Page/萬代影視.md "wikilink")一起被[萬代](../Page/萬代.md "wikilink")吸收合併，改名為新成立的，Lantis公司從此正式走入歷史\[6\]。而「Lantis」這個商標名稱由經過組織調整後的音樂部門繼承\[7\]。
 
@@ -340,7 +340,7 @@
   - [向陽素描](../Page/向陽素描.md "wikilink")
   - [蛋黃醬蘿莉](https://zh.wikipedia.org/wiki/蛋黃醬蘿莉 "wikilink")
   - [萌單](../Page/萌單.md "wikilink")
-  - [幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")
+  - [幸運☆星](../Page/幸運☆星.md "wikilink")
 
 **2008年**
 

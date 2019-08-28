@@ -75,8 +75,8 @@
   - [2006年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2006年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")－專業推介 叱吒十大（第二位）
   - [2006年度SINA Music樂壇民意指數頒獎禮](../Page/2006年度SINA_Music樂壇民意指數頒獎禮得獎名單.md "wikilink")－最高收聽率歌曲（第六位）
   - [2007年度勁歌金曲優秀選](../Page/勁歌金曲優秀選.md "wikilink") - 第一回金曲
-  - [2007年度CASH金帆音樂獎](https://zh.wikipedia.org/wiki/CASH金帆音樂獎 "wikilink")－最佳男歌手演繹獎（流行音樂）
-  - [2007年度CASH金帆音樂獎](https://zh.wikipedia.org/wiki/CASH金帆音樂獎 "wikilink")－最佳歌曲大獎
+  - [2007年度CASH金帆音樂獎](../Page/CASH金帆音樂獎.md "wikilink")－最佳男歌手演繹獎（流行音樂）
+  - [2007年度CASH金帆音樂獎](../Page/CASH金帆音樂獎.md "wikilink")－最佳歌曲大獎
   - [第三十屆十大中文金曲頒獎禮](../Page/第三十屆十大中文金曲得獎名單.md "wikilink")－十大中文金曲獎
   - [第三十屆十大中文金曲頒獎禮](../Page/第三十屆十大中文金曲得獎名單.md "wikilink")－全國最佳中文歌曲獎
   - [第三十屆十大中文金曲頒獎禮](../Page/第三十屆十大中文金曲得獎名單.md "wikilink")－全球華人至尊金曲獎
@@ -85,8 +85,8 @@
   - 第七屆全球華語歌曲排行榜－20大最受歡迎金曲獎
   - 2007年度[TVB8金曲頒獎典禮](https://zh.wikipedia.org/wiki/TVB8金曲頒獎典禮 "wikilink")－觀眾最愛粵語歌曲
   - 2007年度中國移動無線音樂排行榜－最暢銷粵語金曲獎（下載1320204次）
-  - [2010年度CASH金帆音樂獎](https://zh.wikipedia.org/wiki/CASH金帆音樂獎 "wikilink")－十週年樂迷至愛大獎－最佳旋律
-  - [2010年度CASH金帆音樂獎](https://zh.wikipedia.org/wiki/CASH金帆音樂獎 "wikilink")－十週年樂迷至愛大獎－最佳歌詞
+  - [2010年度CASH金帆音樂獎](../Page/CASH金帆音樂獎.md "wikilink")－十週年樂迷至愛大獎－最佳旋律
+  - [2010年度CASH金帆音樂獎](../Page/CASH金帆音樂獎.md "wikilink")－十週年樂迷至愛大獎－最佳歌詞
 
 ## 現場演唱版本
 

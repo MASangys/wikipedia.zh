@@ -508,7 +508,6 @@ Martha之子<br />
 ## 外部連結
 
   - [《妙手仁心III》 GOTV 第1集重溫](https://web.archive.org/web/20140222162458/http://gotv.tvb.com/programme/103200/152704/)
-  - [妙手仁心III - myTV SUPER](https://programme.mytvsuper.com/tc/111572/妙手仁心iii)
 
 ## 電視節目的變遷
 

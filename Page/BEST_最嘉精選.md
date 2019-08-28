@@ -18,7 +18,7 @@
         山得利「Freixenet」電視廣告歌曲
     <!-- end list -->
       - 作詞・作曲：John Newton／編曲：綾戸智繪
-2.  **[STAR](../Page/STARS_\(中島美嘉單曲\).md "wikilink")**(new vocal '05)
+2.  **[STARS](../Page/STARS_\(中島美嘉單曲\).md "wikilink")**(new vocal '05)
       - 作詞：[秋元康](../Page/秋元康.md "wikilink")／作曲：川口大輔／編曲：富田惠一
 3.  **[CRESCENT MOON](../Page/CRESCENT_MOON.md "wikilink")**
       - 作詞：松本隆／作曲：大野宏明／編曲：田中義人

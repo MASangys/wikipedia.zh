@@ -19,12 +19,10 @@
 這一創舉導致当今很多人在電腦出問題的時候想到的第一組快速鍵不是Ctrl+Alt+Delete，就是後面改成Esc的那一組；所以許多廠商包括微軟都以此為由來搶商機，但也有一些業者逆其道而行，例如[Ubuntu](../Page/Ubuntu.md "wikilink")作業系統等就沒有這組快速鍵的功能，所以微軟愛用者如果在這類系統上遇到問題，就算猛打這組快速鍵也沒辦法求救。但還是有解決方法的：
 
 1.  長按[ESC键](https://zh.wikipedia.org/wiki/ESC键 "wikilink")：這是该**強制結束**按鍵的本意，然而并不一定有效。
-
 2.  按“沒有回應”視窗的關閉鍵後再按弹出的**中止程式**視窗（或类似窗口）的**中止程式**。
-
 3.  長按電源鍵：這是最危險、後遺症最多的解決方式，因為它是強制命令主板关闭各硬件电源的意思，通常到不得已的時候才留到最後使用，若使用太多次很有可能傷害到整台電腦，引发软件乃至硬件故障（特别是硬盘）。
+4.  [魔术SysRq键](../Page/Magic_SysRq組合鍵.md "wikilink")
 
-4.
 ## 參考文獻
 
 [Category:电脑键](https://zh.wikipedia.org/wiki/Category:电脑键 "wikilink") [Category:IBM_PC兼容机](https://zh.wikipedia.org/wiki/Category:IBM_PC兼容机 "wikilink") [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink")

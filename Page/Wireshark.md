@@ -1,6 +1,6 @@
 **Wireshark**（前稱**Ethereal**）是一個免費開源的網路[封包分析軟體](https://zh.wikipedia.org/wiki/封包 "wikilink")。網路封包分析軟體的功能是截取網路封包，並盡可能顯示出最為詳細的網路封包資料。
 
-在過去，網路封包分析軟體是非常昂貴，或是專門屬於營利用的軟體，Wireshark的出現改變了這一切。在[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")的保障範圍底下，使用者可以以免費的代價取得軟體與其程式碼，並擁有針對其原始碼修改及客製化的權利。Wireshark是目前全世界最廣泛的網路封包分析軟體之一。
+在[GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")的保障範圍底下，使用者可以以免費的代價取得軟體與其程式碼，並擁有針對其原始碼修改及客製化的權利。Wireshark是目前全世界最廣泛的網路封包分析軟體之一。
 
 ## 發展簡史
 
@@ -33,6 +33,7 @@ Ethereal 在經過幾次中斷開發的事件過後，終於在1998年7月釋出
 ## 另見
 
   - [Pcap](https://zh.wikipedia.org/wiki/Pcap "wikilink"):與Wireshark搭配使用的封包截取程式
+  - [tcpdump](https://zh.wikipedia.org/wiki/tcpdump "wikilink"):命令行下的封包分析工具。
 
 ## 延伸導讀
 

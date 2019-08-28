@@ -16,6 +16,14 @@
 
   - [桃園捷運](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink") - [中華民國陸軍軍官學校](../Page/中華民國陸軍軍官學校.md "wikilink")
 
+## 2019年7月6日
+
+[Earthquake_Early_Warning_(Taiwan).svg](https://zh.wikipedia.org/wiki/File:Earthquake_Early_Warning_\(Taiwan\).svg "fig:Earthquake_Early_Warning_(Taiwan).svg")的強震即時警報系統。\]\]
+
+**強震即時警報**（，縮寫：），又稱**地震預警**、**地震速報**，是[臺灣](../Page/臺灣.md "wikilink")在[地震](../Page/地震.md "wikilink")發生後發布的警報，針對部分地區利用[地震波](../Page/地震波.md "wikilink")傳遞速度的差異，在較具威脅性但速度較慢的[S波](../Page/S波.md "wikilink")、[表面波到達前](https://zh.wikipedia.org/wiki/表面波 "wikilink")，透過[電腦軟體](https://zh.wikipedia.org/wiki/電腦軟體 "wikilink")、[行動應用程式](https://zh.wikipedia.org/wiki/行動應用程式 "wikilink")、[災防告警細胞廣播訊息系統](../Page/災防告警細胞廣播訊息系統.md "wikilink")等方式預先通報，以爭取數秒到數十秒的預警時間。2017年[交通部中央氣象局的強震即時警報系統總共發布](https://zh.wikipedia.org/wiki/交通部中央氣象局 "wikilink")56次警報，發生於臺灣島內或近海的地震可在地震發生後20秒內對外發布警報，對距離[震央](../Page/震央.md "wikilink")70公里以外的地區提供預警。
+
+[了解更多...](../Page/強震即時警報.md "wikilink")
+
 ## 2019年5月18日
 
 **黃振麟**（），[臺灣](../Page/臺灣.md "wikilink")[臺北](../Page/臺北.md "wikilink")人，為[凝態物理學暨](https://zh.wikipedia.org/wiki/凝態物理學 "wikilink")[原子核物理學家](https://zh.wikipedia.org/wiki/原子核物理學 "wikilink")。他在1952年至1955年之間曾經跟來自[德國的物理學家](https://zh.wikipedia.org/wiki/德國 "wikilink")[沃爾夫岡·克洛爾](../Page/沃爾夫岡·克洛爾.md "wikilink")共事研究，從[比熱數據推導出固體](https://zh.wikipedia.org/wiki/比熱 "wikilink")[聲子](https://zh.wikipedia.org/wiki/聲子 "wikilink")[頻譜](https://zh.wikipedia.org/wiki/頻譜 "wikilink")。黃振麟使用[牛顿迭代法求解](../Page/牛顿法.md "wikilink")，根據[波恩-卡曼理论由晶格动力学矩阵的](../Page/玻恩-冯·卡门边界条件.md "wikilink")[久期方程導出固體頻譜](https://zh.wikipedia.org/wiki/久期方程 "wikilink")，推展到三維的任何晶格的方法。這個方法是黃振麟獨創的，被譽為「不用[電子計算機](../Page/電子計算機.md "wikilink")方法中最方便的方法」。1952年起，黃振麟連續四年以單一作者身份在《[化学物理学报](https://zh.wikipedia.org/wiki/化学物理学报 "wikilink")》和《[物理評論](https://zh.wikipedia.org/wiki/物理評論 "wikilink")》發表四篇論文，被認為是當時全球物理學界難得一見的成就，其中他在1955年於《物理評論》發表的論文是該刊物第一篇以臺灣為發表單位的論文。

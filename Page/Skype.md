@@ -234,7 +234,7 @@ Skype的母公司微软，在2014年10月8日的一份声明中称“自2014年1
 
   - [香港HGC-Skype](https://web.archive.org/web/20061103115617/http://skype.hgcbroadband.com/b5/index.htm)
 
-  - [台灣PChome-Skype](https://web.archive.org/web/20050507045804/http://skype.pchome.com.tw/index.htm)
+  - [PChome & Skype](https://www.pchomeskype.com.tw/)
 
   - [光明方正Skype](http://skype.gmw.cn)
 

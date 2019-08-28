@@ -80,7 +80,7 @@
 
 ## 瓜達爾卡納爾島戰役
 
-1942年7月15日，以企業號為核心、由[托馬斯·金凱德指揮的第](https://zh.wikipedia.org/wiki/托馬斯·金凱德 "wikilink")16特遣艦隊離開珍珠港，前往南太平洋，並在24日抵達[湯加](https://zh.wikipedia.org/wiki/湯加 "wikilink")。26日企業號與薩拉托加號（第11特遣艦隊，弗萊徹指揮）及[胡蜂號](../Page/胡蜂號航空母艦_\(CV-7\).md "wikilink")（第18特遣艦隊）等在[斐濟外海會合](https://zh.wikipedia.org/wiki/斐濟 "wikilink")。三支艦隊再合組為第61特遣艦隊，然後掩護登陸艦前往[瓜達爾卡納爾島](https://zh.wikipedia.org/wiki/瓜達爾卡納爾島 "wikilink")。8月7日陸戰隊登陸並佔據了[圖拉吉以及瓜島部分地區](https://zh.wikipedia.org/wiki/圖拉吉 "wikilink")，包括[亨德森機場](https://zh.wikipedia.org/wiki/亨德森機場 "wikilink")。美日地面部隊的長期戰鬥自此展開。\[48\]
+1942年7月15日，以企業號為核心、由[托馬斯·金凱德指揮的第](https://zh.wikipedia.org/wiki/托馬斯·金凱德 "wikilink")16特遣艦隊離開珍珠港，前往南太平洋，並在24日抵達[湯加](https://zh.wikipedia.org/wiki/湯加 "wikilink")。26日企業號與薩拉托加號（第11特遣艦隊，弗萊徹指揮）及[胡蜂號](../Page/胡蜂號航空母艦_\(CV-7\).md "wikilink")（第18特遣艦隊）等在[斐濟](../Page/斐濟.md "wikilink")外海會合。三支艦隊再合組為第61特遣艦隊，然後掩護登陸艦前往[瓜達爾卡納爾島](https://zh.wikipedia.org/wiki/瓜達爾卡納爾島 "wikilink")。8月7日陸戰隊登陸並佔據了[圖拉吉以及瓜島部分地區](https://zh.wikipedia.org/wiki/圖拉吉 "wikilink")，包括[亨德森機場](https://zh.wikipedia.org/wiki/亨德森機場 "wikilink")。美日地面部隊的長期戰鬥自此展開。\[48\]
 
 由於美軍登陸順利，第61特遣艦隊司令弗萊徹在9日決定將其航母部隊後撤補油。這項爭議性舉措令陸戰隊的補給艦喪失空中掩護，使美軍巡洋艦及驅逐艦在[薩沃島海戰](../Page/薩沃島海戰.md "wikilink")遭遇慘敗。\[49\]
 

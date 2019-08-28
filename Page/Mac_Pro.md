@@ -1,4 +1,4 @@
-**2013mac pro 搭載X79晶片雙路主機板，Mac Pro**（相對於[68k Mac](https://zh.wikipedia.org/wiki/Macintosh "wikilink")、[PPC Mac](../Page/Power_Macintosh.md "wikilink")、也被稱為**Intel Mac**）是[蘋果公司推出的高階桌上型電腦系列產品](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，搭載[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")（Intel）[Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink") [CPU以及](https://zh.wikipedia.org/wiki/CPU "wikilink")[PCI Express匯流排架構](../Page/PCI_Express.md "wikilink")。
+**Mac Pro**是[蘋果公司推出的高階桌上型電腦系列產品](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，搭載[英特爾](https://zh.wikipedia.org/wiki/英特爾 "wikilink")（Intel）[Xeon](https://zh.wikipedia.org/wiki/Xeon "wikilink") [CPU以及](https://zh.wikipedia.org/wiki/CPU "wikilink")[PCI Express匯流排架構](../Page/PCI_Express.md "wikilink")。
 
 ## 概要
 

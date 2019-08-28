@@ -1,4 +1,4 @@
-是一种由[Ecma国际](../Page/Ecma国际.md "wikilink")（前身为[欧洲计算机制造商协会](https://zh.wikipedia.org/wiki/欧洲计算机制造商协会 "wikilink")）通过ECMA-262标准化的[脚本](../Page/脚本语言.md "wikilink")[程序设计语言](https://zh.wikipedia.org/wiki/程序设计语言 "wikilink")。这种语言在[万维网](../Page/万维网.md "wikilink")上应用广泛，它往往被称为[JavaScript](../Page/JavaScript.md "wikilink")或[JScript](../Page/JScript.md "wikilink")，但实际上后两者是ECMA-262标准的实现和扩展。
+是一种由[Ecma国际](../Page/Ecma国际.md "wikilink")（前身为[欧洲计算机制造商协会](https://zh.wikipedia.org/wiki/欧洲计算机制造商协会 "wikilink")）在标准ECMA-262中定义的脚本语言规范。这种语言在[万维网](../Page/万维网.md "wikilink")上应用广泛，它往往被称为[JavaScript](../Page/JavaScript.md "wikilink")或[JScript](../Page/JScript.md "wikilink")，但实际上后两者是ECMA-262标准的实现和扩展。
 
 ## 历史
 
@@ -8,7 +8,7 @@ ECMAScript是由[网景的](https://zh.wikipedia.org/wiki/网景公司 "wikilink
 
 ## 版本
 
-至今为止有八个ECMA-262版本发表。
+至今为止有九个ECMA-262版本发表。
 
 | 版本  | 发表日期     | 与前版本的差异                                                                                                                                                                                                                                           |
 | --- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -22,6 +22,7 @@ ECMAScript是由[网景的](https://zh.wikipedia.org/wiki/网景公司 "wikilink
 | 7   | 2016年6月  | ECMAScript 2016（ES2016），第 7 版，多個新的概念和語言特性\[9\]                                                                                                                                                                                                    |
 | 8   | 2017年6月  | ECMAScript 2017（ES2017），第 8 版，多個新的概念和語言特性\[10\]                                                                                                                                                                                                   |
 | 9   | 2018年6月  | ECMAScript 2018 （ES2018），第 9 版，包含了异步循环，生成器，新的正则表达式特性和 rest/spread 语法。                                                                                                                                                                             |
+| 10  | 2019年6月  | ECMAScript 2019 （ES2019），第 10 版                                                                                                                                                                                                                   |
 
 2004年6月Ecma组织发表了ECMA-357标准，它是ECMAScript的一个扩延，也被称为[E4X](../Page/E4X.md "wikilink")（ECMAScript for XML）。
 

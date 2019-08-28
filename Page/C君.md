@@ -97,7 +97,7 @@
 
   - 詳見[農夫](https://zh.wikipedia.org/wiki/農夫_\(樂隊\) "wikilink")。
 
-## 參與/主持電視節目
+## 曾主持電視節目
 
   - [BOOM部落格](https://zh.wikipedia.org/wiki/BOOM部落格 "wikilink")
 
@@ -152,6 +152,8 @@
   -
   - [萬千星輝頒獎典禮2016](../Page/萬千星輝頒獎典禮2016.md "wikilink")
 
+  - [Do姐有問題](../Page/Do姐有問題.md "wikilink")（第二輯）
+
   - [群星拱照big big channel](https://zh.wikipedia.org/wiki/群星拱照big_big_channel "wikilink")
 
   - [Do姐再Shopping](../Page/Do姐再Shopping.md "wikilink")
@@ -159,6 +161,8 @@
   - [萬千星輝頒獎典禮2017](../Page/萬千星輝頒獎典禮2017.md "wikilink")
 
   - [Do姐有問題](../Page/Do姐有問題.md "wikilink")（第三輯）
+
+  - [Do姐晚間看地球](https://zh.wikipedia.org/wiki/Do姐晚間看地球 "wikilink")
 
 ## 曾參與電台節目
 

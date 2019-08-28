@@ -43,7 +43,7 @@ MIDI產業協會在1982年八月制定最初的MIDI技術規格MIDI1.0 \[8\]此�
 所有MIDI相容的樂器與控制器都遵循著同一個標準技術規格MIDI 1.0，以便讓所有的MIDI訊息可以得到一致化的解讀MIDI 1.0和[General MIDI藉由使用標準指令和參數消除了所有相容性議題](../Page/General_MIDI.md "wikilink")。
 
   - **硬體標準介面**：使硬體之間連接的傳輸線或轉接線獲致一致規格（[硬體介面](https://zh.wikipedia.org/wiki/硬體介面 "wikilink"), MIDI介面, MIDI傳輸線）。
-  - **軟體標準介面**：包含用於儲存與傳輸的數位資料編碼結構。能以很快的速度傳輸音樂表演的重要資訊，也就是MIDI編曲時常處理的*control event*中各式各樣訊息。這些訊息包含了[音符](../Page/音符.md "wikilink")，[音高](../Page/音高.md "wikilink")，速度（velocity在此廣泛翻譯為力度，輕按1～重按127），參數控制訊號（像是音量，[顫音](https://zh.wikipedia.org/wiki/顫音_\(音樂\) "wikilink")，[相位](https://zh.wikipedia.org/wiki/相位 "wikilink"), [Cue](https://zh.wikipedia.org/wiki/Cue "wikilink")，以及計時器訊號，MIDI訊息, MIDI檔案）
+  - **軟體標準介面**：包含用於儲存與傳輸的數位資料編碼結構。能以很快的速度傳輸音樂表演的重要資訊，也就是MIDI編曲時常處理的*control event*中各式各樣訊息。這些訊息包含了[音符](../Page/音符.md "wikilink")，[音高](../Page/音高.md "wikilink")，速度（velocity在此廣泛翻譯為力度，輕按1～重按127），參數控制訊號（像是音量，[顫音](https://zh.wikipedia.org/wiki/顫音_\(音樂\) "wikilink")，[相位](../Page/相位.md "wikilink"), [Cue](https://zh.wikipedia.org/wiki/Cue "wikilink")，以及計時器訊號，MIDI訊息, MIDI檔案）
   - **傳輸通訊協定**：用於傳輸與同步音符與控制碼事件（[MIDI機器控制碼](https://zh.wikipedia.org/wiki/MIDI_Machine_Control "wikilink"), [MIDI演出控制](https://zh.wikipedia.org/wiki/MIDI_Show_Control "wikilink"), [MIDI時碼](https://zh.wikipedia.org/wiki/MIDI_timecode "wikilink")）。
   - **樂器分類標準**：用來界定MIDI音符演奏出的音色，專業術語叫做*[Timbre](https://zh.wikipedia.org/wiki/Timbre "wikilink"), Patch*或*Program*，支配數位音符轉換成我們聽到的音色。例如有個音符演奏出鋼琴音色，另一個音符也許會以小提琴音色同時演奏出來。而爵士鼓與打擊樂器則編在一組音色（channel 10），以便於有效率地編出仿真人演奏的節奏樂句。同時它允許演出者運用輸入裝置*觸發器*來演奏出*音源器*裡的音色。一般情况下，相較於音源檔案，也就是音色波型檔，MIDI檔案明显更小。
 

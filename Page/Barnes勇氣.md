@@ -18,6 +18,7 @@
   - 雜誌[なかよし](https://zh.wikipedia.org/wiki/なかよし "wikilink")
   - 雜誌Sesame Jr.
   - 雜誌Myojo
+  - [雙層公寓：都會男女](../Page/排屋公寓.md "wikilink")
 
 ## 外部連結
 

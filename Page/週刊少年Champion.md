@@ -10,7 +10,7 @@
 
   - [怪醫黑傑克](../Page/怪醫黑傑克.md "wikilink")——[手塚治虫](../Page/手塚治虫.md "wikilink")
   - [甜心戰士](../Page/甜心戰士.md "wikilink")——[永井豪](../Page/永井豪.md "wikilink")
-  - [乳旋風](https://zh.wikipedia.org/wiki/乳旋風 "wikilink")（[巨乳學園](../Page/巨乳學園.md "wikilink")）——[松山清治](https://zh.wikipedia.org/wiki/松山清治 "wikilink")
+  - [乳旋風](https://zh.wikipedia.org/wiki/乳旋風 "wikilink")（[巨乳學園](../Page/巨乳學園.md "wikilink")）——[松山清治](../Page/松山清治.md "wikilink")
   - [烏爾](../Page/乌尔.md "wikilink")——[石川球太](https://zh.wikipedia.org/wiki/石川球太 "wikilink")
   - [赤影](https://zh.wikipedia.org/wiki/赤影 "wikilink")——[横山光輝](https://zh.wikipedia.org/wiki/横山光輝 "wikilink")
   - [大甲子園](https://zh.wikipedia.org/wiki/大甲子園 "wikilink") ——[水島新司](https://zh.wikipedia.org/wiki/水島新司 "wikilink")

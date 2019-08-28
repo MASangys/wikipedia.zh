@@ -646,6 +646,17 @@
     主演：[黑木華](../Page/黑木華.md "wikilink")
     劇本：[大島里美](https://zh.wikipedia.org/wiki/大島里美 "wikilink")
 
+<!-- end list -->
+
+  - 10月－12月：**[4分鐘的金盞菊](https://zh.wikipedia.org/wiki/4分鐘的金盞菊 "wikilink")**（）
+
+<!-- end list -->
+
+  -
+    原作：《4分鐘的金盞菊》
+    主演：[福士蒼汰](../Page/福士蒼汰.md "wikilink")
+    劇本：[櫻井剛](https://zh.wikipedia.org/wiki/櫻井剛 "wikilink")
+
 ## 放送局
 
 ### 現在放送局

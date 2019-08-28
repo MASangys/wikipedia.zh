@@ -6,23 +6,23 @@
 
 ## 背景
 
-1970年代之後，[被子植物](../Page/被子植物.md "wikilink")的分類系統似乎到達一個穩定的狀態，藉助於新技術從事傳統的[分類學研究](https://zh.wikipedia.org/wiki/分類學 "wikilink")，並由於此類資料的大量累積，當時仍極為常用的[克朗奎斯特分類系統](https://zh.wikipedia.org/wiki/阿瑟·克朗奎斯特 "wikilink")(Arthur John Cronquist，1919年3月19日－1992年3月22日)及[塔赫塔江分類系統](../Page/亚美因·塔赫塔江.md "wikilink")(Armen Takhtajan:1910年6月10日－2009年11月13日)系統漸漸顯得過時\[1\]\[2\]。加上當時許多研究，涉及了分子技術的引用，為許多分類群提供了明確的[种系发生学上的數據](https://zh.wikipedia.org/wiki/种系发生学 "wikilink")。即使[亚美因·塔赫塔江](../Page/亚美因·塔赫塔江.md "wikilink")亦投注極大的心力於其系統的完善，但被子植物分類學上一個新的[种系发生学的面相應被重新提出](https://zh.wikipedia.org/wiki/种系发生学 "wikilink")，尤其針對[科與](https://zh.wikipedia.org/wiki/科_\(生物\) "wikilink")[目等高階](https://zh.wikipedia.org/wiki/目_\(生物\) "wikilink")[分類群的](https://zh.wikipedia.org/wiki/分類群 "wikilink")[分類](https://zh.wikipedia.org/wiki/分類學 "wikilink")\[3\]。植物种系发生学组於是提出此APG系統。
+1970年代之後，[被子植物](../Page/被子植物.md "wikilink")的分類系統似乎到達一個穩定的狀態，藉助於新技術從事傳統的[分類學研究](https://zh.wikipedia.org/wiki/分類學 "wikilink")，並由於此類資料的大量累積，當時仍極為常用的[克朗奎斯特分類系統](https://zh.wikipedia.org/wiki/阿瑟·克朗奎斯特 "wikilink")(Arthur John Cronquist，1919年3月19日－1992年3月22日)及[塔赫塔江分類系統](../Page/亚美因·塔赫塔江.md "wikilink")(Armen Takhtajan:1910年6月10日－2009年11月13日)系統漸漸顯得過時\[1\]\[2\]。加上當時許多研究，涉及了分子技術的引用，為許多分類群提供了明確的[种系发生学上的數據](https://zh.wikipedia.org/wiki/种系发生学 "wikilink")。即使[亚美因·塔赫塔江](../Page/亚美因·塔赫塔江.md "wikilink")亦投注極大的心力於其系統的完善，但被子植物分類學上一個新的[种系发生学的面相應被重新提出](https://zh.wikipedia.org/wiki/种系发生学 "wikilink")，尤其針對[科與](https://zh.wikipedia.org/wiki/科_\(生物\) "wikilink")[目等高階](../Page/目_\(生物\).md "wikilink")[分類群的](https://zh.wikipedia.org/wiki/分類群 "wikilink")[分類](https://zh.wikipedia.org/wiki/分類學 "wikilink")\[3\]。植物种系发生学组於是提出此APG系統。
 
 ## 方法
 
-**APG (1998年)**選擇相當數量的[單源的](https://zh.wikipedia.org/wiki/單系群 "wikilink")[亞科](https://zh.wikipedia.org/wiki/亞科 "wikilink")[分類群](https://zh.wikipedia.org/wiki/分類群 "wikilink")，如此對於[被子植物](../Page/被子植物.md "wikilink")的高階[分類極有為用](https://zh.wikipedia.org/wiki/分類學_\(生物學\) "wikilink")。但對於此[分類群的正式分類處理](https://zh.wikipedia.org/wiki/分類群 "wikilink")，與予以**种系发生学上的[命名](https://zh.wikipedia.org/wiki/命名 "wikilink")**實則不同，命名上當時仍存在諸多爭議\[4\]。APG採用了《國際植物命名法規》的方式，為[科級及](https://zh.wikipedia.org/wiki/科_\(生物\) "wikilink")[目級的分類群命名](https://zh.wikipedia.org/wiki/目_\(生物\) "wikilink")。
+**APG (1998年)**選擇相當數量的[單源的](https://zh.wikipedia.org/wiki/單系群 "wikilink")[亞科](https://zh.wikipedia.org/wiki/亞科 "wikilink")[分類群](https://zh.wikipedia.org/wiki/分類群 "wikilink")，如此對於[被子植物](../Page/被子植物.md "wikilink")的高階[分類極有為用](https://zh.wikipedia.org/wiki/分類學_\(生物學\) "wikilink")。但對於此[分類群的正式分類處理](https://zh.wikipedia.org/wiki/分類群 "wikilink")，與予以**种系发生学上的[命名](https://zh.wikipedia.org/wiki/命名 "wikilink")**實則不同，命名上當時仍存在諸多爭議\[4\]。APG採用了《國際植物命名法規》的方式，為[科級及](https://zh.wikipedia.org/wiki/科_\(生物\) "wikilink")[目級的分類群命名](../Page/目_\(生物\).md "wikilink")。
 
 關於目級以上的分類，APG特別提出：習慣上使用的目級以上分類群概念，與命名上的優先律的命名概念經常造成衝突，在尋求平衡此衝突時，APG特別強調其處理並非依法(命名法規)為之\[5\]。
 
 ### 分類群的界線
 
-  - 依[單系群概念界定](https://zh.wikipedia.org/wiki/單系群 "wikilink")[分類群](https://zh.wikipedia.org/wiki/分類群 "wikilink")。如此，種以上階層被定義或界定時，其演化序列未予以指明，如此可以方便溝通，特別是為[科級及](https://zh.wikipedia.org/wiki/科_\(生物\) "wikilink")[目級的分類群定義其範圍及屬於系統樹架構的位置時](https://zh.wikipedia.org/wiki/目_\(生物\) "wikilink")\[6\]。
+  - 依[單系群概念界定](https://zh.wikipedia.org/wiki/單系群 "wikilink")[分類群](https://zh.wikipedia.org/wiki/分類群 "wikilink")。如此，種以上階層被定義或界定時，其演化序列未予以指明，如此可以方便溝通，特別是為[科級及](https://zh.wikipedia.org/wiki/科_\(生物\) "wikilink")[目級的分類群定義其範圍及屬於系統樹架構的位置時](../Page/目_\(生物\).md "wikilink")\[6\]。
   - 界定[分類群時若有替代性的選擇](https://zh.wikipedia.org/wiki/分類群 "wikilink")，APG會選擇具容易辨識的[形態](../Page/植物形態學.md "wikilink")[衍徵](https://zh.wikipedia.org/wiki/衍徵 "wikilink")，並參考[解剖](../Page/植物解剖學.md "wikilink")、[生化](https://zh.wikipedia.org/wiki/生物化學 "wikilink")、[發生等](https://zh.wikipedia.org/wiki/發生學 "wikilink")[特徵](https://zh.wikipedia.org/wiki/特徵 "wikilink")\[7\]。
   - 在[科级的分类时](https://zh.wikipedia.org/wiki/科 "wikilink")，依單系群概念，許多小科勢必被界定出來而不是在傳統的大科之中，這樣的争议亦在於在[目以上的分类群](https://zh.wikipedia.org/wiki/目 "wikilink")。
 
 ### 分類群的命名
 
-  - **目以上的分類群**：本系統並未使用传统的分类階層學名：如[门](https://zh.wikipedia.org/wiki/门 "wikilink")、[纲等](https://zh.wikipedia.org/wiki/纲 "wikilink")，而是使用一般性的名詞定義“分支”，例如[单子叶植物分支](https://zh.wikipedia.org/wiki/单子叶植物分支 "wikilink")、[真双子叶植物分支](https://zh.wikipedia.org/wiki/真双子叶植物分支 "wikilink")、[蔷薇分支](https://zh.wikipedia.org/wiki/蔷薇分支 "wikilink")、[菊分支等](https://zh.wikipedia.org/wiki/菊分支 "wikilink")。
+  - **目以上的分類群**：本系統並未使用传统的分类階層學名：如[门](https://zh.wikipedia.org/wiki/门 "wikilink")、[纲](../Page/纲.md "wikilink")等，而是使用一般性的名詞定義“分支”，例如[单子叶植物分支](https://zh.wikipedia.org/wiki/单子叶植物分支 "wikilink")、[真双子叶植物分支](https://zh.wikipedia.org/wiki/真双子叶植物分支 "wikilink")、[蔷薇分支](https://zh.wikipedia.org/wiki/蔷薇分支 "wikilink")、[菊分支等](https://zh.wikipedia.org/wiki/菊分支 "wikilink")。
   - **目的定義與界定**：許多目的學名之採用，考慮到其大小，通常涵蓋約10至20個科。同時許多小目被界定出來，由於其為單系群，且其親緣關係已確立，因此不放在未確定群而成為一個**目** \[8\]。
 
 ## 注釋
@@ -262,7 +262,7 @@ APG系统下设分类包括40个[目和](https://zh.wikipedia.org/wiki/目 "wiki
                             [谷精草科](../Page/谷精草科.md "wikilink") *Eriocaulaceae*
                             [须叶藤科](https://zh.wikipedia.org/wiki/须叶藤科 "wikilink") *Flagellariaceae*
                             [独蕊草科](../Page/独蕊草科.md "wikilink") *Hydatellaceae*
-                            [拟苇科](https://zh.wikipedia.org/wiki/拟苇科 "wikilink") *Joinvilleaceae*
+                            [拟苇科](../Page/拟苇科.md "wikilink") *Joinvilleaceae*
                             [灯心草科](../Page/灯心草科.md "wikilink") *Juncaceae*
                             [禾本科](../Page/禾本科.md "wikilink") *Poaceae*
                             [袖珍棕榈科](https://zh.wikipedia.org/wiki/袖珍棕榈科 "wikilink") *Prioniaceae*
@@ -503,7 +503,7 @@ APG系统下设分类包括40个[目和](https://zh.wikipedia.org/wiki/目 "wiki
 
                                   -
                                     [土瓶草科](https://zh.wikipedia.org/wiki/土瓶草科 "wikilink") *Cephalotaceae*
-                                    [牛栓藤科](https://zh.wikipedia.org/wiki/牛栓藤科 "wikilink") *Connaraceae*
+                                    [牛栓藤科](../Page/牛栓藤科.md "wikilink") *Connaraceae*
                                     [火把树科](../Page/火把树科.md "wikilink") *Cunoniaceae*
                                     [杜英科](../Page/杜英科.md "wikilink") *Elaeocarpaceae*
                                     [酢浆草科](https://zh.wikipedia.org/wiki/酢浆草科 "wikilink") *Oxalidaceae*
@@ -552,7 +552,7 @@ APG系统下设分类包括40个[目和](https://zh.wikipedia.org/wiki/目 "wiki
                                     [刺茉莉科](../Page/刺茉莉科.md "wikilink") *Salvadoraceae*
                                     [夷白花菜科](../Page/夷白花菜科.md "wikilink") *Setchellanthaceae*
                                     [烈味三叶草科](https://zh.wikipedia.org/wiki/烈味三叶草科 "wikilink") *Tovariaceae*
-                                    [旱金莲科](https://zh.wikipedia.org/wiki/旱金莲科 "wikilink") *Tropaeolaceae*
+                                    [旱金莲科](../Page/旱金莲科.md "wikilink") *Tropaeolaceae*
                             [锦葵目](../Page/锦葵目.md "wikilink") *Malvales*
                               -
 
@@ -633,7 +633,7 @@ APG系统下设分类包括40个[目和](https://zh.wikipedia.org/wiki/目 "wiki
                                 [花荵科](../Page/花荵科.md "wikilink") *Polemoniaceae*
                                 [报春花科](../Page/报春花科.md "wikilink") *Primulaceae*
                                 [捕蝇幌科](../Page/捕蝇幌科.md "wikilink") *Roridulaceae*
-                                [山榄科](https://zh.wikipedia.org/wiki/山榄科 "wikilink") *Sapotaceae*
+                                [山榄科](../Page/山榄科.md "wikilink") *Sapotaceae*
                                 [瓶子草科](../Page/瓶子草科.md "wikilink") *Sarraceniaceae*
                                 [野茉莉科](../Page/野茉莉科.md "wikilink") *Styracaceae*
                                 [山矾科](../Page/山矾科.md "wikilink") *Symplocaceae*
@@ -692,7 +692,7 @@ APG系统下设分类包括40个[目和](https://zh.wikipedia.org/wiki/目 "wiki
                                     [车前科](../Page/车前科.md "wikilink") *Plantaginaceae*
                                     [夷地黄科](https://zh.wikipedia.org/wiki/夷地黄科 "wikilink") *Schlegeliaceae*
                                     [玄参科](../Page/玄参科.md "wikilink") *Scrophulariaceae*
-                                    [密穗草科](https://zh.wikipedia.org/wiki/密穗草科 "wikilink") *Stilbaceae*
+                                    [密穗草科](../Page/密穗草科.md "wikilink") *Stilbaceae*
                                     [四粉草科](../Page/四粉草科.md "wikilink") *Tetrachondraceae*
                                     [马鞭草科](../Page/马鞭草科.md "wikilink") *Verbenaceae*
                             [茄目](../Page/茄目.md "wikilink") *Solanales*
@@ -734,7 +734,7 @@ APG系统下设分类包括40个[目和](https://zh.wikipedia.org/wiki/目 "wiki
                                     [夷茱萸科](../Page/夷茱萸科.md "wikilink") *Griseliniaceae*
                                     [番茱萸科](https://zh.wikipedia.org/wiki/番茱萸科 "wikilink") *Melanophyllaceae*
                                     [海桐花科](https://zh.wikipedia.org/wiki/海桐花科 "wikilink") *Pittosporaceae*
-                                    [鞘柄木科](https://zh.wikipedia.org/wiki/鞘柄木科 "wikilink") *Torricelliaceae*
+                                    [鞘柄木科](../Page/鞘柄木科.md "wikilink") *Torricelliaceae*
                             [冬青目](../Page/冬青目.md "wikilink") *Aquifoliales*
                               -
 
@@ -766,7 +766,7 @@ APG系统下设分类包括40个[目和](https://zh.wikipedia.org/wiki/目 "wiki
                                     [忍冬科](../Page/忍冬科.md "wikilink") *Caprifoliaceae*
                                     [黄锦带科](https://zh.wikipedia.org/wiki/黄锦带科 "wikilink") *Diervillaceae*
                                     [川续断科](../Page/川续断科.md "wikilink") *Dipsacaceae*
-                                    [北极花科](https://zh.wikipedia.org/wiki/北极花科 "wikilink") *Linnaeaceae*
+                                    [北极花科](../Page/北极花科.md "wikilink") *Linnaeaceae*
                                     [刺续断科](https://zh.wikipedia.org/wiki/刺续断科 "wikilink") *Morinaceae*
                                     [败酱科](../Page/败酱科.md "wikilink") *Valerianaceae*
 

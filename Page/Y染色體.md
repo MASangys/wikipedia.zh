@@ -40,7 +40,7 @@ X染色体和Y染色体之间的[基因重组已被证实是对](https://zh.wiki
 
 ### 未来进化方向
 
-Y染色体的退化可能导致其他染色体将其原有基因“接管”，最终会使得Y染色体完全消失，而一个新性别决定系统则会诞生\[21\]。几种同[属的](https://zh.wikipedia.org/wiki/属 "wikilink")[鼠科及](https://zh.wikipedia.org/wiki/鼠科 "wikilink")[仓鼠科的](https://zh.wikipedia.org/wiki/仓鼠科 "wikilink")[啮齿目动物已经通过下列途径达到Y染色体演化终端](https://zh.wikipedia.org/wiki/啮齿目动物 "wikilink")\[22\]\[23\]：
+Y染色体的退化可能导致其他染色体将其原有基因“接管”，最终会使得Y染色体完全消失，而一个新性别决定系统则会诞生\[21\]。几种同[属](../Page/属.md "wikilink")的[鼠科及](https://zh.wikipedia.org/wiki/鼠科 "wikilink")[仓鼠科的](https://zh.wikipedia.org/wiki/仓鼠科 "wikilink")[啮齿目动物已经通过下列途径达到Y染色体演化终端](https://zh.wikipedia.org/wiki/啮齿目动物 "wikilink")\[22\]\[23\]：
 
   - [鼴形田鼠](https://zh.wikipedia.org/wiki/鼴形田鼠 "wikilink")\[24\]\[25\]如[土黄鼹形田鼠](https://zh.wikipedia.org/wiki/土黄鼹形田鼠 "wikilink")（*Ellobius lutescens*）及[坦氏鼹形田鼠](https://zh.wikipedia.org/wiki/坦氏鼹形田鼠 "wikilink")（*Ellobius tancrei*）的鼠类不论雄性或雌性的基因型皆为XO\[26\]，而所有坦氏鼹形田鼠的基因型皆为XX\[27\]。由第二號染色體的代替[SRY基因](https://zh.wikipedia.org/wiki/SRY基因 "wikilink")，發揮了決定雄性性別的作用。\[28\]\[29\]
   - [裔鼠屬](../Page/裔鼠屬.md "wikilink")中的和和[德之島裔鼠](../Page/德之島裔鼠.md "wikilink")，已完全丢失它们的Y染色体（包括SRY基因）\[30\]\[31\]\[32\]\[33\]，而将其余的一些原来在Y染色体上的基因转移到了X染色体上\[34\]。由代替[SRY基因](https://zh.wikipedia.org/wiki/SRY基因 "wikilink")，發揮了決定雄性性別的作用。\[35\]\[36\]

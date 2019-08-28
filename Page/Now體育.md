@@ -7,14 +7,14 @@
 現時Now體育擁有或轉播的頻道包括：
 
   - 第600頻道：**體育推廣頻道**（[南丫島](../Page/南丫島.md "wikilink")除外）
-  - 第611頻道：**Now Sports 4K**
+  - 第611頻道：**Now Sports 4K**（現場直播4K[英超賽事及滾筒播放英超相關節目](https://zh.wikipedia.org/wiki/英超 "wikilink")）
   - 第620頻道：**Premier League TV**（英超官方電視頻道）
-  - 第621頻道：**Now 英超1台**（現場直播[英超賽事及滾筒播放英超相關節目](https://zh.wikipedia.org/wiki/英超 "wikilink")）
-  - 第622頻道：**Now 英超2台**（分流現場直播[英超同步進行賽事](https://zh.wikipedia.org/wiki/英超 "wikilink")）
-  - 第623頻道：**Now 英超3台**（分流現場直播[英超同步進行賽事](https://zh.wikipedia.org/wiki/英超 "wikilink")）
-  - 第624頻道：**Now 英超4台**（分流現場直播[英超同步進行賽事](https://zh.wikipedia.org/wiki/英超 "wikilink")）
-  - 第625頻道：**Now 英超5台**（分流現場直播[英超同步進行賽事](https://zh.wikipedia.org/wiki/英超 "wikilink")）
-  - 第626頻道：**Now 英超6台**（分流現場直播[英超同步進行賽事](https://zh.wikipedia.org/wiki/英超 "wikilink")）
+  - 第621頻道：**Now Sports 英超1台**（現場直播[英超賽事及滾筒播放英超相關節目](https://zh.wikipedia.org/wiki/英超 "wikilink")）
+  - 第622頻道：**Now Sports 英超2台**（分流現場直播[英超同步進行賽事](https://zh.wikipedia.org/wiki/英超 "wikilink")）
+  - 第623頻道：**Now Sports 英超3台**（分流現場直播[英超同步進行賽事](https://zh.wikipedia.org/wiki/英超 "wikilink")）
+  - 第624頻道：**Now Sports 英超4台**（分流現場直播[英超同步進行賽事](https://zh.wikipedia.org/wiki/英超 "wikilink")）
+  - 第625頻道：**Now Sports 英超5台**（分流現場直播[英超同步進行賽事](https://zh.wikipedia.org/wiki/英超 "wikilink")）
+  - 第626頻道：**Now Sports 英超6台**（分流現場直播[英超同步進行賽事](https://zh.wikipedia.org/wiki/英超 "wikilink")）
   - 第630頻道：**Now Sports Prime**
   - 第631頻道：**Now Sports 1**（羽毛球 / 田徑）
   - 第632頻道：**beIN - Now Sports 2**（西甲）
@@ -30,7 +30,7 @@
   - 第643頻道：**beIN SPORTS Max**
   - 第644頻道：**beIN SPORTS Max 2**
   - 第645頻道：**beIN SPORTS Max 3**
-  - 第650頻道：**Now Sports 650**（預留頻道，為按賽事付費頻道）
+  - 第650頻道：**beIN SPORTS Rugby**
   - 第651頻道：**Now Sports 651**（預留頻道，為按賽事付費頻道）
   - 第668頻道：**[now668](https://zh.wikipedia.org/wiki/now668 "wikilink")**
   - 第670頻道：**[FOX SPORTS](../Page/FOX體育台.md "wikilink")**
@@ -39,7 +39,7 @@
   - 第674頻道：**STAR Cricket**
   - 第675頻道：**STAR Cricket+**（分流現場直播賽事）
   - 第679頻道：**Setanta Sports Channel**
-  - 第680頻道：**Now Sports 680**（NFL美式足球）
+  - 第680頻道：**Now Sports Plus**（NFL美式足球）
   - 第681頻道：**Now Sports 681**（預留頻道，為按賽事付費頻道）
   - 第682頻道：**Now Golf 1**
   - 第683頻道：**Now Golf 2**
@@ -65,13 +65,13 @@
   - **beIN SPORTS** 自選服務
   - **Now 英超** 自選服務（取代原有樂視體育Now英超自選服務）
 
-## now 英超
+## now Sports 英超
 
-now 英超 1-6台為高清及標清頻道，播放[英格蘭超級足球聯賽賽事](https://zh.wikipedia.org/wiki/英格蘭超級足球聯賽 "wikilink")。
+now Sports 英超 1-6台為高清及標清頻道，播放[英格蘭超級足球聯賽賽事](https://zh.wikipedia.org/wiki/英格蘭超級足球聯賽 "wikilink")。
 
-now 英超 1台於賽季期間24小時播放，全程直播英超賽事，其餘時間錄播以及播放英超雜誌節目。
+now Sports 英超 1台於賽季期間24小時播放，全程直播英超賽事，其餘時間錄播以及播放英超雜誌節目。
 
-now 英超 2-6台為後備頻道，分流現場直播英超賽事。
+now Sports 英超 2-6台為後備頻道，分流現場直播英超賽事。
 
 （部分時段與[ViuTV](../Page/ViuTV.md "wikilink")、[ViuTVsix](../Page/ViuTVsix.md "wikilink")同步播出，唯各頻道同步直播英超賽事時將繼續沿用自身頻道之台徽，）
 

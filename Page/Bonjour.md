@@ -19,7 +19,7 @@ Bonjour在2002年8月作为[Mac OS X v10.2一部分发布的时候](https://zh.w
 ## 外部链接
 
   - [Bonjour - 簡化版網路連缐](https://web.archive.org/web/20061209232321/http://www.apple.com.tw/macosx/features/bonjour/) 蘋果電腦 繁體中文
-  - [Bonjour 开发者网页（英文）](http://developer.apple.com/networking/bonjour/)
+  - [Bonjour 开发者网页（英文）](https://support.apple.com/bonjour)
   - [Zeroconf.org](http://zeroconf.org) - site with myriad useful links maintained by Stuart Cheshire
   - [Hour-long talk](http://video.google.com/videoplay?docid=-7398680103951126462) by Stuart Cheshire on [Google Video](https://zh.wikipedia.org/wiki/Google_Video "wikilink") about Bonjour and Zeroconf
   - [Stuart Cheshire and Rendezvous mentioned on Daniel Smith's weblog on the O'Reilly Network](https://web.archive.org/web/20040624050813/http://www.oreillynet.com/pub/wlg/3137)

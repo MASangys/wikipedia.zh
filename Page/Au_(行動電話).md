@@ -10,6 +10,16 @@
 
 2012年9月，au開通[4G LTE網路服務](https://zh.wikipedia.org/wiki/4G_LTE "wikilink")。
 
+## LTE頻段
+
+  - FDD-LTE 2100MHz(Band 1)
+  - FDD-LTE 1500MHz(Band 11)
+  - FDD-LTE 800MHz(Band 18)
+  - FDD-LTE 800MHz(Band 26)
+  - FDD-LTE 700MHz(Band 28)
+  - TDD-LTE 2500MHz～2700MHz(Band 41) 移撥給 WiMAX 2+
+  - TDD-LTE 3400MHz～3600MHz(Band 42)
+
 ## 參看
 
   - [KDDI](../Page/KDDI.md "wikilink")

@@ -17,7 +17,7 @@
 | NTG      | [南通兴东机场](https://zh.wikipedia.org/wiki/南通兴东机场 "wikilink")         | [南通市](../Page/南通市.md "wikilink")                            | [中国](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")      |
 | NUE      | [紐倫堡機場](https://zh.wikipedia.org/wiki/紐倫堡機場 "wikilink")           | [紐倫堡](https://zh.wikipedia.org/wiki/紐倫堡 "wikilink")         | [德國](https://zh.wikipedia.org/wiki/德國 "wikilink")           |
 | NAK      | Nakhon Ratchasima                                                 | Nakhon Ratchasima                                           | [泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")           |
-| NAN      | International                                                     | Nadi                                                        | [斐濟](https://zh.wikipedia.org/wiki/斐濟 "wikilink")           |
+| NAN      | International                                                     | Nadi                                                        | [斐濟](../Page/斐濟.md "wikilink")                              |
 | NAS      | Nassau International Airport                                      | [拿骚（巴哈马）](https://zh.wikipedia.org/wiki/拿索 "wikilink")      | [巴哈馬](https://zh.wikipedia.org/wiki/巴哈馬 "wikilink")         |
 | NAT      | Agusto Severo                                                     | Natal                                                       | [巴西](../Page/巴西.md "wikilink")                              |
 | NCA      |                                                                   | 北凯克斯                                                        | [特克斯和凯科斯群岛](../Page/特克斯和凯科斯群岛.md "wikilink")                |

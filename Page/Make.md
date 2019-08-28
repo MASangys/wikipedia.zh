@@ -47,9 +47,11 @@ makefile的格式是：
 `         .`
 `   ``命令n`
 `   # 可以使用“\”表示续行。注意，“\”之后不能有空格！`
+`   `
 
+  - target, dependencies和命令构成了一个makefile里的一个“规则”，规则指示make何时以及如何重新生成target或执行target下的命令
   - target通常是我们要生成的文件的名字，摆放的顺序不重要，但第一个target是默认的target。当make不带参数时，自动执行第一个target。target也可以是要求make完成的动作，执行这种target后并不能得到和target同名的文件，因此，也称为伪target(phony target)。
-  - dependencies是生成target所需的文件名列表。依赖可以为空，常用的“clean”target就常常没有依赖，只有命令。
+  - dependencies是生成target所需的文件名列表。依赖可以为空，常用的“clean”target就常常没有依赖，只有命令。若依赖不为空，则make会先检查依赖的“规则”。依赖规定了何时重新执行target下命令。若任何依赖比target更新 （由于执行了依赖的“规则”的命令或用户修改了依赖），make则会重新执行target下的命令。
   - 命令可以是任何一个shell能运行的命令。
 
 ### 示例

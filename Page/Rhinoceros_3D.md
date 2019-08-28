@@ -12,4 +12,4 @@ Rhino3D也是一個開放式的3D平台，除了官方自己開發的[Flamingo](
 
   - [簡體中文討論版](http://bbs.rhino3d.asia/)
 
-[Category:三維圖像軟體](https://zh.wikipedia.org/wiki/Category:三維圖像軟體 "wikilink")
+[Category:三維圖像軟體](https://zh.wikipedia.org/wiki/Category:三維圖像軟體 "wikilink") [Category:1998年軟體](https://zh.wikipedia.org/wiki/Category:1998年軟體 "wikilink")

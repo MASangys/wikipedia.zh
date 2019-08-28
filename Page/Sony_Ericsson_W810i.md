@@ -2,7 +2,7 @@
 
 其他值得注意的特色包括 full function 網路瀏覽器，兩百萬畫素自動對焦鏡頭，[Memory Stick Pro Duo](https://zh.wikipedia.org/wiki/Memory_Stick "wikilink") 插槽（最高4GB），以及音樂播放模式。當使用音樂播放模式時手機的功能會完全關閉，以便在不能使用手機通訊的地點時也能享受音樂。此款手機支援[MP3](../Page/MP3.md "wikilink")以及 [AAC音樂格式以及](https://zh.wikipedia.org/wiki/Advanced_Audio_Coding "wikilink")[MPEG4和](https://zh.wikipedia.org/wiki/MPEG4 "wikilink")[3GPP](../Page/3GPP.md "wikilink")影片格式。
 
-W810i中有不少改變是來自[Sony Ericsson W800i](https://zh.wikipedia.org/wiki/Sony_Ericsson_W800i "wikilink")，但是最明顯的改變是[Sony Ericsson手機常見的搖桿式方向鍵](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")（joystick）被 D-pad 所取代。D-pad 增加了在聽音樂時的方便性。
+W810i中有不少改變是來自[Sony Ericsson W800i](../Page/Sony_Ericsson_W800i.md "wikilink")，但是最明顯的改變是[Sony Ericsson手機常見的搖桿式方向鍵](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilink")（joystick）被 D-pad 所取代。D-pad 增加了在聽音樂時的方便性。
 
 W810i在2006年四月推出，現在已經全球發行。
 

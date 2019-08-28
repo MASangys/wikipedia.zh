@@ -577,7 +577,7 @@
 <td><p>Mercury</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/火星小姐" title="wikilink">火星小姐</a></p></td>
+<td><p><a href="../Page/火星小姐.md" title="wikilink">火星小姐</a></p></td>
 <td><p>梅根·摩絲</p></td>
 <td><p>Miss Martian</p></td>
 </tr>
@@ -830,7 +830,7 @@
 <td><p>Sinestro</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/快手_(漫畫)" title="wikilink">快手</a></p></td>
+<td><p><a href="../Page/快手_(漫畫).md" title="wikilink">快手</a></p></td>
 <td><p><a href="../Page/羅伊·哈珀.md" title="wikilink">羅伊·哈珀</a><br />
 米婭·迪爾登</p></td>
 <td><p>Speedy</p></td>

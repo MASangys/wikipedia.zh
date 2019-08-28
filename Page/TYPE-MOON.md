@@ -27,7 +27,7 @@ TYPE-MOON真正的成名之作是在2000年的冬[Comic Market上发行的](../P
 <!-- end list -->
 
   -
-    时间：1999年夏COMIKE（即第57次[Comic Market](../Page/Comic_Market.md "wikilink")，简称C57，下同）
+    时间：1999年夏COMIKE（即第56次[Comic Market](../Page/Comic_Market.md "wikilink")，简称C56，下同）
 
 <!-- end list -->
 
@@ -36,7 +36,7 @@ TYPE-MOON真正的成名之作是在2000年的冬[Comic Market上发行的](../P
 <!-- end list -->
 
   -
-    时间：1999年冬COMIKE（C58）
+    时间：1999年冬COMIKE（C57）
 
 <!-- end list -->
 
@@ -45,7 +45,7 @@ TYPE-MOON真正的成名之作是在2000年的冬[Comic Market上发行的](../P
 <!-- end list -->
 
   -
-    时间：2000年夏COMIKE（C59）
+    时间：2000年夏COMIKE（C58）
 
 <!-- end list -->
 
@@ -54,7 +54,7 @@ TYPE-MOON真正的成名之作是在2000年的冬[Comic Market上发行的](../P
 <!-- end list -->
 
   -
-    时间：2000年冬COMIKE（C60）
+    时间：2000年冬COMIKE（C59）
 
 <!-- end list -->
 
@@ -73,7 +73,7 @@ TYPE-MOON真正的成名之作是在2000年的冬[Comic Market上发行的](../P
 <!-- end list -->
 
   -
-    时间：2001年8月
+    时间：2001年8月（C60）
     月姬的FAN DISC，主要目的就是为了娱乐各位TYPE MOON的FANS。其中有些故事是取自读者的投稿。
 
 <!-- end list -->
@@ -83,7 +83,7 @@ TYPE-MOON真正的成名之作是在2000年的冬[Comic Market上发行的](../P
 <!-- end list -->
 
   -
-    时间：2002年12月30日
+    时间：2002年12月30日（C63）
     TYPE-MOON与同人团体渡边制作所合作的月姬同人格斗游戏，剧情模式的故事由奈须执笔。
     而這作品在2005年在ps2 發表。
 

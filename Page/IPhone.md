@@ -212,7 +212,7 @@ iPhone 3G與iPhone 3GS使用同一款的Dock連接埠，但跟大部分的手機
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>第一代iPhone</p></td>
+<td><p>初代iPhone</p></td>
 <td></td>
 <td></td>
 <td><p>30針USB傳輸線</p></td>
@@ -401,6 +401,26 @@ iPhone 3G與iPhone 3GS使用同一款的Dock連接埠，但跟大部分的手機
 <td><p>附有麥克風的Lightning EarPods</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>iPhone XS</p></td>
+<td></td>
+<td></td>
+<td><p>Lightning傳輸線</p></td>
+<td></td>
+<td></td>
+<td><p>附有麥克風的Lightning EarPods</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>iPhone XS Max</p></td>
+<td></td>
+<td></td>
+<td><p>Lightning傳輸線</p></td>
+<td></td>
+<td></td>
+<td><p>附有麥克風的Lightning EarPods</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -440,7 +460,7 @@ iPhone 5s及后续机型且运行至少iOS11.4系统的手机可以将Apple Musi
 
 ### 通讯与网络
 
-第一代iPhone能夠連接[Wi-Fi](../Page/Wi-Fi.md "wikilink")或以[2G](../Page/2G.md "wikilink")和[3G](../Page/3G.md "wikilink")（[GSM](../Page/GSM.md "wikilink")或[EDGE](https://zh.wikipedia.org/wiki/EDGE "wikilink")）網絡連上互聯網。[iPhone 3G推出時支援第三代流動通訊](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")[UMTS和](https://zh.wikipedia.org/wiki/UMTS "wikilink")[HSUPA](https://zh.wikipedia.org/wiki/HSUPA "wikilink") 3.6\[134\]，[iPhone 3GS及](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")[iPhone 4支援](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")[HSUPA](https://zh.wikipedia.org/wiki/HSUPA "wikilink") 7.2\[135\]，只有iPhone 4S支援[HSUPA](https://zh.wikipedia.org/wiki/HSUPA "wikilink")（14.4Mbit/s）。[AT\&T](../Page/AT&T.md "wikilink")早在2004年7月推出3G網絡\[136\]，但喬布斯於2007年下旬指3G網絡在美國仍未有被廣泛普及，以及iPhone上的晶片能源效率不夠高\[137\]\[138\]，而且生產價錢不菲，故決定第一代iPhone不支援3G網絡\[139\]\[140\]。在2.0更新版本中，加入一些大學或企業常用的認證系統，支援[IEEE 802.1X](../Page/IEEE_802.1X.md "wikilink")\[141\]。
+第一代iPhone能夠連接[Wi-Fi](../Page/Wi-Fi.md "wikilink")或以[2G](../Page/2G.md "wikilink")和[3G](../Page/3G.md "wikilink")（[GSM](../Page/GSM.md "wikilink")或[EDGE](https://zh.wikipedia.org/wiki/EDGE "wikilink")）網絡連上互聯網。[iPhone 3G推出時支援第三代流動通訊](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")[UMTS和](https://zh.wikipedia.org/wiki/UMTS "wikilink")[HSUPA](https://zh.wikipedia.org/wiki/HSUPA "wikilink") 3.6\[134\]，[iPhone 3GS及](https://zh.wikipedia.org/wiki/iPhone_3GS "wikilink")[iPhone 4支援](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")[HSUPA](https://zh.wikipedia.org/wiki/HSUPA "wikilink") 7.2\[135\]，只有iPhone 4S支援[HSUPA](https://zh.wikipedia.org/wiki/HSUPA "wikilink")（14.4Mbit/s）。[AT\&T](../Page/AT&T.md "wikilink")早在2004年7月推出3G網絡\[136\]，但喬布斯於2007年下半年指3G網絡在美國仍未有被廣泛普及，以及iPhone上的晶片能源效率不夠高\[137\]\[138\]，而且生產價錢不菲，故決定第一代iPhone不支援3G網絡\[139\]\[140\]。在2.0更新版本中，加入一些大學或企業常用的認證系統，支援[IEEE 802.1X](../Page/IEEE_802.1X.md "wikilink")\[141\]。
 
 在點認的情況下，iPhone會詢問用戶加入新發現的[Wi-Fi](../Page/Wi-Fi.md "wikilink")網絡\[142\]，並需要密碼加入，另外，它也可以手動關閉Wi-Fi網絡\[143\]，它會自動按照訊號強度來排序，並在可用時選擇最強訊號的Wi-Fi網絡，而不是[EDGE網絡](https://zh.wikipedia.org/wiki/EDGE "wikilink")\[144\]。同樣地，iPhone3G、iPhone3GS及iPhone4可以選擇[2G](../Page/2G.md "wikilink")和[3G](../Page/3G.md "wikilink")或[Wi-Fi](../Page/Wi-Fi.md "wikilink")\[145\]。
 
@@ -572,10 +592,10 @@ iPhone為不同人士提供一個[無障礙環境](../Page/無障礙環境.md "w
 <td><p>iOS 4.2.1</p></td>
 <td><p>iOS 6.1.6</p></td>
 <td><p>iOS 7.1.2</p></td>
-<td><p>iOS 9.3.5</p></td>
+<td><p>iOS 9.3.6</p></td>
+<td><p>iOS 10.3.4</p></td>
 <td><p>iOS 10.3.3</p></td>
-<td><p>iOS 10.3.3</p></td>
-<td><p>iOS 12.4 預計可升級至 <a href="https://zh.wikipedia.org/wiki/iOS_13" title="wikilink">iOS 13</a></p></td>
+<td><p>iOS 12.4</p></td>
 <td><p>iOS 12.4 預計可升級至<a href="https://zh.wikipedia.org/wiki/iOS_13" title="wikilink">iOS 13</a></p></td>
 <td></td>
 <td></td>

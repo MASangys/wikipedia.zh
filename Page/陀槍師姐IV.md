@@ -1331,7 +1331,6 @@
 
   - [無綫電視官方網頁 - 陀槍師姐IV](https://web.archive.org/web/20140407221053/http://tvcity.tvb.com/drama/armed4/story/index.html)
   - [《陀槍師姐IV》 GOTV 第1集重溫](https://web.archive.org/web/20140222162310/http://gotv.tvb.com/programme/103220/153693/)
-  - [《陀槍師姐IV》 encoreTVB](https://encoretvb.com/cantonese/series/46hKxtHl-Armed_Reaction_IV)
 
 ## 電視節目的變遷
 

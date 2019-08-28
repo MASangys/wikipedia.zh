@@ -470,7 +470,7 @@ GZCA-7156</p></td>
 <td><p>13,823</p></td>
 <td><p>4位</p></td>
 <td><p>7回　</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/名偵探柯南_天空的劫難船" title="wikilink">名偵探柯南劇場版14</a> 主题曲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/名偵探柯南：天空的劫難船" title="wikilink">名偵探柯南：天空的劫難船</a> 主题曲</p></td>
 </tr>
 <tr class="even">
 <td><p>2011年6月29日</p></td>

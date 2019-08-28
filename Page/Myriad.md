@@ -12,9 +12,7 @@ Myriad拥有一个多控制界面可以与一个智能[软件](../Page/软件.md
 
 用户可以通过[Adobe Acrobat](../Page/Adobe_Acrobat.md "wikilink") Standard 7.0光碟中的data1.cab提出这个字体。
 
-另外，[香港](../Page/香港.md "wikilink")[地鐵](../Page/香港地鐵.md "wikilink")（現為[港鐵](../Page/港鐵.md "wikilink")一部分）在1998年以後建築的[車站](https://zh.wikipedia.org/wiki/車站 "wikilink")，以及[荔景](../Page/荔景站.md "wikilink")、[油麻地](../Page/油麻地站.md "wikilink")、[九龍灣](../Page/九龍灣站.md "wikilink")、[牛頭角及](../Page/牛頭角站.md "wikilink")[觀塘站](../Page/觀塘站.md "wikilink")的站名，以及沿途的大部份指示牌及標語，英文均是使用Myriad字形，其餘1997年前啟用的車站纖維板上及浮雕的文字則是使用[Helvetica](../Page/Helvetica.md "wikilink")體。
-
-而[九廣鐵路](../Page/九廣鐵路.md "wikilink")在1996年把Myriad字體加工成為[Casey](../Page/Casey.md "wikilink")字體，用於其[企業形象上](https://zh.wikipedia.org/wiki/企業形象 "wikilink")。
+另外，[香港](../Page/香港.md "wikilink")[地鐵](../Page/香港地鐵.md "wikilink")（現為[港鐵](../Page/港鐵.md "wikilink")一部分）在1998年以後建築的[車站](https://zh.wikipedia.org/wiki/車站 "wikilink")，以及[荔景](../Page/荔景站.md "wikilink")、[油麻地](../Page/油麻地站.md "wikilink")、[九龍灣](../Page/九龍灣站.md "wikilink")、[牛頭角及](../Page/牛頭角站.md "wikilink")[觀塘站](../Page/觀塘站.md "wikilink")的站名，以及沿途的大部份指示牌及標語，英文均是使用Myriad字形，其餘1997年前啟用的車站纖維板上及浮雕的文字則是使用[Helvetica](../Page/Helvetica.md "wikilink")體。 而[九廣鐵路](../Page/九廣鐵路.md "wikilink")在1996年把Myriad字體加工成為[Casey](../Page/Casey.md "wikilink")字體，用於其[企業形象上](https://zh.wikipedia.org/wiki/企業形象 "wikilink")。[南京地铁](../Page/南京地铁.md "wikilink")在营运初期曾参考港铁[将军澳线车站](https://zh.wikipedia.org/wiki/将军澳线 "wikilink")，将其1号线车站英文标识字体设为Myriad MM\[1\]，2011年后逐步更换为方正黑体\[2\]。
 
 ## 参照
 
@@ -30,3 +28,6 @@ Myriad拥有一个多控制界面可以与一个智能[软件](../Page/软件.md
   - [Linotype.com中展示的Myriad字体家族](http://www.linotype.com/1257/myriad-family.html)
 
 [Category:蘋果公司字體](https://zh.wikipedia.org/wiki/Category:蘋果公司字體 "wikilink") [Category:无衬线字体](https://zh.wikipedia.org/wiki/Category:无衬线字体 "wikilink") [Category:Adobe字体](https://zh.wikipedia.org/wiki/Category:Adobe字体 "wikilink")
+
+1.
+2.

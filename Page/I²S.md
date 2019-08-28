@@ -30,7 +30,7 @@ I²S的資料是從高位元（MSB）傳送至低位元（LSB），從字元選�
 
 |                                                       |                 |               |
 | ----------------------------------------------------- | --------------- | ------------- |
-| [Audio CD](../Page/CD.md "wikilink")                  | 44,1 kHz·16 bit | 1.4112 MBit/s |
+| [Audio CD](../Page/CD.md "wikilink")                  | 44.1 kHz·16 bit | 1.4112 MBit/s |
 | [DAT](https://zh.wikipedia.org/wiki/DAT "wikilink")   | 48 kHz·16 bit   | 1.536 MBit/s  |
 | [SACD](https://zh.wikipedia.org/wiki/SACD "wikilink") | 96 kHz·24 bit   | 4.608 MBit/s  |
 

@@ -328,6 +328,20 @@
 <td><p>383</p></td>
 <td><p>381</p></td>
 </tr>
+<tr class="odd">
+<td><p>C96</p></td>
+<td><p>2019年8月</p></td>
+<td><p>2506</p></td>
+<td><p>1613</p></td>
+<td><p>1597</p></td>
+<td><p>1095</p></td>
+<td><p>859</p></td>
+<td><p>500</p></td>
+<td><p>445</p></td>
+<td><p>379</p></td>
+<td><p>371</p></td>
+<td><p>335</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -337,7 +351,7 @@
   - [電車男](../Page/電車男_\(電視劇\).md "wikilink")：電視劇版本有描寫Comic Market。
   - [漫畫派對（comic party）](../Page/漫畫派對_\(遊戲\).md "wikilink")：一套以Comic Market為背景的美少女遊戲，有改編[動畫和](https://zh.wikipedia.org/wiki/動畫 "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
   - [月姬](../Page/月姬.md "wikilink")：[TYPE-MOON](../Page/TYPE-MOON.md "wikilink")的處女作。
-  - [幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")：動畫版第12話有描寫Comic Market。
+  - [幸運☆星](../Page/幸運☆星.md "wikilink")：動畫版第12話有描寫Comic Market。
   - [造夢同人誌](../Page/造夢同人誌.md "wikilink")
   - [命運石之門](../Page/命運石之門.md "wikilink")：原作遊戲及動畫中皆有提到Comic Market。
   - [輕鬆百合](../Page/輕鬆百合.md "wikilink")：動畫中有提到Comic Market。

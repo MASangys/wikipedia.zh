@@ -463,7 +463,7 @@ Fly To The Sky由[SM Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertai
 <tr class="even">
 <td><p>2006年</p></td>
 <td><p>2月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>Like a Man</p></td>
 <td><p>1位</p></td>
@@ -487,7 +487,7 @@ Fly To The Sky由[SM Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertai
 <tr class="odd">
 <td><p>2007年</p></td>
 <td><p>8月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
+<td><p><a href="../Page/Mnet.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 <td><p>My Angel</p></td>
 <td><p>1位</p></td>
@@ -534,6 +534,74 @@ Fly To The Sky由[SM Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertai
 </tr>
 </tbody>
 </table>
+
+| 各台冠軍歌曲獎座統計                           |
+| ------------------------------------ |
+| [Mnet](../Page/Mnet媒體.md "wikilink") |
+| 2                                    |
+| **一位總數：15**                          |
+
+### 主要音樂節目榜單排名 (2014年重組後)
+
+<table>
+<thead>
+<tr class="header">
+<th><p>主打歌曲排名成績</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>專輯</p></td>
+</tr>
+<tr class="even">
+<td><p>2014年</p></td>
+</tr>
+<tr class="odd">
+<td><p>CONTINUUM</p></td>
+</tr>
+<tr class="even">
+<td><p>2015年</p></td>
+</tr>
+<tr class="odd">
+<td><p>Love &amp; Hate</p></td>
+</tr>
+<tr class="even">
+<td><p>미워해야 한다면<br />
+(If I have to hate you)</p></td>
+</tr>
+<tr class="odd">
+<td><p>2017年</p></td>
+</tr>
+<tr class="even">
+<td><p>너의 계절<br />
+(Your Season)</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018年</p></td>
+</tr>
+<tr class="even">
+<td><p>i</p></td>
+</tr>
+<tr class="odd">
+<td><ul>
+<li>「*」：打榜中</li>
+<li>「(1)」：兩星期冠軍</li>
+<li>「[1]」：三星期冠軍</li>
+</ul>
+<ul>
+<li>「/」表示未有相關資料</li>
+<li>「<span style="background:#808080">　</span>」：該段時期未有設立排行榜</li>
+<li>取得《M! Countdown》、《人氣歌謠》、《Show Champion》及《THE SHOW》三週一位後，排名自動除外</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+| 各台冠軍歌曲獎座統計 (2014年重組後)                |
+| ------------------------------------ |
+| [Mnet](../Page/Mnet媒體.md "wikilink") |
+| 0                                    |
+| **一位總數：2**                           |
 
 ### 各專輯最高排名
 

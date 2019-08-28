@@ -24,8 +24,6 @@
     本作品男主角。隸屬於[聯合國](https://zh.wikipedia.org/wiki/聯合國 "wikilink")[太平洋方面第](https://zh.wikipedia.org/wiki/太平洋 "wikilink")11軍[橫濱](https://zh.wikipedia.org/wiki/橫濱 "wikilink")[基地衛士訓練](https://zh.wikipedia.org/wiki/基地 "wikilink")[學校第](https://zh.wikipedia.org/wiki/學校 "wikilink")207衛士訓練部隊的訓練兵（軍校畢業後任職少尉）。在UNLIMITED篇之中，原本身為白陵柊學園的[學生的他](https://zh.wikipedia.org/wiki/學生 "wikilink")，某日醒來突然進入一個發生了[外星人](../Page/外星人.md "wikilink")和人類的[戰爭的平行世界](https://zh.wikipedia.org/wiki/戰爭 "wikilink")，並且被捲入其中。而在本作中他則是經過時間跳躍，而再次回到當初來到平行世界的同一天&同一地點。有著成為衛士的才能。和UNLIMIMTED篇不同的是，現在他持有在UNLIMIMTED篇的三年以來所鍛鍊的軍事經驗和記憶。但，實際上他似乎有部分記憶流失
   -
     在前作UNLIMITED篇似乎完全沒有登場的她，其實已經出現過數次了。而在本作以最重要的女主角身分擔綱核心劇情。
-      -
-        在UNLIMITED篇中，武曾多次在橫濱基地地下研究室中見過的「容器中的人腦」，正是純夏所有的(所以她本來人格已死)，現時點她是Beta的[改造人或](https://zh.wikipedia.org/wiki/改造人 "wikilink")[生物電腦收集人類情報](https://zh.wikipedia.org/wiki/生物電腦 "wikilink")。而在ALTERNATIVE篇中，夕呼以武從「原來的世界」帶回的新理論使純夏復活為「ALTERNATIVE4」計劃的核心·00-UNIT（00單位）。
   -
     和武一樣身為聯合國橫濱基地第207訓練部隊的訓練兵（軍校畢業後任職少尉），也是日本帝國政威大將軍****的[雙胞胎](../Page/雙胞胎.md "wikilink")妹妹。在前作UNLIMITED篇時得知她是統治日本的將軍家族的[親戚](https://zh.wikipedia.org/wiki/親戚 "wikilink")，但並未說明詳情，而武直到12·5[事件才得知真相](https://zh.wikipedia.org/wiki/事件 "wikilink")。擅長接近戰（拔刀術），持有名刀皆琉神威的劍術高手。
       -

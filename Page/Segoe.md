@@ -30,23 +30,6 @@
 
 [Segoe_Script_sample-cat_article_Wikipedia.png](https://zh.wikipedia.org/wiki/File:Segoe_Script_sample-cat_article_Wikipedia.png "fig:Segoe_Script_sample-cat_article_Wikipedia.png") **Segoe Script**是一套手写体，此字体包含字形有[常规体](https://zh.wikipedia.org/wiki/常规体 "wikilink")、[粗体](https://zh.wikipedia.org/wiki/粗体 "wikilink")、[粗斜体](https://zh.wikipedia.org/wiki/粗斜体 "wikilink")、[伪斜体](../Page/伪斜体.md "wikilink")和[希腊文](https://zh.wikipedia.org/wiki/希腊文 "wikilink")&[俄文](https://zh.wikipedia.org/wiki/俄文 "wikilink")。
 
-### [阿拉伯数字](../Page/阿拉伯数字.md "wikilink")和[字母](../Page/字母.md "wikilink")的各种变化
-
-#### [阿拉伯数字](../Page/阿拉伯数字.md "wikilink")
-
-| [变形](../Page/变形.md "wikilink")\[3\] | [字体](../Page/字体.md "wikilink")[说明](https://zh.wikipedia.org/wiki/说明 "wikilink")                                    | [使用](https://zh.wikipedia.org/wiki/使用 "wikilink")[字符](../Page/字符.md "wikilink")                        |
-| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ |
-| 2个**[1](../Page/1.md "wikilink")**  | 若使用头尾相接的**[1](../Page/1.md "wikilink")**确实存在。即：由一笔相接的**[1](../Page/1.md "wikilink")**连成。                           | **[1](../Page/1.md "wikilink")**                                                                       |
-| 2个**[2](../Page/2.md "wikilink")**  | 为**[22](https://zh.wikipedia.org/wiki/22 "wikilink")**。                                                            | **[2](../Page/2.md "wikilink")**                                                                       |
-| 2个**[3](../Page/3.md "wikilink")**  | 为**[33](https://zh.wikipedia.org/wiki/33 "wikilink")**。                                                            | **[3](../Page/3.md "wikilink")**                                                                       |
-| 2个**[4](../Page/4.md "wikilink")**  | 为**[44](../Page/44.md "wikilink")**。 详见[基础数学/自然数](https://zh.wikipedia.org/wiki/wikibooks:zh:基础数学/自然数 "wikilink")。 | **[4](../Page/4.md "wikilink")**。如果有**[示例](https://zh.wikipedia.org/wiki/示例 "wikilink")**，也可以加粗**示例**。 |
-| 2个**[5](../Page/5.md "wikilink")**  | 也有**[55](https://zh.wikipedia.org/wiki/55 "wikilink")**。                                                           | **[5](../Page/5.md "wikilink")**                                                                       |
-| 2个**[6](../Page/6.md "wikilink")**  | 也有**[66](https://zh.wikipedia.org/wiki/66 "wikilink")**。                                                           | **[6](../Page/6.md "wikilink")**                                                                       |
-| 2个**[7](../Page/7.md "wikilink")**  | 也有**[77](https://zh.wikipedia.org/wiki/77 "wikilink")**。                                                           | **[7](../Page/7.md "wikilink")**                                                                       |
-| 2个**[8](../Page/8.md "wikilink")**  | 也有**[88](https://zh.wikipedia.org/wiki/88 "wikilink")**。                                                           | **[8](../Page/8.md "wikilink")**                                                                       |
-| 2个**[9](../Page/9.md "wikilink")**  | 最后有**[99](../Page/99.md "wikilink")**。                                                                             | '''[9](../Page/9.md "wikilink")"                                                                       |
-| 2个**[0](../Page/0.md "wikilink")**  | 在实际情况下，[0](../Page/0.md "wikilink")不能做头，实际为[100](../Page/100.md "wikilink")。                                       | **[0](../Page/0.md "wikilink")**                                                                       |
-
 ## 请参阅
 
   - [ClearType](../Page/ClearType.md "wikilink")
@@ -73,4 +56,3 @@
 
 1.  [The Two Faces of the Microsoft Brand](http://www.mcpmag.com/features/article.asp?EditorialsID=602)  (Doug Barney, July 2006)
 2.
-3.  变形字形中，小写数字的变形确定目标的基础。

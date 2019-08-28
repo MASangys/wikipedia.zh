@@ -2,7 +2,7 @@
 
 Windows PE最初是設計給個人電腦開發商使用，以便於電腦生產時將Windows入內，但目前也以[捆包的方式提供給一般的](https://zh.wikipedia.org/wiki/軟體開發套件 "wikilink")[軟體開發者使用](https://zh.wikipedia.org/wiki/軟體開發 "wikilink")，目前從[Windows XP以及之後的Windows公開版本都有支援](../Page/Windows_XP.md "wikilink")。
 
-## WinPE特點
+## WinPE特点
 
   - WinPE是簡化版的[Microsoft Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，放在一片可直接啟動的[CD](../Page/CD.md "wikilink")或[DVD光碟或者隨身碟](https://zh.wikipedia.org/wiki/DVD "wikilink")，以載入到記憶體的方式執行。特點是啟動時出現此版本Windows PE简化自之原版本的啟動畫面，以及出現簡單的圖形介面（[GUI](https://zh.wikipedia.org/wiki/GUI "wikilink")），亦能執行[Internet Explorer](../Page/Internet_Explorer.md "wikilink")。相比完整的Windows，Windows PE功能有限，主要用於系統維護。
   - WinPE支援[網路](https://zh.wikipedia.org/wiki/網路 "wikilink")，但只附帶以下工具：[命令提示字元](../Page/命令提示字元.md "wikilink")、[記事本](../Page/記事本.md "wikilink")和一些維護工具。

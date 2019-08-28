@@ -20,7 +20,7 @@
 
 2018年10月16日，BOYZ於九龍灣國際展貿中心匯星 Star Hall舉行《BOYZ The Unboxing Live》演唱會。\[6\]。
 
-2019年7月26日，因成員[張致恆](../Page/張致恆.md "wikilink")被爆醜聞而擱置BOYZ原定9月舉行的首次紅館演唱會。
+2019年7月26日，[英皇娛樂](../Page/英皇娛樂.md "wikilink")因成員[張致恆](../Page/張致恆.md "wikilink")被爆醜聞而擱置BOYZ原定9月舉行的首次紅館演唱會。二人原本有幸踏上紅館開演唱會，豈料Steven7月25日突然宣布婚訊，以及與未婚妻雯雯已誕下兒子，結果被多名女子爆料，揭出他一腳踏多船的劣行，Steven聲名盡毀。\[7\]後於8月2日宣佈該演唱會改為另一成員[關智斌](../Page/關智斌.md "wikilink")的個人演唱會。
 
 ## 音樂作品
 
@@ -30,16 +30,16 @@
 
 #### Boy'z時期
 
-|        |                           |
-| ------ | ------------------------- |
-| **年份** | **專輯名稱**                  |
-| 2003年  | 《LALA世界》\[7\]             |
-| 2003年  | 《一起喝采》\[8\]               |
-| 2003年  | 《A Year To Remember》\[9\] |
-| 2004年  | 《Boy'zone 男生圍》\[10\]      |
-| 2004年  | 《Boy'z Can Cook》\[11\]    |
-| 2011年  | 《Ready To Go 新曲+精選》\[12\] |
-| 2018年  | 《大男孩 新曲+精選》               |
+|        |                            |
+| ------ | -------------------------- |
+| **年份** | **專輯名稱**                   |
+| 2003年  | 《LALA世界》\[8\]              |
+| 2003年  | 《一起喝采》\[9\]                |
+| 2003年  | 《A Year To Remember》\[10\] |
+| 2004年  | 《Boy'zone 男生圍》\[11\]       |
+| 2004年  | 《Boy'z Can Cook》\[12\]     |
+| 2011年  | 《Ready To Go 新曲+精選》\[13\]  |
+| 2018年  | 《大男孩 新曲+精選》                |
 
 #### Sun Boy'z時期
 
@@ -279,9 +279,10 @@
 4.  [大馬密會 酒店談心 Eason發功幫霆鋒](http://hk.news.yahoo.com/%E5%A4%A7%E9%A6%AC%E5%AF%86%E6%9C%83-%E9%85%92%E5%BA%97%E8%AB%87%E5%BF%83-eason%E7%99%BC%E5%8A%9F%E5%B9%AB%E9%9C%86%E9%8B%92-223000366.html)
 5.  [張敬軒降兩度演唱會～19/6尾埸](https://www.youtube.com/watch?v=5Fjw2l37oxQ&t=7m37s)
 6.
-7.  [iTunes - Music - LALA世界 - EP by Boy'z](https://itunes.apple.com/hk/album/id543878501)
-8.  [iTunes - Music - 一起喝采 - EP by Boy'z](https://itunes.apple.com/hk/album/id543878933)
-9.  [iTunes - Music - A Year to Remember - EP by Boy'z](https://itunes.apple.com/hk/album/id544797319)
-10. [iTunes - Music - Boy'Zone 男生圍 by Boy'z](https://itunes.apple.com/hk/album/id543880668)
-11. [iTunes - Music - Boy'z Can Cook by Boy'z](https://itunes.apple.com/hk/album/id543881433)
-12. [iTunes - Music - Ready to Go by Boy'z](https://itunes.apple.com/hk/album/id543885889)
+7.
+8.  [iTunes - Music - LALA世界 - EP by Boy'z](https://itunes.apple.com/hk/album/id543878501)
+9.  [iTunes - Music - 一起喝采 - EP by Boy'z](https://itunes.apple.com/hk/album/id543878933)
+10. [iTunes - Music - A Year to Remember - EP by Boy'z](https://itunes.apple.com/hk/album/id544797319)
+11. [iTunes - Music - Boy'Zone 男生圍 by Boy'z](https://itunes.apple.com/hk/album/id543880668)
+12. [iTunes - Music - Boy'z Can Cook by Boy'z](https://itunes.apple.com/hk/album/id543881433)
+13. [iTunes - Music - Ready to Go by Boy'z](https://itunes.apple.com/hk/album/id543885889)

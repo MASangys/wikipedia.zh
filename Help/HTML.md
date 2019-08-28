@@ -182,39 +182,43 @@ This is a paragraph.
 </thead>
 <tbody>
 <tr class="odd">
-<td><div class="sourceCode" id="cb1"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw">&lt;font&gt;</span></span></code></pre></div></td>
-<td><div class="sourceCode" id="cb2"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb2-1"><a href="#cb2-1"></a><span class="kw">&lt;span&gt;</span></span></code></pre></div></td>
-<td><p>定義文本样式。</p></td>
+<td><div class="sourceCode" id="cb1"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb1-1"><a href="#cb1-1"></a><span class="kw">&lt;font&gt;&lt;/font&gt;</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb2"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb2-1"><a href="#cb2-1"></a><span class="kw">&lt;span&gt;&lt;span&gt;</span></span></code></pre></div></td>
+<td><p>定義文字效果。</p></td>
 </tr>
 <tr class="even">
-<td><div class="sourceCode" id="cb3"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb3-1"><a href="#cb3-1"></a><span class="kw">&lt;s&gt;</span></span></code></pre></div></td>
-<td><div class="sourceCode" id="cb4"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb4-1"><a href="#cb4-1"></a><span class="kw">&lt;del&gt;</span></span></code></pre></div></td>
-<td><p>定义加删除线的文本。</p></td>
+<td><div class="sourceCode" id="cb3"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb3-1"><a href="#cb3-1"></a><span class="kw">&lt;s&gt;&lt;/s&gt;</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb4"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb4-1"><a href="#cb4-1"></a><span class="kw">&lt;del&gt;&lt;/del&gt;</span></span></code></pre></div>
+<div class="sourceCode" id="cb5"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb5-1"><a href="#cb5-1"></a><span class="kw">&lt;span</span><span class="ot"> style=</span><span class="st">&quot;text-decoration: line-through; &quot;</span><span class="kw">&gt;&lt;/span&gt;</span></span></code></pre></div></td>
+<td><p>添加刪除線。</p></td>
 </tr>
 <tr class="odd">
-<td><div class="sourceCode" id="cb5"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb5-1"><a href="#cb5-1"></a><span class="kw">&lt;center&gt;</span>文本<span class="kw">&lt;/center&gt;</span></span></code></pre></div></td>
-<td><p>您應該使用來表現把文字置中的效果。</p>
-<div class="sourceCode" id="cb6"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb6-1"><a href="#cb6-1"></a><span class="kw">&lt;div</span><span class="ot"> class=</span><span class="st">&quot;center&quot;</span><span class="ot"> style=</span><span class="st">&quot;width: auto; margin-left: auto; margin-right: auto;&quot;</span><span class="kw">&gt;</span>文本<span class="kw">&lt;/div&gt;</span></span></code></pre></div></td>
-<td><p>將文本水平置中在區塊內。</p></td>
+<td><div class="sourceCode" id="cb6"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb6-1"><a href="#cb6-1"></a><span class="kw">&lt;center&gt;&lt;/center&gt;</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb7"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb7-1"><a href="#cb7-1"></a><span class="kw">&lt;div</span><span class="ot"> style=</span><span class="st">&quot;text-align: center; &quot;</span><span class="kw">&gt;&lt;/div&gt;</span></span></code></pre></div>
+<div class="sourceCode" id="cb8"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb8-1"><a href="#cb8-1"></a><span class="kw">&lt;div</span><span class="ot"> style=</span><span class="st">&quot;width: auto; margin-left: auto; margin-right: auto; &quot;</span><span class="kw">&gt;&lt;/div&gt;</span></span></code></pre></div></td>
+<td><p>置中文字，也可以使用模板。</p></td>
 </tr>
 <tr class="even">
-<td><div class="sourceCode" id="cb7"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb7-1"><a href="#cb7-1"></a><span class="kw">&lt;big&gt;</span></span></code></pre></div></td>
-<td><p>純粹放大文本：</p>
-<div class="sourceCode" id="cb8"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb8-1"><a href="#cb8-1"></a><span class="kw">&lt;span</span><span class="ot"> style=</span><span class="st">&quot;font-size:large&quot;</span><span class="kw">&gt;</span></span></code></pre></div>
-<p><br />
-強調文本：</p>
-<div class="sourceCode" id="cb9"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb9-1"><a href="#cb9-1"></a><span class="kw">&lt;strong&gt;</span> / <span class="kw">&lt;em&gt;</span></span></code></pre></div></td>
-<td><p>定义大号文本。</p></td>
+<td><div class="sourceCode" id="cb9"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb9-1"><a href="#cb9-1"></a><span class="kw">&lt;big&gt;&lt;/big&gt;</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb10"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb10-1"><a href="#cb10-1"></a><span class="kw">&lt;span</span><span class="ot"> style=</span><span class="st">&quot;font-size: large; &quot;</span><span class="kw">&gt;&lt;/span&gt;</span></span></code></pre></div></td>
+<td><p>放大文字。</p></td>
 </tr>
 <tr class="odd">
-<td><div class="sourceCode" id="cb10"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb10-1"><a href="#cb10-1"></a><span class="kw">&lt;u&gt;</span></span></code></pre></div></td>
-<td></td>
-<td><p>非<a href="https://zh.wikipedia.org/wiki/超連結" title="wikilink">超連結文字不宜加底線</a>。</p></td>
+<td><div class="sourceCode" id="cb11"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb11-1"><a href="#cb11-1"></a><span class="kw">&lt;small&gt;&lt;/small&gt;</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb12"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb12-1"><a href="#cb12-1"></a><span class="kw">&lt;span</span><span class="ot"> style=</span><span class="st">&quot;font-size: small; &quot;</span><span class="kw">&gt;&lt;/span&gt;</span></span></code></pre></div></td>
+<td><p>縮小文字。</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
+<td><div class="sourceCode" id="cb13"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb13-1"><a href="#cb13-1"></a><span class="kw">&lt;strong&gt;&lt;/strong&gt;</span></span></code></pre></div>
+<div class="sourceCode" id="cb14"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb14-1"><a href="#cb14-1"></a><span class="kw">&lt;em&gt;&lt;/em&gt;</span></span></code></pre></div>
+<div class="sourceCode" id="cb15"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb15-1"><a href="#cb15-1"></a><span class="kw">&lt;b&gt;&lt;/b&gt;</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb16"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb16-1"><a href="#cb16-1"></a><span class="kw">&lt;span</span><span class="ot"> style=</span><span class="st">&quot;font-weight: bold; &quot;</span><span class="kw">&gt;&lt;/span&gt;</span></span></code></pre></div></td>
+<td><p>強調文字。</p></td>
+</tr>
+<tr class="odd">
+<td><div class="sourceCode" id="cb17"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb17-1"><a href="#cb17-1"></a><span class="kw">&lt;u&gt;&lt;/u&gt;</span></span></code></pre></div></td>
+<td><div class="sourceCode" id="cb18"><pre class="sourceCode html"><code class="sourceCode html"><span id="cb18-1"><a href="#cb18-1"></a><span class="kw">&lt;span</span><span class="ot"> style=</span><span class="st">&quot;text-decoration: underline; &quot;</span><span class="kw">&gt;&lt;/span&gt;</span></span></code></pre></div></td>
+<td><p>添加底線，但是非<a href="https://zh.wikipedia.org/wiki/超連結" title="wikilink">超連結文字不應添加</a>。</p></td>
 </tr>
 </tbody>
 </table>
@@ -269,7 +273,13 @@ This is a paragraph.
   );
 ```
 
-比如元素`<`**<span style="color:green;">`a`</span>**`>`在维基代码中被禁止使用，因此
+比如元素
+
+``` HTML
+<a>
+```
+
+在维基代码中被禁止使用，因此
 
 ``` html
 <a href="https://meta.wikimedia.org/wiki/Main_Page">Main Page</a>

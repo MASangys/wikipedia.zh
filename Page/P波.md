@@ -2,7 +2,7 @@
 
 [Earthquake_wave_shadow_zone.png](https://zh.wikipedia.org/wiki/File:Earthquake_wave_shadow_zone.png "fig:Earthquake_wave_shadow_zone.png")）\]\]
 
-對於地球內部構造的瞭解和推論，大部分是藉由觀測[地震波](../Page/地震波.md "wikilink")中的體波。地震波在不同[介質有不同傳播時間和路徑](https://zh.wikipedia.org/wiki/介質 "wikilink")，在介質交界面時會引起[反射](https://zh.wikipedia.org/wiki/反射 "wikilink")、[折射](../Page/折射.md "wikilink")，以及[相位的改變](https://zh.wikipedia.org/wiki/相位 "wikilink")。地震學家利用這些特性來獲得地球內部資訊。當體波穿越地球液態層時，P波在經過下部[地函與外](https://zh.wikipedia.org/wiki/地函 "wikilink")[地核時會稍許折射](https://zh.wikipedia.org/wiki/地核 "wikilink")。造成P波在104°至140°間\[1\]會有陰影區，令地震儀無法記錄。
+對於地球內部構造的瞭解和推論，大部分是藉由觀測[地震波](../Page/地震波.md "wikilink")中的體波。地震波在不同[介質有不同傳播時間和路徑](https://zh.wikipedia.org/wiki/介質 "wikilink")，在介質交界面時會引起[反射](https://zh.wikipedia.org/wiki/反射 "wikilink")、[折射](../Page/折射.md "wikilink")，以及[相位](../Page/相位.md "wikilink")的改變。地震學家利用這些特性來獲得地球內部資訊。當體波穿越地球液態層時，P波在經過下部[地函與外](https://zh.wikipedia.org/wiki/地函 "wikilink")[地核時會稍許折射](https://zh.wikipedia.org/wiki/地核 "wikilink")。造成P波在104°至140°間\[1\]會有陰影區，令地震儀無法記錄。
 
 ## 速度
 

@@ -1,4 +1,4 @@
-《**壹號皇庭III**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")時裝法律[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於1994年10月10日首播，共20集，監製[鄧特希](../Page/鄧特希.md "wikilink")。逢星期一至五播出。\[1\]\[2\]\[3\]\[4\]
+《**壹號皇庭III**》（[英文](https://zh.wikipedia.org/wiki/英語 "wikilink")：），[香港](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")時裝法律[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，於1994年10月10日首播，共20集，監製[鄧特希](../Page/鄧特希.md "wikilink")。初時逢星期日晚播出，後調至星期三晚綜藝時段播出（22：00後）。\[1\]\[2\]\[3\]\[4\]
 
 ## 各集主題
 

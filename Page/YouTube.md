@@ -350,7 +350,7 @@ YouTube早期的[總部位於](https://zh.wikipedia.org/wiki/總部 "wikilink")[
 
 YouTube採用Sorenson Spark與[HTML5](../Page/HTML5.md "wikilink")提供之影像編碼技術，將用戶上傳影像檔案進行壓縮轉檔。今日YouTube影片內容包羅萬象，涵蓋個人[影片及](../Page/视频.md "wikilink")[電視節目片段](../Page/电视.md "wikilink")，音樂錄影帶及家居錄影等。YouTube影像品質曾经遠不如[RealVideo](../Page/RealVideo.md "wikilink")與[Windows Media等線上串流技術](../Page/Windows_Media.md "wikilink")，但因低頻寬需求並可簡易地藉由Flash Plug-in內嵌於個人的[blog或其他網站中而迅速取得壓倒性的知名度與成功](../Page/網誌.md "wikilink")。不过现在YouTube的影片畫質却在各个影片网站中首屈一指，在2009年11月甚至支援1080p分辨率的高畫質影片\[20\] ，有研究與投資公司決策高層指出YouTube的網站流量需求極高，甚至每月需要付大約100萬美元的費用，在2006年3月，YouTube開始在網站賣廣告。然而目前已知，在YouTube中使用「播放清單」進行「自動播放」時，有導致影音播放不同步的累進誤差，導致此現象的原因至今不明。
 
-Youtube自2009年中起逐步減少支援[Internet Explorer 6及以下的舊版瀏覽器](../Page/Internet_Explorer_6.md "wikilink")，直到2010年3月13日，Youtube徹底停止支援。自2014年4月8日起，YouTube将停止支援的浏览器增加到[Internet Explorer 8及以下版本](../Page/Internet_Explorer_8.md "wikilink")。
+YouTube自2009年中起逐步減少支援[Internet Explorer 6及以下的舊版瀏覽器](../Page/Internet_Explorer_6.md "wikilink")，直到2010年3月13日，YouTube徹底停止支援。自2014年4月8日起，YouTube将停止支援的浏览器增加到[Internet Explorer 8及以下版本](../Page/Internet_Explorer_8.md "wikilink")。
 
 ### 影片播放
 
@@ -364,7 +364,7 @@ Youtube自2009年中起逐步減少支援[Internet Explorer 6及以下的舊版�
 
 ### 影片上傳
 
-擁有Youtube帳戶的使用者所能上傳的影片長度其標準限制時間為60分鐘（指單個）。2005年YouTube創站剛開始並沒有限制影片長度，但自2006年3月起，YouTube改將影片長度限制在10分鐘，這是因為YouTube發現超過這段時間的影片大多是未經授權而上傳的電視節目或者是電影內容，之後僅開放自2007年以前申請導演版帳號的使用者或是與YouTube有合作關係的大眾媒體，可以上傳超過60分鐘的影片。而自2010年7月起，YouTube放寬影片長度限制由10分鐘增加至60分鐘，而與YouTube有合作關係的大眾媒體，仍可以上傳超過60分鐘的影片。此外單個影片檔案最大限制大小如果是僅靠Flash上傳的為2[GB大小](../Page/吉字节.md "wikilink")，而如果使用[Java](../Page/Java.md "wikilink")上傳者則可增加至20GB。
+擁有YouTube帳戶的使用者所能上傳的影片長度其標準限制時間為60分鐘（指單個）。2005年YouTube創站剛開始並沒有限制影片長度，但自2006年3月起，YouTube改將影片長度限制在10分鐘，這是因為YouTube發現超過這段時間的影片大多是未經授權而上傳的電視節目或者是電影內容，之後僅開放自2007年以前申請導演版帳號的使用者或是與YouTube有合作關係的大眾媒體，可以上傳超過60分鐘的影片。而自2010年7月起，YouTube放寬影片長度限制由10分鐘增加至60分鐘，而與YouTube有合作關係的大眾媒體，仍可以上傳超過60分鐘的影片。此外單個影片檔案最大限制大小如果是僅靠Flash上傳的為2[GB大小](../Page/吉字节.md "wikilink")，而如果使用[Java](../Page/Java.md "wikilink")上傳者則可增加至20GB。
 
 2016年，YouTube調升上傳檔案上限為128GB，片長不超過12小時。未經驗證Google帳戶的YouTube使用者仍預設上傳片長上限為15分鐘\[24\]。
 
@@ -390,7 +390,7 @@ YouTube的影片上傳支援大多數常見的[視訊檔案格式](../Page/视�
 
 ### 資訊發佈模式
 
-隨著2005年YouTube的開站後，提供簡單的方法讓普通電腦用戶上傳影片。而[科技發達](https://zh.wikipedia.org/wiki/科技 "wikilink")、[寬頻](../Page/寬頻.md "wikilink")和[攝影器材的普及](https://zh.wikipedia.org/wiki/攝影器材 "wikilink")，使得短片資訊大行其道。憑藉其簡單的界面，使得YouTube可讓任何已上傳至網路的影片在幾分鐘之內使全世界觀眾觀看，這令[網民由傳統的接收資訊者](../Page/网民.md "wikilink")，變成資訊發佈者，網民更可成立自己的私人影院、影片發佈站、新聞站，而取代傳統的[傳播媒體](https://zh.wikipedia.org/wiki/传播媒体 "wikilink")。每人都可創立自己的[新聞頻道](../Page/新聞頻道.md "wikilink")，或上載家庭生活短片。在此同時，愈來愈多人欣賞網上短片，令電視的收視逐漸轉移至電腦螢幕。
+隨著2005年YouTube的開站後，提供簡單的方法讓普通電腦用戶上傳影片。而[科技發達](https://zh.wikipedia.org/wiki/科技 "wikilink")、[寬頻](../Page/寬頻.md "wikilink")和[攝影器材的普及](https://zh.wikipedia.org/wiki/攝影器材 "wikilink")，使得短片資訊大行其道。憑藉其簡單的界面，使得YouTube可讓任何已上傳至網路的影片在幾分鐘之內使全世界觀眾觀看，這令[網民由傳統的接收資訊者](../Page/网民.md "wikilink")，變成資訊發佈者，網民更可成立自己的私人影院、影片發佈站、新聞站，而取代傳統的[傳播媒體](../Page/传播媒体.md "wikilink")。每人都可創立自己的[新聞頻道](../Page/新聞頻道.md "wikilink")，或上載家庭生活短片。在此同時，愈來愈多人欣賞網上短片，令電視的收視逐漸轉移至電腦螢幕。
 
 一個早期YouTube對社會影響的例子如2006年的[巴士阿叔事件](../Page/巴士阿叔事件.md "wikilink")，並被廣泛的在主流媒體上討論。另一個YouTube影片獲得廣泛報導是一以[電吉他彈奏需](https://zh.wikipedia.org/wiki/電吉他 "wikilink")[掃弦奏法](https://zh.wikipedia.org/wiki/掃弦奏法 "wikilink")（Sweep picking）技巧的搖滾版的[D大調卡農](https://zh.wikipedia.org/wiki/D大調卡農 "wikilink")，表演者的名稱雖然沒有在影片出現，隨著超過數百萬次的播放後，由《[紐約時報](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")》披露吉他手的身份為23歲[南韓人](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[林正玄](../Page/Funtwo.md "wikilink")，他是在其臥室中拍下此段影片\[28\]。
 

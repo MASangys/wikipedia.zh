@@ -4,7 +4,7 @@ Xfce同時為程式設計者提供開發框架。除了Xfce本身，還有第三
 
 Xfce建基在[GTK+之上](https://zh.wikipedia.org/wiki/GTK+ "wikilink")。它使用[Xfwm作為視窗管理器](https://zh.wikipedia.org/wiki/Xfwm "wikilink")。"Xfce"的名字最初是代表" Common Environment"，但自從那時起，Xfce已被重寫了兩次而且不再使用XForms工具包。名字雖然仍被保留為Xfce，但現在已不會將其大寫作"XFce"。而開發者現在的任務是要使Xfce不再代表任何東西。
 
-現在最新版本為4.12，是在2015年2月28日發行的\[1\]。
+現在最新版本為4.14，是在2019年8月11日發行的\[1\]。
 
 以Xfce作為預設桌面的發行版：
 

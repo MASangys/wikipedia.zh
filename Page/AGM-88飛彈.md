@@ -89,7 +89,7 @@ AARGM 由美國國防部和[義大利國防部共同投資研發](https://zh.wik
 
 [分類:空對地飛彈](https://zh.wikipedia.org/wiki/分類:空對地飛彈 "wikilink")
 
-[Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink") [Category:反辐射导弹](https://zh.wikipedia.org/wiki/Category:反辐射导弹 "wikilink")
+[Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink") [Category:反辐射导弹](https://zh.wikipedia.org/wiki/Category:反辐射导弹 "wikilink") [Category:美國售台軍事裝備](https://zh.wikipedia.org/wiki/Category:美國售台軍事裝備 "wikilink")
 
 1.  [Navy Approves Full Rate Production for New Anti-Radiation Missile](http://www.strategicdefenceintelligence.com/article/0K5agW2Wpdg/2012/08/30/us_navy_authorises_frp_of_aargm_missile/)  - Strategicdefenseintelligence.com, August 30, 2012
 2.  [ATK Delivers 100th Advanced Anti-Radiation Guided Missile (AARGM) to U.S. Navy](http://www.prnewswire.com/news-releases/atk-delivers-100th-advanced-anti-radiation-guided-missile-aargm-to-us-navy-224053301.html) - PRNewswire.com, 17 September 2013

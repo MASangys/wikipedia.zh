@@ -45,7 +45,7 @@
 
 ### 連載完畢的作品
 
-  - [幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")（[美水鏡](../Page/美水鏡.md "wikilink")），其它雜誌仍在連載中
+  - [幸運☆星](../Page/幸運☆星.md "wikilink")（[美水鏡](../Page/美水鏡.md "wikilink")），其它雜誌仍在連載中
 
   - [ANGELIC LAYER](https://zh.wikipedia.org/wiki/ANGELIC_LAYER "wikilink")（[CLAMP](../Page/CLAMP.md "wikilink")）
 

@@ -4,6 +4,8 @@ IBM研究院的主要研究活動包括創新材料與結構的發明、高效�
 
 過去許多知名的科技發展也都出自此部門，例如[DES](https://zh.wikipedia.org/wiki/DES "wikilink")（Data Encryption Standard）加密演算、經典的電腦程式語言：[FORTRAN](https://zh.wikipedia.org/wiki/FORTRAN "wikilink")（Formula Translation System）、[本華·曼德博](../Page/本華·曼德博.md "wikilink")（Benoît B. Mandelbrot）的報告書中發表了[分形](https://zh.wikipedia.org/wiki/碎形 "wikilink")（Fractal）、磁性碟片儲存（[硬碟](https://zh.wikipedia.org/wiki/硬碟 "wikilink")）、用單一個[電晶體即可記憶一個比特的動態RAM](https://zh.wikipedia.org/wiki/電晶體 "wikilink")（Dynamic Random Access Memory，[DRAM](https://zh.wikipedia.org/wiki/DRAM "wikilink")）、精簡指令集電腦（[RISC](https://zh.wikipedia.org/wiki/RISC "wikilink")）架構、以及[關聯式資料庫等](https://zh.wikipedia.org/wiki/關聯式資料庫 "wikilink")。IBM研究院在物理科學上也有所貢獻，包括[掃描隧道顯微鏡](https://zh.wikipedia.org/wiki/掃描隧道顯微鏡 "wikilink")（簡稱：STM）以及高溫超導等，此兩項成就都獲得了[諾貝爾獎](https://zh.wikipedia.org/wiki/諾貝爾獎 "wikilink")。
 
+## 各地研究院
+
 IBM研究院在全球拥有十二个實驗室，其中三處在[美國本土](https://zh.wikipedia.org/wiki/美國 "wikilink")，分别是：
 
 1.  （Thomas J. Watson Research Center）共分佈在三個位置，分別是[紐約州約克鎮](https://zh.wikipedia.org/wiki/紐約州 "wikilink")（Yorktown, New York）、[霍桑](https://zh.wikipedia.org/wiki/霍桑 "wikilink")（Hawthorne, New York）、以及[马萨诸塞州](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")[剑桥](../Page/剑桥_\(马萨诸塞州\).md "wikilink")（Cambridge, Massachusetts）。
@@ -39,6 +41,6 @@ IBM中国研究院成立于1995年9月，是[IBM](../Page/IBM.md "wikilink")在�
   - [IBM Research位在蘇黎世的實驗室](http://www.zurich.ibm.com/)
   - [位在哥倫比亞大學的IBM華生研究實驗室之歷史](http://www.columbia.edu/acis/history/watsonlab.html)
 
-[Category:IBM](https://zh.wikipedia.org/wiki/Category:IBM "wikilink")
+[Category:IBM研究院](https://zh.wikipedia.org/wiki/Category:IBM研究院 "wikilink") [Category:计算机科学研究机构](https://zh.wikipedia.org/wiki/Category:计算机科学研究机构 "wikilink")
 
 1.  [IBM Watson Laboratory at Columbia University](http://www.columbia.edu/acis/history/watsonlab.html)

@@ -57,6 +57,7 @@ Core微架構是全新設計的处理器内部架構，但其有類似[Pentium M
 ## 另見
 
   - [英特爾微處理器列表](https://zh.wikipedia.org/wiki/英特爾微處理器列表 "wikilink")
+  - [Intel Core](https://zh.wikipedia.org/wiki/Intel_Core "wikilink")
 
 ## 參照
 
